@@ -47,7 +47,7 @@ class EURUSDTracker(Tracker):
     def track(self):
         usd_price = None
         cny_price = None
-        rates_xml = fetch(f'https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml')
+        rates_xml = fetch('https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml')
         rates = rates_xml.read().decode('utf-8').split('\n')
         for rate in rates:
             rate = rate.strip()
@@ -59,11 +59,18 @@ class EURUSDTracker(Tracker):
         return [Investment(self.name, self.date, Price(usd_price, "USD"), Price(usd_price, "USD")),
                 Investment(self.name, self.date, Price(cny_price, "CNY"), Price(cny_price, "CNY"))]
 
-class CrudeOilTracker(Tracker):
+class CrudeOilBrentTracker(Tracker):
     def __init__(self):
-        super().__init__("crude-oil-barrel")
-
+        super().__init__("crude-oil-brent-barrel")
     def track(self):
+        oil_page = fetch('https://oilprice.com/')
+        soup = BeautifulSoup(oil_page, 'html.parser')
+        rows = soup.find_all('tr', attrs = {'data-spread': 'Crude Oil Brent'})
+        for row in rows:
+            value_columns = row.find_all('td', attrs = {'class': 'value'})
+            if len(value_columns):
+                value = float(value_columns[0].text.strip())
+                return [Investment(self.name, self.date, Price(value, "USD"), Price(value, "USD"))]
         return []
 
 class GoldTracker(Tracker):
@@ -140,7 +147,7 @@ def as_html(investments):
 def main():
     TRACKERS = [
         EURUSDTracker(),
-        CrudeOilTracker(),
+        CrudeOilBrentTracker(),
         GoldTracker(),
         LegoSatellitTracker(),
         LegoSatellitenwartungTracker(),
