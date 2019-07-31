@@ -99,7 +99,7 @@ class LegoTracker(Tracker):
             if field.text.strip().startswith('New:'):
                 links = field.find_all('a')
                 if len(links):
-                    if links[0].text.contains('$'):
+                    if '$' in links[0].text:
                         currency = 'USD'
                     item_price = float(links[0].text.replace('~', '').replace('€', '').replace('$', ''))
                     break
