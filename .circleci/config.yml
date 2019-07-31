@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build:
+  track-and-publish:
     docker:
       - image: circleci/python:3.6.7
     steps:
@@ -22,3 +22,23 @@ jobs:
           name: Build and publish
           command: |
             make publish
+
+workflows:
+  version: 2
+  on-commit:
+    jobs:
+      - track-and-publish
+          filters:
+            branches:
+              only:
+                - master
+  at-0500-UTC-every-day:
+    triggers:
+      - schedule:
+          cron: "0 5 * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - track-and-publish
