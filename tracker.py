@@ -126,11 +126,11 @@ def as_html(investments):
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-
 <title>Investment tracker</title>
 </head>
 <body>
-<h1>Investments, last update ca. {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC</h1>
+<h1>Investments</h1>
+<p>Last update: ~ {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC</p>
 <pre>{investments}</pre>
 <a href="investments.csv">Download csv</a>
 </body>
