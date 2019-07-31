@@ -139,7 +139,11 @@ def as_html(investments):
 <h1>Investments</h1>
 <p>Last file update: ~ {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC</p>
 <pre>{investments}</pre>
-<a href="investments.csv">Download csv</a>
+<p>
+<a href="investments.csv">Download csv</a>,
+<a href="https://github.com/ooz/investment-tracker">code</a> crafted by <a href="https://ooz.github.io/">ooz</a>,
+2019
+</p>
 </body>
 </html>
 '''
