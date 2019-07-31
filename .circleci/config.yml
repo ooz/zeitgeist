@@ -27,7 +27,7 @@ workflows:
   version: 2
   on-commit:
     jobs:
-      - track-and-publish
+      - track-and-publish:
           filters:
             branches:
               only:
