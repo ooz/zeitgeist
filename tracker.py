@@ -119,6 +119,23 @@ class LegoRovertestfahrtTracker(LegoTracker):
         super().__init__("2019", "60225-1", "rovertestfahrt")
 
 
+def as_html(investments):
+    return f'''<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>Investment tracker</title>
+</head>
+<body>
+<h1>Investments, last update ca. {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC</h1>
+<pre>{investments}</pre>
+<a href="investments.csv">Download csv</a>
+</body>
+</html>
+'''
 
 def main():
     TRACKERS = [
@@ -133,12 +150,13 @@ def main():
     investments = [investment for tracker in TRACKERS for investment in tracker.track()]
 
     investments_csv = '\n'.join([str(investment) for investment in investments])
+    print(investments_csv)
     with open('investments.csv', 'w') as f:
         f.write(investments_csv + '\n')
 
-    investments_html = investments_csv
+    investments_html = as_html(investments_csv)
     with open('index.html', 'w') as f:
-        f.write(investments_html + '\n')
+        f.write(investments_html)
 
 if __name__ == "__main__":
     main()
