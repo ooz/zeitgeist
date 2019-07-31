@@ -32,10 +32,10 @@ workflows:
             branches:
               only:
                 - master
-  at-0500-UTC-every-day:
+  at-0300-and-1500-UTC-every-day:
     triggers:
       - schedule:
-          cron: "0 5 * * *"
+          cron: "0 3,15 * * *"
           filters:
             branches:
               only:
