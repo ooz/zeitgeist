@@ -149,7 +149,7 @@ def main():
 
     investments = [investment for tracker in TRACKERS for investment in tracker.track()]
 
-    investments_csv = '\n'.join([str(investment) for investment in investments])
+    investments_csv = 'date, investment, buy price, sell price\n' + '\n'.join([str(investment) for investment in investments])
     print(investments_csv)
     with open('investments.csv', 'w') as f:
         f.write(investments_csv + '\n')
