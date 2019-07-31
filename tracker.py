@@ -94,14 +94,17 @@ class LegoTracker(Tracker):
         lego_page = fetch(f'https://brickset.com/sets/{self.number}', wait=1)
         soup = BeautifulSoup(lego_page, 'html.parser')
         fields = soup.find_all('dd')
+        currency = 'EUR'
         for field in fields:
             if field.text.strip().startswith('New:'):
                 links = field.find_all('a')
                 if len(links):
-                    item_price = float(links[0].text.replace('~', '').replace('€', ''))
+                    if links[0].text.contains('$'):
+                        currency = 'USD'
+                    item_price = float(links[0].text.replace('~', '').replace('€', '').replace('$', ''))
                     break
 
-        return [Investment(self.name, self.date, Price(item_price, "EUR"), Price(item_price, "EUR"))]
+        return [Investment(self.name, self.date, Price(item_price, currency), Price(item_price, currency))]
 
 class LegoSatellitTracker(LegoTracker):
     def __init__(self):
