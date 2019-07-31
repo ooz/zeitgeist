@@ -12,7 +12,7 @@ jobs:
             make init
       - add_ssh_keys:
           fingerprints:
-            - "34:98:4e:a6:41:94:50:9d:6c:9b:cd:85:97:00:9c:8f"
+            - "a9:17:81:9b:4e:22:76:a8:7b:14:9b:36:6d:a3:7a:d6"
       - run:
           name: Configure git user
           command: |
