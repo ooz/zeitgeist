@@ -31,12 +31,12 @@ class Investment(object):
         self.sell_price = sell_price
 
     def __str__(self):
-        return f'{self.date.year}-{self.date.month}-{self.date.day}, {self.name}, {self.buy_price}, {self.sell_price}'
+        return f'{self.date}, {self.name}, {self.buy_price}, {self.sell_price}'
 
 class Tracker(object):
     def __init__(self, name):
         self.name = name
-        self.date = datetime.datetime.now()
+        self.date = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
     def track(self): # -> List[Investment]:
         raise NotImplementedError
@@ -137,7 +137,7 @@ def as_html(investments):
 </head>
 <body>
 <h1>Investments</h1>
-<p>Last update: ~ {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC</p>
+<p>Last file update: ~ {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC</p>
 <pre>{investments}</pre>
 <a href="investments.csv">Download csv</a>
 </body>
