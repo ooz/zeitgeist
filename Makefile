@@ -11,7 +11,8 @@ init:
 	pipenv install
 
 publish: all
-	git commit -am "Update by CircleCI `date` [skip ci]" || true
+	git add index.html investments.csv
+	git commit -m "Update by CircleCI `date` [skip ci]" || true
 	git push
 
 # Cleanup
