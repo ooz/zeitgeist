@@ -16,14 +16,15 @@ def as_html(investments, weather):
 <body>
 
 <h2>Investments</h2>
-<p>Last file update: ~ {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC</p>
 <pre>{investments}</pre>
 <p><a href="investments.csv">Download csv</a></p>
 
 <h2>Weather</h2>
 <pre>{weather}</pre>
 
-<p><a href="https://github.com/ooz/zeitgeist">code</a> crafted by <a href="https://ooz.github.io/">ooz</a>, 2019</p>
+<p>
+Last update: ~ {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC,
+<a href="https://github.com/ooz/zeitgeist">code</a> crafted by <a href="https://ooz.github.io/">ooz</a>, 2019</p>
 </body>
 </html>
 '''
