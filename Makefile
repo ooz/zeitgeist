@@ -1,6 +1,7 @@
 all: index
 
 track_investments:
+
 	pipenv run python3 tracker.py
 
 track_weather:
@@ -11,10 +12,9 @@ index: track_investments track_weather
 	pipenv run python3 indexer.py
 	$(MAKE) clean_weather
 
-publish: all
+publish: pull all
 	git add index.html investments.csv
 	git commit -m "Update by CircleCI `date` [skip ci]" || true
-	git pull origin master
 	git push
 
 # Setup
@@ -24,6 +24,9 @@ install_pipenv:
 init:
 	pipenv --python 3
 	pipenv install
+
+pull:
+	git pull origin master
 
 # Cleanup
 clean_vscode:
