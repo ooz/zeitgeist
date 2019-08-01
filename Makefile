@@ -14,6 +14,7 @@ index: track_investments track_weather
 publish: all
 	git add index.html investments.csv
 	git commit -m "Update by CircleCI `date` [skip ci]" || true
+	git pull origin master
 	git push
 
 # Setup
