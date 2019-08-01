@@ -9,6 +9,7 @@ track_weather:
 
 index: track_investments track_weather
 	pipenv run python3 indexer.py
+	$(MAKE) clean_weather
 
 publish: all
 	git add index.html investments.csv
@@ -30,8 +31,11 @@ clean_vscode:
 clean_artifacts:
 	rm -rf index.html investments.csv
 
-clean: clean_artifacts clean_vscode
+clean_weather:
+	rm -rf weather.txt stderr.txt
+
+clean: clean_artifacts clean_weather clean_vscode
 
 .PHONY: track_investments \
 install_pipenv init \
-clean_vscode clean_artifacts
+clean_vscode clean_artifacts clean_weather
