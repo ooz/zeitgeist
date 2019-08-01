@@ -127,28 +127,6 @@ class LegoRovertestfahrtTracker(LegoTracker):
         super().__init__("2019", "60225-1", "rovertestfahrt")
 
 
-def as_html(investments):
-    return f'''<!DOCTYPE html>
-<html lang="en-US">
-<head>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Investment tracker</title>
-</head>
-<body>
-<h1>Investments</h1>
-<p>Last file update: ~ {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC</p>
-<pre>{investments}</pre>
-<p>
-<a href="investments.csv">Download csv</a>,
-<a href="https://github.com/ooz/investment-tracker">code</a> crafted by <a href="https://ooz.github.io/">ooz</a>,
-2019
-</p>
-</body>
-</html>
-'''
-
 def main():
     TRACKERS = [
         EURUSDTracker(),
@@ -165,10 +143,6 @@ def main():
     print(investments_csv)
     with open('investments.csv', 'w') as f:
         f.write(investments_csv + '\n')
-
-    investments_html = as_html(investments_csv)
-    with open('index.html', 'w') as f:
-        f.write(investments_html)
 
 if __name__ == "__main__":
     main()
