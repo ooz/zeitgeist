@@ -1,11 +1,21 @@
-all: track index
+all: index
 
-track:
+track_investments:
 	pipenv run python3 tracker.py
 
-index:
+track_weather:
+	curl de.wttr.in/Leipzig?3TFq > weather.txt 2> stderr.txt
+	curl de.wttr.in/Hamburg?3TFq >> weather.txt 2>> stderr.txt
+
+index: track_investments track_weather
 	pipenv run python3 indexer.py
 
+publish: all
+	git add index.html investments.csv
+	git commit -m "Update by CircleCI `date` [skip ci]" || true
+	git push
+
+# Setup
 install_pipenv:
 	pip3 install pipenv
 
@@ -13,17 +23,15 @@ init:
 	pipenv --python 3
 	pipenv install
 
-publish: all
-	git add index.html investments.csv
-	git commit -m "Update by CircleCI `date` [skip ci]" || true
-	git push
-
 # Cleanup
 clean_vscode:
 	rm -rf .vscode
 
-clean: clean_vscode
+clean_artifacts:
+	rm -rf index.html investments.csv
 
-.PHONY: track index \
+clean: clean_artifacts clean_vscode
+
+.PHONY: track_investments \
 install_pipenv init \
-clean_vscode
+clean_vscode clean_artifacts

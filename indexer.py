@@ -4,7 +4,7 @@
 import datetime
 import os.path
 
-def as_html(investments):
+def as_html(investments, weather):
     return f'''<!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -14,14 +14,16 @@ def as_html(investments):
 <title>Zeitgeist</title>
 </head>
 <body>
+
 <h2>Investments</h2>
 <p>Last file update: ~ {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC</p>
 <pre>{investments}</pre>
-<p>
-<a href="investments.csv">Download csv</a>,
-<a href="https://github.com/ooz/zeitgeist">code</a> crafted by <a href="https://ooz.github.io/">ooz</a>,
-2019
-</p>
+<p><a href="investments.csv">Download csv</a></p>
+
+<h2>Weather</h2>
+<pre>{weather}</pre>
+
+<p><a href="https://github.com/ooz/zeitgeist">code</a> crafted by <a href="https://ooz.github.io/">ooz</a>, 2019</p>
 </body>
 </html>
 '''
@@ -34,7 +36,8 @@ def readfile(path):
 
 def main():
     investments_csv = readfile('investments.csv').strip()
-    investments_html = as_html(investments_csv)
+    weather = readfile('weather.txt').strip()
+    investments_html = as_html(investments_csv, weather)
     with open('index.html', 'w') as f:
         f.write(investments_html)
 
