@@ -37,6 +37,7 @@ class Tracker(object):
     def __init__(self, name):
         self.name = name
         self.date = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        self.investments = self.track()
 
     def track(self): # -> List[Investment]:
         raise NotImplementedError
@@ -94,8 +95,8 @@ class GoldTracker(Tracker):
 
 class LegoTracker(Tracker):
     def __init__(self, year, number, name):
-        super().__init__(f'lego-{year}-{number}-{name}')
         self.number = number
+        super().__init__(f'lego-{year}-{number}-{name}')
     def track(self):
         item_price = None
         lego_page = fetch(f'https://brickset.com/sets/{self.number}', wait=1)
@@ -158,7 +159,7 @@ def main():
         LegoRovertestfahrtTracker()
     ]
 
-    investments = [investment for tracker in TRACKERS for investment in tracker.track()]
+    investments = [investment for tracker in TRACKERS for investment in tracker.investments]
 
     investments_csv = 'date, investment, buy price, sell price\n' + '\n'.join([str(investment) for investment in investments])
     print(investments_csv)
