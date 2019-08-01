@@ -4,8 +4,8 @@ track_investments:
 	pipenv run python3 tracker.py
 
 track_weather:
-	curl de.wttr.in/Leipzig?3TFq > weather.txt 2> stderr.txt
-	curl de.wttr.in/Hamburg?3TFq >> weather.txt 2>> stderr.txt
+	curl de.wttr.in/Leipzig?3mTFq > weather.txt 2> stderr.txt
+	curl de.wttr.in/Hamburg?3mTFq >> weather.txt 2>> stderr.txt
 
 index: track_investments track_weather
 	pipenv run python3 indexer.py
