@@ -23,11 +23,10 @@ def as_html(investments, weather):
 <p><a href="https://de.wttr.in/Leipzig?3mFq" target="_blank">Leipzig</a>,
 <a href="https://de.wttr.in/Hamburg?3mFq" target="_blank">Hamburg</a>,
 <a href="https://de.wttr.in/Jena?3mFq" target="_blank">Jena</a></p>
-<pre>{weather}</pre>
+<iframe src="https://de.wttr.in/Leipzig?1mFq" style="border:none;" height="275px" width="890px"></iframe>
 
 <p>
-Last update: ~ {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC,
-<a href="https://github.com/ooz/zeitgeist">code</a> crafted by <a href="https://ooz.github.io/">ooz</a>, 2019</p>
+- <a href="https://github.com/ooz/zeitgeist">code</a> crafted by <a href="https://ooz.github.io/">ooz</a>, 2019</p>
 </body>
 </html>
 '''
