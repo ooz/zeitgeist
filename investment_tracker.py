@@ -133,8 +133,8 @@ def main():
         CrudeOilBrentTracker(),
         GoldTracker(),
         LegoSatellitTracker(),
-        LegoSatellitenwartungTracker(),
-        LegoRovertestfahrtTracker()
+        #LegoSatellitenwartungTracker(),
+        #LegoRovertestfahrtTracker()
     ]
 
     investments = [investment for tracker in TRACKERS for investment in tracker.investments]

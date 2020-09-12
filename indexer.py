@@ -28,7 +28,7 @@ def as_html(investments, news):
 <pre>{investments}</pre>
 
 <p>
-- tracking the <a href="https://github.com/ooz/zeitgeist">Zeitgeist</a> since 2019, by <a href="https://ooz.github.io/">ooz</a></p>
+- measuring the <a href="https://github.com/ooz/zeitgeist">Zeitgeist</a> since 2019, by <a href="https://ooz.github.io/">ooz</a></p>
 </body>
 </html>
 '''
