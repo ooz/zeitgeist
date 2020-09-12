@@ -35,7 +35,7 @@ workflows:
   at-0300-and-1500-UTC-every-day:
     triggers:
       - schedule:
-          cron: "0 3,15 * * *"
+          cron: "0 8,20 * * *"
           filters:
             branches:
               only:
