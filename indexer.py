@@ -29,7 +29,7 @@ def as_html(investments, news):
 {news}
 
 <p>
-- <a href="https://github.com/ooz/zeitgeist">code</a> crafted by <a href="https://ooz.github.io/">ooz</a>, 2019</p>
+- <a href="https://github.com/ooz/zeitgeist">code</a> crafted by <a href="https://ooz.github.io/">ooz</a>, 2019-2020</p>
 </body>
 </html>
 '''
