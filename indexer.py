@@ -15,9 +15,8 @@ def as_html(investments, news):
 </head>
 <body>
 
-<h2>Investments</h2>
-<pre>{investments}</pre>
-<p><a href="investments.csv">Download csv</a></p>
+<h2>News</h2>
+{news}
 
 <h2>Weather</h2>
 <p><a href="https://de.wttr.in/Leipzig?3mFq" target="_blank">Leipzig</a>,
@@ -25,11 +24,11 @@ def as_html(investments, news):
 <a href="https://de.wttr.in/Jena?3mFq" target="_blank">Jena</a></p>
 <img src="https://de.wttr.in/Leipzig_1mFq.png" />
 
-<h2>News</h2>
-{news}
+<h2>Investments<a href="investments.csv">.csv</a></h2>
+<pre>{investments}</pre>
 
 <p>
-- <a href="https://github.com/ooz/zeitgeist">code</a> crafted by <a href="https://ooz.github.io/">ooz</a>, 2019-2020</p>
+- tracking the <a href="https://github.com/ooz/zeitgeist">Zeitgeist</a> since 2019, by <a href="https://ooz.github.io/">ooz</a></p>
 </body>
 </html>
 '''
