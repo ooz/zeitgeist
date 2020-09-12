@@ -81,4 +81,12 @@ DE = {
     'zum',
     'zwischen',
     'über',
+    'würden',
+    'seine',
+    'oder',
+    'zur',
+    'hatte',
+    'dieses',
+    'soll',
+    'tun',
 }
