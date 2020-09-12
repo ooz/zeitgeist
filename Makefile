@@ -3,6 +3,9 @@ all: index
 track_investments:
 	pipenv run python3 investment_tracker.py
 
+track_news:
+	pipenv run python3 news_tracker.py
+
 index: track_investments
 	pipenv run python3 indexer.py
 
@@ -32,5 +35,6 @@ clean_artifacts:
 clean: clean_artifacts clean_vscode
 
 .PHONY: track_investments \
+track_news \
 install_pipenv init \
 clean_vscode clean_artifacts
