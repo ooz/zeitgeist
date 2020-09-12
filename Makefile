@@ -6,7 +6,7 @@ track_investments:
 track_news:
 	pipenv run python3 news_tracker.py
 
-index: track_investments
+index: track_investments track_news
 	pipenv run python3 indexer.py
 
 publish: pull all
