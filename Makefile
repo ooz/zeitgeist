@@ -10,7 +10,7 @@ index: track_investments track_news
 	pipenv run python3 indexer.py
 
 publish: pull all
-	git add index.html investments.csv
+	git add index.html investments.csv news_links.html
 	git commit -m "Update by CircleCI `date` [skip ci]" || true
 	git push
 
