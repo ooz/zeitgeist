@@ -89,4 +89,6 @@ DE = {
     'dieses',
     'soll',
     'tun',
+    'beim',
+    'können',
 }
