@@ -15,7 +15,7 @@ def as_html(investments, news):
 </head>
 <body>
 
-<h2>News</h2>
+<h2>Language</h2>
 {news}
 
 <h2>Weather</h2>
