@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  track-and-publish:
+  build-and-publish:
     docker:
       - image: circleci/python:3.6.7
     steps:
@@ -22,23 +22,99 @@ jobs:
           name: Build and publish
           command: |
             make publish
+  track-often:
+    docker:
+      - image: circleci/python:3.6.7
+    steps:
+      - checkout
+      - run:
+          name: Install dependencies
+          command: |
+            make install_pipenv
+            make init
+      - add_ssh_keys:
+          fingerprints:
+            - "eb:56:96:1e:9d:3a:df:59:d7:28:94:50:e5:89:9b:14"
+      - run:
+          name: Configure git user
+          command: |
+            git config user.email "ooz@users.noreply.github.com"
+            git config user.name "ooz"
+      - run:
+          name: Track language
+          command: |
+            make track_language
+  track-rarely:
+    docker:
+      - image: circleci/python:3.6.7
+    steps:
+      - checkout
+      - run:
+          name: Install dependencies
+          command: |
+            make install_pipenv
+            make init
+      - add_ssh_keys:
+          fingerprints:
+            - "eb:56:96:1e:9d:3a:df:59:d7:28:94:50:e5:89:9b:14"
+      - run:
+          name: Configure git user
+          command: |
+            git config user.email "ooz@users.noreply.github.com"
+            git config user.name "ooz"
+      - run:
+          name: Track investements
+          command: |
+            make track_investments
 
 workflows:
   version: 2
+  # 1st
   on-commit:
     jobs:
-      - track-and-publish:
+      - track-often:
+          filters:
+              branches:
+                only:
+                  - master
+      - track-rarely:
+          filters:
+              branches:
+                only:
+                  - master
+      - build-and-publish:
           filters:
             branches:
               only:
                 - master
+          requires:
+            - track-often
+            - track-rarely
+  # 2nd
   at-0600-and-1800-UTC-every-day:
     triggers:
       - schedule:
-          cron: "0 6,18 * * *"
+          cron: "0 6,12,18 * * *"
           filters:
             branches:
               only:
                 - master
     jobs:
-      - track-and-publish
+      - track-often
+      - build-and-publish:
+          requires:
+            - track-often
+  # 3rd
+  at-1200-UTC-every-day:
+    triggers:
+      - schedule:
+          cron: "0 12 * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - track-rarely
+      - build-and-publish:
+          requires:
+            - track-rarely

@@ -1,15 +1,15 @@
-all: index
+all: track_language track_investments index
 
 track_investments:
 	pipenv run python3 investment_tracker.py
 
-track_news:
+track_language:
 	pipenv run python3 news_tracker.py
 
-index: track_investments track_news
+index:
 	pipenv run python3 indexer.py
 
-publish: pull all
+publish: pull index
 	git add .
 	git commit -m "Update by CircleCI `date` [skip ci]" || true
 	git push
@@ -35,6 +35,7 @@ clean_artifacts:
 clean: clean_artifacts clean_vscode
 
 .PHONY: track_investments \
-track_news \
+track_language \
+index \
 install_pipenv init \
 clean_vscode clean_artifacts
