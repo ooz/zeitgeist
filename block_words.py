@@ -13,6 +13,7 @@ DE = {
     'bei',
     'beim',
     'damit',
+    'dann'
     'darf',
     'das',
     'dem',
