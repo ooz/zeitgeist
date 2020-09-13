@@ -31,7 +31,7 @@ def as_html(investments, news):
 - measuring the
 <a href="https://github.com/ooz/zeitgeist">Zeitgeist</a>
 <a href="https://circleci.com/gh/ooz/zeitgeist" target="_blank"><img src="https://circleci.com/gh/ooz/zeitgeist.svg?style=shield" alt="Zeitgeist CircleCI build indicator" /></a>
-since 2019, by <a href="https://ooz.github.io/">ooz</a></p>
+since 2019, by <a href="https://oliz.io">ooz</a></p>
 </body>
 </html>
 '''
