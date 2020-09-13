@@ -86,7 +86,7 @@ def main():
 
     occured_at_least_twice = [w for w in word_db.words_by_usage() if w.usage_count > 1]
 
-    with open('.news.html', 'w') as f:
+    with open('news.html', 'w') as f:
         formatted = format_as_html(occured_at_least_twice) + '\n'
         f.write(formatted)
 

@@ -44,7 +44,7 @@ def readfile(path):
 
 def main():
     investments_csv = readfile('investments.csv').strip()
-    news = readfile('.news.html').strip()
+    news = readfile('news.html').strip()
     investments_html = as_html(investments_csv, news)
     with open('index.html', 'w') as f:
         f.write(investments_html)
