@@ -59,6 +59,7 @@ DE = {
     'meine',
     'mit',
     'muss',
+    'musste',
     'nach',
     'nicht',
     'noch',
