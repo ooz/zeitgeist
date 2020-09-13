@@ -66,6 +66,7 @@ DE = {
     'noch',
     'nun',
     'nur',
+    'ob',
     'oder',
     'sein',
     'seine',
