@@ -85,7 +85,6 @@ DE = {
     'vor',
     'war',
     'was',
-    'wenig',
     'werden',
     'wie',
     'wieder',
