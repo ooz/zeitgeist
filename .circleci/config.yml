@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build-and-publish:
+  track-all-and-publish:
     docker:
       - image: circleci/python:3.6.7
     steps:
@@ -19,9 +19,9 @@ jobs:
             git config user.email "ooz@users.noreply.github.com"
             git config user.name "ooz"
       - run:
-          name: Build and publish
+          name: Track all and publish
           command: |
-            make publish
+            make
   track-often:
     docker:
       - image: circleci/python:3.6.7
@@ -72,24 +72,11 @@ workflows:
   # 1st
   on-commit:
     jobs:
-      - track-often:
-          filters:
-              branches:
-                only:
-                  - master
-      - track-rarely:
-          filters:
-              branches:
-                only:
-                  - master
-      - build-and-publish:
+      - track-all-and-publish:
           filters:
             branches:
               only:
                 - master
-          requires:
-            - track-often
-            - track-rarely
   # 2nd
   at-0600-and-1800-UTC-every-day:
     triggers:
@@ -101,9 +88,6 @@ workflows:
                 - master
     jobs:
       - track-often
-      - build-and-publish:
-          requires:
-            - track-often
   # 3rd
   at-1200-UTC-every-day:
     triggers:
@@ -115,6 +99,3 @@ workflows:
                 - master
     jobs:
       - track-rarely
-      - build-and-publish:
-          requires:
-            - track-rarely

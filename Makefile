@@ -1,10 +1,8 @@
-all: pull track_language track_investments build
+all: pull track_language track_investments build commit push
 
-often: pull track_language commit push
+often: pull track_language build commit push
 
-rarely: pull track_investments commit push
-
-publish: pull build commit push
+rarely: pull track_investments build commit push
 
 # Track and building
 track_investments:
