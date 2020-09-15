@@ -111,3 +111,17 @@ DE = {
     'zwischen',
     'über',
 }
+
+LANGUAGES = {}
+LANGUAGES['DE'] = DE
+
+NON_WORD_CHARACTERS = [':', ',', '.', '!', '?', '-', '"']
+
+def normalize(word, lang='DE'):
+    w = word.lower()
+    for non_word_char in NON_WORD_CHARACTERS:
+        w = w.replace(non_word_char, '')
+    w = w.strip()
+    if w not in LANGUAGES[lang]:
+        return w
+    return ''

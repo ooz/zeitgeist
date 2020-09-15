@@ -3,7 +3,7 @@
 
 import feedparser
 
-import block_words
+import language.filters as lf
 
 SPON_RSS = 'https://www.spiegel.de/schlagzeilen/index.rss'
 
@@ -28,8 +28,8 @@ class WordDB(object):
     def add_words(self, text, link):
         words = text.split(' ')
         for word in words:
-            w = word.lower().replace(':', '').replace('.', '').replace(',', '').replace('"', '').replace('-', '').replace('!', '').replace('?', '')
-            if len(w) and w not in block_words.DE:
+            w = lf.normalize(word)
+            if len(w):
                 if w in self.words.keys():
                     self.words[w].add_occurrence(link)
                 else:
