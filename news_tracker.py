@@ -81,8 +81,9 @@ def main():
     word_db = WordDB()
     for item in spon['items']:
         link = item['link']
-        word_db.add_words(item['title'], link)
-        word_db.add_words(item['summary'], link)
+        if not link.startswith('https://www.spiegel.de/international/'): # don't mix DE and EN, focus on just DE for now
+            word_db.add_words(item['title'], link)
+            word_db.add_words(item['summary'], link)
 
     occured_at_least_twice = [w for w in word_db.words_by_usage() if w.usage_count > 1]
 
