@@ -4,9 +4,9 @@
 import language.filters as lf
 
 class Word(object):
-    def __init__(self, word, link):
+    def __init__(self, word, link, usage_count=1):
         self.word = word
-        self.usage_count = 1
+        self.usage_count = usage_count
         self.links = [link]
     def add_occurrence(self, link):
         self.usage_count += 1
