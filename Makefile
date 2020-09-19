@@ -32,9 +32,18 @@ commit:
 push:
 	git push
 
+test: clean_coverage
+	pipenv install --dev
+	pipenv run coverage run --source=. -m pytest -vv
+	pipenv run coverage report --omit="test/*"
+
 # Cleanup
 clean_vscode:
 	rm -rf .vscode
+
+clean_coverage:
+	rm -rf htmlcov/
+	rm -f .coverage
 
 clean_artifacts:
 	rm -rf index.html investments.csv
@@ -43,4 +52,4 @@ clean: clean_artifacts clean_vscode
 
 .PHONY: track_investments track_language build \
 install_pipenv init pull commit push \
-clean_vscode clean_artifacts
+clean_vscode clean_coverage clean_artifacts

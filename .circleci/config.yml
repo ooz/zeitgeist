@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  track-all-and-publish:
+  test-and-track-all-and-publish:
     docker:
       - image: circleci/python:3.6.7
     steps:
@@ -19,8 +19,9 @@ jobs:
             git config user.email "ooz@users.noreply.github.com"
             git config user.name "ooz"
       - run:
-          name: Track all and publish
+          name: Test and track all and publish
           command: |
+            make test
             make
   track-often:
     docker:
@@ -72,7 +73,7 @@ workflows:
   # 1st
   on-commit:
     jobs:
-      - track-all-and-publish:
+      - test-and-track-all-and-publish:
           filters:
             branches:
               only:
