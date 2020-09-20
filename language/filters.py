@@ -139,6 +139,7 @@ DE = {
     'wurden',
     'während',
     'würden',
+    'x',
     'zu',
     'zum',
     'zur',
