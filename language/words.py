@@ -65,7 +65,7 @@ class WordDB(object):
         words = sorted(words, reverse=True, key=lambda w: w.usage_count)
         return list(words)
     def old_words(self):
-        return [word for word in self.words if word.is_old()]
+        return [word for word in self.words.values() if word.is_old()]
     def as_json(self):
         '''Sorted & pretty printed, SCM-friendly
         '''
