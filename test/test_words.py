@@ -14,8 +14,8 @@ def test_word_as_json_snippet():
     word = w.Word('zeit', None, 3, '2020-08-15', '2020-09-01')
     assert word._as_json_snippet() == '"zeit": {"first": "2020-08-15", "last": "2020-09-01"},'
 
-def test_word_as_empty_json_snippet_with_too_few_usages():
-    word = w.Word('zeit', None, 1, '2020-08-15', '2020-09-01')
+def test_word_as_empty_json_snippet_if_it_is_on_filter_list():
+    word = w.Word('a', None, 1, '2020-08-15', '2020-09-01')
     assert word._as_json_snippet() == ''
 
 def test_worddb_as_json():

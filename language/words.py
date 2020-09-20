@@ -27,7 +27,7 @@ class Word(object):
         last = datetime.strptime(self.last, DATE_FORMAT)
         return (last - first).days < 31 # first seen in the last month
     def _as_json_snippet(self):
-        if len(lf.normalize(self.word)) and self.usage_count > 1:
+        if len(lf.normalize(self.word)):
             return '"%s": {"first": "%s", "last": "%s"},' % (self.word, self.first, self.last)
         return ''
     def __str__(self):
