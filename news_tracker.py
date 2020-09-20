@@ -26,7 +26,10 @@ def format_as_html(words):
         elif last_font_size > font_size:
             last_font_size = font_size
             buf.append('<br>')
-        buf.append(f'<span style="font-size:{font_size}pt;padding:2pt"><a href="news_links.html#{word.word}">{word.word}</a></span>')
+        color = 'blue'
+        if word.is_new():
+            color = 'green'
+        buf.append(f'<span style="font-size:{font_size}pt;padding:2pt"><a href="news_links.html#{word.word}" style="color:{color}">{word.word}</a></span>')
     buf.append('</p>')
     return '\n'.join(buf)
 

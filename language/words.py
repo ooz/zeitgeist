@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+from datetime import datetime
 import json
 import time
 
 import language.filters as lf
+
+DATE_FORMAT = '%Y-%m-%d'
 
 class Word(object):
     def __init__(self, word, link=None, usage_count=1, first=None, last=None):
@@ -19,6 +22,10 @@ class Word(object):
         self.last = _now_date()
         if link not in self.links:
             self.links.append(link)
+    def is_new(self):
+        first = datetime.strptime(self.first, DATE_FORMAT)
+        last = datetime.strptime(self.last, DATE_FORMAT)
+        return (last - first) < 31 # first seen in the last month
     def _as_json_snippet(self):
         if len(lf.normalize(self.word)) and self.usage_count > 1:
             return '"%s": {"first": "%s", "last": "%s"},' % (self.word, self.first, self.last)
@@ -65,7 +72,7 @@ class WordDB(object):
         return buf + '\n}\n'
 
 def _now_date():
-    return time.strftime('%Y-%m-%d', time.gmtime())
+    return time.strftime(DATE_FORMAT, time.gmtime())
 
 def worddb_from_file(filename):
     with open(filename) as f:
