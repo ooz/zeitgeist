@@ -2,20 +2,24 @@
 # -*- coding: utf-8 -*-
 
 import json
+import time
 
 import language.filters as lf
 
 class Word(object):
-    def __init__(self, word, link=None, usage_count=1, first='', last=''):
+    def __init__(self, word, link=None, usage_count=1, first=None, last=None):
         self.word = word
         self.usage_count = usage_count
         self.links = [link] if link else []
-        self.first = first
-        self.last = last
+        now = _now_date()
+        self.first = first or now
+        self.last = last or now
     def add_occurrence(self, link):
         self.usage_count += 1
         if link not in self.links:
             self.links.append(link)
+    def _as_json_snippet(self):
+        return '"%s": {"first": "%s", "last": "%s"},' % (self.word, self.first, self.last)
     def __str__(self):
         return f'({self.word}, {self.usage_count})'
     def __repr__(self):
@@ -40,10 +44,24 @@ class WordDB(object):
         words = self.words.values()
         words = sorted(words, reverse=True, key=lambda w: w.usage_count)
         return list(words)
+    def as_json(self):
+        '''Sorted & pretty printed, SCM-friendly
+        '''
+        buf = ['{']
+        keys = sorted(self.words.keys())
+        word_count = len(keys)
+        for i in range(word_count - 1):
+            key = keys[i]
+            buf.append(self.words[key]._as_json_snippet())
+        buf.append(self.words[keys[word_count - 1]]._as_json_snippet()[:-1]) # omit the last comma to form valid json
+        buf.append('}')
+        return '\n'.join(buf)
+
+def _now_date():
+    return time.strftime('%Y-%m-%d', time.gmtime())
 
 def worddb_from_file(filename):
     with open(filename) as f:
         data = json.load(f)
-        print(data)
         return WordDB(data)
-    return dict()
+    return WordDB()
