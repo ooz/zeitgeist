@@ -9,6 +9,8 @@ import language.filters as lf
 
 DATE_FORMAT = '%Y-%m-%d'
 
+NEW_FOR_DAYS = 14
+CLEANUP_AFTER_DAYS = 90 # not seen in last 3 months
 class Word(object):
     def __init__(self, word, link=None, usage_count=1, first=None, last=None):
         self.word = word
@@ -26,16 +28,16 @@ class Word(object):
     def is_new(self):
         first = datetime.strptime(self.first, DATE_FORMAT)
         last = datetime.strptime(self.last, DATE_FORMAT)
-        return (last - first).days < 31 # first seen in the last month
+        return (last - first).days <= NEW_FOR_DAYS
     def is_old(self):
         last = datetime.strptime(self.last, DATE_FORMAT)
         now = datetime.strptime(self._now, DATE_FORMAT)
         days_since_last_seen = (now - last).days
-        return days_since_last_seen > 30 # not seen in the last month
+        return days_since_last_seen > NEW_FOR_DAYS
     def is_obsolete(self):
         last = datetime.strptime(self.last, DATE_FORMAT)
         now = datetime.strptime(self._now, DATE_FORMAT)
-        return (now - last).days > 90 # not seen in the last 3 months
+        return (now - last).days > CLEANUP_AFTER_DAYS
     def _as_json_snippet(self):
         if len(lf.normalize(self.word)) and not self.is_obsolete():
             return '"%s": {"first": "%s", "last": "%s"},' % (self.word, self.first, self.last)
