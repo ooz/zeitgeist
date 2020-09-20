@@ -48,7 +48,7 @@ def format_as_html_links_list(words):
 DE_WORDDB = 'de.json'
 def main():
     spon = feedparser.parse(SPON_RSS)
-    worddb = w.WordDB(w.worddb_from_file(DE_WORDDB))
+    worddb = w.worddb_from_file(DE_WORDDB)
     for item in spon['items']:
         link = item['link']
         if not link.startswith('https://www.spiegel.de/international/'): # don't mix DE and EN, focus on just DE for now
