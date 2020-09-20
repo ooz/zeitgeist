@@ -11,17 +11,22 @@ def test_read_worddb_from_file():
     assert db.words['zeit'].last == '2020-09-01'
 
 def test_word_as_json_snippet():
-    word = w.Word('zeit', None, 0, '2020-08-15', '2020-09-01')
+    word = w.Word('zeit', None, 3, '2020-08-15', '2020-09-01')
     assert word._as_json_snippet() == '"zeit": {"first": "2020-08-15", "last": "2020-09-01"},'
+
+def test_word_as_empty_json_snippet_with_too_few_usages():
+    word = w.Word('zeit', None, 1, '2020-08-15', '2020-09-01')
+    assert word._as_json_snippet() == ''
 
 def test_worddb_as_json():
     worddb = w.WordDB()
-    worddb.add_words('Brown wolf jumps', None)
+    worddb.add_words('Brown wolf jumps. Brown wolf jumps.', None)
     assert re.match(r'''{
 "brown": {"first": "\d{4}-\d{2}-\d{2}", "last": "\d{4}-\d{2}-\d{2}"},
 "jumps": {"first": "\d{4}-\d{2}-\d{2}", "last": "\d{4}-\d{2}-\d{2}"},
 "wolf": {"first": "\d{4}-\d{2}-\d{2}", "last": "\d{4}-\d{2}-\d{2}"}
-}''', worddb.as_json())
+}
+''', worddb.as_json())
 
 def test_now():
     date = w._now_date()
