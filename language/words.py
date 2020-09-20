@@ -53,17 +53,15 @@ class WordDB(object):
         buf = ['{']
         keys = sorted(self.words.keys())
         word_count = len(keys)
-        for i in range(word_count - 1):
+        for i in range(word_count):
             key = keys[i]
             json = self.words[key]._as_json_snippet()
             if len(json):
                 buf.append(json)
+        buf = '\n'.join(buf)
         # For last word, we omit the trailing comma to form valid json
-        json = self.words[keys[word_count - 1]]._as_json_snippet()[:-1]
-        if len(json):
-            buf.append(json)
-        buf.append('}')
-        return '\n'.join(buf) + '\n'
+        buf = buf[:-1] + '\n}\n'
+        return buf
 
 def _now_date():
     return time.strftime('%Y-%m-%d', time.gmtime())
