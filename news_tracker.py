@@ -45,16 +45,17 @@ def format_as_html_links_list(words):
     return '\n'.join(buf)
 
 
+DE_WORDDB = 'de.json'
 def main():
     spon = feedparser.parse(SPON_RSS)
-    word_db = w.WordDB()
+    worddb = w.WordDB(w.worddb_from_file(DE_WORDDB))
     for item in spon['items']:
         link = item['link']
         if not link.startswith('https://www.spiegel.de/international/'): # don't mix DE and EN, focus on just DE for now
-            word_db.add_words(item['title'], link)
-            word_db.add_words(item['summary'], link)
+            worddb.add_words(item['title'], link)
+            worddb.add_words(item['summary'], link)
 
-    occured_at_least_twice = [w for w in word_db.words_by_usage() if w.usage_count > 1]
+    occured_at_least_twice = [w for w in worddb.words_by_usage() if w.usage_count > 1]
 
     with open('news.html', 'w') as f:
         formatted = format_as_html(occured_at_least_twice) + '\n'
@@ -63,6 +64,9 @@ def main():
     with open('news_links.html', 'w') as f:
         formatted = format_as_html_links_list(occured_at_least_twice) + '\n'
         f.write(formatted)
+
+    with open(DE_WORDDB, 'w') as f:
+        f.write(worddb.as_json())
 
 if __name__ == '__main__':
     main()
