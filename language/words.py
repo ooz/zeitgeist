@@ -27,6 +27,11 @@ class Word(object):
         first = datetime.strptime(self.first, DATE_FORMAT)
         last = datetime.strptime(self.last, DATE_FORMAT)
         return (last - first).days < 31 # first seen in the last month
+    def is_old(self):
+        last = datetime.strptime(self.last, DATE_FORMAT)
+        now = datetime.strptime(self._now, DATE_FORMAT)
+        days_since_last_seen = (now - last).days
+        return days_since_last_seen > 30 # not seen in the last month
     def is_obsolete(self):
         last = datetime.strptime(self.last, DATE_FORMAT)
         now = datetime.strptime(self._now, DATE_FORMAT)
@@ -59,6 +64,8 @@ class WordDB(object):
         words = self.words.values()
         words = sorted(words, reverse=True, key=lambda w: w.usage_count)
         return list(words)
+    def old_words(self):
+        return [word for word in self.words if word.is_old()]
     def as_json(self):
         '''Sorted & pretty printed, SCM-friendly
         '''
