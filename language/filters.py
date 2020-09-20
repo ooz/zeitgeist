@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 DE = {
+    'a',
     'ab',
     'aber',
     'als',
@@ -43,10 +44,12 @@ DE = {
     'erzählte',
     'es',
     'für',
+    'gab',
     'gegeben',
     'geht',
     'gesetzt',
     'gewesen',
+    'gibt',
     'ging',
     'habe',
     'haben',
@@ -122,6 +125,7 @@ DE = {
     'was',
     'weiter',
     'weitere',
+    'wer',
     'werden',
     'wie',
     'wieder',
