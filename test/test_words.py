@@ -18,6 +18,10 @@ def test_word_as_empty_json_snippet_if_it_is_on_filter_list():
     word = w.Word('a', None, 1, '2020-08-15', '2020-09-01')
     assert word._as_json_snippet() == ''
 
+def test_word_as_empty_json_if_obsolete():
+    word = w.Word('a', None, 1, '2020-01-01', '2020-02-01')
+    assert word._as_json_snippet() == ''
+
 def test_worddb_as_json():
     worddb = w.WordDB()
     worddb.add_words('Brown wolf jumps. Brown wolf jumps.', None)

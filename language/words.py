@@ -15,6 +15,7 @@ class Word(object):
         self.usage_count = usage_count
         self.links = [link] if link else []
         now = _now_date()
+        self._now = now
         self.first = first or now
         self.last = last or now
     def add_occurrence(self, link):
@@ -26,8 +27,12 @@ class Word(object):
         first = datetime.strptime(self.first, DATE_FORMAT)
         last = datetime.strptime(self.last, DATE_FORMAT)
         return (last - first).days < 31 # first seen in the last month
+    def is_obsolete(self):
+        last = datetime.strptime(self.last, DATE_FORMAT)
+        now = datetime.strptime(self._now, DATE_FORMAT)
+        return (now - last).days > 90 # not seen in the last 3 months
     def _as_json_snippet(self):
-        if len(lf.normalize(self.word)):
+        if len(lf.normalize(self.word)) and not self.is_obsolete():
             return '"%s": {"first": "%s", "last": "%s"},' % (self.word, self.first, self.last)
         return ''
     def __str__(self):
