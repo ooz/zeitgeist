@@ -20,7 +20,9 @@ class Word(object):
         if link not in self.links:
             self.links.append(link)
     def _as_json_snippet(self):
-        return '"%s": {"first": "%s", "last": "%s"},' % (self.word, self.first, self.last)
+        if len(lf.normalize(self.word)) and self.usage_count > 1:
+            return '"%s": {"first": "%s", "last": "%s"},' % (self.word, self.first, self.last)
+        return ''
     def __str__(self):
         return f'({self.word}, {self.usage_count})'
     def __repr__(self):
@@ -53,10 +55,15 @@ class WordDB(object):
         word_count = len(keys)
         for i in range(word_count - 1):
             key = keys[i]
-            buf.append(self.words[key]._as_json_snippet())
-        buf.append(self.words[keys[word_count - 1]]._as_json_snippet()[:-1]) # omit the last comma to form valid json
+            json = self.words[key]._as_json_snippet()
+            if len(json):
+                buf.append(json)
+        # For last word, we omit the trailing comma to form valid json
+        json = self.words[keys[word_count - 1]]._as_json_snippet()[:-1]
+        if len(json):
+            buf.append(json)
         buf.append('}')
-        return '\n'.join(buf)
+        return '\n'.join(buf) + '\n'
 
 def _now_date():
     return time.strftime('%Y-%m-%d', time.gmtime())
