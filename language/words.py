@@ -25,7 +25,7 @@ class Word(object):
     def is_new(self):
         first = datetime.strptime(self.first, DATE_FORMAT)
         last = datetime.strptime(self.last, DATE_FORMAT)
-        return (last - first) < 31 # first seen in the last month
+        return (last - first).days < 31 # first seen in the last month
     def _as_json_snippet(self):
         if len(lf.normalize(self.word)) and self.usage_count > 1:
             return '"%s": {"first": "%s", "last": "%s"},' % (self.word, self.first, self.last)
