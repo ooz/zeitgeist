@@ -16,6 +16,7 @@ class Word(object):
         self.last = last or now
     def add_occurrence(self, link):
         self.usage_count += 1
+        self.last = _now_date()
         if link not in self.links:
             self.links.append(link)
     def _as_json_snippet(self):
