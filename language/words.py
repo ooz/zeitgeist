@@ -60,8 +60,9 @@ class WordDB(object):
                 buf.append(json)
         buf = '\n'.join(buf)
         # For last word, we omit the trailing comma to form valid json
-        buf = buf[:-1] + '\n}\n'
-        return buf
+        if buf[-1] == ',':
+            buf = buf[:-1]
+        return buf + '\n}\n'
 
 def _now_date():
     return time.strftime('%Y-%m-%d', time.gmtime())
