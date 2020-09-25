@@ -151,7 +151,7 @@ DE = {
 LANGUAGES = {}
 LANGUAGES['DE'] = DE
 
-NON_WORD_CHARACTERS = [':', ',', '.', '!', '?', '-', '"', '&', '–']
+NON_WORD_CHARACTERS = [':', ',', '.', '!', '?', '-', '"', '&', '–', '“', '(', ')']
 
 def normalize(word, lang='DE'):
     w = word.lower()
