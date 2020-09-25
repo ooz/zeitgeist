@@ -20,7 +20,8 @@ def as_html(investments, news):
 {news}
 
 <h2>Investments<a href="investments.csv">.csv</a></h2>
-<pre>{investments}</pre>
+<pre><code>{investments}
+</code></pre>
 
 <p>
 - measuring the
