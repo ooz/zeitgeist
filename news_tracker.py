@@ -11,11 +11,10 @@ SPON_RSS = 'https://www.spiegel.de/schlagzeilen/index.rss'
 MAX_DYNAMIC_SIZE_GAIN = 22
 MIN_SIZE = 10
 def format_as_html(words, old_words):
-    buf = ['<h3><a href="https://www.spiegel.de" target="_blank">spiegel.de</a></h3>']
-
     min_count = words[-1].usage_count if len(words) else 0
     max_count = words[0].usage_count if len(words) else 0
-    buf.append(f'<p>{max_count} to {min_count} occurrences</p>')
+
+    buf = [f'<h3><a href="https://www.spiegel.de" target="_blank">spiegel.de</a> ({max_count} to {min_count} occurrences)</h3>']
     buf.append('<p>')
     last_font_size = -1
     for word in words:
