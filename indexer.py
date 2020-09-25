@@ -19,12 +19,6 @@ def as_html(investments, news):
 <h2>Language</h2>
 {news}
 
-<h2>Weather</h2>
-<p><a href="https://de.wttr.in/Leipzig?3mFq" target="_blank">Leipzig</a>,
-<a href="https://de.wttr.in/Hamburg?3mFq" target="_blank">Hamburg</a>,
-<a href="https://de.wttr.in/Jena?3mFq" target="_blank">Jena</a></p>
-<img src="https://de.wttr.in/Leipzig_1mFq.png" />
-
 <h2>Investments<a href="investments.csv">.csv</a></h2>
 <pre>{investments}</pre>
 
