@@ -12,6 +12,7 @@ def as_html(investments, news):
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Zeitgeist</title>
+<link rel="stylesheet" href="static/oz.css">
 </head>
 <body>
 
