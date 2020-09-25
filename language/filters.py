@@ -57,6 +57,7 @@ DE = {
     'hatte',
     'hält',
     'heute',
+    'hier',
     'ihm',
     'ihn',
     'ihr',
