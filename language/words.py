@@ -20,11 +20,18 @@ class Word(object):
         self._now = now
         self.first = first or now
         self.last = last or now
-    def add_occurrence(self, link):
+    def add_occurrence(self, link=None):
         self.usage_count += 1
         self.last = _now_date()
-        if link not in self.links:
+        if link and link not in self.links:
             self.links.append(link)
+    def merge(self, other):
+        if self.word == other.word:
+            self.usage_count += other.usage_count
+            self.first = self.first if self.first < other.first else other.first
+            self.last = self.last if self.last > other.last else other.last
+            # don't merge links for now
+        return self
     def is_new(self):
         first = datetime.strptime(self.first, DATE_FORMAT)
         last = datetime.strptime(self.last, DATE_FORMAT)
@@ -53,7 +60,7 @@ class WordDB(object):
         for word in self.words.keys():
             w = self.words[word]
             self.words[word] = Word(word, None, 0, w['first'], w['last'])
-    def add_words(self, text, link):
+    def add_words(self, text, link=None):
         words = text.split(' ')
         for word in words:
             w = lf.normalize(word)
@@ -68,6 +75,15 @@ class WordDB(object):
         return list(words)
     def old_words(self):
         return [word for word in self.words.values() if word.is_old()]
+    def merge(self, other):
+        for w in other.words.keys():
+            this_entry = self.words.get(w, None)
+            other_word = other.words[w]
+            if this_entry:
+                this_entry.merge(other_word)
+            else:
+                self.words[w] = other_word
+        return self
     def as_json(self):
         '''Sorted & pretty printed, SCM-friendly
         '''

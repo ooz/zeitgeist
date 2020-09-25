@@ -24,13 +24,49 @@ def test_word_as_empty_json_if_obsolete():
 
 def test_worddb_as_json():
     worddb = w.WordDB()
-    worddb.add_words('Brown wolf jumps. Brown wolf jumps.', None)
+    worddb.add_words('Brown wolf jumps. Brown wolf jumps.')
     assert re.match(r'''{
 "brown": {"first": "\d{4}-\d{2}-\d{2}", "last": "\d{4}-\d{2}-\d{2}"},
 "jumps": {"first": "\d{4}-\d{2}-\d{2}", "last": "\d{4}-\d{2}-\d{2}"},
 "wolf": {"first": "\d{4}-\d{2}-\d{2}", "last": "\d{4}-\d{2}-\d{2}"}
 }
 ''', worddb.as_json())
+
+def test_worddb_should_retain_insertion_order():
+    '''As of Python 3.6 dict retaining insertion order is an implementation detail of CPython
+    With Python 3.7 it will be a language standard, see: https://github.com/naftaliharris/tauthon/issues/86
+    WordDB retaining insertion order (as opposed to lexicographic order) is useful to see word contexts in
+    the word cloud.
+    '''
+    worddb = w.WordDB()
+    worddb.add_words('Alle satten Entchen. Alle satten Entchen.')
+    worddb.add_words('Der Schwan sammelte alle satten Entchen.')
+
+    by_usage = [word.word for word in worddb.words_by_usage()]
+    assert by_usage == ['alle', 'satten', 'entchen', 'schwan', 'sammelte']
+
+def test_merge_worddb():
+    worddb = w.WordDB()
+    worddb.add_words('Alle satten Entchen. Alle satten Entchen im Auto.')
+    worddb_from_file = w.worddb_from_file('test/example_worddb.json')
+
+    worddb.merge(worddb_from_file)
+
+    by_usage = [word.word for word in worddb.words_by_usage()]
+    assert by_usage == ['alle', 'satten', 'entchen', 'auto', 'welt', 'zeit']
+
+def test_merge_word():
+    #self, word, link=None, usage_count=1, first=None, last=None
+    aword = w.Word('zeit', 'https://example.com', 3, '2020-05-15', '2020-05-15')
+    other = w.Word('zeit', 'https://example.com/other', 1, '2020-01-15', '2020-03-15')
+
+    aword = aword.merge(other)
+
+    assert aword.word == 'zeit'
+    assert aword.links == ['https://example.com']
+    assert aword.usage_count == 4
+    assert aword.first == '2020-01-15'
+    assert aword.last == '2020-05-15'
 
 def test_now():
     date = w._now_date()
