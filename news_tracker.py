@@ -8,8 +8,8 @@ import language.words as w
 
 SPON_RSS = 'https://www.spiegel.de/schlagzeilen/index.rss'
 
-MAX_DYNAMIC_SIZE_GAIN = 22
-MIN_SIZE = 10
+MAX_DYNAMIC_SIZE_GAIN = 24
+MIN_SIZE = 12
 def format_as_html(words, old_words):
     min_count = words[-1].usage_count if len(words) else 0
     max_count = words[0].usage_count if len(words) else 0
@@ -28,7 +28,7 @@ def format_as_html(words, old_words):
         color = 'blue'
         if word.is_new():
             color = 'green'
-        buf.append(f'<span style="font-size:{font_size}pt;padding:2pt"><a href="news_links.html#{word.word}" style="color:{color}">{word.word}</a></span>')
+        buf.append(f'<span style="font-size:{font_size}pt"><a href="news_links.html#{word.word}" style="color:{color}">{word.word}</a></span>')
     buf.append('</p>')
     if len(old_words):
         buf.append('<p style="font-size:12pt;color:red;">')
