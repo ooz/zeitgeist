@@ -15,7 +15,7 @@ def format_as_html(words, old_words):
     max_count = words[0].usage_count if len(words) else 0
 
     buf = [f'<h3><a href="https://www.spiegel.de" target="_blank">spiegel.de</a> ({max_count} to {min_count} occurrences)</h3>']
-    buf.append('<p>')
+    buf.append('<p style="font-family:monospace;font-weight:bold">')
     last_font_size = -1
     for word in words:
         font_scale = (word.usage_count - min_count) / float(max_count - min_count)
