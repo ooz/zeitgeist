@@ -8,14 +8,14 @@ import language.words as w
 
 SPON_RSS = 'https://www.spiegel.de/schlagzeilen/index.rss'
 
-MAX_DYNAMIC_SIZE_GAIN = 24
+MAX_DYNAMIC_SIZE_GAIN = 20
 MIN_SIZE = 12
 def format_as_html(words, old_words):
     min_count = words[-1].usage_count if len(words) else 0
     max_count = words[0].usage_count if len(words) else 0
 
     buf = [f'<h3><a href="https://www.spiegel.de" target="_blank">spiegel.de</a> ({max_count} to {min_count} occurrences)</h3>']
-    buf.append('<p style="font-family:monospace;font-weight:bold">')
+    buf.append('<p style="font-family:monospace">')
     last_font_size = -1
     for word in words:
         font_scale = (word.usage_count - min_count) / float(max_count - min_count)
