@@ -66,6 +66,7 @@ DE = {
     'ihrem',
     'ihren',
     'ihrer',
+    'ihres',
     'im',
     'immer',
     'in',
