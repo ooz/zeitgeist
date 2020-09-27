@@ -60,6 +60,7 @@ DE = {
     'hier',
     'ihm',
     'ihn',
+    'ihnen',
     'ihr',
     'ihre',
     'ihrem',
