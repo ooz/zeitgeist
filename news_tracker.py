@@ -37,7 +37,8 @@ def format_as_html(words, old_words):
     return '\n'.join(buf)
 
 def format_as_html_links_list(words):
-    buf = ['<h1>News Links</h1>']
+    buf = ['<!DOCTYPE html>']
+    buf.append('<h1>News Links</h1>')
     buf.append('<a href="index.html">back</a>')
     for word in words:
         w = word.word
