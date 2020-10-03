@@ -15,6 +15,7 @@ DE = {
     'beim',
     'bereits',
     'bis',
+    'bislang',
     'da',
     'dabei',
     'damit',
