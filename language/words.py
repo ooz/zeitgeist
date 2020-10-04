@@ -9,7 +9,7 @@ import language.filters as lf
 
 DATE_FORMAT = '%Y-%m-%d'
 
-NEW_FOR_DAYS = 14
+NEW_FOR_DAYS = 10
 CLEANUP_AFTER_DAYS = 90 # not seen in last 3 months
 class Word(object):
     def __init__(self, word, link=None, usage_count=1, first=None, last=None):
