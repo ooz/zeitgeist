@@ -10,6 +10,7 @@ import language.filters as lf
 DATE_FORMAT = '%Y-%m-%d'
 
 NEW_FOR_DAYS = 10
+OLD_AFTER_DAYS = 30
 CLEANUP_AFTER_DAYS = 90 # not seen in last 3 months
 class Word(object):
     def __init__(self, word, link=None, usage_count=1, first=None, last=None):
@@ -40,7 +41,7 @@ class Word(object):
         last = datetime.strptime(self.last, DATE_FORMAT)
         now = datetime.strptime(self._now, DATE_FORMAT)
         days_since_last_seen = (now - last).days
-        return days_since_last_seen > NEW_FOR_DAYS
+        return days_since_last_seen > OLD_AFTER_DAYS
     def is_obsolete(self):
         last = datetime.strptime(self.last, DATE_FORMAT)
         now = datetime.strptime(self._now, DATE_FORMAT)
