@@ -41,7 +41,7 @@ class Word(object):
         last = datetime.strptime(self.last, DATE_FORMAT)
         now = datetime.strptime(self._now, DATE_FORMAT)
         days_since_last_seen = (now - last).days
-        return days_since_last_seen > OLD_AFTER_DAYS
+        return days_since_last_seen > OLD_AFTER_DAYS and days_since_last_seen <= (OLD_AFTER_DAYS + NEW_FOR_DAYS)
     def is_obsolete(self):
         last = datetime.strptime(self.last, DATE_FORMAT)
         now = datetime.strptime(self._now, DATE_FORMAT)
