@@ -7427,7 +7427,6 @@
 "jedenfalls": {"first": "2020-09-30", "last": "2020-09-30"},
 "jeder": {"first": "2020-09-22", "last": "2020-10-17"},
 "jedes": {"first": "2020-09-21", "last": "2020-10-17"},
-"jedoch": {"first": "2020-09-20", "last": "2020-10-17"},
 "jefferson": {"first": "2020-09-29", "last": "2020-10-05"},
 "jegliche": {"first": "2020-09-24", "last": "2020-09-24"},
 "jemals": {"first": "2020-10-05", "last": "2020-10-05"},
@@ -15373,7 +15372,6 @@
 "weihnachtsmärkten": {"first": "2020-09-27", "last": "2020-09-27"},
 "weihnachtsshow": {"first": "2020-09-30", "last": "2020-09-30"},
 "weihnachtstag": {"first": "2020-09-30", "last": "2020-09-30"},
-"weil": {"first": "2020-09-21", "last": "2020-10-17"},
 "wein": {"first": "2020-09-20", "last": "2020-10-11"},
 "weinanbaugebiet": {"first": "2020-09-29", "last": "2020-09-29"},
 "weingebiet": {"first": "2020-09-29", "last": "2020-09-29"},
@@ -15478,7 +15476,6 @@
 "wenigen": {"first": "2020-09-25", "last": "2020-10-16"},
 "weniger": {"first": "2020-09-20", "last": "2020-10-17"},
 "wenigsten": {"first": "2020-09-30", "last": "2020-09-30"},
-"wenn": {"first": "2020-09-20", "last": "2020-10-17"},
 "wenn's": {"first": "2020-10-10", "last": "2020-10-10"},
 "werbeanzeigen": {"first": "2020-10-14", "last": "2020-10-14"},
 "werbebanner": {"first": "2020-10-01", "last": "2020-10-02"},
@@ -16360,6 +16357,5 @@
 "„ich": {"first": "2020-09-27", "last": "2020-09-27"},
 "„unfreundliches": {"first": "2020-09-26", "last": "2020-09-26"},
 "„versprechen": {"first": "2020-09-26", "last": "2020-09-26"},
-"„wenn": {"first": "2020-09-22", "last": "2020-09-22"},
 "„wilkommen": {"first": "2020-09-21", "last": "2020-09-21"}
 }
