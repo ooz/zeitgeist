@@ -51,6 +51,7 @@ DE = {
     'für',
     'gab',
     'gegeben',
+    'gegen',
     'geht',
     'gesetzt',
     'gewesen',
