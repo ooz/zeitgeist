@@ -49,7 +49,7 @@ class Word(object):
         now = datetime.strptime(self._now, DATE_FORMAT)
         return (now - last).days > CLEANUP_AFTER_DAYS
     def _as_json_snippet(self):
-        if len(lf.normalize(self.word)) and not self.is_obsolete():
+        if len(lf.normalize(self.word)):
             return '"%s": {"first": "%s", "last": "%s"},' % (self.word, self.first, self.last)
         return ''
     def __str__(self):
@@ -95,7 +95,9 @@ class WordDB(object):
         word_count = len(keys)
         for i in range(word_count):
             key = keys[i]
-            json = self.words[key]._as_json_snippet()
+            json = ''
+            if not self.words[key].is_obsolete():
+                json = self.words[key]._as_json_snippet()
             if len(json):
                 buf.append(json)
         buf = '\n'.join(buf)
