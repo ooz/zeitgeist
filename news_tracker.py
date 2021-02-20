@@ -31,9 +31,12 @@ def format_as_html(words, old_words):
         buf.append(f'<span style="font-size:{font_size}pt"><a href="news_links.html#{word.word}" style="color:{color}">{word.word}</a></span>')
     buf.append('</p>')
     if len(old_words):
+        buf.append('<details>')
+        buf.append('<summary>Stopped talking about...</summary>')
         buf.append('<p style="font-size:12pt;color:red;">')
         buf.append(' '.join([w.word for w in old_words]))
         buf.append('</p>')
+        buf.append('</details>')
     return '\n'.join(buf)
 
 def format_as_html_links_list(words):
