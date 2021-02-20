@@ -37,7 +37,7 @@ def format_as_html(words, old_words):
         buf.append(' '.join([w.word for w in old_words]))
         buf.append('</p>')
         buf.append('</details>')
-    buf.append('<p>Legend: <span style="color:green">new</span>, <span style="color:blue">current</span>, <span style="color:red">unused</span></p>')
+    buf.append('<p>Legend: <span style="color:green">new</span>, <span style="color:blue">current</span>, <span style="color:red">former</span></p>')
     return '\n'.join(buf)
 
 def format_as_html_links_list(words):
