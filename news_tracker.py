@@ -32,11 +32,12 @@ def format_as_html(words, old_words):
     buf.append('</p>')
     if len(old_words):
         buf.append('<details>')
-        buf.append('<summary>Stopped talking about...</summary>')
+        buf.append('<summary>Stopped using...</summary>')
         buf.append('<p style="font-size:12pt;color:red;">')
         buf.append(' '.join([w.word for w in old_words]))
         buf.append('</p>')
         buf.append('</details>')
+    buf.append('<p>Legend: <span style="color:green">new</span>, <span style="color:blue">current</span>, <span style="color:red">unused</span></p>')
     return '\n'.join(buf)
 
 def format_as_html_links_list(words):
