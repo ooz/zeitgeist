@@ -79,10 +79,10 @@ workflows:
               only:
                 - master
   # 2nd
-  at-0600-and-1800-UTC-every-day:
+  at-1100-and-1800-UTC-every-day:
     triggers:
       - schedule:
-          cron: "0 6,12,18 * * *"
+          cron: "0 11,18 * * *"
           filters:
             branches:
               only:
@@ -90,10 +90,10 @@ workflows:
     jobs:
       - track-often
   # 3rd
-  at-1100-UTC-every-day:
+  at-1000-UTC-every-day:
     triggers:
       - schedule:
-          cron: "0 11 * * *"
+          cron: "0 10 * * *"
           filters:
             branches:
               only:
