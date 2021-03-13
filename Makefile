@@ -26,6 +26,8 @@ pull:
 	git pull origin master
 
 commit:
+	git config user.email "ooz@users.noreply.github.com"
+	git config user.name "ooz"
 	git add .
 	git commit -m "Update by CircleCI `date` [skip ci]" || true
 
