@@ -20,15 +20,12 @@ def as_html(investments, news):
 <h2>Language</h2>
 {news}
 
-<details>
-<summary><h2>Investments<a href="investments.csv">.csv</a></h2></summary>
+<h2>Investments<a href="investments.csv">.csv</a></h2>
 <p><a href="https://m1chart.com" target="_blank">M1 Chart</a>, <a href="https://stonksinbtc.xyz/" target="_blank">Stocks in BTC</a></p>
 <pre><code>{investments}
 </code></pre>
-</details>
 
-<p>
-- measuring the
+<p>- measuring the
 <a href="https://github.com/ooz/zeitgeist">Zeitgeist</a>
 <a href="https://circleci.com/gh/ooz/zeitgeist" target="_blank"><img src="https://circleci.com/gh/ooz/zeitgeist.svg?style=shield" alt="Zeitgeist CircleCI build indicator" /></a>
 since 2019, by <a href="https://oliz.io">oz</a></p>
