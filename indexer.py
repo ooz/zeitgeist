@@ -4,6 +4,7 @@
 import datetime
 import os.path
 
+# M1 Chart: https://levels.io/m1-chart/
 def as_html(investments, news):
     return f'''<!DOCTYPE html>
 <html lang="en-US">
