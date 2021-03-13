@@ -90,10 +90,10 @@ workflows:
     jobs:
       - track-often
   # 3rd
-  at-1000-UTC-every-day:
+  at-1000-UTC-every-wednesday:
     triggers:
       - schedule:
-          cron: "0 10 * * *"
+          cron: "0 10 * * 3"
           filters:
             branches:
               only:
