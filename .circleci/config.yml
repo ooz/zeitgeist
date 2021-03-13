@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  test-and-track-all-and-publish:
+  test:
     docker:
       - image: circleci/python:3.6.7
     steps:
@@ -22,6 +22,27 @@ jobs:
           name: Test and track all and publish
           command: |
             make test
+  track-all:
+    docker:
+      - image: circleci/python:3.6.7
+    steps:
+      - checkout
+      - run:
+          name: Install dependencies
+          command: |
+            make install_pipenv
+            make init
+      - add_ssh_keys:
+          fingerprints:
+            - "eb:56:96:1e:9d:3a:df:59:d7:28:94:50:e5:89:9b:14"
+      - run:
+          name: Configure git user
+          command: |
+            git config user.email "ooz@users.noreply.github.com"
+            git config user.name "ooz"
+      - run:
+          name: Track all
+          command: |
             make
   track-often:
     docker:
@@ -73,7 +94,10 @@ workflows:
   # 1st
   on-commit:
     jobs:
-      - test-and-track-all-and-publish:
+      - test
+      - track-all:
+          requires:
+            - test
           filters:
             branches:
               only:
