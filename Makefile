@@ -1,8 +1,8 @@
-all: pull track_language track_investments build commit push
+all: pull track_language track_investments build deploy
 
-often: pull track_language build commit push
+often: pull track_language build deploy
 
-rarely: pull track_investments build commit push
+rarely: pull track_investments build deploy
 
 # Track and building
 track_investments:
@@ -25,13 +25,11 @@ init:
 pull:
 	git pull origin master
 
-commit:
+deploy:
 	git config user.email "ooz@users.noreply.github.com"
 	git config user.name "ooz"
 	git add .
 	git commit -m "Update by CircleCI `date` [skip ci]" || true
-
-push:
 	git push
 
 test: clean_coverage
