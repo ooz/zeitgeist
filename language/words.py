@@ -80,7 +80,7 @@ class WordDB(object):
         words = sorted(words, reverse=True, key=lambda w: w.usage_count)
         return list(words)
     def old_words(self):
-        return [word for word in self.words.values() if word.is_old()]
+        return sorted([word for word in self.words.values() if word.is_old()], key=lambda word: word.relevant_for_days(), reverse=True)
     def merge(self, other):
         for w in other.words.keys():
             this_entry = self.words.get(w, None)
