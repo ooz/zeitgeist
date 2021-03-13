@@ -93,6 +93,7 @@ DE = {
     'könnte',
     'könnten',
     'lassen',
+    'lässt',
     'machen',
     'mal',
     'man',
