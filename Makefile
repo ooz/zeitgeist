@@ -29,7 +29,7 @@ deploy:
 	git config user.email "ooz@users.noreply.github.com"
 	git config user.name "ooz"
 	git add .
-	git commit -m "Update by CircleCI `date` [skip ci]" || true
+	git commit -m "Automated update `date` [skip ci]" || true
 	git push
 
 test: clean_coverage
