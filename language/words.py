@@ -33,17 +33,20 @@ class Word(object):
             self.last = self.last if self.last > other.last else other.last
             # don't merge links for now
         return self
+    def relevant_for_days(self):
+        first = datetime.strptime(self.first, DATE_FORMAT)
+        last = datetime.strptime(self.last, DATE_FORMAT)
+        return (last - first).days
     def is_new(self):
         first = datetime.strptime(self.first, DATE_FORMAT)
         last = datetime.strptime(self.last, DATE_FORMAT)
-        return (last - first).days <= NEW_FOR_DAYS
+        return self.relevant_for_days() <= NEW_FOR_DAYS
     def is_old(self):
         first = datetime.strptime(self.first, DATE_FORMAT)
         last = datetime.strptime(self.last, DATE_FORMAT)
         now = datetime.strptime(self._now, DATE_FORMAT)
-        relevant_for_days = (last - first).days
         days_since_last_seen = (now - last).days
-        return days_since_last_seen > OLD_AFTER_DAYS and days_since_last_seen <= (OLD_AFTER_DAYS + NEW_FOR_DAYS) and relevant_for_days > NEW_FOR_DAYS
+        return days_since_last_seen > OLD_AFTER_DAYS and days_since_last_seen <= (OLD_AFTER_DAYS + NEW_FOR_DAYS) and self.relevant_for_days() > NEW_FOR_DAYS
     def is_obsolete(self):
         last = datetime.strptime(self.last, DATE_FORMAT)
         now = datetime.strptime(self._now, DATE_FORMAT)
