@@ -51,5 +51,5 @@ clean_artifacts:
 clean: clean_artifacts clean_vscode
 
 .PHONY: track_investments track_language build \
-install_pipenv init pull commit push \
+install_pipenv init pull deploy \
 clean_vscode clean_coverage clean_artifacts
