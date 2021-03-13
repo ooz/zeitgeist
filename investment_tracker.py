@@ -98,7 +98,7 @@ class LegoTracker(Tracker):
         self.number = number
         super().__init__(f'lego-{year}-{number}-{name}')
     def track(self):
-        item_price = None
+        item_price = '?'
         lego_page = fetch(f'https://brickset.com/sets/{self.number}', wait=1)
         soup = BeautifulSoup(lego_page, 'html.parser')
         fields = soup.find_all('dd')
@@ -133,8 +133,8 @@ def main():
         CrudeOilBrentTracker(),
         GoldTracker(),
         LegoSatellitTracker(),
-        #LegoSatellitenwartungTracker(),
-        #LegoRovertestfahrtTracker()
+        LegoSatellitenwartungTracker(),
+        LegoRovertestfahrtTracker()
     ]
 
     investments = [investment for tracker in TRACKERS for investment in tracker.investments]
