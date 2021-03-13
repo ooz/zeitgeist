@@ -17,7 +17,6 @@ jobs:
       - image: circleci/python:3.6.7
     steps:
       - checkout
-      - add-ssh-key
       - install-dependencies
       - run:
           name: Test
