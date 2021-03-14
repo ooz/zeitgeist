@@ -21,7 +21,7 @@ def as_html(investments, news):
 {news}
 
 <h2>Investments<a href="investments.csv">.csv</a></h2>
-<p><a href="https://m1chart.com" target="_blank">M1 Chart</a>, <a href="https://stonksinbtc.xyz/" target="_blank">Stocks in BTC</a></p>
+<p><a href="https://inflationchart.com" target="_blank">Inflation Chart</a>, <a href="https://stonksinbtc.xyz/" target="_blank">Stocks in BTC</a></p>
 <pre><code>{investments}
 </code></pre>
 
