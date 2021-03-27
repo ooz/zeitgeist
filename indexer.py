@@ -15,7 +15,7 @@ def as_html(investments, news):
 <meta http-equiv="Content-Security-Policy" content="script-src 'unsafe-inline'">
 <meta name="referrer" content="no-referrer">
 <title>Zeitgeist</title>
-<link rel="stylesheet" href="https://raw.githubusercontent.com/ooz/templates/master/css/oz.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/ooz/templates/master/css/oz.css">
 {darkmode_script_from_ggpy()}
 </head>
 <body onload="initTheme()">
@@ -31,7 +31,8 @@ def as_html(investments, news):
 <p>- measuring the
 <a href="https://github.com/ooz/zeitgeist">Zeitgeist</a>
 <a href="https://circleci.com/gh/ooz/zeitgeist" target="_blank"><img src="https://circleci.com/gh/ooz/zeitgeist.svg?style=shield" alt="Zeitgeist CircleCI build indicator" /></a>
-since 2019, by <a href="https://oliz.io">oz</a></p>
+since 2019, by <a href="https://oliz.io">oz</a>, <a href="javascript:toggleTheme()" class="nav">🌓</a>
+</p>
 </body>
 </html>
 '''
