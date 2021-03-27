@@ -14,9 +14,9 @@ def as_html(investments, news):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="referrer" content="no-referrer">
 <title>Zeitgeist</title>
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ooz/templates/css/oz.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ooz/templates/html/oz.css" />
 {language_style()}
-<script src="https://cdn.jsdelivr.net/gh/ooz/templates/css/oz-dark-mode.js" />
+<script src="https://cdn.jsdelivr.net/gh/ooz/templates/html/oz-dark-mode.js" />
 </head>
 <body onload="initTheme()">
 

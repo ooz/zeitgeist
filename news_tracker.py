@@ -43,8 +43,8 @@ def format_as_html(words, old_words):
 def format_as_html_links_list(words):
     buf = ['<!DOCTYPE html>']
     buf.append('<html><head>')
-    buf.append('<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ooz/templates/css/oz.css" />')
-    buf.append('<script src="https://cdn.jsdelivr.net/gh/ooz/templates/css/oz-dark-mode.js" />')
+    buf.append('<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ooz/templates/html/oz.css" />')
+    buf.append('<script src="https://cdn.jsdelivr.net/gh/ooz/templates/html/oz-dark-mode.js" />')
     buf.append('</head><body onload="initTheme()">')
     buf.append('<h1>News Links</h1>')
     buf.append('<a href="index.html">back</a>')
