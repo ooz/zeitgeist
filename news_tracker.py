@@ -42,6 +42,9 @@ def format_as_html(words, old_words):
 
 def format_as_html_links_list(words):
     buf = ['<!DOCTYPE html>']
+    buf.append('<html><head>')
+    buf.append('<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ooz/templates/css/oz.css" />')
+    buf.append('</head><body>')
     buf.append('<h1>News Links</h1>')
     buf.append('<a href="index.html">back</a>')
     for word in words:
@@ -53,6 +56,7 @@ def format_as_html_links_list(words):
             buf.append(f'<li><a href="{link}" target="_blank">{link}</a></li>')
         buf.append('</ul>')
         buf.append('</p>')
+    buf.append('</body></html>')
     return '\n'.join(buf)
 
 
