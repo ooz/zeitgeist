@@ -44,8 +44,8 @@ def language_style():
 .new { color: green; }
 .current { color: blue; }
 .former { color: red; }
-.darkmode .new { color: lightgreen; }
-.darkmode .current { color: lightblue; }
+.dark-mode .new { color: lightgreen; }
+.dark-mode .current { color: lightblue; }
 </style>'''
 
 def darkmode_script_from_ggpy():
