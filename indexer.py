@@ -12,10 +12,13 @@ def as_html(investments, news):
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="script-src 'unsafe-inline'">
+<meta name="referrer" content="no-referrer">
 <title>Zeitgeist</title>
 <link rel="stylesheet" href="https://raw.githubusercontent.com/ooz/templates/master/css/oz.css">
+{darkmode_script_from_ggpy()}
 </head>
-<body>
+<body onload="initTheme()">
 
 <h2>Language</h2>
 {news}
@@ -32,6 +35,14 @@ since 2019, by <a href="https://oliz.io">oz</a></p>
 </body>
 </html>
 '''
+
+def darkmode_script_from_ggpy():
+    '''See https://oliz.io/ggpy/
+    '''
+    return '''<script>
+function toggleTheme() { document.body.classList.toggle("dark-mode") }
+function initTheme() { let h=new Date().getHours(); if (h <= 8 || h >= 20) { toggleTheme() } }
+</script>'''
 
 def readfile(path):
     if os.path.isfile(path):
