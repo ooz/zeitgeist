@@ -16,7 +16,7 @@ def as_html(investments, news):
 <title>Zeitgeist</title>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ooz/templates/css/oz.css" />
 {language_style()}
-{darkmode_script_from_ggpy()}
+<script src="https://cdn.jsdelivr.net/gh/ooz/templates/css/oz-dark-mode.js" />
 </head>
 <body onload="initTheme()">
 
@@ -47,14 +47,6 @@ def language_style():
 .dark-mode .new { color: lightgreen; }
 .dark-mode .current { color: lightblue; }
 </style>'''
-
-def darkmode_script_from_ggpy():
-    '''See https://oliz.io/ggpy/
-    '''
-    return '''<script>
-function toggleTheme() { document.body.classList.toggle("dark-mode") }
-function initTheme() { let h=new Date().getHours(); if (h <= 8 || h >= 20) { toggleTheme() } }
-</script>'''
 
 def readfile(path):
     if os.path.isfile(path):
