@@ -16,7 +16,7 @@ def as_html(investments, news):
 <title>Zeitgeist</title>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ooz/templates/html/oz.css" />
 {language_style()}
-<script src="https://cdn.jsdelivr.net/gh/ooz/templates/html/oz-dark-mode.js" />
+<script src="https://cdn.jsdelivr.net/gh/ooz/templates/html/oz-dark-mode.js"></script>
 </head>
 <body onload="initTheme()">
 
