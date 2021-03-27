@@ -14,7 +14,7 @@ def as_html(investments, news):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="referrer" content="no-referrer">
 <title>Zeitgeist</title>
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/ooz/templates/master/css/oz.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ooz/templates/css/oz.css" />
 {darkmode_script_from_ggpy()}
 </head>
 <body onload="initTheme()">
