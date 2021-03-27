@@ -48,7 +48,7 @@ def format_as_html_links_list(words):
 function toggleTheme() { document.body.classList.toggle("dark-mode") }
 function initTheme() { let h=new Date().getHours(); if (h <= 8 || h >= 20) { toggleTheme() } }
 </script>''')
-    buf.append('</head><body onload="initTheme()>')
+    buf.append('</head><body onload="initTheme()">')
     buf.append('<h1>News Links</h1>')
     buf.append('<a href="index.html">back</a>')
     for word in words:
