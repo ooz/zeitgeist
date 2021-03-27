@@ -44,7 +44,11 @@ def format_as_html_links_list(words):
     buf = ['<!DOCTYPE html>']
     buf.append('<html><head>')
     buf.append('<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ooz/templates/css/oz.css" />')
-    buf.append('</head><body>')
+    buf.append('''<script>
+function toggleTheme() { document.body.classList.toggle("dark-mode") }
+function initTheme() { let h=new Date().getHours(); if (h <= 8 || h >= 20) { toggleTheme() } }
+</script>''')
+    buf.append('</head><body onload="initTheme()>')
     buf.append('<h1>News Links</h1>')
     buf.append('<a href="index.html">back</a>')
     for word in words:
@@ -56,6 +60,7 @@ def format_as_html_links_list(words):
             buf.append(f'<li><a href="{link}" target="_blank">{link}</a></li>')
         buf.append('</ul>')
         buf.append('</p>')
+    buf.append('<footer><a href="index.html" class="nav">back</a><a href="javascript:toggleTheme()" class="nav">🌓</a></footer>')
     buf.append('</body></html>')
     return '\n'.join(buf)
 
