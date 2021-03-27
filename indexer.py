@@ -15,6 +15,7 @@ def as_html(investments, news):
 <meta name="referrer" content="no-referrer">
 <title>Zeitgeist</title>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ooz/templates/css/oz.css" />
+{language_style()}
 {darkmode_script_from_ggpy()}
 </head>
 <body onload="initTheme()">
@@ -35,6 +36,15 @@ since 2019, by <a href="https://oliz.io">oz</a>, <a href="javascript:toggleTheme
 </body>
 </html>
 '''
+
+def language_style():
+    return '''<style>
+.new { color: green; }
+.current { color: blue; }
+.former { color: red; }
+.darkmode .new { color: lightgreen; }
+.darkmode .current { color: lightblue; }
+</style>'''
 
 def darkmode_script_from_ggpy():
     '''See https://oliz.io/ggpy/

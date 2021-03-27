@@ -25,19 +25,19 @@ def format_as_html(words, old_words):
         elif last_font_size > font_size:
             last_font_size = font_size
             buf.append('<br>')
-        color = 'blue'
+        color = 'current'
         if word.is_new():
-            color = 'green'
-        buf.append(f'<span style="font-size:{font_size}pt"><a href="news_links.html#{word.word}" style="color:{color}">{word.word}</a></span>')
+            color = 'new'
+        buf.append(f'<span style="font-size:{font_size}pt"><a href="news_links.html#{word.word}" class="{color}">{word.word}</a></span>')
     buf.append('</p>')
     if len(old_words):
         buf.append('<details>')
         buf.append('<summary>Stopped using...</summary>')
-        buf.append('<p style="font-size:12pt;color:red;">')
+        buf.append('<p class="former" style="font-size:12pt">')
         buf.append(' '.join([w.word for w in old_words]))
         buf.append('</p>')
         buf.append('</details>')
-    buf.append('<p>Legend: <span style="color:green">new</span>, <span style="color:blue">current</span>, <span style="color:red">former</span></p>')
+    buf.append('<p>Legend: <span class="new">new</span>, <span class="current">current</span>, <span class="former">former</span></p>')
     return '\n'.join(buf)
 
 def format_as_html_links_list(words):
