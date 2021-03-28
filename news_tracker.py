@@ -47,19 +47,19 @@ def format_as_html_links_list(words):
     buf.append('<link rel="stylesheet" type="text/css" href="static/zeitgeist.css" />')
     buf.append('<script src="static/oz-dark-mode.js"></script>')
     buf.append('</head><body onload="initTheme()">')
-    buf.append('<header><a href="index.html"><h1>News Links</h1></a></header>')
+    buf.append('<header><a href="index.html" class="current"><h1>News Links</h1></a></header>')
     buf.append('<section>')
     for word in words:
         w = word.word
         buf.append('<p>')
-        buf.append(f'<h3><a name="{w}">{w}</a></h3>')
+        buf.append(f'<a name="{w}"><h3>{w}</h3></a>')
         buf.append('<ul>')
         for link in word.links:
             buf.append(f'<li><a href="{link}" target="_blank" class="current">{link}</a></li>')
         buf.append('</ul>')
         buf.append('</p>')
     buf.append('</section>')
-    buf.append('<footer><a href="index.html" class="nav">back</a><a href="javascript:toggleTheme()" class="nav">🌓</a></footer>')
+    buf.append('<footer><a href="index.html" class="nav current">back</a><a href="javascript:toggleTheme()" class="nav">🌓</a></footer>')
     buf.append('</body></html>')
     return '\n'.join(buf)
 
