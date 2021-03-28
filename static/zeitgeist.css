@@ -1,0 +1,6 @@
+.new { color: green; }
+.current { color: blue; }
+.former { color: red; }
+
+.dark-mode .new { color: lightgreen; }
+.dark-mode .current { color: lightblue; }

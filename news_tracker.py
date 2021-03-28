@@ -44,8 +44,9 @@ def format_as_html_links_list(words):
     buf = ['<!DOCTYPE html>']
     buf.append('<html><head>')
     buf.append('<link rel="stylesheet" type="text/css" href="static/oz.css" />')
+    buf.append('<link rel="stylesheet" type="text/css" href="static/zeitgeist.css" />')
     buf.append('<script src="static/oz-dark-mode.js"></script>')
-    buf.append('</head><body onload="initTheme()">')
+    buf.append('</head><body onload="initTheme()" class="current">')
     buf.append('<h1>News Links</h1>')
     buf.append('<a href="index.html">back</a>')
     for word in words:

@@ -15,7 +15,7 @@ def as_html(investments, news):
 <meta name="referrer" content="no-referrer">
 <title>Zeitgeist</title>
 <link rel="stylesheet" type="text/css" href="static/oz.css" />
-{language_style()}
+<link rel="stylesheet" type="text/css" href="static/zeitgeist.css" />
 <script src="static/oz-dark-mode.js"></script>
 </head>
 <body onload="initTheme()">
@@ -38,15 +38,6 @@ since 2019, by <a href="https://oliz.io">oz</a></p>
 </body>
 </html>
 '''
-
-def language_style():
-    return '''<style>
-.new { color: green; }
-.current { color: blue; }
-.former { color: red; }
-.dark-mode .new { color: lightgreen; }
-.dark-mode .current { color: lightblue; }
-</style>'''
 
 def readfile(path):
     if os.path.isfile(path):
