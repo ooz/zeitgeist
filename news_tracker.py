@@ -34,10 +34,10 @@ def format_as_html(words, old_words):
         buf.append('<details>')
         buf.append('<summary>Stopped using...</summary>')
         buf.append('<p class="former" style="font-size:12pt">')
-        buf.append(' '.join([w.word for w in old_words]))
+        buf.append(' '.join([f'{w.word}({w.relevant_for_days()})' for w in old_words if w.relevant_for_days() > 4]))
         buf.append('</p>')
         buf.append('</details>')
-    buf.append('<p>Legend: <span class="new">new</span>, <span class="current">current</span>, <span class="former">former</span></p>')
+    buf.append('<p>Legend: <span class="new">new</span>, <span class="current">current</span>, <span class="former">former(days relevant)</span></p>')
     return '\n'.join(buf)
 
 def format_as_html_links_list(words):
