@@ -21,6 +21,7 @@ class Word(object):
         self._now = now
         self.first = first or now
         self.last = last or now
+        self.relevant_for_days = _relevant_for_days()
     def add_occurrence(self, link=None):
         self.usage_count += 1
         self.last = _now_date()
@@ -33,7 +34,7 @@ class Word(object):
             self.last = self.last if self.last > other.last else other.last
             # don't merge links for now
         return self
-    def relevant_for_days(self):
+    def _relevant_for_days(self):
         first = datetime.strptime(self.first, DATE_FORMAT)
         last = datetime.strptime(self.last, DATE_FORMAT)
         return (last - first).days
@@ -80,7 +81,7 @@ class WordDB(object):
         words = sorted(words, reverse=True, key=lambda w: w.usage_count)
         return list(words)
     def old_words(self):
-        return sorted([word for word in self.words.values() if word.is_old()], key=lambda word: word.relevant_for_days(), reverse=True)
+        return sorted([word for word in self.words.values() if word.is_old()], key=lambda word: word.relevant_for_days, reverse=True)
     def merge(self, other):
         for w in other.words.keys():
             this_entry = self.words.get(w, None)
