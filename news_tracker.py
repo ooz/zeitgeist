@@ -59,7 +59,7 @@ def format_as_html_links_list(words):
         buf.append('</ul>')
         buf.append('</p>')
     buf.append('</section>')
-    buf.append('<footer><a href="index.html" class="nav current">back</a><a href="javascript:toggleTheme()" class="nav">🌓</a></footer>')
+    buf.append('<footer><a href="index.html" class="nav">back</a><a href="javascript:toggleTheme()" class="nav">🌓</a></footer>')
     buf.append('</body></html>')
     return '\n'.join(buf)
 
