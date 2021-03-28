@@ -52,7 +52,7 @@ def format_as_html_links_list(words):
     for word in words:
         w = word.word
         buf.append('<p>')
-        buf.append(f'<a name="{w}"><h3>{w}</h3></a>')
+        buf.append(f'<a name="{w}"></a><h3>{w}</h3>')
         buf.append('<ul>')
         for link in word.links:
             buf.append(f'<li><a href="{link}" target="_blank" class="current">{link}</a></li>')
