@@ -47,7 +47,7 @@ def format_as_html_links_list(words):
     buf.append('<link rel="stylesheet" type="text/css" href="static/zeitgeist.css" />')
     buf.append('<script src="static/oz-dark-mode.js"></script>')
     buf.append('</head><body onload="initTheme()">')
-    buf.append('<header><a href="index.html" class="current"><h1>News Links</h1></a></header>')
+    buf.append('<header><a href="index.html"><h1>News Links</h1></a></header>')
     buf.append('<section>')
     for word in words:
         w = word.word
