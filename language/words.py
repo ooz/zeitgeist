@@ -21,7 +21,6 @@ class Word(object):
         self._now = now
         self.first = first or now
         self.last = last or now
-        self.relevant_for_days = self._relevant_for_days()
     def add_occurrence(self, link=None):
         self.usage_count += 1
         self.last = _now_date()
@@ -32,23 +31,22 @@ class Word(object):
             self.usage_count += other.usage_count
             self.first = self.first if self.first < other.first else other.first
             self.last = self.last if self.last > other.last else other.last
-            self.relevant_for_days = self._relevant_for_days()
             # don't merge links for now
         return self
-    def _relevant_for_days(self):
+    def relevant_for_days(self):
         first = datetime.strptime(self.first, DATE_FORMAT)
         last = datetime.strptime(self.last, DATE_FORMAT)
         return (last - first).days
     def is_new(self):
         first = datetime.strptime(self.first, DATE_FORMAT)
         last = datetime.strptime(self.last, DATE_FORMAT)
-        return self.relevant_for_days <= NEW_FOR_DAYS
+        return self.relevant_for_days() <= NEW_FOR_DAYS
     def is_old(self):
         first = datetime.strptime(self.first, DATE_FORMAT)
         last = datetime.strptime(self.last, DATE_FORMAT)
         now = datetime.strptime(self._now, DATE_FORMAT)
         days_since_last_seen = (now - last).days
-        return days_since_last_seen > OLD_AFTER_DAYS and days_since_last_seen <= (OLD_AFTER_DAYS + NEW_FOR_DAYS) and self.relevant_for_days > NEW_FOR_DAYS
+        return days_since_last_seen > OLD_AFTER_DAYS and days_since_last_seen <= (OLD_AFTER_DAYS + NEW_FOR_DAYS) and self.relevant_for_days() > NEW_FOR_DAYS
     def is_obsolete(self):
         last = datetime.strptime(self.last, DATE_FORMAT)
         now = datetime.strptime(self._now, DATE_FORMAT)
@@ -82,7 +80,7 @@ class WordDB(object):
         words = sorted(words, reverse=True, key=lambda w: w.usage_count)
         return list(words)
     def old_words(self):
-        return sorted([word for word in self.words.values() if word.is_old()], key=lambda word: word.relevant_for_days, reverse=True)
+        return sorted([word for word in self.words.values() if word.is_old()], key=lambda word: word.relevant_for_days(), reverse=True)
     def merge(self, other):
         for w in other.words.keys():
             this_entry = self.words.get(w, None)
