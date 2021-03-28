@@ -32,6 +32,7 @@ class Word(object):
             self.usage_count += other.usage_count
             self.first = self.first if self.first < other.first else other.first
             self.last = self.last if self.last > other.last else other.last
+            self.relevant_for_days = self._relevant_for_days()
             # don't merge links for now
         return self
     def _relevant_for_days(self):
