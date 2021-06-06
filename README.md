@@ -48,6 +48,7 @@ tags: __no_header__, __no_footer__
 <span style="font-size:12pt"><a href="news_links.html#98" class="current">98</a></span>
 <span style="font-size:12pt"><a href="news_links.html#jahren" class="current">jahren</a></span>
 <span style="font-size:12pt"><a href="news_links.html#gestorben" class="current">gestorben</a></span>
+<span style="font-size:12pt"><a href="news_links.html#auschwitz" class="current">auschwitz</a></span>
 <span style="font-size:12pt"><a href="news_links.html#eva" class="current">eva</a></span>
 <span style="font-size:12pt"><a href="news_links.html#herzig" class="new">herzig</a></span>
 <span style="font-size:12pt"><a href="news_links.html#netanyahu" class="current">netanyahu</a></span>
@@ -95,10 +96,10 @@ tags: __no_header__, __no_footer__
 <span style="font-size:12pt"><a href="news_links.html#diana" class="current">diana</a></span>
 <span style="font-size:12pt"><a href="news_links.html#schulen" class="current">schulen</a></span>
 <span style="font-size:12pt"><a href="news_links.html#indigene" class="new">indigene</a></span>
-<span style="font-size:12pt"><a href="news_links.html#liveticker" class="new">liveticker</a></span>
-<span style="font-size:12pt"><a href="news_links.html#alle" class="current">alle</a></span>
 <span style="font-size:12pt"><a href="news_links.html#prognosen" class="current">prognosen</a></span>
 <span style="font-size:12pt"><a href="news_links.html#hinter" class="current">hinter</a></span>
+<span style="font-size:12pt"><a href="news_links.html#liveticker" class="new">liveticker</a></span>
+<span style="font-size:12pt"><a href="news_links.html#alle" class="current">alle</a></span>
 <span style="font-size:12pt"><a href="news_links.html#roger" class="current">roger</a></span>
 <span style="font-size:12pt"><a href="news_links.html#federer" class="current">federer</a></span>
 <span style="font-size:12pt"><a href="news_links.html#istanbul" class="current">istanbul</a></span>
@@ -138,13 +139,13 @@ coronainfektionen(227) kultusministerkonferenz(227) kurzfristig(227) lebenslange
 
 ```
 date, investment, buy price, sell price
-2021-06-06 18:43:07, 1-EUR, 1.21 USD, 1.21 USD
-2021-06-06 18:43:07, 1-EUR, 7.76 CNY, 7.76 CNY
-2021-06-06 18:43:07, crude-oil-brent-barrel, 71.89 USD, 71.89 USD
-2021-06-06 18:43:08, gold-10g, 520.76 EUR, 494.76 EUR
-2021-06-06 18:43:10, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-06-06 18:43:11, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-06-06 18:43:12, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
+2021-06-06 18:47:03, 1-EUR, 1.21 USD, 1.21 USD
+2021-06-06 18:47:03, 1-EUR, 7.76 CNY, 7.76 CNY
+2021-06-06 18:47:04, crude-oil-brent-barrel, 71.89 USD, 71.89 USD
+2021-06-06 18:47:04, gold-10g, 520.76 EUR, 494.76 EUR
+2021-06-06 18:47:07, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-06-06 18:47:09, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-06-06 18:47:10, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
 ```
 
 <footer>
