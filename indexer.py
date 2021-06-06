@@ -28,7 +28,7 @@ tags: __no_header__, __no_footer__
 
 <footer>
 <a href="javascript:toggleTheme()" class="nav">🌓</a>
-- [code](https://github.com/ooz/zeitgeist) measuring the Zeitgeist since 2019, by [oz](https://oliz.io)
+- <a href="https://github.com/ooz/zeitgeist">code</a> measuring the Zeitgeist since 2019, by <a href="https://oliz.io">oz</a>
 </footer>
 '''
 
