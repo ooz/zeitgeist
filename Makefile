@@ -12,13 +12,14 @@ update: ## Update ggpy
 
 # Track and building
 track_investments:
-	pipenv run python3 investment_tracker.py
+	pipenv run python investment_tracker.py
 
 track_language:
-	pipenv run python3 news_tracker.py
+	pipenv run python news_tracker.py
 
 build:
-	pipenv run python3 indexer.py
+	pipenv run python indexer.py
+	pipenv run python gg.py ./
 
 # Setup
 install_pipenv:
