@@ -42,7 +42,7 @@ def format_as_html(words, old_words):
 
 def format_as_markdown_links_list(words):
     buf = ['---']
-    buf.append('tags: __no_header__, __no_footer__')
+    buf.append('tags: __no_header__')
     buf.append('---')
     buf.append('')
     buf.append('# [Zeitgeist News Links](index.html)')
@@ -54,8 +54,6 @@ def format_as_markdown_links_list(words):
         for link in word.links:
             buf.append(f'''* [{link.replace('#ref=rss', '')}]({link})''')
     buf.append('')
-    buf.append('<footer><a href="index.html" class="nav">back</a><a href="javascript:toggleTheme()" class="nav">🌓</a></footer>')
-    buf.append('</body></html>')
     return '\n'.join(buf)
 
 
