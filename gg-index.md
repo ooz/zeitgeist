@@ -1,3 +1,10 @@
+---
+title: Zeitgeist
+tags: __no_header__, __no_footer__
+---
+
+## Language
+
 <h3><a href="https://www.spiegel.de" target="_blank">spiegel.de</a> (9 to 2 occurrences)</h3>
 <p style="font-family:monospace">
 <span style="font-size:32pt"><a href="news_links.html#sachsenanhalt" class="current">sachsenanhalt</a></span>
@@ -122,3 +129,27 @@ coronainfektionen(227) kultusministerkonferenz(227) kurzfristig(227) lebenslange
 </p>
 </details>
 <p>Legend: <span class="new">new</span>, <span class="current">current</span>, <span class="former">former(days relevant)</span></p>
+
+## Investments[.csv](investments.csv)
+
+[Inflation Chart](https://inflationchart.com),
+[Stocks in BTC](https://stonksinbtc.xyz/)
+
+```
+date, investment, buy price, sell price
+2021-06-06 19:33:58, 1-EUR, 1.21 USD, 1.21 USD
+2021-06-06 19:33:58, 1-EUR, 7.76 CNY, 7.76 CNY
+2021-06-06 19:33:58, crude-oil-brent-barrel, 71.89 USD, 71.89 USD
+2021-06-06 19:33:59, gold-10g, 520.76 EUR, 494.76 EUR
+2021-06-06 19:34:01, lego-2019-30365-1-satellit, 4.0 EUR, 4.0 EUR
+2021-06-06 19:34:02, lego-2019-60224-1-satellitenwartung, 8.0 EUR, 8.0 EUR
+2021-06-06 19:34:03, lego-2019-60225-1-rovertestfahrt, 17.0 EUR, 17.0 EUR
+```
+
+<footer>
+<a href="javascript:toggleTheme()" class="nav">🌓</a>
+<p>- measuring the
+<a href="https://github.com/ooz/zeitgeist">Zeitgeist</a>
+<a href="https://circleci.com/gh/ooz/zeitgeist" target="_blank"><img src="https://circleci.com/gh/ooz/zeitgeist.svg?style=shield" alt="Zeitgeist CircleCI build indicator" /></a>
+since 2019, by <a href="https://oliz.io">oz</a></p>
+</footer>
