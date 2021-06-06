@@ -139,13 +139,13 @@ coronainfektionen(227) kultusministerkonferenz(227) kurzfristig(227) lebenslange
 
 ```
 date, investment, buy price, sell price
-2021-06-06 18:47:03, 1-EUR, 1.21 USD, 1.21 USD
-2021-06-06 18:47:03, 1-EUR, 7.76 CNY, 7.76 CNY
-2021-06-06 18:47:04, crude-oil-brent-barrel, 71.89 USD, 71.89 USD
-2021-06-06 18:47:04, gold-10g, 520.76 EUR, 494.76 EUR
-2021-06-06 18:47:07, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-06-06 18:47:09, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-06-06 18:47:10, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
+2021-06-06 18:49:26, 1-EUR, 1.21 USD, 1.21 USD
+2021-06-06 18:49:26, 1-EUR, 7.76 CNY, 7.76 CNY
+2021-06-06 18:49:27, crude-oil-brent-barrel, 71.89 USD, 71.89 USD
+2021-06-06 18:49:27, gold-10g, 520.76 EUR, 494.76 EUR
+2021-06-06 18:49:29, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-06-06 18:49:30, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-06-06 18:49:31, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
 ```
 
 <footer>
