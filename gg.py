@@ -4,7 +4,7 @@
 Author: Oliver Z., https://oliz.io
 Description: Minimal static site generator easy to use with GitHub Pages o.s.
 Website: https://oliz.io/ggpy/
-Version: 1.0
+Version: 1.1
 License: Dual-licensed under GNU AGPLv3 or MIT License,
          see LICENSE.txt file for details.
 
@@ -18,7 +18,7 @@ SOFTWARE.
 '''
 
 import argparse
-import git
+
 import glob
 from html import escape
 import os
@@ -507,10 +507,17 @@ def read_post(directory, filepath, config=None):
     post['html'] = template_page(post, config)
     return post
 
+REPO = None
+try:
+    import git
+    REPO = git.Repo()
+except ImportError:
+    print('No gitpython package found, degrading functionality (no last_modified support)!', file=sys.stderr)
+
 def last_modified(filepath):
-    repo = git.Repo()
-    for commit in repo.iter_commits(paths=filepath, max_count=1):
-        return time.strftime('%Y-%m-%d', time.gmtime(commit.authored_date))
+    if REPO:
+        for commit in REPO.iter_commits(paths=filepath, max_count=1):
+            return time.strftime('%Y-%m-%d', time.gmtime(commit.authored_date))
     return ''
 
 ##############################################################################
