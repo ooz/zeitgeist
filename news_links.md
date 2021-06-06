@@ -1,17 +1,18 @@
 ---
-tags: __no_header__, __no_footer__
+tags: __no_header__
 ---
 
 # [Zeitgeist News Links](index.html)
 
 ### sachsenanhalt
 
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nach-wahl-in-sachsen-anhalt-ratlos-hilflos-kraftlos-a-dbba6264-4960-4c56-b107-46d0eb745caa](https://www.spiegel.de/politik/deutschland/olaf-scholz-nach-wahl-in-sachsen-anhalt-ratlos-hilflos-kraftlos-a-dbba6264-4960-4c56-b107-46d0eb745caa#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/reiner-haseloff-zum-cdu-sieg-in-sachsen-anhalt-ein-klares-aufbaeumen-einer-grossen-mehrheit-a-5dd9e29b-b15c-47a2-8a6a-d9312d1cca40](https://www.spiegel.de/politik/deutschland/reiner-haseloff-zum-cdu-sieg-in-sachsen-anhalt-ein-klares-aufbaeumen-einer-grossen-mehrheit-a-5dd9e29b-b15c-47a2-8a6a-d9312d1cca40#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-blitzanalyse-der-anti-afd-triumph-a-a2a065b1-5f6f-4878-a943-ec89cdc0f5fc](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-blitzanalyse-der-anti-afd-triumph-a-a2a065b1-5f6f-4878-a943-ec89cdc0f5fc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-alle-ergebnisse-der-landtagswahl-2021-im-ueberblick-a-cd89aee8-c63d-4d07-8acf-590b559f31ce](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-alle-ergebnisse-der-landtagswahl-2021-im-ueberblick-a-cd89aee8-c63d-4d07-8acf-590b559f31ce#ref=rss)
 ### cdu
 
@@ -20,6 +21,12 @@ tags: __no_header__, __no_footer__
 * [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-blitzanalyse-der-anti-afd-triumph-a-a2a065b1-5f6f-4878-a943-ec89cdc0f5fc](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-blitzanalyse-der-anti-afd-triumph-a-a2a065b1-5f6f-4878-a943-ec89cdc0f5fc#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nach-wahl-in-sachsen-anhalt-ratlos-hilflos-kraftlos-a-dbba6264-4960-4c56-b107-46d0eb745caa](https://www.spiegel.de/politik/deutschland/olaf-scholz-nach-wahl-in-sachsen-anhalt-ratlos-hilflos-kraftlos-a-dbba6264-4960-4c56-b107-46d0eb745caa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
 ### haseloff
 
 * [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19#ref=rss)
@@ -30,18 +37,19 @@ tags: __no_header__, __no_footer__
 
 * [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-blitzanalyse-der-anti-afd-triumph-a-a2a065b1-5f6f-4878-a943-ec89cdc0f5fc](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-blitzanalyse-der-anti-afd-triumph-a-a2a065b1-5f6f-4878-a943-ec89cdc0f5fc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
+### ergebnis
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nach-wahl-in-sachsen-anhalt-ratlos-hilflos-kraftlos-a-dbba6264-4960-4c56-b107-46d0eb745caa](https://www.spiegel.de/politik/deutschland/olaf-scholz-nach-wahl-in-sachsen-anhalt-ratlos-hilflos-kraftlos-a-dbba6264-4960-4c56-b107-46d0eb745caa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
 ### reiner
 
 * [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/reiner-haseloff-zum-cdu-sieg-in-sachsen-anhalt-ein-klares-aufbaeumen-einer-grossen-mehrheit-a-5dd9e29b-b15c-47a2-8a6a-d9312d1cca40](https://www.spiegel.de/politik/deutschland/reiner-haseloff-zum-cdu-sieg-in-sachsen-anhalt-ein-klares-aufbaeumen-einer-grossen-mehrheit-a-5dd9e29b-b15c-47a2-8a6a-d9312d1cca40#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
 ### erste
 
 * [https://www.spiegel.de/politik/deutschland/reiner-haseloff-zum-cdu-sieg-in-sachsen-anhalt-ein-klares-aufbaeumen-einer-grossen-mehrheit-a-5dd9e29b-b15c-47a2-8a6a-d9312d1cca40](https://www.spiegel.de/politik/deutschland/reiner-haseloff-zum-cdu-sieg-in-sachsen-anhalt-ein-klares-aufbaeumen-einer-grossen-mehrheit-a-5dd9e29b-b15c-47a2-8a6a-d9312d1cca40#ref=rss)
@@ -62,6 +70,19 @@ tags: __no_header__, __no_footer__
 
 * [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-blitzanalyse-der-anti-afd-triumph-a-a2a065b1-5f6f-4878-a943-ec89cdc0f5fc](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-blitzanalyse-der-anti-afd-triumph-a-a2a065b1-5f6f-4878-a943-ec89cdc0f5fc#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-alle-ergebnisse-der-landtagswahl-2021-im-ueberblick-a-cd89aee8-c63d-4d07-8acf-590b559f31ce](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-alle-ergebnisse-der-landtagswahl-2021-im-ueberblick-a-cd89aee8-c63d-4d07-8acf-590b559f31ce#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nach-wahl-in-sachsen-anhalt-ratlos-hilflos-kraftlos-a-dbba6264-4960-4c56-b107-46d0eb745caa](https://www.spiegel.de/politik/deutschland/olaf-scholz-nach-wahl-in-sachsen-anhalt-ratlos-hilflos-kraftlos-a-dbba6264-4960-4c56-b107-46d0eb745caa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7#ref=rss)
+### french
+
+* [https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af](https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32](https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af](https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32](https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32#ref=rss)
 ### sieht
 
 * [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19#ref=rss)
@@ -72,11 +93,6 @@ tags: __no_header__, __no_footer__
 * [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
-### ergebnis
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7#ref=rss)
 ### linke
 
 * [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-reiner-haseloff-sieht-sieg-als-abgrenzung-nach-rechts-a-6a0970cb-31d0-48db-8501-758a24521d19#ref=rss)
@@ -92,11 +108,6 @@ tags: __no_header__, __no_footer__
 * [https://www.spiegel.de/netzwelt/anonymous-droht-elon-musk-wegen-bitcoin-kursturbulenzen-a-18a46c6f-745b-4c6b-a3b0-671895f041ed](https://www.spiegel.de/netzwelt/anonymous-droht-elon-musk-wegen-bitcoin-kursturbulenzen-a-18a46c6f-745b-4c6b-a3b0-671895f041ed#ref=rss)
 * [https://www.spiegel.de/panorama/leute/herzogin-meghan-bringt-maedchen-zur-welt-a-da5b0f9b-aefa-4e98-a38d-45499bd25f7a](https://www.spiegel.de/panorama/leute/herzogin-meghan-bringt-maedchen-zur-welt-a-da5b0f9b-aefa-4e98-a38d-45499bd25f7a#ref=rss)
 * [https://www.spiegel.de/sport/fussball/frauen-bundesliga-bayern-muenchen-ist-deutscher-meister-simone-laudehr-beendet-karriere-mit-erstem-meistertitel-a-3fd817b8-6678-45dd-b09f-b86ba30172a3](https://www.spiegel.de/sport/fussball/frauen-bundesliga-bayern-muenchen-ist-deutscher-meister-simone-laudehr-beendet-karriere-mit-erstem-meistertitel-a-3fd817b8-6678-45dd-b09f-b86ba30172a3#ref=rss)
-### hart
-
-* [https://www.spiegel.de/netzwelt/anonymous-droht-elon-musk-wegen-bitcoin-kursturbulenzen-a-18a46c6f-745b-4c6b-a3b0-671895f041ed](https://www.spiegel.de/netzwelt/anonymous-droht-elon-musk-wegen-bitcoin-kursturbulenzen-a-18a46c6f-745b-4c6b-a3b0-671895f041ed#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32](https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32#ref=rss)
-* [https://www.spiegel.de/ausland/journalisten-in-belarus-in-haft-das-ist-ein-krieg-gegen-uns-unabhaengige-medien-a-c562cf9c-6566-4a4e-b728-f1cc24f59abb](https://www.spiegel.de/ausland/journalisten-in-belarus-in-haft-das-ist-ein-krieg-gegen-uns-unabhaengige-medien-a-c562cf9c-6566-4a4e-b728-f1cc24f59abb#ref=rss)
 ### mehr
 
 * [https://www.spiegel.de/sport/sifan-hassan-verbessert-10-000-meter-weltrekord-um-mehr-als-zehn-sekunden-a-053ad00e-a35e-48f2-af97-54ad8188dd71](https://www.spiegel.de/sport/sifan-hassan-verbessert-10-000-meter-weltrekord-um-mehr-als-zehn-sekunden-a-053ad00e-a35e-48f2-af97-54ad8188dd71#ref=rss)
@@ -135,9 +146,31 @@ tags: __no_header__, __no_footer__
 
 * [https://www.spiegel.de/politik/deutschland/coronakrise-wohlfahrtsverband-kritisiert-jens-spahn-wegen-maskendeals-a-00713ec9-c645-4396-a5c7-cb5bee8bd8c3](https://www.spiegel.de/politik/deutschland/coronakrise-wohlfahrtsverband-kritisiert-jens-spahn-wegen-maskendeals-a-00713ec9-c645-4396-a5c7-cb5bee8bd8c3#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/jens-spahn-weist-vorwuerfe-um-corona-masken-zurueck-fuer-den-infektionsschutz-nicht-relevant-a-19589233-21a8-4b2f-928a-fa240762f8bd](https://www.spiegel.de/politik/deutschland/jens-spahn-weist-vorwuerfe-um-corona-masken-zurueck-fuer-den-infektionsschutz-nicht-relevant-a-19589233-21a8-4b2f-928a-fa240762f8bd#ref=rss)
-### engels
+### olaf
 
-* [https://www.spiegel.de/panorama/leute/sarah-und-julian-engels-werden-eltern-a-a27739e5-c280-4263-9495-30665a20ab96](https://www.spiegel.de/panorama/leute/sarah-und-julian-engels-werden-eltern-a-a27739e5-c280-4263-9495-30665a20ab96#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nach-wahl-in-sachsen-anhalt-ratlos-hilflos-kraftlos-a-dbba6264-4960-4c56-b107-46d0eb745caa](https://www.spiegel.de/politik/deutschland/olaf-scholz-nach-wahl-in-sachsen-anhalt-ratlos-hilflos-kraftlos-a-dbba6264-4960-4c56-b107-46d0eb745caa#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-nach-wahl-in-sachsen-anhalt-ratlos-hilflos-kraftlos-a-dbba6264-4960-4c56-b107-46d0eb745caa](https://www.spiegel.de/politik/deutschland/olaf-scholz-nach-wahl-in-sachsen-anhalt-ratlos-hilflos-kraftlos-a-dbba6264-4960-4c56-b107-46d0eb745caa#ref=rss)
+### serena
+
+* [https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af](https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af#ref=rss)
+### schluss
+
+* [https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af](https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-in-aserbaidschan-max-verstappen-mit-unfall-kurz-vor-schluss-sebastian-vettel-zweiter-a-463016cd-0deb-4e45-a346-132ba1179fa4](https://www.spiegel.de/sport/formel1/formel-1-in-aserbaidschan-max-verstappen-mit-unfall-kurz-vor-schluss-sebastian-vettel-zweiter-a-463016cd-0deb-4e45-a346-132ba1179fa4#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af](https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-blitzanalyse-der-anti-afd-triumph-a-a2a065b1-5f6f-4878-a943-ec89cdc0f5fc](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-blitzanalyse-der-anti-afd-triumph-a-a2a065b1-5f6f-4878-a943-ec89cdc0f5fc#ref=rss)
+### turnier
+
+* [https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af](https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32](https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32#ref=rss)
+### achtelfinale
+
+* [https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af](https://www.spiegel.de/sport/tennis/french-open-auch-fuer-serena-williams-ist-frueh-schluss-a-9a313a1b-e9b4-47e5-87d7-b38151c170af#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32](https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32#ref=rss)
 ### frau
 
 * [https://www.spiegel.de/panorama/justiz/biebesheim-frau-nach-badeunfall-im-rhein-vermisst-ehemann-gerettet-a-a29a4687-7b34-4bf5-8ec6-116578ea652c](https://www.spiegel.de/panorama/justiz/biebesheim-frau-nach-badeunfall-im-rhein-vermisst-ehemann-gerettet-a-a29a4687-7b34-4bf5-8ec6-116578ea652c#ref=rss)
@@ -181,6 +214,10 @@ tags: __no_header__, __no_footer__
 ### musk
 
 * [https://www.spiegel.de/netzwelt/anonymous-droht-elon-musk-wegen-bitcoin-kursturbulenzen-a-18a46c6f-745b-4c6b-a3b0-671895f041ed](https://www.spiegel.de/netzwelt/anonymous-droht-elon-musk-wegen-bitcoin-kursturbulenzen-a-18a46c6f-745b-4c6b-a3b0-671895f041ed#ref=rss)
+### hart
+
+* [https://www.spiegel.de/netzwelt/anonymous-droht-elon-musk-wegen-bitcoin-kursturbulenzen-a-18a46c6f-745b-4c6b-a3b0-671895f041ed](https://www.spiegel.de/netzwelt/anonymous-droht-elon-musk-wegen-bitcoin-kursturbulenzen-a-18a46c6f-745b-4c6b-a3b0-671895f041ed#ref=rss)
+* [https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32](https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32#ref=rss)
 ### sifan
 
 * [https://www.spiegel.de/sport/sifan-hassan-verbessert-10-000-meter-weltrekord-um-mehr-als-zehn-sekunden-a-053ad00e-a35e-48f2-af97-54ad8188dd71](https://www.spiegel.de/sport/sifan-hassan-verbessert-10-000-meter-weltrekord-um-mehr-als-zehn-sekunden-a-053ad00e-a35e-48f2-af97-54ad8188dd71#ref=rss)
@@ -198,10 +235,6 @@ tags: __no_header__, __no_footer__
 
 * [https://www.spiegel.de/sport/sifan-hassan-verbessert-10-000-meter-weltrekord-um-mehr-als-zehn-sekunden-a-053ad00e-a35e-48f2-af97-54ad8188dd71](https://www.spiegel.de/sport/sifan-hassan-verbessert-10-000-meter-weltrekord-um-mehr-als-zehn-sekunden-a-053ad00e-a35e-48f2-af97-54ad8188dd71#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7#ref=rss)
 ### hochrechnungen
 
 * [https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb](https://www.spiegel.de/politik/deutschland/landtagswahl-in-sachsen-anhalt-cdu-laut-erster-hochrechnung-klar-staerkste-kraft-a-be6ce993-885c-472b-b48f-619b298f0efb#ref=rss)
@@ -269,23 +302,12 @@ tags: __no_header__, __no_footer__
 ### diana
 
 * [https://www.spiegel.de/panorama/leute/herzogin-meghan-bringt-maedchen-zur-welt-a-da5b0f9b-aefa-4e98-a38d-45499bd25f7a](https://www.spiegel.de/panorama/leute/herzogin-meghan-bringt-maedchen-zur-welt-a-da5b0f9b-aefa-4e98-a38d-45499bd25f7a#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/leute/herzogin-meghan-bringt-maedchen-zur-welt-a-da5b0f9b-aefa-4e98-a38d-45499bd25f7a](https://www.spiegel.de/panorama/leute/herzogin-meghan-bringt-maedchen-zur-welt-a-da5b0f9b-aefa-4e98-a38d-45499bd25f7a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/sarah-und-julian-engels-werden-eltern-a-a27739e5-c280-4263-9495-30665a20ab96](https://www.spiegel.de/panorama/leute/sarah-und-julian-engels-werden-eltern-a-a27739e5-c280-4263-9495-30665a20ab96#ref=rss)
 ### schulen
 
 * [https://www.spiegel.de/geschichte/kanadas-schulen-fuer-indigene-unser-alcatraz-da-gab-es-kein-entkommen-a-bb9b6b85-f74a-4050-8f4f-33bd377382c7](https://www.spiegel.de/geschichte/kanadas-schulen-fuer-indigene-unser-alcatraz-da-gab-es-kein-entkommen-a-bb9b6b85-f74a-4050-8f4f-33bd377382c7#ref=rss)
 ### indigene
 
 * [https://www.spiegel.de/geschichte/kanadas-schulen-fuer-indigene-unser-alcatraz-da-gab-es-kein-entkommen-a-bb9b6b85-f74a-4050-8f4f-33bd377382c7](https://www.spiegel.de/geschichte/kanadas-schulen-fuer-indigene-unser-alcatraz-da-gab-es-kein-entkommen-a-bb9b6b85-f74a-4050-8f4f-33bd377382c7#ref=rss)
-### liveticker
-
-* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
-### alle
-
-* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-alle-ergebnisse-der-landtagswahl-2021-im-ueberblick-a-cd89aee8-c63d-4d07-8acf-590b559f31ce](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-alle-ergebnisse-der-landtagswahl-2021-im-ueberblick-a-cd89aee8-c63d-4d07-8acf-590b559f31ce#ref=rss)
 ### prognosen
 
 * [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7#ref=rss)
@@ -294,12 +316,13 @@ tags: __no_header__, __no_footer__
 
 * [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wahl-cdu-laut-prognose-deutlich-vor-afd-a-4ff4b140-2a99-4e6b-912d-2e2a2d1f31b7#ref=rss)
 * [https://www.spiegel.de/sport/formel1/formel-1-in-aserbaidschan-max-verstappen-mit-unfall-kurz-vor-schluss-sebastian-vettel-zweiter-a-463016cd-0deb-4e45-a346-132ba1179fa4](https://www.spiegel.de/sport/formel1/formel-1-in-aserbaidschan-max-verstappen-mit-unfall-kurz-vor-schluss-sebastian-vettel-zweiter-a-463016cd-0deb-4e45-a346-132ba1179fa4#ref=rss)
-### french
+### liveticker
 
-* [https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32](https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32#ref=rss)
-### open
+* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
+### alle
 
-* [https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32](https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655](https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-im-live-ticker-alle-entwicklungen-der-landtagswahl-a-857e83c7-743d-40aa-8254-0e19a0360655#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-alle-ergebnisse-der-landtagswahl-2021-im-ueberblick-a-cd89aee8-c63d-4d07-8acf-590b559f31ce](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-alle-ergebnisse-der-landtagswahl-2021-im-ueberblick-a-cd89aee8-c63d-4d07-8acf-590b559f31ce#ref=rss)
 ### roger
 
 * [https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32](https://www.spiegel.de/sport/tennis/french-open-roger-federer-stellt-achtelfinalteilnahme-infrage-a-caa6b853-efbe-4c50-9801-17b00931bd32#ref=rss)
@@ -385,18 +408,4 @@ tags: __no_header__, __no_footer__
 ### infektionsschutz
 
 * [https://www.spiegel.de/politik/deutschland/jens-spahn-weist-vorwuerfe-um-corona-masken-zurueck-fuer-den-infektionsschutz-nicht-relevant-a-19589233-21a8-4b2f-928a-fa240762f8bd](https://www.spiegel.de/politik/deutschland/jens-spahn-weist-vorwuerfe-um-corona-masken-zurueck-fuer-den-infektionsschutz-nicht-relevant-a-19589233-21a8-4b2f-928a-fa240762f8bd#ref=rss)
-### journalisten
 
-* [https://www.spiegel.de/ausland/journalisten-in-belarus-in-haft-das-ist-ein-krieg-gegen-uns-unabhaengige-medien-a-c562cf9c-6566-4a4e-b728-f1cc24f59abb](https://www.spiegel.de/ausland/journalisten-in-belarus-in-haft-das-ist-ein-krieg-gegen-uns-unabhaengige-medien-a-c562cf9c-6566-4a4e-b728-f1cc24f59abb#ref=rss)
-### unabhängige
-
-* [https://www.spiegel.de/ausland/journalisten-in-belarus-in-haft-das-ist-ein-krieg-gegen-uns-unabhaengige-medien-a-c562cf9c-6566-4a4e-b728-f1cc24f59abb](https://www.spiegel.de/ausland/journalisten-in-belarus-in-haft-das-ist-ein-krieg-gegen-uns-unabhaengige-medien-a-c562cf9c-6566-4a4e-b728-f1cc24f59abb#ref=rss)
-### sarah
-
-* [https://www.spiegel.de/panorama/leute/sarah-und-julian-engels-werden-eltern-a-a27739e5-c280-4263-9495-30665a20ab96](https://www.spiegel.de/panorama/leute/sarah-und-julian-engels-werden-eltern-a-a27739e5-c280-4263-9495-30665a20ab96#ref=rss)
-### julian
-
-* [https://www.spiegel.de/panorama/leute/sarah-und-julian-engels-werden-eltern-a-a27739e5-c280-4263-9495-30665a20ab96](https://www.spiegel.de/panorama/leute/sarah-und-julian-engels-werden-eltern-a-a27739e5-c280-4263-9495-30665a20ab96#ref=rss)
-
-<footer><a href="index.html" class="nav">back</a><a href="javascript:toggleTheme()" class="nav">🌓</a></footer>
-</body></html>
