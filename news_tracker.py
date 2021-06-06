@@ -53,7 +53,7 @@ def format_as_markdown_links_list(words):
         buf.append('')
         for link in word.links:
             #                      v-- removes the trailing '#ref=rss' and hash
-            buf.append(f'''* [{link[:-48]}]({link})''')
+            buf.append(f'''* [{link[:-47]}]({link})''')
     buf.append('')
     return '\n'.join(buf)
 
