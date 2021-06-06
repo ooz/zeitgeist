@@ -55,7 +55,7 @@ def format_as_html_links_list(words):
         buf.append(f'<a name="{w}"></a><h3>{w}</h3>')
         buf.append('<ul>')
         for link in word.links:
-            buf.append(f'<li><a href="{link}" target="_blank" class="current">{link}</a></li>')
+            buf.append(f'''<li><a href="{link.replace('#ref=rss', '')}" target="_blank" class="current">{link}</a></li>''')
         buf.append('</ul>')
         buf.append('</p>')
     buf.append('</section>')
