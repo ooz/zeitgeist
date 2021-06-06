@@ -40,25 +40,20 @@ def format_as_html(words, old_words):
     buf.append('<p>Legend: <span class="new">new</span>, <span class="current">current</span>, <span class="former">former(days relevant)</span></p>')
     return '\n'.join(buf)
 
-def format_as_html_links_list(words):
-    buf = ['<!DOCTYPE html>']
-    buf.append('<html><head>')
-    buf.append('<link rel="stylesheet" type="text/css" href="static/oz.css" />')
-    buf.append('<link rel="stylesheet" type="text/css" href="static/zeitgeist.css" />')
-    buf.append('<script src="static/oz-dark-mode.js"></script>')
-    buf.append('</head><body onload="initTheme()">')
-    buf.append('<header><a href="index.html"><h1>News Links</h1></a></header>')
-    buf.append('<section>')
+def format_as_markdown_links_list(words):
+    buf = ['---']
+    buf.append('tags: __no_header__, __no_footer__')
+    buf.append('---')
+    buf.append('')
+    buf.append('# [Zeitgeist News Links](index.html)')
+    buf.append('')
     for word in words:
         w = word.word
-        buf.append('<p>')
-        buf.append(f'<a name="{w}"></a><h3>{w}</h3>')
-        buf.append('<ul>')
+        buf.append(f'### {w}')
+        buf.append('')
         for link in word.links:
-            buf.append(f'''<li><a href="{link}" target="_blank" class="current">{link.replace('#ref=rss', '')}</a></li>''')
-        buf.append('</ul>')
-        buf.append('</p>')
-    buf.append('</section>')
+            buf.append(f'''* <a href="{link}" target="_blank" class="current">{link.replace('#ref=rss', '')}</a>''')
+    buf.append('')
     buf.append('<footer><a href="index.html" class="nav">back</a><a href="javascript:toggleTheme()" class="nav">🌓</a></footer>')
     buf.append('</body></html>')
     return '\n'.join(buf)
@@ -84,8 +79,8 @@ def main():
         formatted = format_as_html(occured_at_least_twice, old_words) + '\n'
         f.write(formatted)
 
-    with open('news_links.html', 'w') as f:
-        formatted = format_as_html_links_list(occured_at_least_twice) + '\n'
+    with open('news_links.md', 'w') as f:
+        formatted = format_as_markdown_links_list(occured_at_least_twice) + '\n'
         f.write(formatted)
 
     with open(DE_WORDDB, 'w') as f:
