@@ -3,7 +3,7 @@ title: Zeitgeist
 tags: __no_header__, __no_footer__
 ---
 
-# Zeitgeist
+# [Zeitgeist](https://oliz.io/zeitgeist/) [![Zeitgeist CircleCI build indicator](https://circleci.com/gh/ooz/zeitgeist.svg?style=shield)](https://circleci.com/gh/ooz/zeitgeist)
 
 ## Language
 
@@ -57,6 +57,7 @@ tags: __no_header__, __no_footer__
 <span style="font-size:12pt"><a href="news_links.html#spd" class="current">spd</a></span>
 <span style="font-size:12pt"><a href="news_links.html#hochrechnungen" class="current">hochrechnungen</a></span>
 <span style="font-size:12pt"><a href="news_links.html#ministerpräsident" class="current">ministerpräsident</a></span>
+<span style="font-size:12pt"><a href="news_links.html#wiedereinzug" class="new">wiedereinzug</a></span>
 <span style="font-size:12pt"><a href="news_links.html#landtag" class="current">landtag</a></span>
 <span style="font-size:12pt"><a href="news_links.html#özdemir" class="current">özdemir</a></span>
 <span style="font-size:12pt"><a href="news_links.html#russland" class="current">russland</a></span>
@@ -134,19 +135,16 @@ coronainfektionen(227) kultusministerkonferenz(227) kurzfristig(227) lebenslange
 
 ```
 date, investment, buy price, sell price
-2021-06-06 17:57:49, 1-EUR, 1.21 USD, 1.21 USD
-2021-06-06 17:57:49, 1-EUR, 7.76 CNY, 7.76 CNY
-2021-06-06 17:57:50, crude-oil-brent-barrel, 71.89 USD, 71.89 USD
-2021-06-06 17:57:50, gold-10g, 520.76 EUR, 494.76 EUR
-2021-06-06 17:57:53, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-06-06 17:57:54, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-06-06 17:57:56, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
+2021-06-06 18:01:53, 1-EUR, 1.21 USD, 1.21 USD
+2021-06-06 18:01:53, 1-EUR, 7.76 CNY, 7.76 CNY
+2021-06-06 18:01:54, crude-oil-brent-barrel, 71.89 USD, 71.89 USD
+2021-06-06 18:01:54, gold-10g, 520.76 EUR, 494.76 EUR
+2021-06-06 18:01:57, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-06-06 18:01:58, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-06-06 18:01:59, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
 ```
 
 <footer>
 <a href="javascript:toggleTheme()" class="nav">🌓</a>
-<p>- measuring the
-<a href="https://github.com/ooz/zeitgeist">Zeitgeist</a>
-<a href="https://circleci.com/gh/ooz/zeitgeist" target="_blank"><img src="https://circleci.com/gh/ooz/zeitgeist.svg?style=shield" alt="Zeitgeist CircleCI build indicator" /></a>
-since 2019, by <a href="https://oliz.io">oz</a></p>
+- [code](https://github.com/ooz/zeitgeist) measuring the Zeitgeist since 2019, by [oz](https://oliz.io)
 </footer>
