@@ -4,6 +4,12 @@ often: pull track_language build deploy
 
 rarely: pull track_investments build deploy
 
+update: ## Update ggpy
+	wget -q https://raw.githubusercontent.com/ooz/ggpy/master/gg.py -O gg.py
+	@echo "Unfortunately the Makefile cannot be updated automatically!"
+	@echo "Run the following command to update:"
+	@echo "wget -q https://raw.githubusercontent.com/ooz/ggpy/master/Makefile -O Makefile"
+
 # Track and building
 track_investments:
 	pipenv run python3 investment_tracker.py
@@ -51,5 +57,6 @@ clean_artifacts:
 clean: clean_artifacts clean_vscode
 
 .PHONY: track_investments track_language build \
+update \
 install_pipenv init pull deploy \
 clean_vscode clean_coverage clean_artifacts

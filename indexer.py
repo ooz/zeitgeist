@@ -39,6 +39,34 @@ since 2019, by <a href="https://oliz.io">oz</a></p>
 </html>
 '''
 
+def as_markdown(investments, news):
+    return f'''---
+title: Zeitgeist
+tags: __no_header__, __no_footer__
+---
+
+## Language
+
+{news}
+
+## Investments[.csv](investments.csv)
+
+[Inflation Chart](https://inflationchart.com),
+[Stocks in BTC](https://stonksinbtc.xyz/)
+
+```
+{investments}
+```
+
+<footer>
+<a href="javascript:toggleTheme()" class="nav">🌓</a>
+<p>- measuring the
+<a href="https://github.com/ooz/zeitgeist">Zeitgeist</a>
+<a href="https://circleci.com/gh/ooz/zeitgeist" target="_blank"><img src="https://circleci.com/gh/ooz/zeitgeist.svg?style=shield" alt="Zeitgeist CircleCI build indicator" /></a>
+since 2019, by <a href="https://oliz.io">oz</a></p>
+</footer>
+'''
+
 def readfile(path):
     if os.path.isfile(path):
         with open(path, 'r') as f:
@@ -48,9 +76,13 @@ def readfile(path):
 def main():
     investments_csv = readfile('investments.csv').strip()
     news = readfile('news.html').strip()
-    investments_html = as_html(investments_csv, news)
+    index_html = as_html(investments_csv, news)
+    index_md = as_markdown(investments_csv, news)
+
     with open('index.html', 'w') as f:
-        f.write(investments_html)
+        f.write(index_html)
+    with open('gg-index.md', 'w') as f:
+        f.write(index_md)
 
 if __name__ == "__main__":
     main()

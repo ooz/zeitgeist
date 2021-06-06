@@ -10,6 +10,8 @@ coverage = "*"
 [packages]
 beautifulsoup4 = "*"
 feedparser = "*"
+markdown = "*"
+pymdown-extensions = "*"
 
 [requires]
 python_version = "3.6"
