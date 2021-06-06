@@ -52,7 +52,7 @@ def format_as_markdown_links_list(words):
         buf.append(f'### {w}')
         buf.append('')
         for link in word.links:
-            buf.append(f'''* <a href="{link}" target="_blank" class="current">{link.replace('#ref=rss', '')}</a>''')
+            buf.append(f'''* [{link.replace('#ref=rss', '')}]({link})''')
     buf.append('')
     buf.append('<footer><a href="index.html" class="nav">back</a><a href="javascript:toggleTheme()" class="nav">🌓</a></footer>')
     buf.append('</body></html>')
