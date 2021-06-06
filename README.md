@@ -1,98 +1,12 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+---
+title: Zeitgeist
+tags: __no_header__, __no_footer__
+---
 
-<title>Zeitgeist</title>
-<link rel="canonical" href="gg-">
+# Zeitgeist
 
-<style>
-body {
-    font-size: 18px;
-    font-family: sans-serif;
-    line-height: 1.6;
-    color: #363636;
-    background: #FFF;
-    margin: 1rem auto;
-    padding: 0 10px;
-    max-width: 700px;
-    scroll-behavior: smooth;
-}
-a { color: #07A; text-decoration: none; }
-blockquote {
-    background: #EAEAEA;
-    border-left: .3rem solid #07A;
-    border-radius: .3rem;
-    margin: 0 .2rem;
-    padding: 0 .5rem;
-}
-code {
-    font-size: 80%;
-    background: #EAEAEA;
-    padding: .2rem .5rem;
-    white-space: nowrap;
-}
-footer { margin-top: 1rem; }
-h1 { text-align: center; margin: 0 auto; }
-h1, h2, h3, h4, h5, h6 { font-family: serif; font-weight: bold; }
-header { text-align:center; }
-img { max-width: 100%; }
-ul.task-list, ul.task-list li.task-list-item {
-    list-style-type: none;
-    list-style-image: none;
-}
-pre { border-left: 0.3rem solid #07A; }
-pre > code {
-    font-size: 14px;
-    background: #EAEAEA;
-    box-sizing: inherit;
-    display: block;
-    overflow-x: auto;
-    margin: 0 .2rem;
-    white-space: pre;
-}
-table {
-    border-spacing: 0;
-    width: 100%;
-}
-td, th {
-    border-bottom: .1rem solid;
-    padding: .8rem 1rem;
-    text-align: left;
-    vertical-align: top;
-}
+## Language
 
-.dark-mode { color: #CACACA; background: #363636; }
-.dark-mode a { color: #0A7; }
-.dark-mode blockquote { background: #222; border-left: 0.3rem solid #0A7; }
-.dark-mode code { background: #222; }
-.dark-mode pre { border-left: 0.3rem solid #0A7; }
-
-.avatar { border-radius: 50%; box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2); max-width: 3rem; }
-.nav { float: left; margin-right: 1rem; }
-.social { float: right; margin-left: 1rem; }
-</style>
-<script>
-function toggleTheme() { document.body.classList.toggle("dark-mode") }
-function initTheme() { let h=new Date().getHours(); if (h <= 8 || h >= 20) { toggleTheme() } }
-</script>
-<meta name="description" content="Zeitgeist">
-<meta name="keywords" content="__no_header__, __no_footer__">
-
-<meta property="og:title" content="Zeitgeist">
-<meta property="og:type" content="article">
-<meta property="og:url" content="gg-">
-<meta property="og:description" content="Zeitgeist">
-<meta property="og:locale" content="en-US">
-<script type="application/ld+json">
-{"@context":"http://schema.org","@type":"WebSite","headline":"Zeitgeist","url":"gg-","description":"Zeitgeist"}</script>
-</head>
-
-<body onload="initTheme()">
-<section>
-<h2 id="language">Language</h2>
 <h3><a href="https://www.spiegel.de" target="_blank">spiegel.de</a> (9 to 2 occurrences)</h3>
 <p style="font-family:monospace">
 <span style="font-size:32pt"><a href="news_links.html#sachsenanhalt" class="current">sachsenanhalt</a></span>
@@ -218,17 +132,22 @@ coronainfektionen(227) kultusministerkonferenz(227) kurzfristig(227) lebenslange
 </details>
 <p>Legend: <span class="new">new</span>, <span class="current">current</span>, <span class="former">former(days relevant)</span></p>
 
-<h2 id="investmentscsv">Investments<a href="investments.csv">.csv</a></h2>
-<p><a href="https://inflationchart.com">Inflation Chart</a>,
-<a href="https://stonksinbtc.xyz/">Stocks in BTC</a></p>
-<pre class="highlight"><code>date, investment, buy price, sell price
+## Investments[.csv](investments.csv)
+
+[Inflation Chart](https://inflationchart.com),
+[Stocks in BTC](https://stonksinbtc.xyz/)
+
+```
+date, investment, buy price, sell price
 2021-06-06 19:33:58, 1-EUR, 1.21 USD, 1.21 USD
 2021-06-06 19:33:58, 1-EUR, 7.76 CNY, 7.76 CNY
 2021-06-06 19:33:58, crude-oil-brent-barrel, 71.89 USD, 71.89 USD
 2021-06-06 19:33:59, gold-10g, 520.76 EUR, 494.76 EUR
 2021-06-06 19:34:01, lego-2019-30365-1-satellit, 4.0 EUR, 4.0 EUR
 2021-06-06 19:34:02, lego-2019-60224-1-satellitenwartung, 8.0 EUR, 8.0 EUR
-2021-06-06 19:34:03, lego-2019-60225-1-rovertestfahrt, 17.0 EUR, 17.0 EUR</code></pre>
+2021-06-06 19:34:03, lego-2019-60225-1-rovertestfahrt, 17.0 EUR, 17.0 EUR
+```
+
 <footer>
 <a href="javascript:toggleTheme()" class="nav">🌓</a>
 <p>- measuring the
@@ -236,6 +155,3 @@ coronainfektionen(227) kultusministerkonferenz(227) kurzfristig(227) lebenslange
 <a href="https://circleci.com/gh/ooz/zeitgeist" target="_blank"><img src="https://circleci.com/gh/ooz/zeitgeist.svg?style=shield" alt="Zeitgeist CircleCI build indicator" /></a>
 since 2019, by <a href="https://oliz.io">oz</a></p>
 </footer>
-</section>
-</body>
-</html>
