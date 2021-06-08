@@ -4,320 +4,275 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/trier-fall-beatrix-hemmerle-polizei-startet-weiteren-dna-reihentest](https://www.spiegel.de/panorama/justiz/trier-fall-beatrix-hemmerle-polizei-startet-weiteren-dna-reihentest-a-00e11763-a470-4b87-bc88-f908e87e72f2#ref=rss)
-* [https://www.spiegel.de/panorama/bobingen-im-landkreis-augsburg-neunjaehrige-ohne-einverstaendnis-der-eltern-gegen-das-coronavirus-geimpft](https://www.spiegel.de/panorama/bobingen-im-landkreis-augsburg-neunjaehrige-ohne-einverstaendnis-der-eltern-gegen-das-coronavirus-geimpft-a-c3b27809-0f84-456a-a48d-607dd4c5f962#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hannover-nach-toedlichen-schuessen-sek-nimmt-verdaechtigen-fest](https://www.spiegel.de/panorama/justiz/hannover-nach-toedlichen-schuessen-sek-nimmt-verdaechtigen-fest-a-678e316f-9819-4a72-b460-3422c1db702a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fussball-europameisterschaft-polizeigewerkschaft-warnt-vor-krawallen](https://www.spiegel.de/panorama/justiz/fussball-europameisterschaft-polizeigewerkschaft-warnt-vor-krawallen-a-2267f12a-a4c9-4860-a672-55174fc2f55c#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-kuendigen-streik-an](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-kuendigen-streik-an-a-8d46fd79-eb15-48f1-ab68-72050a5ed5c8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-produziert-ueberraschend-ein-prozent-weniger](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-produziert-ueberraschend-ein-prozent-weniger-a-ed059faa-592f-4be4-9384-4d6bf578cc22#ref=rss)
-* [https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-schlaegt-lettland-7-1-kein-grund-zur-euphorie](https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-schlaegt-lettland-7-1-kein-grund-zur-euphorie-a-fce4a096-c955-4cd2-b4d4-1bfd7ba701e4#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/trier-fall-beatrix-hemmerle-polizei-startet-weiteren-dna-reihentest](https://www.spiegel.de/panorama/justiz/trier-fall-beatrix-hemmerle-polizei-startet-weiteren-dna-reihentest-a-00e11763-a470-4b87-bc88-f908e87e72f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet](https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet-a-579e8ac7-18af-4029-9056-d28618c8f08c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/australotitan-cooperensis-bisher-unbekannter-dino-in-australien-gefunden](https://www.spiegel.de/wissenschaft/natur/australotitan-cooperensis-bisher-unbekannter-dino-in-australien-gefunden-a-2cf0f100-27f9-4592-b164-b1b9b2bbe1ad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-produziert-ueberraschend-ein-prozent-weniger](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-produziert-ueberraschend-ein-prozent-weniger-a-ed059faa-592f-4be4-9384-4d6bf578cc22#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet](https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet-a-579e8ac7-18af-4029-9056-d28618c8f08c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/vfb-stuttgart-silas-wamangituka-heisst-eigentlich-anders](https://www.spiegel.de/sport/fussball/vfb-stuttgart-silas-wamangituka-heisst-eigentlich-anders-a-e08d2185-a742-4f1c-8de6-4ad9639a9b1d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nationale-wasserstrategie-svenja-schulze-warnt-vor-wasserknappheit-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/nationale-wasserstrategie-svenja-schulze-warnt-vor-wasserknappheit-in-deutschland-a-b6f3ae70-905c-4bce-9b76-2399f671bfd3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen-a-49f79f95-a940-4b2a-ab9e-1f13fd817216#ref=rss)
-### schulze
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh-a-a2c1667e-b8a8-453d-b083-d970f97cf009#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nationale-wasserstrategie-svenja-schulze-warnt-vor-wasserknappheit-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/nationale-wasserstrategie-svenja-schulze-warnt-vor-wasserknappheit-in-deutschland-a-b6f3ae70-905c-4bce-9b76-2399f671bfd3#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/trier-fall-beatrix-hemmerle-polizei-startet-weiteren-dna-reihentest](https://www.spiegel.de/panorama/justiz/trier-fall-beatrix-hemmerle-polizei-startet-weiteren-dna-reihentest-a-00e11763-a470-4b87-bc88-f908e87e72f2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/vfb-stuttgart-silas-wamangituka-heisst-eigentlich-anders](https://www.spiegel.de/sport/fussball/vfb-stuttgart-silas-wamangituka-heisst-eigentlich-anders-a-e08d2185-a742-4f1c-8de6-4ad9639a9b1d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hannover-nach-toedlichen-schuessen-sek-nimmt-verdaechtigen-fest](https://www.spiegel.de/panorama/justiz/hannover-nach-toedlichen-schuessen-sek-nimmt-verdaechtigen-fest-a-678e316f-9819-4a72-b460-3422c1db702a#ref=rss)
-### pandemie
-
-* [https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet](https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet-a-579e8ac7-18af-4029-9056-d28618c8f08c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/corona-wie-die-pandemie-den-produkt-faelschern-nutzt](https://www.spiegel.de/wirtschaft/service/corona-wie-die-pandemie-den-produkt-faelschern-nutzt-a-249f9b62-54c1-48c6-a2b6-49312db0cd17#ref=rss)
-* [https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung](https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung-a-270cf19c-634d-4a3a-bf17-e45fdfb6c902#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-verfassungsschutz-sammelte-illegal-daten-ueber-vize-ministerpraesident](https://www.spiegel.de/politik/deutschland/sachsen-verfassungsschutz-sammelte-illegal-daten-ueber-vize-ministerpraesident-a-d3b45f6a-ec4e-4912-ba58-a348b06547ac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-produziert-ueberraschend-ein-prozent-weniger](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-produziert-ueberraschend-ein-prozent-weniger-a-ed059faa-592f-4be4-9384-4d6bf578cc22#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vdk-praesidentin-verena-bentele-ueber-pflege-reform-finanzierung-grenzt-an-betrug](https://www.spiegel.de/wirtschaft/unternehmen/vdk-praesidentin-verena-bentele-ueber-pflege-reform-finanzierung-grenzt-an-betrug-a-d6489671-7802-4754-9d95-572848458652#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-verfassungsschutz-sammelte-illegal-daten-ueber-vize-ministerpraesident](https://www.spiegel.de/politik/deutschland/sachsen-verfassungsschutz-sammelte-illegal-daten-ueber-vize-ministerpraesident-a-d3b45f6a-ec4e-4912-ba58-a348b06547ac#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition](https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition-a-ad9ab9dd-b57b-4795-afe5-d101ffc00d19#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh-a-a2c1667e-b8a8-453d-b083-d970f97cf009#ref=rss)
-### masken
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition](https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition-a-ad9ab9dd-b57b-4795-afe5-d101ffc00d19#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fussball-europameisterschaft-polizeigewerkschaft-warnt-vor-krawallen](https://www.spiegel.de/panorama/justiz/fussball-europameisterschaft-polizeigewerkschaft-warnt-vor-krawallen-a-2267f12a-a4c9-4860-a672-55174fc2f55c#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition](https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition-a-ad9ab9dd-b57b-4795-afe5-d101ffc00d19#ref=rss)
-* [https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung](https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung-a-270cf19c-634d-4a3a-bf17-e45fdfb6c902#ref=rss)
-### atalay
-
-* [https://www.spiegel.de/kultur/tv/ard-tagesthemen-pinar-atalay-wechselt-zu-rtl](https://www.spiegel.de/kultur/tv/ard-tagesthemen-pinar-atalay-wechselt-zu-rtl-a-2aceb01c-2d3a-421b-a7e6-6f2f4223cf83#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/euskirchen-mutter-soll-vierjaehrigen-sohn-getoetet-haben](https://www.spiegel.de/panorama/justiz/euskirchen-mutter-soll-vierjaehrigen-sohn-getoetet-haben-a-06c9592a-c9d1-4568-82ee-6a3e5c3acc43#ref=rss)
-* [https://www.spiegel.de/panorama/homburg-dieb-klaut-grillfleisch-aus-wurstautomaten-und-hinterlaesst-entschuldigung](https://www.spiegel.de/panorama/homburg-dieb-klaut-grillfleisch-aus-wurstautomaten-und-hinterlaesst-entschuldigung-a-5ef0a8d4-be93-4b3a-84c4-8bc07832b34a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen-a-49f79f95-a940-4b2a-ab9e-1f13fd817216#ref=rss)
-### bushido
-
-* [https://www.spiegel.de/panorama/leute/bushido-ehefrau-anna-maria-ferchichi-erwartet-drillinge](https://www.spiegel.de/panorama/leute/bushido-ehefrau-anna-maria-ferchichi-erwartet-drillinge-a-3e4f6f54-f611-411d-960d-8dd2c24268b5#ref=rss)
-### annamaria
-
-* [https://www.spiegel.de/panorama/leute/bushido-ehefrau-anna-maria-ferchichi-erwartet-drillinge](https://www.spiegel.de/panorama/leute/bushido-ehefrau-anna-maria-ferchichi-erwartet-drillinge-a-3e4f6f54-f611-411d-960d-8dd2c24268b5#ref=rss)
-### ferchichi
-
-* [https://www.spiegel.de/panorama/leute/bushido-ehefrau-anna-maria-ferchichi-erwartet-drillinge](https://www.spiegel.de/panorama/leute/bushido-ehefrau-anna-maria-ferchichi-erwartet-drillinge-a-3e4f6f54-f611-411d-960d-8dd2c24268b5#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/leute/bushido-ehefrau-anna-maria-ferchichi-erwartet-drillinge](https://www.spiegel.de/panorama/leute/bushido-ehefrau-anna-maria-ferchichi-erwartet-drillinge-a-3e4f6f54-f611-411d-960d-8dd2c24268b5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/euskirchen-mutter-soll-vierjaehrigen-sohn-getoetet-haben](https://www.spiegel.de/panorama/justiz/euskirchen-mutter-soll-vierjaehrigen-sohn-getoetet-haben-a-06c9592a-c9d1-4568-82ee-6a3e5c3acc43#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/wirtschaft/thomas-schmid-vertrauter-von-oesterreichs-kanzler-sebastian-kurz-tritt-zurueck](https://www.spiegel.de/wirtschaft/thomas-schmid-vertrauter-von-oesterreichs-kanzler-sebastian-kurz-tritt-zurueck-a-306ea192-9915-4efb-b36b-0544c38b797a#ref=rss)
-### schmid
-
-* [https://www.spiegel.de/wirtschaft/thomas-schmid-vertrauter-von-oesterreichs-kanzler-sebastian-kurz-tritt-zurueck](https://www.spiegel.de/wirtschaft/thomas-schmid-vertrauter-von-oesterreichs-kanzler-sebastian-kurz-tritt-zurueck-a-306ea192-9915-4efb-b36b-0544c38b797a#ref=rss)
-### vertrauter
-
-* [https://www.spiegel.de/wirtschaft/thomas-schmid-vertrauter-von-oesterreichs-kanzler-sebastian-kurz-tritt-zurueck](https://www.spiegel.de/wirtschaft/thomas-schmid-vertrauter-von-oesterreichs-kanzler-sebastian-kurz-tritt-zurueck-a-306ea192-9915-4efb-b36b-0544c38b797a#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/wirtschaft/thomas-schmid-vertrauter-von-oesterreichs-kanzler-sebastian-kurz-tritt-zurueck](https://www.spiegel.de/wirtschaft/thomas-schmid-vertrauter-von-oesterreichs-kanzler-sebastian-kurz-tritt-zurueck-a-306ea192-9915-4efb-b36b-0544c38b797a#ref=rss)
-### sebastian
-
-* [https://www.spiegel.de/wirtschaft/thomas-schmid-vertrauter-von-oesterreichs-kanzler-sebastian-kurz-tritt-zurueck](https://www.spiegel.de/wirtschaft/thomas-schmid-vertrauter-von-oesterreichs-kanzler-sebastian-kurz-tritt-zurueck-a-306ea192-9915-4efb-b36b-0544c38b797a#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/wirtschaft/thomas-schmid-vertrauter-von-oesterreichs-kanzler-sebastian-kurz-tritt-zurueck](https://www.spiegel.de/wirtschaft/thomas-schmid-vertrauter-von-oesterreichs-kanzler-sebastian-kurz-tritt-zurueck-a-306ea192-9915-4efb-b36b-0544c38b797a#ref=rss)
-### lokführer
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-kuendigen-streik-an](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-kuendigen-streik-an-a-8d46fd79-eb15-48f1-ab68-72050a5ed5c8#ref=rss)
-### gebracht
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-kuendigen-streik-an](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-kuendigen-streik-an-a-8d46fd79-eb15-48f1-ab68-72050a5ed5c8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/euskirchen-mutter-soll-vierjaehrigen-sohn-getoetet-haben](https://www.spiegel.de/panorama/justiz/euskirchen-mutter-soll-vierjaehrigen-sohn-getoetet-haben-a-06c9592a-c9d1-4568-82ee-6a3e5c3acc43#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet](https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet-a-579e8ac7-18af-4029-9056-d28618c8f08c#ref=rss)
-* [https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung](https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung-a-270cf19c-634d-4a3a-bf17-e45fdfb6c902#ref=rss)
-### beschäftigte
-
-* [https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet](https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet-a-579e8ac7-18af-4029-9056-d28618c8f08c#ref=rss)
-### fallen
-
-* [https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet](https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet-a-579e8ac7-18af-4029-9056-d28618c8f08c#ref=rss)
-* [https://www.spiegel.de/ausland/voelkermord-von-srebrenica-uno-tribunal-verkuendet-finales-urteil-gegen-ratko-mladic](https://www.spiegel.de/ausland/voelkermord-von-srebrenica-uno-tribunal-verkuendet-finales-urteil-gegen-ratko-mladic-a-e31d9dfd-5a83-48d6-a071-e246f0ec8120#ref=rss)
-### bedroht
-
-* [https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet](https://www.spiegel.de/wirtschaft/soziales/nhs-in-grossbritannien-zu-viele-beschaeftigte-erleiden-burnout-gesundheitsversorgung-gefaehrdet-a-579e8ac7-18af-4029-9056-d28618c8f08c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen-a-49f79f95-a940-4b2a-ab9e-1f13fd817216#ref=rss)
-### verfassungsschutz
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-verfassungsschutz-sammelte-illegal-daten-ueber-vize-ministerpraesident](https://www.spiegel.de/politik/deutschland/sachsen-verfassungsschutz-sammelte-illegal-daten-ueber-vize-ministerpraesident-a-d3b45f6a-ec4e-4912-ba58-a348b06547ac#ref=rss)
-### illegal
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-verfassungsschutz-sammelte-illegal-daten-ueber-vize-ministerpraesident](https://www.spiegel.de/politik/deutschland/sachsen-verfassungsschutz-sammelte-illegal-daten-ueber-vize-ministerpraesident-a-d3b45f6a-ec4e-4912-ba58-a348b06547ac#ref=rss)
-### bobingen
-
-* [https://www.spiegel.de/panorama/bobingen-im-landkreis-augsburg-neunjaehrige-ohne-einverstaendnis-der-eltern-gegen-das-coronavirus-geimpft](https://www.spiegel.de/panorama/bobingen-im-landkreis-augsburg-neunjaehrige-ohne-einverstaendnis-der-eltern-gegen-das-coronavirus-geimpft-a-c3b27809-0f84-456a-a48d-607dd4c5f962#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/panorama/bobingen-im-landkreis-augsburg-neunjaehrige-ohne-einverstaendnis-der-eltern-gegen-das-coronavirus-geimpft](https://www.spiegel.de/panorama/bobingen-im-landkreis-augsburg-neunjaehrige-ohne-einverstaendnis-der-eltern-gegen-das-coronavirus-geimpft-a-c3b27809-0f84-456a-a48d-607dd4c5f962#ref=rss)
-* [https://www.spiegel.de/ausland/israel-parlament-stimmt-sonntag-ueber-neue-regierung-ab](https://www.spiegel.de/ausland/israel-parlament-stimmt-sonntag-ueber-neue-regierung-ab-a-5419ffe3-8a21-4c96-855d-55ed67a71b31#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/bobingen-im-landkreis-augsburg-neunjaehrige-ohne-einverstaendnis-der-eltern-gegen-das-coronavirus-geimpft](https://www.spiegel.de/panorama/bobingen-im-landkreis-augsburg-neunjaehrige-ohne-einverstaendnis-der-eltern-gegen-das-coronavirus-geimpft-a-c3b27809-0f84-456a-a48d-607dd4c5f962#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hannover-nach-toedlichen-schuessen-sek-nimmt-verdaechtigen-fest](https://www.spiegel.de/panorama/justiz/hannover-nach-toedlichen-schuessen-sek-nimmt-verdaechtigen-fest-a-678e316f-9819-4a72-b460-3422c1db702a#ref=rss)
-### jens
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition](https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition-a-ad9ab9dd-b57b-4795-afe5-d101ffc00d19#ref=rss)
-### spahn
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition](https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition-a-ad9ab9dd-b57b-4795-afe5-d101ffc00d19#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition](https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition-a-ad9ab9dd-b57b-4795-afe5-d101ffc00d19#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh-a-a2c1667e-b8a8-453d-b083-d970f97cf009#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition](https://www.spiegel.de/politik/deutschland/jens-spahn-masken-streit-belastet-die-koalition-a-ad9ab9dd-b57b-4795-afe5-d101ffc00d19#ref=rss)
-* [https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung](https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung-a-270cf19c-634d-4a3a-bf17-e45fdfb6c902#ref=rss)
-### vfb
+* [https://www.spiegel.de/wissenschaft/natur/braunbaer-plage-in-rumaenien-als-er-mich-biss-hat-er-sein-maul-so-aufgerissen-tv-reportage](https://www.spiegel.de/wissenschaft/natur/braunbaer-plage-in-rumaenien-als-er-mich-biss-hat-er-sein-maul-so-aufgerissen-tv-reportage-a-81dfb34f-2f31-4fc5-805e-a044237b98c3#ref=rss)
+* [https://www.spiegel.de/ausland/kanada-justin-trudeau-spricht-nach-toedliche-auto-attacke-auf-muslime-von-terror](https://www.spiegel.de/ausland/kanada-justin-trudeau-spricht-nach-toedliche-auto-attacke-auf-muslime-von-terror-a-e7ea1f35-8652-4b6c-83b4-53a1f23b44a9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klima-in-europaeischen-laendern-sorgen-sich-immer-mehr-menschen-um-dieses-thema](https://www.spiegel.de/wissenschaft/natur/klima-in-europaeischen-laendern-sorgen-sich-immer-mehr-menschen-um-dieses-thema-a-cfac478f-e414-40f0-89d5-2a45df74f0e5#ref=rss)
+### weg
 
-* [https://www.spiegel.de/sport/fussball/vfb-stuttgart-silas-wamangituka-heisst-eigentlich-anders](https://www.spiegel.de/sport/fussball/vfb-stuttgart-silas-wamangituka-heisst-eigentlich-anders-a-e08d2185-a742-4f1c-8de6-4ad9639a9b1d#ref=rss)
-### stuttgart
+* [https://www.spiegel.de/auto/pendeln-in-deutschland-bahn-benzin-und-andere-kostenfallen](https://www.spiegel.de/auto/pendeln-in-deutschland-bahn-benzin-und-andere-kostenfallen-a-f3eed1ee-d631-4009-ac44-812827037e02#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ber-in-finanznoeten-eine-insolvenz-waere-der-sauberste-weg](https://www.spiegel.de/wirtschaft/unternehmen/ber-in-finanznoeten-eine-insolvenz-waere-der-sauberste-weg-a-a5445814-14a6-436b-93ee-855135c58309#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kinderrechte-cdu-und-spd-geben-sich-gegenseitig-die-schuld-an-gescheiterten-verhandlungen](https://www.spiegel.de/politik/deutschland/kinderrechte-cdu-und-spd-geben-sich-gegenseitig-die-schuld-an-gescheiterten-verhandlungen-a-5386e2cd-b119-4ad2-bd14-db1f2e77753b#ref=rss)
+### große
 
-* [https://www.spiegel.de/sport/fussball/vfb-stuttgart-silas-wamangituka-heisst-eigentlich-anders](https://www.spiegel.de/sport/fussball/vfb-stuttgart-silas-wamangituka-heisst-eigentlich-anders-a-e08d2185-a742-4f1c-8de6-4ad9639a9b1d#ref=rss)
-### silas
+* [https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-insolvenzen-geht-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-insolvenzen-geht-zurueck-a-e99bff7e-bcfc-43bb-8ad2-be77af4d2722#ref=rss)
+* [https://www.spiegel.de/auto/adac-staus-zu-den-ferien-laenger-als-vor-corona](https://www.spiegel.de/auto/adac-staus-zu-den-ferien-laenger-als-vor-corona-a-75a10861-2283-4c29-ba7c-3b4326948891#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klima-in-europaeischen-laendern-sorgen-sich-immer-mehr-menschen-um-dieses-thema](https://www.spiegel.de/wissenschaft/natur/klima-in-europaeischen-laendern-sorgen-sich-immer-mehr-menschen-um-dieses-thema-a-cfac478f-e414-40f0-89d5-2a45df74f0e5#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/sport/fussball/vfb-stuttgart-silas-wamangituka-heisst-eigentlich-anders](https://www.spiegel.de/sport/fussball/vfb-stuttgart-silas-wamangituka-heisst-eigentlich-anders-a-e08d2185-a742-4f1c-8de6-4ad9639a9b1d#ref=rss)
-### hannover
+* [https://www.spiegel.de/ausland/antonia-guterres-uno-sicherheitsrat-unterstuetzt-zweite-amtszeit-des-generalsekretaers](https://www.spiegel.de/ausland/antonia-guterres-uno-sicherheitsrat-unterstuetzt-zweite-amtszeit-des-generalsekretaers-a-bccb04f2-52a2-48c1-bc5b-d277f692baca#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-weltbank-rechnet-mit-kraeftigstem-aufschwung-seit-80-jahren](https://www.spiegel.de/wirtschaft/weltwirtschaft-weltbank-rechnet-mit-kraeftigstem-aufschwung-seit-80-jahren-a-652a94ff-2c21-47c8-a5a3-69a9be418610#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/klaus-fassin-ist-tot-katjes-gruender-mit-89-jahren-gestorben](https://www.spiegel.de/wirtschaft/unternehmen/klaus-fassin-ist-tot-katjes-gruender-mit-89-jahren-gestorben-a-8f7b4860-9d79-4889-af3f-c8d4c220f514#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/justiz/hannover-nach-toedlichen-schuessen-sek-nimmt-verdaechtigen-fest](https://www.spiegel.de/panorama/justiz/hannover-nach-toedlichen-schuessen-sek-nimmt-verdaechtigen-fest-a-678e316f-9819-4a72-b460-3422c1db702a#ref=rss)
-### debbie
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-weltbank-rechnet-mit-kraeftigstem-aufschwung-seit-80-jahren](https://www.spiegel.de/wirtschaft/weltwirtschaft-weltbank-rechnet-mit-kraeftigstem-aufschwung-seit-80-jahren-a-652a94ff-2c21-47c8-a5a3-69a9be418610#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-streben-handelspakt-mit-taiwan-an](https://www.spiegel.de/wirtschaft/usa-streben-handelspakt-mit-taiwan-an-a-14b0e7e6-ffad-4ca3-b12a-02d51b3592c5#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-england-debbie-hewitt-wird-erste-verbandschefin-der-fa](https://www.spiegel.de/sport/fussball/fussball-in-england-debbie-hewitt-wird-erste-verbandschefin-der-fa-a-03119a70-3f0a-439d-88dc-d0f41c03538f#ref=rss)
-### hewitt
+* [https://www.spiegel.de/politik/deutschland/michael-kellner-ueber-gruenen-enttaeuschung-in-sachsen-anhalt-es-gibt-auch-im-osten-eine-sehnsucht-nach-einer-anderen-politik](https://www.spiegel.de/politik/deutschland/michael-kellner-ueber-gruenen-enttaeuschung-in-sachsen-anhalt-es-gibt-auch-im-osten-eine-sehnsucht-nach-einer-anderen-politik-a-da407e39-edb7-45ee-9745-bd83434ca258#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-gruenen-nennt-die-ungenauigkeiten-im-lebenslauf-mist](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-gruenen-nennt-die-ungenauigkeiten-im-lebenslauf-mist-a-100daf75-ddc9-47e5-b0cd-ccd7b91f88c1#ref=rss)
+### lopez
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-england-debbie-hewitt-wird-erste-verbandschefin-der-fa](https://www.spiegel.de/sport/fussball/fussball-in-england-debbie-hewitt-wird-erste-verbandschefin-der-fa-a-03119a70-3f0a-439d-88dc-d0f41c03538f#ref=rss)
-### erste
+* [https://www.spiegel.de/kultur/musik/jennifer-lopez-netflix-schliesst-mit-saengerin-mehrjaehrigen-vertrag-ab](https://www.spiegel.de/kultur/musik/jennifer-lopez-netflix-schliesst-mit-saengerin-mehrjaehrigen-vertrag-ab-a-84caa660-44b7-4d06-b208-2606541afde5#ref=rss)
+### givan
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-england-debbie-hewitt-wird-erste-verbandschefin-der-fa](https://www.spiegel.de/sport/fussball/fussball-in-england-debbie-hewitt-wird-erste-verbandschefin-der-fa-a-03119a70-3f0a-439d-88dc-d0f41c03538f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/australotitan-cooperensis-bisher-unbekannter-dino-in-australien-gefunden](https://www.spiegel.de/wissenschaft/natur/australotitan-cooperensis-bisher-unbekannter-dino-in-australien-gefunden-a-2cf0f100-27f9-4592-b164-b1b9b2bbe1ad#ref=rss)
-### fa
+* [https://www.spiegel.de/ausland/nordirland-paul-givan-wird-neuer-regierungschef](https://www.spiegel.de/ausland/nordirland-paul-givan-wird-neuer-regierungschef-a-ec820696-ce44-4566-bc1e-c6d39f5b101f#ref=rss)
+### ende
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-england-debbie-hewitt-wird-erste-verbandschefin-der-fa](https://www.spiegel.de/sport/fussball/fussball-in-england-debbie-hewitt-wird-erste-verbandschefin-der-fa-a-03119a70-3f0a-439d-88dc-d0f41c03538f#ref=rss)
-### neue
+* [https://www.spiegel.de/panorama/justiz/prozess-gegen-revolutionaere-aktionszellen-vom-ende-der-revolution](https://www.spiegel.de/panorama/justiz/prozess-gegen-revolutionaere-aktionszellen-vom-ende-der-revolution-a-2e472ae9-e76c-415d-ad2c-a63e68cb9978#ref=rss)
+* [https://www.spiegel.de/auto/pendeln-in-deutschland-bahn-benzin-und-andere-kostenfallen](https://www.spiegel.de/auto/pendeln-in-deutschland-bahn-benzin-und-andere-kostenfallen-a-f3eed1ee-d631-4009-ac44-812827037e02#ref=rss)
+### benzin
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-england-debbie-hewitt-wird-erste-verbandschefin-der-fa](https://www.spiegel.de/sport/fussball/fussball-in-england-debbie-hewitt-wird-erste-verbandschefin-der-fa-a-03119a70-3f0a-439d-88dc-d0f41c03538f#ref=rss)
-* [https://www.spiegel.de/ausland/israel-parlament-stimmt-sonntag-ueber-neue-regierung-ab](https://www.spiegel.de/ausland/israel-parlament-stimmt-sonntag-ueber-neue-regierung-ab-a-5419ffe3-8a21-4c96-855d-55ed67a71b31#ref=rss)
-### gefunden
+* [https://www.spiegel.de/auto/pendeln-in-deutschland-bahn-benzin-und-andere-kostenfallen](https://www.spiegel.de/auto/pendeln-in-deutschland-bahn-benzin-und-andere-kostenfallen-a-f3eed1ee-d631-4009-ac44-812827037e02#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl](https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl-a-17e81855-283b-4e46-9b5c-4e297f226fa8#ref=rss)
+### zahl
 
-* [https://www.spiegel.de/sport/fussball/fussball-in-england-debbie-hewitt-wird-erste-verbandschefin-der-fa](https://www.spiegel.de/sport/fussball/fussball-in-england-debbie-hewitt-wird-erste-verbandschefin-der-fa-a-03119a70-3f0a-439d-88dc-d0f41c03538f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/australotitan-cooperensis-bisher-unbekannter-dino-in-australien-gefunden](https://www.spiegel.de/wissenschaft/natur/australotitan-cooperensis-bisher-unbekannter-dino-in-australien-gefunden-a-2cf0f100-27f9-4592-b164-b1b9b2bbe1ad#ref=rss)
-### ardtagesthemen
+* [https://www.spiegel.de/auto/pendeln-in-deutschland-bahn-benzin-und-andere-kostenfallen](https://www.spiegel.de/auto/pendeln-in-deutschland-bahn-benzin-und-andere-kostenfallen-a-f3eed1ee-d631-4009-ac44-812827037e02#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-insolvenzen-geht-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-insolvenzen-geht-zurueck-a-e99bff7e-bcfc-43bb-8ad2-be77af4d2722#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/kultur/tv/ard-tagesthemen-pinar-atalay-wechselt-zu-rtl](https://www.spiegel.de/kultur/tv/ard-tagesthemen-pinar-atalay-wechselt-zu-rtl-a-2aceb01c-2d3a-421b-a7e6-6f2f4223cf83#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-insolvenzen-geht-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-insolvenzen-geht-zurueck-a-e99bff7e-bcfc-43bb-8ad2-be77af4d2722#ref=rss)
+* [https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte](https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte-a-4c9b20d0-0002-0001-0000-000177779157#ref=rss)
+### pandemie
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-insolvenzen-geht-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-insolvenzen-geht-zurueck-a-e99bff7e-bcfc-43bb-8ad2-be77af4d2722#ref=rss)
+* [https://www.spiegel.de/auto/adac-staus-zu-den-ferien-laenger-als-vor-corona](https://www.spiegel.de/auto/adac-staus-zu-den-ferien-laenger-als-vor-corona-a-75a10861-2283-4c29-ba7c-3b4326948891#ref=rss)
+### daran
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-insolvenzen-geht-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-insolvenzen-geht-zurueck-a-e99bff7e-bcfc-43bb-8ad2-be77af4d2722#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kinderrechte-cdu-und-spd-geben-sich-gegenseitig-die-schuld-an-gescheiterten-verhandlungen](https://www.spiegel.de/politik/deutschland/kinderrechte-cdu-und-spd-geben-sich-gegenseitig-die-schuld-an-gescheiterten-verhandlungen-a-5386e2cd-b119-4ad2-bd14-db1f2e77753b#ref=rss)
+### daten
+
+* [https://www.spiegel.de/wirtschaft/wie-jeff-bezos-sich-arm-rechnete-um-einen-kinderbonus-zu-kassieren](https://www.spiegel.de/wirtschaft/wie-jeff-bezos-sich-arm-rechnete-um-einen-kinderbonus-zu-kassieren-a-48b26a40-729f-4ff7-9f3b-ac34ef8b64a7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-martin-dulig-kritisiert-ueberwachung-durch-verfassungsschutz](https://www.spiegel.de/politik/deutschland/sachsen-martin-dulig-kritisiert-ueberwachung-durch-verfassungsschutz-a-4d508323-afa3-4eee-b849-6cd95c6d11f9#ref=rss)
+### welt
+
+* [https://www.spiegel.de/wirtschaft/wie-jeff-bezos-sich-arm-rechnete-um-einen-kinderbonus-zu-kassieren](https://www.spiegel.de/wirtschaft/wie-jeff-bezos-sich-arm-rechnete-um-einen-kinderbonus-zu-kassieren-a-48b26a40-729f-4ff7-9f3b-ac34ef8b64a7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/operation-trojan-shield-wie-das-fbi-tausenden-schwerverbrechern-eine-kryptofalle-stellte](https://www.spiegel.de/panorama/justiz/operation-trojan-shield-wie-das-fbi-tausenden-schwerverbrechern-eine-kryptofalle-stellte-a-a3226823-13c7-42cf-9627-9969dee1a368#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/israels-armee-rechtfertigt-nachtraeglich-luftangriff-auf-medienhochhaus-in-gaza](https://www.spiegel.de/ausland/israels-armee-rechtfertigt-nachtraeglich-luftangriff-auf-medienhochhaus-in-gaza-a-ada9fe60-9053-4c69-a353-e57c21824ea3#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/ausland/israels-armee-rechtfertigt-nachtraeglich-luftangriff-auf-medienhochhaus-in-gaza](https://www.spiegel.de/ausland/israels-armee-rechtfertigt-nachtraeglich-luftangriff-auf-medienhochhaus-in-gaza-a-ada9fe60-9053-4c69-a353-e57c21824ea3#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/ausland/israels-armee-rechtfertigt-nachtraeglich-luftangriff-auf-medienhochhaus-in-gaza](https://www.spiegel.de/ausland/israels-armee-rechtfertigt-nachtraeglich-luftangriff-auf-medienhochhaus-in-gaza-a-ada9fe60-9053-4c69-a353-e57c21824ea3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-martin-dulig-kritisiert-ueberwachung-durch-verfassungsschutz](https://www.spiegel.de/politik/deutschland/sachsen-martin-dulig-kritisiert-ueberwachung-durch-verfassungsschutz-a-4d508323-afa3-4eee-b849-6cd95c6d11f9#ref=rss)
+### betrieb
+
+* [https://www.spiegel.de/panorama/justiz/operation-trojan-shield-wie-das-fbi-tausenden-schwerverbrechern-eine-kryptofalle-stellte](https://www.spiegel.de/panorama/justiz/operation-trojan-shield-wie-das-fbi-tausenden-schwerverbrechern-eine-kryptofalle-stellte-a-a3226823-13c7-42cf-9627-9969dee1a368#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ber-in-finanznoeten-eine-insolvenz-waere-der-sauberste-weg](https://www.spiegel.de/wirtschaft/unternehmen/ber-in-finanznoeten-eine-insolvenz-waere-der-sauberste-weg-a-a5445814-14a6-436b-93ee-855135c58309#ref=rss)
+### rumänien
+
+* [https://www.spiegel.de/wissenschaft/natur/braunbaer-plage-in-rumaenien-als-er-mich-biss-hat-er-sein-maul-so-aufgerissen-tv-reportage](https://www.spiegel.de/wissenschaft/natur/braunbaer-plage-in-rumaenien-als-er-mich-biss-hat-er-sein-maul-so-aufgerissen-tv-reportage-a-81dfb34f-2f31-4fc5-805e-a044237b98c3#ref=rss)
+### guterres
+
+* [https://www.spiegel.de/ausland/antonia-guterres-uno-sicherheitsrat-unterstuetzt-zweite-amtszeit-des-generalsekretaers](https://www.spiegel.de/ausland/antonia-guterres-uno-sicherheitsrat-unterstuetzt-zweite-amtszeit-des-generalsekretaers-a-bccb04f2-52a2-48c1-bc5b-d277f692baca#ref=rss)
+### amtszeit
+
+* [https://www.spiegel.de/ausland/antonia-guterres-uno-sicherheitsrat-unterstuetzt-zweite-amtszeit-des-generalsekretaers](https://www.spiegel.de/ausland/antonia-guterres-uno-sicherheitsrat-unterstuetzt-zweite-amtszeit-des-generalsekretaers-a-bccb04f2-52a2-48c1-bc5b-d277f692baca#ref=rss)
+### trudeau
+
+* [https://www.spiegel.de/ausland/kanada-justin-trudeau-spricht-nach-toedliche-auto-attacke-auf-muslime-von-terror](https://www.spiegel.de/ausland/kanada-justin-trudeau-spricht-nach-toedliche-auto-attacke-auf-muslime-von-terror-a-e7ea1f35-8652-4b6c-83b4-53a1f23b44a9#ref=rss)
+### mann
+
+* [https://www.spiegel.de/ausland/kanada-justin-trudeau-spricht-nach-toedliche-auto-attacke-auf-muslime-von-terror](https://www.spiegel.de/ausland/kanada-justin-trudeau-spricht-nach-toedliche-auto-attacke-auf-muslime-von-terror-a-e7ea1f35-8652-4b6c-83b4-53a1f23b44a9#ref=rss)
+* [https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte](https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte-a-4c9b20d0-0002-0001-0000-000177779157#ref=rss)
+### corona
+
+* [https://www.spiegel.de/netzwelt/apps/apotheken-stellen-ab-montag-den-digitalen-impfnachweis-aus](https://www.spiegel.de/netzwelt/apps/apotheken-stellen-ab-montag-den-digitalen-impfnachweis-aus-a-f90dd4a9-5a6c-4a02-b553-17411ccfffcd#ref=rss)
+* [https://www.spiegel.de/auto/adac-staus-zu-den-ferien-laenger-als-vor-corona](https://www.spiegel.de/auto/adac-staus-zu-den-ferien-laenger-als-vor-corona-a-75a10861-2283-4c29-ba7c-3b4326948891#ref=rss)
+### digitalen
+
+* [https://www.spiegel.de/netzwelt/apps/apotheken-stellen-ab-montag-den-digitalen-impfnachweis-aus](https://www.spiegel.de/netzwelt/apps/apotheken-stellen-ab-montag-den-digitalen-impfnachweis-aus-a-f90dd4a9-5a6c-4a02-b553-17411ccfffcd#ref=rss)
+### streik
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl](https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl-a-17e81855-283b-4e46-9b5c-4e297f226fa8#ref=rss)
+### lokführer
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl](https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl-a-17e81855-283b-4e46-9b5c-4e297f226fa8#ref=rss)
 ### pinar
 
-* [https://www.spiegel.de/kultur/tv/ard-tagesthemen-pinar-atalay-wechselt-zu-rtl](https://www.spiegel.de/kultur/tv/ard-tagesthemen-pinar-atalay-wechselt-zu-rtl-a-2aceb01c-2d3a-421b-a7e6-6f2f4223cf83#ref=rss)
-### rtl
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl](https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl-a-17e81855-283b-4e46-9b5c-4e297f226fa8#ref=rss)
+### atalay
 
-* [https://www.spiegel.de/kultur/tv/ard-tagesthemen-pinar-atalay-wechselt-zu-rtl](https://www.spiegel.de/kultur/tv/ard-tagesthemen-pinar-atalay-wechselt-zu-rtl-a-2aceb01c-2d3a-421b-a7e6-6f2f4223cf83#ref=rss)
-### arbeiten
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl](https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl-a-17e81855-283b-4e46-9b5c-4e297f226fa8#ref=rss)
+### wechselt
 
-* [https://www.spiegel.de/kultur/tv/ard-tagesthemen-pinar-atalay-wechselt-zu-rtl](https://www.spiegel.de/kultur/tv/ard-tagesthemen-pinar-atalay-wechselt-zu-rtl-a-2aceb01c-2d3a-421b-a7e6-6f2f4223cf83#ref=rss)
-* [https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung](https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung-a-270cf19c-634d-4a3a-bf17-e45fdfb6c902#ref=rss)
-### kritisieren
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl](https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl-a-17e81855-283b-4e46-9b5c-4e297f226fa8#ref=rss)
+### stehen
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl-a-2c5b3a25-5825-4a7c-a0ae-ebcc6af6664a#ref=rss)
-### oskar
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl](https://www.spiegel.de/politik/deutschland/news-des-tages-streik-der-lokfuehrer-pinar-atalay-wechselt-zu-rtl-a-17e81855-283b-4e46-9b5c-4e297f226fa8#ref=rss)
+* [https://www.spiegel.de/kultur/musik/jennifer-lopez-netflix-schliesst-mit-saengerin-mehrjaehrigen-vertrag-ab](https://www.spiegel.de/kultur/musik/jennifer-lopez-netflix-schliesst-mit-saengerin-mehrjaehrigen-vertrag-ab-a-84caa660-44b7-4d06-b208-2606541afde5#ref=rss)
+### weltwirtschaft
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl-a-2c5b3a25-5825-4a7c-a0ae-ebcc6af6664a#ref=rss)
-### lafontaine
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-weltbank-rechnet-mit-kraeftigstem-aufschwung-seit-80-jahren](https://www.spiegel.de/wirtschaft/weltwirtschaft-weltbank-rechnet-mit-kraeftigstem-aufschwung-seit-80-jahren-a-652a94ff-2c21-47c8-a5a3-69a9be418610#ref=rss)
+### weltbank
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl-a-2c5b3a25-5825-4a7c-a0ae-ebcc6af6664a#ref=rss)
-### aufruf
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-weltbank-rechnet-mit-kraeftigstem-aufschwung-seit-80-jahren](https://www.spiegel.de/wirtschaft/weltwirtschaft-weltbank-rechnet-mit-kraeftigstem-aufschwung-seit-80-jahren-a-652a94ff-2c21-47c8-a5a3-69a9be418610#ref=rss)
+### china
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl-a-2c5b3a25-5825-4a7c-a0ae-ebcc6af6664a#ref=rss)
-### streit
+* [https://www.spiegel.de/wirtschaft/weltwirtschaft-weltbank-rechnet-mit-kraeftigstem-aufschwung-seit-80-jahren](https://www.spiegel.de/wirtschaft/weltwirtschaft-weltbank-rechnet-mit-kraeftigstem-aufschwung-seit-80-jahren-a-652a94ff-2c21-47c8-a5a3-69a9be418610#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-streben-handelspakt-mit-taiwan-an](https://www.spiegel.de/wirtschaft/usa-streben-handelspakt-mit-taiwan-an-a-14b0e7e6-ffad-4ca3-b12a-02d51b3592c5#ref=rss)
+### ber
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl-a-2c5b3a25-5825-4a7c-a0ae-ebcc6af6664a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/benzinpreis-debatte-klimaberater-der-regierung-schalten-sich-in-streit-um-co2-preis-ein](https://www.spiegel.de/wissenschaft/mensch/benzinpreis-debatte-klimaberater-der-regierung-schalten-sich-in-streit-um-co2-preis-ein-a-1d70ebb8-bd73-4473-9f89-65dd27e46ffa#ref=rss)
-### saarland
+* [https://www.spiegel.de/wirtschaft/unternehmen/ber-in-finanznoeten-eine-insolvenz-waere-der-sauberste-weg](https://www.spiegel.de/wirtschaft/unternehmen/ber-in-finanznoeten-eine-insolvenz-waere-der-sauberste-weg-a-a5445814-14a6-436b-93ee-855135c58309#ref=rss)
+### endlich
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl-a-2c5b3a25-5825-4a7c-a0ae-ebcc6af6664a#ref=rss)
-* [https://www.spiegel.de/panorama/homburg-dieb-klaut-grillfleisch-aus-wurstautomaten-und-hinterlaesst-entschuldigung](https://www.spiegel.de/panorama/homburg-dieb-klaut-grillfleisch-aus-wurstautomaten-und-hinterlaesst-entschuldigung-a-5ef0a8d4-be93-4b3a-84c4-8bc07832b34a#ref=rss)
-### wahl
+* [https://www.spiegel.de/wirtschaft/unternehmen/ber-in-finanznoeten-eine-insolvenz-waere-der-sauberste-weg](https://www.spiegel.de/wirtschaft/unternehmen/ber-in-finanznoeten-eine-insolvenz-waere-der-sauberste-weg-a-a5445814-14a6-436b-93ee-855135c58309#ref=rss)
+* [https://www.spiegel.de/auto/adac-staus-zu-den-ferien-laenger-als-vor-corona](https://www.spiegel.de/auto/adac-staus-zu-den-ferien-laenger-als-vor-corona-a-75a10861-2283-4c29-ba7c-3b4326948891#ref=rss)
+### italien
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl](https://www.spiegel.de/politik/deutschland/bundestagswahl-linke-politiker-kritisieren-oskar-lafontaine-wegen-aufruf-zur-nichtwahl-a-2c5b3a25-5825-4a7c-a0ae-ebcc6af6664a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh-a-a2c1667e-b8a8-453d-b083-d970f97cf009#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/italien-19-jaehrige-deutsche-soll-eingesperrt-und-missbraucht-worden-sein](https://www.spiegel.de/panorama/justiz/italien-19-jaehrige-deutsche-soll-eingesperrt-und-missbraucht-worden-sein-a-5da414de-a496-4576-9846-a3c260e968b4#ref=rss)
+### missbraucht
+
+* [https://www.spiegel.de/panorama/justiz/italien-19-jaehrige-deutsche-soll-eingesperrt-und-missbraucht-worden-sein](https://www.spiegel.de/panorama/justiz/italien-19-jaehrige-deutsche-soll-eingesperrt-und-missbraucht-worden-sein-a-5da414de-a496-4576-9846-a3c260e968b4#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/italien-19-jaehrige-deutsche-soll-eingesperrt-und-missbraucht-worden-sein](https://www.spiegel.de/panorama/justiz/italien-19-jaehrige-deutsche-soll-eingesperrt-und-missbraucht-worden-sein-a-5da414de-a496-4576-9846-a3c260e968b4#ref=rss)
+* [https://www.spiegel.de/panorama/boltenhagen-77-jaehrige-in-der-ostsee-ertrunken](https://www.spiegel.de/panorama/boltenhagen-77-jaehrige-in-der-ostsee-ertrunken-a-190b6d25-9ca6-4f4d-bda5-ed567bbd113e#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/wirtschaft/usa-streben-handelspakt-mit-taiwan-an](https://www.spiegel.de/wirtschaft/usa-streben-handelspakt-mit-taiwan-an-a-14b0e7e6-ffad-4ca3-b12a-02d51b3592c5#ref=rss)
+### michael
+
+* [https://www.spiegel.de/politik/deutschland/michael-kellner-ueber-gruenen-enttaeuschung-in-sachsen-anhalt-es-gibt-auch-im-osten-eine-sehnsucht-nach-einer-anderen-politik](https://www.spiegel.de/politik/deutschland/michael-kellner-ueber-gruenen-enttaeuschung-in-sachsen-anhalt-es-gibt-auch-im-osten-eine-sehnsucht-nach-einer-anderen-politik-a-da407e39-edb7-45ee-9745-bd83434ca258#ref=rss)
+### kellner
+
+* [https://www.spiegel.de/politik/deutschland/michael-kellner-ueber-gruenen-enttaeuschung-in-sachsen-anhalt-es-gibt-auch-im-osten-eine-sehnsucht-nach-einer-anderen-politik](https://www.spiegel.de/politik/deutschland/michael-kellner-ueber-gruenen-enttaeuschung-in-sachsen-anhalt-es-gibt-auch-im-osten-eine-sehnsucht-nach-einer-anderen-politik-a-da407e39-edb7-45ee-9745-bd83434ca258#ref=rss)
 ### sachsenanhalt
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh-a-a2c1667e-b8a8-453d-b083-d970f97cf009#ref=rss)
-### sven
+* [https://www.spiegel.de/politik/deutschland/michael-kellner-ueber-gruenen-enttaeuschung-in-sachsen-anhalt-es-gibt-auch-im-osten-eine-sehnsucht-nach-einer-anderen-politik](https://www.spiegel.de/politik/deutschland/michael-kellner-ueber-gruenen-enttaeuschung-in-sachsen-anhalt-es-gibt-auch-im-osten-eine-sehnsucht-nach-einer-anderen-politik-a-da407e39-edb7-45ee-9745-bd83434ca258#ref=rss)
+### jens
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh-a-a2c1667e-b8a8-453d-b083-d970f97cf009#ref=rss)
-### cdu
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-minderwertigen-masken-volles-risiko](https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-minderwertigen-masken-volles-risiko-a-33863a41-3811-4190-9f4e-74736dc487de#ref=rss)
+### spahn
 
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-sven-schulze-cdu-haelt-eine-absage-der-keniakoalition-fuer-zu-frueh-a-a2c1667e-b8a8-453d-b083-d970f97cf009#ref=rss)
-### selbst
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-minderwertigen-masken-volles-risiko](https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-minderwertigen-masken-volles-risiko-a-33863a41-3811-4190-9f4e-74736dc487de#ref=rss)
+### masken
 
-* [https://www.spiegel.de/panorama/justiz/euskirchen-mutter-soll-vierjaehrigen-sohn-getoetet-haben](https://www.spiegel.de/panorama/justiz/euskirchen-mutter-soll-vierjaehrigen-sohn-getoetet-haben-a-06c9592a-c9d1-4568-82ee-6a3e5c3acc43#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/operation-trojan-shield-fbi-lockte-verbrecher-in-die-chat-falle-mit-selbstgebauten-kryptohandys](https://www.spiegel.de/panorama/justiz/operation-trojan-shield-fbi-lockte-verbrecher-in-die-chat-falle-mit-selbstgebauten-kryptohandys-a-5d3e35c1-1ddd-4a70-a161-1d0add327e16#ref=rss)
-### unbekannter
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-minderwertigen-masken-volles-risiko](https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-minderwertigen-masken-volles-risiko-a-33863a41-3811-4190-9f4e-74736dc487de#ref=rss)
+### sicher
 
-* [https://www.spiegel.de/wissenschaft/natur/australotitan-cooperensis-bisher-unbekannter-dino-in-australien-gefunden](https://www.spiegel.de/wissenschaft/natur/australotitan-cooperensis-bisher-unbekannter-dino-in-australien-gefunden-a-2cf0f100-27f9-4592-b164-b1b9b2bbe1ad#ref=rss)
-* [https://www.spiegel.de/panorama/homburg-dieb-klaut-grillfleisch-aus-wurstautomaten-und-hinterlaesst-entschuldigung](https://www.spiegel.de/panorama/homburg-dieb-klaut-grillfleisch-aus-wurstautomaten-und-hinterlaesst-entschuldigung-a-5ef0a8d4-be93-4b3a-84c4-8bc07832b34a#ref=rss)
-### industrie
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-minderwertigen-masken-volles-risiko](https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-minderwertigen-masken-volles-risiko-a-33863a41-3811-4190-9f4e-74736dc487de#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klima-in-europaeischen-laendern-sorgen-sich-immer-mehr-menschen-um-dieses-thema](https://www.spiegel.de/wissenschaft/natur/klima-in-europaeischen-laendern-sorgen-sich-immer-mehr-menschen-um-dieses-thema-a-cfac478f-e414-40f0-89d5-2a45df74f0e5#ref=rss)
+### amt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-produziert-ueberraschend-ein-prozent-weniger](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-produziert-ueberraschend-ein-prozent-weniger-a-ed059faa-592f-4be4-9384-4d6bf578cc22#ref=rss)
-### prozent
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-minderwertigen-masken-volles-risiko](https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-minderwertigen-masken-volles-risiko-a-33863a41-3811-4190-9f4e-74736dc487de#ref=rss)
+* [https://www.spiegel.de/ausland/nordirland-paul-givan-wird-neuer-regierungschef](https://www.spiegel.de/ausland/nordirland-paul-givan-wird-neuer-regierungschef-a-ec820696-ce44-4566-bc1e-c6d39f5b101f#ref=rss)
+### martin
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-produziert-ueberraschend-ein-prozent-weniger](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-produziert-ueberraschend-ein-prozent-weniger-a-ed059faa-592f-4be4-9384-4d6bf578cc22#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen-a-49f79f95-a940-4b2a-ab9e-1f13fd817216#ref=rss)
-### operation
+* [https://www.spiegel.de/politik/deutschland/sachsen-martin-dulig-kritisiert-ueberwachung-durch-verfassungsschutz](https://www.spiegel.de/politik/deutschland/sachsen-martin-dulig-kritisiert-ueberwachung-durch-verfassungsschutz-a-4d508323-afa3-4eee-b849-6cd95c6d11f9#ref=rss)
+### dulig
 
-* [https://www.spiegel.de/panorama/justiz/operation-trojan-shield-fbi-lockte-verbrecher-in-die-chat-falle-mit-selbstgebauten-kryptohandys](https://www.spiegel.de/panorama/justiz/operation-trojan-shield-fbi-lockte-verbrecher-in-die-chat-falle-mit-selbstgebauten-kryptohandys-a-5d3e35c1-1ddd-4a70-a161-1d0add327e16#ref=rss)
-### großem
+* [https://www.spiegel.de/politik/deutschland/sachsen-martin-dulig-kritisiert-ueberwachung-durch-verfassungsschutz](https://www.spiegel.de/politik/deutschland/sachsen-martin-dulig-kritisiert-ueberwachung-durch-verfassungsschutz-a-4d508323-afa3-4eee-b849-6cd95c6d11f9#ref=rss)
+### verfassungsschutz
 
-* [https://www.spiegel.de/wirtschaft/service/corona-wie-die-pandemie-den-produkt-faelschern-nutzt](https://www.spiegel.de/wirtschaft/service/corona-wie-die-pandemie-den-produkt-faelschern-nutzt-a-249f9b62-54c1-48c6-a2b6-49312db0cd17#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen-a-49f79f95-a940-4b2a-ab9e-1f13fd817216#ref=rss)
-### stil
+* [https://www.spiegel.de/politik/deutschland/sachsen-martin-dulig-kritisiert-ueberwachung-durch-verfassungsschutz](https://www.spiegel.de/politik/deutschland/sachsen-martin-dulig-kritisiert-ueberwachung-durch-verfassungsschutz-a-4d508323-afa3-4eee-b849-6cd95c6d11f9#ref=rss)
+### jennifer
 
-* [https://www.spiegel.de/wirtschaft/service/corona-wie-die-pandemie-den-produkt-faelschern-nutzt](https://www.spiegel.de/wirtschaft/service/corona-wie-die-pandemie-den-produkt-faelschern-nutzt-a-249f9b62-54c1-48c6-a2b6-49312db0cd17#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen-a-49f79f95-a940-4b2a-ab9e-1f13fd817216#ref=rss)
-### israel
+* [https://www.spiegel.de/kultur/musik/jennifer-lopez-netflix-schliesst-mit-saengerin-mehrjaehrigen-vertrag-ab](https://www.spiegel.de/kultur/musik/jennifer-lopez-netflix-schliesst-mit-saengerin-mehrjaehrigen-vertrag-ab-a-84caa660-44b7-4d06-b208-2606541afde5#ref=rss)
+### netflix
 
-* [https://www.spiegel.de/ausland/israel-parlament-stimmt-sonntag-ueber-neue-regierung-ab](https://www.spiegel.de/ausland/israel-parlament-stimmt-sonntag-ueber-neue-regierung-ab-a-5419ffe3-8a21-4c96-855d-55ed67a71b31#ref=rss)
-### parlament
+* [https://www.spiegel.de/kultur/musik/jennifer-lopez-netflix-schliesst-mit-saengerin-mehrjaehrigen-vertrag-ab](https://www.spiegel.de/kultur/musik/jennifer-lopez-netflix-schliesst-mit-saengerin-mehrjaehrigen-vertrag-ab-a-84caa660-44b7-4d06-b208-2606541afde5#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/ausland/israel-parlament-stimmt-sonntag-ueber-neue-regierung-ab](https://www.spiegel.de/ausland/israel-parlament-stimmt-sonntag-ueber-neue-regierung-ab-a-5419ffe3-8a21-4c96-855d-55ed67a71b31#ref=rss)
-### regierung
+* [https://www.spiegel.de/kultur/musik/jennifer-lopez-netflix-schliesst-mit-saengerin-mehrjaehrigen-vertrag-ab](https://www.spiegel.de/kultur/musik/jennifer-lopez-netflix-schliesst-mit-saengerin-mehrjaehrigen-vertrag-ab-a-84caa660-44b7-4d06-b208-2606541afde5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-gruenen-nennt-die-ungenauigkeiten-im-lebenslauf-mist](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-gruenen-nennt-die-ungenauigkeiten-im-lebenslauf-mist-a-100daf75-ddc9-47e5-b0cd-ccd7b91f88c1#ref=rss)
+### 77jährige
 
-* [https://www.spiegel.de/ausland/israel-parlament-stimmt-sonntag-ueber-neue-regierung-ab](https://www.spiegel.de/ausland/israel-parlament-stimmt-sonntag-ueber-neue-regierung-ab-a-5419ffe3-8a21-4c96-855d-55ed67a71b31#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/benzinpreis-debatte-klimaberater-der-regierung-schalten-sich-in-streit-um-co2-preis-ein](https://www.spiegel.de/wissenschaft/mensch/benzinpreis-debatte-klimaberater-der-regierung-schalten-sich-in-streit-um-co2-preis-ein-a-1d70ebb8-bd73-4473-9f89-65dd27e46ffa#ref=rss)
-### künftig
+* [https://www.spiegel.de/panorama/boltenhagen-77-jaehrige-in-der-ostsee-ertrunken](https://www.spiegel.de/panorama/boltenhagen-77-jaehrige-in-der-ostsee-ertrunken-a-190b6d25-9ca6-4f4d-bda5-ed567bbd113e#ref=rss)
+### ostsee
 
-* [https://www.spiegel.de/ausland/israel-parlament-stimmt-sonntag-ueber-neue-regierung-ab](https://www.spiegel.de/ausland/israel-parlament-stimmt-sonntag-ueber-neue-regierung-ab-a-5419ffe3-8a21-4c96-855d-55ed67a71b31#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nationale-wasserstrategie-svenja-schulze-warnt-vor-wasserknappheit-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/nationale-wasserstrategie-svenja-schulze-warnt-vor-wasserknappheit-in-deutschland-a-b6f3ae70-905c-4bce-9b76-2399f671bfd3#ref=rss)
-### vdkpräsidentin
+* [https://www.spiegel.de/panorama/boltenhagen-77-jaehrige-in-der-ostsee-ertrunken](https://www.spiegel.de/panorama/boltenhagen-77-jaehrige-in-der-ostsee-ertrunken-a-190b6d25-9ca6-4f4d-bda5-ed567bbd113e#ref=rss)
+### nordirland
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vdk-praesidentin-verena-bentele-ueber-pflege-reform-finanzierung-grenzt-an-betrug](https://www.spiegel.de/wirtschaft/unternehmen/vdk-praesidentin-verena-bentele-ueber-pflege-reform-finanzierung-grenzt-an-betrug-a-d6489671-7802-4754-9d95-572848458652#ref=rss)
-### bentele
+* [https://www.spiegel.de/ausland/nordirland-paul-givan-wird-neuer-regierungschef](https://www.spiegel.de/ausland/nordirland-paul-givan-wird-neuer-regierungschef-a-ec820696-ce44-4566-bc1e-c6d39f5b101f#ref=rss)
+### paul
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vdk-praesidentin-verena-bentele-ueber-pflege-reform-finanzierung-grenzt-an-betrug](https://www.spiegel.de/wirtschaft/unternehmen/vdk-praesidentin-verena-bentele-ueber-pflege-reform-finanzierung-grenzt-an-betrug-a-d6489671-7802-4754-9d95-572848458652#ref=rss)
-### srebrenica
+* [https://www.spiegel.de/ausland/nordirland-paul-givan-wird-neuer-regierungschef](https://www.spiegel.de/ausland/nordirland-paul-givan-wird-neuer-regierungschef-a-ec820696-ce44-4566-bc1e-c6d39f5b101f#ref=rss)
+### regierungschef
 
-* [https://www.spiegel.de/ausland/voelkermord-von-srebrenica-uno-tribunal-verkuendet-finales-urteil-gegen-ratko-mladic](https://www.spiegel.de/ausland/voelkermord-von-srebrenica-uno-tribunal-verkuendet-finales-urteil-gegen-ratko-mladic-a-e31d9dfd-5a83-48d6-a071-e246f0ec8120#ref=rss)
-### urteil
+* [https://www.spiegel.de/ausland/nordirland-paul-givan-wird-neuer-regierungschef](https://www.spiegel.de/ausland/nordirland-paul-givan-wird-neuer-regierungschef-a-ec820696-ce44-4566-bc1e-c6d39f5b101f#ref=rss)
+### klaus
 
-* [https://www.spiegel.de/ausland/voelkermord-von-srebrenica-uno-tribunal-verkuendet-finales-urteil-gegen-ratko-mladic](https://www.spiegel.de/ausland/voelkermord-von-srebrenica-uno-tribunal-verkuendet-finales-urteil-gegen-ratko-mladic-a-e31d9dfd-5a83-48d6-a071-e246f0ec8120#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/klaus-fassin-ist-tot-katjes-gruender-mit-89-jahren-gestorben](https://www.spiegel.de/wirtschaft/unternehmen/klaus-fassin-ist-tot-katjes-gruender-mit-89-jahren-gestorben-a-8f7b4860-9d79-4889-af3f-c8d4c220f514#ref=rss)
+### fassin
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/klaus-fassin-ist-tot-katjes-gruender-mit-89-jahren-gestorben](https://www.spiegel.de/wirtschaft/unternehmen/klaus-fassin-ist-tot-katjes-gruender-mit-89-jahren-gestorben-a-8f7b4860-9d79-4889-af3f-c8d4c220f514#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/klaus-fassin-ist-tot-katjes-gruender-mit-89-jahren-gestorben](https://www.spiegel.de/wirtschaft/unternehmen/klaus-fassin-ist-tot-katjes-gruender-mit-89-jahren-gestorben-a-8f7b4860-9d79-4889-af3f-c8d4c220f514#ref=rss)
+### dwight
+
+* [https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte](https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte-a-4c9b20d0-0002-0001-0000-000177779157#ref=rss)
+### d
+
+* [https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte](https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte-a-4c9b20d0-0002-0001-0000-000177779157#ref=rss)
+### eisenhower
+
+* [https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte](https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte-a-4c9b20d0-0002-0001-0000-000177779157#ref=rss)
+### mein
+
+* [https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte](https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte-a-4c9b20d0-0002-0001-0000-000177779157#ref=rss)
+### vetter
+
+* [https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte](https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte-a-4c9b20d0-0002-0001-0000-000177779157#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte](https://www.spiegel.de/politik/dwight-d-eisenhower-als-mein-vetter-dem-praesidenten-das-essen-servierte-a-4c9b20d0-0002-0001-0000-000177779157#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klima-in-europaeischen-laendern-sorgen-sich-immer-mehr-menschen-um-dieses-thema](https://www.spiegel.de/wissenschaft/natur/klima-in-europaeischen-laendern-sorgen-sich-immer-mehr-menschen-um-dieses-thema-a-cfac478f-e414-40f0-89d5-2a45df74f0e5#ref=rss)
+### annalena
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-gruenen-nennt-die-ungenauigkeiten-im-lebenslauf-mist](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-gruenen-nennt-die-ungenauigkeiten-im-lebenslauf-mist-a-100daf75-ddc9-47e5-b0cd-ccd7b91f88c1#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-gruenen-nennt-die-ungenauigkeiten-im-lebenslauf-mist](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-gruenen-nennt-die-ungenauigkeiten-im-lebenslauf-mist-a-100daf75-ddc9-47e5-b0cd-ccd7b91f88c1#ref=rss)
 ### ratko
 
-* [https://www.spiegel.de/ausland/voelkermord-von-srebrenica-uno-tribunal-verkuendet-finales-urteil-gegen-ratko-mladic](https://www.spiegel.de/ausland/voelkermord-von-srebrenica-uno-tribunal-verkuendet-finales-urteil-gegen-ratko-mladic-a-e31d9dfd-5a83-48d6-a071-e246f0ec8120#ref=rss)
-### pakistan
+* [https://www.spiegel.de/ausland/ratko-mladic-lebenslang-fuer-den-schlaechter-von-srebrenica](https://www.spiegel.de/ausland/ratko-mladic-lebenslang-fuer-den-schlaechter-von-srebrenica-a-939ec49e-7201-4f7f-a6dc-7f2446c03dc1#ref=rss)
+### mladić
 
-* [https://www.spiegel.de/panorama/pakistan-zahl-der-toten-steigt-nach-zugunglueck-auf-62](https://www.spiegel.de/panorama/pakistan-zahl-der-toten-steigt-nach-zugunglueck-auf-62-a-a7153da4-7317-4465-b87b-0a4c08824795#ref=rss)
-### toten
+* [https://www.spiegel.de/ausland/ratko-mladic-lebenslang-fuer-den-schlaechter-von-srebrenica](https://www.spiegel.de/ausland/ratko-mladic-lebenslang-fuer-den-schlaechter-von-srebrenica-a-939ec49e-7201-4f7f-a6dc-7f2446c03dc1#ref=rss)
+### lebenslang
 
-* [https://www.spiegel.de/panorama/pakistan-zahl-der-toten-steigt-nach-zugunglueck-auf-62](https://www.spiegel.de/panorama/pakistan-zahl-der-toten-steigt-nach-zugunglueck-auf-62-a-a7153da4-7317-4465-b87b-0a4c08824795#ref=rss)
-### 62
+* [https://www.spiegel.de/ausland/ratko-mladic-lebenslang-fuer-den-schlaechter-von-srebrenica](https://www.spiegel.de/ausland/ratko-mladic-lebenslang-fuer-den-schlaechter-von-srebrenica-a-939ec49e-7201-4f7f-a6dc-7f2446c03dc1#ref=rss)
+### schlächter
 
-* [https://www.spiegel.de/panorama/pakistan-zahl-der-toten-steigt-nach-zugunglueck-auf-62](https://www.spiegel.de/panorama/pakistan-zahl-der-toten-steigt-nach-zugunglueck-auf-62-a-a7153da4-7317-4465-b87b-0a4c08824795#ref=rss)
-### homeoffice
+* [https://www.spiegel.de/ausland/ratko-mladic-lebenslang-fuer-den-schlaechter-von-srebrenica](https://www.spiegel.de/ausland/ratko-mladic-lebenslang-fuer-den-schlaechter-von-srebrenica-a-939ec49e-7201-4f7f-a6dc-7f2446c03dc1#ref=rss)
+### srebrenica
 
-* [https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung](https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung-a-270cf19c-634d-4a3a-bf17-e45fdfb6c902#ref=rss)
-### verdi
+* [https://www.spiegel.de/ausland/ratko-mladic-lebenslang-fuer-den-schlaechter-von-srebrenica](https://www.spiegel.de/ausland/ratko-mladic-lebenslang-fuer-den-schlaechter-von-srebrenica-a-939ec49e-7201-4f7f-a6dc-7f2446c03dc1#ref=rss)
+### schuld
 
-* [https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung](https://www.spiegel.de/karriere/homeoffice-verdi-fordert-finanzielle-entschaedigung-fuer-nutzung-der-eigenen-wohnung-a-270cf19c-634d-4a3a-bf17-e45fdfb6c902#ref=rss)
-### wasserstrategie
+* [https://www.spiegel.de/politik/deutschland/kinderrechte-cdu-und-spd-geben-sich-gegenseitig-die-schuld-an-gescheiterten-verhandlungen](https://www.spiegel.de/politik/deutschland/kinderrechte-cdu-und-spd-geben-sich-gegenseitig-die-schuld-an-gescheiterten-verhandlungen-a-5386e2cd-b119-4ad2-bd14-db1f2e77753b#ref=rss)
+### macht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/nationale-wasserstrategie-svenja-schulze-warnt-vor-wasserknappheit-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/nationale-wasserstrategie-svenja-schulze-warnt-vor-wasserknappheit-in-deutschland-a-b6f3ae70-905c-4bce-9b76-2399f671bfd3#ref=rss)
-### warnt
+* [https://www.spiegel.de/politik/deutschland/kinderrechte-cdu-und-spd-geben-sich-gegenseitig-die-schuld-an-gescheiterten-verhandlungen](https://www.spiegel.de/politik/deutschland/kinderrechte-cdu-und-spd-geben-sich-gegenseitig-die-schuld-an-gescheiterten-verhandlungen-a-5386e2cd-b119-4ad2-bd14-db1f2e77753b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klima-in-europaeischen-laendern-sorgen-sich-immer-mehr-menschen-um-dieses-thema](https://www.spiegel.de/wissenschaft/natur/klima-in-europaeischen-laendern-sorgen-sich-immer-mehr-menschen-um-dieses-thema-a-cfac478f-e414-40f0-89d5-2a45df74f0e5#ref=rss)
+### thema
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/nationale-wasserstrategie-svenja-schulze-warnt-vor-wasserknappheit-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/nationale-wasserstrategie-svenja-schulze-warnt-vor-wasserknappheit-in-deutschland-a-b6f3ae70-905c-4bce-9b76-2399f671bfd3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/fussball-europameisterschaft-polizeigewerkschaft-warnt-vor-krawallen](https://www.spiegel.de/panorama/justiz/fussball-europameisterschaft-polizeigewerkschaft-warnt-vor-krawallen-a-2267f12a-a4c9-4860-a672-55174fc2f55c#ref=rss)
-### em
-
-* [https://www.spiegel.de/panorama/justiz/fussball-europameisterschaft-polizeigewerkschaft-warnt-vor-krawallen](https://www.spiegel.de/panorama/justiz/fussball-europameisterschaft-polizeigewerkschaft-warnt-vor-krawallen-a-2267f12a-a4c9-4860-a672-55174fc2f55c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-schlaegt-lettland-7-1-kein-grund-zur-euphorie](https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-schlaegt-lettland-7-1-kein-grund-zur-euphorie-a-fce4a096-c955-4cd2-b4d4-1bfd7ba701e4#ref=rss)
-### banken
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen-a-49f79f95-a940-4b2a-ab9e-1f13fd817216#ref=rss)
-### filialen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/europas-banken-wollen-offenbar-in-grossem-stil-filialen-schliessen-a-49f79f95-a940-4b2a-ab9e-1f13fd817216#ref=rss)
-### lettland
-
-* [https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-schlaegt-lettland-7-1-kein-grund-zur-euphorie](https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-schlaegt-lettland-7-1-kein-grund-zur-euphorie-a-fce4a096-c955-4cd2-b4d4-1bfd7ba701e4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klima-in-europaeischen-laendern-sorgen-sich-immer-mehr-menschen-um-dieses-thema](https://www.spiegel.de/wissenschaft/natur/klima-in-europaeischen-laendern-sorgen-sich-immer-mehr-menschen-um-dieses-thema-a-cfac478f-e414-40f0-89d5-2a45df74f0e5#ref=rss)
 
