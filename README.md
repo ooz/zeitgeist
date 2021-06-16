@@ -107,13 +107,13 @@ torjäger(237) treffer(237) kommentiert(236) lockdowns(236) ludwigshafen(236) 39
 
 ```
 date, investment, buy price, sell price
-2021-06-10 21:09:26, 1-EUR, 1.21 USD, 1.21 USD
-2021-06-10 21:09:26, 1-EUR, 7.78 CNY, 7.78 CNY
-2021-06-10 21:09:26, crude-oil-brent-barrel, 72.3 USD, 72.3 USD
-2021-06-10 21:09:27, gold-10g, 522.28 EUR, 496.27 EUR
-2021-06-10 21:09:29, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-06-10 21:09:30, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-06-10 21:09:31, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
+2021-06-16 10:09:49, 1-EUR, 1.21 USD, 1.21 USD
+2021-06-16 10:09:49, 1-EUR, 7.75 CNY, 7.75 CNY
+2021-06-16 10:09:49, crude-oil-brent-barrel, 74.2 USD, 74.2 USD
+2021-06-16 10:09:50, gold-10g, 514.32 EUR, 488.39 EUR
+2021-06-16 10:09:51, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-06-16 10:09:53, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-06-16 10:09:54, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
 ```
 
 <footer>
