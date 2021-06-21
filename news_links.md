@@ -4,311 +4,351 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zwei
+### fußballem
 
-* [https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf](https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf-a-095d7c26-5a8f-460e-a005-454f316416a3#ref=rss)
-* [https://www.spiegel.de/panorama/ludwigslust-parchim-70-jaehriger-nach-zwei-tagen-im-wald-gefunden](https://www.spiegel.de/panorama/ludwigslust-parchim-70-jaehriger-nach-zwei-tagen-im-wald-gefunden-a-2f555099-0077-4752-8659-45eb727f8f71#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-bevoelkerung-waechst-erstmals-seit-fast-zehn-jahren-nicht-mehr](https://www.spiegel.de/politik/deutschland/deutschland-bevoelkerung-waechst-erstmals-seit-fast-zehn-jahren-nicht-mehr-a-23e46af4-8af8-4336-8a5b-e3306c3077d3#ref=rss)
-* [https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg](https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg-a-97eb0879-42a2-44d7-90b7-8d4f4eb32d4a#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/soziales/rwi-studie-abschaffung-des-ehegattensplittings-koennte-hunderttausende-fuer-job-motivieren](https://www.spiegel.de/wirtschaft/soziales/rwi-studie-abschaffung-des-ehegattensplittings-koennte-hunderttausende-fuer-job-motivieren-a-ee79a7bf-c34f-4b62-a524-c28ef5de2523#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-debatte-um-muenchner-stadion-in-regenbogenfarben-sie-wollen-orban-nicht-brueskieren](https://www.spiegel.de/sport/fussball/fussball-em-2021-debatte-um-muenchner-stadion-in-regenbogenfarben-sie-wollen-orban-nicht-brueskieren-a-6e3ab606-b188-4a5d-9f77-72e147573802#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-russischer-uni-mitarbeiter-wegen-spionage-vorwuerfen-in-u-haft](https://www.spiegel.de/politik/deutschland/deutschland-russischer-uni-mitarbeiter-wegen-spionage-vorwuerfen-in-u-haft-a-3cdc3b56-e543-4dd6-9940-44cdf296288a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-bevoelkerung-waechst-erstmals-seit-fast-zehn-jahren-nicht-mehr](https://www.spiegel.de/politik/deutschland/deutschland-bevoelkerung-waechst-erstmals-seit-fast-zehn-jahren-nicht-mehr-a-23e46af4-8af8-4336-8a5b-e3306c3077d3#ref=rss)
-* [https://www.spiegel.de/stil/rezept-fuer-kalte-rote-bete-suppe-aus-litauen-saltibarsciai](https://www.spiegel.de/stil/rezept-fuer-kalte-rote-bete-suppe-aus-litauen-saltibarsciai-a-0ad0357e-4820-468c-ade5-3641900f6d19#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/armin-laschet-und-markus-soeder-stellen-unions-wahlprogramm-vor](https://www.spiegel.de/politik/armin-laschet-und-markus-soeder-stellen-unions-wahlprogramm-vor-a-0d55f198-0e9e-497d-9ced-82b9396910f5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/union-will-wahlplaene-aus-wirtschaftswachstum-finanzieren](https://www.spiegel.de/wirtschaft/soziales/union-will-wahlplaene-aus-wirtschaftswachstum-finanzieren-a-154affa8-342f-4174-8526-68d2732d829d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-wahlprogramm-von-cdu-csu-streit-ueber-klinik-finanzierung-dokumentationszentrum-flucht-und-vertreibung](https://www.spiegel.de/politik/deutschland/news-wahlprogramm-von-cdu-csu-streit-ueber-klinik-finanzierung-dokumentationszentrum-flucht-und-vertreibung-a-54d79070-6d68-4261-9580-442ce668f48e#ref=rss)
-### apple
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/apple-bundeskartellamt-ueberprueft-apples-marktposition](https://www.spiegel.de/netzwelt/netzpolitik/apple-bundeskartellamt-ueberprueft-apples-marktposition-a-ae9872d8-7818-428f-ac33-d82f8ce4becf#ref=rss)
-* [https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus](https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus-a-f15491f1-9745-4f39-ba6a-d1c072ee4b35#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev](https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev-a-39028329-589c-4bfa-9e4b-999683f99dea#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein](https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein-a-43c986b3-f80d-47ca-bdba-9506058a0756#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-kai-havertz-im-dfb-team-der-unverzichtbare](https://www.spiegel.de/sport/fussball/fussball-em-2021-kai-havertz-im-dfb-team-der-unverzichtbare-a-6b0df863-dc42-4dfe-b367-0ab27a8c4294#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor](https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor-a-56235db8-8225-44cd-a561-ce4a135ad633#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu-a-e5bb4ecb-0189-414c-abd7-0dfe9c092eb8#ref=rss)
 ### 2021
 
-* [https://www.spiegel.de/sport/fussball/em-2021-billy-gilmour-hat-positiven-coronatest-em-aus-droht](https://www.spiegel.de/sport/fussball/em-2021-billy-gilmour-hat-positiven-coronatest-em-aus-droht-a-f8c231f4-ccec-43a4-b1a5-4c4d2d1ab536#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-debatte-um-muenchner-stadion-in-regenbogenfarben-sie-wollen-orban-nicht-brueskieren](https://www.spiegel.de/sport/fussball/fussball-em-2021-debatte-um-muenchner-stadion-in-regenbogenfarben-sie-wollen-orban-nicht-brueskieren-a-6e3ab606-b188-4a5d-9f77-72e147573802#ref=rss)
-* [https://www.spiegel.de/sport/olympia/tokio-2021-japan-erlaubt-bis-zu-10-000-zuschauer-in-olympia-wettkampfstaetten](https://www.spiegel.de/sport/olympia/tokio-2021-japan-erlaubt-bis-zu-10-000-zuschauer-in-olympia-wettkampfstaetten-a-becf02ec-1cb4-482a-8f13-6eed3caa642f#ref=rss)
-### kinder
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev](https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev-a-39028329-589c-4bfa-9e4b-999683f99dea#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein](https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein-a-43c986b3-f80d-47ca-bdba-9506058a0756#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-kai-havertz-im-dfb-team-der-unverzichtbare](https://www.spiegel.de/sport/fussball/fussball-em-2021-kai-havertz-im-dfb-team-der-unverzichtbare-a-6b0df863-dc42-4dfe-b367-0ab27a8c4294#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor](https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor-a-56235db8-8225-44cd-a561-ce4a135ad633#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/em-2021-in-corona-pandemie-die-uefa-spielt-mit-dem-leben-von-menschen](https://www.spiegel.de/politik/deutschland/em-2021-in-corona-pandemie-die-uefa-spielt-mit-dem-leben-von-menschen-a-c89dd7a0-832d-4d06-95b2-44ad7e5520cc#ref=rss)
+### deltavariante
 
-* [https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf](https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf-a-095d7c26-5a8f-460e-a005-454f316416a3#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/forscher-fordern-psychisches-fruehwarnsystem-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/forscher-fordern-psychisches-fruehwarnsystem-fuer-kinder-und-jugendliche-a-9adb426c-40e2-4dcc-86ed-b13fd52abe81#ref=rss)
-### fast
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-bevoelkerung-waechst-erstmals-seit-fast-zehn-jahren-nicht-mehr](https://www.spiegel.de/politik/deutschland/deutschland-bevoelkerung-waechst-erstmals-seit-fast-zehn-jahren-nicht-mehr-a-23e46af4-8af8-4336-8a5b-e3306c3077d3#ref=rss)
-* [https://www.spiegel.de/stil/rezept-fuer-kalte-rote-bete-suppe-aus-litauen-saltibarsciai](https://www.spiegel.de/stil/rezept-fuer-kalte-rote-bete-suppe-aus-litauen-saltibarsciai-a-0ad0357e-4820-468c-ade5-3641900f6d19#ref=rss)
-* [https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus](https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus-a-f15491f1-9745-4f39-ba6a-d1c072ee4b35#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-bevoelkerung-waechst-erstmals-seit-fast-zehn-jahren-nicht-mehr](https://www.spiegel.de/politik/deutschland/deutschland-bevoelkerung-waechst-erstmals-seit-fast-zehn-jahren-nicht-mehr-a-23e46af4-8af8-4336-8a5b-e3306c3077d3#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels-a-b1cd5639-2834-4d67-8274-325abee9cc83#ref=rss)
-* [https://www.spiegel.de/karriere/birte-meier-zdf-reporterin-bekommt-jedes-jahr-tausende-euro-weniger-als-ihre-kollegen](https://www.spiegel.de/karriere/birte-meier-zdf-reporterin-bekommt-jedes-jahr-tausende-euro-weniger-als-ihre-kollegen-a-d6eb94c6-991d-4215-9909-f9f9fce5e9cc#ref=rss)
-### laschet
-
-* [https://www.spiegel.de/politik/armin-laschet-und-markus-soeder-stellen-unions-wahlprogramm-vor](https://www.spiegel.de/politik/armin-laschet-und-markus-soeder-stellen-unions-wahlprogramm-vor-a-0d55f198-0e9e-497d-9ced-82b9396910f5#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/armin-laschet-und-markus-soeder-stellen-unions-wahlprogramm-vor](https://www.spiegel.de/politik/armin-laschet-und-markus-soeder-stellen-unions-wahlprogramm-vor-a-0d55f198-0e9e-497d-9ced-82b9396910f5#ref=rss)
-### steuern
-
-* [https://www.spiegel.de/politik/armin-laschet-und-markus-soeder-stellen-unions-wahlprogramm-vor](https://www.spiegel.de/politik/armin-laschet-und-markus-soeder-stellen-unions-wahlprogramm-vor-a-0d55f198-0e9e-497d-9ced-82b9396910f5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/union-will-wahlplaene-aus-wirtschaftswachstum-finanzieren](https://www.spiegel.de/wirtschaft/soziales/union-will-wahlplaene-aus-wirtschaftswachstum-finanzieren-a-154affa8-342f-4174-8526-68d2732d829d#ref=rss)
-### klimaanlagen
-
-* [https://www.spiegel.de/netzwelt/gadgets/stromversorger-in-texas-drosseln-klimaanlagen-aus-der-ferne](https://www.spiegel.de/netzwelt/gadgets/stromversorger-in-texas-drosseln-klimaanlagen-aus-der-ferne-a-386d6957-7466-457d-9928-dc49bec4748d#ref=rss)
-### abschaffung
-
-* [https://www.spiegel.de/wirtschaft/soziales/rwi-studie-abschaffung-des-ehegattensplittings-koennte-hunderttausende-fuer-job-motivieren](https://www.spiegel.de/wirtschaft/soziales/rwi-studie-abschaffung-des-ehegattensplittings-koennte-hunderttausende-fuer-job-motivieren-a-ee79a7bf-c34f-4b62-a524-c28ef5de2523#ref=rss)
-### ehegattensplittings
-
-* [https://www.spiegel.de/wirtschaft/soziales/rwi-studie-abschaffung-des-ehegattensplittings-koennte-hunderttausende-fuer-job-motivieren](https://www.spiegel.de/wirtschaft/soziales/rwi-studie-abschaffung-des-ehegattensplittings-koennte-hunderttausende-fuer-job-motivieren-a-ee79a7bf-c34f-4b62-a524-c28ef5de2523#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wirtschaft/soziales/rwi-studie-abschaffung-des-ehegattensplittings-koennte-hunderttausende-fuer-job-motivieren](https://www.spiegel.de/wirtschaft/soziales/rwi-studie-abschaffung-des-ehegattensplittings-koennte-hunderttausende-fuer-job-motivieren-a-ee79a7bf-c34f-4b62-a524-c28ef5de2523#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/neue-studie-distanzunterricht-gerade-mal-so-effektiv-wie-sommerferien](https://www.spiegel.de/panorama/bildung/neue-studie-distanzunterricht-gerade-mal-so-effektiv-wie-sommerferien-a-fc990780-c9e2-427f-bf6b-2c59b7b5cedb#ref=rss)
-### wirtschaftswachstum
-
-* [https://www.spiegel.de/wirtschaft/soziales/rwi-studie-abschaffung-des-ehegattensplittings-koennte-hunderttausende-fuer-job-motivieren](https://www.spiegel.de/wirtschaft/soziales/rwi-studie-abschaffung-des-ehegattensplittings-koennte-hunderttausende-fuer-job-motivieren-a-ee79a7bf-c34f-4b62-a524-c28ef5de2523#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/union-will-wahlplaene-aus-wirtschaftswachstum-finanzieren](https://www.spiegel.de/wirtschaft/soziales/union-will-wahlplaene-aus-wirtschaftswachstum-finanzieren-a-154affa8-342f-4174-8526-68d2732d829d#ref=rss)
-### billy
-
-* [https://www.spiegel.de/sport/fussball/em-2021-billy-gilmour-hat-positiven-coronatest-em-aus-droht](https://www.spiegel.de/sport/fussball/em-2021-billy-gilmour-hat-positiven-coronatest-em-aus-droht-a-f8c231f4-ccec-43a4-b1a5-4c4d2d1ab536#ref=rss)
-### gilmour
-
-* [https://www.spiegel.de/sport/fussball/em-2021-billy-gilmour-hat-positiven-coronatest-em-aus-droht](https://www.spiegel.de/sport/fussball/em-2021-billy-gilmour-hat-positiven-coronatest-em-aus-droht-a-f8c231f4-ccec-43a4-b1a5-4c4d2d1ab536#ref=rss)
-### großen
-
-* [https://www.spiegel.de/sport/fussball/em-2021-billy-gilmour-hat-positiven-coronatest-em-aus-droht](https://www.spiegel.de/sport/fussball/em-2021-billy-gilmour-hat-positiven-coronatest-em-aus-droht-a-f8c231f4-ccec-43a4-b1a5-4c4d2d1ab536#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-die-pressestimmen-zum-gp-von-frankreich-die-formel-max-floesst-hamilton-angst-ein](https://www.spiegel.de/sport/formel1/formel-1-die-pressestimmen-zum-gp-von-frankreich-die-formel-max-floesst-hamilton-angst-ein-a-3964f082-fedc-4e1d-bc0c-41b88bbbfaad#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/apple-bundeskartellamt-ueberprueft-apples-marktposition](https://www.spiegel.de/netzwelt/netzpolitik/apple-bundeskartellamt-ueberprueft-apples-marktposition-a-ae9872d8-7818-428f-ac33-d82f8ce4becf#ref=rss)
-* [https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus](https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus-a-f15491f1-9745-4f39-ba6a-d1c072ee4b35#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-debatte-um-muenchner-stadion-in-regenbogenfarben-sie-wollen-orban-nicht-brueskieren](https://www.spiegel.de/sport/fussball/fussball-em-2021-debatte-um-muenchner-stadion-in-regenbogenfarben-sie-wollen-orban-nicht-brueskieren-a-6e3ab606-b188-4a5d-9f77-72e147573802#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-regierung-durch-misstrauensvotum-gestuerzt](https://www.spiegel.de/ausland/schweden-regierung-durch-misstrauensvotum-gestuerzt-a-d66b53df-6e28-48f0-ae84-f7cec88edca8#ref=rss)
-### münchner
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-debatte-um-muenchner-stadion-in-regenbogenfarben-sie-wollen-orban-nicht-brueskieren](https://www.spiegel.de/sport/fussball/fussball-em-2021-debatte-um-muenchner-stadion-in-regenbogenfarben-sie-wollen-orban-nicht-brueskieren-a-6e3ab606-b188-4a5d-9f77-72e147573802#ref=rss)
-### regenbogenfarben
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-debatte-um-muenchner-stadion-in-regenbogenfarben-sie-wollen-orban-nicht-brueskieren](https://www.spiegel.de/sport/fussball/fussball-em-2021-debatte-um-muenchner-stadion-in-regenbogenfarben-sie-wollen-orban-nicht-brueskieren-a-6e3ab606-b188-4a5d-9f77-72e147573802#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-debatte-um-muenchner-stadion-in-regenbogenfarben-sie-wollen-orban-nicht-brueskieren](https://www.spiegel.de/sport/fussball/fussball-em-2021-debatte-um-muenchner-stadion-in-regenbogenfarben-sie-wollen-orban-nicht-brueskieren-a-6e3ab606-b188-4a5d-9f77-72e147573802#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-regierung-durch-misstrauensvotum-gestuerzt](https://www.spiegel.de/ausland/schweden-regierung-durch-misstrauensvotum-gestuerzt-a-d66b53df-6e28-48f0-ae84-f7cec88edca8#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf](https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf-a-095d7c26-5a8f-460e-a005-454f316416a3#ref=rss)
-### william
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf](https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf-a-095d7c26-5a8f-460e-a005-454f316416a3#ref=rss)
-### besucht
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf](https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf-a-095d7c26-5a8f-460e-a005-454f316416a3#ref=rss)
-* [https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate](https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate-a-9b055162-8956-44a1-9ff2-2518a1e2ad03#ref=rss)
-### spendenlauf
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf](https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf-a-095d7c26-5a8f-460e-a005-454f316416a3#ref=rss)
-### wünschen
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf](https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf-a-095d7c26-5a8f-460e-a005-454f316416a3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-oliver-zipse-warnt-vor-zu-fruehem-abschied-vom-verbrenner](https://www.spiegel.de/wirtschaft/unternehmen/bmw-oliver-zipse-warnt-vor-zu-fruehem-abschied-vom-verbrenner-a-01483795-b665-4fef-9eaa-48eb5724f986#ref=rss)
-### geburtstag
-
-* [https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf](https://www.spiegel.de/panorama/leute/prinz-william-wird-39-und-besucht-spendenlauf-a-095d7c26-5a8f-460e-a005-454f316416a3#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/panorama/bildung/studienfinanzierung-bundesregierung-will-beim-bafoeg-erst-einmal-abwarten](https://www.spiegel.de/panorama/bildung/studienfinanzierung-bundesregierung-will-beim-bafoeg-erst-einmal-abwarten-a-5babbdbf-dc87-482f-84a2-5f63464b417f#ref=rss)
-### erst
-
-* [https://www.spiegel.de/panorama/bildung/studienfinanzierung-bundesregierung-will-beim-bafoeg-erst-einmal-abwarten](https://www.spiegel.de/panorama/bildung/studienfinanzierung-bundesregierung-will-beim-bafoeg-erst-einmal-abwarten-a-5babbdbf-dc87-482f-84a2-5f63464b417f#ref=rss)
-* [https://www.spiegel.de/karriere/birte-meier-zdf-reporterin-bekommt-jedes-jahr-tausende-euro-weniger-als-ihre-kollegen](https://www.spiegel.de/karriere/birte-meier-zdf-reporterin-bekommt-jedes-jahr-tausende-euro-weniger-als-ihre-kollegen-a-d6eb94c6-991d-4215-9909-f9f9fce5e9cc#ref=rss)
-### gefunden
-
-* [https://www.spiegel.de/panorama/ludwigslust-parchim-70-jaehriger-nach-zwei-tagen-im-wald-gefunden](https://www.spiegel.de/panorama/ludwigslust-parchim-70-jaehriger-nach-zwei-tagen-im-wald-gefunden-a-2f555099-0077-4752-8659-45eb727f8f71#ref=rss)
-* [https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg](https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg-a-97eb0879-42a2-44d7-90b7-8d4f4eb32d4a#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-die-pressestimmen-zum-gp-von-frankreich-die-formel-max-floesst-hamilton-angst-ein](https://www.spiegel.de/sport/formel1/formel-1-die-pressestimmen-zum-gp-von-frankreich-die-formel-max-floesst-hamilton-angst-ein-a-3964f082-fedc-4e1d-bc0c-41b88bbbfaad#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/sport/formel1/formel-1-die-pressestimmen-zum-gp-von-frankreich-die-formel-max-floesst-hamilton-angst-ein](https://www.spiegel.de/sport/formel1/formel-1-die-pressestimmen-zum-gp-von-frankreich-die-formel-max-floesst-hamilton-angst-ein-a-3964f082-fedc-4e1d-bc0c-41b88bbbfaad#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-die-pressestimmen-zum-gp-von-frankreich-die-formel-max-floesst-hamilton-angst-ein](https://www.spiegel.de/sport/formel1/formel-1-die-pressestimmen-zum-gp-von-frankreich-die-formel-max-floesst-hamilton-angst-ein-a-3964f082-fedc-4e1d-bc0c-41b88bbbfaad#ref=rss)
-### jair
-
-* [https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate](https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate-a-9b055162-8956-44a1-9ff2-2518a1e2ad03#ref=rss)
-### lapid
-
-* [https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate](https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate-a-9b055162-8956-44a1-9ff2-2518a1e2ad03#ref=rss)
-### außenminister
-
-* [https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate](https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate-a-9b055162-8956-44a1-9ff2-2518a1e2ad03#ref=rss)
-### vereinigten
-
-* [https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate](https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate-a-9b055162-8956-44a1-9ff2-2518a1e2ad03#ref=rss)
-### arabischen
-
-* [https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate](https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate-a-9b055162-8956-44a1-9ff2-2518a1e2ad03#ref=rss)
-### emirate
-
-* [https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate](https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate-a-9b055162-8956-44a1-9ff2-2518a1e2ad03#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate](https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate-a-9b055162-8956-44a1-9ff2-2518a1e2ad03#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/neue-studie-distanzunterricht-gerade-mal-so-effektiv-wie-sommerferien](https://www.spiegel.de/panorama/bildung/neue-studie-distanzunterricht-gerade-mal-so-effektiv-wie-sommerferien-a-fc990780-c9e2-427f-bf6b-2c59b7b5cedb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/mutiertes-coronavirus-warum-die-delta-variante-so-gefaehrlich-ist](https://www.spiegel.de/wissenschaft/medizin/mutiertes-coronavirus-warum-die-delta-variante-so-gefaehrlich-ist-a-13baac55-60c0-42fd-a51c-edde3cd0b903#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor](https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor-a-56235db8-8225-44cd-a561-ce4a135ad633#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante-a-14ef498e-006f-4a4a-b2b9-8e7aa24d3a35#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate](https://www.spiegel.de/ausland/isreal-jair-lapid-besucht-als-erster-aussenminister-die-vereinigten-arabischen-emirate-a-9b055162-8956-44a1-9ff2-2518a1e2ad03#ref=rss)
-* [https://www.spiegel.de/sport/olympia/tokio-2021-japan-erlaubt-bis-zu-10-000-zuschauer-in-olympia-wettkampfstaetten](https://www.spiegel.de/sport/olympia/tokio-2021-japan-erlaubt-bis-zu-10-000-zuschauer-in-olympia-wettkampfstaetten-a-becf02ec-1cb4-482a-8f13-6eed3caa642f#ref=rss)
-### gestürzt
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev](https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev-a-39028329-589c-4bfa-9e4b-999683f99dea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china](https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china-a-282f464f-823f-4a61-abfa-d2c88bf1824a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stanberg-13-jaehriger-stirbt-bei-ruderunfall-betreuer-vor-gericht](https://www.spiegel.de/panorama/justiz/stanberg-13-jaehriger-stirbt-bei-ruderunfall-betreuer-vor-gericht-a-5d84c9f5-33d0-4d0f-87c5-458345cd53ff#ref=rss)
+* [https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen](https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen-a-3c289d53-3440-45ac-a94c-d4cc5e66f923#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/schweden-regierung-durch-misstrauensvotum-gestuerzt](https://www.spiegel.de/ausland/schweden-regierung-durch-misstrauensvotum-gestuerzt-a-d66b53df-6e28-48f0-ae84-f7cec88edca8#ref=rss)
-* [https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde](https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde-a-d27f4ed4-65fd-4561-9d27-3f65a3d745c6#ref=rss)
-### leopoldina
+* [https://www.spiegel.de/ausland/allianz-arena-in-regenbogenfarbe-ungarn-erzuernt-ueber-plaene-fuer-em-spiel](https://www.spiegel.de/ausland/allianz-arena-in-regenbogenfarbe-ungarn-erzuernt-ueber-plaene-fuer-em-spiel-a-c0d0ebfc-904c-4e5e-9a50-7017e1a31378#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/mutiertes-coronavirus-warum-die-delta-variante-so-gefaehrlich-ist](https://www.spiegel.de/wissenschaft/medizin/mutiertes-coronavirus-warum-die-delta-variante-so-gefaehrlich-ist-a-13baac55-60c0-42fd-a51c-edde3cd0b903#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante-a-14ef498e-006f-4a4a-b2b9-8e7aa24d3a35#ref=rss)
+### coronavirus
 
-* [https://www.spiegel.de/panorama/bildung/forscher-fordern-psychisches-fruehwarnsystem-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/forscher-fordern-psychisches-fruehwarnsystem-fuer-kinder-und-jugendliche-a-9adb426c-40e2-4dcc-86ed-b13fd52abe81#ref=rss)
-### forscher
+* [https://www.spiegel.de/wissenschaft/medizin/mutiertes-coronavirus-warum-die-delta-variante-so-gefaehrlich-ist](https://www.spiegel.de/wissenschaft/medizin/mutiertes-coronavirus-warum-die-delta-variante-so-gefaehrlich-ist-a-13baac55-60c0-42fd-a51c-edde3cd0b903#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor](https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor-a-56235db8-8225-44cd-a561-ce4a135ad633#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante-a-14ef498e-006f-4a4a-b2b9-8e7aa24d3a35#ref=rss)
+### uefa
 
-* [https://www.spiegel.de/panorama/bildung/forscher-fordern-psychisches-fruehwarnsystem-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/forscher-fordern-psychisches-fruehwarnsystem-fuer-kinder-und-jugendliche-a-9adb426c-40e2-4dcc-86ed-b13fd52abe81#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/neue-studie-distanzunterricht-gerade-mal-so-effektiv-wie-sommerferien](https://www.spiegel.de/panorama/bildung/neue-studie-distanzunterricht-gerade-mal-so-effektiv-wie-sommerferien-a-fc990780-c9e2-427f-bf6b-2c59b7b5cedb#ref=rss)
-### jugendliche
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor](https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor-a-56235db8-8225-44cd-a561-ce4a135ad633#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu-a-e5bb4ecb-0189-414c-abd7-0dfe9c092eb8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/em-2021-in-corona-pandemie-die-uefa-spielt-mit-dem-leben-von-menschen](https://www.spiegel.de/politik/deutschland/em-2021-in-corona-pandemie-die-uefa-spielt-mit-dem-leben-von-menschen-a-c89dd7a0-832d-4d06-95b2-44ad7e5520cc#ref=rss)
+### beendet
 
-* [https://www.spiegel.de/panorama/bildung/forscher-fordern-psychisches-fruehwarnsystem-fuer-kinder-und-jugendliche](https://www.spiegel.de/panorama/bildung/forscher-fordern-psychisches-fruehwarnsystem-fuer-kinder-und-jugendliche-a-9adb426c-40e2-4dcc-86ed-b13fd52abe81#ref=rss)
-### tokio
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein](https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein-a-43c986b3-f80d-47ca-bdba-9506058a0756#ref=rss)
+* [https://www.spiegel.de/sport/olympia/leichtathletik-huerdensprinterin-pamela-dutkiewicz-emmerich-beendet-olmypia-saison](https://www.spiegel.de/sport/olympia/leichtathletik-huerdensprinterin-pamela-dutkiewicz-emmerich-beendet-olmypia-saison-a-02acc70f-7bcb-41e0-b6ab-9163f436e744#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/olympia/tokio-2021-japan-erlaubt-bis-zu-10-000-zuschauer-in-olympia-wettkampfstaetten](https://www.spiegel.de/sport/olympia/tokio-2021-japan-erlaubt-bis-zu-10-000-zuschauer-in-olympia-wettkampfstaetten-a-becf02ec-1cb4-482a-8f13-6eed3caa642f#ref=rss)
-### zuschauer
+* [https://www.spiegel.de/panorama/justiz/pakistan-muslimischer-geistlicher-soll-studenten-missbraucht-haben](https://www.spiegel.de/panorama/justiz/pakistan-muslimischer-geistlicher-soll-studenten-missbraucht-haben-a-0d5acaf6-e397-440b-bbaf-be069e529dd1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stanberg-13-jaehriger-stirbt-bei-ruderunfall-betreuer-vor-gericht](https://www.spiegel.de/panorama/justiz/stanberg-13-jaehriger-stirbt-bei-ruderunfall-betreuer-vor-gericht-a-5d84c9f5-33d0-4d0f-87c5-458345cd53ff#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/seehausen-schuesse-aus-paintball-waffe-polizei-sucht-nach-tatverdaechtigem](https://www.spiegel.de/panorama/justiz/seehausen-schuesse-aus-paintball-waffe-polizei-sucht-nach-tatverdaechtigem-a-1e8fc740-5677-42ad-b849-894b51a2640c#ref=rss)
+### mann
 
-* [https://www.spiegel.de/sport/olympia/tokio-2021-japan-erlaubt-bis-zu-10-000-zuschauer-in-olympia-wettkampfstaetten](https://www.spiegel.de/sport/olympia/tokio-2021-japan-erlaubt-bis-zu-10-000-zuschauer-in-olympia-wettkampfstaetten-a-becf02ec-1cb4-482a-8f13-6eed3caa642f#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/justiz/pakistan-muslimischer-geistlicher-soll-studenten-missbraucht-haben](https://www.spiegel.de/panorama/justiz/pakistan-muslimischer-geistlicher-soll-studenten-missbraucht-haben-a-0d5acaf6-e397-440b-bbaf-be069e529dd1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/anna-maria-ferchichi-mein-mann-ist-eigentlich-sehr-dominant-aber-was-arafat-betraf-war-er-devot](https://www.spiegel.de/panorama/justiz/anna-maria-ferchichi-mein-mann-ist-eigentlich-sehr-dominant-aber-was-arafat-betraf-war-er-devot-a-f8d9f1ee-2e80-4cbf-bed3-f0e6ec806da7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/seehausen-schuesse-aus-paintball-waffe-polizei-sucht-nach-tatverdaechtigem](https://www.spiegel.de/panorama/justiz/seehausen-schuesse-aus-paintball-waffe-polizei-sucht-nach-tatverdaechtigem-a-1e8fc740-5677-42ad-b849-894b51a2640c#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-bevoelkerung-waechst-erstmals-seit-fast-zehn-jahren-nicht-mehr](https://www.spiegel.de/politik/deutschland/deutschland-bevoelkerung-waechst-erstmals-seit-fast-zehn-jahren-nicht-mehr-a-23e46af4-8af8-4336-8a5b-e3306c3077d3#ref=rss)
-* [https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg](https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg-a-97eb0879-42a2-44d7-90b7-8d4f4eb32d4a#ref=rss)
-### mehr
+* [https://www.spiegel.de/wissenschaft/mensch/klima-forscher-diskutieren-sinn-von-co2-entfernung-aus-der-atmosphaere](https://www.spiegel.de/wissenschaft/mensch/klima-forscher-diskutieren-sinn-von-co2-entfernung-aus-der-atmosphaere-a-1681a8d7-24bb-40b1-b35f-14fcc4989e70#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/augsburg-verschaerft-nach-innenstadt-krawallen-das-alkoholverbot](https://www.spiegel.de/panorama/gesellschaft/augsburg-verschaerft-nach-innenstadt-krawallen-das-alkoholverbot-a-80780018-9963-4904-9342-ec5e79d52549#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildungspolitik-streit-um-schul-strategie-nach-den-sommerferien](https://www.spiegel.de/panorama/bildung/bildungspolitik-streit-um-schul-strategie-nach-den-sommerferien-a-e2f53cc9-7106-4c6d-a878-b37b282cdbb1#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-bevoelkerung-waechst-erstmals-seit-fast-zehn-jahren-nicht-mehr](https://www.spiegel.de/politik/deutschland/deutschland-bevoelkerung-waechst-erstmals-seit-fast-zehn-jahren-nicht-mehr-a-23e46af4-8af8-4336-8a5b-e3306c3077d3#ref=rss)
-* [https://www.spiegel.de/karriere/birte-meier-zdf-reporterin-bekommt-jedes-jahr-tausende-euro-weniger-als-ihre-kollegen](https://www.spiegel.de/karriere/birte-meier-zdf-reporterin-bekommt-jedes-jahr-tausende-euro-weniger-als-ihre-kollegen-a-d6eb94c6-991d-4215-9909-f9f9fce5e9cc#ref=rss)
-### äthiopien
+* [https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union](https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union-a-7732cc64-d3c5-4554-aa11-76ced019e56d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu-a-e5bb4ecb-0189-414c-abd7-0dfe9c092eb8#ref=rss)
+### kündigt
 
-* [https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde](https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde-a-d27f4ed4-65fd-4561-9d27-3f65a3d745c6#ref=rss)
-### friedensnobelpreisträger
+* [https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union](https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union-a-7732cc64-d3c5-4554-aa11-76ced019e56d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/augsburg-verschaerft-nach-innenstadt-krawallen-das-alkoholverbot](https://www.spiegel.de/panorama/gesellschaft/augsburg-verschaerft-nach-innenstadt-krawallen-das-alkoholverbot-a-80780018-9963-4904-9342-ec5e79d52549#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cansu-oezdemir-bundesinnenministerium-widerspricht-bundespolizei](https://www.spiegel.de/politik/deutschland/cansu-oezdemir-bundesinnenministerium-widerspricht-bundespolizei-a-3afba29a-3854-4c26-8004-edbd755e77df#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde](https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde-a-d27f4ed4-65fd-4561-9d27-3f65a3d745c6#ref=rss)
-### abiy
+* [https://www.spiegel.de/sport/olympia/leichtathletik-huerdensprinterin-pamela-dutkiewicz-emmerich-beendet-olmypia-saison](https://www.spiegel.de/sport/olympia/leichtathletik-huerdensprinterin-pamela-dutkiewicz-emmerich-beendet-olmypia-saison-a-02acc70f-7bcb-41e0-b6ab-9163f436e744#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cansu-oezdemir-bundesinnenministerium-widerspricht-bundespolizei](https://www.spiegel.de/politik/deutschland/cansu-oezdemir-bundesinnenministerium-widerspricht-bundespolizei-a-3afba29a-3854-4c26-8004-edbd755e77df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/em-2021-in-corona-pandemie-die-uefa-spielt-mit-dem-leben-von-menschen](https://www.spiegel.de/politik/deutschland/em-2021-in-corona-pandemie-die-uefa-spielt-mit-dem-leben-von-menschen-a-c89dd7a0-832d-4d06-95b2-44ad7e5520cc#ref=rss)
+### markus
 
-* [https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde](https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde-a-d27f4ed4-65fd-4561-9d27-3f65a3d745c6#ref=rss)
-### ahmed
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor](https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor-a-56235db8-8225-44cd-a561-ce4a135ad633#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu-a-e5bb4ecb-0189-414c-abd7-0dfe9c092eb8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-kanzlerkandidat-armin-laschet-merkel-programm-ohne-merkel](https://www.spiegel.de/politik/deutschland/cdu-csu-kanzlerkandidat-armin-laschet-merkel-programm-ohne-merkel-a-08337bc9-09da-4b66-9dc2-025ebc4df565#ref=rss)
+### söder
 
-* [https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde](https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde-a-d27f4ed4-65fd-4561-9d27-3f65a3d745c6#ref=rss)
-### diesem
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor](https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor-a-56235db8-8225-44cd-a561-ce4a135ad633#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu-a-e5bb4ecb-0189-414c-abd7-0dfe9c092eb8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-kanzlerkandidat-armin-laschet-merkel-programm-ohne-merkel](https://www.spiegel.de/politik/deutschland/cdu-csu-kanzlerkandidat-armin-laschet-merkel-programm-ohne-merkel-a-08337bc9-09da-4b66-9dc2-025ebc4df565#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde](https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde-a-d27f4ed4-65fd-4561-9d27-3f65a3d745c6#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels-a-b1cd5639-2834-4d67-8274-325abee9cc83#ref=rss)
-### montag
+* [https://www.spiegel.de/panorama/justiz/stanberg-13-jaehriger-stirbt-bei-ruderunfall-betreuer-vor-gericht](https://www.spiegel.de/panorama/justiz/stanberg-13-jaehriger-stirbt-bei-ruderunfall-betreuer-vor-gericht-a-5d84c9f5-33d0-4d0f-87c5-458345cd53ff#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-frau-erschiesst-ihren-vergewaltiger-petition-fordert-freispruch](https://www.spiegel.de/panorama/justiz/frankreich-frau-erschiesst-ihren-vergewaltiger-petition-fordert-freispruch-a-46ee8e16-b160-4e00-a6c0-1a8531af5d55#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde](https://www.spiegel.de/ausland/wahlen-in-aethiopien-wie-aus-dem-friedensnobelpreistraeger-abiy-ahmed-ein-brutaler-kriegsherr-wurde-a-d27f4ed4-65fd-4561-9d27-3f65a3d745c6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-wahlprogramm-von-cdu-csu-streit-ueber-klinik-finanzierung-dokumentationszentrum-flucht-und-vertreibung](https://www.spiegel.de/politik/deutschland/news-wahlprogramm-von-cdu-csu-streit-ueber-klinik-finanzierung-dokumentationszentrum-flucht-und-vertreibung-a-54d79070-6d68-4261-9580-442ce668f48e#ref=rss)
-### wiesbaden
+* [https://www.spiegel.de/panorama/justiz/frankreich-frau-erschiesst-ihren-vergewaltiger-petition-fordert-freispruch](https://www.spiegel.de/panorama/justiz/frankreich-frau-erschiesst-ihren-vergewaltiger-petition-fordert-freispruch-a-46ee8e16-b160-4e00-a6c0-1a8531af5d55#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-schliesst-bitcoin-minen-im-suedwesten](https://www.spiegel.de/wirtschaft/unternehmen/china-schliesst-bitcoin-minen-im-suedwesten-a-be762c59-b215-4a32-83a4-85e38306b753#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/schluckauf-spezial-trinkhalm-soll-gegen-den-nervigen-hicks-helfen](https://www.spiegel.de/wissenschaft/mensch/schluckauf-spezial-trinkhalm-soll-gegen-den-nervigen-hicks-helfen-a-0ed35641-bf16-4d1d-aa6f-2b95e84963c3#ref=rss)
+### özdemir
 
-* [https://www.spiegel.de/panorama/salzbachtalbruecke-in-wiesbaden-brueckensperrung-verursacht-verkehrschaos-in-wiesbaden](https://www.spiegel.de/panorama/salzbachtalbruecke-in-wiesbaden-brueckensperrung-verursacht-verkehrschaos-in-wiesbaden-a-720101f7-8303-4bdf-8fb2-9c48639a342c#ref=rss)
-### entdeckt
+* [https://www.spiegel.de/politik/deutschland/cansu-oezdemir-bundesinnenministerium-widerspricht-bundespolizei](https://www.spiegel.de/politik/deutschland/cansu-oezdemir-bundesinnenministerium-widerspricht-bundespolizei-a-3afba29a-3854-4c26-8004-edbd755e77df#ref=rss)
+### armin
 
-* [https://www.spiegel.de/panorama/salzbachtalbruecke-in-wiesbaden-brueckensperrung-verursacht-verkehrschaos-in-wiesbaden](https://www.spiegel.de/panorama/salzbachtalbruecke-in-wiesbaden-brueckensperrung-verursacht-verkehrschaos-in-wiesbaden-a-720101f7-8303-4bdf-8fb2-9c48639a342c#ref=rss)
-* [https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg](https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg-a-97eb0879-42a2-44d7-90b7-8d4f4eb32d4a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu-a-e5bb4ecb-0189-414c-abd7-0dfe9c092eb8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-kanzlerkandidat-armin-laschet-merkel-programm-ohne-merkel](https://www.spiegel.de/politik/deutschland/cdu-csu-kanzlerkandidat-armin-laschet-merkel-programm-ohne-merkel-a-08337bc9-09da-4b66-9dc2-025ebc4df565#ref=rss)
+### laschet
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu-a-e5bb4ecb-0189-414c-abd7-0dfe9c092eb8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-kanzlerkandidat-armin-laschet-merkel-programm-ohne-merkel](https://www.spiegel.de/politik/deutschland/cdu-csu-kanzlerkandidat-armin-laschet-merkel-programm-ohne-merkel-a-08337bc9-09da-4b66-9dc2-025ebc4df565#ref=rss)
+### niederlande
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev](https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev-a-39028329-589c-4bfa-9e4b-999683f99dea#ref=rss)
+### nordmazedonien
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev](https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev-a-39028329-589c-4bfa-9e4b-999683f99dea#ref=rss)
+### tränen
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev](https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev-a-39028329-589c-4bfa-9e4b-999683f99dea#ref=rss)
+### goran
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev](https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev-a-39028329-589c-4bfa-9e4b-999683f99dea#ref=rss)
+### pandev
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev](https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev-a-39028329-589c-4bfa-9e4b-999683f99dea#ref=rss)
+### drei
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev](https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev-a-39028329-589c-4bfa-9e4b-999683f99dea#ref=rss)
+### spiele
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev](https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev-a-39028329-589c-4bfa-9e4b-999683f99dea#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor](https://www.spiegel.de/sport/fussball/fussball-em-2021-markus-soeder-schlaegt-muenchen-fuer-weitere-spiele-vor-a-56235db8-8225-44cd-a561-ce4a135ad633#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev](https://www.spiegel.de/sport/fussball/fussball-em-2021-niederlande-gewinnen-gegen-nordmazedonien-traenen-bei-goran-pandev-a-39028329-589c-4bfa-9e4b-999683f99dea#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein](https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein-a-43c986b3-f80d-47ca-bdba-9506058a0756#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein](https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein-a-43c986b3-f80d-47ca-bdba-9506058a0756#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein](https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein-a-43c986b3-f80d-47ca-bdba-9506058a0756#ref=rss)
+### rolle
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein](https://www.spiegel.de/sport/fussball/fussball-em-2021-oesterreich-gewinnt-gegen-ukraine-und-zieht-ins-achtelfinale-ein-a-43c986b3-f80d-47ca-bdba-9506058a0756#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-kai-havertz-im-dfb-team-der-unverzichtbare](https://www.spiegel.de/sport/fussball/fussball-em-2021-kai-havertz-im-dfb-team-der-unverzichtbare-a-6b0df863-dc42-4dfe-b367-0ab27a8c4294#ref=rss)
+### auto
+
+* [https://www.spiegel.de/auto/innovationspraemie-mal-anders-1100-euro-pro-jahr-wenn-sie-ihr-auto-abschaffen](https://www.spiegel.de/auto/innovationspraemie-mal-anders-1100-euro-pro-jahr-wenn-sie-ihr-auto-abschaffen-a-2fdd8e1e-e6b7-4045-b257-e5aaada5a524#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/ausland/nach-der-wahl-von-ebrahim-raisi-was-jetzt-von-irans-kuenftiger-regierung-zu-erwarten-ist](https://www.spiegel.de/ausland/nach-der-wahl-von-ebrahim-raisi-was-jetzt-von-irans-kuenftiger-regierung-zu-erwarten-ist-a-ee9f765b-7e06-47c8-ad25-d716e9e5471f#ref=rss)
+* [https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen](https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen-a-3c289d53-3440-45ac-a94c-d4cc5e66f923#ref=rss)
+### sanktionen
+
+* [https://www.spiegel.de/ausland/nach-der-wahl-von-ebrahim-raisi-was-jetzt-von-irans-kuenftiger-regierung-zu-erwarten-ist](https://www.spiegel.de/ausland/nach-der-wahl-von-ebrahim-raisi-was-jetzt-von-irans-kuenftiger-regierung-zu-erwarten-ist-a-ee9f765b-7e06-47c8-ad25-d716e9e5471f#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-eu-verhaengt-sanktionen-gegen-mehrere-minister-von-alexander-lukaschenko](https://www.spiegel.de/ausland/belarus-eu-verhaengt-sanktionen-gegen-mehrere-minister-von-alexander-lukaschenko-a-54e6a7a5-a936-436d-840c-9fc00ccc67e0#ref=rss)
+### missbraucht
+
+* [https://www.spiegel.de/panorama/justiz/pakistan-muslimischer-geistlicher-soll-studenten-missbraucht-haben](https://www.spiegel.de/panorama/justiz/pakistan-muslimischer-geistlicher-soll-studenten-missbraucht-haben-a-0d5acaf6-e397-440b-bbaf-be069e529dd1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-frau-erschiesst-ihren-vergewaltiger-petition-fordert-freispruch](https://www.spiegel.de/panorama/justiz/frankreich-frau-erschiesst-ihren-vergewaltiger-petition-fordert-freispruch-a-46ee8e16-b160-4e00-a6c0-1a8531af5d55#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/allianz-arena-in-regenbogenfarbe-ungarn-erzuernt-ueber-plaene-fuer-em-spiel](https://www.spiegel.de/ausland/allianz-arena-in-regenbogenfarbe-ungarn-erzuernt-ueber-plaene-fuer-em-spiel-a-c0d0ebfc-904c-4e5e-9a50-7017e1a31378#ref=rss)
+### emspiel
+
+* [https://www.spiegel.de/ausland/allianz-arena-in-regenbogenfarbe-ungarn-erzuernt-ueber-plaene-fuer-em-spiel](https://www.spiegel.de/ausland/allianz-arena-in-regenbogenfarbe-ungarn-erzuernt-ueber-plaene-fuer-em-spiel-a-c0d0ebfc-904c-4e5e-9a50-7017e1a31378#ref=rss)
+### leuchten
+
+* [https://www.spiegel.de/ausland/allianz-arena-in-regenbogenfarbe-ungarn-erzuernt-ueber-plaene-fuer-em-spiel](https://www.spiegel.de/ausland/allianz-arena-in-regenbogenfarbe-ungarn-erzuernt-ueber-plaene-fuer-em-spiel-a-c0d0ebfc-904c-4e5e-9a50-7017e1a31378#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu-a-e5bb4ecb-0189-414c-abd7-0dfe9c092eb8#ref=rss)
+### klima
+
+* [https://www.spiegel.de/wissenschaft/mensch/klima-forscher-diskutieren-sinn-von-co2-entfernung-aus-der-atmosphaere](https://www.spiegel.de/wissenschaft/mensch/klima-forscher-diskutieren-sinn-von-co2-entfernung-aus-der-atmosphaere-a-1681a8d7-24bb-40b1-b35f-14fcc4989e70#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wissenschaft/mensch/klima-forscher-diskutieren-sinn-von-co2-entfernung-aus-der-atmosphaere](https://www.spiegel.de/wissenschaft/mensch/klima-forscher-diskutieren-sinn-von-co2-entfernung-aus-der-atmosphaere-a-1681a8d7-24bb-40b1-b35f-14fcc4989e70#ref=rss)
+* [https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen](https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen-a-3c289d53-3440-45ac-a94c-d4cc5e66f923#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union](https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union-a-7732cc64-d3c5-4554-aa11-76ced019e56d#ref=rss)
+### rasmus
+
+* [https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union](https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union-a-7732cc64-d3c5-4554-aa11-76ced019e56d#ref=rss)
+### andresen
+
+* [https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union](https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union-a-7732cc64-d3c5-4554-aa11-76ced019e56d#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union](https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union-a-7732cc64-d3c5-4554-aa11-76ced019e56d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-kai-havertz-im-dfb-team-der-unverzichtbare](https://www.spiegel.de/sport/fussball/fussball-em-2021-kai-havertz-im-dfb-team-der-unverzichtbare-a-6b0df863-dc42-4dfe-b367-0ab27a8c4294#ref=rss)
+### wahlprogramm
+
+* [https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union](https://www.spiegel.de/wirtschaft/cdu-der-gruene-europapolitiker-rasmus-andresen-kritisiert-die-europa-plaene-der-union-a-7732cc64-d3c5-4554-aa11-76ced019e56d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu-a-e5bb4ecb-0189-414c-abd7-0dfe9c092eb8#ref=rss)
+### augsburg
+
+* [https://www.spiegel.de/panorama/gesellschaft/augsburg-verschaerft-nach-innenstadt-krawallen-das-alkoholverbot](https://www.spiegel.de/panorama/gesellschaft/augsburg-verschaerft-nach-innenstadt-krawallen-das-alkoholverbot-a-80780018-9963-4904-9342-ec5e79d52549#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/gesellschaft/augsburg-verschaerft-nach-innenstadt-krawallen-das-alkoholverbot](https://www.spiegel.de/panorama/gesellschaft/augsburg-verschaerft-nach-innenstadt-krawallen-das-alkoholverbot-a-80780018-9963-4904-9342-ec5e79d52549#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-eu-verhaengt-sanktionen-gegen-mehrere-minister-von-alexander-lukaschenko](https://www.spiegel.de/ausland/belarus-eu-verhaengt-sanktionen-gegen-mehrere-minister-von-alexander-lukaschenko-a-54e6a7a5-a936-436d-840c-9fc00ccc67e0#ref=rss)
+### maßnahmen
+
+* [https://www.spiegel.de/panorama/gesellschaft/augsburg-verschaerft-nach-innenstadt-krawallen-das-alkoholverbot](https://www.spiegel.de/panorama/gesellschaft/augsburg-verschaerft-nach-innenstadt-krawallen-das-alkoholverbot-a-80780018-9963-4904-9342-ec5e79d52549#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante-a-14ef498e-006f-4a4a-b2b9-8e7aa24d3a35#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/wissenschaft/medizin/mutiertes-coronavirus-warum-die-delta-variante-so-gefaehrlich-ist](https://www.spiegel.de/wissenschaft/medizin/mutiertes-coronavirus-warum-die-delta-variante-so-gefaehrlich-ist-a-13baac55-60c0-42fd-a51c-edde3cd0b903#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/anna-maria-ferchichi-mein-mann-ist-eigentlich-sehr-dominant-aber-was-arafat-betraf-war-er-devot](https://www.spiegel.de/panorama/justiz/anna-maria-ferchichi-mein-mann-ist-eigentlich-sehr-dominant-aber-was-arafat-betraf-war-er-devot-a-f8d9f1ee-2e80-4cbf-bed3-f0e6ec806da7#ref=rss)
+### kai
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-kai-havertz-im-dfb-team-der-unverzichtbare](https://www.spiegel.de/sport/fussball/fussball-em-2021-kai-havertz-im-dfb-team-der-unverzichtbare-a-6b0df863-dc42-4dfe-b367-0ab27a8c4294#ref=rss)
+### havertz
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-kai-havertz-im-dfb-team-der-unverzichtbare](https://www.spiegel.de/sport/fussball/fussball-em-2021-kai-havertz-im-dfb-team-der-unverzichtbare-a-6b0df863-dc42-4dfe-b367-0ab27a8c4294#ref=rss)
+### hürdensprinterin
+
+* [https://www.spiegel.de/sport/olympia/leichtathletik-huerdensprinterin-pamela-dutkiewicz-emmerich-beendet-olmypia-saison](https://www.spiegel.de/sport/olympia/leichtathletik-huerdensprinterin-pamela-dutkiewicz-emmerich-beendet-olmypia-saison-a-02acc70f-7bcb-41e0-b6ab-9163f436e744#ref=rss)
+### pamela
+
+* [https://www.spiegel.de/sport/olympia/leichtathletik-huerdensprinterin-pamela-dutkiewicz-emmerich-beendet-olmypia-saison](https://www.spiegel.de/sport/olympia/leichtathletik-huerdensprinterin-pamela-dutkiewicz-emmerich-beendet-olmypia-saison-a-02acc70f-7bcb-41e0-b6ab-9163f436e744#ref=rss)
+### dutkiewiczemmerich
+
+* [https://www.spiegel.de/sport/olympia/leichtathletik-huerdensprinterin-pamela-dutkiewicz-emmerich-beendet-olmypia-saison](https://www.spiegel.de/sport/olympia/leichtathletik-huerdensprinterin-pamela-dutkiewicz-emmerich-beendet-olmypia-saison-a-02acc70f-7bcb-41e0-b6ab-9163f436e744#ref=rss)
+### yantian
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china](https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china-a-282f464f-823f-4a61-abfa-d2c88bf1824a#ref=rss)
+### reederei
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china](https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china-a-282f464f-823f-4a61-abfa-d2c88bf1824a#ref=rss)
+### maersk
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china](https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china-a-282f464f-823f-4a61-abfa-d2c88bf1824a#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china](https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china-a-282f464f-823f-4a61-abfa-d2c88bf1824a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-schliesst-bitcoin-minen-im-suedwesten](https://www.spiegel.de/wirtschaft/unternehmen/china-schliesst-bitcoin-minen-im-suedwesten-a-be762c59-b215-4a32-83a4-85e38306b753#ref=rss)
+### erst
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china](https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china-a-282f464f-823f-4a61-abfa-d2c88bf1824a#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china](https://www.spiegel.de/wirtschaft/unternehmen/yantian-reederei-maersk-erwartet-lange-nachwirkung-von-stau-in-china-a-282f464f-823f-4a61-abfa-d2c88bf1824a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-schliesst-bitcoin-minen-im-suedwesten](https://www.spiegel.de/wirtschaft/unternehmen/china-schliesst-bitcoin-minen-im-suedwesten-a-be762c59-b215-4a32-83a4-85e38306b753#ref=rss)
+### betreuer
+
+* [https://www.spiegel.de/panorama/justiz/stanberg-13-jaehriger-stirbt-bei-ruderunfall-betreuer-vor-gericht](https://www.spiegel.de/panorama/justiz/stanberg-13-jaehriger-stirbt-bei-ruderunfall-betreuer-vor-gericht-a-5d84c9f5-33d0-4d0f-87c5-458345cd53ff#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/stanberg-13-jaehriger-stirbt-bei-ruderunfall-betreuer-vor-gericht](https://www.spiegel.de/panorama/justiz/stanberg-13-jaehriger-stirbt-bei-ruderunfall-betreuer-vor-gericht-a-5d84c9f5-33d0-4d0f-87c5-458345cd53ff#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/seehausen-schuesse-aus-paintball-waffe-polizei-sucht-nach-tatverdaechtigem](https://www.spiegel.de/panorama/justiz/seehausen-schuesse-aus-paintball-waffe-polizei-sucht-nach-tatverdaechtigem-a-1e8fc740-5677-42ad-b849-894b51a2640c#ref=rss)
+### starb
+
+* [https://www.spiegel.de/panorama/justiz/stanberg-13-jaehriger-stirbt-bei-ruderunfall-betreuer-vor-gericht](https://www.spiegel.de/panorama/justiz/stanberg-13-jaehriger-stirbt-bei-ruderunfall-betreuer-vor-gericht-a-5d84c9f5-33d0-4d0f-87c5-458345cd53ff#ref=rss)
+* [https://www.spiegel.de/kultur/arnold-odermatt-ist-tot-schweizer-fotograf-war-bekannt-fuer-unfallbilder](https://www.spiegel.de/kultur/arnold-odermatt-ist-tot-schweizer-fotograf-war-bekannt-fuer-unfallbilder-a-60a738c2-05a6-4347-bd3e-ab3cd2cc6ac1#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-frau-erschiesst-ihren-vergewaltiger-petition-fordert-freispruch](https://www.spiegel.de/panorama/justiz/frankreich-frau-erschiesst-ihren-vergewaltiger-petition-fordert-freispruch-a-46ee8e16-b160-4e00-a6c0-1a8531af5d55#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante-a-14ef498e-006f-4a4a-b2b9-8e7aa24d3a35#ref=rss)
+### freispruch
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-frau-erschiesst-ihren-vergewaltiger-petition-fordert-freispruch](https://www.spiegel.de/panorama/justiz/frankreich-frau-erschiesst-ihren-vergewaltiger-petition-fordert-freispruch-a-46ee8e16-b160-4e00-a6c0-1a8531af5d55#ref=rss)
+### arnold
+
+* [https://www.spiegel.de/kultur/arnold-odermatt-ist-tot-schweizer-fotograf-war-bekannt-fuer-unfallbilder](https://www.spiegel.de/kultur/arnold-odermatt-ist-tot-schweizer-fotograf-war-bekannt-fuer-unfallbilder-a-60a738c2-05a6-4347-bd3e-ab3cd2cc6ac1#ref=rss)
+### odermatt
+
+* [https://www.spiegel.de/kultur/arnold-odermatt-ist-tot-schweizer-fotograf-war-bekannt-fuer-unfallbilder](https://www.spiegel.de/kultur/arnold-odermatt-ist-tot-schweizer-fotograf-war-bekannt-fuer-unfallbilder-a-60a738c2-05a6-4347-bd3e-ab3cd2cc6ac1#ref=rss)
+### tot
+
+* [https://www.spiegel.de/kultur/arnold-odermatt-ist-tot-schweizer-fotograf-war-bekannt-fuer-unfallbilder](https://www.spiegel.de/kultur/arnold-odermatt-ist-tot-schweizer-fotograf-war-bekannt-fuer-unfallbilder-a-60a738c2-05a6-4347-bd3e-ab3cd2cc6ac1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/tasmanische-teufel-toeten-tausende-pinguine-auf-australischer-insel](https://www.spiegel.de/wissenschaft/natur/tasmanische-teufel-toeten-tausende-pinguine-auf-australischer-insel-a-8baa0c96-f74a-43d8-9f66-06036d4d1579#ref=rss)
+### schweizer
+
+* [https://www.spiegel.de/kultur/arnold-odermatt-ist-tot-schweizer-fotograf-war-bekannt-fuer-unfallbilder](https://www.spiegel.de/kultur/arnold-odermatt-ist-tot-schweizer-fotograf-war-bekannt-fuer-unfallbilder-a-60a738c2-05a6-4347-bd3e-ab3cd2cc6ac1#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/kultur/arnold-odermatt-ist-tot-schweizer-fotograf-war-bekannt-fuer-unfallbilder](https://www.spiegel.de/kultur/arnold-odermatt-ist-tot-schweizer-fotograf-war-bekannt-fuer-unfallbilder-a-60a738c2-05a6-4347-bd3e-ab3cd2cc6ac1#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/belarus-eu-verhaengt-sanktionen-gegen-mehrere-minister-von-alexander-lukaschenko](https://www.spiegel.de/ausland/belarus-eu-verhaengt-sanktionen-gegen-mehrere-minister-von-alexander-lukaschenko-a-54e6a7a5-a936-436d-840c-9fc00ccc67e0#ref=rss)
+### minister
+
+* [https://www.spiegel.de/ausland/belarus-eu-verhaengt-sanktionen-gegen-mehrere-minister-von-alexander-lukaschenko](https://www.spiegel.de/ausland/belarus-eu-verhaengt-sanktionen-gegen-mehrere-minister-von-alexander-lukaschenko-a-54e6a7a5-a936-436d-840c-9fc00ccc67e0#ref=rss)
 ### folgen
 
-* [https://www.spiegel.de/panorama/salzbachtalbruecke-in-wiesbaden-brueckensperrung-verursacht-verkehrschaos-in-wiesbaden](https://www.spiegel.de/panorama/salzbachtalbruecke-in-wiesbaden-brueckensperrung-verursacht-verkehrschaos-in-wiesbaden-a-720101f7-8303-4bdf-8fb2-9c48639a342c#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-starkregen-und-unwetter-folgen-auf-hitzewelle](https://www.spiegel.de/panorama/wetter-starkregen-und-unwetter-folgen-auf-hitzewelle-a-fcb31878-7251-49a9-87a3-1c0e203f921a#ref=rss)
-### rezept
+* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante-a-14ef498e-006f-4a4a-b2b9-8e7aa24d3a35#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-schliesst-bitcoin-minen-im-suedwesten](https://www.spiegel.de/wirtschaft/unternehmen/china-schliesst-bitcoin-minen-im-suedwesten-a-be762c59-b215-4a32-83a4-85e38306b753#ref=rss)
+### opposition
 
-* [https://www.spiegel.de/stil/rezept-fuer-kalte-rote-bete-suppe-aus-litauen-saltibarsciai](https://www.spiegel.de/stil/rezept-fuer-kalte-rote-bete-suppe-aus-litauen-saltibarsciai-a-0ad0357e-4820-468c-ade5-3641900f6d19#ref=rss)
-### kalte
+* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-jens-spahn-warnt-vor-ausbreitung-der-delta-variante-a-14ef498e-006f-4a4a-b2b9-8e7aa24d3a35#ref=rss)
+* [https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen](https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen-a-3c289d53-3440-45ac-a94c-d4cc5e66f923#ref=rss)
+### annamaria
 
-* [https://www.spiegel.de/stil/rezept-fuer-kalte-rote-bete-suppe-aus-litauen-saltibarsciai](https://www.spiegel.de/stil/rezept-fuer-kalte-rote-bete-suppe-aus-litauen-saltibarsciai-a-0ad0357e-4820-468c-ade5-3641900f6d19#ref=rss)
-### starkregen
+* [https://www.spiegel.de/panorama/justiz/anna-maria-ferchichi-mein-mann-ist-eigentlich-sehr-dominant-aber-was-arafat-betraf-war-er-devot](https://www.spiegel.de/panorama/justiz/anna-maria-ferchichi-mein-mann-ist-eigentlich-sehr-dominant-aber-was-arafat-betraf-war-er-devot-a-f8d9f1ee-2e80-4cbf-bed3-f0e6ec806da7#ref=rss)
+### ferchichi
 
-* [https://www.spiegel.de/panorama/wetter-starkregen-und-unwetter-folgen-auf-hitzewelle](https://www.spiegel.de/panorama/wetter-starkregen-und-unwetter-folgen-auf-hitzewelle-a-fcb31878-7251-49a9-87a3-1c0e203f921a#ref=rss)
-### hitzewelle
+* [https://www.spiegel.de/panorama/justiz/anna-maria-ferchichi-mein-mann-ist-eigentlich-sehr-dominant-aber-was-arafat-betraf-war-er-devot](https://www.spiegel.de/panorama/justiz/anna-maria-ferchichi-mein-mann-ist-eigentlich-sehr-dominant-aber-was-arafat-betraf-war-er-devot-a-f8d9f1ee-2e80-4cbf-bed3-f0e6ec806da7#ref=rss)
+### leben
 
-* [https://www.spiegel.de/panorama/wetter-starkregen-und-unwetter-folgen-auf-hitzewelle](https://www.spiegel.de/panorama/wetter-starkregen-und-unwetter-folgen-auf-hitzewelle-a-fcb31878-7251-49a9-87a3-1c0e203f921a#ref=rss)
-### warnt
+* [https://www.spiegel.de/panorama/justiz/anna-maria-ferchichi-mein-mann-ist-eigentlich-sehr-dominant-aber-was-arafat-betraf-war-er-devot](https://www.spiegel.de/panorama/justiz/anna-maria-ferchichi-mein-mann-ist-eigentlich-sehr-dominant-aber-was-arafat-betraf-war-er-devot-a-f8d9f1ee-2e80-4cbf-bed3-f0e6ec806da7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/em-2021-in-corona-pandemie-die-uefa-spielt-mit-dem-leben-von-menschen](https://www.spiegel.de/politik/deutschland/em-2021-in-corona-pandemie-die-uefa-spielt-mit-dem-leben-von-menschen-a-c89dd7a0-832d-4d06-95b2-44ad7e5520cc#ref=rss)
+### seehausen
 
-* [https://www.spiegel.de/panorama/wetter-starkregen-und-unwetter-folgen-auf-hitzewelle](https://www.spiegel.de/panorama/wetter-starkregen-und-unwetter-folgen-auf-hitzewelle-a-fcb31878-7251-49a9-87a3-1c0e203f921a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-oliver-zipse-warnt-vor-zu-fruehem-abschied-vom-verbrenner](https://www.spiegel.de/wirtschaft/unternehmen/bmw-oliver-zipse-warnt-vor-zu-fruehem-abschied-vom-verbrenner-a-01483795-b665-4fef-9eaa-48eb5724f986#ref=rss)
-### cdu/csu
+* [https://www.spiegel.de/panorama/justiz/seehausen-schuesse-aus-paintball-waffe-polizei-sucht-nach-tatverdaechtigem](https://www.spiegel.de/panorama/justiz/seehausen-schuesse-aus-paintball-waffe-polizei-sucht-nach-tatverdaechtigem-a-1e8fc740-5677-42ad-b849-894b51a2640c#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/soziales/union-will-wahlplaene-aus-wirtschaftswachstum-finanzieren](https://www.spiegel.de/wirtschaft/soziales/union-will-wahlplaene-aus-wirtschaftswachstum-finanzieren-a-154affa8-342f-4174-8526-68d2732d829d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-wahlprogramm-von-cdu-csu-streit-ueber-klinik-finanzierung-dokumentationszentrum-flucht-und-vertreibung](https://www.spiegel.de/politik/deutschland/news-wahlprogramm-von-cdu-csu-streit-ueber-klinik-finanzierung-dokumentationszentrum-flucht-und-vertreibung-a-54d79070-6d68-4261-9580-442ce668f48e#ref=rss)
-### tsitsi
+* [https://www.spiegel.de/panorama/justiz/seehausen-schuesse-aus-paintball-waffe-polizei-sucht-nach-tatverdaechtigem](https://www.spiegel.de/panorama/justiz/seehausen-schuesse-aus-paintball-waffe-polizei-sucht-nach-tatverdaechtigem-a-1e8fc740-5677-42ad-b849-894b51a2640c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/em-2021-in-corona-pandemie-die-uefa-spielt-mit-dem-leben-von-menschen](https://www.spiegel.de/politik/deutschland/em-2021-in-corona-pandemie-die-uefa-spielt-mit-dem-leben-von-menschen-a-c89dd7a0-832d-4d06-95b2-44ad7e5520cc#ref=rss)
+### cansu
 
-* [https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels-a-b1cd5639-2834-4d67-8274-325abee9cc83#ref=rss)
-### dangarembga
+* [https://www.spiegel.de/politik/deutschland/cansu-oezdemir-bundesinnenministerium-widerspricht-bundespolizei](https://www.spiegel.de/politik/deutschland/cansu-oezdemir-bundesinnenministerium-widerspricht-bundespolizei-a-3afba29a-3854-4c26-8004-edbd755e77df#ref=rss)
+### bundespolizei
 
-* [https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels-a-b1cd5639-2834-4d67-8274-325abee9cc83#ref=rss)
-### erhält
+* [https://www.spiegel.de/politik/deutschland/cansu-oezdemir-bundesinnenministerium-widerspricht-bundespolizei](https://www.spiegel.de/politik/deutschland/cansu-oezdemir-bundesinnenministerium-widerspricht-bundespolizei-a-3afba29a-3854-4c26-8004-edbd755e77df#ref=rss)
+### programm
 
-* [https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels-a-b1cd5639-2834-4d67-8274-325abee9cc83#ref=rss)
-### friedenspreis
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu-a-e5bb4ecb-0189-414c-abd7-0dfe9c092eb8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-kanzlerkandidat-armin-laschet-merkel-programm-ohne-merkel](https://www.spiegel.de/politik/deutschland/cdu-csu-kanzlerkandidat-armin-laschet-merkel-programm-ohne-merkel-a-08337bc9-09da-4b66-9dc2-025ebc4df565#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels-a-b1cd5639-2834-4d67-8274-325abee9cc83#ref=rss)
-### deutschen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu](https://www.spiegel.de/politik/deutschland/news-des-tages-fussball-em-brexit-wahlprogramm-cdu-und-csu-a-e5bb4ecb-0189-414c-abd7-0dfe9c092eb8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-csu-kanzlerkandidat-armin-laschet-merkel-programm-ohne-merkel](https://www.spiegel.de/politik/deutschland/cdu-csu-kanzlerkandidat-armin-laschet-merkel-programm-ohne-merkel-a-08337bc9-09da-4b66-9dc2-025ebc4df565#ref=rss)
+### streit
 
-* [https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels-a-b1cd5639-2834-4d67-8274-325abee9cc83#ref=rss)
-### buchhandels
+* [https://www.spiegel.de/panorama/bildung/bildungspolitik-streit-um-schul-strategie-nach-den-sommerferien](https://www.spiegel.de/panorama/bildung/bildungspolitik-streit-um-schul-strategie-nach-den-sommerferien-a-e2f53cc9-7106-4c6d-a878-b37b282cdbb1#ref=rss)
+### nikol
 
-* [https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels](https://www.spiegel.de/kultur/literatur/autorin-und-filmemacherin-tsitsi-dangarembga-aus-simbabwe-erhaelt-friedenspreis-des-deutschen-buchhandels-a-b1cd5639-2834-4d67-8274-325abee9cc83#ref=rss)
-### rhein
+* [https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen](https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen-a-3c289d53-3440-45ac-a94c-d4cc5e66f923#ref=rss)
+### paschinjan
 
-* [https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg](https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg-a-97eb0879-42a2-44d7-90b7-8d4f4eb32d4a#ref=rss)
-### leichen
+* [https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen](https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen-a-3c289d53-3440-45ac-a94c-d4cc5e66f923#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg](https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg-a-97eb0879-42a2-44d7-90b7-8d4f4eb32d4a#ref=rss)
-### mädchen
+* [https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen](https://www.spiegel.de/ausland/armenien-premier-nikol-paschinjan-krieg-verloren-wahl-gewonnen-a-3c289d53-3440-45ac-a94c-d4cc5e66f923#ref=rss)
+### tasmanische
 
-* [https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg](https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg-a-97eb0879-42a2-44d7-90b7-8d4f4eb32d4a#ref=rss)
-### duisburg
+* [https://www.spiegel.de/wissenschaft/natur/tasmanische-teufel-toeten-tausende-pinguine-auf-australischer-insel](https://www.spiegel.de/wissenschaft/natur/tasmanische-teufel-toeten-tausende-pinguine-auf-australischer-insel-a-8baa0c96-f74a-43d8-9f66-06036d4d1579#ref=rss)
+### teufel
 
-* [https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg](https://www.spiegel.de/panorama/rhein-zwei-leichen-entdeckt-nach-badeunfall-vermisste-maedchen-aus-duisburg-a-97eb0879-42a2-44d7-90b7-8d4f4eb32d4a#ref=rss)
-### hongkong
+* [https://www.spiegel.de/wissenschaft/natur/tasmanische-teufel-toeten-tausende-pinguine-auf-australischer-insel](https://www.spiegel.de/wissenschaft/natur/tasmanische-teufel-toeten-tausende-pinguine-auf-australischer-insel-a-8baa0c96-f74a-43d8-9f66-06036d4d1579#ref=rss)
+### pinguine
 
-* [https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus](https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus-a-f15491f1-9745-4f39-ba6a-d1c072ee4b35#ref=rss)
-### zeitung
+* [https://www.spiegel.de/wissenschaft/natur/tasmanische-teufel-toeten-tausende-pinguine-auf-australischer-insel](https://www.spiegel.de/wissenschaft/natur/tasmanische-teufel-toeten-tausende-pinguine-auf-australischer-insel-a-8baa0c96-f74a-43d8-9f66-06036d4d1579#ref=rss)
+### insel
 
-* [https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus](https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus-a-f15491f1-9745-4f39-ba6a-d1c072ee4b35#ref=rss)
-### daily
+* [https://www.spiegel.de/wissenschaft/natur/tasmanische-teufel-toeten-tausende-pinguine-auf-australischer-insel](https://www.spiegel.de/wissenschaft/natur/tasmanische-teufel-toeten-tausende-pinguine-auf-australischer-insel-a-8baa0c96-f74a-43d8-9f66-06036d4d1579#ref=rss)
+### schluckauf
 
-* [https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus](https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus-a-f15491f1-9745-4f39-ba6a-d1c072ee4b35#ref=rss)
-### redaktion
+* [https://www.spiegel.de/wissenschaft/mensch/schluckauf-spezial-trinkhalm-soll-gegen-den-nervigen-hicks-helfen](https://www.spiegel.de/wissenschaft/mensch/schluckauf-spezial-trinkhalm-soll-gegen-den-nervigen-hicks-helfen-a-0ed35641-bf16-4d1d-aa6f-2b95e84963c3#ref=rss)
+### hicks
 
-* [https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus](https://www.spiegel.de/ausland/hongkong-prodemokratische-zeitung-apple-daily-von-jimmy-lai-steht-vor-dem-aus-a-f15491f1-9745-4f39-ba6a-d1c072ee4b35#ref=rss)
-### birte
-
-* [https://www.spiegel.de/karriere/birte-meier-zdf-reporterin-bekommt-jedes-jahr-tausende-euro-weniger-als-ihre-kollegen](https://www.spiegel.de/karriere/birte-meier-zdf-reporterin-bekommt-jedes-jahr-tausende-euro-weniger-als-ihre-kollegen-a-d6eb94c6-991d-4215-9909-f9f9fce5e9cc#ref=rss)
-### meier
-
-* [https://www.spiegel.de/karriere/birte-meier-zdf-reporterin-bekommt-jedes-jahr-tausende-euro-weniger-als-ihre-kollegen](https://www.spiegel.de/karriere/birte-meier-zdf-reporterin-bekommt-jedes-jahr-tausende-euro-weniger-als-ihre-kollegen-a-d6eb94c6-991d-4215-9909-f9f9fce5e9cc#ref=rss)
-### kollegen
-
-* [https://www.spiegel.de/karriere/birte-meier-zdf-reporterin-bekommt-jedes-jahr-tausende-euro-weniger-als-ihre-kollegen](https://www.spiegel.de/karriere/birte-meier-zdf-reporterin-bekommt-jedes-jahr-tausende-euro-weniger-als-ihre-kollegen-a-d6eb94c6-991d-4215-9909-f9f9fce5e9cc#ref=rss)
-### distanzunterricht
-
-* [https://www.spiegel.de/panorama/bildung/neue-studie-distanzunterricht-gerade-mal-so-effektiv-wie-sommerferien](https://www.spiegel.de/panorama/bildung/neue-studie-distanzunterricht-gerade-mal-so-effektiv-wie-sommerferien-a-fc990780-c9e2-427f-bf6b-2c59b7b5cedb#ref=rss)
-### bmw
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-oliver-zipse-warnt-vor-zu-fruehem-abschied-vom-verbrenner](https://www.spiegel.de/wirtschaft/unternehmen/bmw-oliver-zipse-warnt-vor-zu-fruehem-abschied-vom-verbrenner-a-01483795-b665-4fef-9eaa-48eb5724f986#ref=rss)
-### zipse
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bmw-oliver-zipse-warnt-vor-zu-fruehem-abschied-vom-verbrenner](https://www.spiegel.de/wirtschaft/unternehmen/bmw-oliver-zipse-warnt-vor-zu-fruehem-abschied-vom-verbrenner-a-01483795-b665-4fef-9eaa-48eb5724f986#ref=rss)
-### usain
-
-* [https://www.spiegel.de/panorama/leute/usain-bolt-donnerwetter-so-heissen-seine-neugeborene-zwillinge](https://www.spiegel.de/panorama/leute/usain-bolt-donnerwetter-so-heissen-seine-neugeborene-zwillinge-a-1536f2dc-eea4-4fb9-9055-d139a6fbe2bf#ref=rss)
-### bolt
-
-* [https://www.spiegel.de/panorama/leute/usain-bolt-donnerwetter-so-heissen-seine-neugeborene-zwillinge](https://www.spiegel.de/panorama/leute/usain-bolt-donnerwetter-so-heissen-seine-neugeborene-zwillinge-a-1536f2dc-eea4-4fb9-9055-d139a6fbe2bf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/schluckauf-spezial-trinkhalm-soll-gegen-den-nervigen-hicks-helfen](https://www.spiegel.de/wissenschaft/mensch/schluckauf-spezial-trinkhalm-soll-gegen-den-nervigen-hicks-helfen-a-0ed35641-bf16-4d1d-aa6f-2b95e84963c3#ref=rss)
 
