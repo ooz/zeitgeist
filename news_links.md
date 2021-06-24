@@ -4,324 +4,330 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### tv
 
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-jugendaemter-nehmen-2020-rund-45-000-kinder-und-jugendliche-in-obhut](https://www.spiegel.de/panorama/gesellschaft/deutschland-jugendaemter-nehmen-2020-rund-45-000-kinder-und-jugendliche-in-obhut-a-1dfd1548-b845-4bc7-ac96-339364ab8c16#ref=rss)
-* [https://www.spiegel.de/kultur/tv/em-2021-fast-26-millionen-zuschauer-im-zdf-bei-deutschland-ungarn](https://www.spiegel.de/kultur/tv/em-2021-fast-26-millionen-zuschauer-im-zdf-bei-deutschland-ungarn-a-53202f9a-d7b8-4be4-9ce8-132a07d688db#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel](https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel-a-9334de1f-11c6-47e6-a50a-6b0f11a21720#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster](https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster-a-da3d2544-374c-41ec-bbce-141d244279b6#ref=rss)
-### 2021
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-sergio-busquets-ist-der-korkenzieher-fuer-die-blubbernde-sektflasche](https://www.spiegel.de/sport/fussball/fussball-em-2021-sergio-busquets-ist-der-korkenzieher-fuer-die-blubbernde-sektflasche-a-e17b936a-b99b-4f38-9b17-f9096f70e9ca#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-leroy-sane-steckt-in-der-nationalmannschaft-in-einer-schublade](https://www.spiegel.de/sport/fussball/fussball-em-2021-leroy-sane-steckt-in-der-nationalmannschaft-in-einer-schublade-a-c00d3005-928b-4517-bd71-59e9f7d32eea#ref=rss)
-* [https://www.spiegel.de/kultur/tv/em-2021-fast-26-millionen-zuschauer-im-zdf-bei-deutschland-ungarn](https://www.spiegel.de/kultur/tv/em-2021-fast-26-millionen-zuschauer-im-zdf-bei-deutschland-ungarn-a-53202f9a-d7b8-4be4-9ce8-132a07d688db#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel](https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel-a-9334de1f-11c6-47e6-a50a-6b0f11a21720#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-karim-benzema-trifft-fuer-frankreich-der-jubel-auf-den-die-franzosen-sechs-jahre-warteten](https://www.spiegel.de/sport/fussball/fussball-em-2021-karim-benzema-trifft-fuer-frankreich-der-jubel-auf-den-die-franzosen-sechs-jahre-warteten-a-3110f1fe-78cc-4ddb-8499-89c58314a7e2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster](https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster-a-da3d2544-374c-41ec-bbce-141d244279b6#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/lueneburg-19-jahre-alte-freundin-erstochen-angeklagter-gesteht-tat](https://www.spiegel.de/panorama/justiz/lueneburg-19-jahre-alte-freundin-erstochen-angeklagter-gesteht-tat-a-1554f537-3b68-4293-a41e-47cb6fe0a2ba#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-internat-fuer-kinder-von-ureinwohnern-erneut-hunderte-anonyme-graeber-entdeckt](https://www.spiegel.de/ausland/kanada-internat-fuer-kinder-von-ureinwohnern-erneut-hunderte-anonyme-graeber-entdeckt-a-3a547a03-c6d0-406c-a63c-35b15be525ab#ref=rss)
-* [https://www.spiegel.de/panorama/mehrstoeckiges-gebaeude-in-miami-beach-teilweise-eingestuerzt](https://www.spiegel.de/panorama/mehrstoeckiges-gebaeude-in-miami-beach-teilweise-eingestuerzt-a-a2467363-2e75-43ba-b420-0d4316e7fdd0#ref=rss)
-### laschet
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz](https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz-a-25246ead-26d2-4a38-8e38-bb1155441177#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-kritisiert-grenzschliessungen-waehrend-der-pandemie](https://www.spiegel.de/politik/deutschland/armin-laschet-kritisiert-grenzschliessungen-waehrend-der-pandemie-a-3cfc8ddc-a596-41e5-9b86-63d2e3225b4a#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-lehnte-freigabe-von-impfstoff-patenten-weiter-ab](https://www.spiegel.de/politik/deutschland/angela-merkel-lehnte-freigabe-von-impfstoff-patenten-weiter-ab-a-ed702cb2-1a9a-404d-9ff5-8a7ee5bb4ce2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-letzte-regierungserklaerung](https://www.spiegel.de/politik/deutschland/angela-merkel-letzte-regierungserklaerung-a-7e9a6fd5-5cbd-43bc-a9f2-10961fd387fe#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/lueneburg-19-jahre-alte-freundin-erstochen-angeklagter-gesteht-tat](https://www.spiegel.de/panorama/justiz/lueneburg-19-jahre-alte-freundin-erstochen-angeklagter-gesteht-tat-a-1554f537-3b68-4293-a41e-47cb6fe0a2ba#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung](https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung-a-9b5e9644-ec1b-4550-8ddd-5a75433f472d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster](https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster-a-da3d2544-374c-41ec-bbce-141d244279b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/fettleibigkeit-bei-kindern-grossbritannien-will-junkfood-werbung-im-tv-vor-21-uhr-verbieten](https://www.spiegel.de/wirtschaft/unternehmen/fettleibigkeit-bei-kindern-grossbritannien-will-junkfood-werbung-im-tv-vor-21-uhr-verbieten-a-bc9bb029-c503-48ab-a2c6-6c183c847073#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-5197894a-e1ef-457c-ab4c-1e6d6be3d61b#ref=rss)
+* [https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv](https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv-a-1926aa7c-ddbc-41b9-8840-f167a96f9e97#ref=rss)
+* [https://www.spiegel.de/wirtschaft/stefan-raab-arbeitet-an-einer-neuauflage-von-tv-total](https://www.spiegel.de/wirtschaft/stefan-raab-arbeitet-an-einer-neuauflage-von-tv-total-a-a589cd49-5b39-457e-99b0-0296aed416fa#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/soziales/immer-mehr-menschen-im-rentenalter-arbeiten-erwerbstaetigkeit-in-zehn-jahren-verdoppelt](https://www.spiegel.de/wirtschaft/soziales/immer-mehr-menschen-im-rentenalter-arbeiten-erwerbstaetigkeit-in-zehn-jahren-verdoppelt-a-ea75e95b-bf02-4013-85df-f0a324427af6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-kritisiert-grenzschliessungen-waehrend-der-pandemie](https://www.spiegel.de/politik/deutschland/armin-laschet-kritisiert-grenzschliessungen-waehrend-der-pandemie-a-3cfc8ddc-a596-41e5-9b86-63d2e3225b4a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nationale-sozialisten-rostock-mecklenburg-vorpommern-verbietet-vereinigung](https://www.spiegel.de/politik/deutschland/nationale-sozialisten-rostock-mecklenburg-vorpommern-verbietet-vereinigung-a-6a100eba-7f07-435b-8eab-3075599881df#ref=rss)
-### jahren
+* [https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit](https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit-a-87ccc191-f5a7-4a44-b69d-801fc50e0991#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast](https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast-a-f16a4ae4-379f-466c-8655-2b103225f664#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen-a-e3dcf6ad-1bbe-44d2-8177-674a7c47cd61#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/britisches-koenigshaus-will-beim-personal-fuer-mehr-diversitaet-sorgen](https://www.spiegel.de/panorama/gesellschaft/britisches-koenigshaus-will-beim-personal-fuer-mehr-diversitaet-sorgen-a-978b4e32-f025-4fa3-885f-69083dcebaa9#ref=rss)
+### haub
 
-* [https://www.spiegel.de/wirtschaft/soziales/immer-mehr-menschen-im-rentenalter-arbeiten-erwerbstaetigkeit-in-zehn-jahren-verdoppelt](https://www.spiegel.de/wirtschaft/soziales/immer-mehr-menschen-im-rentenalter-arbeiten-erwerbstaetigkeit-in-zehn-jahren-verdoppelt-a-ea75e95b-bf02-4013-85df-f0a324427af6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lockdown-ende-hebt-stimmung-in-der-wirschaft-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/lockdown-ende-hebt-stimmung-in-der-wirschaft-deutlich-a-ee63dcfa-95b3-4495-a2af-1e1243f57b66#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nationale-sozialisten-rostock-mecklenburg-vorpommern-verbietet-vereinigung](https://www.spiegel.de/politik/deutschland/nationale-sozialisten-rostock-mecklenburg-vorpommern-verbietet-vereinigung-a-6a100eba-7f07-435b-8eab-3075599881df#ref=rss)
-### fest
-
-* [https://www.spiegel.de/ausland/belarus-prozess-gegen-sergej-tichanowski-beginnt-in-gomel](https://www.spiegel.de/ausland/belarus-prozess-gegen-sergej-tichanowski-beginnt-in-gomel-a-b7a8f53d-576b-41b7-a7b5-9bbd1a82222a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dortmund-razzia-gegen-miri-clan-im-ruhrgebiet](https://www.spiegel.de/panorama/justiz/dortmund-razzia-gegen-miri-clan-im-ruhrgebiet-a-05369ae8-0c1a-4426-8d4c-66b5a295ddec#ref=rss)
-* [https://www.spiegel.de/panorama/hamburg-badeunfall-in-der-elbe-vermisster-15-jaehriger-ist-tot](https://www.spiegel.de/panorama/hamburg-badeunfall-in-der-elbe-vermisster-15-jaehriger-ist-tot-a-e4205694-5a92-4a02-8429-3478305875ea#ref=rss)
-### öffentlich
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung](https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung-a-9b5e9644-ec1b-4550-8ddd-5a75433f472d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-harry-erhielt-nach-trennung-vom-koenigshaus-weiter-geld-von-vater-charles](https://www.spiegel.de/panorama/leute/prinz-harry-erhielt-nach-trennung-vom-koenigshaus-weiter-geld-von-vater-charles-a-93508b86-e0a5-4b76-8bd5-3fd340f20d6f#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung](https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung-a-9b5e9644-ec1b-4550-8ddd-5a75433f472d#ref=rss)
-* [https://www.spiegel.de/ausland/nordkoreas-atomprogramm-aussenminister-weist-gespraechsangebot-der-usa-zurueck](https://www.spiegel.de/ausland/nordkoreas-atomprogramm-aussenminister-weist-gespraechsangebot-der-usa-zurueck-a-77fe28c4-b500-4e2a-a530-eed061eb0983#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-sergio-busquets-ist-der-korkenzieher-fuer-die-blubbernde-sektflasche](https://www.spiegel.de/sport/fussball/fussball-em-2021-sergio-busquets-ist-der-korkenzieher-fuer-die-blubbernde-sektflasche-a-e17b936a-b99b-4f38-9b17-f9096f70e9ca#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-jugendaemter-nehmen-2020-rund-45-000-kinder-und-jugendliche-in-obhut](https://www.spiegel.de/panorama/gesellschaft/deutschland-jugendaemter-nehmen-2020-rund-45-000-kinder-und-jugendliche-in-obhut-a-1dfd1548-b845-4bc7-ac96-339364ab8c16#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-internat-fuer-kinder-von-ureinwohnern-erneut-hunderte-anonyme-graeber-entdeckt](https://www.spiegel.de/ausland/kanada-internat-fuer-kinder-von-ureinwohnern-erneut-hunderte-anonyme-graeber-entdeckt-a-3a547a03-c6d0-406c-a63c-35b15be525ab#ref=rss)
-### armin
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz](https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz-a-25246ead-26d2-4a38-8e38-bb1155441177#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-kritisiert-grenzschliessungen-waehrend-der-pandemie](https://www.spiegel.de/politik/deutschland/armin-laschet-kritisiert-grenzschliessungen-waehrend-der-pandemie-a-3cfc8ddc-a596-41e5-9b86-63d2e3225b4a#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz](https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz-a-25246ead-26d2-4a38-8e38-bb1155441177#ref=rss)
-* [https://www.spiegel.de/kultur/tv/em-2021-fast-26-millionen-zuschauer-im-zdf-bei-deutschland-ungarn](https://www.spiegel.de/kultur/tv/em-2021-fast-26-millionen-zuschauer-im-zdf-bei-deutschland-ungarn-a-53202f9a-d7b8-4be4-9ce8-132a07d688db#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster](https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster-a-da3d2544-374c-41ec-bbce-141d244279b6#ref=rss)
-### fußballem
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-sergio-busquets-ist-der-korkenzieher-fuer-die-blubbernde-sektflasche](https://www.spiegel.de/sport/fussball/fussball-em-2021-sergio-busquets-ist-der-korkenzieher-fuer-die-blubbernde-sektflasche-a-e17b936a-b99b-4f38-9b17-f9096f70e9ca#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-leroy-sane-steckt-in-der-nationalmannschaft-in-einer-schublade](https://www.spiegel.de/sport/fussball/fussball-em-2021-leroy-sane-steckt-in-der-nationalmannschaft-in-einer-schublade-a-c00d3005-928b-4517-bd71-59e9f7d32eea#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-karim-benzema-trifft-fuer-frankreich-der-jubel-auf-den-die-franzosen-sechs-jahre-warteten](https://www.spiegel.de/sport/fussball/fussball-em-2021-karim-benzema-trifft-fuer-frankreich-der-jubel-auf-den-die-franzosen-sechs-jahre-warteten-a-3110f1fe-78cc-4ddb-8499-89c58314a7e2#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lockdown-ende-hebt-stimmung-in-der-wirschaft-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/lockdown-ende-hebt-stimmung-in-der-wirschaft-deutlich-a-ee63dcfa-95b3-4495-a2af-1e1243f57b66#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/steuerplaene-der-union-kosten-laut-diw-mindestens-30-milliarden](https://www.spiegel.de/wirtschaft/soziales/steuerplaene-der-union-kosten-laut-diw-mindestens-30-milliarden-a-b9a03396-cc8f-4c01-8471-654c26e9a803#ref=rss)
-### em
-
-* [https://www.spiegel.de/kultur/tv/em-2021-fast-26-millionen-zuschauer-im-zdf-bei-deutschland-ungarn](https://www.spiegel.de/kultur/tv/em-2021-fast-26-millionen-zuschauer-im-zdf-bei-deutschland-ungarn-a-53202f9a-d7b8-4be4-9ce8-132a07d688db#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel](https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel-a-9334de1f-11c6-47e6-a50a-6b0f11a21720#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster](https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster-a-da3d2544-374c-41ec-bbce-141d244279b6#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-lehnte-freigabe-von-impfstoff-patenten-weiter-ab](https://www.spiegel.de/politik/deutschland/angela-merkel-lehnte-freigabe-von-impfstoff-patenten-weiter-ab-a-ed702cb2-1a9a-404d-9ff5-8a7ee5bb4ce2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-letzte-regierungserklaerung](https://www.spiegel.de/politik/deutschland/angela-merkel-letzte-regierungserklaerung-a-7e9a6fd5-5cbd-43bc-a9f2-10961fd387fe#ref=rss)
-### regierungserklärung
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-lehnte-freigabe-von-impfstoff-patenten-weiter-ab](https://www.spiegel.de/politik/deutschland/angela-merkel-lehnte-freigabe-von-impfstoff-patenten-weiter-ab-a-ed702cb2-1a9a-404d-9ff5-8a7ee5bb4ce2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-letzte-regierungserklaerung](https://www.spiegel.de/politik/deutschland/angela-merkel-letzte-regierungserklaerung-a-7e9a6fd5-5cbd-43bc-a9f2-10961fd387fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit](https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit-a-87ccc191-f5a7-4a44-b69d-801fc50e0991#ref=rss)
 ### jahre
 
-* [https://www.spiegel.de/panorama/justiz/lueneburg-19-jahre-alte-freundin-erstochen-angeklagter-gesteht-tat](https://www.spiegel.de/panorama/justiz/lueneburg-19-jahre-alte-freundin-erstochen-angeklagter-gesteht-tat-a-1554f537-3b68-4293-a41e-47cb6fe0a2ba#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-karim-benzema-trifft-fuer-frankreich-der-jubel-auf-den-die-franzosen-sechs-jahre-warteten](https://www.spiegel.de/sport/fussball/fussball-em-2021-karim-benzema-trifft-fuer-frankreich-der-jubel-auf-den-die-franzosen-sechs-jahre-warteten-a-3110f1fe-78cc-4ddb-8499-89c58314a7e2#ref=rss)
-### freundin
-
-* [https://www.spiegel.de/panorama/justiz/lueneburg-19-jahre-alte-freundin-erstochen-angeklagter-gesteht-tat](https://www.spiegel.de/panorama/justiz/lueneburg-19-jahre-alte-freundin-erstochen-angeklagter-gesteht-tat-a-1554f537-3b68-4293-a41e-47cb6fe0a2ba#ref=rss)
-### trennung
-
-* [https://www.spiegel.de/panorama/justiz/lueneburg-19-jahre-alte-freundin-erstochen-angeklagter-gesteht-tat](https://www.spiegel.de/panorama/justiz/lueneburg-19-jahre-alte-freundin-erstochen-angeklagter-gesteht-tat-a-1554f537-3b68-4293-a41e-47cb6fe0a2ba#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-harry-erhielt-nach-trennung-vom-koenigshaus-weiter-geld-von-vater-charles](https://www.spiegel.de/panorama/leute/prinz-harry-erhielt-nach-trennung-vom-koenigshaus-weiter-geld-von-vater-charles-a-93508b86-e0a5-4b76-8bd5-3fd340f20d6f#ref=rss)
-### sklaverei
-
-* [https://www.spiegel.de/geschichte/kulturkampf-um-us-geschichte-patriotische-bildung-aber-bitte-ohne-sklaverei](https://www.spiegel.de/geschichte/kulturkampf-um-us-geschichte-patriotische-bildung-aber-bitte-ohne-sklaverei-a-b6856d4d-64c0-421e-b9d6-95ca2b06b154#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wirtschaft/soziales/immer-mehr-menschen-im-rentenalter-arbeiten-erwerbstaetigkeit-in-zehn-jahren-verdoppelt](https://www.spiegel.de/wirtschaft/soziales/immer-mehr-menschen-im-rentenalter-arbeiten-erwerbstaetigkeit-in-zehn-jahren-verdoppelt-a-ea75e95b-bf02-4013-85df-f0a324427af6#ref=rss)
-### rentenalter
-
-* [https://www.spiegel.de/wirtschaft/soziales/immer-mehr-menschen-im-rentenalter-arbeiten-erwerbstaetigkeit-in-zehn-jahren-verdoppelt](https://www.spiegel.de/wirtschaft/soziales/immer-mehr-menschen-im-rentenalter-arbeiten-erwerbstaetigkeit-in-zehn-jahren-verdoppelt-a-ea75e95b-bf02-4013-85df-f0a324427af6#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/wirtschaft/soziales/immer-mehr-menschen-im-rentenalter-arbeiten-erwerbstaetigkeit-in-zehn-jahren-verdoppelt](https://www.spiegel.de/wirtschaft/soziales/immer-mehr-menschen-im-rentenalter-arbeiten-erwerbstaetigkeit-in-zehn-jahren-verdoppelt-a-ea75e95b-bf02-4013-85df-f0a324427af6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nationale-sozialisten-rostock-mecklenburg-vorpommern-verbietet-vereinigung](https://www.spiegel.de/politik/deutschland/nationale-sozialisten-rostock-mecklenburg-vorpommern-verbietet-vereinigung-a-6a100eba-7f07-435b-8eab-3075599881df#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/ausland/belarus-prozess-gegen-sergej-tichanowski-beginnt-in-gomel](https://www.spiegel.de/ausland/belarus-prozess-gegen-sergej-tichanowski-beginnt-in-gomel-a-b7a8f53d-576b-41b7-a7b5-9bbd1a82222a#ref=rss)
-### tichanowski
-
-* [https://www.spiegel.de/ausland/belarus-prozess-gegen-sergej-tichanowski-beginnt-in-gomel](https://www.spiegel.de/ausland/belarus-prozess-gegen-sergej-tichanowski-beginnt-in-gomel-a-b7a8f53d-576b-41b7-a7b5-9bbd1a82222a#ref=rss)
-### beginnt
-
-* [https://www.spiegel.de/ausland/belarus-prozess-gegen-sergej-tichanowski-beginnt-in-gomel](https://www.spiegel.de/ausland/belarus-prozess-gegen-sergej-tichanowski-beginnt-in-gomel-a-b7a8f53d-576b-41b7-a7b5-9bbd1a82222a#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/ausland/belarus-prozess-gegen-sergej-tichanowski-beginnt-in-gomel](https://www.spiegel.de/ausland/belarus-prozess-gegen-sergej-tichanowski-beginnt-in-gomel-a-b7a8f53d-576b-41b7-a7b5-9bbd1a82222a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dortmund-razzia-gegen-miri-clan-im-ruhrgebiet](https://www.spiegel.de/panorama/justiz/dortmund-razzia-gegen-miri-clan-im-ruhrgebiet-a-05369ae8-0c1a-4426-8d4c-66b5a295ddec#ref=rss)
-### britney
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung](https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung-a-9b5e9644-ec1b-4550-8ddd-5a75433f472d#ref=rss)
-### spears
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung](https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung-a-9b5e9644-ec1b-4550-8ddd-5a75433f472d#ref=rss)
-### mariah
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung](https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung-a-9b5e9644-ec1b-4550-8ddd-5a75433f472d#ref=rss)
-### carey
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung](https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung-a-9b5e9644-ec1b-4550-8ddd-5a75433f472d#ref=rss)
-### justin
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung](https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung-a-9b5e9644-ec1b-4550-8ddd-5a75433f472d#ref=rss)
-### timberlake
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung](https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung-a-9b5e9644-ec1b-4550-8ddd-5a75433f472d#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung](https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung-a-9b5e9644-ec1b-4550-8ddd-5a75433f472d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lockdown-ende-hebt-stimmung-in-der-wirschaft-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/lockdown-ende-hebt-stimmung-in-der-wirschaft-deutlich-a-ee63dcfa-95b3-4495-a2af-1e1243f57b66#ref=rss)
-### vater
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung](https://www.spiegel.de/panorama/leute/britney-spears-mariah-carey-und-justin-timberlake-bekunden-oeffentlich-unterstuetzung-a-9b5e9644-ec1b-4550-8ddd-5a75433f472d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-harry-erhielt-nach-trennung-vom-koenigshaus-weiter-geld-von-vater-charles](https://www.spiegel.de/panorama/leute/prinz-harry-erhielt-nach-trennung-vom-koenigshaus-weiter-geld-von-vater-charles-a-93508b86-e0a5-4b76-8bd5-3fd340f20d6f#ref=rss)
-### jugendämter
-
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-jugendaemter-nehmen-2020-rund-45-000-kinder-und-jugendliche-in-obhut](https://www.spiegel.de/panorama/gesellschaft/deutschland-jugendaemter-nehmen-2020-rund-45-000-kinder-und-jugendliche-in-obhut-a-1dfd1548-b845-4bc7-ac96-339364ab8c16#ref=rss)
-### 2020
-
-* [https://www.spiegel.de/panorama/gesellschaft/deutschland-jugendaemter-nehmen-2020-rund-45-000-kinder-und-jugendliche-in-obhut](https://www.spiegel.de/panorama/gesellschaft/deutschland-jugendaemter-nehmen-2020-rund-45-000-kinder-und-jugendliche-in-obhut-a-1dfd1548-b845-4bc7-ac96-339364ab8c16#ref=rss)
-### nordkoreas
-
-* [https://www.spiegel.de/ausland/nordkoreas-atomprogramm-aussenminister-weist-gespraechsangebot-der-usa-zurueck](https://www.spiegel.de/ausland/nordkoreas-atomprogramm-aussenminister-weist-gespraechsangebot-der-usa-zurueck-a-77fe28c4-b500-4e2a-a530-eed061eb0983#ref=rss)
-### zuletzt
-
-* [https://www.spiegel.de/ausland/nordkoreas-atomprogramm-aussenminister-weist-gespraechsangebot-der-usa-zurueck](https://www.spiegel.de/ausland/nordkoreas-atomprogramm-aussenminister-weist-gespraechsangebot-der-usa-zurueck-a-77fe28c4-b500-4e2a-a530-eed061eb0983#ref=rss)
-* [https://www.spiegel.de/ausland/kanada-internat-fuer-kinder-von-ureinwohnern-erneut-hunderte-anonyme-graeber-entdeckt](https://www.spiegel.de/ausland/kanada-internat-fuer-kinder-von-ureinwohnern-erneut-hunderte-anonyme-graeber-entdeckt-a-3a547a03-c6d0-406c-a63c-35b15be525ab#ref=rss)
-### möglichen
-
-* [https://www.spiegel.de/ausland/nordkoreas-atomprogramm-aussenminister-weist-gespraechsangebot-der-usa-zurueck](https://www.spiegel.de/ausland/nordkoreas-atomprogramm-aussenminister-weist-gespraechsangebot-der-usa-zurueck-a-77fe28c4-b500-4e2a-a530-eed061eb0983#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel](https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel-a-9334de1f-11c6-47e6-a50a-6b0f11a21720#ref=rss)
-### annalena
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz](https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz-a-25246ead-26d2-4a38-8e38-bb1155441177#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz](https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz-a-25246ead-26d2-4a38-8e38-bb1155441177#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz](https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz-a-25246ead-26d2-4a38-8e38-bb1155441177#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz](https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz-a-25246ead-26d2-4a38-8e38-bb1155441177#ref=rss)
-### umfrage
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz](https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz-a-25246ead-26d2-4a38-8e38-bb1155441177#ref=rss)
-### internationale
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz](https://www.spiegel.de/ausland/annalena-baerbock-armin-laschet-und-olaf-scholz-umfrage-zu-ihrer-aussenpolitik-kompetenz-a-25246ead-26d2-4a38-8e38-bb1155441177#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster](https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster-a-da3d2544-374c-41ec-bbce-141d244279b6#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/schwarzes-meer-russland-veroeffentlicht-video-zu-zwischenfall-mit-britischem-kriegsschiff](https://www.spiegel.de/ausland/schwarzes-meer-russland-veroeffentlicht-video-zu-zwischenfall-mit-britischem-kriegsschiff-a-6ca62b97-2a9f-4000-a440-2e1314228d24#ref=rss)
-### veröffentlicht
-
-* [https://www.spiegel.de/ausland/schwarzes-meer-russland-veroeffentlicht-video-zu-zwischenfall-mit-britischem-kriegsschiff](https://www.spiegel.de/ausland/schwarzes-meer-russland-veroeffentlicht-video-zu-zwischenfall-mit-britischem-kriegsschiff-a-6ca62b97-2a9f-4000-a440-2e1314228d24#ref=rss)
-### video
-
-* [https://www.spiegel.de/ausland/schwarzes-meer-russland-veroeffentlicht-video-zu-zwischenfall-mit-britischem-kriegsschiff](https://www.spiegel.de/ausland/schwarzes-meer-russland-veroeffentlicht-video-zu-zwischenfall-mit-britischem-kriegsschiff-a-6ca62b97-2a9f-4000-a440-2e1314228d24#ref=rss)
-* [https://www.spiegel.de/panorama/mehrstoeckiges-gebaeude-in-miami-beach-teilweise-eingestuerzt](https://www.spiegel.de/panorama/mehrstoeckiges-gebaeude-in-miami-beach-teilweise-eingestuerzt-a-a2467363-2e75-43ba-b420-0d4316e7fdd0#ref=rss)
-### zwischenfall
-
-* [https://www.spiegel.de/ausland/schwarzes-meer-russland-veroeffentlicht-video-zu-zwischenfall-mit-britischem-kriegsschiff](https://www.spiegel.de/ausland/schwarzes-meer-russland-veroeffentlicht-video-zu-zwischenfall-mit-britischem-kriegsschiff-a-6ca62b97-2a9f-4000-a440-2e1314228d24#ref=rss)
-### wiederaufnahme
-
-* [https://www.spiegel.de/panorama/justiz/wiederaufnahme-nach-mord-freispruch-gerechtigkeit-neuer-versuch](https://www.spiegel.de/panorama/justiz/wiederaufnahme-nach-mord-freispruch-gerechtigkeit-neuer-versuch-a-51d5df32-2a3b-4095-a64f-cee13bc69692#ref=rss)
-### gerechtigkeit
-
-* [https://www.spiegel.de/panorama/justiz/wiederaufnahme-nach-mord-freispruch-gerechtigkeit-neuer-versuch](https://www.spiegel.de/panorama/justiz/wiederaufnahme-nach-mord-freispruch-gerechtigkeit-neuer-versuch-a-51d5df32-2a3b-4095-a64f-cee13bc69692#ref=rss)
-### sergio
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-sergio-busquets-ist-der-korkenzieher-fuer-die-blubbernde-sektflasche](https://www.spiegel.de/sport/fussball/fussball-em-2021-sergio-busquets-ist-der-korkenzieher-fuer-die-blubbernde-sektflasche-a-e17b936a-b99b-4f38-9b17-f9096f70e9ca#ref=rss)
-### busquets
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-sergio-busquets-ist-der-korkenzieher-fuer-die-blubbernde-sektflasche](https://www.spiegel.de/sport/fussball/fussball-em-2021-sergio-busquets-ist-der-korkenzieher-fuer-die-blubbernde-sektflasche-a-e17b936a-b99b-4f38-9b17-f9096f70e9ca#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/panorama/justiz/dortmund-razzia-gegen-miri-clan-im-ruhrgebiet](https://www.spiegel.de/panorama/justiz/dortmund-razzia-gegen-miri-clan-im-ruhrgebiet-a-05369ae8-0c1a-4426-8d4c-66b5a295ddec#ref=rss)
-### fund
-
-* [https://www.spiegel.de/ausland/kanada-internat-fuer-kinder-von-ureinwohnern-erneut-hunderte-anonyme-graeber-entdeckt](https://www.spiegel.de/ausland/kanada-internat-fuer-kinder-von-ureinwohnern-erneut-hunderte-anonyme-graeber-entdeckt-a-3a547a03-c6d0-406c-a63c-35b15be525ab#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/ursprung-von-sars-cov-2-forscher-findet-geloeschte-coronavirussequenzen-in-der-cloud](https://www.spiegel.de/wissenschaft/medizin/ursprung-von-sars-cov-2-forscher-findet-geloeschte-coronavirussequenzen-in-der-cloud-a-070e371a-8c5f-4eeb-8620-252247033cc7#ref=rss)
-### pandemie
-
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-kritisiert-grenzschliessungen-waehrend-der-pandemie](https://www.spiegel.de/politik/deutschland/armin-laschet-kritisiert-grenzschliessungen-waehrend-der-pandemie-a-3cfc8ddc-a596-41e5-9b86-63d2e3225b4a#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-kritisiert-grenzschliessungen-waehrend-der-pandemie](https://www.spiegel.de/politik/deutschland/armin-laschet-kritisiert-grenzschliessungen-waehrend-der-pandemie-a-3cfc8ddc-a596-41e5-9b86-63d2e3225b4a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-letzte-regierungserklaerung](https://www.spiegel.de/politik/deutschland/angela-merkel-letzte-regierungserklaerung-a-7e9a6fd5-5cbd-43bc-a9f2-10961fd387fe#ref=rss)
-### eugipfel
-
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-kritisiert-grenzschliessungen-waehrend-der-pandemie](https://www.spiegel.de/politik/deutschland/armin-laschet-kritisiert-grenzschliessungen-waehrend-der-pandemie-a-3cfc8ddc-a596-41e5-9b86-63d2e3225b4a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-letzte-regierungserklaerung](https://www.spiegel.de/politik/deutschland/angela-merkel-letzte-regierungserklaerung-a-7e9a6fd5-5cbd-43bc-a9f2-10961fd387fe#ref=rss)
-### august
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrer-verzichten-vorerst-auf-streiks](https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrer-verzichten-vorerst-auf-streiks-a-1837723a-5dd0-482a-8630-e291856682e0#ref=rss)
-### leroy
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-leroy-sane-steckt-in-der-nationalmannschaft-in-einer-schublade](https://www.spiegel.de/sport/fussball/fussball-em-2021-leroy-sane-steckt-in-der-nationalmannschaft-in-einer-schublade-a-c00d3005-928b-4517-bd71-59e9f7d32eea#ref=rss)
-### sané
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-leroy-sane-steckt-in-der-nationalmannschaft-in-einer-schublade](https://www.spiegel.de/sport/fussball/fussball-em-2021-leroy-sane-steckt-in-der-nationalmannschaft-in-einer-schublade-a-c00d3005-928b-4517-bd71-59e9f7d32eea#ref=rss)
-### stand
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-leroy-sane-steckt-in-der-nationalmannschaft-in-einer-schublade](https://www.spiegel.de/sport/fussball/fussball-em-2021-leroy-sane-steckt-in-der-nationalmannschaft-in-einer-schublade-a-c00d3005-928b-4517-bd71-59e9f7d32eea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lockdown-ende-hebt-stimmung-in-der-wirschaft-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/lockdown-ende-hebt-stimmung-in-der-wirschaft-deutlich-a-ee63dcfa-95b3-4495-a2af-1e1243f57b66#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-leroy-sane-steckt-in-der-nationalmannschaft-in-einer-schublade](https://www.spiegel.de/sport/fussball/fussball-em-2021-leroy-sane-steckt-in-der-nationalmannschaft-in-einer-schublade-a-c00d3005-928b-4517-bd71-59e9f7d32eea#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster](https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster-a-da3d2544-374c-41ec-bbce-141d244279b6#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-erhielt-nach-trennung-vom-koenigshaus-weiter-geld-von-vater-charles](https://www.spiegel.de/panorama/leute/prinz-harry-erhielt-nach-trennung-vom-koenigshaus-weiter-geld-von-vater-charles-a-93508b86-e0a5-4b76-8bd5-3fd340f20d6f#ref=rss)
-### harry
-
-* [https://www.spiegel.de/panorama/leute/prinz-harry-erhielt-nach-trennung-vom-koenigshaus-weiter-geld-von-vater-charles](https://www.spiegel.de/panorama/leute/prinz-harry-erhielt-nach-trennung-vom-koenigshaus-weiter-geld-von-vater-charles-a-93508b86-e0a5-4b76-8bd5-3fd340f20d6f#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/wissenschaft/medizin/ursprung-von-sars-cov-2-forscher-findet-geloeschte-coronavirussequenzen-in-der-cloud](https://www.spiegel.de/wissenschaft/medizin/ursprung-von-sars-cov-2-forscher-findet-geloeschte-coronavirussequenzen-in-der-cloud-a-070e371a-8c5f-4eeb-8620-252247033cc7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/lena-meyer-landrut-ueber-corona-ich-bin-ein-bisschen-zur-sozialphobikerin-geworden](https://www.spiegel.de/panorama/leute/lena-meyer-landrut-ueber-corona-ich-bin-ein-bisschen-zur-sozialphobikerin-geworden-a-53f8257c-7edb-4867-97ca-0a1aa0447dd0#ref=rss)
-### ifoindex
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lockdown-ende-hebt-stimmung-in-der-wirschaft-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/lockdown-ende-hebt-stimmung-in-der-wirschaft-deutlich-a-ee63dcfa-95b3-4495-a2af-1e1243f57b66#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lockdown-ende-hebt-stimmung-in-der-wirschaft-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/lockdown-ende-hebt-stimmung-in-der-wirschaft-deutlich-a-ee63dcfa-95b3-4495-a2af-1e1243f57b66#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-lehnte-freigabe-von-impfstoff-patenten-weiter-ab](https://www.spiegel.de/politik/deutschland/angela-merkel-lehnte-freigabe-von-impfstoff-patenten-weiter-ab-a-ed702cb2-1a9a-404d-9ff5-8a7ee5bb4ce2#ref=rss)
-### endspiel
-
-* [https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel](https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel-a-9334de1f-11c6-47e6-a50a-6b0f11a21720#ref=rss)
-### dfbteam
-
-* [https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel](https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel-a-9334de1f-11c6-47e6-a50a-6b0f11a21720#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster](https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster-a-da3d2544-374c-41ec-bbce-141d244279b6#ref=rss)
-### england
-
-* [https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel](https://www.spiegel.de/sport/fussball/em-2021-diese-gegner-drohen-deutschland-auf-dem-weg-ins-endspiel-a-9334de1f-11c6-47e6-a50a-6b0f11a21720#ref=rss)
-* [https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster](https://www.spiegel.de/sport/fussball/em-2021-deutschland-verhindert-ein-desaster-a-da3d2544-374c-41ec-bbce-141d244279b6#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/hamburg-badeunfall-in-der-elbe-vermisster-15-jaehriger-ist-tot](https://www.spiegel.de/panorama/hamburg-badeunfall-in-der-elbe-vermisster-15-jaehriger-ist-tot-a-e4205694-5a92-4a02-8429-3478305875ea#ref=rss)
-### elbe
-
-* [https://www.spiegel.de/panorama/hamburg-badeunfall-in-der-elbe-vermisster-15-jaehriger-ist-tot](https://www.spiegel.de/panorama/hamburg-badeunfall-in-der-elbe-vermisster-15-jaehriger-ist-tot-a-e4205694-5a92-4a02-8429-3478305875ea#ref=rss)
-### mehrstöckiges
-
-* [https://www.spiegel.de/panorama/mehrstoeckiges-gebaeude-in-miami-beach-teilweise-eingestuerzt](https://www.spiegel.de/panorama/mehrstoeckiges-gebaeude-in-miami-beach-teilweise-eingestuerzt-a-a2467363-2e75-43ba-b420-0d4316e7fdd0#ref=rss)
-### miami
-
-* [https://www.spiegel.de/panorama/mehrstoeckiges-gebaeude-in-miami-beach-teilweise-eingestuerzt](https://www.spiegel.de/panorama/mehrstoeckiges-gebaeude-in-miami-beach-teilweise-eingestuerzt-a-a2467363-2e75-43ba-b420-0d4316e7fdd0#ref=rss)
-### beach
-
-* [https://www.spiegel.de/panorama/mehrstoeckiges-gebaeude-in-miami-beach-teilweise-eingestuerzt](https://www.spiegel.de/panorama/mehrstoeckiges-gebaeude-in-miami-beach-teilweise-eingestuerzt-a-a2467363-2e75-43ba-b420-0d4316e7fdd0#ref=rss)
-### karim
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-karim-benzema-trifft-fuer-frankreich-der-jubel-auf-den-die-franzosen-sechs-jahre-warteten](https://www.spiegel.de/sport/fussball/fussball-em-2021-karim-benzema-trifft-fuer-frankreich-der-jubel-auf-den-die-franzosen-sechs-jahre-warteten-a-3110f1fe-78cc-4ddb-8499-89c58314a7e2#ref=rss)
-### benzema
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-karim-benzema-trifft-fuer-frankreich-der-jubel-auf-den-die-franzosen-sechs-jahre-warteten](https://www.spiegel.de/sport/fussball/fussball-em-2021-karim-benzema-trifft-fuer-frankreich-der-jubel-auf-den-die-franzosen-sechs-jahre-warteten-a-3110f1fe-78cc-4ddb-8499-89c58314a7e2#ref=rss)
-### franzosen
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-karim-benzema-trifft-fuer-frankreich-der-jubel-auf-den-die-franzosen-sechs-jahre-warteten](https://www.spiegel.de/sport/fussball/fussball-em-2021-karim-benzema-trifft-fuer-frankreich-der-jubel-auf-den-die-franzosen-sechs-jahre-warteten-a-3110f1fe-78cc-4ddb-8499-89c58314a7e2#ref=rss)
-### steuerpläne
-
-* [https://www.spiegel.de/wirtschaft/soziales/steuerplaene-der-union-kosten-laut-diw-mindestens-30-milliarden](https://www.spiegel.de/wirtschaft/soziales/steuerplaene-der-union-kosten-laut-diw-mindestens-30-milliarden-a-b9a03396-cc8f-4c01-8471-654c26e9a803#ref=rss)
-### union
-
-* [https://www.spiegel.de/wirtschaft/soziales/steuerplaene-der-union-kosten-laut-diw-mindestens-30-milliarden](https://www.spiegel.de/wirtschaft/soziales/steuerplaene-der-union-kosten-laut-diw-mindestens-30-milliarden-a-b9a03396-cc8f-4c01-8471-654c26e9a803#ref=rss)
-### diw
-
-* [https://www.spiegel.de/wirtschaft/soziales/steuerplaene-der-union-kosten-laut-diw-mindestens-30-milliarden](https://www.spiegel.de/wirtschaft/soziales/steuerplaene-der-union-kosten-laut-diw-mindestens-30-milliarden-a-b9a03396-cc8f-4c01-8471-654c26e9a803#ref=rss)
-### lena
-
-* [https://www.spiegel.de/panorama/leute/lena-meyer-landrut-ueber-corona-ich-bin-ein-bisschen-zur-sozialphobikerin-geworden](https://www.spiegel.de/panorama/leute/lena-meyer-landrut-ueber-corona-ich-bin-ein-bisschen-zur-sozialphobikerin-geworden-a-53f8257c-7edb-4867-97ca-0a1aa0447dd0#ref=rss)
-### meyerlandrut
-
-* [https://www.spiegel.de/panorama/leute/lena-meyer-landrut-ueber-corona-ich-bin-ein-bisschen-zur-sozialphobikerin-geworden](https://www.spiegel.de/panorama/leute/lena-meyer-landrut-ueber-corona-ich-bin-ein-bisschen-zur-sozialphobikerin-geworden-a-53f8257c-7edb-4867-97ca-0a1aa0447dd0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit](https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit-a-87ccc191-f5a7-4a44-b69d-801fc50e0991#ref=rss)
+* [https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv](https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv-a-1926aa7c-ddbc-41b9-8840-f167a96f9e97#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/locky-russe-muss-wegen-ransomware-fuenf-jahre-in-haft](https://www.spiegel.de/netzwelt/web/locky-russe-muss-wegen-ransomware-fuenf-jahre-in-haft-a-5a70dbcf-1319-4b31-8dd4-d36fe37ab67b#ref=rss)
+* [https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt](https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt-a-152baf00-e8e9-4ee7-972e-506776e94bbb#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-rudy-giuliani-verliert-seine-zulassung](https://www.spiegel.de/ausland/usa-rudy-giuliani-verliert-seine-zulassung-a-0fedf707-c1c8-4972-b2ec-ab2cdd1f5f1e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/usa-joe-biden-verkuendet-einigung-mit-us-senatoren-auf-infrastrukturpaket](https://www.spiegel.de/wirtschaft/soziales/usa-joe-biden-verkuendet-einigung-mit-us-senatoren-auf-infrastrukturpaket-a-4077d45d-f933-49e2-9830-144aef8248e3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-private-geburtstagsfeiern-die-ausbreitung-von-covid-19-angefacht-haben-koennten](https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-private-geburtstagsfeiern-die-ausbreitung-von-covid-19-angefacht-haben-koennten-a-019b9649-b83d-4870-9024-d4f4dd086014#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-5197894a-e1ef-457c-ab4c-1e6d6be3d61b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/stefan-raab-arbeitet-an-einer-neuauflage-von-tv-total](https://www.spiegel.de/wirtschaft/stefan-raab-arbeitet-an-einer-neuauflage-von-tv-total-a-a589cd49-5b39-457e-99b0-0296aed416fa#ref=rss)
+### raab
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-5197894a-e1ef-457c-ab4c-1e6d6be3d61b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/stefan-raab-arbeitet-an-einer-neuauflage-von-tv-total](https://www.spiegel.de/wirtschaft/stefan-raab-arbeitet-an-einer-neuauflage-von-tv-total-a-a589cd49-5b39-457e-99b0-0296aed416fa#ref=rss)
 ### letzte
 
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-letzte-regierungserklaerung](https://www.spiegel.de/politik/deutschland/angela-merkel-letzte-regierungserklaerung-a-7e9a6fd5-5cbd-43bc-a9f2-10961fd387fe#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-tagebuch-einer-fluechtlingsfamilie-lasst-diese-letzte-grenze-offen](https://www.spiegel.de/ausland/syrien-tagebuch-einer-fluechtlingsfamilie-lasst-diese-letzte-grenze-offen-a-46c0987f-6e98-487b-aae6-fa9c01f42c26#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkels-letzte-regierungserklaerung-19-minuten-dann-begann-das-schaulaufen](https://www.spiegel.de/politik/deutschland/angela-merkels-letzte-regierungserklaerung-19-minuten-dann-begann-das-schaulaufen-a-91cee136-3fbb-4776-bb9c-881b08099266#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit](https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit-a-87ccc191-f5a7-4a44-b69d-801fc50e0991#ref=rss)
+* [https://www.spiegel.de/ausland/westjordanland-aktivist-nisar-banat-bei-festnahme-durch-palaestinensische-behoerden-getoetet](https://www.spiegel.de/ausland/westjordanland-aktivist-nisar-banat-bei-festnahme-durch-palaestinensische-behoerden-getoetet-a-33e30a66-fbd0-49d0-91d3-72d6c2a34979#ref=rss)
+### drei
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit](https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit-a-87ccc191-f5a7-4a44-b69d-801fc50e0991#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-betrug-mit-coronatests-polizei-verhaftet-zwei-maenner](https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-betrug-mit-coronatests-polizei-verhaftet-zwei-maenner-a-29b0189d-1a38-42dc-8ddb-0941b754fd88#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkels-letzte-regierungserklaerung-19-minuten-dann-begann-das-schaulaufen](https://www.spiegel.de/politik/deutschland/angela-merkels-letzte-regierungserklaerung-19-minuten-dann-begann-das-schaulaufen-a-91cee136-3fbb-4776-bb9c-881b08099266#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/wetter-bessert-sich-zum-wochenende-unwetter-in-sueddeutschland-lassen-nach](https://www.spiegel.de/panorama/wetter-bessert-sich-zum-wochenende-unwetter-in-sueddeutschland-lassen-nach-a-9a5e12c9-1ccd-4c21-abbc-26df9f115886#ref=rss)
+* [https://www.spiegel.de/auto/gebrauchtwagen-corona-comeback-fuer-alte-autos](https://www.spiegel.de/auto/gebrauchtwagen-corona-comeback-fuer-alte-autos-a-1ce2ec82-293a-4d80-bd82-0ecce6396f14#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen-a-e3dcf6ad-1bbe-44d2-8177-674a7c47cd61#ref=rss)
+### biden
+
+* [https://www.spiegel.de/wirtschaft/soziales/usa-joe-biden-verkuendet-einigung-mit-us-senatoren-auf-infrastrukturpaket](https://www.spiegel.de/wirtschaft/soziales/usa-joe-biden-verkuendet-einigung-mit-us-senatoren-auf-infrastrukturpaket-a-4077d45d-f933-49e2-9830-144aef8248e3#ref=rss)
+### verkündet
+
+* [https://www.spiegel.de/wirtschaft/soziales/usa-joe-biden-verkuendet-einigung-mit-us-senatoren-auf-infrastrukturpaket](https://www.spiegel.de/wirtschaft/soziales/usa-joe-biden-verkuendet-einigung-mit-us-senatoren-auf-infrastrukturpaket-a-4077d45d-f933-49e2-9830-144aef8248e3#ref=rss)
+* [https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt](https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt-a-152baf00-e8e9-4ee7-972e-506776e94bbb#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-betrug-mit-coronatests-polizei-verhaftet-zwei-maenner](https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-betrug-mit-coronatests-polizei-verhaftet-zwei-maenner-a-29b0189d-1a38-42dc-8ddb-0941b754fd88#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/heiko-maas-spd-und-antony-blinken-planen-gemeinsame-konferenz-zum-gedenken-an-den-holocaust](https://www.spiegel.de/politik/deutschland/heiko-maas-spd-und-antony-blinken-planen-gemeinsame-konferenz-zum-gedenken-an-den-holocaust-a-c839e158-bef2-4a10-9429-22b8a85f0b7c#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-betrug-mit-coronatests-polizei-verhaftet-zwei-maenner](https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-betrug-mit-coronatests-polizei-verhaftet-zwei-maenner-a-29b0189d-1a38-42dc-8ddb-0941b754fd88#ref=rss)
+* [https://www.spiegel.de/ausland/westjordanland-aktivist-nisar-banat-bei-festnahme-durch-palaestinensische-behoerden-getoetet](https://www.spiegel.de/ausland/westjordanland-aktivist-nisar-banat-bei-festnahme-durch-palaestinensische-behoerden-getoetet-a-33e30a66-fbd0-49d0-91d3-72d6c2a34979#ref=rss)
+* [https://www.spiegel.de/kultur/musik/deutschrapmetoo-ueber-sexualisierte-gewalt-im-hip-hop-viele-schreiben-uns-dass-sie-bedroht-wurden](https://www.spiegel.de/kultur/musik/deutschrapmetoo-ueber-sexualisierte-gewalt-im-hip-hop-viele-schreiben-uns-dass-sie-bedroht-wurden-a-0d7a9eed-ab5f-4b00-a46b-06a6c308768d#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-betrug-mit-coronatests-polizei-verhaftet-zwei-maenner](https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-betrug-mit-coronatests-polizei-verhaftet-zwei-maenner-a-29b0189d-1a38-42dc-8ddb-0941b754fd88#ref=rss)
+* [https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt](https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt-a-152baf00-e8e9-4ee7-972e-506776e94bbb#ref=rss)
+### total
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-5197894a-e1ef-457c-ab4c-1e6d6be3d61b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/stefan-raab-arbeitet-an-einer-neuauflage-von-tv-total](https://www.spiegel.de/wirtschaft/stefan-raab-arbeitet-an-einer-neuauflage-von-tv-total-a-a589cd49-5b39-457e-99b0-0296aed416fa#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-5197894a-e1ef-457c-ab4c-1e6d6be3d61b#ref=rss)
+* [https://www.spiegel.de/auto/gebrauchtwagen-corona-comeback-fuer-alte-autos](https://www.spiegel.de/auto/gebrauchtwagen-corona-comeback-fuer-alte-autos-a-1ce2ec82-293a-4d80-bd82-0ecce6396f14#ref=rss)
+* [https://www.spiegel.de/kultur/musik/deutschrapmetoo-ueber-sexualisierte-gewalt-im-hip-hop-viele-schreiben-uns-dass-sie-bedroht-wurden](https://www.spiegel.de/kultur/musik/deutschrapmetoo-ueber-sexualisierte-gewalt-im-hip-hop-viele-schreiben-uns-dass-sie-bedroht-wurden-a-0d7a9eed-ab5f-4b00-a46b-06a6c308768d#ref=rss)
+### flucht
+
+* [https://www.spiegel.de/panorama/seeloewen-an-chiles-kueste-fluechten-vor-orcas-an-einen-strand](https://www.spiegel.de/panorama/seeloewen-an-chiles-kueste-fluechten-vor-orcas-an-einen-strand-a-f2278073-842e-42b6-a018-366f29b3d929#ref=rss)
+* [https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv](https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv-a-1926aa7c-ddbc-41b9-8840-f167a96f9e97#ref=rss)
+### einige
+
+* [https://www.spiegel.de/panorama/seeloewen-an-chiles-kueste-fluechten-vor-orcas-an-einen-strand](https://www.spiegel.de/panorama/seeloewen-an-chiles-kueste-fluechten-vor-orcas-an-einen-strand-a-f2278073-842e-42b6-a018-366f29b3d929#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast](https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast-a-f16a4ae4-379f-466c-8655-2b103225f664#ref=rss)
+* [https://www.spiegel.de/ausland/eu-gipfel-in-bruessel-russland-strategie-von-angela-merkel-und-emmanuel-macron-spaltet-eu-gipfel](https://www.spiegel.de/ausland/eu-gipfel-in-bruessel-russland-strategie-von-angela-merkel-und-emmanuel-macron-spaltet-eu-gipfel-a-666d3b41-6476-4e60-9dcc-98e939c5e9e4#ref=rss)
+### pandemie
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-private-geburtstagsfeiern-die-ausbreitung-von-covid-19-angefacht-haben-koennten](https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-private-geburtstagsfeiern-die-ausbreitung-von-covid-19-angefacht-haben-koennten-a-019b9649-b83d-4870-9024-d4f4dd086014#ref=rss)
+* [https://www.spiegel.de/auto/gebrauchtwagen-corona-comeback-fuer-alte-autos](https://www.spiegel.de/auto/gebrauchtwagen-corona-comeback-fuer-alte-autos-a-1ce2ec82-293a-4d80-bd82-0ecce6396f14#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen-a-e3dcf6ad-1bbe-44d2-8177-674a7c47cd61#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkels-letzte-regierungserklaerung-19-minuten-dann-begann-das-schaulaufen](https://www.spiegel.de/politik/deutschland/angela-merkels-letzte-regierungserklaerung-19-minuten-dann-begann-das-schaulaufen-a-91cee136-3fbb-4776-bb9c-881b08099266#ref=rss)
+* [https://www.spiegel.de/ausland/eu-gipfel-in-bruessel-russland-strategie-von-angela-merkel-und-emmanuel-macron-spaltet-eu-gipfel](https://www.spiegel.de/ausland/eu-gipfel-in-bruessel-russland-strategie-von-angela-merkel-und-emmanuel-macron-spaltet-eu-gipfel-a-666d3b41-6476-4e60-9dcc-98e939c5e9e4#ref=rss)
+### äthiopien
+
+* [https://www.spiegel.de/ausland/aethiopien-weitere-verletzte-nach-fassbomben-angriff-auf-tigray](https://www.spiegel.de/ausland/aethiopien-weitere-verletzte-nach-fassbomben-angriff-auf-tigray-a-d401b2b7-23e5-482b-8c87-5d58c89ae072#ref=rss)
+### tigray
+
+* [https://www.spiegel.de/ausland/aethiopien-weitere-verletzte-nach-fassbomben-angriff-auf-tigray](https://www.spiegel.de/ausland/aethiopien-weitere-verletzte-nach-fassbomben-angriff-auf-tigray-a-d401b2b7-23e5-482b-8c87-5d58c89ae072#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/aethiopien-weitere-verletzte-nach-fassbomben-angriff-auf-tigray](https://www.spiegel.de/ausland/aethiopien-weitere-verletzte-nach-fassbomben-angriff-auf-tigray-a-d401b2b7-23e5-482b-8c87-5d58c89ae072#ref=rss)
+* [https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt](https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt-a-152baf00-e8e9-4ee7-972e-506776e94bbb#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/ausland/aethiopien-weitere-verletzte-nach-fassbomben-angriff-auf-tigray](https://www.spiegel.de/ausland/aethiopien-weitere-verletzte-nach-fassbomben-angriff-auf-tigray-a-d401b2b7-23e5-482b-8c87-5d58c89ae072#ref=rss)
+* [https://www.spiegel.de/kultur/musik/deutschrapmetoo-ueber-sexualisierte-gewalt-im-hip-hop-viele-schreiben-uns-dass-sie-bedroht-wurden](https://www.spiegel.de/kultur/musik/deutschrapmetoo-ueber-sexualisierte-gewalt-im-hip-hop-viele-schreiben-uns-dass-sie-bedroht-wurden-a-0d7a9eed-ab5f-4b00-a46b-06a6c308768d#ref=rss)
+### schweren
+
+* [https://www.spiegel.de/ausland/aethiopien-weitere-verletzte-nach-fassbomben-angriff-auf-tigray](https://www.spiegel.de/ausland/aethiopien-weitere-verletzte-nach-fassbomben-angriff-auf-tigray-a-d401b2b7-23e5-482b-8c87-5d58c89ae072#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-bessert-sich-zum-wochenende-unwetter-in-sueddeutschland-lassen-nach](https://www.spiegel.de/panorama/wetter-bessert-sich-zum-wochenende-unwetter-in-sueddeutschland-lassen-nach-a-9a5e12c9-1ccd-4c21-abbc-26df9f115886#ref=rss)
+### hilfe
+
+* [https://www.spiegel.de/ausland/aethiopien-weitere-verletzte-nach-fassbomben-angriff-auf-tigray](https://www.spiegel.de/ausland/aethiopien-weitere-verletzte-nach-fassbomben-angriff-auf-tigray-a-d401b2b7-23e5-482b-8c87-5d58c89ae072#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-tagebuch-einer-fluechtlingsfamilie-lasst-diese-letzte-grenze-offen](https://www.spiegel.de/ausland/syrien-tagebuch-einer-fluechtlingsfamilie-lasst-diese-letzte-grenze-offen-a-46c0987f-6e98-487b-aae6-fa9c01f42c26#ref=rss)
+### karlerivan
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit](https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit-a-87ccc191-f5a7-4a44-b69d-801fc50e0991#ref=rss)
+### tot
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit](https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit-a-87ccc191-f5a7-4a44-b69d-801fc50e0991#ref=rss)
+### christian
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit](https://www.spiegel.de/wirtschaft/unternehmen/tengelmann-karl-erivan-haub-fuer-tot-erklaert-christian-haub-uebernimmt-mehrheit-a-87ccc191-f5a7-4a44-b69d-801fc50e0991#ref=rss)
+### wochenende
+
+* [https://www.spiegel.de/panorama/wetter-bessert-sich-zum-wochenende-unwetter-in-sueddeutschland-lassen-nach](https://www.spiegel.de/panorama/wetter-bessert-sich-zum-wochenende-unwetter-in-sueddeutschland-lassen-nach-a-9a5e12c9-1ccd-4c21-abbc-26df9f115886#ref=rss)
+### süddeutschland
+
+* [https://www.spiegel.de/panorama/wetter-bessert-sich-zum-wochenende-unwetter-in-sueddeutschland-lassen-nach](https://www.spiegel.de/panorama/wetter-bessert-sich-zum-wochenende-unwetter-in-sueddeutschland-lassen-nach-a-9a5e12c9-1ccd-4c21-abbc-26df9f115886#ref=rss)
+### lage
+
+* [https://www.spiegel.de/panorama/wetter-bessert-sich-zum-wochenende-unwetter-in-sueddeutschland-lassen-nach](https://www.spiegel.de/panorama/wetter-bessert-sich-zum-wochenende-unwetter-in-sueddeutschland-lassen-nach-a-9a5e12c9-1ccd-4c21-abbc-26df9f115886#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-5197894a-e1ef-457c-ab4c-1e6d6be3d61b#ref=rss)
+### rudy
+
+* [https://www.spiegel.de/ausland/usa-rudy-giuliani-verliert-seine-zulassung](https://www.spiegel.de/ausland/usa-rudy-giuliani-verliert-seine-zulassung-a-0fedf707-c1c8-4972-b2ec-ab2cdd1f5f1e#ref=rss)
+### giuliani
+
+* [https://www.spiegel.de/ausland/usa-rudy-giuliani-verliert-seine-zulassung](https://www.spiegel.de/ausland/usa-rudy-giuliani-verliert-seine-zulassung-a-0fedf707-c1c8-4972-b2ec-ab2cdd1f5f1e#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/usa-rudy-giuliani-verliert-seine-zulassung](https://www.spiegel.de/ausland/usa-rudy-giuliani-verliert-seine-zulassung-a-0fedf707-c1c8-4972-b2ec-ab2cdd1f5f1e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/prozess-gegen-berliner-arzt-schon-missverstaendnisse-sind-in-dem-bereich-sehr-problematisch](https://www.spiegel.de/panorama/justiz/prozess-gegen-berliner-arzt-schon-missverstaendnisse-sind-in-dem-bereich-sehr-problematisch-a-d31cb6b1-b3a2-44f8-846b-17dee02f6900#ref=rss)
+### joe
+
+* [https://www.spiegel.de/wirtschaft/soziales/usa-joe-biden-verkuendet-einigung-mit-us-senatoren-auf-infrastrukturpaket](https://www.spiegel.de/wirtschaft/soziales/usa-joe-biden-verkuendet-einigung-mit-us-senatoren-auf-infrastrukturpaket-a-4077d45d-f933-49e2-9830-144aef8248e3#ref=rss)
+### einigung
+
+* [https://www.spiegel.de/wirtschaft/soziales/usa-joe-biden-verkuendet-einigung-mit-us-senatoren-auf-infrastrukturpaket](https://www.spiegel.de/wirtschaft/soziales/usa-joe-biden-verkuendet-einigung-mit-us-senatoren-auf-infrastrukturpaket-a-4077d45d-f933-49e2-9830-144aef8248e3#ref=rss)
+### infrastrukturpaket
+
+* [https://www.spiegel.de/wirtschaft/soziales/usa-joe-biden-verkuendet-einigung-mit-us-senatoren-auf-infrastrukturpaket](https://www.spiegel.de/wirtschaft/soziales/usa-joe-biden-verkuendet-einigung-mit-us-senatoren-auf-infrastrukturpaket-a-4077d45d-f933-49e2-9830-144aef8248e3#ref=rss)
+### onlinewerbung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/fettleibigkeit-bei-kindern-grossbritannien-will-junkfood-werbung-im-tv-vor-21-uhr-verbieten](https://www.spiegel.de/wirtschaft/unternehmen/fettleibigkeit-bei-kindern-grossbritannien-will-junkfood-werbung-im-tv-vor-21-uhr-verbieten-a-bc9bb029-c503-48ab-a2c6-6c183c847073#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/google-verschiebt-den-cookie-bann](https://www.spiegel.de/netzwelt/web/google-verschiebt-den-cookie-bann-a-2a1aa37b-2894-406f-b5f8-32df1efa8292#ref=rss)
+### coronatests
+
+* [https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-betrug-mit-coronatests-polizei-verhaftet-zwei-maenner](https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-betrug-mit-coronatests-polizei-verhaftet-zwei-maenner-a-29b0189d-1a38-42dc-8ddb-0941b754fd88#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-betrug-mit-coronatests-polizei-verhaftet-zwei-maenner](https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-betrug-mit-coronatests-polizei-verhaftet-zwei-maenner-a-29b0189d-1a38-42dc-8ddb-0941b754fd88#ref=rss)
+### nebenjobs
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages](https://www.spiegel.de/politik/deutschland/news-des-tages-a-5197894a-e1ef-457c-ab4c-1e6d6be3d61b#ref=rss)
+### seelöwen
+
+* [https://www.spiegel.de/panorama/seeloewen-an-chiles-kueste-fluechten-vor-orcas-an-einen-strand](https://www.spiegel.de/panorama/seeloewen-an-chiles-kueste-fluechten-vor-orcas-an-einen-strand-a-f2278073-842e-42b6-a018-366f29b3d929#ref=rss)
+### strand
+
+* [https://www.spiegel.de/panorama/seeloewen-an-chiles-kueste-fluechten-vor-orcas-an-einen-strand](https://www.spiegel.de/panorama/seeloewen-an-chiles-kueste-fluechten-vor-orcas-an-einen-strand-a-f2278073-842e-42b6-a018-366f29b3d929#ref=rss)
+### abdul
+
+* [https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv](https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv-a-1926aa7c-ddbc-41b9-8840-f167a96f9e97#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv](https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv-a-1926aa7c-ddbc-41b9-8840-f167a96f9e97#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-tagebuch-einer-fluechtlingsfamilie-lasst-diese-letzte-grenze-offen](https://www.spiegel.de/ausland/syrien-tagebuch-einer-fluechtlingsfamilie-lasst-diese-letzte-grenze-offen-a-46c0987f-6e98-487b-aae6-fa9c01f42c26#ref=rss)
+### europa
+
+* [https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv](https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv-a-1926aa7c-ddbc-41b9-8840-f167a96f9e97#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen-a-e3dcf6ad-1bbe-44d2-8177-674a7c47cd61#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv](https://www.spiegel.de/panorama/ungewoehnliche-liebesgeschichte-abdul-in-love-spiegel-tv-a-1926aa7c-ddbc-41b9-8840-f167a96f9e97#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/locky-russe-muss-wegen-ransomware-fuenf-jahre-in-haft](https://www.spiegel.de/netzwelt/web/locky-russe-muss-wegen-ransomware-fuenf-jahre-in-haft-a-5a70dbcf-1319-4b31-8dd4-d36fe37ab67b#ref=rss)
+### geburtstagsfeiern
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-private-geburtstagsfeiern-die-ausbreitung-von-covid-19-angefacht-haben-koennten](https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-private-geburtstagsfeiern-die-ausbreitung-von-covid-19-angefacht-haben-koennten-a-019b9649-b83d-4870-9024-d4f4dd086014#ref=rss)
+### ausbreitung
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-private-geburtstagsfeiern-die-ausbreitung-von-covid-19-angefacht-haben-koennten](https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-private-geburtstagsfeiern-die-ausbreitung-von-covid-19-angefacht-haben-koennten-a-019b9649-b83d-4870-9024-d4f4dd086014#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-anwalt-von-joerg-meuthen-lehnt-unterlassungserklaerung-von-frauke-petry-ab](https://www.spiegel.de/politik/deutschland/afd-anwalt-von-joerg-meuthen-lehnt-unterlassungserklaerung-von-frauke-petry-ab-a-a99ac910-6da9-44e9-9a0a-b8cc01c839c4#ref=rss)
+### jörg
+
+* [https://www.spiegel.de/politik/deutschland/afd-anwalt-von-joerg-meuthen-lehnt-unterlassungserklaerung-von-frauke-petry-ab](https://www.spiegel.de/politik/deutschland/afd-anwalt-von-joerg-meuthen-lehnt-unterlassungserklaerung-von-frauke-petry-ab-a-a99ac910-6da9-44e9-9a0a-b8cc01c839c4#ref=rss)
+### meuthen
+
+* [https://www.spiegel.de/politik/deutschland/afd-anwalt-von-joerg-meuthen-lehnt-unterlassungserklaerung-von-frauke-petry-ab](https://www.spiegel.de/politik/deutschland/afd-anwalt-von-joerg-meuthen-lehnt-unterlassungserklaerung-von-frauke-petry-ab-a-a99ac910-6da9-44e9-9a0a-b8cc01c839c4#ref=rss)
+### frauke
+
+* [https://www.spiegel.de/politik/deutschland/afd-anwalt-von-joerg-meuthen-lehnt-unterlassungserklaerung-von-frauke-petry-ab](https://www.spiegel.de/politik/deutschland/afd-anwalt-von-joerg-meuthen-lehnt-unterlassungserklaerung-von-frauke-petry-ab-a-a99ac910-6da9-44e9-9a0a-b8cc01c839c4#ref=rss)
+### petry
+
+* [https://www.spiegel.de/politik/deutschland/afd-anwalt-von-joerg-meuthen-lehnt-unterlassungserklaerung-von-frauke-petry-ab](https://www.spiegel.de/politik/deutschland/afd-anwalt-von-joerg-meuthen-lehnt-unterlassungserklaerung-von-frauke-petry-ab-a-a99ac910-6da9-44e9-9a0a-b8cc01c839c4#ref=rss)
+### familie
+
+* [https://www.spiegel.de/ausland/syrien-tagebuch-einer-fluechtlingsfamilie-lasst-diese-letzte-grenze-offen](https://www.spiegel.de/ausland/syrien-tagebuch-einer-fluechtlingsfamilie-lasst-diese-letzte-grenze-offen-a-46c0987f-6e98-487b-aae6-fa9c01f42c26#ref=rss)
+* [https://www.spiegel.de/ausland/westjordanland-aktivist-nisar-banat-bei-festnahme-durch-palaestinensische-behoerden-getoetet](https://www.spiegel.de/ausland/westjordanland-aktivist-nisar-banat-bei-festnahme-durch-palaestinensische-behoerden-getoetet-a-33e30a66-fbd0-49d0-91d3-72d6c2a34979#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/panorama/justiz/prozess-gegen-berliner-arzt-schon-missverstaendnisse-sind-in-dem-bereich-sehr-problematisch](https://www.spiegel.de/panorama/justiz/prozess-gegen-berliner-arzt-schon-missverstaendnisse-sind-in-dem-bereich-sehr-problematisch-a-d31cb6b1-b3a2-44f8-846b-17dee02f6900#ref=rss)
+### regierungserklärung
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkels-letzte-regierungserklaerung-19-minuten-dann-begann-das-schaulaufen](https://www.spiegel.de/politik/deutschland/angela-merkels-letzte-regierungserklaerung-19-minuten-dann-begann-das-schaulaufen-a-91cee136-3fbb-4776-bb9c-881b08099266#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkels-letzte-regierungserklaerung-19-minuten-dann-begann-das-schaulaufen](https://www.spiegel.de/politik/deutschland/angela-merkels-letzte-regierungserklaerung-19-minuten-dann-begann-das-schaulaufen-a-91cee136-3fbb-4776-bb9c-881b08099266#ref=rss)
+* [https://www.spiegel.de/ausland/eu-gipfel-in-bruessel-russland-strategie-von-angela-merkel-und-emmanuel-macron-spaltet-eu-gipfel](https://www.spiegel.de/ausland/eu-gipfel-in-bruessel-russland-strategie-von-angela-merkel-und-emmanuel-macron-spaltet-eu-gipfel-a-666d3b41-6476-4e60-9dcc-98e939c5e9e4#ref=rss)
+### westjordanland
+
+* [https://www.spiegel.de/ausland/westjordanland-aktivist-nisar-banat-bei-festnahme-durch-palaestinensische-behoerden-getoetet](https://www.spiegel.de/ausland/westjordanland-aktivist-nisar-banat-bei-festnahme-durch-palaestinensische-behoerden-getoetet-a-33e30a66-fbd0-49d0-91d3-72d6c2a34979#ref=rss)
+### festnahme
+
+* [https://www.spiegel.de/ausland/westjordanland-aktivist-nisar-banat-bei-festnahme-durch-palaestinensische-behoerden-getoetet](https://www.spiegel.de/ausland/westjordanland-aktivist-nisar-banat-bei-festnahme-durch-palaestinensische-behoerden-getoetet-a-33e30a66-fbd0-49d0-91d3-72d6c2a34979#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/ausland/westjordanland-aktivist-nisar-banat-bei-festnahme-durch-palaestinensische-behoerden-getoetet](https://www.spiegel.de/ausland/westjordanland-aktivist-nisar-banat-bei-festnahme-durch-palaestinensische-behoerden-getoetet-a-33e30a66-fbd0-49d0-91d3-72d6c2a34979#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/john-mcafee-sex-drugs-und-computerviren](https://www.spiegel.de/wirtschaft/unternehmen/john-mcafee-sex-drugs-und-computerviren-a-591ad679-c801-45be-a425-a135bf100af4#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/wissenschaft/weltall/china-plant-bemannte-mars-mission-fuer-2033](https://www.spiegel.de/wissenschaft/weltall/china-plant-bemannte-mars-mission-fuer-2033-a-bc25b285-c10c-4f79-9f03-edc514ea3c97#ref=rss)
+* [https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt](https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt-a-152baf00-e8e9-4ee7-972e-506776e94bbb#ref=rss)
+### fridays
+
+* [https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast](https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast-a-f16a4ae4-379f-466c-8655-2b103225f664#ref=rss)
+### for
+
+* [https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast](https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast-a-f16a4ae4-379f-466c-8655-2b103225f664#ref=rss)
+### future
+
+* [https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast](https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast-a-f16a4ae4-379f-466c-8655-2b103225f664#ref=rss)
+### straße
+
+* [https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast](https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast-a-f16a4ae4-379f-466c-8655-2b103225f664#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast](https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast-a-f16a4ae4-379f-466c-8655-2b103225f664#ref=rss)
+### andere
+
+* [https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast](https://www.spiegel.de/politik/deutschland/gehoert-fridays-for-future-auf-die-strasse-oder-in-den-bundestag-republik-21-podcast-a-f16a4ae4-379f-466c-8655-2b103225f664#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen-a-e3dcf6ad-1bbe-44d2-8177-674a7c47cd61#ref=rss)
+### eigenes
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/angestellte-kuriere-haben-anspruch-auf-dienstrad-und-diensthandy](https://www.spiegel.de/wirtschaft/unternehmen/angestellte-kuriere-haben-anspruch-auf-dienstrad-und-diensthandy-a-0dd4a764-cc38-4b89-a640-52fbcf1bdb07#ref=rss)
+* [https://www.spiegel.de/auto/gebrauchtwagen-corona-comeback-fuer-alte-autos](https://www.spiegel.de/auto/gebrauchtwagen-corona-comeback-fuer-alte-autos-a-1ce2ec82-293a-4d80-bd82-0ecce6396f14#ref=rss)
+### entschieden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/angestellte-kuriere-haben-anspruch-auf-dienstrad-und-diensthandy](https://www.spiegel.de/wirtschaft/unternehmen/angestellte-kuriere-haben-anspruch-auf-dienstrad-und-diensthandy-a-0dd4a764-cc38-4b89-a640-52fbcf1bdb07#ref=rss)
+* [https://www.spiegel.de/ausland/eu-gipfel-in-bruessel-russland-strategie-von-angela-merkel-und-emmanuel-macron-spaltet-eu-gipfel](https://www.spiegel.de/ausland/eu-gipfel-in-bruessel-russland-strategie-von-angela-merkel-und-emmanuel-macron-spaltet-eu-gipfel-a-666d3b41-6476-4e60-9dcc-98e939c5e9e4#ref=rss)
+### locky
+
+* [https://www.spiegel.de/netzwelt/web/locky-russe-muss-wegen-ransomware-fuenf-jahre-in-haft](https://www.spiegel.de/netzwelt/web/locky-russe-muss-wegen-ransomware-fuenf-jahre-in-haft-a-5a70dbcf-1319-4b31-8dd4-d36fe37ab67b#ref=rss)
+### google
+
+* [https://www.spiegel.de/netzwelt/web/google-verschiebt-den-cookie-bann](https://www.spiegel.de/netzwelt/web/google-verschiebt-den-cookie-bann-a-2a1aa37b-2894-406f-b5f8-32df1efa8292#ref=rss)
+### maas
+
+* [https://www.spiegel.de/politik/deutschland/heiko-maas-spd-und-antony-blinken-planen-gemeinsame-konferenz-zum-gedenken-an-den-holocaust](https://www.spiegel.de/politik/deutschland/heiko-maas-spd-und-antony-blinken-planen-gemeinsame-konferenz-zum-gedenken-an-den-holocaust-a-c839e158-bef2-4a10-9429-22b8a85f0b7c#ref=rss)
+### blinken
+
+* [https://www.spiegel.de/politik/deutschland/heiko-maas-spd-und-antony-blinken-planen-gemeinsame-konferenz-zum-gedenken-an-den-holocaust](https://www.spiegel.de/politik/deutschland/heiko-maas-spd-und-antony-blinken-planen-gemeinsame-konferenz-zum-gedenken-an-den-holocaust-a-c839e158-bef2-4a10-9429-22b8a85f0b7c#ref=rss)
+### holocaust
+
+* [https://www.spiegel.de/politik/deutschland/heiko-maas-spd-und-antony-blinken-planen-gemeinsame-konferenz-zum-gedenken-an-den-holocaust](https://www.spiegel.de/politik/deutschland/heiko-maas-spd-und-antony-blinken-planen-gemeinsame-konferenz-zum-gedenken-an-den-holocaust-a-c839e158-bef2-4a10-9429-22b8a85f0b7c#ref=rss)
+### gebrauchtwagen
+
+* [https://www.spiegel.de/auto/gebrauchtwagen-corona-comeback-fuer-alte-autos](https://www.spiegel.de/auto/gebrauchtwagen-corona-comeback-fuer-alte-autos-a-1ce2ec82-293a-4d80-bd82-0ecce6396f14#ref=rss)
+### deutschrapmetoo
+
+* [https://www.spiegel.de/kultur/musik/deutschrapmetoo-ueber-sexualisierte-gewalt-im-hip-hop-viele-schreiben-uns-dass-sie-bedroht-wurden](https://www.spiegel.de/kultur/musik/deutschrapmetoo-ueber-sexualisierte-gewalt-im-hip-hop-viele-schreiben-uns-dass-sie-bedroht-wurden-a-0d7a9eed-ab5f-4b00-a46b-06a6c308768d#ref=rss)
+### algerien
+
+* [https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt](https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt-a-152baf00-e8e9-4ee7-972e-506776e94bbb#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt](https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt-a-152baf00-e8e9-4ee7-972e-506776e94bbb#ref=rss)
+### djerad
+
+* [https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt](https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt-a-152baf00-e8e9-4ee7-972e-506776e94bbb#ref=rss)
+### rücktritt
+
+* [https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt](https://www.spiegel.de/ausland/algerien-premier-abdelaziz-djerad-gibt-ruecktritt-bekannt-a-152baf00-e8e9-4ee7-972e-506776e94bbb#ref=rss)
+### john
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/john-mcafee-sex-drugs-und-computerviren](https://www.spiegel.de/wirtschaft/unternehmen/john-mcafee-sex-drugs-und-computerviren-a-591ad679-c801-45be-a425-a135bf100af4#ref=rss)
+### mcafee
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/john-mcafee-sex-drugs-und-computerviren](https://www.spiegel.de/wirtschaft/unternehmen/john-mcafee-sex-drugs-und-computerviren-a-591ad679-c801-45be-a425-a135bf100af4#ref=rss)
+### cannabis
+
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen-a-e3dcf6ad-1bbe-44d2-8177-674a7c47cd61#ref=rss)
+### beruhigungsmitteln
+
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-nachfrage-nach-cannabis-und-beruhigungsmitteln-waehrend-pandemie-gestiegen-a-e3dcf6ad-1bbe-44d2-8177-674a7c47cd61#ref=rss)
+### personal
+
+* [https://www.spiegel.de/panorama/gesellschaft/britisches-koenigshaus-will-beim-personal-fuer-mehr-diversitaet-sorgen](https://www.spiegel.de/panorama/gesellschaft/britisches-koenigshaus-will-beim-personal-fuer-mehr-diversitaet-sorgen-a-978b4e32-f025-4fa3-885f-69083dcebaa9#ref=rss)
+### wir
+
+* [https://www.spiegel.de/panorama/gesellschaft/britisches-koenigshaus-will-beim-personal-fuer-mehr-diversitaet-sorgen](https://www.spiegel.de/panorama/gesellschaft/britisches-koenigshaus-will-beim-personal-fuer-mehr-diversitaet-sorgen-a-978b4e32-f025-4fa3-885f-69083dcebaa9#ref=rss)
+### eugipfel
+
+* [https://www.spiegel.de/ausland/eu-gipfel-in-bruessel-russland-strategie-von-angela-merkel-und-emmanuel-macron-spaltet-eu-gipfel](https://www.spiegel.de/ausland/eu-gipfel-in-bruessel-russland-strategie-von-angela-merkel-und-emmanuel-macron-spaltet-eu-gipfel-a-666d3b41-6476-4e60-9dcc-98e939c5e9e4#ref=rss)
+### brüssel
+
+* [https://www.spiegel.de/ausland/eu-gipfel-in-bruessel-russland-strategie-von-angela-merkel-und-emmanuel-macron-spaltet-eu-gipfel](https://www.spiegel.de/ausland/eu-gipfel-in-bruessel-russland-strategie-von-angela-merkel-und-emmanuel-macron-spaltet-eu-gipfel-a-666d3b41-6476-4e60-9dcc-98e939c5e9e4#ref=rss)
 
