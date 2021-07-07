@@ -131,13 +131,13 @@ ruth(258) sicht(258) geboten(257) modelle(257) mächtige(257) beleidigungen(256)
 
 ```
 date, investment, buy price, sell price
-2021-06-30 10:09:53, 1-EUR, 1.18 USD, 1.18 USD
-2021-06-30 10:09:53, 1-EUR, 7.68 CNY, 7.68 CNY
-2021-06-30 10:09:54, crude-oil-brent-barrel, 75.3 USD, 75.3 USD
-2021-06-30 10:09:54, gold-10g, 496.39 EUR, 470.64 EUR
-2021-06-30 10:09:56, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-06-30 10:09:57, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-06-30 10:09:59, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
+2021-07-07 10:09:59, 1-EUR, 1.18 USD, 1.18 USD
+2021-07-07 10:09:59, 1-EUR, 7.65 CNY, 7.65 CNY
+2021-07-07 10:09:59, crude-oil-brent-barrel, 75.71 USD, 75.71 USD
+2021-07-07 10:09:59, gold-10g, 513.94 EUR, 486.03 EUR
+2021-07-07 10:10:04, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-07-07 10:10:06, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-07-07 10:10:07, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
 ```
 
 <footer>
