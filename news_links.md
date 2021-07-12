@@ -4,299 +4,305 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/richard-branson-im-all-aus-geld-noch-mehr-geld-machen](https://www.spiegel.de/wirtschaft/unternehmen/richard-branson-im-all-aus-geld-noch-mehr-geld-machen-a-6930aed1-c217-471d-ba2c-b0cb66b326ab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-nutzung-sank-schon-im-juni](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-nutzung-sank-schon-im-juni-a-249a1f24-77dc-4a55-8dcc-e359d5fd2e80#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-star-giannis-antetokounmpo-ich-bin-nicht-michael-jordan](https://www.spiegel.de/sport/basketball/nba-star-giannis-antetokounmpo-ich-bin-nicht-michael-jordan-a-57aac620-fdc3-4bbc-ba55-c07da3588165#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-preise-im-grosshandel-steigen-so-stark-wie-seit-1981-nicht-mehr](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-preise-im-grosshandel-steigen-so-stark-wie-seit-1981-nicht-mehr-a-dfb389fe-68f4-41a4-86cf-73248aa75537#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturumfrage-firmen-sind-trotz-lieferengpaessen-zuversichtlich](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturumfrage-firmen-sind-trotz-lieferengpaessen-zuversichtlich-a-172bb698-b432-4d03-ab52-b343f4f2c814#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/richard-branson-im-all-aus-geld-noch-mehr-geld-machen](https://www.spiegel.de/wirtschaft/unternehmen/richard-branson-im-all-aus-geld-noch-mehr-geld-machen-a-6930aed1-c217-471d-ba2c-b0cb66b326ab#ref=rss)
-### 2021
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern](https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern-a-81a1d873-23ae-4c94-b586-adabe548dac1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate-a-8abcd5d0-ff39-4d3a-8307-4f7f556046cb#ref=rss)
-* [https://www.spiegel.de/panorama/olympia-2021-hotel-in-tokio-entschuldigt-sich-fuer-nur-fuer-japaner-schilder](https://www.spiegel.de/panorama/olympia-2021-hotel-in-tokio-entschuldigt-sich-fuer-nur-fuer-japaner-schilder-a-b77524e3-714c-4af2-8d82-03b5b97152a6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-fans-sorgen-am-finaltag-fuer-skandale-das-schlechteste-zum-schluss](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-fans-sorgen-am-finaltag-fuer-skandale-das-schlechteste-zum-schluss-a-286da569-5497-45ea-bfa4-172b294c8da9#ref=rss)
-### thüringen
-
-* [https://www.spiegel.de/panorama/justiz/ballstaedt-prozess-bewaehrungsstrafen-fuer-angeklagte-richterin-kritisiert-debatte](https://www.spiegel.de/panorama/justiz/ballstaedt-prozess-bewaehrungsstrafen-fuer-angeklagte-richterin-kritisiert-debatte-a-ad2c5ff7-65b7-4a61-abe6-17e06836d102#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-thueringen-oeffentliche-bezeichnung-als-prueffall-war-nicht-rechtens](https://www.spiegel.de/politik/deutschland/afd-thueringen-oeffentliche-bezeichnung-als-prueffall-war-nicht-rechtens-a-cf002a01-040c-40c9-a99a-18819c3b192e#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/ausland/jordanien-mitglied-der-koenigsfamilie-muss-nach-mutmasslichem-putschversuch-15-jahre-in-haft](https://www.spiegel.de/ausland/jordanien-mitglied-der-koenigsfamilie-muss-nach-mutmasslichem-putschversuch-15-jahre-in-haft-a-fb9b1205-a71b-429f-b65a-879dc3b45b6e#ref=rss)
-* [https://www.spiegel.de/ausland/massenproteste-in-kuba-die-menschen-haben-die-angst-verloren](https://www.spiegel.de/ausland/massenproteste-in-kuba-die-menschen-haben-die-angst-verloren-a-f0c6ff95-937c-4128-9c61-55a25af4cf35#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturumfrage-firmen-sind-trotz-lieferengpaessen-zuversichtlich](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturumfrage-firmen-sind-trotz-lieferengpaessen-zuversichtlich-a-172bb698-b432-4d03-ab52-b343f4f2c814#ref=rss)
-### juni
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-nutzung-sank-schon-im-juni](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-nutzung-sank-schon-im-juni-a-249a1f24-77dc-4a55-8dcc-e359d5fd2e80#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-preise-im-grosshandel-steigen-so-stark-wie-seit-1981-nicht-mehr](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-preise-im-grosshandel-steigen-so-stark-wie-seit-1981-nicht-mehr-a-dfb389fe-68f4-41a4-86cf-73248aa75537#ref=rss)
-### fußballem
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern](https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern-a-81a1d873-23ae-4c94-b586-adabe548dac1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate-a-8abcd5d0-ff39-4d3a-8307-4f7f556046cb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-fans-sorgen-am-finaltag-fuer-skandale-das-schlechteste-zum-schluss](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-fans-sorgen-am-finaltag-fuer-skandale-das-schlechteste-zum-schluss-a-286da569-5497-45ea-bfa4-172b294c8da9#ref=rss)
-### london
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern](https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern-a-81a1d873-23ae-4c94-b586-adabe548dac1#ref=rss)
-* [https://www.spiegel.de/stil/rezept-fuer-pasta-mit-kohlrabi-und-moehren](https://www.spiegel.de/stil/rezept-fuer-pasta-mit-kohlrabi-und-moehren-a-1aca64d5-99c5-4ffc-b0a1-08c8aa6dc7f5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-fans-sorgen-am-finaltag-fuer-skandale-das-schlechteste-zum-schluss](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-fans-sorgen-am-finaltag-fuer-skandale-das-schlechteste-zum-schluss-a-286da569-5497-45ea-bfa4-172b294c8da9#ref=rss)
-### england
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate-a-8abcd5d0-ff39-4d3a-8307-4f7f556046cb#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-george-der-kleine-britische-royal-begeistert-beim-em-finale](https://www.spiegel.de/panorama/leute/prinz-george-der-kleine-britische-royal-begeistert-beim-em-finale-a-f09d0b45-b4b6-4930-ab20-0a18129e0fd2#ref=rss)
-* [https://www.spiegel.de/stil/rezept-fuer-pasta-mit-kohlrabi-und-moehren](https://www.spiegel.de/stil/rezept-fuer-pasta-mit-kohlrabi-und-moehren-a-1aca64d5-99c5-4ffc-b0a1-08c8aa6dc7f5#ref=rss)
-### italien
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate-a-8abcd5d0-ff39-4d3a-8307-4f7f556046cb#ref=rss)
-* [https://www.spiegel.de/stil/rezept-fuer-pasta-mit-kohlrabi-und-moehren](https://www.spiegel.de/stil/rezept-fuer-pasta-mit-kohlrabi-und-moehren-a-1aca64d5-99c5-4ffc-b0a1-08c8aa6dc7f5#ref=rss)
-### kalifornien
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-in-kalifornien-death-valley-kratzt-am-temperaturrekord](https://www.spiegel.de/wissenschaft/natur/klimawandel-in-kalifornien-death-valley-kratzt-am-temperaturrekord-a-be19cde0-937d-4129-b5da-b3360d8d29b4#ref=rss)
-### einige
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-in-kalifornien-death-valley-kratzt-am-temperaturrekord](https://www.spiegel.de/wissenschaft/natur/klimawandel-in-kalifornien-death-valley-kratzt-am-temperaturrekord-a-be19cde0-937d-4129-b5da-b3360d8d29b4#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/corona-impfnachweis-so-klappt-der-qr-code-scan-mit-der-covpass-app](https://www.spiegel.de/netzwelt/apps/corona-impfnachweis-so-klappt-der-qr-code-scan-mit-der-covpass-app-a-b612cebd-f381-4efa-83b6-80fbb2697057#ref=rss)
-### richard
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/richard-branson-im-all-aus-geld-noch-mehr-geld-machen](https://www.spiegel.de/wirtschaft/unternehmen/richard-branson-im-all-aus-geld-noch-mehr-geld-machen-a-6930aed1-c217-471d-ba2c-b0cb66b326ab#ref=rss)
-### branson
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/richard-branson-im-all-aus-geld-noch-mehr-geld-machen](https://www.spiegel.de/wirtschaft/unternehmen/richard-branson-im-all-aus-geld-noch-mehr-geld-machen-a-6930aed1-c217-471d-ba2c-b0cb66b326ab#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/richard-branson-im-all-aus-geld-noch-mehr-geld-machen](https://www.spiegel.de/wirtschaft/unternehmen/richard-branson-im-all-aus-geld-noch-mehr-geld-machen-a-6930aed1-c217-471d-ba2c-b0cb66b326ab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturumfrage-firmen-sind-trotz-lieferengpaessen-zuversichtlich](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturumfrage-firmen-sind-trotz-lieferengpaessen-zuversichtlich-a-172bb698-b432-4d03-ab52-b343f4f2c814#ref=rss)
-### bewährungsstrafen
-
-* [https://www.spiegel.de/panorama/justiz/ballstaedt-prozess-bewaehrungsstrafen-fuer-angeklagte-richterin-kritisiert-debatte](https://www.spiegel.de/panorama/justiz/ballstaedt-prozess-bewaehrungsstrafen-fuer-angeklagte-richterin-kritisiert-debatte-a-ad2c5ff7-65b7-4a61-abe6-17e06836d102#ref=rss)
-### richterin
-
-* [https://www.spiegel.de/panorama/justiz/ballstaedt-prozess-bewaehrungsstrafen-fuer-angeklagte-richterin-kritisiert-debatte](https://www.spiegel.de/panorama/justiz/ballstaedt-prozess-bewaehrungsstrafen-fuer-angeklagte-richterin-kritisiert-debatte-a-ad2c5ff7-65b7-4a61-abe6-17e06836d102#ref=rss)
-### jordanien
-
-* [https://www.spiegel.de/ausland/jordanien-mitglied-der-koenigsfamilie-muss-nach-mutmasslichem-putschversuch-15-jahre-in-haft](https://www.spiegel.de/ausland/jordanien-mitglied-der-koenigsfamilie-muss-nach-mutmasslichem-putschversuch-15-jahre-in-haft-a-fb9b1205-a71b-429f-b65a-879dc3b45b6e#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/jordanien-mitglied-der-koenigsfamilie-muss-nach-mutmasslichem-putschversuch-15-jahre-in-haft](https://www.spiegel.de/ausland/jordanien-mitglied-der-koenigsfamilie-muss-nach-mutmasslichem-putschversuch-15-jahre-in-haft-a-fb9b1205-a71b-429f-b65a-879dc3b45b6e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-thueringen-oeffentliche-bezeichnung-als-prueffall-war-nicht-rechtens](https://www.spiegel.de/politik/deutschland/afd-thueringen-oeffentliche-bezeichnung-als-prueffall-war-nicht-rechtens-a-cf002a01-040c-40c9-a99a-18819c3b192e#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-thueringen-oeffentliche-bezeichnung-als-prueffall-war-nicht-rechtens](https://www.spiegel.de/politik/deutschland/afd-thueringen-oeffentliche-bezeichnung-als-prueffall-war-nicht-rechtens-a-cf002a01-040c-40c9-a99a-18819c3b192e#ref=rss)
-### prüffall
-
-* [https://www.spiegel.de/politik/deutschland/afd-thueringen-oeffentliche-bezeichnung-als-prueffall-war-nicht-rechtens](https://www.spiegel.de/politik/deutschland/afd-thueringen-oeffentliche-bezeichnung-als-prueffall-war-nicht-rechtens-a-cf002a01-040c-40c9-a99a-18819c3b192e#ref=rss)
-### hätte
-
-* [https://www.spiegel.de/politik/deutschland/afd-thueringen-oeffentliche-bezeichnung-als-prueffall-war-nicht-rechtens](https://www.spiegel.de/politik/deutschland/afd-thueringen-oeffentliche-bezeichnung-als-prueffall-war-nicht-rechtens-a-cf002a01-040c-40c9-a99a-18819c3b192e#ref=rss)
-* [https://www.spiegel.de/panorama/schwedt-in-brandenburg-dach-einer-schwimmhalle-stuerzt-wenige-tage-vor-eroeffnung-ein](https://www.spiegel.de/panorama/schwedt-in-brandenburg-dach-einer-schwimmhalle-stuerzt-wenige-tage-vor-eroeffnung-ein-a-226a4f47-e739-40ce-a2bf-c2e1cd9a93e3#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-nutzung-sank-schon-im-juni](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-nutzung-sank-schon-im-juni-a-249a1f24-77dc-4a55-8dcc-e359d5fd2e80#ref=rss)
-* [https://www.spiegel.de/ausland/massenproteste-in-kuba-die-menschen-haben-die-angst-verloren](https://www.spiegel.de/ausland/massenproteste-in-kuba-die-menschen-haben-die-angst-verloren-a-f0c6ff95-937c-4128-9c61-55a25af4cf35#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-nutzung-sank-schon-im-juni](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-nutzung-sank-schon-im-juni-a-249a1f24-77dc-4a55-8dcc-e359d5fd2e80#ref=rss)
-* [https://www.spiegel.de/stil/rezept-fuer-pasta-mit-kohlrabi-und-moehren](https://www.spiegel.de/stil/rezept-fuer-pasta-mit-kohlrabi-und-moehren-a-1aca64d5-99c5-4ffc-b0a1-08c8aa6dc7f5#ref=rss)
-### ende
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-nutzung-sank-schon-im-juni](https://www.spiegel.de/wirtschaft/unternehmen/homeoffice-nutzung-sank-schon-im-juni-a-249a1f24-77dc-4a55-8dcc-e359d5fd2e80#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-fans-sorgen-am-finaltag-fuer-skandale-das-schlechteste-zum-schluss](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-fans-sorgen-am-finaltag-fuer-skandale-das-schlechteste-zum-schluss-a-286da569-5497-45ea-bfa4-172b294c8da9#ref=rss)
-### peter
-
-* [https://www.spiegel.de/panorama/leute/peter-kloeppel-kurzschluss-verursachte-stromausfall-bei-rtl-aktuell](https://www.spiegel.de/panorama/leute/peter-kloeppel-kurzschluss-verursachte-stromausfall-bei-rtl-aktuell-a-8479ab20-83a9-47f4-86c3-39e024001a67#ref=rss)
-### kloeppel
-
-* [https://www.spiegel.de/panorama/leute/peter-kloeppel-kurzschluss-verursachte-stromausfall-bei-rtl-aktuell](https://www.spiegel.de/panorama/leute/peter-kloeppel-kurzschluss-verursachte-stromausfall-bei-rtl-aktuell-a-8479ab20-83a9-47f4-86c3-39e024001a67#ref=rss)
-### rtl
-
-* [https://www.spiegel.de/panorama/leute/peter-kloeppel-kurzschluss-verursachte-stromausfall-bei-rtl-aktuell](https://www.spiegel.de/panorama/leute/peter-kloeppel-kurzschluss-verursachte-stromausfall-bei-rtl-aktuell-a-8479ab20-83a9-47f4-86c3-39e024001a67#ref=rss)
-### aktuell
-
-* [https://www.spiegel.de/panorama/leute/peter-kloeppel-kurzschluss-verursachte-stromausfall-bei-rtl-aktuell](https://www.spiegel.de/panorama/leute/peter-kloeppel-kurzschluss-verursachte-stromausfall-bei-rtl-aktuell-a-8479ab20-83a9-47f4-86c3-39e024001a67#ref=rss)
-### ausgelöst
-
-* [https://www.spiegel.de/panorama/leute/peter-kloeppel-kurzschluss-verursachte-stromausfall-bei-rtl-aktuell](https://www.spiegel.de/panorama/leute/peter-kloeppel-kurzschluss-verursachte-stromausfall-bei-rtl-aktuell-a-8479ab20-83a9-47f4-86c3-39e024001a67#ref=rss)
-* [https://www.spiegel.de/ausland/massenproteste-in-kuba-die-menschen-haben-die-angst-verloren](https://www.spiegel.de/ausland/massenproteste-in-kuba-die-menschen-haben-die-angst-verloren-a-f0c6ff95-937c-4128-9c61-55a25af4cf35#ref=rss)
-### feiern
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern](https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern-a-81a1d873-23ae-4c94-b586-adabe548dac1#ref=rss)
-### englandfans
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern](https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern-a-81a1d873-23ae-4c94-b586-adabe548dac1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-fans-sorgen-am-finaltag-fuer-skandale-das-schlechteste-zum-schluss](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-fans-sorgen-am-finaltag-fuer-skandale-das-schlechteste-zum-schluss-a-286da569-5497-45ea-bfa4-172b294c8da9#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern](https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern-a-81a1d873-23ae-4c94-b586-adabe548dac1#ref=rss)
-* [https://www.spiegel.de/panorama/schwedt-in-brandenburg-dach-einer-schwimmhalle-stuerzt-wenige-tage-vor-eroeffnung-ein](https://www.spiegel.de/panorama/schwedt-in-brandenburg-dach-einer-schwimmhalle-stuerzt-wenige-tage-vor-eroeffnung-ein-a-226a4f47-e739-40ce-a2bf-c2e1cd9a93e3#ref=rss)
-### stattdessen
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern](https://www.spiegel.de/sport/fussball/fussball-em-2021-italien-fans-feiern-england-fans-trauern-a-81a1d873-23ae-4c94-b586-adabe548dac1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-politiker-verlangen-abkehr-von-der-inzidenz-als-einzigem-massstab](https://www.spiegel.de/wissenschaft/medizin/corona-politiker-verlangen-abkehr-von-der-inzidenz-als-einzigem-massstab-a-7b7a0126-018a-47e7-ba12-bad1e46a5fe5#ref=rss)
-### finale
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate-a-8abcd5d0-ff39-4d3a-8307-4f7f556046cb#ref=rss)
-* [https://www.spiegel.de/sport/tennis/novak-djokovic-gewinnt-wimbledon-zum-sechsten-mal-an-der-spitze-thront-nur-einer](https://www.spiegel.de/sport/tennis/novak-djokovic-gewinnt-wimbledon-zum-sechsten-mal-an-der-spitze-thront-nur-einer-a-2dc8fa7f-5334-4816-b280-3dc3ee3e437f#ref=rss)
-### niederlage
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate-a-8abcd5d0-ff39-4d3a-8307-4f7f556046cb#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinz-george-der-kleine-britische-royal-begeistert-beim-em-finale](https://www.spiegel.de/panorama/leute/prinz-george-der-kleine-britische-royal-begeistert-beim-em-finale-a-f09d0b45-b4b6-4930-ab20-0a18129e0fd2#ref=rss)
-### gareth
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate-a-8abcd5d0-ff39-4d3a-8307-4f7f556046cb#ref=rss)
-### southgate
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate-a-8abcd5d0-ff39-4d3a-8307-4f7f556046cb#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate-a-8abcd5d0-ff39-4d3a-8307-4f7f556046cb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-preise-im-grosshandel-steigen-so-stark-wie-seit-1981-nicht-mehr](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-preise-im-grosshandel-steigen-so-stark-wie-seit-1981-nicht-mehr-a-dfb389fe-68f4-41a4-86cf-73248aa75537#ref=rss)
-### verliert
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-unterliegt-italien-im-finale-die-niederlage-des-gareth-southgate-a-8abcd5d0-ff39-4d3a-8307-4f7f556046cb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-politiker-verlangen-abkehr-von-der-inzidenz-als-einzigem-massstab](https://www.spiegel.de/wissenschaft/medizin/corona-politiker-verlangen-abkehr-von-der-inzidenz-als-einzigem-massstab-a-7b7a0126-018a-47e7-ba12-bad1e46a5fe5#ref=rss)
-### gehackt
-
-* [https://www.spiegel.de/netzwelt/web/spreadshirt-wurde-gehackt-kontodaten-von-kunden-betroffen](https://www.spiegel.de/netzwelt/web/spreadshirt-wurde-gehackt-kontodaten-von-kunden-betroffen-a-86a1c2fd-14b2-4897-9899-43d4b29a7969#ref=rss)
-### corona
-
-* [https://www.spiegel.de/panorama/bildung/corona-abiturienten-empfinden-wechselunterricht-als-sehr-belastend](https://www.spiegel.de/panorama/bildung/corona-abiturienten-empfinden-wechselunterricht-als-sehr-belastend-a-31901242-4463-41e6-a1b8-190af5de47fa#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-politiker-verlangen-abkehr-von-der-inzidenz-als-einzigem-massstab](https://www.spiegel.de/wissenschaft/medizin/corona-politiker-verlangen-abkehr-von-der-inzidenz-als-einzigem-massstab-a-7b7a0126-018a-47e7-ba12-bad1e46a5fe5#ref=rss)
-### abiturienten
-
-* [https://www.spiegel.de/panorama/bildung/corona-abiturienten-empfinden-wechselunterricht-als-sehr-belastend](https://www.spiegel.de/panorama/bildung/corona-abiturienten-empfinden-wechselunterricht-als-sehr-belastend-a-31901242-4463-41e6-a1b8-190af5de47fa#ref=rss)
-### zeigte
-
-* [https://www.spiegel.de/panorama/bildung/corona-abiturienten-empfinden-wechselunterricht-als-sehr-belastend](https://www.spiegel.de/panorama/bildung/corona-abiturienten-empfinden-wechselunterricht-als-sehr-belastend-a-31901242-4463-41e6-a1b8-190af5de47fa#ref=rss)
-* [https://www.spiegel.de/sport/tennis/novak-djokovic-gewinnt-wimbledon-zum-sechsten-mal-an-der-spitze-thront-nur-einer](https://www.spiegel.de/sport/tennis/novak-djokovic-gewinnt-wimbledon-zum-sechsten-mal-an-der-spitze-thront-nur-einer-a-2dc8fa7f-5334-4816-b280-3dc3ee3e437f#ref=rss)
-### verbraucherschützer
-
-* [https://www.spiegel.de/netzwelt/apps/verbraucherschuetzer-legen-eu-beschwerde-ueber-whatsapp-ein](https://www.spiegel.de/netzwelt/apps/verbraucherschuetzer-legen-eu-beschwerde-ueber-whatsapp-ein-a-9dbeecb8-2e0a-451d-9c19-43960344a060#ref=rss)
-### whatsapp
-
-* [https://www.spiegel.de/netzwelt/apps/verbraucherschuetzer-legen-eu-beschwerde-ueber-whatsapp-ein](https://www.spiegel.de/netzwelt/apps/verbraucherschuetzer-legen-eu-beschwerde-ueber-whatsapp-ein-a-9dbeecb8-2e0a-451d-9c19-43960344a060#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-politiker-verlangen-abkehr-von-der-inzidenz-als-einzigem-massstab](https://www.spiegel.de/wissenschaft/medizin/corona-politiker-verlangen-abkehr-von-der-inzidenz-als-einzigem-massstab-a-7b7a0126-018a-47e7-ba12-bad1e46a5fe5#ref=rss)
-### inzidenz
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-politiker-verlangen-abkehr-von-der-inzidenz-als-einzigem-massstab](https://www.spiegel.de/wissenschaft/medizin/corona-politiker-verlangen-abkehr-von-der-inzidenz-als-einzigem-massstab-a-7b7a0126-018a-47e7-ba12-bad1e46a5fe5#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/leute/prinz-george-der-kleine-britische-royal-begeistert-beim-em-finale](https://www.spiegel.de/panorama/leute/prinz-george-der-kleine-britische-royal-begeistert-beim-em-finale-a-f09d0b45-b4b6-4930-ab20-0a18129e0fd2#ref=rss)
-### kleine
-
-* [https://www.spiegel.de/panorama/leute/prinz-george-der-kleine-britische-royal-begeistert-beim-em-finale](https://www.spiegel.de/panorama/leute/prinz-george-der-kleine-britische-royal-begeistert-beim-em-finale-a-f09d0b45-b4b6-4930-ab20-0a18129e0fd2#ref=rss)
 ### kuba
 
-* [https://www.spiegel.de/ausland/massenproteste-in-kuba-die-menschen-haben-die-angst-verloren](https://www.spiegel.de/ausland/massenproteste-in-kuba-die-menschen-haben-die-angst-verloren-a-f0c6ff95-937c-4128-9c61-55a25af4cf35#ref=rss)
-### organisation
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-em-2020-inzidenz-kuba](https://www.spiegel.de/politik/deutschland/news-des-tages-em-2020-inzidenz-kuba-a-39c11b25-5652-480b-8297-af111a63fbc0#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen](https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen-a-beb738b3-8f9e-4eaa-80db-eb34b4a119e5#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-demonstrationen-in-mehreren-staedten-sie-lassen-uns-verhungern](https://www.spiegel.de/ausland/kuba-demonstrationen-in-mehreren-staedten-sie-lassen-uns-verhungern-a-3804fd94-49d1-4334-929b-c9b2c882ad63#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/wie-die-cdu-eine-umstrittene-organisation-in-den-wdr-rundfunkrat-hievte](https://www.spiegel.de/politik/deutschland/wie-die-cdu-eine-umstrittene-organisation-in-den-wdr-rundfunkrat-hievte-a-cf2669cd-8f5f-4e35-a7f8-c14c94860747#ref=rss)
-### schwedt
+* [https://www.spiegel.de/gesundheit/corona-infektionen-unter-jungen-menschen-kann-es-sichere-partys-geben](https://www.spiegel.de/gesundheit/corona-infektionen-unter-jungen-menschen-kann-es-sichere-partys-geben-a-b14f344f-f4f6-4ad9-9b7d-224977a468b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/atos-it-konzern-baut-1300-arbeitsplaetze-in-deutschland-ab](https://www.spiegel.de/wirtschaft/unternehmen/atos-it-konzern-baut-1300-arbeitsplaetze-in-deutschland-ab-a-abf628b8-789d-4982-8c39-0334714099df#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/shorts-youtube-startet-seinen-tiktok-konkurrenten-in-deutschland](https://www.spiegel.de/netzwelt/web/shorts-youtube-startet-seinen-tiktok-konkurrenten-in-deutschland-a-03198f29-d1fc-4046-932b-d031d5c3c58c#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/panorama/schwedt-in-brandenburg-dach-einer-schwimmhalle-stuerzt-wenige-tage-vor-eroeffnung-ein](https://www.spiegel.de/panorama/schwedt-in-brandenburg-dach-einer-schwimmhalle-stuerzt-wenige-tage-vor-eroeffnung-ein-a-226a4f47-e739-40ce-a2bf-c2e1cd9a93e3#ref=rss)
-### dach
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-em-2020-inzidenz-kuba](https://www.spiegel.de/politik/deutschland/news-des-tages-em-2020-inzidenz-kuba-a-39c11b25-5652-480b-8297-af111a63fbc0#ref=rss)
+* [https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen](https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen-a-e790a6ba-344f-489e-9e7a-73ae4010d942#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-demonstrationen-in-mehreren-staedten-sie-lassen-uns-verhungern](https://www.spiegel.de/ausland/kuba-demonstrationen-in-mehreren-staedten-sie-lassen-uns-verhungern-a-3804fd94-49d1-4334-929b-c9b2c882ad63#ref=rss)
+### mann
 
-* [https://www.spiegel.de/panorama/schwedt-in-brandenburg-dach-einer-schwimmhalle-stuerzt-wenige-tage-vor-eroeffnung-ein](https://www.spiegel.de/panorama/schwedt-in-brandenburg-dach-einer-schwimmhalle-stuerzt-wenige-tage-vor-eroeffnung-ein-a-226a4f47-e739-40ce-a2bf-c2e1cd9a93e3#ref=rss)
-### wenige
+* [https://www.spiegel.de/ausland/bulgarien-wahl-die-aera-bojko-borissow-geht-zu-ende](https://www.spiegel.de/ausland/bulgarien-wahl-die-aera-bojko-borissow-geht-zu-ende-a-6bc3e0d4-fb5a-48c0-8921-a7f32b47f49e#ref=rss)
+* [https://www.spiegel.de/panorama/neumuenster-betrunkener-18-jaehriger-schlaeft-im-gleisbett-ein](https://www.spiegel.de/panorama/neumuenster-betrunkener-18-jaehriger-schlaeft-im-gleisbett-ein-a-787898da-3f2f-4a78-895e-1b2b611c4343#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin](https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin-a-6a05bcbd-d58d-4b94-8af7-3bb01f2bbdc8#ref=rss)
+### zsa
 
-* [https://www.spiegel.de/panorama/schwedt-in-brandenburg-dach-einer-schwimmhalle-stuerzt-wenige-tage-vor-eroeffnung-ein](https://www.spiegel.de/panorama/schwedt-in-brandenburg-dach-einer-schwimmhalle-stuerzt-wenige-tage-vor-eroeffnung-ein-a-226a4f47-e739-40ce-a2bf-c2e1cd9a93e3#ref=rss)
-### tage
+* [https://www.spiegel.de/kultur/zsa-zsa-gabor-erhaelt-ehrengrab-in-budapest](https://www.spiegel.de/kultur/zsa-zsa-gabor-erhaelt-ehrengrab-in-budapest-a-7d436116-4c56-4c1e-81ff-6c1261661af1#ref=rss)
+### jungen
 
-* [https://www.spiegel.de/panorama/schwedt-in-brandenburg-dach-einer-schwimmhalle-stuerzt-wenige-tage-vor-eroeffnung-ein](https://www.spiegel.de/panorama/schwedt-in-brandenburg-dach-einer-schwimmhalle-stuerzt-wenige-tage-vor-eroeffnung-ein-a-226a4f47-e739-40ce-a2bf-c2e1cd9a93e3#ref=rss)
-### umfragewerte
+* [https://www.spiegel.de/gesundheit/corona-infektionen-unter-jungen-menschen-kann-es-sichere-partys-geben](https://www.spiegel.de/gesundheit/corona-infektionen-unter-jungen-menschen-kann-es-sichere-partys-geben-a-b14f344f-f4f6-4ad9-9b7d-224977a468b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/umfrage-maedchen-bekommen-noch-immer-weniger-taschengeld-als-jungen](https://www.spiegel.de/wirtschaft/service/umfrage-maedchen-bekommen-noch-immer-weniger-taschengeld-als-jungen-a-6c0161ea-35e3-4679-80d5-2461750a4ebc#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/brasilien-umfragewerte-von-praesident-jair-bolsonaro-so-schlecht-wie-nie](https://www.spiegel.de/ausland/brasilien-umfragewerte-von-praesident-jair-bolsonaro-so-schlecht-wie-nie-a-8025cb42-db11-45d8-8b24-9dc0f9e42717#ref=rss)
+* [https://www.spiegel.de/kultur/kino/jackie-chan-ich-will-mitglied-der-kommunistischen-partei-werden](https://www.spiegel.de/kultur/kino/jackie-chan-ich-will-mitglied-der-kommunistischen-partei-werden-a-b60fd2ae-d436-4afc-bc4e-82fe532ff0da#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen](https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen-a-beb738b3-8f9e-4eaa-80db-eb34b4a119e5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/atos-it-konzern-baut-1300-arbeitsplaetze-in-deutschland-ab](https://www.spiegel.de/wirtschaft/unternehmen/atos-it-konzern-baut-1300-arbeitsplaetze-in-deutschland-ab-a-abf628b8-789d-4982-8c39-0334714099df#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-em-2020-inzidenz-kuba](https://www.spiegel.de/politik/deutschland/news-des-tages-em-2020-inzidenz-kuba-a-39c11b25-5652-480b-8297-af111a63fbc0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/umfrage-maedchen-bekommen-noch-immer-weniger-taschengeld-als-jungen](https://www.spiegel.de/wirtschaft/service/umfrage-maedchen-bekommen-noch-immer-weniger-taschengeld-als-jungen-a-6c0161ea-35e3-4679-80d5-2461750a4ebc#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-em-2020-inzidenz-kuba](https://www.spiegel.de/politik/deutschland/news-des-tages-em-2020-inzidenz-kuba-a-39c11b25-5652-480b-8297-af111a63fbc0#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen](https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen-a-beb738b3-8f9e-4eaa-80db-eb34b4a119e5#ref=rss)
+* [https://www.spiegel.de/panorama/neumuenster-betrunkener-18-jaehriger-schlaeft-im-gleisbett-ein](https://www.spiegel.de/panorama/neumuenster-betrunkener-18-jaehriger-schlaeft-im-gleisbett-ein-a-787898da-3f2f-4a78-895e-1b2b611c4343#ref=rss)
+### erhält
+
+* [https://www.spiegel.de/kultur/zsa-zsa-gabor-erhaelt-ehrengrab-in-budapest](https://www.spiegel.de/kultur/zsa-zsa-gabor-erhaelt-ehrengrab-in-budapest-a-7d436116-4c56-4c1e-81ff-6c1261661af1#ref=rss)
+* [https://www.spiegel.de/politik/angela-merkel-erhaelt-ehrendoktorwuerde-der-johns-hopkins-universitaet](https://www.spiegel.de/politik/angela-merkel-erhaelt-ehrendoktorwuerde-der-johns-hopkins-universitaet-a-e0058a8d-61f0-4003-bf20-f528d10cc744#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam](https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam-a-dfd80650-6c32-4edf-83ef-85b8e4218404#ref=rss)
+### miri
+
+* [https://www.spiegel.de/panorama/justiz/clan-chef-ibrahim-miri-bremer-verwaltungsgericht-bestaetigt-einreisesperre-gegen-clanchef](https://www.spiegel.de/panorama/justiz/clan-chef-ibrahim-miri-bremer-verwaltungsgericht-bestaetigt-einreisesperre-gegen-clanchef-a-058d3e38-9de4-413b-b3ac-caaef926ae7b#ref=rss)
+### demonstrationen
+
+* [https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen](https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen-a-e790a6ba-344f-489e-9e7a-73ae4010d942#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen](https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen-a-beb738b3-8f9e-4eaa-80db-eb34b4a119e5#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-demonstrationen-in-mehreren-staedten-sie-lassen-uns-verhungern](https://www.spiegel.de/ausland/kuba-demonstrationen-in-mehreren-staedten-sie-lassen-uns-verhungern-a-3804fd94-49d1-4334-929b-c9b2c882ad63#ref=rss)
+### tote
+
+* [https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen](https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen-a-e790a6ba-344f-489e-9e7a-73ae4010d942#ref=rss)
+* [https://www.spiegel.de/panorama/indien-tote-durch-unwetter-beim-selfie-vom-blitz-getroffen](https://www.spiegel.de/panorama/indien-tote-durch-unwetter-beim-selfie-vom-blitz-getroffen-a-6531f550-fde7-4747-a9ea-a44d217b1944#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/sport/schach-wie-abhimanyu-mishra-der-juengste-grossmeister-der-geschichte-wurde](https://www.spiegel.de/sport/schach-wie-abhimanyu-mishra-der-juengste-grossmeister-der-geschichte-wurde-a-03d6db68-19a6-40f0-b512-20acd77c1620#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/daimler-zulieferer-farasis-batteriefabrik-in-bitterfeld-wolfen-steht-infrage](https://www.spiegel.de/wirtschaft/unternehmen/daimler-zulieferer-farasis-batteriefabrik-in-bitterfeld-wolfen-steht-infrage-a-ca2dc6f2-d548-45ca-9d25-faee827b8c0f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin](https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin-a-6a05bcbd-d58d-4b94-8af7-3bb01f2bbdc8#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/gesundheit/corona-infektionen-unter-jungen-menschen-kann-es-sichere-partys-geben](https://www.spiegel.de/gesundheit/corona-infektionen-unter-jungen-menschen-kann-es-sichere-partys-geben-a-b14f344f-f4f6-4ad9-9b7d-224977a468b6#ref=rss)
+* [https://www.spiegel.de/panorama/indien-tote-durch-unwetter-beim-selfie-vom-blitz-getroffen](https://www.spiegel.de/panorama/indien-tote-durch-unwetter-beim-selfie-vom-blitz-getroffen-a-6531f550-fde7-4747-a9ea-a44d217b1944#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/justiz/niedersachen-bank-angestelle-muss-ins-gefaengnis-weil-sie-sparkonten-leerraeumte](https://www.spiegel.de/panorama/justiz/niedersachen-bank-angestelle-muss-ins-gefaengnis-weil-sie-sparkonten-leerraeumte-a-7f86ad3b-9085-425f-95e6-90a6a4624b03#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin](https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin-a-6a05bcbd-d58d-4b94-8af7-3bb01f2bbdc8#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam](https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam-a-dfd80650-6c32-4edf-83ef-85b8e4218404#ref=rss)
+### chris
+
+* [https://www.spiegel.de/kultur/literatur/chris-whitaker-von-hier-bis-zum-anfang-rezension-zum-krimi](https://www.spiegel.de/kultur/literatur/chris-whitaker-von-hier-bis-zum-anfang-rezension-zum-krimi-a-d82b8129-d7c2-4cde-b39a-c6113c525762#ref=rss)
+### whitaker
+
+* [https://www.spiegel.de/kultur/literatur/chris-whitaker-von-hier-bis-zum-anfang-rezension-zum-krimi](https://www.spiegel.de/kultur/literatur/chris-whitaker-von-hier-bis-zum-anfang-rezension-zum-krimi-a-d82b8129-d7c2-4cde-b39a-c6113c525762#ref=rss)
+### lang
+
+* [https://www.spiegel.de/kultur/literatur/chris-whitaker-von-hier-bis-zum-anfang-rezension-zum-krimi](https://www.spiegel.de/kultur/literatur/chris-whitaker-von-hier-bis-zum-anfang-rezension-zum-krimi-a-d82b8129-d7c2-4cde-b39a-c6113c525762#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam](https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam-a-dfd80650-6c32-4edf-83ef-85b8e4218404#ref=rss)
+### jackie
+
+* [https://www.spiegel.de/kultur/kino/jackie-chan-ich-will-mitglied-der-kommunistischen-partei-werden](https://www.spiegel.de/kultur/kino/jackie-chan-ich-will-mitglied-der-kommunistischen-partei-werden-a-b60fd2ae-d436-4afc-bc4e-82fe532ff0da#ref=rss)
+### chan
+
+* [https://www.spiegel.de/kultur/kino/jackie-chan-ich-will-mitglied-der-kommunistischen-partei-werden](https://www.spiegel.de/kultur/kino/jackie-chan-ich-will-mitglied-der-kommunistischen-partei-werden-a-b60fd2ae-d436-4afc-bc4e-82fe532ff0da#ref=rss)
+### weber
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/weber-grillhersteller-will-an-die-boerse](https://www.spiegel.de/wirtschaft/unternehmen/weber-grillhersteller-will-an-die-boerse-a-75adfdfc-732d-4deb-8b0f-a113b8baa671#ref=rss)
+### börse
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/weber-grillhersteller-will-an-die-boerse](https://www.spiegel.de/wirtschaft/unternehmen/weber-grillhersteller-will-an-die-boerse-a-75adfdfc-732d-4deb-8b0f-a113b8baa671#ref=rss)
+### schaltet
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-em-2020-inzidenz-kuba](https://www.spiegel.de/politik/deutschland/news-des-tages-em-2020-inzidenz-kuba-a-39c11b25-5652-480b-8297-af111a63fbc0#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen](https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen-a-beb738b3-8f9e-4eaa-80db-eb34b4a119e5#ref=rss)
+### bojko
+
+* [https://www.spiegel.de/ausland/bulgarien-wahl-die-aera-bojko-borissow-geht-zu-ende](https://www.spiegel.de/ausland/bulgarien-wahl-die-aera-bojko-borissow-geht-zu-ende-a-6bc3e0d4-fb5a-48c0-8921-a7f32b47f49e#ref=rss)
+### borissow
+
+* [https://www.spiegel.de/ausland/bulgarien-wahl-die-aera-bojko-borissow-geht-zu-ende](https://www.spiegel.de/ausland/bulgarien-wahl-die-aera-bojko-borissow-geht-zu-ende-a-6bc3e0d4-fb5a-48c0-8921-a7f32b47f49e#ref=rss)
+### ende
+
+* [https://www.spiegel.de/ausland/bulgarien-wahl-die-aera-bojko-borissow-geht-zu-ende](https://www.spiegel.de/ausland/bulgarien-wahl-die-aera-bojko-borissow-geht-zu-ende-a-6bc3e0d4-fb5a-48c0-8921-a7f32b47f49e#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-erobern-weitere-provinzhauptstaedte](https://www.spiegel.de/ausland/afghanistan-taliban-erobern-weitere-provinzhauptstaedte-a-d8e064bb-4c88-4eeb-9668-9b083502f06b#ref=rss)
+### gabor
+
+* [https://www.spiegel.de/kultur/zsa-zsa-gabor-erhaelt-ehrengrab-in-budapest](https://www.spiegel.de/kultur/zsa-zsa-gabor-erhaelt-ehrengrab-in-budapest-a-7d436116-4c56-4c1e-81ff-6c1261661af1#ref=rss)
+### clanchef
+
+* [https://www.spiegel.de/panorama/justiz/clan-chef-ibrahim-miri-bremer-verwaltungsgericht-bestaetigt-einreisesperre-gegen-clanchef](https://www.spiegel.de/panorama/justiz/clan-chef-ibrahim-miri-bremer-verwaltungsgericht-bestaetigt-einreisesperre-gegen-clanchef-a-058d3e38-9de4-413b-b3ac-caaef926ae7b#ref=rss)
+### ibrahim
+
+* [https://www.spiegel.de/panorama/justiz/clan-chef-ibrahim-miri-bremer-verwaltungsgericht-bestaetigt-einreisesperre-gegen-clanchef](https://www.spiegel.de/panorama/justiz/clan-chef-ibrahim-miri-bremer-verwaltungsgericht-bestaetigt-einreisesperre-gegen-clanchef-a-058d3e38-9de4-413b-b3ac-caaef926ae7b#ref=rss)
+### bremer
+
+* [https://www.spiegel.de/panorama/justiz/clan-chef-ibrahim-miri-bremer-verwaltungsgericht-bestaetigt-einreisesperre-gegen-clanchef](https://www.spiegel.de/panorama/justiz/clan-chef-ibrahim-miri-bremer-verwaltungsgericht-bestaetigt-einreisesperre-gegen-clanchef-a-058d3e38-9de4-413b-b3ac-caaef926ae7b#ref=rss)
+### verwaltungsgericht
+
+* [https://www.spiegel.de/panorama/justiz/clan-chef-ibrahim-miri-bremer-verwaltungsgericht-bestaetigt-einreisesperre-gegen-clanchef](https://www.spiegel.de/panorama/justiz/clan-chef-ibrahim-miri-bremer-verwaltungsgericht-bestaetigt-einreisesperre-gegen-clanchef-a-058d3e38-9de4-413b-b3ac-caaef926ae7b#ref=rss)
+### südafrika
+
+* [https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen](https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen-a-e790a6ba-344f-489e-9e7a-73ae4010d942#ref=rss)
 ### präsident
 
-* [https://www.spiegel.de/ausland/brasilien-umfragewerte-von-praesident-jair-bolsonaro-so-schlecht-wie-nie](https://www.spiegel.de/ausland/brasilien-umfragewerte-von-praesident-jair-bolsonaro-so-schlecht-wie-nie-a-8025cb42-db11-45d8-8b24-9dc0f9e42717#ref=rss)
-### jair
+* [https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen](https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen-a-e790a6ba-344f-489e-9e7a-73ae4010d942#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen](https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen-a-beb738b3-8f9e-4eaa-80db-eb34b4a119e5#ref=rss)
+### gefängnis
 
-* [https://www.spiegel.de/ausland/brasilien-umfragewerte-von-praesident-jair-bolsonaro-so-schlecht-wie-nie](https://www.spiegel.de/ausland/brasilien-umfragewerte-von-praesident-jair-bolsonaro-so-schlecht-wie-nie-a-8025cb42-db11-45d8-8b24-9dc0f9e42717#ref=rss)
-### bolsonaro
+* [https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen](https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen-a-e790a6ba-344f-489e-9e7a-73ae4010d942#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niedersachen-bank-angestelle-muss-ins-gefaengnis-weil-sie-sparkonten-leerraeumte](https://www.spiegel.de/panorama/justiz/niedersachen-bank-angestelle-muss-ins-gefaengnis-weil-sie-sparkonten-leerraeumte-a-7f86ad3b-9085-425f-95e6-90a6a4624b03#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/brasilien-umfragewerte-von-praesident-jair-bolsonaro-so-schlecht-wie-nie](https://www.spiegel.de/ausland/brasilien-umfragewerte-von-praesident-jair-bolsonaro-so-schlecht-wie-nie-a-8025cb42-db11-45d8-8b24-9dc0f9e42717#ref=rss)
-### pandemie
+* [https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen](https://www.spiegel.de/ausland/suedafrika-regierung-will-polizei-bei-demonstrationen-mit-soldaten-unterstuetzen-a-e790a6ba-344f-489e-9e7a-73ae4010d942#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niedersachen-bank-angestelle-muss-ins-gefaengnis-weil-sie-sparkonten-leerraeumte](https://www.spiegel.de/panorama/justiz/niedersachen-bank-angestelle-muss-ins-gefaengnis-weil-sie-sparkonten-leerraeumte-a-7f86ad3b-9085-425f-95e6-90a6a4624b03#ref=rss)
+### schach
 
-* [https://www.spiegel.de/ausland/brasilien-umfragewerte-von-praesident-jair-bolsonaro-so-schlecht-wie-nie](https://www.spiegel.de/ausland/brasilien-umfragewerte-von-praesident-jair-bolsonaro-so-schlecht-wie-nie-a-8025cb42-db11-45d8-8b24-9dc0f9e42717#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturumfrage-firmen-sind-trotz-lieferengpaessen-zuversichtlich](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturumfrage-firmen-sind-trotz-lieferengpaessen-zuversichtlich-a-172bb698-b432-4d03-ab52-b343f4f2c814#ref=rss)
+* [https://www.spiegel.de/sport/schach-wie-abhimanyu-mishra-der-juengste-grossmeister-der-geschichte-wurde](https://www.spiegel.de/sport/schach-wie-abhimanyu-mishra-der-juengste-grossmeister-der-geschichte-wurde-a-03d6db68-19a6-40f0-b512-20acd77c1620#ref=rss)
+### abhimanyu
+
+* [https://www.spiegel.de/sport/schach-wie-abhimanyu-mishra-der-juengste-grossmeister-der-geschichte-wurde](https://www.spiegel.de/sport/schach-wie-abhimanyu-mishra-der-juengste-grossmeister-der-geschichte-wurde-a-03d6db68-19a6-40f0-b512-20acd77c1620#ref=rss)
+### mishra
+
+* [https://www.spiegel.de/sport/schach-wie-abhimanyu-mishra-der-juengste-grossmeister-der-geschichte-wurde](https://www.spiegel.de/sport/schach-wie-abhimanyu-mishra-der-juengste-grossmeister-der-geschichte-wurde-a-03d6db68-19a6-40f0-b512-20acd77c1620#ref=rss)
+### großmeister
+
+* [https://www.spiegel.de/sport/schach-wie-abhimanyu-mishra-der-juengste-grossmeister-der-geschichte-wurde](https://www.spiegel.de/sport/schach-wie-abhimanyu-mishra-der-juengste-grossmeister-der-geschichte-wurde-a-03d6db68-19a6-40f0-b512-20acd77c1620#ref=rss)
+### gegner
+
+* [https://www.spiegel.de/sport/schach-wie-abhimanyu-mishra-der-juengste-grossmeister-der-geschichte-wurde](https://www.spiegel.de/sport/schach-wie-abhimanyu-mishra-der-juengste-grossmeister-der-geschichte-wurde-a-03d6db68-19a6-40f0-b512-20acd77c1620#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/fehmarnbelt-tunnel-der-widerstand-haelt-an-doch-es-wird-schon-gebaut](https://www.spiegel.de/wirtschaft/unternehmen/fehmarnbelt-tunnel-der-widerstand-haelt-an-doch-es-wird-schon-gebaut-a-2e992eec-84e5-4cfd-b0e6-d2c6233c5a30#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/angela-merkel-erhaelt-ehrendoktorwuerde-der-johns-hopkins-universitaet](https://www.spiegel.de/politik/angela-merkel-erhaelt-ehrendoktorwuerde-der-johns-hopkins-universitaet-a-e0058a8d-61f0-4003-bf20-f528d10cc744#ref=rss)
+### ehrendoktorwürde
+
+* [https://www.spiegel.de/politik/angela-merkel-erhaelt-ehrendoktorwuerde-der-johns-hopkins-universitaet](https://www.spiegel.de/politik/angela-merkel-erhaelt-ehrendoktorwuerde-der-johns-hopkins-universitaet-a-e0058a8d-61f0-4003-bf20-f528d10cc744#ref=rss)
+### biodiversität
+
+* [https://www.spiegel.de/wissenschaft/natur/strategie-fuer-artenschutz-so-soll-die-biodiversitaet-der-welt-gerettet-werden](https://www.spiegel.de/wissenschaft/natur/strategie-fuer-artenschutz-so-soll-die-biodiversitaet-der-welt-gerettet-werden-a-3d96b5c3-834f-431f-9314-b49371def354#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wissenschaft/natur/strategie-fuer-artenschutz-so-soll-die-biodiversitaet-der-welt-gerettet-werden](https://www.spiegel.de/wissenschaft/natur/strategie-fuer-artenschutz-so-soll-die-biodiversitaet-der-welt-gerettet-werden-a-3d96b5c3-834f-431f-9314-b49371def354#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/daimler-zulieferer-farasis-batteriefabrik-in-bitterfeld-wolfen-steht-infrage](https://www.spiegel.de/wirtschaft/unternehmen/daimler-zulieferer-farasis-batteriefabrik-in-bitterfeld-wolfen-steht-infrage-a-ca2dc6f2-d548-45ca-9d25-faee827b8c0f#ref=rss)
+### gebaut
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/fehmarnbelt-tunnel-der-widerstand-haelt-an-doch-es-wird-schon-gebaut](https://www.spiegel.de/wirtschaft/unternehmen/fehmarnbelt-tunnel-der-widerstand-haelt-an-doch-es-wird-schon-gebaut-a-2e992eec-84e5-4cfd-b0e6-d2c6233c5a30#ref=rss)
+### einige
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/fehmarnbelt-tunnel-der-widerstand-haelt-an-doch-es-wird-schon-gebaut](https://www.spiegel.de/wirtschaft/unternehmen/fehmarnbelt-tunnel-der-widerstand-haelt-an-doch-es-wird-schon-gebaut-a-2e992eec-84e5-4cfd-b0e6-d2c6233c5a30#ref=rss)
+* [https://www.spiegel.de/panorama/leute/papst-franziskus-muss-nach-seiner-darm-op-noch-einige-tage-im-krankenhaus-bleiben](https://www.spiegel.de/panorama/leute/papst-franziskus-muss-nach-seiner-darm-op-noch-einige-tage-im-krankenhaus-bleiben-a-ad144140-8aef-42fa-96dd-0d64febbe15e#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/ausland/brasilien-umfragewerte-von-praesident-jair-bolsonaro-so-schlecht-wie-nie](https://www.spiegel.de/ausland/brasilien-umfragewerte-von-praesident-jair-bolsonaro-so-schlecht-wie-nie-a-8025cb42-db11-45d8-8b24-9dc0f9e42717#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bruchsal-mann-laesst-16-monate-altes-kind-im-fussraum-des-autos-mitfahren](https://www.spiegel.de/panorama/justiz/bruchsal-mann-laesst-16-monate-altes-kind-im-fussraum-des-autos-mitfahren-a-6dd2a93e-b736-4c2a-9a8a-9ae7cfa00142#ref=rss)
-### covpassapp
+* [https://www.spiegel.de/gesundheit/corona-infektionen-unter-jungen-menschen-kann-es-sichere-partys-geben](https://www.spiegel.de/gesundheit/corona-infektionen-unter-jungen-menschen-kann-es-sichere-partys-geben-a-b14f344f-f4f6-4ad9-9b7d-224977a468b6#ref=rss)
+### bitterfeldwolfen
 
-* [https://www.spiegel.de/netzwelt/apps/corona-impfnachweis-so-klappt-der-qr-code-scan-mit-der-covpass-app](https://www.spiegel.de/netzwelt/apps/corona-impfnachweis-so-klappt-der-qr-code-scan-mit-der-covpass-app-a-b612cebd-f381-4efa-83b6-80fbb2697057#ref=rss)
-### tipps
+* [https://www.spiegel.de/wirtschaft/unternehmen/daimler-zulieferer-farasis-batteriefabrik-in-bitterfeld-wolfen-steht-infrage](https://www.spiegel.de/wirtschaft/unternehmen/daimler-zulieferer-farasis-batteriefabrik-in-bitterfeld-wolfen-steht-infrage-a-ca2dc6f2-d548-45ca-9d25-faee827b8c0f#ref=rss)
+### komplett
 
-* [https://www.spiegel.de/netzwelt/apps/corona-impfnachweis-so-klappt-der-qr-code-scan-mit-der-covpass-app](https://www.spiegel.de/netzwelt/apps/corona-impfnachweis-so-klappt-der-qr-code-scan-mit-der-covpass-app-a-b612cebd-f381-4efa-83b6-80fbb2697057#ref=rss)
-* [https://www.spiegel.de/karriere/ich-bin-ein-macher-aber-mein-chef-haelt-mich-klein-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/ich-bin-ein-macher-aber-mein-chef-haelt-mich-klein-tipps-vom-karrierecoach-a-9a3b0ad4-2c46-4e42-9421-75ed60656e73#ref=rss)
-### novak
+* [https://www.spiegel.de/wirtschaft/unternehmen/daimler-zulieferer-farasis-batteriefabrik-in-bitterfeld-wolfen-steht-infrage](https://www.spiegel.de/wirtschaft/unternehmen/daimler-zulieferer-farasis-batteriefabrik-in-bitterfeld-wolfen-steht-infrage-a-ca2dc6f2-d548-45ca-9d25-faee827b8c0f#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen](https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen-a-beb738b3-8f9e-4eaa-80db-eb34b4a119e5#ref=rss)
+### russland
 
-* [https://www.spiegel.de/sport/tennis/novak-djokovic-gewinnt-wimbledon-zum-sechsten-mal-an-der-spitze-thront-nur-einer](https://www.spiegel.de/sport/tennis/novak-djokovic-gewinnt-wimbledon-zum-sechsten-mal-an-der-spitze-thront-nur-einer-a-2dc8fa7f-5334-4816-b280-3dc3ee3e437f#ref=rss)
-### gewinnt
+* [https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen](https://www.spiegel.de/ausland/kuba-russland-warnt-nach-demonstrationen-vor-einmischung-von-aussen-a-beb738b3-8f9e-4eaa-80db-eb34b4a119e5#ref=rss)
+### neumünster
 
-* [https://www.spiegel.de/sport/tennis/novak-djokovic-gewinnt-wimbledon-zum-sechsten-mal-an-der-spitze-thront-nur-einer](https://www.spiegel.de/sport/tennis/novak-djokovic-gewinnt-wimbledon-zum-sechsten-mal-an-der-spitze-thront-nur-einer-a-2dc8fa7f-5334-4816-b280-3dc3ee3e437f#ref=rss)
-* [https://www.spiegel.de/stil/rezept-fuer-pasta-mit-kohlrabi-und-moehren](https://www.spiegel.de/stil/rezept-fuer-pasta-mit-kohlrabi-und-moehren-a-1aca64d5-99c5-4ffc-b0a1-08c8aa6dc7f5#ref=rss)
-### nächste
+* [https://www.spiegel.de/panorama/neumuenster-betrunkener-18-jaehriger-schlaeft-im-gleisbett-ein](https://www.spiegel.de/panorama/neumuenster-betrunkener-18-jaehriger-schlaeft-im-gleisbett-ein-a-787898da-3f2f-4a78-895e-1b2b611c4343#ref=rss)
+### atos
 
-* [https://www.spiegel.de/sport/tennis/novak-djokovic-gewinnt-wimbledon-zum-sechsten-mal-an-der-spitze-thront-nur-einer](https://www.spiegel.de/sport/tennis/novak-djokovic-gewinnt-wimbledon-zum-sechsten-mal-an-der-spitze-thront-nur-einer-a-2dc8fa7f-5334-4816-b280-3dc3ee3e437f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/usa-und-kanada-meteorologen-warnen-vor-erneuter-hitzewelle](https://www.spiegel.de/panorama/gesellschaft/usa-und-kanada-meteorologen-warnen-vor-erneuter-hitzewelle-a-6d3e4b4b-a7ae-428a-ae19-7e88816baab3#ref=rss)
-### giannis
+* [https://www.spiegel.de/wirtschaft/unternehmen/atos-it-konzern-baut-1300-arbeitsplaetze-in-deutschland-ab](https://www.spiegel.de/wirtschaft/unternehmen/atos-it-konzern-baut-1300-arbeitsplaetze-in-deutschland-ab-a-abf628b8-789d-4982-8c39-0334714099df#ref=rss)
+### baut
 
-* [https://www.spiegel.de/sport/basketball/nba-star-giannis-antetokounmpo-ich-bin-nicht-michael-jordan](https://www.spiegel.de/sport/basketball/nba-star-giannis-antetokounmpo-ich-bin-nicht-michael-jordan-a-57aac620-fdc3-4bbc-ba55-c07da3588165#ref=rss)
-### antetokounmpo
+* [https://www.spiegel.de/wirtschaft/unternehmen/atos-it-konzern-baut-1300-arbeitsplaetze-in-deutschland-ab](https://www.spiegel.de/wirtschaft/unternehmen/atos-it-konzern-baut-1300-arbeitsplaetze-in-deutschland-ab-a-abf628b8-789d-4982-8c39-0334714099df#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/shorts-youtube-startet-seinen-tiktok-konkurrenten-in-deutschland](https://www.spiegel.de/netzwelt/web/shorts-youtube-startet-seinen-tiktok-konkurrenten-in-deutschland-a-03198f29-d1fc-4046-932b-d031d5c3c58c#ref=rss)
+### 1300
 
-* [https://www.spiegel.de/sport/basketball/nba-star-giannis-antetokounmpo-ich-bin-nicht-michael-jordan](https://www.spiegel.de/sport/basketball/nba-star-giannis-antetokounmpo-ich-bin-nicht-michael-jordan-a-57aac620-fdc3-4bbc-ba55-c07da3588165#ref=rss)
-### ich
+* [https://www.spiegel.de/wirtschaft/unternehmen/atos-it-konzern-baut-1300-arbeitsplaetze-in-deutschland-ab](https://www.spiegel.de/wirtschaft/unternehmen/atos-it-konzern-baut-1300-arbeitsplaetze-in-deutschland-ab-a-abf628b8-789d-4982-8c39-0334714099df#ref=rss)
+### namhafte
 
-* [https://www.spiegel.de/sport/basketball/nba-star-giannis-antetokounmpo-ich-bin-nicht-michael-jordan](https://www.spiegel.de/sport/basketball/nba-star-giannis-antetokounmpo-ich-bin-nicht-michael-jordan-a-57aac620-fdc3-4bbc-ba55-c07da3588165#ref=rss)
-* [https://www.spiegel.de/karriere/ich-bin-ein-macher-aber-mein-chef-haelt-mich-klein-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/ich-bin-ein-macher-aber-mein-chef-haelt-mich-klein-tipps-vom-karrierecoach-a-9a3b0ad4-2c46-4e42-9421-75ed60656e73#ref=rss)
-### bin
+* [https://www.spiegel.de/kultur/tv/streit-um-weltspiegel-sendeplatz-namhafte-korrespondenten-appellieren-an-die-ard](https://www.spiegel.de/kultur/tv/streit-um-weltspiegel-sendeplatz-namhafte-korrespondenten-appellieren-an-die-ard-a-1d322405-8045-4654-8698-61feec18b890#ref=rss)
+### korrespondenten
 
-* [https://www.spiegel.de/sport/basketball/nba-star-giannis-antetokounmpo-ich-bin-nicht-michael-jordan](https://www.spiegel.de/sport/basketball/nba-star-giannis-antetokounmpo-ich-bin-nicht-michael-jordan-a-57aac620-fdc3-4bbc-ba55-c07da3588165#ref=rss)
-* [https://www.spiegel.de/karriere/ich-bin-ein-macher-aber-mein-chef-haelt-mich-klein-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/ich-bin-ein-macher-aber-mein-chef-haelt-mich-klein-tipps-vom-karrierecoach-a-9a3b0ad4-2c46-4e42-9421-75ed60656e73#ref=rss)
-### sieg
+* [https://www.spiegel.de/kultur/tv/streit-um-weltspiegel-sendeplatz-namhafte-korrespondenten-appellieren-an-die-ard](https://www.spiegel.de/kultur/tv/streit-um-weltspiegel-sendeplatz-namhafte-korrespondenten-appellieren-an-die-ard-a-1d322405-8045-4654-8698-61feec18b890#ref=rss)
+### papst
 
-* [https://www.spiegel.de/sport/basketball/nba-star-giannis-antetokounmpo-ich-bin-nicht-michael-jordan](https://www.spiegel.de/sport/basketball/nba-star-giannis-antetokounmpo-ich-bin-nicht-michael-jordan-a-57aac620-fdc3-4bbc-ba55-c07da3588165#ref=rss)
-* [https://www.spiegel.de/ausland/moldau-moldau-stimmt-fuer-eine-annaeherung-an-die-eu](https://www.spiegel.de/ausland/moldau-moldau-stimmt-fuer-eine-annaeherung-an-die-eu-a-86e70ab4-da53-4012-845c-12235278fa7a#ref=rss)
-### fußraum
+* [https://www.spiegel.de/panorama/leute/papst-franziskus-muss-nach-seiner-darm-op-noch-einige-tage-im-krankenhaus-bleiben](https://www.spiegel.de/panorama/leute/papst-franziskus-muss-nach-seiner-darm-op-noch-einige-tage-im-krankenhaus-bleiben-a-ad144140-8aef-42fa-96dd-0d64febbe15e#ref=rss)
+### franziskus
 
-* [https://www.spiegel.de/panorama/justiz/bruchsal-mann-laesst-16-monate-altes-kind-im-fussraum-des-autos-mitfahren](https://www.spiegel.de/panorama/justiz/bruchsal-mann-laesst-16-monate-altes-kind-im-fussraum-des-autos-mitfahren-a-6dd2a93e-b736-4c2a-9a8a-9ae7cfa00142#ref=rss)
-### autos
+* [https://www.spiegel.de/panorama/leute/papst-franziskus-muss-nach-seiner-darm-op-noch-einige-tage-im-krankenhaus-bleiben](https://www.spiegel.de/panorama/leute/papst-franziskus-muss-nach-seiner-darm-op-noch-einige-tage-im-krankenhaus-bleiben-a-ad144140-8aef-42fa-96dd-0d64febbe15e#ref=rss)
+### darmop
 
-* [https://www.spiegel.de/panorama/justiz/bruchsal-mann-laesst-16-monate-altes-kind-im-fussraum-des-autos-mitfahren](https://www.spiegel.de/panorama/justiz/bruchsal-mann-laesst-16-monate-altes-kind-im-fussraum-des-autos-mitfahren-a-6dd2a93e-b736-4c2a-9a8a-9ae7cfa00142#ref=rss)
-### hotel
+* [https://www.spiegel.de/panorama/leute/papst-franziskus-muss-nach-seiner-darm-op-noch-einige-tage-im-krankenhaus-bleiben](https://www.spiegel.de/panorama/leute/papst-franziskus-muss-nach-seiner-darm-op-noch-einige-tage-im-krankenhaus-bleiben-a-ad144140-8aef-42fa-96dd-0d64febbe15e#ref=rss)
+### krankenhaus
 
-* [https://www.spiegel.de/panorama/olympia-2021-hotel-in-tokio-entschuldigt-sich-fuer-nur-fuer-japaner-schilder](https://www.spiegel.de/panorama/olympia-2021-hotel-in-tokio-entschuldigt-sich-fuer-nur-fuer-japaner-schilder-a-b77524e3-714c-4af2-8d82-03b5b97152a6#ref=rss)
-### tokio
+* [https://www.spiegel.de/panorama/leute/papst-franziskus-muss-nach-seiner-darm-op-noch-einige-tage-im-krankenhaus-bleiben](https://www.spiegel.de/panorama/leute/papst-franziskus-muss-nach-seiner-darm-op-noch-einige-tage-im-krankenhaus-bleiben-a-ad144140-8aef-42fa-96dd-0d64febbe15e#ref=rss)
+### maßnahmen
 
-* [https://www.spiegel.de/panorama/olympia-2021-hotel-in-tokio-entschuldigt-sich-fuer-nur-fuer-japaner-schilder](https://www.spiegel.de/panorama/olympia-2021-hotel-in-tokio-entschuldigt-sich-fuer-nur-fuer-japaner-schilder-a-b77524e3-714c-4af2-8d82-03b5b97152a6#ref=rss)
-### ausländer
+* [https://www.spiegel.de/panorama/leute/papst-franziskus-muss-nach-seiner-darm-op-noch-einige-tage-im-krankenhaus-bleiben](https://www.spiegel.de/panorama/leute/papst-franziskus-muss-nach-seiner-darm-op-noch-einige-tage-im-krankenhaus-bleiben-a-ad144140-8aef-42fa-96dd-0d64febbe15e#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-demonstrationen-in-mehreren-staedten-sie-lassen-uns-verhungern](https://www.spiegel.de/ausland/kuba-demonstrationen-in-mehreren-staedten-sie-lassen-uns-verhungern-a-3804fd94-49d1-4334-929b-c9b2c882ad63#ref=rss)
+### mehreren
 
-* [https://www.spiegel.de/panorama/olympia-2021-hotel-in-tokio-entschuldigt-sich-fuer-nur-fuer-japaner-schilder](https://www.spiegel.de/panorama/olympia-2021-hotel-in-tokio-entschuldigt-sich-fuer-nur-fuer-japaner-schilder-a-b77524e3-714c-4af2-8d82-03b5b97152a6#ref=rss)
-### hitzewelle
+* [https://www.spiegel.de/ausland/kuba-demonstrationen-in-mehreren-staedten-sie-lassen-uns-verhungern](https://www.spiegel.de/ausland/kuba-demonstrationen-in-mehreren-staedten-sie-lassen-uns-verhungern-a-3804fd94-49d1-4334-929b-c9b2c882ad63#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin](https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin-a-6a05bcbd-d58d-4b94-8af7-3bb01f2bbdc8#ref=rss)
+### youtube
 
-* [https://www.spiegel.de/panorama/gesellschaft/usa-und-kanada-meteorologen-warnen-vor-erneuter-hitzewelle](https://www.spiegel.de/panorama/gesellschaft/usa-und-kanada-meteorologen-warnen-vor-erneuter-hitzewelle-a-6d3e4b4b-a7ae-428a-ae19-7e88816baab3#ref=rss)
-### preise
+* [https://www.spiegel.de/netzwelt/web/shorts-youtube-startet-seinen-tiktok-konkurrenten-in-deutschland](https://www.spiegel.de/netzwelt/web/shorts-youtube-startet-seinen-tiktok-konkurrenten-in-deutschland-a-03198f29-d1fc-4046-932b-d031d5c3c58c#ref=rss)
+### bankangestellte
 
-* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-preise-im-grosshandel-steigen-so-stark-wie-seit-1981-nicht-mehr](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-preise-im-grosshandel-steigen-so-stark-wie-seit-1981-nicht-mehr-a-dfb389fe-68f4-41a4-86cf-73248aa75537#ref=rss)
-### großhandel
+* [https://www.spiegel.de/panorama/justiz/niedersachen-bank-angestelle-muss-ins-gefaengnis-weil-sie-sparkonten-leerraeumte](https://www.spiegel.de/panorama/justiz/niedersachen-bank-angestelle-muss-ins-gefaengnis-weil-sie-sparkonten-leerraeumte-a-7f86ad3b-9085-425f-95e6-90a6a4624b03#ref=rss)
+### sparkonten
 
-* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-preise-im-grosshandel-steigen-so-stark-wie-seit-1981-nicht-mehr](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-preise-im-grosshandel-steigen-so-stark-wie-seit-1981-nicht-mehr-a-dfb389fe-68f4-41a4-86cf-73248aa75537#ref=rss)
-### chef
+* [https://www.spiegel.de/panorama/justiz/niedersachen-bank-angestelle-muss-ins-gefaengnis-weil-sie-sparkonten-leerraeumte](https://www.spiegel.de/panorama/justiz/niedersachen-bank-angestelle-muss-ins-gefaengnis-weil-sie-sparkonten-leerraeumte-a-7f86ad3b-9085-425f-95e6-90a6a4624b03#ref=rss)
+### frau
 
-* [https://www.spiegel.de/karriere/ich-bin-ein-macher-aber-mein-chef-haelt-mich-klein-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/ich-bin-ein-macher-aber-mein-chef-haelt-mich-klein-tipps-vom-karrierecoach-a-9a3b0ad4-2c46-4e42-9421-75ed60656e73#ref=rss)
-### jochen
+* [https://www.spiegel.de/panorama/justiz/niedersachen-bank-angestelle-muss-ins-gefaengnis-weil-sie-sparkonten-leerraeumte](https://www.spiegel.de/panorama/justiz/niedersachen-bank-angestelle-muss-ins-gefaengnis-weil-sie-sparkonten-leerraeumte-a-7f86ad3b-9085-425f-95e6-90a6a4624b03#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin](https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin-a-6a05bcbd-d58d-4b94-8af7-3bb01f2bbdc8#ref=rss)
+### richard
 
-* [https://www.spiegel.de/karriere/ich-bin-ein-macher-aber-mein-chef-haelt-mich-klein-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/ich-bin-ein-macher-aber-mein-chef-haelt-mich-klein-tipps-vom-karrierecoach-a-9a3b0ad4-2c46-4e42-9421-75ed60656e73#ref=rss)
-### richtung
+* [https://www.spiegel.de/ausland/richard-bransons-trip-ins-all-von-dem-geld-koennte-man-viele-corona-impfungen-kaufen](https://www.spiegel.de/ausland/richard-bransons-trip-ins-all-von-dem-geld-koennte-man-viele-corona-impfungen-kaufen-a-a5ed7c50-2867-4ca4-ab16-a15c71586a76#ref=rss)
+### trip
 
-* [https://www.spiegel.de/ausland/moldau-moldau-stimmt-fuer-eine-annaeherung-an-die-eu](https://www.spiegel.de/ausland/moldau-moldau-stimmt-fuer-eine-annaeherung-an-die-eu-a-86e70ab4-da53-4012-845c-12235278fa7a#ref=rss)
-### firmen
+* [https://www.spiegel.de/ausland/richard-bransons-trip-ins-all-von-dem-geld-koennte-man-viele-corona-impfungen-kaufen](https://www.spiegel.de/ausland/richard-bransons-trip-ins-all-von-dem-geld-koennte-man-viele-corona-impfungen-kaufen-a-a5ed7c50-2867-4ca4-ab16-a15c71586a76#ref=rss)
+### geld
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/konjunkturumfrage-firmen-sind-trotz-lieferengpaessen-zuversichtlich](https://www.spiegel.de/wirtschaft/unternehmen/konjunkturumfrage-firmen-sind-trotz-lieferengpaessen-zuversichtlich-a-172bb698-b432-4d03-ab52-b343f4f2c814#ref=rss)
+* [https://www.spiegel.de/ausland/richard-bransons-trip-ins-all-von-dem-geld-koennte-man-viele-corona-impfungen-kaufen](https://www.spiegel.de/ausland/richard-bransons-trip-ins-all-von-dem-geld-koennte-man-viele-corona-impfungen-kaufen-a-a5ed7c50-2867-4ca4-ab16-a15c71586a76#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-erobern-weitere-provinzhauptstaedte](https://www.spiegel.de/ausland/afghanistan-taliban-erobern-weitere-provinzhauptstaedte-a-d8e064bb-4c88-4eeb-9668-9b083502f06b#ref=rss)
+### taliban
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-erobern-weitere-provinzhauptstaedte](https://www.spiegel.de/ausland/afghanistan-taliban-erobern-weitere-provinzhauptstaedte-a-d8e064bb-4c88-4eeb-9668-9b083502f06b#ref=rss)
+### indien
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-erobern-weitere-provinzhauptstaedte](https://www.spiegel.de/ausland/afghanistan-taliban-erobern-weitere-provinzhauptstaedte-a-d8e064bb-4c88-4eeb-9668-9b083502f06b#ref=rss)
+* [https://www.spiegel.de/panorama/indien-tote-durch-unwetter-beim-selfie-vom-blitz-getroffen](https://www.spiegel.de/panorama/indien-tote-durch-unwetter-beim-selfie-vom-blitz-getroffen-a-6531f550-fde7-4747-a9ea-a44d217b1944#ref=rss)
+### a8
+
+* [https://www.spiegel.de/panorama/a8-in-oberbayern-kuh-springt-von-anhaenger-und-laeuft-ueber-die-autobahn](https://www.spiegel.de/panorama/a8-in-oberbayern-kuh-springt-von-anhaenger-und-laeuft-ueber-die-autobahn-a-e6a5deb0-e950-4b8d-9087-b2949ebcbeec#ref=rss)
+### kuh
+
+* [https://www.spiegel.de/panorama/a8-in-oberbayern-kuh-springt-von-anhaenger-und-laeuft-ueber-die-autobahn](https://www.spiegel.de/panorama/a8-in-oberbayern-kuh-springt-von-anhaenger-und-laeuft-ueber-die-autobahn-a-e6a5deb0-e950-4b8d-9087-b2949ebcbeec#ref=rss)
+### braunschweig
+
+* [https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin](https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin-a-6a05bcbd-d58d-4b94-8af7-3bb01f2bbdc8#ref=rss)
+### goldbarren
+
+* [https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin](https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin-a-6a05bcbd-d58d-4b94-8af7-3bb01f2bbdc8#ref=rss)
+### polizistin
+
+* [https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin](https://www.spiegel.de/panorama/justiz/braunschweig-mann-uebergibt-echten-goldbarren-an-falsche-polizistin-a-6a05bcbd-d58d-4b94-8af7-3bb01f2bbdc8#ref=rss)
+### taschengeld
+
+* [https://www.spiegel.de/wirtschaft/service/umfrage-maedchen-bekommen-noch-immer-weniger-taschengeld-als-jungen](https://www.spiegel.de/wirtschaft/service/umfrage-maedchen-bekommen-noch-immer-weniger-taschengeld-als-jungen-a-6c0161ea-35e3-4679-80d5-2461750a4ebc#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/wirtschaft/service/umfrage-maedchen-bekommen-noch-immer-weniger-taschengeld-als-jungen](https://www.spiegel.de/wirtschaft/service/umfrage-maedchen-bekommen-noch-immer-weniger-taschengeld-als-jungen-a-6c0161ea-35e3-4679-80d5-2461750a4ebc#ref=rss)
+### elf
+
+* [https://www.spiegel.de/wirtschaft/service/umfrage-maedchen-bekommen-noch-immer-weniger-taschengeld-als-jungen](https://www.spiegel.de/wirtschaft/service/umfrage-maedchen-bekommen-noch-immer-weniger-taschengeld-als-jungen-a-6c0161ea-35e3-4679-80d5-2461750a4ebc#ref=rss)
+* [https://www.spiegel.de/panorama/indien-tote-durch-unwetter-beim-selfie-vom-blitz-getroffen](https://www.spiegel.de/panorama/indien-tote-durch-unwetter-beim-selfie-vom-blitz-getroffen-a-6531f550-fde7-4747-a9ea-a44d217b1944#ref=rss)
+### selfie
+
+* [https://www.spiegel.de/panorama/indien-tote-durch-unwetter-beim-selfie-vom-blitz-getroffen](https://www.spiegel.de/panorama/indien-tote-durch-unwetter-beim-selfie-vom-blitz-getroffen-a-6531f550-fde7-4747-a9ea-a44d217b1944#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam](https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam-a-dfd80650-6c32-4edf-83ef-85b8e4218404#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam](https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam-a-dfd80650-6c32-4edf-83ef-85b8e4218404#ref=rss)
+### keinen
+
+* [https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam](https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam-a-dfd80650-6c32-4edf-83ef-85b8e4218404#ref=rss)
+### kitaplatz
+
+* [https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam](https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam-a-dfd80650-6c32-4edf-83ef-85b8e4218404#ref=rss)
+### bekam
+
+* [https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam](https://www.spiegel.de/panorama/bildung/frankfurt-am-main-mutter-erhaelt-23-000-euro-weil-sie-keinen-kitaplatz-bekam-a-dfd80650-6c32-4edf-83ef-85b8e4218404#ref=rss)
 
