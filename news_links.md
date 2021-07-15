@@ -4,334 +4,380 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### de
 
-* [https://www.spiegel.de/wirtschaft/soziales/armut-alleinerziehende-und-ihre-kinder-besonders-haeufig-betroffen](https://www.spiegel.de/wirtschaft/soziales/armut-alleinerziehende-und-ihre-kinder-besonders-haeufig-betroffen-a-7a016e53-5498-47eb-b338-709ccaba6f72#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/freiheitsrechte-wann-enden-die-corona-massnahmen-in-deutschland](https://www.spiegel.de/politik/deutschland/freiheitsrechte-wann-enden-die-corona-massnahmen-in-deutschland-a-63f7700e-7cb3-4d62-b82a-d88a271f4262#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-delta-variante-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/medizin/corona-delta-variante-breitet-sich-in-deutschland-weiter-aus-a-4119c289-cbb2-495b-acb9-651e4048c1fa#ref=rss)
-* [https://www.spiegel.de/karriere/eugh-kopftuchverbote-muessen-arbeitgeber-gut-begruenden](https://www.spiegel.de/karriere/eugh-kopftuchverbote-muessen-arbeitgeber-gut-begruenden-a-df2aa63b-35c0-4a1b-a8f9-1679fc9f78b0#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-die-verwuestungen-des-hochwassers](https://www.spiegel.de/panorama/wetter-in-deutschland-die-verwuestungen-des-hochwassers-a-73d32c41-33f6-481c-a4a5-5e3fdccad68b#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/polen-warum-der-konflikt-mit-warschau-fuer-europa-gefaehrlicher-ist-als-der-brexit-kommentar](https://www.spiegel.de/ausland/polen-warum-der-konflikt-mit-warschau-fuer-europa-gefaehrlicher-ist-als-der-brexit-kommentar-a-829ec649-21c3-4e07-8562-c269e588a3b1#ref=rss)
-* [https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein](https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein-a-9efb98a2-f0e9-4400-9236-453122d8c4e2#ref=rss)
-* [https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits](https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits-a-89aae6a6-4a0f-46c8-8260-325b7f61ef46#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit](https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit-a-33bf339d-d86f-49fc-bbb3-8579d3648d5d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen](https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen-a-a83e4af6-4caa-43ce-98d5-169b5fcdc3a3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen](https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen-a-2bf7efab-6b7d-4ffe-86ef-fde41a341de7#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe](https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe-a-0f8357c9-f296-4258-a275-07bd0c0514c0#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern](https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern-a-ad06534d-ddf6-4ac4-9ad1-6d9e98cc6307#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst](https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst-a-16b0e7c9-8a7c-42a2-9f3f-e22033e74212#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-die-verwuestungen-des-hochwassers](https://www.spiegel.de/panorama/wetter-in-deutschland-die-verwuestungen-des-hochwassers-a-73d32c41-33f6-481c-a4a5-5e3fdccad68b#ref=rss)
-### dagegen
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz](https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz-a-642dba34-4fb8-4b41-9fa3-1011c55a51c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen](https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen-a-2bf7efab-6b7d-4ffe-86ef-fde41a341de7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht-a-883ef1dd-f871-41d0-af3c-372ee55829e7#ref=rss)
+* [https://www.spiegel.de/panorama/estonia-vorstudie-bestaetigt-loecher-im-schiffsrumpf](https://www.spiegel.de/panorama/estonia-vorstudie-bestaetigt-loecher-im-schiffsrumpf-a-4a6d52cc-71ba-4e8c-9e08-d76173682b96#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream](https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream-a-c473cf0f-5c21-4606-bd8b-4bee3a6039c3#ref=rss)
+* [https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren](https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren-a-9f5294f2-e2cd-44b1-b27b-fe9569f1ece0#ref=rss)
+### angela
 
-* [https://www.spiegel.de/ausland/polen-warum-der-konflikt-mit-warschau-fuer-europa-gefaehrlicher-ist-als-der-brexit-kommentar](https://www.spiegel.de/ausland/polen-warum-der-konflikt-mit-warschau-fuer-europa-gefaehrlicher-ist-als-der-brexit-kommentar-a-829ec649-21c3-4e07-8562-c269e588a3b1#ref=rss)
-* [https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein](https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein-a-9efb98a2-f0e9-4400-9236-453122d8c4e2#ref=rss)
-* [https://www.spiegel.de/ausland/corona-impfpflicht-in-welchen-laendern-gibt-es-sie-schon](https://www.spiegel.de/ausland/corona-impfpflicht-in-welchen-laendern-gibt-es-sie-schon-a-3e183b3c-f073-4fa6-88a2-99ea3052e65e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht](https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht-a-95b0d21d-e9e0-4d54-854a-0207409b3a5f#ref=rss)
-### schuld
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-spricht-ueber-plaene-nach-ende-ihrer-amtszeit](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-spricht-ueber-plaene-nach-ende-ihrer-amtszeit-a-910c25b8-440b-4494-b89b-35de969947cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht-a-883ef1dd-f871-41d0-af3c-372ee55829e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream](https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream-a-c473cf0f-5c21-4606-bd8b-4bee3a6039c3#ref=rss)
+### merkel
 
-* [https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung](https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung-a-e9765f13-93c9-4612-b1e6-fa833ba20cce#ref=rss)
-* [https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern](https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern-a-ad06534d-ddf6-4ac4-9ad1-6d9e98cc6307#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst](https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst-a-16b0e7c9-8a7c-42a2-9f3f-e22033e74212#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-spricht-ueber-plaene-nach-ende-ihrer-amtszeit](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-spricht-ueber-plaene-nach-ende-ihrer-amtszeit-a-910c25b8-440b-4494-b89b-35de969947cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht-a-883ef1dd-f871-41d0-af3c-372ee55829e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream](https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream-a-c473cf0f-5c21-4606-bd8b-4bee3a6039c3#ref=rss)
 ### unwetter
 
-* [https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung](https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung-a-e9765f13-93c9-4612-b1e6-fa833ba20cce#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen](https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen-a-b28bec56-b6b8-4c2a-a57a-2167e663aa7a#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst](https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst-a-16b0e7c9-8a7c-42a2-9f3f-e22033e74212#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-die-verwuestungen-des-hochwassers](https://www.spiegel.de/panorama/wetter-in-deutschland-die-verwuestungen-des-hochwassers-a-73d32c41-33f6-481c-a4a5-5e3fdccad68b#ref=rss)
-### kinder
+* [https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet](https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet-a-a91c83a5-5e00-4ee5-b507-2586f4deef45#ref=rss)
+* [https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe](https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe-a-42c7a3a1-cf3b-41dc-8a6b-2425ef05172f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream](https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream-a-c473cf0f-5c21-4606-bd8b-4bee3a6039c3#ref=rss)
+* [https://www.spiegel.de/panorama/unwetter-in-der-eifel-amateure-filmen-auswirkungen-oh-mein-gott-oh-nein](https://www.spiegel.de/panorama/unwetter-in-der-eifel-amateure-filmen-auswirkungen-oh-mein-gott-oh-nein-a-932786b4-9ff0-4392-9e22-74d2485dfd71#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/soziales/armut-alleinerziehende-und-ihre-kinder-besonders-haeufig-betroffen](https://www.spiegel.de/wirtschaft/soziales/armut-alleinerziehende-und-ihre-kinder-besonders-haeufig-betroffen-a-7a016e53-5498-47eb-b338-709ccaba6f72#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen-a-574ce865-f15a-4cde-af1c-851af62d5d42#ref=rss)
-### nrw
+* [https://www.spiegel.de/wissenschaft/natur/deutschland-wie-kam-es-zu-den-ueberschwemmungen-in-nordrhein-westfalen-und-der-eifel](https://www.spiegel.de/wissenschaft/natur/deutschland-wie-kam-es-zu-den-ueberschwemmungen-in-nordrhein-westfalen-und-der-eifel-a-7dd926e1-ca32-4140-863a-4d964f7619e4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream](https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream-a-c473cf0f-5c21-4606-bd8b-4bee3a6039c3#ref=rss)
+### peter
 
-* [https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern](https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern-a-ad06534d-ddf6-4ac4-9ad1-6d9e98cc6307#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst](https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst-a-16b0e7c9-8a7c-42a2-9f3f-e22033e74212#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hochwasser-in-rheinland-pfalz-und-nrw-malu-dreyer-spricht-von-katastrophe](https://www.spiegel.de/politik/deutschland/hochwasser-in-rheinland-pfalz-und-nrw-malu-dreyer-spricht-von-katastrophe-a-13432809-f6b6-405f-85a3-836a3d3485d6#ref=rss)
-### ländern
+* [https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen](https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen-a-a83e4af6-4caa-43ce-98d5-169b5fcdc3a3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen](https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen-a-2bf7efab-6b7d-4ffe-86ef-fde41a341de7#ref=rss)
+### r
 
-* [https://www.spiegel.de/ausland/corona-impfpflicht-in-welchen-laendern-gibt-es-sie-schon](https://www.spiegel.de/ausland/corona-impfpflicht-in-welchen-laendern-gibt-es-sie-schon-a-3e183b3c-f073-4fa6-88a2-99ea3052e65e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen-a-574ce865-f15a-4cde-af1c-851af62d5d42#ref=rss)
-* [https://www.spiegel.de/ausland/corona-in-afrika-delta-treibt-die-infektionszahlen-in-die-hoehe](https://www.spiegel.de/ausland/corona-in-afrika-delta-treibt-die-infektionszahlen-in-die-hoehe-a-99b9d3bc-d0d6-4b3b-aee0-4d82ca90600b#ref=rss)
-### eu
+* [https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen](https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen-a-a83e4af6-4caa-43ce-98d5-169b5fcdc3a3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen](https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen-a-2bf7efab-6b7d-4ffe-86ef-fde41a341de7#ref=rss)
+### vries
 
-* [https://www.spiegel.de/ausland/polen-warum-der-konflikt-mit-warschau-fuer-europa-gefaehrlicher-ist-als-der-brexit-kommentar](https://www.spiegel.de/ausland/polen-warum-der-konflikt-mit-warschau-fuer-europa-gefaehrlicher-ist-als-der-brexit-kommentar-a-829ec649-21c3-4e07-8562-c269e588a3b1#ref=rss)
-* [https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein](https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein-a-9efb98a2-f0e9-4400-9236-453122d8c4e2#ref=rss)
-* [https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits](https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits-a-89aae6a6-4a0f-46c8-8260-325b7f61ef46#ref=rss)
-### hochwasser
-
-* [https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung](https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung-a-e9765f13-93c9-4612-b1e6-fa833ba20cce#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen](https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen-a-b28bec56-b6b8-4c2a-a57a-2167e663aa7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hochwasser-in-rheinland-pfalz-und-nrw-malu-dreyer-spricht-von-katastrophe](https://www.spiegel.de/politik/deutschland/hochwasser-in-rheinland-pfalz-und-nrw-malu-dreyer-spricht-von-katastrophe-a-13432809-f6b6-405f-85a3-836a3d3485d6#ref=rss)
-### eifelort
-
-* [https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung](https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung-a-e9765f13-93c9-4612-b1e6-fa833ba20cce#ref=rss)
-* [https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern](https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern-a-ad06534d-ddf6-4ac4-9ad1-6d9e98cc6307#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst](https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst-a-16b0e7c9-8a7c-42a2-9f3f-e22033e74212#ref=rss)
-### vier
-
-* [https://www.spiegel.de/sport/fussball/em-2021-vier-festnahmen-in-england-nach-rassistischen-beleidigungen-gegen-nationalspieler](https://www.spiegel.de/sport/fussball/em-2021-vier-festnahmen-in-england-nach-rassistischen-beleidigungen-gegen-nationalspieler-a-2d99ba32-a403-422a-a3c8-0fb948f0351e#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst](https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst-a-16b0e7c9-8a7c-42a2-9f3f-e22033e74212#ref=rss)
-### schweren
-
-* [https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern](https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern-a-ad06534d-ddf6-4ac4-9ad1-6d9e98cc6307#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst](https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst-a-16b0e7c9-8a7c-42a2-9f3f-e22033e74212#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/panini-alex-rodriguez-will-die-traditionsfirma-in-seine-firmensammlung-aufnehmen](https://www.spiegel.de/wirtschaft/unternehmen/panini-alex-rodriguez-will-die-traditionsfirma-in-seine-firmensammlung-aufnehmen-a-474e1b22-4e9f-4d05-8d36-7114e6b2e6eb#ref=rss)
-* [https://www.spiegel.de/panorama/cuxhaven-karibik-segler-havarieren-nach-einem-jahr-fahrt-vor-cuxhaven](https://www.spiegel.de/panorama/cuxhaven-karibik-segler-havarieren-nach-einem-jahr-fahrt-vor-cuxhaven-a-054ab981-3d04-4d88-bc7f-6e5870e18091#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-delta-variante-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/medizin/corona-delta-variante-breitet-sich-in-deutschland-weiter-aus-a-4119c289-cbb2-495b-acb9-651e4048c1fa#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/netzwelt/web/dataskop-von-algorithmwatch-was-zeigt-youtube-ihnen-vor-der-bundestagswahl](https://www.spiegel.de/netzwelt/web/dataskop-von-algorithmwatch-was-zeigt-youtube-ihnen-vor-der-bundestagswahl-a-1246a33f-b21a-4a61-bb64-07f2a5bd59c3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht](https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht-a-95b0d21d-e9e0-4d54-854a-0207409b3a5f#ref=rss)
-### cuxhaven
-
-* [https://www.spiegel.de/panorama/cuxhaven-karibik-segler-havarieren-nach-einem-jahr-fahrt-vor-cuxhaven](https://www.spiegel.de/panorama/cuxhaven-karibik-segler-havarieren-nach-einem-jahr-fahrt-vor-cuxhaven-a-054ab981-3d04-4d88-bc7f-6e5870e18091#ref=rss)
-### deltavariante
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-delta-variante-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/medizin/corona-delta-variante-breitet-sich-in-deutschland-weiter-aus-a-4119c289-cbb2-495b-acb9-651e4048c1fa#ref=rss)
-* [https://www.spiegel.de/ausland/corona-in-afrika-delta-treibt-die-infektionszahlen-in-die-hoehe](https://www.spiegel.de/ausland/corona-in-afrika-delta-treibt-die-infektionszahlen-in-die-hoehe-a-99b9d3bc-d0d6-4b3b-aee0-4d82ca90600b#ref=rss)
-### eugh
-
-* [https://www.spiegel.de/ausland/eugh-polens-disziplinarsystem-fuer-richter-verstoesst-gegen-eu-recht](https://www.spiegel.de/ausland/eugh-polens-disziplinarsystem-fuer-richter-verstoesst-gegen-eu-recht-a-5c65d0da-5de5-4a5b-9de9-0429e3755cdd#ref=rss)
-* [https://www.spiegel.de/karriere/eugh-kopftuchverbote-muessen-arbeitgeber-gut-begruenden](https://www.spiegel.de/karriere/eugh-kopftuchverbote-muessen-arbeitgeber-gut-begruenden-a-df2aa63b-35c0-4a1b-a8f9-1679fc9f78b0#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/stil/spot-on-ausstellung-im-vitra-design-museum-die-frauen-hinter-den-designklassikern](https://www.spiegel.de/stil/spot-on-ausstellung-im-vitra-design-museum-die-frauen-hinter-den-designklassikern-a-cc90569f-3f3e-4d36-998e-41f5286ea27f#ref=rss)
-### warschau
-
-* [https://www.spiegel.de/ausland/polen-warum-der-konflikt-mit-warschau-fuer-europa-gefaehrlicher-ist-als-der-brexit-kommentar](https://www.spiegel.de/ausland/polen-warum-der-konflikt-mit-warschau-fuer-europa-gefaehrlicher-ist-als-der-brexit-kommentar-a-829ec649-21c3-4e07-8562-c269e588a3b1#ref=rss)
-* [https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits](https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits-a-89aae6a6-4a0f-46c8-8260-325b7f61ef46#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/polen-warum-der-konflikt-mit-warschau-fuer-europa-gefaehrlicher-ist-als-der-brexit-kommentar](https://www.spiegel.de/ausland/polen-warum-der-konflikt-mit-warschau-fuer-europa-gefaehrlicher-ist-als-der-brexit-kommentar-a-829ec649-21c3-4e07-8562-c269e588a3b1#ref=rss)
-* [https://www.spiegel.de/geschichte/carepakete-liebesgaben-aus-uebersee](https://www.spiegel.de/geschichte/carepakete-liebesgaben-aus-uebersee-a-1e95832b-fb45-4e71-8039-819ee2cabc56#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein](https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein-a-9efb98a2-f0e9-4400-9236-453122d8c4e2#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein](https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein-a-9efb98a2-f0e9-4400-9236-453122d8c4e2#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/microsoft-stellt-cloud-windows-vor](https://www.spiegel.de/netzwelt/gadgets/microsoft-stellt-cloud-windows-vor-a-e88fefe7-86b6-4a61-a741-6609c9129605#ref=rss)
-### dutzende
-
-* [https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein](https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein-a-9efb98a2-f0e9-4400-9236-453122d8c4e2#ref=rss)
-* [https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern](https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern-a-ad06534d-ddf6-4ac4-9ad1-6d9e98cc6307#ref=rss)
-### gemeinden
-
-* [https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein](https://www.spiegel.de/politik/eu-leitet-verfahren-gegen-ungarn-und-polen-ein-a-9efb98a2-f0e9-4400-9236-453122d8c4e2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen](https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen-a-b28bec56-b6b8-4c2a-a57a-2167e663aa7a#ref=rss)
-### eifel
-
-* [https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung](https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung-a-e9765f13-93c9-4612-b1e6-fa833ba20cce#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst](https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst-a-16b0e7c9-8a7c-42a2-9f3f-e22033e74212#ref=rss)
-### häuser
-
-* [https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung](https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung-a-e9765f13-93c9-4612-b1e6-fa833ba20cce#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst](https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst-a-16b0e7c9-8a7c-42a2-9f3f-e22033e74212#ref=rss)
-### drohnen
-
-* [https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung](https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung-a-e9765f13-93c9-4612-b1e6-fa833ba20cce#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/hamburger-hafen-wird-drohnen-testgebiet](https://www.spiegel.de/wirtschaft/unternehmen/hamburger-hafen-wird-drohnen-testgebiet-a-3baecf02-5f24-4da0-886f-9711a361a26a#ref=rss)
-### stark
-
-* [https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung](https://www.spiegel.de/panorama/eifel-hochwasser-in-schuld-luftaufnahmen-zeigen-ausmass-der-zerstoerung-a-e9765f13-93c9-4612-b1e6-fa833ba20cce#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen-a-574ce865-f15a-4cde-af1c-851af62d5d42#ref=rss)
-### alleinerziehende
-
-* [https://www.spiegel.de/wirtschaft/soziales/armut-alleinerziehende-und-ihre-kinder-besonders-haeufig-betroffen](https://www.spiegel.de/wirtschaft/soziales/armut-alleinerziehende-und-ihre-kinder-besonders-haeufig-betroffen-a-7a016e53-5498-47eb-b338-709ccaba6f72#ref=rss)
-### jede
-
-* [https://www.spiegel.de/wirtschaft/soziales/armut-alleinerziehende-und-ihre-kinder-besonders-haeufig-betroffen](https://www.spiegel.de/wirtschaft/soziales/armut-alleinerziehende-und-ihre-kinder-besonders-haeufig-betroffen-a-7a016e53-5498-47eb-b338-709ccaba6f72#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/soziales/armut-alleinerziehende-und-ihre-kinder-besonders-haeufig-betroffen](https://www.spiegel.de/wirtschaft/soziales/armut-alleinerziehende-und-ihre-kinder-besonders-haeufig-betroffen-a-7a016e53-5498-47eb-b338-709ccaba6f72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/panini-alex-rodriguez-will-die-traditionsfirma-in-seine-firmensammlung-aufnehmen](https://www.spiegel.de/wirtschaft/unternehmen/panini-alex-rodriguez-will-die-traditionsfirma-in-seine-firmensammlung-aufnehmen-a-474e1b22-4e9f-4d05-8d36-7114e6b2e6eb#ref=rss)
-### leben
-
-* [https://www.spiegel.de/wirtschaft/soziales/armut-alleinerziehende-und-ihre-kinder-besonders-haeufig-betroffen](https://www.spiegel.de/wirtschaft/soziales/armut-alleinerziehende-und-ihre-kinder-besonders-haeufig-betroffen-a-7a016e53-5498-47eb-b338-709ccaba6f72#ref=rss)
-* [https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern](https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern-a-ad06534d-ddf6-4ac4-9ad1-6d9e98cc6307#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/kultur/hongkong-journalistenverband-beklagt-zunehmende-einschraenkungen-der-pressefreiheit](https://www.spiegel.de/kultur/hongkong-journalistenverband-beklagt-zunehmende-einschraenkungen-der-pressefreiheit-a-f3a5d696-db6a-4042-8c12-7be4df54a58d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht](https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht-a-95b0d21d-e9e0-4d54-854a-0207409b3a5f#ref=rss)
-### aktuelle
-
-* [https://www.spiegel.de/kultur/hongkong-journalistenverband-beklagt-zunehmende-einschraenkungen-der-pressefreiheit](https://www.spiegel.de/kultur/hongkong-journalistenverband-beklagt-zunehmende-einschraenkungen-der-pressefreiheit-a-f3a5d696-db6a-4042-8c12-7be4df54a58d#ref=rss)
-* [https://www.spiegel.de/karriere/eugh-kopftuchverbote-muessen-arbeitgeber-gut-begruenden](https://www.spiegel.de/karriere/eugh-kopftuchverbote-muessen-arbeitgeber-gut-begruenden-a-df2aa63b-35c0-4a1b-a8f9-1679fc9f78b0#ref=rss)
-### armin
-
-* [https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen](https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen-a-b28bec56-b6b8-4c2a-a57a-2167e663aa7a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen](https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen-a-a83e4af6-4caa-43ce-98d5-169b5fcdc3a3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen](https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen-a-2bf7efab-6b7d-4ffe-86ef-fde41a341de7#ref=rss)
 ### laschet
 
-* [https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen](https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen-a-b28bec56-b6b8-4c2a-a57a-2167e663aa7a#ref=rss)
-### besucht
+* [https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet](https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet-a-a91c83a5-5e00-4ee5-b507-2586f4deef45#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-ohne-armin-laschet-auf-csu-klausur-kein-bisschen-frieden](https://www.spiegel.de/politik/deutschland/markus-soeder-ohne-armin-laschet-auf-csu-klausur-kein-bisschen-frieden-a-2a9f7459-4502-409b-afd7-594e9819f2c0#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen](https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen-a-b28bec56-b6b8-4c2a-a57a-2167e663aa7a#ref=rss)
-### betroffene
+* [https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet](https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet-a-a91c83a5-5e00-4ee5-b507-2586f4deef45#ref=rss)
+* [https://www.spiegel.de/panorama/estonia-vorstudie-bestaetigt-loecher-im-schiffsrumpf](https://www.spiegel.de/panorama/estonia-vorstudie-bestaetigt-loecher-im-schiffsrumpf-a-4a6d52cc-71ba-4e8c-9e08-d76173682b96#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo](https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo-a-29c3e5c1-c9ab-4c50-99b8-7bf0cc9d141e#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen](https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen-a-b28bec56-b6b8-4c2a-a57a-2167e663aa7a#ref=rss)
-### nordrheinwestfalen
+* [https://www.spiegel.de/wirtschaft/brexit-rechnung-grossbritannien-will-drei-milliarden-pfund-weniger-zahlen](https://www.spiegel.de/wirtschaft/brexit-rechnung-grossbritannien-will-drei-milliarden-pfund-weniger-zahlen-a-82e005ee-4a94-4257-839b-eb1ebf77c8d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht-a-883ef1dd-f871-41d0-af3c-372ee55829e7#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-regierungsbildung-erneut-gescheitert](https://www.spiegel.de/ausland/libanon-regierungsbildung-erneut-gescheitert-a-d07a3a9f-69e5-4c66-bcdb-16009763a744#ref=rss)
+* [https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren](https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren-a-9f5294f2-e2cd-44b1-b27b-fe9569f1ece0#ref=rss)
+### tadej
 
-* [https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen](https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen-a-b28bec56-b6b8-4c2a-a57a-2167e663aa7a#ref=rss)
-### statt
+* [https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit](https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit-a-33bf339d-d86f-49fc-bbb3-8579d3648d5d#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe](https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe-a-0f8357c9-f296-4258-a275-07bd0c0514c0#ref=rss)
+### pogačar
 
-* [https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen](https://www.spiegel.de/politik/deutschland/hochwasser-armin-laschet-besucht-betroffene-gemeinden-in-nordrhein-westfalen-a-b28bec56-b6b8-4c2a-a57a-2167e663aa7a#ref=rss)
-* [https://www.spiegel.de/ausland/corona-in-afrika-delta-treibt-die-infektionszahlen-in-die-hoehe](https://www.spiegel.de/ausland/corona-in-afrika-delta-treibt-die-infektionszahlen-in-die-hoehe-a-99b9d3bc-d0d6-4b3b-aee0-4d82ca90600b#ref=rss)
-### nationalspieler
+* [https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit](https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit-a-33bf339d-d86f-49fc-bbb3-8579d3648d5d#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe](https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe-a-0f8357c9-f296-4258-a275-07bd0c0514c0#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/sport/fussball/em-2021-vier-festnahmen-in-england-nach-rassistischen-beleidigungen-gegen-nationalspieler](https://www.spiegel.de/sport/fussball/em-2021-vier-festnahmen-in-england-nach-rassistischen-beleidigungen-gegen-nationalspieler-a-2d99ba32-a403-422a-a3c8-0fb948f0351e#ref=rss)
-### rheinlandpfalz
+* [https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit](https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit-a-33bf339d-d86f-49fc-bbb3-8579d3648d5d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz](https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz-a-642dba34-4fb8-4b41-9fa3-1011c55a51c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream](https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream-a-c473cf0f-5c21-4606-bd8b-4bee3a6039c3#ref=rss)
+### spiel
 
-* [https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern](https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern-a-ad06534d-ddf6-4ac4-9ad1-6d9e98cc6307#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hochwasser-in-rheinland-pfalz-und-nrw-malu-dreyer-spricht-von-katastrophe](https://www.spiegel.de/politik/deutschland/hochwasser-in-rheinland-pfalz-und-nrw-malu-dreyer-spricht-von-katastrophe-a-13432809-f6b6-405f-85a3-836a3d3485d6#ref=rss)
-### unwettern
+* [https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit](https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit-a-33bf339d-d86f-49fc-bbb3-8579d3648d5d#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo](https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo-a-29c3e5c1-c9ab-4c50-99b8-7bf0cc9d141e#ref=rss)
+### pläne
 
-* [https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern](https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern-a-ad06534d-ddf6-4ac4-9ad1-6d9e98cc6307#ref=rss)
-### vermisst
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-spricht-ueber-plaene-nach-ende-ihrer-amtszeit](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-spricht-ueber-plaene-nach-ende-ihrer-amtszeit-a-910c25b8-440b-4494-b89b-35de969947cb#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschuetzer-stoppen-hamburger-alleingang-gegen-whatsapp](https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschuetzer-stoppen-hamburger-alleingang-gegen-whatsapp-a-7c65157f-eff4-4694-b0e6-e242b5be3b0f#ref=rss)
+### westen
 
-* [https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern](https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern-a-ad06534d-ddf6-4ac4-9ad1-6d9e98cc6307#ref=rss)
-* [https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst](https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst-a-16b0e7c9-8a7c-42a2-9f3f-e22033e74212#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern](https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern-a-ad06534d-ddf6-4ac4-9ad1-6d9e98cc6307#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht](https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht-a-95b0d21d-e9e0-4d54-854a-0207409b3a5f#ref=rss)
-### kamen
-
-* [https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern](https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern-a-ad06534d-ddf6-4ac4-9ad1-6d9e98cc6307#ref=rss)
-* [https://www.spiegel.de/geschichte/carepakete-liebesgaben-aus-uebersee](https://www.spiegel.de/geschichte/carepakete-liebesgaben-aus-uebersee-a-1e95832b-fb45-4e71-8039-819ee2cabc56#ref=rss)
-### lage
-
-* [https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern](https://www.spiegel.de/panorama/nrw-und-rheinland-pfalz-tote-nach-schweren-unwettern-a-ad06534d-ddf6-4ac4-9ad1-6d9e98cc6307#ref=rss)
-* [https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits](https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits-a-89aae6a6-4a0f-46c8-8260-325b7f61ef46#ref=rss)
-### traditionsfirma
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/panini-alex-rodriguez-will-die-traditionsfirma-in-seine-firmensammlung-aufnehmen](https://www.spiegel.de/wirtschaft/unternehmen/panini-alex-rodriguez-will-die-traditionsfirma-in-seine-firmensammlung-aufnehmen-a-474e1b22-4e9f-4d05-8d36-7114e6b2e6eb#ref=rss)
-### youtube
-
-* [https://www.spiegel.de/netzwelt/web/dataskop-von-algorithmwatch-was-zeigt-youtube-ihnen-vor-der-bundestagswahl](https://www.spiegel.de/netzwelt/web/dataskop-von-algorithmwatch-was-zeigt-youtube-ihnen-vor-der-bundestagswahl-a-1246a33f-b21a-4a61-bb64-07f2a5bd59c3#ref=rss)
-### sucht
-
-* [https://www.spiegel.de/netzwelt/web/dataskop-von-algorithmwatch-was-zeigt-youtube-ihnen-vor-der-bundestagswahl](https://www.spiegel.de/netzwelt/web/dataskop-von-algorithmwatch-was-zeigt-youtube-ihnen-vor-der-bundestagswahl-a-1246a33f-b21a-4a61-bb64-07f2a5bd59c3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/freiheitsrechte-wann-enden-die-corona-massnahmen-in-deutschland](https://www.spiegel.de/politik/deutschland/freiheitsrechte-wann-enden-die-corona-massnahmen-in-deutschland-a-63f7700e-7cb3-4d62-b82a-d88a271f4262#ref=rss)
-### gestrandetes
-
-* [https://www.spiegel.de/panorama/neuseeland-tierschuetzer-sorgen-sich-um-gestrandetes-orca-baby](https://www.spiegel.de/panorama/neuseeland-tierschuetzer-sorgen-sich-um-gestrandetes-orca-baby-a-bf83952f-217c-48c0-a2d3-8d402eb9d359#ref=rss)
-### orcababy
-
-* [https://www.spiegel.de/panorama/neuseeland-tierschuetzer-sorgen-sich-um-gestrandetes-orca-baby](https://www.spiegel.de/panorama/neuseeland-tierschuetzer-sorgen-sich-um-gestrandetes-orca-baby-a-bf83952f-217c-48c0-a2d3-8d402eb9d359#ref=rss)
-### coronamaßnahmen
-
-* [https://www.spiegel.de/politik/deutschland/freiheitsrechte-wann-enden-die-corona-massnahmen-in-deutschland](https://www.spiegel.de/politik/deutschland/freiheitsrechte-wann-enden-die-corona-massnahmen-in-deutschland-a-63f7700e-7cb3-4d62-b82a-d88a271f4262#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/politik/deutschland/freiheitsrechte-wann-enden-die-corona-massnahmen-in-deutschland](https://www.spiegel.de/politik/deutschland/freiheitsrechte-wann-enden-die-corona-massnahmen-in-deutschland-a-63f7700e-7cb3-4d62-b82a-d88a271f4262#ref=rss)
-* [https://www.spiegel.de/ausland/corona-impfpflicht-in-welchen-laendern-gibt-es-sie-schon](https://www.spiegel.de/ausland/corona-impfpflicht-in-welchen-laendern-gibt-es-sie-schon-a-3e183b3c-f073-4fa6-88a2-99ea3052e65e#ref=rss)
-### kampf
-
-* [https://www.spiegel.de/kultur/tv/kampf-der-realitystars-auf-rtl-ii-so-lief-der-start-der-zweiten-staffel](https://www.spiegel.de/kultur/tv/kampf-der-realitystars-auf-rtl-ii-so-lief-der-start-der-zweiten-staffel-a-39da995e-cc53-4738-ab4f-5bf8e0971c79#ref=rss)
-### realitystars
-
-* [https://www.spiegel.de/kultur/tv/kampf-der-realitystars-auf-rtl-ii-so-lief-der-start-der-zweiten-staffel](https://www.spiegel.de/kultur/tv/kampf-der-realitystars-auf-rtl-ii-so-lief-der-start-der-zweiten-staffel-a-39da995e-cc53-4738-ab4f-5bf8e0971c79#ref=rss)
-### start
-
-* [https://www.spiegel.de/kultur/tv/kampf-der-realitystars-auf-rtl-ii-so-lief-der-start-der-zweiten-staffel](https://www.spiegel.de/kultur/tv/kampf-der-realitystars-auf-rtl-ii-so-lief-der-start-der-zweiten-staffel-a-39da995e-cc53-4738-ab4f-5bf8e0971c79#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht](https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht-a-95b0d21d-e9e0-4d54-854a-0207409b3a5f#ref=rss)
-### staffel
-
-* [https://www.spiegel.de/kultur/tv/kampf-der-realitystars-auf-rtl-ii-so-lief-der-start-der-zweiten-staffel](https://www.spiegel.de/kultur/tv/kampf-der-realitystars-auf-rtl-ii-so-lief-der-start-der-zweiten-staffel-a-39da995e-cc53-4738-ab4f-5bf8e0971c79#ref=rss)
-### carepakete
-
-* [https://www.spiegel.de/geschichte/carepakete-liebesgaben-aus-uebersee](https://www.spiegel.de/geschichte/carepakete-liebesgaben-aus-uebersee-a-1e95832b-fb45-4e71-8039-819ee2cabc56#ref=rss)
-### konnten
-
-* [https://www.spiegel.de/geschichte/carepakete-liebesgaben-aus-uebersee](https://www.spiegel.de/geschichte/carepakete-liebesgaben-aus-uebersee-a-1e95832b-fb45-4e71-8039-819ee2cabc56#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen-a-574ce865-f15a-4cde-af1c-851af62d5d42#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/geschichte/carepakete-liebesgaben-aus-uebersee](https://www.spiegel.de/geschichte/carepakete-liebesgaben-aus-uebersee-a-1e95832b-fb45-4e71-8039-819ee2cabc56#ref=rss)
-* [https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits](https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits-a-89aae6a6-4a0f-46c8-8260-325b7f61ef46#ref=rss)
-### gerade
-
-* [https://www.spiegel.de/ausland/corona-impfpflicht-in-welchen-laendern-gibt-es-sie-schon](https://www.spiegel.de/ausland/corona-impfpflicht-in-welchen-laendern-gibt-es-sie-schon-a-3e183b3c-f073-4fa6-88a2-99ea3052e65e#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/microsoft-stellt-cloud-windows-vor](https://www.spiegel.de/netzwelt/gadgets/microsoft-stellt-cloud-windows-vor-a-e88fefe7-86b6-4a61-a741-6609c9129605#ref=rss)
-### parteien
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht](https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht-a-95b0d21d-e9e0-4d54-854a-0207409b3a5f#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht](https://www.spiegel.de/politik/deutschland/bundestagswahl-dkp-zieht-vor-das-bundesverfassungsgericht-a-95b0d21d-e9e0-4d54-854a-0207409b3a5f#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen-a-574ce865-f15a-4cde-af1c-851af62d5d42#ref=rss)
-### gesundheitssysteme
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen-a-574ce865-f15a-4cde-af1c-851af62d5d42#ref=rss)
-* [https://www.spiegel.de/ausland/corona-in-afrika-delta-treibt-die-infektionszahlen-in-die-hoehe](https://www.spiegel.de/ausland/corona-in-afrika-delta-treibt-die-infektionszahlen-in-die-hoehe-a-99b9d3bc-d0d6-4b3b-aee0-4d82ca90600b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/deutschland-wie-kam-es-zu-den-ueberschwemmungen-in-nordrhein-westfalen-und-der-eifel](https://www.spiegel.de/wissenschaft/natur/deutschland-wie-kam-es-zu-den-ueberschwemmungen-in-nordrhein-westfalen-und-der-eifel-a-7dd926e1-ca32-4140-863a-4d964f7619e4#ref=rss)
+* [https://www.spiegel.de/ausland/provinzregierung-und-taliban-vereinbaren-waffenruhe](https://www.spiegel.de/ausland/provinzregierung-und-taliban-vereinbaren-waffenruhe-a-c31a2fd6-f98f-4854-82c3-18aace554fa8#ref=rss)
+* [https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe](https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe-a-42c7a3a1-cf3b-41dc-8a6b-2425ef05172f#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-millionen-kinder-verpassen-wichtige-routine-impfungen-a-574ce865-f15a-4cde-af1c-851af62d5d42#ref=rss)
-* [https://www.spiegel.de/panorama/cuxhaven-karibik-segler-havarieren-nach-einem-jahr-fahrt-vor-cuxhaven](https://www.spiegel.de/panorama/cuxhaven-karibik-segler-havarieren-nach-einem-jahr-fahrt-vor-cuxhaven-a-054ab981-3d04-4d88-bc7f-6e5870e18091#ref=rss)
-### picassogemälde
+* [https://www.spiegel.de/ausland/provinzregierung-und-taliban-vereinbaren-waffenruhe](https://www.spiegel.de/ausland/provinzregierung-und-taliban-vereinbaren-waffenruhe-a-c31a2fd6-f98f-4854-82c3-18aace554fa8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen](https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen-a-2bf7efab-6b7d-4ffe-86ef-fde41a341de7#ref=rss)
+* [https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe](https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe-a-42c7a3a1-cf3b-41dc-8a6b-2425ef05172f#ref=rss)
+### reporter
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/picasso-gemaelde-wird-via-blockchain-zur-aktie](https://www.spiegel.de/wirtschaft/unternehmen/picasso-gemaelde-wird-via-blockchain-zur-aktie-a-080b14ef-5c50-4dce-8b13-b3bcea3f0c0b#ref=rss)
-### via
+* [https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen](https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen-a-a83e4af6-4caa-43ce-98d5-169b5fcdc3a3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen](https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen-a-2bf7efab-6b7d-4ffe-86ef-fde41a341de7#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/picasso-gemaelde-wird-via-blockchain-zur-aktie](https://www.spiegel.de/wirtschaft/unternehmen/picasso-gemaelde-wird-via-blockchain-zur-aktie-a-080b14ef-5c50-4dce-8b13-b3bcea3f0c0b#ref=rss)
-### blockchain
+* [https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen](https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen-a-a83e4af6-4caa-43ce-98d5-169b5fcdc3a3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-ohne-armin-laschet-auf-csu-klausur-kein-bisschen-frieden](https://www.spiegel.de/politik/deutschland/markus-soeder-ohne-armin-laschet-auf-csu-klausur-kein-bisschen-frieden-a-2a9f7459-4502-409b-afd7-594e9819f2c0#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-regierungsbildung-erneut-gescheitert](https://www.spiegel.de/ausland/libanon-regierungsbildung-erneut-gescheitert-a-d07a3a9f-69e5-4c66-bcdb-16009763a744#ref=rss)
+### dutzende
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/picasso-gemaelde-wird-via-blockchain-zur-aktie](https://www.spiegel.de/wirtschaft/unternehmen/picasso-gemaelde-wird-via-blockchain-zur-aktie-a-080b14ef-5c50-4dce-8b13-b3bcea3f0c0b#ref=rss)
-### microsoft
+* [https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe](https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe-a-42c7a3a1-cf3b-41dc-8a6b-2425ef05172f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht-a-883ef1dd-f871-41d0-af3c-372ee55829e7#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/netzwelt/gadgets/microsoft-stellt-cloud-windows-vor](https://www.spiegel.de/netzwelt/gadgets/microsoft-stellt-cloud-windows-vor-a-e88fefe7-86b6-4a61-a741-6609c9129605#ref=rss)
-### windows
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht-a-883ef1dd-f871-41d0-af3c-372ee55829e7#ref=rss)
+* [https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren](https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren-a-9f5294f2-e2cd-44b1-b27b-fe9569f1ece0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/groemitz-schweinswal-gestorben-ermittlung-wegen-massenstreichelns](https://www.spiegel.de/panorama/justiz/groemitz-schweinswal-gestorben-ermittlung-wegen-massenstreichelns-a-ab4f8b46-d464-4a8b-8422-9b505c44cd7d#ref=rss)
+### schweren
 
-* [https://www.spiegel.de/netzwelt/gadgets/microsoft-stellt-cloud-windows-vor](https://www.spiegel.de/netzwelt/gadgets/microsoft-stellt-cloud-windows-vor-a-e88fefe7-86b6-4a61-a741-6609c9129605#ref=rss)
-### justizreform
+* [https://www.spiegel.de/ausland/libanon-regierungsbildung-erneut-gescheitert](https://www.spiegel.de/ausland/libanon-regierungsbildung-erneut-gescheitert-a-d07a3a9f-69e5-4c66-bcdb-16009763a744#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream](https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream-a-c473cf0f-5c21-4606-bd8b-4bee3a6039c3#ref=rss)
+* [https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren](https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren-a-9f5294f2-e2cd-44b1-b27b-fe9569f1ece0#ref=rss)
+### vier
 
-* [https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits](https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits-a-89aae6a6-4a0f-46c8-8260-325b7f61ef46#ref=rss)
-* [https://www.spiegel.de/ausland/eugh-polens-disziplinarsystem-fuer-richter-verstoesst-gegen-eu-recht](https://www.spiegel.de/ausland/eugh-polens-disziplinarsystem-fuer-richter-verstoesst-gegen-eu-recht-a-5c65d0da-5de5-4a5b-9de9-0429e3755cdd#ref=rss)
-### urteil
-
-* [https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits](https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits-a-89aae6a6-4a0f-46c8-8260-325b7f61ef46#ref=rss)
-* [https://www.spiegel.de/karriere/eugh-kopftuchverbote-muessen-arbeitgeber-gut-begruenden](https://www.spiegel.de/karriere/eugh-kopftuchverbote-muessen-arbeitgeber-gut-begruenden-a-df2aa63b-35c0-4a1b-a8f9-1679fc9f78b0#ref=rss)
-### polens
-
-* [https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits](https://www.spiegel.de/ausland/polen-wir-befinden-uns-im-prozess-eines-juristischen-polexits-a-89aae6a6-4a0f-46c8-8260-325b7f61ef46#ref=rss)
-* [https://www.spiegel.de/ausland/eugh-polens-disziplinarsystem-fuer-richter-verstoesst-gegen-eu-recht](https://www.spiegel.de/ausland/eugh-polens-disziplinarsystem-fuer-richter-verstoesst-gegen-eu-recht-a-5c65d0da-5de5-4a5b-9de9-0429e3755cdd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften](https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften-a-62ca159d-b981-4e79-bed8-10dd115d081f#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo](https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo-a-29c3e5c1-c9ab-4c50-99b8-7bf0cc9d141e#ref=rss)
 ### hamburger
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/hamburger-hafen-wird-drohnen-testgebiet](https://www.spiegel.de/wirtschaft/unternehmen/hamburger-hafen-wird-drohnen-testgebiet-a-3baecf02-5f24-4da0-886f-9711a361a26a#ref=rss)
-### hafen
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften](https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften-a-62ca159d-b981-4e79-bed8-10dd115d081f#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschuetzer-stoppen-hamburger-alleingang-gegen-whatsapp](https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschuetzer-stoppen-hamburger-alleingang-gegen-whatsapp-a-7c65157f-eff4-4694-b0e6-e242b5be3b0f#ref=rss)
+### stoppen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/hamburger-hafen-wird-drohnen-testgebiet](https://www.spiegel.de/wirtschaft/unternehmen/hamburger-hafen-wird-drohnen-testgebiet-a-3baecf02-5f24-4da0-886f-9711a361a26a#ref=rss)
-### etwa
+* [https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschuetzer-stoppen-hamburger-alleingang-gegen-whatsapp](https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschuetzer-stoppen-hamburger-alleingang-gegen-whatsapp-a-7c65157f-eff4-4694-b0e6-e242b5be3b0f#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/fdp-legt-verfassungsbeschwerde-gegen-staatstrojaner-ein](https://www.spiegel.de/netzwelt/netzpolitik/fdp-legt-verfassungsbeschwerde-gegen-staatstrojaner-ein-a-d8e17fab-a9ad-43fd-8a85-78c05ccc7c59#ref=rss)
+### fischer
 
-* [https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst](https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst-a-16b0e7c9-8a7c-42a2-9f3f-e22033e74212#ref=rss)
-### berichtet
+* [https://www.spiegel.de/wirtschaft/unternehmen/brexit-deutsche-fischer-fuerchten-streit-mit-norwegen](https://www.spiegel.de/wirtschaft/unternehmen/brexit-deutsche-fischer-fuerchten-streit-mit-norwegen-a-f9bc9cb4-7d89-42ee-add3-bca427b8d967#ref=rss)
+### tour
 
-* [https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst](https://www.spiegel.de/panorama/unwetter-hauseinstuerze-in-der-eifel-etwa-70-menschen-vermisst-a-16b0e7c9-8a7c-42a2-9f3f-e22033e74212#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-delta-variante-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/medizin/corona-delta-variante-breitet-sich-in-deutschland-weiter-aus-a-4119c289-cbb2-495b-acb9-651e4048c1fa#ref=rss)
-### corona
+* [https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit](https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit-a-33bf339d-d86f-49fc-bbb3-8579d3648d5d#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe](https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe-a-0f8357c9-f296-4258-a275-07bd0c0514c0#ref=rss)
+### france
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-delta-variante-breitet-sich-in-deutschland-weiter-aus](https://www.spiegel.de/wissenschaft/medizin/corona-delta-variante-breitet-sich-in-deutschland-weiter-aus-a-4119c289-cbb2-495b-acb9-651e4048c1fa#ref=rss)
-* [https://www.spiegel.de/ausland/corona-in-afrika-delta-treibt-die-infektionszahlen-in-die-hoehe](https://www.spiegel.de/ausland/corona-in-afrika-delta-treibt-die-infektionszahlen-in-die-hoehe-a-99b9d3bc-d0d6-4b3b-aee0-4d82ca90600b#ref=rss)
-### eurecht
+* [https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit](https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit-a-33bf339d-d86f-49fc-bbb3-8579d3648d5d#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe](https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe-a-0f8357c9-f296-4258-a275-07bd0c0514c0#ref=rss)
+### fährt
 
-* [https://www.spiegel.de/ausland/eugh-polens-disziplinarsystem-fuer-richter-verstoesst-gegen-eu-recht](https://www.spiegel.de/ausland/eugh-polens-disziplinarsystem-fuer-richter-verstoesst-gegen-eu-recht-a-5c65d0da-5de5-4a5b-9de9-0429e3755cdd#ref=rss)
-### dreyer
+* [https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit](https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit-a-33bf339d-d86f-49fc-bbb3-8579d3648d5d#ref=rss)
+### bergetappe
 
-* [https://www.spiegel.de/politik/deutschland/hochwasser-in-rheinland-pfalz-und-nrw-malu-dreyer-spricht-von-katastrophe](https://www.spiegel.de/politik/deutschland/hochwasser-in-rheinland-pfalz-und-nrw-malu-dreyer-spricht-von-katastrophe-a-13432809-f6b6-405f-85a3-836a3d3485d6#ref=rss)
-### spot
+* [https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit](https://www.spiegel.de/sport/tour-de-france-der-verdacht-faehrt-immer-noch-mit-a-33bf339d-d86f-49fc-bbb3-8579d3648d5d#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe](https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe-a-0f8357c9-f296-4258-a275-07bd0c0514c0#ref=rss)
+### hochwasser
 
-* [https://www.spiegel.de/stil/spot-on-ausstellung-im-vitra-design-museum-die-frauen-hinter-den-designklassikern](https://www.spiegel.de/stil/spot-on-ausstellung-im-vitra-design-museum-die-frauen-hinter-den-designklassikern-a-cc90569f-3f3e-4d36-998e-41f5286ea27f#ref=rss)
-### hinter
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz](https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz-a-642dba34-4fb8-4b41-9fa3-1011c55a51c1#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig](https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig-a-eeb585c1-d3e3-4258-9e3f-7d9b60c478f5#ref=rss)
+### rheinlandpfalz
 
-* [https://www.spiegel.de/stil/spot-on-ausstellung-im-vitra-design-museum-die-frauen-hinter-den-designklassikern](https://www.spiegel.de/stil/spot-on-ausstellung-im-vitra-design-museum-die-frauen-hinter-den-designklassikern-a-cc90569f-3f3e-4d36-998e-41f5286ea27f#ref=rss)
-### designklassikern
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz](https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz-a-642dba34-4fb8-4b41-9fa3-1011c55a51c1#ref=rss)
+* [https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe](https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe-a-42c7a3a1-cf3b-41dc-8a6b-2425ef05172f#ref=rss)
+### innenminister
 
-* [https://www.spiegel.de/stil/spot-on-ausstellung-im-vitra-design-museum-die-frauen-hinter-den-designklassikern](https://www.spiegel.de/stil/spot-on-ausstellung-im-vitra-design-museum-die-frauen-hinter-den-designklassikern-a-cc90569f-3f3e-4d36-998e-41f5286ea27f#ref=rss)
-### afrika
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz](https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz-a-642dba34-4fb8-4b41-9fa3-1011c55a51c1#ref=rss)
+### roger
 
-* [https://www.spiegel.de/ausland/corona-in-afrika-delta-treibt-die-infektionszahlen-in-die-hoehe](https://www.spiegel.de/ausland/corona-in-afrika-delta-treibt-die-infektionszahlen-in-die-hoehe-a-99b9d3bc-d0d6-4b3b-aee0-4d82ca90600b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz](https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz-a-642dba34-4fb8-4b41-9fa3-1011c55a51c1#ref=rss)
+### lewentz
+
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz](https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz-a-642dba34-4fb8-4b41-9fa3-1011c55a51c1#ref=rss)
+### landkreis
+
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz](https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz-a-642dba34-4fb8-4b41-9fa3-1011c55a51c1#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig](https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig-a-eeb585c1-d3e3-4258-9e3f-7d9b60c478f5#ref=rss)
+### ahrweiler
+
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz](https://www.spiegel.de/panorama/gesellschaft/hochwasser-in-rheinland-pfalz-der-planet-wehrt-sich-sagt-innenminister-roger-lewentz-a-642dba34-4fb8-4b41-9fa3-1011c55a51c1#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig](https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig-a-eeb585c1-d3e3-4258-9e3f-7d9b60c478f5#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-spricht-ueber-plaene-nach-ende-ihrer-amtszeit](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-spricht-ueber-plaene-nach-ende-ihrer-amtszeit-a-910c25b8-440b-4494-b89b-35de969947cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht-a-883ef1dd-f871-41d0-af3c-372ee55829e7#ref=rss)
+### hielt
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-spricht-ueber-plaene-nach-ende-ihrer-amtszeit](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-spricht-ueber-plaene-nach-ende-ihrer-amtszeit-a-910c25b8-440b-4494-b89b-35de969947cb#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe](https://www.spiegel.de/sport/tour-de-france-2021-tadej-pogacar-mit-machtdemonstration-bei-letzter-bergetappe-a-0f8357c9-f296-4258-a275-07bd0c0514c0#ref=rss)
+### kam
+
+* [https://www.spiegel.de/wissenschaft/natur/deutschland-wie-kam-es-zu-den-ueberschwemmungen-in-nordrhein-westfalen-und-der-eifel](https://www.spiegel.de/wissenschaft/natur/deutschland-wie-kam-es-zu-den-ueberschwemmungen-in-nordrhein-westfalen-und-der-eifel-a-7dd926e1-ca32-4140-863a-4d964f7619e4#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig](https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig-a-eeb585c1-d3e3-4258-9e3f-7d9b60c478f5#ref=rss)
+### eifel
+
+* [https://www.spiegel.de/wissenschaft/natur/deutschland-wie-kam-es-zu-den-ueberschwemmungen-in-nordrhein-westfalen-und-der-eifel](https://www.spiegel.de/wissenschaft/natur/deutschland-wie-kam-es-zu-den-ueberschwemmungen-in-nordrhein-westfalen-und-der-eifel-a-7dd926e1-ca32-4140-863a-4d964f7619e4#ref=rss)
+* [https://www.spiegel.de/panorama/unwetter-in-der-eifel-amateure-filmen-auswirkungen-oh-mein-gott-oh-nein](https://www.spiegel.de/panorama/unwetter-in-der-eifel-amateure-filmen-auswirkungen-oh-mein-gott-oh-nein-a-932786b4-9ff0-4392-9e22-74d2485dfd71#ref=rss)
+### starkregen
+
+* [https://www.spiegel.de/wissenschaft/natur/deutschland-wie-kam-es-zu-den-ueberschwemmungen-in-nordrhein-westfalen-und-der-eifel](https://www.spiegel.de/wissenschaft/natur/deutschland-wie-kam-es-zu-den-ueberschwemmungen-in-nordrhein-westfalen-und-der-eifel-a-7dd926e1-ca32-4140-863a-4d964f7619e4#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig](https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig-a-eeb585c1-d3e3-4258-9e3f-7d9b60c478f5#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wissenschaft/natur/deutschland-wie-kam-es-zu-den-ueberschwemmungen-in-nordrhein-westfalen-und-der-eifel](https://www.spiegel.de/wissenschaft/natur/deutschland-wie-kam-es-zu-den-ueberschwemmungen-in-nordrhein-westfalen-und-der-eifel-a-7dd926e1-ca32-4140-863a-4d964f7619e4#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-regierungsbildung-erneut-gescheitert](https://www.spiegel.de/ausland/libanon-regierungsbildung-erneut-gescheitert-a-d07a3a9f-69e5-4c66-bcdb-16009763a744#ref=rss)
+### taliban
+
+* [https://www.spiegel.de/ausland/provinzregierung-und-taliban-vereinbaren-waffenruhe](https://www.spiegel.de/ausland/provinzregierung-und-taliban-vereinbaren-waffenruhe-a-c31a2fd6-f98f-4854-82c3-18aace554fa8#ref=rss)
+### versuchen
+
+* [https://www.spiegel.de/ausland/provinzregierung-und-taliban-vereinbaren-waffenruhe](https://www.spiegel.de/ausland/provinzregierung-und-taliban-vereinbaren-waffenruhe-a-c31a2fd6-f98f-4854-82c3-18aace554fa8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/brexit-deutsche-fischer-fuerchten-streit-mit-norwegen](https://www.spiegel.de/wirtschaft/unternehmen/brexit-deutsche-fischer-fuerchten-streit-mit-norwegen-a-f9bc9cb4-7d89-42ee-add3-bca427b8d967#ref=rss)
+### rolle
+
+* [https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen](https://www.spiegel.de/panorama/gesellschaft/peter-r-de-vries-ist-tot-reporter-ohne-grenzen-a-a83e4af6-4caa-43ce-98d5-169b5fcdc3a3#ref=rss)
+* [https://www.spiegel.de/sport/edward-snowden-unterstuetzt-football-leaks-informant-rui-pinto](https://www.spiegel.de/sport/edward-snowden-unterstuetzt-football-leaks-informant-rui-pinto-a-6546a286-f369-4b06-a96f-6d6c35e84b05#ref=rss)
+### hagen
+
+* [https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet](https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet-a-a91c83a5-5e00-4ee5-b507-2586f4deef45#ref=rss)
+### armin
+
+* [https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet](https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet-a-a91c83a5-5e00-4ee5-b507-2586f4deef45#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-ohne-armin-laschet-auf-csu-klausur-kein-bisschen-frieden](https://www.spiegel.de/politik/deutschland/markus-soeder-ohne-armin-laschet-auf-csu-klausur-kein-bisschen-frieden-a-2a9f7459-4502-409b-afd7-594e9819f2c0#ref=rss)
+### besucht
+
+* [https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet](https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet-a-a91c83a5-5e00-4ee5-b507-2586f4deef45#ref=rss)
+### katastrophengebiet
+
+* [https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet](https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet-a-a91c83a5-5e00-4ee5-b507-2586f4deef45#ref=rss)
+* [https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe](https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe-a-42c7a3a1-cf3b-41dc-8a6b-2425ef05172f#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet](https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet-a-a91c83a5-5e00-4ee5-b507-2586f4deef45#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/groemitz-schweinswal-gestorben-ermittlung-wegen-massenstreichelns](https://www.spiegel.de/panorama/justiz/groemitz-schweinswal-gestorben-ermittlung-wegen-massenstreichelns-a-ab4f8b46-d464-4a8b-8422-9b505c44cd7d#ref=rss)
+### nrw
+
+* [https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet](https://www.spiegel.de/politik/deutschland/hagen-armin-laschet-besucht-feuerwehr-im-katastrophengebiet-a-a91c83a5-5e00-4ee5-b507-2586f4deef45#ref=rss)
+* [https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe](https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe-a-42c7a3a1-cf3b-41dc-8a6b-2425ef05172f#ref=rss)
+### polen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen](https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen-a-2bf7efab-6b7d-4ffe-86ef-fde41a341de7#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen](https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen-a-2bf7efab-6b7d-4ffe-86ef-fde41a341de7#ref=rss)
+* [https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe](https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe-a-42c7a3a1-cf3b-41dc-8a6b-2425ef05172f#ref=rss)
+### europäischen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen](https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen-a-2bf7efab-6b7d-4ffe-86ef-fde41a341de7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/brexit-rechnung-grossbritannien-will-drei-milliarden-pfund-weniger-zahlen](https://www.spiegel.de/wirtschaft/brexit-rechnung-grossbritannien-will-drei-milliarden-pfund-weniger-zahlen-a-82e005ee-4a94-4257-839b-eb1ebf77c8d8#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen](https://www.spiegel.de/politik/deutschland/news-des-tages-unwetterkatastrophe-reporter-peter-r-de-vries-eu-mitglied-polen-a-2bf7efab-6b7d-4ffe-86ef-fde41a341de7#ref=rss)
+* [https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe](https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe-a-42c7a3a1-cf3b-41dc-8a6b-2425ef05172f#ref=rss)
+### edward
+
+* [https://www.spiegel.de/sport/edward-snowden-unterstuetzt-football-leaks-informant-rui-pinto](https://www.spiegel.de/sport/edward-snowden-unterstuetzt-football-leaks-informant-rui-pinto-a-6546a286-f369-4b06-a96f-6d6c35e84b05#ref=rss)
+### snowden
+
+* [https://www.spiegel.de/sport/edward-snowden-unterstuetzt-football-leaks-informant-rui-pinto](https://www.spiegel.de/sport/edward-snowden-unterstuetzt-football-leaks-informant-rui-pinto-a-6546a286-f369-4b06-a96f-6d6c35e84b05#ref=rss)
+### nein
+
+* [https://www.spiegel.de/sport/edward-snowden-unterstuetzt-football-leaks-informant-rui-pinto](https://www.spiegel.de/sport/edward-snowden-unterstuetzt-football-leaks-informant-rui-pinto-a-6546a286-f369-4b06-a96f-6d6c35e84b05#ref=rss)
+* [https://www.spiegel.de/panorama/unwetter-in-der-eifel-amateure-filmen-auswirkungen-oh-mein-gott-oh-nein](https://www.spiegel.de/panorama/unwetter-in-der-eifel-amateure-filmen-auswirkungen-oh-mein-gott-oh-nein-a-932786b4-9ff0-4392-9e22-74d2485dfd71#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/wirtschaft/brexit-rechnung-grossbritannien-will-drei-milliarden-pfund-weniger-zahlen](https://www.spiegel.de/wirtschaft/brexit-rechnung-grossbritannien-will-drei-milliarden-pfund-weniger-zahlen-a-82e005ee-4a94-4257-839b-eb1ebf77c8d8#ref=rss)
+### drei
+
+* [https://www.spiegel.de/wirtschaft/brexit-rechnung-grossbritannien-will-drei-milliarden-pfund-weniger-zahlen](https://www.spiegel.de/wirtschaft/brexit-rechnung-grossbritannien-will-drei-milliarden-pfund-weniger-zahlen-a-82e005ee-4a94-4257-839b-eb1ebf77c8d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften](https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften-a-62ca159d-b981-4e79-bed8-10dd115d081f#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/brexit-rechnung-grossbritannien-will-drei-milliarden-pfund-weniger-zahlen](https://www.spiegel.de/wirtschaft/brexit-rechnung-grossbritannien-will-drei-milliarden-pfund-weniger-zahlen-a-82e005ee-4a94-4257-839b-eb1ebf77c8d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/brexit-deutsche-fischer-fuerchten-streit-mit-norwegen](https://www.spiegel.de/wirtschaft/unternehmen/brexit-deutsche-fischer-fuerchten-streit-mit-norwegen-a-f9bc9cb4-7d89-42ee-add3-bca427b8d967#ref=rss)
+### plan
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-ohne-armin-laschet-auf-csu-klausur-kein-bisschen-frieden](https://www.spiegel.de/politik/deutschland/markus-soeder-ohne-armin-laschet-auf-csu-klausur-kein-bisschen-frieden-a-2a9f7459-4502-409b-afd7-594e9819f2c0#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-heckte-der-kreml-einen-plan-fuer-donald-trump-aus](https://www.spiegel.de/ausland/wladimir-putin-heckte-der-kreml-einen-plan-fuer-donald-trump-aus-a-6f48b58b-90a2-40a4-a422-7d303271e1ef#ref=rss)
+### vorerst
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-ohne-armin-laschet-auf-csu-klausur-kein-bisschen-frieden](https://www.spiegel.de/politik/deutschland/markus-soeder-ohne-armin-laschet-auf-csu-klausur-kein-bisschen-frieden-a-2a9f7459-4502-409b-afd7-594e9819f2c0#ref=rss)
+* [https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren](https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren-a-9f5294f2-e2cd-44b1-b27b-fe9569f1ece0#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/wladimir-putin-heckte-der-kreml-einen-plan-fuer-donald-trump-aus](https://www.spiegel.de/ausland/wladimir-putin-heckte-der-kreml-einen-plan-fuer-donald-trump-aus-a-6f48b58b-90a2-40a4-a422-7d303271e1ef#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/wladimir-putin-heckte-der-kreml-einen-plan-fuer-donald-trump-aus](https://www.spiegel.de/ausland/wladimir-putin-heckte-der-kreml-einen-plan-fuer-donald-trump-aus-a-6f48b58b-90a2-40a4-a422-7d303271e1ef#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/wladimir-putin-heckte-der-kreml-einen-plan-fuer-donald-trump-aus](https://www.spiegel.de/ausland/wladimir-putin-heckte-der-kreml-einen-plan-fuer-donald-trump-aus-a-6f48b58b-90a2-40a4-a422-7d303271e1ef#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/ausland/wladimir-putin-heckte-der-kreml-einen-plan-fuer-donald-trump-aus](https://www.spiegel.de/ausland/wladimir-putin-heckte-der-kreml-einen-plan-fuer-donald-trump-aus-a-6f48b58b-90a2-40a4-a422-7d303271e1ef#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig](https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig-a-eeb585c1-d3e3-4258-9e3f-7d9b60c478f5#ref=rss)
+### tote
+
+* [https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe](https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe-a-42c7a3a1-cf3b-41dc-8a6b-2425ef05172f#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe](https://www.spiegel.de/panorama/unwetter-in-nrw-und-rheinland-pfalz-dutzende-tote-bei-hochwasserkatastrophe-a-42c7a3a1-cf3b-41dc-8a6b-2425ef05172f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/terrorprozess-gegen-die-gruppe-s-wie-glaubwuerdig-ist-kronzeuge-paul-u](https://www.spiegel.de/panorama/justiz/terrorprozess-gegen-die-gruppe-s-wie-glaubwuerdig-ist-kronzeuge-paul-u-a-56219a41-cabf-4434-862a-be43a5603ad3#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig](https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig-a-eeb585c1-d3e3-4258-9e3f-7d9b60c478f5#ref=rss)
+### konnten
+
+* [https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig](https://www.spiegel.de/panorama/gesellschaft/hochwasser-eine-treppenstufe-nach-der-anderen-verschwand-im-wasser-es-war-gruselig-a-eeb585c1-d3e3-4258-9e3f-7d9b60c478f5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/groemitz-schweinswal-gestorben-ermittlung-wegen-massenstreichelns](https://www.spiegel.de/panorama/justiz/groemitz-schweinswal-gestorben-ermittlung-wegen-massenstreichelns-a-ab4f8b46-d464-4a8b-8422-9b505c44cd7d#ref=rss)
+### aussicht
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-stellt-fuer-flutopfer-hilfe-der-regierung-in-aussicht-a-883ef1dd-f871-41d0-af3c-372ee55829e7#ref=rss)
+### löcher
+
+* [https://www.spiegel.de/panorama/estonia-vorstudie-bestaetigt-loecher-im-schiffsrumpf](https://www.spiegel.de/panorama/estonia-vorstudie-bestaetigt-loecher-im-schiffsrumpf-a-4a6d52cc-71ba-4e8c-9e08-d76173682b96#ref=rss)
+### schiffsrumpf
+
+* [https://www.spiegel.de/panorama/estonia-vorstudie-bestaetigt-loecher-im-schiffsrumpf](https://www.spiegel.de/panorama/estonia-vorstudie-bestaetigt-loecher-im-schiffsrumpf-a-4a6d52cc-71ba-4e8c-9e08-d76173682b96#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/libanon-regierungsbildung-erneut-gescheitert](https://www.spiegel.de/ausland/libanon-regierungsbildung-erneut-gescheitert-a-d07a3a9f-69e5-4c66-bcdb-16009763a744#ref=rss)
+* [https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren](https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren-a-9f5294f2-e2cd-44b1-b27b-fe9569f1ece0#ref=rss)
+### sklasse
+
+* [https://www.spiegel.de/auto/fahrberichte/s-klasse-mit-drive-pilot-dieses-auto-kann-in-die-zukunft-schauen](https://www.spiegel.de/auto/fahrberichte/s-klasse-mit-drive-pilot-dieses-auto-kann-in-die-zukunft-schauen-a-74c422af-13fe-4c8d-8bcc-04f078becbc9#ref=rss)
+### drive
+
+* [https://www.spiegel.de/auto/fahrberichte/s-klasse-mit-drive-pilot-dieses-auto-kann-in-die-zukunft-schauen](https://www.spiegel.de/auto/fahrberichte/s-klasse-mit-drive-pilot-dieses-auto-kann-in-die-zukunft-schauen-a-74c422af-13fe-4c8d-8bcc-04f078becbc9#ref=rss)
+### pilot
+
+* [https://www.spiegel.de/auto/fahrberichte/s-klasse-mit-drive-pilot-dieses-auto-kann-in-die-zukunft-schauen](https://www.spiegel.de/auto/fahrberichte/s-klasse-mit-drive-pilot-dieses-auto-kann-in-die-zukunft-schauen-a-74c422af-13fe-4c8d-8bcc-04f078becbc9#ref=rss)
+### jens
+
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften](https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften-a-62ca159d-b981-4e79-bed8-10dd115d081f#ref=rss)
+### spahn
+
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften](https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften-a-62ca159d-b981-4e79-bed8-10dd115d081f#ref=rss)
+### maskenaffäre
+
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften](https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften-a-62ca159d-b981-4e79-bed8-10dd115d081f#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften](https://www.spiegel.de/politik/deutschland/jens-spahn-und-die-masken-affaere-wie-drei-jungunternehmer-dem-gesundheitsministerium-vier-millionen-masken-verkauften-a-62ca159d-b981-4e79-bed8-10dd115d081f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/brexit-deutsche-fischer-fuerchten-streit-mit-norwegen](https://www.spiegel.de/wirtschaft/unternehmen/brexit-deutsche-fischer-fuerchten-streit-mit-norwegen-a-f9bc9cb4-7d89-42ee-add3-bca427b8d967#ref=rss)
+### whatsapp
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschuetzer-stoppen-hamburger-alleingang-gegen-whatsapp](https://www.spiegel.de/netzwelt/netzpolitik/eu-datenschuetzer-stoppen-hamburger-alleingang-gegen-whatsapp-a-7c65157f-eff4-4694-b0e6-e242b5be3b0f#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream](https://www.spiegel.de/politik/deutschland/unwetter-in-deutschland-das-sagt-die-kanzlerin-angela-merkel-livestream-a-c473cf0f-5c21-4606-bd8b-4bee3a6039c3#ref=rss)
+* [https://www.spiegel.de/panorama/unwetter-in-der-eifel-amateure-filmen-auswirkungen-oh-mein-gott-oh-nein](https://www.spiegel.de/panorama/unwetter-in-der-eifel-amateure-filmen-auswirkungen-oh-mein-gott-oh-nein-a-932786b4-9ff0-4392-9e22-74d2485dfd71#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/brexit-deutsche-fischer-fuerchten-streit-mit-norwegen](https://www.spiegel.de/wirtschaft/unternehmen/brexit-deutsche-fischer-fuerchten-streit-mit-norwegen-a-f9bc9cb4-7d89-42ee-add3-bca427b8d967#ref=rss)
+### fürchten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/brexit-deutsche-fischer-fuerchten-streit-mit-norwegen](https://www.spiegel.de/wirtschaft/unternehmen/brexit-deutsche-fischer-fuerchten-streit-mit-norwegen-a-f9bc9cb4-7d89-42ee-add3-bca427b8d967#ref=rss)
+### südafrika
+
+* [https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren](https://www.spiegel.de/ausland/suedafrika-will-nach-krawallen-weitere-25-000-soldaten-mobilisieren-a-9f5294f2-e2cd-44b1-b27b-fe9569f1ece0#ref=rss)
+### milwaukee
+
+* [https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo](https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo-a-29c3e5c1-c9ab-4c50-99b8-7bf0cc9d141e#ref=rss)
+### phoenix
+
+* [https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo](https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo-a-29c3e5c1-c9ab-4c50-99b8-7bf0cc9d141e#ref=rss)
+### giannis
+
+* [https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo](https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo-a-29c3e5c1-c9ab-4c50-99b8-7bf0cc9d141e#ref=rss)
+### antetokounmpo
+
+* [https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo](https://www.spiegel.de/sport/basketball/nba-milwaukee-bucks-besiegen-phoenix-suns-in-spiel-vier-dank-giannis-antetokounmpo-a-29c3e5c1-c9ab-4c50-99b8-7bf0cc9d141e#ref=rss)
+### glaubwürdig
+
+* [https://www.spiegel.de/panorama/justiz/terrorprozess-gegen-die-gruppe-s-wie-glaubwuerdig-ist-kronzeuge-paul-u](https://www.spiegel.de/panorama/justiz/terrorprozess-gegen-die-gruppe-s-wie-glaubwuerdig-ist-kronzeuge-paul-u-a-56219a41-cabf-4434-862a-be43a5603ad3#ref=rss)
+### kronzeuge
+
+* [https://www.spiegel.de/panorama/justiz/terrorprozess-gegen-die-gruppe-s-wie-glaubwuerdig-ist-kronzeuge-paul-u](https://www.spiegel.de/panorama/justiz/terrorprozess-gegen-die-gruppe-s-wie-glaubwuerdig-ist-kronzeuge-paul-u-a-56219a41-cabf-4434-862a-be43a5603ad3#ref=rss)
+### wal
+
+* [https://www.spiegel.de/panorama/justiz/groemitz-schweinswal-gestorben-ermittlung-wegen-massenstreichelns](https://www.spiegel.de/panorama/justiz/groemitz-schweinswal-gestorben-ermittlung-wegen-massenstreichelns-a-ab4f8b46-d464-4a8b-8422-9b505c44cd7d#ref=rss)
+### auswirkungen
+
+* [https://www.spiegel.de/panorama/unwetter-in-der-eifel-amateure-filmen-auswirkungen-oh-mein-gott-oh-nein](https://www.spiegel.de/panorama/unwetter-in-der-eifel-amateure-filmen-auswirkungen-oh-mein-gott-oh-nein-a-932786b4-9ff0-4392-9e22-74d2485dfd71#ref=rss)
+### oh
+
+* [https://www.spiegel.de/panorama/unwetter-in-der-eifel-amateure-filmen-auswirkungen-oh-mein-gott-oh-nein](https://www.spiegel.de/panorama/unwetter-in-der-eifel-amateure-filmen-auswirkungen-oh-mein-gott-oh-nein-a-932786b4-9ff0-4392-9e22-74d2485dfd71#ref=rss)
 
