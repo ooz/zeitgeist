@@ -4,336 +4,271 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/soziales/interaktive-karte-wo-in-deutschland-viel-verdient-wird-und-wo-wenig](https://www.spiegel.de/wirtschaft/soziales/interaktive-karte-wo-in-deutschland-viel-verdient-wird-und-wo-wenig-a-215159b0-1df5-4283-af34-939c811f5cae#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht](https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht-a-02fe15e1-133c-43bc-90dd-ee2e058d9c7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-horst-seehofer-stellen-gesundheitsreserve-vor-livestream](https://www.spiegel.de/politik/deutschland/jens-spahn-und-horst-seehofer-stellen-gesundheitsreserve-vor-livestream-a-175d1201-51f3-49b9-9082-70f007334770#ref=rss)
-* [https://www.spiegel.de/start/guenstige-rezepte-asiatischer-gurkensalat-mit-tofu-fuer-2-euro](https://www.spiegel.de/start/guenstige-rezepte-asiatischer-gurkensalat-mit-tofu-fuer-2-euro-a-97eaa17e-87db-4a1a-b9c1-69ab65de4876#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/hitze-hochwasser-und-landwirtschaft-wie-der-klimawandel-deutschland-veraendern-wird](https://www.spiegel.de/wissenschaft/natur/hitze-hochwasser-und-landwirtschaft-wie-der-klimawandel-deutschland-veraendern-wird-a-2767ff8f-4df4-4054-aa26-3c00bba6e899#ref=rss)
-* [https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein](https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein-a-839006f1-81c8-4616-9171-a6261a2d23e4#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/soziales/interaktive-karte-wo-in-deutschland-viel-verdient-wird-und-wo-wenig](https://www.spiegel.de/wirtschaft/soziales/interaktive-karte-wo-in-deutschland-viel-verdient-wird-und-wo-wenig-a-215159b0-1df5-4283-af34-939c811f5cae#ref=rss)
-* [https://www.spiegel.de/start/guenstige-rezepte-asiatischer-gurkensalat-mit-tofu-fuer-2-euro](https://www.spiegel.de/start/guenstige-rezepte-asiatischer-gurkensalat-mit-tofu-fuer-2-euro-a-97eaa17e-87db-4a1a-b9c1-69ab65de4876#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer](https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer-a-f706844f-0d3c-412d-a69d-c7838deb4457#ref=rss)
-* [https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden](https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden-a-2c107a1f-1e61-4764-8b50-ab569cad90dc#ref=rss)
-### 2021
-
-* [https://www.spiegel.de/sport/fussball/olympia-2021-fussball-weltmeisterinnen-aus-den-usa-verpatzen-auftakt-gegen-schweden](https://www.spiegel.de/sport/fussball/olympia-2021-fussball-weltmeisterinnen-aus-den-usa-verpatzen-auftakt-gegen-schweden-a-549c2a20-9760-4273-af6c-b83b42c9da6e#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio-a-9cb0cdba-621e-4334-b819-03b48525b1e1#ref=rss)
-* [https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests](https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests-a-35d7d82b-1d8f-47d9-9599-6202befc3362#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bei-olympia-2021-spielplan-ergebnisse-tv-uebertragung](https://www.spiegel.de/sport/fussball/fussball-bei-olympia-2021-spielplan-ergebnisse-tv-uebertragung-a-4a4414d2-80c9-474e-91a1-490fca8f9046#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima](https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima-a-a181fc73-00e8-4a4c-bbb7-3a57995ce7f2#ref=rss)
-### 2
-
-* [https://www.spiegel.de/start/guenstige-rezepte-asiatischer-gurkensalat-mit-tofu-fuer-2-euro](https://www.spiegel.de/start/guenstige-rezepte-asiatischer-gurkensalat-mit-tofu-fuer-2-euro-a-97eaa17e-87db-4a1a-b9c1-69ab65de4876#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist](https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist-a-0321007f-3809-407f-8238-b575e53ff3fe#ref=rss)
-* [https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein](https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein-a-839006f1-81c8-4616-9171-a6261a2d23e4#ref=rss)
-### olympia
-
-* [https://www.spiegel.de/sport/fussball/olympia-2021-fussball-weltmeisterinnen-aus-den-usa-verpatzen-auftakt-gegen-schweden](https://www.spiegel.de/sport/fussball/olympia-2021-fussball-weltmeisterinnen-aus-den-usa-verpatzen-auftakt-gegen-schweden-a-549c2a20-9760-4273-af6c-b83b42c9da6e#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio-a-9cb0cdba-621e-4334-b819-03b48525b1e1#ref=rss)
-* [https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests](https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests-a-35d7d82b-1d8f-47d9-9599-6202befc3362#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bei-olympia-2021-spielplan-ergebnisse-tv-uebertragung](https://www.spiegel.de/sport/fussball/fussball-bei-olympia-2021-spielplan-ergebnisse-tv-uebertragung-a-4a4414d2-80c9-474e-91a1-490fca8f9046#ref=rss)
-### nord
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist](https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist-a-0321007f-3809-407f-8238-b575e53ff3fe#ref=rss)
-* [https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein](https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein-a-839006f1-81c8-4616-9171-a6261a2d23e4#ref=rss)
-### stream
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist](https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist-a-0321007f-3809-407f-8238-b575e53ff3fe#ref=rss)
-* [https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein](https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein-a-839006f1-81c8-4616-9171-a6261a2d23e4#ref=rss)
-### olympischen
-
-* [https://www.spiegel.de/sport/olympia/brisbane-traegt-die-olympischen-sommerspiele-2032-aus](https://www.spiegel.de/sport/olympia/brisbane-traegt-die-olympischen-sommerspiele-2032-aus-a-4d7340cb-8212-45fd-a5e4-9d12620f68c8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bei-olympia-2021-spielplan-ergebnisse-tv-uebertragung](https://www.spiegel.de/sport/fussball/fussball-bei-olympia-2021-spielplan-ergebnisse-tv-uebertragung-a-4a4414d2-80c9-474e-91a1-490fca8f9046#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima](https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima-a-a181fc73-00e8-4a4c-bbb7-3a57995ce7f2#ref=rss)
-### wo
-
-* [https://www.spiegel.de/wirtschaft/soziales/interaktive-karte-wo-in-deutschland-viel-verdient-wird-und-wo-wenig](https://www.spiegel.de/wirtschaft/soziales/interaktive-karte-wo-in-deutschland-viel-verdient-wird-und-wo-wenig-a-215159b0-1df5-4283-af34-939c811f5cae#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz](https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz-a-eb218d85-fe97-48eb-b30d-ad4bbf51e13f#ref=rss)
-### usa
-
-* [https://www.spiegel.de/sport/fussball/olympia-2021-fussball-weltmeisterinnen-aus-den-usa-verpatzen-auftakt-gegen-schweden](https://www.spiegel.de/sport/fussball/olympia-2021-fussball-weltmeisterinnen-aus-den-usa-verpatzen-auftakt-gegen-schweden-a-549c2a20-9760-4273-af6c-b83b42c9da6e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/waldbraende-an-der-us-westkueste-trueben-die-sicht-in-new-york](https://www.spiegel.de/wissenschaft/natur/waldbraende-an-der-us-westkueste-trueben-die-sicht-in-new-york-a-155dca07-7a95-4da6-910b-e10935ff949a#ref=rss)
-* [https://www.spiegel.de/panorama/kanada-zehntausende-menschen-sollen-sich-wegen-waldbraenden-auf-evakuierung-vorbereiten](https://www.spiegel.de/panorama/kanada-zehntausende-menschen-sollen-sich-wegen-waldbraenden-auf-evakuierung-vorbereiten-a-b09eb7bd-faed-46cd-b40f-33338f107bcc#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht](https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht-a-02fe15e1-133c-43bc-90dd-ee2e058d9c7a#ref=rss)
-* [https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein](https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein-a-839006f1-81c8-4616-9171-a6261a2d23e4#ref=rss)
-### bedroht
-
-* [https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht](https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht-a-02fe15e1-133c-43bc-90dd-ee2e058d9c7a#ref=rss)
-* [https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden](https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden-a-2c107a1f-1e61-4764-8b50-ab569cad90dc#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht](https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht-a-02fe15e1-133c-43bc-90dd-ee2e058d9c7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-horst-seehofer-stellen-gesundheitsreserve-vor-livestream](https://www.spiegel.de/politik/deutschland/jens-spahn-und-horst-seehofer-stellen-gesundheitsreserve-vor-livestream-a-175d1201-51f3-49b9-9082-70f007334770#ref=rss)
-* [https://www.spiegel.de/auto/google-maps-stiftung-warentest-haelt-klassische-navis-fuer-besser](https://www.spiegel.de/auto/google-maps-stiftung-warentest-haelt-klassische-navis-fuer-besser-a-c23a9364-a9fd-4f36-87e4-31d46c1c12d0#ref=rss)
-### meyers
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio-a-9cb0cdba-621e-4334-b819-03b48525b1e1#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/soziales/baupreise-staat-muss-mehr-geld-fuer-strassen-und-bruecken-ausgeben](https://www.spiegel.de/wirtschaft/soziales/baupreise-staat-muss-mehr-geld-fuer-strassen-und-bruecken-ausgeben-a-3258d69e-2a00-4652-b859-d1c0fb5ee782#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/hitze-hochwasser-und-landwirtschaft-wie-der-klimawandel-deutschland-veraendern-wird](https://www.spiegel.de/wissenschaft/natur/hitze-hochwasser-und-landwirtschaft-wie-der-klimawandel-deutschland-veraendern-wird-a-2767ff8f-4df4-4054-aa26-3c00bba6e899#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/soziales/baupreise-staat-muss-mehr-geld-fuer-strassen-und-bruecken-ausgeben](https://www.spiegel.de/wirtschaft/soziales/baupreise-staat-muss-mehr-geld-fuer-strassen-und-bruecken-ausgeben-a-3258d69e-2a00-4652-b859-d1c0fb5ee782#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist](https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist-a-0321007f-3809-407f-8238-b575e53ff3fe#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/australien-ehepaar-haelt-frau-jahrelang-als-sklavin-haftstrafen](https://www.spiegel.de/panorama/justiz/australien-ehepaar-haelt-frau-jahrelang-als-sklavin-haftstrafen-a-9ff5a418-547c-4e47-b0a8-d037dd61777c#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer](https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer-a-f706844f-0d3c-412d-a69d-c7838deb4457#ref=rss)
-* [https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden](https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden-a-2c107a1f-1e61-4764-8b50-ab569cad90dc#ref=rss)
-### westen
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer](https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer-a-f706844f-0d3c-412d-a69d-c7838deb4457#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/waldbraende-an-der-us-westkueste-trueben-die-sicht-in-new-york](https://www.spiegel.de/wissenschaft/natur/waldbraende-an-der-us-westkueste-trueben-die-sicht-in-new-york-a-155dca07-7a95-4da6-910b-e10935ff949a#ref=rss)
-* [https://www.spiegel.de/panorama/kanada-zehntausende-menschen-sollen-sich-wegen-waldbraenden-auf-evakuierung-vorbereiten](https://www.spiegel.de/panorama/kanada-zehntausende-menschen-sollen-sich-wegen-waldbraenden-auf-evakuierung-vorbereiten-a-b09eb7bd-faed-46cd-b40f-33338f107bcc#ref=rss)
-### waldbrände
-
-* [https://www.spiegel.de/wissenschaft/natur/waldbraende-an-der-us-westkueste-trueben-die-sicht-in-new-york](https://www.spiegel.de/wissenschaft/natur/waldbraende-an-der-us-westkueste-trueben-die-sicht-in-new-york-a-155dca07-7a95-4da6-910b-e10935ff949a#ref=rss)
-* [https://www.spiegel.de/panorama/kanada-zehntausende-menschen-sollen-sich-wegen-waldbraenden-auf-evakuierung-vorbereiten](https://www.spiegel.de/panorama/kanada-zehntausende-menschen-sollen-sich-wegen-waldbraenden-auf-evakuierung-vorbereiten-a-b09eb7bd-faed-46cd-b40f-33338f107bcc#ref=rss)
-### spiele
-
-* [https://www.spiegel.de/sport/olympia/brisbane-traegt-die-olympischen-sommerspiele-2032-aus](https://www.spiegel.de/sport/olympia/brisbane-traegt-die-olympischen-sommerspiele-2032-aus-a-4d7340cb-8212-45fd-a5e4-9d12620f68c8#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima](https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima-a-a181fc73-00e8-4a4c-bbb7-3a57995ce7f2#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/sport/fussball/olympia-2021-fussball-weltmeisterinnen-aus-den-usa-verpatzen-auftakt-gegen-schweden](https://www.spiegel.de/sport/fussball/olympia-2021-fussball-weltmeisterinnen-aus-den-usa-verpatzen-auftakt-gegen-schweden-a-549c2a20-9760-4273-af6c-b83b42c9da6e#ref=rss)
-### erk
-
-* [https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht](https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht-a-02fe15e1-133c-43bc-90dd-ee2e058d9c7a#ref=rss)
-### acarer
-
-* [https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht](https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht-a-02fe15e1-133c-43bc-90dd-ee2e058d9c7a#ref=rss)
-### journalist
-
-* [https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht](https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht-a-02fe15e1-133c-43bc-90dd-ee2e058d9c7a#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht](https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht-a-02fe15e1-133c-43bc-90dd-ee2e058d9c7a#ref=rss)
-* [https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein](https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein-a-839006f1-81c8-4616-9171-a6261a2d23e4#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht](https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht-a-02fe15e1-133c-43bc-90dd-ee2e058d9c7a#ref=rss)
-* [https://www.spiegel.de/auto/google-maps-stiftung-warentest-haelt-klassische-navis-fuer-besser](https://www.spiegel.de/auto/google-maps-stiftung-warentest-haelt-klassische-navis-fuer-besser-a-c23a9364-a9fd-4f36-87e4-31d46c1c12d0#ref=rss)
-### bundesregierung
+* [https://www.spiegel.de/panorama/justiz/gefaengnis-haellby-geiselnahme-in-schwedischem-gefaengnis-taeter-fordern-pizza](https://www.spiegel.de/panorama/justiz/gefaengnis-haellby-geiselnahme-in-schwedischem-gefaengnis-taeter-fordern-pizza-a-4e639622-a0dc-4383-bae9-c98fe1de6aa7#ref=rss)
+* [https://www.spiegel.de/panorama/hildesheim-zwei-menschen-sterben-bei-absturz-von-tragschrauber](https://www.spiegel.de/panorama/hildesheim-zwei-menschen-sterben-bei-absturz-von-tragschrauber-a-46242837-6ddb-4cbe-a5c2-debe10cf739e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-14-jaehrige-faehrt-unfreiwillig-70-kilometer-auf-gueterzug](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-14-jaehrige-faehrt-unfreiwillig-70-kilometer-auf-gueterzug-a-d4cad72a-d864-4232-8a91-24111e87d463#ref=rss)
+### flutkatastrophe
 
-* [https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht](https://www.spiegel.de/panorama/justiz/erk-acarer-tuerkischer-journalist-in-berlin-offenbar-erneut-bedroht-a-02fe15e1-133c-43bc-90dd-ee2e058d9c7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer](https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer-a-f706844f-0d3c-412d-a69d-c7838deb4457#ref=rss)
-### new
+* [https://www.spiegel.de/karriere/flutkatastrophe-muessen-arbeitgeber-freiwillige-helfer-freistellen](https://www.spiegel.de/karriere/flutkatastrophe-muessen-arbeitgeber-freiwillige-helfer-freistellen-a-92fb6078-aa9f-4ef3-bd0f-e4dd85484c4a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-zweifelt-an-laschets-klimakompetenz](https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-zweifelt-an-laschets-klimakompetenz-a-afc15a34-1b30-4858-8e00-570b18d4ed41#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bbk-praesident-armin-schuster-katastrophenschuetzer-ohne-macht](https://www.spiegel.de/politik/deutschland/bbk-praesident-armin-schuster-katastrophenschuetzer-ohne-macht-a-48df669f-93ef-443a-8eee-9d4d91f70f95#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wirtschaft/us-pharmahaendler-stimmen-milliardenschwerem-vergleich-zu](https://www.spiegel.de/wirtschaft/us-pharmahaendler-stimmen-milliardenschwerem-vergleich-zu-a-49b10e4d-9ac7-43b3-906d-6bad7838518a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/waldbraende-an-der-us-westkueste-trueben-die-sicht-in-new-york](https://www.spiegel.de/wissenschaft/natur/waldbraende-an-der-us-westkueste-trueben-die-sicht-in-new-york-a-155dca07-7a95-4da6-910b-e10935ff949a#ref=rss)
-### york
+* [https://www.spiegel.de/karriere/flutkatastrophe-muessen-arbeitgeber-freiwillige-helfer-freistellen](https://www.spiegel.de/karriere/flutkatastrophe-muessen-arbeitgeber-freiwillige-helfer-freistellen-a-92fb6078-aa9f-4ef3-bd0f-e4dd85484c4a#ref=rss)
+* [https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben](https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben-a-9206e292-0090-4214-9832-0039d2bbafd4#ref=rss)
+* [https://www.spiegel.de/psychologie/hochwasser-und-flut-wie-bewaeltigt-man-ein-solches-trauma](https://www.spiegel.de/psychologie/hochwasser-und-flut-wie-bewaeltigt-man-ein-solches-trauma-a-d7ddb237-681b-4554-ace8-02d9f7dce762#ref=rss)
+### olympia
 
-* [https://www.spiegel.de/wirtschaft/us-pharmahaendler-stimmen-milliardenschwerem-vergleich-zu](https://www.spiegel.de/wirtschaft/us-pharmahaendler-stimmen-milliardenschwerem-vergleich-zu-a-49b10e4d-9ac7-43b3-906d-6bad7838518a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/waldbraende-an-der-us-westkueste-trueben-die-sicht-in-new-york](https://www.spiegel.de/wissenschaft/natur/waldbraende-an-der-us-westkueste-trueben-die-sicht-in-new-york-a-155dca07-7a95-4da6-910b-e10935ff949a#ref=rss)
-### besser
+* [https://www.spiegel.de/sport/olympia/olympia-2021-in-tokio-und-corona-wenn-sogar-die-japaner-auf-die-strasse-gehen](https://www.spiegel.de/sport/olympia/olympia-2021-in-tokio-und-corona-wenn-sogar-die-japaner-auf-die-strasse-gehen-a-846d4efe-b53b-4173-932b-02018fe39872#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2021-viererkajak-des-deutschen-teams-durch-gabelstapler-zerstoert](https://www.spiegel.de/sport/olympia/olympia-2021-viererkajak-des-deutschen-teams-durch-gabelstapler-zerstoert-a-9f4be51d-4860-464e-af1c-c856c661250b#ref=rss)
+### 2021
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-horst-seehofer-stellen-gesundheitsreserve-vor-livestream](https://www.spiegel.de/politik/deutschland/jens-spahn-und-horst-seehofer-stellen-gesundheitsreserve-vor-livestream-a-175d1201-51f3-49b9-9082-70f007334770#ref=rss)
-* [https://www.spiegel.de/auto/google-maps-stiftung-warentest-haelt-klassische-navis-fuer-besser](https://www.spiegel.de/auto/google-maps-stiftung-warentest-haelt-klassische-navis-fuer-besser-a-c23a9364-a9fd-4f36-87e4-31d46c1c12d0#ref=rss)
-### große
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-horst-seehofer-stellen-gesundheitsreserve-vor-livestream](https://www.spiegel.de/politik/deutschland/jens-spahn-und-horst-seehofer-stellen-gesundheitsreserve-vor-livestream-a-175d1201-51f3-49b9-9082-70f007334770#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/lehrerverband-erwartet-grosse-einschraenkungen-im-neuen-schuljahr](https://www.spiegel.de/panorama/bildung/lehrerverband-erwartet-grosse-einschraenkungen-im-neuen-schuljahr-a-d64c7393-53cc-4ef7-b992-9e8f5f4d3f2c#ref=rss)
-### vorbereiten
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-und-horst-seehofer-stellen-gesundheitsreserve-vor-livestream](https://www.spiegel.de/politik/deutschland/jens-spahn-und-horst-seehofer-stellen-gesundheitsreserve-vor-livestream-a-175d1201-51f3-49b9-9082-70f007334770#ref=rss)
-* [https://www.spiegel.de/panorama/kanada-zehntausende-menschen-sollen-sich-wegen-waldbraenden-auf-evakuierung-vorbereiten](https://www.spiegel.de/panorama/kanada-zehntausende-menschen-sollen-sich-wegen-waldbraenden-auf-evakuierung-vorbereiten-a-b09eb7bd-faed-46cd-b40f-33338f107bcc#ref=rss)
-### becca
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio-a-9cb0cdba-621e-4334-b819-03b48525b1e1#ref=rss)
-### paralympics
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio-a-9cb0cdba-621e-4334-b819-03b48525b1e1#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio-a-9cb0cdba-621e-4334-b819-03b48525b1e1#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2021-in-tokio-und-corona-wenn-sogar-die-japaner-auf-die-strasse-gehen](https://www.spiegel.de/sport/olympia/olympia-2021-in-tokio-und-corona-wenn-sogar-die-japaner-auf-die-strasse-gehen-a-846d4efe-b53b-4173-932b-02018fe39872#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2021-viererkajak-des-deutschen-teams-durch-gabelstapler-zerstoert](https://www.spiegel.de/sport/olympia/olympia-2021-viererkajak-des-deutschen-teams-durch-gabelstapler-zerstoert-a-9f4be51d-4860-464e-af1c-c856c661250b#ref=rss)
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury](https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury-a-c2c19bea-83b0-4375-b354-f73662f49d6d#ref=rss)
 ### tokio
 
-* [https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio-a-9cb0cdba-621e-4334-b819-03b48525b1e1#ref=rss)
-* [https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests](https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests-a-35d7d82b-1d8f-47d9-9599-6202befc3362#ref=rss)
-### athletinnen
+* [https://www.spiegel.de/sport/olympia/olympia-2021-in-tokio-und-corona-wenn-sogar-die-japaner-auf-die-strasse-gehen](https://www.spiegel.de/sport/olympia/olympia-2021-in-tokio-und-corona-wenn-sogar-die-japaner-auf-die-strasse-gehen-a-846d4efe-b53b-4173-932b-02018fe39872#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2021-viererkajak-des-deutschen-teams-durch-gabelstapler-zerstoert](https://www.spiegel.de/sport/olympia/olympia-2021-viererkajak-des-deutschen-teams-durch-gabelstapler-zerstoert-a-9f4be51d-4860-464e-af1c-c856c661250b#ref=rss)
+### lidl
 
-* [https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio-a-9cb0cdba-621e-4334-b819-03b48525b1e1#ref=rss)
-* [https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests](https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests-a-35d7d82b-1d8f-47d9-9599-6202befc3362#ref=rss)
-### start
+* [https://www.spiegel.de/wirtschaft/wachabloesung-kenneth-macgrath-wird-neuer-vize-von-lidl](https://www.spiegel.de/wirtschaft/wachabloesung-kenneth-macgrath-wird-neuer-vize-von-lidl-a-324e42c0-56b0-44a8-9051-a2846613f54e#ref=rss)
+### nord
 
-* [https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-us-schwimmerin-becca-meyers-sagt-fuer-paralympics-ab-mutter-darf-nicht-nach-tokio-a-9cb0cdba-621e-4334-b819-03b48525b1e1#ref=rss)
-* [https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests](https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests-a-35d7d82b-1d8f-47d9-9599-6202befc3362#ref=rss)
-### staat
+* [https://www.spiegel.de/ausland/nord-stream-2-berlin-und-washington-einigen-sich-ueber-ostseepipeline](https://www.spiegel.de/ausland/nord-stream-2-berlin-und-washington-einigen-sich-ueber-ostseepipeline-a-62596c5e-323a-4cb7-902d-122dc97b8800#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2](https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2-a-44372d1e-969d-4e74-979e-b6d4e92477e6#ref=rss)
+### stream
 
-* [https://www.spiegel.de/wirtschaft/soziales/baupreise-staat-muss-mehr-geld-fuer-strassen-und-bruecken-ausgeben](https://www.spiegel.de/wirtschaft/soziales/baupreise-staat-muss-mehr-geld-fuer-strassen-und-bruecken-ausgeben-a-3258d69e-2a00-4652-b859-d1c0fb5ee782#ref=rss)
-### zehn
+* [https://www.spiegel.de/ausland/nord-stream-2-berlin-und-washington-einigen-sich-ueber-ostseepipeline](https://www.spiegel.de/ausland/nord-stream-2-berlin-und-washington-einigen-sich-ueber-ostseepipeline-a-62596c5e-323a-4cb7-902d-122dc97b8800#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2](https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2-a-44372d1e-969d-4e74-979e-b6d4e92477e6#ref=rss)
+### 2
 
-* [https://www.spiegel.de/wirtschaft/soziales/baupreise-staat-muss-mehr-geld-fuer-strassen-und-bruecken-ausgeben](https://www.spiegel.de/wirtschaft/soziales/baupreise-staat-muss-mehr-geld-fuer-strassen-und-bruecken-ausgeben-a-3258d69e-2a00-4652-b859-d1c0fb5ee782#ref=rss)
-* [https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests](https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests-a-35d7d82b-1d8f-47d9-9599-6202befc3362#ref=rss)
-### julia
+* [https://www.spiegel.de/ausland/nord-stream-2-berlin-und-washington-einigen-sich-ueber-ostseepipeline](https://www.spiegel.de/ausland/nord-stream-2-berlin-und-washington-einigen-sich-ueber-ostseepipeline-a-62596c5e-323a-4cb7-902d-122dc97b8800#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2](https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2-a-44372d1e-969d-4e74-979e-b6d4e92477e6#ref=rss)
+### pläne
 
-* [https://www.spiegel.de/panorama/hunde-handel-julia-kloeckner-will-gegen-unserioese-hundeverkaeufer-im-internet-vorgehen](https://www.spiegel.de/panorama/hunde-handel-julia-kloeckner-will-gegen-unserioese-hundeverkaeufer-im-internet-vorgehen-a-4f724749-d258-4789-aeac-232247a0c5cd#ref=rss)
-### klöckner
+* [https://www.spiegel.de/ausland/zypern-internationale-empoerung-ueber-erdogans-plaene-mit-der-geisterstadt-varosha](https://www.spiegel.de/ausland/zypern-internationale-empoerung-ueber-erdogans-plaene-mit-der-geisterstadt-varosha-a-e275f56b-4e2c-4197-9c1d-ec8ce38d55c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bbk-praesident-armin-schuster-katastrophenschuetzer-ohne-macht](https://www.spiegel.de/politik/deutschland/bbk-praesident-armin-schuster-katastrophenschuetzer-ohne-macht-a-48df669f-93ef-443a-8eee-9d4d91f70f95#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/panorama/hunde-handel-julia-kloeckner-will-gegen-unserioese-hundeverkaeufer-im-internet-vorgehen](https://www.spiegel.de/panorama/hunde-handel-julia-kloeckner-will-gegen-unserioese-hundeverkaeufer-im-internet-vorgehen-a-4f724749-d258-4789-aeac-232247a0c5cd#ref=rss)
-### angekündigt
+* [https://www.spiegel.de/ausland/kenia-kindesentfuehrungen-werden-haeufiger-nairobis-verschwundene-kinder](https://www.spiegel.de/ausland/kenia-kindesentfuehrungen-werden-haeufiger-nairobis-verschwundene-kinder-a-be4d4a5f-99c1-43a0-9c43-8df269906514#ref=rss)
+* [https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben](https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben-a-9206e292-0090-4214-9832-0039d2bbafd4#ref=rss)
+### katastrophenschutz
 
-* [https://www.spiegel.de/panorama/hunde-handel-julia-kloeckner-will-gegen-unserioese-hundeverkaeufer-im-internet-vorgehen](https://www.spiegel.de/panorama/hunde-handel-julia-kloeckner-will-gegen-unserioese-hundeverkaeufer-im-internet-vorgehen-a-4f724749-d258-4789-aeac-232247a0c5cd#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-laesst-referendum-ueber-lgbtq-gesetz-abhalten](https://www.spiegel.de/ausland/ungarn-viktor-orban-laesst-referendum-ueber-lgbtq-gesetz-abhalten-a-aa29203c-7558-407d-9ebd-7ae1a8b9f476#ref=rss)
-### völlig
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2](https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2-a-44372d1e-969d-4e74-979e-b6d4e92477e6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-armin-laschet-und-angela-merkel-in-den-hochwassergebieten-philipp-amthors-foto-mit-neonazis-sonntagsfrage](https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-armin-laschet-und-angela-merkel-in-den-hochwassergebieten-philipp-amthors-foto-mit-neonazis-sonntagsfrage-a-974560eb-1bc2-4f79-85ca-0bac358fca63#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/panorama/hunde-handel-julia-kloeckner-will-gegen-unserioese-hundeverkaeufer-im-internet-vorgehen](https://www.spiegel.de/panorama/hunde-handel-julia-kloeckner-will-gegen-unserioese-hundeverkaeufer-im-internet-vorgehen-a-4f724749-d258-4789-aeac-232247a0c5cd#ref=rss)
-* [https://www.spiegel.de/start/guenstige-rezepte-asiatischer-gurkensalat-mit-tofu-fuer-2-euro](https://www.spiegel.de/start/guenstige-rezepte-asiatischer-gurkensalat-mit-tofu-fuer-2-euro-a-97eaa17e-87db-4a1a-b9c1-69ab65de4876#ref=rss)
-### peter
-
-* [https://www.spiegel.de/panorama/justiz/peter-r-de-vries-niederlaender-nehmen-in-amsterdam-abschied-von-getoetetem-reporter](https://www.spiegel.de/panorama/justiz/peter-r-de-vries-niederlaender-nehmen-in-amsterdam-abschied-von-getoetetem-reporter-a-a155bcb2-5ebe-488b-bd47-4830ed4499ca#ref=rss)
-### r
-
-* [https://www.spiegel.de/panorama/justiz/peter-r-de-vries-niederlaender-nehmen-in-amsterdam-abschied-von-getoetetem-reporter](https://www.spiegel.de/panorama/justiz/peter-r-de-vries-niederlaender-nehmen-in-amsterdam-abschied-von-getoetetem-reporter-a-a155bcb2-5ebe-488b-bd47-4830ed4499ca#ref=rss)
-### de
-
-* [https://www.spiegel.de/panorama/justiz/peter-r-de-vries-niederlaender-nehmen-in-amsterdam-abschied-von-getoetetem-reporter](https://www.spiegel.de/panorama/justiz/peter-r-de-vries-niederlaender-nehmen-in-amsterdam-abschied-von-getoetetem-reporter-a-a155bcb2-5ebe-488b-bd47-4830ed4499ca#ref=rss)
-### vries
-
-* [https://www.spiegel.de/panorama/justiz/peter-r-de-vries-niederlaender-nehmen-in-amsterdam-abschied-von-getoetetem-reporter](https://www.spiegel.de/panorama/justiz/peter-r-de-vries-niederlaender-nehmen-in-amsterdam-abschied-von-getoetetem-reporter-a-a155bcb2-5ebe-488b-bd47-4830ed4499ca#ref=rss)
-### nehmen
-
-* [https://www.spiegel.de/panorama/justiz/peter-r-de-vries-niederlaender-nehmen-in-amsterdam-abschied-von-getoetetem-reporter](https://www.spiegel.de/panorama/justiz/peter-r-de-vries-niederlaender-nehmen-in-amsterdam-abschied-von-getoetetem-reporter-a-a155bcb2-5ebe-488b-bd47-4830ed4499ca#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/lehrerverband-erwartet-grosse-einschraenkungen-im-neuen-schuljahr](https://www.spiegel.de/panorama/bildung/lehrerverband-erwartet-grosse-einschraenkungen-im-neuen-schuljahr-a-d64c7393-53cc-4ef7-b992-9e8f5f4d3f2c#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/peter-r-de-vries-niederlaender-nehmen-in-amsterdam-abschied-von-getoetetem-reporter](https://www.spiegel.de/panorama/justiz/peter-r-de-vries-niederlaender-nehmen-in-amsterdam-abschied-von-getoetetem-reporter-a-a155bcb2-5ebe-488b-bd47-4830ed4499ca#ref=rss)
-* [https://www.spiegel.de/panorama/kanada-zehntausende-menschen-sollen-sich-wegen-waldbraenden-auf-evakuierung-vorbereiten](https://www.spiegel.de/panorama/kanada-zehntausende-menschen-sollen-sich-wegen-waldbraenden-auf-evakuierung-vorbereiten-a-b09eb7bd-faed-46cd-b40f-33338f107bcc#ref=rss)
-### viktor
-
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-laesst-referendum-ueber-lgbtq-gesetz-abhalten](https://www.spiegel.de/ausland/ungarn-viktor-orban-laesst-referendum-ueber-lgbtq-gesetz-abhalten-a-aa29203c-7558-407d-9ebd-7ae1a8b9f476#ref=rss)
-### orbán
-
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-laesst-referendum-ueber-lgbtq-gesetz-abhalten](https://www.spiegel.de/ausland/ungarn-viktor-orban-laesst-referendum-ueber-lgbtq-gesetz-abhalten-a-aa29203c-7558-407d-9ebd-7ae1a8b9f476#ref=rss)
-### referendum
-
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-laesst-referendum-ueber-lgbtq-gesetz-abhalten](https://www.spiegel.de/ausland/ungarn-viktor-orban-laesst-referendum-ueber-lgbtq-gesetz-abhalten-a-aa29203c-7558-407d-9ebd-7ae1a8b9f476#ref=rss)
-### lgbtqgesetz
-
-* [https://www.spiegel.de/ausland/ungarn-viktor-orban-laesst-referendum-ueber-lgbtq-gesetz-abhalten](https://www.spiegel.de/ausland/ungarn-viktor-orban-laesst-referendum-ueber-lgbtq-gesetz-abhalten-a-aa29203c-7558-407d-9ebd-7ae1a8b9f476#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-elektro-ladestationen-fuer-konkurrenz-oeffnen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-will-elektro-ladestationen-fuer-konkurrenz-oeffnen-a-501a1426-4bac-4b38-9b2f-37558ba434ae#ref=rss)
-### tofu
-
-* [https://www.spiegel.de/start/guenstige-rezepte-asiatischer-gurkensalat-mit-tofu-fuer-2-euro](https://www.spiegel.de/start/guenstige-rezepte-asiatischer-gurkensalat-mit-tofu-fuer-2-euro-a-97eaa17e-87db-4a1a-b9c1-69ab65de4876#ref=rss)
-### gut
-
-* [https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz](https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz-a-eb218d85-fe97-48eb-b30d-ad4bbf51e13f#ref=rss)
-### kennen
-
-* [https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz](https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz-a-eb218d85-fe97-48eb-b30d-ad4bbf51e13f#ref=rss)
-### kuntz
-
-* [https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz](https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz-a-eb218d85-fe97-48eb-b30d-ad4bbf51e13f#ref=rss)
-### olympische
-
-* [https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz](https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz-a-eb218d85-fe97-48eb-b30d-ad4bbf51e13f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima](https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima-a-a181fc73-00e8-4a4c-bbb7-3a57995ce7f2#ref=rss)
-### fußballturnier
-
-* [https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz](https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz-a-eb218d85-fe97-48eb-b30d-ad4bbf51e13f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bei-olympia-2021-spielplan-ergebnisse-tv-uebertragung](https://www.spiegel.de/sport/fussball/fussball-bei-olympia-2021-spielplan-ergebnisse-tv-uebertragung-a-4a4414d2-80c9-474e-91a1-490fca8f9046#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2](https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2-a-44372d1e-969d-4e74-979e-b6d4e92477e6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nxivm-gruender-keith-raniere-muss-millionenstrafe-an-opfer-zahlen](https://www.spiegel.de/panorama/justiz/nxivm-gruender-keith-raniere-muss-millionenstrafe-an-opfer-zahlen-a-672f4799-af9d-402f-902b-2f94d12a26a3#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz](https://www.spiegel.de/sport/fussball/fussballquiz-wie-gut-kennen-sie-die-karriere-von-stefan-kuntz-a-eb218d85-fe97-48eb-b30d-ad4bbf51e13f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bei-olympia-2021-spielplan-ergebnisse-tv-uebertragung](https://www.spiegel.de/sport/fussball/fussball-bei-olympia-2021-spielplan-ergebnisse-tv-uebertragung-a-4a4414d2-80c9-474e-91a1-490fca8f9046#ref=rss)
-### hochwasser
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2](https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2-a-44372d1e-969d-4e74-979e-b6d4e92477e6#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2032-in-brisbane-eine-letzte-ohrfeige-fuer-die-deutschen-bemuehungen](https://www.spiegel.de/sport/olympia/olympische-spiele-2032-in-brisbane-eine-letzte-ohrfeige-fuer-die-deutschen-bemuehungen-a-b80f20d0-22ee-4ea3-9260-93153a847011#ref=rss)
+* [https://www.spiegel.de/reise/unesco-entzieht-liverpool-den-welterbe-status](https://www.spiegel.de/reise/unesco-entzieht-liverpool-den-welterbe-status-a-fb07be63-5054-4c8a-b21e-369aa45a56a4#ref=rss)
+### daimler
 
-* [https://www.spiegel.de/wissenschaft/natur/hitze-hochwasser-und-landwirtschaft-wie-der-klimawandel-deutschland-veraendern-wird](https://www.spiegel.de/wissenschaft/natur/hitze-hochwasser-und-landwirtschaft-wie-der-klimawandel-deutschland-veraendern-wird-a-2767ff8f-4df4-4054-aa26-3c00bba6e899#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer](https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer-a-f706844f-0d3c-412d-a69d-c7838deb4457#ref=rss)
-### überblick
+* [https://www.spiegel.de/wirtschaft/unternehmen/personalvorstand-wilfried-porth-verlaesst-daimler-im-dezember](https://www.spiegel.de/wirtschaft/unternehmen/personalvorstand-wilfried-porth-verlaesst-daimler-im-dezember-a-950fa6f2-d4cb-4b63-9705-2c25ce4dce44#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wissenschaft/natur/hitze-hochwasser-und-landwirtschaft-wie-der-klimawandel-deutschland-veraendern-wird](https://www.spiegel.de/wissenschaft/natur/hitze-hochwasser-und-landwirtschaft-wie-der-klimawandel-deutschland-veraendern-wird-a-2767ff8f-4df4-4054-aa26-3c00bba6e899#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist](https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist-a-0321007f-3809-407f-8238-b575e53ff3fe#ref=rss)
-### 200
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2032-in-brisbane-eine-letzte-ohrfeige-fuer-die-deutschen-bemuehungen](https://www.spiegel.de/sport/olympia/olympische-spiele-2032-in-brisbane-eine-letzte-ohrfeige-fuer-die-deutschen-bemuehungen-a-b80f20d0-22ee-4ea3-9260-93153a847011#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2021-viererkajak-des-deutschen-teams-durch-gabelstapler-zerstoert](https://www.spiegel.de/sport/olympia/olympia-2021-viererkajak-des-deutschen-teams-durch-gabelstapler-zerstoert-a-9f4be51d-4860-464e-af1c-c856c661250b#ref=rss)
+### armin
 
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer](https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer-a-f706844f-0d3c-412d-a69d-c7838deb4457#ref=rss)
-### opfer
+* [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-zweifelt-an-laschets-klimakompetenz](https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-zweifelt-an-laschets-klimakompetenz-a-afc15a34-1b30-4858-8e00-570b18d4ed41#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bbk-praesident-armin-schuster-katastrophenschuetzer-ohne-macht](https://www.spiegel.de/politik/deutschland/bbk-praesident-armin-schuster-katastrophenschuetzer-ohne-macht-a-48df669f-93ef-443a-8eee-9d4d91f70f95#ref=rss)
+### laschet
 
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer](https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer-a-f706844f-0d3c-412d-a69d-c7838deb4457#ref=rss)
-### hilfen
+* [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-zweifelt-an-laschets-klimakompetenz](https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-zweifelt-an-laschets-klimakompetenz-a-afc15a34-1b30-4858-8e00-570b18d4ed41#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-armin-laschet-und-angela-merkel-in-den-hochwassergebieten-philipp-amthors-foto-mit-neonazis-sonntagsfrage](https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-armin-laschet-und-angela-merkel-in-den-hochwassergebieten-philipp-amthors-foto-mit-neonazis-sonntagsfrage-a-974560eb-1bc2-4f79-85ca-0bac358fca63#ref=rss)
+### plötzlich
 
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer](https://www.spiegel.de/politik/deutschland/bundesregierung-beschliesst-200-millionen-euro-soforthilfe-fuer-hochwasseropfer-a-f706844f-0d3c-412d-a69d-c7838deb4457#ref=rss)
-### erste
+* [https://www.spiegel.de/politik/deutschland/bbk-praesident-armin-schuster-katastrophenschuetzer-ohne-macht](https://www.spiegel.de/politik/deutschland/bbk-praesident-armin-schuster-katastrophenschuetzer-ohne-macht-a-48df669f-93ef-443a-8eee-9d4d91f70f95#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-14-jaehrige-faehrt-unfreiwillig-70-kilometer-auf-gueterzug](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-14-jaehrige-faehrt-unfreiwillig-70-kilometer-auf-gueterzug-a-d4cad72a-d864-4232-8a91-24111e87d463#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-armin-laschet-und-angela-merkel-in-den-hochwassergebieten-philipp-amthors-foto-mit-neonazis-sonntagsfrage](https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-armin-laschet-und-angela-merkel-in-den-hochwassergebieten-philipp-amthors-foto-mit-neonazis-sonntagsfrage-a-974560eb-1bc2-4f79-85ca-0bac358fca63#ref=rss)
+### jens
 
-* [https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests](https://www.spiegel.de/sport/olympia/tokio-erste-athletinnen-verpassen-olympiastart-2021-wegen-positiver-coronatests-a-35d7d82b-1d8f-47d9-9599-6202befc3362#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/bundesverfassungsgericht-weist-beschwerde-gegen-staatstrojaner-regeln-ab](https://www.spiegel.de/netzwelt/netzpolitik/bundesverfassungsgericht-weist-beschwerde-gegen-staatstrojaner-regeln-ab-a-8efe965e-0774-466a-a420-1693483c1587#ref=rss)
-### pipeline
+* [https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben](https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben-a-9206e292-0090-4214-9832-0039d2bbafd4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-vor-inzidenz-von-mehr-als-800-im-oktober](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-vor-inzidenz-von-mehr-als-800-im-oktober-a-edaac7db-1e48-4aa1-bba0-9332987f6822#ref=rss)
+### eismann
 
-* [https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist](https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist-a-0321007f-3809-407f-8238-b575e53ff3fe#ref=rss)
-* [https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein](https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein-a-839006f1-81c8-4616-9171-a6261a2d23e4#ref=rss)
+* [https://www.spiegel.de/psychologie/wenn-der-eismann-taeglich-klingelt](https://www.spiegel.de/psychologie/wenn-der-eismann-taeglich-klingelt-a-49451096-4f9a-4912-b401-c41b1cbf1aed#ref=rss)
+### arbeitgeber
+
+* [https://www.spiegel.de/karriere/flutkatastrophe-muessen-arbeitgeber-freiwillige-helfer-freistellen](https://www.spiegel.de/karriere/flutkatastrophe-muessen-arbeitgeber-freiwillige-helfer-freistellen-a-92fb6078-aa9f-4ef3-bd0f-e4dd85484c4a#ref=rss)
+### helfer
+
+* [https://www.spiegel.de/karriere/flutkatastrophe-muessen-arbeitgeber-freiwillige-helfer-freistellen](https://www.spiegel.de/karriere/flutkatastrophe-muessen-arbeitgeber-freiwillige-helfer-freistellen-a-92fb6078-aa9f-4ef3-bd0f-e4dd85484c4a#ref=rss)
+### japaner
+
+* [https://www.spiegel.de/sport/olympia/olympia-2021-in-tokio-und-corona-wenn-sogar-die-japaner-auf-die-strasse-gehen](https://www.spiegel.de/sport/olympia/olympia-2021-in-tokio-und-corona-wenn-sogar-die-japaner-auf-die-strasse-gehen-a-846d4efe-b53b-4173-932b-02018fe39872#ref=rss)
+### sommerspiele
+
+* [https://www.spiegel.de/sport/olympia/olympia-2021-in-tokio-und-corona-wenn-sogar-die-japaner-auf-die-strasse-gehen](https://www.spiegel.de/sport/olympia/olympia-2021-in-tokio-und-corona-wenn-sogar-die-japaner-auf-die-strasse-gehen-a-846d4efe-b53b-4173-932b-02018fe39872#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2032-in-brisbane-eine-letzte-ohrfeige-fuer-die-deutschen-bemuehungen](https://www.spiegel.de/sport/olympia/olympische-spiele-2032-in-brisbane-eine-letzte-ohrfeige-fuer-die-deutschen-bemuehungen-a-b80f20d0-22ee-4ea3-9260-93153a847011#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/sport/olympia/olympia-2021-in-tokio-und-corona-wenn-sogar-die-japaner-auf-die-strasse-gehen](https://www.spiegel.de/sport/olympia/olympia-2021-in-tokio-und-corona-wenn-sogar-die-japaner-auf-die-strasse-gehen-a-846d4efe-b53b-4173-932b-02018fe39872#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bbk-praesident-armin-schuster-katastrophenschuetzer-ohne-macht](https://www.spiegel.de/politik/deutschland/bbk-praesident-armin-schuster-katastrophenschuetzer-ohne-macht-a-48df669f-93ef-443a-8eee-9d4d91f70f95#ref=rss)
+### kenneth
+
+* [https://www.spiegel.de/wirtschaft/wachabloesung-kenneth-macgrath-wird-neuer-vize-von-lidl](https://www.spiegel.de/wirtschaft/wachabloesung-kenneth-macgrath-wird-neuer-vize-von-lidl-a-324e42c0-56b0-44a8-9051-a2846613f54e#ref=rss)
+### oktober
+
+* [https://www.spiegel.de/wirtschaft/wachabloesung-kenneth-macgrath-wird-neuer-vize-von-lidl](https://www.spiegel.de/wirtschaft/wachabloesung-kenneth-macgrath-wird-neuer-vize-von-lidl-a-324e42c0-56b0-44a8-9051-a2846613f54e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-vor-inzidenz-von-mehr-als-800-im-oktober](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-vor-inzidenz-von-mehr-als-800-im-oktober-a-edaac7db-1e48-4aa1-bba0-9332987f6822#ref=rss)
 ### washington
 
-* [https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist](https://www.spiegel.de/wirtschaft/nord-stream-2-warum-die-pipeline-so-umstritten-ist-a-0321007f-3809-407f-8238-b575e53ff3fe#ref=rss)
-* [https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein](https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein-a-839006f1-81c8-4616-9171-a6261a2d23e4#ref=rss)
-### brisbane
+* [https://www.spiegel.de/ausland/nord-stream-2-berlin-und-washington-einigen-sich-ueber-ostseepipeline](https://www.spiegel.de/ausland/nord-stream-2-berlin-und-washington-einigen-sich-ueber-ostseepipeline-a-62596c5e-323a-4cb7-902d-122dc97b8800#ref=rss)
+### ostseepipeline
 
-* [https://www.spiegel.de/sport/olympia/brisbane-traegt-die-olympischen-sommerspiele-2032-aus](https://www.spiegel.de/sport/olympia/brisbane-traegt-die-olympischen-sommerspiele-2032-aus-a-4d7340cb-8212-45fd-a5e4-9d12620f68c8#ref=rss)
+* [https://www.spiegel.de/ausland/nord-stream-2-berlin-und-washington-einigen-sich-ueber-ostseepipeline](https://www.spiegel.de/ausland/nord-stream-2-berlin-und-washington-einigen-sich-ueber-ostseepipeline-a-62596c5e-323a-4cb7-902d-122dc97b8800#ref=rss)
+### rausch
+
+* [https://www.spiegel.de/kultur/kino/der-rausch-mit-mads-mikkelsen-ist-alkohol-doch-eine-loesung-filmkritik](https://www.spiegel.de/kultur/kino/der-rausch-mit-mads-mikkelsen-ist-alkohol-doch-eine-loesung-filmkritik-a-17a51d13-16e8-437d-96a0-9b85cbf52b06#ref=rss)
+### mads
+
+* [https://www.spiegel.de/kultur/kino/der-rausch-mit-mads-mikkelsen-ist-alkohol-doch-eine-loesung-filmkritik](https://www.spiegel.de/kultur/kino/der-rausch-mit-mads-mikkelsen-ist-alkohol-doch-eine-loesung-filmkritik-a-17a51d13-16e8-437d-96a0-9b85cbf52b06#ref=rss)
+### mikkelsen
+
+* [https://www.spiegel.de/kultur/kino/der-rausch-mit-mads-mikkelsen-ist-alkohol-doch-eine-loesung-filmkritik](https://www.spiegel.de/kultur/kino/der-rausch-mit-mads-mikkelsen-ist-alkohol-doch-eine-loesung-filmkritik-a-17a51d13-16e8-437d-96a0-9b85cbf52b06#ref=rss)
+### film
+
+* [https://www.spiegel.de/kultur/kino/der-rausch-mit-mads-mikkelsen-ist-alkohol-doch-eine-loesung-filmkritik](https://www.spiegel.de/kultur/kino/der-rausch-mit-mads-mikkelsen-ist-alkohol-doch-eine-loesung-filmkritik-a-17a51d13-16e8-437d-96a0-9b85cbf52b06#ref=rss)
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury](https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury-a-c2c19bea-83b0-4375-b354-f73662f49d6d#ref=rss)
+### oscar
+
+* [https://www.spiegel.de/kultur/kino/der-rausch-mit-mads-mikkelsen-ist-alkohol-doch-eine-loesung-filmkritik](https://www.spiegel.de/kultur/kino/der-rausch-mit-mads-mikkelsen-ist-alkohol-doch-eine-loesung-filmkritik-a-17a51d13-16e8-437d-96a0-9b85cbf52b06#ref=rss)
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury](https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury-a-c2c19bea-83b0-4375-b354-f73662f49d6d#ref=rss)
+### zypern
+
+* [https://www.spiegel.de/ausland/zypern-internationale-empoerung-ueber-erdogans-plaene-mit-der-geisterstadt-varosha](https://www.spiegel.de/ausland/zypern-internationale-empoerung-ueber-erdogans-plaene-mit-der-geisterstadt-varosha-a-e275f56b-4e2c-4197-9c1d-ec8ce38d55c8#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/ausland/zypern-internationale-empoerung-ueber-erdogans-plaene-mit-der-geisterstadt-varosha](https://www.spiegel.de/ausland/zypern-internationale-empoerung-ueber-erdogans-plaene-mit-der-geisterstadt-varosha-a-e275f56b-4e2c-4197-9c1d-ec8ce38d55c8#ref=rss)
+* [https://www.spiegel.de/reise/unesco-entzieht-liverpool-den-welterbe-status](https://www.spiegel.de/reise/unesco-entzieht-liverpool-den-welterbe-status-a-fb07be63-5054-4c8a-b21e-369aa45a56a4#ref=rss)
+### kenia
+
+* [https://www.spiegel.de/ausland/kenia-kindesentfuehrungen-werden-haeufiger-nairobis-verschwundene-kinder](https://www.spiegel.de/ausland/kenia-kindesentfuehrungen-werden-haeufiger-nairobis-verschwundene-kinder-a-be4d4a5f-99c1-43a0-9c43-8df269906514#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/ausland/kenia-kindesentfuehrungen-werden-haeufiger-nairobis-verschwundene-kinder](https://www.spiegel.de/ausland/kenia-kindesentfuehrungen-werden-haeufiger-nairobis-verschwundene-kinder-a-be4d4a5f-99c1-43a0-9c43-8df269906514#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gefaengnis-haellby-geiselnahme-in-schwedischem-gefaengnis-taeter-fordern-pizza](https://www.spiegel.de/panorama/justiz/gefaengnis-haellby-geiselnahme-in-schwedischem-gefaengnis-taeter-fordern-pizza-a-4e639622-a0dc-4383-bae9-c98fe1de6aa7#ref=rss)
+### klimawandel
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2](https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2-a-44372d1e-969d-4e74-979e-b6d4e92477e6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-zweifelt-an-laschets-klimakompetenz](https://www.spiegel.de/politik/deutschland/umfrage-mehrheit-zweifelt-an-laschets-klimakompetenz-a-afc15a34-1b30-4858-8e00-570b18d4ed41#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2](https://www.spiegel.de/politik/deutschland/news-des-tages-klimawandel-katastrophenschutz-nord-stream-2-a-44372d1e-969d-4e74-979e-b6d4e92477e6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-armin-laschet-und-angela-merkel-in-den-hochwassergebieten-philipp-amthors-foto-mit-neonazis-sonntagsfrage](https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-armin-laschet-und-angela-merkel-in-den-hochwassergebieten-philipp-amthors-foto-mit-neonazis-sonntagsfrage-a-974560eb-1bc2-4f79-85ca-0bac358fca63#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/panorama/justiz/gefaengnis-haellby-geiselnahme-in-schwedischem-gefaengnis-taeter-fordern-pizza](https://www.spiegel.de/panorama/justiz/gefaengnis-haellby-geiselnahme-in-schwedischem-gefaengnis-taeter-fordern-pizza-a-4e639622-a0dc-4383-bae9-c98fe1de6aa7#ref=rss)
+### wilfried
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/personalvorstand-wilfried-porth-verlaesst-daimler-im-dezember](https://www.spiegel.de/wirtschaft/unternehmen/personalvorstand-wilfried-porth-verlaesst-daimler-im-dezember-a-950fa6f2-d4cb-4b63-9705-2c25ce4dce44#ref=rss)
+### porth
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/personalvorstand-wilfried-porth-verlaesst-daimler-im-dezember](https://www.spiegel.de/wirtschaft/unternehmen/personalvorstand-wilfried-porth-verlaesst-daimler-im-dezember-a-950fa6f2-d4cb-4b63-9705-2c25ce4dce44#ref=rss)
+### bald
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/personalvorstand-wilfried-porth-verlaesst-daimler-im-dezember](https://www.spiegel.de/wirtschaft/unternehmen/personalvorstand-wilfried-porth-verlaesst-daimler-im-dezember-a-950fa6f2-d4cb-4b63-9705-2c25ce4dce44#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-vor-inzidenz-von-mehr-als-800-im-oktober](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-vor-inzidenz-von-mehr-als-800-im-oktober-a-edaac7db-1e48-4aa1-bba0-9332987f6822#ref=rss)
 ### 2032
 
-* [https://www.spiegel.de/sport/olympia/brisbane-traegt-die-olympischen-sommerspiele-2032-aus](https://www.spiegel.de/sport/olympia/brisbane-traegt-die-olympischen-sommerspiele-2032-aus-a-4d7340cb-8212-45fd-a5e4-9d12620f68c8#ref=rss)
-### gastgeber
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2032-in-brisbane-eine-letzte-ohrfeige-fuer-die-deutschen-bemuehungen](https://www.spiegel.de/sport/olympia/olympische-spiele-2032-in-brisbane-eine-letzte-ohrfeige-fuer-die-deutschen-bemuehungen-a-b80f20d0-22ee-4ea3-9260-93153a847011#ref=rss)
+### brisbane
 
-* [https://www.spiegel.de/sport/olympia/brisbane-traegt-die-olympischen-sommerspiele-2032-aus](https://www.spiegel.de/sport/olympia/brisbane-traegt-die-olympischen-sommerspiele-2032-aus-a-4d7340cb-8212-45fd-a5e4-9d12620f68c8#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima](https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima-a-a181fc73-00e8-4a4c-bbb7-3a57995ce7f2#ref=rss)
-### mehreren
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-2032-in-brisbane-eine-letzte-ohrfeige-fuer-die-deutschen-bemuehungen](https://www.spiegel.de/sport/olympia/olympische-spiele-2032-in-brisbane-eine-letzte-ohrfeige-fuer-die-deutschen-bemuehungen-a-b80f20d0-22ee-4ea3-9260-93153a847011#ref=rss)
+### venedig
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/bundesverfassungsgericht-weist-beschwerde-gegen-staatstrojaner-regeln-ab](https://www.spiegel.de/netzwelt/netzpolitik/bundesverfassungsgericht-weist-beschwerde-gegen-staatstrojaner-regeln-ab-a-8efe965e-0774-466a-a420-1693483c1587#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/australien-ehepaar-haelt-frau-jahrelang-als-sklavin-haftstrafen](https://www.spiegel.de/panorama/justiz/australien-ehepaar-haelt-frau-jahrelang-als-sklavin-haftstrafen-a-9ff5a418-547c-4e47-b0a8-d037dd61777c#ref=rss)
-### australien
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury](https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury-a-c2c19bea-83b0-4375-b354-f73662f49d6d#ref=rss)
+### chloé
 
-* [https://www.spiegel.de/panorama/justiz/australien-ehepaar-haelt-frau-jahrelang-als-sklavin-haftstrafen](https://www.spiegel.de/panorama/justiz/australien-ehepaar-haelt-frau-jahrelang-als-sklavin-haftstrafen-a-9ff5a418-547c-4e47-b0a8-d037dd61777c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima](https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima-a-a181fc73-00e8-4a4c-bbb7-3a57995ce7f2#ref=rss)
-### frau
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury](https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury-a-c2c19bea-83b0-4375-b354-f73662f49d6d#ref=rss)
+### zhao
 
-* [https://www.spiegel.de/panorama/justiz/australien-ehepaar-haelt-frau-jahrelang-als-sklavin-haftstrafen](https://www.spiegel.de/panorama/justiz/australien-ehepaar-haelt-frau-jahrelang-als-sklavin-haftstrafen-a-9ff5a418-547c-4e47-b0a8-d037dd61777c#ref=rss)
-### südafrika
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury](https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury-a-c2c19bea-83b0-4375-b354-f73662f49d6d#ref=rss)
+### bong
 
-* [https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden](https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden-a-2c107a1f-1e61-4764-8b50-ab569cad90dc#ref=rss)
-### zehntausende
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury](https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury-a-c2c19bea-83b0-4375-b354-f73662f49d6d#ref=rss)
+### joonho
 
-* [https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden](https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden-a-2c107a1f-1e61-4764-8b50-ab569cad90dc#ref=rss)
-* [https://www.spiegel.de/panorama/kanada-zehntausende-menschen-sollen-sich-wegen-waldbraenden-auf-evakuierung-vorbereiten](https://www.spiegel.de/panorama/kanada-zehntausende-menschen-sollen-sich-wegen-waldbraenden-auf-evakuierung-vorbereiten-a-b09eb7bd-faed-46cd-b40f-33338f107bcc#ref=rss)
-### geschäfte
-
-* [https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden](https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden-a-2c107a1f-1e61-4764-8b50-ab569cad90dc#ref=rss)
-### schaden
-
-* [https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden](https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden-a-2c107a1f-1e61-4764-8b50-ab569cad90dc#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden](https://www.spiegel.de/ausland/suedafrika-zehntausende-geschaefte-von-krawallen-betroffen-hunderte-millionen-euro-schaden-a-2c107a1f-1e61-4764-8b50-ab569cad90dc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/thueringen-fraktionsstatus-der-fdp-im-landtag-gefaehrdet](https://www.spiegel.de/politik/deutschland/thueringen-fraktionsstatus-der-fdp-im-landtag-gefaehrdet-a-bbd75d54-1bc6-49df-b17d-4a46408f3327#ref=rss)
+* [https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury](https://www.spiegel.de/kultur/kino/filmfestspiele-von-venedig-chloe-zhao-neben-bong-joon-ho-in-der-jury-a-c2c19bea-83b0-4375-b354-f73662f49d6d#ref=rss)
 ### thüringen
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-fraktionsstatus-der-fdp-im-landtag-gefaehrdet](https://www.spiegel.de/politik/deutschland/thueringen-fraktionsstatus-der-fdp-im-landtag-gefaehrdet-a-bbd75d54-1bc6-49df-b17d-4a46408f3327#ref=rss)
-### fdp
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten](https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten-a-af77c740-6b98-4dc4-9ea2-fcf7f7da26e6#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-fraktionsstatus-der-fdp-im-landtag-gefaehrdet](https://www.spiegel.de/politik/deutschland/thueringen-fraktionsstatus-der-fdp-im-landtag-gefaehrdet-a-bbd75d54-1bc6-49df-b17d-4a46408f3327#ref=rss)
-### landtag
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten](https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten-a-af77c740-6b98-4dc4-9ea2-fcf7f7da26e6#ref=rss)
+### misstrauensvotum
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-fraktionsstatus-der-fdp-im-landtag-gefaehrdet](https://www.spiegel.de/politik/deutschland/thueringen-fraktionsstatus-der-fdp-im-landtag-gefaehrdet-a-bbd75d54-1bc6-49df-b17d-4a46408f3327#ref=rss)
-### lehrerverband
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten](https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten-a-af77c740-6b98-4dc4-9ea2-fcf7f7da26e6#ref=rss)
+### bodo
 
-* [https://www.spiegel.de/panorama/bildung/lehrerverband-erwartet-grosse-einschraenkungen-im-neuen-schuljahr](https://www.spiegel.de/panorama/bildung/lehrerverband-erwartet-grosse-einschraenkungen-im-neuen-schuljahr-a-d64c7393-53cc-4ef7-b992-9e8f5f4d3f2c#ref=rss)
-### stiftung
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten](https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten-a-af77c740-6b98-4dc4-9ea2-fcf7f7da26e6#ref=rss)
+### ramelow
 
-* [https://www.spiegel.de/auto/google-maps-stiftung-warentest-haelt-klassische-navis-fuer-besser](https://www.spiegel.de/auto/google-maps-stiftung-warentest-haelt-klassische-navis-fuer-besser-a-c23a9364-a9fd-4f36-87e4-31d46c1c12d0#ref=rss)
-### warentest
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten](https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten-a-af77c740-6b98-4dc4-9ea2-fcf7f7da26e6#ref=rss)
+### enthalten
 
-* [https://www.spiegel.de/auto/google-maps-stiftung-warentest-haelt-klassische-navis-fuer-besser](https://www.spiegel.de/auto/google-maps-stiftung-warentest-haelt-klassische-navis-fuer-besser-a-c23a9364-a9fd-4f36-87e4-31d46c1c12d0#ref=rss)
-### streit
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten](https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten-a-af77c740-6b98-4dc4-9ea2-fcf7f7da26e6#ref=rss)
+### afd
 
-* [https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein](https://www.spiegel.de/ausland/nord-stream-2-joe-biden-lenkt-im-streit-im-gas-streit-mit-deutschland-offenbar-ein-a-839006f1-81c8-4616-9171-a6261a2d23e4#ref=rss)
-### japan
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten](https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten-a-af77c740-6b98-4dc4-9ea2-fcf7f7da26e6#ref=rss)
+### ministerpräsident
 
-* [https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima](https://www.spiegel.de/sport/olympia/olympische-spiele-2021-softballerinnen-aus-japan-starten-mit-sieg-in-fukushima-a-a181fc73-00e8-4a4c-bbb7-3a57995ce7f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten](https://www.spiegel.de/politik/deutschland/thueringen-cdu-will-sich-bei-misstrauensvotum-gegen-bodo-ramelow-enthalten-a-af77c740-6b98-4dc4-9ea2-fcf7f7da26e6#ref=rss)
+* [https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben](https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben-a-9206e292-0090-4214-9832-0039d2bbafd4#ref=rss)
+### schuster
+
+* [https://www.spiegel.de/politik/deutschland/bbk-praesident-armin-schuster-katastrophenschuetzer-ohne-macht](https://www.spiegel.de/politik/deutschland/bbk-praesident-armin-schuster-katastrophenschuetzer-ohne-macht-a-48df669f-93ef-443a-8eee-9d4d91f70f95#ref=rss)
+### hildesheim
+
+* [https://www.spiegel.de/panorama/hildesheim-zwei-menschen-sterben-bei-absturz-von-tragschrauber](https://www.spiegel.de/panorama/hildesheim-zwei-menschen-sterben-bei-absturz-von-tragschrauber-a-46242837-6ddb-4cbe-a5c2-debe10cf739e#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/hildesheim-zwei-menschen-sterben-bei-absturz-von-tragschrauber](https://www.spiegel.de/panorama/hildesheim-zwei-menschen-sterben-bei-absturz-von-tragschrauber-a-46242837-6ddb-4cbe-a5c2-debe10cf739e#ref=rss)
+* [https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben](https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben-a-9206e292-0090-4214-9832-0039d2bbafd4#ref=rss)
+### 14jährige
+
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-14-jaehrige-faehrt-unfreiwillig-70-kilometer-auf-gueterzug](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-14-jaehrige-faehrt-unfreiwillig-70-kilometer-auf-gueterzug-a-d4cad72a-d864-4232-8a91-24111e87d463#ref=rss)
+### güterzug
+
+* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-14-jaehrige-faehrt-unfreiwillig-70-kilometer-auf-gueterzug](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-14-jaehrige-faehrt-unfreiwillig-70-kilometer-auf-gueterzug-a-d4cad72a-d864-4232-8a91-24111e87d463#ref=rss)
+### stoltenberg
+
+* [https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben](https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben-a-9206e292-0090-4214-9832-0039d2bbafd4#ref=rss)
+### norwegen
+
+* [https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben](https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben-a-9206e292-0090-4214-9832-0039d2bbafd4#ref=rss)
+### darunter
+
+* [https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben](https://www.spiegel.de/ausland/jens-stoltenberg-ueber-die-anschlaege-in-norwegen-es-war-der-schlimmste-tag-in-meinem-leben-a-9206e292-0090-4214-9832-0039d2bbafd4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nxivm-gruender-keith-raniere-muss-millionenstrafe-an-opfer-zahlen](https://www.spiegel.de/panorama/justiz/nxivm-gruender-keith-raniere-muss-millionenstrafe-an-opfer-zahlen-a-672f4799-af9d-402f-902b-2f94d12a26a3#ref=rss)
+### marokko
+
+* [https://www.spiegel.de/ausland/pegasus-affaere-marokko-bestreitet-ausspaeh-vorwuerfe](https://www.spiegel.de/ausland/pegasus-affaere-marokko-bestreitet-ausspaeh-vorwuerfe-a-96413d24-2605-4afc-9d0e-5b8073602204#ref=rss)
+### dazu
+
+* [https://www.spiegel.de/ausland/pegasus-affaere-marokko-bestreitet-ausspaeh-vorwuerfe](https://www.spiegel.de/ausland/pegasus-affaere-marokko-bestreitet-ausspaeh-vorwuerfe-a-96413d24-2605-4afc-9d0e-5b8073602204#ref=rss)
+* [https://www.spiegel.de/psychologie/hochwasser-und-flut-wie-bewaeltigt-man-ein-solches-trauma](https://www.spiegel.de/psychologie/hochwasser-und-flut-wie-bewaeltigt-man-ein-solches-trauma-a-d7ddb237-681b-4554-ace8-02d9f7dce762#ref=rss)
+### wahlkampf
+
+* [https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-armin-laschet-und-angela-merkel-in-den-hochwassergebieten-philipp-amthors-foto-mit-neonazis-sonntagsfrage](https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-armin-laschet-und-angela-merkel-in-den-hochwassergebieten-philipp-amthors-foto-mit-neonazis-sonntagsfrage-a-974560eb-1bc2-4f79-85ca-0bac358fca63#ref=rss)
+### keith
+
+* [https://www.spiegel.de/panorama/justiz/nxivm-gruender-keith-raniere-muss-millionenstrafe-an-opfer-zahlen](https://www.spiegel.de/panorama/justiz/nxivm-gruender-keith-raniere-muss-millionenstrafe-an-opfer-zahlen-a-672f4799-af9d-402f-902b-2f94d12a26a3#ref=rss)
+### raniere
+
+* [https://www.spiegel.de/panorama/justiz/nxivm-gruender-keith-raniere-muss-millionenstrafe-an-opfer-zahlen](https://www.spiegel.de/panorama/justiz/nxivm-gruender-keith-raniere-muss-millionenstrafe-an-opfer-zahlen-a-672f4799-af9d-402f-902b-2f94d12a26a3#ref=rss)
+### bgh
+
+* [https://www.spiegel.de/auto/umtauschrecht-von-schummeldieseln-bundesgerichtshof-setzt-frist-fuer-neuwagen-ersatz](https://www.spiegel.de/auto/umtauschrecht-von-schummeldieseln-bundesgerichtshof-setzt-frist-fuer-neuwagen-ersatz-a-42f8d834-5a54-4b85-989c-83351a995702#ref=rss)
+### spahn
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-vor-inzidenz-von-mehr-als-800-im-oktober](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-vor-inzidenz-von-mehr-als-800-im-oktober-a-edaac7db-1e48-4aa1-bba0-9332987f6822#ref=rss)
 
