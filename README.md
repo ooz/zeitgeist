@@ -109,13 +109,13 @@ linie(272) ausbauen(271) ruf(271) ruhen(271) schleswigholstein(271) exemplare(27
 
 ```
 date, investment, buy price, sell price
-2021-07-14 10:10:00, 1-EUR, 1.18 USD, 1.18 USD
-2021-07-14 10:10:00, 1-EUR, 7.65 CNY, 7.65 CNY
-2021-07-14 10:10:00, crude-oil-brent-barrel, 75.98 USD, 75.98 USD
-2021-07-14 10:10:01, gold-10g, 517.36 EUR, 489.42 EUR
-2021-07-14 10:10:05, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-07-14 10:10:07, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-07-14 10:10:08, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
+2021-07-21 10:09:49, 1-EUR, 1.17 USD, 1.17 USD
+2021-07-21 10:09:49, 1-EUR, 7.63 CNY, 7.63 CNY
+2021-07-21 10:09:49, crude-oil-brent-barrel, 70.28 USD, 70.28 USD
+2021-07-21 10:09:50, gold-10g, 516.14 EUR, 488.21 EUR
+2021-07-21 10:09:54, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-07-21 10:09:56, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-07-21 10:09:57, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
 ```
 
 <footer>
