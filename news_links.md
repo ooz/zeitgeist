@@ -4,355 +4,314 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### tokio
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio-a-32763772-7474-44d7-9e14-b1727f1a583c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte](https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte-a-cc66f240-aa78-4126-a50a-9c89e926ee40#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wie-das-skateboard-ins-rollen-kam-geschichte-einer-sportart](https://www.spiegel.de/deinspiegel/wie-das-skateboard-ins-rollen-kam-geschichte-einer-sportart-a-00000000-0002-0001-0000-000171724303#ref=rss)
-* [https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau](https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau-a-56487cb4-fff7-4bad-b8ba-c429b7f6664d#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden](https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden-a-2be54be8-c4bb-4bef-b32a-16c99e0f70d4#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen](https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen-a-97661f29-23a6-4560-b628-dd107e9fe621#ref=rss)
-* [https://www.spiegel.de/familie/was-kinder-im-internet-beachten-sollten-dein-spiegel-podcast](https://www.spiegel.de/familie/was-kinder-im-internet-beachten-sollten-dein-spiegel-podcast-a-144126c0-2752-4da8-8097-9289a027e441#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wie-das-skateboard-ins-rollen-kam-geschichte-einer-sportart](https://www.spiegel.de/deinspiegel/wie-das-skateboard-ins-rollen-kam-geschichte-einer-sportart-a-00000000-0002-0001-0000-000171724303#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/muenster-katholische-kinder-haben-bei-aufnahme-in-katholische-schulen-vorrang](https://www.spiegel.de/panorama/bildung/muenster-katholische-kinder-haben-bei-aufnahme-in-katholische-schulen-vorrang-a-feb0e318-e418-4839-a249-8740f788382d#ref=rss)
-### olympia
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio-a-32763772-7474-44d7-9e14-b1727f1a583c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte](https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte-a-cc66f240-aa78-4126-a50a-9c89e926ee40#ref=rss)
-* [https://www.spiegel.de/sport/olympia/niklas-kaul-verletztam-ende-kam-der-rollstuhl](https://www.spiegel.de/sport/olympia/niklas-kaul-verletztam-ende-kam-der-rollstuhl-a-512c6c83-9e77-47f8-8afc-41084b508c58#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden](https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden-a-2be54be8-c4bb-4bef-b32a-16c99e0f70d4#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/soziales/thueringen-cdu-fraktionschef-mario-voigt-will-von-ungeimpften-hoehere-krankenkassen-beitraege-kassieren](https://www.spiegel.de/wirtschaft/soziales/thueringen-cdu-fraktionschef-mario-voigt-will-von-ungeimpften-hoehere-krankenkassen-beitraege-kassieren-a-90b0ee74-47d4-4b7c-9b31-63eed237a66c#ref=rss)
-* [https://www.spiegel.de/ausland/libanon-frankreich-deutschland-und-die-usa-versprechen-massive-finanzhilfe](https://www.spiegel.de/ausland/libanon-frankreich-deutschland-und-die-usa-versprechen-massive-finanzhilfe-a-2965952a-c716-44cf-b626-f6176d466463#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung](https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung-a-4987c11c-1605-4e43-be33-afb48087c05e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen](https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen-a-147a333c-ef3c-4936-a5d2-c05ded9a59a8#ref=rss)
-### katholische
-
-* [https://www.spiegel.de/panorama/bildung/muenster-katholische-kinder-haben-bei-aufnahme-in-katholische-schulen-vorrang](https://www.spiegel.de/panorama/bildung/muenster-katholische-kinder-haben-bei-aufnahme-in-katholische-schulen-vorrang-a-feb0e318-e418-4839-a249-8740f788382d#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/robinhood-online-broker-erlebt-nach-verpatztem-boersenstart-einen-hoehenflug](https://www.spiegel.de/wirtschaft/unternehmen/robinhood-online-broker-erlebt-nach-verpatztem-boersenstart-einen-hoehenflug-a-04388e38-5224-447f-9002-5f9e08279a7a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen](https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen-a-36a90616-e923-4538-8afd-02f8ab9b9eb9#ref=rss)
-* [https://www.spiegel.de/ausland/deutsch-iranerin-muss-mehr-als-zehn-jahre-ins-gefaengnis](https://www.spiegel.de/ausland/deutsch-iranerin-muss-mehr-als-zehn-jahre-ins-gefaengnis-a-1b46b36b-10fd-4005-8722-ffa5bd5e9ebc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht](https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht-a-37f0d448-2947-481d-9d99-8ccce1f30252#ref=rss)
-### 2021
+* [https://www.spiegel.de/panorama/hochwasserkatastrophe-aktion-flutwein-bringt-mehr-als-2-5-millionen-euro](https://www.spiegel.de/panorama/hochwasserkatastrophe-aktion-flutwein-bringt-mehr-als-2-5-millionen-euro-a-47d3d6d5-3452-4a97-8dff-5054ef8bc388#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen](https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen-a-b8d89aed-45ca-43d8-96f8-c262768b574f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-nimmt-weiter-ab](https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-nimmt-weiter-ab-a-714fb854-4732-477c-b92e-81b7c2c2ef83#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/kurzarbeit-faellt-auf-tiefsten-stand-in-coronakrise](https://www.spiegel.de/wirtschaft/soziales/kurzarbeit-faellt-auf-tiefsten-stand-in-coronakrise-a-d84b923b-b041-4dad-a731-4d3e46ae4dda#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio-a-32763772-7474-44d7-9e14-b1727f1a583c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte](https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte-a-cc66f240-aa78-4126-a50a-9c89e926ee40#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden](https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden-a-2be54be8-c4bb-4bef-b32a-16c99e0f70d4#ref=rss)
-### niklas
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio-a-32763772-7474-44d7-9e14-b1727f1a583c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/niklas-kaul-verletztam-ende-kam-der-rollstuhl](https://www.spiegel.de/sport/olympia/niklas-kaul-verletztam-ende-kam-der-rollstuhl-a-512c6c83-9e77-47f8-8afc-41084b508c58#ref=rss)
-### kaul
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio-a-32763772-7474-44d7-9e14-b1727f1a583c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/niklas-kaul-verletztam-ende-kam-der-rollstuhl](https://www.spiegel.de/sport/olympia/niklas-kaul-verletztam-ende-kam-der-rollstuhl-a-512c6c83-9e77-47f8-8afc-41084b508c58#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen](https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen-a-97661f29-23a6-4560-b628-dd107e9fe621#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-im-ahrtal-abfallwirtschaft-kaempft-gegen-muell-an](https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-im-ahrtal-abfallwirtschaft-kaempft-gegen-muell-an-a-bc0cbf57-ab99-496e-a673-ea9483edd280#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht](https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht-a-37f0d448-2947-481d-9d99-8ccce1f30252#ref=rss)
-### kam
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler](https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler-a-e1df708c-e00e-4a71-95c6-0b384f8d0395#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wie-das-skateboard-ins-rollen-kam-geschichte-einer-sportart](https://www.spiegel.de/deinspiegel/wie-das-skateboard-ins-rollen-kam-geschichte-einer-sportart-a-00000000-0002-0001-0000-000171724303#ref=rss)
-* [https://www.spiegel.de/sport/olympia/niklas-kaul-verletztam-ende-kam-der-rollstuhl](https://www.spiegel.de/sport/olympia/niklas-kaul-verletztam-ende-kam-der-rollstuhl-a-512c6c83-9e77-47f8-8afc-41084b508c58#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/karl-heinz-bohrer-ist-tot-kritiker-und-literaturtheoretiker-gestorben](https://www.spiegel.de/kultur/literatur/karl-heinz-bohrer-ist-tot-kritiker-und-literaturtheoretiker-gestorben-a-63e48b0f-92a3-45a2-ac90-d2f2cc84110f#ref=rss)
+* [https://www.spiegel.de/kultur/martin-perscheid-bekannter-deutscher-cartoonist-gestorben](https://www.spiegel.de/kultur/martin-perscheid-bekannter-deutscher-cartoonist-gestorben-a-f00f9563-d12b-4253-8b41-1a10f0e5a4f4#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen](https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen-a-36a90616-e923-4538-8afd-02f8ab9b9eb9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen](https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen-a-147a333c-ef3c-4936-a5d2-c05ded9a59a8#ref=rss)
-### streit
+* [https://www.spiegel.de/kultur/martin-perscheid-bekannter-deutscher-cartoonist-gestorben](https://www.spiegel.de/kultur/martin-perscheid-bekannter-deutscher-cartoonist-gestorben-a-f00f9563-d12b-4253-8b41-1a10f0e5a4f4#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/dlrg-zahl-der-badetoten-im-sommer-jahresvergleich-leicht-gestiegen](https://www.spiegel.de/panorama/gesellschaft/dlrg-zahl-der-badetoten-im-sommer-jahresvergleich-leicht-gestiegen-a-7a78a7e7-8ff1-4f43-994e-7f3690a8d3ea#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2021-baseball-spieler-eddy-alvarez-der-sommer-winter-mann](https://www.spiegel.de/sport/olympia/olympia-2021-baseball-spieler-eddy-alvarez-der-sommer-winter-mann-a-c97cf5ee-2c4b-4396-bb36-5f2075d2fd79#ref=rss)
+### olympia
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/fleischkonzern-toennies-wird-nicht-verkauft-betrieb-bleibt-in-familienhand](https://www.spiegel.de/wirtschaft/unternehmen/fleischkonzern-toennies-wird-nicht-verkauft-betrieb-bleibt-in-familienhand-a-3c423c9f-0f51-4025-b472-dfe5d809d5a1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-attacke-auf-imbiss-in-altglienicke-nach-streit-um-maskenpflicht](https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-attacke-auf-imbiss-in-altglienicke-nach-streit-um-maskenpflicht-a-86846e61-e905-4eaa-a536-8d4526c7d280#ref=rss)
-### tag
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio-a-32763772-7474-44d7-9e14-b1727f1a583c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte](https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte-a-cc66f240-aa78-4126-a50a-9c89e926ee40#ref=rss)
-### frank
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio-a-32763772-7474-44d7-9e14-b1727f1a583c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler](https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler-a-e1df708c-e00e-4a71-95c6-0b384f8d0395#ref=rss)
-### stäbler
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio-a-32763772-7474-44d7-9e14-b1727f1a583c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler](https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler-a-e1df708c-e00e-4a71-95c6-0b384f8d0395#ref=rss)
-### medaille
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio-a-32763772-7474-44d7-9e14-b1727f1a583c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden](https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden-a-2be54be8-c4bb-4bef-b32a-16c99e0f70d4#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio-a-32763772-7474-44d7-9e14-b1727f1a583c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fleischkonzern-toennies-wird-nicht-verkauft-betrieb-bleibt-in-familienhand](https://www.spiegel.de/wirtschaft/unternehmen/fleischkonzern-toennies-wird-nicht-verkauft-betrieb-bleibt-in-familienhand-a-3c423c9f-0f51-4025-b472-dfe5d809d5a1#ref=rss)
-### rollstuhl
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio](https://www.spiegel.de/sport/olympia/olympia-2021-heute-das-waren-die-entscheidungen-an-tag-zwoelf-in-tokio-a-32763772-7474-44d7-9e14-b1727f1a583c#ref=rss)
-* [https://www.spiegel.de/sport/olympia/niklas-kaul-verletztam-ende-kam-der-rollstuhl](https://www.spiegel.de/sport/olympia/niklas-kaul-verletztam-ende-kam-der-rollstuhl-a-512c6c83-9e77-47f8-8afc-41084b508c58#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen](https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen-a-97661f29-23a6-4560-b628-dd107e9fe621#ref=rss)
-### luftfilter
-
-* [https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen](https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen-a-97661f29-23a6-4560-b628-dd107e9fe621#ref=rss)
-### impfungen
-
-* [https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen](https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen-a-97661f29-23a6-4560-b628-dd107e9fe621#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/thueringen-cdu-fraktionschef-mario-voigt-will-von-ungeimpften-hoehere-krankenkassen-beitraege-kassieren](https://www.spiegel.de/wirtschaft/soziales/thueringen-cdu-fraktionschef-mario-voigt-will-von-ungeimpften-hoehere-krankenkassen-beitraege-kassieren-a-90b0ee74-47d4-4b7c-9b31-63eed237a66c#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen](https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen-a-97661f29-23a6-4560-b628-dd107e9fe621#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/muenster-katholische-kinder-haben-bei-aufnahme-in-katholische-schulen-vorrang](https://www.spiegel.de/panorama/bildung/muenster-katholische-kinder-haben-bei-aufnahme-in-katholische-schulen-vorrang-a-feb0e318-e418-4839-a249-8740f788382d#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen](https://www.spiegel.de/panorama/bildung/schulstart-in-hamburg-ohne-luftfilter-und-impfungen-wird-schon-schiefgehen-a-97661f29-23a6-4560-b628-dd107e9fe621#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mattel-ehrt-astrazeneca-entwicklerin-sarah-gilbert-mit-eigener-barbie](https://www.spiegel.de/wirtschaft/unternehmen/mattel-ehrt-astrazeneca-entwicklerin-sarah-gilbert-mit-eigener-barbie-a-430a2d66-068a-4af8-b794-f730c227d754#ref=rss)
-### bayerns
-
-* [https://www.spiegel.de/politik/deutschland/querdenker-wollen-bayerns-landtag-mit-volksbegehren-abberufen](https://www.spiegel.de/politik/deutschland/querdenker-wollen-bayerns-landtag-mit-volksbegehren-abberufen-a-927a0787-3321-4113-a978-7df4ad2190d4#ref=rss)
-### landtag
-
-* [https://www.spiegel.de/politik/deutschland/querdenker-wollen-bayerns-landtag-mit-volksbegehren-abberufen](https://www.spiegel.de/politik/deutschland/querdenker-wollen-bayerns-landtag-mit-volksbegehren-abberufen-a-927a0787-3321-4113-a978-7df4ad2190d4#ref=rss)
-### volksbegehren
-
-* [https://www.spiegel.de/politik/deutschland/querdenker-wollen-bayerns-landtag-mit-volksbegehren-abberufen](https://www.spiegel.de/politik/deutschland/querdenker-wollen-bayerns-landtag-mit-volksbegehren-abberufen-a-927a0787-3321-4113-a978-7df4ad2190d4#ref=rss)
-### oktober
-
-* [https://www.spiegel.de/politik/deutschland/querdenker-wollen-bayerns-landtag-mit-volksbegehren-abberufen](https://www.spiegel.de/politik/deutschland/querdenker-wollen-bayerns-landtag-mit-volksbegehren-abberufen-a-927a0787-3321-4113-a978-7df4ad2190d4#ref=rss)
-* [https://www.spiegel.de/kultur/musik/klubkultur-veranstalter-fordern-aufhebung-der-corona-einschraenkungen](https://www.spiegel.de/kultur/musik/klubkultur-veranstalter-fordern-aufhebung-der-corona-einschraenkungen-a-a0144f5f-71e0-4c85-b4dc-bfaf0b9a48a0#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/boa-constrictor-mit-zwei-koepfen-erregt-aufsehen](https://www.spiegel.de/panorama/boa-constrictor-mit-zwei-koepfen-erregt-aufsehen-a-82e5cadc-fccc-40fc-964c-431c9dc118b2#ref=rss)
-* [https://www.spiegel.de/sport/olympia/niklas-kaul-verletztam-ende-kam-der-rollstuhl](https://www.spiegel.de/sport/olympia/niklas-kaul-verletztam-ende-kam-der-rollstuhl-a-512c6c83-9e77-47f8-8afc-41084b508c58#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/boa-constrictor-mit-zwei-koepfen-erregt-aufsehen](https://www.spiegel.de/panorama/boa-constrictor-mit-zwei-koepfen-erregt-aufsehen-a-82e5cadc-fccc-40fc-964c-431c9dc118b2#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte](https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte-a-cc66f240-aa78-4126-a50a-9c89e926ee40#ref=rss)
-### cdufraktionschef
-
-* [https://www.spiegel.de/wirtschaft/soziales/thueringen-cdu-fraktionschef-mario-voigt-will-von-ungeimpften-hoehere-krankenkassen-beitraege-kassieren](https://www.spiegel.de/wirtschaft/soziales/thueringen-cdu-fraktionschef-mario-voigt-will-von-ungeimpften-hoehere-krankenkassen-beitraege-kassieren-a-90b0ee74-47d4-4b7c-9b31-63eed237a66c#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier](https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier-a-dbe42da7-46c9-4f5d-b80b-b1bcde0a8b57#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf](https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf-a-7ffb69c6-e343-4b45-948b-9298b061e8ff#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2021-baseball-spieler-eddy-alvarez-der-sommer-winter-mann](https://www.spiegel.de/sport/olympia/olympia-2021-baseball-spieler-eddy-alvarez-der-sommer-winter-mann-a-c97cf5ee-2c4b-4396-bb36-5f2075d2fd79#ref=rss)
 ### zahl
 
-* [https://www.spiegel.de/wirtschaft/soziales/thueringen-cdu-fraktionschef-mario-voigt-will-von-ungeimpften-hoehere-krankenkassen-beitraege-kassieren](https://www.spiegel.de/wirtschaft/soziales/thueringen-cdu-fraktionschef-mario-voigt-will-von-ungeimpften-hoehere-krankenkassen-beitraege-kassieren-a-90b0ee74-47d4-4b7c-9b31-63eed237a66c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen](https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen-a-36a90616-e923-4538-8afd-02f8ab9b9eb9#ref=rss)
-### impfpflicht
+* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzen-zahl-der-firmenpleiten-faellt-auf-rekordtief](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzen-zahl-der-firmenpleiten-faellt-auf-rekordtief-a-9a46676b-c61b-49b5-9235-7aa5e8588452#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/dlrg-zahl-der-badetoten-im-sommer-jahresvergleich-leicht-gestiegen](https://www.spiegel.de/panorama/gesellschaft/dlrg-zahl-der-badetoten-im-sommer-jahresvergleich-leicht-gestiegen-a-7a78a7e7-8ff1-4f43-994e-7f3690a8d3ea#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-nimmt-weiter-ab](https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-nimmt-weiter-ab-a-714fb854-4732-477c-b92e-81b7c2c2ef83#ref=rss)
+### erhöhung
 
-* [https://www.spiegel.de/wirtschaft/soziales/thueringen-cdu-fraktionschef-mario-voigt-will-von-ungeimpften-hoehere-krankenkassen-beitraege-kassieren](https://www.spiegel.de/wirtschaft/soziales/thueringen-cdu-fraktionschef-mario-voigt-will-von-ungeimpften-hoehere-krankenkassen-beitraege-kassieren-a-90b0ee74-47d4-4b7c-9b31-63eed237a66c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht](https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht-a-37f0d448-2947-481d-9d99-8ccce1f30252#ref=rss)
-### gewichtheber
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent-a-fc889732-90c4-46be-a52a-6edc277bc5c8#ref=rss)
+* [https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei](https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei-a-22a53714-83e9-4b4b-80d3-951125605725#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte](https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte-a-cc66f240-aa78-4126-a50a-9c89e926ee40#ref=rss)
-### lascha
+* [https://www.spiegel.de/panorama/berlin-18-jaehriger-feuert-aus-wohnungsfenster-polizei-grosseinsatz](https://www.spiegel.de/panorama/berlin-18-jaehriger-feuert-aus-wohnungsfenster-polizei-grosseinsatz-a-5874a7ea-3a55-488e-98a0-2ef79da67251#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/dlrg-zahl-der-badetoten-im-sommer-jahresvergleich-leicht-gestiegen](https://www.spiegel.de/panorama/gesellschaft/dlrg-zahl-der-badetoten-im-sommer-jahresvergleich-leicht-gestiegen-a-7a78a7e7-8ff1-4f43-994e-7f3690a8d3ea#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-berliner-gruene-schneiden-maenner-aus-twitter-foto](https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-berliner-gruene-schneiden-maenner-aus-twitter-foto-a-7dc18da9-1c85-457c-8fb9-30b68e40b844#ref=rss)
+### 2021
 
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte](https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte-a-cc66f240-aa78-4126-a50a-9c89e926ee40#ref=rss)
-### talachadse
+* [https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier](https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier-a-dbe42da7-46c9-4f5d-b80b-b1bcde0a8b57#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf](https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf-a-7ffb69c6-e343-4b45-948b-9298b061e8ff#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2021-baseball-spieler-eddy-alvarez-der-sommer-winter-mann](https://www.spiegel.de/sport/olympia/olympia-2021-baseball-spieler-eddy-alvarez-der-sommer-winter-mann-a-c97cf5ee-2c4b-4396-bb36-5f2075d2fd79#ref=rss)
+### männer
 
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte](https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte-a-cc66f240-aa78-4126-a50a-9c89e926ee40#ref=rss)
-### mann
+* [https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen](https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen-a-b8d89aed-45ca-43d8-96f8-c262768b574f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-berliner-gruene-schneiden-maenner-aus-twitter-foto](https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-berliner-gruene-schneiden-maenner-aus-twitter-foto-a-7dc18da9-1c85-457c-8fb9-30b68e40b844#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte](https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte-a-cc66f240-aa78-4126-a50a-9c89e926ee40#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler](https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler-a-e1df708c-e00e-4a71-95c6-0b384f8d0395#ref=rss)
-### fünf
+* [https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen](https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen-a-b8d89aed-45ca-43d8-96f8-c262768b574f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-berliner-gruene-schneiden-maenner-aus-twitter-foto](https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-berliner-gruene-schneiden-maenner-aus-twitter-foto-a-7dc18da9-1c85-457c-8fb9-30b68e40b844#ref=rss)
+### leben
 
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte](https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte-a-cc66f240-aa78-4126-a50a-9c89e926ee40#ref=rss)
-### sportart
+* [https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen](https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen-a-b8d89aed-45ca-43d8-96f8-c262768b574f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/dlrg-zahl-der-badetoten-im-sommer-jahresvergleich-leicht-gestiegen](https://www.spiegel.de/panorama/gesellschaft/dlrg-zahl-der-badetoten-im-sommer-jahresvergleich-leicht-gestiegen-a-7a78a7e7-8ff1-4f43-994e-7f3690a8d3ea#ref=rss)
+### bundesverfassungsgericht
 
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte](https://www.spiegel.de/sport/olympia/olympia-2021-gewichtheber-lascha-talachadse-der-mann-der-an-einem-tag-fuenf-weltrekorde-aufstellte-a-cc66f240-aa78-4126-a50a-9c89e926ee40#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wie-das-skateboard-ins-rollen-kam-geschichte-einer-sportart](https://www.spiegel.de/deinspiegel/wie-das-skateboard-ins-rollen-kam-geschichte-einer-sportart-a-00000000-0002-0001-0000-000171724303#ref=rss)
-### internet
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent-a-fc889732-90c4-46be-a52a-6edc277bc5c8#ref=rss)
+* [https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei](https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei-a-22a53714-83e9-4b4b-80d3-951125605725#ref=rss)
+### tag
 
-* [https://www.spiegel.de/familie/was-kinder-im-internet-beachten-sollten-dein-spiegel-podcast](https://www.spiegel.de/familie/was-kinder-im-internet-beachten-sollten-dein-spiegel-podcast-a-144126c0-2752-4da8-8097-9289a027e441#ref=rss)
-### dein
+* [https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf](https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf-a-7ffb69c6-e343-4b45-948b-9298b061e8ff#ref=rss)
+* [https://www.spiegel.de/reise/europa/familienurlaub-auf-mallorca-corona-hin-oder-her-die-party-geht-weiter](https://www.spiegel.de/reise/europa/familienurlaub-auf-mallorca-corona-hin-oder-her-die-party-geht-weiter-a-98215457-f3c4-463c-8173-6259405e6117#ref=rss)
+### euro
 
-* [https://www.spiegel.de/familie/was-kinder-im-internet-beachten-sollten-dein-spiegel-podcast](https://www.spiegel.de/familie/was-kinder-im-internet-beachten-sollten-dein-spiegel-podcast-a-144126c0-2752-4da8-8097-9289a027e441#ref=rss)
-### erklärt
+* [https://www.spiegel.de/panorama/hochwasserkatastrophe-aktion-flutwein-bringt-mehr-als-2-5-millionen-euro](https://www.spiegel.de/panorama/hochwasserkatastrophe-aktion-flutwein-bringt-mehr-als-2-5-millionen-euro-a-47d3d6d5-3452-4a97-8dff-5054ef8bc388#ref=rss)
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent-a-fc889732-90c4-46be-a52a-6edc277bc5c8#ref=rss)
+### überschwemmungen
 
-* [https://www.spiegel.de/familie/was-kinder-im-internet-beachten-sollten-dein-spiegel-podcast](https://www.spiegel.de/familie/was-kinder-im-internet-beachten-sollten-dein-spiegel-podcast-a-144126c0-2752-4da8-8097-9289a027e441#ref=rss)
-* [https://www.spiegel.de/familie/geburt-der-schwierigste-moment-und-wie-man-ihn-ueberwindet](https://www.spiegel.de/familie/geburt-der-schwierigste-moment-und-wie-man-ihn-ueberwindet-a-335cd7bc-5af3-4556-8009-a3c2b18c35da#ref=rss)
-### libanon
+* [https://www.spiegel.de/panorama/hochwasserkatastrophe-aktion-flutwein-bringt-mehr-als-2-5-millionen-euro](https://www.spiegel.de/panorama/hochwasserkatastrophe-aktion-flutwein-bringt-mehr-als-2-5-millionen-euro-a-47d3d6d5-3452-4a97-8dff-5054ef8bc388#ref=rss)
+* [https://www.spiegel.de/panorama/italien-hochwasser-alarm-in-suedtirol-strassen-wegen-erdrutschen-gesperrt](https://www.spiegel.de/panorama/italien-hochwasser-alarm-in-suedtirol-strassen-wegen-erdrutschen-gesperrt-a-a08ea5d4-ad2c-4ec8-bcfc-ce39ba33da6f#ref=rss)
+### karl
 
-* [https://www.spiegel.de/ausland/libanon-frankreich-deutschland-und-die-usa-versprechen-massive-finanzhilfe](https://www.spiegel.de/ausland/libanon-frankreich-deutschland-und-die-usa-versprechen-massive-finanzhilfe-a-2965952a-c716-44cf-b626-f6176d466463#ref=rss)
-### weit
+* [https://www.spiegel.de/kultur/literatur/karl-heinz-bohrer-ist-tot-kritiker-und-literaturtheoretiker-gestorben](https://www.spiegel.de/kultur/literatur/karl-heinz-bohrer-ist-tot-kritiker-und-literaturtheoretiker-gestorben-a-63e48b0f-92a3-45a2-ac90-d2f2cc84110f#ref=rss)
+### heinz
 
-* [https://www.spiegel.de/ausland/libanon-frankreich-deutschland-und-die-usa-versprechen-massive-finanzhilfe](https://www.spiegel.de/ausland/libanon-frankreich-deutschland-und-die-usa-versprechen-massive-finanzhilfe-a-2965952a-c716-44cf-b626-f6176d466463#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden](https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden-a-2be54be8-c4bb-4bef-b32a-16c99e0f70d4#ref=rss)
-### finanzielle
+* [https://www.spiegel.de/kultur/literatur/karl-heinz-bohrer-ist-tot-kritiker-und-literaturtheoretiker-gestorben](https://www.spiegel.de/kultur/literatur/karl-heinz-bohrer-ist-tot-kritiker-und-literaturtheoretiker-gestorben-a-63e48b0f-92a3-45a2-ac90-d2f2cc84110f#ref=rss)
+### bohrer
 
-* [https://www.spiegel.de/ausland/libanon-frankreich-deutschland-und-die-usa-versprechen-massive-finanzhilfe](https://www.spiegel.de/ausland/libanon-frankreich-deutschland-und-die-usa-versprechen-massive-finanzhilfe-a-2965952a-c716-44cf-b626-f6176d466463#ref=rss)
-* [https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige](https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige-a-03b262d7-106f-4ea8-9512-1f8eb78afe41#ref=rss)
-### unterstützung
+* [https://www.spiegel.de/kultur/literatur/karl-heinz-bohrer-ist-tot-kritiker-und-literaturtheoretiker-gestorben](https://www.spiegel.de/kultur/literatur/karl-heinz-bohrer-ist-tot-kritiker-und-literaturtheoretiker-gestorben-a-63e48b0f-92a3-45a2-ac90-d2f2cc84110f#ref=rss)
+### alter
 
-* [https://www.spiegel.de/ausland/libanon-frankreich-deutschland-und-die-usa-versprechen-massive-finanzhilfe](https://www.spiegel.de/ausland/libanon-frankreich-deutschland-und-die-usa-versprechen-massive-finanzhilfe-a-2965952a-c716-44cf-b626-f6176d466463#ref=rss)
-* [https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige](https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige-a-03b262d7-106f-4ea8-9512-1f8eb78afe41#ref=rss)
-### zugunglück
+* [https://www.spiegel.de/kultur/literatur/karl-heinz-bohrer-ist-tot-kritiker-und-literaturtheoretiker-gestorben](https://www.spiegel.de/kultur/literatur/karl-heinz-bohrer-ist-tot-kritiker-und-literaturtheoretiker-gestorben-a-63e48b0f-92a3-45a2-ac90-d2f2cc84110f#ref=rss)
+* [https://www.spiegel.de/kultur/martin-perscheid-bekannter-deutscher-cartoonist-gestorben](https://www.spiegel.de/kultur/martin-perscheid-bekannter-deutscher-cartoonist-gestorben-a-f00f9563-d12b-4253-8b41-1a10f0e5a4f4#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler](https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler-a-e1df708c-e00e-4a71-95c6-0b384f8d0395#ref=rss)
-### tschechien
+* [https://www.spiegel.de/kultur/literatur/karl-heinz-bohrer-ist-tot-kritiker-und-literaturtheoretiker-gestorben](https://www.spiegel.de/kultur/literatur/karl-heinz-bohrer-ist-tot-kritiker-und-literaturtheoretiker-gestorben-a-63e48b0f-92a3-45a2-ac90-d2f2cc84110f#ref=rss)
+* [https://www.spiegel.de/kultur/martin-perscheid-bekannter-deutscher-cartoonist-gestorben](https://www.spiegel.de/kultur/martin-perscheid-bekannter-deutscher-cartoonist-gestorben-a-f00f9563-d12b-4253-8b41-1a10f0e5a4f4#ref=rss)
+### welchem
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler](https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler-a-e1df708c-e00e-4a71-95c6-0b384f8d0395#ref=rss)
-### durchbruch
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-bei-welchem-klub-spielte-marcel-reif](https://www.spiegel.de/sport/fussball/fussball-quiz-bei-welchem-klub-spielte-marcel-reif-a-96334c63-64c5-4db4-8846-d8c28dff8463#ref=rss)
+### klub
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler](https://www.spiegel.de/politik/deutschland/news-des-tages-impfdurchbrueche-zugunglueck-in-tschechien-frank-staebler-a-e1df708c-e00e-4a71-95c6-0b384f8d0395#ref=rss)
-### wohl
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-bei-welchem-klub-spielte-marcel-reif](https://www.spiegel.de/sport/fussball/fussball-quiz-bei-welchem-klub-spielte-marcel-reif-a-96334c63-64c5-4db4-8846-d8c28dff8463#ref=rss)
+### marcel
 
-* [https://www.spiegel.de/deinspiegel/wie-das-skateboard-ins-rollen-kam-geschichte-einer-sportart](https://www.spiegel.de/deinspiegel/wie-das-skateboard-ins-rollen-kam-geschichte-einer-sportart-a-00000000-0002-0001-0000-000171724303#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht](https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht-a-37f0d448-2947-481d-9d99-8ccce1f30252#ref=rss)
-### nrw
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-bei-welchem-klub-spielte-marcel-reif](https://www.spiegel.de/sport/fussball/fussball-quiz-bei-welchem-klub-spielte-marcel-reif-a-96334c63-64c5-4db4-8846-d8c28dff8463#ref=rss)
+### reif
 
-* [https://www.spiegel.de/panorama/bildung/muenster-katholische-kinder-haben-bei-aufnahme-in-katholische-schulen-vorrang](https://www.spiegel.de/panorama/bildung/muenster-katholische-kinder-haben-bei-aufnahme-in-katholische-schulen-vorrang-a-feb0e318-e418-4839-a249-8740f788382d#ref=rss)
-* [https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige](https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige-a-03b262d7-106f-4ea8-9512-1f8eb78afe41#ref=rss)
-### antisemitismus
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-bei-welchem-klub-spielte-marcel-reif](https://www.spiegel.de/sport/fussball/fussball-quiz-bei-welchem-klub-spielte-marcel-reif-a-96334c63-64c5-4db4-8846-d8c28dff8463#ref=rss)
+### ermittlungen
 
-* [https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung](https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung-a-4987c11c-1605-4e43-be33-afb48087c05e#ref=rss)
-### bundesregierung
+* [https://www.spiegel.de/wirtschaft/unternehmen/daimler-geheimnisse-ermittlungen-gegen-personen-in-verkehrsministerium](https://www.spiegel.de/wirtschaft/unternehmen/daimler-geheimnisse-ermittlungen-gegen-personen-in-verkehrsministerium-a-ed392633-ed8c-4232-baf0-e55d35225dde#ref=rss)
+### 18jähriger
 
-* [https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung](https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung-a-4987c11c-1605-4e43-be33-afb48087c05e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht](https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht-a-37f0d448-2947-481d-9d99-8ccce1f30252#ref=rss)
-### forschung
+* [https://www.spiegel.de/panorama/berlin-18-jaehriger-feuert-aus-wohnungsfenster-polizei-grosseinsatz](https://www.spiegel.de/panorama/berlin-18-jaehriger-feuert-aus-wohnungsfenster-polizei-grosseinsatz-a-5874a7ea-3a55-488e-98a0-2ef79da67251#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung](https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung-a-4987c11c-1605-4e43-be33-afb48087c05e#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung](https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung-a-4987c11c-1605-4e43-be33-afb48087c05e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht](https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht-a-37f0d448-2947-481d-9d99-8ccce1f30252#ref=rss)
-### darüber
-
-* [https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung](https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung-a-4987c11c-1605-4e43-be33-afb48087c05e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen](https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen-a-147a333c-ef3c-4936-a5d2-c05ded9a59a8#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung](https://www.spiegel.de/politik/deutschland/antisemitismus-bundesregierung-staerkt-forschung-a-4987c11c-1605-4e43-be33-afb48087c05e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen](https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen-a-36a90616-e923-4538-8afd-02f8ab9b9eb9#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/spd-wahlkampf-alles-auf-olaf-scholz](https://www.spiegel.de/politik/deutschland/spd-wahlkampf-alles-auf-olaf-scholz-a-f06dff2e-00e8-4c1c-999c-54a91fb8b144#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/spd-wahlkampf-alles-auf-olaf-scholz](https://www.spiegel.de/politik/deutschland/spd-wahlkampf-alles-auf-olaf-scholz-a-f06dff2e-00e8-4c1c-999c-54a91fb8b144#ref=rss)
-### laschet
-
-* [https://www.spiegel.de/politik/deutschland/spd-wahlkampf-alles-auf-olaf-scholz](https://www.spiegel.de/politik/deutschland/spd-wahlkampf-alles-auf-olaf-scholz-a-f06dff2e-00e8-4c1c-999c-54a91fb8b144#ref=rss)
-* [https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige](https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige-a-03b262d7-106f-4ea8-9512-1f8eb78afe41#ref=rss)
-### etwas
-
-* [https://www.spiegel.de/politik/deutschland/spd-wahlkampf-alles-auf-olaf-scholz](https://www.spiegel.de/politik/deutschland/spd-wahlkampf-alles-auf-olaf-scholz-a-f06dff2e-00e8-4c1c-999c-54a91fb8b144#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mattel-ehrt-astrazeneca-entwicklerin-sarah-gilbert-mit-eigener-barbie](https://www.spiegel.de/wirtschaft/unternehmen/mattel-ehrt-astrazeneca-entwicklerin-sarah-gilbert-mit-eigener-barbie-a-430a2d66-068a-4af8-b794-f730c227d754#ref=rss)
-### robinhood
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/robinhood-online-broker-erlebt-nach-verpatztem-boersenstart-einen-hoehenflug](https://www.spiegel.de/wirtschaft/unternehmen/robinhood-online-broker-erlebt-nach-verpatztem-boersenstart-einen-hoehenflug-a-04388e38-5224-447f-9002-5f9e08279a7a#ref=rss)
-### erlebt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/robinhood-online-broker-erlebt-nach-verpatztem-boersenstart-einen-hoehenflug](https://www.spiegel.de/wirtschaft/unternehmen/robinhood-online-broker-erlebt-nach-verpatztem-boersenstart-einen-hoehenflug-a-04388e38-5224-447f-9002-5f9e08279a7a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen](https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen-a-36a90616-e923-4538-8afd-02f8ab9b9eb9#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/robinhood-online-broker-erlebt-nach-verpatztem-boersenstart-einen-hoehenflug](https://www.spiegel.de/wirtschaft/unternehmen/robinhood-online-broker-erlebt-nach-verpatztem-boersenstart-einen-hoehenflug-a-04388e38-5224-447f-9002-5f9e08279a7a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/klubkultur-veranstalter-fordern-aufhebung-der-corona-einschraenkungen](https://www.spiegel.de/kultur/musik/klubkultur-veranstalter-fordern-aufhebung-der-corona-einschraenkungen-a-a0144f5f-71e0-4c85-b4dc-bfaf0b9a48a0#ref=rss)
-### kristina
-
-* [https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau](https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau-a-56487cb4-fff7-4bad-b8ba-c429b7f6664d#ref=rss)
-### timanowskaja
-
-* [https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau](https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau-a-56487cb4-fff7-4bad-b8ba-c429b7f6664d#ref=rss)
-### belarussische
-
-* [https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau](https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau-a-56487cb4-fff7-4bad-b8ba-c429b7f6664d#ref=rss)
-### sprinterin
-
-* [https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau](https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau-a-56487cb4-fff7-4bad-b8ba-c429b7f6664d#ref=rss)
-### angeblich
-
-* [https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau](https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau-a-56487cb4-fff7-4bad-b8ba-c429b7f6664d#ref=rss)
-* [https://www.spiegel.de/ausland/deutsch-iranerin-muss-mehr-als-zehn-jahre-ins-gefaengnis](https://www.spiegel.de/ausland/deutsch-iranerin-muss-mehr-als-zehn-jahre-ins-gefaengnis-a-1b46b36b-10fd-4005-8722-ffa5bd5e9ebc#ref=rss)
+* [https://www.spiegel.de/panorama/berlin-18-jaehriger-feuert-aus-wohnungsfenster-polizei-grosseinsatz](https://www.spiegel.de/panorama/berlin-18-jaehriger-feuert-aus-wohnungsfenster-polizei-grosseinsatz-a-5874a7ea-3a55-488e-98a0-2ef79da67251#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stralsund-verschwundener-vierjaehriger-gefunden-vater-verwirrt](https://www.spiegel.de/panorama/justiz/stralsund-verschwundener-vierjaehriger-gefunden-vater-verwirrt-a-a1a9bc4b-95d6-4df5-9a8f-e9fbe6fdbd90#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau](https://www.spiegel.de/ausland/kristina-timanowskaja-belarussische-sprinterin-fliegt-nach-warschau-a-56487cb4-fff7-4bad-b8ba-c429b7f6664d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-attacke-auf-imbiss-in-altglienicke-nach-streit-um-maskenpflicht](https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-attacke-auf-imbiss-in-altglienicke-nach-streit-um-maskenpflicht-a-86846e61-e905-4eaa-a536-8d4526c7d280#ref=rss)
-### landrat
+* [https://www.spiegel.de/netzwelt/apps/stiftung-warentest-warn-apps-warnen-iphone-nutzer-unter-umstaenden-nicht](https://www.spiegel.de/netzwelt/apps/stiftung-warentest-warn-apps-warnen-iphone-nutzer-unter-umstaenden-nicht-a-6a80c819-39fc-4418-af5e-5422ee1bb8d3#ref=rss)
+* [https://www.spiegel.de/panorama/italien-hochwasser-alarm-in-suedtirol-strassen-wegen-erdrutschen-gesperrt](https://www.spiegel.de/panorama/italien-hochwasser-alarm-in-suedtirol-strassen-wegen-erdrutschen-gesperrt-a-a08ea5d4-ad2c-4ec8-bcfc-ce39ba33da6f#ref=rss)
+### martin
 
-* [https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige](https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige-a-03b262d7-106f-4ea8-9512-1f8eb78afe41#ref=rss)
-### flutkatastrophe
+* [https://www.spiegel.de/kultur/martin-perscheid-bekannter-deutscher-cartoonist-gestorben](https://www.spiegel.de/kultur/martin-perscheid-bekannter-deutscher-cartoonist-gestorben-a-f00f9563-d12b-4253-8b41-1a10f0e5a4f4#ref=rss)
+### perscheid
 
-* [https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige](https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige-a-03b262d7-106f-4ea8-9512-1f8eb78afe41#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-im-ahrtal-abfallwirtschaft-kaempft-gegen-muell-an](https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-im-ahrtal-abfallwirtschaft-kaempft-gegen-muell-an-a-bc0cbf57-ab99-496e-a673-ea9483edd280#ref=rss)
-### hochwasser
+* [https://www.spiegel.de/kultur/martin-perscheid-bekannter-deutscher-cartoonist-gestorben](https://www.spiegel.de/kultur/martin-perscheid-bekannter-deutscher-cartoonist-gestorben-a-f00f9563-d12b-4253-8b41-1a10f0e5a4f4#ref=rss)
+### megan
 
-* [https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige](https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige-a-03b262d7-106f-4ea8-9512-1f8eb78afe41#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen](https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen-a-36a90616-e923-4538-8afd-02f8ab9b9eb9#ref=rss)
-### betroffenen
+* [https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier](https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier-a-dbe42da7-46c9-4f5d-b80b-b1bcde0a8b57#ref=rss)
+### rapinoe
 
-* [https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige](https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige-a-03b262d7-106f-4ea8-9512-1f8eb78afe41#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen](https://www.spiegel.de/wissenschaft/natur/gefahr-durch-hochwasser-flutkatastrophen-bedrohen-immer-mehr-menschen-a-36a90616-e923-4538-8afd-02f8ab9b9eb9#ref=rss)
-### fordert
+* [https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier](https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier-a-dbe42da7-46c9-4f5d-b80b-b1bcde0a8b57#ref=rss)
+### bisher
 
-* [https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige](https://www.spiegel.de/panorama/armin-laschet-landrat-bittet-nach-flutkatastrophe-in-nrw-um-finanzielle-hilfe-fuer-freiwillige-a-03b262d7-106f-4ea8-9512-1f8eb78afe41#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen](https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen-a-147a333c-ef3c-4936-a5d2-c05ded9a59a8#ref=rss)
-### geburt
+* [https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier](https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier-a-dbe42da7-46c9-4f5d-b80b-b1bcde0a8b57#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/mars-erkundung-helikopter-ingenuity-schafft-bisher-schwierigsten-flug](https://www.spiegel.de/wissenschaft/weltall/mars-erkundung-helikopter-ingenuity-schafft-bisher-schwierigsten-flug-a-c01d1f2d-abaf-4b4d-be83-56855954336d#ref=rss)
+### drei
 
-* [https://www.spiegel.de/familie/geburt-der-schwierigste-moment-und-wie-man-ihn-ueberwindet](https://www.spiegel.de/familie/geburt-der-schwierigste-moment-und-wie-man-ihn-ueberwindet-a-335cd7bc-5af3-4556-8009-a3c2b18c35da#ref=rss)
-### moment
+* [https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier](https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier-a-dbe42da7-46c9-4f5d-b80b-b1bcde0a8b57#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/mars-erkundung-helikopter-ingenuity-schafft-bisher-schwierigsten-flug](https://www.spiegel.de/wissenschaft/weltall/mars-erkundung-helikopter-ingenuity-schafft-bisher-schwierigsten-flug-a-c01d1f2d-abaf-4b4d-be83-56855954336d#ref=rss)
+### australien
 
-* [https://www.spiegel.de/familie/geburt-der-schwierigste-moment-und-wie-man-ihn-ueberwindet](https://www.spiegel.de/familie/geburt-der-schwierigste-moment-und-wie-man-ihn-ueberwindet-a-335cd7bc-5af3-4556-8009-a3c2b18c35da#ref=rss)
-### aufgeben
+* [https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier](https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier-a-dbe42da7-46c9-4f5d-b80b-b1bcde0a8b57#ref=rss)
+* [https://www.spiegel.de/ausland/stolen-generations-australien-will-indigene-entschaedigen](https://www.spiegel.de/ausland/stolen-generations-australien-will-indigene-entschaedigen-a-d174a243-7bf7-4ec0-9cce-c6dfe11fa54f#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/familie/geburt-der-schwierigste-moment-und-wie-man-ihn-ueberwindet](https://www.spiegel.de/familie/geburt-der-schwierigste-moment-und-wie-man-ihn-ueberwindet-a-335cd7bc-5af3-4556-8009-a3c2b18c35da#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden](https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden-a-2be54be8-c4bb-4bef-b32a-16c99e0f70d4#ref=rss)
-### tönnies
+* [https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier](https://www.spiegel.de/sport/olympia/olympia-2021-megan-rapinoe-und-carli-lloyd-fuehren-die-usa-zur-bronzemedaille-im-fussballturnier-a-dbe42da7-46c9-4f5d-b80b-b1bcde0a8b57#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bayer-kauft-us-biotechfirma-vividion](https://www.spiegel.de/wirtschaft/unternehmen/bayer-kauft-us-biotechfirma-vividion-a-8f2df5e4-d326-4bcf-84a9-0f316f0bc50c#ref=rss)
+### ältere
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/fleischkonzern-toennies-wird-nicht-verkauft-betrieb-bleibt-in-familienhand](https://www.spiegel.de/wirtschaft/unternehmen/fleischkonzern-toennies-wird-nicht-verkauft-betrieb-bleibt-in-familienhand-a-3c423c9f-0f51-4025-b472-dfe5d809d5a1#ref=rss)
-### verkauft
+* [https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen](https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen-a-b8d89aed-45ca-43d8-96f8-c262768b574f#ref=rss)
+### besser
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/fleischkonzern-toennies-wird-nicht-verkauft-betrieb-bleibt-in-familienhand](https://www.spiegel.de/wirtschaft/unternehmen/fleischkonzern-toennies-wird-nicht-verkauft-betrieb-bleibt-in-familienhand-a-3c423c9f-0f51-4025-b472-dfe5d809d5a1#ref=rss)
-### mattel
+* [https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen](https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen-a-b8d89aed-45ca-43d8-96f8-c262768b574f#ref=rss)
+* [https://www.spiegel.de/ausland/nachtwanderung-mit-gefluechteten-in-muenchen-um-3-30-uhr-kommt-der-point-of-no-return](https://www.spiegel.de/ausland/nachtwanderung-mit-gefluechteten-in-muenchen-um-3-30-uhr-kommt-der-point-of-no-return-a-afd9ee01-dac6-4d78-9dd7-ed7da0055380#ref=rss)
+### studie
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/mattel-ehrt-astrazeneca-entwicklerin-sarah-gilbert-mit-eigener-barbie](https://www.spiegel.de/wirtschaft/unternehmen/mattel-ehrt-astrazeneca-entwicklerin-sarah-gilbert-mit-eigener-barbie-a-430a2d66-068a-4af8-b794-f730c227d754#ref=rss)
-### barack
+* [https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen](https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen-a-b8d89aed-45ca-43d8-96f8-c262768b574f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzen-zahl-der-firmenpleiten-faellt-auf-rekordtief](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzen-zahl-der-firmenpleiten-faellt-auf-rekordtief-a-9a46676b-c61b-49b5-9235-7aa5e8588452#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/ausland/barack-obama-will-60-geburtstag-deutlich-kleiner-feiern](https://www.spiegel.de/ausland/barack-obama-will-60-geburtstag-deutlich-kleiner-feiern-a-85d519e3-733b-4391-97a5-22e80e38b47c#ref=rss)
-### geburtstag
+* [https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen](https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen-a-b8d89aed-45ca-43d8-96f8-c262768b574f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/kurzarbeit-faellt-auf-tiefsten-stand-in-coronakrise](https://www.spiegel.de/wirtschaft/soziales/kurzarbeit-faellt-auf-tiefsten-stand-in-coronakrise-a-d84b923b-b041-4dad-a731-4d3e46ae4dda#ref=rss)
+### weniger
 
-* [https://www.spiegel.de/ausland/barack-obama-will-60-geburtstag-deutlich-kleiner-feiern](https://www.spiegel.de/ausland/barack-obama-will-60-geburtstag-deutlich-kleiner-feiern-a-85d519e3-733b-4391-97a5-22e80e38b47c#ref=rss)
-### gefängnis
+* [https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen](https://www.spiegel.de/wissenschaft/mensch/altersforschung-aeltere-maenner-haben-es-besser-als-aeltere-frauen-a-b8d89aed-45ca-43d8-96f8-c262768b574f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-nimmt-weiter-ab](https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-nimmt-weiter-ab-a-714fb854-4732-477c-b92e-81b7c2c2ef83#ref=rss)
+### fällt
 
-* [https://www.spiegel.de/ausland/deutsch-iranerin-muss-mehr-als-zehn-jahre-ins-gefaengnis](https://www.spiegel.de/ausland/deutsch-iranerin-muss-mehr-als-zehn-jahre-ins-gefaengnis-a-1b46b36b-10fd-4005-8722-ffa5bd5e9ebc#ref=rss)
-### monatelang
+* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzen-zahl-der-firmenpleiten-faellt-auf-rekordtief](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzen-zahl-der-firmenpleiten-faellt-auf-rekordtief-a-9a46676b-c61b-49b5-9235-7aa5e8588452#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/kurzarbeit-faellt-auf-tiefsten-stand-in-coronakrise](https://www.spiegel.de/wirtschaft/soziales/kurzarbeit-faellt-auf-tiefsten-stand-in-coronakrise-a-d84b923b-b041-4dad-a731-4d3e46ae4dda#ref=rss)
+### laut
 
-* [https://www.spiegel.de/ausland/deutsch-iranerin-muss-mehr-als-zehn-jahre-ins-gefaengnis](https://www.spiegel.de/ausland/deutsch-iranerin-muss-mehr-als-zehn-jahre-ins-gefaengnis-a-1b46b36b-10fd-4005-8722-ffa5bd5e9ebc#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden](https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden-a-2be54be8-c4bb-4bef-b32a-16c99e0f70d4#ref=rss)
-### ahrtal
+* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzen-zahl-der-firmenpleiten-faellt-auf-rekordtief](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzen-zahl-der-firmenpleiten-faellt-auf-rekordtief-a-9a46676b-c61b-49b5-9235-7aa5e8588452#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/dlrg-zahl-der-badetoten-im-sommer-jahresvergleich-leicht-gestiegen](https://www.spiegel.de/panorama/gesellschaft/dlrg-zahl-der-badetoten-im-sommer-jahresvergleich-leicht-gestiegen-a-7a78a7e7-8ff1-4f43-994e-7f3690a8d3ea#ref=rss)
+### nie
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-im-ahrtal-abfallwirtschaft-kaempft-gegen-muell-an](https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-im-ahrtal-abfallwirtschaft-kaempft-gegen-muell-an-a-bc0cbf57-ab99-496e-a673-ea9483edd280#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/insolvenzen-zahl-der-firmenpleiten-faellt-auf-rekordtief](https://www.spiegel.de/wirtschaft/unternehmen/insolvenzen-zahl-der-firmenpleiten-faellt-auf-rekordtief-a-9a46676b-c61b-49b5-9235-7aa5e8588452#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/kurzarbeit-faellt-auf-tiefsten-stand-in-coronakrise](https://www.spiegel.de/wirtschaft/soziales/kurzarbeit-faellt-auf-tiefsten-stand-in-coronakrise-a-d84b923b-b041-4dad-a731-4d3e46ae4dda#ref=rss)
+### dlrg
+
+* [https://www.spiegel.de/panorama/gesellschaft/dlrg-zahl-der-badetoten-im-sommer-jahresvergleich-leicht-gestiegen](https://www.spiegel.de/panorama/gesellschaft/dlrg-zahl-der-badetoten-im-sommer-jahresvergleich-leicht-gestiegen-a-7a78a7e7-8ff1-4f43-994e-7f3690a8d3ea#ref=rss)
+### rundfunkbeitrag
+
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent-a-fc889732-90c4-46be-a52a-6edc277bc5c8#ref=rss)
+* [https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei](https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei-a-22a53714-83e9-4b4b-80d3-951125605725#ref=rss)
+### ard
+
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent-a-fc889732-90c4-46be-a52a-6edc277bc5c8#ref=rss)
+* [https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei](https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei-a-22a53714-83e9-4b4b-80d3-951125605725#ref=rss)
+### zdf
+
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent-a-fc889732-90c4-46be-a52a-6edc277bc5c8#ref=rss)
+* [https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei](https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei-a-22a53714-83e9-4b4b-80d3-951125605725#ref=rss)
+### 86
+
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent-a-fc889732-90c4-46be-a52a-6edc277bc5c8#ref=rss)
+* [https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei](https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei-a-22a53714-83e9-4b4b-80d3-951125605725#ref=rss)
+### cent
+
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent-a-fc889732-90c4-46be-a52a-6edc277bc5c8#ref=rss)
+* [https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei](https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei-a-22a53714-83e9-4b4b-80d3-951125605725#ref=rss)
+### rundfunkbeitrags
+
+* [https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent](https://www.spiegel.de/kultur/tv/rundfunkbeitrag-reaktionen-von-ard-und-zdf-zur-erhoehung-um-86-cent-a-fc889732-90c4-46be-a52a-6edc277bc5c8#ref=rss)
+* [https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei](https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei-a-22a53714-83e9-4b4b-80d3-951125605725#ref=rss)
+### bundestagswahl
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-afd-bremen-doch-zur-wahl-zugelassen](https://www.spiegel.de/politik/deutschland/bundestagswahl-afd-bremen-doch-zur-wahl-zugelassen-a-0c11fe1c-9021-4ae0-bed0-afc19a12190a#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-afd-bremen-doch-zur-wahl-zugelassen](https://www.spiegel.de/politik/deutschland/bundestagswahl-afd-bremen-doch-zur-wahl-zugelassen-a-0c11fe1c-9021-4ae0-bed0-afc19a12190a#ref=rss)
+### weg
+
+* [https://www.spiegel.de/ausland/stolen-generations-australien-will-indigene-entschaedigen](https://www.spiegel.de/ausland/stolen-generations-australien-will-indigene-entschaedigen-a-d174a243-7bf7-4ec0-9cce-c6dfe11fa54f#ref=rss)
+* [https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei](https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei-a-22a53714-83e9-4b4b-80d3-951125605725#ref=rss)
+### südtirol
+
+* [https://www.spiegel.de/panorama/italien-hochwasser-alarm-in-suedtirol-strassen-wegen-erdrutschen-gesperrt](https://www.spiegel.de/panorama/italien-hochwasser-alarm-in-suedtirol-strassen-wegen-erdrutschen-gesperrt-a-a08ea5d4-ad2c-4ec8-bcfc-ce39ba33da6f#ref=rss)
+### gesperrt
+
+* [https://www.spiegel.de/panorama/italien-hochwasser-alarm-in-suedtirol-strassen-wegen-erdrutschen-gesperrt](https://www.spiegel.de/panorama/italien-hochwasser-alarm-in-suedtirol-strassen-wegen-erdrutschen-gesperrt-a-a08ea5d4-ad2c-4ec8-bcfc-ce39ba33da6f#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/italien-hochwasser-alarm-in-suedtirol-strassen-wegen-erdrutschen-gesperrt](https://www.spiegel.de/panorama/italien-hochwasser-alarm-in-suedtirol-strassen-wegen-erdrutschen-gesperrt-a-a08ea5d4-ad2c-4ec8-bcfc-ce39ba33da6f#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf](https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf-a-7ffb69c6-e343-4b45-948b-9298b061e8ff#ref=rss)
+### ardexperte
+
+* [https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf](https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf-a-7ffb69c6-e343-4b45-948b-9298b061e8ff#ref=rss)
+### frank
+
+* [https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf](https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf-a-7ffb69c6-e343-4b45-948b-9298b061e8ff#ref=rss)
+### busemann
+
+* [https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf](https://www.spiegel.de/sport/olympia/olympia-2021-ex-zehnkaempfer-und-ard-experte-frank-busemann-ueber-zehnkampf-a-7ffb69c6-e343-4b45-948b-9298b061e8ff#ref=rss)
+### bayer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bayer-kauft-us-biotechfirma-vividion](https://www.spiegel.de/wirtschaft/unternehmen/bayer-kauft-us-biotechfirma-vividion-a-8f2df5e4-d326-4bcf-84a9-0f316f0bc50c#ref=rss)
+### vividion
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bayer-kauft-us-biotechfirma-vividion](https://www.spiegel.de/wirtschaft/unternehmen/bayer-kauft-us-biotechfirma-vividion-a-8f2df5e4-d326-4bcf-84a9-0f316f0bc50c#ref=rss)
+### eddy
+
+* [https://www.spiegel.de/sport/olympia/olympia-2021-baseball-spieler-eddy-alvarez-der-sommer-winter-mann](https://www.spiegel.de/sport/olympia/olympia-2021-baseball-spieler-eddy-alvarez-der-sommer-winter-mann-a-c97cf5ee-2c4b-4396-bb36-5f2075d2fd79#ref=rss)
+### alvarez
+
+* [https://www.spiegel.de/sport/olympia/olympia-2021-baseball-spieler-eddy-alvarez-der-sommer-winter-mann](https://www.spiegel.de/sport/olympia/olympia-2021-baseball-spieler-eddy-alvarez-der-sommer-winter-mann-a-c97cf5ee-2c4b-4396-bb36-5f2075d2fd79#ref=rss)
+### stralsund
+
+* [https://www.spiegel.de/panorama/justiz/stralsund-verschwundener-vierjaehriger-gefunden-vater-verwirrt](https://www.spiegel.de/panorama/justiz/stralsund-verschwundener-vierjaehriger-gefunden-vater-verwirrt-a-a1a9bc4b-95d6-4df5-9a8f-e9fbe6fdbd90#ref=rss)
+### verschwundener
+
+* [https://www.spiegel.de/panorama/justiz/stralsund-verschwundener-vierjaehriger-gefunden-vater-verwirrt](https://www.spiegel.de/panorama/justiz/stralsund-verschwundener-vierjaehriger-gefunden-vater-verwirrt-a-a1a9bc4b-95d6-4df5-9a8f-e9fbe6fdbd90#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/justiz/stralsund-verschwundener-vierjaehriger-gefunden-vater-verwirrt](https://www.spiegel.de/panorama/justiz/stralsund-verschwundener-vierjaehriger-gefunden-vater-verwirrt-a-a1a9bc4b-95d6-4df5-9a8f-e9fbe6fdbd90#ref=rss)
+### hape
+
+* [https://www.spiegel.de/kultur/tv/hape-kerkeling-bei-sandra-maischberger-fakt-ist-es-gibt-diese-pandemie](https://www.spiegel.de/kultur/tv/hape-kerkeling-bei-sandra-maischberger-fakt-ist-es-gibt-diese-pandemie-a-d2d2d935-63e9-4a57-ba03-e50bd22254df#ref=rss)
+### kerkeling
+
+* [https://www.spiegel.de/kultur/tv/hape-kerkeling-bei-sandra-maischberger-fakt-ist-es-gibt-diese-pandemie](https://www.spiegel.de/kultur/tv/hape-kerkeling-bei-sandra-maischberger-fakt-ist-es-gibt-diese-pandemie-a-d2d2d935-63e9-4a57-ba03-e50bd22254df#ref=rss)
+### maischberger
+
+* [https://www.spiegel.de/kultur/tv/hape-kerkeling-bei-sandra-maischberger-fakt-ist-es-gibt-diese-pandemie](https://www.spiegel.de/kultur/tv/hape-kerkeling-bei-sandra-maischberger-fakt-ist-es-gibt-diese-pandemie-a-d2d2d935-63e9-4a57-ba03-e50bd22254df#ref=rss)
+### pandemie
+
+* [https://www.spiegel.de/kultur/tv/hape-kerkeling-bei-sandra-maischberger-fakt-ist-es-gibt-diese-pandemie](https://www.spiegel.de/kultur/tv/hape-kerkeling-bei-sandra-maischberger-fakt-ist-es-gibt-diese-pandemie-a-d2d2d935-63e9-4a57-ba03-e50bd22254df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/kurzarbeit-faellt-auf-tiefsten-stand-in-coronakrise](https://www.spiegel.de/wirtschaft/soziales/kurzarbeit-faellt-auf-tiefsten-stand-in-coronakrise-a-d84b923b-b041-4dad-a731-4d3e46ae4dda#ref=rss)
+### waldbrände
+
+* [https://www.spiegel.de/wissenschaft/natur/waldbraende-in-der-tuerkei-kohlekraftwerk-musste-evakuiert-werden](https://www.spiegel.de/wissenschaft/natur/waldbraende-in-der-tuerkei-kohlekraftwerk-musste-evakuiert-werden-a-9e10e5fe-9014-409a-be86-9c4a61173cea#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/wissenschaft/natur/waldbraende-in-der-tuerkei-kohlekraftwerk-musste-evakuiert-werden](https://www.spiegel.de/wissenschaft/natur/waldbraende-in-der-tuerkei-kohlekraftwerk-musste-evakuiert-werden-a-9e10e5fe-9014-409a-be86-9c4a61173cea#ref=rss)
+### kohlekraftwerk
+
+* [https://www.spiegel.de/wissenschaft/natur/waldbraende-in-der-tuerkei-kohlekraftwerk-musste-evakuiert-werden](https://www.spiegel.de/wissenschaft/natur/waldbraende-in-der-tuerkei-kohlekraftwerk-musste-evakuiert-werden-a-9e10e5fe-9014-409a-be86-9c4a61173cea#ref=rss)
+### gelände
+
+* [https://www.spiegel.de/wissenschaft/natur/waldbraende-in-der-tuerkei-kohlekraftwerk-musste-evakuiert-werden](https://www.spiegel.de/wissenschaft/natur/waldbraende-in-der-tuerkei-kohlekraftwerk-musste-evakuiert-werden-a-9e10e5fe-9014-409a-be86-9c4a61173cea#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/mars-erkundung-helikopter-ingenuity-schafft-bisher-schwierigsten-flug](https://www.spiegel.de/wissenschaft/weltall/mars-erkundung-helikopter-ingenuity-schafft-bisher-schwierigsten-flug-a-c01d1f2d-abaf-4b4d-be83-56855954336d#ref=rss)
+### ingenuity
+
+* [https://www.spiegel.de/wissenschaft/weltall/mars-erkundung-helikopter-ingenuity-schafft-bisher-schwierigsten-flug](https://www.spiegel.de/wissenschaft/weltall/mars-erkundung-helikopter-ingenuity-schafft-bisher-schwierigsten-flug-a-c01d1f2d-abaf-4b4d-be83-56855954336d#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-csu-wirft-hubert-aiwanger-niveau-der-querdenker-vor](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-csu-wirft-hubert-aiwanger-niveau-der-querdenker-vor-a-a36f6209-8a75-4981-b91f-97debdd324e3#ref=rss)
+### dobrindt
+
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-csu-wirft-hubert-aiwanger-niveau-der-querdenker-vor](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-csu-wirft-hubert-aiwanger-niveau-der-querdenker-vor-a-a36f6209-8a75-4981-b91f-97debdd324e3#ref=rss)
+### hubert
+
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-csu-wirft-hubert-aiwanger-niveau-der-querdenker-vor](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-csu-wirft-hubert-aiwanger-niveau-der-querdenker-vor-a-a36f6209-8a75-4981-b91f-97debdd324e3#ref=rss)
+### aiwanger
+
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-csu-wirft-hubert-aiwanger-niveau-der-querdenker-vor](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-csu-wirft-hubert-aiwanger-niveau-der-querdenker-vor-a-a36f6209-8a75-4981-b91f-97debdd324e3#ref=rss)
 ### corona
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen](https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen-a-147a333c-ef3c-4936-a5d2-c05ded9a59a8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht](https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht-a-37f0d448-2947-481d-9d99-8ccce1f30252#ref=rss)
-### weltgesundheitsorganisation
+* [https://www.spiegel.de/politik/deutschland/alexander-dobrindt-csu-wirft-hubert-aiwanger-niveau-der-querdenker-vor](https://www.spiegel.de/politik/deutschland/alexander-dobrindt-csu-wirft-hubert-aiwanger-niveau-der-querdenker-vor-a-a36f6209-8a75-4981-b91f-97debdd324e3#ref=rss)
+* [https://www.spiegel.de/reise/europa/familienurlaub-auf-mallorca-corona-hin-oder-her-die-party-geht-weiter](https://www.spiegel.de/reise/europa/familienurlaub-auf-mallorca-corona-hin-oder-her-die-party-geht-weiter-a-98215457-f3c4-463c-8173-6259405e6117#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen](https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen-a-147a333c-ef3c-4936-a5d2-c05ded9a59a8#ref=rss)
-### geben
+* [https://www.spiegel.de/ausland/nachtwanderung-mit-gefluechteten-in-muenchen-um-3-30-uhr-kommt-der-point-of-no-return](https://www.spiegel.de/ausland/nachtwanderung-mit-gefluechteten-in-muenchen-um-3-30-uhr-kommt-der-point-of-no-return-a-afd9ee01-dac6-4d78-9dd7-ed7da0055380#ref=rss)
+### empfänger
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen](https://www.spiegel.de/wissenschaft/medizin/corona-weltgesundheitsorganisation-fordert-moratorium-fuer-drittimpfungen-a-147a333c-ef3c-4936-a5d2-c05ded9a59a8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht](https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht-a-37f0d448-2947-481d-9d99-8ccce1f30252#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-nimmt-weiter-ab](https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-nimmt-weiter-ab-a-714fb854-4732-477c-b92e-81b7c2c2ef83#ref=rss)
+### 2020
 
-* [https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-attacke-auf-imbiss-in-altglienicke-nach-streit-um-maskenpflicht](https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-attacke-auf-imbiss-in-altglienicke-nach-streit-um-maskenpflicht-a-86846e61-e905-4eaa-a536-8d4526c7d280#ref=rss)
-### imbiss
+* [https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-nimmt-weiter-ab](https://www.spiegel.de/panorama/bildung/bafoeg-zahl-der-empfaenger-nimmt-weiter-ab-a-714fb854-4732-477c-b92e-81b7c2c2ef83#ref=rss)
+* [https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei](https://www.spiegel.de/kultur/rundfunkbeitrag-bundesverfassungsgericht-gibt-weg-fuer-erhoehung-frei-a-22a53714-83e9-4b4b-80d3-951125605725#ref=rss)
+### mallorca
 
-* [https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-attacke-auf-imbiss-in-altglienicke-nach-streit-um-maskenpflicht](https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-attacke-auf-imbiss-in-altglienicke-nach-streit-um-maskenpflicht-a-86846e61-e905-4eaa-a536-8d4526c7d280#ref=rss)
-### maskenpflicht
+* [https://www.spiegel.de/reise/europa/familienurlaub-auf-mallorca-corona-hin-oder-her-die-party-geht-weiter](https://www.spiegel.de/reise/europa/familienurlaub-auf-mallorca-corona-hin-oder-her-die-party-geht-weiter-a-98215457-f3c4-463c-8173-6259405e6117#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-attacke-auf-imbiss-in-altglienicke-nach-streit-um-maskenpflicht](https://www.spiegel.de/panorama/justiz/berlin-mutmassliche-attacke-auf-imbiss-in-altglienicke-nach-streit-um-maskenpflicht-a-86846e61-e905-4eaa-a536-8d4526c7d280#ref=rss)
-### shutdown
+* [https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-berliner-gruene-schneiden-maenner-aus-twitter-foto](https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-berliner-gruene-schneiden-maenner-aus-twitter-foto-a-7dc18da9-1c85-457c-8fb9-30b68e40b844#ref=rss)
+### berliner
 
-* [https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht](https://www.spiegel.de/politik/deutschland/corona-regierung-haelt-neuen-shutdown-fuer-moeglich-aus-fuer-gratis-tests-droht-a-37f0d448-2947-481d-9d99-8ccce1f30252#ref=rss)
-### gesa
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden](https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden-a-2be54be8-c4bb-4bef-b32a-16c99e0f70d4#ref=rss)
-### krause
-
-* [https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden](https://www.spiegel.de/sport/olympia/olympia-2021-gesa-krause-verpasst-medaille-sie-wird-sich-weiter-schinden-a-2be54be8-c4bb-4bef-b32a-16c99e0f70d4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-berliner-gruene-schneiden-maenner-aus-twitter-foto](https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-berliner-gruene-schneiden-maenner-aus-twitter-foto-a-7dc18da9-1c85-457c-8fb9-30b68e40b844#ref=rss)
 
