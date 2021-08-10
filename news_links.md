@@ -4,290 +4,288 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### autobahn
+### ich
 
-* [https://www.spiegel.de/panorama/justiz/a2-bei-bielefeld-mann-faehrt-mit-e-scooter-ueber-die-autobahn](https://www.spiegel.de/panorama/justiz/a2-bei-bielefeld-mann-faehrt-mit-e-scooter-ueber-die-autobahn-a-06b510c3-15d5-4e63-8999-43d641725bd2#ref=rss)
-* [https://www.spiegel.de/panorama/a81-bei-heilbronn-80-jaehriger-wendet-auf-der-autobahn-wird-von-pkw-erfasst-und-stirbt](https://www.spiegel.de/panorama/a81-bei-heilbronn-80-jaehriger-wendet-auf-der-autobahn-wird-von-pkw-erfasst-und-stirbt-a-a98e1d0d-89a7-4868-acf2-7b8e806bdfd7#ref=rss)
-### lokführer
+* [https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine](https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine-a-dfb9214e-d7ef-40c5-b698-0cf9cc350c4e#ref=rss)
+* [https://www.spiegel.de/psychologie/hexenschuss-warum-es-keine-gute-idee-ist-in-meinem-alter-wellenreiten-zu-lernen](https://www.spiegel.de/psychologie/hexenschuss-warum-es-keine-gute-idee-ist-in-meinem-alter-wellenreiten-zu-lernen-a-ad5920ff-ea21-41f8-a676-dc4a6664db60#ref=rss)
+### bund
 
-* [https://www.spiegel.de/reise/deutschland/service-zum-bahnstreik-so-kommen-sie-an-ihr-ziel-oder-an-die-erstattung](https://www.spiegel.de/reise/deutschland/service-zum-bahnstreik-so-kommen-sie-an-ihr-ziel-oder-an-die-erstattung-a-57973c13-e9fe-46a0-9fd0-bfb5de5e76fe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-und-gdl-warum-die-lokfuehrer-wirklich-streiken](https://www.spiegel.de/wirtschaft/unternehmen/bahn-und-gdl-warum-die-lokfuehrer-wirklich-streiken-a-72f9197b-3783-4fd3-adbb-7421aad6aaa1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-stimmen-fuer-streik](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-stimmen-fuer-streik-a-cb79ea79-8788-4e48-8b41-2e4aea61bfab#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-und-gdl-warum-die-lokfuehrer-wirklich-streiken](https://www.spiegel.de/wirtschaft/unternehmen/bahn-und-gdl-warum-die-lokfuehrer-wirklich-streiken-a-72f9197b-3783-4fd3-adbb-7421aad6aaa1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-stimmen-fuer-streik](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-stimmen-fuer-streik-a-cb79ea79-8788-4e48-8b41-2e4aea61bfab#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/china-weist-litauens-botschafter-aus](https://www.spiegel.de/ausland/china-weist-litauens-botschafter-aus-a-4547f44f-16ee-42c5-929d-ae47ba0b47cc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/china-gericht-bestaetigt-todesurteil-gegen-kanadier-robert-lloyd-schellenberg](https://www.spiegel.de/panorama/justiz/china-gericht-bestaetigt-todesurteil-gegen-kanadier-robert-lloyd-schellenberg-a-9c50415c-70d1-428e-a7f3-68a4cc1c7a0c#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/hochwasser-bundestag-haelt-sondersitzung-zu-flutfolgen-noch-ende-august](https://www.spiegel.de/politik/deutschland/hochwasser-bundestag-haelt-sondersitzung-zu-flutfolgen-noch-ende-august-a-cd7bd6c9-1a6e-465f-9ea1-134d31cc6942#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagsabgeordnete-ingrid-remmers-ist-tot](https://www.spiegel.de/politik/deutschland/bundestagsabgeordnete-ingrid-remmers-ist-tot-a-27309071-2b17-4511-92c1-d75f3fa55ca2#ref=rss)
-### psg
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-zu-paris-saint-germain-der-superstar-hat-sich-mit-psg-geeinigt](https://www.spiegel.de/sport/fussball/lionel-messi-zu-paris-saint-germain-der-superstar-hat-sich-mit-psg-geeinigt-a-b9314572-c144-42f1-828e-9b46b427f8cf#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/a2-bei-bielefeld-mann-faehrt-mit-e-scooter-ueber-die-autobahn](https://www.spiegel.de/panorama/justiz/a2-bei-bielefeld-mann-faehrt-mit-e-scooter-ueber-die-autobahn-a-06b510c3-15d5-4e63-8999-43d641725bd2#ref=rss)
-* [https://www.spiegel.de/panorama/a81-bei-heilbronn-80-jaehriger-wendet-auf-der-autobahn-wird-von-pkw-erfasst-und-stirbt](https://www.spiegel.de/panorama/a81-bei-heilbronn-80-jaehriger-wendet-auf-der-autobahn-wird-von-pkw-erfasst-und-stirbt-a-a98e1d0d-89a7-4868-acf2-7b8e806bdfd7#ref=rss)
-### australien
-
-* [https://www.spiegel.de/wissenschaft/natur/pterosaurier-neu-entdeckt-dieser-drache-bevoelkerte-einst-australien](https://www.spiegel.de/wissenschaft/natur/pterosaurier-neu-entdeckt-dieser-drache-bevoelkerte-einst-australien-a-b0e9d25e-089c-44e1-9511-ffbfe7d9e3bd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/australien-lehnt-ehrgeizigere-klimaziele-ab](https://www.spiegel.de/wissenschaft/mensch/australien-lehnt-ehrgeizigere-klimaziele-ab-a-9b511552-f61d-4df9-a33d-b71f8820c204#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/gesellschaft/bevoelkerung-in-deutschland-anteil-junger-menschen-sinkt-auf-tiefststand](https://www.spiegel.de/panorama/gesellschaft/bevoelkerung-in-deutschland-anteil-junger-menschen-sinkt-auf-tiefststand-a-c724a539-755d-4bb8-9f8a-e2abc91f2339#ref=rss)
-* [https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden](https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden-a-9bedf56f-bef2-4ec0-b20d-3d93729d7dff#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-und-gdl-warum-die-lokfuehrer-wirklich-streiken](https://www.spiegel.de/wirtschaft/unternehmen/bahn-und-gdl-warum-die-lokfuehrer-wirklich-streiken-a-72f9197b-3783-4fd3-adbb-7421aad6aaa1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/australien-lehnt-ehrgeizigere-klimaziele-ab](https://www.spiegel.de/wissenschaft/mensch/australien-lehnt-ehrgeizigere-klimaziele-ab-a-9b511552-f61d-4df9-a33d-b71f8820c204#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-nato-ruft-taliban-zur-beendigung-ihrer-angriffe-auf](https://www.spiegel.de/ausland/afghanistan-nato-ruft-taliban-zur-beendigung-ihrer-angriffe-auf-a-825ffc0d-5017-4a10-9491-17f33aedc559#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-kannibalismus-angeklagter-lehrer-schweigt-im-mordprozess](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-kannibalismus-angeklagter-lehrer-schweigt-im-mordprozess-a-22499a61-1109-4d77-953d-1f9f5d6fcb1e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-gericht-lehnt-beschleunigung-des-vormundschaftsprozesses-ab](https://www.spiegel.de/panorama/leute/britney-spears-gericht-lehnt-beschleunigung-des-vormundschaftsprozesses-ab-a-3720ae6b-691f-4375-b753-f59f27263486#ref=rss)
-### addams
-
-* [https://www.spiegel.de/kultur/tv/addams-family-wednesday-catherine-zeta-jones-als-morticia-addams](https://www.spiegel.de/kultur/tv/addams-family-wednesday-catherine-zeta-jones-als-morticia-addams-a-b4502fba-55ee-44de-bddb-281951f16a30#ref=rss)
-### guinea
-
-* [https://www.spiegel.de/wissenschaft/medizin/guinea-erster-fall-von-marburg-virus-in-westafrika](https://www.spiegel.de/wissenschaft/medizin/guinea-erster-fall-von-marburg-virus-in-westafrika-a-08f4b40e-c021-4d1d-83c9-7265058ac066#ref=rss)
-### marburgvirus
-
-* [https://www.spiegel.de/wissenschaft/medizin/guinea-erster-fall-von-marburg-virus-in-westafrika](https://www.spiegel.de/wissenschaft/medizin/guinea-erster-fall-von-marburg-virus-in-westafrika-a-08f4b40e-c021-4d1d-83c9-7265058ac066#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/wissenschaft/medizin/guinea-erster-fall-von-marburg-virus-in-westafrika](https://www.spiegel.de/wissenschaft/medizin/guinea-erster-fall-von-marburg-virus-in-westafrika-a-08f4b40e-c021-4d1d-83c9-7265058ac066#ref=rss)
-* [https://www.spiegel.de/ausland/london-impfgegner-wollen-bbc-zentrale-stuermen-und-stehen-vor-dem-falschen-gebaeude](https://www.spiegel.de/ausland/london-impfgegner-wollen-bbc-zentrale-stuermen-und-stehen-vor-dem-falschen-gebaeude-a-df67d9b3-b8eb-4c9c-9fcd-6ee983cbd224#ref=rss)
-### karneval
-
-* [https://www.spiegel.de/panorama/duesseldorf-karneval-nur-fuer-geimpfte](https://www.spiegel.de/panorama/duesseldorf-karneval-nur-fuer-geimpfte-a-f8757f63-6dbc-4a74-853c-88c5f0457ca4#ref=rss)
-### geimpfte
-
-* [https://www.spiegel.de/panorama/duesseldorf-karneval-nur-fuer-geimpfte](https://www.spiegel.de/panorama/duesseldorf-karneval-nur-fuer-geimpfte-a-f8757f63-6dbc-4a74-853c-88c5f0457ca4#ref=rss)
-### kanzlerin
-
-* [https://www.spiegel.de/politik/deutschland/hochwasser-bundestag-haelt-sondersitzung-zu-flutfolgen-noch-ende-august](https://www.spiegel.de/politik/deutschland/hochwasser-bundestag-haelt-sondersitzung-zu-flutfolgen-noch-ende-august-a-cd7bd6c9-1a6e-465f-9ea1-134d31cc6942#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften-a-6cbfd0a0-104b-4f6b-b25e-05cb4f33abff#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/hochwasser-bundestag-haelt-sondersitzung-zu-flutfolgen-noch-ende-august](https://www.spiegel.de/politik/deutschland/hochwasser-bundestag-haelt-sondersitzung-zu-flutfolgen-noch-ende-august-a-cd7bd6c9-1a6e-465f-9ea1-134d31cc6942#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften-a-6cbfd0a0-104b-4f6b-b25e-05cb4f33abff#ref=rss)
-### ministerpräsidenten
-
-* [https://www.spiegel.de/politik/deutschland/hochwasser-bundestag-haelt-sondersitzung-zu-flutfolgen-noch-ende-august](https://www.spiegel.de/politik/deutschland/hochwasser-bundestag-haelt-sondersitzung-zu-flutfolgen-noch-ende-august-a-cd7bd6c9-1a6e-465f-9ea1-134d31cc6942#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften-a-6cbfd0a0-104b-4f6b-b25e-05cb4f33abff#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-zu-paris-saint-germain-der-superstar-hat-sich-mit-psg-geeinigt](https://www.spiegel.de/sport/fussball/lionel-messi-zu-paris-saint-germain-der-superstar-hat-sich-mit-psg-geeinigt-a-b9314572-c144-42f1-828e-9b46b427f8cf#ref=rss)
-### messi
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-zu-paris-saint-germain-der-superstar-hat-sich-mit-psg-geeinigt](https://www.spiegel.de/sport/fussball/lionel-messi-zu-paris-saint-germain-der-superstar-hat-sich-mit-psg-geeinigt-a-b9314572-c144-42f1-828e-9b46b427f8cf#ref=rss)
-### geeinigt
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-zu-paris-saint-germain-der-superstar-hat-sich-mit-psg-geeinigt](https://www.spiegel.de/sport/fussball/lionel-messi-zu-paris-saint-germain-der-superstar-hat-sich-mit-psg-geeinigt-a-b9314572-c144-42f1-828e-9b46b427f8cf#ref=rss)
-### escooter
-
-* [https://www.spiegel.de/panorama/justiz/a2-bei-bielefeld-mann-faehrt-mit-e-scooter-ueber-die-autobahn](https://www.spiegel.de/panorama/justiz/a2-bei-bielefeld-mann-faehrt-mit-e-scooter-ueber-die-autobahn-a-06b510c3-15d5-4e63-8999-43d641725bd2#ref=rss)
-### erfasst
-
-* [https://www.spiegel.de/panorama/a81-bei-heilbronn-80-jaehriger-wendet-auf-der-autobahn-wird-von-pkw-erfasst-und-stirbt](https://www.spiegel.de/panorama/a81-bei-heilbronn-80-jaehriger-wendet-auf-der-autobahn-wird-von-pkw-erfasst-und-stirbt-a-a98e1d0d-89a7-4868-acf2-7b8e806bdfd7#ref=rss)
-### fahrzeug
-
-* [https://www.spiegel.de/panorama/a81-bei-heilbronn-80-jaehriger-wendet-auf-der-autobahn-wird-von-pkw-erfasst-und-stirbt](https://www.spiegel.de/panorama/a81-bei-heilbronn-80-jaehriger-wendet-auf-der-autobahn-wird-von-pkw-erfasst-und-stirbt-a-a98e1d0d-89a7-4868-acf2-7b8e806bdfd7#ref=rss)
-### pterosaurier
-
-* [https://www.spiegel.de/wissenschaft/natur/pterosaurier-neu-entdeckt-dieser-drache-bevoelkerte-einst-australien](https://www.spiegel.de/wissenschaft/natur/pterosaurier-neu-entdeckt-dieser-drache-bevoelkerte-einst-australien-a-b0e9d25e-089c-44e1-9511-ffbfe7d9e3bd#ref=rss)
-### drache
-
-* [https://www.spiegel.de/wissenschaft/natur/pterosaurier-neu-entdeckt-dieser-drache-bevoelkerte-einst-australien](https://www.spiegel.de/wissenschaft/natur/pterosaurier-neu-entdeckt-dieser-drache-bevoelkerte-einst-australien-a-b0e9d25e-089c-44e1-9511-ffbfe7d9e3bd#ref=rss)
-### christina
-
-* [https://www.spiegel.de/panorama/leute/christina-applegate-an-multipler-sklerose-erkrankt](https://www.spiegel.de/panorama/leute/christina-applegate-an-multipler-sklerose-erkrankt-a-44ffdc14-3389-494d-b970-e61334414a40#ref=rss)
-### applegate
-
-* [https://www.spiegel.de/panorama/leute/christina-applegate-an-multipler-sklerose-erkrankt](https://www.spiegel.de/panorama/leute/christina-applegate-an-multipler-sklerose-erkrankt-a-44ffdc14-3389-494d-b970-e61334414a40#ref=rss)
-### multipler
-
-* [https://www.spiegel.de/panorama/leute/christina-applegate-an-multipler-sklerose-erkrankt](https://www.spiegel.de/panorama/leute/christina-applegate-an-multipler-sklerose-erkrankt-a-44ffdc14-3389-494d-b970-e61334414a40#ref=rss)
-### sklerose
-
-* [https://www.spiegel.de/panorama/leute/christina-applegate-an-multipler-sklerose-erkrankt](https://www.spiegel.de/panorama/leute/christina-applegate-an-multipler-sklerose-erkrankt-a-44ffdc14-3389-494d-b970-e61334414a40#ref=rss)
-### twitter
-
-* [https://www.spiegel.de/panorama/leute/christina-applegate-an-multipler-sklerose-erkrankt](https://www.spiegel.de/panorama/leute/christina-applegate-an-multipler-sklerose-erkrankt-a-44ffdc14-3389-494d-b970-e61334414a40#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/twitters-algorithmus-bevorzugt-junge-schlanke-frauen](https://www.spiegel.de/netzwelt/web/twitters-algorithmus-bevorzugt-junge-schlanke-frauen-a-24df38ed-5f34-4c1f-94e2-65c1c2e0ca99#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-deutschland-koalition-als-vorbild-fuer-den-bund](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-deutschland-koalition-als-vorbild-fuer-den-bund-a-0064aa19-b4b8-4f7e-aaa9-ebffc1e8d5f9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold](https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold-a-29e5b4a6-eda6-4f28-b7ee-7bc80842ec5f#ref=rss)
+* [https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream](https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream-a-e21473bd-4fcc-4c49-b8ae-d38647c37d53#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ramelow-und-kretschmer-schwaenzen-corona-schalte](https://www.spiegel.de/politik/deutschland/ramelow-und-kretschmer-schwaenzen-corona-schalte-a-48ce2b44-ffdd-425f-be24-c20bd7e9e14a#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/gesellschaft/bevoelkerung-in-deutschland-anteil-junger-menschen-sinkt-auf-tiefststand](https://www.spiegel.de/panorama/gesellschaft/bevoelkerung-in-deutschland-anteil-junger-menschen-sinkt-auf-tiefststand-a-c724a539-755d-4bb8-9f8a-e2abc91f2339#ref=rss)
-### unterschiede
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-deutschland-koalition-als-vorbild-fuer-den-bund](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-deutschland-koalition-als-vorbild-fuer-den-bund-a-0064aa19-b4b8-4f7e-aaa9-ebffc1e8d5f9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold](https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold-a-29e5b4a6-eda6-4f28-b7ee-7bc80842ec5f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/coronavirus-passagierluftfahrt-in-deutschland-mit-historischem-einbruch](https://www.spiegel.de/wirtschaft/coronavirus-passagierluftfahrt-in-deutschland-mit-historischem-einbruch-a-fdacad1d-dc9d-4c6e-aca1-e62b8f88cfc5#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/gesellschaft/bevoelkerung-in-deutschland-anteil-junger-menschen-sinkt-auf-tiefststand](https://www.spiegel.de/panorama/gesellschaft/bevoelkerung-in-deutschland-anteil-junger-menschen-sinkt-auf-tiefststand-a-c724a539-755d-4bb8-9f8a-e2abc91f2339#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften-a-6cbfd0a0-104b-4f6b-b25e-05cb4f33abff#ref=rss)
-### streiken
+* [https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold](https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold-a-29e5b4a6-eda6-4f28-b7ee-7bc80842ec5f#ref=rss)
+* [https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream](https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream-a-e21473bd-4fcc-4c49-b8ae-d38647c37d53#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/youtube-und-google-verschaerfen-jugendschutz-funktionen](https://www.spiegel.de/netzwelt/web/youtube-und-google-verschaerfen-jugendschutz-funktionen-a-541dc028-009a-48c3-a3f0-31595bbc3d0f#ref=rss)
+* [https://www.spiegel.de/kultur/oesterreich-roland-weissmann-zum-neuen-orf-chef-gewaehlt](https://www.spiegel.de/kultur/oesterreich-roland-weissmann-zum-neuen-orf-chef-gewaehlt-a-8a777094-3403-4b4e-8ff5-9c1fc02bb16e#ref=rss)
+### michael
 
-* [https://www.spiegel.de/reise/deutschland/service-zum-bahnstreik-so-kommen-sie-an-ihr-ziel-oder-an-die-erstattung](https://www.spiegel.de/reise/deutschland/service-zum-bahnstreik-so-kommen-sie-an-ihr-ziel-oder-an-die-erstattung-a-57973c13-e9fe-46a0-9fd0-bfb5de5e76fe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-und-gdl-warum-die-lokfuehrer-wirklich-streiken](https://www.spiegel.de/wirtschaft/unternehmen/bahn-und-gdl-warum-die-lokfuehrer-wirklich-streiken-a-72f9197b-3783-4fd3-adbb-7421aad6aaa1#ref=rss)
-### gdl
+* [https://www.spiegel.de/kultur/musik/walter-yetnikoff-ist-tot-plattenfirmenboss-von-michael-jackson-bei-cbs-gestorben](https://www.spiegel.de/kultur/musik/walter-yetnikoff-ist-tot-plattenfirmenboss-von-michael-jackson-bei-cbs-gestorben-a-5c63fc44-5bea-45ab-8b6e-d278557aac63#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ramelow-und-kretschmer-schwaenzen-corona-schalte](https://www.spiegel.de/politik/deutschland/ramelow-und-kretschmer-schwaenzen-corona-schalte-a-48ce2b44-ffdd-425f-be24-c20bd7e9e14a#ref=rss)
+### maßnahmen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-und-gdl-warum-die-lokfuehrer-wirklich-streiken](https://www.spiegel.de/wirtschaft/unternehmen/bahn-und-gdl-warum-die-lokfuehrer-wirklich-streiken-a-72f9197b-3783-4fd3-adbb-7421aad6aaa1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-stimmen-fuer-streik](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-stimmen-fuer-streik-a-cb79ea79-8788-4e48-8b41-2e4aea61bfab#ref=rss)
-### rechnen
+* [https://www.spiegel.de/wissenschaft/mensch/corona-buergertests-der-verzicht-auf-kostenlose-schnelltests-ist-verschmerzbar](https://www.spiegel.de/wissenschaft/mensch/corona-buergertests-der-verzicht-auf-kostenlose-schnelltests-ist-verschmerzbar-a-8bec3eb7-5da9-451a-aa12-c9924d9f5c60#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold](https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold-a-29e5b4a6-eda6-4f28-b7ee-7bc80842ec5f#ref=rss)
+* [https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream](https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream-a-e21473bd-4fcc-4c49-b8ae-d38647c37d53#ref=rss)
+### corona
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-und-gdl-warum-die-lokfuehrer-wirklich-streiken](https://www.spiegel.de/wirtschaft/unternehmen/bahn-und-gdl-warum-die-lokfuehrer-wirklich-streiken-a-72f9197b-3783-4fd3-adbb-7421aad6aaa1#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/datenschuetzer-legen-beschwerden-ueber-cookie-banner-von-422-firmen-ein](https://www.spiegel.de/netzwelt/web/datenschuetzer-legen-beschwerden-ueber-cookie-banner-von-422-firmen-ein-a-d3fe1223-3ac6-4943-8538-87b3c82b747b#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/justiz/corona-im-landkreis-friesland-kochsalzloesung-statt-biontech-tausende-sollen-nachgeimpft-werden](https://www.spiegel.de/panorama/justiz/corona-im-landkreis-friesland-kochsalzloesung-statt-biontech-tausende-sollen-nachgeimpft-werden-a-8842b2b4-065a-479c-8ba6-72d0419a03f6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold](https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold-a-29e5b4a6-eda6-4f28-b7ee-7bc80842ec5f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/coronavirus-passagierluftfahrt-in-deutschland-mit-historischem-einbruch](https://www.spiegel.de/wirtschaft/coronavirus-passagierluftfahrt-in-deutschland-mit-historischem-einbruch-a-fdacad1d-dc9d-4c6e-aca1-e62b8f88cfc5#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-kannibalismus-angeklagter-lehrer-schweigt-im-mordprozess](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-kannibalismus-angeklagter-lehrer-schweigt-im-mordprozess-a-22499a61-1109-4d77-953d-1f9f5d6fcb1e#ref=rss)
-### lehrer
+* [https://www.spiegel.de/ausland/russland-regionalpolitiker-erschiesst-mann-den-er-fuer-baeren-hielt](https://www.spiegel.de/ausland/russland-regionalpolitiker-erschiesst-mann-den-er-fuer-baeren-hielt-a-fee6cb2a-97c8-4522-9bee-b90f7840c744#ref=rss)
+* [https://www.spiegel.de/panorama/flutkatastrophe-an-der-ahr-warum-wurde-trotz-vorwarnung-nicht-evakuiert-spiegel-tv](https://www.spiegel.de/panorama/flutkatastrophe-an-der-ahr-warum-wurde-trotz-vorwarnung-nicht-evakuiert-spiegel-tv-a-2b6933dd-9c7b-49a4-b9b6-46debf98f432#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klima-warum-wir-die-klimakatastrophe-nicht-wahrhaben-wollen](https://www.spiegel.de/wissenschaft/mensch/klima-warum-wir-die-klimakatastrophe-nicht-wahrhaben-wollen-a-c76afd32-9dfd-417e-b710-5959c84c241f#ref=rss)
+### flutkatastrophe
 
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-kannibalismus-angeklagter-lehrer-schweigt-im-mordprozess](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-kannibalismus-angeklagter-lehrer-schweigt-im-mordprozess-a-22499a61-1109-4d77-953d-1f9f5d6fcb1e#ref=rss)
-### opfer
+* [https://www.spiegel.de/panorama/flutkatastrophe-an-der-ahr-warum-wurde-trotz-vorwarnung-nicht-evakuiert-spiegel-tv](https://www.spiegel.de/panorama/flutkatastrophe-an-der-ahr-warum-wurde-trotz-vorwarnung-nicht-evakuiert-spiegel-tv-a-2b6933dd-9c7b-49a4-b9b6-46debf98f432#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-lokfuehrerstreik-coronatest-flutkatastrophe](https://www.spiegel.de/politik/deutschland/news-des-tages-lokfuehrerstreik-coronatest-flutkatastrophe-a-0c04ee90-42ed-4608-8625-d4708a0d0480#ref=rss)
+* [https://www.spiegel.de/deinspiegel/flutkatastrophe-in-ahrweiler-aus-kindersicht-ueberall-war-schlamm](https://www.spiegel.de/deinspiegel/flutkatastrophe-in-ahrweiler-aus-kindersicht-ueberall-war-schlamm-a-030e00a5-0002-0001-0000-000177426681#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-kannibalismus-angeklagter-lehrer-schweigt-im-mordprozess](https://www.spiegel.de/panorama/justiz/berlin-verdacht-auf-kannibalismus-angeklagter-lehrer-schweigt-im-mordprozess-a-22499a61-1109-4d77-953d-1f9f5d6fcb1e#ref=rss)
-* [https://www.spiegel.de/ausland/us-justizministerium-prueft-veroeffentlichung-bislang-geheimer-dokumente](https://www.spiegel.de/ausland/us-justizministerium-prueft-veroeffentlichung-bislang-geheimer-dokumente-a-ba637b4e-2ea3-49d4-8112-937171edc955#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/tuerkei-apple-entfernt-schwule-dating-app-hornet-aus-tuerkischem-app-store](https://www.spiegel.de/netzwelt/apps/tuerkei-apple-entfernt-schwule-dating-app-hornet-aus-tuerkischem-app-store-a-72efa7b3-e6cf-42b7-baf7-3cbf1f04c270#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klima-warum-wir-die-klimakatastrophe-nicht-wahrhaben-wollen](https://www.spiegel.de/wissenschaft/mensch/klima-warum-wir-die-klimakatastrophe-nicht-wahrhaben-wollen-a-c76afd32-9dfd-417e-b710-5959c84c241f#ref=rss)
 ### hansi
 
-* [https://www.spiegel.de/sport/fussball/hansi-flick-das-sind-seine-plaene-fuer-die-nationalmannschaft-livestream](https://www.spiegel.de/sport/fussball/hansi-flick-das-sind-seine-plaene-fuer-die-nationalmannschaft-livestream-a-8b5a61d6-30ad-49bc-aa93-5aaf18986632#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-lokfuehrerstreik-coronatest-flutkatastrophe](https://www.spiegel.de/politik/deutschland/news-des-tages-lokfuehrerstreik-coronatest-flutkatastrophe-a-0c04ee90-42ed-4608-8625-d4708a0d0480#ref=rss)
+* [https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-hansi-flick-als-neuer-bundestrainer-vorgestellt](https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-hansi-flick-als-neuer-bundestrainer-vorgestellt-a-3e6b62c9-3a19-4e17-944f-e8a8408566cc#ref=rss)
 ### flick
 
-* [https://www.spiegel.de/sport/fussball/hansi-flick-das-sind-seine-plaene-fuer-die-nationalmannschaft-livestream](https://www.spiegel.de/sport/fussball/hansi-flick-das-sind-seine-plaene-fuer-die-nationalmannschaft-livestream-a-8b5a61d6-30ad-49bc-aa93-5aaf18986632#ref=rss)
-### livestream
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-lokfuehrerstreik-coronatest-flutkatastrophe](https://www.spiegel.de/politik/deutschland/news-des-tages-lokfuehrerstreik-coronatest-flutkatastrophe-a-0c04ee90-42ed-4608-8625-d4708a0d0480#ref=rss)
+* [https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-hansi-flick-als-neuer-bundestrainer-vorgestellt](https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-hansi-flick-als-neuer-bundestrainer-vorgestellt-a-3e6b62c9-3a19-4e17-944f-e8a8408566cc#ref=rss)
+### coronavirus
 
-* [https://www.spiegel.de/sport/fussball/hansi-flick-das-sind-seine-plaene-fuer-die-nationalmannschaft-livestream](https://www.spiegel.de/sport/fussball/hansi-flick-das-sind-seine-plaene-fuer-die-nationalmannschaft-livestream-a-8b5a61d6-30ad-49bc-aa93-5aaf18986632#ref=rss)
-### neues
+* [https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold](https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold-a-29e5b4a6-eda6-4f28-b7ee-7bc80842ec5f#ref=rss)
+* [https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream](https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream-a-e21473bd-4fcc-4c49-b8ae-d38647c37d53#ref=rss)
+* [https://www.spiegel.de/wirtschaft/coronavirus-passagierluftfahrt-in-deutschland-mit-historischem-einbruch](https://www.spiegel.de/wirtschaft/coronavirus-passagierluftfahrt-in-deutschland-mit-historischem-einbruch-a-fdacad1d-dc9d-4c6e-aca1-e62b8f88cfc5#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/fussball/hansi-flick-das-sind-seine-plaene-fuer-die-nationalmannschaft-livestream](https://www.spiegel.de/sport/fussball/hansi-flick-das-sind-seine-plaene-fuer-die-nationalmannschaft-livestream-a-8b5a61d6-30ad-49bc-aa93-5aaf18986632#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/quallen-als-neues-superfood-proteinreich-kalorienarm-gut-fuer-die-haut](https://www.spiegel.de/panorama/gesellschaft/quallen-als-neues-superfood-proteinreich-kalorienarm-gut-fuer-die-haut-a-dc84ce44-4eb5-422c-a0ad-2bbb54cfb383#ref=rss)
-### london
+* [https://www.spiegel.de/wirtschaft/usa-senat-verabschiedet-bidens-infrastrukturpaket](https://www.spiegel.de/wirtschaft/usa-senat-verabschiedet-bidens-infrastrukturpaket-a-af704886-babb-44bb-a6c6-e01f35bed86b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/dieselskandal-us-aktionaere-verklagen-vw-dachgesellschaft-und-ex-manager](https://www.spiegel.de/wirtschaft/unternehmen/dieselskandal-us-aktionaere-verklagen-vw-dachgesellschaft-und-ex-manager-a-e2039b47-c0e2-4d60-8715-529dc5882aa8#ref=rss)
+### walter
 
-* [https://www.spiegel.de/ausland/london-impfgegner-wollen-bbc-zentrale-stuermen-und-stehen-vor-dem-falschen-gebaeude](https://www.spiegel.de/ausland/london-impfgegner-wollen-bbc-zentrale-stuermen-und-stehen-vor-dem-falschen-gebaeude-a-df67d9b3-b8eb-4c9c-9fcd-6ee983cbd224#ref=rss)
-### impfgegner
+* [https://www.spiegel.de/kultur/musik/walter-yetnikoff-ist-tot-plattenfirmenboss-von-michael-jackson-bei-cbs-gestorben](https://www.spiegel.de/kultur/musik/walter-yetnikoff-ist-tot-plattenfirmenboss-von-michael-jackson-bei-cbs-gestorben-a-5c63fc44-5bea-45ab-8b6e-d278557aac63#ref=rss)
+### yetnikoff
 
-* [https://www.spiegel.de/ausland/london-impfgegner-wollen-bbc-zentrale-stuermen-und-stehen-vor-dem-falschen-gebaeude](https://www.spiegel.de/ausland/london-impfgegner-wollen-bbc-zentrale-stuermen-und-stehen-vor-dem-falschen-gebaeude-a-df67d9b3-b8eb-4c9c-9fcd-6ee983cbd224#ref=rss)
-### falschen
+* [https://www.spiegel.de/kultur/musik/walter-yetnikoff-ist-tot-plattenfirmenboss-von-michael-jackson-bei-cbs-gestorben](https://www.spiegel.de/kultur/musik/walter-yetnikoff-ist-tot-plattenfirmenboss-von-michael-jackson-bei-cbs-gestorben-a-5c63fc44-5bea-45ab-8b6e-d278557aac63#ref=rss)
+### cbs
 
-* [https://www.spiegel.de/ausland/london-impfgegner-wollen-bbc-zentrale-stuermen-und-stehen-vor-dem-falschen-gebaeude](https://www.spiegel.de/ausland/london-impfgegner-wollen-bbc-zentrale-stuermen-und-stehen-vor-dem-falschen-gebaeude-a-df67d9b3-b8eb-4c9c-9fcd-6ee983cbd224#ref=rss)
-### werfen
+* [https://www.spiegel.de/kultur/musik/walter-yetnikoff-ist-tot-plattenfirmenboss-von-michael-jackson-bei-cbs-gestorben](https://www.spiegel.de/kultur/musik/walter-yetnikoff-ist-tot-plattenfirmenboss-von-michael-jackson-bei-cbs-gestorben-a-5c63fc44-5bea-45ab-8b6e-d278557aac63#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/ausland/london-impfgegner-wollen-bbc-zentrale-stuermen-und-stehen-vor-dem-falschen-gebaeude](https://www.spiegel.de/ausland/london-impfgegner-wollen-bbc-zentrale-stuermen-und-stehen-vor-dem-falschen-gebaeude-a-df67d9b3-b8eb-4c9c-9fcd-6ee983cbd224#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/china-gericht-bestaetigt-todesurteil-gegen-kanadier-robert-lloyd-schellenberg](https://www.spiegel.de/panorama/justiz/china-gericht-bestaetigt-todesurteil-gegen-kanadier-robert-lloyd-schellenberg-a-9c50415c-70d1-428e-a7f3-68a4cc1c7a0c#ref=rss)
-### quallen
+* [https://www.spiegel.de/kultur/musik/walter-yetnikoff-ist-tot-plattenfirmenboss-von-michael-jackson-bei-cbs-gestorben](https://www.spiegel.de/kultur/musik/walter-yetnikoff-ist-tot-plattenfirmenboss-von-michael-jackson-bei-cbs-gestorben-a-5c63fc44-5bea-45ab-8b6e-d278557aac63#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/grab-in-finnland-ist-diese-1000-jahre-alte-kriegerin-vielleicht-gar-keine](https://www.spiegel.de/wissenschaft/mensch/grab-in-finnland-ist-diese-1000-jahre-alte-kriegerin-vielleicht-gar-keine-a-6a0a477b-c48c-47c1-9af4-2eb39b5445cf#ref=rss)
+### schnelltests
 
-* [https://www.spiegel.de/panorama/gesellschaft/quallen-als-neues-superfood-proteinreich-kalorienarm-gut-fuer-die-haut](https://www.spiegel.de/panorama/gesellschaft/quallen-als-neues-superfood-proteinreich-kalorienarm-gut-fuer-die-haut-a-dc84ce44-4eb5-422c-a0ad-2bbb54cfb383#ref=rss)
-### zeigen
+* [https://www.spiegel.de/wissenschaft/mensch/corona-buergertests-der-verzicht-auf-kostenlose-schnelltests-ist-verschmerzbar](https://www.spiegel.de/wissenschaft/mensch/corona-buergertests-der-verzicht-auf-kostenlose-schnelltests-ist-verschmerzbar-a-8bec3eb7-5da9-451a-aa12-c9924d9f5c60#ref=rss)
+### ungeimpfte
 
-* [https://www.spiegel.de/netzwelt/web/twitters-algorithmus-bevorzugt-junge-schlanke-frauen](https://www.spiegel.de/netzwelt/web/twitters-algorithmus-bevorzugt-junge-schlanke-frauen-a-24df38ed-5f34-4c1f-94e2-65c1c2e0ca99#ref=rss)
-* [https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden](https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden-a-9bedf56f-bef2-4ec0-b20d-3d93729d7dff#ref=rss)
-### sozialen
+* [https://www.spiegel.de/wissenschaft/mensch/corona-buergertests-der-verzicht-auf-kostenlose-schnelltests-ist-verschmerzbar](https://www.spiegel.de/wissenschaft/mensch/corona-buergertests-der-verzicht-auf-kostenlose-schnelltests-ist-verschmerzbar-a-8bec3eb7-5da9-451a-aa12-c9924d9f5c60#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-lokfuehrerstreik-coronatest-flutkatastrophe](https://www.spiegel.de/politik/deutschland/news-des-tages-lokfuehrerstreik-coronatest-flutkatastrophe-a-0c04ee90-42ed-4608-8625-d4708a0d0480#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/netzwelt/web/twitters-algorithmus-bevorzugt-junge-schlanke-frauen](https://www.spiegel.de/netzwelt/web/twitters-algorithmus-bevorzugt-junge-schlanke-frauen-a-24df38ed-5f34-4c1f-94e2-65c1c2e0ca99#ref=rss)
-* [https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden](https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden-a-9bedf56f-bef2-4ec0-b20d-3d93729d7dff#ref=rss)
-### lehnt
+* [https://www.spiegel.de/wissenschaft/mensch/corona-buergertests-der-verzicht-auf-kostenlose-schnelltests-ist-verschmerzbar](https://www.spiegel.de/wissenschaft/mensch/corona-buergertests-der-verzicht-auf-kostenlose-schnelltests-ist-verschmerzbar-a-8bec3eb7-5da9-451a-aa12-c9924d9f5c60#ref=rss)
+* [https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream](https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream-a-e21473bd-4fcc-4c49-b8ae-d38647c37d53#ref=rss)
+### entscheidung
 
-* [https://www.spiegel.de/wissenschaft/mensch/australien-lehnt-ehrgeizigere-klimaziele-ab](https://www.spiegel.de/wissenschaft/mensch/australien-lehnt-ehrgeizigere-klimaziele-ab-a-9b511552-f61d-4df9-a33d-b71f8820c204#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-gericht-lehnt-beschleunigung-des-vormundschaftsprozesses-ab](https://www.spiegel.de/panorama/leute/britney-spears-gericht-lehnt-beschleunigung-des-vormundschaftsprozesses-ab-a-3720ae6b-691f-4375-b753-f59f27263486#ref=rss)
-### kampf
+* [https://www.spiegel.de/wissenschaft/mensch/corona-buergertests-der-verzicht-auf-kostenlose-schnelltests-ist-verschmerzbar](https://www.spiegel.de/wissenschaft/mensch/corona-buergertests-der-verzicht-auf-kostenlose-schnelltests-ist-verschmerzbar-a-8bec3eb7-5da9-451a-aa12-c9924d9f5c60#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine](https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine-a-dfb9214e-d7ef-40c5-b698-0cf9cc350c4e#ref=rss)
+### gerhard
 
-* [https://www.spiegel.de/wissenschaft/mensch/australien-lehnt-ehrgeizigere-klimaziele-ab](https://www.spiegel.de/wissenschaft/mensch/australien-lehnt-ehrgeizigere-klimaziele-ab-a-9b511552-f61d-4df9-a33d-b71f8820c204#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-gericht-lehnt-beschleunigung-des-vormundschaftsprozesses-ab](https://www.spiegel.de/panorama/leute/britney-spears-gericht-lehnt-beschleunigung-des-vormundschaftsprozesses-ab-a-3720ae6b-691f-4375-b753-f59f27263486#ref=rss)
-### family
+* [https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine](https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine-a-dfb9214e-d7ef-40c5-b698-0cf9cc350c4e#ref=rss)
+### schröder
 
-* [https://www.spiegel.de/kultur/tv/addams-family-wednesday-catherine-zeta-jones-als-morticia-addams](https://www.spiegel.de/kultur/tv/addams-family-wednesday-catherine-zeta-jones-als-morticia-addams-a-b4502fba-55ee-44de-bddb-281951f16a30#ref=rss)
-### wednesday
+* [https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine](https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine-a-dfb9214e-d7ef-40c5-b698-0cf9cc350c4e#ref=rss)
+### currywurst
 
-* [https://www.spiegel.de/kultur/tv/addams-family-wednesday-catherine-zeta-jones-als-morticia-addams](https://www.spiegel.de/kultur/tv/addams-family-wednesday-catherine-zeta-jones-als-morticia-addams-a-b4502fba-55ee-44de-bddb-281951f16a30#ref=rss)
-### bekannt
+* [https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine](https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine-a-dfb9214e-d7ef-40c5-b698-0cf9cc350c4e#ref=rss)
+### etwas
 
-* [https://www.spiegel.de/kultur/tv/addams-family-wednesday-catherine-zeta-jones-als-morticia-addams](https://www.spiegel.de/kultur/tv/addams-family-wednesday-catherine-zeta-jones-als-morticia-addams-a-b4502fba-55ee-44de-bddb-281951f16a30#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften-a-6cbfd0a0-104b-4f6b-b25e-05cb4f33abff#ref=rss)
-### verhandlungen
+* [https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine](https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine-a-dfb9214e-d7ef-40c5-b698-0cf9cc350c4e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klima-warum-wir-die-klimakatastrophe-nicht-wahrhaben-wollen](https://www.spiegel.de/wissenschaft/mensch/klima-warum-wir-die-klimakatastrophe-nicht-wahrhaben-wollen-a-c76afd32-9dfd-417e-b710-5959c84c241f#ref=rss)
+### autokonzerns
 
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-stimmen-fuer-streik](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrer-stimmen-fuer-streik-a-cb79ea79-8788-4e48-8b41-2e4aea61bfab#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-nato-ruft-taliban-zur-beendigung-ihrer-angriffe-auf](https://www.spiegel.de/ausland/afghanistan-nato-ruft-taliban-zur-beendigung-ihrer-angriffe-auf-a-825ffc0d-5017-4a10-9491-17f33aedc559#ref=rss)
-### algerien
+* [https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine](https://www.spiegel.de/wirtschaft/unternehmen/gerhard-schroeder-wettert-gegen-aus-fuer-currywurst-in-vw-kantine-a-dfb9214e-d7ef-40c5-b698-0cf9cc350c4e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/dieselskandal-us-aktionaere-verklagen-vw-dachgesellschaft-und-ex-manager](https://www.spiegel.de/wirtschaft/unternehmen/dieselskandal-us-aktionaere-verklagen-vw-dachgesellschaft-und-ex-manager-a-e2039b47-c0e2-4d60-8715-529dc5882aa8#ref=rss)
+### russland
 
-* [https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden](https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden-a-9bedf56f-bef2-4ec0-b20d-3d93729d7dff#ref=rss)
-### mindestens
+* [https://www.spiegel.de/ausland/russland-regionalpolitiker-erschiesst-mann-den-er-fuer-baeren-hielt](https://www.spiegel.de/ausland/russland-regionalpolitiker-erschiesst-mann-den-er-fuer-baeren-hielt-a-fee6cb2a-97c8-4522-9bee-b90f7840c744#ref=rss)
+### mann
 
-* [https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden](https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden-a-9bedf56f-bef2-4ec0-b20d-3d93729d7dff#ref=rss)
-### vier
+* [https://www.spiegel.de/ausland/russland-regionalpolitiker-erschiesst-mann-den-er-fuer-baeren-hielt](https://www.spiegel.de/ausland/russland-regionalpolitiker-erschiesst-mann-den-er-fuer-baeren-hielt-a-fee6cb2a-97c8-4522-9bee-b90f7840c744#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mordprozess-in-berlin-mutmasslicher-kannibale-nannte-sich-meister-metzger79](https://www.spiegel.de/panorama/justiz/mordprozess-in-berlin-mutmasslicher-kannibale-nannte-sich-meister-metzger79-a-415bf550-16d9-47a3-810a-2fbb915b9aaa#ref=rss)
+### bären
 
-* [https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden](https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden-a-9bedf56f-bef2-4ec0-b20d-3d93729d7dff#ref=rss)
-### drei
+* [https://www.spiegel.de/ausland/russland-regionalpolitiker-erschiesst-mann-den-er-fuer-baeren-hielt](https://www.spiegel.de/ausland/russland-regionalpolitiker-erschiesst-mann-den-er-fuer-baeren-hielt-a-fee6cb2a-97c8-4522-9bee-b90f7840c744#ref=rss)
+### ahr
 
-* [https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden](https://www.spiegel.de/panorama/algerien-mindestens-vier-tote-bei-waldbraenden-a-9bedf56f-bef2-4ec0-b20d-3d93729d7dff#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kalletal-in-nordrhein-westfalen-mutter-soll-ihre-kinder-missbraucht-haben](https://www.spiegel.de/panorama/justiz/kalletal-in-nordrhein-westfalen-mutter-soll-ihre-kinder-missbraucht-haben-a-dc8c3d33-4a14-4189-aa74-04ffa66a86e5#ref=rss)
-### 11
+* [https://www.spiegel.de/panorama/flutkatastrophe-an-der-ahr-warum-wurde-trotz-vorwarnung-nicht-evakuiert-spiegel-tv](https://www.spiegel.de/panorama/flutkatastrophe-an-der-ahr-warum-wurde-trotz-vorwarnung-nicht-evakuiert-spiegel-tv-a-2b6933dd-9c7b-49a4-b9b6-46debf98f432#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/ausland/us-justizministerium-prueft-veroeffentlichung-bislang-geheimer-dokumente](https://www.spiegel.de/ausland/us-justizministerium-prueft-veroeffentlichung-bislang-geheimer-dokumente-a-ba637b4e-2ea3-49d4-8112-937171edc955#ref=rss)
-### september
+* [https://www.spiegel.de/panorama/flutkatastrophe-an-der-ahr-warum-wurde-trotz-vorwarnung-nicht-evakuiert-spiegel-tv](https://www.spiegel.de/panorama/flutkatastrophe-an-der-ahr-warum-wurde-trotz-vorwarnung-nicht-evakuiert-spiegel-tv-a-2b6933dd-9c7b-49a4-b9b6-46debf98f432#ref=rss)
+### tv
 
-* [https://www.spiegel.de/ausland/us-justizministerium-prueft-veroeffentlichung-bislang-geheimer-dokumente](https://www.spiegel.de/ausland/us-justizministerium-prueft-veroeffentlichung-bislang-geheimer-dokumente-a-ba637b4e-2ea3-49d4-8112-937171edc955#ref=rss)
-### dokumente
+* [https://www.spiegel.de/panorama/flutkatastrophe-an-der-ahr-warum-wurde-trotz-vorwarnung-nicht-evakuiert-spiegel-tv](https://www.spiegel.de/panorama/flutkatastrophe-an-der-ahr-warum-wurde-trotz-vorwarnung-nicht-evakuiert-spiegel-tv-a-2b6933dd-9c7b-49a4-b9b6-46debf98f432#ref=rss)
+### andrew
 
-* [https://www.spiegel.de/ausland/us-justizministerium-prueft-veroeffentlichung-bislang-geheimer-dokumente](https://www.spiegel.de/ausland/us-justizministerium-prueft-veroeffentlichung-bislang-geheimer-dokumente-a-ba637b4e-2ea3-49d4-8112-937171edc955#ref=rss)
-### britney
+* [https://www.spiegel.de/ausland/andrew-cuomo-new-yorks-gouverneur-kuendigt-ruecktritt-an](https://www.spiegel.de/ausland/andrew-cuomo-new-yorks-gouverneur-kuendigt-ruecktritt-an-a-dfc199f0-e49a-42bd-b656-09538e25f159#ref=rss)
+### cuomo
 
-* [https://www.spiegel.de/panorama/leute/britney-spears-gericht-lehnt-beschleunigung-des-vormundschaftsprozesses-ab](https://www.spiegel.de/panorama/leute/britney-spears-gericht-lehnt-beschleunigung-des-vormundschaftsprozesses-ab-a-3720ae6b-691f-4375-b753-f59f27263486#ref=rss)
-### spears
+* [https://www.spiegel.de/ausland/andrew-cuomo-new-yorks-gouverneur-kuendigt-ruecktritt-an](https://www.spiegel.de/ausland/andrew-cuomo-new-yorks-gouverneur-kuendigt-ruecktritt-an-a-dfc199f0-e49a-42bd-b656-09538e25f159#ref=rss)
+### new
 
-* [https://www.spiegel.de/panorama/leute/britney-spears-gericht-lehnt-beschleunigung-des-vormundschaftsprozesses-ab](https://www.spiegel.de/panorama/leute/britney-spears-gericht-lehnt-beschleunigung-des-vormundschaftsprozesses-ab-a-3720ae6b-691f-4375-b753-f59f27263486#ref=rss)
-### cookiebanner
+* [https://www.spiegel.de/ausland/andrew-cuomo-new-yorks-gouverneur-kuendigt-ruecktritt-an](https://www.spiegel.de/ausland/andrew-cuomo-new-yorks-gouverneur-kuendigt-ruecktritt-an-a-dfc199f0-e49a-42bd-b656-09538e25f159#ref=rss)
+### yorks
 
-* [https://www.spiegel.de/netzwelt/web/datenschuetzer-legen-beschwerden-ueber-cookie-banner-von-422-firmen-ein](https://www.spiegel.de/netzwelt/web/datenschuetzer-legen-beschwerden-ueber-cookie-banner-von-422-firmen-ein-a-d3fe1223-3ac6-4943-8538-87b3c82b747b#ref=rss)
-### beschwerden
+* [https://www.spiegel.de/ausland/andrew-cuomo-new-yorks-gouverneur-kuendigt-ruecktritt-an](https://www.spiegel.de/ausland/andrew-cuomo-new-yorks-gouverneur-kuendigt-ruecktritt-an-a-dfc199f0-e49a-42bd-b656-09538e25f159#ref=rss)
+### gouverneur
 
-* [https://www.spiegel.de/netzwelt/web/datenschuetzer-legen-beschwerden-ueber-cookie-banner-von-422-firmen-ein](https://www.spiegel.de/netzwelt/web/datenschuetzer-legen-beschwerden-ueber-cookie-banner-von-422-firmen-ein-a-d3fe1223-3ac6-4943-8538-87b3c82b747b#ref=rss)
-### kalletal
+* [https://www.spiegel.de/ausland/andrew-cuomo-new-yorks-gouverneur-kuendigt-ruecktritt-an](https://www.spiegel.de/ausland/andrew-cuomo-new-yorks-gouverneur-kuendigt-ruecktritt-an-a-dfc199f0-e49a-42bd-b656-09538e25f159#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/panorama/justiz/kalletal-in-nordrhein-westfalen-mutter-soll-ihre-kinder-missbraucht-haben](https://www.spiegel.de/panorama/justiz/kalletal-in-nordrhein-westfalen-mutter-soll-ihre-kinder-missbraucht-haben-a-dc8c3d33-4a14-4189-aa74-04ffa66a86e5#ref=rss)
-### mutter
+* [https://www.spiegel.de/netzwelt/apps/tuerkei-apple-entfernt-schwule-dating-app-hornet-aus-tuerkischem-app-store](https://www.spiegel.de/netzwelt/apps/tuerkei-apple-entfernt-schwule-dating-app-hornet-aus-tuerkischem-app-store-a-72efa7b3-e6cf-42b7-baf7-3cbf1f04c270#ref=rss)
+### hornet
 
-* [https://www.spiegel.de/panorama/justiz/kalletal-in-nordrhein-westfalen-mutter-soll-ihre-kinder-missbraucht-haben](https://www.spiegel.de/panorama/justiz/kalletal-in-nordrhein-westfalen-mutter-soll-ihre-kinder-missbraucht-haben-a-dc8c3d33-4a14-4189-aa74-04ffa66a86e5#ref=rss)
-### kinder
+* [https://www.spiegel.de/netzwelt/apps/tuerkei-apple-entfernt-schwule-dating-app-hornet-aus-tuerkischem-app-store](https://www.spiegel.de/netzwelt/apps/tuerkei-apple-entfernt-schwule-dating-app-hornet-aus-tuerkischem-app-store-a-72efa7b3-e6cf-42b7-baf7-3cbf1f04c270#ref=rss)
+### app
 
-* [https://www.spiegel.de/panorama/justiz/kalletal-in-nordrhein-westfalen-mutter-soll-ihre-kinder-missbraucht-haben](https://www.spiegel.de/panorama/justiz/kalletal-in-nordrhein-westfalen-mutter-soll-ihre-kinder-missbraucht-haben-a-dc8c3d33-4a14-4189-aa74-04ffa66a86e5#ref=rss)
-### ingrid
+* [https://www.spiegel.de/netzwelt/apps/tuerkei-apple-entfernt-schwule-dating-app-hornet-aus-tuerkischem-app-store](https://www.spiegel.de/netzwelt/apps/tuerkei-apple-entfernt-schwule-dating-app-hornet-aus-tuerkischem-app-store-a-72efa7b3-e6cf-42b7-baf7-3cbf1f04c270#ref=rss)
+### store
 
-* [https://www.spiegel.de/politik/deutschland/bundestagsabgeordnete-ingrid-remmers-ist-tot](https://www.spiegel.de/politik/deutschland/bundestagsabgeordnete-ingrid-remmers-ist-tot-a-27309071-2b17-4511-92c1-d75f3fa55ca2#ref=rss)
-### remmers
+* [https://www.spiegel.de/netzwelt/apps/tuerkei-apple-entfernt-schwule-dating-app-hornet-aus-tuerkischem-app-store](https://www.spiegel.de/netzwelt/apps/tuerkei-apple-entfernt-schwule-dating-app-hornet-aus-tuerkischem-app-store-a-72efa7b3-e6cf-42b7-baf7-3cbf1f04c270#ref=rss)
+### sprechen
 
-* [https://www.spiegel.de/politik/deutschland/bundestagsabgeordnete-ingrid-remmers-ist-tot](https://www.spiegel.de/politik/deutschland/bundestagsabgeordnete-ingrid-remmers-ist-tot-a-27309071-2b17-4511-92c1-d75f3fa55ca2#ref=rss)
-### söder
+* [https://www.spiegel.de/netzwelt/apps/tuerkei-apple-entfernt-schwule-dating-app-hornet-aus-tuerkischem-app-store](https://www.spiegel.de/netzwelt/apps/tuerkei-apple-entfernt-schwule-dating-app-hornet-aus-tuerkischem-app-store-a-72efa7b3-e6cf-42b7-baf7-3cbf1f04c270#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klima-warum-wir-die-klimakatastrophe-nicht-wahrhaben-wollen](https://www.spiegel.de/wissenschaft/mensch/klima-warum-wir-die-klimakatastrophe-nicht-wahrhaben-wollen-a-c76afd32-9dfd-417e-b710-5959c84c241f#ref=rss)
+### hexenschuss
 
-* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften-a-6cbfd0a0-104b-4f6b-b25e-05cb4f33abff#ref=rss)
-### geimpften
+* [https://www.spiegel.de/psychologie/hexenschuss-warum-es-keine-gute-idee-ist-in-meinem-alter-wellenreiten-zu-lernen](https://www.spiegel.de/psychologie/hexenschuss-warum-es-keine-gute-idee-ist-in-meinem-alter-wellenreiten-zu-lernen-a-ad5920ff-ea21-41f8-a676-dc4a6664db60#ref=rss)
+### schnell
 
-* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-csu-fuer-unterschiede-zwischen-geimpften-und-nicht-geimpften-a-6cbfd0a0-104b-4f6b-b25e-05cb4f33abff#ref=rss)
-### selbstständig
+* [https://www.spiegel.de/psychologie/hexenschuss-warum-es-keine-gute-idee-ist-in-meinem-alter-wellenreiten-zu-lernen](https://www.spiegel.de/psychologie/hexenschuss-warum-es-keine-gute-idee-ist-in-meinem-alter-wellenreiten-zu-lernen-a-ad5920ff-ea21-41f8-a676-dc4a6664db60#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold](https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold-a-29e5b4a6-eda6-4f28-b7ee-7bc80842ec5f#ref=rss)
+### stellte
 
-* [https://www.spiegel.de/start/selbststaendig-machen-nach-der-uni-gruende-fuers-gruenden](https://www.spiegel.de/start/selbststaendig-machen-nach-der-uni-gruende-fuers-gruenden-a-a8ebcaa4-b61a-4ea5-8e23-a009ff3fe2e3#ref=rss)
-### gründen
+* [https://www.spiegel.de/psychologie/hexenschuss-warum-es-keine-gute-idee-ist-in-meinem-alter-wellenreiten-zu-lernen](https://www.spiegel.de/psychologie/hexenschuss-warum-es-keine-gute-idee-ist-in-meinem-alter-wellenreiten-zu-lernen-a-ad5920ff-ea21-41f8-a676-dc4a6664db60#ref=rss)
+* [https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-hansi-flick-als-neuer-bundestrainer-vorgestellt](https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-hansi-flick-als-neuer-bundestrainer-vorgestellt-a-3e6b62c9-3a19-4e17-944f-e8a8408566cc#ref=rss)
+### alte
 
-* [https://www.spiegel.de/start/selbststaendig-machen-nach-der-uni-gruende-fuers-gruenden](https://www.spiegel.de/start/selbststaendig-machen-nach-der-uni-gruende-fuers-gruenden-a-a8ebcaa4-b61a-4ea5-8e23-a009ff3fe2e3#ref=rss)
-### kanadier
+* [https://www.spiegel.de/psychologie/hexenschuss-warum-es-keine-gute-idee-ist-in-meinem-alter-wellenreiten-zu-lernen](https://www.spiegel.de/psychologie/hexenschuss-warum-es-keine-gute-idee-ist-in-meinem-alter-wellenreiten-zu-lernen-a-ad5920ff-ea21-41f8-a676-dc4a6664db60#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/grab-in-finnland-ist-diese-1000-jahre-alte-kriegerin-vielleicht-gar-keine](https://www.spiegel.de/wissenschaft/mensch/grab-in-finnland-ist-diese-1000-jahre-alte-kriegerin-vielleicht-gar-keine-a-6a0a477b-c48c-47c1-9af4-2eb39b5445cf#ref=rss)
+### grab
 
-* [https://www.spiegel.de/panorama/justiz/china-gericht-bestaetigt-todesurteil-gegen-kanadier-robert-lloyd-schellenberg](https://www.spiegel.de/panorama/justiz/china-gericht-bestaetigt-todesurteil-gegen-kanadier-robert-lloyd-schellenberg-a-9c50415c-70d1-428e-a7f3-68a4cc1c7a0c#ref=rss)
-### robert
+* [https://www.spiegel.de/wissenschaft/mensch/grab-in-finnland-ist-diese-1000-jahre-alte-kriegerin-vielleicht-gar-keine](https://www.spiegel.de/wissenschaft/mensch/grab-in-finnland-ist-diese-1000-jahre-alte-kriegerin-vielleicht-gar-keine-a-6a0a477b-c48c-47c1-9af4-2eb39b5445cf#ref=rss)
+### finnland
 
-* [https://www.spiegel.de/panorama/justiz/china-gericht-bestaetigt-todesurteil-gegen-kanadier-robert-lloyd-schellenberg](https://www.spiegel.de/panorama/justiz/china-gericht-bestaetigt-todesurteil-gegen-kanadier-robert-lloyd-schellenberg-a-9c50415c-70d1-428e-a7f3-68a4cc1c7a0c#ref=rss)
-### lloyd
+* [https://www.spiegel.de/wissenschaft/mensch/grab-in-finnland-ist-diese-1000-jahre-alte-kriegerin-vielleicht-gar-keine](https://www.spiegel.de/wissenschaft/mensch/grab-in-finnland-ist-diese-1000-jahre-alte-kriegerin-vielleicht-gar-keine-a-6a0a477b-c48c-47c1-9af4-2eb39b5445cf#ref=rss)
+### kriegerin
 
-* [https://www.spiegel.de/panorama/justiz/china-gericht-bestaetigt-todesurteil-gegen-kanadier-robert-lloyd-schellenberg](https://www.spiegel.de/panorama/justiz/china-gericht-bestaetigt-todesurteil-gegen-kanadier-robert-lloyd-schellenberg-a-9c50415c-70d1-428e-a7f3-68a4cc1c7a0c#ref=rss)
-### schellenberg
+* [https://www.spiegel.de/wissenschaft/mensch/grab-in-finnland-ist-diese-1000-jahre-alte-kriegerin-vielleicht-gar-keine](https://www.spiegel.de/wissenschaft/mensch/grab-in-finnland-ist-diese-1000-jahre-alte-kriegerin-vielleicht-gar-keine-a-6a0a477b-c48c-47c1-9af4-2eb39b5445cf#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/panorama/justiz/china-gericht-bestaetigt-todesurteil-gegen-kanadier-robert-lloyd-schellenberg](https://www.spiegel.de/panorama/justiz/china-gericht-bestaetigt-todesurteil-gegen-kanadier-robert-lloyd-schellenberg-a-9c50415c-70d1-428e-a7f3-68a4cc1c7a0c#ref=rss)
-### afghanistan
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-umstrittenes-spd-wahlkampfvideo-soll-nicht-genutzt-werden](https://www.spiegel.de/politik/deutschland/olaf-scholz-umstrittenes-spd-wahlkampfvideo-soll-nicht-genutzt-werden-a-296bfdea-b063-47a8-a35c-8cb4cd440261#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/ausland/afghanistan-nato-ruft-taliban-zur-beendigung-ihrer-angriffe-auf](https://www.spiegel.de/ausland/afghanistan-nato-ruft-taliban-zur-beendigung-ihrer-angriffe-auf-a-825ffc0d-5017-4a10-9491-17f33aedc559#ref=rss)
-### nato
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-umstrittenes-spd-wahlkampfvideo-soll-nicht-genutzt-werden](https://www.spiegel.de/politik/deutschland/olaf-scholz-umstrittenes-spd-wahlkampfvideo-soll-nicht-genutzt-werden-a-296bfdea-b063-47a8-a35c-8cb4cd440261#ref=rss)
+### spd
 
-* [https://www.spiegel.de/ausland/afghanistan-nato-ruft-taliban-zur-beendigung-ihrer-angriffe-auf](https://www.spiegel.de/ausland/afghanistan-nato-ruft-taliban-zur-beendigung-ihrer-angriffe-auf-a-825ffc0d-5017-4a10-9491-17f33aedc559#ref=rss)
-### taliban
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-umstrittenes-spd-wahlkampfvideo-soll-nicht-genutzt-werden](https://www.spiegel.de/politik/deutschland/olaf-scholz-umstrittenes-spd-wahlkampfvideo-soll-nicht-genutzt-werden-a-296bfdea-b063-47a8-a35c-8cb4cd440261#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-deutschland-koalition-als-vorbild-fuer-den-bund](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-deutschland-koalition-als-vorbild-fuer-den-bund-a-0064aa19-b4b8-4f7e-aaa9-ebffc1e8d5f9#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/ausland/afghanistan-nato-ruft-taliban-zur-beendigung-ihrer-angriffe-auf](https://www.spiegel.de/ausland/afghanistan-nato-ruft-taliban-zur-beendigung-ihrer-angriffe-auf-a-825ffc0d-5017-4a10-9491-17f33aedc559#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-umstrittenes-spd-wahlkampfvideo-soll-nicht-genutzt-werden](https://www.spiegel.de/politik/deutschland/olaf-scholz-umstrittenes-spd-wahlkampfvideo-soll-nicht-genutzt-werden-a-296bfdea-b063-47a8-a35c-8cb4cd440261#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-deutschland-koalition-als-vorbild-fuer-den-bund](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-deutschland-koalition-als-vorbild-fuer-den-bund-a-0064aa19-b4b8-4f7e-aaa9-ebffc1e8d5f9#ref=rss)
+### sachsenanhalt
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-deutschland-koalition-als-vorbild-fuer-den-bund](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-deutschland-koalition-als-vorbild-fuer-den-bund-a-0064aa19-b4b8-4f7e-aaa9-ebffc1e8d5f9#ref=rss)
+### vorbild
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-deutschland-koalition-als-vorbild-fuer-den-bund](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-deutschland-koalition-als-vorbild-fuer-den-bund-a-0064aa19-b4b8-4f7e-aaa9-ebffc1e8d5f9#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/dieselskandal-us-aktionaere-verklagen-vw-dachgesellschaft-und-ex-manager](https://www.spiegel.de/wirtschaft/unternehmen/dieselskandal-us-aktionaere-verklagen-vw-dachgesellschaft-und-ex-manager-a-e2039b47-c0e2-4d60-8715-529dc5882aa8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-hansi-flick-als-neuer-bundestrainer-vorgestellt](https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-hansi-flick-als-neuer-bundestrainer-vorgestellt-a-3e6b62c9-3a19-4e17-944f-e8a8408566cc#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold](https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold-a-29e5b4a6-eda6-4f28-b7ee-7bc80842ec5f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ramelow-und-kretschmer-schwaenzen-corona-schalte](https://www.spiegel.de/politik/deutschland/ramelow-und-kretschmer-schwaenzen-corona-schalte-a-48ce2b44-ffdd-425f-be24-c20bd7e9e14a#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold](https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold-a-29e5b4a6-eda6-4f28-b7ee-7bc80842ec5f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ramelow-und-kretschmer-schwaenzen-corona-schalte](https://www.spiegel.de/politik/deutschland/ramelow-und-kretschmer-schwaenzen-corona-schalte-a-48ce2b44-ffdd-425f-be24-c20bd7e9e14a#ref=rss)
+### länder
+
+* [https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold](https://www.spiegel.de/politik/deutschland/bund-und-laender-beschliessen-generelle-testpflicht-fuer-innenraeume-hold-a-29e5b4a6-eda6-4f28-b7ee-7bc80842ec5f#ref=rss)
+* [https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream](https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream-a-e21473bd-4fcc-4c49-b8ae-d38647c37d53#ref=rss)
+### ministerpräsidentenkonferenz
+
+* [https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream](https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream-a-e21473bd-4fcc-4c49-b8ae-d38647c37d53#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ramelow-und-kretschmer-schwaenzen-corona-schalte](https://www.spiegel.de/politik/deutschland/ramelow-und-kretschmer-schwaenzen-corona-schalte-a-48ce2b44-ffdd-425f-be24-c20bd7e9e14a#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream](https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream-a-e21473bd-4fcc-4c49-b8ae-d38647c37d53#ref=rss)
+### darüber
+
+* [https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream](https://www.spiegel.de/politik/coronavirus-das-sind-die-ergebnisse-der-ministerpraesidentenkonferenz-livestream-a-e21473bd-4fcc-4c49-b8ae-d38647c37d53#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klima-warum-wir-die-klimakatastrophe-nicht-wahrhaben-wollen](https://www.spiegel.de/wissenschaft/mensch/klima-warum-wir-die-klimakatastrophe-nicht-wahrhaben-wollen-a-c76afd32-9dfd-417e-b710-5959c84c241f#ref=rss)
+### airport
+
+* [https://www.spiegel.de/reise/skytrax-ranking-2021-der-hamad-international-airport-in-doha-katar-ist-der-beste-flughafen-der-welt](https://www.spiegel.de/reise/skytrax-ranking-2021-der-hamad-international-airport-in-doha-katar-ist-der-beste-flughafen-der-welt-a-b129c076-d2f1-4005-a7a9-350652a31bdf#ref=rss)
+### doha
+
+* [https://www.spiegel.de/reise/skytrax-ranking-2021-der-hamad-international-airport-in-doha-katar-ist-der-beste-flughafen-der-welt](https://www.spiegel.de/reise/skytrax-ranking-2021-der-hamad-international-airport-in-doha-katar-ist-der-beste-flughafen-der-welt-a-b129c076-d2f1-4005-a7a9-350652a31bdf#ref=rss)
+### passagiere
+
+* [https://www.spiegel.de/reise/skytrax-ranking-2021-der-hamad-international-airport-in-doha-katar-ist-der-beste-flughafen-der-welt](https://www.spiegel.de/reise/skytrax-ranking-2021-der-hamad-international-airport-in-doha-katar-ist-der-beste-flughafen-der-welt-a-b129c076-d2f1-4005-a7a9-350652a31bdf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/coronavirus-passagierluftfahrt-in-deutschland-mit-historischem-einbruch](https://www.spiegel.de/wirtschaft/coronavirus-passagierluftfahrt-in-deutschland-mit-historischem-einbruch-a-fdacad1d-dc9d-4c6e-aca1-e62b8f88cfc5#ref=rss)
+### google
+
+* [https://www.spiegel.de/netzwelt/web/youtube-und-google-verschaerfen-jugendschutz-funktionen](https://www.spiegel.de/netzwelt/web/youtube-und-google-verschaerfen-jugendschutz-funktionen-a-541dc028-009a-48c3-a3f0-31595bbc3d0f#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/kultur/oesterreich-roland-weissmann-zum-neuen-orf-chef-gewaehlt](https://www.spiegel.de/kultur/oesterreich-roland-weissmann-zum-neuen-orf-chef-gewaehlt-a-8a777094-3403-4b4e-8ff5-9c1fc02bb16e#ref=rss)
+### roland
+
+* [https://www.spiegel.de/kultur/oesterreich-roland-weissmann-zum-neuen-orf-chef-gewaehlt](https://www.spiegel.de/kultur/oesterreich-roland-weissmann-zum-neuen-orf-chef-gewaehlt-a-8a777094-3403-4b4e-8ff5-9c1fc02bb16e#ref=rss)
+### weißmann
+
+* [https://www.spiegel.de/kultur/oesterreich-roland-weissmann-zum-neuen-orf-chef-gewaehlt](https://www.spiegel.de/kultur/oesterreich-roland-weissmann-zum-neuen-orf-chef-gewaehlt-a-8a777094-3403-4b4e-8ff5-9c1fc02bb16e#ref=rss)
+### gewählt
+
+* [https://www.spiegel.de/kultur/oesterreich-roland-weissmann-zum-neuen-orf-chef-gewaehlt](https://www.spiegel.de/kultur/oesterreich-roland-weissmann-zum-neuen-orf-chef-gewaehlt-a-8a777094-3403-4b4e-8ff5-9c1fc02bb16e#ref=rss)
+### klimakatastrophe
+
+* [https://www.spiegel.de/wissenschaft/mensch/klima-warum-wir-die-klimakatastrophe-nicht-wahrhaben-wollen](https://www.spiegel.de/wissenschaft/mensch/klima-warum-wir-die-klimakatastrophe-nicht-wahrhaben-wollen-a-c76afd32-9dfd-417e-b710-5959c84c241f#ref=rss)
+### einbruch
+
+* [https://www.spiegel.de/wirtschaft/coronavirus-passagierluftfahrt-in-deutschland-mit-historischem-einbruch](https://www.spiegel.de/wirtschaft/coronavirus-passagierluftfahrt-in-deutschland-mit-historischem-einbruch-a-fdacad1d-dc9d-4c6e-aca1-e62b8f88cfc5#ref=rss)
+### bundestrainer
+
+* [https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-hansi-flick-als-neuer-bundestrainer-vorgestellt](https://www.spiegel.de/sport/fussball/deutsche-nationalmannschaft-hansi-flick-als-neuer-bundestrainer-vorgestellt-a-3e6b62c9-3a19-4e17-944f-e8a8408566cc#ref=rss)
+### ahrweiler
+
+* [https://www.spiegel.de/deinspiegel/flutkatastrophe-in-ahrweiler-aus-kindersicht-ueberall-war-schlamm](https://www.spiegel.de/deinspiegel/flutkatastrophe-in-ahrweiler-aus-kindersicht-ueberall-war-schlamm-a-030e00a5-0002-0001-0000-000177426681#ref=rss)
+### rafael
+
+* [https://www.spiegel.de/sport/fussball/rafael-van-der-vaart-ex-hsv-star-wird-co-trainer-in-daenemark](https://www.spiegel.de/sport/fussball/rafael-van-der-vaart-ex-hsv-star-wird-co-trainer-in-daenemark-a-a6faa63a-459d-4223-a316-fa6a157a2fc2#ref=rss)
+### van
+
+* [https://www.spiegel.de/sport/fussball/rafael-van-der-vaart-ex-hsv-star-wird-co-trainer-in-daenemark](https://www.spiegel.de/sport/fussball/rafael-van-der-vaart-ex-hsv-star-wird-co-trainer-in-daenemark-a-a6faa63a-459d-4223-a316-fa6a157a2fc2#ref=rss)
+### vaart
+
+* [https://www.spiegel.de/sport/fussball/rafael-van-der-vaart-ex-hsv-star-wird-co-trainer-in-daenemark](https://www.spiegel.de/sport/fussball/rafael-van-der-vaart-ex-hsv-star-wird-co-trainer-in-daenemark-a-a6faa63a-459d-4223-a316-fa6a157a2fc2#ref=rss)
+### cotrainer
+
+* [https://www.spiegel.de/sport/fussball/rafael-van-der-vaart-ex-hsv-star-wird-co-trainer-in-daenemark](https://www.spiegel.de/sport/fussball/rafael-van-der-vaart-ex-hsv-star-wird-co-trainer-in-daenemark-a-a6faa63a-459d-4223-a316-fa6a157a2fc2#ref=rss)
+### dänemark
+
+* [https://www.spiegel.de/sport/fussball/rafael-van-der-vaart-ex-hsv-star-wird-co-trainer-in-daenemark](https://www.spiegel.de/sport/fussball/rafael-van-der-vaart-ex-hsv-star-wird-co-trainer-in-daenemark-a-a6faa63a-459d-4223-a316-fa6a157a2fc2#ref=rss)
 
