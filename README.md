@@ -107,13 +107,13 @@ beobachten(292) bundeskanzler(292) bundesland(292) ignoriert(292) unmöglich(292
 
 ```
 date, investment, buy price, sell price
-2021-08-04 10:09:46, 1-EUR, 1.18 USD, 1.18 USD
-2021-08-04 10:09:46, 1-EUR, 7.68 CNY, 7.68 CNY
-2021-08-04 10:09:47, crude-oil-brent-barrel, 72.39 USD, 72.39 USD
-2021-08-04 10:09:47, gold-10g, 515.04 EUR, 487.12 EUR
-2021-08-04 10:09:52, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-08-04 10:09:53, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-08-04 10:09:54, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
+2021-08-11 10:09:45, 1-EUR, 1.17 USD, 1.17 USD
+2021-08-11 10:09:45, 1-EUR, 7.59 CNY, 7.59 CNY
+2021-08-11 10:09:46, crude-oil-brent-barrel, 70.75 USD, 70.75 USD
+2021-08-11 10:09:46, gold-10g, 498.95 EUR, 471.19 EUR
+2021-08-11 10:09:50, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-08-11 10:09:52, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-08-11 10:09:53, lego-2019-60225-1-rovertestfahrt, 20.0 USD, 20.0 USD
 ```
 
 <footer>
