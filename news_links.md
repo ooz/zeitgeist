@@ -4,334 +4,348 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### taliban
-
-* [https://www.spiegel.de/ausland/afghanistan-regierung-plant-friedliche-machtuebergabe-an-taliban](https://www.spiegel.de/ausland/afghanistan-regierung-plant-friedliche-machtuebergabe-an-taliban-a-85a14ff3-b08d-450b-89e2-5bba2f74765d#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update](https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update-a-efe41d3b-373b-4648-936f-1e2cd5d06c9c#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt](https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt-a-14889992-396a-4822-949f-b1f4d2d8c573#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-usa-beginnen-mit-evakuierung-ihrer-botschaft-in-kabul](https://www.spiegel.de/ausland/afghanistan-usa-beginnen-mit-evakuierung-ihrer-botschaft-in-kabul-a-4d45bf95-bb0a-48ee-9f21-c6e7dd3e5c1c#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen](https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen-a-16969f9a-e1ea-4a4a-b7d7-f769178b0232#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt](https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt-a-29986ab0-70c6-4cf3-bbf0-44953981e79f#ref=rss)
-* [https://www.spiegel.de/ausland/biden-verteidigt-afghanistan-abzug-endlose-praesenz-nicht-akzeptabel](https://www.spiegel.de/ausland/biden-verteidigt-afghanistan-abzug-endlose-praesenz-nicht-akzeptabel-a-8ba87bdc-3d7b-44dd-84e6-c7199dedd99f#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kunduz-ein-kolumne](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kunduz-ein-kolumne-a-799a24d9-53ce-4617-ac23-28394b318c1f#ref=rss)
 ### afghanistan
 
-* [https://www.spiegel.de/ausland/afghanistan-regierung-plant-friedliche-machtuebergabe-an-taliban](https://www.spiegel.de/ausland/afghanistan-regierung-plant-friedliche-machtuebergabe-an-taliban-a-85a14ff3-b08d-450b-89e2-5bba2f74765d#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update](https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update-a-efe41d3b-373b-4648-936f-1e2cd5d06c9c#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt](https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt-a-14889992-396a-4822-949f-b1f4d2d8c573#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-usa-beginnen-mit-evakuierung-ihrer-botschaft-in-kabul](https://www.spiegel.de/ausland/afghanistan-usa-beginnen-mit-evakuierung-ihrer-botschaft-in-kabul-a-4d45bf95-bb0a-48ee-9f21-c6e7dd3e5c1c#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen](https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen-a-16969f9a-e1ea-4a4a-b7d7-f769178b0232#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt](https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt-a-29986ab0-70c6-4cf3-bbf0-44953981e79f#ref=rss)
-* [https://www.spiegel.de/ausland/biden-verteidigt-afghanistan-abzug-endlose-praesenz-nicht-akzeptabel](https://www.spiegel.de/ausland/biden-verteidigt-afghanistan-abzug-endlose-praesenz-nicht-akzeptabel-a-8ba87bdc-3d7b-44dd-84e6-c7199dedd99f#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kunduz-ein-kolumne](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kunduz-ein-kolumne-a-799a24d9-53ce-4617-ac23-28394b318c1f#ref=rss)
-### frankfurt
+* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht-a-11239caf-777d-4927-b512-06dbca70832a#ref=rss)
+* [https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus](https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus-a-7630fc93-1697-4d90-8ad5-74581635cb4d#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen](https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen-a-00010fa6-5f92-4a60-a249-365fe4fb9dc6#ref=rss)
+* [https://www.spiegel.de/ausland/machtuebernahme-der-taliban-holt-die-menschen-raus-aus-afghanistan](https://www.spiegel.de/ausland/machtuebernahme-der-taliban-holt-die-menschen-raus-aus-afghanistan-a-580435da-6487-40d8-892b-9534c34a43e0#ref=rss)
+* [https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan](https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan-a-fb1f0eba-08ab-491e-af92-810ddb1b73a4#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul](https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul-a-909c3277-bb3b-4c3b-b4de-0fdcc768fe59#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt](https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt-a-1ef6cef1-a24d-461e-b4f1-badafad4d36e#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-kontrollieren-afghanistan](https://www.spiegel.de/ausland/afghanistan-taliban-kontrollieren-afghanistan-a-149db155-0883-42eb-b86c-03e6ba36c153#ref=rss)
+### taliban
 
-* [https://www.spiegel.de/panorama/lufthansa-terror-alarm-in-maschine-nach-mexiko](https://www.spiegel.de/panorama/lufthansa-terror-alarm-in-maschine-nach-mexiko-a-eff8cf6e-d4a6-4776-a270-07335c4d2f98#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt-a-2fbe39cd-2b4a-40bc-95e6-15dc7de70313#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-mit-klarem-sieg-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-mit-klarem-sieg-gegen-eintracht-frankfurt-a-dd87b17d-5d6b-4c09-8e40-2239c7362a95#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht-a-11239caf-777d-4927-b512-06dbca70832a#ref=rss)
+* [https://www.spiegel.de/ausland/machtuebernahme-der-taliban-holt-die-menschen-raus-aus-afghanistan](https://www.spiegel.de/ausland/machtuebernahme-der-taliban-holt-die-menschen-raus-aus-afghanistan-a-580435da-6487-40d8-892b-9534c34a43e0#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-unterhaendler-werden-keine-rache-an-irgendjemandem-nehmen](https://www.spiegel.de/ausland/taliban-unterhaendler-werden-keine-rache-an-irgendjemandem-nehmen-a-ea6d6304-ccb4-426f-8e1e-fb0d903b1262#ref=rss)
+* [https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan](https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan-a-fb1f0eba-08ab-491e-af92-810ddb1b73a4#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul](https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul-a-909c3277-bb3b-4c3b-b4de-0fdcc768fe59#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt](https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt-a-1ef6cef1-a24d-461e-b4f1-badafad4d36e#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-kontrollieren-afghanistan](https://www.spiegel.de/ausland/afghanistan-taliban-kontrollieren-afghanistan-a-149db155-0883-42eb-b86c-03e6ba36c153#ref=rss)
 ### kabul
 
-* [https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update](https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update-a-efe41d3b-373b-4648-936f-1e2cd5d06c9c#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt](https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt-a-14889992-396a-4822-949f-b1f4d2d8c573#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-usa-beginnen-mit-evakuierung-ihrer-botschaft-in-kabul](https://www.spiegel.de/ausland/afghanistan-usa-beginnen-mit-evakuierung-ihrer-botschaft-in-kabul-a-4d45bf95-bb0a-48ee-9f21-c6e7dd3e5c1c#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht-a-11239caf-777d-4927-b512-06dbca70832a#ref=rss)
+* [https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus](https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus-a-7630fc93-1697-4d90-8ad5-74581635cb4d#ref=rss)
+* [https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen](https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen-a-879f113c-99fe-46be-9330-4487a591cf6e#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul](https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul-a-909c3277-bb3b-4c3b-b4de-0fdcc768fe59#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt](https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt-a-1ef6cef1-a24d-461e-b4f1-badafad4d36e#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-kontrollieren-afghanistan](https://www.spiegel.de/ausland/afghanistan-taliban-kontrollieren-afghanistan-a-149db155-0883-42eb-b86c-03e6ba36c153#ref=rss)
+### gerd
+
+* [https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende](https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende-a-a552296e-e4b3-456a-8f4c-3e3ec7d1657b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-gerd-mueller-der-groesste-aller-torjaeger](https://www.spiegel.de/sport/fussball/nachruf-auf-gerd-mueller-der-groesste-aller-torjaeger-a-8feaa500-2d9c-4f2d-a18a-5d3ee62d2a3a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern-a-116e3439-1045-4ad0-be24-a4e375170261#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot](https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot-a-747676d2-4b72-4cba-8c9c-bfea412c87ed#ref=rss)
+### müller
+
+* [https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende](https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende-a-a552296e-e4b3-456a-8f4c-3e3ec7d1657b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-gerd-mueller-der-groesste-aller-torjaeger](https://www.spiegel.de/sport/fussball/nachruf-auf-gerd-mueller-der-groesste-aller-torjaeger-a-8feaa500-2d9c-4f2d-a18a-5d3ee62d2a3a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern-a-116e3439-1045-4ad0-be24-a4e375170261#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot](https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot-a-747676d2-4b72-4cba-8c9c-bfea412c87ed#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht-a-11239caf-777d-4927-b512-06dbca70832a#ref=rss)
+* [https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus](https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus-a-7630fc93-1697-4d90-8ad5-74581635cb4d#ref=rss)
+* [https://www.spiegel.de/panorama/unwetterwarnung-im-suedwesten-rueckt-eine-superzelle-an](https://www.spiegel.de/panorama/unwetterwarnung-im-suedwesten-rueckt-eine-superzelle-an-a-c86a5376-09e1-4ad9-bfb8-7a322311924e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-gerd-mueller-der-groesste-aller-torjaeger](https://www.spiegel.de/sport/fussball/nachruf-auf-gerd-mueller-der-groesste-aller-torjaeger-a-8feaa500-2d9c-4f2d-a18a-5d3ee62d2a3a#ref=rss)
+* [https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan](https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan-a-fb1f0eba-08ab-491e-af92-810ddb1b73a4#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt](https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt-a-1ef6cef1-a24d-461e-b4f1-badafad4d36e#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus](https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus-a-7630fc93-1697-4d90-8ad5-74581635cb4d#ref=rss)
+* [https://www.spiegel.de/ausland/machtuebernahme-der-taliban-holt-die-menschen-raus-aus-afghanistan](https://www.spiegel.de/ausland/machtuebernahme-der-taliban-holt-die-menschen-raus-aus-afghanistan-a-580435da-6487-40d8-892b-9534c34a43e0#ref=rss)
+* [https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan](https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan-a-fb1f0eba-08ab-491e-af92-810ddb1b73a4#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt](https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt-a-1ef6cef1-a24d-461e-b4f1-badafad4d36e#ref=rss)
+### größte
+
+* [https://www.spiegel.de/ausland/hongkongs-groesste-demokratiebewegung-loest-sich-auf](https://www.spiegel.de/ausland/hongkongs-groesste-demokratiebewegung-loest-sich-auf-a-c1c21337-dd97-4ffb-a6f9-7bf10f4d2224#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-tiere-der-grossstadt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-tiere-der-grossstadt-im-schnellcheck-a-a26712ac-f94e-4a4d-8a10-80e8a06b2479#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-gerd-mueller-der-groesste-aller-torjaeger](https://www.spiegel.de/sport/fussball/nachruf-auf-gerd-mueller-der-groesste-aller-torjaeger-a-8feaa500-2d9c-4f2d-a18a-5d3ee62d2a3a#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht-a-11239caf-777d-4927-b512-06dbca70832a#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen](https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen-a-00010fa6-5f92-4a60-a249-365fe4fb9dc6#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/sport/fussball/fc-everton-video-zeigt-anne-frank-als-corona-opfer](https://www.spiegel.de/sport/fussball/fc-everton-video-zeigt-anne-frank-als-corona-opfer-a-1fbd94cd-c397-4ba1-80f2-9749606d1940#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-gewinnt-bei-rueckkehr-von-virgil-van-dijk-bei-norwich-city](https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-gewinnt-bei-rueckkehr-von-virgil-van-dijk-bei-norwich-city-a-e57c63de-357d-48bd-a5f8-17505cc21d8d#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt](https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt-a-14889992-396a-4822-949f-b1f4d2d8c573#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart](https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart-a-3275f1ee-50a4-4b93-9e7c-1ca38acb8673#ref=rss)
-* [https://www.spiegel.de/ausland/biden-verteidigt-afghanistan-abzug-endlose-praesenz-nicht-akzeptabel](https://www.spiegel.de/ausland/biden-verteidigt-afghanistan-abzug-endlose-praesenz-nicht-akzeptabel-a-8ba87bdc-3d7b-44dd-84e6-c7199dedd99f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc](https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc-a-2640d478-34fd-4894-aaab-8755a0c4da79#ref=rss)
+* [https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern-a-116e3439-1045-4ad0-be24-a4e375170261#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot](https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot-a-747676d2-4b72-4cba-8c9c-bfea412c87ed#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart](https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart-a-3275f1ee-50a4-4b93-9e7c-1ca38acb8673#ref=rss)
-* [https://www.spiegel.de/start/astronaut-werden-wie-das-bewerbungsverfahren-bei-der-esa-laeuft](https://www.spiegel.de/start/astronaut-werden-wie-das-bewerbungsverfahren-bei-der-esa-laeuft-a-371f2c5b-e8d2-4c35-a9c9-2b9405ba564e#ref=rss)
-* [https://www.spiegel.de/panorama/elfenbeinkueste-meldet-ersten-ebola-fall-seit-25-jahren](https://www.spiegel.de/panorama/elfenbeinkueste-meldet-ersten-ebola-fall-seit-25-jahren-a-005ae46e-308b-49b0-b6ee-cb1545febf2d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella](https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella-a-e133f5d5-d131-40f0-8bb6-ecaab266131a#ref=rss)
-### ich
+* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht-a-11239caf-777d-4927-b512-06dbca70832a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende](https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende-a-a552296e-e4b3-456a-8f4c-3e3ec7d1657b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot](https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot-a-747676d2-4b72-4cba-8c9c-bfea412c87ed#ref=rss)
+### machtübernahme
 
-* [https://www.spiegel.de/start/astronaut-werden-wie-das-bewerbungsverfahren-bei-der-esa-laeuft](https://www.spiegel.de/start/astronaut-werden-wie-das-bewerbungsverfahren-bei-der-esa-laeuft-a-371f2c5b-e8d2-4c35-a9c9-2b9405ba564e#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kunduz-ein-kolumne](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kunduz-ein-kolumne-a-799a24d9-53ce-4617-ac23-28394b318c1f#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht-a-11239caf-777d-4927-b512-06dbca70832a#ref=rss)
+* [https://www.spiegel.de/ausland/machtuebernahme-der-taliban-holt-die-menschen-raus-aus-afghanistan](https://www.spiegel.de/ausland/machtuebernahme-der-taliban-holt-die-menschen-raus-aus-afghanistan-a-580435da-6487-40d8-892b-9534c34a43e0#ref=rss)
+* [https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan](https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan-a-fb1f0eba-08ab-491e-af92-810ddb1b73a4#ref=rss)
+### leben
 
-* [https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen](https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen-a-16969f9a-e1ea-4a4a-b7d7-f769178b0232#ref=rss)
-* [https://www.spiegel.de/ausland/biden-verteidigt-afghanistan-abzug-endlose-praesenz-nicht-akzeptabel](https://www.spiegel.de/ausland/biden-verteidigt-afghanistan-abzug-endlose-praesenz-nicht-akzeptabel-a-8ba87bdc-3d7b-44dd-84e6-c7199dedd99f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella](https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella-a-e133f5d5-d131-40f0-8bb6-ecaab266131a#ref=rss)
-### eintracht
+* [https://www.spiegel.de/panorama/gesellschaft/wohnwagen-statt-wohnung-leben-auf-15-quadratmetern-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/wohnwagen-statt-wohnung-leben-auf-15-quadratmetern-spiegel-tv-reportage-a-d369bed9-3ce6-490f-bdeb-410d674c140e#ref=rss)
+* [https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen](https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen-a-879f113c-99fe-46be-9330-4487a591cf6e#ref=rss)
+### viele
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt-a-2fbe39cd-2b4a-40bc-95e6-15dc7de70313#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-mit-klarem-sieg-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-mit-klarem-sieg-gegen-eintracht-frankfurt-a-dd87b17d-5d6b-4c09-8e40-2239c7362a95#ref=rss)
-### 100
-
-* [https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord](https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord-a-f24a2587-0c9c-47bf-8c95-96737c86c957#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella](https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella-a-e133f5d5-d131-40f0-8bb6-ecaab266131a#ref=rss)
-### deutscher
-
-* [https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord](https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord-a-f24a2587-0c9c-47bf-8c95-96737c86c957#ref=rss)
-* [https://www.spiegel.de/kultur/kino/filmfestival-von-locarno-auch-impotenz-kann-politisch-sein](https://www.spiegel.de/kultur/kino/filmfestival-von-locarno-auch-impotenz-kann-politisch-sein-a-a0577e17-c9b5-4a4b-997e-648bedd1f781#ref=rss)
-### reus
-
-* [https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord](https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord-a-f24a2587-0c9c-47bf-8c95-96737c86c957#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt-a-2fbe39cd-2b4a-40bc-95e6-15dc7de70313#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/afghanistan-regierung-plant-friedliche-machtuebergabe-an-taliban](https://www.spiegel.de/ausland/afghanistan-regierung-plant-friedliche-machtuebergabe-an-taliban-a-85a14ff3-b08d-450b-89e2-5bba2f74765d#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt](https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt-a-14889992-396a-4822-949f-b1f4d2d8c573#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen](https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen-a-16969f9a-e1ea-4a4a-b7d7-f769178b0232#ref=rss)
-### hauptstadt
-
-* [https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update](https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update-a-efe41d3b-373b-4648-936f-1e2cd5d06c9c#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt](https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt-a-14889992-396a-4822-949f-b1f4d2d8c573#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-usa-beginnen-mit-evakuierung-ihrer-botschaft-in-kabul](https://www.spiegel.de/ausland/afghanistan-usa-beginnen-mit-evakuierung-ihrer-botschaft-in-kabul-a-4d45bf95-bb0a-48ee-9f21-c6e7dd3e5c1c#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update](https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update-a-efe41d3b-373b-4648-936f-1e2cd5d06c9c#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt](https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt-a-29986ab0-70c6-4cf3-bbf0-44953981e79f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella](https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella-a-e133f5d5-d131-40f0-8bb6-ecaab266131a#ref=rss)
-### elf
-
-* [https://www.spiegel.de/politik/deutschland/gartz-in-brandenburg-wie-luca-piwodda-gegen-seinen-spd-grossvater-in-den-wahlkampf-zog](https://www.spiegel.de/politik/deutschland/gartz-in-brandenburg-wie-luca-piwodda-gegen-seinen-spd-grossvater-in-den-wahlkampf-zog-a-4865be33-5713-4327-ab60-1d558d70f497#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart](https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart-a-3275f1ee-50a4-4b93-9e7c-1ca38acb8673#ref=rss)
-* [https://www.spiegel.de/start/astronaut-werden-wie-das-bewerbungsverfahren-bei-der-esa-laeuft](https://www.spiegel.de/start/astronaut-werden-wie-das-bewerbungsverfahren-bei-der-esa-laeuft-a-371f2c5b-e8d2-4c35-a9c9-2b9405ba564e#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/netzwelt/gadgets/nokia-communicator-der-klobige-auftakt-der-smartphone-aera](https://www.spiegel.de/netzwelt/gadgets/nokia-communicator-der-klobige-auftakt-der-smartphone-aera-a-5a1522da-2601-4894-87d5-d07ba3b02fb2#ref=rss)
-* [https://www.spiegel.de/start/astronaut-werden-wie-das-bewerbungsverfahren-bei-der-esa-laeuft](https://www.spiegel.de/start/astronaut-werden-wie-das-bewerbungsverfahren-bei-der-esa-laeuft-a-371f2c5b-e8d2-4c35-a9c9-2b9405ba564e#ref=rss)
-* [https://www.spiegel.de/panorama/elfenbeinkueste-meldet-ersten-ebola-fall-seit-25-jahren](https://www.spiegel.de/panorama/elfenbeinkueste-meldet-ersten-ebola-fall-seit-25-jahren-a-005ae46e-308b-49b0-b6ee-cb1545febf2d#ref=rss)
-### borussia
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt-a-2fbe39cd-2b4a-40bc-95e6-15dc7de70313#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-mit-klarem-sieg-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-mit-klarem-sieg-gegen-eintracht-frankfurt-a-dd87b17d-5d6b-4c09-8e40-2239c7362a95#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt-a-2fbe39cd-2b4a-40bc-95e6-15dc7de70313#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-mit-klarem-sieg-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-mit-klarem-sieg-gegen-eintracht-frankfurt-a-dd87b17d-5d6b-4c09-8e40-2239c7362a95#ref=rss)
-### erling
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt-a-2fbe39cd-2b4a-40bc-95e6-15dc7de70313#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-mit-klarem-sieg-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-mit-klarem-sieg-gegen-eintracht-frankfurt-a-dd87b17d-5d6b-4c09-8e40-2239c7362a95#ref=rss)
-### haaland
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt-a-2fbe39cd-2b4a-40bc-95e6-15dc7de70313#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-mit-klarem-sieg-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-mit-klarem-sieg-gegen-eintracht-frankfurt-a-dd87b17d-5d6b-4c09-8e40-2239c7362a95#ref=rss)
-### lucas
-
-* [https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord](https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord-a-f24a2587-0c9c-47bf-8c95-96737c86c957#ref=rss)
-### ansahpeprah
-
-* [https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord](https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord-a-f24a2587-0c9c-47bf-8c95-96737c86c957#ref=rss)
-### meter
-
-* [https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord](https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord-a-f24a2587-0c9c-47bf-8c95-96737c86c957#ref=rss)
-### rekord
-
-* [https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord](https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord-a-f24a2587-0c9c-47bf-8c95-96737c86c957#ref=rss)
-### sekunden
-
-* [https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord](https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord-a-f24a2587-0c9c-47bf-8c95-96737c86c957#ref=rss)
-* [https://www.spiegel.de/sport/vuelta-a-espana-2021-primoz-roglic-setzt-gleich-zu-beginn-ein-zeichen](https://www.spiegel.de/sport/vuelta-a-espana-2021-primoz-roglic-setzt-gleich-zu-beginn-ein-zeichen-a-5bb732f7-e9f1-4566-82ce-11155a9c0983#ref=rss)
-### schneller
-
-* [https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord](https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord-a-f24a2587-0c9c-47bf-8c95-96737c86c957#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt](https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt-a-29986ab0-70c6-4cf3-bbf0-44953981e79f#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord](https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord-a-f24a2587-0c9c-47bf-8c95-96737c86c957#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/nokia-communicator-der-klobige-auftakt-der-smartphone-aera](https://www.spiegel.de/netzwelt/gadgets/nokia-communicator-der-klobige-auftakt-der-smartphone-aera-a-5a1522da-2601-4894-87d5-d07ba3b02fb2#ref=rss)
-### julian
-
-* [https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord](https://www.spiegel.de/sport/leichtathletik-lucas-ansah-peprah-ueber-100-meter-schnellster-deutscher-aber-ohne-rekord-a-f24a2587-0c9c-47bf-8c95-96737c86c957#ref=rss)
-* [https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg](https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg-a-a6a82fd5-02b9-400e-86a5-0192051a61b8#ref=rss)
-### plant
-
-* [https://www.spiegel.de/ausland/afghanistan-regierung-plant-friedliche-machtuebergabe-an-taliban](https://www.spiegel.de/ausland/afghanistan-regierung-plant-friedliche-machtuebergabe-an-taliban-a-85a14ff3-b08d-450b-89e2-5bba2f74765d#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen](https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen-a-16969f9a-e1ea-4a4a-b7d7-f769178b0232#ref=rss)
-### kontrolle
-
-* [https://www.spiegel.de/ausland/afghanistan-regierung-plant-friedliche-machtuebergabe-an-taliban](https://www.spiegel.de/ausland/afghanistan-regierung-plant-friedliche-machtuebergabe-an-taliban-a-85a14ff3-b08d-450b-89e2-5bba2f74765d#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt](https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt-a-14889992-396a-4822-949f-b1f4d2d8c573#ref=rss)
-### übernommen
-
-* [https://www.spiegel.de/ausland/afghanistan-regierung-plant-friedliche-machtuebergabe-an-taliban](https://www.spiegel.de/ausland/afghanistan-regierung-plant-friedliche-machtuebergabe-an-taliban-a-85a14ff3-b08d-450b-89e2-5bba2f74765d#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update](https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update-a-efe41d3b-373b-4648-936f-1e2cd5d06c9c#ref=rss)
-### alle
-
-* [https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update](https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update-a-efe41d3b-373b-4648-936f-1e2cd5d06c9c#ref=rss)
-* [https://www.spiegel.de/stil/diversitaet-in-kochbuechern-alle-so-weiss-hier](https://www.spiegel.de/stil/diversitaet-in-kochbuechern-alle-so-weiss-hier-a-a3976854-91b3-437d-a7cb-63b884161104#ref=rss)
-### weiß
-
-* [https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update](https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update-a-efe41d3b-373b-4648-936f-1e2cd5d06c9c#ref=rss)
-* [https://www.spiegel.de/stil/diversitaet-in-kochbuechern-alle-so-weiss-hier](https://www.spiegel.de/stil/diversitaet-in-kochbuechern-alle-so-weiss-hier-a-a3976854-91b3-437d-a7cb-63b884161104#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update](https://www.spiegel.de/ausland/afghanistan-kaum-widerstand-gegen-taliban-in-kabul-news-update-a-efe41d3b-373b-4648-936f-1e2cd5d06c9c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-sieben-tage-inzidenz-steigt-auf-35](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-sieben-tage-inzidenz-steigt-auf-35-a-259a814d-086d-4134-bd78-da2399cebb68#ref=rss)
-### tierheime
-
-* [https://www.spiegel.de/panorama/gesellschaft/tierheime-waehrend-corona-wir-sind-hier-ueberflutet-worden-mit-haehnen](https://www.spiegel.de/panorama/gesellschaft/tierheime-waehrend-corona-wir-sind-hier-ueberflutet-worden-mit-haehnen-a-e1c602bb-a04d-48c0-ab21-d72a64d7dd15#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-freiwilligendienst-jeder-vierte-heimatschuetzer-steigt-schnell-wieder-aus](https://www.spiegel.de/politik/deutschland/bundeswehr-freiwilligendienst-jeder-vierte-heimatschuetzer-steigt-schnell-wieder-aus-a-e46520b8-9211-4201-ab86-ae1c72daba0a#ref=rss)
+* [https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus](https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus-a-7630fc93-1697-4d90-8ad5-74581635cb4d#ref=rss)
+* [https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen](https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen-a-879f113c-99fe-46be-9330-4487a591cf6e#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/gesellschaft/tierheime-waehrend-corona-wir-sind-hier-ueberflutet-worden-mit-haehnen](https://www.spiegel.de/panorama/gesellschaft/tierheime-waehrend-corona-wir-sind-hier-ueberflutet-worden-mit-haehnen-a-e1c602bb-a04d-48c0-ab21-d72a64d7dd15#ref=rss)
-* [https://www.spiegel.de/stil/diversitaet-in-kochbuechern-alle-so-weiss-hier](https://www.spiegel.de/stil/diversitaet-in-kochbuechern-alle-so-weiss-hier-a-a3976854-91b3-437d-a7cb-63b884161104#ref=rss)
-### tiere
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-tiere-der-grossstadt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-tiere-der-grossstadt-im-schnellcheck-a-a26712ac-f94e-4a4d-8a10-80e8a06b2479#ref=rss)
+* [https://www.spiegel.de/ausland/machtuebernahme-der-taliban-holt-die-menschen-raus-aus-afghanistan](https://www.spiegel.de/ausland/machtuebernahme-der-taliban-holt-die-menschen-raus-aus-afghanistan-a-580435da-6487-40d8-892b-9534c34a43e0#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/panorama/gesellschaft/tierheime-waehrend-corona-wir-sind-hier-ueberflutet-worden-mit-haehnen](https://www.spiegel.de/panorama/gesellschaft/tierheime-waehrend-corona-wir-sind-hier-ueberflutet-worden-mit-haehnen-a-e1c602bb-a04d-48c0-ab21-d72a64d7dd15#ref=rss)
-* [https://www.spiegel.de/ausland/kuenstliche-intelligenz-wie-tech-werkzeuge-im-kampf-gegen-den-klimakrise-helfen](https://www.spiegel.de/ausland/kuenstliche-intelligenz-wie-tech-werkzeuge-im-kampf-gegen-den-klimakrise-helfen-a-f7ed1f82-790a-4d4f-be34-22196d99730e#ref=rss)
-### everton
+* [https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende](https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende-a-a552296e-e4b3-456a-8f4c-3e3ec7d1657b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-gerd-mueller-der-groesste-aller-torjaeger](https://www.spiegel.de/sport/fussball/nachruf-auf-gerd-mueller-der-groesste-aller-torjaeger-a-8feaa500-2d9c-4f2d-a18a-5d3ee62d2a3a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot](https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot-a-747676d2-4b72-4cba-8c9c-bfea412c87ed#ref=rss)
+### land
 
-* [https://www.spiegel.de/sport/fussball/fc-everton-video-zeigt-anne-frank-als-corona-opfer](https://www.spiegel.de/sport/fussball/fc-everton-video-zeigt-anne-frank-als-corona-opfer-a-1fbd94cd-c397-4ba1-80f2-9749606d1940#ref=rss)
-### anne
+* [https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen](https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen-a-00010fa6-5f92-4a60-a249-365fe4fb9dc6#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-haiti-die-krankenhaeuser-sind-nicht-auf-die-katastrophe-vorbereitet](https://www.spiegel.de/ausland/erdbeben-in-haiti-die-krankenhaeuser-sind-nicht-auf-die-katastrophe-vorbereitet-a-0f0bc64a-fb0d-4bad-8fe5-a8dfef7130db#ref=rss)
+### provinz
 
-* [https://www.spiegel.de/sport/fussball/fc-everton-video-zeigt-anne-frank-als-corona-opfer](https://www.spiegel.de/sport/fussball/fc-everton-video-zeigt-anne-frank-als-corona-opfer-a-1fbd94cd-c397-4ba1-80f2-9749606d1940#ref=rss)
-### frank
+* [https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul](https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul-a-909c3277-bb3b-4c3b-b4de-0fdcc768fe59#ref=rss)
+### nehmen
 
-* [https://www.spiegel.de/sport/fussball/fc-everton-video-zeigt-anne-frank-als-corona-opfer](https://www.spiegel.de/sport/fussball/fc-everton-video-zeigt-anne-frank-als-corona-opfer-a-1fbd94cd-c397-4ba1-80f2-9749606d1940#ref=rss)
-### erst
+* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht-a-11239caf-777d-4927-b512-06dbca70832a#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-unterhaendler-werden-keine-rache-an-irgendjemandem-nehmen](https://www.spiegel.de/ausland/taliban-unterhaendler-werden-keine-rache-an-irgendjemandem-nehmen-a-ea6d6304-ccb4-426f-8e1e-fb0d903b1262#ref=rss)
+### flucht
 
-* [https://www.spiegel.de/sport/fussball/fc-everton-video-zeigt-anne-frank-als-corona-opfer](https://www.spiegel.de/sport/fussball/fc-everton-video-zeigt-anne-frank-als-corona-opfer-a-1fbd94cd-c397-4ba1-80f2-9749606d1940#ref=rss)
-* [https://www.spiegel.de/auto/fahrkultur/fiat-turbina-dem-ging-die-duese](https://www.spiegel.de/auto/fahrkultur/fiat-turbina-dem-ging-die-duese-a-311a9739-8f19-4533-b3b0-01290fd22d95#ref=rss)
-### stunden
+* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht-a-11239caf-777d-4927-b512-06dbca70832a#ref=rss)
+* [https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen](https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen-a-879f113c-99fe-46be-9330-4487a591cf6e#ref=rss)
+### bevölkerung
 
-* [https://www.spiegel.de/sport/fussball/fc-everton-video-zeigt-anne-frank-als-corona-opfer](https://www.spiegel.de/sport/fussball/fc-everton-video-zeigt-anne-frank-als-corona-opfer-a-1fbd94cd-c397-4ba1-80f2-9749606d1940#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt](https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt-a-29986ab0-70c6-4cf3-bbf0-44953981e79f#ref=rss)
-### unter
+* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht-a-11239caf-777d-4927-b512-06dbca70832a#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-kontrollieren-afghanistan](https://www.spiegel.de/ausland/afghanistan-taliban-kontrollieren-afghanistan-a-149db155-0883-42eb-b86c-03e6ba36c153#ref=rss)
+### kämpfe
 
-* [https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt](https://www.spiegel.de/ausland/afghanistan-taliban-starten-angriff-auf-afghanische-hauptstadt-a-14889992-396a-4822-949f-b1f4d2d8c573#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen](https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen-a-16969f9a-e1ea-4a4a-b7d7-f769178b0232#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kabul-ein-praesident-flieht-a-11239caf-777d-4927-b512-06dbca70832a#ref=rss)
+* [https://www.spiegel.de/sport/boxen-muhammad-ali-enkel-nico-ali-walsh-gewinnt-profi-debuet](https://www.spiegel.de/sport/boxen-muhammad-ali-enkel-nico-ali-walsh-gewinnt-profi-debuet-a-46f3d6e6-d149-4a6e-bc24-b60ce0f2b28f#ref=rss)
+### wohnwagen
+
+* [https://www.spiegel.de/panorama/gesellschaft/wohnwagen-statt-wohnung-leben-auf-15-quadratmetern-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/wohnwagen-statt-wohnung-leben-auf-15-quadratmetern-spiegel-tv-reportage-a-d369bed9-3ce6-490f-bdeb-410d674c140e#ref=rss)
+### wohnung
+
+* [https://www.spiegel.de/panorama/gesellschaft/wohnwagen-statt-wohnung-leben-auf-15-quadratmetern-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/wohnwagen-statt-wohnung-leben-auf-15-quadratmetern-spiegel-tv-reportage-a-d369bed9-3ce6-490f-bdeb-410d674c140e#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-freiwilligendienst-jeder-vierte-heimatschuetzer-steigt-schnell-wieder-aus](https://www.spiegel.de/politik/deutschland/bundeswehr-freiwilligendienst-jeder-vierte-heimatschuetzer-steigt-schnell-wieder-aus-a-e46520b8-9211-4201-ab86-ae1c72daba0a#ref=rss)
+* [https://www.spiegel.de/sport/formel-e-mercedes-gewinnt-elektro-rennserie-und-koennte-aussteigen](https://www.spiegel.de/sport/formel-e-mercedes-gewinnt-elektro-rennserie-und-koennte-aussteigen-a-aed63b9a-c288-40f1-989a-d766ca0729af#ref=rss)
+### schnell
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-freiwilligendienst-jeder-vierte-heimatschuetzer-steigt-schnell-wieder-aus](https://www.spiegel.de/politik/deutschland/bundeswehr-freiwilligendienst-jeder-vierte-heimatschuetzer-steigt-schnell-wieder-aus-a-e46520b8-9211-4201-ab86-ae1c72daba0a#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-freiwilligendienst-jeder-vierte-heimatschuetzer-steigt-schnell-wieder-aus](https://www.spiegel.de/politik/deutschland/bundeswehr-freiwilligendienst-jeder-vierte-heimatschuetzer-steigt-schnell-wieder-aus-a-e46520b8-9211-4201-ab86-ae1c72daba0a#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt](https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt-a-1ef6cef1-a24d-461e-b4f1-badafad4d36e#ref=rss)
+### programm
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-freiwilligendienst-jeder-vierte-heimatschuetzer-steigt-schnell-wieder-aus](https://www.spiegel.de/politik/deutschland/bundeswehr-freiwilligendienst-jeder-vierte-heimatschuetzer-steigt-schnell-wieder-aus-a-e46520b8-9211-4201-ab86-ae1c72daba0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/luxemburg-verweigert-russischem-propagandasender-rt-die-lizenz](https://www.spiegel.de/wirtschaft/luxemburg-verweigert-russischem-propagandasender-rt-die-lizenz-a-df54e848-e9f7-45c5-a7fa-25c79614a178#ref=rss)
+### hertha
+
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc](https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc-a-2640d478-34fd-4894-aaab-8755a0c4da79#ref=rss)
+### bsc
+
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc](https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc-a-2640d478-34fd-4894-aaab-8755a0c4da79#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc](https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc-a-2640d478-34fd-4894-aaab-8755a0c4da79#ref=rss)
+* [https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen](https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen-a-879f113c-99fe-46be-9330-4487a591cf6e#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc](https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc-a-2640d478-34fd-4894-aaab-8755a0c4da79#ref=rss)
+* [https://www.spiegel.de/sport/boxen-muhammad-ali-enkel-nico-ali-walsh-gewinnt-profi-debuet](https://www.spiegel.de/sport/boxen-muhammad-ali-enkel-nico-ali-walsh-gewinnt-profi-debuet-a-46f3d6e6-d149-4a6e-bc24-b60ce0f2b28f#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/karriere/ganz-schoen-schraeg-raetsel-der-woche](https://www.spiegel.de/karriere/ganz-schoen-schraeg-raetsel-der-woche-a-0ff0ce60-ab2e-46b6-86ca-07a747205c06#ref=rss)
-* [https://www.spiegel.de/stil/diversitaet-in-kochbuechern-alle-so-weiss-hier](https://www.spiegel.de/stil/diversitaet-in-kochbuechern-alle-so-weiss-hier-a-a3976854-91b3-437d-a7cb-63b884161104#ref=rss)
-### teilstücke
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc](https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc-a-2640d478-34fd-4894-aaab-8755a0c4da79#ref=rss)
+* [https://www.spiegel.de/ausland/hongkongs-groesste-demokratiebewegung-loest-sich-auf](https://www.spiegel.de/ausland/hongkongs-groesste-demokratiebewegung-loest-sich-auf-a-c1c21337-dd97-4ffb-a6f9-7bf10f4d2224#ref=rss)
+### toren
 
-* [https://www.spiegel.de/karriere/ganz-schoen-schraeg-raetsel-der-woche](https://www.spiegel.de/karriere/ganz-schoen-schraeg-raetsel-der-woche-a-0ff0ce60-ab2e-46b6-86ca-07a747205c06#ref=rss)
-### brandenburg
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc](https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc-a-2640d478-34fd-4894-aaab-8755a0c4da79#ref=rss)
+* [https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern-a-116e3439-1045-4ad0-be24-a4e375170261#ref=rss)
+### sieg
 
-* [https://www.spiegel.de/politik/deutschland/gartz-in-brandenburg-wie-luca-piwodda-gegen-seinen-spd-grossvater-in-den-wahlkampf-zog](https://www.spiegel.de/politik/deutschland/gartz-in-brandenburg-wie-luca-piwodda-gegen-seinen-spd-grossvater-in-den-wahlkampf-zog-a-4865be33-5713-4327-ab60-1d558d70f497#ref=rss)
-### waren
+* [https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc](https://www.spiegel.de/sport/fussball/1-fc-koeln-dreht-bei-baumgart-debuet-die-partie-gegen-hertha-bsc-a-2640d478-34fd-4894-aaab-8755a0c4da79#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremer-verliert-gegen-den-sc-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremer-verliert-gegen-den-sc-paderborn-a-1fce30aa-d1ce-4d05-a83b-2d4b21a8c493#ref=rss)
+### ortskräfte
 
-* [https://www.spiegel.de/netzwelt/gadgets/nokia-communicator-der-klobige-auftakt-der-smartphone-aera](https://www.spiegel.de/netzwelt/gadgets/nokia-communicator-der-klobige-auftakt-der-smartphone-aera-a-5a1522da-2601-4894-87d5-d07ba3b02fb2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella](https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella-a-e133f5d5-d131-40f0-8bb6-ecaab266131a#ref=rss)
-### libanon
+* [https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus](https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus-a-7630fc93-1697-4d90-8ad5-74581635cb4d#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/panorama/libanon-mindestens-20-tote-bei-explosion-eines-treibstoffdepots](https://www.spiegel.de/panorama/libanon-mindestens-20-tote-bei-explosion-eines-treibstoffdepots-a-61ecf1b7-a295-4b6a-9d56-0f934c64cb80#ref=rss)
-### mindestens
+* [https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus](https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus-a-7630fc93-1697-4d90-8ad5-74581635cb4d#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt](https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt-a-1ef6cef1-a24d-461e-b4f1-badafad4d36e#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/panorama/libanon-mindestens-20-tote-bei-explosion-eines-treibstoffdepots](https://www.spiegel.de/panorama/libanon-mindestens-20-tote-bei-explosion-eines-treibstoffdepots-a-61ecf1b7-a295-4b6a-9d56-0f934c64cb80#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart](https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart-a-3275f1ee-50a4-4b93-9e7c-1ca38acb8673#ref=rss)
-### tote
+* [https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus](https://www.spiegel.de/politik/afghanistan-bundeswehr-fliegt-ab-montag-deutsche-und-ortskraefte-aus-a-7630fc93-1697-4d90-8ad5-74581635cb4d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-gerd-mueller-der-groesste-aller-torjaeger](https://www.spiegel.de/sport/fussball/nachruf-auf-gerd-mueller-der-groesste-aller-torjaeger-a-8feaa500-2d9c-4f2d-a18a-5d3ee62d2a3a#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/libanon-mindestens-20-tote-bei-explosion-eines-treibstoffdepots](https://www.spiegel.de/panorama/libanon-mindestens-20-tote-bei-explosion-eines-treibstoffdepots-a-61ecf1b7-a295-4b6a-9d56-0f934c64cb80#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart](https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart-a-3275f1ee-50a4-4b93-9e7c-1ca38acb8673#ref=rss)
-### explosion
+* [https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen](https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen-a-879f113c-99fe-46be-9330-4487a591cf6e#ref=rss)
+* [https://www.spiegel.de/deinspiegel/wahl-abc-fuer-kinder-n-wie-nichtwaehlende](https://www.spiegel.de/deinspiegel/wahl-abc-fuer-kinder-n-wie-nichtwaehlende-a-6d120172-0002-0001-0000-000177426690#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/panorama/libanon-mindestens-20-tote-bei-explosion-eines-treibstoffdepots](https://www.spiegel.de/panorama/libanon-mindestens-20-tote-bei-explosion-eines-treibstoffdepots-a-61ecf1b7-a295-4b6a-9d56-0f934c64cb80#ref=rss)
+* [https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen](https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen-a-879f113c-99fe-46be-9330-4487a591cf6e#ref=rss)
+* [https://www.spiegel.de/deinspiegel/wahl-abc-fuer-kinder-n-wie-nichtwaehlende](https://www.spiegel.de/deinspiegel/wahl-abc-fuer-kinder-n-wie-nichtwaehlende-a-6d120172-0002-0001-0000-000177426690#ref=rss)
+### sicheren
+
+* [https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen](https://www.spiegel.de/ausland/protokolle-aus-kabul-nun-werden-wir-wieder-diesen-teufeln-ueberlassen-a-879f113c-99fe-46be-9330-4487a591cf6e#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt](https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt-a-1ef6cef1-a24d-461e-b4f1-badafad4d36e#ref=rss)
+### bundestagswahl
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-und-die-angst-vorm-elfmeter](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-und-die-angst-vorm-elfmeter-a-0c0d64ab-46ee-4822-a803-8ed71845f6c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-und-armin-laschet-fuer-volker-wissing-laeuft-bei-cdu-und-csu-einiges-schief](https://www.spiegel.de/politik/deutschland/fdp-und-armin-laschet-fuer-volker-wissing-laeuft-bei-cdu-und-csu-einiges-schief-a-b79bf9a6-8302-4d61-af3a-22d5934a1a81#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-und-die-angst-vorm-elfmeter](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-und-die-angst-vorm-elfmeter-a-0c0d64ab-46ee-4822-a803-8ed71845f6c8#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-und-die-angst-vorm-elfmeter](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-und-die-angst-vorm-elfmeter-a-0c0d64ab-46ee-4822-a803-8ed71845f6c8#ref=rss)
+### gewinnt
+
+* [https://www.spiegel.de/sport/formel-e-mercedes-gewinnt-elektro-rennserie-und-koennte-aussteigen](https://www.spiegel.de/sport/formel-e-mercedes-gewinnt-elektro-rennserie-und-koennte-aussteigen-a-aed63b9a-c288-40f1-989a-d766ca0729af#ref=rss)
+* [https://www.spiegel.de/sport/boxen-muhammad-ali-enkel-nico-ali-walsh-gewinnt-profi-debuet](https://www.spiegel.de/sport/boxen-muhammad-ali-enkel-nico-ali-walsh-gewinnt-profi-debuet-a-46f3d6e6-d149-4a6e-bc24-b60ce0f2b28f#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/sport/formel-e-mercedes-gewinnt-elektro-rennserie-und-koennte-aussteigen](https://www.spiegel.de/sport/formel-e-mercedes-gewinnt-elektro-rennserie-und-koennte-aussteigen-a-aed63b9a-c288-40f1-989a-d766ca0729af#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-duepiert-rb-leipzig-nach-corona-ausbruch](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-duepiert-rb-leipzig-nach-corona-ausbruch-a-a48cc678-8628-45f1-82e2-493aafde7675#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/sport/formel-e-mercedes-gewinnt-elektro-rennserie-und-koennte-aussteigen](https://www.spiegel.de/sport/formel-e-mercedes-gewinnt-elektro-rennserie-und-koennte-aussteigen-a-aed63b9a-c288-40f1-989a-d766ca0729af#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-unterhaendler-werden-keine-rache-an-irgendjemandem-nehmen](https://www.spiegel.de/ausland/taliban-unterhaendler-werden-keine-rache-an-irgendjemandem-nehmen-a-ea6d6304-ccb4-426f-8e1e-fb0d903b1262#ref=rss)
+### fußballbundesliga
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-duepiert-rb-leipzig-nach-corona-ausbruch](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-duepiert-rb-leipzig-nach-corona-ausbruch-a-a48cc678-8628-45f1-82e2-493aafde7675#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremer-verliert-gegen-den-sc-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremer-verliert-gegen-den-sc-paderborn-a-1fce30aa-d1ce-4d05-a83b-2d4b21a8c493#ref=rss)
+### mainz
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-duepiert-rb-leipzig-nach-corona-ausbruch](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-duepiert-rb-leipzig-nach-corona-ausbruch-a-a48cc678-8628-45f1-82e2-493aafde7675#ref=rss)
+### 05
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-duepiert-rb-leipzig-nach-corona-ausbruch](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-duepiert-rb-leipzig-nach-corona-ausbruch-a-a48cc678-8628-45f1-82e2-493aafde7675#ref=rss)
+### rb
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-duepiert-rb-leipzig-nach-corona-ausbruch](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-duepiert-rb-leipzig-nach-corona-ausbruch-a-a48cc678-8628-45f1-82e2-493aafde7675#ref=rss)
+### leipzig
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-duepiert-rb-leipzig-nach-corona-ausbruch](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mainz-05-duepiert-rb-leipzig-nach-corona-ausbruch-a-a48cc678-8628-45f1-82e2-493aafde7675#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/fdp-und-armin-laschet-fuer-volker-wissing-laeuft-bei-cdu-und-csu-einiges-schief](https://www.spiegel.de/politik/deutschland/fdp-und-armin-laschet-fuer-volker-wissing-laeuft-bei-cdu-und-csu-einiges-schief-a-b79bf9a6-8302-4d61-af3a-22d5934a1a81#ref=rss)
+### armin
+
+* [https://www.spiegel.de/politik/deutschland/fdp-und-armin-laschet-fuer-volker-wissing-laeuft-bei-cdu-und-csu-einiges-schief](https://www.spiegel.de/politik/deutschland/fdp-und-armin-laschet-fuer-volker-wissing-laeuft-bei-cdu-und-csu-einiges-schief-a-b79bf9a6-8302-4d61-af3a-22d5934a1a81#ref=rss)
+### laschet
+
+* [https://www.spiegel.de/politik/deutschland/fdp-und-armin-laschet-fuer-volker-wissing-laeuft-bei-cdu-und-csu-einiges-schief](https://www.spiegel.de/politik/deutschland/fdp-und-armin-laschet-fuer-volker-wissing-laeuft-bei-cdu-und-csu-einiges-schief-a-b79bf9a6-8302-4d61-af3a-22d5934a1a81#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-tiere-der-grossstadt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-tiere-der-grossstadt-im-schnellcheck-a-a26712ac-f94e-4a4d-8a10-80e8a06b2479#ref=rss)
+### tiere
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-tiere-der-grossstadt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-tiere-der-grossstadt-im-schnellcheck-a-a26712ac-f94e-4a4d-8a10-80e8a06b2479#ref=rss)
+### mensch
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-tiere-der-grossstadt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-berlin-tiere-der-grossstadt-im-schnellcheck-a-a26712ac-f94e-4a4d-8a10-80e8a06b2479#ref=rss)
+* [https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende](https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende-a-a552296e-e4b3-456a-8f4c-3e3ec7d1657b#ref=rss)
+### reaktionen
+
+* [https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende](https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende-a-a552296e-e4b3-456a-8f4c-3e3ec7d1657b#ref=rss)
+### tod
+
+* [https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende](https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende-a-a552296e-e4b3-456a-8f4c-3e3ec7d1657b#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende](https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende-a-a552296e-e4b3-456a-8f4c-3e3ec7d1657b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremer-verliert-gegen-den-sc-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremer-verliert-gegen-den-sc-paderborn-a-1fce30aa-d1ce-4d05-a83b-2d4b21a8c493#ref=rss)
+### 75
+
+* [https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende](https://www.spiegel.de/sport/fussball/reaktionen-auf-den-tod-von-gerd-mueller-die-fussballwelt-verliert-eine-wahre-legende-a-a552296e-e4b3-456a-8f4c-3e3ec7d1657b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot](https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot-a-747676d2-4b72-4cba-8c9c-bfea412c87ed#ref=rss)
+### ashraf
+
+* [https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen](https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen-a-00010fa6-5f92-4a60-a249-365fe4fb9dc6#ref=rss)
+### ghani
+
+* [https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen](https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen-a-00010fa6-5f92-4a60-a249-365fe4fb9dc6#ref=rss)
+### verlassen
+
+* [https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen](https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen-a-00010fa6-5f92-4a60-a249-365fe4fb9dc6#ref=rss)
+### afghanische
+
+* [https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen](https://www.spiegel.de/ausland/afghanistan-praesident-ashraf-ghani-hat-das-land-verlassen-a-00010fa6-5f92-4a60-a249-365fe4fb9dc6#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-kontrollieren-afghanistan](https://www.spiegel.de/ausland/afghanistan-taliban-kontrollieren-afghanistan-a-149db155-0883-42eb-b86c-03e6ba36c153#ref=rss)
 ### schweren
 
-* [https://www.spiegel.de/panorama/libanon-mindestens-20-tote-bei-explosion-eines-treibstoffdepots](https://www.spiegel.de/panorama/libanon-mindestens-20-tote-bei-explosion-eines-treibstoffdepots-a-61ecf1b7-a295-4b6a-9d56-0f934c64cb80#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart](https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart-a-3275f1ee-50a4-4b93-9e7c-1ca38acb8673#ref=rss)
+* [https://www.spiegel.de/panorama/unwetterwarnung-im-suedwesten-rueckt-eine-superzelle-an](https://www.spiegel.de/panorama/unwetterwarnung-im-suedwesten-rueckt-eine-superzelle-an-a-c86a5376-09e1-4ad9-bfb8-7a322311924e#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-haiti-die-krankenhaeuser-sind-nicht-auf-die-katastrophe-vorbereitet](https://www.spiegel.de/ausland/erdbeben-in-haiti-die-krankenhaeuser-sind-nicht-auf-die-katastrophe-vorbereitet-a-0f0bc64a-fb0d-4bad-8fe5-a8dfef7130db#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/unwetterwarnung-im-suedwesten-rueckt-eine-superzelle-an](https://www.spiegel.de/panorama/unwetterwarnung-im-suedwesten-rueckt-eine-superzelle-an-a-c86a5376-09e1-4ad9-bfb8-7a322311924e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/luxemburg-verweigert-russischem-propagandasender-rt-die-lizenz](https://www.spiegel.de/wirtschaft/luxemburg-verweigert-russischem-propagandasender-rt-die-lizenz-a-df54e848-e9f7-45c5-a7fa-25c79614a178#ref=rss)
+### kabuls
+
+* [https://www.spiegel.de/ausland/taliban-unterhaendler-werden-keine-rache-an-irgendjemandem-nehmen](https://www.spiegel.de/ausland/taliban-unterhaendler-werden-keine-rache-an-irgendjemandem-nehmen-a-ea6d6304-ccb4-426f-8e1e-fb0d903b1262#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul](https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul-a-909c3277-bb3b-4c3b-b4de-0fdcc768fe59#ref=rss)
+### kämpfer
+
+* [https://www.spiegel.de/ausland/taliban-unterhaendler-werden-keine-rache-an-irgendjemandem-nehmen](https://www.spiegel.de/ausland/taliban-unterhaendler-werden-keine-rache-an-irgendjemandem-nehmen-a-ea6d6304-ccb4-426f-8e1e-fb0d903b1262#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul](https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul-a-909c3277-bb3b-4c3b-b4de-0fdcc768fe59#ref=rss)
+### bremer
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremer-verliert-gegen-den-sc-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremer-verliert-gegen-den-sc-paderborn-a-1fce30aa-d1ce-4d05-a83b-2d4b21a8c493#ref=rss)
+### sc
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremer-verliert-gegen-den-sc-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremer-verliert-gegen-den-sc-paderborn-a-1fce30aa-d1ce-4d05-a83b-2d4b21a8c493#ref=rss)
+### paderborn
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremer-verliert-gegen-den-sc-paderborn](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremer-verliert-gegen-den-sc-paderborn-a-1fce30aa-d1ce-4d05-a83b-2d4b21a8c493#ref=rss)
+### karriere
+
+* [https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern-a-116e3439-1045-4ad0-be24-a4e375170261#ref=rss)
+### bildern
+
+* [https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern-a-116e3439-1045-4ad0-be24-a4e375170261#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/gerd-mueller-seine-karriere-in-bildern-a-116e3439-1045-4ad0-be24-a4e375170261#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot](https://www.spiegel.de/sport/fussball/bayern-legende-gerd-mueller-ist-tot-a-747676d2-4b72-4cba-8c9c-bfea412c87ed#ref=rss)
+### medien
+
+* [https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan](https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan-a-fb1f0eba-08ab-491e-af92-810ddb1b73a4#ref=rss)
+### mitarbeiter
+
+* [https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan](https://www.spiegel.de/ausland/rettet-unsere-mitarbeiterinnen-und-mitarbeiter-in-afghanistan-a-fb1f0eba-08ab-491e-af92-810ddb1b73a4#ref=rss)
+### luxemburg
+
+* [https://www.spiegel.de/wirtschaft/luxemburg-verweigert-russischem-propagandasender-rt-die-lizenz](https://www.spiegel.de/wirtschaft/luxemburg-verweigert-russischem-propagandasender-rt-die-lizenz-a-df54e848-e9f7-45c5-a7fa-25c79614a178#ref=rss)
+### propagandasender
+
+* [https://www.spiegel.de/wirtschaft/luxemburg-verweigert-russischem-propagandasender-rt-die-lizenz](https://www.spiegel.de/wirtschaft/luxemburg-verweigert-russischem-propagandasender-rt-die-lizenz-a-df54e848-e9f7-45c5-a7fa-25c79614a178#ref=rss)
+### rt
+
+* [https://www.spiegel.de/wirtschaft/luxemburg-verweigert-russischem-propagandasender-rt-die-lizenz](https://www.spiegel.de/wirtschaft/luxemburg-verweigert-russischem-propagandasender-rt-die-lizenz-a-df54e848-e9f7-45c5-a7fa-25c79614a178#ref=rss)
+### radikalislamischen
+
+* [https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul](https://www.spiegel.de/ausland/taliban-in-afghanistan-provinz-um-provinz-schliesslich-kabul-a-909c3277-bb3b-4c3b-b4de-0fdcc768fe59#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-kontrollieren-afghanistan](https://www.spiegel.de/ausland/afghanistan-taliban-kontrollieren-afghanistan-a-149db155-0883-42eb-b86c-03e6ba36c153#ref=rss)
+### israel
+
+* [https://www.spiegel.de/ausland/israel-kritisiert-neues-polnisches-gesetz-als-antisemitisch](https://www.spiegel.de/ausland/israel-kritisiert-neues-polnisches-gesetz-als-antisemitisch-a-2a582829-0aa3-4405-8f44-06693903c96f#ref=rss)
+### gesetz
+
+* [https://www.spiegel.de/ausland/israel-kritisiert-neues-polnisches-gesetz-als-antisemitisch](https://www.spiegel.de/ausland/israel-kritisiert-neues-polnisches-gesetz-als-antisemitisch-a-2a582829-0aa3-4405-8f44-06693903c96f#ref=rss)
+### ali
+
+* [https://www.spiegel.de/sport/boxen-muhammad-ali-enkel-nico-ali-walsh-gewinnt-profi-debuet](https://www.spiegel.de/sport/boxen-muhammad-ali-enkel-nico-ali-walsh-gewinnt-profi-debuet-a-46f3d6e6-d149-4a6e-bc24-b60ce0f2b28f#ref=rss)
+### botschaft
+
+* [https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt](https://www.spiegel.de/ausland/afghanistan-deutsche-botschaft-in-kabul-geraeumt-a-1ef6cef1-a24d-461e-b4f1-badafad4d36e#ref=rss)
 ### erdbeben
 
-* [https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart](https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart-a-3275f1ee-50a4-4b93-9e7c-1ca38acb8673#ref=rss)
-### katastrophe
+* [https://www.spiegel.de/ausland/erdbeben-in-haiti-die-krankenhaeuser-sind-nicht-auf-die-katastrophe-vorbereitet](https://www.spiegel.de/ausland/erdbeben-in-haiti-die-krankenhaeuser-sind-nicht-auf-die-katastrophe-vorbereitet-a-0f0bc64a-fb0d-4bad-8fe5-a8dfef7130db#ref=rss)
+### haiti
 
-* [https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart](https://www.spiegel.de/ausland/erdbeben-in-haiti-uns-bleibt-keine-katastrophe-erspart-a-3275f1ee-50a4-4b93-9e7c-1ca38acb8673#ref=rss)
-### esa
-
-* [https://www.spiegel.de/start/astronaut-werden-wie-das-bewerbungsverfahren-bei-der-esa-laeuft](https://www.spiegel.de/start/astronaut-werden-wie-das-bewerbungsverfahren-bei-der-esa-laeuft-a-371f2c5b-e8d2-4c35-a9c9-2b9405ba564e#ref=rss)
-### neue
-
-* [https://www.spiegel.de/start/astronaut-werden-wie-das-bewerbungsverfahren-bei-der-esa-laeuft](https://www.spiegel.de/start/astronaut-werden-wie-das-bewerbungsverfahren-bei-der-esa-laeuft-a-371f2c5b-e8d2-4c35-a9c9-2b9405ba564e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella](https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella-a-e133f5d5-d131-40f0-8bb6-ecaab266131a#ref=rss)
-### fiat
-
-* [https://www.spiegel.de/auto/fahrkultur/fiat-turbina-dem-ging-die-duese](https://www.spiegel.de/auto/fahrkultur/fiat-turbina-dem-ging-die-duese-a-311a9739-8f19-4533-b3b0-01290fd22d95#ref=rss)
-### sydney
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-sieben-tage-inzidenz-steigt-auf-35](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-sieben-tage-inzidenz-steigt-auf-35-a-259a814d-086d-4134-bd78-da2399cebb68#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen](https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen-a-16969f9a-e1ea-4a4a-b7d7-f769178b0232#ref=rss)
-### vormarsch
-
-* [https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen](https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen-a-16969f9a-e1ea-4a4a-b7d7-f769178b0232#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt](https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt-a-29986ab0-70c6-4cf3-bbf0-44953981e79f#ref=rss)
-### stoppen
-
-* [https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen](https://www.spiegel.de/ausland/afghanistan-bundeswehr-startet-am-montag-mit-evakuierungsfluegen-a-16969f9a-e1ea-4a4a-b7d7-f769178b0232#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kunduz-ein-kolumne](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kunduz-ein-kolumne-a-799a24d9-53ce-4617-ac23-28394b318c1f#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg](https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg-a-a6a82fd5-02b9-400e-86a5-0192051a61b8#ref=rss)
-### messi
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg](https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg-a-a6a82fd5-02b9-400e-86a5-0192051a61b8#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg](https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg-a-a6a82fd5-02b9-400e-86a5-0192051a61b8#ref=rss)
-### paris
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg](https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg-a-a6a82fd5-02b9-400e-86a5-0192051a61b8#ref=rss)
-### saintgermain
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg](https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg-a-a6a82fd5-02b9-400e-86a5-0192051a61b8#ref=rss)
-### strasbourg
-
-* [https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg](https://www.spiegel.de/sport/fussball/lionel-messi-auf-der-tribuene-probleme-fuer-paris-saint-germain-gegen-strasbourg-a-a6a82fd5-02b9-400e-86a5-0192051a61b8#ref=rss)
-### elfenbeinküste
-
-* [https://www.spiegel.de/panorama/elfenbeinkueste-meldet-ersten-ebola-fall-seit-25-jahren](https://www.spiegel.de/panorama/elfenbeinkueste-meldet-ersten-ebola-fall-seit-25-jahren-a-005ae46e-308b-49b0-b6ee-cb1545febf2d#ref=rss)
-### erobern
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt](https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt-a-29986ab0-70c6-4cf3-bbf0-44953981e79f#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt](https://www.spiegel.de/ausland/afghanistan-taliban-erobern-stadt-um-stadt-a-29986ab0-70c6-4cf3-bbf0-44953981e79f#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/biden-verteidigt-afghanistan-abzug-endlose-praesenz-nicht-akzeptabel](https://www.spiegel.de/ausland/biden-verteidigt-afghanistan-abzug-endlose-praesenz-nicht-akzeptabel-a-8ba87bdc-3d7b-44dd-84e6-c7199dedd99f#ref=rss)
-### abzug
-
-* [https://www.spiegel.de/ausland/biden-verteidigt-afghanistan-abzug-endlose-praesenz-nicht-akzeptabel](https://www.spiegel.de/ausland/biden-verteidigt-afghanistan-abzug-endlose-praesenz-nicht-akzeptabel-a-8ba87bdc-3d7b-44dd-84e6-c7199dedd99f#ref=rss)
-### marco
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt-a-2fbe39cd-2b4a-40bc-95e6-15dc7de70313#ref=rss)
-### feierte
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-dank-erling-haaland-und-marco-reus-gegen-eintracht-frankfurt-a-2fbe39cd-2b4a-40bc-95e6-15dc7de70313#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-gewinnt-bei-rueckkehr-von-virgil-van-dijk-bei-norwich-city](https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-gewinnt-bei-rueckkehr-von-virgil-van-dijk-bei-norwich-city-a-e57c63de-357d-48bd-a5f8-17505cc21d8d#ref=rss)
-### hella
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella](https://www.spiegel.de/wirtschaft/unternehmen/fusion-bei-zulieferern-faurecia-schluckt-scheinwerferspezialisten-hella-a-e133f5d5-d131-40f0-8bb6-ecaab266131a#ref=rss)
-### primož
-
-* [https://www.spiegel.de/sport/vuelta-a-espana-2021-primoz-roglic-setzt-gleich-zu-beginn-ein-zeichen](https://www.spiegel.de/sport/vuelta-a-espana-2021-primoz-roglic-setzt-gleich-zu-beginn-ein-zeichen-a-5bb732f7-e9f1-4566-82ce-11155a9c0983#ref=rss)
-### roglič
-
-* [https://www.spiegel.de/sport/vuelta-a-espana-2021-primoz-roglic-setzt-gleich-zu-beginn-ein-zeichen](https://www.spiegel.de/sport/vuelta-a-espana-2021-primoz-roglic-setzt-gleich-zu-beginn-ein-zeichen-a-5bb732f7-e9f1-4566-82ce-11155a9c0983#ref=rss)
-### gleich
-
-* [https://www.spiegel.de/sport/vuelta-a-espana-2021-primoz-roglic-setzt-gleich-zu-beginn-ein-zeichen](https://www.spiegel.de/sport/vuelta-a-espana-2021-primoz-roglic-setzt-gleich-zu-beginn-ein-zeichen-a-5bb732f7-e9f1-4566-82ce-11155a9c0983#ref=rss)
-### beginn
-
-* [https://www.spiegel.de/sport/vuelta-a-espana-2021-primoz-roglic-setzt-gleich-zu-beginn-ein-zeichen](https://www.spiegel.de/sport/vuelta-a-espana-2021-primoz-roglic-setzt-gleich-zu-beginn-ein-zeichen-a-5bb732f7-e9f1-4566-82ce-11155a9c0983#ref=rss)
-### liverpool
-
-* [https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-gewinnt-bei-rueckkehr-von-virgil-van-dijk-bei-norwich-city](https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-gewinnt-bei-rueckkehr-von-virgil-van-dijk-bei-norwich-city-a-e57c63de-357d-48bd-a5f8-17505cc21d8d#ref=rss)
-### van
-
-* [https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-gewinnt-bei-rueckkehr-von-virgil-van-dijk-bei-norwich-city](https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-gewinnt-bei-rueckkehr-von-virgil-van-dijk-bei-norwich-city-a-e57c63de-357d-48bd-a5f8-17505cc21d8d#ref=rss)
-### dijk
-
-* [https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-gewinnt-bei-rueckkehr-von-virgil-van-dijk-bei-norwich-city](https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-gewinnt-bei-rueckkehr-von-virgil-van-dijk-bei-norwich-city-a-e57c63de-357d-48bd-a5f8-17505cc21d8d#ref=rss)
-### norwich
-
-* [https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-gewinnt-bei-rueckkehr-von-virgil-van-dijk-bei-norwich-city](https://www.spiegel.de/sport/fussball/premier-league-fc-liverpool-gewinnt-bei-rueckkehr-von-virgil-van-dijk-bei-norwich-city-a-e57c63de-357d-48bd-a5f8-17505cc21d8d#ref=rss)
-### locarno
-
-* [https://www.spiegel.de/kultur/kino/filmfestival-von-locarno-auch-impotenz-kann-politisch-sein](https://www.spiegel.de/kultur/kino/filmfestival-von-locarno-auch-impotenz-kann-politisch-sein-a-a0577e17-c9b5-4a4b-997e-648bedd1f781#ref=rss)
-### kunduz
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kunduz-ein-kolumne](https://www.spiegel.de/ausland/afghanistan-taliban-nehmen-kunduz-ein-kolumne-a-799a24d9-53ce-4617-ac23-28394b318c1f#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-haiti-die-krankenhaeuser-sind-nicht-auf-die-katastrophe-vorbereitet](https://www.spiegel.de/ausland/erdbeben-in-haiti-die-krankenhaeuser-sind-nicht-auf-die-katastrophe-vorbereitet-a-0f0bc64a-fb0d-4bad-8fe5-a8dfef7130db#ref=rss)
 
