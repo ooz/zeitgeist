@@ -6,362 +6,286 @@ tags: __no_header__
 
 ### afghanistan
 
-* [https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar](https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar-a-e9c78af0-01e8-45e3-a61d-77ee0d725834#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben](https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben-a-afad220b-a731-4a80-a663-7369ab95acaf#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-soldaten-flohen-mit-22-kampfflugzeugen-und-24-helikoptern](https://www.spiegel.de/ausland/afghanistan-soldaten-flohen-mit-22-kampfflugzeugen-und-24-helikoptern-a-20885bf3-21fb-43b8-80c4-460d12723268#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream](https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream-a-44ece418-b113-4707-afb9-abbe0b2fb150#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein](https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein-a-6cc87db9-f3c9-494b-a579-54dc918111fc#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream-a-4f37d45d-8390-4410-96f0-d3b66393fe50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer](https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer-a-3376b8cc-a6b0-4b37-a709-9cee798a523e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt](https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt-a-c047a797-517c-45d4-9c0f-c1f588d5c44a#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht](https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht-a-c457bf24-0c3c-4cdb-839b-250f53f9f4e1#ref=rss)
-* [https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest](https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest-a-d6b8b86b-0e3d-4631-a5d5-d4b26f386d1d#ref=rss)
-### lage
-
-* [https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar](https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar-a-e9c78af0-01e8-45e3-a61d-77ee0d725834#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream](https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream-a-44ece418-b113-4707-afb9-abbe0b2fb150#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream-a-4f37d45d-8390-4410-96f0-d3b66393fe50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer](https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer-a-3376b8cc-a6b0-4b37-a709-9cee798a523e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt](https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt-a-c047a797-517c-45d4-9c0f-c1f588d5c44a#ref=rss)
+* [https://www.spiegel.de/ausland/lage-in-afghanistan-das-chaos-von-kabul](https://www.spiegel.de/ausland/lage-in-afghanistan-das-chaos-von-kabul-a-8f25ed67-1f99-4a94-9a6d-19e55826c2dd#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-nachbarstaaten-mit-den-taliban-umgehen](https://www.spiegel.de/ausland/afghanistan-wie-die-nachbarstaaten-mit-den-taliban-umgehen-a-6950c40a-2e3f-4f4f-bb7e-b25c75d4ec26#ref=rss)
+* [https://www.spiegel.de/ausland/afghanische-fluechtlinge-warum-sich-2015-nicht-wiederholen-wird](https://www.spiegel.de/ausland/afghanische-fluechtlinge-warum-sich-2015-nicht-wiederholen-wird-a-d3df9746-16ff-425a-a348-4047de75cd8f#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen](https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen-a-281c4629-7258-46ed-8695-713aa43d3e03#ref=rss)
 ### kabul
 
-* [https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben](https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben-a-afad220b-a731-4a80-a663-7369ab95acaf#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream](https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream-a-44ece418-b113-4707-afb9-abbe0b2fb150#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream-a-4f37d45d-8390-4410-96f0-d3b66393fe50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer](https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer-a-3376b8cc-a6b0-4b37-a709-9cee798a523e#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht](https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht-a-c457bf24-0c3c-4cdb-839b-250f53f9f4e1#ref=rss)
-* [https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest](https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest-a-d6b8b86b-0e3d-4631-a5d5-d4b26f386d1d#ref=rss)
+* [https://www.spiegel.de/ausland/lage-in-afghanistan-das-chaos-von-kabul](https://www.spiegel.de/ausland/lage-in-afghanistan-das-chaos-von-kabul-a-8f25ed67-1f99-4a94-9a6d-19e55826c2dd#ref=rss)
+* [https://www.spiegel.de/gesundheit/deutsche-in-kabul-warten-auf-die-evakuierung](https://www.spiegel.de/gesundheit/deutsche-in-kabul-warten-auf-die-evakuierung-a-819c7153-0f13-42f5-b4b8-8979cbaf5ead#ref=rss)
+* [https://www.spiegel.de/ausland/die-lage-in-kabul-jetzt-haben-alle-angst](https://www.spiegel.de/ausland/die-lage-in-kabul-jetzt-haben-alle-angst-a-10366055-7195-4461-9443-da9d43fee97c#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-lokfuehrergewerkschaft-gdl-will-vor-zentrale-protestieren-weiterer-streik-moeglich](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-lokfuehrergewerkschaft-gdl-will-vor-zentrale-protestieren-weiterer-streik-moeglich-a-b46e6939-8ebb-44fb-9d39-f47c33ee63df#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/corona-der-niedergang-der-minijobs-und-warum-viele-das-gut-finden](https://www.spiegel.de/wirtschaft/soziales/corona-der-niedergang-der-minijobs-und-warum-viele-das-gut-finden-a-fd0d6c25-982c-449e-a791-a3ec0206a1e6#ref=rss)
+* [https://www.spiegel.de/gesundheit/deutsche-in-kabul-warten-auf-die-evakuierung](https://www.spiegel.de/gesundheit/deutsche-in-kabul-warten-auf-die-evakuierung-a-819c7153-0f13-42f5-b4b8-8979cbaf5ead#ref=rss)
+### verlassen
+
+* [https://www.spiegel.de/sport/fussball/alexander-sorloth-koennte-rb-leipzig-wieder-verlassen-baptiste-santamaria-geht-nach-rennes](https://www.spiegel.de/sport/fussball/alexander-sorloth-koennte-rb-leipzig-wieder-verlassen-baptiste-santamaria-geht-nach-rennes-a-54ac6511-8de0-43af-b353-50048e208620#ref=rss)
+* [https://www.spiegel.de/gesundheit/deutsche-in-kabul-warten-auf-die-evakuierung](https://www.spiegel.de/gesundheit/deutsche-in-kabul-warten-auf-die-evakuierung-a-819c7153-0f13-42f5-b4b8-8979cbaf5ead#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen](https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen-a-281c4629-7258-46ed-8695-713aa43d3e03#ref=rss)
 ### taliban
 
-* [https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben](https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben-a-afad220b-a731-4a80-a663-7369ab95acaf#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-soldaten-flohen-mit-22-kampfflugzeugen-und-24-helikoptern](https://www.spiegel.de/ausland/afghanistan-soldaten-flohen-mit-22-kampfflugzeugen-und-24-helikoptern-a-20885bf3-21fb-43b8-80c4-460d12723268#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein](https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein-a-6cc87db9-f3c9-494b-a579-54dc918111fc#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht](https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht-a-c457bf24-0c3c-4cdb-839b-250f53f9f4e1#ref=rss)
-### merkel
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-nachbarstaaten-mit-den-taliban-umgehen](https://www.spiegel.de/ausland/afghanistan-wie-die-nachbarstaaten-mit-den-taliban-umgehen-a-6950c40a-2e3f-4f4f-bb7e-b25c75d4ec26#ref=rss)
+* [https://www.spiegel.de/ausland/die-lage-in-kabul-jetzt-haben-alle-angst](https://www.spiegel.de/ausland/die-lage-in-kabul-jetzt-haben-alle-angst-a-10366055-7195-4461-9443-da9d43fee97c#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen](https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen-a-281c4629-7258-46ed-8695-713aa43d3e03#ref=rss)
+### essen
 
-* [https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar](https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar-a-e9c78af0-01e8-45e3-a61d-77ee0d725834#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream](https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream-a-44ece418-b113-4707-afb9-abbe0b2fb150#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt](https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt-a-c047a797-517c-45d4-9c0f-c1f588d5c44a#ref=rss)
-### flughafen
+* [https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben](https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben-a-76b00cff-c516-437f-bc30-889d0f8559ce#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-trauergaeste-einer-clan-beerdigung-attackieren-friedhofschef](https://www.spiegel.de/panorama/justiz/essen-trauergaeste-einer-clan-beerdigung-attackieren-friedhofschef-a-7e3113bb-d689-4d74-82fa-565d9a9ccf1b#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben](https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben-a-afad220b-a731-4a80-a663-7369ab95acaf#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream-a-4f37d45d-8390-4410-96f0-d3b66393fe50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer](https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer-a-3376b8cc-a6b0-4b37-a709-9cee798a523e#ref=rss)
-* [https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest](https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest-a-d6b8b86b-0e3d-4631-a5d5-d4b26f386d1d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben](https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben-a-76b00cff-c516-437f-bc30-889d0f8559ce#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-gericht-setzt-rueckfuehrungen-von-minderjaehrigen-nach-marokko-aus](https://www.spiegel.de/ausland/ceuta-gericht-setzt-rueckfuehrungen-von-minderjaehrigen-nach-marokko-aus-a-494c2ac6-dfa6-44ae-bcde-5ad817e48286#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/haiti-nach-erdbeben-droht-nun-ein-tropensturm](https://www.spiegel.de/ausland/haiti-nach-erdbeben-droht-nun-ein-tropensturm-a-ff51812a-7582-4fbe-aa0a-86459beae6c0#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-viele-feuerwehreinsaetze-wegen-unwettern](https://www.spiegel.de/panorama/oesterreich-viele-feuerwehreinsaetze-wegen-unwettern-a-42e640fd-82bf-4a52-be0a-126efa9a529b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/corona-der-niedergang-der-minijobs-und-warum-viele-das-gut-finden](https://www.spiegel.de/wirtschaft/soziales/corona-der-niedergang-der-minijobs-und-warum-viele-das-gut-finden-a-fd0d6c25-982c-449e-a791-a3ec0206a1e6#ref=rss)
+### kaji
+
+* [https://www.spiegel.de/kultur/der-vater-des-sudoku-maki-kaji-ist-tot](https://www.spiegel.de/kultur/der-vater-des-sudoku-maki-kaji-ist-tot-a-7e160f61-f27e-445d-a220-3979d32dbc83#ref=rss)
+### impfen
+
+* [https://www.spiegel.de/wissenschaft/medizin/nach-erstem-ebola-fall-seit-1994-elfenbeinkueste-beginnt-mit-impfungen](https://www.spiegel.de/wissenschaft/medizin/nach-erstem-ebola-fall-seit-1994-elfenbeinkueste-beginnt-mit-impfungen-a-95bb3504-8045-4d42-8e34-8b376b0556b1#ref=rss)
+* [https://www.spiegel.de/gesundheit/coronavirus-warum-genesene-sich-impfen-lassen-sollten](https://www.spiegel.de/gesundheit/coronavirus-warum-genesene-sich-impfen-lassen-sollten-a-9c2dd72e-4db5-47f0-8e91-66d04eef6c84#ref=rss)
+### 70
+
+* [https://www.spiegel.de/panorama/oesterreich-viele-feuerwehreinsaetze-wegen-unwettern](https://www.spiegel.de/panorama/oesterreich-viele-feuerwehreinsaetze-wegen-unwettern-a-42e640fd-82bf-4a52-be0a-126efa9a529b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-70-gesamtmetall-praesident-stefan-wolf-erwaegt-noch-spaeteres-eintrittsalter](https://www.spiegel.de/wirtschaft/soziales/rente-mit-70-gesamtmetall-praesident-stefan-wolf-erwaegt-noch-spaeteres-eintrittsalter-a-6a50c6a5-4500-4072-ab0b-9110ed2bbfd1#ref=rss)
+### flutkatastrophe
+
+* [https://www.spiegel.de/politik/deutschland/flutkatastrophe-2021-landrat-von-ahrweiler-legt-amt-nieder](https://www.spiegel.de/politik/deutschland/flutkatastrophe-2021-landrat-von-ahrweiler-legt-amt-nieder-a-8099cba2-65ee-4886-985c-50a91840741c#ref=rss)
+* [https://www.spiegel.de/panorama/flutkatastrophe-in-rheinland-pfalz-350-kilo-munition-aus-dem-2-weltkrieg-freigeschwemmt](https://www.spiegel.de/panorama/flutkatastrophe-in-rheinland-pfalz-350-kilo-munition-aus-dem-2-weltkrieg-freigeschwemmt-a-14ef9c83-1bf9-4b7c-ae9e-d53fb56a8954#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/nahe-garmisch-partenkirchen-mehrere-vermisste-nach-flutwelle-in-hoellentalklamm](https://www.spiegel.de/panorama/nahe-garmisch-partenkirchen-mehrere-vermisste-nach-flutwelle-in-hoellentalklamm-a-30617a2d-7181-4a4d-abac-5b6c19ff3d59#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream-a-4f37d45d-8390-4410-96f0-d3b66393fe50#ref=rss)
-* [https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest](https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest-a-d6b8b86b-0e3d-4631-a5d5-d4b26f386d1d#ref=rss)
-### maas
+* [https://www.spiegel.de/panorama/frankreich-campingplaetze-wegen-waldbrandes-evakuiert](https://www.spiegel.de/panorama/frankreich-campingplaetze-wegen-waldbrandes-evakuiert-a-6e8ae21f-ed58-4a7e-a5bd-f719611ed1d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-70-gesamtmetall-praesident-stefan-wolf-erwaegt-noch-spaeteres-eintrittsalter](https://www.spiegel.de/wirtschaft/soziales/rente-mit-70-gesamtmetall-praesident-stefan-wolf-erwaegt-noch-spaeteres-eintrittsalter-a-6a50c6a5-4500-4072-ab0b-9110ed2bbfd1#ref=rss)
+* [https://www.spiegel.de/ausland/die-lage-in-kabul-jetzt-haben-alle-angst](https://www.spiegel.de/ausland/die-lage-in-kabul-jetzt-haben-alle-angst-a-10366055-7195-4461-9443-da9d43fee97c#ref=rss)
+### setzt
 
-* [https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein](https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein-a-6cc87db9-f3c9-494b-a579-54dc918111fc#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream-a-4f37d45d-8390-4410-96f0-d3b66393fe50#ref=rss)
-### angela
+* [https://www.spiegel.de/ausland/uno-atomaufsicht-iaea-iran-setzt-uran-anreicherung-trotz-internationaler-einwaende-fort](https://www.spiegel.de/ausland/uno-atomaufsicht-iaea-iran-setzt-uran-anreicherung-trotz-internationaler-einwaende-fort-a-4bda1eb2-43cd-4b6c-8e00-5c15e3b78485#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-gericht-setzt-rueckfuehrungen-von-minderjaehrigen-nach-marokko-aus](https://www.spiegel.de/ausland/ceuta-gericht-setzt-rueckfuehrungen-von-minderjaehrigen-nach-marokko-aus-a-494c2ac6-dfa6-44ae-bcde-5ad817e48286#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen](https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen-a-281c4629-7258-46ed-8695-713aa43d3e03#ref=rss)
+### rente
 
-* [https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar](https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar-a-e9c78af0-01e8-45e3-a61d-77ee0d725834#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream](https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream-a-44ece418-b113-4707-afb9-abbe0b2fb150#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt](https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt-a-c047a797-517c-45d4-9c0f-c1f588d5c44a#ref=rss)
-### kanzlerin
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-70-gesamtmetall-praesident-stefan-wolf-erwaegt-noch-spaeteres-eintrittsalter](https://www.spiegel.de/wirtschaft/soziales/rente-mit-70-gesamtmetall-praesident-stefan-wolf-erwaegt-noch-spaeteres-eintrittsalter-a-6a50c6a5-4500-4072-ab0b-9110ed2bbfd1#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar](https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar-a-e9c78af0-01e8-45e3-a61d-77ee0d725834#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream](https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream-a-44ece418-b113-4707-afb9-abbe0b2fb150#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt](https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt-a-c047a797-517c-45d4-9c0f-c1f588d5c44a#ref=rss)
-### bundeswehr
+* [https://www.spiegel.de/sport/fussball/alexander-sorloth-koennte-rb-leipzig-wieder-verlassen-baptiste-santamaria-geht-nach-rennes](https://www.spiegel.de/sport/fussball/alexander-sorloth-koennte-rb-leipzig-wieder-verlassen-baptiste-santamaria-geht-nach-rennes-a-54ac6511-8de0-43af-b353-50048e208620#ref=rss)
+### sørloth
 
-* [https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben](https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben-a-afad220b-a731-4a80-a663-7369ab95acaf#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream-a-4f37d45d-8390-4410-96f0-d3b66393fe50#ref=rss)
-* [https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest](https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest-a-d6b8b86b-0e3d-4631-a5d5-d4b26f386d1d#ref=rss)
-### mehrere
+* [https://www.spiegel.de/sport/fussball/alexander-sorloth-koennte-rb-leipzig-wieder-verlassen-baptiste-santamaria-geht-nach-rennes](https://www.spiegel.de/sport/fussball/alexander-sorloth-koennte-rb-leipzig-wieder-verlassen-baptiste-santamaria-geht-nach-rennes-a-54ac6511-8de0-43af-b353-50048e208620#ref=rss)
+### baptiste
 
-* [https://www.spiegel.de/panorama/nahe-garmisch-partenkirchen-mehrere-vermisste-nach-flutwelle-in-hoellentalklamm](https://www.spiegel.de/panorama/nahe-garmisch-partenkirchen-mehrere-vermisste-nach-flutwelle-in-hoellentalklamm-a-30617a2d-7181-4a4d-abac-5b6c19ff3d59#ref=rss)
-* [https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen](https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen-a-80a031e7-2705-4e8a-98ea-27215938735a#ref=rss)
-### mehr
+* [https://www.spiegel.de/sport/fussball/alexander-sorloth-koennte-rb-leipzig-wieder-verlassen-baptiste-santamaria-geht-nach-rennes](https://www.spiegel.de/sport/fussball/alexander-sorloth-koennte-rb-leipzig-wieder-verlassen-baptiste-santamaria-geht-nach-rennes-a-54ac6511-8de0-43af-b353-50048e208620#ref=rss)
+### santamaria
 
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-wahrscheinlich-es-ist-dass-resistente-varianten-aufkommen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-wahrscheinlich-es-ist-dass-resistente-varianten-aufkommen-a-25c9cfc1-9f83-4bca-b504-e2cde7d49366#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-minijobber-steigt-wieder-deutlich](https://www.spiegel.de/wirtschaft/soziales/zahl-der-minijobber-steigt-wieder-deutlich-a-471faeaf-78b6-4694-890a-22b9fca42eab#ref=rss)
-### außenminister
+* [https://www.spiegel.de/sport/fussball/alexander-sorloth-koennte-rb-leipzig-wieder-verlassen-baptiste-santamaria-geht-nach-rennes](https://www.spiegel.de/sport/fussball/alexander-sorloth-koennte-rb-leipzig-wieder-verlassen-baptiste-santamaria-geht-nach-rennes-a-54ac6511-8de0-43af-b353-50048e208620#ref=rss)
+### wir
 
-* [https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein](https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein-a-6cc87db9-f3c9-494b-a579-54dc918111fc#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream-a-4f37d45d-8390-4410-96f0-d3b66393fe50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt](https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt-a-c047a797-517c-45d4-9c0f-c1f588d5c44a#ref=rss)
-### heiko
+* [https://www.spiegel.de/sport/fussball/alexander-sorloth-koennte-rb-leipzig-wieder-verlassen-baptiste-santamaria-geht-nach-rennes](https://www.spiegel.de/sport/fussball/alexander-sorloth-koennte-rb-leipzig-wieder-verlassen-baptiste-santamaria-geht-nach-rennes-a-54ac6511-8de0-43af-b353-50048e208620#ref=rss)
+* [https://www.spiegel.de/gesundheit/deutsche-in-kabul-warten-auf-die-evakuierung](https://www.spiegel.de/gesundheit/deutsche-in-kabul-warten-auf-die-evakuierung-a-819c7153-0f13-42f5-b4b8-8979cbaf5ead#ref=rss)
+### lage
 
-* [https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein](https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein-a-6cc87db9-f3c9-494b-a579-54dc918111fc#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream-a-4f37d45d-8390-4410-96f0-d3b66393fe50#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/lage-in-afghanistan-das-chaos-von-kabul](https://www.spiegel.de/ausland/lage-in-afghanistan-das-chaos-von-kabul-a-8f25ed67-1f99-4a94-9a6d-19e55826c2dd#ref=rss)
+### china
 
-* [https://www.spiegel.de/wissenschaft/natur/tropenstuerme-grace-und-fred-bedrohen-haiti-und-die-usa](https://www.spiegel.de/wissenschaft/natur/tropenstuerme-grace-und-fred-bedrohen-haiti-und-die-usa-a-8ed13274-de66-44d1-a8be-a71796b6ab68#ref=rss)
-* [https://www.spiegel.de/panorama/pariser-vorort-polizisten-schiessen-bei-autokontrolle-zwei-insassen-nieder](https://www.spiegel.de/panorama/pariser-vorort-polizisten-schiessen-bei-autokontrolle-zwei-insassen-nieder-a-9f2adc84-288a-4cf8-8aed-5f55ec686bdf#ref=rss)
-### stiko
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-nachbarstaaten-mit-den-taliban-umgehen](https://www.spiegel.de/ausland/afghanistan-wie-die-nachbarstaaten-mit-den-taliban-umgehen-a-6950c40a-2e3f-4f4f-bb7e-b25c75d4ec26#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/china-plant-strengere-regulierung-von-internetfirmen](https://www.spiegel.de/netzwelt/web/china-plant-strengere-regulierung-von-internetfirmen-a-8fafd80b-68e0-4ba3-9ff6-0fb3d41e35a7#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer](https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer-a-3376b8cc-a6b0-4b37-a709-9cee798a523e#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/corona-impfungen-fuer-kinder-gruene-fordern-schulhof-impfen](https://www.spiegel.de/panorama/bildung/corona-impfungen-fuer-kinder-gruene-fordern-schulhof-impfen-a-e9e47391-2fc6-48dd-91f8-f22dc0249b85#ref=rss)
-### kinder
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-nachbarstaaten-mit-den-taliban-umgehen](https://www.spiegel.de/ausland/afghanistan-wie-die-nachbarstaaten-mit-den-taliban-umgehen-a-6950c40a-2e3f-4f4f-bb7e-b25c75d4ec26#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/gesundheitsrisiko-hitze-wie-uns-die-klimakrise-krank-macht](https://www.spiegel.de/wissenschaft/mensch/gesundheitsrisiko-hitze-wie-uns-die-klimakrise-krank-macht-a-3efc7f48-9e6e-43e9-9ec7-03107073960d#ref=rss)
+### region
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer](https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer-a-3376b8cc-a6b0-4b37-a709-9cee798a523e#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/corona-impfungen-fuer-kinder-gruene-fordern-schulhof-impfen](https://www.spiegel.de/panorama/bildung/corona-impfungen-fuer-kinder-gruene-fordern-schulhof-impfen-a-e9e47391-2fc6-48dd-91f8-f22dc0249b85#ref=rss)
-### bezos
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-nachbarstaaten-mit-den-taliban-umgehen](https://www.spiegel.de/ausland/afghanistan-wie-die-nachbarstaaten-mit-den-taliban-umgehen-a-6950c40a-2e3f-4f4f-bb7e-b25c75d4ec26#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-nach-erdbeben-droht-nun-ein-tropensturm](https://www.spiegel.de/ausland/haiti-nach-erdbeben-droht-nun-ein-tropensturm-a-ff51812a-7582-4fbe-aa0a-86459beae6c0#ref=rss)
+### länger
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jeff-bezos-verklagt-us-regierung](https://www.spiegel.de/wirtschaft/unternehmen/jeff-bezos-verklagt-us-regierung-a-b3c4ed88-97b6-4acb-be6c-50ede268484e#ref=rss)
-### erste
+* [https://www.spiegel.de/wirtschaft/unternehmen/flut-kabinett-will-insolvenzantragspflicht-laenger-aussetzen](https://www.spiegel.de/wirtschaft/unternehmen/flut-kabinett-will-insolvenzantragspflicht-laenger-aussetzen-a-3890d2e8-2ba1-4570-87c2-61eb108b3116#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-70-gesamtmetall-praesident-stefan-wolf-erwaegt-noch-spaeteres-eintrittsalter](https://www.spiegel.de/wirtschaft/soziales/rente-mit-70-gesamtmetall-praesident-stefan-wolf-erwaegt-noch-spaeteres-eintrittsalter-a-6a50c6a5-4500-4072-ab0b-9110ed2bbfd1#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/jeff-bezos-verklagt-us-regierung](https://www.spiegel.de/wirtschaft/unternehmen/jeff-bezos-verklagt-us-regierung-a-b3c4ed88-97b6-4acb-be6c-50ede268484e#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/qualcomm-smartphone-for-snapdragon-insiders-im-test-von-allem-das-beste](https://www.spiegel.de/netzwelt/gadgets/qualcomm-smartphone-for-snapdragon-insiders-im-test-von-allem-das-beste-a-81114883-25b5-40d7-9d56-b98453fe0db7#ref=rss)
-### dramatisch
-
-* [https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar](https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar-a-e9c78af0-01e8-45e3-a61d-77ee0d725834#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream-a-4f37d45d-8390-4410-96f0-d3b66393fe50#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/flut-kabinett-will-insolvenzantragspflicht-laenger-aussetzen](https://www.spiegel.de/wirtschaft/unternehmen/flut-kabinett-will-insolvenzantragspflicht-laenger-aussetzen-a-3890d2e8-2ba1-4570-87c2-61eb108b3116#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/china-plant-strengere-regulierung-von-internetfirmen](https://www.spiegel.de/netzwelt/web/china-plant-strengere-regulierung-von-internetfirmen-a-8fafd80b-68e0-4ba3-9ff6-0fb3d41e35a7#ref=rss)
 ### bundesregierung
 
-* [https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar](https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar-a-e9c78af0-01e8-45e3-a61d-77ee0d725834#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt](https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt-a-c047a797-517c-45d4-9c0f-c1f588d5c44a#ref=rss)
-### falsch
+* [https://www.spiegel.de/wirtschaft/unternehmen/flut-kabinett-will-insolvenzantragspflicht-laenger-aussetzen](https://www.spiegel.de/wirtschaft/unternehmen/flut-kabinett-will-insolvenzantragspflicht-laenger-aussetzen-a-3890d2e8-2ba1-4570-87c2-61eb108b3116#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen](https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen-a-281c4629-7258-46ed-8695-713aa43d3e03#ref=rss)
+### womöglich
 
-* [https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar](https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar-a-e9c78af0-01e8-45e3-a61d-77ee0d725834#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt](https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt-a-c047a797-517c-45d4-9c0f-c1f588d5c44a#ref=rss)
-### eingeschätzt
+* [https://www.spiegel.de/wirtschaft/unternehmen/flut-kabinett-will-insolvenzantragspflicht-laenger-aussetzen](https://www.spiegel.de/wirtschaft/unternehmen/flut-kabinett-will-insolvenzantragspflicht-laenger-aussetzen-a-3890d2e8-2ba1-4570-87c2-61eb108b3116#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/ergobag-und-satch-preise-kartellamt-verhaengt-bussgeld-gegen-schulranzen-firma](https://www.spiegel.de/wirtschaft/service/ergobag-und-satch-preise-kartellamt-verhaengt-bussgeld-gegen-schulranzen-firma-a-7002cec6-189c-42a4-afe6-3855bafc69d8#ref=rss)
+### uns
 
-* [https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar](https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar-a-e9c78af0-01e8-45e3-a61d-77ee0d725834#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt](https://www.spiegel.de/politik/deutschland/angela-merkel-und-ihr-afghanistan-desaster-in-gaenze-versagt-a-c047a797-517c-45d4-9c0f-c1f588d5c44a#ref=rss)
-### räumt
+* [https://www.spiegel.de/wissenschaft/mensch/gesundheitsrisiko-hitze-wie-uns-die-klimakrise-krank-macht](https://www.spiegel.de/wissenschaft/mensch/gesundheitsrisiko-hitze-wie-uns-die-klimakrise-krank-macht-a-3efc7f48-9e6e-43e9-9ec7-03107073960d#ref=rss)
+### arzt
 
-* [https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar](https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar-a-e9c78af0-01e8-45e3-a61d-77ee0d725834#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein](https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein-a-6cc87db9-f3c9-494b-a579-54dc918111fc#ref=rss)
-### schnell
+* [https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben](https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben-a-76b00cff-c516-437f-bc30-889d0f8559ce#ref=rss)
+### bestreitet
 
-* [https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar](https://www.spiegel.de/ausland/angela-merkel-zur-lage-in-afghanistan-die-entwicklungen-sind-bitter-dramatisch-und-furchtbar-a-e9c78af0-01e8-45e3-a61d-77ee0d725834#ref=rss)
-* [https://www.spiegel.de/familie/longboarden-alex-brettert-los-dein-spiegel-podcast](https://www.spiegel.de/familie/longboarden-alex-brettert-los-dein-spiegel-podcast-a-44138d8d-3d6f-40fd-bd46-b5d1edc4ff90#ref=rss)
-### deutschen
+* [https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben](https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben-a-76b00cff-c516-437f-bc30-889d0f8559ce#ref=rss)
+### covid19patienten
 
-* [https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben](https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben-a-afad220b-a731-4a80-a663-7369ab95acaf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/pokal-aus-fuer-vfl-wolfsburg-nach-wechselfehler](https://www.spiegel.de/sport/fussball/pokal-aus-fuer-vfl-wolfsburg-nach-wechselfehler-a-9b8609d7-807e-49ed-9c78-55576ca12e6e#ref=rss)
-### fest
+* [https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben](https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben-a-76b00cff-c516-437f-bc30-889d0f8559ce#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben](https://www.spiegel.de/ausland/afghanistan-hilferuf-einer-deutschen-abiturientin-ich-will-hier-nicht-sterben-a-afad220b-a731-4a80-a663-7369ab95acaf#ref=rss)
-* [https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest](https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest-a-d6b8b86b-0e3d-4631-a5d5-d4b26f386d1d#ref=rss)
-### soldaten
+* [https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben](https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben-a-76b00cff-c516-437f-bc30-889d0f8559ce#ref=rss)
+### mediziner
 
-* [https://www.spiegel.de/ausland/afghanistan-soldaten-flohen-mit-22-kampfflugzeugen-und-24-helikoptern](https://www.spiegel.de/ausland/afghanistan-soldaten-flohen-mit-22-kampfflugzeugen-und-24-helikoptern-a-20885bf3-21fb-43b8-80c4-460d12723268#ref=rss)
-### 24
+* [https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben](https://www.spiegel.de/panorama/justiz/essen-arzt-bestreitet-covid-19-patienten-getoetet-zu-haben-a-76b00cff-c516-437f-bc30-889d0f8559ce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-impfstoff-bis-zu-3-2-millionen-impfdosen-drohen-in-arztpraxen-zu-verfallen](https://www.spiegel.de/politik/deutschland/corona-impfstoff-bis-zu-3-2-millionen-impfdosen-drohen-in-arztpraxen-zu-verfallen-a-e08acee9-006f-4f16-850a-4c5d8aa7825c#ref=rss)
+### ergobag
 
-* [https://www.spiegel.de/ausland/afghanistan-soldaten-flohen-mit-22-kampfflugzeugen-und-24-helikoptern](https://www.spiegel.de/ausland/afghanistan-soldaten-flohen-mit-22-kampfflugzeugen-und-24-helikoptern-a-20885bf3-21fb-43b8-80c4-460d12723268#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht](https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht-a-c457bf24-0c3c-4cdb-839b-250f53f9f4e1#ref=rss)
-### afghanische
+* [https://www.spiegel.de/wirtschaft/service/ergobag-und-satch-preise-kartellamt-verhaengt-bussgeld-gegen-schulranzen-firma](https://www.spiegel.de/wirtschaft/service/ergobag-und-satch-preise-kartellamt-verhaengt-bussgeld-gegen-schulranzen-firma-a-7002cec6-189c-42a4-afe6-3855bafc69d8#ref=rss)
+### kartellamt
 
-* [https://www.spiegel.de/ausland/afghanistan-soldaten-flohen-mit-22-kampfflugzeugen-und-24-helikoptern](https://www.spiegel.de/ausland/afghanistan-soldaten-flohen-mit-22-kampfflugzeugen-und-24-helikoptern-a-20885bf3-21fb-43b8-80c4-460d12723268#ref=rss)
-* [https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest](https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest-a-d6b8b86b-0e3d-4631-a5d5-d4b26f386d1d#ref=rss)
-### kosten
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-schaeden-kosten-versicherer-bis-zu-5-7-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-schaeden-kosten-versicherer-bis-zu-5-7-milliarden-euro-a-564e1e84-0fad-4e88-9aa3-3e4f628dd2a4#ref=rss)
-### versicherer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-schaeden-kosten-versicherer-bis-zu-5-7-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-schaeden-kosten-versicherer-bis-zu-5-7-milliarden-euro-a-564e1e84-0fad-4e88-9aa3-3e4f628dd2a4#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-schaeden-kosten-versicherer-bis-zu-5-7-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-schaeden-kosten-versicherer-bis-zu-5-7-milliarden-euro-a-564e1e84-0fad-4e88-9aa3-3e4f628dd2a4#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein](https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein-a-6cc87db9-f3c9-494b-a579-54dc918111fc#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-schaeden-kosten-versicherer-bis-zu-5-7-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/flutkatastrophe-schaeden-kosten-versicherer-bis-zu-5-7-milliarden-euro-a-564e1e84-0fad-4e88-9aa3-3e4f628dd2a4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/quentin-tarantino-gibt-seiner-mutter-nichts-von-seinem-reichtum-ab-das-sagt-sie-dazu](https://www.spiegel.de/panorama/leute/quentin-tarantino-gibt-seiner-mutter-nichts-von-seinem-reichtum-ab-das-sagt-sie-dazu-a-c9f0d747-371f-413f-bce3-f81eda1145bb#ref=rss)
-### livestream
-
-* [https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream](https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream-a-44ece418-b113-4707-afb9-abbe0b2fb150#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream-a-4f37d45d-8390-4410-96f0-d3b66393fe50#ref=rss)
-### stunden
-
-* [https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream](https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream-a-44ece418-b113-4707-afb9-abbe0b2fb150#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht](https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht-a-c457bf24-0c3c-4cdb-839b-250f53f9f4e1#ref=rss)
-### aktuellen
-
-* [https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream](https://www.spiegel.de/politik/afghanistan-angela-merkel-aeussert-sich-zur-lage-in-kabul-livestream-a-44ece418-b113-4707-afb9-abbe0b2fb150#ref=rss)
-* [https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream-a-4f37d45d-8390-4410-96f0-d3b66393fe50#ref=rss)
-### vfl
-
-* [https://www.spiegel.de/sport/fussball/pokal-aus-fuer-vfl-wolfsburg-nach-wechselfehler](https://www.spiegel.de/sport/fussball/pokal-aus-fuer-vfl-wolfsburg-nach-wechselfehler-a-9b8609d7-807e-49ed-9c78-55576ca12e6e#ref=rss)
-### wolfsburg
-
-* [https://www.spiegel.de/sport/fussball/pokal-aus-fuer-vfl-wolfsburg-nach-wechselfehler](https://www.spiegel.de/sport/fussball/pokal-aus-fuer-vfl-wolfsburg-nach-wechselfehler-a-9b8609d7-807e-49ed-9c78-55576ca12e6e#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/sport/fussball/pokal-aus-fuer-vfl-wolfsburg-nach-wechselfehler](https://www.spiegel.de/sport/fussball/pokal-aus-fuer-vfl-wolfsburg-nach-wechselfehler-a-9b8609d7-807e-49ed-9c78-55576ca12e6e#ref=rss)
-* [https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen](https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen-a-80a031e7-2705-4e8a-98ea-27215938735a#ref=rss)
-### garmischpartenkirchen
-
-* [https://www.spiegel.de/panorama/nahe-garmisch-partenkirchen-mehrere-vermisste-nach-flutwelle-in-hoellentalklamm](https://www.spiegel.de/panorama/nahe-garmisch-partenkirchen-mehrere-vermisste-nach-flutwelle-in-hoellentalklamm-a-30617a2d-7181-4a4d-abac-5b6c19ff3d59#ref=rss)
-### flutwelle
-
-* [https://www.spiegel.de/panorama/nahe-garmisch-partenkirchen-mehrere-vermisste-nach-flutwelle-in-hoellentalklamm](https://www.spiegel.de/panorama/nahe-garmisch-partenkirchen-mehrere-vermisste-nach-flutwelle-in-hoellentalklamm-a-30617a2d-7181-4a4d-abac-5b6c19ff3d59#ref=rss)
-### höllentalklamm
-
-* [https://www.spiegel.de/panorama/nahe-garmisch-partenkirchen-mehrere-vermisste-nach-flutwelle-in-hoellentalklamm](https://www.spiegel.de/panorama/nahe-garmisch-partenkirchen-mehrere-vermisste-nach-flutwelle-in-hoellentalklamm-a-30617a2d-7181-4a4d-abac-5b6c19ff3d59#ref=rss)
-### starkregen
-
-* [https://www.spiegel.de/panorama/nahe-garmisch-partenkirchen-mehrere-vermisste-nach-flutwelle-in-hoellentalklamm](https://www.spiegel.de/panorama/nahe-garmisch-partenkirchen-mehrere-vermisste-nach-flutwelle-in-hoellentalklamm-a-30617a2d-7181-4a4d-abac-5b6c19ff3d59#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/tropenstuerme-grace-und-fred-bedrohen-haiti-und-die-usa](https://www.spiegel.de/wissenschaft/natur/tropenstuerme-grace-und-fred-bedrohen-haiti-und-die-usa-a-8ed13274-de66-44d1-a8be-a71796b6ab68#ref=rss)
-### unfälle
-
-* [https://www.spiegel.de/auto/tesla-autopilot-unfaelle-mit-krankenwagen-us-behoerde-ermittelt](https://www.spiegel.de/auto/tesla-autopilot-unfaelle-mit-krankenwagen-us-behoerde-ermittelt-a-5b5d91d0-a7b6-4e73-854d-0cb104b51c23#ref=rss)
-### krankenwagen
-
-* [https://www.spiegel.de/auto/tesla-autopilot-unfaelle-mit-krankenwagen-us-behoerde-ermittelt](https://www.spiegel.de/auto/tesla-autopilot-unfaelle-mit-krankenwagen-us-behoerde-ermittelt-a-5b5d91d0-a7b6-4e73-854d-0cb104b51c23#ref=rss)
-### usbehörde
-
-* [https://www.spiegel.de/auto/tesla-autopilot-unfaelle-mit-krankenwagen-us-behoerde-ermittelt](https://www.spiegel.de/auto/tesla-autopilot-unfaelle-mit-krankenwagen-us-behoerde-ermittelt-a-5b5d91d0-a7b6-4e73-854d-0cb104b51c23#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/auto/tesla-autopilot-unfaelle-mit-krankenwagen-us-behoerde-ermittelt](https://www.spiegel.de/auto/tesla-autopilot-unfaelle-mit-krankenwagen-us-behoerde-ermittelt-a-5b5d91d0-a7b6-4e73-854d-0cb104b51c23#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/sonja-fatma-blaeser-ueber-gewalt-gegen-frauen-irgendwann-ist-er-mit-einem-messer-auf-mich-losgegangen](https://www.spiegel.de/panorama/gesellschaft/sonja-fatma-blaeser-ueber-gewalt-gegen-frauen-irgendwann-ist-er-mit-einem-messer-auf-mich-losgegangen-a-645ba0f4-e6ba-4f21-b42c-9f7ec159d2ef#ref=rss)
-### ashraf
-
-* [https://www.spiegel.de/panorama/justiz/ashraf-rammo-ueber-streit-zwischen-bushido-und-abou-chaker-die-beiden-zanken-sich-entschuldigung-wie-maedchen](https://www.spiegel.de/panorama/justiz/ashraf-rammo-ueber-streit-zwischen-bushido-und-abou-chaker-die-beiden-zanken-sich-entschuldigung-wie-maedchen-a-4fbfd7b8-7a15-4617-8acf-6bd49643c4d6#ref=rss)
-### rammo
-
-* [https://www.spiegel.de/panorama/justiz/ashraf-rammo-ueber-streit-zwischen-bushido-und-abou-chaker-die-beiden-zanken-sich-entschuldigung-wie-maedchen](https://www.spiegel.de/panorama/justiz/ashraf-rammo-ueber-streit-zwischen-bushido-und-abou-chaker-die-beiden-zanken-sich-entschuldigung-wie-maedchen-a-4fbfd7b8-7a15-4617-8acf-6bd49643c4d6#ref=rss)
-### bushido
-
-* [https://www.spiegel.de/panorama/justiz/ashraf-rammo-ueber-streit-zwischen-bushido-und-abou-chaker-die-beiden-zanken-sich-entschuldigung-wie-maedchen](https://www.spiegel.de/panorama/justiz/ashraf-rammo-ueber-streit-zwischen-bushido-und-abou-chaker-die-beiden-zanken-sich-entschuldigung-wie-maedchen-a-4fbfd7b8-7a15-4617-8acf-6bd49643c4d6#ref=rss)
-### abouchaker
-
-* [https://www.spiegel.de/panorama/justiz/ashraf-rammo-ueber-streit-zwischen-bushido-und-abou-chaker-die-beiden-zanken-sich-entschuldigung-wie-maedchen](https://www.spiegel.de/panorama/justiz/ashraf-rammo-ueber-streit-zwischen-bushido-und-abou-chaker-die-beiden-zanken-sich-entschuldigung-wie-maedchen-a-4fbfd7b8-7a15-4617-8acf-6bd49643c4d6#ref=rss)
-### wahrscheinlich
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-wahrscheinlich-es-ist-dass-resistente-varianten-aufkommen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-wahrscheinlich-es-ist-dass-resistente-varianten-aufkommen-a-25c9cfc1-9f83-4bca-b504-e2cde7d49366#ref=rss)
-### fehler
-
-* [https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein](https://www.spiegel.de/politik/afghanistan-aussenminister-heiko-maas-spd-raeumt-fehler-ein-a-6cc87db9-f3c9-494b-a579-54dc918111fc#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen](https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen-a-80a031e7-2705-4e8a-98ea-27215938735a#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen](https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen-a-80a031e7-2705-4e8a-98ea-27215938735a#ref=rss)
-### touristin
-
-* [https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen](https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen-a-80a031e7-2705-4e8a-98ea-27215938735a#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen](https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen-a-80a031e7-2705-4e8a-98ea-27215938735a#ref=rss)
-* [https://www.spiegel.de/familie/longboarden-alex-brettert-los-dein-spiegel-podcast](https://www.spiegel.de/familie/longboarden-alex-brettert-los-dein-spiegel-podcast-a-44138d8d-3d6f-40fd-bd46-b5d1edc4ff90#ref=rss)
-### droht
-
-* [https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen](https://www.spiegel.de/panorama/saudi-arabien-sechs-maenner-wegen-belaestigung-einer-touristin-festgenommen-a-80a031e7-2705-4e8a-98ea-27215938735a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/tropenstuerme-grace-und-fred-bedrohen-haiti-und-die-usa](https://www.spiegel.de/wissenschaft/natur/tropenstuerme-grace-und-fred-bedrohen-haiti-und-die-usa-a-8ed13274-de66-44d1-a8be-a71796b6ab68#ref=rss)
-### lizzo
-
-* [https://www.spiegel.de/panorama/leute/lizzo-bricht-nach-rassistischen-und-fettphobischen-attacken-in-traenen-aus](https://www.spiegel.de/panorama/leute/lizzo-bricht-nach-rassistischen-und-fettphobischen-attacken-in-traenen-aus-a-131aa8e5-6c2a-4463-bb97-6185900aa6d6#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/panorama/leute/lizzo-bricht-nach-rassistischen-und-fettphobischen-attacken-in-traenen-aus](https://www.spiegel.de/panorama/leute/lizzo-bricht-nach-rassistischen-und-fettphobischen-attacken-in-traenen-aus-a-131aa8e5-6c2a-4463-bb97-6185900aa6d6#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht](https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht-a-c457bf24-0c3c-4cdb-839b-250f53f9f4e1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/ergobag-und-satch-preise-kartellamt-verhaengt-bussgeld-gegen-schulranzen-firma](https://www.spiegel.de/wirtschaft/service/ergobag-und-satch-preise-kartellamt-verhaengt-bussgeld-gegen-schulranzen-firma-a-7002cec6-189c-42a4-afe6-3855bafc69d8#ref=rss)
 ### haiti
 
-* [https://www.spiegel.de/wissenschaft/natur/tropenstuerme-grace-und-fred-bedrohen-haiti-und-die-usa](https://www.spiegel.de/wissenschaft/natur/tropenstuerme-grace-und-fred-bedrohen-haiti-und-die-usa-a-8ed13274-de66-44d1-a8be-a71796b6ab68#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/haiti-nach-erdbeben-droht-nun-ein-tropensturm](https://www.spiegel.de/ausland/haiti-nach-erdbeben-droht-nun-ein-tropensturm-a-ff51812a-7582-4fbe-aa0a-86459beae6c0#ref=rss)
+### erdbeben
 
-* [https://www.spiegel.de/wissenschaft/natur/tropenstuerme-grace-und-fred-bedrohen-haiti-und-die-usa](https://www.spiegel.de/wissenschaft/natur/tropenstuerme-grace-und-fred-bedrohen-haiti-und-die-usa-a-8ed13274-de66-44d1-a8be-a71796b6ab68#ref=rss)
-### sagt
+* [https://www.spiegel.de/ausland/haiti-nach-erdbeben-droht-nun-ein-tropensturm](https://www.spiegel.de/ausland/haiti-nach-erdbeben-droht-nun-ein-tropensturm-a-ff51812a-7582-4fbe-aa0a-86459beae6c0#ref=rss)
+### kämpft
 
-* [https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/afghanistan-das-sagt-heiko-maas-zur-aktuellen-lage-livestream-a-4f37d45d-8390-4410-96f0-d3b66393fe50#ref=rss)
-* [https://www.spiegel.de/panorama/leute/quentin-tarantino-gibt-seiner-mutter-nichts-von-seinem-reichtum-ab-das-sagt-sie-dazu](https://www.spiegel.de/panorama/leute/quentin-tarantino-gibt-seiner-mutter-nichts-von-seinem-reichtum-ab-das-sagt-sie-dazu-a-c9f0d747-371f-413f-bce3-f81eda1145bb#ref=rss)
-### düsseldorfer
+* [https://www.spiegel.de/ausland/haiti-nach-erdbeben-droht-nun-ein-tropensturm](https://www.spiegel.de/ausland/haiti-nach-erdbeben-droht-nun-ein-tropensturm-a-ff51812a-7582-4fbe-aa0a-86459beae6c0#ref=rss)
+* [https://www.spiegel.de/panorama/frankreich-campingplaetze-wegen-waldbrandes-evakuiert](https://www.spiegel.de/panorama/frankreich-campingplaetze-wegen-waldbrandes-evakuiert-a-6e8ae21f-ed58-4a7e-a5bd-f719611ed1d0#ref=rss)
+### sudoku
 
-* [https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf](https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf-a-ce1eb21a-2117-43f9-bd67-e3fcdee2e697#ref=rss)
-### stephan
+* [https://www.spiegel.de/kultur/der-vater-des-sudoku-maki-kaji-ist-tot](https://www.spiegel.de/kultur/der-vater-des-sudoku-maki-kaji-ist-tot-a-7e160f61-f27e-445d-a220-3979d32dbc83#ref=rss)
+### maki
 
-* [https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf](https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf-a-ce1eb21a-2117-43f9-bd67-e3fcdee2e697#ref=rss)
-### keller
+* [https://www.spiegel.de/kultur/der-vater-des-sudoku-maki-kaji-ist-tot](https://www.spiegel.de/kultur/der-vater-des-sudoku-maki-kaji-ist-tot-a-7e160f61-f27e-445d-a220-3979d32dbc83#ref=rss)
+### tot
 
-* [https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf](https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf-a-ce1eb21a-2117-43f9-bd67-e3fcdee2e697#ref=rss)
-### kritisiert
+* [https://www.spiegel.de/kultur/der-vater-des-sudoku-maki-kaji-ist-tot](https://www.spiegel.de/kultur/der-vater-des-sudoku-maki-kaji-ist-tot-a-7e160f61-f27e-445d-a220-3979d32dbc83#ref=rss)
+* [https://www.spiegel.de/panorama/hoellentalklamm-an-der-zugspitze-frau-nach-flutwelle-tot-geborgen](https://www.spiegel.de/panorama/hoellentalklamm-an-der-zugspitze-frau-nach-flutwelle-tot-geborgen-a-26e69aea-d60a-45c6-a54a-3f54a2c2cf67#ref=rss)
+### gemacht
 
-* [https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf](https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf-a-ce1eb21a-2117-43f9-bd67-e3fcdee2e697#ref=rss)
-### monika
+* [https://www.spiegel.de/kultur/der-vater-des-sudoku-maki-kaji-ist-tot](https://www.spiegel.de/kultur/der-vater-des-sudoku-maki-kaji-ist-tot-a-7e160f61-f27e-445d-a220-3979d32dbc83#ref=rss)
+* [https://www.spiegel.de/ausland/uno-atomaufsicht-iaea-iran-setzt-uran-anreicherung-trotz-internationaler-einwaende-fort](https://www.spiegel.de/ausland/uno-atomaufsicht-iaea-iran-setzt-uran-anreicherung-trotz-internationaler-einwaende-fort-a-4bda1eb2-43cd-4b6c-8e00-5c15e3b78485#ref=rss)
+### plant
 
-* [https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf](https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf-a-ce1eb21a-2117-43f9-bd67-e3fcdee2e697#ref=rss)
-### grütters
+* [https://www.spiegel.de/netzwelt/web/china-plant-strengere-regulierung-von-internetfirmen](https://www.spiegel.de/netzwelt/web/china-plant-strengere-regulierung-von-internetfirmen-a-8fafd80b-68e0-4ba3-9ff6-0fb3d41e35a7#ref=rss)
+* [https://www.spiegel.de/ausland/uno-atomaufsicht-iaea-iran-setzt-uran-anreicherung-trotz-internationaler-einwaende-fort](https://www.spiegel.de/ausland/uno-atomaufsicht-iaea-iran-setzt-uran-anreicherung-trotz-internationaler-einwaende-fort-a-4bda1eb2-43cd-4b6c-8e00-5c15e3b78485#ref=rss)
+### elfenbeinküste
 
-* [https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf](https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf-a-ce1eb21a-2117-43f9-bd67-e3fcdee2e697#ref=rss)
-### scharf
+* [https://www.spiegel.de/wissenschaft/medizin/nach-erstem-ebola-fall-seit-1994-elfenbeinkueste-beginnt-mit-impfungen](https://www.spiegel.de/wissenschaft/medizin/nach-erstem-ebola-fall-seit-1994-elfenbeinkueste-beginnt-mit-impfungen-a-95bb3504-8045-4d42-8e34-8b376b0556b1#ref=rss)
+### fall
 
-* [https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf](https://www.spiegel.de/kultur/deutsches-fotoinstitut-duesseldorfer-ob-stephan-keller-kritisiert-kulturstaatsministerin-monika-gruetters-scharf-a-ce1eb21a-2117-43f9-bd67-e3fcdee2e697#ref=rss)
-### lokführer
+* [https://www.spiegel.de/wissenschaft/medizin/nach-erstem-ebola-fall-seit-1994-elfenbeinkueste-beginnt-mit-impfungen](https://www.spiegel.de/wissenschaft/medizin/nach-erstem-ebola-fall-seit-1994-elfenbeinkueste-beginnt-mit-impfungen-a-95bb3504-8045-4d42-8e34-8b376b0556b1#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-gericht-setzt-rueckfuehrungen-von-minderjaehrigen-nach-marokko-aus](https://www.spiegel.de/ausland/ceuta-gericht-setzt-rueckfuehrungen-von-minderjaehrigen-nach-marokko-aus-a-494c2ac6-dfa6-44ae-bcde-5ad817e48286#ref=rss)
+### frau
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer](https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer-a-3376b8cc-a6b0-4b37-a709-9cee798a523e#ref=rss)
-### panik
+* [https://www.spiegel.de/wissenschaft/medizin/nach-erstem-ebola-fall-seit-1994-elfenbeinkueste-beginnt-mit-impfungen](https://www.spiegel.de/wissenschaft/medizin/nach-erstem-ebola-fall-seit-1994-elfenbeinkueste-beginnt-mit-impfungen-a-95bb3504-8045-4d42-8e34-8b376b0556b1#ref=rss)
+* [https://www.spiegel.de/panorama/hoellentalklamm-an-der-zugspitze-frau-nach-flutwelle-tot-geborgen](https://www.spiegel.de/panorama/hoellentalklamm-an-der-zugspitze-frau-nach-flutwelle-tot-geborgen-a-26e69aea-d60a-45c6-a54a-3f54a2c2cf67#ref=rss)
+### mitarbeiter
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer](https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer-a-3376b8cc-a6b0-4b37-a709-9cee798a523e#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht](https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht-a-c457bf24-0c3c-4cdb-839b-250f53f9f4e1#ref=rss)
-### klammern
+* [https://www.spiegel.de/wissenschaft/medizin/nach-erstem-ebola-fall-seit-1994-elfenbeinkueste-beginnt-mit-impfungen](https://www.spiegel.de/wissenschaft/medizin/nach-erstem-ebola-fall-seit-1994-elfenbeinkueste-beginnt-mit-impfungen-a-95bb3504-8045-4d42-8e34-8b376b0556b1#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen](https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen-a-281c4629-7258-46ed-8695-713aa43d3e03#ref=rss)
+### trauergäste
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer](https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer-a-3376b8cc-a6b0-4b37-a709-9cee798a523e#ref=rss)
-* [https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest](https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest-a-d6b8b86b-0e3d-4631-a5d5-d4b26f386d1d#ref=rss)
-### flugzeuge
+* [https://www.spiegel.de/panorama/justiz/essen-trauergaeste-einer-clan-beerdigung-attackieren-friedhofschef](https://www.spiegel.de/panorama/justiz/essen-trauergaeste-einer-clan-beerdigung-attackieren-friedhofschef-a-7e3113bb-d689-4d74-82fa-565d9a9ccf1b#ref=rss)
+### friedhofsleiter
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer](https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer-a-3376b8cc-a6b0-4b37-a709-9cee798a523e#ref=rss)
-* [https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest](https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest-a-d6b8b86b-0e3d-4631-a5d5-d4b26f386d1d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-trauergaeste-einer-clan-beerdigung-attackieren-friedhofschef](https://www.spiegel.de/panorama/justiz/essen-trauergaeste-einer-clan-beerdigung-attackieren-friedhofschef-a-7e3113bb-d689-4d74-82fa-565d9a9ccf1b#ref=rss)
+### arztpraxen
+
+* [https://www.spiegel.de/politik/deutschland/corona-impfstoff-bis-zu-3-2-millionen-impfdosen-drohen-in-arztpraxen-zu-verfallen](https://www.spiegel.de/politik/deutschland/corona-impfstoff-bis-zu-3-2-millionen-impfdosen-drohen-in-arztpraxen-zu-verfallen-a-e08acee9-006f-4f16-850a-4c5d8aa7825c#ref=rss)
+### coronavirus
+
+* [https://www.spiegel.de/politik/deutschland/corona-impfstoff-bis-zu-3-2-millionen-impfdosen-drohen-in-arztpraxen-zu-verfallen](https://www.spiegel.de/politik/deutschland/corona-impfstoff-bis-zu-3-2-millionen-impfdosen-drohen-in-arztpraxen-zu-verfallen-a-e08acee9-006f-4f16-850a-4c5d8aa7825c#ref=rss)
+* [https://www.spiegel.de/gesundheit/coronavirus-warum-genesene-sich-impfen-lassen-sollten](https://www.spiegel.de/gesundheit/coronavirus-warum-genesene-sich-impfen-lassen-sollten-a-9c2dd72e-4db5-47f0-8e91-66d04eef6c84#ref=rss)
+### höllentalklamm
+
+* [https://www.spiegel.de/panorama/hoellentalklamm-an-der-zugspitze-frau-nach-flutwelle-tot-geborgen](https://www.spiegel.de/panorama/hoellentalklamm-an-der-zugspitze-frau-nach-flutwelle-tot-geborgen-a-26e69aea-d60a-45c6-a54a-3f54a2c2cf67#ref=rss)
+### flutwelle
+
+* [https://www.spiegel.de/panorama/hoellentalklamm-an-der-zugspitze-frau-nach-flutwelle-tot-geborgen](https://www.spiegel.de/panorama/hoellentalklamm-an-der-zugspitze-frau-nach-flutwelle-tot-geborgen-a-26e69aea-d60a-45c6-a54a-3f54a2c2cf67#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/hoellentalklamm-an-der-zugspitze-frau-nach-flutwelle-tot-geborgen](https://www.spiegel.de/panorama/hoellentalklamm-an-der-zugspitze-frau-nach-flutwelle-tot-geborgen-a-26e69aea-d60a-45c6-a54a-3f54a2c2cf67#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-lokfuehrergewerkschaft-gdl-will-vor-zentrale-protestieren-weiterer-streik-moeglich](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-lokfuehrergewerkschaft-gdl-will-vor-zentrale-protestieren-weiterer-streik-moeglich-a-b46e6939-8ebb-44fb-9d39-f47c33ee63df#ref=rss)
+### lokführergewerkschaft
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-lokfuehrergewerkschaft-gdl-will-vor-zentrale-protestieren-weiterer-streik-moeglich](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-lokfuehrergewerkschaft-gdl-will-vor-zentrale-protestieren-weiterer-streik-moeglich-a-b46e6939-8ebb-44fb-9d39-f47c33ee63df#ref=rss)
+### gdl
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-lokfuehrergewerkschaft-gdl-will-vor-zentrale-protestieren-weiterer-streik-moeglich](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-lokfuehrergewerkschaft-gdl-will-vor-zentrale-protestieren-weiterer-streik-moeglich-a-b46e6939-8ebb-44fb-9d39-f47c33ee63df#ref=rss)
+### streik
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-lokfuehrergewerkschaft-gdl-will-vor-zentrale-protestieren-weiterer-streik-moeglich](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-lokfuehrergewerkschaft-gdl-will-vor-zentrale-protestieren-weiterer-streik-moeglich-a-b46e6939-8ebb-44fb-9d39-f47c33ee63df#ref=rss)
+### nächsten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-lokfuehrergewerkschaft-gdl-will-vor-zentrale-protestieren-weiterer-streik-moeglich](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-lokfuehrergewerkschaft-gdl-will-vor-zentrale-protestieren-weiterer-streik-moeglich-a-b46e6939-8ebb-44fb-9d39-f47c33ee63df#ref=rss)
+* [https://www.spiegel.de/ausland/uno-atomaufsicht-iaea-iran-setzt-uran-anreicherung-trotz-internationaler-einwaende-fort](https://www.spiegel.de/ausland/uno-atomaufsicht-iaea-iran-setzt-uran-anreicherung-trotz-internationaler-einwaende-fort-a-4bda1eb2-43cd-4b6c-8e00-5c15e3b78485#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/panorama/oesterreich-viele-feuerwehreinsaetze-wegen-unwettern](https://www.spiegel.de/panorama/oesterreich-viele-feuerwehreinsaetze-wegen-unwettern-a-42e640fd-82bf-4a52-be0a-126efa9a529b#ref=rss)
+### naomi
+
+* [https://www.spiegel.de/sport/tennis/naomi-osaka-frage-zu-verhaeltnis-zu-den-medien-tennisstar-unterbricht-pressekonferenz-unter-traenen](https://www.spiegel.de/sport/tennis/naomi-osaka-frage-zu-verhaeltnis-zu-den-medien-tennisstar-unterbricht-pressekonferenz-unter-traenen-a-49cd6487-5915-44b0-9c71-c943ccbebd50#ref=rss)
+### osaka
+
+* [https://www.spiegel.de/sport/tennis/naomi-osaka-frage-zu-verhaeltnis-zu-den-medien-tennisstar-unterbricht-pressekonferenz-unter-traenen](https://www.spiegel.de/sport/tennis/naomi-osaka-frage-zu-verhaeltnis-zu-den-medien-tennisstar-unterbricht-pressekonferenz-unter-traenen-a-49cd6487-5915-44b0-9c71-c943ccbebd50#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/sport/tennis/naomi-osaka-frage-zu-verhaeltnis-zu-den-medien-tennisstar-unterbricht-pressekonferenz-unter-traenen](https://www.spiegel.de/sport/tennis/naomi-osaka-frage-zu-verhaeltnis-zu-den-medien-tennisstar-unterbricht-pressekonferenz-unter-traenen-a-49cd6487-5915-44b0-9c71-c943ccbebd50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/flutkatastrophe-2021-landrat-von-ahrweiler-legt-amt-nieder](https://www.spiegel.de/politik/deutschland/flutkatastrophe-2021-landrat-von-ahrweiler-legt-amt-nieder-a-8099cba2-65ee-4886-985c-50a91840741c#ref=rss)
+### marie
+
+* [https://www.spiegel.de/start/marie-nasemann-ueber-routinen-selbstmanagement-und-tipps-gegen-stress](https://www.spiegel.de/start/marie-nasemann-ueber-routinen-selbstmanagement-und-tipps-gegen-stress-a-c7dfe59b-f85d-43f9-8d5a-7e09afdbd960#ref=rss)
+### nasemann
+
+* [https://www.spiegel.de/start/marie-nasemann-ueber-routinen-selbstmanagement-und-tipps-gegen-stress](https://www.spiegel.de/start/marie-nasemann-ueber-routinen-selbstmanagement-und-tipps-gegen-stress-a-c7dfe59b-f85d-43f9-8d5a-7e09afdbd960#ref=rss)
+### arbeitet
+
+* [https://www.spiegel.de/start/marie-nasemann-ueber-routinen-selbstmanagement-und-tipps-gegen-stress](https://www.spiegel.de/start/marie-nasemann-ueber-routinen-selbstmanagement-und-tipps-gegen-stress-a-c7dfe59b-f85d-43f9-8d5a-7e09afdbd960#ref=rss)
+* [https://www.spiegel.de/gesundheit/deutsche-in-kabul-warten-auf-die-evakuierung](https://www.spiegel.de/gesundheit/deutsche-in-kabul-warten-auf-die-evakuierung-a-819c7153-0f13-42f5-b4b8-8979cbaf5ead#ref=rss)
+### ahrweiler
+
+* [https://www.spiegel.de/politik/deutschland/flutkatastrophe-2021-landrat-von-ahrweiler-legt-amt-nieder](https://www.spiegel.de/politik/deutschland/flutkatastrophe-2021-landrat-von-ahrweiler-legt-amt-nieder-a-8099cba2-65ee-4886-985c-50a91840741c#ref=rss)
+### amt
+
+* [https://www.spiegel.de/politik/deutschland/flutkatastrophe-2021-landrat-von-ahrweiler-legt-amt-nieder](https://www.spiegel.de/politik/deutschland/flutkatastrophe-2021-landrat-von-ahrweiler-legt-amt-nieder-a-8099cba2-65ee-4886-985c-50a91840741c#ref=rss)
+### waldbrand
+
+* [https://www.spiegel.de/panorama/frankreich-campingplaetze-wegen-waldbrandes-evakuiert](https://www.spiegel.de/panorama/frankreich-campingplaetze-wegen-waldbrandes-evakuiert-a-6e8ae21f-ed58-4a7e-a5bd-f719611ed1d0#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer](https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer-a-3376b8cc-a6b0-4b37-a709-9cee798a523e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-minijobber-steigt-wieder-deutlich](https://www.spiegel.de/wirtschaft/soziales/zahl-der-minijobber-steigt-wieder-deutlich-a-471faeaf-78b6-4694-890a-22b9fca42eab#ref=rss)
-### jugendliche
+* [https://www.spiegel.de/ausland/afghanische-fluechtlinge-warum-sich-2015-nicht-wiederholen-wird](https://www.spiegel.de/ausland/afghanische-fluechtlinge-warum-sich-2015-nicht-wiederholen-wird-a-d3df9746-16ff-425a-a348-4047de75cd8f#ref=rss)
+* [https://www.spiegel.de/gesundheit/deutsche-in-kabul-warten-auf-die-evakuierung](https://www.spiegel.de/gesundheit/deutsche-in-kabul-warten-auf-die-evakuierung-a-819c7153-0f13-42f5-b4b8-8979cbaf5ead#ref=rss)
+### minijobs
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer](https://www.spiegel.de/politik/deutschland/news-des-tages-afghanistan-stiko-lokfuehrer-a-3376b8cc-a6b0-4b37-a709-9cee798a523e#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/corona-impfungen-fuer-kinder-gruene-fordern-schulhof-impfen](https://www.spiegel.de/panorama/bildung/corona-impfungen-fuer-kinder-gruene-fordern-schulhof-impfen-a-e9e47391-2fc6-48dd-91f8-f22dc0249b85#ref=rss)
-### pariser
+* [https://www.spiegel.de/wirtschaft/soziales/corona-der-niedergang-der-minijobs-und-warum-viele-das-gut-finden](https://www.spiegel.de/wirtschaft/soziales/corona-der-niedergang-der-minijobs-und-warum-viele-das-gut-finden-a-fd0d6c25-982c-449e-a791-a3ec0206a1e6#ref=rss)
+### iran
 
-* [https://www.spiegel.de/panorama/pariser-vorort-polizisten-schiessen-bei-autokontrolle-zwei-insassen-nieder](https://www.spiegel.de/panorama/pariser-vorort-polizisten-schiessen-bei-autokontrolle-zwei-insassen-nieder-a-9f2adc84-288a-4cf8-8aed-5f55ec686bdf#ref=rss)
-### vorort
+* [https://www.spiegel.de/ausland/uno-atomaufsicht-iaea-iran-setzt-uran-anreicherung-trotz-internationaler-einwaende-fort](https://www.spiegel.de/ausland/uno-atomaufsicht-iaea-iran-setzt-uran-anreicherung-trotz-internationaler-einwaende-fort-a-4bda1eb2-43cd-4b6c-8e00-5c15e3b78485#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/panorama/pariser-vorort-polizisten-schiessen-bei-autokontrolle-zwei-insassen-nieder](https://www.spiegel.de/panorama/pariser-vorort-polizisten-schiessen-bei-autokontrolle-zwei-insassen-nieder-a-9f2adc84-288a-4cf8-8aed-5f55ec686bdf#ref=rss)
-### sonja
+* [https://www.spiegel.de/ausland/uno-atomaufsicht-iaea-iran-setzt-uran-anreicherung-trotz-internationaler-einwaende-fort](https://www.spiegel.de/ausland/uno-atomaufsicht-iaea-iran-setzt-uran-anreicherung-trotz-internationaler-einwaende-fort-a-4bda1eb2-43cd-4b6c-8e00-5c15e3b78485#ref=rss)
+* [https://www.spiegel.de/ausland/ceuta-gericht-setzt-rueckfuehrungen-von-minderjaehrigen-nach-marokko-aus](https://www.spiegel.de/ausland/ceuta-gericht-setzt-rueckfuehrungen-von-minderjaehrigen-nach-marokko-aus-a-494c2ac6-dfa6-44ae-bcde-5ad817e48286#ref=rss)
+### ceuta
 
-* [https://www.spiegel.de/panorama/gesellschaft/sonja-fatma-blaeser-ueber-gewalt-gegen-frauen-irgendwann-ist-er-mit-einem-messer-auf-mich-losgegangen](https://www.spiegel.de/panorama/gesellschaft/sonja-fatma-blaeser-ueber-gewalt-gegen-frauen-irgendwann-ist-er-mit-einem-messer-auf-mich-losgegangen-a-645ba0f4-e6ba-4f21-b42c-9f7ec159d2ef#ref=rss)
-### fatma
+* [https://www.spiegel.de/ausland/ceuta-gericht-setzt-rueckfuehrungen-von-minderjaehrigen-nach-marokko-aus](https://www.spiegel.de/ausland/ceuta-gericht-setzt-rueckfuehrungen-von-minderjaehrigen-nach-marokko-aus-a-494c2ac6-dfa6-44ae-bcde-5ad817e48286#ref=rss)
+### marokko
 
-* [https://www.spiegel.de/panorama/gesellschaft/sonja-fatma-blaeser-ueber-gewalt-gegen-frauen-irgendwann-ist-er-mit-einem-messer-auf-mich-losgegangen](https://www.spiegel.de/panorama/gesellschaft/sonja-fatma-blaeser-ueber-gewalt-gegen-frauen-irgendwann-ist-er-mit-einem-messer-auf-mich-losgegangen-a-645ba0f4-e6ba-4f21-b42c-9f7ec159d2ef#ref=rss)
-### bläser
+* [https://www.spiegel.de/ausland/ceuta-gericht-setzt-rueckfuehrungen-von-minderjaehrigen-nach-marokko-aus](https://www.spiegel.de/ausland/ceuta-gericht-setzt-rueckfuehrungen-von-minderjaehrigen-nach-marokko-aus-a-494c2ac6-dfa6-44ae-bcde-5ad817e48286#ref=rss)
+### rheinlandpfalz
 
-* [https://www.spiegel.de/panorama/gesellschaft/sonja-fatma-blaeser-ueber-gewalt-gegen-frauen-irgendwann-ist-er-mit-einem-messer-auf-mich-losgegangen](https://www.spiegel.de/panorama/gesellschaft/sonja-fatma-blaeser-ueber-gewalt-gegen-frauen-irgendwann-ist-er-mit-einem-messer-auf-mich-losgegangen-a-645ba0f4-e6ba-4f21-b42c-9f7ec159d2ef#ref=rss)
-### frauen
+* [https://www.spiegel.de/panorama/flutkatastrophe-in-rheinland-pfalz-350-kilo-munition-aus-dem-2-weltkrieg-freigeschwemmt](https://www.spiegel.de/panorama/flutkatastrophe-in-rheinland-pfalz-350-kilo-munition-aus-dem-2-weltkrieg-freigeschwemmt-a-14ef9c83-1bf9-4b7c-ae9e-d53fb56a8954#ref=rss)
+### weltkrieg
 
-* [https://www.spiegel.de/panorama/gesellschaft/sonja-fatma-blaeser-ueber-gewalt-gegen-frauen-irgendwann-ist-er-mit-einem-messer-auf-mich-losgegangen](https://www.spiegel.de/panorama/gesellschaft/sonja-fatma-blaeser-ueber-gewalt-gegen-frauen-irgendwann-ist-er-mit-einem-messer-auf-mich-losgegangen-a-645ba0f4-e6ba-4f21-b42c-9f7ec159d2ef#ref=rss)
-### dessen
+* [https://www.spiegel.de/panorama/flutkatastrophe-in-rheinland-pfalz-350-kilo-munition-aus-dem-2-weltkrieg-freigeschwemmt](https://www.spiegel.de/panorama/flutkatastrophe-in-rheinland-pfalz-350-kilo-munition-aus-dem-2-weltkrieg-freigeschwemmt-a-14ef9c83-1bf9-4b7c-ae9e-d53fb56a8954#ref=rss)
+### wolf
 
-* [https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht](https://www.spiegel.de/ausland/afghanistan-taliban-im-praesidentenpalast-in-kabul-angekommen-im-zentrum-der-macht-a-c457bf24-0c3c-4cdb-839b-250f53f9f4e1#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/qualcomm-smartphone-for-snapdragon-insiders-im-test-von-allem-das-beste](https://www.spiegel.de/netzwelt/gadgets/qualcomm-smartphone-for-snapdragon-insiders-im-test-von-allem-das-beste-a-81114883-25b5-40d7-9d56-b98453fe0db7#ref=rss)
-### qualcomm
+* [https://www.spiegel.de/wirtschaft/soziales/rente-mit-70-gesamtmetall-praesident-stefan-wolf-erwaegt-noch-spaeteres-eintrittsalter](https://www.spiegel.de/wirtschaft/soziales/rente-mit-70-gesamtmetall-praesident-stefan-wolf-erwaegt-noch-spaeteres-eintrittsalter-a-6a50c6a5-4500-4072-ab0b-9110ed2bbfd1#ref=rss)
+### entwicklungshilfe
 
-* [https://www.spiegel.de/netzwelt/gadgets/qualcomm-smartphone-for-snapdragon-insiders-im-test-von-allem-das-beste](https://www.spiegel.de/netzwelt/gadgets/qualcomm-smartphone-for-snapdragon-insiders-im-test-von-allem-das-beste-a-81114883-25b5-40d7-9d56-b98453fe0db7#ref=rss)
-### smartphone
-
-* [https://www.spiegel.de/netzwelt/gadgets/qualcomm-smartphone-for-snapdragon-insiders-im-test-von-allem-das-beste](https://www.spiegel.de/netzwelt/gadgets/qualcomm-smartphone-for-snapdragon-insiders-im-test-von-allem-das-beste-a-81114883-25b5-40d7-9d56-b98453fe0db7#ref=rss)
-### test
-
-* [https://www.spiegel.de/netzwelt/gadgets/qualcomm-smartphone-for-snapdragon-insiders-im-test-von-allem-das-beste](https://www.spiegel.de/netzwelt/gadgets/qualcomm-smartphone-for-snapdragon-insiders-im-test-von-allem-das-beste-a-81114883-25b5-40d7-9d56-b98453fe0db7#ref=rss)
-### ulm
-
-* [https://www.spiegel.de/panorama/justiz/ulm-hundertfacher-sexueller-missbrauch-angeklagter-legt-teilgestaendnis-ab](https://www.spiegel.de/panorama/justiz/ulm-hundertfacher-sexueller-missbrauch-angeklagter-legt-teilgestaendnis-ab-a-a803423e-2a16-4d68-aba2-005b50f62a47#ref=rss)
-### alex
-
-* [https://www.spiegel.de/familie/longboarden-alex-brettert-los-dein-spiegel-podcast](https://www.spiegel.de/familie/longboarden-alex-brettert-los-dein-spiegel-podcast-a-44138d8d-3d6f-40fd-bd46-b5d1edc4ff90#ref=rss)
-### coronaimpfungen
-
-* [https://www.spiegel.de/panorama/bildung/corona-impfungen-fuer-kinder-gruene-fordern-schulhof-impfen](https://www.spiegel.de/panorama/bildung/corona-impfungen-fuer-kinder-gruene-fordern-schulhof-impfen-a-e9e47391-2fc6-48dd-91f8-f22dc0249b85#ref=rss)
-### verzweifelt
-
-* [https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest](https://www.spiegel.de/ausland/flughafen-kabul-afghanen-klammern-sich-verzweifelt-an-flugzeugen-fest-a-d6b8b86b-0e3d-4631-a5d5-d4b26f386d1d#ref=rss)
-### quentin
-
-* [https://www.spiegel.de/panorama/leute/quentin-tarantino-gibt-seiner-mutter-nichts-von-seinem-reichtum-ab-das-sagt-sie-dazu](https://www.spiegel.de/panorama/leute/quentin-tarantino-gibt-seiner-mutter-nichts-von-seinem-reichtum-ab-das-sagt-sie-dazu-a-c9f0d747-371f-413f-bce3-f81eda1145bb#ref=rss)
-### tarantino
-
-* [https://www.spiegel.de/panorama/leute/quentin-tarantino-gibt-seiner-mutter-nichts-von-seinem-reichtum-ab-das-sagt-sie-dazu](https://www.spiegel.de/panorama/leute/quentin-tarantino-gibt-seiner-mutter-nichts-von-seinem-reichtum-ab-das-sagt-sie-dazu-a-c9f0d747-371f-413f-bce3-f81eda1145bb#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/leute/quentin-tarantino-gibt-seiner-mutter-nichts-von-seinem-reichtum-ab-das-sagt-sie-dazu](https://www.spiegel.de/panorama/leute/quentin-tarantino-gibt-seiner-mutter-nichts-von-seinem-reichtum-ab-das-sagt-sie-dazu-a-c9f0d747-371f-413f-bce3-f81eda1145bb#ref=rss)
-### minijobber
-
-* [https://www.spiegel.de/wirtschaft/soziales/zahl-der-minijobber-steigt-wieder-deutlich](https://www.spiegel.de/wirtschaft/soziales/zahl-der-minijobber-steigt-wieder-deutlich-a-471faeaf-78b6-4694-890a-22b9fca42eab#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen](https://www.spiegel.de/ausland/afghanistan-news-update-evakuierungsfluege-aus-kabul-offenbar-wieder-aufgenommen-a-281c4629-7258-46ed-8695-713aa43d3e03#ref=rss)
 
