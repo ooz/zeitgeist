@@ -6,321 +6,298 @@ tags: __no_header__
 
 ### afghanistan
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben-a-d03d4636-4342-4516-b67a-9454988ab601#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan](https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan-a-3064b4cc-86b7-4557-a943-776540c50220#ref=rss)
-* [https://www.spiegel.de/ausland/evakuierung-aus-afghanistan-giz-verweigert-erwachsenen-soehnen-von-ortskraeften-die-rettung](https://www.spiegel.de/ausland/evakuierung-aus-afghanistan-giz-verweigert-erwachsenen-soehnen-von-ortskraeften-die-rettung-a-1bf89e8c-1e64-49ad-91ae-d0792ba3209c#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-schuesse-in-dschalalabad-taliban-feuern-auf-protestierende-afghanen](https://www.spiegel.de/ausland/afghanistan-schuesse-in-dschalalabad-taliban-feuern-auf-protestierende-afghanen-a-57b9ea46-a212-4277-b2e2-f6ae9f1a454c#ref=rss)
-* [https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte](https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte-a-d7d48540-6ae1-4676-9240-f6384e2c5366#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-news-update-john-bolton-warnt-vor-taliban-und-nuklearen-risiken](https://www.spiegel.de/ausland/afghanistan-news-update-john-bolton-warnt-vor-taliban-und-nuklearen-risiken-a-a201ae3b-2313-4729-aed8-d24345e9bd0e#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige](https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige-a-724bb283-8f0e-494b-84f8-9470f1c1bdea#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-politiker-wenden-sich-gegen-aufnahme-afghanischer-gefluechteter-in-deutschland](https://www.spiegel.de/politik/deutschland/csu-politiker-wenden-sich-gegen-aufnahme-afghanischer-gefluechteter-in-deutschland-a-559479df-6e0f-43bd-9969-2a4ff066f3c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rekonstruktion-des-deutschen-scheiterns-in-afghanistan-wir-machen-uns-abmarschbereit](https://www.spiegel.de/politik/deutschland/rekonstruktion-des-deutschen-scheiterns-in-afghanistan-wir-machen-uns-abmarschbereit-a-77cbaa83-219d-47dd-ba66-71b2f1e5d709#ref=rss)
+* [https://www.spiegel.de/ausland/frauenrechte-in-afghanistan-wir-muessen-seit-2014-mit-taliban-verhandeln-um-maedchen-unterrichten-zu-koennen](https://www.spiegel.de/ausland/frauenrechte-in-afghanistan-wir-muessen-seit-2014-mit-taliban-verhandeln-um-maedchen-unterrichten-zu-koennen-a-736a3b94-9066-49e1-8cb4-0bb3c47ed874#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen](https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen-a-d125bb82-8004-4a96-b2d3-1cf60cda4e41#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte](https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte-a-f4b603d8-079b-4f74-98fc-da4aa6121060#ref=rss)
 ### taliban
 
-* [https://www.spiegel.de/ausland/afghanistan-schuesse-in-dschalalabad-taliban-feuern-auf-protestierende-afghanen](https://www.spiegel.de/ausland/afghanistan-schuesse-in-dschalalabad-taliban-feuern-auf-protestierende-afghanen-a-57b9ea46-a212-4277-b2e2-f6ae9f1a454c#ref=rss)
-* [https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte](https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte-a-d7d48540-6ae1-4676-9240-f6384e2c5366#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-news-update-john-bolton-warnt-vor-taliban-und-nuklearen-risiken](https://www.spiegel.de/ausland/afghanistan-news-update-john-bolton-warnt-vor-taliban-und-nuklearen-risiken-a-a201ae3b-2313-4729-aed8-d24345e9bd0e#ref=rss)
-### söder
+* [https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige](https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige-a-724bb283-8f0e-494b-84f8-9470f1c1bdea#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-politiker-wenden-sich-gegen-aufnahme-afghanischer-gefluechteter-in-deutschland](https://www.spiegel.de/politik/deutschland/csu-politiker-wenden-sich-gegen-aufnahme-afghanischer-gefluechteter-in-deutschland-a-559479df-6e0f-43bd-9969-2a4ff066f3c1#ref=rss)
+* [https://www.spiegel.de/ausland/frauenrechte-in-afghanistan-wir-muessen-seit-2014-mit-taliban-verhandeln-um-maedchen-unterrichten-zu-koennen](https://www.spiegel.de/ausland/frauenrechte-in-afghanistan-wir-muessen-seit-2014-mit-taliban-verhandeln-um-maedchen-unterrichten-zu-koennen-a-736a3b94-9066-49e1-8cb4-0bb3c47ed874#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte](https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte-a-f4b603d8-079b-4f74-98fc-da4aa6121060#ref=rss)
+### timanowskaja
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben-a-d03d4636-4342-4516-b67a-9454988ab601#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan](https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan-a-3064b4cc-86b7-4557-a943-776540c50220#ref=rss)
-### sagt
+* [https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben](https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben-a-16857ea9-8e38-4b9b-a1f8-5effe82e451e#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen](https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen-a-f90a1109-c068-44a6-aebc-6ee07d5fb3e1#ref=rss)
+### mann
 
-* [https://www.spiegel.de/kultur/musik/britney-spears-und-der-erbitterte-streit-ueber-ihre-vormundschaft-was-ist-wirklich-passiert](https://www.spiegel.de/kultur/musik/britney-spears-und-der-erbitterte-streit-ueber-ihre-vormundschaft-was-ist-wirklich-passiert-a-bacead81-dc8a-4317-87c5-528c40163526#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan](https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan-a-3064b4cc-86b7-4557-a943-776540c50220#ref=rss)
-* [https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen](https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen-a-3a939663-6df6-4e2e-9208-fc36b915ccdc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/christian-drosten-haelt-corona-auffrischimpfung-im-herbst-nur-bei-bestimmten-risikopatienten-sinnvoll](https://www.spiegel.de/wissenschaft/medizin/christian-drosten-haelt-corona-auffrischimpfung-im-herbst-nur-bei-bestimmten-risikopatienten-sinnvoll-a-3a856c73-5c2f-41bc-9eaf-7c3c1b370827#ref=rss)
-### markus
+* [https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus](https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus-a-942e2914-82b3-4b8a-b36c-2ab8d240a3b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/singapur-verstoss-gegen-maskenpflicht-sechs-wochen-haft-fuer-briten](https://www.spiegel.de/panorama/justiz/singapur-verstoss-gegen-maskenpflicht-sechs-wochen-haft-fuer-briten-a-2ae34003-e1e1-4af8-a494-73211f801470#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen](https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen-a-f90a1109-c068-44a6-aebc-6ee07d5fb3e1#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben-a-d03d4636-4342-4516-b67a-9454988ab601#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan](https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan-a-3064b4cc-86b7-4557-a943-776540c50220#ref=rss)
-### ortskräfte
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben-a-d03d4636-4342-4516-b67a-9454988ab601#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-bundeswehr-plante-vor-abzug-charterfluege-fuer-ortskraefte](https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-bundeswehr-plante-vor-abzug-charterfluege-fuer-ortskraefte-a-f1739205-f3dd-441c-b3e4-b4d25615edae#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben-a-d03d4636-4342-4516-b67a-9454988ab601#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-bundeswehr-plante-vor-abzug-charterfluege-fuer-ortskraefte](https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-bundeswehr-plante-vor-abzug-charterfluege-fuer-ortskraefte-a-f1739205-f3dd-441c-b3e4-b4d25615edae#ref=rss)
+* [https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus](https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus-a-942e2914-82b3-4b8a-b36c-2ab8d240a3b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt](https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt-a-2e8bb39f-1596-47c2-8607-10bd635e6823#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/soziales/konzerne-schliessen-milliardenvertrag-fuer-atommuell](https://www.spiegel.de/wirtschaft/soziales/konzerne-schliessen-milliardenvertrag-fuer-atommuell-a-a2301eb9-6de0-465c-86d2-26de07d5a987#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent](https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent-a-668390db-fb9a-416c-9bf2-4cb8c88f4461#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/buergerrechtler-zu-apple-durchsucht-unsere-telefone-nicht](https://www.spiegel.de/netzwelt/gadgets/buergerrechtler-zu-apple-durchsucht-unsere-telefone-nicht-a-2dbd317f-acff-42b6-95c0-fea48c15009d#ref=rss)
-### mädchen
+* [https://www.spiegel.de/wissenschaft/klima-abholzung-des-amazonas-regenwalds-erreicht-rekordniveau](https://www.spiegel.de/wissenschaft/klima-abholzung-des-amazonas-regenwalds-erreicht-rekordniveau-a-e0bb6a40-42ee-4ecf-b7e4-8c5be33ddf00#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-will-offenbar-kaufhaeuser-in-den-usa-eroeffnen](https://www.spiegel.de/wirtschaft/unternehmen/amazon-will-offenbar-kaufhaeuser-in-den-usa-eroeffnen-a-f2cac531-6821-4f2d-a14a-d180ba347455#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dann-bist-du-ein-idiot](https://www.spiegel.de/sport/fussball/dann-bist-du-ein-idiot-a-48067b10-ab94-4133-8a80-eb7cc9d292eb#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/israel-homosexuelle-maenner-duerfen-uneingeschraenkt-blut-spenden](https://www.spiegel.de/panorama/gesellschaft/israel-homosexuelle-maenner-duerfen-uneingeschraenkt-blut-spenden-a-502ec2cc-4ad6-4a1f-ae22-b046f9e51943#ref=rss)
+### neues
 
-* [https://www.spiegel.de/panorama/mallorca-kleines-maedchen-aus-deutschland-stuerzt-drei-meter-tief-in-gully](https://www.spiegel.de/panorama/mallorca-kleines-maedchen-aus-deutschland-stuerzt-drei-meter-tief-in-gully-a-de0cb52c-5974-417a-b5ed-af4bfe1c913a#ref=rss)
-* [https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte](https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte-a-d7d48540-6ae1-4676-9240-f6384e2c5366#ref=rss)
-### entwicklungshelfer
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-will-offenbar-kaufhaeuser-in-den-usa-eroeffnen](https://www.spiegel.de/wirtschaft/unternehmen/amazon-will-offenbar-kaufhaeuser-in-den-usa-eroeffnen-a-f2cac531-6821-4f2d-a14a-d180ba347455#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen](https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen-a-f90a1109-c068-44a6-aebc-6ee07d5fb3e1#ref=rss)
+* [https://www.spiegel.de/kultur/helge-schneider-ich-erlebe-unsere-zeit-als-ziemlich-unfrei](https://www.spiegel.de/kultur/helge-schneider-ich-erlebe-unsere-zeit-als-ziemlich-unfrei-a-7172b1d8-7e5f-4b59-a001-b3d5336e9976#ref=rss)
+### facebook
 
-* [https://www.spiegel.de/ausland/evakuierung-aus-afghanistan-giz-verweigert-erwachsenen-soehnen-von-ortskraeften-die-rettung](https://www.spiegel.de/ausland/evakuierung-aus-afghanistan-giz-verweigert-erwachsenen-soehnen-von-ortskraeften-die-rettung-a-1bf89e8c-1e64-49ad-91ae-d0792ba3209c#ref=rss)
-* [https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte](https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte-a-d7d48540-6ae1-4676-9240-f6384e2c5366#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/panorama/justiz/muelheim-in-nrw-150-polizisten-gehen-gegen-clan-kriminalitaet-vor](https://www.spiegel.de/panorama/justiz/muelheim-in-nrw-150-polizisten-gehen-gegen-clan-kriminalitaet-vor-a-14004a69-8aa6-4366-9f28-4bf57fafef4a#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-kalifornien-viele-ortschaften-bedroht-10-000-feuerwehrleute-im-einsatz](https://www.spiegel.de/panorama/waldbraende-in-kalifornien-viele-ortschaften-bedroht-10-000-feuerwehrleute-im-einsatz-a-caf94c82-6291-4ef0-9589-9a428c7742fe#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/leute/miranda-kerr-ueber-freundschaft-zu-katy-perry-ich-liebe-sie](https://www.spiegel.de/panorama/leute/miranda-kerr-ueber-freundschaft-zu-katy-perry-ich-liebe-sie-a-dd7a9c55-b8b5-44ed-a084-59506ac0b332#ref=rss)
-* [https://www.spiegel.de/ausland/faschismus-in-italien-ich-lebe-unter-polizeischutz-weil-ich-ueber-neofaschisten-schreibe](https://www.spiegel.de/ausland/faschismus-in-italien-ich-lebe-unter-polizeischutz-weil-ich-ueber-neofaschisten-schreibe-a-d88004b3-d7fb-4a2c-80e4-3d68dc6e9860#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/bildung/corona-krise-kinder-und-jugendaerzte-sehen-impfungen-an-schulen-kritisch](https://www.spiegel.de/panorama/bildung/corona-krise-kinder-und-jugendaerzte-sehen-impfungen-an-schulen-kritisch-a-7afd8841-b893-48ad-b96b-0407c4cd6562#ref=rss)
-* [https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte](https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte-a-d7d48540-6ae1-4676-9240-f6384e2c5366#ref=rss)
-### schnelle
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben-a-d03d4636-4342-4516-b67a-9454988ab601#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mangelwirtschaft-grosse-mehrheit-der-firmen-beklagt-engpaesse-und-steigende-preise](https://www.spiegel.de/wirtschaft/unternehmen/mangelwirtschaft-grosse-mehrheit-der-firmen-beklagt-engpaesse-und-steigende-preise-a-ca81238b-2b7e-4f15-bf81-03d5d18f169e#ref=rss)
-### umfragewerte
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben-a-d03d4636-4342-4516-b67a-9454988ab601#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan](https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan-a-3064b4cc-86b7-4557-a943-776540c50220#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben-a-d03d4636-4342-4516-b67a-9454988ab601#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan](https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan-a-3064b4cc-86b7-4557-a943-776540c50220#ref=rss)
-### bezeichnet
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben](https://www.spiegel.de/politik/deutschland/bundestagswahl-markus-soeder-csu-will-heiko-maas-spd-nicht-in-einer-neuen-regierung-haben-a-d03d4636-4342-4516-b67a-9454988ab601#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/christian-drosten-haelt-corona-auffrischimpfung-im-herbst-nur-bei-bestimmten-risikopatienten-sinnvoll](https://www.spiegel.de/wissenschaft/medizin/christian-drosten-haelt-corona-auffrischimpfung-im-herbst-nur-bei-bestimmten-risikopatienten-sinnvoll-a-3a856c73-5c2f-41bc-9eaf-7c3c1b370827#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/kultur/musik/britney-spears-und-der-erbitterte-streit-ueber-ihre-vormundschaft-was-ist-wirklich-passiert](https://www.spiegel.de/kultur/musik/britney-spears-und-der-erbitterte-streit-ueber-ihre-vormundschaft-was-ist-wirklich-passiert-a-bacead81-dc8a-4317-87c5-528c40163526#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-news-update-john-bolton-warnt-vor-taliban-und-nuklearen-risiken](https://www.spiegel.de/ausland/afghanistan-news-update-john-bolton-warnt-vor-taliban-und-nuklearen-risiken-a-a201ae3b-2313-4729-aed8-d24345e9bd0e#ref=rss)
-### märchen
-
-* [https://www.spiegel.de/kultur/musik/britney-spears-und-der-erbitterte-streit-ueber-ihre-vormundschaft-was-ist-wirklich-passiert](https://www.spiegel.de/kultur/musik/britney-spears-und-der-erbitterte-streit-ueber-ihre-vormundschaft-was-ist-wirklich-passiert-a-bacead81-dc8a-4317-87c5-528c40163526#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/siegfried-lenz-maerchen-florian-der-karpfen-erscheint-erstmals](https://www.spiegel.de/kultur/literatur/siegfried-lenz-maerchen-florian-der-karpfen-erscheint-erstmals-a-c040fc0b-7725-474c-ba9e-222c3bbb59a9#ref=rss)
-### scheint
-
-* [https://www.spiegel.de/kultur/musik/britney-spears-und-der-erbitterte-streit-ueber-ihre-vormundschaft-was-ist-wirklich-passiert](https://www.spiegel.de/kultur/musik/britney-spears-und-der-erbitterte-streit-ueber-ihre-vormundschaft-was-ist-wirklich-passiert-a-bacead81-dc8a-4317-87c5-528c40163526#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilienpreise-steigen-kaum-noch](https://www.spiegel.de/wirtschaft/service/immobilienpreise-steigen-kaum-noch-a-30c07a2b-964b-4578-969f-87759857f554#ref=rss)
-### atommüll
-
-* [https://www.spiegel.de/wirtschaft/soziales/konzerne-schliessen-milliardenvertrag-fuer-atommuell](https://www.spiegel.de/wirtschaft/soziales/konzerne-schliessen-milliardenvertrag-fuer-atommuell-a-a2301eb9-6de0-465c-86d2-26de07d5a987#ref=rss)
-### ende
-
-* [https://www.spiegel.de/wirtschaft/soziales/konzerne-schliessen-milliardenvertrag-fuer-atommuell](https://www.spiegel.de/wirtschaft/soziales/konzerne-schliessen-milliardenvertrag-fuer-atommuell-a-a2301eb9-6de0-465c-86d2-26de07d5a987#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-bundeswehr-plante-vor-abzug-charterfluege-fuer-ortskraefte](https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-bundeswehr-plante-vor-abzug-charterfluege-fuer-ortskraefte-a-f1739205-f3dd-441c-b3e4-b4d25615edae#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/soziales/konzerne-schliessen-milliardenvertrag-fuer-atommuell](https://www.spiegel.de/wirtschaft/soziales/konzerne-schliessen-milliardenvertrag-fuer-atommuell-a-a2301eb9-6de0-465c-86d2-26de07d5a987#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent](https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent-a-668390db-fb9a-416c-9bf2-4cb8c88f4461#ref=rss)
-### steigen
-
-* [https://www.spiegel.de/wirtschaft/service/immobilienpreise-steigen-kaum-noch](https://www.spiegel.de/wirtschaft/service/immobilienpreise-steigen-kaum-noch-a-30c07a2b-964b-4578-969f-87759857f554#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent](https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent-a-668390db-fb9a-416c-9bf2-4cb8c88f4461#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wirtschaft/service/immobilienpreise-steigen-kaum-noch](https://www.spiegel.de/wirtschaft/service/immobilienpreise-steigen-kaum-noch-a-30c07a2b-964b-4578-969f-87759857f554#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/sitzordnung-in-der-schule-kann-freundschaften-zwischen-kindern-schaffen](https://www.spiegel.de/panorama/bildung/sitzordnung-in-der-schule-kann-freundschaften-zwischen-kindern-schaffen-a-f4fc8653-11f1-4e93-88b9-09e2ac2a2104#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/boerse-sorgen-vor-strafferer-us-geldpolitik-laesst-kurse-fallen](https://www.spiegel.de/wirtschaft/unternehmen/boerse-sorgen-vor-strafferer-us-geldpolitik-laesst-kurse-fallen-a-031354c6-5009-45f4-8299-ad7b4e7bf3c3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussballquiz-welcher-klub-bestritt-nur-30-bundesligaspiele](https://www.spiegel.de/sport/fussball/fussballquiz-welcher-klub-bestritt-nur-30-bundesligaspiele-a-3baa25ad-57d6-47dc-8506-d5c41183d54a#ref=rss)
-### mallorca
-
-* [https://www.spiegel.de/panorama/mallorca-kleines-maedchen-aus-deutschland-stuerzt-drei-meter-tief-in-gully](https://www.spiegel.de/panorama/mallorca-kleines-maedchen-aus-deutschland-stuerzt-drei-meter-tief-in-gully-a-de0cb52c-5974-417a-b5ed-af4bfe1c913a#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/mallorca-kleines-maedchen-aus-deutschland-stuerzt-drei-meter-tief-in-gully](https://www.spiegel.de/panorama/mallorca-kleines-maedchen-aus-deutschland-stuerzt-drei-meter-tief-in-gully-a-de0cb52c-5974-417a-b5ed-af4bfe1c913a#ref=rss)
-### gully
-
-* [https://www.spiegel.de/panorama/mallorca-kleines-maedchen-aus-deutschland-stuerzt-drei-meter-tief-in-gully](https://www.spiegel.de/panorama/mallorca-kleines-maedchen-aus-deutschland-stuerzt-drei-meter-tief-in-gully-a-de0cb52c-5974-417a-b5ed-af4bfe1c913a#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/panorama/mallorca-kleines-maedchen-aus-deutschland-stuerzt-drei-meter-tief-in-gully](https://www.spiegel.de/panorama/mallorca-kleines-maedchen-aus-deutschland-stuerzt-drei-meter-tief-in-gully-a-de0cb52c-5974-417a-b5ed-af4bfe1c913a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muelheim-in-nrw-150-polizisten-gehen-gegen-clan-kriminalitaet-vor](https://www.spiegel.de/panorama/justiz/muelheim-in-nrw-150-polizisten-gehen-gegen-clan-kriminalitaet-vor-a-14004a69-8aa6-4366-9f28-4bf57fafef4a#ref=rss)
-### sitzordnung
-
-* [https://www.spiegel.de/panorama/bildung/sitzordnung-in-der-schule-kann-freundschaften-zwischen-kindern-schaffen](https://www.spiegel.de/panorama/bildung/sitzordnung-in-der-schule-kann-freundschaften-zwischen-kindern-schaffen-a-f4fc8653-11f1-4e93-88b9-09e2ac2a2104#ref=rss)
-### schule
-
-* [https://www.spiegel.de/panorama/bildung/sitzordnung-in-der-schule-kann-freundschaften-zwischen-kindern-schaffen](https://www.spiegel.de/panorama/bildung/sitzordnung-in-der-schule-kann-freundschaften-zwischen-kindern-schaffen-a-f4fc8653-11f1-4e93-88b9-09e2ac2a2104#ref=rss)
-### freundschaften
-
-* [https://www.spiegel.de/panorama/bildung/sitzordnung-in-der-schule-kann-freundschaften-zwischen-kindern-schaffen](https://www.spiegel.de/panorama/bildung/sitzordnung-in-der-schule-kann-freundschaften-zwischen-kindern-schaffen-a-f4fc8653-11f1-4e93-88b9-09e2ac2a2104#ref=rss)
-### kindern
-
-* [https://www.spiegel.de/panorama/bildung/sitzordnung-in-der-schule-kann-freundschaften-zwischen-kindern-schaffen](https://www.spiegel.de/panorama/bildung/sitzordnung-in-der-schule-kann-freundschaften-zwischen-kindern-schaffen-a-f4fc8653-11f1-4e93-88b9-09e2ac2a2104#ref=rss)
-### schaffen
-
-* [https://www.spiegel.de/panorama/bildung/sitzordnung-in-der-schule-kann-freundschaften-zwischen-kindern-schaffen](https://www.spiegel.de/panorama/bildung/sitzordnung-in-der-schule-kann-freundschaften-zwischen-kindern-schaffen-a-f4fc8653-11f1-4e93-88b9-09e2ac2a2104#ref=rss)
-### trier
-
-* [https://www.spiegel.de/panorama/justiz/trier-mutmasslicher-amokfahrer-will-im-prozess-nicht-aussagen](https://www.spiegel.de/panorama/justiz/trier-mutmasslicher-amokfahrer-will-im-prozess-nicht-aussagen-a-ae2b85e6-a638-40d8-a359-c85bfd752217#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/justiz/trier-mutmasslicher-amokfahrer-will-im-prozess-nicht-aussagen](https://www.spiegel.de/panorama/justiz/trier-mutmasslicher-amokfahrer-will-im-prozess-nicht-aussagen-a-ae2b85e6-a638-40d8-a359-c85bfd752217#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/trier-mutmasslicher-amokfahrer-will-im-prozess-nicht-aussagen](https://www.spiegel.de/panorama/justiz/trier-mutmasslicher-amokfahrer-will-im-prozess-nicht-aussagen-a-ae2b85e6-a638-40d8-a359-c85bfd752217#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-kalifornien-viele-ortschaften-bedroht-10-000-feuerwehrleute-im-einsatz](https://www.spiegel.de/panorama/waldbraende-in-kalifornien-viele-ortschaften-bedroht-10-000-feuerwehrleute-im-einsatz-a-caf94c82-6291-4ef0-9589-9a428c7742fe#ref=rss)
-### 14
-
-* [https://www.spiegel.de/panorama/justiz/trier-mutmasslicher-amokfahrer-will-im-prozess-nicht-aussagen](https://www.spiegel.de/panorama/justiz/trier-mutmasslicher-amokfahrer-will-im-prozess-nicht-aussagen-a-ae2b85e6-a638-40d8-a359-c85bfd752217#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent](https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent-a-668390db-fb9a-416c-9bf2-4cb8c88f4461#ref=rss)
-### siegfried
-
-* [https://www.spiegel.de/kultur/literatur/siegfried-lenz-maerchen-florian-der-karpfen-erscheint-erstmals](https://www.spiegel.de/kultur/literatur/siegfried-lenz-maerchen-florian-der-karpfen-erscheint-erstmals-a-c040fc0b-7725-474c-ba9e-222c3bbb59a9#ref=rss)
-### lenz
-
-* [https://www.spiegel.de/kultur/literatur/siegfried-lenz-maerchen-florian-der-karpfen-erscheint-erstmals](https://www.spiegel.de/kultur/literatur/siegfried-lenz-maerchen-florian-der-karpfen-erscheint-erstmals-a-c040fc0b-7725-474c-ba9e-222c3bbb59a9#ref=rss)
-### florian
-
-* [https://www.spiegel.de/kultur/literatur/siegfried-lenz-maerchen-florian-der-karpfen-erscheint-erstmals](https://www.spiegel.de/kultur/literatur/siegfried-lenz-maerchen-florian-der-karpfen-erscheint-erstmals-a-c040fc0b-7725-474c-ba9e-222c3bbb59a9#ref=rss)
-### karpfen
-
-* [https://www.spiegel.de/kultur/literatur/siegfried-lenz-maerchen-florian-der-karpfen-erscheint-erstmals](https://www.spiegel.de/kultur/literatur/siegfried-lenz-maerchen-florian-der-karpfen-erscheint-erstmals-a-c040fc0b-7725-474c-ba9e-222c3bbb59a9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/facebook-us-regierung-klagt-erneut-auf-zerschlagung](https://www.spiegel.de/wirtschaft/unternehmen/facebook-us-regierung-klagt-erneut-auf-zerschlagung-a-1c0ee4f1-b35d-4877-8c23-3b9c79913b7d#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/facebook-erfindet-second-life-neu](https://www.spiegel.de/netzwelt/web/facebook-erfindet-second-life-neu-a-953b6b0a-ce9b-4dd5-b7a6-700f72a1166a#ref=rss)
 ### lage
 
-* [https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan](https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan-a-3064b4cc-86b7-4557-a943-776540c50220#ref=rss)
-### laut
+* [https://www.spiegel.de/ausland/kabul-bundeswehrgeneral-ueber-lage-vor-ort-hier-spielen-sich-dramatische-szenen-ab](https://www.spiegel.de/ausland/kabul-bundeswehrgeneral-ueber-lage-vor-ort-hier-spielen-sich-dramatische-szenen-ab-a-d118bd32-d142-44e8-adb9-699007ff9aa3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo](https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo-a-dcd94b64-f8e3-4c87-86a8-22d6e55042f6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rekonstruktion-des-deutschen-scheiterns-in-afghanistan-wir-machen-uns-abmarschbereit](https://www.spiegel.de/politik/deutschland/rekonstruktion-des-deutschen-scheiterns-in-afghanistan-wir-machen-uns-abmarschbereit-a-77cbaa83-219d-47dd-ba66-71b2f1e5d709#ref=rss)
+### belarus
 
-* [https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan](https://www.spiegel.de/politik/deutschland/das-sagt-markus-soeder-zur-lage-in-afghanistan-a-3064b4cc-86b7-4557-a943-776540c50220#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mangelwirtschaft-grosse-mehrheit-der-firmen-beklagt-engpaesse-und-steigende-preise](https://www.spiegel.de/wirtschaft/unternehmen/mangelwirtschaft-grosse-mehrheit-der-firmen-beklagt-engpaesse-und-steigende-preise-a-ca81238b-2b7e-4f15-bf81-03d5d18f169e#ref=rss)
-### giz
+* [https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben](https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben-a-16857ea9-8e38-4b9b-a1f8-5effe82e451e#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen](https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen-a-f90a1109-c068-44a6-aebc-6ee07d5fb3e1#ref=rss)
+### kristina
 
-* [https://www.spiegel.de/ausland/evakuierung-aus-afghanistan-giz-verweigert-erwachsenen-soehnen-von-ortskraeften-die-rettung](https://www.spiegel.de/ausland/evakuierung-aus-afghanistan-giz-verweigert-erwachsenen-soehnen-von-ortskraeften-die-rettung-a-1bf89e8c-1e64-49ad-91ae-d0792ba3209c#ref=rss)
-### ortskräften
+* [https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben](https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben-a-16857ea9-8e38-4b9b-a1f8-5effe82e451e#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen](https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen-a-f90a1109-c068-44a6-aebc-6ee07d5fb3e1#ref=rss)
+### unter
 
-* [https://www.spiegel.de/ausland/evakuierung-aus-afghanistan-giz-verweigert-erwachsenen-soehnen-von-ortskraeften-die-rettung](https://www.spiegel.de/ausland/evakuierung-aus-afghanistan-giz-verweigert-erwachsenen-soehnen-von-ortskraeften-die-rettung-a-1bf89e8c-1e64-49ad-91ae-d0792ba3209c#ref=rss)
-### warten
+* [https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben](https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben-a-16857ea9-8e38-4b9b-a1f8-5effe82e451e#ref=rss)
+* [https://www.spiegel.de/ausland/hisbollah-chef-kuendigt-oel-lieferung-aus-iran-fuer-libanon-an](https://www.spiegel.de/ausland/hisbollah-chef-kuendigt-oel-lieferung-aus-iran-fuer-libanon-an-a-bce99de9-851c-477e-b393-ce43b4079dfd#ref=rss)
+* [https://www.spiegel.de/kultur/kino/daniel-craig-hoechste-gage-aller-schauspieler-dank-knives-out](https://www.spiegel.de/kultur/kino/daniel-craig-hoechste-gage-aller-schauspieler-dank-knives-out-a-8f622e5c-32d2-4d32-abb1-81d1dfc805ab#ref=rss)
+### fall
 
-* [https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-bundeswehr-plante-vor-abzug-charterfluege-fuer-ortskraefte](https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-bundeswehr-plante-vor-abzug-charterfluege-fuer-ortskraefte-a-f1739205-f3dd-441c-b3e4-b4d25615edae#ref=rss)
-* [https://www.spiegel.de/start/brexit-britische-studierende-kaempfen-mit-visa-problemen](https://www.spiegel.de/start/brexit-britische-studierende-kaempfen-mit-visa-problemen-a-e2a986d1-8d20-473d-8be9-8d34a2827f33#ref=rss)
+* [https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben](https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben-a-16857ea9-8e38-4b9b-a1f8-5effe82e451e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt](https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt-a-2e8bb39f-1596-47c2-8607-10bd635e6823#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nsu-das-urteil-gegen-andre-e-wird-nochmal-verhandelt](https://www.spiegel.de/panorama/justiz/nsu-das-urteil-gegen-andre-e-wird-nochmal-verhandelt-a-0530104e-76dc-406a-aced-0f1ca8aef5c7#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus](https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus-a-942e2914-82b3-4b8a-b36c-2ab8d240a3b8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-will-offenbar-kaufhaeuser-in-den-usa-eroeffnen](https://www.spiegel.de/wirtschaft/unternehmen/amazon-will-offenbar-kaufhaeuser-in-den-usa-eroeffnen-a-f2cac531-6821-4f2d-a14a-d180ba347455#ref=rss)
+### machtübernahme
+
+* [https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige](https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige-a-724bb283-8f0e-494b-84f8-9470f1c1bdea#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-politiker-wenden-sich-gegen-aufnahme-afghanischer-gefluechteter-in-deutschland](https://www.spiegel.de/politik/deutschland/csu-politiker-wenden-sich-gegen-aufnahme-afghanischer-gefluechteter-in-deutschland-a-559479df-6e0f-43bd-9969-2a4ff066f3c1#ref=rss)
+* [https://www.spiegel.de/ausland/frauenrechte-in-afghanistan-wir-muessen-seit-2014-mit-taliban-verhandeln-um-maedchen-unterrichten-zu-koennen](https://www.spiegel.de/ausland/frauenrechte-in-afghanistan-wir-muessen-seit-2014-mit-taliban-verhandeln-um-maedchen-unterrichten-zu-koennen-a-736a3b94-9066-49e1-8cb4-0bb3c47ed874#ref=rss)
 ### kabul
 
-* [https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-bundeswehr-plante-vor-abzug-charterfluege-fuer-ortskraefte](https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-bundeswehr-plante-vor-abzug-charterfluege-fuer-ortskraefte-a-f1739205-f3dd-441c-b3e4-b4d25615edae#ref=rss)
-* [https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte](https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte-a-d7d48540-6ae1-4676-9240-f6384e2c5366#ref=rss)
-### jalalabad
+* [https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige](https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige-a-724bb283-8f0e-494b-84f8-9470f1c1bdea#ref=rss)
+* [https://www.spiegel.de/ausland/kabul-bundeswehrgeneral-ueber-lage-vor-ort-hier-spielen-sich-dramatische-szenen-ab](https://www.spiegel.de/ausland/kabul-bundeswehrgeneral-ueber-lage-vor-ort-hier-spielen-sich-dramatische-szenen-ab-a-d118bd32-d142-44e8-adb9-699007ff9aa3#ref=rss)
+### alle
 
-* [https://www.spiegel.de/ausland/afghanistan-schuesse-in-dschalalabad-taliban-feuern-auf-protestierende-afghanen](https://www.spiegel.de/ausland/afghanistan-schuesse-in-dschalalabad-taliban-feuern-auf-protestierende-afghanen-a-57b9ea46-a212-4277-b2e2-f6ae9f1a454c#ref=rss)
-### erwarten
+* [https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige](https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige-a-724bb283-8f0e-494b-84f8-9470f1c1bdea#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-impfungen-ist-die-zeit-des-egoismus-gekommen-podcast](https://www.spiegel.de/politik/deutschland/corona-impfungen-ist-die-zeit-des-egoismus-gekommen-podcast-a-07817170-5028-48b9-a2bd-daa7f9af7f48#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen](https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen-a-d125bb82-8004-4a96-b2d3-1cf60cda4e41#ref=rss)
+### land
 
-* [https://www.spiegel.de/ausland/afghanistan-schuesse-in-dschalalabad-taliban-feuern-auf-protestierende-afghanen](https://www.spiegel.de/ausland/afghanistan-schuesse-in-dschalalabad-taliban-feuern-auf-protestierende-afghanen-a-57b9ea46-a212-4277-b2e2-f6ae9f1a454c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mangelwirtschaft-grosse-mehrheit-der-firmen-beklagt-engpaesse-und-steigende-preise](https://www.spiegel.de/wirtschaft/unternehmen/mangelwirtschaft-grosse-mehrheit-der-firmen-beklagt-engpaesse-und-steigende-preise-a-ca81238b-2b7e-4f15-bf81-03d5d18f169e#ref=rss)
-### mülheim
+* [https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige](https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige-a-724bb283-8f0e-494b-84f8-9470f1c1bdea#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen](https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen-a-f90a1109-c068-44a6-aebc-6ee07d5fb3e1#ref=rss)
+* [https://www.spiegel.de/ausland/hisbollah-chef-kuendigt-oel-lieferung-aus-iran-fuer-libanon-an](https://www.spiegel.de/ausland/hisbollah-chef-kuendigt-oel-lieferung-aus-iran-fuer-libanon-an-a-bce99de9-851c-477e-b393-ce43b4079dfd#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/justiz/muelheim-in-nrw-150-polizisten-gehen-gegen-clan-kriminalitaet-vor](https://www.spiegel.de/panorama/justiz/muelheim-in-nrw-150-polizisten-gehen-gegen-clan-kriminalitaet-vor-a-14004a69-8aa6-4366-9f28-4bf57fafef4a#ref=rss)
-### clankriminalität
-
-* [https://www.spiegel.de/panorama/justiz/muelheim-in-nrw-150-polizisten-gehen-gegen-clan-kriminalitaet-vor](https://www.spiegel.de/panorama/justiz/muelheim-in-nrw-150-polizisten-gehen-gegen-clan-kriminalitaet-vor-a-14004a69-8aa6-4366-9f28-4bf57fafef4a#ref=rss)
-### großaufgebot
-
-* [https://www.spiegel.de/panorama/justiz/muelheim-in-nrw-150-polizisten-gehen-gegen-clan-kriminalitaet-vor](https://www.spiegel.de/panorama/justiz/muelheim-in-nrw-150-polizisten-gehen-gegen-clan-kriminalitaet-vor-a-14004a69-8aa6-4366-9f28-4bf57fafef4a#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-kalifornien-viele-ortschaften-bedroht-10-000-feuerwehrleute-im-einsatz](https://www.spiegel.de/panorama/waldbraende-in-kalifornien-viele-ortschaften-bedroht-10-000-feuerwehrleute-im-einsatz-a-caf94c82-6291-4ef0-9589-9a428c7742fe#ref=rss)
-### lana
-
-* [https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen](https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen-a-3a939663-6df6-4e2e-9208-fc36b915ccdc#ref=rss)
-### del
-
-* [https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen](https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen-a-3a939663-6df6-4e2e-9208-fc36b915ccdc#ref=rss)
-### rey
-
-* [https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen](https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen-a-3a939663-6df6-4e2e-9208-fc36b915ccdc#ref=rss)
-### anderson
-
-* [https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen](https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen-a-3a939663-6df6-4e2e-9208-fc36b915ccdc#ref=rss)
-### paak
-
-* [https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen](https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen-a-3a939663-6df6-4e2e-9208-fc36b915ccdc#ref=rss)
-### posthumen
-
-* [https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen](https://www.spiegel.de/kultur/musik/lana-del-rey-und-anderson-paak-keine-posthumen-veroeffentlichungen-a-3a939663-6df6-4e2e-9208-fc36b915ccdc#ref=rss)
-### britische
-
-* [https://www.spiegel.de/start/brexit-britische-studierende-kaempfen-mit-visa-problemen](https://www.spiegel.de/start/brexit-britische-studierende-kaempfen-mit-visa-problemen-a-e2a986d1-8d20-473d-8be9-8d34a2827f33#ref=rss)
-### studierende
-
-* [https://www.spiegel.de/start/brexit-britische-studierende-kaempfen-mit-visa-problemen](https://www.spiegel.de/start/brexit-britische-studierende-kaempfen-mit-visa-problemen-a-e2a986d1-8d20-473d-8be9-8d34a2827f33#ref=rss)
-### kämpfen
-
-* [https://www.spiegel.de/start/brexit-britische-studierende-kaempfen-mit-visa-problemen](https://www.spiegel.de/start/brexit-britische-studierende-kaempfen-mit-visa-problemen-a-e2a986d1-8d20-473d-8be9-8d34a2827f33#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/mangelwirtschaft-grosse-mehrheit-der-firmen-beklagt-engpaesse-und-steigende-preise](https://www.spiegel.de/wirtschaft/unternehmen/mangelwirtschaft-grosse-mehrheit-der-firmen-beklagt-engpaesse-und-steigende-preise-a-ca81238b-2b7e-4f15-bf81-03d5d18f169e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klima-abholzung-des-amazonas-regenwalds-erreicht-rekordniveau](https://www.spiegel.de/wissenschaft/klima-abholzung-des-amazonas-regenwalds-erreicht-rekordniveau-a-e0bb6a40-42ee-4ecf-b7e4-8c5be33ddf00#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/mongolen-krieger-archaeologen-entschluesseln-das-geheimnis-der-dschingis-khan-diaet](https://www.spiegel.de/wissenschaft/mensch/mongolen-krieger-archaeologen-entschluesseln-das-geheimnis-der-dschingis-khan-diaet-a-99573629-ecd2-4fd0-9d8a-ced46f561fbd#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/facebook-erfindet-second-life-neu](https://www.spiegel.de/netzwelt/web/facebook-erfindet-second-life-neu-a-953b6b0a-ce9b-4dd5-b7a6-700f72a1166a#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/start/brexit-britische-studierende-kaempfen-mit-visa-problemen](https://www.spiegel.de/start/brexit-britische-studierende-kaempfen-mit-visa-problemen-a-e2a986d1-8d20-473d-8be9-8d34a2827f33#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-news-update-john-bolton-warnt-vor-taliban-und-nuklearen-risiken](https://www.spiegel.de/ausland/afghanistan-news-update-john-bolton-warnt-vor-taliban-und-nuklearen-risiken-a-a201ae3b-2313-4729-aed8-d24345e9bd0e#ref=rss)
-### 2020
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-will-offenbar-kaufhaeuser-in-den-usa-eroeffnen](https://www.spiegel.de/wirtschaft/unternehmen/amazon-will-offenbar-kaufhaeuser-in-den-usa-eroeffnen-a-f2cac531-6821-4f2d-a14a-d180ba347455#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt](https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt-a-2e8bb39f-1596-47c2-8607-10bd635e6823#ref=rss)
+* [https://www.spiegel.de/kultur/kino/daniel-craig-hoechste-gage-aller-schauspieler-dank-knives-out](https://www.spiegel.de/kultur/kino/daniel-craig-hoechste-gage-aller-schauspieler-dank-knives-out-a-8f622e5c-32d2-4d32-abb1-81d1dfc805ab#ref=rss)
+### wir
 
-* [https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent](https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent-a-668390db-fb9a-416c-9bf2-4cb8c88f4461#ref=rss)
-### 65
+* [https://www.spiegel.de/sport/fussball/dann-bist-du-ein-idiot](https://www.spiegel.de/sport/fussball/dann-bist-du-ein-idiot-a-48067b10-ab94-4133-8a80-eb7cc9d292eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rekonstruktion-des-deutschen-scheiterns-in-afghanistan-wir-machen-uns-abmarschbereit](https://www.spiegel.de/politik/deutschland/rekonstruktion-des-deutschen-scheiterns-in-afghanistan-wir-machen-uns-abmarschbereit-a-77cbaa83-219d-47dd-ba66-71b2f1e5d709#ref=rss)
+* [https://www.spiegel.de/ausland/frauenrechte-in-afghanistan-wir-muessen-seit-2014-mit-taliban-verhandeln-um-maedchen-unterrichten-zu-koennen](https://www.spiegel.de/ausland/frauenrechte-in-afghanistan-wir-muessen-seit-2014-mit-taliban-verhandeln-um-maedchen-unterrichten-zu-koennen-a-736a3b94-9066-49e1-8cb4-0bb3c47ed874#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent](https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent-a-668390db-fb9a-416c-9bf2-4cb8c88f4461#ref=rss)
-### prozent
+* [https://www.spiegel.de/politik/deutschland/csu-politiker-wenden-sich-gegen-aufnahme-afghanischer-gefluechteter-in-deutschland](https://www.spiegel.de/politik/deutschland/csu-politiker-wenden-sich-gegen-aufnahme-afghanischer-gefluechteter-in-deutschland-a-559479df-6e0f-43bd-9969-2a4ff066f3c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen](https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen-a-d125bb82-8004-4a96-b2d3-1cf60cda4e41#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent](https://www.spiegel.de/wirtschaft/soziales/sozialhilfeausgaben-steigen-2020-um-6-5-prozent-a-668390db-fb9a-416c-9bf2-4cb8c88f4461#ref=rss)
-### anthony
+* [https://www.spiegel.de/ausland/kabul-bundeswehrgeneral-ueber-lage-vor-ort-hier-spielen-sich-dramatische-szenen-ab](https://www.spiegel.de/ausland/kabul-bundeswehrgeneral-ueber-lage-vor-ort-hier-spielen-sich-dramatische-szenen-ab-a-d118bd32-d142-44e8-adb9-699007ff9aa3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rekonstruktion-des-deutschen-scheiterns-in-afghanistan-wir-machen-uns-abmarschbereit](https://www.spiegel.de/politik/deutschland/rekonstruktion-des-deutschen-scheiterns-in-afghanistan-wir-machen-uns-abmarschbereit-a-77cbaa83-219d-47dd-ba66-71b2f1e5d709#ref=rss)
+### ortskräfte
 
-* [https://www.spiegel.de/kultur/kino/marvel-filme-anthony-mackie-soll-auch-im-kino-captain-america-spielen](https://www.spiegel.de/kultur/kino/marvel-filme-anthony-mackie-soll-auch-im-kino-captain-america-spielen-a-381f1c64-2105-4938-9cc3-eb0681e405ed#ref=rss)
-### mackie
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo](https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo-a-dcd94b64-f8e3-4c87-86a8-22d6e55042f6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen](https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen-a-d125bb82-8004-4a96-b2d3-1cf60cda4e41#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte](https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte-a-f4b603d8-079b-4f74-98fc-da4aa6121060#ref=rss)
+### verbietet
 
-* [https://www.spiegel.de/kultur/kino/marvel-filme-anthony-mackie-soll-auch-im-kino-captain-america-spielen](https://www.spiegel.de/kultur/kino/marvel-filme-anthony-mackie-soll-auch-im-kino-captain-america-spielen-a-381f1c64-2105-4938-9cc3-eb0681e405ed#ref=rss)
-### kino
+* [https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben](https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben-a-16857ea9-8e38-4b9b-a1f8-5effe82e451e#ref=rss)
+### flucht
 
-* [https://www.spiegel.de/kultur/kino/marvel-filme-anthony-mackie-soll-auch-im-kino-captain-america-spielen](https://www.spiegel.de/kultur/kino/marvel-filme-anthony-mackie-soll-auch-im-kino-captain-america-spielen-a-381f1c64-2105-4938-9cc3-eb0681e405ed#ref=rss)
-### captain
+* [https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben](https://www.spiegel.de/sport/olympia/belarus-sportministerium-verbietet-teilnahme-an-internationalen-wettbewerben-a-16857ea9-8e38-4b9b-a1f8-5effe82e451e#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen](https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen-a-f90a1109-c068-44a6-aebc-6ee07d5fb3e1#ref=rss)
+### bombendrohung
 
-* [https://www.spiegel.de/kultur/kino/marvel-filme-anthony-mackie-soll-auch-im-kino-captain-america-spielen](https://www.spiegel.de/kultur/kino/marvel-filme-anthony-mackie-soll-auch-im-kino-captain-america-spielen-a-381f1c64-2105-4938-9cc3-eb0681e405ed#ref=rss)
-### america
+* [https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus](https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus-a-942e2914-82b3-4b8a-b36c-2ab8d240a3b8#ref=rss)
+### nahe
 
-* [https://www.spiegel.de/kultur/kino/marvel-filme-anthony-mackie-soll-auch-im-kino-captain-america-spielen](https://www.spiegel.de/kultur/kino/marvel-filme-anthony-mackie-soll-auch-im-kino-captain-america-spielen-a-381f1c64-2105-4938-9cc3-eb0681e405ed#ref=rss)
-### sehen
+* [https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus](https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus-a-942e2914-82b3-4b8a-b36c-2ab8d240a3b8#ref=rss)
+### großeinsatz
 
-* [https://www.spiegel.de/kultur/kino/marvel-filme-anthony-mackie-soll-auch-im-kino-captain-america-spielen](https://www.spiegel.de/kultur/kino/marvel-filme-anthony-mackie-soll-auch-im-kino-captain-america-spielen-a-381f1c64-2105-4938-9cc3-eb0681e405ed#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/corona-krise-kinder-und-jugendaerzte-sehen-impfungen-an-schulen-kritisch](https://www.spiegel.de/panorama/bildung/corona-krise-kinder-und-jugendaerzte-sehen-impfungen-an-schulen-kritisch-a-7afd8841-b893-48ad-b96b-0407c4cd6562#ref=rss)
-### apple
+* [https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus](https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus-a-942e2914-82b3-4b8a-b36c-2ab8d240a3b8#ref=rss)
+### auto
 
-* [https://www.spiegel.de/netzwelt/gadgets/buergerrechtler-zu-apple-durchsucht-unsere-telefone-nicht](https://www.spiegel.de/netzwelt/gadgets/buergerrechtler-zu-apple-durchsucht-unsere-telefone-nicht-a-2dbd317f-acff-42b6-95c0-fea48c15009d#ref=rss)
-### miranda
+* [https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus](https://www.spiegel.de/ausland/usa-mann-loest-mit-bombendrohung-nahe-dem-us-kapitol-grosseinsatz-der-polizei-aus-a-942e2914-82b3-4b8a-b36c-2ab8d240a3b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo](https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo-a-dcd94b64-f8e3-4c87-86a8-22d6e55042f6#ref=rss)
+### g7staaten
 
-* [https://www.spiegel.de/panorama/leute/miranda-kerr-ueber-freundschaft-zu-katy-perry-ich-liebe-sie](https://www.spiegel.de/panorama/leute/miranda-kerr-ueber-freundschaft-zu-katy-perry-ich-liebe-sie-a-dd7a9c55-b8b5-44ed-a084-59506ac0b332#ref=rss)
-### kerr
+* [https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige](https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige-a-724bb283-8f0e-494b-84f8-9470f1c1bdea#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/panorama/leute/miranda-kerr-ueber-freundschaft-zu-katy-perry-ich-liebe-sie](https://www.spiegel.de/panorama/leute/miranda-kerr-ueber-freundschaft-zu-katy-perry-ich-liebe-sie-a-dd7a9c55-b8b5-44ed-a084-59506ac0b332#ref=rss)
-### katy
+* [https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige](https://www.spiegel.de/ausland/afghanistan-g7-staaten-fordern-von-taliban-sicherheitsgarantien-fuer-ausreisewillige-a-724bb283-8f0e-494b-84f8-9470f1c1bdea#ref=rss)
+* [https://www.spiegel.de/ausland/kabul-bundeswehrgeneral-ueber-lage-vor-ort-hier-spielen-sich-dramatische-szenen-ab](https://www.spiegel.de/ausland/kabul-bundeswehrgeneral-ueber-lage-vor-ort-hier-spielen-sich-dramatische-szenen-ab-a-d118bd32-d142-44e8-adb9-699007ff9aa3#ref=rss)
+### abholzung
 
-* [https://www.spiegel.de/panorama/leute/miranda-kerr-ueber-freundschaft-zu-katy-perry-ich-liebe-sie](https://www.spiegel.de/panorama/leute/miranda-kerr-ueber-freundschaft-zu-katy-perry-ich-liebe-sie-a-dd7a9c55-b8b5-44ed-a084-59506ac0b332#ref=rss)
-### perry
+* [https://www.spiegel.de/wissenschaft/klima-abholzung-des-amazonas-regenwalds-erreicht-rekordniveau](https://www.spiegel.de/wissenschaft/klima-abholzung-des-amazonas-regenwalds-erreicht-rekordniveau-a-e0bb6a40-42ee-4ecf-b7e4-8c5be33ddf00#ref=rss)
+### amazon
 
-* [https://www.spiegel.de/panorama/leute/miranda-kerr-ueber-freundschaft-zu-katy-perry-ich-liebe-sie](https://www.spiegel.de/panorama/leute/miranda-kerr-ueber-freundschaft-zu-katy-perry-ich-liebe-sie-a-dd7a9c55-b8b5-44ed-a084-59506ac0b332#ref=rss)
-### kinder
+* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-will-offenbar-kaufhaeuser-in-den-usa-eroeffnen](https://www.spiegel.de/wirtschaft/unternehmen/amazon-will-offenbar-kaufhaeuser-in-den-usa-eroeffnen-a-f2cac531-6821-4f2d-a14a-d180ba347455#ref=rss)
+### halterin
 
-* [https://www.spiegel.de/panorama/bildung/corona-krise-kinder-und-jugendaerzte-sehen-impfungen-an-schulen-kritisch](https://www.spiegel.de/panorama/bildung/corona-krise-kinder-und-jugendaerzte-sehen-impfungen-an-schulen-kritisch-a-7afd8841-b893-48ad-b96b-0407c4cd6562#ref=rss)
-### firmen
+* [https://www.spiegel.de/panorama/london-halterin-will-todesurteil-fuer-alpaka-geronimo-nicht-akzeptieren](https://www.spiegel.de/panorama/london-halterin-will-todesurteil-fuer-alpaka-geronimo-nicht-akzeptieren-a-4fdd6210-e951-4439-8ec6-fbae5412c096#ref=rss)
+### todesurteil
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/mangelwirtschaft-grosse-mehrheit-der-firmen-beklagt-engpaesse-und-steigende-preise](https://www.spiegel.de/wirtschaft/unternehmen/mangelwirtschaft-grosse-mehrheit-der-firmen-beklagt-engpaesse-und-steigende-preise-a-ca81238b-2b7e-4f15-bf81-03d5d18f169e#ref=rss)
-### christian
+* [https://www.spiegel.de/panorama/london-halterin-will-todesurteil-fuer-alpaka-geronimo-nicht-akzeptieren](https://www.spiegel.de/panorama/london-halterin-will-todesurteil-fuer-alpaka-geronimo-nicht-akzeptieren-a-4fdd6210-e951-4439-8ec6-fbae5412c096#ref=rss)
+### geronimo
 
-* [https://www.spiegel.de/wissenschaft/medizin/christian-drosten-haelt-corona-auffrischimpfung-im-herbst-nur-bei-bestimmten-risikopatienten-sinnvoll](https://www.spiegel.de/wissenschaft/medizin/christian-drosten-haelt-corona-auffrischimpfung-im-herbst-nur-bei-bestimmten-risikopatienten-sinnvoll-a-3a856c73-5c2f-41bc-9eaf-7c3c1b370827#ref=rss)
-### drosten
+* [https://www.spiegel.de/panorama/london-halterin-will-todesurteil-fuer-alpaka-geronimo-nicht-akzeptieren](https://www.spiegel.de/panorama/london-halterin-will-todesurteil-fuer-alpaka-geronimo-nicht-akzeptieren-a-4fdd6210-e951-4439-8ec6-fbae5412c096#ref=rss)
+### leben
 
-* [https://www.spiegel.de/wissenschaft/medizin/christian-drosten-haelt-corona-auffrischimpfung-im-herbst-nur-bei-bestimmten-risikopatienten-sinnvoll](https://www.spiegel.de/wissenschaft/medizin/christian-drosten-haelt-corona-auffrischimpfung-im-herbst-nur-bei-bestimmten-risikopatienten-sinnvoll-a-3a856c73-5c2f-41bc-9eaf-7c3c1b370827#ref=rss)
-### herbst
+* [https://www.spiegel.de/panorama/london-halterin-will-todesurteil-fuer-alpaka-geronimo-nicht-akzeptieren](https://www.spiegel.de/panorama/london-halterin-will-todesurteil-fuer-alpaka-geronimo-nicht-akzeptieren-a-4fdd6210-e951-4439-8ec6-fbae5412c096#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen](https://www.spiegel.de/ausland/belarus-kristina-timanowskaja-will-polnische-staatsangehoerigkeit-beantragen-a-f90a1109-c068-44a6-aebc-6ee07d5fb3e1#ref=rss)
+### zerschlagung
 
-* [https://www.spiegel.de/wissenschaft/medizin/christian-drosten-haelt-corona-auffrischimpfung-im-herbst-nur-bei-bestimmten-risikopatienten-sinnvoll](https://www.spiegel.de/wissenschaft/medizin/christian-drosten-haelt-corona-auffrischimpfung-im-herbst-nur-bei-bestimmten-risikopatienten-sinnvoll-a-3a856c73-5c2f-41bc-9eaf-7c3c1b370827#ref=rss)
-### urteil
+* [https://www.spiegel.de/wirtschaft/unternehmen/facebook-us-regierung-klagt-erneut-auf-zerschlagung](https://www.spiegel.de/wirtschaft/unternehmen/facebook-us-regierung-klagt-erneut-auf-zerschlagung-a-1c0ee4f1-b35d-4877-8c23-3b9c79913b7d#ref=rss)
+### anlauf
 
-* [https://www.spiegel.de/panorama/justiz/nsu-prozess-urteil-gegen-beate-zschaepe-ist-rechtskraeftig](https://www.spiegel.de/panorama/justiz/nsu-prozess-urteil-gegen-beate-zschaepe-ist-rechtskraeftig-a-2c2d28dd-c817-4aee-92c5-6de6a7f980ab#ref=rss)
-### beate
-
-* [https://www.spiegel.de/panorama/justiz/nsu-prozess-urteil-gegen-beate-zschaepe-ist-rechtskraeftig](https://www.spiegel.de/panorama/justiz/nsu-prozess-urteil-gegen-beate-zschaepe-ist-rechtskraeftig-a-2c2d28dd-c817-4aee-92c5-6de6a7f980ab#ref=rss)
-### zschäpe
-
-* [https://www.spiegel.de/panorama/justiz/nsu-prozess-urteil-gegen-beate-zschaepe-ist-rechtskraeftig](https://www.spiegel.de/panorama/justiz/nsu-prozess-urteil-gegen-beate-zschaepe-ist-rechtskraeftig-a-2c2d28dd-c817-4aee-92c5-6de6a7f980ab#ref=rss)
-### kalifornien
-
-* [https://www.spiegel.de/panorama/waldbraende-in-kalifornien-viele-ortschaften-bedroht-10-000-feuerwehrleute-im-einsatz](https://www.spiegel.de/panorama/waldbraende-in-kalifornien-viele-ortschaften-bedroht-10-000-feuerwehrleute-im-einsatz-a-caf94c82-6291-4ef0-9589-9a428c7742fe#ref=rss)
-### bedroht
-
-* [https://www.spiegel.de/panorama/waldbraende-in-kalifornien-viele-ortschaften-bedroht-10-000-feuerwehrleute-im-einsatz](https://www.spiegel.de/panorama/waldbraende-in-kalifornien-viele-ortschaften-bedroht-10-000-feuerwehrleute-im-einsatz-a-caf94c82-6291-4ef0-9589-9a428c7742fe#ref=rss)
-* [https://www.spiegel.de/ausland/faschismus-in-italien-ich-lebe-unter-polizeischutz-weil-ich-ueber-neofaschisten-schreibe](https://www.spiegel.de/ausland/faschismus-in-italien-ich-lebe-unter-polizeischutz-weil-ich-ueber-neofaschisten-schreibe-a-d88004b3-d7fb-4a2c-80e4-3d68dc6e9860#ref=rss)
-### völlig
-
-* [https://www.spiegel.de/panorama/waldbraende-in-kalifornien-viele-ortschaften-bedroht-10-000-feuerwehrleute-im-einsatz](https://www.spiegel.de/panorama/waldbraende-in-kalifornien-viele-ortschaften-bedroht-10-000-feuerwehrleute-im-einsatz-a-caf94c82-6291-4ef0-9589-9a428c7742fe#ref=rss)
-* [https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte](https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte-a-d7d48540-6ae1-4676-9240-f6384e2c5366#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/facebook-us-regierung-klagt-erneut-auf-zerschlagung](https://www.spiegel.de/wirtschaft/unternehmen/facebook-us-regierung-klagt-erneut-auf-zerschlagung-a-1c0ee4f1-b35d-4877-8c23-3b9c79913b7d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen](https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen-a-d125bb82-8004-4a96-b2d3-1cf60cda4e41#ref=rss)
 ### peter
 
-* [https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte](https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte-a-d7d48540-6ae1-4676-9240-f6384e2c5366#ref=rss)
-### schwittek
+* [https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt](https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt-a-2e8bb39f-1596-47c2-8607-10bd635e6823#ref=rss)
+### r
 
-* [https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte](https://www.spiegel.de/geschichte/schulen-in-afghanistan-wie-entwicklungshelfer-peter-schwittek-mit-taliban-kooperierte-a-d7d48540-6ae1-4676-9240-f6384e2c5366#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt](https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt-a-2e8bb39f-1596-47c2-8607-10bd635e6823#ref=rss)
+### de
+
+* [https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt](https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt-a-2e8bb39f-1596-47c2-8607-10bd635e6823#ref=rss)
+### vries
+
+* [https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt](https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt-a-2e8bb39f-1596-47c2-8607-10bd635e6823#ref=rss)
+### woche
+
+* [https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt](https://www.spiegel.de/panorama/justiz/niederlande-hat-die-polizei-im-mordfall-peter-r-de-vries-versagt-a-2e8bb39f-1596-47c2-8607-10bd635e6823#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/groningen-erneuter-angriff-auf-den-journalisten-willem-groeneveld-in-den-niederlanden](https://www.spiegel.de/panorama/justiz/groningen-erneuter-angriff-auf-den-journalisten-willem-groeneveld-in-den-niederlanden-a-88c4ee34-272e-47bf-b17e-2d37c9fa871b#ref=rss)
+### konzerne
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/produktionsausfaelle-und-kurzarbeit-so-sehr-plagen-chip-mangel-und-corona-die-globale-autoindustrie](https://www.spiegel.de/wirtschaft/unternehmen/produktionsausfaelle-und-kurzarbeit-so-sehr-plagen-chip-mangel-und-corona-die-globale-autoindustrie-a-ff74fb2b-636c-406e-bb15-6d7c8e5e0a78#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/steuerflucht-deutschem-fiskus-entgangen-2018-rund-21-milliarden-euro](https://www.spiegel.de/wirtschaft/soziales/steuerflucht-deutschem-fiskus-entgangen-2018-rund-21-milliarden-euro-a-acae673a-b2ff-4e48-a969-b5024345e9ab#ref=rss)
+### rettung
+
+* [https://www.spiegel.de/ausland/kabul-bundeswehrgeneral-ueber-lage-vor-ort-hier-spielen-sich-dramatische-szenen-ab](https://www.spiegel.de/ausland/kabul-bundeswehrgeneral-ueber-lage-vor-ort-hier-spielen-sich-dramatische-szenen-ab-a-d118bd32-d142-44e8-adb9-699007ff9aa3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo](https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo-a-dcd94b64-f8e3-4c87-86a8-22d6e55042f6#ref=rss)
+### singapur
+
+* [https://www.spiegel.de/panorama/justiz/singapur-verstoss-gegen-maskenpflicht-sechs-wochen-haft-fuer-briten](https://www.spiegel.de/panorama/justiz/singapur-verstoss-gegen-maskenpflicht-sechs-wochen-haft-fuer-briten-a-2ae34003-e1e1-4af8-a494-73211f801470#ref=rss)
+### maskenpflicht
+
+* [https://www.spiegel.de/panorama/justiz/singapur-verstoss-gegen-maskenpflicht-sechs-wochen-haft-fuer-briten](https://www.spiegel.de/panorama/justiz/singapur-verstoss-gegen-maskenpflicht-sechs-wochen-haft-fuer-briten-a-2ae34003-e1e1-4af8-a494-73211f801470#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/justiz/singapur-verstoss-gegen-maskenpflicht-sechs-wochen-haft-fuer-briten](https://www.spiegel.de/panorama/justiz/singapur-verstoss-gegen-maskenpflicht-sechs-wochen-haft-fuer-briten-a-2ae34003-e1e1-4af8-a494-73211f801470#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo](https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo-a-dcd94b64-f8e3-4c87-86a8-22d6e55042f6#ref=rss)
+### nsu
+
+* [https://www.spiegel.de/panorama/justiz/nsu-das-urteil-gegen-andre-e-wird-nochmal-verhandelt](https://www.spiegel.de/panorama/justiz/nsu-das-urteil-gegen-andre-e-wird-nochmal-verhandelt-a-0530104e-76dc-406a-aced-0f1ca8aef5c7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo](https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo-a-dcd94b64-f8e3-4c87-86a8-22d6e55042f6#ref=rss)
+### andré
+
+* [https://www.spiegel.de/panorama/justiz/nsu-das-urteil-gegen-andre-e-wird-nochmal-verhandelt](https://www.spiegel.de/panorama/justiz/nsu-das-urteil-gegen-andre-e-wird-nochmal-verhandelt-a-0530104e-76dc-406a-aced-0f1ca8aef5c7#ref=rss)
+### e
+
+* [https://www.spiegel.de/panorama/justiz/nsu-das-urteil-gegen-andre-e-wird-nochmal-verhandelt](https://www.spiegel.de/panorama/justiz/nsu-das-urteil-gegen-andre-e-wird-nochmal-verhandelt-a-0530104e-76dc-406a-aced-0f1ca8aef5c7#ref=rss)
+### schwersten
+
+* [https://www.spiegel.de/panorama/justiz/nsu-das-urteil-gegen-andre-e-wird-nochmal-verhandelt](https://www.spiegel.de/panorama/justiz/nsu-das-urteil-gegen-andre-e-wird-nochmal-verhandelt-a-0530104e-76dc-406a-aced-0f1ca8aef5c7#ref=rss)
+* [https://www.spiegel.de/ausland/hisbollah-chef-kuendigt-oel-lieferung-aus-iran-fuer-libanon-an](https://www.spiegel.de/ausland/hisbollah-chef-kuendigt-oel-lieferung-aus-iran-fuer-libanon-an-a-bce99de9-851c-477e-b393-ce43b4079dfd#ref=rss)
+### verhandeln
+
+* [https://www.spiegel.de/panorama/justiz/nsu-das-urteil-gegen-andre-e-wird-nochmal-verhandelt](https://www.spiegel.de/panorama/justiz/nsu-das-urteil-gegen-andre-e-wird-nochmal-verhandelt-a-0530104e-76dc-406a-aced-0f1ca8aef5c7#ref=rss)
+* [https://www.spiegel.de/ausland/frauenrechte-in-afghanistan-wir-muessen-seit-2014-mit-taliban-verhandeln-um-maedchen-unterrichten-zu-koennen](https://www.spiegel.de/ausland/frauenrechte-in-afghanistan-wir-muessen-seit-2014-mit-taliban-verhandeln-um-maedchen-unterrichten-zu-koennen-a-736a3b94-9066-49e1-8cb4-0bb3c47ed874#ref=rss)
+### hürden
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo](https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo-a-dcd94b64-f8e3-4c87-86a8-22d6e55042f6#ref=rss)
+### bürokratie
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo](https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo-a-dcd94b64-f8e3-4c87-86a8-22d6e55042f6#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte](https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte-a-f4b603d8-079b-4f74-98fc-da4aa6121060#ref=rss)
+### afghanischen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo](https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo-a-dcd94b64-f8e3-4c87-86a8-22d6e55042f6#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte](https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte-a-f4b603d8-079b-4f74-98fc-da4aa6121060#ref=rss)
+### ortskräften
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo](https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo-a-dcd94b64-f8e3-4c87-86a8-22d6e55042f6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen](https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen-a-d125bb82-8004-4a96-b2d3-1cf60cda4e41#ref=rss)
+### errichtet
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo](https://www.spiegel.de/politik/deutschland/news-des-tages-buerokratische-huerden-fuer-afghanische-ortskraefte-nsu-auto-abo-a-dcd94b64-f8e3-4c87-86a8-22d6e55042f6#ref=rss)
+* [https://www.spiegel.de/ausland/frauenrechte-in-afghanistan-wir-muessen-seit-2014-mit-taliban-verhandeln-um-maedchen-unterrichten-zu-koennen](https://www.spiegel.de/ausland/frauenrechte-in-afghanistan-wir-muessen-seit-2014-mit-taliban-verhandeln-um-maedchen-unterrichten-zu-koennen-a-736a3b94-9066-49e1-8cb4-0bb3c47ed874#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/politik/deutschland/rekonstruktion-des-deutschen-scheiterns-in-afghanistan-wir-machen-uns-abmarschbereit](https://www.spiegel.de/politik/deutschland/rekonstruktion-des-deutschen-scheiterns-in-afghanistan-wir-machen-uns-abmarschbereit-a-77cbaa83-219d-47dd-ba66-71b2f1e5d709#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen](https://www.spiegel.de/politik/deutschland/afghanistan-horst-seehofer-will-alle-ortskraefte-nach-deutschland-holen-a-d125bb82-8004-4a96-b2d3-1cf60cda4e41#ref=rss)
+### willem
+
+* [https://www.spiegel.de/panorama/justiz/groningen-erneuter-angriff-auf-den-journalisten-willem-groeneveld-in-den-niederlanden](https://www.spiegel.de/panorama/justiz/groningen-erneuter-angriff-auf-den-journalisten-willem-groeneveld-in-den-niederlanden-a-88c4ee34-272e-47bf-b17e-2d37c9fa871b#ref=rss)
+### groeneveld
+
+* [https://www.spiegel.de/panorama/justiz/groningen-erneuter-angriff-auf-den-journalisten-willem-groeneveld-in-den-niederlanden](https://www.spiegel.de/panorama/justiz/groningen-erneuter-angriff-auf-den-journalisten-willem-groeneveld-in-den-niederlanden-a-88c4ee34-272e-47bf-b17e-2d37c9fa871b#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/panorama/justiz/groningen-erneuter-angriff-auf-den-journalisten-willem-groeneveld-in-den-niederlanden](https://www.spiegel.de/panorama/justiz/groningen-erneuter-angriff-auf-den-journalisten-willem-groeneveld-in-den-niederlanden-a-88c4ee34-272e-47bf-b17e-2d37c9fa871b#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte](https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte-a-f4b603d8-079b-4f74-98fc-da4aa6121060#ref=rss)
+### opposition
+
+* [https://www.spiegel.de/deinspiegel/wahl-abc-fuer-kinder-o-wie-opposition](https://www.spiegel.de/deinspiegel/wahl-abc-fuer-kinder-o-wie-opposition-a-9d8d2d2b-0002-0001-0000-000177426661#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/politik/deutschland/corona-impfungen-ist-die-zeit-des-egoismus-gekommen-podcast](https://www.spiegel.de/politik/deutschland/corona-impfungen-ist-die-zeit-des-egoismus-gekommen-podcast-a-07817170-5028-48b9-a2bd-daa7f9af7f48#ref=rss)
+* [https://www.spiegel.de/kultur/helge-schneider-ich-erlebe-unsere-zeit-als-ziemlich-unfrei](https://www.spiegel.de/kultur/helge-schneider-ich-erlebe-unsere-zeit-als-ziemlich-unfrei-a-7172b1d8-7e5f-4b59-a001-b3d5336e9976#ref=rss)
+### davon
+
+* [https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte](https://www.spiegel.de/ausland/afghanistan-ex-bundeswehrsoldat-ueber-die-verzweifelten-hilferufe-der-ortskraefte-a-f4b603d8-079b-4f74-98fc-da4aa6121060#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/steuerflucht-deutschem-fiskus-entgangen-2018-rund-21-milliarden-euro](https://www.spiegel.de/wirtschaft/soziales/steuerflucht-deutschem-fiskus-entgangen-2018-rund-21-milliarden-euro-a-acae673a-b2ff-4e48-a969-b5024345e9ab#ref=rss)
+### dürfen
+
+* [https://www.spiegel.de/panorama/gesellschaft/israel-homosexuelle-maenner-duerfen-uneingeschraenkt-blut-spenden](https://www.spiegel.de/panorama/gesellschaft/israel-homosexuelle-maenner-duerfen-uneingeschraenkt-blut-spenden-a-502ec2cc-4ad6-4a1f-ae22-b046f9e51943#ref=rss)
+### blut
+
+* [https://www.spiegel.de/panorama/gesellschaft/israel-homosexuelle-maenner-duerfen-uneingeschraenkt-blut-spenden](https://www.spiegel.de/panorama/gesellschaft/israel-homosexuelle-maenner-duerfen-uneingeschraenkt-blut-spenden-a-502ec2cc-4ad6-4a1f-ae22-b046f9e51943#ref=rss)
+### spenden
+
+* [https://www.spiegel.de/panorama/gesellschaft/israel-homosexuelle-maenner-duerfen-uneingeschraenkt-blut-spenden](https://www.spiegel.de/panorama/gesellschaft/israel-homosexuelle-maenner-duerfen-uneingeschraenkt-blut-spenden-a-502ec2cc-4ad6-4a1f-ae22-b046f9e51943#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/hisbollah-chef-kuendigt-oel-lieferung-aus-iran-fuer-libanon-an](https://www.spiegel.de/ausland/hisbollah-chef-kuendigt-oel-lieferung-aus-iran-fuer-libanon-an-a-bce99de9-851c-477e-b393-ce43b4079dfd#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/hisbollah-chef-kuendigt-oel-lieferung-aus-iran-fuer-libanon-an](https://www.spiegel.de/ausland/hisbollah-chef-kuendigt-oel-lieferung-aus-iran-fuer-libanon-an-a-bce99de9-851c-477e-b393-ce43b4079dfd#ref=rss)
+### daniel
+
+* [https://www.spiegel.de/kultur/kino/daniel-craig-hoechste-gage-aller-schauspieler-dank-knives-out](https://www.spiegel.de/kultur/kino/daniel-craig-hoechste-gage-aller-schauspieler-dank-knives-out-a-8f622e5c-32d2-4d32-abb1-81d1dfc805ab#ref=rss)
+### craig
+
+* [https://www.spiegel.de/kultur/kino/daniel-craig-hoechste-gage-aller-schauspieler-dank-knives-out](https://www.spiegel.de/kultur/kino/daniel-craig-hoechste-gage-aller-schauspieler-dank-knives-out-a-8f622e5c-32d2-4d32-abb1-81d1dfc805ab#ref=rss)
+### schauspieler
+
+* [https://www.spiegel.de/kultur/kino/daniel-craig-hoechste-gage-aller-schauspieler-dank-knives-out](https://www.spiegel.de/kultur/kino/daniel-craig-hoechste-gage-aller-schauspieler-dank-knives-out-a-8f622e5c-32d2-4d32-abb1-81d1dfc805ab#ref=rss)
+* [https://www.spiegel.de/kultur/helge-schneider-ich-erlebe-unsere-zeit-als-ziemlich-unfrei](https://www.spiegel.de/kultur/helge-schneider-ich-erlebe-unsere-zeit-als-ziemlich-unfrei-a-7172b1d8-7e5f-4b59-a001-b3d5336e9976#ref=rss)
+### helge
+
+* [https://www.spiegel.de/kultur/helge-schneider-ich-erlebe-unsere-zeit-als-ziemlich-unfrei](https://www.spiegel.de/kultur/helge-schneider-ich-erlebe-unsere-zeit-als-ziemlich-unfrei-a-7172b1d8-7e5f-4b59-a001-b3d5336e9976#ref=rss)
+### schneider
+
+* [https://www.spiegel.de/kultur/helge-schneider-ich-erlebe-unsere-zeit-als-ziemlich-unfrei](https://www.spiegel.de/kultur/helge-schneider-ich-erlebe-unsere-zeit-als-ziemlich-unfrei-a-7172b1d8-7e5f-4b59-a001-b3d5336e9976#ref=rss)
 
