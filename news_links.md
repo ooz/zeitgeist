@@ -6,340 +6,307 @@ tags: __no_header__
 
 ### afghanistan
 
-* [https://www.spiegel.de/politik/deutschland/heute-schlau](https://www.spiegel.de/politik/deutschland/heute-schlau-a-4bd1101c-0002-0001-0000-000178874241#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/flucht-aus-afghanistan-baby-ueber-mauer-am-flughafen-kabul-an-us-soldaten-uebergeben](https://www.spiegel.de/panorama/gesellschaft/flucht-aus-afghanistan-baby-ueber-mauer-am-flughafen-kabul-an-us-soldaten-uebergeben-a-e1c9ce7f-cd32-44fd-88b2-0f7dd67e29e0#ref=rss)
 * [https://www.spiegel.de/ausland/afghanistan-deutschland-muss-mit-den-taliban-verhandeln-leitartikel](https://www.spiegel.de/ausland/afghanistan-deutschland-muss-mit-den-taliban-verhandeln-leitartikel-a-1ae67383-0002-0001-0000-000178874225#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-toeten-angehoerigen-eines-deutsche-welle-journalisten](https://www.spiegel.de/ausland/afghanistan-taliban-toeten-angehoerigen-eines-deutsche-welle-journalisten-a-a8f38b4e-9f31-490b-a97f-841d0d6bb88c#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen](https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen-a-c484a47a-c55f-4e40-8e77-2f1f1e1b2756#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-sollen-massaker-an-hazara-angehoerigen-begangen-haben](https://www.spiegel.de/ausland/afghanistan-taliban-sollen-massaker-an-hazara-angehoerigen-begangen-haben-a-f5e18018-6a2e-4943-b1be-0be1f2c76b8e#ref=rss)
+* [https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden](https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden-a-86c167af-4a0a-4a4f-bcbb-95a8d0525a7b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf](https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf-a-7e64acff-7175-459e-b66c-29decba65bbc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-armin-laschets-wahlkampf-ksk-hubschrauber-in-afghanistan-star-trek-erfinder-gene-roddenberry](https://www.spiegel.de/politik/deutschland/news-des-tages-armin-laschets-wahlkampf-ksk-hubschrauber-in-afghanistan-star-trek-erfinder-gene-roddenberry-a-7612a625-c24f-4a94-b9e6-2060895ebc4b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-ksk-helikopter-ueber-taliban-gebiet](https://www.spiegel.de/politik/deutschland/afghanistan-ksk-helikopter-ueber-taliban-gebiet-a-bcfee128-2429-4b1e-956e-86efb9b6da47#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel](https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel-a-5f3c91b5-b16f-49a0-815a-0f34ca7d8b9e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land](https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land-a-2322d593-d949-4607-9dfe-0b0de928c46b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny](https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny-a-a75455a8-ef1f-4b9d-8a77-bf7a9d24c112#ref=rss)
+### kabul
+
+* [https://www.spiegel.de/panorama/gesellschaft/flucht-aus-afghanistan-baby-ueber-mauer-am-flughafen-kabul-an-us-soldaten-uebergeben](https://www.spiegel.de/panorama/gesellschaft/flucht-aus-afghanistan-baby-ueber-mauer-am-flughafen-kabul-an-us-soldaten-uebergeben-a-e1c9ce7f-cd32-44fd-88b2-0f7dd67e29e0#ref=rss)
+* [https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden](https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden-a-86c167af-4a0a-4a4f-bcbb-95a8d0525a7b#ref=rss)
+* [https://www.spiegel.de/ausland/generalinspekteur-der-bundeswehr-zorn-ueber-evakuierungsplaene-in-kabul](https://www.spiegel.de/ausland/generalinspekteur-der-bundeswehr-zorn-ueber-evakuierungsplaene-in-kabul-a-38ab077e-3757-4611-9cb2-9483bdce105f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-ksk-helikopter-ueber-taliban-gebiet](https://www.spiegel.de/politik/deutschland/afghanistan-ksk-helikopter-ueber-taliban-gebiet-a-bcfee128-2429-4b1e-956e-86efb9b6da47#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel](https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel-a-5f3c91b5-b16f-49a0-815a-0f34ca7d8b9e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land](https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land-a-2322d593-d949-4607-9dfe-0b0de928c46b#ref=rss)
 ### taliban
 
+* [https://www.spiegel.de/panorama/gesellschaft/flucht-aus-afghanistan-baby-ueber-mauer-am-flughafen-kabul-an-us-soldaten-uebergeben](https://www.spiegel.de/panorama/gesellschaft/flucht-aus-afghanistan-baby-ueber-mauer-am-flughafen-kabul-an-us-soldaten-uebergeben-a-e1c9ce7f-cd32-44fd-88b2-0f7dd67e29e0#ref=rss)
 * [https://www.spiegel.de/ausland/afghanistan-deutschland-muss-mit-den-taliban-verhandeln-leitartikel](https://www.spiegel.de/ausland/afghanistan-deutschland-muss-mit-den-taliban-verhandeln-leitartikel-a-1ae67383-0002-0001-0000-000178874225#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-toeten-angehoerigen-eines-deutsche-welle-journalisten](https://www.spiegel.de/ausland/afghanistan-taliban-toeten-angehoerigen-eines-deutsche-welle-journalisten-a-a8f38b4e-9f31-490b-a97f-841d0d6bb88c#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-sollen-massaker-an-hazara-angehoerigen-begangen-haben](https://www.spiegel.de/ausland/afghanistan-taliban-sollen-massaker-an-hazara-angehoerigen-begangen-haben-a-f5e18018-6a2e-4943-b1be-0be1f2c76b8e#ref=rss)
-### bahn
+* [https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden](https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden-a-86c167af-4a0a-4a4f-bcbb-95a8d0525a7b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf](https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf-a-7e64acff-7175-459e-b66c-29decba65bbc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel](https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel-a-5f3c91b5-b16f-49a0-815a-0f34ca7d8b9e#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-propagandavideos-merkwuerdige-inszenierungen-in-vergnuegungsparks-und-fitnessstudio](https://www.spiegel.de/ausland/taliban-propagandavideos-merkwuerdige-inszenierungen-in-vergnuegungsparks-und-fitnessstudio-a-0debee91-1550-4215-8075-e0270de96bb1#ref=rss)
+### merkel
 
-* [https://www.spiegel.de/karriere/deutsche-bahn-ein-lokfuehrer-berichtet-von-seinem-joballtag](https://www.spiegel.de/karriere/deutsche-bahn-ein-lokfuehrer-berichtet-von-seinem-joballtag-a-b6e7b7ac-27b7-443d-b243-84393544fbc4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an-a-de733da6-16ab-4b19-86af-355579646c00#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik-a-2e9aa5e7-ac32-45a8-a09d-a0ac28b3dc93#ref=rss)
-### sagt
+* [https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin](https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin-a-e092a416-41e8-4660-a165-eaa367d8b920#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny](https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny-a-a75455a8-ef1f-4b9d-8a77-bf7a9d24c112#ref=rss)
+* [https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch](https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch-a-99308741-d50c-44df-85ef-dd442b7a31bf#ref=rss)
+### nawalny
 
-* [https://www.spiegel.de/politik/deutschland/friesland-mutmassliche-impfungen-mit-kochsalzloesung-antje-t-und-ihre-hexenkueche](https://www.spiegel.de/politik/deutschland/friesland-mutmassliche-impfungen-mit-kochsalzloesung-antje-t-und-ihre-hexenkueche-a-450a982e-0002-0001-0000-000178874249#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden](https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden-a-db344991-c6d6-41d9-a6ca-f52a20112d36#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik-a-2e9aa5e7-ac32-45a8-a09d-a0ac28b3dc93#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin](https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin-a-e092a416-41e8-4660-a165-eaa367d8b920#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny](https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny-a-a75455a8-ef1f-4b9d-8a77-bf7a9d24c112#ref=rss)
+* [https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch](https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch-a-99308741-d50c-44df-85ef-dd442b7a31bf#ref=rss)
+### putin
 
-* [https://www.spiegel.de/karriere/deutsche-bahn-ein-lokfuehrer-berichtet-von-seinem-joballtag](https://www.spiegel.de/karriere/deutsche-bahn-ein-lokfuehrer-berichtet-von-seinem-joballtag-a-b6e7b7ac-27b7-443d-b243-84393544fbc4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an-a-de733da6-16ab-4b19-86af-355579646c00#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik-a-2e9aa5e7-ac32-45a8-a09d-a0ac28b3dc93#ref=rss)
-### woche
+* [https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin](https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin-a-e092a416-41e8-4660-a165-eaa367d8b920#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny](https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny-a-a75455a8-ef1f-4b9d-8a77-bf7a9d24c112#ref=rss)
+* [https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch](https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch-a-99308741-d50c-44df-85ef-dd442b7a31bf#ref=rss)
+### angela
 
-* [https://www.spiegel.de/kultur/kino/star-trek-schoepfer-gene-roddenberry-bekommt-ein-biopic](https://www.spiegel.de/kultur/kino/star-trek-schoepfer-gene-roddenberry-bekommt-ein-biopic-a-86faf6df-90ec-4caf-b4e1-87804024c175#ref=rss)
-* [https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche](https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche-a-c959690b-cad4-4b1a-906b-e76c0b62600f#ref=rss)
-### gestorben
+* [https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin](https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin-a-e092a416-41e8-4660-a165-eaa367d8b920#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny](https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny-a-a75455a8-ef1f-4b9d-8a77-bf7a9d24c112#ref=rss)
+* [https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch](https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch-a-99308741-d50c-44df-85ef-dd442b7a31bf#ref=rss)
+### alexej
 
-* [https://www.spiegel.de/kultur/chuck-close-fotorealismus-kuenstler-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/chuck-close-fotorealismus-kuenstler-mit-81-jahren-gestorben-a-2493beb7-207c-4eaa-b994-ebfd71c54ae3#ref=rss)
-* [https://www.spiegel.de/panorama/haiti-deutsches-notfallteam-startet-zu-hilfsmission-nach-erdbeben](https://www.spiegel.de/panorama/haiti-deutsches-notfallteam-startet-zu-hilfsmission-nach-erdbeben-a-2df57bc2-445a-4b1b-a40d-c0581dced957#ref=rss)
-### verletzt
+* [https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin](https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin-a-e092a416-41e8-4660-a165-eaa367d8b920#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny](https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny-a-a75455a8-ef1f-4b9d-8a77-bf7a9d24c112#ref=rss)
+* [https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch](https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch-a-99308741-d50c-44df-85ef-dd442b7a31bf#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen](https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen-a-c484a47a-c55f-4e40-8e77-2f1f1e1b2756#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/heimertingen-13-jaehriger-von-zug-erfasst-und-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/heimertingen-13-jaehriger-von-zug-erfasst-und-toedlich-verletzt-a-8ba9065f-3bd9-494e-8ffb-2636e3d32d4c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/britney-spears-polizei-ermittelt-wegen-vorwurfs-der-koerperverletzung](https://www.spiegel.de/panorama/justiz/britney-spears-polizei-ermittelt-wegen-vorwurfs-der-koerperverletzung-a-efe72d00-d034-4591-b2ee-8c57ae0bb9e8#ref=rss)
-### fdp
+* [https://www.spiegel.de/ausland/us-regierung-verhaengt-neue-sanktionen-gegen-russland-wegen-nord-stream-2](https://www.spiegel.de/ausland/us-regierung-verhaengt-neue-sanktionen-gegen-russland-wegen-nord-stream-2-a-b053332b-d0d8-4045-8401-47edc45cf1d0#ref=rss)
+* [https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden](https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden-a-86c167af-4a0a-4a4f-bcbb-95a8d0525a7b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-mutation-wissenschaftler-warnen-vor-ay-3](https://www.spiegel.de/wissenschaft/corona-mutation-wissenschaftler-warnen-vor-ay-3-a-45ecb9cc-7b5d-4099-9884-63991fee53e8#ref=rss)
+### flughafen
 
-* [https://www.spiegel.de/politik/deutschland/interne-cdu-chats-zeigen-frust-ueber-armin-laschet-wo-die-laschet-plakate-den-wenigsten-schaden-machen](https://www.spiegel.de/politik/deutschland/interne-cdu-chats-zeigen-frust-ueber-armin-laschet-wo-die-laschet-plakate-den-wenigsten-schaden-machen-a-4cbcd405-0002-0001-0000-000178874245#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech-a-a2b2b529-0002-0001-0000-000178874247#ref=rss)
-### lokführergewerkschaft
+* [https://www.spiegel.de/panorama/gesellschaft/flucht-aus-afghanistan-baby-ueber-mauer-am-flughafen-kabul-an-us-soldaten-uebergeben](https://www.spiegel.de/panorama/gesellschaft/flucht-aus-afghanistan-baby-ueber-mauer-am-flughafen-kabul-an-us-soldaten-uebergeben-a-e1c9ce7f-cd32-44fd-88b2-0f7dd67e29e0#ref=rss)
+* [https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden](https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden-a-86c167af-4a0a-4a4f-bcbb-95a8d0525a7b#ref=rss)
+* [https://www.spiegel.de/ausland/generalinspekteur-der-bundeswehr-zorn-ueber-evakuierungsplaene-in-kabul](https://www.spiegel.de/ausland/generalinspekteur-der-bundeswehr-zorn-ueber-evakuierungsplaene-in-kabul-a-38ab077e-3757-4611-9cb2-9483bdce105f#ref=rss)
+### retten
 
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an-a-de733da6-16ab-4b19-86af-355579646c00#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik-a-2e9aa5e7-ac32-45a8-a09d-a0ac28b3dc93#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/heimertingen-13-jaehriger-von-zug-erfasst-und-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/heimertingen-13-jaehriger-von-zug-erfasst-und-toedlich-verletzt-a-8ba9065f-3bd9-494e-8ffb-2636e3d32d4c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-inter-mailand-will-offenbar-marcus-thuram-wendell-verlaesst-bayer-leverkusen](https://www.spiegel.de/sport/fussball/fussball-transfers-inter-mailand-will-offenbar-marcus-thuram-wendell-verlaesst-bayer-leverkusen-a-fbcac862-296a-40bd-aeee-397e43f0f67b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/britney-spears-polizei-ermittelt-wegen-vorwurfs-der-koerperverletzung](https://www.spiegel.de/panorama/justiz/britney-spears-polizei-ermittelt-wegen-vorwurfs-der-koerperverletzung-a-efe72d00-d034-4591-b2ee-8c57ae0bb9e8#ref=rss)
-### alles
-
-* [https://www.spiegel.de/politik/deutschland/heute-schlau](https://www.spiegel.de/politik/deutschland/heute-schlau-a-4bd1101c-0002-0001-0000-000178874241#ref=rss)
 * [https://www.spiegel.de/ausland/afghanistan-deutschland-muss-mit-den-taliban-verhandeln-leitartikel](https://www.spiegel.de/ausland/afghanistan-deutschland-muss-mit-den-taliban-verhandeln-leitartikel-a-1ae67383-0002-0001-0000-000178874225#ref=rss)
-### kochsalzlösung
+* [https://www.spiegel.de/ausland/generalinspekteur-der-bundeswehr-zorn-ueber-evakuierungsplaene-in-kabul](https://www.spiegel.de/ausland/generalinspekteur-der-bundeswehr-zorn-ueber-evakuierungsplaene-in-kabul-a-38ab077e-3757-4611-9cb2-9483bdce105f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-ksk-helikopter-ueber-taliban-gebiet](https://www.spiegel.de/politik/deutschland/afghanistan-ksk-helikopter-ueber-taliban-gebiet-a-bcfee128-2429-4b1e-956e-86efb9b6da47#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/friesland-mutmassliche-impfungen-mit-kochsalzloesung-antje-t-und-ihre-hexenkueche](https://www.spiegel.de/politik/deutschland/friesland-mutmassliche-impfungen-mit-kochsalzloesung-antje-t-und-ihre-hexenkueche-a-450a982e-0002-0001-0000-000178874249#ref=rss)
-### antje
+* [https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden](https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden-a-86c167af-4a0a-4a4f-bcbb-95a8d0525a7b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/weiden-in-der-oberpfalz-22-jaehriger-stirbt-in-kanal-vermeintliche-freunde-des-opfers-verurteilt](https://www.spiegel.de/panorama/justiz/weiden-in-der-oberpfalz-22-jaehriger-stirbt-in-kanal-vermeintliche-freunde-des-opfers-verurteilt-a-a7fc7402-1fae-4fe6-ab0a-821828892f7a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-ksk-helikopter-ueber-taliban-gebiet](https://www.spiegel.de/politik/deutschland/afghanistan-ksk-helikopter-ueber-taliban-gebiet-a-bcfee128-2429-4b1e-956e-86efb9b6da47#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/politik/deutschland/friesland-mutmassliche-impfungen-mit-kochsalzloesung-antje-t-und-ihre-hexenkueche](https://www.spiegel.de/politik/deutschland/friesland-mutmassliche-impfungen-mit-kochsalzloesung-antje-t-und-ihre-hexenkueche-a-450a982e-0002-0001-0000-000178874249#ref=rss)
-### t
+* [https://www.spiegel.de/auto/cabrio-selbstgemacht-polizei-stoppt-auto-mit-abgesaegtem-dach](https://www.spiegel.de/auto/cabrio-selbstgemacht-polizei-stoppt-auto-mit-abgesaegtem-dach-a-8ee8666c-ab1c-4499-b764-90fbb341261c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel](https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel-a-5f3c91b5-b16f-49a0-815a-0f34ca7d8b9e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/angelo-kelly-muss-nach-auftritt-seines-sohns-3000-euro-bussgeld-zahlen](https://www.spiegel.de/panorama/justiz/angelo-kelly-muss-nach-auftritt-seines-sohns-3000-euro-bussgeld-zahlen-a-cd13b509-30c7-40e8-9616-8c3819b5e8d0#ref=rss)
+### alten
 
-* [https://www.spiegel.de/politik/deutschland/friesland-mutmassliche-impfungen-mit-kochsalzloesung-antje-t-und-ihre-hexenkueche](https://www.spiegel.de/politik/deutschland/friesland-mutmassliche-impfungen-mit-kochsalzloesung-antje-t-und-ihre-hexenkueche-a-450a982e-0002-0001-0000-000178874249#ref=rss)
-### hilfe
+* [https://www.spiegel.de/auto/cabrio-selbstgemacht-polizei-stoppt-auto-mit-abgesaegtem-dach](https://www.spiegel.de/auto/cabrio-selbstgemacht-polizei-stoppt-auto-mit-abgesaegtem-dach-a-8ee8666c-ab1c-4499-b764-90fbb341261c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel](https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel-a-5f3c91b5-b16f-49a0-815a-0f34ca7d8b9e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an](https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an-a-0abda093-b422-43b7-991c-0ef244f006a3#ref=rss)
+### bundeswehr
 
-* [https://www.spiegel.de/politik/deutschland/hilfe-inflation-kolumne](https://www.spiegel.de/politik/deutschland/hilfe-inflation-kolumne-a-03fd42c2-0002-0001-0000-000178874235#ref=rss)
-* [https://www.spiegel.de/panorama/haiti-deutsches-notfallteam-startet-zu-hilfsmission-nach-erdbeben](https://www.spiegel.de/panorama/haiti-deutsches-notfallteam-startet-zu-hilfsmission-nach-erdbeben-a-2df57bc2-445a-4b1b-a40d-c0581dced957#ref=rss)
+* [https://www.spiegel.de/ausland/generalinspekteur-der-bundeswehr-zorn-ueber-evakuierungsplaene-in-kabul](https://www.spiegel.de/ausland/generalinspekteur-der-bundeswehr-zorn-ueber-evakuierungsplaene-in-kabul-a-38ab077e-3757-4611-9cb2-9483bdce105f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-ksk-helikopter-ueber-taliban-gebiet](https://www.spiegel.de/politik/deutschland/afghanistan-ksk-helikopter-ueber-taliban-gebiet-a-bcfee128-2429-4b1e-956e-86efb9b6da47#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land](https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land-a-2322d593-d949-4607-9dfe-0b0de928c46b#ref=rss)
+### euro
+
+* [https://www.spiegel.de/netzwelt/web/japanische-handelsplattform-fuer-kryptowaehrungen-gehackt](https://www.spiegel.de/netzwelt/web/japanische-handelsplattform-fuer-kryptowaehrungen-gehackt-a-98fb45cf-bc93-48d1-83c0-656f7cf4a348#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/angelo-kelly-muss-nach-auftritt-seines-sohns-3000-euro-bussgeld-zahlen](https://www.spiegel.de/panorama/justiz/angelo-kelly-muss-nach-auftritt-seines-sohns-3000-euro-bussgeld-zahlen-a-cd13b509-30c7-40e8-9616-8c3819b5e8d0#ref=rss)
+### galeria
+
+* [https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an](https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an-a-0abda093-b422-43b7-991c-0ef244f006a3#ref=rss)
+### neu
+
+* [https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an](https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an-a-0abda093-b422-43b7-991c-0ef244f006a3#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/us-regierung-verhaengt-neue-sanktionen-gegen-russland-wegen-nord-stream-2](https://www.spiegel.de/ausland/us-regierung-verhaengt-neue-sanktionen-gegen-russland-wegen-nord-stream-2-a-b053332b-d0d8-4045-8401-47edc45cf1d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny](https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny-a-a75455a8-ef1f-4b9d-8a77-bf7a9d24c112#ref=rss)
+### nord
+
+* [https://www.spiegel.de/ausland/us-regierung-verhaengt-neue-sanktionen-gegen-russland-wegen-nord-stream-2](https://www.spiegel.de/ausland/us-regierung-verhaengt-neue-sanktionen-gegen-russland-wegen-nord-stream-2-a-b053332b-d0d8-4045-8401-47edc45cf1d0#ref=rss)
+### stream
+
+* [https://www.spiegel.de/ausland/us-regierung-verhaengt-neue-sanktionen-gegen-russland-wegen-nord-stream-2](https://www.spiegel.de/ausland/us-regierung-verhaengt-neue-sanktionen-gegen-russland-wegen-nord-stream-2-a-b053332b-d0d8-4045-8401-47edc45cf1d0#ref=rss)
+### 2
+
+* [https://www.spiegel.de/ausland/us-regierung-verhaengt-neue-sanktionen-gegen-russland-wegen-nord-stream-2](https://www.spiegel.de/ausland/us-regierung-verhaengt-neue-sanktionen-gegen-russland-wegen-nord-stream-2-a-b053332b-d0d8-4045-8401-47edc45cf1d0#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/ausland/us-regierung-verhaengt-neue-sanktionen-gegen-russland-wegen-nord-stream-2](https://www.spiegel.de/ausland/us-regierung-verhaengt-neue-sanktionen-gegen-russland-wegen-nord-stream-2-a-b053332b-d0d8-4045-8401-47edc45cf1d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf](https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf-a-7e64acff-7175-459e-b66c-29decba65bbc#ref=rss)
+### baby
+
+* [https://www.spiegel.de/panorama/gesellschaft/flucht-aus-afghanistan-baby-ueber-mauer-am-flughafen-kabul-an-us-soldaten-uebergeben](https://www.spiegel.de/panorama/gesellschaft/flucht-aus-afghanistan-baby-ueber-mauer-am-flughafen-kabul-an-us-soldaten-uebergeben-a-e1c9ce7f-cd32-44fd-88b2-0f7dd67e29e0#ref=rss)
+### mauer
+
+* [https://www.spiegel.de/panorama/gesellschaft/flucht-aus-afghanistan-baby-ueber-mauer-am-flughafen-kabul-an-us-soldaten-uebergeben](https://www.spiegel.de/panorama/gesellschaft/flucht-aus-afghanistan-baby-ueber-mauer-am-flughafen-kabul-an-us-soldaten-uebergeben-a-e1c9ce7f-cd32-44fd-88b2-0f7dd67e29e0#ref=rss)
 ### deutschland
 
 * [https://www.spiegel.de/ausland/afghanistan-deutschland-muss-mit-den-taliban-verhandeln-leitartikel](https://www.spiegel.de/ausland/afghanistan-deutschland-muss-mit-den-taliban-verhandeln-leitartikel-a-1ae67383-0002-0001-0000-000178874225#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an-a-de733da6-16ab-4b19-86af-355579646c00#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-deutschland-ist-mitten-in-der-vierten-welle-und-niemanden-interessiert-das](https://www.spiegel.de/wissenschaft/corona-deutschland-ist-mitten-in-der-vierten-welle-und-niemanden-interessiert-das-a-62379f15-25f9-4944-a914-2a89da777b08#ref=rss)
 ### verhandeln
 
 * [https://www.spiegel.de/ausland/afghanistan-deutschland-muss-mit-den-taliban-verhandeln-leitartikel](https://www.spiegel.de/ausland/afghanistan-deutschland-muss-mit-den-taliban-verhandeln-leitartikel-a-1ae67383-0002-0001-0000-000178874225#ref=rss)
-### us
+### leben
 
-* [https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden](https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden-a-db344991-c6d6-41d9-a6ca-f52a20112d36#ref=rss)
-### open
+* [https://www.spiegel.de/ausland/afghanistan-deutschland-muss-mit-den-taliban-verhandeln-leitartikel](https://www.spiegel.de/ausland/afghanistan-deutschland-muss-mit-den-taliban-verhandeln-leitartikel-a-1ae67383-0002-0001-0000-000178874225#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-armin-laschets-wahlkampf-ksk-hubschrauber-in-afghanistan-star-trek-erfinder-gene-roddenberry](https://www.spiegel.de/politik/deutschland/news-des-tages-armin-laschets-wahlkampf-ksk-hubschrauber-in-afghanistan-star-trek-erfinder-gene-roddenberry-a-7612a625-c24f-4a94-b9e6-2060895ebc4b#ref=rss)
+### ökopartei
 
-* [https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden](https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden-a-db344991-c6d6-41d9-a6ca-f52a20112d36#ref=rss)
-### rafael
+* [https://www.spiegel.de/politik/deutschland/gruene-in-der-umfragekrise-annalena-baerbock-und-das-trauma-der-oekopartei](https://www.spiegel.de/politik/deutschland/gruene-in-der-umfragekrise-annalena-baerbock-und-das-trauma-der-oekopartei-a-d1955b65-7605-426f-a63d-76ef81e24032#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden](https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden-a-db344991-c6d6-41d9-a6ca-f52a20112d36#ref=rss)
-### nadal
+* [https://www.spiegel.de/politik/deutschland/gruene-in-der-umfragekrise-annalena-baerbock-und-das-trauma-der-oekopartei](https://www.spiegel.de/politik/deutschland/gruene-in-der-umfragekrise-annalena-baerbock-und-das-trauma-der-oekopartei-a-d1955b65-7605-426f-a63d-76ef81e24032#ref=rss)
+* [https://www.spiegel.de/ausland/generalinspekteur-der-bundeswehr-zorn-ueber-evakuierungsplaene-in-kabul](https://www.spiegel.de/ausland/generalinspekteur-der-bundeswehr-zorn-ueber-evakuierungsplaene-in-kabul-a-38ab077e-3757-4611-9cb2-9483bdce105f#ref=rss)
+### einsatz
 
-* [https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden](https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden-a-db344991-c6d6-41d9-a6ca-f52a20112d36#ref=rss)
-### tennisprofi
+* [https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden](https://www.spiegel.de/ausland/nato-treffen-zu-afghanistan-us-evakuierungen-aus-kabul-sollen-am-31-august-enden-a-86c167af-4a0a-4a4f-bcbb-95a8d0525a7b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-ksk-helikopter-ueber-taliban-gebiet](https://www.spiegel.de/politik/deutschland/afghanistan-ksk-helikopter-ueber-taliban-gebiet-a-bcfee128-2429-4b1e-956e-86efb9b6da47#ref=rss)
+### boateng
 
-* [https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden](https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden-a-db344991-c6d6-41d9-a6ca-f52a20112d36#ref=rss)
-* [https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter](https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter-a-f7538c4d-a908-4a87-ac4b-9f8f2fecdfcc#ref=rss)
-### ich
+* [https://www.spiegel.de/partnerschaft/jerome-boateng-und-kasia-lenhardt-innenansichten-einer-toxischen-beziehung-mit-tragischem-ende](https://www.spiegel.de/partnerschaft/jerome-boateng-und-kasia-lenhardt-innenansichten-einer-toxischen-beziehung-mit-tragischem-ende-a-796a20db-6efe-4eaf-9dcd-933ef6b09b8b#ref=rss)
+### kasia
 
-* [https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden](https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden-a-db344991-c6d6-41d9-a6ca-f52a20112d36#ref=rss)
+* [https://www.spiegel.de/partnerschaft/jerome-boateng-und-kasia-lenhardt-innenansichten-einer-toxischen-beziehung-mit-tragischem-ende](https://www.spiegel.de/partnerschaft/jerome-boateng-und-kasia-lenhardt-innenansichten-einer-toxischen-beziehung-mit-tragischem-ende-a-796a20db-6efe-4eaf-9dcd-933ef6b09b8b#ref=rss)
+### lenhardt
+
+* [https://www.spiegel.de/partnerschaft/jerome-boateng-und-kasia-lenhardt-innenansichten-einer-toxischen-beziehung-mit-tragischem-ende](https://www.spiegel.de/partnerschaft/jerome-boateng-und-kasia-lenhardt-innenansichten-einer-toxischen-beziehung-mit-tragischem-ende-a-796a20db-6efe-4eaf-9dcd-933ef6b09b8b#ref=rss)
+### ende
+
+* [https://www.spiegel.de/partnerschaft/jerome-boateng-und-kasia-lenhardt-innenansichten-einer-toxischen-beziehung-mit-tragischem-ende](https://www.spiegel.de/partnerschaft/jerome-boateng-und-kasia-lenhardt-innenansichten-einer-toxischen-beziehung-mit-tragischem-ende-a-796a20db-6efe-4eaf-9dcd-933ef6b09b8b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an](https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an-a-0abda093-b422-43b7-991c-0ef244f006a3#ref=rss)
+### tage
+
+* [https://www.spiegel.de/partnerschaft/jerome-boateng-und-kasia-lenhardt-innenansichten-einer-toxischen-beziehung-mit-tragischem-ende](https://www.spiegel.de/partnerschaft/jerome-boateng-und-kasia-lenhardt-innenansichten-einer-toxischen-beziehung-mit-tragischem-ende-a-796a20db-6efe-4eaf-9dcd-933ef6b09b8b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/tuerkei-bisher-79-tote-nach-heftigen-regenfaellen-gefunden](https://www.spiegel.de/panorama/gesellschaft/tuerkei-bisher-79-tote-nach-heftigen-regenfaellen-gefunden-a-d182b7c1-eec5-443e-ac8b-4df6d767571f#ref=rss)
+### stirbt
+
+* [https://www.spiegel.de/panorama/justiz/weiden-in-der-oberpfalz-22-jaehriger-stirbt-in-kanal-vermeintliche-freunde-des-opfers-verurteilt](https://www.spiegel.de/panorama/justiz/weiden-in-der-oberpfalz-22-jaehriger-stirbt-in-kanal-vermeintliche-freunde-des-opfers-verurteilt-a-a7fc7402-1fae-4fe6-ab0a-821828892f7a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel](https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel-a-5f3c91b5-b16f-49a0-815a-0f34ca7d8b9e#ref=rss)
+### kanal
+
+* [https://www.spiegel.de/panorama/justiz/weiden-in-der-oberpfalz-22-jaehriger-stirbt-in-kanal-vermeintliche-freunde-des-opfers-verurteilt](https://www.spiegel.de/panorama/justiz/weiden-in-der-oberpfalz-22-jaehriger-stirbt-in-kanal-vermeintliche-freunde-des-opfers-verurteilt-a-a7fc7402-1fae-4fe6-ab0a-821828892f7a#ref=rss)
+### fiel
+
+* [https://www.spiegel.de/panorama/justiz/weiden-in-der-oberpfalz-22-jaehriger-stirbt-in-kanal-vermeintliche-freunde-des-opfers-verurteilt](https://www.spiegel.de/panorama/justiz/weiden-in-der-oberpfalz-22-jaehriger-stirbt-in-kanal-vermeintliche-freunde-des-opfers-verurteilt-a-a7fc7402-1fae-4fe6-ab0a-821828892f7a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel](https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel-a-5f3c91b5-b16f-49a0-815a-0f34ca7d8b9e#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/weiden-in-der-oberpfalz-22-jaehriger-stirbt-in-kanal-vermeintliche-freunde-des-opfers-verurteilt](https://www.spiegel.de/panorama/justiz/weiden-in-der-oberpfalz-22-jaehriger-stirbt-in-kanal-vermeintliche-freunde-des-opfers-verurteilt-a-a7fc7402-1fae-4fe6-ab0a-821828892f7a#ref=rss)
+### cabrio
+
+* [https://www.spiegel.de/auto/cabrio-selbstgemacht-polizei-stoppt-auto-mit-abgesaegtem-dach](https://www.spiegel.de/auto/cabrio-selbstgemacht-polizei-stoppt-auto-mit-abgesaegtem-dach-a-8ee8666c-ab1c-4499-b764-90fbb341261c#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/auto/cabrio-selbstgemacht-polizei-stoppt-auto-mit-abgesaegtem-dach](https://www.spiegel.de/auto/cabrio-selbstgemacht-polizei-stoppt-auto-mit-abgesaegtem-dach-a-8ee8666c-ab1c-4499-b764-90fbb341261c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-querdenker-bewerfen-auto-des-gesundheitsministers-mit-ei](https://www.spiegel.de/politik/deutschland/jens-spahn-querdenker-bewerfen-auto-des-gesundheitsministers-mit-ei-a-77b13a74-7223-4f71-a34a-dd5a59a40de8#ref=rss)
+### auto
+
+* [https://www.spiegel.de/auto/cabrio-selbstgemacht-polizei-stoppt-auto-mit-abgesaegtem-dach](https://www.spiegel.de/auto/cabrio-selbstgemacht-polizei-stoppt-auto-mit-abgesaegtem-dach-a-8ee8666c-ab1c-4499-b764-90fbb341261c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-querdenker-bewerfen-auto-des-gesundheitsministers-mit-ei](https://www.spiegel.de/politik/deutschland/jens-spahn-querdenker-bewerfen-auto-des-gesundheitsministers-mit-ei-a-77b13a74-7223-4f71-a34a-dd5a59a40de8#ref=rss)
+### griechische
+
+* [https://www.spiegel.de/reise/kreta-rhodos-naxos-mykonos-kos-griechische-urlaubsinseln-zu-hochrisikogebieten-hochgestuft](https://www.spiegel.de/reise/kreta-rhodos-naxos-mykonos-kos-griechische-urlaubsinseln-zu-hochrisikogebieten-hochgestuft-a-d9fb6d9b-fa55-4382-bed9-245042cb3fef#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf](https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf-a-7e64acff-7175-459e-b66c-29decba65bbc#ref=rss)
+* [https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin](https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin-a-e092a416-41e8-4660-a165-eaa367d8b920#ref=rss)
+### maas
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf](https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf-a-7e64acff-7175-459e-b66c-29decba65bbc#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf](https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf-a-7e64acff-7175-459e-b66c-29decba65bbc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-armin-laschets-wahlkampf-ksk-hubschrauber-in-afghanistan-star-trek-erfinder-gene-roddenberry](https://www.spiegel.de/politik/deutschland/news-des-tages-armin-laschets-wahlkampf-ksk-hubschrauber-in-afghanistan-star-trek-erfinder-gene-roddenberry-a-7612a625-c24f-4a94-b9e6-2060895ebc4b#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf](https://www.spiegel.de/politik/deutschland/afghanistan-cdu-geheimdienstexperte-fordert-heiko-maas-zum-ruecktritt-auf-a-7e64acff-7175-459e-b66c-29decba65bbc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-armin-laschets-wahlkampf-ksk-hubschrauber-in-afghanistan-star-trek-erfinder-gene-roddenberry](https://www.spiegel.de/politik/deutschland/news-des-tages-armin-laschets-wahlkampf-ksk-hubschrauber-in-afghanistan-star-trek-erfinder-gene-roddenberry-a-7612a625-c24f-4a94-b9e6-2060895ebc4b#ref=rss)
+### freilassung
+
+* [https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin](https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin-a-e092a416-41e8-4660-a165-eaa367d8b920#ref=rss)
+### letzten
+
+* [https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin](https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin-a-e092a416-41e8-4660-a165-eaa367d8b920#ref=rss)
+* [https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch](https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch-a-99308741-d50c-44df-85ef-dd442b7a31bf#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin](https://www.spiegel.de/ausland/angela-merkel-fordert-freilassung-von-alexej-nawalny-von-putin-a-e092a416-41e8-4660-a165-eaa367d8b920#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny](https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny-a-a75455a8-ef1f-4b9d-8a77-bf7a9d24c112#ref=rss)
+### armin
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-armin-laschets-wahlkampf-ksk-hubschrauber-in-afghanistan-star-trek-erfinder-gene-roddenberry](https://www.spiegel.de/politik/deutschland/news-des-tages-armin-laschets-wahlkampf-ksk-hubschrauber-in-afghanistan-star-trek-erfinder-gene-roddenberry-a-7612a625-c24f-4a94-b9e6-2060895ebc4b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-massiver-frust-in-cdu-chats-ueber-kandidat-armin-laschet](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-massiver-frust-in-cdu-chats-ueber-kandidat-armin-laschet-a-2879c051-31b0-486b-ab00-bd3a59f8a735#ref=rss)
+### star
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-armin-laschets-wahlkampf-ksk-hubschrauber-in-afghanistan-star-trek-erfinder-gene-roddenberry](https://www.spiegel.de/politik/deutschland/news-des-tages-armin-laschets-wahlkampf-ksk-hubschrauber-in-afghanistan-star-trek-erfinder-gene-roddenberry-a-7612a625-c24f-4a94-b9e6-2060895ebc4b#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/generalinspekteur-der-bundeswehr-zorn-ueber-evakuierungsplaene-in-kabul](https://www.spiegel.de/ausland/generalinspekteur-der-bundeswehr-zorn-ueber-evakuierungsplaene-in-kabul-a-38ab077e-3757-4611-9cb2-9483bdce105f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land](https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land-a-2322d593-d949-4607-9dfe-0b0de928c46b#ref=rss)
+### henrik
+
+* [https://www.spiegel.de/sport/eishockey/henrik-lundqvist-eishockey-startorhueter-beendet-karriere](https://www.spiegel.de/sport/eishockey/henrik-lundqvist-eishockey-startorhueter-beendet-karriere-a-3b5e0a79-2323-4988-8e22-1d510a6415aa#ref=rss)
+### lundqvist
+
+* [https://www.spiegel.de/sport/eishockey/henrik-lundqvist-eishockey-startorhueter-beendet-karriere](https://www.spiegel.de/sport/eishockey/henrik-lundqvist-eishockey-startorhueter-beendet-karriere-a-3b5e0a79-2323-4988-8e22-1d510a6415aa#ref=rss)
+### beendet
+
+* [https://www.spiegel.de/sport/eishockey/henrik-lundqvist-eishockey-startorhueter-beendet-karriere](https://www.spiegel.de/sport/eishockey/henrik-lundqvist-eishockey-startorhueter-beendet-karriere-a-3b5e0a79-2323-4988-8e22-1d510a6415aa#ref=rss)
+### karriere
+
+* [https://www.spiegel.de/sport/eishockey/henrik-lundqvist-eishockey-startorhueter-beendet-karriere](https://www.spiegel.de/sport/eishockey/henrik-lundqvist-eishockey-startorhueter-beendet-karriere-a-3b5e0a79-2323-4988-8e22-1d510a6415aa#ref=rss)
+### fluchtversuch
+
+* [https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel](https://www.spiegel.de/sport/fussball/afghanistan-nachwuchsfussballer-stirbt-bei-fluchtversuch-in-kabul-der-junge-der-vom-himmel-fiel-a-5f3c91b5-b16f-49a0-815a-0f34ca7d8b9e#ref=rss)
+### rund
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land](https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land-a-2322d593-d949-4607-9dfe-0b0de928c46b#ref=rss)
+### 300
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land](https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land-a-2322d593-d949-4607-9dfe-0b0de928c46b#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land](https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land-a-2322d593-d949-4607-9dfe-0b0de928c46b#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden](https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden-a-db344991-c6d6-41d9-a6ca-f52a20112d36#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik-a-2e9aa5e7-ac32-45a8-a09d-a0ac28b3dc93#ref=rss)
-### sollte
+* [https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land](https://www.spiegel.de/politik/deutschland/afghanistan-nach-taliban-machtuebernahme-rund-300-deutsche-noch-im-land-a-2322d593-d949-4607-9dfe-0b0de928c46b#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden](https://www.spiegel.de/sport/tennis/us-open-rafael-nadal-muss-tennis-saison-vorzeitig-beenden-a-db344991-c6d6-41d9-a6ca-f52a20112d36#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/facebook-schuetzt-afghanische-nutzerkonten](https://www.spiegel.de/netzwelt/apps/facebook-schuetzt-afghanische-nutzerkonten-a-37bc2faf-4d6e-4b76-8c70-cb504286e264#ref=rss)
-### lokführer
+* [https://www.spiegel.de/panorama/gesellschaft/tuerkei-bisher-79-tote-nach-heftigen-regenfaellen-gefunden](https://www.spiegel.de/panorama/gesellschaft/tuerkei-bisher-79-tote-nach-heftigen-regenfaellen-gefunden-a-d182b7c1-eec5-443e-ac8b-4df6d767571f#ref=rss)
+### japan
 
-* [https://www.spiegel.de/karriere/deutsche-bahn-ein-lokfuehrer-berichtet-von-seinem-joballtag](https://www.spiegel.de/karriere/deutsche-bahn-ein-lokfuehrer-berichtet-von-seinem-joballtag-a-b6e7b7ac-27b7-443d-b243-84393544fbc4#ref=rss)
-### uhr
+* [https://www.spiegel.de/netzwelt/web/japanische-handelsplattform-fuer-kryptowaehrungen-gehackt](https://www.spiegel.de/netzwelt/web/japanische-handelsplattform-fuer-kryptowaehrungen-gehackt-a-98fb45cf-bc93-48d1-83c0-656f7cf4a348#ref=rss)
+### kryptowährungen
 
-* [https://www.spiegel.de/karriere/deutsche-bahn-ein-lokfuehrer-berichtet-von-seinem-joballtag](https://www.spiegel.de/karriere/deutsche-bahn-ein-lokfuehrer-berichtet-von-seinem-joballtag-a-b6e7b7ac-27b7-443d-b243-84393544fbc4#ref=rss)
-### streikt
+* [https://www.spiegel.de/netzwelt/web/japanische-handelsplattform-fuer-kryptowaehrungen-gehackt](https://www.spiegel.de/netzwelt/web/japanische-handelsplattform-fuer-kryptowaehrungen-gehackt-a-98fb45cf-bc93-48d1-83c0-656f7cf4a348#ref=rss)
+### deltavariante
 
-* [https://www.spiegel.de/karriere/deutsche-bahn-ein-lokfuehrer-berichtet-von-seinem-joballtag](https://www.spiegel.de/karriere/deutsche-bahn-ein-lokfuehrer-berichtet-von-seinem-joballtag-a-b6e7b7ac-27b7-443d-b243-84393544fbc4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an-a-de733da6-16ab-4b19-86af-355579646c00#ref=rss)
-### gene
+* [https://www.spiegel.de/wissenschaft/corona-mutation-wissenschaftler-warnen-vor-ay-3](https://www.spiegel.de/wissenschaft/corona-mutation-wissenschaftler-warnen-vor-ay-3-a-45ecb9cc-7b5d-4099-9884-63991fee53e8#ref=rss)
+### karstadt
 
-* [https://www.spiegel.de/kultur/kino/star-trek-schoepfer-gene-roddenberry-bekommt-ein-biopic](https://www.spiegel.de/kultur/kino/star-trek-schoepfer-gene-roddenberry-bekommt-ein-biopic-a-86faf6df-90ec-4caf-b4e1-87804024c175#ref=rss)
-### roddenberry
+* [https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an](https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an-a-0abda093-b422-43b7-991c-0ef244f006a3#ref=rss)
+### kaufhof
 
-* [https://www.spiegel.de/kultur/kino/star-trek-schoepfer-gene-roddenberry-bekommt-ein-biopic](https://www.spiegel.de/kultur/kino/star-trek-schoepfer-gene-roddenberry-bekommt-ein-biopic-a-86faf6df-90ec-4caf-b4e1-87804024c175#ref=rss)
-### biopic
+* [https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an](https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an-a-0abda093-b422-43b7-991c-0ef244f006a3#ref=rss)
+### schritt
 
-* [https://www.spiegel.de/kultur/kino/star-trek-schoepfer-gene-roddenberry-bekommt-ein-biopic](https://www.spiegel.de/kultur/kino/star-trek-schoepfer-gene-roddenberry-bekommt-ein-biopic-a-86faf6df-90ec-4caf-b4e1-87804024c175#ref=rss)
-### geworden
+* [https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an](https://www.spiegel.de/wirtschaft/neuer-name-neues-logo-galeria-karstadt-kaufhof-faengt-nochmal-neu-an-a-0abda093-b422-43b7-991c-0ef244f006a3#ref=rss)
+### inszenierungen
 
-* [https://www.spiegel.de/kultur/kino/star-trek-schoepfer-gene-roddenberry-bekommt-ein-biopic](https://www.spiegel.de/kultur/kino/star-trek-schoepfer-gene-roddenberry-bekommt-ein-biopic-a-86faf6df-90ec-4caf-b4e1-87804024c175#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/britney-spears-polizei-ermittelt-wegen-vorwurfs-der-koerperverletzung](https://www.spiegel.de/panorama/justiz/britney-spears-polizei-ermittelt-wegen-vorwurfs-der-koerperverletzung-a-efe72d00-d034-4591-b2ee-8c57ae0bb9e8#ref=rss)
-### spielen
+* [https://www.spiegel.de/ausland/taliban-propagandavideos-merkwuerdige-inszenierungen-in-vergnuegungsparks-und-fitnessstudio](https://www.spiegel.de/ausland/taliban-propagandavideos-merkwuerdige-inszenierungen-in-vergnuegungsparks-und-fitnessstudio-a-0debee91-1550-4215-8075-e0270de96bb1#ref=rss)
+### besuch
 
-* [https://www.spiegel.de/kultur/kino/star-trek-schoepfer-gene-roddenberry-bekommt-ein-biopic](https://www.spiegel.de/kultur/kino/star-trek-schoepfer-gene-roddenberry-bekommt-ein-biopic-a-86faf6df-90ec-4caf-b4e1-87804024c175#ref=rss)
-* [https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter](https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter-a-f7538c4d-a908-4a87-ac4b-9f8f2fecdfcc#ref=rss)
-### chuck
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny](https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny-a-a75455a8-ef1f-4b9d-8a77-bf7a9d24c112#ref=rss)
+### thema
 
-* [https://www.spiegel.de/kultur/chuck-close-fotorealismus-kuenstler-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/chuck-close-fotorealismus-kuenstler-mit-81-jahren-gestorben-a-2493beb7-207c-4eaa-b994-ebfd71c54ae3#ref=rss)
-### close
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny](https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny-a-a75455a8-ef1f-4b9d-8a77-bf7a9d24c112#ref=rss)
+### gespräche
 
-* [https://www.spiegel.de/kultur/chuck-close-fotorealismus-kuenstler-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/chuck-close-fotorealismus-kuenstler-mit-81-jahren-gestorben-a-2493beb7-207c-4eaa-b994-ebfd71c54ae3#ref=rss)
-### 81
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny](https://www.spiegel.de/politik/deutschland/angela-merkel-zu-besuch-in-moskau-afghanistan-wird-ein-thema-sein-und-alexej-nawalny-a-a75455a8-ef1f-4b9d-8a77-bf7a9d24c112#ref=rss)
+### angelo
 
-* [https://www.spiegel.de/kultur/chuck-close-fotorealismus-kuenstler-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/chuck-close-fotorealismus-kuenstler-mit-81-jahren-gestorben-a-2493beb7-207c-4eaa-b994-ebfd71c54ae3#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/justiz/angelo-kelly-muss-nach-auftritt-seines-sohns-3000-euro-bussgeld-zahlen](https://www.spiegel.de/panorama/justiz/angelo-kelly-muss-nach-auftritt-seines-sohns-3000-euro-bussgeld-zahlen-a-cd13b509-30c7-40e8-9616-8c3819b5e8d0#ref=rss)
+### kelly
 
-* [https://www.spiegel.de/kultur/chuck-close-fotorealismus-kuenstler-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/chuck-close-fotorealismus-kuenstler-mit-81-jahren-gestorben-a-2493beb7-207c-4eaa-b994-ebfd71c54ae3#ref=rss)
-### angehörigen
+* [https://www.spiegel.de/panorama/justiz/angelo-kelly-muss-nach-auftritt-seines-sohns-3000-euro-bussgeld-zahlen](https://www.spiegel.de/panorama/justiz/angelo-kelly-muss-nach-auftritt-seines-sohns-3000-euro-bussgeld-zahlen-a-cd13b509-30c7-40e8-9616-8c3819b5e8d0#ref=rss)
+### auftritt
 
-* [https://www.spiegel.de/ausland/afghanistan-taliban-toeten-angehoerigen-eines-deutsche-welle-journalisten](https://www.spiegel.de/ausland/afghanistan-taliban-toeten-angehoerigen-eines-deutsche-welle-journalisten-a-a8f38b4e-9f31-490b-a97f-841d0d6bb88c#ref=rss)
-### machtübernahme
+* [https://www.spiegel.de/panorama/justiz/angelo-kelly-muss-nach-auftritt-seines-sohns-3000-euro-bussgeld-zahlen](https://www.spiegel.de/panorama/justiz/angelo-kelly-muss-nach-auftritt-seines-sohns-3000-euro-bussgeld-zahlen-a-cd13b509-30c7-40e8-9616-8c3819b5e8d0#ref=rss)
+### 3000
 
-* [https://www.spiegel.de/ausland/afghanistan-taliban-toeten-angehoerigen-eines-deutsche-welle-journalisten](https://www.spiegel.de/ausland/afghanistan-taliban-toeten-angehoerigen-eines-deutsche-welle-journalisten-a-a8f38b4e-9f31-490b-a97f-841d0d6bb88c#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-sollen-massaker-an-hazara-angehoerigen-begangen-haben](https://www.spiegel.de/ausland/afghanistan-taliban-sollen-massaker-an-hazara-angehoerigen-begangen-haben-a-f5e18018-6a2e-4943-b1be-0be1f2c76b8e#ref=rss)
-### haus
+* [https://www.spiegel.de/panorama/justiz/angelo-kelly-muss-nach-auftritt-seines-sohns-3000-euro-bussgeld-zahlen](https://www.spiegel.de/panorama/justiz/angelo-kelly-muss-nach-auftritt-seines-sohns-3000-euro-bussgeld-zahlen-a-cd13b509-30c7-40e8-9616-8c3819b5e8d0#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/ausland/afghanistan-taliban-toeten-angehoerigen-eines-deutsche-welle-journalisten](https://www.spiegel.de/ausland/afghanistan-taliban-toeten-angehoerigen-eines-deutsche-welle-journalisten-a-a8f38b4e-9f31-490b-a97f-841d0d6bb88c#ref=rss)
-### deutscher
+* [https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch](https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch-a-99308741-d50c-44df-85ef-dd442b7a31bf#ref=rss)
+### staatsbesuch
 
-* [https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen](https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen-a-c484a47a-c55f-4e40-8e77-2f1f1e1b2756#ref=rss)
-### weg
+* [https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch](https://www.spiegel.de/ausland/angela-merkel-und-wladimir-putin-der-letzte-offizielle-staatsbesuch-a-99308741-d50c-44df-85ef-dd442b7a31bf#ref=rss)
+### spahn
 
-* [https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen](https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen-a-c484a47a-c55f-4e40-8e77-2f1f1e1b2756#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen](https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen-a-c484a47a-c55f-4e40-8e77-2f1f1e1b2756#ref=rss)
-### kabul
-
-* [https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen](https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen-a-c484a47a-c55f-4e40-8e77-2f1f1e1b2756#ref=rss)
-### bald
-
-* [https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen](https://www.spiegel.de/ausland/afghanistan-deutscher-auf-dem-weg-zum-flughafen-kabul-angeschossen-a-c484a47a-c55f-4e40-8e77-2f1f1e1b2756#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/elon-musk-kuendigt-humanoiden-roboter-an](https://www.spiegel.de/netzwelt/gadgets/elon-musk-kuendigt-humanoiden-roboter-an-a-4c442c52-1f8e-41d3-b050-051ca87dfb7e#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/wissenschaft/mensch/klima-risiko-index-fuer-kinder-unicef-es-trifft-die-die-nichts-dafur-konnen](https://www.spiegel.de/wissenschaft/mensch/klima-risiko-index-fuer-kinder-unicef-es-trifft-die-die-nichts-dafur-konnen-a-a0957976-000b-4ed1-a51c-3c325f293f2f#ref=rss)
-### autos
-
-* [https://www.spiegel.de/wissenschaft/mensch/klima-risiko-index-fuer-kinder-unicef-es-trifft-die-die-nichts-dafur-konnen](https://www.spiegel.de/wissenschaft/mensch/klima-risiko-index-fuer-kinder-unicef-es-trifft-die-die-nichts-dafur-konnen-a-a0957976-000b-4ed1-a51c-3c325f293f2f#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/elon-musk-kuendigt-humanoiden-roboter-an](https://www.spiegel.de/netzwelt/gadgets/elon-musk-kuendigt-humanoiden-roboter-an-a-4c442c52-1f8e-41d3-b050-051ca87dfb7e#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-sollen-massaker-an-hazara-angehoerigen-begangen-haben](https://www.spiegel.de/ausland/afghanistan-taliban-sollen-massaker-an-hazara-angehoerigen-begangen-haben-a-f5e18018-6a2e-4943-b1be-0be1f2c76b8e#ref=rss)
-* [https://www.spiegel.de/ausland/mali-15-soldaten-bei-angriff-auf-militaerkonvoi-getoetet](https://www.spiegel.de/ausland/mali-15-soldaten-bei-angriff-auf-militaerkonvoi-getoetet-a-9a523238-464c-43d5-b82d-c4f661434bbc#ref=rss)
-### google
-
-* [https://www.spiegel.de/netzwelt/web/google-us-strafverfolger-verlangen-tausende-standortdaten-der-nutzer](https://www.spiegel.de/netzwelt/web/google-us-strafverfolger-verlangen-tausende-standortdaten-der-nutzer-a-e6118e15-35c3-42f3-a9e8-167e81bdbda8#ref=rss)
-### nutzer
-
-* [https://www.spiegel.de/netzwelt/web/google-us-strafverfolger-verlangen-tausende-standortdaten-der-nutzer](https://www.spiegel.de/netzwelt/web/google-us-strafverfolger-verlangen-tausende-standortdaten-der-nutzer-a-e6118e15-35c3-42f3-a9e8-167e81bdbda8#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/facebook-schuetzt-afghanische-nutzerkonten](https://www.spiegel.de/netzwelt/apps/facebook-schuetzt-afghanische-nutzerkonten-a-37bc2faf-4d6e-4b76-8c70-cb504286e264#ref=rss)
-### bestimmten
-
-* [https://www.spiegel.de/netzwelt/web/google-us-strafverfolger-verlangen-tausende-standortdaten-der-nutzer](https://www.spiegel.de/netzwelt/web/google-us-strafverfolger-verlangen-tausende-standortdaten-der-nutzer-a-e6118e15-35c3-42f3-a9e8-167e81bdbda8#ref=rss)
-### sylt
-
-* [https://www.spiegel.de/panorama/justiz/sylt-urlauberin-und-rettungsschwimmer-sterben-nach-badeunglueck](https://www.spiegel.de/panorama/justiz/sylt-urlauberin-und-rettungsschwimmer-sterben-nach-badeunglueck-a-f076213e-5ad5-43fd-92a3-f96761de6827#ref=rss)
-### rettungsschwimmer
-
-* [https://www.spiegel.de/panorama/justiz/sylt-urlauberin-und-rettungsschwimmer-sterben-nach-badeunglueck](https://www.spiegel.de/panorama/justiz/sylt-urlauberin-und-rettungsschwimmer-sterben-nach-badeunglueck-a-f076213e-5ad5-43fd-92a3-f96761de6827#ref=rss)
-### kevin
-
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech-a-a2b2b529-0002-0001-0000-000178874247#ref=rss)
-### kühnert
-
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech-a-a2b2b529-0002-0001-0000-000178874247#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech-a-a2b2b529-0002-0001-0000-000178874247#ref=rss)
-### volker
-
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech-a-a2b2b529-0002-0001-0000-000178874247#ref=rss)
-### wissing
-
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech-a-a2b2b529-0002-0001-0000-000178874247#ref=rss)
-### britta
-
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech-a-a2b2b529-0002-0001-0000-000178874247#ref=rss)
-### haßelmann
-
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech-a-a2b2b529-0002-0001-0000-000178874247#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech-a-a2b2b529-0002-0001-0000-000178874247#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundestagswahl-edeka-verbannt-flaschen-mit-afd-wahlprogramm-aus-regalen](https://www.spiegel.de/wirtschaft/unternehmen/bundestagswahl-edeka-verbannt-flaschen-mit-afd-wahlprogramm-aus-regalen-a-cf5568e7-8e77-4f45-a937-4bfd3cc80967#ref=rss)
-### streiten
-
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-spd-volker-wissing-fdp-und-britta-hasselmann-gruene-im-spiegel-streitgespraech-a-a2b2b529-0002-0001-0000-000178874247#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundestagswahl-edeka-verbannt-flaschen-mit-afd-wahlprogramm-aus-regalen](https://www.spiegel.de/wirtschaft/unternehmen/bundestagswahl-edeka-verbannt-flaschen-mit-afd-wahlprogramm-aus-regalen-a-cf5568e7-8e77-4f45-a937-4bfd3cc80967#ref=rss)
-### demokratie
-
-* [https://www.spiegel.de/ausland/mary-trump-donald-ist-ein-faschist-und-die-republikaner-versuchen-unsere-demokratie-zu-zerstoeren](https://www.spiegel.de/ausland/mary-trump-donald-ist-ein-faschist-und-die-republikaner-versuchen-unsere-demokratie-zu-zerstoeren-a-fe98d67c-0002-0001-0000-000178874276#ref=rss)
-### zerstören
-
-* [https://www.spiegel.de/ausland/mary-trump-donald-ist-ein-faschist-und-die-republikaner-versuchen-unsere-demokratie-zu-zerstoeren](https://www.spiegel.de/ausland/mary-trump-donald-ist-ein-faschist-und-die-republikaner-versuchen-unsere-demokratie-zu-zerstoeren-a-fe98d67c-0002-0001-0000-000178874276#ref=rss)
-### gdl
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an-a-de733da6-16ab-4b19-86af-355579646c00#ref=rss)
-### samstag
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-lokfuehrergewerkschaft-gdl-streikt-von-samstag-an-a-de733da6-16ab-4b19-86af-355579646c00#ref=rss)
-### gdlchef
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik-a-2e9aa5e7-ac32-45a8-a09d-a0ac28b3dc93#ref=rss)
-### claus
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik-a-2e9aa5e7-ac32-45a8-a09d-a0ac28b3dc93#ref=rss)
-### weselsky
-
-* [https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik](https://www.spiegel.de/wirtschaft/service/deutsche-bahn-das-sagt-gdl-chef-claus-weselsky-zum-moeglichen-streik-a-2e9aa5e7-ac32-45a8-a09d-a0ac28b3dc93#ref=rss)
-### edeka
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundestagswahl-edeka-verbannt-flaschen-mit-afd-wahlprogramm-aus-regalen](https://www.spiegel.de/wirtschaft/unternehmen/bundestagswahl-edeka-verbannt-flaschen-mit-afd-wahlprogramm-aus-regalen-a-cf5568e7-8e77-4f45-a937-4bfd3cc80967#ref=rss)
-### flaschen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bundestagswahl-edeka-verbannt-flaschen-mit-afd-wahlprogramm-aus-regalen](https://www.spiegel.de/wirtschaft/unternehmen/bundestagswahl-edeka-verbannt-flaschen-mit-afd-wahlprogramm-aus-regalen-a-cf5568e7-8e77-4f45-a937-4bfd3cc80967#ref=rss)
-### 13jähriger
-
-* [https://www.spiegel.de/panorama/justiz/heimertingen-13-jaehriger-von-zug-erfasst-und-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/heimertingen-13-jaehriger-von-zug-erfasst-und-toedlich-verletzt-a-8ba9065f-3bd9-494e-8ffb-2636e3d32d4c#ref=rss)
-### zug
-
-* [https://www.spiegel.de/panorama/justiz/heimertingen-13-jaehriger-von-zug-erfasst-und-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/heimertingen-13-jaehriger-von-zug-erfasst-und-toedlich-verletzt-a-8ba9065f-3bd9-494e-8ffb-2636e3d32d4c#ref=rss)
-### becky
-
-* [https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche](https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche-a-c959690b-cad4-4b1a-906b-e76c0b62600f#ref=rss)
-### hill
-
-* [https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche](https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche-a-c959690b-cad4-4b1a-906b-e76c0b62600f#ref=rss)
-### kool
-
-* [https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche](https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche-a-c959690b-cad4-4b1a-906b-e76c0b62600f#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche](https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche-a-c959690b-cad4-4b1a-906b-e76c0b62600f#ref=rss)
-### gang
-
-* [https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche](https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche-a-c959690b-cad4-4b1a-906b-e76c0b62600f#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche](https://www.spiegel.de/kultur/musik/becky-hill-villagers-kool-und-the-gang-school-of-zuversicht-jake-bugg-alben-der-woche-a-c959690b-cad4-4b1a-906b-e76c0b62600f#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/facebook-schuetzt-afghanische-nutzerkonten](https://www.spiegel.de/netzwelt/apps/facebook-schuetzt-afghanische-nutzerkonten-a-37bc2faf-4d6e-4b76-8c70-cb504286e264#ref=rss)
-### don
-
-* [https://www.spiegel.de/sport/box-promoter-don-king-wird-90-mister-skrupellos](https://www.spiegel.de/sport/box-promoter-don-king-wird-90-mister-skrupellos-a-49b492dd-b44b-4fa8-8e86-ea15c7e7f4e3#ref=rss)
-### king
-
-* [https://www.spiegel.de/sport/box-promoter-don-king-wird-90-mister-skrupellos](https://www.spiegel.de/sport/box-promoter-don-king-wird-90-mister-skrupellos-a-49b492dd-b44b-4fa8-8e86-ea15c7e7f4e3#ref=rss)
-### 90
-
-* [https://www.spiegel.de/sport/box-promoter-don-king-wird-90-mister-skrupellos](https://www.spiegel.de/sport/box-promoter-don-king-wird-90-mister-skrupellos-a-49b492dd-b44b-4fa8-8e86-ea15c7e7f4e3#ref=rss)
-### marcus
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-inter-mailand-will-offenbar-marcus-thuram-wendell-verlaesst-bayer-leverkusen](https://www.spiegel.de/sport/fussball/fussball-transfers-inter-mailand-will-offenbar-marcus-thuram-wendell-verlaesst-bayer-leverkusen-a-fbcac862-296a-40bd-aeee-397e43f0f67b#ref=rss)
-### thuram
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-inter-mailand-will-offenbar-marcus-thuram-wendell-verlaesst-bayer-leverkusen](https://www.spiegel.de/sport/fussball/fussball-transfers-inter-mailand-will-offenbar-marcus-thuram-wendell-verlaesst-bayer-leverkusen-a-fbcac862-296a-40bd-aeee-397e43f0f67b#ref=rss)
-### wendell
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-inter-mailand-will-offenbar-marcus-thuram-wendell-verlaesst-bayer-leverkusen](https://www.spiegel.de/sport/fussball/fussball-transfers-inter-mailand-will-offenbar-marcus-thuram-wendell-verlaesst-bayer-leverkusen-a-fbcac862-296a-40bd-aeee-397e43f0f67b#ref=rss)
-### haiti
-
-* [https://www.spiegel.de/panorama/haiti-deutsches-notfallteam-startet-zu-hilfsmission-nach-erdbeben](https://www.spiegel.de/panorama/haiti-deutsches-notfallteam-startet-zu-hilfsmission-nach-erdbeben-a-2df57bc2-445a-4b1b-a40d-c0581dced957#ref=rss)
-### deutsches
-
-* [https://www.spiegel.de/panorama/haiti-deutsches-notfallteam-startet-zu-hilfsmission-nach-erdbeben](https://www.spiegel.de/panorama/haiti-deutsches-notfallteam-startet-zu-hilfsmission-nach-erdbeben-a-2df57bc2-445a-4b1b-a40d-c0581dced957#ref=rss)
-### erdbeben
-
-* [https://www.spiegel.de/panorama/haiti-deutsches-notfallteam-startet-zu-hilfsmission-nach-erdbeben](https://www.spiegel.de/panorama/haiti-deutsches-notfallteam-startet-zu-hilfsmission-nach-erdbeben-a-2df57bc2-445a-4b1b-a40d-c0581dced957#ref=rss)
-### britney
-
-* [https://www.spiegel.de/panorama/justiz/britney-spears-polizei-ermittelt-wegen-vorwurfs-der-koerperverletzung](https://www.spiegel.de/panorama/justiz/britney-spears-polizei-ermittelt-wegen-vorwurfs-der-koerperverletzung-a-efe72d00-d034-4591-b2ee-8c57ae0bb9e8#ref=rss)
-### spears
-
-* [https://www.spiegel.de/panorama/justiz/britney-spears-polizei-ermittelt-wegen-vorwurfs-der-koerperverletzung](https://www.spiegel.de/panorama/justiz/britney-spears-polizei-ermittelt-wegen-vorwurfs-der-koerperverletzung-a-efe72d00-d034-4591-b2ee-8c57ae0bb9e8#ref=rss)
-### afghanische
-
-* [https://www.spiegel.de/netzwelt/apps/facebook-schuetzt-afghanische-nutzerkonten](https://www.spiegel.de/netzwelt/apps/facebook-schuetzt-afghanische-nutzerkonten-a-37bc2faf-4d6e-4b76-8c70-cb504286e264#ref=rss)
-### land
-
-* [https://www.spiegel.de/netzwelt/apps/facebook-schuetzt-afghanische-nutzerkonten](https://www.spiegel.de/netzwelt/apps/facebook-schuetzt-afghanische-nutzerkonten-a-37bc2faf-4d6e-4b76-8c70-cb504286e264#ref=rss)
-* [https://www.spiegel.de/ausland/mali-15-soldaten-bei-angriff-auf-militaerkonvoi-getoetet](https://www.spiegel.de/ausland/mali-15-soldaten-bei-angriff-auf-militaerkonvoi-getoetet-a-9a523238-464c-43d5-b82d-c4f661434bbc#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/ausland/mali-15-soldaten-bei-angriff-auf-militaerkonvoi-getoetet](https://www.spiegel.de/ausland/mali-15-soldaten-bei-angriff-auf-militaerkonvoi-getoetet-a-9a523238-464c-43d5-b82d-c4f661434bbc#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/ausland/mali-15-soldaten-bei-angriff-auf-militaerkonvoi-getoetet](https://www.spiegel.de/ausland/mali-15-soldaten-bei-angriff-auf-militaerkonvoi-getoetet-a-9a523238-464c-43d5-b82d-c4f661434bbc#ref=rss)
-### naomi
-
-* [https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter](https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter-a-f7538c4d-a908-4a87-ac4b-9f8f2fecdfcc#ref=rss)
-### osaka
-
-* [https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter](https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter-a-f7538c4d-a908-4a87-ac4b-9f8f2fecdfcc#ref=rss)
-### cincinnati
-
-* [https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter](https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter-a-f7538c4d-a908-4a87-ac4b-9f8f2fecdfcc#ref=rss)
-### angelique
-
-* [https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter](https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter-a-f7538c4d-a908-4a87-ac4b-9f8f2fecdfcc#ref=rss)
-### kerber
-
-* [https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter](https://www.spiegel.de/sport/tennis/naomi-osaka-scheitert-beim-wta-turnier-in-cincinnati-angelique-kerber-siegt-weiter-a-f7538c4d-a908-4a87-ac4b-9f8f2fecdfcc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-querdenker-bewerfen-auto-des-gesundheitsministers-mit-ei](https://www.spiegel.de/politik/deutschland/jens-spahn-querdenker-bewerfen-auto-des-gesundheitsministers-mit-ei-a-77b13a74-7223-4f71-a34a-dd5a59a40de8#ref=rss)
 
