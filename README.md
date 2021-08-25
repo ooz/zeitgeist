@@ -109,13 +109,13 @@ empfehlungen(307) enorm(307) france(307) rad(307) 39(305) digitalisierung(305) e
 
 ```
 date, investment, buy price, sell price
-2021-08-18 10:09:51, 1-EUR, 1.17 USD, 1.17 USD
-2021-08-18 10:09:51, 1-EUR, 7.62 CNY, 7.62 CNY
-2021-08-18 10:09:52, crude-oil-brent-barrel, 69.76 USD, 69.76 USD
-2021-08-18 10:09:52, gold-10g, 513.83 EUR, 485.92 EUR
-2021-08-18 10:09:56, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-08-18 10:09:58, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-08-18 10:09:59, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
+2021-08-25 10:10:33, 1-EUR, 1.17 USD, 1.17 USD
+2021-08-25 10:10:33, 1-EUR, 7.6 CNY, 7.6 CNY
+2021-08-25 10:10:34, crude-oil-brent-barrel, 70.97 USD, 70.97 USD
+2021-08-25 10:10:34, gold-10g, 514.04 EUR, 486.16 EUR
+2021-08-25 10:10:39, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-08-25 10:10:41, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-08-25 10:10:42, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
 ```
 
 <footer>
