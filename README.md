@@ -112,13 +112,13 @@ brettspiele(314) erneute(314) antreten(313) ausbruch(313) regierungschefs(313) s
 
 ```
 date, investment, buy price, sell price
-2021-08-25 10:10:33, 1-EUR, 1.17 USD, 1.17 USD
-2021-08-25 10:10:33, 1-EUR, 7.6 CNY, 7.6 CNY
-2021-08-25 10:10:34, crude-oil-brent-barrel, 70.97 USD, 70.97 USD
-2021-08-25 10:10:34, gold-10g, 514.04 EUR, 486.16 EUR
-2021-08-25 10:10:39, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-08-25 10:10:41, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-08-25 10:10:42, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
+2021-09-01 10:10:38, 1-EUR, 1.18 USD, 1.18 USD
+2021-09-01 10:10:38, 1-EUR, 7.64 CNY, 7.64 CNY
+2021-09-01 10:10:39, crude-oil-brent-barrel, 71.96 USD, 71.96 USD
+2021-09-01 10:10:39, gold-10g, 516.38 EUR, 488.32 EUR
+2021-09-01 10:10:44, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-09-01 10:10:46, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-09-01 10:10:47, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
 ```
 
 <footer>
