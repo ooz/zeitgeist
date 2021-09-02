@@ -4,328 +4,321 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-geht-gerichtlich-gegen-lokfuehrerstreik-vor](https://www.spiegel.de/wirtschaft/unternehmen/bahn-geht-gerichtlich-gegen-lokfuehrerstreik-vor-a-add1ec45-2e80-441f-a454-39d64fe19549#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende](https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende-a-b93814bb-1281-4211-8699-fcdd5f219fd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream](https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream-a-48a96837-3d1b-4741-bd0d-32756cb6f6b7#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste](https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste-a-3d5b4549-62c4-4035-9079-a7258ba01559#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc](https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc-a-498f1ea7-6186-4fbb-bf89-5f5cede4122e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen-a-618cf9cf-192b-4a32-821f-2bf7fe3f19ff#ref=rss)
-### york
-
-* [https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste](https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste-a-3d5b4549-62c4-4035-9079-a7258ba01559#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc](https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc-a-498f1ea7-6186-4fbb-bf89-5f5cede4122e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen-a-618cf9cf-192b-4a32-821f-2bf7fe3f19ff#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/eugh-entscheidung-nuerburgring-verkauf-muss-neu-geprueft-werden](https://www.spiegel.de/wirtschaft/eugh-entscheidung-nuerburgring-verkauf-muss-neu-geprueft-werden-a-23d15354-c0b2-4dc9-a175-f5ec88426bf8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/baden-baden-grossbrand-wuetet-im-hotel-badischer-hof-mehr-als-150-gaeste-gerettet](https://www.spiegel.de/panorama/gesellschaft/baden-baden-grossbrand-wuetet-im-hotel-badischer-hof-mehr-als-150-gaeste-gerettet-a-d996ec5d-a022-498b-a3d3-70e16049a0fe#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/apples-trippelschritt-zu-mehr-abo-optionen](https://www.spiegel.de/netzwelt/apps/apples-trippelschritt-zu-mehr-abo-optionen-a-e4816e9d-ae88-4ae7-9dca-e4c2ec37475a#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste](https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste-a-3d5b4549-62c4-4035-9079-a7258ba01559#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-was-die-menschen-vor-ort-jetzt-brauchen-die-kolumne-von-sima-samar](https://www.spiegel.de/ausland/afghanistan-was-die-menschen-vor-ort-jetzt-brauchen-die-kolumne-von-sima-samar-a-6ba952c4-bfdf-4c53-98c2-7702505250b9#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib](https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib-a-984a6975-a595-43ce-9e8d-a7891280ec0a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende](https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende-a-b93814bb-1281-4211-8699-fcdd5f219fd8#ref=rss)
-### paralympics
-
-* [https://www.spiegel.de/sport/paralympics-rollstuhltennis-star-joachim-gerard-bricht-im-athletendorf-zusammen](https://www.spiegel.de/sport/paralympics-rollstuhltennis-star-joachim-gerard-bricht-im-athletendorf-zusammen-a-413936ae-2693-4498-9579-f907f5460623#ref=rss)
-* [https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen](https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen-a-0353a2b8-2873-402b-9365-44e95b0ba49c#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/wirtschaft/eugh-entscheidung-nuerburgring-verkauf-muss-neu-geprueft-werden](https://www.spiegel.de/wirtschaft/eugh-entscheidung-nuerburgring-verkauf-muss-neu-geprueft-werden-a-23d15354-c0b2-4dc9-a175-f5ec88426bf8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-staatsanwaltschaft-klagt-sechs-maenner-wegen-juwelendiebstahls-an](https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-staatsanwaltschaft-klagt-sechs-maenner-wegen-juwelendiebstahls-an-a-73101090-8561-4a05-b57d-079e365c83f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-geht-gerichtlich-gegen-lokfuehrerstreik-vor](https://www.spiegel.de/wirtschaft/unternehmen/bahn-geht-gerichtlich-gegen-lokfuehrerstreik-vor-a-add1ec45-2e80-441f-a454-39d64fe19549#ref=rss)
-### verdacht
-
-* [https://www.spiegel.de/wirtschaft/eugh-entscheidung-nuerburgring-verkauf-muss-neu-geprueft-werden](https://www.spiegel.de/wirtschaft/eugh-entscheidung-nuerburgring-verkauf-muss-neu-geprueft-werden-a-23d15354-c0b2-4dc9-a175-f5ec88426bf8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/baden-baden-grossbrand-wuetet-im-hotel-badischer-hof-mehr-als-150-gaeste-gerettet](https://www.spiegel.de/panorama/gesellschaft/baden-baden-grossbrand-wuetet-im-hotel-badischer-hof-mehr-als-150-gaeste-gerettet-a-d996ec5d-a022-498b-a3d3-70e16049a0fe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-razzia-in-berlin-wegen-moeglichen-betrugs-bei-corona-hilfen](https://www.spiegel.de/wirtschaft/unternehmen/corona-razzia-in-berlin-wegen-moeglichen-betrugs-bei-corona-hilfen-a-945fea8f-074c-44dd-9018-f53b634b1a57#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-muss-unabhaengiger-werden](https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-muss-unabhaengiger-werden-a-a301ad58-6bd2-4d78-a7bc-ff3a2fbaa0ac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende](https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende-a-b93814bb-1281-4211-8699-fcdd5f219fd8#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wissenschaft/mensch/klima-lockte-fruehmenschen-immer-wieder-nach-arabien](https://www.spiegel.de/wissenschaft/mensch/klima-lockte-fruehmenschen-immer-wieder-nach-arabien-a-0a10dcf8-1661-4468-b1a5-30aff3a582c1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen](https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen-a-247cf921-5ded-422e-94a1-13aa4e915d6c#ref=rss)
-* [https://www.spiegel.de/kultur/mikis-theodorakis-gestorben](https://www.spiegel.de/kultur/mikis-theodorakis-gestorben-a-d4fa7026-0681-47db-a798-bcbecf225b42#ref=rss)
-### ida
-
-* [https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste](https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste-a-3d5b4549-62c4-4035-9079-a7258ba01559#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen-a-618cf9cf-192b-4a32-821f-2bf7fe3f19ff#ref=rss)
-### gdlchef
-
-* [https://www.spiegel.de/wirtschaft/gdl-chef-claus-weselsky-das-ist-schmierentheater](https://www.spiegel.de/wirtschaft/gdl-chef-claus-weselsky-das-ist-schmierentheater-a-5a50eeb5-bca2-401b-8d82-afa89a8e63fa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream](https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream-a-48a96837-3d1b-4741-bd0d-32756cb6f6b7#ref=rss)
-### claus
-
-* [https://www.spiegel.de/wirtschaft/gdl-chef-claus-weselsky-das-ist-schmierentheater](https://www.spiegel.de/wirtschaft/gdl-chef-claus-weselsky-das-ist-schmierentheater-a-5a50eeb5-bca2-401b-8d82-afa89a8e63fa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream](https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream-a-48a96837-3d1b-4741-bd0d-32756cb6f6b7#ref=rss)
-### weselsky
-
-* [https://www.spiegel.de/wirtschaft/gdl-chef-claus-weselsky-das-ist-schmierentheater](https://www.spiegel.de/wirtschaft/gdl-chef-claus-weselsky-das-ist-schmierentheater-a-5a50eeb5-bca2-401b-8d82-afa89a8e63fa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream](https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream-a-48a96837-3d1b-4741-bd0d-32756cb6f6b7#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/netzwelt/apps/bundestagswahl-facebook-oeffnet-whatsapp-fuer-externe-faktenpruefer](https://www.spiegel.de/netzwelt/apps/bundestagswahl-facebook-oeffnet-whatsapp-fuer-externe-faktenpruefer-a-e2b9cf09-1d69-45c6-80b7-e4175bf92e77#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-2021-wen-sie-bei-der-bundestagswahl-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-2021-wen-sie-bei-der-bundestagswahl-waehlen-wollen-a-29b1ac00-28be-49fe-99d0-a510798a87c2#ref=rss)
-### ende
-
-* [https://www.spiegel.de/kultur/tv/nora-tschirner-hoert-als-tatort-kommissarin-auf](https://www.spiegel.de/kultur/tv/nora-tschirner-hoert-als-tatort-kommissarin-auf-a-cd2ece08-a5b6-4710-891d-030eeaf28655#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen](https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen-a-247cf921-5ded-422e-94a1-13aa4e915d6c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende](https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende-a-b93814bb-1281-4211-8699-fcdd5f219fd8#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/tv/nora-tschirner-hoert-als-tatort-kommissarin-auf](https://www.spiegel.de/kultur/tv/nora-tschirner-hoert-als-tatort-kommissarin-auf-a-cd2ece08-a5b6-4710-891d-030eeaf28655#ref=rss)
-* [https://www.spiegel.de/kultur/mikis-theodorakis-gestorben](https://www.spiegel.de/kultur/mikis-theodorakis-gestorben-a-d4fa7026-0681-47db-a798-bcbecf225b42#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/ausland/afghanistan-was-die-menschen-vor-ort-jetzt-brauchen-die-kolumne-von-sima-samar](https://www.spiegel.de/ausland/afghanistan-was-die-menschen-vor-ort-jetzt-brauchen-die-kolumne-von-sima-samar-a-6ba952c4-bfdf-4c53-98c2-7702505250b9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-staatsanwaltschaft-klagt-sechs-maenner-wegen-juwelendiebstahls-an](https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-staatsanwaltschaft-klagt-sechs-maenner-wegen-juwelendiebstahls-an-a-73101090-8561-4a05-b57d-079e365c83f9#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib](https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib-a-984a6975-a595-43ce-9e8d-a7891280ec0a#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-staatsanwaltschaft-klagt-sechs-maenner-wegen-juwelendiebstahls-an](https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-staatsanwaltschaft-klagt-sechs-maenner-wegen-juwelendiebstahls-an-a-73101090-8561-4a05-b57d-079e365c83f9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen](https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen-a-247cf921-5ded-422e-94a1-13aa4e915d6c#ref=rss)
-### lokführerstreik
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-geht-gerichtlich-gegen-lokfuehrerstreik-vor](https://www.spiegel.de/wirtschaft/unternehmen/bahn-geht-gerichtlich-gegen-lokfuehrerstreik-vor-a-add1ec45-2e80-441f-a454-39d64fe19549#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende](https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende-a-b93814bb-1281-4211-8699-fcdd5f219fd8#ref=rss)
-### hells
-
-* [https://www.spiegel.de/panorama/justiz/hells-angels-moenchengladbach-rocker-razzia-in-nrw-haftbefehle-vollstreckt](https://www.spiegel.de/panorama/justiz/hells-angels-moenchengladbach-rocker-razzia-in-nrw-haftbefehle-vollstreckt-a-3c0534f9-4e38-44e2-a05a-9aaaeded15bc#ref=rss)
-### angels
-
-* [https://www.spiegel.de/panorama/justiz/hells-angels-moenchengladbach-rocker-razzia-in-nrw-haftbefehle-vollstreckt](https://www.spiegel.de/panorama/justiz/hells-angels-moenchengladbach-rocker-razzia-in-nrw-haftbefehle-vollstreckt-a-3c0534f9-4e38-44e2-a05a-9aaaeded15bc#ref=rss)
-### zahlreiche
-
-* [https://www.spiegel.de/panorama/justiz/hells-angels-moenchengladbach-rocker-razzia-in-nrw-haftbefehle-vollstreckt](https://www.spiegel.de/panorama/justiz/hells-angels-moenchengladbach-rocker-razzia-in-nrw-haftbefehle-vollstreckt-a-3c0534f9-4e38-44e2-a05a-9aaaeded15bc#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib](https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib-a-984a6975-a595-43ce-9e8d-a7891280ec0a#ref=rss)
-### bundesnetzagentur
-
-* [https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-muss-unabhaengiger-werden](https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-muss-unabhaengiger-werden-a-a301ad58-6bd2-4d78-a7bc-ff3a2fbaa0ac#ref=rss)
-### frühmenschen
-
-* [https://www.spiegel.de/wissenschaft/mensch/klima-lockte-fruehmenschen-immer-wieder-nach-arabien](https://www.spiegel.de/wissenschaft/mensch/klima-lockte-fruehmenschen-immer-wieder-nach-arabien-a-0a10dcf8-1661-4468-b1a5-30aff3a582c1#ref=rss)
-### badenbaden
-
-* [https://www.spiegel.de/panorama/gesellschaft/baden-baden-grossbrand-wuetet-im-hotel-badischer-hof-mehr-als-150-gaeste-gerettet](https://www.spiegel.de/panorama/gesellschaft/baden-baden-grossbrand-wuetet-im-hotel-badischer-hof-mehr-als-150-gaeste-gerettet-a-d996ec5d-a022-498b-a3d3-70e16049a0fe#ref=rss)
-### hof
-
-* [https://www.spiegel.de/panorama/gesellschaft/baden-baden-grossbrand-wuetet-im-hotel-badischer-hof-mehr-als-150-gaeste-gerettet](https://www.spiegel.de/panorama/gesellschaft/baden-baden-grossbrand-wuetet-im-hotel-badischer-hof-mehr-als-150-gaeste-gerettet-a-d996ec5d-a022-498b-a3d3-70e16049a0fe#ref=rss)
-### 150
-
-* [https://www.spiegel.de/panorama/gesellschaft/baden-baden-grossbrand-wuetet-im-hotel-badischer-hof-mehr-als-150-gaeste-gerettet](https://www.spiegel.de/panorama/gesellschaft/baden-baden-grossbrand-wuetet-im-hotel-badischer-hof-mehr-als-150-gaeste-gerettet-a-d996ec5d-a022-498b-a3d3-70e16049a0fe#ref=rss)
-### gäste
-
-* [https://www.spiegel.de/panorama/gesellschaft/baden-baden-grossbrand-wuetet-im-hotel-badischer-hof-mehr-als-150-gaeste-gerettet](https://www.spiegel.de/panorama/gesellschaft/baden-baden-grossbrand-wuetet-im-hotel-badischer-hof-mehr-als-150-gaeste-gerettet-a-d996ec5d-a022-498b-a3d3-70e16049a0fe#ref=rss)
-### hurrikan
-
-* [https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste](https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste-a-3d5b4549-62c4-4035-9079-a7258ba01559#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen-a-618cf9cf-192b-4a32-821f-2bf7fe3f19ff#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste](https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste-a-3d5b4549-62c4-4035-9079-a7258ba01559#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste](https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste-a-3d5b4549-62c4-4035-9079-a7258ba01559#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib](https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib-a-984a6975-a595-43ce-9e8d-a7891280ec0a#ref=rss)
-### überschwemmungen
-
-* [https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste](https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste-a-3d5b4549-62c4-4035-9079-a7258ba01559#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste](https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste-a-3d5b4549-62c4-4035-9079-a7258ba01559#ref=rss)
-* [https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib](https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib-a-984a6975-a595-43ce-9e8d-a7891280ec0a#ref=rss)
-### voll
-
-* [https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste](https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste-a-3d5b4549-62c4-4035-9079-a7258ba01559#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc](https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc-a-498f1ea7-6186-4fbb-bf89-5f5cede4122e#ref=rss)
-### notstand
-
-* [https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste](https://www.spiegel.de/panorama/gesellschaft/hurrikan-ida-in-new-york-mehrere-tote-durch-ueberschwemmungen-an-der-us-ostkueste-a-3d5b4549-62c4-4035-9079-a7258ba01559#ref=rss)
-* [https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc](https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc-a-498f1ea7-6186-4fbb-bf89-5f5cede4122e#ref=rss)
-### zugverkehr
-
-* [https://www.spiegel.de/wirtschaft/gdl-chef-claus-weselsky-das-ist-schmierentheater](https://www.spiegel.de/wirtschaft/gdl-chef-claus-weselsky-das-ist-schmierentheater-a-5a50eeb5-bca2-401b-8d82-afa89a8e63fa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream](https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream-a-48a96837-3d1b-4741-bd0d-32756cb6f6b7#ref=rss)
-### droht
-
-* [https://www.spiegel.de/wirtschaft/gdl-chef-claus-weselsky-das-ist-schmierentheater](https://www.spiegel.de/wirtschaft/gdl-chef-claus-weselsky-das-ist-schmierentheater-a-5a50eeb5-bca2-401b-8d82-afa89a8e63fa#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-was-die-menschen-vor-ort-jetzt-brauchen-die-kolumne-von-sima-samar](https://www.spiegel.de/ausland/afghanistan-was-die-menschen-vor-ort-jetzt-brauchen-die-kolumne-von-sima-samar-a-6ba952c4-bfdf-4c53-98c2-7702505250b9#ref=rss)
-### facebook
-
-* [https://www.spiegel.de/netzwelt/apps/bundestagswahl-facebook-oeffnet-whatsapp-fuer-externe-faktenpruefer](https://www.spiegel.de/netzwelt/apps/bundestagswahl-facebook-oeffnet-whatsapp-fuer-externe-faktenpruefer-a-e2b9cf09-1d69-45c6-80b7-e4175bf92e77#ref=rss)
-### amateurvideos
-
-* [https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc](https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc-a-498f1ea7-6186-4fbb-bf89-5f5cede4122e#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc](https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc-a-498f1ea7-6186-4fbb-bf89-5f5cede4122e#ref=rss)
-### katastrophe
-
-* [https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc](https://www.spiegel.de/panorama/new-york-city-amateurvideos-zeigen-chaos-in-millionenmetropole-sturzflut-notstand-in-nyc-a-498f1ea7-6186-4fbb-bf89-5f5cede4122e#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-was-die-menschen-vor-ort-jetzt-brauchen-die-kolumne-von-sima-samar](https://www.spiegel.de/ausland/afghanistan-was-die-menschen-vor-ort-jetzt-brauchen-die-kolumne-von-sima-samar-a-6ba952c4-bfdf-4c53-98c2-7702505250b9#ref=rss)
-### regen
-
-* [https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen-a-618cf9cf-192b-4a32-821f-2bf7fe3f19ff#ref=rss)
-### nächste
-
-* [https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen-a-618cf9cf-192b-4a32-821f-2bf7fe3f19ff#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden](https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden-a-8abe416b-aedd-479f-aa11-b25d7008403a#ref=rss)
-### zusammen
-
-* [https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/wissenschaft/natur/hurrikan-ida-new-york-meldet-staerksten-regen-seit-beginn-der-aufzeichnungen-a-618cf9cf-192b-4a32-821f-2bf7fe3f19ff#ref=rss)
-* [https://www.spiegel.de/sport/paralympics-rollstuhltennis-star-joachim-gerard-bricht-im-athletendorf-zusammen](https://www.spiegel.de/sport/paralympics-rollstuhltennis-star-joachim-gerard-bricht-im-athletendorf-zusammen-a-413936ae-2693-4498-9579-f907f5460623#ref=rss)
-### joe
-
-* [https://www.spiegel.de/kultur/joe-rogan-ist-an-covid-19-erkrankt-podcaster-war-impfskeptisch](https://www.spiegel.de/kultur/joe-rogan-ist-an-covid-19-erkrankt-podcaster-war-impfskeptisch-a-0c28faa4-1951-424f-a415-2825f498f50e#ref=rss)
-### rogan
-
-* [https://www.spiegel.de/kultur/joe-rogan-ist-an-covid-19-erkrankt-podcaster-war-impfskeptisch](https://www.spiegel.de/kultur/joe-rogan-ist-an-covid-19-erkrankt-podcaster-war-impfskeptisch-a-0c28faa4-1951-424f-a415-2825f498f50e#ref=rss)
-### podcaster
-
-* [https://www.spiegel.de/kultur/joe-rogan-ist-an-covid-19-erkrankt-podcaster-war-impfskeptisch](https://www.spiegel.de/kultur/joe-rogan-ist-an-covid-19-erkrankt-podcaster-war-impfskeptisch-a-0c28faa4-1951-424f-a415-2825f498f50e#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-razzia-in-berlin-wegen-moeglichen-betrugs-bei-corona-hilfen](https://www.spiegel.de/wirtschaft/unternehmen/corona-razzia-in-berlin-wegen-moeglichen-betrugs-bei-corona-hilfen-a-945fea8f-074c-44dd-9018-f53b634b1a57#ref=rss)
-### coronahilfen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-razzia-in-berlin-wegen-moeglichen-betrugs-bei-corona-hilfen](https://www.spiegel.de/wirtschaft/unternehmen/corona-razzia-in-berlin-wegen-moeglichen-betrugs-bei-corona-hilfen-a-945fea8f-074c-44dd-9018-f53b634b1a57#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-razzia-in-berlin-wegen-moeglichen-betrugs-bei-corona-hilfen](https://www.spiegel.de/wirtschaft/unternehmen/corona-razzia-in-berlin-wegen-moeglichen-betrugs-bei-corona-hilfen-a-945fea8f-074c-44dd-9018-f53b634b1a57#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/apples-trippelschritt-zu-mehr-abo-optionen](https://www.spiegel.de/netzwelt/apps/apples-trippelschritt-zu-mehr-abo-optionen-a-e4816e9d-ae88-4ae7-9dca-e4c2ec37475a#ref=rss)
-### nora
-
-* [https://www.spiegel.de/kultur/tv/nora-tschirner-hoert-als-tatort-kommissarin-auf](https://www.spiegel.de/kultur/tv/nora-tschirner-hoert-als-tatort-kommissarin-auf-a-cd2ece08-a5b6-4710-891d-030eeaf28655#ref=rss)
 ### afghanistan
 
-* [https://www.spiegel.de/ausland/afghanistan-was-die-menschen-vor-ort-jetzt-brauchen-die-kolumne-von-sima-samar](https://www.spiegel.de/ausland/afghanistan-was-die-menschen-vor-ort-jetzt-brauchen-die-kolumne-von-sima-samar-a-6ba952c4-bfdf-4c53-98c2-7702505250b9#ref=rss)
-* [https://www.spiegel.de/ausland/taliban-und-tuerkei-recep-tayyip-erdogans-riskante-afghanistan-wette](https://www.spiegel.de/ausland/taliban-und-tuerkei-recep-tayyip-erdogans-riskante-afghanistan-wette-a-4212d95e-9c14-4a24-a28d-8c82345ca301#ref=rss)
-### alle
+* [https://www.spiegel.de/ausland/afghanistan-mario-draghi-kritisiert-eu-fuer-umgang-mit-gefluechteten](https://www.spiegel.de/ausland/afghanistan-mario-draghi-kritisiert-eu-fuer-umgang-mit-gefluechteten-a-2795b6cd-cd31-4b52-8947-e9217397c3a0#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-wer-wird-die-taliban-zuerst-anerkennen](https://www.spiegel.de/ausland/afghanistan-wer-wird-die-taliban-zuerst-anerkennen-a-023050b6-629f-4a03-9b46-3ca4353e45d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wem-soll-deutschland-bei-der-flucht-aus-afghanistan-helfen-podcast](https://www.spiegel.de/politik/deutschland/wem-soll-deutschland-bei-der-flucht-aus-afghanistan-helfen-podcast-a-70dbd342-14bf-4d17-9dc0-af2e05989b7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-frank-walter-steinmeier-haelt-mindestmass-an-kontakt-mit-taliban-fuer-notwendig](https://www.spiegel.de/politik/deutschland/afghanistan-frank-walter-steinmeier-haelt-mindestmass-an-kontakt-mit-taliban-fuer-notwendig-a-9d80455d-e89d-42a9-9eab-7f8a45c88b8a#ref=rss)
+### frank
 
-* [https://www.spiegel.de/ausland/afghanistan-was-die-menschen-vor-ort-jetzt-brauchen-die-kolumne-von-sima-samar](https://www.spiegel.de/ausland/afghanistan-was-die-menschen-vor-ort-jetzt-brauchen-die-kolumne-von-sima-samar-a-6ba952c4-bfdf-4c53-98c2-7702505250b9#ref=rss)
-* [https://www.spiegel.de/ausland/abtreibungsrecht-in-texas-oberster-us-gerichtshof-lehnt-eilantrag-gegen-heartbeat-bill-ab](https://www.spiegel.de/ausland/abtreibungsrecht-in-texas-oberster-us-gerichtshof-lehnt-eilantrag-gegen-heartbeat-bill-ab-a-26e25840-6554-4fc7-8d2a-f7bf074a3dfc#ref=rss)
-### staatsanwaltschaft
+* [https://www.spiegel.de/geschichte/niklas-frank-ueber-niklas-frank-sein-haertester-kritiker](https://www.spiegel.de/geschichte/niklas-frank-ueber-niklas-frank-sein-haertester-kritiker-a-c0d0e81b-97d9-40e2-9ec0-68c3f117e330#ref=rss)
+* [https://www.spiegel.de/geschichte/niklas-frank-sohn-des-nazi-verbrechers-hans-frank-post-vom-massenmoerder](https://www.spiegel.de/geschichte/niklas-frank-sohn-des-nazi-verbrechers-hans-frank-post-vom-massenmoerder-a-7d188f66-6304-4506-8fb6-135ecd5eca7f#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-staatsanwaltschaft-klagt-sechs-maenner-wegen-juwelendiebstahls-an](https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-staatsanwaltschaft-klagt-sechs-maenner-wegen-juwelendiebstahls-an-a-73101090-8561-4a05-b57d-079e365c83f9#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-staatsanwaltschaft-klagt-sechs-maenner-wegen-juwelendiebstahls-an](https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-staatsanwaltschaft-klagt-sechs-maenner-wegen-juwelendiebstahls-an-a-73101090-8561-4a05-b57d-079e365c83f9#ref=rss)
-### wahlomat
-
-* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-2021-wen-sie-bei-der-bundestagswahl-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-2021-wen-sie-bei-der-bundestagswahl-waehlen-wollen-a-29b1ac00-28be-49fe-99d0-a510798a87c2#ref=rss)
-### 2021
-
-* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-2021-wen-sie-bei-der-bundestagswahl-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-2021-wen-sie-bei-der-bundestagswahl-waehlen-wollen-a-29b1ac00-28be-49fe-99d0-a510798a87c2#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden](https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden-a-8abe416b-aedd-479f-aa11-b25d7008403a#ref=rss)
-### folter
-
-* [https://www.spiegel.de/ausland/guantanamo-frueherer-vernehmer-gibt-folter-im-us-gefangenenlager-zu](https://www.spiegel.de/ausland/guantanamo-frueherer-vernehmer-gibt-folter-im-us-gefangenenlager-zu-a-72941ebb-0a9e-4091-909e-1845c0617c30#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/ausland/guantanamo-frueherer-vernehmer-gibt-folter-im-us-gefangenenlager-zu](https://www.spiegel.de/ausland/guantanamo-frueherer-vernehmer-gibt-folter-im-us-gefangenenlager-zu-a-72941ebb-0a9e-4091-909e-1845c0617c30#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen](https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen-a-247cf921-5ded-422e-94a1-13aa4e915d6c#ref=rss)
-### gorch
-
-* [https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen](https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen-a-247cf921-5ded-422e-94a1-13aa4e915d6c#ref=rss)
-### fock
-
-* [https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen](https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen-a-247cf921-5ded-422e-94a1-13aa4e915d6c#ref=rss)
-### probefahrt
-
-* [https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen](https://www.spiegel.de/politik/deutschland/gorch-fock-muss-probefahrt-abbrechen-a-247cf921-5ded-422e-94a1-13aa4e915d6c#ref=rss)
-### joachim
-
-* [https://www.spiegel.de/sport/paralympics-rollstuhltennis-star-joachim-gerard-bricht-im-athletendorf-zusammen](https://www.spiegel.de/sport/paralympics-rollstuhltennis-star-joachim-gerard-bricht-im-athletendorf-zusammen-a-413936ae-2693-4498-9579-f907f5460623#ref=rss)
-### gérard
-
-* [https://www.spiegel.de/sport/paralympics-rollstuhltennis-star-joachim-gerard-bricht-im-athletendorf-zusammen](https://www.spiegel.de/sport/paralympics-rollstuhltennis-star-joachim-gerard-bricht-im-athletendorf-zusammen-a-413936ae-2693-4498-9579-f907f5460623#ref=rss)
-### jemen
-
-* [https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib](https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib-a-984a6975-a595-43ce-9e8d-a7891280ec0a#ref=rss)
-### wichtige
-
-* [https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib](https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib-a-984a6975-a595-43ce-9e8d-a7891280ec0a#ref=rss)
-### marib
-
-* [https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib](https://www.spiegel.de/ausland/jemen-dutzende-tote-bei-neuen-gefechten-um-wichtige-bastion-marib-a-984a6975-a595-43ce-9e8d-a7891280ec0a#ref=rss)
+* [https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel](https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel-a-61939f04-d815-4bc9-b803-0db1110ec4ce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung](https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung-a-dcc2876d-6b3e-4e51-936d-9efd75ba081b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hochwasser-katastrophe-in-sinzig-an-der-ahr-um-2-58-uhr-hoerte-eine-nachbarin-laute-hilfeschreie](https://www.spiegel.de/panorama/justiz/hochwasser-katastrophe-in-sinzig-an-der-ahr-um-2-58-uhr-hoerte-eine-nachbarin-laute-hilfeschreie-a-bba558f1-c902-4d24-83d0-fc71dd50b838#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sozialaemter-muessen-aelteren-menschen-keine-hoeheren-heizkosten-zahlen](https://www.spiegel.de/wirtschaft/service/sozialaemter-muessen-aelteren-menschen-keine-hoeheren-heizkosten-zahlen-a-f11b1a03-e648-4045-bffa-d9c27d21cb0e#ref=rss)
 ### taliban
 
-* [https://www.spiegel.de/ausland/taliban-und-tuerkei-recep-tayyip-erdogans-riskante-afghanistan-wette](https://www.spiegel.de/ausland/taliban-und-tuerkei-recep-tayyip-erdogans-riskante-afghanistan-wette-a-4212d95e-9c14-4a24-a28d-8c82345ca301#ref=rss)
-### türkei
+* [https://www.spiegel.de/ausland/afghanistan-wer-wird-die-taliban-zuerst-anerkennen](https://www.spiegel.de/ausland/afghanistan-wer-wird-die-taliban-zuerst-anerkennen-a-023050b6-629f-4a03-9b46-3ca4353e45d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wem-soll-deutschland-bei-der-flucht-aus-afghanistan-helfen-podcast](https://www.spiegel.de/politik/deutschland/wem-soll-deutschland-bei-der-flucht-aus-afghanistan-helfen-podcast-a-70dbd342-14bf-4d17-9dc0-af2e05989b7f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-frank-walter-steinmeier-haelt-mindestmass-an-kontakt-mit-taliban-fuer-notwendig](https://www.spiegel.de/politik/deutschland/afghanistan-frank-walter-steinmeier-haelt-mindestmass-an-kontakt-mit-taliban-fuer-notwendig-a-9d80455d-e89d-42a9-9eab-7f8a45c88b8a#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/taliban-und-tuerkei-recep-tayyip-erdogans-riskante-afghanistan-wette](https://www.spiegel.de/ausland/taliban-und-tuerkei-recep-tayyip-erdogans-riskante-afghanistan-wette-a-4212d95e-9c14-4a24-a28d-8c82345ca301#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-wer-wird-die-taliban-zuerst-anerkennen](https://www.spiegel.de/ausland/afghanistan-wer-wird-die-taliban-zuerst-anerkennen-a-023050b6-629f-4a03-9b46-3ca4353e45d0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bahn-streik-der-lokfuehrer-in-der-gdkl-der-streik-wird-durchgezogen](https://www.spiegel.de/wirtschaft/bahn-streik-der-lokfuehrer-in-der-gdkl-der-streik-wird-durchgezogen-a-471d7947-1399-4b2b-909e-550c1f8a2745#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa](https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa-a-19c829bd-82a6-4ae5-bfe3-dfb14bd786bf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afghanistan-frank-walter-steinmeier-haelt-mindestmass-an-kontakt-mit-taliban-fuer-notwendig](https://www.spiegel.de/politik/deutschland/afghanistan-frank-walter-steinmeier-haelt-mindestmass-an-kontakt-mit-taliban-fuer-notwendig-a-9d80455d-e89d-42a9-9eab-7f8a45c88b8a#ref=rss)
+* [https://www.spiegel.de/geschichte/niklas-frank-sohn-des-nazi-verbrechers-hans-frank-post-vom-massenmoerder](https://www.spiegel.de/geschichte/niklas-frank-sohn-des-nazi-verbrechers-hans-frank-post-vom-massenmoerder-a-7d188f66-6304-4506-8fb6-135ecd5eca7f#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/kultur/china-verbietet-feminine-maenner-und-talentshows-im-tv](https://www.spiegel.de/kultur/china-verbietet-feminine-maenner-und-talentshows-im-tv-a-6d8aecfe-c606-43ad-a0a5-e443751754e9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sozialaemter-muessen-aelteren-menschen-keine-hoeheren-heizkosten-zahlen](https://www.spiegel.de/wirtschaft/service/sozialaemter-muessen-aelteren-menschen-keine-hoeheren-heizkosten-zahlen-a-f11b1a03-e648-4045-bffa-d9c27d21cb0e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/klimakrise-greenpeace-und-deutsche-umwelthilfe-leiten-klage-gegen-deutsche-grosskonzerne-ein](https://www.spiegel.de/wirtschaft/unternehmen/klimakrise-greenpeace-und-deutsche-umwelthilfe-leiten-klage-gegen-deutsche-grosskonzerne-ein-a-a83a69fe-3035-46d5-9f08-dd157192b5dc#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst](https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst-a-e4d519df-55c0-4aee-a1bf-e5850a76bb03#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/panorama/gesellschaft/albrecht-broemme-zum-katastrophenschutz-in-deutschland-da-lacht-die-ganze-welt-drueber](https://www.spiegel.de/panorama/gesellschaft/albrecht-broemme-zum-katastrophenschutz-in-deutschland-da-lacht-die-ganze-welt-drueber-a-2bc0d38c-2de1-4dc6-943e-eb6f649f411c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei](https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei-a-4c1e8640-8e59-4f26-8f82-24951628d984#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bahn-streik-der-lokfuehrer-in-der-gdkl-der-streik-wird-durchgezogen](https://www.spiegel.de/wirtschaft/bahn-streik-der-lokfuehrer-in-der-gdkl-der-streik-wird-durchgezogen-a-471d7947-1399-4b2b-909e-550c1f8a2745#ref=rss)
+* [https://www.spiegel.de/geschichte/niklas-frank-ueber-niklas-frank-sein-haertester-kritiker](https://www.spiegel.de/geschichte/niklas-frank-ueber-niklas-frank-sein-haertester-kritiker-a-c0d0e81b-97d9-40e2-9ec0-68c3f117e330#ref=rss)
+### niklas
+
+* [https://www.spiegel.de/geschichte/niklas-frank-ueber-niklas-frank-sein-haertester-kritiker](https://www.spiegel.de/geschichte/niklas-frank-ueber-niklas-frank-sein-haertester-kritiker-a-c0d0e81b-97d9-40e2-9ec0-68c3f117e330#ref=rss)
+* [https://www.spiegel.de/geschichte/niklas-frank-sohn-des-nazi-verbrechers-hans-frank-post-vom-massenmoerder](https://www.spiegel.de/geschichte/niklas-frank-sohn-des-nazi-verbrechers-hans-frank-post-vom-massenmoerder-a-7d188f66-6304-4506-8fb6-135ecd5eca7f#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel](https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel-a-61939f04-d815-4bc9-b803-0db1110ec4ce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei](https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei-a-4c1e8640-8e59-4f26-8f82-24951628d984#ref=rss)
+* [https://www.spiegel.de/geschichte/niklas-frank-ueber-niklas-frank-sein-haertester-kritiker](https://www.spiegel.de/geschichte/niklas-frank-ueber-niklas-frank-sein-haertester-kritiker-a-c0d0e81b-97d9-40e2-9ec0-68c3f117e330#ref=rss)
+### bahnstreik
+
+* [https://www.spiegel.de/wirtschaft/bahn-streik-der-lokfuehrer-in-der-gdkl-der-streik-wird-durchgezogen](https://www.spiegel.de/wirtschaft/bahn-streik-der-lokfuehrer-in-der-gdkl-der-streik-wird-durchgezogen-a-471d7947-1399-4b2b-909e-550c1f8a2745#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa](https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa-a-19c829bd-82a6-4ae5-bfe3-dfb14bd786bf#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-geht-gerichtlich-gegen-lokfuehrerstreik-vor](https://www.spiegel.de/wirtschaft/unternehmen/bahn-geht-gerichtlich-gegen-lokfuehrerstreik-vor-a-add1ec45-2e80-441f-a454-39d64fe19549#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream](https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream-a-48a96837-3d1b-4741-bd0d-32756cb6f6b7#ref=rss)
-### pro
+* [https://www.spiegel.de/wirtschaft/unternehmen/klimakrise-greenpeace-und-deutsche-umwelthilfe-leiten-klage-gegen-deutsche-grosskonzerne-ein](https://www.spiegel.de/wirtschaft/unternehmen/klimakrise-greenpeace-und-deutsche-umwelthilfe-leiten-klage-gegen-deutsche-grosskonzerne-ein-a-a83a69fe-3035-46d5-9f08-dd157192b5dc#ref=rss)
+### polen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende](https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende-a-b93814bb-1281-4211-8699-fcdd5f219fd8#ref=rss)
-### viele
+* [https://www.spiegel.de/ausland/polen-andrzej-duda-verhaengt-ausnahmezustand-an-grenze-zu-belarus](https://www.spiegel.de/ausland/polen-andrzej-duda-verhaengt-ausnahmezustand-an-grenze-zu-belarus-a-01d8768a-17b0-4430-8d90-b4c4aa263118#ref=rss)
+* [https://www.spiegel.de/geschichte/niklas-frank-sohn-des-nazi-verbrechers-hans-frank-post-vom-massenmoerder](https://www.spiegel.de/geschichte/niklas-frank-sohn-des-nazi-verbrechers-hans-frank-post-vom-massenmoerder-a-7d188f66-6304-4506-8fb6-135ecd5eca7f#ref=rss)
+### hans
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende](https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende-a-b93814bb-1281-4211-8699-fcdd5f219fd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/autobranche-chipmangel-drueckt-schwer-auf-stimmung](https://www.spiegel.de/wirtschaft/unternehmen/autobranche-chipmangel-drueckt-schwer-auf-stimmung-a-689db12c-1cf9-48d6-a810-a2a66b99d30c#ref=rss)
-### chef
+* [https://www.spiegel.de/geschichte/niklas-frank-ueber-niklas-frank-sein-haertester-kritiker](https://www.spiegel.de/geschichte/niklas-frank-ueber-niklas-frank-sein-haertester-kritiker-a-c0d0e81b-97d9-40e2-9ec0-68c3f117e330#ref=rss)
+* [https://www.spiegel.de/geschichte/niklas-frank-sohn-des-nazi-verbrechers-hans-frank-post-vom-massenmoerder](https://www.spiegel.de/geschichte/niklas-frank-sohn-des-nazi-verbrechers-hans-frank-post-vom-massenmoerder-a-7d188f66-6304-4506-8fb6-135ecd5eca7f#ref=rss)
+### mario
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende](https://www.spiegel.de/wirtschaft/unternehmen/lokfuehrerstreik-fahrgastverband-pro-bahn-fordert-sofortiges-ende-a-b93814bb-1281-4211-8699-fcdd5f219fd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream](https://www.spiegel.de/wirtschaft/unternehmen/gdl-chef-weselsky-zum-bahnstreik-livestream-a-48a96837-3d1b-4741-bd0d-32756cb6f6b7#ref=rss)
-### apple
+* [https://www.spiegel.de/ausland/afghanistan-mario-draghi-kritisiert-eu-fuer-umgang-mit-gefluechteten](https://www.spiegel.de/ausland/afghanistan-mario-draghi-kritisiert-eu-fuer-umgang-mit-gefluechteten-a-2795b6cd-cd31-4b52-8947-e9217397c3a0#ref=rss)
+### draghi
 
-* [https://www.spiegel.de/netzwelt/apps/apples-trippelschritt-zu-mehr-abo-optionen](https://www.spiegel.de/netzwelt/apps/apples-trippelschritt-zu-mehr-abo-optionen-a-e4816e9d-ae88-4ae7-9dca-e4c2ec37475a#ref=rss)
-### app
+* [https://www.spiegel.de/ausland/afghanistan-mario-draghi-kritisiert-eu-fuer-umgang-mit-gefluechteten](https://www.spiegel.de/ausland/afghanistan-mario-draghi-kritisiert-eu-fuer-umgang-mit-gefluechteten-a-2795b6cd-cd31-4b52-8947-e9217397c3a0#ref=rss)
+### eu
 
-* [https://www.spiegel.de/netzwelt/apps/apples-trippelschritt-zu-mehr-abo-optionen](https://www.spiegel.de/netzwelt/apps/apples-trippelschritt-zu-mehr-abo-optionen-a-e4816e9d-ae88-4ae7-9dca-e4c2ec37475a#ref=rss)
-### store
+* [https://www.spiegel.de/ausland/afghanistan-mario-draghi-kritisiert-eu-fuer-umgang-mit-gefluechteten](https://www.spiegel.de/ausland/afghanistan-mario-draghi-kritisiert-eu-fuer-umgang-mit-gefluechteten-a-2795b6cd-cd31-4b52-8947-e9217397c3a0#ref=rss)
+### geflüchteten
 
-* [https://www.spiegel.de/netzwelt/apps/apples-trippelschritt-zu-mehr-abo-optionen](https://www.spiegel.de/netzwelt/apps/apples-trippelschritt-zu-mehr-abo-optionen-a-e4816e9d-ae88-4ae7-9dca-e4c2ec37475a#ref=rss)
-### jana
+* [https://www.spiegel.de/ausland/afghanistan-mario-draghi-kritisiert-eu-fuer-umgang-mit-gefluechteten](https://www.spiegel.de/ausland/afghanistan-mario-draghi-kritisiert-eu-fuer-umgang-mit-gefluechteten-a-2795b6cd-cd31-4b52-8947-e9217397c3a0#ref=rss)
+### abba
 
-* [https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen](https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen-a-0353a2b8-2873-402b-9365-44e95b0ba49c#ref=rss)
-### majunke
+* [https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london](https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london-a-9319db94-8776-41ab-aadf-e5ba11f35974#ref=rss)
+### neues
 
-* [https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen](https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen-a-0353a2b8-2873-402b-9365-44e95b0ba49c#ref=rss)
-### angelika
+* [https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london](https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london-a-9319db94-8776-41ab-aadf-e5ba11f35974#ref=rss)
+### album
 
-* [https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen](https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen-a-0353a2b8-2873-402b-9365-44e95b0ba49c#ref=rss)
-### dreockkäser
+* [https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london](https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london-a-9319db94-8776-41ab-aadf-e5ba11f35974#ref=rss)
+### angekündigt
 
-* [https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen](https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen-a-0353a2b8-2873-402b-9365-44e95b0ba49c#ref=rss)
-### straßenrennen
+* [https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london](https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london-a-9319db94-8776-41ab-aadf-e5ba11f35974#ref=rss)
+### arena
 
-* [https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen](https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen-a-0353a2b8-2873-402b-9365-44e95b0ba49c#ref=rss)
-### feiern
+* [https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london](https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london-a-9319db94-8776-41ab-aadf-e5ba11f35974#ref=rss)
+### london
 
-* [https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen](https://www.spiegel.de/sport/olympia/paralympics-jana-majunke-und-angelika-dreock-kaeser-holen-gold-und-silber-beim-strassenrennen-a-0353a2b8-2873-402b-9365-44e95b0ba49c#ref=rss)
-* [https://www.spiegel.de/ausland/abtreibungsrecht-in-texas-oberster-us-gerichtshof-lehnt-eilantrag-gegen-heartbeat-bill-ab](https://www.spiegel.de/ausland/abtreibungsrecht-in-texas-oberster-us-gerichtshof-lehnt-eilantrag-gegen-heartbeat-bill-ab-a-26e25840-6554-4fc7-8d2a-f7bf074a3dfc#ref=rss)
+* [https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london](https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london-a-9319db94-8776-41ab-aadf-e5ba11f35974#ref=rss)
+### gezeigt
+
+* [https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london](https://www.spiegel.de/kultur/musik/abba-neues-album-voyage-angekuendigt-konzert-in-london-a-9319db94-8776-41ab-aadf-e5ba11f35974#ref=rss)
+* [https://www.spiegel.de/sport/olympia-kameltreiber-skandal-um-patrick-moster-mein-bruder-hat-sein-wahres-gesicht-gezeigt](https://www.spiegel.de/sport/olympia-kameltreiber-skandal-um-patrick-moster-mein-bruder-hat-sein-wahres-gesicht-gezeigt-a-9959dae7-972a-4d60-9a6d-d8ebff6181ca#ref=rss)
+### klimakrise
+
+* [https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel](https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel-a-61939f04-d815-4bc9-b803-0db1110ec4ce#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/klimakrise-greenpeace-und-deutsche-umwelthilfe-leiten-klage-gegen-deutsche-grosskonzerne-ein](https://www.spiegel.de/wirtschaft/unternehmen/klimakrise-greenpeace-und-deutsche-umwelthilfe-leiten-klage-gegen-deutsche-grosskonzerne-ein-a-a83a69fe-3035-46d5-9f08-dd157192b5dc#ref=rss)
+### greta
+
+* [https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel](https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel-a-61939f04-d815-4bc9-b803-0db1110ec4ce#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel](https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel-a-61939f04-d815-4bc9-b803-0db1110ec4ce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wem-soll-deutschland-bei-der-flucht-aus-afghanistan-helfen-podcast](https://www.spiegel.de/politik/deutschland/wem-soll-deutschland-bei-der-flucht-aus-afghanistan-helfen-podcast-a-70dbd342-14bf-4d17-9dc0-af2e05989b7f#ref=rss)
+### junge
+
+* [https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel](https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel-a-61939f04-d815-4bc9-b803-0db1110ec4ce#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-schueler-korrigiert-russischen-praesident-in-geschichte](https://www.spiegel.de/ausland/wladimir-putin-schueler-korrigiert-russischen-praesident-in-geschichte-a-691aae7b-adfa-40dd-9d08-e8c9702e5ca6#ref=rss)
+### andere
+
+* [https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel](https://www.spiegel.de/familie/klimakrise-aktivistin-in-der-kritik-was-habt-ihr-gegen-greta-podcast-von-dein-spiegel-a-61939f04-d815-4bc9-b803-0db1110ec4ce#ref=rss)
+* [https://www.spiegel.de/kultur/china-verbietet-feminine-maenner-und-talentshows-im-tv](https://www.spiegel.de/kultur/china-verbietet-feminine-maenner-und-talentshows-im-tv-a-6d8aecfe-c606-43ad-a0a5-e443751754e9#ref=rss)
+### fitx
+
+* [https://www.spiegel.de/panorama/gesellschaft/fitnessstudiobetreiber-fitx-dieses-geschaeftsrisiko-koennen-und-wollen-wir-nicht-eingehen](https://www.spiegel.de/panorama/gesellschaft/fitnessstudiobetreiber-fitx-dieses-geschaeftsrisiko-koennen-und-wollen-wir-nicht-eingehen-a-a58c5ba1-6870-467a-a584-32098cf65524#ref=rss)
+### option
+
+* [https://www.spiegel.de/panorama/gesellschaft/fitnessstudiobetreiber-fitx-dieses-geschaeftsrisiko-koennen-und-wollen-wir-nicht-eingehen](https://www.spiegel.de/panorama/gesellschaft/fitnessstudiobetreiber-fitx-dieses-geschaeftsrisiko-koennen-und-wollen-wir-nicht-eingehen-a-a58c5ba1-6870-467a-a584-32098cf65524#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-wer-wird-die-taliban-zuerst-anerkennen](https://www.spiegel.de/ausland/afghanistan-wer-wird-die-taliban-zuerst-anerkennen-a-023050b6-629f-4a03-9b46-3ca4353e45d0#ref=rss)
+### patrick
+
+* [https://www.spiegel.de/sport/olympia-kameltreiber-skandal-um-patrick-moster-mein-bruder-hat-sein-wahres-gesicht-gezeigt](https://www.spiegel.de/sport/olympia-kameltreiber-skandal-um-patrick-moster-mein-bruder-hat-sein-wahres-gesicht-gezeigt-a-9959dae7-972a-4d60-9a6d-d8ebff6181ca#ref=rss)
+### moster
+
+* [https://www.spiegel.de/sport/olympia-kameltreiber-skandal-um-patrick-moster-mein-bruder-hat-sein-wahres-gesicht-gezeigt](https://www.spiegel.de/sport/olympia-kameltreiber-skandal-um-patrick-moster-mein-bruder-hat-sein-wahres-gesicht-gezeigt-a-9959dae7-972a-4d60-9a6d-d8ebff6181ca#ref=rss)
+### wahlomat
+
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung](https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung-a-dcc2876d-6b3e-4e51-936d-9efd75ba081b#ref=rss)
+### alternativen
+
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung](https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung-a-dcc2876d-6b3e-4e51-936d-9efd75ba081b#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung](https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung-a-dcc2876d-6b3e-4e51-936d-9efd75ba081b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wem-soll-deutschland-bei-der-flucht-aus-afghanistan-helfen-podcast](https://www.spiegel.de/politik/deutschland/wem-soll-deutschland-bei-der-flucht-aus-afghanistan-helfen-podcast-a-70dbd342-14bf-4d17-9dc0-af2e05989b7f#ref=rss)
+### wahlentscheidung
+
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung](https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung-a-dcc2876d-6b3e-4e51-936d-9efd75ba081b#ref=rss)
+### fast
+
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung](https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung-a-dcc2876d-6b3e-4e51-936d-9efd75ba081b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bochum-sexueller-missbrauch-mann-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bochum-sexueller-missbrauch-mann-zu-neun-jahren-haft-verurteilt-a-b86c1185-068a-4bb3-aec6-89855b0a9d2f#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung](https://www.spiegel.de/politik/deutschland/wahl-o-mat-zur-bundestagswahl-diese-alternativen-helfen-ihnen-bei-der-wahlentscheidung-a-dcc2876d-6b3e-4e51-936d-9efd75ba081b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bochum-sexueller-missbrauch-mann-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bochum-sexueller-missbrauch-mann-zu-neun-jahren-haft-verurteilt-a-b86c1185-068a-4bb3-aec6-89855b0a9d2f#ref=rss)
+### albrecht
+
+* [https://www.spiegel.de/panorama/gesellschaft/albrecht-broemme-zum-katastrophenschutz-in-deutschland-da-lacht-die-ganze-welt-drueber](https://www.spiegel.de/panorama/gesellschaft/albrecht-broemme-zum-katastrophenschutz-in-deutschland-da-lacht-die-ganze-welt-drueber-a-2bc0d38c-2de1-4dc6-943e-eb6f649f411c#ref=rss)
+### broemme
+
+* [https://www.spiegel.de/panorama/gesellschaft/albrecht-broemme-zum-katastrophenschutz-in-deutschland-da-lacht-die-ganze-welt-drueber](https://www.spiegel.de/panorama/gesellschaft/albrecht-broemme-zum-katastrophenschutz-in-deutschland-da-lacht-die-ganze-welt-drueber-a-2bc0d38c-2de1-4dc6-943e-eb6f649f411c#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/gesellschaft/albrecht-broemme-zum-katastrophenschutz-in-deutschland-da-lacht-die-ganze-welt-drueber](https://www.spiegel.de/panorama/gesellschaft/albrecht-broemme-zum-katastrophenschutz-in-deutschland-da-lacht-die-ganze-welt-drueber-a-2bc0d38c-2de1-4dc6-943e-eb6f649f411c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wem-soll-deutschland-bei-der-flucht-aus-afghanistan-helfen-podcast](https://www.spiegel.de/politik/deutschland/wem-soll-deutschland-bei-der-flucht-aus-afghanistan-helfen-podcast-a-70dbd342-14bf-4d17-9dc0-af2e05989b7f#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/panorama/gesellschaft/albrecht-broemme-zum-katastrophenschutz-in-deutschland-da-lacht-die-ganze-welt-drueber](https://www.spiegel.de/panorama/gesellschaft/albrecht-broemme-zum-katastrophenschutz-in-deutschland-da-lacht-die-ganze-welt-drueber-a-2bc0d38c-2de1-4dc6-943e-eb6f649f411c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei](https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei-a-4c1e8640-8e59-4f26-8f82-24951628d984#ref=rss)
+### buchenwald
+
+* [https://www.spiegel.de/panorama/gesellschaft/buchenwald-afd-plakatiert-in-kz-gedenkstaette-die-weiss-sich-zu-wehren](https://www.spiegel.de/panorama/gesellschaft/buchenwald-afd-plakatiert-in-kz-gedenkstaette-die-weiss-sich-zu-wehren-a-d4e5f010-13ef-484b-8cd1-3a4f838e719b#ref=rss)
+### afd
+
+* [https://www.spiegel.de/panorama/gesellschaft/buchenwald-afd-plakatiert-in-kz-gedenkstaette-die-weiss-sich-zu-wehren](https://www.spiegel.de/panorama/gesellschaft/buchenwald-afd-plakatiert-in-kz-gedenkstaette-die-weiss-sich-zu-wehren-a-d4e5f010-13ef-484b-8cd1-3a4f838e719b#ref=rss)
+### weiß
+
+* [https://www.spiegel.de/panorama/gesellschaft/buchenwald-afd-plakatiert-in-kz-gedenkstaette-die-weiss-sich-zu-wehren](https://www.spiegel.de/panorama/gesellschaft/buchenwald-afd-plakatiert-in-kz-gedenkstaette-die-weiss-sich-zu-wehren-a-d4e5f010-13ef-484b-8cd1-3a4f838e719b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei](https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei-a-4c1e8640-8e59-4f26-8f82-24951628d984#ref=rss)
+### partei
+
+* [https://www.spiegel.de/panorama/gesellschaft/buchenwald-afd-plakatiert-in-kz-gedenkstaette-die-weiss-sich-zu-wehren](https://www.spiegel.de/panorama/gesellschaft/buchenwald-afd-plakatiert-in-kz-gedenkstaette-die-weiss-sich-zu-wehren-a-d4e5f010-13ef-484b-8cd1-3a4f838e719b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei](https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei-a-4c1e8640-8e59-4f26-8f82-24951628d984#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei](https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei-a-4c1e8640-8e59-4f26-8f82-24951628d984#ref=rss)
+* [https://www.spiegel.de/kultur/china-verbietet-feminine-maenner-und-talentshows-im-tv](https://www.spiegel.de/kultur/china-verbietet-feminine-maenner-und-talentshows-im-tv-a-6d8aecfe-c606-43ad-a0a5-e443751754e9#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei](https://www.spiegel.de/politik/deutschland/rot-rot-gruen-susanne-hennig-wellsow-spuert-gewisse-reserviertheit-gegenueber-eigener-partei-a-4c1e8640-8e59-4f26-8f82-24951628d984#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sarah-connor-sagt-konzert-in-leipzig-wegen-covid-19-erkrankung-ab](https://www.spiegel.de/panorama/leute/sarah-connor-sagt-konzert-in-leipzig-wegen-covid-19-erkrankung-ab-a-c57e8d36-7fb9-4636-93a8-c4ebce2752e2#ref=rss)
+### sinzig
+
+* [https://www.spiegel.de/panorama/justiz/hochwasser-katastrophe-in-sinzig-an-der-ahr-um-2-58-uhr-hoerte-eine-nachbarin-laute-hilfeschreie](https://www.spiegel.de/panorama/justiz/hochwasser-katastrophe-in-sinzig-an-der-ahr-um-2-58-uhr-hoerte-eine-nachbarin-laute-hilfeschreie-a-bba558f1-c902-4d24-83d0-fc71dd50b838#ref=rss)
+### ahr
+
+* [https://www.spiegel.de/panorama/justiz/hochwasser-katastrophe-in-sinzig-an-der-ahr-um-2-58-uhr-hoerte-eine-nachbarin-laute-hilfeschreie](https://www.spiegel.de/panorama/justiz/hochwasser-katastrophe-in-sinzig-an-der-ahr-um-2-58-uhr-hoerte-eine-nachbarin-laute-hilfeschreie-a-bba558f1-c902-4d24-83d0-fc71dd50b838#ref=rss)
+### retten
+
+* [https://www.spiegel.de/panorama/justiz/hochwasser-katastrophe-in-sinzig-an-der-ahr-um-2-58-uhr-hoerte-eine-nachbarin-laute-hilfeschreie](https://www.spiegel.de/panorama/justiz/hochwasser-katastrophe-in-sinzig-an-der-ahr-um-2-58-uhr-hoerte-eine-nachbarin-laute-hilfeschreie-a-bba558f1-c902-4d24-83d0-fc71dd50b838#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wem-soll-deutschland-bei-der-flucht-aus-afghanistan-helfen-podcast](https://www.spiegel.de/politik/deutschland/wem-soll-deutschland-bei-der-flucht-aus-afghanistan-helfen-podcast-a-70dbd342-14bf-4d17-9dc0-af2e05989b7f#ref=rss)
+### sarah
+
+* [https://www.spiegel.de/panorama/leute/sarah-connor-sagt-konzert-in-leipzig-wegen-covid-19-erkrankung-ab](https://www.spiegel.de/panorama/leute/sarah-connor-sagt-konzert-in-leipzig-wegen-covid-19-erkrankung-ab-a-c57e8d36-7fb9-4636-93a8-c4ebce2752e2#ref=rss)
+### connor
+
+* [https://www.spiegel.de/panorama/leute/sarah-connor-sagt-konzert-in-leipzig-wegen-covid-19-erkrankung-ab](https://www.spiegel.de/panorama/leute/sarah-connor-sagt-konzert-in-leipzig-wegen-covid-19-erkrankung-ab-a-c57e8d36-7fb9-4636-93a8-c4ebce2752e2#ref=rss)
+### leipzig
+
+* [https://www.spiegel.de/panorama/leute/sarah-connor-sagt-konzert-in-leipzig-wegen-covid-19-erkrankung-ab](https://www.spiegel.de/panorama/leute/sarah-connor-sagt-konzert-in-leipzig-wegen-covid-19-erkrankung-ab-a-c57e8d36-7fb9-4636-93a8-c4ebce2752e2#ref=rss)
+### scheuer
+
+* [https://www.spiegel.de/auto/scheuer-benennt-standorte-fuer-wasserstoffzentrum](https://www.spiegel.de/auto/scheuer-benennt-standorte-fuer-wasserstoffzentrum-a-8d89c68b-ed7f-48ba-a08d-d12e990b2ff4#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/auto/scheuer-benennt-standorte-fuer-wasserstoffzentrum](https://www.spiegel.de/auto/scheuer-benennt-standorte-fuer-wasserstoffzentrum-a-8d89c68b-ed7f-48ba-a08d-d12e990b2ff4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bahn-streik-der-lokfuehrer-in-der-gdkl-der-streik-wird-durchgezogen](https://www.spiegel.de/wirtschaft/bahn-streik-der-lokfuehrer-in-der-gdkl-der-streik-wird-durchgezogen-a-471d7947-1399-4b2b-909e-550c1f8a2745#ref=rss)
+### geld
+
+* [https://www.spiegel.de/auto/scheuer-benennt-standorte-fuer-wasserstoffzentrum](https://www.spiegel.de/auto/scheuer-benennt-standorte-fuer-wasserstoffzentrum-a-8d89c68b-ed7f-48ba-a08d-d12e990b2ff4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sozialaemter-muessen-aelteren-menschen-keine-hoeheren-heizkosten-zahlen](https://www.spiegel.de/wirtschaft/service/sozialaemter-muessen-aelteren-menschen-keine-hoeheren-heizkosten-zahlen-a-f11b1a03-e648-4045-bffa-d9c27d21cb0e#ref=rss)
+### lokführer
+
+* [https://www.spiegel.de/wirtschaft/bahn-streik-der-lokfuehrer-in-der-gdkl-der-streik-wird-durchgezogen](https://www.spiegel.de/wirtschaft/bahn-streik-der-lokfuehrer-in-der-gdkl-der-streik-wird-durchgezogen-a-471d7947-1399-4b2b-909e-550c1f8a2745#ref=rss)
+### früh
+
+* [https://www.spiegel.de/wirtschaft/bahn-streik-der-lokfuehrer-in-der-gdkl-der-streik-wird-durchgezogen](https://www.spiegel.de/wirtschaft/bahn-streik-der-lokfuehrer-in-der-gdkl-der-streik-wird-durchgezogen-a-471d7947-1399-4b2b-909e-550c1f8a2745#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst](https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst-a-e4d519df-55c0-4aee-a1bf-e5850a76bb03#ref=rss)
+### martti
+
+* [https://www.spiegel.de/ausland/martti-ahtisaari-friedensnobelpreistraeger-an-alzheimer-erkrankt](https://www.spiegel.de/ausland/martti-ahtisaari-friedensnobelpreistraeger-an-alzheimer-erkrankt-a-0cb44301-5ced-497b-9324-41f0e443971b#ref=rss)
+### ahtisaari
+
+* [https://www.spiegel.de/ausland/martti-ahtisaari-friedensnobelpreistraeger-an-alzheimer-erkrankt](https://www.spiegel.de/ausland/martti-ahtisaari-friedensnobelpreistraeger-an-alzheimer-erkrankt-a-0cb44301-5ced-497b-9324-41f0e443971b#ref=rss)
+### daimler
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-halbleitermangel-daimler-nimmt-produktion-an-mehreren-standorten-wieder-auf](https://www.spiegel.de/wirtschaft/unternehmen/trotz-halbleitermangel-daimler-nimmt-produktion-an-mehreren-standorten-wieder-auf-a-98d55aa1-953f-46fe-abb9-36986dcaec11#ref=rss)
+### uniform
+
+* [https://www.spiegel.de/panorama/justiz/siegen-querdenker-demo-in-uniform-besucht-polizist-suspendiert](https://www.spiegel.de/panorama/justiz/siegen-querdenker-demo-in-uniform-besucht-polizist-suspendiert-a-38ceaca9-6e43-4ed7-93a2-ee9112664da9#ref=rss)
+### polizist
+
+* [https://www.spiegel.de/panorama/justiz/siegen-querdenker-demo-in-uniform-besucht-polizist-suspendiert](https://www.spiegel.de/panorama/justiz/siegen-querdenker-demo-in-uniform-besucht-polizist-suspendiert-a-38ceaca9-6e43-4ed7-93a2-ee9112664da9#ref=rss)
+### suspendiert
+
+* [https://www.spiegel.de/panorama/justiz/siegen-querdenker-demo-in-uniform-besucht-polizist-suspendiert](https://www.spiegel.de/panorama/justiz/siegen-querdenker-demo-in-uniform-besucht-polizist-suspendiert-a-38ceaca9-6e43-4ed7-93a2-ee9112664da9#ref=rss)
+### männer
+
+* [https://www.spiegel.de/kultur/china-verbietet-feminine-maenner-und-talentshows-im-tv](https://www.spiegel.de/kultur/china-verbietet-feminine-maenner-und-talentshows-im-tv-a-6d8aecfe-c606-43ad-a0a5-e443751754e9#ref=rss)
+### talentshows
+
+* [https://www.spiegel.de/kultur/china-verbietet-feminine-maenner-und-talentshows-im-tv](https://www.spiegel.de/kultur/china-verbietet-feminine-maenner-und-talentshows-im-tv-a-6d8aecfe-c606-43ad-a0a5-e443751754e9#ref=rss)
+### abtreibungsgesetz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa](https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa-a-19c829bd-82a6-4ae5-bfe3-dfb14bd786bf#ref=rss)
 ### texas
 
-* [https://www.spiegel.de/ausland/abtreibungsrecht-in-texas-oberster-us-gerichtshof-lehnt-eilantrag-gegen-heartbeat-bill-ab](https://www.spiegel.de/ausland/abtreibungsrecht-in-texas-oberster-us-gerichtshof-lehnt-eilantrag-gegen-heartbeat-bill-ab-a-26e25840-6554-4fc7-8d2a-f7bf074a3dfc#ref=rss)
-### mikis
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa](https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa-a-19c829bd-82a6-4ae5-bfe3-dfb14bd786bf#ref=rss)
+### christian
 
-* [https://www.spiegel.de/kultur/mikis-theodorakis-gestorben](https://www.spiegel.de/kultur/mikis-theodorakis-gestorben-a-d4fa7026-0681-47db-a798-bcbecf225b42#ref=rss)
-### theodorakis
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa](https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa-a-19c829bd-82a6-4ae5-bfe3-dfb14bd786bf#ref=rss)
+### drosten
 
-* [https://www.spiegel.de/kultur/mikis-theodorakis-gestorben](https://www.spiegel.de/kultur/mikis-theodorakis-gestorben-a-d4fa7026-0681-47db-a798-bcbecf225b42#ref=rss)
-### us
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa](https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa-a-19c829bd-82a6-4ae5-bfe3-dfb14bd786bf#ref=rss)
+### nasa
 
-* [https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden](https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden-a-8abe416b-aedd-479f-aa11-b25d7008403a#ref=rss)
-### open
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa](https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa-a-19c829bd-82a6-4ae5-bfe3-dfb14bd786bf#ref=rss)
+### gilt
 
-* [https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden](https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden-a-8abe416b-aedd-479f-aa11-b25d7008403a#ref=rss)
-### peter
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa](https://www.spiegel.de/politik/deutschland/news-des-tages-abtreibungsgesetz-in-texas-christian-drosten-bahnstreik-nasa-a-19c829bd-82a6-4ae5-bfe3-dfb14bd786bf#ref=rss)
+* [https://www.spiegel.de/ausland/virginia-statue-von-suedstaaten-feldherr-robert-e-lee-darf-entfernt-werden](https://www.spiegel.de/ausland/virginia-statue-von-suedstaaten-feldherr-robert-e-lee-darf-entfernt-werden-a-dbdaf5d8-4492-40d6-94d5-6d62b53bee50#ref=rss)
+### sloane
 
-* [https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden](https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden-a-8abe416b-aedd-479f-aa11-b25d7008403a#ref=rss)
-### gojowczyk
+* [https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst](https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst-a-e4d519df-55c0-4aee-a1bf-e5850a76bb03#ref=rss)
+### stephens
 
-* [https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden](https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden-a-8abe416b-aedd-479f-aa11-b25d7008403a#ref=rss)
-### runde
+* [https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst](https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst-a-e4d519df-55c0-4aee-a1bf-e5850a76bb03#ref=rss)
+### coco
 
-* [https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden](https://www.spiegel.de/sport/tennis/us-open-peter-gojowczyk-in-runde-drei-andrea-petkovic-dominik-koepfer-ausgeschieden-a-8abe416b-aedd-479f-aa11-b25d7008403a#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst](https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst-a-e4d519df-55c0-4aee-a1bf-e5850a76bb03#ref=rss)
+### gauff
+
+* [https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst](https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst-a-e4d519df-55c0-4aee-a1bf-e5850a76bb03#ref=rss)
+### nächste
+
+* [https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst](https://www.spiegel.de/sport/tennis/us-open-sloane-stephens-gewinnt-us-duell-gegen-coco-gauff-sie-hat-es-schon-frueh-gewusst-a-e4d519df-55c0-4aee-a1bf-e5850a76bb03#ref=rss)
+* [https://www.spiegel.de/ausland/polen-andrzej-duda-verhaengt-ausnahmezustand-an-grenze-zu-belarus](https://www.spiegel.de/ausland/polen-andrzej-duda-verhaengt-ausnahmezustand-an-grenze-zu-belarus-a-01d8768a-17b0-4430-8d90-b4c4aa263118#ref=rss)
+### virginia
+
+* [https://www.spiegel.de/ausland/virginia-statue-von-suedstaaten-feldherr-robert-e-lee-darf-entfernt-werden](https://www.spiegel.de/ausland/virginia-statue-von-suedstaaten-feldherr-robert-e-lee-darf-entfernt-werden-a-dbdaf5d8-4492-40d6-94d5-6d62b53bee50#ref=rss)
+### statue
+
+* [https://www.spiegel.de/ausland/virginia-statue-von-suedstaaten-feldherr-robert-e-lee-darf-entfernt-werden](https://www.spiegel.de/ausland/virginia-statue-von-suedstaaten-feldherr-robert-e-lee-darf-entfernt-werden-a-dbdaf5d8-4492-40d6-94d5-6d62b53bee50#ref=rss)
+### robert
+
+* [https://www.spiegel.de/ausland/virginia-statue-von-suedstaaten-feldherr-robert-e-lee-darf-entfernt-werden](https://www.spiegel.de/ausland/virginia-statue-von-suedstaaten-feldherr-robert-e-lee-darf-entfernt-werden-a-dbdaf5d8-4492-40d6-94d5-6d62b53bee50#ref=rss)
+### e
+
+* [https://www.spiegel.de/ausland/virginia-statue-von-suedstaaten-feldherr-robert-e-lee-darf-entfernt-werden](https://www.spiegel.de/ausland/virginia-statue-von-suedstaaten-feldherr-robert-e-lee-darf-entfernt-werden-a-dbdaf5d8-4492-40d6-94d5-6d62b53bee50#ref=rss)
+### lee
+
+* [https://www.spiegel.de/ausland/virginia-statue-von-suedstaaten-feldherr-robert-e-lee-darf-entfernt-werden](https://www.spiegel.de/ausland/virginia-statue-von-suedstaaten-feldherr-robert-e-lee-darf-entfernt-werden-a-dbdaf5d8-4492-40d6-94d5-6d62b53bee50#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/wladimir-putin-schueler-korrigiert-russischen-praesident-in-geschichte](https://www.spiegel.de/ausland/wladimir-putin-schueler-korrigiert-russischen-praesident-in-geschichte-a-691aae7b-adfa-40dd-9d08-e8c9702e5ca6#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/wladimir-putin-schueler-korrigiert-russischen-praesident-in-geschichte](https://www.spiegel.de/ausland/wladimir-putin-schueler-korrigiert-russischen-praesident-in-geschichte-a-691aae7b-adfa-40dd-9d08-e8c9702e5ca6#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/ausland/wladimir-putin-schueler-korrigiert-russischen-praesident-in-geschichte](https://www.spiegel.de/ausland/wladimir-putin-schueler-korrigiert-russischen-praesident-in-geschichte-a-691aae7b-adfa-40dd-9d08-e8c9702e5ca6#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/bochum-sexueller-missbrauch-mann-zu-neun-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/bochum-sexueller-missbrauch-mann-zu-neun-jahren-haft-verurteilt-a-b86c1185-068a-4bb3-aec6-89855b0a9d2f#ref=rss)
+### steinmeier
+
+* [https://www.spiegel.de/politik/deutschland/afghanistan-frank-walter-steinmeier-haelt-mindestmass-an-kontakt-mit-taliban-fuer-notwendig](https://www.spiegel.de/politik/deutschland/afghanistan-frank-walter-steinmeier-haelt-mindestmass-an-kontakt-mit-taliban-fuer-notwendig-a-9d80455d-e89d-42a9-9eab-7f8a45c88b8a#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/geschichte/niklas-frank-ueber-niklas-frank-sein-haertester-kritiker](https://www.spiegel.de/geschichte/niklas-frank-ueber-niklas-frank-sein-haertester-kritiker-a-c0d0e81b-97d9-40e2-9ec0-68c3f117e330#ref=rss)
+* [https://www.spiegel.de/geschichte/niklas-frank-sohn-des-nazi-verbrechers-hans-frank-post-vom-massenmoerder](https://www.spiegel.de/geschichte/niklas-frank-sohn-des-nazi-verbrechers-hans-frank-post-vom-massenmoerder-a-7d188f66-6304-4506-8fb6-135ecd5eca7f#ref=rss)
 
