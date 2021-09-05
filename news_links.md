@@ -4,338 +4,329 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### unter
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter-a-09604467-3d28-4dbe-bd20-197b868c4c7d#ref=rss)
-* [https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis](https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis-a-9b0282a7-1c06-4fe2-929b-363a7f1c993e#ref=rss)
-* [https://www.spiegel.de/ausland/ebrahim-raisi-iran-bereit-fuer-atomgespraeche-ohne-westlichen-druck](https://www.spiegel.de/ausland/ebrahim-raisi-iran-bereit-fuer-atomgespraeche-ohne-westlichen-druck-a-1cdd88bc-61a6-4b1b-a4ed-402662d4c5f0#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-pharmafirmen-treiben-26-milliarden-dollar-vergleich-voran](https://www.spiegel.de/wirtschaft/unternehmen/us-pharmafirmen-treiben-26-milliarden-dollar-vergleich-voran-a-156a2716-c4a2-4f37-87fd-55ced7456d96#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nach-hurrikan-ida-satellitenbilder-zeigen-kilometerlangen-oelteppich-vor-der-kueste-louisianas](https://www.spiegel.de/wissenschaft/nach-hurrikan-ida-satellitenbilder-zeigen-kilometerlangen-oelteppich-vor-der-kueste-louisianas-a-4ccf5e0e-8b64-4a82-b45b-863576a69e6d#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-fordern-von-deutschland-anerkennung-und-finanzielle-hilfen](https://www.spiegel.de/ausland/afghanistan-taliban-fordern-von-deutschland-anerkennung-und-finanzielle-hilfen-a-336b7653-b939-41da-adde-43e47fb8779f#ref=rss)
-* [https://www.spiegel.de/ausland/ebrahim-raisi-iran-bereit-fuer-atomgespraeche-ohne-westlichen-druck](https://www.spiegel.de/ausland/ebrahim-raisi-iran-bereit-fuer-atomgespraeche-ohne-westlichen-druck-a-1cdd88bc-61a6-4b1b-a4ed-402662d4c5f0#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/panorama/gesellschaft/fucking-gemeinde-aus-oesterreich-spendet-ortsschild-an-museum](https://www.spiegel.de/panorama/gesellschaft/fucking-gemeinde-aus-oesterreich-spendet-ortsschild-an-museum-a-9cf25b9a-8239-4eec-948c-5170f07c09bf#ref=rss)
-* [https://www.spiegel.de/panorama/gleitschirmflieger-stuerzt-300-meter-in-den-tod](https://www.spiegel.de/panorama/gleitschirmflieger-stuerzt-300-meter-in-den-tod-a-2ca7f69f-7c38-4d95-adc4-8332ee5f6753#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter-a-09604467-3d28-4dbe-bd20-197b868c4c7d#ref=rss)
-### us
-
-* [https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt](https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt-a-73b020fd-95cd-418c-94b6-f7d532237ff3#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-auch-tennis-weltranglistenerste-ashleigh-barty-scheitert](https://www.spiegel.de/sport/tennis/us-open-auch-tennis-weltranglistenerste-ashleigh-barty-scheitert-a-eb6b9007-ca17-4ad0-a59c-0d4b6bcd4dcc#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt](https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt-a-73b020fd-95cd-418c-94b6-f7d532237ff3#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-auch-tennis-weltranglistenerste-ashleigh-barty-scheitert](https://www.spiegel.de/sport/tennis/us-open-auch-tennis-weltranglistenerste-ashleigh-barty-scheitert-a-eb6b9007-ca17-4ad0-a59c-0d4b6bcd4dcc#ref=rss)
-### taliban
-
-* [https://www.spiegel.de/ausland/taliban-al-qaida-und-is-us-general-warnt-vor-buergerkrieg-in-afghanistan](https://www.spiegel.de/ausland/taliban-al-qaida-und-is-us-general-warnt-vor-buergerkrieg-in-afghanistan-a-095079e9-6326-4c99-b61d-f1cb7b1b3718#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-fordern-von-deutschland-anerkennung-und-finanzielle-hilfen](https://www.spiegel.de/ausland/afghanistan-taliban-fordern-von-deutschland-anerkennung-und-finanzielle-hilfen-a-336b7653-b939-41da-adde-43e47fb8779f#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/ausland/taliban-al-qaida-und-is-us-general-warnt-vor-buergerkrieg-in-afghanistan](https://www.spiegel.de/ausland/taliban-al-qaida-und-is-us-general-warnt-vor-buergerkrieg-in-afghanistan-a-095079e9-6326-4c99-b61d-f1cb7b1b3718#ref=rss)
-* [https://www.spiegel.de/gesundheit/afghanistan-einsatz-der-bundeswehr-als-der-soldat-in-depressionen-fiel-sagte-der-armee-arzt-simulant](https://www.spiegel.de/gesundheit/afghanistan-einsatz-der-bundeswehr-als-der-soldat-in-depressionen-fiel-sagte-der-armee-arzt-simulant-a-534ab9a7-23be-4d0d-b67a-f6a8be20fd6d#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-fordern-von-deutschland-anerkennung-und-finanzielle-hilfen](https://www.spiegel.de/ausland/afghanistan-taliban-fordern-von-deutschland-anerkennung-und-finanzielle-hilfen-a-336b7653-b939-41da-adde-43e47fb8779f#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/saudi-arabien-zwei-verletzte-kinder-bei-raketenangriff-aus-dem-jemen](https://www.spiegel.de/ausland/saudi-arabien-zwei-verletzte-kinder-bei-raketenangriff-aus-dem-jemen-a-c7f7007f-0e79-48e2-9c51-5dffbb11298e#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-zwei-verletzte-bei-messerangriff-gruenanlage](https://www.spiegel.de/panorama/berlin-zwei-verletzte-bei-messerangriff-gruenanlage-a-6080fd12-9a5f-4af9-af83-a157bba7323b#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/ausland/saudi-arabien-zwei-verletzte-kinder-bei-raketenangriff-aus-dem-jemen](https://www.spiegel.de/ausland/saudi-arabien-zwei-verletzte-kinder-bei-raketenangriff-aus-dem-jemen-a-c7f7007f-0e79-48e2-9c51-5dffbb11298e#ref=rss)
-* [https://www.spiegel.de/familie/kinderarzt-ueber-fuersorge-der-begriff-helikoptereltern-ist-verlogen-aggressiv-und-diskriminierend](https://www.spiegel.de/familie/kinderarzt-ueber-fuersorge-der-begriff-helikoptereltern-ist-verlogen-aggressiv-und-diskriminierend-a-c1bd1cc4-ac2a-475f-aa79-aa62c01a0d2e#ref=rss)
-### niederlande
-
-* [https://www.spiegel.de/auto/niederlande-traktor-spiesst-auto-auf-streit-um-ueberholmanoever](https://www.spiegel.de/auto/niederlande-traktor-spiesst-auto-auf-streit-um-ueberholmanoever-a-9a5c6a08-4f92-4ffc-81df-7247fcf39643#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter-a-09604467-3d28-4dbe-bd20-197b868c4c7d#ref=rss)
-### streit
-
-* [https://www.spiegel.de/auto/niederlande-traktor-spiesst-auto-auf-streit-um-ueberholmanoever](https://www.spiegel.de/auto/niederlande-traktor-spiesst-auto-auf-streit-um-ueberholmanoever-a-9a5c6a08-4f92-4ffc-81df-7247fcf39643#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ganztagsschule-annalena-baerbock-dringt-auf-einigung-im-streit-ueber-ganztagsanspruch](https://www.spiegel.de/politik/deutschland/ganztagsschule-annalena-baerbock-dringt-auf-einigung-im-streit-ueber-ganztagsanspruch-a-28558a82-c694-47e4-b588-2e4b6bb81d32#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/panorama/gesellschaft/fucking-gemeinde-aus-oesterreich-spendet-ortsschild-an-museum](https://www.spiegel.de/panorama/gesellschaft/fucking-gemeinde-aus-oesterreich-spendet-ortsschild-an-museum-a-9cf25b9a-8239-4eec-948c-5170f07c09bf#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-thw-kiel-gewinnt-gegen-tbv-lemgo-lippe-und-holt-zum-elften-mal-den-supercup](https://www.spiegel.de/sport/handball/handball-thw-kiel-gewinnt-gegen-tbv-lemgo-lippe-und-holt-zum-elften-mal-den-supercup-a-88c1ff41-6515-471a-a3db-9901076a492e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter-a-09604467-3d28-4dbe-bd20-197b868c4c7d#ref=rss)
-### annalena
-
-* [https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview](https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview-a-db0544b2-4423-4753-b3f8-fe1b085ce0bb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ganztagsschule-annalena-baerbock-dringt-auf-einigung-im-streit-ueber-ganztagsanspruch](https://www.spiegel.de/politik/deutschland/ganztagsschule-annalena-baerbock-dringt-auf-einigung-im-streit-ueber-ganztagsanspruch-a-28558a82-c694-47e4-b588-2e4b6bb81d32#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview](https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview-a-db0544b2-4423-4753-b3f8-fe1b085ce0bb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ganztagsschule-annalena-baerbock-dringt-auf-einigung-im-streit-ueber-ganztagsanspruch](https://www.spiegel.de/politik/deutschland/ganztagsschule-annalena-baerbock-dringt-auf-einigung-im-streit-ueber-ganztagsanspruch-a-28558a82-c694-47e4-b588-2e4b6bb81d32#ref=rss)
-### sonntag
-
-* [https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview](https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview-a-db0544b2-4423-4753-b3f8-fe1b085ce0bb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19-a-e8091657-e7ff-4a7a-bdff-4935c9a642b9#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/wirtschaft/massive-ausfaelle-bei-der-bahn-70-prozent-der-fernzuege-fallen-wegen-lokfuehrer-streiks-aus](https://www.spiegel.de/wirtschaft/massive-ausfaelle-bei-der-bahn-70-prozent-der-fernzuege-fallen-wegen-lokfuehrer-streiks-aus-a-cceb915e-4a08-4b71-800f-02462922bee1#ref=rss)
-* [https://www.spiegel.de/familie/kinderarzt-ueber-fuersorge-der-begriff-helikoptereltern-ist-verlogen-aggressiv-und-diskriminierend](https://www.spiegel.de/familie/kinderarzt-ueber-fuersorge-der-begriff-helikoptereltern-ist-verlogen-aggressiv-und-diskriminierend-a-c1bd1cc4-ac2a-475f-aa79-aa62c01a0d2e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19-a-e8091657-e7ff-4a7a-bdff-4935c9a642b9#ref=rss)
-### sieg
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter-a-09604467-3d28-4dbe-bd20-197b868c4c7d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt](https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt-a-73b020fd-95cd-418c-94b6-f7d532237ff3#ref=rss)
-* [https://www.spiegel.de/ausland/taliban-al-qaida-und-is-us-general-warnt-vor-buergerkrieg-in-afghanistan](https://www.spiegel.de/ausland/taliban-al-qaida-und-is-us-general-warnt-vor-buergerkrieg-in-afghanistan-a-095079e9-6326-4c99-b61d-f1cb7b1b3718#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/us-pharmafirmen-treiben-26-milliarden-dollar-vergleich-voran](https://www.spiegel.de/wirtschaft/unternehmen/us-pharmafirmen-treiben-26-milliarden-dollar-vergleich-voran-a-156a2716-c4a2-4f37-87fd-55ced7456d96#ref=rss)
-* [https://www.spiegel.de/ausland/seenotrettung-ekd-ratsvorsitzende-bedford-strohm-fordert-freilassung-sea-watch-4](https://www.spiegel.de/ausland/seenotrettung-ekd-ratsvorsitzende-bedford-strohm-fordert-freilassung-sea-watch-4-a-9a532c06-03b9-4fb0-a345-50441ab33daf#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19-a-e8091657-e7ff-4a7a-bdff-4935c9a642b9#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/gesellschaft/corona-mehr-als-350-000-impfungen-nicht-gemeldet](https://www.spiegel.de/panorama/gesellschaft/corona-mehr-als-350-000-impfungen-nicht-gemeldet-a-b9383ed7-215a-4868-bbc4-5d3cdd64c6b7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19-a-e8091657-e7ff-4a7a-bdff-4935c9a642b9#ref=rss)
-### brian
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-kann-mit-ueber-einer-milliarde-euro-foerderung-rechnen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-kann-mit-ueber-einer-milliarde-euro-foerderung-rechnen-a-d44a0ea5-c205-4cdf-910a-bd60d5f2e3b9#ref=rss)
+* [https://www.spiegel.de/familie/humor-warum-lachen-wirklich-gesund-ist-dein-spiegel-podcast](https://www.spiegel.de/familie/humor-warum-lachen-wirklich-gesund-ist-dein-spiegel-podcast-a-79826cf5-8ff9-4a16-932a-0a4a25f47ab3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wo-sind-nur-die-u-40-themen](https://www.spiegel.de/politik/deutschland/bundestagswahl-wo-sind-nur-die-u-40-themen-a-38f87ab4-69bb-4250-903f-c1b9ef317c3f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen-a-b79b698f-6b77-418b-acc4-95a395e49604#ref=rss)
+* [https://www.spiegel.de/panorama/indien-dutzende-kinder-sterben-an-ungeklaerter-krankheit](https://www.spiegel.de/panorama/indien-dutzende-kinder-sterben-an-ungeklaerter-krankheit-a-4daaf98c-52bd-4512-ad76-4293b31dd147#ref=rss)
+* [https://www.spiegel.de/auto/iaa-mobility-2021-suv-und-nochmal-suv-fuer-staedte-wird-das-zum-problem](https://www.spiegel.de/auto/iaa-mobility-2021-suv-und-nochmal-suv-fuer-staedte-wird-das-zum-problem-a-bc8a39ae-4481-4257-8d5a-e9b43a90d35e#ref=rss)
+### kabul
 
-* [https://www.spiegel.de/geschichte/queen-gitarrist-brian-may-der-oeffentliche-freddie-mercury-war-wie-ein-avatar](https://www.spiegel.de/geschichte/queen-gitarrist-brian-may-der-oeffentliche-freddie-mercury-war-wie-ein-avatar-a-48c94b38-4f7c-4b46-9fc7-48240b1d838a#ref=rss)
-### may
+* [https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul](https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul-a-4dc39316-f57f-4061-8ad6-8316499d6ab9#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-die-taliban-wollen-nicht-wie-handlanger-pakistans-aussehen](https://www.spiegel.de/ausland/afghanistan-die-taliban-wollen-nicht-wie-handlanger-pakistans-aussehen-a-29fdf532-22de-4788-9619-c2dd68952831#ref=rss)
+### bundestagswahl
 
-* [https://www.spiegel.de/geschichte/queen-gitarrist-brian-may-der-oeffentliche-freddie-mercury-war-wie-ein-avatar](https://www.spiegel.de/geschichte/queen-gitarrist-brian-may-der-oeffentliche-freddie-mercury-war-wie-ein-avatar-a-48c94b38-4f7c-4b46-9fc7-48240b1d838a#ref=rss)
-### freddie
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wo-sind-nur-die-u-40-themen](https://www.spiegel.de/politik/deutschland/bundestagswahl-wo-sind-nur-die-u-40-themen-a-38f87ab4-69bb-4250-903f-c1b9ef317c3f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen-a-b79b698f-6b77-418b-acc4-95a395e49604#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten-a-3d04e4f5-65cd-44bd-8b0e-40f7efd85fb5#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/geschichte/queen-gitarrist-brian-may-der-oeffentliche-freddie-mercury-war-wie-ein-avatar](https://www.spiegel.de/geschichte/queen-gitarrist-brian-may-der-oeffentliche-freddie-mercury-war-wie-ein-avatar-a-48c94b38-4f7c-4b46-9fc7-48240b1d838a#ref=rss)
-### mercury
+* [https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul](https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul-a-4dc39316-f57f-4061-8ad6-8316499d6ab9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lidl-boss-menschenrechtsklage-wegen-zwangsarbeitsvorwurf-in-china](https://www.spiegel.de/wirtschaft/lidl-boss-menschenrechtsklage-wegen-zwangsarbeitsvorwurf-in-china-a-efee88bb-cc03-42d5-8451-725b1c128547#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen-a-b79b698f-6b77-418b-acc4-95a395e49604#ref=rss)
+* [https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals](https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals-a-1bc6965e-23e4-4004-925d-b96b51a12107#ref=rss)
+### verstappen
 
-* [https://www.spiegel.de/geschichte/queen-gitarrist-brian-may-der-oeffentliche-freddie-mercury-war-wie-ein-avatar](https://www.spiegel.de/geschichte/queen-gitarrist-brian-may-der-oeffentliche-freddie-mercury-war-wie-ein-avatar-a-48c94b38-4f7c-4b46-9fc7-48240b1d838a#ref=rss)
-### jahre
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-heimsieg-beim-grossen-preis-der-niederlande-der-koenig-von-zandvoort](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-heimsieg-beim-grossen-preis-der-niederlande-der-koenig-von-zandvoort-a-68239c19-dac5-4ce1-acfc-0e984e9f4c0e#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck](https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck-a-b1b1b51c-5420-44e9-92b8-a0591b829e7b#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/geschichte/queen-gitarrist-brian-may-der-oeffentliche-freddie-mercury-war-wie-ein-avatar](https://www.spiegel.de/geschichte/queen-gitarrist-brian-may-der-oeffentliche-freddie-mercury-war-wie-ein-avatar-a-48c94b38-4f7c-4b46-9fc7-48240b1d838a#ref=rss)
-* [https://www.spiegel.de/sport/olympia/ivan-patzaichin-rumaeniens-kanu-legende-ist-tot](https://www.spiegel.de/sport/olympia/ivan-patzaichin-rumaeniens-kanu-legende-ist-tot-a-a5d27f73-01cb-45e3-9526-4cc3197ad3f0#ref=rss)
-### saudiarabien
+* [https://www.spiegel.de/familie/humor-warum-lachen-wirklich-gesund-ist-dein-spiegel-podcast](https://www.spiegel.de/familie/humor-warum-lachen-wirklich-gesund-ist-dein-spiegel-podcast-a-79826cf5-8ff9-4a16-932a-0a4a25f47ab3#ref=rss)
+* [https://www.spiegel.de/kultur/versteh-einer-die-jugend](https://www.spiegel.de/kultur/versteh-einer-die-jugend-a-14542e1f-b392-410f-b13d-33cfe134f5bd#ref=rss)
+* [https://www.spiegel.de/panorama/indien-dutzende-kinder-sterben-an-ungeklaerter-krankheit](https://www.spiegel.de/panorama/indien-dutzende-kinder-sterben-an-ungeklaerter-krankheit-a-4daaf98c-52bd-4512-ad76-4293b31dd147#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/ausland/saudi-arabien-zwei-verletzte-kinder-bei-raketenangriff-aus-dem-jemen](https://www.spiegel.de/ausland/saudi-arabien-zwei-verletzte-kinder-bei-raketenangriff-aus-dem-jemen-a-c7f7007f-0e79-48e2-9c51-5dffbb11298e#ref=rss)
-### verletzte
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen-a-b79b698f-6b77-418b-acc4-95a395e49604#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/taliban-erlassen-nikab-pflicht-fuer-frauen-an-hochschulen](https://www.spiegel.de/panorama/bildung/taliban-erlassen-nikab-pflicht-fuer-frauen-an-hochschulen-a-dd44b769-af8b-4445-a700-2b1926bc84c2#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/ausland/saudi-arabien-zwei-verletzte-kinder-bei-raketenangriff-aus-dem-jemen](https://www.spiegel.de/ausland/saudi-arabien-zwei-verletzte-kinder-bei-raketenangriff-aus-dem-jemen-a-c7f7007f-0e79-48e2-9c51-5dffbb11298e#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-zwei-verletzte-bei-messerangriff-gruenanlage](https://www.spiegel.de/panorama/berlin-zwei-verletzte-bei-messerangriff-gruenanlage-a-6080fd12-9a5f-4af9-af83-a157bba7323b#ref=rss)
-### jemen
+* [https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul](https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul-a-4dc39316-f57f-4061-8ad6-8316499d6ab9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/angriff-in-berlin-haftbefehl-gegen-mutmasslichen-messerstecher-erlassen](https://www.spiegel.de/panorama/justiz/angriff-in-berlin-haftbefehl-gegen-mutmasslichen-messerstecher-erlassen-a-51f563a7-4e36-4ce0-afe7-39ceaa50d924#ref=rss)
+* [https://www.spiegel.de/panorama/indien-dutzende-kinder-sterben-an-ungeklaerter-krankheit](https://www.spiegel.de/panorama/indien-dutzende-kinder-sterben-an-ungeklaerter-krankheit-a-4daaf98c-52bd-4512-ad76-4293b31dd147#ref=rss)
+### max
 
-* [https://www.spiegel.de/ausland/saudi-arabien-zwei-verletzte-kinder-bei-raketenangriff-aus-dem-jemen](https://www.spiegel.de/ausland/saudi-arabien-zwei-verletzte-kinder-bei-raketenangriff-aus-dem-jemen-a-c7f7007f-0e79-48e2-9c51-5dffbb11298e#ref=rss)
-### statt
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-heimsieg-beim-grossen-preis-der-niederlande-der-koenig-von-zandvoort](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-heimsieg-beim-grossen-preis-der-niederlande-der-koenig-von-zandvoort-a-68239c19-dac5-4ce1-acfc-0e984e9f4c0e#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck](https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck-a-b1b1b51c-5420-44e9-92b8-a0591b829e7b#ref=rss)
+### zandvoort
 
-* [https://www.spiegel.de/ausland/saudi-arabien-zwei-verletzte-kinder-bei-raketenangriff-aus-dem-jemen](https://www.spiegel.de/ausland/saudi-arabien-zwei-verletzte-kinder-bei-raketenangriff-aus-dem-jemen-a-c7f7007f-0e79-48e2-9c51-5dffbb11298e#ref=rss)
-* [https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview](https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview-a-db0544b2-4423-4753-b3f8-fe1b085ce0bb#ref=rss)
-### prince
-
-* [https://www.spiegel.de/panorama/leute/prince-charles-michael-fawcett-laesst-amt-in-prince-s-foundation-ruhen](https://www.spiegel.de/panorama/leute/prince-charles-michael-fawcett-laesst-amt-in-prince-s-foundation-ruhen-a-25aa34a9-a9ed-4a1e-a813-01c3a8bfe5dd#ref=rss)
-### amt
-
-* [https://www.spiegel.de/panorama/leute/prince-charles-michael-fawcett-laesst-amt-in-prince-s-foundation-ruhen](https://www.spiegel.de/panorama/leute/prince-charles-michael-fawcett-laesst-amt-in-prince-s-foundation-ruhen-a-25aa34a9-a9ed-4a1e-a813-01c3a8bfe5dd#ref=rss)
-* [https://www.spiegel.de/ausland/cetinje-proteste-vor-amtseinfuehrung-des-oberhaupts-der-serbisch-orthodoxen-kirche-in-montenegro](https://www.spiegel.de/ausland/cetinje-proteste-vor-amtseinfuehrung-des-oberhaupts-der-serbisch-orthodoxen-kirche-in-montenegro-a-420b4dd7-5ad9-4693-88be-0eb834e53b97#ref=rss)
-### überholmanöver
-
-* [https://www.spiegel.de/auto/niederlande-traktor-spiesst-auto-auf-streit-um-ueberholmanoever](https://www.spiegel.de/auto/niederlande-traktor-spiesst-auto-auf-streit-um-ueberholmanoever-a-9a5c6a08-4f92-4ffc-81df-7247fcf39643#ref=rss)
-### erst
-
-* [https://www.spiegel.de/auto/niederlande-traktor-spiesst-auto-auf-streit-um-ueberholmanoever](https://www.spiegel.de/auto/niederlande-traktor-spiesst-auto-auf-streit-um-ueberholmanoever-a-9a5c6a08-4f92-4ffc-81df-7247fcf39643#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-auch-tennis-weltranglistenerste-ashleigh-barty-scheitert](https://www.spiegel.de/sport/tennis/us-open-auch-tennis-weltranglistenerste-ashleigh-barty-scheitert-a-eb6b9007-ca17-4ad0-a59c-0d4b6bcd4dcc#ref=rss)
-### fucking
-
-* [https://www.spiegel.de/panorama/gesellschaft/fucking-gemeinde-aus-oesterreich-spendet-ortsschild-an-museum](https://www.spiegel.de/panorama/gesellschaft/fucking-gemeinde-aus-oesterreich-spendet-ortsschild-an-museum-a-9cf25b9a-8239-4eec-948c-5170f07c09bf#ref=rss)
-### gemeinde
-
-* [https://www.spiegel.de/panorama/gesellschaft/fucking-gemeinde-aus-oesterreich-spendet-ortsschild-an-museum](https://www.spiegel.de/panorama/gesellschaft/fucking-gemeinde-aus-oesterreich-spendet-ortsschild-an-museum-a-9cf25b9a-8239-4eec-948c-5170f07c09bf#ref=rss)
-### ortsschild
-
-* [https://www.spiegel.de/panorama/gesellschaft/fucking-gemeinde-aus-oesterreich-spendet-ortsschild-an-museum](https://www.spiegel.de/panorama/gesellschaft/fucking-gemeinde-aus-oesterreich-spendet-ortsschild-an-museum-a-9cf25b9a-8239-4eec-948c-5170f07c09bf#ref=rss)
-### museum
-
-* [https://www.spiegel.de/panorama/gesellschaft/fucking-gemeinde-aus-oesterreich-spendet-ortsschild-an-museum](https://www.spiegel.de/panorama/gesellschaft/fucking-gemeinde-aus-oesterreich-spendet-ortsschild-an-museum-a-9cf25b9a-8239-4eec-948c-5170f07c09bf#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/berlin-zwei-verletzte-bei-messerangriff-gruenanlage](https://www.spiegel.de/panorama/berlin-zwei-verletzte-bei-messerangriff-gruenanlage-a-6080fd12-9a5f-4af9-af83-a157bba7323b#ref=rss)
-### psychischen
-
-* [https://www.spiegel.de/panorama/berlin-zwei-verletzte-bei-messerangriff-gruenanlage](https://www.spiegel.de/panorama/berlin-zwei-verletzte-bei-messerangriff-gruenanlage-a-6080fd12-9a5f-4af9-af83-a157bba7323b#ref=rss)
-* [https://www.spiegel.de/gesundheit/afghanistan-einsatz-der-bundeswehr-als-der-soldat-in-depressionen-fiel-sagte-der-armee-arzt-simulant](https://www.spiegel.de/gesundheit/afghanistan-einsatz-der-bundeswehr-als-der-soldat-in-depressionen-fiel-sagte-der-armee-arzt-simulant-a-534ab9a7-23be-4d0d-b67a-f6a8be20fd6d#ref=rss)
-### ivan
-
-* [https://www.spiegel.de/sport/olympia/ivan-patzaichin-rumaeniens-kanu-legende-ist-tot](https://www.spiegel.de/sport/olympia/ivan-patzaichin-rumaeniens-kanu-legende-ist-tot-a-a5d27f73-01cb-45e3-9526-4cc3197ad3f0#ref=rss)
-### patzaichin
-
-* [https://www.spiegel.de/sport/olympia/ivan-patzaichin-rumaeniens-kanu-legende-ist-tot](https://www.spiegel.de/sport/olympia/ivan-patzaichin-rumaeniens-kanu-legende-ist-tot-a-a5d27f73-01cb-45e3-9526-4cc3197ad3f0#ref=rss)
-### rumäniens
-
-* [https://www.spiegel.de/sport/olympia/ivan-patzaichin-rumaeniens-kanu-legende-ist-tot](https://www.spiegel.de/sport/olympia/ivan-patzaichin-rumaeniens-kanu-legende-ist-tot-a-a5d27f73-01cb-45e3-9526-4cc3197ad3f0#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/sport/olympia/ivan-patzaichin-rumaeniens-kanu-legende-ist-tot](https://www.spiegel.de/sport/olympia/ivan-patzaichin-rumaeniens-kanu-legende-ist-tot-a-a5d27f73-01cb-45e3-9526-4cc3197ad3f0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter-a-09604467-3d28-4dbe-bd20-197b868c4c7d#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/afd-abgeordneter-matthias-joa-verlaesst-partei-wegen-naehe-zu-rechtsradikalen](https://www.spiegel.de/politik/afd-abgeordneter-matthias-joa-verlaesst-partei-wegen-naehe-zu-rechtsradikalen-a-31b60d9e-349d-4e53-9834-133afcdd07cb#ref=rss)
-### matthias
-
-* [https://www.spiegel.de/politik/afd-abgeordneter-matthias-joa-verlaesst-partei-wegen-naehe-zu-rechtsradikalen](https://www.spiegel.de/politik/afd-abgeordneter-matthias-joa-verlaesst-partei-wegen-naehe-zu-rechtsradikalen-a-31b60d9e-349d-4e53-9834-133afcdd07cb#ref=rss)
-### joa
-
-* [https://www.spiegel.de/politik/afd-abgeordneter-matthias-joa-verlaesst-partei-wegen-naehe-zu-rechtsradikalen](https://www.spiegel.de/politik/afd-abgeordneter-matthias-joa-verlaesst-partei-wegen-naehe-zu-rechtsradikalen-a-31b60d9e-349d-4e53-9834-133afcdd07cb#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/afd-abgeordneter-matthias-joa-verlaesst-partei-wegen-naehe-zu-rechtsradikalen](https://www.spiegel.de/politik/afd-abgeordneter-matthias-joa-verlaesst-partei-wegen-naehe-zu-rechtsradikalen-a-31b60d9e-349d-4e53-9834-133afcdd07cb#ref=rss)
-### nähe
-
-* [https://www.spiegel.de/politik/afd-abgeordneter-matthias-joa-verlaesst-partei-wegen-naehe-zu-rechtsradikalen](https://www.spiegel.de/politik/afd-abgeordneter-matthias-joa-verlaesst-partei-wegen-naehe-zu-rechtsradikalen-a-31b60d9e-349d-4e53-9834-133afcdd07cb#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-taliban-fordern-von-deutschland-anerkennung-und-finanzielle-hilfen](https://www.spiegel.de/ausland/afghanistan-taliban-fordern-von-deutschland-anerkennung-und-finanzielle-hilfen-a-336b7653-b939-41da-adde-43e47fb8779f#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/afd-abgeordneter-matthias-joa-verlaesst-partei-wegen-naehe-zu-rechtsradikalen](https://www.spiegel.de/politik/afd-abgeordneter-matthias-joa-verlaesst-partei-wegen-naehe-zu-rechtsradikalen-a-31b60d9e-349d-4e53-9834-133afcdd07cb#ref=rss)
-* [https://www.spiegel.de/ausland/seenotrettung-ekd-ratsvorsitzende-bedford-strohm-fordert-freilassung-sea-watch-4](https://www.spiegel.de/ausland/seenotrettung-ekd-ratsvorsitzende-bedford-strohm-fordert-freilassung-sea-watch-4-a-9a532c06-03b9-4fb0-a345-50441ab33daf#ref=rss)
-### bild
-
-* [https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview](https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview-a-db0544b2-4423-4753-b3f8-fe1b085ce0bb#ref=rss)
-### seite
-
-* [https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview](https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview-a-db0544b2-4423-4753-b3f8-fe1b085ce0bb#ref=rss)
-### grünenkanzlerkandidatin
-
-* [https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview](https://www.spiegel.de/kultur/bild-am-sonntag-druckt-weisse-seite-statt-baerbock-interview-a-db0544b2-4423-4753-b3f8-fe1b085ce0bb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ganztagsschule-annalena-baerbock-dringt-auf-einigung-im-streit-ueber-ganztagsanspruch](https://www.spiegel.de/politik/deutschland/ganztagsschule-annalena-baerbock-dringt-auf-einigung-im-streit-ueber-ganztagsanspruch-a-28558a82-c694-47e4-b588-2e4b6bb81d32#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/massive-ausfaelle-bei-der-bahn-70-prozent-der-fernzuege-fallen-wegen-lokfuehrer-streiks-aus](https://www.spiegel.de/wirtschaft/massive-ausfaelle-bei-der-bahn-70-prozent-der-fernzuege-fallen-wegen-lokfuehrer-streiks-aus-a-cceb915e-4a08-4b71-800f-02462922bee1#ref=rss)
-### tod
-
-* [https://www.spiegel.de/panorama/gleitschirmflieger-stuerzt-300-meter-in-den-tod](https://www.spiegel.de/panorama/gleitschirmflieger-stuerzt-300-meter-in-den-tod-a-2ca7f69f-7c38-4d95-adc4-8332ee5f6753#ref=rss)
-### thw
-
-* [https://www.spiegel.de/sport/handball/handball-thw-kiel-gewinnt-gegen-tbv-lemgo-lippe-und-holt-zum-elften-mal-den-supercup](https://www.spiegel.de/sport/handball/handball-thw-kiel-gewinnt-gegen-tbv-lemgo-lippe-und-holt-zum-elften-mal-den-supercup-a-88c1ff41-6515-471a-a3db-9901076a492e#ref=rss)
-### kiel
-
-* [https://www.spiegel.de/sport/handball/handball-thw-kiel-gewinnt-gegen-tbv-lemgo-lippe-und-holt-zum-elften-mal-den-supercup](https://www.spiegel.de/sport/handball/handball-thw-kiel-gewinnt-gegen-tbv-lemgo-lippe-und-holt-zum-elften-mal-den-supercup-a-88c1ff41-6515-471a-a3db-9901076a492e#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/sport/handball/handball-thw-kiel-gewinnt-gegen-tbv-lemgo-lippe-und-holt-zum-elften-mal-den-supercup](https://www.spiegel.de/sport/handball/handball-thw-kiel-gewinnt-gegen-tbv-lemgo-lippe-und-holt-zum-elften-mal-den-supercup-a-88c1ff41-6515-471a-a3db-9901076a492e#ref=rss)
-* [https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis](https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis-a-9b0282a7-1c06-4fe2-929b-363a7f1c993e#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/handball/handball-thw-kiel-gewinnt-gegen-tbv-lemgo-lippe-und-holt-zum-elften-mal-den-supercup](https://www.spiegel.de/sport/handball/handball-thw-kiel-gewinnt-gegen-tbv-lemgo-lippe-und-holt-zum-elften-mal-den-supercup-a-88c1ff41-6515-471a-a3db-9901076a492e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter-a-09604467-3d28-4dbe-bd20-197b868c4c7d#ref=rss)
-### erreicht
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-niederlande-feiern-ersten-sieg-unter-louis-van-gaal-frankreich-wartet-weiter-a-09604467-3d28-4dbe-bd20-197b868c4c7d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt](https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt-a-73b020fd-95cd-418c-94b6-f7d532237ff3#ref=rss)
-### visa
-
-* [https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis](https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis-a-9b0282a7-1c06-4fe2-929b-363a7f1c993e#ref=rss)
-### fotograf
-
-* [https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis](https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis-a-9b0282a7-1c06-4fe2-929b-363a7f1c993e#ref=rss)
-### myanmar
-
-* [https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis](https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis-a-9b0282a7-1c06-4fe2-929b-363a7f1c993e#ref=rss)
-### proteste
-
-* [https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis](https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis-a-9b0282a7-1c06-4fe2-929b-363a7f1c993e#ref=rss)
-* [https://www.spiegel.de/ausland/cetinje-proteste-vor-amtseinfuehrung-des-oberhaupts-der-serbisch-orthodoxen-kirche-in-montenegro](https://www.spiegel.de/ausland/cetinje-proteste-vor-amtseinfuehrung-des-oberhaupts-der-serbisch-orthodoxen-kirche-in-montenegro-a-420b4dd7-5ad9-4693-88be-0eb834e53b97#ref=rss)
-### news
-
-* [https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis](https://www.spiegel.de/kultur/visa-pour-l-image-anonymer-fotograf-aus-myanmar-gewinnt-preis-a-9b0282a7-1c06-4fe2-929b-363a7f1c993e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19-a-e8091657-e7ff-4a7a-bdff-4935c9a642b9#ref=rss)
-### ida
-
-* [https://www.spiegel.de/wissenschaft/nach-hurrikan-ida-satellitenbilder-zeigen-kilometerlangen-oelteppich-vor-der-kueste-louisianas](https://www.spiegel.de/wissenschaft/nach-hurrikan-ida-satellitenbilder-zeigen-kilometerlangen-oelteppich-vor-der-kueste-louisianas-a-4ccf5e0e-8b64-4a82-b45b-863576a69e6d#ref=rss)
-### küste
-
-* [https://www.spiegel.de/wissenschaft/nach-hurrikan-ida-satellitenbilder-zeigen-kilometerlangen-oelteppich-vor-der-kueste-louisianas](https://www.spiegel.de/wissenschaft/nach-hurrikan-ida-satellitenbilder-zeigen-kilometerlangen-oelteppich-vor-der-kueste-louisianas-a-4ccf5e0e-8b64-4a82-b45b-863576a69e6d#ref=rss)
-### suchen
-
-* [https://www.spiegel.de/wissenschaft/nach-hurrikan-ida-satellitenbilder-zeigen-kilometerlangen-oelteppich-vor-der-kueste-louisianas](https://www.spiegel.de/wissenschaft/nach-hurrikan-ida-satellitenbilder-zeigen-kilometerlangen-oelteppich-vor-der-kueste-louisianas-a-4ccf5e0e-8b64-4a82-b45b-863576a69e6d#ref=rss)
-* [https://www.spiegel.de/gesundheit/afghanistan-einsatz-der-bundeswehr-als-der-soldat-in-depressionen-fiel-sagte-der-armee-arzt-simulant](https://www.spiegel.de/gesundheit/afghanistan-einsatz-der-bundeswehr-als-der-soldat-in-depressionen-fiel-sagte-der-armee-arzt-simulant-a-534ab9a7-23be-4d0d-b67a-f6a8be20fd6d#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-heimsieg-beim-grossen-preis-der-niederlande-der-koenig-von-zandvoort](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-heimsieg-beim-grossen-preis-der-niederlande-der-koenig-von-zandvoort-a-68239c19-dac5-4ce1-acfc-0e984e9f4c0e#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck](https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck-a-b1b1b51c-5420-44e9-92b8-a0591b829e7b#ref=rss)
 ### 2021
 
-* [https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt](https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt-a-73b020fd-95cd-418c-94b6-f7d532237ff3#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-auch-tennis-weltranglistenerste-ashleigh-barty-scheitert](https://www.spiegel.de/sport/tennis/us-open-auch-tennis-weltranglistenerste-ashleigh-barty-scheitert-a-eb6b9007-ca17-4ad0-a59c-0d4b6bcd4dcc#ref=rss)
-### alexander
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen-a-b79b698f-6b77-418b-acc4-95a395e49604#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten-a-3d04e4f5-65cd-44bd-8b0e-40f7efd85fb5#ref=rss)
+* [https://www.spiegel.de/auto/iaa-mobility-2021-suv-und-nochmal-suv-fuer-staedte-wird-das-zum-problem](https://www.spiegel.de/auto/iaa-mobility-2021-suv-und-nochmal-suv-fuer-staedte-wird-das-zum-problem-a-bc8a39ae-4481-4257-8d5a-e9b43a90d35e#ref=rss)
+### laut
 
-* [https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt](https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt-a-73b020fd-95cd-418c-94b6-f7d532237ff3#ref=rss)
-### zverev
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen-a-b79b698f-6b77-418b-acc4-95a395e49604#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten-a-3d04e4f5-65cd-44bd-8b0e-40f7efd85fb5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-pandemie-deutschland-will-100-millionen-impfdosen-bereitstellen](https://www.spiegel.de/wissenschaft/medizin/corona-pandemie-deutschland-will-100-millionen-impfdosen-bereitstellen-a-3a640921-b70f-4c68-b743-acccd4650dd5#ref=rss)
+### taliban
 
-* [https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt](https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt-a-73b020fd-95cd-418c-94b6-f7d532237ff3#ref=rss)
-### oscar
+* [https://www.spiegel.de/ausland/afghanistan-die-taliban-wollen-nicht-wie-handlanger-pakistans-aussehen](https://www.spiegel.de/ausland/afghanistan-die-taliban-wollen-nicht-wie-handlanger-pakistans-aussehen-a-29fdf532-22de-4788-9619-c2dd68952831#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/taliban-erlassen-nikab-pflicht-fuer-frauen-an-hochschulen](https://www.spiegel.de/panorama/bildung/taliban-erlassen-nikab-pflicht-fuer-frauen-an-hochschulen-a-dd44b769-af8b-4445-a700-2b1926bc84c2#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt](https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt-a-73b020fd-95cd-418c-94b6-f7d532237ff3#ref=rss)
-### otte
+* [https://www.spiegel.de/kultur/versteh-einer-die-jugend](https://www.spiegel.de/kultur/versteh-einer-die-jugend-a-14542e1f-b392-410f-b13d-33cfe134f5bd#ref=rss)
+* [https://www.spiegel.de/auto/iaa-mobility-2021-suv-und-nochmal-suv-fuer-staedte-wird-das-zum-problem](https://www.spiegel.de/auto/iaa-mobility-2021-suv-und-nochmal-suv-fuer-staedte-wird-das-zum-problem-a-bc8a39ae-4481-4257-8d5a-e9b43a90d35e#ref=rss)
+* [https://www.spiegel.de/politik/angela-merkel-und-armin-laschet-besuchen-hochwassergebiet](https://www.spiegel.de/politik/angela-merkel-und-armin-laschet-besuchen-hochwassergebiet-a-eb310e3f-22e5-42af-876a-86fc1f8c590e#ref=rss)
+### rätsel
 
-* [https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt](https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt-a-73b020fd-95cd-418c-94b6-f7d532237ff3#ref=rss)
-### achtelfinale
+* [https://www.spiegel.de/panorama/rohrbach-ilm-was-inzwischen-bekannt-ist-und-was-ein-raetsel-bleibt](https://www.spiegel.de/panorama/rohrbach-ilm-was-inzwischen-bekannt-ist-und-was-ein-raetsel-bleibt-a-8e0315e6-ad12-40f7-aa1e-d1ae1d2d1e4d#ref=rss)
+* [https://www.spiegel.de/panorama/indien-dutzende-kinder-sterben-an-ungeklaerter-krankheit](https://www.spiegel.de/panorama/indien-dutzende-kinder-sterben-an-ungeklaerter-krankheit-a-4daaf98c-52bd-4512-ad76-4293b31dd147#ref=rss)
+* [https://www.spiegel.de/karriere/piraten-streiten-um-120-goldmuenzen-raetsel-der-woche](https://www.spiegel.de/karriere/piraten-streiten-um-120-goldmuenzen-raetsel-der-woche-a-19ade1c1-c5ad-45d0-a7f4-5fab8be9bcf1#ref=rss)
+### suv
 
-* [https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt](https://www.spiegel.de/sport/tennis/zverev-und-otte-machen-beste-deutsche-abschneiden-bei-einem-grand-slam-seit-24-jahren-perfekt-a-73b020fd-95cd-418c-94b6-f7d532237ff3#ref=rss)
-### corona
+* [https://www.spiegel.de/auto/iaa-mobility-2021-suv-und-nochmal-suv-fuer-staedte-wird-das-zum-problem](https://www.spiegel.de/auto/iaa-mobility-2021-suv-und-nochmal-suv-fuer-staedte-wird-das-zum-problem-a-bc8a39ae-4481-4257-8d5a-e9b43a90d35e#ref=rss)
+### luftbrücke
 
-* [https://www.spiegel.de/panorama/gesellschaft/corona-mehr-als-350-000-impfungen-nicht-gemeldet](https://www.spiegel.de/panorama/gesellschaft/corona-mehr-als-350-000-impfungen-nicht-gemeldet-a-b9383ed7-215a-4868-bbc4-5d3cdd64c6b7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19-a-e8091657-e7ff-4a7a-bdff-4935c9a642b9#ref=rss)
-### 350000
+* [https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul](https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul-a-4dc39316-f57f-4061-8ad6-8316499d6ab9#ref=rss)
+### mitinitiatorin
 
-* [https://www.spiegel.de/panorama/gesellschaft/corona-mehr-als-350-000-impfungen-nicht-gemeldet](https://www.spiegel.de/panorama/gesellschaft/corona-mehr-als-350-000-impfungen-nicht-gemeldet-a-b9383ed7-215a-4868-bbc4-5d3cdd64c6b7#ref=rss)
-### impfungen
+* [https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul](https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul-a-4dc39316-f57f-4061-8ad6-8316499d6ab9#ref=rss)
+### theresa
 
-* [https://www.spiegel.de/panorama/gesellschaft/corona-mehr-als-350-000-impfungen-nicht-gemeldet](https://www.spiegel.de/panorama/gesellschaft/corona-mehr-als-350-000-impfungen-nicht-gemeldet-a-b9383ed7-215a-4868-bbc4-5d3cdd64c6b7#ref=rss)
-### ekdratsvorsitzende
+* [https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul](https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul-a-4dc39316-f57f-4061-8ad6-8316499d6ab9#ref=rss)
+### breuer
 
-* [https://www.spiegel.de/ausland/seenotrettung-ekd-ratsvorsitzende-bedford-strohm-fordert-freilassung-sea-watch-4](https://www.spiegel.de/ausland/seenotrettung-ekd-ratsvorsitzende-bedford-strohm-fordert-freilassung-sea-watch-4-a-9a532c06-03b9-4fb0-a345-50441ab33daf#ref=rss)
-### bedfordstrohm
+* [https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul](https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul-a-4dc39316-f57f-4061-8ad6-8316499d6ab9#ref=rss)
+### interview
 
-* [https://www.spiegel.de/ausland/seenotrettung-ekd-ratsvorsitzende-bedford-strohm-fordert-freilassung-sea-watch-4](https://www.spiegel.de/ausland/seenotrettung-ekd-ratsvorsitzende-bedford-strohm-fordert-freilassung-sea-watch-4-a-9a532c06-03b9-4fb0-a345-50441ab33daf#ref=rss)
-### fordert
+* [https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul](https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul-a-4dc39316-f57f-4061-8ad6-8316499d6ab9#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-die-taliban-wollen-nicht-wie-handlanger-pakistans-aussehen](https://www.spiegel.de/ausland/afghanistan-die-taliban-wollen-nicht-wie-handlanger-pakistans-aussehen-a-29fdf532-22de-4788-9619-c2dd68952831#ref=rss)
+### private
 
-* [https://www.spiegel.de/ausland/seenotrettung-ekd-ratsvorsitzende-bedford-strohm-fordert-freilassung-sea-watch-4](https://www.spiegel.de/ausland/seenotrettung-ekd-ratsvorsitzende-bedford-strohm-fordert-freilassung-sea-watch-4-a-9a532c06-03b9-4fb0-a345-50441ab33daf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ganztagsschule-annalena-baerbock-dringt-auf-einigung-im-streit-ueber-ganztagsanspruch](https://www.spiegel.de/politik/deutschland/ganztagsschule-annalena-baerbock-dringt-auf-einigung-im-streit-ueber-ganztagsanspruch-a-28558a82-c694-47e4-b588-2e4b6bb81d32#ref=rss)
-### bauen
+* [https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul](https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul-a-4dc39316-f57f-4061-8ad6-8316499d6ab9#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/gropyus-wie-tech-pioniere-das-bauen-digitaler-und-nachhaltiger-machen-wollen](https://www.spiegel.de/wirtschaft/unternehmen/gropyus-wie-tech-pioniere-das-bauen-digitaler-und-nachhaltiger-machen-wollen-a-6c3a459a-fff5-4c61-bc91-57326faed80d#ref=rss)
-### nachhaltiger
+* [https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul](https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul-a-4dc39316-f57f-4061-8ad6-8316499d6ab9#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-die-taliban-wollen-nicht-wie-handlanger-pakistans-aussehen](https://www.spiegel.de/ausland/afghanistan-die-taliban-wollen-nicht-wie-handlanger-pakistans-aussehen-a-29fdf532-22de-4788-9619-c2dd68952831#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/gropyus-wie-tech-pioniere-das-bauen-digitaler-und-nachhaltiger-machen-wollen](https://www.spiegel.de/wirtschaft/unternehmen/gropyus-wie-tech-pioniere-das-bauen-digitaler-und-nachhaltiger-machen-wollen-a-6c3a459a-fff5-4c61-bc91-57326faed80d#ref=rss)
-### einigung
+* [https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul](https://www.spiegel.de/ausland/luftbruecke-kabul-mit-initiatorin-theresa-breuer-im-interview-ueber-die-private-rettungsaktion-aus-kabul-a-4dc39316-f57f-4061-8ad6-8316499d6ab9#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida](https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida-a-de12a4b5-150c-4e41-9344-1d63163853f0#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/politik/deutschland/ganztagsschule-annalena-baerbock-dringt-auf-einigung-im-streit-ueber-ganztagsanspruch](https://www.spiegel.de/politik/deutschland/ganztagsschule-annalena-baerbock-dringt-auf-einigung-im-streit-ueber-ganztagsanspruch-a-28558a82-c694-47e4-b588-2e4b6bb81d32#ref=rss)
-### bundeswehr
+* [https://www.spiegel.de/panorama/justiz/rosenheim-polizei-entdeckt-elf-migranten-in-gueterzug](https://www.spiegel.de/panorama/justiz/rosenheim-polizei-entdeckt-elf-migranten-in-gueterzug-a-b8531232-979d-4a80-90c3-a4f9d34c804e#ref=rss)
+* [https://www.spiegel.de/panorama/rohrbach-ilm-was-inzwischen-bekannt-ist-und-was-ein-raetsel-bleibt](https://www.spiegel.de/panorama/rohrbach-ilm-was-inzwischen-bekannt-ist-und-was-ein-raetsel-bleibt-a-8e0315e6-ad12-40f7-aa1e-d1ae1d2d1e4d#ref=rss)
+### entdeckt
 
-* [https://www.spiegel.de/gesundheit/afghanistan-einsatz-der-bundeswehr-als-der-soldat-in-depressionen-fiel-sagte-der-armee-arzt-simulant](https://www.spiegel.de/gesundheit/afghanistan-einsatz-der-bundeswehr-als-der-soldat-in-depressionen-fiel-sagte-der-armee-arzt-simulant-a-534ab9a7-23be-4d0d-b67a-f6a8be20fd6d#ref=rss)
-### soldat
+* [https://www.spiegel.de/panorama/justiz/rosenheim-polizei-entdeckt-elf-migranten-in-gueterzug](https://www.spiegel.de/panorama/justiz/rosenheim-polizei-entdeckt-elf-migranten-in-gueterzug-a-b8531232-979d-4a80-90c3-a4f9d34c804e#ref=rss)
+* [https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt](https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt-a-a327b79a-43aa-428c-9a28-562175408931#ref=rss)
+### elf
 
-* [https://www.spiegel.de/gesundheit/afghanistan-einsatz-der-bundeswehr-als-der-soldat-in-depressionen-fiel-sagte-der-armee-arzt-simulant](https://www.spiegel.de/gesundheit/afghanistan-einsatz-der-bundeswehr-als-der-soldat-in-depressionen-fiel-sagte-der-armee-arzt-simulant-a-534ab9a7-23be-4d0d-b67a-f6a8be20fd6d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rosenheim-polizei-entdeckt-elf-migranten-in-gueterzug](https://www.spiegel.de/panorama/justiz/rosenheim-polizei-entdeckt-elf-migranten-in-gueterzug-a-b8531232-979d-4a80-90c3-a4f9d34c804e#ref=rss)
+### güterzug
+
+* [https://www.spiegel.de/panorama/justiz/rosenheim-polizei-entdeckt-elf-migranten-in-gueterzug](https://www.spiegel.de/panorama/justiz/rosenheim-polizei-entdeckt-elf-migranten-in-gueterzug-a-b8531232-979d-4a80-90c3-a4f9d34c804e#ref=rss)
+### ließ
+
+* [https://www.spiegel.de/panorama/justiz/rosenheim-polizei-entdeckt-elf-migranten-in-gueterzug](https://www.spiegel.de/panorama/justiz/rosenheim-polizei-entdeckt-elf-migranten-in-gueterzug-a-b8531232-979d-4a80-90c3-a4f9d34c804e#ref=rss)
+* [https://www.spiegel.de/kultur/aktionskunst-nackte-fussballmannschaft-holt-in-duisburg-unentschieden](https://www.spiegel.de/kultur/aktionskunst-nackte-fussballmannschaft-holt-in-duisburg-unentschieden-a-94072886-b215-46f2-abb1-e7d0e0eea4b2#ref=rss)
+### formel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-heimsieg-beim-grossen-preis-der-niederlande-der-koenig-von-zandvoort](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-heimsieg-beim-grossen-preis-der-niederlande-der-koenig-von-zandvoort-a-68239c19-dac5-4ce1-acfc-0e984e9f4c0e#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck](https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck-a-b1b1b51c-5420-44e9-92b8-a0591b829e7b#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-heimsieg-beim-grossen-preis-der-niederlande-der-koenig-von-zandvoort](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-heimsieg-beim-grossen-preis-der-niederlande-der-koenig-von-zandvoort-a-68239c19-dac5-4ce1-acfc-0e984e9f4c0e#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck](https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck-a-b1b1b51c-5420-44e9-92b8-a0591b829e7b#ref=rss)
+### heimsieg
+
+* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-heimsieg-beim-grossen-preis-der-niederlande-der-koenig-von-zandvoort](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-mit-heimsieg-beim-grossen-preis-der-niederlande-der-koenig-von-zandvoort-a-68239c19-dac5-4ce1-acfc-0e984e9f4c0e#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck](https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck-a-b1b1b51c-5420-44e9-92b8-a0591b829e7b#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-kann-mit-ueber-einer-milliarde-euro-foerderung-rechnen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-kann-mit-ueber-einer-milliarde-euro-foerderung-rechnen-a-d44a0ea5-c205-4cdf-910a-bd60d5f2e3b9#ref=rss)
+### milliarde
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-kann-mit-ueber-einer-milliarde-euro-foerderung-rechnen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-kann-mit-ueber-einer-milliarde-euro-foerderung-rechnen-a-d44a0ea5-c205-4cdf-910a-bd60d5f2e3b9#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-kann-mit-ueber-einer-milliarde-euro-foerderung-rechnen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-kann-mit-ueber-einer-milliarde-euro-foerderung-rechnen-a-d44a0ea5-c205-4cdf-910a-bd60d5f2e3b9#ref=rss)
+### allem
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-kann-mit-ueber-einer-milliarde-euro-foerderung-rechnen](https://www.spiegel.de/wirtschaft/unternehmen/tesla-kann-mit-ueber-einer-milliarde-euro-foerderung-rechnen-a-d44a0ea5-c205-4cdf-910a-bd60d5f2e3b9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wo-sind-nur-die-u-40-themen](https://www.spiegel.de/politik/deutschland/bundestagswahl-wo-sind-nur-die-u-40-themen-a-38f87ab4-69bb-4250-903f-c1b9ef317c3f#ref=rss)
+### humor
+
+* [https://www.spiegel.de/familie/humor-warum-lachen-wirklich-gesund-ist-dein-spiegel-podcast](https://www.spiegel.de/familie/humor-warum-lachen-wirklich-gesund-ist-dein-spiegel-podcast-a-79826cf5-8ff9-4a16-932a-0a4a25f47ab3#ref=rss)
+### lachen
+
+* [https://www.spiegel.de/familie/humor-warum-lachen-wirklich-gesund-ist-dein-spiegel-podcast](https://www.spiegel.de/familie/humor-warum-lachen-wirklich-gesund-ist-dein-spiegel-podcast-a-79826cf5-8ff9-4a16-932a-0a4a25f47ab3#ref=rss)
+### erwachsene
+
+* [https://www.spiegel.de/familie/humor-warum-lachen-wirklich-gesund-ist-dein-spiegel-podcast](https://www.spiegel.de/familie/humor-warum-lachen-wirklich-gesund-ist-dein-spiegel-podcast-a-79826cf5-8ff9-4a16-932a-0a4a25f47ab3#ref=rss)
+* [https://www.spiegel.de/kultur/versteh-einer-die-jugend](https://www.spiegel.de/kultur/versteh-einer-die-jugend-a-14542e1f-b392-410f-b13d-33cfe134f5bd#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/lidl-boss-menschenrechtsklage-wegen-zwangsarbeitsvorwurf-in-china](https://www.spiegel.de/wirtschaft/lidl-boss-menschenrechtsklage-wegen-zwangsarbeitsvorwurf-in-china-a-efee88bb-cc03-42d5-8451-725b1c128547#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/wirtschaft/lidl-boss-menschenrechtsklage-wegen-zwangsarbeitsvorwurf-in-china](https://www.spiegel.de/wirtschaft/lidl-boss-menschenrechtsklage-wegen-zwangsarbeitsvorwurf-in-china-a-efee88bb-cc03-42d5-8451-725b1c128547#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/angriff-in-berlin-haftbefehl-gegen-mutmasslichen-messerstecher-erlassen](https://www.spiegel.de/panorama/justiz/angriff-in-berlin-haftbefehl-gegen-mutmasslichen-messerstecher-erlassen-a-51f563a7-4e36-4ce0-afe7-39ceaa50d924#ref=rss)
+### wo
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wo-sind-nur-die-u-40-themen](https://www.spiegel.de/politik/deutschland/bundestagswahl-wo-sind-nur-die-u-40-themen-a-38f87ab4-69bb-4250-903f-c1b9ef317c3f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/volksentscheid-zu-enteignungen-berlins-fatale-hausbesetzer-folklore-kolumne](https://www.spiegel.de/politik/deutschland/volksentscheid-zu-enteignungen-berlins-fatale-hausbesetzer-folklore-kolumne-a-1be9fe1b-23bc-43c3-82d9-b7054ff280d8#ref=rss)
+### einfluss
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wo-sind-nur-die-u-40-themen](https://www.spiegel.de/politik/deutschland/bundestagswahl-wo-sind-nur-die-u-40-themen-a-38f87ab4-69bb-4250-903f-c1b9ef317c3f#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-die-taliban-wollen-nicht-wie-handlanger-pakistans-aussehen](https://www.spiegel.de/ausland/afghanistan-die-taliban-wollen-nicht-wie-handlanger-pakistans-aussehen-a-29fdf532-22de-4788-9619-c2dd68952831#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen-a-b79b698f-6b77-418b-acc4-95a395e49604#ref=rss)
+### 20
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen-a-b79b698f-6b77-418b-acc4-95a395e49604#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten-a-3d04e4f5-65cd-44bd-8b0e-40f7efd85fb5#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-anzahl-der-frauen-im-bundestag-wird-voraussichtlich-steigen-a-b79b698f-6b77-418b-acc4-95a395e49604#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten-a-3d04e4f5-65cd-44bd-8b0e-40f7efd85fb5#ref=rss)
+### fußballmannschaft
+
+* [https://www.spiegel.de/kultur/aktionskunst-nackte-fussballmannschaft-holt-in-duisburg-unentschieden](https://www.spiegel.de/kultur/aktionskunst-nackte-fussballmannschaft-holt-in-duisburg-unentschieden-a-94072886-b215-46f2-abb1-e7d0e0eea4b2#ref=rss)
+### duisburg
+
+* [https://www.spiegel.de/kultur/aktionskunst-nackte-fussballmannschaft-holt-in-duisburg-unentschieden](https://www.spiegel.de/kultur/aktionskunst-nackte-fussballmannschaft-holt-in-duisburg-unentschieden-a-94072886-b215-46f2-abb1-e7d0e0eea4b2#ref=rss)
+### spiel
+
+* [https://www.spiegel.de/kultur/aktionskunst-nackte-fussballmannschaft-holt-in-duisburg-unentschieden](https://www.spiegel.de/kultur/aktionskunst-nackte-fussballmannschaft-holt-in-duisburg-unentschieden-a-94072886-b215-46f2-abb1-e7d0e0eea4b2#ref=rss)
+* [https://www.spiegel.de/panorama/rohrbach-ilm-was-inzwischen-bekannt-ist-und-was-ein-raetsel-bleibt](https://www.spiegel.de/panorama/rohrbach-ilm-was-inzwischen-bekannt-ist-und-was-ein-raetsel-bleibt-a-8e0315e6-ad12-40f7-aa1e-d1ae1d2d1e4d#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/justiz/angriff-in-berlin-haftbefehl-gegen-mutmasslichen-messerstecher-erlassen](https://www.spiegel.de/panorama/justiz/angriff-in-berlin-haftbefehl-gegen-mutmasslichen-messerstecher-erlassen-a-51f563a7-4e36-4ce0-afe7-39ceaa50d924#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/volksentscheid-zu-enteignungen-berlins-fatale-hausbesetzer-folklore-kolumne](https://www.spiegel.de/politik/deutschland/volksentscheid-zu-enteignungen-berlins-fatale-hausbesetzer-folklore-kolumne-a-1be9fe1b-23bc-43c3-82d9-b7054ff280d8#ref=rss)
+### messerstecher
+
+* [https://www.spiegel.de/panorama/justiz/angriff-in-berlin-haftbefehl-gegen-mutmasslichen-messerstecher-erlassen](https://www.spiegel.de/panorama/justiz/angriff-in-berlin-haftbefehl-gegen-mutmasslichen-messerstecher-erlassen-a-51f563a7-4e36-4ce0-afe7-39ceaa50d924#ref=rss)
+* [https://www.spiegel.de/kultur/tv/polizeiruf-heute-aus-muenchen-bis-mitternacht-im-schnellcheck](https://www.spiegel.de/kultur/tv/polizeiruf-heute-aus-muenchen-bis-mitternacht-im-schnellcheck-a-83dfad7b-f4a0-41a3-8598-2693ebd4a9d1#ref=rss)
+### erlassen
+
+* [https://www.spiegel.de/panorama/justiz/angriff-in-berlin-haftbefehl-gegen-mutmasslichen-messerstecher-erlassen](https://www.spiegel.de/panorama/justiz/angriff-in-berlin-haftbefehl-gegen-mutmasslichen-messerstecher-erlassen-a-51f563a7-4e36-4ce0-afe7-39ceaa50d924#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/taliban-erlassen-nikab-pflicht-fuer-frauen-an-hochschulen](https://www.spiegel.de/panorama/bildung/taliban-erlassen-nikab-pflicht-fuer-frauen-an-hochschulen-a-dd44b769-af8b-4445-a700-2b1926bc84c2#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/angriff-in-berlin-haftbefehl-gegen-mutmasslichen-messerstecher-erlassen](https://www.spiegel.de/panorama/justiz/angriff-in-berlin-haftbefehl-gegen-mutmasslichen-messerstecher-erlassen-a-51f563a7-4e36-4ce0-afe7-39ceaa50d924#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck](https://www.spiegel.de/sport/formel1/formel-1-verstappen-faehrt-in-zandvoort-zum-heimsieg-und-erobert-die-wm-fuehrung-zurueck-a-b1b1b51c-5420-44e9-92b8-a0591b829e7b#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/ausland/afghanistan-die-taliban-wollen-nicht-wie-handlanger-pakistans-aussehen](https://www.spiegel.de/ausland/afghanistan-die-taliban-wollen-nicht-wie-handlanger-pakistans-aussehen-a-29fdf532-22de-4788-9619-c2dd68952831#ref=rss)
+* [https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals](https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals-a-1bc6965e-23e4-4004-925d-b96b51a12107#ref=rss)
+### forscher
+
+* [https://www.spiegel.de/kultur/versteh-einer-die-jugend](https://www.spiegel.de/kultur/versteh-einer-die-jugend-a-14542e1f-b392-410f-b13d-33cfe134f5bd#ref=rss)
+* [https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt](https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt-a-a327b79a-43aa-428c-9a28-562175408931#ref=rss)
+### kulturrat
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten-a-3d04e4f5-65cd-44bd-8b0e-40f7efd85fb5#ref=rss)
+### fast
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-kulturrat-beklagt-kulturlosen-wahl-o-maten-a-3d04e4f5-65cd-44bd-8b0e-40f7efd85fb5#ref=rss)
+* [https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt](https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt-a-a327b79a-43aa-428c-9a28-562175408931#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt](https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt-a-a327b79a-43aa-428c-9a28-562175408931#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-angreifer-jamal-musiala-der-flick-spieler](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-angreifer-jamal-musiala-der-flick-spieler-a-929ca89c-57ac-401b-b12e-d4a6291e172d#ref=rss)
+### traumfund
+
+* [https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt](https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt-a-a327b79a-43aa-428c-9a28-562175408931#ref=rss)
+### münzen
+
+* [https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt](https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt-a-a327b79a-43aa-428c-9a28-562175408931#ref=rss)
+* [https://www.spiegel.de/karriere/piraten-streiten-um-120-goldmuenzen-raetsel-der-woche](https://www.spiegel.de/karriere/piraten-streiten-um-120-goldmuenzen-raetsel-der-woche-a-19ade1c1-c5ad-45d0-a7f4-5fab8be9bcf1#ref=rss)
+### nähe
+
+* [https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt](https://www.spiegel.de/geschichte/goldschatz-in-daenemark-1500-jahre-alter-traumfund-entdeckt-a-a327b79a-43aa-428c-9a28-562175408931#ref=rss)
+* [https://www.spiegel.de/kultur/tv/polizeiruf-heute-aus-muenchen-bis-mitternacht-im-schnellcheck](https://www.spiegel.de/kultur/tv/polizeiruf-heute-aus-muenchen-bis-mitternacht-im-schnellcheck-a-83dfad7b-f4a0-41a3-8598-2693ebd4a9d1#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/panorama/rohrbach-ilm-was-inzwischen-bekannt-ist-und-was-ein-raetsel-bleibt](https://www.spiegel.de/panorama/rohrbach-ilm-was-inzwischen-bekannt-ist-und-was-ein-raetsel-bleibt-a-8e0315e6-ad12-40f7-aa1e-d1ae1d2d1e4d#ref=rss)
+### perseverance
+
+* [https://www.spiegel.de/wissenschaft/mars-rover-perseverance-entnimmt-erfolgreich-gesteinsprobe](https://www.spiegel.de/wissenschaft/mars-rover-perseverance-entnimmt-erfolgreich-gesteinsprobe-a-3cfe3b11-e809-4673-b3fa-6ec5a5d0114b#ref=rss)
+### kopfschmerzen
+
+* [https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals](https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals-a-1bc6965e-23e4-4004-925d-b96b51a12107#ref=rss)
+### charly
+
+* [https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals](https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals-a-1bc6965e-23e4-4004-925d-b96b51a12107#ref=rss)
+### gaul
+
+* [https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals](https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals-a-1bc6965e-23e4-4004-925d-b96b51a12107#ref=rss)
+### weltkopfschmerztag
+
+* [https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals](https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals-a-1bc6965e-23e4-4004-925d-b96b51a12107#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals](https://www.spiegel.de/gesundheit/kopfschmerzen-charly-gaul-zum-weltkopfschmerztag-das-gehirn-selbst-schmerzt-niemals-a-1bc6965e-23e4-4004-925d-b96b51a12107#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-pandemie-deutschland-will-100-millionen-impfdosen-bereitstellen](https://www.spiegel.de/wissenschaft/medizin/corona-pandemie-deutschland-will-100-millionen-impfdosen-bereitstellen-a-3a640921-b70f-4c68-b743-acccd4650dd5#ref=rss)
+### hochschulen
+
+* [https://www.spiegel.de/panorama/bildung/taliban-erlassen-nikab-pflicht-fuer-frauen-an-hochschulen](https://www.spiegel.de/panorama/bildung/taliban-erlassen-nikab-pflicht-fuer-frauen-an-hochschulen-a-dd44b769-af8b-4445-a700-2b1926bc84c2#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/bildung/taliban-erlassen-nikab-pflicht-fuer-frauen-an-hochschulen](https://www.spiegel.de/panorama/bildung/taliban-erlassen-nikab-pflicht-fuer-frauen-an-hochschulen-a-dd44b769-af8b-4445-a700-2b1926bc84c2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/boeing-jet-787-dreamliner-lieferverzoegerung-bis-mindestens-oktober](https://www.spiegel.de/wirtschaft/boeing-jet-787-dreamliner-lieferverzoegerung-bis-mindestens-oktober-a-f45779d4-4c72-46b6-bee8-a9f52ba99eb2#ref=rss)
+### jamal
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-angreifer-jamal-musiala-der-flick-spieler](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-angreifer-jamal-musiala-der-flick-spieler-a-929ca89c-57ac-401b-b12e-d4a6291e172d#ref=rss)
+### musiala
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-angreifer-jamal-musiala-der-flick-spieler](https://www.spiegel.de/sport/fussball/fussball-wm-qualifikation-dfb-angreifer-jamal-musiala-der-flick-spieler-a-929ca89c-57ac-401b-b12e-d4a6291e172d#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/ausland/afghanistan-taliban-fordern-von-deutschland-anerkennung-und-finanzielle-hilfen](https://www.spiegel.de/ausland/afghanistan-taliban-fordern-von-deutschland-anerkennung-und-finanzielle-hilfen-a-336b7653-b939-41da-adde-43e47fb8779f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19-a-e8091657-e7ff-4a7a-bdff-4935c9a642b9#ref=rss)
-### hilfen
+* [https://www.spiegel.de/wissenschaft/medizin/corona-pandemie-deutschland-will-100-millionen-impfdosen-bereitstellen](https://www.spiegel.de/wissenschaft/medizin/corona-pandemie-deutschland-will-100-millionen-impfdosen-bereitstellen-a-3a640921-b70f-4c68-b743-acccd4650dd5#ref=rss)
+### joe
 
-* [https://www.spiegel.de/ausland/afghanistan-taliban-fordern-von-deutschland-anerkennung-und-finanzielle-hilfen](https://www.spiegel.de/ausland/afghanistan-taliban-fordern-von-deutschland-anerkennung-und-finanzielle-hilfen-a-336b7653-b939-41da-adde-43e47fb8779f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-die-wichtigsten-entwicklungen-zu-sars-cov-19-und-covid-19-a-e8091657-e7ff-4a7a-bdff-4935c9a642b9#ref=rss)
-### ashleigh
-
-* [https://www.spiegel.de/sport/tennis/us-open-auch-tennis-weltranglistenerste-ashleigh-barty-scheitert](https://www.spiegel.de/sport/tennis/us-open-auch-tennis-weltranglistenerste-ashleigh-barty-scheitert-a-eb6b9007-ca17-4ad0-a59c-0d4b6bcd4dcc#ref=rss)
-### barty
-
-* [https://www.spiegel.de/sport/tennis/us-open-auch-tennis-weltranglistenerste-ashleigh-barty-scheitert](https://www.spiegel.de/sport/tennis/us-open-auch-tennis-weltranglistenerste-ashleigh-barty-scheitert-a-eb6b9007-ca17-4ad0-a59c-0d4b6bcd4dcc#ref=rss)
-### jill
-
-* [https://www.spiegel.de/panorama/leute/jill-biden-us-first-lady-unterrichtet-wieder](https://www.spiegel.de/panorama/leute/jill-biden-us-first-lady-unterrichtet-wieder-a-66c555e7-2ca9-4713-a112-9fe92360fe5d#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida](https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida-a-de12a4b5-150c-4e41-9344-1d63163853f0#ref=rss)
 ### biden
 
-* [https://www.spiegel.de/panorama/leute/jill-biden-us-first-lady-unterrichtet-wieder](https://www.spiegel.de/panorama/leute/jill-biden-us-first-lady-unterrichtet-wieder-a-66c555e7-2ca9-4713-a112-9fe92360fe5d#ref=rss)
-### lady
+* [https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida](https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida-a-de12a4b5-150c-4e41-9344-1d63163853f0#ref=rss)
+### hurrikan
 
-* [https://www.spiegel.de/panorama/leute/jill-biden-us-first-lady-unterrichtet-wieder](https://www.spiegel.de/panorama/leute/jill-biden-us-first-lady-unterrichtet-wieder-a-66c555e7-2ca9-4713-a112-9fe92360fe5d#ref=rss)
-### communitycollege
+* [https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida](https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida-a-de12a4b5-150c-4e41-9344-1d63163853f0#ref=rss)
+### ida
 
-* [https://www.spiegel.de/panorama/leute/jill-biden-us-first-lady-unterrichtet-wieder](https://www.spiegel.de/panorama/leute/jill-biden-us-first-lady-unterrichtet-wieder-a-66c555e7-2ca9-4713-a112-9fe92360fe5d#ref=rss)
-### ebrahim
+* [https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida](https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida-a-de12a4b5-150c-4e41-9344-1d63163853f0#ref=rss)
+### woche
 
-* [https://www.spiegel.de/ausland/ebrahim-raisi-iran-bereit-fuer-atomgespraeche-ohne-westlichen-druck](https://www.spiegel.de/ausland/ebrahim-raisi-iran-bereit-fuer-atomgespraeche-ohne-westlichen-druck-a-1cdd88bc-61a6-4b1b-a4ed-402662d4c5f0#ref=rss)
-### raisi
+* [https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida](https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida-a-de12a4b5-150c-4e41-9344-1d63163853f0#ref=rss)
+* [https://www.spiegel.de/karriere/piraten-streiten-um-120-goldmuenzen-raetsel-der-woche](https://www.spiegel.de/karriere/piraten-streiten-um-120-goldmuenzen-raetsel-der-woche-a-19ade1c1-c5ad-45d0-a7f4-5fab8be9bcf1#ref=rss)
+### new
 
-* [https://www.spiegel.de/ausland/ebrahim-raisi-iran-bereit-fuer-atomgespraeche-ohne-westlichen-druck](https://www.spiegel.de/ausland/ebrahim-raisi-iran-bereit-fuer-atomgespraeche-ohne-westlichen-druck-a-1cdd88bc-61a6-4b1b-a4ed-402662d4c5f0#ref=rss)
-### iran
+* [https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida](https://www.spiegel.de/ausland/usa-joe-biden-besucht-katastrophengebiet-nach-hurrikan-ida-a-de12a4b5-150c-4e41-9344-1d63163853f0#ref=rss)
+### straßen
 
-* [https://www.spiegel.de/ausland/ebrahim-raisi-iran-bereit-fuer-atomgespraeche-ohne-westlichen-druck](https://www.spiegel.de/ausland/ebrahim-raisi-iran-bereit-fuer-atomgespraeche-ohne-westlichen-druck-a-1cdd88bc-61a6-4b1b-a4ed-402662d4c5f0#ref=rss)
-### montenegro
+* [https://www.spiegel.de/ausland/schuesse-und-militaer-auf-den-strassen-mutmasslicher-putschversuch-in-guinea](https://www.spiegel.de/ausland/schuesse-und-militaer-auf-den-strassen-mutmasslicher-putschversuch-in-guinea-a-1c3aa919-3968-4971-94dc-da0bfc7dd4b5#ref=rss)
+### guinea
 
-* [https://www.spiegel.de/ausland/cetinje-proteste-vor-amtseinfuehrung-des-oberhaupts-der-serbisch-orthodoxen-kirche-in-montenegro](https://www.spiegel.de/ausland/cetinje-proteste-vor-amtseinfuehrung-des-oberhaupts-der-serbisch-orthodoxen-kirche-in-montenegro-a-420b4dd7-5ad9-4693-88be-0eb834e53b97#ref=rss)
+* [https://www.spiegel.de/ausland/schuesse-und-militaer-auf-den-strassen-mutmasslicher-putschversuch-in-guinea](https://www.spiegel.de/ausland/schuesse-und-militaer-auf-den-strassen-mutmasslicher-putschversuch-in-guinea-a-1c3aa919-3968-4971-94dc-da0bfc7dd4b5#ref=rss)
+### iaa
+
+* [https://www.spiegel.de/auto/iaa-mobility-2021-suv-und-nochmal-suv-fuer-staedte-wird-das-zum-problem](https://www.spiegel.de/auto/iaa-mobility-2021-suv-und-nochmal-suv-fuer-staedte-wird-das-zum-problem-a-bc8a39ae-4481-4257-8d5a-e9b43a90d35e#ref=rss)
+### piraten
+
+* [https://www.spiegel.de/karriere/piraten-streiten-um-120-goldmuenzen-raetsel-der-woche](https://www.spiegel.de/karriere/piraten-streiten-um-120-goldmuenzen-raetsel-der-woche-a-19ade1c1-c5ad-45d0-a7f4-5fab8be9bcf1#ref=rss)
+### 120
+
+* [https://www.spiegel.de/karriere/piraten-streiten-um-120-goldmuenzen-raetsel-der-woche](https://www.spiegel.de/karriere/piraten-streiten-um-120-goldmuenzen-raetsel-der-woche-a-19ade1c1-c5ad-45d0-a7f4-5fab8be9bcf1#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/angela-merkel-und-armin-laschet-besuchen-hochwassergebiet](https://www.spiegel.de/politik/angela-merkel-und-armin-laschet-besuchen-hochwassergebiet-a-eb310e3f-22e5-42af-876a-86fc1f8c590e#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/politik/angela-merkel-und-armin-laschet-besuchen-hochwassergebiet](https://www.spiegel.de/politik/angela-merkel-und-armin-laschet-besuchen-hochwassergebiet-a-eb310e3f-22e5-42af-876a-86fc1f8c590e#ref=rss)
+### armin
+
+* [https://www.spiegel.de/politik/angela-merkel-und-armin-laschet-besuchen-hochwassergebiet](https://www.spiegel.de/politik/angela-merkel-und-armin-laschet-besuchen-hochwassergebiet-a-eb310e3f-22e5-42af-876a-86fc1f8c590e#ref=rss)
+### laschet
+
+* [https://www.spiegel.de/politik/angela-merkel-und-armin-laschet-besuchen-hochwassergebiet](https://www.spiegel.de/politik/angela-merkel-und-armin-laschet-besuchen-hochwassergebiet-a-eb310e3f-22e5-42af-876a-86fc1f8c590e#ref=rss)
+### besuchen
+
+* [https://www.spiegel.de/politik/angela-merkel-und-armin-laschet-besuchen-hochwassergebiet](https://www.spiegel.de/politik/angela-merkel-und-armin-laschet-besuchen-hochwassergebiet-a-eb310e3f-22e5-42af-876a-86fc1f8c590e#ref=rss)
 
