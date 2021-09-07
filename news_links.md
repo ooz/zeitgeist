@@ -4,304 +4,328 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### russland
 
-* [https://www.spiegel.de/wirtschaft/service/transparenz-fuer-verbraucher-umweltverbaende-fordern-eu-weites-tierwohl-label](https://www.spiegel.de/wirtschaft/service/transparenz-fuer-verbraucher-umweltverbaende-fordern-eu-weites-tierwohl-label-a-65f3dc9e-dd25-472e-a545-963901366bc4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ramstein-von-den-usa-evakuierte-afghanen-beantragen-asyl-in-deutschland](https://www.spiegel.de/politik/deutschland/ramstein-von-den-usa-evakuierte-afghanen-beantragen-asyl-in-deutschland-a-0b227000-3d8b-4b36-a1b3-806d8f4c41c6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/flut-katastrophe-milliardenhilfe-fuer-opfer-einfach-genauso-wieder-aufbauen-ist-fahrlaessig](https://www.spiegel.de/wissenschaft/flut-katastrophe-milliardenhilfe-fuer-opfer-einfach-genauso-wieder-aufbauen-ist-fahrlaessig-a-9a30fef8-dd48-4b15-b8da-358197e38fb6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt](https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt-a-6341fd0f-4809-42fb-a3a0-37786a4b3c5f#ref=rss)
-### mehr
+* [https://www.spiegel.de/ausland/russland-sankt-petersburger-oppositionspolitiker-beklagt-doppelgaenger-auf-wahlliste](https://www.spiegel.de/ausland/russland-sankt-petersburger-oppositionspolitiker-beklagt-doppelgaenger-auf-wahlliste-a-2faf9059-b290-494c-beef-ed457ccc9a50#ref=rss)
+* [https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade](https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade-a-48f1a154-9ccb-4782-86fd-ea29a53aae43#ref=rss)
+* [https://www.spiegel.de/ausland/russland-beteiligt-sich-nach-machtuebernahme-der-taliban-an-manoever-in-zentralasien](https://www.spiegel.de/ausland/russland-beteiligt-sich-nach-machtuebernahme-der-taliban-an-manoever-in-zentralasien-a-cfedb004-16c8-4af6-849f-c96b33b318c2#ref=rss)
+### kuba
 
-* [https://www.spiegel.de/ausland/antony-blinken-taliban-bekraeftigen-ihre-ausreise-zusage](https://www.spiegel.de/ausland/antony-blinken-taliban-bekraeftigen-ihre-ausreise-zusage-a-87f0401d-4a7c-4e85-a244-4c933c058ac5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-menschen-arbeiten-wieder-mehr-vorkrisenniveau-noch-nicht-erreicht](https://www.spiegel.de/wirtschaft/arbeitsmarkt-menschen-arbeiten-wieder-mehr-vorkrisenniveau-noch-nicht-erreicht-a-7a2cc24a-02b1-4aaf-bee7-6745ea1e8307#ref=rss)
-* [https://www.spiegel.de/wissenschaft/flut-katastrophe-milliardenhilfe-fuer-opfer-einfach-genauso-wieder-aufbauen-ist-fahrlaessig](https://www.spiegel.de/wissenschaft/flut-katastrophe-milliardenhilfe-fuer-opfer-einfach-genauso-wieder-aufbauen-ist-fahrlaessig-a-9a30fef8-dd48-4b15-b8da-358197e38fb6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/telekom-rueckzug-aus-den-niederlanden-mehr-einfluss-bei-t-mobile-us](https://www.spiegel.de/wirtschaft/unternehmen/telekom-rueckzug-aus-den-niederlanden-mehr-einfluss-bei-t-mobile-us-a-ba57e31c-d649-42d5-ada3-9f58d1a495c4#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern](https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern-a-77760857-6a60-43b7-80cb-f9c5f6e03bd9#ref=rss)
-### deutsche
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-unterstuetzt-armin-laschet-ahrtal-kuba-impft-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-unterstuetzt-armin-laschet-ahrtal-kuba-impft-kinder-a-5ee2aa8a-c9a1-4cc6-a84b-555988a6ea8e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-kuba-beginnt-mit-covid-19-impfungen-fuer-kleinkinder](https://www.spiegel.de/wissenschaft/medizin/coronavirus-kuba-beginnt-mit-covid-19-impfungen-fuer-kleinkinder-a-d26c4cd8-1da1-4649-92c2-168c53bb73d7#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-materialengpaessen-deutsche-industrie-meldet-produktionsplus](https://www.spiegel.de/wirtschaft/unternehmen/trotz-materialengpaessen-deutsche-industrie-meldet-produktionsplus-a-02bbb889-c041-427f-9186-61a1a5167273#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/telekom-rueckzug-aus-den-niederlanden-mehr-einfluss-bei-t-mobile-us](https://www.spiegel.de/wirtschaft/unternehmen/telekom-rueckzug-aus-den-niederlanden-mehr-einfluss-bei-t-mobile-us-a-ba57e31c-d649-42d5-ada3-9f58d1a495c4#ref=rss)
-* [https://www.spiegel.de/politik/bundestag-so-laeuft-die-letzte-debatte-vor-der-wahl](https://www.spiegel.de/politik/bundestag-so-laeuft-die-letzte-debatte-vor-der-wahl-a-88cddd25-cad2-4f49-9cae-83e05d387a5f#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/potsdam-staatsanwaltschaft-erhebt-mordanklage-gegen-pflegehelferin](https://www.spiegel.de/panorama/justiz/potsdam-staatsanwaltschaft-erhebt-mordanklage-gegen-pflegehelferin-a-55e9139b-eb2c-4d05-87bf-f602a4423232#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-menschen-arbeiten-wieder-mehr-vorkrisenniveau-noch-nicht-erreicht](https://www.spiegel.de/wirtschaft/arbeitsmarkt-menschen-arbeiten-wieder-mehr-vorkrisenniveau-noch-nicht-erreicht-a-7a2cc24a-02b1-4aaf-bee7-6745ea1e8307#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/allianz-bafin-ermittelt-wegen-hedgefonds-verlusten-gegen-versicherer](https://www.spiegel.de/wirtschaft/unternehmen/allianz-bafin-ermittelt-wegen-hedgefonds-verlusten-gegen-versicherer-a-a8575f87-89aa-4d59-80b6-a6a3367f9f7e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-ermittlungen-gegen-kita-aushilfskraft-wegen-mutmasslichem-missbrauch](https://www.spiegel.de/panorama/justiz/berlin-ermittlungen-gegen-kita-aushilfskraft-wegen-mutmasslichem-missbrauch-a-8497a92d-52c9-44b3-bded-764e8026a335#ref=rss)
-### allem
-
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-menschen-arbeiten-wieder-mehr-vorkrisenniveau-noch-nicht-erreicht](https://www.spiegel.de/wirtschaft/arbeitsmarkt-menschen-arbeiten-wieder-mehr-vorkrisenniveau-noch-nicht-erreicht-a-7a2cc24a-02b1-4aaf-bee7-6745ea1e8307#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt](https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt-a-6341fd0f-4809-42fb-a3a0-37786a4b3c5f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/studie-zu-niedrigzinspolitik-aermere-haushalte-bauen-kaum-vermoegen-auf](https://www.spiegel.de/wirtschaft/studie-zu-niedrigzinspolitik-aermere-haushalte-bauen-kaum-vermoegen-auf-a-31ff3fe5-1a5b-42ec-bb46-625d6ca99f4b#ref=rss)
-### mann
-
-* [https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star](https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star-a-0d7cd9c6-9a21-42ce-a665-ccaa821b3548#ref=rss)
-* [https://www.spiegel.de/panorama/stuttgart-mann-stirbt-bei-wohnungsbrand-mehrere-verletzte](https://www.spiegel.de/panorama/stuttgart-mann-stirbt-bei-wohnungsbrand-mehrere-verletzte-a-eef4446a-a87a-42d1-9f22-89ae688bb7c8#ref=rss)
-### haushalte
-
-* [https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt](https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt-a-6341fd0f-4809-42fb-a3a0-37786a4b3c5f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/studie-zu-niedrigzinspolitik-aermere-haushalte-bauen-kaum-vermoegen-auf](https://www.spiegel.de/wirtschaft/studie-zu-niedrigzinspolitik-aermere-haushalte-bauen-kaum-vermoegen-auf-a-31ff3fe5-1a5b-42ec-bb46-625d6ca99f4b#ref=rss)
-### einfluss
-
-* [https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt](https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt-a-6341fd0f-4809-42fb-a3a0-37786a4b3c5f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/telekom-rueckzug-aus-den-niederlanden-mehr-einfluss-bei-t-mobile-us](https://www.spiegel.de/wirtschaft/unternehmen/telekom-rueckzug-aus-den-niederlanden-mehr-einfluss-bei-t-mobile-us-a-ba57e31c-d649-42d5-ada3-9f58d1a495c4#ref=rss)
-### letzten
-
-* [https://www.spiegel.de/politik/deutschland/eine-regierung-die-die-unterstuetzung-der-linkspartei-in-kauf-nimmt](https://www.spiegel.de/politik/deutschland/eine-regierung-die-die-unterstuetzung-der-linkspartei-in-kauf-nimmt-a-423773a1-aab7-416d-84a2-e4f260cf0b81#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis](https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis-a-a116fd7e-cd44-411a-9fb8-6a9873ae1e30#ref=rss)
-* [https://www.spiegel.de/politik/bundestag-so-laeuft-die-letzte-debatte-vor-der-wahl](https://www.spiegel.de/politik/bundestag-so-laeuft-die-letzte-debatte-vor-der-wahl-a-88cddd25-cad2-4f49-9cae-83e05d387a5f#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/eine-regierung-die-die-unterstuetzung-der-linkspartei-in-kauf-nimmt](https://www.spiegel.de/politik/deutschland/eine-regierung-die-die-unterstuetzung-der-linkspartei-in-kauf-nimmt-a-423773a1-aab7-416d-84a2-e4f260cf0b81#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis](https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis-a-a116fd7e-cd44-411a-9fb8-6a9873ae1e30#ref=rss)
-* [https://www.spiegel.de/politik/bundestag-so-laeuft-die-letzte-debatte-vor-der-wahl](https://www.spiegel.de/politik/bundestag-so-laeuft-die-letzte-debatte-vor-der-wahl-a-88cddd25-cad2-4f49-9cae-83e05d387a5f#ref=rss)
-### uno
-
-* [https://www.spiegel.de/ausland/texas-uno-menschenrechtsexperten-kritisieren-herzschlag-gesetz](https://www.spiegel.de/ausland/texas-uno-menschenrechtsexperten-kritisieren-herzschlag-gesetz-a-7bddb826-9d3e-45f0-85b6-6043c83310c8#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern](https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern-a-77760857-6a60-43b7-80cb-f9c5f6e03bd9#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/bildung/das-neue-schuljahr-und-die-alten-probleme-corona-quarantaene-querlueften](https://www.spiegel.de/panorama/bildung/das-neue-schuljahr-und-die-alten-probleme-corona-quarantaene-querlueften-a-03e900e0-54ee-42df-8d27-8649daa4a081#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis](https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis-a-a116fd7e-cd44-411a-9fb8-6a9873ae1e30#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-im-news-update-warnung-vor-linksrutsch-laut-saskia-esken-angstkampagne](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-im-news-update-warnung-vor-linksrutsch-laut-saskia-esken-angstkampagne-a-0125cbf5-eaa0-4016-a8a9-ec69815e4ff4#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis](https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis-a-a116fd7e-cd44-411a-9fb8-6a9873ae1e30#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-im-news-update-warnung-vor-linksrutsch-laut-saskia-esken-angstkampagne](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-im-news-update-warnung-vor-linksrutsch-laut-saskia-esken-angstkampagne-a-0125cbf5-eaa0-4016-a8a9-ec69815e4ff4#ref=rss)
-### australische
-
-* [https://www.spiegel.de/wissenschaft/natur/australische-ente-imitiert-menschliche-sprache-und-kann-sogar-fluchen](https://www.spiegel.de/wissenschaft/natur/australische-ente-imitiert-menschliche-sprache-und-kann-sogar-fluchen-a-7e33c81c-6436-47f6-a7d7-4a5e3f07a0b2#ref=rss)
-### menschliche
-
-* [https://www.spiegel.de/wissenschaft/natur/australische-ente-imitiert-menschliche-sprache-und-kann-sogar-fluchen](https://www.spiegel.de/wissenschaft/natur/australische-ente-imitiert-menschliche-sprache-und-kann-sogar-fluchen-a-7e33c81c-6436-47f6-a7d7-4a5e3f07a0b2#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/wissenschaft/natur/australische-ente-imitiert-menschliche-sprache-und-kann-sogar-fluchen](https://www.spiegel.de/wissenschaft/natur/australische-ente-imitiert-menschliche-sprache-und-kann-sogar-fluchen-a-7e33c81c-6436-47f6-a7d7-4a5e3f07a0b2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star](https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star-a-0d7cd9c6-9a21-42ce-a665-ccaa821b3548#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wissenschaft/natur/australische-ente-imitiert-menschliche-sprache-und-kann-sogar-fluchen](https://www.spiegel.de/wissenschaft/natur/australische-ente-imitiert-menschliche-sprache-und-kann-sogar-fluchen-a-7e33c81c-6436-47f6-a7d7-4a5e3f07a0b2#ref=rss)
-* [https://www.spiegel.de/auto/iaa-proteste-aktivisten-seilen-sich-von-autobahnbruecke-ab](https://www.spiegel.de/auto/iaa-proteste-aktivisten-seilen-sich-von-autobahnbruecke-ab-a-3cdc544f-e943-4b4c-a9f7-fada64415c87#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/panorama/justiz/potsdam-staatsanwaltschaft-erhebt-mordanklage-gegen-pflegehelferin](https://www.spiegel.de/panorama/justiz/potsdam-staatsanwaltschaft-erhebt-mordanklage-gegen-pflegehelferin-a-55e9139b-eb2c-4d05-87bf-f602a4423232#ref=rss)
-### fordern
-
-* [https://www.spiegel.de/wirtschaft/service/transparenz-fuer-verbraucher-umweltverbaende-fordern-eu-weites-tierwohl-label](https://www.spiegel.de/wirtschaft/service/transparenz-fuer-verbraucher-umweltverbaende-fordern-eu-weites-tierwohl-label-a-65f3dc9e-dd25-472e-a545-963901366bc4#ref=rss)
-### allianz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/allianz-bafin-ermittelt-wegen-hedgefonds-verlusten-gegen-versicherer](https://www.spiegel.de/wirtschaft/unternehmen/allianz-bafin-ermittelt-wegen-hedgefonds-verlusten-gegen-versicherer-a-a8575f87-89aa-4d59-80b6-a6a3367f9f7e#ref=rss)
-### bafin
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/allianz-bafin-ermittelt-wegen-hedgefonds-verlusten-gegen-versicherer](https://www.spiegel.de/wirtschaft/unternehmen/allianz-bafin-ermittelt-wegen-hedgefonds-verlusten-gegen-versicherer-a-a8575f87-89aa-4d59-80b6-a6a3367f9f7e#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/allianz-bafin-ermittelt-wegen-hedgefonds-verlusten-gegen-versicherer](https://www.spiegel.de/wirtschaft/unternehmen/allianz-bafin-ermittelt-wegen-hedgefonds-verlusten-gegen-versicherer-a-a8575f87-89aa-4d59-80b6-a6a3367f9f7e#ref=rss)
-* [https://www.spiegel.de/panorama/stuttgart-mann-stirbt-bei-wohnungsbrand-mehrere-verletzte](https://www.spiegel.de/panorama/stuttgart-mann-stirbt-bei-wohnungsbrand-mehrere-verletzte-a-eef4446a-a87a-42d1-9f22-89ae688bb7c8#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/allianz-bafin-ermittelt-wegen-hedgefonds-verlusten-gegen-versicherer](https://www.spiegel.de/wirtschaft/unternehmen/allianz-bafin-ermittelt-wegen-hedgefonds-verlusten-gegen-versicherer-a-a8575f87-89aa-4d59-80b6-a6a3367f9f7e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt](https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt-a-6341fd0f-4809-42fb-a3a0-37786a4b3c5f#ref=rss)
-### blinken
-
-* [https://www.spiegel.de/ausland/antony-blinken-taliban-bekraeftigen-ihre-ausreise-zusage](https://www.spiegel.de/ausland/antony-blinken-taliban-bekraeftigen-ihre-ausreise-zusage-a-87f0401d-4a7c-4e85-a244-4c933c058ac5#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-mohammed-hassan-achund-wird-chef-der-taliban-regierung](https://www.spiegel.de/ausland/afghanistan-mohammed-hassan-achund-wird-chef-der-taliban-regierung-a-341879ea-2b56-4680-ba23-22aa3595b404#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-demonstration-in-kabul-keiner-weiss-was-als-naechstes-passieren-wird](https://www.spiegel.de/ausland/afghanistan-demonstration-in-kabul-keiner-weiss-was-als-naechstes-passieren-wird-a-3f38e8c1-bf4b-487d-adf1-3f2baa1cad7d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-beteiligt-sich-nach-machtuebernahme-der-taliban-an-manoever-in-zentralasien](https://www.spiegel.de/ausland/russland-beteiligt-sich-nach-machtuebernahme-der-taliban-an-manoever-in-zentralasien-a-cfedb004-16c8-4af6-849f-c96b33b318c2#ref=rss)
 ### taliban
 
-* [https://www.spiegel.de/ausland/antony-blinken-taliban-bekraeftigen-ihre-ausreise-zusage](https://www.spiegel.de/ausland/antony-blinken-taliban-bekraeftigen-ihre-ausreise-zusage-a-87f0401d-4a7c-4e85-a244-4c933c058ac5#ref=rss)
-### industrie
+* [https://www.spiegel.de/ausland/afghanistan-mohammed-hassan-achund-wird-chef-der-taliban-regierung](https://www.spiegel.de/ausland/afghanistan-mohammed-hassan-achund-wird-chef-der-taliban-regierung-a-341879ea-2b56-4680-ba23-22aa3595b404#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-demonstration-in-kabul-keiner-weiss-was-als-naechstes-passieren-wird](https://www.spiegel.de/ausland/afghanistan-demonstration-in-kabul-keiner-weiss-was-als-naechstes-passieren-wird-a-3f38e8c1-bf4b-487d-adf1-3f2baa1cad7d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-beteiligt-sich-nach-machtuebernahme-der-taliban-an-manoever-in-zentralasien](https://www.spiegel.de/ausland/russland-beteiligt-sich-nach-machtuebernahme-der-taliban-an-manoever-in-zentralasien-a-cfedb004-16c8-4af6-849f-c96b33b318c2#ref=rss)
+### studie
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-materialengpaessen-deutsche-industrie-meldet-produktionsplus](https://www.spiegel.de/wirtschaft/unternehmen/trotz-materialengpaessen-deutsche-industrie-meldet-produktionsplus-a-02bbb889-c041-427f-9186-61a1a5167273#ref=rss)
-### meldet
+* [https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke](https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke-a-17b11d90-da6a-4bab-be03-601d756c204b#ref=rss)
+* [https://www.spiegel.de/auto/reisebusse-sind-bei-unfaellen-besonders-gefaehrlich](https://www.spiegel.de/auto/reisebusse-sind-bei-unfaellen-besonders-gefaehrlich-a-20d2c535-e266-4497-8321-dd5beb73ca3f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/sexuelle-gewalt-in-der-familie-studie-angst-hat-mir-mein-vater-in-die-wiege-gelegt](https://www.spiegel.de/panorama/gesellschaft/sexuelle-gewalt-in-der-familie-studie-angst-hat-mir-mein-vater-in-die-wiege-gelegt-a-c73b6478-4a45-48ab-88d5-5f6cb4eafcab#ref=rss)
+### 2021
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-materialengpaessen-deutsche-industrie-meldet-produktionsplus](https://www.spiegel.de/wirtschaft/unternehmen/trotz-materialengpaessen-deutsche-industrie-meldet-produktionsplus-a-02bbb889-c041-427f-9186-61a1a5167273#ref=rss)
-### produktionsplus
+* [https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt](https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt-a-5bdaa2f6-81e8-4a8c-a35b-12d48f946ac8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestwagswahl-2021-niederlaendischer-tech-unternehmer-spendet-1-25-millionen-euro-an-die-gruenen](https://www.spiegel.de/politik/deutschland/bundestwagswahl-2021-niederlaendischer-tech-unternehmer-spendet-1-25-millionen-euro-an-die-gruenen-a-c60a6550-8648-45c5-9bf4-0862b2046dc6#ref=rss)
+* [https://www.spiegel.de/auto/iaa-2021-verband-der-automobilindustrie-kritisiert-protestaktionen](https://www.spiegel.de/auto/iaa-2021-verband-der-automobilindustrie-kritisiert-protestaktionen-a-91135a95-7d49-43c7-bc9e-72343610e031#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-materialengpaessen-deutsche-industrie-meldet-produktionsplus](https://www.spiegel.de/wirtschaft/unternehmen/trotz-materialengpaessen-deutsche-industrie-meldet-produktionsplus-a-02bbb889-c041-427f-9186-61a1a5167273#ref=rss)
-### ramstein
+* [https://www.spiegel.de/panorama/gesellschaft/papst-will-kirche-gemeinsam-mit-laien-verbessern](https://www.spiegel.de/panorama/gesellschaft/papst-will-kirche-gemeinsam-mit-laien-verbessern-a-f8876f9e-2b6a-408f-9325-911ea1e96b93#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+* [https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade](https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade-a-48f1a154-9ccb-4782-86fd-ea29a53aae43#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/politik/deutschland/ramstein-von-den-usa-evakuierte-afghanen-beantragen-asyl-in-deutschland](https://www.spiegel.de/politik/deutschland/ramstein-von-den-usa-evakuierte-afghanen-beantragen-asyl-in-deutschland-a-0b227000-3d8b-4b36-a1b3-806d8f4c41c6#ref=rss)
-### usa
+* [https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl-a-b1d93e98-b0b3-4b4c-88c9-329442b844f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-neue-coronaregeln](https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-neue-coronaregeln-a-05958e48-b93e-4c72-b4b1-ca73d093e179#ref=rss)
+### überfischung
 
-* [https://www.spiegel.de/politik/deutschland/ramstein-von-den-usa-evakuierte-afghanen-beantragen-asyl-in-deutschland](https://www.spiegel.de/politik/deutschland/ramstein-von-den-usa-evakuierte-afghanen-beantragen-asyl-in-deutschland-a-0b227000-3d8b-4b36-a1b3-806d8f4c41c6#ref=rss)
-### afghanen
+* [https://www.spiegel.de/wissenschaft/natur/ueberfischung-ein-drittel-aller-haie-und-rochen-ist-wegen-ueberfischung-vom-aussterben-bedroht](https://www.spiegel.de/wissenschaft/natur/ueberfischung-ein-drittel-aller-haie-und-rochen-ist-wegen-ueberfischung-vom-aussterben-bedroht-a-20182282-e25a-4a6f-a515-d2cd20a2cb9b#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/politik/deutschland/ramstein-von-den-usa-evakuierte-afghanen-beantragen-asyl-in-deutschland](https://www.spiegel.de/politik/deutschland/ramstein-von-den-usa-evakuierte-afghanen-beantragen-asyl-in-deutschland-a-0b227000-3d8b-4b36-a1b3-806d8f4c41c6#ref=rss)
-### einige
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-unterstuetzt-armin-laschet-ahrtal-kuba-impft-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-unterstuetzt-armin-laschet-ahrtal-kuba-impft-kinder-a-5ee2aa8a-c9a1-4cc6-a84b-555988a6ea8e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-kuba-beginnt-mit-covid-19-impfungen-fuer-kleinkinder](https://www.spiegel.de/wissenschaft/medizin/coronavirus-kuba-beginnt-mit-covid-19-impfungen-fuer-kleinkinder-a-d26c4cd8-1da1-4649-92c2-168c53bb73d7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kita-betreiber-wirft-berliner-polizei-nach-mutmasslichem-missbrauch-versaeumnisse-vor](https://www.spiegel.de/panorama/justiz/kita-betreiber-wirft-berliner-polizei-nach-mutmasslichem-missbrauch-versaeumnisse-vor-a-9c83823f-790a-4837-ad54-04e581c2431e#ref=rss)
+### chef
 
-* [https://www.spiegel.de/politik/deutschland/ramstein-von-den-usa-evakuierte-afghanen-beantragen-asyl-in-deutschland](https://www.spiegel.de/politik/deutschland/ramstein-von-den-usa-evakuierte-afghanen-beantragen-asyl-in-deutschland-a-0b227000-3d8b-4b36-a1b3-806d8f4c41c6#ref=rss)
-* [https://www.spiegel.de/auto/iaa-proteste-aktivisten-seilen-sich-von-autobahnbruecke-ab](https://www.spiegel.de/auto/iaa-proteste-aktivisten-seilen-sich-von-autobahnbruecke-ab-a-3cdc544f-e943-4b4c-a9f7-fada64415c87#ref=rss)
-### bleiben
+* [https://www.spiegel.de/ausland/afghanistan-mohammed-hassan-achund-wird-chef-der-taliban-regierung](https://www.spiegel.de/ausland/afghanistan-mohammed-hassan-achund-wird-chef-der-taliban-regierung-a-341879ea-2b56-4680-ba23-22aa3595b404#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chef-von-us-computerspielentwickler-freut-sich-ueber-abtreibungsgesetz-und-muss-zuruecktreten](https://www.spiegel.de/wirtschaft/chef-von-us-computerspielentwickler-freut-sich-ueber-abtreibungsgesetz-und-muss-zuruecktreten-a-3ac09619-6182-49a1-97f5-c6a8424c8744#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/ramstein-von-den-usa-evakuierte-afghanen-beantragen-asyl-in-deutschland](https://www.spiegel.de/politik/deutschland/ramstein-von-den-usa-evakuierte-afghanen-beantragen-asyl-in-deutschland-a-0b227000-3d8b-4b36-a1b3-806d8f4c41c6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/studie-zu-niedrigzinspolitik-aermere-haushalte-bauen-kaum-vermoegen-auf](https://www.spiegel.de/wirtschaft/studie-zu-niedrigzinspolitik-aermere-haushalte-bauen-kaum-vermoegen-auf-a-31ff3fe5-1a5b-42ec-bb46-625d6ca99f4b#ref=rss)
-### schnitt
+* [https://www.spiegel.de/wissenschaft/technik/hilft-atomkraft-beim-klimaschutz](https://www.spiegel.de/wissenschaft/technik/hilft-atomkraft-beim-klimaschutz-a-1e22c4be-3a00-4193-90c0-a4e2fe589651#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke](https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke-a-17b11d90-da6a-4bab-be03-601d756c204b#ref=rss)
+### klimaschutz
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-menschen-arbeiten-wieder-mehr-vorkrisenniveau-noch-nicht-erreicht](https://www.spiegel.de/wirtschaft/arbeitsmarkt-menschen-arbeiten-wieder-mehr-vorkrisenniveau-noch-nicht-erreicht-a-7a2cc24a-02b1-4aaf-bee7-6745ea1e8307#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern](https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern-a-77760857-6a60-43b7-80cb-f9c5f6e03bd9#ref=rss)
-### stunden
+* [https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke](https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke-a-17b11d90-da6a-4bab-be03-601d756c204b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaschutzpapier-der-linken-konzerne-und-vermoegende-sollen-klimaschutz-bezahlen](https://www.spiegel.de/politik/deutschland/klimaschutzpapier-der-linken-konzerne-und-vermoegende-sollen-klimaschutz-bezahlen-a-6daec6b1-318f-4d79-b974-430d8284b7b0#ref=rss)
+### sankt
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-menschen-arbeiten-wieder-mehr-vorkrisenniveau-noch-nicht-erreicht](https://www.spiegel.de/wirtschaft/arbeitsmarkt-menschen-arbeiten-wieder-mehr-vorkrisenniveau-noch-nicht-erreicht-a-7a2cc24a-02b1-4aaf-bee7-6745ea1e8307#ref=rss)
-### 2019
+* [https://www.spiegel.de/ausland/russland-sankt-petersburger-oppositionspolitiker-beklagt-doppelgaenger-auf-wahlliste](https://www.spiegel.de/ausland/russland-sankt-petersburger-oppositionspolitiker-beklagt-doppelgaenger-auf-wahlliste-a-2faf9059-b290-494c-beef-ed457ccc9a50#ref=rss)
+### finanzbeamter
 
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-menschen-arbeiten-wieder-mehr-vorkrisenniveau-noch-nicht-erreicht](https://www.spiegel.de/wirtschaft/arbeitsmarkt-menschen-arbeiten-wieder-mehr-vorkrisenniveau-noch-nicht-erreicht-a-7a2cc24a-02b1-4aaf-bee7-6745ea1e8307#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt](https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt-a-6341fd0f-4809-42fb-a3a0-37786a4b3c5f#ref=rss)
-### eukommission
+* [https://www.spiegel.de/karriere/schweden-finanzbeamter-rief-sich-stundenlang-selbst-an-um-arbeitszeit-zu-schinden](https://www.spiegel.de/karriere/schweden-finanzbeamter-rief-sich-stundenlang-selbst-an-um-arbeitszeit-zu-schinden-a-9a4780ae-1008-4728-ba76-0b85ab1847b4#ref=rss)
+### stundenlang
 
-* [https://www.spiegel.de/ausland/eu-kommission-beantragt-finanzstrafe-gegen-polen](https://www.spiegel.de/ausland/eu-kommission-beantragt-finanzstrafe-gegen-polen-a-7a8213ef-d2d2-4de3-be7a-d6eab7fb3bd2#ref=rss)
-### beantragt
+* [https://www.spiegel.de/karriere/schweden-finanzbeamter-rief-sich-stundenlang-selbst-an-um-arbeitszeit-zu-schinden](https://www.spiegel.de/karriere/schweden-finanzbeamter-rief-sich-stundenlang-selbst-an-um-arbeitszeit-zu-schinden-a-9a4780ae-1008-4728-ba76-0b85ab1847b4#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/ausland/eu-kommission-beantragt-finanzstrafe-gegen-polen](https://www.spiegel.de/ausland/eu-kommission-beantragt-finanzstrafe-gegen-polen-a-7a8213ef-d2d2-4de3-be7a-d6eab7fb3bd2#ref=rss)
-### polen
+* [https://www.spiegel.de/karriere/schweden-finanzbeamter-rief-sich-stundenlang-selbst-an-um-arbeitszeit-zu-schinden](https://www.spiegel.de/karriere/schweden-finanzbeamter-rief-sich-stundenlang-selbst-an-um-arbeitszeit-zu-schinden-a-9a4780ae-1008-4728-ba76-0b85ab1847b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaschutzpapier-der-linken-konzerne-und-vermoegende-sollen-klimaschutz-bezahlen](https://www.spiegel.de/politik/deutschland/klimaschutzpapier-der-linken-konzerne-und-vermoegende-sollen-klimaschutz-bezahlen-a-6daec6b1-318f-4d79-b974-430d8284b7b0#ref=rss)
+### droht
 
-* [https://www.spiegel.de/ausland/eu-kommission-beantragt-finanzstrafe-gegen-polen](https://www.spiegel.de/ausland/eu-kommission-beantragt-finanzstrafe-gegen-polen-a-7a8213ef-d2d2-4de3-be7a-d6eab7fb3bd2#ref=rss)
-### land
+* [https://www.spiegel.de/karriere/schweden-finanzbeamter-rief-sich-stundenlang-selbst-an-um-arbeitszeit-zu-schinden](https://www.spiegel.de/karriere/schweden-finanzbeamter-rief-sich-stundenlang-selbst-an-um-arbeitszeit-zu-schinden-a-9a4780ae-1008-4728-ba76-0b85ab1847b4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke](https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke-a-17b11d90-da6a-4bab-be03-601d756c204b#ref=rss)
+### baltrum
 
-* [https://www.spiegel.de/ausland/eu-kommission-beantragt-finanzstrafe-gegen-polen](https://www.spiegel.de/ausland/eu-kommission-beantragt-finanzstrafe-gegen-polen-a-7a8213ef-d2d2-4de3-be7a-d6eab7fb3bd2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis](https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis-a-a116fd7e-cd44-411a-9fb8-6a9873ae1e30#ref=rss)
-### flutkatastrophe
+* [https://www.spiegel.de/panorama/baltrum-walross-auf-nordseeinsel-gesichtet](https://www.spiegel.de/panorama/baltrum-walross-auf-nordseeinsel-gesichtet-a-d55f8c59-100b-4dcb-ad00-d5a0c7cadb5f#ref=rss)
+### walross
 
-* [https://www.spiegel.de/wissenschaft/flut-katastrophe-milliardenhilfe-fuer-opfer-einfach-genauso-wieder-aufbauen-ist-fahrlaessig](https://www.spiegel.de/wissenschaft/flut-katastrophe-milliardenhilfe-fuer-opfer-einfach-genauso-wieder-aufbauen-ist-fahrlaessig-a-9a30fef8-dd48-4b15-b8da-358197e38fb6#ref=rss)
-### forscher
+* [https://www.spiegel.de/panorama/baltrum-walross-auf-nordseeinsel-gesichtet](https://www.spiegel.de/panorama/baltrum-walross-auf-nordseeinsel-gesichtet-a-d55f8c59-100b-4dcb-ad00-d5a0c7cadb5f#ref=rss)
+### gesichtet
 
-* [https://www.spiegel.de/wissenschaft/flut-katastrophe-milliardenhilfe-fuer-opfer-einfach-genauso-wieder-aufbauen-ist-fahrlaessig](https://www.spiegel.de/wissenschaft/flut-katastrophe-milliardenhilfe-fuer-opfer-einfach-genauso-wieder-aufbauen-ist-fahrlaessig-a-9a30fef8-dd48-4b15-b8da-358197e38fb6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-wird-teuer-ein-langstreckenflug-kostet-die-weltgemeinschaft-3-000-us-dollar](https://www.spiegel.de/wissenschaft/mensch/klimakrise-wird-teuer-ein-langstreckenflug-kostet-die-weltgemeinschaft-3-000-us-dollar-a-aba384df-6836-4b27-9f8e-bac56ccc579a#ref=rss)
-### klimakrise
+* [https://www.spiegel.de/panorama/baltrum-walross-auf-nordseeinsel-gesichtet](https://www.spiegel.de/panorama/baltrum-walross-auf-nordseeinsel-gesichtet-a-d55f8c59-100b-4dcb-ad00-d5a0c7cadb5f#ref=rss)
+### karim
 
-* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-wird-teuer-ein-langstreckenflug-kostet-die-weltgemeinschaft-3-000-us-dollar](https://www.spiegel.de/wissenschaft/mensch/klimakrise-wird-teuer-ein-langstreckenflug-kostet-die-weltgemeinschaft-3-000-us-dollar-a-aba384df-6836-4b27-9f8e-bac56ccc579a#ref=rss)
-### prozent
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-wer-ist-der-dfb-debuetant](https://www.spiegel.de/sport/fussball/karim-adeyemi-wer-ist-der-dfb-debuetant-a-7c8f7c35-8ec5-4491-aa60-100d0ec5299a#ref=rss)
+### adeyemi
 
-* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-wird-teuer-ein-langstreckenflug-kostet-die-weltgemeinschaft-3-000-us-dollar](https://www.spiegel.de/wissenschaft/mensch/klimakrise-wird-teuer-ein-langstreckenflug-kostet-die-weltgemeinschaft-3-000-us-dollar-a-aba384df-6836-4b27-9f8e-bac56ccc579a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt](https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt-a-6341fd0f-4809-42fb-a3a0-37786a4b3c5f#ref=rss)
-### eltern
+* [https://www.spiegel.de/sport/fussball/karim-adeyemi-wer-ist-der-dfb-debuetant](https://www.spiegel.de/sport/fussball/karim-adeyemi-wer-ist-der-dfb-debuetant-a-7c8f7c35-8ec5-4491-aa60-100d0ec5299a#ref=rss)
+### carlos
 
-* [https://www.spiegel.de/panorama/justiz/berlin-ermittlungen-gegen-kita-aushilfskraft-wegen-mutmasslichem-missbrauch](https://www.spiegel.de/panorama/justiz/berlin-ermittlungen-gegen-kita-aushilfskraft-wegen-mutmasslichem-missbrauch-a-8497a92d-52c9-44b3-bded-764e8026a335#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/australien-polizei-findet-vermissten-dreijaehrigen-nach-drei-tagen](https://www.spiegel.de/panorama/gesellschaft/australien-polizei-findet-vermissten-dreijaehrigen-nach-drei-tagen-a-6e0e8dca-373a-4e45-a897-5f48d21a511a#ref=rss)
-### anhänger
+* [https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt](https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt-a-5bdaa2f6-81e8-4a8c-a35b-12d48f946ac8#ref=rss)
+### alcaraz
 
-* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-anhaenger-durchbrechen-polizeiabsperrung-in-brasilia](https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-anhaenger-durchbrechen-polizeiabsperrung-in-brasilia-a-4e2cc2bb-bb40-4473-ae0a-d985f58866c4#ref=rss)
-### präsident
+* [https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt](https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt-a-5bdaa2f6-81e8-4a8c-a35b-12d48f946ac8#ref=rss)
+### us
 
-* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-anhaenger-durchbrechen-polizeiabsperrung-in-brasilia](https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-anhaenger-durchbrechen-polizeiabsperrung-in-brasilia-a-4e2cc2bb-bb40-4473-ae0a-d985f58866c4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/kryptowaehrung-el-salvador-nutzt-bitcoin-als-gesetzliches-zahlungsmittel](https://www.spiegel.de/wirtschaft/soziales/kryptowaehrung-el-salvador-nutzt-bitcoin-als-gesetzliches-zahlungsmittel-a-d856d93f-1e65-4722-8133-c8d59eaffb86#ref=rss)
-### michael
+* [https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt](https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt-a-5bdaa2f6-81e8-4a8c-a35b-12d48f946ac8#ref=rss)
+### open
 
-* [https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star](https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star-a-0d7cd9c6-9a21-42ce-a665-ccaa821b3548#ref=rss)
-### k
+* [https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt](https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt-a-5bdaa2f6-81e8-4a8c-a35b-12d48f946ac8#ref=rss)
+### spielt
 
-* [https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star](https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star-a-0d7cd9c6-9a21-42ce-a665-ccaa821b3548#ref=rss)
-### williams
+* [https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt](https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt-a-5bdaa2f6-81e8-4a8c-a35b-12d48f946ac8#ref=rss)
+### 18
 
-* [https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star](https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star-a-0d7cd9c6-9a21-42ce-a665-ccaa821b3548#ref=rss)
-### trauern
+* [https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt](https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt-a-5bdaa2f6-81e8-4a8c-a35b-12d48f946ac8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen](https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen-a-728477fc-1edc-40e4-8723-72e586c52040#ref=rss)
+### hand
 
-* [https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star](https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star-a-0d7cd9c6-9a21-42ce-a665-ccaa821b3548#ref=rss)
-### the
+* [https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt](https://www.spiegel.de/sport/tennis/carlos-alcaraz-bei-den-us-open-2021-das-aufregendste-talent-der-tenniswelt-a-5bdaa2f6-81e8-4a8c-a35b-12d48f946ac8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke](https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke-a-17b11d90-da6a-4bab-be03-601d756c204b#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star](https://www.spiegel.de/kultur/tv/michael-k-williams-spike-lee-ava-duvernay-john-cusack-trauern-um-the-wire-star-a-0d7cd9c6-9a21-42ce-a665-ccaa821b3548#ref=rss)
-### george
+* [https://www.spiegel.de/politik/deutschland/bundestwagswahl-2021-niederlaendischer-tech-unternehmer-spendet-1-25-millionen-euro-an-die-gruenen](https://www.spiegel.de/politik/deutschland/bundestwagswahl-2021-niederlaendischer-tech-unternehmer-spendet-1-25-millionen-euro-an-die-gruenen-a-c60a6550-8648-45c5-9bf4-0862b2046dc6#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/sport/formel1/formel-1-george-russell-wechselt-zu-mercedes-befoerderung-ins-weltmeisterteam](https://www.spiegel.de/sport/formel1/formel-1-george-russell-wechselt-zu-mercedes-befoerderung-ins-weltmeisterteam-a-90f84a38-48dd-4810-871e-45d4fe7c93e3#ref=rss)
-### russell
+* [https://www.spiegel.de/politik/deutschland/bundestwagswahl-2021-niederlaendischer-tech-unternehmer-spendet-1-25-millionen-euro-an-die-gruenen](https://www.spiegel.de/politik/deutschland/bundestwagswahl-2021-niederlaendischer-tech-unternehmer-spendet-1-25-millionen-euro-an-die-gruenen-a-c60a6550-8648-45c5-9bf4-0862b2046dc6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke](https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke-a-17b11d90-da6a-4bab-be03-601d756c204b#ref=rss)
+### papst
 
-* [https://www.spiegel.de/sport/formel1/formel-1-george-russell-wechselt-zu-mercedes-befoerderung-ins-weltmeisterteam](https://www.spiegel.de/sport/formel1/formel-1-george-russell-wechselt-zu-mercedes-befoerderung-ins-weltmeisterteam-a-90f84a38-48dd-4810-871e-45d4fe7c93e3#ref=rss)
-### mercedes
+* [https://www.spiegel.de/panorama/gesellschaft/papst-will-kirche-gemeinsam-mit-laien-verbessern](https://www.spiegel.de/panorama/gesellschaft/papst-will-kirche-gemeinsam-mit-laien-verbessern-a-f8876f9e-2b6a-408f-9325-911ea1e96b93#ref=rss)
+### kirche
 
-* [https://www.spiegel.de/sport/formel1/formel-1-george-russell-wechselt-zu-mercedes-befoerderung-ins-weltmeisterteam](https://www.spiegel.de/sport/formel1/formel-1-george-russell-wechselt-zu-mercedes-befoerderung-ins-weltmeisterteam-a-90f84a38-48dd-4810-871e-45d4fe7c93e3#ref=rss)
-### aktivisten
+* [https://www.spiegel.de/panorama/gesellschaft/papst-will-kirche-gemeinsam-mit-laien-verbessern](https://www.spiegel.de/panorama/gesellschaft/papst-will-kirche-gemeinsam-mit-laien-verbessern-a-f8876f9e-2b6a-408f-9325-911ea1e96b93#ref=rss)
+### laien
 
-* [https://www.spiegel.de/auto/iaa-proteste-aktivisten-seilen-sich-von-autobahnbruecke-ab](https://www.spiegel.de/auto/iaa-proteste-aktivisten-seilen-sich-von-autobahnbruecke-ab-a-3cdc544f-e943-4b4c-a9f7-fada64415c87#ref=rss)
-### art
+* [https://www.spiegel.de/panorama/gesellschaft/papst-will-kirche-gemeinsam-mit-laien-verbessern](https://www.spiegel.de/panorama/gesellschaft/papst-will-kirche-gemeinsam-mit-laien-verbessern-a-f8876f9e-2b6a-408f-9325-911ea1e96b93#ref=rss)
+### letzte
 
-* [https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt](https://www.spiegel.de/wissenschaft/technik/co2-ausstoss-der-privaten-haushalte-sinkt-a-6341fd0f-4809-42fb-a3a0-37786a4b3c5f#ref=rss)
-* [https://www.spiegel.de/ausland/texas-uno-menschenrechtsexperten-kritisieren-herzschlag-gesetz](https://www.spiegel.de/ausland/texas-uno-menschenrechtsexperten-kritisieren-herzschlag-gesetz-a-7bddb826-9d3e-45f0-85b6-6043c83310c8#ref=rss)
-### rede
+* [https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl-a-b1d93e98-b0b3-4b4c-88c9-329442b844f2#ref=rss)
+### bundestagswahl
 
-* [https://www.spiegel.de/politik/deutschland/eine-regierung-die-die-unterstuetzung-der-linkspartei-in-kauf-nimmt](https://www.spiegel.de/politik/deutschland/eine-regierung-die-die-unterstuetzung-der-linkspartei-in-kauf-nimmt-a-423773a1-aab7-416d-84a2-e4f260cf0b81#ref=rss)
-### kanzlerin
+* [https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl-a-b1d93e98-b0b3-4b4c-88c9-329442b844f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+### linke
 
-* [https://www.spiegel.de/politik/deutschland/eine-regierung-die-die-unterstuetzung-der-linkspartei-in-kauf-nimmt](https://www.spiegel.de/politik/deutschland/eine-regierung-die-die-unterstuetzung-der-linkspartei-in-kauf-nimmt-a-423773a1-aab7-416d-84a2-e4f260cf0b81#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis](https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis-a-a116fd7e-cd44-411a-9fb8-6a9873ae1e30#ref=rss)
-### linksbündnis
+* [https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl-a-b1d93e98-b0b3-4b4c-88c9-329442b844f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaschutzpapier-der-linken-konzerne-und-vermoegende-sollen-klimaschutz-bezahlen](https://www.spiegel.de/politik/deutschland/klimaschutzpapier-der-linken-konzerne-und-vermoegende-sollen-klimaschutz-bezahlen-a-6daec6b1-318f-4d79-b974-430d8284b7b0#ref=rss)
+### rotrotgrün
 
-* [https://www.spiegel.de/politik/deutschland/eine-regierung-die-die-unterstuetzung-der-linkspartei-in-kauf-nimmt](https://www.spiegel.de/politik/deutschland/eine-regierung-die-die-unterstuetzung-der-linkspartei-in-kauf-nimmt-a-423773a1-aab7-416d-84a2-e4f260cf0b81#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis](https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis-a-a116fd7e-cd44-411a-9fb8-6a9873ae1e30#ref=rss)
-### texas
+* [https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl-a-b1d93e98-b0b3-4b4c-88c9-329442b844f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaschutzpapier-der-linken-konzerne-und-vermoegende-sollen-klimaschutz-bezahlen](https://www.spiegel.de/politik/deutschland/klimaschutzpapier-der-linken-konzerne-und-vermoegende-sollen-klimaschutz-bezahlen-a-6daec6b1-318f-4d79-b974-430d8284b7b0#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/ausland/texas-uno-menschenrechtsexperten-kritisieren-herzschlag-gesetz](https://www.spiegel.de/ausland/texas-uno-menschenrechtsexperten-kritisieren-herzschlag-gesetz-a-7bddb826-9d3e-45f0-85b6-6043c83310c8#ref=rss)
-### telekom
+* [https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl-a-b1d93e98-b0b3-4b4c-88c9-329442b844f2#ref=rss)
+* [https://www.spiegel.de/auto/iaa-2021-verband-der-automobilindustrie-kritisiert-protestaktionen](https://www.spiegel.de/auto/iaa-2021-verband-der-automobilindustrie-kritisiert-protestaktionen-a-91135a95-7d49-43c7-bc9e-72343610e031#ref=rss)
+### alle
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/telekom-rueckzug-aus-den-niederlanden-mehr-einfluss-bei-t-mobile-us](https://www.spiegel.de/wirtschaft/unternehmen/telekom-rueckzug-aus-den-niederlanden-mehr-einfluss-bei-t-mobile-us-a-ba57e31c-d649-42d5-ada3-9f58d1a495c4#ref=rss)
-### niederlanden
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/telekom-rueckzug-aus-den-niederlanden-mehr-einfluss-bei-t-mobile-us](https://www.spiegel.de/wirtschaft/unternehmen/telekom-rueckzug-aus-den-niederlanden-mehr-einfluss-bei-t-mobile-us-a-ba57e31c-d649-42d5-ada3-9f58d1a495c4#ref=rss)
-### bka
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/bka-hat-umstrittene-ueberwachungssoftware-von-nso-gekauft](https://www.spiegel.de/netzwelt/netzpolitik/bka-hat-umstrittene-ueberwachungssoftware-von-nso-gekauft-a-8c8039a4-a8d5-49a3-8a4b-afdf98fd165a#ref=rss)
-### nso
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/bka-hat-umstrittene-ueberwachungssoftware-von-nso-gekauft](https://www.spiegel.de/netzwelt/netzpolitik/bka-hat-umstrittene-ueberwachungssoftware-von-nso-gekauft-a-8c8039a4-a8d5-49a3-8a4b-afdf98fd165a#ref=rss)
-### gekauft
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/bka-hat-umstrittene-ueberwachungssoftware-von-nso-gekauft](https://www.spiegel.de/netzwelt/netzpolitik/bka-hat-umstrittene-ueberwachungssoftware-von-nso-gekauft-a-8c8039a4-a8d5-49a3-8a4b-afdf98fd165a#ref=rss)
-### schuljahr
-
-* [https://www.spiegel.de/panorama/bildung/das-neue-schuljahr-und-die-alten-probleme-corona-quarantaene-querlueften](https://www.spiegel.de/panorama/bildung/das-neue-schuljahr-und-die-alten-probleme-corona-quarantaene-querlueften-a-03e900e0-54ee-42df-8d27-8649daa4a081#ref=rss)
-### corona
-
-* [https://www.spiegel.de/panorama/bildung/das-neue-schuljahr-und-die-alten-probleme-corona-quarantaene-querlueften](https://www.spiegel.de/panorama/bildung/das-neue-schuljahr-und-die-alten-probleme-corona-quarantaene-querlueften-a-03e900e0-54ee-42df-8d27-8649daa4a081#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern](https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern-a-77760857-6a60-43b7-80cb-f9c5f6e03bd9#ref=rss)
-### meisten
-
-* [https://www.spiegel.de/panorama/bildung/das-neue-schuljahr-und-die-alten-probleme-corona-quarantaene-querlueften](https://www.spiegel.de/panorama/bildung/das-neue-schuljahr-und-die-alten-probleme-corona-quarantaene-querlueften-a-03e900e0-54ee-42df-8d27-8649daa4a081#ref=rss)
-### coronakrise
-
-* [https://www.spiegel.de/panorama/bildung/das-neue-schuljahr-und-die-alten-probleme-corona-quarantaene-querlueften](https://www.spiegel.de/panorama/bildung/das-neue-schuljahr-und-die-alten-probleme-corona-quarantaene-querlueften-a-03e900e0-54ee-42df-8d27-8649daa4a081#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern](https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern-a-77760857-6a60-43b7-80cb-f9c5f6e03bd9#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis](https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis-a-a116fd7e-cd44-411a-9fb8-6a9873ae1e30#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis](https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis-a-a116fd7e-cd44-411a-9fb8-6a9873ae1e30#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis](https://www.spiegel.de/politik/deutschland/angela-merkel-warnt-vor-linksbuendnis-a-a116fd7e-cd44-411a-9fb8-6a9873ae1e30#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern](https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern-a-77760857-6a60-43b7-80cb-f9c5f6e03bd9#ref=rss)
-### geflüchtete
-
-* [https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern](https://www.spiegel.de/panorama/bildung/corona-uno-fuerchtet-um-schulbildung-von-gefluechteten-kindern-a-77760857-6a60-43b7-80cb-f9c5f6e03bd9#ref=rss)
-### el
-
-* [https://www.spiegel.de/wirtschaft/soziales/kryptowaehrung-el-salvador-nutzt-bitcoin-als-gesetzliches-zahlungsmittel](https://www.spiegel.de/wirtschaft/soziales/kryptowaehrung-el-salvador-nutzt-bitcoin-als-gesetzliches-zahlungsmittel-a-d856d93f-1e65-4722-8133-c8d59eaffb86#ref=rss)
-### salvador
-
-* [https://www.spiegel.de/wirtschaft/soziales/kryptowaehrung-el-salvador-nutzt-bitcoin-als-gesetzliches-zahlungsmittel](https://www.spiegel.de/wirtschaft/soziales/kryptowaehrung-el-salvador-nutzt-bitcoin-als-gesetzliches-zahlungsmittel-a-d856d93f-1e65-4722-8133-c8d59eaffb86#ref=rss)
-### bitcoin
-
-* [https://www.spiegel.de/wirtschaft/soziales/kryptowaehrung-el-salvador-nutzt-bitcoin-als-gesetzliches-zahlungsmittel](https://www.spiegel.de/wirtschaft/soziales/kryptowaehrung-el-salvador-nutzt-bitcoin-als-gesetzliches-zahlungsmittel-a-d856d93f-1e65-4722-8133-c8d59eaffb86#ref=rss)
-### zahlungsmittel
-
-* [https://www.spiegel.de/wirtschaft/soziales/kryptowaehrung-el-salvador-nutzt-bitcoin-als-gesetzliches-zahlungsmittel](https://www.spiegel.de/wirtschaft/soziales/kryptowaehrung-el-salvador-nutzt-bitcoin-als-gesetzliches-zahlungsmittel-a-d856d93f-1e65-4722-8133-c8d59eaffb86#ref=rss)
-### ärmere
-
-* [https://www.spiegel.de/wirtschaft/studie-zu-niedrigzinspolitik-aermere-haushalte-bauen-kaum-vermoegen-auf](https://www.spiegel.de/wirtschaft/studie-zu-niedrigzinspolitik-aermere-haushalte-bauen-kaum-vermoegen-auf-a-31ff3fe5-1a5b-42ec-bb46-625d6ca99f4b#ref=rss)
-### vermögen
-
-* [https://www.spiegel.de/wirtschaft/studie-zu-niedrigzinspolitik-aermere-haushalte-bauen-kaum-vermoegen-auf](https://www.spiegel.de/wirtschaft/studie-zu-niedrigzinspolitik-aermere-haushalte-bauen-kaum-vermoegen-auf-a-31ff3fe5-1a5b-42ec-bb46-625d6ca99f4b#ref=rss)
-### tagen
-
-* [https://www.spiegel.de/panorama/gesellschaft/australien-polizei-findet-vermissten-dreijaehrigen-nach-drei-tagen](https://www.spiegel.de/panorama/gesellschaft/australien-polizei-findet-vermissten-dreijaehrigen-nach-drei-tagen-a-6e0e8dca-373a-4e45-a897-5f48d21a511a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl-a-b1d93e98-b0b3-4b4c-88c9-329442b844f2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chef-von-us-computerspielentwickler-freut-sich-ueber-abtreibungsgesetz-und-muss-zuruecktreten](https://www.spiegel.de/wirtschaft/chef-von-us-computerspielentwickler-freut-sich-ueber-abtreibungsgesetz-und-muss-zuruecktreten-a-3ac09619-6182-49a1-97f5-c6a8424c8744#ref=rss)
 ### wahl
 
-* [https://www.spiegel.de/politik/bundestag-so-laeuft-die-letzte-debatte-vor-der-wahl](https://www.spiegel.de/politik/bundestag-so-laeuft-die-letzte-debatte-vor-der-wahl-a-88cddd25-cad2-4f49-9cae-83e05d387a5f#ref=rss)
-### livestream
+* [https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/bundestag-letzte-debatte-vor-der-bundestagswahl-a-b1d93e98-b0b3-4b4c-88c9-329442b844f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+### rohrbach
 
-* [https://www.spiegel.de/politik/bundestag-so-laeuft-die-letzte-debatte-vor-der-wahl](https://www.spiegel.de/politik/bundestag-so-laeuft-die-letzte-debatte-vor-der-wahl-a-88cddd25-cad2-4f49-9cae-83e05d387a5f#ref=rss)
-### stuttgart
+* [https://www.spiegel.de/panorama/rohrbach-in-auto-verbrannte-leiche-als-ehemann-identifiziert](https://www.spiegel.de/panorama/rohrbach-in-auto-verbrannte-leiche-als-ehemann-identifiziert-a-6d7b60bc-152a-4d58-8780-23c34a7b4a0b#ref=rss)
+### leiche
 
-* [https://www.spiegel.de/panorama/stuttgart-mann-stirbt-bei-wohnungsbrand-mehrere-verletzte](https://www.spiegel.de/panorama/stuttgart-mann-stirbt-bei-wohnungsbrand-mehrere-verletzte-a-eef4446a-a87a-42d1-9f22-89ae688bb7c8#ref=rss)
+* [https://www.spiegel.de/panorama/rohrbach-in-auto-verbrannte-leiche-als-ehemann-identifiziert](https://www.spiegel.de/panorama/rohrbach-in-auto-verbrannte-leiche-als-ehemann-identifiziert-a-6d7b60bc-152a-4d58-8780-23c34a7b4a0b#ref=rss)
+### identifiziert
+
+* [https://www.spiegel.de/panorama/rohrbach-in-auto-verbrannte-leiche-als-ehemann-identifiziert](https://www.spiegel.de/panorama/rohrbach-in-auto-verbrannte-leiche-als-ehemann-identifiziert-a-6d7b60bc-152a-4d58-8780-23c34a7b4a0b#ref=rss)
+### jungen
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+### politikern
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-unterstuetzt-armin-laschet-ahrtal-kuba-impft-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-unterstuetzt-armin-laschet-ahrtal-kuba-impft-kinder-a-5ee2aa8a-c9a1-4cc6-a84b-555988a6ea8e#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-kuba-beginnt-mit-covid-19-impfungen-fuer-kleinkinder](https://www.spiegel.de/wissenschaft/medizin/coronavirus-kuba-beginnt-mit-covid-19-impfungen-fuer-kleinkinder-a-d26c4cd8-1da1-4649-92c2-168c53bb73d7#ref=rss)
+### spiegelredakteurin
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen](https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen-a-728477fc-1edc-40e4-8723-72e586c52040#ref=rss)
+### sophia
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen](https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen-a-728477fc-1edc-40e4-8723-72e586c52040#ref=rss)
+### schirmer
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen](https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen-a-728477fc-1edc-40e4-8723-72e586c52040#ref=rss)
+### sascha
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen](https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen-a-728477fc-1edc-40e4-8723-72e586c52040#ref=rss)
+### lobo
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen](https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen-a-728477fc-1edc-40e4-8723-72e586c52040#ref=rss)
+### parteien
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen](https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen-a-728477fc-1edc-40e4-8723-72e586c52040#ref=rss)
+### klimawandel
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen](https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen-a-728477fc-1edc-40e4-8723-72e586c52040#ref=rss)
+### mietenwahnsinn
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30](https://www.spiegel.de/politik/deutschland/bundestagswahl-spiegel-live-debatte-mit-jungen-politikern-was-tun-sie-fuer-menschen-unter-30-a-a690a16e-bd3a-4548-8de7-5a6712570910#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen](https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen-a-728477fc-1edc-40e4-8723-72e586c52040#ref=rss)
+### ahrtal
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-unterstuetzt-armin-laschet-ahrtal-kuba-impft-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-unterstuetzt-armin-laschet-ahrtal-kuba-impft-kinder-a-5ee2aa8a-c9a1-4cc6-a84b-555988a6ea8e#ref=rss)
+### impft
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-unterstuetzt-armin-laschet-ahrtal-kuba-impft-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-angela-merkel-unterstuetzt-armin-laschet-ahrtal-kuba-impft-kinder-a-5ee2aa8a-c9a1-4cc6-a84b-555988a6ea8e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-kuba-beginnt-mit-covid-19-impfungen-fuer-kleinkinder](https://www.spiegel.de/wissenschaft/medizin/coronavirus-kuba-beginnt-mit-covid-19-impfungen-fuer-kleinkinder-a-d26c4cd8-1da1-4649-92c2-168c53bb73d7#ref=rss)
+### staat
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-kuba-beginnt-mit-covid-19-impfungen-fuer-kleinkinder](https://www.spiegel.de/wissenschaft/medizin/coronavirus-kuba-beginnt-mit-covid-19-impfungen-fuer-kleinkinder-a-d26c4cd8-1da1-4649-92c2-168c53bb73d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke](https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke-a-17b11d90-da6a-4bab-be03-601d756c204b#ref=rss)
+### einsatz
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-kuba-beginnt-mit-covid-19-impfungen-fuer-kleinkinder](https://www.spiegel.de/wissenschaft/medizin/coronavirus-kuba-beginnt-mit-covid-19-impfungen-fuer-kleinkinder-a-d26c4cd8-1da1-4649-92c2-168c53bb73d7#ref=rss)
+* [https://www.spiegel.de/auto/iaa-2021-verband-der-automobilindustrie-kritisiert-protestaktionen](https://www.spiegel.de/auto/iaa-2021-verband-der-automobilindustrie-kritisiert-protestaktionen-a-91135a95-7d49-43c7-bc9e-72343610e031#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/ausland/afghanistan-mohammed-hassan-achund-wird-chef-der-taliban-regierung](https://www.spiegel.de/ausland/afghanistan-mohammed-hassan-achund-wird-chef-der-taliban-regierung-a-341879ea-2b56-4680-ba23-22aa3595b404#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kita-betreiber-wirft-berliner-polizei-nach-mutmasslichem-missbrauch-versaeumnisse-vor](https://www.spiegel.de/panorama/justiz/kita-betreiber-wirft-berliner-polizei-nach-mutmasslichem-missbrauch-versaeumnisse-vor-a-9c83823f-790a-4837-ad54-04e581c2431e#ref=rss)
+### kabul
+
+* [https://www.spiegel.de/ausland/afghanistan-demonstration-in-kabul-keiner-weiss-was-als-naechstes-passieren-wird](https://www.spiegel.de/ausland/afghanistan-demonstration-in-kabul-keiner-weiss-was-als-naechstes-passieren-wird-a-3f38e8c1-bf4b-487d-adf1-3f2baa1cad7d#ref=rss)
+### hunderte
+
+* [https://www.spiegel.de/ausland/afghanistan-demonstration-in-kabul-keiner-weiss-was-als-naechstes-passieren-wird](https://www.spiegel.de/ausland/afghanistan-demonstration-in-kabul-keiner-weiss-was-als-naechstes-passieren-wird-a-3f38e8c1-bf4b-487d-adf1-3f2baa1cad7d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke](https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke-a-17b11d90-da6a-4bab-be03-601d756c204b#ref=rss)
+### protestieren
+
+* [https://www.spiegel.de/ausland/afghanistan-demonstration-in-kabul-keiner-weiss-was-als-naechstes-passieren-wird](https://www.spiegel.de/ausland/afghanistan-demonstration-in-kabul-keiner-weiss-was-als-naechstes-passieren-wird-a-3f38e8c1-bf4b-487d-adf1-3f2baa1cad7d#ref=rss)
+* [https://www.spiegel.de/auto/iaa-2021-verband-der-automobilindustrie-kritisiert-protestaktionen](https://www.spiegel.de/auto/iaa-2021-verband-der-automobilindustrie-kritisiert-protestaktionen-a-91135a95-7d49-43c7-bc9e-72343610e031#ref=rss)
+### fast
+
+* [https://www.spiegel.de/panorama/justiz/kita-betreiber-wirft-berliner-polizei-nach-mutmasslichem-missbrauch-versaeumnisse-vor](https://www.spiegel.de/panorama/justiz/kita-betreiber-wirft-berliner-polizei-nach-mutmasslichem-missbrauch-versaeumnisse-vor-a-9c83823f-790a-4837-ad54-04e581c2431e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chef-von-us-computerspielentwickler-freut-sich-ueber-abtreibungsgesetz-und-muss-zuruecktreten](https://www.spiegel.de/wirtschaft/chef-von-us-computerspielentwickler-freut-sich-ueber-abtreibungsgesetz-und-muss-zuruecktreten-a-3ac09619-6182-49a1-97f5-c6a8424c8744#ref=rss)
+### iaa
+
+* [https://www.spiegel.de/auto/iaa-2021-verband-der-automobilindustrie-kritisiert-protestaktionen](https://www.spiegel.de/auto/iaa-2021-verband-der-automobilindustrie-kritisiert-protestaktionen-a-91135a95-7d49-43c7-bc9e-72343610e031#ref=rss)
+### texas
+
+* [https://www.spiegel.de/wirtschaft/chef-von-us-computerspielentwickler-freut-sich-ueber-abtreibungsgesetz-und-muss-zuruecktreten](https://www.spiegel.de/wirtschaft/chef-von-us-computerspielentwickler-freut-sich-ueber-abtreibungsgesetz-und-muss-zuruecktreten-a-3ac09619-6182-49a1-97f5-c6a8424c8744#ref=rss)
+### norwegische
+
+* [https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade](https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade-a-48f1a154-9ccb-4782-86fd-ea29a53aae43#ref=rss)
+### zeitung
+
+* [https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade](https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade-a-48f1a154-9ccb-4782-86fd-ea29a53aae43#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade](https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade-a-48f1a154-9ccb-4782-86fd-ea29a53aae43#ref=rss)
+### barents
+
+* [https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade](https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade-a-48f1a154-9ccb-4782-86fd-ea29a53aae43#ref=rss)
+### observer
+
+* [https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade](https://www.spiegel.de/kultur/zensur-in-russland-norwegische-zeitung-the-barents-observer-kaempft-gegen-medienblockade-a-48f1a154-9ccb-4782-86fd-ea29a53aae43#ref=rss)
+### kontra
+
+* [https://www.spiegel.de/kultur/musik/kontra-k-ueber-markenhype-wir-rapper-haben-ziemlich-viel-verkackt](https://www.spiegel.de/kultur/musik/kontra-k-ueber-markenhype-wir-rapper-haben-ziemlich-viel-verkackt-a-e73c3bcb-e98e-4326-bf9b-44e30b890499#ref=rss)
+### k
+
+* [https://www.spiegel.de/kultur/musik/kontra-k-ueber-markenhype-wir-rapper-haben-ziemlich-viel-verkackt](https://www.spiegel.de/kultur/musik/kontra-k-ueber-markenhype-wir-rapper-haben-ziemlich-viel-verkackt-a-e73c3bcb-e98e-4326-bf9b-44e30b890499#ref=rss)
+### wir
+
+* [https://www.spiegel.de/kultur/musik/kontra-k-ueber-markenhype-wir-rapper-haben-ziemlich-viel-verkackt](https://www.spiegel.de/kultur/musik/kontra-k-ueber-markenhype-wir-rapper-haben-ziemlich-viel-verkackt-a-e73c3bcb-e98e-4326-bf9b-44e30b890499#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/hilft-atomkraft-beim-klimaschutz](https://www.spiegel.de/wissenschaft/technik/hilft-atomkraft-beim-klimaschutz-a-1e22c4be-3a00-4193-90c0-a4e2fe589651#ref=rss)
+### generation
+
+* [https://www.spiegel.de/kultur/musik/kontra-k-ueber-markenhype-wir-rapper-haben-ziemlich-viel-verkackt](https://www.spiegel.de/kultur/musik/kontra-k-ueber-markenhype-wir-rapper-haben-ziemlich-viel-verkackt-a-e73c3bcb-e98e-4326-bf9b-44e30b890499#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen](https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen-a-728477fc-1edc-40e4-8723-72e586c52040#ref=rss)
+### chancen
+
+* [https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen](https://www.spiegel.de/politik/deutschland/spiegel-debatte-der-jugendorganisationen-kluge-nicht-krasse-loesungen-a-728477fc-1edc-40e4-8723-72e586c52040#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/hilft-atomkraft-beim-klimaschutz](https://www.spiegel.de/wissenschaft/technik/hilft-atomkraft-beim-klimaschutz-a-1e22c4be-3a00-4193-90c0-a4e2fe589651#ref=rss)
+### atomkraft
+
+* [https://www.spiegel.de/wissenschaft/technik/hilft-atomkraft-beim-klimaschutz](https://www.spiegel.de/wissenschaft/technik/hilft-atomkraft-beim-klimaschutz-a-1e22c4be-3a00-4193-90c0-a4e2fe589651#ref=rss)
+### letzten
+
+* [https://www.spiegel.de/wissenschaft/technik/hilft-atomkraft-beim-klimaschutz](https://www.spiegel.de/wissenschaft/technik/hilft-atomkraft-beim-klimaschutz-a-1e22c4be-3a00-4193-90c0-a4e2fe589651#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-neue-coronaregeln](https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-neue-coronaregeln-a-05958e48-b93e-4c72-b4b1-ca73d093e179#ref=rss)
+### machtübernahme
+
+* [https://www.spiegel.de/ausland/russland-beteiligt-sich-nach-machtuebernahme-der-taliban-an-manoever-in-zentralasien](https://www.spiegel.de/ausland/russland-beteiligt-sich-nach-machtuebernahme-der-taliban-an-manoever-in-zentralasien-a-cfedb004-16c8-4af6-849f-c96b33b318c2#ref=rss)
+### nimmt
+
+* [https://www.spiegel.de/ausland/russland-beteiligt-sich-nach-machtuebernahme-der-taliban-an-manoever-in-zentralasien](https://www.spiegel.de/ausland/russland-beteiligt-sich-nach-machtuebernahme-der-taliban-an-manoever-in-zentralasien-a-cfedb004-16c8-4af6-849f-c96b33b318c2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke](https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke-a-17b11d90-da6a-4bab-be03-601d756c204b#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke](https://www.spiegel.de/wirtschaft/soziales/klimaschutz-deutschland-droht-gigantische-finanzluecke-a-17b11d90-da6a-4bab-be03-601d756c204b#ref=rss)
+* [https://www.spiegel.de/auto/reisebusse-sind-bei-unfaellen-besonders-gefaehrlich](https://www.spiegel.de/auto/reisebusse-sind-bei-unfaellen-besonders-gefaehrlich-a-20d2c535-e266-4497-8321-dd5beb73ca3f#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/auto/reisebusse-sind-bei-unfaellen-besonders-gefaehrlich](https://www.spiegel.de/auto/reisebusse-sind-bei-unfaellen-besonders-gefaehrlich-a-20d2c535-e266-4497-8321-dd5beb73ca3f#ref=rss)
+### gefährlich
+
+* [https://www.spiegel.de/auto/reisebusse-sind-bei-unfaellen-besonders-gefaehrlich](https://www.spiegel.de/auto/reisebusse-sind-bei-unfaellen-besonders-gefaehrlich-a-20d2c535-e266-4497-8321-dd5beb73ca3f#ref=rss)
+### oft
+
+* [https://www.spiegel.de/auto/reisebusse-sind-bei-unfaellen-besonders-gefaehrlich](https://www.spiegel.de/auto/reisebusse-sind-bei-unfaellen-besonders-gefaehrlich-a-20d2c535-e266-4497-8321-dd5beb73ca3f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/sexuelle-gewalt-in-der-familie-studie-angst-hat-mir-mein-vater-in-die-wiege-gelegt](https://www.spiegel.de/panorama/gesellschaft/sexuelle-gewalt-in-der-familie-studie-angst-hat-mir-mein-vater-in-die-wiege-gelegt-a-c73b6478-4a45-48ab-88d5-5f6cb4eafcab#ref=rss)
+### jeanpaul
+
+* [https://www.spiegel.de/kultur/kino/jean-paul-belmondo-diese-fuenf-filme-muessen-sie-gesehen-haben](https://www.spiegel.de/kultur/kino/jean-paul-belmondo-diese-fuenf-filme-muessen-sie-gesehen-haben-a-e0ef55df-2b69-47bb-9b3c-2f41c567c989#ref=rss)
+### belmondo
+
+* [https://www.spiegel.de/kultur/kino/jean-paul-belmondo-diese-fuenf-filme-muessen-sie-gesehen-haben](https://www.spiegel.de/kultur/kino/jean-paul-belmondo-diese-fuenf-filme-muessen-sie-gesehen-haben-a-e0ef55df-2b69-47bb-9b3c-2f41c567c989#ref=rss)
+### vwmanager
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-manager-weisen-untreue-vorwurf-zurueck-prozess-um-betriebsratsgehaelter](https://www.spiegel.de/wirtschaft/unternehmen/vw-manager-weisen-untreue-vorwurf-zurueck-prozess-um-betriebsratsgehaelter-a-4b6c780b-8d74-41e5-9e01-a65c1b5a547d#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-manager-weisen-untreue-vorwurf-zurueck-prozess-um-betriebsratsgehaelter](https://www.spiegel.de/wirtschaft/unternehmen/vw-manager-weisen-untreue-vorwurf-zurueck-prozess-um-betriebsratsgehaelter-a-4b6c780b-8d74-41e5-9e01-a65c1b5a547d#ref=rss)
 
