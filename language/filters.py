@@ -83,6 +83,7 @@ DE = {
     'jedoch',
     'jetzt',
     'kann',
+    'kannste',
     'kaum',
     'kein',
     'keine',
@@ -176,7 +177,7 @@ DE = {
 LANGUAGES = {}
 LANGUAGES['DE'] = DE
 
-NON_WORD_CHARACTERS = [':', ',', '.', '!', '?', '-', '"', '&', '–', '„', '“', '»', '«', '(', ')', '\n', '\t']
+NON_WORD_CHARACTERS = [':', ',', '.', '!', '?', '-', '"', '&', '–', '„', '“', '»', '«', '(', ')', '›', '‹', '\n', '\t']
 
 def normalize(word, lang='DE'):
     w = word.lower()
