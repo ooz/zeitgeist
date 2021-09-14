@@ -4,335 +4,277 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### andere
+### champions
 
-* [https://www.spiegel.de/ausland/russland-michail-chodorkowski-warnt-vor-faelschung-bei-duma-wahlen](https://www.spiegel.de/ausland/russland-michail-chodorkowski-warnt-vor-faelschung-bei-duma-wahlen-a-a388e94b-a19c-49b6-9f34-ac5d7c659fbe#ref=rss)
-* [https://www.spiegel.de/familie/leben-mit-trisomie-21-alles-andere-als-anders-podcast-von-dein-spiegel-kopie](https://www.spiegel.de/familie/leben-mit-trisomie-21-alles-andere-als-anders-podcast-von-dein-spiegel-kopie-a-8a44f8e3-5657-49e6-b4b5-d00d342ca32a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest](https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest-a-a0d12942-fa10-408b-9e6c-06af9791c623#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-anklage-fordert-lebenslange-haft-fuer-mutmassliche-is-anhaengerin](https://www.spiegel.de/panorama/justiz/muenchen-anklage-fordert-lebenslange-haft-fuer-mutmassliche-is-anhaengerin-a-5b319cdf-2371-4122-bf09-8c605752ed0d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/querdenker-partei-die-basis-droht-klage-von-gleichnamigem-gefluechteten-netzwerk](https://www.spiegel.de/politik/deutschland/querdenker-partei-die-basis-droht-klage-von-gleichnamigem-gefluechteten-netzwerk-a-376567af-87be-4637-a62b-f33ce30583f5#ref=rss)
-### spiegel
+* [https://www.spiegel.de/sport/fussball/champions-league-die-fussball-koenigsklasse-wandert-vom-tv-zu-den-streamingdiensten](https://www.spiegel.de/sport/fussball/champions-league-die-fussball-koenigsklasse-wandert-vom-tv-zu-den-streamingdiensten-a-e5e69780-f9d3-490d-9b10-35905c90769f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-gegen-bayern-muenchen-geschrumpfte-riesen](https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-gegen-bayern-muenchen-geschrumpfte-riesen-a-37d1a7c2-c26e-48fd-93dc-e7aef93f5fbd#ref=rss)
+### league
 
-* [https://www.spiegel.de/familie/leben-mit-trisomie-21-alles-andere-als-anders-podcast-von-dein-spiegel-kopie](https://www.spiegel.de/familie/leben-mit-trisomie-21-alles-andere-als-anders-podcast-von-dein-spiegel-kopie-a-8a44f8e3-5657-49e6-b4b5-d00d342ca32a#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv-a-e87736e0-1a09-4af9-9bb4-6def8d24d2e5#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/sport/fussball/champions-league-die-fussball-koenigsklasse-wandert-vom-tv-zu-den-streamingdiensten](https://www.spiegel.de/sport/fussball/champions-league-die-fussball-koenigsklasse-wandert-vom-tv-zu-den-streamingdiensten-a-e5e69780-f9d3-490d-9b10-35905c90769f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-gegen-bayern-muenchen-geschrumpfte-riesen](https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-gegen-bayern-muenchen-geschrumpfte-riesen-a-37d1a7c2-c26e-48fd-93dc-e7aef93f5fbd#ref=rss)
+### biden
 
-* [https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest](https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest-a-a0d12942-fa10-408b-9e6c-06af9791c623#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fernseh-triell-nordkorea-inflation](https://www.spiegel.de/politik/deutschland/news-des-tages-fernseh-triell-nordkorea-inflation-a-3afb451e-1de5-4044-9a2d-7654f2a9a9ce#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/joe-biden-reist-zur-recall-wahl-nach-kalifornien-wichtiger-test-fuer-die-demokraten](https://www.spiegel.de/ausland/joe-biden-reist-zur-recall-wahl-nach-kalifornien-wichtiger-test-fuer-die-demokraten-a-b74a85ed-d21a-402d-bc04-a89f9df9605c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klima-extremwetter-hat-usa-2020-fast-100-milliarden-dollar-gekostet](https://www.spiegel.de/wirtschaft/klima-extremwetter-hat-usa-2020-fast-100-milliarden-dollar-gekostet-a-fec555ce-4c5e-46c1-9cd0-c84407ee924d#ref=rss)
+### partei
 
-* [https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest](https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest-a-a0d12942-fa10-408b-9e6c-06af9791c623#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen](https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen-a-f5879a56-7790-4e7f-a305-2159d9c0da87#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/querdenker-partei-die-basis-droht-klage-von-gleichnamigem-gefluechteten-netzwerk](https://www.spiegel.de/politik/deutschland/querdenker-partei-die-basis-droht-klage-von-gleichnamigem-gefluechteten-netzwerk-a-376567af-87be-4637-a62b-f33ce30583f5#ref=rss)
-* [https://www.spiegel.de/ausland/nigeria-angreifer-befreien-240-insassen-aus-gefaengnis](https://www.spiegel.de/ausland/nigeria-angreifer-befreien-240-insassen-aus-gefaengnis-a-59b47402-e384-458c-9980-832f107dadf1#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/joe-biden-reist-zur-recall-wahl-nach-kalifornien-wichtiger-test-fuer-die-demokraten](https://www.spiegel.de/ausland/joe-biden-reist-zur-recall-wahl-nach-kalifornien-wichtiger-test-fuer-die-demokraten-a-b74a85ed-d21a-402d-bc04-a89f9df9605c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-in-sachsen-haengt-die-gruenen-plakate-duerfen-bleiben](https://www.spiegel.de/politik/deutschland/bundestagswahl-in-sachsen-haengt-die-gruenen-plakate-duerfen-bleiben-a-9d892764-feaa-4e76-9473-d2c3e1b63790#ref=rss)
+* [https://www.spiegel.de/ausland/neuseeland-maori-partei-will-landesnamen-in-aotearoa-aendern](https://www.spiegel.de/ausland/neuseeland-maori-partei-will-landesnamen-in-aotearoa-aendern-a-eceeaac5-f848-466a-ae55-4a7d5c5875f0#ref=rss)
+### dürfen
 
-* [https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv-a-e87736e0-1a09-4af9-9bb4-6def8d24d2e5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/querdenker-partei-die-basis-droht-klage-von-gleichnamigem-gefluechteten-netzwerk](https://www.spiegel.de/politik/deutschland/querdenker-partei-die-basis-droht-klage-von-gleichnamigem-gefluechteten-netzwerk-a-376567af-87be-4637-a62b-f33ce30583f5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/impfstoffpatente-ex-praesidenten-und-nobelpreistraeger-appellieren-an-kanzlerkandidaten](https://www.spiegel.de/wirtschaft/soziales/impfstoffpatente-ex-praesidenten-und-nobelpreistraeger-appellieren-an-kanzlerkandidaten-a-fc72f259-0575-4223-b17e-6018b35e8cd0#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-deutschland-stellt-aufnahmezusagen-fuer-2000-medienvertreter-und-kulturschaffende-aus](https://www.spiegel.de/ausland/afghanistan-deutschland-stellt-aufnahmezusagen-fuer-2000-medienvertreter-und-kulturschaffende-aus-a-5d7ab285-0fcd-4b9f-b49d-ef0e226921c3#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder](https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder-a-8da4956c-24b5-4434-a8cc-bdf1e0b708e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lidl-wegen-suizids-eines-beschaeftigten-angeklagt](https://www.spiegel.de/wirtschaft/unternehmen/lidl-wegen-suizids-eines-beschaeftigten-angeklagt-a-8ed691a2-9ae0-4ec2-96ee-3e067e64aabb#ref=rss)
-### haft
-
-* [https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder](https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder-a-8da4956c-24b5-4434-a8cc-bdf1e0b708e8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-anklage-fordert-lebenslange-haft-fuer-mutmassliche-is-anhaengerin](https://www.spiegel.de/panorama/justiz/muenchen-anklage-fordert-lebenslange-haft-fuer-mutmassliche-is-anhaengerin-a-5b319cdf-2371-4122-bf09-8c605752ed0d#ref=rss)
-### gefängnis
-
-* [https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder](https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder-a-8da4956c-24b5-4434-a8cc-bdf1e0b708e8#ref=rss)
-* [https://www.spiegel.de/ausland/nigeria-angreifer-befreien-240-insassen-aus-gefaengnis](https://www.spiegel.de/ausland/nigeria-angreifer-befreien-240-insassen-aus-gefaengnis-a-59b47402-e384-458c-9980-832f107dadf1#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/karriere/vom-quereinsteiger-zur-it-fachkraft-was-bringen-programmier-bootcamps](https://www.spiegel.de/karriere/vom-quereinsteiger-zur-it-fachkraft-was-bringen-programmier-bootcamps-a-854681bb-c6e6-4937-a1fb-f3e3aa9f1992#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen](https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen-a-f5879a56-7790-4e7f-a305-2159d9c0da87#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-sperrt-dennis-erdmann-vom-1-fc-saarbruecken-wegen-rassismus-fuer-acht-wochen](https://www.spiegel.de/sport/fussball/dfb-sperrt-dennis-erdmann-vom-1-fc-saarbruecken-wegen-rassismus-fuer-acht-wochen-a-b3d8d7e0-aa48-4a8a-88e0-27acadb62263#ref=rss)
-### pandemie
-
-* [https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv-a-e87736e0-1a09-4af9-9bb4-6def8d24d2e5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-reiseveranstalter-muss-stornierte-klassenfahrt-ersetzen](https://www.spiegel.de/wirtschaft/unternehmen/corona-reiseveranstalter-muss-stornierte-klassenfahrt-ersetzen-a-d3e9d61d-014b-4fe4-b9d8-c7e2253063c8#ref=rss)
-* [https://www.spiegel.de/ausland/wto-direktorin-okonjo-iweala-ueber-corona-und-klima-krise-ich-erwarte-mehr-ehrgeiz](https://www.spiegel.de/ausland/wto-direktorin-okonjo-iweala-ueber-corona-und-klima-krise-ich-erwarte-mehr-ehrgeiz-a-3074515a-4957-4939-84a7-827191e5621f#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-anklage-fordert-lebenslange-haft-fuer-mutmassliche-is-anhaengerin](https://www.spiegel.de/panorama/justiz/muenchen-anklage-fordert-lebenslange-haft-fuer-mutmassliche-is-anhaengerin-a-5b319cdf-2371-4122-bf09-8c605752ed0d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/impfstoffpatente-ex-praesidenten-und-nobelpreistraeger-appellieren-an-kanzlerkandidaten](https://www.spiegel.de/wirtschaft/soziales/impfstoffpatente-ex-praesidenten-und-nobelpreistraeger-appellieren-an-kanzlerkandidaten-a-fc72f259-0575-4223-b17e-6018b35e8cd0#ref=rss)
-### corona
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-reiseveranstalter-muss-stornierte-klassenfahrt-ersetzen](https://www.spiegel.de/wirtschaft/unternehmen/corona-reiseveranstalter-muss-stornierte-klassenfahrt-ersetzen-a-d3e9d61d-014b-4fe4-b9d8-c7e2253063c8#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/corona-so-laesst-sich-die-impfbereitschaft-steigern](https://www.spiegel.de/gesundheit/diagnose/corona-so-laesst-sich-die-impfbereitschaft-steigern-a-3a8a8028-affc-4e9a-8120-e03b6523a2df#ref=rss)
-* [https://www.spiegel.de/ausland/wto-direktorin-okonjo-iweala-ueber-corona-und-klima-krise-ich-erwarte-mehr-ehrgeiz](https://www.spiegel.de/ausland/wto-direktorin-okonjo-iweala-ueber-corona-und-klima-krise-ich-erwarte-mehr-ehrgeiz-a-3074515a-4957-4939-84a7-827191e5621f#ref=rss)
-### bund
-
-* [https://www.spiegel.de/politik/deutschland/homosexualitaet-bund-entschaedigt-rund-250-maenner-und-frauen-fuer-unrechts-urteile](https://www.spiegel.de/politik/deutschland/homosexualitaet-bund-entschaedigt-rund-250-maenner-und-frauen-fuer-unrechts-urteile-a-b544ff15-e2ea-4cd1-9353-7cab4c7b362d#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-deutschland-stellt-aufnahmezusagen-fuer-2000-medienvertreter-und-kulturschaffende-aus](https://www.spiegel.de/ausland/afghanistan-deutschland-stellt-aufnahmezusagen-fuer-2000-medienvertreter-und-kulturschaffende-aus-a-5d7ab285-0fcd-4b9f-b49d-ef0e226921c3#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/politik/deutschland/homosexualitaet-bund-entschaedigt-rund-250-maenner-und-frauen-fuer-unrechts-urteile](https://www.spiegel.de/politik/deutschland/homosexualitaet-bund-entschaedigt-rund-250-maenner-und-frauen-fuer-unrechts-urteile-a-b544ff15-e2ea-4cd1-9353-7cab4c7b362d#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-deutschland-stellt-aufnahmezusagen-fuer-2000-medienvertreter-und-kulturschaffende-aus](https://www.spiegel.de/ausland/afghanistan-deutschland-stellt-aufnahmezusagen-fuer-2000-medienvertreter-und-kulturschaffende-aus-a-5d7ab285-0fcd-4b9f-b49d-ef0e226921c3#ref=rss)
-* [https://www.spiegel.de/ausland/ende-der-corona-regeln-in-daenemark-rueckkehr-zur-normalitaet](https://www.spiegel.de/ausland/ende-der-corona-regeln-in-daenemark-rueckkehr-zur-normalitaet-a-e3e958b5-327c-4e86-8341-53c448fdd2cd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-in-sachsen-haengt-die-gruenen-plakate-duerfen-bleiben](https://www.spiegel.de/politik/deutschland/bundestagswahl-in-sachsen-haengt-die-gruenen-plakate-duerfen-bleiben-a-9d892764-feaa-4e76-9473-d2c3e1b63790#ref=rss)
+* [https://www.spiegel.de/start/rechte-und-pflichten-von-azubis-was-duerfen-bzw-muessen-auszubildende](https://www.spiegel.de/start/rechte-und-pflichten-von-azubis-was-duerfen-bzw-muessen-auszubildende-a-8f83bb18-1af3-47c2-9de1-319627be8b4f#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/politik/deutschland/homosexualitaet-bund-entschaedigt-rund-250-maenner-und-frauen-fuer-unrechts-urteile](https://www.spiegel.de/politik/deutschland/homosexualitaet-bund-entschaedigt-rund-250-maenner-und-frauen-fuer-unrechts-urteile-a-b544ff15-e2ea-4cd1-9353-7cab4c7b362d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-booster-impfung-laut-studie-fuer-die-allgemeinbevoelkerung-nicht-noetig](https://www.spiegel.de/wissenschaft/medizin/coronavirus-booster-impfung-laut-studie-fuer-die-allgemeinbevoelkerung-nicht-noetig-a-f2578db8-014a-4e02-8095-623e947c3e79#ref=rss)
-* [https://www.spiegel.de/ausland/ende-der-corona-regeln-in-daenemark-rueckkehr-zur-normalitaet](https://www.spiegel.de/ausland/ende-der-corona-regeln-in-daenemark-rueckkehr-zur-normalitaet-a-e3e958b5-327c-4e86-8341-53c448fdd2cd#ref=rss)
-### russland
+* [https://www.spiegel.de/ausland/afghanistan-tausende-demonstrieren-in-kandahar-gegen-die-taliban](https://www.spiegel.de/ausland/afghanistan-tausende-demonstrieren-in-kandahar-gegen-die-taliban-a-ed73b2c0-21e5-4de2-b220-68a60401bcf2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimakrise-junge-menschen-sind-laut-einer-grossen-studie-stark-belastet](https://www.spiegel.de/wissenschaft/klimakrise-junge-menschen-sind-laut-einer-grossen-studie-stark-belastet-a-03041604-88b9-4138-a68c-4b8bc07642c4#ref=rss)
+* [https://www.spiegel.de/karriere/azubischerze-welche-streiche-wurden-ihnen-gespielt](https://www.spiegel.de/karriere/azubischerze-welche-streiche-wurden-ihnen-gespielt-a-4220e1f7-fa0c-4df1-8a29-312f40a08bae#ref=rss)
+### klima
 
-* [https://www.spiegel.de/ausland/russland-michail-chodorkowski-warnt-vor-faelschung-bei-duma-wahlen](https://www.spiegel.de/ausland/russland-michail-chodorkowski-warnt-vor-faelschung-bei-duma-wahlen-a-a388e94b-a19c-49b6-9f34-ac5d7c659fbe#ref=rss)
-### chodorkowski
-
-* [https://www.spiegel.de/ausland/russland-michail-chodorkowski-warnt-vor-faelschung-bei-duma-wahlen](https://www.spiegel.de/ausland/russland-michail-chodorkowski-warnt-vor-faelschung-bei-duma-wahlen-a-a388e94b-a19c-49b6-9f34-ac5d7c659fbe#ref=rss)
-### wochenende
-
-* [https://www.spiegel.de/ausland/russland-michail-chodorkowski-warnt-vor-faelschung-bei-duma-wahlen](https://www.spiegel.de/ausland/russland-michail-chodorkowski-warnt-vor-faelschung-bei-duma-wahlen-a-a388e94b-a19c-49b6-9f34-ac5d7c659fbe#ref=rss)
-* [https://www.spiegel.de/ausland/ende-der-corona-regeln-in-daenemark-rueckkehr-zur-normalitaet](https://www.spiegel.de/ausland/ende-der-corona-regeln-in-daenemark-rueckkehr-zur-normalitaet-a-e3e958b5-327c-4e86-8341-53c448fdd2cd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wetter-und-klima-muessen-wettervorhersagen-die-klimakrise-thematisieren](https://www.spiegel.de/wissenschaft/natur/wetter-und-klima-muessen-wettervorhersagen-die-klimakrise-thematisieren-a-6abfbd24-0057-4fac-a26a-c3a09969500b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klima-extremwetter-hat-usa-2020-fast-100-milliarden-dollar-gekostet](https://www.spiegel.de/wirtschaft/klima-extremwetter-hat-usa-2020-fast-100-milliarden-dollar-gekostet-a-fec555ce-4c5e-46c1-9cd0-c84407ee924d#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/ausland/russland-michail-chodorkowski-warnt-vor-faelschung-bei-duma-wahlen](https://www.spiegel.de/ausland/russland-michail-chodorkowski-warnt-vor-faelschung-bei-duma-wahlen-a-a388e94b-a19c-49b6-9f34-ac5d7c659fbe#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-booster-impfung-laut-studie-fuer-die-allgemeinbevoelkerung-nicht-noetig](https://www.spiegel.de/wissenschaft/medizin/coronavirus-booster-impfung-laut-studie-fuer-die-allgemeinbevoelkerung-nicht-noetig-a-f2578db8-014a-4e02-8095-623e947c3e79#ref=rss)
-### wien
-
-* [https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder](https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder-a-8da4956c-24b5-4434-a8cc-bdf1e0b708e8#ref=rss)
-### zwölf
-
-* [https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder](https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder-a-8da4956c-24b5-4434-a8cc-bdf1e0b708e8#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder](https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder-a-8da4956c-24b5-4434-a8cc-bdf1e0b708e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lidl-wegen-suizids-eines-beschaeftigten-angeklagt](https://www.spiegel.de/wirtschaft/unternehmen/lidl-wegen-suizids-eines-beschaeftigten-angeklagt-a-8ed691a2-9ae0-4ec2-96ee-3e067e64aabb#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder](https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder-a-8da4956c-24b5-4434-a8cc-bdf1e0b708e8#ref=rss)
-* [https://www.spiegel.de/ausland/nigeria-angreifer-befreien-240-insassen-aus-gefaengnis](https://www.spiegel.de/ausland/nigeria-angreifer-befreien-240-insassen-aus-gefaengnis-a-59b47402-e384-458c-9980-832f107dadf1#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder](https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder-a-8da4956c-24b5-4434-a8cc-bdf1e0b708e8#ref=rss)
-* [https://www.spiegel.de/kultur/polizeiruf-110-lina-beckmann-wird-neue-kommissarin-in-rostock](https://www.spiegel.de/kultur/polizeiruf-110-lina-beckmann-wird-neue-kommissarin-in-rostock-a-fa85f38e-7297-417d-b177-56b7d52592a7#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder](https://www.spiegel.de/panorama/justiz/wien-zwoelf-jahre-haft-nach-ueberfall-auf-ordensbrueder-a-8da4956c-24b5-4434-a8cc-bdf1e0b708e8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest](https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest-a-a0d12942-fa10-408b-9e6c-06af9791c623#ref=rss)
-### washington
-
-* [https://www.spiegel.de/ausland/washington-us-rechtsextremist-mit-machete-nahe-demokraten-parteizentrale-festgenommen](https://www.spiegel.de/ausland/washington-us-rechtsextremist-mit-machete-nahe-demokraten-parteizentrale-festgenommen-a-2d95e7f6-44db-40fb-8844-06071506c83a#ref=rss)
-### lidl
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lidl-wegen-suizids-eines-beschaeftigten-angeklagt](https://www.spiegel.de/wirtschaft/unternehmen/lidl-wegen-suizids-eines-beschaeftigten-angeklagt-a-8ed691a2-9ae0-4ec2-96ee-3e067e64aabb#ref=rss)
-### suizids
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lidl-wegen-suizids-eines-beschaeftigten-angeklagt](https://www.spiegel.de/wirtschaft/unternehmen/lidl-wegen-suizids-eines-beschaeftigten-angeklagt-a-8ed691a2-9ae0-4ec2-96ee-3e067e64aabb#ref=rss)
-### katze
-
-* [https://www.spiegel.de/panorama/florida-katze-stuerzt-in-footballstadion-von-stadionrang-und-wird-von-fans-gerettet](https://www.spiegel.de/panorama/florida-katze-stuerzt-in-footballstadion-von-stadionrang-und-wird-von-fans-gerettet-a-b0358abe-fe08-4cc8-aaa6-e03a96344166#ref=rss)
-### fans
-
-* [https://www.spiegel.de/panorama/florida-katze-stuerzt-in-footballstadion-von-stadionrang-und-wird-von-fans-gerettet](https://www.spiegel.de/panorama/florida-katze-stuerzt-in-footballstadion-von-stadionrang-und-wird-von-fans-gerettet-a-b0358abe-fe08-4cc8-aaa6-e03a96344166#ref=rss)
-### sport
-
-* [https://www.spiegel.de/panorama/florida-katze-stuerzt-in-footballstadion-von-stadionrang-und-wird-von-fans-gerettet](https://www.spiegel.de/panorama/florida-katze-stuerzt-in-footballstadion-von-stadionrang-und-wird-von-fans-gerettet-a-b0358abe-fe08-4cc8-aaa6-e03a96344166#ref=rss)
-* [https://www.spiegel.de/sport/tennis/us-open-siegerin-emma-raducanu-sensation-gewinnt](https://www.spiegel.de/sport/tennis/us-open-siegerin-emma-raducanu-sensation-gewinnt-a-77aacfeb-1ecf-45be-b61c-8b571db81efb#ref=rss)
-### quereinsteiger
-
-* [https://www.spiegel.de/karriere/vom-quereinsteiger-zur-it-fachkraft-was-bringen-programmier-bootcamps](https://www.spiegel.de/karriere/vom-quereinsteiger-zur-it-fachkraft-was-bringen-programmier-bootcamps-a-854681bb-c6e6-4937-a1fb-f3e3aa9f1992#ref=rss)
-### leben
-
-* [https://www.spiegel.de/familie/leben-mit-trisomie-21-alles-andere-als-anders-podcast-von-dein-spiegel-kopie](https://www.spiegel.de/familie/leben-mit-trisomie-21-alles-andere-als-anders-podcast-von-dein-spiegel-kopie-a-8a44f8e3-5657-49e6-b4b5-d00d342ca32a#ref=rss)
-### dein
-
-* [https://www.spiegel.de/familie/leben-mit-trisomie-21-alles-andere-als-anders-podcast-von-dein-spiegel-kopie](https://www.spiegel.de/familie/leben-mit-trisomie-21-alles-andere-als-anders-podcast-von-dein-spiegel-kopie-a-8a44f8e3-5657-49e6-b4b5-d00d342ca32a#ref=rss)
-### einfach
-
-* [https://www.spiegel.de/familie/leben-mit-trisomie-21-alles-andere-als-anders-podcast-von-dein-spiegel-kopie](https://www.spiegel.de/familie/leben-mit-trisomie-21-alles-andere-als-anders-podcast-von-dein-spiegel-kopie-a-8a44f8e3-5657-49e6-b4b5-d00d342ca32a#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/corona-so-laesst-sich-die-impfbereitschaft-steigern](https://www.spiegel.de/gesundheit/diagnose/corona-so-laesst-sich-die-impfbereitschaft-steigern-a-3a8a8028-affc-4e9a-8120-e03b6523a2df#ref=rss)
-### emma
-
-* [https://www.spiegel.de/sport/tennis/us-open-siegerin-emma-raducanu-sensation-gewinnt](https://www.spiegel.de/sport/tennis/us-open-siegerin-emma-raducanu-sensation-gewinnt-a-77aacfeb-1ecf-45be-b61c-8b571db81efb#ref=rss)
-### raducanu
-
-* [https://www.spiegel.de/sport/tennis/us-open-siegerin-emma-raducanu-sensation-gewinnt](https://www.spiegel.de/sport/tennis/us-open-siegerin-emma-raducanu-sensation-gewinnt-a-77aacfeb-1ecf-45be-b61c-8b571db81efb#ref=rss)
-### sensation
-
-* [https://www.spiegel.de/sport/tennis/us-open-siegerin-emma-raducanu-sensation-gewinnt](https://www.spiegel.de/sport/tennis/us-open-siegerin-emma-raducanu-sensation-gewinnt-a-77aacfeb-1ecf-45be-b61c-8b571db81efb#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/sport/tennis/us-open-siegerin-emma-raducanu-sensation-gewinnt](https://www.spiegel.de/sport/tennis/us-open-siegerin-emma-raducanu-sensation-gewinnt-a-77aacfeb-1ecf-45be-b61c-8b571db81efb#ref=rss)
-* [https://www.spiegel.de/kultur/tv/the-activist-auf-cbs-politaktivismus-als-reality-tv-wettkampf](https://www.spiegel.de/kultur/tv/the-activist-auf-cbs-politaktivismus-als-reality-tv-wettkampf-a-f815d5a2-3da5-4ca0-8b3f-d8e6a625dff2#ref=rss)
-### jüngsten
-
-* [https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest](https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest-a-a0d12942-fa10-408b-9e6c-06af9791c623#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest](https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest-a-a0d12942-fa10-408b-9e6c-06af9791c623#ref=rss)
-* [https://www.spiegel.de/kultur/tv/the-activist-auf-cbs-politaktivismus-als-reality-tv-wettkampf](https://www.spiegel.de/kultur/tv/the-activist-auf-cbs-politaktivismus-als-reality-tv-wettkampf-a-f815d5a2-3da5-4ca0-8b3f-d8e6a625dff2#ref=rss)
-### erhebliche
-
-* [https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest](https://www.spiegel.de/wissenschaft/nordkorea-was-steckt-hinter-dem-juengsten-raketentest-a-a0d12942-fa10-408b-9e6c-06af9791c623#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-reiseveranstalter-muss-stornierte-klassenfahrt-ersetzen](https://www.spiegel.de/wirtschaft/unternehmen/corona-reiseveranstalter-muss-stornierte-klassenfahrt-ersetzen-a-d3e9d61d-014b-4fe4-b9d8-c7e2253063c8#ref=rss)
-### ladensterben
-
-* [https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv-a-e87736e0-1a09-4af9-9bb4-6def8d24d2e5#ref=rss)
-### arte
-
-* [https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv-a-e87736e0-1a09-4af9-9bb4-6def8d24d2e5#ref=rss)
-### rereportage
-
-* [https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv-a-e87736e0-1a09-4af9-9bb4-6def8d24d2e5#ref=rss)
-### tv
-
-* [https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/ladensterben-im-einzelhandel-der-letzte-ausverkauf-eine-arte-re-reportage-von-spiegel-tv-a-e87736e0-1a09-4af9-9bb4-6def8d24d2e5#ref=rss)
-### wahlkampf
-
-* [https://www.spiegel.de/wissenschaft/mensch/klima-und-bundestagswahl-entscheidende-klimawahl-bizarrer-wahlkampf](https://www.spiegel.de/wissenschaft/mensch/klima-und-bundestagswahl-entscheidende-klimawahl-bizarrer-wahlkampf-a-72b34186-5f41-4f5f-8620-5f882c330ba9#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/kultur/tv/oliver-koehr-und-maybrit-illner-moderation-beim-triell-in-ard-und-zdf](https://www.spiegel.de/kultur/tv/oliver-koehr-und-maybrit-illner-moderation-beim-triell-in-ard-und-zdf-a-9c0e04aa-bf56-4eae-b619-cfad9b09e0f5#ref=rss)
-### köhr
-
-* [https://www.spiegel.de/kultur/tv/oliver-koehr-und-maybrit-illner-moderation-beim-triell-in-ard-und-zdf](https://www.spiegel.de/kultur/tv/oliver-koehr-und-maybrit-illner-moderation-beim-triell-in-ard-und-zdf-a-9c0e04aa-bf56-4eae-b619-cfad9b09e0f5#ref=rss)
-### maybrit
-
-* [https://www.spiegel.de/kultur/tv/oliver-koehr-und-maybrit-illner-moderation-beim-triell-in-ard-und-zdf](https://www.spiegel.de/kultur/tv/oliver-koehr-und-maybrit-illner-moderation-beim-triell-in-ard-und-zdf-a-9c0e04aa-bf56-4eae-b619-cfad9b09e0f5#ref=rss)
-### illner
-
-* [https://www.spiegel.de/kultur/tv/oliver-koehr-und-maybrit-illner-moderation-beim-triell-in-ard-und-zdf](https://www.spiegel.de/kultur/tv/oliver-koehr-und-maybrit-illner-moderation-beim-triell-in-ard-und-zdf-a-9c0e04aa-bf56-4eae-b619-cfad9b09e0f5#ref=rss)
-### triell
-
-* [https://www.spiegel.de/kultur/tv/oliver-koehr-und-maybrit-illner-moderation-beim-triell-in-ard-und-zdf](https://www.spiegel.de/kultur/tv/oliver-koehr-und-maybrit-illner-moderation-beim-triell-in-ard-und-zdf-a-9c0e04aa-bf56-4eae-b619-cfad9b09e0f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen](https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen-a-f5879a56-7790-4e7f-a305-2159d9c0da87#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/kultur/tv/oliver-koehr-und-maybrit-illner-moderation-beim-triell-in-ard-und-zdf](https://www.spiegel.de/kultur/tv/oliver-koehr-und-maybrit-illner-moderation-beim-triell-in-ard-und-zdf-a-9c0e04aa-bf56-4eae-b619-cfad9b09e0f5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-will-zahlungs-app-von-alibaba-offenbar-zerschlagen](https://www.spiegel.de/wirtschaft/unternehmen/china-will-zahlungs-app-von-alibaba-offenbar-zerschlagen-a-b7f2c93a-7065-43e7-bb75-269e18ce0544#ref=rss)
-### umfrage
-
-* [https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen](https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen-a-f5879a56-7790-4e7f-a305-2159d9c0da87#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/corona-so-laesst-sich-die-impfbereitschaft-steigern](https://www.spiegel.de/gesundheit/diagnose/corona-so-laesst-sich-die-impfbereitschaft-steigern-a-3a8a8028-affc-4e9a-8120-e03b6523a2df#ref=rss)
-### armin
-
-* [https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen](https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen-a-f5879a56-7790-4e7f-a305-2159d9c0da87#ref=rss)
-### laschet
-
-* [https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen](https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen-a-f5879a56-7790-4e7f-a305-2159d9c0da87#ref=rss)
-### überzeugt
-
-* [https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen](https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen-a-f5879a56-7790-4e7f-a305-2159d9c0da87#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-uefa-verbietet-bob-marley-hommage-auf-trikot](https://www.spiegel.de/sport/fussball/ajax-amsterdam-uefa-verbietet-bob-marley-hommage-auf-trikot-a-9cf6c6d0-0f6b-4c7a-9746-812ca9aa58f0#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-nach-kontakt-mit-corona-infizierten-in-selbstisolation](https://www.spiegel.de/ausland/wladimir-putin-nach-kontakt-mit-corona-infizierten-in-selbstisolation-a-4fc98c43-dfe3-4df4-a7ab-f01797c2a596#ref=rss)
+* [https://www.spiegel.de/ausland/flutkatastrophe-eu-kommission-hat-angeblich-probleme-bei-finanzhilfen](https://www.spiegel.de/ausland/flutkatastrophe-eu-kommission-hat-angeblich-probleme-bei-finanzhilfen-a-e087cb56-6f25-498c-9535-65d44d2a7d6c#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen](https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen-a-f5879a56-7790-4e7f-a305-2159d9c0da87#ref=rss)
-* [https://www.spiegel.de/ausland/wto-direktorin-okonjo-iweala-ueber-corona-und-klima-krise-ich-erwarte-mehr-ehrgeiz](https://www.spiegel.de/ausland/wto-direktorin-okonjo-iweala-ueber-corona-und-klima-krise-ich-erwarte-mehr-ehrgeiz-a-3074515a-4957-4939-84a7-827191e5621f#ref=rss)
-### zuschauer
+* [https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt-a-e13f4e9f-cd20-43af-b89d-ec29c40f4f3c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/joerg-thadeusz-darf-bis-zur-bundestagswahl-nicht-mehr-im-rbb-auftreten](https://www.spiegel.de/kultur/tv/joerg-thadeusz-darf-bis-zur-bundestagswahl-nicht-mehr-im-rbb-auftreten-a-ff6ed863-141a-4eb5-84c8-4919026655b0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oekonom-fratzscher-haelt-12-euro-mindestlohn-fuer-notwendig](https://www.spiegel.de/wirtschaft/oekonom-fratzscher-haelt-12-euro-mindestlohn-fuer-notwendig-a-e6ab23d0-376e-4aec-aa26-67e7fa15f284#ref=rss)
+### weltweit
 
-* [https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen](https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen-a-f5879a56-7790-4e7f-a305-2159d9c0da87#ref=rss)
-### meisten
+* [https://www.spiegel.de/ausland/corona-millionaere-wie-pandemie-profiteure-sich-weltweit-an-oeffentlichen-geldern-bereichern](https://www.spiegel.de/ausland/corona-millionaere-wie-pandemie-profiteure-sich-weltweit-an-oeffentlichen-geldern-bereichern-a-28235f91-4190-44db-836b-4e0f960f30ec#ref=rss)
+* [https://www.spiegel.de/ausland/israel-riegelt-palaestinensergebiete-vor-jom-kippur-ab](https://www.spiegel.de/ausland/israel-riegelt-palaestinensergebiete-vor-jom-kippur-ab-a-20afc419-f87a-48f6-bb30-174b2b716874#ref=rss)
+### israel
 
-* [https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen](https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen-a-f5879a56-7790-4e7f-a305-2159d9c0da87#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-booster-impfung-laut-studie-fuer-die-allgemeinbevoelkerung-nicht-noetig](https://www.spiegel.de/wissenschaft/medizin/coronavirus-booster-impfung-laut-studie-fuer-die-allgemeinbevoelkerung-nicht-noetig-a-f2578db8-014a-4e02-8095-623e947c3e79#ref=rss)
-### zeigt
+* [https://www.spiegel.de/ausland/israel-riegelt-palaestinensergebiete-vor-jom-kippur-ab](https://www.spiegel.de/ausland/israel-riegelt-palaestinensergebiete-vor-jom-kippur-ab-a-20afc419-f87a-48f6-bb30-174b2b716874#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olymueische-spiele-judoka-fethi-nourine-wollte-nicht-gegen-israeli-kaempfen-10-jahre-sperre-fuer-algerier](https://www.spiegel.de/sport/olympia/olymueische-spiele-judoka-fethi-nourine-wollte-nicht-gegen-israeli-kaempfen-10-jahre-sperre-fuer-algerier-a-abaa0d44-d959-4b78-8caf-06a8303c6cd3#ref=rss)
+### manchmal
 
-* [https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen](https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen-a-f5879a56-7790-4e7f-a305-2159d9c0da87#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/corona-so-laesst-sich-die-impfbereitschaft-steigern](https://www.spiegel.de/gesundheit/diagnose/corona-so-laesst-sich-die-impfbereitschaft-steigern-a-3a8a8028-affc-4e9a-8120-e03b6523a2df#ref=rss)
-### ersten
+* [https://www.spiegel.de/karriere/azubischerze-welche-streiche-wurden-ihnen-gespielt](https://www.spiegel.de/karriere/azubischerze-welche-streiche-wurden-ihnen-gespielt-a-4220e1f7-fa0c-4df1-8a29-312f40a08bae#ref=rss)
+* [https://www.spiegel.de/start/rechte-und-pflichten-von-azubis-was-duerfen-bzw-muessen-auszubildende](https://www.spiegel.de/start/rechte-und-pflichten-von-azubis-was-duerfen-bzw-muessen-auszubildende-a-8f83bb18-1af3-47c2-9de1-319627be8b4f#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen](https://www.spiegel.de/politik/deutschland/umfrage-zum-tv-triell-armin-laschet-ueberzeugt-mehr-zuschauer-als-vor-zwei-wochen-a-f5879a56-7790-4e7f-a305-2159d9c0da87#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/homosexualitaet-bund-entschaedigt-rund-250-maenner-und-frauen-fuer-unrechts-urteile](https://www.spiegel.de/politik/deutschland/homosexualitaet-bund-entschaedigt-rund-250-maenner-und-frauen-fuer-unrechts-urteile-a-b544ff15-e2ea-4cd1-9353-7cab4c7b362d#ref=rss)
-### basis
+* [https://www.spiegel.de/wirtschaft/klima-extremwetter-hat-usa-2020-fast-100-milliarden-dollar-gekostet](https://www.spiegel.de/wirtschaft/klima-extremwetter-hat-usa-2020-fast-100-milliarden-dollar-gekostet-a-fec555ce-4c5e-46c1-9cd0-c84407ee924d#ref=rss)
+* [https://www.spiegel.de/stil/met-gala-2021-die-ausgefallensten-looks-der-stars-in-new-york](https://www.spiegel.de/stil/met-gala-2021-die-ausgefallensten-looks-der-stars-in-new-york-a-00ba28bc-fe73-4f26-9185-ada1682a03b4#ref=rss)
+### bericht
 
-* [https://www.spiegel.de/politik/deutschland/querdenker-partei-die-basis-droht-klage-von-gleichnamigem-gefluechteten-netzwerk](https://www.spiegel.de/politik/deutschland/querdenker-partei-die-basis-droht-klage-von-gleichnamigem-gefluechteten-netzwerk-a-376567af-87be-4637-a62b-f33ce30583f5#ref=rss)
-### droht
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-bericht-sieht-eklatante-missstaende-beim-thema-missbrauch-im-bistum-hildesheim](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-bericht-sieht-eklatante-missstaende-beim-thema-missbrauch-im-bistum-hildesheim-a-ef6073e5-f9ce-4084-9e3d-2ef4a365927d#ref=rss)
+### bistum
 
-* [https://www.spiegel.de/politik/deutschland/querdenker-partei-die-basis-droht-klage-von-gleichnamigem-gefluechteten-netzwerk](https://www.spiegel.de/politik/deutschland/querdenker-partei-die-basis-droht-klage-von-gleichnamigem-gefluechteten-netzwerk-a-376567af-87be-4637-a62b-f33ce30583f5#ref=rss)
-### fernsehtriell
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-bericht-sieht-eklatante-missstaende-beim-thema-missbrauch-im-bistum-hildesheim](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-bericht-sieht-eklatante-missstaende-beim-thema-missbrauch-im-bistum-hildesheim-a-ef6073e5-f9ce-4084-9e3d-2ef4a365927d#ref=rss)
+### hildesheim
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fernseh-triell-nordkorea-inflation](https://www.spiegel.de/politik/deutschland/news-des-tages-fernseh-triell-nordkorea-inflation-a-3afb451e-1de5-4044-9a2d-7654f2a9a9ce#ref=rss)
-### klassenfahrt
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-bericht-sieht-eklatante-missstaende-beim-thema-missbrauch-im-bistum-hildesheim](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-bericht-sieht-eklatante-missstaende-beim-thema-missbrauch-im-bistum-hildesheim-a-ef6073e5-f9ce-4084-9e3d-2ef4a365927d#ref=rss)
+### aufarbeitung
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-reiseveranstalter-muss-stornierte-klassenfahrt-ersetzen](https://www.spiegel.de/wirtschaft/unternehmen/corona-reiseveranstalter-muss-stornierte-klassenfahrt-ersetzen-a-d3e9d61d-014b-4fe4-b9d8-c7e2253063c8#ref=rss)
-### zufolge
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-bericht-sieht-eklatante-missstaende-beim-thema-missbrauch-im-bistum-hildesheim](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-bericht-sieht-eklatante-missstaende-beim-thema-missbrauch-im-bistum-hildesheim-a-ef6073e5-f9ce-4084-9e3d-2ef4a365927d#ref=rss)
+* [https://www.spiegel.de/ausland/lage-in-afghanistan-die-angst-vor-dem-winter](https://www.spiegel.de/ausland/lage-in-afghanistan-die-angst-vor-dem-winter-a-486684da-a7ed-4672-9666-23b5c1cf681e#ref=rss)
+### streamingdiensten
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-reiseveranstalter-muss-stornierte-klassenfahrt-ersetzen](https://www.spiegel.de/wirtschaft/unternehmen/corona-reiseveranstalter-muss-stornierte-klassenfahrt-ersetzen-a-d3e9d61d-014b-4fe4-b9d8-c7e2253063c8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-will-zahlungs-app-von-alibaba-offenbar-zerschlagen](https://www.spiegel.de/wirtschaft/unternehmen/china-will-zahlungs-app-von-alibaba-offenbar-zerschlagen-a-b7f2c93a-7065-43e7-bb75-269e18ce0544#ref=rss)
-### frauen
+* [https://www.spiegel.de/sport/fussball/champions-league-die-fussball-koenigsklasse-wandert-vom-tv-zu-den-streamingdiensten](https://www.spiegel.de/sport/fussball/champions-league-die-fussball-koenigsklasse-wandert-vom-tv-zu-den-streamingdiensten-a-e5e69780-f9d3-490d-9b10-35905c90769f#ref=rss)
+### kalifornien
 
-* [https://www.spiegel.de/politik/deutschland/homosexualitaet-bund-entschaedigt-rund-250-maenner-und-frauen-fuer-unrechts-urteile](https://www.spiegel.de/politik/deutschland/homosexualitaet-bund-entschaedigt-rund-250-maenner-und-frauen-fuer-unrechts-urteile-a-b544ff15-e2ea-4cd1-9353-7cab4c7b362d#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/corona-so-laesst-sich-die-impfbereitschaft-steigern](https://www.spiegel.de/gesundheit/diagnose/corona-so-laesst-sich-die-impfbereitschaft-steigern-a-3a8a8028-affc-4e9a-8120-e03b6523a2df#ref=rss)
-### lina
+* [https://www.spiegel.de/ausland/joe-biden-reist-zur-recall-wahl-nach-kalifornien-wichtiger-test-fuer-die-demokraten](https://www.spiegel.de/ausland/joe-biden-reist-zur-recall-wahl-nach-kalifornien-wichtiger-test-fuer-die-demokraten-a-b74a85ed-d21a-402d-bc04-a89f9df9605c#ref=rss)
+### demokraten
 
-* [https://www.spiegel.de/kultur/polizeiruf-110-lina-beckmann-wird-neue-kommissarin-in-rostock](https://www.spiegel.de/kultur/polizeiruf-110-lina-beckmann-wird-neue-kommissarin-in-rostock-a-fa85f38e-7297-417d-b177-56b7d52592a7#ref=rss)
-### beckmann
+* [https://www.spiegel.de/ausland/joe-biden-reist-zur-recall-wahl-nach-kalifornien-wichtiger-test-fuer-die-demokraten](https://www.spiegel.de/ausland/joe-biden-reist-zur-recall-wahl-nach-kalifornien-wichtiger-test-fuer-die-demokraten-a-b74a85ed-d21a-402d-bc04-a89f9df9605c#ref=rss)
+### uspräsident
 
-* [https://www.spiegel.de/kultur/polizeiruf-110-lina-beckmann-wird-neue-kommissarin-in-rostock](https://www.spiegel.de/kultur/polizeiruf-110-lina-beckmann-wird-neue-kommissarin-in-rostock-a-fa85f38e-7297-417d-b177-56b7d52592a7#ref=rss)
-### kommissarin
+* [https://www.spiegel.de/ausland/joe-biden-reist-zur-recall-wahl-nach-kalifornien-wichtiger-test-fuer-die-demokraten](https://www.spiegel.de/ausland/joe-biden-reist-zur-recall-wahl-nach-kalifornien-wichtiger-test-fuer-die-demokraten-a-b74a85ed-d21a-402d-bc04-a89f9df9605c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klima-extremwetter-hat-usa-2020-fast-100-milliarden-dollar-gekostet](https://www.spiegel.de/wirtschaft/klima-extremwetter-hat-usa-2020-fast-100-milliarden-dollar-gekostet-a-fec555ce-4c5e-46c1-9cd0-c84407ee924d#ref=rss)
+### bundestagswahl
 
-* [https://www.spiegel.de/kultur/polizeiruf-110-lina-beckmann-wird-neue-kommissarin-in-rostock](https://www.spiegel.de/kultur/polizeiruf-110-lina-beckmann-wird-neue-kommissarin-in-rostock-a-fa85f38e-7297-417d-b177-56b7d52592a7#ref=rss)
-### impfstoffpatente
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-in-sachsen-haengt-die-gruenen-plakate-duerfen-bleiben](https://www.spiegel.de/politik/deutschland/bundestagswahl-in-sachsen-haengt-die-gruenen-plakate-duerfen-bleiben-a-9d892764-feaa-4e76-9473-d2c3e1b63790#ref=rss)
+* [https://www.spiegel.de/kultur/tv/joerg-thadeusz-darf-bis-zur-bundestagswahl-nicht-mehr-im-rbb-auftreten](https://www.spiegel.de/kultur/tv/joerg-thadeusz-darf-bis-zur-bundestagswahl-nicht-mehr-im-rbb-auftreten-a-ff6ed863-141a-4eb5-84c8-4919026655b0#ref=rss)
+### sachsen
 
-* [https://www.spiegel.de/wirtschaft/soziales/impfstoffpatente-ex-praesidenten-und-nobelpreistraeger-appellieren-an-kanzlerkandidaten](https://www.spiegel.de/wirtschaft/soziales/impfstoffpatente-ex-praesidenten-und-nobelpreistraeger-appellieren-an-kanzlerkandidaten-a-fc72f259-0575-4223-b17e-6018b35e8cd0#ref=rss)
-### kanzlerkandidaten
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-in-sachsen-haengt-die-gruenen-plakate-duerfen-bleiben](https://www.spiegel.de/politik/deutschland/bundestagswahl-in-sachsen-haengt-die-gruenen-plakate-duerfen-bleiben-a-9d892764-feaa-4e76-9473-d2c3e1b63790#ref=rss)
+### bleiben
 
-* [https://www.spiegel.de/wirtschaft/soziales/impfstoffpatente-ex-praesidenten-und-nobelpreistraeger-appellieren-an-kanzlerkandidaten](https://www.spiegel.de/wirtschaft/soziales/impfstoffpatente-ex-praesidenten-und-nobelpreistraeger-appellieren-an-kanzlerkandidaten-a-fc72f259-0575-4223-b17e-6018b35e8cd0#ref=rss)
-### viele
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-in-sachsen-haengt-die-gruenen-plakate-duerfen-bleiben](https://www.spiegel.de/politik/deutschland/bundestagswahl-in-sachsen-haengt-die-gruenen-plakate-duerfen-bleiben-a-9d892764-feaa-4e76-9473-d2c3e1b63790#ref=rss)
+### stadt
 
-* [https://www.spiegel.de/gesundheit/diagnose/corona-so-laesst-sich-die-impfbereitschaft-steigern](https://www.spiegel.de/gesundheit/diagnose/corona-so-laesst-sich-die-impfbereitschaft-steigern-a-3a8a8028-affc-4e9a-8120-e03b6523a2df#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-deutschland-stellt-aufnahmezusagen-fuer-2000-medienvertreter-und-kulturschaffende-aus](https://www.spiegel.de/ausland/afghanistan-deutschland-stellt-aufnahmezusagen-fuer-2000-medienvertreter-und-kulturschaffende-aus-a-5d7ab285-0fcd-4b9f-b49d-ef0e226921c3#ref=rss)
-### dfb
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-in-sachsen-haengt-die-gruenen-plakate-duerfen-bleiben](https://www.spiegel.de/politik/deutschland/bundestagswahl-in-sachsen-haengt-die-gruenen-plakate-duerfen-bleiben-a-9d892764-feaa-4e76-9473-d2c3e1b63790#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-tausende-demonstrieren-in-kandahar-gegen-die-taliban](https://www.spiegel.de/ausland/afghanistan-tausende-demonstrieren-in-kandahar-gegen-die-taliban-a-ed73b2c0-21e5-4de2-b220-68a60401bcf2#ref=rss)
+### wenig
 
-* [https://www.spiegel.de/sport/fussball/dfb-sperrt-dennis-erdmann-vom-1-fc-saarbruecken-wegen-rassismus-fuer-acht-wochen](https://www.spiegel.de/sport/fussball/dfb-sperrt-dennis-erdmann-vom-1-fc-saarbruecken-wegen-rassismus-fuer-acht-wochen-a-b3d8d7e0-aa48-4a8a-88e0-27acadb62263#ref=rss)
-### dennis
+* [https://www.spiegel.de/wirtschaft/unternehmen/google-suedkoreas-kartellbehoerde-verhaengt-millionen-busse](https://www.spiegel.de/wirtschaft/unternehmen/google-suedkoreas-kartellbehoerde-verhaengt-millionen-busse-a-fade3906-aa25-470c-9c83-252687acbd9f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oekonom-fratzscher-haelt-12-euro-mindestlohn-fuer-notwendig](https://www.spiegel.de/wirtschaft/oekonom-fratzscher-haelt-12-euro-mindestlohn-fuer-notwendig-a-e6ab23d0-376e-4aec-aa26-67e7fa15f284#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/sport/fussball/dfb-sperrt-dennis-erdmann-vom-1-fc-saarbruecken-wegen-rassismus-fuer-acht-wochen](https://www.spiegel.de/sport/fussball/dfb-sperrt-dennis-erdmann-vom-1-fc-saarbruecken-wegen-rassismus-fuer-acht-wochen-a-b3d8d7e0-aa48-4a8a-88e0-27acadb62263#ref=rss)
-### erdmann
-
-* [https://www.spiegel.de/sport/fussball/dfb-sperrt-dennis-erdmann-vom-1-fc-saarbruecken-wegen-rassismus-fuer-acht-wochen](https://www.spiegel.de/sport/fussball/dfb-sperrt-dennis-erdmann-vom-1-fc-saarbruecken-wegen-rassismus-fuer-acht-wochen-a-b3d8d7e0-aa48-4a8a-88e0-27acadb62263#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/sport/fussball/dfb-sperrt-dennis-erdmann-vom-1-fc-saarbruecken-wegen-rassismus-fuer-acht-wochen](https://www.spiegel.de/sport/fussball/dfb-sperrt-dennis-erdmann-vom-1-fc-saarbruecken-wegen-rassismus-fuer-acht-wochen-a-b3d8d7e0-aa48-4a8a-88e0-27acadb62263#ref=rss)
-* [https://www.spiegel.de/ausland/wto-direktorin-okonjo-iweala-ueber-corona-und-klima-krise-ich-erwarte-mehr-ehrgeiz](https://www.spiegel.de/ausland/wto-direktorin-okonjo-iweala-ueber-corona-und-klima-krise-ich-erwarte-mehr-ehrgeiz-a-3074515a-4957-4939-84a7-827191e5621f#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-booster-impfung-laut-studie-fuer-die-allgemeinbevoelkerung-nicht-noetig](https://www.spiegel.de/wissenschaft/medizin/coronavirus-booster-impfung-laut-studie-fuer-die-allgemeinbevoelkerung-nicht-noetig-a-f2578db8-014a-4e02-8095-623e947c3e79#ref=rss)
-### enkelin
-
-* [https://www.spiegel.de/panorama/zwickau-81-jaehrige-in-seniorenheim-getoetet-enkelin-gesteht-tat](https://www.spiegel.de/panorama/zwickau-81-jaehrige-in-seniorenheim-getoetet-enkelin-gesteht-tat-a-b18bfd19-dbdb-4c2e-92ce-0a267e92bd63#ref=rss)
-### tat
-
-* [https://www.spiegel.de/panorama/zwickau-81-jaehrige-in-seniorenheim-getoetet-enkelin-gesteht-tat](https://www.spiegel.de/panorama/zwickau-81-jaehrige-in-seniorenheim-getoetet-enkelin-gesteht-tat-a-b18bfd19-dbdb-4c2e-92ce-0a267e92bd63#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/google-suedkoreas-kartellbehoerde-verhaengt-millionen-busse](https://www.spiegel.de/wirtschaft/unternehmen/google-suedkoreas-kartellbehoerde-verhaengt-millionen-busse-a-fade3906-aa25-470c-9c83-252687acbd9f#ref=rss)
+* [https://www.spiegel.de/ausland/corona-millionaere-wie-pandemie-profiteure-sich-weltweit-an-oeffentlichen-geldern-bereichern](https://www.spiegel.de/ausland/corona-millionaere-wie-pandemie-profiteure-sich-weltweit-an-oeffentlichen-geldern-bereichern-a-28235f91-4190-44db-836b-4e0f960f30ec#ref=rss)
 ### afghanistan
 
-* [https://www.spiegel.de/ausland/afghanistan-deutschland-stellt-aufnahmezusagen-fuer-2000-medienvertreter-und-kulturschaffende-aus](https://www.spiegel.de/ausland/afghanistan-deutschland-stellt-aufnahmezusagen-fuer-2000-medienvertreter-und-kulturschaffende-aus-a-5d7ab285-0fcd-4b9f-b49d-ef0e226921c3#ref=rss)
-### aufnahmezusagen
+* [https://www.spiegel.de/ausland/afghanistan-tausende-demonstrieren-in-kandahar-gegen-die-taliban](https://www.spiegel.de/ausland/afghanistan-tausende-demonstrieren-in-kandahar-gegen-die-taliban-a-ed73b2c0-21e5-4de2-b220-68a60401bcf2#ref=rss)
+* [https://www.spiegel.de/ausland/lage-in-afghanistan-die-angst-vor-dem-winter](https://www.spiegel.de/ausland/lage-in-afghanistan-die-angst-vor-dem-winter-a-486684da-a7ed-4672-9666-23b5c1cf681e#ref=rss)
+### tausende
 
-* [https://www.spiegel.de/ausland/afghanistan-deutschland-stellt-aufnahmezusagen-fuer-2000-medienvertreter-und-kulturschaffende-aus](https://www.spiegel.de/ausland/afghanistan-deutschland-stellt-aufnahmezusagen-fuer-2000-medienvertreter-und-kulturschaffende-aus-a-5d7ab285-0fcd-4b9f-b49d-ef0e226921c3#ref=rss)
-### dänemark
+* [https://www.spiegel.de/ausland/afghanistan-tausende-demonstrieren-in-kandahar-gegen-die-taliban](https://www.spiegel.de/ausland/afghanistan-tausende-demonstrieren-in-kandahar-gegen-die-taliban-a-ed73b2c0-21e5-4de2-b220-68a60401bcf2#ref=rss)
+* [https://www.spiegel.de/karriere/azubischerze-welche-streiche-wurden-ihnen-gespielt](https://www.spiegel.de/karriere/azubischerze-welche-streiche-wurden-ihnen-gespielt-a-4220e1f7-fa0c-4df1-8a29-312f40a08bae#ref=rss)
+### kandahar
 
-* [https://www.spiegel.de/ausland/ende-der-corona-regeln-in-daenemark-rueckkehr-zur-normalitaet](https://www.spiegel.de/ausland/ende-der-corona-regeln-in-daenemark-rueckkehr-zur-normalitaet-a-e3e958b5-327c-4e86-8341-53c448fdd2cd#ref=rss)
-### normalität
+* [https://www.spiegel.de/ausland/afghanistan-tausende-demonstrieren-in-kandahar-gegen-die-taliban](https://www.spiegel.de/ausland/afghanistan-tausende-demonstrieren-in-kandahar-gegen-die-taliban-a-ed73b2c0-21e5-4de2-b220-68a60401bcf2#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/ausland/ende-der-corona-regeln-in-daenemark-rueckkehr-zur-normalitaet](https://www.spiegel.de/ausland/ende-der-corona-regeln-in-daenemark-rueckkehr-zur-normalitaet-a-e3e958b5-327c-4e86-8341-53c448fdd2cd#ref=rss)
-### nigeria
+* [https://www.spiegel.de/ausland/afghanistan-tausende-demonstrieren-in-kandahar-gegen-die-taliban](https://www.spiegel.de/ausland/afghanistan-tausende-demonstrieren-in-kandahar-gegen-die-taliban-a-ed73b2c0-21e5-4de2-b220-68a60401bcf2#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-nach-kontakt-mit-corona-infizierten-in-selbstisolation](https://www.spiegel.de/ausland/wladimir-putin-nach-kontakt-mit-corona-infizierten-in-selbstisolation-a-4fc98c43-dfe3-4df4-a7ab-f01797c2a596#ref=rss)
+### klimakrise
 
-* [https://www.spiegel.de/ausland/nigeria-angreifer-befreien-240-insassen-aus-gefaengnis](https://www.spiegel.de/ausland/nigeria-angreifer-befreien-240-insassen-aus-gefaengnis-a-59b47402-e384-458c-9980-832f107dadf1#ref=rss)
-### insassen
+* [https://www.spiegel.de/wissenschaft/natur/wetter-und-klima-muessen-wettervorhersagen-die-klimakrise-thematisieren](https://www.spiegel.de/wissenschaft/natur/wetter-und-klima-muessen-wettervorhersagen-die-klimakrise-thematisieren-a-6abfbd24-0057-4fac-a26a-c3a09969500b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimakrise-junge-menschen-sind-laut-einer-grossen-studie-stark-belastet](https://www.spiegel.de/wissenschaft/klimakrise-junge-menschen-sind-laut-einer-grossen-studie-stark-belastet-a-03041604-88b9-4138-a68c-4b8bc07642c4#ref=rss)
+### winter
 
-* [https://www.spiegel.de/ausland/nigeria-angreifer-befreien-240-insassen-aus-gefaengnis](https://www.spiegel.de/ausland/nigeria-angreifer-befreien-240-insassen-aus-gefaengnis-a-59b47402-e384-458c-9980-832f107dadf1#ref=rss)
-### alipay
+* [https://www.spiegel.de/ausland/lage-in-afghanistan-die-angst-vor-dem-winter](https://www.spiegel.de/ausland/lage-in-afghanistan-die-angst-vor-dem-winter-a-486684da-a7ed-4672-9666-23b5c1cf681e#ref=rss)
+### ajax
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-will-zahlungs-app-von-alibaba-offenbar-zerschlagen](https://www.spiegel.de/wirtschaft/unternehmen/china-will-zahlungs-app-von-alibaba-offenbar-zerschlagen-a-b7f2c93a-7065-43e7-bb75-269e18ce0544#ref=rss)
-### china
+* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-uefa-verbietet-bob-marley-hommage-auf-trikot](https://www.spiegel.de/sport/fussball/ajax-amsterdam-uefa-verbietet-bob-marley-hommage-auf-trikot-a-9cf6c6d0-0f6b-4c7a-9746-812ca9aa58f0#ref=rss)
+### uefa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-will-zahlungs-app-von-alibaba-offenbar-zerschlagen](https://www.spiegel.de/wirtschaft/unternehmen/china-will-zahlungs-app-von-alibaba-offenbar-zerschlagen-a-b7f2c93a-7065-43e7-bb75-269e18ce0544#ref=rss)
-### alibaba
+* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-uefa-verbietet-bob-marley-hommage-auf-trikot](https://www.spiegel.de/sport/fussball/ajax-amsterdam-uefa-verbietet-bob-marley-hommage-auf-trikot-a-9cf6c6d0-0f6b-4c7a-9746-812ca9aa58f0#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-will-zahlungs-app-von-alibaba-offenbar-zerschlagen](https://www.spiegel.de/wirtschaft/unternehmen/china-will-zahlungs-app-von-alibaba-offenbar-zerschlagen-a-b7f2c93a-7065-43e7-bb75-269e18ce0544#ref=rss)
-### the
+* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-uefa-verbietet-bob-marley-hommage-auf-trikot](https://www.spiegel.de/sport/fussball/ajax-amsterdam-uefa-verbietet-bob-marley-hommage-auf-trikot-a-9cf6c6d0-0f6b-4c7a-9746-812ca9aa58f0#ref=rss)
+* [https://www.spiegel.de/karriere/azubischerze-welche-streiche-wurden-ihnen-gespielt](https://www.spiegel.de/karriere/azubischerze-welche-streiche-wurden-ihnen-gespielt-a-4220e1f7-fa0c-4df1-8a29-312f40a08bae#ref=rss)
+### oldenburg
 
-* [https://www.spiegel.de/kultur/tv/the-activist-auf-cbs-politaktivismus-als-reality-tv-wettkampf](https://www.spiegel.de/kultur/tv/the-activist-auf-cbs-politaktivismus-als-reality-tv-wettkampf-a-f815d5a2-3da5-4ca0-8b3f-d8e6a625dff2#ref=rss)
-### activist
+* [https://www.spiegel.de/panorama/gesellschaft/oldenburg-und-olsberg-braende-in-zwei-feuerwachen-verursachen-hohe-schaeden](https://www.spiegel.de/panorama/gesellschaft/oldenburg-und-olsberg-braende-in-zwei-feuerwachen-verursachen-hohe-schaeden-a-806f23cf-d448-4a47-9509-2cb4bebc1fb6#ref=rss)
+### olsberg
 
-* [https://www.spiegel.de/kultur/tv/the-activist-auf-cbs-politaktivismus-als-reality-tv-wettkampf](https://www.spiegel.de/kultur/tv/the-activist-auf-cbs-politaktivismus-als-reality-tv-wettkampf-a-f815d5a2-3da5-4ca0-8b3f-d8e6a625dff2#ref=rss)
-### aktivisten
+* [https://www.spiegel.de/panorama/gesellschaft/oldenburg-und-olsberg-braende-in-zwei-feuerwachen-verursachen-hohe-schaeden](https://www.spiegel.de/panorama/gesellschaft/oldenburg-und-olsberg-braende-in-zwei-feuerwachen-verursachen-hohe-schaeden-a-806f23cf-d448-4a47-9509-2cb4bebc1fb6#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/kultur/tv/the-activist-auf-cbs-politaktivismus-als-reality-tv-wettkampf](https://www.spiegel.de/kultur/tv/the-activist-auf-cbs-politaktivismus-als-reality-tv-wettkampf-a-f815d5a2-3da5-4ca0-8b3f-d8e6a625dff2#ref=rss)
-### okonjoiweala
+* [https://www.spiegel.de/panorama/gesellschaft/oldenburg-und-olsberg-braende-in-zwei-feuerwachen-verursachen-hohe-schaeden](https://www.spiegel.de/panorama/gesellschaft/oldenburg-und-olsberg-braende-in-zwei-feuerwachen-verursachen-hohe-schaeden-a-806f23cf-d448-4a47-9509-2cb4bebc1fb6#ref=rss)
+### feuerwachen
 
-* [https://www.spiegel.de/ausland/wto-direktorin-okonjo-iweala-ueber-corona-und-klima-krise-ich-erwarte-mehr-ehrgeiz](https://www.spiegel.de/ausland/wto-direktorin-okonjo-iweala-ueber-corona-und-klima-krise-ich-erwarte-mehr-ehrgeiz-a-3074515a-4957-4939-84a7-827191e5621f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/oldenburg-und-olsberg-braende-in-zwei-feuerwachen-verursachen-hohe-schaeden](https://www.spiegel.de/panorama/gesellschaft/oldenburg-und-olsberg-braende-in-zwei-feuerwachen-verursachen-hohe-schaeden-a-806f23cf-d448-4a47-9509-2cb4bebc1fb6#ref=rss)
+### simone
+
+* [https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt-a-e13f4e9f-cd20-43af-b89d-ec29c40f4f3c#ref=rss)
+### thomalla
+
+* [https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt-a-e13f4e9f-cd20-43af-b89d-ec29c40f4f3c#ref=rss)
+### silvio
+
+* [https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt-a-e13f4e9f-cd20-43af-b89d-ec29c40f4f3c#ref=rss)
+### heinevetter
+
+* [https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt-a-e13f4e9f-cd20-43af-b89d-ec29c40f4f3c#ref=rss)
+### trennung
+
+* [https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt-a-e13f4e9f-cd20-43af-b89d-ec29c40f4f3c#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt-a-e13f4e9f-cd20-43af-b89d-ec29c40f4f3c#ref=rss)
+### per
+
+* [https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/simone-thomalla-und-silvio-heinevetter-haben-sich-getrennt-a-e13f4e9f-cd20-43af-b89d-ec29c40f4f3c#ref=rss)
+* [https://www.spiegel.de/familie/feminismus-warum-ich-als-feministin-alte-weisse-maenner-liebe](https://www.spiegel.de/familie/feminismus-warum-ich-als-feministin-alte-weisse-maenner-liebe-a-3a0a1076-043d-42f8-9e53-4aeb8456f7e7#ref=rss)
+### flug
+
+* [https://www.spiegel.de/panorama/flug-von-mallorca-nach-koeln-raucher-loest-feueralarm-im-flieger-aus](https://www.spiegel.de/panorama/flug-von-mallorca-nach-koeln-raucher-loest-feueralarm-im-flieger-aus-a-10222b8d-ac40-4f13-8adf-c99560594f1f#ref=rss)
+### mallorca
+
+* [https://www.spiegel.de/panorama/flug-von-mallorca-nach-koeln-raucher-loest-feueralarm-im-flieger-aus](https://www.spiegel.de/panorama/flug-von-mallorca-nach-koeln-raucher-loest-feueralarm-im-flieger-aus-a-10222b8d-ac40-4f13-8adf-c99560594f1f#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/flug-von-mallorca-nach-koeln-raucher-loest-feueralarm-im-flieger-aus](https://www.spiegel.de/panorama/flug-von-mallorca-nach-koeln-raucher-loest-feueralarm-im-flieger-aus-a-10222b8d-ac40-4f13-8adf-c99560594f1f#ref=rss)
+### feueralarm
+
+* [https://www.spiegel.de/panorama/flug-von-mallorca-nach-koeln-raucher-loest-feueralarm-im-flieger-aus](https://www.spiegel.de/panorama/flug-von-mallorca-nach-koeln-raucher-loest-feueralarm-im-flieger-aus-a-10222b8d-ac40-4f13-8adf-c99560594f1f#ref=rss)
+### jörg
+
+* [https://www.spiegel.de/kultur/tv/joerg-thadeusz-darf-bis-zur-bundestagswahl-nicht-mehr-im-rbb-auftreten](https://www.spiegel.de/kultur/tv/joerg-thadeusz-darf-bis-zur-bundestagswahl-nicht-mehr-im-rbb-auftreten-a-ff6ed863-141a-4eb5-84c8-4919026655b0#ref=rss)
+### thadeusz
+
+* [https://www.spiegel.de/kultur/tv/joerg-thadeusz-darf-bis-zur-bundestagswahl-nicht-mehr-im-rbb-auftreten](https://www.spiegel.de/kultur/tv/joerg-thadeusz-darf-bis-zur-bundestagswahl-nicht-mehr-im-rbb-auftreten-a-ff6ed863-141a-4eb5-84c8-4919026655b0#ref=rss)
+### rbb
+
+* [https://www.spiegel.de/kultur/tv/joerg-thadeusz-darf-bis-zur-bundestagswahl-nicht-mehr-im-rbb-auftreten](https://www.spiegel.de/kultur/tv/joerg-thadeusz-darf-bis-zur-bundestagswahl-nicht-mehr-im-rbb-auftreten-a-ff6ed863-141a-4eb5-84c8-4919026655b0#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/wladimir-putin-nach-kontakt-mit-corona-infizierten-in-selbstisolation](https://www.spiegel.de/ausland/wladimir-putin-nach-kontakt-mit-corona-infizierten-in-selbstisolation-a-4fc98c43-dfe3-4df4-a7ab-f01797c2a596#ref=rss)
+### evergrande
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-immobilienkonzern-warnt-erneut-vor-liquiditaetsengpaessen](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-immobilienkonzern-warnt-erneut-vor-liquiditaetsengpaessen-a-d13ee4a7-dfb6-41f6-a773-53977f970c0a#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/flutkatastrophe-eu-kommission-hat-angeblich-probleme-bei-finanzhilfen](https://www.spiegel.de/ausland/flutkatastrophe-eu-kommission-hat-angeblich-probleme-bei-finanzhilfen-a-e087cb56-6f25-498c-9535-65d44d2a7d6c#ref=rss)
+* [https://www.spiegel.de/ausland/nordirland-protokoll-london-droht-mit-notfall-klausel-im-brexit-vertrag](https://www.spiegel.de/ausland/nordirland-protokoll-london-droht-mit-notfall-klausel-im-brexit-vertrag-a-a8bf60e9-a1c8-4e5c-bc29-db2bdf803790#ref=rss)
+### fast
+
+* [https://www.spiegel.de/ausland/flutkatastrophe-eu-kommission-hat-angeblich-probleme-bei-finanzhilfen](https://www.spiegel.de/ausland/flutkatastrophe-eu-kommission-hat-angeblich-probleme-bei-finanzhilfen-a-e087cb56-6f25-498c-9535-65d44d2a7d6c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/klima-extremwetter-hat-usa-2020-fast-100-milliarden-dollar-gekostet](https://www.spiegel.de/wirtschaft/klima-extremwetter-hat-usa-2020-fast-100-milliarden-dollar-gekostet-a-fec555ce-4c5e-46c1-9cd0-c84407ee924d#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-gegen-bayern-muenchen-geschrumpfte-riesen](https://www.spiegel.de/sport/fussball/champions-league-fc-barcelona-gegen-bayern-muenchen-geschrumpfte-riesen-a-37d1a7c2-c26e-48fd-93dc-e7aef93f5fbd#ref=rss)
+### ich
+
+* [https://www.spiegel.de/familie/feminismus-warum-ich-als-feministin-alte-weisse-maenner-liebe](https://www.spiegel.de/familie/feminismus-warum-ich-als-feministin-alte-weisse-maenner-liebe-a-3a0a1076-043d-42f8-9e53-4aeb8456f7e7#ref=rss)
+### alte
+
+* [https://www.spiegel.de/familie/feminismus-warum-ich-als-feministin-alte-weisse-maenner-liebe](https://www.spiegel.de/familie/feminismus-warum-ich-als-feministin-alte-weisse-maenner-liebe-a-3a0a1076-043d-42f8-9e53-4aeb8456f7e7#ref=rss)
+### weiße
+
+* [https://www.spiegel.de/familie/feminismus-warum-ich-als-feministin-alte-weisse-maenner-liebe](https://www.spiegel.de/familie/feminismus-warum-ich-als-feministin-alte-weisse-maenner-liebe-a-3a0a1076-043d-42f8-9e53-4aeb8456f7e7#ref=rss)
+### männer
+
+* [https://www.spiegel.de/familie/feminismus-warum-ich-als-feministin-alte-weisse-maenner-liebe](https://www.spiegel.de/familie/feminismus-warum-ich-als-feministin-alte-weisse-maenner-liebe-a-3a0a1076-043d-42f8-9e53-4aeb8456f7e7#ref=rss)
+### privilegien
+
+* [https://www.spiegel.de/familie/feminismus-warum-ich-als-feministin-alte-weisse-maenner-liebe](https://www.spiegel.de/familie/feminismus-warum-ich-als-feministin-alte-weisse-maenner-liebe-a-3a0a1076-043d-42f8-9e53-4aeb8456f7e7#ref=rss)
+* [https://www.spiegel.de/start/rechte-und-pflichten-von-azubis-was-duerfen-bzw-muessen-auszubildende](https://www.spiegel.de/start/rechte-und-pflichten-von-azubis-was-duerfen-bzw-muessen-auszubildende-a-8f83bb18-1af3-47c2-9de1-319627be8b4f#ref=rss)
+### jom
+
+* [https://www.spiegel.de/ausland/israel-riegelt-palaestinensergebiete-vor-jom-kippur-ab](https://www.spiegel.de/ausland/israel-riegelt-palaestinensergebiete-vor-jom-kippur-ab-a-20afc419-f87a-48f6-bb30-174b2b716874#ref=rss)
+### kippur
+
+* [https://www.spiegel.de/ausland/israel-riegelt-palaestinensergebiete-vor-jom-kippur-ab](https://www.spiegel.de/ausland/israel-riegelt-palaestinensergebiete-vor-jom-kippur-ab-a-20afc419-f87a-48f6-bb30-174b2b716874#ref=rss)
+### neuseeland
+
+* [https://www.spiegel.de/ausland/neuseeland-maori-partei-will-landesnamen-in-aotearoa-aendern](https://www.spiegel.de/ausland/neuseeland-maori-partei-will-landesnamen-in-aotearoa-aendern-a-eceeaac5-f848-466a-ae55-4a7d5c5875f0#ref=rss)
+### aotearoa
+
+* [https://www.spiegel.de/ausland/neuseeland-maori-partei-will-landesnamen-in-aotearoa-aendern](https://www.spiegel.de/ausland/neuseeland-maori-partei-will-landesnamen-in-aotearoa-aendern-a-eceeaac5-f848-466a-ae55-4a7d5c5875f0#ref=rss)
+### met
+
+* [https://www.spiegel.de/stil/met-gala-2021-die-ausgefallensten-looks-der-stars-in-new-york](https://www.spiegel.de/stil/met-gala-2021-die-ausgefallensten-looks-der-stars-in-new-york-a-00ba28bc-fe73-4f26-9185-ada1682a03b4#ref=rss)
+### gala
+
+* [https://www.spiegel.de/stil/met-gala-2021-die-ausgefallensten-looks-der-stars-in-new-york](https://www.spiegel.de/stil/met-gala-2021-die-ausgefallensten-looks-der-stars-in-new-york-a-00ba28bc-fe73-4f26-9185-ada1682a03b4#ref=rss)
+### new
+
+* [https://www.spiegel.de/stil/met-gala-2021-die-ausgefallensten-looks-der-stars-in-new-york](https://www.spiegel.de/stil/met-gala-2021-die-ausgefallensten-looks-der-stars-in-new-york-a-00ba28bc-fe73-4f26-9185-ada1682a03b4#ref=rss)
+### york
+
+* [https://www.spiegel.de/stil/met-gala-2021-die-ausgefallensten-looks-der-stars-in-new-york](https://www.spiegel.de/stil/met-gala-2021-die-ausgefallensten-looks-der-stars-in-new-york-a-00ba28bc-fe73-4f26-9185-ada1682a03b4#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/stil/met-gala-2021-die-ausgefallensten-looks-der-stars-in-new-york](https://www.spiegel.de/stil/met-gala-2021-die-ausgefallensten-looks-der-stars-in-new-york-a-00ba28bc-fe73-4f26-9185-ada1682a03b4#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olymueische-spiele-judoka-fethi-nourine-wollte-nicht-gegen-israeli-kaempfen-10-jahre-sperre-fuer-algerier](https://www.spiegel.de/sport/olympia/olymueische-spiele-judoka-fethi-nourine-wollte-nicht-gegen-israeli-kaempfen-10-jahre-sperre-fuer-algerier-a-abaa0d44-d959-4b78-8caf-06a8303c6cd3#ref=rss)
+### fratzscher
+
+* [https://www.spiegel.de/wirtschaft/oekonom-fratzscher-haelt-12-euro-mindestlohn-fuer-notwendig](https://www.spiegel.de/wirtschaft/oekonom-fratzscher-haelt-12-euro-mindestlohn-fuer-notwendig-a-e6ab23d0-376e-4aec-aa26-67e7fa15f284#ref=rss)
+### zwölf
+
+* [https://www.spiegel.de/wirtschaft/oekonom-fratzscher-haelt-12-euro-mindestlohn-fuer-notwendig](https://www.spiegel.de/wirtschaft/oekonom-fratzscher-haelt-12-euro-mindestlohn-fuer-notwendig-a-e6ab23d0-376e-4aec-aa26-67e7fa15f284#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/oekonom-fratzscher-haelt-12-euro-mindestlohn-fuer-notwendig](https://www.spiegel.de/wirtschaft/oekonom-fratzscher-haelt-12-euro-mindestlohn-fuer-notwendig-a-e6ab23d0-376e-4aec-aa26-67e7fa15f284#ref=rss)
+### mindestlohn
+
+* [https://www.spiegel.de/wirtschaft/oekonom-fratzscher-haelt-12-euro-mindestlohn-fuer-notwendig](https://www.spiegel.de/wirtschaft/oekonom-fratzscher-haelt-12-euro-mindestlohn-fuer-notwendig-a-e6ab23d0-376e-4aec-aa26-67e7fa15f284#ref=rss)
+### judoka
+
+* [https://www.spiegel.de/sport/olympia/olymueische-spiele-judoka-fethi-nourine-wollte-nicht-gegen-israeli-kaempfen-10-jahre-sperre-fuer-algerier](https://www.spiegel.de/sport/olympia/olymueische-spiele-judoka-fethi-nourine-wollte-nicht-gegen-israeli-kaempfen-10-jahre-sperre-fuer-algerier-a-abaa0d44-d959-4b78-8caf-06a8303c6cd3#ref=rss)
+### fethi
+
+* [https://www.spiegel.de/sport/olympia/olymueische-spiele-judoka-fethi-nourine-wollte-nicht-gegen-israeli-kaempfen-10-jahre-sperre-fuer-algerier](https://www.spiegel.de/sport/olympia/olymueische-spiele-judoka-fethi-nourine-wollte-nicht-gegen-israeli-kaempfen-10-jahre-sperre-fuer-algerier-a-abaa0d44-d959-4b78-8caf-06a8303c6cd3#ref=rss)
+### nourine
+
+* [https://www.spiegel.de/sport/olympia/olymueische-spiele-judoka-fethi-nourine-wollte-nicht-gegen-israeli-kaempfen-10-jahre-sperre-fuer-algerier](https://www.spiegel.de/sport/olympia/olymueische-spiele-judoka-fethi-nourine-wollte-nicht-gegen-israeli-kaempfen-10-jahre-sperre-fuer-algerier-a-abaa0d44-d959-4b78-8caf-06a8303c6cd3#ref=rss)
 
