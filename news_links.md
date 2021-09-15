@@ -4,315 +4,363 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
+### unter
 
-* [https://www.spiegel.de/start/eu-austauschprogramm-alma-auslandserfahrung-fuer-junge-menschen-ohne-job](https://www.spiegel.de/start/eu-austauschprogramm-alma-auslandserfahrung-fuer-junge-menschen-ohne-job-a-70e777cf-c0df-48af-9588-c9c7fabf8b4c#ref=rss)
-* [https://www.spiegel.de/ausland/gavin-newsom-bedankt-sich-fuer-wahlsieg-wir-schulden-unseren-kindern-mehr-respekt](https://www.spiegel.de/ausland/gavin-newsom-bedankt-sich-fuer-wahlsieg-wir-schulden-unseren-kindern-mehr-respekt-a-a14cb382-dfd6-45f2-b24a-2ddcd8e1a7ab#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltrisikobericht-wo-naturgewalten-doppelt-zuschlagen](https://www.spiegel.de/wissenschaft/weltrisikobericht-wo-naturgewalten-doppelt-zuschlagen-a-d4d6f57e-fe43-4cc4-a957-5ddce4792228#ref=rss)
-### lage
+* [https://www.spiegel.de/panorama/spanien-apokalyptische-bilder-nach-waldbrand](https://www.spiegel.de/panorama/spanien-apokalyptische-bilder-nach-waldbrand-a-3984cca4-7696-4a20-9b02-3df59d3656a0#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis](https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis-a-0c0316d4-0de6-4018-9b84-1e97af424361#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland-a-5544cbf0-bb35-47f6-9cec-a79823654ff7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen](https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen-a-53e5fe8f-b78f-46b8-adab-46b089c5b19e#ref=rss)
+### taliban
 
-* [https://www.spiegel.de/ausland/coronavirus-auf-den-philippinen-kinder-werden-behandelt-wie-gefangene](https://www.spiegel.de/ausland/coronavirus-auf-den-philippinen-kinder-werden-behandelt-wie-gefangene-a-26f807ed-2269-456d-bb06-15acc8bdbad4#ref=rss)
-* [https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken](https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken-a-ee32ee99-0054-4e59-999b-b364bab200b1#ref=rss)
-* [https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas](https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas-a-4d0e8495-3736-4db2-9046-b34d4fbbb70a#ref=rss)
-### leyen
-
-* [https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken](https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken-a-ee32ee99-0054-4e59-999b-b364bab200b1#ref=rss)
-* [https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas](https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas-a-4d0e8495-3736-4db2-9046-b34d4fbbb70a#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken](https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken-a-ee32ee99-0054-4e59-999b-b364bab200b1#ref=rss)
-* [https://www.spiegel.de/ausland/gavin-newsom-bedankt-sich-fuer-wahlsieg-wir-schulden-unseren-kindern-mehr-respekt](https://www.spiegel.de/ausland/gavin-newsom-bedankt-sich-fuer-wahlsieg-wir-schulden-unseren-kindern-mehr-respekt-a-a14cb382-dfd6-45f2-b24a-2ddcd8e1a7ab#ref=rss)
-* [https://www.spiegel.de/panorama/auktion-in-new-york-meissener-porzellan-sammlung-fuer-millionen-versteigert](https://www.spiegel.de/panorama/auktion-in-new-york-meissener-porzellan-sammlung-fuer-millionen-versteigert-a-4369c829-c6fd-48a1-a4d8-6a89a3d61586#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/start/eu-austauschprogramm-alma-auslandserfahrung-fuer-junge-menschen-ohne-job](https://www.spiegel.de/start/eu-austauschprogramm-alma-auslandserfahrung-fuer-junge-menschen-ohne-job-a-70e777cf-c0df-48af-9588-c9c7fabf8b4c#ref=rss)
-* [https://www.spiegel.de/ausland/coronavirus-auf-den-philippinen-kinder-werden-behandelt-wie-gefangene](https://www.spiegel.de/ausland/coronavirus-auf-den-philippinen-kinder-werden-behandelt-wie-gefangene-a-26f807ed-2269-456d-bb06-15acc8bdbad4#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/panorama/justiz/treuen-eich-in-sachsen-molotowcocktails-auf-impfzentrum-geworfen](https://www.spiegel.de/panorama/justiz/treuen-eich-in-sachsen-molotowcocktails-auf-impfzentrum-geworfen-a-1e18a0ff-ebe7-4649-84ed-6bca97fbfc51#ref=rss)
-* [https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte](https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte-a-2a0a0347-0c2e-45b5-8bb9-459c0efa50b0#ref=rss)
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-polizei-schiesst-bewaffneten-angreifer-nieder](https://www.spiegel.de/panorama/baden-wuerttemberg-polizei-schiesst-bewaffneten-angreifer-nieder-a-216474dc-fab0-4fb0-bdd4-f61f9715d628#ref=rss)
-### night
-
-* [https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet](https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet-a-0d8328ec-eb8e-4018-8f68-7b766e5ec404#ref=rss)
-* [https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren](https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren-a-667401eb-3505-411c-94c6-fedfbdfdd2bc#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet](https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet-a-0d8328ec-eb8e-4018-8f68-7b766e5ec404#ref=rss)
-* [https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken](https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken-a-ee32ee99-0054-4e59-999b-b364bab200b1#ref=rss)
-* [https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas](https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas-a-4d0e8495-3736-4db2-9046-b34d4fbbb70a#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/messerattacke-auf-gehweg-zwei-opfer-in-lebensgefahr](https://www.spiegel.de/panorama/justiz/messerattacke-auf-gehweg-zwei-opfer-in-lebensgefahr-a-13464608-3946-4d35-ad1a-d1c25d5786ab#ref=rss)
-* [https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee](https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee-a-fd31a9db-0381-49af-8aa0-eaec9f0a3f2d#ref=rss)
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-polizei-schiesst-bewaffneten-angreifer-nieder](https://www.spiegel.de/panorama/baden-wuerttemberg-polizei-schiesst-bewaffneten-angreifer-nieder-a-216474dc-fab0-4fb0-bdd4-f61f9715d628#ref=rss)
-### ursula
-
-* [https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken](https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken-a-ee32ee99-0054-4e59-999b-b364bab200b1#ref=rss)
-* [https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas](https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas-a-4d0e8495-3736-4db2-9046-b34d4fbbb70a#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-oliver-glasner-bei-eintracht-frankfurt-gesperrt-weil-er-zu-spaet-kam](https://www.spiegel.de/sport/fussball/europa-league-trainer-oliver-glasner-bei-eintracht-frankfurt-gesperrt-weil-er-zu-spaet-kam-a-95b1925f-8a04-4751-9c1f-d14d4ecec360#ref=rss)
-* [https://www.spiegel.de/sport/champions-league-fc-bayern-schlaegt-fc-barcelona-die-pressestimmen](https://www.spiegel.de/sport/champions-league-fc-bayern-schlaegt-fc-barcelona-die-pressestimmen-a-82996309-e600-4df5-a01f-3abe6193fa9c#ref=rss)
-### texas
-
-* [https://www.spiegel.de/ausland/abtreibungsgesetz-in-texas-us-justizministerium-bittet-bundesgericht-um-blockade](https://www.spiegel.de/ausland/abtreibungsgesetz-in-texas-us-justizministerium-bittet-bundesgericht-um-blockade-a-98e916a6-6870-4555-b797-73a16f9341d5#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/champions-league-fc-bayern-schlaegt-fc-barcelona-die-pressestimmen](https://www.spiegel.de/sport/champions-league-fc-bayern-schlaegt-fc-barcelona-die-pressestimmen-a-82996309-e600-4df5-a01f-3abe6193fa9c#ref=rss)
-### junge
-
-* [https://www.spiegel.de/start/eu-austauschprogramm-alma-auslandserfahrung-fuer-junge-menschen-ohne-job](https://www.spiegel.de/start/eu-austauschprogramm-alma-auslandserfahrung-fuer-junge-menschen-ohne-job-a-70e777cf-c0df-48af-9588-c9c7fabf8b4c#ref=rss)
-### pakistan
-
-* [https://www.spiegel.de/sport/fussball/machtuebernahme-der-taliban-nachwuchsfussballerinnen-aus-afghanistan-finden-zuflucht-in-pakistan](https://www.spiegel.de/sport/fussball/machtuebernahme-der-taliban-nachwuchsfussballerinnen-aus-afghanistan-finden-zuflucht-in-pakistan-a-27b89f01-3bb0-48d1-a95e-a0dabedd73b3#ref=rss)
-### evergrande
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-chinesische-behoerde-warnt-banken-offenbar-vor-zahlungsausfaellen](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-chinesische-behoerde-warnt-banken-offenbar-vor-zahlungsausfaellen-a-913140ba-bae2-43a0-b091-419cd2c23d42#ref=rss)
-### chinesische
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-chinesische-behoerde-warnt-banken-offenbar-vor-zahlungsausfaellen](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-chinesische-behoerde-warnt-banken-offenbar-vor-zahlungsausfaellen-a-913140ba-bae2-43a0-b091-419cd2c23d42#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/china-will-das-internet-auf-sozialistischen-kurs-bringen](https://www.spiegel.de/netzwelt/netzpolitik/china-will-das-internet-auf-sozialistischen-kurs-bringen-a-05c9b749-158e-413d-8f5a-5acbc5c17720#ref=rss)
-### banken
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-chinesische-behoerde-warnt-banken-offenbar-vor-zahlungsausfaellen](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-chinesische-behoerde-warnt-banken-offenbar-vor-zahlungsausfaellen-a-913140ba-bae2-43a0-b091-419cd2c23d42#ref=rss)
-### zahlungsausfällen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-chinesische-behoerde-warnt-banken-offenbar-vor-zahlungsausfaellen](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-chinesische-behoerde-warnt-banken-offenbar-vor-zahlungsausfaellen-a-913140ba-bae2-43a0-b091-419cd2c23d42#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-chinesische-behoerde-warnt-banken-offenbar-vor-zahlungsausfaellen](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-chinesische-behoerde-warnt-banken-offenbar-vor-zahlungsausfaellen-a-913140ba-bae2-43a0-b091-419cd2c23d42#ref=rss)
-* [https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken](https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken-a-ee32ee99-0054-4e59-999b-b364bab200b1#ref=rss)
-### brandsätze
-
-* [https://www.spiegel.de/panorama/justiz/treuen-eich-in-sachsen-molotowcocktails-auf-impfzentrum-geworfen](https://www.spiegel.de/panorama/justiz/treuen-eich-in-sachsen-molotowcocktails-auf-impfzentrum-geworfen-a-1e18a0ff-ebe7-4649-84ed-6bca97fbfc51#ref=rss)
-### impfzentrum
-
-* [https://www.spiegel.de/panorama/justiz/treuen-eich-in-sachsen-molotowcocktails-auf-impfzentrum-geworfen](https://www.spiegel.de/panorama/justiz/treuen-eich-in-sachsen-molotowcocktails-auf-impfzentrum-geworfen-a-1e18a0ff-ebe7-4649-84ed-6bca97fbfc51#ref=rss)
-### preußen
-
-* [https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte](https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte-a-2a0a0347-0c2e-45b5-8bb9-459c0efa50b0#ref=rss)
-### münster
-
-* [https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte](https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte-a-2a0a0347-0c2e-45b5-8bb9-459c0efa50b0#ref=rss)
-### rotweiss
-
-* [https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte](https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte-a-2a0a0347-0c2e-45b5-8bb9-459c0efa50b0#ref=rss)
-### essen
-
-* [https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte](https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte-a-2a0a0347-0c2e-45b5-8bb9-459c0efa50b0#ref=rss)
-### ausschreitungen
-
-* [https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte](https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte-a-2a0a0347-0c2e-45b5-8bb9-459c0efa50b0#ref=rss)
-* [https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee](https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee-a-fd31a9db-0381-49af-8aa0-eaec9f0a3f2d#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte](https://www.spiegel.de/sport/fussball/preussen-muenster-gegen-rot-weiss-essen-ausschreitungen-bei-regionalliga-spiel-30-verletzte-a-2a0a0347-0c2e-45b5-8bb9-459c0efa50b0#ref=rss)
-* [https://www.spiegel.de/ausland/demokratie-aktivisten-in-hongkong-zu-haftstrafen-verurteilt](https://www.spiegel.de/ausland/demokratie-aktivisten-in-hongkong-zu-haftstrafen-verurteilt-a-4d7c328f-2522-4249-8823-1f536d5c5da4#ref=rss)
-### kkr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tierfutteranbieter-kkr-steigt-aus-dem-rennen-um-zooplus-aus](https://www.spiegel.de/wirtschaft/unternehmen/tierfutteranbieter-kkr-steigt-aus-dem-rennen-um-zooplus-aus-a-89ca9973-14b9-4b8a-bef4-ff9484b5c732#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tierfutteranbieter-kkr-steigt-aus-dem-rennen-um-zooplus-aus](https://www.spiegel.de/wirtschaft/unternehmen/tierfutteranbieter-kkr-steigt-aus-dem-rennen-um-zooplus-aus-a-89ca9973-14b9-4b8a-bef4-ff9484b5c732#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/immobilien-studie-belastung-durch-wohnen-steigt-trotz-corona-lockdown](https://www.spiegel.de/wirtschaft/soziales/immobilien-studie-belastung-durch-wohnen-steigt-trotz-corona-lockdown-a-3df00a74-db1b-4ea9-a208-bc215929efff#ref=rss)
-### zooplus
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tierfutteranbieter-kkr-steigt-aus-dem-rennen-um-zooplus-aus](https://www.spiegel.de/wirtschaft/unternehmen/tierfutteranbieter-kkr-steigt-aus-dem-rennen-um-zooplus-aus-a-89ca9973-14b9-4b8a-bef4-ff9484b5c732#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tierfutteranbieter-kkr-steigt-aus-dem-rennen-um-zooplus-aus](https://www.spiegel.de/wirtschaft/unternehmen/tierfutteranbieter-kkr-steigt-aus-dem-rennen-um-zooplus-aus-a-89ca9973-14b9-4b8a-bef4-ff9484b5c732#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet](https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet-a-0d8328ec-eb8e-4018-8f68-7b766e5ec404#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/panorama/vatikan-hamburger-erzbischof-stefan-hesse-bleibt-im-amt](https://www.spiegel.de/panorama/vatikan-hamburger-erzbischof-stefan-hesse-bleibt-im-amt-a-513c8042-6bf3-4410-872a-7158b25d3445#ref=rss)
-### heße
-
-* [https://www.spiegel.de/panorama/vatikan-hamburger-erzbischof-stefan-hesse-bleibt-im-amt](https://www.spiegel.de/panorama/vatikan-hamburger-erzbischof-stefan-hesse-bleibt-im-amt-a-513c8042-6bf3-4410-872a-7158b25d3445#ref=rss)
-### grund
-
-* [https://www.spiegel.de/panorama/vatikan-hamburger-erzbischof-stefan-hesse-bleibt-im-amt](https://www.spiegel.de/panorama/vatikan-hamburger-erzbischof-stefan-hesse-bleibt-im-amt-a-513c8042-6bf3-4410-872a-7158b25d3445#ref=rss)
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-oliver-glasner-bei-eintracht-frankfurt-gesperrt-weil-er-zu-spaet-kam](https://www.spiegel.de/sport/fussball/europa-league-trainer-oliver-glasner-bei-eintracht-frankfurt-gesperrt-weil-er-zu-spaet-kam-a-95b1925f-8a04-4751-9c1f-d14d4ecec360#ref=rss)
-### late
-
-* [https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet](https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet-a-0d8328ec-eb8e-4018-8f68-7b766e5ec404#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet](https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet-a-0d8328ec-eb8e-4018-8f68-7b766e5ec404#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-bitten-pakistan-um-wiederaufnahme-des-flugverkehrs](https://www.spiegel.de/ausland/afghanistan-taliban-bitten-pakistan-um-wiederaufnahme-des-flugverkehrs-a-6ec2712f-93be-4a80-abbb-973994842ff0#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-in-afghanistan-ein-verschwundener-mullah-befeuert-spekulationen](https://www.spiegel.de/ausland/taliban-in-afghanistan-ein-verschwundener-mullah-befeuert-spekulationen-a-3ae9a913-8ca1-4b28-9e35-5cfef46cc65f#ref=rss)
 ### armin
 
-* [https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet](https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet-a-0d8328ec-eb8e-4018-8f68-7b766e5ec404#ref=rss)
+* [https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar](https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar-a-17c0221f-2eb6-4426-9483-d272c8dc6626#ref=rss)
+* [https://www.spiegel.de/panorama/leslie-mandoki-zu-laschet-jubelvideo-das-war-vollkommen-obskur-und-befremdlich](https://www.spiegel.de/panorama/leslie-mandoki-zu-laschet-jubelvideo-das-war-vollkommen-obskur-und-befremdlich-a-b951884b-e4a2-4fe7-9a2e-c0c6ff8dc104#ref=rss)
 ### laschet
 
-* [https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet](https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet-a-0d8328ec-eb8e-4018-8f68-7b766e5ec404#ref=rss)
-### zwei
+* [https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar](https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar-a-17c0221f-2eb6-4426-9483-d272c8dc6626#ref=rss)
+* [https://www.spiegel.de/panorama/leslie-mandoki-zu-laschet-jubelvideo-das-war-vollkommen-obskur-und-befremdlich](https://www.spiegel.de/panorama/leslie-mandoki-zu-laschet-jubelvideo-das-war-vollkommen-obskur-und-befremdlich-a-b951884b-e4a2-4fe7-9a2e-c0c6ff8dc104#ref=rss)
+### mich
 
-* [https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet](https://www.spiegel.de/politik/deutschland/late-night-berlin-kinderreporter-interviewen-scholz-und-armin-laschet-a-0d8328ec-eb8e-4018-8f68-7b766e5ec404#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/messerattacke-auf-gehweg-zwei-opfer-in-lebensgefahr](https://www.spiegel.de/panorama/justiz/messerattacke-auf-gehweg-zwei-opfer-in-lebensgefahr-a-13464608-3946-4d35-ad1a-d1c25d5786ab#ref=rss)
-### opfer
+* [https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar](https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar-a-17c0221f-2eb6-4426-9483-d272c8dc6626#ref=rss)
+* [https://www.spiegel.de/kultur/spd-politikerin-michelle-muentefering-bilder-verhuellter-frauen-in-den-universitaeten-erschuettern-mich](https://www.spiegel.de/kultur/spd-politikerin-michelle-muentefering-bilder-verhuellter-frauen-in-den-universitaeten-erschuettern-mich-a-e312fcb8-57e7-4e60-922e-622643e33b84#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/justiz/messerattacke-auf-gehweg-zwei-opfer-in-lebensgefahr](https://www.spiegel.de/panorama/justiz/messerattacke-auf-gehweg-zwei-opfer-in-lebensgefahr-a-13464608-3946-4d35-ad1a-d1c25d5786ab#ref=rss)
-### norm
+* [https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar](https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar-a-17c0221f-2eb6-4426-9483-d272c8dc6626#ref=rss)
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-startet-ermittlungen-gegen-philippinen](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-startet-ermittlungen-gegen-philippinen-a-37fca785-c0d7-47aa-91bc-05279b0f1ab3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen](https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen-a-53e5fe8f-b78f-46b8-adab-46b089c5b19e#ref=rss)
+### bilder
 
-* [https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren](https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren-a-667401eb-3505-411c-94c6-fedfbdfdd2bc#ref=rss)
-### macdonald
-
-* [https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren](https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren-a-667401eb-3505-411c-94c6-fedfbdfdd2bc#ref=rss)
-### 61
-
-* [https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren](https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren-a-667401eb-3505-411c-94c6-fedfbdfdd2bc#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren](https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren-a-667401eb-3505-411c-94c6-fedfbdfdd2bc#ref=rss)
-### komiker
-
-* [https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren](https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren-a-667401eb-3505-411c-94c6-fedfbdfdd2bc#ref=rss)
-### live
-
-* [https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren](https://www.spiegel.de/kultur/tv/norm-macdonald-star-komiker-stirbt-im-alter-von-61-jahren-a-667401eb-3505-411c-94c6-fedfbdfdd2bc#ref=rss)
-* [https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas](https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas-a-4d0e8495-3736-4db2-9046-b34d4fbbb70a#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee](https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee-a-fd31a9db-0381-49af-8aa0-eaec9f0a3f2d#ref=rss)
-### journalistin
-
-* [https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee](https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee-a-fd31a9db-0381-49af-8aa0-eaec9f0a3f2d#ref=rss)
-### lyra
-
-* [https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee](https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee-a-fd31a9db-0381-49af-8aa0-eaec9f0a3f2d#ref=rss)
-### mckee
-
-* [https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee](https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee-a-fd31a9db-0381-49af-8aa0-eaec9f0a3f2d#ref=rss)
-### nordirische
-
-* [https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee](https://www.spiegel.de/ausland/nordirland-vier-weitere-festnahmen-im-fall-der-getoeteten-journalistin-lyra-mckee-a-fd31a9db-0381-49af-8aa0-eaec9f0a3f2d#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-apokalyptische-bilder-nach-waldbrand](https://www.spiegel.de/panorama/spanien-apokalyptische-bilder-nach-waldbrand-a-3984cca4-7696-4a20-9b02-3df59d3656a0#ref=rss)
+* [https://www.spiegel.de/kultur/spd-politikerin-michelle-muentefering-bilder-verhuellter-frauen-in-den-universitaeten-erschuettern-mich](https://www.spiegel.de/kultur/spd-politikerin-michelle-muentefering-bilder-verhuellter-frauen-in-den-universitaeten-erschuettern-mich-a-e312fcb8-57e7-4e60-922e-622643e33b84#ref=rss)
 ### coronavirus
 
-* [https://www.spiegel.de/ausland/coronavirus-auf-den-philippinen-kinder-werden-behandelt-wie-gefangene](https://www.spiegel.de/ausland/coronavirus-auf-den-philippinen-kinder-werden-behandelt-wie-gefangene-a-26f807ed-2269-456d-bb06-15acc8bdbad4#ref=rss)
-### philippinen
+* [https://www.spiegel.de/gesundheit/schwangerschaft/coronavirus-warum-frauen-nach-einer-impfung-keine-angst-vor-unfruchtbarkeit-haben-muessen](https://www.spiegel.de/gesundheit/schwangerschaft/coronavirus-warum-frauen-nach-einer-impfung-keine-angst-vor-unfruchtbarkeit-haben-muessen-a-ed719534-fe4a-4efb-9a9c-55e12bf8d0be#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-drosten-sieht-einen-wandel-von-der-pandemie-zur-endemie-aber-nicht-in-deutschland](https://www.spiegel.de/wissenschaft/medizin/coronavirus-drosten-sieht-einen-wandel-von-der-pandemie-zur-endemie-aber-nicht-in-deutschland-a-5064ad35-3735-4477-89be-b688fa16536d#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/ausland/coronavirus-auf-den-philippinen-kinder-werden-behandelt-wie-gefangene](https://www.spiegel.de/ausland/coronavirus-auf-den-philippinen-kinder-werden-behandelt-wie-gefangene-a-26f807ed-2269-456d-bb06-15acc8bdbad4#ref=rss)
+* [https://www.spiegel.de/gesundheit/schwangerschaft/coronavirus-warum-frauen-nach-einer-impfung-keine-angst-vor-unfruchtbarkeit-haben-muessen](https://www.spiegel.de/gesundheit/schwangerschaft/coronavirus-warum-frauen-nach-einer-impfung-keine-angst-vor-unfruchtbarkeit-haben-muessen-a-ed719534-fe4a-4efb-9a9c-55e12bf8d0be#ref=rss)
+* [https://www.spiegel.de/ausland/klimawandel-was-verhuetung-mit-der-klimakrise-zu-tun-hat](https://www.spiegel.de/ausland/klimawandel-was-verhuetung-mit-der-klimakrise-zu-tun-hat-a-f81f77cf-151c-4c85-b5dc-4da79b6c3d36#ref=rss)
+* [https://www.spiegel.de/kultur/spd-politikerin-michelle-muentefering-bilder-verhuellter-frauen-in-den-universitaeten-erschuettern-mich](https://www.spiegel.de/kultur/spd-politikerin-michelle-muentefering-bilder-verhuellter-frauen-in-den-universitaeten-erschuettern-mich-a-e312fcb8-57e7-4e60-922e-622643e33b84#ref=rss)
+### impfung
+
+* [https://www.spiegel.de/gesundheit/schwangerschaft/coronavirus-warum-frauen-nach-einer-impfung-keine-angst-vor-unfruchtbarkeit-haben-muessen](https://www.spiegel.de/gesundheit/schwangerschaft/coronavirus-warum-frauen-nach-einer-impfung-keine-angst-vor-unfruchtbarkeit-haben-muessen-a-ed719534-fe4a-4efb-9a9c-55e12bf8d0be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-pandemie-italien-will-gruenen-pass-am-arbeitsplatz-verpflichtend-einfuehren](https://www.spiegel.de/wirtschaft/corona-pandemie-italien-will-gruenen-pass-am-arbeitsplatz-verpflichtend-einfuehren-a-e07544ab-8621-476d-9ae3-5777d834326c#ref=rss)
+### abtreibung
+
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option-a-2a38ce53-fd27-4228-84f8-f29e34f12423#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland-a-5544cbf0-bb35-47f6-9cec-a79823654ff7#ref=rss)
+### mord
+
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option-a-2a38ce53-fd27-4228-84f8-f29e34f12423#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier](https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier-a-97aa1c93-5f3a-40eb-99dd-179cbe3307df#ref=rss)
+### ehe
+
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option-a-2a38ce53-fd27-4228-84f8-f29e34f12423#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis](https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis-a-0c0316d4-0de6-4018-9b84-1e97af424361#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater](https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater-a-d5eb073f-5e82-41c7-a96e-e8b8acb446dd#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/kultur/spd-politikerin-michelle-muentefering-bilder-verhuellter-frauen-in-den-universitaeten-erschuettern-mich](https://www.spiegel.de/kultur/spd-politikerin-michelle-muentefering-bilder-verhuellter-frauen-in-den-universitaeten-erschuettern-mich-a-e312fcb8-57e7-4e60-922e-622643e33b84#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-bitten-pakistan-um-wiederaufnahme-des-flugverkehrs](https://www.spiegel.de/ausland/afghanistan-taliban-bitten-pakistan-um-wiederaufnahme-des-flugverkehrs-a-6ec2712f-93be-4a80-abbb-973994842ff0#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-in-afghanistan-ein-verschwundener-mullah-befeuert-spekulationen](https://www.spiegel.de/ausland/taliban-in-afghanistan-ein-verschwundener-mullah-befeuert-spekulationen-a-3ae9a913-8ca1-4b28-9e35-5cfef46cc65f#ref=rss)
+### china
+
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-fordert-aufholjagd-rede-zur-lage-der-eu](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-fordert-aufholjagd-rede-zur-lage-der-eu-a-4aa52450-75a3-4a32-b1d0-5b7d758996dd#ref=rss)
+* [https://www.spiegel.de/ausland/auswaertiges-amt-china-verweigerte-deutschem-schiff-einfahrt-in-hafen](https://www.spiegel.de/ausland/auswaertiges-amt-china-verweigerte-deutschem-schiff-einfahrt-in-hafen-a-eee91a07-fc67-41d8-8b9c-4b81cb0ca4a7#ref=rss)
+### daran
+
+* [https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar](https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar-a-17c0221f-2eb6-4426-9483-d272c8dc6626#ref=rss)
+### stört
+
+* [https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar](https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar-a-17c0221f-2eb6-4426-9483-d272c8dc6626#ref=rss)
+### dein
+
+* [https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar](https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar-a-17c0221f-2eb6-4426-9483-d272c8dc6626#ref=rss)
+* [https://www.spiegel.de/familie/beste-freunde-fuer-immer-warum-freundschaften-so-wichtig-sind-podcast-von-dein-spiegel](https://www.spiegel.de/familie/beste-freunde-fuer-immer-warum-freundschaften-so-wichtig-sind-podcast-von-dein-spiegel-a-3784eefd-030a-4bd1-b024-142bb17ad479#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar](https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar-a-17c0221f-2eb6-4426-9483-d272c8dc6626#ref=rss)
+* [https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen](https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen-a-53e5fe8f-b78f-46b8-adab-46b089c5b19e#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar](https://www.spiegel.de/deinspiegel/armin-laschet-im-kinderinterview-was-mich-daran-stoert-kommentar-a-17c0221f-2eb6-4426-9483-d272c8dc6626#ref=rss)
+* [https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier](https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier-a-97aa1c93-5f3a-40eb-99dd-179cbe3307df#ref=rss)
+### waldbrand
+
+* [https://www.spiegel.de/panorama/spanien-apokalyptische-bilder-nach-waldbrand](https://www.spiegel.de/panorama/spanien-apokalyptische-bilder-nach-waldbrand-a-3984cca4-7696-4a20-9b02-3df59d3656a0#ref=rss)
+### beste
+
+* [https://www.spiegel.de/familie/beste-freunde-fuer-immer-warum-freundschaften-so-wichtig-sind-podcast-von-dein-spiegel](https://www.spiegel.de/familie/beste-freunde-fuer-immer-warum-freundschaften-so-wichtig-sind-podcast-von-dein-spiegel-a-3784eefd-030a-4bd1-b024-142bb17ad479#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/familie/beste-freunde-fuer-immer-warum-freundschaften-so-wichtig-sind-podcast-von-dein-spiegel](https://www.spiegel.de/familie/beste-freunde-fuer-immer-warum-freundschaften-so-wichtig-sind-podcast-von-dein-spiegel-a-3784eefd-030a-4bd1-b024-142bb17ad479#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater](https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater-a-d5eb073f-5e82-41c7-a96e-e8b8acb446dd#ref=rss)
+### beziehungen
+
+* [https://www.spiegel.de/familie/beste-freunde-fuer-immer-warum-freundschaften-so-wichtig-sind-podcast-von-dein-spiegel](https://www.spiegel.de/familie/beste-freunde-fuer-immer-warum-freundschaften-so-wichtig-sind-podcast-von-dein-spiegel-a-3784eefd-030a-4bd1-b024-142bb17ad479#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-bitten-pakistan-um-wiederaufnahme-des-flugverkehrs](https://www.spiegel.de/ausland/afghanistan-taliban-bitten-pakistan-um-wiederaufnahme-des-flugverkehrs-a-6ec2712f-93be-4a80-abbb-973994842ff0#ref=rss)
+### stark
+
+* [https://www.spiegel.de/gesundheit/schwangerschaft/coronavirus-warum-frauen-nach-einer-impfung-keine-angst-vor-unfruchtbarkeit-haben-muessen](https://www.spiegel.de/gesundheit/schwangerschaft/coronavirus-warum-frauen-nach-einer-impfung-keine-angst-vor-unfruchtbarkeit-haben-muessen-a-ed719534-fe4a-4efb-9a9c-55e12bf8d0be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen](https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen-a-53e5fe8f-b78f-46b8-adab-46b089c5b19e#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/gesundheit/schwangerschaft/coronavirus-warum-frauen-nach-einer-impfung-keine-angst-vor-unfruchtbarkeit-haben-muessen](https://www.spiegel.de/gesundheit/schwangerschaft/coronavirus-warum-frauen-nach-einer-impfung-keine-angst-vor-unfruchtbarkeit-haben-muessen-a-ed719534-fe4a-4efb-9a9c-55e12bf8d0be#ref=rss)
+* [https://www.spiegel.de/ausland/auswaertiges-amt-china-verweigerte-deutschem-schiff-einfahrt-in-hafen](https://www.spiegel.de/ausland/auswaertiges-amt-china-verweigerte-deutschem-schiff-einfahrt-in-hafen-a-eee91a07-fc67-41d8-8b9c-4b81cb0ca4a7#ref=rss)
+### papst
+
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option-a-2a38ce53-fd27-4228-84f8-f29e34f12423#ref=rss)
+### franziskus
+
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option-a-2a38ce53-fd27-4228-84f8-f29e34f12423#ref=rss)
+### alle
+
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option-a-2a38ce53-fd27-4228-84f8-f29e34f12423#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-pandemie-italien-will-gruenen-pass-am-arbeitsplatz-verpflichtend-einfuehren](https://www.spiegel.de/wirtschaft/corona-pandemie-italien-will-gruenen-pass-am-arbeitsplatz-verpflichtend-einfuehren-a-e07544ab-8621-476d-9ae3-5777d834326c#ref=rss)
+### kirche
+
+* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-abtreibung-ist-mord-und-ehe-fuer-alle-keine-option-a-2a38ce53-fd27-4228-84f8-f29e34f12423#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gregor-gysi-im-spiegel-spitzengespraech-sozialoekologischer-wandel-nicht-mit-fdp-moeglich](https://www.spiegel.de/politik/deutschland/gregor-gysi-im-spiegel-spitzengespraech-sozialoekologischer-wandel-nicht-mit-fdp-moeglich-a-aafdc7ca-7594-4273-a2c4-a7e950d05af5#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis](https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis-a-0c0316d4-0de6-4018-9b84-1e97af424361#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-riet-friedrich-merz-zu-besserer-antwort-ob-ein-homosexueller-kanzler-werden-kann](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-riet-friedrich-merz-zu-besserer-antwort-ob-ein-homosexueller-kanzler-werden-kann-a-c702e477-79f0-4ac2-a4f2-71c27f07af9b#ref=rss)
+### sebastian
+
+* [https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis](https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis-a-0c0316d4-0de6-4018-9b84-1e97af424361#ref=rss)
+### gerät
+
+* [https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis](https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis-a-0c0316d4-0de6-4018-9b84-1e97af424361#ref=rss)
+### bedrängnis
+
+* [https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis](https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis-a-0c0316d4-0de6-4018-9b84-1e97af424361#ref=rss)
+* [https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen](https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen-a-53e5fe8f-b78f-46b8-adab-46b089c5b19e#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis](https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis-a-0c0316d4-0de6-4018-9b84-1e97af424361#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-in-afghanistan-ein-verschwundener-mullah-befeuert-spekulationen](https://www.spiegel.de/ausland/taliban-in-afghanistan-ein-verschwundener-mullah-befeuert-spekulationen-a-3ae9a913-8ca1-4b28-9e35-5cfef46cc65f#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis](https://www.spiegel.de/ausland/oesterreich-kanzler-sebastian-kurz-geraet-zunehmend-in-bedraengnis-a-0c0316d4-0de6-4018-9b84-1e97af424361#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-rakete-landet-in-japans-hoheitsgebiet](https://www.spiegel.de/ausland/nordkorea-rakete-landet-in-japans-hoheitsgebiet-a-228a9bde-7bdb-45b9-9419-bb2d25b7d58c#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland-a-5544cbf0-bb35-47f6-9cec-a79823654ff7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater](https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater-a-d5eb073f-5e82-41c7-a96e-e8b8acb446dd#ref=rss)
+### norwegen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland-a-5544cbf0-bb35-47f6-9cec-a79823654ff7#ref=rss)
+### usa
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland-a-5544cbf0-bb35-47f6-9cec-a79823654ff7#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland-a-5544cbf0-bb35-47f6-9cec-a79823654ff7#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-norwegen-abtreibung-in-den-usa-papiermangel-in-deutschland-a-5544cbf0-bb35-47f6-9cec-a79823654ff7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-fordert-aufholjagd-rede-zur-lage-der-eu](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-fordert-aufholjagd-rede-zur-lage-der-eu-a-4aa52450-75a3-4a32-b1d0-5b7d758996dd#ref=rss)
+### klimawandel
+
+* [https://www.spiegel.de/ausland/klimawandel-was-verhuetung-mit-der-klimakrise-zu-tun-hat](https://www.spiegel.de/ausland/klimawandel-was-verhuetung-mit-der-klimakrise-zu-tun-hat-a-f81f77cf-151c-4c85-b5dc-4da79b6c3d36#ref=rss)
+### klimakrise
+
+* [https://www.spiegel.de/ausland/klimawandel-was-verhuetung-mit-der-klimakrise-zu-tun-hat](https://www.spiegel.de/ausland/klimawandel-was-verhuetung-mit-der-klimakrise-zu-tun-hat-a-f81f77cf-151c-4c85-b5dc-4da79b6c3d36#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/ausland/klimawandel-was-verhuetung-mit-der-klimakrise-zu-tun-hat](https://www.spiegel.de/ausland/klimawandel-was-verhuetung-mit-der-klimakrise-zu-tun-hat-a-f81f77cf-151c-4c85-b5dc-4da79b6c3d36#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-fordert-aufholjagd-rede-zur-lage-der-eu](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-fordert-aufholjagd-rede-zur-lage-der-eu-a-4aa52450-75a3-4a32-b1d0-5b7d758996dd#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/ausland/klimawandel-was-verhuetung-mit-der-klimakrise-zu-tun-hat](https://www.spiegel.de/ausland/klimawandel-was-verhuetung-mit-der-klimakrise-zu-tun-hat-a-f81f77cf-151c-4c85-b5dc-4da79b6c3d36#ref=rss)
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-startet-ermittlungen-gegen-philippinen](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-startet-ermittlungen-gegen-philippinen-a-37fca785-c0d7-47aa-91bc-05279b0f1ab3#ref=rss)
+### michelle
+
+* [https://www.spiegel.de/kultur/spd-politikerin-michelle-muentefering-bilder-verhuellter-frauen-in-den-universitaeten-erschuettern-mich](https://www.spiegel.de/kultur/spd-politikerin-michelle-muentefering-bilder-verhuellter-frauen-in-den-universitaeten-erschuettern-mich-a-e312fcb8-57e7-4e60-922e-622643e33b84#ref=rss)
+### müntefering
+
+* [https://www.spiegel.de/kultur/spd-politikerin-michelle-muentefering-bilder-verhuellter-frauen-in-den-universitaeten-erschuettern-mich](https://www.spiegel.de/kultur/spd-politikerin-michelle-muentefering-bilder-verhuellter-frauen-in-den-universitaeten-erschuettern-mich-a-e312fcb8-57e7-4e60-922e-622643e33b84#ref=rss)
+### strafgerichtshof
+
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-startet-ermittlungen-gegen-philippinen](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-startet-ermittlungen-gegen-philippinen-a-37fca785-c0d7-47aa-91bc-05279b0f1ab3#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/internationaler-strafgerichtshof-startet-ermittlungen-gegen-philippinen](https://www.spiegel.de/ausland/internationaler-strafgerichtshof-startet-ermittlungen-gegen-philippinen-a-37fca785-c0d7-47aa-91bc-05279b0f1ab3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-drosten-sieht-einen-wandel-von-der-pandemie-zur-endemie-aber-nicht-in-deutschland](https://www.spiegel.de/wissenschaft/medizin/coronavirus-drosten-sieht-einen-wandel-von-der-pandemie-zur-endemie-aber-nicht-in-deutschland-a-5064ad35-3735-4477-89be-b688fa16536d#ref=rss)
+### moïse
+
+* [https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier](https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier-a-97aa1c93-5f3a-40eb-99dd-179cbe3307df#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier](https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier-a-97aa1c93-5f3a-40eb-99dd-179cbe3307df#ref=rss)
+### ariel
+
+* [https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier](https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier-a-97aa1c93-5f3a-40eb-99dd-179cbe3307df#ref=rss)
+### henry
+
+* [https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier](https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier-a-97aa1c93-5f3a-40eb-99dd-179cbe3307df#ref=rss)
+### visier
+
+* [https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier](https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier-a-97aa1c93-5f3a-40eb-99dd-179cbe3307df#ref=rss)
+### nimmt
+
+* [https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier](https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier-a-97aa1c93-5f3a-40eb-99dd-179cbe3307df#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab-a-bcb49e6e-52e0-40a1-b2a3-a639feef259e#ref=rss)
+### verwickelt
+
+* [https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier](https://www.spiegel.de/ausland/haiti-mordfall-jovenel-moise-premier-ariel-henry-im-visier-a-97aa1c93-5f3a-40eb-99dd-179cbe3307df#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-charles-stiftungschef-tritt-wegen-dubioser-spendengelder-zurueck](https://www.spiegel.de/panorama/leute/prinz-charles-stiftungschef-tritt-wegen-dubioser-spendengelder-zurueck-a-0c4b9306-6b9a-4f51-a70b-6b4f1ddcc89e#ref=rss)
+### björn
+
+* [https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-nennt-hans-georg-maassen-stachel-im-fleisch-der-cdu](https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-nennt-hans-georg-maassen-stachel-im-fleisch-der-cdu-a-7202160c-04a6-463a-ae13-298e28f97a1d#ref=rss)
+### höcke
+
+* [https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-nennt-hans-georg-maassen-stachel-im-fleisch-der-cdu](https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-nennt-hans-georg-maassen-stachel-im-fleisch-der-cdu-a-7202160c-04a6-463a-ae13-298e28f97a1d#ref=rss)
+### hansgeorg
+
+* [https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-nennt-hans-georg-maassen-stachel-im-fleisch-der-cdu](https://www.spiegel.de/politik/deutschland/afd-bjoern-hoecke-nennt-hans-georg-maassen-stachel-im-fleisch-der-cdu-a-7202160c-04a6-463a-ae13-298e28f97a1d#ref=rss)
+### gregor
+
+* [https://www.spiegel.de/politik/deutschland/gregor-gysi-im-spiegel-spitzengespraech-sozialoekologischer-wandel-nicht-mit-fdp-moeglich](https://www.spiegel.de/politik/deutschland/gregor-gysi-im-spiegel-spitzengespraech-sozialoekologischer-wandel-nicht-mit-fdp-moeglich-a-aafdc7ca-7594-4273-a2c4-a7e950d05af5#ref=rss)
+### gysi
+
+* [https://www.spiegel.de/politik/deutschland/gregor-gysi-im-spiegel-spitzengespraech-sozialoekologischer-wandel-nicht-mit-fdp-moeglich](https://www.spiegel.de/politik/deutschland/gregor-gysi-im-spiegel-spitzengespraech-sozialoekologischer-wandel-nicht-mit-fdp-moeglich-a-aafdc7ca-7594-4273-a2c4-a7e950d05af5#ref=rss)
+### spiegelspitzengespräch
+
+* [https://www.spiegel.de/politik/deutschland/gregor-gysi-im-spiegel-spitzengespraech-sozialoekologischer-wandel-nicht-mit-fdp-moeglich](https://www.spiegel.de/politik/deutschland/gregor-gysi-im-spiegel-spitzengespraech-sozialoekologischer-wandel-nicht-mit-fdp-moeglich-a-aafdc7ca-7594-4273-a2c4-a7e950d05af5#ref=rss)
+### wandel
+
+* [https://www.spiegel.de/politik/deutschland/gregor-gysi-im-spiegel-spitzengespraech-sozialoekologischer-wandel-nicht-mit-fdp-moeglich](https://www.spiegel.de/politik/deutschland/gregor-gysi-im-spiegel-spitzengespraech-sozialoekologischer-wandel-nicht-mit-fdp-moeglich-a-aafdc7ca-7594-4273-a2c4-a7e950d05af5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-drosten-sieht-einen-wandel-von-der-pandemie-zur-endemie-aber-nicht-in-deutschland](https://www.spiegel.de/wissenschaft/medizin/coronavirus-drosten-sieht-einen-wandel-von-der-pandemie-zur-endemie-aber-nicht-in-deutschland-a-5064ad35-3735-4477-89be-b688fa16536d#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/gregor-gysi-im-spiegel-spitzengespraech-sozialoekologischer-wandel-nicht-mit-fdp-moeglich](https://www.spiegel.de/politik/deutschland/gregor-gysi-im-spiegel-spitzengespraech-sozialoekologischer-wandel-nicht-mit-fdp-moeglich-a-aafdc7ca-7594-4273-a2c4-a7e950d05af5#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/sport/fussball/thomas-hitzlsperger-hoert-beim-vfb-stuttgart-auf](https://www.spiegel.de/sport/fussball/thomas-hitzlsperger-hoert-beim-vfb-stuttgart-auf-a-230bc52e-1d85-405b-9ac4-ae7e67a04c9f#ref=rss)
+### hitzlsperger
+
+* [https://www.spiegel.de/sport/fussball/thomas-hitzlsperger-hoert-beim-vfb-stuttgart-auf](https://www.spiegel.de/sport/fussball/thomas-hitzlsperger-hoert-beim-vfb-stuttgart-auf-a-230bc52e-1d85-405b-9ac4-ae7e67a04c9f#ref=rss)
+### posten
+
+* [https://www.spiegel.de/sport/fussball/thomas-hitzlsperger-hoert-beim-vfb-stuttgart-auf](https://www.spiegel.de/sport/fussball/thomas-hitzlsperger-hoert-beim-vfb-stuttgart-auf-a-230bc52e-1d85-405b-9ac4-ae7e67a04c9f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater](https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater-a-d5eb073f-5e82-41c7-a96e-e8b8acb446dd#ref=rss)
+### boris
+
+* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab-a-bcb49e6e-52e0-40a1-b2a3-a639feef259e#ref=rss)
+### johnson
+
+* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab-a-bcb49e6e-52e0-40a1-b2a3-a639feef259e#ref=rss)
+### dominic
+
+* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab-a-bcb49e6e-52e0-40a1-b2a3-a639feef259e#ref=rss)
+### raab
+
+* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab-a-bcb49e6e-52e0-40a1-b2a3-a639feef259e#ref=rss)
+### amt
+
+* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab-a-bcb49e6e-52e0-40a1-b2a3-a639feef259e#ref=rss)
+* [https://www.spiegel.de/ausland/auswaertiges-amt-china-verweigerte-deutschem-schiff-einfahrt-in-hafen](https://www.spiegel.de/ausland/auswaertiges-amt-china-verweigerte-deutschem-schiff-einfahrt-in-hafen-a-eee91a07-fc67-41d8-8b9c-4b81cb0ca4a7#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab-a-bcb49e6e-52e0-40a1-b2a3-a639feef259e#ref=rss)
+### bisherige
+
+* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab-a-bcb49e6e-52e0-40a1-b2a3-a639feef259e#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nimmt-dominic-raab-amt-als-aussenminister-ab-a-bcb49e6e-52e0-40a1-b2a3-a639feef259e#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-rakete-landet-in-japans-hoheitsgebiet](https://www.spiegel.de/ausland/nordkorea-rakete-landet-in-japans-hoheitsgebiet-a-228a9bde-7bdb-45b9-9419-bb2d25b7d58c#ref=rss)
+### pakistan
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-bitten-pakistan-um-wiederaufnahme-des-flugverkehrs](https://www.spiegel.de/ausland/afghanistan-taliban-bitten-pakistan-um-wiederaufnahme-des-flugverkehrs-a-6ec2712f-93be-4a80-abbb-973994842ff0#ref=rss)
+### leyen
+
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-fordert-aufholjagd-rede-zur-lage-der-eu](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-fordert-aufholjagd-rede-zur-lage-der-eu-a-4aa52450-75a3-4a32-b1d0-5b7d758996dd#ref=rss)
 ### eu
 
-* [https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken](https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken-a-ee32ee99-0054-4e59-999b-b364bab200b1#ref=rss)
-* [https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas](https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas-a-4d0e8495-3736-4db2-9046-b34d4fbbb70a#ref=rss)
-### rede
+* [https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-fordert-aufholjagd-rede-zur-lage-der-eu](https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-fordert-aufholjagd-rede-zur-lage-der-eu-a-4aa52450-75a3-4a32-b1d0-5b7d758996dd#ref=rss)
+### mullah
 
-* [https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken](https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken-a-ee32ee99-0054-4e59-999b-b364bab200b1#ref=rss)
-* [https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas](https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas-a-4d0e8495-3736-4db2-9046-b34d4fbbb70a#ref=rss)
-### eukommissionspräsidentin
+* [https://www.spiegel.de/ausland/taliban-in-afghanistan-ein-verschwundener-mullah-befeuert-spekulationen](https://www.spiegel.de/ausland/taliban-in-afghanistan-ein-verschwundener-mullah-befeuert-spekulationen-a-3ae9a913-8ca1-4b28-9e35-5cfef46cc65f#ref=rss)
+### julia
 
-* [https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken](https://www.spiegel.de/ausland/strassburg-ursula-von-der-leyen-will-eu-militaerisch-staerken-a-ee32ee99-0054-4e59-999b-b364bab200b1#ref=rss)
-* [https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas](https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas-a-4d0e8495-3736-4db2-9046-b34d4fbbb70a#ref=rss)
-### corona
+* [https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen](https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen-a-53e5fe8f-b78f-46b8-adab-46b089c5b19e#ref=rss)
+### klöckner
 
-* [https://www.spiegel.de/auto/pendlererhebung-ungebrochene-dominanz-des-autos](https://www.spiegel.de/auto/pendlererhebung-ungebrochene-dominanz-des-autos-a-ab409ad5-322c-4719-b9ba-8ef4f72b6411#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/immobilien-studie-belastung-durch-wohnen-steigt-trotz-corona-lockdown](https://www.spiegel.de/wirtschaft/soziales/immobilien-studie-belastung-durch-wohnen-steigt-trotz-corona-lockdown-a-3df00a74-db1b-4ea9-a208-bc215929efff#ref=rss)
-### frühstück
+* [https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen](https://www.spiegel.de/wirtschaft/preisverfall-kloeckner-verspricht-schweinezuechtern-finanzhilfen-a-53e5fe8f-b78f-46b8-adab-46b089c5b19e#ref=rss)
+### wolfgang
 
-* [https://www.spiegel.de/start/guenstiges-fruehstueck-fuenf-ideen-fuer-uebernacht-haferflocken-zu-je-nur-90-cent](https://www.spiegel.de/start/guenstiges-fruehstueck-fuenf-ideen-fuer-uebernacht-haferflocken-zu-je-nur-90-cent-a-689d3ead-afae-4e66-bd62-f6e705ba638a#ref=rss)
-### fünf
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-riet-friedrich-merz-zu-besserer-antwort-ob-ein-homosexueller-kanzler-werden-kann](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-riet-friedrich-merz-zu-besserer-antwort-ob-ein-homosexueller-kanzler-werden-kann-a-c702e477-79f0-4ac2-a4f2-71c27f07af9b#ref=rss)
+### schäuble
 
-* [https://www.spiegel.de/start/guenstiges-fruehstueck-fuenf-ideen-fuer-uebernacht-haferflocken-zu-je-nur-90-cent](https://www.spiegel.de/start/guenstiges-fruehstueck-fuenf-ideen-fuer-uebernacht-haferflocken-zu-je-nur-90-cent-a-689d3ead-afae-4e66-bd62-f6e705ba638a#ref=rss)
-### hongkong
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-riet-friedrich-merz-zu-besserer-antwort-ob-ein-homosexueller-kanzler-werden-kann](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-riet-friedrich-merz-zu-besserer-antwort-ob-ein-homosexueller-kanzler-werden-kann-a-c702e477-79f0-4ac2-a4f2-71c27f07af9b#ref=rss)
+### cdumann
 
-* [https://www.spiegel.de/ausland/demokratie-aktivisten-in-hongkong-zu-haftstrafen-verurteilt](https://www.spiegel.de/ausland/demokratie-aktivisten-in-hongkong-zu-haftstrafen-verurteilt-a-4d7c328f-2522-4249-8823-1f536d5c5da4#ref=rss)
-### wollten
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-riet-friedrich-merz-zu-besserer-antwort-ob-ein-homosexueller-kanzler-werden-kann](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-riet-friedrich-merz-zu-besserer-antwort-ob-ein-homosexueller-kanzler-werden-kann-a-c702e477-79f0-4ac2-a4f2-71c27f07af9b#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/demokratie-aktivisten-in-hongkong-zu-haftstrafen-verurteilt](https://www.spiegel.de/ausland/demokratie-aktivisten-in-hongkong-zu-haftstrafen-verurteilt-a-4d7c328f-2522-4249-8823-1f536d5c5da4#ref=rss)
-* [https://www.spiegel.de/ausland/gavin-newsom-bedankt-sich-fuer-wahlsieg-wir-schulden-unseren-kindern-mehr-respekt](https://www.spiegel.de/ausland/gavin-newsom-bedankt-sich-fuer-wahlsieg-wir-schulden-unseren-kindern-mehr-respekt-a-a14cb382-dfd6-45f2-b24a-2ddcd8e1a7ab#ref=rss)
-### gavin
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-riet-friedrich-merz-zu-besserer-antwort-ob-ein-homosexueller-kanzler-werden-kann](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-riet-friedrich-merz-zu-besserer-antwort-ob-ein-homosexueller-kanzler-werden-kann-a-c702e477-79f0-4ac2-a4f2-71c27f07af9b#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/gavin-newsom-bedankt-sich-fuer-wahlsieg-wir-schulden-unseren-kindern-mehr-respekt](https://www.spiegel.de/ausland/gavin-newsom-bedankt-sich-fuer-wahlsieg-wir-schulden-unseren-kindern-mehr-respekt-a-a14cb382-dfd6-45f2-b24a-2ddcd8e1a7ab#ref=rss)
-### newsom
+* [https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-riet-friedrich-merz-zu-besserer-antwort-ob-ein-homosexueller-kanzler-werden-kann](https://www.spiegel.de/politik/deutschland/wolfgang-schaeuble-riet-friedrich-merz-zu-besserer-antwort-ob-ein-homosexueller-kanzler-werden-kann-a-c702e477-79f0-4ac2-a4f2-71c27f07af9b#ref=rss)
+### christian
 
-* [https://www.spiegel.de/ausland/gavin-newsom-bedankt-sich-fuer-wahlsieg-wir-schulden-unseren-kindern-mehr-respekt](https://www.spiegel.de/ausland/gavin-newsom-bedankt-sich-fuer-wahlsieg-wir-schulden-unseren-kindern-mehr-respekt-a-a14cb382-dfd6-45f2-b24a-2ddcd8e1a7ab#ref=rss)
-### oliver
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-drosten-sieht-einen-wandel-von-der-pandemie-zur-endemie-aber-nicht-in-deutschland](https://www.spiegel.de/wissenschaft/medizin/coronavirus-drosten-sieht-einen-wandel-von-der-pandemie-zur-endemie-aber-nicht-in-deutschland-a-5064ad35-3735-4477-89be-b688fa16536d#ref=rss)
+### drosten
 
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-oliver-glasner-bei-eintracht-frankfurt-gesperrt-weil-er-zu-spaet-kam](https://www.spiegel.de/sport/fussball/europa-league-trainer-oliver-glasner-bei-eintracht-frankfurt-gesperrt-weil-er-zu-spaet-kam-a-95b1925f-8a04-4751-9c1f-d14d4ecec360#ref=rss)
-### glasner
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-drosten-sieht-einen-wandel-von-der-pandemie-zur-endemie-aber-nicht-in-deutschland](https://www.spiegel.de/wissenschaft/medizin/coronavirus-drosten-sieht-einen-wandel-von-der-pandemie-zur-endemie-aber-nicht-in-deutschland-a-5064ad35-3735-4477-89be-b688fa16536d#ref=rss)
+### italien
 
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-oliver-glasner-bei-eintracht-frankfurt-gesperrt-weil-er-zu-spaet-kam](https://www.spiegel.de/sport/fussball/europa-league-trainer-oliver-glasner-bei-eintracht-frankfurt-gesperrt-weil-er-zu-spaet-kam-a-95b1925f-8a04-4751-9c1f-d14d4ecec360#ref=rss)
-### eintracht
+* [https://www.spiegel.de/wirtschaft/corona-pandemie-italien-will-gruenen-pass-am-arbeitsplatz-verpflichtend-einfuehren](https://www.spiegel.de/wirtschaft/corona-pandemie-italien-will-gruenen-pass-am-arbeitsplatz-verpflichtend-einfuehren-a-e07544ab-8621-476d-9ae3-5777d834326c#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-oliver-glasner-bei-eintracht-frankfurt-gesperrt-weil-er-zu-spaet-kam](https://www.spiegel.de/sport/fussball/europa-league-trainer-oliver-glasner-bei-eintracht-frankfurt-gesperrt-weil-er-zu-spaet-kam-a-95b1925f-8a04-4751-9c1f-d14d4ecec360#ref=rss)
-### verfolgen
+* [https://www.spiegel.de/wirtschaft/corona-pandemie-italien-will-gruenen-pass-am-arbeitsplatz-verpflichtend-einfuehren](https://www.spiegel.de/wirtschaft/corona-pandemie-italien-will-gruenen-pass-am-arbeitsplatz-verpflichtend-einfuehren-a-e07544ab-8621-476d-9ae3-5777d834326c#ref=rss)
+### arbeitsplatz
 
-* [https://www.spiegel.de/sport/fussball/europa-league-trainer-oliver-glasner-bei-eintracht-frankfurt-gesperrt-weil-er-zu-spaet-kam](https://www.spiegel.de/sport/fussball/europa-league-trainer-oliver-glasner-bei-eintracht-frankfurt-gesperrt-weil-er-zu-spaet-kam-a-95b1925f-8a04-4751-9c1f-d14d4ecec360#ref=rss)
-* [https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas](https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas-a-4d0e8495-3736-4db2-9046-b34d4fbbb70a#ref=rss)
-### schwer
+* [https://www.spiegel.de/wirtschaft/corona-pandemie-italien-will-gruenen-pass-am-arbeitsplatz-verpflichtend-einfuehren](https://www.spiegel.de/wirtschaft/corona-pandemie-italien-will-gruenen-pass-am-arbeitsplatz-verpflichtend-einfuehren-a-e07544ab-8621-476d-9ae3-5777d834326c#ref=rss)
+### annegret
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/papier-mangel-in-verlagen-und-druckereien-von-der-rolle](https://www.spiegel.de/wirtschaft/unternehmen/papier-mangel-in-verlagen-und-druckereien-von-der-rolle-a-56ae50d2-74cb-4927-ada6-a7a854ae65ce#ref=rss)
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-polizei-schiesst-bewaffneten-angreifer-nieder](https://www.spiegel.de/panorama/baden-wuerttemberg-polizei-schiesst-bewaffneten-angreifer-nieder-a-216474dc-fab0-4fb0-bdd4-f61f9715d628#ref=rss)
-### coronakrise
+* [https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater](https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater-a-d5eb073f-5e82-41c7-a96e-e8b8acb446dd#ref=rss)
+### krampkarrenbauer
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/papier-mangel-in-verlagen-und-druckereien-von-der-rolle](https://www.spiegel.de/wirtschaft/unternehmen/papier-mangel-in-verlagen-und-druckereien-von-der-rolle-a-56ae50d2-74cb-4927-ada6-a7a854ae65ce#ref=rss)
-* [https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas](https://www.spiegel.de/ausland/von-der-leyen-ueber-die-lage-europas-a-4d0e8495-3736-4db2-9046-b34d4fbbb70a#ref=rss)
-### cannabis
+* [https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater](https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater-a-d5eb073f-5e82-41c7-a96e-e8b8acb446dd#ref=rss)
+### bestreitet
 
-* [https://www.spiegel.de/sport/doping-wada-will-status-von-cannabis-als-verbotene-substanz-pruefen](https://www.spiegel.de/sport/doping-wada-will-status-von-cannabis-als-verbotene-substanz-pruefen-a-1e6cd85e-4f02-4f59-9e80-27f331c8e89f#ref=rss)
-### island
+* [https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater](https://www.spiegel.de/politik/deutschland/annegret-kramp-karrenbauer-bestreitet-vorzugsbehandlung-fuer-chef-berater-a-d5eb073f-5e82-41c7-a96e-e8b8acb446dd#ref=rss)
+### weg
 
-* [https://www.spiegel.de/wissenschaft/technik/klima-in-island-filtert-eine-anlage-co2-aus-der-luft-es-wird-buchstaeblich-zu-stein](https://www.spiegel.de/wissenschaft/technik/klima-in-island-filtert-eine-anlage-co2-aus-der-luft-es-wird-buchstaeblich-zu-stein-a-ff3734a0-a7e0-48f6-a1ca-bb95bfa1886f#ref=rss)
-### anlage
+* [https://www.spiegel.de/psychologie/trauer-wie-man-seinen-weg-findet-um-den-tod-eines-angehoerigen-zu-verarbeiten](https://www.spiegel.de/psychologie/trauer-wie-man-seinen-weg-findet-um-den-tod-eines-angehoerigen-zu-verarbeiten-a-3ceeb627-36b9-483b-a6b9-8a1ac4e289ad#ref=rss)
+### findet
 
-* [https://www.spiegel.de/wissenschaft/technik/klima-in-island-filtert-eine-anlage-co2-aus-der-luft-es-wird-buchstaeblich-zu-stein](https://www.spiegel.de/wissenschaft/technik/klima-in-island-filtert-eine-anlage-co2-aus-der-luft-es-wird-buchstaeblich-zu-stein-a-ff3734a0-a7e0-48f6-a1ca-bb95bfa1886f#ref=rss)
-### luft
+* [https://www.spiegel.de/psychologie/trauer-wie-man-seinen-weg-findet-um-den-tod-eines-angehoerigen-zu-verarbeiten](https://www.spiegel.de/psychologie/trauer-wie-man-seinen-weg-findet-um-den-tod-eines-angehoerigen-zu-verarbeiten-a-3ceeb627-36b9-483b-a6b9-8a1ac4e289ad#ref=rss)
+### tod
 
-* [https://www.spiegel.de/wissenschaft/technik/klima-in-island-filtert-eine-anlage-co2-aus-der-luft-es-wird-buchstaeblich-zu-stein](https://www.spiegel.de/wissenschaft/technik/klima-in-island-filtert-eine-anlage-co2-aus-der-luft-es-wird-buchstaeblich-zu-stein-a-ff3734a0-a7e0-48f6-a1ca-bb95bfa1886f#ref=rss)
-### wo
+* [https://www.spiegel.de/psychologie/trauer-wie-man-seinen-weg-findet-um-den-tod-eines-angehoerigen-zu-verarbeiten](https://www.spiegel.de/psychologie/trauer-wie-man-seinen-weg-findet-um-den-tod-eines-angehoerigen-zu-verarbeiten-a-3ceeb627-36b9-483b-a6b9-8a1ac4e289ad#ref=rss)
+### verarbeiten
 
-* [https://www.spiegel.de/wissenschaft/weltrisikobericht-wo-naturgewalten-doppelt-zuschlagen](https://www.spiegel.de/wissenschaft/weltrisikobericht-wo-naturgewalten-doppelt-zuschlagen-a-d4d6f57e-fe43-4cc4-a957-5ddce4792228#ref=rss)
-### besonders
+* [https://www.spiegel.de/psychologie/trauer-wie-man-seinen-weg-findet-um-den-tod-eines-angehoerigen-zu-verarbeiten](https://www.spiegel.de/psychologie/trauer-wie-man-seinen-weg-findet-um-den-tod-eines-angehoerigen-zu-verarbeiten-a-3ceeb627-36b9-483b-a6b9-8a1ac4e289ad#ref=rss)
+### ard
 
-* [https://www.spiegel.de/wissenschaft/weltrisikobericht-wo-naturgewalten-doppelt-zuschlagen](https://www.spiegel.de/wissenschaft/weltrisikobericht-wo-naturgewalten-doppelt-zuschlagen-a-d4d6f57e-fe43-4cc4-a957-5ddce4792228#ref=rss)
-### zeigt
+* [https://www.spiegel.de/kultur/tv/triell-bei-ard-und-zdf-redezeit-wurde-offenbar-bis-zum-schluss-falsch-gemessen](https://www.spiegel.de/kultur/tv/triell-bei-ard-und-zdf-redezeit-wurde-offenbar-bis-zum-schluss-falsch-gemessen-a-af72b80a-c09a-4ba0-9aba-54448ebdc9bd#ref=rss)
+### zdf
 
-* [https://www.spiegel.de/wissenschaft/weltrisikobericht-wo-naturgewalten-doppelt-zuschlagen](https://www.spiegel.de/wissenschaft/weltrisikobericht-wo-naturgewalten-doppelt-zuschlagen-a-d4d6f57e-fe43-4cc4-a957-5ddce4792228#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/immobilien-studie-belastung-durch-wohnen-steigt-trotz-corona-lockdown](https://www.spiegel.de/wirtschaft/soziales/immobilien-studie-belastung-durch-wohnen-steigt-trotz-corona-lockdown-a-3df00a74-db1b-4ea9-a208-bc215929efff#ref=rss)
-### new
+* [https://www.spiegel.de/kultur/tv/triell-bei-ard-und-zdf-redezeit-wurde-offenbar-bis-zum-schluss-falsch-gemessen](https://www.spiegel.de/kultur/tv/triell-bei-ard-und-zdf-redezeit-wurde-offenbar-bis-zum-schluss-falsch-gemessen-a-af72b80a-c09a-4ba0-9aba-54448ebdc9bd#ref=rss)
+### redezeit
 
-* [https://www.spiegel.de/panorama/auktion-in-new-york-meissener-porzellan-sammlung-fuer-millionen-versteigert](https://www.spiegel.de/panorama/auktion-in-new-york-meissener-porzellan-sammlung-fuer-millionen-versteigert-a-4369c829-c6fd-48a1-a4d8-6a89a3d61586#ref=rss)
-### york
+* [https://www.spiegel.de/kultur/tv/triell-bei-ard-und-zdf-redezeit-wurde-offenbar-bis-zum-schluss-falsch-gemessen](https://www.spiegel.de/kultur/tv/triell-bei-ard-und-zdf-redezeit-wurde-offenbar-bis-zum-schluss-falsch-gemessen-a-af72b80a-c09a-4ba0-9aba-54448ebdc9bd#ref=rss)
+### gemessen
 
-* [https://www.spiegel.de/panorama/auktion-in-new-york-meissener-porzellan-sammlung-fuer-millionen-versteigert](https://www.spiegel.de/panorama/auktion-in-new-york-meissener-porzellan-sammlung-fuer-millionen-versteigert-a-4369c829-c6fd-48a1-a4d8-6a89a3d61586#ref=rss)
-### meissenerporzellansammlung
+* [https://www.spiegel.de/kultur/tv/triell-bei-ard-und-zdf-redezeit-wurde-offenbar-bis-zum-schluss-falsch-gemessen](https://www.spiegel.de/kultur/tv/triell-bei-ard-und-zdf-redezeit-wurde-offenbar-bis-zum-schluss-falsch-gemessen-a-af72b80a-c09a-4ba0-9aba-54448ebdc9bd#ref=rss)
+### leslie
 
-* [https://www.spiegel.de/panorama/auktion-in-new-york-meissener-porzellan-sammlung-fuer-millionen-versteigert](https://www.spiegel.de/panorama/auktion-in-new-york-meissener-porzellan-sammlung-fuer-millionen-versteigert-a-4369c829-c6fd-48a1-a4d8-6a89a3d61586#ref=rss)
-### millionen
+* [https://www.spiegel.de/panorama/leslie-mandoki-zu-laschet-jubelvideo-das-war-vollkommen-obskur-und-befremdlich](https://www.spiegel.de/panorama/leslie-mandoki-zu-laschet-jubelvideo-das-war-vollkommen-obskur-und-befremdlich-a-b951884b-e4a2-4fe7-9a2e-c0c6ff8dc104#ref=rss)
+### mandoki
 
-* [https://www.spiegel.de/panorama/auktion-in-new-york-meissener-porzellan-sammlung-fuer-millionen-versteigert](https://www.spiegel.de/panorama/auktion-in-new-york-meissener-porzellan-sammlung-fuer-millionen-versteigert-a-4369c829-c6fd-48a1-a4d8-6a89a3d61586#ref=rss)
-### abtreibungsgesetz
-
-* [https://www.spiegel.de/ausland/abtreibungsgesetz-in-texas-us-justizministerium-bittet-bundesgericht-um-blockade](https://www.spiegel.de/ausland/abtreibungsgesetz-in-texas-us-justizministerium-bittet-bundesgericht-um-blockade-a-98e916a6-6870-4555-b797-73a16f9341d5#ref=rss)
-### usjustizministerium
-
-* [https://www.spiegel.de/ausland/abtreibungsgesetz-in-texas-us-justizministerium-bittet-bundesgericht-um-blockade](https://www.spiegel.de/ausland/abtreibungsgesetz-in-texas-us-justizministerium-bittet-bundesgericht-um-blockade-a-98e916a6-6870-4555-b797-73a16f9341d5#ref=rss)
-### bundesgericht
-
-* [https://www.spiegel.de/ausland/abtreibungsgesetz-in-texas-us-justizministerium-bittet-bundesgericht-um-blockade](https://www.spiegel.de/ausland/abtreibungsgesetz-in-texas-us-justizministerium-bittet-bundesgericht-um-blockade-a-98e916a6-6870-4555-b797-73a16f9341d5#ref=rss)
-### belastung
-
-* [https://www.spiegel.de/wirtschaft/soziales/immobilien-studie-belastung-durch-wohnen-steigt-trotz-corona-lockdown](https://www.spiegel.de/wirtschaft/soziales/immobilien-studie-belastung-durch-wohnen-steigt-trotz-corona-lockdown-a-3df00a74-db1b-4ea9-a208-bc215929efff#ref=rss)
-### bewaffneten
-
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-polizei-schiesst-bewaffneten-angreifer-nieder](https://www.spiegel.de/panorama/baden-wuerttemberg-polizei-schiesst-bewaffneten-angreifer-nieder-a-216474dc-fab0-4fb0-bdd4-f61f9715d628#ref=rss)
-### internet
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/china-will-das-internet-auf-sozialistischen-kurs-bringen](https://www.spiegel.de/netzwelt/netzpolitik/china-will-das-internet-auf-sozialistischen-kurs-bringen-a-05c9b749-158e-413d-8f5a-5acbc5c17720#ref=rss)
-### champions
-
-* [https://www.spiegel.de/sport/champions-league-fc-bayern-schlaegt-fc-barcelona-die-pressestimmen](https://www.spiegel.de/sport/champions-league-fc-bayern-schlaegt-fc-barcelona-die-pressestimmen-a-82996309-e600-4df5-a01f-3abe6193fa9c#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/champions-league-fc-bayern-schlaegt-fc-barcelona-die-pressestimmen](https://www.spiegel.de/sport/champions-league-fc-bayern-schlaegt-fc-barcelona-die-pressestimmen-a-82996309-e600-4df5-a01f-3abe6193fa9c#ref=rss)
-### barcelona
-
-* [https://www.spiegel.de/sport/champions-league-fc-bayern-schlaegt-fc-barcelona-die-pressestimmen](https://www.spiegel.de/sport/champions-league-fc-bayern-schlaegt-fc-barcelona-die-pressestimmen-a-82996309-e600-4df5-a01f-3abe6193fa9c#ref=rss)
-### oktoberfest
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/traditions-volksfest-eu-behoerde-macht-oktoberfest-zur-geschuetzten-marke](https://www.spiegel.de/wirtschaft/unternehmen/traditions-volksfest-eu-behoerde-macht-oktoberfest-zur-geschuetzten-marke-a-cc096008-2938-4d07-878a-deda739a8530#ref=rss)
-### marke
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/traditions-volksfest-eu-behoerde-macht-oktoberfest-zur-geschuetzten-marke](https://www.spiegel.de/wirtschaft/unternehmen/traditions-volksfest-eu-behoerde-macht-oktoberfest-zur-geschuetzten-marke-a-cc096008-2938-4d07-878a-deda739a8530#ref=rss)
+* [https://www.spiegel.de/panorama/leslie-mandoki-zu-laschet-jubelvideo-das-war-vollkommen-obskur-und-befremdlich](https://www.spiegel.de/panorama/leslie-mandoki-zu-laschet-jubelvideo-das-war-vollkommen-obskur-und-befremdlich-a-b951884b-e4a2-4fe7-9a2e-c0c6ff8dc104#ref=rss)
 
