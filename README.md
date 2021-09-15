@@ -124,13 +124,13 @@ tobt(328) coronafällen(327) ecuador(327) schwedische(327) tatverdächtige(327) 
 
 ```
 date, investment, buy price, sell price
-2021-09-10 15:57:27, 1-EUR, 1.18 USD, 1.18 USD
-2021-09-10 15:57:27, 1-EUR, 7.62 CNY, 7.62 CNY
-2021-09-10 15:57:27, crude-oil-brent-barrel, 72.75 USD, 72.75 USD
-2021-09-10 15:57:27, gold-10g, 510.34 EUR, 482.47 EUR
-2021-09-10 15:57:32, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-09-10 15:57:33, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-09-10 15:57:35, lego-2019-60225-1-rovertestfahrt, 21.0 USD, 21.0 USD
+2021-09-15 10:09:51, 1-EUR, 1.18 USD, 1.18 USD
+2021-09-15 10:09:51, 1-EUR, 7.61 CNY, 7.61 CNY
+2021-09-15 10:09:52, crude-oil-brent-barrel, 74.64 USD, 74.64 USD
+2021-09-15 10:09:52, gold-10g, 512.98 EUR, 485.08 EUR
+2021-09-15 10:09:57, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-09-15 10:09:58, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-09-15 10:10:00, lego-2019-60225-1-rovertestfahrt, 22.0 USD, 22.0 USD
 ```
 
 <footer>
