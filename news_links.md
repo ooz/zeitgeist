@@ -4,307 +4,282 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### australien
+### jahr
 
-* [https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa](https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa-a-b0fbc3ad-24ba-4a7f-8915-4986d631c7f3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/australien-fakten-zu-dem-atom-u-boote-deal-mit-den-usa-und-grossbritannien](https://www.spiegel.de/wissenschaft/technik/australien-fakten-zu-dem-atom-u-boote-deal-mit-den-usa-und-grossbritannien-a-208bf9cf-679e-4dac-a378-d7a8c8b92f73#ref=rss)
-### union
-
-* [https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa](https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa-a-b0fbc3ad-24ba-4a7f-8915-4986d631c7f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-zu-interview-mit-kinderreportern-so-sprechen-kinder-nicht](https://www.spiegel.de/politik/deutschland/armin-laschet-zu-interview-mit-kinderreportern-so-sprechen-kinder-nicht-a-aaa3b3c0-3e52-4e31-a181-6dbeae307459#ref=rss)
-* [https://www.spiegel.de/kultur/tv/cheerleaderfilm-girls-united-gabrielle-union-kritisiert-eigene-rolle](https://www.spiegel.de/kultur/tv/cheerleaderfilm-girls-united-gabrielle-union-kritisiert-eigene-rolle-a-93a56b1d-9694-4580-abb5-8be61c2d53ef#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren](https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren-a-858dea11-cc5c-4411-aa8b-59b1f8b3b676#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-warum-kunden-mit-neuen-streiks-rechnen-muessen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-warum-kunden-mit-neuen-streiks-rechnen-muessen-a-33eb55e5-6d56-44a6-b0ef-e6401991196e#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/ausland/parlamentswahl-in-russland-wie-ein-nachwuchskommunist-in-burjatien-um-einen-sitz-in-der-duma-kaempft](https://www.spiegel.de/ausland/parlamentswahl-in-russland-wie-ein-nachwuchskommunist-in-burjatien-um-einen-sitz-in-der-duma-kaempft-a-8d74ce63-017d-4e5b-97c5-28366dbb6ecc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-prozess-in-braunschweig-die-totengraeber-des-diesel](https://www.spiegel.de/wirtschaft/vw-prozess-in-braunschweig-die-totengraeber-des-diesel-a-8a3da0b1-a8d7-4365-81ba-6abf97359a88#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reiner-haseloff-faellt-im-landtag-in-sachsen-anhalt-durch-der-warnschuss](https://www.spiegel.de/politik/deutschland/reiner-haseloff-faellt-im-landtag-in-sachsen-anhalt-durch-der-warnschuss-a-7a8aa153-6da4-468e-9905-5b146c7b38e6#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa](https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa-a-b0fbc3ad-24ba-4a7f-8915-4986d631c7f3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/australien-fakten-zu-dem-atom-u-boote-deal-mit-den-usa-und-grossbritannien](https://www.spiegel.de/wissenschaft/technik/australien-fakten-zu-dem-atom-u-boote-deal-mit-den-usa-und-grossbritannien-a-208bf9cf-679e-4dac-a378-d7a8c8b92f73#ref=rss)
-### armin
-
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-zu-interview-mit-kinderreportern-so-sprechen-kinder-nicht](https://www.spiegel.de/politik/deutschland/armin-laschet-zu-interview-mit-kinderreportern-so-sprechen-kinder-nicht-a-aaa3b3c0-3e52-4e31-a181-6dbeae307459#ref=rss)
-* [https://www.spiegel.de/kultur/tv/spitting-image-auf-sky-wap-parodie-und-hitler-als-politikberater](https://www.spiegel.de/kultur/tv/spitting-image-auf-sky-wap-parodie-und-hitler-als-politikberater-a-e9ec11a4-f6ee-41ec-8a62-19e33fce1f01#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-zu-interview-mit-kinderreportern-so-sprechen-kinder-nicht](https://www.spiegel.de/politik/deutschland/armin-laschet-zu-interview-mit-kinderreportern-so-sprechen-kinder-nicht-a-aaa3b3c0-3e52-4e31-a181-6dbeae307459#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rendsburger-frauenmoerder-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/rendsburger-frauenmoerder-zu-lebenslanger-haft-verurteilt-a-57452e2a-2675-446a-b4a2-646d4b11a0ab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reiner-haseloff-faellt-im-landtag-in-sachsen-anhalt-durch-der-warnschuss](https://www.spiegel.de/politik/deutschland/reiner-haseloff-faellt-im-landtag-in-sachsen-anhalt-durch-der-warnschuss-a-7a8aa153-6da4-468e-9905-5b146c7b38e6#ref=rss)
-### meghan
-
-* [https://www.spiegel.de/panorama/leute/herzogin-meghan-und-prinz-harry-auf-top-100-liste-der-time-sehr-gestellt](https://www.spiegel.de/panorama/leute/herzogin-meghan-und-prinz-harry-auf-top-100-liste-der-time-sehr-gestellt-a-f0e14243-cb49-45a1-8cc7-353ecb07d28d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fox-news-skandalmoderator-piers-morgan-heuert-bei-murdoch-sender-an](https://www.spiegel.de/wirtschaft/unternehmen/fox-news-skandalmoderator-piers-morgan-heuert-bei-murdoch-sender-an-a-a1a4b8e2-008c-40f9-b988-8dbe6b1c7fb0#ref=rss)
-### wahlkampf
-
-* [https://www.spiegel.de/kultur/tv/spitting-image-auf-sky-wap-parodie-und-hitler-als-politikberater](https://www.spiegel.de/kultur/tv/spitting-image-auf-sky-wap-parodie-und-hitler-als-politikberater-a-e9ec11a4-f6ee-41ec-8a62-19e33fce1f01#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler](https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler-a-3792e127-1f67-4091-a421-ec74808be357#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nehmen-wir-die-gefahr-durch-rechtsterrorismus-ernst-genug-podcast](https://www.spiegel.de/politik/deutschland/nehmen-wir-die-gefahr-durch-rechtsterrorismus-ernst-genug-podcast-a-85ffafac-7ec1-46e1-ab6c-e63945828a38#ref=rss)
-### euparlament
-
-* [https://www.spiegel.de/ausland/afghanistan-eu-parlament-will-visa-programm-fuer-afghanische-frauen](https://www.spiegel.de/ausland/afghanistan-eu-parlament-will-visa-programm-fuer-afghanische-frauen-a-362189bd-f692-483e-a1d7-63385a07ab87#ref=rss)
-* [https://www.spiegel.de/ausland/eu-parlament-kritisiert-russland-als-korruptes-regime](https://www.spiegel.de/ausland/eu-parlament-kritisiert-russland-als-korruptes-regime-a-270dc2bd-7bb7-4a64-a44c-2bf49a8596f8#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/afghanistan-eu-parlament-will-visa-programm-fuer-afghanische-frauen](https://www.spiegel.de/ausland/afghanistan-eu-parlament-will-visa-programm-fuer-afghanische-frauen-a-362189bd-f692-483e-a1d7-63385a07ab87#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rendsburger-frauenmoerder-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/rendsburger-frauenmoerder-zu-lebenslanger-haft-verurteilt-a-57452e2a-2675-446a-b4a2-646d4b11a0ab#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/afghanistan-eu-parlament-will-visa-programm-fuer-afghanische-frauen](https://www.spiegel.de/ausland/afghanistan-eu-parlament-will-visa-programm-fuer-afghanische-frauen-a-362189bd-f692-483e-a1d7-63385a07ab87#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler](https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler-a-3792e127-1f67-4091-a421-ec74808be357#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-polen-hat-lesbische-mutter-vor-gericht-diskriminiert](https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-polen-hat-lesbische-mutter-vor-gericht-diskriminiert-a-7407b863-7b4b-45d8-88a6-b7ebce2bb570#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen](https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen-a-ac44aa59-b2c0-4e36-94a9-cffa3e247f04#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/staatsanwaltschaft-bestaetigt-schwachstelle-in-wahlkampf-app-der-cdu](https://www.spiegel.de/netzwelt/netzpolitik/staatsanwaltschaft-bestaetigt-schwachstelle-in-wahlkampf-app-der-cdu-a-b66c2a32-4c4c-4337-83b3-795d749ee4b7#ref=rss)
-### hagen
-
-* [https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen](https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen-a-ac44aa59-b2c0-4e36-94a9-cffa3e247f04#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren](https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren-a-858dea11-cc5c-4411-aa8b-59b1f8b3b676#ref=rss)
-### fall
-
-* [https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen](https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen-a-ac44aa59-b2c0-4e36-94a9-cffa3e247f04#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/daenemark-langzeitgefangene-sollen-keine-neuen-beziehungen-eingehen-duerfen](https://www.spiegel.de/panorama/justiz/daenemark-langzeitgefangene-sollen-keine-neuen-beziehungen-eingehen-duerfen-a-eb4b96ea-2fdd-4e8d-b0c4-ba316206815f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-akzeptiert-urteil-nicht-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/jerome-boateng-akzeptiert-urteil-nicht-berufung-eingelegt-a-fedf98a7-bf62-4517-b6e4-4edd13876223#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/fox-news-skandalmoderator-piers-morgan-heuert-bei-murdoch-sender-an](https://www.spiegel.de/wirtschaft/unternehmen/fox-news-skandalmoderator-piers-morgan-heuert-bei-murdoch-sender-an-a-a1a4b8e2-008c-40f9-b988-8dbe6b1c7fb0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/daenemark-langzeitgefangene-sollen-keine-neuen-beziehungen-eingehen-duerfen](https://www.spiegel.de/panorama/justiz/daenemark-langzeitgefangene-sollen-keine-neuen-beziehungen-eingehen-duerfen-a-eb4b96ea-2fdd-4e8d-b0c4-ba316206815f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-warum-kunden-mit-neuen-streiks-rechnen-muessen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-warum-kunden-mit-neuen-streiks-rechnen-muessen-a-33eb55e5-6d56-44a6-b0ef-e6401991196e#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-warum-kunden-mit-neuen-streiks-rechnen-muessen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-warum-kunden-mit-neuen-streiks-rechnen-muessen-a-33eb55e5-6d56-44a6-b0ef-e6401991196e#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/teure-privatschule-ist-nicht-gemeinnuetzig](https://www.spiegel.de/panorama/bildung/teure-privatschule-ist-nicht-gemeinnuetzig-a-8df33369-e81f-4b64-b0f8-990e05dfdb2d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zoll-in-berlin-beschlagnahmt-fast-100-kilo-drogen](https://www.spiegel.de/panorama/justiz/zoll-in-berlin-beschlagnahmt-fast-100-kilo-drogen-a-3d9cd196-ca08-461d-898d-741852514bcc#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-akzeptiert-urteil-nicht-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/jerome-boateng-akzeptiert-urteil-nicht-berufung-eingelegt-a-fedf98a7-bf62-4517-b6e4-4edd13876223#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/teure-privatschule-ist-nicht-gemeinnuetzig](https://www.spiegel.de/panorama/bildung/teure-privatschule-ist-nicht-gemeinnuetzig-a-8df33369-e81f-4b64-b0f8-990e05dfdb2d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zoll-in-berlin-beschlagnahmt-fast-100-kilo-drogen](https://www.spiegel.de/panorama/justiz/zoll-in-berlin-beschlagnahmt-fast-100-kilo-drogen-a-3d9cd196-ca08-461d-898d-741852514bcc#ref=rss)
-### facebook
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-loescht-netzwerk-von-querdenken-bewegung](https://www.spiegel.de/netzwelt/netzpolitik/facebook-loescht-netzwerk-von-querdenken-bewegung-a-d048b948-c2de-4a9e-a645-90fb19be1127#ref=rss)
-### gruppen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-loescht-netzwerk-von-querdenken-bewegung](https://www.spiegel.de/netzwelt/netzpolitik/facebook-loescht-netzwerk-von-querdenken-bewegung-a-d048b948-c2de-4a9e-a645-90fb19be1127#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reiner-haseloff-faellt-im-landtag-in-sachsen-anhalt-durch-der-warnschuss](https://www.spiegel.de/politik/deutschland/reiner-haseloff-faellt-im-landtag-in-sachsen-anhalt-durch-der-warnschuss-a-7a8aa153-6da4-468e-9905-5b146c7b38e6#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-loescht-netzwerk-von-querdenken-bewegung](https://www.spiegel.de/netzwelt/netzpolitik/facebook-loescht-netzwerk-von-querdenken-bewegung-a-d048b948-c2de-4a9e-a645-90fb19be1127#ref=rss)
-* [https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa](https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa-a-b0fbc3ad-24ba-4a7f-8915-4986d631c7f3#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-loescht-netzwerk-von-querdenken-bewegung](https://www.spiegel.de/netzwelt/netzpolitik/facebook-loescht-netzwerk-von-querdenken-bewegung-a-d048b948-c2de-4a9e-a645-90fb19be1127#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren](https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren-a-858dea11-cc5c-4411-aa8b-59b1f8b3b676#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/parlamentswahl-in-russland-wie-ein-nachwuchskommunist-in-burjatien-um-einen-sitz-in-der-duma-kaempft](https://www.spiegel.de/ausland/parlamentswahl-in-russland-wie-ein-nachwuchskommunist-in-burjatien-um-einen-sitz-in-der-duma-kaempft-a-8d74ce63-017d-4e5b-97c5-28366dbb6ecc#ref=rss)
-* [https://www.spiegel.de/ausland/eu-parlament-kritisiert-russland-als-korruptes-regime](https://www.spiegel.de/ausland/eu-parlament-kritisiert-russland-als-korruptes-regime-a-270dc2bd-7bb7-4a64-a44c-2bf49a8596f8#ref=rss)
-### burjatien
-
-* [https://www.spiegel.de/ausland/parlamentswahl-in-russland-wie-ein-nachwuchskommunist-in-burjatien-um-einen-sitz-in-der-duma-kaempft](https://www.spiegel.de/ausland/parlamentswahl-in-russland-wie-ein-nachwuchskommunist-in-burjatien-um-einen-sitz-in-der-duma-kaempft-a-8d74ce63-017d-4e5b-97c5-28366dbb6ecc#ref=rss)
-### kämpft
-
-* [https://www.spiegel.de/ausland/parlamentswahl-in-russland-wie-ein-nachwuchskommunist-in-burjatien-um-einen-sitz-in-der-duma-kaempft](https://www.spiegel.de/ausland/parlamentswahl-in-russland-wie-ein-nachwuchskommunist-in-burjatien-um-einen-sitz-in-der-duma-kaempft-a-8d74ce63-017d-4e5b-97c5-28366dbb6ecc#ref=rss)
-### gut
-
-* [https://www.spiegel.de/ausland/parlamentswahl-in-russland-wie-ein-nachwuchskommunist-in-burjatien-um-einen-sitz-in-der-duma-kaempft](https://www.spiegel.de/ausland/parlamentswahl-in-russland-wie-ein-nachwuchskommunist-in-burjatien-um-einen-sitz-in-der-duma-kaempft-a-8d74ce63-017d-4e5b-97c5-28366dbb6ecc#ref=rss)
-* [https://www.spiegel.de/kultur/tv/spitting-image-auf-sky-wap-parodie-und-hitler-als-politikberater](https://www.spiegel.de/kultur/tv/spitting-image-auf-sky-wap-parodie-und-hitler-als-politikberater-a-e9ec11a4-f6ee-41ec-8a62-19e33fce1f01#ref=rss)
-### denn
-
-* [https://www.spiegel.de/ausland/parlamentswahl-in-russland-wie-ein-nachwuchskommunist-in-burjatien-um-einen-sitz-in-der-duma-kaempft](https://www.spiegel.de/ausland/parlamentswahl-in-russland-wie-ein-nachwuchskommunist-in-burjatien-um-einen-sitz-in-der-duma-kaempft-a-8d74ce63-017d-4e5b-97c5-28366dbb6ecc#ref=rss)
-### atomuboote
-
-* [https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa](https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa-a-b0fbc3ad-24ba-4a7f-8915-4986d631c7f3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/australien-fakten-zu-dem-atom-u-boote-deal-mit-den-usa-und-grossbritannien](https://www.spiegel.de/wissenschaft/technik/australien-fakten-zu-dem-atom-u-boote-deal-mit-den-usa-und-grossbritannien-a-208bf9cf-679e-4dac-a378-d7a8c8b92f73#ref=rss)
-### strategie
-
-* [https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa](https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa-a-b0fbc3ad-24ba-4a7f-8915-4986d631c7f3#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa](https://www.spiegel.de/ausland/atom-u-boote-fuer-australien-warum-europas-strategie-fuer-den-indopazifik-klueger-ist-als-die-der-usa-a-b0fbc3ad-24ba-4a7f-8915-4986d631c7f3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/australien-fakten-zu-dem-atom-u-boote-deal-mit-den-usa-und-grossbritannien](https://www.spiegel.de/wissenschaft/technik/australien-fakten-zu-dem-atom-u-boote-deal-mit-den-usa-und-grossbritannien-a-208bf9cf-679e-4dac-a378-d7a8c8b92f73#ref=rss)
-### laschet
-
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-zu-interview-mit-kinderreportern-so-sprechen-kinder-nicht](https://www.spiegel.de/politik/deutschland/armin-laschet-zu-interview-mit-kinderreportern-so-sprechen-kinder-nicht-a-aaa3b3c0-3e52-4e31-a181-6dbeae307459#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-zu-interview-mit-kinderreportern-so-sprechen-kinder-nicht](https://www.spiegel.de/politik/deutschland/armin-laschet-zu-interview-mit-kinderreportern-so-sprechen-kinder-nicht-a-aaa3b3c0-3e52-4e31-a181-6dbeae307459#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/republik-21-im-gespraech-mit-christoph-ploss](https://www.spiegel.de/politik/deutschland/republik-21-im-gespraech-mit-christoph-ploss-a-d1b993ee-b248-4cb0-8c83-0a97db28a150#ref=rss)
-### reagiert
-
-* [https://www.spiegel.de/politik/deutschland/armin-laschet-zu-interview-mit-kinderreportern-so-sprechen-kinder-nicht](https://www.spiegel.de/politik/deutschland/armin-laschet-zu-interview-mit-kinderreportern-so-sprechen-kinder-nicht-a-aaa3b3c0-3e52-4e31-a181-6dbeae307459#ref=rss)
-* [https://www.spiegel.de/ausland/eu-parlament-kritisiert-russland-als-korruptes-regime](https://www.spiegel.de/ausland/eu-parlament-kritisiert-russland-als-korruptes-regime-a-270dc2bd-7bb7-4a64-a44c-2bf49a8596f8#ref=rss)
-### riesa
-
-* [https://www.spiegel.de/kultur/musik/roland-kaiser-tourstart-in-riesa-pcr-testpflicht-statt-2g-erzuernt-fans](https://www.spiegel.de/kultur/musik/roland-kaiser-tourstart-in-riesa-pcr-testpflicht-statt-2g-erzuernt-fans-a-330fbcac-dd3a-4a86-8a5a-57d72a7db734#ref=rss)
-### statt
-
-* [https://www.spiegel.de/kultur/musik/roland-kaiser-tourstart-in-riesa-pcr-testpflicht-statt-2g-erzuernt-fans](https://www.spiegel.de/kultur/musik/roland-kaiser-tourstart-in-riesa-pcr-testpflicht-statt-2g-erzuernt-fans-a-330fbcac-dd3a-4a86-8a5a-57d72a7db734#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vw-prozess-in-braunschweig-die-totengraeber-des-diesel](https://www.spiegel.de/wirtschaft/vw-prozess-in-braunschweig-die-totengraeber-des-diesel-a-8a3da0b1-a8d7-4365-81ba-6abf97359a88#ref=rss)
-### verlangt
-
-* [https://www.spiegel.de/kultur/musik/roland-kaiser-tourstart-in-riesa-pcr-testpflicht-statt-2g-erzuernt-fans](https://www.spiegel.de/kultur/musik/roland-kaiser-tourstart-in-riesa-pcr-testpflicht-statt-2g-erzuernt-fans-a-330fbcac-dd3a-4a86-8a5a-57d72a7db734#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/teure-privatschule-ist-nicht-gemeinnuetzig](https://www.spiegel.de/panorama/bildung/teure-privatschule-ist-nicht-gemeinnuetzig-a-8df33369-e81f-4b64-b0f8-990e05dfdb2d#ref=rss)
-### herzogin
-
-* [https://www.spiegel.de/panorama/leute/herzogin-meghan-und-prinz-harry-auf-top-100-liste-der-time-sehr-gestellt](https://www.spiegel.de/panorama/leute/herzogin-meghan-und-prinz-harry-auf-top-100-liste-der-time-sehr-gestellt-a-f0e14243-cb49-45a1-8cc7-353ecb07d28d#ref=rss)
-### prinz
-
-* [https://www.spiegel.de/panorama/leute/herzogin-meghan-und-prinz-harry-auf-top-100-liste-der-time-sehr-gestellt](https://www.spiegel.de/panorama/leute/herzogin-meghan-und-prinz-harry-auf-top-100-liste-der-time-sehr-gestellt-a-f0e14243-cb49-45a1-8cc7-353ecb07d28d#ref=rss)
-### harry
-
-* [https://www.spiegel.de/panorama/leute/herzogin-meghan-und-prinz-harry-auf-top-100-liste-der-time-sehr-gestellt](https://www.spiegel.de/panorama/leute/herzogin-meghan-und-prinz-harry-auf-top-100-liste-der-time-sehr-gestellt-a-f0e14243-cb49-45a1-8cc7-353ecb07d28d#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/leute/herzogin-meghan-und-prinz-harry-auf-top-100-liste-der-time-sehr-gestellt](https://www.spiegel.de/panorama/leute/herzogin-meghan-und-prinz-harry-auf-top-100-liste-der-time-sehr-gestellt-a-f0e14243-cb49-45a1-8cc7-353ecb07d28d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler](https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler-a-3792e127-1f67-4091-a421-ec74808be357#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/panorama/leute/herzogin-meghan-und-prinz-harry-auf-top-100-liste-der-time-sehr-gestellt](https://www.spiegel.de/panorama/leute/herzogin-meghan-und-prinz-harry-auf-top-100-liste-der-time-sehr-gestellt-a-f0e14243-cb49-45a1-8cc7-353ecb07d28d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen](https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen-a-ac44aa59-b2c0-4e36-94a9-cffa3e247f04#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wirtschaft/vw-prozess-in-braunschweig-die-totengraeber-des-diesel](https://www.spiegel.de/wirtschaft/vw-prozess-in-braunschweig-die-totengraeber-des-diesel-a-8a3da0b1-a8d7-4365-81ba-6abf97359a88#ref=rss)
-* [https://www.spiegel.de/wissenschaft/amateure-im-all](https://www.spiegel.de/wissenschaft/amateure-im-all-a-407e056b-3bd6-42b6-adb4-fb54eca7a33d#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/wirtschaft/vw-prozess-in-braunschweig-die-totengraeber-des-diesel](https://www.spiegel.de/wirtschaft/vw-prozess-in-braunschweig-die-totengraeber-des-diesel-a-8a3da0b1-a8d7-4365-81ba-6abf97359a88#ref=rss)
-* [https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-polen-hat-lesbische-mutter-vor-gericht-diskriminiert](https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-polen-hat-lesbische-mutter-vor-gericht-diskriminiert-a-7407b863-7b4b-45d8-88a6-b7ebce2bb570#ref=rss)
-### sky
-
-* [https://www.spiegel.de/kultur/tv/spitting-image-auf-sky-wap-parodie-und-hitler-als-politikberater](https://www.spiegel.de/kultur/tv/spitting-image-auf-sky-wap-parodie-und-hitler-als-politikberater-a-e9ec11a4-f6ee-41ec-8a62-19e33fce1f01#ref=rss)
+* [https://www.spiegel.de/kultur/musik/nena-sagt-tour-ab-kritik-an-coronaregeln](https://www.spiegel.de/kultur/musik/nena-sagt-tour-ab-kritik-an-coronaregeln-a-b8ab6077-1068-4261-a5a2-9a987a5a756d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nutzungsrekord-beim-wahl-o-mat](https://www.spiegel.de/politik/deutschland/nutzungsrekord-beim-wahl-o-mat-a-fbabe679-5d49-4a44-9c98-ea5d0a4ccb95#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftswachstum-industrie-fehlt-der-schwung](https://www.spiegel.de/wirtschaft/wirtschaftswachstum-industrie-fehlt-der-schwung-a-7a2289bc-7596-4577-a729-a8d2a3f15097#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/jan-marsalek-verdaechtige-mietueberweisung-an-fluechtigen-wirecard-manager](https://www.spiegel.de/wirtschaft/soziales/jan-marsalek-verdaechtige-mietueberweisung-an-fluechtigen-wirecard-manager-a-cd6cf358-ea07-4c02-acea-8b7644ae6c6a#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/frankreich-raetselt-ueber-mobbing-gegen-im-jahr-2010-geborene-kinder](https://www.spiegel.de/netzwelt/web/frankreich-raetselt-ueber-mobbing-gegen-im-jahr-2010-geborene-kinder-a-026a6c13-1178-4621-b25a-922b51980574#ref=rss)
 ### afghanistan
 
-* [https://www.spiegel.de/ausland/afghanistan-eu-parlament-will-visa-programm-fuer-afghanische-frauen](https://www.spiegel.de/ausland/afghanistan-eu-parlament-will-visa-programm-fuer-afghanische-frauen-a-362189bd-f692-483e-a1d7-63385a07ab87#ref=rss)
-### hamburg
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-bundesregierung-die-afghanen-ein-drittes-mal-verraet](https://www.spiegel.de/ausland/afghanistan-wie-die-bundesregierung-die-afghanen-ein-drittes-mal-verraet-a-f66f096b-0980-4c12-b4e1-807daa5a11c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kramp-karrenbauer-dachte-wegen-afghanistan-ueber-ruecktritt-nach](https://www.spiegel.de/politik/deutschland/kramp-karrenbauer-dachte-wegen-afghanistan-ueber-ruecktritt-nach-a-ce776199-0b25-4563-acf2-f6dff042a2ed#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler](https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler-a-3792e127-1f67-4091-a421-ec74808be357#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/republik-21-im-gespraech-mit-christoph-ploss](https://www.spiegel.de/politik/deutschland/republik-21-im-gespraech-mit-christoph-ploss-a-d1b993ee-b248-4cb0-8c83-0a97db28a150#ref=rss)
-### christian
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-bundesregierung-die-afghanen-ein-drittes-mal-verraet](https://www.spiegel.de/ausland/afghanistan-wie-die-bundesregierung-die-afghanen-ein-drittes-mal-verraet-a-f66f096b-0980-4c12-b4e1-807daa5a11c5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/corona-impfhersteller-chef-verurteilt-drittimpfungen-als-unethisch](https://www.spiegel.de/wirtschaft/unternehmen/corona-impfhersteller-chef-verurteilt-drittimpfungen-als-unethisch-a-6a0050b8-4148-424a-aa63-3595fce8ecdb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/limburger-lkw-attacke-muss-erneut-verhandelt-werden-bgh-beschluss](https://www.spiegel.de/panorama/justiz/limburger-lkw-attacke-muss-erneut-verhandelt-werden-bgh-beschluss-a-479dc966-060f-464e-a028-91128b286632#ref=rss)
+### hoyerswerda
 
-* [https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler](https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler-a-3792e127-1f67-4091-a421-ec74808be357#ref=rss)
-### lindner
+* [https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-erst-kamen-die-rassisten-dann-die-gaffer-bilder](https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-erst-kamen-die-rassisten-dann-die-gaffer-bilder-a-e3b757ac-5a2a-4394-95aa-a0f3e328ff24#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-die-schlimmsten-tage-meines-lebens](https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-die-schlimmsten-tage-meines-lebens-a-623e33a4-331e-4c37-a7ed-d227db98b393#ref=rss)
+### 1991
 
-* [https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler](https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler-a-3792e127-1f67-4091-a421-ec74808be357#ref=rss)
-### junge
+* [https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-erst-kamen-die-rassisten-dann-die-gaffer-bilder](https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-erst-kamen-die-rassisten-dann-die-gaffer-bilder-a-e3b757ac-5a2a-4394-95aa-a0f3e328ff24#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-die-schlimmsten-tage-meines-lebens](https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-die-schlimmsten-tage-meines-lebens-a-623e33a4-331e-4c37-a7ed-d227db98b393#ref=rss)
+### hagen
 
-* [https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler](https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler-a-3792e127-1f67-4091-a421-ec74808be357#ref=rss)
-### finden
+* [https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft](https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft-a-1c1957b2-4f87-461b-bafa-29009988173f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt](https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt-a-ca821ca8-671f-4fe4-bf86-959095faea8e#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler](https://www.spiegel.de/politik/deutschland/fdp-wahlkampf-in-hamburg-christian-lindner-wirbt-fuer-junge-waehler-a-3792e127-1f67-4091-a421-ec74808be357#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren](https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren-a-858dea11-cc5c-4411-aa8b-59b1f8b3b676#ref=rss)
-### richter
+* [https://www.spiegel.de/panorama/niederlande-zwei-tote-in-wohnhaus-mann-mit-armbrust-festgenommen](https://www.spiegel.de/panorama/niederlande-zwei-tote-in-wohnhaus-mann-mit-armbrust-festgenommen-a-6477a05c-0902-4eea-9b13-76c10e6a32b6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-will-alle-zwei-jahre-eine-wm-bis-zur-halskrause](https://www.spiegel.de/sport/fussball/fifa-will-alle-zwei-jahre-eine-wm-bis-zur-halskrause-a-c01ac185-3e08-4dd1-b907-7b0d22ee2fbd#ref=rss)
+### helfer
 
-* [https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-polen-hat-lesbische-mutter-vor-gericht-diskriminiert](https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-polen-hat-lesbische-mutter-vor-gericht-diskriminiert-a-7407b863-7b4b-45d8-88a6-b7ebce2bb570#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rendsburger-frauenmoerder-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/rendsburger-frauenmoerder-zu-lebenslanger-haft-verurteilt-a-57452e2a-2675-446a-b4a2-646d4b11a0ab#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-bundesregierung-die-afghanen-ein-drittes-mal-verraet](https://www.spiegel.de/ausland/afghanistan-wie-die-bundesregierung-die-afghanen-ein-drittes-mal-verraet-a-f66f096b-0980-4c12-b4e1-807daa5a11c5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/onecoin-mutmassliche-helfer-der-kryptokoenigin-vor-gericht](https://www.spiegel.de/wirtschaft/onecoin-mutmassliche-helfer-der-kryptokoenigin-vor-gericht-a-0fca38f3-185f-4f80-babd-ca60f7c10134#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-bundesregierung-die-afghanen-ein-drittes-mal-verraet](https://www.spiegel.de/ausland/afghanistan-wie-die-bundesregierung-die-afghanen-ein-drittes-mal-verraet-a-f66f096b-0980-4c12-b4e1-807daa5a11c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/nutzungsrekord-beim-wahl-o-mat](https://www.spiegel.de/politik/deutschland/nutzungsrekord-beim-wahl-o-mat-a-fbabe679-5d49-4a44-9c98-ea5d0a4ccb95#ref=rss)
+* [https://www.spiegel.de/ausland/asylsuchende-in-texas-joe-bidens-brueckenproblem](https://www.spiegel.de/ausland/asylsuchende-in-texas-joe-bidens-brueckenproblem-a-e2e0947d-460d-4f41-8375-fdf99e985378#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/kultur/musik/nena-sagt-tour-ab-kritik-an-coronaregeln](https://www.spiegel.de/kultur/musik/nena-sagt-tour-ab-kritik-an-coronaregeln-a-b8ab6077-1068-4261-a5a2-9a987a5a756d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kramp-karrenbauer-dachte-wegen-afghanistan-ueber-ruecktritt-nach](https://www.spiegel.de/politik/deutschland/kramp-karrenbauer-dachte-wegen-afghanistan-ueber-ruecktritt-nach-a-ce776199-0b25-4563-acf2-f6dff042a2ed#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-will-alle-zwei-jahre-eine-wm-bis-zur-halskrause](https://www.spiegel.de/sport/fussball/fifa-will-alle-zwei-jahre-eine-wm-bis-zur-halskrause-a-c01ac185-3e08-4dd1-b907-7b0d22ee2fbd#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/politik/deutschland/nutzungsrekord-beim-wahl-o-mat](https://www.spiegel.de/politik/deutschland/nutzungsrekord-beim-wahl-o-mat-a-fbabe679-5d49-4a44-9c98-ea5d0a4ccb95#ref=rss)
+* [https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft](https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft-a-1c1957b2-4f87-461b-bafa-29009988173f#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-ersetzen-frauenministerium-durch-ministerium-der-tugenden-und-laster](https://www.spiegel.de/ausland/taliban-ersetzen-frauenministerium-durch-ministerium-der-tugenden-und-laster-a-fab02a4b-fb44-4994-820f-69e902c94443#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/asylsuchende-in-texas-joe-bidens-brueckenproblem](https://www.spiegel.de/ausland/asylsuchende-in-texas-joe-bidens-brueckenproblem-a-e2e0947d-460d-4f41-8375-fdf99e985378#ref=rss)
+* [https://www.spiegel.de/kultur/volksbuehne-berlin-unter-rene-pollesch-neueroeffnung-mit-raufereien](https://www.spiegel.de/kultur/volksbuehne-berlin-unter-rene-pollesch-neueroeffnung-mit-raufereien-a-eebd86c5-acdc-4360-9485-570479937709#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/frankreich-raetselt-ueber-mobbing-gegen-im-jahr-2010-geborene-kinder](https://www.spiegel.de/netzwelt/web/frankreich-raetselt-ueber-mobbing-gegen-im-jahr-2010-geborene-kinder-a-026a6c13-1178-4621-b25a-922b51980574#ref=rss)
+### verrät
+
+* [https://www.spiegel.de/ausland/afghanistan-wie-die-bundesregierung-die-afghanen-ein-drittes-mal-verraet](https://www.spiegel.de/ausland/afghanistan-wie-die-bundesregierung-die-afghanen-ein-drittes-mal-verraet-a-f66f096b-0980-4c12-b4e1-807daa5a11c5#ref=rss)
+* [https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht](https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht-a-3c20269c-a99e-4642-b3ce-eed4e3726caf#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/griechische-migrationspolitik-warum-das-neue-lager-auf-samos-keine-probleme-loest](https://www.spiegel.de/ausland/griechische-migrationspolitik-warum-das-neue-lager-auf-samos-keine-probleme-loest-a-cf75850b-934b-40c9-b047-1020431c7060#ref=rss)
+### lager
+
+* [https://www.spiegel.de/ausland/griechische-migrationspolitik-warum-das-neue-lager-auf-samos-keine-probleme-loest](https://www.spiegel.de/ausland/griechische-migrationspolitik-warum-das-neue-lager-auf-samos-keine-probleme-loest-a-cf75850b-934b-40c9-b047-1020431c7060#ref=rss)
+### sagen
+
+* [https://www.spiegel.de/ausland/griechische-migrationspolitik-warum-das-neue-lager-auf-samos-keine-probleme-loest](https://www.spiegel.de/ausland/griechische-migrationspolitik-warum-das-neue-lager-auf-samos-keine-probleme-loest-a-cf75850b-934b-40c9-b047-1020431c7060#ref=rss)
+### new
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-generaldebatte-in-new-york-ein-klima-booster-fuer-glasgow](https://www.spiegel.de/wissenschaft/mensch/uno-generaldebatte-in-new-york-ein-klima-booster-fuer-glasgow-a-b5b14656-355b-4480-af7b-92647d6d1abe#ref=rss)
+### york
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-generaldebatte-in-new-york-ein-klima-booster-fuer-glasgow](https://www.spiegel.de/wissenschaft/mensch/uno-generaldebatte-in-new-york-ein-klima-booster-fuer-glasgow-a-b5b14656-355b-4480-af7b-92647d6d1abe#ref=rss)
+### glasgow
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-generaldebatte-in-new-york-ein-klima-booster-fuer-glasgow](https://www.spiegel.de/wissenschaft/mensch/uno-generaldebatte-in-new-york-ein-klima-booster-fuer-glasgow-a-b5b14656-355b-4480-af7b-92647d6d1abe#ref=rss)
+### corona
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/corona-impfhersteller-chef-verurteilt-drittimpfungen-als-unethisch](https://www.spiegel.de/wirtschaft/unternehmen/corona-impfhersteller-chef-verurteilt-drittimpfungen-als-unethisch-a-6a0050b8-4148-424a-aa63-3595fce8ecdb#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/corona-impfhersteller-chef-verurteilt-drittimpfungen-als-unethisch](https://www.spiegel.de/wirtschaft/unternehmen/corona-impfhersteller-chef-verurteilt-drittimpfungen-als-unethisch-a-6a0050b8-4148-424a-aa63-3595fce8ecdb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/limburger-lkw-attacke-muss-erneut-verhandelt-werden-bgh-beschluss](https://www.spiegel.de/panorama/justiz/limburger-lkw-attacke-muss-erneut-verhandelt-werden-bgh-beschluss-a-479dc966-060f-464e-a028-91128b286632#ref=rss)
+### welt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/corona-impfhersteller-chef-verurteilt-drittimpfungen-als-unethisch](https://www.spiegel.de/wirtschaft/unternehmen/corona-impfhersteller-chef-verurteilt-drittimpfungen-als-unethisch-a-6a0050b8-4148-424a-aa63-3595fce8ecdb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/doing-business-index-der-weltbank-der-gradmesser-fuer-die-wirtschaftsfreundlichkeit-der-welt-ist-kaputt](https://www.spiegel.de/wirtschaft/doing-business-index-der-weltbank-der-gradmesser-fuer-die-wirtschaftsfreundlichkeit-der-welt-ist-kaputt-a-f5c0ca9b-622f-433e-86f7-a9c9d8868e6e#ref=rss)
+### chef
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/corona-impfhersteller-chef-verurteilt-drittimpfungen-als-unethisch](https://www.spiegel.de/wirtschaft/unternehmen/corona-impfhersteller-chef-verurteilt-drittimpfungen-als-unethisch-a-6a0050b8-4148-424a-aa63-3595fce8ecdb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/greenpeace-fordert-klimaaktivisten-auf-proteste-zu-beenden](https://www.spiegel.de/politik/deutschland/greenpeace-fordert-klimaaktivisten-auf-proteste-zu-beenden-a-779fffec-cecd-46e6-a123-78fe37b69f3b#ref=rss)
+### clive
+
+* [https://www.spiegel.de/netzwelt/gadgets/clive-sinclair-mr-inventor-der-vater-des-zx81-ist-tot](https://www.spiegel.de/netzwelt/gadgets/clive-sinclair-mr-inventor-der-vater-des-zx81-ist-tot-a-8ce72d69-7b90-47a1-b892-fe711e3e4147#ref=rss)
+### sinclair
+
+* [https://www.spiegel.de/netzwelt/gadgets/clive-sinclair-mr-inventor-der-vater-des-zx81-ist-tot](https://www.spiegel.de/netzwelt/gadgets/clive-sinclair-mr-inventor-der-vater-des-zx81-ist-tot-a-8ce72d69-7b90-47a1-b892-fe711e3e4147#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/netzwelt/gadgets/clive-sinclair-mr-inventor-der-vater-des-zx81-ist-tot](https://www.spiegel.de/netzwelt/gadgets/clive-sinclair-mr-inventor-der-vater-des-zx81-ist-tot-a-8ce72d69-7b90-47a1-b892-fe711e3e4147#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-die-schlimmsten-tage-meines-lebens](https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-die-schlimmsten-tage-meines-lebens-a-623e33a4-331e-4c37-a7ed-d227db98b393#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-erst-kamen-die-rassisten-dann-die-gaffer-bilder](https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-erst-kamen-die-rassisten-dann-die-gaffer-bilder-a-e3b757ac-5a2a-4394-95aa-a0f3e328ff24#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-erst-kamen-die-rassisten-dann-die-gaffer-bilder](https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-erst-kamen-die-rassisten-dann-die-gaffer-bilder-a-e3b757ac-5a2a-4394-95aa-a0f3e328ff24#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-die-schlimmsten-tage-meines-lebens](https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-die-schlimmsten-tage-meines-lebens-a-623e33a4-331e-4c37-a7ed-d227db98b393#ref=rss)
+### nena
+
+* [https://www.spiegel.de/kultur/musik/nena-sagt-tour-ab-kritik-an-coronaregeln](https://www.spiegel.de/kultur/musik/nena-sagt-tour-ab-kritik-an-coronaregeln-a-b8ab6077-1068-4261-a5a2-9a987a5a756d#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/kultur/musik/nena-sagt-tour-ab-kritik-an-coronaregeln](https://www.spiegel.de/kultur/musik/nena-sagt-tour-ab-kritik-an-coronaregeln-a-b8ab6077-1068-4261-a5a2-9a987a5a756d#ref=rss)
+### tour
+
+* [https://www.spiegel.de/kultur/musik/nena-sagt-tour-ab-kritik-an-coronaregeln](https://www.spiegel.de/kultur/musik/nena-sagt-tour-ab-kritik-an-coronaregeln-a-b8ab6077-1068-4261-a5a2-9a987a5a756d#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/kultur/musik/nena-sagt-tour-ab-kritik-an-coronaregeln](https://www.spiegel.de/kultur/musik/nena-sagt-tour-ab-kritik-an-coronaregeln-a-b8ab6077-1068-4261-a5a2-9a987a5a756d#ref=rss)
+* [https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht](https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht-a-3c20269c-a99e-4642-b3ce-eed4e3726caf#ref=rss)
+### tage
+
+* [https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-die-schlimmsten-tage-meines-lebens](https://www.spiegel.de/panorama/gesellschaft/hoyerswerda-1991-die-schlimmsten-tage-meines-lebens-a-623e33a4-331e-4c37-a7ed-d227db98b393#ref=rss)
+* [https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht](https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht-a-3c20269c-a99e-4642-b3ce-eed4e3726caf#ref=rss)
+### wahlomat
+
+* [https://www.spiegel.de/politik/deutschland/nutzungsrekord-beim-wahl-o-mat](https://www.spiegel.de/politik/deutschland/nutzungsrekord-beim-wahl-o-mat-a-fbabe679-5d49-4a44-9c98-ea5d0a4ccb95#ref=rss)
+### nie
+
+* [https://www.spiegel.de/politik/deutschland/nutzungsrekord-beim-wahl-o-mat](https://www.spiegel.de/politik/deutschland/nutzungsrekord-beim-wahl-o-mat-a-fbabe679-5d49-4a44-9c98-ea5d0a4ccb95#ref=rss)
+* [https://www.spiegel.de/wirtschaft/onecoin-mutmassliche-helfer-der-kryptokoenigin-vor-gericht](https://www.spiegel.de/wirtschaft/onecoin-mutmassliche-helfer-der-kryptokoenigin-vor-gericht-a-0fca38f3-185f-4f80-babd-ca60f7c10134#ref=rss)
+### terrorverdächtiger
+
+* [https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft](https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft-a-1c1957b2-4f87-461b-bafa-29009988173f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt](https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt-a-ca821ca8-671f-4fe4-bf86-959095faea8e#ref=rss)
+### syrer
+
+* [https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft](https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft-a-1c1957b2-4f87-461b-bafa-29009988173f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt](https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt-a-ca821ca8-671f-4fe4-bf86-959095faea8e#ref=rss)
+### untersuchungshaft
+
+* [https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft](https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft-a-1c1957b2-4f87-461b-bafa-29009988173f#ref=rss)
+### anschlag
+
+* [https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft](https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft-a-1c1957b2-4f87-461b-bafa-29009988173f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt](https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt-a-ca821ca8-671f-4fe4-bf86-959095faea8e#ref=rss)
 ### synagoge
 
-* [https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen](https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen-a-ac44aa59-b2c0-4e36-94a9-cffa3e247f04#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen](https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen-a-ac44aa59-b2c0-4e36-94a9-cffa3e247f04#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zoll-in-berlin-beschlagnahmt-fast-100-kilo-drogen](https://www.spiegel.de/panorama/justiz/zoll-in-berlin-beschlagnahmt-fast-100-kilo-drogen-a-3d9cd196-ca08-461d-898d-741852514bcc#ref=rss)
-### 16jähriger
-
-* [https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen](https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen-a-ac44aa59-b2c0-4e36-94a9-cffa3e247f04#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren](https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren-a-858dea11-cc5c-4411-aa8b-59b1f8b3b676#ref=rss)
+* [https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft](https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft-a-1c1957b2-4f87-461b-bafa-29009988173f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt](https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt-a-ca821ca8-671f-4fe4-bf86-959095faea8e#ref=rss)
 ### geplant
 
-* [https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen](https://www.spiegel.de/panorama/justiz/synagoge-in-hagen-wie-die-ermittler-dem-terrorverdaechtigen-auf-die-spur-kamen-a-ac44aa59-b2c0-4e36-94a9-cffa3e247f04#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren](https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren-a-858dea11-cc5c-4411-aa8b-59b1f8b3b676#ref=rss)
-### news
+* [https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft](https://www.spiegel.de/panorama/hagen-terrorverdaechtiger-syrer-kommt-nicht-in-untersuchungshaft-a-1c1957b2-4f87-461b-bafa-29009988173f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt](https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt-a-ca821ca8-671f-4fe4-bf86-959095faea8e#ref=rss)
+### krampkarrenbauer
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/fox-news-skandalmoderator-piers-morgan-heuert-bei-murdoch-sender-an](https://www.spiegel.de/wirtschaft/unternehmen/fox-news-skandalmoderator-piers-morgan-heuert-bei-murdoch-sender-an-a-a1a4b8e2-008c-40f9-b988-8dbe6b1c7fb0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren](https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren-a-858dea11-cc5c-4411-aa8b-59b1f8b3b676#ref=rss)
-### piers
+* [https://www.spiegel.de/politik/deutschland/kramp-karrenbauer-dachte-wegen-afghanistan-ueber-ruecktritt-nach](https://www.spiegel.de/politik/deutschland/kramp-karrenbauer-dachte-wegen-afghanistan-ueber-ruecktritt-nach-a-ce776199-0b25-4563-acf2-f6dff042a2ed#ref=rss)
+### spät
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/fox-news-skandalmoderator-piers-morgan-heuert-bei-murdoch-sender-an](https://www.spiegel.de/wirtschaft/unternehmen/fox-news-skandalmoderator-piers-morgan-heuert-bei-murdoch-sender-an-a-a1a4b8e2-008c-40f9-b988-8dbe6b1c7fb0#ref=rss)
-### morgan
+* [https://www.spiegel.de/politik/deutschland/kramp-karrenbauer-dachte-wegen-afghanistan-ueber-ruecktritt-nach](https://www.spiegel.de/politik/deutschland/kramp-karrenbauer-dachte-wegen-afghanistan-ueber-ruecktritt-nach-a-ce776199-0b25-4563-acf2-f6dff042a2ed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/greenpeace-fordert-klimaaktivisten-auf-proteste-zu-beenden](https://www.spiegel.de/politik/deutschland/greenpeace-fordert-klimaaktivisten-auf-proteste-zu-beenden-a-779fffec-cecd-46e6-a123-78fe37b69f3b#ref=rss)
+### tote
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/fox-news-skandalmoderator-piers-morgan-heuert-bei-murdoch-sender-an](https://www.spiegel.de/wirtschaft/unternehmen/fox-news-skandalmoderator-piers-morgan-heuert-bei-murdoch-sender-an-a-a1a4b8e2-008c-40f9-b988-8dbe6b1c7fb0#ref=rss)
-### terroranschlag
+* [https://www.spiegel.de/panorama/niederlande-zwei-tote-in-wohnhaus-mann-mit-armbrust-festgenommen](https://www.spiegel.de/panorama/niederlande-zwei-tote-in-wohnhaus-mann-mit-armbrust-festgenommen-a-6477a05c-0902-4eea-9b13-76c10e6a32b6#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren](https://www.spiegel.de/politik/deutschland/news-des-tages-terroranschlag-in-hagen-tarifeinigung-zwischen-lokfuehrern-und-deutscher-bahn-coronaviren-a-858dea11-cc5c-4411-aa8b-59b1f8b3b676#ref=rss)
-### marks
+* [https://www.spiegel.de/panorama/niederlande-zwei-tote-in-wohnhaus-mann-mit-armbrust-festgenommen](https://www.spiegel.de/panorama/niederlande-zwei-tote-in-wohnhaus-mann-mit-armbrust-festgenommen-a-6477a05c-0902-4eea-9b13-76c10e6a32b6#ref=rss)
+### armbrust
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/marks-und-spencer-muss-wegen-brexit-filialen-in-frankreich-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/marks-und-spencer-muss-wegen-brexit-filialen-in-frankreich-schliessen-a-ffd54555-46ab-4992-a85b-b94a94c50d3b#ref=rss)
-### spencer
+* [https://www.spiegel.de/panorama/niederlande-zwei-tote-in-wohnhaus-mann-mit-armbrust-festgenommen](https://www.spiegel.de/panorama/niederlande-zwei-tote-in-wohnhaus-mann-mit-armbrust-festgenommen-a-6477a05c-0902-4eea-9b13-76c10e6a32b6#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/marks-und-spencer-muss-wegen-brexit-filialen-in-frankreich-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/marks-und-spencer-muss-wegen-brexit-filialen-in-frankreich-schliessen-a-ffd54555-46ab-4992-a85b-b94a94c50d3b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/greenpeace-fordert-klimaaktivisten-auf-proteste-zu-beenden](https://www.spiegel.de/politik/deutschland/greenpeace-fordert-klimaaktivisten-auf-proteste-zu-beenden-a-779fffec-cecd-46e6-a123-78fe37b69f3b#ref=rss)
+* [https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht](https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht-a-3c20269c-a99e-4642-b3ce-eed4e3726caf#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/politik/deutschland/greenpeace-fordert-klimaaktivisten-auf-proteste-zu-beenden](https://www.spiegel.de/politik/deutschland/greenpeace-fordert-klimaaktivisten-auf-proteste-zu-beenden-a-779fffec-cecd-46e6-a123-78fe37b69f3b#ref=rss)
+* [https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht](https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht-a-3c20269c-a99e-4642-b3ce-eed4e3726caf#ref=rss)
+### doing
+
+* [https://www.spiegel.de/wirtschaft/doing-business-index-der-weltbank-der-gradmesser-fuer-die-wirtschaftsfreundlichkeit-der-welt-ist-kaputt](https://www.spiegel.de/wirtschaft/doing-business-index-der-weltbank-der-gradmesser-fuer-die-wirtschaftsfreundlichkeit-der-welt-ist-kaputt-a-f5c0ca9b-622f-433e-86f7-a9c9d8868e6e#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/wirtschaft/doing-business-index-der-weltbank-der-gradmesser-fuer-die-wirtschaftsfreundlichkeit-der-welt-ist-kaputt](https://www.spiegel.de/wirtschaft/doing-business-index-der-weltbank-der-gradmesser-fuer-die-wirtschaftsfreundlichkeit-der-welt-ist-kaputt-a-f5c0ca9b-622f-433e-86f7-a9c9d8868e6e#ref=rss)
+* [https://www.spiegel.de/kultur/volksbuehne-berlin-unter-rene-pollesch-neueroeffnung-mit-raufereien](https://www.spiegel.de/kultur/volksbuehne-berlin-unter-rene-pollesch-neueroeffnung-mit-raufereien-a-eebd86c5-acdc-4360-9485-570479937709#ref=rss)
+### asylsuchende
+
+* [https://www.spiegel.de/ausland/asylsuchende-in-texas-joe-bidens-brueckenproblem](https://www.spiegel.de/ausland/asylsuchende-in-texas-joe-bidens-brueckenproblem-a-e2e0947d-460d-4f41-8375-fdf99e985378#ref=rss)
+### texas
+
+* [https://www.spiegel.de/ausland/asylsuchende-in-texas-joe-bidens-brueckenproblem](https://www.spiegel.de/ausland/asylsuchende-in-texas-joe-bidens-brueckenproblem-a-e2e0947d-460d-4f41-8375-fdf99e985378#ref=rss)
+### vodafone
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wiebke-winter-armin-laschet-vodafone-impfwerbung](https://www.spiegel.de/politik/deutschland/news-des-tages-wiebke-winter-armin-laschet-vodafone-impfwerbung-a-d3e0ae80-8eb7-4ff0-a5a2-abc0923c1be4#ref=rss)
+### neun
+
+* [https://www.spiegel.de/panorama/justiz/limburger-lkw-attacke-muss-erneut-verhandelt-werden-bgh-beschluss](https://www.spiegel.de/panorama/justiz/limburger-lkw-attacke-muss-erneut-verhandelt-werden-bgh-beschluss-a-479dc966-060f-464e-a028-91128b286632#ref=rss)
+* [https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht](https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht-a-3c20269c-a99e-4642-b3ce-eed4e3726caf#ref=rss)
+### herbert
+
+* [https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht](https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht-a-3c20269c-a99e-4642-b3ce-eed4e3726caf#ref=rss)
+### grönemeyer
+
+* [https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht](https://www.spiegel.de/kultur/wahlaufruf-von-herbert-groenemeyer-ich-bin-jetzt-65-und-es-ist-meine-generation-die-in-der-pflicht-steht-a-3c20269c-a99e-4642-b3ce-eed4e3726caf#ref=rss)
+### drei
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftswachstum-industrie-fehlt-der-schwung](https://www.spiegel.de/wirtschaft/wirtschaftswachstum-industrie-fehlt-der-schwung-a-7a2289bc-7596-4577-a729-a8d2a3f15097#ref=rss)
+* [https://www.spiegel.de/ausland/taliban-ersetzen-frauenministerium-durch-ministerium-der-tugenden-und-laster](https://www.spiegel.de/ausland/taliban-ersetzen-frauenministerium-durch-ministerium-der-tugenden-und-laster-a-fab02a4b-fb44-4994-820f-69e902c94443#ref=rss)
+### damengambit
+
+* [https://www.spiegel.de/kultur/tv/das-damengambit-georgische-schachlegende-verklagt-netflix](https://www.spiegel.de/kultur/tv/das-damengambit-georgische-schachlegende-verklagt-netflix-a-cb71610b-44a7-49a0-8c55-3c022b308240#ref=rss)
+### netflix
+
+* [https://www.spiegel.de/kultur/tv/das-damengambit-georgische-schachlegende-verklagt-netflix](https://www.spiegel.de/kultur/tv/das-damengambit-georgische-schachlegende-verklagt-netflix-a-cb71610b-44a7-49a0-8c55-3c022b308240#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/kultur/tv/das-damengambit-georgische-schachlegende-verklagt-netflix](https://www.spiegel.de/kultur/tv/das-damengambit-georgische-schachlegende-verklagt-netflix-a-cb71610b-44a7-49a0-8c55-3c022b308240#ref=rss)
+* [https://www.spiegel.de/wirtschaft/onecoin-mutmassliche-helfer-der-kryptokoenigin-vor-gericht](https://www.spiegel.de/wirtschaft/onecoin-mutmassliche-helfer-der-kryptokoenigin-vor-gericht-a-0fca38f3-185f-4f80-babd-ca60f7c10134#ref=rss)
+### haus
+
+* [https://www.spiegel.de/wissenschaft/mars-mission-haus-bauen-mit-traenen-schweiss-und-urin](https://www.spiegel.de/wissenschaft/mars-mission-haus-bauen-mit-traenen-schweiss-und-urin-a-d1777cc3-c017-465d-b20a-6fb7f3e0955b#ref=rss)
+* [https://www.spiegel.de/kultur/volksbuehne-berlin-unter-rene-pollesch-neueroeffnung-mit-raufereien](https://www.spiegel.de/kultur/volksbuehne-berlin-unter-rene-pollesch-neueroeffnung-mit-raufereien-a-eebd86c5-acdc-4360-9485-570479937709#ref=rss)
+### jan
+
+* [https://www.spiegel.de/wirtschaft/soziales/jan-marsalek-verdaechtige-mietueberweisung-an-fluechtigen-wirecard-manager](https://www.spiegel.de/wirtschaft/soziales/jan-marsalek-verdaechtige-mietueberweisung-an-fluechtigen-wirecard-manager-a-cd6cf358-ea07-4c02-acea-8b7644ae6c6a#ref=rss)
+### marsalek
+
+* [https://www.spiegel.de/wirtschaft/soziales/jan-marsalek-verdaechtige-mietueberweisung-an-fluechtigen-wirecard-manager](https://www.spiegel.de/wirtschaft/soziales/jan-marsalek-verdaechtige-mietueberweisung-an-fluechtigen-wirecard-manager-a-cd6cf358-ea07-4c02-acea-8b7644ae6c6a#ref=rss)
+### wirecardmanager
+
+* [https://www.spiegel.de/wirtschaft/soziales/jan-marsalek-verdaechtige-mietueberweisung-an-fluechtigen-wirecard-manager](https://www.spiegel.de/wirtschaft/soziales/jan-marsalek-verdaechtige-mietueberweisung-an-fluechtigen-wirecard-manager-a-cd6cf358-ea07-4c02-acea-8b7644ae6c6a#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/wirtschaft/soziales/jan-marsalek-verdaechtige-mietueberweisung-an-fluechtigen-wirecard-manager](https://www.spiegel.de/wirtschaft/soziales/jan-marsalek-verdaechtige-mietueberweisung-an-fluechtigen-wirecard-manager-a-cd6cf358-ea07-4c02-acea-8b7644ae6c6a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt](https://www.spiegel.de/panorama/justiz/hagen-terrorverdaechtiger-wird-haftrichter-vorgefuehrt-a-ca821ca8-671f-4fe4-bf86-959095faea8e#ref=rss)
+### onecoin
+
+* [https://www.spiegel.de/wirtschaft/onecoin-mutmassliche-helfer-der-kryptokoenigin-vor-gericht](https://www.spiegel.de/wirtschaft/onecoin-mutmassliche-helfer-der-kryptokoenigin-vor-gericht-a-0fca38f3-185f-4f80-babd-ca60f7c10134#ref=rss)
+### mutmaßliche
+
+* [https://www.spiegel.de/wirtschaft/onecoin-mutmassliche-helfer-der-kryptokoenigin-vor-gericht](https://www.spiegel.de/wirtschaft/onecoin-mutmassliche-helfer-der-kryptokoenigin-vor-gericht-a-0fca38f3-185f-4f80-babd-ca60f7c10134#ref=rss)
+### beginnt
+
+* [https://www.spiegel.de/wirtschaft/onecoin-mutmassliche-helfer-der-kryptokoenigin-vor-gericht](https://www.spiegel.de/wirtschaft/onecoin-mutmassliche-helfer-der-kryptokoenigin-vor-gericht-a-0fca38f3-185f-4f80-babd-ca60f7c10134#ref=rss)
+* [https://www.spiegel.de/kultur/volksbuehne-berlin-unter-rene-pollesch-neueroeffnung-mit-raufereien](https://www.spiegel.de/kultur/volksbuehne-berlin-unter-rene-pollesch-neueroeffnung-mit-raufereien-a-eebd86c5-acdc-4360-9485-570479937709#ref=rss)
+### taliban
+
+* [https://www.spiegel.de/ausland/taliban-ersetzen-frauenministerium-durch-ministerium-der-tugenden-und-laster](https://www.spiegel.de/ausland/taliban-ersetzen-frauenministerium-durch-ministerium-der-tugenden-und-laster-a-fab02a4b-fb44-4994-820f-69e902c94443#ref=rss)
+### frauenministerium
+
+* [https://www.spiegel.de/ausland/taliban-ersetzen-frauenministerium-durch-ministerium-der-tugenden-und-laster](https://www.spiegel.de/ausland/taliban-ersetzen-frauenministerium-durch-ministerium-der-tugenden-und-laster-a-fab02a4b-fb44-4994-820f-69e902c94443#ref=rss)
+### ministerium
+
+* [https://www.spiegel.de/ausland/taliban-ersetzen-frauenministerium-durch-ministerium-der-tugenden-und-laster](https://www.spiegel.de/ausland/taliban-ersetzen-frauenministerium-durch-ministerium-der-tugenden-und-laster-a-fab02a4b-fb44-4994-820f-69e902c94443#ref=rss)
+### rené
+
+* [https://www.spiegel.de/kultur/volksbuehne-berlin-unter-rene-pollesch-neueroeffnung-mit-raufereien](https://www.spiegel.de/kultur/volksbuehne-berlin-unter-rene-pollesch-neueroeffnung-mit-raufereien-a-eebd86c5-acdc-4360-9485-570479937709#ref=rss)
+### pollesch
+
+* [https://www.spiegel.de/kultur/volksbuehne-berlin-unter-rene-pollesch-neueroeffnung-mit-raufereien](https://www.spiegel.de/kultur/volksbuehne-berlin-unter-rene-pollesch-neueroeffnung-mit-raufereien-a-eebd86c5-acdc-4360-9485-570479937709#ref=rss)
+### alle
+
+* [https://www.spiegel.de/sport/fussball/fifa-will-alle-zwei-jahre-eine-wm-bis-zur-halskrause](https://www.spiegel.de/sport/fussball/fifa-will-alle-zwei-jahre-eine-wm-bis-zur-halskrause-a-c01ac185-3e08-4dd1-b907-7b0d22ee2fbd#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/sport/fussball/fifa-will-alle-zwei-jahre-eine-wm-bis-zur-halskrause](https://www.spiegel.de/sport/fussball/fifa-will-alle-zwei-jahre-eine-wm-bis-zur-halskrause-a-c01ac185-3e08-4dd1-b907-7b0d22ee2fbd#ref=rss)
 ### frankreich
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/marks-und-spencer-muss-wegen-brexit-filialen-in-frankreich-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/marks-und-spencer-muss-wegen-brexit-filialen-in-frankreich-schliessen-a-ffd54555-46ab-4992-a85b-b94a94c50d3b#ref=rss)
-### girls
+* [https://www.spiegel.de/netzwelt/web/frankreich-raetselt-ueber-mobbing-gegen-im-jahr-2010-geborene-kinder](https://www.spiegel.de/netzwelt/web/frankreich-raetselt-ueber-mobbing-gegen-im-jahr-2010-geborene-kinder-a-026a6c13-1178-4621-b25a-922b51980574#ref=rss)
+### 2010
 
-* [https://www.spiegel.de/kultur/tv/cheerleaderfilm-girls-united-gabrielle-union-kritisiert-eigene-rolle](https://www.spiegel.de/kultur/tv/cheerleaderfilm-girls-united-gabrielle-union-kritisiert-eigene-rolle-a-93a56b1d-9694-4580-abb5-8be61c2d53ef#ref=rss)
-### united
+* [https://www.spiegel.de/netzwelt/web/frankreich-raetselt-ueber-mobbing-gegen-im-jahr-2010-geborene-kinder](https://www.spiegel.de/netzwelt/web/frankreich-raetselt-ueber-mobbing-gegen-im-jahr-2010-geborene-kinder-a-026a6c13-1178-4621-b25a-922b51980574#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/kultur/tv/cheerleaderfilm-girls-united-gabrielle-union-kritisiert-eigene-rolle](https://www.spiegel.de/kultur/tv/cheerleaderfilm-girls-united-gabrielle-union-kritisiert-eigene-rolle-a-93a56b1d-9694-4580-abb5-8be61c2d53ef#ref=rss)
-### gabrielle
-
-* [https://www.spiegel.de/kultur/tv/cheerleaderfilm-girls-united-gabrielle-union-kritisiert-eigene-rolle](https://www.spiegel.de/kultur/tv/cheerleaderfilm-girls-united-gabrielle-union-kritisiert-eigene-rolle-a-93a56b1d-9694-4580-abb5-8be61c2d53ef#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/kultur/tv/cheerleaderfilm-girls-united-gabrielle-union-kritisiert-eigene-rolle](https://www.spiegel.de/kultur/tv/cheerleaderfilm-girls-united-gabrielle-union-kritisiert-eigene-rolle-a-93a56b1d-9694-4580-abb5-8be61c2d53ef#ref=rss)
-* [https://www.spiegel.de/ausland/eu-parlament-kritisiert-russland-als-korruptes-regime](https://www.spiegel.de/ausland/eu-parlament-kritisiert-russland-als-korruptes-regime-a-270dc2bd-7bb7-4a64-a44c-2bf49a8596f8#ref=rss)
-### rolle
-
-* [https://www.spiegel.de/kultur/tv/cheerleaderfilm-girls-united-gabrielle-union-kritisiert-eigene-rolle](https://www.spiegel.de/kultur/tv/cheerleaderfilm-girls-united-gabrielle-union-kritisiert-eigene-rolle-a-93a56b1d-9694-4580-abb5-8be61c2d53ef#ref=rss)
-### dänemark
-
-* [https://www.spiegel.de/panorama/justiz/daenemark-langzeitgefangene-sollen-keine-neuen-beziehungen-eingehen-duerfen](https://www.spiegel.de/panorama/justiz/daenemark-langzeitgefangene-sollen-keine-neuen-beziehungen-eingehen-duerfen-a-eb4b96ea-2fdd-4e8d-b0c4-ba316206815f#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/staatsanwaltschaft-bestaetigt-schwachstelle-in-wahlkampf-app-der-cdu](https://www.spiegel.de/netzwelt/netzpolitik/staatsanwaltschaft-bestaetigt-schwachstelle-in-wahlkampf-app-der-cdu-a-b66c2a32-4c4c-4337-83b3-795d749ee4b7#ref=rss)
-### vier
-
-* [https://www.spiegel.de/wissenschaft/amateure-im-all](https://www.spiegel.de/wissenschaft/amateure-im-all-a-407e056b-3bd6-42b6-adb4-fb54eca7a33d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zoll-in-berlin-beschlagnahmt-fast-100-kilo-drogen](https://www.spiegel.de/panorama/justiz/zoll-in-berlin-beschlagnahmt-fast-100-kilo-drogen-a-3d9cd196-ca08-461d-898d-741852514bcc#ref=rss)
-### boateng
-
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-akzeptiert-urteil-nicht-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/jerome-boateng-akzeptiert-urteil-nicht-berufung-eingelegt-a-fedf98a7-bf62-4517-b6e4-4edd13876223#ref=rss)
-### akzeptiert
-
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-akzeptiert-urteil-nicht-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/jerome-boateng-akzeptiert-urteil-nicht-berufung-eingelegt-a-fedf98a7-bf62-4517-b6e4-4edd13876223#ref=rss)
-### strafe
-
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-akzeptiert-urteil-nicht-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/jerome-boateng-akzeptiert-urteil-nicht-berufung-eingelegt-a-fedf98a7-bf62-4517-b6e4-4edd13876223#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/rendsburger-frauenmoerder-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/rendsburger-frauenmoerder-zu-lebenslanger-haft-verurteilt-a-57452e2a-2675-446a-b4a2-646d4b11a0ab#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-akzeptiert-urteil-nicht-berufung-eingelegt](https://www.spiegel.de/panorama/justiz/jerome-boateng-akzeptiert-urteil-nicht-berufung-eingelegt-a-fedf98a7-bf62-4517-b6e4-4edd13876223#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zoll-in-berlin-beschlagnahmt-fast-100-kilo-drogen](https://www.spiegel.de/panorama/justiz/zoll-in-berlin-beschlagnahmt-fast-100-kilo-drogen-a-3d9cd196-ca08-461d-898d-741852514bcc#ref=rss)
-### rechtsterrorismus
-
-* [https://www.spiegel.de/politik/deutschland/nehmen-wir-die-gefahr-durch-rechtsterrorismus-ernst-genug-podcast](https://www.spiegel.de/politik/deutschland/nehmen-wir-die-gefahr-durch-rechtsterrorismus-ernst-genug-podcast-a-85ffafac-7ec1-46e1-ab6c-e63945828a38#ref=rss)
-### fällt
-
-* [https://www.spiegel.de/politik/deutschland/nehmen-wir-die-gefahr-durch-rechtsterrorismus-ernst-genug-podcast](https://www.spiegel.de/politik/deutschland/nehmen-wir-die-gefahr-durch-rechtsterrorismus-ernst-genug-podcast-a-85ffafac-7ec1-46e1-ab6c-e63945828a38#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reiner-haseloff-faellt-im-landtag-in-sachsen-anhalt-durch-der-warnschuss](https://www.spiegel.de/politik/deutschland/reiner-haseloff-faellt-im-landtag-in-sachsen-anhalt-durch-der-warnschuss-a-7a8aa153-6da4-468e-9905-5b146c7b38e6#ref=rss)
-### rheinland
-
-* [https://www.spiegel.de/panorama/bildung/teure-privatschule-ist-nicht-gemeinnuetzig](https://www.spiegel.de/panorama/bildung/teure-privatschule-ist-nicht-gemeinnuetzig-a-8df33369-e81f-4b64-b0f8-990e05dfdb2d#ref=rss)
-### gemeinnützig
-
-* [https://www.spiegel.de/panorama/bildung/teure-privatschule-ist-nicht-gemeinnuetzig](https://www.spiegel.de/panorama/bildung/teure-privatschule-ist-nicht-gemeinnuetzig-a-8df33369-e81f-4b64-b0f8-990e05dfdb2d#ref=rss)
-### christoph
-
-* [https://www.spiegel.de/politik/deutschland/republik-21-im-gespraech-mit-christoph-ploss](https://www.spiegel.de/politik/deutschland/republik-21-im-gespraech-mit-christoph-ploss-a-d1b993ee-b248-4cb0-8c83-0a97db28a150#ref=rss)
-### ploß
-
-* [https://www.spiegel.de/politik/deutschland/republik-21-im-gespraech-mit-christoph-ploss](https://www.spiegel.de/politik/deutschland/republik-21-im-gespraech-mit-christoph-ploss-a-d1b993ee-b248-4cb0-8c83-0a97db28a150#ref=rss)
-### drogen
-
-* [https://www.spiegel.de/panorama/justiz/zoll-in-berlin-beschlagnahmt-fast-100-kilo-drogen](https://www.spiegel.de/panorama/justiz/zoll-in-berlin-beschlagnahmt-fast-100-kilo-drogen-a-3d9cd196-ca08-461d-898d-741852514bcc#ref=rss)
-### reiner
-
-* [https://www.spiegel.de/politik/deutschland/reiner-haseloff-faellt-im-landtag-in-sachsen-anhalt-durch-der-warnschuss](https://www.spiegel.de/politik/deutschland/reiner-haseloff-faellt-im-landtag-in-sachsen-anhalt-durch-der-warnschuss-a-7a8aa153-6da4-468e-9905-5b146c7b38e6#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/reiner-haseloff-faellt-im-landtag-in-sachsen-anhalt-durch-der-warnschuss](https://www.spiegel.de/politik/deutschland/reiner-haseloff-faellt-im-landtag-in-sachsen-anhalt-durch-der-warnschuss-a-7a8aa153-6da4-468e-9905-5b146c7b38e6#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/frankreich-raetselt-ueber-mobbing-gegen-im-jahr-2010-geborene-kinder](https://www.spiegel.de/netzwelt/web/frankreich-raetselt-ueber-mobbing-gegen-im-jahr-2010-geborene-kinder-a-026a6c13-1178-4621-b25a-922b51980574#ref=rss)
 
