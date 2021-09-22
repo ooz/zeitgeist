@@ -113,13 +113,13 @@ inter(335) james(335) ungewöhnlicher(335) vergewaltigt(334) geholfen(333) gesch
 
 ```
 date, investment, buy price, sell price
-2021-09-15 10:09:51, 1-EUR, 1.18 USD, 1.18 USD
-2021-09-15 10:09:51, 1-EUR, 7.61 CNY, 7.61 CNY
-2021-09-15 10:09:52, crude-oil-brent-barrel, 74.64 USD, 74.64 USD
-2021-09-15 10:09:52, gold-10g, 512.98 EUR, 485.08 EUR
-2021-09-15 10:09:57, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-09-15 10:09:58, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-09-15 10:10:00, lego-2019-60225-1-rovertestfahrt, 22.0 USD, 22.0 USD
+2021-09-22 10:09:46, 1-EUR, 1.17 USD, 1.17 USD
+2021-09-22 10:09:46, 1-EUR, 7.59 CNY, 7.59 CNY
+2021-09-22 10:09:47, crude-oil-brent-barrel, 75.28 USD, 75.28 USD
+2021-09-22 10:09:47, gold-10g, 509.82 EUR, 481.95 EUR
+2021-09-22 10:09:51, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-09-22 10:09:53, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-09-22 10:09:54, lego-2019-60225-1-rovertestfahrt, 23.0 USD, 23.0 USD
 ```
 
 <footer>
