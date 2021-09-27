@@ -6,478 +6,341 @@ tags: __no_header__
 
 ### bundestagswahl
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-sieht-auftrag-zur-regierungsbildung-fuer-sich](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-sieht-auftrag-zur-regierungsbildung-fuer-sich-a-53ea4039-db18-4267-8e54-5e9340a1d73e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu-a-d65493f1-fb13-49bb-8a98-e3e12b2ad798#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ergebnis-so-hat-deutschland-gewaehlt-aktuelle-ergebnisse](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ergebnis-so-hat-deutschland-gewaehlt-aktuelle-ergebnisse-a-9fb7a33e-0918-4cf0-ab0d-5eb35bd3b7f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-sehen-sie-hier-die-wahlpartys-der-parteien-livestream](https://www.spiegel.de/politik/deutschland/bundestagswahl-sehen-sie-hier-die-wahlpartys-der-parteien-livestream-a-28be9580-4c00-4446-b1bf-fcc8b49bd9ce#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert-a-a1bde461-0bd9-4908-b804-d1102aa4e0a8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar-a-765f7e0f-6b1d-47bd-afbc-346b605d2fb9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen-a-3db7ace0-5bbb-4690-9ffc-4e4b7674be95#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne-a-224ccb30-5c3d-457c-946c-670221096066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen-a-3db7ace0-5bbb-4690-9ffc-4e4b7674be95#ref=rss)
-### 2021
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu-a-d65493f1-fb13-49bb-8a98-e3e12b2ad798#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ergebnis-so-hat-deutschland-gewaehlt-aktuelle-ergebnisse](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ergebnis-so-hat-deutschland-gewaehlt-aktuelle-ergebnisse-a-9fb7a33e-0918-4cf0-ab0d-5eb35bd3b7f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick-a-371193d4-8934-4a56-9ed7-fd601925a496#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert-a-a1bde461-0bd9-4908-b804-d1102aa4e0a8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-wahllokalen-fehlen-stimmzettel-lange-warteschlangen](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-wahllokalen-fehlen-stimmzettel-lange-warteschlangen-a-e2b81bfb-845f-4a31-979e-da9c36873d23#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar-a-765f7e0f-6b1d-47bd-afbc-346b605d2fb9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen-a-3db7ace0-5bbb-4690-9ffc-4e4b7674be95#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst](https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst-a-784d19a7-a2de-4b97-846e-185b96f07ef4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-sieht-auftrag-zur-regierungsbildung-fuer-sich](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-sieht-auftrag-zur-regierungsbildung-fuer-sich-a-53ea4039-db18-4267-8e54-5e9340a1d73e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen-a-3db7ace0-5bbb-4690-9ffc-4e4b7674be95#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst](https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst-a-784d19a7-a2de-4b97-846e-185b96f07ef4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-sieht-auftrag-zur-regierungsbildung-fuer-sich](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-sieht-auftrag-zur-regierungsbildung-fuer-sich-a-53ea4039-db18-4267-8e54-5e9340a1d73e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen-a-3db7ace0-5bbb-4690-9ffc-4e4b7674be95#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne-a-224ccb30-5c3d-457c-946c-670221096066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu-a-d65493f1-fb13-49bb-8a98-e3e12b2ad798#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-### armin
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu-a-d65493f1-fb13-49bb-8a98-e3e12b2ad798#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar-a-765f7e0f-6b1d-47bd-afbc-346b605d2fb9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen-a-3db7ace0-5bbb-4690-9ffc-4e4b7674be95#ref=rss)
-### laschet
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu-a-d65493f1-fb13-49bb-8a98-e3e12b2ad798#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar-a-765f7e0f-6b1d-47bd-afbc-346b605d2fb9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen-a-3db7ace0-5bbb-4690-9ffc-4e4b7674be95#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne-a-224ccb30-5c3d-457c-946c-670221096066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu-a-d65493f1-fb13-49bb-8a98-e3e12b2ad798#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen-a-3db7ace0-5bbb-4690-9ffc-4e4b7674be95#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder](https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder-a-0944b3a3-9bba-4fe2-8f00-d085a1a67acf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-wahllokalen-fehlen-stimmzettel-lange-warteschlangen](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-wahllokalen-fehlen-stimmzettel-lange-warteschlangen-a-e2b81bfb-845f-4a31-979e-da9c36873d23#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst](https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst-a-784d19a7-a2de-4b97-846e-185b96f07ef4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-wahllokalen-fehlen-stimmzettel-lange-warteschlangen](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-wahllokalen-fehlen-stimmzettel-lange-warteschlangen-a-e2b81bfb-845f-4a31-979e-da9c36873d23#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar-a-765f7e0f-6b1d-47bd-afbc-346b605d2fb9#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-### prognosen
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-### ergebnisse
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ergebnis-so-hat-deutschland-gewaehlt-aktuelle-ergebnisse](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ergebnis-so-hat-deutschland-gewaehlt-aktuelle-ergebnisse-a-9fb7a33e-0918-4cf0-ab0d-5eb35bd3b7f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick-a-371193d4-8934-4a56-9ed7-fd601925a496#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert-a-a1bde461-0bd9-4908-b804-d1102aa4e0a8#ref=rss)
-### hochrechnung
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne-a-224ccb30-5c3d-457c-946c-670221096066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-### stimmzettel
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder](https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder-a-0944b3a3-9bba-4fe2-8f00-d085a1a67acf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-wahllokalen-fehlen-stimmzettel-lange-warteschlangen](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-wahllokalen-fehlen-stimmzettel-lange-warteschlangen-a-e2b81bfb-845f-4a31-979e-da9c36873d23#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar-a-765f7e0f-6b1d-47bd-afbc-346b605d2fb9#ref=rss)
-### grüne
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen-a-3db7ace0-5bbb-4690-9ffc-4e4b7674be95#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert-a-a1bde461-0bd9-4908-b804-d1102aa4e0a8#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst](https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst-a-784d19a7-a2de-4b97-846e-185b96f07ef4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-sieht-auftrag-zur-regierungsbildung-fuer-sich](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-sieht-auftrag-zur-regierungsbildung-fuer-sich-a-53ea4039-db18-4267-8e54-5e9340a1d73e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-### liegen
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-### mecklenburgvorpommern
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne-a-224ccb30-5c3d-457c-946c-670221096066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-### kraft
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne-a-224ccb30-5c3d-457c-946c-670221096066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne-a-224ccb30-5c3d-457c-946c-670221096066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-### berlinwahl
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick-a-371193d4-8934-4a56-9ed7-fd601925a496#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick-a-371193d4-8934-4a56-9ed7-fd601925a496#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst](https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst-a-784d19a7-a2de-4b97-846e-185b96f07ef4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-sieht-auftrag-zur-regierungsbildung-fuer-sich](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-sieht-auftrag-zur-regierungsbildung-fuer-sich-a-53ea4039-db18-4267-8e54-5e9340a1d73e#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ergebnis-so-hat-deutschland-gewaehlt-aktuelle-ergebnisse](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ergebnis-so-hat-deutschland-gewaehlt-aktuelle-ergebnisse-a-9fb7a33e-0918-4cf0-ab0d-5eb35bd3b7f0#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-### cdu/csu
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu-a-d65493f1-fb13-49bb-8a98-e3e12b2ad798#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-### fast
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-### gleichauf
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ergebnis-so-hat-deutschland-gewaehlt-aktuelle-ergebnisse](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ergebnis-so-hat-deutschland-gewaehlt-aktuelle-ergebnisse-a-9fb7a33e-0918-4cf0-ab0d-5eb35bd3b7f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick-a-371193d4-8934-4a56-9ed7-fd601925a496#ref=rss)
-### alle
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick-a-371193d4-8934-4a56-9ed7-fd601925a496#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-wahllokalen-fehlen-stimmzettel-lange-warteschlangen](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-wahllokalen-fehlen-stimmzettel-lange-warteschlangen-a-e2b81bfb-845f-4a31-979e-da9c36873d23#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-vfl-bochum-trennen-sich-torlos](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-vfl-bochum-trennen-sich-torlos-a-22393db1-95ff-4974-89ed-127ffc50a87c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-das-sagen-die-gruenen-zum-wahlergebnis](https://www.spiegel.de/politik/deutschland/bundestagswahl-das-sagen-die-gruenen-zum-wahlergebnis-a-d26084f3-61bf-403d-9450-551debd76630#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-so-beurteilt-die-fdp-das-ergebnis](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-so-beurteilt-die-fdp-das-ergebnis-a-b740e613-5c7d-49bb-b9be-787b474c5c39#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten-a-7ef99bb6-dd8a-48f9-bdaf-34260f00cb1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden-a-33427d18-039b-4bd9-af03-b97bba227c6f#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-und-zdf-pruefen-rechtliche-schritte-wegen-bild-tv-sendung](https://www.spiegel.de/kultur/tv/ard-und-zdf-pruefen-rechtliche-schritte-wegen-bild-tv-sendung-a-9f38bc93-854f-448b-ac94-69f8968816f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt](https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt-a-625bd2cd-0879-4a4d-a33e-86aafead3756#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-bundestagswahl-sondierungen-zwischen-kleineren-partnern-waeren-frueher-undenkbar-gewesen](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-bundestagswahl-sondierungen-zwischen-kleineren-partnern-waeren-frueher-undenkbar-gewesen-a-ba2204b9-5b68-4040-8bf1-e691bf3c13fe#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/familie/kinderschutz-was-junge-menschen-gegen-gewalt-tun-koennen-podcast-von-dein-spiegel](https://www.spiegel.de/familie/kinderschutz-was-junge-menschen-gegen-gewalt-tun-koennen-podcast-von-dein-spiegel-a-e62b5dec-e82b-4ffc-8844-e8cf1a082dd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch](https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch-a-232079ce-6a6e-41e0-8834-f131432caaf5#ref=rss)
-### tunesien
+* [https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten](https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten-a-98599c57-bf4a-47c1-8660-5d7ad0c63a83#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere-a-a10a9f64-476a-43a1-a053-d34a67316b01#ref=rss)
+* [https://www.spiegel.de/ausland/krise-an-britischen-tankstellen-ich-warte-hier-seit-fast-einer-stunde](https://www.spiegel.de/ausland/krise-an-britischen-tankstellen-ich-warte-hier-seit-fast-einer-stunde-a-fe05c9cf-3f37-48f4-a152-796fe5d2a27f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung-a-63a45dd8-867a-4372-ad6c-cae50b205e49#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-heute-geborene-kinder-koennten-siebenmal-mehr-hitzewellen-erleben](https://www.spiegel.de/wissenschaft/mensch/klimakrise-heute-geborene-kinder-koennten-siebenmal-mehr-hitzewellen-erleben-a-7546b8cd-35a1-4e56-924a-44d6ec1758f3#ref=rss)
+* [https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet](https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet-a-534cdde5-15b0-4e33-9a66-57a09624226f#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/ausland/tunesien-tausende-demonstrieren-gegen-praesidenten](https://www.spiegel.de/ausland/tunesien-tausende-demonstrieren-gegen-praesidenten-a-c4e95e8e-fef6-4815-9905-d897fba294bb#ref=rss)
-* [https://www.spiegel.de/ausland/islamismus-experte-lefevre-das-modell-der-taliban-ist-fuer-islamistische-rebellen-attraktiv-geworden](https://www.spiegel.de/ausland/islamismus-experte-lefevre-das-modell-der-taliban-ist-fuer-islamistische-rebellen-attraktiv-geworden-a-671453f0-108b-4144-936c-f57b80e70ec6#ref=rss)
-### landtagswahl
+* [https://www.spiegel.de/ausland/chinas-neue-familienpolitik-regierung-will-zahl-der-abtreibungen-reduzieren](https://www.spiegel.de/ausland/chinas-neue-familienpolitik-regierung-will-zahl-der-abtreibungen-reduzieren-a-e4096447-bf79-4e70-bb7e-1e72526b7424#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/markus-beckedahl-ueber-digital-bilanz-von-angela-merkel-richtig-ahnung-hat-nur-die-dritte-reihe](https://www.spiegel.de/netzwelt/netzpolitik/markus-beckedahl-ueber-digital-bilanz-von-angela-merkel-richtig-ahnung-hat-nur-die-dritte-reihe-a-f253ec4b-e523-4c1a-8fc4-81dccb9c0aa9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden-a-33427d18-039b-4bd9-af03-b97bba227c6f#ref=rss)
+* [https://www.spiegel.de/ausland/kosovo-und-serbien-nato-ruft-im-streit-ueber-kfz-kennzeichen-zur-zurueckhaltung-auf](https://www.spiegel.de/ausland/kosovo-und-serbien-nato-ruft-im-streit-ueber-kfz-kennzeichen-zur-zurueckhaltung-auf-a-870fe2fe-e710-4dc3-a93b-aaa5902ccd32#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne-a-224ccb30-5c3d-457c-946c-670221096066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-### wahlsieger
+* [https://www.spiegel.de/start/stipendium-der-stiftung-der-deutschen-wirtschaft-voraussetzungen-bewerbung-foerderung](https://www.spiegel.de/start/stipendium-der-stiftung-der-deutschen-wirtschaft-voraussetzungen-bewerbung-foerderung-a-1f00c50f-7fca-4a5b-96ab-d4274192adb2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-das-wird-eine-umstellung-sein-der-wahlsonntag-in-der-hauptstadt-spiegel-tv](https://www.spiegel.de/politik/deutschland/berlin-das-wird-eine-umstellung-sein-der-wahlsonntag-in-der-hauptstadt-spiegel-tv-a-5b7388fe-8917-4f83-9a84-ee43c0f9e804#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere-a-a10a9f64-476a-43a1-a053-d34a67316b01#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten-a-7ef99bb6-dd8a-48f9-bdaf-34260f00cb1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-bundestagswahl-sondierungen-zwischen-kleineren-partnern-waeren-frueher-undenkbar-gewesen](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-bundestagswahl-sondierungen-zwischen-kleineren-partnern-waeren-frueher-undenkbar-gewesen-a-ba2204b9-5b68-4040-8bf1-e691bf3c13fe#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne-a-224ccb30-5c3d-457c-946c-670221096066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-### zweitstärkste
+* [https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten](https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten-a-98599c57-bf4a-47c1-8660-5d7ad0c63a83#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung-a-63a45dd8-867a-4372-ad6c-cae50b205e49#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt](https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt-a-625bd2cd-0879-4a4d-a33e-86aafead3756#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne-a-224ccb30-5c3d-457c-946c-670221096066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-### demnach
+* [https://www.spiegel.de/politik/deutschland/berlin-das-wird-eine-umstellung-sein-der-wahlsonntag-in-der-hauptstadt-spiegel-tv](https://www.spiegel.de/politik/deutschland/berlin-das-wird-eine-umstellung-sein-der-wahlsonntag-in-der-hauptstadt-spiegel-tv-a-5b7388fe-8917-4f83-9a84-ee43c0f9e804#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-waehlerwanderung-wie-verteidigte-franziska-giffey-platz-eins](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-waehlerwanderung-wie-verteidigte-franziska-giffey-platz-eins-a-b4c79755-25e6-4b20-a4e0-822e9576b123#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ssw-minderheiten-partei-der-daenen-und-friesen-im-bundestag-das-will-sie-und-das-kann-sie](https://www.spiegel.de/politik/deutschland/ssw-minderheiten-partei-der-daenen-und-friesen-im-bundestag-das-will-sie-und-das-kann-sie-a-0ccff25c-7094-4663-a904-afabcbb252fb#ref=rss)
+### 2021
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne-a-224ccb30-5c3d-457c-946c-670221096066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-### schlechtesten
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-waehlerwanderung-wie-verteidigte-franziska-giffey-platz-eins](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-waehlerwanderung-wie-verteidigte-franziska-giffey-platz-eins-a-b4c79755-25e6-4b20-a4e0-822e9576b123#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-so-beurteilt-die-fdp-das-ergebnis](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-so-beurteilt-die-fdp-das-ergebnis-a-b740e613-5c7d-49bb-b9be-787b474c5c39#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten-a-7ef99bb6-dd8a-48f9-bdaf-34260f00cb1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden-a-33427d18-039b-4bd9-af03-b97bba227c6f#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-hochrechnungen-bestaetigen-spd-klar-vorne-a-224ccb30-5c3d-457c-946c-670221096066#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-### prenzlauer
+* [https://www.spiegel.de/politik/deutschland/ssw-minderheiten-partei-der-daenen-und-friesen-im-bundestag-das-will-sie-und-das-kann-sie](https://www.spiegel.de/politik/deutschland/ssw-minderheiten-partei-der-daenen-und-friesen-im-bundestag-das-will-sie-und-das-kann-sie-a-0ccff25c-7094-4663-a904-afabcbb252fb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten-a-7ef99bb6-dd8a-48f9-bdaf-34260f00cb1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt](https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt-a-625bd2cd-0879-4a4d-a33e-86aafead3756#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder](https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder-a-0944b3a3-9bba-4fe2-8f00-d085a1a67acf#ref=rss)
-### berg
+* [https://www.spiegel.de/panorama/justiz/trebur-in-hessen-mann-findet-zwei-scharfe-handgranaten](https://www.spiegel.de/panorama/justiz/trebur-in-hessen-mann-findet-zwei-scharfe-handgranaten-a-445649a9-cffc-4b3b-9546-da107ce04fba#ref=rss)
+* [https://www.spiegel.de/ausland/kosovo-und-serbien-nato-ruft-im-streit-ueber-kfz-kennzeichen-zur-zurueckhaltung-auf](https://www.spiegel.de/ausland/kosovo-und-serbien-nato-ruft-im-streit-ueber-kfz-kennzeichen-zur-zurueckhaltung-auf-a-870fe2fe-e710-4dc3-a93b-aaa5902ccd32#ref=rss)
+* [https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet](https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet-a-534cdde5-15b0-4e33-9a66-57a09624226f#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder](https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder-a-0944b3a3-9bba-4fe2-8f00-d085a1a67acf#ref=rss)
-### kurz
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-das-sagen-die-gruenen-zum-wahlergebnis](https://www.spiegel.de/politik/deutschland/bundestagswahl-das-sagen-die-gruenen-zum-wahlergebnis-a-d26084f3-61bf-403d-9450-551debd76630#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden-a-33427d18-039b-4bd9-af03-b97bba227c6f#ref=rss)
+### regierungsbildung
 
-* [https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder](https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder-a-0944b3a3-9bba-4fe2-8f00-d085a1a67acf#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-sotschi-lewis-hamilton-schafft-als-erster-rennfahrer-100-siege-in-der-formel-1](https://www.spiegel.de/sport/formel1/formel-1-in-sotschi-lewis-hamilton-schafft-als-erster-rennfahrer-100-siege-in-der-formel-1-a-28808890-5a7e-4cd1-a899-bc0b0da2a60e#ref=rss)
-### uhr
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-das-sagen-die-gruenen-zum-wahlergebnis](https://www.spiegel.de/politik/deutschland/bundestagswahl-das-sagen-die-gruenen-zum-wahlergebnis-a-d26084f3-61bf-403d-9450-551debd76630#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-so-beurteilt-armin-laschet-die-wahlniederlage](https://www.spiegel.de/politik/deutschland/cdu-so-beurteilt-armin-laschet-die-wahlniederlage-a-2d043ed3-c8b5-4408-a8f3-e1fa72f0535a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-so-beurteilt-die-fdp-das-ergebnis](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-so-beurteilt-die-fdp-das-ergebnis-a-b740e613-5c7d-49bb-b9be-787b474c5c39#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder](https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder-a-0944b3a3-9bba-4fe2-8f00-d085a1a67acf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-wahllokalen-fehlen-stimmzettel-lange-warteschlangen](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-wahllokalen-fehlen-stimmzettel-lange-warteschlangen-a-e2b81bfb-845f-4a31-979e-da9c36873d23#ref=rss)
-### offenbar
+* [https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten](https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten-a-98599c57-bf4a-47c1-8660-5d7ad0c63a83#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-reisebus-kollidiert-mit-lastwagen-mehrere-schwerverletzte](https://www.spiegel.de/panorama/oesterreich-reisebus-kollidiert-mit-lastwagen-mehrere-schwerverletzte-a-b9a295b6-238d-4920-9480-94362b8c88f2#ref=rss)
+### karriere
 
-* [https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder](https://www.spiegel.de/politik/deutschland/berlin-wahlchaos-in-prenzlauer-berg-das-ist-halt-berlin-oder-a-0944b3a3-9bba-4fe2-8f00-d085a1a67acf#ref=rss)
-* [https://www.spiegel.de/ausland/erregte-debatte-ueber-polizeihund-angriff-auf-schwarzen](https://www.spiegel.de/ausland/erregte-debatte-ueber-polizeihund-angriff-auf-schwarzen-a-0108ef41-02f1-4bf8-81db-886ffa3063a4#ref=rss)
-### abgeordnetenhaus
+* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere-a-a10a9f64-476a-43a1-a053-d34a67316b01#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-### franziska
+* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere-a-a10a9f64-476a-43a1-a053-d34a67316b01#ref=rss)
+* [https://www.spiegel.de/panorama/oesterreich-reisebus-kollidiert-mit-lastwagen-mehrere-schwerverletzte](https://www.spiegel.de/panorama/oesterreich-reisebus-kollidiert-mit-lastwagen-mehrere-schwerverletzte-a-b9a295b6-238d-4920-9480-94362b8c88f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt](https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt-a-625bd2cd-0879-4a4d-a33e-86aafead3756#ref=rss)
+### unter
 
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-### giffey
+* [https://www.spiegel.de/panorama/oberpfalz-grossvater-unter-anhaenger-eingeklemmt-sechsjaehriger-holt-hilfe](https://www.spiegel.de/panorama/oberpfalz-grossvater-unter-anhaenger-eingeklemmt-sechsjaehriger-holt-hilfe-a-54ac7bb7-c9a3-4985-8aab-c0e422954cc6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-manager-wegen-betriebsrats-gehalt-vor-gericht-staatsanwaltschaft-fordert-bewaehrung](https://www.spiegel.de/wirtschaft/unternehmen/vw-manager-wegen-betriebsrats-gehalt-vor-gericht-staatsanwaltschaft-fordert-bewaehrung-a-59b23bec-c66c-449c-a99b-9fa82fefecea#ref=rss)
+* [https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt](https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt-a-055fb675-6b57-4bb8-a947-6beca88aba38#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-### bettina
+* [https://www.spiegel.de/panorama/oberpfalz-grossvater-unter-anhaenger-eingeklemmt-sechsjaehriger-holt-hilfe](https://www.spiegel.de/panorama/oberpfalz-grossvater-unter-anhaenger-eingeklemmt-sechsjaehriger-holt-hilfe-a-54ac7bb7-c9a3-4985-8aab-c0e422954cc6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/trebur-in-hessen-mann-findet-zwei-scharfe-handgranaten](https://www.spiegel.de/panorama/justiz/trebur-in-hessen-mann-findet-zwei-scharfe-handgranaten-a-445649a9-cffc-4b3b-9546-da107ce04fba#ref=rss)
+### konnte
 
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-### jarasch
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-gruene-laut-hochrechnungen-knapp-vor-spd-a-52358e3e-2db5-417a-bc07-b791ec5f8c60#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-### rede
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst](https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst-a-784d19a7-a2de-4b97-846e-185b96f07ef4#ref=rss)
-### bürger
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst](https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst-a-784d19a7-a2de-4b97-846e-185b96f07ef4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-sieht-auftrag-zur-regierungsbildung-fuer-sich](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-sieht-auftrag-zur-regierungsbildung-fuer-sich-a-53ea4039-db18-4267-8e54-5e9340a1d73e#ref=rss)
-### heißt
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst](https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst-a-784d19a7-a2de-4b97-846e-185b96f07ef4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen-a-3db7ace0-5bbb-4690-9ffc-4e4b7674be95#ref=rss)
-### gefeiert
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst](https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst-a-784d19a7-a2de-4b97-846e-185b96f07ef4#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-sotschi-lewis-hamilton-schafft-als-erster-rennfahrer-100-siege-in-der-formel-1](https://www.spiegel.de/sport/formel1/formel-1-in-sotschi-lewis-hamilton-schafft-als-erster-rennfahrer-100-siege-in-der-formel-1-a-28808890-5a7e-4cd1-a899-bc0b0da2a60e#ref=rss)
-### sieger
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst](https://www.spiegel.de/politik/deutschland/olaf-scholz-rede-buergerinnen-und-buerger-wollen-dass-der-naechste-kanzler-olaf-scholz-heisst-a-784d19a7-a2de-4b97-846e-185b96f07ef4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-### hochrechnungen
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-### sozialdemokraten
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-### vorn
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker](https://www.spiegel.de/politik/deutschland/bundestagswahl-olaf-scholz-vs-armin-laschet-deutschland-steht-vor-intensivem-koalitionspoker-a-dfae29b3-91b5-4f45-9555-cbb8a93bda75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-### impfskeptiker
-
-* [https://www.spiegel.de/ausland/regionalwahlen-in-oesterreich-ueberraschungserfolge-fuer-impfskeptiker-und-kommunisten](https://www.spiegel.de/ausland/regionalwahlen-in-oesterreich-ueberraschungserfolge-fuer-impfskeptiker-und-kommunisten-a-699f3b5e-32e3-4225-968c-6294b68be783#ref=rss)
-### partei
-
-* [https://www.spiegel.de/ausland/regionalwahlen-in-oesterreich-ueberraschungserfolge-fuer-impfskeptiker-und-kommunisten](https://www.spiegel.de/ausland/regionalwahlen-in-oesterreich-ueberraschungserfolge-fuer-impfskeptiker-und-kommunisten-a-699f3b5e-32e3-4225-968c-6294b68be783#ref=rss)
-### schließung
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu-a-d65493f1-fb13-49bb-8a98-e3e12b2ad798#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert-a-a1bde461-0bd9-4908-b804-d1102aa4e0a8#ref=rss)
-### wahllokale
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu-a-d65493f1-fb13-49bb-8a98-e3e12b2ad798#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert-a-a1bde461-0bd9-4908-b804-d1102aa4e0a8#ref=rss)
-### gezeigt
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu-a-d65493f1-fb13-49bb-8a98-e3e12b2ad798#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-auch-gegen-dynamo-dresden](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-auch-gegen-dynamo-dresden-a-16dc0045-ecb3-439e-9c55-f181a1e8a5f4#ref=rss)
-### csu
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-armin-laschet-beansprucht-kanzleramt-fuer-die-cdu-csu-a-d65493f1-fb13-49bb-8a98-e3e12b2ad798#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert-a-a1bde461-0bd9-4908-b804-d1102aa4e0a8#ref=rss)
-### drei
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ard-hochrechnung-sieht-spd-und-cdu-csu-fast-gleichauf-beim-zdf-liegen-die-sozialdemokraten-vorn-a-347e4452-6b4e-4c36-930f-60f88d5354d2#ref=rss)
-* [https://www.spiegel.de/ausland/erregte-debatte-ueber-polizeihund-angriff-auf-schwarzen](https://www.spiegel.de/ausland/erregte-debatte-ueber-polizeihund-angriff-auf-schwarzen-a-0108ef41-02f1-4bf8-81db-886ffa3063a4#ref=rss)
-### missouri
-
-* [https://www.spiegel.de/ausland/erregte-debatte-ueber-polizeihund-angriff-auf-schwarzen](https://www.spiegel.de/ausland/erregte-debatte-ueber-polizeihund-angriff-auf-schwarzen-a-0108ef41-02f1-4bf8-81db-886ffa3063a4#ref=rss)
-### schwarzen
-
-* [https://www.spiegel.de/ausland/erregte-debatte-ueber-polizeihund-angriff-auf-schwarzen](https://www.spiegel.de/ausland/erregte-debatte-ueber-polizeihund-angriff-auf-schwarzen-a-0108ef41-02f1-4bf8-81db-886ffa3063a4#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/ausland/erregte-debatte-ueber-polizeihund-angriff-auf-schwarzen](https://www.spiegel.de/ausland/erregte-debatte-ueber-polizeihund-angriff-auf-schwarzen-a-0108ef41-02f1-4bf8-81db-886ffa3063a4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert-a-a1bde461-0bd9-4908-b804-d1102aa4e0a8#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-### ergebnis
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab](https://www.spiegel.de/politik/deutschland/landtagswahl-in-mecklenburg-vorpommern-spd-laut-prognosen-wahlsieger-cdu-stuerzt-ab-a-0d7dd0fe-1e59-4e1e-96e6-484e8d9ab648#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ergebnis-so-hat-deutschland-gewaehlt-aktuelle-ergebnisse](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-ergebnis-so-hat-deutschland-gewaehlt-aktuelle-ergebnisse-a-9fb7a33e-0918-4cf0-ab0d-5eb35bd3b7f0#ref=rss)
-### enges
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-### rennen
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-### beieinander
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-enges-rennen-in-berlin-gruene-laut-prognose-knapp-vor-spd-a-9689b9a3-b934-4df6-9ade-2709a26b0413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-prognosen-sehen-enges-rennen-zwischen-spd-und-cdu-csu-a-793ef59c-72fb-4099-abf3-d34ce1d17548#ref=rss)
-### abgeordnetenhauswahl
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-alle-ergebnisse-der-abgeordnetenhauswahl-im-ueberblick-a-371193d4-8934-4a56-9ed7-fd601925a496#ref=rss)
-### parteien
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-sehen-sie-hier-die-wahlpartys-der-parteien-livestream](https://www.spiegel.de/politik/deutschland/bundestagswahl-sehen-sie-hier-die-wahlpartys-der-parteien-livestream-a-28be9580-4c00-4446-b1bf-fcc8b49bd9ce#ref=rss)
-* [https://www.spiegel.de/ausland/islamismus-experte-lefevre-das-modell-der-taliban-ist-fuer-islamistische-rebellen-attraktiv-geworden](https://www.spiegel.de/ausland/islamismus-experte-lefevre-das-modell-der-taliban-ist-fuer-islamistische-rebellen-attraktiv-geworden-a-671453f0-108b-4144-936c-f57b80e70ec6#ref=rss)
-### julian
-
-* [https://www.spiegel.de/sport/rad-wm-julian-alaphilippe-gewinnt-und-hunderttausende-schauen-zu](https://www.spiegel.de/sport/rad-wm-julian-alaphilippe-gewinnt-und-hunderttausende-schauen-zu-a-0c01d6a7-8c5f-4ced-acf7-441d1df31eb8#ref=rss)
-### alaphilippe
-
-* [https://www.spiegel.de/sport/rad-wm-julian-alaphilippe-gewinnt-und-hunderttausende-schauen-zu](https://www.spiegel.de/sport/rad-wm-julian-alaphilippe-gewinnt-und-hunderttausende-schauen-zu-a-0c01d6a7-8c5f-4ced-acf7-441d1df31eb8#ref=rss)
-### waren
-
-* [https://www.spiegel.de/sport/rad-wm-julian-alaphilippe-gewinnt-und-hunderttausende-schauen-zu](https://www.spiegel.de/sport/rad-wm-julian-alaphilippe-gewinnt-und-hunderttausende-schauen-zu-a-0c01d6a7-8c5f-4ced-acf7-441d1df31eb8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen-a-3db7ace0-5bbb-4690-9ffc-4e4b7674be95#ref=rss)
-### hubert
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert-a-a1bde461-0bd9-4908-b804-d1102aa4e0a8#ref=rss)
-### aiwanger
-
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-hubert-aiwanger-veroeffentlicht-waehlerbefragung-markus-blume-empoert-a-a1bde461-0bd9-4908-b804-d1102aa4e0a8#ref=rss)
-### vfb
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-vfl-bochum-trennen-sich-torlos](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-vfl-bochum-trennen-sich-torlos-a-22393db1-95ff-4974-89ed-127ffc50a87c#ref=rss)
-### bochum
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-vfl-bochum-trennen-sich-torlos](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-vfl-bochum-trennen-sich-torlos-a-22393db1-95ff-4974-89ed-127ffc50a87c#ref=rss)
+* [https://www.spiegel.de/panorama/oberpfalz-grossvater-unter-anhaenger-eingeklemmt-sechsjaehriger-holt-hilfe](https://www.spiegel.de/panorama/oberpfalz-grossvater-unter-anhaenger-eingeklemmt-sechsjaehriger-holt-hilfe-a-54ac7bb7-c9a3-4985-8aab-c0e422954cc6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-waehlerwanderung-wie-verteidigte-franziska-giffey-platz-eins](https://www.spiegel.de/politik/deutschland/berlin-wahl-2021-waehlerwanderung-wie-verteidigte-franziska-giffey-platz-eins-a-b4c79755-25e6-4b20-a4e0-822e9576b123#ref=rss)
+* [https://www.spiegel.de/wirtschaft/berliner-volksentscheid-zu-enteignungen-sieg-der-populisten](https://www.spiegel.de/wirtschaft/berliner-volksentscheid-zu-enteignungen-sieg-der-populisten-a-d850feb4-02c4-4b01-8934-c7990fba10ac#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/familie/kinderschutz-was-junge-menschen-gegen-gewalt-tun-koennen-podcast-von-dein-spiegel](https://www.spiegel.de/familie/kinderschutz-was-junge-menschen-gegen-gewalt-tun-koennen-podcast-von-dein-spiegel-a-e62b5dec-e82b-4ffc-8844-e8cf1a082dd8#ref=rss)
-* [https://www.spiegel.de/ausland/tunesien-tausende-demonstrieren-gegen-praesidenten](https://www.spiegel.de/ausland/tunesien-tausende-demonstrieren-gegen-praesidenten-a-c4e95e8e-fef6-4815-9905-d897fba294bb#ref=rss)
-### dein
+* [https://www.spiegel.de/panorama/oesterreich-reisebus-kollidiert-mit-lastwagen-mehrere-schwerverletzte](https://www.spiegel.de/panorama/oesterreich-reisebus-kollidiert-mit-lastwagen-mehrere-schwerverletzte-a-b9a295b6-238d-4920-9480-94362b8c88f2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-heute-geborene-kinder-koennten-siebenmal-mehr-hitzewellen-erleben](https://www.spiegel.de/wissenschaft/mensch/klimakrise-heute-geborene-kinder-koennten-siebenmal-mehr-hitzewellen-erleben-a-7546b8cd-35a1-4e56-924a-44d6ec1758f3#ref=rss)
+* [https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet](https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet-a-534cdde5-15b0-4e33-9a66-57a09624226f#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/familie/kinderschutz-was-junge-menschen-gegen-gewalt-tun-koennen-podcast-von-dein-spiegel](https://www.spiegel.de/familie/kinderschutz-was-junge-menschen-gegen-gewalt-tun-koennen-podcast-von-dein-spiegel-a-e62b5dec-e82b-4ffc-8844-e8cf1a082dd8#ref=rss)
-### erklärt
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-so-beurteilt-die-fdp-das-ergebnis](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-so-beurteilt-die-fdp-das-ergebnis-a-b740e613-5c7d-49bb-b9be-787b474c5c39#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden-a-33427d18-039b-4bd9-af03-b97bba227c6f#ref=rss)
+### bekommen
 
-* [https://www.spiegel.de/familie/kinderschutz-was-junge-menschen-gegen-gewalt-tun-koennen-podcast-von-dein-spiegel](https://www.spiegel.de/familie/kinderschutz-was-junge-menschen-gegen-gewalt-tun-koennen-podcast-von-dein-spiegel-a-e62b5dec-e82b-4ffc-8844-e8cf1a082dd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch](https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch-a-232079ce-6a6e-41e0-8834-f131432caaf5#ref=rss)
-### unternehmen
+* [https://www.spiegel.de/ausland/krise-an-britischen-tankstellen-ich-warte-hier-seit-fast-einer-stunde](https://www.spiegel.de/ausland/krise-an-britischen-tankstellen-ich-warte-hier-seit-fast-einer-stunde-a-fe05c9cf-3f37-48f4-a152-796fe5d2a27f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt](https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt-a-625bd2cd-0879-4a4d-a33e-86aafead3756#ref=rss)
+### berliner
 
-* [https://www.spiegel.de/familie/kinderschutz-was-junge-menschen-gegen-gewalt-tun-koennen-podcast-von-dein-spiegel](https://www.spiegel.de/familie/kinderschutz-was-junge-menschen-gegen-gewalt-tun-koennen-podcast-von-dein-spiegel-a-e62b5dec-e82b-4ffc-8844-e8cf1a082dd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch](https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch-a-232079ce-6a6e-41e0-8834-f131432caaf5#ref=rss)
-### anthony
+* [https://www.spiegel.de/wirtschaft/berliner-volksentscheid-zu-enteignungen-sieg-der-populisten](https://www.spiegel.de/wirtschaft/berliner-volksentscheid-zu-enteignungen-sieg-der-populisten-a-d850feb4-02c4-4b01-8934-c7990fba10ac#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-und-zdf-pruefen-rechtliche-schritte-wegen-bild-tv-sendung](https://www.spiegel.de/kultur/tv/ard-und-zdf-pruefen-rechtliche-schritte-wegen-bild-tv-sendung-a-9f38bc93-854f-448b-ac94-69f8968816f5#ref=rss)
+### schnell
 
-* [https://www.spiegel.de/sport/boxen-anthony-joshua-nach-pleite-gegen-oleksandr-usyk-es-war-eine-grosse-lehrstunde-fuer-mich](https://www.spiegel.de/sport/boxen-anthony-joshua-nach-pleite-gegen-oleksandr-usyk-es-war-eine-grosse-lehrstunde-fuer-mich-a-3ebe4778-e3a2-4f83-b35e-e28c6fa09eda#ref=rss)
-### joshua
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden-a-33427d18-039b-4bd9-af03-b97bba227c6f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-bundestagswahl-sondierungen-zwischen-kleineren-partnern-waeren-frueher-undenkbar-gewesen](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-bundestagswahl-sondierungen-zwischen-kleineren-partnern-waeren-frueher-undenkbar-gewesen-a-ba2204b9-5b68-4040-8bf1-e691bf3c13fe#ref=rss)
+### impfskeptikerpartei
 
-* [https://www.spiegel.de/sport/boxen-anthony-joshua-nach-pleite-gegen-oleksandr-usyk-es-war-eine-grosse-lehrstunde-fuer-mich](https://www.spiegel.de/sport/boxen-anthony-joshua-nach-pleite-gegen-oleksandr-usyk-es-war-eine-grosse-lehrstunde-fuer-mich-a-3ebe4778-e3a2-4f83-b35e-e28c6fa09eda#ref=rss)
-### niederlagen
+* [https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten](https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten-a-98599c57-bf4a-47c1-8660-5d7ad0c63a83#ref=rss)
+### kam
 
-* [https://www.spiegel.de/sport/boxen-anthony-joshua-nach-pleite-gegen-oleksandr-usyk-es-war-eine-grosse-lehrstunde-fuer-mich](https://www.spiegel.de/sport/boxen-anthony-joshua-nach-pleite-gegen-oleksandr-usyk-es-war-eine-grosse-lehrstunde-fuer-mich-a-3ebe4778-e3a2-4f83-b35e-e28c6fa09eda#ref=rss)
-* [https://www.spiegel.de/ausland/islamismus-experte-lefevre-das-modell-der-taliban-ist-fuer-islamistische-rebellen-attraktiv-geworden](https://www.spiegel.de/ausland/islamismus-experte-lefevre-das-modell-der-taliban-ist-fuer-islamistische-rebellen-attraktiv-geworden-a-671453f0-108b-4144-936c-f57b80e70ec6#ref=rss)
-### wächst
+* [https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten](https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten-a-98599c57-bf4a-47c1-8660-5d7ad0c63a83#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten-a-7ef99bb6-dd8a-48f9-bdaf-34260f00cb1d#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/ausland/tunesien-tausende-demonstrieren-gegen-praesidenten](https://www.spiegel.de/ausland/tunesien-tausende-demonstrieren-gegen-praesidenten-a-c4e95e8e-fef6-4815-9905-d897fba294bb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-auch-gegen-dynamo-dresden](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-auch-gegen-dynamo-dresden-a-16dc0045-ecb3-439e-9c55-f181a1e8a5f4#ref=rss)
-### macht
+* [https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten](https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten-a-98599c57-bf4a-47c1-8660-5d7ad0c63a83#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden-a-33427d18-039b-4bd9-af03-b97bba227c6f#ref=rss)
+### sechs
 
-* [https://www.spiegel.de/ausland/tunesien-tausende-demonstrieren-gegen-praesidenten](https://www.spiegel.de/ausland/tunesien-tausende-demonstrieren-gegen-praesidenten-a-c4e95e8e-fef6-4815-9905-d897fba294bb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch](https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch-a-232079ce-6a6e-41e0-8834-f131432caaf5#ref=rss)
-### bremen
+* [https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten](https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten-a-98599c57-bf4a-47c1-8660-5d7ad0c63a83#ref=rss)
+* [https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt](https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt-a-055fb675-6b57-4bb8-a947-6beca88aba38#ref=rss)
+### stimmen
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-auch-gegen-dynamo-dresden](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-auch-gegen-dynamo-dresden-a-16dc0045-ecb3-439e-9c55-f181a1e8a5f4#ref=rss)
-### dresden
+* [https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten](https://www.spiegel.de/ausland/oesterreich-impfskeptiker-partei-mfg-will-bei-weiteren-wahlen-antreten-a-98599c57-bf4a-47c1-8660-5d7ad0c63a83#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt](https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt-a-625bd2cd-0879-4a4d-a33e-86aafead3756#ref=rss)
+### stipendium
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-auch-gegen-dynamo-dresden](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-auch-gegen-dynamo-dresden-a-16dc0045-ecb3-439e-9c55-f181a1e8a5f4#ref=rss)
-### genau
+* [https://www.spiegel.de/start/stipendium-der-stiftung-der-deutschen-wirtschaft-voraussetzungen-bewerbung-foerderung](https://www.spiegel.de/start/stipendium-der-stiftung-der-deutschen-wirtschaft-voraussetzungen-bewerbung-foerderung-a-1f00c50f-7fca-4a5b-96ab-d4274192adb2#ref=rss)
+### beurteilt
 
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-laschet-zeigt-wahlzettel-offen-einsehbar-a-765f7e0f-6b1d-47bd-afbc-346b605d2fb9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-annalena-baerbock-gruene-armin-laschet-cdu-olaf-scholz-spd-und-ihre-fettnaepfchen-a-3db7ace0-5bbb-4690-9ffc-4e4b7674be95#ref=rss)
-### autorin
+* [https://www.spiegel.de/politik/deutschland/cdu-so-beurteilt-armin-laschet-die-wahlniederlage](https://www.spiegel.de/politik/deutschland/cdu-so-beurteilt-armin-laschet-die-wahlniederlage-a-2d043ed3-c8b5-4408-a8f3-e1fa72f0535a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-so-beurteilt-die-fdp-das-ergebnis](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-so-beurteilt-die-fdp-das-ergebnis-a-b740e613-5c7d-49bb-b9be-787b474c5c39#ref=rss)
+### armin
 
-* [https://www.spiegel.de/kultur/literatur/abessinienkrieg-warum-autorin-maaza-mengiste-von-frauen-erzaehlt-die-gekaempft-haben](https://www.spiegel.de/kultur/literatur/abessinienkrieg-warum-autorin-maaza-mengiste-von-frauen-erzaehlt-die-gekaempft-haben-a-810e1de6-0e8b-4897-b592-14eb503ce9f9#ref=rss)
-### maaza
+* [https://www.spiegel.de/politik/deutschland/cdu-so-beurteilt-armin-laschet-die-wahlniederlage](https://www.spiegel.de/politik/deutschland/cdu-so-beurteilt-armin-laschet-die-wahlniederlage-a-2d043ed3-c8b5-4408-a8f3-e1fa72f0535a#ref=rss)
+### laschet
 
-* [https://www.spiegel.de/kultur/literatur/abessinienkrieg-warum-autorin-maaza-mengiste-von-frauen-erzaehlt-die-gekaempft-haben](https://www.spiegel.de/kultur/literatur/abessinienkrieg-warum-autorin-maaza-mengiste-von-frauen-erzaehlt-die-gekaempft-haben-a-810e1de6-0e8b-4897-b592-14eb503ce9f9#ref=rss)
-### mengiste
+* [https://www.spiegel.de/politik/deutschland/cdu-so-beurteilt-armin-laschet-die-wahlniederlage](https://www.spiegel.de/politik/deutschland/cdu-so-beurteilt-armin-laschet-die-wahlniederlage-a-2d043ed3-c8b5-4408-a8f3-e1fa72f0535a#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/kultur/literatur/abessinienkrieg-warum-autorin-maaza-mengiste-von-frauen-erzaehlt-die-gekaempft-haben](https://www.spiegel.de/kultur/literatur/abessinienkrieg-warum-autorin-maaza-mengiste-von-frauen-erzaehlt-die-gekaempft-haben-a-810e1de6-0e8b-4897-b592-14eb503ce9f9#ref=rss)
-### frauen
+* [https://www.spiegel.de/politik/deutschland/cdu-so-beurteilt-armin-laschet-die-wahlniederlage](https://www.spiegel.de/politik/deutschland/cdu-so-beurteilt-armin-laschet-die-wahlniederlage-a-2d043ed3-c8b5-4408-a8f3-e1fa72f0535a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden-a-33427d18-039b-4bd9-af03-b97bba227c6f#ref=rss)
+### exnationalspieler
 
-* [https://www.spiegel.de/kultur/literatur/abessinienkrieg-warum-autorin-maaza-mengiste-von-frauen-erzaehlt-die-gekaempft-haben](https://www.spiegel.de/kultur/literatur/abessinienkrieg-warum-autorin-maaza-mengiste-von-frauen-erzaehlt-die-gekaempft-haben-a-810e1de6-0e8b-4897-b592-14eb503ce9f9#ref=rss)
-### gekämpft
+* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere-a-a10a9f64-476a-43a1-a053-d34a67316b01#ref=rss)
+* [https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt](https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt-a-055fb675-6b57-4bb8-a947-6beca88aba38#ref=rss)
+### sidney
 
-* [https://www.spiegel.de/kultur/literatur/abessinienkrieg-warum-autorin-maaza-mengiste-von-frauen-erzaehlt-die-gekaempft-haben](https://www.spiegel.de/kultur/literatur/abessinienkrieg-warum-autorin-maaza-mengiste-von-frauen-erzaehlt-die-gekaempft-haben-a-810e1de6-0e8b-4897-b592-14eb503ce9f9#ref=rss)
-### lefèvre
+* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere-a-a10a9f64-476a-43a1-a053-d34a67316b01#ref=rss)
+### sam
 
-* [https://www.spiegel.de/ausland/islamismus-experte-lefevre-das-modell-der-taliban-ist-fuer-islamistische-rebellen-attraktiv-geworden](https://www.spiegel.de/ausland/islamismus-experte-lefevre-das-modell-der-taliban-ist-fuer-islamistische-rebellen-attraktiv-geworden-a-671453f0-108b-4144-936c-f57b80e70ec6#ref=rss)
-### taliban
+* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere-a-a10a9f64-476a-43a1-a053-d34a67316b01#ref=rss)
+### beendet
 
-* [https://www.spiegel.de/ausland/islamismus-experte-lefevre-das-modell-der-taliban-ist-fuer-islamistische-rebellen-attraktiv-geworden](https://www.spiegel.de/ausland/islamismus-experte-lefevre-das-modell-der-taliban-ist-fuer-islamistische-rebellen-attraktiv-geworden-a-671453f0-108b-4144-936c-f57b80e70ec6#ref=rss)
-### gazprom
+* [https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere](https://www.spiegel.de/sport/fussball/ex-nationalspieler-sidney-sam-beendet-seine-karriere-a-a10a9f64-476a-43a1-a053-d34a67316b01#ref=rss)
+### abtreibungen
 
-* [https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch](https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch-a-232079ce-6a6e-41e0-8834-f131432caaf5#ref=rss)
-### europa
+* [https://www.spiegel.de/ausland/chinas-neue-familienpolitik-regierung-will-zahl-der-abtreibungen-reduzieren](https://www.spiegel.de/ausland/chinas-neue-familienpolitik-regierung-will-zahl-der-abtreibungen-reduzieren-a-e4096447-bf79-4e70-bb7e-1e72526b7424#ref=rss)
+### chinesischen
 
-* [https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch](https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch-a-232079ce-6a6e-41e0-8834-f131432caaf5#ref=rss)
-### gas
+* [https://www.spiegel.de/ausland/chinas-neue-familienpolitik-regierung-will-zahl-der-abtreibungen-reduzieren](https://www.spiegel.de/ausland/chinas-neue-familienpolitik-regierung-will-zahl-der-abtreibungen-reduzieren-a-e4096447-bf79-4e70-bb7e-1e72526b7424#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung-a-63a45dd8-867a-4372-ad6c-cae50b205e49#ref=rss)
+### deshalb
 
-* [https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch](https://www.spiegel.de/wirtschaft/soziales/gazprom-verspricht-europa-mehr-gas-theoretisch-a-232079ce-6a6e-41e0-8834-f131432caaf5#ref=rss)
-### formel
+* [https://www.spiegel.de/ausland/chinas-neue-familienpolitik-regierung-will-zahl-der-abtreibungen-reduzieren](https://www.spiegel.de/ausland/chinas-neue-familienpolitik-regierung-will-zahl-der-abtreibungen-reduzieren-a-e4096447-bf79-4e70-bb7e-1e72526b7424#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-manager-wegen-betriebsrats-gehalt-vor-gericht-staatsanwaltschaft-fordert-bewaehrung](https://www.spiegel.de/wirtschaft/unternehmen/vw-manager-wegen-betriebsrats-gehalt-vor-gericht-staatsanwaltschaft-fordert-bewaehrung-a-59b23bec-c66c-449c-a99b-9fa82fefecea#ref=rss)
+### anhänger
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-sotschi-lewis-hamilton-schafft-als-erster-rennfahrer-100-siege-in-der-formel-1](https://www.spiegel.de/sport/formel1/formel-1-in-sotschi-lewis-hamilton-schafft-als-erster-rennfahrer-100-siege-in-der-formel-1-a-28808890-5a7e-4cd1-a899-bc0b0da2a60e#ref=rss)
-### 1
+* [https://www.spiegel.de/panorama/oberpfalz-grossvater-unter-anhaenger-eingeklemmt-sechsjaehriger-holt-hilfe](https://www.spiegel.de/panorama/oberpfalz-grossvater-unter-anhaenger-eingeklemmt-sechsjaehriger-holt-hilfe-a-54ac7bb7-c9a3-4985-8aab-c0e422954cc6#ref=rss)
+### reisebus
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-sotschi-lewis-hamilton-schafft-als-erster-rennfahrer-100-siege-in-der-formel-1](https://www.spiegel.de/sport/formel1/formel-1-in-sotschi-lewis-hamilton-schafft-als-erster-rennfahrer-100-siege-in-der-formel-1-a-28808890-5a7e-4cd1-a899-bc0b0da2a60e#ref=rss)
-### lewis
+* [https://www.spiegel.de/panorama/oesterreich-reisebus-kollidiert-mit-lastwagen-mehrere-schwerverletzte](https://www.spiegel.de/panorama/oesterreich-reisebus-kollidiert-mit-lastwagen-mehrere-schwerverletzte-a-b9a295b6-238d-4920-9480-94362b8c88f2#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-sotschi-lewis-hamilton-schafft-als-erster-rennfahrer-100-siege-in-der-formel-1](https://www.spiegel.de/sport/formel1/formel-1-in-sotschi-lewis-hamilton-schafft-als-erster-rennfahrer-100-siege-in-der-formel-1-a-28808890-5a7e-4cd1-a899-bc0b0da2a60e#ref=rss)
-### hamilton
+* [https://www.spiegel.de/panorama/oesterreich-reisebus-kollidiert-mit-lastwagen-mehrere-schwerverletzte](https://www.spiegel.de/panorama/oesterreich-reisebus-kollidiert-mit-lastwagen-mehrere-schwerverletzte-a-b9a295b6-238d-4920-9480-94362b8c88f2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt](https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt-a-055fb675-6b57-4bb8-a947-6beca88aba38#ref=rss)
+### größten
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-sotschi-lewis-hamilton-schafft-als-erster-rennfahrer-100-siege-in-der-formel-1](https://www.spiegel.de/sport/formel1/formel-1-in-sotschi-lewis-hamilton-schafft-als-erster-rennfahrer-100-siege-in-der-formel-1-a-28808890-5a7e-4cd1-a899-bc0b0da2a60e#ref=rss)
+* [https://www.spiegel.de/sport/olympia-bewerbung-sanierungen-missbrauchsfaelle-die-groessten-aufgaben-fuer-den-sportausschuss-des-bundestags](https://www.spiegel.de/sport/olympia-bewerbung-sanierungen-missbrauchsfaelle-die-groessten-aufgaben-fuer-den-sportausschuss-des-bundestags-a-f34044a2-5efa-49ae-b110-dd468d162dae#ref=rss)
+### sportausschuss
+
+* [https://www.spiegel.de/sport/olympia-bewerbung-sanierungen-missbrauchsfaelle-die-groessten-aufgaben-fuer-den-sportausschuss-des-bundestags](https://www.spiegel.de/sport/olympia-bewerbung-sanierungen-missbrauchsfaelle-die-groessten-aufgaben-fuer-den-sportausschuss-des-bundestags-a-f34044a2-5efa-49ae-b110-dd468d162dae#ref=rss)
+### bundestags
+
+* [https://www.spiegel.de/sport/olympia-bewerbung-sanierungen-missbrauchsfaelle-die-groessten-aufgaben-fuer-den-sportausschuss-des-bundestags](https://www.spiegel.de/sport/olympia-bewerbung-sanierungen-missbrauchsfaelle-die-groessten-aufgaben-fuer-den-sportausschuss-des-bundestags-a-f34044a2-5efa-49ae-b110-dd468d162dae#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/olympia-bewerbung-sanierungen-missbrauchsfaelle-die-groessten-aufgaben-fuer-den-sportausschuss-des-bundestags](https://www.spiegel.de/sport/olympia-bewerbung-sanierungen-missbrauchsfaelle-die-groessten-aufgaben-fuer-den-sportausschuss-des-bundestags-a-f34044a2-5efa-49ae-b110-dd468d162dae#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/markus-beckedahl-ueber-digital-bilanz-von-angela-merkel-richtig-ahnung-hat-nur-die-dritte-reihe](https://www.spiegel.de/netzwelt/netzpolitik/markus-beckedahl-ueber-digital-bilanz-von-angela-merkel-richtig-ahnung-hat-nur-die-dritte-reihe-a-f253ec4b-e523-4c1a-8fc4-81dccb9c0aa9#ref=rss)
+### drei
+
+* [https://www.spiegel.de/sport/olympia-bewerbung-sanierungen-missbrauchsfaelle-die-groessten-aufgaben-fuer-den-sportausschuss-des-bundestags](https://www.spiegel.de/sport/olympia-bewerbung-sanierungen-missbrauchsfaelle-die-groessten-aufgaben-fuer-den-sportausschuss-des-bundestags-a-f34044a2-5efa-49ae-b110-dd468d162dae#ref=rss)
+* [https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet](https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet-a-534cdde5-15b0-4e33-9a66-57a09624226f#ref=rss)
+### ergebnis
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-so-beurteilt-die-fdp-das-ergebnis](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-so-beurteilt-die-fdp-das-ergebnis-a-b740e613-5c7d-49bb-b9be-787b474c5c39#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/pressestimmen-zur-bundestagswahl-sondierungen-zwischen-kleineren-partnern-waeren-frueher-undenkbar-gewesen](https://www.spiegel.de/politik/deutschland/pressestimmen-zur-bundestagswahl-sondierungen-zwischen-kleineren-partnern-waeren-frueher-undenkbar-gewesen-a-ba2204b9-5b68-4040-8bf1-e691bf3c13fe#ref=rss)
+### brexitfolgen
+
+* [https://www.spiegel.de/ausland/krise-an-britischen-tankstellen-ich-warte-hier-seit-fast-einer-stunde](https://www.spiegel.de/ausland/krise-an-britischen-tankstellen-ich-warte-hier-seit-fast-einer-stunde-a-fe05c9cf-3f37-48f4-a152-796fe5d2a27f#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/ausland/krise-an-britischen-tankstellen-ich-warte-hier-seit-fast-einer-stunde](https://www.spiegel.de/ausland/krise-an-britischen-tankstellen-ich-warte-hier-seit-fast-einer-stunde-a-fe05c9cf-3f37-48f4-a152-796fe5d2a27f#ref=rss)
+* [https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet](https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet-a-534cdde5-15b0-4e33-9a66-57a09624226f#ref=rss)
+### militär
+
+* [https://www.spiegel.de/ausland/krise-an-britischen-tankstellen-ich-warte-hier-seit-fast-einer-stunde](https://www.spiegel.de/ausland/krise-an-britischen-tankstellen-ich-warte-hier-seit-fast-einer-stunde-a-fe05c9cf-3f37-48f4-a152-796fe5d2a27f#ref=rss)
+* [https://www.spiegel.de/ausland/kosovo-und-serbien-nato-ruft-im-streit-ueber-kfz-kennzeichen-zur-zurueckhaltung-auf](https://www.spiegel.de/ausland/kosovo-und-serbien-nato-ruft-im-streit-ueber-kfz-kennzeichen-zur-zurueckhaltung-auf-a-870fe2fe-e710-4dc3-a93b-aaa5902ccd32#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-manager-wegen-betriebsrats-gehalt-vor-gericht-staatsanwaltschaft-fordert-bewaehrung](https://www.spiegel.de/wirtschaft/unternehmen/vw-manager-wegen-betriebsrats-gehalt-vor-gericht-staatsanwaltschaft-fordert-bewaehrung-a-59b23bec-c66c-449c-a99b-9fa82fefecea#ref=rss)
+### evergrande
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung-a-63a45dd8-867a-4372-ad6c-cae50b205e49#ref=rss)
+### aktie
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung-a-63a45dd8-867a-4372-ad6c-cae50b205e49#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung-a-63a45dd8-867a-4372-ad6c-cae50b205e49#ref=rss)
+### geordnete
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung-a-63a45dd8-867a-4372-ad6c-cae50b205e49#ref=rss)
+### abwicklung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung](https://www.spiegel.de/wirtschaft/unternehmen/evergrande-aktie-steigt-kraeftig-hoffnung-auf-geordnete-abwicklung-a-63a45dd8-867a-4372-ad6c-cae50b205e49#ref=rss)
+### ssw
+
+* [https://www.spiegel.de/politik/deutschland/ssw-minderheiten-partei-der-daenen-und-friesen-im-bundestag-das-will-sie-und-das-kann-sie](https://www.spiegel.de/politik/deutschland/ssw-minderheiten-partei-der-daenen-und-friesen-im-bundestag-das-will-sie-und-das-kann-sie-a-0ccff25c-7094-4663-a904-afabcbb252fb#ref=rss)
+### partei
+
+* [https://www.spiegel.de/politik/deutschland/ssw-minderheiten-partei-der-daenen-und-friesen-im-bundestag-das-will-sie-und-das-kann-sie](https://www.spiegel.de/politik/deutschland/ssw-minderheiten-partei-der-daenen-und-friesen-im-bundestag-das-will-sie-und-das-kann-sie-a-0ccff25c-7094-4663-a904-afabcbb252fb#ref=rss)
+* [https://www.spiegel.de/ausland/portugal-sozialisten-gewinnen-kommunalwahl-verlieren-aber-in-lissabon](https://www.spiegel.de/ausland/portugal-sozialisten-gewinnen-kommunalwahl-verlieren-aber-in-lissabon-a-f1ef017f-b7c5-4baa-809c-f4a9eb7a34d5#ref=rss)
+### lebenserwartung
+
+* [https://www.spiegel.de/wissenschaft/mensch/corona-lebenserwartung-sinkt-aehnlich-wie-durch-zweiten-weltkrieg](https://www.spiegel.de/wissenschaft/mensch/corona-lebenserwartung-sinkt-aehnlich-wie-durch-zweiten-weltkrieg-a-df7a4e99-4aa7-470d-9ca6-9d3614be8d26#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten-a-7ef99bb6-dd8a-48f9-bdaf-34260f00cb1d#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/markus-beckedahl-ueber-digital-bilanz-von-angela-merkel-richtig-ahnung-hat-nur-die-dritte-reihe](https://www.spiegel.de/netzwelt/netzpolitik/markus-beckedahl-ueber-digital-bilanz-von-angela-merkel-richtig-ahnung-hat-nur-die-dritte-reihe-a-f253ec4b-e523-4c1a-8fc4-81dccb9c0aa9#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten-a-7ef99bb6-dd8a-48f9-bdaf-34260f00cb1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt](https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt-a-625bd2cd-0879-4a4d-a33e-86aafead3756#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-der-groesste-bundestag-aller-zeiten-a-7ef99bb6-dd8a-48f9-bdaf-34260f00cb1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt](https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt-a-625bd2cd-0879-4a4d-a33e-86aafead3756#ref=rss)
+### markus
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/markus-beckedahl-ueber-digital-bilanz-von-angela-merkel-richtig-ahnung-hat-nur-die-dritte-reihe](https://www.spiegel.de/netzwelt/netzpolitik/markus-beckedahl-ueber-digital-bilanz-von-angela-merkel-richtig-ahnung-hat-nur-die-dritte-reihe-a-f253ec4b-e523-4c1a-8fc4-81dccb9c0aa9#ref=rss)
+### beckedahl
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/markus-beckedahl-ueber-digital-bilanz-von-angela-merkel-richtig-ahnung-hat-nur-die-dritte-reihe](https://www.spiegel.de/netzwelt/netzpolitik/markus-beckedahl-ueber-digital-bilanz-von-angela-merkel-richtig-ahnung-hat-nur-die-dritte-reihe-a-f253ec4b-e523-4c1a-8fc4-81dccb9c0aa9#ref=rss)
+### dritte
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/markus-beckedahl-ueber-digital-bilanz-von-angela-merkel-richtig-ahnung-hat-nur-die-dritte-reihe](https://www.spiegel.de/netzwelt/netzpolitik/markus-beckedahl-ueber-digital-bilanz-von-angela-merkel-richtig-ahnung-hat-nur-die-dritte-reihe-a-f253ec4b-e523-4c1a-8fc4-81dccb9c0aa9#ref=rss)
+* [https://www.spiegel.de/ausland/portugal-sozialisten-gewinnen-kommunalwahl-verlieren-aber-in-lissabon](https://www.spiegel.de/ausland/portugal-sozialisten-gewinnen-kommunalwahl-verlieren-aber-in-lissabon-a-f1ef017f-b7c5-4baa-809c-f4a9eb7a34d5#ref=rss)
+### portugal
+
+* [https://www.spiegel.de/ausland/portugal-sozialisten-gewinnen-kommunalwahl-verlieren-aber-in-lissabon](https://www.spiegel.de/ausland/portugal-sozialisten-gewinnen-kommunalwahl-verlieren-aber-in-lissabon-a-f1ef017f-b7c5-4baa-809c-f4a9eb7a34d5#ref=rss)
+### sozialisten
+
+* [https://www.spiegel.de/ausland/portugal-sozialisten-gewinnen-kommunalwahl-verlieren-aber-in-lissabon](https://www.spiegel.de/ausland/portugal-sozialisten-gewinnen-kommunalwahl-verlieren-aber-in-lissabon-a-f1ef017f-b7c5-4baa-809c-f4a9eb7a34d5#ref=rss)
+### kommunalwahl
+
+* [https://www.spiegel.de/ausland/portugal-sozialisten-gewinnen-kommunalwahl-verlieren-aber-in-lissabon](https://www.spiegel.de/ausland/portugal-sozialisten-gewinnen-kommunalwahl-verlieren-aber-in-lissabon-a-f1ef017f-b7c5-4baa-809c-f4a9eb7a34d5#ref=rss)
+### toni
+
+* [https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt](https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt-a-055fb675-6b57-4bb8-a947-6beca88aba38#ref=rss)
+### kroos
+
+* [https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt](https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt-a-055fb675-6b57-4bb8-a947-6beca88aba38#ref=rss)
+### monate
+
+* [https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt](https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt-a-055fb675-6b57-4bb8-a947-6beca88aba38#ref=rss)
+### schmerzmitteln
+
+* [https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt](https://www.spiegel.de/sport/fussball/toni-kroos-von-real-madrid-ueber-leidenszeit-sechs-monate-unter-schmerzmitteln-gespielt-a-055fb675-6b57-4bb8-a947-6beca88aba38#ref=rss)
+### klaren
+
+* [https://www.spiegel.de/wirtschaft/berliner-volksentscheid-zu-enteignungen-sieg-der-populisten](https://www.spiegel.de/wirtschaft/berliner-volksentscheid-zu-enteignungen-sieg-der-populisten-a-d850feb4-02c4-4b01-8934-c7990fba10ac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden-a-33427d18-039b-4bd9-af03-b97bba227c6f#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden-a-33427d18-039b-4bd9-af03-b97bba227c6f#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden-a-33427d18-039b-4bd9-af03-b97bba227c6f#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden](https://www.spiegel.de/politik/deutschland/bundestagswahl-2021-olaf-scholz-will-so-schnell-wie-moeglich-ampel-regierung-bilden-a-33427d18-039b-4bd9-af03-b97bba227c6f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-heute-geborene-kinder-koennten-siebenmal-mehr-hitzewellen-erleben](https://www.spiegel.de/wissenschaft/mensch/klimakrise-heute-geborene-kinder-koennten-siebenmal-mehr-hitzewellen-erleben-a-7546b8cd-35a1-4e56-924a-44d6ec1758f3#ref=rss)
+### ard
+
+* [https://www.spiegel.de/kultur/tv/ard-und-zdf-pruefen-rechtliche-schritte-wegen-bild-tv-sendung](https://www.spiegel.de/kultur/tv/ard-und-zdf-pruefen-rechtliche-schritte-wegen-bild-tv-sendung-a-9f38bc93-854f-448b-ac94-69f8968816f5#ref=rss)
+### zdf
+
+* [https://www.spiegel.de/kultur/tv/ard-und-zdf-pruefen-rechtliche-schritte-wegen-bild-tv-sendung](https://www.spiegel.de/kultur/tv/ard-und-zdf-pruefen-rechtliche-schritte-wegen-bild-tv-sendung-a-9f38bc93-854f-448b-ac94-69f8968816f5#ref=rss)
+### trebur
+
+* [https://www.spiegel.de/panorama/justiz/trebur-in-hessen-mann-findet-zwei-scharfe-handgranaten](https://www.spiegel.de/panorama/justiz/trebur-in-hessen-mann-findet-zwei-scharfe-handgranaten-a-445649a9-cffc-4b3b-9546-da107ce04fba#ref=rss)
+### scharfe
+
+* [https://www.spiegel.de/panorama/justiz/trebur-in-hessen-mann-findet-zwei-scharfe-handgranaten](https://www.spiegel.de/panorama/justiz/trebur-in-hessen-mann-findet-zwei-scharfe-handgranaten-a-445649a9-cffc-4b3b-9546-da107ce04fba#ref=rss)
+### handgranaten
+
+* [https://www.spiegel.de/panorama/justiz/trebur-in-hessen-mann-findet-zwei-scharfe-handgranaten](https://www.spiegel.de/panorama/justiz/trebur-in-hessen-mann-findet-zwei-scharfe-handgranaten-a-445649a9-cffc-4b3b-9546-da107ce04fba#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/trebur-in-hessen-mann-findet-zwei-scharfe-handgranaten](https://www.spiegel.de/panorama/justiz/trebur-in-hessen-mann-findet-zwei-scharfe-handgranaten-a-445649a9-cffc-4b3b-9546-da107ce04fba#ref=rss)
+* [https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet](https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet-a-534cdde5-15b0-4e33-9a66-57a09624226f#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt](https://www.spiegel.de/politik/deutschland/bundestagswahl-wieso-die-linke-mit-4-9-prozent-dennoch-als-fraktion-im-bundestag-sitzt-a-625bd2cd-0879-4a4d-a33e-86aafead3756#ref=rss)
+### kosovo
+
+* [https://www.spiegel.de/ausland/kosovo-und-serbien-nato-ruft-im-streit-ueber-kfz-kennzeichen-zur-zurueckhaltung-auf](https://www.spiegel.de/ausland/kosovo-und-serbien-nato-ruft-im-streit-ueber-kfz-kennzeichen-zur-zurueckhaltung-auf-a-870fe2fe-e710-4dc3-a93b-aaa5902ccd32#ref=rss)
+### kfzkennzeichen
+
+* [https://www.spiegel.de/ausland/kosovo-und-serbien-nato-ruft-im-streit-ueber-kfz-kennzeichen-zur-zurueckhaltung-auf](https://www.spiegel.de/ausland/kosovo-und-serbien-nato-ruft-im-streit-ueber-kfz-kennzeichen-zur-zurueckhaltung-auf-a-870fe2fe-e710-4dc3-a93b-aaa5902ccd32#ref=rss)
+### serbische
+
+* [https://www.spiegel.de/ausland/kosovo-und-serbien-nato-ruft-im-streit-ueber-kfz-kennzeichen-zur-zurueckhaltung-auf](https://www.spiegel.de/ausland/kosovo-und-serbien-nato-ruft-im-streit-ueber-kfz-kennzeichen-zur-zurueckhaltung-auf-a-870fe2fe-e710-4dc3-a93b-aaa5902ccd32#ref=rss)
+### klimakrise
+
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-heute-geborene-kinder-koennten-siebenmal-mehr-hitzewellen-erleben](https://www.spiegel.de/wissenschaft/mensch/klimakrise-heute-geborene-kinder-koennten-siebenmal-mehr-hitzewellen-erleben-a-7546b8cd-35a1-4e56-924a-44d6ec1758f3#ref=rss)
+### seenot
+
+* [https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet](https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet-a-534cdde5-15b0-4e33-9a66-57a09624226f#ref=rss)
+### gerettet
+
+* [https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet](https://www.spiegel.de/ausland/aermelkanal-rund-hundert-migranten-in-seenot-gerettet-a-534cdde5-15b0-4e33-9a66-57a09624226f#ref=rss)
 
