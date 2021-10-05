@@ -6,313 +6,311 @@ tags: __no_header__
 
 ### mehr
 
-* [https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand](https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand-a-fb35184c-24e4-4119-bff5-0a4f39c79d56#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-erzeugerpreise-steigen-mit-rekordtempo](https://www.spiegel.de/wirtschaft/unternehmen/inflation-erzeugerpreise-steigen-mit-rekordtempo-a-33fa9652-d236-4d15-b012-646fd0bcc222#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-muss-ex-mitarbeiter-mehr-als-130-millionen-dollar-schadensersatz-zahlen](https://www.spiegel.de/wirtschaft/tesla-muss-ex-mitarbeiter-mehr-als-130-millionen-dollar-schadensersatz-zahlen-a-44e468b7-c066-4903-ab3a-c77f6edf510c#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/der-grosse-masken-fall-die-schulen-starten-in-den-zweiten-corona-herbst](https://www.spiegel.de/panorama/bildung/der-grosse-masken-fall-die-schulen-starten-in-den-zweiten-corona-herbst-a-67bc025c-3863-4cd7-9e12-9c16d60a23ad#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-kostete-der-bundesregierung-mehr-als-17-3-milliarden-euro](https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-kostete-der-bundesregierung-mehr-als-17-3-milliarden-euro-a-1dbc0089-d7b5-43e4-9003-f4196bc03002#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf](https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf-a-193a4885-568a-4d80-924c-4fe800cda704#ref=rss)
+* [https://www.spiegel.de/ausland/expertin-zur-aussen-und-sicherheitspolitik-es-ist-keine-kriegstreiberei-wenn-man-sich-fuer-mehr-militaerische-faehigkeiten-einsetzt](https://www.spiegel.de/ausland/expertin-zur-aussen-und-sicherheitspolitik-es-ist-keine-kriegstreiberei-wenn-man-sich-fuer-mehr-militaerische-faehigkeiten-einsetzt-a-2c98153f-9f2d-4562-9a4c-14a56aa5d3bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-berliner-senat-entschuldigt-sich-fuer-wahlchaos](https://www.spiegel.de/politik/deutschland/bundestagswahl-berliner-senat-entschuldigt-sich-fuer-wahlchaos-a-f1dd4ac4-c797-4d85-b231-8468c965427a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen](https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen-a-4a743fa5-edc0-4025-9fbe-f9644b52cab7#ref=rss)
+* [https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei](https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei-a-97b5e3f6-aa7b-4061-87c0-f92b8b25d2c8#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/leute/scheidungsrekordnationalspieler](https://www.spiegel.de/panorama/leute/scheidungsrekordnationalspieler-a-eb8a7055-7bc3-4157-95aa-ed11ec9401f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-erzeugerpreise-steigen-mit-rekordtempo](https://www.spiegel.de/wirtschaft/unternehmen/inflation-erzeugerpreise-steigen-mit-rekordtempo-a-33fa9652-d236-4d15-b012-646fd0bcc222#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter](https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter-a-44d590fa-f5bc-4e14-bc6d-a358c4bb8d3a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/paris-polizei-identifiziert-offenbar-serienmoerder-nach-35-jahren-fahndung](https://www.spiegel.de/panorama/justiz/paris-polizei-identifiziert-offenbar-serienmoerder-nach-35-jahren-fahndung-a-4fed65a6-1066-49af-81c2-503219691fc1#ref=rss)
-* [https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik](https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik-a-82a12e1c-30ae-4124-aef5-9c4ed77a36db#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/deutschland/heiko-maas-sagt-teilnahme-an-kramp-karrenbauers-afghanistan-bilanz-ab](https://www.spiegel.de/politik/deutschland/heiko-maas-sagt-teilnahme-an-kramp-karrenbauers-afghanistan-bilanz-ab-a-ead3a13f-950f-41e7-9d19-a3d8b1ececbe#ref=rss)
-* [https://www.spiegel.de/karriere/business-englisch-quiz-sorry-are-you-frozen](https://www.spiegel.de/karriere/business-englisch-quiz-sorry-are-you-frozen-a-d4fadeda-8323-439f-a2cf-eda2e73a9a3e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/justin-bieber-verkauft-jetzt-eigene-joints-i-get-my-weed-from-california](https://www.spiegel.de/panorama/leute/justin-bieber-verkauft-jetzt-eigene-joints-i-get-my-weed-from-california-a-840276e5-8a8b-413d-8361-4573cddb7dfc#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/heiko-maas-sagt-teilnahme-an-kramp-karrenbauers-afghanistan-bilanz-ab](https://www.spiegel.de/politik/deutschland/heiko-maas-sagt-teilnahme-an-kramp-karrenbauers-afghanistan-bilanz-ab-a-ead3a13f-950f-41e7-9d19-a3d8b1ececbe#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/nobelpreis-fuer-physik-geht-an-deutschen-klaus-hasselmann](https://www.spiegel.de/wissenschaft/mensch/nobelpreis-fuer-physik-geht-an-deutschen-klaus-hasselmann-a-474afa6d-4f55-4163-9e6f-c5e7b73ced1b#ref=rss)
-* [https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik](https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik-a-82a12e1c-30ae-4124-aef5-9c4ed77a36db#ref=rss)
+* [https://www.spiegel.de/psychologie/wut-auf-die-ruecksichtslosigkeit-ich-bin-rueckfaellig-geworden-kolumne](https://www.spiegel.de/psychologie/wut-auf-die-ruecksichtslosigkeit-ich-bin-rueckfaellig-geworden-kolumne-a-7dc8d4f0-5ed6-4017-883d-396f1c696bcc#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen-a-4febdca7-3e3a-44e6-a243-c33d68df67d6#ref=rss)
 ### facebook
 
-* [https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand](https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand-a-fb35184c-24e4-4119-bff5-0a4f39c79d56#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whatsapp-instagram-das-steckte-hinter-dem-grossen-ausfall](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whatsapp-instagram-das-steckte-hinter-dem-grossen-ausfall-a-2cc1fbe7-9cd1-4071-8e4c-feee9badabd5#ref=rss)
-### menschen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jamaika-koalition-facebook-nobelpreis](https://www.spiegel.de/politik/deutschland/news-des-tages-jamaika-koalition-facebook-nobelpreis-a-07b96938-ad60-4032-8cb2-7b01798d8b59#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen-a-4febdca7-3e3a-44e6-a243-c33d68df67d6#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/facebook-und-whatsapp-ausfall-und-ploetzlich-schrieben-die-leute-wieder-sms](https://www.spiegel.de/netzwelt/apps/facebook-und-whatsapp-ausfall-und-ploetzlich-schrieben-die-leute-wieder-sms-a-b98538f7-fc2d-4b4f-9326-649e59009936#ref=rss)
+### viele
 
-* [https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand](https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand-a-fb35184c-24e4-4119-bff5-0a4f39c79d56#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter](https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter-a-44d590fa-f5bc-4e14-bc6d-a358c4bb8d3a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/psychische-probleme-durch-corona-pandemie-auswirkungen-auf-kinder-und-jugendliche-laut-unicef-gravierend](https://www.spiegel.de/wissenschaft/medizin/psychische-probleme-durch-corona-pandemie-auswirkungen-auf-kinder-und-jugendliche-laut-unicef-gravierend-a-63b8b652-4fed-4e62-8bfa-7b900808f501#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nuerburgring-autofahrer-stirbt-bei-schwerem-unfall-sieben-verletzte](https://www.spiegel.de/panorama/justiz/nuerburgring-autofahrer-stirbt-bei-schwerem-unfall-sieben-verletzte-a-f55d92e6-4b85-49e8-b883-2970f9201813#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf](https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf-a-193a4885-568a-4d80-924c-4fe800cda704#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/facebook-und-whatsapp-ausfall-und-ploetzlich-schrieben-die-leute-wieder-sms](https://www.spiegel.de/netzwelt/apps/facebook-und-whatsapp-ausfall-und-ploetzlich-schrieben-die-leute-wieder-sms-a-b98538f7-fc2d-4b4f-9326-649e59009936#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren](https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren-a-c94a8782-f246-4048-a7e2-b82acc500587#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/automarkt-pkw-neuzulassungen-gehen-stark-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/automarkt-pkw-neuzulassungen-gehen-stark-zurueck-a-b6665d01-6f6d-4612-b126-392c590284d5#ref=rss)
+### frances
 
-* [https://www.spiegel.de/panorama/justiz/paris-polizei-identifiziert-offenbar-serienmoerder-nach-35-jahren-fahndung](https://www.spiegel.de/panorama/justiz/paris-polizei-identifiziert-offenbar-serienmoerder-nach-35-jahren-fahndung-a-4fed65a6-1066-49af-81c2-503219691fc1#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whatsapp-instagram-das-steckte-hinter-dem-grossen-ausfall](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whatsapp-instagram-das-steckte-hinter-dem-grossen-ausfall-a-2cc1fbe7-9cd1-4071-8e4c-feee9badabd5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nuerburgring-autofahrer-stirbt-bei-schwerem-unfall-sieben-verletzte](https://www.spiegel.de/panorama/justiz/nuerburgring-autofahrer-stirbt-bei-schwerem-unfall-sieben-verletzte-a-f55d92e6-4b85-49e8-b883-2970f9201813#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/uni-duisburg-essen-korruptionsverdacht-sachbearbeiterin-soll-noten-gegen-geld-verbessert-haben](https://www.spiegel.de/panorama/bildung/uni-duisburg-essen-korruptionsverdacht-sachbearbeiterin-soll-noten-gegen-geld-verbessert-haben-a-ea7f8396-3578-4ab4-ac80-ebdabab1680d#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen-a-4febdca7-3e3a-44e6-a243-c33d68df67d6#ref=rss)
+* [https://www.spiegel.de/netzwelt/frances-haugen-facebook-whistleblowerin-tritt-im-us-kongress-auf](https://www.spiegel.de/netzwelt/frances-haugen-facebook-whistleblowerin-tritt-im-us-kongress-auf-a-71dc76b0-df45-4c72-b99f-3af45db33a28#ref=rss)
+### haugen
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen-a-4febdca7-3e3a-44e6-a243-c33d68df67d6#ref=rss)
+* [https://www.spiegel.de/netzwelt/frances-haugen-facebook-whistleblowerin-tritt-im-us-kongress-auf](https://www.spiegel.de/netzwelt/frances-haugen-facebook-whistleblowerin-tritt-im-us-kongress-auf-a-71dc76b0-df45-4c72-b99f-3af45db33a28#ref=rss)
+### alle
+
+* [https://www.spiegel.de/politik/gruene-rechnungspruefer-beanstanden-sonderzahlungen-an-parteichefs](https://www.spiegel.de/politik/gruene-rechnungspruefer-beanstanden-sonderzahlungen-an-parteichefs-a-59c32407-e37e-4282-af17-1f5a4e25e2fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/partei-in-der-krise-verliert-die-linke-jetzt-auch-noch-den-status-als-fraktion](https://www.spiegel.de/politik/deutschland/partei-in-der-krise-verliert-die-linke-jetzt-auch-noch-den-status-als-fraktion-a-7dec56aa-04e6-46cd-a3c9-c56aab62cc9e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen](https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen-a-4a743fa5-edc0-4025-9fbe-f9644b52cab7#ref=rss)
+### behörden
+
+* [https://www.spiegel.de/ausland/russland-behoerden-leiten-ermittlungen-zu-foltervideos-aus-gefaengnissen-ein](https://www.spiegel.de/ausland/russland-behoerden-leiten-ermittlungen-zu-foltervideos-aus-gefaengnissen-ein-a-ade65e67-7468-488f-86f8-ea358cd556c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur](https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur-a-032d17f0-7898-40c9-adcb-6eca6bd042f1#ref=rss)
+### ermittlungen
+
+* [https://www.spiegel.de/ausland/russland-behoerden-leiten-ermittlungen-zu-foltervideos-aus-gefaengnissen-ein](https://www.spiegel.de/ausland/russland-behoerden-leiten-ermittlungen-zu-foltervideos-aus-gefaengnissen-ein-a-ade65e67-7468-488f-86f8-ea358cd556c7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen](https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen-a-f407538d-78c5-47ac-b1af-027bdb31c68b#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/politik/deutschland/partei-in-der-krise-verliert-die-linke-jetzt-auch-noch-den-status-als-fraktion](https://www.spiegel.de/politik/deutschland/partei-in-der-krise-verliert-die-linke-jetzt-auch-noch-den-status-als-fraktion-a-7dec56aa-04e6-46cd-a3c9-c56aab62cc9e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/automarkt-pkw-neuzulassungen-gehen-stark-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/automarkt-pkw-neuzulassungen-gehen-stark-zurueck-a-b6665d01-6f6d-4612-b126-392c590284d5#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-weniger-migranten-kommen-ueber-osteuropa-in-die-eu](https://www.spiegel.de/ausland/belarus-weniger-migranten-kommen-ueber-osteuropa-in-die-eu-a-101bc162-8de9-493e-950c-a1f4f6421232#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/politik/deutschland/partei-in-der-krise-verliert-die-linke-jetzt-auch-noch-den-status-als-fraktion](https://www.spiegel.de/politik/deutschland/partei-in-der-krise-verliert-die-linke-jetzt-auch-noch-den-status-als-fraktion-a-7dec56aa-04e6-46cd-a3c9-c56aab62cc9e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-berliner-senat-entschuldigt-sich-fuer-wahlchaos](https://www.spiegel.de/politik/deutschland/bundestagswahl-berliner-senat-entschuldigt-sich-fuer-wahlchaos-a-f1dd4ac4-c797-4d85-b231-8468c965427a#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen-a-4febdca7-3e3a-44e6-a243-c33d68df67d6#ref=rss)
+### gas
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur](https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur-a-032d17f0-7898-40c9-adcb-6eca6bd042f1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/benzin-und-gas-werden-immer-teurer-warum-abstriche-beim-co2-preis-trotzdem-falsch-waeren](https://www.spiegel.de/wirtschaft/benzin-und-gas-werden-immer-teurer-warum-abstriche-beim-co2-preis-trotzdem-falsch-waeren-a-c461baaf-6331-4f51-971b-9f6d08860214#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-erzeugerpreise-steigen-mit-rekordtempo](https://www.spiegel.de/wirtschaft/unternehmen/inflation-erzeugerpreise-steigen-mit-rekordtempo-a-33fa9652-d236-4d15-b012-646fd0bcc222#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter](https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter-a-44d590fa-f5bc-4e14-bc6d-a358c4bb8d3a#ref=rss)
-### kirche
-
-* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-in-frankreich-studie-zaehlt-etwa-330-000-missbrauchsopfer-in-katholischer-kirche](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-in-frankreich-studie-zaehlt-etwa-330-000-missbrauchsopfer-in-katholischer-kirche-a-5060b5dd-cb3f-411e-9eee-0dcb474a340a#ref=rss)
+* [https://www.spiegel.de/ausland/expertin-zur-aussen-und-sicherheitspolitik-es-ist-keine-kriegstreiberei-wenn-man-sich-fuer-mehr-militaerische-faehigkeiten-einsetzt](https://www.spiegel.de/ausland/expertin-zur-aussen-und-sicherheitspolitik-es-ist-keine-kriegstreiberei-wenn-man-sich-fuer-mehr-militaerische-faehigkeiten-einsetzt-a-2c98153f-9f2d-4562-9a4c-14a56aa5d3bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jamaika-koalition-facebook-nobelpreis](https://www.spiegel.de/politik/deutschland/news-des-tages-jamaika-koalition-facebook-nobelpreis-a-07b96938-ad60-4032-8cb2-7b01798d8b59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/automarkt-pkw-neuzulassungen-gehen-stark-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/automarkt-pkw-neuzulassungen-gehen-stark-zurueck-a-b6665d01-6f6d-4612-b126-392c590284d5#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/justiz/hannover-39-jaehriger-stirbt-nach-taser-einsatz-der-polizei](https://www.spiegel.de/panorama/justiz/hannover-39-jaehriger-stirbt-nach-taser-einsatz-der-polizei-a-e1f3aaa8-2d68-4310-be37-9275100d0999#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/paris-polizei-identifiziert-offenbar-serienmoerder-nach-35-jahren-fahndung](https://www.spiegel.de/panorama/justiz/paris-polizei-identifiziert-offenbar-serienmoerder-nach-35-jahren-fahndung-a-4fed65a6-1066-49af-81c2-503219691fc1#ref=rss)
-### warnt
+* [https://www.spiegel.de/panorama/justiz/schelklingen-bei-ulm-babyleiche-entdeckt-polizei-ermittelt-mutter](https://www.spiegel.de/panorama/justiz/schelklingen-bei-ulm-babyleiche-entdeckt-polizei-ermittelt-mutter-a-2eaf63a1-3a2e-4c39-a800-e8783b799108#ref=rss)
+* [https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei](https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei-a-97b5e3f6-aa7b-4061-87c0-f92b8b25d2c8#ref=rss)
+### rund
 
-* [https://www.spiegel.de/ausland/taiwans-regierungschef-zu-kampfflugzeugen-china-geht-zu-weit](https://www.spiegel.de/ausland/taiwans-regierungschef-zu-kampfflugzeugen-china-geht-zu-weit-a-588abd8b-0cbf-486d-bf3c-49be2a164fa6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/psychische-probleme-durch-corona-pandemie-auswirkungen-auf-kinder-und-jugendliche-laut-unicef-gravierend](https://www.spiegel.de/wissenschaft/medizin/psychische-probleme-durch-corona-pandemie-auswirkungen-auf-kinder-und-jugendliche-laut-unicef-gravierend-a-63b8b652-4fed-4e62-8bfa-7b900808f501#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-rki-meldet-4799-neuinfektionen-inzidenz-sinkt-leicht](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-rki-meldet-4799-neuinfektionen-inzidenz-sinkt-leicht-a-a4ed3a33-2fcd-4b8a-a042-2ac34c6a1e73#ref=rss)
-### türkische
+* [https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen](https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen-a-f407538d-78c5-47ac-b1af-027bdb31c68b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen](https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen-a-4a743fa5-edc0-4025-9fbe-f9644b52cab7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/automarkt-pkw-neuzulassungen-gehen-stark-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/automarkt-pkw-neuzulassungen-gehen-stark-zurueck-a-b6665d01-6f6d-4612-b126-392c590284d5#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter](https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter-a-44d590fa-f5bc-4e14-bc6d-a358c4bb8d3a#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-und-zypern-tuerkische-fregatten-behindern-forschungsschiff](https://www.spiegel.de/ausland/tuerkei-und-zypern-tuerkische-fregatten-behindern-forschungsschiff-a-c0833298-27b8-4d7f-8455-da6eeb2f8845#ref=rss)
-### laschet
+* [https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen](https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen-a-f407538d-78c5-47ac-b1af-027bdb31c68b#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen-a-4febdca7-3e3a-44e6-a243-c33d68df67d6#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/facebook-und-whatsapp-ausfall-und-ploetzlich-schrieben-die-leute-wieder-sms](https://www.spiegel.de/netzwelt/apps/facebook-und-whatsapp-ausfall-und-ploetzlich-schrieben-die-leute-wieder-sms-a-b98538f7-fc2d-4b4f-9326-649e59009936#ref=rss)
+### madrid
 
-* [https://www.spiegel.de/politik/deutschland/cdu-in-nrw-armin-laschet-will-hendrik-wuest-als-seinen-nachfolger-vorschlagen](https://www.spiegel.de/politik/deutschland/cdu-in-nrw-armin-laschet-will-hendrik-wuest-als-seinen-nachfolger-vorschlagen-a-a884c06c-c892-4386-a817-84abf7947ff0#ref=rss)
+* [https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden](https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden-a-44350150-9886-45b5-b777-b3c7b71dfaa5#ref=rss)
+### britische
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/britische-bauern-keulen-hunderte-schweine](https://www.spiegel.de/wirtschaft/unternehmen/britische-bauern-keulen-hunderte-schweine-a-5cd20a9e-9b69-4a9c-9348-eb486d25912d#ref=rss)
+* [https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei](https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei-a-97b5e3f6-aa7b-4061-87c0-f92b8b25d2c8#ref=rss)
+### bauern
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/britische-bauern-keulen-hunderte-schweine](https://www.spiegel.de/wirtschaft/unternehmen/britische-bauern-keulen-hunderte-schweine-a-5cd20a9e-9b69-4a9c-9348-eb486d25912d#ref=rss)
 ### euro
 
-* [https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-kostete-der-bundesregierung-mehr-als-17-3-milliarden-euro](https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-kostete-der-bundesregierung-mehr-als-17-3-milliarden-euro-a-1dbc0089-d7b5-43e4-9003-f4196bc03002#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/uni-duisburg-essen-korruptionsverdacht-sachbearbeiterin-soll-noten-gegen-geld-verbessert-haben](https://www.spiegel.de/panorama/bildung/uni-duisburg-essen-korruptionsverdacht-sachbearbeiterin-soll-noten-gegen-geld-verbessert-haben-a-ea7f8396-3578-4ab4-ac80-ebdabab1680d#ref=rss)
-### millionen
+* [https://www.spiegel.de/politik/gruene-rechnungspruefer-beanstanden-sonderzahlungen-an-parteichefs](https://www.spiegel.de/politik/gruene-rechnungspruefer-beanstanden-sonderzahlungen-an-parteichefs-a-59c32407-e37e-4282-af17-1f5a4e25e2fe#ref=rss)
+* [https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden](https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden-a-44350150-9886-45b5-b777-b3c7b71dfaa5#ref=rss)
+### stand
 
-* [https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand](https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand-a-fb35184c-24e4-4119-bff5-0a4f39c79d56#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-muss-ex-mitarbeiter-mehr-als-130-millionen-dollar-schadensersatz-zahlen](https://www.spiegel.de/wirtschaft/tesla-muss-ex-mitarbeiter-mehr-als-130-millionen-dollar-schadensersatz-zahlen-a-44e468b7-c066-4903-ab3a-c77f6edf510c#ref=rss)
-### whatsapp
+* [https://www.spiegel.de/politik/gruene-rechnungspruefer-beanstanden-sonderzahlungen-an-parteichefs](https://www.spiegel.de/politik/gruene-rechnungspruefer-beanstanden-sonderzahlungen-an-parteichefs-a-59c32407-e37e-4282-af17-1f5a4e25e2fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler](https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler-a-993e0ec2-60b1-41da-b5b7-8ed0a4f1fb3c#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand](https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand-a-fb35184c-24e4-4119-bff5-0a4f39c79d56#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whatsapp-instagram-das-steckte-hinter-dem-grossen-ausfall](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whatsapp-instagram-das-steckte-hinter-dem-grossen-ausfall-a-2cc1fbe7-9cd1-4071-8e4c-feee9badabd5#ref=rss)
-### instagram
+* [https://www.spiegel.de/politik/gruene-rechnungspruefer-beanstanden-sonderzahlungen-an-parteichefs](https://www.spiegel.de/politik/gruene-rechnungspruefer-beanstanden-sonderzahlungen-an-parteichefs-a-59c32407-e37e-4282-af17-1f5a4e25e2fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/potsdam-joseph-goebbels-immer-noch-ehrenbuerger](https://www.spiegel.de/politik/deutschland/potsdam-joseph-goebbels-immer-noch-ehrenbuerger-a-5379f144-b37d-4a18-8d90-21f76505c677#ref=rss)
+### jonas
 
-* [https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand](https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand-a-fb35184c-24e4-4119-bff5-0a4f39c79d56#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whatsapp-instagram-das-steckte-hinter-dem-grossen-ausfall](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whatsapp-instagram-das-steckte-hinter-dem-grossen-ausfall-a-2cc1fbe7-9cd1-4071-8e4c-feee9badabd5#ref=rss)
-### nutzen
+* [https://www.spiegel.de/sport/fussball/dfb-spieler-jonas-hofmann-in-die-defensive-geraten](https://www.spiegel.de/sport/fussball/dfb-spieler-jonas-hofmann-in-die-defensive-geraten-a-3d65bd44-35ab-4b3b-abac-708ac61ad5c5#ref=rss)
+### hofmann
 
-* [https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand](https://www.spiegel.de/netzwelt/web/facebook-und-das-bgp-wie-das-netzwerk-aus-dem-internet-verschwand-a-fb35184c-24e4-4119-bff5-0a4f39c79d56#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/pandora-papers-chef-der-europaeischen-volkspartei-manfred-weber-will-europaeisches-fbi](https://www.spiegel.de/wirtschaft/unternehmen/pandora-papers-chef-der-europaeischen-volkspartei-manfred-weber-will-europaeisches-fbi-a-7aea2a56-9c86-48f3-9be8-f3cd50bbdda5#ref=rss)
-### lothar
+* [https://www.spiegel.de/sport/fussball/dfb-spieler-jonas-hofmann-in-die-defensive-geraten](https://www.spiegel.de/sport/fussball/dfb-spieler-jonas-hofmann-in-die-defensive-geraten-a-3d65bd44-35ab-4b3b-abac-708ac61ad5c5#ref=rss)
+### gefängnissen
 
-* [https://www.spiegel.de/panorama/leute/scheidungsrekordnationalspieler](https://www.spiegel.de/panorama/leute/scheidungsrekordnationalspieler-a-eb8a7055-7bc3-4157-95aa-ed11ec9401f9#ref=rss)
-### matthäus
+* [https://www.spiegel.de/ausland/russland-behoerden-leiten-ermittlungen-zu-foltervideos-aus-gefaengnissen-ein](https://www.spiegel.de/ausland/russland-behoerden-leiten-ermittlungen-zu-foltervideos-aus-gefaengnissen-ein-a-ade65e67-7468-488f-86f8-ea358cd556c7#ref=rss)
+### fall
 
-* [https://www.spiegel.de/panorama/leute/scheidungsrekordnationalspieler](https://www.spiegel.de/panorama/leute/scheidungsrekordnationalspieler-a-eb8a7055-7bc3-4157-95aa-ed11ec9401f9#ref=rss)
-### anastasia
+* [https://www.spiegel.de/ausland/russland-behoerden-leiten-ermittlungen-zu-foltervideos-aus-gefaengnissen-ein](https://www.spiegel.de/ausland/russland-behoerden-leiten-ermittlungen-zu-foltervideos-aus-gefaengnissen-ein-a-ade65e67-7468-488f-86f8-ea358cd556c7#ref=rss)
+* [https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei](https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei-a-97b5e3f6-aa7b-4061-87c0-f92b8b25d2c8#ref=rss)
+### partei
 
-* [https://www.spiegel.de/panorama/leute/scheidungsrekordnationalspieler](https://www.spiegel.de/panorama/leute/scheidungsrekordnationalspieler-a-eb8a7055-7bc3-4157-95aa-ed11ec9401f9#ref=rss)
-### getrennt
+* [https://www.spiegel.de/politik/deutschland/partei-in-der-krise-verliert-die-linke-jetzt-auch-noch-den-status-als-fraktion](https://www.spiegel.de/politik/deutschland/partei-in-der-krise-verliert-die-linke-jetzt-auch-noch-den-status-als-fraktion-a-7dec56aa-04e6-46cd-a3c9-c56aab62cc9e#ref=rss)
+### linke
 
-* [https://www.spiegel.de/panorama/leute/scheidungsrekordnationalspieler](https://www.spiegel.de/panorama/leute/scheidungsrekordnationalspieler-a-eb8a7055-7bc3-4157-95aa-ed11ec9401f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/warburg-chef-joachim-olearius-legt-sein-amt-nieder](https://www.spiegel.de/wirtschaft/unternehmen/warburg-chef-joachim-olearius-legt-sein-amt-nieder-a-bfbc9901-fe6d-42bd-a296-6f7114010749#ref=rss)
-### ohne
+* [https://www.spiegel.de/politik/deutschland/partei-in-der-krise-verliert-die-linke-jetzt-auch-noch-den-status-als-fraktion](https://www.spiegel.de/politik/deutschland/partei-in-der-krise-verliert-die-linke-jetzt-auch-noch-den-status-als-fraktion-a-7dec56aa-04e6-46cd-a3c9-c56aab62cc9e#ref=rss)
+### einigen
 
-* [https://www.spiegel.de/panorama/leute/scheidungsrekordnationalspieler](https://www.spiegel.de/panorama/leute/scheidungsrekordnationalspieler-a-eb8a7055-7bc3-4157-95aa-ed11ec9401f9#ref=rss)
-* [https://www.spiegel.de/reise/europa/eisenach-budapest-wanderweg-das-geheimnis-liegt-im-loslaufen-nicht-im-ankommen](https://www.spiegel.de/reise/europa/eisenach-budapest-wanderweg-das-geheimnis-liegt-im-loslaufen-nicht-im-ankommen-a-68ee53b7-a97d-4e91-8c8a-346bf61c9e1f#ref=rss)
-### inflation
+* [https://www.spiegel.de/politik/deutschland/partei-in-der-krise-verliert-die-linke-jetzt-auch-noch-den-status-als-fraktion](https://www.spiegel.de/politik/deutschland/partei-in-der-krise-verliert-die-linke-jetzt-auch-noch-den-status-als-fraktion-a-7dec56aa-04e6-46cd-a3c9-c56aab62cc9e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/itzehoe-96-jaehrige-ex-kz-sekretaerin-aus-u-haft-entlassen](https://www.spiegel.de/panorama/justiz/itzehoe-96-jaehrige-ex-kz-sekretaerin-aus-u-haft-entlassen-a-7a736078-f020-474e-9b3b-ffe520b4a3bf#ref=rss)
+### sachsen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-erzeugerpreise-steigen-mit-rekordtempo](https://www.spiegel.de/wirtschaft/unternehmen/inflation-erzeugerpreise-steigen-mit-rekordtempo-a-33fa9652-d236-4d15-b012-646fd0bcc222#ref=rss)
-### erzeugerpreise
+* [https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf](https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf-a-193a4885-568a-4d80-924c-4fe800cda704#ref=rss)
+### linksextremismus
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-erzeugerpreise-steigen-mit-rekordtempo](https://www.spiegel.de/wirtschaft/unternehmen/inflation-erzeugerpreise-steigen-mit-rekordtempo-a-33fa9652-d236-4d15-b012-646fd0bcc222#ref=rss)
-### joachim
+* [https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf](https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf-a-193a4885-568a-4d80-924c-4fe800cda704#ref=rss)
+### personen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/warburg-chef-joachim-olearius-legt-sein-amt-nieder](https://www.spiegel.de/wirtschaft/unternehmen/warburg-chef-joachim-olearius-legt-sein-amt-nieder-a-bfbc9901-fe6d-42bd-a296-6f7114010749#ref=rss)
-### olearius
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warburg-chef-joachim-olearius-legt-sein-amt-nieder](https://www.spiegel.de/wirtschaft/unternehmen/warburg-chef-joachim-olearius-legt-sein-amt-nieder-a-bfbc9901-fe6d-42bd-a296-6f7114010749#ref=rss)
-### bank
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warburg-chef-joachim-olearius-legt-sein-amt-nieder](https://www.spiegel.de/wirtschaft/unternehmen/warburg-chef-joachim-olearius-legt-sein-amt-nieder-a-bfbc9901-fe6d-42bd-a296-6f7114010749#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-in-frankreich-studie-zaehlt-etwa-330-000-missbrauchsopfer-in-katholischer-kirche](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-in-frankreich-studie-zaehlt-etwa-330-000-missbrauchsopfer-in-katholischer-kirche-a-5060b5dd-cb3f-411e-9eee-0dcb474a340a#ref=rss)
-### liegt
-
-* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-in-frankreich-studie-zaehlt-etwa-330-000-missbrauchsopfer-in-katholischer-kirche](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-in-frankreich-studie-zaehlt-etwa-330-000-missbrauchsopfer-in-katholischer-kirche-a-5060b5dd-cb3f-411e-9eee-0dcb474a340a#ref=rss)
-* [https://www.spiegel.de/reise/europa/eisenach-budapest-wanderweg-das-geheimnis-liegt-im-loslaufen-nicht-im-ankommen](https://www.spiegel.de/reise/europa/eisenach-budapest-wanderweg-das-geheimnis-liegt-im-loslaufen-nicht-im-ankommen-a-68ee53b7-a97d-4e91-8c8a-346bf61c9e1f#ref=rss)
-### bild
-
-* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-in-frankreich-studie-zaehlt-etwa-330-000-missbrauchsopfer-in-katholischer-kirche](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-in-frankreich-studie-zaehlt-etwa-330-000-missbrauchsopfer-in-katholischer-kirche-a-5060b5dd-cb3f-411e-9eee-0dcb474a340a#ref=rss)
-* [https://www.spiegel.de/karriere/business-englisch-quiz-sorry-are-you-frozen](https://www.spiegel.de/karriere/business-englisch-quiz-sorry-are-you-frozen-a-d4fadeda-8323-439f-a2cf-eda2e73a9a3e#ref=rss)
-### hannover
-
-* [https://www.spiegel.de/panorama/justiz/hannover-39-jaehriger-stirbt-nach-taser-einsatz-der-polizei](https://www.spiegel.de/panorama/justiz/hannover-39-jaehriger-stirbt-nach-taser-einsatz-der-polizei-a-e1f3aaa8-2d68-4310-be37-9275100d0999#ref=rss)
-### stirbt
-
-* [https://www.spiegel.de/panorama/justiz/hannover-39-jaehriger-stirbt-nach-taser-einsatz-der-polizei](https://www.spiegel.de/panorama/justiz/hannover-39-jaehriger-stirbt-nach-taser-einsatz-der-polizei-a-e1f3aaa8-2d68-4310-be37-9275100d0999#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/nuerburgring-autofahrer-stirbt-bei-schwerem-unfall-sieben-verletzte](https://www.spiegel.de/panorama/justiz/nuerburgring-autofahrer-stirbt-bei-schwerem-unfall-sieben-verletzte-a-f55d92e6-4b85-49e8-b883-2970f9201813#ref=rss)
-### taiwans
-
-* [https://www.spiegel.de/ausland/taiwans-regierungschef-zu-kampfflugzeugen-china-geht-zu-weit](https://www.spiegel.de/ausland/taiwans-regierungschef-zu-kampfflugzeugen-china-geht-zu-weit-a-588abd8b-0cbf-486d-bf3c-49be2a164fa6#ref=rss)
-### peking
-
-* [https://www.spiegel.de/ausland/taiwans-regierungschef-zu-kampfflugzeugen-china-geht-zu-weit](https://www.spiegel.de/ausland/taiwans-regierungschef-zu-kampfflugzeugen-china-geht-zu-weit-a-588abd8b-0cbf-486d-bf3c-49be2a164fa6#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/taiwans-regierungschef-zu-kampfflugzeugen-china-geht-zu-weit](https://www.spiegel.de/ausland/taiwans-regierungschef-zu-kampfflugzeugen-china-geht-zu-weit-a-588abd8b-0cbf-486d-bf3c-49be2a164fa6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/russland-schickt-filmteam-zur-internationalen-raumstation-iss](https://www.spiegel.de/wissenschaft/technik/russland-schickt-filmteam-zur-internationalen-raumstation-iss-a-549699d5-6108-4865-9853-7b754269e739#ref=rss)
-### gemeinde
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter](https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter-a-44d590fa-f5bc-4e14-bc6d-a358c4bb8d3a#ref=rss)
-### beklagt
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter](https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter-a-44d590fa-f5bc-4e14-bc6d-a358c4bb8d3a#ref=rss)
-* [https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik](https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik-a-82a12e1c-30ae-4124-aef5-9c4ed77a36db#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter](https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter-a-44d590fa-f5bc-4e14-bc6d-a358c4bb8d3a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/russland-schickt-filmteam-zur-internationalen-raumstation-iss](https://www.spiegel.de/wissenschaft/technik/russland-schickt-filmteam-zur-internationalen-raumstation-iss-a-549699d5-6108-4865-9853-7b754269e739#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter](https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter-a-44d590fa-f5bc-4e14-bc6d-a358c4bb8d3a#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-und-zypern-tuerkische-fregatten-behindern-forschungsschiff](https://www.spiegel.de/ausland/tuerkei-und-zypern-tuerkische-fregatten-behindern-forschungsschiff-a-c0833298-27b8-4d7f-8455-da6eeb2f8845#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter](https://www.spiegel.de/politik/deutschland/deutschland-tuerkische-gemeinde-beklagt-mangelnde-wertschaetzung-fuer-gastarbeiter-a-44d590fa-f5bc-4e14-bc6d-a358c4bb8d3a#ref=rss)
-* [https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik](https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik-a-82a12e1c-30ae-4124-aef5-9c4ed77a36db#ref=rss)
-### klaus
-
-* [https://www.spiegel.de/wissenschaft/mensch/nobelpreis-fuer-physik-geht-an-deutschen-klaus-hasselmann](https://www.spiegel.de/wissenschaft/mensch/nobelpreis-fuer-physik-geht-an-deutschen-klaus-hasselmann-a-474afa6d-4f55-4163-9e6f-c5e7b73ced1b#ref=rss)
-### hasselmann
-
-* [https://www.spiegel.de/wissenschaft/mensch/nobelpreis-fuer-physik-geht-an-deutschen-klaus-hasselmann](https://www.spiegel.de/wissenschaft/mensch/nobelpreis-fuer-physik-geht-an-deutschen-klaus-hasselmann-a-474afa6d-4f55-4163-9e6f-c5e7b73ced1b#ref=rss)
-### physiker
-
-* [https://www.spiegel.de/wissenschaft/mensch/nobelpreis-fuer-physik-geht-an-deutschen-klaus-hasselmann](https://www.spiegel.de/wissenschaft/mensch/nobelpreis-fuer-physik-geht-an-deutschen-klaus-hasselmann-a-474afa6d-4f55-4163-9e6f-c5e7b73ced1b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/physik-nobelpreis-die-verkuendung-im-livestream](https://www.spiegel.de/wissenschaft/physik-nobelpreis-die-verkuendung-im-livestream-a-a2e6c8c5-318b-4b7a-977d-4f82ed191e62#ref=rss)
-### verkündung
-
-* [https://www.spiegel.de/wissenschaft/physik-nobelpreis-die-verkuendung-im-livestream](https://www.spiegel.de/wissenschaft/physik-nobelpreis-die-verkuendung-im-livestream-a-a2e6c8c5-318b-4b7a-977d-4f82ed191e62#ref=rss)
-### russland
-
-* [https://www.spiegel.de/wissenschaft/technik/russland-schickt-filmteam-zur-internationalen-raumstation-iss](https://www.spiegel.de/wissenschaft/technik/russland-schickt-filmteam-zur-internationalen-raumstation-iss-a-549699d5-6108-4865-9853-7b754269e739#ref=rss)
-### iss
-
-* [https://www.spiegel.de/wissenschaft/technik/russland-schickt-filmteam-zur-internationalen-raumstation-iss](https://www.spiegel.de/wissenschaft/technik/russland-schickt-filmteam-zur-internationalen-raumstation-iss-a-549699d5-6108-4865-9853-7b754269e739#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/wissenschaft/technik/russland-schickt-filmteam-zur-internationalen-raumstation-iss](https://www.spiegel.de/wissenschaft/technik/russland-schickt-filmteam-zur-internationalen-raumstation-iss-a-549699d5-6108-4865-9853-7b754269e739#ref=rss)
-* [https://www.spiegel.de/sport/bubba-wallace-gewinnt-nascar-rennen-fuer-die-kinder-da-draussen-die-eine-chance-wollen](https://www.spiegel.de/sport/bubba-wallace-gewinnt-nascar-rennen-fuer-die-kinder-da-draussen-die-eine-chance-wollen-a-8fcc06aa-2196-4d6d-bb89-ab3af86b2360#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-nrw-armin-laschet-will-hendrik-wuest-als-seinen-nachfolger-vorschlagen](https://www.spiegel.de/politik/deutschland/cdu-in-nrw-armin-laschet-will-hendrik-wuest-als-seinen-nachfolger-vorschlagen-a-a884c06c-c892-4386-a817-84abf7947ff0#ref=rss)
-### armin
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-nrw-armin-laschet-will-hendrik-wuest-als-seinen-nachfolger-vorschlagen](https://www.spiegel.de/politik/deutschland/cdu-in-nrw-armin-laschet-will-hendrik-wuest-als-seinen-nachfolger-vorschlagen-a-a884c06c-c892-4386-a817-84abf7947ff0#ref=rss)
-### hendrik
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-nrw-armin-laschet-will-hendrik-wuest-als-seinen-nachfolger-vorschlagen](https://www.spiegel.de/politik/deutschland/cdu-in-nrw-armin-laschet-will-hendrik-wuest-als-seinen-nachfolger-vorschlagen-a-a884c06c-c892-4386-a817-84abf7947ff0#ref=rss)
-### wüst
-
-* [https://www.spiegel.de/politik/deutschland/cdu-in-nrw-armin-laschet-will-hendrik-wuest-als-seinen-nachfolger-vorschlagen](https://www.spiegel.de/politik/deutschland/cdu-in-nrw-armin-laschet-will-hendrik-wuest-als-seinen-nachfolger-vorschlagen-a-a884c06c-c892-4386-a817-84abf7947ff0#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/wissenschaft/medizin/psychische-probleme-durch-corona-pandemie-auswirkungen-auf-kinder-und-jugendliche-laut-unicef-gravierend](https://www.spiegel.de/wissenschaft/medizin/psychische-probleme-durch-corona-pandemie-auswirkungen-auf-kinder-und-jugendliche-laut-unicef-gravierend-a-63b8b652-4fed-4e62-8bfa-7b900808f501#ref=rss)
-* [https://www.spiegel.de/sport/bubba-wallace-gewinnt-nascar-rennen-fuer-die-kinder-da-draussen-die-eine-chance-wollen](https://www.spiegel.de/sport/bubba-wallace-gewinnt-nascar-rennen-fuer-die-kinder-da-draussen-die-eine-chance-wollen-a-8fcc06aa-2196-4d6d-bb89-ab3af86b2360#ref=rss)
-### unicef
-
-* [https://www.spiegel.de/wissenschaft/medizin/psychische-probleme-durch-corona-pandemie-auswirkungen-auf-kinder-und-jugendliche-laut-unicef-gravierend](https://www.spiegel.de/wissenschaft/medizin/psychische-probleme-durch-corona-pandemie-auswirkungen-auf-kinder-und-jugendliche-laut-unicef-gravierend-a-63b8b652-4fed-4e62-8bfa-7b900808f501#ref=rss)
-### bubba
-
-* [https://www.spiegel.de/sport/bubba-wallace-gewinnt-nascar-rennen-fuer-die-kinder-da-draussen-die-eine-chance-wollen](https://www.spiegel.de/sport/bubba-wallace-gewinnt-nascar-rennen-fuer-die-kinder-da-draussen-die-eine-chance-wollen-a-8fcc06aa-2196-4d6d-bb89-ab3af86b2360#ref=rss)
-### wallace
-
-* [https://www.spiegel.de/sport/bubba-wallace-gewinnt-nascar-rennen-fuer-die-kinder-da-draussen-die-eine-chance-wollen](https://www.spiegel.de/sport/bubba-wallace-gewinnt-nascar-rennen-fuer-die-kinder-da-draussen-die-eine-chance-wollen-a-8fcc06aa-2196-4d6d-bb89-ab3af86b2360#ref=rss)
-### nascarrennen
-
-* [https://www.spiegel.de/sport/bubba-wallace-gewinnt-nascar-rennen-fuer-die-kinder-da-draussen-die-eine-chance-wollen](https://www.spiegel.de/sport/bubba-wallace-gewinnt-nascar-rennen-fuer-die-kinder-da-draussen-die-eine-chance-wollen-a-8fcc06aa-2196-4d6d-bb89-ab3af86b2360#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/wirtschaft/tesla-muss-ex-mitarbeiter-mehr-als-130-millionen-dollar-schadensersatz-zahlen](https://www.spiegel.de/wirtschaft/tesla-muss-ex-mitarbeiter-mehr-als-130-millionen-dollar-schadensersatz-zahlen-a-44e468b7-c066-4903-ab3a-c77f6edf510c#ref=rss)
-### serienmörder
-
-* [https://www.spiegel.de/panorama/justiz/paris-polizei-identifiziert-offenbar-serienmoerder-nach-35-jahren-fahndung](https://www.spiegel.de/panorama/justiz/paris-polizei-identifiziert-offenbar-serienmoerder-nach-35-jahren-fahndung-a-4fed65a6-1066-49af-81c2-503219691fc1#ref=rss)
-### 35
-
-* [https://www.spiegel.de/panorama/justiz/paris-polizei-identifiziert-offenbar-serienmoerder-nach-35-jahren-fahndung](https://www.spiegel.de/panorama/justiz/paris-polizei-identifiziert-offenbar-serienmoerder-nach-35-jahren-fahndung-a-4fed65a6-1066-49af-81c2-503219691fc1#ref=rss)
-### pandora
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/pandora-papers-chef-der-europaeischen-volkspartei-manfred-weber-will-europaeisches-fbi](https://www.spiegel.de/wirtschaft/unternehmen/pandora-papers-chef-der-europaeischen-volkspartei-manfred-weber-will-europaeisches-fbi-a-7aea2a56-9c86-48f3-9be8-f3cd50bbdda5#ref=rss)
-### papers
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/pandora-papers-chef-der-europaeischen-volkspartei-manfred-weber-will-europaeisches-fbi](https://www.spiegel.de/wirtschaft/unternehmen/pandora-papers-chef-der-europaeischen-volkspartei-manfred-weber-will-europaeisches-fbi-a-7aea2a56-9c86-48f3-9be8-f3cd50bbdda5#ref=rss)
-### fraktionschef
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/pandora-papers-chef-der-europaeischen-volkspartei-manfred-weber-will-europaeisches-fbi](https://www.spiegel.de/wirtschaft/unternehmen/pandora-papers-chef-der-europaeischen-volkspartei-manfred-weber-will-europaeisches-fbi-a-7aea2a56-9c86-48f3-9be8-f3cd50bbdda5#ref=rss)
-### europäischen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/pandora-papers-chef-der-europaeischen-volkspartei-manfred-weber-will-europaeisches-fbi](https://www.spiegel.de/wirtschaft/unternehmen/pandora-papers-chef-der-europaeischen-volkspartei-manfred-weber-will-europaeisches-fbi-a-7aea2a56-9c86-48f3-9be8-f3cd50bbdda5#ref=rss)
-### volkspartei
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/pandora-papers-chef-der-europaeischen-volkspartei-manfred-weber-will-europaeisches-fbi](https://www.spiegel.de/wirtschaft/unternehmen/pandora-papers-chef-der-europaeischen-volkspartei-manfred-weber-will-europaeisches-fbi-a-7aea2a56-9c86-48f3-9be8-f3cd50bbdda5#ref=rss)
-### babyn
-
-* [https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik](https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik-a-82a12e1c-30ae-4124-aef5-9c4ed77a36db#ref=rss)
-### jar
-
-* [https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik](https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik-a-82a12e1c-30ae-4124-aef5-9c4ed77a36db#ref=rss)
-### botschafter
-
-* [https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik](https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik-a-82a12e1c-30ae-4124-aef5-9c4ed77a36db#ref=rss)
-### andrij
-
-* [https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik](https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik-a-82a12e1c-30ae-4124-aef5-9c4ed77a36db#ref=rss)
-### melnyk
-
-* [https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik](https://www.spiegel.de/ausland/babyn-jar-ukrainischer-botschafter-andrij-melnyk-kritisiert-deutsche-erinnerungspolitik-a-82a12e1c-30ae-4124-aef5-9c4ed77a36db#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/bildung/der-grosse-masken-fall-die-schulen-starten-in-den-zweiten-corona-herbst](https://www.spiegel.de/panorama/bildung/der-grosse-masken-fall-die-schulen-starten-in-den-zweiten-corona-herbst-a-67bc025c-3863-4cd7-9e12-9c16d60a23ad#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf](https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf-a-193a4885-568a-4d80-924c-4fe800cda704#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen](https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen-a-f407538d-78c5-47ac-b1af-027bdb31c68b#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/panorama/bildung/der-grosse-masken-fall-die-schulen-starten-in-den-zweiten-corona-herbst](https://www.spiegel.de/panorama/bildung/der-grosse-masken-fall-die-schulen-starten-in-den-zweiten-corona-herbst-a-67bc025c-3863-4cd7-9e12-9c16d60a23ad#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/uni-duisburg-essen-korruptionsverdacht-sachbearbeiterin-soll-noten-gegen-geld-verbessert-haben](https://www.spiegel.de/panorama/bildung/uni-duisburg-essen-korruptionsverdacht-sachbearbeiterin-soll-noten-gegen-geld-verbessert-haben-a-ea7f8396-3578-4ab4-ac80-ebdabab1680d#ref=rss)
-### bundesländer
+* [https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf](https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf-a-193a4885-568a-4d80-924c-4fe800cda704#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren](https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren-a-c94a8782-f246-4048-a7e2-b82acc500587#ref=rss)
+### sorgen
 
-* [https://www.spiegel.de/panorama/bildung/der-grosse-masken-fall-die-schulen-starten-in-den-zweiten-corona-herbst](https://www.spiegel.de/panorama/bildung/der-grosse-masken-fall-die-schulen-starten-in-den-zweiten-corona-herbst-a-67bc025c-3863-4cd7-9e12-9c16d60a23ad#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-rki-meldet-4799-neuinfektionen-inzidenz-sinkt-leicht](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-rki-meldet-4799-neuinfektionen-inzidenz-sinkt-leicht-a-a4ed3a33-2fcd-4b8a-a042-2ac34c6a1e73#ref=rss)
-### städtetagspräsident
+* [https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf](https://www.spiegel.de/panorama/justiz/verfassungsschutzbericht-fuer-sachsen-rechtsextremismus-und-linksextremismus-erhalten-zulauf-a-193a4885-568a-4d80-924c-4fe800cda704#ref=rss)
+* [https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden](https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden-a-44350150-9886-45b5-b777-b3c7b71dfaa5#ref=rss)
+### gorillas
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-rki-meldet-4799-neuinfektionen-inzidenz-sinkt-leicht](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-rki-meldet-4799-neuinfektionen-inzidenz-sinkt-leicht-a-a4ed3a33-2fcd-4b8a-a042-2ac34c6a1e73#ref=rss)
-### grünen
+* [https://www.spiegel.de/wirtschaft/unternehmen/gorillas-lieferdienst-kuendigt-streikenden-fahrern](https://www.spiegel.de/wirtschaft/unternehmen/gorillas-lieferdienst-kuendigt-streikenden-fahrern-a-d0f77266-6346-4c25-808c-6ad0b51ca488#ref=rss)
+### arbeit
 
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-und-juergen-trittin-zweifeln-an-verhandlungsfaehigkeit-der-union](https://www.spiegel.de/politik/deutschland/cem-oezdemir-und-juergen-trittin-zweifeln-an-verhandlungsfaehigkeit-der-union-a-6e0529ea-799b-4dd2-97b1-cf368075bc7c#ref=rss)
-### union
+* [https://www.spiegel.de/wirtschaft/unternehmen/gorillas-lieferdienst-kuendigt-streikenden-fahrern](https://www.spiegel.de/wirtschaft/unternehmen/gorillas-lieferdienst-kuendigt-streikenden-fahrern-a-d0f77266-6346-4c25-808c-6ad0b51ca488#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klaus-hasselmann-manabe-parisi-nobelpreis-fuer-klimaforscher](https://www.spiegel.de/wissenschaft/klaus-hasselmann-manabe-parisi-nobelpreis-fuer-klimaforscher-a-0f5aa333-0236-485b-8e22-a519b96e7c8d#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-und-juergen-trittin-zweifeln-an-verhandlungsfaehigkeit-der-union](https://www.spiegel.de/politik/deutschland/cem-oezdemir-und-juergen-trittin-zweifeln-an-verhandlungsfaehigkeit-der-union-a-6e0529ea-799b-4dd2-97b1-cf368075bc7c#ref=rss)
-### ersten
+* [https://www.spiegel.de/wirtschaft/unternehmen/gorillas-lieferdienst-kuendigt-streikenden-fahrern](https://www.spiegel.de/wirtschaft/unternehmen/gorillas-lieferdienst-kuendigt-streikenden-fahrern-a-d0f77266-6346-4c25-808c-6ad0b51ca488#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen-a-4febdca7-3e3a-44e6-a243-c33d68df67d6#ref=rss)
+### nord
 
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-und-juergen-trittin-zweifeln-an-verhandlungsfaehigkeit-der-union](https://www.spiegel.de/politik/deutschland/cem-oezdemir-und-juergen-trittin-zweifeln-an-verhandlungsfaehigkeit-der-union-a-6e0529ea-799b-4dd2-97b1-cf368075bc7c#ref=rss)
-### justin
+* [https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur](https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur-a-032d17f0-7898-40c9-adcb-6eca6bd042f1#ref=rss)
+### stream
 
-* [https://www.spiegel.de/panorama/leute/justin-bieber-verkauft-jetzt-eigene-joints-i-get-my-weed-from-california](https://www.spiegel.de/panorama/leute/justin-bieber-verkauft-jetzt-eigene-joints-i-get-my-weed-from-california-a-840276e5-8a8b-413d-8361-4573cddb7dfc#ref=rss)
-### bieber
+* [https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur](https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur-a-032d17f0-7898-40c9-adcb-6eca6bd042f1#ref=rss)
+### 2
 
-* [https://www.spiegel.de/panorama/leute/justin-bieber-verkauft-jetzt-eigene-joints-i-get-my-weed-from-california](https://www.spiegel.de/panorama/leute/justin-bieber-verkauft-jetzt-eigene-joints-i-get-my-weed-from-california-a-840276e5-8a8b-413d-8361-4573cddb7dfc#ref=rss)
-### verkauft
+* [https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur](https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur-a-032d17f0-7898-40c9-adcb-6eca6bd042f1#ref=rss)
+### bundesnetzagentur
 
-* [https://www.spiegel.de/panorama/leute/justin-bieber-verkauft-jetzt-eigene-joints-i-get-my-weed-from-california](https://www.spiegel.de/panorama/leute/justin-bieber-verkauft-jetzt-eigene-joints-i-get-my-weed-from-california-a-840276e5-8a8b-413d-8361-4573cddb7dfc#ref=rss)
-### joints
+* [https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur](https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur-a-032d17f0-7898-40c9-adcb-6eca6bd042f1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler](https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler-a-993e0ec2-60b1-41da-b5b7-8ed0a4f1fb3c#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/panorama/leute/justin-bieber-verkauft-jetzt-eigene-joints-i-get-my-weed-from-california](https://www.spiegel.de/panorama/leute/justin-bieber-verkauft-jetzt-eigene-joints-i-get-my-weed-from-california-a-840276e5-8a8b-413d-8361-4573cddb7dfc#ref=rss)
-### steckte
+* [https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur](https://www.spiegel.de/wirtschaft/unternehmen/nord-stream-2-neuer-aerger-zwischen-betreibern-und-bundesnetzagentur-a-032d17f0-7898-40c9-adcb-6eca6bd042f1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/automarkt-pkw-neuzulassungen-gehen-stark-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/automarkt-pkw-neuzulassungen-gehen-stark-zurueck-a-b6665d01-6f6d-4612-b126-392c590284d5#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whatsapp-instagram-das-steckte-hinter-dem-grossen-ausfall](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whatsapp-instagram-das-steckte-hinter-dem-grossen-ausfall-a-2cc1fbe7-9cd1-4071-8e4c-feee9badabd5#ref=rss)
-### afghanistan
+* [https://www.spiegel.de/ausland/expertin-zur-aussen-und-sicherheitspolitik-es-ist-keine-kriegstreiberei-wenn-man-sich-fuer-mehr-militaerische-faehigkeiten-einsetzt](https://www.spiegel.de/ausland/expertin-zur-aussen-und-sicherheitspolitik-es-ist-keine-kriegstreiberei-wenn-man-sich-fuer-mehr-militaerische-faehigkeiten-einsetzt-a-2c98153f-9f2d-4562-9a4c-14a56aa5d3bc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klaus-hasselmann-manabe-parisi-nobelpreis-fuer-klimaforscher](https://www.spiegel.de/wissenschaft/klaus-hasselmann-manabe-parisi-nobelpreis-fuer-klimaforscher-a-0f5aa333-0236-485b-8e22-a519b96e7c8d#ref=rss)
+### benzin
 
-* [https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-kostete-der-bundesregierung-mehr-als-17-3-milliarden-euro](https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-kostete-der-bundesregierung-mehr-als-17-3-milliarden-euro-a-1dbc0089-d7b5-43e4-9003-f4196bc03002#ref=rss)
-### milliarden
+* [https://www.spiegel.de/wirtschaft/benzin-und-gas-werden-immer-teurer-warum-abstriche-beim-co2-preis-trotzdem-falsch-waeren](https://www.spiegel.de/wirtschaft/benzin-und-gas-werden-immer-teurer-warum-abstriche-beim-co2-preis-trotzdem-falsch-waeren-a-c461baaf-6331-4f51-971b-9f6d08860214#ref=rss)
+### teurer
 
-* [https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-kostete-der-bundesregierung-mehr-als-17-3-milliarden-euro](https://www.spiegel.de/politik/deutschland/afghanistan-einsatz-kostete-der-bundesregierung-mehr-als-17-3-milliarden-euro-a-1dbc0089-d7b5-43e4-9003-f4196bc03002#ref=rss)
-### nürburgring
+* [https://www.spiegel.de/wirtschaft/benzin-und-gas-werden-immer-teurer-warum-abstriche-beim-co2-preis-trotzdem-falsch-waeren](https://www.spiegel.de/wirtschaft/benzin-und-gas-werden-immer-teurer-warum-abstriche-beim-co2-preis-trotzdem-falsch-waeren-a-c461baaf-6331-4f51-971b-9f6d08860214#ref=rss)
+### mir
 
-* [https://www.spiegel.de/panorama/justiz/nuerburgring-autofahrer-stirbt-bei-schwerem-unfall-sieben-verletzte](https://www.spiegel.de/panorama/justiz/nuerburgring-autofahrer-stirbt-bei-schwerem-unfall-sieben-verletzte-a-f55d92e6-4b85-49e8-b883-2970f9201813#ref=rss)
-### autofahrer
+* [https://www.spiegel.de/psychologie/wut-auf-die-ruecksichtslosigkeit-ich-bin-rueckfaellig-geworden-kolumne](https://www.spiegel.de/psychologie/wut-auf-die-ruecksichtslosigkeit-ich-bin-rueckfaellig-geworden-kolumne-a-7dc8d4f0-5ed6-4017-883d-396f1c696bcc#ref=rss)
+### gefunden
 
-* [https://www.spiegel.de/panorama/justiz/nuerburgring-autofahrer-stirbt-bei-schwerem-unfall-sieben-verletzte](https://www.spiegel.de/panorama/justiz/nuerburgring-autofahrer-stirbt-bei-schwerem-unfall-sieben-verletzte-a-f55d92e6-4b85-49e8-b883-2970f9201813#ref=rss)
-### sieben
+* [https://www.spiegel.de/psychologie/wut-auf-die-ruecksichtslosigkeit-ich-bin-rueckfaellig-geworden-kolumne](https://www.spiegel.de/psychologie/wut-auf-die-ruecksichtslosigkeit-ich-bin-rueckfaellig-geworden-kolumne-a-7dc8d4f0-5ed6-4017-883d-396f1c696bcc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/schelklingen-bei-ulm-babyleiche-entdeckt-polizei-ermittelt-mutter](https://www.spiegel.de/panorama/justiz/schelklingen-bei-ulm-babyleiche-entdeckt-polizei-ermittelt-mutter-a-2eaf63a1-3a2e-4c39-a800-e8783b799108#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/panorama/justiz/nuerburgring-autofahrer-stirbt-bei-schwerem-unfall-sieben-verletzte](https://www.spiegel.de/panorama/justiz/nuerburgring-autofahrer-stirbt-bei-schwerem-unfall-sieben-verletzte-a-f55d92e6-4b85-49e8-b883-2970f9201813#ref=rss)
-### duisburgessen
+* [https://www.spiegel.de/panorama/justiz/schelklingen-bei-ulm-babyleiche-entdeckt-polizei-ermittelt-mutter](https://www.spiegel.de/panorama/justiz/schelklingen-bei-ulm-babyleiche-entdeckt-polizei-ermittelt-mutter-a-2eaf63a1-3a2e-4c39-a800-e8783b799108#ref=rss)
+### klaus
 
-* [https://www.spiegel.de/panorama/bildung/uni-duisburg-essen-korruptionsverdacht-sachbearbeiterin-soll-noten-gegen-geld-verbessert-haben](https://www.spiegel.de/panorama/bildung/uni-duisburg-essen-korruptionsverdacht-sachbearbeiterin-soll-noten-gegen-geld-verbessert-haben-a-ea7f8396-3578-4ab4-ac80-ebdabab1680d#ref=rss)
-### prüfungen
+* [https://www.spiegel.de/wissenschaft/klaus-hasselmann-manabe-parisi-nobelpreis-fuer-klimaforscher](https://www.spiegel.de/wissenschaft/klaus-hasselmann-manabe-parisi-nobelpreis-fuer-klimaforscher-a-0f5aa333-0236-485b-8e22-a519b96e7c8d#ref=rss)
+### hasselmann
 
-* [https://www.spiegel.de/panorama/bildung/uni-duisburg-essen-korruptionsverdacht-sachbearbeiterin-soll-noten-gegen-geld-verbessert-haben](https://www.spiegel.de/panorama/bildung/uni-duisburg-essen-korruptionsverdacht-sachbearbeiterin-soll-noten-gegen-geld-verbessert-haben-a-ea7f8396-3578-4ab4-ac80-ebdabab1680d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klaus-hasselmann-manabe-parisi-nobelpreis-fuer-klimaforscher](https://www.spiegel.de/wissenschaft/klaus-hasselmann-manabe-parisi-nobelpreis-fuer-klimaforscher-a-0f5aa333-0236-485b-8e22-a519b96e7c8d#ref=rss)
+### nobelpreis
+
+* [https://www.spiegel.de/wissenschaft/klaus-hasselmann-manabe-parisi-nobelpreis-fuer-klimaforscher](https://www.spiegel.de/wissenschaft/klaus-hasselmann-manabe-parisi-nobelpreis-fuer-klimaforscher-a-0f5aa333-0236-485b-8e22-a519b96e7c8d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jamaika-koalition-facebook-nobelpreis](https://www.spiegel.de/politik/deutschland/news-des-tages-jamaika-koalition-facebook-nobelpreis-a-07b96938-ad60-4032-8cb2-7b01798d8b59#ref=rss)
+### potsdam
+
+* [https://www.spiegel.de/politik/deutschland/potsdam-joseph-goebbels-immer-noch-ehrenbuerger](https://www.spiegel.de/politik/deutschland/potsdam-joseph-goebbels-immer-noch-ehrenbuerger-a-5379f144-b37d-4a18-8d90-21f76505c677#ref=rss)
+### dies
+
+* [https://www.spiegel.de/politik/deutschland/potsdam-joseph-goebbels-immer-noch-ehrenbuerger](https://www.spiegel.de/politik/deutschland/potsdam-joseph-goebbels-immer-noch-ehrenbuerger-a-5379f144-b37d-4a18-8d90-21f76505c677#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-berliner-senat-entschuldigt-sich-fuer-wahlchaos](https://www.spiegel.de/politik/deutschland/bundestagswahl-berliner-senat-entschuldigt-sich-fuer-wahlchaos-a-f1dd4ac4-c797-4d85-b231-8468c965427a#ref=rss)
+### senat
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-berliner-senat-entschuldigt-sich-fuer-wahlchaos](https://www.spiegel.de/politik/deutschland/bundestagswahl-berliner-senat-entschuldigt-sich-fuer-wahlchaos-a-f1dd4ac4-c797-4d85-b231-8468c965427a#ref=rss)
+### teils
+
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-berliner-senat-entschuldigt-sich-fuer-wahlchaos](https://www.spiegel.de/politik/deutschland/bundestagswahl-berliner-senat-entschuldigt-sich-fuer-wahlchaos-a-f1dd4ac4-c797-4d85-b231-8468c965427a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-warum-das-rki-die-impfwirksamkeit-nach-unten-korrigierte](https://www.spiegel.de/wissenschaft/medizin/coronavirus-warum-das-rki-die-impfwirksamkeit-nach-unten-korrigierte-a-2000e28b-6940-4454-9ee8-34ca75d164cf#ref=rss)
+### blackout
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jamaika-koalition-facebook-nobelpreis](https://www.spiegel.de/politik/deutschland/news-des-tages-jamaika-koalition-facebook-nobelpreis-a-07b96938-ad60-4032-8cb2-7b01798d8b59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler](https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler-a-993e0ec2-60b1-41da-b5b7-8ed0a4f1fb3c#ref=rss)
+### rumänien
+
+* [https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen](https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen-a-f407538d-78c5-47ac-b1af-027bdb31c68b#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen](https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen-a-f407538d-78c5-47ac-b1af-027bdb31c68b#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen](https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen-a-f407538d-78c5-47ac-b1af-027bdb31c68b#ref=rss)
+### knapp
+
+* [https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen](https://www.spiegel.de/panorama/justiz/rumaenien-nach-ermittlungen-in-bayern-18-mutmassliche-schleuser-festgenommen-a-f407538d-78c5-47ac-b1af-027bdb31c68b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler](https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler-a-993e0ec2-60b1-41da-b5b7-8ed0a4f1fb3c#ref=rss)
+### facebookwhistleblowerin
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen-a-4febdca7-3e3a-44e6-a243-c33d68df67d6#ref=rss)
+* [https://www.spiegel.de/netzwelt/frances-haugen-facebook-whistleblowerin-tritt-im-us-kongress-auf](https://www.spiegel.de/netzwelt/frances-haugen-facebook-whistleblowerin-tritt-im-us-kongress-auf-a-71dc76b0-df45-4c72-b99f-3af45db33a28#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen-a-4febdca7-3e3a-44e6-a243-c33d68df67d6#ref=rss)
+* [https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei](https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei-a-97b5e3f6-aa7b-4061-87c0-f92b8b25d2c8#ref=rss)
+### ussenat
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen](https://www.spiegel.de/netzwelt/netzpolitik/facebook-whistleblowerin-frances-haugen-ich-glaube-dass-die-produkte-unsere-demokratie-schwaechen-a-4febdca7-3e3a-44e6-a243-c33d68df67d6#ref=rss)
+* [https://www.spiegel.de/netzwelt/frances-haugen-facebook-whistleblowerin-tritt-im-us-kongress-auf](https://www.spiegel.de/netzwelt/frances-haugen-facebook-whistleblowerin-tritt-im-us-kongress-auf-a-71dc76b0-df45-4c72-b99f-3af45db33a28#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-warum-das-rki-die-impfwirksamkeit-nach-unten-korrigierte](https://www.spiegel.de/wissenschaft/medizin/coronavirus-warum-das-rki-die-impfwirksamkeit-nach-unten-korrigierte-a-2000e28b-6940-4454-9ee8-34ca75d164cf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen](https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen-a-4a743fa5-edc0-4025-9fbe-f9644b52cab7#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen](https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen-a-4a743fa5-edc0-4025-9fbe-f9644b52cab7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler](https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler-a-993e0ec2-60b1-41da-b5b7-8ed0a4f1fb3c#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen](https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen-a-4a743fa5-edc0-4025-9fbe-f9644b52cab7#ref=rss)
+* [https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden](https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden-a-44350150-9886-45b5-b777-b3c7b71dfaa5#ref=rss)
+### 2019
+
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen](https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen-a-4a743fa5-edc0-4025-9fbe-f9644b52cab7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler](https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler-a-993e0ec2-60b1-41da-b5b7-8ed0a4f1fb3c#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen](https://www.spiegel.de/wissenschaft/natur/klimaschutz-deutsche-waelder-absorbieren-nur-drei-prozent-der-jaehrlichen-co-emissionen-a-4a743fa5-edc0-4025-9fbe-f9644b52cab7#ref=rss)
+* [https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden](https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden-a-44350150-9886-45b5-b777-b3c7b71dfaa5#ref=rss)
+### andreas
+
+* [https://www.spiegel.de/politik/oesterreich-andreas-hanger-oevp-attackiert-wirtschafts-und-korruptionsstaatsanwaltschaft-wksta](https://www.spiegel.de/politik/oesterreich-andreas-hanger-oevp-attackiert-wirtschafts-und-korruptionsstaatsanwaltschaft-wksta-a-99cca015-8ae6-4602-92f4-cb0dc6f3551e#ref=rss)
+### hanger
+
+* [https://www.spiegel.de/politik/oesterreich-andreas-hanger-oevp-attackiert-wirtschafts-und-korruptionsstaatsanwaltschaft-wksta](https://www.spiegel.de/politik/oesterreich-andreas-hanger-oevp-attackiert-wirtschafts-und-korruptionsstaatsanwaltschaft-wksta-a-99cca015-8ae6-4602-92f4-cb0dc6f3551e#ref=rss)
+### sarah
+
+* [https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei](https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei-a-97b5e3f6-aa7b-4061-87c0-f92b8b25d2c8#ref=rss)
+### everard
+
+* [https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei](https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei-a-97b5e3f6-aa7b-4061-87c0-f92b8b25d2c8#ref=rss)
+### johnson
+
+* [https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei](https://www.spiegel.de/ausland/fall-sarah-everard-boris-johnson-will-kulturwandel-bei-der-polizei-a-97b5e3f6-aa7b-4061-87c0-f92b8b25d2c8#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren](https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren-a-c94a8782-f246-4048-a7e2-b82acc500587#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren](https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren-a-c94a8782-f246-4048-a7e2-b82acc500587#ref=rss)
+### stephanie
+
+* [https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren](https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren-a-c94a8782-f246-4048-a7e2-b82acc500587#ref=rss)
+### grisham
+
+* [https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren](https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren-a-c94a8782-f246-4048-a7e2-b82acc500587#ref=rss)
+### memoiren
+
+* [https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren](https://www.spiegel.de/ausland/donald-trump-ex-sprecherin-stephanie-grisham-enthuellt-brisantes-in-memoiren-a-c94a8782-f246-4048-a7e2-b82acc500587#ref=rss)
+### kylian
+
+* [https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden](https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden-a-44350150-9886-45b5-b777-b3c7b71dfaa5#ref=rss)
+### mbappé
+
+* [https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden](https://www.spiegel.de/sport/kylian-mbappe-zu-real-madrid-der-wechsel-koennte-bald-realitaet-werden-a-44350150-9886-45b5-b777-b3c7b71dfaa5#ref=rss)
+### 96jährige
+
+* [https://www.spiegel.de/panorama/justiz/itzehoe-96-jaehrige-ex-kz-sekretaerin-aus-u-haft-entlassen](https://www.spiegel.de/panorama/justiz/itzehoe-96-jaehrige-ex-kz-sekretaerin-aus-u-haft-entlassen-a-7a736078-f020-474e-9b3b-ffe520b4a3bf#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/automarkt-pkw-neuzulassungen-gehen-stark-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/automarkt-pkw-neuzulassungen-gehen-stark-zurueck-a-b6665d01-6f6d-4612-b126-392c590284d5#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-weniger-migranten-kommen-ueber-osteuropa-in-die-eu](https://www.spiegel.de/ausland/belarus-weniger-migranten-kommen-ueber-osteuropa-in-die-eu-a-101bc162-8de9-493e-950c-a1f4f6421232#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/belarus-weniger-migranten-kommen-ueber-osteuropa-in-die-eu](https://www.spiegel.de/ausland/belarus-weniger-migranten-kommen-ueber-osteuropa-in-die-eu-a-101bc162-8de9-493e-950c-a1f4f6421232#ref=rss)
+### stromhändler
+
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler](https://www.spiegel.de/wirtschaft/bundesnetzagentur-verhaengt-bussgelder-gegen-stromhaendler-a-993e0ec2-60b1-41da-b5b7-8ed0a4f1fb3c#ref=rss)
 
