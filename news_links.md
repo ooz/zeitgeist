@@ -4,298 +4,293 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### neue
+### kurz
 
-* [https://www.spiegel.de/netzwelt/apps/instagram-soll-pausenfunktion-fuer-teenager-bekommen](https://www.spiegel.de/netzwelt/apps/instagram-soll-pausenfunktion-fuer-teenager-bekommen-a-791be3af-8305-4cb5-8379-85c93537a203#ref=rss)
-* [https://www.spiegel.de/kultur/kino/keine-zeit-zu-sterben-ist-kassen-koenig-in-deutschland-us-start-enttaeuscht](https://www.spiegel.de/kultur/kino/keine-zeit-zu-sterben-ist-kassen-koenig-in-deutschland-us-start-enttaeuscht-a-7bb2d193-91a9-4975-a5fa-8fb7170fb7a8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-montag-medikament-von-astrazeneca-offenbar-wirksam-gegen-corona](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-montag-medikament-von-astrazeneca-offenbar-wirksam-gegen-corona-a-db127af0-6bf8-4443-96a0-e3a41ccbbafd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-philipp-amthor-und-tilman-kuban-wollen-basis-zu-laschet-nachfolge-befragen](https://www.spiegel.de/politik/deutschland/cdu-philipp-amthor-und-tilman-kuban-wollen-basis-zu-laschet-nachfolge-befragen-a-55643015-5d00-495b-8cec-dd0865cfa388#ref=rss)
-### irak
-
-* [https://www.spiegel.de/ausland/irak-mutmasslicher-is-finanzchef-bei-geheimdiensteinsatz-festgenommen](https://www.spiegel.de/ausland/irak-mutmasslicher-is-finanzchef-bei-geheimdiensteinsatz-festgenommen-a-861c5636-e2d8-41a1-b43b-dd4fda628586#ref=rss)
-* [https://www.spiegel.de/ausland/irak-beteiligung-an-parlamentswahl-auf-rekordtief](https://www.spiegel.de/ausland/irak-beteiligung-an-parlamentswahl-auf-rekordtief-a-1cc6a6d5-e0ae-4d46-928d-65ac4814d741#ref=rss)
-### tschechien
-
-* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand-a-306a742e-c2c3-4c6e-88ff-5f33e107e0e3#ref=rss)
-* [https://www.spiegel.de/panorama/grenze-zwischen-bayern-und-tschechien-achtjaehrige-bei-wanderung-verschwunden](https://www.spiegel.de/panorama/grenze-zwischen-bayern-und-tschechien-achtjaehrige-bei-wanderung-verschwunden-a-3717af31-b008-49ac-9ea4-309ace9c38dd#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand-a-306a742e-c2c3-4c6e-88ff-5f33e107e0e3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/steuern-und-abgabenlast-ist-deutlich-gesunken](https://www.spiegel.de/wirtschaft/soziales/steuern-und-abgabenlast-ist-deutlich-gesunken-a-46726094-b67a-4634-b4ac-0bd6300f1b64#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/kfw-umfrage-zu-materialmangel-baufirmen-erhoehen-besonders-oft-die-preise](https://www.spiegel.de/wirtschaft/unternehmen/kfw-umfrage-zu-materialmangel-baufirmen-erhoehen-besonders-oft-die-preise-a-553757e2-7f79-4a2a-8cb5-00f2edb7198a#ref=rss)
+* [https://www.spiegel.de/kultur/sebastian-kurz-und-der-ruecktritt-oesterreichische-beinarbeit-stilkritik](https://www.spiegel.de/kultur/sebastian-kurz-und-der-ruecktritt-oesterreichische-beinarbeit-stilkritik-a-049cfa9a-48cd-44e2-ab87-7b96f233a917#ref=rss)
+* [https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler](https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler-a-a614fa77-335f-4505-88eb-f03fecc25093#ref=rss)
+* [https://www.spiegel.de/ausland/sebastian-kurz-bis-zu-35-prozent-der-oesterreicher-wuerden-den-ex-kanzler-waehlen-trotz-staatsaffaere](https://www.spiegel.de/ausland/sebastian-kurz-bis-zu-35-prozent-der-oesterreicher-wuerden-den-ex-kanzler-waehlen-trotz-staatsaffaere-a-dc48b1cb-3aa6-4d85-bb58-3d7e2d6c73c3#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/kultur/kino/keine-zeit-zu-sterben-ist-kassen-koenig-in-deutschland-us-start-enttaeuscht](https://www.spiegel.de/kultur/kino/keine-zeit-zu-sterben-ist-kassen-koenig-in-deutschland-us-start-enttaeuscht-a-7bb2d193-91a9-4975-a5fa-8fb7170fb7a8#ref=rss)
-* [https://www.spiegel.de/panorama/new-hampshire-hat-einen-knall-raetsel-um-moegliches-erdbeben-im-us-bundesstaat](https://www.spiegel.de/panorama/new-hampshire-hat-einen-knall-raetsel-um-moegliches-erdbeben-im-us-bundesstaat-a-04fe9033-c662-496e-9798-fa1190535cb6#ref=rss)
-* [https://www.spiegel.de/ausland/irak-beteiligung-an-parlamentswahl-auf-rekordtief](https://www.spiegel.de/ausland/irak-beteiligung-an-parlamentswahl-auf-rekordtief-a-1cc6a6d5-e0ae-4d46-928d-65ac4814d741#ref=rss)
-### usa
+* [https://www.spiegel.de/wirtschaft/unternehmen/lego-macht-bei-spielzeug-keinen-unterschied-mehr-zwischen-jungen-und-maedchen](https://www.spiegel.de/wirtschaft/unternehmen/lego-macht-bei-spielzeug-keinen-unterschied-mehr-zwischen-jungen-und-maedchen-a-78d661aa-accb-4295-ab0a-1b92bac6ccd9#ref=rss)
+* [https://www.spiegel.de/karriere/karriereberatung-die-lehrerin-die-nicht-mehr-zur-arbeit-gehen-will](https://www.spiegel.de/karriere/karriereberatung-die-lehrerin-die-nicht-mehr-zur-arbeit-gehen-will-a-ccb57ba4-a9a0-4094-bd19-cfa82ffabdd7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden](https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden-a-2045ae70-df79-4fd4-804e-b57d8257461d#ref=rss)
+### sebastian
 
-* [https://www.spiegel.de/kultur/kino/keine-zeit-zu-sterben-ist-kassen-koenig-in-deutschland-us-start-enttaeuscht](https://www.spiegel.de/kultur/kino/keine-zeit-zu-sterben-ist-kassen-koenig-in-deutschland-us-start-enttaeuscht-a-7bb2d193-91a9-4975-a5fa-8fb7170fb7a8#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/usa-urlaub-im-herbst-und-winter-die-besten-reise-ziele-in-den-vereinigten-staaten](https://www.spiegel.de/reise/fernweh/usa-urlaub-im-herbst-und-winter-die-besten-reise-ziele-in-den-vereinigten-staaten-a-bc02505c-53fd-4372-ade6-47d21cf85a1e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf](https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf-a-4e0d1c97-b691-4502-92c1-6807f6ce0b6a#ref=rss)
-### fordert
+* [https://www.spiegel.de/kultur/sebastian-kurz-und-der-ruecktritt-oesterreichische-beinarbeit-stilkritik](https://www.spiegel.de/kultur/sebastian-kurz-und-der-ruecktritt-oesterreichische-beinarbeit-stilkritik-a-049cfa9a-48cd-44e2-ab87-7b96f233a917#ref=rss)
+* [https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler](https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler-a-a614fa77-335f-4505-88eb-f03fecc25093#ref=rss)
+* [https://www.spiegel.de/ausland/sebastian-kurz-bis-zu-35-prozent-der-oesterreicher-wuerden-den-ex-kanzler-waehlen-trotz-staatsaffaere](https://www.spiegel.de/ausland/sebastian-kurz-bis-zu-35-prozent-der-oesterreicher-wuerden-den-ex-kanzler-waehlen-trotz-staatsaffaere-a-dc48b1cb-3aa6-4d85-bb58-3d7e2d6c73c3#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/politik/deutschland/cdu-philipp-amthor-und-tilman-kuban-wollen-basis-zu-laschet-nachfolge-befragen](https://www.spiegel.de/politik/deutschland/cdu-philipp-amthor-und-tilman-kuban-wollen-basis-zu-laschet-nachfolge-befragen-a-55643015-5d00-495b-8cec-dd0865cfa388#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/energiepreise-staedte-und-gemeindebund-fordert-vom-bund-heizkosten-zuschuesse](https://www.spiegel.de/wirtschaft/soziales/energiepreise-staedte-und-gemeindebund-fordert-vom-bund-heizkosten-zuschuesse-a-c434f479-1b9b-4c36-979f-dfe6960958b1#ref=rss)
-### raffinerie
+* [https://www.spiegel.de/wirtschaft/service/norwegen-gericht-erklaert-teile-von-europas-groesstem-landwindpark-fuer-unzulaessig](https://www.spiegel.de/wirtschaft/service/norwegen-gericht-erklaert-teile-von-europas-groesstem-landwindpark-fuer-unzulaessig-a-6e1ab9c5-7db7-4cf3-be71-390515b953d5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dresden-ex-kita-mitarbeiter-kuendigt-gestaendnis-in-missbrauchsprozess-an](https://www.spiegel.de/panorama/justiz/dresden-ex-kita-mitarbeiter-kuendigt-gestaendnis-in-missbrauchsprozess-an-a-b80ea5a6-9028-467a-968e-8ab59b5ef704#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niederlande-mord-am-anwalt-eines-kronzeugen-30-jahre-haft](https://www.spiegel.de/panorama/justiz/niederlande-mord-am-anwalt-eines-kronzeugen-30-jahre-haft-a-022b9d44-21dd-4a7b-98c7-e5740eb1104a#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/panorama/libanon-feuer-in-raffinerie-250-000-liter-benzin-verbrannt](https://www.spiegel.de/panorama/libanon-feuer-in-raffinerie-250-000-liter-benzin-verbrannt-a-08b6c701-0d35-46a9-be41-cacef3a70f84#ref=rss)
-### 250000
+* [https://www.spiegel.de/politik/deutschland/ampel-sondierungen-nach-der-bundestagswahl-woher-kommen-die-milliarden](https://www.spiegel.de/politik/deutschland/ampel-sondierungen-nach-der-bundestagswahl-woher-kommen-die-milliarden-a-dd90a0eb-1ada-4034-b165-4c047d45dc68#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/spd-fdp-und-gruene-warum-die-ampel-parteien-ihre-versprechen-brechen-muessen](https://www.spiegel.de/wirtschaft/soziales/spd-fdp-und-gruene-warum-die-ampel-parteien-ihre-versprechen-brechen-muessen-a-f7155dfb-7b12-495a-a8c8-61dbacedffbb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden](https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden-a-2045ae70-df79-4fd4-804e-b57d8257461d#ref=rss)
+### spd
 
-* [https://www.spiegel.de/panorama/libanon-feuer-in-raffinerie-250-000-liter-benzin-verbrannt](https://www.spiegel.de/panorama/libanon-feuer-in-raffinerie-250-000-liter-benzin-verbrannt-a-08b6c701-0d35-46a9-be41-cacef3a70f84#ref=rss)
-* [https://www.spiegel.de/ausland/irak-beteiligung-an-parlamentswahl-auf-rekordtief](https://www.spiegel.de/ausland/irak-beteiligung-an-parlamentswahl-auf-rekordtief-a-1cc6a6d5-e0ae-4d46-928d-65ac4814d741#ref=rss)
-### präsident
+* [https://www.spiegel.de/politik/deutschland/ampel-sondierungen-nach-der-bundestagswahl-woher-kommen-die-milliarden](https://www.spiegel.de/politik/deutschland/ampel-sondierungen-nach-der-bundestagswahl-woher-kommen-die-milliarden-a-dd90a0eb-1ada-4034-b165-4c047d45dc68#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/spd-fdp-und-gruene-warum-die-ampel-parteien-ihre-versprechen-brechen-muessen](https://www.spiegel.de/wirtschaft/soziales/spd-fdp-und-gruene-warum-die-ampel-parteien-ihre-versprechen-brechen-muessen-a-f7155dfb-7b12-495a-a8c8-61dbacedffbb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden](https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden-a-2045ae70-df79-4fd4-804e-b57d8257461d#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand-a-306a742e-c2c3-4c6e-88ff-5f33e107e0e3#ref=rss)
-### miloš
+* [https://www.spiegel.de/panorama/kaarst-bei-duesseldorf-gesicht-rekonstruiert-polizei-rollt-mordfall-von-1992-auf](https://www.spiegel.de/panorama/kaarst-bei-duesseldorf-gesicht-rekonstruiert-polizei-rollt-mordfall-von-1992-auf-a-23709950-c85d-44a3-b471-50d15bf644ec#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niederlande-mord-am-anwalt-eines-kronzeugen-30-jahre-haft](https://www.spiegel.de/panorama/justiz/niederlande-mord-am-anwalt-eines-kronzeugen-30-jahre-haft-a-022b9d44-21dd-4a7b-98c7-e5740eb1104a#ref=rss)
+* [https://www.spiegel.de/karriere/karriereberatung-die-lehrerin-die-nicht-mehr-zur-arbeit-gehen-will](https://www.spiegel.de/karriere/karriereberatung-die-lehrerin-die-nicht-mehr-zur-arbeit-gehen-will-a-ccb57ba4-a9a0-4094-bd19-cfa82ffabdd7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden](https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden-a-2045ae70-df79-4fd4-804e-b57d8257461d#ref=rss)
+### mann
 
-* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand-a-306a742e-c2c3-4c6e-88ff-5f33e107e0e3#ref=rss)
-### zeman
+* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille-a-7a8e6de5-6b5c-40ea-b046-9658d03ba9f1#ref=rss)
+* [https://www.spiegel.de/panorama/kaarst-bei-duesseldorf-gesicht-rekonstruiert-polizei-rollt-mordfall-von-1992-auf](https://www.spiegel.de/panorama/kaarst-bei-duesseldorf-gesicht-rekonstruiert-polizei-rollt-mordfall-von-1992-auf-a-23709950-c85d-44a3-b471-50d15bf644ec#ref=rss)
+### welt
 
-* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand-a-306a742e-c2c3-4c6e-88ff-5f33e107e0e3#ref=rss)
-### zustand
+* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille-a-7a8e6de5-6b5c-40ea-b046-9658d03ba9f1#ref=rss)
+* [https://www.spiegel.de/panorama/gelsenkirchen-loewen-drillinge-in-zoo-geboren](https://www.spiegel.de/panorama/gelsenkirchen-loewen-drillinge-in-zoo-geboren-a-22a0e2ac-2800-4a3b-84b6-1e679333df6f#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand-a-306a742e-c2c3-4c6e-88ff-5f33e107e0e3#ref=rss)
-### parlamentswahl
+* [https://www.spiegel.de/ausland/afghanistan-taliban-kuendigen-fuer-dienstag-gespraeche-mit-eu-vertretern-an](https://www.spiegel.de/ausland/afghanistan-taliban-kuendigen-fuer-dienstag-gespraeche-mit-eu-vertretern-an-a-f109652d-3984-4a0e-a906-f3f6a89a9add#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sarah-lee-heinrich-die-empoerung-kommt-zu-spaet](https://www.spiegel.de/politik/deutschland/sarah-lee-heinrich-die-empoerung-kommt-zu-spaet-a-c06a27d0-09ab-484b-830d-b9b5e2f7a8aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-antikoerper-cocktail-von-astrazeneca-erzielt-offenbar-positive-ergebnisse](https://www.spiegel.de/wissenschaft/medizin/coronavirus-antikoerper-cocktail-von-astrazeneca-erzielt-offenbar-positive-ergebnisse-a-d505a88f-2a7d-47f3-9aa2-264dd1e46ca3#ref=rss)
+### geld
 
-* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-laut-aerzten-in-stabilem-zustand-a-306a742e-c2c3-4c6e-88ff-5f33e107e0e3#ref=rss)
-* [https://www.spiegel.de/ausland/irak-beteiligung-an-parlamentswahl-auf-rekordtief](https://www.spiegel.de/ausland/irak-beteiligung-an-parlamentswahl-auf-rekordtief-a-1cc6a6d5-e0ae-4d46-928d-65ac4814d741#ref=rss)
-### instagram
-
-* [https://www.spiegel.de/netzwelt/apps/instagram-soll-pausenfunktion-fuer-teenager-bekommen](https://www.spiegel.de/netzwelt/apps/instagram-soll-pausenfunktion-fuer-teenager-bekommen-a-791be3af-8305-4cb5-8379-85c93537a203#ref=rss)
-### facebook
-
-* [https://www.spiegel.de/netzwelt/apps/instagram-soll-pausenfunktion-fuer-teenager-bekommen](https://www.spiegel.de/netzwelt/apps/instagram-soll-pausenfunktion-fuer-teenager-bekommen-a-791be3af-8305-4cb5-8379-85c93537a203#ref=rss)
-### geplant
-
-* [https://www.spiegel.de/netzwelt/apps/instagram-soll-pausenfunktion-fuer-teenager-bekommen](https://www.spiegel.de/netzwelt/apps/instagram-soll-pausenfunktion-fuer-teenager-bekommen-a-791be3af-8305-4cb5-8379-85c93537a203#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-ehemaliger-geheimdienstchef-im-bbc-interview](https://www.spiegel.de/ausland/nordkorea-ehemaliger-geheimdienstchef-im-bbc-interview-a-a26a8fbf-14cc-42fc-96de-8ff0ff55325a#ref=rss)
-### stipendium
-
-* [https://www.spiegel.de/start/stipendium-der-friedrich-ebert-stiftung-voraussetzungen-bewerbung-foerderung](https://www.spiegel.de/start/stipendium-der-friedrich-ebert-stiftung-voraussetzungen-bewerbung-foerderung-a-e539457c-0ee2-4bba-8e2d-96edf74ddab7#ref=rss)
-### maßnahmen
-
-* [https://www.spiegel.de/wissenschaft/weltnaturkonferenz-in-kunming-unternehmen-fordern-massnahmen-gegen-das-artensterben](https://www.spiegel.de/wissenschaft/weltnaturkonferenz-in-kunming-unternehmen-fordern-massnahmen-gegen-das-artensterben-a-a60f0004-c9b5-4ddc-8cc4-b7bb01bf69db#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf](https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf-a-4e0d1c97-b691-4502-92c1-6807f6ce0b6a#ref=rss)
-### achtjährige
-
-* [https://www.spiegel.de/panorama/grenze-zwischen-bayern-und-tschechien-achtjaehrige-bei-wanderung-verschwunden](https://www.spiegel.de/panorama/grenze-zwischen-bayern-und-tschechien-achtjaehrige-bei-wanderung-verschwunden-a-3717af31-b008-49ac-9ea4-309ace9c38dd#ref=rss)
-### wanderung
-
-* [https://www.spiegel.de/panorama/grenze-zwischen-bayern-und-tschechien-achtjaehrige-bei-wanderung-verschwunden](https://www.spiegel.de/panorama/grenze-zwischen-bayern-und-tschechien-achtjaehrige-bei-wanderung-verschwunden-a-3717af31-b008-49ac-9ea4-309ace9c38dd#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/grenze-zwischen-bayern-und-tschechien-achtjaehrige-bei-wanderung-verschwunden](https://www.spiegel.de/panorama/grenze-zwischen-bayern-und-tschechien-achtjaehrige-bei-wanderung-verschwunden-a-3717af31-b008-49ac-9ea4-309ace9c38dd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dreifachmord-von-starnberg-fuehrten-der-mutmassliche-taeter-und-das-opfer-eine-beziehung](https://www.spiegel.de/panorama/justiz/dreifachmord-von-starnberg-fuehrten-der-mutmassliche-taeter-und-das-opfer-eine-beziehung-a-2b6c8228-ebf6-42e7-b3c1-f44f79a1ca3e#ref=rss)
-### wirtschaftsnobelpreis
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftsnobelpreis-fuer-david-card-joshua-angrist-und-guido-imbens](https://www.spiegel.de/wirtschaft/soziales/wirtschaftsnobelpreis-fuer-david-card-joshua-angrist-und-guido-imbens-a-1baf1c02-ffae-4c35-b850-157aacac99e5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/lufthansa-zahlt-teil-der-coronahilfen-zurueck](https://www.spiegel.de/wirtschaft/soziales/lufthansa-zahlt-teil-der-coronahilfen-zurueck-a-d6a0d186-31a7-4b9c-9d69-96688052fad5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/thibaut-courtois-belgien-torwart-kritisiert-fussballverbaende-sie-kuemmern-sich-nur-ums-geld](https://www.spiegel.de/sport/fussball/thibaut-courtois-belgien-torwart-kritisiert-fussballverbaende-sie-kuemmern-sich-nur-ums-geld-a-dcaba2d9-5c98-4144-8221-acc13a7db933#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/weltbank-aermere-laender-erholen-sich-kaum-von-coronakrise](https://www.spiegel.de/wirtschaft/soziales/weltbank-aermere-laender-erholen-sich-kaum-von-coronakrise-a-0c30fc71-8edb-434c-8520-6babdabab3c8#ref=rss)
 ### drei
 
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftsnobelpreis-fuer-david-card-joshua-angrist-und-guido-imbens](https://www.spiegel.de/wirtschaft/soziales/wirtschaftsnobelpreis-fuer-david-card-joshua-angrist-und-guido-imbens-a-1baf1c02-ffae-4c35-b850-157aacac99e5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten-a-397fac96-4943-401c-aaaf-a263ae0e28d8#ref=rss)
-### forscher
+* [https://www.spiegel.de/panorama/gelsenkirchen-loewen-drillinge-in-zoo-geboren](https://www.spiegel.de/panorama/gelsenkirchen-loewen-drillinge-in-zoo-geboren-a-22a0e2ac-2800-4a3b-84b6-1e679333df6f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nobelpreis-wirtschaft-david-card-hielt-nachricht-ueber-auszeichnung-fuer-scherz](https://www.spiegel.de/wirtschaft/nobelpreis-wirtschaft-david-card-hielt-nachricht-ueber-auszeichnung-fuer-scherz-a-89113993-fd57-4311-93ac-65444c43fcae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-sondierungen-nach-der-bundestagswahl-woher-kommen-die-milliarden](https://www.spiegel.de/politik/deutschland/ampel-sondierungen-nach-der-bundestagswahl-woher-kommen-die-milliarden-a-dd90a0eb-1ada-4034-b165-4c047d45dc68#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftsnobelpreis-fuer-david-card-joshua-angrist-und-guido-imbens](https://www.spiegel.de/wirtschaft/soziales/wirtschaftsnobelpreis-fuer-david-card-joshua-angrist-und-guido-imbens-a-1baf1c02-ffae-4c35-b850-157aacac99e5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten-a-397fac96-4943-401c-aaaf-a263ae0e28d8#ref=rss)
-### verändert
+* [https://www.spiegel.de/politik/deutschland/sarah-lee-heinrich-die-empoerung-kommt-zu-spaet](https://www.spiegel.de/politik/deutschland/sarah-lee-heinrich-die-empoerung-kommt-zu-spaet-a-c06a27d0-09ab-484b-830d-b9b5e2f7a8aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet-a-5d022e7e-71b7-434f-9767-6c0eb65a73de#ref=rss)
+* [https://www.spiegel.de/karriere/social-media-suenden-was-tun-wenn-peinliche-posts-ploetzlich-publik-werden](https://www.spiegel.de/karriere/social-media-suenden-was-tun-wenn-peinliche-posts-ploetzlich-publik-werden-a-2bfd8335-f7f6-4b1e-a03f-b749940c65bb#ref=rss)
+### jugend
 
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftsnobelpreis-fuer-david-card-joshua-angrist-und-guido-imbens](https://www.spiegel.de/wirtschaft/soziales/wirtschaftsnobelpreis-fuer-david-card-joshua-angrist-und-guido-imbens-a-1baf1c02-ffae-4c35-b850-157aacac99e5#ref=rss)
-* [https://www.spiegel.de/panorama/leute/billie-lourd-vermisst-mutter-carrie-fisher-und-oma-debbie-reynolds-es-war-brutal](https://www.spiegel.de/panorama/leute/billie-lourd-vermisst-mutter-carrie-fisher-und-oma-debbie-reynolds-es-war-brutal-a-cfd45e4c-877a-4b5d-adc3-f026ab612d25#ref=rss)
-### bond
+* [https://www.spiegel.de/politik/deutschland/sarah-lee-heinrich-die-empoerung-kommt-zu-spaet](https://www.spiegel.de/politik/deutschland/sarah-lee-heinrich-die-empoerung-kommt-zu-spaet-a-c06a27d0-09ab-484b-830d-b9b5e2f7a8aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet-a-5d022e7e-71b7-434f-9767-6c0eb65a73de#ref=rss)
+* [https://www.spiegel.de/karriere/social-media-suenden-was-tun-wenn-peinliche-posts-ploetzlich-publik-werden](https://www.spiegel.de/karriere/social-media-suenden-was-tun-wenn-peinliche-posts-ploetzlich-publik-werden-a-2bfd8335-f7f6-4b1e-a03f-b749940c65bb#ref=rss)
+### mädchen
 
-* [https://www.spiegel.de/kultur/kino/keine-zeit-zu-sterben-ist-kassen-koenig-in-deutschland-us-start-enttaeuscht](https://www.spiegel.de/kultur/kino/keine-zeit-zu-sterben-ist-kassen-koenig-in-deutschland-us-start-enttaeuscht-a-7bb2d193-91a9-4975-a5fa-8fb7170fb7a8#ref=rss)
-### zeit
+* [https://www.spiegel.de/wirtschaft/unternehmen/lego-macht-bei-spielzeug-keinen-unterschied-mehr-zwischen-jungen-und-maedchen](https://www.spiegel.de/wirtschaft/unternehmen/lego-macht-bei-spielzeug-keinen-unterschied-mehr-zwischen-jungen-und-maedchen-a-78d661aa-accb-4295-ab0a-1b92bac6ccd9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dresden-ex-kita-mitarbeiter-kuendigt-gestaendnis-in-missbrauchsprozess-an](https://www.spiegel.de/panorama/justiz/dresden-ex-kita-mitarbeiter-kuendigt-gestaendnis-in-missbrauchsprozess-an-a-b80ea5a6-9028-467a-968e-8ab59b5ef704#ref=rss)
+### 30
 
-* [https://www.spiegel.de/kultur/kino/keine-zeit-zu-sterben-ist-kassen-koenig-in-deutschland-us-start-enttaeuscht](https://www.spiegel.de/kultur/kino/keine-zeit-zu-sterben-ist-kassen-koenig-in-deutschland-us-start-enttaeuscht-a-7bb2d193-91a9-4975-a5fa-8fb7170fb7a8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/steuern-und-abgabenlast-ist-deutlich-gesunken](https://www.spiegel.de/wirtschaft/soziales/steuern-und-abgabenlast-ist-deutlich-gesunken-a-46726094-b67a-4634-b4ac-0bd6300f1b64#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/kultur/kino/keine-zeit-zu-sterben-ist-kassen-koenig-in-deutschland-us-start-enttaeuscht](https://www.spiegel.de/kultur/kino/keine-zeit-zu-sterben-ist-kassen-koenig-in-deutschland-us-start-enttaeuscht-a-7bb2d193-91a9-4975-a5fa-8fb7170fb7a8#ref=rss)
-### new
-
-* [https://www.spiegel.de/panorama/new-hampshire-hat-einen-knall-raetsel-um-moegliches-erdbeben-im-us-bundesstaat](https://www.spiegel.de/panorama/new-hampshire-hat-einen-knall-raetsel-um-moegliches-erdbeben-im-us-bundesstaat-a-04fe9033-c662-496e-9798-fa1190535cb6#ref=rss)
-### hampshire
-
-* [https://www.spiegel.de/panorama/new-hampshire-hat-einen-knall-raetsel-um-moegliches-erdbeben-im-us-bundesstaat](https://www.spiegel.de/panorama/new-hampshire-hat-einen-knall-raetsel-um-moegliches-erdbeben-im-us-bundesstaat-a-04fe9033-c662-496e-9798-fa1190535cb6#ref=rss)
-### knall
-
-* [https://www.spiegel.de/panorama/new-hampshire-hat-einen-knall-raetsel-um-moegliches-erdbeben-im-us-bundesstaat](https://www.spiegel.de/panorama/new-hampshire-hat-einen-knall-raetsel-um-moegliches-erdbeben-im-us-bundesstaat-a-04fe9033-c662-496e-9798-fa1190535cb6#ref=rss)
-### erdbeben
-
-* [https://www.spiegel.de/panorama/new-hampshire-hat-einen-knall-raetsel-um-moegliches-erdbeben-im-us-bundesstaat](https://www.spiegel.de/panorama/new-hampshire-hat-einen-knall-raetsel-um-moegliches-erdbeben-im-us-bundesstaat-a-04fe9033-c662-496e-9798-fa1190535cb6#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/new-hampshire-hat-einen-knall-raetsel-um-moegliches-erdbeben-im-us-bundesstaat](https://www.spiegel.de/panorama/new-hampshire-hat-einen-knall-raetsel-um-moegliches-erdbeben-im-us-bundesstaat-a-04fe9033-c662-496e-9798-fa1190535cb6#ref=rss)
-* [https://www.spiegel.de/ausland/amazonas-indigene-wehren-sich-gegen-ausbeutung-ihr-importiert-unser-blut](https://www.spiegel.de/ausland/amazonas-indigene-wehren-sich-gegen-ausbeutung-ihr-importiert-unser-blut-a-fbb74c79-922c-45a5-aaea-fdb7a7c380f7#ref=rss)
-### marsmission
-
-* [https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten-a-397fac96-4943-401c-aaaf-a263ae0e28d8#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten-a-397fac96-4943-401c-aaaf-a263ae0e28d8#ref=rss)
-* [https://www.spiegel.de/ausland/irak-beteiligung-an-parlamentswahl-auf-rekordtief](https://www.spiegel.de/ausland/irak-beteiligung-an-parlamentswahl-auf-rekordtief-a-1cc6a6d5-e0ae-4d46-928d-65ac4814d741#ref=rss)
-### frau
-
-* [https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten-a-397fac96-4943-401c-aaaf-a263ae0e28d8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf](https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf-a-4e0d1c97-b691-4502-92c1-6807f6ce0b6a#ref=rss)
-### schweren
-
-* [https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten-a-397fac96-4943-401c-aaaf-a263ae0e28d8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-montag-medikament-von-astrazeneca-offenbar-wirksam-gegen-corona](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-montag-medikament-von-astrazeneca-offenbar-wirksam-gegen-corona-a-db127af0-6bf8-4443-96a0-e3a41ccbbafd#ref=rss)
+* [https://www.spiegel.de/panorama/kaarst-bei-duesseldorf-gesicht-rekonstruiert-polizei-rollt-mordfall-von-1992-auf](https://www.spiegel.de/panorama/kaarst-bei-duesseldorf-gesicht-rekonstruiert-polizei-rollt-mordfall-von-1992-auf-a-23709950-c85d-44a3-b471-50d15bf644ec#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niederlande-mord-am-anwalt-eines-kronzeugen-30-jahre-haft](https://www.spiegel.de/panorama/justiz/niederlande-mord-am-anwalt-eines-kronzeugen-30-jahre-haft-a-022b9d44-21dd-4a7b-98c7-e5740eb1104a#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten](https://www.spiegel.de/wissenschaft/weltall/mars-mission-forscher-trainieren-fuer-einsatz-auf-rotem-planeten-a-397fac96-4943-401c-aaaf-a263ae0e28d8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/steuern-und-abgabenlast-ist-deutlich-gesunken](https://www.spiegel.de/wirtschaft/soziales/steuern-und-abgabenlast-ist-deutlich-gesunken-a-46726094-b67a-4634-b4ac-0bd6300f1b64#ref=rss)
-### abgabenlast
+* [https://www.spiegel.de/gesundheit/ende-der-kostenlosen-corona-tests-in-hamburg-sind-diese-acht-euro-der-rede-wert](https://www.spiegel.de/gesundheit/ende-der-kostenlosen-corona-tests-in-hamburg-sind-diese-acht-euro-der-rede-wert-a-48029288-de1e-4d0e-9c57-26e253ea2e43#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/blutspende-grossbritannien-schafft-diskriminierende-regel-fuer-viele-schwarze-ab](https://www.spiegel.de/wissenschaft/medizin/blutspende-grossbritannien-schafft-diskriminierende-regel-fuer-viele-schwarze-ab-a-6593f0ac-00e1-48c7-8c83-1c0bc1392a1f#ref=rss)
+* [https://www.spiegel.de/ausland/sebastian-kurz-bis-zu-35-prozent-der-oesterreicher-wuerden-den-ex-kanzler-waehlen-trotz-staatsaffaere](https://www.spiegel.de/ausland/sebastian-kurz-bis-zu-35-prozent-der-oesterreicher-wuerden-den-ex-kanzler-waehlen-trotz-staatsaffaere-a-dc48b1cb-3aa6-4d85-bb58-3d7e2d6c73c3#ref=rss)
+### elon
 
-* [https://www.spiegel.de/wirtschaft/soziales/steuern-und-abgabenlast-ist-deutlich-gesunken](https://www.spiegel.de/wirtschaft/soziales/steuern-und-abgabenlast-ist-deutlich-gesunken-a-46726094-b67a-4634-b4ac-0bd6300f1b64#ref=rss)
-### gesunken
+* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille-a-7a8e6de5-6b5c-40ea-b046-9658d03ba9f1#ref=rss)
+### musk
 
-* [https://www.spiegel.de/wirtschaft/soziales/steuern-und-abgabenlast-ist-deutlich-gesunken](https://www.spiegel.de/wirtschaft/soziales/steuern-und-abgabenlast-ist-deutlich-gesunken-a-46726094-b67a-4634-b4ac-0bd6300f1b64#ref=rss)
-### früheren
+* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille-a-7a8e6de5-6b5c-40ea-b046-9658d03ba9f1#ref=rss)
+### verleiht
 
-* [https://www.spiegel.de/ausland/irak-mutmasslicher-is-finanzchef-bei-geheimdiensteinsatz-festgenommen](https://www.spiegel.de/ausland/irak-mutmasslicher-is-finanzchef-bei-geheimdiensteinsatz-festgenommen-a-861c5636-e2d8-41a1-b43b-dd4fda628586#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-ehemaliger-geheimdienstchef-im-bbc-interview](https://www.spiegel.de/ausland/nordkorea-ehemaliger-geheimdienstchef-im-bbc-interview-a-a26a8fbf-14cc-42fc-96de-8ff0ff55325a#ref=rss)
-### friedensnobelpreis
+* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille-a-7a8e6de5-6b5c-40ea-b046-9658d03ba9f1#ref=rss)
+### jeff
 
-* [https://www.spiegel.de/ausland/friedensnobelpreis-fuer-maria-ressa-regierung-bezeichnet-ehrung-als-zeichen-fuer-intakte-pressefreiheit](https://www.spiegel.de/ausland/friedensnobelpreis-fuer-maria-ressa-regierung-bezeichnet-ehrung-als-zeichen-fuer-intakte-pressefreiheit-a-a9dac081-a5d4-4029-bf48-28c6d0d5caf4#ref=rss)
-### maria
+* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille-a-7a8e6de5-6b5c-40ea-b046-9658d03ba9f1#ref=rss)
+### bezos
 
-* [https://www.spiegel.de/ausland/friedensnobelpreis-fuer-maria-ressa-regierung-bezeichnet-ehrung-als-zeichen-fuer-intakte-pressefreiheit](https://www.spiegel.de/ausland/friedensnobelpreis-fuer-maria-ressa-regierung-bezeichnet-ehrung-als-zeichen-fuer-intakte-pressefreiheit-a-a9dac081-a5d4-4029-bf48-28c6d0d5caf4#ref=rss)
-### ressa
+* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille-a-7a8e6de5-6b5c-40ea-b046-9658d03ba9f1#ref=rss)
+### silbermedaille
 
-* [https://www.spiegel.de/ausland/friedensnobelpreis-fuer-maria-ressa-regierung-bezeichnet-ehrung-als-zeichen-fuer-intakte-pressefreiheit](https://www.spiegel.de/ausland/friedensnobelpreis-fuer-maria-ressa-regierung-bezeichnet-ehrung-als-zeichen-fuer-intakte-pressefreiheit-a-a9dac081-a5d4-4029-bf48-28c6d0d5caf4#ref=rss)
-### regierung
+* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille-a-7a8e6de5-6b5c-40ea-b046-9658d03ba9f1#ref=rss)
+### twitter
 
-* [https://www.spiegel.de/ausland/friedensnobelpreis-fuer-maria-ressa-regierung-bezeichnet-ehrung-als-zeichen-fuer-intakte-pressefreiheit](https://www.spiegel.de/ausland/friedensnobelpreis-fuer-maria-ressa-regierung-bezeichnet-ehrung-als-zeichen-fuer-intakte-pressefreiheit-a-a9dac081-a5d4-4029-bf48-28c6d0d5caf4#ref=rss)
-### bezeichnet
+* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verleiht-jeff-bezos-die-silbermedaille-a-7a8e6de5-6b5c-40ea-b046-9658d03ba9f1#ref=rss)
+* [https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler](https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler-a-a614fa77-335f-4505-88eb-f03fecc25093#ref=rss)
+### gespräche
 
-* [https://www.spiegel.de/ausland/friedensnobelpreis-fuer-maria-ressa-regierung-bezeichnet-ehrung-als-zeichen-fuer-intakte-pressefreiheit](https://www.spiegel.de/ausland/friedensnobelpreis-fuer-maria-ressa-regierung-bezeichnet-ehrung-als-zeichen-fuer-intakte-pressefreiheit-a-a9dac081-a5d4-4029-bf48-28c6d0d5caf4#ref=rss)
-### afd
+* [https://www.spiegel.de/ausland/afghanistan-taliban-kuendigen-fuer-dienstag-gespraeche-mit-eu-vertretern-an](https://www.spiegel.de/ausland/afghanistan-taliban-kuendigen-fuer-dienstag-gespraeche-mit-eu-vertretern-an-a-f109652d-3984-4a0e-a906-f3f6a89a9add#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/politik/deutschland/afd-joerg-meuthen-kuendigt-ruecktritt-als-parteichef-an](https://www.spiegel.de/politik/deutschland/afd-joerg-meuthen-kuendigt-ruecktritt-als-parteichef-an-a-d41711f9-9f8b-48ab-a4a0-db9d81c041b6#ref=rss)
-### jörg
+* [https://www.spiegel.de/ausland/afghanistan-taliban-kuendigen-fuer-dienstag-gespraeche-mit-eu-vertretern-an](https://www.spiegel.de/ausland/afghanistan-taliban-kuendigen-fuer-dienstag-gespraeche-mit-eu-vertretern-an-a-f109652d-3984-4a0e-a906-f3f6a89a9add#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden](https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden-a-2045ae70-df79-4fd4-804e-b57d8257461d#ref=rss)
+### lage
 
-* [https://www.spiegel.de/politik/deutschland/afd-joerg-meuthen-kuendigt-ruecktritt-als-parteichef-an](https://www.spiegel.de/politik/deutschland/afd-joerg-meuthen-kuendigt-ruecktritt-als-parteichef-an-a-d41711f9-9f8b-48ab-a4a0-db9d81c041b6#ref=rss)
-### meuthen
-
-* [https://www.spiegel.de/politik/deutschland/afd-joerg-meuthen-kuendigt-ruecktritt-als-parteichef-an](https://www.spiegel.de/politik/deutschland/afd-joerg-meuthen-kuendigt-ruecktritt-als-parteichef-an-a-d41711f9-9f8b-48ab-a4a0-db9d81c041b6#ref=rss)
-### krautkrapfen
-
-* [https://www.spiegel.de/stil/rezept-fuer-allgaeuer-krautkrapfen](https://www.spiegel.de/stil/rezept-fuer-allgaeuer-krautkrapfen-a-f82fa0de-dfd5-4a27-891d-8e0f2a3a80c3#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-kuendigen-fuer-dienstag-gespraeche-mit-eu-vertretern-an](https://www.spiegel.de/ausland/afghanistan-taliban-kuendigen-fuer-dienstag-gespraeche-mit-eu-vertretern-an-a-f109652d-3984-4a0e-a906-f3f6a89a9add#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet-a-5d022e7e-71b7-434f-9767-6c0eb65a73de#ref=rss)
 ### land
 
-* [https://www.spiegel.de/reise/fernweh/usa-urlaub-im-herbst-und-winter-die-besten-reise-ziele-in-den-vereinigten-staaten](https://www.spiegel.de/reise/fernweh/usa-urlaub-im-herbst-und-winter-die-besten-reise-ziele-in-den-vereinigten-staaten-a-bc02505c-53fd-4372-ade6-47d21cf85a1e#ref=rss)
-* [https://www.spiegel.de/ausland/suedsudan-nach-dem-buergerkrieg-musik-haelt-uns-davon-ab-zu-kaempfen-und-uns-umzubringen](https://www.spiegel.de/ausland/suedsudan-nach-dem-buergerkrieg-musik-haelt-uns-davon-ab-zu-kaempfen-und-uns-umzubringen-a-5bbf7cea-cc1c-4b69-92bf-0c098317be87#ref=rss)
-### südsudan
+* [https://www.spiegel.de/ausland/afghanistan-taliban-kuendigen-fuer-dienstag-gespraeche-mit-eu-vertretern-an](https://www.spiegel.de/ausland/afghanistan-taliban-kuendigen-fuer-dienstag-gespraeche-mit-eu-vertretern-an-a-f109652d-3984-4a0e-a906-f3f6a89a9add#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden](https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden-a-2045ae70-df79-4fd4-804e-b57d8257461d#ref=rss)
+### pandemie
 
-* [https://www.spiegel.de/ausland/suedsudan-nach-dem-buergerkrieg-musik-haelt-uns-davon-ab-zu-kaempfen-und-uns-umzubringen](https://www.spiegel.de/ausland/suedsudan-nach-dem-buergerkrieg-musik-haelt-uns-davon-ab-zu-kaempfen-und-uns-umzubringen-a-5bbf7cea-cc1c-4b69-92bf-0c098317be87#ref=rss)
-### bürgerkrieg
+* [https://www.spiegel.de/panorama/bildung/studium-und-corona-wie-im-wintersemester-das-leben-an-die-uni-zurueckkehrt](https://www.spiegel.de/panorama/bildung/studium-und-corona-wie-im-wintersemester-das-leben-an-die-uni-zurueckkehrt-a-5b554172-fb5a-4ff8-980b-c4d242308c4f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/weltbank-aermere-laender-erholen-sich-kaum-von-coronakrise](https://www.spiegel.de/wirtschaft/soziales/weltbank-aermere-laender-erholen-sich-kaum-von-coronakrise-a-0c30fc71-8edb-434c-8520-6babdabab3c8#ref=rss)
+### zahlt
 
-* [https://www.spiegel.de/ausland/suedsudan-nach-dem-buergerkrieg-musik-haelt-uns-davon-ab-zu-kaempfen-und-uns-umzubringen](https://www.spiegel.de/ausland/suedsudan-nach-dem-buergerkrieg-musik-haelt-uns-davon-ab-zu-kaempfen-und-uns-umzubringen-a-5bbf7cea-cc1c-4b69-92bf-0c098317be87#ref=rss)
-### musik
+* [https://www.spiegel.de/wirtschaft/soziales/lufthansa-zahlt-teil-der-coronahilfen-zurueck](https://www.spiegel.de/wirtschaft/soziales/lufthansa-zahlt-teil-der-coronahilfen-zurueck-a-d6a0d186-31a7-4b9c-9d69-96688052fad5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-ploetzlich-trifft-das-dfb-team-sogar-nach-standardsituationen](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-ploetzlich-trifft-das-dfb-team-sogar-nach-standardsituationen-a-54199172-d54d-45a7-986e-ff40cabaeb59#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/ausland/suedsudan-nach-dem-buergerkrieg-musik-haelt-uns-davon-ab-zu-kaempfen-und-uns-umzubringen](https://www.spiegel.de/ausland/suedsudan-nach-dem-buergerkrieg-musik-haelt-uns-davon-ab-zu-kaempfen-und-uns-umzubringen-a-5bbf7cea-cc1c-4b69-92bf-0c098317be87#ref=rss)
-### uns
+* [https://www.spiegel.de/wirtschaft/soziales/lufthansa-zahlt-teil-der-coronahilfen-zurueck](https://www.spiegel.de/wirtschaft/soziales/lufthansa-zahlt-teil-der-coronahilfen-zurueck-a-d6a0d186-31a7-4b9c-9d69-96688052fad5#ref=rss)
+* [https://www.spiegel.de/kultur/sebastian-kurz-und-der-ruecktritt-oesterreichische-beinarbeit-stilkritik](https://www.spiegel.de/kultur/sebastian-kurz-und-der-ruecktritt-oesterreichische-beinarbeit-stilkritik-a-049cfa9a-48cd-44e2-ab87-7b96f233a917#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/ausland/suedsudan-nach-dem-buergerkrieg-musik-haelt-uns-davon-ab-zu-kaempfen-und-uns-umzubringen](https://www.spiegel.de/ausland/suedsudan-nach-dem-buergerkrieg-musik-haelt-uns-davon-ab-zu-kaempfen-und-uns-umzubringen-a-5bbf7cea-cc1c-4b69-92bf-0c098317be87#ref=rss)
-### amazonas
+* [https://www.spiegel.de/wirtschaft/soziales/lufthansa-zahlt-teil-der-coronahilfen-zurueck](https://www.spiegel.de/wirtschaft/soziales/lufthansa-zahlt-teil-der-coronahilfen-zurueck-a-d6a0d186-31a7-4b9c-9d69-96688052fad5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-sondierungen-nach-der-bundestagswahl-woher-kommen-die-milliarden](https://www.spiegel.de/politik/deutschland/ampel-sondierungen-nach-der-bundestagswahl-woher-kommen-die-milliarden-a-dd90a0eb-1ada-4034-b165-4c047d45dc68#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/amazonas-indigene-wehren-sich-gegen-ausbeutung-ihr-importiert-unser-blut](https://www.spiegel.de/ausland/amazonas-indigene-wehren-sich-gegen-ausbeutung-ihr-importiert-unser-blut-a-fbb74c79-922c-45a5-aaea-fdb7a7c380f7#ref=rss)
-### indigene
+* [https://www.spiegel.de/wirtschaft/soziales/lufthansa-zahlt-teil-der-coronahilfen-zurueck](https://www.spiegel.de/wirtschaft/soziales/lufthansa-zahlt-teil-der-coronahilfen-zurueck-a-d6a0d186-31a7-4b9c-9d69-96688052fad5#ref=rss)
+* [https://www.spiegel.de/gesundheit/ende-der-kostenlosen-corona-tests-in-hamburg-sind-diese-acht-euro-der-rede-wert](https://www.spiegel.de/gesundheit/ende-der-kostenlosen-corona-tests-in-hamburg-sind-diese-acht-euro-der-rede-wert-a-48029288-de1e-4d0e-9c57-26e253ea2e43#ref=rss)
+### coronakrise
 
-* [https://www.spiegel.de/ausland/amazonas-indigene-wehren-sich-gegen-ausbeutung-ihr-importiert-unser-blut](https://www.spiegel.de/ausland/amazonas-indigene-wehren-sich-gegen-ausbeutung-ihr-importiert-unser-blut-a-fbb74c79-922c-45a5-aaea-fdb7a7c380f7#ref=rss)
-### ausbeutung
+* [https://www.spiegel.de/wirtschaft/soziales/lufthansa-zahlt-teil-der-coronahilfen-zurueck](https://www.spiegel.de/wirtschaft/soziales/lufthansa-zahlt-teil-der-coronahilfen-zurueck-a-d6a0d186-31a7-4b9c-9d69-96688052fad5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/weltbank-aermere-laender-erholen-sich-kaum-von-coronakrise](https://www.spiegel.de/wirtschaft/soziales/weltbank-aermere-laender-erholen-sich-kaum-von-coronakrise-a-0c30fc71-8edb-434c-8520-6babdabab3c8#ref=rss)
+### zoo
 
-* [https://www.spiegel.de/ausland/amazonas-indigene-wehren-sich-gegen-ausbeutung-ihr-importiert-unser-blut](https://www.spiegel.de/ausland/amazonas-indigene-wehren-sich-gegen-ausbeutung-ihr-importiert-unser-blut-a-fbb74c79-922c-45a5-aaea-fdb7a7c380f7#ref=rss)
-### studie
+* [https://www.spiegel.de/panorama/gelsenkirchen-loewen-drillinge-in-zoo-geboren](https://www.spiegel.de/panorama/gelsenkirchen-loewen-drillinge-in-zoo-geboren-a-22a0e2ac-2800-4a3b-84b6-1e679333df6f#ref=rss)
+### grenze
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-montag-medikament-von-astrazeneca-offenbar-wirksam-gegen-corona](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-montag-medikament-von-astrazeneca-offenbar-wirksam-gegen-corona-a-db127af0-6bf8-4443-96a0-e3a41ccbbafd#ref=rss)
-### risiko
+* [https://www.spiegel.de/ausland/krise-an-der-grenze-zu-belarus-fast-400-migranten-im-deutsch-polnischen-grenzgebiet-aufgegriffen](https://www.spiegel.de/ausland/krise-an-der-grenze-zu-belarus-fast-400-migranten-im-deutsch-polnischen-grenzgebiet-aufgegriffen-a-e75716d6-2f7b-4f5a-a7b0-8a6eef8f2108#ref=rss)
+### belarus
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-montag-medikament-von-astrazeneca-offenbar-wirksam-gegen-corona](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-montag-medikament-von-astrazeneca-offenbar-wirksam-gegen-corona-a-db127af0-6bf8-4443-96a0-e3a41ccbbafd#ref=rss)
-### 90
+* [https://www.spiegel.de/ausland/krise-an-der-grenze-zu-belarus-fast-400-migranten-im-deutsch-polnischen-grenzgebiet-aufgegriffen](https://www.spiegel.de/ausland/krise-an-der-grenze-zu-belarus-fast-400-migranten-im-deutsch-polnischen-grenzgebiet-aufgegriffen-a-e75716d6-2f7b-4f5a-a7b0-8a6eef8f2108#ref=rss)
+### polen
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-montag-medikament-von-astrazeneca-offenbar-wirksam-gegen-corona](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-montag-medikament-von-astrazeneca-offenbar-wirksam-gegen-corona-a-db127af0-6bf8-4443-96a0-e3a41ccbbafd#ref=rss)
-### prozent
+* [https://www.spiegel.de/ausland/krise-an-der-grenze-zu-belarus-fast-400-migranten-im-deutsch-polnischen-grenzgebiet-aufgegriffen](https://www.spiegel.de/ausland/krise-an-der-grenze-zu-belarus-fast-400-migranten-im-deutsch-polnischen-grenzgebiet-aufgegriffen-a-e75716d6-2f7b-4f5a-a7b0-8a6eef8f2108#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-montag-medikament-von-astrazeneca-offenbar-wirksam-gegen-corona](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-montag-medikament-von-astrazeneca-offenbar-wirksam-gegen-corona-a-db127af0-6bf8-4443-96a0-e3a41ccbbafd#ref=rss)
-### max
+* [https://www.spiegel.de/ausland/krise-an-der-grenze-zu-belarus-fast-400-migranten-im-deutsch-polnischen-grenzgebiet-aufgegriffen](https://www.spiegel.de/ausland/krise-an-der-grenze-zu-belarus-fast-400-migranten-im-deutsch-polnischen-grenzgebiet-aufgegriffen-a-e75716d6-2f7b-4f5a-a7b0-8a6eef8f2108#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-sondierungen-nach-der-bundestagswahl-woher-kommen-die-milliarden](https://www.spiegel.de/politik/deutschland/ampel-sondierungen-nach-der-bundestagswahl-woher-kommen-die-milliarden-a-dd90a0eb-1ada-4034-b165-4c047d45dc68#ref=rss)
+### sarahlee
 
-* [https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-mad-max-haut-wieder-mal-auf-den-tisch](https://www.spiegel.de/sport/formel1/formel-1-pressestimmen-mad-max-haut-wieder-mal-auf-den-tisch-a-31f7701e-c74b-49a2-85e9-18babdc82ad9#ref=rss)
-### philipp
+* [https://www.spiegel.de/politik/deutschland/sarah-lee-heinrich-die-empoerung-kommt-zu-spaet](https://www.spiegel.de/politik/deutschland/sarah-lee-heinrich-die-empoerung-kommt-zu-spaet-a-c06a27d0-09ab-484b-830d-b9b5e2f7a8aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet-a-5d022e7e-71b7-434f-9767-6c0eb65a73de#ref=rss)
+### heinrich
 
-* [https://www.spiegel.de/politik/deutschland/cdu-philipp-amthor-und-tilman-kuban-wollen-basis-zu-laschet-nachfolge-befragen](https://www.spiegel.de/politik/deutschland/cdu-philipp-amthor-und-tilman-kuban-wollen-basis-zu-laschet-nachfolge-befragen-a-55643015-5d00-495b-8cec-dd0865cfa388#ref=rss)
-### amthor
+* [https://www.spiegel.de/politik/deutschland/sarah-lee-heinrich-die-empoerung-kommt-zu-spaet](https://www.spiegel.de/politik/deutschland/sarah-lee-heinrich-die-empoerung-kommt-zu-spaet-a-c06a27d0-09ab-484b-830d-b9b5e2f7a8aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet-a-5d022e7e-71b7-434f-9767-6c0eb65a73de#ref=rss)
+### sprecherin
 
-* [https://www.spiegel.de/politik/deutschland/cdu-philipp-amthor-und-tilman-kuban-wollen-basis-zu-laschet-nachfolge-befragen](https://www.spiegel.de/politik/deutschland/cdu-philipp-amthor-und-tilman-kuban-wollen-basis-zu-laschet-nachfolge-befragen-a-55643015-5d00-495b-8cec-dd0865cfa388#ref=rss)
-### starnberg
+* [https://www.spiegel.de/politik/deutschland/sarah-lee-heinrich-die-empoerung-kommt-zu-spaet](https://www.spiegel.de/politik/deutschland/sarah-lee-heinrich-die-empoerung-kommt-zu-spaet-a-c06a27d0-09ab-484b-830d-b9b5e2f7a8aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet-a-5d022e7e-71b7-434f-9767-6c0eb65a73de#ref=rss)
+### lego
 
-* [https://www.spiegel.de/panorama/justiz/dreifachmord-von-starnberg-fuehrten-der-mutmassliche-taeter-und-das-opfer-eine-beziehung](https://www.spiegel.de/panorama/justiz/dreifachmord-von-starnberg-fuehrten-der-mutmassliche-taeter-und-das-opfer-eine-beziehung-a-2b6c8228-ebf6-42e7-b3c1-f44f79a1ca3e#ref=rss)
-### beziehung
+* [https://www.spiegel.de/wirtschaft/unternehmen/lego-macht-bei-spielzeug-keinen-unterschied-mehr-zwischen-jungen-und-maedchen](https://www.spiegel.de/wirtschaft/unternehmen/lego-macht-bei-spielzeug-keinen-unterschied-mehr-zwischen-jungen-und-maedchen-a-78d661aa-accb-4295-ab0a-1b92bac6ccd9#ref=rss)
+### macht
 
-* [https://www.spiegel.de/panorama/justiz/dreifachmord-von-starnberg-fuehrten-der-mutmassliche-taeter-und-das-opfer-eine-beziehung](https://www.spiegel.de/panorama/justiz/dreifachmord-von-starnberg-fuehrten-der-mutmassliche-taeter-und-das-opfer-eine-beziehung-a-2b6c8228-ebf6-42e7-b3c1-f44f79a1ca3e#ref=rss)
-### tod
+* [https://www.spiegel.de/wirtschaft/unternehmen/lego-macht-bei-spielzeug-keinen-unterschied-mehr-zwischen-jungen-und-maedchen](https://www.spiegel.de/wirtschaft/unternehmen/lego-macht-bei-spielzeug-keinen-unterschied-mehr-zwischen-jungen-und-maedchen-a-78d661aa-accb-4295-ab0a-1b92bac6ccd9#ref=rss)
+* [https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler](https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler-a-a614fa77-335f-4505-88eb-f03fecc25093#ref=rss)
+### spielzeug
 
-* [https://www.spiegel.de/panorama/justiz/dreifachmord-von-starnberg-fuehrten-der-mutmassliche-taeter-und-das-opfer-eine-beziehung](https://www.spiegel.de/panorama/justiz/dreifachmord-von-starnberg-fuehrten-der-mutmassliche-taeter-und-das-opfer-eine-beziehung-a-2b6c8228-ebf6-42e7-b3c1-f44f79a1ca3e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/billie-lourd-vermisst-mutter-carrie-fisher-und-oma-debbie-reynolds-es-war-brutal](https://www.spiegel.de/panorama/leute/billie-lourd-vermisst-mutter-carrie-fisher-und-oma-debbie-reynolds-es-war-brutal-a-cfd45e4c-877a-4b5d-adc3-f026ab612d25#ref=rss)
-### familie
+* [https://www.spiegel.de/wirtschaft/unternehmen/lego-macht-bei-spielzeug-keinen-unterschied-mehr-zwischen-jungen-und-maedchen](https://www.spiegel.de/wirtschaft/unternehmen/lego-macht-bei-spielzeug-keinen-unterschied-mehr-zwischen-jungen-und-maedchen-a-78d661aa-accb-4295-ab0a-1b92bac6ccd9#ref=rss)
+### jungen
 
-* [https://www.spiegel.de/panorama/justiz/dreifachmord-von-starnberg-fuehrten-der-mutmassliche-taeter-und-das-opfer-eine-beziehung](https://www.spiegel.de/panorama/justiz/dreifachmord-von-starnberg-fuehrten-der-mutmassliche-taeter-und-das-opfer-eine-beziehung-a-2b6c8228-ebf6-42e7-b3c1-f44f79a1ca3e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/billie-lourd-vermisst-mutter-carrie-fisher-und-oma-debbie-reynolds-es-war-brutal](https://www.spiegel.de/panorama/leute/billie-lourd-vermisst-mutter-carrie-fisher-und-oma-debbie-reynolds-es-war-brutal-a-cfd45e4c-877a-4b5d-adc3-f026ab612d25#ref=rss)
-### prinz
+* [https://www.spiegel.de/wirtschaft/unternehmen/lego-macht-bei-spielzeug-keinen-unterschied-mehr-zwischen-jungen-und-maedchen](https://www.spiegel.de/wirtschaft/unternehmen/lego-macht-bei-spielzeug-keinen-unterschied-mehr-zwischen-jungen-und-maedchen-a-78d661aa-accb-4295-ab0a-1b92bac6ccd9#ref=rss)
+### coronaschnelltests
 
-* [https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf](https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf-a-4e0d1c97-b691-4502-92c1-6807f6ce0b6a#ref=rss)
-### andrew
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet-a-5d022e7e-71b7-434f-9767-6c0eb65a73de#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf](https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf-a-4e0d1c97-b691-4502-92c1-6807f6ce0b6a#ref=rss)
-### londoner
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-schnelltests-kosten-jetzt-sarah-lee-heinrich-armin-laschet-a-5d022e7e-71b7-434f-9767-6c0eb65a73de#ref=rss)
+* [https://www.spiegel.de/gesundheit/ende-der-kostenlosen-corona-tests-in-hamburg-sind-diese-acht-euro-der-rede-wert](https://www.spiegel.de/gesundheit/ende-der-kostenlosen-corona-tests-in-hamburg-sind-diese-acht-euro-der-rede-wert-a-48029288-de1e-4d0e-9c57-26e253ea2e43#ref=rss)
+### wirtschaft
 
-* [https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf](https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf-a-4e0d1c97-b691-4502-92c1-6807f6ce0b6a#ref=rss)
-### polizei
+* [https://www.spiegel.de/wirtschaft/nobelpreis-wirtschaft-david-card-hielt-nachricht-ueber-auszeichnung-fuer-scherz](https://www.spiegel.de/wirtschaft/nobelpreis-wirtschaft-david-card-hielt-nachricht-ueber-auszeichnung-fuer-scherz-a-89113993-fd57-4311-93ac-65444c43fcae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/weltbank-aermere-laender-erholen-sich-kaum-von-coronakrise](https://www.spiegel.de/wirtschaft/soziales/weltbank-aermere-laender-erholen-sich-kaum-von-coronakrise-a-0c30fc71-8edb-434c-8520-6babdabab3c8#ref=rss)
+### david
 
-* [https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf](https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf-a-4e0d1c97-b691-4502-92c1-6807f6ce0b6a#ref=rss)
-### ermittlungen
+* [https://www.spiegel.de/wirtschaft/nobelpreis-wirtschaft-david-card-hielt-nachricht-ueber-auszeichnung-fuer-scherz](https://www.spiegel.de/wirtschaft/nobelpreis-wirtschaft-david-card-hielt-nachricht-ueber-auszeichnung-fuer-scherz-a-89113993-fd57-4311-93ac-65444c43fcae#ref=rss)
+### card
 
-* [https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf](https://www.spiegel.de/panorama/justiz/prinz-andrew-londoner-polizei-nimmt-wegen-missbrauchsvorwuerfen-keine-ermittlungen-auf-a-4e0d1c97-b691-4502-92c1-6807f6ce0b6a#ref=rss)
-### kfwumfrage
+* [https://www.spiegel.de/wirtschaft/nobelpreis-wirtschaft-david-card-hielt-nachricht-ueber-auszeichnung-fuer-scherz](https://www.spiegel.de/wirtschaft/nobelpreis-wirtschaft-david-card-hielt-nachricht-ueber-auszeichnung-fuer-scherz-a-89113993-fd57-4311-93ac-65444c43fcae#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kfw-umfrage-zu-materialmangel-baufirmen-erhoehen-besonders-oft-die-preise](https://www.spiegel.de/wirtschaft/unternehmen/kfw-umfrage-zu-materialmangel-baufirmen-erhoehen-besonders-oft-die-preise-a-553757e2-7f79-4a2a-8cb5-00f2edb7198a#ref=rss)
-### besonders
+* [https://www.spiegel.de/wirtschaft/nobelpreis-wirtschaft-david-card-hielt-nachricht-ueber-auszeichnung-fuer-scherz](https://www.spiegel.de/wirtschaft/nobelpreis-wirtschaft-david-card-hielt-nachricht-ueber-auszeichnung-fuer-scherz-a-89113993-fd57-4311-93ac-65444c43fcae#ref=rss)
+* [https://www.spiegel.de/karriere/social-media-suenden-was-tun-wenn-peinliche-posts-ploetzlich-publik-werden](https://www.spiegel.de/karriere/social-media-suenden-was-tun-wenn-peinliche-posts-ploetzlich-publik-werden-a-2bfd8335-f7f6-4b1e-a03f-b749940c65bb#ref=rss)
+### grüne
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kfw-umfrage-zu-materialmangel-baufirmen-erhoehen-besonders-oft-die-preise](https://www.spiegel.de/wirtschaft/unternehmen/kfw-umfrage-zu-materialmangel-baufirmen-erhoehen-besonders-oft-die-preise-a-553757e2-7f79-4a2a-8cb5-00f2edb7198a#ref=rss)
-### preise
+* [https://www.spiegel.de/politik/deutschland/ampel-sondierungen-nach-der-bundestagswahl-woher-kommen-die-milliarden](https://www.spiegel.de/politik/deutschland/ampel-sondierungen-nach-der-bundestagswahl-woher-kommen-die-milliarden-a-dd90a0eb-1ada-4034-b165-4c047d45dc68#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/spd-fdp-und-gruene-warum-die-ampel-parteien-ihre-versprechen-brechen-muessen](https://www.spiegel.de/wirtschaft/soziales/spd-fdp-und-gruene-warum-die-ampel-parteien-ihre-versprechen-brechen-muessen-a-f7155dfb-7b12-495a-a8c8-61dbacedffbb#ref=rss)
+### rücktritt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/kfw-umfrage-zu-materialmangel-baufirmen-erhoehen-besonders-oft-die-preise](https://www.spiegel.de/wirtschaft/unternehmen/kfw-umfrage-zu-materialmangel-baufirmen-erhoehen-besonders-oft-die-preise-a-553757e2-7f79-4a2a-8cb5-00f2edb7198a#ref=rss)
-### billie
+* [https://www.spiegel.de/kultur/sebastian-kurz-und-der-ruecktritt-oesterreichische-beinarbeit-stilkritik](https://www.spiegel.de/kultur/sebastian-kurz-und-der-ruecktritt-oesterreichische-beinarbeit-stilkritik-a-049cfa9a-48cd-44e2-ab87-7b96f233a917#ref=rss)
+* [https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler](https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler-a-a614fa77-335f-4505-88eb-f03fecc25093#ref=rss)
+### düsseldorf
 
-* [https://www.spiegel.de/panorama/leute/billie-lourd-vermisst-mutter-carrie-fisher-und-oma-debbie-reynolds-es-war-brutal](https://www.spiegel.de/panorama/leute/billie-lourd-vermisst-mutter-carrie-fisher-und-oma-debbie-reynolds-es-war-brutal-a-cfd45e4c-877a-4b5d-adc3-f026ab612d25#ref=rss)
-### lourd
+* [https://www.spiegel.de/panorama/kaarst-bei-duesseldorf-gesicht-rekonstruiert-polizei-rollt-mordfall-von-1992-auf](https://www.spiegel.de/panorama/kaarst-bei-duesseldorf-gesicht-rekonstruiert-polizei-rollt-mordfall-von-1992-auf-a-23709950-c85d-44a3-b471-50d15bf644ec#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/leute/billie-lourd-vermisst-mutter-carrie-fisher-und-oma-debbie-reynolds-es-war-brutal](https://www.spiegel.de/panorama/leute/billie-lourd-vermisst-mutter-carrie-fisher-und-oma-debbie-reynolds-es-war-brutal-a-cfd45e4c-877a-4b5d-adc3-f026ab612d25#ref=rss)
-### mutter
+* [https://www.spiegel.de/panorama/kaarst-bei-duesseldorf-gesicht-rekonstruiert-polizei-rollt-mordfall-von-1992-auf](https://www.spiegel.de/panorama/kaarst-bei-duesseldorf-gesicht-rekonstruiert-polizei-rollt-mordfall-von-1992-auf-a-23709950-c85d-44a3-b471-50d15bf644ec#ref=rss)
+* [https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler](https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler-a-a614fa77-335f-4505-88eb-f03fecc25093#ref=rss)
+### astrazeneca
 
-* [https://www.spiegel.de/panorama/leute/billie-lourd-vermisst-mutter-carrie-fisher-und-oma-debbie-reynolds-es-war-brutal](https://www.spiegel.de/panorama/leute/billie-lourd-vermisst-mutter-carrie-fisher-und-oma-debbie-reynolds-es-war-brutal-a-cfd45e4c-877a-4b5d-adc3-f026ab612d25#ref=rss)
-### football
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-antikoerper-cocktail-von-astrazeneca-erzielt-offenbar-positive-ergebnisse](https://www.spiegel.de/wissenschaft/medizin/coronavirus-antikoerper-cocktail-von-astrazeneca-erzielt-offenbar-positive-ergebnisse-a-d505a88f-2a7d-47f3-9aa2-264dd1e46ca3#ref=rss)
+### bald
 
-* [https://www.spiegel.de/sport/nfl-football-mason-crosby-wenn-der-vierte-field-goal-versuch-zum-matchgewinn-endlich-sitzt](https://www.spiegel.de/sport/nfl-football-mason-crosby-wenn-der-vierte-field-goal-versuch-zum-matchgewinn-endlich-sitzt-a-84f0acb1-9e1f-4a68-bb8c-9ca6a41bf47d#ref=rss)
-### mason
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-antikoerper-cocktail-von-astrazeneca-erzielt-offenbar-positive-ergebnisse](https://www.spiegel.de/wissenschaft/medizin/coronavirus-antikoerper-cocktail-von-astrazeneca-erzielt-offenbar-positive-ergebnisse-a-d505a88f-2a7d-47f3-9aa2-264dd1e46ca3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/thibaut-courtois-belgien-torwart-kritisiert-fussballverbaende-sie-kuemmern-sich-nur-ums-geld](https://www.spiegel.de/sport/fussball/thibaut-courtois-belgien-torwart-kritisiert-fussballverbaende-sie-kuemmern-sich-nur-ums-geld-a-dcaba2d9-5c98-4144-8221-acc13a7db933#ref=rss)
+### dresden
 
-* [https://www.spiegel.de/sport/nfl-football-mason-crosby-wenn-der-vierte-field-goal-versuch-zum-matchgewinn-endlich-sitzt](https://www.spiegel.de/sport/nfl-football-mason-crosby-wenn-der-vierte-field-goal-versuch-zum-matchgewinn-endlich-sitzt-a-84f0acb1-9e1f-4a68-bb8c-9ca6a41bf47d#ref=rss)
-### crosby
+* [https://www.spiegel.de/panorama/justiz/dresden-ex-kita-mitarbeiter-kuendigt-gestaendnis-in-missbrauchsprozess-an](https://www.spiegel.de/panorama/justiz/dresden-ex-kita-mitarbeiter-kuendigt-gestaendnis-in-missbrauchsprozess-an-a-b80ea5a6-9028-467a-968e-8ab59b5ef704#ref=rss)
+### ampel
 
-* [https://www.spiegel.de/sport/nfl-football-mason-crosby-wenn-der-vierte-field-goal-versuch-zum-matchgewinn-endlich-sitzt](https://www.spiegel.de/sport/nfl-football-mason-crosby-wenn-der-vierte-field-goal-versuch-zum-matchgewinn-endlich-sitzt-a-84f0acb1-9e1f-4a68-bb8c-9ca6a41bf47d#ref=rss)
-### städte
+* [https://www.spiegel.de/wirtschaft/soziales/spd-fdp-und-gruene-warum-die-ampel-parteien-ihre-versprechen-brechen-muessen](https://www.spiegel.de/wirtschaft/soziales/spd-fdp-und-gruene-warum-die-ampel-parteien-ihre-versprechen-brechen-muessen-a-f7155dfb-7b12-495a-a8c8-61dbacedffbb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden](https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden-a-2045ae70-df79-4fd4-804e-b57d8257461d#ref=rss)
+### thibaut
 
-* [https://www.spiegel.de/wirtschaft/soziales/energiepreise-staedte-und-gemeindebund-fordert-vom-bund-heizkosten-zuschuesse](https://www.spiegel.de/wirtschaft/soziales/energiepreise-staedte-und-gemeindebund-fordert-vom-bund-heizkosten-zuschuesse-a-c434f479-1b9b-4c36-979f-dfe6960958b1#ref=rss)
-### gemeindebund
+* [https://www.spiegel.de/sport/fussball/thibaut-courtois-belgien-torwart-kritisiert-fussballverbaende-sie-kuemmern-sich-nur-ums-geld](https://www.spiegel.de/sport/fussball/thibaut-courtois-belgien-torwart-kritisiert-fussballverbaende-sie-kuemmern-sich-nur-ums-geld-a-dcaba2d9-5c98-4144-8221-acc13a7db933#ref=rss)
+### courtois
 
-* [https://www.spiegel.de/wirtschaft/soziales/energiepreise-staedte-und-gemeindebund-fordert-vom-bund-heizkosten-zuschuesse](https://www.spiegel.de/wirtschaft/soziales/energiepreise-staedte-und-gemeindebund-fordert-vom-bund-heizkosten-zuschuesse-a-c434f479-1b9b-4c36-979f-dfe6960958b1#ref=rss)
-### bund
+* [https://www.spiegel.de/sport/fussball/thibaut-courtois-belgien-torwart-kritisiert-fussballverbaende-sie-kuemmern-sich-nur-ums-geld](https://www.spiegel.de/sport/fussball/thibaut-courtois-belgien-torwart-kritisiert-fussballverbaende-sie-kuemmern-sich-nur-ums-geld-a-dcaba2d9-5c98-4144-8221-acc13a7db933#ref=rss)
+### ende
 
-* [https://www.spiegel.de/wirtschaft/soziales/energiepreise-staedte-und-gemeindebund-fordert-vom-bund-heizkosten-zuschuesse](https://www.spiegel.de/wirtschaft/soziales/energiepreise-staedte-und-gemeindebund-fordert-vom-bund-heizkosten-zuschuesse-a-c434f479-1b9b-4c36-979f-dfe6960958b1#ref=rss)
-### höheren
+* [https://www.spiegel.de/gesundheit/ende-der-kostenlosen-corona-tests-in-hamburg-sind-diese-acht-euro-der-rede-wert](https://www.spiegel.de/gesundheit/ende-der-kostenlosen-corona-tests-in-hamburg-sind-diese-acht-euro-der-rede-wert-a-48029288-de1e-4d0e-9c57-26e253ea2e43#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/weltbank-aermere-laender-erholen-sich-kaum-von-coronakrise](https://www.spiegel.de/wirtschaft/soziales/weltbank-aermere-laender-erholen-sich-kaum-von-coronakrise-a-0c30fc71-8edb-434c-8520-6babdabab3c8#ref=rss)
+### länder
 
-* [https://www.spiegel.de/wirtschaft/soziales/energiepreise-staedte-und-gemeindebund-fordert-vom-bund-heizkosten-zuschuesse](https://www.spiegel.de/wirtschaft/soziales/energiepreise-staedte-und-gemeindebund-fordert-vom-bund-heizkosten-zuschuesse-a-c434f479-1b9b-4c36-979f-dfe6960958b1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/weltbank-aermere-laender-erholen-sich-kaum-von-coronakrise](https://www.spiegel.de/wirtschaft/soziales/weltbank-aermere-laender-erholen-sich-kaum-von-coronakrise-a-0c30fc71-8edb-434c-8520-6babdabab3c8#ref=rss)
+### plötzlich
+
+* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-ploetzlich-trifft-das-dfb-team-sogar-nach-standardsituationen](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-ploetzlich-trifft-das-dfb-team-sogar-nach-standardsituationen-a-54199172-d54d-45a7-986e-ff40cabaeb59#ref=rss)
+* [https://www.spiegel.de/karriere/social-media-suenden-was-tun-wenn-peinliche-posts-ploetzlich-publik-werden](https://www.spiegel.de/karriere/social-media-suenden-was-tun-wenn-peinliche-posts-ploetzlich-publik-werden-a-2bfd8335-f7f6-4b1e-a03f-b749940c65bb#ref=rss)
+### dfbteam
+
+* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-ploetzlich-trifft-das-dfb-team-sogar-nach-standardsituationen](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-ploetzlich-trifft-das-dfb-team-sogar-nach-standardsituationen-a-54199172-d54d-45a7-986e-ff40cabaeb59#ref=rss)
+### rolle
+
+* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-ploetzlich-trifft-das-dfb-team-sogar-nach-standardsituationen](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-ploetzlich-trifft-das-dfb-team-sogar-nach-standardsituationen-a-54199172-d54d-45a7-986e-ff40cabaeb59#ref=rss)
+* [https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler](https://www.spiegel.de/ausland/sebastian-kurz-nach-ruecktritt-ich-bin-kein-schattenkanzler-a-a614fa77-335f-4505-88eb-f03fecc25093#ref=rss)
+### jemen
+
+* [https://www.spiegel.de/ausland/jemen-hundertausenden-kindern-droht-der-hungertod](https://www.spiegel.de/ausland/jemen-hundertausenden-kindern-droht-der-hungertod-a-91bcf6a6-9926-4a74-9ddb-4fc9e69f9af1#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/ausland/jemen-hundertausenden-kindern-droht-der-hungertod](https://www.spiegel.de/ausland/jemen-hundertausenden-kindern-droht-der-hungertod-a-91bcf6a6-9926-4a74-9ddb-4fc9e69f9af1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niederlande-mord-am-anwalt-eines-kronzeugen-30-jahre-haft](https://www.spiegel.de/panorama/justiz/niederlande-mord-am-anwalt-eines-kronzeugen-30-jahre-haft-a-022b9d44-21dd-4a7b-98c7-e5740eb1104a#ref=rss)
+### mord
+
+* [https://www.spiegel.de/panorama/justiz/niederlande-mord-am-anwalt-eines-kronzeugen-30-jahre-haft](https://www.spiegel.de/panorama/justiz/niederlande-mord-am-anwalt-eines-kronzeugen-30-jahre-haft-a-022b9d44-21dd-4a7b-98c7-e5740eb1104a#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/justiz/niederlande-mord-am-anwalt-eines-kronzeugen-30-jahre-haft](https://www.spiegel.de/panorama/justiz/niederlande-mord-am-anwalt-eines-kronzeugen-30-jahre-haft-a-022b9d44-21dd-4a7b-98c7-e5740eb1104a#ref=rss)
+### regel
+
+* [https://www.spiegel.de/wissenschaft/medizin/blutspende-grossbritannien-schafft-diskriminierende-regel-fuer-viele-schwarze-ab](https://www.spiegel.de/wissenschaft/medizin/blutspende-grossbritannien-schafft-diskriminierende-regel-fuer-viele-schwarze-ab-a-6593f0ac-00e1-48c7-8c83-1c0bc1392a1f#ref=rss)
+### exkanzler
+
+* [https://www.spiegel.de/ausland/sebastian-kurz-bis-zu-35-prozent-der-oesterreicher-wuerden-den-ex-kanzler-waehlen-trotz-staatsaffaere](https://www.spiegel.de/ausland/sebastian-kurz-bis-zu-35-prozent-der-oesterreicher-wuerden-den-ex-kanzler-waehlen-trotz-staatsaffaere-a-dc48b1cb-3aa6-4d85-bb58-3d7e2d6c73c3#ref=rss)
+### lehrerin
+
+* [https://www.spiegel.de/karriere/karriereberatung-die-lehrerin-die-nicht-mehr-zur-arbeit-gehen-will](https://www.spiegel.de/karriere/karriereberatung-die-lehrerin-die-nicht-mehr-zur-arbeit-gehen-will-a-ccb57ba4-a9a0-4094-bd19-cfa82ffabdd7#ref=rss)
+### sydney
+
+* [https://www.spiegel.de/panorama/gesellschaft/corona-pandemie-in-australien-sydney-beendet-lockdown](https://www.spiegel.de/panorama/gesellschaft/corona-pandemie-in-australien-sydney-beendet-lockdown-a-b0f6a0d9-1aec-42c4-b0ed-4d57aa6a9b3f#ref=rss)
+### lockdown
+
+* [https://www.spiegel.de/panorama/gesellschaft/corona-pandemie-in-australien-sydney-beendet-lockdown](https://www.spiegel.de/panorama/gesellschaft/corona-pandemie-in-australien-sydney-beendet-lockdown-a-b0f6a0d9-1aec-42c4-b0ed-4d57aa6a9b3f#ref=rss)
+### baum
+
+* [https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden](https://www.spiegel.de/politik/deutschland/gerhart-baum-zur-ampel-auch-heute-muss-mehr-demokratie-gewagt-werden-a-2045ae70-df79-4fd4-804e-b57d8257461d#ref=rss)
 
