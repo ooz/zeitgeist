@@ -4,343 +4,268 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### afghanistan
+### kurz
 
-* [https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird](https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird-a-bc843ce6-ee9f-4393-b31a-519f8d8f0252#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr](https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr-a-0112f029-1f41-4bdd-b2e4-183b2b054f4d#ref=rss)
-* [https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan](https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan-a-00bc7bb7-2f91-45c6-9b0e-09016ef9a0dd#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf](https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf-a-d05313cb-aa67-4587-a3d4-d68179479cf4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamburgs-ex-buergermeister-ole-von-beust-fehlen-haltung-und-inhalt-bei-der-cdu](https://www.spiegel.de/politik/deutschland/hamburgs-ex-buergermeister-ole-von-beust-fehlen-haltung-und-inhalt-bei-der-cdu-a-5089948b-ba17-4022-bc54-5580a3d92cda#ref=rss)
-* [https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan](https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan-a-00bc7bb7-2f91-45c6-9b0e-09016ef9a0dd#ref=rss)
-* [https://www.spiegel.de/kultur/tv/lindenstrassen-darsteller-ludwig-haas-ist-gestorben](https://www.spiegel.de/kultur/tv/lindenstrassen-darsteller-ludwig-haas-ist-gestorben-a-52179902-fbe8-4321-9083-55988eedd691#ref=rss)
-### william
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung](https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung-a-915fd118-65e2-4c65-8320-576dcfd13bbe#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all](https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all-a-e3bb33f0-c8a9-4c1b-bedb-9dc8550bc7fa#ref=rss)
-### shatner
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung](https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung-a-915fd118-65e2-4c65-8320-576dcfd13bbe#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all](https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all-a-e3bb33f0-c8a9-4c1b-bedb-9dc8550bc7fa#ref=rss)
-### all
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung](https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung-a-915fd118-65e2-4c65-8320-576dcfd13bbe#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all](https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all-a-e3bb33f0-c8a9-4c1b-bedb-9dc8550bc7fa#ref=rss)
-### droht
-
-* [https://www.spiegel.de/panorama/justiz/lucas-hernandez-profi-des-fc-bayern-muenchen-soll-in-haft](https://www.spiegel.de/panorama/justiz/lucas-hernandez-profi-des-fc-bayern-muenchen-soll-in-haft-a-68692cb0-459b-4505-88bd-96dd2eb12e74#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird](https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird-a-bc843ce6-ee9f-4393-b31a-519f8d8f0252#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-erwaegt-wahl-von-afd-politiker-zum-landtagsvizepraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-erwaegt-wahl-von-afd-politiker-zum-landtagsvizepraesidenten-a-e88727c4-5e10-4730-aba3-2c77cc1edc81#ref=rss)
-### zapfenstreich
-
-* [https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird](https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird-a-bc843ce6-ee9f-4393-b31a-519f8d8f0252#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr](https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr-a-0112f029-1f41-4bdd-b2e4-183b2b054f4d#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-erwaegt-wahl-von-afd-politiker-zum-landtagsvizepraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-erwaegt-wahl-von-afd-politiker-zum-landtagsvizepraesidenten-a-e88727c4-5e10-4730-aba3-2c77cc1edc81#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamburgs-ex-buergermeister-ole-von-beust-fehlen-haltung-und-inhalt-bei-der-cdu](https://www.spiegel.de/politik/deutschland/hamburgs-ex-buergermeister-ole-von-beust-fehlen-haltung-und-inhalt-bei-der-cdu-a-5089948b-ba17-4022-bc54-5580a3d92cda#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-lage-superwahljahr-2021-cdu-sucht-neuen-chef-csu-sucht-neuen-soeder](https://www.spiegel.de/politik/deutschland/die-lage-superwahljahr-2021-cdu-sucht-neuen-chef-csu-sucht-neuen-soeder-a-69312c77-8b00-47ca-926c-6a6d731cc3f0#ref=rss)
-### erste
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-erwaegt-wahl-von-afd-politiker-zum-landtagsvizepraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-erwaegt-wahl-von-afd-politiker-zum-landtagsvizepraesidenten-a-e88727c4-5e10-4730-aba3-2c77cc1edc81#ref=rss)
-* [https://www.spiegel.de/ausland/neuer-malaria-impfstoff-rts-s-as01-was-kann-er](https://www.spiegel.de/ausland/neuer-malaria-impfstoff-rts-s-as01-was-kann-er-a-f40f42f3-e304-47b2-afff-5c50feea89df#ref=rss)
-* [https://www.spiegel.de/familie/astronautinnen-programm-suzanna-und-die-sterne](https://www.spiegel.de/familie/astronautinnen-programm-suzanna-und-die-sterne-a-8b217b78-9c90-486e-97af-224347235455#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/ausland/wladimir-putin-warnt-russischen-nobelpreistraeger-dmitrij-muratow-anstatt-ihm-zu-gratulieren](https://www.spiegel.de/ausland/wladimir-putin-warnt-russischen-nobelpreistraeger-dmitrij-muratow-anstatt-ihm-zu-gratulieren-a-98b292cd-ba69-4bbc-acfb-e6d7ad929e48#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/iphone-apple-warnt-erneut-vor-alternativen-app-stores](https://www.spiegel.de/netzwelt/apps/iphone-apple-warnt-erneut-vor-alternativen-app-stores-a-a30a7bed-db4c-4489-88ae-655ee3885179#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr](https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr-a-0112f029-1f41-4bdd-b2e4-183b2b054f4d#ref=rss)
-* [https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan](https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan-a-00bc7bb7-2f91-45c6-9b0e-09016ef9a0dd#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr](https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr-a-0112f029-1f41-4bdd-b2e4-183b2b054f4d#ref=rss)
-* [https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan](https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan-a-00bc7bb7-2f91-45c6-9b0e-09016ef9a0dd#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei-a-7e8f9175-cdc4-437a-b3ff-09cd6ca21c05#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-als-abgeordneter-vereidigt](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-als-abgeordneter-vereidigt-a-fc2e351a-c74f-4373-8283-5eb8f3ec89a2#ref=rss)
+* [https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-um-ex-kanzler-sebastian-kurz-warten-auf-den-finalen-sturz](https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-um-ex-kanzler-sebastian-kurz-warten-auf-den-finalen-sturz-a-4099eb38-4e7e-4dc2-ae83-9c14d54b7fc0#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf](https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf-a-d05313cb-aa67-4587-a3d4-d68179479cf4#ref=rss)
-* [https://www.spiegel.de/panorama/boehmerwald-achtjaehrige-julia-aus-krankenhaus-entlassen](https://www.spiegel.de/panorama/boehmerwald-achtjaehrige-julia-aus-krankenhaus-entlassen-a-a9253dda-361d-4559-8be5-0f572f6e6d70#ref=rss)
-### gericht
+* [https://www.spiegel.de/panorama/justiz/weinsberg-zwei-maenner-nach-ausbruch-aus-deutscher-psychiatrie-in-spanien-festgenommen](https://www.spiegel.de/panorama/justiz/weinsberg-zwei-maenner-nach-ausbruch-aus-deutscher-psychiatrie-in-spanien-festgenommen-a-7e43de04-cdd0-4e83-aa68-35915f31b1f5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/florida-kleinkind-erschoss-mutter-in-videoschalte-vater-festgenommen](https://www.spiegel.de/panorama/justiz/florida-kleinkind-erschoss-mutter-in-videoschalte-vater-festgenommen-a-0f1e6394-bef0-412b-80c7-d40882b30767#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-als-abgeordneter-vereidigt](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-als-abgeordneter-vereidigt-a-fc2e351a-c74f-4373-8283-5eb8f3ec89a2#ref=rss)
+### sebastian
 
-* [https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf](https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf-a-d05313cb-aa67-4587-a3d4-d68179479cf4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/juergen-klopp-der-fussballcoach-zaehlt-juristisch-nicht-als-kuenstler-urteilt-ein-gericht](https://www.spiegel.de/wirtschaft/juergen-klopp-der-fussballcoach-zaehlt-juristisch-nicht-als-kuenstler-urteilt-ein-gericht-a-7b9394a2-5ecb-435c-8686-045a800f37ac#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung](https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung-a-915fd118-65e2-4c65-8320-576dcfd13bbe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-lage-superwahljahr-2021-cdu-sucht-neuen-chef-csu-sucht-neuen-soeder](https://www.spiegel.de/politik/deutschland/die-lage-superwahljahr-2021-cdu-sucht-neuen-chef-csu-sucht-neuen-soeder-a-69312c77-8b00-47ca-926c-6a6d731cc3f0#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/politik/deutschland/hamburgs-ex-buergermeister-ole-von-beust-fehlen-haltung-und-inhalt-bei-der-cdu](https://www.spiegel.de/politik/deutschland/hamburgs-ex-buergermeister-ole-von-beust-fehlen-haltung-und-inhalt-bei-der-cdu-a-5089948b-ba17-4022-bc54-5580a3d92cda#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-85-jaehrige-autofahrerin-durchfaehrt-hauswand-und-wird-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/hamburg-85-jaehrige-autofahrerin-durchfaehrt-hauswand-und-wird-lebensgefaehrlich-verletzt-a-e2189273-cb36-4140-993b-df497b8263f1#ref=rss)
-### folge
-
-* [https://www.spiegel.de/kultur/coronavirus-update-100-folge-am-lagerfeuer-mit-christian-drosten](https://www.spiegel.de/kultur/coronavirus-update-100-folge-am-lagerfeuer-mit-christian-drosten-a-dff30f16-b381-4f27-b320-18b269d7b2b5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/lindenstrassen-darsteller-ludwig-haas-ist-gestorben](https://www.spiegel.de/kultur/tv/lindenstrassen-darsteller-ludwig-haas-ist-gestorben-a-52179902-fbe8-4321-9083-55988eedd691#ref=rss)
-### krankenhaus
-
-* [https://www.spiegel.de/panorama/boehmerwald-achtjaehrige-julia-aus-krankenhaus-entlassen](https://www.spiegel.de/panorama/boehmerwald-achtjaehrige-julia-aus-krankenhaus-entlassen-a-a9253dda-361d-4559-8be5-0f572f6e6d70#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-85-jaehrige-autofahrerin-durchfaehrt-hauswand-und-wird-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/hamburg-85-jaehrige-autofahrerin-durchfaehrt-hauswand-und-wird-lebensgefaehrlich-verletzt-a-e2189273-cb36-4140-993b-df497b8263f1#ref=rss)
-### apple
-
-* [https://www.spiegel.de/netzwelt/apps/iphone-apple-warnt-erneut-vor-alternativen-app-stores](https://www.spiegel.de/netzwelt/apps/iphone-apple-warnt-erneut-vor-alternativen-app-stores-a-a30a7bed-db4c-4489-88ae-655ee3885179#ref=rss)
-### fehlen
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-brauchen-rekordzuschuss](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-brauchen-rekordzuschuss-a-2a0c7e8b-cda7-491e-9ddb-8af53ab6dff2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hamburgs-ex-buergermeister-ole-von-beust-fehlen-haltung-und-inhalt-bei-der-cdu](https://www.spiegel.de/politik/deutschland/hamburgs-ex-buergermeister-ole-von-beust-fehlen-haltung-und-inhalt-bei-der-cdu-a-5089948b-ba17-4022-bc54-5580a3d92cda#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wirtschaft/soziales/krankenkassen-brauchen-rekordzuschuss](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-brauchen-rekordzuschuss-a-2a0c7e8b-cda7-491e-9ddb-8af53ab6dff2#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/international-e-waste-day-umweltexperten-besorgt-wegen-zunahme-des-elektroschrotts](https://www.spiegel.de/netzwelt/gadgets/international-e-waste-day-umweltexperten-besorgt-wegen-zunahme-des-elektroschrotts-a-578daa35-2c58-4b2b-9174-dbda8000f7a9#ref=rss)
-### lucas
-
-* [https://www.spiegel.de/panorama/justiz/lucas-hernandez-profi-des-fc-bayern-muenchen-soll-in-haft](https://www.spiegel.de/panorama/justiz/lucas-hernandez-profi-des-fc-bayern-muenchen-soll-in-haft-a-68692cb0-459b-4505-88bd-96dd2eb12e74#ref=rss)
-### hernández
-
-* [https://www.spiegel.de/panorama/justiz/lucas-hernandez-profi-des-fc-bayern-muenchen-soll-in-haft](https://www.spiegel.de/panorama/justiz/lucas-hernandez-profi-des-fc-bayern-muenchen-soll-in-haft-a-68692cb0-459b-4505-88bd-96dd2eb12e74#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/justiz/lucas-hernandez-profi-des-fc-bayern-muenchen-soll-in-haft](https://www.spiegel.de/panorama/justiz/lucas-hernandez-profi-des-fc-bayern-muenchen-soll-in-haft-a-68692cb0-459b-4505-88bd-96dd2eb12e74#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen](https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen-a-a14c1e02-ff7d-43af-a6a0-7e8124daeaa9#ref=rss)
-### gefängnis
-
-* [https://www.spiegel.de/panorama/justiz/lucas-hernandez-profi-des-fc-bayern-muenchen-soll-in-haft](https://www.spiegel.de/panorama/justiz/lucas-hernandez-profi-des-fc-bayern-muenchen-soll-in-haft-a-68692cb0-459b-4505-88bd-96dd2eb12e74#ref=rss)
-* [https://www.spiegel.de/panorama/indien-mord-mit-kobra-biss-mann-erhaelt-lebenslange-freiheitsstrafe](https://www.spiegel.de/panorama/indien-mord-mit-kobra-biss-mann-erhaelt-lebenslange-freiheitsstrafe-a-4cbf55ec-e135-4077-bcff-62766a13b243#ref=rss)
-### amerikas
-
-* [https://www.spiegel.de/geschichte/amerikas-koloniale-vergangenheit-die-entheldung-des-christoph-kolumbus-am-columbus-day](https://www.spiegel.de/geschichte/amerikas-koloniale-vergangenheit-die-entheldung-des-christoph-kolumbus-am-columbus-day-a-dd8b8cb2-9b86-493e-ad2b-e203f2d38481#ref=rss)
-### christoph
-
-* [https://www.spiegel.de/geschichte/amerikas-koloniale-vergangenheit-die-entheldung-des-christoph-kolumbus-am-columbus-day](https://www.spiegel.de/geschichte/amerikas-koloniale-vergangenheit-die-entheldung-des-christoph-kolumbus-am-columbus-day-a-dd8b8cb2-9b86-493e-ad2b-e203f2d38481#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird](https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird-a-bc843ce6-ee9f-4393-b31a-519f8d8f0252#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei-a-7e8f9175-cdc4-437a-b3ff-09cd6ca21c05#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-als-abgeordneter-vereidigt](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-als-abgeordneter-vereidigt-a-fc2e351a-c74f-4373-8283-5eb8f3ec89a2#ref=rss)
+* [https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-um-ex-kanzler-sebastian-kurz-warten-auf-den-finalen-sturz](https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-um-ex-kanzler-sebastian-kurz-warten-auf-den-finalen-sturz-a-4099eb38-4e7e-4dc2-ae83-9c14d54b7fc0#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/geschichte/amerikas-koloniale-vergangenheit-die-entheldung-des-christoph-kolumbus-am-columbus-day](https://www.spiegel.de/geschichte/amerikas-koloniale-vergangenheit-die-entheldung-des-christoph-kolumbus-am-columbus-day-a-dd8b8cb2-9b86-493e-ad2b-e203f2d38481#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fridays-for-future-aktivist-linus-steinmetz-jede-bundestagswahl-an-der-junge-menschen-nicht-teilnehmen-duerfen-ist-ein-skandal](https://www.spiegel.de/politik/deutschland/fridays-for-future-aktivist-linus-steinmetz-jede-bundestagswahl-an-der-junge-menschen-nicht-teilnehmen-duerfen-ist-ein-skandal-a-190e5efb-7a6b-4037-a5b0-548c4b7a66ef#ref=rss)
-### neue
+* [https://www.spiegel.de/panorama/beirut-schuesse-bei-protesten-ein-toter-und-sieben-verletzte](https://www.spiegel.de/panorama/beirut-schuesse-bei-protesten-ein-toter-und-sieben-verletzte-a-663581ca-dc89-49bc-9615-ab00845a6657#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/corona-jahr-2020-die-stadtbevoelkerung-waechst-nicht-mehr](https://www.spiegel.de/panorama/gesellschaft/corona-jahr-2020-die-stadtbevoelkerung-waechst-nicht-mehr-a-ad16594c-8c21-4438-989c-aa7dc3be9c4d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/norwegens-polizei-hatte-bogenschuetzen-von-kongsberg-unter-beobachtunmg](https://www.spiegel.de/panorama/justiz/norwegens-polizei-hatte-bogenschuetzen-von-kongsberg-unter-beobachtunmg-a-db60dc7a-a50c-4863-8fd6-9103675c0174#ref=rss)
+* [https://www.spiegel.de/panorama/taiwan-dutzende-tote-nach-brand-in-geisterhaus](https://www.spiegel.de/panorama/taiwan-dutzende-tote-nach-brand-in-geisterhaus-a-5bfd673d-809a-4293-8912-3660bd393ed0#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/geschichte/amerikas-koloniale-vergangenheit-die-entheldung-des-christoph-kolumbus-am-columbus-day](https://www.spiegel.de/geschichte/amerikas-koloniale-vergangenheit-die-entheldung-des-christoph-kolumbus-am-columbus-day-a-dd8b8cb2-9b86-493e-ad2b-e203f2d38481#ref=rss)
-* [https://www.spiegel.de/auto/fahrberichte/seat-cupra-born-im-test-boost-auf-knopfdruck](https://www.spiegel.de/auto/fahrberichte/seat-cupra-born-im-test-boost-auf-knopfdruck-a-9f8fc490-d2c4-4459-a80e-1a6d22794174#ref=rss)
-### koalition
+* [https://www.spiegel.de/panorama/kalifornien-mehr-als-1000-feuerwehrleute-kaempfen-gegen-neuen-waldbrand](https://www.spiegel.de/panorama/kalifornien-mehr-als-1000-feuerwehrleute-kaempfen-gegen-neuen-waldbrand-a-14845984-0074-4460-9e15-486dc3bee6b7#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/corona-jahr-2020-die-stadtbevoelkerung-waechst-nicht-mehr](https://www.spiegel.de/panorama/gesellschaft/corona-jahr-2020-die-stadtbevoelkerung-waechst-nicht-mehr-a-ad16594c-8c21-4438-989c-aa7dc3be9c4d#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei-a-7e8f9175-cdc4-437a-b3ff-09cd6ca21c05#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktionaere-aeussern-unmut-mit-konzernfuehrung](https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktionaere-aeussern-unmut-mit-konzernfuehrung-a-cb74f464-b54b-46df-8390-5d11a463f73f#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-koalition-aus-spd-und-linken-bahnt-sich-an](https://www.spiegel.de/politik/mecklenburg-vorpommern-koalition-aus-spd-und-linken-bahnt-sich-an-a-9a97a451-de55-46b7-a04b-895ddc286056#ref=rss)
-### linken
+* [https://www.spiegel.de/panorama/justiz/weinsberg-zwei-maenner-nach-ausbruch-aus-deutscher-psychiatrie-in-spanien-festgenommen](https://www.spiegel.de/panorama/justiz/weinsberg-zwei-maenner-nach-ausbruch-aus-deutscher-psychiatrie-in-spanien-festgenommen-a-7e43de04-cdd0-4e83-aa68-35915f31b1f5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-seniorin-in-agde-gekoepft](https://www.spiegel.de/panorama/justiz/frankreich-seniorin-in-agde-gekoepft-a-fb6813d6-31bf-4696-a414-6dfca6172f2a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/norwegens-polizei-hatte-bogenschuetzen-von-kongsberg-unter-beobachtunmg](https://www.spiegel.de/panorama/justiz/norwegens-polizei-hatte-bogenschuetzen-von-kongsberg-unter-beobachtunmg-a-db60dc7a-a50c-4863-8fd6-9103675c0174#ref=rss)
+### öl
 
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-koalition-aus-spd-und-linken-bahnt-sich-an](https://www.spiegel.de/politik/mecklenburg-vorpommern-koalition-aus-spd-und-linken-bahnt-sich-an-a-9a97a451-de55-46b7-a04b-895ddc286056#ref=rss)
-### kollaps
+* [https://www.spiegel.de/wissenschaft/klima-krise-eu-fordert-stopp-der-oel-und-gasfoerderung-in-der-arktis](https://www.spiegel.de/wissenschaft/klima-krise-eu-fordert-stopp-der-oel-und-gasfoerderung-in-der-arktis-a-99a5a9f3-3b9f-4618-9687-78b70dafe059#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/energiepreise-gefaehrden-globalen-aufschwung](https://www.spiegel.de/wirtschaft/soziales/energiepreise-gefaehrden-globalen-aufschwung-a-277a3b57-650b-4bbf-9dab-7f4b8e8c9b3b#ref=rss)
+### union
 
-* [https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird](https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird-a-bc843ce6-ee9f-4393-b31a-519f8d8f0252#ref=rss)
-### berlin
+* [https://www.spiegel.de/wissenschaft/klima-krise-eu-fordert-stopp-der-oel-und-gasfoerderung-in-der-arktis](https://www.spiegel.de/wissenschaft/klima-krise-eu-fordert-stopp-der-oel-und-gasfoerderung-in-der-arktis-a-99a5a9f3-3b9f-4618-9687-78b70dafe059#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-sagt-auftritt-bei-der-jungen-union-ab](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-sagt-auftritt-bei-der-jungen-union-ab-a-7bc1fa8a-9528-47df-83ca-6d3dbfe62b83#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird](https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird-a-bc843ce6-ee9f-4393-b31a-519f8d8f0252#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr](https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr-a-0112f029-1f41-4bdd-b2e4-183b2b054f4d#ref=rss)
-### bundeswehreinsatz
-
-* [https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird](https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird-a-bc843ce6-ee9f-4393-b31a-519f8d8f0252#ref=rss)
-* [https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan](https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan-a-00bc7bb7-2f91-45c6-9b0e-09016ef9a0dd#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird](https://www.spiegel.de/ausland/afghanistan-vor-dem-kollaps-niemand-weiss-wie-es-im-winter-weitergehen-wird-a-bc843ce6-ee9f-4393-b31a-519f8d8f0252#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/iphone-apple-warnt-erneut-vor-alternativen-app-stores](https://www.spiegel.de/netzwelt/apps/iphone-apple-warnt-erneut-vor-alternativen-app-stores-a-a30a7bed-db4c-4489-88ae-655ee3885179#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-erwaegt-wahl-von-afd-politiker-zum-landtagsvizepraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-erwaegt-wahl-von-afd-politiker-zum-landtagsvizepraesidenten-a-e88727c4-5e10-4730-aba3-2c77cc1edc81#ref=rss)
-### afdpolitiker
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-erwaegt-wahl-von-afd-politiker-zum-landtagsvizepraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-erwaegt-wahl-von-afd-politiker-zum-landtagsvizepraesidenten-a-e88727c4-5e10-4730-aba3-2c77cc1edc81#ref=rss)
-### landtagsvizepräsidenten
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-erwaegt-wahl-von-afd-politiker-zum-landtagsvizepraesidenten](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-cdu-erwaegt-wahl-von-afd-politiker-zum-landtagsvizepraesidenten-a-e88727c4-5e10-4730-aba3-2c77cc1edc81#ref=rss)
-### los
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen](https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen-a-a14c1e02-ff7d-43af-a6a0-7e8124daeaa9#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen](https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen-a-a14c1e02-ff7d-43af-a6a0-7e8124daeaa9#ref=rss)
-### hafen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen](https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen-a-a14c1e02-ff7d-43af-a6a0-7e8124daeaa9#ref=rss)
-### waren
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen](https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen-a-a14c1e02-ff7d-43af-a6a0-7e8124daeaa9#ref=rss)
-* [https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan](https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan-a-00bc7bb7-2f91-45c6-9b0e-09016ef9a0dd#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen](https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen-a-a14c1e02-ff7d-43af-a6a0-7e8124daeaa9#ref=rss)
-* [https://www.spiegel.de/sport/agnes-tirop-langstreckenlaeuferin-aus-kenia-tot-aufgefunden](https://www.spiegel.de/sport/agnes-tirop-langstreckenlaeuferin-aus-kenia-tot-aufgefunden-a-74a97ded-b8eb-4342-81a4-bf64932cfe03#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen](https://www.spiegel.de/wirtschaft/unternehmen/wegen-lieferengpaessen-hafen-von-los-angeles-soll-24-stunden-am-tag-laufen-a-a14c1e02-ff7d-43af-a6a0-7e8124daeaa9#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/wladimir-putin-warnt-russischen-nobelpreistraeger-dmitrij-muratow-anstatt-ihm-zu-gratulieren](https://www.spiegel.de/ausland/wladimir-putin-warnt-russischen-nobelpreistraeger-dmitrij-muratow-anstatt-ihm-zu-gratulieren-a-98b292cd-ba69-4bbc-acfb-e6d7ad929e48#ref=rss)
-### dmitrij
-
-* [https://www.spiegel.de/ausland/wladimir-putin-warnt-russischen-nobelpreistraeger-dmitrij-muratow-anstatt-ihm-zu-gratulieren](https://www.spiegel.de/ausland/wladimir-putin-warnt-russischen-nobelpreistraeger-dmitrij-muratow-anstatt-ihm-zu-gratulieren-a-98b292cd-ba69-4bbc-acfb-e6d7ad929e48#ref=rss)
-### muratow
-
-* [https://www.spiegel.de/ausland/wladimir-putin-warnt-russischen-nobelpreistraeger-dmitrij-muratow-anstatt-ihm-zu-gratulieren](https://www.spiegel.de/ausland/wladimir-putin-warnt-russischen-nobelpreistraeger-dmitrij-muratow-anstatt-ihm-zu-gratulieren-a-98b292cd-ba69-4bbc-acfb-e6d7ad929e48#ref=rss)
-### soldatinnen
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr](https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr-a-0112f029-1f41-4bdd-b2e4-183b2b054f4d#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr](https://www.spiegel.de/politik/deutschland/afghanistan-grosser-zapfenstreich-fuer-soldatinnen-und-soldaten-der-bundeswehr-a-0112f029-1f41-4bdd-b2e4-183b2b054f4d#ref=rss)
-* [https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan](https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan-a-00bc7bb7-2f91-45c6-9b0e-09016ef9a0dd#ref=rss)
-### verlangen
-
-* [https://www.spiegel.de/geschichte/museumschaetze-aus-afrika-kann-man-raubkunst-zurueckrauben](https://www.spiegel.de/geschichte/museumschaetze-aus-afrika-kann-man-raubkunst-zurueckrauben-a-62ee7544-680a-4cb2-b942-aa41b678efb1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-us-behoerden-verlangen-weitere-auskuenfte-ueber-autopiloten](https://www.spiegel.de/wirtschaft/unternehmen/tesla-us-behoerden-verlangen-weitere-auskuenfte-ueber-autopiloten-a-35df003c-9890-42ca-b72c-35429f533ed0#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-us-behoerden-verlangen-weitere-auskuenfte-ueber-autopiloten](https://www.spiegel.de/wirtschaft/unternehmen/tesla-us-behoerden-verlangen-weitere-auskuenfte-ueber-autopiloten-a-35df003c-9890-42ca-b72c-35429f533ed0#ref=rss)
-### verpasste
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-us-behoerden-verlangen-weitere-auskuenfte-ueber-autopiloten](https://www.spiegel.de/wirtschaft/unternehmen/tesla-us-behoerden-verlangen-weitere-auskuenfte-ueber-autopiloten-a-35df003c-9890-42ca-b72c-35429f533ed0#ref=rss)
-* [https://www.spiegel.de/sport/agnes-tirop-langstreckenlaeuferin-aus-kenia-tot-aufgefunden](https://www.spiegel.de/sport/agnes-tirop-langstreckenlaeuferin-aus-kenia-tot-aufgefunden-a-74a97ded-b8eb-4342-81a4-bf64932cfe03#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-us-behoerden-verlangen-weitere-auskuenfte-ueber-autopiloten](https://www.spiegel.de/wirtschaft/unternehmen/tesla-us-behoerden-verlangen-weitere-auskuenfte-ueber-autopiloten-a-35df003c-9890-42ca-b72c-35429f533ed0#ref=rss)
-* [https://www.spiegel.de/kultur/coronavirus-update-100-folge-am-lagerfeuer-mit-christian-drosten](https://www.spiegel.de/kultur/coronavirus-update-100-folge-am-lagerfeuer-mit-christian-drosten-a-dff30f16-b381-4f27-b320-18b269d7b2b5#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/ausland/neuer-malaria-impfstoff-rts-s-as01-was-kann-er](https://www.spiegel.de/ausland/neuer-malaria-impfstoff-rts-s-as01-was-kann-er-a-f40f42f3-e304-47b2-afff-5c50feea89df#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/international-e-waste-day-umweltexperten-besorgt-wegen-zunahme-des-elektroschrotts](https://www.spiegel.de/netzwelt/gadgets/international-e-waste-day-umweltexperten-besorgt-wegen-zunahme-des-elektroschrotts-a-578daa35-2c58-4b2b-9174-dbda8000f7a9#ref=rss)
-### malariaimpfstoff
-
-* [https://www.spiegel.de/ausland/neuer-malaria-impfstoff-rts-s-as01-was-kann-er](https://www.spiegel.de/ausland/neuer-malaria-impfstoff-rts-s-as01-was-kann-er-a-f40f42f3-e304-47b2-afff-5c50feea89df#ref=rss)
-### rtss/as01
-
-* [https://www.spiegel.de/ausland/neuer-malaria-impfstoff-rts-s-as01-was-kann-er](https://www.spiegel.de/ausland/neuer-malaria-impfstoff-rts-s-as01-was-kann-er-a-f40f42f3-e304-47b2-afff-5c50feea89df#ref=rss)
-### einsturz
-
-* [https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf](https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf-a-d05313cb-aa67-4587-a3d4-d68179479cf4#ref=rss)
-### stadtarchivs
-
-* [https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf](https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf-a-d05313cb-aa67-4587-a3d4-d68179479cf4#ref=rss)
-### bauleiter
-
-* [https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf](https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf-a-d05313cb-aa67-4587-a3d4-d68179479cf4#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf](https://www.spiegel.de/panorama/justiz/koeln-einsturz-des-stadtarchivs-bgh-hebt-freisprueche-auf-a-d05313cb-aa67-4587-a3d4-d68179479cf4#ref=rss)
-* [https://www.spiegel.de/kultur/tv/lindenstrassen-darsteller-ludwig-haas-ist-gestorben](https://www.spiegel.de/kultur/tv/lindenstrassen-darsteller-ludwig-haas-ist-gestorben-a-52179902-fbe8-4321-9083-55988eedd691#ref=rss)
-### captain
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung](https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung-a-915fd118-65e2-4c65-8320-576dcfd13bbe#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all](https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all-a-e3bb33f0-c8a9-4c1b-bedb-9dc8550bc7fa#ref=rss)
-### karl
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung](https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung-a-915fd118-65e2-4c65-8320-576dcfd13bbe#ref=rss)
-### lauterbach
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung](https://www.spiegel.de/politik/deutschland/news-des-tages-william-shatner-im-all-captain-kirk-karl-lauterbach-cannabis-legalisierung-a-915fd118-65e2-4c65-8320-576dcfd13bbe#ref=rss)
-### cupra
-
-* [https://www.spiegel.de/auto/fahrberichte/seat-cupra-born-im-test-boost-auf-knopfdruck](https://www.spiegel.de/auto/fahrberichte/seat-cupra-born-im-test-boost-auf-knopfdruck-a-9f8fc490-d2c4-4459-a80e-1a6d22794174#ref=rss)
-### born
-
-* [https://www.spiegel.de/auto/fahrberichte/seat-cupra-born-im-test-boost-auf-knopfdruck](https://www.spiegel.de/auto/fahrberichte/seat-cupra-born-im-test-boost-auf-knopfdruck-a-9f8fc490-d2c4-4459-a80e-1a6d22794174#ref=rss)
-### ole
-
-* [https://www.spiegel.de/politik/deutschland/hamburgs-ex-buergermeister-ole-von-beust-fehlen-haltung-und-inhalt-bei-der-cdu](https://www.spiegel.de/politik/deutschland/hamburgs-ex-buergermeister-ole-von-beust-fehlen-haltung-und-inhalt-bei-der-cdu-a-5089948b-ba17-4022-bc54-5580a3d92cda#ref=rss)
-### beust
-
-* [https://www.spiegel.de/politik/deutschland/hamburgs-ex-buergermeister-ole-von-beust-fehlen-haltung-und-inhalt-bei-der-cdu](https://www.spiegel.de/politik/deutschland/hamburgs-ex-buergermeister-ole-von-beust-fehlen-haltung-und-inhalt-bei-der-cdu-a-5089948b-ba17-4022-bc54-5580a3d92cda#ref=rss)
-### 100
-
-* [https://www.spiegel.de/kultur/coronavirus-update-100-folge-am-lagerfeuer-mit-christian-drosten](https://www.spiegel.de/kultur/coronavirus-update-100-folge-am-lagerfeuer-mit-christian-drosten-a-dff30f16-b381-4f27-b320-18b269d7b2b5#ref=rss)
-### christian
-
-* [https://www.spiegel.de/kultur/coronavirus-update-100-folge-am-lagerfeuer-mit-christian-drosten](https://www.spiegel.de/kultur/coronavirus-update-100-folge-am-lagerfeuer-mit-christian-drosten-a-dff30f16-b381-4f27-b320-18b269d7b2b5#ref=rss)
-### drosten
-
-* [https://www.spiegel.de/kultur/coronavirus-update-100-folge-am-lagerfeuer-mit-christian-drosten](https://www.spiegel.de/kultur/coronavirus-update-100-folge-am-lagerfeuer-mit-christian-drosten-a-dff30f16-b381-4f27-b320-18b269d7b2b5#ref=rss)
-### suzanna
-
-* [https://www.spiegel.de/familie/astronautinnen-programm-suzanna-und-die-sterne](https://www.spiegel.de/familie/astronautinnen-programm-suzanna-und-die-sterne-a-8b217b78-9c90-486e-97af-224347235455#ref=rss)
-### randall
-
-* [https://www.spiegel.de/familie/astronautinnen-programm-suzanna-und-die-sterne](https://www.spiegel.de/familie/astronautinnen-programm-suzanna-und-die-sterne-a-8b217b78-9c90-486e-97af-224347235455#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/familie/astronautinnen-programm-suzanna-und-die-sterne](https://www.spiegel.de/familie/astronautinnen-programm-suzanna-und-die-sterne-a-8b217b78-9c90-486e-97af-224347235455#ref=rss)
-* [https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan](https://www.spiegel.de/politik/annegret-kramp-karrenbauer-wuerdigt-bundeswehr-einsatz-in-afghanistan-a-00bc7bb7-2f91-45c6-9b0e-09016ef9a0dd#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/indien-mord-mit-kobra-biss-mann-erhaelt-lebenslange-freiheitsstrafe](https://www.spiegel.de/panorama/indien-mord-mit-kobra-biss-mann-erhaelt-lebenslange-freiheitsstrafe-a-4cbf55ec-e135-4077-bcff-62766a13b243#ref=rss)
-### raumkapsel
-
-* [https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all](https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all-a-e3bb33f0-c8a9-4c1b-bedb-9dc8550bc7fa#ref=rss)
-### jeff
-
-* [https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all](https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all-a-e3bb33f0-c8a9-4c1b-bedb-9dc8550bc7fa#ref=rss)
-### blue
-
-* [https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all](https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all-a-e3bb33f0-c8a9-4c1b-bedb-9dc8550bc7fa#ref=rss)
-### origin
-
-* [https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all](https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all-a-e3bb33f0-c8a9-4c1b-bedb-9dc8550bc7fa#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all](https://www.spiegel.de/wissenschaft/weltall/william-shatner-fliegt-in-einer-raumkapsel-von-jeff-bezos-firma-blue-origin-ins-all-a-e3bb33f0-c8a9-4c1b-bedb-9dc8550bc7fa#ref=rss)
-* [https://www.spiegel.de/kultur/tv/lindenstrassen-darsteller-ludwig-haas-ist-gestorben](https://www.spiegel.de/kultur/tv/lindenstrassen-darsteller-ludwig-haas-ist-gestorben-a-52179902-fbe8-4321-9083-55988eedd691#ref=rss)
-### achtjährige
-
-* [https://www.spiegel.de/panorama/boehmerwald-achtjaehrige-julia-aus-krankenhaus-entlassen](https://www.spiegel.de/panorama/boehmerwald-achtjaehrige-julia-aus-krankenhaus-entlassen-a-a9253dda-361d-4559-8be5-0f572f6e6d70#ref=rss)
-### julia
-
-* [https://www.spiegel.de/panorama/boehmerwald-achtjaehrige-julia-aus-krankenhaus-entlassen](https://www.spiegel.de/panorama/boehmerwald-achtjaehrige-julia-aus-krankenhaus-entlassen-a-a9253dda-361d-4559-8be5-0f572f6e6d70#ref=rss)
-### entlassen
-
-* [https://www.spiegel.de/panorama/boehmerwald-achtjaehrige-julia-aus-krankenhaus-entlassen](https://www.spiegel.de/panorama/boehmerwald-achtjaehrige-julia-aus-krankenhaus-entlassen-a-a9253dda-361d-4559-8be5-0f572f6e6d70#ref=rss)
-### ludwig
-
-* [https://www.spiegel.de/kultur/tv/lindenstrassen-darsteller-ludwig-haas-ist-gestorben](https://www.spiegel.de/kultur/tv/lindenstrassen-darsteller-ludwig-haas-ist-gestorben-a-52179902-fbe8-4321-9083-55988eedd691#ref=rss)
-### haas
-
-* [https://www.spiegel.de/kultur/tv/lindenstrassen-darsteller-ludwig-haas-ist-gestorben](https://www.spiegel.de/kultur/tv/lindenstrassen-darsteller-ludwig-haas-ist-gestorben-a-52179902-fbe8-4321-9083-55988eedd691#ref=rss)
-### sucht
-
-* [https://www.spiegel.de/politik/deutschland/die-lage-superwahljahr-2021-cdu-sucht-neuen-chef-csu-sucht-neuen-soeder](https://www.spiegel.de/politik/deutschland/die-lage-superwahljahr-2021-cdu-sucht-neuen-chef-csu-sucht-neuen-soeder-a-69312c77-8b00-47ca-926c-6a6d731cc3f0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/zapfenstreich-fuer-afghanistan-veteranen-verteidigungsministerium-enttaeuscht-ueber-kritik](https://www.spiegel.de/politik/deutschland/zapfenstreich-fuer-afghanistan-veteranen-verteidigungsministerium-enttaeuscht-ueber-kritik-a-71583203-915a-4d11-97a9-9e2da50112f8#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus](https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus-a-08ed08a3-ff59-46ba-b1f9-da84ed80b817#ref=rss)
 ### neuen
 
-* [https://www.spiegel.de/politik/deutschland/die-lage-superwahljahr-2021-cdu-sucht-neuen-chef-csu-sucht-neuen-soeder](https://www.spiegel.de/politik/deutschland/die-lage-superwahljahr-2021-cdu-sucht-neuen-chef-csu-sucht-neuen-soeder-a-69312c77-8b00-47ca-926c-6a6d731cc3f0#ref=rss)
-### csu
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-fabrik-in-gruenheide-wasserversorger-fuerchtet-stoerfaelle](https://www.spiegel.de/wirtschaft/unternehmen/tesla-fabrik-in-gruenheide-wasserversorger-fuerchtet-stoerfaelle-a-1261a850-483b-47ae-b8e3-c17cfb6ac364#ref=rss)
+* [https://www.spiegel.de/panorama/kalifornien-mehr-als-1000-feuerwehrleute-kaempfen-gegen-neuen-waldbrand](https://www.spiegel.de/panorama/kalifornien-mehr-als-1000-feuerwehrleute-kaempfen-gegen-neuen-waldbrand-a-14845984-0074-4460-9e15-486dc3bee6b7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/china-astronauten-wollen-sechs-monate-im-all-verbringen](https://www.spiegel.de/wissenschaft/weltall/china-astronauten-wollen-sechs-monate-im-all-verbringen-a-a8b86ec5-c36a-4640-add8-b5ec2ad65f0a#ref=rss)
+### ländern
 
-* [https://www.spiegel.de/politik/deutschland/die-lage-superwahljahr-2021-cdu-sucht-neuen-chef-csu-sucht-neuen-soeder](https://www.spiegel.de/politik/deutschland/die-lage-superwahljahr-2021-cdu-sucht-neuen-chef-csu-sucht-neuen-soeder-a-69312c77-8b00-47ca-926c-6a6d731cc3f0#ref=rss)
-### superwahljahr
+* [https://www.spiegel.de/wirtschaft/service/immobilien-europaeische-zentralbank-mahnt-zur-vorsicht-bei-krediten](https://www.spiegel.de/wirtschaft/service/immobilien-europaeische-zentralbank-mahnt-zur-vorsicht-bei-krediten-a-e63dca30-752c-4a3f-88ed-7471d603f1ff#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-bali-empfaengt-geimpfte-touristen-aus-19-laendern-deutschland-nicht-dabei](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-bali-empfaengt-geimpfte-touristen-aus-19-laendern-deutschland-nicht-dabei-a-04163aef-0eee-42a6-8600-10b810f9e787#ref=rss)
+### all
 
-* [https://www.spiegel.de/politik/deutschland/die-lage-superwahljahr-2021-cdu-sucht-neuen-chef-csu-sucht-neuen-soeder](https://www.spiegel.de/politik/deutschland/die-lage-superwahljahr-2021-cdu-sucht-neuen-chef-csu-sucht-neuen-soeder-a-69312c77-8b00-47ca-926c-6a6d731cc3f0#ref=rss)
-### jürgen
+* [https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus](https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus-a-08ed08a3-ff59-46ba-b1f9-da84ed80b817#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/china-astronauten-wollen-sechs-monate-im-all-verbringen](https://www.spiegel.de/wissenschaft/weltall/china-astronauten-wollen-sechs-monate-im-all-verbringen-a-a8b86ec5-c36a-4640-add8-b5ec2ad65f0a#ref=rss)
+### leben
 
-* [https://www.spiegel.de/wirtschaft/juergen-klopp-der-fussballcoach-zaehlt-juristisch-nicht-als-kuenstler-urteilt-ein-gericht](https://www.spiegel.de/wirtschaft/juergen-klopp-der-fussballcoach-zaehlt-juristisch-nicht-als-kuenstler-urteilt-ein-gericht-a-7b9394a2-5ecb-435c-8686-045a800f37ac#ref=rss)
-### klopp
+* [https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus](https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus-a-08ed08a3-ff59-46ba-b1f9-da84ed80b817#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/corona-jahr-2020-die-stadtbevoelkerung-waechst-nicht-mehr](https://www.spiegel.de/panorama/gesellschaft/corona-jahr-2020-die-stadtbevoelkerung-waechst-nicht-mehr-a-ad16594c-8c21-4438-989c-aa7dc3be9c4d#ref=rss)
+* [https://www.spiegel.de/panorama/taiwan-dutzende-tote-nach-brand-in-geisterhaus](https://www.spiegel.de/panorama/taiwan-dutzende-tote-nach-brand-in-geisterhaus-a-5bfd673d-809a-4293-8912-3660bd393ed0#ref=rss)
+### frau
 
-* [https://www.spiegel.de/wirtschaft/juergen-klopp-der-fussballcoach-zaehlt-juristisch-nicht-als-kuenstler-urteilt-ein-gericht](https://www.spiegel.de/wirtschaft/juergen-klopp-der-fussballcoach-zaehlt-juristisch-nicht-als-kuenstler-urteilt-ein-gericht-a-7b9394a2-5ecb-435c-8686-045a800f37ac#ref=rss)
-### linus
+* [https://www.spiegel.de/panorama/justiz/frankreich-seniorin-in-agde-gekoepft](https://www.spiegel.de/panorama/justiz/frankreich-seniorin-in-agde-gekoepft-a-fb6813d6-31bf-4696-a414-6dfca6172f2a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/china-astronauten-wollen-sechs-monate-im-all-verbringen](https://www.spiegel.de/wissenschaft/weltall/china-astronauten-wollen-sechs-monate-im-all-verbringen-a-a8b86ec5-c36a-4640-add8-b5ec2ad65f0a#ref=rss)
+* [https://www.spiegel.de/panorama/leute/george-clooney-ueber-seine-batman-rolle-ich-habe-es-so-sehr-versaut](https://www.spiegel.de/panorama/leute/george-clooney-ueber-seine-batman-rolle-ich-habe-es-so-sehr-versaut-a-79b074e5-85b2-423a-a45c-cab3e0a5287d#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/politik/deutschland/fridays-for-future-aktivist-linus-steinmetz-jede-bundestagswahl-an-der-junge-menschen-nicht-teilnehmen-duerfen-ist-ein-skandal](https://www.spiegel.de/politik/deutschland/fridays-for-future-aktivist-linus-steinmetz-jede-bundestagswahl-an-der-junge-menschen-nicht-teilnehmen-duerfen-ist-ein-skandal-a-190e5efb-7a6b-4037-a5b0-548c4b7a66ef#ref=rss)
-### steinmetz
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei-a-7e8f9175-cdc4-437a-b3ff-09cd6ca21c05#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-als-abgeordneter-vereidigt](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-als-abgeordneter-vereidigt-a-fc2e351a-c74f-4373-8283-5eb8f3ec89a2#ref=rss)
+* [https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-um-ex-kanzler-sebastian-kurz-warten-auf-den-finalen-sturz](https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-um-ex-kanzler-sebastian-kurz-warten-auf-den-finalen-sturz-a-4099eb38-4e7e-4dc2-ae83-9c14d54b7fc0#ref=rss)
+### abu
 
-* [https://www.spiegel.de/politik/deutschland/fridays-for-future-aktivist-linus-steinmetz-jede-bundestagswahl-an-der-junge-menschen-nicht-teilnehmen-duerfen-ist-ein-skandal](https://www.spiegel.de/politik/deutschland/fridays-for-future-aktivist-linus-steinmetz-jede-bundestagswahl-an-der-junge-menschen-nicht-teilnehmen-duerfen-ist-ein-skandal-a-190e5efb-7a6b-4037-a5b0-548c4b7a66ef#ref=rss)
-### bundestagswahl
+* [https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt](https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt-a-a125cca3-34a2-44f3-9ffc-fa026ad97cd9#ref=rss)
+### dhabi
 
-* [https://www.spiegel.de/politik/deutschland/fridays-for-future-aktivist-linus-steinmetz-jede-bundestagswahl-an-der-junge-menschen-nicht-teilnehmen-duerfen-ist-ein-skandal](https://www.spiegel.de/politik/deutschland/fridays-for-future-aktivist-linus-steinmetz-jede-bundestagswahl-an-der-junge-menschen-nicht-teilnehmen-duerfen-ist-ein-skandal-a-190e5efb-7a6b-4037-a5b0-548c4b7a66ef#ref=rss)
-### teilnehmen
+* [https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt](https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt-a-a125cca3-34a2-44f3-9ffc-fa026ad97cd9#ref=rss)
+### squid
 
-* [https://www.spiegel.de/politik/deutschland/fridays-for-future-aktivist-linus-steinmetz-jede-bundestagswahl-an-der-junge-menschen-nicht-teilnehmen-duerfen-ist-ein-skandal](https://www.spiegel.de/politik/deutschland/fridays-for-future-aktivist-linus-steinmetz-jede-bundestagswahl-an-der-junge-menschen-nicht-teilnehmen-duerfen-ist-ein-skandal-a-190e5efb-7a6b-4037-a5b0-548c4b7a66ef#ref=rss)
-### agnes
+* [https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt](https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt-a-a125cca3-34a2-44f3-9ffc-fa026ad97cd9#ref=rss)
+### game
 
-* [https://www.spiegel.de/sport/agnes-tirop-langstreckenlaeuferin-aus-kenia-tot-aufgefunden](https://www.spiegel.de/sport/agnes-tirop-langstreckenlaeuferin-aus-kenia-tot-aufgefunden-a-74a97ded-b8eb-4342-81a4-bf64932cfe03#ref=rss)
-### tirop
+* [https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt](https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt-a-a125cca3-34a2-44f3-9ffc-fa026ad97cd9#ref=rss)
+### fand
 
-* [https://www.spiegel.de/sport/agnes-tirop-langstreckenlaeuferin-aus-kenia-tot-aufgefunden](https://www.spiegel.de/sport/agnes-tirop-langstreckenlaeuferin-aus-kenia-tot-aufgefunden-a-74a97ded-b8eb-4342-81a4-bf64932cfe03#ref=rss)
-### tot
+* [https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt](https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt-a-a125cca3-34a2-44f3-9ffc-fa026ad97cd9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-seniorin-in-agde-gekoepft](https://www.spiegel.de/panorama/justiz/frankreich-seniorin-in-agde-gekoepft-a-fb6813d6-31bf-4696-a414-6dfca6172f2a#ref=rss)
+### statt
 
-* [https://www.spiegel.de/sport/agnes-tirop-langstreckenlaeuferin-aus-kenia-tot-aufgefunden](https://www.spiegel.de/sport/agnes-tirop-langstreckenlaeuferin-aus-kenia-tot-aufgefunden-a-74a97ded-b8eb-4342-81a4-bf64932cfe03#ref=rss)
-### aufgefunden
+* [https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt](https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt-a-a125cca3-34a2-44f3-9ffc-fa026ad97cd9#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus](https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus-a-08ed08a3-ff59-46ba-b1f9-da84ed80b817#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/sport/agnes-tirop-langstreckenlaeuferin-aus-kenia-tot-aufgefunden](https://www.spiegel.de/sport/agnes-tirop-langstreckenlaeuferin-aus-kenia-tot-aufgefunden-a-74a97ded-b8eb-4342-81a4-bf64932cfe03#ref=rss)
+* [https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt](https://www.spiegel.de/kultur/abu-dhabi-netflix-show-squid-game-gibt-es-jetzt-in-echt-a-a125cca3-34a2-44f3-9ffc-fa026ad97cd9#ref=rss)
+* [https://www.spiegel.de/panorama/taiwan-dutzende-tote-nach-brand-in-geisterhaus](https://www.spiegel.de/panorama/taiwan-dutzende-tote-nach-brand-in-geisterhaus-a-5bfd673d-809a-4293-8912-3660bd393ed0#ref=rss)
+### arktis
+
+* [https://www.spiegel.de/wissenschaft/klima-krise-eu-fordert-stopp-der-oel-und-gasfoerderung-in-der-arktis](https://www.spiegel.de/wissenschaft/klima-krise-eu-fordert-stopp-der-oel-und-gasfoerderung-in-der-arktis-a-99a5a9f3-3b9f-4618-9687-78b70dafe059#ref=rss)
+### gas
+
+* [https://www.spiegel.de/wissenschaft/klima-krise-eu-fordert-stopp-der-oel-und-gasfoerderung-in-der-arktis](https://www.spiegel.de/wissenschaft/klima-krise-eu-fordert-stopp-der-oel-und-gasfoerderung-in-der-arktis-a-99a5a9f3-3b9f-4618-9687-78b70dafe059#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/energiepreise-gefaehrden-globalen-aufschwung](https://www.spiegel.de/wirtschaft/soziales/energiepreise-gefaehrden-globalen-aufschwung-a-277a3b57-650b-4bbf-9dab-7f4b8e8c9b3b#ref=rss)
+### kohle
+
+* [https://www.spiegel.de/wissenschaft/klima-krise-eu-fordert-stopp-der-oel-und-gasfoerderung-in-der-arktis](https://www.spiegel.de/wissenschaft/klima-krise-eu-fordert-stopp-der-oel-und-gasfoerderung-in-der-arktis-a-99a5a9f3-3b9f-4618-9687-78b70dafe059#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/energiepreise-gefaehrden-globalen-aufschwung](https://www.spiegel.de/wirtschaft/soziales/energiepreise-gefaehrden-globalen-aufschwung-a-277a3b57-650b-4bbf-9dab-7f4b8e8c9b3b#ref=rss)
+### daher
+
+* [https://www.spiegel.de/wissenschaft/klima-krise-eu-fordert-stopp-der-oel-und-gasfoerderung-in-der-arktis](https://www.spiegel.de/wissenschaft/klima-krise-eu-fordert-stopp-der-oel-und-gasfoerderung-in-der-arktis-a-99a5a9f3-3b9f-4618-9687-78b70dafe059#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-als-abgeordneter-vereidigt](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-als-abgeordneter-vereidigt-a-fc2e351a-c74f-4373-8283-5eb8f3ec89a2#ref=rss)
+### verteidigungsministerium
+
+* [https://www.spiegel.de/politik/deutschland/zapfenstreich-fuer-afghanistan-veteranen-verteidigungsministerium-enttaeuscht-ueber-kritik](https://www.spiegel.de/politik/deutschland/zapfenstreich-fuer-afghanistan-veteranen-verteidigungsministerium-enttaeuscht-ueber-kritik-a-71583203-915a-4d11-97a9-9e2da50112f8#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-fabrik-in-gruenheide-wasserversorger-fuerchtet-stoerfaelle](https://www.spiegel.de/wirtschaft/unternehmen/tesla-fabrik-in-gruenheide-wasserversorger-fuerchtet-stoerfaelle-a-1261a850-483b-47ae-b8e3-c17cfb6ac364#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktionaere-aeussern-unmut-mit-konzernfuehrung](https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktionaere-aeussern-unmut-mit-konzernfuehrung-a-cb74f464-b54b-46df-8390-5d11a463f73f#ref=rss)
+### beirut
+
+* [https://www.spiegel.de/panorama/beirut-schuesse-bei-protesten-ein-toter-und-sieben-verletzte](https://www.spiegel.de/panorama/beirut-schuesse-bei-protesten-ein-toter-und-sieben-verletzte-a-663581ca-dc89-49bc-9615-ab00845a6657#ref=rss)
+### schüsse
+
+* [https://www.spiegel.de/panorama/beirut-schuesse-bei-protesten-ein-toter-und-sieben-verletzte](https://www.spiegel.de/panorama/beirut-schuesse-bei-protesten-ein-toter-und-sieben-verletzte-a-663581ca-dc89-49bc-9615-ab00845a6657#ref=rss)
+### 2020
+
+* [https://www.spiegel.de/panorama/beirut-schuesse-bei-protesten-ein-toter-und-sieben-verletzte](https://www.spiegel.de/panorama/beirut-schuesse-bei-protesten-ein-toter-und-sieben-verletzte-a-663581ca-dc89-49bc-9615-ab00845a6657#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/corona-jahr-2020-die-stadtbevoelkerung-waechst-nicht-mehr](https://www.spiegel.de/panorama/gesellschaft/corona-jahr-2020-die-stadtbevoelkerung-waechst-nicht-mehr-a-ad16594c-8c21-4438-989c-aa7dc3be9c4d#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-sagt-auftritt-bei-der-jungen-union-ab](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-sagt-auftritt-bei-der-jungen-union-ab-a-7bc1fa8a-9528-47df-83ca-6d3dbfe62b83#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-sagt-auftritt-bei-der-jungen-union-ab](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-sagt-auftritt-bei-der-jungen-union-ab-a-7bc1fa8a-9528-47df-83ca-6d3dbfe62b83#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-sagt-auftritt-bei-der-jungen-union-ab](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-sagt-auftritt-bei-der-jungen-union-ab-a-7bc1fa8a-9528-47df-83ca-6d3dbfe62b83#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/norwegens-polizei-hatte-bogenschuetzen-von-kongsberg-unter-beobachtunmg](https://www.spiegel.de/panorama/justiz/norwegens-polizei-hatte-bogenschuetzen-von-kongsberg-unter-beobachtunmg-a-db60dc7a-a50c-4863-8fd6-9103675c0174#ref=rss)
+### mann
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-sagt-auftritt-bei-der-jungen-union-ab](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-sagt-auftritt-bei-der-jungen-union-ab-a-7bc1fa8a-9528-47df-83ca-6d3dbfe62b83#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/norwegens-polizei-hatte-bogenschuetzen-von-kongsberg-unter-beobachtunmg](https://www.spiegel.de/panorama/justiz/norwegens-polizei-hatte-bogenschuetzen-von-kongsberg-unter-beobachtunmg-a-db60dc7a-a50c-4863-8fd6-9103675c0174#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-sagt-auftritt-bei-der-jungen-union-ab](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-sagt-auftritt-bei-der-jungen-union-ab-a-7bc1fa8a-9528-47df-83ca-6d3dbfe62b83#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-als-abgeordneter-vereidigt](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-als-abgeordneter-vereidigt-a-fc2e351a-c74f-4373-8283-5eb8f3ec89a2#ref=rss)
+### krediten
+
+* [https://www.spiegel.de/wirtschaft/service/immobilien-europaeische-zentralbank-mahnt-zur-vorsicht-bei-krediten](https://www.spiegel.de/wirtschaft/service/immobilien-europaeische-zentralbank-mahnt-zur-vorsicht-bei-krediten-a-e63dca30-752c-4a3f-88ed-7471d603f1ff#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/wirtschaft/service/immobilien-europaeische-zentralbank-mahnt-zur-vorsicht-bei-krediten](https://www.spiegel.de/wirtschaft/service/immobilien-europaeische-zentralbank-mahnt-zur-vorsicht-bei-krediten-a-e63dca30-752c-4a3f-88ed-7471d603f1ff#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus](https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus-a-08ed08a3-ff59-46ba-b1f9-da84ed80b817#ref=rss)
+### mehreren
+
+* [https://www.spiegel.de/wirtschaft/service/immobilien-europaeische-zentralbank-mahnt-zur-vorsicht-bei-krediten](https://www.spiegel.de/wirtschaft/service/immobilien-europaeische-zentralbank-mahnt-zur-vorsicht-bei-krediten-a-e63dca30-752c-4a3f-88ed-7471d603f1ff#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-landeswahlleitung-will-einspruch-einlegen](https://www.spiegel.de/politik/deutschland/berlin-wahl-landeswahlleitung-will-einspruch-einlegen-a-02898869-c41a-43be-88e8-756d37498de6#ref=rss)
+### feuerwehrleute
+
+* [https://www.spiegel.de/panorama/kalifornien-mehr-als-1000-feuerwehrleute-kaempfen-gegen-neuen-waldbrand](https://www.spiegel.de/panorama/kalifornien-mehr-als-1000-feuerwehrleute-kaempfen-gegen-neuen-waldbrand-a-14845984-0074-4460-9e15-486dc3bee6b7#ref=rss)
+### prinz
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus](https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus-a-08ed08a3-ff59-46ba-b1f9-da84ed80b817#ref=rss)
+### william
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus](https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus-a-08ed08a3-ff59-46ba-b1f9-da84ed80b817#ref=rss)
+### musk
+
+* [https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus](https://www.spiegel.de/panorama/leute/prinz-william-uebt-kritik-an-weltraumtourismus-a-08ed08a3-ff59-46ba-b1f9-da84ed80b817#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktionaere-aeussern-unmut-mit-konzernfuehrung](https://www.spiegel.de/wirtschaft/unternehmen/tesla-aktionaere-aeussern-unmut-mit-konzernfuehrung-a-cb74f464-b54b-46df-8390-5d11a463f73f#ref=rss)
+### weinsberg
+
+* [https://www.spiegel.de/panorama/justiz/weinsberg-zwei-maenner-nach-ausbruch-aus-deutscher-psychiatrie-in-spanien-festgenommen](https://www.spiegel.de/panorama/justiz/weinsberg-zwei-maenner-nach-ausbruch-aus-deutscher-psychiatrie-in-spanien-festgenommen-a-7e43de04-cdd0-4e83-aa68-35915f31b1f5#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/panorama/justiz/weinsberg-zwei-maenner-nach-ausbruch-aus-deutscher-psychiatrie-in-spanien-festgenommen](https://www.spiegel.de/panorama/justiz/weinsberg-zwei-maenner-nach-ausbruch-aus-deutscher-psychiatrie-in-spanien-festgenommen-a-7e43de04-cdd0-4e83-aa68-35915f31b1f5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/florida-kleinkind-erschoss-mutter-in-videoschalte-vater-festgenommen](https://www.spiegel.de/panorama/justiz/florida-kleinkind-erschoss-mutter-in-videoschalte-vater-festgenommen-a-0f1e6394-bef0-412b-80c7-d40882b30767#ref=rss)
+### landeswahlleitung
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-landeswahlleitung-will-einspruch-einlegen](https://www.spiegel.de/politik/deutschland/berlin-wahl-landeswahlleitung-will-einspruch-einlegen-a-02898869-c41a-43be-88e8-756d37498de6#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-landeswahlleitung-will-einspruch-einlegen](https://www.spiegel.de/politik/deutschland/berlin-wahl-landeswahlleitung-will-einspruch-einlegen-a-02898869-c41a-43be-88e8-756d37498de6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/franziska-giffey-strebt-regierung-mit-gruenen-und-linken-an](https://www.spiegel.de/politik/deutschland/franziska-giffey-strebt-regierung-mit-gruenen-und-linken-an-a-f5dcac78-cf89-44a4-b8e3-34781302c76c#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-landeswahlleitung-will-einspruch-einlegen](https://www.spiegel.de/politik/deutschland/berlin-wahl-landeswahlleitung-will-einspruch-einlegen-a-02898869-c41a-43be-88e8-756d37498de6#ref=rss)
+* [https://www.spiegel.de/sport/fifa-die-beliebte-spielereihe-koennte-bald-anders-heissen-das-steckt-dahinter](https://www.spiegel.de/sport/fifa-die-beliebte-spielereihe-koennte-bald-anders-heissen-das-steckt-dahinter-a-10323bb3-2ea7-49cb-a3fb-074239257319#ref=rss)
+### agde
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-seniorin-in-agde-gekoepft](https://www.spiegel.de/panorama/justiz/frankreich-seniorin-in-agde-gekoepft-a-fb6813d6-31bf-4696-a414-6dfca6172f2a#ref=rss)
+### süden
+
+* [https://www.spiegel.de/panorama/justiz/frankreich-seniorin-in-agde-gekoepft](https://www.spiegel.de/panorama/justiz/frankreich-seniorin-in-agde-gekoepft-a-fb6813d6-31bf-4696-a414-6dfca6172f2a#ref=rss)
+* [https://www.spiegel.de/panorama/taiwan-dutzende-tote-nach-brand-in-geisterhaus](https://www.spiegel.de/panorama/taiwan-dutzende-tote-nach-brand-in-geisterhaus-a-5bfd673d-809a-4293-8912-3660bd393ed0#ref=rss)
+### coronakrise
+
+* [https://www.spiegel.de/panorama/gesellschaft/corona-jahr-2020-die-stadtbevoelkerung-waechst-nicht-mehr](https://www.spiegel.de/panorama/gesellschaft/corona-jahr-2020-die-stadtbevoelkerung-waechst-nicht-mehr-a-ad16594c-8c21-4438-989c-aa7dc3be9c4d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gemeinschaftsdiagnose-wirtschaftsforscher-werden-pessimistischer](https://www.spiegel.de/wirtschaft/unternehmen/gemeinschaftsdiagnose-wirtschaftsforscher-werden-pessimistischer-a-1fe8ef35-fd81-4b23-bd66-55b2016231bf#ref=rss)
+### meinungsforscherin
+
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei-a-7e8f9175-cdc4-437a-b3ff-09cd6ca21c05#ref=rss)
+### korruptionsaffäre
+
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei-a-7e8f9175-cdc4-437a-b3ff-09cd6ca21c05#ref=rss)
+* [https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-um-ex-kanzler-sebastian-kurz-warten-auf-den-finalen-sturz](https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-um-ex-kanzler-sebastian-kurz-warten-auf-den-finalen-sturz-a-4099eb38-4e7e-4dc2-ae83-9c14d54b7fc0#ref=rss)
+### exkanzler
+
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei-a-7e8f9175-cdc4-437a-b3ff-09cd6ca21c05#ref=rss)
+* [https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-um-ex-kanzler-sebastian-kurz-warten-auf-den-finalen-sturz](https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-um-ex-kanzler-sebastian-kurz-warten-auf-den-finalen-sturz-a-4099eb38-4e7e-4dc2-ae83-9c14d54b7fc0#ref=rss)
+### rolle
+
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-festgenommene-meinungsforscherin-wieder-frei-a-7e8f9175-cdc4-437a-b3ff-09cd6ca21c05#ref=rss)
+* [https://www.spiegel.de/panorama/leute/george-clooney-ueber-seine-batman-rolle-ich-habe-es-so-sehr-versaut](https://www.spiegel.de/panorama/leute/george-clooney-ueber-seine-batman-rolle-ich-habe-es-so-sehr-versaut-a-79b074e5-85b2-423a-a45c-cab3e0a5287d#ref=rss)
+### fifa
+
+* [https://www.spiegel.de/sport/fifa-die-beliebte-spielereihe-koennte-bald-anders-heissen-das-steckt-dahinter](https://www.spiegel.de/sport/fifa-die-beliebte-spielereihe-koennte-bald-anders-heissen-das-steckt-dahinter-a-10323bb3-2ea7-49cb-a3fb-074239257319#ref=rss)
+### bald
+
+* [https://www.spiegel.de/sport/fifa-die-beliebte-spielereihe-koennte-bald-anders-heissen-das-steckt-dahinter](https://www.spiegel.de/sport/fifa-die-beliebte-spielereihe-koennte-bald-anders-heissen-das-steckt-dahinter-a-10323bb3-2ea7-49cb-a3fb-074239257319#ref=rss)
+### unter
+
+* [https://www.spiegel.de/sport/fifa-die-beliebte-spielereihe-koennte-bald-anders-heissen-das-steckt-dahinter](https://www.spiegel.de/sport/fifa-die-beliebte-spielereihe-koennte-bald-anders-heissen-das-steckt-dahinter-a-10323bb3-2ea7-49cb-a3fb-074239257319#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/norwegens-polizei-hatte-bogenschuetzen-von-kongsberg-unter-beobachtunmg](https://www.spiegel.de/panorama/justiz/norwegens-polizei-hatte-bogenschuetzen-von-kongsberg-unter-beobachtunmg-a-db60dc7a-a50c-4863-8fd6-9103675c0174#ref=rss)
+### ums
+
+* [https://www.spiegel.de/sport/fifa-die-beliebte-spielereihe-koennte-bald-anders-heissen-das-steckt-dahinter](https://www.spiegel.de/sport/fifa-die-beliebte-spielereihe-koennte-bald-anders-heissen-das-steckt-dahinter-a-10323bb3-2ea7-49cb-a3fb-074239257319#ref=rss)
+* [https://www.spiegel.de/panorama/taiwan-dutzende-tote-nach-brand-in-geisterhaus](https://www.spiegel.de/panorama/taiwan-dutzende-tote-nach-brand-in-geisterhaus-a-5bfd673d-809a-4293-8912-3660bd393ed0#ref=rss)
+### china
+
+* [https://www.spiegel.de/wissenschaft/weltall/china-astronauten-wollen-sechs-monate-im-all-verbringen](https://www.spiegel.de/wissenschaft/weltall/china-astronauten-wollen-sechs-monate-im-all-verbringen-a-a8b86ec5-c36a-4640-add8-b5ec2ad65f0a#ref=rss)
+### jeder
+
+* [https://www.spiegel.de/wissenschaft/corona-experten-jeder-zweite-wissenschaftler-wird-attackiert](https://www.spiegel.de/wissenschaft/corona-experten-jeder-zweite-wissenschaftler-wird-attackiert-a-4305d248-a262-4fc3-a0cc-6fc69f4c823a#ref=rss)
+### zweite
+
+* [https://www.spiegel.de/wissenschaft/corona-experten-jeder-zweite-wissenschaftler-wird-attackiert](https://www.spiegel.de/wissenschaft/corona-experten-jeder-zweite-wissenschaftler-wird-attackiert-a-4305d248-a262-4fc3-a0cc-6fc69f4c823a#ref=rss)
+### attackiert
+
+* [https://www.spiegel.de/wissenschaft/corona-experten-jeder-zweite-wissenschaftler-wird-attackiert](https://www.spiegel.de/wissenschaft/corona-experten-jeder-zweite-wissenschaftler-wird-attackiert-a-4305d248-a262-4fc3-a0cc-6fc69f4c823a#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/justiz/florida-kleinkind-erschoss-mutter-in-videoschalte-vater-festgenommen](https://www.spiegel.de/panorama/justiz/florida-kleinkind-erschoss-mutter-in-videoschalte-vater-festgenommen-a-0f1e6394-bef0-412b-80c7-d40882b30767#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/justiz/florida-kleinkind-erschoss-mutter-in-videoschalte-vater-festgenommen](https://www.spiegel.de/panorama/justiz/florida-kleinkind-erschoss-mutter-in-videoschalte-vater-festgenommen-a-0f1e6394-bef0-412b-80c7-d40882b30767#ref=rss)
+### kongsberg
+
+* [https://www.spiegel.de/panorama/justiz/norwegens-polizei-hatte-bogenschuetzen-von-kongsberg-unter-beobachtunmg](https://www.spiegel.de/panorama/justiz/norwegens-polizei-hatte-bogenschuetzen-von-kongsberg-unter-beobachtunmg-a-db60dc7a-a50c-4863-8fd6-9103675c0174#ref=rss)
+### bali
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-bali-empfaengt-geimpfte-touristen-aus-19-laendern-deutschland-nicht-dabei](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-bali-empfaengt-geimpfte-touristen-aus-19-laendern-deutschland-nicht-dabei-a-04163aef-0eee-42a6-8600-10b810f9e787#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-bali-empfaengt-geimpfte-touristen-aus-19-laendern-deutschland-nicht-dabei](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-bali-empfaengt-geimpfte-touristen-aus-19-laendern-deutschland-nicht-dabei-a-04163aef-0eee-42a6-8600-10b810f9e787#ref=rss)
+### dutzende
+
+* [https://www.spiegel.de/panorama/taiwan-dutzende-tote-nach-brand-in-geisterhaus](https://www.spiegel.de/panorama/taiwan-dutzende-tote-nach-brand-in-geisterhaus-a-5bfd673d-809a-4293-8912-3660bd393ed0#ref=rss)
+### george
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-ueber-seine-batman-rolle-ich-habe-es-so-sehr-versaut](https://www.spiegel.de/panorama/leute/george-clooney-ueber-seine-batman-rolle-ich-habe-es-so-sehr-versaut-a-79b074e5-85b2-423a-a45c-cab3e0a5287d#ref=rss)
+### clooney
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-ueber-seine-batman-rolle-ich-habe-es-so-sehr-versaut](https://www.spiegel.de/panorama/leute/george-clooney-ueber-seine-batman-rolle-ich-habe-es-so-sehr-versaut-a-79b074e5-85b2-423a-a45c-cab3e0a5287d#ref=rss)
 
