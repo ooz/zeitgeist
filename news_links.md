@@ -4,310 +4,277 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
+### spd
 
-* [https://www.spiegel.de/politik/deutschland/afghanistan-neuer-flug-soll-219-menschen-evakuieren](https://www.spiegel.de/politik/deutschland/afghanistan-neuer-flug-soll-219-menschen-evakuieren-a-9bc1dcbd-7170-45b1-9462-5648e99dbd59#ref=rss)
-* [https://www.spiegel.de/ausland/norwegen-was-ueber-den-bogenschuetzen-von-kongsberg-bekannt-ist](https://www.spiegel.de/ausland/norwegen-was-ueber-den-bogenschuetzen-von-kongsberg-bekannt-ist-a-7ad37228-5e30-4295-8807-afbfe6177a03#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/who-corona-wirft-kampf-gegen-tuberkulose-um-jahre-zurueck](https://www.spiegel.de/wissenschaft/medizin/who-corona-wirft-kampf-gegen-tuberkulose-um-jahre-zurueck-a-3cfa2415-42da-4fc9-8f61-44d3130a898a#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-am-wochenende-philine-bringt-sonnige-tage-falls-sich-der-nebel-verzieht](https://www.spiegel.de/panorama/wetter-am-wochenende-philine-bringt-sonnige-tage-falls-sich-der-nebel-verzieht-a-3480a582-6f32-4c93-90dd-13947ed4658c#ref=rss)
-### neue
+* [https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde](https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde-a-cf576dd4-98de-4d27-9f53-2703bae214bc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ig-metall-und-bdi-fordern-massive-oeffentliche-investitionen](https://www.spiegel.de/wirtschaft/ig-metall-und-bdi-fordern-massive-oeffentliche-investitionen-a-44d6ee58-f688-482b-a668-9a8936ea6dd3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab-a-89622bc6-5bf9-4059-b3f7-0f09559b46e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise](https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise-a-e6f4680f-6fde-4ee6-8957-ea49e84c6bef#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/politik/rot-rot-in-schwerin-schwesigs-neue-allianz-der-frauen](https://www.spiegel.de/politik/rot-rot-in-schwerin-schwesigs-neue-allianz-der-frauen-a-f13339e5-64fc-45cd-ae8b-5acf236b88f9#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden](https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden-a-e4d7ce45-e33b-4d2d-8523-459d7f6ee137#ref=rss)
-* [https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben](https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben-a-dc1ede1a-689e-4ba1-8879-5cd1a1278802#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen](https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen-a-6d122dde-85b4-4de2-bee1-247ee3d19c7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-gericht-stoppt-berufung-von-neuer-vizepraesidentin](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-gericht-stoppt-berufung-von-neuer-vizepraesidentin-a-99de842d-1a64-4665-bfa6-fe6018708840#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-neuer-flug-soll-219-menschen-evakuieren](https://www.spiegel.de/politik/deutschland/afghanistan-neuer-flug-soll-219-menschen-evakuieren-a-9bc1dcbd-7170-45b1-9462-5648e99dbd59#ref=rss)
-* [https://www.spiegel.de/panorama/windschattenfahren-radsportler-bricht-deutschlandrekord](https://www.spiegel.de/panorama/windschattenfahren-radsportler-bricht-deutschlandrekord-a-0f5a3af7-6de0-4a20-84f3-a67e062c84e3#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen](https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen-a-6d122dde-85b4-4de2-bee1-247ee3d19c7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-verzeichnet-starken-rueckgang-der-erwerbsfaehigen-bevoelkerung](https://www.spiegel.de/wirtschaft/soziales/deutschland-verzeichnet-starken-rueckgang-der-erwerbsfaehigen-bevoelkerung-a-81bb4d43-c303-4b62-9513-d0c30c97502c#ref=rss)
-### euro
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf](https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf-a-3c83791e-33fc-40ef-97ba-8ef21910f5d7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-landgericht-dresden-hebt-einen-haftbefehl-auf](https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-landgericht-dresden-hebt-einen-haftbefehl-auf-a-5e5d1933-0ae3-4683-8781-90ec919d9882#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-investiert-365-millionen-euro-in-start-ups](https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-investiert-365-millionen-euro-in-start-ups-a-2a76a65f-75cb-4973-9190-c2494bca0be6#ref=rss)
-### leben
-
-* [https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender](https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender-a-13db9066-aa6f-45dd-831a-57031dae29da#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-und-die-grenze-zu-polen-polizisten-finden-toten-syrer](https://www.spiegel.de/ausland/belarus-und-die-grenze-zu-polen-polizisten-finden-toten-syrer-a-b045519d-c1c3-407e-a56b-7f09accf3731#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/england-obdachloser-gesteht-mord-um-nicht-mehr-auf-der-strasse-leben-zu-muessen](https://www.spiegel.de/panorama/justiz/england-obdachloser-gesteht-mord-um-nicht-mehr-auf-der-strasse-leben-zu-muessen-a-55612285-a43f-4623-b352-8782f39c9ba4#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-1100-haushalte-sind-wieder-ans-gasnetz-angeschlossen](https://www.spiegel.de/panorama/flut-im-ahrtal-1100-haushalte-sind-wieder-ans-gasnetz-angeschlossen-a-58aa3719-480a-4527-84ac-b968011838c8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/cevdet-caner-reagiert-auf-vorwuerfe-von-fraser-perring-was-da-laeuft-ist-ein-komplott-gegen-mich](https://www.spiegel.de/wirtschaft/unternehmen/cevdet-caner-reagiert-auf-vorwuerfe-von-fraser-perring-was-da-laeuft-ist-ein-komplott-gegen-mich-a-e46d749c-a141-44e9-b0e2-a801e337709f#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen](https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen-a-6d122dde-85b4-4de2-bee1-247ee3d19c7b#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/politik/rot-rot-in-schwerin-schwesigs-neue-allianz-der-frauen](https://www.spiegel.de/politik/rot-rot-in-schwerin-schwesigs-neue-allianz-der-frauen-a-f13339e5-64fc-45cd-ae8b-5acf236b88f9#ref=rss)
-* [https://www.spiegel.de/ausland/belgien-frauen-klagen-wegen-verbrechen-gegen-menschlichkeit-in-der-kolonialzeit](https://www.spiegel.de/ausland/belgien-frauen-klagen-wegen-verbrechen-gegen-menschlichkeit-in-der-kolonialzeit-a-a915ab7e-0915-47ea-b56b-612199718d15#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde](https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde-a-cf576dd4-98de-4d27-9f53-2703bae214bc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ig-metall-und-bdi-fordern-massive-oeffentliche-investitionen](https://www.spiegel.de/wirtschaft/ig-metall-und-bdi-fordern-massive-oeffentliche-investitionen-a-44d6ee58-f688-482b-a668-9a8936ea6dd3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab-a-89622bc6-5bf9-4059-b3f7-0f09559b46e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise](https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise-a-e6f4680f-6fde-4ee6-8957-ea49e84c6bef#ref=rss)
 ### kurz
 
-* [https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden](https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden-a-e4d7ce45-e33b-4d2d-8523-459d7f6ee137#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/sebastian-kurz-auf-twitter-ganz-kurz-wieder-bundeskanzler](https://www.spiegel.de/netzwelt/web/sebastian-kurz-auf-twitter-ganz-kurz-wieder-bundeskanzler-a-ccee3ec2-a2f9-4466-9b2c-826be3010028#ref=rss)
-### millionen
+* [https://www.spiegel.de/politik/nur-kurz-weg](https://www.spiegel.de/politik/nur-kurz-weg-a-d4352040-6c9c-4d27-b503-d2653ac73c44#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden-a-592f9880-f364-41df-ab7e-85b2aed997e9#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere-a-4a47b92e-7451-4647-943c-6ce6503fb89e#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-landgericht-dresden-hebt-einen-haftbefehl-auf](https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-landgericht-dresden-hebt-einen-haftbefehl-auf-a-5e5d1933-0ae3-4683-8781-90ec919d9882#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/who-corona-wirft-kampf-gegen-tuberkulose-um-jahre-zurueck](https://www.spiegel.de/wissenschaft/medizin/who-corona-wirft-kampf-gegen-tuberkulose-um-jahre-zurueck-a-3cfa2415-42da-4fc9-8f61-44d3130a898a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-investiert-365-millionen-euro-in-start-ups](https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-investiert-365-millionen-euro-in-start-ups-a-2a76a65f-75cb-4973-9190-c2494bca0be6#ref=rss)
-### usa
+* [https://www.spiegel.de/wirtschaft/handelsverband-fordert-sonderabschreibungen-fuer-die-innenstaedte](https://www.spiegel.de/wirtschaft/handelsverband-fordert-sonderabschreibungen-fuer-die-innenstaedte-a-c5e17f3b-c40e-4d96-a521-401f009e9f42#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise](https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise-a-e6f4680f-6fde-4ee6-8957-ea49e84c6bef#ref=rss)
+### album
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-grossbanken-machen-satte-gewinne](https://www.spiegel.de/wirtschaft/unternehmen/usa-grossbanken-machen-satte-gewinne-a-59b17ee3-b779-4916-badd-cf1eea8d2cdf#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen](https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen-a-6d122dde-85b4-4de2-bee1-247ee3d19c7b#ref=rss)
-### milliarden
+* [https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche-a-cb92002b-7c2e-4939-90bb-542dce59b996#ref=rss)
+* [https://www.spiegel.de/panorama/leute/helene-fischer-spricht-ueber-neues-album-rausch-und-schwangerschaft](https://www.spiegel.de/panorama/leute/helene-fischer-spricht-ueber-neues-album-rausch-und-schwangerschaft-a-b9847455-9503-47b2-819d-62d305185108#ref=rss)
+### sebastian
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-grossbanken-machen-satte-gewinne](https://www.spiegel.de/wirtschaft/unternehmen/usa-grossbanken-machen-satte-gewinne-a-59b17ee3-b779-4916-badd-cf1eea8d2cdf#ref=rss)
-### pfotenabdruck
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden-a-592f9880-f364-41df-ab7e-85b2aed997e9#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere-a-4a47b92e-7451-4647-943c-6ce6503fb89e#ref=rss)
+### grüne
 
-* [https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender](https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender-a-13db9066-aa6f-45dd-831a-57031dae29da#ref=rss)
-### hunde
-
-* [https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender](https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender-a-13db9066-aa6f-45dd-831a-57031dae29da#ref=rss)
-### katzen
-
-* [https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender](https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender-a-13db9066-aa6f-45dd-831a-57031dae29da#ref=rss)
-### rund
-
-* [https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender](https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender-a-13db9066-aa6f-45dd-831a-57031dae29da#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/who-corona-wirft-kampf-gegen-tuberkulose-um-jahre-zurueck](https://www.spiegel.de/wissenschaft/medizin/who-corona-wirft-kampf-gegen-tuberkulose-um-jahre-zurueck-a-3cfa2415-42da-4fc9-8f61-44d3130a898a#ref=rss)
-### pro
-
-* [https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender](https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender-a-13db9066-aa6f-45dd-831a-57031dae29da#ref=rss)
-* [https://www.spiegel.de/panorama/windschattenfahren-radsportler-bricht-deutschlandrekord](https://www.spiegel.de/panorama/windschattenfahren-radsportler-bricht-deutschlandrekord-a-0f5a3af7-6de0-4a20-84f3-a67e062c84e3#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender](https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender-a-13db9066-aa6f-45dd-831a-57031dae29da#ref=rss)
-* [https://www.spiegel.de/panorama/windschattenfahren-radsportler-bricht-deutschlandrekord](https://www.spiegel.de/panorama/windschattenfahren-radsportler-bricht-deutschlandrekord-a-0f5a3af7-6de0-4a20-84f3-a67e062c84e3#ref=rss)
-### verschärfen
-
-* [https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender](https://www.spiegel.de/wissenschaft/natur/oekologischer-pfotenabdruck-hunde-und-katzen-sind-schlimme-klimasuender-a-13db9066-aa6f-45dd-831a-57031dae29da#ref=rss)
-* [https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben](https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben-a-dc1ede1a-689e-4ba1-8879-5cd1a1278802#ref=rss)
-### belarus
-
-* [https://www.spiegel.de/ausland/belarus-und-die-grenze-zu-polen-polizisten-finden-toten-syrer](https://www.spiegel.de/ausland/belarus-und-die-grenze-zu-polen-polizisten-finden-toten-syrer-a-b045519d-c1c3-407e-a56b-7f09accf3731#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/belarus-und-die-grenze-zu-polen-polizisten-finden-toten-syrer](https://www.spiegel.de/ausland/belarus-und-die-grenze-zu-polen-polizisten-finden-toten-syrer-a-b045519d-c1c3-407e-a56b-7f09accf3731#ref=rss)
-### jungen
-
-* [https://www.spiegel.de/ausland/belarus-und-die-grenze-zu-polen-polizisten-finden-toten-syrer](https://www.spiegel.de/ausland/belarus-und-die-grenze-zu-polen-polizisten-finden-toten-syrer-a-b045519d-c1c3-407e-a56b-7f09accf3731#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag-a-0fa521e0-7b97-431a-8657-ff6deb61934e#ref=rss)
-### landtag
-
-* [https://www.spiegel.de/politik/deutschland/afd-erhaelt-vorerst-keinen-vizepraesidenten-posten-im-landtag](https://www.spiegel.de/politik/deutschland/afd-erhaelt-vorerst-keinen-vizepraesidenten-posten-im-landtag-a-0773a524-baac-472a-b8a5-53f2b33e13df#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/afd-erhaelt-vorerst-keinen-vizepraesidenten-posten-im-landtag](https://www.spiegel.de/politik/deutschland/afd-erhaelt-vorerst-keinen-vizepraesidenten-posten-im-landtag-a-0773a524-baac-472a-b8a5-53f2b33e13df#ref=rss)
-* [https://www.spiegel.de/politik/rot-rot-in-schwerin-schwesigs-neue-allianz-der-frauen](https://www.spiegel.de/politik/rot-rot-in-schwerin-schwesigs-neue-allianz-der-frauen-a-f13339e5-64fc-45cd-ae8b-5acf236b88f9#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/politik/deutschland/afd-erhaelt-vorerst-keinen-vizepraesidenten-posten-im-landtag](https://www.spiegel.de/politik/deutschland/afd-erhaelt-vorerst-keinen-vizepraesidenten-posten-im-landtag-a-0773a524-baac-472a-b8a5-53f2b33e13df#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-wahl-was-der-einspruch-der-berliner-landeswahlleiterin-bedeutet](https://www.spiegel.de/panorama/justiz/berlin-wahl-was-der-einspruch-der-berliner-landeswahlleiterin-bedeutet-a-f56b7597-c656-40eb-9f9c-6b5a68fadf1c#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/afd-erhaelt-vorerst-keinen-vizepraesidenten-posten-im-landtag](https://www.spiegel.de/politik/deutschland/afd-erhaelt-vorerst-keinen-vizepraesidenten-posten-im-landtag-a-0773a524-baac-472a-b8a5-53f2b33e13df#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-grossbanken-machen-satte-gewinne](https://www.spiegel.de/wirtschaft/unternehmen/usa-grossbanken-machen-satte-gewinne-a-59b17ee3-b779-4916-badd-cf1eea8d2cdf#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-neuer-flug-soll-219-menschen-evakuieren](https://www.spiegel.de/politik/deutschland/afghanistan-neuer-flug-soll-219-menschen-evakuieren-a-9bc1dcbd-7170-45b1-9462-5648e99dbd59#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-neuer-flug-soll-219-menschen-evakuieren](https://www.spiegel.de/politik/deutschland/afghanistan-neuer-flug-soll-219-menschen-evakuieren-a-9bc1dcbd-7170-45b1-9462-5648e99dbd59#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-gericht-stoppt-berufung-von-neuer-vizepraesidentin](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-gericht-stoppt-berufung-von-neuer-vizepraesidentin-a-99de842d-1a64-4665-bfa6-fe6018708840#ref=rss)
-### flug
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-neuer-flug-soll-219-menschen-evakuieren](https://www.spiegel.de/politik/deutschland/afghanistan-neuer-flug-soll-219-menschen-evakuieren-a-9bc1dcbd-7170-45b1-9462-5648e99dbd59#ref=rss)
-* [https://www.spiegel.de/auto/alitalia-aus-der-letzte-flug](https://www.spiegel.de/auto/alitalia-aus-der-letzte-flug-a-acf72212-ed6b-4b68-882f-97ce06b7609c#ref=rss)
-### 219
-
-* [https://www.spiegel.de/politik/deutschland/afghanistan-neuer-flug-soll-219-menschen-evakuieren](https://www.spiegel.de/politik/deutschland/afghanistan-neuer-flug-soll-219-menschen-evakuieren-a-9bc1dcbd-7170-45b1-9462-5648e99dbd59#ref=rss)
-### ahrtal
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-1100-haushalte-sind-wieder-ans-gasnetz-angeschlossen](https://www.spiegel.de/panorama/flut-im-ahrtal-1100-haushalte-sind-wieder-ans-gasnetz-angeschlossen-a-58aa3719-480a-4527-84ac-b968011838c8#ref=rss)
-### haushalte
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-1100-haushalte-sind-wieder-ans-gasnetz-angeschlossen](https://www.spiegel.de/panorama/flut-im-ahrtal-1100-haushalte-sind-wieder-ans-gasnetz-angeschlossen-a-58aa3719-480a-4527-84ac-b968011838c8#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/flut-im-ahrtal-1100-haushalte-sind-wieder-ans-gasnetz-angeschlossen](https://www.spiegel.de/panorama/flut-im-ahrtal-1100-haushalte-sind-wieder-ans-gasnetz-angeschlossen-a-58aa3719-480a-4527-84ac-b968011838c8#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen](https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen-a-6d122dde-85b4-4de2-bee1-247ee3d19c7b#ref=rss)
-### fliegen
-
-* [https://www.spiegel.de/auto/alitalia-aus-der-letzte-flug](https://www.spiegel.de/auto/alitalia-aus-der-letzte-flug-a-acf72212-ed6b-4b68-882f-97ce06b7609c#ref=rss)
-### reise
-
-* [https://www.spiegel.de/auto/alitalia-aus-der-letzte-flug](https://www.spiegel.de/auto/alitalia-aus-der-letzte-flug-a-acf72212-ed6b-4b68-882f-97ce06b7609c#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/sebastian-kurz-auf-twitter-ganz-kurz-wieder-bundeskanzler](https://www.spiegel.de/netzwelt/web/sebastian-kurz-auf-twitter-ganz-kurz-wieder-bundeskanzler-a-ccee3ec2-a2f9-4466-9b2c-826be3010028#ref=rss)
-### einspruch
-
-* [https://www.spiegel.de/panorama/justiz/berlin-wahl-was-der-einspruch-der-berliner-landeswahlleiterin-bedeutet](https://www.spiegel.de/panorama/justiz/berlin-wahl-was-der-einspruch-der-berliner-landeswahlleiterin-bedeutet-a-f56b7597-c656-40eb-9f9c-6b5a68fadf1c#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/panorama/justiz/berlin-wahl-was-der-einspruch-der-berliner-landeswahlleiterin-bedeutet](https://www.spiegel.de/panorama/justiz/berlin-wahl-was-der-einspruch-der-berliner-landeswahlleiterin-bedeutet-a-f56b7597-c656-40eb-9f9c-6b5a68fadf1c#ref=rss)
-### landeswahlleiterin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-wahl-was-der-einspruch-der-berliner-landeswahlleiterin-bedeutet](https://www.spiegel.de/panorama/justiz/berlin-wahl-was-der-einspruch-der-berliner-landeswahlleiterin-bedeutet-a-f56b7597-c656-40eb-9f9c-6b5a68fadf1c#ref=rss)
-### cevdet
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/cevdet-caner-reagiert-auf-vorwuerfe-von-fraser-perring-was-da-laeuft-ist-ein-komplott-gegen-mich](https://www.spiegel.de/wirtschaft/unternehmen/cevdet-caner-reagiert-auf-vorwuerfe-von-fraser-perring-was-da-laeuft-ist-ein-komplott-gegen-mich-a-e46d749c-a141-44e9-b0e2-a801e337709f#ref=rss)
-### caner
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/cevdet-caner-reagiert-auf-vorwuerfe-von-fraser-perring-was-da-laeuft-ist-ein-komplott-gegen-mich](https://www.spiegel.de/wirtschaft/unternehmen/cevdet-caner-reagiert-auf-vorwuerfe-von-fraser-perring-was-da-laeuft-ist-ein-komplott-gegen-mich-a-e46d749c-a141-44e9-b0e2-a801e337709f#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/cevdet-caner-reagiert-auf-vorwuerfe-von-fraser-perring-was-da-laeuft-ist-ein-komplott-gegen-mich](https://www.spiegel.de/wirtschaft/unternehmen/cevdet-caner-reagiert-auf-vorwuerfe-von-fraser-perring-was-da-laeuft-ist-ein-komplott-gegen-mich-a-e46d749c-a141-44e9-b0e2-a801e337709f#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden](https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden-a-e4d7ce45-e33b-4d2d-8523-459d7f6ee137#ref=rss)
-### passt
-
-* [https://www.spiegel.de/politik/rot-rot-in-schwerin-schwesigs-neue-allianz-der-frauen](https://www.spiegel.de/politik/rot-rot-in-schwerin-schwesigs-neue-allianz-der-frauen-a-f13339e5-64fc-45cd-ae8b-5acf236b88f9#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-ortsname-zu-lang-bewohner-warten-auf-personalausweise](https://www.spiegel.de/panorama/frankreich-ortsname-zu-lang-bewohner-warten-auf-personalausweise-a-fe09b814-0b44-4f81-8ed9-4b770bc53a05#ref=rss)
-### radsportler
-
-* [https://www.spiegel.de/panorama/windschattenfahren-radsportler-bricht-deutschlandrekord](https://www.spiegel.de/panorama/windschattenfahren-radsportler-bricht-deutschlandrekord-a-0f5a3af7-6de0-4a20-84f3-a67e062c84e3#ref=rss)
-### schneller
-
-* [https://www.spiegel.de/panorama/windschattenfahren-radsportler-bricht-deutschlandrekord](https://www.spiegel.de/panorama/windschattenfahren-radsportler-bricht-deutschlandrekord-a-0f5a3af7-6de0-4a20-84f3-a67e062c84e3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-verzeichnet-starken-rueckgang-der-erwerbsfaehigen-bevoelkerung](https://www.spiegel.de/wirtschaft/soziales/deutschland-verzeichnet-starken-rueckgang-der-erwerbsfaehigen-bevoelkerung-a-81bb4d43-c303-4b62-9513-d0c30c97502c#ref=rss)
-### andere
-
-* [https://www.spiegel.de/panorama/windschattenfahren-radsportler-bricht-deutschlandrekord](https://www.spiegel.de/panorama/windschattenfahren-radsportler-bricht-deutschlandrekord-a-0f5a3af7-6de0-4a20-84f3-a67e062c84e3#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/sebastian-kurz-auf-twitter-ganz-kurz-wieder-bundeskanzler](https://www.spiegel.de/netzwelt/web/sebastian-kurz-auf-twitter-ganz-kurz-wieder-bundeskanzler-a-ccee3ec2-a2f9-4466-9b2c-826be3010028#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/england-obdachloser-gesteht-mord-um-nicht-mehr-auf-der-strasse-leben-zu-muessen](https://www.spiegel.de/panorama/justiz/england-obdachloser-gesteht-mord-um-nicht-mehr-auf-der-strasse-leben-zu-muessen-a-55612285-a43f-4623-b352-8782f39c9ba4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-landgericht-dresden-hebt-einen-haftbefehl-auf](https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-landgericht-dresden-hebt-einen-haftbefehl-auf-a-5e5d1933-0ae3-4683-8781-90ec919d9882#ref=rss)
-### verbrechen
-
-* [https://www.spiegel.de/panorama/justiz/england-obdachloser-gesteht-mord-um-nicht-mehr-auf-der-strasse-leben-zu-muessen](https://www.spiegel.de/panorama/justiz/england-obdachloser-gesteht-mord-um-nicht-mehr-auf-der-strasse-leben-zu-muessen-a-55612285-a43f-4623-b352-8782f39c9ba4#ref=rss)
-* [https://www.spiegel.de/ausland/belgien-frauen-klagen-wegen-verbrechen-gegen-menschlichkeit-in-der-kolonialzeit](https://www.spiegel.de/ausland/belgien-frauen-klagen-wegen-verbrechen-gegen-menschlichkeit-in-der-kolonialzeit-a-a915ab7e-0915-47ea-b56b-612199718d15#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf](https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf-a-3c83791e-33fc-40ef-97ba-8ef21910f5d7#ref=rss)
-### barcelona
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf](https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf-a-3c83791e-33fc-40ef-97ba-8ef21910f5d7#ref=rss)
-### jungstar
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf](https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf-a-3c83791e-33fc-40ef-97ba-8ef21910f5d7#ref=rss)
-### pedri
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf](https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf-a-3c83791e-33fc-40ef-97ba-8ef21910f5d7#ref=rss)
-### 1000000000
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf](https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf-a-3c83791e-33fc-40ef-97ba-8ef21910f5d7#ref=rss)
-### ablösesumme
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf](https://www.spiegel.de/sport/fussball/fc-barcelona-ruft-fuer-jungstar-pedri-1-000-000-000-euro-abloesesumme-auf-a-3c83791e-33fc-40ef-97ba-8ef21910f5d7#ref=rss)
-### emails
-
-* [https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden](https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden-a-e4d7ce45-e33b-4d2d-8523-459d7f6ee137#ref=rss)
-### kanzleramt
-
-* [https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden](https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden-a-e4d7ce45-e33b-4d2d-8523-459d7f6ee137#ref=rss)
-### österreichs
-
-* [https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden](https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden-a-e4d7ce45-e33b-4d2d-8523-459d7f6ee137#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/sebastian-kurz-auf-twitter-ganz-kurz-wieder-bundeskanzler](https://www.spiegel.de/netzwelt/web/sebastian-kurz-auf-twitter-ganz-kurz-wieder-bundeskanzler-a-ccee3ec2-a2f9-4466-9b2c-826be3010028#ref=rss)
-### gestoppt
-
-* [https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden](https://www.spiegel.de/ausland/oesterreich-emails-aus-kanzleramt-sollen-doch-nicht-geloescht-werden-a-e4d7ce45-e33b-4d2d-8523-459d7f6ee137#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-gericht-stoppt-berufung-von-neuer-vizepraesidentin](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-gericht-stoppt-berufung-von-neuer-vizepraesidentin-a-99de842d-1a64-4665-bfa6-fe6018708840#ref=rss)
-### welthungerindex
-
-* [https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben](https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben-a-dc1ede1a-689e-4ba1-8879-5cd1a1278802#ref=rss)
-### 2021
-
-* [https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben](https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben-a-dc1ede1a-689e-4ba1-8879-5cd1a1278802#ref=rss)
-### hunger
-
-* [https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben](https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben-a-dc1ede1a-689e-4ba1-8879-5cd1a1278802#ref=rss)
-### kampf
-
-* [https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben](https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben-a-dc1ede1a-689e-4ba1-8879-5cd1a1278802#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/who-corona-wirft-kampf-gegen-tuberkulose-um-jahre-zurueck](https://www.spiegel.de/wissenschaft/medizin/who-corona-wirft-kampf-gegen-tuberkulose-um-jahre-zurueck-a-3cfa2415-42da-4fc9-8f61-44d3130a898a#ref=rss)
-### droht
-
-* [https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben](https://www.spiegel.de/ausland/welthunger-index-2021-kinder-nehmen-drogen-weil-sie-hunger-haben-a-dc1ede1a-689e-4ba1-8879-5cd1a1278802#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag-a-0fa521e0-7b97-431a-8657-ff6deb61934e#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag-a-0fa521e0-7b97-431a-8657-ff6deb61934e#ref=rss)
-### chinas
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag-a-0fa521e0-7b97-431a-8657-ff6deb61934e#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen](https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen-a-6d122dde-85b4-4de2-bee1-247ee3d19c7b#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag-a-0fa521e0-7b97-431a-8657-ff6deb61934e#ref=rss)
-### deutschlandtag
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag-a-0fa521e0-7b97-431a-8657-ff6deb61934e#ref=rss)
-### wo
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag-a-0fa521e0-7b97-431a-8657-ff6deb61934e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-quiz-wer-ist-der-schnellste-spieler-der-bundesliga](https://www.spiegel.de/sport/fussball/fussball-quiz-wer-ist-der-schnellste-spieler-der-bundesliga-a-00b7f43b-ccc0-4841-b056-d8622c1e3b1e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde](https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde-a-cf576dd4-98de-4d27-9f53-2703bae214bc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ig-metall-und-bdi-fordern-massive-oeffentliche-investitionen](https://www.spiegel.de/wirtschaft/ig-metall-und-bdi-fordern-massive-oeffentliche-investitionen-a-44d6ee58-f688-482b-a668-9a8936ea6dd3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab-a-89622bc6-5bf9-4059-b3f7-0f09559b46e9#ref=rss)
 ### china
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-pannen-in-berlin-chinas-abschied-von-angela-merkel-junge-union-deutschlandtag-a-0fa521e0-7b97-431a-8657-ff6deb61934e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/who-corona-wirft-kampf-gegen-tuberkulose-um-jahre-zurueck](https://www.spiegel.de/wissenschaft/medizin/who-corona-wirft-kampf-gegen-tuberkulose-um-jahre-zurueck-a-3cfa2415-42da-4fc9-8f61-44d3130a898a#ref=rss)
-### kongsberg
+* [https://www.spiegel.de/ausland/indopazifik-wo-die-interessen-der-supermaechte-usa-und-china-direkt-aufeinandertreffen](https://www.spiegel.de/ausland/indopazifik-wo-die-interessen-der-supermaechte-usa-und-china-direkt-aufeinandertreffen-a-7f4270e7-0014-4a67-9657-9ab9fb687d72#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/microsoft-stellt-linkedin-in-china-ein](https://www.spiegel.de/netzwelt/web/microsoft-stellt-linkedin-in-china-ein-a-d2b9d139-7b5b-4a81-8e39-f5edec126d20#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/ausland/norwegen-was-ueber-den-bogenschuetzen-von-kongsberg-bekannt-ist](https://www.spiegel.de/ausland/norwegen-was-ueber-den-bogenschuetzen-von-kongsberg-bekannt-ist-a-7ad37228-5e30-4295-8807-afbfe6177a03#ref=rss)
-### fünf
+* [https://www.spiegel.de/politik/nur-kurz-weg](https://www.spiegel.de/politik/nur-kurz-weg-a-d4352040-6c9c-4d27-b503-d2653ac73c44#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden-a-592f9880-f364-41df-ab7e-85b2aed997e9#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere-a-4a47b92e-7451-4647-943c-6ce6503fb89e#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/ausland/norwegen-was-ueber-den-bogenschuetzen-von-kongsberg-bekannt-ist](https://www.spiegel.de/ausland/norwegen-was-ueber-den-bogenschuetzen-von-kongsberg-bekannt-ist-a-7ad37228-5e30-4295-8807-afbfe6177a03#ref=rss)
-* [https://www.spiegel.de/ausland/belgien-frauen-klagen-wegen-verbrechen-gegen-menschlichkeit-in-der-kolonialzeit](https://www.spiegel.de/ausland/belgien-frauen-klagen-wegen-verbrechen-gegen-menschlichkeit-in-der-kolonialzeit-a-a915ab7e-0915-47ea-b56b-612199718d15#ref=rss)
-### dresden
+* [https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen](https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen-a-79c6f8ed-782d-4d14-b80a-4fd899625508#ref=rss)
+* [https://www.spiegel.de/panorama/leute/daniel-craig-geht-in-schwulenbars-um-schlaegereien-zu-vermeiden](https://www.spiegel.de/panorama/leute/daniel-craig-geht-in-schwulenbars-um-schlaegereien-zu-vermeiden-a-e86802d8-2ab3-45d1-944f-9af7fa57a12a#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-landgericht-dresden-hebt-einen-haftbefehl-auf](https://www.spiegel.de/panorama/justiz/gruenes-gewoelbe-in-dresden-landgericht-dresden-hebt-einen-haftbefehl-auf-a-5e5d1933-0ae3-4683-8781-90ec919d9882#ref=rss)
-### großbanken
+* [https://www.spiegel.de/panorama/justiz/berlin-polizei-trifft-auf-widerstand-bei-koepi-raeumung](https://www.spiegel.de/panorama/justiz/berlin-polizei-trifft-auf-widerstand-bei-koepi-raeumung-a-29db6e09-0914-48c4-a487-672ce6e97804#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-polizei-befragt-verdaechtigen-im-fall-von-gekoepfter-seniorin](https://www.spiegel.de/panorama/justiz/frankreich-polizei-befragt-verdaechtigen-im-fall-von-gekoepfter-seniorin-a-4c4c6f38-6573-4cd8-927e-5d9863b01eb4#ref=rss)
+### neues
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-grossbanken-machen-satte-gewinne](https://www.spiegel.de/wirtschaft/unternehmen/usa-grossbanken-machen-satte-gewinne-a-59b17ee3-b779-4916-badd-cf1eea8d2cdf#ref=rss)
-### allem
+* [https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche-a-cb92002b-7c2e-4939-90bb-542dce59b996#ref=rss)
+* [https://www.spiegel.de/panorama/leute/helene-fischer-spricht-ueber-neues-album-rausch-und-schwangerschaft](https://www.spiegel.de/panorama/leute/helene-fischer-spricht-ueber-neues-album-rausch-und-schwangerschaft-a-b9847455-9503-47b2-819d-62d305185108#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-grossbanken-machen-satte-gewinne](https://www.spiegel.de/wirtschaft/unternehmen/usa-grossbanken-machen-satte-gewinne-a-59b17ee3-b779-4916-badd-cf1eea8d2cdf#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-am-wochenende-philine-bringt-sonnige-tage-falls-sich-der-nebel-verzieht](https://www.spiegel.de/panorama/wetter-am-wochenende-philine-bringt-sonnige-tage-falls-sich-der-nebel-verzieht-a-3480a582-6f32-4c93-90dd-13947ed4658c#ref=rss)
-### tuberkulose
+* [https://www.spiegel.de/familie/eltern-kolumne-mann-muesste-man-sein](https://www.spiegel.de/familie/eltern-kolumne-mann-muesste-man-sein-a-54735e43-dccb-4cc0-aead-fe3fb76639dd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-polizei-befragt-verdaechtigen-im-fall-von-gekoepfter-seniorin](https://www.spiegel.de/panorama/justiz/frankreich-polizei-befragt-verdaechtigen-im-fall-von-gekoepfter-seniorin-a-4c4c6f38-6573-4cd8-927e-5d9863b01eb4#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere-a-4a47b92e-7451-4647-943c-6ce6503fb89e#ref=rss)
+### koalitionsverhandlungen
 
-* [https://www.spiegel.de/wissenschaft/medizin/who-corona-wirft-kampf-gegen-tuberkulose-um-jahre-zurueck](https://www.spiegel.de/wissenschaft/medizin/who-corona-wirft-kampf-gegen-tuberkulose-um-jahre-zurueck-a-3cfa2415-42da-4fc9-8f61-44d3130a898a#ref=rss)
-### eukommission
+* [https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde](https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde-a-cf576dd4-98de-4d27-9f53-2703bae214bc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ig-metall-und-bdi-fordern-massive-oeffentliche-investitionen](https://www.spiegel.de/wirtschaft/ig-metall-und-bdi-fordern-massive-oeffentliche-investitionen-a-44d6ee58-f688-482b-a668-9a8936ea6dd3#ref=rss)
+### drei
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-investiert-365-millionen-euro-in-start-ups](https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-investiert-365-millionen-euro-in-start-ups-a-2a76a65f-75cb-4973-9190-c2494bca0be6#ref=rss)
-### startups
+* [https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde](https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde-a-cf576dd4-98de-4d27-9f53-2703bae214bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab-a-89622bc6-5bf9-4059-b3f7-0f09559b46e9#ref=rss)
+### parteien
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-investiert-365-millionen-euro-in-start-ups](https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-investiert-365-millionen-euro-in-start-ups-a-2a76a65f-75cb-4973-9190-c2494bca0be6#ref=rss)
-### euländern
+* [https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde](https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde-a-cf576dd4-98de-4d27-9f53-2703bae214bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab-a-89622bc6-5bf9-4059-b3f7-0f09559b46e9#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-investiert-365-millionen-euro-in-start-ups](https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-investiert-365-millionen-euro-in-start-ups-a-2a76a65f-75cb-4973-9190-c2494bca0be6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-verzeichnet-starken-rueckgang-der-erwerbsfaehigen-bevoelkerung](https://www.spiegel.de/wirtschaft/soziales/deutschland-verzeichnet-starken-rueckgang-der-erwerbsfaehigen-bevoelkerung-a-81bb4d43-c303-4b62-9513-d0c30c97502c#ref=rss)
-### geld
+* [https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde](https://www.spiegel.de/politik/deutschland/so-verlief-die-letzte-sondierungsrunde-a-cf576dd4-98de-4d27-9f53-2703bae214bc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-polizei-trifft-auf-widerstand-bei-koepi-raeumung](https://www.spiegel.de/panorama/justiz/berlin-polizei-trifft-auf-widerstand-bei-koepi-raeumung-a-29db6e09-0914-48c4-a487-672ce6e97804#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-investiert-365-millionen-euro-in-start-ups](https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-investiert-365-millionen-euro-in-start-ups-a-2a76a65f-75cb-4973-9190-c2494bca0be6#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen](https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-usa-sind-neue-nummer-eins-beim-schuerfen-a-6d122dde-85b4-4de2-bee1-247ee3d19c7b#ref=rss)
-### deutschen
+* [https://www.spiegel.de/ausland/indopazifik-wo-die-interessen-der-supermaechte-usa-und-china-direkt-aufeinandertreffen](https://www.spiegel.de/ausland/indopazifik-wo-die-interessen-der-supermaechte-usa-und-china-direkt-aufeinandertreffen-a-7f4270e7-0014-4a67-9657-9ab9fb687d72#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab-a-89622bc6-5bf9-4059-b3f7-0f09559b46e9#ref=rss)
+### weg
 
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-verzeichnet-starken-rueckgang-der-erwerbsfaehigen-bevoelkerung](https://www.spiegel.de/wirtschaft/soziales/deutschland-verzeichnet-starken-rueckgang-der-erwerbsfaehigen-bevoelkerung-a-81bb4d43-c303-4b62-9513-d0c30c97502c#ref=rss)
-### belgien
+* [https://www.spiegel.de/politik/nur-kurz-weg](https://www.spiegel.de/politik/nur-kurz-weg-a-d4352040-6c9c-4d27-b503-d2653ac73c44#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/junge-union-deutschlandtag-schuld-und-buehne](https://www.spiegel.de/politik/deutschland/junge-union-deutschlandtag-schuld-und-buehne-a-4435cb5e-0db8-4d46-994c-434bcae26d88#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/ausland/belgien-frauen-klagen-wegen-verbrechen-gegen-menschlichkeit-in-der-kolonialzeit](https://www.spiegel.de/ausland/belgien-frauen-klagen-wegen-verbrechen-gegen-menschlichkeit-in-der-kolonialzeit-a-a915ab7e-0915-47ea-b56b-612199718d15#ref=rss)
-### gericht
+* [https://www.spiegel.de/politik/nur-kurz-weg](https://www.spiegel.de/politik/nur-kurz-weg-a-d4352040-6c9c-4d27-b503-d2653ac73c44#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden-a-592f9880-f364-41df-ab7e-85b2aed997e9#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-gericht-stoppt-berufung-von-neuer-vizepraesidentin](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-gericht-stoppt-berufung-von-neuer-vizepraesidentin-a-99de842d-1a64-4665-bfa6-fe6018708840#ref=rss)
-### vizepräsidentin
+* [https://www.spiegel.de/politik/nur-kurz-weg](https://www.spiegel.de/politik/nur-kurz-weg-a-d4352040-6c9c-4d27-b503-d2653ac73c44#ref=rss)
+* [https://www.spiegel.de/panorama/leute/helene-fischer-spricht-ueber-neues-album-rausch-und-schwangerschaft](https://www.spiegel.de/panorama/leute/helene-fischer-spricht-ueber-neues-album-rausch-und-schwangerschaft-a-b9847455-9503-47b2-819d-62d305185108#ref=rss)
+### handelsverband
 
-* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-gericht-stoppt-berufung-von-neuer-vizepraesidentin](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-gericht-stoppt-berufung-von-neuer-vizepraesidentin-a-99de842d-1a64-4665-bfa6-fe6018708840#ref=rss)
-### monaten
+* [https://www.spiegel.de/wirtschaft/handelsverband-fordert-sonderabschreibungen-fuer-die-innenstaedte](https://www.spiegel.de/wirtschaft/handelsverband-fordert-sonderabschreibungen-fuer-die-innenstaedte-a-c5e17f3b-c40e-4d96-a521-401f009e9f42#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-gericht-stoppt-berufung-von-neuer-vizepraesidentin](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-gericht-stoppt-berufung-von-neuer-vizepraesidentin-a-99de842d-1a64-4665-bfa6-fe6018708840#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-ortsname-zu-lang-bewohner-warten-auf-personalausweise](https://www.spiegel.de/panorama/frankreich-ortsname-zu-lang-bewohner-warten-auf-personalausweise-a-fe09b814-0b44-4f81-8ed9-4b770bc53a05#ref=rss)
-### wochenende
+* [https://www.spiegel.de/wirtschaft/handelsverband-fordert-sonderabschreibungen-fuer-die-innenstaedte](https://www.spiegel.de/wirtschaft/handelsverband-fordert-sonderabschreibungen-fuer-die-innenstaedte-a-c5e17f3b-c40e-4d96-a521-401f009e9f42#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-flughafen-aechzen-wegen-ueberlastung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-flughafen-aechzen-wegen-ueberlastung-a-ee3917f6-1056-43c1-84a8-bca8c7cd8038#ref=rss)
+### erde
 
-* [https://www.spiegel.de/panorama/wetter-am-wochenende-philine-bringt-sonnige-tage-falls-sich-der-nebel-verzieht](https://www.spiegel.de/panorama/wetter-am-wochenende-philine-bringt-sonnige-tage-falls-sich-der-nebel-verzieht-a-3480a582-6f32-4c93-90dd-13947ed4658c#ref=rss)
-### opel
+* [https://www.spiegel.de/wissenschaft/asteroiden-warum-atombomben-die-erde-wirklich-schuetzen-koennten](https://www.spiegel.de/wissenschaft/asteroiden-warum-atombomben-die-erde-wirklich-schuetzen-koennten-a-ddfc5156-133d-43a2-8e0e-c97b509782cb#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/opel-bundeslaender-kaempfen-um-standorte](https://www.spiegel.de/wirtschaft/unternehmen/opel-bundeslaender-kaempfen-um-standorte-a-6df649df-f6a2-4a1a-8619-bf4ce802e79e#ref=rss)
-### bundeskanzler
+* [https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-bundesvorstand-sieht-kein-problem-in-naehe-zu-rechtsextremer-denkfabrik](https://www.spiegel.de/politik/deutschland/sachsen-anhalt-afd-bundesvorstand-sieht-kein-problem-in-naehe-zu-rechtsextremer-denkfabrik-a-e42452fe-5a7b-4f43-b81c-9c0afb075c8c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/brexit-eu-kommissar-sieht-beispiel-fuer-idiotische-beschraenkungen-von-arbeitsmaerkten](https://www.spiegel.de/wirtschaft/brexit-eu-kommissar-sieht-beispiel-fuer-idiotische-beschraenkungen-von-arbeitsmaerkten-a-05d8af10-862f-411a-afec-e276fbfc96b5#ref=rss)
+### langen
 
-* [https://www.spiegel.de/netzwelt/web/sebastian-kurz-auf-twitter-ganz-kurz-wieder-bundeskanzler](https://www.spiegel.de/netzwelt/web/sebastian-kurz-auf-twitter-ganz-kurz-wieder-bundeskanzler-a-ccee3ec2-a2f9-4466-9b2c-826be3010028#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-flughafen-aechzen-wegen-ueberlastung](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-flughafen-aechzen-wegen-ueberlastung-a-ee3917f6-1056-43c1-84a8-bca8c7cd8038#ref=rss)
+### julian
+
+* [https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen](https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen-a-79c6f8ed-782d-4d14-b80a-4fd899625508#ref=rss)
+### assange
+
+* [https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen](https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen-a-79c6f8ed-782d-4d14-b80a-4fd899625508#ref=rss)
+### missbrauchsvorwürfe
+
+* [https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen](https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen-a-79c6f8ed-782d-4d14-b80a-4fd899625508#ref=rss)
+### bricht
+
+* [https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen](https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen-a-79c6f8ed-782d-4d14-b80a-4fd899625508#ref=rss)
+### öffentliches
+
+* [https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen](https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen-a-79c6f8ed-782d-4d14-b80a-4fd899625508#ref=rss)
+### schweigen
+
+* [https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen](https://www.spiegel.de/ausland/julian-assange-missbrauchsvorwuerfe-eine-der-frauen-bricht-ihr-oeffentliches-schweigen-a-79c6f8ed-782d-4d14-b80a-4fd899625508#ref=rss)
+### legen
+
+* [https://www.spiegel.de/wirtschaft/ig-metall-und-bdi-fordern-massive-oeffentliche-investitionen](https://www.spiegel.de/wirtschaft/ig-metall-und-bdi-fordern-massive-oeffentliche-investitionen-a-44d6ee58-f688-482b-a668-9a8936ea6dd3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/super-league-gruender-legen-papier-vor-man-will-jetzt-alles-besser-machen](https://www.spiegel.de/sport/fussball/super-league-gruender-legen-papier-vor-man-will-jetzt-alles-besser-machen-a-836383e1-e360-496d-b485-275339d57436#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/wirtschaft/ig-metall-und-bdi-fordern-massive-oeffentliche-investitionen](https://www.spiegel.de/wirtschaft/ig-metall-und-bdi-fordern-massive-oeffentliche-investitionen-a-44d6ee58-f688-482b-a668-9a8936ea6dd3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab-a-89622bc6-5bf9-4059-b3f7-0f09559b46e9#ref=rss)
+### trifft
+
+* [https://www.spiegel.de/panorama/justiz/berlin-polizei-trifft-auf-widerstand-bei-koepi-raeumung](https://www.spiegel.de/panorama/justiz/berlin-polizei-trifft-auf-widerstand-bei-koepi-raeumung-a-29db6e09-0914-48c4-a487-672ce6e97804#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/junge-union-deutschlandtag-schuld-und-buehne](https://www.spiegel.de/politik/deutschland/junge-union-deutschlandtag-schuld-und-buehne-a-4435cb5e-0db8-4d46-994c-434bcae26d88#ref=rss)
+### widerstand
+
+* [https://www.spiegel.de/panorama/justiz/berlin-polizei-trifft-auf-widerstand-bei-koepi-raeumung](https://www.spiegel.de/panorama/justiz/berlin-polizei-trifft-auf-widerstand-bei-koepi-raeumung-a-29db6e09-0914-48c4-a487-672ce6e97804#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/panorama/justiz/berlin-polizei-trifft-auf-widerstand-bei-koepi-raeumung](https://www.spiegel.de/panorama/justiz/berlin-polizei-trifft-auf-widerstand-bei-koepi-raeumung-a-29db6e09-0914-48c4-a487-672ce6e97804#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wie-die-niederlande-mit-naiver-drogenpolitik-die-mafia-gross-machten-kaese-koks-und-killer](https://www.spiegel.de/panorama/justiz/wie-die-niederlande-mit-naiver-drogenpolitik-die-mafia-gross-machten-kaese-koks-und-killer-a-f124c1ca-f177-482c-a7e5-1ab165a98b04#ref=rss)
+### super
+
+* [https://www.spiegel.de/sport/fussball/super-league-gruender-legen-papier-vor-man-will-jetzt-alles-besser-machen](https://www.spiegel.de/sport/fussball/super-league-gruender-legen-papier-vor-man-will-jetzt-alles-besser-machen-a-836383e1-e360-496d-b485-275339d57436#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/super-league-gruender-legen-papier-vor-man-will-jetzt-alles-besser-machen](https://www.spiegel.de/sport/fussball/super-league-gruender-legen-papier-vor-man-will-jetzt-alles-besser-machen-a-836383e1-e360-496d-b485-275339d57436#ref=rss)
+### zwar
+
+* [https://www.spiegel.de/sport/fussball/super-league-gruender-legen-papier-vor-man-will-jetzt-alles-besser-machen](https://www.spiegel.de/sport/fussball/super-league-gruender-legen-papier-vor-man-will-jetzt-alles-besser-machen-a-836383e1-e360-496d-b485-275339d57436#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden-a-592f9880-f364-41df-ab7e-85b2aed997e9#ref=rss)
+### ideen
+
+* [https://www.spiegel.de/sport/fussball/super-league-gruender-legen-papier-vor-man-will-jetzt-alles-besser-machen](https://www.spiegel.de/sport/fussball/super-league-gruender-legen-papier-vor-man-will-jetzt-alles-besser-machen-a-836383e1-e360-496d-b485-275339d57436#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise](https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise-a-e6f4680f-6fde-4ee6-8957-ea49e84c6bef#ref=rss)
+### eu
+
+* [https://www.spiegel.de/sport/fussball/super-league-gruender-legen-papier-vor-man-will-jetzt-alles-besser-machen](https://www.spiegel.de/sport/fussball/super-league-gruender-legen-papier-vor-man-will-jetzt-alles-besser-machen-a-836383e1-e360-496d-b485-275339d57436#ref=rss)
+* [https://www.spiegel.de/ausland/polen-parlament-fuer-zurueckweisung-von-migranten-an-der-grenze-zu-belarus](https://www.spiegel.de/ausland/polen-parlament-fuer-zurueckweisung-von-migranten-an-der-grenze-zu-belarus-a-3b983aa5-8c7b-40a1-a1dd-8e1e0cd24648#ref=rss)
+### joy
+
+* [https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche-a-cb92002b-7c2e-4939-90bb-542dce59b996#ref=rss)
+### crookes
+
+* [https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche-a-cb92002b-7c2e-4939-90bb-542dce59b996#ref=rss)
+### coldplay
+
+* [https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche-a-cb92002b-7c2e-4939-90bb-542dce59b996#ref=rss)
+### finneas
+
+* [https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche-a-cb92002b-7c2e-4939-90bb-542dce59b996#ref=rss)
+### marteria
+
+* [https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche-a-cb92002b-7c2e-4939-90bb-542dce59b996#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche-a-cb92002b-7c2e-4939-90bb-542dce59b996#ref=rss)
+### politische
+
+* [https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/joy-crookes-coldplay-finneas-marteria-xenia-rubinos-abgehoert-album-der-woche-a-cb92002b-7c2e-4939-90bb-542dce59b996#ref=rss)
+* [https://www.spiegel.de/panorama/leute/helene-fischer-spricht-ueber-neues-album-rausch-und-schwangerschaft](https://www.spiegel.de/panorama/leute/helene-fischer-spricht-ueber-neues-album-rausch-und-schwangerschaft-a-b9847455-9503-47b2-819d-62d305185108#ref=rss)
+### sommerhaus
+
+* [https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-die-angeleinte-frau](https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-die-angeleinte-frau-a-422fdc47-84d1-409c-89cc-8a0ccce00fcd#ref=rss)
+### stars
+
+* [https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-die-angeleinte-frau](https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-die-angeleinte-frau-a-422fdc47-84d1-409c-89cc-8a0ccce00fcd#ref=rss)
+### frau
+
+* [https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-die-angeleinte-frau](https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-die-angeleinte-frau-a-422fdc47-84d1-409c-89cc-8a0ccce00fcd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankreich-polizei-befragt-verdaechtigen-im-fall-von-gekoepfter-seniorin](https://www.spiegel.de/panorama/justiz/frankreich-polizei-befragt-verdaechtigen-im-fall-von-gekoepfter-seniorin-a-4c4c6f38-6573-4cd8-927e-5d9863b01eb4#ref=rss)
+### lieber
+
+* [https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-die-angeleinte-frau](https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-die-angeleinte-frau-a-422fdc47-84d1-409c-89cc-8a0ccce00fcd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/junge-union-deutschlandtag-schuld-und-buehne](https://www.spiegel.de/politik/deutschland/junge-union-deutschlandtag-schuld-und-buehne-a-4435cb5e-0db8-4d46-994c-434bcae26d88#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab](https://www.spiegel.de/politik/deutschland/ampelkoalition-spd-und-gruene-halten-ausserplanmaessige-gremiensitzungen-ab-a-89622bc6-5bf9-4059-b3f7-0f09559b46e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise](https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise-a-e6f4680f-6fde-4ee6-8957-ea49e84c6bef#ref=rss)
+### queen
+
+* [https://www.spiegel.de/ausland/queen-elizabeth-ii-kritisiert-tatenlosigkeit-fuehrender-politiker-in-der-klima-krise](https://www.spiegel.de/ausland/queen-elizabeth-ii-kritisiert-tatenlosigkeit-fuehrender-politiker-in-der-klima-krise-a-668af129-2e31-4307-8e19-a880295718c9#ref=rss)
+### sicht
+
+* [https://www.spiegel.de/ausland/queen-elizabeth-ii-kritisiert-tatenlosigkeit-fuehrender-politiker-in-der-klima-krise](https://www.spiegel.de/ausland/queen-elizabeth-ii-kritisiert-tatenlosigkeit-fuehrender-politiker-in-der-klima-krise-a-668af129-2e31-4307-8e19-a880295718c9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise](https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise-a-e6f4680f-6fde-4ee6-8957-ea49e84c6bef#ref=rss)
+### microsoft
+
+* [https://www.spiegel.de/netzwelt/web/microsoft-stellt-linkedin-in-china-ein](https://www.spiegel.de/netzwelt/web/microsoft-stellt-linkedin-in-china-ein-a-d2b9d139-7b5b-4a81-8e39-f5edec126d20#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/netzwelt/web/microsoft-stellt-linkedin-in-china-ein](https://www.spiegel.de/netzwelt/web/microsoft-stellt-linkedin-in-china-ein-a-d2b9d139-7b5b-4a81-8e39-f5edec126d20#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden-a-592f9880-f364-41df-ab7e-85b2aed997e9#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-soll-auf-wunsch-der-justiz-immunitaet-entzogen-werden-a-592f9880-f364-41df-ab7e-85b2aed997e9#ref=rss)
+* [https://www.spiegel.de/ausland/polen-parlament-fuer-zurueckweisung-von-migranten-an-der-grenze-zu-belarus](https://www.spiegel.de/ausland/polen-parlament-fuer-zurueckweisung-von-migranten-an-der-grenze-zu-belarus-a-3b983aa5-8c7b-40a1-a1dd-8e1e0cd24648#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere-a-4a47b92e-7451-4647-943c-6ce6503fb89e#ref=rss)
+### schlüsselfigur
+
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere-a-4a47b92e-7451-4647-943c-6ce6503fb89e#ref=rss)
+### staatsaffäre
+
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere-a-4a47b92e-7451-4647-943c-6ce6503fb89e#ref=rss)
+### hoher
+
+* [https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere](https://www.spiegel.de/ausland/oesterreich-thomas-schmid-berater-von-sebastian-kurz-gilt-als-schluesselfigur-der-staatsaffaere-a-4a47b92e-7451-4647-943c-6ce6503fb89e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise](https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise-a-e6f4680f-6fde-4ee6-8957-ea49e84c6bef#ref=rss)
+### daniel
+
+* [https://www.spiegel.de/panorama/leute/daniel-craig-geht-in-schwulenbars-um-schlaegereien-zu-vermeiden](https://www.spiegel.de/panorama/leute/daniel-craig-geht-in-schwulenbars-um-schlaegereien-zu-vermeiden-a-e86802d8-2ab3-45d1-944f-9af7fa57a12a#ref=rss)
+### craig
+
+* [https://www.spiegel.de/panorama/leute/daniel-craig-geht-in-schwulenbars-um-schlaegereien-zu-vermeiden](https://www.spiegel.de/panorama/leute/daniel-craig-geht-in-schwulenbars-um-schlaegereien-zu-vermeiden-a-e86802d8-2ab3-45d1-944f-9af7fa57a12a#ref=rss)
+### schwulenbars
+
+* [https://www.spiegel.de/panorama/leute/daniel-craig-geht-in-schwulenbars-um-schlaegereien-zu-vermeiden](https://www.spiegel.de/panorama/leute/daniel-craig-geht-in-schwulenbars-um-schlaegereien-zu-vermeiden-a-e86802d8-2ab3-45d1-944f-9af7fa57a12a#ref=rss)
+### schlägereien
+
+* [https://www.spiegel.de/panorama/leute/daniel-craig-geht-in-schwulenbars-um-schlaegereien-zu-vermeiden](https://www.spiegel.de/panorama/leute/daniel-craig-geht-in-schwulenbars-um-schlaegereien-zu-vermeiden-a-e86802d8-2ab3-45d1-944f-9af7fa57a12a#ref=rss)
+### helene
+
+* [https://www.spiegel.de/panorama/leute/helene-fischer-spricht-ueber-neues-album-rausch-und-schwangerschaft](https://www.spiegel.de/panorama/leute/helene-fischer-spricht-ueber-neues-album-rausch-und-schwangerschaft-a-b9847455-9503-47b2-819d-62d305185108#ref=rss)
+### fischer
+
+* [https://www.spiegel.de/panorama/leute/helene-fischer-spricht-ueber-neues-album-rausch-und-schwangerschaft](https://www.spiegel.de/panorama/leute/helene-fischer-spricht-ueber-neues-album-rausch-und-schwangerschaft-a-b9847455-9503-47b2-819d-62d305185108#ref=rss)
+### bartsch
+
+* [https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise](https://www.spiegel.de/politik/deutschland/dietmar-bartsch-fordert-von-ampel-sondierern-ideen-gegen-hohe-energiepreise-a-e6f4680f-6fde-4ee6-8957-ea49e84c6bef#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/politik/deutschland/junge-union-deutschlandtag-schuld-und-buehne](https://www.spiegel.de/politik/deutschland/junge-union-deutschlandtag-schuld-und-buehne-a-4435cb5e-0db8-4d46-994c-434bcae26d88#ref=rss)
+* [https://www.spiegel.de/ausland/texas-abtreibungsverbot-bleibt-laut-berufungsgericht-in-kraft](https://www.spiegel.de/ausland/texas-abtreibungsverbot-bleibt-laut-berufungsgericht-in-kraft-a-b50de923-4997-42f3-8939-58a9889e068e#ref=rss)
+### eukommissar
+
+* [https://www.spiegel.de/wirtschaft/brexit-eu-kommissar-sieht-beispiel-fuer-idiotische-beschraenkungen-von-arbeitsmaerkten](https://www.spiegel.de/wirtschaft/brexit-eu-kommissar-sieht-beispiel-fuer-idiotische-beschraenkungen-von-arbeitsmaerkten-a-05d8af10-862f-411a-afec-e276fbfc96b5#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/brexit-eu-kommissar-sieht-beispiel-fuer-idiotische-beschraenkungen-von-arbeitsmaerkten](https://www.spiegel.de/wirtschaft/brexit-eu-kommissar-sieht-beispiel-fuer-idiotische-beschraenkungen-von-arbeitsmaerkten-a-05d8af10-862f-411a-afec-e276fbfc96b5#ref=rss)
+* [https://www.spiegel.de/ausland/texas-abtreibungsverbot-bleibt-laut-berufungsgericht-in-kraft](https://www.spiegel.de/ausland/texas-abtreibungsverbot-bleibt-laut-berufungsgericht-in-kraft-a-b50de923-4997-42f3-8939-58a9889e068e#ref=rss)
+### berufungsgericht
+
+* [https://www.spiegel.de/ausland/texas-abtreibungsverbot-bleibt-laut-berufungsgericht-in-kraft](https://www.spiegel.de/ausland/texas-abtreibungsverbot-bleibt-laut-berufungsgericht-in-kraft-a-b50de923-4997-42f3-8939-58a9889e068e#ref=rss)
+### polen
+
+* [https://www.spiegel.de/ausland/polen-parlament-fuer-zurueckweisung-von-migranten-an-der-grenze-zu-belarus](https://www.spiegel.de/ausland/polen-parlament-fuer-zurueckweisung-von-migranten-an-der-grenze-zu-belarus-a-3b983aa5-8c7b-40a1-a1dd-8e1e0cd24648#ref=rss)
 
