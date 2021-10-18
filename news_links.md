@@ -4,267 +4,322 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### offenbar
+### neue
 
-* [https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen](https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen-a-4794e5c2-08cf-4505-844f-829a94c68b1e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt-a-868ea4d0-802b-4525-b2f1-6543dde39c0d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt](https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt-a-30fcf81a-19a5-485b-a61b-5ea1a8f1cb13#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben](https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben-a-4d8ac8c8-0cf2-4a0d-ae92-cdf33b03da74#ref=rss)
-### israel
+* [https://www.spiegel.de/ausland/oesterreich-die-prekaere-lage-des-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-die-prekaere-lage-des-sebastian-kurz-a-db6b28e2-e435-4da6-9a6c-4c692e1b21c5#ref=rss)
+* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig-a-f3264f15-2903-4b7c-994f-842fcbe68bee#ref=rss)
+* [https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr](https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr-a-fbd16e95-4cdd-4d94-88b1-cdeb4545f041#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/n26-sammelt-mehr-geld-ein-als-erwartet-trotz-compliance-problemen](https://www.spiegel.de/wirtschaft/unternehmen/n26-sammelt-mehr-geld-ein-als-erwartet-trotz-compliance-problemen-a-a32c827a-215c-46d0-adb4-76aa107c776d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden](https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden-a-21fea003-cba8-4af2-b4ec-1c70bb25d29b#ref=rss)
+### lage
 
-* [https://www.spiegel.de/kultur/spencer-tunick-kunstwerk-in-israel-fuer-das-schrumpfende-tote-meer](https://www.spiegel.de/kultur/spencer-tunick-kunstwerk-in-israel-fuer-das-schrumpfende-tote-meer-a-c1ce6e99-0109-4464-ad42-17c436344ad1#ref=rss)
-* [https://www.spiegel.de/ausland/hamas-gericht-verhaengt-todesurteil-fuer-kollaboration-mit-israel](https://www.spiegel.de/ausland/hamas-gericht-verhaengt-todesurteil-fuer-kollaboration-mit-israel-a-ee414341-0c57-44de-9b4b-03f562d88306#ref=rss)
-### lindner
+* [https://www.spiegel.de/ausland/oesterreich-die-prekaere-lage-des-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-die-prekaere-lage-des-sebastian-kurz-a-db6b28e2-e435-4da6-9a6c-4c692e1b21c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-koalition-bundestagspraesidentin-energiepreise](https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-koalition-bundestagspraesidentin-energiepreise-a-cbd00157-2bd9-4452-88d2-85410c4d918a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-cdu-plant-ein-ende-der-epidemischen-lage](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-cdu-plant-ein-ende-der-epidemischen-lage-a-5cdda2a3-d139-4314-9945-458445f284b7#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cristian-lindner-spricht-sich-fuer-apotheken-verkauf-aus](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cristian-lindner-spricht-sich-fuer-apotheken-verkauf-aus-a-aeefa53b-b1f0-47c5-9bd6-590adb76bcce#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner](https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner-a-25c31364-0f26-4b28-b1e1-57357e5f8c99#ref=rss)
-### bekommen
-
-* [https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen](https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen-a-6c116a53-c12e-4978-945c-e11ee6e968aa#ref=rss)
-* [https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen](https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen-a-1401136f-7e41-4cbb-8b9b-898ee73547b3#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-dfb-kontrollausschuss-ermittelt-nach-rassistischen-vorfaellen](https://www.spiegel.de/sport/fussball/hamburger-sv-dfb-kontrollausschuss-ermittelt-nach-rassistischen-vorfaellen-a-b5013c9c-d27e-4423-b7e7-1b0e10eac54d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
-* [https://www.spiegel.de/kultur/spencer-tunick-kunstwerk-in-israel-fuer-das-schrumpfende-tote-meer](https://www.spiegel.de/kultur/spencer-tunick-kunstwerk-in-israel-fuer-das-schrumpfende-tote-meer-a-c1ce6e99-0109-4464-ad42-17c436344ad1#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/soziales/coronavirus-eu-hat-eine-milliarde-impfstoffdosen-exportiert](https://www.spiegel.de/wirtschaft/soziales/coronavirus-eu-hat-eine-milliarde-impfstoffdosen-exportiert-a-b2796fd1-5040-4081-998e-afff41efa121#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/service/dieselpreis-steigt-auf-rekordhoch-in-deutschland](https://www.spiegel.de/wirtschaft/service/dieselpreis-steigt-auf-rekordhoch-in-deutschland-a-bd95d396-62f7-4612-8878-468bb0ca40fd#ref=rss)
-* [https://www.spiegel.de/start/stipendium-der-friedrich-naumann-stiftung-voraussetzungen-bewerbung-foerderung](https://www.spiegel.de/start/stipendium-der-friedrich-naumann-stiftung-voraussetzungen-bewerbung-foerderung-a-2c56c2ee-c446-4fcf-8418-2395a053a9fd#ref=rss)
-### reichelt
-
-* [https://www.spiegel.de/wirtschaft/julian-reichelt-ippen-verlag-verhindert-veroeffentlichung-von-recherche-ueber-bild-chef-reichelt](https://www.spiegel.de/wirtschaft/julian-reichelt-ippen-verlag-verhindert-veroeffentlichung-von-recherche-ueber-bild-chef-reichelt-a-6a1f4dd2-d1f8-460a-ad89-ffb6dc0ff377#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung](https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung-a-cc85896c-04e8-4518-85ae-3004e78fbf65#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/befangenheitsantrag-gegen-verfassungsgerichtspraesident-harbarth-abgelehnt](https://www.spiegel.de/politik/deutschland/befangenheitsantrag-gegen-verfassungsgerichtspraesident-harbarth-abgelehnt-a-5fa544fe-f196-475b-943f-8b896aa03a37#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/wirtschaft/soziales/grossbritannien-plant-neues-atomkraftwerk](https://www.spiegel.de/wirtschaft/soziales/grossbritannien-plant-neues-atomkraftwerk-a-8d850bdc-80f2-4f22-b174-1f6037a79e08#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher](https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher-a-8d6eb53d-eb35-4c0e-8a97-1cf1e90ce44d#ref=rss)
-### neues
-
-* [https://www.spiegel.de/wirtschaft/soziales/grossbritannien-plant-neues-atomkraftwerk](https://www.spiegel.de/wirtschaft/soziales/grossbritannien-plant-neues-atomkraftwerk-a-8d850bdc-80f2-4f22-b174-1f6037a79e08#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner](https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner-a-25c31364-0f26-4b28-b1e1-57357e5f8c99#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher](https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher-a-8d6eb53d-eb35-4c0e-8a97-1cf1e90ce44d#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/papiermangel-buchverleger-machen-sich-sorgen-ums-weihnachtsgeschaeft](https://www.spiegel.de/kultur/literatur/papiermangel-buchverleger-machen-sich-sorgen-ums-weihnachtsgeschaeft-a-a20bc36d-cd73-4b5e-932c-ee7561de66d3#ref=rss)
-### zwölf
-
-* [https://www.spiegel.de/panorama/justiz/dillingen-verschwundene-elfjaehrige-womoeglich-bei-der-sekte-zwoelf-staemme](https://www.spiegel.de/panorama/justiz/dillingen-verschwundene-elfjaehrige-womoeglich-bei-der-sekte-zwoelf-staemme-a-c853b33c-8628-4a0a-b1fa-ac0f39fa4334#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt](https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt-a-30fcf81a-19a5-485b-a61b-5ea1a8f1cb13#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cristian-lindner-spricht-sich-fuer-apotheken-verkauf-aus](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cristian-lindner-spricht-sich-fuer-apotheken-verkauf-aus-a-aeefa53b-b1f0-47c5-9bd6-590adb76bcce#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner](https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner-a-25c31364-0f26-4b28-b1e1-57357e5f8c99#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-dfb-kontrollausschuss-ermittelt-nach-rassistischen-vorfaellen](https://www.spiegel.de/sport/fussball/hamburger-sv-dfb-kontrollausschuss-ermittelt-nach-rassistischen-vorfaellen-a-b5013c9c-d27e-4423-b7e7-1b0e10eac54d#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-dfb-kontrollausschuss-ermittelt-nach-rassistischen-vorfaellen](https://www.spiegel.de/sport/fussball/hamburger-sv-dfb-kontrollausschuss-ermittelt-nach-rassistischen-vorfaellen-a-b5013c9c-d27e-4423-b7e7-1b0e10eac54d#ref=rss)
-### darrell
-
-* [https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen](https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen-a-4794e5c2-08cf-4505-844f-829a94c68b1e#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen](https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen-a-4794e5c2-08cf-4505-844f-829a94c68b1e#ref=rss)
-### zusammenprall
-
-* [https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen](https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen-a-4794e5c2-08cf-4505-844f-829a94c68b1e#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen](https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen-a-4794e5c2-08cf-4505-844f-829a94c68b1e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben](https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben-a-4d8ac8c8-0cf2-4a0d-ae92-cdf33b03da74#ref=rss)
-### kourtney
-
-* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt-a-868ea4d0-802b-4525-b2f1-6543dde39c0d#ref=rss)
-### kardashian
-
-* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt-a-868ea4d0-802b-4525-b2f1-6543dde39c0d#ref=rss)
-### travis
-
-* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt-a-868ea4d0-802b-4525-b2f1-6543dde39c0d#ref=rss)
-### barker
-
-* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt-a-868ea4d0-802b-4525-b2f1-6543dde39c0d#ref=rss)
-### verlobt
-
-* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt-a-868ea4d0-802b-4525-b2f1-6543dde39c0d#ref=rss)
-### taucher
-
-* [https://www.spiegel.de/wissenschaft/mensch/taucher-findet-900-jahre-altes-kreuzritterschwert-im-mittelmeer](https://www.spiegel.de/wissenschaft/mensch/taucher-findet-900-jahre-altes-kreuzritterschwert-im-mittelmeer-a-863b92af-f573-4030-bb6e-74ff02baf035#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/antje-ravik-strubel-erhaelt-deutschen-buchpreis](https://www.spiegel.de/kultur/literatur/antje-ravik-strubel-erhaelt-deutschen-buchpreis-a-a7e117eb-fcd7-4346-9fb1-480f6e2f4848#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/einlagerung-von-atommuell-koennte-erst-2080-abgeschlossen-sein](https://www.spiegel.de/wissenschaft/technik/einlagerung-von-atommuell-koennte-erst-2080-abgeschlossen-sein-a-4b7e5864-929f-4a75-a6e9-fa947a516b04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden](https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden-a-21fea003-cba8-4af2-b4ec-1c70bb25d29b#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wissenschaft/mensch/taucher-findet-900-jahre-altes-kreuzritterschwert-im-mittelmeer](https://www.spiegel.de/wissenschaft/mensch/taucher-findet-900-jahre-altes-kreuzritterschwert-im-mittelmeer-a-863b92af-f573-4030-bb6e-74ff02baf035#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/papiermangel-buchverleger-machen-sich-sorgen-ums-weihnachtsgeschaeft](https://www.spiegel.de/kultur/literatur/papiermangel-buchverleger-machen-sich-sorgen-ums-weihnachtsgeschaeft-a-a20bc36d-cd73-4b5e-932c-ee7561de66d3#ref=rss)
-### zeit
+* [https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf](https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf-a-48fd1f80-08c8-4502-8468-c231303415e4#ref=rss)
+* [https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr](https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr-a-fbd16e95-4cdd-4d94-88b1-cdeb4545f041#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-drei-szenarien-wie-deutschland-durch-den-winter-kommt](https://www.spiegel.de/wissenschaft/coronavirus-drei-szenarien-wie-deutschland-durch-den-winter-kommt-a-23f1caaf-37cf-4cac-880d-11aa1a77a032#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/n26-sammelt-mehr-geld-ein-als-erwartet-trotz-compliance-problemen](https://www.spiegel.de/wirtschaft/unternehmen/n26-sammelt-mehr-geld-ein-als-erwartet-trotz-compliance-problemen-a-a32c827a-215c-46d0-adb4-76aa107c776d#ref=rss)
+### land
 
-* [https://www.spiegel.de/wissenschaft/mensch/taucher-findet-900-jahre-altes-kreuzritterschwert-im-mittelmeer](https://www.spiegel.de/wissenschaft/mensch/taucher-findet-900-jahre-altes-kreuzritterschwert-im-mittelmeer-a-863b92af-f573-4030-bb6e-74ff02baf035#ref=rss)
-* [https://www.spiegel.de/politik/jutta-allmendinger-und-peter-dabrock-offener-brief-an-die-spd-bundestagfraktion-es-braucht-eine-frau-als-bundestagspraesidentin](https://www.spiegel.de/politik/jutta-allmendinger-und-peter-dabrock-offener-brief-an-die-spd-bundestagfraktion-es-braucht-eine-frau-als-bundestagspraesidentin-a-2d968090-e11f-451f-88cc-de954cb2c067#ref=rss)
-### ilmenau
+* [https://www.spiegel.de/ausland/afghanistan-uno-startet-landesweite-polio-impfkampagne](https://www.spiegel.de/ausland/afghanistan-uno-startet-landesweite-polio-impfkampagne-a-39927b8d-c8e8-4bde-bbd5-681e9dea2086#ref=rss)
+* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig-a-f3264f15-2903-4b7c-994f-842fcbe68bee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-koalition-bundestagspraesidentin-energiepreise](https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-koalition-bundestagspraesidentin-energiepreise-a-cbd00157-2bd9-4452-88d2-85410c4d918a#ref=rss)
+### erst
 
-* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
-### zierfische
+* [https://www.spiegel.de/panorama/justiz/sonthofen-81-jaehriger-vor-krankenhaus-zweimal-vom-selben-lieferwagen-ueberrollt](https://www.spiegel.de/panorama/justiz/sonthofen-81-jaehriger-vor-krankenhaus-zweimal-vom-selben-lieferwagen-ueberrollt-a-9f891f06-45e4-4ad0-9d8d-eed0bd73e2df#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/einlagerung-von-atommuell-koennte-erst-2080-abgeschlossen-sein](https://www.spiegel.de/wissenschaft/technik/einlagerung-von-atommuell-koennte-erst-2080-abgeschlossen-sein-a-4b7e5864-929f-4a75-a6e9-fa947a516b04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lucas-hernandez-bekommt-haftstrafen-bescheid](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lucas-hernandez-bekommt-haftstrafen-bescheid-a-aa71c1aa-5cca-44f2-9ccb-53a2c9c6a06d#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
-### straße
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-die-spd-und-ihre-frauenproblem-warten-auf-das-orakel-von-koeln](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-die-spd-und-ihre-frauenproblem-warten-auf-das-orakel-von-koeln-a-a04831a4-9196-489e-978a-78db28b44b5a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette](https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette-a-c354039c-de5b-42be-8a06-c591452a7522#ref=rss)
+### drei
 
-* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
-### polizei
+* [https://www.spiegel.de/auto/foxconn-praesentiert-drei-elektroauto-prototypen](https://www.spiegel.de/auto/foxconn-praesentiert-drei-elektroauto-prototypen-a-548341d8-53ac-447c-b1a4-5fd38366429c#ref=rss)
+* [https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr](https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr-a-fbd16e95-4cdd-4d94-88b1-cdeb4545f041#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-drei-szenarien-wie-deutschland-durch-den-winter-kommt](https://www.spiegel.de/wissenschaft/coronavirus-drei-szenarien-wie-deutschland-durch-den-winter-kommt-a-23f1caaf-37cf-4cac-880d-11aa1a77a032#ref=rss)
+### tschechien
 
-* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dillingen-verschwundene-elfjaehrige-womoeglich-bei-der-sekte-zwoelf-staemme](https://www.spiegel.de/panorama/justiz/dillingen-verschwundene-elfjaehrige-womoeglich-bei-der-sekte-zwoelf-staemme-a-c853b33c-8628-4a0a-b1fa-ac0f39fa4334#ref=rss)
-### sucht
+* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig-a-f3264f15-2903-4b7c-994f-842fcbe68bee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf](https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf-a-48fd1f80-08c8-4502-8468-c231303415e4#ref=rss)
+### frau
 
-* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen](https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen-a-6c116a53-c12e-4978-945c-e11ee6e968aa#ref=rss)
-### zeugen
+* [https://www.spiegel.de/kultur/literatur/antje-ravik-strubel-erhaelt-deutschen-buchpreis](https://www.spiegel.de/kultur/literatur/antje-ravik-strubel-erhaelt-deutschen-buchpreis-a-a7e117eb-fcd7-4346-9fb1-480f6e2f4848#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen](https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen-a-e1d4a51b-c3f2-4cba-8f1f-602601d0d7b0#ref=rss)
+### gas
 
-* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst](https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst-a-b9546c7e-f04b-4fb7-8465-24b7aa1f8413#ref=rss)
-### spencer
+* [https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf](https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf-a-48fd1f80-08c8-4502-8468-c231303415e4#ref=rss)
+* [https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr](https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr-a-fbd16e95-4cdd-4d94-88b1-cdeb4545f041#ref=rss)
+### energiekrise
 
-* [https://www.spiegel.de/kultur/spencer-tunick-kunstwerk-in-israel-fuer-das-schrumpfende-tote-meer](https://www.spiegel.de/kultur/spencer-tunick-kunstwerk-in-israel-fuer-das-schrumpfende-tote-meer-a-c1ce6e99-0109-4464-ad42-17c436344ad1#ref=rss)
-### exportiert
+* [https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf](https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf-a-48fd1f80-08c8-4502-8468-c231303415e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen](https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen-a-05cd6dd8-3c95-4288-b219-797ac6ceb441#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immergruen-verbraucherzentrale-mahnt-koelner-stromanbieter-wegen-preiserhoehungen-ab](https://www.spiegel.de/wirtschaft/service/immergruen-verbraucherzentrale-mahnt-koelner-stromanbieter-wegen-preiserhoehungen-ab-a-d1db02c2-8e7a-4515-a96b-389d242bece2#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/wirtschaft/soziales/coronavirus-eu-hat-eine-milliarde-impfstoffdosen-exportiert](https://www.spiegel.de/wirtschaft/soziales/coronavirus-eu-hat-eine-milliarde-impfstoffdosen-exportiert-a-b2796fd1-5040-4081-998e-afff41efa121#ref=rss)
-### sagt
+* [https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf](https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf-a-48fd1f80-08c8-4502-8468-c231303415e4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-muss-wegen-ausschreitungen-100-000-euro-strafe-zahlen](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-muss-wegen-ausschreitungen-100-000-euro-strafe-zahlen-a-00a95f03-5424-4db5-b90e-ff7035eb9f27#ref=rss)
+* [https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr](https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr-a-fbd16e95-4cdd-4d94-88b1-cdeb4545f041#ref=rss)
+### springer
 
-* [https://www.spiegel.de/wirtschaft/soziales/coronavirus-eu-hat-eine-milliarde-impfstoffdosen-exportiert](https://www.spiegel.de/wirtschaft/soziales/coronavirus-eu-hat-eine-milliarde-impfstoffdosen-exportiert-a-b2796fd1-5040-4081-998e-afff41efa121#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner](https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner-a-25c31364-0f26-4b28-b1e1-57357e5f8c99#ref=rss)
-### schwangere
+* [https://www.spiegel.de/wirtschaft/unternehmen/springer-entbindet-bild-chefredakteur-julian-reichelt-von-seinen-aufgaben](https://www.spiegel.de/wirtschaft/unternehmen/springer-entbindet-bild-chefredakteur-julian-reichelt-von-seinen-aufgaben-a-6e212770-0fa4-481c-84b3-d6fd269f0757#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ippen-mediengruppe-begruendet-zurueckhalten-der-recherche-zu-julian-reichelt-und-springer](https://www.spiegel.de/wirtschaft/unternehmen/ippen-mediengruppe-begruendet-zurueckhalten-der-recherche-zu-julian-reichelt-und-springer-a-77db9aec-bbe8-4b3d-98ce-0080215534fa#ref=rss)
+### julian
 
-* [https://www.spiegel.de/gesundheit/schwangerschaft/grippe-frauenaerzte-rufen-schwangere-zur-impfung-auf](https://www.spiegel.de/gesundheit/schwangerschaft/grippe-frauenaerzte-rufen-schwangere-zur-impfung-auf-a-17ca3d26-4401-45ff-ad06-ab9aa399097c#ref=rss)
-### neuen
+* [https://www.spiegel.de/wirtschaft/unternehmen/springer-entbindet-bild-chefredakteur-julian-reichelt-von-seinen-aufgaben](https://www.spiegel.de/wirtschaft/unternehmen/springer-entbindet-bild-chefredakteur-julian-reichelt-von-seinen-aufgaben-a-6e212770-0fa4-481c-84b3-d6fd269f0757#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ippen-mediengruppe-begruendet-zurueckhalten-der-recherche-zu-julian-reichelt-und-springer](https://www.spiegel.de/wirtschaft/unternehmen/ippen-mediengruppe-begruendet-zurueckhalten-der-recherche-zu-julian-reichelt-und-springer-a-77db9aec-bbe8-4b3d-98ce-0080215534fa#ref=rss)
+### reichelt
 
-* [https://www.spiegel.de/wirtschaft/service/dieselpreis-steigt-auf-rekordhoch-in-deutschland](https://www.spiegel.de/wirtschaft/service/dieselpreis-steigt-auf-rekordhoch-in-deutschland-a-bd95d396-62f7-4612-8878-468bb0ca40fd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher](https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher-a-8d6eb53d-eb35-4c0e-8a97-1cf1e90ce44d#ref=rss)
-### berichten
-
-* [https://www.spiegel.de/wirtschaft/julian-reichelt-ippen-verlag-verhindert-veroeffentlichung-von-recherche-ueber-bild-chef-reichelt](https://www.spiegel.de/wirtschaft/julian-reichelt-ippen-verlag-verhindert-veroeffentlichung-von-recherche-ueber-bild-chef-reichelt-a-6a1f4dd2-d1f8-460a-ad89-ffb6dc0ff377#ref=rss)
-* [https://www.spiegel.de/start/stipendium-der-friedrich-naumann-stiftung-voraussetzungen-bewerbung-foerderung](https://www.spiegel.de/start/stipendium-der-friedrich-naumann-stiftung-voraussetzungen-bewerbung-foerderung-a-2c56c2ee-c446-4fcf-8418-2395a053a9fd#ref=rss)
-### el
-
-* [https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung](https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung-a-cc85896c-04e8-4518-85ae-3004e78fbf65#ref=rss)
-### salvador
-
-* [https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung](https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung-a-cc85896c-04e8-4518-85ae-3004e78fbf65#ref=rss)
-### bukele
-
-* [https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung](https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung-a-cc85896c-04e8-4518-85ae-3004e78fbf65#ref=rss)
-### bitcoin
-
-* [https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung](https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung-a-cc85896c-04e8-4518-85ae-3004e78fbf65#ref=rss)
-### stipendium
-
-* [https://www.spiegel.de/start/stipendium-der-friedrich-naumann-stiftung-voraussetzungen-bewerbung-foerderung](https://www.spiegel.de/start/stipendium-der-friedrich-naumann-stiftung-voraussetzungen-bewerbung-foerderung-a-2c56c2ee-c446-4fcf-8418-2395a053a9fd#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/politik/jutta-allmendinger-und-peter-dabrock-offener-brief-an-die-spd-bundestagfraktion-es-braucht-eine-frau-als-bundestagspraesidentin](https://www.spiegel.de/politik/jutta-allmendinger-und-peter-dabrock-offener-brief-an-die-spd-bundestagfraktion-es-braucht-eine-frau-als-bundestagspraesidentin-a-2d968090-e11f-451f-88cc-de954cb2c067#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/antarktis-klimaexperten-fordern-ausweisung-neuer-meeresschutzgebiete](https://www.spiegel.de/wissenschaft/natur/antarktis-klimaexperten-fordern-ausweisung-neuer-meeresschutzgebiete-a-a3e7ed55-b0a1-4c44-ac73-9d846358523b#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/hamas-gericht-verhaengt-todesurteil-fuer-kollaboration-mit-israel](https://www.spiegel.de/ausland/hamas-gericht-verhaengt-todesurteil-fuer-kollaboration-mit-israel-a-ee414341-0c57-44de-9b4b-03f562d88306#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben](https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben-a-4d8ac8c8-0cf2-4a0d-ae92-cdf33b03da74#ref=rss)
-### männer
-
-* [https://www.spiegel.de/ausland/hamas-gericht-verhaengt-todesurteil-fuer-kollaboration-mit-israel](https://www.spiegel.de/ausland/hamas-gericht-verhaengt-todesurteil-fuer-kollaboration-mit-israel-a-ee414341-0c57-44de-9b4b-03f562d88306#ref=rss)
-### elvis
-
-* [https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot](https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot-a-2e53e26c-a2e2-4940-bfa7-a5d85de77abc#ref=rss)
-### tcb
-
-* [https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot](https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot-a-2e53e26c-a2e2-4940-bfa7-a5d85de77abc#ref=rss)
-### band
-
-* [https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot](https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot-a-2e53e26c-a2e2-4940-bfa7-a5d85de77abc#ref=rss)
-### ronnie
-
-* [https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot](https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot-a-2e53e26c-a2e2-4940-bfa7-a5d85de77abc#ref=rss)
-### tutt
-
-* [https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot](https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot-a-2e53e26c-a2e2-4940-bfa7-a5d85de77abc#ref=rss)
-### türsteher
-
-* [https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher](https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher-a-8d6eb53d-eb35-4c0e-8a97-1cf1e90ce44d#ref=rss)
-### sekte
-
-* [https://www.spiegel.de/panorama/justiz/dillingen-verschwundene-elfjaehrige-womoeglich-bei-der-sekte-zwoelf-staemme](https://www.spiegel.de/panorama/justiz/dillingen-verschwundene-elfjaehrige-womoeglich-bei-der-sekte-zwoelf-staemme-a-c853b33c-8628-4a0a-b1fa-ac0f39fa4334#ref=rss)
-### fdpchef
-
-* [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cristian-lindner-spricht-sich-fuer-apotheken-verkauf-aus](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cristian-lindner-spricht-sich-fuer-apotheken-verkauf-aus-a-aeefa53b-b1f0-47c5-9bd6-590adb76bcce#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner](https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner-a-25c31364-0f26-4b28-b1e1-57357e5f8c99#ref=rss)
-### sex
-
-* [https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch](https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch-a-32734ddb-10e0-4096-9db8-c956ebd6af2a#ref=rss)
-### and
-
-* [https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch](https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch-a-32734ddb-10e0-4096-9db8-c956ebd6af2a#ref=rss)
-### the
-
-* [https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch](https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch-a-32734ddb-10e0-4096-9db8-c956ebd6af2a#ref=rss)
-### city
-
-* [https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch](https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch-a-32734ddb-10e0-4096-9db8-c956ebd6af2a#ref=rss)
-### candace
-
-* [https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch](https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch-a-32734ddb-10e0-4096-9db8-c956ebd6af2a#ref=rss)
-### bushnell
-
-* [https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch](https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch-a-32734ddb-10e0-4096-9db8-c956ebd6af2a#ref=rss)
-### harbarth
-
-* [https://www.spiegel.de/politik/deutschland/befangenheitsantrag-gegen-verfassungsgerichtspraesident-harbarth-abgelehnt](https://www.spiegel.de/politik/deutschland/befangenheitsantrag-gegen-verfassungsgerichtspraesident-harbarth-abgelehnt-a-5fa544fe-f196-475b-943f-8b896aa03a37#ref=rss)
-### playstation
-
-* [https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen](https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen-a-6c116a53-c12e-4978-945c-e11ee6e968aa#ref=rss)
-### 5
-
-* [https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen](https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen-a-6c116a53-c12e-4978-945c-e11ee6e968aa#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen](https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen-a-6c116a53-c12e-4978-945c-e11ee6e968aa#ref=rss)
-### filmteam
-
-* [https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt](https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt-a-30fcf81a-19a5-485b-a61b-5ea1a8f1cb13#ref=rss)
-### raumstation
-
-* [https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt](https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt-a-30fcf81a-19a5-485b-a61b-5ea1a8f1cb13#ref=rss)
-### rolle
-
-* [https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt](https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt-a-30fcf81a-19a5-485b-a61b-5ea1a8f1cb13#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/antarktis-klimaexperten-fordern-ausweisung-neuer-meeresschutzgebiete](https://www.spiegel.de/wissenschaft/natur/antarktis-klimaexperten-fordern-ausweisung-neuer-meeresschutzgebiete-a-a3e7ed55-b0a1-4c44-ac73-9d846358523b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/springer-entbindet-bild-chefredakteur-julian-reichelt-von-seinen-aufgaben](https://www.spiegel.de/wirtschaft/unternehmen/springer-entbindet-bild-chefredakteur-julian-reichelt-von-seinen-aufgaben-a-6e212770-0fa4-481c-84b3-d6fd269f0757#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ippen-mediengruppe-begruendet-zurueckhalten-der-recherche-zu-julian-reichelt-und-springer](https://www.spiegel.de/wirtschaft/unternehmen/ippen-mediengruppe-begruendet-zurueckhalten-der-recherche-zu-julian-reichelt-und-springer-a-77db9aec-bbe8-4b3d-98ce-0080215534fa#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben](https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben-a-4d8ac8c8-0cf2-4a0d-ae92-cdf33b03da74#ref=rss)
-### präsentationen
+* [https://www.spiegel.de/gesundheit/corona-in-russland-dramatische-todeszahlen-die-impfkampagne-lahmt](https://www.spiegel.de/gesundheit/corona-in-russland-dramatische-todeszahlen-die-impfkampagne-lahmt-a-470049f3-7157-4a5b-b8c9-b58e3c32ca7f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen](https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen-a-05cd6dd8-3c95-4288-b219-797ac6ceb441#ref=rss)
+### laut
 
-* [https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen](https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen-a-1401136f-7e41-4cbb-8b9b-898ee73547b3#ref=rss)
-### problem
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-cdu-plant-ein-ende-der-epidemischen-lage](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-cdu-plant-ein-ende-der-epidemischen-lage-a-5cdda2a3-d139-4314-9945-458445f284b7#ref=rss)
+* [https://www.spiegel.de/ausland/kongsberg-angreifer-toetete-menschen-wohl-mit-stichwaffen](https://www.spiegel.de/ausland/kongsberg-angreifer-toetete-menschen-wohl-mit-stichwaffen-a-d69fa0af-bf67-42ba-af60-d8aa0dfd8472#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette](https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette-a-c354039c-de5b-42be-8a06-c591452a7522#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen](https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen-a-1401136f-7e41-4cbb-8b9b-898ee73547b3#ref=rss)
-### griff
+* [https://www.spiegel.de/wissenschaft/coronavirus-drei-szenarien-wie-deutschland-durch-den-winter-kommt](https://www.spiegel.de/wissenschaft/coronavirus-drei-szenarien-wie-deutschland-durch-den-winter-kommt-a-23f1caaf-37cf-4cac-880d-11aa1a77a032#ref=rss)
+* [https://www.spiegel.de/ausland/kongsberg-angreifer-toetete-menschen-wohl-mit-stichwaffen](https://www.spiegel.de/ausland/kongsberg-angreifer-toetete-menschen-wohl-mit-stichwaffen-a-d69fa0af-bf67-42ba-af60-d8aa0dfd8472#ref=rss)
+### erwartet
 
-* [https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen](https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen-a-1401136f-7e41-4cbb-8b9b-898ee73547b3#ref=rss)
-### macht
+* [https://www.spiegel.de/wirtschaft/unternehmen/n26-sammelt-mehr-geld-ein-als-erwartet-trotz-compliance-problemen](https://www.spiegel.de/wirtschaft/unternehmen/n26-sammelt-mehr-geld-ein-als-erwartet-trotz-compliance-problemen-a-a32c827a-215c-46d0-adb4-76aa107c776d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lucas-hernandez-bekommt-haftstrafen-bescheid](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lucas-hernandez-bekommt-haftstrafen-bescheid-a-aa71c1aa-5cca-44f2-9ccb-53a2c9c6a06d#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen](https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen-a-1401136f-7e41-4cbb-8b9b-898ee73547b3#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst](https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst-a-b9546c7e-f04b-4fb7-8465-24b7aa1f8413#ref=rss)
-### bannon
+* [https://www.spiegel.de/ausland/afghanistan-uno-startet-landesweite-polio-impfkampagne](https://www.spiegel.de/ausland/afghanistan-uno-startet-landesweite-polio-impfkampagne-a-39927b8d-c8e8-4bde-bbd5-681e9dea2086#ref=rss)
+### fast
 
-* [https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst](https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst-a-b9546c7e-f04b-4fb7-8465-24b7aa1f8413#ref=rss)
-### sonderausschuss
+* [https://www.spiegel.de/ausland/afghanistan-uno-startet-landesweite-polio-impfkampagne](https://www.spiegel.de/ausland/afghanistan-uno-startet-landesweite-polio-impfkampagne-a-39927b8d-c8e8-4bde-bbd5-681e9dea2086#ref=rss)
+### nationen
 
-* [https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst](https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst-a-b9546c7e-f04b-4fb7-8465-24b7aa1f8413#ref=rss)
-### antarktis
+* [https://www.spiegel.de/ausland/afghanistan-uno-startet-landesweite-polio-impfkampagne](https://www.spiegel.de/ausland/afghanistan-uno-startet-landesweite-polio-impfkampagne-a-39927b8d-c8e8-4bde-bbd5-681e9dea2086#ref=rss)
+* [https://www.spiegel.de/ausland/chinas-moeglicher-test-einer-hyperschallrakete-usa-zeigen-sich-sehr-besorgt](https://www.spiegel.de/ausland/chinas-moeglicher-test-einer-hyperschallrakete-usa-zeigen-sich-sehr-besorgt-a-bb39cee5-72fd-4954-b9ea-9bb892ddd557#ref=rss)
+### november
 
-* [https://www.spiegel.de/wissenschaft/natur/antarktis-klimaexperten-fordern-ausweisung-neuer-meeresschutzgebiete](https://www.spiegel.de/wissenschaft/natur/antarktis-klimaexperten-fordern-ausweisung-neuer-meeresschutzgebiete-a-a3e7ed55-b0a1-4c44-ac73-9d846358523b#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-uno-startet-landesweite-polio-impfkampagne](https://www.spiegel.de/ausland/afghanistan-uno-startet-landesweite-polio-impfkampagne-a-39927b8d-c8e8-4bde-bbd5-681e9dea2086#ref=rss)
+* [https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr](https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr-a-fbd16e95-4cdd-4d94-88b1-cdeb4545f041#ref=rss)
+### herbert
+
+* [https://www.spiegel.de/auto/herbert-diess-vw-chef-raet-indirekt-vom-verbrenner-kauf-ab](https://www.spiegel.de/auto/herbert-diess-vw-chef-raet-indirekt-vom-verbrenner-kauf-ab-a-0d93ac3e-174e-4e97-9147-07131a7abca4#ref=rss)
+### diess
+
+* [https://www.spiegel.de/auto/herbert-diess-vw-chef-raet-indirekt-vom-verbrenner-kauf-ab](https://www.spiegel.de/auto/herbert-diess-vw-chef-raet-indirekt-vom-verbrenner-kauf-ab-a-0d93ac3e-174e-4e97-9147-07131a7abca4#ref=rss)
+### hyperschallrakete
+
+* [https://www.spiegel.de/ausland/chinas-moeglicher-test-einer-hyperschallrakete-usa-zeigen-sich-sehr-besorgt](https://www.spiegel.de/ausland/chinas-moeglicher-test-einer-hyperschallrakete-usa-zeigen-sich-sehr-besorgt-a-bb39cee5-72fd-4954-b9ea-9bb892ddd557#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/chinas-moeglicher-test-einer-hyperschallrakete-usa-zeigen-sich-sehr-besorgt](https://www.spiegel.de/ausland/chinas-moeglicher-test-einer-hyperschallrakete-usa-zeigen-sich-sehr-besorgt-a-bb39cee5-72fd-4954-b9ea-9bb892ddd557#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/ausland/chinas-moeglicher-test-einer-hyperschallrakete-usa-zeigen-sich-sehr-besorgt](https://www.spiegel.de/ausland/chinas-moeglicher-test-einer-hyperschallrakete-usa-zeigen-sich-sehr-besorgt-a-bb39cee5-72fd-4954-b9ea-9bb892ddd557#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette](https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette-a-c354039c-de5b-42be-8a06-c591452a7522#ref=rss)
+### besorgt
+
+* [https://www.spiegel.de/ausland/chinas-moeglicher-test-einer-hyperschallrakete-usa-zeigen-sich-sehr-besorgt](https://www.spiegel.de/ausland/chinas-moeglicher-test-einer-hyperschallrakete-usa-zeigen-sich-sehr-besorgt-a-bb39cee5-72fd-4954-b9ea-9bb892ddd557#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/ausland/chinas-moeglicher-test-einer-hyperschallrakete-usa-zeigen-sich-sehr-besorgt](https://www.spiegel.de/ausland/chinas-moeglicher-test-einer-hyperschallrakete-usa-zeigen-sich-sehr-besorgt-a-bb39cee5-72fd-4954-b9ea-9bb892ddd557#ref=rss)
+* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig-a-f3264f15-2903-4b7c-994f-842fcbe68bee#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/sonthofen-81-jaehriger-vor-krankenhaus-zweimal-vom-selben-lieferwagen-ueberrollt](https://www.spiegel.de/panorama/justiz/sonthofen-81-jaehriger-vor-krankenhaus-zweimal-vom-selben-lieferwagen-ueberrollt-a-9f891f06-45e4-4ad0-9d8d-eed0bd73e2df#ref=rss)
+* [https://www.spiegel.de/ausland/kongsberg-angreifer-toetete-menschen-wohl-mit-stichwaffen](https://www.spiegel.de/ausland/kongsberg-angreifer-toetete-menschen-wohl-mit-stichwaffen-a-d69fa0af-bf67-42ba-af60-d8aa0dfd8472#ref=rss)
+### rolf
+
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-die-spd-und-ihre-frauenproblem-warten-auf-das-orakel-von-koeln](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-die-spd-und-ihre-frauenproblem-warten-auf-das-orakel-von-koeln-a-a04831a4-9196-489e-978a-78db28b44b5a#ref=rss)
+### mützenich
+
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-die-spd-und-ihre-frauenproblem-warten-auf-das-orakel-von-koeln](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-die-spd-und-ihre-frauenproblem-warten-auf-das-orakel-von-koeln-a-a04831a4-9196-489e-978a-78db28b44b5a#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-die-spd-und-ihre-frauenproblem-warten-auf-das-orakel-von-koeln](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-die-spd-und-ihre-frauenproblem-warten-auf-das-orakel-von-koeln-a-a04831a4-9196-489e-978a-78db28b44b5a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-koalition-bundestagspraesidentin-energiepreise](https://www.spiegel.de/politik/deutschland/news-des-tages-ampel-koalition-bundestagspraesidentin-energiepreise-a-cbd00157-2bd9-4452-88d2-85410c4d918a#ref=rss)
+### demnächst
+
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-die-spd-und-ihre-frauenproblem-warten-auf-das-orakel-von-koeln](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-die-spd-und-ihre-frauenproblem-warten-auf-das-orakel-von-koeln-a-a04831a4-9196-489e-978a-78db28b44b5a#ref=rss)
+* [https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr](https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr-a-fbd16e95-4cdd-4d94-88b1-cdeb4545f041#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/ausland/oesterreich-die-prekaere-lage-des-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-die-prekaere-lage-des-sebastian-kurz-a-db6b28e2-e435-4da6-9a6c-4c692e1b21c5#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/ausland/oesterreich-die-prekaere-lage-des-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-die-prekaere-lage-des-sebastian-kurz-a-db6b28e2-e435-4da6-9a6c-4c692e1b21c5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen](https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen-a-e1d4a51b-c3f2-4cba-8f1f-602601d0d7b0#ref=rss)
+### machtkampf
+
+* [https://www.spiegel.de/ausland/oesterreich-die-prekaere-lage-des-sebastian-kurz](https://www.spiegel.de/ausland/oesterreich-die-prekaere-lage-des-sebastian-kurz-a-db6b28e2-e435-4da6-9a6c-4c692e1b21c5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden](https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden-a-21fea003-cba8-4af2-b4ec-1c70bb25d29b#ref=rss)
+### foxconn
+
+* [https://www.spiegel.de/auto/foxconn-praesentiert-drei-elektroauto-prototypen](https://www.spiegel.de/auto/foxconn-praesentiert-drei-elektroauto-prototypen-a-548341d8-53ac-447c-b1a4-5fd38366429c#ref=rss)
+### präsentiert
+
+* [https://www.spiegel.de/auto/foxconn-praesentiert-drei-elektroauto-prototypen](https://www.spiegel.de/auto/foxconn-praesentiert-drei-elektroauto-prototypen-a-548341d8-53ac-447c-b1a4-5fd38366429c#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig-a-f3264f15-2903-4b7c-994f-842fcbe68bee#ref=rss)
+### miloš
+
+* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig-a-f3264f15-2903-4b7c-994f-842fcbe68bee#ref=rss)
+### zeman
+
+* [https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig](https://www.spiegel.de/ausland/tschechien-praesident-milos-zeman-bleibt-zunaechst-arbeitsunfaehig-a-f3264f15-2903-4b7c-994f-842fcbe68bee#ref=rss)
+### antje
+
+* [https://www.spiegel.de/kultur/literatur/antje-ravik-strubel-erhaelt-deutschen-buchpreis](https://www.spiegel.de/kultur/literatur/antje-ravik-strubel-erhaelt-deutschen-buchpreis-a-a7e117eb-fcd7-4346-9fb1-480f6e2f4848#ref=rss)
+### rávik
+
+* [https://www.spiegel.de/kultur/literatur/antje-ravik-strubel-erhaelt-deutschen-buchpreis](https://www.spiegel.de/kultur/literatur/antje-ravik-strubel-erhaelt-deutschen-buchpreis-a-a7e117eb-fcd7-4346-9fb1-480f6e2f4848#ref=rss)
+### strubel
+
+* [https://www.spiegel.de/kultur/literatur/antje-ravik-strubel-erhaelt-deutschen-buchpreis](https://www.spiegel.de/kultur/literatur/antje-ravik-strubel-erhaelt-deutschen-buchpreis-a-a7e117eb-fcd7-4346-9fb1-480f6e2f4848#ref=rss)
+### buchpreis
+
+* [https://www.spiegel.de/kultur/literatur/antje-ravik-strubel-erhaelt-deutschen-buchpreis](https://www.spiegel.de/kultur/literatur/antje-ravik-strubel-erhaelt-deutschen-buchpreis-a-a7e117eb-fcd7-4346-9fb1-480f6e2f4848#ref=rss)
+### 19jährige
+
+* [https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen](https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen-a-e1d4a51b-c3f2-4cba-8f1f-602601d0d7b0#ref=rss)
+### weser
+
+* [https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen](https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen-a-e1d4a51b-c3f2-4cba-8f1f-602601d0d7b0#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen](https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen-a-e1d4a51b-c3f2-4cba-8f1f-602601d0d7b0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen](https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen-a-05cd6dd8-3c95-4288-b219-797ac6ceb441#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen](https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen-a-e1d4a51b-c3f2-4cba-8f1f-602601d0d7b0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette](https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette-a-c354039c-de5b-42be-8a06-c591452a7522#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen](https://www.spiegel.de/panorama/justiz/landgericht-verden-19-jaehrige-in-weser-versenkt-staatsanwaeltin-fordert-lebenslange-haftstrafen-a-e1d4a51b-c3f2-4cba-8f1f-602601d0d7b0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lucas-hernandez-bekommt-haftstrafen-bescheid](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lucas-hernandez-bekommt-haftstrafen-bescheid-a-aa71c1aa-5cca-44f2-9ccb-53a2c9c6a06d#ref=rss)
+### newcastle
+
+* [https://www.spiegel.de/sport/fussball/in-newcastle-ist-die-saudi-arabien-flagge-jetzt-ein-fanartikel](https://www.spiegel.de/sport/fussball/in-newcastle-ist-die-saudi-arabien-flagge-jetzt-ein-fanartikel-a-e049e09c-da53-4350-a140-54d514be2a32#ref=rss)
+### fans
+
+* [https://www.spiegel.de/sport/fussball/in-newcastle-ist-die-saudi-arabien-flagge-jetzt-ein-fanartikel](https://www.spiegel.de/sport/fussball/in-newcastle-ist-die-saudi-arabien-flagge-jetzt-ein-fanartikel-a-e049e09c-da53-4350-a140-54d514be2a32#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-muss-wegen-ausschreitungen-100-000-euro-strafe-zahlen](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-muss-wegen-ausschreitungen-100-000-euro-strafe-zahlen-a-00a95f03-5424-4db5-b90e-ff7035eb9f27#ref=rss)
+### umsatzsteuer
+
+* [https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf](https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf-a-48fd1f80-08c8-4502-8468-c231303415e4#ref=rss)
+### strom
+
+* [https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf](https://www.spiegel.de/wirtschaft/soziales/tschechien-hebt-umsatzsteuer-auf-strom-und-gas-befristet-auf-a-48fd1f80-08c8-4502-8468-c231303415e4#ref=rss)
+### bildchefredakteur
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/springer-entbindet-bild-chefredakteur-julian-reichelt-von-seinen-aufgaben](https://www.spiegel.de/wirtschaft/unternehmen/springer-entbindet-bild-chefredakteur-julian-reichelt-von-seinen-aufgaben-a-6e212770-0fa4-481c-84b3-d6fd269f0757#ref=rss)
+### impfkampagne
+
+* [https://www.spiegel.de/gesundheit/corona-in-russland-dramatische-todeszahlen-die-impfkampagne-lahmt](https://www.spiegel.de/gesundheit/corona-in-russland-dramatische-todeszahlen-die-impfkampagne-lahmt-a-470049f3-7157-4a5b-b8c9-b58e3c32ca7f#ref=rss)
+### lahmt
+
+* [https://www.spiegel.de/gesundheit/corona-in-russland-dramatische-todeszahlen-die-impfkampagne-lahmt](https://www.spiegel.de/gesundheit/corona-in-russland-dramatische-todeszahlen-die-impfkampagne-lahmt-a-470049f3-7157-4a5b-b8c9-b58e3c32ca7f#ref=rss)
+### viele
+
+* [https://www.spiegel.de/gesundheit/corona-in-russland-dramatische-todeszahlen-die-impfkampagne-lahmt](https://www.spiegel.de/gesundheit/corona-in-russland-dramatische-todeszahlen-die-impfkampagne-lahmt-a-470049f3-7157-4a5b-b8c9-b58e3c32ca7f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/immergruen-verbraucherzentrale-mahnt-koelner-stromanbieter-wegen-preiserhoehungen-ab](https://www.spiegel.de/wirtschaft/service/immergruen-verbraucherzentrale-mahnt-koelner-stromanbieter-wegen-preiserhoehungen-ab-a-d1db02c2-8e7a-4515-a96b-389d242bece2#ref=rss)
+### deshalb
+
+* [https://www.spiegel.de/gesundheit/corona-in-russland-dramatische-todeszahlen-die-impfkampagne-lahmt](https://www.spiegel.de/gesundheit/corona-in-russland-dramatische-todeszahlen-die-impfkampagne-lahmt-a-470049f3-7157-4a5b-b8c9-b58e3c32ca7f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen](https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen-a-05cd6dd8-3c95-4288-b219-797ac6ceb441#ref=rss)
+### angela
+
+* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen](https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen-a-05cd6dd8-3c95-4288-b219-797ac6ceb441#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen](https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen-a-05cd6dd8-3c95-4288-b219-797ac6ceb441#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen](https://www.spiegel.de/wirtschaft/soziales/energiekrise-angela-merkel-fordert-internationale-absprache-ueber-gaslieferungen-a-05cd6dd8-3c95-4288-b219-797ac6ceb441#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ippen-mediengruppe-begruendet-zurueckhalten-der-recherche-zu-julian-reichelt-und-springer](https://www.spiegel.de/wirtschaft/unternehmen/ippen-mediengruppe-begruendet-zurueckhalten-der-recherche-zu-julian-reichelt-und-springer-a-77db9aec-bbe8-4b3d-98ce-0080215534fa#ref=rss)
+### england
+
+* [https://www.spiegel.de/sport/fussball/fussball-em-2021-england-muss-wegen-ausschreitungen-100-000-euro-strafe-zahlen](https://www.spiegel.de/sport/fussball/fussball-em-2021-england-muss-wegen-ausschreitungen-100-000-euro-strafe-zahlen-a-00a95f03-5424-4db5-b90e-ff7035eb9f27#ref=rss)
+### tritt
+
+* [https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr](https://www.spiegel.de/auto/bussgeld-erhoehung-ab-dem-10-november-kosten-rasen-und-falschparken-mehr-a-fbd16e95-4cdd-4d94-88b1-cdeb4545f041#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden](https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden-a-21fea003-cba8-4af2-b4ec-1c70bb25d29b#ref=rss)
+### homöopathie
+
+* [https://www.spiegel.de/wissenschaft/mensch/homoeopathie-bayerische-aerztekammer-streicht-weiterbildungsangebote](https://www.spiegel.de/wissenschaft/mensch/homoeopathie-bayerische-aerztekammer-streicht-weiterbildungsangebote-a-0c8ec566-83ad-4173-8629-f37858bbee73#ref=rss)
+### bayerische
+
+* [https://www.spiegel.de/wissenschaft/mensch/homoeopathie-bayerische-aerztekammer-streicht-weiterbildungsangebote](https://www.spiegel.de/wissenschaft/mensch/homoeopathie-bayerische-aerztekammer-streicht-weiterbildungsangebote-a-0c8ec566-83ad-4173-8629-f37858bbee73#ref=rss)
+### verbraucherzentrale
+
+* [https://www.spiegel.de/wirtschaft/service/immergruen-verbraucherzentrale-mahnt-koelner-stromanbieter-wegen-preiserhoehungen-ab](https://www.spiegel.de/wirtschaft/service/immergruen-verbraucherzentrale-mahnt-koelner-stromanbieter-wegen-preiserhoehungen-ab-a-d1db02c2-8e7a-4515-a96b-389d242bece2#ref=rss)
+### coronavirus
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-cdu-plant-ein-ende-der-epidemischen-lage](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-cdu-plant-ein-ende-der-epidemischen-lage-a-5cdda2a3-d139-4314-9945-458445f284b7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-drei-szenarien-wie-deutschland-durch-den-winter-kommt](https://www.spiegel.de/wissenschaft/coronavirus-drei-szenarien-wie-deutschland-durch-den-winter-kommt-a-23f1caaf-37cf-4cac-880d-11aa1a77a032#ref=rss)
+### jens
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-cdu-plant-ein-ende-der-epidemischen-lage](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-cdu-plant-ein-ende-der-epidemischen-lage-a-5cdda2a3-d139-4314-9945-458445f284b7#ref=rss)
+### spahn
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-cdu-plant-ein-ende-der-epidemischen-lage](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-cdu-plant-ein-ende-der-epidemischen-lage-a-5cdda2a3-d139-4314-9945-458445f284b7#ref=rss)
+### recherche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ippen-mediengruppe-begruendet-zurueckhalten-der-recherche-zu-julian-reichelt-und-springer](https://www.spiegel.de/wirtschaft/unternehmen/ippen-mediengruppe-begruendet-zurueckhalten-der-recherche-zu-julian-reichelt-und-springer-a-77db9aec-bbe8-4b3d-98ce-0080215534fa#ref=rss)
+### polen
+
+* [https://www.spiegel.de/ausland/streit-mit-der-eu-polen-will-unabhaengigkeit-des-bundesgerichtshofes-ueberpruefen-lassen](https://www.spiegel.de/ausland/streit-mit-der-eu-polen-will-unabhaengigkeit-des-bundesgerichtshofes-ueberpruefen-lassen-a-a766b24b-795c-4f09-aa4a-f6102390fad2#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wissenschaft/coronavirus-drei-szenarien-wie-deutschland-durch-den-winter-kommt](https://www.spiegel.de/wissenschaft/coronavirus-drei-szenarien-wie-deutschland-durch-den-winter-kommt-a-23f1caaf-37cf-4cac-880d-11aa1a77a032#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette](https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette-a-c354039c-de5b-42be-8a06-c591452a7522#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/wissenschaft/coronavirus-drei-szenarien-wie-deutschland-durch-den-winter-kommt](https://www.spiegel.de/wissenschaft/coronavirus-drei-szenarien-wie-deutschland-durch-den-winter-kommt-a-23f1caaf-37cf-4cac-880d-11aa1a77a032#ref=rss)
+* [https://www.spiegel.de/ausland/kongsberg-angreifer-toetete-menschen-wohl-mit-stichwaffen](https://www.spiegel.de/ausland/kongsberg-angreifer-toetete-menschen-wohl-mit-stichwaffen-a-d69fa0af-bf67-42ba-af60-d8aa0dfd8472#ref=rss)
+### kongsberg
+
+* [https://www.spiegel.de/ausland/kongsberg-angreifer-toetete-menschen-wohl-mit-stichwaffen](https://www.spiegel.de/ausland/kongsberg-angreifer-toetete-menschen-wohl-mit-stichwaffen-a-d69fa0af-bf67-42ba-af60-d8aa0dfd8472#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/ausland/kongsberg-angreifer-toetete-menschen-wohl-mit-stichwaffen](https://www.spiegel.de/ausland/kongsberg-angreifer-toetete-menschen-wohl-mit-stichwaffen-a-d69fa0af-bf67-42ba-af60-d8aa0dfd8472#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette](https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette-a-c354039c-de5b-42be-8a06-c591452a7522#ref=rss)
+### dachau
+
+* [https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette](https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette-a-c354039c-de5b-42be-8a06-c591452a7522#ref=rss)
+### hitlergruß
+
+* [https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette](https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette-a-c354039c-de5b-42be-8a06-c591452a7522#ref=rss)
+### kzgedenkstätte
+
+* [https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette](https://www.spiegel.de/panorama/justiz/dachau-touristen-zeigen-offenbar-hitlergruss-vor-kz-gedenkstaette-a-c354039c-de5b-42be-8a06-c591452a7522#ref=rss)
+### n26
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/n26-sammelt-mehr-geld-ein-als-erwartet-trotz-compliance-problemen](https://www.spiegel.de/wirtschaft/unternehmen/n26-sammelt-mehr-geld-ein-als-erwartet-trotz-compliance-problemen-a-a32c827a-215c-46d0-adb4-76aa107c776d#ref=rss)
+### lucas
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lucas-hernandez-bekommt-haftstrafen-bescheid](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lucas-hernandez-bekommt-haftstrafen-bescheid-a-aa71c1aa-5cca-44f2-9ccb-53a2c9c6a06d#ref=rss)
+### hernández
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lucas-hernandez-bekommt-haftstrafen-bescheid](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-lucas-hernandez-bekommt-haftstrafen-bescheid-a-aa71c1aa-5cca-44f2-9ccb-53a2c9c6a06d#ref=rss)
+### peter
+
+* [https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden](https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden-a-21fea003-cba8-4af2-b4ec-1c70bb25d29b#ref=rss)
+### peters
+
+* [https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden](https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden-a-21fea003-cba8-4af2-b4ec-1c70bb25d29b#ref=rss)
+### dfbpräsident
+
+* [https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden](https://www.spiegel.de/sport/fussball/dfl-peter-peters-tritt-als-aufsichtsratschef-zurueck-und-will-dfb-praesident-werden-a-21fea003-cba8-4af2-b4ec-1c70bb25d29b#ref=rss)
 
