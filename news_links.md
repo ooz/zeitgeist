@@ -4,315 +4,267 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### bayern
+### offenbar
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga](https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga-a-5f04bd95-742d-4a93-946c-2d49d4bcabf8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen](https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen-a-41e2b4d0-794a-4b5a-b1c1-2cd80e0613ec#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung-a-efe5e902-714f-4696-89a5-8234b2f5d55c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage](https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage-a-cd672127-d550-4f4a-8733-eafded6e5670#ref=rss)
-### fc
+* [https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen](https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen-a-4794e5c2-08cf-4505-844f-829a94c68b1e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt-a-868ea4d0-802b-4525-b2f1-6543dde39c0d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt](https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt-a-30fcf81a-19a5-485b-a61b-5ea1a8f1cb13#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben](https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben-a-4d8ac8c8-0cf2-4a0d-ae92-cdf33b03da74#ref=rss)
+### israel
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld](https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld-a-7b6a795c-f625-49d1-b91e-4629c9b39690#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga](https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga-a-5f04bd95-742d-4a93-946c-2d49d4bcabf8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen](https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen-a-41e2b4d0-794a-4b5a-b1c1-2cd80e0613ec#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung-a-efe5e902-714f-4696-89a5-8234b2f5d55c#ref=rss)
-### grünen
+* [https://www.spiegel.de/kultur/spencer-tunick-kunstwerk-in-israel-fuer-das-schrumpfende-tote-meer](https://www.spiegel.de/kultur/spencer-tunick-kunstwerk-in-israel-fuer-das-schrumpfende-tote-meer-a-c1ce6e99-0109-4464-ad42-17c436344ad1#ref=rss)
+* [https://www.spiegel.de/ausland/hamas-gericht-verhaengt-todesurteil-fuer-kollaboration-mit-israel](https://www.spiegel.de/ausland/hamas-gericht-verhaengt-todesurteil-fuer-kollaboration-mit-israel-a-ee414341-0c57-44de-9b4b-03f562d88306#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/auto/katharina-fegebank-die-gruenen-wollen-crashtest-dummys-gendern-ja-bitte-kommentar](https://www.spiegel.de/auto/katharina-fegebank-die-gruenen-wollen-crashtest-dummys-gendern-ja-bitte-kommentar-a-9d86f9a8-48ce-4df0-b189-0006c55479fd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche](https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche-a-f8c09c56-d0d6-4280-a0fd-ba9f3226971b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp](https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp-a-075b3cf0-8428-4f48-9af0-2e87ea9d07d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab](https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab-a-c70df248-245f-4a78-accb-f4b51b7111b5#ref=rss)
-### fünf
+* [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cristian-lindner-spricht-sich-fuer-apotheken-verkauf-aus](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cristian-lindner-spricht-sich-fuer-apotheken-verkauf-aus-a-aeefa53b-b1f0-47c5-9bd6-590adb76bcce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner](https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner-a-25c31364-0f26-4b28-b1e1-57357e5f8c99#ref=rss)
+### bekommen
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld](https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld-a-7b6a795c-f625-49d1-b91e-4629c9b39690#ref=rss)
-* [https://www.spiegel.de/ausland/bill-clinton-nach-sepsis-aus-krankenhaus-entlassen](https://www.spiegel.de/ausland/bill-clinton-nach-sepsis-aus-krankenhaus-entlassen-a-3f254495-a991-4d6c-ba18-1a12f2acb39f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen](https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen-a-41e2b4d0-794a-4b5a-b1c1-2cd80e0613ec#ref=rss)
-* [https://www.spiegel.de/ausland/iran-britisch-iranische-staatsbuergerin-nazanin-zaghari-ratcliffe-muss-wohl-zurueck-ins-gefaengnis](https://www.spiegel.de/ausland/iran-britisch-iranische-staatsbuergerin-nazanin-zaghari-ratcliffe-muss-wohl-zurueck-ins-gefaengnis-a-105e6941-2147-4c36-9a1e-05b14dddd229#ref=rss)
-### russland
+* [https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen](https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen-a-6c116a53-c12e-4978-945c-e11ee6e968aa#ref=rss)
+* [https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen](https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen-a-1401136f-7e41-4cbb-8b9b-898ee73547b3#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/ausland/russland-stellt-ausgewiesener-bbc-korrespondentin-sarah-rainsford-rueckkehr-in-aussicht](https://www.spiegel.de/ausland/russland-stellt-ausgewiesener-bbc-korrespondentin-sarah-rainsford-rueckkehr-in-aussicht-a-88999b4a-9639-4a54-b7cd-74ccce3bd2cf#ref=rss)
-* [https://www.spiegel.de/panorama/bei-zirkusvorfuehrung-in-russland-baer-greift-dompteurin-an](https://www.spiegel.de/panorama/bei-zirkusvorfuehrung-in-russland-baer-greift-dompteurin-an-a-035ed04d-3e2c-48fa-8db7-a58b45576ac0#ref=rss)
-### leverkusen
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-dfb-kontrollausschuss-ermittelt-nach-rassistischen-vorfaellen](https://www.spiegel.de/sport/fussball/hamburger-sv-dfb-kontrollausschuss-ermittelt-nach-rassistischen-vorfaellen-a-b5013c9c-d27e-4423-b7e7-1b0e10eac54d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
+### tote
 
-* [https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen](https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen-a-41e2b4d0-794a-4b5a-b1c1-2cd80e0613ec#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung-a-efe5e902-714f-4696-89a5-8234b2f5d55c#ref=rss)
-### niederlage
+* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
+* [https://www.spiegel.de/kultur/spencer-tunick-kunstwerk-in-israel-fuer-das-schrumpfende-tote-meer](https://www.spiegel.de/kultur/spencer-tunick-kunstwerk-in-israel-fuer-das-schrumpfende-tote-meer-a-c1ce6e99-0109-4464-ad42-17c436344ad1#ref=rss)
+### eu
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga](https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga-a-5f04bd95-742d-4a93-946c-2d49d4bcabf8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage](https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage-a-cd672127-d550-4f4a-8733-eafded6e5670#ref=rss)
-### minuten
+* [https://www.spiegel.de/wirtschaft/soziales/coronavirus-eu-hat-eine-milliarde-impfstoffdosen-exportiert](https://www.spiegel.de/wirtschaft/soziales/coronavirus-eu-hat-eine-milliarde-impfstoffdosen-exportiert-a-b2796fd1-5040-4081-998e-afff41efa121#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga](https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga-a-5f04bd95-742d-4a93-946c-2d49d4bcabf8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen](https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen-a-41e2b4d0-794a-4b5a-b1c1-2cd80e0613ec#ref=rss)
-### drei
+* [https://www.spiegel.de/wirtschaft/service/dieselpreis-steigt-auf-rekordhoch-in-deutschland](https://www.spiegel.de/wirtschaft/service/dieselpreis-steigt-auf-rekordhoch-in-deutschland-a-bd95d396-62f7-4612-8878-468bb0ca40fd#ref=rss)
+* [https://www.spiegel.de/start/stipendium-der-friedrich-naumann-stiftung-voraussetzungen-bewerbung-foerderung](https://www.spiegel.de/start/stipendium-der-friedrich-naumann-stiftung-voraussetzungen-bewerbung-foerderung-a-2c56c2ee-c446-4fcf-8418-2395a053a9fd#ref=rss)
+### reichelt
 
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-drei-tote-bei-hubschrauber-absturz](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-drei-tote-bei-hubschrauber-absturz-a-4a16e75e-3037-4e43-a497-853cd2ee79a1#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/thriller-autorin-carmen-mola-ein-pseudonym-fuer-ein-maennliches-autoren-trio](https://www.spiegel.de/kultur/literatur/thriller-autorin-carmen-mola-ein-pseudonym-fuer-ein-maennliches-autoren-trio-a-6f622470-950a-40b4-90f1-9fe3a989079e#ref=rss)
-### kreisring
+* [https://www.spiegel.de/wirtschaft/julian-reichelt-ippen-verlag-verhindert-veroeffentlichung-von-recherche-ueber-bild-chef-reichelt](https://www.spiegel.de/wirtschaft/julian-reichelt-ippen-verlag-verhindert-veroeffentlichung-von-recherche-ueber-bild-chef-reichelt-a-6a1f4dd2-d1f8-460a-ad89-ffb6dc0ff377#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/karriere/wie-gross-ist-der-kreisring-raetsel-der-woche](https://www.spiegel.de/karriere/wie-gross-ist-der-kreisring-raetsel-der-woche-a-8a1a6eed-d0c0-4dc0-aa0a-6224c9344561#ref=rss)
-### berlin
+* [https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung](https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung-a-cc85896c-04e8-4518-85ae-3004e78fbf65#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/befangenheitsantrag-gegen-verfassungsgerichtspraesident-harbarth-abgelehnt](https://www.spiegel.de/politik/deutschland/befangenheitsantrag-gegen-verfassungsgerichtspraesident-harbarth-abgelehnt-a-5fa544fe-f196-475b-943f-8b896aa03a37#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/geschichte/kriegskind-in-berlin-ich-wischte-das-neugeborene-mit-heu-ab](https://www.spiegel.de/geschichte/kriegskind-in-berlin-ich-wischte-das-neugeborene-mit-heu-ab-a-8ff4f413-dd44-4d59-9830-ebd88463b58e#ref=rss)
-* [https://www.spiegel.de/stil/koenigliche-garten-akademie-englische-gartenkultur-in-berlin](https://www.spiegel.de/stil/koenigliche-garten-akademie-englische-gartenkultur-in-berlin-a-100b7cb5-e033-40c2-81dd-00d6b2a48fc3#ref=rss)
-### spd
+* [https://www.spiegel.de/wirtschaft/soziales/grossbritannien-plant-neues-atomkraftwerk](https://www.spiegel.de/wirtschaft/soziales/grossbritannien-plant-neues-atomkraftwerk-a-8d850bdc-80f2-4f22-b174-1f6037a79e08#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher](https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher-a-8d6eb53d-eb35-4c0e-8a97-1cf1e90ce44d#ref=rss)
+### neues
 
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche](https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche-a-f8c09c56-d0d6-4280-a0fd-ba9f3226971b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp](https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp-a-075b3cf0-8428-4f48-9af0-2e87ea9d07d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab](https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab-a-c70df248-245f-4a78-accb-f4b51b7111b5#ref=rss)
-### fdp
+* [https://www.spiegel.de/wirtschaft/soziales/grossbritannien-plant-neues-atomkraftwerk](https://www.spiegel.de/wirtschaft/soziales/grossbritannien-plant-neues-atomkraftwerk-a-8d850bdc-80f2-4f22-b174-1f6037a79e08#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner](https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner-a-25c31364-0f26-4b28-b1e1-57357e5f8c99#ref=rss)
+### knapp
 
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche](https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche-a-f8c09c56-d0d6-4280-a0fd-ba9f3226971b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp](https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp-a-075b3cf0-8428-4f48-9af0-2e87ea9d07d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab](https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab-a-c70df248-245f-4a78-accb-f4b51b7111b5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher](https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher-a-8d6eb53d-eb35-4c0e-8a97-1cf1e90ce44d#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/papiermangel-buchverleger-machen-sich-sorgen-ums-weihnachtsgeschaeft](https://www.spiegel.de/kultur/literatur/papiermangel-buchverleger-machen-sich-sorgen-ums-weihnachtsgeschaeft-a-a20bc36d-cd73-4b5e-932c-ee7561de66d3#ref=rss)
+### zwölf
+
+* [https://www.spiegel.de/panorama/justiz/dillingen-verschwundene-elfjaehrige-womoeglich-bei-der-sekte-zwoelf-staemme](https://www.spiegel.de/panorama/justiz/dillingen-verschwundene-elfjaehrige-womoeglich-bei-der-sekte-zwoelf-staemme-a-c853b33c-8628-4a0a-b1fa-ac0f39fa4334#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt](https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt-a-30fcf81a-19a5-485b-a61b-5ea1a8f1cb13#ref=rss)
+### christian
+
+* [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cristian-lindner-spricht-sich-fuer-apotheken-verkauf-aus](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cristian-lindner-spricht-sich-fuer-apotheken-verkauf-aus-a-aeefa53b-b1f0-47c5-9bd6-590adb76bcce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner](https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner-a-25c31364-0f26-4b28-b1e1-57357e5f8c99#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-dfb-kontrollausschuss-ermittelt-nach-rassistischen-vorfaellen](https://www.spiegel.de/sport/fussball/hamburger-sv-dfb-kontrollausschuss-ermittelt-nach-rassistischen-vorfaellen-a-b5013c9c-d27e-4423-b7e7-1b0e10eac54d#ref=rss)
 ### sv
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-98-besiegt-sv-werder-bremen](https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-98-besiegt-sv-werder-bremen-a-b69ffefd-6708-47ec-bbed-922a9a0941d0#ref=rss)
-### vfl
+* [https://www.spiegel.de/sport/fussball/hamburger-sv-dfb-kontrollausschuss-ermittelt-nach-rassistischen-vorfaellen](https://www.spiegel.de/sport/fussball/hamburger-sv-dfb-kontrollausschuss-ermittelt-nach-rassistischen-vorfaellen-a-b5013c9c-d27e-4423-b7e7-1b0e10eac54d#ref=rss)
+### darrell
 
-* [https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage](https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage-a-cd672127-d550-4f4a-8733-eafded6e5670#ref=rss)
-### länderrat
+* [https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen](https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen-a-4794e5c2-08cf-4505-844f-829a94c68b1e#ref=rss)
+### taylor
 
-* [https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp](https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp-a-075b3cf0-8428-4f48-9af0-2e87ea9d07d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab](https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab-a-c70df248-245f-4a78-accb-f4b51b7111b5#ref=rss)
-### bundesliga
+* [https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen](https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen-a-4794e5c2-08cf-4505-844f-829a94c68b1e#ref=rss)
+### zusammenprall
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld](https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld-a-7b6a795c-f625-49d1-b91e-4629c9b39690#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-98-besiegt-sv-werder-bremen](https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-98-besiegt-sv-werder-bremen-a-b69ffefd-6708-47ec-bbed-922a9a0941d0#ref=rss)
-### remis
+* [https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen](https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen-a-4794e5c2-08cf-4505-844f-829a94c68b1e#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld](https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld-a-7b6a795c-f625-49d1-b91e-4629c9b39690#ref=rss)
-### arminia
+* [https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen](https://www.spiegel.de/sport/nfl-football-profi-darrell-taylor-bleibt-nach-zusammenprall-reglos-liegen-a-4794e5c2-08cf-4505-844f-829a94c68b1e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben](https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben-a-4d8ac8c8-0cf2-4a0d-ae92-cdf33b03da74#ref=rss)
+### kourtney
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld](https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld-a-7b6a795c-f625-49d1-b91e-4629c9b39690#ref=rss)
-### bielefeld
+* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt-a-868ea4d0-802b-4525-b2f1-6543dde39c0d#ref=rss)
+### kardashian
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld](https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld-a-7b6a795c-f625-49d1-b91e-4629c9b39690#ref=rss)
-### erfolg
+* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt-a-868ea4d0-802b-4525-b2f1-6543dde39c0d#ref=rss)
+### travis
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld](https://www.spiegel.de/sport/fussball/bundesliga-fc-augsburg-mit-remis-gegen-lieblingsgegner-arminia-bielefeld-a-7b6a795c-f625-49d1-b91e-4629c9b39690#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung-a-efe5e902-714f-4696-89a5-8234b2f5d55c#ref=rss)
-### bill
+* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt-a-868ea4d0-802b-4525-b2f1-6543dde39c0d#ref=rss)
+### barker
 
-* [https://www.spiegel.de/ausland/bill-clinton-nach-sepsis-aus-krankenhaus-entlassen](https://www.spiegel.de/ausland/bill-clinton-nach-sepsis-aus-krankenhaus-entlassen-a-3f254495-a991-4d6c-ba18-1a12f2acb39f#ref=rss)
-### clinton
+* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt-a-868ea4d0-802b-4525-b2f1-6543dde39c0d#ref=rss)
+### verlobt
 
-* [https://www.spiegel.de/ausland/bill-clinton-nach-sepsis-aus-krankenhaus-entlassen](https://www.spiegel.de/ausland/bill-clinton-nach-sepsis-aus-krankenhaus-entlassen-a-3f254495-a991-4d6c-ba18-1a12f2acb39f#ref=rss)
-### krankenhaus
+* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-offenbar-verlobt-a-868ea4d0-802b-4525-b2f1-6543dde39c0d#ref=rss)
+### taucher
 
-* [https://www.spiegel.de/ausland/bill-clinton-nach-sepsis-aus-krankenhaus-entlassen](https://www.spiegel.de/ausland/bill-clinton-nach-sepsis-aus-krankenhaus-entlassen-a-3f254495-a991-4d6c-ba18-1a12f2acb39f#ref=rss)
-### entlassen
+* [https://www.spiegel.de/wissenschaft/mensch/taucher-findet-900-jahre-altes-kreuzritterschwert-im-mittelmeer](https://www.spiegel.de/wissenschaft/mensch/taucher-findet-900-jahre-altes-kreuzritterschwert-im-mittelmeer-a-863b92af-f573-4030-bb6e-74ff02baf035#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/bill-clinton-nach-sepsis-aus-krankenhaus-entlassen](https://www.spiegel.de/ausland/bill-clinton-nach-sepsis-aus-krankenhaus-entlassen-a-3f254495-a991-4d6c-ba18-1a12f2acb39f#ref=rss)
-### bbckorrespondentin
+* [https://www.spiegel.de/wissenschaft/mensch/taucher-findet-900-jahre-altes-kreuzritterschwert-im-mittelmeer](https://www.spiegel.de/wissenschaft/mensch/taucher-findet-900-jahre-altes-kreuzritterschwert-im-mittelmeer-a-863b92af-f573-4030-bb6e-74ff02baf035#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/papiermangel-buchverleger-machen-sich-sorgen-ums-weihnachtsgeschaeft](https://www.spiegel.de/kultur/literatur/papiermangel-buchverleger-machen-sich-sorgen-ums-weihnachtsgeschaeft-a-a20bc36d-cd73-4b5e-932c-ee7561de66d3#ref=rss)
+### zeit
 
-* [https://www.spiegel.de/ausland/russland-stellt-ausgewiesener-bbc-korrespondentin-sarah-rainsford-rueckkehr-in-aussicht](https://www.spiegel.de/ausland/russland-stellt-ausgewiesener-bbc-korrespondentin-sarah-rainsford-rueckkehr-in-aussicht-a-88999b4a-9639-4a54-b7cd-74ccce3bd2cf#ref=rss)
-### sarah
+* [https://www.spiegel.de/wissenschaft/mensch/taucher-findet-900-jahre-altes-kreuzritterschwert-im-mittelmeer](https://www.spiegel.de/wissenschaft/mensch/taucher-findet-900-jahre-altes-kreuzritterschwert-im-mittelmeer-a-863b92af-f573-4030-bb6e-74ff02baf035#ref=rss)
+* [https://www.spiegel.de/politik/jutta-allmendinger-und-peter-dabrock-offener-brief-an-die-spd-bundestagfraktion-es-braucht-eine-frau-als-bundestagspraesidentin](https://www.spiegel.de/politik/jutta-allmendinger-und-peter-dabrock-offener-brief-an-die-spd-bundestagfraktion-es-braucht-eine-frau-als-bundestagspraesidentin-a-2d968090-e11f-451f-88cc-de954cb2c067#ref=rss)
+### ilmenau
 
-* [https://www.spiegel.de/ausland/russland-stellt-ausgewiesener-bbc-korrespondentin-sarah-rainsford-rueckkehr-in-aussicht](https://www.spiegel.de/ausland/russland-stellt-ausgewiesener-bbc-korrespondentin-sarah-rainsford-rueckkehr-in-aussicht-a-88999b4a-9639-4a54-b7cd-74ccce3bd2cf#ref=rss)
-### rainsford
+* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
+### zierfische
 
-* [https://www.spiegel.de/ausland/russland-stellt-ausgewiesener-bbc-korrespondentin-sarah-rainsford-rueckkehr-in-aussicht](https://www.spiegel.de/ausland/russland-stellt-ausgewiesener-bbc-korrespondentin-sarah-rainsford-rueckkehr-in-aussicht-a-88999b4a-9639-4a54-b7cd-74ccce3bd2cf#ref=rss)
-### rückkehr
+* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
+### straße
 
-* [https://www.spiegel.de/ausland/russland-stellt-ausgewiesener-bbc-korrespondentin-sarah-rainsford-rueckkehr-in-aussicht](https://www.spiegel.de/ausland/russland-stellt-ausgewiesener-bbc-korrespondentin-sarah-rainsford-rueckkehr-in-aussicht-a-88999b4a-9639-4a54-b7cd-74ccce3bd2cf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-98-besiegt-sv-werder-bremen](https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-98-besiegt-sv-werder-bremen-a-b69ffefd-6708-47ec-bbed-922a9a0941d0#ref=rss)
-### journalistin
+* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/ausland/russland-stellt-ausgewiesener-bbc-korrespondentin-sarah-rainsford-rueckkehr-in-aussicht](https://www.spiegel.de/ausland/russland-stellt-ausgewiesener-bbc-korrespondentin-sarah-rainsford-rueckkehr-in-aussicht-a-88999b4a-9639-4a54-b7cd-74ccce3bd2cf#ref=rss)
-* [https://www.spiegel.de/ausland/iran-britisch-iranische-staatsbuergerin-nazanin-zaghari-ratcliffe-muss-wohl-zurueck-ins-gefaengnis](https://www.spiegel.de/ausland/iran-britisch-iranische-staatsbuergerin-nazanin-zaghari-ratcliffe-muss-wohl-zurueck-ins-gefaengnis-a-105e6941-2147-4c36-9a1e-05b14dddd229#ref=rss)
-### erst
+* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dillingen-verschwundene-elfjaehrige-womoeglich-bei-der-sekte-zwoelf-staemme](https://www.spiegel.de/panorama/justiz/dillingen-verschwundene-elfjaehrige-womoeglich-bei-der-sekte-zwoelf-staemme-a-c853b33c-8628-4a0a-b1fa-ac0f39fa4334#ref=rss)
+### sucht
 
-* [https://www.spiegel.de/auto/fahrkultur/bizzarrini-manta-radikaler-rochen](https://www.spiegel.de/auto/fahrkultur/bizzarrini-manta-radikaler-rochen-a-d6d2b1fe-275a-4f0c-9877-8973a5e48319#ref=rss)
-* [https://www.spiegel.de/panorama/muelheim-an-der-ruhr-moornixe-gesunkenes-schiff-erfolgreich-aus-dem-wasser-gehoben](https://www.spiegel.de/panorama/muelheim-an-der-ruhr-moornixe-gesunkenes-schiff-erfolgreich-aus-dem-wasser-gehoben-a-b2ce2097-af9e-4a5b-88cf-9241bb34d2db#ref=rss)
-### neue
+* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen](https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen-a-6c116a53-c12e-4978-945c-e11ee6e968aa#ref=rss)
+### zeugen
 
-* [https://www.spiegel.de/auto/fahrkultur/bizzarrini-manta-radikaler-rochen](https://www.spiegel.de/auto/fahrkultur/bizzarrini-manta-radikaler-rochen-a-d6d2b1fe-275a-4f0c-9877-8973a5e48319#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dresden-unsichtbar-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dresden-unsichtbar-im-schnellcheck-a-d7918d4a-1590-4c92-9a35-9b10c6df06d0#ref=rss)
-### bitte
+* [https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden](https://www.spiegel.de/panorama/justiz/ilmenau-in-thueringen-rund-hundert-tote-zierfische-auf-strasse-gefunden-a-1c0efb54-3e26-4b7b-9656-3a0a5c9852e7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst](https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst-a-b9546c7e-f04b-4fb7-8465-24b7aa1f8413#ref=rss)
+### spencer
 
-* [https://www.spiegel.de/familie/besuch-in-der-tortenfabrik-aber-bitte-mit-sahne](https://www.spiegel.de/familie/besuch-in-der-tortenfabrik-aber-bitte-mit-sahne-a-f28556aa-2c49-44a3-8744-4d70829b2e6a#ref=rss)
-* [https://www.spiegel.de/auto/katharina-fegebank-die-gruenen-wollen-crashtest-dummys-gendern-ja-bitte-kommentar](https://www.spiegel.de/auto/katharina-fegebank-die-gruenen-wollen-crashtest-dummys-gendern-ja-bitte-kommentar-a-9d86f9a8-48ce-4df0-b189-0006c55479fd#ref=rss)
-### wir
+* [https://www.spiegel.de/kultur/spencer-tunick-kunstwerk-in-israel-fuer-das-schrumpfende-tote-meer](https://www.spiegel.de/kultur/spencer-tunick-kunstwerk-in-israel-fuer-das-schrumpfende-tote-meer-a-c1ce6e99-0109-4464-ad42-17c436344ad1#ref=rss)
+### exportiert
 
-* [https://www.spiegel.de/familie/besuch-in-der-tortenfabrik-aber-bitte-mit-sahne](https://www.spiegel.de/familie/besuch-in-der-tortenfabrik-aber-bitte-mit-sahne-a-f28556aa-2c49-44a3-8744-4d70829b2e6a#ref=rss)
-* [https://www.spiegel.de/ausland/waisenhaus-in-kabul-wir-haben-probleme-lebensmittel-fuer-die-kinder-zu-beschaffen](https://www.spiegel.de/ausland/waisenhaus-in-kabul-wir-haben-probleme-lebensmittel-fuer-die-kinder-zu-beschaffen-a-624bad27-0fa6-449c-8e77-6c78f468a7fb#ref=rss)
-### eintracht
+* [https://www.spiegel.de/wirtschaft/soziales/coronavirus-eu-hat-eine-milliarde-impfstoffdosen-exportiert](https://www.spiegel.de/wirtschaft/soziales/coronavirus-eu-hat-eine-milliarde-impfstoffdosen-exportiert-a-b2796fd1-5040-4081-998e-afff41efa121#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga](https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga-a-5f04bd95-742d-4a93-946c-2d49d4bcabf8#ref=rss)
-### frankfurt
+* [https://www.spiegel.de/wirtschaft/soziales/coronavirus-eu-hat-eine-milliarde-impfstoffdosen-exportiert](https://www.spiegel.de/wirtschaft/soziales/coronavirus-eu-hat-eine-milliarde-impfstoffdosen-exportiert-a-b2796fd1-5040-4081-998e-afff41efa121#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner](https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner-a-25c31364-0f26-4b28-b1e1-57357e5f8c99#ref=rss)
+### schwangere
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga](https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga-a-5f04bd95-742d-4a93-946c-2d49d4bcabf8#ref=rss)
-### frauenbundesliga
+* [https://www.spiegel.de/gesundheit/schwangerschaft/grippe-frauenaerzte-rufen-schwangere-zur-impfung-auf](https://www.spiegel.de/gesundheit/schwangerschaft/grippe-frauenaerzte-rufen-schwangere-zur-impfung-auf-a-17ca3d26-4401-45ff-ad06-ab9aa399097c#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga](https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga-a-5f04bd95-742d-4a93-946c-2d49d4bcabf8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage](https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage-a-cd672127-d550-4f4a-8733-eafded6e5670#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/dieselpreis-steigt-auf-rekordhoch-in-deutschland](https://www.spiegel.de/wirtschaft/service/dieselpreis-steigt-auf-rekordhoch-in-deutschland-a-bd95d396-62f7-4612-8878-468bb0ca40fd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher](https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher-a-8d6eb53d-eb35-4c0e-8a97-1cf1e90ce44d#ref=rss)
+### berichten
+
+* [https://www.spiegel.de/wirtschaft/julian-reichelt-ippen-verlag-verhindert-veroeffentlichung-von-recherche-ueber-bild-chef-reichelt](https://www.spiegel.de/wirtschaft/julian-reichelt-ippen-verlag-verhindert-veroeffentlichung-von-recherche-ueber-bild-chef-reichelt-a-6a1f4dd2-d1f8-460a-ad89-ffb6dc0ff377#ref=rss)
+* [https://www.spiegel.de/start/stipendium-der-friedrich-naumann-stiftung-voraussetzungen-bewerbung-foerderung](https://www.spiegel.de/start/stipendium-der-friedrich-naumann-stiftung-voraussetzungen-bewerbung-foerderung-a-2c56c2ee-c446-4fcf-8418-2395a053a9fd#ref=rss)
+### el
+
+* [https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung](https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung-a-cc85896c-04e8-4518-85ae-3004e78fbf65#ref=rss)
+### salvador
+
+* [https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung](https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung-a-cc85896c-04e8-4518-85ae-3004e78fbf65#ref=rss)
+### bukele
+
+* [https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung](https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung-a-cc85896c-04e8-4518-85ae-3004e78fbf65#ref=rss)
+### bitcoin
+
+* [https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung](https://www.spiegel.de/ausland/el-salvador-proteste-gegen-praesident-nayib-bukele-und-den-bitcoin-als-waehrung-a-cc85896c-04e8-4518-85ae-3004e78fbf65#ref=rss)
+### stipendium
+
+* [https://www.spiegel.de/start/stipendium-der-friedrich-naumann-stiftung-voraussetzungen-bewerbung-foerderung](https://www.spiegel.de/start/stipendium-der-friedrich-naumann-stiftung-voraussetzungen-bewerbung-foerderung-a-2c56c2ee-c446-4fcf-8418-2395a053a9fd#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/politik/jutta-allmendinger-und-peter-dabrock-offener-brief-an-die-spd-bundestagfraktion-es-braucht-eine-frau-als-bundestagspraesidentin](https://www.spiegel.de/politik/jutta-allmendinger-und-peter-dabrock-offener-brief-an-die-spd-bundestagfraktion-es-braucht-eine-frau-als-bundestagspraesidentin-a-2d968090-e11f-451f-88cc-de954cb2c067#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-klimaexperten-fordern-ausweisung-neuer-meeresschutzgebiete](https://www.spiegel.de/wissenschaft/natur/antarktis-klimaexperten-fordern-ausweisung-neuer-meeresschutzgebiete-a-a3e7ed55-b0a1-4c44-ac73-9d846358523b#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga](https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga-a-5f04bd95-742d-4a93-946c-2d49d4bcabf8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/handball-bundesliga-spielabbruch-wegen-eines-medizinischen-notfalls-sorge-um-fans](https://www.spiegel.de/sport/fussball/handball-bundesliga-spielabbruch-wegen-eines-medizinischen-notfalls-sorge-um-fans-a-c6e32089-f3f6-430f-ae7a-12d8cef01f5a#ref=rss)
-### stehen
+* [https://www.spiegel.de/ausland/hamas-gericht-verhaengt-todesurteil-fuer-kollaboration-mit-israel](https://www.spiegel.de/ausland/hamas-gericht-verhaengt-todesurteil-fuer-kollaboration-mit-israel-a-ee414341-0c57-44de-9b4b-03f562d88306#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben](https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben-a-4d8ac8c8-0cf2-4a0d-ae92-cdf33b03da74#ref=rss)
+### männer
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga](https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga-a-5f04bd95-742d-4a93-946c-2d49d4bcabf8#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/thriller-autorin-carmen-mola-ein-pseudonym-fuer-ein-maennliches-autoren-trio](https://www.spiegel.de/kultur/literatur/thriller-autorin-carmen-mola-ein-pseudonym-fuer-ein-maennliches-autoren-trio-a-6f622470-950a-40b4-90f1-9fe3a989079e#ref=rss)
-### mehrere
+* [https://www.spiegel.de/ausland/hamas-gericht-verhaengt-todesurteil-fuer-kollaboration-mit-israel](https://www.spiegel.de/ausland/hamas-gericht-verhaengt-todesurteil-fuer-kollaboration-mit-israel-a-ee414341-0c57-44de-9b4b-03f562d88306#ref=rss)
+### elvis
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga](https://www.spiegel.de/sport/fussball/fc-bayern-bei-eintracht-frankfurt-mit-erster-niederlage-in-der-frauen-bundesliga-a-5f04bd95-742d-4a93-946c-2d49d4bcabf8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-drei-tote-bei-hubschrauber-absturz](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-drei-tote-bei-hubschrauber-absturz-a-4a16e75e-3037-4e43-a497-853cd2ee79a1#ref=rss)
-### grönland
+* [https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot](https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot-a-2e53e26c-a2e2-4940-bfa7-a5d85de77abc#ref=rss)
+### tcb
 
-* [https://www.spiegel.de/wissenschaft/groenland-dieses-gestein-soll-groenland-reich-und-klimafreundlich-machen](https://www.spiegel.de/wissenschaft/groenland-dieses-gestein-soll-groenland-reich-und-klimafreundlich-machen-a-db3d6bc2-9941-4a6c-8860-acaa9f9162eb#ref=rss)
-### gestein
+* [https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot](https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot-a-2e53e26c-a2e2-4940-bfa7-a5d85de77abc#ref=rss)
+### band
 
-* [https://www.spiegel.de/wissenschaft/groenland-dieses-gestein-soll-groenland-reich-und-klimafreundlich-machen](https://www.spiegel.de/wissenschaft/groenland-dieses-gestein-soll-groenland-reich-und-klimafreundlich-machen-a-db3d6bc2-9941-4a6c-8860-acaa9f9162eb#ref=rss)
-### liegt
+* [https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot](https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot-a-2e53e26c-a2e2-4940-bfa7-a5d85de77abc#ref=rss)
+### ronnie
 
-* [https://www.spiegel.de/wissenschaft/groenland-dieses-gestein-soll-groenland-reich-und-klimafreundlich-machen](https://www.spiegel.de/wissenschaft/groenland-dieses-gestein-soll-groenland-reich-und-klimafreundlich-machen-a-db3d6bc2-9941-4a6c-8860-acaa9f9162eb#ref=rss)
-* [https://www.spiegel.de/karriere/wie-gross-ist-der-kreisring-raetsel-der-woche](https://www.spiegel.de/karriere/wie-gross-ist-der-kreisring-raetsel-der-woche-a-8a1a6eed-d0c0-4dc0-aa0a-6224c9344561#ref=rss)
-### bär
+* [https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot](https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot-a-2e53e26c-a2e2-4940-bfa7-a5d85de77abc#ref=rss)
+### tutt
 
-* [https://www.spiegel.de/panorama/bei-zirkusvorfuehrung-in-russland-baer-greift-dompteurin-an](https://www.spiegel.de/panorama/bei-zirkusvorfuehrung-in-russland-baer-greift-dompteurin-an-a-035ed04d-3e2c-48fa-8db7-a58b45576ac0#ref=rss)
-### münchen
+* [https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot](https://www.spiegel.de/kultur/musik/elvis-presleys-tcb-band-schlagzeuger-ronnie-tutt-ist-tot-a-2e53e26c-a2e2-4940-bfa7-a5d85de77abc#ref=rss)
+### türsteher
 
-* [https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen](https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen-a-41e2b4d0-794a-4b5a-b1c1-2cd80e0613ec#ref=rss)
-* [https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage](https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage-a-cd672127-d550-4f4a-8733-eafded6e5670#ref=rss)
-### bayer
+* [https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher](https://www.spiegel.de/wirtschaft/soziales/grossbritanniens-clubs-fehlen-tuersteher-a-8d6eb53d-eb35-4c0e-8a97-1cf1e90ce44d#ref=rss)
+### sekte
 
-* [https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen](https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen-a-41e2b4d0-794a-4b5a-b1c1-2cd80e0613ec#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung-a-efe5e902-714f-4696-89a5-8234b2f5d55c#ref=rss)
-### topspiel
+* [https://www.spiegel.de/panorama/justiz/dillingen-verschwundene-elfjaehrige-womoeglich-bei-der-sekte-zwoelf-staemme](https://www.spiegel.de/panorama/justiz/dillingen-verschwundene-elfjaehrige-womoeglich-bei-der-sekte-zwoelf-staemme-a-c853b33c-8628-4a0a-b1fa-ac0f39fa4334#ref=rss)
+### fdpchef
 
-* [https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen](https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen-a-41e2b4d0-794a-4b5a-b1c1-2cd80e0613ec#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung-a-efe5e902-714f-4696-89a5-8234b2f5d55c#ref=rss)
-### 45
+* [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cristian-lindner-spricht-sich-fuer-apotheken-verkauf-aus](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-cristian-lindner-spricht-sich-fuer-apotheken-verkauf-aus-a-aeefa53b-b1f0-47c5-9bd6-590adb76bcce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner](https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner-a-25c31364-0f26-4b28-b1e1-57357e5f8c99#ref=rss)
+### sex
 
-* [https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen](https://www.spiegel.de/sport/fussball/bayern-muenchen-deklassiert-bayer-leverkusen-im-topspiel-45-minuten-attacke-45-minuten-auslaufen-a-41e2b4d0-794a-4b5a-b1c1-2cd80e0613ec#ref=rss)
-### katharina
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch](https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch-a-32734ddb-10e0-4096-9db8-c956ebd6af2a#ref=rss)
+### and
 
-* [https://www.spiegel.de/auto/katharina-fegebank-die-gruenen-wollen-crashtest-dummys-gendern-ja-bitte-kommentar](https://www.spiegel.de/auto/katharina-fegebank-die-gruenen-wollen-crashtest-dummys-gendern-ja-bitte-kommentar-a-9d86f9a8-48ce-4df0-b189-0006c55479fd#ref=rss)
-### fegebank
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch](https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch-a-32734ddb-10e0-4096-9db8-c956ebd6af2a#ref=rss)
+### the
 
-* [https://www.spiegel.de/auto/katharina-fegebank-die-gruenen-wollen-crashtest-dummys-gendern-ja-bitte-kommentar](https://www.spiegel.de/auto/katharina-fegebank-die-gruenen-wollen-crashtest-dummys-gendern-ja-bitte-kommentar-a-9d86f9a8-48ce-4df0-b189-0006c55479fd#ref=rss)
-### crashtestdummys
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch](https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch-a-32734ddb-10e0-4096-9db8-c956ebd6af2a#ref=rss)
+### city
 
-* [https://www.spiegel.de/auto/katharina-fegebank-die-gruenen-wollen-crashtest-dummys-gendern-ja-bitte-kommentar](https://www.spiegel.de/auto/katharina-fegebank-die-gruenen-wollen-crashtest-dummys-gendern-ja-bitte-kommentar-a-9d86f9a8-48ce-4df0-b189-0006c55479fd#ref=rss)
-### festigt
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch](https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch-a-32734ddb-10e0-4096-9db8-c956ebd6af2a#ref=rss)
+### candace
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung-a-efe5e902-714f-4696-89a5-8234b2f5d55c#ref=rss)
-### tabellenführung
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch](https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch-a-32734ddb-10e0-4096-9db8-c956ebd6af2a#ref=rss)
+### bushnell
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung-a-efe5e902-714f-4696-89a5-8234b2f5d55c#ref=rss)
-### gewonnen
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch](https://www.spiegel.de/panorama/leute/sex-and-the-city-candace-bushnell-bezeichnet-serie-als-nicht-sehr-feministisch-a-32734ddb-10e0-4096-9db8-c956ebd6af2a#ref=rss)
+### harbarth
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/fussball-bundesliga-der-fc-bayern-brilliert-bei-bayer-leverkusen-und-festigt-die-tabellenfuehrung-a-efe5e902-714f-4696-89a5-8234b2f5d55c#ref=rss)
-* [https://www.spiegel.de/sport/marathon-in-amsterdam-keniaierin-tanui-rennt-zum-streckenrekord-und-trauert-um-verstorbene-teamkollegin-tirop](https://www.spiegel.de/sport/marathon-in-amsterdam-keniaierin-tanui-rennt-zum-streckenrekord-und-trauert-um-verstorbene-teamkollegin-tirop-a-ef1a36b5-9e4b-46d6-8fa6-41f84e528556#ref=rss)
-### kurz
+* [https://www.spiegel.de/politik/deutschland/befangenheitsantrag-gegen-verfassungsgerichtspraesident-harbarth-abgelehnt](https://www.spiegel.de/politik/deutschland/befangenheitsantrag-gegen-verfassungsgerichtspraesident-harbarth-abgelehnt-a-5fa544fe-f196-475b-943f-8b896aa03a37#ref=rss)
+### playstation
 
-* [https://www.spiegel.de/geschichte/kriegskind-in-berlin-ich-wischte-das-neugeborene-mit-heu-ab](https://www.spiegel.de/geschichte/kriegskind-in-berlin-ich-wischte-das-neugeborene-mit-heu-ab-a-8ff4f413-dd44-4d59-9830-ebd88463b58e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab](https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab-a-c70df248-245f-4a78-accb-f4b51b7111b5#ref=rss)
-### jahre
+* [https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen](https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen-a-6c116a53-c12e-4978-945c-e11ee6e968aa#ref=rss)
+### 5
 
-* [https://www.spiegel.de/geschichte/kriegskind-in-berlin-ich-wischte-das-neugeborene-mit-heu-ab](https://www.spiegel.de/geschichte/kriegskind-in-berlin-ich-wischte-das-neugeborene-mit-heu-ab-a-8ff4f413-dd44-4d59-9830-ebd88463b58e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-britisch-iranische-staatsbuergerin-nazanin-zaghari-ratcliffe-muss-wohl-zurueck-ins-gefaengnis](https://www.spiegel.de/ausland/iran-britisch-iranische-staatsbuergerin-nazanin-zaghari-ratcliffe-muss-wohl-zurueck-ins-gefaengnis-a-105e6941-2147-4c36-9a1e-05b14dddd229#ref=rss)
-### waisenhaus
+* [https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen](https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen-a-6c116a53-c12e-4978-945c-e11ee6e968aa#ref=rss)
+### schwer
 
-* [https://www.spiegel.de/ausland/waisenhaus-in-kabul-wir-haben-probleme-lebensmittel-fuer-die-kinder-zu-beschaffen](https://www.spiegel.de/ausland/waisenhaus-in-kabul-wir-haben-probleme-lebensmittel-fuer-die-kinder-zu-beschaffen-a-624bad27-0fa6-449c-8e77-6c78f468a7fb#ref=rss)
-### probleme
+* [https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen](https://www.spiegel.de/netzwelt/games/playstation-5-darum-sind-auch-die-controller-der-ps4-schwer-zu-bekommen-a-6c116a53-c12e-4978-945c-e11ee6e968aa#ref=rss)
+### filmteam
 
-* [https://www.spiegel.de/ausland/waisenhaus-in-kabul-wir-haben-probleme-lebensmittel-fuer-die-kinder-zu-beschaffen](https://www.spiegel.de/ausland/waisenhaus-in-kabul-wir-haben-probleme-lebensmittel-fuer-die-kinder-zu-beschaffen-a-624bad27-0fa6-449c-8e77-6c78f468a7fb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wein-und-die-folgen-der-klimakrise-warum-der-riesling-bald-anders-schmeckt](https://www.spiegel.de/wissenschaft/natur/wein-und-die-folgen-der-klimakrise-warum-der-riesling-bald-anders-schmeckt-a-f9bb9bf4-cc3c-4d74-adaf-bb9e08fbe515#ref=rss)
-### carmen
+* [https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt](https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt-a-30fcf81a-19a5-485b-a61b-5ea1a8f1cb13#ref=rss)
+### raumstation
 
-* [https://www.spiegel.de/kultur/literatur/thriller-autorin-carmen-mola-ein-pseudonym-fuer-ein-maennliches-autoren-trio](https://www.spiegel.de/kultur/literatur/thriller-autorin-carmen-mola-ein-pseudonym-fuer-ein-maennliches-autoren-trio-a-6f622470-950a-40b4-90f1-9fe3a989079e#ref=rss)
-### mola
+* [https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt](https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt-a-30fcf81a-19a5-485b-a61b-5ea1a8f1cb13#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/kultur/literatur/thriller-autorin-carmen-mola-ein-pseudonym-fuer-ein-maennliches-autoren-trio](https://www.spiegel.de/kultur/literatur/thriller-autorin-carmen-mola-ein-pseudonym-fuer-ein-maennliches-autoren-trio-a-6f622470-950a-40b4-90f1-9fe3a989079e#ref=rss)
-### pseudonym
+* [https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt](https://www.spiegel.de/wissenschaft/weltall/iss-russisches-filmteam-von-internationaler-raumstation-zurueckgekehrt-a-30fcf81a-19a5-485b-a61b-5ea1a8f1cb13#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-klimaexperten-fordern-ausweisung-neuer-meeresschutzgebiete](https://www.spiegel.de/wissenschaft/natur/antarktis-klimaexperten-fordern-ausweisung-neuer-meeresschutzgebiete-a-a3e7ed55-b0a1-4c44-ac73-9d846358523b#ref=rss)
+### russland
 
-* [https://www.spiegel.de/kultur/literatur/thriller-autorin-carmen-mola-ein-pseudonym-fuer-ein-maennliches-autoren-trio](https://www.spiegel.de/kultur/literatur/thriller-autorin-carmen-mola-ein-pseudonym-fuer-ein-maennliches-autoren-trio-a-6f622470-950a-40b4-90f1-9fe3a989079e#ref=rss)
-### riesling
+* [https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben](https://www.spiegel.de/panorama/justiz/russland-zwoelfjaehriger-soll-an-schule-zwei-schuesse-abgegeben-haben-a-4d8ac8c8-0cf2-4a0d-ae92-cdf33b03da74#ref=rss)
+### präsentationen
 
-* [https://www.spiegel.de/wissenschaft/natur/wein-und-die-folgen-der-klimakrise-warum-der-riesling-bald-anders-schmeckt](https://www.spiegel.de/wissenschaft/natur/wein-und-die-folgen-der-klimakrise-warum-der-riesling-bald-anders-schmeckt-a-f9bb9bf4-cc3c-4d74-adaf-bb9e08fbe515#ref=rss)
-### englische
+* [https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen](https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen-a-1401136f-7e41-4cbb-8b9b-898ee73547b3#ref=rss)
+### problem
 
-* [https://www.spiegel.de/stil/koenigliche-garten-akademie-englische-gartenkultur-in-berlin](https://www.spiegel.de/stil/koenigliche-garten-akademie-englische-gartenkultur-in-berlin-a-100b7cb5-e033-40c2-81dd-00d6b2a48fc3#ref=rss)
-### ampelkoalition
+* [https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen](https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen-a-1401136f-7e41-4cbb-8b9b-898ee73547b3#ref=rss)
+### griff
 
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche](https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche-a-f8c09c56-d0d6-4280-a0fd-ba9f3226971b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab](https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab-a-c70df248-245f-4a78-accb-f4b51b7111b5#ref=rss)
-### koalitionsgespräche
+* [https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen](https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen-a-1401136f-7e41-4cbb-8b9b-898ee73547b3#ref=rss)
+### macht
 
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche](https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche-a-f8c09c56-d0d6-4280-a0fd-ba9f3226971b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp](https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp-a-075b3cf0-8428-4f48-9af0-2e87ea9d07d4#ref=rss)
-### koalitionsverhandlungen
+* [https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen](https://www.spiegel.de/karriere/stress-durch-und-bei-praesentationen-so-kann-man-das-problem-in-den-griff-bekommen-a-1401136f-7e41-4cbb-8b9b-898ee73547b3#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst](https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst-a-b9546c7e-f04b-4fb7-8465-24b7aa1f8413#ref=rss)
+### bannon
 
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche](https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche-a-f8c09c56-d0d6-4280-a0fd-ba9f3226971b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab](https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab-a-c70df248-245f-4a78-accb-f4b51b7111b5#ref=rss)
-### entschieden
+* [https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst](https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst-a-b9546c7e-f04b-4fb7-8465-24b7aa1f8413#ref=rss)
+### sonderausschuss
 
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche](https://www.spiegel.de/politik/deutschland/ampel-koalition-gruenen-parteitag-stimmt-fuer-koalitionsgespraeche-a-f8c09c56-d0d6-4280-a0fd-ba9f3226971b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab](https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab-a-c70df248-245f-4a78-accb-f4b51b7111b5#ref=rss)
-### darmstadt
+* [https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst](https://www.spiegel.de/ausland/donald-trump-und-steve-bannon-sonderausschuss-zum-kapitol-sturm-macht-ernst-a-b9546c7e-f04b-4fb7-8465-24b7aa1f8413#ref=rss)
+### antarktis
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-98-besiegt-sv-werder-bremen](https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-98-besiegt-sv-werder-bremen-a-b69ffefd-6708-47ec-bbed-922a9a0941d0#ref=rss)
-### 98
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-98-besiegt-sv-werder-bremen](https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-98-besiegt-sv-werder-bremen-a-b69ffefd-6708-47ec-bbed-922a9a0941d0#ref=rss)
-### werder
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-98-besiegt-sv-werder-bremen](https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-98-besiegt-sv-werder-bremen-a-b69ffefd-6708-47ec-bbed-922a9a0941d0#ref=rss)
-### wolfsburg
-
-* [https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage](https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage-a-cd672127-d550-4f4a-8733-eafded6e5670#ref=rss)
-### hoffenheim
-
-* [https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage](https://www.spiegel.de/sport/fussball/frauenfussball-vfl-wolfsburg-verliert-bei-tsg-hoffenheim-eine-aussergewoehnliche-niederlage-a-cd672127-d550-4f4a-8733-eafded6e5670#ref=rss)
-### britischiranische
-
-* [https://www.spiegel.de/ausland/iran-britisch-iranische-staatsbuergerin-nazanin-zaghari-ratcliffe-muss-wohl-zurueck-ins-gefaengnis](https://www.spiegel.de/ausland/iran-britisch-iranische-staatsbuergerin-nazanin-zaghari-ratcliffe-muss-wohl-zurueck-ins-gefaengnis-a-105e6941-2147-4c36-9a1e-05b14dddd229#ref=rss)
-### nazanin
-
-* [https://www.spiegel.de/ausland/iran-britisch-iranische-staatsbuergerin-nazanin-zaghari-ratcliffe-muss-wohl-zurueck-ins-gefaengnis](https://www.spiegel.de/ausland/iran-britisch-iranische-staatsbuergerin-nazanin-zaghari-ratcliffe-muss-wohl-zurueck-ins-gefaengnis-a-105e6941-2147-4c36-9a1e-05b14dddd229#ref=rss)
-### zaghariratcliffe
-
-* [https://www.spiegel.de/ausland/iran-britisch-iranische-staatsbuergerin-nazanin-zaghari-ratcliffe-muss-wohl-zurueck-ins-gefaengnis](https://www.spiegel.de/ausland/iran-britisch-iranische-staatsbuergerin-nazanin-zaghari-ratcliffe-muss-wohl-zurueck-ins-gefaengnis-a-105e6941-2147-4c36-9a1e-05b14dddd229#ref=rss)
-### marathon
-
-* [https://www.spiegel.de/sport/marathon-in-amsterdam-keniaierin-tanui-rennt-zum-streckenrekord-und-trauert-um-verstorbene-teamkollegin-tirop](https://www.spiegel.de/sport/marathon-in-amsterdam-keniaierin-tanui-rennt-zum-streckenrekord-und-trauert-um-verstorbene-teamkollegin-tirop-a-ef1a36b5-9e4b-46d6-8fa6-41f84e528556#ref=rss)
-### amsterdam
-
-* [https://www.spiegel.de/sport/marathon-in-amsterdam-keniaierin-tanui-rennt-zum-streckenrekord-und-trauert-um-verstorbene-teamkollegin-tirop](https://www.spiegel.de/sport/marathon-in-amsterdam-keniaierin-tanui-rennt-zum-streckenrekord-und-trauert-um-verstorbene-teamkollegin-tirop-a-ef1a36b5-9e4b-46d6-8fa6-41f84e528556#ref=rss)
-### tanui
-
-* [https://www.spiegel.de/sport/marathon-in-amsterdam-keniaierin-tanui-rennt-zum-streckenrekord-und-trauert-um-verstorbene-teamkollegin-tirop](https://www.spiegel.de/sport/marathon-in-amsterdam-keniaierin-tanui-rennt-zum-streckenrekord-und-trauert-um-verstorbene-teamkollegin-tirop-a-ef1a36b5-9e4b-46d6-8fa6-41f84e528556#ref=rss)
-### tirop
-
-* [https://www.spiegel.de/sport/marathon-in-amsterdam-keniaierin-tanui-rennt-zum-streckenrekord-und-trauert-um-verstorbene-teamkollegin-tirop](https://www.spiegel.de/sport/marathon-in-amsterdam-keniaierin-tanui-rennt-zum-streckenrekord-und-trauert-um-verstorbene-teamkollegin-tirop-a-ef1a36b5-9e4b-46d6-8fa6-41f84e528556#ref=rss)
-### moornixe
-
-* [https://www.spiegel.de/panorama/muelheim-an-der-ruhr-moornixe-gesunkenes-schiff-erfolgreich-aus-dem-wasser-gehoben](https://www.spiegel.de/panorama/muelheim-an-der-ruhr-moornixe-gesunkenes-schiff-erfolgreich-aus-dem-wasser-gehoben-a-b2ce2097-af9e-4a5b-88cf-9241bb34d2db#ref=rss)
-### oberhaupt
-
-* [https://www.spiegel.de/ausland/unruhen-im-libanon-christliches-oberhaupt-predigt-gewaltverzicht](https://www.spiegel.de/ausland/unruhen-im-libanon-christliches-oberhaupt-predigt-gewaltverzicht-a-b989535c-9b03-471b-b79f-da5dc1bcbd62#ref=rss)
-### medizinischen
-
-* [https://www.spiegel.de/sport/fussball/handball-bundesliga-spielabbruch-wegen-eines-medizinischen-notfalls-sorge-um-fans](https://www.spiegel.de/sport/fussball/handball-bundesliga-spielabbruch-wegen-eines-medizinischen-notfalls-sorge-um-fans-a-c6e32089-f3f6-430f-ae7a-12d8cef01f5a#ref=rss)
-### robert
-
-* [https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp](https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp-a-075b3cf0-8428-4f48-9af0-2e87ea9d07d4#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp](https://www.spiegel.de/politik/deutschland/ampel-gruenen-chef-robert-habeck-wirbt-fuer-koalitionsgespraeche-mit-spd-und-fdp-a-075b3cf0-8428-4f48-9af0-2e87ea9d07d4#ref=rss)
-### ralph
-
-* [https://www.spiegel.de/politik/deutschland/ralph-brinkhaus-sieht-strammste-linksagenda-seit-jahrzehnten-bei-ampel-parteien](https://www.spiegel.de/politik/deutschland/ralph-brinkhaus-sieht-strammste-linksagenda-seit-jahrzehnten-bei-ampel-parteien-a-9c1d53aa-f85d-45bb-bff4-0adcc8d3e91b#ref=rss)
-### brinkhaus
-
-* [https://www.spiegel.de/politik/deutschland/ralph-brinkhaus-sieht-strammste-linksagenda-seit-jahrzehnten-bei-ampel-parteien](https://www.spiegel.de/politik/deutschland/ralph-brinkhaus-sieht-strammste-linksagenda-seit-jahrzehnten-bei-ampel-parteien-a-9c1d53aa-f85d-45bb-bff4-0adcc8d3e91b#ref=rss)
-### baerbocks
-
-* [https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab](https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab-a-c70df248-245f-4a78-accb-f4b51b7111b5#ref=rss)
-### rede
-
-* [https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab](https://www.spiegel.de/politik/deutschland/gruene-stimmen-ueber-koalitionsgespraeche-ab-a-c70df248-245f-4a78-accb-f4b51b7111b5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-klimaexperten-fordern-ausweisung-neuer-meeresschutzgebiete](https://www.spiegel.de/wissenschaft/natur/antarktis-klimaexperten-fordern-ausweisung-neuer-meeresschutzgebiete-a-a3e7ed55-b0a1-4c44-ac73-9d846358523b#ref=rss)
 
