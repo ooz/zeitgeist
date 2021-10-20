@@ -120,13 +120,13 @@ bemüht(363) euphorie(363) normal(363) to(363) bulgarien(362) entwicklungen(362)
 
 ```
 date, investment, buy price, sell price
-2021-10-13 10:10:21, 1-EUR, 1.15 USD, 1.15 USD
-2021-10-13 10:10:21, 1-EUR, 7.45 CNY, 7.45 CNY
-2021-10-13 10:10:21, crude-oil-brent-barrel, 82.96 USD, 82.96 USD
-2021-10-13 10:10:22, gold-10g, 514.86 EUR, 486.92 EUR
-2021-10-13 10:10:27, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-10-13 10:10:29, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-10-13 10:10:30, lego-2019-60225-1-rovertestfahrt, 23.0 USD, 23.0 USD
+2021-10-20 10:10:06, 1-EUR, 1.16 USD, 1.16 USD
+2021-10-20 10:10:06, 1-EUR, 7.44 CNY, 7.44 CNY
+2021-10-20 10:10:06, crude-oil-brent-barrel, 84.35 USD, 84.35 USD
+2021-10-20 10:10:06, gold-10g, 515.14 EUR, 487.22 EUR
+2021-10-20 10:10:12, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-10-20 10:10:13, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-10-20 10:10:15, lego-2019-60225-1-rovertestfahrt, 22.0 USD, 22.0 USD
 ```
 
 <footer>
