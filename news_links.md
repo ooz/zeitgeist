@@ -4,314 +4,313 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet-a-5a0c656d-1465-4040-914f-14fb79b3af24#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-sieg-vom-fc-bayern-muenchen-gegen-benfica-der-vier-minuten-wirbelsturm](https://www.spiegel.de/sport/fussball/champions-league-sieg-vom-fc-bayern-muenchen-gegen-benfica-der-vier-minuten-wirbelsturm-a-6150f2da-a785-428a-936a-a63a1f2c50cf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/karim-adeyemi-vom-fc-salzburg-der-spieler-auf-den-die-fans-stehen](https://www.spiegel.de/sport/fussball/karim-adeyemi-vom-fc-salzburg-der-spieler-auf-den-die-fans-stehen-a-4a12de52-c3c4-4fa0-9a6f-2682d9924fa4#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet-a-5a0c656d-1465-4040-914f-14fb79b3af24#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-sieg-vom-fc-bayern-muenchen-gegen-benfica-der-vier-minuten-wirbelsturm](https://www.spiegel.de/sport/fussball/champions-league-sieg-vom-fc-bayern-muenchen-gegen-benfica-der-vier-minuten-wirbelsturm-a-6150f2da-a785-428a-936a-a63a1f2c50cf#ref=rss)
-### buchmesse
-
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage-a-90d50374-1358-48cf-9673-332f3e17fd9b#ref=rss)
-* [https://www.spiegel.de/kultur/carolin-kebekus-eine-jane-bond-wuerde-ich-mir-anschauen](https://www.spiegel.de/kultur/carolin-kebekus-eine-jane-bond-wuerde-ich-mir-anschauen-a-d988d4b5-8c0c-4c73-968a-acbb8caeb05e#ref=rss)
-### usa
-
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage-a-90d50374-1358-48cf-9673-332f3e17fd9b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/flixbus-mutter-flixmobility-kauft-legendaere-us-kette-greyhound](https://www.spiegel.de/wirtschaft/unternehmen/flixbus-mutter-flixmobility-kauft-legendaere-us-kette-greyhound-a-9691392b-d44c-4fe3-bbc7-58c5fb07c365#ref=rss)
-### ignatz
-
-* [https://www.spiegel.de/panorama/tief-igantz-bahn-stellt-fernverkehr-in-nrw-ein-warnung-vor-sturmflut-an-der-nordsee](https://www.spiegel.de/panorama/tief-igantz-bahn-stellt-fernverkehr-in-nrw-ein-warnung-vor-sturmflut-an-der-nordsee-a-6288a10e-1a2a-4469-9a35-908f9fb8025f#ref=rss)
-* [https://www.spiegel.de/panorama/sturmtief-ignatz-der-sturm-in-bildern](https://www.spiegel.de/panorama/sturmtief-ignatz-der-sturm-in-bildern-a-3570b220-b8c3-408b-b35e-022fb991687e#ref=rss)
-### carsten
-
-* [https://www.spiegel.de/wissenschaft/medizin/dampf-von-e-zigaretten-koffein-weichmacher-und-2100-unbekannte-substanzen](https://www.spiegel.de/wissenschaft/medizin/dampf-von-e-zigaretten-koffein-weichmacher-und-2100-unbekannte-substanzen-a-4357fc12-abc5-4c1f-a262-99dd0c3a5da2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz](https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz-a-93f6a9f8-4ee7-48a9-8ae1-7f1376478acc#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet-a-5a0c656d-1465-4040-914f-14fb79b3af24#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-sieg-vom-fc-bayern-muenchen-gegen-benfica-der-vier-minuten-wirbelsturm](https://www.spiegel.de/sport/fussball/champions-league-sieg-vom-fc-bayern-muenchen-gegen-benfica-der-vier-minuten-wirbelsturm-a-6150f2da-a785-428a-936a-a63a1f2c50cf#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet-a-5a0c656d-1465-4040-914f-14fb79b3af24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage](https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage-a-c0374230-69fc-428d-90de-5ba608c3412a#ref=rss)
-### getestet
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet-a-5a0c656d-1465-4040-914f-14fb79b3af24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/transplantationsmedizin-erstmals-schweineniere-erfolgreich-an-klinisch-toter-patientin-getestet](https://www.spiegel.de/wissenschaft/transplantationsmedizin-erstmals-schweineniere-erfolgreich-an-klinisch-toter-patientin-getestet-a-728f7934-06af-49ef-9c18-5ac3e0b9abd5#ref=rss)
-### drachenlord
-
-* [https://www.spiegel.de/netzwelt/drachenlord-youtuber-wegen-gefaehrlicher-koerperverletzung-vor-gericht](https://www.spiegel.de/netzwelt/drachenlord-youtuber-wegen-gefaehrlicher-koerperverletzung-vor-gericht-a-283b0d7a-7bea-4aa9-aa44-0d8d0dea8551#ref=rss)
-### netz
-
-* [https://www.spiegel.de/netzwelt/drachenlord-youtuber-wegen-gefaehrlicher-koerperverletzung-vor-gericht](https://www.spiegel.de/netzwelt/drachenlord-youtuber-wegen-gefaehrlicher-koerperverletzung-vor-gericht-a-283b0d7a-7bea-4aa9-aa44-0d8d0dea8551#ref=rss)
-* [https://www.spiegel.de/ausland/russland-reaktorblock-nach-zwischenfall-abgeschaltet](https://www.spiegel.de/ausland/russland-reaktorblock-nach-zwischenfall-abgeschaltet-a-49036734-0464-473b-ad73-69d3dfe7a74b#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/netzwelt/drachenlord-youtuber-wegen-gefaehrlicher-koerperverletzung-vor-gericht](https://www.spiegel.de/netzwelt/drachenlord-youtuber-wegen-gefaehrlicher-koerperverletzung-vor-gericht-a-283b0d7a-7bea-4aa9-aa44-0d8d0dea8551#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/flixbus-mutter-flixmobility-kauft-legendaere-us-kette-greyhound](https://www.spiegel.de/wirtschaft/unternehmen/flixbus-mutter-flixmobility-kauft-legendaere-us-kette-greyhound-a-9691392b-d44c-4fe3-bbc7-58c5fb07c365#ref=rss)
-### johannes
-
-* [https://www.spiegel.de/kultur/johannes-boie-wie-tickt-der-neue-bild-chefredakteur](https://www.spiegel.de/kultur/johannes-boie-wie-tickt-der-neue-bild-chefredakteur-a-1bb0a279-942c-4c1d-8051-7429c494d276#ref=rss)
-### boie
-
-* [https://www.spiegel.de/kultur/johannes-boie-wie-tickt-der-neue-bild-chefredakteur](https://www.spiegel.de/kultur/johannes-boie-wie-tickt-der-neue-bild-chefredakteur-a-1bb0a279-942c-4c1d-8051-7429c494d276#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/johannes-boie-wie-tickt-der-neue-bild-chefredakteur](https://www.spiegel.de/kultur/johannes-boie-wie-tickt-der-neue-bild-chefredakteur-a-1bb0a279-942c-4c1d-8051-7429c494d276#ref=rss)
-* [https://www.spiegel.de/wirtschaft/klimastudie-von-bcg-und-bdi-diese-punkte-muessten-angepackt-werden](https://www.spiegel.de/wirtschaft/klimastudie-von-bcg-und-bdi-diese-punkte-muessten-angepackt-werden-a-c5c931f0-59e0-4230-a431-9cb3ab3fe166#ref=rss)
-### julian
-
-* [https://www.spiegel.de/kultur/johannes-boie-wie-tickt-der-neue-bild-chefredakteur](https://www.spiegel.de/kultur/johannes-boie-wie-tickt-der-neue-bild-chefredakteur-a-1bb0a279-942c-4c1d-8051-7429c494d276#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet-a-5a0c656d-1465-4040-914f-14fb79b3af24#ref=rss)
-### welt
-
-* [https://www.spiegel.de/kultur/johannes-boie-wie-tickt-der-neue-bild-chefredakteur](https://www.spiegel.de/kultur/johannes-boie-wie-tickt-der-neue-bild-chefredakteur-a-1bb0a279-942c-4c1d-8051-7429c494d276#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/mexiko-drogenbanden-suchen-ueber-videospiele-kontakt-zu-kindern](https://www.spiegel.de/netzwelt/games/mexiko-drogenbanden-suchen-ueber-videospiele-kontakt-zu-kindern-a-ac78a0ab-f28a-4064-a1bc-83b57e50add3#ref=rss)
-### gesundheitsprobleme
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimawandel-gesundheitsprobleme-durch-globale-erwaermung-nehmen-zu](https://www.spiegel.de/wissenschaft/mensch/klimawandel-gesundheitsprobleme-durch-globale-erwaermung-nehmen-zu-a-ad8ae219-1d23-44cf-93d8-67bcb44af51e#ref=rss)
-### erwärmung
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimawandel-gesundheitsprobleme-durch-globale-erwaermung-nehmen-zu](https://www.spiegel.de/wissenschaft/mensch/klimawandel-gesundheitsprobleme-durch-globale-erwaermung-nehmen-zu-a-ad8ae219-1d23-44cf-93d8-67bcb44af51e#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimawandel-gesundheitsprobleme-durch-globale-erwaermung-nehmen-zu](https://www.spiegel.de/wissenschaft/mensch/klimawandel-gesundheitsprobleme-durch-globale-erwaermung-nehmen-zu-a-ad8ae219-1d23-44cf-93d8-67bcb44af51e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/klimastudie-von-bcg-und-bdi-diese-punkte-muessten-angepackt-werden](https://www.spiegel.de/wirtschaft/klimastudie-von-bcg-und-bdi-diese-punkte-muessten-angepackt-werden-a-c5c931f0-59e0-4230-a431-9cb3ab3fe166#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/justiz/bremen-maskenverweigerer-tritt-auf-tankwart-ein](https://www.spiegel.de/panorama/justiz/bremen-maskenverweigerer-tritt-auf-tankwart-ein-a-d7243762-e9ef-4009-97d7-2811716825f2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-staaten-sollen-versucht-haben-ipcc-klimaberichte-abzuschwaechen](https://www.spiegel.de/wissenschaft/klimakrise-staaten-sollen-versucht-haben-ipcc-klimaberichte-abzuschwaechen-a-9cc2ee2b-2774-47af-b5a0-81e0f7853d74#ref=rss)
-### streit
-
-* [https://www.spiegel.de/panorama/justiz/bremen-maskenverweigerer-tritt-auf-tankwart-ein](https://www.spiegel.de/panorama/justiz/bremen-maskenverweigerer-tritt-auf-tankwart-ein-a-d7243762-e9ef-4009-97d7-2811716825f2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nord-stream-ukrainische-staatsfirmen-wollen-beim-streit-um-die-ostseepipeline-mitreden](https://www.spiegel.de/wirtschaft/nord-stream-ukrainische-staatsfirmen-wollen-beim-streit-um-die-ostseepipeline-mitreden-a-3b58dded-1648-417b-bc1c-e6765342fbff#ref=rss)
-### sarah
-
-* [https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider](https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider-a-705083e1-2ec4-4286-ac86-09f8c4559a7b#ref=rss)
-### biasini
-
-* [https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider](https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider-a-705083e1-2ec4-4286-ac86-09f8c4559a7b#ref=rss)
-### tod
-
-* [https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider](https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider-a-705083e1-2ec4-4286-ac86-09f8c4559a7b#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider](https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider-a-705083e1-2ec4-4286-ac86-09f8c4559a7b#ref=rss)
-### romy
-
-* [https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider](https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider-a-705083e1-2ec4-4286-ac86-09f8c4559a7b#ref=rss)
-### schneider
-
-* [https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider](https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider-a-705083e1-2ec4-4286-ac86-09f8c4559a7b#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider](https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider-a-705083e1-2ec4-4286-ac86-09f8c4559a7b#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/mark-zuckerberg-us-staatsanwalt-nimmt-facebook-chef-persoenlich-ins-visier](https://www.spiegel.de/netzwelt/netzpolitik/mark-zuckerberg-us-staatsanwalt-nimmt-facebook-chef-persoenlich-ins-visier-a-e2522c20-1d96-4199-a101-68164e3cff4b#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider](https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider-a-705083e1-2ec4-4286-ac86-09f8c4559a7b#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/mark-zuckerberg-us-staatsanwalt-nimmt-facebook-chef-persoenlich-ins-visier](https://www.spiegel.de/netzwelt/netzpolitik/mark-zuckerberg-us-staatsanwalt-nimmt-facebook-chef-persoenlich-ins-visier-a-e2522c20-1d96-4199-a101-68164e3cff4b#ref=rss)
-### berichtet
-
-* [https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider](https://www.spiegel.de/panorama/leute/sarah-biasini-spricht-ueber-den-tod-ihrer-mutter-romy-schneider-a-705083e1-2ec4-4286-ac86-09f8c4559a7b#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage-a-90d50374-1358-48cf-9673-332f3e17fd9b#ref=rss)
-### nord
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-ukrainische-staatsfirmen-wollen-beim-streit-um-die-ostseepipeline-mitreden](https://www.spiegel.de/wirtschaft/nord-stream-ukrainische-staatsfirmen-wollen-beim-streit-um-die-ostseepipeline-mitreden-a-3b58dded-1648-417b-bc1c-e6765342fbff#ref=rss)
-### stream
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-ukrainische-staatsfirmen-wollen-beim-streit-um-die-ostseepipeline-mitreden](https://www.spiegel.de/wirtschaft/nord-stream-ukrainische-staatsfirmen-wollen-beim-streit-um-die-ostseepipeline-mitreden-a-3b58dded-1648-417b-bc1c-e6765342fbff#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-ukrainische-staatsfirmen-wollen-beim-streit-um-die-ostseepipeline-mitreden](https://www.spiegel.de/wirtschaft/nord-stream-ukrainische-staatsfirmen-wollen-beim-streit-um-die-ostseepipeline-mitreden-a-3b58dded-1648-417b-bc1c-e6765342fbff#ref=rss)
-### ostseepipeline
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-ukrainische-staatsfirmen-wollen-beim-streit-um-die-ostseepipeline-mitreden](https://www.spiegel.de/wirtschaft/nord-stream-ukrainische-staatsfirmen-wollen-beim-streit-um-die-ostseepipeline-mitreden-a-3b58dded-1648-417b-bc1c-e6765342fbff#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-ukrainische-staatsfirmen-wollen-beim-streit-um-die-ostseepipeline-mitreden](https://www.spiegel.de/wirtschaft/nord-stream-ukrainische-staatsfirmen-wollen-beim-streit-um-die-ostseepipeline-mitreden-a-3b58dded-1648-417b-bc1c-e6765342fbff#ref=rss)
-* [https://www.spiegel.de/kultur/ddr-vergleich-von-mathias-doepfner-er-ist-halt-der-letzte-und-einzige-in-deutschland](https://www.spiegel.de/kultur/ddr-vergleich-von-mathias-doepfner-er-ist-halt-der-letzte-und-einzige-in-deutschland-a-c73bec11-ba51-45a7-957b-856ca9e0eba7#ref=rss)
-### frankfurter
-
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage-a-90d50374-1358-48cf-9673-332f3e17fd9b#ref=rss)
-### jasmina
-
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage-a-90d50374-1358-48cf-9673-332f3e17fd9b#ref=rss)
-### kuhnke
-
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage-a-90d50374-1358-48cf-9673-332f3e17fd9b#ref=rss)
-### rechter
-
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage-a-90d50374-1358-48cf-9673-332f3e17fd9b#ref=rss)
-### verlage
-
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage-a-90d50374-1358-48cf-9673-332f3e17fd9b#ref=rss)
-### darüber
-
-* [https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage](https://www.spiegel.de/kultur/literatur/frankfurter-buchmesse-2021-absage-von-jasmina-kuhnke-wegen-rechter-verlage-a-90d50374-1358-48cf-9673-332f3e17fd9b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage](https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage-a-c0374230-69fc-428d-90de-5ba608c3412a#ref=rss)
-### carolin
-
-* [https://www.spiegel.de/kultur/carolin-kebekus-eine-jane-bond-wuerde-ich-mir-anschauen](https://www.spiegel.de/kultur/carolin-kebekus-eine-jane-bond-wuerde-ich-mir-anschauen-a-d988d4b5-8c0c-4c73-968a-acbb8caeb05e#ref=rss)
-### kebekus
-
-* [https://www.spiegel.de/kultur/carolin-kebekus-eine-jane-bond-wuerde-ich-mir-anschauen](https://www.spiegel.de/kultur/carolin-kebekus-eine-jane-bond-wuerde-ich-mir-anschauen-a-d988d4b5-8c0c-4c73-968a-acbb8caeb05e#ref=rss)
-### männer
-
-* [https://www.spiegel.de/kultur/carolin-kebekus-eine-jane-bond-wuerde-ich-mir-anschauen](https://www.spiegel.de/kultur/carolin-kebekus-eine-jane-bond-wuerde-ich-mir-anschauen-a-d988d4b5-8c0c-4c73-968a-acbb8caeb05e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz](https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz-a-93f6a9f8-4ee7-48a9-8ae1-7f1376478acc#ref=rss)
-### einige
-
-* [https://www.spiegel.de/kultur/carolin-kebekus-eine-jane-bond-wuerde-ich-mir-anschauen](https://www.spiegel.de/kultur/carolin-kebekus-eine-jane-bond-wuerde-ich-mir-anschauen-a-d988d4b5-8c0c-4c73-968a-acbb8caeb05e#ref=rss)
-* [https://www.spiegel.de/ausland/pushbacks-an-eu-aussengrenze-europarat-fordert-ende-illegaler-abschiebungen](https://www.spiegel.de/ausland/pushbacks-an-eu-aussengrenze-europarat-fordert-ende-illegaler-abschiebungen-a-8155938f-89cf-4b82-8861-122657101afb#ref=rss)
-### tief
-
-* [https://www.spiegel.de/panorama/tief-igantz-bahn-stellt-fernverkehr-in-nrw-ein-warnung-vor-sturmflut-an-der-nordsee](https://www.spiegel.de/panorama/tief-igantz-bahn-stellt-fernverkehr-in-nrw-ein-warnung-vor-sturmflut-an-der-nordsee-a-6288a10e-1a2a-4469-9a35-908f9fb8025f#ref=rss)
-* [https://www.spiegel.de/panorama/sturmtief-ignatz-der-sturm-in-bildern](https://www.spiegel.de/panorama/sturmtief-ignatz-der-sturm-in-bildern-a-3570b220-b8c3-408b-b35e-022fb991687e#ref=rss)
-### richtet
-
-* [https://www.spiegel.de/panorama/tief-igantz-bahn-stellt-fernverkehr-in-nrw-ein-warnung-vor-sturmflut-an-der-nordsee](https://www.spiegel.de/panorama/tief-igantz-bahn-stellt-fernverkehr-in-nrw-ein-warnung-vor-sturmflut-an-der-nordsee-a-6288a10e-1a2a-4469-9a35-908f9fb8025f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz](https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz-a-93f6a9f8-4ee7-48a9-8ae1-7f1376478acc#ref=rss)
-### steuerdeals
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/illegale-steuerdeals-cum-ex-schaden-koennte-dreimal-so-hoch-sein-wie-bekannt](https://www.spiegel.de/wirtschaft/unternehmen/illegale-steuerdeals-cum-ex-schaden-koennte-dreimal-so-hoch-sein-wie-bekannt-a-53a30854-5733-49e0-912c-4f0a8204013d#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/illegale-steuerdeals-cum-ex-schaden-koennte-dreimal-so-hoch-sein-wie-bekannt](https://www.spiegel.de/wirtschaft/unternehmen/illegale-steuerdeals-cum-ex-schaden-koennte-dreimal-so-hoch-sein-wie-bekannt-a-53a30854-5733-49e0-912c-4f0a8204013d#ref=rss)
-* [https://www.spiegel.de/sport/basketball/enes-kanter-nba-profi-nennt-chinas-staatschef-xi-jinping-einen-brutalen-diktator](https://www.spiegel.de/sport/basketball/enes-kanter-nba-profi-nennt-chinas-staatschef-xi-jinping-einen-brutalen-diktator-a-f7e4f952-0b1e-48be-816d-cfb0e652eff6#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/illegale-steuerdeals-cum-ex-schaden-koennte-dreimal-so-hoch-sein-wie-bekannt](https://www.spiegel.de/wirtschaft/unternehmen/illegale-steuerdeals-cum-ex-schaden-koennte-dreimal-so-hoch-sein-wie-bekannt-a-53a30854-5733-49e0-912c-4f0a8204013d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/transplantationsmedizin-erstmals-schweineniere-erfolgreich-an-klinisch-toter-patientin-getestet](https://www.spiegel.de/wissenschaft/transplantationsmedizin-erstmals-schweineniere-erfolgreich-an-klinisch-toter-patientin-getestet-a-728f7934-06af-49ef-9c18-5ac3e0b9abd5#ref=rss)
-### angepackt
-
-* [https://www.spiegel.de/wirtschaft/klimastudie-von-bcg-und-bdi-diese-punkte-muessten-angepackt-werden](https://www.spiegel.de/wirtschaft/klimastudie-von-bcg-und-bdi-diese-punkte-muessten-angepackt-werden-a-c5c931f0-59e0-4230-a431-9cb3ab3fe166#ref=rss)
-### staaten
-
-* [https://www.spiegel.de/wissenschaft/klimakrise-staaten-sollen-versucht-haben-ipcc-klimaberichte-abzuschwaechen](https://www.spiegel.de/wissenschaft/klimakrise-staaten-sollen-versucht-haben-ipcc-klimaberichte-abzuschwaechen-a-9cc2ee2b-2774-47af-b5a0-81e0f7853d74#ref=rss)
-### sturm
-
-* [https://www.spiegel.de/panorama/sturmtief-ignatz-der-sturm-in-bildern](https://www.spiegel.de/panorama/sturmtief-ignatz-der-sturm-in-bildern-a-3570b220-b8c3-408b-b35e-022fb991687e#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/panorama/sturmtief-ignatz-der-sturm-in-bildern](https://www.spiegel.de/panorama/sturmtief-ignatz-der-sturm-in-bildern-a-3570b220-b8c3-408b-b35e-022fb991687e#ref=rss)
-* [https://www.spiegel.de/kultur/ddr-vergleich-von-mathias-doepfner-er-ist-halt-der-letzte-und-einzige-in-deutschland](https://www.spiegel.de/kultur/ddr-vergleich-von-mathias-doepfner-er-ist-halt-der-letzte-und-einzige-in-deutschland-a-c73bec11-ba51-45a7-957b-856ca9e0eba7#ref=rss)
-### dampf
+* [https://www.spiegel.de/panorama/sturm-hendrik-mehrere-menschen-bei-unfaellen-verletzt-zehntausende-ohne-strom](https://www.spiegel.de/panorama/sturm-hendrik-mehrere-menschen-bei-unfaellen-verletzt-zehntausende-ohne-strom-a-7bb41e69-6858-484d-b02c-d3891015acda#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-scheint-vielerorts-die-sonne](https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-scheint-vielerorts-die-sonne-a-8172fa06-0228-4499-96b4-b78847a0e8e3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sturm-in-deutschland-migration-in-europa-springer-verlag](https://www.spiegel.de/politik/deutschland/news-des-tages-sturm-in-deutschland-migration-in-europa-springer-verlag-a-4e5449ed-e407-41c2-9b81-0cdca99c94eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise](https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise-a-e9fbb0e9-c7ec-4afa-9c50-e717c68cd393#ref=rss)
+### rumänien
 
-* [https://www.spiegel.de/wissenschaft/medizin/dampf-von-e-zigaretten-koffein-weichmacher-und-2100-unbekannte-substanzen](https://www.spiegel.de/wissenschaft/medizin/dampf-von-e-zigaretten-koffein-weichmacher-und-2100-unbekannte-substanzen-a-4357fc12-abc5-4c1f-a262-99dd0c3a5da2#ref=rss)
-* [https://www.spiegel.de/ausland/russland-reaktorblock-nach-zwischenfall-abgeschaltet](https://www.spiegel.de/ausland/russland-reaktorblock-nach-zwischenfall-abgeschaltet-a-49036734-0464-473b-ad73-69d3dfe7a74b#ref=rss)
-### ezigaretten
+* [https://www.spiegel.de/ausland/rumaenien-verteidigungsminister-nicolae-ciuca-soll-regierungschef-werden](https://www.spiegel.de/ausland/rumaenien-verteidigungsminister-nicolae-ciuca-soll-regierungschef-werden-a-18b4643e-180b-4edf-a5b2-dcbd4b670cfd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-rumaenien-und-die-vierte-welle-die-vermeidbare-katastrophe](https://www.spiegel.de/wissenschaft/medizin/coronavirus-rumaenien-und-die-vierte-welle-die-vermeidbare-katastrophe-a-d14e9ea7-f2a1-4043-8d49-7d724a71e042#ref=rss)
+### sturm
 
-* [https://www.spiegel.de/wissenschaft/medizin/dampf-von-e-zigaretten-koffein-weichmacher-und-2100-unbekannte-substanzen](https://www.spiegel.de/wissenschaft/medizin/dampf-von-e-zigaretten-koffein-weichmacher-und-2100-unbekannte-substanzen-a-4357fc12-abc5-4c1f-a262-99dd0c3a5da2#ref=rss)
-### gelten
+* [https://www.spiegel.de/panorama/sturm-hendrik-mehrere-menschen-bei-unfaellen-verletzt-zehntausende-ohne-strom](https://www.spiegel.de/panorama/sturm-hendrik-mehrere-menschen-bei-unfaellen-verletzt-zehntausende-ohne-strom-a-7bb41e69-6858-484d-b02c-d3891015acda#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-scheint-vielerorts-die-sonne](https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-scheint-vielerorts-die-sonne-a-8172fa06-0228-4499-96b4-b78847a0e8e3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sturm-in-deutschland-migration-in-europa-springer-verlag](https://www.spiegel.de/politik/deutschland/news-des-tages-sturm-in-deutschland-migration-in-europa-springer-verlag-a-4e5449ed-e407-41c2-9b81-0cdca99c94eb#ref=rss)
+### erste
 
-* [https://www.spiegel.de/wissenschaft/medizin/dampf-von-e-zigaretten-koffein-weichmacher-und-2100-unbekannte-substanzen](https://www.spiegel.de/wissenschaft/medizin/dampf-von-e-zigaretten-koffein-weichmacher-und-2100-unbekannte-substanzen-a-4357fc12-abc5-4c1f-a262-99dd0c3a5da2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz](https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz-a-93f6a9f8-4ee7-48a9-8ae1-7f1376478acc#ref=rss)
-### enes
+* [https://www.spiegel.de/panorama/sturm-hendrik-mehrere-menschen-bei-unfaellen-verletzt-zehntausende-ohne-strom](https://www.spiegel.de/panorama/sturm-hendrik-mehrere-menschen-bei-unfaellen-verletzt-zehntausende-ohne-strom-a-7bb41e69-6858-484d-b02c-d3891015acda#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-auktion-nordrhein-westfalen-will-beschlagnahmte-bitcoins-versteigern](https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-auktion-nordrhein-westfalen-will-beschlagnahmte-bitcoins-versteigern-a-2fea767e-76f4-49af-a966-52679bc58b99#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wegen-papiermangel-schrumpfkur-fuer-koelner-stadtanzeiger-und-express](https://www.spiegel.de/wirtschaft/unternehmen/wegen-papiermangel-schrumpfkur-fuer-koelner-stadtanzeiger-und-express-a-69598529-ac34-410f-9d1c-e0630198894d#ref=rss)
+### drachenlord
 
-* [https://www.spiegel.de/sport/basketball/enes-kanter-nba-profi-nennt-chinas-staatschef-xi-jinping-einen-brutalen-diktator](https://www.spiegel.de/sport/basketball/enes-kanter-nba-profi-nennt-chinas-staatschef-xi-jinping-einen-brutalen-diktator-a-f7e4f952-0b1e-48be-816d-cfb0e652eff6#ref=rss)
-### kanter
+* [https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt](https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt-a-80c9faa4-33ce-4091-baba-50f3857ba06e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sturm-in-deutschland-migration-in-europa-springer-verlag](https://www.spiegel.de/politik/deutschland/news-des-tages-sturm-in-deutschland-migration-in-europa-springer-verlag-a-4e5449ed-e407-41c2-9b81-0cdca99c94eb#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/sport/basketball/enes-kanter-nba-profi-nennt-chinas-staatschef-xi-jinping-einen-brutalen-diktator](https://www.spiegel.de/sport/basketball/enes-kanter-nba-profi-nennt-chinas-staatschef-xi-jinping-einen-brutalen-diktator-a-f7e4f952-0b1e-48be-816d-cfb0e652eff6#ref=rss)
-### chinas
+* [https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt](https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt-a-80c9faa4-33ce-4091-baba-50f3857ba06e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-plan-abstimmung-ueber-fussball-wm-alle-zwei-jahre-wird-verschoben](https://www.spiegel.de/sport/fussball/fifa-plan-abstimmung-ueber-fussball-wm-alle-zwei-jahre-wird-verschoben-a-7a4f6b48-d8ce-4c6a-8703-2c38c08134c2#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/sport/basketball/enes-kanter-nba-profi-nennt-chinas-staatschef-xi-jinping-einen-brutalen-diktator](https://www.spiegel.de/sport/basketball/enes-kanter-nba-profi-nennt-chinas-staatschef-xi-jinping-einen-brutalen-diktator-a-f7e4f952-0b1e-48be-816d-cfb0e652eff6#ref=rss)
-### kritisiert
+* [https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt](https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt-a-80c9faa4-33ce-4091-baba-50f3857ba06e#ref=rss)
+* [https://www.spiegel.de/geschichte/manfred-krug-der-ray-charles-aus-pankow-poetisch-frei-und-ungestuem](https://www.spiegel.de/geschichte/manfred-krug-der-ray-charles-aus-pankow-poetisch-frei-und-ungestuem-a-09eee3d3-d13d-4d10-853c-775dd2ca9de3#ref=rss)
+### coronavirus
 
-* [https://www.spiegel.de/sport/basketball/enes-kanter-nba-profi-nennt-chinas-staatschef-xi-jinping-einen-brutalen-diktator](https://www.spiegel.de/sport/basketball/enes-kanter-nba-profi-nennt-chinas-staatschef-xi-jinping-einen-brutalen-diktator-a-f7e4f952-0b1e-48be-816d-cfb0e652eff6#ref=rss)
-* [https://www.spiegel.de/ausland/pushbacks-an-eu-aussengrenze-europarat-fordert-ende-illegaler-abschiebungen](https://www.spiegel.de/ausland/pushbacks-an-eu-aussengrenze-europarat-fordert-ende-illegaler-abschiebungen-a-8155938f-89cf-4b82-8861-122657101afb#ref=rss)
-### positiv
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet-a-5a0c656d-1465-4040-914f-14fb79b3af24#ref=rss)
-### lissabon
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-julian-nagelsmann-positiv-auf-coronavirus-getestet-a-5a0c656d-1465-4040-914f-14fb79b3af24#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-sieg-vom-fc-bayern-muenchen-gegen-benfica-der-vier-minuten-wirbelsturm](https://www.spiegel.de/sport/fussball/champions-league-sieg-vom-fc-bayern-muenchen-gegen-benfica-der-vier-minuten-wirbelsturm-a-6150f2da-a785-428a-936a-a63a1f2c50cf#ref=rss)
-### reaktorblock
-
-* [https://www.spiegel.de/ausland/russland-reaktorblock-nach-zwischenfall-abgeschaltet](https://www.spiegel.de/ausland/russland-reaktorblock-nach-zwischenfall-abgeschaltet-a-49036734-0464-473b-ad73-69d3dfe7a74b#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wirtschaft/schuldenpolitik-nach-der-bundestagswahl-wie-zukunftsinvestitionen-gelingen-koennen](https://www.spiegel.de/wirtschaft/schuldenpolitik-nach-der-bundestagswahl-wie-zukunftsinvestitionen-gelingen-koennen-a-c2de02e7-f666-4d5d-94ff-9ca07ae31d2e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/transplantationsmedizin-erstmals-schweineniere-erfolgreich-an-klinisch-toter-patientin-getestet](https://www.spiegel.de/wissenschaft/transplantationsmedizin-erstmals-schweineniere-erfolgreich-an-klinisch-toter-patientin-getestet-a-728f7934-06af-49ef-9c18-5ac3e0b9abd5#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/wirtschaft/schuldenpolitik-nach-der-bundestagswahl-wie-zukunftsinvestitionen-gelingen-koennen](https://www.spiegel.de/wirtschaft/schuldenpolitik-nach-der-bundestagswahl-wie-zukunftsinvestitionen-gelingen-koennen-a-c2de02e7-f666-4d5d-94ff-9ca07ae31d2e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/zach-galifianakis-warum-der-us-komiker-hangover-vor-seinen-soehnen-geheim-haelt](https://www.spiegel.de/panorama/leute/zach-galifianakis-warum-der-us-komiker-hangover-vor-seinen-soehnen-geheim-haelt-a-dd8068af-963c-4fec-a0d2-3c74cef3834b#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/netzwelt/games/mexiko-drogenbanden-suchen-ueber-videospiele-kontakt-zu-kindern](https://www.spiegel.de/netzwelt/games/mexiko-drogenbanden-suchen-ueber-videospiele-kontakt-zu-kindern-a-ac78a0ab-f28a-4064-a1bc-83b57e50add3#ref=rss)
-### drogenbanden
-
-* [https://www.spiegel.de/netzwelt/games/mexiko-drogenbanden-suchen-ueber-videospiele-kontakt-zu-kindern](https://www.spiegel.de/netzwelt/games/mexiko-drogenbanden-suchen-ueber-videospiele-kontakt-zu-kindern-a-ac78a0ab-f28a-4064-a1bc-83b57e50add3#ref=rss)
-### facebookchef
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/mark-zuckerberg-us-staatsanwalt-nimmt-facebook-chef-persoenlich-ins-visier](https://www.spiegel.de/netzwelt/netzpolitik/mark-zuckerberg-us-staatsanwalt-nimmt-facebook-chef-persoenlich-ins-visier-a-e2522c20-1d96-4199-a101-68164e3cff4b#ref=rss)
-### zach
-
-* [https://www.spiegel.de/panorama/leute/zach-galifianakis-warum-der-us-komiker-hangover-vor-seinen-soehnen-geheim-haelt](https://www.spiegel.de/panorama/leute/zach-galifianakis-warum-der-us-komiker-hangover-vor-seinen-soehnen-geheim-haelt-a-dd8068af-963c-4fec-a0d2-3c74cef3834b#ref=rss)
-### galifianakis
-
-* [https://www.spiegel.de/panorama/leute/zach-galifianakis-warum-der-us-komiker-hangover-vor-seinen-soehnen-geheim-haelt](https://www.spiegel.de/panorama/leute/zach-galifianakis-warum-der-us-komiker-hangover-vor-seinen-soehnen-geheim-haelt-a-dd8068af-963c-4fec-a0d2-3c74cef3834b#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage](https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage-a-c0374230-69fc-428d-90de-5ba608c3412a#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage](https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage-a-c0374230-69fc-428d-90de-5ba608c3412a#ref=rss)
+* [https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober](https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober-a-02093e04-50b9-4197-b006-f2da49eed62c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-rumaenien-und-die-vierte-welle-die-vermeidbare-katastrophe](https://www.spiegel.de/wissenschaft/medizin/coronavirus-rumaenien-und-die-vierte-welle-die-vermeidbare-katastrophe-a-d14e9ea7-f2a1-4043-8d49-7d724a71e042#ref=rss)
 ### ende
 
-* [https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage](https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage-a-c0374230-69fc-428d-90de-5ba608c3412a#ref=rss)
-* [https://www.spiegel.de/ausland/pushbacks-an-eu-aussengrenze-europarat-fordert-ende-illegaler-abschiebungen](https://www.spiegel.de/ausland/pushbacks-an-eu-aussengrenze-europarat-fordert-ende-illegaler-abschiebungen-a-8155938f-89cf-4b82-8861-122657101afb#ref=rss)
-### jens
+* [https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober](https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober-a-02093e04-50b9-4197-b006-f2da49eed62c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/ende-der-maestro-karte-fuer-maestro-faellt-der-letzte-vorhang](https://www.spiegel.de/wirtschaft/service/ende-der-maestro-karte-fuer-maestro-faellt-der-letzte-vorhang-a-80734420-a4b2-483b-a49f-044c148d28fe#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelbuendnis-will-bis-ende-november-koalitionsvertrag-vorlegen](https://www.spiegel.de/politik/deutschland/ampelbuendnis-will-bis-ende-november-koalitionsvertrag-vorlegen-a-cc7e7df1-bb2f-418e-ae5e-5aac3ab15b9b#ref=rss)
+### alle
 
-* [https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage](https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage-a-c0374230-69fc-428d-90de-5ba608c3412a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz](https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz-a-93f6a9f8-4ee7-48a9-8ae1-7f1376478acc#ref=rss)
-### spahn
+* [https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober](https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober-a-02093e04-50b9-4197-b006-f2da49eed62c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-plan-abstimmung-ueber-fussball-wm-alle-zwei-jahre-wird-verschoben](https://www.spiegel.de/sport/fussball/fifa-plan-abstimmung-ueber-fussball-wm-alle-zwei-jahre-wird-verschoben-a-7a4f6b48-d8ce-4c6a-8703-2c38c08134c2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-rumaenien-und-die-vierte-welle-die-vermeidbare-katastrophe](https://www.spiegel.de/wissenschaft/medizin/coronavirus-rumaenien-und-die-vierte-welle-die-vermeidbare-katastrophe-a-d14e9ea7-f2a1-4043-8d49-7d724a71e042#ref=rss)
+### tage
 
-* [https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage](https://www.spiegel.de/politik/deutschland/coronavirus-markus-soeder-csu-warnt-vor-ende-der-epidemische-lage-a-c0374230-69fc-428d-90de-5ba608c3412a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz](https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz-a-93f6a9f8-4ee7-48a9-8ae1-7f1376478acc#ref=rss)
-### linnemann
+* [https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober](https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober-a-02093e04-50b9-4197-b006-f2da49eed62c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage-a-d6fab87d-28e5-410b-ba7f-2750e6638aef#ref=rss)
+### angela
 
-* [https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz](https://www.spiegel.de/politik/deutschland/carsten-linnemann-im-cdu-machtkampf-ein-moeglicher-kandidat-fuer-den-parteivorsitz-a-93f6a9f8-4ee7-48a9-8ae1-7f1376478acc#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage-a-d6fab87d-28e5-410b-ba7f-2750e6638aef#ref=rss)
+* [https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel](https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel-a-872379f8-d628-475b-8a9a-1e2c4e775e6a#ref=rss)
+### merkel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-und-neuseeland-kuendigen-freihandelsabkommen-an](https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-und-neuseeland-kuendigen-freihandelsabkommen-an-a-a32f2cfd-1a78-43b5-b9e5-4b602f65d60c#ref=rss)
-### neuseeland
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage-a-d6fab87d-28e5-410b-ba7f-2750e6638aef#ref=rss)
+* [https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel](https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel-a-872379f8-d628-475b-8a9a-1e2c4e775e6a#ref=rss)
+### polen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-und-neuseeland-kuendigen-freihandelsabkommen-an](https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-und-neuseeland-kuendigen-freihandelsabkommen-an-a-a32f2cfd-1a78-43b5-b9e5-4b602f65d60c#ref=rss)
-### freihandelsabkommen
+* [https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel](https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel-a-872379f8-d628-475b-8a9a-1e2c4e775e6a#ref=rss)
+* [https://www.spiegel.de/ausland/polen-justizminister-zbigniew-ziobro-ist-der-architekt-der-umstrittenen-justizreform](https://www.spiegel.de/ausland/polen-justizminister-zbigniew-ziobro-ist-der-architekt-der-umstrittenen-justizreform-a-d9ed7468-046d-4899-b75b-4073ae8867b9#ref=rss)
+### streit
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-und-neuseeland-kuendigen-freihandelsabkommen-an](https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-und-neuseeland-kuendigen-freihandelsabkommen-an-a-a32f2cfd-1a78-43b5-b9e5-4b602f65d60c#ref=rss)
-### greyhound
+* [https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel](https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel-a-872379f8-d628-475b-8a9a-1e2c4e775e6a#ref=rss)
+* [https://www.spiegel.de/ausland/polen-justizminister-zbigniew-ziobro-ist-der-architekt-der-umstrittenen-justizreform](https://www.spiegel.de/ausland/polen-justizminister-zbigniew-ziobro-ist-der-architekt-der-umstrittenen-justizreform-a-d9ed7468-046d-4899-b75b-4073ae8867b9#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/flixbus-mutter-flixmobility-kauft-legendaere-us-kette-greyhound](https://www.spiegel.de/wirtschaft/unternehmen/flixbus-mutter-flixmobility-kauft-legendaere-us-kette-greyhound-a-9691392b-d44c-4fe3-bbc7-58c5fb07c365#ref=rss)
-### drei
+* [https://www.spiegel.de/ausland/polen-justizminister-zbigniew-ziobro-ist-der-architekt-der-umstrittenen-justizreform](https://www.spiegel.de/ausland/polen-justizminister-zbigniew-ziobro-ist-der-architekt-der-umstrittenen-justizreform-a-d9ed7468-046d-4899-b75b-4073ae8867b9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauchskomplex-muenster-knapp-neun-jahre-haft-fuer-36-jaehrigen](https://www.spiegel.de/panorama/justiz/missbrauchskomplex-muenster-knapp-neun-jahre-haft-fuer-36-jaehrigen-a-98c74e15-361d-4855-8a9d-4ac8bb2462dc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-rassistischer-uebergriff-in-strassenbahn-angeklagtem-ist-die-tat-angeblich-peinlich](https://www.spiegel.de/panorama/justiz/erfurt-rassistischer-uebergriff-in-strassenbahn-angeklagtem-ist-die-tat-angeblich-peinlich-a-d5334c48-ace6-4223-81d1-2bfbeb9e5e45#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/flixbus-mutter-flixmobility-kauft-legendaere-us-kette-greyhound](https://www.spiegel.de/wirtschaft/unternehmen/flixbus-mutter-flixmobility-kauft-legendaere-us-kette-greyhound-a-9691392b-d44c-4fe3-bbc7-58c5fb07c365#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-sieg-vom-fc-bayern-muenchen-gegen-benfica-der-vier-minuten-wirbelsturm](https://www.spiegel.de/sport/fussball/champions-league-sieg-vom-fc-bayern-muenchen-gegen-benfica-der-vier-minuten-wirbelsturm-a-6150f2da-a785-428a-936a-a63a1f2c50cf#ref=rss)
-### europarat
+* [https://www.spiegel.de/panorama/justiz/missbrauchskomplex-muenster-knapp-neun-jahre-haft-fuer-36-jaehrigen](https://www.spiegel.de/panorama/justiz/missbrauchskomplex-muenster-knapp-neun-jahre-haft-fuer-36-jaehrigen-a-98c74e15-361d-4855-8a9d-4ac8bb2462dc#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/ferdinand-schmalz-ueber-seine-utopie-in-der-krise-die-grosse-dramatische-wende](https://www.spiegel.de/kultur/literatur/ferdinand-schmalz-ueber-seine-utopie-in-der-krise-die-grosse-dramatische-wende-a-d22659c2-6635-4413-b3b7-8bf7ca2c12a7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-plan-abstimmung-ueber-fussball-wm-alle-zwei-jahre-wird-verschoben](https://www.spiegel.de/sport/fussball/fifa-plan-abstimmung-ueber-fussball-wm-alle-zwei-jahre-wird-verschoben-a-7a4f6b48-d8ce-4c6a-8703-2c38c08134c2#ref=rss)
+### europa
 
-* [https://www.spiegel.de/ausland/pushbacks-an-eu-aussengrenze-europarat-fordert-ende-illegaler-abschiebungen](https://www.spiegel.de/ausland/pushbacks-an-eu-aussengrenze-europarat-fordert-ende-illegaler-abschiebungen-a-8155938f-89cf-4b82-8861-122657101afb#ref=rss)
-### mathias
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sturm-in-deutschland-migration-in-europa-springer-verlag](https://www.spiegel.de/politik/deutschland/news-des-tages-sturm-in-deutschland-migration-in-europa-springer-verlag-a-4e5449ed-e407-41c2-9b81-0cdca99c94eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise](https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise-a-e9fbb0e9-c7ec-4afa-9c50-e717c68cd393#ref=rss)
+* [https://www.spiegel.de/reise/europa/corona-regeln-was-die-steigenden-inzidenzen-fuer-reisende-bedeuten](https://www.spiegel.de/reise/europa/corona-regeln-was-die-steigenden-inzidenzen-fuer-reisende-bedeuten-a-6c499d4e-be3b-442a-8fd7-e30710c8782a#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/kultur/ddr-vergleich-von-mathias-doepfner-er-ist-halt-der-letzte-und-einzige-in-deutschland](https://www.spiegel.de/kultur/ddr-vergleich-von-mathias-doepfner-er-ist-halt-der-letzte-und-einzige-in-deutschland-a-c73bec11-ba51-45a7-957b-856ca9e0eba7#ref=rss)
+* [https://www.spiegel.de/panorama/belarus-massengrab-aus-dem-zweiten-weltkrieg-bei-minsk-entdeckt](https://www.spiegel.de/panorama/belarus-massengrab-aus-dem-zweiten-weltkrieg-bei-minsk-entdeckt-a-87f68d1f-90ac-4ccf-9147-31bfc5610cb4#ref=rss)
+* [https://www.spiegel.de/geschichte/manfred-krug-der-ray-charles-aus-pankow-poetisch-frei-und-ungestuem](https://www.spiegel.de/geschichte/manfred-krug-der-ray-charles-aus-pankow-poetisch-frei-und-ungestuem-a-09eee3d3-d13d-4d10-853c-775dd2ca9de3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-rumaenien-und-die-vierte-welle-die-vermeidbare-katastrophe](https://www.spiegel.de/wissenschaft/medizin/coronavirus-rumaenien-und-die-vierte-welle-die-vermeidbare-katastrophe-a-d14e9ea7-f2a1-4043-8d49-7d724a71e042#ref=rss)
+### israel
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-dfb-frauen-schlagen-israel-im-ersten-aufeinandertreffen-der-geschichte-knapp](https://www.spiegel.de/sport/fussball/wm-qualifikation-dfb-frauen-schlagen-israel-im-ersten-aufeinandertreffen-der-geschichte-knapp-a-501b7064-b1b2-443a-bf9e-43c89e2f768a#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-dfb-frauen-schlagen-israel-im-ersten-aufeinandertreffen-der-geschichte-knapp](https://www.spiegel.de/sport/fussball/wm-qualifikation-dfb-frauen-schlagen-israel-im-ersten-aufeinandertreffen-der-geschichte-knapp-a-501b7064-b1b2-443a-bf9e-43c89e2f768a#ref=rss)
+### aufeinandertreffen
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-dfb-frauen-schlagen-israel-im-ersten-aufeinandertreffen-der-geschichte-knapp](https://www.spiegel.de/sport/fussball/wm-qualifikation-dfb-frauen-schlagen-israel-im-ersten-aufeinandertreffen-der-geschichte-knapp-a-501b7064-b1b2-443a-bf9e-43c89e2f768a#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-dfb-frauen-schlagen-israel-im-ersten-aufeinandertreffen-der-geschichte-knapp](https://www.spiegel.de/sport/fussball/wm-qualifikation-dfb-frauen-schlagen-israel-im-ersten-aufeinandertreffen-der-geschichte-knapp-a-501b7064-b1b2-443a-bf9e-43c89e2f768a#ref=rss)
+### knapp
+
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-dfb-frauen-schlagen-israel-im-ersten-aufeinandertreffen-der-geschichte-knapp](https://www.spiegel.de/sport/fussball/wm-qualifikation-dfb-frauen-schlagen-israel-im-ersten-aufeinandertreffen-der-geschichte-knapp-a-501b7064-b1b2-443a-bf9e-43c89e2f768a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage-a-d6fab87d-28e5-410b-ba7f-2750e6638aef#ref=rss)
 ### döpfner
 
-* [https://www.spiegel.de/kultur/ddr-vergleich-von-mathias-doepfner-er-ist-halt-der-letzte-und-einzige-in-deutschland](https://www.spiegel.de/kultur/ddr-vergleich-von-mathias-doepfner-er-ist-halt-der-letzte-und-einzige-in-deutschland-a-c73bec11-ba51-45a7-957b-856ca9e0eba7#ref=rss)
-### vier
+* [https://www.spiegel.de/wirtschaft/unternehmen/mathias-doepfner-medienhaeuser-ueben-offene-kritik-an-verlegerpraesident](https://www.spiegel.de/wirtschaft/unternehmen/mathias-doepfner-medienhaeuser-ueben-offene-kritik-an-verlegerpraesident-a-4742bb6a-fe30-4f60-a2e8-7314f7c4982c#ref=rss)
+### verlegerpräsident
 
-* [https://www.spiegel.de/sport/fussball/champions-league-sieg-vom-fc-bayern-muenchen-gegen-benfica-der-vier-minuten-wirbelsturm](https://www.spiegel.de/sport/fussball/champions-league-sieg-vom-fc-bayern-muenchen-gegen-benfica-der-vier-minuten-wirbelsturm-a-6150f2da-a785-428a-936a-a63a1f2c50cf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mathias-doepfner-medienhaeuser-ueben-offene-kritik-an-verlegerpraesident](https://www.spiegel.de/wirtschaft/unternehmen/mathias-doepfner-medienhaeuser-ueben-offene-kritik-an-verlegerpraesident-a-4742bb6a-fe30-4f60-a2e8-7314f7c4982c#ref=rss)
+### umstrittenen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mathias-doepfner-medienhaeuser-ueben-offene-kritik-an-verlegerpraesident](https://www.spiegel.de/wirtschaft/unternehmen/mathias-doepfner-medienhaeuser-ueben-offene-kritik-an-verlegerpraesident-a-4742bb6a-fe30-4f60-a2e8-7314f7c4982c#ref=rss)
+* [https://www.spiegel.de/ausland/polen-justizminister-zbigniew-ziobro-ist-der-architekt-der-umstrittenen-justizreform](https://www.spiegel.de/ausland/polen-justizminister-zbigniew-ziobro-ist-der-architekt-der-umstrittenen-justizreform-a-d9ed7468-046d-4899-b75b-4073ae8867b9#ref=rss)
+### strom
+
+* [https://www.spiegel.de/panorama/sturm-hendrik-mehrere-menschen-bei-unfaellen-verletzt-zehntausende-ohne-strom](https://www.spiegel.de/panorama/sturm-hendrik-mehrere-menschen-bei-unfaellen-verletzt-zehntausende-ohne-strom-a-7bb41e69-6858-484d-b02c-d3891015acda#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiekrise-die-mogelmaschen-der-versorger](https://www.spiegel.de/wirtschaft/service/energiekrise-die-mogelmaschen-der-versorger-a-3a0decdd-cc9f-4165-8b7c-a06a6ad22175#ref=rss)
+### youtuber
+
+* [https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt](https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt-a-80c9faa4-33ce-4091-baba-50f3857ba06e#ref=rss)
+### haft
+
+* [https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt](https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt-a-80c9faa4-33ce-4091-baba-50f3857ba06e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauchskomplex-muenster-knapp-neun-jahre-haft-fuer-36-jaehrigen](https://www.spiegel.de/panorama/justiz/missbrauchskomplex-muenster-knapp-neun-jahre-haft-fuer-36-jaehrigen-a-98c74e15-361d-4855-8a9d-4ac8bb2462dc#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt](https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt-a-80c9faa4-33ce-4091-baba-50f3857ba06e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauchskomplex-muenster-knapp-neun-jahre-haft-fuer-36-jaehrigen](https://www.spiegel.de/panorama/justiz/missbrauchskomplex-muenster-knapp-neun-jahre-haft-fuer-36-jaehrigen-a-98c74e15-361d-4855-8a9d-4ac8bb2462dc#ref=rss)
+### männer
+
+* [https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt](https://www.spiegel.de/netzwelt/youtuber-drachenlord-zu-zwei-jahren-haft-verurteilt-a-80c9faa4-33ce-4091-baba-50f3857ba06e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missbrauchskomplex-muenster-knapp-neun-jahre-haft-fuer-36-jaehrigen](https://www.spiegel.de/panorama/justiz/missbrauchskomplex-muenster-knapp-neun-jahre-haft-fuer-36-jaehrigen-a-98c74e15-361d-4855-8a9d-4ac8bb2462dc#ref=rss)
+### geschäfte
+
+* [https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober](https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober-a-02093e04-50b9-4197-b006-f2da49eed62c#ref=rss)
+### firmen
+
+* [https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober](https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober-a-02093e04-50b9-4197-b006-f2da49eed62c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise](https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise-a-e9fbb0e9-c7ec-4afa-9c50-e717c68cd393#ref=rss)
+### schließen
+
+* [https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober](https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober-a-02093e04-50b9-4197-b006-f2da49eed62c#ref=rss)
+### oktober
+
+* [https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober](https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober-a-02093e04-50b9-4197-b006-f2da49eed62c#ref=rss)
+### hauptstadt
+
+* [https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober](https://www.spiegel.de/ausland/coronavirus-moskaus-nicht-lebensnotwendige-geschaefte-und-firmen-schliessen-ab-ende-oktober-a-02093e04-50b9-4197-b006-f2da49eed62c#ref=rss)
+* [https://www.spiegel.de/panorama/belarus-massengrab-aus-dem-zweiten-weltkrieg-bei-minsk-entdeckt](https://www.spiegel.de/panorama/belarus-massengrab-aus-dem-zweiten-weltkrieg-bei-minsk-entdeckt-a-87f68d1f-90ac-4ccf-9147-31bfc5610cb4#ref=rss)
 ### karim
 
-* [https://www.spiegel.de/sport/fussball/karim-adeyemi-vom-fc-salzburg-der-spieler-auf-den-die-fans-stehen](https://www.spiegel.de/sport/fussball/karim-adeyemi-vom-fc-salzburg-der-spieler-auf-den-die-fans-stehen-a-4a12de52-c3c4-4fa0-9a6f-2682d9924fa4#ref=rss)
-### adeyemi
+* [https://www.spiegel.de/panorama/justiz/karim-benzema-staatsanwaltschaft-fordert-in-sexvideo-affaere-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/karim-benzema-staatsanwaltschaft-fordert-in-sexvideo-affaere-bewaehrungsstrafe-a-4255d041-48dc-45f8-b901-1f7c0775fc11#ref=rss)
+### benzema
 
-* [https://www.spiegel.de/sport/fussball/karim-adeyemi-vom-fc-salzburg-der-spieler-auf-den-die-fans-stehen](https://www.spiegel.de/sport/fussball/karim-adeyemi-vom-fc-salzburg-der-spieler-auf-den-die-fans-stehen-a-4a12de52-c3c4-4fa0-9a6f-2682d9924fa4#ref=rss)
-### spieler
+* [https://www.spiegel.de/panorama/justiz/karim-benzema-staatsanwaltschaft-fordert-in-sexvideo-affaere-bewaehrungsstrafe](https://www.spiegel.de/panorama/justiz/karim-benzema-staatsanwaltschaft-fordert-in-sexvideo-affaere-bewaehrungsstrafe-a-4255d041-48dc-45f8-b901-1f7c0775fc11#ref=rss)
+### helmut
 
-* [https://www.spiegel.de/sport/fussball/karim-adeyemi-vom-fc-salzburg-der-spieler-auf-den-die-fans-stehen](https://www.spiegel.de/sport/fussball/karim-adeyemi-vom-fc-salzburg-der-spieler-auf-den-die-fans-stehen-a-4a12de52-c3c4-4fa0-9a6f-2682d9924fa4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage-a-d6fab87d-28e5-410b-ba7f-2750e6638aef#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage-a-d6fab87d-28e5-410b-ba7f-2750e6638aef#ref=rss)
+* [https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel](https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel-a-872379f8-d628-475b-8a9a-1e2c4e775e6a#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-verfehlt-helmut-kohls-amtszeit-rekord-wohl-um-wenige-tage-a-d6fab87d-28e5-410b-ba7f-2750e6638aef#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelbuendnis-will-bis-ende-november-koalitionsvertrag-vorlegen](https://www.spiegel.de/politik/deutschland/ampelbuendnis-will-bis-ende-november-koalitionsvertrag-vorlegen-a-cc7e7df1-bb2f-418e-ae5e-5aac3ab15b9b#ref=rss)
+### indien
+
+* [https://www.spiegel.de/panorama/indien-eine-milliarde-impfdosen-verabreicht](https://www.spiegel.de/panorama/indien-eine-milliarde-impfdosen-verabreicht-a-0d7909e6-ed79-45c5-903f-22c6e33167fd#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/panorama/indien-eine-milliarde-impfdosen-verabreicht](https://www.spiegel.de/panorama/indien-eine-milliarde-impfdosen-verabreicht-a-0d7909e6-ed79-45c5-903f-22c6e33167fd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-rassistischer-uebergriff-in-strassenbahn-angeklagtem-ist-die-tat-angeblich-peinlich](https://www.spiegel.de/panorama/justiz/erfurt-rassistischer-uebergriff-in-strassenbahn-angeklagtem-ist-die-tat-angeblich-peinlich-a-d5334c48-ace6-4223-81d1-2bfbeb9e5e45#ref=rss)
+### nordrheinwestfalen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-auktion-nordrhein-westfalen-will-beschlagnahmte-bitcoins-versteigern](https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-auktion-nordrhein-westfalen-will-beschlagnahmte-bitcoins-versteigern-a-2fea767e-76f4-49af-a966-52679bc58b99#ref=rss)
+### justiz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-auktion-nordrhein-westfalen-will-beschlagnahmte-bitcoins-versteigern](https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-auktion-nordrhein-westfalen-will-beschlagnahmte-bitcoins-versteigern-a-2fea767e-76f4-49af-a966-52679bc58b99#ref=rss)
+* [https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel](https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel-a-872379f8-d628-475b-8a9a-1e2c4e775e6a#ref=rss)
+### stellen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-auktion-nordrhein-westfalen-will-beschlagnahmte-bitcoins-versteigern](https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-auktion-nordrhein-westfalen-will-beschlagnahmte-bitcoins-versteigern-a-2fea767e-76f4-49af-a966-52679bc58b99#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her](https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her-a-fe9eaf78-7088-4408-a95f-5e250f3b184a#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-auktion-nordrhein-westfalen-will-beschlagnahmte-bitcoins-versteigern](https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-auktion-nordrhein-westfalen-will-beschlagnahmte-bitcoins-versteigern-a-2fea767e-76f4-49af-a966-52679bc58b99#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/ende-der-maestro-karte-fuer-maestro-faellt-der-letzte-vorhang](https://www.spiegel.de/wirtschaft/service/ende-der-maestro-karte-fuer-maestro-faellt-der-letzte-vorhang-a-80734420-a4b2-483b-a49f-044c148d28fe#ref=rss)
+### wetter
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-scheint-vielerorts-die-sonne](https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-scheint-vielerorts-die-sonne-a-8172fa06-0228-4499-96b4-b78847a0e8e3#ref=rss)
+### wochenende
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-scheint-vielerorts-die-sonne](https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-scheint-vielerorts-die-sonne-a-8172fa06-0228-4499-96b4-b78847a0e8e3#ref=rss)
+### sonne
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-scheint-vielerorts-die-sonne](https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-scheint-vielerorts-die-sonne-a-8172fa06-0228-4499-96b4-b78847a0e8e3#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-scheint-vielerorts-die-sonne](https://www.spiegel.de/panorama/wetter-in-deutschland-am-wochenende-scheint-vielerorts-die-sonne-a-8172fa06-0228-4499-96b4-b78847a0e8e3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/ende-der-maestro-karte-fuer-maestro-faellt-der-letzte-vorhang](https://www.spiegel.de/wirtschaft/service/ende-der-maestro-karte-fuer-maestro-faellt-der-letzte-vorhang-a-80734420-a4b2-483b-a49f-044c148d28fe#ref=rss)
+### europäische
+
+* [https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel](https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel-a-872379f8-d628-475b-8a9a-1e2c4e775e6a#ref=rss)
+### union
+
+* [https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel](https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel-a-872379f8-d628-475b-8a9a-1e2c4e775e6a#ref=rss)
+### eugipfel
+
+* [https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel](https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel-a-872379f8-d628-475b-8a9a-1e2c4e775e6a#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel](https://www.spiegel.de/ausland/europaeische-union-justizstreit-mit-polen-bestimmt-eu-gipfel-a-872379f8-d628-475b-8a9a-1e2c4e775e6a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise](https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise-a-e9fbb0e9-c7ec-4afa-9c50-e717c68cd393#ref=rss)
+### justizminister
+
+* [https://www.spiegel.de/ausland/polen-justizminister-zbigniew-ziobro-ist-der-architekt-der-umstrittenen-justizreform](https://www.spiegel.de/ausland/polen-justizminister-zbigniew-ziobro-ist-der-architekt-der-umstrittenen-justizreform-a-d9ed7468-046d-4899-b75b-4073ae8867b9#ref=rss)
+### ziobro
+
+* [https://www.spiegel.de/ausland/polen-justizminister-zbigniew-ziobro-ist-der-architekt-der-umstrittenen-justizreform](https://www.spiegel.de/ausland/polen-justizminister-zbigniew-ziobro-ist-der-architekt-der-umstrittenen-justizreform-a-d9ed7468-046d-4899-b75b-4073ae8867b9#ref=rss)
+### geplant
+
+* [https://www.spiegel.de/panorama/justiz/missbrauchskomplex-muenster-knapp-neun-jahre-haft-fuer-36-jaehrigen](https://www.spiegel.de/panorama/justiz/missbrauchskomplex-muenster-knapp-neun-jahre-haft-fuer-36-jaehrigen-a-98c74e15-361d-4855-8a9d-4ac8bb2462dc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wegen-papiermangel-schrumpfkur-fuer-koelner-stadtanzeiger-und-express](https://www.spiegel.de/wirtschaft/unternehmen/wegen-papiermangel-schrumpfkur-fuer-koelner-stadtanzeiger-und-express-a-69598529-ac34-410f-9d1c-e0630198894d#ref=rss)
+### kunden
+
+* [https://www.spiegel.de/wirtschaft/service/ende-der-maestro-karte-fuer-maestro-faellt-der-letzte-vorhang](https://www.spiegel.de/wirtschaft/service/ende-der-maestro-karte-fuer-maestro-faellt-der-letzte-vorhang-a-80734420-a4b2-483b-a49f-044c148d28fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiekrise-die-mogelmaschen-der-versorger](https://www.spiegel.de/wirtschaft/service/energiekrise-die-mogelmaschen-der-versorger-a-3a0decdd-cc9f-4165-8b7c-a06a6ad22175#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/wirtschaft/service/ende-der-maestro-karte-fuer-maestro-faellt-der-letzte-vorhang](https://www.spiegel.de/wirtschaft/service/ende-der-maestro-karte-fuer-maestro-faellt-der-letzte-vorhang-a-80734420-a4b2-483b-a49f-044c148d28fe#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise](https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise-a-e9fbb0e9-c7ec-4afa-9c50-e717c68cd393#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sturm-in-deutschland-migration-in-europa-springer-verlag](https://www.spiegel.de/politik/deutschland/news-des-tages-sturm-in-deutschland-migration-in-europa-springer-verlag-a-4e5449ed-e407-41c2-9b81-0cdca99c94eb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-rassistischer-uebergriff-in-strassenbahn-angeklagtem-ist-die-tat-angeblich-peinlich](https://www.spiegel.de/panorama/justiz/erfurt-rassistischer-uebergriff-in-strassenbahn-angeklagtem-ist-die-tat-angeblich-peinlich-a-d5334c48-ace6-4223-81d1-2bfbeb9e5e45#ref=rss)
+### ferdinand
+
+* [https://www.spiegel.de/kultur/literatur/ferdinand-schmalz-ueber-seine-utopie-in-der-krise-die-grosse-dramatische-wende](https://www.spiegel.de/kultur/literatur/ferdinand-schmalz-ueber-seine-utopie-in-der-krise-die-grosse-dramatische-wende-a-d22659c2-6635-4413-b3b7-8bf7ca2c12a7#ref=rss)
+### schmalz
+
+* [https://www.spiegel.de/kultur/literatur/ferdinand-schmalz-ueber-seine-utopie-in-der-krise-die-grosse-dramatische-wende](https://www.spiegel.de/kultur/literatur/ferdinand-schmalz-ueber-seine-utopie-in-der-krise-die-grosse-dramatische-wende-a-d22659c2-6635-4413-b3b7-8bf7ca2c12a7#ref=rss)
+### sozialen
+
+* [https://www.spiegel.de/kultur/literatur/ferdinand-schmalz-ueber-seine-utopie-in-der-krise-die-grosse-dramatische-wende](https://www.spiegel.de/kultur/literatur/ferdinand-schmalz-ueber-seine-utopie-in-der-krise-die-grosse-dramatische-wende-a-d22659c2-6635-4413-b3b7-8bf7ca2c12a7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/erfurt-rassistischer-uebergriff-in-strassenbahn-angeklagtem-ist-die-tat-angeblich-peinlich](https://www.spiegel.de/panorama/justiz/erfurt-rassistischer-uebergriff-in-strassenbahn-angeklagtem-ist-die-tat-angeblich-peinlich-a-d5334c48-ace6-4223-81d1-2bfbeb9e5e45#ref=rss)
+### steigende
+
+* [https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise](https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise-a-e9fbb0e9-c7ec-4afa-9c50-e717c68cd393#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiekrise-die-mogelmaschen-der-versorger](https://www.spiegel.de/wirtschaft/service/energiekrise-die-mogelmaschen-der-versorger-a-3a0decdd-cc9f-4165-8b7c-a06a6ad22175#ref=rss)
+### gas
+
+* [https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise](https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise-a-e9fbb0e9-c7ec-4afa-9c50-e717c68cd393#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise](https://www.spiegel.de/wirtschaft/soziales/steigende-energiepreise-deutschland-droht-beim-gas-die-dauerkrise-a-e9fbb0e9-c7ec-4afa-9c50-e717c68cd393#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energiekrise-die-mogelmaschen-der-versorger](https://www.spiegel.de/wirtschaft/service/energiekrise-die-mogelmaschen-der-versorger-a-3a0decdd-cc9f-4165-8b7c-a06a6ad22175#ref=rss)
+### steigenden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/wegen-papiermangel-schrumpfkur-fuer-koelner-stadtanzeiger-und-express](https://www.spiegel.de/wirtschaft/unternehmen/wegen-papiermangel-schrumpfkur-fuer-koelner-stadtanzeiger-und-express-a-69598529-ac34-410f-9d1c-e0630198894d#ref=rss)
+* [https://www.spiegel.de/reise/europa/corona-regeln-was-die-steigenden-inzidenzen-fuer-reisende-bedeuten](https://www.spiegel.de/reise/europa/corona-regeln-was-die-steigenden-inzidenzen-fuer-reisende-bedeuten-a-6c499d4e-be3b-442a-8fd7-e30710c8782a#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her](https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her-a-fe9eaf78-7088-4408-a95f-5e250f3b184a#ref=rss)
+### messer
+
+* [https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her](https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her-a-fe9eaf78-7088-4408-a95f-5e250f3b184a#ref=rss)
+### nägel
+
+* [https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her](https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her-a-fe9eaf78-7088-4408-a95f-5e250f3b184a#ref=rss)
+### holz
+
+* [https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her](https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her-a-fe9eaf78-7088-4408-a95f-5e250f3b184a#ref=rss)
+### schärfer
+
+* [https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her](https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her-a-fe9eaf78-7088-4408-a95f-5e250f3b184a#ref=rss)
+### edelstahl
+
+* [https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her](https://www.spiegel.de/wissenschaft/technik/schaerfer-als-edelstahl-forscher-stellen-messer-und-naegel-aus-holz-her-a-fe9eaf78-7088-4408-a95f-5e250f3b184a#ref=rss)
+### eswatini
+
+* [https://www.spiegel.de/ausland/eswatini-ein-toter-und-mindestens-80-verletzte-bei-prodemokratischen-protesten](https://www.spiegel.de/ausland/eswatini-ein-toter-und-mindestens-80-verletzte-bei-prodemokratischen-protesten-a-6d2d6fad-f9e5-4121-ae48-53b03f17fa7e#ref=rss)
+### massengrab
+
+* [https://www.spiegel.de/panorama/belarus-massengrab-aus-dem-zweiten-weltkrieg-bei-minsk-entdeckt](https://www.spiegel.de/panorama/belarus-massengrab-aus-dem-zweiten-weltkrieg-bei-minsk-entdeckt-a-87f68d1f-90ac-4ccf-9147-31bfc5610cb4#ref=rss)
+### minsk
+
+* [https://www.spiegel.de/panorama/belarus-massengrab-aus-dem-zweiten-weltkrieg-bei-minsk-entdeckt](https://www.spiegel.de/panorama/belarus-massengrab-aus-dem-zweiten-weltkrieg-bei-minsk-entdeckt-a-87f68d1f-90ac-4ccf-9147-31bfc5610cb4#ref=rss)
+### entdeckt
+
+* [https://www.spiegel.de/panorama/belarus-massengrab-aus-dem-zweiten-weltkrieg-bei-minsk-entdeckt](https://www.spiegel.de/panorama/belarus-massengrab-aus-dem-zweiten-weltkrieg-bei-minsk-entdeckt-a-87f68d1f-90ac-4ccf-9147-31bfc5610cb4#ref=rss)
+### nicolae
+
+* [https://www.spiegel.de/ausland/rumaenien-verteidigungsminister-nicolae-ciuca-soll-regierungschef-werden](https://www.spiegel.de/ausland/rumaenien-verteidigungsminister-nicolae-ciuca-soll-regierungschef-werden-a-18b4643e-180b-4edf-a5b2-dcbd4b670cfd#ref=rss)
+### ciucă
+
+* [https://www.spiegel.de/ausland/rumaenien-verteidigungsminister-nicolae-ciuca-soll-regierungschef-werden](https://www.spiegel.de/ausland/rumaenien-verteidigungsminister-nicolae-ciuca-soll-regierungschef-werden-a-18b4643e-180b-4edf-a5b2-dcbd4b670cfd#ref=rss)
+### coronalage
+
+* [https://www.spiegel.de/ausland/rumaenien-verteidigungsminister-nicolae-ciuca-soll-regierungschef-werden](https://www.spiegel.de/ausland/rumaenien-verteidigungsminister-nicolae-ciuca-soll-regierungschef-werden-a-18b4643e-180b-4edf-a5b2-dcbd4b670cfd#ref=rss)
+* [https://www.spiegel.de/reise/europa/corona-regeln-was-die-steigenden-inzidenzen-fuer-reisende-bedeuten](https://www.spiegel.de/reise/europa/corona-regeln-was-die-steigenden-inzidenzen-fuer-reisende-bedeuten-a-6c499d4e-be3b-442a-8fd7-e30710c8782a#ref=rss)
+### manfred
+
+* [https://www.spiegel.de/geschichte/manfred-krug-der-ray-charles-aus-pankow-poetisch-frei-und-ungestuem](https://www.spiegel.de/geschichte/manfred-krug-der-ray-charles-aus-pankow-poetisch-frei-und-ungestuem-a-09eee3d3-d13d-4d10-853c-775dd2ca9de3#ref=rss)
+### krug
+
+* [https://www.spiegel.de/geschichte/manfred-krug-der-ray-charles-aus-pankow-poetisch-frei-und-ungestuem](https://www.spiegel.de/geschichte/manfred-krug-der-ray-charles-aus-pankow-poetisch-frei-und-ungestuem-a-09eee3d3-d13d-4d10-853c-775dd2ca9de3#ref=rss)
+### versorger
+
+* [https://www.spiegel.de/wirtschaft/service/energiekrise-die-mogelmaschen-der-versorger](https://www.spiegel.de/wirtschaft/service/energiekrise-die-mogelmaschen-der-versorger-a-3a0decdd-cc9f-4165-8b7c-a06a6ad22175#ref=rss)
 
