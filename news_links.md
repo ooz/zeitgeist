@@ -4,249 +4,315 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
-
-* [https://www.spiegel.de/gesundheit/corona-impfung-fuer-kinder-warum-ich-geduldig-auf-die-empfehlung-der-stiko-warte](https://www.spiegel.de/gesundheit/corona-impfung-fuer-kinder-warum-ich-geduldig-auf-die-empfehlung-der-stiko-warte-a-1467a63a-4e4a-461d-8914-e1607f5ec3ed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/usa-planen-neue-einkommensteuer-fuer-superreiche](https://www.spiegel.de/wirtschaft/soziales/usa-planen-neue-einkommensteuer-fuer-superreiche-a-8875018f-ae49-49a7-a71b-83f6ffddd773#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-fliegt-doch-nicht-nach-amerika](https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-fliegt-doch-nicht-nach-amerika-a-30ba2f00-d74c-437f-a9a4-0a71696814e2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/washington-verbannt-china-telecom-vom-us-markt](https://www.spiegel.de/wirtschaft/unternehmen/washington-verbannt-china-telecom-vom-us-markt-a-ceaa2999-9481-4cf2-8d65-5e500d0843cf#ref=rss)
-* [https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks](https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks-a-3ca0e24f-7d71-454d-81c0-c11bb3dc66d2#ref=rss)
-### alec
-
-* [https://www.spiegel.de/panorama/justiz/alec-baldwin-erschoss-kamerafrau-staatsanwaeltin-schliesst-strafverfahren-gegen-alec-baldwin-nicht-aus](https://www.spiegel.de/panorama/justiz/alec-baldwin-erschoss-kamerafrau-staatsanwaeltin-schliesst-strafverfahren-gegen-alec-baldwin-nicht-aus-a-1237980e-9353-485e-8671-462f32e8736d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/alec-baldwin-wie-kam-es-zum-toedlichen-schuss-am-set-behoerden-zu-ersten-ermittlungsergebnissen](https://www.spiegel.de/panorama/justiz/alec-baldwin-wie-kam-es-zum-toedlichen-schuss-am-set-behoerden-zu-ersten-ermittlungsergebnissen-a-18559ea0-c85f-44b7-b6fa-2d5a32a9175c#ref=rss)
-### baldwin
-
-* [https://www.spiegel.de/panorama/justiz/alec-baldwin-erschoss-kamerafrau-staatsanwaeltin-schliesst-strafverfahren-gegen-alec-baldwin-nicht-aus](https://www.spiegel.de/panorama/justiz/alec-baldwin-erschoss-kamerafrau-staatsanwaeltin-schliesst-strafverfahren-gegen-alec-baldwin-nicht-aus-a-1237980e-9353-485e-8671-462f32e8736d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/alec-baldwin-wie-kam-es-zum-toedlichen-schuss-am-set-behoerden-zu-ersten-ermittlungsergebnissen](https://www.spiegel.de/panorama/justiz/alec-baldwin-wie-kam-es-zum-toedlichen-schuss-am-set-behoerden-zu-ersten-ermittlungsergebnissen-a-18559ea0-c85f-44b7-b6fa-2d5a32a9175c#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/gesundheit/corona-impfung-fuer-kinder-warum-ich-geduldig-auf-die-empfehlung-der-stiko-warte](https://www.spiegel.de/gesundheit/corona-impfung-fuer-kinder-warum-ich-geduldig-auf-die-empfehlung-der-stiko-warte-a-1467a63a-4e4a-461d-8914-e1607f5ec3ed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-entscheidung-ueber-impfstoff-fuer-kinder-noch-vor-weihnachten](https://www.spiegel.de/politik/deutschland/coronavirus-entscheidung-ueber-impfstoff-fuer-kinder-noch-vor-weihnachten-a-01498388-7663-43bb-a4a7-5f98363c42fc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/fahrradhelme-fuer-kinder-worauf-eltern-beim-kauf-achten-sollten](https://www.spiegel.de/wissenschaft/fahrradhelme-fuer-kinder-worauf-eltern-beim-kauf-achten-sollten-a-50c34c93-9f0e-40da-b95f-342e2e196847#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/schweden-ueberprueft-internationale-adoptionen-der-vergangenen-70-jahre](https://www.spiegel.de/panorama/gesellschaft/schweden-ueberprueft-internationale-adoptionen-der-vergangenen-70-jahre-a-dc4cedd7-215a-451d-9587-5f049c77a519#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/soziales/usa-planen-neue-einkommensteuer-fuer-superreiche](https://www.spiegel.de/wirtschaft/soziales/usa-planen-neue-einkommensteuer-fuer-superreiche-a-8875018f-ae49-49a7-a71b-83f6ffddd773#ref=rss)
-* [https://www.spiegel.de/ausland/iran-kuendigt-neue-verhandlungen-ueber-atomprogramm-ab-november-an](https://www.spiegel.de/ausland/iran-kuendigt-neue-verhandlungen-ueber-atomprogramm-ab-november-an-a-f189cabd-6138-4dfd-84d7-6c374a222576#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet](https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet-a-77e0c014-3e2e-48fe-bf95-ee7159d89402#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-neue-attacken-gegen-donald-trump](https://www.spiegel.de/ausland/joe-biden-neue-attacken-gegen-donald-trump-a-7e63afef-8940-441d-a458-032680d8f861#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/hendrik-wuest-beerbt-armin-laschet-als-nrw-ministerpraesident-machtwechsel-mit-schmerzen](https://www.spiegel.de/politik/deutschland/hendrik-wuest-beerbt-armin-laschet-als-nrw-ministerpraesident-machtwechsel-mit-schmerzen-a-4f8b7f97-663c-43f8-83f7-2f5f516c3ad9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/yvonne-magwas-bundestagsvizepraesidentin-schmettert-wunsch-der-fdp-zur-sitzordnung-ab](https://www.spiegel.de/politik/deutschland/yvonne-magwas-bundestagsvizepraesidentin-schmettert-wunsch-der-fdp-zur-sitzordnung-ab-a-75899c72-f93f-413f-94ae-f969e6d44ed6#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-neue-attacken-gegen-donald-trump](https://www.spiegel.de/ausland/joe-biden-neue-attacken-gegen-donald-trump-a-7e63afef-8940-441d-a458-032680d8f861#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-und-das-ende-der-epidemischen-lage-der-ampel-plan-fuer-den-corona-winter](https://www.spiegel.de/politik/deutschland/coronavirus-und-das-ende-der-epidemischen-lage-der-ampel-plan-fuer-den-corona-winter-a-54304434-d2af-4119-a9e2-cf7499b7f258#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-streit-polen-energiepreise-kurzstreckenfluege](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-streit-polen-energiepreise-kurzstreckenfluege-a-a678478f-2d0d-4540-af2d-91614a11dca5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet](https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet-a-77e0c014-3e2e-48fe-bf95-ee7159d89402#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/deutschland/yvonne-magwas-bundestagsvizepraesidentin-schmettert-wunsch-der-fdp-zur-sitzordnung-ab](https://www.spiegel.de/politik/deutschland/yvonne-magwas-bundestagsvizepraesidentin-schmettert-wunsch-der-fdp-zur-sitzordnung-ab-a-75899c72-f93f-413f-94ae-f969e6d44ed6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-zu-ampel-gespraechen-mehrheit-traut-fdp-groesste-verhandlungsmacht-zu](https://www.spiegel.de/politik/deutschland/spiegel-umfrage-zu-ampel-gespraechen-mehrheit-traut-fdp-groesste-verhandlungsmacht-zu-a-d10bf27a-b505-44d3-87e1-6e81d205d128#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/gesundheit/corona-impfung-fuer-kinder-warum-ich-geduldig-auf-die-empfehlung-der-stiko-warte](https://www.spiegel.de/gesundheit/corona-impfung-fuer-kinder-warum-ich-geduldig-auf-die-empfehlung-der-stiko-warte-a-1467a63a-4e4a-461d-8914-e1607f5ec3ed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-entscheidung-ueber-impfstoff-fuer-kinder-noch-vor-weihnachten](https://www.spiegel.de/politik/deutschland/coronavirus-entscheidung-ueber-impfstoff-fuer-kinder-noch-vor-weihnachten-a-01498388-7663-43bb-a4a7-5f98363c42fc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-und-das-ende-der-epidemischen-lage-der-ampel-plan-fuer-den-corona-winter](https://www.spiegel.de/politik/deutschland/coronavirus-und-das-ende-der-epidemischen-lage-der-ampel-plan-fuer-den-corona-winter-a-54304434-d2af-4119-a9e2-cf7499b7f258#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wirtschaft/gasknappheit-wladimir-putin-ordnet-hoehere-gaslieferungen-nach-europa-an](https://www.spiegel.de/wirtschaft/gasknappheit-wladimir-putin-ordnet-hoehere-gaslieferungen-nach-europa-an-a-052a6803-c94e-428f-884e-fac09eb29bee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-streit-polen-energiepreise-kurzstreckenfluege](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-streit-polen-energiepreise-kurzstreckenfluege-a-a678478f-2d0d-4540-af2d-91614a11dca5#ref=rss)
-### armin
-
-* [https://www.spiegel.de/politik/deutschland/hendrik-wuest-beerbt-armin-laschet-als-nrw-ministerpraesident-machtwechsel-mit-schmerzen](https://www.spiegel.de/politik/deutschland/hendrik-wuest-beerbt-armin-laschet-als-nrw-ministerpraesident-machtwechsel-mit-schmerzen-a-4f8b7f97-663c-43f8-83f7-2f5f516c3ad9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet](https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet-a-77e0c014-3e2e-48fe-bf95-ee7159d89402#ref=rss)
-### laschet
-
-* [https://www.spiegel.de/politik/deutschland/hendrik-wuest-beerbt-armin-laschet-als-nrw-ministerpraesident-machtwechsel-mit-schmerzen](https://www.spiegel.de/politik/deutschland/hendrik-wuest-beerbt-armin-laschet-als-nrw-ministerpraesident-machtwechsel-mit-schmerzen-a-4f8b7f97-663c-43f8-83f7-2f5f516c3ad9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet](https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet-a-77e0c014-3e2e-48fe-bf95-ee7159d89402#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-zu-ampel-gespraechen-mehrheit-traut-fdp-groesste-verhandlungsmacht-zu](https://www.spiegel.de/politik/deutschland/spiegel-umfrage-zu-ampel-gespraechen-mehrheit-traut-fdp-groesste-verhandlungsmacht-zu-a-d10bf27a-b505-44d3-87e1-6e81d205d128#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/washington-verbannt-china-telecom-vom-us-markt](https://www.spiegel.de/wirtschaft/unternehmen/washington-verbannt-china-telecom-vom-us-markt-a-ceaa2999-9481-4cf2-8d65-5e500d0843cf#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/wirtschaftliche-schaeden-klimawandel-koennte-teurer-werden-als-gedacht](https://www.spiegel.de/wissenschaft/natur/wirtschaftliche-schaeden-klimawandel-koennte-teurer-werden-als-gedacht-a-3ed5b582-50a1-4bcd-bdfb-1c8a7140be2d#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/panorama/bayern-riesiger-lkw-stau-zwischen-muenchner-sueden-und-oesterreich](https://www.spiegel.de/panorama/bayern-riesiger-lkw-stau-zwischen-muenchner-sueden-und-oesterreich-a-2b4b7824-1bfa-49ad-a0de-50d702699653#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-amira-mohamed-ali-und-dietmar-bartsch-fordern-rueckbesinnung-auf-soziale-fragen](https://www.spiegel.de/politik/deutschland/linke-amira-mohamed-ali-und-dietmar-bartsch-fordern-rueckbesinnung-auf-soziale-fragen-a-7053000f-ce3b-44f9-93ec-1725c647f33c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/schweden-ueberprueft-internationale-adoptionen-der-vergangenen-70-jahre](https://www.spiegel.de/panorama/gesellschaft/schweden-ueberprueft-internationale-adoptionen-der-vergangenen-70-jahre-a-dc4cedd7-215a-451d-9587-5f049c77a519#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/washington-verbannt-china-telecom-vom-us-markt](https://www.spiegel.de/wirtschaft/unternehmen/washington-verbannt-china-telecom-vom-us-markt-a-ceaa2999-9481-4cf2-8d65-5e500d0843cf#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/schweden-ueberprueft-internationale-adoptionen-der-vergangenen-70-jahre](https://www.spiegel.de/panorama/gesellschaft/schweden-ueberprueft-internationale-adoptionen-der-vergangenen-70-jahre-a-dc4cedd7-215a-451d-9587-5f049c77a519#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet](https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet-a-77e0c014-3e2e-48fe-bf95-ee7159d89402#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-prozess-nach-toedlichem-suv-unfall-mit-tempo-106-auf-den-gehweg](https://www.spiegel.de/panorama/justiz/berlin-prozess-nach-toedlichem-suv-unfall-mit-tempo-106-auf-den-gehweg-a-6dfc1781-9481-4f92-9dcd-a5fefddb882a#ref=rss)
-### kamerafrau
-
-* [https://www.spiegel.de/panorama/justiz/alec-baldwin-erschoss-kamerafrau-staatsanwaeltin-schliesst-strafverfahren-gegen-alec-baldwin-nicht-aus](https://www.spiegel.de/panorama/justiz/alec-baldwin-erschoss-kamerafrau-staatsanwaeltin-schliesst-strafverfahren-gegen-alec-baldwin-nicht-aus-a-1237980e-9353-485e-8671-462f32e8736d#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/alec-baldwin-erschoss-kamerafrau-staatsanwaeltin-schliesst-strafverfahren-gegen-alec-baldwin-nicht-aus](https://www.spiegel.de/panorama/justiz/alec-baldwin-erschoss-kamerafrau-staatsanwaeltin-schliesst-strafverfahren-gegen-alec-baldwin-nicht-aus-a-1237980e-9353-485e-8671-462f32e8736d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wegen-cum-ex-geschaeften-ermittler-durchsuchen-berliner-sparda-bank](https://www.spiegel.de/wirtschaft/unternehmen/wegen-cum-ex-geschaeften-ermittler-durchsuchen-berliner-sparda-bank-a-61ed03a5-3b64-4f6c-9b83-4322d77c7bd9#ref=rss)
-### karl
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-geht-der-spd-politiker-in-der-ampel-leer-aus](https://www.spiegel.de/politik/deutschland/karl-lauterbach-geht-der-spd-politiker-in-der-ampel-leer-aus-a-bb905691-9d0b-4549-bf4d-8b23fb806acc#ref=rss)
-### lauterbach
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-geht-der-spd-politiker-in-der-ampel-leer-aus](https://www.spiegel.de/politik/deutschland/karl-lauterbach-geht-der-spd-politiker-in-der-ampel-leer-aus-a-bb905691-9d0b-4549-bf4d-8b23fb806acc#ref=rss)
-### kam
-
-* [https://www.spiegel.de/ausland/tote-nach-schwerem-unwetter-auf-sizilien](https://www.spiegel.de/ausland/tote-nach-schwerem-unwetter-auf-sizilien-a-eeb44e24-4ee5-461e-bce2-5d3a7b7df9cf#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/alec-baldwin-wie-kam-es-zum-toedlichen-schuss-am-set-behoerden-zu-ersten-ermittlungsergebnissen](https://www.spiegel.de/panorama/justiz/alec-baldwin-wie-kam-es-zum-toedlichen-schuss-am-set-behoerden-zu-ersten-ermittlungsergebnissen-a-18559ea0-c85f-44b7-b6fa-2d5a32a9175c#ref=rss)
-### russische
-
-* [https://www.spiegel.de/wirtschaft/gasknappheit-wladimir-putin-ordnet-hoehere-gaslieferungen-nach-europa-an](https://www.spiegel.de/wirtschaft/gasknappheit-wladimir-putin-ordnet-hoehere-gaslieferungen-nach-europa-an-a-052a6803-c94e-428f-884e-fac09eb29bee#ref=rss)
-### november
-
-* [https://www.spiegel.de/wirtschaft/gasknappheit-wladimir-putin-ordnet-hoehere-gaslieferungen-nach-europa-an](https://www.spiegel.de/wirtschaft/gasknappheit-wladimir-putin-ordnet-hoehere-gaslieferungen-nach-europa-an-a-052a6803-c94e-428f-884e-fac09eb29bee#ref=rss)
-* [https://www.spiegel.de/ausland/iran-kuendigt-neue-verhandlungen-ueber-atomprogramm-ab-november-an](https://www.spiegel.de/ausland/iran-kuendigt-neue-verhandlungen-ueber-atomprogramm-ab-november-an-a-f189cabd-6138-4dfd-84d7-6c374a222576#ref=rss)
-### entscheidung
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-entscheidung-ueber-impfstoff-fuer-kinder-noch-vor-weihnachten](https://www.spiegel.de/politik/deutschland/coronavirus-entscheidung-ueber-impfstoff-fuer-kinder-noch-vor-weihnachten-a-01498388-7663-43bb-a4a7-5f98363c42fc#ref=rss)
-* [https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks](https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks-a-3ca0e24f-7d71-454d-81c0-c11bb3dc66d2#ref=rss)
-### tempo
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-entscheidung-ueber-impfstoff-fuer-kinder-noch-vor-weihnachten](https://www.spiegel.de/politik/deutschland/coronavirus-entscheidung-ueber-impfstoff-fuer-kinder-noch-vor-weihnachten-a-01498388-7663-43bb-a4a7-5f98363c42fc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-prozess-nach-toedlichem-suv-unfall-mit-tempo-106-auf-den-gehweg](https://www.spiegel.de/panorama/justiz/berlin-prozess-nach-toedlichem-suv-unfall-mit-tempo-106-auf-den-gehweg-a-6dfc1781-9481-4f92-9dcd-a5fefddb882a#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-entscheidung-ueber-impfstoff-fuer-kinder-noch-vor-weihnachten](https://www.spiegel.de/politik/deutschland/coronavirus-entscheidung-ueber-impfstoff-fuer-kinder-noch-vor-weihnachten-a-01498388-7663-43bb-a4a7-5f98363c42fc#ref=rss)
-* [https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks](https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks-a-3ca0e24f-7d71-454d-81c0-c11bb3dc66d2#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-entscheidung-ueber-impfstoff-fuer-kinder-noch-vor-weihnachten](https://www.spiegel.de/politik/deutschland/coronavirus-entscheidung-ueber-impfstoff-fuer-kinder-noch-vor-weihnachten-a-01498388-7663-43bb-a4a7-5f98363c42fc#ref=rss)
-* [https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks](https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks-a-3ca0e24f-7d71-454d-81c0-c11bb3dc66d2#ref=rss)
-### hendrik
-
-* [https://www.spiegel.de/politik/deutschland/hendrik-wuest-beerbt-armin-laschet-als-nrw-ministerpraesident-machtwechsel-mit-schmerzen](https://www.spiegel.de/politik/deutschland/hendrik-wuest-beerbt-armin-laschet-als-nrw-ministerpraesident-machtwechsel-mit-schmerzen-a-4f8b7f97-663c-43f8-83f7-2f5f516c3ad9#ref=rss)
-### wüst
-
-* [https://www.spiegel.de/politik/deutschland/hendrik-wuest-beerbt-armin-laschet-als-nrw-ministerpraesident-machtwechsel-mit-schmerzen](https://www.spiegel.de/politik/deutschland/hendrik-wuest-beerbt-armin-laschet-als-nrw-ministerpraesident-machtwechsel-mit-schmerzen-a-4f8b7f97-663c-43f8-83f7-2f5f516c3ad9#ref=rss)
-### bernd
-
-* [https://www.spiegel.de/sport/fussball/bernd-nickel-von-eintracht-frankfurt-nachruf-zum-tod-von-doktor-hammer](https://www.spiegel.de/sport/fussball/bernd-nickel-von-eintracht-frankfurt-nachruf-zum-tod-von-doktor-hammer-a-e09db173-38cc-4ec0-99bd-46b1c829a909#ref=rss)
-### nickel
-
-* [https://www.spiegel.de/sport/fussball/bernd-nickel-von-eintracht-frankfurt-nachruf-zum-tod-von-doktor-hammer](https://www.spiegel.de/sport/fussball/bernd-nickel-von-eintracht-frankfurt-nachruf-zum-tod-von-doktor-hammer-a-e09db173-38cc-4ec0-99bd-46b1c829a909#ref=rss)
-### eintracht
-
-* [https://www.spiegel.de/sport/fussball/bernd-nickel-von-eintracht-frankfurt-nachruf-zum-tod-von-doktor-hammer](https://www.spiegel.de/sport/fussball/bernd-nickel-von-eintracht-frankfurt-nachruf-zum-tod-von-doktor-hammer-a-e09db173-38cc-4ec0-99bd-46b1c829a909#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/coronavirus-und-das-ende-der-epidemischen-lage-der-ampel-plan-fuer-den-corona-winter](https://www.spiegel.de/politik/deutschland/coronavirus-und-das-ende-der-epidemischen-lage-der-ampel-plan-fuer-den-corona-winter-a-54304434-d2af-4119-a9e2-cf7499b7f258#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/yvonne-magwas-bundestagsvizepraesidentin-schmettert-wunsch-der-fdp-zur-sitzordnung-ab](https://www.spiegel.de/politik/deutschland/yvonne-magwas-bundestagsvizepraesidentin-schmettert-wunsch-der-fdp-zur-sitzordnung-ab-a-75899c72-f93f-413f-94ae-f969e6d44ed6#ref=rss)
-### diess
+* [https://www.spiegel.de/wirtschaft/klimaschutz-vw-lehnt-unterlassungserklaerung-von-greenpeace-ab](https://www.spiegel.de/wirtschaft/klimaschutz-vw-lehnt-unterlassungserklaerung-von-greenpeace-ab-a-30df9d1f-f5f5-4d94-84bd-72ec08aad162#ref=rss)
+* [https://www.spiegel.de/kultur/musik/abba-voyage-soll-das-allerletzte-album-sein-sagen-bjoern-und-benny-in-interview](https://www.spiegel.de/kultur/musik/abba-voyage-soll-das-allerletzte-album-sein-sagen-bjoern-und-benny-in-interview-a-7fcc3b14-dbb9-421f-8f47-f5f728aac303#ref=rss)
+* [https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren](https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren-a-6ef0100e-0200-4a33-963f-09f22eb745eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/subventionen-wo-deutschland-mehr-als-200-milliarden-euro-an-zweifelhaften-ausgaben-einsparen-koennte](https://www.spiegel.de/wirtschaft/subventionen-wo-deutschland-mehr-als-200-milliarden-euro-an-zweifelhaften-ausgaben-einsparen-koennte-a-1c87b301-75fd-429b-a01d-2589bae56d9f#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-jugendverband-kjg-diskutiert-ueber-gott-und-gott](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-jugendverband-kjg-diskutiert-ueber-gott-und-gott-a-f63d8745-78d0-4b7d-bf9e-0d2d91e93755#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/manche-nationalparks-stossen-mehr-co-aus-als-sie-absorbieren](https://www.spiegel.de/wissenschaft/mensch/manche-nationalparks-stossen-mehr-co-aus-als-sie-absorbieren-a-d9a14661-db3b-4b31-86e3-2443a81dbec4#ref=rss)
+* [https://www.spiegel.de/start/software-entwicklerin-werden-aufs-geld-habe-ich-nicht-geschaut](https://www.spiegel.de/start/software-entwicklerin-werden-aufs-geld-habe-ich-nicht-geschaut-a-802edf15-0668-4994-a89f-b0fce6ecdce9#ref=rss)
+### ich
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-fliegt-doch-nicht-nach-amerika](https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-fliegt-doch-nicht-nach-amerika-a-30ba2f00-d74c-437f-a9a4-0a71696814e2#ref=rss)
-### reise
+* [https://www.spiegel.de/panorama/leute/angelina-jolie-ich-bin-keine-perfekte-mutter](https://www.spiegel.de/panorama/leute/angelina-jolie-ich-bin-keine-perfekte-mutter-a-5bc606d0-5549-4cd7-ba9e-af073cfcd7e8#ref=rss)
+* [https://www.spiegel.de/panorama/leute/macklemore-tochter-kritisiert-neues-lied-next-year-als-nicht-dein-bestes](https://www.spiegel.de/panorama/leute/macklemore-tochter-kritisiert-neues-lied-next-year-als-nicht-dein-bestes-a-976c3385-b9cc-43aa-90d3-ac6f20f358d7#ref=rss)
+* [https://www.spiegel.de/start/software-entwicklerin-werden-aufs-geld-habe-ich-nicht-geschaut](https://www.spiegel.de/start/software-entwicklerin-werden-aufs-geld-habe-ich-nicht-geschaut-a-802edf15-0668-4994-a89f-b0fce6ecdce9#ref=rss)
+### china
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-fliegt-doch-nicht-nach-amerika](https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-fliegt-doch-nicht-nach-amerika-a-30ba2f00-d74c-437f-a9a4-0a71696814e2#ref=rss)
-### spott
+* [https://www.spiegel.de/ausland/indien-gegen-china-erneut-atomwaffenfaehige-rakete-getestet](https://www.spiegel.de/ausland/indien-gegen-china-erneut-atomwaffenfaehige-rakete-getestet-a-34b025c8-9031-4f91-904d-4b664870fa39#ref=rss)
+* [https://www.spiegel.de/ausland/taiwans-praesidentin-tsai-ing-wen-bedrohung-durch-china-nimmt-jeden-tag-zu](https://www.spiegel.de/ausland/taiwans-praesidentin-tsai-ing-wen-bedrohung-durch-china-nimmt-jeden-tag-zu-a-926c72f9-e0b4-495b-8987-a301542c7cda#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-fliegt-doch-nicht-nach-amerika](https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-fliegt-doch-nicht-nach-amerika-a-30ba2f00-d74c-437f-a9a4-0a71696814e2#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-innensenator-andy-grote-pimmelgate-chronologie](https://www.spiegel.de/panorama/gesellschaft/hamburg-innensenator-andy-grote-pimmelgate-chronologie-a-dbd0040d-1126-43c6-a5d9-c33c8eb193a5#ref=rss)
-### yvonne
+* [https://www.spiegel.de/kultur/musik/abba-voyage-soll-das-allerletzte-album-sein-sagen-bjoern-und-benny-in-interview](https://www.spiegel.de/kultur/musik/abba-voyage-soll-das-allerletzte-album-sein-sagen-bjoern-und-benny-in-interview-a-7fcc3b14-dbb9-421f-8f47-f5f728aac303#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-kinderaerzte-hoffen-auf-baldige-corona-impfung-fuer-unter-zwoelfjaehrige](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-kinderaerzte-hoffen-auf-baldige-corona-impfung-fuer-unter-zwoelfjaehrige-a-255c6af2-fbc6-4b18-a91b-b6c3159a986e#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-setzt-britisches-fischerboot-fest](https://www.spiegel.de/ausland/frankreich-setzt-britisches-fischerboot-fest-a-250a1515-b8e8-445f-ae21-b9be81936fc7#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/yvonne-magwas-bundestagsvizepraesidentin-schmettert-wunsch-der-fdp-zur-sitzordnung-ab](https://www.spiegel.de/politik/deutschland/yvonne-magwas-bundestagsvizepraesidentin-schmettert-wunsch-der-fdp-zur-sitzordnung-ab-a-75899c72-f93f-413f-94ae-f969e6d44ed6#ref=rss)
-### magwas
+* [https://www.spiegel.de/kultur/musik/abba-voyage-soll-das-allerletzte-album-sein-sagen-bjoern-und-benny-in-interview](https://www.spiegel.de/kultur/musik/abba-voyage-soll-das-allerletzte-album-sein-sagen-bjoern-und-benny-in-interview-a-7fcc3b14-dbb9-421f-8f47-f5f728aac303#ref=rss)
+* [https://www.spiegel.de/ausland/kampf-um-hinrichtungen-in-den-usa-oklahoma-plant-sieben-toetungen](https://www.spiegel.de/ausland/kampf-um-hinrichtungen-in-den-usa-oklahoma-plant-sieben-toetungen-a-01240af1-7fc6-4adc-9994-6f857e6325ac#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-kinderaerzte-hoffen-auf-baldige-corona-impfung-fuer-unter-zwoelfjaehrige](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-kinderaerzte-hoffen-auf-baldige-corona-impfung-fuer-unter-zwoelfjaehrige-a-255c6af2-fbc6-4b18-a91b-b6c3159a986e#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/politik/deutschland/yvonne-magwas-bundestagsvizepraesidentin-schmettert-wunsch-der-fdp-zur-sitzordnung-ab](https://www.spiegel.de/politik/deutschland/yvonne-magwas-bundestagsvizepraesidentin-schmettert-wunsch-der-fdp-zur-sitzordnung-ab-a-75899c72-f93f-413f-94ae-f969e6d44ed6#ref=rss)
-### bundestagsvizepräsidentin
+* [https://www.spiegel.de/panorama/justiz/muenchen-66-jaehriger-soll-maennern-auf-wunsch-hoden-entfernt-haben](https://www.spiegel.de/panorama/justiz/muenchen-66-jaehriger-soll-maennern-auf-wunsch-hoden-entfernt-haben-a-5bc78d61-4a65-43c0-8176-f82dcefce7fa#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-militaerfuehrung-soll-eu-botschafter-abgesetzt-haben](https://www.spiegel.de/ausland/sudan-militaerfuehrung-soll-eu-botschafter-abgesetzt-haben-a-50e5a197-efe2-49e0-bc30-5b4d19e3e84c#ref=rss)
+### euro
 
-* [https://www.spiegel.de/politik/deutschland/yvonne-magwas-bundestagsvizepraesidentin-schmettert-wunsch-der-fdp-zur-sitzordnung-ab](https://www.spiegel.de/politik/deutschland/yvonne-magwas-bundestagsvizepraesidentin-schmettert-wunsch-der-fdp-zur-sitzordnung-ab-a-75899c72-f93f-413f-94ae-f969e6d44ed6#ref=rss)
-### innensenator
+* [https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren](https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren-a-6ef0100e-0200-4a33-963f-09f22eb745eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/subventionen-wo-deutschland-mehr-als-200-milliarden-euro-an-zweifelhaften-ausgaben-einsparen-koennte](https://www.spiegel.de/wirtschaft/subventionen-wo-deutschland-mehr-als-200-milliarden-euro-an-zweifelhaften-ausgaben-einsparen-koennte-a-1c87b301-75fd-429b-a01d-2589bae56d9f#ref=rss)
+### geld
 
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-innensenator-andy-grote-pimmelgate-chronologie](https://www.spiegel.de/panorama/gesellschaft/hamburg-innensenator-andy-grote-pimmelgate-chronologie-a-dbd0040d-1126-43c6-a5d9-c33c8eb193a5#ref=rss)
-### andy
+* [https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren](https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren-a-6ef0100e-0200-4a33-963f-09f22eb745eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/subventionen-wo-deutschland-mehr-als-200-milliarden-euro-an-zweifelhaften-ausgaben-einsparen-koennte](https://www.spiegel.de/wirtschaft/subventionen-wo-deutschland-mehr-als-200-milliarden-euro-an-zweifelhaften-ausgaben-einsparen-koennte-a-1c87b301-75fd-429b-a01d-2589bae56d9f#ref=rss)
+* [https://www.spiegel.de/start/software-entwicklerin-werden-aufs-geld-habe-ich-nicht-geschaut](https://www.spiegel.de/start/software-entwicklerin-werden-aufs-geld-habe-ich-nicht-geschaut-a-802edf15-0668-4994-a89f-b0fce6ecdce9#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-innensenator-andy-grote-pimmelgate-chronologie](https://www.spiegel.de/panorama/gesellschaft/hamburg-innensenator-andy-grote-pimmelgate-chronologie-a-dbd0040d-1126-43c6-a5d9-c33c8eb193a5#ref=rss)
-### grote
+* [https://www.spiegel.de/panorama/justiz/alec-baldwin-schauspieler-wurde-nach-toedlichem-vorfall-mehrmals-befragt](https://www.spiegel.de/panorama/justiz/alec-baldwin-schauspieler-wurde-nach-toedlichem-vorfall-mehrmals-befragt-a-21e5b301-2e46-4411-a298-094ac4130fdc#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-tausende-mutmassliche-opfer-von-vergewaltigungen-und-sexueller-gewalt-kritisieren-polizei](https://www.spiegel.de/ausland/frankreich-tausende-mutmassliche-opfer-von-vergewaltigungen-und-sexueller-gewalt-kritisieren-polizei-a-daa0a116-39a4-4798-9183-492c1e5a63a5#ref=rss)
+### zuletzt
 
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-innensenator-andy-grote-pimmelgate-chronologie](https://www.spiegel.de/panorama/gesellschaft/hamburg-innensenator-andy-grote-pimmelgate-chronologie-a-dbd0040d-1126-43c6-a5d9-c33c8eb193a5#ref=rss)
-### spiegelumfrage
+* [https://www.spiegel.de/ausland/indien-gegen-china-erneut-atomwaffenfaehige-rakete-getestet](https://www.spiegel.de/ausland/indien-gegen-china-erneut-atomwaffenfaehige-rakete-getestet-a-34b025c8-9031-4f91-904d-4b664870fa39#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-kinderaerzte-hoffen-auf-baldige-corona-impfung-fuer-unter-zwoelfjaehrige](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-kinderaerzte-hoffen-auf-baldige-corona-impfung-fuer-unter-zwoelfjaehrige-a-255c6af2-fbc6-4b18-a91b-b6c3159a986e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich](https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich-a-1e0799c0-52f6-456e-86de-c15facc53b27#ref=rss)
+### paris
 
-* [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-zu-ampel-gespraechen-mehrheit-traut-fdp-groesste-verhandlungsmacht-zu](https://www.spiegel.de/politik/deutschland/spiegel-umfrage-zu-ampel-gespraechen-mehrheit-traut-fdp-groesste-verhandlungsmacht-zu-a-d10bf27a-b505-44d3-87e1-6e81d205d128#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-zu-ampel-gespraechen-mehrheit-traut-fdp-groesste-verhandlungsmacht-zu](https://www.spiegel.de/politik/deutschland/spiegel-umfrage-zu-ampel-gespraechen-mehrheit-traut-fdp-groesste-verhandlungsmacht-zu-a-d10bf27a-b505-44d3-87e1-6e81d205d128#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-streit-polen-energiepreise-kurzstreckenfluege](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-streit-polen-energiepreise-kurzstreckenfluege-a-a678478f-2d0d-4540-af2d-91614a11dca5#ref=rss)
-### nie
-
-* [https://www.spiegel.de/kultur/bauwerke-die-nie-errichtet-wurden-bildband-ueber-ungebaute-bausuenden](https://www.spiegel.de/kultur/bauwerke-die-nie-errichtet-wurden-bildband-ueber-ungebaute-bausuenden-a-25065e29-bf07-43c4-948a-d01993a56d9f#ref=rss)
-### bildband
-
-* [https://www.spiegel.de/kultur/bauwerke-die-nie-errichtet-wurden-bildband-ueber-ungebaute-bausuenden](https://www.spiegel.de/kultur/bauwerke-die-nie-errichtet-wurden-bildband-ueber-ungebaute-bausuenden-a-25065e29-bf07-43c4-948a-d01993a56d9f#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/wissenschaft/fahrradhelme-fuer-kinder-worauf-eltern-beim-kauf-achten-sollten](https://www.spiegel.de/wissenschaft/fahrradhelme-fuer-kinder-worauf-eltern-beim-kauf-achten-sollten-a-50c34c93-9f0e-40da-b95f-342e2e196847#ref=rss)
-### kauf
-
-* [https://www.spiegel.de/wissenschaft/fahrradhelme-fuer-kinder-worauf-eltern-beim-kauf-achten-sollten](https://www.spiegel.de/wissenschaft/fahrradhelme-fuer-kinder-worauf-eltern-beim-kauf-achten-sollten-a-50c34c93-9f0e-40da-b95f-342e2e196847#ref=rss)
-### polen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-eu-streit-polen-energiepreise-kurzstreckenfluege](https://www.spiegel.de/politik/deutschland/news-des-tages-eu-streit-polen-energiepreise-kurzstreckenfluege-a-a678478f-2d0d-4540-af2d-91614a11dca5#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-kuendigt-neue-verhandlungen-ueber-atomprogramm-ab-november-an](https://www.spiegel.de/ausland/iran-kuendigt-neue-verhandlungen-ueber-atomprogramm-ab-november-an-a-f189cabd-6138-4dfd-84d7-6c374a222576#ref=rss)
-### verhandlungen
-
-* [https://www.spiegel.de/ausland/iran-kuendigt-neue-verhandlungen-ueber-atomprogramm-ab-november-an](https://www.spiegel.de/ausland/iran-kuendigt-neue-verhandlungen-ueber-atomprogramm-ab-november-an-a-f189cabd-6138-4dfd-84d7-6c374a222576#ref=rss)
-### atomprogramm
-
-* [https://www.spiegel.de/ausland/iran-kuendigt-neue-verhandlungen-ueber-atomprogramm-ab-november-an](https://www.spiegel.de/ausland/iran-kuendigt-neue-verhandlungen-ueber-atomprogramm-ab-november-an-a-f189cabd-6138-4dfd-84d7-6c374a222576#ref=rss)
-### telecom
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/washington-verbannt-china-telecom-vom-us-markt](https://www.spiegel.de/wirtschaft/unternehmen/washington-verbannt-china-telecom-vom-us-markt-a-ceaa2999-9481-4cf2-8d65-5e500d0843cf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/h-und-m-schliesst-seine-filiale-auf-den-champs-elysees](https://www.spiegel.de/wirtschaft/h-und-m-schliesst-seine-filiale-auf-den-champs-elysees-a-f6b8eefe-d201-4c16-a257-1432710274e5#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-setzt-britisches-fischerboot-fest](https://www.spiegel.de/ausland/frankreich-setzt-britisches-fischerboot-fest-a-250a1515-b8e8-445f-ae21-b9be81936fc7#ref=rss)
 ### konzern
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/washington-verbannt-china-telecom-vom-us-markt](https://www.spiegel.de/wirtschaft/unternehmen/washington-verbannt-china-telecom-vom-us-markt-a-ceaa2999-9481-4cf2-8d65-5e500d0843cf#ref=rss)
-### behörden
+* [https://www.spiegel.de/wirtschaft/h-und-m-schliesst-seine-filiale-auf-den-champs-elysees](https://www.spiegel.de/wirtschaft/h-und-m-schliesst-seine-filiale-auf-den-champs-elysees-a-f6b8eefe-d201-4c16-a257-1432710274e5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich](https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich-a-1e0799c0-52f6-456e-86de-c15facc53b27#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/panorama/justiz/alec-baldwin-wie-kam-es-zum-toedlichen-schuss-am-set-behoerden-zu-ersten-ermittlungsergebnissen](https://www.spiegel.de/panorama/justiz/alec-baldwin-wie-kam-es-zum-toedlichen-schuss-am-set-behoerden-zu-ersten-ermittlungsergebnissen-a-18559ea0-c85f-44b7-b6fa-2d5a32a9175c#ref=rss)
-### superwahljahr
+* [https://www.spiegel.de/ausland/frankreich-tausende-mutmassliche-opfer-von-vergewaltigungen-und-sexueller-gewalt-kritisieren-polizei](https://www.spiegel.de/ausland/frankreich-tausende-mutmassliche-opfer-von-vergewaltigungen-und-sexueller-gewalt-kritisieren-polizei-a-daa0a116-39a4-4798-9183-492c1e5a63a5#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-setzt-britisches-fischerboot-fest](https://www.spiegel.de/ausland/frankreich-setzt-britisches-fischerboot-fest-a-250a1515-b8e8-445f-ae21-b9be81936fc7#ref=rss)
+### sitting
 
-* [https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet](https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet-a-77e0c014-3e2e-48fe-bf95-ee7159d89402#ref=rss)
-### eigentlich
+* [https://www.spiegel.de/wissenschaft/mensch/sitting-bull-forscher-bestaetigen-verwandtschaft-per-dna-analyse](https://www.spiegel.de/wissenschaft/mensch/sitting-bull-forscher-bestaetigen-verwandtschaft-per-dna-analyse-a-5a43b936-f084-4f97-9c73-3ce286edbec1#ref=rss)
+### bull
 
-* [https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet](https://www.spiegel.de/politik/deutschland/die-lage-im-superwahljahr-2021-was-macht-eigentlich-armin-laschet-a-77e0c014-3e2e-48fe-bf95-ee7159d89402#ref=rss)
-### joe
+* [https://www.spiegel.de/wissenschaft/mensch/sitting-bull-forscher-bestaetigen-verwandtschaft-per-dna-analyse](https://www.spiegel.de/wissenschaft/mensch/sitting-bull-forscher-bestaetigen-verwandtschaft-per-dna-analyse-a-5a43b936-f084-4f97-9c73-3ce286edbec1#ref=rss)
+### unterstützt
 
-* [https://www.spiegel.de/ausland/joe-biden-neue-attacken-gegen-donald-trump](https://www.spiegel.de/ausland/joe-biden-neue-attacken-gegen-donald-trump-a-7e63afef-8940-441d-a458-032680d8f861#ref=rss)
-### biden
+* [https://www.spiegel.de/wissenschaft/mensch/sitting-bull-forscher-bestaetigen-verwandtschaft-per-dna-analyse](https://www.spiegel.de/wissenschaft/mensch/sitting-bull-forscher-bestaetigen-verwandtschaft-per-dna-analyse-a-5a43b936-f084-4f97-9c73-3ce286edbec1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-spd-unterstuetzt-ampel-plaene-zum-ende-der-epidemischen-lage](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-spd-unterstuetzt-ampel-plaene-zum-ende-der-epidemischen-lage-a-8f9c3a04-7f33-4c58-b3ee-92d24a5dba7a#ref=rss)
+### vw
 
-* [https://www.spiegel.de/ausland/joe-biden-neue-attacken-gegen-donald-trump](https://www.spiegel.de/ausland/joe-biden-neue-attacken-gegen-donald-trump-a-7e63afef-8940-441d-a458-032680d8f861#ref=rss)
-### linke
+* [https://www.spiegel.de/wirtschaft/klimaschutz-vw-lehnt-unterlassungserklaerung-von-greenpeace-ab](https://www.spiegel.de/wirtschaft/klimaschutz-vw-lehnt-unterlassungserklaerung-von-greenpeace-ab-a-30df9d1f-f5f5-4d94-84bd-72ec08aad162#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/politik/deutschland/linke-amira-mohamed-ali-und-dietmar-bartsch-fordern-rueckbesinnung-auf-soziale-fragen](https://www.spiegel.de/politik/deutschland/linke-amira-mohamed-ali-und-dietmar-bartsch-fordern-rueckbesinnung-auf-soziale-fragen-a-7053000f-ce3b-44f9-93ec-1725c647f33c#ref=rss)
-### soziale
+* [https://www.spiegel.de/wirtschaft/klimaschutz-vw-lehnt-unterlassungserklaerung-von-greenpeace-ab](https://www.spiegel.de/wirtschaft/klimaschutz-vw-lehnt-unterlassungserklaerung-von-greenpeace-ab-a-30df9d1f-f5f5-4d94-84bd-72ec08aad162#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/deutsche-ermittler-enttarnen-mutmasslichen-revil-hintermann](https://www.spiegel.de/netzwelt/web/deutsche-ermittler-enttarnen-mutmasslichen-revil-hintermann-a-526c4bee-32cb-4088-9e1c-ccd35d53d7e1#ref=rss)
+### abba
 
-* [https://www.spiegel.de/politik/deutschland/linke-amira-mohamed-ali-und-dietmar-bartsch-fordern-rueckbesinnung-auf-soziale-fragen](https://www.spiegel.de/politik/deutschland/linke-amira-mohamed-ali-und-dietmar-bartsch-fordern-rueckbesinnung-auf-soziale-fragen-a-7053000f-ce3b-44f9-93ec-1725c647f33c#ref=rss)
-### schweden
+* [https://www.spiegel.de/kultur/musik/abba-voyage-soll-das-allerletzte-album-sein-sagen-bjoern-und-benny-in-interview](https://www.spiegel.de/kultur/musik/abba-voyage-soll-das-allerletzte-album-sein-sagen-bjoern-und-benny-in-interview-a-7fcc3b14-dbb9-421f-8f47-f5f728aac303#ref=rss)
+### voyage
 
-* [https://www.spiegel.de/panorama/gesellschaft/schweden-ueberprueft-internationale-adoptionen-der-vergangenen-70-jahre](https://www.spiegel.de/panorama/gesellschaft/schweden-ueberprueft-internationale-adoptionen-der-vergangenen-70-jahre-a-dc4cedd7-215a-451d-9587-5f049c77a519#ref=rss)
-### überprüft
+* [https://www.spiegel.de/kultur/musik/abba-voyage-soll-das-allerletzte-album-sein-sagen-bjoern-und-benny-in-interview](https://www.spiegel.de/kultur/musik/abba-voyage-soll-das-allerletzte-album-sein-sagen-bjoern-und-benny-in-interview-a-7fcc3b14-dbb9-421f-8f47-f5f728aac303#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/panorama/gesellschaft/schweden-ueberprueft-internationale-adoptionen-der-vergangenen-70-jahre](https://www.spiegel.de/panorama/gesellschaft/schweden-ueberprueft-internationale-adoptionen-der-vergangenen-70-jahre-a-dc4cedd7-215a-451d-9587-5f049c77a519#ref=rss)
-### julian
+* [https://www.spiegel.de/kultur/musik/abba-voyage-soll-das-allerletzte-album-sein-sagen-bjoern-und-benny-in-interview](https://www.spiegel.de/kultur/musik/abba-voyage-soll-das-allerletzte-album-sein-sagen-bjoern-und-benny-in-interview-a-7fcc3b14-dbb9-421f-8f47-f5f728aac303#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich](https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich-a-1e0799c0-52f6-456e-86de-c15facc53b27#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks](https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks-a-3ca0e24f-7d71-454d-81c0-c11bb3dc66d2#ref=rss)
-### assange
+* [https://www.spiegel.de/panorama/justiz/muenchen-66-jaehriger-soll-maennern-auf-wunsch-hoden-entfernt-haben](https://www.spiegel.de/panorama/justiz/muenchen-66-jaehriger-soll-maennern-auf-wunsch-hoden-entfernt-haben-a-5bc78d61-4a65-43c0-8176-f82dcefce7fa#ref=rss)
+### beschäftigte
 
-* [https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks](https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks-a-3ca0e24f-7d71-454d-81c0-c11bb3dc66d2#ref=rss)
-### auslieferung
+* [https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren](https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren-a-6ef0100e-0200-4a33-963f-09f22eb745eb#ref=rss)
+### mindestlohn
 
-* [https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks](https://www.spiegel.de/ausland/julian-assange-usa-draengen-auf-auslieferung-des-gruenders-von-wikileaks-a-3ca0e24f-7d71-454d-81c0-c11bb3dc66d2#ref=rss)
-### teurer
+* [https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren](https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren-a-6ef0100e-0200-4a33-963f-09f22eb745eb#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/wissenschaft/natur/wirtschaftliche-schaeden-klimawandel-koennte-teurer-werden-als-gedacht](https://www.spiegel.de/wissenschaft/natur/wirtschaftliche-schaeden-klimawandel-koennte-teurer-werden-als-gedacht-a-3ed5b582-50a1-4bcd-bdfb-1c8a7140be2d#ref=rss)
-### gedacht
+* [https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren](https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren-a-6ef0100e-0200-4a33-963f-09f22eb745eb#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-tausende-mutmassliche-opfer-von-vergewaltigungen-und-sexueller-gewalt-kritisieren-polizei](https://www.spiegel.de/ausland/frankreich-tausende-mutmassliche-opfer-von-vergewaltigungen-und-sexueller-gewalt-kritisieren-polizei-a-daa0a116-39a4-4798-9183-492c1e5a63a5#ref=rss)
+### spd
 
-* [https://www.spiegel.de/wissenschaft/natur/wirtschaftliche-schaeden-klimawandel-koennte-teurer-werden-als-gedacht](https://www.spiegel.de/wissenschaft/natur/wirtschaftliche-schaeden-klimawandel-koennte-teurer-werden-als-gedacht-a-3ed5b582-50a1-4bcd-bdfb-1c8a7140be2d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren](https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren-a-6ef0100e-0200-4a33-963f-09f22eb745eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-spd-unterstuetzt-ampel-plaene-zum-ende-der-epidemischen-lage](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-spd-unterstuetzt-ampel-plaene-zum-ende-der-epidemischen-lage-a-8f9c3a04-7f33-4c58-b3ee-92d24a5dba7a#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren](https://www.spiegel.de/wirtschaft/studie-mehr-als-acht-millionen-beschaeftigte-koennten-von-12-euro-mindestlohn-profitieren-a-6ef0100e-0200-4a33-963f-09f22eb745eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich](https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich-a-1e0799c0-52f6-456e-86de-c15facc53b27#ref=rss)
+### subventionen
+
+* [https://www.spiegel.de/wirtschaft/subventionen-wo-deutschland-mehr-als-200-milliarden-euro-an-zweifelhaften-ausgaben-einsparen-koennte](https://www.spiegel.de/wirtschaft/subventionen-wo-deutschland-mehr-als-200-milliarden-euro-an-zweifelhaften-ausgaben-einsparen-koennte-a-1c87b301-75fd-429b-a01d-2589bae56d9f#ref=rss)
+### darunter
+
+* [https://www.spiegel.de/wirtschaft/subventionen-wo-deutschland-mehr-als-200-milliarden-euro-an-zweifelhaften-ausgaben-einsparen-koennte](https://www.spiegel.de/wirtschaft/subventionen-wo-deutschland-mehr-als-200-milliarden-euro-an-zweifelhaften-ausgaben-einsparen-koennte-a-1c87b301-75fd-429b-a01d-2589bae56d9f#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-militaerfuehrung-soll-eu-botschafter-abgesetzt-haben](https://www.spiegel.de/ausland/sudan-militaerfuehrung-soll-eu-botschafter-abgesetzt-haben-a-50e5a197-efe2-49e0-bc30-5b4d19e3e84c#ref=rss)
+### ampelparteien
+
+* [https://www.spiegel.de/wirtschaft/subventionen-wo-deutschland-mehr-als-200-milliarden-euro-an-zweifelhaften-ausgaben-einsparen-koennte](https://www.spiegel.de/wirtschaft/subventionen-wo-deutschland-mehr-als-200-milliarden-euro-an-zweifelhaften-ausgaben-einsparen-koennte-a-1c87b301-75fd-429b-a01d-2589bae56d9f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-spd-unterstuetzt-ampel-plaene-zum-ende-der-epidemischen-lage](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-spd-unterstuetzt-ampel-plaene-zum-ende-der-epidemischen-lage-a-8f9c3a04-7f33-4c58-b3ee-92d24a5dba7a#ref=rss)
+### alec
+
+* [https://www.spiegel.de/panorama/justiz/alec-baldwin-schauspieler-wurde-nach-toedlichem-vorfall-mehrmals-befragt](https://www.spiegel.de/panorama/justiz/alec-baldwin-schauspieler-wurde-nach-toedlichem-vorfall-mehrmals-befragt-a-21e5b301-2e46-4411-a298-094ac4130fdc#ref=rss)
+### baldwin
+
+* [https://www.spiegel.de/panorama/justiz/alec-baldwin-schauspieler-wurde-nach-toedlichem-vorfall-mehrmals-befragt](https://www.spiegel.de/panorama/justiz/alec-baldwin-schauspieler-wurde-nach-toedlichem-vorfall-mehrmals-befragt-a-21e5b301-2e46-4411-a298-094ac4130fdc#ref=rss)
+### mehrmals
+
+* [https://www.spiegel.de/panorama/justiz/alec-baldwin-schauspieler-wurde-nach-toedlichem-vorfall-mehrmals-befragt](https://www.spiegel.de/panorama/justiz/alec-baldwin-schauspieler-wurde-nach-toedlichem-vorfall-mehrmals-befragt-a-21e5b301-2e46-4411-a298-094ac4130fdc#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/panorama/justiz/alec-baldwin-schauspieler-wurde-nach-toedlichem-vorfall-mehrmals-befragt](https://www.spiegel.de/panorama/justiz/alec-baldwin-schauspieler-wurde-nach-toedlichem-vorfall-mehrmals-befragt-a-21e5b301-2e46-4411-a298-094ac4130fdc#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/deutsche-ermittler-enttarnen-mutmasslichen-revil-hintermann](https://www.spiegel.de/netzwelt/web/deutsche-ermittler-enttarnen-mutmasslichen-revil-hintermann-a-526c4bee-32cb-4088-9e1c-ccd35d53d7e1#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/politik/deutschland/bundestags-grundrisse-weitergereicht-russland-spion-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/politik/deutschland/bundestags-grundrisse-weitergereicht-russland-spion-zu-bewaehrungsstrafe-verurteilt-a-fee16586-7b5d-4d73-a516-26f46709ae0a#ref=rss)
+### katholische
+
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-jugendverband-kjg-diskutiert-ueber-gott-und-gott](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-jugendverband-kjg-diskutiert-ueber-gott-und-gott-a-f63d8745-78d0-4b7d-bf9e-0d2d91e93755#ref=rss)
+### denn
+
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-jugendverband-kjg-diskutiert-ueber-gott-und-gott](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-jugendverband-kjg-diskutiert-ueber-gott-und-gott-a-f63d8745-78d0-4b7d-bf9e-0d2d91e93755#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bayern-debakel-im-dfb-pokal-fuer-eine-nacht-wie-unterklassige-profis](https://www.spiegel.de/sport/fussball/bayern-debakel-im-dfb-pokal-fuer-eine-nacht-wie-unterklassige-profis-a-2bcfbb75-9f87-478e-a921-918b21ab8904#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-jugendverband-kjg-diskutiert-ueber-gott-und-gott](https://www.spiegel.de/panorama/gesellschaft/katholische-kirche-jugendverband-kjg-diskutiert-ueber-gott-und-gott-a-f63d8745-78d0-4b7d-bf9e-0d2d91e93755#ref=rss)
+* [https://www.spiegel.de/geschichte/michael-malloy-new-york-1933-der-mann-der-sieben-mal-ermordet-wurde](https://www.spiegel.de/geschichte/michael-malloy-new-york-1933-der-mann-der-sieben-mal-ermordet-wurde-a-d8faf3ba-df32-4deb-8d82-c55d17be2606#ref=rss)
+### angelina
+
+* [https://www.spiegel.de/panorama/leute/angelina-jolie-ich-bin-keine-perfekte-mutter](https://www.spiegel.de/panorama/leute/angelina-jolie-ich-bin-keine-perfekte-mutter-a-5bc606d0-5549-4cd7-ba9e-af073cfcd7e8#ref=rss)
+### jolie
+
+* [https://www.spiegel.de/panorama/leute/angelina-jolie-ich-bin-keine-perfekte-mutter](https://www.spiegel.de/panorama/leute/angelina-jolie-ich-bin-keine-perfekte-mutter-a-5bc606d0-5549-4cd7-ba9e-af073cfcd7e8#ref=rss)
+### perfekte
+
+* [https://www.spiegel.de/panorama/leute/angelina-jolie-ich-bin-keine-perfekte-mutter](https://www.spiegel.de/panorama/leute/angelina-jolie-ich-bin-keine-perfekte-mutter-a-5bc606d0-5549-4cd7-ba9e-af073cfcd7e8#ref=rss)
+* [https://www.spiegel.de/start/software-entwicklerin-werden-aufs-geld-habe-ich-nicht-geschaut](https://www.spiegel.de/start/software-entwicklerin-werden-aufs-geld-habe-ich-nicht-geschaut-a-802edf15-0668-4994-a89f-b0fce6ecdce9#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/panorama/leute/angelina-jolie-ich-bin-keine-perfekte-mutter](https://www.spiegel.de/panorama/leute/angelina-jolie-ich-bin-keine-perfekte-mutter-a-5bc606d0-5549-4cd7-ba9e-af073cfcd7e8#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-militaerfuehrung-soll-eu-botschafter-abgesetzt-haben](https://www.spiegel.de/ausland/sudan-militaerfuehrung-soll-eu-botschafter-abgesetzt-haben-a-50e5a197-efe2-49e0-bc30-5b4d19e3e84c#ref=rss)
+### nationalparks
+
+* [https://www.spiegel.de/wissenschaft/mensch/manche-nationalparks-stossen-mehr-co-aus-als-sie-absorbieren](https://www.spiegel.de/wissenschaft/mensch/manche-nationalparks-stossen-mehr-co-aus-als-sie-absorbieren-a-d9a14661-db3b-4b31-86e3-2443a81dbec4#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/wissenschaft/mensch/manche-nationalparks-stossen-mehr-co-aus-als-sie-absorbieren](https://www.spiegel.de/wissenschaft/mensch/manche-nationalparks-stossen-mehr-co-aus-als-sie-absorbieren-a-d9a14661-db3b-4b31-86e3-2443a81dbec4#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/deutsche-ermittler-enttarnen-mutmasslichen-revil-hintermann](https://www.spiegel.de/netzwelt/web/deutsche-ermittler-enttarnen-mutmasslichen-revil-hintermann-a-526c4bee-32cb-4088-9e1c-ccd35d53d7e1#ref=rss)
+### klub
+
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-klub-war-erster-deutscher-europapokalsieger](https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-klub-war-erster-deutscher-europapokalsieger-a-98e12a0a-6d74-4a9b-822b-3b3bc565806c#ref=rss)
+### erster
+
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-klub-war-erster-deutscher-europapokalsieger](https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-klub-war-erster-deutscher-europapokalsieger-a-98e12a0a-6d74-4a9b-822b-3b3bc565806c#ref=rss)
+### deutscher
+
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-klub-war-erster-deutscher-europapokalsieger](https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-klub-war-erster-deutscher-europapokalsieger-a-98e12a0a-6d74-4a9b-822b-3b3bc565806c#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-klub-war-erster-deutscher-europapokalsieger](https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-klub-war-erster-deutscher-europapokalsieger-a-98e12a0a-6d74-4a9b-822b-3b3bc565806c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bayern-debakel-im-dfb-pokal-fuer-eine-nacht-wie-unterklassige-profis](https://www.spiegel.de/sport/fussball/bayern-debakel-im-dfb-pokal-fuer-eine-nacht-wie-unterklassige-profis-a-2bcfbb75-9f87-478e-a921-918b21ab8904#ref=rss)
+### machte
+
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-klub-war-erster-deutscher-europapokalsieger](https://www.spiegel.de/sport/fussball/fussball-quiz-welcher-klub-war-erster-deutscher-europapokalsieger-a-98e12a0a-6d74-4a9b-822b-3b3bc565806c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich](https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich-a-1e0799c0-52f6-456e-86de-c15facc53b27#ref=rss)
+### hinrichtungen
+
+* [https://www.spiegel.de/ausland/kampf-um-hinrichtungen-in-den-usa-oklahoma-plant-sieben-toetungen](https://www.spiegel.de/ausland/kampf-um-hinrichtungen-in-den-usa-oklahoma-plant-sieben-toetungen-a-01240af1-7fc6-4adc-9994-6f857e6325ac#ref=rss)
+### oklahoma
+
+* [https://www.spiegel.de/ausland/kampf-um-hinrichtungen-in-den-usa-oklahoma-plant-sieben-toetungen](https://www.spiegel.de/ausland/kampf-um-hinrichtungen-in-den-usa-oklahoma-plant-sieben-toetungen-a-01240af1-7fc6-4adc-9994-6f857e6325ac#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/ausland/kampf-um-hinrichtungen-in-den-usa-oklahoma-plant-sieben-toetungen](https://www.spiegel.de/ausland/kampf-um-hinrichtungen-in-den-usa-oklahoma-plant-sieben-toetungen-a-01240af1-7fc6-4adc-9994-6f857e6325ac#ref=rss)
+* [https://www.spiegel.de/geschichte/michael-malloy-new-york-1933-der-mann-der-sieben-mal-ermordet-wurde](https://www.spiegel.de/geschichte/michael-malloy-new-york-1933-der-mann-der-sieben-mal-ermordet-wurde-a-d8faf3ba-df32-4deb-8d82-c55d17be2606#ref=rss)
+### karl
+
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-spd-unterstuetzt-ampel-plaene-zum-ende-der-epidemischen-lage](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-spd-unterstuetzt-ampel-plaene-zum-ende-der-epidemischen-lage-a-8f9c3a04-7f33-4c58-b3ee-92d24a5dba7a#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-spd-unterstuetzt-ampel-plaene-zum-ende-der-epidemischen-lage](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-spd-unterstuetzt-ampel-plaene-zum-ende-der-epidemischen-lage-a-8f9c3a04-7f33-4c58-b3ee-92d24a5dba7a#ref=rss)
+### indien
+
+* [https://www.spiegel.de/ausland/indien-gegen-china-erneut-atomwaffenfaehige-rakete-getestet](https://www.spiegel.de/ausland/indien-gegen-china-erneut-atomwaffenfaehige-rakete-getestet-a-34b025c8-9031-4f91-904d-4b664870fa39#ref=rss)
+### atomwaffenfähige
+
+* [https://www.spiegel.de/ausland/indien-gegen-china-erneut-atomwaffenfaehige-rakete-getestet](https://www.spiegel.de/ausland/indien-gegen-china-erneut-atomwaffenfaehige-rakete-getestet-a-34b025c8-9031-4f91-904d-4b664870fa39#ref=rss)
+### rakete
+
+* [https://www.spiegel.de/ausland/indien-gegen-china-erneut-atomwaffenfaehige-rakete-getestet](https://www.spiegel.de/ausland/indien-gegen-china-erneut-atomwaffenfaehige-rakete-getestet-a-34b025c8-9031-4f91-904d-4b664870fa39#ref=rss)
+### nacht
+
+* [https://www.spiegel.de/sport/fussball/bayern-debakel-im-dfb-pokal-fuer-eine-nacht-wie-unterklassige-profis](https://www.spiegel.de/sport/fussball/bayern-debakel-im-dfb-pokal-fuer-eine-nacht-wie-unterklassige-profis-a-2bcfbb75-9f87-478e-a921-918b21ab8904#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-setzt-britisches-fischerboot-fest](https://www.spiegel.de/ausland/frankreich-setzt-britisches-fischerboot-fest-a-250a1515-b8e8-445f-ae21-b9be81936fc7#ref=rss)
+### michael
+
+* [https://www.spiegel.de/geschichte/michael-malloy-new-york-1933-der-mann-der-sieben-mal-ermordet-wurde](https://www.spiegel.de/geschichte/michael-malloy-new-york-1933-der-mann-der-sieben-mal-ermordet-wurde-a-d8faf3ba-df32-4deb-8d82-c55d17be2606#ref=rss)
+### malloy
+
+* [https://www.spiegel.de/geschichte/michael-malloy-new-york-1933-der-mann-der-sieben-mal-ermordet-wurde](https://www.spiegel.de/geschichte/michael-malloy-new-york-1933-der-mann-der-sieben-mal-ermordet-wurde-a-d8faf3ba-df32-4deb-8d82-c55d17be2606#ref=rss)
+### new
+
+* [https://www.spiegel.de/geschichte/michael-malloy-new-york-1933-der-mann-der-sieben-mal-ermordet-wurde](https://www.spiegel.de/geschichte/michael-malloy-new-york-1933-der-mann-der-sieben-mal-ermordet-wurde-a-d8faf3ba-df32-4deb-8d82-c55d17be2606#ref=rss)
+### york
+
+* [https://www.spiegel.de/geschichte/michael-malloy-new-york-1933-der-mann-der-sieben-mal-ermordet-wurde](https://www.spiegel.de/geschichte/michael-malloy-new-york-1933-der-mann-der-sieben-mal-ermordet-wurde-a-d8faf3ba-df32-4deb-8d82-c55d17be2606#ref=rss)
+### champsélysées
+
+* [https://www.spiegel.de/wirtschaft/h-und-m-schliesst-seine-filiale-auf-den-champs-elysees](https://www.spiegel.de/wirtschaft/h-und-m-schliesst-seine-filiale-auf-den-champs-elysees-a-f6b8eefe-d201-4c16-a257-1432710274e5#ref=rss)
+### bekommen
+
+* [https://www.spiegel.de/wirtschaft/h-und-m-schliesst-seine-filiale-auf-den-champs-elysees](https://www.spiegel.de/wirtschaft/h-und-m-schliesst-seine-filiale-auf-den-champs-elysees-a-f6b8eefe-d201-4c16-a257-1432710274e5#ref=rss)
+* [https://www.spiegel.de/panorama/grossbritannien-spitzmaulnashorn-im-zoo-des-flamingo-land-geboren](https://www.spiegel.de/panorama/grossbritannien-spitzmaulnashorn-im-zoo-des-flamingo-land-geboren-a-3759c39b-de34-42a7-9719-a12dd4b4f462#ref=rss)
+### nsu
+
+* [https://www.spiegel.de/panorama/justiz/nsu-2-0-staatsanwaltschaft-frankfurt-am-main-erhebt-anklage-gegen-53-jaehrigen](https://www.spiegel.de/panorama/justiz/nsu-2-0-staatsanwaltschaft-frankfurt-am-main-erhebt-anklage-gegen-53-jaehrigen-a-b0a7200e-7006-4b4d-a9dc-7fd346ed41e9#ref=rss)
+### 20
+
+* [https://www.spiegel.de/panorama/justiz/nsu-2-0-staatsanwaltschaft-frankfurt-am-main-erhebt-anklage-gegen-53-jaehrigen](https://www.spiegel.de/panorama/justiz/nsu-2-0-staatsanwaltschaft-frankfurt-am-main-erhebt-anklage-gegen-53-jaehrigen-a-b0a7200e-7006-4b4d-a9dc-7fd346ed41e9#ref=rss)
 ### staatsanwaltschaft
 
-* [https://www.spiegel.de/panorama/justiz/niederlande-staatsanwaltschaft-untersucht-33-todesfaelle-in-zusammenhang-mit-suizidpulver](https://www.spiegel.de/panorama/justiz/niederlande-staatsanwaltschaft-untersucht-33-todesfaelle-in-zusammenhang-mit-suizidpulver-a-db565c33-d6f6-4a11-86bd-3d99e6d25203#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nsu-2-0-staatsanwaltschaft-frankfurt-am-main-erhebt-anklage-gegen-53-jaehrigen](https://www.spiegel.de/panorama/justiz/nsu-2-0-staatsanwaltschaft-frankfurt-am-main-erhebt-anklage-gegen-53-jaehrigen-a-b0a7200e-7006-4b4d-a9dc-7fd346ed41e9#ref=rss)
+### wirft
+
+* [https://www.spiegel.de/panorama/justiz/nsu-2-0-staatsanwaltschaft-frankfurt-am-main-erhebt-anklage-gegen-53-jaehrigen](https://www.spiegel.de/panorama/justiz/nsu-2-0-staatsanwaltschaft-frankfurt-am-main-erhebt-anklage-gegen-53-jaehrigen-a-b0a7200e-7006-4b4d-a9dc-7fd346ed41e9#ref=rss)
+* [https://www.spiegel.de/ausland/taiwans-praesidentin-tsai-ing-wen-bedrohung-durch-china-nimmt-jeden-tag-zu](https://www.spiegel.de/ausland/taiwans-praesidentin-tsai-ing-wen-bedrohung-durch-china-nimmt-jeden-tag-zu-a-926c72f9-e0b4-495b-8987-a301542c7cda#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/ausland/frankreich-tausende-mutmassliche-opfer-von-vergewaltigungen-und-sexueller-gewalt-kritisieren-polizei](https://www.spiegel.de/ausland/frankreich-tausende-mutmassliche-opfer-von-vergewaltigungen-und-sexueller-gewalt-kritisieren-polizei-a-daa0a116-39a4-4798-9183-492c1e5a63a5#ref=rss)
+### kritisieren
+
+* [https://www.spiegel.de/ausland/frankreich-tausende-mutmassliche-opfer-von-vergewaltigungen-und-sexueller-gewalt-kritisieren-polizei](https://www.spiegel.de/ausland/frankreich-tausende-mutmassliche-opfer-von-vergewaltigungen-und-sexueller-gewalt-kritisieren-polizei-a-daa0a116-39a4-4798-9183-492c1e5a63a5#ref=rss)
+### macklemore
+
+* [https://www.spiegel.de/panorama/leute/macklemore-tochter-kritisiert-neues-lied-next-year-als-nicht-dein-bestes](https://www.spiegel.de/panorama/leute/macklemore-tochter-kritisiert-neues-lied-next-year-als-nicht-dein-bestes-a-976c3385-b9cc-43aa-90d3-ac6f20f358d7#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/panorama/leute/macklemore-tochter-kritisiert-neues-lied-next-year-als-nicht-dein-bestes](https://www.spiegel.de/panorama/leute/macklemore-tochter-kritisiert-neues-lied-next-year-als-nicht-dein-bestes-a-976c3385-b9cc-43aa-90d3-ac6f20f358d7#ref=rss)
+### england
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-kinderaerzte-hoffen-auf-baldige-corona-impfung-fuer-unter-zwoelfjaehrige](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-kinderaerzte-hoffen-auf-baldige-corona-impfung-fuer-unter-zwoelfjaehrige-a-255c6af2-fbc6-4b18-a91b-b6c3159a986e#ref=rss)
+### leben
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-kinderaerzte-hoffen-auf-baldige-corona-impfung-fuer-unter-zwoelfjaehrige](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-kinderaerzte-hoffen-auf-baldige-corona-impfung-fuer-unter-zwoelfjaehrige-a-255c6af2-fbc6-4b18-a91b-b6c3159a986e#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/deutsche-ermittler-enttarnen-mutmasslichen-revil-hintermann](https://www.spiegel.de/netzwelt/web/deutsche-ermittler-enttarnen-mutmasslichen-revil-hintermann-a-526c4bee-32cb-4088-9e1c-ccd35d53d7e1#ref=rss)
+### volkswagen
+
+* [https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich](https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich-a-1e0799c0-52f6-456e-86de-c15facc53b27#ref=rss)
+### gewinn
+
+* [https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich](https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich-a-1e0799c0-52f6-456e-86de-c15facc53b27#ref=rss)
+### chipmangel
+
+* [https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich](https://www.spiegel.de/wirtschaft/volkswagen-gewinn-schrumpft-wegen-chipmangel-erheblich-a-1e0799c0-52f6-456e-86de-c15facc53b27#ref=rss)
+### land
+
+* [https://www.spiegel.de/netzwelt/web/deutsche-ermittler-enttarnen-mutmasslichen-revil-hintermann](https://www.spiegel.de/netzwelt/web/deutsche-ermittler-enttarnen-mutmasslichen-revil-hintermann-a-526c4bee-32cb-4088-9e1c-ccd35d53d7e1#ref=rss)
+* [https://www.spiegel.de/panorama/grossbritannien-spitzmaulnashorn-im-zoo-des-flamingo-land-geboren](https://www.spiegel.de/panorama/grossbritannien-spitzmaulnashorn-im-zoo-des-flamingo-land-geboren-a-3759c39b-de34-42a7-9719-a12dd4b4f462#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/panorama/grossbritannien-spitzmaulnashorn-im-zoo-des-flamingo-land-geboren](https://www.spiegel.de/panorama/grossbritannien-spitzmaulnashorn-im-zoo-des-flamingo-land-geboren-a-3759c39b-de34-42a7-9719-a12dd4b4f462#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-setzt-britisches-fischerboot-fest](https://www.spiegel.de/ausland/frankreich-setzt-britisches-fischerboot-fest-a-250a1515-b8e8-445f-ae21-b9be81936fc7#ref=rss)
+### spitzmaulnashorn
+
+* [https://www.spiegel.de/panorama/grossbritannien-spitzmaulnashorn-im-zoo-des-flamingo-land-geboren](https://www.spiegel.de/panorama/grossbritannien-spitzmaulnashorn-im-zoo-des-flamingo-land-geboren-a-3759c39b-de34-42a7-9719-a12dd4b4f462#ref=rss)
+### zoo
+
+* [https://www.spiegel.de/panorama/grossbritannien-spitzmaulnashorn-im-zoo-des-flamingo-land-geboren](https://www.spiegel.de/panorama/grossbritannien-spitzmaulnashorn-im-zoo-des-flamingo-land-geboren-a-3759c39b-de34-42a7-9719-a12dd4b4f462#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/frankreich-setzt-britisches-fischerboot-fest](https://www.spiegel.de/ausland/frankreich-setzt-britisches-fischerboot-fest-a-250a1515-b8e8-445f-ae21-b9be81936fc7#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-militaerfuehrung-soll-eu-botschafter-abgesetzt-haben](https://www.spiegel.de/ausland/sudan-militaerfuehrung-soll-eu-botschafter-abgesetzt-haben-a-50e5a197-efe2-49e0-bc30-5b4d19e3e84c#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/taiwans-praesidentin-tsai-ing-wen-bedrohung-durch-china-nimmt-jeden-tag-zu](https://www.spiegel.de/ausland/taiwans-praesidentin-tsai-ing-wen-bedrohung-durch-china-nimmt-jeden-tag-zu-a-926c72f9-e0b4-495b-8987-a301542c7cda#ref=rss)
+### lonely
+
+* [https://www.spiegel.de/reise/fernweh/lonely-planet-preist-freiburg-als-top-reiseziel-2022-an](https://www.spiegel.de/reise/fernweh/lonely-planet-preist-freiburg-als-top-reiseziel-2022-an-a-9ed02aaa-2b99-4db7-b1df-263cbb35233e#ref=rss)
+### planet
+
+* [https://www.spiegel.de/reise/fernweh/lonely-planet-preist-freiburg-als-top-reiseziel-2022-an](https://www.spiegel.de/reise/fernweh/lonely-planet-preist-freiburg-als-top-reiseziel-2022-an-a-9ed02aaa-2b99-4db7-b1df-263cbb35233e#ref=rss)
+### freiburg
+
+* [https://www.spiegel.de/reise/fernweh/lonely-planet-preist-freiburg-als-top-reiseziel-2022-an](https://www.spiegel.de/reise/fernweh/lonely-planet-preist-freiburg-als-top-reiseziel-2022-an-a-9ed02aaa-2b99-4db7-b1df-263cbb35233e#ref=rss)
+### sudan
+
+* [https://www.spiegel.de/ausland/sudan-militaerfuehrung-soll-eu-botschafter-abgesetzt-haben](https://www.spiegel.de/ausland/sudan-militaerfuehrung-soll-eu-botschafter-abgesetzt-haben-a-50e5a197-efe2-49e0-bc30-5b4d19e3e84c#ref=rss)
+### botschafter
+
+* [https://www.spiegel.de/ausland/sudan-militaerfuehrung-soll-eu-botschafter-abgesetzt-haben](https://www.spiegel.de/ausland/sudan-militaerfuehrung-soll-eu-botschafter-abgesetzt-haben-a-50e5a197-efe2-49e0-bc30-5b4d19e3e84c#ref=rss)
 
