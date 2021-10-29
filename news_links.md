@@ -4,340 +4,253 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### g20gipfel
-
-* [https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung](https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung-a-9d0c50be-f9fc-487c-9850-e6ffdf49d3a9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit](https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit-a-658b3dda-5706-4959-88c0-624c668071a9#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen](https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen-a-8d890873-5680-404b-aad0-1ac038cfac0b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hells-angels-razzia-in-berlin-und-brandenburg-polizei-verhaftet-sieben-verdaechtige](https://www.spiegel.de/panorama/justiz/hells-angels-razzia-in-berlin-und-brandenburg-polizei-verhaftet-sieben-verdaechtige-a-ef140ee9-2d52-4a58-996b-ae8117065c0a#ref=rss)
-* [https://www.spiegel.de/panorama/sizilien-vermisste-frau-tot-gefunden-mindestens-drei-opfer](https://www.spiegel.de/panorama/sizilien-vermisste-frau-tot-gefunden-mindestens-drei-opfer-a-913d7dc4-858a-4509-acf5-a9b254a282d6#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/panorama/leute/cristiano-ronaldo-und-georgina-rodriguez-werden-eltern-von-zwillingen](https://www.spiegel.de/panorama/leute/cristiano-ronaldo-und-georgina-rodriguez-werden-eltern-von-zwillingen-a-3f722352-0b3c-41fe-b498-83caaafdaef6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hells-angels-razzia-in-berlin-und-brandenburg-polizei-verhaftet-sieben-verdaechtige](https://www.spiegel.de/panorama/justiz/hells-angels-razzia-in-berlin-und-brandenburg-polizei-verhaftet-sieben-verdaechtige-a-ef140ee9-2d52-4a58-996b-ae8117065c0a#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-sieben-personen-droht-abschiebung-wegen-bananen-videos](https://www.spiegel.de/ausland/tuerkei-sieben-personen-droht-abschiebung-wegen-bananen-videos-a-05665b7b-ce56-4bf6-ab83-af604b796d5c#ref=rss)
-### rom
-
-* [https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung](https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung-a-9d0c50be-f9fc-487c-9850-e6ffdf49d3a9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit](https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit-a-658b3dda-5706-4959-88c0-624c668071a9#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung](https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung-a-9d0c50be-f9fc-487c-9850-e6ffdf49d3a9#ref=rss)
-* [https://www.spiegel.de/kultur/musik/10-jahre-nsu-marc-sinan-taeter-haben-eine-unglaubliche-macht-ueber-ihre-opfer](https://www.spiegel.de/kultur/musik/10-jahre-nsu-marc-sinan-taeter-haben-eine-unglaubliche-macht-ueber-ihre-opfer-a-096cf097-3b72-458d-a9f2-d53126373ca6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg-a-31db22af-f1cc-4c10-93d8-71fd6d954256#ref=rss)
-### subventionen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-subventionen-gefluechtete-fc-bayern](https://www.spiegel.de/politik/deutschland/news-des-tages-subventionen-gefluechtete-fc-bayern-a-edfe142b-1fdc-425f-85f4-28aa23608081#ref=rss)
-* [https://www.spiegel.de/auto/elektroautos-foerdergeld-fuer-private-ladestationen-ist-aufgebraucht](https://www.spiegel.de/auto/elektroautos-foerdergeld-fuer-private-ladestationen-ist-aufgebraucht-a-aeb9fd9f-3282-4a12-8425-64d6445854c7#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/auto/elektroautos-foerdergeld-fuer-private-ladestationen-ist-aufgebraucht](https://www.spiegel.de/auto/elektroautos-foerdergeld-fuer-private-ladestationen-ist-aufgebraucht-a-aeb9fd9f-3282-4a12-8425-64d6445854c7#ref=rss)
-* [https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-ein-kurz-artiges-regime-in-deutschland-waere-der-anfang-vom-ende-der-eu](https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-ein-kurz-artiges-regime-in-deutschland-waere-der-anfang-vom-ende-der-eu-a-e5eed5cb-5a1a-4fca-8ebd-0932232eb5dd#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/breitband-ausbau-deutlich-mehr-buerger-koennen-jetzt-glasfaser-internet-nutzen](https://www.spiegel.de/netzwelt/web/breitband-ausbau-deutlich-mehr-buerger-koennen-jetzt-glasfaser-internet-nutzen-a-56ef3f52-1101-48d6-8b9f-515faee821e2#ref=rss)
-### baldwin
-
-* [https://www.spiegel.de/panorama/leute/ireland-baldwin-ueber-vater-alec-baldwin-ich-kenne-meinen-vater-ihr-kennt-ihn-einfach-nicht](https://www.spiegel.de/panorama/leute/ireland-baldwin-ueber-vater-alec-baldwin-ich-kenne-meinen-vater-ihr-kennt-ihn-einfach-nicht-a-35ab7e20-c5d6-4270-ba82-a9727b909768#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/kultur/frankreich-sichert-benin-26-artefakte-zu](https://www.spiegel.de/kultur/frankreich-sichert-benin-26-artefakte-zu-a-5417df4f-4556-4993-b7f2-4e2649cf65c2#ref=rss)
-* [https://www.spiegel.de/ausland/london-verurteilt-festsetzung-von-britischem-fischerboot-in-frankreich](https://www.spiegel.de/ausland/london-verurteilt-festsetzung-von-britischem-fischerboot-in-frankreich-a-d8a71caf-228d-4624-a3ad-a70fb81fe3c8#ref=rss)
-### la
-
-* [https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen](https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen-a-8d890873-5680-404b-aad0-1ac038cfac0b#ref=rss)
-* [https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone](https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone-a-dfc938e3-badc-4cc6-acbd-bc78f0076039#ref=rss)
-### palma
-
-* [https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen](https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen-a-8d890873-5680-404b-aad0-1ac038cfac0b#ref=rss)
-* [https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone](https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone-a-dfc938e3-badc-4cc6-acbd-bc78f0076039#ref=rss)
-### erde
-
-* [https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen](https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen-a-8d890873-5680-404b-aad0-1ac038cfac0b#ref=rss)
-### cumbre
-
-* [https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen](https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen-a-8d890873-5680-404b-aad0-1ac038cfac0b#ref=rss)
-* [https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone](https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone-a-dfc938e3-badc-4cc6-acbd-bc78f0076039#ref=rss)
-### vieja
-
-* [https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen](https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen-a-8d890873-5680-404b-aad0-1ac038cfac0b#ref=rss)
-* [https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone](https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone-a-dfc938e3-badc-4cc6-acbd-bc78f0076039#ref=rss)
-### waren
-
-* [https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen](https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen-a-8d890873-5680-404b-aad0-1ac038cfac0b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-wie-studierende-das-trauma-des-lockdown-ueberwinden](https://www.spiegel.de/politik/deutschland/corona-pandemie-wie-studierende-das-trauma-des-lockdown-ueberwinden-a-234f0057-5d8d-4f51-93d4-3e57e12cb592#ref=rss)
-### zuletzt
-
-* [https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen](https://www.spiegel.de/wissenschaft/natur/vulkan-auf-la-palma-wie-vulkanausbrueche-bei-der-kuehlung-der-erde-helfen-a-8d890873-5680-404b-aad0-1ac038cfac0b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg-a-31db22af-f1cc-4c10-93d8-71fd6d954256#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/gesellschaft/ibiza-deutsche-nimmt-sterbehilfe-in-anspruch](https://www.spiegel.de/panorama/gesellschaft/ibiza-deutsche-nimmt-sterbehilfe-in-anspruch-a-e3904655-2dd0-40c0-a3a8-38bea606e39b#ref=rss)
-### nimmt
-
-* [https://www.spiegel.de/panorama/gesellschaft/ibiza-deutsche-nimmt-sterbehilfe-in-anspruch](https://www.spiegel.de/panorama/gesellschaft/ibiza-deutsche-nimmt-sterbehilfe-in-anspruch-a-e3904655-2dd0-40c0-a3a8-38bea606e39b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit](https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit-a-658b3dda-5706-4959-88c0-624c668071a9#ref=rss)
-### sterbehilfe
-
-* [https://www.spiegel.de/panorama/gesellschaft/ibiza-deutsche-nimmt-sterbehilfe-in-anspruch](https://www.spiegel.de/panorama/gesellschaft/ibiza-deutsche-nimmt-sterbehilfe-in-anspruch-a-e3904655-2dd0-40c0-a3a8-38bea606e39b#ref=rss)
-### ende
-
-* [https://www.spiegel.de/panorama/gesellschaft/ibiza-deutsche-nimmt-sterbehilfe-in-anspruch](https://www.spiegel.de/panorama/gesellschaft/ibiza-deutsche-nimmt-sterbehilfe-in-anspruch-a-e3904655-2dd0-40c0-a3a8-38bea606e39b#ref=rss)
-* [https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-ein-kurz-artiges-regime-in-deutschland-waere-der-anfang-vom-ende-der-eu](https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-ein-kurz-artiges-regime-in-deutschland-waere-der-anfang-vom-ende-der-eu-a-e5eed5cb-5a1a-4fca-8ebd-0932232eb5dd#ref=rss)
-### cristiano
-
-* [https://www.spiegel.de/panorama/leute/cristiano-ronaldo-und-georgina-rodriguez-werden-eltern-von-zwillingen](https://www.spiegel.de/panorama/leute/cristiano-ronaldo-und-georgina-rodriguez-werden-eltern-von-zwillingen-a-3f722352-0b3c-41fe-b498-83caaafdaef6#ref=rss)
-### ronaldo
-
-* [https://www.spiegel.de/panorama/leute/cristiano-ronaldo-und-georgina-rodriguez-werden-eltern-von-zwillingen](https://www.spiegel.de/panorama/leute/cristiano-ronaldo-und-georgina-rodriguez-werden-eltern-von-zwillingen-a-3f722352-0b3c-41fe-b498-83caaafdaef6#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/leute/cristiano-ronaldo-und-georgina-rodriguez-werden-eltern-von-zwillingen](https://www.spiegel.de/panorama/leute/cristiano-ronaldo-und-georgina-rodriguez-werden-eltern-von-zwillingen-a-3f722352-0b3c-41fe-b498-83caaafdaef6#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/squid-game-schuelerinnen-und-schueler-ahmen-spiele-aus-netflix-serie-nach-und-ohrfeigen-sich](https://www.spiegel.de/panorama/bildung/squid-game-schuelerinnen-und-schueler-ahmen-spiele-aus-netflix-serie-nach-und-ohrfeigen-sich-a-de7013bb-d2ec-4304-8fbb-2d3519732234#ref=rss)
-### teilen
-
-* [https://www.spiegel.de/panorama/leute/cristiano-ronaldo-und-georgina-rodriguez-werden-eltern-von-zwillingen](https://www.spiegel.de/panorama/leute/cristiano-ronaldo-und-georgina-rodriguez-werden-eltern-von-zwillingen-a-3f722352-0b3c-41fe-b498-83caaafdaef6#ref=rss)
-* [https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone](https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone-a-dfc938e3-badc-4cc6-acbd-bc78f0076039#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/usa-joe-biden-streicht-umstrittenes-sozialpaket-drastisch-zusammen](https://www.spiegel.de/ausland/usa-joe-biden-streicht-umstrittenes-sozialpaket-drastisch-zusammen-a-baad578d-0bab-4733-975f-a84fb93fa981#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/usa-joe-biden-streicht-umstrittenes-sozialpaket-drastisch-zusammen](https://www.spiegel.de/ausland/usa-joe-biden-streicht-umstrittenes-sozialpaket-drastisch-zusammen-a-baad578d-0bab-4733-975f-a84fb93fa981#ref=rss)
-### drastisch
-
-* [https://www.spiegel.de/ausland/usa-joe-biden-streicht-umstrittenes-sozialpaket-drastisch-zusammen](https://www.spiegel.de/ausland/usa-joe-biden-streicht-umstrittenes-sozialpaket-drastisch-zusammen-a-baad578d-0bab-4733-975f-a84fb93fa981#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/stromerzeugung-bis-20230-rund-3000-kohlekraftwerke-abschalten](https://www.spiegel.de/wissenschaft/mensch/stromerzeugung-bis-20230-rund-3000-kohlekraftwerke-abschalten-a-02453aac-4b0f-4b77-8d79-79e8ec1403f0#ref=rss)
-### fürchten
-
-* [https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung](https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung-a-9d0c50be-f9fc-487c-9850-e6ffdf49d3a9#ref=rss)
-* [https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone](https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone-a-dfc938e3-badc-4cc6-acbd-bc78f0076039#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung](https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung-a-9d0c50be-f9fc-487c-9850-e6ffdf49d3a9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-wie-studierende-das-trauma-des-lockdown-ueberwinden](https://www.spiegel.de/politik/deutschland/corona-pandemie-wie-studierende-das-trauma-des-lockdown-ueberwinden-a-234f0057-5d8d-4f51-93d4-3e57e12cb592#ref=rss)
-### leyen
-
-* [https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung](https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung-a-9d0c50be-f9fc-487c-9850-e6ffdf49d3a9#ref=rss)
-* [https://www.spiegel.de/ausland/polens-justizminister-will-nicht-auch-nur-einen-einzigen-zloty-an-eu-zahlen](https://www.spiegel.de/ausland/polens-justizminister-will-nicht-auch-nur-einen-einzigen-zloty-an-eu-zahlen-a-80e695a0-906f-4992-a88d-b72612134434#ref=rss)
-### druck
-
-* [https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung](https://www.spiegel.de/ausland/g20-gipfel-in-rom-klimaschuetzer-kritisieren-entwurf-fuer-abschlusserklaerung-a-9d0c50be-f9fc-487c-9850-e6ffdf49d3a9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-fuer-freitag-zu-warnstreiks-am-frankfurter-flughafen-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-fuer-freitag-zu-warnstreiks-am-frankfurter-flughafen-auf-a-39a0fa25-c842-4ace-96fe-c3cb7ccaa03c#ref=rss)
-### christian
-
-* [https://www.spiegel.de/geschichte/fussballer-christian-karembeu-tierpark-hagenbeck-soll-voelkerschau-aufarbeiten](https://www.spiegel.de/geschichte/fussballer-christian-karembeu-tierpark-hagenbeck-soll-voelkerschau-aufarbeiten-a-8c958343-3e02-453e-862e-9a63a854b80c#ref=rss)
-### karembeu
-
-* [https://www.spiegel.de/geschichte/fussballer-christian-karembeu-tierpark-hagenbeck-soll-voelkerschau-aufarbeiten](https://www.spiegel.de/geschichte/fussballer-christian-karembeu-tierpark-hagenbeck-soll-voelkerschau-aufarbeiten-a-8c958343-3e02-453e-862e-9a63a854b80c#ref=rss)
-### tierpark
-
-* [https://www.spiegel.de/geschichte/fussballer-christian-karembeu-tierpark-hagenbeck-soll-voelkerschau-aufarbeiten](https://www.spiegel.de/geschichte/fussballer-christian-karembeu-tierpark-hagenbeck-soll-voelkerschau-aufarbeiten-a-8c958343-3e02-453e-862e-9a63a854b80c#ref=rss)
-### mensch
-
-* [https://www.spiegel.de/wissenschaft/mensch/genetik-der-mensch-hat-ein-selbstzerstoerungsprogramm](https://www.spiegel.de/wissenschaft/mensch/genetik-der-mensch-hat-ein-selbstzerstoerungsprogramm-a-200754e4-8e7c-4192-8e08-e4e84cc1ae9d#ref=rss)
-### fc
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-subventionen-gefluechtete-fc-bayern](https://www.spiegel.de/politik/deutschland/news-des-tages-subventionen-gefluechtete-fc-bayern-a-edfe142b-1fdc-425f-85f4-28aa23608081#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-subventionen-gefluechtete-fc-bayern](https://www.spiegel.de/politik/deutschland/news-des-tages-subventionen-gefluechtete-fc-bayern-a-edfe142b-1fdc-425f-85f4-28aa23608081#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-subventionen-gefluechtete-fc-bayern](https://www.spiegel.de/politik/deutschland/news-des-tages-subventionen-gefluechtete-fc-bayern-a-edfe142b-1fdc-425f-85f4-28aa23608081#ref=rss)
-* [https://www.spiegel.de/ausland/polens-justizminister-will-nicht-auch-nur-einen-einzigen-zloty-an-eu-zahlen](https://www.spiegel.de/ausland/polens-justizminister-will-nicht-auch-nur-einen-einzigen-zloty-an-eu-zahlen-a-80e695a0-906f-4992-a88d-b72612134434#ref=rss)
-### euro
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-subventionen-gefluechtete-fc-bayern](https://www.spiegel.de/politik/deutschland/news-des-tages-subventionen-gefluechtete-fc-bayern-a-edfe142b-1fdc-425f-85f4-28aa23608081#ref=rss)
-* [https://www.spiegel.de/ausland/polens-justizminister-will-nicht-auch-nur-einen-einzigen-zloty-an-eu-zahlen](https://www.spiegel.de/ausland/polens-justizminister-will-nicht-auch-nur-einen-einzigen-zloty-an-eu-zahlen-a-80e695a0-906f-4992-a88d-b72612134434#ref=rss)
-### nehmen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-subventionen-gefluechtete-fc-bayern](https://www.spiegel.de/politik/deutschland/news-des-tages-subventionen-gefluechtete-fc-bayern-a-edfe142b-1fdc-425f-85f4-28aa23608081#ref=rss)
-* [https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-ein-kurz-artiges-regime-in-deutschland-waere-der-anfang-vom-ende-der-eu](https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-ein-kurz-artiges-regime-in-deutschland-waere-der-anfang-vom-ende-der-eu-a-e5eed5cb-5a1a-4fca-8ebd-0932232eb5dd#ref=rss)
-### hells
-
-* [https://www.spiegel.de/panorama/justiz/hells-angels-razzia-in-berlin-und-brandenburg-polizei-verhaftet-sieben-verdaechtige](https://www.spiegel.de/panorama/justiz/hells-angels-razzia-in-berlin-und-brandenburg-polizei-verhaftet-sieben-verdaechtige-a-ef140ee9-2d52-4a58-996b-ae8117065c0a#ref=rss)
-### angels
-
-* [https://www.spiegel.de/panorama/justiz/hells-angels-razzia-in-berlin-und-brandenburg-polizei-verhaftet-sieben-verdaechtige](https://www.spiegel.de/panorama/justiz/hells-angels-razzia-in-berlin-und-brandenburg-polizei-verhaftet-sieben-verdaechtige-a-ef140ee9-2d52-4a58-996b-ae8117065c0a#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/hells-angels-razzia-in-berlin-und-brandenburg-polizei-verhaftet-sieben-verdaechtige](https://www.spiegel.de/panorama/justiz/hells-angels-razzia-in-berlin-und-brandenburg-polizei-verhaftet-sieben-verdaechtige-a-ef140ee9-2d52-4a58-996b-ae8117065c0a#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/hells-angels-razzia-in-berlin-und-brandenburg-polizei-verhaftet-sieben-verdaechtige](https://www.spiegel.de/panorama/justiz/hells-angels-razzia-in-berlin-und-brandenburg-polizei-verhaftet-sieben-verdaechtige-a-ef140ee9-2d52-4a58-996b-ae8117065c0a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/ireland-baldwin-ueber-vater-alec-baldwin-ich-kenne-meinen-vater-ihr-kennt-ihn-einfach-nicht](https://www.spiegel.de/panorama/leute/ireland-baldwin-ueber-vater-alec-baldwin-ich-kenne-meinen-vater-ihr-kennt-ihn-einfach-nicht-a-35ab7e20-c5d6-4270-ba82-a9727b909768#ref=rss)
-### ladestationen
-
-* [https://www.spiegel.de/auto/elektroautos-foerdergeld-fuer-private-ladestationen-ist-aufgebraucht](https://www.spiegel.de/auto/elektroautos-foerdergeld-fuer-private-ladestationen-ist-aufgebraucht-a-aeb9fd9f-3282-4a12-8425-64d6445854c7#ref=rss)
-### jameswebbweltraumteleskop
-
-* [https://www.spiegel.de/deinspiegel/james-webb-weltraum-teleskop-griff-nach-den-sternen](https://www.spiegel.de/deinspiegel/james-webb-weltraum-teleskop-griff-nach-den-sternen-a-00000000-0002-0001-0000-000174677050#ref=rss)
-### marc
-
-* [https://www.spiegel.de/kultur/musik/10-jahre-nsu-marc-sinan-taeter-haben-eine-unglaubliche-macht-ueber-ihre-opfer](https://www.spiegel.de/kultur/musik/10-jahre-nsu-marc-sinan-taeter-haben-eine-unglaubliche-macht-ueber-ihre-opfer-a-096cf097-3b72-458d-a9f2-d53126373ca6#ref=rss)
-### sinan
-
-* [https://www.spiegel.de/kultur/musik/10-jahre-nsu-marc-sinan-taeter-haben-eine-unglaubliche-macht-ueber-ihre-opfer](https://www.spiegel.de/kultur/musik/10-jahre-nsu-marc-sinan-taeter-haben-eine-unglaubliche-macht-ueber-ihre-opfer-a-096cf097-3b72-458d-a9f2-d53126373ca6#ref=rss)
-### opfer
-
-* [https://www.spiegel.de/kultur/musik/10-jahre-nsu-marc-sinan-taeter-haben-eine-unglaubliche-macht-ueber-ihre-opfer](https://www.spiegel.de/kultur/musik/10-jahre-nsu-marc-sinan-taeter-haben-eine-unglaubliche-macht-ueber-ihre-opfer-a-096cf097-3b72-458d-a9f2-d53126373ca6#ref=rss)
-* [https://www.spiegel.de/panorama/sizilien-vermisste-frau-tot-gefunden-mindestens-drei-opfer](https://www.spiegel.de/panorama/sizilien-vermisste-frau-tot-gefunden-mindestens-drei-opfer-a-913d7dc4-858a-4509-acf5-a9b254a282d6#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/kultur/musik/10-jahre-nsu-marc-sinan-taeter-haben-eine-unglaubliche-macht-ueber-ihre-opfer](https://www.spiegel.de/kultur/musik/10-jahre-nsu-marc-sinan-taeter-haben-eine-unglaubliche-macht-ueber-ihre-opfer-a-096cf097-3b72-458d-a9f2-d53126373ca6#ref=rss)
-* [https://www.spiegel.de/politik/klima-forscher-gerald-haug-es-geht-um-die-bewohnbarkeit-des-planeten](https://www.spiegel.de/politik/klima-forscher-gerald-haug-es-geht-um-die-bewohnbarkeit-des-planeten-a-eeebbcbf-3f16-4050-9c43-72a40155d45a#ref=rss)
-### sperrzone
-
-* [https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone](https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone-a-dfc938e3-badc-4cc6-acbd-bc78f0076039#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone](https://www.spiegel.de/ausland/vulkanausbruch-auf-la-palma-fahrt-durch-die-sperrzone-a-dfc938e3-badc-4cc6-acbd-bc78f0076039#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/breitband-ausbau-deutlich-mehr-buerger-koennen-jetzt-glasfaser-internet-nutzen](https://www.spiegel.de/netzwelt/web/breitband-ausbau-deutlich-mehr-buerger-koennen-jetzt-glasfaser-internet-nutzen-a-56ef3f52-1101-48d6-8b9f-515faee821e2#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/reise/fernweh/lonely-planet-best-in-travel-ranking-2022-das-sind-die-trendziele](https://www.spiegel.de/reise/fernweh/lonely-planet-best-in-travel-ranking-2022-das-sind-die-trendziele-a-590d35dd-b479-4c23-86c1-d1b38a6d7b1f#ref=rss)
-### trendziele
-
-* [https://www.spiegel.de/reise/fernweh/lonely-planet-best-in-travel-ranking-2022-das-sind-die-trendziele](https://www.spiegel.de/reise/fernweh/lonely-planet-best-in-travel-ranking-2022-das-sind-die-trendziele-a-590d35dd-b479-4c23-86c1-d1b38a6d7b1f#ref=rss)
-### liegen
-
-* [https://www.spiegel.de/reise/fernweh/lonely-planet-best-in-travel-ranking-2022-das-sind-die-trendziele](https://www.spiegel.de/reise/fernweh/lonely-planet-best-in-travel-ranking-2022-das-sind-die-trendziele-a-590d35dd-b479-4c23-86c1-d1b38a6d7b1f#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/breitband-ausbau-deutlich-mehr-buerger-koennen-jetzt-glasfaser-internet-nutzen](https://www.spiegel.de/netzwelt/web/breitband-ausbau-deutlich-mehr-buerger-koennen-jetzt-glasfaser-internet-nutzen-a-56ef3f52-1101-48d6-8b9f-515faee821e2#ref=rss)
-### studierende
-
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-wie-studierende-das-trauma-des-lockdown-ueberwinden](https://www.spiegel.de/politik/deutschland/corona-pandemie-wie-studierende-das-trauma-des-lockdown-ueberwinden-a-234f0057-5d8d-4f51-93d4-3e57e12cb592#ref=rss)
-### anfang
-
-* [https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-ein-kurz-artiges-regime-in-deutschland-waere-der-anfang-vom-ende-der-eu](https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-ein-kurz-artiges-regime-in-deutschland-waere-der-anfang-vom-ende-der-eu-a-e5eed5cb-5a1a-4fca-8ebd-0932232eb5dd#ref=rss)
-* [https://www.spiegel.de/kultur/frankreich-sichert-benin-26-artefakte-zu](https://www.spiegel.de/kultur/frankreich-sichert-benin-26-artefakte-zu-a-5417df4f-4556-4993-b7f2-4e2649cf65c2#ref=rss)
-### eu
-
-* [https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-ein-kurz-artiges-regime-in-deutschland-waere-der-anfang-vom-ende-der-eu](https://www.spiegel.de/ausland/korruptionsaffaere-in-oesterreich-ein-kurz-artiges-regime-in-deutschland-waere-der-anfang-vom-ende-der-eu-a-e5eed5cb-5a1a-4fca-8ebd-0932232eb5dd#ref=rss)
-* [https://www.spiegel.de/ausland/polens-justizminister-will-nicht-auch-nur-einen-einzigen-zloty-an-eu-zahlen](https://www.spiegel.de/ausland/polens-justizminister-will-nicht-auch-nur-einen-einzigen-zloty-an-eu-zahlen-a-80e695a0-906f-4992-a88d-b72612134434#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit](https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit-a-658b3dda-5706-4959-88c0-624c668071a9#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit](https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit-a-658b3dda-5706-4959-88c0-624c668071a9#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit](https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit-a-658b3dda-5706-4959-88c0-624c668071a9#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit](https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit-a-658b3dda-5706-4959-88c0-624c668071a9#ref=rss)
-### zeichen
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit](https://www.spiegel.de/politik/deutschland/angela-merkel-nimmt-olaf-scholz-zum-g20-gipfel-nach-rom-mit-a-658b3dda-5706-4959-88c0-624c668071a9#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/david-amess-bulldogge-von-erstochenem-abgeordneten-gewinnt-hundewahl](https://www.spiegel.de/panorama/gesellschaft/david-amess-bulldogge-von-erstochenem-abgeordneten-gewinnt-hundewahl-a-d55a16ac-fbc3-4d09-b22f-88e1c747511d#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/netzwelt/web/breitband-ausbau-deutlich-mehr-buerger-koennen-jetzt-glasfaser-internet-nutzen](https://www.spiegel.de/netzwelt/web/breitband-ausbau-deutlich-mehr-buerger-koennen-jetzt-glasfaser-internet-nutzen-a-56ef3f52-1101-48d6-8b9f-515faee821e2#ref=rss)
-* [https://www.spiegel.de/politik/klima-forscher-gerald-haug-es-geht-um-die-bewohnbarkeit-des-planeten](https://www.spiegel.de/politik/klima-forscher-gerald-haug-es-geht-um-die-bewohnbarkeit-des-planeten-a-eeebbcbf-3f16-4050-9c43-72a40155d45a#ref=rss)
-### rund
+* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-putin-auftritt-laesst-gaspreise-deutlich-sinken](https://www.spiegel.de/wirtschaft/soziales/energiekrise-putin-auftritt-laesst-gaspreise-deutlich-sinken-a-0b7abfd2-f826-4baa-8b9e-f91eeb2b484b#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/zehn-millionen-downloads-abzock-apps-locken-nutzer-in-die-abo-falle](https://www.spiegel.de/netzwelt/apps/zehn-millionen-downloads-abzock-apps-locken-nutzer-in-die-abo-falle-a-1a14cf6a-1cb8-4b65-9ba2-e977df1d294c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-zieht-sich-zurueck-wer-wird-neuer-spd-chef](https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-zieht-sich-zurueck-wer-wird-neuer-spd-chef-a-017c0cc4-89a8-416c-aaf7-b3343eb03f56#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-suche-nach-neuem-vorsitzenden-planlos-ratlos-mutlos](https://www.spiegel.de/politik/deutschland/cdu-suche-nach-neuem-vorsitzenden-planlos-ratlos-mutlos-a-49d31eb6-ac85-44fd-8376-ffe3a0aa9eb9#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-sperrt-internetseite-der-deutschen-welle](https://www.spiegel.de/ausland/belarus-sperrt-internetseite-der-deutschen-welle-a-4b94a13c-58f0-4224-a09b-7522b564799c#ref=rss)
+### eu
 
-* [https://www.spiegel.de/netzwelt/web/breitband-ausbau-deutlich-mehr-buerger-koennen-jetzt-glasfaser-internet-nutzen](https://www.spiegel.de/netzwelt/web/breitband-ausbau-deutlich-mehr-buerger-koennen-jetzt-glasfaser-internet-nutzen-a-56ef3f52-1101-48d6-8b9f-515faee821e2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/stromerzeugung-bis-20230-rund-3000-kohlekraftwerke-abschalten](https://www.spiegel.de/wissenschaft/mensch/stromerzeugung-bis-20230-rund-3000-kohlekraftwerke-abschalten-a-02453aac-4b0f-4b77-8d79-79e8ec1403f0#ref=rss)
-### ireland
+* [https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu](https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu-a-68ef98bf-4ecd-4a07-a74d-38e96c140187#ref=rss)
+* [https://www.spiegel.de/ausland/polen-bestellt-belgischen-botschafter-ein](https://www.spiegel.de/ausland/polen-bestellt-belgischen-botschafter-ein-a-1969acac-1bf5-4de1-88e1-901bc2a3a6c9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/folge-der-corona-rezession-steuereinnahmen-in-der-eu-sinken-erstmals-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/service/folge-der-corona-rezession-steuereinnahmen-in-der-eu-sinken-erstmals-seit-zehn-jahren-a-249b7e06-86b3-4b41-90a5-11ed52a4257f#ref=rss)
+* [https://www.spiegel.de/ausland/eu-schickt-aerzte-und-ausruestung-wegen-corona-notlage-nach-rumaenien](https://www.spiegel.de/ausland/eu-schickt-aerzte-und-ausruestung-wegen-corona-notlage-nach-rumaenien-a-fd9c5099-39f7-4b9d-a9a3-c5830b31086e#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/panorama/leute/ireland-baldwin-ueber-vater-alec-baldwin-ich-kenne-meinen-vater-ihr-kennt-ihn-einfach-nicht](https://www.spiegel.de/panorama/leute/ireland-baldwin-ueber-vater-alec-baldwin-ich-kenne-meinen-vater-ihr-kennt-ihn-einfach-nicht-a-35ab7e20-c5d6-4270-ba82-a9727b909768#ref=rss)
-### vater
+* [https://www.spiegel.de/panorama/justiz/vg-berlin-hygienevorschriften-gelten-auch-fuer-lebensmittelretter](https://www.spiegel.de/panorama/justiz/vg-berlin-hygienevorschriften-gelten-auch-fuer-lebensmittelretter-a-d7c3988b-be60-4f5c-965d-ba8fff6bae53#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gewerkschaften-fordern-staatshilfe-fuer-umbau-der-stahlbranche](https://www.spiegel.de/wirtschaft/soziales/gewerkschaften-fordern-staatshilfe-fuer-umbau-der-stahlbranche-a-af8cd649-27bf-4565-b726-87cfb9def54a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/die-5-0-helden-kehren-zurueck](https://www.spiegel.de/sport/fussball/die-5-0-helden-kehren-zurueck-a-78e59aa1-6c29-4ced-9e53-cd78a916014d#ref=rss)
+### biden
 
-* [https://www.spiegel.de/panorama/leute/ireland-baldwin-ueber-vater-alec-baldwin-ich-kenne-meinen-vater-ihr-kennt-ihn-einfach-nicht](https://www.spiegel.de/panorama/leute/ireland-baldwin-ueber-vater-alec-baldwin-ich-kenne-meinen-vater-ihr-kennt-ihn-einfach-nicht-a-35ab7e20-c5d6-4270-ba82-a9727b909768#ref=rss)
-### wehrt
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-klimagipfel-in-glasgow-corona-infektionen](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-klimagipfel-in-glasgow-corona-infektionen-a-f93b2eed-21c9-43df-a299-1b674bf7d923#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-emmanuel-macron-ueber-den-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-und-emmanuel-macron-ueber-den-g20-gipfel-a-a6f4310e-d9e3-4829-83cf-85c423f22dfa#ref=rss)
+* [https://www.spiegel.de/ausland/g20-gipfel-in-rom-suedkoreas-praesident-bittet-papst-um-nordkorea-besuch](https://www.spiegel.de/ausland/g20-gipfel-in-rom-suedkoreas-praesident-bittet-papst-um-nordkorea-besuch-a-1157d8cc-c27a-4eaf-b3f0-1fc4944a55bd#ref=rss)
+### ärzte
 
-* [https://www.spiegel.de/panorama/leute/ireland-baldwin-ueber-vater-alec-baldwin-ich-kenne-meinen-vater-ihr-kennt-ihn-einfach-nicht](https://www.spiegel.de/panorama/leute/ireland-baldwin-ueber-vater-alec-baldwin-ich-kenne-meinen-vater-ihr-kennt-ihn-einfach-nicht-a-35ab7e20-c5d6-4270-ba82-a9727b909768#ref=rss)
-* [https://www.spiegel.de/ausland/polens-justizminister-will-nicht-auch-nur-einen-einzigen-zloty-an-eu-zahlen](https://www.spiegel.de/ausland/polens-justizminister-will-nicht-auch-nur-einen-einzigen-zloty-an-eu-zahlen-a-80e695a0-906f-4992-a88d-b72612134434#ref=rss)
-### benin
+* [https://www.spiegel.de/panorama/leute/queen-elizabeth-ii-aerzte-empfehlen-britischer-koenigin-zwei-wochen-ruhe](https://www.spiegel.de/panorama/leute/queen-elizabeth-ii-aerzte-empfehlen-britischer-koenigin-zwei-wochen-ruhe-a-8c891b6b-c876-445b-a874-8bbd4c7dad10#ref=rss)
+* [https://www.spiegel.de/ausland/eu-schickt-aerzte-und-ausruestung-wegen-corona-notlage-nach-rumaenien](https://www.spiegel.de/ausland/eu-schickt-aerzte-und-ausruestung-wegen-corona-notlage-nach-rumaenien-a-fd9c5099-39f7-4b9d-a9a3-c5830b31086e#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/kultur/frankreich-sichert-benin-26-artefakte-zu](https://www.spiegel.de/kultur/frankreich-sichert-benin-26-artefakte-zu-a-5417df4f-4556-4993-b7f2-4e2649cf65c2#ref=rss)
-### justizminister
+* [https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu](https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu-a-68ef98bf-4ecd-4a07-a74d-38e96c140187#ref=rss)
+* [https://www.spiegel.de/ausland/polen-bestellt-belgischen-botschafter-ein](https://www.spiegel.de/ausland/polen-bestellt-belgischen-botschafter-ein-a-1969acac-1bf5-4de1-88e1-901bc2a3a6c9#ref=rss)
+* [https://www.spiegel.de/ausland/eu-schickt-aerzte-und-ausruestung-wegen-corona-notlage-nach-rumaenien](https://www.spiegel.de/ausland/eu-schickt-aerzte-und-ausruestung-wegen-corona-notlage-nach-rumaenien-a-fd9c5099-39f7-4b9d-a9a3-c5830b31086e#ref=rss)
+### joe
 
-* [https://www.spiegel.de/ausland/polens-justizminister-will-nicht-auch-nur-einen-einzigen-zloty-an-eu-zahlen](https://www.spiegel.de/ausland/polens-justizminister-will-nicht-auch-nur-einen-einzigen-zloty-an-eu-zahlen-a-80e695a0-906f-4992-a88d-b72612134434#ref=rss)
-### london
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-klimagipfel-in-glasgow-corona-infektionen](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-klimagipfel-in-glasgow-corona-infektionen-a-f93b2eed-21c9-43df-a299-1b674bf7d923#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-emmanuel-macron-ueber-den-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-und-emmanuel-macron-ueber-den-g20-gipfel-a-a6f4310e-d9e3-4829-83cf-85c423f22dfa#ref=rss)
+### g20gipfel
 
-* [https://www.spiegel.de/ausland/london-verurteilt-festsetzung-von-britischem-fischerboot-in-frankreich](https://www.spiegel.de/ausland/london-verurteilt-festsetzung-von-britischem-fischerboot-in-frankreich-a-d8a71caf-228d-4624-a3ad-a70fb81fe3c8#ref=rss)
-### streit
+* [https://www.spiegel.de/ausland/joe-biden-und-emmanuel-macron-ueber-den-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-und-emmanuel-macron-ueber-den-g20-gipfel-a-a6f4310e-d9e3-4829-83cf-85c423f22dfa#ref=rss)
+* [https://www.spiegel.de/ausland/g20-gipfel-in-rom-suedkoreas-praesident-bittet-papst-um-nordkorea-besuch](https://www.spiegel.de/ausland/g20-gipfel-in-rom-suedkoreas-praesident-bittet-papst-um-nordkorea-besuch-a-1157d8cc-c27a-4eaf-b3f0-1fc4944a55bd#ref=rss)
+### rom
 
-* [https://www.spiegel.de/ausland/london-verurteilt-festsetzung-von-britischem-fischerboot-in-frankreich](https://www.spiegel.de/ausland/london-verurteilt-festsetzung-von-britischem-fischerboot-in-frankreich-a-d8a71caf-228d-4624-a3ad-a70fb81fe3c8#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-sieben-personen-droht-abschiebung-wegen-bananen-videos](https://www.spiegel.de/ausland/tuerkei-sieben-personen-droht-abschiebung-wegen-bananen-videos-a-05665b7b-ce56-4bf6-ab83-af604b796d5c#ref=rss)
-### sieht
+* [https://www.spiegel.de/ausland/joe-biden-und-emmanuel-macron-ueber-den-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-und-emmanuel-macron-ueber-den-g20-gipfel-a-a6f4310e-d9e3-4829-83cf-85c423f22dfa#ref=rss)
+* [https://www.spiegel.de/ausland/g20-gipfel-in-rom-suedkoreas-praesident-bittet-papst-um-nordkorea-besuch](https://www.spiegel.de/ausland/g20-gipfel-in-rom-suedkoreas-praesident-bittet-papst-um-nordkorea-besuch-a-1157d8cc-c27a-4eaf-b3f0-1fc4944a55bd#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/ausland/london-verurteilt-festsetzung-von-britischem-fischerboot-in-frankreich](https://www.spiegel.de/ausland/london-verurteilt-festsetzung-von-britischem-fischerboot-in-frankreich-a-d8a71caf-228d-4624-a3ad-a70fb81fe3c8#ref=rss)
-* [https://www.spiegel.de/politik/klima-forscher-gerald-haug-es-geht-um-die-bewohnbarkeit-des-planeten](https://www.spiegel.de/politik/klima-forscher-gerald-haug-es-geht-um-die-bewohnbarkeit-des-planeten-a-eeebbcbf-3f16-4050-9c43-72a40155d45a#ref=rss)
-### gerald
+* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-putin-auftritt-laesst-gaspreise-deutlich-sinken](https://www.spiegel.de/wirtschaft/soziales/energiekrise-putin-auftritt-laesst-gaspreise-deutlich-sinken-a-0b7abfd2-f826-4baa-8b9e-f91eeb2b484b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/airbus-laesst-testflugzeug-erstmals-vollstaendig-mit-altem-speiseoel-fliegen](https://www.spiegel.de/wirtschaft/service/airbus-laesst-testflugzeug-erstmals-vollstaendig-mit-altem-speiseoel-fliegen-a-9f5da4dc-e7a7-4cc2-88b2-fc6157c13aa3#ref=rss)
+### sinken
 
-* [https://www.spiegel.de/politik/klima-forscher-gerald-haug-es-geht-um-die-bewohnbarkeit-des-planeten](https://www.spiegel.de/politik/klima-forscher-gerald-haug-es-geht-um-die-bewohnbarkeit-des-planeten-a-eeebbcbf-3f16-4050-9c43-72a40155d45a#ref=rss)
-### haug
+* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-putin-auftritt-laesst-gaspreise-deutlich-sinken](https://www.spiegel.de/wirtschaft/soziales/energiekrise-putin-auftritt-laesst-gaspreise-deutlich-sinken-a-0b7abfd2-f826-4baa-8b9e-f91eeb2b484b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/folge-der-corona-rezession-steuereinnahmen-in-der-eu-sinken-erstmals-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/service/folge-der-corona-rezession-steuereinnahmen-in-der-eu-sinken-erstmals-seit-zehn-jahren-a-249b7e06-86b3-4b41-90a5-11ed52a4257f#ref=rss)
+### queen
 
-* [https://www.spiegel.de/politik/klima-forscher-gerald-haug-es-geht-um-die-bewohnbarkeit-des-planeten](https://www.spiegel.de/politik/klima-forscher-gerald-haug-es-geht-um-die-bewohnbarkeit-des-planeten-a-eeebbcbf-3f16-4050-9c43-72a40155d45a#ref=rss)
-### erreichen
+* [https://www.spiegel.de/panorama/leute/queen-elizabeth-ii-aerzte-empfehlen-britischer-koenigin-zwei-wochen-ruhe](https://www.spiegel.de/panorama/leute/queen-elizabeth-ii-aerzte-empfehlen-britischer-koenigin-zwei-wochen-ruhe-a-8c891b6b-c876-445b-a874-8bbd4c7dad10#ref=rss)
+### elizabeth
 
-* [https://www.spiegel.de/politik/klima-forscher-gerald-haug-es-geht-um-die-bewohnbarkeit-des-planeten](https://www.spiegel.de/politik/klima-forscher-gerald-haug-es-geht-um-die-bewohnbarkeit-des-planeten-a-eeebbcbf-3f16-4050-9c43-72a40155d45a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/stromerzeugung-bis-20230-rund-3000-kohlekraftwerke-abschalten](https://www.spiegel.de/wissenschaft/mensch/stromerzeugung-bis-20230-rund-3000-kohlekraftwerke-abschalten-a-02453aac-4b0f-4b77-8d79-79e8ec1403f0#ref=rss)
-### sizilien
+* [https://www.spiegel.de/panorama/leute/queen-elizabeth-ii-aerzte-empfehlen-britischer-koenigin-zwei-wochen-ruhe](https://www.spiegel.de/panorama/leute/queen-elizabeth-ii-aerzte-empfehlen-britischer-koenigin-zwei-wochen-ruhe-a-8c891b6b-c876-445b-a874-8bbd4c7dad10#ref=rss)
+### zehn
 
-* [https://www.spiegel.de/panorama/sizilien-vermisste-frau-tot-gefunden-mindestens-drei-opfer](https://www.spiegel.de/panorama/sizilien-vermisste-frau-tot-gefunden-mindestens-drei-opfer-a-913d7dc4-858a-4509-acf5-a9b254a282d6#ref=rss)
-### vermisste
+* [https://www.spiegel.de/netzwelt/apps/zehn-millionen-downloads-abzock-apps-locken-nutzer-in-die-abo-falle](https://www.spiegel.de/netzwelt/apps/zehn-millionen-downloads-abzock-apps-locken-nutzer-in-die-abo-falle-a-1a14cf6a-1cb8-4b65-9ba2-e977df1d294c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/folge-der-corona-rezession-steuereinnahmen-in-der-eu-sinken-erstmals-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/service/folge-der-corona-rezession-steuereinnahmen-in-der-eu-sinken-erstmals-seit-zehn-jahren-a-249b7e06-86b3-4b41-90a5-11ed52a4257f#ref=rss)
+### hinter
 
-* [https://www.spiegel.de/panorama/sizilien-vermisste-frau-tot-gefunden-mindestens-drei-opfer](https://www.spiegel.de/panorama/sizilien-vermisste-frau-tot-gefunden-mindestens-drei-opfer-a-913d7dc4-858a-4509-acf5-a9b254a282d6#ref=rss)
-### frau
+* [https://www.spiegel.de/netzwelt/apps/zehn-millionen-downloads-abzock-apps-locken-nutzer-in-die-abo-falle](https://www.spiegel.de/netzwelt/apps/zehn-millionen-downloads-abzock-apps-locken-nutzer-in-die-abo-falle-a-1a14cf6a-1cb8-4b65-9ba2-e977df1d294c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar](https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar-a-3ab07963-f345-45d2-b8b8-8669706619cc#ref=rss)
+### polexit
 
-* [https://www.spiegel.de/panorama/sizilien-vermisste-frau-tot-gefunden-mindestens-drei-opfer](https://www.spiegel.de/panorama/sizilien-vermisste-frau-tot-gefunden-mindestens-drei-opfer-a-913d7dc4-858a-4509-acf5-a9b254a282d6#ref=rss)
-### tot
+* [https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu](https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu-a-68ef98bf-4ecd-4a07-a74d-38e96c140187#ref=rss)
+### recht
 
-* [https://www.spiegel.de/panorama/sizilien-vermisste-frau-tot-gefunden-mindestens-drei-opfer](https://www.spiegel.de/panorama/sizilien-vermisste-frau-tot-gefunden-mindestens-drei-opfer-a-913d7dc4-858a-4509-acf5-a9b254a282d6#ref=rss)
-### florian
+* [https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu](https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu-a-68ef98bf-4ecd-4a07-a74d-38e96c140187#ref=rss)
+* [https://www.spiegel.de/stil/haeuser-des-jahres-wettbewerb-zuericher-trutzburg-von-haechler-und-fuhrimann](https://www.spiegel.de/stil/haeuser-des-jahres-wettbewerb-zuericher-trutzburg-von-haechler-und-fuhrimann-a-e70e429c-00ea-467b-b9fd-022b484e8fe5#ref=rss)
+### polen
 
-* [https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg-a-31db22af-f1cc-4c10-93d8-71fd6d954256#ref=rss)
-### kohfeldt
+* [https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu](https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu-a-68ef98bf-4ecd-4a07-a74d-38e96c140187#ref=rss)
+* [https://www.spiegel.de/ausland/polen-bestellt-belgischen-botschafter-ein](https://www.spiegel.de/ausland/polen-bestellt-belgischen-botschafter-ein-a-1969acac-1bf5-4de1-88e1-901bc2a3a6c9#ref=rss)
+### polnische
 
-* [https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg-a-31db22af-f1cc-4c10-93d8-71fd6d954256#ref=rss)
-### vfl
+* [https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu](https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu-a-68ef98bf-4ecd-4a07-a74d-38e96c140187#ref=rss)
+* [https://www.spiegel.de/ausland/polen-bestellt-belgischen-botschafter-ein](https://www.spiegel.de/ausland/polen-bestellt-belgischen-botschafter-ein-a-1969acac-1bf5-4de1-88e1-901bc2a3a6c9#ref=rss)
+### konflikt
 
-* [https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg-a-31db22af-f1cc-4c10-93d8-71fd6d954256#ref=rss)
-### wolfsburg
+* [https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu](https://www.spiegel.de/ausland/drohender-polexit-recht-und-gerechtigkeit-fuer-polen-und-die-eu-a-68ef98bf-4ecd-4a07-a74d-38e96c140187#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-und-emmanuel-macron-ueber-den-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-und-emmanuel-macron-ueber-den-g20-gipfel-a-a6f4310e-d9e3-4829-83cf-85c423f22dfa#ref=rss)
+### jörg
 
-* [https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg-a-31db22af-f1cc-4c10-93d8-71fd6d954256#ref=rss)
-### spiele
+* [https://www.spiegel.de/politik/deutschland/afd-joerg-meuthen-und-sein-letzter-kampf](https://www.spiegel.de/politik/deutschland/afd-joerg-meuthen-und-sein-letzter-kampf-a-d2b055df-9657-4ddc-b11b-b7fc1a39251a#ref=rss)
+### meuthen
 
-* [https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/florian-kohfeldt-macht-sich-keine-sorgen-um-den-vfl-wolfsburg-a-31db22af-f1cc-4c10-93d8-71fd6d954256#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/squid-game-schuelerinnen-und-schueler-ahmen-spiele-aus-netflix-serie-nach-und-ohrfeigen-sich](https://www.spiegel.de/panorama/bildung/squid-game-schuelerinnen-und-schueler-ahmen-spiele-aus-netflix-serie-nach-und-ohrfeigen-sich-a-de7013bb-d2ec-4304-8fbb-2d3519732234#ref=rss)
-### david
+* [https://www.spiegel.de/politik/deutschland/afd-joerg-meuthen-und-sein-letzter-kampf](https://www.spiegel.de/politik/deutschland/afd-joerg-meuthen-und-sein-letzter-kampf-a-d2b055df-9657-4ddc-b11b-b7fc1a39251a#ref=rss)
+### eigenen
 
-* [https://www.spiegel.de/panorama/gesellschaft/david-amess-bulldogge-von-erstochenem-abgeordneten-gewinnt-hundewahl](https://www.spiegel.de/panorama/gesellschaft/david-amess-bulldogge-von-erstochenem-abgeordneten-gewinnt-hundewahl-a-d55a16ac-fbc3-4d09-b22f-88e1c747511d#ref=rss)
-### amess
+* [https://www.spiegel.de/politik/deutschland/afd-joerg-meuthen-und-sein-letzter-kampf](https://www.spiegel.de/politik/deutschland/afd-joerg-meuthen-und-sein-letzter-kampf-a-d2b055df-9657-4ddc-b11b-b7fc1a39251a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/will-ferrell-lehnte-fortsetzung-von-buddy-der-weihnachtself-ab-trotz-millionengage](https://www.spiegel.de/kultur/kino/will-ferrell-lehnte-fortsetzung-von-buddy-der-weihnachtself-ab-trotz-millionengage-a-9696b197-57a1-401e-a540-65595b9f9b9e#ref=rss)
+### norbert
 
-* [https://www.spiegel.de/panorama/gesellschaft/david-amess-bulldogge-von-erstochenem-abgeordneten-gewinnt-hundewahl](https://www.spiegel.de/panorama/gesellschaft/david-amess-bulldogge-von-erstochenem-abgeordneten-gewinnt-hundewahl-a-d55a16ac-fbc3-4d09-b22f-88e1c747511d#ref=rss)
-### bulldogge
+* [https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-zieht-sich-zurueck-wer-wird-neuer-spd-chef](https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-zieht-sich-zurueck-wer-wird-neuer-spd-chef-a-017c0cc4-89a8-416c-aaf7-b3343eb03f56#ref=rss)
+### walterborjans
 
-* [https://www.spiegel.de/panorama/gesellschaft/david-amess-bulldogge-von-erstochenem-abgeordneten-gewinnt-hundewahl](https://www.spiegel.de/panorama/gesellschaft/david-amess-bulldogge-von-erstochenem-abgeordneten-gewinnt-hundewahl-a-d55a16ac-fbc3-4d09-b22f-88e1c747511d#ref=rss)
-### verdi
+* [https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-zieht-sich-zurueck-wer-wird-neuer-spd-chef](https://www.spiegel.de/politik/deutschland/norbert-walter-borjans-zieht-sich-zurueck-wer-wird-neuer-spd-chef-a-017c0cc4-89a8-416c-aaf7-b3343eb03f56#ref=rss)
+### gelten
 
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-fuer-freitag-zu-warnstreiks-am-frankfurter-flughafen-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-fuer-freitag-zu-warnstreiks-am-frankfurter-flughafen-auf-a-39a0fa25-c842-4ace-96fe-c3cb7ccaa03c#ref=rss)
-### freitag
+* [https://www.spiegel.de/panorama/justiz/vg-berlin-hygienevorschriften-gelten-auch-fuer-lebensmittelretter](https://www.spiegel.de/panorama/justiz/vg-berlin-hygienevorschriften-gelten-auch-fuer-lebensmittelretter-a-d7c3988b-be60-4f5c-965d-ba8fff6bae53#ref=rss)
+### andere
 
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-fuer-freitag-zu-warnstreiks-am-frankfurter-flughafen-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-fuer-freitag-zu-warnstreiks-am-frankfurter-flughafen-auf-a-39a0fa25-c842-4ace-96fe-c3cb7ccaa03c#ref=rss)
-### frankfurter
+* [https://www.spiegel.de/panorama/justiz/vg-berlin-hygienevorschriften-gelten-auch-fuer-lebensmittelretter](https://www.spiegel.de/panorama/justiz/vg-berlin-hygienevorschriften-gelten-auch-fuer-lebensmittelretter-a-d7c3988b-be60-4f5c-965d-ba8fff6bae53#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/haeufige-infektionen-in-oberbayern-bei-ungeimpften-familien-liegt-die-ansteckungsrate-bei-100-prozent](https://www.spiegel.de/panorama/gesellschaft/haeufige-infektionen-in-oberbayern-bei-ungeimpften-familien-liegt-die-ansteckungsrate-bei-100-prozent-a-07aca151-86af-458e-9754-cd1b1a48ddf7#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-fuer-freitag-zu-warnstreiks-am-frankfurter-flughafen-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-fuer-freitag-zu-warnstreiks-am-frankfurter-flughafen-auf-a-39a0fa25-c842-4ace-96fe-c3cb7ccaa03c#ref=rss)
-### flughafen
+* [https://www.spiegel.de/panorama/justiz/vg-berlin-hygienevorschriften-gelten-auch-fuer-lebensmittelretter](https://www.spiegel.de/panorama/justiz/vg-berlin-hygienevorschriften-gelten-auch-fuer-lebensmittelretter-a-d7c3988b-be60-4f5c-965d-ba8fff6bae53#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dormagen-halloween-ist-kein-volksfest-party-gekippt](https://www.spiegel.de/panorama/justiz/dormagen-halloween-ist-kein-volksfest-party-gekippt-a-2bf6ac82-0e55-496d-b7a5-18fcf7fcb43e#ref=rss)
+### liegt
 
-* [https://www.spiegel.de/wirtschaft/ver-di-ruft-fuer-freitag-zu-warnstreiks-am-frankfurter-flughafen-auf](https://www.spiegel.de/wirtschaft/ver-di-ruft-fuer-freitag-zu-warnstreiks-am-frankfurter-flughafen-auf-a-39a0fa25-c842-4ace-96fe-c3cb7ccaa03c#ref=rss)
-### squid
+* [https://www.spiegel.de/panorama/gesellschaft/haeufige-infektionen-in-oberbayern-bei-ungeimpften-familien-liegt-die-ansteckungsrate-bei-100-prozent](https://www.spiegel.de/panorama/gesellschaft/haeufige-infektionen-in-oberbayern-bei-ungeimpften-familien-liegt-die-ansteckungsrate-bei-100-prozent-a-07aca151-86af-458e-9754-cd1b1a48ddf7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar](https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar-a-3ab07963-f345-45d2-b8b8-8669706619cc#ref=rss)
+### ferrell
 
-* [https://www.spiegel.de/panorama/bildung/squid-game-schuelerinnen-und-schueler-ahmen-spiele-aus-netflix-serie-nach-und-ohrfeigen-sich](https://www.spiegel.de/panorama/bildung/squid-game-schuelerinnen-und-schueler-ahmen-spiele-aus-netflix-serie-nach-und-ohrfeigen-sich-a-de7013bb-d2ec-4304-8fbb-2d3519732234#ref=rss)
-### game
+* [https://www.spiegel.de/kultur/kino/will-ferrell-lehnte-fortsetzung-von-buddy-der-weihnachtself-ab-trotz-millionengage](https://www.spiegel.de/kultur/kino/will-ferrell-lehnte-fortsetzung-von-buddy-der-weihnachtself-ab-trotz-millionengage-a-9696b197-57a1-401e-a540-65595b9f9b9e#ref=rss)
+### fortsetzung
 
-* [https://www.spiegel.de/panorama/bildung/squid-game-schuelerinnen-und-schueler-ahmen-spiele-aus-netflix-serie-nach-und-ohrfeigen-sich](https://www.spiegel.de/panorama/bildung/squid-game-schuelerinnen-und-schueler-ahmen-spiele-aus-netflix-serie-nach-und-ohrfeigen-sich-a-de7013bb-d2ec-4304-8fbb-2d3519732234#ref=rss)
-### schülerinnen
+* [https://www.spiegel.de/kultur/kino/will-ferrell-lehnte-fortsetzung-von-buddy-der-weihnachtself-ab-trotz-millionengage](https://www.spiegel.de/kultur/kino/will-ferrell-lehnte-fortsetzung-von-buddy-der-weihnachtself-ab-trotz-millionengage-a-9696b197-57a1-401e-a540-65595b9f9b9e#ref=rss)
+### buddy
 
-* [https://www.spiegel.de/panorama/bildung/squid-game-schuelerinnen-und-schueler-ahmen-spiele-aus-netflix-serie-nach-und-ohrfeigen-sich](https://www.spiegel.de/panorama/bildung/squid-game-schuelerinnen-und-schueler-ahmen-spiele-aus-netflix-serie-nach-und-ohrfeigen-sich-a-de7013bb-d2ec-4304-8fbb-2d3519732234#ref=rss)
-### schüler
+* [https://www.spiegel.de/kultur/kino/will-ferrell-lehnte-fortsetzung-von-buddy-der-weihnachtself-ab-trotz-millionengage](https://www.spiegel.de/kultur/kino/will-ferrell-lehnte-fortsetzung-von-buddy-der-weihnachtself-ab-trotz-millionengage-a-9696b197-57a1-401e-a540-65595b9f9b9e#ref=rss)
+### weihnachtself
 
-* [https://www.spiegel.de/panorama/bildung/squid-game-schuelerinnen-und-schueler-ahmen-spiele-aus-netflix-serie-nach-und-ohrfeigen-sich](https://www.spiegel.de/panorama/bildung/squid-game-schuelerinnen-und-schueler-ahmen-spiele-aus-netflix-serie-nach-und-ohrfeigen-sich-a-de7013bb-d2ec-4304-8fbb-2d3519732234#ref=rss)
-### türkei
+* [https://www.spiegel.de/kultur/kino/will-ferrell-lehnte-fortsetzung-von-buddy-der-weihnachtself-ab-trotz-millionengage](https://www.spiegel.de/kultur/kino/will-ferrell-lehnte-fortsetzung-von-buddy-der-weihnachtself-ab-trotz-millionengage-a-9696b197-57a1-401e-a540-65595b9f9b9e#ref=rss)
+### bewegen
 
-* [https://www.spiegel.de/ausland/tuerkei-sieben-personen-droht-abschiebung-wegen-bananen-videos](https://www.spiegel.de/ausland/tuerkei-sieben-personen-droht-abschiebung-wegen-bananen-videos-a-05665b7b-ce56-4bf6-ab83-af604b796d5c#ref=rss)
+* [https://www.spiegel.de/kultur/kino/will-ferrell-lehnte-fortsetzung-von-buddy-der-weihnachtself-ab-trotz-millionengage](https://www.spiegel.de/kultur/kino/will-ferrell-lehnte-fortsetzung-von-buddy-der-weihnachtself-ab-trotz-millionengage-a-9696b197-57a1-401e-a540-65595b9f9b9e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-klimagipfel-in-glasgow-corona-infektionen](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-klimagipfel-in-glasgow-corona-infektionen-a-f93b2eed-21c9-43df-a299-1b674bf7d923#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/wirtschaft/service/folge-der-corona-rezession-steuereinnahmen-in-der-eu-sinken-erstmals-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/service/folge-der-corona-rezession-steuereinnahmen-in-der-eu-sinken-erstmals-seit-zehn-jahren-a-249b7e06-86b3-4b41-90a5-11ed52a4257f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/airbus-laesst-testflugzeug-erstmals-vollstaendig-mit-altem-speiseoel-fliegen](https://www.spiegel.de/wirtschaft/service/airbus-laesst-testflugzeug-erstmals-vollstaendig-mit-altem-speiseoel-fliegen-a-9f5da4dc-e7a7-4cc2-88b2-fc6157c13aa3#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wirtschaft/service/folge-der-corona-rezession-steuereinnahmen-in-der-eu-sinken-erstmals-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/service/folge-der-corona-rezession-steuereinnahmen-in-der-eu-sinken-erstmals-seit-zehn-jahren-a-249b7e06-86b3-4b41-90a5-11ed52a4257f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-is-rueckkehrerin-kim-teresa-a-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-is-rueckkehrerin-kim-teresa-a-zu-vier-jahren-haft-verurteilt-a-db32f472-7274-4bfc-80ed-dcc6967a617e#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/wirtschaft/service/folge-der-corona-rezession-steuereinnahmen-in-der-eu-sinken-erstmals-seit-zehn-jahren](https://www.spiegel.de/wirtschaft/service/folge-der-corona-rezession-steuereinnahmen-in-der-eu-sinken-erstmals-seit-zehn-jahren-a-249b7e06-86b3-4b41-90a5-11ed52a4257f#ref=rss)
+* [https://www.spiegel.de/ausland/g20-gipfel-in-rom-suedkoreas-praesident-bittet-papst-um-nordkorea-besuch](https://www.spiegel.de/ausland/g20-gipfel-in-rom-suedkoreas-praesident-bittet-papst-um-nordkorea-besuch-a-1157d8cc-c27a-4eaf-b3f0-1fc4944a55bd#ref=rss)
+### klimagipfel
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-klimagipfel-in-glasgow-corona-infektionen](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-klimagipfel-in-glasgow-corona-infektionen-a-f93b2eed-21c9-43df-a299-1b674bf7d923#ref=rss)
+### airbus
+
+* [https://www.spiegel.de/wirtschaft/service/airbus-laesst-testflugzeug-erstmals-vollstaendig-mit-altem-speiseoel-fliegen](https://www.spiegel.de/wirtschaft/service/airbus-laesst-testflugzeug-erstmals-vollstaendig-mit-altem-speiseoel-fliegen-a-9f5da4dc-e7a7-4cc2-88b2-fc6157c13aa3#ref=rss)
+### weg
+
+* [https://www.spiegel.de/wirtschaft/service/airbus-laesst-testflugzeug-erstmals-vollstaendig-mit-altem-speiseoel-fliegen](https://www.spiegel.de/wirtschaft/service/airbus-laesst-testflugzeug-erstmals-vollstaendig-mit-altem-speiseoel-fliegen-a-9f5da4dc-e7a7-4cc2-88b2-fc6157c13aa3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-suche-nach-neuem-vorsitzenden-planlos-ratlos-mutlos](https://www.spiegel.de/politik/deutschland/cdu-suche-nach-neuem-vorsitzenden-planlos-ratlos-mutlos-a-49d31eb6-ac85-44fd-8376-ffe3a0aa9eb9#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/ausland/joe-biden-und-emmanuel-macron-ueber-den-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-und-emmanuel-macron-ueber-den-g20-gipfel-a-a6f4310e-d9e3-4829-83cf-85c423f22dfa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-suche-nach-neuem-vorsitzenden-planlos-ratlos-mutlos](https://www.spiegel.de/politik/deutschland/cdu-suche-nach-neuem-vorsitzenden-planlos-ratlos-mutlos-a-49d31eb6-ac85-44fd-8376-ffe3a0aa9eb9#ref=rss)
+### papst
+
+* [https://www.spiegel.de/ausland/g20-gipfel-in-rom-suedkoreas-praesident-bittet-papst-um-nordkorea-besuch](https://www.spiegel.de/ausland/g20-gipfel-in-rom-suedkoreas-praesident-bittet-papst-um-nordkorea-besuch-a-1157d8cc-c27a-4eaf-b3f0-1fc4944a55bd#ref=rss)
+### franziskus
+
+* [https://www.spiegel.de/ausland/g20-gipfel-in-rom-suedkoreas-praesident-bittet-papst-um-nordkorea-besuch](https://www.spiegel.de/ausland/g20-gipfel-in-rom-suedkoreas-praesident-bittet-papst-um-nordkorea-besuch-a-1157d8cc-c27a-4eaf-b3f0-1fc4944a55bd#ref=rss)
+### holzbörse
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/holzboerse-im-muensterland-wie-tecklenburg-dem-chinesischen-holzhunger-trotzt](https://www.spiegel.de/wirtschaft/unternehmen/holzboerse-im-muensterland-wie-tecklenburg-dem-chinesischen-holzhunger-trotzt-a-2a0af59a-8db0-4f5e-9f33-6e40a56fce9f#ref=rss)
+### münsterland
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/holzboerse-im-muensterland-wie-tecklenburg-dem-chinesischen-holzhunger-trotzt](https://www.spiegel.de/wirtschaft/unternehmen/holzboerse-im-muensterland-wie-tecklenburg-dem-chinesischen-holzhunger-trotzt-a-2a0af59a-8db0-4f5e-9f33-6e40a56fce9f#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/holzboerse-im-muensterland-wie-tecklenburg-dem-chinesischen-holzhunger-trotzt](https://www.spiegel.de/wirtschaft/unternehmen/holzboerse-im-muensterland-wie-tecklenburg-dem-chinesischen-holzhunger-trotzt-a-2a0af59a-8db0-4f5e-9f33-6e40a56fce9f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-is-rueckkehrerin-kim-teresa-a-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-is-rueckkehrerin-kim-teresa-a-zu-vier-jahren-haft-verurteilt-a-db32f472-7274-4bfc-80ed-dcc6967a617e#ref=rss)
+### 300
+
+* [https://www.spiegel.de/politik/deutschland/cdu-suche-nach-neuem-vorsitzenden-planlos-ratlos-mutlos](https://www.spiegel.de/politik/deutschland/cdu-suche-nach-neuem-vorsitzenden-planlos-ratlos-mutlos-a-49d31eb6-ac85-44fd-8376-ffe3a0aa9eb9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dormagen-halloween-ist-kein-volksfest-party-gekippt](https://www.spiegel.de/panorama/justiz/dormagen-halloween-ist-kein-volksfest-party-gekippt-a-2bf6ac82-0e55-496d-b7a5-18fcf7fcb43e#ref=rss)
+### kim
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-is-rueckkehrerin-kim-teresa-a-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-is-rueckkehrerin-kim-teresa-a-zu-vier-jahren-haft-verurteilt-a-db32f472-7274-4bfc-80ed-dcc6967a617e#ref=rss)
+### teresa
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-is-rueckkehrerin-kim-teresa-a-zu-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-is-rueckkehrerin-kim-teresa-a-zu-vier-jahren-haft-verurteilt-a-db32f472-7274-4bfc-80ed-dcc6967a617e#ref=rss)
+### teslachef
+
+* [https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar](https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar-a-3ab07963-f345-45d2-b8b8-8669706619cc#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar](https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar-a-3ab07963-f345-45d2-b8b8-8669706619cc#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar](https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar-a-3ab07963-f345-45d2-b8b8-8669706619cc#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar](https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar-a-3ab07963-f345-45d2-b8b8-8669706619cc#ref=rss)
+### nacht
+
+* [https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar](https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar-a-3ab07963-f345-45d2-b8b8-8669706619cc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dormagen-halloween-ist-kein-volksfest-party-gekippt](https://www.spiegel.de/panorama/justiz/dormagen-halloween-ist-kein-volksfest-party-gekippt-a-2bf6ac82-0e55-496d-b7a5-18fcf7fcb43e#ref=rss)
+### führt
+
+* [https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar](https://www.spiegel.de/wirtschaft/tesla-chef-elon-musks-vermoegen-springt-ueber-302-milliarden-dollar-a-3ab07963-f345-45d2-b8b8-8669706619cc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gil-ofarim-und-hotelmitarbeiter-erhalten-zahlreiche-hassnachrichten](https://www.spiegel.de/panorama/justiz/gil-ofarim-und-hotelmitarbeiter-erhalten-zahlreiche-hassnachrichten-a-aef4a4a4-6e26-4275-b4e5-be5e92f9db47#ref=rss)
+### tippen
+
+* [https://www.spiegel.de/sport/fussball/die-5-0-helden-kehren-zurueck](https://www.spiegel.de/sport/fussball/die-5-0-helden-kehren-zurueck-a-78e59aa1-6c29-4ced-9e53-cd78a916014d#ref=rss)
+### fanexperten
+
+* [https://www.spiegel.de/sport/fussball/die-5-0-helden-kehren-zurueck](https://www.spiegel.de/sport/fussball/die-5-0-helden-kehren-zurueck-a-78e59aa1-6c29-4ced-9e53-cd78a916014d#ref=rss)
+### spieltag
+
+* [https://www.spiegel.de/sport/fussball/die-5-0-helden-kehren-zurueck](https://www.spiegel.de/sport/fussball/die-5-0-helden-kehren-zurueck-a-78e59aa1-6c29-4ced-9e53-cd78a916014d#ref=rss)
+### rumänien
+
+* [https://www.spiegel.de/ausland/eu-schickt-aerzte-und-ausruestung-wegen-corona-notlage-nach-rumaenien](https://www.spiegel.de/ausland/eu-schickt-aerzte-und-ausruestung-wegen-corona-notlage-nach-rumaenien-a-fd9c5099-39f7-4b9d-a9a3-c5830b31086e#ref=rss)
+### europaparlament
+
+* [https://www.spiegel.de/politik/deutschland/europaparlament-verklagt-eu-kommission-wegen-untaetigkeit](https://www.spiegel.de/politik/deutschland/europaparlament-verklagt-eu-kommission-wegen-untaetigkeit-a-aeec866e-3c40-476f-88d7-73deebb9b265#ref=rss)
+### eukommission
+
+* [https://www.spiegel.de/politik/deutschland/europaparlament-verklagt-eu-kommission-wegen-untaetigkeit](https://www.spiegel.de/politik/deutschland/europaparlament-verklagt-eu-kommission-wegen-untaetigkeit-a-aeec866e-3c40-476f-88d7-73deebb9b265#ref=rss)
+### untätigkeit
+
+* [https://www.spiegel.de/politik/deutschland/europaparlament-verklagt-eu-kommission-wegen-untaetigkeit](https://www.spiegel.de/politik/deutschland/europaparlament-verklagt-eu-kommission-wegen-untaetigkeit-a-aeec866e-3c40-476f-88d7-73deebb9b265#ref=rss)
+### dormagen
+
+* [https://www.spiegel.de/panorama/justiz/dormagen-halloween-ist-kein-volksfest-party-gekippt](https://www.spiegel.de/panorama/justiz/dormagen-halloween-ist-kein-volksfest-party-gekippt-a-2bf6ac82-0e55-496d-b7a5-18fcf7fcb43e#ref=rss)
+### gil
+
+* [https://www.spiegel.de/panorama/justiz/gil-ofarim-und-hotelmitarbeiter-erhalten-zahlreiche-hassnachrichten](https://www.spiegel.de/panorama/justiz/gil-ofarim-und-hotelmitarbeiter-erhalten-zahlreiche-hassnachrichten-a-aef4a4a4-6e26-4275-b4e5-be5e92f9db47#ref=rss)
+### ofarim
+
+* [https://www.spiegel.de/panorama/justiz/gil-ofarim-und-hotelmitarbeiter-erhalten-zahlreiche-hassnachrichten](https://www.spiegel.de/panorama/justiz/gil-ofarim-und-hotelmitarbeiter-erhalten-zahlreiche-hassnachrichten-a-aef4a4a4-6e26-4275-b4e5-be5e92f9db47#ref=rss)
+### hotelmitarbeiter
+
+* [https://www.spiegel.de/panorama/justiz/gil-ofarim-und-hotelmitarbeiter-erhalten-zahlreiche-hassnachrichten](https://www.spiegel.de/panorama/justiz/gil-ofarim-und-hotelmitarbeiter-erhalten-zahlreiche-hassnachrichten-a-aef4a4a4-6e26-4275-b4e5-be5e92f9db47#ref=rss)
+### erhalten
+
+* [https://www.spiegel.de/panorama/justiz/gil-ofarim-und-hotelmitarbeiter-erhalten-zahlreiche-hassnachrichten](https://www.spiegel.de/panorama/justiz/gil-ofarim-und-hotelmitarbeiter-erhalten-zahlreiche-hassnachrichten-a-aef4a4a4-6e26-4275-b4e5-be5e92f9db47#ref=rss)
+### zahlreiche
+
+* [https://www.spiegel.de/panorama/justiz/gil-ofarim-und-hotelmitarbeiter-erhalten-zahlreiche-hassnachrichten](https://www.spiegel.de/panorama/justiz/gil-ofarim-und-hotelmitarbeiter-erhalten-zahlreiche-hassnachrichten-a-aef4a4a4-6e26-4275-b4e5-be5e92f9db47#ref=rss)
+### belarus
+
+* [https://www.spiegel.de/ausland/belarus-sperrt-internetseite-der-deutschen-welle](https://www.spiegel.de/ausland/belarus-sperrt-internetseite-der-deutschen-welle-a-4b94a13c-58f0-4224-a09b-7522b564799c#ref=rss)
+### welle
+
+* [https://www.spiegel.de/ausland/belarus-sperrt-internetseite-der-deutschen-welle](https://www.spiegel.de/ausland/belarus-sperrt-internetseite-der-deutschen-welle-a-4b94a13c-58f0-4224-a09b-7522b564799c#ref=rss)
 
