@@ -6,274 +6,330 @@ tags: __no_header__
 
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/uebersterblichkeit-dialysekonzern-fmc-streicht-5000-jobs-weil-patienten-mit-covid-19-versterben](https://www.spiegel.de/wirtschaft/unternehmen/uebersterblichkeit-dialysekonzern-fmc-streicht-5000-jobs-weil-patienten-mit-covid-19-versterben-a-f9ec5695-cb0b-42c6-87e5-3cd08cee1a20#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/renten-sollen-offenbar-um-mehr-als-fuenf-prozent-steigen](https://www.spiegel.de/wirtschaft/service/renten-sollen-offenbar-um-mehr-als-fuenf-prozent-steigen-a-4185d85a-d01b-46f3-bcd2-cba587ee888c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/frankfurter-flughafen-rechnet-mit-hohem-andrang-wegen-us-fluegen](https://www.spiegel.de/wirtschaft/unternehmen/frankfurter-flughafen-rechnet-mit-hohem-andrang-wegen-us-fluegen-a-ad7e577e-4275-40b1-9e96-96c8a5aa3185#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/yahoo-zieht-sich-endgueltig-aus-china-zurueck](https://www.spiegel.de/netzwelt/netzpolitik/yahoo-zieht-sich-endgueltig-aus-china-zurueck-a-2f465837-48a4-4b40-bcb2-e6d5e9ac2c11#ref=rss)
-### zwei
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet-a-66b9e3ee-33b9-41b4-b5a1-8e89beb60fdf#ref=rss)
+* [https://www.spiegel.de/gesundheit/jens-spahn-und-rki-chef-wieler-ueber-booster-coronaimpfungen](https://www.spiegel.de/gesundheit/jens-spahn-und-rki-chef-wieler-ueber-booster-coronaimpfungen-a-6ff91b81-87f7-4cdd-a85f-5c39902743c6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/co-abgabe-so-stark-wuerden-mieter-durch-die-vermieter-beteiligung-entlastet](https://www.spiegel.de/wirtschaft/service/co-abgabe-so-stark-wuerden-mieter-durch-die-vermieter-beteiligung-entlastet-a-2b7f854b-472b-444c-ab4d-8d5e72fd5a11#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt](https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt-a-6a856a66-bfdd-43d5-883e-d5f9bfb74eae#ref=rss)
+### virginia
 
-* [https://www.spiegel.de/ausland/aethiopische-regierung-ruft-buerger-zu-verteidigung-der-hauptstadt-aus](https://www.spiegel.de/ausland/aethiopische-regierung-ruft-buerger-zu-verteidigung-der-hauptstadt-aus-a-45f0d28f-60d2-4d2e-8c54-0e99c0f54dc8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt](https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt-a-2735e858-084c-46b8-bfd2-7d5cf5622087#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-geben-selfie-mit-ermordeten-zu](https://www.spiegel.de/panorama/justiz/london-polizisten-geben-selfie-mit-ermordeten-zu-a-9088470b-10ee-4642-af4b-4e49e2d109c0#ref=rss)
-### unter
+* [https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden](https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden-a-86eda184-10ec-4976-90b4-f97890408ba1#ref=rss)
+* [https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste](https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste-a-a3b198f2-1c4c-4e5d-b497-7a8fc64f883d#ref=rss)
+### new
 
-* [https://www.spiegel.de/wirtschaft/service/renten-sollen-offenbar-um-mehr-als-fuenf-prozent-steigen](https://www.spiegel.de/wirtschaft/service/renten-sollen-offenbar-um-mehr-als-fuenf-prozent-steigen-a-4185d85a-d01b-46f3-bcd2-cba587ee888c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-das-sind-die-suender-und-musterschueler-der-klimapolitik](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-das-sind-die-suender-und-musterschueler-der-klimapolitik-a-ad06bed0-2bb3-4523-90b4-9b16b1588bbb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt](https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt-a-2735e858-084c-46b8-bfd2-7d5cf5622087#ref=rss)
-### kinder
+* [https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann](https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann-a-b7c7f06a-3fc8-42d6-b191-bb526a31d5c7#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister](https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister-a-bdff356b-c63c-44d3-8195-cbcdee304a17#ref=rss)
+### eric
 
-* [https://www.spiegel.de/politik/deutschland/news-wird-saskia-esken-ministerin-wann-kommt-die-corona-impfung-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-wird-saskia-esken-ministerin-wann-kommt-die-corona-impfung-fuer-kinder-a-5d8b2516-66e5-44a4-8666-d1a2583fe300#ref=rss)
-* [https://www.spiegel.de/stil/social-design-award-2021-das-sind-die-gewinner](https://www.spiegel.de/stil/social-design-award-2021-das-sind-die-gewinner-a-bad6f17d-9605-45fe-8550-aa5fe4e276b8#ref=rss)
-### corona
+* [https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann](https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann-a-b7c7f06a-3fc8-42d6-b191-bb526a31d5c7#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister](https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister-a-bdff356b-c63c-44d3-8195-cbcdee304a17#ref=rss)
+### adams
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/uebersterblichkeit-dialysekonzern-fmc-streicht-5000-jobs-weil-patienten-mit-covid-19-versterben](https://www.spiegel.de/wirtschaft/unternehmen/uebersterblichkeit-dialysekonzern-fmc-streicht-5000-jobs-weil-patienten-mit-covid-19-versterben-a-f9ec5695-cb0b-42c6-87e5-3cd08cee1a20#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/impfzentren-sollen-wieder-in-betrieb-genommen-werden](https://www.spiegel.de/politik/deutschland/impfzentren-sollen-wieder-in-betrieb-genommen-werden-a-d1d4a8e9-efb2-4238-85a5-ff425553340e#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann](https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann-a-b7c7f06a-3fc8-42d6-b191-bb526a31d5c7#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister](https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister-a-bdff356b-c63c-44d3-8195-cbcdee304a17#ref=rss)
 ### bürgermeister
 
-* [https://www.spiegel.de/panorama/gesellschaft/rom-will-sich-rausputzen-buergermeister-roberto-gualtieri-geht-muellproblem-an](https://www.spiegel.de/panorama/gesellschaft/rom-will-sich-rausputzen-buergermeister-roberto-gualtieri-geht-muellproblem-an-a-507a3e24-2c14-4c14-9e1c-871fab9a5f63#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/gesellschaft/rom-will-sich-rausputzen-buergermeister-roberto-gualtieri-geht-muellproblem-an](https://www.spiegel.de/panorama/gesellschaft/rom-will-sich-rausputzen-buergermeister-roberto-gualtieri-geht-muellproblem-an-a-507a3e24-2c14-4c14-9e1c-871fab9a5f63#ref=rss)
-* [https://www.spiegel.de/politik/armin-laschet-cdu-fuehrung-aeussert-sich-zu-nachfolger-im-livestream](https://www.spiegel.de/politik/armin-laschet-cdu-fuehrung-aeussert-sich-zu-nachfolger-im-livestream-a-62dfc7e5-2359-4206-8195-e585beb67e2d#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/gesellschaft/rom-will-sich-rausputzen-buergermeister-roberto-gualtieri-geht-muellproblem-an](https://www.spiegel.de/panorama/gesellschaft/rom-will-sich-rausputzen-buergermeister-roberto-gualtieri-geht-muellproblem-an-a-507a3e24-2c14-4c14-9e1c-871fab9a5f63#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/thomas-drach-weitere-anklage-gegen-frueheren-reemtsma-entfuehrer](https://www.spiegel.de/panorama/justiz/thomas-drach-weitere-anklage-gegen-frueheren-reemtsma-entfuehrer-a-6d3f662e-05e2-4aec-8bc0-df3bcc325afc#ref=rss)
-### oetker
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/oetker-familienkonzern-wird-nach-streit-aufgeteilt](https://www.spiegel.de/wirtschaft/unternehmen/oetker-familienkonzern-wird-nach-streit-aufgeteilt-a-316e9739-2d88-4ac4-8b17-dbabe9453d7b#ref=rss)
-### streit
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/oetker-familienkonzern-wird-nach-streit-aufgeteilt](https://www.spiegel.de/wirtschaft/unternehmen/oetker-familienkonzern-wird-nach-streit-aufgeteilt-a-316e9739-2d88-4ac4-8b17-dbabe9453d7b#ref=rss)
-* [https://www.spiegel.de/ausland/streit-ueber-u-boot-abkommen-sms-heizt-konflikt-zwischen-australien-und-frankreich-an](https://www.spiegel.de/ausland/streit-ueber-u-boot-abkommen-sms-heizt-konflikt-zwischen-australien-und-frankreich-an-a-9aa5a277-d2e1-487e-aa76-85a9597edd9c#ref=rss)
-### familie
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/oetker-familienkonzern-wird-nach-streit-aufgeteilt](https://www.spiegel.de/wirtschaft/unternehmen/oetker-familienkonzern-wird-nach-streit-aufgeteilt-a-316e9739-2d88-4ac4-8b17-dbabe9453d7b#ref=rss)
-* [https://www.spiegel.de/kultur/alec-baldwin-veroeffentlicht-halloween-fotos-der-ich-poste-das-mal-fix-reflex](https://www.spiegel.de/kultur/alec-baldwin-veroeffentlicht-halloween-fotos-der-ich-poste-das-mal-fix-reflex-a-44b1bbf4-b5ee-454a-872e-7e9c4605aff0#ref=rss)
-### bekommt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/oetker-familienkonzern-wird-nach-streit-aufgeteilt](https://www.spiegel.de/wirtschaft/unternehmen/oetker-familienkonzern-wird-nach-streit-aufgeteilt-a-316e9739-2d88-4ac4-8b17-dbabe9453d7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/tarifkonflikt-verdi-will-streiks-im-oeffentlichen-dienst-der-laender-ausweiten](https://www.spiegel.de/wirtschaft/soziales/tarifkonflikt-verdi-will-streiks-im-oeffentlichen-dienst-der-laender-ausweiten-a-f7b7e987-d9fd-4f23-a04e-c19b81ba3435#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/oetker-familienkonzern-wird-nach-streit-aufgeteilt](https://www.spiegel.de/wirtschaft/unternehmen/oetker-familienkonzern-wird-nach-streit-aufgeteilt-a-316e9739-2d88-4ac4-8b17-dbabe9453d7b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-das-sind-die-suender-und-musterschueler-der-klimapolitik](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-das-sind-die-suender-und-musterschueler-der-klimapolitik-a-ad06bed0-2bb3-4523-90b4-9b16b1588bbb#ref=rss)
-### tottenham
-
-* [https://www.spiegel.de/sport/fussball/tottenham-hotspur-verpflichtet-trainer-antonio-conte-im-zweiten-versuch](https://www.spiegel.de/sport/fussball/tottenham-hotspur-verpflichtet-trainer-antonio-conte-im-zweiten-versuch-a-5cdc3951-5533-4cba-8131-14ca35a58063#ref=rss)
-### hotspur
-
-* [https://www.spiegel.de/sport/fussball/tottenham-hotspur-verpflichtet-trainer-antonio-conte-im-zweiten-versuch](https://www.spiegel.de/sport/fussball/tottenham-hotspur-verpflichtet-trainer-antonio-conte-im-zweiten-versuch-a-5cdc3951-5533-4cba-8131-14ca35a58063#ref=rss)
-### antonio
-
-* [https://www.spiegel.de/sport/fussball/tottenham-hotspur-verpflichtet-trainer-antonio-conte-im-zweiten-versuch](https://www.spiegel.de/sport/fussball/tottenham-hotspur-verpflichtet-trainer-antonio-conte-im-zweiten-versuch-a-5cdc3951-5533-4cba-8131-14ca35a58063#ref=rss)
-### conte
-
-* [https://www.spiegel.de/sport/fussball/tottenham-hotspur-verpflichtet-trainer-antonio-conte-im-zweiten-versuch](https://www.spiegel.de/sport/fussball/tottenham-hotspur-verpflichtet-trainer-antonio-conte-im-zweiten-versuch-a-5cdc3951-5533-4cba-8131-14ca35a58063#ref=rss)
-### impfzentren
-
-* [https://www.spiegel.de/politik/deutschland/impfzentren-sollen-wieder-in-betrieb-genommen-werden](https://www.spiegel.de/politik/deutschland/impfzentren-sollen-wieder-in-betrieb-genommen-werden-a-d1d4a8e9-efb2-4238-85a5-ff425553340e#ref=rss)
-### genommen
-
-* [https://www.spiegel.de/politik/deutschland/impfzentren-sollen-wieder-in-betrieb-genommen-werden](https://www.spiegel.de/politik/deutschland/impfzentren-sollen-wieder-in-betrieb-genommen-werden-a-d1d4a8e9-efb2-4238-85a5-ff425553340e#ref=rss)
-* [https://www.spiegel.de/kultur/kreativwirtschaft-schliesst-historisches-buendnis](https://www.spiegel.de/kultur/kreativwirtschaft-schliesst-historisches-buendnis-a-d5a4167d-4a36-45e2-9789-33c056c771e7#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/service/renten-sollen-offenbar-um-mehr-als-fuenf-prozent-steigen](https://www.spiegel.de/wirtschaft/service/renten-sollen-offenbar-um-mehr-als-fuenf-prozent-steigen-a-4185d85a-d01b-46f3-bcd2-cba587ee888c#ref=rss)
-* [https://www.spiegel.de/sport/olympia-2024-in-paris-reiten-soll-aus-dem-programm-des-modernen-fuenfkampfs-fallen](https://www.spiegel.de/sport/olympia-2024-in-paris-reiten-soll-aus-dem-programm-des-modernen-fuenfkampfs-fallen-a-fc599d86-6fe5-4da1-bf3e-3c789a3ae868#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/wirtschaft/service/renten-sollen-offenbar-um-mehr-als-fuenf-prozent-steigen](https://www.spiegel.de/wirtschaft/service/renten-sollen-offenbar-um-mehr-als-fuenf-prozent-steigen-a-4185d85a-d01b-46f3-bcd2-cba587ee888c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-der-methan-pakt-ist-der-erste-durchbruch-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-der-methan-pakt-ist-der-erste-durchbruch-von-glasgow-a-682c92b6-66c7-4a0d-9851-2987a96de320#ref=rss)
-### attila
-
-* [https://www.spiegel.de/panorama/attila-hildmann-im-exklusiv-interview-eine-rueckkehr-wird-vorerst-nicht-moeglich-sein-spiegel-tv](https://www.spiegel.de/panorama/attila-hildmann-im-exklusiv-interview-eine-rueckkehr-wird-vorerst-nicht-moeglich-sein-spiegel-tv-a-2a697365-1f84-4521-b098-9c3516cdeb71#ref=rss)
-### hildmann
-
-* [https://www.spiegel.de/panorama/attila-hildmann-im-exklusiv-interview-eine-rueckkehr-wird-vorerst-nicht-moeglich-sein-spiegel-tv](https://www.spiegel.de/panorama/attila-hildmann-im-exklusiv-interview-eine-rueckkehr-wird-vorerst-nicht-moeglich-sein-spiegel-tv-a-2a697365-1f84-4521-b098-9c3516cdeb71#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/panorama/attila-hildmann-im-exklusiv-interview-eine-rueckkehr-wird-vorerst-nicht-moeglich-sein-spiegel-tv](https://www.spiegel.de/panorama/attila-hildmann-im-exklusiv-interview-eine-rueckkehr-wird-vorerst-nicht-moeglich-sein-spiegel-tv-a-2a697365-1f84-4521-b098-9c3516cdeb71#ref=rss)
-* [https://www.spiegel.de/stil/social-design-award-2021-das-sind-die-gewinner](https://www.spiegel.de/stil/social-design-award-2021-das-sind-die-gewinner-a-bad6f17d-9605-45fe-8550-aa5fe4e276b8#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/justiz/airport-hamburg-im-flugzeug-gestorbener-passagier-hatte-vollstaendige-impfbestaetigung](https://www.spiegel.de/panorama/justiz/airport-hamburg-im-flugzeug-gestorbener-passagier-hatte-vollstaendige-impfbestaetigung-a-b8777cb8-1480-4f33-81cd-c5e963dcf1b9#ref=rss)
-### geäußert
-
-* [https://www.spiegel.de/panorama/justiz/airport-hamburg-im-flugzeug-gestorbener-passagier-hatte-vollstaendige-impfbestaetigung](https://www.spiegel.de/panorama/justiz/airport-hamburg-im-flugzeug-gestorbener-passagier-hatte-vollstaendige-impfbestaetigung-a-b8777cb8-1480-4f33-81cd-c5e963dcf1b9#ref=rss)
-* [https://www.spiegel.de/politik/coronavirus-angela-merkel-warnt-vor-weiteren-einschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/politik/coronavirus-angela-merkel-warnt-vor-weiteren-einschraenkungen-fuer-ungeimpfte-a-087a6d4b-35cf-4fde-8ec1-304a30b272ec#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/panorama/justiz/airport-hamburg-im-flugzeug-gestorbener-passagier-hatte-vollstaendige-impfbestaetigung](https://www.spiegel.de/panorama/justiz/airport-hamburg-im-flugzeug-gestorbener-passagier-hatte-vollstaendige-impfbestaetigung-a-b8777cb8-1480-4f33-81cd-c5e963dcf1b9#ref=rss)
-* [https://www.spiegel.de/politik/coronavirus-angela-merkel-warnt-vor-weiteren-einschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/politik/coronavirus-angela-merkel-warnt-vor-weiteren-einschraenkungen-fuer-ungeimpfte-a-087a6d4b-35cf-4fde-8ec1-304a30b272ec#ref=rss)
-### coronaimpfung
-
-* [https://www.spiegel.de/politik/deutschland/news-wird-saskia-esken-ministerin-wann-kommt-die-corona-impfung-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-wird-saskia-esken-ministerin-wann-kommt-die-corona-impfung-fuer-kinder-a-5d8b2516-66e5-44a4-8666-d1a2583fe300#ref=rss)
-### frankfurter
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/frankfurter-flughafen-rechnet-mit-hohem-andrang-wegen-us-fluegen](https://www.spiegel.de/wirtschaft/unternehmen/frankfurter-flughafen-rechnet-mit-hohem-andrang-wegen-us-fluegen-a-ad7e577e-4275-40b1-9e96-96c8a5aa3185#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/frankfurter-flughafen-rechnet-mit-hohem-andrang-wegen-us-fluegen](https://www.spiegel.de/wirtschaft/unternehmen/frankfurter-flughafen-rechnet-mit-hohem-andrang-wegen-us-fluegen-a-ad7e577e-4275-40b1-9e96-96c8a5aa3185#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/frankfurter-flughafen-rechnet-mit-hohem-andrang-wegen-us-fluegen](https://www.spiegel.de/wirtschaft/unternehmen/frankfurter-flughafen-rechnet-mit-hohem-andrang-wegen-us-fluegen-a-ad7e577e-4275-40b1-9e96-96c8a5aa3185#ref=rss)
-* [https://www.spiegel.de/politik/coronavirus-angela-merkel-warnt-vor-weiteren-einschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/politik/coronavirus-angela-merkel-warnt-vor-weiteren-einschraenkungen-fuer-ungeimpfte-a-087a6d4b-35cf-4fde-8ec1-304a30b272ec#ref=rss)
-### unoklimakonferenz
-
-* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-das-sind-die-suender-und-musterschueler-der-klimapolitik](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-das-sind-die-suender-und-musterschueler-der-klimapolitik-a-ad06bed0-2bb3-4523-90b4-9b16b1588bbb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-der-methan-pakt-ist-der-erste-durchbruch-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-der-methan-pakt-ist-der-erste-durchbruch-von-glasgow-a-682c92b6-66c7-4a0d-9851-2987a96de320#ref=rss)
-### staaten
-
-* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-das-sind-die-suender-und-musterschueler-der-klimapolitik](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-das-sind-die-suender-und-musterschueler-der-klimapolitik-a-ad06bed0-2bb3-4523-90b4-9b16b1588bbb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-der-methan-pakt-ist-der-erste-durchbruch-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-der-methan-pakt-ist-der-erste-durchbruch-von-glasgow-a-682c92b6-66c7-4a0d-9851-2987a96de320#ref=rss)
-### glasgow
-
-* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-der-methan-pakt-ist-der-erste-durchbruch-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-der-methan-pakt-ist-der-erste-durchbruch-von-glasgow-a-682c92b6-66c7-4a0d-9851-2987a96de320#ref=rss)
-### methanpakt
-
-* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-der-methan-pakt-ist-der-erste-durchbruch-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-der-methan-pakt-ist-der-erste-durchbruch-von-glasgow-a-682c92b6-66c7-4a0d-9851-2987a96de320#ref=rss)
-### ubootabkommen
-
-* [https://www.spiegel.de/ausland/streit-ueber-u-boot-abkommen-sms-heizt-konflikt-zwischen-australien-und-frankreich-an](https://www.spiegel.de/ausland/streit-ueber-u-boot-abkommen-sms-heizt-konflikt-zwischen-australien-und-frankreich-an-a-9aa5a277-d2e1-487e-aa76-85a9597edd9c#ref=rss)
-### sms
-
-* [https://www.spiegel.de/ausland/streit-ueber-u-boot-abkommen-sms-heizt-konflikt-zwischen-australien-und-frankreich-an](https://www.spiegel.de/ausland/streit-ueber-u-boot-abkommen-sms-heizt-konflikt-zwischen-australien-und-frankreich-an-a-9aa5a277-d2e1-487e-aa76-85a9597edd9c#ref=rss)
-### australien
-
-* [https://www.spiegel.de/ausland/streit-ueber-u-boot-abkommen-sms-heizt-konflikt-zwischen-australien-und-frankreich-an](https://www.spiegel.de/ausland/streit-ueber-u-boot-abkommen-sms-heizt-konflikt-zwischen-australien-und-frankreich-an-a-9aa5a277-d2e1-487e-aa76-85a9597edd9c#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/streit-ueber-u-boot-abkommen-sms-heizt-konflikt-zwischen-australien-und-frankreich-an](https://www.spiegel.de/ausland/streit-ueber-u-boot-abkommen-sms-heizt-konflikt-zwischen-australien-und-frankreich-an-a-9aa5a277-d2e1-487e-aa76-85a9597edd9c#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/streit-ueber-u-boot-abkommen-sms-heizt-konflikt-zwischen-australien-und-frankreich-an](https://www.spiegel.de/ausland/streit-ueber-u-boot-abkommen-sms-heizt-konflikt-zwischen-australien-und-frankreich-an-a-9aa5a277-d2e1-487e-aa76-85a9597edd9c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt](https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt-a-2735e858-084c-46b8-bfd2-7d5cf5622087#ref=rss)
-### bürger
-
-* [https://www.spiegel.de/ausland/aethiopische-regierung-ruft-buerger-zu-verteidigung-der-hauptstadt-aus](https://www.spiegel.de/ausland/aethiopische-regierung-ruft-buerger-zu-verteidigung-der-hauptstadt-aus-a-45f0d28f-60d2-4d2e-8c54-0e99c0f54dc8#ref=rss)
-### hauptstadt
-
-* [https://www.spiegel.de/ausland/aethiopische-regierung-ruft-buerger-zu-verteidigung-der-hauptstadt-aus](https://www.spiegel.de/ausland/aethiopische-regierung-ruft-buerger-zu-verteidigung-der-hauptstadt-aus-a-45f0d28f-60d2-4d2e-8c54-0e99c0f54dc8#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/coronavirus-angela-merkel-warnt-vor-weiteren-einschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/politik/coronavirus-angela-merkel-warnt-vor-weiteren-einschraenkungen-fuer-ungeimpfte-a-087a6d4b-35cf-4fde-8ec1-304a30b272ec#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/coronavirus-angela-merkel-warnt-vor-weiteren-einschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/politik/coronavirus-angela-merkel-warnt-vor-weiteren-einschraenkungen-fuer-ungeimpfte-a-087a6d4b-35cf-4fde-8ec1-304a30b272ec#ref=rss)
-### einschränkungen
-
-* [https://www.spiegel.de/politik/coronavirus-angela-merkel-warnt-vor-weiteren-einschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/politik/coronavirus-angela-merkel-warnt-vor-weiteren-einschraenkungen-fuer-ungeimpfte-a-087a6d4b-35cf-4fde-8ec1-304a30b272ec#ref=rss)
-### nelson
-
-* [https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben-a-c9d6cefc-fcb6-4c38-881e-ec2900e4b9e8#ref=rss)
-### freire
-
-* [https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben-a-c9d6cefc-fcb6-4c38-881e-ec2900e4b9e8#ref=rss)
-### alter
-
-* [https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben-a-c9d6cefc-fcb6-4c38-881e-ec2900e4b9e8#ref=rss)
-### 77
-
-* [https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben-a-c9d6cefc-fcb6-4c38-881e-ec2900e4b9e8#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann](https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann-a-b7c7f06a-3fc8-42d6-b191-bb526a31d5c7#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister](https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister-a-bdff356b-c63c-44d3-8195-cbcdee304a17#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben-a-c9d6cefc-fcb6-4c38-881e-ec2900e4b9e8#ref=rss)
-### gestorben
+* [https://www.spiegel.de/panorama/bildung/netflix-serie-squid-game-eltern-sollten-altersfreigabe-beachten](https://www.spiegel.de/panorama/bildung/netflix-serie-squid-game-eltern-sollten-altersfreigabe-beachten-a-244d135c-751b-4a10-99db-9f83d512a4a6#ref=rss)
+* [https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series](https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series-a-704044c0-17e9-4bd4-bd02-cfa80d89c659#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-streit-um-die-booster-impfung-10-jahre-nsu-erfolg-beim-klimagipfel](https://www.spiegel.de/politik/deutschland/news-streit-um-die-booster-impfung-10-jahre-nsu-erfolg-beim-klimagipfel-a-a6ee20b0-da8c-440f-97d4-8be0cf4fb34f#ref=rss)
+### laut
 
-* [https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben-a-c9d6cefc-fcb6-4c38-881e-ec2900e4b9e8#ref=rss)
-### jahre
+* [https://www.spiegel.de/ausland/uno-untersuchung-schwere-menschenrechtsverletzungen-im-tigray-konflikt](https://www.spiegel.de/ausland/uno-untersuchung-schwere-menschenrechtsverletzungen-im-tigray-konflikt-a-b4ce65b2-15cd-4c1f-8639-c4c047547117#ref=rss)
+* [https://www.spiegel.de/ausland/anschlag-auf-krankenhaus-in-kabul-ranghoher-taliban-kommandeur-getoetet](https://www.spiegel.de/ausland/anschlag-auf-krankenhaus-in-kabul-ranghoher-taliban-kommandeur-getoetet-a-b5640460-11e5-4264-8861-4634a730a5cd#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister](https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister-a-bdff356b-c63c-44d3-8195-cbcdee304a17#ref=rss)
+### krise
 
-* [https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben](https://www.spiegel.de/kultur/musik/nelson-freire-brasilianischer-meisterpianist-im-alter-von-77-jahren-gestorben-a-c9d6cefc-fcb6-4c38-881e-ec2900e4b9e8#ref=rss)
-* [https://www.spiegel.de/ausland/syrien-yassin-al-haj-saleh-ueber-das-scheitern-der-revolution-war-es-das-wert](https://www.spiegel.de/ausland/syrien-yassin-al-haj-saleh-ueber-das-scheitern-der-revolution-war-es-das-wert-a-2c66ac95-d0f5-408f-bdb0-27e8f3c327b8#ref=rss)
-### yahoo
+* [https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-knapp-20-prozent](https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-knapp-20-prozent-a-24389026-b1a3-4e45-bdc8-a67b23025ff9#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann](https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann-a-b7c7f06a-3fc8-42d6-b191-bb526a31d5c7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-cdu-nach-angela-merke-podcast](https://www.spiegel.de/politik/deutschland/die-cdu-nach-angela-merke-podcast-a-cc5cf424-2734-4582-9878-d642ac6c2fc5#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/yahoo-zieht-sich-endgueltig-aus-china-zurueck](https://www.spiegel.de/netzwelt/netzpolitik/yahoo-zieht-sich-endgueltig-aus-china-zurueck-a-2f465837-48a4-4b40-bcb2-e6d5e9ac2c11#ref=rss)
+* [https://www.spiegel.de/panorama/george-floyd-buerger-in-minneapolis-stimmen-gegen-aufloesung-von-polizeibehoerde](https://www.spiegel.de/panorama/george-floyd-buerger-in-minneapolis-stimmen-gegen-aufloesung-von-polizeibehoerde-a-4755d590-f4cd-4dd5-80a9-518cf246d64c#ref=rss)
+* [https://www.spiegel.de/ausland/anschlag-auf-krankenhaus-in-kabul-ranghoher-taliban-kommandeur-getoetet](https://www.spiegel.de/ausland/anschlag-auf-krankenhaus-in-kabul-ranghoher-taliban-kommandeur-getoetet-a-b5640460-11e5-4264-8861-4634a730a5cd#ref=rss)
+### gouverneurswahl
+
+* [https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden](https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden-a-86eda184-10ec-4976-90b4-f97890408ba1#ref=rss)
+* [https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste](https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste-a-a3b198f2-1c4c-4e5d-b497-7a8fc64f883d#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden](https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden-a-86eda184-10ec-4976-90b4-f97890408ba1#ref=rss)
+* [https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste](https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste-a-a3b198f2-1c4c-4e5d-b497-7a8fc64f883d#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden](https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden-a-86eda184-10ec-4976-90b4-f97890408ba1#ref=rss)
+* [https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste](https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste-a-a3b198f2-1c4c-4e5d-b497-7a8fc64f883d#ref=rss)
+### glenn
+
+* [https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden](https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden-a-86eda184-10ec-4976-90b4-f97890408ba1#ref=rss)
+* [https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste](https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste-a-a3b198f2-1c4c-4e5d-b497-7a8fc64f883d#ref=rss)
+### youngkin
+
+* [https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden](https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden-a-86eda184-10ec-4976-90b4-f97890408ba1#ref=rss)
+* [https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste](https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste-a-a3b198f2-1c4c-4e5d-b497-7a8fc64f883d#ref=rss)
+### york
+
+* [https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann](https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann-a-b7c7f06a-3fc8-42d6-b191-bb526a31d5c7#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister](https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister-a-bdff356b-c63c-44d3-8195-cbcdee304a17#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann](https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann-a-b7c7f06a-3fc8-42d6-b191-bb526a31d5c7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-spd-vorsitz-es-ehrt-mich-sehr-dass-mein-name-genannt-wird](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-spd-vorsitz-es-ehrt-mich-sehr-dass-mein-name-genannt-wird-a-efe595a5-fe0f-4623-85ad-4fa0e24282ac#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/start/besser-schlafen-im-studium-warum-studierende-viel-schlafen-sollten](https://www.spiegel.de/start/besser-schlafen-im-studium-warum-studierende-viel-schlafen-sollten-a-1f993392-c762-4fbe-b96c-e1f1cd300c3a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-streit-um-die-booster-impfung-10-jahre-nsu-erfolg-beim-klimagipfel](https://www.spiegel.de/politik/deutschland/news-streit-um-die-booster-impfung-10-jahre-nsu-erfolg-beim-klimagipfel-a-a6ee20b0-da8c-440f-97d4-8be0cf4fb34f#ref=rss)
+### netflixserie
+
+* [https://www.spiegel.de/panorama/bildung/netflix-serie-squid-game-eltern-sollten-altersfreigabe-beachten](https://www.spiegel.de/panorama/bildung/netflix-serie-squid-game-eltern-sollten-altersfreigabe-beachten-a-244d135c-751b-4a10-99db-9f83d512a4a6#ref=rss)
+### squid
+
+* [https://www.spiegel.de/panorama/bildung/netflix-serie-squid-game-eltern-sollten-altersfreigabe-beachten](https://www.spiegel.de/panorama/bildung/netflix-serie-squid-game-eltern-sollten-altersfreigabe-beachten-a-244d135c-751b-4a10-99db-9f83d512a4a6#ref=rss)
+### game
+
+* [https://www.spiegel.de/panorama/bildung/netflix-serie-squid-game-eltern-sollten-altersfreigabe-beachten](https://www.spiegel.de/panorama/bildung/netflix-serie-squid-game-eltern-sollten-altersfreigabe-beachten-a-244d135c-751b-4a10-99db-9f83d512a4a6#ref=rss)
+### sollten
+
+* [https://www.spiegel.de/panorama/bildung/netflix-serie-squid-game-eltern-sollten-altersfreigabe-beachten](https://www.spiegel.de/panorama/bildung/netflix-serie-squid-game-eltern-sollten-altersfreigabe-beachten-a-244d135c-751b-4a10-99db-9f83d512a4a6#ref=rss)
+* [https://www.spiegel.de/start/besser-schlafen-im-studium-warum-studierende-viel-schlafen-sollten](https://www.spiegel.de/start/besser-schlafen-im-studium-warum-studierende-viel-schlafen-sollten-a-1f993392-c762-4fbe-b96c-e1f1cd300c3a#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/bildung/netflix-serie-squid-game-eltern-sollten-altersfreigabe-beachten](https://www.spiegel.de/panorama/bildung/netflix-serie-squid-game-eltern-sollten-altersfreigabe-beachten-a-244d135c-751b-4a10-99db-9f83d512a4a6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-us-gesundheitsbehoerde-empfiehlt-impfungen-fuer-fuenf-bis-elfjaehrige](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-us-gesundheitsbehoerde-empfiehlt-impfungen-fuer-fuenf-bis-elfjaehrige-a-957f70e7-22a6-443c-89c1-77ea03122e28#ref=rss)
+### belgien
+
+* [https://www.spiegel.de/ausland/belgien-verdacht-auf-rechtsextremismus-kasernen-durchsucht](https://www.spiegel.de/ausland/belgien-verdacht-auf-rechtsextremismus-kasernen-durchsucht-a-abce6cd9-1534-4962-bce6-69093d66dad1#ref=rss)
+### kasernen
+
+* [https://www.spiegel.de/ausland/belgien-verdacht-auf-rechtsextremismus-kasernen-durchsucht](https://www.spiegel.de/ausland/belgien-verdacht-auf-rechtsextremismus-kasernen-durchsucht-a-abce6cd9-1534-4962-bce6-69093d66dad1#ref=rss)
+### acht
+
+* [https://www.spiegel.de/ausland/belgien-verdacht-auf-rechtsextremismus-kasernen-durchsucht](https://www.spiegel.de/ausland/belgien-verdacht-auf-rechtsextremismus-kasernen-durchsucht-a-abce6cd9-1534-4962-bce6-69093d66dad1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kobe-bryant-hinterbliebene-der-opfer-von-hubschrauberabsturz-erhalten-millionensumme](https://www.spiegel.de/panorama/justiz/kobe-bryant-hinterbliebene-der-opfer-von-hubschrauberabsturz-erhalten-millionensumme-a-a3db06bd-da99-483e-8001-df8203b58a9c#ref=rss)
+### unoklimakonferenz
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet-a-66b9e3ee-33b9-41b4-b5a1-8e89beb60fdf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-das-sind-die-schmutzigen-deals-auf-kosten-des-klimas](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-das-sind-die-schmutzigen-deals-auf-kosten-des-klimas-a-1631361f-2a81-4d66-8742-24e494112881#ref=rss)
+### ecuador
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet-a-66b9e3ee-33b9-41b4-b5a1-8e89beb60fdf#ref=rss)
+### kolumbien
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet-a-66b9e3ee-33b9-41b4-b5a1-8e89beb60fdf#ref=rss)
+### costa
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet-a-66b9e3ee-33b9-41b4-b5a1-8e89beb60fdf#ref=rss)
+### rica
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet-a-66b9e3ee-33b9-41b4-b5a1-8e89beb60fdf#ref=rss)
+### panama
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet-a-66b9e3ee-33b9-41b4-b5a1-8e89beb60fdf#ref=rss)
+### gebiet
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-ecuador-kolumbien-costa-rica-und-panama-gruenden-riesiges-meeresschutzgebiet-a-66b9e3ee-33b9-41b4-b5a1-8e89beb60fdf#ref=rss)
+* [https://www.spiegel.de/ausland/syrisches-staatsfernsehen-israel-greift-gebiet-bei-damaskus-mit-raketen-an](https://www.spiegel.de/ausland/syrisches-staatsfernsehen-israel-greift-gebiet-bei-damaskus-mit-raketen-an-a-78e38e6d-cc0a-4ed3-882a-afc9bde88c02#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/gesundheit/jens-spahn-und-rki-chef-wieler-ueber-booster-coronaimpfungen](https://www.spiegel.de/gesundheit/jens-spahn-und-rki-chef-wieler-ueber-booster-coronaimpfungen-a-6ff91b81-87f7-4cdd-a85f-5c39902743c6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kobe-bryant-hinterbliebene-der-opfer-von-hubschrauberabsturz-erhalten-millionensumme](https://www.spiegel.de/panorama/justiz/kobe-bryant-hinterbliebene-der-opfer-von-hubschrauberabsturz-erhalten-millionensumme-a-a3db06bd-da99-483e-8001-df8203b58a9c#ref=rss)
+### coronalage
+
+* [https://www.spiegel.de/gesundheit/jens-spahn-und-rki-chef-wieler-ueber-booster-coronaimpfungen](https://www.spiegel.de/gesundheit/jens-spahn-und-rki-chef-wieler-ueber-booster-coronaimpfungen-a-6ff91b81-87f7-4cdd-a85f-5c39902743c6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-us-gesundheitsbehoerde-empfiehlt-impfungen-fuer-fuenf-bis-elfjaehrige](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-us-gesundheitsbehoerde-empfiehlt-impfungen-fuer-fuenf-bis-elfjaehrige-a-957f70e7-22a6-443c-89c1-77ea03122e28#ref=rss)
+### nordrheinwestfalen
+
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kabinett-von-hendrik-wuest-vereidigt](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kabinett-von-hendrik-wuest-vereidigt-a-959c7c7a-786d-4262-8d4f-d64db4a882e7#ref=rss)
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-beschlagnahmt-drogen-und-waffen](https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-beschlagnahmt-drogen-und-waffen-a-e3824ee3-f9a3-4b53-aff0-63d7331a746e#ref=rss)
+### hendrik
+
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kabinett-von-hendrik-wuest-vereidigt](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kabinett-von-hendrik-wuest-vereidigt-a-959c7c7a-786d-4262-8d4f-d64db4a882e7#ref=rss)
+### wüst
+
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kabinett-von-hendrik-wuest-vereidigt](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kabinett-von-hendrik-wuest-vereidigt-a-959c7c7a-786d-4262-8d4f-d64db4a882e7#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kabinett-von-hendrik-wuest-vereidigt](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kabinett-von-hendrik-wuest-vereidigt-a-959c7c7a-786d-4262-8d4f-d64db4a882e7#ref=rss)
+* [https://www.spiegel.de/ausland/syrisches-staatsfernsehen-israel-greift-gebiet-bei-damaskus-mit-raketen-an](https://www.spiegel.de/ausland/syrisches-staatsfernsehen-israel-greift-gebiet-bei-damaskus-mit-raketen-an-a-78e38e6d-cc0a-4ed3-882a-afc9bde88c02#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kabinett-von-hendrik-wuest-vereidigt](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kabinett-von-hendrik-wuest-vereidigt-a-959c7c7a-786d-4262-8d4f-d64db4a882e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt](https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt-a-6a856a66-bfdd-43d5-883e-d5f9bfb74eae#ref=rss)
+### tatverdächtige
+
+* [https://www.spiegel.de/panorama/hamburg-mutmassliche-gruppenvergewaltigung-einer-15-jaehrigen-ermittlungen-gegen-zwoelf-tatverdaechtige](https://www.spiegel.de/panorama/hamburg-mutmassliche-gruppenvergewaltigung-einer-15-jaehrigen-ermittlungen-gegen-zwoelf-tatverdaechtige-a-45d0284a-4656-4d24-9a15-732823b0af00#ref=rss)
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-beschlagnahmt-drogen-und-waffen](https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-beschlagnahmt-drogen-und-waffen-a-e3824ee3-f9a3-4b53-aff0-63d7331a746e#ref=rss)
+### 2020
+
+* [https://www.spiegel.de/panorama/hamburg-mutmassliche-gruppenvergewaltigung-einer-15-jaehrigen-ermittlungen-gegen-zwoelf-tatverdaechtige](https://www.spiegel.de/panorama/hamburg-mutmassliche-gruppenvergewaltigung-einer-15-jaehrigen-ermittlungen-gegen-zwoelf-tatverdaechtige-a-45d0284a-4656-4d24-9a15-732823b0af00#ref=rss)
+* [https://www.spiegel.de/panorama/george-floyd-buerger-in-minneapolis-stimmen-gegen-aufloesung-von-polizeibehoerde](https://www.spiegel.de/panorama/george-floyd-buerger-in-minneapolis-stimmen-gegen-aufloesung-von-polizeibehoerde-a-4755d590-f4cd-4dd5-80a9-518cf246d64c#ref=rss)
+### äthiopien
+
+* [https://www.spiegel.de/ausland/uno-untersuchung-schwere-menschenrechtsverletzungen-im-tigray-konflikt](https://www.spiegel.de/ausland/uno-untersuchung-schwere-menschenrechtsverletzungen-im-tigray-konflikt-a-b4ce65b2-15cd-4c1f-8639-c4c047547117#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/ausland/uno-untersuchung-schwere-menschenrechtsverletzungen-im-tigray-konflikt](https://www.spiegel.de/ausland/uno-untersuchung-schwere-menschenrechtsverletzungen-im-tigray-konflikt-a-b4ce65b2-15cd-4c1f-8639-c4c047547117#ref=rss)
+### flüchtlinge
+
+* [https://www.spiegel.de/ausland/uno-untersuchung-schwere-menschenrechtsverletzungen-im-tigray-konflikt](https://www.spiegel.de/ausland/uno-untersuchung-schwere-menschenrechtsverletzungen-im-tigray-konflikt-a-b4ce65b2-15cd-4c1f-8639-c4c047547117#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-kuestenwache-findet-im-wasser-treibende-frauenleiche](https://www.spiegel.de/panorama/spanien-kuestenwache-findet-im-wasser-treibende-frauenleiche-a-9a1c7b4b-3e06-4776-a896-fc254bd03ad4#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-knapp-20-prozent](https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-knapp-20-prozent-a-24389026-b1a3-4e45-bdc8-a67b23025ff9#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-knapp-20-prozent](https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-knapp-20-prozent-a-24389026-b1a3-4e45-bdc8-a67b23025ff9#ref=rss)
+* [https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden](https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden-a-86eda184-10ec-4976-90b4-f97890408ba1#ref=rss)
+### george
+
+* [https://www.spiegel.de/panorama/george-floyd-buerger-in-minneapolis-stimmen-gegen-aufloesung-von-polizeibehoerde](https://www.spiegel.de/panorama/george-floyd-buerger-in-minneapolis-stimmen-gegen-aufloesung-von-polizeibehoerde-a-4755d590-f4cd-4dd5-80a9-518cf246d64c#ref=rss)
+### floyd
+
+* [https://www.spiegel.de/panorama/george-floyd-buerger-in-minneapolis-stimmen-gegen-aufloesung-von-polizeibehoerde](https://www.spiegel.de/panorama/george-floyd-buerger-in-minneapolis-stimmen-gegen-aufloesung-von-polizeibehoerde-a-4755d590-f4cd-4dd5-80a9-518cf246d64c#ref=rss)
+### minneapolis
+
+* [https://www.spiegel.de/panorama/george-floyd-buerger-in-minneapolis-stimmen-gegen-aufloesung-von-polizeibehoerde](https://www.spiegel.de/panorama/george-floyd-buerger-in-minneapolis-stimmen-gegen-aufloesung-von-polizeibehoerde-a-4755d590-f4cd-4dd5-80a9-518cf246d64c#ref=rss)
+### krankenhaus
+
+* [https://www.spiegel.de/ausland/anschlag-auf-krankenhaus-in-kabul-ranghoher-taliban-kommandeur-getoetet](https://www.spiegel.de/ausland/anschlag-auf-krankenhaus-in-kabul-ranghoher-taliban-kommandeur-getoetet-a-b5640460-11e5-4264-8861-4634a730a5cd#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-beschlagnahmt-drogen-und-waffen](https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-beschlagnahmt-drogen-und-waffen-a-e3824ee3-f9a3-4b53-aff0-63d7331a746e#ref=rss)
+### drogen
+
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-beschlagnahmt-drogen-und-waffen](https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-beschlagnahmt-drogen-und-waffen-a-e3824ee3-f9a3-4b53-aff0-63d7331a746e#ref=rss)
+### 30
+
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-beschlagnahmt-drogen-und-waffen](https://www.spiegel.de/panorama/nordrhein-westfalen-polizei-beschlagnahmt-drogen-und-waffen-a-e3824ee3-f9a3-4b53-aff0-63d7331a746e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt](https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt-a-6a856a66-bfdd-43d5-883e-d5f9bfb74eae#ref=rss)
+### glasgow
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-das-sind-die-schmutzigen-deals-auf-kosten-des-klimas](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-das-sind-die-schmutzigen-deals-auf-kosten-des-klimas-a-1631361f-2a81-4d66-8742-24e494112881#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-streit-um-die-booster-impfung-10-jahre-nsu-erfolg-beim-klimagipfel](https://www.spiegel.de/politik/deutschland/news-streit-um-die-booster-impfung-10-jahre-nsu-erfolg-beim-klimagipfel-a-a6ee20b0-da8c-440f-97d4-8be0cf4fb34f#ref=rss)
+### erste
+
+* [https://www.spiegel.de/wirtschaft/soziales/kohleausstieg-erste-projekte-mit-bundeshilfen-in-revieren-gestartet](https://www.spiegel.de/wirtschaft/soziales/kohleausstieg-erste-projekte-mit-bundeshilfen-in-revieren-gestartet-a-edfc81cc-4a60-47fb-96a3-9067352d28b4#ref=rss)
+### projekte
+
+* [https://www.spiegel.de/wirtschaft/soziales/kohleausstieg-erste-projekte-mit-bundeshilfen-in-revieren-gestartet](https://www.spiegel.de/wirtschaft/soziales/kohleausstieg-erste-projekte-mit-bundeshilfen-in-revieren-gestartet-a-edfc81cc-4a60-47fb-96a3-9067352d28b4#ref=rss)
+### revieren
+
+* [https://www.spiegel.de/wirtschaft/soziales/kohleausstieg-erste-projekte-mit-bundeshilfen-in-revieren-gestartet](https://www.spiegel.de/wirtschaft/soziales/kohleausstieg-erste-projekte-mit-bundeshilfen-in-revieren-gestartet-a-edfc81cc-4a60-47fb-96a3-9067352d28b4#ref=rss)
+### gestartet
+
+* [https://www.spiegel.de/wirtschaft/soziales/kohleausstieg-erste-projekte-mit-bundeshilfen-in-revieren-gestartet](https://www.spiegel.de/wirtschaft/soziales/kohleausstieg-erste-projekte-mit-bundeshilfen-in-revieren-gestartet-a-edfc81cc-4a60-47fb-96a3-9067352d28b4#ref=rss)
 ### china
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/yahoo-zieht-sich-endgueltig-aus-china-zurueck](https://www.spiegel.de/netzwelt/netzpolitik/yahoo-zieht-sich-endgueltig-aus-china-zurueck-a-2f465837-48a4-4b40-bcb2-e6d5e9ac2c11#ref=rss)
-### thomas
+* [https://www.spiegel.de/panorama/china-neun-tage-in-polizeigewahrsam-weil-er-ein-meme-gepostet-hat](https://www.spiegel.de/panorama/china-neun-tage-in-polizeigewahrsam-weil-er-ein-meme-gepostet-hat-a-1d73e91d-6077-4780-bb8e-80faef4f2be4#ref=rss)
+### neun
 
-* [https://www.spiegel.de/panorama/justiz/thomas-drach-weitere-anklage-gegen-frueheren-reemtsma-entfuehrer](https://www.spiegel.de/panorama/justiz/thomas-drach-weitere-anklage-gegen-frueheren-reemtsma-entfuehrer-a-6d3f662e-05e2-4aec-8bc0-df3bcc325afc#ref=rss)
-### drach
+* [https://www.spiegel.de/panorama/china-neun-tage-in-polizeigewahrsam-weil-er-ein-meme-gepostet-hat](https://www.spiegel.de/panorama/china-neun-tage-in-polizeigewahrsam-weil-er-ein-meme-gepostet-hat-a-1d73e91d-6077-4780-bb8e-80faef4f2be4#ref=rss)
+### tage
 
-* [https://www.spiegel.de/panorama/justiz/thomas-drach-weitere-anklage-gegen-frueheren-reemtsma-entfuehrer](https://www.spiegel.de/panorama/justiz/thomas-drach-weitere-anklage-gegen-frueheren-reemtsma-entfuehrer-a-6d3f662e-05e2-4aec-8bc0-df3bcc325afc#ref=rss)
-### anklage
+* [https://www.spiegel.de/panorama/china-neun-tage-in-polizeigewahrsam-weil-er-ein-meme-gepostet-hat](https://www.spiegel.de/panorama/china-neun-tage-in-polizeigewahrsam-weil-er-ein-meme-gepostet-hat-a-1d73e91d-6077-4780-bb8e-80faef4f2be4#ref=rss)
+### gepostet
 
-* [https://www.spiegel.de/panorama/justiz/thomas-drach-weitere-anklage-gegen-frueheren-reemtsma-entfuehrer](https://www.spiegel.de/panorama/justiz/thomas-drach-weitere-anklage-gegen-frueheren-reemtsma-entfuehrer-a-6d3f662e-05e2-4aec-8bc0-df3bcc325afc#ref=rss)
-### blatter
+* [https://www.spiegel.de/panorama/china-neun-tage-in-polizeigewahrsam-weil-er-ein-meme-gepostet-hat](https://www.spiegel.de/panorama/china-neun-tage-in-polizeigewahrsam-weil-er-ein-meme-gepostet-hat-a-1d73e91d-6077-4780-bb8e-80faef4f2be4#ref=rss)
+### mann
 
-* [https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt](https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt-a-2735e858-084c-46b8-bfd2-7d5cf5622087#ref=rss)
-### michel
+* [https://www.spiegel.de/panorama/china-neun-tage-in-polizeigewahrsam-weil-er-ein-meme-gepostet-hat](https://www.spiegel.de/panorama/china-neun-tage-in-polizeigewahrsam-weil-er-ein-meme-gepostet-hat-a-1d73e91d-6077-4780-bb8e-80faef4f2be4#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann](https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann-a-b7c7f06a-3fc8-42d6-b191-bb526a31d5c7#ref=rss)
+### damaskus
 
-* [https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt](https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt-a-2735e858-084c-46b8-bfd2-7d5cf5622087#ref=rss)
-### platini
+* [https://www.spiegel.de/ausland/syrisches-staatsfernsehen-israel-greift-gebiet-bei-damaskus-mit-raketen-an](https://www.spiegel.de/ausland/syrisches-staatsfernsehen-israel-greift-gebiet-bei-damaskus-mit-raketen-an-a-78e38e6d-cc0a-4ed3-882a-afc9bde88c02#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt](https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt-a-2735e858-084c-46b8-bfd2-7d5cf5622087#ref=rss)
-### schweizer
+* [https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden](https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden-a-86eda184-10ec-4976-90b4-f97890408ba1#ref=rss)
+### trump
 
-* [https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt](https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt-a-2735e858-084c-46b8-bfd2-7d5cf5622087#ref=rss)
-### gericht
+* [https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden](https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden-a-86eda184-10ec-4976-90b4-f97890408ba1#ref=rss)
+### sieg
 
-* [https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt](https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt-a-2735e858-084c-46b8-bfd2-7d5cf5622087#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-geben-selfie-mit-ermordeten-zu](https://www.spiegel.de/panorama/justiz/london-polizisten-geben-selfie-mit-ermordeten-zu-a-9088470b-10ee-4642-af4b-4e49e2d109c0#ref=rss)
-### verantworten
+* [https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden](https://www.spiegel.de/ausland/gouverneurswahl-in-virginia-referendum-ueber-trump-und-biden-a-86eda184-10ec-4976-90b4-f97890408ba1#ref=rss)
+* [https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series](https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series-a-704044c0-17e9-4bd4-bd02-cfa80d89c659#ref=rss)
+### küstenwache
 
-* [https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt](https://www.spiegel.de/sport/fussball/joseph-blatter-und-michel-platini-wegen-betrugs-angeklagt-a-2735e858-084c-46b8-bfd2-7d5cf5622087#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-geben-selfie-mit-ermordeten-zu](https://www.spiegel.de/panorama/justiz/london-polizisten-geben-selfie-mit-ermordeten-zu-a-9088470b-10ee-4642-af4b-4e49e2d109c0#ref=rss)
-### social
+* [https://www.spiegel.de/panorama/spanien-kuestenwache-findet-im-wasser-treibende-frauenleiche](https://www.spiegel.de/panorama/spanien-kuestenwache-findet-im-wasser-treibende-frauenleiche-a-9a1c7b4b-3e06-4776-a896-fc254bd03ad4#ref=rss)
+### harald
 
-* [https://www.spiegel.de/stil/social-design-award-2021-das-sind-die-gewinner](https://www.spiegel.de/stil/social-design-award-2021-das-sind-die-gewinner-a-bad6f17d-9605-45fe-8550-aa5fe4e276b8#ref=rss)
-### design
+* [https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt](https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt-a-6a856a66-bfdd-43d5-883e-d5f9bfb74eae#ref=rss)
+### christ
 
-* [https://www.spiegel.de/stil/social-design-award-2021-das-sind-die-gewinner](https://www.spiegel.de/stil/social-design-award-2021-das-sind-die-gewinner-a-bad6f17d-9605-45fe-8550-aa5fe4e276b8#ref=rss)
-### gewinner
+* [https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt](https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt-a-6a856a66-bfdd-43d5-883e-d5f9bfb74eae#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/stil/social-design-award-2021-das-sind-die-gewinner](https://www.spiegel.de/stil/social-design-award-2021-das-sind-die-gewinner-a-bad6f17d-9605-45fe-8550-aa5fe4e276b8#ref=rss)
-### yassin
+* [https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt](https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt-a-6a856a66-bfdd-43d5-883e-d5f9bfb74eae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-streit-um-die-booster-impfung-10-jahre-nsu-erfolg-beim-klimagipfel](https://www.spiegel.de/politik/deutschland/news-streit-um-die-booster-impfung-10-jahre-nsu-erfolg-beim-klimagipfel-a-a6ee20b0-da8c-440f-97d4-8be0cf4fb34f#ref=rss)
+### spd
 
-* [https://www.spiegel.de/ausland/syrien-yassin-al-haj-saleh-ueber-das-scheitern-der-revolution-war-es-das-wert](https://www.spiegel.de/ausland/syrien-yassin-al-haj-saleh-ueber-das-scheitern-der-revolution-war-es-das-wert-a-2c66ac95-d0f5-408f-bdb0-27e8f3c327b8#ref=rss)
-### alhaj
+* [https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt](https://www.spiegel.de/politik/deutschland/harald-christ-fdp-schatzmeister-haelt-ampel-koalition-fuer-ein-langfristiges-projekt-a-6a856a66-bfdd-43d5-883e-d5f9bfb74eae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-spd-vorsitz-es-ehrt-mich-sehr-dass-mein-name-genannt-wird](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-spd-vorsitz-es-ehrt-mich-sehr-dass-mein-name-genannt-wird-a-efe595a5-fe0f-4623-85ad-4fa0e24282ac#ref=rss)
+### lieferprobleme
 
-* [https://www.spiegel.de/ausland/syrien-yassin-al-haj-saleh-ueber-das-scheitern-der-revolution-war-es-das-wert](https://www.spiegel.de/ausland/syrien-yassin-al-haj-saleh-ueber-das-scheitern-der-revolution-war-es-das-wert-a-2c66ac95-d0f5-408f-bdb0-27e8f3c327b8#ref=rss)
-### saleh
+* [https://www.spiegel.de/wirtschaft/unternehmen/lieferprobleme-in-der-autoindustrie-kunden-muessen-haeufig-ein-halbes-jahr-warten](https://www.spiegel.de/wirtschaft/unternehmen/lieferprobleme-in-der-autoindustrie-kunden-muessen-haeufig-ein-halbes-jahr-warten-a-5e663959-86b7-4bf7-8607-cf1baa6c9e6a#ref=rss)
+### warten
 
-* [https://www.spiegel.de/ausland/syrien-yassin-al-haj-saleh-ueber-das-scheitern-der-revolution-war-es-das-wert](https://www.spiegel.de/ausland/syrien-yassin-al-haj-saleh-ueber-das-scheitern-der-revolution-war-es-das-wert-a-2c66ac95-d0f5-408f-bdb0-27e8f3c327b8#ref=rss)
-### revolution
+* [https://www.spiegel.de/wirtschaft/unternehmen/lieferprobleme-in-der-autoindustrie-kunden-muessen-haeufig-ein-halbes-jahr-warten](https://www.spiegel.de/wirtschaft/unternehmen/lieferprobleme-in-der-autoindustrie-kunden-muessen-haeufig-ein-halbes-jahr-warten-a-5e663959-86b7-4bf7-8607-cf1baa6c9e6a#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister](https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister-a-bdff356b-c63c-44d3-8195-cbcdee304a17#ref=rss)
+### atlanta
 
-* [https://www.spiegel.de/ausland/syrien-yassin-al-haj-saleh-ueber-das-scheitern-der-revolution-war-es-das-wert](https://www.spiegel.de/ausland/syrien-yassin-al-haj-saleh-ueber-das-scheitern-der-revolution-war-es-das-wert-a-2c66ac95-d0f5-408f-bdb0-27e8f3c327b8#ref=rss)
-### haft
+* [https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series](https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series-a-704044c0-17e9-4bd4-bd02-cfa80d89c659#ref=rss)
+### braves
 
-* [https://www.spiegel.de/ausland/syrien-yassin-al-haj-saleh-ueber-das-scheitern-der-revolution-war-es-das-wert](https://www.spiegel.de/ausland/syrien-yassin-al-haj-saleh-ueber-das-scheitern-der-revolution-war-es-das-wert-a-2c66ac95-d0f5-408f-bdb0-27e8f3c327b8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-geben-selfie-mit-ermordeten-zu](https://www.spiegel.de/panorama/justiz/london-polizisten-geben-selfie-mit-ermordeten-zu-a-9088470b-10ee-4642-af4b-4e49e2d109c0#ref=rss)
-### alec
+* [https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series](https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series-a-704044c0-17e9-4bd4-bd02-cfa80d89c659#ref=rss)
+### world
 
-* [https://www.spiegel.de/kultur/alec-baldwin-veroeffentlicht-halloween-fotos-der-ich-poste-das-mal-fix-reflex](https://www.spiegel.de/kultur/alec-baldwin-veroeffentlicht-halloween-fotos-der-ich-poste-das-mal-fix-reflex-a-44b1bbf4-b5ee-454a-872e-7e9c4605aff0#ref=rss)
-### baldwin
+* [https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series](https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series-a-704044c0-17e9-4bd4-bd02-cfa80d89c659#ref=rss)
+### series
 
-* [https://www.spiegel.de/kultur/alec-baldwin-veroeffentlicht-halloween-fotos-der-ich-poste-das-mal-fix-reflex](https://www.spiegel.de/kultur/alec-baldwin-veroeffentlicht-halloween-fotos-der-ich-poste-das-mal-fix-reflex-a-44b1bbf4-b5ee-454a-872e-7e9c4605aff0#ref=rss)
-### kreativwirtschaft
+* [https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series](https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series-a-704044c0-17e9-4bd4-bd02-cfa80d89c659#ref=rss)
+### houston
 
-* [https://www.spiegel.de/kultur/kreativwirtschaft-schliesst-historisches-buendnis](https://www.spiegel.de/kultur/kreativwirtschaft-schliesst-historisches-buendnis-a-d5a4167d-4a36-45e2-9789-33c056c771e7#ref=rss)
-### olympia
+* [https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series](https://www.spiegel.de/sport/baseball-mlb-atlanta-braves-gewinnen-erstmals-seit-26-jahren-die-world-series-a-704044c0-17e9-4bd4-bd02-cfa80d89c659#ref=rss)
+### mittwoch
 
-* [https://www.spiegel.de/sport/olympia-2024-in-paris-reiten-soll-aus-dem-programm-des-modernen-fuenfkampfs-fallen](https://www.spiegel.de/sport/olympia-2024-in-paris-reiten-soll-aus-dem-programm-des-modernen-fuenfkampfs-fallen-a-fc599d86-6fe5-4da1-bf3e-3c789a3ae868#ref=rss)
-### modernen
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-us-gesundheitsbehoerde-empfiehlt-impfungen-fuer-fuenf-bis-elfjaehrige](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-us-gesundheitsbehoerde-empfiehlt-impfungen-fuer-fuenf-bis-elfjaehrige-a-957f70e7-22a6-443c-89c1-77ea03122e28#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-streit-um-die-booster-impfung-10-jahre-nsu-erfolg-beim-klimagipfel](https://www.spiegel.de/politik/deutschland/news-streit-um-die-booster-impfung-10-jahre-nsu-erfolg-beim-klimagipfel-a-a6ee20b0-da8c-440f-97d4-8be0cf4fb34f#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/olympia-2024-in-paris-reiten-soll-aus-dem-programm-des-modernen-fuenfkampfs-fallen](https://www.spiegel.de/sport/olympia-2024-in-paris-reiten-soll-aus-dem-programm-des-modernen-fuenfkampfs-fallen-a-fc599d86-6fe5-4da1-bf3e-3c789a3ae868#ref=rss)
-### fünfkampfs
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-us-gesundheitsbehoerde-empfiehlt-impfungen-fuer-fuenf-bis-elfjaehrige](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-us-gesundheitsbehoerde-empfiehlt-impfungen-fuer-fuenf-bis-elfjaehrige-a-957f70e7-22a6-443c-89c1-77ea03122e28#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister](https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister-a-bdff356b-c63c-44d3-8195-cbcdee304a17#ref=rss)
+### city
 
-* [https://www.spiegel.de/sport/olympia-2024-in-paris-reiten-soll-aus-dem-programm-des-modernen-fuenfkampfs-fallen](https://www.spiegel.de/sport/olympia-2024-in-paris-reiten-soll-aus-dem-programm-des-modernen-fuenfkampfs-fallen-a-fc599d86-6fe5-4da1-bf3e-3c789a3ae868#ref=rss)
-### london
+* [https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann](https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann-a-b7c7f06a-3fc8-42d6-b191-bb526a31d5c7#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister](https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister-a-bdff356b-c63c-44d3-8195-cbcdee304a17#ref=rss)
+### nächster
 
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-geben-selfie-mit-ermordeten-zu](https://www.spiegel.de/panorama/justiz/london-polizisten-geben-selfie-mit-ermordeten-zu-a-9088470b-10ee-4642-af4b-4e49e2d109c0#ref=rss)
-### polizisten
+* [https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann](https://www.spiegel.de/ausland/new-york-city-eric-adams-zum-neuen-buergermeister-gewaehlt-wer-ist-der-mann-a-b7c7f06a-3fc8-42d6-b191-bb526a31d5c7#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister](https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister-a-bdff356b-c63c-44d3-8195-cbcdee304a17#ref=rss)
+### schlafen
 
-* [https://www.spiegel.de/panorama/justiz/london-polizisten-geben-selfie-mit-ermordeten-zu](https://www.spiegel.de/panorama/justiz/london-polizisten-geben-selfie-mit-ermordeten-zu-a-9088470b-10ee-4642-af4b-4e49e2d109c0#ref=rss)
-### verdi
+* [https://www.spiegel.de/start/besser-schlafen-im-studium-warum-studierende-viel-schlafen-sollten](https://www.spiegel.de/start/besser-schlafen-im-studium-warum-studierende-viel-schlafen-sollten-a-1f993392-c762-4fbe-b96c-e1f1cd300c3a#ref=rss)
+### hochrechnungen
 
-* [https://www.spiegel.de/wirtschaft/soziales/tarifkonflikt-verdi-will-streiks-im-oeffentlichen-dienst-der-laender-ausweiten](https://www.spiegel.de/wirtschaft/soziales/tarifkonflikt-verdi-will-streiks-im-oeffentlichen-dienst-der-laender-ausweiten-a-f7b7e987-d9fd-4f23-a04e-c19b81ba3435#ref=rss)
-### streiks
+* [https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste](https://www.spiegel.de/ausland/virginia-republikaner-glenn-youngkin-gewinnt-gouverneurswahl-erste-a-a3b198f2-1c4c-4e5d-b497-7a8fc64f883d#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister](https://www.spiegel.de/ausland/new-york-demokrat-eric-adams-wird-laut-prognosen-neuer-buergermeister-a-bdff356b-c63c-44d3-8195-cbcdee304a17#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/wirtschaft/soziales/tarifkonflikt-verdi-will-streiks-im-oeffentlichen-dienst-der-laender-ausweiten](https://www.spiegel.de/wirtschaft/soziales/tarifkonflikt-verdi-will-streiks-im-oeffentlichen-dienst-der-laender-ausweiten-a-f7b7e987-d9fd-4f23-a04e-c19b81ba3435#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-cdu-nach-angela-merke-podcast](https://www.spiegel.de/politik/deutschland/die-cdu-nach-angela-merke-podcast-a-cc5cf424-2734-4582-9878-d642ac6c2fc5#ref=rss)
+### nsu
+
+* [https://www.spiegel.de/politik/deutschland/news-streit-um-die-booster-impfung-10-jahre-nsu-erfolg-beim-klimagipfel](https://www.spiegel.de/politik/deutschland/news-streit-um-die-booster-impfung-10-jahre-nsu-erfolg-beim-klimagipfel-a-a6ee20b0-da8c-440f-97d4-8be0cf4fb34f#ref=rss)
+### kobe
+
+* [https://www.spiegel.de/panorama/justiz/kobe-bryant-hinterbliebene-der-opfer-von-hubschrauberabsturz-erhalten-millionensumme](https://www.spiegel.de/panorama/justiz/kobe-bryant-hinterbliebene-der-opfer-von-hubschrauberabsturz-erhalten-millionensumme-a-a3db06bd-da99-483e-8001-df8203b58a9c#ref=rss)
+### bryant
+
+* [https://www.spiegel.de/panorama/justiz/kobe-bryant-hinterbliebene-der-opfer-von-hubschrauberabsturz-erhalten-millionensumme](https://www.spiegel.de/panorama/justiz/kobe-bryant-hinterbliebene-der-opfer-von-hubschrauberabsturz-erhalten-millionensumme-a-a3db06bd-da99-483e-8001-df8203b58a9c#ref=rss)
+### erhalten
+
+* [https://www.spiegel.de/panorama/justiz/kobe-bryant-hinterbliebene-der-opfer-von-hubschrauberabsturz-erhalten-millionensumme](https://www.spiegel.de/panorama/justiz/kobe-bryant-hinterbliebene-der-opfer-von-hubschrauberabsturz-erhalten-millionensumme-a-a3db06bd-da99-483e-8001-df8203b58a9c#ref=rss)
+### lars
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-spd-vorsitz-es-ehrt-mich-sehr-dass-mein-name-genannt-wird](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-spd-vorsitz-es-ehrt-mich-sehr-dass-mein-name-genannt-wird-a-efe595a5-fe0f-4623-85ad-4fa0e24282ac#ref=rss)
+### klingbeil
+
+* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-spd-vorsitz-es-ehrt-mich-sehr-dass-mein-name-genannt-wird](https://www.spiegel.de/politik/deutschland/lars-klingbeil-ueber-spd-vorsitz-es-ehrt-mich-sehr-dass-mein-name-genannt-wird-a-efe595a5-fe0f-4623-85ad-4fa0e24282ac#ref=rss)
 
