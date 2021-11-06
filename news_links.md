@@ -4,274 +4,316 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zwei
-
-* [https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney](https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney-a-9472acfe-b0bf-411c-aeeb-6deaf074c49b#ref=rss)
-* [https://www.spiegel.de/panorama/mexiko-zwei-tote-bei-schiesserei-an-strand-nahe-cancun-touristen-in-angst](https://www.spiegel.de/panorama/mexiko-zwei-tote-bei-schiesserei-an-strand-nahe-cancun-touristen-in-angst-a-9395d039-06eb-4fc8-a742-20ae29eb3f52#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt-a-36e1ddec-e110-4e0f-b64c-c4b3fde46d78#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kaiserslautern-frau-soll-baeckereiverkaeuferinnen-mit-berlinern-beworfen-haben](https://www.spiegel.de/panorama/justiz/kaiserslautern-frau-soll-baeckereiverkaeuferinnen-mit-berlinern-beworfen-haben-a-ba872ab1-57b0-4f08-9293-dac356f39c39#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/corona-politik-helge-braun-wirft-olaf-scholz-verantwortungslosigkeit-vor](https://www.spiegel.de/politik/deutschland/corona-politik-helge-braun-wirft-olaf-scholz-verantwortungslosigkeit-vor-a-762ebe2c-7cc4-4820-b640-ad5922a3269c#ref=rss)
-* [https://www.spiegel.de/panorama/bka-warnt-vor-betruegerischen-e-mails-von-angeblichem-direktor](https://www.spiegel.de/panorama/bka-warnt-vor-betruegerischen-e-mails-von-angeblichem-direktor-a-30f03801-b9fd-4169-8b75-7c4c065667ce#ref=rss)
-* [https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau](https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau-a-c75758b0-1bac-4267-a492-a7d031199fd5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-booster-impfung-fuer-alle-thomas-gottschalk-bei-wetten-dass-abba-mit-album-aber-ohne-tour](https://www.spiegel.de/politik/deutschland/corona-booster-impfung-fuer-alle-thomas-gottschalk-bei-wetten-dass-abba-mit-album-aber-ohne-tour-a-37377d48-350f-4b41-83e0-425c1f2b6942#ref=rss)
-### unoklimakonferenz
-
-* [https://www.spiegel.de/ausland/uno-klimakonferenz-in-glasgow-greta-thunberg-wirft-politik-greenwashing-vor](https://www.spiegel.de/ausland/uno-klimakonferenz-in-glasgow-greta-thunberg-wirft-politik-greenwashing-vor-a-564ae519-030d-488e-bb52-dd25b7301117#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-klimakonferenz-indonesische-umweltministerin-will-weiter-regenwald-abholzen](https://www.spiegel.de/wissenschaft/uno-klimakonferenz-indonesische-umweltministerin-will-weiter-regenwald-abholzen-a-b318ccc6-099a-4f7e-8203-693da735c788#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-die-vier-ueberraschend-guten-nachrichten-aus-glasgow](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-die-vier-ueberraschend-guten-nachrichten-aus-glasgow-a-85d29574-2517-4c20-9642-a178b34626d9#ref=rss)
-### braun
-
-* [https://www.spiegel.de/politik/deutschland/corona-politik-helge-braun-wirft-olaf-scholz-verantwortungslosigkeit-vor](https://www.spiegel.de/politik/deutschland/corona-politik-helge-braun-wirft-olaf-scholz-verantwortungslosigkeit-vor-a-762ebe2c-7cc4-4820-b640-ad5922a3269c#ref=rss)
 ### glasgow
 
-* [https://www.spiegel.de/ausland/uno-klimagipfel-in-glasgow-boris-johnson-und-seine-gruenen-zaubertricks-podcast](https://www.spiegel.de/ausland/uno-klimagipfel-in-glasgow-boris-johnson-und-seine-gruenen-zaubertricks-podcast-a-a67bf319-ad9d-4cfd-91a9-b964cf69fcb6#ref=rss)
-* [https://www.spiegel.de/ausland/uno-klimakonferenz-in-glasgow-greta-thunberg-wirft-politik-greenwashing-vor](https://www.spiegel.de/ausland/uno-klimakonferenz-in-glasgow-greta-thunberg-wirft-politik-greenwashing-vor-a-564ae519-030d-488e-bb52-dd25b7301117#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-die-vier-ueberraschend-guten-nachrichten-aus-glasgow](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-die-vier-ueberraschend-guten-nachrichten-aus-glasgow-a-85d29574-2517-4c20-9642-a178b34626d9#ref=rss)
-### grünen
+* [https://www.spiegel.de/wissenschaft/fridays-for-future-in-glasgow-es-fuehlt-sich-an-als-waeren-wir-die-wahren-weltfuehrer](https://www.spiegel.de/wissenschaft/fridays-for-future-in-glasgow-es-fuehlt-sich-an-als-waeren-wir-die-wahren-weltfuehrer-a-19b5ed75-0067-4b34-9cdc-e1dd4d56d6c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel](https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel-a-a435077e-6124-4c34-9123-1a790fa58af4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-lahme-coronapolitik-teilerfolge-in-glasgow-seehofers-verkleinerte-merkel](https://www.spiegel.de/politik/deutschland/news-lahme-coronapolitik-teilerfolge-in-glasgow-seehofers-verkleinerte-merkel-a-7861e6be-09fc-483a-b28e-c9e968074a68#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/uno-klimagipfel-in-glasgow-boris-johnson-und-seine-gruenen-zaubertricks-podcast](https://www.spiegel.de/ausland/uno-klimagipfel-in-glasgow-boris-johnson-und-seine-gruenen-zaubertricks-podcast-a-a67bf319-ad9d-4cfd-91a9-b964cf69fcb6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-pankow-wurde-linken-buergermeister-soeren-benn-mit-afd-stimmen-gewaehlt](https://www.spiegel.de/politik/deutschland/berlin-pankow-wurde-linken-buergermeister-soeren-benn-mit-afd-stimmen-gewaehlt-a-9e1f33c1-5abf-41d2-b2fd-e6fc0ffbdb6f#ref=rss)
-### deutschland
+* [https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze](https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze-a-4338fc06-8933-4e15-9a25-47ff16daa5c9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/terroranschlag-von-wien-ermittler-finden-dna-eines-osnabrueckers-an-sprengstoffguertel-attrappe](https://www.spiegel.de/politik/deutschland/terroranschlag-von-wien-ermittler-finden-dna-eines-osnabrueckers-an-sprengstoffguertel-attrappe-a-47f70b47-2ab0-45c9-a5c4-e86e53e3a7b9#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/weltraum-brettspiele-dune-imperium-galaxy-trucker-star-scrappers-orbital-rocketmen](https://www.spiegel.de/netzwelt/games/weltraum-brettspiele-dune-imperium-galaxy-trucker-star-scrappers-orbital-rocketmen-a-ecd3d4bd-a789-420e-adc4-ce523939a47d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-rki-meldet-34-002-neuninfektionen-inzidenz-steigt-auf-ueber-180](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-rki-meldet-34-002-neuninfektionen-inzidenz-steigt-auf-ueber-180-a-f4f6267a-df6a-44b4-936e-399fac1c2283#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau](https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau-a-c75758b0-1bac-4267-a492-a7d031199fd5#ref=rss)
-* [https://www.spiegel.de/kultur/anwerbeabkommen-mit-der-tuerkei-in-deutschland-ankommen-heisst-auch-fehler-machen-zu-duerfen](https://www.spiegel.de/kultur/anwerbeabkommen-mit-der-tuerkei-in-deutschland-ankommen-heisst-auch-fehler-machen-zu-duerfen-a-1c2c3155-22d5-40d6-b8cd-b526b7977493#ref=rss)
-* [https://www.spiegel.de/gesundheit/corona-in-deutschland-warum-die-zahlen-so-hoch-sind-wie-noch-nie](https://www.spiegel.de/gesundheit/corona-in-deutschland-warum-die-zahlen-so-hoch-sind-wie-noch-nie-a-a7211c4c-7db7-4072-a18a-beedc0145ba7#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/girlwoman-aya-hard-feelings-hana-vu-curtis-harding-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/girlwoman-aya-hard-feelings-hana-vu-curtis-harding-abgehoert-album-der-woche-a-09db4e03-385e-4005-8c76-118452382edc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-booster-impfung-fuer-alle-thomas-gottschalk-bei-wetten-dass-abba-mit-album-aber-ohne-tour](https://www.spiegel.de/politik/deutschland/corona-booster-impfung-fuer-alle-thomas-gottschalk-bei-wetten-dass-abba-mit-album-aber-ohne-tour-a-37377d48-350f-4b41-83e0-425c1f2b6942#ref=rss)
-### benn
-
-* [https://www.spiegel.de/politik/deutschland/berlin-pankow-wurde-linken-buergermeister-soeren-benn-mit-afd-stimmen-gewaehlt](https://www.spiegel.de/politik/deutschland/berlin-pankow-wurde-linken-buergermeister-soeren-benn-mit-afd-stimmen-gewaehlt-a-9e1f33c1-5abf-41d2-b2fd-e6fc0ffbdb6f#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-ex-leibwaechter-zu-drei-jahren-haft-verurteilt](https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-ex-leibwaechter-zu-drei-jahren-haft-verurteilt-a-10969f18-9151-4a22-b3de-ffb51493b8b0#ref=rss)
-* [https://www.spiegel.de/ausland/usa-navy-entlaesst-drei-offiziere-nach-unfall-von-atom-u-boot](https://www.spiegel.de/ausland/usa-navy-entlaesst-drei-offiziere-nach-unfall-von-atom-u-boot-a-9252b55c-15a5-41d3-b384-2b170317121e#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-ex-leibwaechter-zu-drei-jahren-haft-verurteilt](https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-ex-leibwaechter-zu-drei-jahren-haft-verurteilt-a-10969f18-9151-4a22-b3de-ffb51493b8b0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt-a-36e1ddec-e110-4e0f-b64c-c4b3fde46d78#ref=rss)
-### länger
-
-* [https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney](https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney-a-9472acfe-b0bf-411c-aeeb-6deaf074c49b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren](https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren-a-66b467fc-2e7f-4fc7-9a5d-2201643efa62#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-die-vier-ueberraschend-guten-nachrichten-aus-glasgow](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-die-vier-ueberraschend-guten-nachrichten-aus-glasgow-a-85d29574-2517-4c20-9642-a178b34626d9#ref=rss)
-### schüsse
-
-* [https://www.spiegel.de/panorama/mexiko-zwei-tote-bei-schiesserei-an-strand-nahe-cancun-touristen-in-angst](https://www.spiegel.de/panorama/mexiko-zwei-tote-bei-schiesserei-an-strand-nahe-cancun-touristen-in-angst-a-9395d039-06eb-4fc8-a742-20ae29eb3f52#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt-a-36e1ddec-e110-4e0f-b64c-c4b3fde46d78#ref=rss)
-### schutz
-
-* [https://www.spiegel.de/panorama/mexiko-zwei-tote-bei-schiesserei-an-strand-nahe-cancun-touristen-in-angst](https://www.spiegel.de/panorama/mexiko-zwei-tote-bei-schiesserei-an-strand-nahe-cancun-touristen-in-angst-a-9395d039-06eb-4fc8-a742-20ae29eb3f52#ref=rss)
-* [https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz](https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz-a-9e537ac7-f5b5-483c-9f2d-f2ee7dfdb380#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-klimakonferenz-indonesische-umweltministerin-will-weiter-regenwald-abholzen](https://www.spiegel.de/wissenschaft/uno-klimakonferenz-indonesische-umweltministerin-will-weiter-regenwald-abholzen-a-b318ccc6-099a-4f7e-8203-693da735c788#ref=rss)
-### corona
-
-* [https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren](https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren-a-66b467fc-2e7f-4fc7-9a5d-2201643efa62#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sandhausen-spiel-gegen-st-pauli-nach-corona-ausbruch-abgesetzt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sandhausen-spiel-gegen-st-pauli-nach-corona-ausbruch-abgesetzt-a-f87e526d-1e4d-4984-8d29-f8475e2fc663#ref=rss)
-* [https://www.spiegel.de/gesundheit/corona-in-deutschland-warum-die-zahlen-so-hoch-sind-wie-noch-nie](https://www.spiegel.de/gesundheit/corona-in-deutschland-warum-die-zahlen-so-hoch-sind-wie-noch-nie-a-a7211c4c-7db7-4072-a18a-beedc0145ba7#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/politik/deutschland/corona-politik-helge-braun-wirft-olaf-scholz-verantwortungslosigkeit-vor](https://www.spiegel.de/politik/deutschland/corona-politik-helge-braun-wirft-olaf-scholz-verantwortungslosigkeit-vor-a-762ebe2c-7cc4-4820-b640-ad5922a3269c#ref=rss)
-* [https://www.spiegel.de/ausland/uno-klimakonferenz-in-glasgow-greta-thunberg-wirft-politik-greenwashing-vor](https://www.spiegel.de/ausland/uno-klimakonferenz-in-glasgow-greta-thunberg-wirft-politik-greenwashing-vor-a-564ae519-030d-488e-bb52-dd25b7301117#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/corona-politik-helge-braun-wirft-olaf-scholz-verantwortungslosigkeit-vor](https://www.spiegel.de/politik/deutschland/corona-politik-helge-braun-wirft-olaf-scholz-verantwortungslosigkeit-vor-a-762ebe2c-7cc4-4820-b640-ad5922a3269c#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/politik/deutschland/corona-politik-helge-braun-wirft-olaf-scholz-verantwortungslosigkeit-vor](https://www.spiegel.de/politik/deutschland/corona-politik-helge-braun-wirft-olaf-scholz-verantwortungslosigkeit-vor-a-762ebe2c-7cc4-4820-b640-ad5922a3269c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt-a-36e1ddec-e110-4e0f-b64c-c4b3fde46d78#ref=rss)
-### macht
-
-* [https://www.spiegel.de/panorama/bka-warnt-vor-betruegerischen-e-mails-von-angeblichem-direktor](https://www.spiegel.de/panorama/bka-warnt-vor-betruegerischen-e-mails-von-angeblichem-direktor-a-30f03801-b9fd-4169-8b75-7c4c065667ce#ref=rss)
-* [https://www.spiegel.de/deinspiegel/almuth-schult-gewinnen-macht-immer-am-meisten-spass](https://www.spiegel.de/deinspiegel/almuth-schult-gewinnen-macht-immer-am-meisten-spass-a-f170a968-0002-0001-0000-000176028056#ref=rss)
-### sc
-
-* [https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau](https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau-a-c75758b0-1bac-4267-a492-a7d031199fd5#ref=rss)
-### freiburg
-
-* [https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau](https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau-a-c75758b0-1bac-4267-a492-a7d031199fd5#ref=rss)
-### duell
-
-* [https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau](https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau-a-c75758b0-1bac-4267-a492-a7d031199fd5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sandhausen-spiel-gegen-st-pauli-nach-corona-ausbruch-abgesetzt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sandhausen-spiel-gegen-st-pauli-nach-corona-ausbruch-abgesetzt-a-f87e526d-1e4d-4984-8d29-f8475e2fc663#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau](https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau-a-c75758b0-1bac-4267-a492-a7d031199fd5#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau](https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau-a-c75758b0-1bac-4267-a492-a7d031199fd5#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau](https://www.spiegel.de/sport/fussball/sc-freiburg-vor-dem-duell-mit-dem-fc-bayern-muenchen-die-ernte-im-breisgau-a-c75758b0-1bac-4267-a492-a7d031199fd5#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-dreams-aus-muenchen-mord-ich-oder-traeum-ich](https://www.spiegel.de/kultur/tv/tatort-dreams-aus-muenchen-mord-ich-oder-traeum-ich-a-349dfa8f-b49e-417e-8879-597cbda5058e#ref=rss)
-### fehler
-
-* [https://www.spiegel.de/kultur/anwerbeabkommen-mit-der-tuerkei-in-deutschland-ankommen-heisst-auch-fehler-machen-zu-duerfen](https://www.spiegel.de/kultur/anwerbeabkommen-mit-der-tuerkei-in-deutschland-ankommen-heisst-auch-fehler-machen-zu-duerfen-a-1c2c3155-22d5-40d6-b8cd-b526b7977493#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren](https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren-a-66b467fc-2e7f-4fc7-9a5d-2201643efa62#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/kultur/anwerbeabkommen-mit-der-tuerkei-in-deutschland-ankommen-heisst-auch-fehler-machen-zu-duerfen](https://www.spiegel.de/kultur/anwerbeabkommen-mit-der-tuerkei-in-deutschland-ankommen-heisst-auch-fehler-machen-zu-duerfen-a-1c2c3155-22d5-40d6-b8cd-b526b7977493#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kassenaerztliche-vereinigung-thueringen-feierte-impfparty-fuer-195-000-euro](https://www.spiegel.de/wirtschaft/kassenaerztliche-vereinigung-thueringen-feierte-impfparty-fuer-195-000-euro-a-341b51f5-6b79-45d0-bdfd-3a2c238e04af#ref=rss)
-### almuth
-
-* [https://www.spiegel.de/deinspiegel/almuth-schult-gewinnen-macht-immer-am-meisten-spass](https://www.spiegel.de/deinspiegel/almuth-schult-gewinnen-macht-immer-am-meisten-spass-a-f170a968-0002-0001-0000-000176028056#ref=rss)
-### schult
-
-* [https://www.spiegel.de/deinspiegel/almuth-schult-gewinnen-macht-immer-am-meisten-spass](https://www.spiegel.de/deinspiegel/almuth-schult-gewinnen-macht-immer-am-meisten-spass-a-f170a968-0002-0001-0000-000176028056#ref=rss)
-### girlwoman
-
-* [https://www.spiegel.de/kultur/musik/girlwoman-aya-hard-feelings-hana-vu-curtis-harding-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/girlwoman-aya-hard-feelings-hana-vu-curtis-harding-abgehoert-album-der-woche-a-09db4e03-385e-4005-8c76-118452382edc#ref=rss)
+* [https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster](https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster-a-d218c4a6-474a-4b0c-b930-dfadfd55e438#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel](https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel-a-a435077e-6124-4c34-9123-1a790fa58af4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-zerschlagung-waere-der-endgueltige-ruin-sagt-ex-sbb-chef](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-zerschlagung-waere-der-endgueltige-ruin-sagt-ex-sbb-chef-a-a012f175-e268-41d2-9262-cc0a6dde3c2f#ref=rss)
 ### woche
 
-* [https://www.spiegel.de/kultur/musik/girlwoman-aya-hard-feelings-hana-vu-curtis-harding-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/girlwoman-aya-hard-feelings-hana-vu-curtis-harding-abgehoert-album-der-woche-a-09db4e03-385e-4005-8c76-118452382edc#ref=rss)
-### sören
+* [https://www.spiegel.de/panorama/bilder-der-woche-kw44-pferderennen-in-laytown-halloween-la-palma-haiti](https://www.spiegel.de/panorama/bilder-der-woche-kw44-pferderennen-in-laytown-halloween-la-palma-haiti-a-d0a656c8-fa5d-46fd-b314-174a47bffcdd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel](https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel-a-a435077e-6124-4c34-9123-1a790fa58af4#ref=rss)
+### clooney
 
-* [https://www.spiegel.de/politik/deutschland/berlin-pankow-wurde-linken-buergermeister-soeren-benn-mit-afd-stimmen-gewaehlt](https://www.spiegel.de/politik/deutschland/berlin-pankow-wurde-linken-buergermeister-soeren-benn-mit-afd-stimmen-gewaehlt-a-9e1f33c1-5abf-41d2-b2fd-e6fc0ffbdb6f#ref=rss)
-### greta
+* [https://www.spiegel.de/panorama/leute/george-clooney-bittet-medien-um-verzicht-auf-fotos-seiner-kinder](https://www.spiegel.de/panorama/leute/george-clooney-bittet-medien-um-verzicht-auf-fotos-seiner-kinder-a-f05563ec-25c9-4a7e-ab2e-7b0413034a6b#ref=rss)
+### ampelkoalition
 
-* [https://www.spiegel.de/ausland/uno-klimakonferenz-in-glasgow-greta-thunberg-wirft-politik-greenwashing-vor](https://www.spiegel.de/ausland/uno-klimakonferenz-in-glasgow-greta-thunberg-wirft-politik-greenwashing-vor-a-564ae519-030d-488e-bb52-dd25b7301117#ref=rss)
-### thunberg
+* [https://www.spiegel.de/politik/deutschland/abtreibungsrecht-und-ampel-koalition-warum-es-kaum-fortschritt-geben-wird](https://www.spiegel.de/politik/deutschland/abtreibungsrecht-und-ampel-koalition-warum-es-kaum-fortschritt-geben-wird-a-5cc63ac4-9f04-4018-a37b-eb04fc192ddd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze](https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze-a-4338fc06-8933-4e15-9a25-47ff16daa5c9#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/ausland/uno-klimakonferenz-in-glasgow-greta-thunberg-wirft-politik-greenwashing-vor](https://www.spiegel.de/ausland/uno-klimakonferenz-in-glasgow-greta-thunberg-wirft-politik-greenwashing-vor-a-564ae519-030d-488e-bb52-dd25b7301117#ref=rss)
-### politik
+* [https://www.spiegel.de/panorama/bayern-messerattacke-in-ice-mehrere-verletzte](https://www.spiegel.de/panorama/bayern-messerattacke-in-ice-mehrere-verletzte-a-07903aaa-a881-43bd-a54c-212b6d35f092#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-bei-kindern-es-ist-wirklich-interessant-dass-es-in-deutschland-dieses-schwarz-weiss-denken-gibt](https://www.spiegel.de/wissenschaft/medizin/coronavirus-bei-kindern-es-ist-wirklich-interessant-dass-es-in-deutschland-dieses-schwarz-weiss-denken-gibt-a-af7db7aa-804b-49d4-8332-d3677747766f#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/ausland/uno-klimakonferenz-in-glasgow-greta-thunberg-wirft-politik-greenwashing-vor](https://www.spiegel.de/ausland/uno-klimakonferenz-in-glasgow-greta-thunberg-wirft-politik-greenwashing-vor-a-564ae519-030d-488e-bb52-dd25b7301117#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/eeg-umlage-von-konzernen-politik-ignoriert-energieabzocke](https://www.spiegel.de/wirtschaft/unternehmen/eeg-umlage-von-konzernen-politik-ignoriert-energieabzocke-a-b4b25802-7346-4d08-9e10-4c60cd9d209b#ref=rss)
-### abba
+* [https://www.spiegel.de/panorama/bayern-messerattacke-in-ice-mehrere-verletzte](https://www.spiegel.de/panorama/bayern-messerattacke-in-ice-mehrere-verletzte-a-07903aaa-a881-43bd-a54c-212b6d35f092#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-polizei-faengt-acht-kamele-und-ein-lama-in-madrid-ein](https://www.spiegel.de/panorama/spanien-polizei-faengt-acht-kamele-und-ein-lama-in-madrid-ein-a-68fe5d0e-3a93-429c-bf7a-7ccbe47fa340#ref=rss)
+### acht
 
-* [https://www.spiegel.de/politik/deutschland/corona-booster-impfung-fuer-alle-thomas-gottschalk-bei-wetten-dass-abba-mit-album-aber-ohne-tour](https://www.spiegel.de/politik/deutschland/corona-booster-impfung-fuer-alle-thomas-gottschalk-bei-wetten-dass-abba-mit-album-aber-ohne-tour-a-37377d48-350f-4b41-83e0-425c1f2b6942#ref=rss)
-### tour
+* [https://www.spiegel.de/panorama/spanien-polizei-faengt-acht-kamele-und-ein-lama-in-madrid-ein](https://www.spiegel.de/panorama/spanien-polizei-faengt-acht-kamele-und-ein-lama-in-madrid-ein-a-68fe5d0e-3a93-429c-bf7a-7ccbe47fa340#ref=rss)
+* [https://www.spiegel.de/panorama/usa-massenpanik-bei-musikfestival-in-houston-mindestens-acht-tote](https://www.spiegel.de/panorama/usa-massenpanik-bei-musikfestival-in-houston-mindestens-acht-tote-a-d28230c3-605b-428a-be7f-6b74f15fb872#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/corona-booster-impfung-fuer-alle-thomas-gottschalk-bei-wetten-dass-abba-mit-album-aber-ohne-tour](https://www.spiegel.de/politik/deutschland/corona-booster-impfung-fuer-alle-thomas-gottschalk-bei-wetten-dass-abba-mit-album-aber-ohne-tour-a-37377d48-350f-4b41-83e0-425c1f2b6942#ref=rss)
-### findet
+* [https://www.spiegel.de/ausland/usa-marine-benennt-schiff-nach-schwulenrechtsaktivist-harvey-milk](https://www.spiegel.de/ausland/usa-marine-benennt-schiff-nach-schwulenrechtsaktivist-harvey-milk-a-bc52872e-60fb-415c-a552-4c70c5b84fd0#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kongress-beschliesst-billionenschweres-infrastrukturpaket](https://www.spiegel.de/ausland/usa-kongress-beschliesst-billionenschweres-infrastrukturpaket-a-69660172-b9b4-4fe5-a5f8-8455b06dd56d#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/politik/deutschland/corona-booster-impfung-fuer-alle-thomas-gottschalk-bei-wetten-dass-abba-mit-album-aber-ohne-tour](https://www.spiegel.de/politik/deutschland/corona-booster-impfung-fuer-alle-thomas-gottschalk-bei-wetten-dass-abba-mit-album-aber-ohne-tour-a-37377d48-350f-4b41-83e0-425c1f2b6942#ref=rss)
-### lage
+* [https://www.spiegel.de/ausland/sebastian-kurz-wie-grossspender-ihn-zum-kanzler-machten-podcast](https://www.spiegel.de/ausland/sebastian-kurz-wie-grossspender-ihn-zum-kanzler-machten-podcast-a-d160355d-2e3e-4348-a329-6eae36aa25f4#ref=rss)
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-musical-der-eierwurf-von-halle-im-zdf-ein-ei-kann-eine-kruecke-sein](https://www.spiegel.de/kultur/tv/jan-boehmermann-musical-der-eierwurf-von-halle-im-zdf-ein-ei-kann-eine-kruecke-sein-a-6ac65ac9-ff0d-45e3-a3e8-ee27c3ccc505#ref=rss)
+### gesetze
 
-* [https://www.spiegel.de/politik/deutschland/corona-booster-impfung-fuer-alle-thomas-gottschalk-bei-wetten-dass-abba-mit-album-aber-ohne-tour](https://www.spiegel.de/politik/deutschland/corona-booster-impfung-fuer-alle-thomas-gottschalk-bei-wetten-dass-abba-mit-album-aber-ohne-tour-a-37377d48-350f-4b41-83e0-425c1f2b6942#ref=rss)
-* [https://www.spiegel.de/gesundheit/corona-in-deutschland-warum-die-zahlen-so-hoch-sind-wie-noch-nie](https://www.spiegel.de/gesundheit/corona-in-deutschland-warum-die-zahlen-so-hoch-sind-wie-noch-nie-a-a7211c4c-7db7-4072-a18a-beedc0145ba7#ref=rss)
-### pfizer
+* [https://www.spiegel.de/ausland/sebastian-kurz-wie-grossspender-ihn-zum-kanzler-machten-podcast](https://www.spiegel.de/ausland/sebastian-kurz-wie-grossspender-ihn-zum-kanzler-machten-podcast-a-d160355d-2e3e-4348-a329-6eae36aa25f4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze](https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze-a-4338fc06-8933-4e15-9a25-47ff16daa5c9#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-medikament-von-pfizer-zeigt-in-studie-hohe-wirksamkeit](https://www.spiegel.de/wissenschaft/medizin/corona-medikament-von-pfizer-zeigt-in-studie-hohe-wirksamkeit-a-2a410327-0d52-43cf-88a7-dcba9af84e47#ref=rss)
-### angela
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-samstag-verfassungsschuetzer-warnt-vor-immer-radikaleren-corona-leugnern](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-samstag-verfassungsschuetzer-warnt-vor-immer-radikaleren-corona-leugnern-a-0f5e3784-64c9-45db-ad58-875adbc7284c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/terroranschlag-von-wien-ermittler-finden-dna-eines-osnabrueckers-an-sprengstoffguertel-attrappe](https://www.spiegel.de/politik/deutschland/terroranschlag-von-wien-ermittler-finden-dna-eines-osnabrueckers-an-sprengstoffguertel-attrappe-a-47f70b47-2ab0-45c9-a5c4-e86e53e3a7b9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-rki-meldet-34-002-neuninfektionen-inzidenz-steigt-auf-ueber-180](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-rki-meldet-34-002-neuninfektionen-inzidenz-steigt-auf-ueber-180-a-f4f6267a-df6a-44b4-936e-399fac1c2283#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-grosser-zapfenstreich-fuer-2-dezember-geplant](https://www.spiegel.de/politik/deutschland/angela-merkel-grosser-zapfenstreich-fuer-2-dezember-geplant-a-2e846804-8509-4a35-b5e9-bc744e8ce70c#ref=rss)
-### merkel
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-zerschlagung-waere-der-endgueltige-ruin-sagt-ex-sbb-chef](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-zerschlagung-waere-der-endgueltige-ruin-sagt-ex-sbb-chef-a-a012f175-e268-41d2-9262-cc0a6dde3c2f#ref=rss)
+### paul
 
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-grosser-zapfenstreich-fuer-2-dezember-geplant](https://www.spiegel.de/politik/deutschland/angela-merkel-grosser-zapfenstreich-fuer-2-dezember-geplant-a-2e846804-8509-4a35-b5e9-bc744e8ce70c#ref=rss)
-### zapfenstreich
+* [https://www.spiegel.de/kultur/musik/paul-mccartney-bringt-mit-dichter-paul-muldoon-songtexte-und-essays-heraus-lyrics-1956-bis-heute](https://www.spiegel.de/kultur/musik/paul-mccartney-bringt-mit-dichter-paul-muldoon-songtexte-und-essays-heraus-lyrics-1956-bis-heute-a-4532b21f-e87c-41d6-ac3d-a717a48083b9#ref=rss)
+### sierra
 
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-grosser-zapfenstreich-fuer-2-dezember-geplant](https://www.spiegel.de/politik/deutschland/angela-merkel-grosser-zapfenstreich-fuer-2-dezember-geplant-a-2e846804-8509-4a35-b5e9-bc744e8ce70c#ref=rss)
-### 2
+* [https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster](https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster-a-d218c4a6-474a-4b0c-b930-dfadfd55e438#ref=rss)
+### dutzende
 
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-grosser-zapfenstreich-fuer-2-dezember-geplant](https://www.spiegel.de/politik/deutschland/angela-merkel-grosser-zapfenstreich-fuer-2-dezember-geplant-a-2e846804-8509-4a35-b5e9-bc744e8ce70c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sandhausen-spiel-gegen-st-pauli-nach-corona-ausbruch-abgesetzt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sandhausen-spiel-gegen-st-pauli-nach-corona-ausbruch-abgesetzt-a-f87e526d-1e4d-4984-8d29-f8475e2fc663#ref=rss)
-### dezember
+* [https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster](https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster-a-d218c4a6-474a-4b0c-b930-dfadfd55e438#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hausaerzte-in-schleswig-holstein-aergern-sich-ueber-impf-buerokratie-voellig-absurd](https://www.spiegel.de/panorama/gesellschaft/hausaerzte-in-schleswig-holstein-aergern-sich-ueber-impf-buerokratie-voellig-absurd-a-fab237fd-8eba-4131-b7c1-b218391a5db0#ref=rss)
+### tote
 
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-grosser-zapfenstreich-fuer-2-dezember-geplant](https://www.spiegel.de/politik/deutschland/angela-merkel-grosser-zapfenstreich-fuer-2-dezember-geplant-a-2e846804-8509-4a35-b5e9-bc744e8ce70c#ref=rss)
-### haft
+* [https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster](https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster-a-d218c4a6-474a-4b0c-b930-dfadfd55e438#ref=rss)
+* [https://www.spiegel.de/panorama/usa-massenpanik-bei-musikfestival-in-houston-mindestens-acht-tote](https://www.spiegel.de/panorama/usa-massenpanik-bei-musikfestival-in-houston-mindestens-acht-tote-a-d28230c3-605b-428a-be7f-6b74f15fb872#ref=rss)
+### tanklaster
 
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-ex-leibwaechter-zu-drei-jahren-haft-verurteilt](https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-ex-leibwaechter-zu-drei-jahren-haft-verurteilt-a-10969f18-9151-4a22-b3de-ffb51493b8b0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt-a-36e1ddec-e110-4e0f-b64c-c4b3fde46d78#ref=rss)
-### später
+* [https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster](https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster-a-d218c4a6-474a-4b0c-b930-dfadfd55e438#ref=rss)
+### schrecklicher
 
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-ex-leibwaechter-zu-drei-jahren-haft-verurteilt](https://www.spiegel.de/ausland/frankreich-emmanuel-macrons-ex-leibwaechter-zu-drei-jahren-haft-verurteilt-a-10969f18-9151-4a22-b3de-ffb51493b8b0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-klimakonferenz-indonesische-umweltministerin-will-weiter-regenwald-abholzen](https://www.spiegel.de/wissenschaft/uno-klimakonferenz-indonesische-umweltministerin-will-weiter-regenwald-abholzen-a-b318ccc6-099a-4f7e-8203-693da735c788#ref=rss)
-### israel
-
-* [https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney](https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney-a-9472acfe-b0bf-411c-aeeb-6deaf074c49b#ref=rss)
-### sally
-
-* [https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney](https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney-a-9472acfe-b0bf-411c-aeeb-6deaf074c49b#ref=rss)
-### rooney
-
-* [https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney](https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney-a-9472acfe-b0bf-411c-aeeb-6deaf074c49b#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney](https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney-a-9472acfe-b0bf-411c-aeeb-6deaf074c49b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/uno-klimakonferenz-indonesische-umweltministerin-will-weiter-regenwald-abholzen](https://www.spiegel.de/wissenschaft/uno-klimakonferenz-indonesische-umweltministerin-will-weiter-regenwald-abholzen-a-b318ccc6-099a-4f7e-8203-693da735c788#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney](https://www.spiegel.de/kultur/literatur/israel-buchhandelsketten-boykottieren-die-romane-von-sally-rooney-a-9472acfe-b0bf-411c-aeeb-6deaf074c49b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bundesrat-heizkostenzaehler-muessen-bald-aus-der-ferne-ablesbar-sein](https://www.spiegel.de/wirtschaft/service/bundesrat-heizkostenzaehler-muessen-bald-aus-der-ferne-ablesbar-sein-a-a08ea57a-a5a8-42e3-b672-8b1e721fc676#ref=rss)
-### strand
-
-* [https://www.spiegel.de/panorama/mexiko-zwei-tote-bei-schiesserei-an-strand-nahe-cancun-touristen-in-angst](https://www.spiegel.de/panorama/mexiko-zwei-tote-bei-schiesserei-an-strand-nahe-cancun-touristen-in-angst-a-9395d039-06eb-4fc8-a742-20ae29eb3f52#ref=rss)
-### touristen
-
-* [https://www.spiegel.de/panorama/mexiko-zwei-tote-bei-schiesserei-an-strand-nahe-cancun-touristen-in-angst](https://www.spiegel.de/panorama/mexiko-zwei-tote-bei-schiesserei-an-strand-nahe-cancun-touristen-in-angst-a-9395d039-06eb-4fc8-a742-20ae29eb3f52#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz](https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz-a-9e537ac7-f5b5-483c-9f2d-f2ee7dfdb380#ref=rss)
-### hansi
-
-* [https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz](https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz-a-9e537ac7-f5b5-483c-9f2d-f2ee7dfdb380#ref=rss)
-### flick
-
-* [https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz](https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz-a-9e537ac7-f5b5-483c-9f2d-f2ee7dfdb380#ref=rss)
-### ungeimpften
-
-* [https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz](https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz-a-9e537ac7-f5b5-483c-9f2d-f2ee7dfdb380#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren](https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren-a-66b467fc-2e7f-4fc7-9a5d-2201643efa62#ref=rss)
-### joshua
-
-* [https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz](https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz-a-9e537ac7-f5b5-483c-9f2d-f2ee7dfdb380#ref=rss)
-### kimmich
-
-* [https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz](https://www.spiegel.de/sport/fussball/coronavirus-hansi-flick-nimmt-ungeimpften-bayern-profi-joshua-kimmich-in-schutz-a-9e537ac7-f5b5-483c-9f2d-f2ee7dfdb380#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren](https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren-a-66b467fc-2e7f-4fc7-9a5d-2201643efa62#ref=rss)
-### bürgertests
-
-* [https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren](https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren-a-66b467fc-2e7f-4fc7-9a5d-2201643efa62#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren](https://www.spiegel.de/politik/deutschland/corona-christian-lindner-will-kostenlose-buergertests-wieder-einfuehren-a-66b467fc-2e7f-4fc7-9a5d-2201643efa62#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/eeg-umlage-von-konzernen-politik-ignoriert-energieabzocke](https://www.spiegel.de/wirtschaft/unternehmen/eeg-umlage-von-konzernen-politik-ignoriert-energieabzocke-a-b4b25802-7346-4d08-9e10-4c60cd9d209b#ref=rss)
-### st
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sandhausen-spiel-gegen-st-pauli-nach-corona-ausbruch-abgesetzt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sandhausen-spiel-gegen-st-pauli-nach-corona-ausbruch-abgesetzt-a-f87e526d-1e4d-4984-8d29-f8475e2fc663#ref=rss)
-### pauli
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sandhausen-spiel-gegen-st-pauli-nach-corona-ausbruch-abgesetzt](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-sandhausen-spiel-gegen-st-pauli-nach-corona-ausbruch-abgesetzt-a-f87e526d-1e4d-4984-8d29-f8475e2fc663#ref=rss)
-### hoch
-
-* [https://www.spiegel.de/wirtschaft/kassenaerztliche-vereinigung-thueringen-feierte-impfparty-fuer-195-000-euro](https://www.spiegel.de/wirtschaft/kassenaerztliche-vereinigung-thueringen-feierte-impfparty-fuer-195-000-euro-a-341b51f5-6b79-45d0-bdfd-3a2c238e04af#ref=rss)
-* [https://www.spiegel.de/gesundheit/corona-in-deutschland-warum-die-zahlen-so-hoch-sind-wie-noch-nie](https://www.spiegel.de/gesundheit/corona-in-deutschland-warum-die-zahlen-so-hoch-sind-wie-noch-nie-a-a7211c4c-7db7-4072-a18a-beedc0145ba7#ref=rss)
-### cottbus
-
-* [https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt-a-36e1ddec-e110-4e0f-b64c-c4b3fde46d78#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt](https://www.spiegel.de/panorama/justiz/cottbus-toedliche-schuesse-zwei-maenner-zu-lebenslanger-haft-verurteilt-a-36e1ddec-e110-4e0f-b64c-c4b3fde46d78#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bundesrat-heizkostenzaehler-muessen-bald-aus-der-ferne-ablesbar-sein](https://www.spiegel.de/wirtschaft/service/bundesrat-heizkostenzaehler-muessen-bald-aus-der-ferne-ablesbar-sein-a-a08ea57a-a5a8-42e3-b672-8b1e721fc676#ref=rss)
-### offiziere
-
-* [https://www.spiegel.de/ausland/usa-navy-entlaesst-drei-offiziere-nach-unfall-von-atom-u-boot](https://www.spiegel.de/ausland/usa-navy-entlaesst-drei-offiziere-nach-unfall-von-atom-u-boot-a-9252b55c-15a5-41d3-b384-2b170317121e#ref=rss)
+* [https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster](https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster-a-d218c4a6-474a-4b0c-b930-dfadfd55e438#ref=rss)
 ### unfall
 
-* [https://www.spiegel.de/ausland/usa-navy-entlaesst-drei-offiziere-nach-unfall-von-atom-u-boot](https://www.spiegel.de/ausland/usa-navy-entlaesst-drei-offiziere-nach-unfall-von-atom-u-boot-a-9252b55c-15a5-41d3-b384-2b170317121e#ref=rss)
-### kollision
+* [https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster](https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster-a-d218c4a6-474a-4b0c-b930-dfadfd55e438#ref=rss)
+* [https://www.spiegel.de/kultur/musik/brasilien-marilia-mendonca-stirbt-bei-flugzeugabsturz](https://www.spiegel.de/kultur/musik/brasilien-marilia-mendonca-stirbt-bei-flugzeugabsturz-a-0d88ed07-e4d9-4994-b031-bf8fd38789ef#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/ausland/usa-navy-entlaesst-drei-offiziere-nach-unfall-von-atom-u-boot](https://www.spiegel.de/ausland/usa-navy-entlaesst-drei-offiziere-nach-unfall-von-atom-u-boot-a-9252b55c-15a5-41d3-b384-2b170317121e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-kollision-mit-raumschiff-soll-asteroid-umlenken](https://www.spiegel.de/wissenschaft/weltall/nasa-kollision-mit-raumschiff-soll-asteroid-umlenken-a-3d41582b-81a5-4a7a-af34-e663b7e59eff#ref=rss)
-### ich
+* [https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster](https://www.spiegel.de/panorama/sierra-leone-dutzende-tote-bei-explosion-von-tanklaster-a-d218c4a6-474a-4b0c-b930-dfadfd55e438#ref=rss)
+* [https://www.spiegel.de/panorama/usa-massenpanik-bei-musikfestival-in-houston-mindestens-acht-tote](https://www.spiegel.de/panorama/usa-massenpanik-bei-musikfestival-in-houston-mindestens-acht-tote-a-d28230c3-605b-428a-be7f-6b74f15fb872#ref=rss)
+### pferderennen
 
-* [https://www.spiegel.de/kultur/tv/tatort-dreams-aus-muenchen-mord-ich-oder-traeum-ich](https://www.spiegel.de/kultur/tv/tatort-dreams-aus-muenchen-mord-ich-oder-traeum-ich-a-349dfa8f-b49e-417e-8879-597cbda5058e#ref=rss)
-### ferne
+* [https://www.spiegel.de/panorama/bilder-der-woche-kw44-pferderennen-in-laytown-halloween-la-palma-haiti](https://www.spiegel.de/panorama/bilder-der-woche-kw44-pferderennen-in-laytown-halloween-la-palma-haiti-a-d0a656c8-fa5d-46fd-b314-174a47bffcdd#ref=rss)
+### laytown
 
-* [https://www.spiegel.de/wirtschaft/service/bundesrat-heizkostenzaehler-muessen-bald-aus-der-ferne-ablesbar-sein](https://www.spiegel.de/wirtschaft/service/bundesrat-heizkostenzaehler-muessen-bald-aus-der-ferne-ablesbar-sein-a-a08ea57a-a5a8-42e3-b672-8b1e721fc676#ref=rss)
-### ablesbar
+* [https://www.spiegel.de/panorama/bilder-der-woche-kw44-pferderennen-in-laytown-halloween-la-palma-haiti](https://www.spiegel.de/panorama/bilder-der-woche-kw44-pferderennen-in-laytown-halloween-la-palma-haiti-a-d0a656c8-fa5d-46fd-b314-174a47bffcdd#ref=rss)
+### haiti
 
-* [https://www.spiegel.de/wirtschaft/service/bundesrat-heizkostenzaehler-muessen-bald-aus-der-ferne-ablesbar-sein](https://www.spiegel.de/wirtschaft/service/bundesrat-heizkostenzaehler-muessen-bald-aus-der-ferne-ablesbar-sein-a-a08ea57a-a5a8-42e3-b672-8b1e721fc676#ref=rss)
-### eegumlage
+* [https://www.spiegel.de/panorama/bilder-der-woche-kw44-pferderennen-in-laytown-halloween-la-palma-haiti](https://www.spiegel.de/panorama/bilder-der-woche-kw44-pferderennen-in-laytown-halloween-la-palma-haiti-a-d0a656c8-fa5d-46fd-b314-174a47bffcdd#ref=rss)
+### krise
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/eeg-umlage-von-konzernen-politik-ignoriert-energieabzocke](https://www.spiegel.de/wirtschaft/unternehmen/eeg-umlage-von-konzernen-politik-ignoriert-energieabzocke-a-b4b25802-7346-4d08-9e10-4c60cd9d209b#ref=rss)
-### asteroid
+* [https://www.spiegel.de/panorama/bilder-der-woche-kw44-pferderennen-in-laytown-halloween-la-palma-haiti](https://www.spiegel.de/panorama/bilder-der-woche-kw44-pferderennen-in-laytown-halloween-la-palma-haiti-a-d0a656c8-fa5d-46fd-b314-174a47bffcdd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck](https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck-a-0e43a5f1-114d-4a5d-adfc-3e2ad8a7fdf7#ref=rss)
+### fotos
 
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-kollision-mit-raumschiff-soll-asteroid-umlenken](https://www.spiegel.de/wissenschaft/weltall/nasa-kollision-mit-raumschiff-soll-asteroid-umlenken-a-3d41582b-81a5-4a7a-af34-e663b7e59eff#ref=rss)
+* [https://www.spiegel.de/panorama/bilder-der-woche-kw44-pferderennen-in-laytown-halloween-la-palma-haiti](https://www.spiegel.de/panorama/bilder-der-woche-kw44-pferderennen-in-laytown-halloween-la-palma-haiti-a-d0a656c8-fa5d-46fd-b314-174a47bffcdd#ref=rss)
+* [https://www.spiegel.de/panorama/leute/george-clooney-bittet-medien-um-verzicht-auf-fotos-seiner-kinder](https://www.spiegel.de/panorama/leute/george-clooney-bittet-medien-um-verzicht-auf-fotos-seiner-kinder-a-f05563ec-25c9-4a7e-ab2e-7b0413034a6b#ref=rss)
+### george
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-bittet-medien-um-verzicht-auf-fotos-seiner-kinder](https://www.spiegel.de/panorama/leute/george-clooney-bittet-medien-um-verzicht-auf-fotos-seiner-kinder-a-f05563ec-25c9-4a7e-ab2e-7b0413034a6b#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-bittet-medien-um-verzicht-auf-fotos-seiner-kinder](https://www.spiegel.de/panorama/leute/george-clooney-bittet-medien-um-verzicht-auf-fotos-seiner-kinder-a-f05563ec-25c9-4a7e-ab2e-7b0413034a6b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-bei-kindern-es-ist-wirklich-interessant-dass-es-in-deutschland-dieses-schwarz-weiss-denken-gibt](https://www.spiegel.de/wissenschaft/medizin/coronavirus-bei-kindern-es-ist-wirklich-interessant-dass-es-in-deutschland-dieses-schwarz-weiss-denken-gibt-a-af7db7aa-804b-49d4-8332-d3677747766f#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-bittet-medien-um-verzicht-auf-fotos-seiner-kinder](https://www.spiegel.de/panorama/leute/george-clooney-bittet-medien-um-verzicht-auf-fotos-seiner-kinder-a-f05563ec-25c9-4a7e-ab2e-7b0413034a6b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-nemonte-nenquimo-ist-die-hueterin-des-regenwaldes](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-nemonte-nenquimo-ist-die-hueterin-des-regenwaldes-a-42beb9b4-a66b-4cf7-8a7b-ce0557460b40#ref=rss)
+### abtreibungsrecht
+
+* [https://www.spiegel.de/politik/deutschland/abtreibungsrecht-und-ampel-koalition-warum-es-kaum-fortschritt-geben-wird](https://www.spiegel.de/politik/deutschland/abtreibungsrecht-und-ampel-koalition-warum-es-kaum-fortschritt-geben-wird-a-5cc63ac4-9f04-4018-a37b-eb04fc192ddd#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/abtreibungsrecht-und-ampel-koalition-warum-es-kaum-fortschritt-geben-wird](https://www.spiegel.de/politik/deutschland/abtreibungsrecht-und-ampel-koalition-warum-es-kaum-fortschritt-geben-wird-a-5cc63ac4-9f04-4018-a37b-eb04fc192ddd#ref=rss)
+* [https://www.spiegel.de/geschichte/linker-studentenbund-sds-frauen-durften-die-aschenbecher-saubermachen](https://www.spiegel.de/geschichte/linker-studentenbund-sds-frauen-durften-die-aschenbecher-saubermachen-a-e9363a2d-f8f5-4ddb-bf17-1da718d88281#ref=rss)
+### ice
+
+* [https://www.spiegel.de/panorama/bayern-messerattacke-in-ice-mehrere-verletzte](https://www.spiegel.de/panorama/bayern-messerattacke-in-ice-mehrere-verletzte-a-07903aaa-a881-43bd-a54c-212b6d35f092#ref=rss)
+### uhr
+
+* [https://www.spiegel.de/panorama/bayern-messerattacke-in-ice-mehrere-verletzte](https://www.spiegel.de/panorama/bayern-messerattacke-in-ice-mehrere-verletzte-a-07903aaa-a881-43bd-a54c-212b6d35f092#ref=rss)
+* [https://www.spiegel.de/panorama/spanien-polizei-faengt-acht-kamele-und-ein-lama-in-madrid-ein](https://www.spiegel.de/panorama/spanien-polizei-faengt-acht-kamele-und-ein-lama-in-madrid-ein-a-68fe5d0e-3a93-429c-bf7a-7ccbe47fa340#ref=rss)
+### personen
+
+* [https://www.spiegel.de/panorama/bayern-messerattacke-in-ice-mehrere-verletzte](https://www.spiegel.de/panorama/bayern-messerattacke-in-ice-mehrere-verletzte-a-07903aaa-a881-43bd-a54c-212b6d35f092#ref=rss)
+* [https://www.spiegel.de/kultur/musik/brasilien-marilia-mendonca-stirbt-bei-flugzeugabsturz](https://www.spiegel.de/kultur/musik/brasilien-marilia-mendonca-stirbt-bei-flugzeugabsturz-a-0d88ed07-e4d9-4994-b031-bf8fd38789ef#ref=rss)
+### kamele
+
+* [https://www.spiegel.de/panorama/spanien-polizei-faengt-acht-kamele-und-ein-lama-in-madrid-ein](https://www.spiegel.de/panorama/spanien-polizei-faengt-acht-kamele-und-ein-lama-in-madrid-ein-a-68fe5d0e-3a93-429c-bf7a-7ccbe47fa340#ref=rss)
+### lama
+
+* [https://www.spiegel.de/panorama/spanien-polizei-faengt-acht-kamele-und-ein-lama-in-madrid-ein](https://www.spiegel.de/panorama/spanien-polizei-faengt-acht-kamele-und-ein-lama-in-madrid-ein-a-68fe5d0e-3a93-429c-bf7a-7ccbe47fa340#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/panorama/spanien-polizei-faengt-acht-kamele-und-ein-lama-in-madrid-ein](https://www.spiegel.de/panorama/spanien-polizei-faengt-acht-kamele-und-ein-lama-in-madrid-ein-a-68fe5d0e-3a93-429c-bf7a-7ccbe47fa340#ref=rss)
+* [https://www.spiegel.de/ausland/coronavirus-nachbarlaender-wundern-sich-ueber-deutschlands-pandemiemanagement](https://www.spiegel.de/ausland/coronavirus-nachbarlaender-wundern-sich-ueber-deutschlands-pandemiemanagement-a-9c9f87cd-f266-4f33-891d-b9edcd9e8b05#ref=rss)
+### coronavirus
+
+* [https://www.spiegel.de/ausland/coronavirus-nachbarlaender-wundern-sich-ueber-deutschlands-pandemiemanagement](https://www.spiegel.de/ausland/coronavirus-nachbarlaender-wundern-sich-ueber-deutschlands-pandemiemanagement-a-9c9f87cd-f266-4f33-891d-b9edcd9e8b05#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-rki-meldet-34-002-neuninfektionen-inzidenz-steigt-auf-ueber-180](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-rki-meldet-34-002-neuninfektionen-inzidenz-steigt-auf-ueber-180-a-f4f6267a-df6a-44b4-936e-399fac1c2283#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/ausland/coronavirus-nachbarlaender-wundern-sich-ueber-deutschlands-pandemiemanagement](https://www.spiegel.de/ausland/coronavirus-nachbarlaender-wundern-sich-ueber-deutschlands-pandemiemanagement-a-9c9f87cd-f266-4f33-891d-b9edcd9e8b05#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-zerschlagung-waere-der-endgueltige-ruin-sagt-ex-sbb-chef](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-zerschlagung-waere-der-endgueltige-ruin-sagt-ex-sbb-chef-a-a012f175-e268-41d2-9262-cc0a6dde3c2f#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/kultur/musik/brasilien-marilia-mendonca-stirbt-bei-flugzeugabsturz](https://www.spiegel.de/kultur/musik/brasilien-marilia-mendonca-stirbt-bei-flugzeugabsturz-a-0d88ed07-e4d9-4994-b031-bf8fd38789ef#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-extreme-duerre-in-feuchtgebiet-warum-das-pantanal-austrocknet](https://www.spiegel.de/ausland/brasilien-extreme-duerre-in-feuchtgebiet-warum-das-pantanal-austrocknet-a-5534c059-55a2-48f9-8cf9-45f1a072d865#ref=rss)
+### marília
+
+* [https://www.spiegel.de/kultur/musik/brasilien-marilia-mendonca-stirbt-bei-flugzeugabsturz](https://www.spiegel.de/kultur/musik/brasilien-marilia-mendonca-stirbt-bei-flugzeugabsturz-a-0d88ed07-e4d9-4994-b031-bf8fd38789ef#ref=rss)
+### mendonça
+
+* [https://www.spiegel.de/kultur/musik/brasilien-marilia-mendonca-stirbt-bei-flugzeugabsturz](https://www.spiegel.de/kultur/musik/brasilien-marilia-mendonca-stirbt-bei-flugzeugabsturz-a-0d88ed07-e4d9-4994-b031-bf8fd38789ef#ref=rss)
+### brasilianischen
+
+* [https://www.spiegel.de/kultur/musik/brasilien-marilia-mendonca-stirbt-bei-flugzeugabsturz](https://www.spiegel.de/kultur/musik/brasilien-marilia-mendonca-stirbt-bei-flugzeugabsturz-a-0d88ed07-e4d9-4994-b031-bf8fd38789ef#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-extreme-duerre-in-feuchtgebiet-warum-das-pantanal-austrocknet](https://www.spiegel.de/ausland/brasilien-extreme-duerre-in-feuchtgebiet-warum-das-pantanal-austrocknet-a-5534c059-55a2-48f9-8cf9-45f1a072d865#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck](https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck-a-0e43a5f1-114d-4a5d-adfc-3e2ad8a7fdf7#ref=rss)
+### barcelona
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck](https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck-a-0e43a5f1-114d-4a5d-adfc-3e2ad8a7fdf7#ref=rss)
+### xavi
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck](https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck-a-0e43a5f1-114d-4a5d-adfc-3e2ad8a7fdf7#ref=rss)
+### kehrt
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck](https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck-a-0e43a5f1-114d-4a5d-adfc-3e2ad8a7fdf7#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck](https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck-a-0e43a5f1-114d-4a5d-adfc-3e2ad8a7fdf7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft](https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft-a-f9184d66-c9fd-4749-b69a-4df6ffc8af71#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck](https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck-a-0e43a5f1-114d-4a5d-adfc-3e2ad8a7fdf7#ref=rss)
+### verhandlungen
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck](https://www.spiegel.de/sport/fussball/fc-barcelona-klub-idol-xavi-kehrt-als-trainer-zurueck-a-0e43a5f1-114d-4a5d-adfc-3e2ad8a7fdf7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze](https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze-a-4338fc06-8933-4e15-9a25-47ff16daa5c9#ref=rss)
+### spät
+
+* [https://www.spiegel.de/wissenschaft/fridays-for-future-in-glasgow-es-fuehlt-sich-an-als-waeren-wir-die-wahren-weltfuehrer](https://www.spiegel.de/wissenschaft/fridays-for-future-in-glasgow-es-fuehlt-sich-an-als-waeren-wir-die-wahren-weltfuehrer-a-19b5ed75-0067-4b34-9cdc-e1dd4d56d6c8#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hausaerzte-in-schleswig-holstein-aergern-sich-ueber-impf-buerokratie-voellig-absurd](https://www.spiegel.de/panorama/gesellschaft/hausaerzte-in-schleswig-holstein-aergern-sich-ueber-impf-buerokratie-voellig-absurd-a-fab237fd-8eba-4131-b7c1-b218391a5db0#ref=rss)
+### harvey
+
+* [https://www.spiegel.de/ausland/usa-marine-benennt-schiff-nach-schwulenrechtsaktivist-harvey-milk](https://www.spiegel.de/ausland/usa-marine-benennt-schiff-nach-schwulenrechtsaktivist-harvey-milk-a-bc52872e-60fb-415c-a552-4c70c5b84fd0#ref=rss)
+### milk
+
+* [https://www.spiegel.de/ausland/usa-marine-benennt-schiff-nach-schwulenrechtsaktivist-harvey-milk](https://www.spiegel.de/ausland/usa-marine-benennt-schiff-nach-schwulenrechtsaktivist-harvey-milk-a-bc52872e-60fb-415c-a552-4c70c5b84fd0#ref=rss)
+### erste
+
+* [https://www.spiegel.de/ausland/usa-marine-benennt-schiff-nach-schwulenrechtsaktivist-harvey-milk](https://www.spiegel.de/ausland/usa-marine-benennt-schiff-nach-schwulenrechtsaktivist-harvey-milk-a-bc52872e-60fb-415c-a552-4c70c5b84fd0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel](https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel-a-a435077e-6124-4c34-9123-1a790fa58af4#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/usa-marine-benennt-schiff-nach-schwulenrechtsaktivist-harvey-milk](https://www.spiegel.de/ausland/usa-marine-benennt-schiff-nach-schwulenrechtsaktivist-harvey-milk-a-bc52872e-60fb-415c-a552-4c70c5b84fd0#ref=rss)
+* [https://www.spiegel.de/geschichte/linker-studentenbund-sds-frauen-durften-die-aschenbecher-saubermachen](https://www.spiegel.de/geschichte/linker-studentenbund-sds-frauen-durften-die-aschenbecher-saubermachen-a-e9363a2d-f8f5-4ddb-bf17-1da718d88281#ref=rss)
+### nemonte
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-nemonte-nenquimo-ist-die-hueterin-des-regenwaldes](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-nemonte-nenquimo-ist-die-hueterin-des-regenwaldes-a-42beb9b4-a66b-4cf7-8a7b-ce0557460b40#ref=rss)
+### nenquimo
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-nemonte-nenquimo-ist-die-hueterin-des-regenwaldes](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-nemonte-nenquimo-ist-die-hueterin-des-regenwaldes-a-42beb9b4-a66b-4cf7-8a7b-ce0557460b40#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-nemonte-nenquimo-ist-die-hueterin-des-regenwaldes](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-nemonte-nenquimo-ist-die-hueterin-des-regenwaldes-a-42beb9b4-a66b-4cf7-8a7b-ce0557460b40#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze](https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze-a-4338fc06-8933-4e15-9a25-47ff16daa5c9#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-nemonte-nenquimo-ist-die-hueterin-des-regenwaldes](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-nemonte-nenquimo-ist-die-hueterin-des-regenwaldes-a-42beb9b4-a66b-4cf7-8a7b-ce0557460b40#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kongress-beschliesst-billionenschweres-infrastrukturpaket](https://www.spiegel.de/ausland/usa-kongress-beschliesst-billionenschweres-infrastrukturpaket-a-69660172-b9b4-4fe5-a5f8-8455b06dd56d#ref=rss)
+### sebastian
+
+* [https://www.spiegel.de/ausland/sebastian-kurz-wie-grossspender-ihn-zum-kanzler-machten-podcast](https://www.spiegel.de/ausland/sebastian-kurz-wie-grossspender-ihn-zum-kanzler-machten-podcast-a-d160355d-2e3e-4348-a329-6eae36aa25f4#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/ausland/sebastian-kurz-wie-grossspender-ihn-zum-kanzler-machten-podcast](https://www.spiegel.de/ausland/sebastian-kurz-wie-grossspender-ihn-zum-kanzler-machten-podcast-a-d160355d-2e3e-4348-a329-6eae36aa25f4#ref=rss)
+### houston
+
+* [https://www.spiegel.de/panorama/usa-massenpanik-bei-musikfestival-in-houston-mindestens-acht-tote](https://www.spiegel.de/panorama/usa-massenpanik-bei-musikfestival-in-houston-mindestens-acht-tote-a-d28230c3-605b-428a-be7f-6b74f15fb872#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-bei-kindern-es-ist-wirklich-interessant-dass-es-in-deutschland-dieses-schwarz-weiss-denken-gibt](https://www.spiegel.de/wissenschaft/medizin/coronavirus-bei-kindern-es-ist-wirklich-interessant-dass-es-in-deutschland-dieses-schwarz-weiss-denken-gibt-a-af7db7aa-804b-49d4-8332-d3677747766f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-zerschlagung-waere-der-endgueltige-ruin-sagt-ex-sbb-chef](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-zerschlagung-waere-der-endgueltige-ruin-sagt-ex-sbb-chef-a-a012f175-e268-41d2-9262-cc0a6dde3c2f#ref=rss)
+### gerd
+
+* [https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel](https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel-a-a435077e-6124-4c34-9123-1a790fa58af4#ref=rss)
+### müller
+
+* [https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel](https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel-a-a435077e-6124-4c34-9123-1a790fa58af4#ref=rss)
+### allem
+
+* [https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel](https://www.spiegel.de/politik/deutschland/cop26-entwicklungsminister-mueller-kritisiert-bisherige-ergebnisse-auf-klimagipfel-a-a435077e-6124-4c34-9123-1a790fa58af4#ref=rss)
+* [https://www.spiegel.de/ausland/usa-kongress-beschliesst-billionenschweres-infrastrukturpaket](https://www.spiegel.de/ausland/usa-kongress-beschliesst-billionenschweres-infrastrukturpaket-a-69660172-b9b4-4fe5-a5f8-8455b06dd56d#ref=rss)
+### samstag
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-samstag-verfassungsschuetzer-warnt-vor-immer-radikaleren-corona-leugnern](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-samstag-verfassungsschuetzer-warnt-vor-immer-radikaleren-corona-leugnern-a-0f5e3784-64c9-45db-ad58-875adbc7284c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-lahme-coronapolitik-teilerfolge-in-glasgow-seehofers-verkleinerte-merkel](https://www.spiegel.de/politik/deutschland/news-lahme-coronapolitik-teilerfolge-in-glasgow-seehofers-verkleinerte-merkel-a-7861e6be-09fc-483a-b28e-c9e968074a68#ref=rss)
+### schmidtchanasit
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-samstag-verfassungsschuetzer-warnt-vor-immer-radikaleren-corona-leugnern](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-samstag-verfassungsschuetzer-warnt-vor-immer-radikaleren-corona-leugnern-a-0f5e3784-64c9-45db-ad58-875adbc7284c#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-samstag-verfassungsschuetzer-warnt-vor-immer-radikaleren-corona-leugnern](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-samstag-verfassungsschuetzer-warnt-vor-immer-radikaleren-corona-leugnern-a-0f5e3784-64c9-45db-ad58-875adbc7284c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-rki-meldet-34-002-neuninfektionen-inzidenz-steigt-auf-ueber-180](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-rki-meldet-34-002-neuninfektionen-inzidenz-steigt-auf-ueber-180-a-f4f6267a-df6a-44b4-936e-399fac1c2283#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-samstag-verfassungsschuetzer-warnt-vor-immer-radikaleren-corona-leugnern](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-samstag-verfassungsschuetzer-warnt-vor-immer-radikaleren-corona-leugnern-a-0f5e3784-64c9-45db-ad58-875adbc7284c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze](https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze-a-4338fc06-8933-4e15-9a25-47ff16daa5c9#ref=rss)
+### neuinfektionen
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-samstag-verfassungsschuetzer-warnt-vor-immer-radikaleren-corona-leugnern](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-samstag-verfassungsschuetzer-warnt-vor-immer-radikaleren-corona-leugnern-a-0f5e3784-64c9-45db-ad58-875adbc7284c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-rki-meldet-34-002-neuninfektionen-inzidenz-steigt-auf-ueber-180](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-rki-meldet-34-002-neuninfektionen-inzidenz-steigt-auf-ueber-180-a-f4f6267a-df6a-44b4-936e-399fac1c2283#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze](https://www.spiegel.de/politik/deutschland/gruene-annalena-baerbock-fordert-klimacheck-fuer-alle-neuen-gesetze-a-4338fc06-8933-4e15-9a25-47ff16daa5c9#ref=rss)
+### coronapolitik
+
+* [https://www.spiegel.de/politik/deutschland/news-lahme-coronapolitik-teilerfolge-in-glasgow-seehofers-verkleinerte-merkel](https://www.spiegel.de/politik/deutschland/news-lahme-coronapolitik-teilerfolge-in-glasgow-seehofers-verkleinerte-merkel-a-7861e6be-09fc-483a-b28e-c9e968074a68#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/politik/deutschland/news-lahme-coronapolitik-teilerfolge-in-glasgow-seehofers-verkleinerte-merkel](https://www.spiegel.de/politik/deutschland/news-lahme-coronapolitik-teilerfolge-in-glasgow-seehofers-verkleinerte-merkel-a-7861e6be-09fc-483a-b28e-c9e968074a68#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft](https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft-a-f9184d66-c9fd-4749-b69a-4df6ffc8af71#ref=rss)
+### sds
+
+* [https://www.spiegel.de/geschichte/linker-studentenbund-sds-frauen-durften-die-aschenbecher-saubermachen](https://www.spiegel.de/geschichte/linker-studentenbund-sds-frauen-durften-die-aschenbecher-saubermachen-a-e9363a2d-f8f5-4ddb-bf17-1da718d88281#ref=rss)
+### wien
+
+* [https://www.spiegel.de/politik/deutschland/terroranschlag-von-wien-ermittler-finden-dna-eines-osnabrueckers-an-sprengstoffguertel-attrappe](https://www.spiegel.de/politik/deutschland/terroranschlag-von-wien-ermittler-finden-dna-eines-osnabrueckers-an-sprengstoffguertel-attrappe-a-47f70b47-2ab0-45c9-a5c4-e86e53e3a7b9#ref=rss)
+### dune
+
+* [https://www.spiegel.de/netzwelt/games/weltraum-brettspiele-dune-imperium-galaxy-trucker-star-scrappers-orbital-rocketmen](https://www.spiegel.de/netzwelt/games/weltraum-brettspiele-dune-imperium-galaxy-trucker-star-scrappers-orbital-rocketmen-a-ecd3d4bd-a789-420e-adc4-ce523939a47d#ref=rss)
+### bekommen
+
+* [https://www.spiegel.de/netzwelt/games/weltraum-brettspiele-dune-imperium-galaxy-trucker-star-scrappers-orbital-rocketmen](https://www.spiegel.de/netzwelt/games/weltraum-brettspiele-dune-imperium-galaxy-trucker-star-scrappers-orbital-rocketmen-a-ecd3d4bd-a789-420e-adc4-ce523939a47d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hausaerzte-in-schleswig-holstein-aergern-sich-ueber-impf-buerokratie-voellig-absurd](https://www.spiegel.de/panorama/gesellschaft/hausaerzte-in-schleswig-holstein-aergern-sich-ueber-impf-buerokratie-voellig-absurd-a-fab237fd-8eba-4131-b7c1-b218391a5db0#ref=rss)
+### 180
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-rki-meldet-34-002-neuninfektionen-inzidenz-steigt-auf-ueber-180](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-rki-meldet-34-002-neuninfektionen-inzidenz-steigt-auf-ueber-180-a-f4f6267a-df6a-44b4-936e-399fac1c2283#ref=rss)
+### schleswigholstein
+
+* [https://www.spiegel.de/panorama/gesellschaft/hausaerzte-in-schleswig-holstein-aergern-sich-ueber-impf-buerokratie-voellig-absurd](https://www.spiegel.de/panorama/gesellschaft/hausaerzte-in-schleswig-holstein-aergern-sich-ueber-impf-buerokratie-voellig-absurd-a-fab237fd-8eba-4131-b7c1-b218391a5db0#ref=rss)
+### mccartney
+
+* [https://www.spiegel.de/kultur/musik/paul-mccartney-bringt-mit-dichter-paul-muldoon-songtexte-und-essays-heraus-lyrics-1956-bis-heute](https://www.spiegel.de/kultur/musik/paul-mccartney-bringt-mit-dichter-paul-muldoon-songtexte-und-essays-heraus-lyrics-1956-bis-heute-a-4532b21f-e87c-41d6-ac3d-a717a48083b9#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft](https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft-a-f9184d66-c9fd-4749-b69a-4df6ffc8af71#ref=rss)
+### united
+
+* [https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft](https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft-a-f9184d66-c9fd-4749-b69a-4df6ffc8af71#ref=rss)
+### sir
+
+* [https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft](https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft-a-f9184d66-c9fd-4749-b69a-4df6ffc8af71#ref=rss)
+### alex
+
+* [https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft](https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft-a-f9184d66-c9fd-4749-b69a-4df6ffc8af71#ref=rss)
+### ferguson
+
+* [https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft](https://www.spiegel.de/sport/fussball/manchester-united-sie-klammern-sich-an-klubikone-sir-alex-ferguson-und-verspielen-so-ihre-zukunft-a-f9184d66-c9fd-4749-b69a-4df6ffc8af71#ref=rss)
+### pantanal
+
+* [https://www.spiegel.de/ausland/brasilien-extreme-duerre-in-feuchtgebiet-warum-das-pantanal-austrocknet](https://www.spiegel.de/ausland/brasilien-extreme-duerre-in-feuchtgebiet-warum-das-pantanal-austrocknet-a-5534c059-55a2-48f9-8cf9-45f1a072d865#ref=rss)
 
