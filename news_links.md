@@ -4,243 +4,344 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/angst-vor-inflation-kryptowaehrungen-bitcoin-und-ethereum-steigen-auf-rekordwerte](https://www.spiegel.de/wirtschaft/angst-vor-inflation-kryptowaehrungen-bitcoin-und-ethereum-steigen-auf-rekordwerte-a-fc63fc7d-dc68-42ff-826d-d1f48a33addf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gaskrise-gazprom-liefert-etwas-mehr-erdgas-nach-deutschland-vorerst](https://www.spiegel.de/wirtschaft/gaskrise-gazprom-liefert-etwas-mehr-erdgas-nach-deutschland-vorerst-a-2ff24f38-1957-493a-9622-9749feb61dd3#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/mediamarkt-und-saturn-erpresser-verlangen-angeblich-50-millionen-dollar](https://www.spiegel.de/netzwelt/web/mediamarkt-und-saturn-erpresser-verlangen-angeblich-50-millionen-dollar-a-5a50962b-c8ab-49bd-8291-d713375ff2d3#ref=rss)
-* [https://www.spiegel.de/ausland/calais-wieder-mehr-menschen-wagen-die-gefaehrliche-ueberfahrt-nach-grossbritannien](https://www.spiegel.de/ausland/calais-wieder-mehr-menschen-wagen-die-gefaehrliche-ueberfahrt-nach-grossbritannien-a-8442a2f4-3c67-4698-8ecc-94d1e7937f8a#ref=rss)
-* [https://www.spiegel.de/panorama/penwyllt-mann-nach-54-stunden-aus-hoehle-gerettet](https://www.spiegel.de/panorama/penwyllt-mann-nach-54-stunden-aus-hoehle-gerettet-a-dc79d6a7-8501-42ec-bb68-482a67fb4c61#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-und-geldpolitik-das-sind-jetzt-die-groessten-sorgen-der-maerkte](https://www.spiegel.de/wirtschaft/inflation-und-geldpolitik-das-sind-jetzt-die-groessten-sorgen-der-maerkte-a-d276609a-571f-4ffc-9b83-5b4f682e16b3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-anruf-beim-esa-astronauten-im-wartestand](https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-anruf-beim-esa-astronauten-im-wartestand-a-e9784580-3817-428c-a6e5-0fbd854f711c#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/migranten-an-der-grenze-belarus-warnt-polen-vor-provokationen](https://www.spiegel.de/ausland/migranten-an-der-grenze-belarus-warnt-polen-vor-provokationen-a-cc5aa41d-a85c-4fad-aeef-6751710fd8fb#ref=rss)
-* [https://www.spiegel.de/ausland/andrang-von-migranten-polen-hat-grenzuebergang-zu-belarus-geschlossen](https://www.spiegel.de/ausland/andrang-von-migranten-polen-hat-grenzuebergang-zu-belarus-geschlossen-a-776f3e46-10dc-42a4-a304-5026b8ec6ee4#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-2022-rodler-verletzt-sich-auf-olympia-bahn-von-peking-schwer](https://www.spiegel.de/sport/olympia/olympische-winterspiele-2022-rodler-verletzt-sich-auf-olympia-bahn-von-peking-schwer-a-c005a0be-5771-4779-95df-7a751e902dff#ref=rss)
 ### belarus
 
-* [https://www.spiegel.de/ausland/migranten-an-der-grenze-belarus-warnt-polen-vor-provokationen](https://www.spiegel.de/ausland/migranten-an-der-grenze-belarus-warnt-polen-vor-provokationen-a-cc5aa41d-a85c-4fad-aeef-6751710fd8fb#ref=rss)
-* [https://www.spiegel.de/ausland/andrang-von-migranten-polen-hat-grenzuebergang-zu-belarus-geschlossen](https://www.spiegel.de/ausland/andrang-von-migranten-polen-hat-grenzuebergang-zu-belarus-geschlossen-a-776f3e46-10dc-42a4-a304-5026b8ec6ee4#ref=rss)
-### pandemie
+* [https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise](https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise-a-7f3ebca9-935d-4334-b751-a8f8fadf0ecd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin-a-9ffbd669-b6cb-46ad-a309-1399d651f7ee#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu](https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu-a-44cd4e15-38bf-466e-99f4-edf495da32d0#ref=rss)
+* [https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann](https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann-a-07cdf9c3-85c5-46aa-a597-883f26fafe1c#ref=rss)
+* [https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus](https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus-a-4aaf00f8-80d3-407c-9fee-3b59d934e920#ref=rss)
+### lage
 
-* [https://www.spiegel.de/wirtschaft/inflation-und-geldpolitik-das-sind-jetzt-die-groessten-sorgen-der-maerkte](https://www.spiegel.de/wirtschaft/inflation-und-geldpolitik-das-sind-jetzt-die-groessten-sorgen-der-maerkte-a-d276609a-571f-4ffc-9b83-5b4f682e16b3#ref=rss)
-* [https://www.spiegel.de/ausland/hongkong-wie-reisende-der-strengen-zero-covid-politik-zu-entkommen-versuchen](https://www.spiegel.de/ausland/hongkong-wie-reisende-der-strengen-zero-covid-politik-zu-entkommen-versuchen-a-66ac40a9-a356-49f4-b6d2-1bc19a3b2f1d#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich](https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich-a-9104bf3d-d09e-460f-ad26-87e8c43e4b02#ref=rss)
-### inflation
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin-a-9ffbd669-b6cb-46ad-a309-1399d651f7ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-und-die-ampel-ein-plan-der-den-liberalen-gefaellt](https://www.spiegel.de/politik/deutschland/corona-und-die-ampel-ein-plan-der-den-liberalen-gefaellt-a-96e339da-da8d-4913-a645-848f263b1ffb#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-expertin-jenny-ueber-eine-drohende-hungerkrise-wenn-selbst-kim-jong-un-warnt-muss-die-lage-angespannt-sein](https://www.spiegel.de/ausland/nordkorea-expertin-jenny-ueber-eine-drohende-hungerkrise-wenn-selbst-kim-jong-un-warnt-muss-die-lage-angespannt-sein-a-a487b104-ac37-40a8-8a2c-dd354c1fe326#ref=rss)
+* [https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann](https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann-a-07cdf9c3-85c5-46aa-a597-883f26fafe1c#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/wirtschaft/angst-vor-inflation-kryptowaehrungen-bitcoin-und-ethereum-steigen-auf-rekordwerte](https://www.spiegel.de/wirtschaft/angst-vor-inflation-kryptowaehrungen-bitcoin-und-ethereum-steigen-auf-rekordwerte-a-fc63fc7d-dc68-42ff-826d-d1f48a33addf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-und-geldpolitik-das-sind-jetzt-die-groessten-sorgen-der-maerkte](https://www.spiegel.de/wirtschaft/inflation-und-geldpolitik-das-sind-jetzt-die-groessten-sorgen-der-maerkte-a-d276609a-571f-4ffc-9b83-5b4f682e16b3#ref=rss)
-### deutschland
+* [https://www.spiegel.de/wirtschaft/vorkaufsrecht-bundesverwaltungsgericht-setzt-berlin-grenzen-beim-ausbooten-von-hauskaeufern](https://www.spiegel.de/wirtschaft/vorkaufsrecht-bundesverwaltungsgericht-setzt-berlin-grenzen-beim-ausbooten-von-hauskaeufern-a-662dc525-602d-46cc-9262-4ec3db02e7e6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-sexueller-missbrauch-in-schwuler-kiezpraxis-prozessbeteiligte-legen-berufung-ein](https://www.spiegel.de/panorama/justiz/berlin-sexueller-missbrauch-in-schwuler-kiezpraxis-prozessbeteiligte-legen-berufung-ein-a-e6f7ce60-314f-4647-b92a-93053556d74a#ref=rss)
+* [https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann](https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann-a-07cdf9c3-85c5-46aa-a597-883f26fafe1c#ref=rss)
+### polen
 
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-index-daenemark-ist-im-klimaschutz-klassenbester](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-index-daenemark-ist-im-klimaschutz-klassenbester-a-0df1f3c4-ea5e-402b-bc36-26fe31ce7f7a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gaskrise-gazprom-liefert-etwas-mehr-erdgas-nach-deutschland-vorerst](https://www.spiegel.de/wirtschaft/gaskrise-gazprom-liefert-etwas-mehr-erdgas-nach-deutschland-vorerst-a-2ff24f38-1957-493a-9622-9749feb61dd3#ref=rss)
-### migranten
+* [https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise](https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise-a-7f3ebca9-935d-4334-b751-a8f8fadf0ecd#ref=rss)
+* [https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann](https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann-a-07cdf9c3-85c5-46aa-a597-883f26fafe1c#ref=rss)
+* [https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus](https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus-a-4aaf00f8-80d3-407c-9fee-3b59d934e920#ref=rss)
+### drei
 
-* [https://www.spiegel.de/ausland/migranten-an-der-grenze-belarus-warnt-polen-vor-provokationen](https://www.spiegel.de/ausland/migranten-an-der-grenze-belarus-warnt-polen-vor-provokationen-a-cc5aa41d-a85c-4fad-aeef-6751710fd8fb#ref=rss)
-* [https://www.spiegel.de/ausland/andrang-von-migranten-polen-hat-grenzuebergang-zu-belarus-geschlossen](https://www.spiegel.de/ausland/andrang-von-migranten-polen-hat-grenzuebergang-zu-belarus-geschlossen-a-776f3e46-10dc-42a4-a304-5026b8ec6ee4#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/kirchroth-lkw-blockieren-a3-und-halten-geisterfahrer-auf](https://www.spiegel.de/panorama/kirchroth-lkw-blockieren-a3-und-halten-geisterfahrer-auf-a-a944da27-6164-4421-8a4c-a16265b89142#ref=rss)
-* [https://www.spiegel.de/panorama/penwyllt-mann-nach-54-stunden-aus-hoehle-gerettet](https://www.spiegel.de/panorama/penwyllt-mann-nach-54-stunden-aus-hoehle-gerettet-a-dc79d6a7-8501-42ec-bb68-482a67fb4c61#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/penwyllt-mann-nach-54-stunden-aus-hoehle-gerettet](https://www.spiegel.de/panorama/penwyllt-mann-nach-54-stunden-aus-hoehle-gerettet-a-dc79d6a7-8501-42ec-bb68-482a67fb4c61#ref=rss)
-* [https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf](https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf-a-bcd15d5d-4494-48e9-a71f-ac27dac546f3#ref=rss)
-### schule
-
-* [https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich](https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich-a-9104bf3d-d09e-460f-ad26-87e8c43e4b02#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-polizei-gelingt-schlag-gegen-drogenbande](https://www.spiegel.de/panorama/justiz/niederlande-polizei-gelingt-schlag-gegen-drogenbande-a-2d0c3845-1718-40ca-b0eb-87cff755679e#ref=rss)
-* [https://www.spiegel.de/panorama/physiotherapeutin-schlaeft-betrunken-im-bett-neben-ihrer-patientin-ein](https://www.spiegel.de/panorama/physiotherapeutin-schlaeft-betrunken-im-bett-neben-ihrer-patientin-ein-a-e415c172-63df-48be-b802-48c65cb793d0#ref=rss)
-### drogenbande
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-polizei-gelingt-schlag-gegen-drogenbande](https://www.spiegel.de/panorama/justiz/niederlande-polizei-gelingt-schlag-gegen-drogenbande-a-2d0c3845-1718-40ca-b0eb-87cff755679e#ref=rss)
-### ermittler
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-polizei-gelingt-schlag-gegen-drogenbande](https://www.spiegel.de/panorama/justiz/niederlande-polizei-gelingt-schlag-gegen-drogenbande-a-2d0c3845-1718-40ca-b0eb-87cff755679e#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/ransomware-attacken-ermittler-fassen-mehrere-mutmassliche-cyber-erpresser](https://www.spiegel.de/netzwelt/web/ransomware-attacken-ermittler-fassen-mehrere-mutmassliche-cyber-erpresser-a-b4b2bec9-f512-4161-8c5e-e8afde45a5ad#ref=rss)
-### mdr
-
-* [https://www.spiegel.de/kultur/zwickau-mdr-verurteilt-taetlichen-angriff-auf-kamerateam-bei-corona-demo-scharf](https://www.spiegel.de/kultur/zwickau-mdr-verurteilt-taetlichen-angriff-auf-kamerateam-bei-corona-demo-scharf-a-fbb27734-b540-4025-b069-7878c6769eb1#ref=rss)
-### gekommen
-
-* [https://www.spiegel.de/kultur/zwickau-mdr-verurteilt-taetlichen-angriff-auf-kamerateam-bei-corona-demo-scharf](https://www.spiegel.de/kultur/zwickau-mdr-verurteilt-taetlichen-angriff-auf-kamerateam-bei-corona-demo-scharf-a-fbb27734-b540-4025-b069-7878c6769eb1#ref=rss)
-* [https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf](https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf-a-bcd15d5d-4494-48e9-a71f-ac27dac546f3#ref=rss)
-### kryptowährungen
-
-* [https://www.spiegel.de/wirtschaft/angst-vor-inflation-kryptowaehrungen-bitcoin-und-ethereum-steigen-auf-rekordwerte](https://www.spiegel.de/wirtschaft/angst-vor-inflation-kryptowaehrungen-bitcoin-und-ethereum-steigen-auf-rekordwerte-a-fc63fc7d-dc68-42ff-826d-d1f48a33addf#ref=rss)
-### ampelkoalition
-
-* [https://www.spiegel.de/wirtschaft/corona-gesetz-ampelkoalition-will-3g-am-arbeitsplatz](https://www.spiegel.de/wirtschaft/corona-gesetz-ampelkoalition-will-3g-am-arbeitsplatz-a-09ba70cf-4ca1-499d-8b4e-0a30804d9d31#ref=rss)
-### arbeitsplatz
-
-* [https://www.spiegel.de/wirtschaft/corona-gesetz-ampelkoalition-will-3g-am-arbeitsplatz](https://www.spiegel.de/wirtschaft/corona-gesetz-ampelkoalition-will-3g-am-arbeitsplatz-a-09ba70cf-4ca1-499d-8b4e-0a30804d9d31#ref=rss)
-### klimaschutz
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-index-daenemark-ist-im-klimaschutz-klassenbester](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-index-daenemark-ist-im-klimaschutz-klassenbester-a-0df1f3c4-ea5e-402b-bc36-26fe31ce7f7a#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-index-daenemark-ist-im-klimaschutz-klassenbester](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-index-daenemark-ist-im-klimaschutz-klassenbester-a-0df1f3c4-ea5e-402b-bc36-26fe31ce7f7a#ref=rss)
-* [https://www.spiegel.de/sport/mr-olympia-stirbt-mit-46-jahren-an-einem-herzinfarkt](https://www.spiegel.de/sport/mr-olympia-stirbt-mit-46-jahren-an-einem-herzinfarkt-a-179eccfa-36b8-430a-878a-53fc2e0f26cb#ref=rss)
-### platz
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-index-daenemark-ist-im-klimaschutz-klassenbester](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-index-daenemark-ist-im-klimaschutz-klassenbester-a-0df1f3c4-ea5e-402b-bc36-26fe31ce7f7a#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-star-nikola-jokic-wenn-der-mvp-ausrastet](https://www.spiegel.de/sport/basketball/nba-star-nikola-jokic-wenn-der-mvp-ausrastet-a-4f84f50b-56b2-43bd-9fcb-bed8744cf6b7#ref=rss)
-### nikola
-
-* [https://www.spiegel.de/sport/basketball/nba-star-nikola-jokic-wenn-der-mvp-ausrastet](https://www.spiegel.de/sport/basketball/nba-star-nikola-jokic-wenn-der-mvp-ausrastet-a-4f84f50b-56b2-43bd-9fcb-bed8744cf6b7#ref=rss)
-### jokic
-
-* [https://www.spiegel.de/sport/basketball/nba-star-nikola-jokic-wenn-der-mvp-ausrastet](https://www.spiegel.de/sport/basketball/nba-star-nikola-jokic-wenn-der-mvp-ausrastet-a-4f84f50b-56b2-43bd-9fcb-bed8744cf6b7#ref=rss)
-### center
-
-* [https://www.spiegel.de/sport/basketball/nba-star-nikola-jokic-wenn-der-mvp-ausrastet](https://www.spiegel.de/sport/basketball/nba-star-nikola-jokic-wenn-der-mvp-ausrastet-a-4f84f50b-56b2-43bd-9fcb-bed8744cf6b7#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-2022-rodler-verletzt-sich-auf-olympia-bahn-von-peking-schwer](https://www.spiegel.de/sport/olympia/olympische-winterspiele-2022-rodler-verletzt-sich-auf-olympia-bahn-von-peking-schwer-a-c005a0be-5771-4779-95df-7a751e902dff#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/ausland/migranten-an-der-grenze-belarus-warnt-polen-vor-provokationen](https://www.spiegel.de/ausland/migranten-an-der-grenze-belarus-warnt-polen-vor-provokationen-a-cc5aa41d-a85c-4fad-aeef-6751710fd8fb#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/ausland/migranten-an-der-grenze-belarus-warnt-polen-vor-provokationen](https://www.spiegel.de/ausland/migranten-an-der-grenze-belarus-warnt-polen-vor-provokationen-a-cc5aa41d-a85c-4fad-aeef-6751710fd8fb#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich](https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich-a-9104bf3d-d09e-460f-ad26-87e8c43e4b02#ref=rss)
-### greenpeace
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/greenpeace-verklagt-volkswagen-wegen-klimakrise](https://www.spiegel.de/wirtschaft/unternehmen/greenpeace-verklagt-volkswagen-wegen-klimakrise-a-8f43d8bc-4f65-4756-ad28-264f5605e219#ref=rss)
-### per
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/greenpeace-verklagt-volkswagen-wegen-klimakrise](https://www.spiegel.de/wirtschaft/unternehmen/greenpeace-verklagt-volkswagen-wegen-klimakrise-a-8f43d8bc-4f65-4756-ad28-264f5605e219#ref=rss)
-* [https://www.spiegel.de/reise/staedte/berlin-hamburg-leipzig-oder-muenchen-schnitzeljagd-per-app](https://www.spiegel.de/reise/staedte/berlin-hamburg-leipzig-oder-muenchen-schnitzeljagd-per-app-a-6162383e-fdb0-48e9-ab47-b22f4ec7b8c6#ref=rss)
-### gazprom
-
-* [https://www.spiegel.de/wirtschaft/gaskrise-gazprom-liefert-etwas-mehr-erdgas-nach-deutschland-vorerst](https://www.spiegel.de/wirtschaft/gaskrise-gazprom-liefert-etwas-mehr-erdgas-nach-deutschland-vorerst-a-2ff24f38-1957-493a-9622-9749feb61dd3#ref=rss)
-### ransomwareattacken
-
-* [https://www.spiegel.de/netzwelt/web/ransomware-attacken-ermittler-fassen-mehrere-mutmassliche-cyber-erpresser](https://www.spiegel.de/netzwelt/web/ransomware-attacken-ermittler-fassen-mehrere-mutmassliche-cyber-erpresser-a-b4b2bec9-f512-4161-8c5e-e8afde45a5ad#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/netzwelt/web/ransomware-attacken-ermittler-fassen-mehrere-mutmassliche-cyber-erpresser](https://www.spiegel.de/netzwelt/web/ransomware-attacken-ermittler-fassen-mehrere-mutmassliche-cyber-erpresser-a-b4b2bec9-f512-4161-8c5e-e8afde45a5ad#ref=rss)
-* [https://www.spiegel.de/ausland/calais-wieder-mehr-menschen-wagen-die-gefaehrliche-ueberfahrt-nach-grossbritannien](https://www.spiegel.de/ausland/calais-wieder-mehr-menschen-wagen-die-gefaehrliche-ueberfahrt-nach-grossbritannien-a-8442a2f4-3c67-4698-8ecc-94d1e7937f8a#ref=rss)
-### shawn
-
-* [https://www.spiegel.de/sport/mr-olympia-stirbt-mit-46-jahren-an-einem-herzinfarkt](https://www.spiegel.de/sport/mr-olympia-stirbt-mit-46-jahren-an-einem-herzinfarkt-a-179eccfa-36b8-430a-878a-53fc2e0f26cb#ref=rss)
-### rhoden
-
-* [https://www.spiegel.de/sport/mr-olympia-stirbt-mit-46-jahren-an-einem-herzinfarkt](https://www.spiegel.de/sport/mr-olympia-stirbt-mit-46-jahren-an-einem-herzinfarkt-a-179eccfa-36b8-430a-878a-53fc2e0f26cb#ref=rss)
-### 46
-
-* [https://www.spiegel.de/sport/mr-olympia-stirbt-mit-46-jahren-an-einem-herzinfarkt](https://www.spiegel.de/sport/mr-olympia-stirbt-mit-46-jahren-an-einem-herzinfarkt-a-179eccfa-36b8-430a-878a-53fc2e0f26cb#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/mr-olympia-stirbt-mit-46-jahren-an-einem-herzinfarkt](https://www.spiegel.de/sport/mr-olympia-stirbt-mit-46-jahren-an-einem-herzinfarkt-a-179eccfa-36b8-430a-878a-53fc2e0f26cb#ref=rss)
-### herzinfarkt
-
-* [https://www.spiegel.de/sport/mr-olympia-stirbt-mit-46-jahren-an-einem-herzinfarkt](https://www.spiegel.de/sport/mr-olympia-stirbt-mit-46-jahren-an-einem-herzinfarkt-a-179eccfa-36b8-430a-878a-53fc2e0f26cb#ref=rss)
-### lkw
-
-* [https://www.spiegel.de/panorama/kirchroth-lkw-blockieren-a3-und-halten-geisterfahrer-auf](https://www.spiegel.de/panorama/kirchroth-lkw-blockieren-a3-und-halten-geisterfahrer-auf-a-a944da27-6164-4421-8a4c-a16265b89142#ref=rss)
-* [https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf](https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf-a-bcd15d5d-4494-48e9-a71f-ac27dac546f3#ref=rss)
-### a3
-
-* [https://www.spiegel.de/panorama/kirchroth-lkw-blockieren-a3-und-halten-geisterfahrer-auf](https://www.spiegel.de/panorama/kirchroth-lkw-blockieren-a3-und-halten-geisterfahrer-auf-a-a944da27-6164-4421-8a4c-a16265b89142#ref=rss)
-### calais
-
-* [https://www.spiegel.de/ausland/calais-wieder-mehr-menschen-wagen-die-gefaehrliche-ueberfahrt-nach-grossbritannien](https://www.spiegel.de/ausland/calais-wieder-mehr-menschen-wagen-die-gefaehrliche-ueberfahrt-nach-grossbritannien-a-8442a2f4-3c67-4698-8ecc-94d1e7937f8a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/japan-krankenschwester-toetet-drei-patienten-lebenslange-haft](https://www.spiegel.de/panorama/justiz/japan-krankenschwester-toetet-drei-patienten-lebenslange-haft-a-f1fc31f5-f19d-4a25-905e-6a250e58cb1f#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-die-menschen-haben-nicht-mal-genug-geld-fuer-brennholz](https://www.spiegel.de/ausland/afghanistan-die-menschen-haben-nicht-mal-genug-geld-fuer-brennholz-a-0e784a8f-f669-4eca-90d7-b7b8c81d468d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-macht-drei-milliarden-gewinn-geldregen-fuer-stadt-mainz](https://www.spiegel.de/wirtschaft/unternehmen/biontech-macht-drei-milliarden-gewinn-geldregen-fuer-stadt-mainz-a-eda99f0d-0791-44f2-8273-c173bcd7b6e5#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/calais-wieder-mehr-menschen-wagen-die-gefaehrliche-ueberfahrt-nach-grossbritannien](https://www.spiegel.de/ausland/calais-wieder-mehr-menschen-wagen-die-gefaehrliche-ueberfahrt-nach-grossbritannien-a-8442a2f4-3c67-4698-8ecc-94d1e7937f8a#ref=rss)
-### grenzübergang
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht-a-c517669b-a453-4437-bd95-16ba50ed94ee#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-expertin-jenny-ueber-eine-drohende-hungerkrise-wenn-selbst-kim-jong-un-warnt-muss-die-lage-angespannt-sein](https://www.spiegel.de/ausland/nordkorea-expertin-jenny-ueber-eine-drohende-hungerkrise-wenn-selbst-kim-jong-un-warnt-muss-die-lage-angespannt-sein-a-a487b104-ac37-40a8-8a2c-dd354c1fe326#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-die-menschen-haben-nicht-mal-genug-geld-fuer-brennholz](https://www.spiegel.de/ausland/afghanistan-die-menschen-haben-nicht-mal-genug-geld-fuer-brennholz-a-0e784a8f-f669-4eca-90d7-b7b8c81d468d#ref=rss)
+### flüchtlinge
 
-* [https://www.spiegel.de/ausland/andrang-von-migranten-polen-hat-grenzuebergang-zu-belarus-geschlossen](https://www.spiegel.de/ausland/andrang-von-migranten-polen-hat-grenzuebergang-zu-belarus-geschlossen-a-776f3e46-10dc-42a4-a304-5026b8ec6ee4#ref=rss)
-### wales
+* [https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise](https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise-a-7f3ebca9-935d-4334-b751-a8f8fadf0ecd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin-a-9ffbd669-b6cb-46ad-a309-1399d651f7ee#ref=rss)
+* [https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus](https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus-a-4aaf00f8-80d3-407c-9fee-3b59d934e920#ref=rss)
+### eu
 
-* [https://www.spiegel.de/panorama/penwyllt-mann-nach-54-stunden-aus-hoehle-gerettet](https://www.spiegel.de/panorama/penwyllt-mann-nach-54-stunden-aus-hoehle-gerettet-a-dc79d6a7-8501-42ec-bb68-482a67fb4c61#ref=rss)
-### höhle
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin-a-9ffbd669-b6cb-46ad-a309-1399d651f7ee#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu](https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu-a-44cd4e15-38bf-466e-99f4-edf495da32d0#ref=rss)
+* [https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann](https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann-a-07cdf9c3-85c5-46aa-a597-883f26fafe1c#ref=rss)
+### vier
 
-* [https://www.spiegel.de/panorama/penwyllt-mann-nach-54-stunden-aus-hoehle-gerettet](https://www.spiegel.de/panorama/penwyllt-mann-nach-54-stunden-aus-hoehle-gerettet-a-dc79d6a7-8501-42ec-bb68-482a67fb4c61#ref=rss)
-### hannover
+* [https://www.spiegel.de/sport/fussball/coronafall-beim-dfb-niklas-suele-und-die-vier-fragezeichen](https://www.spiegel.de/sport/fussball/coronafall-beim-dfb-niklas-suele-und-die-vier-fragezeichen-a-e0cdb747-69be-4289-8c20-c753e63ef367#ref=rss)
+* [https://www.spiegel.de/panorama/norwegen-vier-kilometer-seekabel-verschwunden](https://www.spiegel.de/panorama/norwegen-vier-kilometer-seekabel-verschwunden-a-d8b63a6b-0b5e-4c37-af2c-8743e269f9d0#ref=rss)
+### haft
 
-* [https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf](https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf-a-bcd15d5d-4494-48e9-a71f-ac27dac546f3#ref=rss)
-### auto
+* [https://www.spiegel.de/panorama/justiz/japan-krankenschwester-toetet-drei-patienten-lebenslange-haft](https://www.spiegel.de/panorama/justiz/japan-krankenschwester-toetet-drei-patienten-lebenslange-haft-a-f1fc31f5-f19d-4a25-905e-6a250e58cb1f#ref=rss)
+* [https://www.spiegel.de/ausland/ehemaliger-us-soldat-trevor-reed-tritt-in-russland-in-hungerstreik](https://www.spiegel.de/ausland/ehemaliger-us-soldat-trevor-reed-tritt-in-russland-in-hungerstreik-a-816ddcd7-0d39-4e77-b25b-f7e9d1bdb71a#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf](https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf-a-bcd15d5d-4494-48e9-a71f-ac27dac546f3#ref=rss)
-### a2
+* [https://www.spiegel.de/panorama/justiz/japan-krankenschwester-toetet-drei-patienten-lebenslange-haft](https://www.spiegel.de/panorama/justiz/japan-krankenschwester-toetet-drei-patienten-lebenslange-haft-a-f1fc31f5-f19d-4a25-905e-6a250e58cb1f#ref=rss)
+* [https://www.spiegel.de/ausland/ehemaliger-us-soldat-trevor-reed-tritt-in-russland-in-hungerstreik](https://www.spiegel.de/ausland/ehemaliger-us-soldat-trevor-reed-tritt-in-russland-in-hungerstreik-a-816ddcd7-0d39-4e77-b25b-f7e9d1bdb71a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-sexueller-missbrauch-in-schwuler-kiezpraxis-prozessbeteiligte-legen-berufung-ein](https://www.spiegel.de/panorama/justiz/berlin-sexueller-missbrauch-in-schwuler-kiezpraxis-prozessbeteiligte-legen-berufung-ein-a-e6f7ce60-314f-4647-b92a-93053556d74a#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf](https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf-a-bcd15d5d-4494-48e9-a71f-ac27dac546f3#ref=rss)
-### hoher
+* [https://www.spiegel.de/politik/deutschland/corona-und-die-ampel-ein-plan-der-den-liberalen-gefaellt](https://www.spiegel.de/politik/deutschland/corona-und-die-ampel-ein-plan-der-den-liberalen-gefaellt-a-96e339da-da8d-4913-a645-848f263b1ffb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gorillas-express-lieferdienst-will-offenbar-betriebsratswahl-verhindern](https://www.spiegel.de/wirtschaft/unternehmen/gorillas-express-lieferdienst-will-offenbar-betriebsratswahl-verhindern-a-2076f829-cfb3-46b0-b47a-3350516bd340#ref=rss)
+### hitze
 
-* [https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf](https://www.spiegel.de/panorama/hannover-auto-prallt-auf-a2-gegen-lkw-und-geht-in-flammen-auf-a-bcd15d5d-4494-48e9-a71f-ac27dac546f3#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich](https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich-a-9104bf3d-d09e-460f-ad26-87e8c43e4b02#ref=rss)
-### rodler
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht-a-c517669b-a453-4437-bd95-16ba50ed94ee#ref=rss)
+### travis
 
-* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-2022-rodler-verletzt-sich-auf-olympia-bahn-von-peking-schwer](https://www.spiegel.de/sport/olympia/olympische-winterspiele-2022-rodler-verletzt-sich-auf-olympia-bahn-von-peking-schwer-a-c005a0be-5771-4779-95df-7a751e902dff#ref=rss)
-### geldpolitik
+* [https://www.spiegel.de/kultur/musik/nach-toten-bei-konzert-von-travis-scott-in-jedem-maerchen-lauert-auch-ein-albtraum](https://www.spiegel.de/kultur/musik/nach-toten-bei-konzert-von-travis-scott-in-jedem-maerchen-lauert-auch-ein-albtraum-a-ec364b6f-eda3-4c24-8415-5642eb7e5de3#ref=rss)
+### scott
 
-* [https://www.spiegel.de/wirtschaft/inflation-und-geldpolitik-das-sind-jetzt-die-groessten-sorgen-der-maerkte](https://www.spiegel.de/wirtschaft/inflation-und-geldpolitik-das-sind-jetzt-die-groessten-sorgen-der-maerkte-a-d276609a-571f-4ffc-9b83-5b4f682e16b3#ref=rss)
+* [https://www.spiegel.de/kultur/musik/nach-toten-bei-konzert-von-travis-scott-in-jedem-maerchen-lauert-auch-ein-albtraum](https://www.spiegel.de/kultur/musik/nach-toten-bei-konzert-von-travis-scott-in-jedem-maerchen-lauert-auch-ein-albtraum-a-ec364b6f-eda3-4c24-8415-5642eb7e5de3#ref=rss)
+### houston
+
+* [https://www.spiegel.de/kultur/musik/nach-toten-bei-konzert-von-travis-scott-in-jedem-maerchen-lauert-auch-ein-albtraum](https://www.spiegel.de/kultur/musik/nach-toten-bei-konzert-von-travis-scott-in-jedem-maerchen-lauert-auch-ein-albtraum-a-ec364b6f-eda3-4c24-8415-5642eb7e5de3#ref=rss)
+### bundesverwaltungsgericht
+
+* [https://www.spiegel.de/wirtschaft/vorkaufsrecht-bundesverwaltungsgericht-setzt-berlin-grenzen-beim-ausbooten-von-hauskaeufern](https://www.spiegel.de/wirtschaft/vorkaufsrecht-bundesverwaltungsgericht-setzt-berlin-grenzen-beim-ausbooten-von-hauskaeufern-a-662dc525-602d-46cc-9262-4ec3db02e7e6#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/wirtschaft/vorkaufsrecht-bundesverwaltungsgericht-setzt-berlin-grenzen-beim-ausbooten-von-hauskaeufern](https://www.spiegel.de/wirtschaft/vorkaufsrecht-bundesverwaltungsgericht-setzt-berlin-grenzen-beim-ausbooten-von-hauskaeufern-a-662dc525-602d-46cc-9262-4ec3db02e7e6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/online-bank-bafin-setzt-wachstum-von-n26-grenzen](https://www.spiegel.de/wirtschaft/online-bank-bafin-setzt-wachstum-von-n26-grenzen-a-77dadcfc-9b5d-4962-8059-2e869e586ae4#ref=rss)
+### grenzen
+
+* [https://www.spiegel.de/wirtschaft/vorkaufsrecht-bundesverwaltungsgericht-setzt-berlin-grenzen-beim-ausbooten-von-hauskaeufern](https://www.spiegel.de/wirtschaft/vorkaufsrecht-bundesverwaltungsgericht-setzt-berlin-grenzen-beim-ausbooten-von-hauskaeufern-a-662dc525-602d-46cc-9262-4ec3db02e7e6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/online-bank-bafin-setzt-wachstum-von-n26-grenzen](https://www.spiegel.de/wirtschaft/online-bank-bafin-setzt-wachstum-von-n26-grenzen-a-77dadcfc-9b5d-4962-8059-2e869e586ae4#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-norbert-roettgen-ringen-um-cdu-vorsitz-kampf-um-die-koepfe](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-norbert-roettgen-ringen-um-cdu-vorsitz-kampf-um-die-koepfe-a-325c0ebc-3e26-4eb6-906c-73e9fa419b1c#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-norbert-roettgen-ringen-um-cdu-vorsitz-kampf-um-die-koepfe](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-norbert-roettgen-ringen-um-cdu-vorsitz-kampf-um-die-koepfe-a-325c0ebc-3e26-4eb6-906c-73e9fa419b1c#ref=rss)
+### norbert
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-norbert-roettgen-ringen-um-cdu-vorsitz-kampf-um-die-koepfe](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-norbert-roettgen-ringen-um-cdu-vorsitz-kampf-um-die-koepfe-a-325c0ebc-3e26-4eb6-906c-73e9fa419b1c#ref=rss)
+### röttgen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-norbert-roettgen-ringen-um-cdu-vorsitz-kampf-um-die-koepfe](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-norbert-roettgen-ringen-um-cdu-vorsitz-kampf-um-die-koepfe-a-325c0ebc-3e26-4eb6-906c-73e9fa419b1c#ref=rss)
+### läuft
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-norbert-roettgen-ringen-um-cdu-vorsitz-kampf-um-die-koepfe](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-norbert-roettgen-ringen-um-cdu-vorsitz-kampf-um-die-koepfe-a-325c0ebc-3e26-4eb6-906c-73e9fa419b1c#ref=rss)
+* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sind-traenen-salzig](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-warum-sind-traenen-salzig-a-1f7ec844-0002-0001-0000-000176028054#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/sport/fussball/rassismus-in-der-2-bundesliga-hamburger-sv-vom-dfb-bestraft](https://www.spiegel.de/sport/fussball/rassismus-in-der-2-bundesliga-hamburger-sv-vom-dfb-bestraft-a-d1398fcb-a14e-4d5f-bd45-7dffae7315b7#ref=rss)
+### sv
+
+* [https://www.spiegel.de/sport/fussball/rassismus-in-der-2-bundesliga-hamburger-sv-vom-dfb-bestraft](https://www.spiegel.de/sport/fussball/rassismus-in-der-2-bundesliga-hamburger-sv-vom-dfb-bestraft-a-d1398fcb-a14e-4d5f-bd45-7dffae7315b7#ref=rss)
+### dfb
+
+* [https://www.spiegel.de/sport/fussball/rassismus-in-der-2-bundesliga-hamburger-sv-vom-dfb-bestraft](https://www.spiegel.de/sport/fussball/rassismus-in-der-2-bundesliga-hamburger-sv-vom-dfb-bestraft-a-d1398fcb-a14e-4d5f-bd45-7dffae7315b7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/coronafall-beim-dfb-niklas-suele-und-die-vier-fragezeichen](https://www.spiegel.de/sport/fussball/coronafall-beim-dfb-niklas-suele-und-die-vier-fragezeichen-a-e0cdb747-69be-4289-8c20-c753e63ef367#ref=rss)
+### bestraft
+
+* [https://www.spiegel.de/sport/fussball/rassismus-in-der-2-bundesliga-hamburger-sv-vom-dfb-bestraft](https://www.spiegel.de/sport/fussball/rassismus-in-der-2-bundesliga-hamburger-sv-vom-dfb-bestraft-a-d1398fcb-a14e-4d5f-bd45-7dffae7315b7#ref=rss)
+### euinnenkommissarin
+
+* [https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise](https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise-a-7f3ebca9-935d-4334-b751-a8f8fadf0ecd#ref=rss)
+### ylva
+
+* [https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise](https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise-a-7f3ebca9-935d-4334-b751-a8f8fadf0ecd#ref=rss)
+### johansson
+
+* [https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise](https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise-a-7f3ebca9-935d-4334-b751-a8f8fadf0ecd#ref=rss)
+### migrationskrise
+
+* [https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise](https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise-a-7f3ebca9-935d-4334-b751-a8f8fadf0ecd#ref=rss)
+* [https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann](https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann-a-07cdf9c3-85c5-46aa-a597-883f26fafe1c#ref=rss)
+### grenze
+
+* [https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise](https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise-a-7f3ebca9-935d-4334-b751-a8f8fadf0ecd#ref=rss)
+* [https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus](https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus-a-4aaf00f8-80d3-407c-9fee-3b59d934e920#ref=rss)
+### weg
+
+* [https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise](https://www.spiegel.de/ausland/fluechtlingsstrom-aus-belarus-nicht-in-erster-linie-migrationskrise-a-7f3ebca9-935d-4334-b751-a8f8fadf0ecd#ref=rss)
+* [https://www.spiegel.de/panorama/suedafrika-polizei-bestohlen-kokain-im-millionenwert-weg](https://www.spiegel.de/panorama/suedafrika-polizei-bestohlen-kokain-im-millionenwert-weg-a-557a53b3-39a7-4995-b65f-e34ac7f7fc06#ref=rss)
+### coronafall
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin-a-9ffbd669-b6cb-46ad-a309-1399d651f7ee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/coronafall-beim-dfb-niklas-suele-und-die-vier-fragezeichen](https://www.spiegel.de/sport/fussball/coronafall-beim-dfb-niklas-suele-und-die-vier-fragezeichen-a-e0cdb747-69be-4289-8c20-c753e63ef367#ref=rss)
+### bitcoin
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin-a-9ffbd669-b6cb-46ad-a309-1399d651f7ee#ref=rss)
 ### corona
 
-* [https://www.spiegel.de/wirtschaft/inflation-und-geldpolitik-das-sind-jetzt-die-groessten-sorgen-der-maerkte](https://www.spiegel.de/wirtschaft/inflation-und-geldpolitik-das-sind-jetzt-die-groessten-sorgen-der-maerkte-a-d276609a-571f-4ffc-9b83-5b4f682e16b3#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich](https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich-a-9104bf3d-d09e-460f-ad26-87e8c43e4b02#ref=rss)
-### nfl
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-fall-im-dfb-team-fluechtlinge-in-belarus-bitcoin-a-9ffbd669-b6cb-46ad-a309-1399d651f7ee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-und-die-ampel-ein-plan-der-den-liberalen-gefaellt](https://www.spiegel.de/politik/deutschland/corona-und-die-ampel-ein-plan-der-den-liberalen-gefaellt-a-96e339da-da8d-4913-a645-848f263b1ffb#ref=rss)
+### unoklimakonferenz
 
-* [https://www.spiegel.de/sport/nfl-schiedsrichter-rempelt-gegenspieler-und-gibt-ihm-spielentscheidende-strafe](https://www.spiegel.de/sport/nfl-schiedsrichter-rempelt-gegenspieler-und-gibt-ihm-spielentscheidende-strafe-a-b8479ae6-4df2-41d7-acd6-687745037aa8#ref=rss)
-### strafe
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-deutschland-steigt-aus-der-finanzierung-fossiler-energien-im-ausland-aus](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-deutschland-steigt-aus-der-finanzierung-fossiler-energien-im-ausland-aus-a-826c29d0-a04d-468f-8373-ada0413d0e40#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht-a-c517669b-a453-4437-bd95-16ba50ed94ee#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/nfl-schiedsrichter-rempelt-gegenspieler-und-gibt-ihm-spielentscheidende-strafe](https://www.spiegel.de/sport/nfl-schiedsrichter-rempelt-gegenspieler-und-gibt-ihm-spielentscheidende-strafe-a-b8479ae6-4df2-41d7-acd6-687745037aa8#ref=rss)
-### partie
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-deutschland-steigt-aus-der-finanzierung-fossiler-energien-im-ausland-aus](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-deutschland-steigt-aus-der-finanzierung-fossiler-energien-im-ausland-aus-a-826c29d0-a04d-468f-8373-ada0413d0e40#ref=rss)
+### finanzierung
 
-* [https://www.spiegel.de/sport/nfl-schiedsrichter-rempelt-gegenspieler-und-gibt-ihm-spielentscheidende-strafe](https://www.spiegel.de/sport/nfl-schiedsrichter-rempelt-gegenspieler-und-gibt-ihm-spielentscheidende-strafe-a-b8479ae6-4df2-41d7-acd6-687745037aa8#ref=rss)
-### schnitzeljagd
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-deutschland-steigt-aus-der-finanzierung-fossiler-energien-im-ausland-aus](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-deutschland-steigt-aus-der-finanzierung-fossiler-energien-im-ausland-aus-a-826c29d0-a04d-468f-8373-ada0413d0e40#ref=rss)
+### fossiler
 
-* [https://www.spiegel.de/reise/staedte/berlin-hamburg-leipzig-oder-muenchen-schnitzeljagd-per-app](https://www.spiegel.de/reise/staedte/berlin-hamburg-leipzig-oder-muenchen-schnitzeljagd-per-app-a-6162383e-fdb0-48e9-ab47-b22f4ec7b8c6#ref=rss)
-### versuchen
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-deutschland-steigt-aus-der-finanzierung-fossiler-energien-im-ausland-aus](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-deutschland-steigt-aus-der-finanzierung-fossiler-energien-im-ausland-aus-a-826c29d0-a04d-468f-8373-ada0413d0e40#ref=rss)
+### niklas
 
-* [https://www.spiegel.de/ausland/hongkong-wie-reisende-der-strengen-zero-covid-politik-zu-entkommen-versuchen](https://www.spiegel.de/ausland/hongkong-wie-reisende-der-strengen-zero-covid-politik-zu-entkommen-versuchen-a-66ac40a9-a356-49f4-b6d2-1bc19a3b2f1d#ref=rss)
-### missy
+* [https://www.spiegel.de/sport/fussball/coronafall-beim-dfb-niklas-suele-und-die-vier-fragezeichen](https://www.spiegel.de/sport/fussball/coronafall-beim-dfb-niklas-suele-und-die-vier-fragezeichen-a-e0cdb747-69be-4289-8c20-c753e63ef367#ref=rss)
+### süle
 
-* [https://www.spiegel.de/panorama/leute/missy-elliott-bekommt-stern-auf-dem-walk-of-fame](https://www.spiegel.de/panorama/leute/missy-elliott-bekommt-stern-auf-dem-walk-of-fame-a-b76e83ba-b1c6-44ed-9228-47bc79473d85#ref=rss)
-### elliott
+* [https://www.spiegel.de/sport/fussball/coronafall-beim-dfb-niklas-suele-und-die-vier-fragezeichen](https://www.spiegel.de/sport/fussball/coronafall-beim-dfb-niklas-suele-und-die-vier-fragezeichen-a-e0cdb747-69be-4289-8c20-c753e63ef367#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/panorama/leute/missy-elliott-bekommt-stern-auf-dem-walk-of-fame](https://www.spiegel.de/panorama/leute/missy-elliott-bekommt-stern-auf-dem-walk-of-fame-a-b76e83ba-b1c6-44ed-9228-47bc79473d85#ref=rss)
-### matthias
+* [https://www.spiegel.de/sport/fussball/coronafall-beim-dfb-niklas-suele-und-die-vier-fragezeichen](https://www.spiegel.de/sport/fussball/coronafall-beim-dfb-niklas-suele-und-die-vier-fragezeichen-a-e0cdb747-69be-4289-8c20-c753e63ef367#ref=rss)
+* [https://www.spiegel.de/kultur/tv/your-life-is-a-joke-mit-oliver-polak-auf-netflix-mutig-ist-wer-keine-eier-hat](https://www.spiegel.de/kultur/tv/your-life-is-a-joke-mit-oliver-polak-auf-netflix-mutig-ist-wer-keine-eier-hat-a-bbf4723d-c65e-4842-b5bc-d0b04ffb1cc0#ref=rss)
+### japan
 
-* [https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-anruf-beim-esa-astronauten-im-wartestand](https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-anruf-beim-esa-astronauten-im-wartestand-a-e9784580-3817-428c-a6e5-0fbd854f711c#ref=rss)
-### maurer
+* [https://www.spiegel.de/panorama/justiz/japan-krankenschwester-toetet-drei-patienten-lebenslange-haft](https://www.spiegel.de/panorama/justiz/japan-krankenschwester-toetet-drei-patienten-lebenslange-haft-a-f1fc31f5-f19d-4a25-905e-6a250e58cb1f#ref=rss)
+### krankenschwester
 
-* [https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-anruf-beim-esa-astronauten-im-wartestand](https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-anruf-beim-esa-astronauten-im-wartestand-a-e9784580-3817-428c-a6e5-0fbd854f711c#ref=rss)
-### anruf
+* [https://www.spiegel.de/panorama/justiz/japan-krankenschwester-toetet-drei-patienten-lebenslange-haft](https://www.spiegel.de/panorama/justiz/japan-krankenschwester-toetet-drei-patienten-lebenslange-haft-a-f1fc31f5-f19d-4a25-905e-6a250e58cb1f#ref=rss)
+### patienten
 
-* [https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-anruf-beim-esa-astronauten-im-wartestand](https://www.spiegel.de/wissenschaft/weltall/matthias-maurer-anruf-beim-esa-astronauten-im-wartestand-a-e9784580-3817-428c-a6e5-0fbd854f711c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/japan-krankenschwester-toetet-drei-patienten-lebenslange-haft](https://www.spiegel.de/panorama/justiz/japan-krankenschwester-toetet-drei-patienten-lebenslange-haft-a-f1fc31f5-f19d-4a25-905e-6a250e58cb1f#ref=rss)
+### coronawarnapp
+
+* [https://www.spiegel.de/netzwelt/apps/corona-warn-app-kann-jetzt-luca-codes-einlesen](https://www.spiegel.de/netzwelt/apps/corona-warn-app-kann-jetzt-luca-codes-einlesen-a-3910e921-3ce9-4438-923d-107249186e23#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/netzwelt/apps/corona-warn-app-kann-jetzt-luca-codes-einlesen](https://www.spiegel.de/netzwelt/apps/corona-warn-app-kann-jetzt-luca-codes-einlesen-a-3910e921-3ce9-4438-923d-107249186e23#ref=rss)
+* [https://www.spiegel.de/wirtschaft/online-bank-bafin-setzt-wachstum-von-n26-grenzen](https://www.spiegel.de/wirtschaft/online-bank-bafin-setzt-wachstum-von-n26-grenzen-a-77dadcfc-9b5d-4962-8059-2e869e586ae4#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/netzwelt/apps/corona-warn-app-kann-jetzt-luca-codes-einlesen](https://www.spiegel.de/netzwelt/apps/corona-warn-app-kann-jetzt-luca-codes-einlesen-a-3910e921-3ce9-4438-923d-107249186e23#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr-a-9b2312dc-304a-49c3-8aea-11cc4186bdf7#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/netzwelt/apps/corona-warn-app-kann-jetzt-luca-codes-einlesen](https://www.spiegel.de/netzwelt/apps/corona-warn-app-kann-jetzt-luca-codes-einlesen-a-3910e921-3ce9-4438-923d-107249186e23#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht-a-c517669b-a453-4437-bd95-16ba50ed94ee#ref=rss)
+### lady
+
+* [https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris](https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris-a-f10173a2-9b96-41c8-8d1b-6bab1114fcc3#ref=rss)
+### gaga
+
+* [https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris](https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris-a-f10173a2-9b96-41c8-8d1b-6bab1114fcc3#ref=rss)
+### inauguration
+
+* [https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris](https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris-a-f10173a2-9b96-41c8-8d1b-6bab1114fcc3#ref=rss)
+### joe
+
+* [https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris](https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris-a-f10173a2-9b96-41c8-8d1b-6bab1114fcc3#ref=rss)
+### biden
+
+* [https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris](https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris-a-f10173a2-9b96-41c8-8d1b-6bab1114fcc3#ref=rss)
+### kamala
+
+* [https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris](https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris-a-f10173a2-9b96-41c8-8d1b-6bab1114fcc3#ref=rss)
+### harris
+
+* [https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris](https://www.spiegel.de/kultur/lady-gaga-trug-kugelsicheres-kleid-bei-inauguration-von-joe-biden-und-kamala-harris-a-f10173a2-9b96-41c8-8d1b-6bab1114fcc3#ref=rss)
+### mögliche
+
+* [https://www.spiegel.de/politik/deutschland/corona-und-die-ampel-ein-plan-der-den-liberalen-gefaellt](https://www.spiegel.de/politik/deutschland/corona-und-die-ampel-ein-plan-der-den-liberalen-gefaellt-a-96e339da-da8d-4913-a645-848f263b1ffb#ref=rss)
+* [https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann](https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann-a-07cdf9c3-85c5-46aa-a597-883f26fafe1c#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/corona-und-die-ampel-ein-plan-der-den-liberalen-gefaellt](https://www.spiegel.de/politik/deutschland/corona-und-die-ampel-ein-plan-der-den-liberalen-gefaellt-a-96e339da-da8d-4913-a645-848f263b1ffb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr-a-9b2312dc-304a-49c3-8aea-11cc4186bdf7#ref=rss)
+### trevor
+
+* [https://www.spiegel.de/ausland/ehemaliger-us-soldat-trevor-reed-tritt-in-russland-in-hungerstreik](https://www.spiegel.de/ausland/ehemaliger-us-soldat-trevor-reed-tritt-in-russland-in-hungerstreik-a-816ddcd7-0d39-4e77-b25b-f7e9d1bdb71a#ref=rss)
+### reed
+
+* [https://www.spiegel.de/ausland/ehemaliger-us-soldat-trevor-reed-tritt-in-russland-in-hungerstreik](https://www.spiegel.de/ausland/ehemaliger-us-soldat-trevor-reed-tritt-in-russland-in-hungerstreik-a-816ddcd7-0d39-4e77-b25b-f7e9d1bdb71a#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ehemaliger-us-soldat-trevor-reed-tritt-in-russland-in-hungerstreik](https://www.spiegel.de/ausland/ehemaliger-us-soldat-trevor-reed-tritt-in-russland-in-hungerstreik-a-816ddcd7-0d39-4e77-b25b-f7e9d1bdb71a#ref=rss)
+### essen
+
+* [https://www.spiegel.de/ausland/ehemaliger-us-soldat-trevor-reed-tritt-in-russland-in-hungerstreik](https://www.spiegel.de/ausland/ehemaliger-us-soldat-trevor-reed-tritt-in-russland-in-hungerstreik-a-816ddcd7-0d39-4e77-b25b-f7e9d1bdb71a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-gesundheit-der-buerger-darf-nicht-als-druckmittel-missbraucht-werden](https://www.spiegel.de/politik/deutschland/die-gesundheit-der-buerger-darf-nicht-als-druckmittel-missbraucht-werden-a-18af88e4-8a55-423e-8d58-9c5e6256b4b3#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr-a-9b2312dc-304a-49c3-8aea-11cc4186bdf7#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-expertin-jenny-ueber-eine-drohende-hungerkrise-wenn-selbst-kim-jong-un-warnt-muss-die-lage-angespannt-sein](https://www.spiegel.de/ausland/nordkorea-expertin-jenny-ueber-eine-drohende-hungerkrise-wenn-selbst-kim-jong-un-warnt-muss-die-lage-angespannt-sein-a-a487b104-ac37-40a8-8a2c-dd354c1fe326#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr-a-9b2312dc-304a-49c3-8aea-11cc4186bdf7#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr-a-9b2312dc-304a-49c3-8aea-11cc4186bdf7#ref=rss)
+* [https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus](https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus-a-4aaf00f8-80d3-407c-9fee-3b59d934e920#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr-a-9b2312dc-304a-49c3-8aea-11cc4186bdf7#ref=rss)
+* [https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus](https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus-a-4aaf00f8-80d3-407c-9fee-3b59d934e920#ref=rss)
+### geld
+
+* [https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr](https://www.spiegel.de/politik/deutschland/ampel-koalitionsverhandlungen-verteidigungsministerium-warnt-vor-sparkurs-bei-der-bundeswehr-a-9b2312dc-304a-49c3-8aea-11cc4186bdf7#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-die-menschen-haben-nicht-mal-genug-geld-fuer-brennholz](https://www.spiegel.de/ausland/afghanistan-die-menschen-haben-nicht-mal-genug-geld-fuer-brennholz-a-0e784a8f-f669-4eca-90d7-b7b8c81d468d#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/berlin-sexueller-missbrauch-in-schwuler-kiezpraxis-prozessbeteiligte-legen-berufung-ein](https://www.spiegel.de/panorama/justiz/berlin-sexueller-missbrauch-in-schwuler-kiezpraxis-prozessbeteiligte-legen-berufung-ein-a-e6f7ce60-314f-4647-b92a-93053556d74a#ref=rss)
+### alexijewitsch
+
+* [https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu](https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu-a-44cd4e15-38bf-466e-99f4-edf495da32d0#ref=rss)
+### tokarczuk
+
+* [https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu](https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu-a-44cd4e15-38bf-466e-99f4-edf495da32d0#ref=rss)
+### jelinek
+
+* [https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu](https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu-a-44cd4e15-38bf-466e-99f4-edf495da32d0#ref=rss)
+### müller
+
+* [https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu](https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu-a-44cd4e15-38bf-466e-99f4-edf495da32d0#ref=rss)
+### euaußengrenze
+
+* [https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu](https://www.spiegel.de/kultur/literatur/alexijewitsch-tokarczuk-jelinek-und-mueller-nobelpreistraegerinnen-appelieren-an-die-eu-a-44cd4e15-38bf-466e-99f4-edf495da32d0#ref=rss)
+* [https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus](https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus-a-4aaf00f8-80d3-407c-9fee-3b59d934e920#ref=rss)
+### milliarde
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht-a-c517669b-a453-4437-bd95-16ba50ed94ee#ref=rss)
+### extremer
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht-a-c517669b-a453-4437-bd95-16ba50ed94ee#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich](https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich-a-9104bf3d-d09e-460f-ad26-87e8c43e4b02#ref=rss)
-* [https://www.spiegel.de/wirtschaft/homeoffice-jeder-dritte-leidet-psychisch](https://www.spiegel.de/wirtschaft/homeoffice-jeder-dritte-leidet-psychisch-a-46be4ae2-5bc0-403b-ad10-17a31c07d8a9#ref=rss)
-### kontrolle
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-eine-milliarde-menschen-von-extremer-hitze-bedroht-a-c517669b-a453-4437-bd95-16ba50ed94ee#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-die-menschen-haben-nicht-mal-genug-geld-fuer-brennholz](https://www.spiegel.de/ausland/afghanistan-die-menschen-haben-nicht-mal-genug-geld-fuer-brennholz-a-0e784a8f-f669-4eca-90d7-b7b8c81d468d#ref=rss)
+### jenny
 
-* [https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich](https://www.spiegel.de/panorama/bildung/schule-und-corona-eine-pandemie-unter-kontrolle-zu-haben-ist-ein-widerspruch-an-sich-a-9104bf3d-d09e-460f-ad26-87e8c43e4b02#ref=rss)
-### saarbrücken
+* [https://www.spiegel.de/ausland/nordkorea-expertin-jenny-ueber-eine-drohende-hungerkrise-wenn-selbst-kim-jong-un-warnt-muss-die-lage-angespannt-sein](https://www.spiegel.de/ausland/nordkorea-expertin-jenny-ueber-eine-drohende-hungerkrise-wenn-selbst-kim-jong-un-warnt-muss-die-lage-angespannt-sein-a-a487b104-ac37-40a8-8a2c-dd354c1fe326#ref=rss)
+### warschau
 
-* [https://www.spiegel.de/panorama/physiotherapeutin-schlaeft-betrunken-im-bett-neben-ihrer-patientin-ein](https://www.spiegel.de/panorama/physiotherapeutin-schlaeft-betrunken-im-bett-neben-ihrer-patientin-ein-a-e415c172-63df-48be-b802-48c65cb793d0#ref=rss)
-### physiotherapeutin
+* [https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann](https://www.spiegel.de/ausland/migrationskrise-zwischen-polen-und-belarus-was-die-eu-jetzt-kann-a-07cdf9c3-85c5-46aa-a597-883f26fafe1c#ref=rss)
+* [https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus](https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus-a-4aaf00f8-80d3-407c-9fee-3b59d934e920#ref=rss)
+### südafrika
 
-* [https://www.spiegel.de/panorama/physiotherapeutin-schlaeft-betrunken-im-bett-neben-ihrer-patientin-ein](https://www.spiegel.de/panorama/physiotherapeutin-schlaeft-betrunken-im-bett-neben-ihrer-patientin-ein-a-e415c172-63df-48be-b802-48c65cb793d0#ref=rss)
-### betrunken
+* [https://www.spiegel.de/panorama/suedafrika-polizei-bestohlen-kokain-im-millionenwert-weg](https://www.spiegel.de/panorama/suedafrika-polizei-bestohlen-kokain-im-millionenwert-weg-a-557a53b3-39a7-4995-b65f-e34ac7f7fc06#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/panorama/physiotherapeutin-schlaeft-betrunken-im-bett-neben-ihrer-patientin-ein](https://www.spiegel.de/panorama/physiotherapeutin-schlaeft-betrunken-im-bett-neben-ihrer-patientin-ein-a-e415c172-63df-48be-b802-48c65cb793d0#ref=rss)
-### bett
+* [https://www.spiegel.de/panorama/suedafrika-polizei-bestohlen-kokain-im-millionenwert-weg](https://www.spiegel.de/panorama/suedafrika-polizei-bestohlen-kokain-im-millionenwert-weg-a-557a53b3-39a7-4995-b65f-e34ac7f7fc06#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/panorama/physiotherapeutin-schlaeft-betrunken-im-bett-neben-ihrer-patientin-ein](https://www.spiegel.de/panorama/physiotherapeutin-schlaeft-betrunken-im-bett-neben-ihrer-patientin-ein-a-e415c172-63df-48be-b802-48c65cb793d0#ref=rss)
-### patientin
+* [https://www.spiegel.de/panorama/suedafrika-polizei-bestohlen-kokain-im-millionenwert-weg](https://www.spiegel.de/panorama/suedafrika-polizei-bestohlen-kokain-im-millionenwert-weg-a-557a53b3-39a7-4995-b65f-e34ac7f7fc06#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-die-menschen-haben-nicht-mal-genug-geld-fuer-brennholz](https://www.spiegel.de/ausland/afghanistan-die-menschen-haben-nicht-mal-genug-geld-fuer-brennholz-a-0e784a8f-f669-4eca-90d7-b7b8c81d468d#ref=rss)
+### kritisieren
 
-* [https://www.spiegel.de/panorama/physiotherapeutin-schlaeft-betrunken-im-bett-neben-ihrer-patientin-ein](https://www.spiegel.de/panorama/physiotherapeutin-schlaeft-betrunken-im-bett-neben-ihrer-patientin-ein-a-e415c172-63df-48be-b802-48c65cb793d0#ref=rss)
-### jeder
+* [https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus](https://www.spiegel.de/politik/spd-und-gruene-kritisieren-zurueckweisungen-von-migranten-durch-polen-an-grenze-zu-belarus-a-4aaf00f8-80d3-407c-9fee-3b59d934e920#ref=rss)
+### bafin
 
-* [https://www.spiegel.de/wirtschaft/homeoffice-jeder-dritte-leidet-psychisch](https://www.spiegel.de/wirtschaft/homeoffice-jeder-dritte-leidet-psychisch-a-46be4ae2-5bc0-403b-ad10-17a31c07d8a9#ref=rss)
-### leidet
+* [https://www.spiegel.de/wirtschaft/online-bank-bafin-setzt-wachstum-von-n26-grenzen](https://www.spiegel.de/wirtschaft/online-bank-bafin-setzt-wachstum-von-n26-grenzen-a-77dadcfc-9b5d-4962-8059-2e869e586ae4#ref=rss)
+### n26
 
-* [https://www.spiegel.de/wirtschaft/homeoffice-jeder-dritte-leidet-psychisch](https://www.spiegel.de/wirtschaft/homeoffice-jeder-dritte-leidet-psychisch-a-46be4ae2-5bc0-403b-ad10-17a31c07d8a9#ref=rss)
-### homeoffice
+* [https://www.spiegel.de/wirtschaft/online-bank-bafin-setzt-wachstum-von-n26-grenzen](https://www.spiegel.de/wirtschaft/online-bank-bafin-setzt-wachstum-von-n26-grenzen-a-77dadcfc-9b5d-4962-8059-2e869e586ae4#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/wirtschaft/homeoffice-jeder-dritte-leidet-psychisch](https://www.spiegel.de/wirtschaft/homeoffice-jeder-dritte-leidet-psychisch-a-46be4ae2-5bc0-403b-ad10-17a31c07d8a9#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/coronakrise-in-bayern-2g-gilt-auch-fuer-schuelerinnen-und-schueler](https://www.spiegel.de/panorama/bildung/coronakrise-in-bayern-2g-gilt-auch-fuer-schuelerinnen-und-schueler-a-2fbad45b-b675-4880-a15a-82dc56eead76#ref=rss)
+### biontech
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-macht-drei-milliarden-gewinn-geldregen-fuer-stadt-mainz](https://www.spiegel.de/wirtschaft/unternehmen/biontech-macht-drei-milliarden-gewinn-geldregen-fuer-stadt-mainz-a-eda99f0d-0791-44f2-8273-c173bcd7b6e5#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-macht-drei-milliarden-gewinn-geldregen-fuer-stadt-mainz](https://www.spiegel.de/wirtschaft/unternehmen/biontech-macht-drei-milliarden-gewinn-geldregen-fuer-stadt-mainz-a-eda99f0d-0791-44f2-8273-c173bcd7b6e5#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-macht-drei-milliarden-gewinn-geldregen-fuer-stadt-mainz](https://www.spiegel.de/wirtschaft/unternehmen/biontech-macht-drei-milliarden-gewinn-geldregen-fuer-stadt-mainz-a-eda99f0d-0791-44f2-8273-c173bcd7b6e5#ref=rss)
+### mainz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-macht-drei-milliarden-gewinn-geldregen-fuer-stadt-mainz](https://www.spiegel.de/wirtschaft/unternehmen/biontech-macht-drei-milliarden-gewinn-geldregen-fuer-stadt-mainz-a-eda99f0d-0791-44f2-8273-c173bcd7b6e5#ref=rss)
+### oliver
+
+* [https://www.spiegel.de/kultur/tv/your-life-is-a-joke-mit-oliver-polak-auf-netflix-mutig-ist-wer-keine-eier-hat](https://www.spiegel.de/kultur/tv/your-life-is-a-joke-mit-oliver-polak-auf-netflix-mutig-ist-wer-keine-eier-hat-a-bbf4723d-c65e-4842-b5bc-d0b04ffb1cc0#ref=rss)
+### polak
+
+* [https://www.spiegel.de/kultur/tv/your-life-is-a-joke-mit-oliver-polak-auf-netflix-mutig-ist-wer-keine-eier-hat](https://www.spiegel.de/kultur/tv/your-life-is-a-joke-mit-oliver-polak-auf-netflix-mutig-ist-wer-keine-eier-hat-a-bbf4723d-c65e-4842-b5bc-d0b04ffb1cc0#ref=rss)
+### gorillas
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/gorillas-express-lieferdienst-will-offenbar-betriebsratswahl-verhindern](https://www.spiegel.de/wirtschaft/unternehmen/gorillas-express-lieferdienst-will-offenbar-betriebsratswahl-verhindern-a-2076f829-cfb3-46b0-b47a-3350516bd340#ref=rss)
+### kilometer
+
+* [https://www.spiegel.de/panorama/norwegen-vier-kilometer-seekabel-verschwunden](https://www.spiegel.de/panorama/norwegen-vier-kilometer-seekabel-verschwunden-a-d8b63a6b-0b5e-4c37-af2c-8743e269f9d0#ref=rss)
+### seekabel
+
+* [https://www.spiegel.de/panorama/norwegen-vier-kilometer-seekabel-verschwunden](https://www.spiegel.de/panorama/norwegen-vier-kilometer-seekabel-verschwunden-a-d8b63a6b-0b5e-4c37-af2c-8743e269f9d0#ref=rss)
+### verschwunden
+
+* [https://www.spiegel.de/panorama/norwegen-vier-kilometer-seekabel-verschwunden](https://www.spiegel.de/panorama/norwegen-vier-kilometer-seekabel-verschwunden-a-d8b63a6b-0b5e-4c37-af2c-8743e269f9d0#ref=rss)
 
