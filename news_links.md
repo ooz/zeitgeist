@@ -4,306 +4,277 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### glasgow
-
-* [https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht](https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht-a-41c21ed0-7aa1-40c7-ad76-c4e289626469#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf](https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf-a-b99001e1-2a5d-4452-822c-0fdcb1934997#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht](https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht-a-41c21ed0-7aa1-40c7-ad76-c4e289626469#ref=rss)
-* [https://www.spiegel.de/auto/fahrkultur/bvg-hvv-mvg-und-co-wo-bus-und-bahnfahren-besonders-teuer-ist-und-wo-billig](https://www.spiegel.de/auto/fahrkultur/bvg-hvv-mvg-und-co-wo-bus-und-bahnfahren-besonders-teuer-ist-und-wo-billig-a-d4225435-94e7-4c45-8009-392e97940702#ref=rss)
-* [https://www.spiegel.de/panorama/leute/claudia-schiffer-zeigt-ihre-tochter-schoen-von-innen-und-aussen](https://www.spiegel.de/panorama/leute/claudia-schiffer-zeigt-ihre-tochter-schoen-von-innen-und-aussen-a-488f313c-d083-4d45-a3d5-043e0eb7d867#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/klimawandel-wie-die-ostsee-insel-bornholm-in-wenigen-jahren-klimaneutral-werden-und-alles-recyceln-will](https://www.spiegel.de/ausland/klimawandel-wie-die-ostsee-insel-bornholm-in-wenigen-jahren-klimaneutral-werden-und-alles-recyceln-will-a-861ea8ab-7fc2-4a01-9a18-69e30acae7c5#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/windenergie-der-mythos-vom-schaedlichen-infraschall](https://www.spiegel.de/wissenschaft/mensch/windenergie-der-mythos-vom-schaedlichen-infraschall-a-9113e02b-3eb5-4654-9aba-2f143d375c1b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf](https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf-a-b99001e1-2a5d-4452-822c-0fdcb1934997#ref=rss)
-### vfl
-
-* [https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen-a-ac7cb168-bb8a-42d3-be69-e28af6142ae4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-dfl-verteidigt-50-1-ausnahmeregelungen-fuer-bayer-leverkusen-vfl-wolfsburg-und-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/bundesliga-dfl-verteidigt-50-1-ausnahmeregelungen-fuer-bayer-leverkusen-vfl-wolfsburg-und-tsg-hoffenheim-a-624c3f2c-1238-4bfd-8353-803c7ffb6575#ref=rss)
-### wolfsburg
-
-* [https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen-a-ac7cb168-bb8a-42d3-be69-e28af6142ae4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-dfl-verteidigt-50-1-ausnahmeregelungen-fuer-bayer-leverkusen-vfl-wolfsburg-und-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/bundesliga-dfl-verteidigt-50-1-ausnahmeregelungen-fuer-bayer-leverkusen-vfl-wolfsburg-und-tsg-hoffenheim-a-624c3f2c-1238-4bfd-8353-803c7ffb6575#ref=rss)
-### ungeimpfte
-
-* [https://www.spiegel.de/gesundheit/muenchner-intensivstation-wir-laufen-voll-es-ist-eine-katastrophe](https://www.spiegel.de/gesundheit/muenchner-intensivstation-wir-laufen-voll-es-ist-eine-katastrophe-a-beab5fc5-094b-4ab1-9fac-e49778a5d42d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-corona-und-die-ampel-wir-duerfen-ungeimpfte-nicht-schlechter-stellen](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-corona-und-die-ampel-wir-duerfen-ungeimpfte-nicht-schlechter-stellen-a-5ea9b2ab-d717-43dd-8ae6-36d29a41bdd6#ref=rss)
-### unter
-
-* [https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken](https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken-a-24210431-39ac-4637-aecb-f58a50f2c797#ref=rss)
-* [https://www.spiegel.de/ausland/boris-johnsons-regierung-unter-korruptionsverdacht-ist-das-filz-oder-kann-das-weg](https://www.spiegel.de/ausland/boris-johnsons-regierung-unter-korruptionsverdacht-ist-das-filz-oder-kann-das-weg-a-1f53257a-2f42-41ac-a1ad-13792e599ed4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-freude-ueber-vormundschafts-entscheidung](https://www.spiegel.de/panorama/leute/britney-spears-freude-ueber-vormundschafts-entscheidung-a-5eaa01d1-f116-4153-8b93-940d66f9dd28#ref=rss)
-### wo
-
-* [https://www.spiegel.de/sport/digitale-uhren-armbaender-brillen-was-fitnesstracker-wirklich-bringen](https://www.spiegel.de/sport/digitale-uhren-armbaender-brillen-was-fitnesstracker-wirklich-bringen-a-04ee7525-75d0-4324-bfbb-45cf94c79e20#ref=rss)
-* [https://www.spiegel.de/auto/fahrkultur/bvg-hvv-mvg-und-co-wo-bus-und-bahnfahren-besonders-teuer-ist-und-wo-billig](https://www.spiegel.de/auto/fahrkultur/bvg-hvv-mvg-und-co-wo-bus-und-bahnfahren-besonders-teuer-ist-und-wo-billig-a-d4225435-94e7-4c45-8009-392e97940702#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/boris-johnsons-regierung-unter-korruptionsverdacht-ist-das-filz-oder-kann-das-weg](https://www.spiegel.de/ausland/boris-johnsons-regierung-unter-korruptionsverdacht-ist-das-filz-oder-kann-das-weg-a-1f53257a-2f42-41ac-a1ad-13792e599ed4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-dfl-verteidigt-50-1-ausnahmeregelungen-fuer-bayer-leverkusen-vfl-wolfsburg-und-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/bundesliga-dfl-verteidigt-50-1-ausnahmeregelungen-fuer-bayer-leverkusen-vfl-wolfsburg-und-tsg-hoffenheim-a-624c3f2c-1238-4bfd-8353-803c7ffb6575#ref=rss)
-* [https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker](https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker-a-e8d39b32-0061-4f22-a7ec-5d2795b0206d#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/rheinland-pfalz13-jaehriger-faehrt-mit-dem-auto-der-eltern-zu-geburtstagsfeier](https://www.spiegel.de/panorama/rheinland-pfalz13-jaehriger-faehrt-mit-dem-auto-der-eltern-zu-geburtstagsfeier-a-32613c8e-ef6c-41f6-87da-8048656a9d5e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder](https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder-a-75cf6a4d-2866-46b9-8375-a4feda1a0536#ref=rss)
-### marley
-
-* [https://www.spiegel.de/stil/marley-one-warum-bob-marleys-familie-jetzt-pilze-verkauft](https://www.spiegel.de/stil/marley-one-warum-bob-marleys-familie-jetzt-pilze-verkauft-a-2d2ffbe5-001a-4b75-8aed-4ce969c09ee7#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/stil/marley-one-warum-bob-marleys-familie-jetzt-pilze-verkauft](https://www.spiegel.de/stil/marley-one-warum-bob-marleys-familie-jetzt-pilze-verkauft-a-2d2ffbe5-001a-4b75-8aed-4ce969c09ee7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/claudia-schiffer-zeigt-ihre-tochter-schoen-von-innen-und-aussen](https://www.spiegel.de/panorama/leute/claudia-schiffer-zeigt-ihre-tochter-schoen-von-innen-und-aussen-a-488f313c-d083-4d45-a3d5-043e0eb7d867#ref=rss)
-### corona
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-corona-und-die-ampel-wir-duerfen-ungeimpfte-nicht-schlechter-stellen](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-corona-und-die-ampel-wir-duerfen-ungeimpfte-nicht-schlechter-stellen-a-5ea9b2ab-d717-43dd-8ae6-36d29a41bdd6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder](https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder-a-75cf6a4d-2866-46b9-8375-a4feda1a0536#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-christian-lindner-bedauert-aussagen-in-ard-interview](https://www.spiegel.de/politik/deutschland/corona-christian-lindner-bedauert-aussagen-in-ard-interview-a-f06429d8-340c-44e5-8909-84fa610be8d2#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/panorama/leute/britney-spears-freude-ueber-vormundschafts-entscheidung](https://www.spiegel.de/panorama/leute/britney-spears-freude-ueber-vormundschafts-entscheidung-a-5eaa01d1-f116-4153-8b93-940d66f9dd28#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder](https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder-a-75cf6a4d-2866-46b9-8375-a4feda1a0536#ref=rss)
-### kinder
+* [https://www.spiegel.de/ausland/inflation-in-den-usa-joe-bidens-neuer-feind-nummer-eins](https://www.spiegel.de/ausland/inflation-in-den-usa-joe-bidens-neuer-feind-nummer-eins-a-3bb21251-3b1c-4145-96fe-378241282fb0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/michigan-elfjaehrige-ueberlebt-absturz-eines-kleinflugzeuges-als-einzige](https://www.spiegel.de/panorama/justiz/michigan-elfjaehrige-ueberlebt-absturz-eines-kleinflugzeuges-als-einzige-a-700d377c-c1ee-4385-b597-8d10d729d77b#ref=rss)
+* [https://www.spiegel.de/panorama/leute/japan-ex-prinzessin-mako-zieht-mit-mann-kei-komuro-in-die-usa](https://www.spiegel.de/panorama/leute/japan-ex-prinzessin-mako-zieht-mit-mann-kei-komuro-in-die-usa-a-7ccd0034-59ad-46ed-bf03-d418e4d7e9af#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-so-lief-der-schlussspurt-in-glasgow-ab](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-so-lief-der-schlussspurt-in-glasgow-ab-a-6d6f0465-f9b3-47f0-af86-ef84b2e5f307#ref=rss)
+### glasgow
 
-* [https://www.spiegel.de/panorama/leute/claudia-schiffer-zeigt-ihre-tochter-schoen-von-innen-und-aussen](https://www.spiegel.de/panorama/leute/claudia-schiffer-zeigt-ihre-tochter-schoen-von-innen-und-aussen-a-488f313c-d083-4d45-a3d5-043e0eb7d867#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder](https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder-a-75cf6a4d-2866-46b9-8375-a4feda1a0536#ref=rss)
-### berlin
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimagipfel-von-glasgow-wer-sich-jetzt-besonders-anstrengen-muss](https://www.spiegel.de/wissenschaft/mensch/uno-klimagipfel-von-glasgow-wer-sich-jetzt-besonders-anstrengen-muss-a-df6d74b1-88ec-40f6-9f00-44e752ad0508#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-so-lief-der-schlussspurt-in-glasgow-ab](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-so-lief-der-schlussspurt-in-glasgow-ab-a-6d6f0465-f9b3-47f0-af86-ef84b2e5f307#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen-a-a4bbc580-ff3c-4ebd-9b5e-13648a03009e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimapakt-von-glasgow-umweltministerin-schulze-nennt-beschluesse-historisch](https://www.spiegel.de/wissenschaft/klimapakt-von-glasgow-umweltministerin-schulze-nennt-beschluesse-historisch-a-debcd414-c2a8-4bc8-b3b4-3094c885b382#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/berlin-und-niedersachsen-corona-kontrollen-geraten-ausser-kontrolle](https://www.spiegel.de/panorama/berlin-und-niedersachsen-corona-kontrollen-geraten-ausser-kontrolle-a-d5b346ee-c121-4bf2-a7b0-32dfa2c2b60b#ref=rss)
-### gäste
+* [https://www.spiegel.de/panorama/justiz/aachen-18-jaehriger-verursacht-bei-autorennen-folgenschweren-zusammenstoss](https://www.spiegel.de/panorama/justiz/aachen-18-jaehriger-verursacht-bei-autorennen-folgenschweren-zusammenstoss-a-6ba4e439-660e-4548-ac32-442056252b92#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten](https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten-a-1a24cd2d-2a8a-4024-9790-77185ed753a1#ref=rss)
+* [https://www.spiegel.de/gesundheit/corona-impfung-12-ungeimpfte-erzaehlen-warum-sie-die-impfung-ablehnen](https://www.spiegel.de/gesundheit/corona-impfung-12-ungeimpfte-erzaehlen-warum-sie-die-impfung-ablehnen-a-ff7a65bc-537a-4641-9b1d-957ea8e5c4cd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/bundesweite-inzidenz-steigt-auf-289](https://www.spiegel.de/wissenschaft/medizin/bundesweite-inzidenz-steigt-auf-289-a-a2527eed-9291-4e44-86e3-a671b5cdfad2#ref=rss)
+### michael
 
-* [https://www.spiegel.de/panorama/berlin-und-niedersachsen-corona-kontrollen-geraten-ausser-kontrolle](https://www.spiegel.de/panorama/berlin-und-niedersachsen-corona-kontrollen-geraten-ausser-kontrolle-a-d5b346ee-c121-4bf2-a7b0-32dfa2c2b60b#ref=rss)
-* [https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken](https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken-a-24210431-39ac-4637-aecb-f58a50f2c797#ref=rss)
-### eukommissar
+* [https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter](https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter-a-53da5aef-52eb-4d62-84ab-cea38c64b30d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter](https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter-a-d17b6c27-22b9-44f2-bcef-79e41654d061#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht](https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht-a-41c21ed0-7aa1-40c7-ad76-c4e289626469#ref=rss)
-### timmermans
+* [https://www.spiegel.de/panorama/justiz/aachen-18-jaehriger-verursacht-bei-autorennen-folgenschweren-zusammenstoss](https://www.spiegel.de/panorama/justiz/aachen-18-jaehriger-verursacht-bei-autorennen-folgenschweren-zusammenstoss-a-6ba4e439-660e-4548-ac32-442056252b92#ref=rss)
+* [https://www.spiegel.de/panorama/leute/japan-ex-prinzessin-mako-zieht-mit-mann-kei-komuro-in-die-usa](https://www.spiegel.de/panorama/leute/japan-ex-prinzessin-mako-zieht-mit-mann-kei-komuro-in-die-usa-a-7ccd0034-59ad-46ed-bf03-d418e4d7e9af#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht](https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht-a-41c21ed0-7aa1-40c7-ad76-c4e289626469#ref=rss)
-### klimagipfel
-
-* [https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht](https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht-a-41c21ed0-7aa1-40c7-ad76-c4e289626469#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf](https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf-a-b99001e1-2a5d-4452-822c-0fdcb1934997#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht](https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht-a-41c21ed0-7aa1-40c7-ad76-c4e289626469#ref=rss)
-* [https://www.spiegel.de/ausland/waldimir-putin-warnt-lukaschenko-im-konflikt-mit-der-eu-vor-gas-stopp](https://www.spiegel.de/ausland/waldimir-putin-warnt-lukaschenko-im-konflikt-mit-der-eu-vor-gas-stopp-a-c79c6f00-179c-4d55-9a01-1ef93ff2ba11#ref=rss)
-### allem
-
-* [https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht](https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht-a-41c21ed0-7aa1-40c7-ad76-c4e289626469#ref=rss)
-* [https://www.spiegel.de/panorama/leute/claudia-schiffer-zeigt-ihre-tochter-schoen-von-innen-und-aussen](https://www.spiegel.de/panorama/leute/claudia-schiffer-zeigt-ihre-tochter-schoen-von-innen-und-aussen-a-488f313c-d083-4d45-a3d5-043e0eb7d867#ref=rss)
-### entwurf
-
-* [https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht](https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht-a-41c21ed0-7aa1-40c7-ad76-c4e289626469#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf](https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf-a-b99001e1-2a5d-4452-822c-0fdcb1934997#ref=rss)
-### abschlusserklärung
-
-* [https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht](https://www.spiegel.de/wissenschaft/eu-kommissar-frans-timmermans-auf-klimagipfel-in-glasgow-zerstoert-den-moment-nicht-a-41c21ed0-7aa1-40c7-ad76-c4e289626469#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf](https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf-a-b99001e1-2a5d-4452-822c-0fdcb1934997#ref=rss)
-### insel
-
-* [https://www.spiegel.de/ausland/klimawandel-wie-die-ostsee-insel-bornholm-in-wenigen-jahren-klimaneutral-werden-und-alles-recyceln-will](https://www.spiegel.de/ausland/klimawandel-wie-die-ostsee-insel-bornholm-in-wenigen-jahren-klimaneutral-werden-und-alles-recyceln-will-a-861ea8ab-7fc2-4a01-9a18-69e30acae7c5#ref=rss)
-### bornholm
-
-* [https://www.spiegel.de/ausland/klimawandel-wie-die-ostsee-insel-bornholm-in-wenigen-jahren-klimaneutral-werden-und-alles-recyceln-will](https://www.spiegel.de/ausland/klimawandel-wie-die-ostsee-insel-bornholm-in-wenigen-jahren-klimaneutral-werden-und-alles-recyceln-will-a-861ea8ab-7fc2-4a01-9a18-69e30acae7c5#ref=rss)
-### infraschall
-
-* [https://www.spiegel.de/wissenschaft/mensch/windenergie-der-mythos-vom-schaedlichen-infraschall](https://www.spiegel.de/wissenschaft/mensch/windenergie-der-mythos-vom-schaedlichen-infraschall-a-9113e02b-3eb5-4654-9aba-2f143d375c1b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/aachen-18-jaehriger-verursacht-bei-autorennen-folgenschweren-zusammenstoss](https://www.spiegel.de/panorama/justiz/aachen-18-jaehriger-verursacht-bei-autorennen-folgenschweren-zusammenstoss-a-6ba4e439-660e-4548-ac32-442056252b92#ref=rss)
+* [https://www.spiegel.de/kultur/rainald-grebe-der-kabarettist-und-seine-schwere-krankheit](https://www.spiegel.de/kultur/rainald-grebe-der-kabarettist-und-seine-schwere-krankheit-a-efec913e-76d4-4d8b-962a-1a5f366b9601#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-mehrere-tote-bei-massenprotesten](https://www.spiegel.de/ausland/sudan-mehrere-tote-bei-massenprotesten-a-59bcf299-8f2c-4ac7-8695-616cb3516eb6#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wissenschaft/mensch/windenergie-der-mythos-vom-schaedlichen-infraschall](https://www.spiegel.de/wissenschaft/mensch/windenergie-der-mythos-vom-schaedlichen-infraschall-a-9113e02b-3eb5-4654-9aba-2f143d375c1b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder](https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder-a-75cf6a4d-2866-46b9-8375-a4feda1a0536#ref=rss)
-### almuth
+* [https://www.spiegel.de/politik/deutschland/kuba-deutsch-kubaner-nach-protesten-in-haft-tochter-kaempft-um-seine-freilassung](https://www.spiegel.de/politik/deutschland/kuba-deutsch-kubaner-nach-protesten-in-haft-tochter-kaempft-um-seine-freilassung-a-0acc685b-99a5-4d91-bc45-be07529c7566#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/corona-aus-diesen-gruenden-zoegern-ungeimpfte](https://www.spiegel.de/gesundheit/diagnose/corona-aus-diesen-gruenden-zoegern-ungeimpfte-a-2259225d-ceac-4f57-af0c-655a66b7fa37#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimagipfel-von-glasgow-wer-sich-jetzt-besonders-anstrengen-muss](https://www.spiegel.de/wissenschaft/mensch/uno-klimagipfel-von-glasgow-wer-sich-jetzt-besonders-anstrengen-muss-a-df6d74b1-88ec-40f6-9f00-44e752ad0508#ref=rss)
+### sachsens
 
-* [https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen-a-ac7cb168-bb8a-42d3-be69-e28af6142ae4#ref=rss)
-### schult
+* [https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten](https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten-a-1a24cd2d-2a8a-4024-9790-77185ed753a1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter](https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter-a-d17b6c27-22b9-44f2-bcef-79e41654d061#ref=rss)
+### kretschmer
 
-* [https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen-a-ac7cb168-bb8a-42d3-be69-e28af6142ae4#ref=rss)
-### bundesliga
+* [https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten](https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten-a-1a24cd2d-2a8a-4024-9790-77185ed753a1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter](https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter-a-d17b6c27-22b9-44f2-bcef-79e41654d061#ref=rss)
+### corona
 
-* [https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen-a-ac7cb168-bb8a-42d3-be69-e28af6142ae4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-dfl-verteidigt-50-1-ausnahmeregelungen-fuer-bayer-leverkusen-vfl-wolfsburg-und-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/bundesliga-dfl-verteidigt-50-1-ausnahmeregelungen-fuer-bayer-leverkusen-vfl-wolfsburg-und-tsg-hoffenheim-a-624c3f2c-1238-4bfd-8353-803c7ffb6575#ref=rss)
-### fc
+* [https://www.spiegel.de/gesundheit/diagnose/corona-aus-diesen-gruenden-zoegern-ungeimpfte](https://www.spiegel.de/gesundheit/diagnose/corona-aus-diesen-gruenden-zoegern-ungeimpfte-a-2259225d-ceac-4f57-af0c-655a66b7fa37#ref=rss)
+* [https://www.spiegel.de/wirtschaft/coronapandemie-heil-will-homeoffice-pflicht-wieder-einfuehren](https://www.spiegel.de/wirtschaft/coronapandemie-heil-will-homeoffice-pflicht-wieder-einfuehren-a-d871f1a7-0721-4358-8868-b6aa92af7cc1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter](https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter-a-d17b6c27-22b9-44f2-bcef-79e41654d061#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen-a-ac7cb168-bb8a-42d3-be69-e28af6142ae4#ref=rss)
-### bayern
+* [https://www.spiegel.de/gesundheit/diagnose/corona-aus-diesen-gruenden-zoegern-ungeimpfte](https://www.spiegel.de/gesundheit/diagnose/corona-aus-diesen-gruenden-zoegern-ungeimpfte-a-2259225d-ceac-4f57-af0c-655a66b7fa37#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/milch-verbraucher-muessen-sich-auf-deutlich-hoehere-preise-einstellen](https://www.spiegel.de/wirtschaft/service/milch-verbraucher-muessen-sich-auf-deutlich-hoehere-preise-einstellen-a-5539b3b6-57f8-416b-ad99-40d5a1b29f4c#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/frauenfussball-almuth-schult-ueberragt-in-der-bundesliga-fuer-den-vfl-wolfsburg-beim-fc-bayern-muenchen-a-ac7cb168-bb8a-42d3-be69-e28af6142ae4#ref=rss)
-### erfurt
+* [https://www.spiegel.de/gesundheit/corona-impfung-12-ungeimpfte-erzaehlen-warum-sie-die-impfung-ablehnen](https://www.spiegel.de/gesundheit/corona-impfung-12-ungeimpfte-erzaehlen-warum-sie-die-impfung-ablehnen-a-ff7a65bc-537a-4641-9b1d-957ea8e5c4cd#ref=rss)
+* [https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter](https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter-a-53da5aef-52eb-4d62-84ab-cea38c64b30d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-und-robert-habeck-das-ende-der-gruenen-harmonie](https://www.spiegel.de/politik/deutschland/annalena-baerbock-und-robert-habeck-das-ende-der-gruenen-harmonie-a-f2ff15d1-a4b3-4133-81f7-48620c3d517c#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/panorama/justiz/erfurt-betrunkener-lkw-fahrer-verteilt-diesel-auf-der-a71](https://www.spiegel.de/panorama/justiz/erfurt-betrunkener-lkw-fahrer-verteilt-diesel-auf-der-a71-a-2faaa4f6-10fa-498a-9e00-82afaf6a12d1#ref=rss)
-### betrunkener
+* [https://www.spiegel.de/netzwelt/web/telekommunikationsgesetz-das-aendert-sich-bei-internet-und-handyvertraegen](https://www.spiegel.de/netzwelt/web/telekommunikationsgesetz-das-aendert-sich-bei-internet-und-handyvertraegen-a-9abc086d-842d-4f9b-97e2-2f7a3b32d424#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/milch-verbraucher-muessen-sich-auf-deutlich-hoehere-preise-einstellen](https://www.spiegel.de/wirtschaft/service/milch-verbraucher-muessen-sich-auf-deutlich-hoehere-preise-einstellen-a-5539b3b6-57f8-416b-ad99-40d5a1b29f4c#ref=rss)
+### toten
 
-* [https://www.spiegel.de/panorama/justiz/erfurt-betrunkener-lkw-fahrer-verteilt-diesel-auf-der-a71](https://www.spiegel.de/panorama/justiz/erfurt-betrunkener-lkw-fahrer-verteilt-diesel-auf-der-a71-a-2faaa4f6-10fa-498a-9e00-82afaf6a12d1#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-neukoelln-22-jaehriger-rammt-mehrere-autos](https://www.spiegel.de/panorama/berlin-neukoelln-22-jaehriger-rammt-mehrere-autos-a-a5be435e-4088-489d-a5cd-e6e70934181b#ref=rss)
-### lkwfahrer
-
-* [https://www.spiegel.de/panorama/justiz/erfurt-betrunkener-lkw-fahrer-verteilt-diesel-auf-der-a71](https://www.spiegel.de/panorama/justiz/erfurt-betrunkener-lkw-fahrer-verteilt-diesel-auf-der-a71-a-2faaa4f6-10fa-498a-9e00-82afaf6a12d1#ref=rss)
-### intensivstation
-
-* [https://www.spiegel.de/gesundheit/muenchner-intensivstation-wir-laufen-voll-es-ist-eine-katastrophe](https://www.spiegel.de/gesundheit/muenchner-intensivstation-wir-laufen-voll-es-ist-eine-katastrophe-a-beab5fc5-094b-4ab1-9fac-e49778a5d42d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter](https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter-a-d17b6c27-22b9-44f2-bcef-79e41654d061#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-mehrere-tote-bei-massenprotesten](https://www.spiegel.de/ausland/sudan-mehrere-tote-bei-massenprotesten-a-59bcf299-8f2c-4ac7-8695-616cb3516eb6#ref=rss)
+* [https://www.spiegel.de/ausland/ecuador-wieder-kaempfe-im-gefaengnis-dutzende-tote](https://www.spiegel.de/ausland/ecuador-wieder-kaempfe-im-gefaengnis-dutzende-tote-a-a35ccce4-b011-4907-9a80-09845dd70c9f#ref=rss)
 ### wir
 
-* [https://www.spiegel.de/gesundheit/muenchner-intensivstation-wir-laufen-voll-es-ist-eine-katastrophe](https://www.spiegel.de/gesundheit/muenchner-intensivstation-wir-laufen-voll-es-ist-eine-katastrophe-a-beab5fc5-094b-4ab1-9fac-e49778a5d42d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-corona-und-die-ampel-wir-duerfen-ungeimpfte-nicht-schlechter-stellen](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-corona-und-die-ampel-wir-duerfen-ungeimpfte-nicht-schlechter-stellen-a-5ea9b2ab-d717-43dd-8ae6-36d29a41bdd6#ref=rss)
-### voll
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter](https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter-a-d17b6c27-22b9-44f2-bcef-79e41654d061#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen-a-a4bbc580-ff3c-4ebd-9b5e-13648a03009e#ref=rss)
+### uns
 
-* [https://www.spiegel.de/gesundheit/muenchner-intensivstation-wir-laufen-voll-es-ist-eine-katastrophe](https://www.spiegel.de/gesundheit/muenchner-intensivstation-wir-laufen-voll-es-ist-eine-katastrophe-a-beab5fc5-094b-4ab1-9fac-e49778a5d42d#ref=rss)
-* [https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken](https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken-a-24210431-39ac-4637-aecb-f58a50f2c797#ref=rss)
-### mareen
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter](https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter-a-d17b6c27-22b9-44f2-bcef-79e41654d061#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-so-lief-der-schlussspurt-in-glasgow-ab](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-so-lief-der-schlussspurt-in-glasgow-ab-a-6d6f0465-f9b3-47f0-af86-ef84b2e5f307#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen-a-a4bbc580-ff3c-4ebd-9b5e-13648a03009e#ref=rss)
+### eukommission
 
-* [https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken](https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken-a-24210431-39ac-4637-aecb-f58a50f2c797#ref=rss)
-### heying
+* [https://www.spiegel.de/ausland/corona-impfungen-lockdowns-tracking-eu-kommission-kennt-wirkung-von-corona-massnahmen-nicht](https://www.spiegel.de/ausland/corona-impfungen-lockdowns-tracking-eu-kommission-kennt-wirkung-von-corona-massnahmen-nicht-a-81d5da5e-dd47-475b-90a0-3d40f15301d7#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken](https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken-a-24210431-39ac-4637-aecb-f58a50f2c797#ref=rss)
-### sehr
+* [https://www.spiegel.de/ausland/corona-impfungen-lockdowns-tracking-eu-kommission-kennt-wirkung-von-corona-massnahmen-nicht](https://www.spiegel.de/ausland/corona-impfungen-lockdowns-tracking-eu-kommission-kennt-wirkung-von-corona-massnahmen-nicht-a-81d5da5e-dd47-475b-90a0-3d40f15301d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/coronapandemie-heil-will-homeoffice-pflicht-wieder-einfuehren](https://www.spiegel.de/wirtschaft/coronapandemie-heil-will-homeoffice-pflicht-wieder-einfuehren-a-d871f1a7-0721-4358-8868-b6aa92af7cc1#ref=rss)
+### aachen
 
-* [https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken](https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken-a-24210431-39ac-4637-aecb-f58a50f2c797#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-gefahr-nuernberg-das-ist-kein-saufgelage-wie-in-ischgl](https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-gefahr-nuernberg-das-ist-kein-saufgelage-wie-in-ischgl-a-4c71dd12-c82b-41d9-aed5-a8091d2fdd8f#ref=rss)
-### kam
+* [https://www.spiegel.de/panorama/justiz/aachen-18-jaehriger-verursacht-bei-autorennen-folgenschweren-zusammenstoss](https://www.spiegel.de/panorama/justiz/aachen-18-jaehriger-verursacht-bei-autorennen-folgenschweren-zusammenstoss-a-6ba4e439-660e-4548-ac32-442056252b92#ref=rss)
+### verursacht
 
-* [https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken](https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken-a-24210431-39ac-4637-aecb-f58a50f2c797#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-mit-einem-teil-lockdown-gegen-hohe-corona-zahlen](https://www.spiegel.de/ausland/niederlande-mit-einem-teil-lockdown-gegen-hohe-corona-zahlen-a-7b9e9897-ea59-4061-97ad-6a64a022a924#ref=rss)
-### besonders
+* [https://www.spiegel.de/panorama/justiz/aachen-18-jaehriger-verursacht-bei-autorennen-folgenschweren-zusammenstoss](https://www.spiegel.de/panorama/justiz/aachen-18-jaehriger-verursacht-bei-autorennen-folgenschweren-zusammenstoss-a-6ba4e439-660e-4548-ac32-442056252b92#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken](https://www.spiegel.de/geschichte/kneipenhistorikerin-mareen-heying-unter-buergerlichen-frauen-wurde-sehr-viel-getrunken-a-24210431-39ac-4637-aecb-f58a50f2c797#ref=rss)
-* [https://www.spiegel.de/auto/fahrkultur/bvg-hvv-mvg-und-co-wo-bus-und-bahnfahren-besonders-teuer-ist-und-wo-billig](https://www.spiegel.de/auto/fahrkultur/bvg-hvv-mvg-und-co-wo-bus-und-bahnfahren-besonders-teuer-ist-und-wo-billig-a-d4225435-94e7-4c45-8009-392e97940702#ref=rss)
-### bringen
+* [https://www.spiegel.de/panorama/justiz/aachen-18-jaehriger-verursacht-bei-autorennen-folgenschweren-zusammenstoss](https://www.spiegel.de/panorama/justiz/aachen-18-jaehriger-verursacht-bei-autorennen-folgenschweren-zusammenstoss-a-6ba4e439-660e-4548-ac32-442056252b92#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-niederlande-kann-katar-verpassen-frankreich-und-belgien-qualifiziert](https://www.spiegel.de/sport/fussball/wm-qualifikation-niederlande-kann-katar-verpassen-frankreich-und-belgien-qualifiziert-a-261aae1f-da5a-45c8-9c1f-e82652c7199a#ref=rss)
+### kuba
 
-* [https://www.spiegel.de/sport/digitale-uhren-armbaender-brillen-was-fitnesstracker-wirklich-bringen](https://www.spiegel.de/sport/digitale-uhren-armbaender-brillen-was-fitnesstracker-wirklich-bringen-a-04ee7525-75d0-4324-bfbb-45cf94c79e20#ref=rss)
-* [https://www.spiegel.de/panorama/rheinland-pfalz13-jaehriger-faehrt-mit-dem-auto-der-eltern-zu-geburtstagsfeier](https://www.spiegel.de/panorama/rheinland-pfalz13-jaehriger-faehrt-mit-dem-auto-der-eltern-zu-geburtstagsfeier-a-32613c8e-ef6c-41f6-87da-8048656a9d5e#ref=rss)
-### co
+* [https://www.spiegel.de/politik/deutschland/kuba-deutsch-kubaner-nach-protesten-in-haft-tochter-kaempft-um-seine-freilassung](https://www.spiegel.de/politik/deutschland/kuba-deutsch-kubaner-nach-protesten-in-haft-tochter-kaempft-um-seine-freilassung-a-0acc685b-99a5-4d91-bc45-be07529c7566#ref=rss)
+### deutschkubaner
 
-* [https://www.spiegel.de/sport/digitale-uhren-armbaender-brillen-was-fitnesstracker-wirklich-bringen](https://www.spiegel.de/sport/digitale-uhren-armbaender-brillen-was-fitnesstracker-wirklich-bringen-a-04ee7525-75d0-4324-bfbb-45cf94c79e20#ref=rss)
-* [https://www.spiegel.de/auto/fahrkultur/bvg-hvv-mvg-und-co-wo-bus-und-bahnfahren-besonders-teuer-ist-und-wo-billig](https://www.spiegel.de/auto/fahrkultur/bvg-hvv-mvg-und-co-wo-bus-und-bahnfahren-besonders-teuer-ist-und-wo-billig-a-d4225435-94e7-4c45-8009-392e97940702#ref=rss)
-### saarland
+* [https://www.spiegel.de/politik/deutschland/kuba-deutsch-kubaner-nach-protesten-in-haft-tochter-kaempft-um-seine-freilassung](https://www.spiegel.de/politik/deutschland/kuba-deutsch-kubaner-nach-protesten-in-haft-tochter-kaempft-um-seine-freilassung-a-0acc685b-99a5-4d91-bc45-be07529c7566#ref=rss)
+### tochter
 
-* [https://www.spiegel.de/politik/saarland-cdu-und-spd-bestaetigen-ihre-vorsitzenden-im-amt](https://www.spiegel.de/politik/saarland-cdu-und-spd-bestaetigen-ihre-vorsitzenden-im-amt-a-1afba9b9-d1e3-4249-85e8-613b0bb5ca37#ref=rss)
-### spd
+* [https://www.spiegel.de/politik/deutschland/kuba-deutsch-kubaner-nach-protesten-in-haft-tochter-kaempft-um-seine-freilassung](https://www.spiegel.de/politik/deutschland/kuba-deutsch-kubaner-nach-protesten-in-haft-tochter-kaempft-um-seine-freilassung-a-0acc685b-99a5-4d91-bc45-be07529c7566#ref=rss)
+### kämpft
 
-* [https://www.spiegel.de/politik/saarland-cdu-und-spd-bestaetigen-ihre-vorsitzenden-im-amt](https://www.spiegel.de/politik/saarland-cdu-und-spd-bestaetigen-ihre-vorsitzenden-im-amt-a-1afba9b9-d1e3-4249-85e8-613b0bb5ca37#ref=rss)
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-sozialdemokraten-und-linke-stimmen-koalitionsvertrag-zu](https://www.spiegel.de/politik/mecklenburg-vorpommern-sozialdemokraten-und-linke-stimmen-koalitionsvertrag-zu-a-b6899a52-3061-452d-abc5-6372e93ba855#ref=rss)
-### regierung
+* [https://www.spiegel.de/politik/deutschland/kuba-deutsch-kubaner-nach-protesten-in-haft-tochter-kaempft-um-seine-freilassung](https://www.spiegel.de/politik/deutschland/kuba-deutsch-kubaner-nach-protesten-in-haft-tochter-kaempft-um-seine-freilassung-a-0acc685b-99a5-4d91-bc45-be07529c7566#ref=rss)
+### freilassung
 
-* [https://www.spiegel.de/ausland/boris-johnsons-regierung-unter-korruptionsverdacht-ist-das-filz-oder-kann-das-weg](https://www.spiegel.de/ausland/boris-johnsons-regierung-unter-korruptionsverdacht-ist-das-filz-oder-kann-das-weg-a-1f53257a-2f42-41ac-a1ad-13792e599ed4#ref=rss)
-* [https://www.spiegel.de/ausland/niederlande-mit-einem-teil-lockdown-gegen-hohe-corona-zahlen](https://www.spiegel.de/ausland/niederlande-mit-einem-teil-lockdown-gegen-hohe-corona-zahlen-a-7b9e9897-ea59-4061-97ad-6a64a022a924#ref=rss)
-### rheinlandpfalz
+* [https://www.spiegel.de/politik/deutschland/kuba-deutsch-kubaner-nach-protesten-in-haft-tochter-kaempft-um-seine-freilassung](https://www.spiegel.de/politik/deutschland/kuba-deutsch-kubaner-nach-protesten-in-haft-tochter-kaempft-um-seine-freilassung-a-0acc685b-99a5-4d91-bc45-be07529c7566#ref=rss)
+### inflation
 
-* [https://www.spiegel.de/panorama/rheinland-pfalz13-jaehriger-faehrt-mit-dem-auto-der-eltern-zu-geburtstagsfeier](https://www.spiegel.de/panorama/rheinland-pfalz13-jaehriger-faehrt-mit-dem-auto-der-eltern-zu-geburtstagsfeier-a-32613c8e-ef6c-41f6-87da-8048656a9d5e#ref=rss)
-### geburtstagsfeier
+* [https://www.spiegel.de/ausland/inflation-in-den-usa-joe-bidens-neuer-feind-nummer-eins](https://www.spiegel.de/ausland/inflation-in-den-usa-joe-bidens-neuer-feind-nummer-eins-a-3bb21251-3b1c-4145-96fe-378241282fb0#ref=rss)
+### steigt
 
-* [https://www.spiegel.de/panorama/rheinland-pfalz13-jaehriger-faehrt-mit-dem-auto-der-eltern-zu-geburtstagsfeier](https://www.spiegel.de/panorama/rheinland-pfalz13-jaehriger-faehrt-mit-dem-auto-der-eltern-zu-geburtstagsfeier-a-32613c8e-ef6c-41f6-87da-8048656a9d5e#ref=rss)
-### selbst
+* [https://www.spiegel.de/ausland/inflation-in-den-usa-joe-bidens-neuer-feind-nummer-eins](https://www.spiegel.de/ausland/inflation-in-den-usa-joe-bidens-neuer-feind-nummer-eins-a-3bb21251-3b1c-4145-96fe-378241282fb0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/bundesweite-inzidenz-steigt-auf-289](https://www.spiegel.de/wissenschaft/medizin/bundesweite-inzidenz-steigt-auf-289-a-a2527eed-9291-4e44-86e3-a671b5cdfad2#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/panorama/rheinland-pfalz13-jaehriger-faehrt-mit-dem-auto-der-eltern-zu-geburtstagsfeier](https://www.spiegel.de/panorama/rheinland-pfalz13-jaehriger-faehrt-mit-dem-auto-der-eltern-zu-geburtstagsfeier-a-32613c8e-ef6c-41f6-87da-8048656a9d5e#ref=rss)
-* [https://www.spiegel.de/stil/marley-one-warum-bob-marleys-familie-jetzt-pilze-verkauft](https://www.spiegel.de/stil/marley-one-warum-bob-marleys-familie-jetzt-pilze-verkauft-a-2d2ffbe5-001a-4b75-8aed-4ce969c09ee7#ref=rss)
-### woche
+* [https://www.spiegel.de/ausland/inflation-in-den-usa-joe-bidens-neuer-feind-nummer-eins](https://www.spiegel.de/ausland/inflation-in-den-usa-joe-bidens-neuer-feind-nummer-eins-a-3bb21251-3b1c-4145-96fe-378241282fb0#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/corona-aus-diesen-gruenden-zoegern-ungeimpfte](https://www.spiegel.de/gesundheit/diagnose/corona-aus-diesen-gruenden-zoegern-ungeimpfte-a-2259225d-ceac-4f57-af0c-655a66b7fa37#ref=rss)
+### michigan
 
-* [https://www.spiegel.de/panorama/bilder-der-woche-kw-45-tanzen-als-ob-keiner-zusieht](https://www.spiegel.de/panorama/bilder-der-woche-kw-45-tanzen-als-ob-keiner-zusieht-a-8b2e4a01-7341-491e-ab55-28c50b3b8779#ref=rss)
-### steigender
+* [https://www.spiegel.de/panorama/justiz/michigan-elfjaehrige-ueberlebt-absturz-eines-kleinflugzeuges-als-einzige](https://www.spiegel.de/panorama/justiz/michigan-elfjaehrige-ueberlebt-absturz-eines-kleinflugzeuges-als-einzige-a-700d377c-c1ee-4385-b597-8d10d729d77b#ref=rss)
+### überlebt
 
-* [https://www.spiegel.de/ausland/niederlande-mit-einem-teil-lockdown-gegen-hohe-corona-zahlen](https://www.spiegel.de/ausland/niederlande-mit-einem-teil-lockdown-gegen-hohe-corona-zahlen-a-7b9e9897-ea59-4061-97ad-6a64a022a924#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-gefahr-nuernberg-das-ist-kein-saufgelage-wie-in-ischgl](https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-gefahr-nuernberg-das-ist-kein-saufgelage-wie-in-ischgl-a-4c71dd12-c82b-41d9-aed5-a8091d2fdd8f#ref=rss)
-### mecklenburgvorpommern
+* [https://www.spiegel.de/panorama/justiz/michigan-elfjaehrige-ueberlebt-absturz-eines-kleinflugzeuges-als-einzige](https://www.spiegel.de/panorama/justiz/michigan-elfjaehrige-ueberlebt-absturz-eines-kleinflugzeuges-als-einzige-a-700d377c-c1ee-4385-b597-8d10d729d77b#ref=rss)
+### kleinen
 
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-sozialdemokraten-und-linke-stimmen-koalitionsvertrag-zu](https://www.spiegel.de/politik/mecklenburg-vorpommern-sozialdemokraten-und-linke-stimmen-koalitionsvertrag-zu-a-b6899a52-3061-452d-abc5-6372e93ba855#ref=rss)
-### koalitionsvertrag
+* [https://www.spiegel.de/panorama/justiz/michigan-elfjaehrige-ueberlebt-absturz-eines-kleinflugzeuges-als-einzige](https://www.spiegel.de/panorama/justiz/michigan-elfjaehrige-ueberlebt-absturz-eines-kleinflugzeuges-als-einzige-a-700d377c-c1ee-4385-b597-8d10d729d77b#ref=rss)
+* [https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter](https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter-a-53da5aef-52eb-4d62-84ab-cea38c64b30d#ref=rss)
+### katar
 
-* [https://www.spiegel.de/politik/mecklenburg-vorpommern-sozialdemokraten-und-linke-stimmen-koalitionsvertrag-zu](https://www.spiegel.de/politik/mecklenburg-vorpommern-sozialdemokraten-und-linke-stimmen-koalitionsvertrag-zu-a-b6899a52-3061-452d-abc5-6372e93ba855#ref=rss)
-### 22jähriger
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-niederlande-kann-katar-verpassen-frankreich-und-belgien-qualifiziert](https://www.spiegel.de/sport/fussball/wm-qualifikation-niederlande-kann-katar-verpassen-frankreich-und-belgien-qualifiziert-a-261aae1f-da5a-45c8-9c1f-e82652c7199a#ref=rss)
+### hilfe
 
-* [https://www.spiegel.de/panorama/berlin-neukoelln-22-jaehriger-rammt-mehrere-autos](https://www.spiegel.de/panorama/berlin-neukoelln-22-jaehriger-rammt-mehrere-autos-a-a5be435e-4088-489d-a5cd-e6e70934181b#ref=rss)
-### autos
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-niederlande-kann-katar-verpassen-frankreich-und-belgien-qualifiziert](https://www.spiegel.de/sport/fussball/wm-qualifikation-niederlande-kann-katar-verpassen-frankreich-und-belgien-qualifiziert-a-261aae1f-da5a-45c8-9c1f-e82652c7199a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten](https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten-a-1a24cd2d-2a8a-4024-9790-77185ed753a1#ref=rss)
+### queen
 
-* [https://www.spiegel.de/panorama/berlin-neukoelln-22-jaehriger-rammt-mehrere-autos](https://www.spiegel.de/panorama/berlin-neukoelln-22-jaehriger-rammt-mehrere-autos-a-a5be435e-4088-489d-a5cd-e6e70934181b#ref=rss)
-### schwer
+* [https://www.spiegel.de/ausland/queen-sagt-teilnahme-an-weltkriegsgedenken-ab-wegen-rueckenproblemen](https://www.spiegel.de/ausland/queen-sagt-teilnahme-an-weltkriegsgedenken-ab-wegen-rueckenproblemen-a-005add7b-cf28-4c89-a397-945bf0577313#ref=rss)
+### elizabeth
 
-* [https://www.spiegel.de/panorama/berlin-neukoelln-22-jaehriger-rammt-mehrere-autos](https://www.spiegel.de/panorama/berlin-neukoelln-22-jaehriger-rammt-mehrere-autos-a-a5be435e-4088-489d-a5cd-e6e70934181b#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-gefahr-nuernberg-das-ist-kein-saufgelage-wie-in-ischgl](https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-gefahr-nuernberg-das-ist-kein-saufgelage-wie-in-ischgl-a-4c71dd12-c82b-41d9-aed5-a8091d2fdd8f#ref=rss)
-### bob
+* [https://www.spiegel.de/ausland/queen-sagt-teilnahme-an-weltkriegsgedenken-ab-wegen-rueckenproblemen](https://www.spiegel.de/ausland/queen-sagt-teilnahme-an-weltkriegsgedenken-ab-wegen-rueckenproblemen-a-005add7b-cf28-4c89-a397-945bf0577313#ref=rss)
+### sonntag
 
-* [https://www.spiegel.de/stil/marley-one-warum-bob-marleys-familie-jetzt-pilze-verkauft](https://www.spiegel.de/stil/marley-one-warum-bob-marleys-familie-jetzt-pilze-verkauft-a-2d2ffbe5-001a-4b75-8aed-4ce969c09ee7#ref=rss)
-### pilze
+* [https://www.spiegel.de/ausland/queen-sagt-teilnahme-an-weltkriegsgedenken-ab-wegen-rueckenproblemen](https://www.spiegel.de/ausland/queen-sagt-teilnahme-an-weltkriegsgedenken-ab-wegen-rueckenproblemen-a-005add7b-cf28-4c89-a397-945bf0577313#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/bundesweite-inzidenz-steigt-auf-289](https://www.spiegel.de/wissenschaft/medizin/bundesweite-inzidenz-steigt-auf-289-a-a2527eed-9291-4e44-86e3-a671b5cdfad2#ref=rss)
+### exprinzessin
 
-* [https://www.spiegel.de/stil/marley-one-warum-bob-marleys-familie-jetzt-pilze-verkauft](https://www.spiegel.de/stil/marley-one-warum-bob-marleys-familie-jetzt-pilze-verkauft-a-2d2ffbe5-001a-4b75-8aed-4ce969c09ee7#ref=rss)
-### putin
+* [https://www.spiegel.de/panorama/leute/japan-ex-prinzessin-mako-zieht-mit-mann-kei-komuro-in-die-usa](https://www.spiegel.de/panorama/leute/japan-ex-prinzessin-mako-zieht-mit-mann-kei-komuro-in-die-usa-a-7ccd0034-59ad-46ed-bf03-d418e4d7e9af#ref=rss)
+### bundestagspräsidentin
 
-* [https://www.spiegel.de/ausland/waldimir-putin-warnt-lukaschenko-im-konflikt-mit-der-eu-vor-gas-stopp](https://www.spiegel.de/ausland/waldimir-putin-warnt-lukaschenko-im-konflikt-mit-der-eu-vor-gas-stopp-a-c79c6f00-179c-4d55-9a01-1ef93ff2ba11#ref=rss)
-### fordern
+* [https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten](https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten-a-1a24cd2d-2a8a-4024-9790-77185ed753a1#ref=rss)
+### bas
 
-* [https://www.spiegel.de/auto/fahrkultur/bvg-hvv-mvg-und-co-wo-bus-und-bahnfahren-besonders-teuer-ist-und-wo-billig](https://www.spiegel.de/auto/fahrkultur/bvg-hvv-mvg-und-co-wo-bus-und-bahnfahren-besonders-teuer-ist-und-wo-billig-a-d4225435-94e7-4c45-8009-392e97940702#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-gefahr-nuernberg-das-ist-kein-saufgelage-wie-in-ischgl](https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-gefahr-nuernberg-das-ist-kein-saufgelage-wie-in-ischgl-a-4c71dd12-c82b-41d9-aed5-a8091d2fdd8f#ref=rss)
-### viele
+* [https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten](https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten-a-1a24cd2d-2a8a-4024-9790-77185ed753a1#ref=rss)
+### ministerpräsident
 
-* [https://www.spiegel.de/auto/fahrkultur/bvg-hvv-mvg-und-co-wo-bus-und-bahnfahren-besonders-teuer-ist-und-wo-billig](https://www.spiegel.de/auto/fahrkultur/bvg-hvv-mvg-und-co-wo-bus-und-bahnfahren-besonders-teuer-ist-und-wo-billig-a-d4225435-94e7-4c45-8009-392e97940702#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-freude-ueber-vormundschafts-entscheidung](https://www.spiegel.de/panorama/leute/britney-spears-freude-ueber-vormundschafts-entscheidung-a-5eaa01d1-f116-4153-8b93-940d66f9dd28#ref=rss)
-### dfl
+* [https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten](https://www.spiegel.de/politik/deutschland/belarussisches-grenzgebiet-bundestagspraesidentin-bas-verlangt-rasche-hilfe-fuer-migranten-a-1a24cd2d-2a8a-4024-9790-77185ed753a1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter](https://www.spiegel.de/politik/deutschland/coronavirus-sachsens-regierungschef-michael-kretschmer-rechnet-mit-rekordzahl-an-toten-im-winter-a-d17b6c27-22b9-44f2-bcef-79e41654d061#ref=rss)
+### a3
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-dfl-verteidigt-50-1-ausnahmeregelungen-fuer-bayer-leverkusen-vfl-wolfsburg-und-tsg-hoffenheim](https://www.spiegel.de/sport/fussball/bundesliga-dfl-verteidigt-50-1-ausnahmeregelungen-fuer-bayer-leverkusen-vfl-wolfsburg-und-tsg-hoffenheim-a-624c3f2c-1238-4bfd-8353-803c7ffb6575#ref=rss)
-### kohleausstieg
+* [https://www.spiegel.de/panorama/justiz/autobahn-3-bei-wuerzburg-kist-fuehrerloser-lkw-sorgt-fuer-zahlreiche-schaeden](https://www.spiegel.de/panorama/justiz/autobahn-3-bei-wuerzburg-kist-fuehrerloser-lkw-sorgt-fuer-zahlreiche-schaeden-a-c2984373-6d9c-42bb-b8a4-028c2f46c09a#ref=rss)
+### ungeimpfte
 
-* [https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf](https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf-a-b99001e1-2a5d-4452-822c-0fdcb1934997#ref=rss)
-### gemeinsame
+* [https://www.spiegel.de/gesundheit/diagnose/corona-aus-diesen-gruenden-zoegern-ungeimpfte](https://www.spiegel.de/gesundheit/diagnose/corona-aus-diesen-gruenden-zoegern-ungeimpfte-a-2259225d-ceac-4f57-af0c-655a66b7fa37#ref=rss)
+* [https://www.spiegel.de/gesundheit/corona-impfung-12-ungeimpfte-erzaehlen-warum-sie-die-impfung-ablehnen](https://www.spiegel.de/gesundheit/corona-impfung-12-ungeimpfte-erzaehlen-warum-sie-die-impfung-ablehnen-a-ff7a65bc-537a-4641-9b1d-957ea8e5c4cd#ref=rss)
+### 15
 
-* [https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf](https://www.spiegel.de/wissenschaft/natur/cop-26-in-glasgow-klimagipfel-geht-in-die-verlaengerung-aufruf-zu-kohleausstieg-haelt-sich-im-entwurf-a-b99001e1-2a5d-4452-822c-0fdcb1934997#ref=rss)
-* [https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker](https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker-a-e8d39b32-0061-4f22-a7ec-5d2795b0206d#ref=rss)
-### dosb
+* [https://www.spiegel.de/gesundheit/diagnose/corona-aus-diesen-gruenden-zoegern-ungeimpfte](https://www.spiegel.de/gesundheit/diagnose/corona-aus-diesen-gruenden-zoegern-ungeimpfte-a-2259225d-ceac-4f57-af0c-655a66b7fa37#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen-a-a4bbc580-ff3c-4ebd-9b5e-13648a03009e#ref=rss)
+### erzählen
 
-* [https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker](https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker-a-e8d39b32-0061-4f22-a7ec-5d2795b0206d#ref=rss)
-### alfons
+* [https://www.spiegel.de/gesundheit/corona-impfung-12-ungeimpfte-erzaehlen-warum-sie-die-impfung-ablehnen](https://www.spiegel.de/gesundheit/corona-impfung-12-ungeimpfte-erzaehlen-warum-sie-die-impfung-ablehnen-a-ff7a65bc-537a-4641-9b1d-957ea8e5c4cd#ref=rss)
+### ablehnen
 
-* [https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker](https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker-a-e8d39b32-0061-4f22-a7ec-5d2795b0206d#ref=rss)
-### hörmann
+* [https://www.spiegel.de/gesundheit/corona-impfung-12-ungeimpfte-erzaehlen-warum-sie-die-impfung-ablehnen](https://www.spiegel.de/gesundheit/corona-impfung-12-ungeimpfte-erzaehlen-warum-sie-die-impfung-ablehnen-a-ff7a65bc-537a-4641-9b1d-957ea8e5c4cd#ref=rss)
+### heil
 
-* [https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker](https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker-a-e8d39b32-0061-4f22-a7ec-5d2795b0206d#ref=rss)
-### veronika
+* [https://www.spiegel.de/wirtschaft/coronapandemie-heil-will-homeoffice-pflicht-wieder-einfuehren](https://www.spiegel.de/wirtschaft/coronapandemie-heil-will-homeoffice-pflicht-wieder-einfuehren-a-d871f1a7-0721-4358-8868-b6aa92af7cc1#ref=rss)
+### gesetz
 
-* [https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker](https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker-a-e8d39b32-0061-4f22-a7ec-5d2795b0206d#ref=rss)
-### rücker
+* [https://www.spiegel.de/wirtschaft/coronapandemie-heil-will-homeoffice-pflicht-wieder-einfuehren](https://www.spiegel.de/wirtschaft/coronapandemie-heil-will-homeoffice-pflicht-wieder-einfuehren-a-d871f1a7-0721-4358-8868-b6aa92af7cc1#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/telekommunikationsgesetz-das-aendert-sich-bei-internet-und-handyvertraegen](https://www.spiegel.de/netzwelt/web/telekommunikationsgesetz-das-aendert-sich-bei-internet-und-handyvertraegen-a-9abc086d-842d-4f9b-97e2-2f7a3b32d424#ref=rss)
+### ford
 
-* [https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker](https://www.spiegel.de/sport/olympia/dosb-vorstandsmitglieder-belasten-alfons-hoermann-und-veronika-ruecker-a-e8d39b32-0061-4f22-a7ec-5d2795b0206d#ref=rss)
-### wolfgang
+* [https://www.spiegel.de/auto/ford-mustang-mach-e-im-test-der-elektrische-gaul](https://www.spiegel.de/auto/ford-mustang-mach-e-im-test-der-elektrische-gaul-a-bee428eb-d314-40a5-b0c5-9599b4680877#ref=rss)
+### mustang
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-corona-und-die-ampel-wir-duerfen-ungeimpfte-nicht-schlechter-stellen](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-corona-und-die-ampel-wir-duerfen-ungeimpfte-nicht-schlechter-stellen-a-5ea9b2ab-d717-43dd-8ae6-36d29a41bdd6#ref=rss)
-### kubicki
+* [https://www.spiegel.de/auto/ford-mustang-mach-e-im-test-der-elektrische-gaul](https://www.spiegel.de/auto/ford-mustang-mach-e-im-test-der-elektrische-gaul-a-bee428eb-d314-40a5-b0c5-9599b4680877#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-corona-und-die-ampel-wir-duerfen-ungeimpfte-nicht-schlechter-stellen](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-corona-und-die-ampel-wir-duerfen-ungeimpfte-nicht-schlechter-stellen-a-5ea9b2ab-d717-43dd-8ae6-36d29a41bdd6#ref=rss)
-### ampel
+* [https://www.spiegel.de/auto/ford-mustang-mach-e-im-test-der-elektrische-gaul](https://www.spiegel.de/auto/ford-mustang-mach-e-im-test-der-elektrische-gaul-a-bee428eb-d314-40a5-b0c5-9599b4680877#ref=rss)
+* [https://www.spiegel.de/ausland/ecuador-wieder-kaempfe-im-gefaengnis-dutzende-tote](https://www.spiegel.de/ausland/ecuador-wieder-kaempfe-im-gefaengnis-dutzende-tote-a-a35ccce4-b011-4907-9a80-09845dd70c9f#ref=rss)
+### zügen
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-corona-und-die-ampel-wir-duerfen-ungeimpfte-nicht-schlechter-stellen](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-corona-und-die-ampel-wir-duerfen-ungeimpfte-nicht-schlechter-stellen-a-5ea9b2ab-d717-43dd-8ae6-36d29a41bdd6#ref=rss)
-### britney
+* [https://www.spiegel.de/wissenschaft/medizin/bundesweite-inzidenz-steigt-auf-289](https://www.spiegel.de/wissenschaft/medizin/bundesweite-inzidenz-steigt-auf-289-a-a2527eed-9291-4e44-86e3-a671b5cdfad2#ref=rss)
+### volkstrauertag
 
-* [https://www.spiegel.de/panorama/leute/britney-spears-freude-ueber-vormundschafts-entscheidung](https://www.spiegel.de/panorama/leute/britney-spears-freude-ueber-vormundschafts-entscheidung-a-5eaa01d1-f116-4153-8b93-940d66f9dd28#ref=rss)
-### spears
+* [https://www.spiegel.de/panorama/volkstrauertag-woran-wird-an-dem-stillen-tag-erinnert](https://www.spiegel.de/panorama/volkstrauertag-woran-wird-an-dem-stillen-tag-erinnert-a-396d6c95-431d-4806-823e-fd181c2df7fb#ref=rss)
+### verbraucher
 
-* [https://www.spiegel.de/panorama/leute/britney-spears-freude-ueber-vormundschafts-entscheidung](https://www.spiegel.de/panorama/leute/britney-spears-freude-ueber-vormundschafts-entscheidung-a-5eaa01d1-f116-4153-8b93-940d66f9dd28#ref=rss)
-### claudia
+* [https://www.spiegel.de/netzwelt/web/telekommunikationsgesetz-das-aendert-sich-bei-internet-und-handyvertraegen](https://www.spiegel.de/netzwelt/web/telekommunikationsgesetz-das-aendert-sich-bei-internet-und-handyvertraegen-a-9abc086d-842d-4f9b-97e2-2f7a3b32d424#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/milch-verbraucher-muessen-sich-auf-deutlich-hoehere-preise-einstellen](https://www.spiegel.de/wirtschaft/service/milch-verbraucher-muessen-sich-auf-deutlich-hoehere-preise-einstellen-a-5539b3b6-57f8-416b-ad99-40d5a1b29f4c#ref=rss)
+### winterhoff
 
-* [https://www.spiegel.de/panorama/leute/claudia-schiffer-zeigt-ihre-tochter-schoen-von-innen-und-aussen](https://www.spiegel.de/panorama/leute/claudia-schiffer-zeigt-ihre-tochter-schoen-von-innen-und-aussen-a-488f313c-d083-4d45-a3d5-043e0eb7d867#ref=rss)
-### schiffer
+* [https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter](https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter-a-53da5aef-52eb-4d62-84ab-cea38c64b30d#ref=rss)
+### verordnete
 
-* [https://www.spiegel.de/panorama/leute/claudia-schiffer-zeigt-ihre-tochter-schoen-von-innen-und-aussen](https://www.spiegel.de/panorama/leute/claudia-schiffer-zeigt-ihre-tochter-schoen-von-innen-und-aussen-a-488f313c-d083-4d45-a3d5-043e0eb7d867#ref=rss)
-### lüke
+* [https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter](https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter-a-53da5aef-52eb-4d62-84ab-cea38c64b30d#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/panorama/uno-klimakonferenz-lueke-recktenwald-erstritt-einen-sieg-vor-dem-bundesverfassungsgericht](https://www.spiegel.de/panorama/uno-klimakonferenz-lueke-recktenwald-erstritt-einen-sieg-vor-dem-bundesverfassungsgericht-a-47e5c952-8a9a-4d74-8d5c-f5eebd42c95d#ref=rss)
-### recktenwald
+* [https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter](https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter-a-53da5aef-52eb-4d62-84ab-cea38c64b30d#ref=rss)
+### unsere
 
-* [https://www.spiegel.de/panorama/uno-klimakonferenz-lueke-recktenwald-erstritt-einen-sieg-vor-dem-bundesverfassungsgericht](https://www.spiegel.de/panorama/uno-klimakonferenz-lueke-recktenwald-erstritt-einen-sieg-vor-dem-bundesverfassungsgericht-a-47e5c952-8a9a-4d74-8d5c-f5eebd42c95d#ref=rss)
-### bundesverfassungsgericht
+* [https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter](https://www.spiegel.de/gesundheit/michael-winterhoff-verordnete-psychopharmaka-an-kinder-ich-war-ein-kompletter-roboter-a-53da5aef-52eb-4d62-84ab-cea38c64b30d#ref=rss)
+* [https://www.spiegel.de/kultur/rainald-grebe-der-kabarettist-und-seine-schwere-krankheit](https://www.spiegel.de/kultur/rainald-grebe-der-kabarettist-und-seine-schwere-krankheit-a-efec913e-76d4-4d8b-962a-1a5f366b9601#ref=rss)
+### rainald
 
-* [https://www.spiegel.de/panorama/uno-klimakonferenz-lueke-recktenwald-erstritt-einen-sieg-vor-dem-bundesverfassungsgericht](https://www.spiegel.de/panorama/uno-klimakonferenz-lueke-recktenwald-erstritt-einen-sieg-vor-dem-bundesverfassungsgericht-a-47e5c952-8a9a-4d74-8d5c-f5eebd42c95d#ref=rss)
-### getan
+* [https://www.spiegel.de/kultur/rainald-grebe-der-kabarettist-und-seine-schwere-krankheit](https://www.spiegel.de/kultur/rainald-grebe-der-kabarettist-und-seine-schwere-krankheit-a-efec913e-76d4-4d8b-962a-1a5f366b9601#ref=rss)
+### grebe
 
-* [https://www.spiegel.de/panorama/uno-klimakonferenz-lueke-recktenwald-erstritt-einen-sieg-vor-dem-bundesverfassungsgericht](https://www.spiegel.de/panorama/uno-klimakonferenz-lueke-recktenwald-erstritt-einen-sieg-vor-dem-bundesverfassungsgericht-a-47e5c952-8a9a-4d74-8d5c-f5eebd42c95d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-christian-lindner-bedauert-aussagen-in-ard-interview](https://www.spiegel.de/politik/deutschland/corona-christian-lindner-bedauert-aussagen-in-ard-interview-a-f06429d8-340c-44e5-8909-84fa610be8d2#ref=rss)
-### impfen
+* [https://www.spiegel.de/kultur/rainald-grebe-der-kabarettist-und-seine-schwere-krankheit](https://www.spiegel.de/kultur/rainald-grebe-der-kabarettist-und-seine-schwere-krankheit-a-efec913e-76d4-4d8b-962a-1a5f366b9601#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder](https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder-a-75cf6a4d-2866-46b9-8375-a4feda1a0536#ref=rss)
-### fünf
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-und-robert-habeck-das-ende-der-gruenen-harmonie](https://www.spiegel.de/politik/deutschland/annalena-baerbock-und-robert-habeck-das-ende-der-gruenen-harmonie-a-f2ff15d1-a4b3-4133-81f7-48620c3d517c#ref=rss)
+### historisch
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder](https://www.spiegel.de/wissenschaft/medizin/corona-usa-impfen-fuenf-bis-12-jaehrige-kinder-a-75cf6a4d-2866-46b9-8375-a4feda1a0536#ref=rss)
-### christian
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-und-robert-habeck-das-ende-der-gruenen-harmonie](https://www.spiegel.de/politik/deutschland/annalena-baerbock-und-robert-habeck-das-ende-der-gruenen-harmonie-a-f2ff15d1-a4b3-4133-81f7-48620c3d517c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimapakt-von-glasgow-umweltministerin-schulze-nennt-beschluesse-historisch](https://www.spiegel.de/wissenschaft/klimapakt-von-glasgow-umweltministerin-schulze-nennt-beschluesse-historisch-a-debcd414-c2a8-4bc8-b3b4-3094c885b382#ref=rss)
+### sudan
 
-* [https://www.spiegel.de/politik/deutschland/corona-christian-lindner-bedauert-aussagen-in-ard-interview](https://www.spiegel.de/politik/deutschland/corona-christian-lindner-bedauert-aussagen-in-ard-interview-a-f06429d8-340c-44e5-8909-84fa610be8d2#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-mehrere-tote-bei-massenprotesten](https://www.spiegel.de/ausland/sudan-mehrere-tote-bei-massenprotesten-a-59bcf299-8f2c-4ac7-8695-616cb3516eb6#ref=rss)
+### tote
+
+* [https://www.spiegel.de/ausland/sudan-mehrere-tote-bei-massenprotesten](https://www.spiegel.de/ausland/sudan-mehrere-tote-bei-massenprotesten-a-59bcf299-8f2c-4ac7-8695-616cb3516eb6#ref=rss)
+* [https://www.spiegel.de/ausland/ecuador-wieder-kaempfe-im-gefaengnis-dutzende-tote](https://www.spiegel.de/ausland/ecuador-wieder-kaempfe-im-gefaengnis-dutzende-tote-a-a35ccce4-b011-4907-9a80-09845dd70c9f#ref=rss)
+### massenprotesten
+
+* [https://www.spiegel.de/ausland/sudan-mehrere-tote-bei-massenprotesten](https://www.spiegel.de/ausland/sudan-mehrere-tote-bei-massenprotesten-a-59bcf299-8f2c-4ac7-8695-616cb3516eb6#ref=rss)
+### bottas
+
+* [https://www.spiegel.de/sport/formel1/formel-1-valtteri-bottas-siegt-vor-verstappen-hamilton-rast-noch-auf-platz-5](https://www.spiegel.de/sport/formel1/formel-1-valtteri-bottas-siegt-vor-verstappen-hamilton-rast-noch-auf-platz-5-a-99d3b39e-1c25-493f-9340-9131f3bb2922#ref=rss)
+### hamilton
+
+* [https://www.spiegel.de/sport/formel1/formel-1-valtteri-bottas-siegt-vor-verstappen-hamilton-rast-noch-auf-platz-5](https://www.spiegel.de/sport/formel1/formel-1-valtteri-bottas-siegt-vor-verstappen-hamilton-rast-noch-auf-platz-5-a-99d3b39e-1c25-493f-9340-9131f3bb2922#ref=rss)
+### ecuador
+
+* [https://www.spiegel.de/ausland/ecuador-wieder-kaempfe-im-gefaengnis-dutzende-tote](https://www.spiegel.de/ausland/ecuador-wieder-kaempfe-im-gefaengnis-dutzende-tote-a-a35ccce4-b011-4907-9a80-09845dd70c9f#ref=rss)
+### unoklimakonferenz
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimagipfel-von-glasgow-wer-sich-jetzt-besonders-anstrengen-muss](https://www.spiegel.de/wissenschaft/mensch/uno-klimagipfel-von-glasgow-wer-sich-jetzt-besonders-anstrengen-muss-a-df6d74b1-88ec-40f6-9f00-44e752ad0508#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen-a-a4bbc580-ff3c-4ebd-9b5e-13648a03009e#ref=rss)
+### beschlüsse
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimagipfel-von-glasgow-wer-sich-jetzt-besonders-anstrengen-muss](https://www.spiegel.de/wissenschaft/mensch/uno-klimagipfel-von-glasgow-wer-sich-jetzt-besonders-anstrengen-muss-a-df6d74b1-88ec-40f6-9f00-44e752ad0508#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimapakt-von-glasgow-umweltministerin-schulze-nennt-beschluesse-historisch](https://www.spiegel.de/wissenschaft/klimapakt-von-glasgow-umweltministerin-schulze-nennt-beschluesse-historisch-a-debcd414-c2a8-4bc8-b3b4-3094c885b382#ref=rss)
+### klimakrise
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimagipfel-von-glasgow-wer-sich-jetzt-besonders-anstrengen-muss](https://www.spiegel.de/wissenschaft/mensch/uno-klimagipfel-von-glasgow-wer-sich-jetzt-besonders-anstrengen-muss-a-df6d74b1-88ec-40f6-9f00-44e752ad0508#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen-a-a4bbc580-ff3c-4ebd-9b5e-13648a03009e#ref=rss)
+### klimakonferenz
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-so-lief-der-schlussspurt-in-glasgow-ab](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-so-lief-der-schlussspurt-in-glasgow-ab-a-6d6f0465-f9b3-47f0-af86-ef84b2e5f307#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimapakt-von-glasgow-umweltministerin-schulze-nennt-beschluesse-historisch](https://www.spiegel.de/wissenschaft/klimapakt-von-glasgow-umweltministerin-schulze-nennt-beschluesse-historisch-a-debcd414-c2a8-4bc8-b3b4-3094c885b382#ref=rss)
+### staaten
+
+* [https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen](https://www.spiegel.de/wissenschaft/mensch/uno-klimakonferenz-in-glasgow-so-wollen-die-staaten-die-klimakrise-loesen-a-a4bbc580-ff3c-4ebd-9b5e-13648a03009e#ref=rss)
+### svenja
+
+* [https://www.spiegel.de/wissenschaft/klimapakt-von-glasgow-umweltministerin-schulze-nennt-beschluesse-historisch](https://www.spiegel.de/wissenschaft/klimapakt-von-glasgow-umweltministerin-schulze-nennt-beschluesse-historisch-a-debcd414-c2a8-4bc8-b3b4-3094c885b382#ref=rss)
+### schulze
+
+* [https://www.spiegel.de/wissenschaft/klimapakt-von-glasgow-umweltministerin-schulze-nennt-beschluesse-historisch](https://www.spiegel.de/wissenschaft/klimapakt-von-glasgow-umweltministerin-schulze-nennt-beschluesse-historisch-a-debcd414-c2a8-4bc8-b3b4-3094c885b382#ref=rss)
 
