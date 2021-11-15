@@ -4,309 +4,304 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### menschen
 
-* [https://www.spiegel.de/ausland/myanmar-inhaftierter-us-journalist-danny-fenster-ueberraschend-freigelassen](https://www.spiegel.de/ausland/myanmar-inhaftierter-us-journalist-danny-fenster-ueberraschend-freigelassen-a-239bec97-46b0-4e71-a702-656d8acee44a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu](https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu-a-cdbece2f-76a8-4904-81a7-e40d75b3365b#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest](https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest-a-c61f3b2c-dadf-4811-86de-ce55242f411d#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-irak-kuendigt-ersten-rueckfuehrungsflug-fuer-gefluechtete-an-polnischer-grenze-an](https://www.spiegel.de/ausland/belarus-irak-kuendigt-ersten-rueckfuehrungsflug-fuer-gefluechtete-an-polnischer-grenze-an-a-d6f06476-640f-4f4f-b20a-2e99ff12d2c2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-lage-in-koeln-hendrik-wuest-verteidigt-karnevalspartys-vom-11-11](https://www.spiegel.de/wissenschaft/medizin/corona-lage-in-koeln-hendrik-wuest-verteidigt-karnevalspartys-vom-11-11-a-ad266418-9a71-40c1-9cfb-124a27fb8d18#ref=rss)
-* [https://www.spiegel.de/psychologie/mit-schmerzen-umgehen-finden-sie-ihren-rhythmus-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/mit-schmerzen-umgehen-finden-sie-ihren-rhythmus-spiegel-coaching-podcast-a-2dac3aa5-3580-48e6-9928-d0cd1e74b60d#ref=rss)
-### corona
+* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
+* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
+* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
+### bald
 
-* [https://www.spiegel.de/politik/deutschland/corona-frank-walter-steinmeier-ruft-unentschlossene-zur-corona-impfung-auf](https://www.spiegel.de/politik/deutschland/corona-frank-walter-steinmeier-ruft-unentschlossene-zur-corona-impfung-auf-a-e301baec-9395-47f0-bd6d-de5380082a63#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest](https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest-a-c61f3b2c-dadf-4811-86de-ce55242f411d#ref=rss)
-* [https://www.spiegel.de/start/gehalt-waehrend-corona-welcher-job-lohnt-sich-trotz-pandemie](https://www.spiegel.de/start/gehalt-waehrend-corona-welcher-job-lohnt-sich-trotz-pandemie-a-7f67ffe3-c517-4098-a96b-097a1219ec96#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-ampel-fraktionen-planen-kontaktbeschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/politik/deutschland/corona-ampel-fraktionen-planen-kontaktbeschraenkungen-fuer-ungeimpfte-a-894ac01c-4473-4751-a675-f9314c03a63a#ref=rss)
-* [https://www.spiegel.de/ausland/corona-in-neuseeland-maori-fordern-ende-von-haka-tanz-bei-anti-impf-protesten](https://www.spiegel.de/ausland/corona-in-neuseeland-maori-fordern-ende-von-haka-tanz-bei-anti-impf-protesten-a-f9ba2aa0-d61c-47db-80ef-ea808b8a64fe#ref=rss)
-### lewis
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte-a-c9b17b36-0cd0-4679-b054-ad13a1f33a46#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen-a-b2816d2b-e761-4ff3-9788-e8b743ce4f2b#ref=rss)
-### hamilton
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte-a-c9b17b36-0cd0-4679-b054-ad13a1f33a46#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen-a-b2816d2b-e761-4ff3-9788-e8b743ce4f2b#ref=rss)
-### china
-
-* [https://www.spiegel.de/netzwelt/games/fortnite-epic-games-stellt-chinesische-version-des-spiels-ein](https://www.spiegel.de/netzwelt/games/fortnite-epic-games-stellt-chinesische-version-des-spiels-ein-a-d51e1476-47d3-447c-858f-b96c5f2fe8b5#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest](https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest-a-c61f3b2c-dadf-4811-86de-ce55242f411d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/china-uebt-in-der-wueste-auf-us-militaerschiffe-zu-zielen-satellitenbild-der-woche](https://www.spiegel.de/wissenschaft/weltall/china-uebt-in-der-wueste-auf-us-militaerschiffe-zu-zielen-satellitenbild-der-woche-a-ff995eba-ccc2-46e1-a467-1dd6dd2249a6#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu](https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu-a-cdbece2f-76a8-4904-81a7-e40d75b3365b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/russlands-rolle-in-der-gaskrise-europa-ist-sehenden-auges-in-diese-situation-gelaufen](https://www.spiegel.de/wirtschaft/service/russlands-rolle-in-der-gaskrise-europa-ist-sehenden-auges-in-diese-situation-gelaufen-a-cd03b0c6-41d2-41db-b902-68bb0f46580d#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu](https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu-a-cdbece2f-76a8-4904-81a7-e40d75b3365b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/russlands-rolle-in-der-gaskrise-europa-ist-sehenden-auges-in-diese-situation-gelaufen](https://www.spiegel.de/wirtschaft/service/russlands-rolle-in-der-gaskrise-europa-ist-sehenden-auges-in-diese-situation-gelaufen-a-cd03b0c6-41d2-41db-b902-68bb0f46580d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/banken-es-gibt-kaum-noch-bankraeuber-in-deutschland-digitalisierung-ist-ein-grund](https://www.spiegel.de/wirtschaft/banken-es-gibt-kaum-noch-bankraeuber-in-deutschland-digitalisierung-ist-ein-grund-a-83eb967e-bf08-4cb1-ad43-1ea82dac6565#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/netzwelt/web/betrueger-versenden-fake-mails-ueber-fbi-server](https://www.spiegel.de/netzwelt/web/betrueger-versenden-fake-mails-ueber-fbi-server-a-6cd014f6-1fd7-44cb-945a-cd9b8e40691b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/suhl-mann-schiesst-mit-armbrust-auf-polizisten](https://www.spiegel.de/panorama/justiz/suhl-mann-schiesst-mit-armbrust-auf-polizisten-a-72e0fa39-5820-4f91-aef5-b0453ac01124#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/china-uebt-in-der-wueste-auf-us-militaerschiffe-zu-zielen-satellitenbild-der-woche](https://www.spiegel.de/wissenschaft/weltall/china-uebt-in-der-wueste-auf-us-militaerschiffe-zu-zielen-satellitenbild-der-woche-a-ff995eba-ccc2-46e1-a467-1dd6dd2249a6#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/wirtschaft/service/russlands-rolle-in-der-gaskrise-europa-ist-sehenden-auges-in-diese-situation-gelaufen](https://www.spiegel.de/wirtschaft/service/russlands-rolle-in-der-gaskrise-europa-ist-sehenden-auges-in-diese-situation-gelaufen-a-cd03b0c6-41d2-41db-b902-68bb0f46580d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-steueroasen-die-minister-blickten-oft-nicht-durch-sagt-martijn-nouwen](https://www.spiegel.de/politik/deutschland/eu-steueroasen-die-minister-blickten-oft-nicht-durch-sagt-martijn-nouwen-a-4bb825b1-38ba-4b2d-bdde-5fea3fddc22c#ref=rss)
-### katar
-
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-thomas-hitzlsperger-verlangt-ehrlichkeit-bei-diskussion-ueber-wm-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-thomas-hitzlsperger-verlangt-ehrlichkeit-bei-diskussion-ueber-wm-in-katar-a-6e7aa962-23a7-486b-8893-54a0e1076a5b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/katar-frauen-klagen-wegen-zwangsuntersuchungen-am-flughafen-doha](https://www.spiegel.de/wirtschaft/katar-frauen-klagen-wegen-zwangsuntersuchungen-am-flughafen-doha-a-bc7addbb-7bda-401f-bb15-5667e8a0b311#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/wirtschaft/katar-frauen-klagen-wegen-zwangsuntersuchungen-am-flughafen-doha](https://www.spiegel.de/wirtschaft/katar-frauen-klagen-wegen-zwangsuntersuchungen-am-flughafen-doha-a-bc7addbb-7bda-401f-bb15-5667e8a0b311#ref=rss)
-* [https://www.spiegel.de/panorama/leute/wolfgang-joop-entschuldigt-sich-fuer-frauenfeindliche-aussagen](https://www.spiegel.de/panorama/leute/wolfgang-joop-entschuldigt-sich-fuer-frauenfeindliche-aussagen-a-ca088826-8b02-4a40-98f9-3f85ab4eb439#ref=rss)
-### a2
-
-* [https://www.spiegel.de/panorama/justiz/a2-bei-verl-in-nrw-zoll-beschlagnahmt-anderthalb-millionen-schmuggelzigaretten](https://www.spiegel.de/panorama/justiz/a2-bei-verl-in-nrw-zoll-beschlagnahmt-anderthalb-millionen-schmuggelzigaretten-a-457dff4e-ddde-4af4-9f46-6de17da16555#ref=rss)
-### zoll
-
-* [https://www.spiegel.de/panorama/justiz/a2-bei-verl-in-nrw-zoll-beschlagnahmt-anderthalb-millionen-schmuggelzigaretten](https://www.spiegel.de/panorama/justiz/a2-bei-verl-in-nrw-zoll-beschlagnahmt-anderthalb-millionen-schmuggelzigaretten-a-457dff4e-ddde-4af4-9f46-6de17da16555#ref=rss)
-### rezept
-
-* [https://www.spiegel.de/stil/rezept-fuer-mexikanische-bohnensuppe](https://www.spiegel.de/stil/rezept-fuer-mexikanische-bohnensuppe-a-5c006d4e-ad3e-47a9-808b-34bb3f328edd#ref=rss)
-### myanmar
-
-* [https://www.spiegel.de/ausland/myanmar-inhaftierter-us-journalist-danny-fenster-ueberraschend-freigelassen](https://www.spiegel.de/ausland/myanmar-inhaftierter-us-journalist-danny-fenster-ueberraschend-freigelassen-a-239bec97-46b0-4e71-a702-656d8acee44a#ref=rss)
-### usjournalist
-
-* [https://www.spiegel.de/ausland/myanmar-inhaftierter-us-journalist-danny-fenster-ueberraschend-freigelassen](https://www.spiegel.de/ausland/myanmar-inhaftierter-us-journalist-danny-fenster-ueberraschend-freigelassen-a-239bec97-46b0-4e71-a702-656d8acee44a#ref=rss)
-### danny
-
-* [https://www.spiegel.de/ausland/myanmar-inhaftierter-us-journalist-danny-fenster-ueberraschend-freigelassen](https://www.spiegel.de/ausland/myanmar-inhaftierter-us-journalist-danny-fenster-ueberraschend-freigelassen-a-239bec97-46b0-4e71-a702-656d8acee44a#ref=rss)
-### fenster
-
-* [https://www.spiegel.de/ausland/myanmar-inhaftierter-us-journalist-danny-fenster-ueberraschend-freigelassen](https://www.spiegel.de/ausland/myanmar-inhaftierter-us-journalist-danny-fenster-ueberraschend-freigelassen-a-239bec97-46b0-4e71-a702-656d8acee44a#ref=rss)
-### fortnite
-
-* [https://www.spiegel.de/netzwelt/games/fortnite-epic-games-stellt-chinesische-version-des-spiels-ein](https://www.spiegel.de/netzwelt/games/fortnite-epic-games-stellt-chinesische-version-des-spiels-ein-a-d51e1476-47d3-447c-858f-b96c5f2fe8b5#ref=rss)
-### epic
-
-* [https://www.spiegel.de/netzwelt/games/fortnite-epic-games-stellt-chinesische-version-des-spiels-ein](https://www.spiegel.de/netzwelt/games/fortnite-epic-games-stellt-chinesische-version-des-spiels-ein-a-d51e1476-47d3-447c-858f-b96c5f2fe8b5#ref=rss)
-### games
-
-* [https://www.spiegel.de/netzwelt/games/fortnite-epic-games-stellt-chinesische-version-des-spiels-ein](https://www.spiegel.de/netzwelt/games/fortnite-epic-games-stellt-chinesische-version-des-spiels-ein-a-d51e1476-47d3-447c-858f-b96c5f2fe8b5#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/netzwelt/games/fortnite-epic-games-stellt-chinesische-version-des-spiels-ein](https://www.spiegel.de/netzwelt/games/fortnite-epic-games-stellt-chinesische-version-des-spiels-ein-a-d51e1476-47d3-447c-858f-b96c5f2fe8b5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung](https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung-a-0a40d012-66fb-4d5d-9501-22a005c26e69#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/politik/deutschland/corona-frank-walter-steinmeier-ruft-unentschlossene-zur-corona-impfung-auf](https://www.spiegel.de/politik/deutschland/corona-frank-walter-steinmeier-ruft-unentschlossene-zur-corona-impfung-auf-a-e301baec-9395-47f0-bd6d-de5380082a63#ref=rss)
-### dfb
-
-* [https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen](https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen-a-a7d94439-d16a-4ef9-abf3-e78993328748#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung](https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung-a-0a40d012-66fb-4d5d-9501-22a005c26e69#ref=rss)
-### peter
-
-* [https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen](https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen-a-a7d94439-d16a-4ef9-abf3-e78993328748#ref=rss)
-### peters
-
-* [https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen](https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen-a-a7d94439-d16a-4ef9-abf3-e78993328748#ref=rss)
-### bernd
-
-* [https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen](https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen-a-a7d94439-d16a-4ef9-abf3-e78993328748#ref=rss)
-### neuendorf
-
-* [https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen](https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen-a-a7d94439-d16a-4ef9-abf3-e78993328748#ref=rss)
-### vorgeschlagen
-
-* [https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen](https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen-a-a7d94439-d16a-4ef9-abf3-e78993328748#ref=rss)
-### eigentlich
-
-* [https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen](https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen-a-a7d94439-d16a-4ef9-abf3-e78993328748#ref=rss)
-* [https://www.spiegel.de/karriere/perfekte-deutschkenntnisse-vorausgesetzt-warum-eigentlich](https://www.spiegel.de/karriere/perfekte-deutschkenntnisse-vorausgesetzt-warum-eigentlich-a-30fec702-d51e-400a-adf2-3daa8e1bd064#ref=rss)
-### kandidaten
-
-* [https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen](https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen-a-a7d94439-d16a-4ef9-abf3-e78993328748#ref=rss)
-* [https://www.spiegel.de/karriere/perfekte-deutschkenntnisse-vorausgesetzt-warum-eigentlich](https://www.spiegel.de/karriere/perfekte-deutschkenntnisse-vorausgesetzt-warum-eigentlich-a-30fec702-d51e-400a-adf2-3daa8e1bd064#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen](https://www.spiegel.de/sport/fussball/dfb-peter-peters-und-bernd-neuendorf-fuer-praesidentenamt-vorgeschlagen-a-a7d94439-d16a-4ef9-abf3-e78993328748#ref=rss)
-* [https://www.spiegel.de/panorama/leute/adele-bei-oprah-winfrey-ich-war-davon-besessen-eine-gute-familie-zu-gruenden-weil-ich-nie-aus-einer-kam](https://www.spiegel.de/panorama/leute/adele-bei-oprah-winfrey-ich-war-davon-besessen-eine-gute-familie-zu-gruenden-weil-ich-nie-aus-einer-kam-a-79166684-fda6-4bd3-9e93-d95814fa7d7f#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte-a-c9b17b36-0cd0-4679-b054-ad13a1f33a46#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen-a-b2816d2b-e761-4ff3-9788-e8b743ce4f2b#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte-a-c9b17b36-0cd0-4679-b054-ad13a1f33a46#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen-a-b2816d2b-e761-4ff3-9788-e8b743ce4f2b#ref=rss)
-### brasilien
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte-a-c9b17b36-0cd0-4679-b054-ad13a1f33a46#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen-a-b2816d2b-e761-4ff3-9788-e8b743ce4f2b#ref=rss)
-### deklassiert
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte-a-c9b17b36-0cd0-4679-b054-ad13a1f33a46#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte-a-c9b17b36-0cd0-4679-b054-ad13a1f33a46#ref=rss)
-### verstappen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte-a-c9b17b36-0cd0-4679-b054-ad13a1f33a46#ref=rss)
-### erst
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-deklassiert-max-verstappen-eine-strafversetzung-die-die-wm-entscheiden-koennte-a-c9b17b36-0cd0-4679-b054-ad13a1f33a46#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung](https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung-a-0a40d012-66fb-4d5d-9501-22a005c26e69#ref=rss)
-### kollegen
-
-* [https://www.spiegel.de/karriere/perfekte-deutschkenntnisse-vorausgesetzt-warum-eigentlich](https://www.spiegel.de/karriere/perfekte-deutschkenntnisse-vorausgesetzt-warum-eigentlich-a-30fec702-d51e-400a-adf2-3daa8e1bd064#ref=rss)
-### todesfälle
-
-* [https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu](https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu-a-cdbece2f-76a8-4904-81a7-e40d75b3365b#ref=rss)
-### allein
-
-* [https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu](https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu-a-cdbece2f-76a8-4904-81a7-e40d75b3365b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-thomas-hitzlsperger-verlangt-ehrlichkeit-bei-diskussion-ueber-wm-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-thomas-hitzlsperger-verlangt-ehrlichkeit-bei-diskussion-ueber-wm-in-katar-a-6e7aa962-23a7-486b-8893-54a0e1076a5b#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu](https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu-a-cdbece2f-76a8-4904-81a7-e40d75b3365b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung](https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung-a-0a40d012-66fb-4d5d-9501-22a005c26e69#ref=rss)
-### zehntausende
-
-* [https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu](https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu-a-cdbece2f-76a8-4904-81a7-e40d75b3365b#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/betrueger-versenden-fake-mails-ueber-fbi-server](https://www.spiegel.de/netzwelt/web/betrueger-versenden-fake-mails-ueber-fbi-server-a-6cd014f6-1fd7-44cb-945a-cd9b8e40691b#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu](https://www.spiegel.de/wissenschaft/mensch/feinstaubbelastung-verursachte-mehr-als-300-000-todesfaelle-in-der-eu-a-cdbece2f-76a8-4904-81a7-e40d75b3365b#ref=rss)
-* [https://www.spiegel.de/panorama/astroworld-festival-in-houston-neunjaehriger-junge-erliegt-seinen-verletzungen](https://www.spiegel.de/panorama/astroworld-festival-in-houston-neunjaehriger-junge-erliegt-seinen-verletzungen-a-e49ee772-9d78-4719-a49c-4b2854962de7#ref=rss)
-### adele
-
-* [https://www.spiegel.de/panorama/leute/adele-bei-oprah-winfrey-ich-war-davon-besessen-eine-gute-familie-zu-gruenden-weil-ich-nie-aus-einer-kam](https://www.spiegel.de/panorama/leute/adele-bei-oprah-winfrey-ich-war-davon-besessen-eine-gute-familie-zu-gruenden-weil-ich-nie-aus-einer-kam-a-79166684-fda6-4bd3-9e93-d95814fa7d7f#ref=rss)
-### oprah
-
-* [https://www.spiegel.de/panorama/leute/adele-bei-oprah-winfrey-ich-war-davon-besessen-eine-gute-familie-zu-gruenden-weil-ich-nie-aus-einer-kam](https://www.spiegel.de/panorama/leute/adele-bei-oprah-winfrey-ich-war-davon-besessen-eine-gute-familie-zu-gruenden-weil-ich-nie-aus-einer-kam-a-79166684-fda6-4bd3-9e93-d95814fa7d7f#ref=rss)
-### winfrey
-
-* [https://www.spiegel.de/panorama/leute/adele-bei-oprah-winfrey-ich-war-davon-besessen-eine-gute-familie-zu-gruenden-weil-ich-nie-aus-einer-kam](https://www.spiegel.de/panorama/leute/adele-bei-oprah-winfrey-ich-war-davon-besessen-eine-gute-familie-zu-gruenden-weil-ich-nie-aus-einer-kam-a-79166684-fda6-4bd3-9e93-d95814fa7d7f#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/leute/adele-bei-oprah-winfrey-ich-war-davon-besessen-eine-gute-familie-zu-gruenden-weil-ich-nie-aus-einer-kam](https://www.spiegel.de/panorama/leute/adele-bei-oprah-winfrey-ich-war-davon-besessen-eine-gute-familie-zu-gruenden-weil-ich-nie-aus-einer-kam-a-79166684-fda6-4bd3-9e93-d95814fa7d7f#ref=rss)
-### familie
-
-* [https://www.spiegel.de/panorama/leute/adele-bei-oprah-winfrey-ich-war-davon-besessen-eine-gute-familie-zu-gruenden-weil-ich-nie-aus-einer-kam](https://www.spiegel.de/panorama/leute/adele-bei-oprah-winfrey-ich-war-davon-besessen-eine-gute-familie-zu-gruenden-weil-ich-nie-aus-einer-kam-a-79166684-fda6-4bd3-9e93-d95814fa7d7f#ref=rss)
-### tausende
-
-* [https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest](https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest-a-c61f3b2c-dadf-4811-86de-ce55242f411d#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-irak-kuendigt-ersten-rueckfuehrungsflug-fuer-gefluechtete-an-polnischer-grenze-an](https://www.spiegel.de/ausland/belarus-irak-kuendigt-ersten-rueckfuehrungsflug-fuer-gefluechtete-an-polnischer-grenze-an-a-d6f06476-640f-4f4f-b20a-2e99ff12d2c2#ref=rss)
-### studierende
-
-* [https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest](https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest-a-c61f3b2c-dadf-4811-86de-ce55242f411d#ref=rss)
-### wohnheimen
-
-* [https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest](https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest-a-c61f3b2c-dadf-4811-86de-ce55242f411d#ref=rss)
-### chinesischen
-
-* [https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest](https://www.spiegel.de/panorama/bildung/wegen-corona-china-haelt-tausende-studierende-in-wohnheimen-fest-a-c61f3b2c-dadf-4811-86de-ce55242f411d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/china-uebt-in-der-wueste-auf-us-militaerschiffe-zu-zielen-satellitenbild-der-woche](https://www.spiegel.de/wissenschaft/weltall/china-uebt-in-der-wueste-auf-us-militaerschiffe-zu-zielen-satellitenbild-der-woche-a-ff995eba-ccc2-46e1-a467-1dd6dd2249a6#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wirtschaft/service/russlands-rolle-in-der-gaskrise-europa-ist-sehenden-auges-in-diese-situation-gelaufen](https://www.spiegel.de/wirtschaft/service/russlands-rolle-in-der-gaskrise-europa-ist-sehenden-auges-in-diese-situation-gelaufen-a-cd03b0c6-41d2-41db-b902-68bb0f46580d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/china-uebt-in-der-wueste-auf-us-militaerschiffe-zu-zielen-satellitenbild-der-woche](https://www.spiegel.de/wissenschaft/weltall/china-uebt-in-der-wueste-auf-us-militaerschiffe-zu-zielen-satellitenbild-der-woche-a-ff995eba-ccc2-46e1-a467-1dd6dd2249a6#ref=rss)
-### pandemie
-
-* [https://www.spiegel.de/start/gehalt-waehrend-corona-welcher-job-lohnt-sich-trotz-pandemie](https://www.spiegel.de/start/gehalt-waehrend-corona-welcher-job-lohnt-sich-trotz-pandemie-a-7f67ffe3-c517-4098-a96b-097a1219ec96#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/start/gehalt-waehrend-corona-welcher-job-lohnt-sich-trotz-pandemie](https://www.spiegel.de/start/gehalt-waehrend-corona-welcher-job-lohnt-sich-trotz-pandemie-a-7f67ffe3-c517-4098-a96b-097a1219ec96#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung](https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung-a-0a40d012-66fb-4d5d-9501-22a005c26e69#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance](https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance-a-cbe6e6b3-8d85-47e3-9d66-877f1c7ec441#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels](https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels-a-11cf29d5-2de7-4695-8bc9-bc8bfcf440d4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
+* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
 ### belarus
 
-* [https://www.spiegel.de/ausland/belarus-irak-kuendigt-ersten-rueckfuehrungsflug-fuer-gefluechtete-an-polnischer-grenze-an](https://www.spiegel.de/ausland/belarus-irak-kuendigt-ersten-rueckfuehrungsflug-fuer-gefluechtete-an-polnischer-grenze-an-a-d6f06476-640f-4f4f-b20a-2e99ff12d2c2#ref=rss)
-### aufholjagd
+* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus-a-5c33aa60-88d6-4430-ae3a-9a9242d274b9#ref=rss)
+### dazu
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen-a-b2816d2b-e761-4ff3-9788-e8b743ce4f2b#ref=rss)
-### überblick
+* [https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung](https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung-a-425cc1d5-a382-4a31-a937-906cb9304a47#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-britisches-unternehmen-testet-t-zellen-impfung-ueber-hautpflaster](https://www.spiegel.de/wissenschaft/medizin/corona-britisches-unternehmen-testet-t-zellen-impfung-ueber-hautpflaster-a-9a671fe0-7a52-49b2-8471-76292e942442#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen](https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen-a-44b9bb21-bcdd-45fc-b447-ddb178f0a4bc#ref=rss)
+### corona
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen](https://www.spiegel.de/sport/formel1/formel-1-in-brasilien-lewis-hamilton-und-seine-grandiose-aufholjagd-die-pressestimmen-a-b2816d2b-e761-4ff3-9788-e8b743ce4f2b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-lage-in-koeln-hendrik-wuest-verteidigt-karnevalspartys-vom-11-11](https://www.spiegel.de/wissenschaft/medizin/corona-lage-in-koeln-hendrik-wuest-verteidigt-karnevalspartys-vom-11-11-a-ad266418-9a71-40c1-9cfb-124a27fb8d18#ref=rss)
-### fußballwm
+* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-britisches-unternehmen-testet-t-zellen-impfung-ueber-hautpflaster](https://www.spiegel.de/wissenschaft/medizin/corona-britisches-unternehmen-testet-t-zellen-impfung-ueber-hautpflaster-a-9a671fe0-7a52-49b2-8471-76292e942442#ref=rss)
+* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen](https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen-a-9fee53f4-6bd7-43f2-9f16-5d3ce310a6b9#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-thomas-hitzlsperger-verlangt-ehrlichkeit-bei-diskussion-ueber-wm-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-thomas-hitzlsperger-verlangt-ehrlichkeit-bei-diskussion-ueber-wm-in-katar-a-6e7aa962-23a7-486b-8893-54a0e1076a5b#ref=rss)
-### 2022
+* [https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance](https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance-a-cbe6e6b3-8d85-47e3-9d66-877f1c7ec441#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
+* [https://www.spiegel.de/geschichte/deutsche-schatzjaeger-im-osmanischen-reich-wie-kommt-alles-nach-berlin](https://www.spiegel.de/geschichte/deutsche-schatzjaeger-im-osmanischen-reich-wie-kommt-alles-nach-berlin-a-cd4f94e0-b1eb-46f9-907f-be91ed167f81#ref=rss)
+### grenze
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-thomas-hitzlsperger-verlangt-ehrlichkeit-bei-diskussion-ueber-wm-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-thomas-hitzlsperger-verlangt-ehrlichkeit-bei-diskussion-ueber-wm-in-katar-a-6e7aa962-23a7-486b-8893-54a0e1076a5b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung](https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung-a-0a40d012-66fb-4d5d-9501-22a005c26e69#ref=rss)
-### thomas
+* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus-a-5c33aa60-88d6-4430-ae3a-9a9242d274b9#ref=rss)
+### verhindern
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-thomas-hitzlsperger-verlangt-ehrlichkeit-bei-diskussion-ueber-wm-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-thomas-hitzlsperger-verlangt-ehrlichkeit-bei-diskussion-ueber-wm-in-katar-a-6e7aa962-23a7-486b-8893-54a0e1076a5b#ref=rss)
-### hitzlsperger
+* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus-a-5c33aa60-88d6-4430-ae3a-9a9242d274b9#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen](https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen-a-9fee53f4-6bd7-43f2-9f16-5d3ce310a6b9#ref=rss)
+### droht
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-thomas-hitzlsperger-verlangt-ehrlichkeit-bei-diskussion-ueber-wm-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-thomas-hitzlsperger-verlangt-ehrlichkeit-bei-diskussion-ueber-wm-in-katar-a-6e7aa962-23a7-486b-8893-54a0e1076a5b#ref=rss)
-### flughafen
+* [https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung](https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung-a-425cc1d5-a382-4a31-a937-906cb9304a47#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen](https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen-a-9fee53f4-6bd7-43f2-9f16-5d3ce310a6b9#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/wirtschaft/katar-frauen-klagen-wegen-zwangsuntersuchungen-am-flughafen-doha](https://www.spiegel.de/wirtschaft/katar-frauen-klagen-wegen-zwangsuntersuchungen-am-flughafen-doha-a-bc7addbb-7bda-401f-bb15-5667e8a0b311#ref=rss)
-### doha
+* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
+* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
+### festgenommen
 
-* [https://www.spiegel.de/wirtschaft/katar-frauen-klagen-wegen-zwangsuntersuchungen-am-flughafen-doha](https://www.spiegel.de/wirtschaft/katar-frauen-klagen-wegen-zwangsuntersuchungen-am-flughafen-doha-a-bc7addbb-7bda-401f-bb15-5667e8a0b311#ref=rss)
-### planen
+* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/memmingerberg-mann-und-jugendliche-nach-tod-von-16-jaehriger-festgenommen](https://www.spiegel.de/panorama/justiz/memmingerberg-mann-und-jugendliche-nach-tod-von-16-jaehriger-festgenommen-a-47834d6f-4352-4bbc-987f-9ae3dc7bc72a#ref=rss)
+* [https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall](https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall-a-a8a74f6e-4b16-4891-85d1-117903c43411#ref=rss)
+### tier
 
-* [https://www.spiegel.de/wirtschaft/katar-frauen-klagen-wegen-zwangsuntersuchungen-am-flughafen-doha](https://www.spiegel.de/wirtschaft/katar-frauen-klagen-wegen-zwangsuntersuchungen-am-flughafen-doha-a-bc7addbb-7bda-401f-bb15-5667e8a0b311#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-ampel-fraktionen-planen-kontaktbeschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/politik/deutschland/corona-ampel-fraktionen-planen-kontaktbeschraenkungen-fuer-ungeimpfte-a-894ac01c-4473-4751-a675-f9314c03a63a#ref=rss)
-### weniger
+* [https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike](https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike-a-3732d748-c6e6-4cf1-80ec-376332883502#ref=rss)
+### nextbike
 
-* [https://www.spiegel.de/wirtschaft/banken-es-gibt-kaum-noch-bankraeuber-in-deutschland-digitalisierung-ist-ein-grund](https://www.spiegel.de/wirtschaft/banken-es-gibt-kaum-noch-bankraeuber-in-deutschland-digitalisierung-ist-ein-grund-a-83eb967e-bf08-4cb1-ad43-1ea82dac6565#ref=rss)
-### suhl
+* [https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike](https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike-a-3732d748-c6e6-4cf1-80ec-376332883502#ref=rss)
+### markt
 
-* [https://www.spiegel.de/panorama/justiz/suhl-mann-schiesst-mit-armbrust-auf-polizisten](https://www.spiegel.de/panorama/justiz/suhl-mann-schiesst-mit-armbrust-auf-polizisten-a-72e0fa39-5820-4f91-aef5-b0453ac01124#ref=rss)
-### mann
+* [https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike](https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike-a-3732d748-c6e6-4cf1-80ec-376332883502#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/panorama/justiz/suhl-mann-schiesst-mit-armbrust-auf-polizisten](https://www.spiegel.de/panorama/justiz/suhl-mann-schiesst-mit-armbrust-auf-polizisten-a-72e0fa39-5820-4f91-aef5-b0453ac01124#ref=rss)
-### armbrust
+* [https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike](https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike-a-3732d748-c6e6-4cf1-80ec-376332883502#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-britisches-unternehmen-testet-t-zellen-impfung-ueber-hautpflaster](https://www.spiegel.de/wissenschaft/medizin/corona-britisches-unternehmen-testet-t-zellen-impfung-ueber-hautpflaster-a-9a671fe0-7a52-49b2-8471-76292e942442#ref=rss)
+### größte
 
-* [https://www.spiegel.de/panorama/justiz/suhl-mann-schiesst-mit-armbrust-auf-polizisten](https://www.spiegel.de/panorama/justiz/suhl-mann-schiesst-mit-armbrust-auf-polizisten-a-72e0fa39-5820-4f91-aef5-b0453ac01124#ref=rss)
-### astroworldfestival
+* [https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike](https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike-a-3732d748-c6e6-4cf1-80ec-376332883502#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/london-gericht-verhaengt-lange-haftstrafen-gegen-geister-einbrecherbande](https://www.spiegel.de/panorama/justiz/london-gericht-verhaengt-lange-haftstrafen-gegen-geister-einbrecherbande-a-083fc265-27b0-488f-94e9-73ea493efd53#ref=rss)
+### tauschen
 
-* [https://www.spiegel.de/panorama/astroworld-festival-in-houston-neunjaehriger-junge-erliegt-seinen-verletzungen](https://www.spiegel.de/panorama/astroworld-festival-in-houston-neunjaehriger-junge-erliegt-seinen-verletzungen-a-e49ee772-9d78-4719-a49c-4b2854962de7#ref=rss)
-### junge
+* [https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance](https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance-a-cbe6e6b3-8d85-47e3-9d66-877f1c7ec441#ref=rss)
+* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
+### drei
 
-* [https://www.spiegel.de/panorama/astroworld-festival-in-houston-neunjaehriger-junge-erliegt-seinen-verletzungen](https://www.spiegel.de/panorama/astroworld-festival-in-houston-neunjaehriger-junge-erliegt-seinen-verletzungen-a-e49ee772-9d78-4719-a49c-4b2854962de7#ref=rss)
-### ampelfraktionen
+* [https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance](https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance-a-cbe6e6b3-8d85-47e3-9d66-877f1c7ec441#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/london-gericht-verhaengt-lange-haftstrafen-gegen-geister-einbrecherbande](https://www.spiegel.de/panorama/justiz/london-gericht-verhaengt-lange-haftstrafen-gegen-geister-einbrecherbande-a-083fc265-27b0-488f-94e9-73ea493efd53#ref=rss)
+### london
 
-* [https://www.spiegel.de/politik/deutschland/corona-ampel-fraktionen-planen-kontaktbeschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/politik/deutschland/corona-ampel-fraktionen-planen-kontaktbeschraenkungen-fuer-ungeimpfte-a-894ac01c-4473-4751-a675-f9314c03a63a#ref=rss)
-### kontaktbeschränkungen
+* [https://www.spiegel.de/panorama/justiz/london-gericht-verhaengt-lange-haftstrafen-gegen-geister-einbrecherbande](https://www.spiegel.de/panorama/justiz/london-gericht-verhaengt-lange-haftstrafen-gegen-geister-einbrecherbande-a-083fc265-27b0-488f-94e9-73ea493efd53#ref=rss)
+### herbert
 
-* [https://www.spiegel.de/politik/deutschland/corona-ampel-fraktionen-planen-kontaktbeschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/politik/deutschland/corona-ampel-fraktionen-planen-kontaktbeschraenkungen-fuer-ungeimpfte-a-894ac01c-4473-4751-a675-f9314c03a63a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels](https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels-a-11cf29d5-2de7-4695-8bc9-bc8bfcf440d4#ref=rss)
+### diess
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels](https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels-a-11cf29d5-2de7-4695-8bc9-bc8bfcf440d4#ref=rss)
+### ende
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels](https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels-a-11cf29d5-2de7-4695-8bc9-bc8bfcf440d4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow-a-d69e66fe-115e-4e16-b4a2-7bc509a96808#ref=rss)
+### novak
+
+* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-startet-erfolgreich-in-die-atp-finals](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-startet-erfolgreich-in-die-atp-finals-a-5410a94b-6d3c-4bdf-9f34-a259621ac68b#ref=rss)
+### gestartet
+
+* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-startet-erfolgreich-in-die-atp-finals](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-startet-erfolgreich-in-die-atp-finals-a-5410a94b-6d3c-4bdf-9f34-a259621ac68b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet-a-468eeb64-4c04-4f09-b560-aa7c700e7d85#ref=rss)
+### heiko
+
+* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
+### maas
+
+* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen](https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen-a-44b9bb21-bcdd-45fc-b447-ddb178f0a4bc#ref=rss)
+### flüchtlinge
+
+* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
+### memorial
+
+* [https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung](https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung-a-425cc1d5-a382-4a31-a937-906cb9304a47#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung](https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung-a-425cc1d5-a382-4a31-a937-906cb9304a47#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
+### carsten
+
+* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
+### watzl
+
+* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
+### forscher
+
+* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow-a-d69e66fe-115e-4e16-b4a2-7bc509a96808#ref=rss)
+### davon
+
+* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
+* [https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall](https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall-a-a8a74f6e-4b16-4891-85d1-117903c43411#ref=rss)
+### beto
+
+* [https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden](https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden-a-ac00f3a4-39db-474e-8ca4-4a7e087618d0#ref=rss)
+### o'rourke
+
+* [https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden](https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden-a-ac00f3a4-39db-474e-8ca4-4a7e087618d0#ref=rss)
+### gouverneur
+
+* [https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden](https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden-a-ac00f3a4-39db-474e-8ca4-4a7e087618d0#ref=rss)
+### texas
+
+* [https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden](https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden-a-ac00f3a4-39db-474e-8ca4-4a7e087618d0#ref=rss)
+### bewerten
+
+* [https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow-a-d69e66fe-115e-4e16-b4a2-7bc509a96808#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow-a-d69e66fe-115e-4e16-b4a2-7bc509a96808#ref=rss)
+* [https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall](https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall-a-a8a74f6e-4b16-4891-85d1-117903c43411#ref=rss)
+### sagen
+
+* [https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow-a-d69e66fe-115e-4e16-b4a2-7bc509a96808#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
+### washington
+
+* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
+### trumps
+
+* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
+### steve
+
+* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
+### bannon
+
+* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
+### zweimal
+
+* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/raumstation-iss-kurzzeitig-wegen-gefahr-durch-weltraumschrott-geraeumt](https://www.spiegel.de/wissenschaft/weltall/raumstation-iss-kurzzeitig-wegen-gefahr-durch-weltraumschrott-geraeumt-a-91985bc5-074d-44d6-a79e-640b38b5ac1b#ref=rss)
+### lukaschenko
+
+* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
+### lage
+
+* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus-a-5c33aa60-88d6-4430-ae3a-9a9242d274b9#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/geschichte/deutsche-schatzjaeger-im-osmanischen-reich-wie-kommt-alles-nach-berlin](https://www.spiegel.de/geschichte/deutsche-schatzjaeger-im-osmanischen-reich-wie-kommt-alles-nach-berlin-a-cd4f94e0-b1eb-46f9-907f-be91ed167f81#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot](https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot-a-d8fc6e57-5209-403f-92ef-8e11b376d8a6#ref=rss)
+### flüchtlingsdrama
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus-a-5c33aa60-88d6-4430-ae3a-9a9242d274b9#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus-a-5c33aa60-88d6-4430-ae3a-9a9242d274b9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-so-qualifizieren-sich-italien-und-die-niederlande-fuer-das-turnier-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-so-qualifizieren-sich-italien-und-die-niederlande-fuer-das-turnier-in-katar-a-f5356ff9-27af-4d61-91a1-69f4b1756b4f#ref=rss)
+### rwe
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/erneuerbare-energien-rwe-plant-milliardeninvestitionen-bis-2030](https://www.spiegel.de/wirtschaft/unternehmen/erneuerbare-energien-rwe-plant-milliardeninvestitionen-bis-2030-a-92910d4a-2a72-49c4-9420-3d5517adbdbf#ref=rss)
+### coronakrise
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot](https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot-a-d8fc6e57-5209-403f-92ef-8e11b376d8a6#ref=rss)
+### christian
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
+### drosten
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
+### 3gregel
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch](https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch-a-5fb997b2-b97b-4220-8b0c-84bcebb45a5d#ref=rss)
+### bus
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
+* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
+* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
+### skeptisch
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch](https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch-a-5fb997b2-b97b-4220-8b0c-84bcebb45a5d#ref=rss)
+### alex
+
+* [https://www.spiegel.de/sport/segeln-warum-alex-thomson-nicht-bei-der-vendee-globe-2024-antritt-interview](https://www.spiegel.de/sport/segeln-warum-alex-thomson-nicht-bei-der-vendee-globe-2024-antritt-interview-a-ea86c723-47f4-4d29-a4ed-5a3e5c36b493#ref=rss)
+### thomson
+
+* [https://www.spiegel.de/sport/segeln-warum-alex-thomson-nicht-bei-der-vendee-globe-2024-antritt-interview](https://www.spiegel.de/sport/segeln-warum-alex-thomson-nicht-bei-der-vendee-globe-2024-antritt-interview-a-ea86c723-47f4-4d29-a4ed-5a3e5c36b493#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/sport/segeln-warum-alex-thomson-nicht-bei-der-vendee-globe-2024-antritt-interview](https://www.spiegel.de/sport/segeln-warum-alex-thomson-nicht-bei-der-vendee-globe-2024-antritt-interview-a-ea86c723-47f4-4d29-a4ed-5a3e5c36b493#ref=rss)
+* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
+### silvester
+
+* [https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot](https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot-a-d8fc6e57-5209-403f-92ef-8e11b376d8a6#ref=rss)
+### böllerverbot
+
+* [https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot](https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot-a-d8fc6e57-5209-403f-92ef-8e11b376d8a6#ref=rss)
+### lockdown
+
+* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
 ### ungeimpfte
 
-* [https://www.spiegel.de/politik/deutschland/corona-ampel-fraktionen-planen-kontaktbeschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/politik/deutschland/corona-ampel-fraktionen-planen-kontaktbeschraenkungen-fuer-ungeimpfte-a-894ac01c-4473-4751-a675-f9314c03a63a#ref=rss)
-### gut
+* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
+* [https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch](https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch-a-5fb997b2-b97b-4220-8b0c-84bcebb45a5d#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung](https://www.spiegel.de/sport/fussball/dfb-jahresbilanz-wenn-die-leistung-jetzt-noch-so-gut-wird-wie-die-stimmung-a-0a40d012-66fb-4d5d-9501-22a005c26e69#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/china-uebt-in-der-wueste-auf-us-militaerschiffe-zu-zielen-satellitenbild-der-woche](https://www.spiegel.de/wissenschaft/weltall/china-uebt-in-der-wueste-auf-us-militaerschiffe-zu-zielen-satellitenbild-der-woche-a-ff995eba-ccc2-46e1-a467-1dd6dd2249a6#ref=rss)
-### joop
+* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
+* [https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall](https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall-a-a8a74f6e-4b16-4891-85d1-117903c43411#ref=rss)
+### impfpflicht
 
-* [https://www.spiegel.de/panorama/leute/wolfgang-joop-entschuldigt-sich-fuer-frauenfeindliche-aussagen](https://www.spiegel.de/panorama/leute/wolfgang-joop-entschuldigt-sich-fuer-frauenfeindliche-aussagen-a-ca088826-8b02-4a40-98f9-3f85ab4eb439#ref=rss)
-### entschuldigt
+* [https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen](https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen-a-44b9bb21-bcdd-45fc-b447-ddb178f0a4bc#ref=rss)
+### einzelnen
 
-* [https://www.spiegel.de/panorama/leute/wolfgang-joop-entschuldigt-sich-fuer-frauenfeindliche-aussagen](https://www.spiegel.de/panorama/leute/wolfgang-joop-entschuldigt-sich-fuer-frauenfeindliche-aussagen-a-ca088826-8b02-4a40-98f9-3f85ab4eb439#ref=rss)
-### neuseeland
+* [https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen](https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen-a-44b9bb21-bcdd-45fc-b447-ddb178f0a4bc#ref=rss)
+### bereichen
 
-* [https://www.spiegel.de/ausland/corona-in-neuseeland-maori-fordern-ende-von-haka-tanz-bei-anti-impf-protesten](https://www.spiegel.de/ausland/corona-in-neuseeland-maori-fordern-ende-von-haka-tanz-bei-anti-impf-protesten-a-f9ba2aa0-d61c-47db-80ef-ea808b8a64fe#ref=rss)
-### maori
+* [https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen](https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen-a-44b9bb21-bcdd-45fc-b447-ddb178f0a4bc#ref=rss)
+### grüne
 
-* [https://www.spiegel.de/ausland/corona-in-neuseeland-maori-fordern-ende-von-haka-tanz-bei-anti-impf-protesten](https://www.spiegel.de/ausland/corona-in-neuseeland-maori-fordern-ende-von-haka-tanz-bei-anti-impf-protesten-a-f9ba2aa0-d61c-47db-80ef-ea808b8a64fe#ref=rss)
-### oft
+* [https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen](https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen-a-44b9bb21-bcdd-45fc-b447-ddb178f0a4bc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet-a-468eeb64-4c04-4f09-b560-aa7c700e7d85#ref=rss)
+### iss
 
-* [https://www.spiegel.de/politik/deutschland/eu-steueroasen-die-minister-blickten-oft-nicht-durch-sagt-martijn-nouwen](https://www.spiegel.de/politik/deutschland/eu-steueroasen-die-minister-blickten-oft-nicht-durch-sagt-martijn-nouwen-a-4bb825b1-38ba-4b2d-bdde-5fea3fddc22c#ref=rss)
-* [https://www.spiegel.de/psychologie/mit-schmerzen-umgehen-finden-sie-ihren-rhythmus-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/mit-schmerzen-umgehen-finden-sie-ihren-rhythmus-spiegel-coaching-podcast-a-2dac3aa5-3580-48e6-9928-d0cd1e74b60d#ref=rss)
-### martijn
+* [https://www.spiegel.de/wissenschaft/weltall/raumstation-iss-kurzzeitig-wegen-gefahr-durch-weltraumschrott-geraeumt](https://www.spiegel.de/wissenschaft/weltall/raumstation-iss-kurzzeitig-wegen-gefahr-durch-weltraumschrott-geraeumt-a-91985bc5-074d-44d6-a79e-640b38b5ac1b#ref=rss)
+### warnungen
 
-* [https://www.spiegel.de/politik/deutschland/eu-steueroasen-die-minister-blickten-oft-nicht-durch-sagt-martijn-nouwen](https://www.spiegel.de/politik/deutschland/eu-steueroasen-die-minister-blickten-oft-nicht-durch-sagt-martijn-nouwen-a-4bb825b1-38ba-4b2d-bdde-5fea3fddc22c#ref=rss)
-### nouwen
+* [https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen](https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen-a-9fee53f4-6bd7-43f2-9f16-5d3ce310a6b9#ref=rss)
+### schulschließungen
 
-* [https://www.spiegel.de/politik/deutschland/eu-steueroasen-die-minister-blickten-oft-nicht-durch-sagt-martijn-nouwen](https://www.spiegel.de/politik/deutschland/eu-steueroasen-die-minister-blickten-oft-nicht-durch-sagt-martijn-nouwen-a-4bb825b1-38ba-4b2d-bdde-5fea3fddc22c#ref=rss)
-### bekommen
+* [https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen](https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen-a-9fee53f4-6bd7-43f2-9f16-5d3ce310a6b9#ref=rss)
+### badenwürttemberg
 
-* [https://www.spiegel.de/politik/deutschland/eu-steueroasen-die-minister-blickten-oft-nicht-durch-sagt-martijn-nouwen](https://www.spiegel.de/politik/deutschland/eu-steueroasen-die-minister-blickten-oft-nicht-durch-sagt-martijn-nouwen-a-4bb825b1-38ba-4b2d-bdde-5fea3fddc22c#ref=rss)
-* [https://www.spiegel.de/psychologie/mit-schmerzen-umgehen-finden-sie-ihren-rhythmus-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/mit-schmerzen-umgehen-finden-sie-ihren-rhythmus-spiegel-coaching-podcast-a-2dac3aa5-3580-48e6-9928-d0cd1e74b60d#ref=rss)
-### schmerzen
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet-a-468eeb64-4c04-4f09-b560-aa7c700e7d85#ref=rss)
+* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
+### boris
 
-* [https://www.spiegel.de/psychologie/mit-schmerzen-umgehen-finden-sie-ihren-rhythmus-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/mit-schmerzen-umgehen-finden-sie-ihren-rhythmus-spiegel-coaching-podcast-a-2dac3aa5-3580-48e6-9928-d0cd1e74b60d#ref=rss)
-### wüste
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet-a-468eeb64-4c04-4f09-b560-aa7c700e7d85#ref=rss)
+### palmer
 
-* [https://www.spiegel.de/wissenschaft/weltall/china-uebt-in-der-wueste-auf-us-militaerschiffe-zu-zielen-satellitenbild-der-woche](https://www.spiegel.de/wissenschaft/weltall/china-uebt-in-der-wueste-auf-us-militaerschiffe-zu-zielen-satellitenbild-der-woche-a-ff995eba-ccc2-46e1-a467-1dd6dd2249a6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet-a-468eeb64-4c04-4f09-b560-aa7c700e7d85#ref=rss)
+### italien
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-so-qualifizieren-sich-italien-und-die-niederlande-fuer-das-turnier-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-so-qualifizieren-sich-italien-und-die-niederlande-fuer-das-turnier-in-katar-a-f5356ff9-27af-4d61-91a1-69f4b1756b4f#ref=rss)
+### katar
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-so-qualifizieren-sich-italien-und-die-niederlande-fuer-das-turnier-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-so-qualifizieren-sich-italien-und-die-niederlande-fuer-das-turnier-in-katar-a-f5356ff9-27af-4d61-91a1-69f4b1756b4f#ref=rss)
+### bussen
+
+* [https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch](https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch-a-5fb997b2-b97b-4220-8b0c-84bcebb45a5d#ref=rss)
+### bahnen
+
+* [https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch](https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch-a-5fb997b2-b97b-4220-8b0c-84bcebb45a5d#ref=rss)
+### fahren
+
+* [https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch](https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch-a-5fb997b2-b97b-4220-8b0c-84bcebb45a5d#ref=rss)
+* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
 
