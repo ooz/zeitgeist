@@ -4,304 +4,289 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
-
-* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
-* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
-* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
-### bald
-
-* [https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance](https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance-a-cbe6e6b3-8d85-47e3-9d66-877f1c7ec441#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels](https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels-a-11cf29d5-2de7-4695-8bc9-bc8bfcf440d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
-* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
 ### belarus
 
-* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus-a-5c33aa60-88d6-4430-ae3a-9a9242d274b9#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung](https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung-a-425cc1d5-a382-4a31-a937-906cb9304a47#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-britisches-unternehmen-testet-t-zellen-impfung-ueber-hautpflaster](https://www.spiegel.de/wissenschaft/medizin/corona-britisches-unternehmen-testet-t-zellen-impfung-ueber-hautpflaster-a-9a671fe0-7a52-49b2-8471-76292e942442#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen](https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen-a-44b9bb21-bcdd-45fc-b447-ddb178f0a4bc#ref=rss)
-### corona
-
-* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-britisches-unternehmen-testet-t-zellen-impfung-ueber-hautpflaster](https://www.spiegel.de/wissenschaft/medizin/corona-britisches-unternehmen-testet-t-zellen-impfung-ueber-hautpflaster-a-9a671fe0-7a52-49b2-8471-76292e942442#ref=rss)
-* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen](https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen-a-9fee53f4-6bd7-43f2-9f16-5d3ce310a6b9#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance](https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance-a-cbe6e6b3-8d85-47e3-9d66-877f1c7ec441#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
-* [https://www.spiegel.de/geschichte/deutsche-schatzjaeger-im-osmanischen-reich-wie-kommt-alles-nach-berlin](https://www.spiegel.de/geschichte/deutsche-schatzjaeger-im-osmanischen-reich-wie-kommt-alles-nach-berlin-a-cd4f94e0-b1eb-46f9-907f-be91ed167f81#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-fluechtende-attackieren-polnische-grenze](https://www.spiegel.de/ausland/belarus-fluechtende-attackieren-polnische-grenze-a-38fd42ae-e805-45c8-9ebc-2972b10a4469#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-kritisieren-angela-merkels-telefonat-mit-alexander-lukaschenko](https://www.spiegel.de/politik/deutschland/gruene-kritisieren-angela-merkels-telefonat-mit-alexander-lukaschenko-a-4ea2c08d-9111-4488-824f-5c2c46b4ea11#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator](https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator-a-c799db2a-e2e7-43ad-8383-0da84c9235a5#ref=rss)
 ### grenze
 
-* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus-a-5c33aa60-88d6-4430-ae3a-9a9242d274b9#ref=rss)
-### verhindern
-
-* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus-a-5c33aa60-88d6-4430-ae3a-9a9242d274b9#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen](https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen-a-9fee53f4-6bd7-43f2-9f16-5d3ce310a6b9#ref=rss)
-### droht
-
-* [https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung](https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung-a-425cc1d5-a382-4a31-a937-906cb9304a47#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen](https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen-a-9fee53f4-6bd7-43f2-9f16-5d3ce310a6b9#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
-* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
-### festgenommen
-
-* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/memmingerberg-mann-und-jugendliche-nach-tod-von-16-jaehriger-festgenommen](https://www.spiegel.de/panorama/justiz/memmingerberg-mann-und-jugendliche-nach-tod-von-16-jaehriger-festgenommen-a-47834d6f-4352-4bbc-987f-9ae3dc7bc72a#ref=rss)
-* [https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall](https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall-a-a8a74f6e-4b16-4891-85d1-117903c43411#ref=rss)
-### tier
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike](https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike-a-3732d748-c6e6-4cf1-80ec-376332883502#ref=rss)
-### nextbike
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike](https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike-a-3732d748-c6e6-4cf1-80ec-376332883502#ref=rss)
-### markt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike](https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike-a-3732d748-c6e6-4cf1-80ec-376332883502#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike](https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike-a-3732d748-c6e6-4cf1-80ec-376332883502#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-britisches-unternehmen-testet-t-zellen-impfung-ueber-hautpflaster](https://www.spiegel.de/wissenschaft/medizin/corona-britisches-unternehmen-testet-t-zellen-impfung-ueber-hautpflaster-a-9a671fe0-7a52-49b2-8471-76292e942442#ref=rss)
-### größte
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike](https://www.spiegel.de/wirtschaft/unternehmen/e-roller-anbieter-tier-schluckt-fahrradverleiher-nextbike-a-3732d748-c6e6-4cf1-80ec-376332883502#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/london-gericht-verhaengt-lange-haftstrafen-gegen-geister-einbrecherbande](https://www.spiegel.de/panorama/justiz/london-gericht-verhaengt-lange-haftstrafen-gegen-geister-einbrecherbande-a-083fc265-27b0-488f-94e9-73ea493efd53#ref=rss)
-### tauschen
-
-* [https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance](https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance-a-cbe6e6b3-8d85-47e3-9d66-877f1c7ec441#ref=rss)
-* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
-### drei
-
-* [https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance](https://www.spiegel.de/auto/elektroautos-wechselakku-systeme-bekommen-anscheinend-eine-zweite-chance-a-cbe6e6b3-8d85-47e3-9d66-877f1c7ec441#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/london-gericht-verhaengt-lange-haftstrafen-gegen-geister-einbrecherbande](https://www.spiegel.de/panorama/justiz/london-gericht-verhaengt-lange-haftstrafen-gegen-geister-einbrecherbande-a-083fc265-27b0-488f-94e9-73ea493efd53#ref=rss)
-### london
-
-* [https://www.spiegel.de/panorama/justiz/london-gericht-verhaengt-lange-haftstrafen-gegen-geister-einbrecherbande](https://www.spiegel.de/panorama/justiz/london-gericht-verhaengt-lange-haftstrafen-gegen-geister-einbrecherbande-a-083fc265-27b0-488f-94e9-73ea493efd53#ref=rss)
-### herbert
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels](https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels-a-11cf29d5-2de7-4695-8bc9-bc8bfcf440d4#ref=rss)
-### diess
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels](https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels-a-11cf29d5-2de7-4695-8bc9-bc8bfcf440d4#ref=rss)
-### ende
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels](https://www.spiegel.de/wirtschaft/unternehmen/vw-herbert-diess-erwartet-baldiges-ende-des-chipmangels-a-11cf29d5-2de7-4695-8bc9-bc8bfcf440d4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow-a-d69e66fe-115e-4e16-b4a2-7bc509a96808#ref=rss)
-### novak
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-startet-erfolgreich-in-die-atp-finals](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-startet-erfolgreich-in-die-atp-finals-a-5410a94b-6d3c-4bdf-9f34-a259621ac68b#ref=rss)
-### gestartet
-
-* [https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-startet-erfolgreich-in-die-atp-finals](https://www.spiegel.de/sport/tennis/tennis-novak-djokovic-startet-erfolgreich-in-die-atp-finals-a-5410a94b-6d3c-4bdf-9f34-a259621ac68b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet-a-468eeb64-4c04-4f09-b560-aa7c700e7d85#ref=rss)
-### heiko
-
-* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
-### maas
-
-* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen](https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen-a-44b9bb21-bcdd-45fc-b447-ddb178f0a4bc#ref=rss)
-### flüchtlinge
-
-* [https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze](https://www.spiegel.de/politik/deutschland/eu-heiko-maas-spd-plaediert-gegen-aufnahmen-von-migranten-von-belarus-grenze-a-31629e0f-69e2-459b-ad73-cede38c516bc#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
-### memorial
-
-* [https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung](https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung-a-425cc1d5-a382-4a31-a937-906cb9304a47#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung](https://www.spiegel.de/ausland/angriff-auf-memorial-einer-der-angesehensten-ngos-russlands-droht-die-zwangsaufloesung-a-425cc1d5-a382-4a31-a937-906cb9304a47#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
-### carsten
-
-* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
-### watzl
-
-* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow-a-d69e66fe-115e-4e16-b4a2-7bc509a96808#ref=rss)
-### davon
-
-* [https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl](https://www.spiegel.de/wissenschaft/mensch/corona-die-immunisierung-ist-nach-der-zweiten-impfung-nicht-vollstaendig-sagt-carsten-watzl-a-1fa30fee-67ff-4f16-91f0-b4ac3ee77923#ref=rss)
-* [https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall](https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall-a-a8a74f6e-4b16-4891-85d1-117903c43411#ref=rss)
-### beto
-
-* [https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden](https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden-a-ac00f3a4-39db-474e-8ca4-4a7e087618d0#ref=rss)
-### o'rourke
-
-* [https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden](https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden-a-ac00f3a4-39db-474e-8ca4-4a7e087618d0#ref=rss)
-### gouverneur
-
-* [https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden](https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden-a-ac00f3a4-39db-474e-8ca4-4a7e087618d0#ref=rss)
-### texas
-
-* [https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden](https://www.spiegel.de/ausland/usa-beto-o-rourke-will-gouverneur-von-texas-werden-a-ac00f3a4-39db-474e-8ca4-4a7e087618d0#ref=rss)
-### bewerten
-
-* [https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow-a-d69e66fe-115e-4e16-b4a2-7bc509a96808#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow-a-d69e66fe-115e-4e16-b4a2-7bc509a96808#ref=rss)
-* [https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall](https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall-a-a8a74f6e-4b16-4891-85d1-117903c43411#ref=rss)
-### sagen
-
-* [https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow](https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-cop26-wie-bewerten-wissenschaftler-den-pakt-von-glasgow-a-d69e66fe-115e-4e16-b4a2-7bc509a96808#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
-### washington
-
-* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
-### trumps
-
-* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
-### steve
-
-* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
-### bannon
-
-* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
-### zweimal
-
-* [https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi](https://www.spiegel.de/ausland/washington-donald-trumps-gefaehrte-steve-bannon-stellt-sich-nach-anklage-der-bundespolizei-fbi-a-c95acd27-6c0a-4772-a354-93e30b76544d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/raumstation-iss-kurzzeitig-wegen-gefahr-durch-weltraumschrott-geraeumt](https://www.spiegel.de/wissenschaft/weltall/raumstation-iss-kurzzeitig-wegen-gefahr-durch-weltraumschrott-geraeumt-a-91985bc5-074d-44d6-a79e-640b38b5ac1b#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-fluechtende-attackieren-polnische-grenze](https://www.spiegel.de/ausland/belarus-fluechtende-attackieren-polnische-grenze-a-38fd42ae-e805-45c8-9ebc-2972b10a4469#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-kritisieren-angela-merkels-telefonat-mit-alexander-lukaschenko](https://www.spiegel.de/politik/deutschland/gruene-kritisieren-angela-merkels-telefonat-mit-alexander-lukaschenko-a-4ea2c08d-9111-4488-824f-5c2c46b4ea11#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator](https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator-a-c799db2a-e2e7-43ad-8383-0da84c9235a5#ref=rss)
 ### lukaschenko
 
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
-### lage
+* [https://www.spiegel.de/politik/deutschland/gruene-kritisieren-angela-merkels-telefonat-mit-alexander-lukaschenko](https://www.spiegel.de/politik/deutschland/gruene-kritisieren-angela-merkels-telefonat-mit-alexander-lukaschenko-a-4ea2c08d-9111-4488-824f-5c2c46b4ea11#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator](https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator-a-c799db2a-e2e7-43ad-8383-0da84c9235a5#ref=rss)
+### polen
 
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-ueber-fluechtlinge-ich-muss-sagen-dass-diese-menschen-sehr-stur-sind-a-34c3683f-3559-4aa8-b01c-14011233461f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus-a-5c33aa60-88d6-4430-ae3a-9a9242d274b9#ref=rss)
-### deutsche
+* [https://www.spiegel.de/ausland/belarus-fluechtende-attackieren-polnische-grenze](https://www.spiegel.de/ausland/belarus-fluechtende-attackieren-polnische-grenze-a-38fd42ae-e805-45c8-9ebc-2972b10a4469#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruene-kritisieren-angela-merkels-telefonat-mit-alexander-lukaschenko](https://www.spiegel.de/politik/deutschland/gruene-kritisieren-angela-merkels-telefonat-mit-alexander-lukaschenko-a-4ea2c08d-9111-4488-824f-5c2c46b4ea11#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator](https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator-a-c799db2a-e2e7-43ad-8383-0da84c9235a5#ref=rss)
+### biden
 
-* [https://www.spiegel.de/geschichte/deutsche-schatzjaeger-im-osmanischen-reich-wie-kommt-alles-nach-berlin](https://www.spiegel.de/geschichte/deutsche-schatzjaeger-im-osmanischen-reich-wie-kommt-alles-nach-berlin-a-cd4f94e0-b1eb-46f9-907f-be91ed167f81#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot](https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot-a-d8fc6e57-5209-403f-92ef-8e11b376d8a6#ref=rss)
-### flüchtlingsdrama
+* [https://www.spiegel.de/wirtschaft/us-notenbank-fed-wer-wird-bidens-troubleshooter](https://www.spiegel.de/wirtschaft/us-notenbank-fed-wer-wird-bidens-troubleshooter-a-8b2b5614-8708-471b-812d-04990e9a131c#ref=rss)
+* [https://www.spiegel.de/ausland/wie-gigantische-schiffe-auf-kollisionskurs](https://www.spiegel.de/ausland/wie-gigantische-schiffe-auf-kollisionskurs-a-538f1cac-5cf6-4858-beb7-ed840f010131#ref=rss)
+### druck
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus-a-5c33aa60-88d6-4430-ae3a-9a9242d274b9#ref=rss)
-### eigentlich
+* [https://www.spiegel.de/wirtschaft/ver-di-tarifverhandlungen-klinikpersonal-tritt-in-warnstreik](https://www.spiegel.de/wirtschaft/ver-di-tarifverhandlungen-klinikpersonal-tritt-in-warnstreik-a-8d599e49-1e9d-4659-bb43-0771c30ed23f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-warum-italien-portugal-und-die-niederlande-sich-so-schwer-tun](https://www.spiegel.de/sport/fussball/wm-qualifikation-warum-italien-portugal-und-die-niederlande-sich-so-schwer-tun-a-a374e1a9-72c8-4508-ac93-cc6552ef826a#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator](https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator-a-c799db2a-e2e7-43ad-8383-0da84c9235a5#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus](https://www.spiegel.de/politik/deutschland/news-des-tages-steuerdumping-coronaimpfung-fluechtlingsdrama-belarus-a-5c33aa60-88d6-4430-ae3a-9a9242d274b9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-so-qualifizieren-sich-italien-und-die-niederlande-fuer-das-turnier-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-so-qualifizieren-sich-italien-und-die-niederlande-fuer-das-turnier-in-katar-a-f5356ff9-27af-4d61-91a1-69f4b1756b4f#ref=rss)
-### rwe
+* [https://www.spiegel.de/panorama/bildung/corona-winter-in-den-schulen-die-zweite-zwischen-frust-und-sarkasmus](https://www.spiegel.de/panorama/bildung/corona-winter-in-den-schulen-die-zweite-zwischen-frust-und-sarkasmus-a-f59dfe50-3d70-492a-874b-c420a625e1f4#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/hochschulen-21-000-studienmoeglichkeiten-in-deutschland-so-viele-wie-noch-nie](https://www.spiegel.de/panorama/bildung/hochschulen-21-000-studienmoeglichkeiten-in-deutschland-so-viele-wie-noch-nie-a-b2cae3c0-5d1a-4a58-95b9-6e9d895606f0#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/erneuerbare-energien-rwe-plant-milliardeninvestitionen-bis-2030](https://www.spiegel.de/wirtschaft/unternehmen/erneuerbare-energien-rwe-plant-milliardeninvestitionen-bis-2030-a-92910d4a-2a72-49c4-9420-3d5517adbdbf#ref=rss)
-### coronakrise
+* [https://www.spiegel.de/wirtschaft/soziales/cannabis-legalisierung-koennte-dem-staat-4-7-milliarden-euro-im-jahr-bringen](https://www.spiegel.de/wirtschaft/soziales/cannabis-legalisierung-koennte-dem-staat-4-7-milliarden-euro-im-jahr-bringen-a-c171d679-6280-4080-a12d-36436fc3ab54#ref=rss)
+* [https://www.spiegel.de/wirtschaft/einigung-perfekt-eu-haushalt-fuer-2022-steht](https://www.spiegel.de/wirtschaft/einigung-perfekt-eu-haushalt-fuer-2022-steht-a-5da4f35a-4af5-4692-85ab-e40cf1b3e13f#ref=rss)
+### euro
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot](https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot-a-d8fc6e57-5209-403f-92ef-8e11b376d8a6#ref=rss)
-### christian
+* [https://www.spiegel.de/wirtschaft/soziales/cannabis-legalisierung-koennte-dem-staat-4-7-milliarden-euro-im-jahr-bringen](https://www.spiegel.de/wirtschaft/soziales/cannabis-legalisierung-koennte-dem-staat-4-7-milliarden-euro-im-jahr-bringen-a-c171d679-6280-4080-a12d-36436fc3ab54#ref=rss)
+* [https://www.spiegel.de/wirtschaft/einigung-perfekt-eu-haushalt-fuer-2022-steht](https://www.spiegel.de/wirtschaft/einigung-perfekt-eu-haushalt-fuer-2022-steht-a-5da4f35a-4af5-4692-85ab-e40cf1b3e13f#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
-### drosten
+* [https://www.spiegel.de/wirtschaft/soziales/cannabis-legalisierung-koennte-dem-staat-4-7-milliarden-euro-im-jahr-bringen](https://www.spiegel.de/wirtschaft/soziales/cannabis-legalisierung-koennte-dem-staat-4-7-milliarden-euro-im-jahr-bringen-a-c171d679-6280-4080-a12d-36436fc3ab54#ref=rss)
+* [https://www.spiegel.de/wirtschaft/einigung-perfekt-eu-haushalt-fuer-2022-steht](https://www.spiegel.de/wirtschaft/einigung-perfekt-eu-haushalt-fuer-2022-steht-a-5da4f35a-4af5-4692-85ab-e40cf1b3e13f#ref=rss)
+### ende
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
-### 3gregel
+* [https://www.spiegel.de/netzwelt/web/emotet-die-gefaehrlichste-schadsoftware-der-welt-ist-zurueck](https://www.spiegel.de/netzwelt/web/emotet-die-gefaehrlichste-schadsoftware-der-welt-ist-zurueck-a-d0798d8a-8691-401e-a346-36acbc07ab82#ref=rss)
+* [https://www.spiegel.de/panorama/britney-spears-ueber-ende-der-vormundschaft-wie-auf-wolke-sieben](https://www.spiegel.de/panorama/britney-spears-ueber-ende-der-vormundschaft-wie-auf-wolke-sieben-a-589e5280-d822-4023-8f77-56df63e54554#ref=rss)
+### eurecht
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch](https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch-a-5fb997b2-b97b-4220-8b0c-84bcebb45a5d#ref=rss)
-### bus
+* [https://www.spiegel.de/ausland/ungarn-asylgesetz-verstoesst-gegen-eu-recht](https://www.spiegel.de/ausland/ungarn-asylgesetz-verstoesst-gegen-eu-recht-a-10683943-5844-4e9e-b59a-ca65623a7cc1#ref=rss)
+* [https://www.spiegel.de/ausland/macht-von-polens-justizminister-ist-unvereinbar-mit-eu-recht](https://www.spiegel.de/ausland/macht-von-polens-justizminister-ist-unvereinbar-mit-eu-recht-a-0202e3de-fa11-40ad-9ffa-51bdccb7d1aa#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
-* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
-### bahn
+* [https://www.spiegel.de/panorama/britney-spears-ueber-ende-der-vormundschaft-wie-auf-wolke-sieben](https://www.spiegel.de/panorama/britney-spears-ueber-ende-der-vormundschaft-wie-auf-wolke-sieben-a-589e5280-d822-4023-8f77-56df63e54554#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/hochschulen-21-000-studienmoeglichkeiten-in-deutschland-so-viele-wie-noch-nie](https://www.spiegel.de/panorama/bildung/hochschulen-21-000-studienmoeglichkeiten-in-deutschland-so-viele-wie-noch-nie-a-b2cae3c0-5d1a-4a58-95b9-6e9d895606f0#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator](https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator-a-c799db2a-e2e7-43ad-8383-0da84c9235a5#ref=rss)
+### setzen
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
-* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
-### skeptisch
+* [https://www.spiegel.de/ausland/belarus-fluechtende-attackieren-polnische-grenze](https://www.spiegel.de/ausland/belarus-fluechtende-attackieren-polnische-grenze-a-38fd42ae-e805-45c8-9ebc-2972b10a4469#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator](https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator-a-c799db2a-e2e7-43ad-8383-0da84c9235a5#ref=rss)
+### nick
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn](https://www.spiegel.de/wissenschaft/medizin/corona-krise-christian-drosten-daempft-erwartungen-an-3g-regel-in-bus-und-bahn-a-bc14653c-1c4c-45f7-a87b-653d739304f7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch](https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch-a-5fb997b2-b97b-4220-8b0c-84bcebb45a5d#ref=rss)
-### alex
+* [https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-fuer-australian-open-ohne-ungeimpfte-spieler](https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-fuer-australian-open-ohne-ungeimpfte-spieler-a-d191ee53-0e55-40f8-b256-24f07990e3a3#ref=rss)
+### kyrgios
 
-* [https://www.spiegel.de/sport/segeln-warum-alex-thomson-nicht-bei-der-vendee-globe-2024-antritt-interview](https://www.spiegel.de/sport/segeln-warum-alex-thomson-nicht-bei-der-vendee-globe-2024-antritt-interview-a-ea86c723-47f4-4d29-a4ed-5a3e5c36b493#ref=rss)
-### thomson
+* [https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-fuer-australian-open-ohne-ungeimpfte-spieler](https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-fuer-australian-open-ohne-ungeimpfte-spieler-a-d191ee53-0e55-40f8-b256-24f07990e3a3#ref=rss)
+### australian
 
-* [https://www.spiegel.de/sport/segeln-warum-alex-thomson-nicht-bei-der-vendee-globe-2024-antritt-interview](https://www.spiegel.de/sport/segeln-warum-alex-thomson-nicht-bei-der-vendee-globe-2024-antritt-interview-a-ea86c723-47f4-4d29-a4ed-5a3e5c36b493#ref=rss)
-### gilt
+* [https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-fuer-australian-open-ohne-ungeimpfte-spieler](https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-fuer-australian-open-ohne-ungeimpfte-spieler-a-d191ee53-0e55-40f8-b256-24f07990e3a3#ref=rss)
+### open
 
-* [https://www.spiegel.de/sport/segeln-warum-alex-thomson-nicht-bei-der-vendee-globe-2024-antritt-interview](https://www.spiegel.de/sport/segeln-warum-alex-thomson-nicht-bei-der-vendee-globe-2024-antritt-interview-a-ea86c723-47f4-4d29-a4ed-5a3e5c36b493#ref=rss)
-* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
-### silvester
+* [https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-fuer-australian-open-ohne-ungeimpfte-spieler](https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-fuer-australian-open-ohne-ungeimpfte-spieler-a-d191ee53-0e55-40f8-b256-24f07990e3a3#ref=rss)
+### absage
 
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot](https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot-a-d8fc6e57-5209-403f-92ef-8e11b376d8a6#ref=rss)
-### böllerverbot
+* [https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-fuer-australian-open-ohne-ungeimpfte-spieler](https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-fuer-australian-open-ohne-ungeimpfte-spieler-a-d191ee53-0e55-40f8-b256-24f07990e3a3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-massnahmen-veranstalter-warnen-vor-todesstoss-fuer-die-branche](https://www.spiegel.de/wirtschaft/corona-massnahmen-veranstalter-warnen-vor-todesstoss-fuer-die-branche-a-9867f3f6-0aee-4330-a2df-503e3f0ee59f#ref=rss)
+### usnotenbank
 
-* [https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot](https://www.spiegel.de/panorama/gesellschaft/silvester-in-corona-zeiten-deutsche-umwelthilfe-und-polizei-gewerkschaft-gdp-fordern-boellerverbot-a-d8fc6e57-5209-403f-92ef-8e11b376d8a6#ref=rss)
-### lockdown
+* [https://www.spiegel.de/wirtschaft/us-notenbank-fed-wer-wird-bidens-troubleshooter](https://www.spiegel.de/wirtschaft/us-notenbank-fed-wer-wird-bidens-troubleshooter-a-8b2b5614-8708-471b-812d-04990e9a131c#ref=rss)
+### fed
 
-* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
-### ungeimpfte
+* [https://www.spiegel.de/wirtschaft/us-notenbank-fed-wer-wird-bidens-troubleshooter](https://www.spiegel.de/wirtschaft/us-notenbank-fed-wer-wird-bidens-troubleshooter-a-8b2b5614-8708-471b-812d-04990e9a131c#ref=rss)
+### westjordanland
 
-* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
-* [https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch](https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch-a-5fb997b2-b97b-4220-8b0c-84bcebb45a5d#ref=rss)
-### polizei
+* [https://www.spiegel.de/ausland/westjordanland-israels-armee-toetet-dschihad-mitglied](https://www.spiegel.de/ausland/westjordanland-israels-armee-toetet-dschihad-mitglied-a-524bc80d-fd21-43ed-a762-2a5be1426d91#ref=rss)
+### bundesnetzagentur
 
-* [https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte](https://www.spiegel.de/ausland/corona-in-oesterreich-lockdown-fuer-ungeimpfte-a-2d6c063e-7cd1-445d-8712-26b38476ee37#ref=rss)
-* [https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall](https://www.spiegel.de/ausland/liverpool-britische-polizei-spricht-von-terroristischem-vorfall-a-a8a74f6e-4b16-4891-85d1-117903c43411#ref=rss)
-### impfpflicht
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-setzt-zertifizierungsverfahren-fuer-nord-stream-2-vorlaeufig-aus](https://www.spiegel.de/wirtschaft/bundesnetzagentur-setzt-zertifizierungsverfahren-fuer-nord-stream-2-vorlaeufig-aus-a-68970bfb-155f-42d9-9c5e-fd1b8296d5e7#ref=rss)
+### nord
 
-* [https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen](https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen-a-44b9bb21-bcdd-45fc-b447-ddb178f0a4bc#ref=rss)
-### einzelnen
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-setzt-zertifizierungsverfahren-fuer-nord-stream-2-vorlaeufig-aus](https://www.spiegel.de/wirtschaft/bundesnetzagentur-setzt-zertifizierungsverfahren-fuer-nord-stream-2-vorlaeufig-aus-a-68970bfb-155f-42d9-9c5e-fd1b8296d5e7#ref=rss)
+### stream
 
-* [https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen](https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen-a-44b9bb21-bcdd-45fc-b447-ddb178f0a4bc#ref=rss)
-### bereichen
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-setzt-zertifizierungsverfahren-fuer-nord-stream-2-vorlaeufig-aus](https://www.spiegel.de/wirtschaft/bundesnetzagentur-setzt-zertifizierungsverfahren-fuer-nord-stream-2-vorlaeufig-aus-a-68970bfb-155f-42d9-9c5e-fd1b8296d5e7#ref=rss)
+### 2
 
-* [https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen](https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen-a-44b9bb21-bcdd-45fc-b447-ddb178f0a4bc#ref=rss)
-### grüne
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-setzt-zertifizierungsverfahren-fuer-nord-stream-2-vorlaeufig-aus](https://www.spiegel.de/wirtschaft/bundesnetzagentur-setzt-zertifizierungsverfahren-fuer-nord-stream-2-vorlaeufig-aus-a-68970bfb-155f-42d9-9c5e-fd1b8296d5e7#ref=rss)
+### gründen
 
-* [https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen](https://www.spiegel.de/politik/deutschland/coronapandemie-doch-noch-keine-ampel-einigung-fuer-impfpflicht-in-einzelnen-bereichen-a-44b9bb21-bcdd-45fc-b447-ddb178f0a4bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet-a-468eeb64-4c04-4f09-b560-aa7c700e7d85#ref=rss)
-### iss
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-setzt-zertifizierungsverfahren-fuer-nord-stream-2-vorlaeufig-aus](https://www.spiegel.de/wirtschaft/bundesnetzagentur-setzt-zertifizierungsverfahren-fuer-nord-stream-2-vorlaeufig-aus-a-68970bfb-155f-42d9-9c5e-fd1b8296d5e7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/george-clooney-ueber-ehefrau-amal-alamuddin-ich-war-sofort-wahnsinnig-verliebt](https://www.spiegel.de/panorama/leute/george-clooney-ueber-ehefrau-amal-alamuddin-ich-war-sofort-wahnsinnig-verliebt-a-4a48c355-6163-406a-8a31-a65bf0bdbe4b#ref=rss)
+### schulen
 
-* [https://www.spiegel.de/wissenschaft/weltall/raumstation-iss-kurzzeitig-wegen-gefahr-durch-weltraumschrott-geraeumt](https://www.spiegel.de/wissenschaft/weltall/raumstation-iss-kurzzeitig-wegen-gefahr-durch-weltraumschrott-geraeumt-a-91985bc5-074d-44d6-a79e-640b38b5ac1b#ref=rss)
-### warnungen
+* [https://www.spiegel.de/panorama/bildung/corona-winter-in-den-schulen-die-zweite-zwischen-frust-und-sarkasmus](https://www.spiegel.de/panorama/bildung/corona-winter-in-den-schulen-die-zweite-zwischen-frust-und-sarkasmus-a-f59dfe50-3d70-492a-874b-c420a625e1f4#ref=rss)
+### zweite
 
-* [https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen](https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen-a-9fee53f4-6bd7-43f2-9f16-5d3ce310a6b9#ref=rss)
-### schulschließungen
+* [https://www.spiegel.de/panorama/bildung/corona-winter-in-den-schulen-die-zweite-zwischen-frust-und-sarkasmus](https://www.spiegel.de/panorama/bildung/corona-winter-in-den-schulen-die-zweite-zwischen-frust-und-sarkasmus-a-f59dfe50-3d70-492a-874b-c420a625e1f4#ref=rss)
+### vier
 
-* [https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen](https://www.spiegel.de/panorama/bildung/wegen-corona-dramatische-warnungen-vor-erneuten-schulschliessungen-a-9fee53f4-6bd7-43f2-9f16-5d3ce310a6b9#ref=rss)
-### badenwürttemberg
+* [https://www.spiegel.de/ausland/liverpool-vier-verdaechtige-nach-taxi-explosion-wieder-frei](https://www.spiegel.de/ausland/liverpool-vier-verdaechtige-nach-taxi-explosion-wieder-frei-a-53db4623-195d-4ac7-bd8c-bb878bbe718f#ref=rss)
+### festgenommen
 
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet-a-468eeb64-4c04-4f09-b560-aa7c700e7d85#ref=rss)
-* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
-### boris
+* [https://www.spiegel.de/ausland/liverpool-vier-verdaechtige-nach-taxi-explosion-wieder-frei](https://www.spiegel.de/ausland/liverpool-vier-verdaechtige-nach-taxi-explosion-wieder-frei-a-53db4623-195d-4ac7-bd8c-bb878bbe718f#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-sicherheitskraefte-verhindern-geplante-proteste](https://www.spiegel.de/ausland/kuba-sicherheitskraefte-verhindern-geplante-proteste-a-4bd397d4-71e5-4301-96ab-daafa9b36fc2#ref=rss)
+### ampelkoalition
 
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet-a-468eeb64-4c04-4f09-b560-aa7c700e7d85#ref=rss)
-### palmer
+* [https://www.spiegel.de/panorama/bildung/koalitionsverhandlungen-fachleute-wollen-aenderungen-bei-corona-schul-plaenen](https://www.spiegel.de/panorama/bildung/koalitionsverhandlungen-fachleute-wollen-aenderungen-bei-corona-schul-plaenen-a-9973a0df-fa1c-4989-ac9c-779b83dce4e1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/cannabis-legalisierung-koennte-dem-staat-4-7-milliarden-euro-im-jahr-bringen](https://www.spiegel.de/wirtschaft/soziales/cannabis-legalisierung-koennte-dem-staat-4-7-milliarden-euro-im-jahr-bringen-a-c171d679-6280-4080-a12d-36436fc3ab54#ref=rss)
+### warnen
 
-* [https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet](https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-parteiausschlussverfahren-gegen-boris-palmer-gruene-gestartet-a-468eeb64-4c04-4f09-b560-aa7c700e7d85#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/koalitionsverhandlungen-fachleute-wollen-aenderungen-bei-corona-schul-plaenen](https://www.spiegel.de/panorama/bildung/koalitionsverhandlungen-fachleute-wollen-aenderungen-bei-corona-schul-plaenen-a-9973a0df-fa1c-4989-ac9c-779b83dce4e1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-massnahmen-veranstalter-warnen-vor-todesstoss-fuer-die-branche](https://www.spiegel.de/wirtschaft/corona-massnahmen-veranstalter-warnen-vor-todesstoss-fuer-die-branche-a-9867f3f6-0aee-4330-a2df-503e3f0ee59f#ref=rss)
+### george
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-ueber-ehefrau-amal-alamuddin-ich-war-sofort-wahnsinnig-verliebt](https://www.spiegel.de/panorama/leute/george-clooney-ueber-ehefrau-amal-alamuddin-ich-war-sofort-wahnsinnig-verliebt-a-4a48c355-6163-406a-8a31-a65bf0bdbe4b#ref=rss)
+### clooney
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-ueber-ehefrau-amal-alamuddin-ich-war-sofort-wahnsinnig-verliebt](https://www.spiegel.de/panorama/leute/george-clooney-ueber-ehefrau-amal-alamuddin-ich-war-sofort-wahnsinnig-verliebt-a-4a48c355-6163-406a-8a31-a65bf0bdbe4b#ref=rss)
+### ehefrau
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-ueber-ehefrau-amal-alamuddin-ich-war-sofort-wahnsinnig-verliebt](https://www.spiegel.de/panorama/leute/george-clooney-ueber-ehefrau-amal-alamuddin-ich-war-sofort-wahnsinnig-verliebt-a-4a48c355-6163-406a-8a31-a65bf0bdbe4b#ref=rss)
+### amal
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-ueber-ehefrau-amal-alamuddin-ich-war-sofort-wahnsinnig-verliebt](https://www.spiegel.de/panorama/leute/george-clooney-ueber-ehefrau-amal-alamuddin-ich-war-sofort-wahnsinnig-verliebt-a-4a48c355-6163-406a-8a31-a65bf0bdbe4b#ref=rss)
+### leben
+
+* [https://www.spiegel.de/panorama/leute/george-clooney-ueber-ehefrau-amal-alamuddin-ich-war-sofort-wahnsinnig-verliebt](https://www.spiegel.de/panorama/leute/george-clooney-ueber-ehefrau-amal-alamuddin-ich-war-sofort-wahnsinnig-verliebt-a-4a48c355-6163-406a-8a31-a65bf0bdbe4b#ref=rss)
+* [https://www.spiegel.de/panorama/athen-ein-toter-bei-irrfahrt-mit-draisine](https://www.spiegel.de/panorama/athen-ein-toter-bei-irrfahrt-mit-draisine-a-0750cf62-720c-4529-bc82-8067f7a9df84#ref=rss)
+### cannabis
+
+* [https://www.spiegel.de/wirtschaft/soziales/cannabis-legalisierung-koennte-dem-staat-4-7-milliarden-euro-im-jahr-bringen](https://www.spiegel.de/wirtschaft/soziales/cannabis-legalisierung-koennte-dem-staat-4-7-milliarden-euro-im-jahr-bringen-a-c171d679-6280-4080-a12d-36436fc3ab54#ref=rss)
+### staat
+
+* [https://www.spiegel.de/wirtschaft/soziales/cannabis-legalisierung-koennte-dem-staat-4-7-milliarden-euro-im-jahr-bringen](https://www.spiegel.de/wirtschaft/soziales/cannabis-legalisierung-koennte-dem-staat-4-7-milliarden-euro-im-jahr-bringen-a-c171d679-6280-4080-a12d-36436fc3ab54#ref=rss)
+### emotet
+
+* [https://www.spiegel.de/netzwelt/web/emotet-die-gefaehrlichste-schadsoftware-der-welt-ist-zurueck](https://www.spiegel.de/netzwelt/web/emotet-die-gefaehrlichste-schadsoftware-der-welt-ist-zurueck-a-d0798d8a-8691-401e-a346-36acbc07ab82#ref=rss)
+### schadsoftware
+
+* [https://www.spiegel.de/netzwelt/web/emotet-die-gefaehrlichste-schadsoftware-der-welt-ist-zurueck](https://www.spiegel.de/netzwelt/web/emotet-die-gefaehrlichste-schadsoftware-der-welt-ist-zurueck-a-d0798d8a-8691-401e-a346-36acbc07ab82#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/netzwelt/web/emotet-die-gefaehrlichste-schadsoftware-der-welt-ist-zurueck](https://www.spiegel.de/netzwelt/web/emotet-die-gefaehrlichste-schadsoftware-der-welt-ist-zurueck-a-d0798d8a-8691-401e-a346-36acbc07ab82#ref=rss)
+* [https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck](https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck-a-1bac3164-76ac-4853-a438-d7805c6394bb#ref=rss)
+### hinter
+
+* [https://www.spiegel.de/netzwelt/web/emotet-die-gefaehrlichste-schadsoftware-der-welt-ist-zurueck](https://www.spiegel.de/netzwelt/web/emotet-die-gefaehrlichste-schadsoftware-der-welt-ist-zurueck-a-d0798d8a-8691-401e-a346-36acbc07ab82#ref=rss)
+* [https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck](https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck-a-1bac3164-76ac-4853-a438-d7805c6394bb#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/ungarn-asylgesetz-verstoesst-gegen-eu-recht](https://www.spiegel.de/ausland/ungarn-asylgesetz-verstoesst-gegen-eu-recht-a-10683943-5844-4e9e-b59a-ca65623a7cc1#ref=rss)
+### verstößt
+
+* [https://www.spiegel.de/ausland/ungarn-asylgesetz-verstoesst-gegen-eu-recht](https://www.spiegel.de/ausland/ungarn-asylgesetz-verstoesst-gegen-eu-recht-a-10683943-5844-4e9e-b59a-ca65623a7cc1#ref=rss)
+### polens
+
+* [https://www.spiegel.de/ausland/macht-von-polens-justizminister-ist-unvereinbar-mit-eu-recht](https://www.spiegel.de/ausland/macht-von-polens-justizminister-ist-unvereinbar-mit-eu-recht-a-0202e3de-fa11-40ad-9ffa-51bdccb7d1aa#ref=rss)
+### justizminister
+
+* [https://www.spiegel.de/ausland/macht-von-polens-justizminister-ist-unvereinbar-mit-eu-recht](https://www.spiegel.de/ausland/macht-von-polens-justizminister-ist-unvereinbar-mit-eu-recht-a-0202e3de-fa11-40ad-9ffa-51bdccb7d1aa#ref=rss)
 ### italien
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-so-qualifizieren-sich-italien-und-die-niederlande-fuer-das-turnier-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-so-qualifizieren-sich-italien-und-die-niederlande-fuer-das-turnier-in-katar-a-f5356ff9-27af-4d61-91a1-69f4b1756b4f#ref=rss)
-### katar
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-warum-italien-portugal-und-die-niederlande-sich-so-schwer-tun](https://www.spiegel.de/sport/fussball/wm-qualifikation-warum-italien-portugal-und-die-niederlande-sich-so-schwer-tun-a-a374e1a9-72c8-4508-ac93-cc6552ef826a#ref=rss)
+### portugal
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-so-qualifizieren-sich-italien-und-die-niederlande-fuer-das-turnier-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-so-qualifizieren-sich-italien-und-die-niederlande-fuer-das-turnier-in-katar-a-f5356ff9-27af-4d61-91a1-69f4b1756b4f#ref=rss)
-### bussen
+* [https://www.spiegel.de/sport/fussball/wm-qualifikation-warum-italien-portugal-und-die-niederlande-sich-so-schwer-tun](https://www.spiegel.de/sport/fussball/wm-qualifikation-warum-italien-portugal-und-die-niederlande-sich-so-schwer-tun-a-a374e1a9-72c8-4508-ac93-cc6552ef826a#ref=rss)
+### saif
 
-* [https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch](https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch-a-5fb997b2-b97b-4220-8b0c-84bcebb45a5d#ref=rss)
-### bahnen
+* [https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck](https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck-a-1bac3164-76ac-4853-a438-d7805c6394bb#ref=rss)
+### alislam
 
-* [https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch](https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch-a-5fb997b2-b97b-4220-8b0c-84bcebb45a5d#ref=rss)
-### fahren
+* [https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck](https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck-a-1bac3164-76ac-4853-a438-d7805c6394bb#ref=rss)
+### algaddafi
 
-* [https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch](https://www.spiegel.de/wirtschaft/3g-regel-in-bussen-und-bahnen-verkehrsunternehmen-sehen-ampel-plaene-skeptisch-a-5fb997b2-b97b-4220-8b0c-84bcebb45a5d#ref=rss)
-* [https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen](https://www.spiegel.de/auto/baden-wuerttemberg-seniorinnen-und-senioren-koennen-fuehrerschein-gegen-oepnv-ticket-tauschen-a-f4c2e16f-c32d-469a-bd32-18f879cec571#ref=rss)
+* [https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck](https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck-a-1bac3164-76ac-4853-a438-d7805c6394bb#ref=rss)
+### proteste
+
+* [https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck](https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck-a-1bac3164-76ac-4853-a438-d7805c6394bb#ref=rss)
+* [https://www.spiegel.de/ausland/kuba-sicherheitskraefte-verhindern-geplante-proteste](https://www.spiegel.de/ausland/kuba-sicherheitskraefte-verhindern-geplante-proteste-a-4bd397d4-71e5-4301-96ab-daafa9b36fc2#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck](https://www.spiegel.de/ausland/saif-al-islam-gaddafi-ein-libyscher-geist-kehrt-zurueck-a-1bac3164-76ac-4853-a438-d7805c6394bb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/einigung-perfekt-eu-haushalt-fuer-2022-steht](https://www.spiegel.de/wirtschaft/einigung-perfekt-eu-haushalt-fuer-2022-steht-a-5da4f35a-4af5-4692-85ab-e40cf1b3e13f#ref=rss)
+### investitionen
+
+* [https://www.spiegel.de/wirtschaft/coronajahr-2020-industrie-schrumpft-etat-fuer-investitionen-deutlich](https://www.spiegel.de/wirtschaft/coronajahr-2020-industrie-schrumpft-etat-fuer-investitionen-deutlich-a-49060b17-b8f1-4d6d-90f2-d5c1ca5f45eb#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/coronajahr-2020-industrie-schrumpft-etat-fuer-investitionen-deutlich](https://www.spiegel.de/wirtschaft/coronajahr-2020-industrie-schrumpft-etat-fuer-investitionen-deutlich-a-49060b17-b8f1-4d6d-90f2-d5c1ca5f45eb#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/politik/deutschland/gruene-kritisieren-angela-merkels-telefonat-mit-alexander-lukaschenko](https://www.spiegel.de/politik/deutschland/gruene-kritisieren-angela-merkels-telefonat-mit-alexander-lukaschenko-a-4ea2c08d-9111-4488-824f-5c2c46b4ea11#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator](https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator-a-c799db2a-e2e7-43ad-8383-0da84c9235a5#ref=rss)
+### diktator
+
+* [https://www.spiegel.de/politik/deutschland/gruene-kritisieren-angela-merkels-telefonat-mit-alexander-lukaschenko](https://www.spiegel.de/politik/deutschland/gruene-kritisieren-angela-merkels-telefonat-mit-alexander-lukaschenko-a-4ea2c08d-9111-4488-824f-5c2c46b4ea11#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator](https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator-a-c799db2a-e2e7-43ad-8383-0da84c9235a5#ref=rss)
+### draisine
+
+* [https://www.spiegel.de/panorama/athen-ein-toter-bei-irrfahrt-mit-draisine](https://www.spiegel.de/panorama/athen-ein-toter-bei-irrfahrt-mit-draisine-a-0750cf62-720c-4529-bc82-8067f7a9df84#ref=rss)
+### britney
+
+* [https://www.spiegel.de/panorama/britney-spears-ueber-ende-der-vormundschaft-wie-auf-wolke-sieben](https://www.spiegel.de/panorama/britney-spears-ueber-ende-der-vormundschaft-wie-auf-wolke-sieben-a-589e5280-d822-4023-8f77-56df63e54554#ref=rss)
+### spears
+
+* [https://www.spiegel.de/panorama/britney-spears-ueber-ende-der-vormundschaft-wie-auf-wolke-sieben](https://www.spiegel.de/panorama/britney-spears-ueber-ende-der-vormundschaft-wie-auf-wolke-sieben-a-589e5280-d822-4023-8f77-56df63e54554#ref=rss)
+### vormundschaft
+
+* [https://www.spiegel.de/panorama/britney-spears-ueber-ende-der-vormundschaft-wie-auf-wolke-sieben](https://www.spiegel.de/panorama/britney-spears-ueber-ende-der-vormundschaft-wie-auf-wolke-sieben-a-589e5280-d822-4023-8f77-56df63e54554#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/bildung/hochschulen-21-000-studienmoeglichkeiten-in-deutschland-so-viele-wie-noch-nie](https://www.spiegel.de/panorama/bildung/hochschulen-21-000-studienmoeglichkeiten-in-deutschland-so-viele-wie-noch-nie-a-b2cae3c0-5d1a-4a58-95b9-6e9d895606f0#ref=rss)
+### nie
+
+* [https://www.spiegel.de/panorama/bildung/hochschulen-21-000-studienmoeglichkeiten-in-deutschland-so-viele-wie-noch-nie](https://www.spiegel.de/panorama/bildung/hochschulen-21-000-studienmoeglichkeiten-in-deutschland-so-viele-wie-noch-nie-a-b2cae3c0-5d1a-4a58-95b9-6e9d895606f0#ref=rss)
+### no7
+
+* [https://www.spiegel.de/kultur/rothko-gemaelde-no-7-bringt-82-5-millionen-us-dollar](https://www.spiegel.de/kultur/rothko-gemaelde-no-7-bringt-82-5-millionen-us-dollar-a-5d4c4f8c-c55e-40e6-a8c3-ecd4c23b21ab#ref=rss)
+### 825
+
+* [https://www.spiegel.de/kultur/rothko-gemaelde-no-7-bringt-82-5-millionen-us-dollar](https://www.spiegel.de/kultur/rothko-gemaelde-no-7-bringt-82-5-millionen-us-dollar-a-5d4c4f8c-c55e-40e6-a8c3-ecd4c23b21ab#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/kultur/rothko-gemaelde-no-7-bringt-82-5-millionen-us-dollar](https://www.spiegel.de/kultur/rothko-gemaelde-no-7-bringt-82-5-millionen-us-dollar-a-5d4c4f8c-c55e-40e6-a8c3-ecd4c23b21ab#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/wie-gigantische-schiffe-auf-kollisionskurs](https://www.spiegel.de/ausland/wie-gigantische-schiffe-auf-kollisionskurs-a-538f1cac-5cf6-4858-beb7-ed840f010131#ref=rss)
+### jinping
+
+* [https://www.spiegel.de/ausland/wie-gigantische-schiffe-auf-kollisionskurs](https://www.spiegel.de/ausland/wie-gigantische-schiffe-auf-kollisionskurs-a-538f1cac-5cf6-4858-beb7-ed840f010131#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/wie-gigantische-schiffe-auf-kollisionskurs](https://www.spiegel.de/ausland/wie-gigantische-schiffe-auf-kollisionskurs-a-538f1cac-5cf6-4858-beb7-ed840f010131#ref=rss)
+### worten
+
+* [https://www.spiegel.de/ausland/wie-gigantische-schiffe-auf-kollisionskurs](https://www.spiegel.de/ausland/wie-gigantische-schiffe-auf-kollisionskurs-a-538f1cac-5cf6-4858-beb7-ed840f010131#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator](https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator-a-c799db2a-e2e7-43ad-8383-0da84c9235a5#ref=rss)
+### beiden
+
+* [https://www.spiegel.de/ausland/wie-gigantische-schiffe-auf-kollisionskurs](https://www.spiegel.de/ausland/wie-gigantische-schiffe-auf-kollisionskurs-a-538f1cac-5cf6-4858-beb7-ed840f010131#ref=rss)
+### aung
+
+* [https://www.spiegel.de/ausland/myanmar-junta-plant-prozess-gegen-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-junta-plant-prozess-gegen-aung-san-suu-kyi-a-b1f15dc1-446c-423d-9a27-491a2ad44e10#ref=rss)
+### san
+
+* [https://www.spiegel.de/ausland/myanmar-junta-plant-prozess-gegen-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-junta-plant-prozess-gegen-aung-san-suu-kyi-a-b1f15dc1-446c-423d-9a27-491a2ad44e10#ref=rss)
+### suu
+
+* [https://www.spiegel.de/ausland/myanmar-junta-plant-prozess-gegen-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-junta-plant-prozess-gegen-aung-san-suu-kyi-a-b1f15dc1-446c-423d-9a27-491a2ad44e10#ref=rss)
+### kyi
+
+* [https://www.spiegel.de/ausland/myanmar-junta-plant-prozess-gegen-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-junta-plant-prozess-gegen-aung-san-suu-kyi-a-b1f15dc1-446c-423d-9a27-491a2ad44e10#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/myanmar-junta-plant-prozess-gegen-aung-san-suu-kyi](https://www.spiegel.de/ausland/myanmar-junta-plant-prozess-gegen-aung-san-suu-kyi-a-b1f15dc1-446c-423d-9a27-491a2ad44e10#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator](https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator-a-c799db2a-e2e7-43ad-8383-0da84c9235a5#ref=rss)
+### 2022
+
+* [https://www.spiegel.de/wirtschaft/einigung-perfekt-eu-haushalt-fuer-2022-steht](https://www.spiegel.de/wirtschaft/einigung-perfekt-eu-haushalt-fuer-2022-steht-a-5da4f35a-4af5-4692-85ab-e40cf1b3e13f#ref=rss)
+### kuba
+
+* [https://www.spiegel.de/ausland/kuba-sicherheitskraefte-verhindern-geplante-proteste](https://www.spiegel.de/ausland/kuba-sicherheitskraefte-verhindern-geplante-proteste-a-4bd397d4-71e5-4301-96ab-daafa9b36fc2#ref=rss)
+### veranstalter
+
+* [https://www.spiegel.de/wirtschaft/corona-massnahmen-veranstalter-warnen-vor-todesstoss-fuer-die-branche](https://www.spiegel.de/wirtschaft/corona-massnahmen-veranstalter-warnen-vor-todesstoss-fuer-die-branche-a-9867f3f6-0aee-4330-a2df-503e3f0ee59f#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator](https://www.spiegel.de/ausland/belarus-olaf-scholz-nennt-alexander-lukaschenko-schlimmen-diktator-a-c799db2a-e2e7-43ad-8383-0da84c9235a5#ref=rss)
+### ecuador
+
+* [https://www.spiegel.de/panorama/justiz/ecuador-polizei-und-militaer-uebernehmen-strafvollzug-nach-bandenkaempfen](https://www.spiegel.de/panorama/justiz/ecuador-polizei-und-militaer-uebernehmen-strafvollzug-nach-bandenkaempfen-a-6997c3ec-b0ad-4035-b7d5-f1b842ef81c9#ref=rss)
+### übernehmen
+
+* [https://www.spiegel.de/panorama/justiz/ecuador-polizei-und-militaer-uebernehmen-strafvollzug-nach-bandenkaempfen](https://www.spiegel.de/panorama/justiz/ecuador-polizei-und-militaer-uebernehmen-strafvollzug-nach-bandenkaempfen-a-6997c3ec-b0ad-4035-b7d5-f1b842ef81c9#ref=rss)
 
