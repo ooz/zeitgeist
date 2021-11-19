@@ -4,291 +4,334 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### bund
-
-* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde-a-858e8c6b-c186-498b-8f38-429e5b9a7f47#ref=rss)
-* [https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream](https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream-a-75c241f8-fe19-49d8-945a-67a1b6b65034#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bund-verdoppelt-zuschuss-fuer-gesetzliche-krankenkassen](https://www.spiegel.de/wirtschaft/soziales/bund-verdoppelt-zuschuss-fuer-gesetzliche-krankenkassen-a-c8bebcea-c860-4327-8b68-e2647ea3d87e#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/ausland/oesterreichs-ex-kanzler-sebastian-kurz-verliert-immunitaet](https://www.spiegel.de/ausland/oesterreichs-ex-kanzler-sebastian-kurz-verliert-immunitaet-a-11384bc1-465b-4df1-96b9-846c52864b81#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt](https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt-a-946db4f9-aff9-4882-b96f-494367c4db84#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/wissenschaft/mensch/spiegel-klimabericht-warum-die-inselstaaten-nun-vor-gericht-ziehen](https://www.spiegel.de/wissenschaft/mensch/spiegel-klimabericht-warum-die-inselstaaten-nun-vor-gericht-ziehen-a-c7ec3ca8-cff1-43c1-88a2-53257dd01079#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hagen-richterin-aus-luedenscheid-liess-akten-unbearbeitet-3-jahre-und-zehn-monate-haft](https://www.spiegel.de/panorama/justiz/hagen-richterin-aus-luedenscheid-liess-akten-unbearbeitet-3-jahre-und-zehn-monate-haft-a-d347a1c4-3475-4277-bd99-53f54debd8f8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-mutmassliche-rechtsextremisten-wegen-waffenhandels-angeklagt](https://www.spiegel.de/panorama/justiz/muenchen-mutmassliche-rechtsextremisten-wegen-waffenhandels-angeklagt-a-681d28ca-bfd8-49d0-8214-ee1e70bbb21a#ref=rss)
-### corona
-
-* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde-a-858e8c6b-c186-498b-8f38-429e5b9a7f47#ref=rss)
-* [https://www.spiegel.de/start/uni-aufnahmepruefung-in-suedkorea-mehr-als-eine-halbe-million-menschen-schreiben-examen](https://www.spiegel.de/start/uni-aufnahmepruefung-in-suedkorea-mehr-als-eine-halbe-million-menschen-schreiben-examen-a-3897e858-682b-4d23-a347-2a5249aaacac#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-angela-merkel-streitet-mit-laenderchefs-ueber-einsatz-von-impfapothekern](https://www.spiegel.de/politik/deutschland/corona-angela-merkel-streitet-mit-laenderchefs-ueber-einsatz-von-impfapothekern-a-a2c41bd5-7b35-4f05-aaeb-eeb6f1f8762d#ref=rss)
-* [https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union](https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union-a-0e5ff13f-02d5-4c94-8f00-92a5f8273892#ref=rss)
-### länder
-
-* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde-a-858e8c6b-c186-498b-8f38-429e5b9a7f47#ref=rss)
-* [https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream](https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream-a-75c241f8-fe19-49d8-945a-67a1b6b65034#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-runde-buendnis-90-die-gruenen-erbost-ueber-ausladung](https://www.spiegel.de/politik/deutschland/corona-runde-buendnis-90-die-gruenen-erbost-ueber-ausladung-a-4cbd28a6-d324-491f-8034-35037df0b57b#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-eroeffnet-vertretung-in-litauen-unter-eigenem-namen](https://www.spiegel.de/ausland/taiwan-eroeffnet-vertretung-in-litauen-unter-eigenem-namen-a-b644fb93-3501-4598-b2de-3abfadfedab5#ref=rss)
-### infektionsschutzgesetz
-
-* [https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream](https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream-a-75c241f8-fe19-49d8-945a-67a1b6b65034#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-neues-infektionsschutzgesetz-boostern-georg-nuesslein-und-alfred-sauter](https://www.spiegel.de/politik/deutschland/news-des-tages-neues-infektionsschutzgesetz-boostern-georg-nuesslein-und-alfred-sauter-a-3f4ccb06-aaf8-4366-80a0-854dd6218405#ref=rss)
-* [https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union](https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union-a-0e5ff13f-02d5-4c94-8f00-92a5f8273892#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt](https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt-a-946db4f9-aff9-4882-b96f-494367c4db84#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-tritt-nicht-mehr-an](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-tritt-nicht-mehr-an-a-edd58c23-ae24-47f6-aed9-5d9f22c84cd0#ref=rss)
-* [https://www.spiegel.de/start/uni-aufnahmepruefung-in-suedkorea-mehr-als-eine-halbe-million-menschen-schreiben-examen](https://www.spiegel.de/start/uni-aufnahmepruefung-in-suedkorea-mehr-als-eine-halbe-million-menschen-schreiben-examen-a-3897e858-682b-4d23-a347-2a5249aaacac#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/grossbritannien-delta-subtyp-fuer-mehr-als-jede-zehnte-corona-neuinfektion-verantwortlich](https://www.spiegel.de/wissenschaft/medizin/grossbritannien-delta-subtyp-fuer-mehr-als-jede-zehnte-corona-neuinfektion-verantwortlich-a-36f8390e-e17e-4a0e-a42c-8bc8dce3d4eb#ref=rss)
-### unter
+* [https://www.spiegel.de/ausland/usa-kevin-mccarthy-verzoegert-mit-marathonrede-abstimmung-ueber-joe-bidens-billionenpaket](https://www.spiegel.de/ausland/usa-kevin-mccarthy-verzoegert-mit-marathonrede-abstimmung-ueber-joe-bidens-billionenpaket-a-bb30f7e1-3ef9-4c25-8934-7e7d676a012a#ref=rss)
+* [https://www.spiegel.de/kultur/warum-spielen-immer-mehr-menschen-schach-podcast](https://www.spiegel.de/kultur/warum-spielen-immer-mehr-menschen-schach-podcast-a-c1cf837d-9bda-4d4a-959a-29324665f050#ref=rss)
+* [https://www.spiegel.de/wirtschaft/erzeugerpreise-steigen-so-stark-wie-seit-70-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/erzeugerpreise-steigen-so-stark-wie-seit-70-jahren-nicht-mehr-a-8dacb2c0-232a-4a32-b532-34e541a5a0f7#ref=rss)
+* [https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung](https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung-a-cb8ea75e-11f0-44b9-9701-c780fd8dfe09#ref=rss)
+* [https://www.spiegel.de/wirtschaft/abholzung-im-amazonasgebiet-steigen-stark-an](https://www.spiegel.de/wirtschaft/abholzung-im-amazonasgebiet-steigen-stark-an-a-0bac1ad5-981b-471d-8706-9bfbf31f8082#ref=rss)
+* [https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein](https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein-a-6a40a0b4-6544-45cb-9cdf-02033941941d#ref=rss)
+### euro
 
-* [https://www.spiegel.de/wissenschaft/mensch/extremwetter-in-kanada-erst-waldbraende-nun-flutwellen](https://www.spiegel.de/wissenschaft/mensch/extremwetter-in-kanada-erst-waldbraende-nun-flutwellen-a-ffb28ecb-67b3-4685-82d5-d89874bf89fa#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-mutmassliche-rechtsextremisten-wegen-waffenhandels-angeklagt](https://www.spiegel.de/panorama/justiz/muenchen-mutmassliche-rechtsextremisten-wegen-waffenhandels-angeklagt-a-681d28ca-bfd8-49d0-8214-ee1e70bbb21a#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-eroeffnet-vertretung-in-litauen-unter-eigenem-namen](https://www.spiegel.de/ausland/taiwan-eroeffnet-vertretung-in-litauen-unter-eigenem-namen-a-b644fb93-3501-4598-b2de-3abfadfedab5#ref=rss)
-### oktober
-
-* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde-a-858e8c6b-c186-498b-8f38-429e5b9a7f47#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fast-ein-drittel-aller-ices-und-intercitys-kam-im-oktober-zu-spaet](https://www.spiegel.de/wirtschaft/unternehmen/fast-ein-drittel-aller-ices-und-intercitys-kam-im-oktober-zu-spaet-a-71743872-5d01-4b5b-b2eb-6085cb86328a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gorch-fock-bricht-nach-jahrelanger-sanierung-auf-in-richtung-kanaren](https://www.spiegel.de/politik/deutschland/gorch-fock-bricht-nach-jahrelanger-sanierung-auf-in-richtung-kanaren-a-9a966eed-a03f-46cc-b1b3-8499218dec65#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen](https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen-a-9d435777-84c6-4912-89ff-b6f8fdb616ce#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/manipulierte-abgaswerte-dieselskandal-ist-das-teuerste-schadensereignis-in-der-geschichte-der-rechtschutzversicherung](https://www.spiegel.de/wirtschaft/service/manipulierte-abgaswerte-dieselskandal-ist-das-teuerste-schadensereignis-in-der-geschichte-der-rechtschutzversicherung-a-e1cceed2-8407-4256-8199-78d29c8edf4c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/impfstoffhersteller-curevac-macht-143-millionen-euro-verlust](https://www.spiegel.de/wirtschaft/unternehmen/impfstoffhersteller-curevac-macht-143-millionen-euro-verlust-a-8bec13dc-09c6-4f1f-8c42-27f37478c56a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/neue-auflagen-fuer-google-microsoft-und-co](https://www.spiegel.de/wirtschaft/unternehmen/neue-auflagen-fuer-google-microsoft-und-co-a-ba89e507-0c75-44e4-82bb-5f5687385d5f#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde-a-858e8c6b-c186-498b-8f38-429e5b9a7f47#ref=rss)
-* [https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream](https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream-a-75c241f8-fe19-49d8-945a-67a1b6b65034#ref=rss)
-* [https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union](https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union-a-0e5ff13f-02d5-4c94-8f00-92a5f8273892#ref=rss)
-### grünen
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt](https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt-a-bbd0a378-bc6b-4f88-b131-ca7397dc7a2a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen](https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen-a-9d435777-84c6-4912-89ff-b6f8fdb616ce#ref=rss)
+* [https://www.spiegel.de/panorama/catcalling-laut-studie-des-kriminologischen-forschungsinstituts-niedersachsen-weitverbreitet](https://www.spiegel.de/panorama/catcalling-laut-studie-des-kriminologischen-forschungsinstituts-niedersachsen-weitverbreitet-a-f7ab2a44-4c71-464a-a25c-4f0c7cb5c7ef#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/neue-auflagen-fuer-google-microsoft-und-co](https://www.spiegel.de/wirtschaft/unternehmen/neue-auflagen-fuer-google-microsoft-und-co-a-ba89e507-0c75-44e4-82bb-5f5687385d5f#ref=rss)
+### lockdown
 
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt](https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt-a-946db4f9-aff9-4882-b96f-494367c4db84#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-runde-buendnis-90-die-gruenen-erbost-ueber-ausladung](https://www.spiegel.de/politik/deutschland/corona-runde-buendnis-90-die-gruenen-erbost-ueber-ausladung-a-4cbd28a6-d324-491f-8034-35037df0b57b#ref=rss)
-### union
-
-* [https://www.spiegel.de/sport/fussball/fussball-quiz-womit-schrieb-union-berlins-taiwo-awoniyi-bundesliga-geschichte](https://www.spiegel.de/sport/fussball/fussball-quiz-womit-schrieb-union-berlins-taiwo-awoniyi-bundesliga-geschichte-a-6863f4ee-a5b9-46f4-8889-e99e2a2e9b92#ref=rss)
-* [https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union](https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union-a-0e5ff13f-02d5-4c94-8f00-92a5f8273892#ref=rss)
-### sebastian
-
-* [https://www.spiegel.de/ausland/oesterreichs-ex-kanzler-sebastian-kurz-verliert-immunitaet](https://www.spiegel.de/ausland/oesterreichs-ex-kanzler-sebastian-kurz-verliert-immunitaet-a-11384bc1-465b-4df1-96b9-846c52864b81#ref=rss)
-### immunität
-
-* [https://www.spiegel.de/ausland/oesterreichs-ex-kanzler-sebastian-kurz-verliert-immunitaet](https://www.spiegel.de/ausland/oesterreichs-ex-kanzler-sebastian-kurz-verliert-immunitaet-a-11384bc1-465b-4df1-96b9-846c52864b81#ref=rss)
-### geflüchteten
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-keine-gefluechteten-aus-belarus-aufnehmen](https://www.spiegel.de/politik/deutschland/bundesregierung-will-keine-gefluechteten-aus-belarus-aufnehmen-a-fa8a6fea-2ef3-474b-a643-52f104eac99b#ref=rss)
-### aufnehmen
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-keine-gefluechteten-aus-belarus-aufnehmen](https://www.spiegel.de/politik/deutschland/bundesregierung-will-keine-gefluechteten-aus-belarus-aufnehmen-a-fa8a6fea-2ef3-474b-a643-52f104eac99b#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-keine-gefluechteten-aus-belarus-aufnehmen](https://www.spiegel.de/politik/deutschland/bundesregierung-will-keine-gefluechteten-aus-belarus-aufnehmen-a-fa8a6fea-2ef3-474b-a643-52f104eac99b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde-a-858e8c6b-c186-498b-8f38-429e5b9a7f47#ref=rss)
-### inselstaaten
-
-* [https://www.spiegel.de/wissenschaft/mensch/spiegel-klimabericht-warum-die-inselstaaten-nun-vor-gericht-ziehen](https://www.spiegel.de/wissenschaft/mensch/spiegel-klimabericht-warum-die-inselstaaten-nun-vor-gericht-ziehen-a-c7ec3ca8-cff1-43c1-88a2-53257dd01079#ref=rss)
-### bündnis
-
-* [https://www.spiegel.de/wissenschaft/mensch/spiegel-klimabericht-warum-die-inselstaaten-nun-vor-gericht-ziehen](https://www.spiegel.de/wissenschaft/mensch/spiegel-klimabericht-warum-die-inselstaaten-nun-vor-gericht-ziehen-a-c7ec3ca8-cff1-43c1-88a2-53257dd01079#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-runde-buendnis-90-die-gruenen-erbost-ueber-ausladung](https://www.spiegel.de/politik/deutschland/corona-runde-buendnis-90-die-gruenen-erbost-ueber-ausladung-a-4cbd28a6-d324-491f-8034-35037df0b57b#ref=rss)
-### erklären
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/boersengang-von-sono-motors-die-sparkassen-mentalitaet-steht-uns-oft-im-weg](https://www.spiegel.de/wirtschaft/unternehmen/boersengang-von-sono-motors-die-sparkassen-mentalitaet-steht-uns-oft-im-weg-a-5402ac53-da29-476b-a416-5da9229840ba#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/extremwetter-in-kanada-erst-waldbraende-nun-flutwellen](https://www.spiegel.de/wissenschaft/mensch/extremwetter-in-kanada-erst-waldbraende-nun-flutwellen-a-ffb28ecb-67b3-4685-82d5-d89874bf89fa#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/boersengang-von-sono-motors-die-sparkassen-mentalitaet-steht-uns-oft-im-weg](https://www.spiegel.de/wirtschaft/unternehmen/boersengang-von-sono-motors-die-sparkassen-mentalitaet-steht-uns-oft-im-weg-a-5402ac53-da29-476b-a416-5da9229840ba#ref=rss)
-* [https://www.spiegel.de/start/uni-aufnahmepruefung-in-suedkorea-mehr-als-eine-halbe-million-menschen-schreiben-examen](https://www.spiegel.de/start/uni-aufnahmepruefung-in-suedkorea-mehr-als-eine-halbe-million-menschen-schreiben-examen-a-3897e858-682b-4d23-a347-2a5249aaacac#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde-a-858e8c6b-c186-498b-8f38-429e5b9a7f47#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/bund-verdoppelt-zuschuss-fuer-gesetzliche-krankenkassen](https://www.spiegel.de/wirtschaft/soziales/bund-verdoppelt-zuschuss-fuer-gesetzliche-krankenkassen-a-c8bebcea-c860-4327-8b68-e2647ea3d87e#ref=rss)
-### maßnahmen
-
-* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde-a-858e8c6b-c186-498b-8f38-429e5b9a7f47#ref=rss)
-* [https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream](https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream-a-75c241f8-fe19-49d8-945a-67a1b6b65034#ref=rss)
-### ministerpräsidentenkonferenz
-
-* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde-a-858e8c6b-c186-498b-8f38-429e5b9a7f47#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-runde-buendnis-90-die-gruenen-erbost-ueber-ausladung](https://www.spiegel.de/politik/deutschland/corona-runde-buendnis-90-die-gruenen-erbost-ueber-ausladung-a-4cbd28a6-d324-491f-8034-35037df0b57b#ref=rss)
-### coronalage
-
-* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde-a-858e8c6b-c186-498b-8f38-429e5b9a7f47#ref=rss)
-* [https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream](https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream-a-75c241f8-fe19-49d8-945a-67a1b6b65034#ref=rss)
-### dramatisch
-
-* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde-a-858e8c6b-c186-498b-8f38-429e5b9a7f47#ref=rss)
-* [https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream](https://www.spiegel.de/politik/corona-mpk-das-sind-die-beschluesse-des-corona-gipfels-von-bund-und-laendern-livestream-a-75c241f8-fe19-49d8-945a-67a1b6b65034#ref=rss)
-### beschlossen
-
-* [https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde](https://www.spiegel.de/politik/deutschland/corona-in-deutschland-das-sind-die-neuen-massnahmen-der-bund-laender-runde-a-858e8c6b-c186-498b-8f38-429e5b9a7f47#ref=rss)
-* [https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union](https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union-a-0e5ff13f-02d5-4c94-8f00-92a5f8273892#ref=rss)
-### pflegekräfte
-
-* [https://www.spiegel.de/wirtschaft/coronapandemie-pflegekraefte-an-charite-sollen-entlastet-werden](https://www.spiegel.de/wirtschaft/coronapandemie-pflegekraefte-an-charite-sollen-entlastet-werden-a-0cf4cb6d-77ba-47cc-9e29-4b53ac03855e#ref=rss)
-### charité
-
-* [https://www.spiegel.de/wirtschaft/coronapandemie-pflegekraefte-an-charite-sollen-entlastet-werden](https://www.spiegel.de/wirtschaft/coronapandemie-pflegekraefte-an-charite-sollen-entlastet-werden-a-0cf4cb6d-77ba-47cc-9e29-4b53ac03855e#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/wirtschaft/coronapandemie-pflegekraefte-an-charite-sollen-entlastet-werden](https://www.spiegel.de/wirtschaft/coronapandemie-pflegekraefte-an-charite-sollen-entlastet-werden-a-0cf4cb6d-77ba-47cc-9e29-4b53ac03855e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-filmt-verunglueckten-beamten-und-verbreitet-das-video](https://www.spiegel.de/panorama/justiz/berlin-mann-filmt-verunglueckten-beamten-und-verbreitet-das-video-a-653a6469-9b53-42cf-9bdb-6b680f48a2af#ref=rss)
-### richterin
-
-* [https://www.spiegel.de/panorama/justiz/hagen-richterin-aus-luedenscheid-liess-akten-unbearbeitet-3-jahre-und-zehn-monate-haft](https://www.spiegel.de/panorama/justiz/hagen-richterin-aus-luedenscheid-liess-akten-unbearbeitet-3-jahre-und-zehn-monate-haft-a-d347a1c4-3475-4277-bd99-53f54debd8f8#ref=rss)
-### akten
-
-* [https://www.spiegel.de/panorama/justiz/hagen-richterin-aus-luedenscheid-liess-akten-unbearbeitet-3-jahre-und-zehn-monate-haft](https://www.spiegel.de/panorama/justiz/hagen-richterin-aus-luedenscheid-liess-akten-unbearbeitet-3-jahre-und-zehn-monate-haft-a-d347a1c4-3475-4277-bd99-53f54debd8f8#ref=rss)
-### verantwortlich
-
-* [https://www.spiegel.de/panorama/justiz/hagen-richterin-aus-luedenscheid-liess-akten-unbearbeitet-3-jahre-und-zehn-monate-haft](https://www.spiegel.de/panorama/justiz/hagen-richterin-aus-luedenscheid-liess-akten-unbearbeitet-3-jahre-und-zehn-monate-haft-a-d347a1c4-3475-4277-bd99-53f54debd8f8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/grossbritannien-delta-subtyp-fuer-mehr-als-jede-zehnte-corona-neuinfektion-verantwortlich](https://www.spiegel.de/wissenschaft/medizin/grossbritannien-delta-subtyp-fuer-mehr-als-jede-zehnte-corona-neuinfektion-verantwortlich-a-36f8390e-e17e-4a0e-a42c-8bc8dce3d4eb#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-neues-infektionsschutzgesetz-boostern-georg-nuesslein-und-alfred-sauter](https://www.spiegel.de/politik/deutschland/news-des-tages-neues-infektionsschutzgesetz-boostern-georg-nuesslein-und-alfred-sauter-a-3f4ccb06-aaf8-4366-80a0-854dd6218405#ref=rss)
-* [https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union](https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union-a-0e5ff13f-02d5-4c94-8f00-92a5f8273892#ref=rss)
-### erwachsenen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-neues-infektionsschutzgesetz-boostern-georg-nuesslein-und-alfred-sauter](https://www.spiegel.de/politik/deutschland/news-des-tages-neues-infektionsschutzgesetz-boostern-georg-nuesslein-und-alfred-sauter-a-3f4ccb06-aaf8-4366-80a0-854dd6218405#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/werther-in-nordrhein-westfalen-elfjaehriger-mit-dem-auto-seiner-eltern-gestoppt](https://www.spiegel.de/panorama/justiz/werther-in-nordrhein-westfalen-elfjaehriger-mit-dem-auto-seiner-eltern-gestoppt-a-1cfbdae3-aca3-4f43-8e74-bf82599d8b30#ref=rss)
-### annalena
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt](https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt-a-946db4f9-aff9-4882-b96f-494367c4db84#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt](https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt-a-946db4f9-aff9-4882-b96f-494367c4db84#ref=rss)
-### buch
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt](https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt-a-946db4f9-aff9-4882-b96f-494367c4db84#ref=rss)
-### erst
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt](https://www.spiegel.de/politik/deutschland/annalena-baerbock-buch-der-gruenenchefin-wird-nicht-mehr-gedruckt-a-946db4f9-aff9-4882-b96f-494367c4db84#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/extremwetter-in-kanada-erst-waldbraende-nun-flutwellen](https://www.spiegel.de/wissenschaft/mensch/extremwetter-in-kanada-erst-waldbraende-nun-flutwellen-a-ffb28ecb-67b3-4685-82d5-d89874bf89fa#ref=rss)
-### drittel
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/fast-ein-drittel-aller-ices-und-intercitys-kam-im-oktober-zu-spaet](https://www.spiegel.de/wirtschaft/unternehmen/fast-ein-drittel-aller-ices-und-intercitys-kam-im-oktober-zu-spaet-a-71743872-5d01-4b5b-b2eb-6085cb86328a#ref=rss)
-### aller
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/fast-ein-drittel-aller-ices-und-intercitys-kam-im-oktober-zu-spaet](https://www.spiegel.de/wirtschaft/unternehmen/fast-ein-drittel-aller-ices-und-intercitys-kam-im-oktober-zu-spaet-a-71743872-5d01-4b5b-b2eb-6085cb86328a#ref=rss)
-### taiwo
-
-* [https://www.spiegel.de/sport/fussball/fussball-quiz-womit-schrieb-union-berlins-taiwo-awoniyi-bundesliga-geschichte](https://www.spiegel.de/sport/fussball/fussball-quiz-womit-schrieb-union-berlins-taiwo-awoniyi-bundesliga-geschichte-a-6863f4ee-a5b9-46f4-8889-e99e2a2e9b92#ref=rss)
-### awoniyi
-
-* [https://www.spiegel.de/sport/fussball/fussball-quiz-womit-schrieb-union-berlins-taiwo-awoniyi-bundesliga-geschichte](https://www.spiegel.de/sport/fussball/fussball-quiz-womit-schrieb-union-berlins-taiwo-awoniyi-bundesliga-geschichte-a-6863f4ee-a5b9-46f4-8889-e99e2a2e9b92#ref=rss)
-### oskar
-
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-tritt-nicht-mehr-an](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-tritt-nicht-mehr-an-a-edd58c23-ae24-47f6-aed9-5d9f22c84cd0#ref=rss)
-### lafontaine
-
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-tritt-nicht-mehr-an](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-tritt-nicht-mehr-an-a-edd58c23-ae24-47f6-aed9-5d9f22c84cd0#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-tritt-nicht-mehr-an](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-tritt-nicht-mehr-an-a-edd58c23-ae24-47f6-aed9-5d9f22c84cd0#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-eroeffnet-vertretung-in-litauen-unter-eigenem-namen](https://www.spiegel.de/ausland/taiwan-eroeffnet-vertretung-in-litauen-unter-eigenem-namen-a-b644fb93-3501-4598-b2de-3abfadfedab5#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/politik/deutschland/oskar-lafontaine-tritt-nicht-mehr-an](https://www.spiegel.de/politik/deutschland/oskar-lafontaine-tritt-nicht-mehr-an-a-edd58c23-ae24-47f6-aed9-5d9f22c84cd0#ref=rss)
-* [https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union](https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union-a-0e5ff13f-02d5-4c94-8f00-92a5f8273892#ref=rss)
-### uniaufnahmeprüfung
-
-* [https://www.spiegel.de/start/uni-aufnahmepruefung-in-suedkorea-mehr-als-eine-halbe-million-menschen-schreiben-examen](https://www.spiegel.de/start/uni-aufnahmepruefung-in-suedkorea-mehr-als-eine-halbe-million-menschen-schreiben-examen-a-3897e858-682b-4d23-a347-2a5249aaacac#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/start/uni-aufnahmepruefung-in-suedkorea-mehr-als-eine-halbe-million-menschen-schreiben-examen](https://www.spiegel.de/start/uni-aufnahmepruefung-in-suedkorea-mehr-als-eine-halbe-million-menschen-schreiben-examen-a-3897e858-682b-4d23-a347-2a5249aaacac#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/start/uni-aufnahmepruefung-in-suedkorea-mehr-als-eine-halbe-million-menschen-schreiben-examen](https://www.spiegel.de/start/uni-aufnahmepruefung-in-suedkorea-mehr-als-eine-halbe-million-menschen-schreiben-examen-a-3897e858-682b-4d23-a347-2a5249aaacac#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/soziales/bund-verdoppelt-zuschuss-fuer-gesetzliche-krankenkassen](https://www.spiegel.de/wirtschaft/soziales/bund-verdoppelt-zuschuss-fuer-gesetzliche-krankenkassen-a-c8bebcea-c860-4327-8b68-e2647ea3d87e#ref=rss)
-* [https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte](https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte-a-4f518831-7e55-4f33-87c0-55f239af5ea5#ref=rss)
-### werther
-
-* [https://www.spiegel.de/panorama/justiz/werther-in-nordrhein-westfalen-elfjaehriger-mit-dem-auto-seiner-eltern-gestoppt](https://www.spiegel.de/panorama/justiz/werther-in-nordrhein-westfalen-elfjaehriger-mit-dem-auto-seiner-eltern-gestoppt-a-1cfbdae3-aca3-4f43-8e74-bf82599d8b30#ref=rss)
-### elfjähriger
-
-* [https://www.spiegel.de/panorama/justiz/werther-in-nordrhein-westfalen-elfjaehriger-mit-dem-auto-seiner-eltern-gestoppt](https://www.spiegel.de/panorama/justiz/werther-in-nordrhein-westfalen-elfjaehriger-mit-dem-auto-seiner-eltern-gestoppt-a-1cfbdae3-aca3-4f43-8e74-bf82599d8b30#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/justiz/werther-in-nordrhein-westfalen-elfjaehriger-mit-dem-auto-seiner-eltern-gestoppt](https://www.spiegel.de/panorama/justiz/werther-in-nordrhein-westfalen-elfjaehriger-mit-dem-auto-seiner-eltern-gestoppt-a-1cfbdae3-aca3-4f43-8e74-bf82599d8b30#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/panorama/justiz/werther-in-nordrhein-westfalen-elfjaehriger-mit-dem-auto-seiner-eltern-gestoppt](https://www.spiegel.de/panorama/justiz/werther-in-nordrhein-westfalen-elfjaehriger-mit-dem-auto-seiner-eltern-gestoppt-a-1cfbdae3-aca3-4f43-8e74-bf82599d8b30#ref=rss)
-### azeem
-
-* [https://www.spiegel.de/sport/cricket-und-der-fall-azeem-rafiq-einer-der-groessten-skandale-des-englischen-sports](https://www.spiegel.de/sport/cricket-und-der-fall-azeem-rafiq-einer-der-groessten-skandale-des-englischen-sports-a-c7e0da1b-b973-4422-a1a4-57224591aa9c#ref=rss)
-### rafiq
-
-* [https://www.spiegel.de/sport/cricket-und-der-fall-azeem-rafiq-einer-der-groessten-skandale-des-englischen-sports](https://www.spiegel.de/sport/cricket-und-der-fall-azeem-rafiq-einer-der-groessten-skandale-des-englischen-sports-a-c7e0da1b-b973-4422-a1a4-57224591aa9c#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/sport/cricket-und-der-fall-azeem-rafiq-einer-der-groessten-skandale-des-englischen-sports](https://www.spiegel.de/sport/cricket-und-der-fall-azeem-rafiq-einer-der-groessten-skandale-des-englischen-sports-a-c7e0da1b-b973-4422-a1a4-57224591aa9c#ref=rss)
-* [https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union](https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union-a-0e5ff13f-02d5-4c94-8f00-92a5f8273892#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/wissenschaft/mensch/extremwetter-in-kanada-erst-waldbraende-nun-flutwellen](https://www.spiegel.de/wissenschaft/mensch/extremwetter-in-kanada-erst-waldbraende-nun-flutwellen-a-ffb28ecb-67b3-4685-82d5-d89874bf89fa#ref=rss)
-### flutwellen
-
-* [https://www.spiegel.de/wissenschaft/mensch/extremwetter-in-kanada-erst-waldbraende-nun-flutwellen](https://www.spiegel.de/wissenschaft/mensch/extremwetter-in-kanada-erst-waldbraende-nun-flutwellen-a-ffb28ecb-67b3-4685-82d5-d89874bf89fa#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-mutmassliche-rechtsextremisten-wegen-waffenhandels-angeklagt](https://www.spiegel.de/panorama/justiz/muenchen-mutmassliche-rechtsextremisten-wegen-waffenhandels-angeklagt-a-681d28ca-bfd8-49d0-8214-ee1e70bbb21a#ref=rss)
-### wiedehopf
-
-* [https://www.spiegel.de/wissenschaft/wiedehopf-ist-vogel-des-jahres](https://www.spiegel.de/wissenschaft/wiedehopf-ist-vogel-des-jahres-a-2d7c0abc-6a87-42b4-adf3-679c97b612da#ref=rss)
-### jahres
-
-* [https://www.spiegel.de/wissenschaft/wiedehopf-ist-vogel-des-jahres](https://www.spiegel.de/wissenschaft/wiedehopf-ist-vogel-des-jahres-a-2d7c0abc-6a87-42b4-adf3-679c97b612da#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/fussball/atp-finals-alexander-zverev-im-halbfinale-gegen-novak-djokovic](https://www.spiegel.de/sport/fussball/atp-finals-alexander-zverev-im-halbfinale-gegen-novak-djokovic-a-79092e50-24e1-4f76-843c-be5fe53931c0#ref=rss)
-### zverev
-
-* [https://www.spiegel.de/sport/fussball/atp-finals-alexander-zverev-im-halbfinale-gegen-novak-djokovic](https://www.spiegel.de/sport/fussball/atp-finals-alexander-zverev-im-halbfinale-gegen-novak-djokovic-a-79092e50-24e1-4f76-843c-be5fe53931c0#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/corona-angela-merkel-streitet-mit-laenderchefs-ueber-einsatz-von-impfapothekern](https://www.spiegel.de/politik/deutschland/corona-angela-merkel-streitet-mit-laenderchefs-ueber-einsatz-von-impfapothekern-a-a2c41bd5-7b35-4f05-aaeb-eeb6f1f8762d#ref=rss)
-### länderchefs
-
-* [https://www.spiegel.de/politik/deutschland/corona-angela-merkel-streitet-mit-laenderchefs-ueber-einsatz-von-impfapothekern](https://www.spiegel.de/politik/deutschland/corona-angela-merkel-streitet-mit-laenderchefs-ueber-einsatz-von-impfapothekern-a-a2c41bd5-7b35-4f05-aaeb-eeb6f1f8762d#ref=rss)
-### streit
-
-* [https://www.spiegel.de/politik/deutschland/corona-angela-merkel-streitet-mit-laenderchefs-ueber-einsatz-von-impfapothekern](https://www.spiegel.de/politik/deutschland/corona-angela-merkel-streitet-mit-laenderchefs-ueber-einsatz-von-impfapothekern-a-a2c41bd5-7b35-4f05-aaeb-eeb6f1f8762d#ref=rss)
-* [https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union](https://www.spiegel.de/politik/corona-infektionsschutzgesetz-sorgt-fuer-streit-zwischen-ampel-und-union-a-0e5ff13f-02d5-4c94-8f00-92a5f8273892#ref=rss)
+* [https://www.spiegel.de/ausland/corona-pandemie-oesterreich-beschliesst-lockdown-und-impfpflicht](https://www.spiegel.de/ausland/corona-pandemie-oesterreich-beschliesst-lockdown-und-impfpflicht-a-4f595032-88ec-4b4e-86cc-86801e939508#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-freitag-bayerns-klinken-senden-dramatischen-hilferuf-wegen-corona-ueberlastung](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-freitag-bayerns-klinken-senden-dramatischen-hilferuf-wegen-corona-ueberlastung-a-d2e336e2-c201-4422-a7eb-96b59e9ef13e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein](https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein-a-6a40a0b4-6544-45cb-9cdf-02033941941d#ref=rss)
 ### großbritannien
 
-* [https://www.spiegel.de/wissenschaft/medizin/grossbritannien-delta-subtyp-fuer-mehr-als-jede-zehnte-corona-neuinfektion-verantwortlich](https://www.spiegel.de/wissenschaft/medizin/grossbritannien-delta-subtyp-fuer-mehr-als-jede-zehnte-corona-neuinfektion-verantwortlich-a-36f8390e-e17e-4a0e-a42c-8bc8dce3d4eb#ref=rss)
-### staatsanwaltschaft
+* [https://www.spiegel.de/panorama/gesellschaft/kim-kardashian-ermoeglicht-afghanischen-fussballerinnen-flucht-nach-grossbritannien](https://www.spiegel.de/panorama/gesellschaft/kim-kardashian-ermoeglicht-afghanischen-fussballerinnen-flucht-nach-grossbritannien-a-05ab08c1-e5f2-4704-892d-6f2988339a12#ref=rss)
+* [https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein](https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein-a-6a40a0b4-6544-45cb-9cdf-02033941941d#ref=rss)
+### brasilien
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/dieselskandal-staatsanwaltschaft-ermittelt-gegen-ex-fuehrungsspitze-von-continental](https://www.spiegel.de/wirtschaft/unternehmen/dieselskandal-staatsanwaltschaft-ermittelt-gegen-ex-fuehrungsspitze-von-continental-a-f667ebc7-cb00-4408-a3dc-39e3305a38f2#ref=rss)
-### continental
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt](https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt-a-bbd0a378-bc6b-4f88-b131-ca7397dc7a2a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/abholzung-im-amazonasgebiet-steigen-stark-an](https://www.spiegel.de/wirtschaft/abholzung-im-amazonasgebiet-steigen-stark-an-a-0bac1ad5-981b-471d-8706-9bfbf31f8082#ref=rss)
+### stacy
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/dieselskandal-staatsanwaltschaft-ermittelt-gegen-ex-fuehrungsspitze-von-continental](https://www.spiegel.de/wirtschaft/unternehmen/dieselskandal-staatsanwaltschaft-ermittelt-gegen-ex-fuehrungsspitze-von-continental-a-f667ebc7-cb00-4408-a3dc-39e3305a38f2#ref=rss)
-### mann
+* [https://www.spiegel.de/panorama/justiz/nfl-ex-profi-zac-stacy-wegen-mutmasslicher-koerperverletzung-in-florida-festgenommen](https://www.spiegel.de/panorama/justiz/nfl-ex-profi-zac-stacy-wegen-mutmasslicher-koerperverletzung-in-florida-festgenommen-a-b27d19c8-6fe8-4ee8-b38b-9e810e418a7b#ref=rss)
+### league
 
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-filmt-verunglueckten-beamten-und-verbreitet-das-video](https://www.spiegel.de/panorama/justiz/berlin-mann-filmt-verunglueckten-beamten-und-verbreitet-das-video-a-653a6469-9b53-42cf-9bdb-6b680f48a2af#ref=rss)
-* [https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte](https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte-a-4f518831-7e55-4f33-87c0-55f239af5ea5#ref=rss)
-### beamten
+* [https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen](https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen-a-9d435777-84c6-4912-89ff-b6f8fdb616ce#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-droht-das-aus-in-der-women-s-champions-league-nach-niederlage-gegen-juventus-turin](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-droht-das-aus-in-der-women-s-champions-league-nach-niederlage-gegen-juventus-turin-a-78eaf492-03cb-455e-93e5-2118e93f7b5b#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-filmt-verunglueckten-beamten-und-verbreitet-das-video](https://www.spiegel.de/panorama/justiz/berlin-mann-filmt-verunglueckten-beamten-und-verbreitet-das-video-a-653a6469-9b53-42cf-9bdb-6b680f48a2af#ref=rss)
-### video
+* [https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen](https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen-a-9d435777-84c6-4912-89ff-b6f8fdb616ce#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/manipulierte-abgaswerte-dieselskandal-ist-das-teuerste-schadensereignis-in-der-geschichte-der-rechtschutzversicherung](https://www.spiegel.de/wirtschaft/service/manipulierte-abgaswerte-dieselskandal-ist-das-teuerste-schadensereignis-in-der-geschichte-der-rechtschutzversicherung-a-e1cceed2-8407-4256-8199-78d29c8edf4c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/neue-auflagen-fuer-google-microsoft-und-co](https://www.spiegel.de/wirtschaft/unternehmen/neue-auflagen-fuer-google-microsoft-und-co-a-ba89e507-0c75-44e4-82bb-5f5687385d5f#ref=rss)
+### coronavirus
 
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-filmt-verunglueckten-beamten-und-verbreitet-das-video](https://www.spiegel.de/panorama/justiz/berlin-mann-filmt-verunglueckten-beamten-und-verbreitet-das-video-a-653a6469-9b53-42cf-9bdb-6b680f48a2af#ref=rss)
-### chemnitz
+* [https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel](https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel-a-b0b07325-314e-48a3-bcbb-a0d210a63ee0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage-a-aedc6ead-f595-4bff-8703-46d7c6948199#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/afd-und-corona-so-haengen-inzidenzen-und-wahlergebnisse-zusammen](https://www.spiegel.de/panorama/gesellschaft/afd-und-corona-so-haengen-inzidenzen-und-wahlergebnisse-zusammen-a-235e885c-b1f9-4a53-915d-505b677ad04a#ref=rss)
+### länder
 
-* [https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte](https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte-a-4f518831-7e55-4f33-87c0-55f239af5ea5#ref=rss)
-### messe
+* [https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel](https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel-a-b0b07325-314e-48a3-bcbb-a0d210a63ee0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen](https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen-a-ae2c350c-94d8-4b35-8347-bac71bca41c9#ref=rss)
+### bundesrat
 
-* [https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte](https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte-a-4f518831-7e55-4f33-87c0-55f239af5ea5#ref=rss)
-### sprengstoff
+* [https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel](https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel-a-b0b07325-314e-48a3-bcbb-a0d210a63ee0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen](https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen-a-ae2c350c-94d8-4b35-8347-bac71bca41c9#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte](https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte-a-4f518831-7e55-4f33-87c0-55f239af5ea5#ref=rss)
+* [https://www.spiegel.de/ausland/corona-pandemie-oesterreich-beschliesst-lockdown-und-impfpflicht](https://www.spiegel.de/ausland/corona-pandemie-oesterreich-beschliesst-lockdown-und-impfpflicht-a-4f595032-88ec-4b4e-86cc-86801e939508#ref=rss)
+* [https://www.spiegel.de/panorama/catcalling-laut-studie-des-kriminologischen-forschungsinstituts-niedersachsen-weitverbreitet](https://www.spiegel.de/panorama/catcalling-laut-studie-des-kriminologischen-forschungsinstituts-niedersachsen-weitverbreitet-a-f7ab2a44-4c71-464a-a25c-4f0c7cb5c7ef#ref=rss)
+* [https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein](https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein-a-6a40a0b4-6544-45cb-9cdf-02033941941d#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage-a-aedc6ead-f595-4bff-8703-46d7c6948199#ref=rss)
+* [https://www.spiegel.de/panorama/catcalling-laut-studie-des-kriminologischen-forschungsinstituts-niedersachsen-weitverbreitet](https://www.spiegel.de/panorama/catcalling-laut-studie-des-kriminologischen-forschungsinstituts-niedersachsen-weitverbreitet-a-f7ab2a44-4c71-464a-a25c-4f0c7cb5c7ef#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/wirtschaft/service/3g-am-arbeitsplatz-ungeimpfte-beschaeftigte-muessen-selbst-fuer-corona-testnachweise-sorgen](https://www.spiegel.de/wirtschaft/service/3g-am-arbeitsplatz-ungeimpfte-beschaeftigte-muessen-selbst-fuer-corona-testnachweise-sorgen-a-84904ece-4b0a-404c-812b-31670602e2f9#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/afd-und-corona-so-haengen-inzidenzen-und-wahlergebnisse-zusammen](https://www.spiegel.de/panorama/gesellschaft/afd-und-corona-so-haengen-inzidenzen-und-wahlergebnisse-zusammen-a-235e885c-b1f9-4a53-915d-505b677ad04a#ref=rss)
+### stark
+
+* [https://www.spiegel.de/panorama/gesellschaft/afd-und-corona-so-haengen-inzidenzen-und-wahlergebnisse-zusammen](https://www.spiegel.de/panorama/gesellschaft/afd-und-corona-so-haengen-inzidenzen-und-wahlergebnisse-zusammen-a-235e885c-b1f9-4a53-915d-505b677ad04a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/erzeugerpreise-steigen-so-stark-wie-seit-70-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/erzeugerpreise-steigen-so-stark-wie-seit-70-jahren-nicht-mehr-a-8dacb2c0-232a-4a32-b532-34e541a5a0f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/abholzung-im-amazonasgebiet-steigen-stark-an](https://www.spiegel.de/wirtschaft/abholzung-im-amazonasgebiet-steigen-stark-an-a-0bac1ad5-981b-471d-8706-9bfbf31f8082#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-freitag-bayerns-klinken-senden-dramatischen-hilferuf-wegen-corona-ueberlastung](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-freitag-bayerns-klinken-senden-dramatischen-hilferuf-wegen-corona-ueberlastung-a-d2e336e2-c201-4422-a7eb-96b59e9ef13e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen](https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen-a-ae2c350c-94d8-4b35-8347-bac71bca41c9#ref=rss)
+### berthasaura
+
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt](https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt-a-bbd0a378-bc6b-4f88-b131-ca7397dc7a2a#ref=rss)
+### leopoldinae
+
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt](https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt-a-bbd0a378-bc6b-4f88-b131-ca7397dc7a2a#ref=rss)
+### entdeckt
+
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt](https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt-a-bbd0a378-bc6b-4f88-b131-ca7397dc7a2a#ref=rss)
+* [https://www.spiegel.de/panorama/mexiko-neun-leichen-an-bruecke-aufgehaengt](https://www.spiegel.de/panorama/mexiko-neun-leichen-an-bruecke-aufgehaengt-a-5bd02222-4950-4e17-9615-a2955de331bd#ref=rss)
+### feministin
+
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt](https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt-a-bbd0a378-bc6b-4f88-b131-ca7397dc7a2a#ref=rss)
+### benannt
+
+* [https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt](https://www.spiegel.de/wissenschaft/natur/brasilien-berthasaura-leopoldinae-neue-dinosaurierart-entdeckt-und-nach-feministin-benannt-a-bbd0a378-bc6b-4f88-b131-ca7397dc7a2a#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-kevin-mccarthy-verzoegert-mit-marathonrede-abstimmung-ueber-joe-bidens-billionenpaket](https://www.spiegel.de/ausland/usa-kevin-mccarthy-verzoegert-mit-marathonrede-abstimmung-ueber-joe-bidens-billionenpaket-a-bb30f7e1-3ef9-4c25-8934-7e7d676a012a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen](https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen-a-9d435777-84c6-4912-89ff-b6f8fdb616ce#ref=rss)
+### mccarthy
+
+* [https://www.spiegel.de/ausland/usa-kevin-mccarthy-verzoegert-mit-marathonrede-abstimmung-ueber-joe-bidens-billionenpaket](https://www.spiegel.de/ausland/usa-kevin-mccarthy-verzoegert-mit-marathonrede-abstimmung-ueber-joe-bidens-billionenpaket-a-bb30f7e1-3ef9-4c25-8934-7e7d676a012a#ref=rss)
+### stand
+
+* [https://www.spiegel.de/ausland/usa-kevin-mccarthy-verzoegert-mit-marathonrede-abstimmung-ueber-joe-bidens-billionenpaket](https://www.spiegel.de/ausland/usa-kevin-mccarthy-verzoegert-mit-marathonrede-abstimmung-ueber-joe-bidens-billionenpaket-a-bb30f7e1-3ef9-4c25-8934-7e7d676a012a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/heidelberg-paketbomben-prozess-gericht-spricht-angeklagten-frei](https://www.spiegel.de/panorama/justiz/heidelberg-paketbomben-prozess-gericht-spricht-angeklagten-frei-a-d7b1bc22-0cf3-4f60-af07-96780f2da4a2#ref=rss)
+### corona
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen](https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen-a-57d377b2-51f4-4a2a-ae73-c6a463867c0a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/afd-und-corona-so-haengen-inzidenzen-und-wahlergebnisse-zusammen](https://www.spiegel.de/panorama/gesellschaft/afd-und-corona-so-haengen-inzidenzen-und-wahlergebnisse-zusammen-a-235e885c-b1f9-4a53-915d-505b677ad04a#ref=rss)
+### modellierer
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen](https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen-a-57d377b2-51f4-4a2a-ae73-c6a463867c0a#ref=rss)
+### dirk
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen](https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen-a-57d377b2-51f4-4a2a-ae73-c6a463867c0a#ref=rss)
+### brockmann
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen](https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen-a-57d377b2-51f4-4a2a-ae73-c6a463867c0a#ref=rss)
+### pandemie
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen](https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen-a-57d377b2-51f4-4a2a-ae73-c6a463867c0a#ref=rss)
+* [https://www.spiegel.de/kultur/warum-spielen-immer-mehr-menschen-schach-podcast](https://www.spiegel.de/kultur/warum-spielen-immer-mehr-menschen-schach-podcast-a-c1cf837d-9bda-4d4a-959a-29324665f050#ref=rss)
+### inzidenz
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen](https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen-a-57d377b2-51f4-4a2a-ae73-c6a463867c0a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-freitag-bayerns-klinken-senden-dramatischen-hilferuf-wegen-corona-ueberlastung](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-freitag-bayerns-klinken-senden-dramatischen-hilferuf-wegen-corona-ueberlastung-a-d2e336e2-c201-4422-a7eb-96b59e9ef13e#ref=rss)
+### wir
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen](https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen-a-57d377b2-51f4-4a2a-ae73-c6a463867c0a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage-a-aedc6ead-f595-4bff-8703-46d7c6948199#ref=rss)
+### shutdown
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen](https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen-a-57d377b2-51f4-4a2a-ae73-c6a463867c0a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein](https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein-a-6a40a0b4-6544-45cb-9cdf-02033941941d#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen](https://www.spiegel.de/wissenschaft/medizin/corona-modellierer-dirk-brockmann-zum-verlauf-der-pandemie-2g-wird-nicht-reichen-a-57d377b2-51f4-4a2a-ae73-c6a463867c0a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-freitag-bayerns-klinken-senden-dramatischen-hilferuf-wegen-corona-ueberlastung](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-freitag-bayerns-klinken-senden-dramatischen-hilferuf-wegen-corona-ueberlastung-a-d2e336e2-c201-4422-a7eb-96b59e9ef13e#ref=rss)
+### zac
+
+* [https://www.spiegel.de/panorama/justiz/nfl-ex-profi-zac-stacy-wegen-mutmasslicher-koerperverletzung-in-florida-festgenommen](https://www.spiegel.de/panorama/justiz/nfl-ex-profi-zac-stacy-wegen-mutmasslicher-koerperverletzung-in-florida-festgenommen-a-b27d19c8-6fe8-4ee8-b38b-9e810e418a7b#ref=rss)
+### florida
+
+* [https://www.spiegel.de/panorama/justiz/nfl-ex-profi-zac-stacy-wegen-mutmasslicher-koerperverletzung-in-florida-festgenommen](https://www.spiegel.de/panorama/justiz/nfl-ex-profi-zac-stacy-wegen-mutmasslicher-koerperverletzung-in-florida-festgenommen-a-b27d19c8-6fe8-4ee8-b38b-9e810e418a7b#ref=rss)
+### christian
+
+* [https://www.spiegel.de/kultur/christian-krachts-eurotrash-an-der-schaubuehne-eine-grosse-rampensauerei](https://www.spiegel.de/kultur/christian-krachts-eurotrash-an-der-schaubuehne-eine-grosse-rampensauerei-a-78be5b84-c80a-4718-8be6-749607c80c5a#ref=rss)
+### eurotrash
+
+* [https://www.spiegel.de/kultur/christian-krachts-eurotrash-an-der-schaubuehne-eine-grosse-rampensauerei](https://www.spiegel.de/kultur/christian-krachts-eurotrash-an-der-schaubuehne-eine-grosse-rampensauerei-a-78be5b84-c80a-4718-8be6-749607c80c5a#ref=rss)
+### bestsellerautor
+
+* [https://www.spiegel.de/kultur/christian-krachts-eurotrash-an-der-schaubuehne-eine-grosse-rampensauerei](https://www.spiegel.de/kultur/christian-krachts-eurotrash-an-der-schaubuehne-eine-grosse-rampensauerei-a-78be5b84-c80a-4718-8be6-749607c80c5a#ref=rss)
+### gorch
+
+* [https://www.spiegel.de/politik/deutschland/gorch-fock-bricht-nach-jahrelanger-sanierung-auf-in-richtung-kanaren](https://www.spiegel.de/politik/deutschland/gorch-fock-bricht-nach-jahrelanger-sanierung-auf-in-richtung-kanaren-a-9a966eed-a03f-46cc-b1b3-8499218dec65#ref=rss)
+### fock
+
+* [https://www.spiegel.de/politik/deutschland/gorch-fock-bricht-nach-jahrelanger-sanierung-auf-in-richtung-kanaren](https://www.spiegel.de/politik/deutschland/gorch-fock-bricht-nach-jahrelanger-sanierung-auf-in-richtung-kanaren-a-9a966eed-a03f-46cc-b1b3-8499218dec65#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/politik/deutschland/gorch-fock-bricht-nach-jahrelanger-sanierung-auf-in-richtung-kanaren](https://www.spiegel.de/politik/deutschland/gorch-fock-bricht-nach-jahrelanger-sanierung-auf-in-richtung-kanaren-a-9a966eed-a03f-46cc-b1b3-8499218dec65#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/impfstoffhersteller-curevac-macht-143-millionen-euro-verlust](https://www.spiegel.de/wirtschaft/unternehmen/impfstoffhersteller-curevac-macht-143-millionen-euro-verlust-a-8bec13dc-09c6-4f1f-8c42-27f37478c56a#ref=rss)
+### konnte
+
+* [https://www.spiegel.de/politik/deutschland/gorch-fock-bricht-nach-jahrelanger-sanierung-auf-in-richtung-kanaren](https://www.spiegel.de/politik/deutschland/gorch-fock-bricht-nach-jahrelanger-sanierung-auf-in-richtung-kanaren-a-9a966eed-a03f-46cc-b1b3-8499218dec65#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/impfstoffhersteller-curevac-macht-143-millionen-euro-verlust](https://www.spiegel.de/wirtschaft/unternehmen/impfstoffhersteller-curevac-macht-143-millionen-euro-verlust-a-8bec13dc-09c6-4f1f-8c42-27f37478c56a#ref=rss)
+### zugspitze
+
+* [https://www.spiegel.de/panorama/zugspitze-wintersaison-beginnt-trotz-steigender-corona-infektionszahlen](https://www.spiegel.de/panorama/zugspitze-wintersaison-beginnt-trotz-steigender-corona-infektionszahlen-a-35000143-a097-43a7-8797-6305182f5f34#ref=rss)
+### lage
+
+* [https://www.spiegel.de/panorama/zugspitze-wintersaison-beginnt-trotz-steigender-corona-infektionszahlen](https://www.spiegel.de/panorama/zugspitze-wintersaison-beginnt-trotz-steigender-corona-infektionszahlen-a-35000143-a097-43a7-8797-6305182f5f34#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage-a-aedc6ead-f595-4bff-8703-46d7c6948199#ref=rss)
+### amerikanische
+
+* [https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen](https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen-a-9d435777-84c6-4912-89ff-b6f8fdb616ce#ref=rss)
+* [https://www.spiegel.de/kultur/warum-spielen-immer-mehr-menschen-schach-podcast](https://www.spiegel.de/kultur/warum-spielen-immer-mehr-menschen-schach-podcast-a-c1cf837d-9bda-4d4a-959a-29324665f050#ref=rss)
+### alle
+
+* [https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen](https://www.spiegel.de/sport/fussball/premier-league-us-tv-deal-soll-rund-2-4-milliarden-euro-bringen-a-9d435777-84c6-4912-89ff-b6f8fdb616ce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage-a-aedc6ead-f595-4bff-8703-46d7c6948199#ref=rss)
+### stralsund
+
+* [https://www.spiegel.de/panorama/justiz/stralsund-autofahrer-flieht-mit-tempo-200-vor-polizei](https://www.spiegel.de/panorama/justiz/stralsund-autofahrer-flieht-mit-tempo-200-vor-polizei-a-ad79a9d2-455e-4bc6-afcd-3fc0484110ad#ref=rss)
+### 200
+
+* [https://www.spiegel.de/panorama/justiz/stralsund-autofahrer-flieht-mit-tempo-200-vor-polizei](https://www.spiegel.de/panorama/justiz/stralsund-autofahrer-flieht-mit-tempo-200-vor-polizei-a-ad79a9d2-455e-4bc6-afcd-3fc0484110ad#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte](https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte-a-4f518831-7e55-4f33-87c0-55f239af5ea5#ref=rss)
-### vergessen
+* [https://www.spiegel.de/panorama/justiz/stralsund-autofahrer-flieht-mit-tempo-200-vor-polizei](https://www.spiegel.de/panorama/justiz/stralsund-autofahrer-flieht-mit-tempo-200-vor-polizei-a-ad79a9d2-455e-4bc6-afcd-3fc0484110ad#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte](https://www.spiegel.de/panorama/chemnitz-mann-findet-in-messe-sprengstoff-den-die-polizei-sachsen-vergessen-hatte-a-4f518831-7e55-4f33-87c0-55f239af5ea5#ref=rss)
-### taiwan
+* [https://www.spiegel.de/kultur/warum-spielen-immer-mehr-menschen-schach-podcast](https://www.spiegel.de/kultur/warum-spielen-immer-mehr-menschen-schach-podcast-a-c1cf837d-9bda-4d4a-959a-29324665f050#ref=rss)
+* [https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein](https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein-a-6a40a0b4-6544-45cb-9cdf-02033941941d#ref=rss)
+### stimmen
 
-* [https://www.spiegel.de/ausland/taiwan-eroeffnet-vertretung-in-litauen-unter-eigenem-namen](https://www.spiegel.de/ausland/taiwan-eroeffnet-vertretung-in-litauen-unter-eigenem-namen-a-b644fb93-3501-4598-b2de-3abfadfedab5#ref=rss)
-### vertretung
+* [https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel](https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel-a-b0b07325-314e-48a3-bcbb-a0d210a63ee0#ref=rss)
+* [https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung](https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung-a-cb8ea75e-11f0-44b9-9701-c780fd8dfe09#ref=rss)
+### unionsgeführten
 
-* [https://www.spiegel.de/ausland/taiwan-eroeffnet-vertretung-in-litauen-unter-eigenem-namen](https://www.spiegel.de/ausland/taiwan-eroeffnet-vertretung-in-litauen-unter-eigenem-namen-a-b644fb93-3501-4598-b2de-3abfadfedab5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel](https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel-a-b0b07325-314e-48a3-bcbb-a0d210a63ee0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen](https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen-a-ae2c350c-94d8-4b35-8347-bac71bca41c9#ref=rss)
+### neufassung
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel](https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel-a-b0b07325-314e-48a3-bcbb-a0d210a63ee0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen](https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen-a-ae2c350c-94d8-4b35-8347-bac71bca41c9#ref=rss)
+### infektionsschutzgesetzes
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel](https://www.spiegel.de/politik/deutschland/coronavirus-laender-im-bundesrat-stimmen-fuer-corona-massnahmen-der-ampel-a-b0b07325-314e-48a3-bcbb-a0d210a63ee0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen](https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen-a-ae2c350c-94d8-4b35-8347-bac71bca41c9#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/corona-pandemie-oesterreich-beschliesst-lockdown-und-impfpflicht](https://www.spiegel.de/ausland/corona-pandemie-oesterreich-beschliesst-lockdown-und-impfpflicht-a-4f595032-88ec-4b4e-86cc-86801e939508#ref=rss)
+### ungeimpfte
+
+* [https://www.spiegel.de/ausland/corona-pandemie-oesterreich-beschliesst-lockdown-und-impfpflicht](https://www.spiegel.de/ausland/corona-pandemie-oesterreich-beschliesst-lockdown-und-impfpflicht-a-4f595032-88ec-4b4e-86cc-86801e939508#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/3g-am-arbeitsplatz-ungeimpfte-beschaeftigte-muessen-selbst-fuer-corona-testnachweise-sorgen](https://www.spiegel.de/wirtschaft/service/3g-am-arbeitsplatz-ungeimpfte-beschaeftigte-muessen-selbst-fuer-corona-testnachweise-sorgen-a-84904ece-4b0a-404c-812b-31670602e2f9#ref=rss)
+### jens
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage-a-aedc6ead-f595-4bff-8703-46d7c6948199#ref=rss)
+### spahn
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage-a-aedc6ead-f595-4bff-8703-46d7c6948199#ref=rss)
+### notlage
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-ueber-aktuelle-lage-wir-sind-in-einer-nationalen-notlage-a-aedc6ead-f595-4bff-8703-46d7c6948199#ref=rss)
+### heidelberg
+
+* [https://www.spiegel.de/panorama/justiz/heidelberg-paketbomben-prozess-gericht-spricht-angeklagten-frei](https://www.spiegel.de/panorama/justiz/heidelberg-paketbomben-prozess-gericht-spricht-angeklagten-frei-a-d7b1bc22-0cf3-4f60-af07-96780f2da4a2#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/panorama/justiz/heidelberg-paketbomben-prozess-gericht-spricht-angeklagten-frei](https://www.spiegel.de/panorama/justiz/heidelberg-paketbomben-prozess-gericht-spricht-angeklagten-frei-a-d7b1bc22-0cf3-4f60-af07-96780f2da4a2#ref=rss)
+### dieselskandal
+
+* [https://www.spiegel.de/wirtschaft/service/manipulierte-abgaswerte-dieselskandal-ist-das-teuerste-schadensereignis-in-der-geschichte-der-rechtschutzversicherung](https://www.spiegel.de/wirtschaft/service/manipulierte-abgaswerte-dieselskandal-ist-das-teuerste-schadensereignis-in-der-geschichte-der-rechtschutzversicherung-a-e1cceed2-8407-4256-8199-78d29c8edf4c#ref=rss)
+### afd
+
+* [https://www.spiegel.de/panorama/gesellschaft/afd-und-corona-so-haengen-inzidenzen-und-wahlergebnisse-zusammen](https://www.spiegel.de/panorama/gesellschaft/afd-und-corona-so-haengen-inzidenzen-und-wahlergebnisse-zusammen-a-235e885c-b1f9-4a53-915d-505b677ad04a#ref=rss)
+### catcalling
+
+* [https://www.spiegel.de/panorama/catcalling-laut-studie-des-kriminologischen-forschungsinstituts-niedersachsen-weitverbreitet](https://www.spiegel.de/panorama/catcalling-laut-studie-des-kriminologischen-forschungsinstituts-niedersachsen-weitverbreitet-a-f7ab2a44-4c71-464a-a25c-4f0c7cb5c7ef#ref=rss)
+### studie
+
+* [https://www.spiegel.de/panorama/catcalling-laut-studie-des-kriminologischen-forschungsinstituts-niedersachsen-weitverbreitet](https://www.spiegel.de/panorama/catcalling-laut-studie-des-kriminologischen-forschungsinstituts-niedersachsen-weitverbreitet-a-f7ab2a44-4c71-464a-a25c-4f0c7cb5c7ef#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wirtschaft/erzeugerpreise-steigen-so-stark-wie-seit-70-jahren-nicht-mehr](https://www.spiegel.de/wirtschaft/erzeugerpreise-steigen-so-stark-wie-seit-70-jahren-nicht-mehr-a-8dacb2c0-232a-4a32-b532-34e541a5a0f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/abholzung-im-amazonasgebiet-steigen-stark-an](https://www.spiegel.de/wirtschaft/abholzung-im-amazonasgebiet-steigen-stark-an-a-0bac1ad5-981b-471d-8706-9bfbf31f8082#ref=rss)
+### leichen
+
+* [https://www.spiegel.de/panorama/mexiko-neun-leichen-an-bruecke-aufgehaengt](https://www.spiegel.de/panorama/mexiko-neun-leichen-an-bruecke-aufgehaengt-a-5bd02222-4950-4e17-9615-a2955de331bd#ref=rss)
+### fall
+
+* [https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung](https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung-a-cb8ea75e-11f0-44b9-9701-c780fd8dfe09#ref=rss)
+### peng
+
+* [https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung](https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung-a-cb8ea75e-11f0-44b9-9701-c780fd8dfe09#ref=rss)
+### shuai
+
+* [https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung](https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung-a-cb8ea75e-11f0-44b9-9701-c780fd8dfe09#ref=rss)
+### serena
+
+* [https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung](https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung-a-cb8ea75e-11f0-44b9-9701-c780fd8dfe09#ref=rss)
+### williams
+
+* [https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung](https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung-a-cb8ea75e-11f0-44b9-9701-c780fd8dfe09#ref=rss)
+### aufklärung
+
+* [https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung](https://www.spiegel.de/sport/tennis/fall-peng-shuai-auch-serena-williams-fordert-aufklaerung-a-cb8ea75e-11f0-44b9-9701-c780fd8dfe09#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-droht-das-aus-in-der-women-s-champions-league-nach-niederlage-gegen-juventus-turin](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-droht-das-aus-in-der-women-s-champions-league-nach-niederlage-gegen-juventus-turin-a-78eaf492-03cb-455e-93e5-2118e93f7b5b#ref=rss)
+### vfl
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-droht-das-aus-in-der-women-s-champions-league-nach-niederlage-gegen-juventus-turin](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-droht-das-aus-in-der-women-s-champions-league-nach-niederlage-gegen-juventus-turin-a-78eaf492-03cb-455e-93e5-2118e93f7b5b#ref=rss)
+### wolfsburg
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-droht-das-aus-in-der-women-s-champions-league-nach-niederlage-gegen-juventus-turin](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-droht-das-aus-in-der-women-s-champions-league-nach-niederlage-gegen-juventus-turin-a-78eaf492-03cb-455e-93e5-2118e93f7b5b#ref=rss)
+### juventus
+
+* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-droht-das-aus-in-der-women-s-champions-league-nach-niederlage-gegen-juventus-turin](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-droht-das-aus-in-der-women-s-champions-league-nach-niederlage-gegen-juventus-turin-a-78eaf492-03cb-455e-93e5-2118e93f7b5b#ref=rss)
+### kim
+
+* [https://www.spiegel.de/panorama/gesellschaft/kim-kardashian-ermoeglicht-afghanischen-fussballerinnen-flucht-nach-grossbritannien](https://www.spiegel.de/panorama/gesellschaft/kim-kardashian-ermoeglicht-afghanischen-fussballerinnen-flucht-nach-grossbritannien-a-05ab08c1-e5f2-4704-892d-6f2988339a12#ref=rss)
+### kardashian
+
+* [https://www.spiegel.de/panorama/gesellschaft/kim-kardashian-ermoeglicht-afghanischen-fussballerinnen-flucht-nach-grossbritannien](https://www.spiegel.de/panorama/gesellschaft/kim-kardashian-ermoeglicht-afghanischen-fussballerinnen-flucht-nach-grossbritannien-a-05ab08c1-e5f2-4704-892d-6f2988339a12#ref=rss)
+### afghanischen
+
+* [https://www.spiegel.de/panorama/gesellschaft/kim-kardashian-ermoeglicht-afghanischen-fussballerinnen-flucht-nach-grossbritannien](https://www.spiegel.de/panorama/gesellschaft/kim-kardashian-ermoeglicht-afghanischen-fussballerinnen-flucht-nach-grossbritannien-a-05ab08c1-e5f2-4704-892d-6f2988339a12#ref=rss)
+### flucht
+
+* [https://www.spiegel.de/panorama/gesellschaft/kim-kardashian-ermoeglicht-afghanischen-fussballerinnen-flucht-nach-grossbritannien](https://www.spiegel.de/panorama/gesellschaft/kim-kardashian-ermoeglicht-afghanischen-fussballerinnen-flucht-nach-grossbritannien-a-05ab08c1-e5f2-4704-892d-6f2988339a12#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/neue-auflagen-fuer-google-microsoft-und-co](https://www.spiegel.de/wirtschaft/unternehmen/neue-auflagen-fuer-google-microsoft-und-co-a-ba89e507-0c75-44e4-82bb-5f5687385d5f#ref=rss)
+### abholzung
+
+* [https://www.spiegel.de/wirtschaft/abholzung-im-amazonasgebiet-steigen-stark-an](https://www.spiegel.de/wirtschaft/abholzung-im-amazonasgebiet-steigen-stark-an-a-0bac1ad5-981b-471d-8706-9bfbf31f8082#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/cdu-spitze-reiner-haseloff-unterstuetzt-friedrich-merz-als-parteivorsitzenden](https://www.spiegel.de/politik/deutschland/cdu-spitze-reiner-haseloff-unterstuetzt-friedrich-merz-als-parteivorsitzenden-a-ff3408dd-4e86-495d-9286-7c86ab8d7c78#ref=rss)
+### haseloff
+
+* [https://www.spiegel.de/politik/deutschland/cdu-spitze-reiner-haseloff-unterstuetzt-friedrich-merz-als-parteivorsitzenden](https://www.spiegel.de/politik/deutschland/cdu-spitze-reiner-haseloff-unterstuetzt-friedrich-merz-als-parteivorsitzenden-a-ff3408dd-4e86-495d-9286-7c86ab8d7c78#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/cdu-spitze-reiner-haseloff-unterstuetzt-friedrich-merz-als-parteivorsitzenden](https://www.spiegel.de/politik/deutschland/cdu-spitze-reiner-haseloff-unterstuetzt-friedrich-merz-als-parteivorsitzenden-a-ff3408dd-4e86-495d-9286-7c86ab8d7c78#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/cdu-spitze-reiner-haseloff-unterstuetzt-friedrich-merz-als-parteivorsitzenden](https://www.spiegel.de/politik/deutschland/cdu-spitze-reiner-haseloff-unterstuetzt-friedrich-merz-als-parteivorsitzenden-a-ff3408dd-4e86-495d-9286-7c86ab8d7c78#ref=rss)
+### sachsen
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen](https://www.spiegel.de/politik/deutschland/coronavirus-sachsen-will-neufassung-des-infektionsschutzgesetzes-zustimmen-a-ae2c350c-94d8-4b35-8347-bac71bca41c9#ref=rss)
+### briten
+
+* [https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein](https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein-a-6a40a0b4-6544-45cb-9cdf-02033941941d#ref=rss)
+### bier
+
+* [https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein](https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein-a-6a40a0b4-6544-45cb-9cdf-02033941941d#ref=rss)
+### schnaps
+
+* [https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein](https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein-a-6a40a0b4-6544-45cb-9cdf-02033941941d#ref=rss)
+### wein
+
+* [https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein](https://www.spiegel.de/wirtschaft/briten-tranken-im-lockdown-weniger-bier-aber-mehr-schnaps-und-wein-a-6a40a0b4-6544-45cb-9cdf-02033941941d#ref=rss)
 
