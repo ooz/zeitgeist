@@ -4,303 +4,331 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist](https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist-a-581a776f-c092-455e-a856-f0c9bf20d481#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-in-der-impf-debatte-sahra-wagenknecht-im-impf-streit-isoliert](https://www.spiegel.de/politik/deutschland/linke-in-der-impf-debatte-sahra-wagenknecht-im-impf-streit-isoliert-a-e4572bdd-e930-4f1f-a07c-11a027de9531#ref=rss)
-* [https://www.spiegel.de/ausland/suedafrika-20-prozent-mehr-morde-als-im-vergleich-zum-vorjahr](https://www.spiegel.de/ausland/suedafrika-20-prozent-mehr-morde-als-im-vergleich-zum-vorjahr-a-d8240339-7d22-43a5-be82-7a0ae9c4ee4d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-wieder-fdp-spitzenkandidat-werden](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-wieder-fdp-spitzenkandidat-werden-a-e8c1ad2f-2160-4b88-9ec5-e2ac94af4d78#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/ausland/fluechtlinge-in-belarus-an-der-grenze-gibt-es-endlich-gute-nachrichten-aus-deutschland](https://www.spiegel.de/ausland/fluechtlinge-in-belarus-an-der-grenze-gibt-es-endlich-gute-nachrichten-aus-deutschland-a-df25b5a5-299a-4ec9-8bfe-9e67b92ea0a0#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-irakische-gefluechtete-berichten-nach-rueckkehr-von-folter](https://www.spiegel.de/ausland/belarus-irakische-gefluechtete-berichten-nach-rueckkehr-von-folter-a-27356b93-f48b-4d84-9d38-e0a206c4ee1e#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/fluechtlinge-in-belarus-an-der-grenze-gibt-es-endlich-gute-nachrichten-aus-deutschland](https://www.spiegel.de/ausland/fluechtlinge-in-belarus-an-der-grenze-gibt-es-endlich-gute-nachrichten-aus-deutschland-a-df25b5a5-299a-4ec9-8bfe-9e67b92ea0a0#ref=rss)
-* [https://www.spiegel.de/ausland/wien-zehntausende-gehen-gegen-lockdown-auf-die-strasse](https://www.spiegel.de/ausland/wien-zehntausende-gehen-gegen-lockdown-auf-die-strasse-a-0e23ea2f-8f84-400c-b846-25db59ade63b#ref=rss)
-* [https://www.spiegel.de/panorama/die-rettungsflieger-tv-doku-reihe-bei-nitro](https://www.spiegel.de/panorama/die-rettungsflieger-tv-doku-reihe-bei-nitro-a-c93a3abc-eb41-4df2-a20c-68da6e303a6f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-startet-ausschreibung-fuer-ein-kernkraftwerk-auf-dem-mond](https://www.spiegel.de/wissenschaft/weltall/nasa-startet-ausschreibung-fuer-ein-kernkraftwerk-auf-dem-mond-a-e99bcc6c-8336-452b-8df7-4d07f2f7d1b1#ref=rss)
-### drei
-
-* [https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen](https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen-a-f83911d1-803c-4f70-b844-09d93ba2ee15#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi-a-baf8f9e2-3f32-438f-bb10-9016d1708f7d#ref=rss)
-* [https://www.spiegel.de/start/studium-in-der-corona-pandemie-praesenz-oder-online-lehre](https://www.spiegel.de/start/studium-in-der-corona-pandemie-praesenz-oder-online-lehre-a-dd573511-7d1c-49ae-9135-63b6dd8e3ea0#ref=rss)
-* [https://www.spiegel.de/ausland/suedafrika-20-prozent-mehr-morde-als-im-vergleich-zum-vorjahr](https://www.spiegel.de/ausland/suedafrika-20-prozent-mehr-morde-als-im-vergleich-zum-vorjahr-a-d8240339-7d22-43a5-be82-7a0ae9c4ee4d#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/deutschland/linke-in-der-impf-debatte-sahra-wagenknecht-im-impf-streit-isoliert](https://www.spiegel.de/politik/deutschland/linke-in-der-impf-debatte-sahra-wagenknecht-im-impf-streit-isoliert-a-e4572bdd-e930-4f1f-a07c-11a027de9531#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-in-thueringen-linke-fordert-impfpflicht-fuer-alle](https://www.spiegel.de/politik/deutschland/corona-in-thueringen-linke-fordert-impfpflicht-fuer-alle-a-b0b863fc-8e26-4db9-b087-46efbe13b43f#ref=rss)
-### belarus
-
-* [https://www.spiegel.de/ausland/fluechtlinge-in-belarus-an-der-grenze-gibt-es-endlich-gute-nachrichten-aus-deutschland](https://www.spiegel.de/ausland/fluechtlinge-in-belarus-an-der-grenze-gibt-es-endlich-gute-nachrichten-aus-deutschland-a-df25b5a5-299a-4ec9-8bfe-9e67b92ea0a0#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-irakische-gefluechtete-berichten-nach-rueckkehr-von-folter](https://www.spiegel.de/ausland/belarus-irakische-gefluechtete-berichten-nach-rueckkehr-von-folter-a-27356b93-f48b-4d84-9d38-e0a206c4ee1e#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/ausland/sebastian-kurz-die-fpoe-und-die-ibiza-affaere-podcast](https://www.spiegel.de/ausland/sebastian-kurz-die-fpoe-und-die-ibiza-affaere-podcast-a-148a9d89-70a8-4493-97d4-5cdb795ef3be#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-die-wut-auf-ungeimpfte-greift-zu-kurz-ein-kommentar](https://www.spiegel.de/wissenschaft/medizin/coronavirus-die-wut-auf-ungeimpfte-greift-zu-kurz-ein-kommentar-a-6ae7faaa-3b45-4a3f-a3c9-b4d49b7cb6da#ref=rss)
-### wir
-
-* [https://www.spiegel.de/gesundheit/cannabis-legalisierung-kommt-wie-steht-es-um-das-deutsche-gras](https://www.spiegel.de/gesundheit/cannabis-legalisierung-kommt-wie-steht-es-um-das-deutsche-gras-a-f52d00cc-b2f3-4cce-93a0-1172f064a5d0#ref=rss)
-* [https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist](https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist-a-581a776f-c092-455e-a856-f0c9bf20d481#ref=rss)
-### lena
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi-a-baf8f9e2-3f32-438f-bb10-9016d1708f7d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/seltene-erden-wie-bakterien-beim-recycling-der-wichtigen-rohstoffe-helfen](https://www.spiegel.de/wissenschaft/natur/seltene-erden-wie-bakterien-beim-recycling-der-wichtigen-rohstoffe-helfen-a-293f588a-de7b-4f20-aa60-cbf52a0607dc#ref=rss)
-### davon
-
-* [https://www.spiegel.de/tests/brettspiele/brettspiele-die-im-alten-aegypten-spielen-bitte-tutanchamun-nichts](https://www.spiegel.de/tests/brettspiele/brettspiele-die-im-alten-aegypten-spielen-bitte-tutanchamun-nichts-a-64bb215c-67f4-41ef-ac78-deb0dd9ee3fe#ref=rss)
-* [https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist](https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist-a-581a776f-c092-455e-a856-f0c9bf20d481#ref=rss)
-* [https://www.spiegel.de/ausland/finnland-lahti-will-bis-2025-vollstaendig-co2-neutral-werden-wie-kann-das-klappen](https://www.spiegel.de/ausland/finnland-lahti-will-bis-2025-vollstaendig-co2-neutral-werden-wie-kann-das-klappen-a-fa6f529e-6d4a-4ffd-9222-100c38374d6d#ref=rss)
-### einfach
-
-* [https://www.spiegel.de/karriere/alltag-von-abgeordneten-ich-habe-oft-einfach-nur-funktioniert](https://www.spiegel.de/karriere/alltag-von-abgeordneten-ich-habe-oft-einfach-nur-funktioniert-a-a383c8e4-c38b-45b5-8724-486c9889499a#ref=rss)
-* [https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist](https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist-a-581a776f-c092-455e-a856-f0c9bf20d481#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-die-wut-auf-ungeimpfte-greift-zu-kurz-ein-kommentar](https://www.spiegel.de/wissenschaft/medizin/coronavirus-die-wut-auf-ungeimpfte-greift-zu-kurz-ein-kommentar-a-6ae7faaa-3b45-4a3f-a3c9-b4d49b7cb6da#ref=rss)
-### seltene
-
-* [https://www.spiegel.de/wissenschaft/natur/seltene-erden-wie-bakterien-beim-recycling-der-wichtigen-rohstoffe-helfen](https://www.spiegel.de/wissenschaft/natur/seltene-erden-wie-bakterien-beim-recycling-der-wichtigen-rohstoffe-helfen-a-293f588a-de7b-4f20-aa60-cbf52a0607dc#ref=rss)
-* [https://www.spiegel.de/panorama/katzenbaby-mit-vier-ohren-verzueckt-instagram](https://www.spiegel.de/panorama/katzenbaby-mit-vier-ohren-verzueckt-instagram-a-fdfcdfa1-e052-46be-8ffe-86bae316a905#ref=rss)
-### manche
-
-* [https://www.spiegel.de/start/studium-in-der-corona-pandemie-praesenz-oder-online-lehre](https://www.spiegel.de/start/studium-in-der-corona-pandemie-praesenz-oder-online-lehre-a-dd573511-7d1c-49ae-9135-63b6dd8e3ea0#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/katzenbaby-mit-vier-ohren-verzueckt-instagram](https://www.spiegel.de/panorama/katzenbaby-mit-vier-ohren-verzueckt-instagram-a-fdfcdfa1-e052-46be-8ffe-86bae316a905#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/wissenschaft/corona-zahlen-gesundheitsaemter-ueberlastet-daten-werden-immer-unzuverlaessiger](https://www.spiegel.de/wissenschaft/corona-zahlen-gesundheitsaemter-ueberlastet-daten-werden-immer-unzuverlaessiger-a-ce3437fd-7c5d-4d57-97c8-832b166fc163#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-wieder-fdp-spitzenkandidat-werden](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-wieder-fdp-spitzenkandidat-werden-a-e8c1ad2f-2160-4b88-9ec5-e2ac94af4d78#ref=rss)
-* [https://www.spiegel.de/sport/fussball/werder-bremen-markus-anfang-tritt-wegen-impfpass-affaere-zurueck-anfangs-ende](https://www.spiegel.de/sport/fussball/werder-bremen-markus-anfang-tritt-wegen-impfpass-affaere-zurueck-anfangs-ende-a-66c14185-5acc-4187-a977-b287b1a0390e#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/fluechtlinge-in-belarus-an-der-grenze-gibt-es-endlich-gute-nachrichten-aus-deutschland](https://www.spiegel.de/ausland/fluechtlinge-in-belarus-an-der-grenze-gibt-es-endlich-gute-nachrichten-aus-deutschland-a-df25b5a5-299a-4ec9-8bfe-9e67b92ea0a0#ref=rss)
-* [https://www.spiegel.de/gesundheit/cannabis-legalisierung-kommt-wie-steht-es-um-das-deutsche-gras](https://www.spiegel.de/gesundheit/cannabis-legalisierung-kommt-wie-steht-es-um-das-deutsche-gras-a-f52d00cc-b2f3-4cce-93a0-1172f064a5d0#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/ausland/wien-zehntausende-gehen-gegen-lockdown-auf-die-strasse](https://www.spiegel.de/ausland/wien-zehntausende-gehen-gegen-lockdown-auf-die-strasse-a-0e23ea2f-8f84-400c-b846-25db59ade63b#ref=rss)
-* [https://www.spiegel.de/karriere/alltag-von-abgeordneten-ich-habe-oft-einfach-nur-funktioniert](https://www.spiegel.de/karriere/alltag-von-abgeordneten-ich-habe-oft-einfach-nur-funktioniert-a-a383c8e4-c38b-45b5-8724-486c9889499a#ref=rss)
-### hank
-
-* [https://www.spiegel.de/kultur/musik/frueherer-turbonegro-saenger-hank-von-helvete-ist-tot](https://www.spiegel.de/kultur/musik/frueherer-turbonegro-saenger-hank-von-helvete-ist-tot-a-3129a7fd-ece6-4da9-b4a1-53e16da3a62f#ref=rss)
-### colm
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ubs-holt-investmentbanker-colm-kelleher-als-praesidenten](https://www.spiegel.de/wirtschaft/unternehmen/ubs-holt-investmentbanker-colm-kelleher-als-praesidenten-a-029e17f4-52bf-4dd9-91b4-42f107580743#ref=rss)
-### kelleher
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ubs-holt-investmentbanker-colm-kelleher-als-praesidenten](https://www.spiegel.de/wirtschaft/unternehmen/ubs-holt-investmentbanker-colm-kelleher-als-praesidenten-a-029e17f4-52bf-4dd9-91b4-42f107580743#ref=rss)
-### monaten
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ubs-holt-investmentbanker-colm-kelleher-als-praesidenten](https://www.spiegel.de/wirtschaft/unternehmen/ubs-holt-investmentbanker-colm-kelleher-als-praesidenten-a-029e17f4-52bf-4dd9-91b4-42f107580743#ref=rss)
-* [https://www.spiegel.de/ausland/suedafrika-20-prozent-mehr-morde-als-im-vergleich-zum-vorjahr](https://www.spiegel.de/ausland/suedafrika-20-prozent-mehr-morde-als-im-vergleich-zum-vorjahr-a-d8240339-7d22-43a5-be82-7a0ae9c4ee4d#ref=rss)
-### sebastian
-
-* [https://www.spiegel.de/ausland/sebastian-kurz-die-fpoe-und-die-ibiza-affaere-podcast](https://www.spiegel.de/ausland/sebastian-kurz-die-fpoe-und-die-ibiza-affaere-podcast-a-148a9d89-70a8-4493-97d4-5cdb795ef3be#ref=rss)
-### fpö
-
-* [https://www.spiegel.de/ausland/sebastian-kurz-die-fpoe-und-die-ibiza-affaere-podcast](https://www.spiegel.de/ausland/sebastian-kurz-die-fpoe-und-die-ibiza-affaere-podcast-a-148a9d89-70a8-4493-97d4-5cdb795ef3be#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/ausland/sebastian-kurz-die-fpoe-und-die-ibiza-affaere-podcast](https://www.spiegel.de/ausland/sebastian-kurz-die-fpoe-und-die-ibiza-affaere-podcast-a-148a9d89-70a8-4493-97d4-5cdb795ef3be#ref=rss)
-* [https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist](https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist-a-581a776f-c092-455e-a856-f0c9bf20d481#ref=rss)
-### folge
-
-* [https://www.spiegel.de/ausland/sebastian-kurz-die-fpoe-und-die-ibiza-affaere-podcast](https://www.spiegel.de/ausland/sebastian-kurz-die-fpoe-und-die-ibiza-affaere-podcast-a-148a9d89-70a8-4493-97d4-5cdb795ef3be#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-die-wut-auf-ungeimpfte-greift-zu-kurz-ein-kommentar](https://www.spiegel.de/wissenschaft/medizin/coronavirus-die-wut-auf-ungeimpfte-greift-zu-kurz-ein-kommentar-a-6ae7faaa-3b45-4a3f-a3c9-b4d49b7cb6da#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/ausland/sebastian-kurz-die-fpoe-und-die-ibiza-affaere-podcast](https://www.spiegel.de/ausland/sebastian-kurz-die-fpoe-und-die-ibiza-affaere-podcast-a-148a9d89-70a8-4493-97d4-5cdb795ef3be#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi-a-baf8f9e2-3f32-438f-bb10-9016d1708f7d#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/gesundheit/cannabis-legalisierung-kommt-wie-steht-es-um-das-deutsche-gras](https://www.spiegel.de/gesundheit/cannabis-legalisierung-kommt-wie-steht-es-um-das-deutsche-gras-a-f52d00cc-b2f3-4cce-93a0-1172f064a5d0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/seltene-erden-wie-bakterien-beim-recycling-der-wichtigen-rohstoffe-helfen](https://www.spiegel.de/wissenschaft/natur/seltene-erden-wie-bakterien-beim-recycling-der-wichtigen-rohstoffe-helfen-a-293f588a-de7b-4f20-aa60-cbf52a0607dc#ref=rss)
-### borussia
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-spaet-und-rueckt-an-bayern-muenchen-heran](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-spaet-und-rueckt-an-bayern-muenchen-heran-a-f9c2b378-8893-4bf2-b2be-28ed1ebc4e89#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-spaet-und-rueckt-an-bayern-muenchen-heran](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-spaet-und-rueckt-an-bayern-muenchen-heran-a-f9c2b378-8893-4bf2-b2be-28ed1ebc4e89#ref=rss)
-### rückt
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-spaet-und-rueckt-an-bayern-muenchen-heran](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-spaet-und-rueckt-an-bayern-muenchen-heran-a-f9c2b378-8893-4bf2-b2be-28ed1ebc4e89#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi-a-baf8f9e2-3f32-438f-bb10-9016d1708f7d#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-spaet-und-rueckt-an-bayern-muenchen-heran](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-spaet-und-rueckt-an-bayern-muenchen-heran-a-f9c2b378-8893-4bf2-b2be-28ed1ebc4e89#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-spaet-und-rueckt-an-bayern-muenchen-heran](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-siegt-spaet-und-rueckt-an-bayern-muenchen-heran-a-f9c2b378-8893-4bf2-b2be-28ed1ebc4e89#ref=rss)
-* [https://www.spiegel.de/ausland/kyle-rittenhouse-urteil-entzweit-die-usa-die-reaktionen](https://www.spiegel.de/ausland/kyle-rittenhouse-urteil-entzweit-die-usa-die-reaktionen-a-aae84416-5b37-4582-a360-37155e50acba#ref=rss)
-### nitro
-
-* [https://www.spiegel.de/panorama/die-rettungsflieger-tv-doku-reihe-bei-nitro](https://www.spiegel.de/panorama/die-rettungsflieger-tv-doku-reihe-bei-nitro-a-c93a3abc-eb41-4df2-a20c-68da6e303a6f#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/panorama/die-rettungsflieger-tv-doku-reihe-bei-nitro](https://www.spiegel.de/panorama/die-rettungsflieger-tv-doku-reihe-bei-nitro-a-c93a3abc-eb41-4df2-a20c-68da6e303a6f#ref=rss)
-* [https://www.spiegel.de/ausland/suedafrika-20-prozent-mehr-morde-als-im-vergleich-zum-vorjahr](https://www.spiegel.de/ausland/suedafrika-20-prozent-mehr-morde-als-im-vergleich-zum-vorjahr-a-d8240339-7d22-43a5-be82-7a0ae9c4ee4d#ref=rss)
-### alltag
-
-* [https://www.spiegel.de/panorama/die-rettungsflieger-tv-doku-reihe-bei-nitro](https://www.spiegel.de/panorama/die-rettungsflieger-tv-doku-reihe-bei-nitro-a-c93a3abc-eb41-4df2-a20c-68da6e303a6f#ref=rss)
-* [https://www.spiegel.de/karriere/alltag-von-abgeordneten-ich-habe-oft-einfach-nur-funktioniert](https://www.spiegel.de/karriere/alltag-von-abgeordneten-ich-habe-oft-einfach-nur-funktioniert-a-a383c8e4-c38b-45b5-8724-486c9889499a#ref=rss)
-### entzweit
-
-* [https://www.spiegel.de/ausland/kyle-rittenhouse-urteil-entzweit-die-usa-die-reaktionen](https://www.spiegel.de/ausland/kyle-rittenhouse-urteil-entzweit-die-usa-die-reaktionen-a-aae84416-5b37-4582-a360-37155e50acba#ref=rss)
-### reaktionen
-
-* [https://www.spiegel.de/ausland/kyle-rittenhouse-urteil-entzweit-die-usa-die-reaktionen](https://www.spiegel.de/ausland/kyle-rittenhouse-urteil-entzweit-die-usa-die-reaktionen-a-aae84416-5b37-4582-a360-37155e50acba#ref=rss)
-### katar
-
-* [https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen](https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen-a-f83911d1-803c-4f70-b844-09d93ba2ee15#ref=rss)
-### lewis
-
-* [https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen](https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen-a-f83911d1-803c-4f70-b844-09d93ba2ee15#ref=rss)
-### hamilton
-
-* [https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen](https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen-a-f83911d1-803c-4f70-b844-09d93ba2ee15#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen](https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen-a-f83911d1-803c-4f70-b844-09d93ba2ee15#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi-a-baf8f9e2-3f32-438f-bb10-9016d1708f7d#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen](https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen-a-f83911d1-803c-4f70-b844-09d93ba2ee15#ref=rss)
-### verstappen
-
-* [https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen](https://www.spiegel.de/sport/fussball/formel-1-in-katar-lewis-hamilton-gewinnt-qualifying-mit-grossem-abstand-vor-max-verstappen-a-f83911d1-803c-4f70-b844-09d93ba2ee15#ref=rss)
-### mond
-
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-startet-ausschreibung-fuer-ein-kernkraftwerk-auf-dem-mond](https://www.spiegel.de/wissenschaft/weltall/nasa-startet-ausschreibung-fuer-ein-kernkraftwerk-auf-dem-mond-a-e99bcc6c-8336-452b-8df7-4d07f2f7d1b1#ref=rss)
-### vorschläge
-
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-startet-ausschreibung-fuer-ein-kernkraftwerk-auf-dem-mond](https://www.spiegel.de/wissenschaft/weltall/nasa-startet-ausschreibung-fuer-ein-kernkraftwerk-auf-dem-mond-a-e99bcc6c-8336-452b-8df7-4d07f2f7d1b1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/agrarpolitik-landjugend-und-bundjugend-werfen-ampel-koalition-verweigerung-vor](https://www.spiegel.de/wirtschaft/agrarpolitik-landjugend-und-bundjugend-werfen-ampel-koalition-verweigerung-vor-a-482a6663-6c2c-4212-94bb-a462893f79e2#ref=rss)
-### berichten
-
-* [https://www.spiegel.de/ausland/belarus-irakische-gefluechtete-berichten-nach-rueckkehr-von-folter](https://www.spiegel.de/ausland/belarus-irakische-gefluechtete-berichten-nach-rueckkehr-von-folter-a-27356b93-f48b-4d84-9d38-e0a206c4ee1e#ref=rss)
-### heimat
-
-* [https://www.spiegel.de/ausland/belarus-irakische-gefluechtete-berichten-nach-rueckkehr-von-folter](https://www.spiegel.de/ausland/belarus-irakische-gefluechtete-berichten-nach-rueckkehr-von-folter-a-27356b93-f48b-4d84-9d38-e0a206c4ee1e#ref=rss)
-* [https://www.spiegel.de/karriere/alltag-von-abgeordneten-ich-habe-oft-einfach-nur-funktioniert](https://www.spiegel.de/karriere/alltag-von-abgeordneten-ich-habe-oft-einfach-nur-funktioniert-a-a383c8e4-c38b-45b5-8724-486c9889499a#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-klaut-fc-st-pauli-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-klaut-fc-st-pauli-die-tabellenfuehrung-a-de2a129d-9401-46b1-aa0b-d22005c67ad9#ref=rss)
-### darmstadt
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-klaut-fc-st-pauli-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-klaut-fc-st-pauli-die-tabellenfuehrung-a-de2a129d-9401-46b1-aa0b-d22005c67ad9#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-klaut-fc-st-pauli-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-klaut-fc-st-pauli-die-tabellenfuehrung-a-de2a129d-9401-46b1-aa0b-d22005c67ad9#ref=rss)
-### st
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-klaut-fc-st-pauli-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-klaut-fc-st-pauli-die-tabellenfuehrung-a-de2a129d-9401-46b1-aa0b-d22005c67ad9#ref=rss)
-### pauli
-
-* [https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-klaut-fc-st-pauli-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-bundesliga-sv-darmstadt-klaut-fc-st-pauli-die-tabellenfuehrung-a-de2a129d-9401-46b1-aa0b-d22005c67ad9#ref=rss)
-### dürr
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi-a-baf8f9e2-3f32-438f-bb10-9016d1708f7d#ref=rss)
-### platz
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi-a-baf8f9e2-3f32-438f-bb10-9016d1708f7d#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-erstmals-auf-podest-im-slalom-weltcup-petra-vlhova-gewinnt-in-levi-a-baf8f9e2-3f32-438f-bb10-9016d1708f7d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-in-thueringen-linke-fordert-impfpflicht-fuer-alle](https://www.spiegel.de/politik/deutschland/corona-in-thueringen-linke-fordert-impfpflicht-fuer-alle-a-b0b863fc-8e26-4db9-b087-46efbe13b43f#ref=rss)
-### brettspiele
-
-* [https://www.spiegel.de/tests/brettspiele/brettspiele-die-im-alten-aegypten-spielen-bitte-tutanchamun-nichts](https://www.spiegel.de/tests/brettspiele/brettspiele-die-im-alten-aegypten-spielen-bitte-tutanchamun-nichts-a-64bb215c-67f4-41ef-ac78-deb0dd9ee3fe#ref=rss)
-### ägypten
-
-* [https://www.spiegel.de/tests/brettspiele/brettspiele-die-im-alten-aegypten-spielen-bitte-tutanchamun-nichts](https://www.spiegel.de/tests/brettspiele/brettspiele-die-im-alten-aegypten-spielen-bitte-tutanchamun-nichts-a-64bb215c-67f4-41ef-ac78-deb0dd9ee3fe#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/tests/brettspiele/brettspiele-die-im-alten-aegypten-spielen-bitte-tutanchamun-nichts](https://www.spiegel.de/tests/brettspiele/brettspiele-die-im-alten-aegypten-spielen-bitte-tutanchamun-nichts-a-64bb215c-67f4-41ef-ac78-deb0dd9ee3fe#ref=rss)
-* [https://www.spiegel.de/start/studium-in-der-corona-pandemie-praesenz-oder-online-lehre](https://www.spiegel.de/start/studium-in-der-corona-pandemie-praesenz-oder-online-lehre-a-dd573511-7d1c-49ae-9135-63b6dd8e3ea0#ref=rss)
-### oft
-
-* [https://www.spiegel.de/karriere/alltag-von-abgeordneten-ich-habe-oft-einfach-nur-funktioniert](https://www.spiegel.de/karriere/alltag-von-abgeordneten-ich-habe-oft-einfach-nur-funktioniert-a-a383c8e4-c38b-45b5-8724-486c9889499a#ref=rss)
-* [https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist](https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist-a-581a776f-c092-455e-a856-f0c9bf20d481#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/karriere/alltag-von-abgeordneten-ich-habe-oft-einfach-nur-funktioniert](https://www.spiegel.de/karriere/alltag-von-abgeordneten-ich-habe-oft-einfach-nur-funktioniert-a-a383c8e4-c38b-45b5-8724-486c9889499a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/werder-bremen-markus-anfang-tritt-wegen-impfpass-affaere-zurueck-anfangs-ende](https://www.spiegel.de/sport/fussball/werder-bremen-markus-anfang-tritt-wegen-impfpass-affaere-zurueck-anfangs-ende-a-66c14185-5acc-4187-a977-b287b1a0390e#ref=rss)
-### uns
-
-* [https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist](https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist-a-581a776f-c092-455e-a856-f0c9bf20d481#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist](https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist-a-581a776f-c092-455e-a856-f0c9bf20d481#ref=rss)
-### tag
-
-* [https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist](https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist-a-581a776f-c092-455e-a856-f0c9bf20d481#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-wieder-fdp-spitzenkandidat-werden](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-wieder-fdp-spitzenkandidat-werden-a-e8c1ad2f-2160-4b88-9ec5-e2ac94af4d78#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen](https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen-a-18e6d322-6255-4588-9ab9-7dc9f697f812#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-bei-xavi-trainerdebuet-mit-euphorie-und-ganz-viel-dusel](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-bei-xavi-trainerdebuet-mit-euphorie-und-ganz-viel-dusel-a-0ca71608-b007-40cd-83f5-74c639263e66#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal-a-d4f6f6c1-9813-4b25-8bad-28de2113e961#ref=rss)
 ### sagt
 
-* [https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist](https://www.spiegel.de/gesundheit/ziele-erreichen-wie-uns-mehr-zeit-fuer-das-bleibt-was-wirklich-wichtig-ist-a-581a776f-c092-455e-a856-f0c9bf20d481#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/seltene-erden-wie-bakterien-beim-recycling-der-wichtigen-rohstoffe-helfen](https://www.spiegel.de/wissenschaft/natur/seltene-erden-wie-bakterien-beim-recycling-der-wichtigen-rohstoffe-helfen-a-293f588a-de7b-4f20-aa60-cbf52a0607dc#ref=rss)
-### sahra
+* [https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen](https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen-a-4fde51c5-2f97-4174-bd75-77fb2c24f991#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-rki-meldet-neue-inzidenz-bei-372-7](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-rki-meldet-neue-inzidenz-bei-372-7-a-f47b60cf-7398-4a65-80fd-c9b6674a3c0c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/totensonntag-eine-bestatterin-erklaert-die-bedeutung](https://www.spiegel.de/panorama/gesellschaft/totensonntag-eine-bestatterin-erklaert-die-bedeutung-a-18f8bbb8-ea42-4fb7-ae0b-0597bcb2f2e0#ref=rss)
+### journalist
 
-* [https://www.spiegel.de/politik/deutschland/linke-in-der-impf-debatte-sahra-wagenknecht-im-impf-streit-isoliert](https://www.spiegel.de/politik/deutschland/linke-in-der-impf-debatte-sahra-wagenknecht-im-impf-streit-isoliert-a-e4572bdd-e930-4f1f-a07c-11a027de9531#ref=rss)
-### wagenknecht
+* [https://www.spiegel.de/ausland/kroatien-deutscher-journalist-an-der-seite-von-fluechtenden-festgenommen](https://www.spiegel.de/ausland/kroatien-deutscher-journalist-an-der-seite-von-fluechtenden-festgenommen-a-0c3a58e2-a00a-4b58-9a58-b9597c1129e3#ref=rss)
+* [https://www.spiegel.de/ausland/somalia-bekannter-somalischer-journalist-stirbt-bei-selbstmordanschlag-in-mogadischu](https://www.spiegel.de/ausland/somalia-bekannter-somalischer-journalist-stirbt-bei-selbstmordanschlag-in-mogadischu-a-907d65ad-5f6d-4976-bcab-2a9bc5b50c53#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/linke-in-der-impf-debatte-sahra-wagenknecht-im-impf-streit-isoliert](https://www.spiegel.de/politik/deutschland/linke-in-der-impf-debatte-sahra-wagenknecht-im-impf-streit-isoliert-a-e4572bdd-e930-4f1f-a07c-11a027de9531#ref=rss)
-### lahti
+* [https://www.spiegel.de/ausland/kein-botschafter-mehr-nach-vilnius-china-straft-litauen-wegen-taiwan-streit-ab](https://www.spiegel.de/ausland/kein-botschafter-mehr-nach-vilnius-china-straft-litauen-wegen-taiwan-streit-ab-a-59f8c0ec-db8e-419d-8a1c-d83f3c2b8d9f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gegen-den-turbokonsum-am-black-friday-was-es-mit-den-kauf-nix-tagen-auf-sich-hat](https://www.spiegel.de/wirtschaft/service/gegen-den-turbokonsum-am-black-friday-was-es-mit-den-kauf-nix-tagen-auf-sich-hat-a-3b22b9ab-71a2-4048-97ac-d290c1f0949a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-politische-polarisierung-nimmt-laut-neuer-studie-zu](https://www.spiegel.de/politik/deutschland/deutschland-politische-polarisierung-nimmt-laut-neuer-studie-zu-a-a31472f0-1191-4eeb-98c7-71ecb4a98751#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-gewalt-an-frauen](https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-gewalt-an-frauen-a-4a1e7c4c-5e0d-48b9-b4f7-fb5f35cdb10d#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/ausland/finnland-lahti-will-bis-2025-vollstaendig-co2-neutral-werden-wie-kann-das-klappen](https://www.spiegel.de/ausland/finnland-lahti-will-bis-2025-vollstaendig-co2-neutral-werden-wie-kann-das-klappen-a-fa6f529e-6d4a-4ffd-9222-100c38374d6d#ref=rss)
-### wut
+* [https://www.spiegel.de/kultur/the-masked-singer-alexander-klaws-ist-muelli-mueller-und-gewinnt-finale](https://www.spiegel.de/kultur/the-masked-singer-alexander-klaws-ist-muelli-mueller-und-gewinnt-finale-a-ddcd515b-cfc5-42f7-aa44-7fd6f0d5656b#ref=rss)
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic-a-214b0031-0189-4fa5-884b-2934881e1dec#ref=rss)
+### premier
 
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-die-wut-auf-ungeimpfte-greift-zu-kurz-ein-kommentar](https://www.spiegel.de/wissenschaft/medizin/coronavirus-die-wut-auf-ungeimpfte-greift-zu-kurz-ein-kommentar-a-6ae7faaa-3b45-4a3f-a3c9-b4d49b7cb6da#ref=rss)
-### kritisieren
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer-a-7bc588c9-19c3-4995-bc48-5bc08a5a9c04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal-a-d4f6f6c1-9813-4b25-8bad-28de2113e961#ref=rss)
+### league
 
-* [https://www.spiegel.de/wirtschaft/agrarpolitik-landjugend-und-bundjugend-werfen-ampel-koalition-verweigerung-vor](https://www.spiegel.de/wirtschaft/agrarpolitik-landjugend-und-bundjugend-werfen-ampel-koalition-verweigerung-vor-a-482a6663-6c2c-4212-94bb-a462893f79e2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kritik-an-spahns-vorschlag-zur-begrenzung-von-biontech-impfstoff](https://www.spiegel.de/politik/deutschland/kritik-an-spahns-vorschlag-zur-begrenzung-von-biontech-impfstoff-a-ac8cc1df-01a6-4dbf-af58-81321b21004d#ref=rss)
-### erden
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer-a-7bc588c9-19c3-4995-bc48-5bc08a5a9c04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal-a-d4f6f6c1-9813-4b25-8bad-28de2113e961#ref=rss)
+### manchester
 
-* [https://www.spiegel.de/wissenschaft/natur/seltene-erden-wie-bakterien-beim-recycling-der-wichtigen-rohstoffe-helfen](https://www.spiegel.de/wissenschaft/natur/seltene-erden-wie-bakterien-beim-recycling-der-wichtigen-rohstoffe-helfen-a-293f588a-de7b-4f20-aa60-cbf52a0607dc#ref=rss)
-### rohstoffe
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer-a-7bc588c9-19c3-4995-bc48-5bc08a5a9c04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal-a-d4f6f6c1-9813-4b25-8bad-28de2113e961#ref=rss)
+### united
 
-* [https://www.spiegel.de/wissenschaft/natur/seltene-erden-wie-bakterien-beim-recycling-der-wichtigen-rohstoffe-helfen](https://www.spiegel.de/wissenschaft/natur/seltene-erden-wie-bakterien-beim-recycling-der-wichtigen-rohstoffe-helfen-a-293f588a-de7b-4f20-aa60-cbf52a0607dc#ref=rss)
-### präsenz
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer-a-7bc588c9-19c3-4995-bc48-5bc08a5a9c04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal-a-d4f6f6c1-9813-4b25-8bad-28de2113e961#ref=rss)
+### ole
 
-* [https://www.spiegel.de/start/studium-in-der-corona-pandemie-praesenz-oder-online-lehre](https://www.spiegel.de/start/studium-in-der-corona-pandemie-praesenz-oder-online-lehre-a-dd573511-7d1c-49ae-9135-63b6dd8e3ea0#ref=rss)
-### katzenbaby
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer-a-7bc588c9-19c3-4995-bc48-5bc08a5a9c04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal-a-d4f6f6c1-9813-4b25-8bad-28de2113e961#ref=rss)
+### gunnar
 
-* [https://www.spiegel.de/panorama/katzenbaby-mit-vier-ohren-verzueckt-instagram](https://www.spiegel.de/panorama/katzenbaby-mit-vier-ohren-verzueckt-instagram-a-fdfcdfa1-e052-46be-8ffe-86bae316a905#ref=rss)
-### ohren
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer-a-7bc588c9-19c3-4995-bc48-5bc08a5a9c04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal-a-d4f6f6c1-9813-4b25-8bad-28de2113e961#ref=rss)
+### solskjær
 
-* [https://www.spiegel.de/panorama/katzenbaby-mit-vier-ohren-verzueckt-instagram](https://www.spiegel.de/panorama/katzenbaby-mit-vier-ohren-verzueckt-instagram-a-fdfcdfa1-e052-46be-8ffe-86bae316a905#ref=rss)
-### instagram
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer-a-7bc588c9-19c3-4995-bc48-5bc08a5a9c04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal-a-d4f6f6c1-9813-4b25-8bad-28de2113e961#ref=rss)
+### deutscher
 
-* [https://www.spiegel.de/panorama/katzenbaby-mit-vier-ohren-verzueckt-instagram](https://www.spiegel.de/panorama/katzenbaby-mit-vier-ohren-verzueckt-instagram-a-fdfcdfa1-e052-46be-8ffe-86bae316a905#ref=rss)
-### daten
+* [https://www.spiegel.de/ausland/deutscher-angriff-auf-die-sydney-1941-australien-identifiziert-unbekannten-seemann](https://www.spiegel.de/ausland/deutscher-angriff-auf-die-sydney-1941-australien-identifiziert-unbekannten-seemann-a-4cf2023e-f61f-43cb-84a4-d79e6cf95fe1#ref=rss)
+* [https://www.spiegel.de/ausland/kroatien-deutscher-journalist-an-der-seite-von-fluechtenden-festgenommen](https://www.spiegel.de/ausland/kroatien-deutscher-journalist-an-der-seite-von-fluechtenden-festgenommen-a-0c3a58e2-a00a-4b58-9a58-b9597c1129e3#ref=rss)
+### mann
 
-* [https://www.spiegel.de/wissenschaft/corona-zahlen-gesundheitsaemter-ueberlastet-daten-werden-immer-unzuverlaessiger](https://www.spiegel.de/wissenschaft/corona-zahlen-gesundheitsaemter-ueberlastet-daten-werden-immer-unzuverlaessiger-a-ce3437fd-7c5d-4d57-97c8-832b166fc163#ref=rss)
-### südafrika
+* [https://www.spiegel.de/ausland/deutscher-angriff-auf-die-sydney-1941-australien-identifiziert-unbekannten-seemann](https://www.spiegel.de/ausland/deutscher-angriff-auf-die-sydney-1941-australien-identifiziert-unbekannten-seemann-a-4cf2023e-f61f-43cb-84a4-d79e6cf95fe1#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-professor-schimpft-im-tv-ueber-taliban-und-geht-viral](https://www.spiegel.de/ausland/afghanistan-professor-schimpft-im-tv-ueber-taliban-und-geht-viral-a-368618f5-fd76-4c93-90b2-3654f0742b9e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mordverdacht-in-schweden-politiker-der-schwedendemokraten-verhaftet](https://www.spiegel.de/panorama/justiz/mordverdacht-in-schweden-politiker-der-schwedendemokraten-verhaftet-a-f8d235b8-0ed0-4206-ade7-4e27a2263f4f#ref=rss)
+### ungeimpfte
 
-* [https://www.spiegel.de/ausland/suedafrika-20-prozent-mehr-morde-als-im-vergleich-zum-vorjahr](https://www.spiegel.de/ausland/suedafrika-20-prozent-mehr-morde-als-im-vergleich-zum-vorjahr-a-d8240339-7d22-43a5-be82-7a0ae9c4ee4d#ref=rss)
-### morde
+* [https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen](https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen-a-18e6d322-6255-4588-9ab9-7dc9f697f812#ref=rss)
+### china
 
-* [https://www.spiegel.de/ausland/suedafrika-20-prozent-mehr-morde-als-im-vergleich-zum-vorjahr](https://www.spiegel.de/ausland/suedafrika-20-prozent-mehr-morde-als-im-vergleich-zum-vorjahr-a-d8240339-7d22-43a5-be82-7a0ae9c4ee4d#ref=rss)
-### thüringen
+* [https://www.spiegel.de/ausland/kein-botschafter-mehr-nach-vilnius-china-straft-litauen-wegen-taiwan-streit-ab](https://www.spiegel.de/ausland/kein-botschafter-mehr-nach-vilnius-china-straft-litauen-wegen-taiwan-streit-ab-a-59f8c0ec-db8e-419d-8a1c-d83f3c2b8d9f#ref=rss)
+* [https://www.spiegel.de/sport/tennis/china-peng-shuai-wird-auf-weiterem-video-von-staatsmedien-praesentiert](https://www.spiegel.de/sport/tennis/china-peng-shuai-wird-auf-weiterem-video-von-staatsmedien-praesentiert-a-526a9f9b-884b-4bec-9429-c965171d56d4#ref=rss)
+### politiker
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-wieder-fdp-spitzenkandidat-werden](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-wieder-fdp-spitzenkandidat-werden-a-e8c1ad2f-2160-4b88-9ec5-e2ac94af4d78#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-in-thueringen-linke-fordert-impfpflicht-fuer-alle](https://www.spiegel.de/politik/deutschland/corona-in-thueringen-linke-fordert-impfpflicht-fuer-alle-a-b0b863fc-8e26-4db9-b087-46efbe13b43f#ref=rss)
-### kemmerich
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-cdu-familienfreundlicher-gestalten](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-cdu-familienfreundlicher-gestalten-a-2c95aacd-781b-49b0-b55d-04e8a58dfb27#ref=rss)
+* [https://www.spiegel.de/ausland/polens-oppositionsfuehrer-donald-tusk-muss-fuehrerschein-abgeben](https://www.spiegel.de/ausland/polens-oppositionsfuehrer-donald-tusk-muss-fuehrerschein-abgeben-a-5a06d573-22b8-4138-b958-cf926bda7f7d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mordverdacht-in-schweden-politiker-der-schwedendemokraten-verhaftet](https://www.spiegel.de/panorama/justiz/mordverdacht-in-schweden-politiker-der-schwedendemokraten-verhaftet-a-f8d235b8-0ed0-4206-ade7-4e27a2263f4f#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-wieder-fdp-spitzenkandidat-werden](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-wieder-fdp-spitzenkandidat-werden-a-e8c1ad2f-2160-4b88-9ec5-e2ac94af4d78#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-polizei-droht-corona-kollaps-gewerkschaft-spricht-von-inzidenz-4000](https://www.spiegel.de/politik/deutschland/sachsen-polizei-droht-corona-kollaps-gewerkschaft-spricht-von-inzidenz-4000-a-ad435826-5993-451b-9e2a-fb34511a3025#ref=rss)
+* [https://www.spiegel.de/ausland/niederlande-jugendliche-randalieren-erneut-gegen-corona-massnahmen](https://www.spiegel.de/ausland/niederlande-jugendliche-randalieren-erneut-gegen-corona-massnahmen-a-415be2f1-f145-432c-a6f3-be59661da478#ref=rss)
+* [https://www.spiegel.de/ausland/polens-oppositionsfuehrer-donald-tusk-muss-fuehrerschein-abgeben](https://www.spiegel.de/ausland/polens-oppositionsfuehrer-donald-tusk-muss-fuehrerschein-abgeben-a-5a06d573-22b8-4138-b958-cf926bda7f7d#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-polizei-droht-corona-kollaps-gewerkschaft-spricht-von-inzidenz-4000](https://www.spiegel.de/politik/deutschland/sachsen-polizei-droht-corona-kollaps-gewerkschaft-spricht-von-inzidenz-4000-a-ad435826-5993-451b-9e2a-fb34511a3025#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-gewalt-an-frauen](https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-gewalt-an-frauen-a-4a1e7c4c-5e0d-48b9-b4f7-fb5f35cdb10d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mordverdacht-in-schweden-politiker-der-schwedendemokraten-verhaftet](https://www.spiegel.de/panorama/justiz/mordverdacht-in-schweden-politiker-der-schwedendemokraten-verhaftet-a-f8d235b8-0ed0-4206-ade7-4e27a2263f4f#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/politik/deutschland/deutschland-politische-polarisierung-nimmt-laut-neuer-studie-zu](https://www.spiegel.de/politik/deutschland/deutschland-politische-polarisierung-nimmt-laut-neuer-studie-zu-a-a31472f0-1191-4eeb-98c7-71ecb4a98751#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-rki-meldet-neue-inzidenz-bei-372-7](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-rki-meldet-neue-inzidenz-bei-372-7-a-f47b60cf-7398-4a65-80fd-c9b6674a3c0c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-bei-xavi-trainerdebuet-mit-euphorie-und-ganz-viel-dusel](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-bei-xavi-trainerdebuet-mit-euphorie-und-ganz-viel-dusel-a-0ca71608-b007-40cd-83f5-74c639263e66#ref=rss)
 ### werder
 
-* [https://www.spiegel.de/sport/fussball/werder-bremen-markus-anfang-tritt-wegen-impfpass-affaere-zurueck-anfangs-ende](https://www.spiegel.de/sport/fussball/werder-bremen-markus-anfang-tritt-wegen-impfpass-affaere-zurueck-anfangs-ende-a-66c14185-5acc-4187-a977-b287b1a0390e#ref=rss)
-### bremen
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-werder-bremen-rettet-remis-gegen-schalke-04-durch-umstrittenen-elfmeter](https://www.spiegel.de/sport/fussball/2-bundesliga-werder-bremen-rettet-remis-gegen-schalke-04-durch-umstrittenen-elfmeter-a-ee033720-f426-4545-a157-d9d0c4f39820#ref=rss)
+### verloren
 
-* [https://www.spiegel.de/sport/fussball/werder-bremen-markus-anfang-tritt-wegen-impfpass-affaere-zurueck-anfangs-ende](https://www.spiegel.de/sport/fussball/werder-bremen-markus-anfang-tritt-wegen-impfpass-affaere-zurueck-anfangs-ende-a-66c14185-5acc-4187-a977-b287b1a0390e#ref=rss)
-### markus
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer-a-7bc588c9-19c3-4995-bc48-5bc08a5a9c04#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen](https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen-a-4fde51c5-2f97-4174-bd75-77fb2c24f991#ref=rss)
+### watford
 
-* [https://www.spiegel.de/sport/fussball/werder-bremen-markus-anfang-tritt-wegen-impfpass-affaere-zurueck-anfangs-ende](https://www.spiegel.de/sport/fussball/werder-bremen-markus-anfang-tritt-wegen-impfpass-affaere-zurueck-anfangs-ende-a-66c14185-5acc-4187-a977-b287b1a0390e#ref=rss)
-### anfang
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-trennt-sich-von-trainer-ole-gunnar-solskjaer-a-7bc588c9-19c3-4995-bc48-5bc08a5a9c04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal-a-d4f6f6c1-9813-4b25-8bad-28de2113e961#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/sport/fussball/werder-bremen-markus-anfang-tritt-wegen-impfpass-affaere-zurueck-anfangs-ende](https://www.spiegel.de/sport/fussball/werder-bremen-markus-anfang-tritt-wegen-impfpass-affaere-zurueck-anfangs-ende-a-66c14185-5acc-4187-a977-b287b1a0390e#ref=rss)
-### impfpflicht
+* [https://www.spiegel.de/ausland/deutscher-angriff-auf-die-sydney-1941-australien-identifiziert-unbekannten-seemann](https://www.spiegel.de/ausland/deutscher-angriff-auf-die-sydney-1941-australien-identifiziert-unbekannten-seemann-a-4cf2023e-f61f-43cb-84a4-d79e6cf95fe1#ref=rss)
+### sydney
 
-* [https://www.spiegel.de/politik/deutschland/corona-in-thueringen-linke-fordert-impfpflicht-fuer-alle](https://www.spiegel.de/politik/deutschland/corona-in-thueringen-linke-fordert-impfpflicht-fuer-alle-a-b0b863fc-8e26-4db9-b087-46efbe13b43f#ref=rss)
+* [https://www.spiegel.de/ausland/deutscher-angriff-auf-die-sydney-1941-australien-identifiziert-unbekannten-seemann](https://www.spiegel.de/ausland/deutscher-angriff-auf-die-sydney-1941-australien-identifiziert-unbekannten-seemann-a-4cf2023e-f61f-43cb-84a4-d79e6cf95fe1#ref=rss)
+### 1941
+
+* [https://www.spiegel.de/ausland/deutscher-angriff-auf-die-sydney-1941-australien-identifiziert-unbekannten-seemann](https://www.spiegel.de/ausland/deutscher-angriff-auf-die-sydney-1941-australien-identifiziert-unbekannten-seemann-a-4cf2023e-f61f-43cb-84a4-d79e6cf95fe1#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/ausland/deutscher-angriff-auf-die-sydney-1941-australien-identifiziert-unbekannten-seemann](https://www.spiegel.de/ausland/deutscher-angriff-auf-die-sydney-1941-australien-identifiziert-unbekannten-seemann-a-4cf2023e-f61f-43cb-84a4-d79e6cf95fe1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen](https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen-a-4fde51c5-2f97-4174-bd75-77fb2c24f991#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/ausland/afghanistan-professor-schimpft-im-tv-ueber-taliban-und-geht-viral](https://www.spiegel.de/ausland/afghanistan-professor-schimpft-im-tv-ueber-taliban-und-geht-viral-a-368618f5-fd76-4c93-90b2-3654f0742b9e#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen](https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen-a-4fde51c5-2f97-4174-bd75-77fb2c24f991#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-rki-meldet-neue-inzidenz-bei-372-7](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-rki-meldet-neue-inzidenz-bei-372-7-a-f47b60cf-7398-4a65-80fd-c9b6674a3c0c#ref=rss)
+### peter
+
+* [https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen](https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen-a-4fde51c5-2f97-4174-bd75-77fb2c24f991#ref=rss)
+### schröcksnadel
+
+* [https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen](https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen-a-4fde51c5-2f97-4174-bd75-77fb2c24f991#ref=rss)
+### wir
+
+* [https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen](https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen-a-4fde51c5-2f97-4174-bd75-77fb2c24f991#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/totensonntag-eine-bestatterin-erklaert-die-bedeutung](https://www.spiegel.de/panorama/gesellschaft/totensonntag-eine-bestatterin-erklaert-die-bedeutung-a-18f8bbb8-ea42-4fb7-ae0b-0597bcb2f2e0#ref=rss)
+### lockdown
+
+* [https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen](https://www.spiegel.de/wirtschaft/ski-tourismus-in-oesterreich-peter-schroecksnadel-sagt-wir-brauchen-die-deutschen-a-4fde51c5-2f97-4174-bd75-77fb2c24f991#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/kinderaerzte-fordern-garantierten-schulbetrieb-waehrend-der-gesamten-vierten-welle](https://www.spiegel.de/wissenschaft/medizin/kinderaerzte-fordern-garantierten-schulbetrieb-waehrend-der-gesamten-vierten-welle-a-0a20a4ac-0b85-4966-9207-e6dda74025fe#ref=rss)
+### seite
+
+* [https://www.spiegel.de/ausland/kroatien-deutscher-journalist-an-der-seite-von-fluechtenden-festgenommen](https://www.spiegel.de/ausland/kroatien-deutscher-journalist-an-der-seite-von-fluechtenden-festgenommen-a-0c3a58e2-a00a-4b58-9a58-b9597c1129e3#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/ausland/kroatien-deutscher-journalist-an-der-seite-von-fluechtenden-festgenommen](https://www.spiegel.de/ausland/kroatien-deutscher-journalist-an-der-seite-von-fluechtenden-festgenommen-a-0c3a58e2-a00a-4b58-9a58-b9597c1129e3#ref=rss)
+### union
+
+* [https://www.spiegel.de/sport/fussball/union-berlin-gewinnt-derby-gegen-hertha-bsc-volles-haus-tolle-stimmung-wie-richtig-ist-das](https://www.spiegel.de/sport/fussball/union-berlin-gewinnt-derby-gegen-hertha-bsc-volles-haus-tolle-stimmung-wie-richtig-ist-das-a-3caa6e45-82ff-4041-9e94-49a186d69107#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/sport/fussball/union-berlin-gewinnt-derby-gegen-hertha-bsc-volles-haus-tolle-stimmung-wie-richtig-ist-das](https://www.spiegel.de/sport/fussball/union-berlin-gewinnt-derby-gegen-hertha-bsc-volles-haus-tolle-stimmung-wie-richtig-ist-das-a-3caa6e45-82ff-4041-9e94-49a186d69107#ref=rss)
+### gewinnt
+
+* [https://www.spiegel.de/sport/fussball/union-berlin-gewinnt-derby-gegen-hertha-bsc-volles-haus-tolle-stimmung-wie-richtig-ist-das](https://www.spiegel.de/sport/fussball/union-berlin-gewinnt-derby-gegen-hertha-bsc-volles-haus-tolle-stimmung-wie-richtig-ist-das-a-3caa6e45-82ff-4041-9e94-49a186d69107#ref=rss)
+* [https://www.spiegel.de/kultur/the-masked-singer-alexander-klaws-ist-muelli-mueller-und-gewinnt-finale](https://www.spiegel.de/kultur/the-masked-singer-alexander-klaws-ist-muelli-mueller-und-gewinnt-finale-a-ddcd515b-cfc5-42f7-aa44-7fd6f0d5656b#ref=rss)
+### derby
+
+* [https://www.spiegel.de/sport/fussball/union-berlin-gewinnt-derby-gegen-hertha-bsc-volles-haus-tolle-stimmung-wie-richtig-ist-das](https://www.spiegel.de/sport/fussball/union-berlin-gewinnt-derby-gegen-hertha-bsc-volles-haus-tolle-stimmung-wie-richtig-ist-das-a-3caa6e45-82ff-4041-9e94-49a186d69107#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-bei-xavi-trainerdebuet-mit-euphorie-und-ganz-viel-dusel](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-bei-xavi-trainerdebuet-mit-euphorie-und-ganz-viel-dusel-a-0ca71608-b007-40cd-83f5-74c639263e66#ref=rss)
+### hertha
+
+* [https://www.spiegel.de/sport/fussball/union-berlin-gewinnt-derby-gegen-hertha-bsc-volles-haus-tolle-stimmung-wie-richtig-ist-das](https://www.spiegel.de/sport/fussball/union-berlin-gewinnt-derby-gegen-hertha-bsc-volles-haus-tolle-stimmung-wie-richtig-ist-das-a-3caa6e45-82ff-4041-9e94-49a186d69107#ref=rss)
+### haus
+
+* [https://www.spiegel.de/sport/fussball/union-berlin-gewinnt-derby-gegen-hertha-bsc-volles-haus-tolle-stimmung-wie-richtig-ist-das](https://www.spiegel.de/sport/fussball/union-berlin-gewinnt-derby-gegen-hertha-bsc-volles-haus-tolle-stimmung-wie-richtig-ist-das-a-3caa6e45-82ff-4041-9e94-49a186d69107#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen](https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen-a-18e6d322-6255-4588-9ab9-7dc9f697f812#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-rki-meldet-neue-inzidenz-bei-372-7](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-rki-meldet-neue-inzidenz-bei-372-7-a-f47b60cf-7398-4a65-80fd-c9b6674a3c0c#ref=rss)
+### spieler
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen](https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen-a-18e6d322-6255-4588-9ab9-7dc9f697f812#ref=rss)
+### joshua
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen](https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen-a-18e6d322-6255-4588-9ab9-7dc9f697f812#ref=rss)
+### kimmich
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen](https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen-a-18e6d322-6255-4588-9ab9-7dc9f697f812#ref=rss)
+### quarantäne
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen](https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen-a-18e6d322-6255-4588-9ab9-7dc9f697f812#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-polizei-droht-corona-kollaps-gewerkschaft-spricht-von-inzidenz-4000](https://www.spiegel.de/politik/deutschland/sachsen-polizei-droht-corona-kollaps-gewerkschaft-spricht-von-inzidenz-4000-a-ad435826-5993-451b-9e2a-fb34511a3025#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen](https://www.spiegel.de/sport/fussball/fc-bayern-belegt-ungeimpfte-spieler-um-joshua-kimmich-offenbar-mit-gehaltskuerzungen-a-18e6d322-6255-4588-9ab9-7dc9f697f812#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-politische-polarisierung-nimmt-laut-neuer-studie-zu](https://www.spiegel.de/politik/deutschland/deutschland-politische-polarisierung-nimmt-laut-neuer-studie-zu-a-a31472f0-1191-4eeb-98c7-71ecb4a98751#ref=rss)
+### biontech
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-milliarden-campus-in-mainz-bauen-neue-zentrale](https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-milliarden-campus-in-mainz-bauen-neue-zentrale-a-e1e3237d-7171-4360-a0bd-3a8cedf8776c#ref=rss)
+### mainz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-milliarden-campus-in-mainz-bauen-neue-zentrale](https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-milliarden-campus-in-mainz-bauen-neue-zentrale-a-e1e3237d-7171-4360-a0bd-3a8cedf8776c#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-milliarden-campus-in-mainz-bauen-neue-zentrale](https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-milliarden-campus-in-mainz-bauen-neue-zentrale-a-e1e3237d-7171-4360-a0bd-3a8cedf8776c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-impfungen-hoher-schutz-wenn-rechtzeitig-geboostert-wird](https://www.spiegel.de/wissenschaft/medizin/corona-impfungen-hoher-schutz-wenn-rechtzeitig-geboostert-wird-a-e3c90e4b-8d93-4619-806f-35aa9a679db8#ref=rss)
+### gute
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-milliarden-campus-in-mainz-bauen-neue-zentrale](https://www.spiegel.de/wirtschaft/unternehmen/biontech-will-milliarden-campus-in-mainz-bauen-neue-zentrale-a-e1e3237d-7171-4360-a0bd-3a8cedf8776c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-bei-xavi-trainerdebuet-mit-euphorie-und-ganz-viel-dusel](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-bei-xavi-trainerdebuet-mit-euphorie-und-ganz-viel-dusel-a-0ca71608-b007-40cd-83f5-74c639263e66#ref=rss)
+### litauen
+
+* [https://www.spiegel.de/ausland/kein-botschafter-mehr-nach-vilnius-china-straft-litauen-wegen-taiwan-streit-ab](https://www.spiegel.de/ausland/kein-botschafter-mehr-nach-vilnius-china-straft-litauen-wegen-taiwan-streit-ab-a-59f8c0ec-db8e-419d-8a1c-d83f3c2b8d9f#ref=rss)
+### vilnius
+
+* [https://www.spiegel.de/ausland/kein-botschafter-mehr-nach-vilnius-china-straft-litauen-wegen-taiwan-streit-ab](https://www.spiegel.de/ausland/kein-botschafter-mehr-nach-vilnius-china-straft-litauen-wegen-taiwan-streit-ab-a-59f8c0ec-db8e-419d-8a1c-d83f3c2b8d9f#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-cdu-familienfreundlicher-gestalten](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-cdu-familienfreundlicher-gestalten-a-2c95aacd-781b-49b0-b55d-04e8a58dfb27#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-will-cdu-familienfreundlicher-gestalten](https://www.spiegel.de/politik/deutschland/friedrich-merz-will-cdu-familienfreundlicher-gestalten-a-2c95aacd-781b-49b0-b55d-04e8a58dfb27#ref=rss)
+### kinderärzte
+
+* [https://www.spiegel.de/wissenschaft/medizin/kinderaerzte-fordern-garantierten-schulbetrieb-waehrend-der-gesamten-vierten-welle](https://www.spiegel.de/wissenschaft/medizin/kinderaerzte-fordern-garantierten-schulbetrieb-waehrend-der-gesamten-vierten-welle-a-0a20a4ac-0b85-4966-9207-e6dda74025fe#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-polizei-droht-corona-kollaps-gewerkschaft-spricht-von-inzidenz-4000](https://www.spiegel.de/politik/deutschland/sachsen-polizei-droht-corona-kollaps-gewerkschaft-spricht-von-inzidenz-4000-a-ad435826-5993-451b-9e2a-fb34511a3025#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-rki-meldet-neue-inzidenz-bei-372-7](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-rki-meldet-neue-inzidenz-bei-372-7-a-f47b60cf-7398-4a65-80fd-c9b6674a3c0c#ref=rss)
+### black
+
+* [https://www.spiegel.de/wirtschaft/service/gegen-den-turbokonsum-am-black-friday-was-es-mit-den-kauf-nix-tagen-auf-sich-hat](https://www.spiegel.de/wirtschaft/service/gegen-den-turbokonsum-am-black-friday-was-es-mit-den-kauf-nix-tagen-auf-sich-hat-a-3b22b9ab-71a2-4048-97ac-d290c1f0949a#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/service/gegen-den-turbokonsum-am-black-friday-was-es-mit-den-kauf-nix-tagen-auf-sich-hat](https://www.spiegel.de/wirtschaft/service/gegen-den-turbokonsum-am-black-friday-was-es-mit-den-kauf-nix-tagen-auf-sich-hat-a-3b22b9ab-71a2-4048-97ac-d290c1f0949a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-politische-polarisierung-nimmt-laut-neuer-studie-zu](https://www.spiegel.de/politik/deutschland/deutschland-politische-polarisierung-nimmt-laut-neuer-studie-zu-a-a31472f0-1191-4eeb-98c7-71ecb4a98751#ref=rss)
+### peng
+
+* [https://www.spiegel.de/sport/tennis/china-peng-shuai-wird-auf-weiterem-video-von-staatsmedien-praesentiert](https://www.spiegel.de/sport/tennis/china-peng-shuai-wird-auf-weiterem-video-von-staatsmedien-praesentiert-a-526a9f9b-884b-4bec-9429-c965171d56d4#ref=rss)
+### shuai
+
+* [https://www.spiegel.de/sport/tennis/china-peng-shuai-wird-auf-weiterem-video-von-staatsmedien-praesentiert](https://www.spiegel.de/sport/tennis/china-peng-shuai-wird-auf-weiterem-video-von-staatsmedien-praesentiert-a-526a9f9b-884b-4bec-9429-c965171d56d4#ref=rss)
+### video
+
+* [https://www.spiegel.de/sport/tennis/china-peng-shuai-wird-auf-weiterem-video-von-staatsmedien-praesentiert](https://www.spiegel.de/sport/tennis/china-peng-shuai-wird-auf-weiterem-video-von-staatsmedien-praesentiert-a-526a9f9b-884b-4bec-9429-c965171d56d4#ref=rss)
+### sexuelle
+
+* [https://www.spiegel.de/sport/tennis/china-peng-shuai-wird-auf-weiterem-video-von-staatsmedien-praesentiert](https://www.spiegel.de/sport/tennis/china-peng-shuai-wird-auf-weiterem-video-von-staatsmedien-praesentiert-a-526a9f9b-884b-4bec-9429-c965171d56d4#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-gewalt-an-frauen](https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-gewalt-an-frauen-a-4a1e7c4c-5e0d-48b9-b4f7-fb5f35cdb10d#ref=rss)
+### studie
+
+* [https://www.spiegel.de/politik/deutschland/deutschland-politische-polarisierung-nimmt-laut-neuer-studie-zu](https://www.spiegel.de/politik/deutschland/deutschland-politische-polarisierung-nimmt-laut-neuer-studie-zu-a-a31472f0-1191-4eeb-98c7-71ecb4a98751#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/ausland/niederlande-jugendliche-randalieren-erneut-gegen-corona-massnahmen](https://www.spiegel.de/ausland/niederlande-jugendliche-randalieren-erneut-gegen-corona-massnahmen-a-415be2f1-f145-432c-a6f3-be59661da478#ref=rss)
+### sonntag
+
+* [https://www.spiegel.de/ausland/niederlande-jugendliche-randalieren-erneut-gegen-corona-massnahmen](https://www.spiegel.de/ausland/niederlande-jugendliche-randalieren-erneut-gegen-corona-massnahmen-a-415be2f1-f145-432c-a6f3-be59661da478#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-rki-meldet-neue-inzidenz-bei-372-7](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-sonntag-rki-meldet-neue-inzidenz-bei-372-7-a-f47b60cf-7398-4a65-80fd-c9b6674a3c0c#ref=rss)
+### katar
+
+* [https://www.spiegel.de/sport/kommentar-ein-jahr-vor-der-fussball-wm-in-katar-ihr-messis-und-neuers-erhebt-eure-stimme](https://www.spiegel.de/sport/kommentar-ein-jahr-vor-der-fussball-wm-in-katar-ihr-messis-und-neuers-erhebt-eure-stimme-a-7621f07a-912b-488e-b0c3-0674d862ddbc#ref=rss)
+### bestatterin
+
+* [https://www.spiegel.de/panorama/gesellschaft/totensonntag-eine-bestatterin-erklaert-die-bedeutung](https://www.spiegel.de/panorama/gesellschaft/totensonntag-eine-bestatterin-erklaert-die-bedeutung-a-18f8bbb8-ea42-4fb7-ae0b-0597bcb2f2e0#ref=rss)
+### reden
+
+* [https://www.spiegel.de/panorama/gesellschaft/totensonntag-eine-bestatterin-erklaert-die-bedeutung](https://www.spiegel.de/panorama/gesellschaft/totensonntag-eine-bestatterin-erklaert-die-bedeutung-a-18f8bbb8-ea42-4fb7-ae0b-0597bcb2f2e0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-werder-bremen-rettet-remis-gegen-schalke-04-durch-umstrittenen-elfmeter](https://www.spiegel.de/sport/fussball/2-bundesliga-werder-bremen-rettet-remis-gegen-schalke-04-durch-umstrittenen-elfmeter-a-ee033720-f426-4545-a157-d9d0c4f39820#ref=rss)
+### masked
+
+* [https://www.spiegel.de/kultur/the-masked-singer-alexander-klaws-ist-muelli-mueller-und-gewinnt-finale](https://www.spiegel.de/kultur/the-masked-singer-alexander-klaws-ist-muelli-mueller-und-gewinnt-finale-a-ddcd515b-cfc5-42f7-aa44-7fd6f0d5656b#ref=rss)
+### singer
+
+* [https://www.spiegel.de/kultur/the-masked-singer-alexander-klaws-ist-muelli-mueller-und-gewinnt-finale](https://www.spiegel.de/kultur/the-masked-singer-alexander-klaws-ist-muelli-mueller-und-gewinnt-finale-a-ddcd515b-cfc5-42f7-aa44-7fd6f0d5656b#ref=rss)
+### klaws
+
+* [https://www.spiegel.de/kultur/the-masked-singer-alexander-klaws-ist-muelli-mueller-und-gewinnt-finale](https://www.spiegel.de/kultur/the-masked-singer-alexander-klaws-ist-muelli-mueller-und-gewinnt-finale-a-ddcd515b-cfc5-42f7-aa44-7fd6f0d5656b#ref=rss)
+### atp
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic-a-214b0031-0189-4fa5-884b-2934881e1dec#ref=rss)
+### finals
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic-a-214b0031-0189-4fa5-884b-2934881e1dec#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic-a-214b0031-0189-4fa5-884b-2934881e1dec#ref=rss)
+### siegt
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic-a-214b0031-0189-4fa5-884b-2934881e1dec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-bei-xavi-trainerdebuet-mit-euphorie-und-ganz-viel-dusel](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-bei-xavi-trainerdebuet-mit-euphorie-und-ganz-viel-dusel-a-0ca71608-b007-40cd-83f5-74c639263e66#ref=rss)
+### halbfinale
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic-a-214b0031-0189-4fa5-884b-2934881e1dec#ref=rss)
+### novak
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic-a-214b0031-0189-4fa5-884b-2934881e1dec#ref=rss)
+### djoković
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic-a-214b0031-0189-4fa5-884b-2934881e1dec#ref=rss)
+### endspiel
+
+* [https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic](https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-siegt-im-halbfinale-gegen-novak-djokovic-a-214b0031-0189-4fa5-884b-2934881e1dec#ref=rss)
+### schalke
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-werder-bremen-rettet-remis-gegen-schalke-04-durch-umstrittenen-elfmeter](https://www.spiegel.de/sport/fussball/2-bundesliga-werder-bremen-rettet-remis-gegen-schalke-04-durch-umstrittenen-elfmeter-a-ee033720-f426-4545-a157-d9d0c4f39820#ref=rss)
+### elfmeter
+
+* [https://www.spiegel.de/sport/fussball/2-bundesliga-werder-bremen-rettet-remis-gegen-schalke-04-durch-umstrittenen-elfmeter](https://www.spiegel.de/sport/fussball/2-bundesliga-werder-bremen-rettet-remis-gegen-schalke-04-durch-umstrittenen-elfmeter-a-ee033720-f426-4545-a157-d9d0c4f39820#ref=rss)
+### xavi
+
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-bei-xavi-trainerdebuet-mit-euphorie-und-ganz-viel-dusel](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-bei-xavi-trainerdebuet-mit-euphorie-und-ganz-viel-dusel-a-0ca71608-b007-40cd-83f5-74c639263e66#ref=rss)
+### exfreundin
+
+* [https://www.spiegel.de/ausland/usa-ex-freundin-des-selbstmordattentaeters-von-nashville-klagt-auf-belohnungsgeld](https://www.spiegel.de/ausland/usa-ex-freundin-des-selbstmordattentaeters-von-nashville-klagt-auf-belohnungsgeld-a-3f6fc4e6-4747-45c6-a43c-904c615e18a3#ref=rss)
+### klagt
+
+* [https://www.spiegel.de/ausland/usa-ex-freundin-des-selbstmordattentaeters-von-nashville-klagt-auf-belohnungsgeld](https://www.spiegel.de/ausland/usa-ex-freundin-des-selbstmordattentaeters-von-nashville-klagt-auf-belohnungsgeld-a-3f6fc4e6-4747-45c6-a43c-904c615e18a3#ref=rss)
+### belohnungsgeld
+
+* [https://www.spiegel.de/ausland/usa-ex-freundin-des-selbstmordattentaeters-von-nashville-klagt-auf-belohnungsgeld](https://www.spiegel.de/ausland/usa-ex-freundin-des-selbstmordattentaeters-von-nashville-klagt-auf-belohnungsgeld-a-3f6fc4e6-4747-45c6-a43c-904c615e18a3#ref=rss)
+### selbstmordanschlag
+
+* [https://www.spiegel.de/ausland/usa-ex-freundin-des-selbstmordattentaeters-von-nashville-klagt-auf-belohnungsgeld](https://www.spiegel.de/ausland/usa-ex-freundin-des-selbstmordattentaeters-von-nashville-klagt-auf-belohnungsgeld-a-3f6fc4e6-4747-45c6-a43c-904c615e18a3#ref=rss)
+* [https://www.spiegel.de/ausland/somalia-bekannter-somalischer-journalist-stirbt-bei-selbstmordanschlag-in-mogadischu](https://www.spiegel.de/ausland/somalia-bekannter-somalischer-journalist-stirbt-bei-selbstmordanschlag-in-mogadischu-a-907d65ad-5f6d-4976-bcab-2a9bc5b50c53#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-gewalt-an-frauen](https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-gewalt-an-frauen-a-4a1e7c4c-5e0d-48b9-b4f7-fb5f35cdb10d#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-gewalt-an-frauen](https://www.spiegel.de/ausland/frankreich-tausende-demonstrieren-gegen-gewalt-an-frauen-a-4a1e7c4c-5e0d-48b9-b4f7-fb5f35cdb10d#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/polens-oppositionsfuehrer-donald-tusk-muss-fuehrerschein-abgeben](https://www.spiegel.de/ausland/polens-oppositionsfuehrer-donald-tusk-muss-fuehrerschein-abgeben-a-5a06d573-22b8-4138-b958-cf926bda7f7d#ref=rss)
+### tusk
+
+* [https://www.spiegel.de/ausland/polens-oppositionsfuehrer-donald-tusk-muss-fuehrerschein-abgeben](https://www.spiegel.de/ausland/polens-oppositionsfuehrer-donald-tusk-muss-fuehrerschein-abgeben-a-5a06d573-22b8-4138-b958-cf926bda7f7d#ref=rss)
+### liverpool
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal-a-d4f6f6c1-9813-4b25-8bad-28de2113e961#ref=rss)
+### arsenal
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-verliert-gegen-watford-fc-liverpool-ueberrollt-fc-arsenal-a-d4f6f6c1-9813-4b25-8bad-28de2113e961#ref=rss)
 
