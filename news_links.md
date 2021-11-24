@@ -4,334 +4,293 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### jahren
+### bayern
 
-* [https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt-a-86431652-f956-4e08-9ee1-12f09bc5fd29#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/neuauflage-des-nokia-6310-die-rueckkehr-des-knochens](https://www.spiegel.de/netzwelt/gadgets/neuauflage-des-nokia-6310-die-rueckkehr-des-knochens-a-168c310c-b8c9-48da-9bd9-919d8f17de39#ref=rss)
-* [https://www.spiegel.de/kultur/tv/winnetou-star-marie-versini-ist-tot](https://www.spiegel.de/kultur/tv/winnetou-star-marie-versini-ist-tot-a-fafde5a5-d81b-4b07-8e11-f3dd642e99ad#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sonja-engelbrecht-knochen-der-seit-1995-vermissten-frau-gefunden](https://www.spiegel.de/panorama/justiz/sonja-engelbrecht-knochen-der-seit-1995-vermissten-frau-gefunden-a-6a113078-ea3d-49c5-9f32-5086414d8c9a#ref=rss)
-* [https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie](https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie-a-be7b3093-6492-468e-b377-a92651931aa0#ref=rss)
-* [https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan](https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan-a-76ac9693-6bc4-4b3c-9f60-373d03efdbbf#ref=rss)
+* [https://www.spiegel.de/panorama/toter-radfahrer-in-bayern-dritter-tatverdaechtiger-in-untersuchungshaft](https://www.spiegel.de/panorama/toter-radfahrer-in-bayern-dritter-tatverdaechtiger-in-untersuchungshaft-a-6c97991f-92ea-4daa-98d0-981066594229#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jetzt-doch-geimpft-umdenken-bei-gnabry-und-musiala](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jetzt-doch-geimpft-umdenken-bei-gnabry-und-musiala-a-212b9cbc-2833-41e0-9217-b6a83c6ddca0#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/ausland/charlottesville-organisatoren-von-neonazi-demo-muessen-hohen-schadensersatz-zahlen](https://www.spiegel.de/ausland/charlottesville-organisatoren-von-neonazi-demo-muessen-hohen-schadensersatz-zahlen-a-80d5ea15-b8a0-404a-a21f-763beeff3c23#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-fuerchtet-corona-konjunktureinbruch-ein-aehnliches-szenario-wie-im-vorjahr](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-fuerchtet-corona-konjunktureinbruch-ein-aehnliches-szenario-wie-im-vorjahr-a-6909a2fc-aa6b-42c7-b3a6-3cd1d144f9c6#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/internet-zu-langsam-bald-haben-sie-das-recht-weniger-zu-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/internet-zu-langsam-bald-haben-sie-das-recht-weniger-zu-zahlen-a-b7dbd360-301f-4c9a-8314-3a6ec8950d05#ref=rss)
+### mann
+
+* [https://www.spiegel.de/ausland/charlottesville-organisatoren-von-neonazi-demo-muessen-hohen-schadensersatz-zahlen](https://www.spiegel.de/ausland/charlottesville-organisatoren-von-neonazi-demo-muessen-hohen-schadensersatz-zahlen-a-80d5ea15-b8a0-404a-a21f-763beeff3c23#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/iran-vollstreckt-hinrichtung-an-jungem-mann](https://www.spiegel.de/panorama/justiz/iran-vollstreckt-hinrichtung-an-jungem-mann-a-b8cad896-e6ec-4615-bc61-dc5c91178934#ref=rss)
+* [https://www.spiegel.de/ausland/kenosha-kyle-rittenhouse-hat-donald-trump-besucht](https://www.spiegel.de/ausland/kenosha-kyle-rittenhouse-hat-donald-trump-besucht-a-46a9d42c-3663-4e1f-bfa1-7a12c81bc784#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung](https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung-a-69df204d-41b8-4167-91a2-41c3f211b2a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-parteien-wollen-koalitionsvertrag-um-15-uhr-vorstellen](https://www.spiegel.de/politik/deutschland/ampel-parteien-wollen-koalitionsvertrag-um-15-uhr-vorstellen-a-6ed15ac3-566a-4343-8fa0-0e106058a5fc#ref=rss)
+### koalitionsvertrag
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung](https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung-a-69df204d-41b8-4167-91a2-41c3f211b2a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-parteien-wollen-koalitionsvertrag-um-15-uhr-vorstellen](https://www.spiegel.de/politik/deutschland/ampel-parteien-wollen-koalitionsvertrag-um-15-uhr-vorstellen-a-6ed15ac3-566a-4343-8fa0-0e106058a5fc#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt-a-86431652-f956-4e08-9ee1-12f09bc5fd29#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-priester-wegen-kindesmissbrauchs-in-mehr-als-30-faellen-vor-gericht](https://www.spiegel.de/panorama/justiz/koeln-priester-wegen-kindesmissbrauchs-in-mehr-als-30-faellen-vor-gericht-a-d0d225dc-1fee-4f55-a54a-5395a14eda52#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-impfstoff-fuer-kinder-oesterreich-zuwanderung](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-impfstoff-fuer-kinder-oesterreich-zuwanderung-a-1bdb19c1-b752-4bb0-b02a-949d208dfa25#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/haeusliche-gewalt-bka-meldet-fuer-2020-mehr-faelle-von-partnerschaftsgewalt](https://www.spiegel.de/panorama/justiz/haeusliche-gewalt-bka-meldet-fuer-2020-mehr-faelle-von-partnerschaftsgewalt-a-b4bc3fa8-a561-439d-a938-1e6ecc0aa517#ref=rss)
-### china
+* [https://www.spiegel.de/wissenschaft/mensch/freiburg-ueber-400-skelette-auf-lepra-friedhof-entdeckt](https://www.spiegel.de/wissenschaft/mensch/freiburg-ueber-400-skelette-auf-lepra-friedhof-entdeckt-a-c5960a52-76ad-44a7-bade-6277dfa0ee2c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei](https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei-a-5572b0fd-46e2-49b9-ba77-51b6daa73633#ref=rss)
+* [https://www.spiegel.de/ausland/migration-ueber-belarus-kurdische-fuehrung-im-nordirak-fordert-mehr-hilfe-von-europa](https://www.spiegel.de/ausland/migration-ueber-belarus-kurdische-fuehrung-im-nordirak-fordert-mehr-hilfe-von-europa-a-546e854c-dd09-4776-950c-ccbc2310abcc#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/handel-deutsche-firmen-ruecken-von-china-ab-und-gehen-nach-osteuropa](https://www.spiegel.de/wirtschaft/unternehmen/handel-deutsche-firmen-ruecken-von-china-ab-und-gehen-nach-osteuropa-a-acddd797-3af2-4b50-beaa-cd5cfaea0261#ref=rss)
-* [https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie](https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie-a-be7b3093-6492-468e-b377-a92651931aa0#ref=rss)
-* [https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan](https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan-a-76ac9693-6bc4-4b3c-9f60-373d03efdbbf#ref=rss)
-### eu
+* [https://www.spiegel.de/panorama/toter-radfahrer-in-bayern-dritter-tatverdaechtiger-in-untersuchungshaft](https://www.spiegel.de/panorama/toter-radfahrer-in-bayern-dritter-tatverdaechtiger-in-untersuchungshaft-a-6c97991f-92ea-4daa-98d0-981066594229#ref=rss)
+* [https://www.spiegel.de/ausland/corona-randale-wieso-die-gewalt-in-den-niederlanden-eskaliert](https://www.spiegel.de/ausland/corona-randale-wieso-die-gewalt-in-den-niederlanden-eskaliert-a-ca8f8281-4673-4ab3-a885-a72131c94589#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei](https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei-a-5572b0fd-46e2-49b9-ba77-51b6daa73633#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-impfung-haette-astrazeneca-die-vierte-welle-verhindern-koennen](https://www.spiegel.de/wirtschaft/unternehmen/corona-impfung-haette-astrazeneca-die-vierte-welle-verhindern-koennen-a-0937e978-ad44-4315-8fee-da2d40a20b79#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/eu-parlament-stimmt-fuer-reform-der-agrarpolitik](https://www.spiegel.de/wirtschaft/service/eu-parlament-stimmt-fuer-reform-der-agrarpolitik-a-116c7ef9-6b37-4b5c-804e-dd56555508a2#ref=rss)
-* [https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan](https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan-a-76ac9693-6bc4-4b3c-9f60-373d03efdbbf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-strafmass-fuer-toetung-von-rettungskraeften-soll-erhoeht-werden](https://www.spiegel.de/panorama/justiz/grossbritannien-strafmass-fuer-toetung-von-rettungskraeften-soll-erhoeht-werden-a-2053a7c5-f025-4d2a-8116-8cfc210d349e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei](https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei-a-5572b0fd-46e2-49b9-ba77-51b6daa73633#ref=rss)
+* [https://www.spiegel.de/ausland/kolumbien-usa-wollen-farc-guerillas-von-terrorliste-streichen](https://www.spiegel.de/ausland/kolumbien-usa-wollen-farc-guerillas-von-terrorliste-streichen-a-2b0bd93c-57e9-4a9f-b5f9-16778f4f5099#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/kolumbien-usa-wollen-farc-guerillas-von-terrorliste-streichen](https://www.spiegel.de/ausland/kolumbien-usa-wollen-farc-guerillas-von-terrorliste-streichen-a-2b0bd93c-57e9-4a9f-b5f9-16778f4f5099#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/opioid-krise-bei-walmart-cvs-und-walgreens-jury-in-ohio-spricht-us-apotheken-mitschuld-zu](https://www.spiegel.de/wirtschaft/unternehmen/opioid-krise-bei-walmart-cvs-und-walgreens-jury-in-ohio-spricht-us-apotheken-mitschuld-zu-a-e655762a-4cec-4023-89c9-7a76a46b84bb#ref=rss)
+### ampelkoalition
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung](https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung-a-69df204d-41b8-4167-91a2-41c3f211b2a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-gesundheitsministerium-legt-entwurf-fuer-pflege-impfpflicht-vor](https://www.spiegel.de/politik/deutschland/coronavirus-gesundheitsministerium-legt-entwurf-fuer-pflege-impfpflicht-vor-a-1f0ab532-9ba2-4627-aca5-4ca41befc061#ref=rss)
+### bekommt
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung](https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung-a-69df204d-41b8-4167-91a2-41c3f211b2a9#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung](https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung-a-69df204d-41b8-4167-91a2-41c3f211b2a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-parteien-wollen-koalitionsvertrag-um-15-uhr-vorstellen](https://www.spiegel.de/politik/deutschland/ampel-parteien-wollen-koalitionsvertrag-um-15-uhr-vorstellen-a-6ed15ac3-566a-4343-8fa0-0e106058a5fc#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung](https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung-a-69df204d-41b8-4167-91a2-41c3f211b2a9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampel-parteien-wollen-koalitionsvertrag-um-15-uhr-vorstellen](https://www.spiegel.de/politik/deutschland/ampel-parteien-wollen-koalitionsvertrag-um-15-uhr-vorstellen-a-6ed15ac3-566a-4343-8fa0-0e106058a5fc#ref=rss)
+### überblick
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung](https://www.spiegel.de/politik/deutschland/ampelkoalition-fdp-bekommt-ministerien-fuer-finanzen-justiz-verkehr-und-bildung-a-69df204d-41b8-4167-91a2-41c3f211b2a9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-096bbf8f-a113-490b-8f48-f0c98e85e5dd#ref=rss)
+### boris
+
+* [https://www.spiegel.de/ausland/boris-johnson-bei-den-tories-rumort-es-nach-seltsamer-rede-vor-wirtschaftsvertretern](https://www.spiegel.de/ausland/boris-johnson-bei-den-tories-rumort-es-nach-seltsamer-rede-vor-wirtschaftsvertretern-a-2b3be56e-ffd7-4d8b-9578-d0abb6b2b954#ref=rss)
+### tories
+
+* [https://www.spiegel.de/ausland/boris-johnson-bei-den-tories-rumort-es-nach-seltsamer-rede-vor-wirtschaftsvertretern](https://www.spiegel.de/ausland/boris-johnson-bei-den-tories-rumort-es-nach-seltsamer-rede-vor-wirtschaftsvertretern-a-2b3be56e-ffd7-4d8b-9578-d0abb6b2b954#ref=rss)
+### rumort
+
+* [https://www.spiegel.de/ausland/boris-johnson-bei-den-tories-rumort-es-nach-seltsamer-rede-vor-wirtschaftsvertretern](https://www.spiegel.de/ausland/boris-johnson-bei-den-tories-rumort-es-nach-seltsamer-rede-vor-wirtschaftsvertretern-a-2b3be56e-ffd7-4d8b-9578-d0abb6b2b954#ref=rss)
+### wirtschaftsvertretern
+
+* [https://www.spiegel.de/ausland/boris-johnson-bei-den-tories-rumort-es-nach-seltsamer-rede-vor-wirtschaftsvertretern](https://www.spiegel.de/ausland/boris-johnson-bei-den-tories-rumort-es-nach-seltsamer-rede-vor-wirtschaftsvertretern-a-2b3be56e-ffd7-4d8b-9578-d0abb6b2b954#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/boris-johnson-bei-den-tories-rumort-es-nach-seltsamer-rede-vor-wirtschaftsvertretern](https://www.spiegel.de/ausland/boris-johnson-bei-den-tories-rumort-es-nach-seltsamer-rede-vor-wirtschaftsvertretern-a-2b3be56e-ffd7-4d8b-9578-d0abb6b2b954#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei](https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei-a-5572b0fd-46e2-49b9-ba77-51b6daa73633#ref=rss)
+### freiburg
+
+* [https://www.spiegel.de/wissenschaft/mensch/freiburg-ueber-400-skelette-auf-lepra-friedhof-entdeckt](https://www.spiegel.de/wissenschaft/mensch/freiburg-ueber-400-skelette-auf-lepra-friedhof-entdeckt-a-c5960a52-76ad-44a7-bade-6277dfa0ee2c#ref=rss)
+### 400
+
+* [https://www.spiegel.de/wissenschaft/mensch/freiburg-ueber-400-skelette-auf-lepra-friedhof-entdeckt](https://www.spiegel.de/wissenschaft/mensch/freiburg-ueber-400-skelette-auf-lepra-friedhof-entdeckt-a-c5960a52-76ad-44a7-bade-6277dfa0ee2c#ref=rss)
+### leprafriedhof
+
+* [https://www.spiegel.de/wissenschaft/mensch/freiburg-ueber-400-skelette-auf-lepra-friedhof-entdeckt](https://www.spiegel.de/wissenschaft/mensch/freiburg-ueber-400-skelette-auf-lepra-friedhof-entdeckt-a-c5960a52-76ad-44a7-bade-6277dfa0ee2c#ref=rss)
+### tötung
+
+* [https://www.spiegel.de/panorama/toter-radfahrer-in-bayern-dritter-tatverdaechtiger-in-untersuchungshaft](https://www.spiegel.de/panorama/toter-radfahrer-in-bayern-dritter-tatverdaechtiger-in-untersuchungshaft-a-6c97991f-92ea-4daa-98d0-981066594229#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-strafmass-fuer-toetung-von-rettungskraeften-soll-erhoeht-werden](https://www.spiegel.de/panorama/justiz/grossbritannien-strafmass-fuer-toetung-von-rettungskraeften-soll-erhoeht-werden-a-2053a7c5-f025-4d2a-8116-8cfc210d349e#ref=rss)
+### niederlanden
+
+* [https://www.spiegel.de/ausland/corona-randale-wieso-die-gewalt-in-den-niederlanden-eskaliert](https://www.spiegel.de/ausland/corona-randale-wieso-die-gewalt-in-den-niederlanden-eskaliert-a-ca8f8281-4673-4ab3-a885-a72131c94589#ref=rss)
+### premier
+
+* [https://www.spiegel.de/ausland/corona-randale-wieso-die-gewalt-in-den-niederlanden-eskaliert](https://www.spiegel.de/ausland/corona-randale-wieso-die-gewalt-in-den-niederlanden-eskaliert-a-ca8f8281-4673-4ab3-a885-a72131c94589#ref=rss)
+* [https://www.spiegel.de/ausland/migration-ueber-belarus-kurdische-fuehrung-im-nordirak-fordert-mehr-hilfe-von-europa](https://www.spiegel.de/ausland/migration-ueber-belarus-kurdische-fuehrung-im-nordirak-fordert-mehr-hilfe-von-europa-a-546e854c-dd09-4776-950c-ccbc2310abcc#ref=rss)
+### studie
+
+* [https://www.spiegel.de/panorama/bildung/neue-studie-lehramtsstudium-ohne-digitalkompetenz-kein-problem](https://www.spiegel.de/panorama/bildung/neue-studie-lehramtsstudium-ohne-digitalkompetenz-kein-problem-a-417132e4-ff30-4134-8bbb-a14f09599414#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/bildung/neue-studie-lehramtsstudium-ohne-digitalkompetenz-kein-problem](https://www.spiegel.de/panorama/bildung/neue-studie-lehramtsstudium-ohne-digitalkompetenz-kein-problem-a-417132e4-ff30-4134-8bbb-a14f09599414#ref=rss)
+### karim
+
+* [https://www.spiegel.de/panorama/justiz/karim-benzema-fussballstar-in-sexvideo-affaere-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/karim-benzema-fussballstar-in-sexvideo-affaere-zu-bewaehrungsstrafe-verurteilt-a-cda06bef-2c04-46e4-9c51-2533cf11424a#ref=rss)
+### benzema
+
+* [https://www.spiegel.de/panorama/justiz/karim-benzema-fussballstar-in-sexvideo-affaere-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/karim-benzema-fussballstar-in-sexvideo-affaere-zu-bewaehrungsstrafe-verurteilt-a-cda06bef-2c04-46e4-9c51-2533cf11424a#ref=rss)
 ### verurteilt
 
-* [https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt-a-86431652-f956-4e08-9ee1-12f09bc5fd29#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/haftstrafen-fuer-abou-chaker-brueder-urteile-im-prozess-um-haus-diebstahl-spiegel-tv](https://www.spiegel.de/panorama/justiz/haftstrafen-fuer-abou-chaker-brueder-urteile-im-prozess-um-haus-diebstahl-spiegel-tv-a-1f951a25-a364-4124-bea5-a94e4cbe4979#ref=rss)
-* [https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan](https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan-a-76ac9693-6bc4-4b3c-9f60-373d03efdbbf#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/freiburg-erstmals-schaedlicher-japankaefer-in-deutschland-registriert](https://www.spiegel.de/panorama/freiburg-erstmals-schaedlicher-japankaefer-in-deutschland-registriert-a-29ffd076-f7e6-4377-9560-87629da24717#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-eine-impfpflicht-die-groesste-wirkung-zeigt](https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-eine-impfpflicht-die-groesste-wirkung-zeigt-a-c41a60d1-5d7f-456c-9440-a06529f26d21#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/haeusliche-gewalt-bka-meldet-fuer-2020-mehr-faelle-von-partnerschaftsgewalt](https://www.spiegel.de/panorama/justiz/haeusliche-gewalt-bka-meldet-fuer-2020-mehr-faelle-von-partnerschaftsgewalt-a-b4bc3fa8-a561-439d-a938-1e6ecc0aa517#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-impfung-haette-astrazeneca-die-vierte-welle-verhindern-koennen](https://www.spiegel.de/wirtschaft/unternehmen/corona-impfung-haette-astrazeneca-die-vierte-welle-verhindern-koennen-a-0937e978-ad44-4315-8fee-da2d40a20b79#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/kalifornien-forscher-finden-mammutstosszahn-in-der-tiefsee](https://www.spiegel.de/wissenschaft/mensch/kalifornien-forscher-finden-mammutstosszahn-in-der-tiefsee-a-c92fbb3a-81f8-4ea4-8e01-104d910853dd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klima-krise-baeume-kuehlen-staedte-besser-als-gruenflaechen](https://www.spiegel.de/wissenschaft/natur/klima-krise-baeume-kuehlen-staedte-besser-als-gruenflaechen-a-3de265ae-8a0e-4521-a2d1-1560841e1220#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt-a-86431652-f956-4e08-9ee1-12f09bc5fd29#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/haftstrafen-fuer-abou-chaker-brueder-urteile-im-prozess-um-haus-diebstahl-spiegel-tv](https://www.spiegel.de/panorama/justiz/haftstrafen-fuer-abou-chaker-brueder-urteile-im-prozess-um-haus-diebstahl-spiegel-tv-a-1f951a25-a364-4124-bea5-a94e4cbe4979#ref=rss)
-* [https://www.spiegel.de/kultur/tv/winnetou-star-marie-versini-ist-tot](https://www.spiegel.de/kultur/tv/winnetou-star-marie-versini-ist-tot-a-fafde5a5-d81b-4b07-8e11-f3dd642e99ad#ref=rss)
-### japankäfer
-
-* [https://www.spiegel.de/panorama/freiburg-erstmals-schaedlicher-japankaefer-in-deutschland-registriert](https://www.spiegel.de/panorama/freiburg-erstmals-schaedlicher-japankaefer-in-deutschland-registriert-a-29ffd076-f7e6-4377-9560-87629da24717#ref=rss)
-### astrazeneca
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-impfung-haette-astrazeneca-die-vierte-welle-verhindern-koennen](https://www.spiegel.de/wirtschaft/unternehmen/corona-impfung-haette-astrazeneca-die-vierte-welle-verhindern-koennen-a-0937e978-ad44-4315-8fee-da2d40a20b79#ref=rss)
-### vierte
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-impfung-haette-astrazeneca-die-vierte-welle-verhindern-koennen](https://www.spiegel.de/wirtschaft/unternehmen/corona-impfung-haette-astrazeneca-die-vierte-welle-verhindern-koennen-a-0937e978-ad44-4315-8fee-da2d40a20b79#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-angela-merkel-beraet-mit-ampelparteien-ueber-pandemie](https://www.spiegel.de/politik/deutschland/corona-angela-merkel-beraet-mit-ampelparteien-ueber-pandemie-a-067bfba3-b345-4f60-b397-54e2d37bbb49#ref=rss)
-### welle
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-impfung-haette-astrazeneca-die-vierte-welle-verhindern-koennen](https://www.spiegel.de/wirtschaft/unternehmen/corona-impfung-haette-astrazeneca-die-vierte-welle-verhindern-koennen-a-0937e978-ad44-4315-8fee-da2d40a20b79#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-regeln-in-welchem-bundesland-gilt-jetzt-was](https://www.spiegel.de/politik/deutschland/corona-regeln-in-welchem-bundesland-gilt-jetzt-was-a-a8fab3be-c9b9-42a2-8140-b9df489516f6#ref=rss)
-### regeln
-
-* [https://www.spiegel.de/politik/deutschland/corona-regeln-in-welchem-bundesland-gilt-jetzt-was](https://www.spiegel.de/politik/deutschland/corona-regeln-in-welchem-bundesland-gilt-jetzt-was-a-a8fab3be-c9b9-42a2-8140-b9df489516f6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/eu-parlament-stimmt-fuer-reform-der-agrarpolitik](https://www.spiegel.de/wirtschaft/service/eu-parlament-stimmt-fuer-reform-der-agrarpolitik-a-116c7ef9-6b37-4b5c-804e-dd56555508a2#ref=rss)
-### bald
-
-* [https://www.spiegel.de/politik/deutschland/corona-regeln-in-welchem-bundesland-gilt-jetzt-was](https://www.spiegel.de/politik/deutschland/corona-regeln-in-welchem-bundesland-gilt-jetzt-was-a-a8fab3be-c9b9-42a2-8140-b9df489516f6#ref=rss)
-* [https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung](https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung-a-20cac96e-8b2b-4e02-b613-926da4c11a98#ref=rss)
-### treten
-
-* [https://www.spiegel.de/politik/deutschland/corona-regeln-in-welchem-bundesland-gilt-jetzt-was](https://www.spiegel.de/politik/deutschland/corona-regeln-in-welchem-bundesland-gilt-jetzt-was-a-a8fab3be-c9b9-42a2-8140-b9df489516f6#ref=rss)
-* [https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie](https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie-a-be7b3093-6492-468e-b377-a92651931aa0#ref=rss)
-### düsseldorf
-
-* [https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt-a-86431652-f956-4e08-9ee1-12f09bc5fd29#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt-a-86431652-f956-4e08-9ee1-12f09bc5fd29#ref=rss)
-* [https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan](https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan-a-76ac9693-6bc4-4b3c-9f60-373d03efdbbf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/karim-benzema-fussballstar-in-sexvideo-affaere-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/karim-benzema-fussballstar-in-sexvideo-affaere-zu-bewaehrungsstrafe-verurteilt-a-cda06bef-2c04-46e4-9c51-2533cf11424a#ref=rss)
 ### haft
 
-* [https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt-a-86431652-f956-4e08-9ee1-12f09bc5fd29#ref=rss)
-* [https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan](https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan-a-76ac9693-6bc4-4b3c-9f60-373d03efdbbf#ref=rss)
-### alternativen
+* [https://www.spiegel.de/panorama/justiz/karim-benzema-fussballstar-in-sexvideo-affaere-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/karim-benzema-fussballstar-in-sexvideo-affaere-zu-bewaehrungsstrafe-verurteilt-a-cda06bef-2c04-46e4-9c51-2533cf11424a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-strafmass-fuer-toetung-von-rettungskraeften-soll-erhoeht-werden](https://www.spiegel.de/panorama/justiz/grossbritannien-strafmass-fuer-toetung-von-rettungskraeften-soll-erhoeht-werden-a-2053a7c5-f025-4d2a-8116-8cfc210d349e#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/hawala-banking-angeklagter-in-duesseldorf-zu-mehr-als-vier-jahren-haft-verurteilt-a-86431652-f956-4e08-9ee1-12f09bc5fd29#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/handel-deutsche-firmen-ruecken-von-china-ab-und-gehen-nach-osteuropa](https://www.spiegel.de/wirtschaft/unternehmen/handel-deutsche-firmen-ruecken-von-china-ab-und-gehen-nach-osteuropa-a-acddd797-3af2-4b50-beaa-cd5cfaea0261#ref=rss)
-### mich
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-strafmass-fuer-toetung-von-rettungskraeften-soll-erhoeht-werden](https://www.spiegel.de/panorama/justiz/grossbritannien-strafmass-fuer-toetung-von-rettungskraeften-soll-erhoeht-werden-a-2053a7c5-f025-4d2a-8116-8cfc210d349e#ref=rss)
+### missouri
 
-* [https://www.spiegel.de/psychologie/mega-auktion-bei-sotheby-s-wenn-die-superreichen-zuschlagen](https://www.spiegel.de/psychologie/mega-auktion-bei-sotheby-s-wenn-die-superreichen-zuschlagen-a-a9baffa5-598b-4a1a-8710-174e1fc5b3e8#ref=rss)
-### oft
+* [https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei](https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei-a-5572b0fd-46e2-49b9-ba77-51b6daa73633#ref=rss)
+### frei
 
-* [https://www.spiegel.de/psychologie/mega-auktion-bei-sotheby-s-wenn-die-superreichen-zuschlagen](https://www.spiegel.de/psychologie/mega-auktion-bei-sotheby-s-wenn-die-superreichen-zuschlagen-a-a9baffa5-598b-4a1a-8710-174e1fc5b3e8#ref=rss)
-* [https://www.spiegel.de/deinspiegel/barrierefreiheit-im-gaming-lasst-uns-zocken](https://www.spiegel.de/deinspiegel/barrierefreiheit-im-gaming-lasst-uns-zocken-a-9f6ca8bf-0002-0001-0000-000176028047#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/panorama/justiz/haftstrafen-fuer-abou-chaker-brueder-urteile-im-prozess-um-haus-diebstahl-spiegel-tv](https://www.spiegel.de/panorama/justiz/haftstrafen-fuer-abou-chaker-brueder-urteile-im-prozess-um-haus-diebstahl-spiegel-tv-a-1f951a25-a364-4124-bea5-a94e4cbe4979#ref=rss)
-### tv
-
-* [https://www.spiegel.de/panorama/justiz/haftstrafen-fuer-abou-chaker-brueder-urteile-im-prozess-um-haus-diebstahl-spiegel-tv](https://www.spiegel.de/panorama/justiz/haftstrafen-fuer-abou-chaker-brueder-urteile-im-prozess-um-haus-diebstahl-spiegel-tv-a-1f951a25-a364-4124-bea5-a94e4cbe4979#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/haftstrafen-fuer-abou-chaker-brueder-urteile-im-prozess-um-haus-diebstahl-spiegel-tv](https://www.spiegel.de/panorama/justiz/haftstrafen-fuer-abou-chaker-brueder-urteile-im-prozess-um-haus-diebstahl-spiegel-tv-a-1f951a25-a364-4124-bea5-a94e4cbe4979#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klima-krise-baeume-kuehlen-staedte-besser-als-gruenflaechen](https://www.spiegel.de/wissenschaft/natur/klima-krise-baeume-kuehlen-staedte-besser-als-gruenflaechen-a-3de265ae-8a0e-4521-a2d1-1560841e1220#ref=rss)
-### film
-
-* [https://www.spiegel.de/panorama/justiz/haftstrafen-fuer-abou-chaker-brueder-urteile-im-prozess-um-haus-diebstahl-spiegel-tv](https://www.spiegel.de/panorama/justiz/haftstrafen-fuer-abou-chaker-brueder-urteile-im-prozess-um-haus-diebstahl-spiegel-tv-a-1f951a25-a364-4124-bea5-a94e4cbe4979#ref=rss)
-* [https://www.spiegel.de/kultur/tv/winnetou-star-marie-versini-ist-tot](https://www.spiegel.de/kultur/tv/winnetou-star-marie-versini-ist-tot-a-fafde5a5-d81b-4b07-8e11-f3dd642e99ad#ref=rss)
-### priester
-
-* [https://www.spiegel.de/panorama/justiz/koeln-priester-wegen-kindesmissbrauchs-in-mehr-als-30-faellen-vor-gericht](https://www.spiegel.de/panorama/justiz/koeln-priester-wegen-kindesmissbrauchs-in-mehr-als-30-faellen-vor-gericht-a-d0d225dc-1fee-4f55-a54a-5395a14eda52#ref=rss)
-### kindesmissbrauchs
-
-* [https://www.spiegel.de/panorama/justiz/koeln-priester-wegen-kindesmissbrauchs-in-mehr-als-30-faellen-vor-gericht](https://www.spiegel.de/panorama/justiz/koeln-priester-wegen-kindesmissbrauchs-in-mehr-als-30-faellen-vor-gericht-a-d0d225dc-1fee-4f55-a54a-5395a14eda52#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/koeln-priester-wegen-kindesmissbrauchs-in-mehr-als-30-faellen-vor-gericht](https://www.spiegel.de/panorama/justiz/koeln-priester-wegen-kindesmissbrauchs-in-mehr-als-30-faellen-vor-gericht-a-d0d225dc-1fee-4f55-a54a-5395a14eda52#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei](https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei-a-5572b0fd-46e2-49b9-ba77-51b6daa73633#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/joe-biden-zapft-oelreserven-an-und-macht-energie-konzerne-fuer-hohe-benzinpreise-mitverantwortlich](https://www.spiegel.de/wirtschaft/soziales/joe-biden-zapft-oelreserven-an-und-macht-energie-konzerne-fuer-hohe-benzinpreise-mitverantwortlich-a-3cc65e91-c615-4db4-a9e7-96ad7d67f286#ref=rss)
 ### jahre
 
-* [https://www.spiegel.de/panorama/justiz/koeln-priester-wegen-kindesmissbrauchs-in-mehr-als-30-faellen-vor-gericht](https://www.spiegel.de/panorama/justiz/koeln-priester-wegen-kindesmissbrauchs-in-mehr-als-30-faellen-vor-gericht-a-d0d225dc-1fee-4f55-a54a-5395a14eda52#ref=rss)
-* [https://www.spiegel.de/kultur/tv/winnetou-star-marie-versini-ist-tot](https://www.spiegel.de/kultur/tv/winnetou-star-marie-versini-ist-tot-a-fafde5a5-d81b-4b07-8e11-f3dd642e99ad#ref=rss)
-### news
+* [https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei](https://www.spiegel.de/panorama/justiz/missouri-wegen-dreifachmordes-inhaftierter-schwarzer-nach-mehr-als-40-jahren-frei-a-5572b0fd-46e2-49b9-ba77-51b6daa73633#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/iran-vollstreckt-hinrichtung-an-jungem-mann](https://www.spiegel.de/panorama/justiz/iran-vollstreckt-hinrichtung-an-jungem-mann-a-b8cad896-e6ec-4615-bc61-dc5c91178934#ref=rss)
+### england
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-impfstoff-fuer-kinder-oesterreich-zuwanderung](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-impfstoff-fuer-kinder-oesterreich-zuwanderung-a-1bdb19c1-b752-4bb0-b02a-949d208dfa25#ref=rss)
-* [https://www.spiegel.de/ausland/kyle-rittenhouse-us-todesschuetze-verteidigt-sein-recht-auf-selbstverteidigung](https://www.spiegel.de/ausland/kyle-rittenhouse-us-todesschuetze-verteidigt-sein-recht-auf-selbstverteidigung-a-0db120e9-1858-41f2-916c-c33dacd8aa0b#ref=rss)
-### österreich
+* [https://www.spiegel.de/sport/england-laesst-zusammenhang-zwischen-demenz-und-sport-untersuchen](https://www.spiegel.de/sport/england-laesst-zusammenhang-zwischen-demenz-und-sport-untersuchen-a-34aa8ab4-c385-49c1-b0e2-8db183b8e7e7#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-impfstoff-fuer-kinder-oesterreich-zuwanderung](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-impfstoff-fuer-kinder-oesterreich-zuwanderung-a-1bdb19c1-b752-4bb0-b02a-949d208dfa25#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-eine-impfpflicht-die-groesste-wirkung-zeigt](https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-eine-impfpflicht-die-groesste-wirkung-zeigt-a-c41a60d1-5d7f-456c-9440-a06529f26d21#ref=rss)
-### zuwanderung
+* [https://www.spiegel.de/sport/england-laesst-zusammenhang-zwischen-demenz-und-sport-untersuchen](https://www.spiegel.de/sport/england-laesst-zusammenhang-zwischen-demenz-und-sport-untersuchen-a-34aa8ab4-c385-49c1-b0e2-8db183b8e7e7#ref=rss)
+* [https://www.spiegel.de/ausland/kolumbien-usa-wollen-farc-guerillas-von-terrorliste-streichen](https://www.spiegel.de/ausland/kolumbien-usa-wollen-farc-guerillas-von-terrorliste-streichen-a-2b0bd93c-57e9-4a9f-b5f9-16778f4f5099#ref=rss)
+### björn
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-impfstoff-fuer-kinder-oesterreich-zuwanderung](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-impfstoff-fuer-kinder-oesterreich-zuwanderung-a-1bdb19c1-b752-4bb0-b02a-949d208dfa25#ref=rss)
-### omid
+* [https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben-a-0be962bb-b25e-456f-91ad-b5a0ccf1a204#ref=rss)
+### höcke
 
-* [https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung](https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung-a-20cac96e-8b2b-4e02-b613-926da4c11a98#ref=rss)
-### nouripour
+* [https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben-a-0be962bb-b25e-456f-91ad-b5a0ccf1a204#ref=rss)
+### thüringer
 
-* [https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung](https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung-a-20cac96e-8b2b-4e02-b613-926da4c11a98#ref=rss)
-### grünen
+* [https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben-a-0be962bb-b25e-456f-91ad-b5a0ccf1a204#ref=rss)
+### landtag
 
-* [https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung](https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung-a-20cac96e-8b2b-4e02-b613-926da4c11a98#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/eu-parlament-stimmt-fuer-reform-der-agrarpolitik](https://www.spiegel.de/wirtschaft/service/eu-parlament-stimmt-fuer-reform-der-agrarpolitik-a-116c7ef9-6b37-4b5c-804e-dd56555508a2#ref=rss)
-### schwerpunkte
+* [https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben-a-0be962bb-b25e-456f-91ad-b5a0ccf1a204#ref=rss)
+### immunität
 
-* [https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung](https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung-a-20cac96e-8b2b-4e02-b613-926da4c11a98#ref=rss)
-### regierung
+* [https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben-a-0be962bb-b25e-456f-91ad-b5a0ccf1a204#ref=rss)
+### aufheben
 
-* [https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung](https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung-a-20cac96e-8b2b-4e02-b613-926da4c11a98#ref=rss)
-### neuen
+* [https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben-a-0be962bb-b25e-456f-91ad-b5a0ccf1a204#ref=rss)
+### spiegelinformationen
 
-* [https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung](https://www.spiegel.de/politik/omid-nouripour-von-den-gruenen-ueber-aussenpolitische-schwerpunkte-der-zukuenftigen-regierung-a-20cac96e-8b2b-4e02-b613-926da4c11a98#ref=rss)
-### werder
+* [https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-afd-thueringer-landtag-soll-immunitaet-aufheben-a-0be962bb-b25e-456f-91ad-b5a0ccf1a204#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-gesundheitsministerium-legt-entwurf-fuer-pflege-impfpflicht-vor](https://www.spiegel.de/politik/deutschland/coronavirus-gesundheitsministerium-legt-entwurf-fuer-pflege-impfpflicht-vor-a-1f0ab532-9ba2-4627-aca5-4ca41befc061#ref=rss)
+### iran
 
-* [https://www.spiegel.de/sport/fussball/werder-bremen-danijel-zenkovic-uebernahm-fuer-markus-anfang-und-muss-nun-in-quarantaene](https://www.spiegel.de/sport/fussball/werder-bremen-danijel-zenkovic-uebernahm-fuer-markus-anfang-und-muss-nun-in-quarantaene-a-673d9897-085b-48b9-8018-c518045de64e#ref=rss)
-### bremen
+* [https://www.spiegel.de/panorama/justiz/iran-vollstreckt-hinrichtung-an-jungem-mann](https://www.spiegel.de/panorama/justiz/iran-vollstreckt-hinrichtung-an-jungem-mann-a-b8cad896-e6ec-4615-bc61-dc5c91178934#ref=rss)
+### corona
 
-* [https://www.spiegel.de/sport/fussball/werder-bremen-danijel-zenkovic-uebernahm-fuer-markus-anfang-und-muss-nun-in-quarantaene](https://www.spiegel.de/sport/fussball/werder-bremen-danijel-zenkovic-uebernahm-fuer-markus-anfang-und-muss-nun-in-quarantaene-a-673d9897-085b-48b9-8018-c518045de64e#ref=rss)
-### danijel
-
-* [https://www.spiegel.de/sport/fussball/werder-bremen-danijel-zenkovic-uebernahm-fuer-markus-anfang-und-muss-nun-in-quarantaene](https://www.spiegel.de/sport/fussball/werder-bremen-danijel-zenkovic-uebernahm-fuer-markus-anfang-und-muss-nun-in-quarantaene-a-673d9897-085b-48b9-8018-c518045de64e#ref=rss)
-### zenkovic
-
-* [https://www.spiegel.de/sport/fussball/werder-bremen-danijel-zenkovic-uebernahm-fuer-markus-anfang-und-muss-nun-in-quarantaene](https://www.spiegel.de/sport/fussball/werder-bremen-danijel-zenkovic-uebernahm-fuer-markus-anfang-und-muss-nun-in-quarantaene-a-673d9897-085b-48b9-8018-c518045de64e#ref=rss)
-### markus
-
-* [https://www.spiegel.de/sport/fussball/werder-bremen-danijel-zenkovic-uebernahm-fuer-markus-anfang-und-muss-nun-in-quarantaene](https://www.spiegel.de/sport/fussball/werder-bremen-danijel-zenkovic-uebernahm-fuer-markus-anfang-und-muss-nun-in-quarantaene-a-673d9897-085b-48b9-8018-c518045de64e#ref=rss)
-### anfang
-
-* [https://www.spiegel.de/sport/fussball/werder-bremen-danijel-zenkovic-uebernahm-fuer-markus-anfang-und-muss-nun-in-quarantaene](https://www.spiegel.de/sport/fussball/werder-bremen-danijel-zenkovic-uebernahm-fuer-markus-anfang-und-muss-nun-in-quarantaene-a-673d9897-085b-48b9-8018-c518045de64e#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/corona-angela-merkel-beraet-mit-ampelparteien-ueber-pandemie](https://www.spiegel.de/politik/deutschland/corona-angela-merkel-beraet-mit-ampelparteien-ueber-pandemie-a-067bfba3-b345-4f60-b397-54e2d37bbb49#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/corona-angela-merkel-beraet-mit-ampelparteien-ueber-pandemie](https://www.spiegel.de/politik/deutschland/corona-angela-merkel-beraet-mit-ampelparteien-ueber-pandemie-a-067bfba3-b345-4f60-b397-54e2d37bbb49#ref=rss)
-### darüber
-
-* [https://www.spiegel.de/politik/deutschland/corona-angela-merkel-beraet-mit-ampelparteien-ueber-pandemie](https://www.spiegel.de/politik/deutschland/corona-angela-merkel-beraet-mit-ampelparteien-ueber-pandemie-a-067bfba3-b345-4f60-b397-54e2d37bbb49#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-eine-impfpflicht-die-groesste-wirkung-zeigt](https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-eine-impfpflicht-die-groesste-wirkung-zeigt-a-c41a60d1-5d7f-456c-9440-a06529f26d21#ref=rss)
-### neuauflage
-
-* [https://www.spiegel.de/netzwelt/gadgets/neuauflage-des-nokia-6310-die-rueckkehr-des-knochens](https://www.spiegel.de/netzwelt/gadgets/neuauflage-des-nokia-6310-die-rueckkehr-des-knochens-a-168c310c-b8c9-48da-9bd9-919d8f17de39#ref=rss)
-### 6310
-
-* [https://www.spiegel.de/netzwelt/gadgets/neuauflage-des-nokia-6310-die-rueckkehr-des-knochens](https://www.spiegel.de/netzwelt/gadgets/neuauflage-des-nokia-6310-die-rueckkehr-des-knochens-a-168c310c-b8c9-48da-9bd9-919d8f17de39#ref=rss)
-### rückkehr
-
-* [https://www.spiegel.de/netzwelt/gadgets/neuauflage-des-nokia-6310-die-rueckkehr-des-knochens](https://www.spiegel.de/netzwelt/gadgets/neuauflage-des-nokia-6310-die-rueckkehr-des-knochens-a-168c310c-b8c9-48da-9bd9-919d8f17de39#ref=rss)
-* [https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie](https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie-a-be7b3093-6492-468e-b377-a92651931aa0#ref=rss)
-### knochens
-
-* [https://www.spiegel.de/netzwelt/gadgets/neuauflage-des-nokia-6310-die-rueckkehr-des-knochens](https://www.spiegel.de/netzwelt/gadgets/neuauflage-des-nokia-6310-die-rueckkehr-des-knochens-a-168c310c-b8c9-48da-9bd9-919d8f17de39#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/sonja-engelbrecht-knochen-der-seit-1995-vermissten-frau-gefunden](https://www.spiegel.de/panorama/justiz/sonja-engelbrecht-knochen-der-seit-1995-vermissten-frau-gefunden-a-6a113078-ea3d-49c5-9f32-5086414d8c9a#ref=rss)
-### eigentlich
-
-* [https://www.spiegel.de/wissenschaft/mensch/kalifornien-forscher-finden-mammutstosszahn-in-der-tiefsee](https://www.spiegel.de/wissenschaft/mensch/kalifornien-forscher-finden-mammutstosszahn-in-der-tiefsee-a-c92fbb3a-81f8-4ea4-8e01-104d910853dd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinland-pfalz-wird-geberland-dank-biontech](https://www.spiegel.de/wirtschaft/unternehmen/rheinland-pfalz-wird-geberland-dank-biontech-a-3d5ce64c-bbfc-46ed-94da-1b42260b6d26#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wissenschaft/mensch/kalifornien-forscher-finden-mammutstosszahn-in-der-tiefsee](https://www.spiegel.de/wissenschaft/mensch/kalifornien-forscher-finden-mammutstosszahn-in-der-tiefsee-a-c92fbb3a-81f8-4ea4-8e01-104d910853dd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/gentechnik-mit-genomeditierung-das-klima-retten](https://www.spiegel.de/wissenschaft/natur/gentechnik-mit-genomeditierung-das-klima-retten-a-8dcd552a-c29d-4841-81ec-6c8654be9667#ref=rss)
-### marie
-
-* [https://www.spiegel.de/kultur/tv/winnetou-star-marie-versini-ist-tot](https://www.spiegel.de/kultur/tv/winnetou-star-marie-versini-ist-tot-a-fafde5a5-d81b-4b07-8e11-f3dd642e99ad#ref=rss)
-### versini
-
-* [https://www.spiegel.de/kultur/tv/winnetou-star-marie-versini-ist-tot](https://www.spiegel.de/kultur/tv/winnetou-star-marie-versini-ist-tot-a-fafde5a5-d81b-4b07-8e11-f3dd642e99ad#ref=rss)
-### länderfinanzausgleich
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinland-pfalz-wird-geberland-dank-biontech](https://www.spiegel.de/wirtschaft/unternehmen/rheinland-pfalz-wird-geberland-dank-biontech-a-3d5ce64c-bbfc-46ed-94da-1b42260b6d26#ref=rss)
-### rheinlandpfalz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinland-pfalz-wird-geberland-dank-biontech](https://www.spiegel.de/wirtschaft/unternehmen/rheinland-pfalz-wird-geberland-dank-biontech-a-3d5ce64c-bbfc-46ed-94da-1b42260b6d26#ref=rss)
-### ändern
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinland-pfalz-wird-geberland-dank-biontech](https://www.spiegel.de/wirtschaft/unternehmen/rheinland-pfalz-wird-geberland-dank-biontech-a-3d5ce64c-bbfc-46ed-94da-1b42260b6d26#ref=rss)
-* [https://www.spiegel.de/deinspiegel/barrierefreiheit-im-gaming-lasst-uns-zocken](https://www.spiegel.de/deinspiegel/barrierefreiheit-im-gaming-lasst-uns-zocken-a-9f6ca8bf-0002-0001-0000-000176028047#ref=rss)
-### klimakrise
-
-* [https://www.spiegel.de/wissenschaft/natur/klima-krise-baeume-kuehlen-staedte-besser-als-gruenflaechen](https://www.spiegel.de/wissenschaft/natur/klima-krise-baeume-kuehlen-staedte-besser-als-gruenflaechen-a-3de265ae-8a0e-4521-a2d1-1560841e1220#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/gentechnik-mit-genomeditierung-das-klima-retten](https://www.spiegel.de/wissenschaft/natur/gentechnik-mit-genomeditierung-das-klima-retten-a-8dcd552a-c29d-4841-81ec-6c8654be9667#ref=rss)
-### bäume
-
-* [https://www.spiegel.de/wissenschaft/natur/klima-krise-baeume-kuehlen-staedte-besser-als-gruenflaechen](https://www.spiegel.de/wissenschaft/natur/klima-krise-baeume-kuehlen-staedte-besser-als-gruenflaechen-a-3de265ae-8a0e-4521-a2d1-1560841e1220#ref=rss)
-### klima
-
-* [https://www.spiegel.de/wissenschaft/natur/klima-krise-baeume-kuehlen-staedte-besser-als-gruenflaechen](https://www.spiegel.de/wissenschaft/natur/klima-krise-baeume-kuehlen-staedte-besser-als-gruenflaechen-a-3de265ae-8a0e-4521-a2d1-1560841e1220#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/gentechnik-mit-genomeditierung-das-klima-retten](https://www.spiegel.de/wissenschaft/natur/gentechnik-mit-genomeditierung-das-klima-retten-a-8dcd552a-c29d-4841-81ec-6c8654be9667#ref=rss)
-### reform
-
-* [https://www.spiegel.de/wirtschaft/service/eu-parlament-stimmt-fuer-reform-der-agrarpolitik](https://www.spiegel.de/wirtschaft/service/eu-parlament-stimmt-fuer-reform-der-agrarpolitik-a-116c7ef9-6b37-4b5c-804e-dd56555508a2#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/service/eu-parlament-stimmt-fuer-reform-der-agrarpolitik](https://www.spiegel.de/wirtschaft/service/eu-parlament-stimmt-fuer-reform-der-agrarpolitik-a-116c7ef9-6b37-4b5c-804e-dd56555508a2#ref=rss)
-* [https://www.spiegel.de/ausland/kyle-rittenhouse-us-todesschuetze-verteidigt-sein-recht-auf-selbstverteidigung](https://www.spiegel.de/ausland/kyle-rittenhouse-us-todesschuetze-verteidigt-sein-recht-auf-selbstverteidigung-a-0db120e9-1858-41f2-916c-c33dacd8aa0b#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-eine-impfpflicht-die-groesste-wirkung-zeigt](https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-eine-impfpflicht-die-groesste-wirkung-zeigt-a-c41a60d1-5d7f-456c-9440-a06529f26d21#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/coronavirus-personalrat-draengt-horst-seehofer-zur-impfpflicht-fuer-bundespolizisten](https://www.spiegel.de/panorama/justiz/coronavirus-personalrat-draengt-horst-seehofer-zur-impfpflicht-fuer-bundespolizisten-a-cefc83ab-39ab-4033-aa68-7a0b7967378a#ref=rss)
-### impfpflicht
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-eine-impfpflicht-die-groesste-wirkung-zeigt](https://www.spiegel.de/wissenschaft/medizin/coronavirus-wie-eine-impfpflicht-die-groesste-wirkung-zeigt-a-c41a60d1-5d7f-456c-9440-a06529f26d21#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/coronavirus-personalrat-draengt-horst-seehofer-zur-impfpflicht-fuer-bundespolizisten](https://www.spiegel.de/panorama/justiz/coronavirus-personalrat-draengt-horst-seehofer-zur-impfpflicht-fuer-bundespolizisten-a-cefc83ab-39ab-4033-aa68-7a0b7967378a#ref=rss)
-### volker
-
-* [https://www.spiegel.de/kultur/volker-lechtenbrink-ein-nachruf-auf-den-saenger-und-schauspieler-der-davongekommene](https://www.spiegel.de/kultur/volker-lechtenbrink-ein-nachruf-auf-den-saenger-und-schauspieler-der-davongekommene-a-b5ab09be-f782-4260-995c-7beb4c9d2a26#ref=rss)
-### lechtenbrink
-
-* [https://www.spiegel.de/kultur/volker-lechtenbrink-ein-nachruf-auf-den-saenger-und-schauspieler-der-davongekommene](https://www.spiegel.de/kultur/volker-lechtenbrink-ein-nachruf-auf-den-saenger-und-schauspieler-der-davongekommene-a-b5ab09be-f782-4260-995c-7beb4c9d2a26#ref=rss)
-### nachruf
-
-* [https://www.spiegel.de/kultur/volker-lechtenbrink-ein-nachruf-auf-den-saenger-und-schauspieler-der-davongekommene](https://www.spiegel.de/kultur/volker-lechtenbrink-ein-nachruf-auf-den-saenger-und-schauspieler-der-davongekommene-a-b5ab09be-f782-4260-995c-7beb4c9d2a26#ref=rss)
-### sänger
-
-* [https://www.spiegel.de/kultur/volker-lechtenbrink-ein-nachruf-auf-den-saenger-und-schauspieler-der-davongekommene](https://www.spiegel.de/kultur/volker-lechtenbrink-ein-nachruf-auf-den-saenger-und-schauspieler-der-davongekommene-a-b5ab09be-f782-4260-995c-7beb4c9d2a26#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/kultur/volker-lechtenbrink-ein-nachruf-auf-den-saenger-und-schauspieler-der-davongekommene](https://www.spiegel.de/kultur/volker-lechtenbrink-ein-nachruf-auf-den-saenger-und-schauspieler-der-davongekommene-a-b5ab09be-f782-4260-995c-7beb4c9d2a26#ref=rss)
-### machte
-
-* [https://www.spiegel.de/kultur/volker-lechtenbrink-ein-nachruf-auf-den-saenger-und-schauspieler-der-davongekommene](https://www.spiegel.de/kultur/volker-lechtenbrink-ein-nachruf-auf-den-saenger-und-schauspieler-der-davongekommene-a-b5ab09be-f782-4260-995c-7beb4c9d2a26#ref=rss)
-* [https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie](https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie-a-be7b3093-6492-468e-b377-a92651931aa0#ref=rss)
-### gentechnik
-
-* [https://www.spiegel.de/wissenschaft/natur/gentechnik-mit-genomeditierung-das-klima-retten](https://www.spiegel.de/wissenschaft/natur/gentechnik-mit-genomeditierung-das-klima-retten-a-8dcd552a-c29d-4841-81ec-6c8654be9667#ref=rss)
-### bundespolizisten
-
-* [https://www.spiegel.de/panorama/justiz/coronavirus-personalrat-draengt-horst-seehofer-zur-impfpflicht-fuer-bundespolizisten](https://www.spiegel.de/panorama/justiz/coronavirus-personalrat-draengt-horst-seehofer-zur-impfpflicht-fuer-bundespolizisten-a-cefc83ab-39ab-4033-aa68-7a0b7967378a#ref=rss)
-### sonja
-
-* [https://www.spiegel.de/panorama/justiz/sonja-engelbrecht-knochen-der-seit-1995-vermissten-frau-gefunden](https://www.spiegel.de/panorama/justiz/sonja-engelbrecht-knochen-der-seit-1995-vermissten-frau-gefunden-a-6a113078-ea3d-49c5-9f32-5086414d8c9a#ref=rss)
-### engelbrecht
-
-* [https://www.spiegel.de/panorama/justiz/sonja-engelbrecht-knochen-der-seit-1995-vermissten-frau-gefunden](https://www.spiegel.de/panorama/justiz/sonja-engelbrecht-knochen-der-seit-1995-vermissten-frau-gefunden-a-6a113078-ea3d-49c5-9f32-5086414d8c9a#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/sonja-engelbrecht-knochen-der-seit-1995-vermissten-frau-gefunden](https://www.spiegel.de/panorama/justiz/sonja-engelbrecht-knochen-der-seit-1995-vermissten-frau-gefunden-a-6a113078-ea3d-49c5-9f32-5086414d8c9a#ref=rss)
-### gewalt
-
-* [https://www.spiegel.de/panorama/justiz/haeusliche-gewalt-bka-meldet-fuer-2020-mehr-faelle-von-partnerschaftsgewalt](https://www.spiegel.de/panorama/justiz/haeusliche-gewalt-bka-meldet-fuer-2020-mehr-faelle-von-partnerschaftsgewalt-a-b4bc3fa8-a561-439d-a938-1e6ecc0aa517#ref=rss)
-### bka
-
-* [https://www.spiegel.de/panorama/justiz/haeusliche-gewalt-bka-meldet-fuer-2020-mehr-faelle-von-partnerschaftsgewalt](https://www.spiegel.de/panorama/justiz/haeusliche-gewalt-bka-meldet-fuer-2020-mehr-faelle-von-partnerschaftsgewalt-a-b4bc3fa8-a561-439d-a938-1e6ecc0aa517#ref=rss)
-### 2020
-
-* [https://www.spiegel.de/panorama/justiz/haeusliche-gewalt-bka-meldet-fuer-2020-mehr-faelle-von-partnerschaftsgewalt](https://www.spiegel.de/panorama/justiz/haeusliche-gewalt-bka-meldet-fuer-2020-mehr-faelle-von-partnerschaftsgewalt-a-b4bc3fa8-a561-439d-a938-1e6ecc0aa517#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-rutscht-wegen-corona-weiter-ab-unternehmen-aeusserst-besorgt](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-rutscht-wegen-corona-weiter-ab-unternehmen-aeusserst-besorgt-a-cfe10172-7a5c-49ce-81eb-62915130cc7f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-096bbf8f-a113-490b-8f48-f0c98e85e5dd#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/handel-deutsche-firmen-ruecken-von-china-ab-und-gehen-nach-osteuropa](https://www.spiegel.de/wirtschaft/unternehmen/handel-deutsche-firmen-ruecken-von-china-ab-und-gehen-nach-osteuropa-a-acddd797-3af2-4b50-beaa-cd5cfaea0261#ref=rss)
-### firmen
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-rutscht-wegen-corona-weiter-ab-unternehmen-aeusserst-besorgt](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-rutscht-wegen-corona-weiter-ab-unternehmen-aeusserst-besorgt-a-cfe10172-7a5c-49ce-81eb-62915130cc7f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-fuerchtet-corona-konjunktureinbruch-ein-aehnliches-szenario-wie-im-vorjahr](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-fuerchtet-corona-konjunktureinbruch-ein-aehnliches-szenario-wie-im-vorjahr-a-6909a2fc-aa6b-42c7-b3a6-3cd1d144f9c6#ref=rss)
+### industrie
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/handel-deutsche-firmen-ruecken-von-china-ab-und-gehen-nach-osteuropa](https://www.spiegel.de/wirtschaft/unternehmen/handel-deutsche-firmen-ruecken-von-china-ab-und-gehen-nach-osteuropa-a-acddd797-3af2-4b50-beaa-cd5cfaea0261#ref=rss)
-### osteuropa
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-rutscht-wegen-corona-weiter-ab-unternehmen-aeusserst-besorgt](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-rutscht-wegen-corona-weiter-ab-unternehmen-aeusserst-besorgt-a-cfe10172-7a5c-49ce-81eb-62915130cc7f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-fuerchtet-corona-konjunktureinbruch-ein-aehnliches-szenario-wie-im-vorjahr](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-fuerchtet-corona-konjunktureinbruch-ein-aehnliches-szenario-wie-im-vorjahr-a-6909a2fc-aa6b-42c7-b3a6-3cd1d144f9c6#ref=rss)
+### etwas
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/handel-deutsche-firmen-ruecken-von-china-ab-und-gehen-nach-osteuropa](https://www.spiegel.de/wirtschaft/unternehmen/handel-deutsche-firmen-ruecken-von-china-ab-und-gehen-nach-osteuropa-a-acddd797-3af2-4b50-beaa-cd5cfaea0261#ref=rss)
-### länder
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-rutscht-wegen-corona-weiter-ab-unternehmen-aeusserst-besorgt](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-rutscht-wegen-corona-weiter-ab-unternehmen-aeusserst-besorgt-a-cfe10172-7a5c-49ce-81eb-62915130cc7f#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/internet-zu-langsam-bald-haben-sie-das-recht-weniger-zu-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/internet-zu-langsam-bald-haben-sie-das-recht-weniger-zu-zahlen-a-b7dbd360-301f-4c9a-8314-3a6ec8950d05#ref=rss)
+### besser
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/handel-deutsche-firmen-ruecken-von-china-ab-und-gehen-nach-osteuropa](https://www.spiegel.de/wirtschaft/unternehmen/handel-deutsche-firmen-ruecken-von-china-ab-und-gehen-nach-osteuropa-a-acddd797-3af2-4b50-beaa-cd5cfaea0261#ref=rss)
-* [https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie](https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie-a-be7b3093-6492-468e-b377-a92651931aa0#ref=rss)
-### tischtenniswm
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-rutscht-wegen-corona-weiter-ab-unternehmen-aeusserst-besorgt](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-rutscht-wegen-corona-weiter-ab-unternehmen-aeusserst-besorgt-a-cfe10172-7a5c-49ce-81eb-62915130cc7f#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/internet-zu-langsam-bald-haben-sie-das-recht-weniger-zu-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/internet-zu-langsam-bald-haben-sie-das-recht-weniger-zu-zahlen-a-b7dbd360-301f-4c9a-8314-3a6ec8950d05#ref=rss)
+### wirtschaft
 
-* [https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie](https://www.spiegel.de/sport/tischtennis-wm-die-rueckkehr-der-ping-pong-diplomatie-a-be7b3093-6492-468e-b377-a92651931aa0#ref=rss)
-### gaming
+* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-fuerchtet-corona-konjunktureinbruch-ein-aehnliches-szenario-wie-im-vorjahr](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-fuerchtet-corona-konjunktureinbruch-ein-aehnliches-szenario-wie-im-vorjahr-a-6909a2fc-aa6b-42c7-b3a6-3cd1d144f9c6#ref=rss)
+### unter
 
-* [https://www.spiegel.de/deinspiegel/barrierefreiheit-im-gaming-lasst-uns-zocken](https://www.spiegel.de/deinspiegel/barrierefreiheit-im-gaming-lasst-uns-zocken-a-9f6ca8bf-0002-0001-0000-000176028047#ref=rss)
-### bürgermeister
+* [https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-fuerchtet-corona-konjunktureinbruch-ein-aehnliches-szenario-wie-im-vorjahr](https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-fuerchtet-corona-konjunktureinbruch-ein-aehnliches-szenario-wie-im-vorjahr-a-6909a2fc-aa6b-42c7-b3a6-3cd1d144f9c6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/opioid-krise-bei-walmart-cvs-und-walgreens-jury-in-ohio-spricht-us-apotheken-mitschuld-zu](https://www.spiegel.de/wirtschaft/unternehmen/opioid-krise-bei-walmart-cvs-und-walgreens-jury-in-ohio-spricht-us-apotheken-mitschuld-zu-a-e655762a-4cec-4023-89c9-7a76a46b84bb#ref=rss)
+### schweden
 
-* [https://www.spiegel.de/ausland/tuerkei-buergermeister-von-bolu-erhoeht-preise-nur-fuer-auslaender](https://www.spiegel.de/ausland/tuerkei-buergermeister-von-bolu-erhoeht-preise-nur-fuer-auslaender-a-d8ac39f3-1ca4-4210-bd91-0203f60d4497#ref=rss)
-### bolu
+* [https://www.spiegel.de/ausland/schweden-magdalena-andersson-ist-erste-regierungschefin](https://www.spiegel.de/ausland/schweden-magdalena-andersson-ist-erste-regierungschefin-a-64ecd294-8558-49e0-8c8d-961e07b49fe0#ref=rss)
+### andersson
 
-* [https://www.spiegel.de/ausland/tuerkei-buergermeister-von-bolu-erhoeht-preise-nur-fuer-auslaender](https://www.spiegel.de/ausland/tuerkei-buergermeister-von-bolu-erhoeht-preise-nur-fuer-auslaender-a-d8ac39f3-1ca4-4210-bd91-0203f60d4497#ref=rss)
-### preise
+* [https://www.spiegel.de/ausland/schweden-magdalena-andersson-ist-erste-regierungschefin](https://www.spiegel.de/ausland/schweden-magdalena-andersson-ist-erste-regierungschefin-a-64ecd294-8558-49e0-8c8d-961e07b49fe0#ref=rss)
+### gesundheitsministerium
 
-* [https://www.spiegel.de/ausland/tuerkei-buergermeister-von-bolu-erhoeht-preise-nur-fuer-auslaender](https://www.spiegel.de/ausland/tuerkei-buergermeister-von-bolu-erhoeht-preise-nur-fuer-auslaender-a-d8ac39f3-1ca4-4210-bd91-0203f60d4497#ref=rss)
-### ausländer
+* [https://www.spiegel.de/politik/deutschland/coronavirus-gesundheitsministerium-legt-entwurf-fuer-pflege-impfpflicht-vor](https://www.spiegel.de/politik/deutschland/coronavirus-gesundheitsministerium-legt-entwurf-fuer-pflege-impfpflicht-vor-a-1f0ab532-9ba2-4627-aca5-4ca41befc061#ref=rss)
+### macht
 
-* [https://www.spiegel.de/ausland/tuerkei-buergermeister-von-bolu-erhoeht-preise-nur-fuer-auslaender](https://www.spiegel.de/ausland/tuerkei-buergermeister-von-bolu-erhoeht-preise-nur-fuer-auslaender-a-d8ac39f3-1ca4-4210-bd91-0203f60d4497#ref=rss)
-### freilassung
+* [https://www.spiegel.de/politik/deutschland/coronavirus-gesundheitsministerium-legt-entwurf-fuer-pflege-impfpflicht-vor](https://www.spiegel.de/politik/deutschland/coronavirus-gesundheitsministerium-legt-entwurf-fuer-pflege-impfpflicht-vor-a-1f0ab532-9ba2-4627-aca5-4ca41befc061#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/joe-biden-zapft-oelreserven-an-und-macht-energie-konzerne-fuer-hohe-benzinpreise-mitverantwortlich](https://www.spiegel.de/wirtschaft/soziales/joe-biden-zapft-oelreserven-an-und-macht-energie-konzerne-fuer-hohe-benzinpreise-mitverantwortlich-a-3cc65e91-c615-4db4-a9e7-96ad7d67f286#ref=rss)
+### internet
 
-* [https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan](https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan-a-76ac9693-6bc4-4b3c-9f60-373d03efdbbf#ref=rss)
-### zhang
+* [https://www.spiegel.de/netzwelt/netzpolitik/internet-zu-langsam-bald-haben-sie-das-recht-weniger-zu-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/internet-zu-langsam-bald-haben-sie-das-recht-weniger-zu-zahlen-a-b7dbd360-301f-4c9a-8314-3a6ec8950d05#ref=rss)
+### bald
 
-* [https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan](https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan-a-76ac9693-6bc4-4b3c-9f60-373d03efdbbf#ref=rss)
-### zhan
+* [https://www.spiegel.de/netzwelt/netzpolitik/internet-zu-langsam-bald-haben-sie-das-recht-weniger-zu-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/internet-zu-langsam-bald-haben-sie-das-recht-weniger-zu-zahlen-a-b7dbd360-301f-4c9a-8314-3a6ec8950d05#ref=rss)
+### fc
 
-* [https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan](https://www.spiegel.de/ausland/corona-berichterstattung-eu-fordert-von-china-freilassung-von-journalistin-zhang-zhan-a-76ac9693-6bc4-4b3c-9f60-373d03efdbbf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jetzt-doch-geimpft-umdenken-bei-gnabry-und-musiala](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-jetzt-doch-geimpft-umdenken-bei-gnabry-und-musiala-a-212b9cbc-2833-41e0-9217-b6a83c6ddca0#ref=rss)
+### nasa
+
+* [https://www.spiegel.de/wissenschaft/weltall/asteroiden-mission-nasa-startet-dart-erfolgreich](https://www.spiegel.de/wissenschaft/weltall/asteroiden-mission-nasa-startet-dart-erfolgreich-a-7c708f3e-5871-44b4-8d2b-d3b08715da68#ref=rss)
+### großen
+
+* [https://www.spiegel.de/wissenschaft/weltall/asteroiden-mission-nasa-startet-dart-erfolgreich](https://www.spiegel.de/wissenschaft/weltall/asteroiden-mission-nasa-startet-dart-erfolgreich-a-7c708f3e-5871-44b4-8d2b-d3b08715da68#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/opioid-krise-bei-walmart-cvs-und-walgreens-jury-in-ohio-spricht-us-apotheken-mitschuld-zu](https://www.spiegel.de/wirtschaft/unternehmen/opioid-krise-bei-walmart-cvs-und-walgreens-jury-in-ohio-spricht-us-apotheken-mitschuld-zu-a-e655762a-4cec-4023-89c9-7a76a46b84bb#ref=rss)
 ### kyle
 
-* [https://www.spiegel.de/ausland/kyle-rittenhouse-us-todesschuetze-verteidigt-sein-recht-auf-selbstverteidigung](https://www.spiegel.de/ausland/kyle-rittenhouse-us-todesschuetze-verteidigt-sein-recht-auf-selbstverteidigung-a-0db120e9-1858-41f2-916c-c33dacd8aa0b#ref=rss)
+* [https://www.spiegel.de/ausland/kenosha-kyle-rittenhouse-hat-donald-trump-besucht](https://www.spiegel.de/ausland/kenosha-kyle-rittenhouse-hat-donald-trump-besucht-a-46a9d42c-3663-4e1f-bfa1-7a12c81bc784#ref=rss)
 ### rittenhouse
 
-* [https://www.spiegel.de/ausland/kyle-rittenhouse-us-todesschuetze-verteidigt-sein-recht-auf-selbstverteidigung](https://www.spiegel.de/ausland/kyle-rittenhouse-us-todesschuetze-verteidigt-sein-recht-auf-selbstverteidigung-a-0db120e9-1858-41f2-916c-c33dacd8aa0b#ref=rss)
+* [https://www.spiegel.de/ausland/kenosha-kyle-rittenhouse-hat-donald-trump-besucht](https://www.spiegel.de/ausland/kenosha-kyle-rittenhouse-hat-donald-trump-besucht-a-46a9d42c-3663-4e1f-bfa1-7a12c81bc784#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/kenosha-kyle-rittenhouse-hat-donald-trump-besucht](https://www.spiegel.de/ausland/kenosha-kyle-rittenhouse-hat-donald-trump-besucht-a-46a9d42c-3663-4e1f-bfa1-7a12c81bc784#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/kenosha-kyle-rittenhouse-hat-donald-trump-besucht](https://www.spiegel.de/ausland/kenosha-kyle-rittenhouse-hat-donald-trump-besucht-a-46a9d42c-3663-4e1f-bfa1-7a12c81bc784#ref=rss)
+### washington
+
+* [https://www.spiegel.de/ausland/kolumbien-usa-wollen-farc-guerillas-von-terrorliste-streichen](https://www.spiegel.de/ausland/kolumbien-usa-wollen-farc-guerillas-von-terrorliste-streichen-a-2b0bd93c-57e9-4a9f-b5f9-16778f4f5099#ref=rss)
+* [https://www.spiegel.de/ausland/sturm-auf-us-kapitol-untersuchungsausschuss-laedt-rechte-milizfuehrer-vor](https://www.spiegel.de/ausland/sturm-auf-us-kapitol-untersuchungsausschuss-laedt-rechte-milizfuehrer-vor-a-2a49681e-0b87-4692-8c83-d3b5f32a2450#ref=rss)
+### opioidkrise
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/opioid-krise-bei-walmart-cvs-und-walgreens-jury-in-ohio-spricht-us-apotheken-mitschuld-zu](https://www.spiegel.de/wirtschaft/unternehmen/opioid-krise-bei-walmart-cvs-und-walgreens-jury-in-ohio-spricht-us-apotheken-mitschuld-zu-a-e655762a-4cec-4023-89c9-7a76a46b84bb#ref=rss)
+### coronahotspots
+
+* [https://www.spiegel.de/panorama/bildung/corona-hotspots-wie-geht-s-weiter-an-den-schulen](https://www.spiegel.de/panorama/bildung/corona-hotspots-wie-geht-s-weiter-an-den-schulen-a-8942b91c-b6e5-41bc-a009-db2474ced492#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/bildung/corona-hotspots-wie-geht-s-weiter-an-den-schulen](https://www.spiegel.de/panorama/bildung/corona-hotspots-wie-geht-s-weiter-an-den-schulen-a-8942b91c-b6e5-41bc-a009-db2474ced492#ref=rss)
+### joe
+
+* [https://www.spiegel.de/wirtschaft/soziales/joe-biden-zapft-oelreserven-an-und-macht-energie-konzerne-fuer-hohe-benzinpreise-mitverantwortlich](https://www.spiegel.de/wirtschaft/soziales/joe-biden-zapft-oelreserven-an-und-macht-energie-konzerne-fuer-hohe-benzinpreise-mitverantwortlich-a-3cc65e91-c615-4db4-a9e7-96ad7d67f286#ref=rss)
+### biden
+
+* [https://www.spiegel.de/wirtschaft/soziales/joe-biden-zapft-oelreserven-an-und-macht-energie-konzerne-fuer-hohe-benzinpreise-mitverantwortlich](https://www.spiegel.de/wirtschaft/soziales/joe-biden-zapft-oelreserven-an-und-macht-energie-konzerne-fuer-hohe-benzinpreise-mitverantwortlich-a-3cc65e91-c615-4db4-a9e7-96ad7d67f286#ref=rss)
+### preise
+
+* [https://www.spiegel.de/wirtschaft/soziales/joe-biden-zapft-oelreserven-an-und-macht-energie-konzerne-fuer-hohe-benzinpreise-mitverantwortlich](https://www.spiegel.de/wirtschaft/soziales/joe-biden-zapft-oelreserven-an-und-macht-energie-konzerne-fuer-hohe-benzinpreise-mitverantwortlich-a-3cc65e91-c615-4db4-a9e7-96ad7d67f286#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/wirtschaft/soziales/joe-biden-zapft-oelreserven-an-und-macht-energie-konzerne-fuer-hohe-benzinpreise-mitverantwortlich](https://www.spiegel.de/wirtschaft/soziales/joe-biden-zapft-oelreserven-an-und-macht-energie-konzerne-fuer-hohe-benzinpreise-mitverantwortlich-a-3cc65e91-c615-4db4-a9e7-96ad7d67f286#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-096bbf8f-a113-490b-8f48-f0c98e85e5dd#ref=rss)
+### johannes
+
+* [https://www.spiegel.de/sport/wintersport/olympische-winterspiele-johannes-rydzek-kritisiert-vergabe-nach-peking](https://www.spiegel.de/sport/wintersport/olympische-winterspiele-johannes-rydzek-kritisiert-vergabe-nach-peking-a-95e2bafd-be91-413c-b2d8-dda64761c4d2#ref=rss)
+### rydzek
+
+* [https://www.spiegel.de/sport/wintersport/olympische-winterspiele-johannes-rydzek-kritisiert-vergabe-nach-peking](https://www.spiegel.de/sport/wintersport/olympische-winterspiele-johannes-rydzek-kritisiert-vergabe-nach-peking-a-95e2bafd-be91-413c-b2d8-dda64761c4d2#ref=rss)
+### vergabe
+
+* [https://www.spiegel.de/sport/wintersport/olympische-winterspiele-johannes-rydzek-kritisiert-vergabe-nach-peking](https://www.spiegel.de/sport/wintersport/olympische-winterspiele-johannes-rydzek-kritisiert-vergabe-nach-peking-a-95e2bafd-be91-413c-b2d8-dda64761c4d2#ref=rss)
+### peking
+
+* [https://www.spiegel.de/sport/wintersport/olympische-winterspiele-johannes-rydzek-kritisiert-vergabe-nach-peking](https://www.spiegel.de/sport/wintersport/olympische-winterspiele-johannes-rydzek-kritisiert-vergabe-nach-peking-a-95e2bafd-be91-413c-b2d8-dda64761c4d2#ref=rss)
+### sturm
+
+* [https://www.spiegel.de/ausland/sturm-auf-us-kapitol-untersuchungsausschuss-laedt-rechte-milizfuehrer-vor](https://www.spiegel.de/ausland/sturm-auf-us-kapitol-untersuchungsausschuss-laedt-rechte-milizfuehrer-vor-a-2a49681e-0b87-4692-8c83-d3b5f32a2450#ref=rss)
+### uskapitol
+
+* [https://www.spiegel.de/ausland/sturm-auf-us-kapitol-untersuchungsausschuss-laedt-rechte-milizfuehrer-vor](https://www.spiegel.de/ausland/sturm-auf-us-kapitol-untersuchungsausschuss-laedt-rechte-milizfuehrer-vor-a-2a49681e-0b87-4692-8c83-d3b5f32a2450#ref=rss)
+### rechte
+
+* [https://www.spiegel.de/ausland/sturm-auf-us-kapitol-untersuchungsausschuss-laedt-rechte-milizfuehrer-vor](https://www.spiegel.de/ausland/sturm-auf-us-kapitol-untersuchungsausschuss-laedt-rechte-milizfuehrer-vor-a-2a49681e-0b87-4692-8c83-d3b5f32a2450#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/ausland/sturm-auf-us-kapitol-untersuchungsausschuss-laedt-rechte-milizfuehrer-vor](https://www.spiegel.de/ausland/sturm-auf-us-kapitol-untersuchungsausschuss-laedt-rechte-milizfuehrer-vor-a-2a49681e-0b87-4692-8c83-d3b5f32a2450#ref=rss)
+* [https://www.spiegel.de/ausland/migration-ueber-belarus-kurdische-fuehrung-im-nordirak-fordert-mehr-hilfe-von-europa](https://www.spiegel.de/ausland/migration-ueber-belarus-kurdische-fuehrung-im-nordirak-fordert-mehr-hilfe-von-europa-a-546e854c-dd09-4776-950c-ccbc2310abcc#ref=rss)
+### nordirak
+
+* [https://www.spiegel.de/ausland/migration-ueber-belarus-kurdische-fuehrung-im-nordirak-fordert-mehr-hilfe-von-europa](https://www.spiegel.de/ausland/migration-ueber-belarus-kurdische-fuehrung-im-nordirak-fordert-mehr-hilfe-von-europa-a-546e854c-dd09-4776-950c-ccbc2310abcc#ref=rss)
+### hilfe
+
+* [https://www.spiegel.de/ausland/migration-ueber-belarus-kurdische-fuehrung-im-nordirak-fordert-mehr-hilfe-von-europa](https://www.spiegel.de/ausland/migration-ueber-belarus-kurdische-fuehrung-im-nordirak-fordert-mehr-hilfe-von-europa-a-546e854c-dd09-4776-950c-ccbc2310abcc#ref=rss)
+### kretschmann
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-096bbf8f-a113-490b-8f48-f0c98e85e5dd#ref=rss)
 
