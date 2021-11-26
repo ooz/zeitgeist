@@ -4,376 +4,326 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### b11529
 
-* [https://www.spiegel.de/wirtschaft/ist-glyphosat-wirklich-ungefaehrlich](https://www.spiegel.de/wirtschaft/ist-glyphosat-wirklich-ungefaehrlich-a-2f929195-347c-4a23-817f-ddb0abc1a972#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins](https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins-a-deee3b95-01a0-4076-aec9-750f6607a330#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-lage-in-deutschland-luftwaffe-startet-am-nachmittag-mit-hilfsfluegen](https://www.spiegel.de/politik/deutschland/corona-lage-in-deutschland-luftwaffe-startet-am-nachmittag-mit-hilfsfluegen-a-f19c15d3-839c-4335-b1e7-a5de33f99db7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/importpreise-steigen-so-stark-wie-seit-1980-nicht-mehr](https://www.spiegel.de/wirtschaft/unternehmen/importpreise-steigen-so-stark-wie-seit-1980-nicht-mehr-a-16a877fc-63ab-4e4d-8773-4a7c99efb3fc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-steuern-wir-auf-den-naechsten-lockdown-zu](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-steuern-wir-auf-den-naechsten-lockdown-zu-a-2a01975f-0e34-4bc4-9d84-176046487927#ref=rss)
-### spahn
-
-* [https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins](https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins-a-deee3b95-01a0-4076-aec9-750f6607a330#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt-a-7ef3bcdf-e21a-400b-9d38-8743b0fa321d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream](https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream-a-a3a2833f-51ef-49e0-ad85-4cfe4f8109e4#ref=rss)
-### woche
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich](https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich-a-ac8f15e5-4383-43dd-a2aa-5a38669b9d7b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche-a-a26ee1d4-4519-4746-8afc-b300b1500ae9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/gruene-woche-fuer-2022-wegen-corona-abgesagt](https://www.spiegel.de/wirtschaft/service/gruene-woche-fuer-2022-wegen-corona-abgesagt-a-e46a11c6-e6ca-43d1-9a83-45b6841a1f8d#ref=rss)
-### corona
-
-* [https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins](https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins-a-deee3b95-01a0-4076-aec9-750f6607a330#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/gruene-woche-fuer-2022-wegen-corona-abgesagt](https://www.spiegel.de/wirtschaft/service/gruene-woche-fuer-2022-wegen-corona-abgesagt-a-e46a11c6-e6ca-43d1-9a83-45b6841a1f8d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/corona-mehr-als-3000-ermittlungsverfahren-wegen-gefaelschter-impfpaesse](https://www.spiegel.de/panorama/justiz/corona-mehr-als-3000-ermittlungsverfahren-wegen-gefaelschter-impfpaesse-a-587e5575-38b3-48da-a3a1-02861e7ee67e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream](https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream-a-a3a2833f-51ef-49e0-ad85-4cfe4f8109e4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-steuern-wir-auf-den-naechsten-lockdown-zu](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-steuern-wir-auf-den-naechsten-lockdown-zu-a-2a01975f-0e34-4bc4-9d84-176046487927#ref=rss)
-### jens
-
-* [https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins](https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins-a-deee3b95-01a0-4076-aec9-750f6607a330#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt-a-7ef3bcdf-e21a-400b-9d38-8743b0fa321d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream](https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream-a-a3a2833f-51ef-49e0-ad85-4cfe4f8109e4#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche-a-a26ee1d4-4519-4746-8afc-b300b1500ae9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/jahreshauptversammlung-von-bayern-muenchen-wir-sind-bayern-und-ihr-nicht](https://www.spiegel.de/sport/fussball/jahreshauptversammlung-von-bayern-muenchen-wir-sind-bayern-und-ihr-nicht-a-b38dc014-4aff-4d18-ae75-d6e46cab61bc#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-steuern-wir-auf-den-naechsten-lockdown-zu](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-steuern-wir-auf-den-naechsten-lockdown-zu-a-2a01975f-0e34-4bc4-9d84-176046487927#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-designierte-aussenministerin-im-spiegel-gespraech](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-designierte-aussenministerin-im-spiegel-gespraech-a-dec2f65c-b473-42bf-8f40-91b686a2b85e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung](https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung-a-f3a4dbc8-f693-44af-867b-8ffce66313b0#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-bundesregierung-schraenkt-flugverkehr-aus-suedafrika-ein](https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-bundesregierung-schraenkt-flugverkehr-aus-suedafrika-ein-a-6413c095-b2e9-494c-be5f-acef389b4294#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt](https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt-a-ee891de8-a77f-4c91-835b-23a3782bf61e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream](https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream-a-a3a2833f-51ef-49e0-ad85-4cfe4f8109e4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/black-friday-so-killt-konsum-das-klima](https://www.spiegel.de/wirtschaft/service/black-friday-so-killt-konsum-das-klima-a-20eff28e-3458-4feb-b250-f9a5b6ef0428#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/corona-mehr-als-3000-ermittlungsverfahren-wegen-gefaelschter-impfpaesse](https://www.spiegel.de/panorama/justiz/corona-mehr-als-3000-ermittlungsverfahren-wegen-gefaelschter-impfpaesse-a-587e5575-38b3-48da-a3a1-02861e7ee67e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/importpreise-steigen-so-stark-wie-seit-1980-nicht-mehr](https://www.spiegel.de/wirtschaft/unternehmen/importpreise-steigen-so-stark-wie-seit-1980-nicht-mehr-a-16a877fc-63ab-4e4d-8773-4a7c99efb3fc#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/service/tokio-ikea-vermietet-apartment-fuer-einen-euro-im-monat](https://www.spiegel.de/wirtschaft/service/tokio-ikea-vermietet-apartment-fuer-einen-euro-im-monat-a-ded10045-aed1-42e8-b71b-a54fda5ef856#ref=rss)
-* [https://www.spiegel.de/ausland/wie-eu-millionen-bei-mutmasslichen-hisbollah-finanziers-landeten](https://www.spiegel.de/ausland/wie-eu-millionen-bei-mutmasslichen-hisbollah-finanziers-landeten-a-017ef81d-1728-4f62-9d4f-745f2707c67c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/corona-pandemie-konzerne-streichen-milliardengewinne-ein](https://www.spiegel.de/wirtschaft/corona-pandemie-konzerne-streichen-milliardengewinne-ein-a-1f8d4e23-e3b5-419d-9b89-e8813982be1c#ref=rss)
-### europäischen
-
-* [https://www.spiegel.de/wirtschaft/ist-glyphosat-wirklich-ungefaehrlich](https://www.spiegel.de/wirtschaft/ist-glyphosat-wirklich-ungefaehrlich-a-2f929195-347c-4a23-817f-ddb0abc1a972#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/raumfahrt-wann-der-erste-europaeer-den-mond-betreten-soll](https://www.spiegel.de/wissenschaft/weltall/raumfahrt-wann-der-erste-europaeer-den-mond-betreten-soll-a-40a580e1-7f00-404b-82a0-3fd35423efc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalitionsvertrag-kommen-jetzt-die-vereinigten-staaten-von-europa](https://www.spiegel.de/politik/deutschland/ampel-koalitionsvertrag-kommen-jetzt-die-vereinigten-staaten-von-europa-a-3eaacdca-dbd4-4bda-bc21-74c0587b3cf4#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/wirtschaft/ist-glyphosat-wirklich-ungefaehrlich](https://www.spiegel.de/wirtschaft/ist-glyphosat-wirklich-ungefaehrlich-a-2f929195-347c-4a23-817f-ddb0abc1a972#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt](https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt-a-ee891de8-a77f-4c91-835b-23a3782bf61e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/corona-mehr-als-3000-ermittlungsverfahren-wegen-gefaelschter-impfpaesse](https://www.spiegel.de/panorama/justiz/corona-mehr-als-3000-ermittlungsverfahren-wegen-gefaelschter-impfpaesse-a-587e5575-38b3-48da-a3a1-02861e7ee67e#ref=rss)
-### sekt
-
-* [https://www.spiegel.de/stil/sekt-und-champagner-alternativen-kein-sekt-aber-schmeckt](https://www.spiegel.de/stil/sekt-und-champagner-alternativen-kein-sekt-aber-schmeckt-a-3f4d3af2-f36a-4e38-9a28-d5e313c1b001#ref=rss)
-### wenig
-
-* [https://www.spiegel.de/stil/sekt-und-champagner-alternativen-kein-sekt-aber-schmeckt](https://www.spiegel.de/stil/sekt-und-champagner-alternativen-kein-sekt-aber-schmeckt-a-3f4d3af2-f36a-4e38-9a28-d5e313c1b001#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-bundesregierung-schraenkt-flugverkehr-aus-suedafrika-ein](https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-bundesregierung-schraenkt-flugverkehr-aus-suedafrika-ein-a-6413c095-b2e9-494c-be5f-acef389b4294#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/tokio-ikea-vermietet-apartment-fuer-einen-euro-im-monat](https://www.spiegel.de/wirtschaft/service/tokio-ikea-vermietet-apartment-fuer-einen-euro-im-monat-a-ded10045-aed1-42e8-b71b-a54fda5ef856#ref=rss)
-### coronalage
-
-* [https://www.spiegel.de/politik/deutschland/corona-lage-in-deutschland-luftwaffe-startet-am-nachmittag-mit-hilfsfluegen](https://www.spiegel.de/politik/deutschland/corona-lage-in-deutschland-luftwaffe-startet-am-nachmittag-mit-hilfsfluegen-a-f19c15d3-839c-4335-b1e7-a5de33f99db7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt](https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt-a-ee891de8-a77f-4c91-835b-23a3782bf61e#ref=rss)
-### migranten
-
-* [https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab](https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab-a-addc042b-b769-4c02-a36d-2afcdb2428c0#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich-a-ddc32739-f57a-45bc-b27e-29a3c3680ff0#ref=rss)
-### ärmelkanal
-
-* [https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab](https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab-a-addc042b-b769-4c02-a36d-2afcdb2428c0#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich-a-ddc32739-f57a-45bc-b27e-29a3c3680ff0#ref=rss)
-### johnson
-
-* [https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab](https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab-a-addc042b-b769-4c02-a36d-2afcdb2428c0#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich-a-ddc32739-f57a-45bc-b27e-29a3c3680ff0#ref=rss)
-### ampelkoalition
-
-* [https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung](https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung-a-1443bc7b-deed-447d-851d-16bd7626d852#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung](https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung-a-f3a4dbc8-f693-44af-867b-8ffce66313b0#ref=rss)
-### gucci
-
-* [https://www.spiegel.de/kultur/kino/house-of-gucci-mit-lady-gaga-und-adam-driver-der-ganz-grosse-schwindel](https://www.spiegel.de/kultur/kino/house-of-gucci-mit-lady-gaga-und-adam-driver-der-ganz-grosse-schwindel-a-7f193e95-737d-43b3-aadc-6518d8fee042#ref=rss)
-### versucht
-
-* [https://www.spiegel.de/kultur/kino/house-of-gucci-mit-lady-gaga-und-adam-driver-der-ganz-grosse-schwindel](https://www.spiegel.de/kultur/kino/house-of-gucci-mit-lady-gaga-und-adam-driver-der-ganz-grosse-schwindel-a-7f193e95-737d-43b3-aadc-6518d8fee042#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich-a-ddc32739-f57a-45bc-b27e-29a3c3680ff0#ref=rss)
-### glyphosat
-
-* [https://www.spiegel.de/wirtschaft/ist-glyphosat-wirklich-ungefaehrlich](https://www.spiegel.de/wirtschaft/ist-glyphosat-wirklich-ungefaehrlich-a-2f929195-347c-4a23-817f-ddb0abc1a972#ref=rss)
-### oststeinbek
-
-* [https://www.spiegel.de/panorama/oststeinbek-und-glinde-in-schleswig-holstein-5000-bewohner-wegen-fliegerbombe-evakuiert](https://www.spiegel.de/panorama/oststeinbek-und-glinde-in-schleswig-holstein-5000-bewohner-wegen-fliegerbombe-evakuiert-a-d409b10e-b25e-49b3-8d97-4e44b1373119#ref=rss)
-### glinde
-
-* [https://www.spiegel.de/panorama/oststeinbek-und-glinde-in-schleswig-holstein-5000-bewohner-wegen-fliegerbombe-evakuiert](https://www.spiegel.de/panorama/oststeinbek-und-glinde-in-schleswig-holstein-5000-bewohner-wegen-fliegerbombe-evakuiert-a-d409b10e-b25e-49b3-8d97-4e44b1373119#ref=rss)
-### 5000
-
-* [https://www.spiegel.de/panorama/oststeinbek-und-glinde-in-schleswig-holstein-5000-bewohner-wegen-fliegerbombe-evakuiert](https://www.spiegel.de/panorama/oststeinbek-und-glinde-in-schleswig-holstein-5000-bewohner-wegen-fliegerbombe-evakuiert-a-d409b10e-b25e-49b3-8d97-4e44b1373119#ref=rss)
-### fliegerbombe
-
-* [https://www.spiegel.de/panorama/oststeinbek-und-glinde-in-schleswig-holstein-5000-bewohner-wegen-fliegerbombe-evakuiert](https://www.spiegel.de/panorama/oststeinbek-und-glinde-in-schleswig-holstein-5000-bewohner-wegen-fliegerbombe-evakuiert-a-d409b10e-b25e-49b3-8d97-4e44b1373119#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/oststeinbek-und-glinde-in-schleswig-holstein-5000-bewohner-wegen-fliegerbombe-evakuiert](https://www.spiegel.de/panorama/oststeinbek-und-glinde-in-schleswig-holstein-5000-bewohner-wegen-fliegerbombe-evakuiert-a-d409b10e-b25e-49b3-8d97-4e44b1373119#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich-a-ddc32739-f57a-45bc-b27e-29a3c3680ff0#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich](https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich-a-ac8f15e5-4383-43dd-a2aa-5a38669b9d7b#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich](https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich-a-ac8f15e5-4383-43dd-a2aa-5a38669b9d7b#ref=rss)
-### songs
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich](https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich-a-ac8f15e5-4383-43dd-a2aa-5a38669b9d7b#ref=rss)
-### hildegard
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich](https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich-a-ac8f15e5-4383-43dd-a2aa-5a38669b9d7b#ref=rss)
-### knef
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich](https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich-a-ac8f15e5-4383-43dd-a2aa-5a38669b9d7b#ref=rss)
-### nina
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich](https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich-a-ac8f15e5-4383-43dd-a2aa-5a38669b9d7b#ref=rss)
-### hagen
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich](https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich-a-ac8f15e5-4383-43dd-a2aa-5a38669b9d7b#ref=rss)
-### großen
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich](https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich-a-ac8f15e5-4383-43dd-a2aa-5a38669b9d7b#ref=rss)
-### zapfenstreich
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich](https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich-a-ac8f15e5-4383-43dd-a2aa-5a38669b9d7b#ref=rss)
-### spiegelinformationen
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich](https://www.spiegel.de/politik/deutschland/angela-merkel-songs-von-hildegard-knef-und-nina-hagen-beim-grossen-zapfenstreich-a-ac8f15e5-4383-43dd-a2aa-5a38669b9d7b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt](https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt-a-ee891de8-a77f-4c91-835b-23a3782bf61e#ref=rss)
-### gesundheitsminister
-
-* [https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins](https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins-a-deee3b95-01a0-4076-aec9-750f6607a330#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream](https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream-a-a3a2833f-51ef-49e0-ad85-4cfe4f8109e4#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins](https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins-a-deee3b95-01a0-4076-aec9-750f6607a330#ref=rss)
-* [https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab](https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab-a-addc042b-b769-4c02-a36d-2afcdb2428c0#ref=rss)
-### halb
-
-* [https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins](https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins-a-deee3b95-01a0-4076-aec9-750f6607a330#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt-a-7ef3bcdf-e21a-400b-9d38-8743b0fa321d#ref=rss)
-### eins
-
-* [https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins](https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins-a-deee3b95-01a0-4076-aec9-750f6607a330#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt-a-7ef3bcdf-e21a-400b-9d38-8743b0fa321d#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins](https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins-a-deee3b95-01a0-4076-aec9-750f6607a330#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt-a-7ef3bcdf-e21a-400b-9d38-8743b0fa321d#ref=rss)
-### ernst
-
-* [https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins](https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins-a-deee3b95-01a0-4076-aec9-750f6607a330#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt-a-7ef3bcdf-e21a-400b-9d38-8743b0fa321d#ref=rss)
-### zeitpunkt
-
-* [https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins](https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins-a-deee3b95-01a0-4076-aec9-750f6607a330#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt-a-7ef3bcdf-e21a-400b-9d38-8743b0fa321d#ref=rss)
-### pandemie
-
-* [https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins](https://www.spiegel.de/politik/deutschland/corona-gesundheitsminister-jens-spahn-sagt-es-ist-halb-eins-a-deee3b95-01a0-4076-aec9-750f6607a330#ref=rss)
-* [https://www.spiegel.de/wirtschaft/corona-pandemie-konzerne-streichen-milliardengewinne-ein](https://www.spiegel.de/wirtschaft/corona-pandemie-konzerne-streichen-milliardengewinne-ein-a-1f8d4e23-e3b5-419d-9b89-e8813982be1c#ref=rss)
-### luftwaffe
-
-* [https://www.spiegel.de/politik/deutschland/corona-lage-in-deutschland-luftwaffe-startet-am-nachmittag-mit-hilfsfluegen](https://www.spiegel.de/politik/deutschland/corona-lage-in-deutschland-luftwaffe-startet-am-nachmittag-mit-hilfsfluegen-a-f19c15d3-839c-4335-b1e7-a5de33f99db7#ref=rss)
-### nachmittag
-
-* [https://www.spiegel.de/politik/deutschland/corona-lage-in-deutschland-luftwaffe-startet-am-nachmittag-mit-hilfsfluegen](https://www.spiegel.de/politik/deutschland/corona-lage-in-deutschland-luftwaffe-startet-am-nachmittag-mit-hilfsfluegen-a-f19c15d3-839c-4335-b1e7-a5de33f99db7#ref=rss)
-### andere
-
-* [https://www.spiegel.de/politik/deutschland/corona-lage-in-deutschland-luftwaffe-startet-am-nachmittag-mit-hilfsfluegen](https://www.spiegel.de/politik/deutschland/corona-lage-in-deutschland-luftwaffe-startet-am-nachmittag-mit-hilfsfluegen-a-f19c15d3-839c-4335-b1e7-a5de33f99db7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/corona-pandemie-konzerne-streichen-milliardengewinne-ein](https://www.spiegel.de/wirtschaft/corona-pandemie-konzerne-streichen-milliardengewinne-ein-a-1f8d4e23-e3b5-419d-9b89-e8813982be1c#ref=rss)
-### erste
-
-* [https://www.spiegel.de/wissenschaft/weltall/raumfahrt-wann-der-erste-europaeer-den-mond-betreten-soll](https://www.spiegel.de/wissenschaft/weltall/raumfahrt-wann-der-erste-europaeer-den-mond-betreten-soll-a-40a580e1-7f00-404b-82a0-3fd35423efc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-designierte-aussenministerin-im-spiegel-gespraech](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-designierte-aussenministerin-im-spiegel-gespraech-a-dec2f65c-b473-42bf-8f40-91b686a2b85e#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/wissenschaft/weltall/raumfahrt-wann-der-erste-europaeer-den-mond-betreten-soll](https://www.spiegel.de/wissenschaft/weltall/raumfahrt-wann-der-erste-europaeer-den-mond-betreten-soll-a-40a580e1-7f00-404b-82a0-3fd35423efc3#ref=rss)
-* [https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche-a-a26ee1d4-4519-4746-8afc-b300b1500ae9#ref=rss)
-### david
-
-* [https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche-a-a26ee1d4-4519-4746-8afc-b300b1500ae9#ref=rss)
-### bowie
-
-* [https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche-a-a26ee1d4-4519-4746-8afc-b300b1500ae9#ref=rss)
-### daf
-
-* [https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche-a-a26ee1d4-4519-4746-8afc-b300b1500ae9#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche](https://www.spiegel.de/kultur/musik/david-bowie-daf-arca-jasss-richard-dawson-abgehoert-album-der-woche-a-a26ee1d4-4519-4746-8afc-b300b1500ae9#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-bundesregierung-schraenkt-flugverkehr-aus-suedafrika-ein](https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-bundesregierung-schraenkt-flugverkehr-aus-suedafrika-ein-a-6413c095-b2e9-494c-be5f-acef389b4294#ref=rss)
-### flugverkehr
-
-* [https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-bundesregierung-schraenkt-flugverkehr-aus-suedafrika-ein](https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-bundesregierung-schraenkt-flugverkehr-aus-suedafrika-ein-a-6413c095-b2e9-494c-be5f-acef389b4294#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen](https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen-a-77ee8ebf-3ce4-4764-9498-c524754f5754#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-deutschland-weitet-restriktionen-auf-weitere-afrikanische-staaten-aus](https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-deutschland-weitet-restriktionen-auf-weitere-afrikanische-staaten-aus-a-9bda02a1-e6f9-4b75-9075-024c05756a72#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles](https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles-a-eba09e02-c3da-49e1-b48e-bb45888fae9c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa](https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa-a-b34b1bdc-532f-4e85-b533-b5f611d48e3d#ref=rss)
 ### südafrika
 
-* [https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-bundesregierung-schraenkt-flugverkehr-aus-suedafrika-ein](https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-bundesregierung-schraenkt-flugverkehr-aus-suedafrika-ein-a-6413c095-b2e9-494c-be5f-acef389b4294#ref=rss)
-### stark
+* [https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug](https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug-a-a2e77aab-2adc-4bc9-bd93-d164bdde9b8e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen](https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen-a-77ee8ebf-3ce4-4764-9498-c524754f5754#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles](https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles-a-eba09e02-c3da-49e1-b48e-bb45888fae9c#ref=rss)
+* [https://www.spiegel.de/ausland/neue-coronavirus-variante-suedafrika-bangt-vor-einem-globalen-ausschluss](https://www.spiegel.de/ausland/neue-coronavirus-variante-suedafrika-bangt-vor-einem-globalen-ausschluss-a-4e4fe089-430c-4051-8327-14c261f1dce4#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-bundesregierung-schraenkt-flugverkehr-aus-suedafrika-ein](https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-bundesregierung-schraenkt-flugverkehr-aus-suedafrika-ein-a-6413c095-b2e9-494c-be5f-acef389b4294#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/importpreise-steigen-so-stark-wie-seit-1980-nicht-mehr](https://www.spiegel.de/wirtschaft/unternehmen/importpreise-steigen-so-stark-wie-seit-1980-nicht-mehr-a-16a877fc-63ab-4e4d-8773-4a7c99efb3fc#ref=rss)
-### grüne
+* [https://www.spiegel.de/wissenschaft/mensch/klima-koalitionsvertrag-waere-applaus-berechtigt](https://www.spiegel.de/wissenschaft/mensch/klima-koalitionsvertrag-waere-applaus-berechtigt-a-6859799c-34ac-43f4-b6dd-d33c8f401288#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-und-plug-in-hybride-ampelkoalition-will-foerdergelder-kuerzen-kritik-von-klimaschuetzern](https://www.spiegel.de/auto/elektroautos-und-plug-in-hybride-ampelkoalition-will-foerdergelder-kuerzen-kritik-von-klimaschuetzern-a-1768cba9-10d5-4f5b-a7e4-cb2509582d8d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa](https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa-a-b34b1bdc-532f-4e85-b533-b5f611d48e3d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/aerger-des-fc-bayern-mit-seinen-fans-auf-abstand](https://www.spiegel.de/sport/fussball/aerger-des-fc-bayern-mit-seinen-fans-auf-abstand-a-0bec3dae-5b90-4f74-be30-ce5bff347779#ref=rss)
+* [https://www.spiegel.de/ausland/neue-coronavirus-variante-suedafrika-bangt-vor-einem-globalen-ausschluss](https://www.spiegel.de/ausland/neue-coronavirus-variante-suedafrika-bangt-vor-einem-globalen-ausschluss-a-4e4fe089-430c-4051-8327-14c261f1dce4#ref=rss)
+### coronavariante
 
-* [https://www.spiegel.de/wirtschaft/service/gruene-woche-fuer-2022-wegen-corona-abgesagt](https://www.spiegel.de/wirtschaft/service/gruene-woche-fuer-2022-wegen-corona-abgesagt-a-e46a11c6-e6ca-43d1-9a83-45b6841a1f8d#ref=rss)
-### nichts
+* [https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen](https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen-a-77ee8ebf-3ce4-4764-9498-c524754f5754#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-deutschland-weitet-restriktionen-auf-weitere-afrikanische-staaten-aus](https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-deutschland-weitet-restriktionen-auf-weitere-afrikanische-staaten-aus-a-9bda02a1-e6f9-4b75-9075-024c05756a72#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles](https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles-a-eba09e02-c3da-49e1-b48e-bb45888fae9c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa](https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa-a-b34b1bdc-532f-4e85-b533-b5f611d48e3d#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/wirtschaft/service/gruene-woche-fuer-2022-wegen-corona-abgesagt](https://www.spiegel.de/wirtschaft/service/gruene-woche-fuer-2022-wegen-corona-abgesagt-a-e46a11c6-e6ca-43d1-9a83-45b6841a1f8d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/usa-jimmy-kimmel-verbrennt-sich-an-thanksgiving-beim-truthahn-braten-die-haare](https://www.spiegel.de/panorama/leute/usa-jimmy-kimmel-verbrennt-sich-an-thanksgiving-beim-truthahn-braten-die-haare-a-13ed6985-9618-483f-848a-a7645084aa47#ref=rss)
-### deutschlands
+* [https://www.spiegel.de/sport/fussball/fussball-lea-schueller-trifft-beim-8-0-sieg-gegen-die-tuerkei-dreieinhalbfach](https://www.spiegel.de/sport/fussball/fussball-lea-schueller-trifft-beim-8-0-sieg-gegen-die-tuerkei-dreieinhalbfach-a-716e3dc2-e243-4373-9b49-80f4eaff063e#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert](https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert-a-0d02a347-bb19-42f5-bd77-10452956cd84#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent](https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent-a-de14ec1e-5cc0-46c4-81ac-ac8282ca2c33#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wirtschaft/service/gruene-woche-fuer-2022-wegen-corona-abgesagt](https://www.spiegel.de/wirtschaft/service/gruene-woche-fuer-2022-wegen-corona-abgesagt-a-e46a11c6-e6ca-43d1-9a83-45b6841a1f8d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-designierte-aussenministerin-im-spiegel-gespraech](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-designierte-aussenministerin-im-spiegel-gespraech-a-dec2f65c-b473-42bf-8f40-91b686a2b85e#ref=rss)
-### digital
+* [https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug](https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug-a-a2e77aab-2adc-4bc9-bd93-d164bdde9b8e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen](https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen-a-77ee8ebf-3ce4-4764-9498-c524754f5754#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schwarzer-freitag-an-den-boersen](https://www.spiegel.de/wirtschaft/schwarzer-freitag-an-den-boersen-a-c5d520c7-cae8-4f37-8836-ae53e483f39f#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-20-xxl-ice-sollen-airlines-kunden-abjagen](https://www.spiegel.de/auto/deutsche-bahn-20-xxl-ice-sollen-airlines-kunden-abjagen-a-807677c1-018e-49cf-a234-a13b404a9fb8#ref=rss)
+### italien
 
-* [https://www.spiegel.de/wirtschaft/service/gruene-woche-fuer-2022-wegen-corona-abgesagt](https://www.spiegel.de/wirtschaft/service/gruene-woche-fuer-2022-wegen-corona-abgesagt-a-e46a11c6-e6ca-43d1-9a83-45b6841a1f8d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt](https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt-a-ee891de8-a77f-4c91-835b-23a3782bf61e#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt](https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt-a-ee891de8-a77f-4c91-835b-23a3782bf61e#ref=rss)
-### gewählt
-
-* [https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt](https://www.spiegel.de/politik/deutschland/cdu-neuer-parteichef-wird-auf-online-parteitag-gewaehlt-a-ee891de8-a77f-4c91-835b-23a3782bf61e#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt](https://www.spiegel.de/politik/deutschland/coronavirus-jens-spahn-warnt-die-lage-ist-so-ernst-wie-noch-zu-keinem-zeitpunkt-a-7ef3bcdf-e21a-400b-9d38-8743b0fa321d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung](https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung-a-1443bc7b-deed-447d-851d-16bd7626d852#ref=rss)
-### matthias
-
-* [https://www.spiegel.de/wissenschaft/matthias-maurer-auf-der-iss-ich-wuensche-mir-ich-haette-so-viele-arme-wie-ein-tintenfisch](https://www.spiegel.de/wissenschaft/matthias-maurer-auf-der-iss-ich-wuensche-mir-ich-haette-so-viele-arme-wie-ein-tintenfisch-a-03ccff14-4e42-4a7c-809b-6f7fa152528b#ref=rss)
-### maurer
-
-* [https://www.spiegel.de/wissenschaft/matthias-maurer-auf-der-iss-ich-wuensche-mir-ich-haette-so-viele-arme-wie-ein-tintenfisch](https://www.spiegel.de/wissenschaft/matthias-maurer-auf-der-iss-ich-wuensche-mir-ich-haette-so-viele-arme-wie-ein-tintenfisch-a-03ccff14-4e42-4a7c-809b-6f7fa152528b#ref=rss)
-### ich
-
-* [https://www.spiegel.de/wissenschaft/matthias-maurer-auf-der-iss-ich-wuensche-mir-ich-haette-so-viele-arme-wie-ein-tintenfisch](https://www.spiegel.de/wissenschaft/matthias-maurer-auf-der-iss-ich-wuensche-mir-ich-haette-so-viele-arme-wie-ein-tintenfisch-a-03ccff14-4e42-4a7c-809b-6f7fa152528b#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wissenschaft/matthias-maurer-auf-der-iss-ich-wuensche-mir-ich-haette-so-viele-arme-wie-ein-tintenfisch](https://www.spiegel.de/wissenschaft/matthias-maurer-auf-der-iss-ich-wuensche-mir-ich-haette-so-viele-arme-wie-ein-tintenfisch-a-03ccff14-4e42-4a7c-809b-6f7fa152528b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung](https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung-a-f3a4dbc8-f693-44af-867b-8ffce66313b0#ref=rss)
-### all
-
-* [https://www.spiegel.de/wissenschaft/matthias-maurer-auf-der-iss-ich-wuensche-mir-ich-haette-so-viele-arme-wie-ein-tintenfisch](https://www.spiegel.de/wissenschaft/matthias-maurer-auf-der-iss-ich-wuensche-mir-ich-haette-so-viele-arme-wie-ein-tintenfisch-a-03ccff14-4e42-4a7c-809b-6f7fa152528b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-steuern-wir-auf-den-naechsten-lockdown-zu](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-steuern-wir-auf-den-naechsten-lockdown-zu-a-2a01975f-0e34-4bc4-9d84-176046487927#ref=rss)
-### rkichef
-
-* [https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream](https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream-a-a3a2833f-51ef-49e0-ad85-4cfe4f8109e4#ref=rss)
-### lothar
-
-* [https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream](https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream-a-a3a2833f-51ef-49e0-ad85-4cfe4f8109e4#ref=rss)
-### wieler
-
-* [https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream](https://www.spiegel.de/politik/deutschland/corona-rki-chef-wieler-und-gesundheitsminister-spahn-im-livestream-a-a3a2833f-51ef-49e0-ad85-4cfe4f8109e4#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/jahreshauptversammlung-von-bayern-muenchen-wir-sind-bayern-und-ihr-nicht](https://www.spiegel.de/sport/fussball/jahreshauptversammlung-von-bayern-muenchen-wir-sind-bayern-und-ihr-nicht-a-b38dc014-4aff-4d18-ae75-d6e46cab61bc#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/jahreshauptversammlung-von-bayern-muenchen-wir-sind-bayern-und-ihr-nicht](https://www.spiegel.de/sport/fussball/jahreshauptversammlung-von-bayern-muenchen-wir-sind-bayern-und-ihr-nicht-a-b38dc014-4aff-4d18-ae75-d6e46cab61bc#ref=rss)
-### mitgliederversammlung
-
-* [https://www.spiegel.de/sport/fussball/jahreshauptversammlung-von-bayern-muenchen-wir-sind-bayern-und-ihr-nicht](https://www.spiegel.de/sport/fussball/jahreshauptversammlung-von-bayern-muenchen-wir-sind-bayern-und-ihr-nicht-a-b38dc014-4aff-4d18-ae75-d6e46cab61bc#ref=rss)
-### eskalierte
-
-* [https://www.spiegel.de/sport/fussball/jahreshauptversammlung-von-bayern-muenchen-wir-sind-bayern-und-ihr-nicht](https://www.spiegel.de/sport/fussball/jahreshauptversammlung-von-bayern-muenchen-wir-sind-bayern-und-ihr-nicht-a-b38dc014-4aff-4d18-ae75-d6e46cab61bc#ref=rss)
-### frankreichs
-
-* [https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab](https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab-a-addc042b-b769-4c02-a36d-2afcdb2428c0#ref=rss)
-### premier
-
-* [https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab](https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab-a-addc042b-b769-4c02-a36d-2afcdb2428c0#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich-a-ddc32739-f57a-45bc-b27e-29a3c3680ff0#ref=rss)
-### paris
-
-* [https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab](https://www.spiegel.de/ausland/migranten-im-aermelkanal-frankreichs-innenminister-sagt-treffen-mit-britischem-amtskollegen-ab-a-addc042b-b769-4c02-a36d-2afcdb2428c0#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich-a-ddc32739-f57a-45bc-b27e-29a3c3680ff0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/italien-oder-portugal-nur-ein-team-hat-chancen-auf-die-fussball-wm-2022](https://www.spiegel.de/sport/fussball/italien-oder-portugal-nur-ein-team-hat-chancen-auf-die-fussball-wm-2022-a-819d97a6-6f1a-4f08-96d9-6d84372403ca#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-und-italien-unterzeichnen-freundschaftsvertrag](https://www.spiegel.de/ausland/frankreich-und-italien-unterzeichnen-freundschaftsvertrag-a-fdfd99e7-710d-46ce-a7c0-d7a17cf68350#ref=rss)
 ### wir
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-steuern-wir-auf-den-naechsten-lockdown-zu](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-steuern-wir-auf-den-naechsten-lockdown-zu-a-2a01975f-0e34-4bc4-9d84-176046487927#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/black-friday-so-killt-konsum-das-klima](https://www.spiegel.de/wirtschaft/service/black-friday-so-killt-konsum-das-klima-a-20eff28e-3458-4feb-b250-f9a5b6ef0428#ref=rss)
-### 2g
+* [https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles](https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles-a-eba09e02-c3da-49e1-b48e-bb45888fae9c#ref=rss)
+* [https://www.spiegel.de/panorama/duisburg-nachwuchs-bei-den-kirk-dikdiks-mini-antilope-im-zoo-duisburg-geboren](https://www.spiegel.de/panorama/duisburg-nachwuchs-bei-den-kirk-dikdiks-mini-antilope-im-zoo-duisburg-geboren-a-d31b50a1-ee1e-45f7-9266-257f2e9562e2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken](https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken-a-77dfcf28-e11f-4253-9a82-b1f809c0aefd#ref=rss)
+### flugverkehr
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-steuern-wir-auf-den-naechsten-lockdown-zu](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-steuern-wir-auf-den-naechsten-lockdown-zu-a-2a01975f-0e34-4bc4-9d84-176046487927#ref=rss)
-### ikea
+* [https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug](https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug-a-a2e77aab-2adc-4bc9-bd93-d164bdde9b8e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen](https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen-a-77ee8ebf-3ce4-4764-9498-c524754f5754#ref=rss)
+* [https://www.spiegel.de/ausland/neue-coronavirus-variante-suedafrika-bangt-vor-einem-globalen-ausschluss](https://www.spiegel.de/ausland/neue-coronavirus-variante-suedafrika-bangt-vor-einem-globalen-ausschluss-a-4e4fe089-430c-4051-8327-14c261f1dce4#ref=rss)
+### staaten
 
-* [https://www.spiegel.de/wirtschaft/service/tokio-ikea-vermietet-apartment-fuer-einen-euro-im-monat](https://www.spiegel.de/wirtschaft/service/tokio-ikea-vermietet-apartment-fuer-einen-euro-im-monat-a-ded10045-aed1-42e8-b71b-a54fda5ef856#ref=rss)
-### apartment
+* [https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen](https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen-a-77ee8ebf-3ce4-4764-9498-c524754f5754#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-deutschland-weitet-restriktionen-auf-weitere-afrikanische-staaten-aus](https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-deutschland-weitet-restriktionen-auf-weitere-afrikanische-staaten-aus-a-9bda02a1-e6f9-4b75-9075-024c05756a72#ref=rss)
+### corona
 
-* [https://www.spiegel.de/wirtschaft/service/tokio-ikea-vermietet-apartment-fuer-einen-euro-im-monat](https://www.spiegel.de/wirtschaft/service/tokio-ikea-vermietet-apartment-fuer-einen-euro-im-monat-a-ded10045-aed1-42e8-b71b-a54fda5ef856#ref=rss)
-### tokio
+* [https://www.spiegel.de/politik/deutschland/corona-expertise-von-wissenschaftlern-in-der-politik-ueber-monate-nicht-gefragt](https://www.spiegel.de/politik/deutschland/corona-expertise-von-wissenschaftlern-in-der-politik-ueber-monate-nicht-gefragt-a-adaa5d01-76c0-489b-ab22-6a44179db7e2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-warum-die-kinder-in-deutschland-noch-wochen-auf-impfstoff-warten-muessen](https://www.spiegel.de/wirtschaft/corona-warum-die-kinder-in-deutschland-noch-wochen-auf-impfstoff-warten-muessen-a-5915d879-92a3-40b6-8a1d-fa504949d861#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken](https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken-a-77dfcf28-e11f-4253-9a82-b1f809c0aefd#ref=rss)
+### 20
 
-* [https://www.spiegel.de/wirtschaft/service/tokio-ikea-vermietet-apartment-fuer-einen-euro-im-monat](https://www.spiegel.de/wirtschaft/service/tokio-ikea-vermietet-apartment-fuer-einen-euro-im-monat-a-ded10045-aed1-42e8-b71b-a54fda5ef856#ref=rss)
-### monat
+* [https://www.spiegel.de/wirtschaft/corona-warum-die-kinder-in-deutschland-noch-wochen-auf-impfstoff-warten-muessen](https://www.spiegel.de/wirtschaft/corona-warum-die-kinder-in-deutschland-noch-wochen-auf-impfstoff-warten-muessen-a-5915d879-92a3-40b6-8a1d-fa504949d861#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-20-xxl-ice-sollen-airlines-kunden-abjagen](https://www.spiegel.de/auto/deutsche-bahn-20-xxl-ice-sollen-airlines-kunden-abjagen-a-807677c1-018e-49cf-a234-a13b404a9fb8#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/wirtschaft/service/tokio-ikea-vermietet-apartment-fuer-einen-euro-im-monat](https://www.spiegel.de/wirtschaft/service/tokio-ikea-vermietet-apartment-fuer-einen-euro-im-monat-a-ded10045-aed1-42e8-b71b-a54fda5ef856#ref=rss)
-### jimmy
+* [https://www.spiegel.de/wissenschaft/mensch/klima-koalitionsvertrag-waere-applaus-berechtigt](https://www.spiegel.de/wissenschaft/mensch/klima-koalitionsvertrag-waere-applaus-berechtigt-a-6859799c-34ac-43f4-b6dd-d33c8f401288#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-und-plug-in-hybride-ampelkoalition-will-foerdergelder-kuerzen-kritik-von-klimaschuetzern](https://www.spiegel.de/auto/elektroautos-und-plug-in-hybride-ampelkoalition-will-foerdergelder-kuerzen-kritik-von-klimaschuetzern-a-1768cba9-10d5-4f5b-a7e4-cb2509582d8d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-deutschland-weitet-restriktionen-auf-weitere-afrikanische-staaten-aus](https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-deutschland-weitet-restriktionen-auf-weitere-afrikanische-staaten-aus-a-9bda02a1-e6f9-4b75-9075-024c05756a72#ref=rss)
+### liverpool
 
-* [https://www.spiegel.de/panorama/leute/usa-jimmy-kimmel-verbrennt-sich-an-thanksgiving-beim-truthahn-braten-die-haare](https://www.spiegel.de/panorama/leute/usa-jimmy-kimmel-verbrennt-sich-an-thanksgiving-beim-truthahn-braten-die-haare-a-13ed6985-9618-483f-848a-a7645084aa47#ref=rss)
-### kimmel
+* [https://www.spiegel.de/panorama/justiz/liverpool-jugendliche-sollen-zwoelfjaehrige-getoetet-haben](https://www.spiegel.de/panorama/justiz/liverpool-jugendliche-sollen-zwoelfjaehrige-getoetet-haben-a-ee63c521-c26d-4b88-86be-f8d5cd4f9721#ref=rss)
+### 13
 
-* [https://www.spiegel.de/panorama/leute/usa-jimmy-kimmel-verbrennt-sich-an-thanksgiving-beim-truthahn-braten-die-haare](https://www.spiegel.de/panorama/leute/usa-jimmy-kimmel-verbrennt-sich-an-thanksgiving-beim-truthahn-braten-die-haare-a-13ed6985-9618-483f-848a-a7645084aa47#ref=rss)
-### haare
+* [https://www.spiegel.de/panorama/justiz/liverpool-jugendliche-sollen-zwoelfjaehrige-getoetet-haben](https://www.spiegel.de/panorama/justiz/liverpool-jugendliche-sollen-zwoelfjaehrige-getoetet-haben-a-ee63c521-c26d-4b88-86be-f8d5cd4f9721#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-vorschau-so-tippen-die-fanexpertinnen-und-fanexperten-den-13-spieltag](https://www.spiegel.de/sport/fussball/bundesliga-vorschau-so-tippen-die-fanexpertinnen-und-fanexperten-den-13-spieltag-a-075c9c39-482e-4aab-b2d3-27b9e3008268#ref=rss)
+### europa
 
-* [https://www.spiegel.de/panorama/leute/usa-jimmy-kimmel-verbrennt-sich-an-thanksgiving-beim-truthahn-braten-die-haare](https://www.spiegel.de/panorama/leute/usa-jimmy-kimmel-verbrennt-sich-an-thanksgiving-beim-truthahn-braten-die-haare-a-13ed6985-9618-483f-848a-a7645084aa47#ref=rss)
-### konzerne
+* [https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles](https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles-a-eba09e02-c3da-49e1-b48e-bb45888fae9c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa](https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa-a-b34b1bdc-532f-4e85-b533-b5f611d48e3d#ref=rss)
+### lockdown
 
-* [https://www.spiegel.de/wirtschaft/corona-pandemie-konzerne-streichen-milliardengewinne-ein](https://www.spiegel.de/wirtschaft/corona-pandemie-konzerne-streichen-milliardengewinne-ein-a-1f8d4e23-e3b5-419d-9b89-e8813982be1c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles](https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles-a-eba09e02-c3da-49e1-b48e-bb45888fae9c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken](https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken-a-77dfcf28-e11f-4253-9a82-b1f809c0aefd#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert](https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert-a-0d02a347-bb19-42f5-bd77-10452956cd84#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent](https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent-a-de14ec1e-5cc0-46c4-81ac-ac8282ca2c33#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-brueckenplaene-von-boris-johnson-laut-studie-zu-teuer](https://www.spiegel.de/ausland/grossbritannien-brueckenplaene-von-boris-johnson-laut-studie-zu-teuer-a-1eefa694-435c-42e4-a04c-d7b0b899030f#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa](https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa-a-b34b1bdc-532f-4e85-b533-b5f611d48e3d#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent](https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent-a-de14ec1e-5cc0-46c4-81ac-ac8282ca2c33#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/aerger-des-fc-bayern-mit-seinen-fans-auf-abstand](https://www.spiegel.de/sport/fussball/aerger-des-fc-bayern-mit-seinen-fans-auf-abstand-a-0bec3dae-5b90-4f74-be30-ce5bff347779#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-vorschau-so-tippen-die-fanexpertinnen-und-fanexperten-den-13-spieltag](https://www.spiegel.de/sport/fussball/bundesliga-vorschau-so-tippen-die-fanexpertinnen-und-fanexperten-den-13-spieltag-a-075c9c39-482e-4aab-b2d3-27b9e3008268#ref=rss)
+### duisburg
+
+* [https://www.spiegel.de/panorama/duisburg-nachwuchs-bei-den-kirk-dikdiks-mini-antilope-im-zoo-duisburg-geboren](https://www.spiegel.de/panorama/duisburg-nachwuchs-bei-den-kirk-dikdiks-mini-antilope-im-zoo-duisburg-geboren-a-d31b50a1-ee1e-45f7-9266-257f2e9562e2#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-wirft-russland-planung-eines-staatsstreichs-in-der-ukraine-vor](https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-wirft-russland-planung-eines-staatsstreichs-in-der-ukraine-vor-a-187376f2-4fe9-45a7-abef-b13d0ac93bb1#ref=rss)
+### lea
+
+* [https://www.spiegel.de/sport/fussball/fussball-lea-schueller-trifft-beim-8-0-sieg-gegen-die-tuerkei-dreieinhalbfach](https://www.spiegel.de/sport/fussball/fussball-lea-schueller-trifft-beim-8-0-sieg-gegen-die-tuerkei-dreieinhalbfach-a-716e3dc2-e243-4373-9b49-80f4eaff063e#ref=rss)
+### schüller
+
+* [https://www.spiegel.de/sport/fussball/fussball-lea-schueller-trifft-beim-8-0-sieg-gegen-die-tuerkei-dreieinhalbfach](https://www.spiegel.de/sport/fussball/fussball-lea-schueller-trifft-beim-8-0-sieg-gegen-die-tuerkei-dreieinhalbfach-a-716e3dc2-e243-4373-9b49-80f4eaff063e#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/leipzig-mann-aus-oschatz-erstickt-ehefrau-im-schlaf-sieben-jahre-haft](https://www.spiegel.de/panorama/justiz/leipzig-mann-aus-oschatz-erstickt-ehefrau-im-schlaf-sieben-jahre-haft-a-bacd370d-bd73-4a61-8e61-66e20ff1b738#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-wirft-russland-planung-eines-staatsstreichs-in-der-ukraine-vor](https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-wirft-russland-planung-eines-staatsstreichs-in-der-ukraine-vor-a-187376f2-4fe9-45a7-abef-b13d0ac93bb1#ref=rss)
+### ehefrau
+
+* [https://www.spiegel.de/panorama/justiz/leipzig-mann-aus-oschatz-erstickt-ehefrau-im-schlaf-sieben-jahre-haft](https://www.spiegel.de/panorama/justiz/leipzig-mann-aus-oschatz-erstickt-ehefrau-im-schlaf-sieben-jahre-haft-a-bacd370d-bd73-4a61-8e61-66e20ff1b738#ref=rss)
+### haft
+
+* [https://www.spiegel.de/panorama/justiz/leipzig-mann-aus-oschatz-erstickt-ehefrau-im-schlaf-sieben-jahre-haft](https://www.spiegel.de/panorama/justiz/leipzig-mann-aus-oschatz-erstickt-ehefrau-im-schlaf-sieben-jahre-haft-a-bacd370d-bd73-4a61-8e61-66e20ff1b738#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert](https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert-a-0d02a347-bb19-42f5-bd77-10452956cd84#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/wirtschaft/corona-pandemie-konzerne-streichen-milliardengewinne-ein](https://www.spiegel.de/wirtschaft/corona-pandemie-konzerne-streichen-milliardengewinne-ein-a-1f8d4e23-e3b5-419d-9b89-e8813982be1c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung](https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung-a-f3a4dbc8-f693-44af-867b-8ffce66313b0#ref=rss)
-### ampel
+* [https://www.spiegel.de/panorama/justiz/leipzig-mann-aus-oschatz-erstickt-ehefrau-im-schlaf-sieben-jahre-haft](https://www.spiegel.de/panorama/justiz/leipzig-mann-aus-oschatz-erstickt-ehefrau-im-schlaf-sieben-jahre-haft-a-bacd370d-bd73-4a61-8e61-66e20ff1b738#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-brueckenplaene-von-boris-johnson-laut-studie-zu-teuer](https://www.spiegel.de/ausland/grossbritannien-brueckenplaene-von-boris-johnson-laut-studie-zu-teuer-a-1eefa694-435c-42e4-a04c-d7b0b899030f#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/wirtschaft/corona-pandemie-konzerne-streichen-milliardengewinne-ein](https://www.spiegel.de/wirtschaft/corona-pandemie-konzerne-streichen-milliardengewinne-ein-a-1f8d4e23-e3b5-419d-9b89-e8813982be1c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-designierte-aussenministerin-im-spiegel-gespraech](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-designierte-aussenministerin-im-spiegel-gespraech-a-dec2f65c-b473-42bf-8f40-91b686a2b85e#ref=rss)
-### cannabis
+* [https://www.spiegel.de/panorama/justiz/leipzig-mann-aus-oschatz-erstickt-ehefrau-im-schlaf-sieben-jahre-haft](https://www.spiegel.de/panorama/justiz/leipzig-mann-aus-oschatz-erstickt-ehefrau-im-schlaf-sieben-jahre-haft-a-bacd370d-bd73-4a61-8e61-66e20ff1b738#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert](https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert-a-0d02a347-bb19-42f5-bd77-10452956cd84#ref=rss)
+### coronavirusvariante
 
-* [https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung](https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung-a-1443bc7b-deed-447d-851d-16bd7626d852#ref=rss)
-### polizeigewerkschaft
+* [https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug](https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug-a-a2e77aab-2adc-4bc9-bd93-d164bdde9b8e#ref=rss)
+* [https://www.spiegel.de/ausland/neue-coronavirus-variante-suedafrika-bangt-vor-einem-globalen-ausschluss](https://www.spiegel.de/ausland/neue-coronavirus-variante-suedafrika-bangt-vor-einem-globalen-ausschluss-a-4e4fe089-430c-4051-8327-14c261f1dce4#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung](https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung-a-1443bc7b-deed-447d-851d-16bd7626d852#ref=rss)
-### handel
+* [https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug](https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug-a-a2e77aab-2adc-4bc9-bd93-d164bdde9b8e#ref=rss)
+### virusvariante
 
-* [https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung](https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung-a-1443bc7b-deed-447d-851d-16bd7626d852#ref=rss)
-### deutschen
+* [https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug](https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug-a-a2e77aab-2adc-4bc9-bd93-d164bdde9b8e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen](https://www.spiegel.de/wissenschaft/medizin/corona-variante-b-1-1-529-in-suedafrika-wie-wirksam-sind-reisebeschraenkungen-a-77ee8ebf-3ce4-4764-9498-c524754f5754#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung](https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung-a-1443bc7b-deed-447d-851d-16bd7626d852#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung](https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung-a-f3a4dbc8-f693-44af-867b-8ffce66313b0#ref=rss)
-### kritisiert
+* [https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug](https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug-a-a2e77aab-2adc-4bc9-bd93-d164bdde9b8e#ref=rss)
+* [https://www.spiegel.de/ausland/alexander-lukaschenko-belarussischer-machthaber-besucht-migranten](https://www.spiegel.de/ausland/alexander-lukaschenko-belarussischer-machthaber-besucht-migranten-a-eb4d9276-4ab3-4f58-b8ac-23d591769c95#ref=rss)
+### britische
 
-* [https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung](https://www.spiegel.de/panorama/justiz/ampel-koalition-polizeigewerkschaft-warnt-vor-illegalem-handel-durch-geplante-cannabis-legalisierung-a-1443bc7b-deed-447d-851d-16bd7626d852#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung](https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung-a-f3a4dbc8-f693-44af-867b-8ffce66313b0#ref=rss)
-### annalena
+* [https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug](https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug-a-a2e77aab-2adc-4bc9-bd93-d164bdde9b8e#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-brueckenplaene-von-boris-johnson-laut-studie-zu-teuer](https://www.spiegel.de/ausland/grossbritannien-brueckenplaene-von-boris-johnson-laut-studie-zu-teuer-a-1eefa694-435c-42e4-a04c-d7b0b899030f#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-designierte-aussenministerin-im-spiegel-gespraech](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-designierte-aussenministerin-im-spiegel-gespraech-a-dec2f65c-b473-42bf-8f40-91b686a2b85e#ref=rss)
-### baerbock
+* [https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug](https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug-a-a2e77aab-2adc-4bc9-bd93-d164bdde9b8e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-wirft-russland-planung-eines-staatsstreichs-in-der-ukraine-vor](https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-wirft-russland-planung-eines-staatsstreichs-in-der-ukraine-vor-a-187376f2-4fe9-45a7-abef-b13d0ac93bb1#ref=rss)
+### südlichen
 
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-designierte-aussenministerin-im-spiegel-gespraech](https://www.spiegel.de/politik/deutschland/annalena-baerbock-die-designierte-aussenministerin-im-spiegel-gespraech-a-dec2f65c-b473-42bf-8f40-91b686a2b85e#ref=rss)
-### marcel
+* [https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug](https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug-a-a2e77aab-2adc-4bc9-bd93-d164bdde9b8e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schwarzer-freitag-an-den-boersen](https://www.spiegel.de/wirtschaft/schwarzer-freitag-an-den-boersen-a-c5d520c7-cae8-4f37-8836-ae53e483f39f#ref=rss)
+### afrika
 
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung](https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung-a-f3a4dbc8-f693-44af-867b-8ffce66313b0#ref=rss)
-### fratzscher
+* [https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug](https://www.spiegel.de/ausland/coronavirus-variante-in-suedafrika-ich-hoffe-ich-schaffe-es-auf-diesen-flug-a-a2e77aab-2adc-4bc9-bd93-d164bdde9b8e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schwarzer-freitag-an-den-boersen](https://www.spiegel.de/wirtschaft/schwarzer-freitag-an-den-boersen-a-c5d520c7-cae8-4f37-8836-ae53e483f39f#ref=rss)
+### politik
 
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung](https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung-a-f3a4dbc8-f693-44af-867b-8ffce66313b0#ref=rss)
-### finanzierung
+* [https://www.spiegel.de/politik/deutschland/corona-expertise-von-wissenschaftlern-in-der-politik-ueber-monate-nicht-gefragt](https://www.spiegel.de/politik/deutschland/corona-expertise-von-wissenschaftlern-in-der-politik-ueber-monate-nicht-gefragt-a-adaa5d01-76c0-489b-ab22-6a44179db7e2#ref=rss)
+### zeigte
 
-* [https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung](https://www.spiegel.de/wirtschaft/ampelkoalition-oekonom-fratzscher-kritisiert-unzureichende-finanzierung-a-f3a4dbc8-f693-44af-867b-8ffce66313b0#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/politik/deutschland/corona-expertise-von-wissenschaftlern-in-der-politik-ueber-monate-nicht-gefragt](https://www.spiegel.de/politik/deutschland/corona-expertise-von-wissenschaftlern-in-der-politik-ueber-monate-nicht-gefragt-a-adaa5d01-76c0-489b-ab22-6a44179db7e2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/aerger-des-fc-bayern-mit-seinen-fans-auf-abstand](https://www.spiegel.de/sport/fussball/aerger-des-fc-bayern-mit-seinen-fans-auf-abstand-a-0bec3dae-5b90-4f74-be30-ce5bff347779#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich-a-ddc32739-f57a-45bc-b27e-29a3c3680ff0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-warum-die-kinder-in-deutschland-noch-wochen-auf-impfstoff-warten-muessen](https://www.spiegel.de/wirtschaft/corona-warum-die-kinder-in-deutschland-noch-wochen-auf-impfstoff-warten-muessen-a-5915d879-92a3-40b6-8a1d-fa504949d861#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-deutschland-weitet-restriktionen-auf-weitere-afrikanische-staaten-aus](https://www.spiegel.de/politik/deutschland/corona-variante-b-1-1-529-deutschland-weitet-restriktionen-auf-weitere-afrikanische-staaten-aus-a-9bda02a1-e6f9-4b75-9075-024c05756a72#ref=rss)
+### impfstoff
+
+* [https://www.spiegel.de/wirtschaft/corona-warum-die-kinder-in-deutschland-noch-wochen-auf-impfstoff-warten-muessen](https://www.spiegel.de/wirtschaft/corona-warum-die-kinder-in-deutschland-noch-wochen-auf-impfstoff-warten-muessen-a-5915d879-92a3-40b6-8a1d-fa504949d861#ref=rss)
+### erst
+
+* [https://www.spiegel.de/wirtschaft/corona-warum-die-kinder-in-deutschland-noch-wochen-auf-impfstoff-warten-muessen](https://www.spiegel.de/wirtschaft/corona-warum-die-kinder-in-deutschland-noch-wochen-auf-impfstoff-warten-muessen-a-5915d879-92a3-40b6-8a1d-fa504949d861#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/liverpool-jugendliche-sollen-zwoelfjaehrige-getoetet-haben](https://www.spiegel.de/panorama/justiz/liverpool-jugendliche-sollen-zwoelfjaehrige-getoetet-haben-a-ee63c521-c26d-4b88-86be-f8d5cd4f9721#ref=rss)
+### portugal
+
+* [https://www.spiegel.de/sport/fussball/italien-oder-portugal-nur-ein-team-hat-chancen-auf-die-fussball-wm-2022](https://www.spiegel.de/sport/fussball/italien-oder-portugal-nur-ein-team-hat-chancen-auf-die-fussball-wm-2022-a-819d97a6-6f1a-4f08-96d9-6d84372403ca#ref=rss)
+### geben
+
+* [https://www.spiegel.de/sport/fussball/italien-oder-portugal-nur-ein-team-hat-chancen-auf-die-fussball-wm-2022](https://www.spiegel.de/sport/fussball/italien-oder-portugal-nur-ein-team-hat-chancen-auf-die-fussball-wm-2022-a-819d97a6-6f1a-4f08-96d9-6d84372403ca#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-und-plug-in-hybride-ampelkoalition-will-foerdergelder-kuerzen-kritik-von-klimaschuetzern](https://www.spiegel.de/auto/elektroautos-und-plug-in-hybride-ampelkoalition-will-foerdergelder-kuerzen-kritik-von-klimaschuetzern-a-1768cba9-10d5-4f5b-a7e4-cb2509582d8d#ref=rss)
+### freitag
+
+* [https://www.spiegel.de/wirtschaft/schwarzer-freitag-an-den-boersen](https://www.spiegel.de/wirtschaft/schwarzer-freitag-an-den-boersen-a-c5d520c7-cae8-4f37-8836-ae53e483f39f#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent](https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent-a-de14ec1e-5cc0-46c4-81ac-ac8282ca2c33#ref=rss)
+### börsen
+
+* [https://www.spiegel.de/wirtschaft/schwarzer-freitag-an-den-boersen](https://www.spiegel.de/wirtschaft/schwarzer-freitag-an-den-boersen-a-c5d520c7-cae8-4f37-8836-ae53e483f39f#ref=rss)
+### wochenende
+
+* [https://www.spiegel.de/wirtschaft/schwarzer-freitag-an-den-boersen](https://www.spiegel.de/wirtschaft/schwarzer-freitag-an-den-boersen-a-c5d520c7-cae8-4f37-8836-ae53e483f39f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles](https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles-a-eba09e02-c3da-49e1-b48e-bb45888fae9c#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/justiz/liverpool-jugendliche-sollen-zwoelfjaehrige-getoetet-haben](https://www.spiegel.de/panorama/justiz/liverpool-jugendliche-sollen-zwoelfjaehrige-getoetet-haben-a-ee63c521-c26d-4b88-86be-f8d5cd4f9721#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert](https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert-a-0d02a347-bb19-42f5-bd77-10452956cd84#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-lehnt-staatliche-foerderung-fuer-werk-in-brandenburg-ab](https://www.spiegel.de/wirtschaft/unternehmen/tesla-lehnt-staatliche-foerderung-fuer-werk-in-brandenburg-ab-a-c15233e7-62c6-4476-af55-0c4000575abf#ref=rss)
+### kürzen
+
+* [https://www.spiegel.de/auto/elektroautos-und-plug-in-hybride-ampelkoalition-will-foerdergelder-kuerzen-kritik-von-klimaschuetzern](https://www.spiegel.de/auto/elektroautos-und-plug-in-hybride-ampelkoalition-will-foerdergelder-kuerzen-kritik-von-klimaschuetzern-a-1768cba9-10d5-4f5b-a7e4-cb2509582d8d#ref=rss)
+### geld
+
+* [https://www.spiegel.de/auto/elektroautos-und-plug-in-hybride-ampelkoalition-will-foerdergelder-kuerzen-kritik-von-klimaschuetzern](https://www.spiegel.de/auto/elektroautos-und-plug-in-hybride-ampelkoalition-will-foerdergelder-kuerzen-kritik-von-klimaschuetzern-a-1768cba9-10d5-4f5b-a7e4-cb2509582d8d#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent](https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent-a-de14ec1e-5cc0-46c4-81ac-ac8282ca2c33#ref=rss)
+### gefährlich
+
+* [https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles](https://www.spiegel.de/politik/deutschland/news-coronavariante-wie-gefaehrlich-ist-b-1-1-529-angela-merkel-abschiedssongs-wetter-am-wochenende-beatles-a-eba09e02-c3da-49e1-b48e-bb45888fae9c#ref=rss)
+### zoos
+
+* [https://www.spiegel.de/wissenschaft/zoos-wollen-gorillas-toeten-wildert-sie-aus-fordern-tierschuetzer](https://www.spiegel.de/wissenschaft/zoos-wollen-gorillas-toeten-wildert-sie-aus-fordern-tierschuetzer-a-8a376b4d-8719-4fe2-8324-5bbaa506faee#ref=rss)
+### gorillas
+
+* [https://www.spiegel.de/wissenschaft/zoos-wollen-gorillas-toeten-wildert-sie-aus-fordern-tierschuetzer](https://www.spiegel.de/wissenschaft/zoos-wollen-gorillas-toeten-wildert-sie-aus-fordern-tierschuetzer-a-8a376b4d-8719-4fe2-8324-5bbaa506faee#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wissenschaft/zoos-wollen-gorillas-toeten-wildert-sie-aus-fordern-tierschuetzer](https://www.spiegel.de/wissenschaft/zoos-wollen-gorillas-toeten-wildert-sie-aus-fordern-tierschuetzer-a-8a376b4d-8719-4fe2-8324-5bbaa506faee#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-20-xxl-ice-sollen-airlines-kunden-abjagen](https://www.spiegel.de/auto/deutsche-bahn-20-xxl-ice-sollen-airlines-kunden-abjagen-a-807677c1-018e-49cf-a234-a13b404a9fb8#ref=rss)
+### osman
+
+* [https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert](https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert-a-0d02a347-bb19-42f5-bd77-10452956cd84#ref=rss)
+### kavala
+
+* [https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert](https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert-a-0d02a347-bb19-42f5-bd77-10452956cd84#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert](https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert-a-0d02a347-bb19-42f5-bd77-10452956cd84#ref=rss)
+* [https://www.spiegel.de/sport/fussball/bundesliga-vorschau-so-tippen-die-fanexpertinnen-und-fanexperten-den-13-spieltag](https://www.spiegel.de/sport/fussball/bundesliga-vorschau-so-tippen-die-fanexpertinnen-und-fanexperten-den-13-spieltag-a-075c9c39-482e-4aab-b2d3-27b9e3008268#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert](https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert-a-0d02a347-bb19-42f5-bd77-10452956cd84#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken](https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken-a-77dfcf28-e11f-4253-9a82-b1f809c0aefd#ref=rss)
+### ende
+
+* [https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert](https://www.spiegel.de/ausland/tuerkei-osman-kavala-bleibt-trotz-internationalem-druck-inhaftiert-a-0d02a347-bb19-42f5-bd77-10452956cd84#ref=rss)
+* [https://www.spiegel.de/panorama/duisburg-nachwuchs-bei-den-kirk-dikdiks-mini-antilope-im-zoo-duisburg-geboren](https://www.spiegel.de/panorama/duisburg-nachwuchs-bei-den-kirk-dikdiks-mini-antilope-im-zoo-duisburg-geboren-a-d31b50a1-ee1e-45f7-9266-257f2e9562e2#ref=rss)
+### usa
+
+* [https://www.spiegel.de/panorama/newark-in-den-usa-polizist-soll-leiche-nach-unfall-mit-nach-hause-genommen-haben](https://www.spiegel.de/panorama/newark-in-den-usa-polizist-soll-leiche-nach-unfall-mit-nach-hause-genommen-haben-a-abedf9dc-7988-4f72-894f-8ffc1bd9fee5#ref=rss)
+### leiche
+
+* [https://www.spiegel.de/panorama/newark-in-den-usa-polizist-soll-leiche-nach-unfall-mit-nach-hause-genommen-haben](https://www.spiegel.de/panorama/newark-in-den-usa-polizist-soll-leiche-nach-unfall-mit-nach-hause-genommen-haben-a-abedf9dc-7988-4f72-894f-8ffc1bd9fee5#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/ausland/alexander-lukaschenko-belarussischer-machthaber-besucht-migranten](https://www.spiegel.de/ausland/alexander-lukaschenko-belarussischer-machthaber-besucht-migranten-a-eb4d9276-4ab3-4f58-b8ac-23d591769c95#ref=rss)
+### lukaschenko
+
+* [https://www.spiegel.de/ausland/alexander-lukaschenko-belarussischer-machthaber-besucht-migranten](https://www.spiegel.de/ausland/alexander-lukaschenko-belarussischer-machthaber-besucht-migranten-a-eb4d9276-4ab3-4f58-b8ac-23d591769c95#ref=rss)
+### machthaber
+
+* [https://www.spiegel.de/ausland/alexander-lukaschenko-belarussischer-machthaber-besucht-migranten](https://www.spiegel.de/ausland/alexander-lukaschenko-belarussischer-machthaber-besucht-migranten-a-eb4d9276-4ab3-4f58-b8ac-23d591769c95#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/alexander-lukaschenko-belarussischer-machthaber-besucht-migranten](https://www.spiegel.de/ausland/alexander-lukaschenko-belarussischer-machthaber-besucht-migranten-a-eb4d9276-4ab3-4f58-b8ac-23d591769c95#ref=rss)
+* [https://www.spiegel.de/ausland/neue-coronavirus-variante-suedafrika-bangt-vor-einem-globalen-ausschluss](https://www.spiegel.de/ausland/neue-coronavirus-variante-suedafrika-bangt-vor-einem-globalen-ausschluss-a-4e4fe089-430c-4051-8327-14c261f1dce4#ref=rss)
+### belgien
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa](https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa-a-b34b1bdc-532f-4e85-b533-b5f611d48e3d#ref=rss)
+### fall
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa](https://www.spiegel.de/wissenschaft/medizin/coronavirus-belgien-meldet-ersten-fall-von-neuer-variante-b-1-1-529-in-europa-a-b34b1bdc-532f-4e85-b533-b5f611d48e3d#ref=rss)
+### apple
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent](https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent-a-de14ec1e-5cc0-46c4-81ac-ac8282ca2c33#ref=rss)
+### kosten
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent](https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent-a-de14ec1e-5cc0-46c4-81ac-ac8282ca2c33#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-brueckenplaene-von-boris-johnson-laut-studie-zu-teuer](https://www.spiegel.de/ausland/grossbritannien-brueckenplaene-von-boris-johnson-laut-studie-zu-teuer-a-1eefa694-435c-42e4-a04c-d7b0b899030f#ref=rss)
+### versucht
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent](https://www.spiegel.de/netzwelt/gadgets/apple-erhoeht-iphone-preise-in-der-tuerkei-um-25-prozent-a-de14ec1e-5cc0-46c4-81ac-ac8282ca2c33#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/aerger-des-fc-bayern-mit-seinen-fans-auf-abstand](https://www.spiegel.de/sport/fussball/aerger-des-fc-bayern-mit-seinen-fans-auf-abstand-a-0bec3dae-5b90-4f74-be30-ce5bff347779#ref=rss)
+### fans
+
+* [https://www.spiegel.de/sport/fussball/aerger-des-fc-bayern-mit-seinen-fans-auf-abstand](https://www.spiegel.de/sport/fussball/aerger-des-fc-bayern-mit-seinen-fans-auf-abstand-a-0bec3dae-5b90-4f74-be30-ce5bff347779#ref=rss)
 ### frankreich
 
-* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-fordert-ruecknahme-von-migranten-von-frankreich-a-ddc32739-f57a-45bc-b27e-29a3c3680ff0#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-und-italien-unterzeichnen-freundschaftsvertrag](https://www.spiegel.de/ausland/frankreich-und-italien-unterzeichnen-freundschaftsvertrag-a-fdfd99e7-710d-46ce-a7c0-d7a17cf68350#ref=rss)
+### boris
+
+* [https://www.spiegel.de/ausland/grossbritannien-brueckenplaene-von-boris-johnson-laut-studie-zu-teuer](https://www.spiegel.de/ausland/grossbritannien-brueckenplaene-von-boris-johnson-laut-studie-zu-teuer-a-1eefa694-435c-42e4-a04c-d7b0b899030f#ref=rss)
+### johnson
+
+* [https://www.spiegel.de/ausland/grossbritannien-brueckenplaene-von-boris-johnson-laut-studie-zu-teuer](https://www.spiegel.de/ausland/grossbritannien-brueckenplaene-von-boris-johnson-laut-studie-zu-teuer-a-1eefa694-435c-42e4-a04c-d7b0b899030f#ref=rss)
+### spieltag
+
+* [https://www.spiegel.de/sport/fussball/bundesliga-vorschau-so-tippen-die-fanexpertinnen-und-fanexperten-den-13-spieltag](https://www.spiegel.de/sport/fussball/bundesliga-vorschau-so-tippen-die-fanexpertinnen-und-fanexperten-den-13-spieltag-a-075c9c39-482e-4aab-b2d3-27b9e3008268#ref=rss)
+### zoo
+
+* [https://www.spiegel.de/panorama/duisburg-nachwuchs-bei-den-kirk-dikdiks-mini-antilope-im-zoo-duisburg-geboren](https://www.spiegel.de/panorama/duisburg-nachwuchs-bei-den-kirk-dikdiks-mini-antilope-im-zoo-duisburg-geboren-a-d31b50a1-ee1e-45f7-9266-257f2e9562e2#ref=rss)
+### geboren
+
+* [https://www.spiegel.de/panorama/duisburg-nachwuchs-bei-den-kirk-dikdiks-mini-antilope-im-zoo-duisburg-geboren](https://www.spiegel.de/panorama/duisburg-nachwuchs-bei-den-kirk-dikdiks-mini-antilope-im-zoo-duisburg-geboren-a-d31b50a1-ee1e-45f7-9266-257f2e9562e2#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/auto/deutsche-bahn-20-xxl-ice-sollen-airlines-kunden-abjagen](https://www.spiegel.de/auto/deutsche-bahn-20-xxl-ice-sollen-airlines-kunden-abjagen-a-807677c1-018e-49cf-a234-a13b404a9fb8#ref=rss)
+### xxlice
+
+* [https://www.spiegel.de/auto/deutsche-bahn-20-xxl-ice-sollen-airlines-kunden-abjagen](https://www.spiegel.de/auto/deutsche-bahn-20-xxl-ice-sollen-airlines-kunden-abjagen-a-807677c1-018e-49cf-a234-a13b404a9fb8#ref=rss)
+### cem
+
+* [https://www.spiegel.de/politik/deutschland/gruenen-aerger-um-cem-oezdemir-und-anton-hofreiter-die-giftgruenen](https://www.spiegel.de/politik/deutschland/gruenen-aerger-um-cem-oezdemir-und-anton-hofreiter-die-giftgruenen-a-818c2b56-51ec-4d0a-928a-0c0d56257492#ref=rss)
+### saskia
+
+* [https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken](https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken-a-77dfcf28-e11f-4253-9a82-b1f809c0aefd#ref=rss)
+### esken
+
+* [https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken](https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken-a-77dfcf28-e11f-4253-9a82-b1f809c0aefd#ref=rss)
+### ampel
+
+* [https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken](https://www.spiegel.de/politik/deutschland/saskia-esken-ueber-corona-und-die-ampel-wir-duerfen-geimpfte-nicht-in-den-lockdown-schicken-a-77dfcf28-e11f-4253-9a82-b1f809c0aefd#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-wirft-russland-planung-eines-staatsstreichs-in-der-ukraine-vor](https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-wirft-russland-planung-eines-staatsstreichs-in-der-ukraine-vor-a-187376f2-4fe9-45a7-abef-b13d0ac93bb1#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-wirft-russland-planung-eines-staatsstreichs-in-der-ukraine-vor](https://www.spiegel.de/ausland/ukraine-praesident-selenskyj-wirft-russland-planung-eines-staatsstreichs-in-der-ukraine-vor-a-187376f2-4fe9-45a7-abef-b13d0ac93bb1#ref=rss)
 
