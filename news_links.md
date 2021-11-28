@@ -4,327 +4,277 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ich
+### coronavariante
 
-* [https://www.spiegel.de/start/selbst-putzen-oder-haushaltshilfe-engagieren-das-sind-die-probleme](https://www.spiegel.de/start/selbst-putzen-oder-haushaltshilfe-engagieren-das-sind-die-probleme-a-636d7076-7ab0-456e-a0c5-5a2cd2cfb45b#ref=rss)
+* [https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam](https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam-a-a4aa6e2e-4036-4e2a-abd8-445f3d898e66#ref=rss)
+* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf](https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf-a-80beb8c9-cb12-4411-9a3b-53811bb5e8d1#ref=rss)
+* [https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst](https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst-a-f0f19669-f05c-45b7-9150-a35c2eab9451#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter-a-ebbda1a6-f289-4ca4-9a70-69d6618a8567#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/wirtschaft/coronavirus-epidemiologe-erwartet-neue-probleme-fuer-globalen-reiseverkehr](https://www.spiegel.de/wirtschaft/coronavirus-epidemiologe-erwartet-neue-probleme-fuer-globalen-reiseverkehr-a-da2b1125-8c2f-46d5-9a32-627e8eee5728#ref=rss)
-* [https://www.spiegel.de/wissenschaft/omikron-variante-des-coronavirus-neustart-der-pandemie-ist-unwahrscheinlich](https://www.spiegel.de/wissenschaft/omikron-variante-des-coronavirus-neustart-der-pandemie-ist-unwahrscheinlich-a-c51a3594-03cc-46e3-9cb4-2d0b1c7442f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/neue-corona-variante-ist-omikron-schon-in-deutschland](https://www.spiegel.de/wirtschaft/neue-corona-variante-ist-omikron-schon-in-deutschland-a-fd549e3f-22e9-467b-9704-6e9b3a69152b#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest](https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest-a-27f12d56-06eb-4abe-8240-6fa9a84c029b#ref=rss)
-* [https://www.spiegel.de/ausland/krise-an-der-grenze-zu-polen-hunderte-iraker-verlassen-belarus-wieder](https://www.spiegel.de/ausland/krise-an-der-grenze-zu-polen-hunderte-iraker-verlassen-belarus-wieder-a-8a29f680-20b2-41ca-b69c-9dcf66737f3e#ref=rss)
-* [https://www.spiegel.de/gesundheit/coronavirus-bundeswehr-im-kampf-gegen-den-unsichtbaren-feind](https://www.spiegel.de/gesundheit/coronavirus-bundeswehr-im-kampf-gegen-den-unsichtbaren-feind-a-62c0d96e-3923-448c-a1b8-a9938da2f5e8#ref=rss)
-* [https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume](https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume-a-a0ef8c50-a187-4d42-9159-3915795d364b#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast](https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast-a-a7aee56f-c672-4e7c-aa62-6cf458ab1625#ref=rss)
-### sebastian
-
-* [https://www.spiegel.de/ausland/oesterreichs-ex-kanzler-sebastian-kurz-ist-zum-ersten-mal-vater-geworden](https://www.spiegel.de/ausland/oesterreichs-ex-kanzler-sebastian-kurz-ist-zum-ersten-mal-vater-geworden-a-2b4fa685-4606-4cc7-8a77-4e90f6a0855b#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-wie-chatnachrichten-zum-ruecktritt-gefuehrt-haben-podcast](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-wie-chatnachrichten-zum-ruecktritt-gefuehrt-haben-podcast-a-03b3955f-fa7e-4c8b-8b3a-d664ed09f2f7#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/ausland/oesterreichs-ex-kanzler-sebastian-kurz-ist-zum-ersten-mal-vater-geworden](https://www.spiegel.de/ausland/oesterreichs-ex-kanzler-sebastian-kurz-ist-zum-ersten-mal-vater-geworden-a-2b4fa685-4606-4cc7-8a77-4e90f6a0855b#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-wie-chatnachrichten-zum-ruecktritt-gefuehrt-haben-podcast](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-wie-chatnachrichten-zum-ruecktritt-gefuehrt-haben-podcast-a-03b3955f-fa7e-4c8b-8b3a-d664ed09f2f7#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/familie/weihnachten-was-tun-beim-familienstreit-an-den-feiertagen-podcast](https://www.spiegel.de/familie/weihnachten-was-tun-beim-familienstreit-an-den-feiertagen-podcast-a-bc61a88e-0fa6-4643-a4b7-8c7de0f7cce9#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-wie-chatnachrichten-zum-ruecktritt-gefuehrt-haben-podcast](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-wie-chatnachrichten-zum-ruecktritt-gefuehrt-haben-podcast-a-03b3955f-fa7e-4c8b-8b3a-d664ed09f2f7#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast](https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast-a-a7aee56f-c672-4e7c-aa62-6cf458ab1625#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/karriere/till-jagla-ohne-yeezy-wie-der-einstige-adidas-mann-die-sneakerszene-veraendern-will](https://www.spiegel.de/karriere/till-jagla-ohne-yeezy-wie-der-einstige-adidas-mann-die-sneakerszene-veraendern-will-a-005c9591-fe26-4c9c-a1c2-2262949dcabe#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt](https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt-a-25346fad-d920-4349-87be-2c418a62d8d1#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast](https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast-a-a7aee56f-c672-4e7c-aa62-6cf458ab1625#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland-a-4d6ebc8d-173f-4244-b075-70ca44747a2b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich-a-7864bbf7-16ee-4964-8ded-95e41ded6013#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/raser-in-muenchen-85-mal-in-einem-monat-geblitzt](https://www.spiegel.de/panorama/justiz/raser-in-muenchen-85-mal-in-einem-monat-geblitzt-a-d0c93fec-1c26-4551-bb65-813dec85dfe3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-leopoldina-wissenschaftler-fordern-strikte-kontaktbeschraenkungen-und-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-pandemie-leopoldina-wissenschaftler-fordern-strikte-kontaktbeschraenkungen-und-impfpflicht-a-1244dd5f-8228-4da4-ac9f-02095d962169#ref=rss)
-### sturm
-
-* [https://www.spiegel.de/panorama/getreidefrachter-treibt-mit-motorschaden-im-sturm](https://www.spiegel.de/panorama/getreidefrachter-treibt-mit-motorschaden-im-sturm-a-9ce86689-68a7-4951-ad2d-af17e4bc6fd6#ref=rss)
-* [https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume](https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume-a-a0ef8c50-a187-4d42-9159-3915795d364b#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/wirtschaft/coronavirus-epidemiologe-erwartet-neue-probleme-fuer-globalen-reiseverkehr](https://www.spiegel.de/wirtschaft/coronavirus-epidemiologe-erwartet-neue-probleme-fuer-globalen-reiseverkehr-a-da2b1125-8c2f-46d5-9a32-627e8eee5728#ref=rss)
-* [https://www.spiegel.de/wissenschaft/omikron-variante-des-coronavirus-neustart-der-pandemie-ist-unwahrscheinlich](https://www.spiegel.de/wissenschaft/omikron-variante-des-coronavirus-neustart-der-pandemie-ist-unwahrscheinlich-a-c51a3594-03cc-46e3-9cb4-2d0b1c7442f9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown](https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown-a-03e6870e-96ce-4d62-9937-2ed26854c70d#ref=rss)
-* [https://www.spiegel.de/gesundheit/coronavirus-bundeswehr-im-kampf-gegen-den-unsichtbaren-feind](https://www.spiegel.de/gesundheit/coronavirus-bundeswehr-im-kampf-gegen-den-unsichtbaren-feind-a-62c0d96e-3923-448c-a1b8-a9938da2f5e8#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/ampel-koalitionsvertrag-in-der-datenanalyse-viel-klima-weniger-soziales](https://www.spiegel.de/politik/deutschland/ampel-koalitionsvertrag-in-der-datenanalyse-viel-klima-weniger-soziales-a-434bd442-ac3a-4484-9967-2145d7af6bf1#ref=rss)
-* [https://www.spiegel.de/gesundheit/coronavirus-bundeswehr-im-kampf-gegen-den-unsichtbaren-feind](https://www.spiegel.de/gesundheit/coronavirus-bundeswehr-im-kampf-gegen-den-unsichtbaren-feind-a-62c0d96e-3923-448c-a1b8-a9938da2f5e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-leopoldina-wissenschaftler-fordern-strikte-kontaktbeschraenkungen-und-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-pandemie-leopoldina-wissenschaftler-fordern-strikte-kontaktbeschraenkungen-und-impfpflicht-a-1244dd5f-8228-4da4-ac9f-02095d962169#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest](https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest-a-27f12d56-06eb-4abe-8240-6fa9a84c029b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/neue-corona-variante-ist-omikron-schon-in-deutschland](https://www.spiegel.de/wirtschaft/neue-corona-variante-ist-omikron-schon-in-deutschland-a-fd549e3f-22e9-467b-9704-6e9b3a69152b#ref=rss)
-### zunächst
-
-* [https://www.spiegel.de/ausland/oesterreichs-ex-kanzler-sebastian-kurz-ist-zum-ersten-mal-vater-geworden](https://www.spiegel.de/ausland/oesterreichs-ex-kanzler-sebastian-kurz-ist-zum-ersten-mal-vater-geworden-a-2b4fa685-4606-4cc7-8a77-4e90f6a0855b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich-a-7864bbf7-16ee-4964-8ded-95e41ded6013#ref=rss)
-### nimmt
-
-* [https://www.spiegel.de/gesundheit/corona-intensivstation-am-limit-das-sterben-nimmt-kein-ende](https://www.spiegel.de/gesundheit/corona-intensivstation-am-limit-das-sterben-nimmt-kein-ende-a-56172530-656e-4dfd-bae7-a76a6dfe396e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest](https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest-a-27f12d56-06eb-4abe-8240-6fa9a84c029b#ref=rss)
-### ende
-
-* [https://www.spiegel.de/gesundheit/corona-intensivstation-am-limit-das-sterben-nimmt-kein-ende](https://www.spiegel.de/gesundheit/corona-intensivstation-am-limit-das-sterben-nimmt-kein-ende-a-56172530-656e-4dfd-bae7-a76a6dfe396e#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast](https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast-a-a7aee56f-c672-4e7c-aa62-6cf458ab1625#ref=rss)
-### drei
-
-* [https://www.spiegel.de/gesundheit/corona-intensivstation-am-limit-das-sterben-nimmt-kein-ende](https://www.spiegel.de/gesundheit/corona-intensivstation-am-limit-das-sterben-nimmt-kein-ende-a-56172530-656e-4dfd-bae7-a76a6dfe396e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland-a-4d6ebc8d-173f-4244-b075-70ca44747a2b#ref=rss)
-### kampf
-
-* [https://www.spiegel.de/gesundheit/corona-intensivstation-am-limit-das-sterben-nimmt-kein-ende](https://www.spiegel.de/gesundheit/corona-intensivstation-am-limit-das-sterben-nimmt-kein-ende-a-56172530-656e-4dfd-bae7-a76a6dfe396e#ref=rss)
-* [https://www.spiegel.de/gesundheit/coronavirus-bundeswehr-im-kampf-gegen-den-unsichtbaren-feind](https://www.spiegel.de/gesundheit/coronavirus-bundeswehr-im-kampf-gegen-den-unsichtbaren-feind-a-62c0d96e-3923-448c-a1b8-a9938da2f5e8#ref=rss)
-### weihnachten
-
-* [https://www.spiegel.de/familie/weihnachten-was-tun-beim-familienstreit-an-den-feiertagen-podcast](https://www.spiegel.de/familie/weihnachten-was-tun-beim-familienstreit-an-den-feiertagen-podcast-a-bc61a88e-0fa6-4643-a4b7-8c7de0f7cce9#ref=rss)
-### wir
-
-* [https://www.spiegel.de/familie/weihnachten-was-tun-beim-familienstreit-an-den-feiertagen-podcast](https://www.spiegel.de/familie/weihnachten-was-tun-beim-familienstreit-an-den-feiertagen-podcast-a-bc61a88e-0fa6-4643-a4b7-8c7de0f7cce9#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/true-wireless-headsets-von-apple-anker-beats-jabra-sennheiser-shure-im-test](https://www.spiegel.de/netzwelt/gadgets/true-wireless-headsets-von-apple-anker-beats-jabra-sennheiser-shure-im-test-a-7147724d-c755-4c3e-81c2-748776cc8ebd#ref=rss)
-### grüne
-
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-ampel-euphorie-gibt-es-bei-uns-nicht](https://www.spiegel.de/politik/deutschland/gruene-jugend-ampel-euphorie-gibt-es-bei-uns-nicht-a-aa175504-a0ad-41e9-b561-2dbe076b1910#ref=rss)
-### jugend
-
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-ampel-euphorie-gibt-es-bei-uns-nicht](https://www.spiegel.de/politik/deutschland/gruene-jugend-ampel-euphorie-gibt-es-bei-uns-nicht-a-aa175504-a0ad-41e9-b561-2dbe076b1910#ref=rss)
-### koalitionsvertrag
-
-* [https://www.spiegel.de/politik/deutschland/gruene-jugend-ampel-euphorie-gibt-es-bei-uns-nicht](https://www.spiegel.de/politik/deutschland/gruene-jugend-ampel-euphorie-gibt-es-bei-uns-nicht-a-aa175504-a0ad-41e9-b561-2dbe076b1910#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalitionsvertrag-in-der-datenanalyse-viel-klima-weniger-soziales](https://www.spiegel.de/politik/deutschland/ampel-koalitionsvertrag-in-der-datenanalyse-viel-klima-weniger-soziales-a-434bd442-ac3a-4484-9967-2145d7af6bf1#ref=rss)
-### till
-
-* [https://www.spiegel.de/karriere/till-jagla-ohne-yeezy-wie-der-einstige-adidas-mann-die-sneakerszene-veraendern-will](https://www.spiegel.de/karriere/till-jagla-ohne-yeezy-wie-der-einstige-adidas-mann-die-sneakerszene-veraendern-will-a-005c9591-fe26-4c9c-a1c2-2262949dcabe#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-wie-chatnachrichten-zum-ruecktritt-gefuehrt-haben-podcast](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-wie-chatnachrichten-zum-ruecktritt-gefuehrt-haben-podcast-a-03b3955f-fa7e-4c8b-8b3a-d664ed09f2f7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest](https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest-a-27f12d56-06eb-4abe-8240-6fa9a84c029b#ref=rss)
-### chatnachrichten
-
-* [https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-wie-chatnachrichten-zum-ruecktritt-gefuehrt-haben-podcast](https://www.spiegel.de/ausland/oesterreich-sebastian-kurz-wie-chatnachrichten-zum-ruecktritt-gefuehrt-haben-podcast-a-03b3955f-fa7e-4c8b-8b3a-d664ed09f2f7#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland-a-4d6ebc8d-173f-4244-b075-70ca44747a2b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich-a-7864bbf7-16ee-4964-8ded-95e41ded6013#ref=rss)
-### schlägt
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland-a-4d6ebc8d-173f-4244-b075-70ca44747a2b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-leopoldina-wissenschaftler-fordern-strikte-kontaktbeschraenkungen-und-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-pandemie-leopoldina-wissenschaftler-fordern-strikte-kontaktbeschraenkungen-und-impfpflicht-a-1244dd5f-8228-4da4-ac9f-02095d962169#ref=rss)
-### wolfsburg
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland-a-4d6ebc8d-173f-4244-b075-70ca44747a2b#ref=rss)
-### dank
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland-a-4d6ebc8d-173f-4244-b075-70ca44747a2b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich-a-7864bbf7-16ee-4964-8ded-95e41ded6013#ref=rss)
-### haaland
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland-a-4d6ebc8d-173f-4244-b075-70ca44747a2b#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland](https://www.spiegel.de/sport/fussball/fussball-bundesliga-borussia-dortmund-schlaegt-den-vfl-wolfsburg-auch-dank-erling-haaland-a-4d6ebc8d-173f-4244-b075-70ca44747a2b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich-a-7864bbf7-16ee-4964-8ded-95e41ded6013#ref=rss)
-### treibt
-
-* [https://www.spiegel.de/panorama/getreidefrachter-treibt-mit-motorschaden-im-sturm](https://www.spiegel.de/panorama/getreidefrachter-treibt-mit-motorschaden-im-sturm-a-9ce86689-68a7-4951-ad2d-af17e4bc6fd6#ref=rss)
-### engagieren
-
-* [https://www.spiegel.de/start/selbst-putzen-oder-haushaltshilfe-engagieren-das-sind-die-probleme](https://www.spiegel.de/start/selbst-putzen-oder-haushaltshilfe-engagieren-das-sind-die-probleme-a-636d7076-7ab0-456e-a0c5-5a2cd2cfb45b#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/start/selbst-putzen-oder-haushaltshilfe-engagieren-das-sind-die-probleme](https://www.spiegel.de/start/selbst-putzen-oder-haushaltshilfe-engagieren-das-sind-die-probleme-a-636d7076-7ab0-456e-a0c5-5a2cd2cfb45b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/coronavirus-epidemiologe-erwartet-neue-probleme-fuer-globalen-reiseverkehr](https://www.spiegel.de/wirtschaft/coronavirus-epidemiologe-erwartet-neue-probleme-fuer-globalen-reiseverkehr-a-da2b1125-8c2f-46d5-9a32-627e8eee5728#ref=rss)
-### fest
-
-* [https://www.spiegel.de/start/selbst-putzen-oder-haushaltshilfe-engagieren-das-sind-die-probleme](https://www.spiegel.de/start/selbst-putzen-oder-haushaltshilfe-engagieren-das-sind-die-probleme-a-636d7076-7ab0-456e-a0c5-5a2cd2cfb45b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest](https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest-a-27f12d56-06eb-4abe-8240-6fa9a84c029b#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/start/selbst-putzen-oder-haushaltshilfe-engagieren-das-sind-die-probleme](https://www.spiegel.de/start/selbst-putzen-oder-haushaltshilfe-engagieren-das-sind-die-probleme-a-636d7076-7ab0-456e-a0c5-5a2cd2cfb45b#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt](https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt-a-25346fad-d920-4349-87be-2c418a62d8d1#ref=rss)
-### südafrika
-
-* [https://www.spiegel.de/wirtschaft/coronavirus-epidemiologe-erwartet-neue-probleme-fuer-globalen-reiseverkehr](https://www.spiegel.de/wirtschaft/coronavirus-epidemiologe-erwartet-neue-probleme-fuer-globalen-reiseverkehr-a-da2b1125-8c2f-46d5-9a32-627e8eee5728#ref=rss)
-* [https://www.spiegel.de/wirtschaft/neue-corona-variante-ist-omikron-schon-in-deutschland](https://www.spiegel.de/wirtschaft/neue-corona-variante-ist-omikron-schon-in-deutschland-a-fd549e3f-22e9-467b-9704-6e9b3a69152b#ref=rss)
-### 61
-
-* [https://www.spiegel.de/wirtschaft/coronavirus-epidemiologe-erwartet-neue-probleme-fuer-globalen-reiseverkehr](https://www.spiegel.de/wirtschaft/coronavirus-epidemiologe-erwartet-neue-probleme-fuer-globalen-reiseverkehr-a-da2b1125-8c2f-46d5-9a32-627e8eee5728#ref=rss)
-* [https://www.spiegel.de/wirtschaft/neue-corona-variante-ist-omikron-schon-in-deutschland](https://www.spiegel.de/wirtschaft/neue-corona-variante-ist-omikron-schon-in-deutschland-a-fd549e3f-22e9-467b-9704-6e9b3a69152b#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/ampel-koalitionsvertrag-in-der-datenanalyse-viel-klima-weniger-soziales](https://www.spiegel.de/politik/deutschland/ampel-koalitionsvertrag-in-der-datenanalyse-viel-klima-weniger-soziales-a-434bd442-ac3a-4484-9967-2145d7af6bf1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind](https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind-a-6e91e063-e9db-427c-80c3-7d6bd68a60d7#ref=rss)
-### meisten
-
-* [https://www.spiegel.de/politik/deutschland/ampel-koalitionsvertrag-in-der-datenanalyse-viel-klima-weniger-soziales](https://www.spiegel.de/politik/deutschland/ampel-koalitionsvertrag-in-der-datenanalyse-viel-klima-weniger-soziales-a-434bd442-ac3a-4484-9967-2145d7af6bf1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest](https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest-a-27f12d56-06eb-4abe-8240-6fa9a84c029b#ref=rss)
-### wissing
-
-* [https://www.spiegel.de/auto/abgesagte-verkehrswende-neuer-verkehrsminister-wissing-sieht-sich-als-anwalt-der-autofahrer](https://www.spiegel.de/auto/abgesagte-verkehrswende-neuer-verkehrsminister-wissing-sieht-sich-als-anwalt-der-autofahrer-a-1e24d3bc-6d55-4c7c-8c72-43d6e579702f#ref=rss)
-### autofahrer
-
-* [https://www.spiegel.de/auto/abgesagte-verkehrswende-neuer-verkehrsminister-wissing-sieht-sich-als-anwalt-der-autofahrer](https://www.spiegel.de/auto/abgesagte-verkehrswende-neuer-verkehrsminister-wissing-sieht-sich-als-anwalt-der-autofahrer-a-1e24d3bc-6d55-4c7c-8c72-43d6e579702f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/raser-in-muenchen-85-mal-in-einem-monat-geblitzt](https://www.spiegel.de/panorama/justiz/raser-in-muenchen-85-mal-in-einem-monat-geblitzt-a-d0c93fec-1c26-4551-bb65-813dec85dfe3#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest](https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest-a-27f12d56-06eb-4abe-8240-6fa9a84c029b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/finanzpolizei-ermittelt-gegen-juventus](https://www.spiegel.de/sport/fussball/finanzpolizei-ermittelt-gegen-juventus-a-f78498a8-7eff-45c7-960f-55c62a39238e#ref=rss)
-### 15
-
-* [https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest](https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest-a-27f12d56-06eb-4abe-8240-6fa9a84c029b#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/true-wireless-headsets-von-apple-anker-beats-jabra-sennheiser-shure-im-test](https://www.spiegel.de/netzwelt/gadgets/true-wireless-headsets-von-apple-anker-beats-jabra-sennheiser-shure-im-test-a-7147724d-c755-4c3e-81c2-748776cc8ebd#ref=rss)
-### hunderte
-
-* [https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest](https://www.spiegel.de/panorama/justiz/deutschland-als-ziel-oesterreichische-polizei-nimmt-15-schlepper-fest-a-27f12d56-06eb-4abe-8240-6fa9a84c029b#ref=rss)
-* [https://www.spiegel.de/ausland/krise-an-der-grenze-zu-polen-hunderte-iraker-verlassen-belarus-wieder](https://www.spiegel.de/ausland/krise-an-der-grenze-zu-polen-hunderte-iraker-verlassen-belarus-wieder-a-8a29f680-20b2-41ca-b69c-9dcf66737f3e#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich-a-7864bbf7-16ee-4964-8ded-95e41ded6013#ref=rss)
-### schalke
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich-a-7864bbf7-16ee-4964-8ded-95e41ded6013#ref=rss)
-### sandhausen
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-fc-schalke-04-besiegt-sv-sandhausen-deutlich-a-7864bbf7-16ee-4964-8ded-95e41ded6013#ref=rss)
+* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen](https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen-a-73bdb70e-b2e5-4ad2-a6dc-4bcded52e8e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kritik-der-lehrer-kaum-neue-luftfilter-in-klassenraeumen](https://www.spiegel.de/politik/deutschland/kritik-der-lehrer-kaum-neue-luftfilter-in-klassenraeumen-a-ef71aa1b-a4b3-4661-9d5b-68ec7a316bb6#ref=rss)
+* [https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen](https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen-a-bb0b79a6-d4ab-40ec-8f23-4f67c82a7f62#ref=rss)
+* [https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf](https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf-a-80beb8c9-cb12-4411-9a3b-53811bb5e8d1#ref=rss)
+* [https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst](https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst-a-f0f19669-f05c-45b7-9150-a35c2eab9451#ref=rss)
 ### omikron
 
-* [https://www.spiegel.de/wissenschaft/omikron-variante-des-coronavirus-neustart-der-pandemie-ist-unwahrscheinlich](https://www.spiegel.de/wissenschaft/omikron-variante-des-coronavirus-neustart-der-pandemie-ist-unwahrscheinlich-a-c51a3594-03cc-46e3-9cb4-2d0b1c7442f9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/neue-corona-variante-ist-omikron-schon-in-deutschland](https://www.spiegel.de/wirtschaft/neue-corona-variante-ist-omikron-schon-in-deutschland-a-fd549e3f-22e9-467b-9704-6e9b3a69152b#ref=rss)
-### catcalling
+* [https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam](https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam-a-a4aa6e2e-4036-4e2a-abd8-445f3d898e66#ref=rss)
+* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
+* [https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst](https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst-a-f0f19669-f05c-45b7-9150-a35c2eab9451#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter-a-ebbda1a6-f289-4ca4-9a70-69d6618a8567#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt](https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt-a-25346fad-d920-4349-87be-2c418a62d8d1#ref=rss)
-### lauraromina
+* [https://www.spiegel.de/panorama/justiz/unschuldig-verurteilter-erhaelt-mehr-als-eine-million-dollar-spenden](https://www.spiegel.de/panorama/justiz/unschuldig-verurteilter-erhaelt-mehr-als-eine-million-dollar-spenden-a-f02bde37-fe05-40c8-a992-835f24d5ea00#ref=rss)
+* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus](https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus-a-374b61d6-68c5-4401-8a13-78e490d7c739#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
+### b11529
 
-* [https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt](https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt-a-25346fad-d920-4349-87be-2c418a62d8d1#ref=rss)
-### goede
+* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr](https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr-a-a08f0de7-8a32-4b48-8479-75c5f8bebc20#ref=rss)
+* [https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst](https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst-a-f0f19669-f05c-45b7-9150-a35c2eab9451#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter-a-ebbda1a6-f289-4ca4-9a70-69d6618a8567#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt](https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt-a-25346fad-d920-4349-87be-2c418a62d8d1#ref=rss)
-### körperkontakt
+* [https://www.spiegel.de/ausland/estland-aussenministerin-ueber-belarus-krise-wir-koennen-diese-menschen-nicht-erfrieren-lassen](https://www.spiegel.de/ausland/estland-aussenministerin-ueber-belarus-krise-wir-koennen-diese-menschen-nicht-erfrieren-lassen-a-eeca3c2a-059d-4941-b6b3-f58deecfcef0#ref=rss)
+* [https://www.spiegel.de/panorama/nach-hochwasserkatastrophe-flutgeld-sorgt-fuer-geldflut](https://www.spiegel.de/panorama/nach-hochwasserkatastrophe-flutgeld-sorgt-fuer-geldflut-a-729656a6-deb9-42db-b8f2-17f5b3aeefa6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/minneapolis-minnesota-fuenfjaehriger-bei-videodreh-von-jugendlichen-erschossen](https://www.spiegel.de/panorama/justiz/minneapolis-minnesota-fuenfjaehriger-bei-videodreh-von-jugendlichen-erschossen-a-f2980996-e3c5-4bfe-80a8-f8f4a10c9ed3#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt](https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt-a-25346fad-d920-4349-87be-2c418a62d8d1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/stadt-hamburg-vergisst-die-eroeffnung-eines-impfzentrums](https://www.spiegel.de/wissenschaft/stadt-hamburg-vergisst-die-eroeffnung-eines-impfzentrums-a-7d47fa2d-6ac9-4ac9-bdd4-9497d6ec5a2b#ref=rss)
+* [https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen](https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen-a-bb0b79a6-d4ab-40ec-8f23-4f67c82a7f62#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/wissenschaft/stadt-hamburg-vergisst-die-eroeffnung-eines-impfzentrums](https://www.spiegel.de/wissenschaft/stadt-hamburg-vergisst-die-eroeffnung-eines-impfzentrums-a-7d47fa2d-6ac9-4ac9-bdd4-9497d6ec5a2b#ref=rss)
+* [https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam](https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam-a-a4aa6e2e-4036-4e2a-abd8-445f3d898e66#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt](https://www.spiegel.de/panorama/gesellschaft/catcalling-laura-romina-goede-ueber-folgen-und-ausmass-von-sexueller-belaestigung-ohne-koerperkontakt-a-25346fad-d920-4349-87be-2c418a62d8d1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/raser-in-muenchen-85-mal-in-einem-monat-geblitzt](https://www.spiegel.de/panorama/justiz/raser-in-muenchen-85-mal-in-einem-monat-geblitzt-a-d0c93fec-1c26-4551-bb65-813dec85dfe3#ref=rss)
-### braucht
+* [https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam](https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam-a-a4aa6e2e-4036-4e2a-abd8-445f3d898e66#ref=rss)
+* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kritik-der-lehrer-kaum-neue-luftfilter-in-klassenraeumen](https://www.spiegel.de/politik/deutschland/kritik-der-lehrer-kaum-neue-luftfilter-in-klassenraeumen-a-ef71aa1b-a4b3-4661-9d5b-68ec7a316bb6#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/netzwelt/gadgets/true-wireless-headsets-von-apple-anker-beats-jabra-sennheiser-shure-im-test](https://www.spiegel.de/netzwelt/gadgets/true-wireless-headsets-von-apple-anker-beats-jabra-sennheiser-shure-im-test-a-7147724d-c755-4c3e-81c2-748776cc8ebd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown](https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown-a-03e6870e-96ce-4d62-9937-2ed26854c70d#ref=rss)
-### getestet
+* [https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam](https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam-a-a4aa6e2e-4036-4e2a-abd8-445f3d898e66#ref=rss)
+* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr](https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr-a-a08f0de7-8a32-4b48-8479-75c5f8bebc20#ref=rss)
+### corona
 
-* [https://www.spiegel.de/netzwelt/gadgets/true-wireless-headsets-von-apple-anker-beats-jabra-sennheiser-shure-im-test](https://www.spiegel.de/netzwelt/gadgets/true-wireless-headsets-von-apple-anker-beats-jabra-sennheiser-shure-im-test-a-7147724d-c755-4c3e-81c2-748776cc8ebd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/neue-corona-variante-ist-omikron-schon-in-deutschland](https://www.spiegel.de/wirtschaft/neue-corona-variante-ist-omikron-schon-in-deutschland-a-fd549e3f-22e9-467b-9704-6e9b3a69152b#ref=rss)
-### rainer
+* [https://www.spiegel.de/politik/deutschland/kritik-der-lehrer-kaum-neue-luftfilter-in-klassenraeumen](https://www.spiegel.de/politik/deutschland/kritik-der-lehrer-kaum-neue-luftfilter-in-klassenraeumen-a-ef71aa1b-a4b3-4661-9d5b-68ec7a316bb6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an](https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an-a-bb904c03-972f-4823-8261-25105c0a9813#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/gesellschaft/weihbischof-woelki-steht-vor-probezeit](https://www.spiegel.de/panorama/gesellschaft/weihbischof-woelki-steht-vor-probezeit-a-a6af41f1-1e26-4a0a-9ef4-41c93643b2ab#ref=rss)
-### maria
+* [https://www.spiegel.de/panorama/debatte-um-impf-booster-weltaerzte-chef-montgomery-fordert-befristung-des-impfstatus](https://www.spiegel.de/panorama/debatte-um-impf-booster-weltaerzte-chef-montgomery-fordert-befristung-des-impfstatus-a-54b48a13-811e-49f2-ac6e-3ab83adc3100#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter-a-ebbda1a6-f289-4ca4-9a70-69d6618a8567#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/panorama/gesellschaft/weihbischof-woelki-steht-vor-probezeit](https://www.spiegel.de/panorama/gesellschaft/weihbischof-woelki-steht-vor-probezeit-a-a6af41f1-1e26-4a0a-9ef4-41c93643b2ab#ref=rss)
-### woelki
+* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer-a-c717518b-133b-45b3-8a82-ee642e58c7b3#ref=rss)
+### kliniken
 
-* [https://www.spiegel.de/panorama/gesellschaft/weihbischof-woelki-steht-vor-probezeit](https://www.spiegel.de/panorama/gesellschaft/weihbischof-woelki-steht-vor-probezeit-a-a6af41f1-1e26-4a0a-9ef4-41c93643b2ab#ref=rss)
-### erzbischof
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an](https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an-a-bb904c03-972f-4823-8261-25105c0a9813#ref=rss)
+### impfpflicht
 
-* [https://www.spiegel.de/panorama/gesellschaft/weihbischof-woelki-steht-vor-probezeit](https://www.spiegel.de/panorama/gesellschaft/weihbischof-woelki-steht-vor-probezeit-a-a6af41f1-1e26-4a0a-9ef4-41c93643b2ab#ref=rss)
-### krise
+* [https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an](https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an-a-bb904c03-972f-4823-8261-25105c0a9813#ref=rss)
+### spenden
 
-* [https://www.spiegel.de/ausland/krise-an-der-grenze-zu-polen-hunderte-iraker-verlassen-belarus-wieder](https://www.spiegel.de/ausland/krise-an-der-grenze-zu-polen-hunderte-iraker-verlassen-belarus-wieder-a-8a29f680-20b2-41ca-b69c-9dcf66737f3e#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast](https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast-a-a7aee56f-c672-4e7c-aa62-6cf458ab1625#ref=rss)
-### grenze
+* [https://www.spiegel.de/panorama/justiz/unschuldig-verurteilter-erhaelt-mehr-als-eine-million-dollar-spenden](https://www.spiegel.de/panorama/justiz/unschuldig-verurteilter-erhaelt-mehr-als-eine-million-dollar-spenden-a-f02bde37-fe05-40c8-a992-835f24d5ea00#ref=rss)
+### portugal
 
-* [https://www.spiegel.de/ausland/krise-an-der-grenze-zu-polen-hunderte-iraker-verlassen-belarus-wieder](https://www.spiegel.de/ausland/krise-an-der-grenze-zu-polen-hunderte-iraker-verlassen-belarus-wieder-a-8a29f680-20b2-41ca-b69c-9dcf66737f3e#ref=rss)
-### polen
+* [https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen](https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen-a-963e10ef-5881-4818-9fa0-fc1eda560067#ref=rss)
+### spieler
 
-* [https://www.spiegel.de/ausland/krise-an-der-grenze-zu-polen-hunderte-iraker-verlassen-belarus-wieder](https://www.spiegel.de/ausland/krise-an-der-grenze-zu-polen-hunderte-iraker-verlassen-belarus-wieder-a-8a29f680-20b2-41ca-b69c-9dcf66737f3e#ref=rss)
-### belarus
+* [https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen](https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen-a-963e10ef-5881-4818-9fa0-fc1eda560067#ref=rss)
+### drei
 
-* [https://www.spiegel.de/ausland/krise-an-der-grenze-zu-polen-hunderte-iraker-verlassen-belarus-wieder](https://www.spiegel.de/ausland/krise-an-der-grenze-zu-polen-hunderte-iraker-verlassen-belarus-wieder-a-8a29f680-20b2-41ca-b69c-9dcf66737f3e#ref=rss)
-### olaf
+* [https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen](https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen-a-963e10ef-5881-4818-9fa0-fc1eda560067#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
+### partie
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-den-jusos-spd-jugend-kritisiert-ampel-und-migrationspolitik](https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-den-jusos-spd-jugend-kritisiert-ampel-und-migrationspolitik-a-291ca3a5-1b44-468b-b973-10d052ceaf6f#ref=rss)
-### scholz
+* [https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen](https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen-a-963e10ef-5881-4818-9fa0-fc1eda560067#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
+### welt
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-den-jusos-spd-jugend-kritisiert-ampel-und-migrationspolitik](https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-den-jusos-spd-jugend-kritisiert-ampel-und-migrationspolitik-a-291ca3a5-1b44-468b-b973-10d052ceaf6f#ref=rss)
-### sachsenanhalts
+* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
+### fälle
 
-* [https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown](https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown-a-03e6870e-96ce-4d62-9937-2ed26854c70d#ref=rss)
-### ministerpräsident
+* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr](https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr-a-a08f0de7-8a32-4b48-8479-75c5f8bebc20#ref=rss)
+### nachgewiesen
 
-* [https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown](https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown-a-03e6870e-96ce-4d62-9937-2ed26854c70d#ref=rss)
-### reiner
+* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter-a-ebbda1a6-f289-4ca4-9a70-69d6618a8567#ref=rss)
+### südafrika
 
-* [https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown](https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown-a-03e6870e-96ce-4d62-9937-2ed26854c70d#ref=rss)
-### haseloff
+* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr](https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr-a-a08f0de7-8a32-4b48-8479-75c5f8bebc20#ref=rss)
+### überblick
 
-* [https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown](https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown-a-03e6870e-96ce-4d62-9937-2ed26854c70d#ref=rss)
-### lockdown
+* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
+### start
 
-* [https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown](https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown-a-03e6870e-96ce-4d62-9937-2ed26854c70d#ref=rss)
-### friedrich
+* [https://www.spiegel.de/sport/wintersport/skilanglauf-in-finnland-start-der-langlaeuferinnen-in-ruka-verschoben-zu-kalt](https://www.spiegel.de/sport/wintersport/skilanglauf-in-finnland-start-der-langlaeuferinnen-in-ruka-verschoben-zu-kalt-a-4ae82805-f5e6-443e-87b9-46d0e86b5574#ref=rss)
+### langläuferinnen
 
-* [https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown](https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown-a-03e6870e-96ce-4d62-9937-2ed26854c70d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind](https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind-a-6e91e063-e9db-427c-80c3-7d6bd68a60d7#ref=rss)
-### merz
+* [https://www.spiegel.de/sport/wintersport/skilanglauf-in-finnland-start-der-langlaeuferinnen-in-ruka-verschoben-zu-kalt](https://www.spiegel.de/sport/wintersport/skilanglauf-in-finnland-start-der-langlaeuferinnen-in-ruka-verschoben-zu-kalt-a-4ae82805-f5e6-443e-87b9-46d0e86b5574#ref=rss)
+### verschieben
 
-* [https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown](https://www.spiegel.de/politik/deutschland/corona-virus-sachsen-anhalts-ministerpraesident-reiner-haseloff-ueber-moeglichen-lockdown-a-03e6870e-96ce-4d62-9937-2ed26854c70d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind](https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind-a-6e91e063-e9db-427c-80c3-7d6bd68a60d7#ref=rss)
-### feind
+* [https://www.spiegel.de/sport/wintersport/skilanglauf-in-finnland-start-der-langlaeuferinnen-in-ruka-verschoben-zu-kalt](https://www.spiegel.de/sport/wintersport/skilanglauf-in-finnland-start-der-langlaeuferinnen-in-ruka-verschoben-zu-kalt-a-4ae82805-f5e6-443e-87b9-46d0e86b5574#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
+### rente
 
-* [https://www.spiegel.de/gesundheit/coronavirus-bundeswehr-im-kampf-gegen-den-unsichtbaren-feind](https://www.spiegel.de/gesundheit/coronavirus-bundeswehr-im-kampf-gegen-den-unsichtbaren-feind-a-62c0d96e-3923-448c-a1b8-a9938da2f5e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind](https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind-a-6e91e063-e9db-427c-80c3-7d6bd68a60d7#ref=rss)
-### geblitzt
+* [https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus](https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus-a-374b61d6-68c5-4401-8a13-78e490d7c739#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
+### nächsten
 
-* [https://www.spiegel.de/panorama/justiz/raser-in-muenchen-85-mal-in-einem-monat-geblitzt](https://www.spiegel.de/panorama/justiz/raser-in-muenchen-85-mal-in-einem-monat-geblitzt-a-d0c93fec-1c26-4551-bb65-813dec85dfe3#ref=rss)
-### denise
+* [https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus](https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus-a-374b61d6-68c5-4401-8a13-78e490d7c739#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
+### steigen
 
-* [https://www.spiegel.de/sport/wintersport/biathletin-herrmann-laeuft-zum-saisonauftakt-aufs-podest](https://www.spiegel.de/sport/wintersport/biathletin-herrmann-laeuft-zum-saisonauftakt-aufs-podest-a-76e239d4-a506-405b-a1f4-e7f57bfa42e7#ref=rss)
-### herrmann
+* [https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus](https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus-a-374b61d6-68c5-4401-8a13-78e490d7c739#ref=rss)
+* [https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf](https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf-a-80beb8c9-cb12-4411-9a3b-53811bb5e8d1#ref=rss)
+### ampelkoalition
 
-* [https://www.spiegel.de/sport/wintersport/biathletin-herrmann-laeuft-zum-saisonauftakt-aufs-podest](https://www.spiegel.de/sport/wintersport/biathletin-herrmann-laeuft-zum-saisonauftakt-aufs-podest-a-76e239d4-a506-405b-a1f4-e7f57bfa42e7#ref=rss)
-### saisonauftakt
+* [https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus](https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus-a-374b61d6-68c5-4401-8a13-78e490d7c739#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
+### weihnachtsmärkte
 
-* [https://www.spiegel.de/sport/wintersport/biathletin-herrmann-laeuft-zum-saisonauftakt-aufs-podest](https://www.spiegel.de/sport/wintersport/biathletin-herrmann-laeuft-zum-saisonauftakt-aufs-podest-a-76e239d4-a506-405b-a1f4-e7f57bfa42e7#ref=rss)
-### arwen
+* [https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen](https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen-a-73bdb70e-b2e5-4ad2-a6dc-4bcded52e8e9#ref=rss)
+### schausteller
 
-* [https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume](https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume-a-a0ef8c50-a187-4d42-9159-3915795d364b#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen](https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen-a-73bdb70e-b2e5-4ad2-a6dc-4bcded52e8e9#ref=rss)
+### gäste
 
-* [https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume](https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume-a-a0ef8c50-a187-4d42-9159-3915795d364b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen](https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen-a-73bdb70e-b2e5-4ad2-a6dc-4bcded52e8e9#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften](https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften-a-e9b1d199-6802-4487-ae2a-ffec900a5c37#ref=rss)
+### außenministerin
+
+* [https://www.spiegel.de/ausland/estland-aussenministerin-ueber-belarus-krise-wir-koennen-diese-menschen-nicht-erfrieren-lassen](https://www.spiegel.de/ausland/estland-aussenministerin-ueber-belarus-krise-wir-koennen-diese-menschen-nicht-erfrieren-lassen-a-eeca3c2a-059d-4941-b6b3-f58deecfcef0#ref=rss)
+### wir
+
+* [https://www.spiegel.de/ausland/estland-aussenministerin-ueber-belarus-krise-wir-koennen-diese-menschen-nicht-erfrieren-lassen](https://www.spiegel.de/ausland/estland-aussenministerin-ueber-belarus-krise-wir-koennen-diese-menschen-nicht-erfrieren-lassen-a-eeca3c2a-059d-4941-b6b3-f58deecfcef0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
+### coronavirus
+
+* [https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften](https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften-a-e9b1d199-6802-4487-ae2a-ffec900a5c37#ref=rss)
+* [https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst](https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst-a-f0f19669-f05c-45b7-9150-a35c2eab9451#ref=rss)
+### schnelltests
+
+* [https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften](https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften-a-e9b1d199-6802-4487-ae2a-ffec900a5c37#ref=rss)
+### geimpften
+
+* [https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften](https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften-a-e9b1d199-6802-4487-ae2a-ffec900a5c37#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/panorama/nach-hochwasserkatastrophe-flutgeld-sorgt-fuer-geldflut](https://www.spiegel.de/panorama/nach-hochwasserkatastrophe-flutgeld-sorgt-fuer-geldflut-a-729656a6-deb9-42db-b8f2-17f5b3aeefa6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer-a-c717518b-133b-45b3-8a82-ee642e58c7b3#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen](https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen-a-bb0b79a6-d4ab-40ec-8f23-4f67c82a7f62#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen](https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen-a-bb0b79a6-d4ab-40ec-8f23-4f67c82a7f62#ref=rss)
+### wolkenkratzer
+
+* [https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen](https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen-a-bb0b79a6-d4ab-40ec-8f23-4f67c82a7f62#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer-a-c717518b-133b-45b3-8a82-ee642e58c7b3#ref=rss)
+### koalitionsvertrag
+
+* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer-a-c717518b-133b-45b3-8a82-ee642e58c7b3#ref=rss)
+### frankwalter
+
+* [https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf](https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf-a-80beb8c9-cb12-4411-9a3b-53811bb5e8d1#ref=rss)
+### steinmeier
+
+* [https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf](https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf-a-80beb8c9-cb12-4411-9a3b-53811bb5e8d1#ref=rss)
+### ruft
+
+* [https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf](https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf-a-80beb8c9-cb12-4411-9a3b-53811bb5e8d1#ref=rss)
+### sonntag
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume](https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume-a-a0ef8c50-a187-4d42-9159-3915795d364b#ref=rss)
-### umfallende
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
+* [https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst](https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst-a-f0f19669-f05c-45b7-9150-a35c2eab9451#ref=rss)
+### erst
 
-* [https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume](https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume-a-a0ef8c50-a187-4d42-9159-3915795d364b#ref=rss)
-### bäume
+* [https://www.spiegel.de/auto/fahrkultur/pininfarina-x-die-bombe-von-turin](https://www.spiegel.de/auto/fahrkultur/pininfarina-x-die-bombe-von-turin-a-f2dc7320-6aa2-4d13-9a09-a7542dc3b63a#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume](https://www.spiegel.de/panorama/sturm-arwen-in-grossbritannien-zwei-tote-durch-umfallende-baeume-a-a0ef8c50-a187-4d42-9159-3915795d364b#ref=rss)
-### kontaktbeschränkungen
+* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
+### 40
 
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-leopoldina-wissenschaftler-fordern-strikte-kontaktbeschraenkungen-und-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-pandemie-leopoldina-wissenschaftler-fordern-strikte-kontaktbeschraenkungen-und-impfpflicht-a-1244dd5f-8228-4da4-ac9f-02095d962169#ref=rss)
-### türkei
+* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
+### heil
 
-* [https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast](https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast-a-a7aee56f-c672-4e7c-aa62-6cf458ab1625#ref=rss)
-### erdoğan
+* [https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an](https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an-a-bb904c03-972f-4823-8261-25105c0a9813#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast](https://www.spiegel.de/ausland/tuerkei-ist-recep-tayyip-erdogan-am-ende-podcast-a-a7aee56f-c672-4e7c-aa62-6cf458ab1625#ref=rss)
-### juventus
+* [https://www.spiegel.de/panorama/justiz/minneapolis-minnesota-fuenfjaehriger-bei-videodreh-von-jugendlichen-erschossen](https://www.spiegel.de/panorama/justiz/minneapolis-minnesota-fuenfjaehriger-bei-videodreh-von-jugendlichen-erschossen-a-f2980996-e3c5-4bfe-80a8-f8f4a10c9ed3#ref=rss)
+### werder
 
-* [https://www.spiegel.de/sport/fussball/finanzpolizei-ermittelt-gegen-juventus](https://www.spiegel.de/sport/fussball/finanzpolizei-ermittelt-gegen-juventus-a-f78498a8-7eff-45c7-960f-55c62a39238e#ref=rss)
-### mario
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel-a-8be7fa7a-d51d-41fb-86dc-47e3b9b23565#ref=rss)
+### bremen
 
-* [https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind](https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind-a-6e91e063-e9db-427c-80c3-7d6bd68a60d7#ref=rss)
-### czaja
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel-a-8be7fa7a-d51d-41fb-86dc-47e3b9b23565#ref=rss)
+### holstein
 
-* [https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind](https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind-a-6e91e063-e9db-427c-80c3-7d6bd68a60d7#ref=rss)
-### afd
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel-a-8be7fa7a-d51d-41fb-86dc-47e3b9b23565#ref=rss)
+### kiel
 
-* [https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind](https://www.spiegel.de/politik/deutschland/mario-czaja-will-cdu-generalsekretaer-werden-die-afd-ist-unser-politischer-feind-a-6e91e063-e9db-427c-80c3-7d6bd68a60d7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel-a-8be7fa7a-d51d-41fb-86dc-47e3b9b23565#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/panorama/gesellschaft/luebeck-polizei-beendet-unzulaessige-corona-impfaktion-am-flughafen](https://www.spiegel.de/panorama/gesellschaft/luebeck-polizei-beendet-unzulaessige-corona-impfaktion-am-flughafen-a-0005244d-bb38-4fbd-80dc-89226c898c93#ref=rss)
+### volker
+
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer-a-c717518b-133b-45b3-8a82-ee642e58c7b3#ref=rss)
+### wissing
+
+* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer-a-c717518b-133b-45b3-8a82-ee642e58c7b3#ref=rss)
+### schachwm
+
+* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
+### remis
+
+* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
+### magnus
+
+* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
+### carlsen
+
+* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
+### jan
+
+* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
+### nepomnjaschtschi
+
+* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
+### andreas
+
+* [https://www.spiegel.de/geschichte/befreiung-von-andreas-baader-1970-der-beginn-der-raf-gewalt-podcast](https://www.spiegel.de/geschichte/befreiung-von-andreas-baader-1970-der-beginn-der-raf-gewalt-podcast-a-2781a328-58a8-4121-a6c0-b5fa5272fd89#ref=rss)
+### baader
+
+* [https://www.spiegel.de/geschichte/befreiung-von-andreas-baader-1970-der-beginn-der-raf-gewalt-podcast](https://www.spiegel.de/geschichte/befreiung-von-andreas-baader-1970-der-beginn-der-raf-gewalt-podcast-a-2781a328-58a8-4121-a6c0-b5fa5272fd89#ref=rss)
+### 1970
+
+* [https://www.spiegel.de/geschichte/befreiung-von-andreas-baader-1970-der-beginn-der-raf-gewalt-podcast](https://www.spiegel.de/geschichte/befreiung-von-andreas-baader-1970-der-beginn-der-raf-gewalt-podcast-a-2781a328-58a8-4121-a6c0-b5fa5272fd89#ref=rss)
 
