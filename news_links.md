@@ -4,277 +4,369 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### coronavariante
+### markus
 
-* [https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam](https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam-a-a4aa6e2e-4036-4e2a-abd8-445f3d898e66#ref=rss)
-* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf](https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf-a-80beb8c9-cb12-4411-9a3b-53811bb5e8d1#ref=rss)
-* [https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst](https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst-a-f0f19669-f05c-45b7-9150-a35c2eab9451#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter-a-ebbda1a6-f289-4ca4-9a70-69d6618a8567#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen](https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen-a-73bdb70e-b2e5-4ad2-a6dc-4bcded52e8e9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kritik-der-lehrer-kaum-neue-luftfilter-in-klassenraeumen](https://www.spiegel.de/politik/deutschland/kritik-der-lehrer-kaum-neue-luftfilter-in-klassenraeumen-a-ef71aa1b-a4b3-4661-9d5b-68ec7a316bb6#ref=rss)
-* [https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen](https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen-a-bb0b79a6-d4ab-40ec-8f23-4f67c82a7f62#ref=rss)
-* [https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf](https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf-a-80beb8c9-cb12-4411-9a3b-53811bb5e8d1#ref=rss)
-* [https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst](https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst-a-f0f19669-f05c-45b7-9150-a35c2eab9451#ref=rss)
-### omikron
-
-* [https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam](https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam-a-a4aa6e2e-4036-4e2a-abd8-445f3d898e66#ref=rss)
-* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
-* [https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst](https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst-a-f0f19669-f05c-45b7-9150-a35c2eab9451#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter-a-ebbda1a6-f289-4ca4-9a70-69d6618a8567#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/unschuldig-verurteilter-erhaelt-mehr-als-eine-million-dollar-spenden](https://www.spiegel.de/panorama/justiz/unschuldig-verurteilter-erhaelt-mehr-als-eine-million-dollar-spenden-a-f02bde37-fe05-40c8-a992-835f24d5ea00#ref=rss)
-* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus](https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus-a-374b61d6-68c5-4401-8a13-78e490d7c739#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
-### b11529
-
-* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr](https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr-a-a08f0de7-8a32-4b48-8479-75c5f8bebc20#ref=rss)
-* [https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst](https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst-a-f0f19669-f05c-45b7-9150-a35c2eab9451#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter-a-ebbda1a6-f289-4ca4-9a70-69d6618a8567#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/estland-aussenministerin-ueber-belarus-krise-wir-koennen-diese-menschen-nicht-erfrieren-lassen](https://www.spiegel.de/ausland/estland-aussenministerin-ueber-belarus-krise-wir-koennen-diese-menschen-nicht-erfrieren-lassen-a-eeca3c2a-059d-4941-b6b3-f58deecfcef0#ref=rss)
-* [https://www.spiegel.de/panorama/nach-hochwasserkatastrophe-flutgeld-sorgt-fuer-geldflut](https://www.spiegel.de/panorama/nach-hochwasserkatastrophe-flutgeld-sorgt-fuer-geldflut-a-729656a6-deb9-42db-b8f2-17f5b3aeefa6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/minneapolis-minnesota-fuenfjaehriger-bei-videodreh-von-jugendlichen-erschossen](https://www.spiegel.de/panorama/justiz/minneapolis-minnesota-fuenfjaehriger-bei-videodreh-von-jugendlichen-erschossen-a-f2980996-e3c5-4bfe-80a8-f8f4a10c9ed3#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/wissenschaft/stadt-hamburg-vergisst-die-eroeffnung-eines-impfzentrums](https://www.spiegel.de/wissenschaft/stadt-hamburg-vergisst-die-eroeffnung-eines-impfzentrums-a-7d47fa2d-6ac9-4ac9-bdd4-9497d6ec5a2b#ref=rss)
-* [https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen](https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen-a-bb0b79a6-d4ab-40ec-8f23-4f67c82a7f62#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wissenschaft/stadt-hamburg-vergisst-die-eroeffnung-eines-impfzentrums](https://www.spiegel.de/wissenschaft/stadt-hamburg-vergisst-die-eroeffnung-eines-impfzentrums-a-7d47fa2d-6ac9-4ac9-bdd4-9497d6ec5a2b#ref=rss)
-* [https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam](https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam-a-a4aa6e2e-4036-4e2a-abd8-445f3d898e66#ref=rss)
-* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam](https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam-a-a4aa6e2e-4036-4e2a-abd8-445f3d898e66#ref=rss)
-* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kritik-der-lehrer-kaum-neue-luftfilter-in-klassenraeumen](https://www.spiegel.de/politik/deutschland/kritik-der-lehrer-kaum-neue-luftfilter-in-klassenraeumen-a-ef71aa1b-a4b3-4661-9d5b-68ec7a316bb6#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam](https://www.spiegel.de/panorama/corona-variante-omikron-in-holland-verstoerende-szenen-in-amsterdam-a-a4aa6e2e-4036-4e2a-abd8-445f3d898e66#ref=rss)
-* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr](https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr-a-a08f0de7-8a32-4b48-8479-75c5f8bebc20#ref=rss)
-### corona
-
-* [https://www.spiegel.de/politik/deutschland/kritik-der-lehrer-kaum-neue-luftfilter-in-klassenraeumen](https://www.spiegel.de/politik/deutschland/kritik-der-lehrer-kaum-neue-luftfilter-in-klassenraeumen-a-ef71aa1b-a4b3-4661-9d5b-68ec7a316bb6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an](https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an-a-bb904c03-972f-4823-8261-25105c0a9813#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/debatte-um-impf-booster-weltaerzte-chef-montgomery-fordert-befristung-des-impfstatus](https://www.spiegel.de/panorama/debatte-um-impf-booster-weltaerzte-chef-montgomery-fordert-befristung-des-impfstatus-a-54b48a13-811e-49f2-ac6e-3ab83adc3100#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter-a-ebbda1a6-f289-4ca4-9a70-69d6618a8567#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer-a-c717518b-133b-45b3-8a82-ee642e58c7b3#ref=rss)
-### kliniken
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an](https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an-a-bb904c03-972f-4823-8261-25105c0a9813#ref=rss)
-### impfpflicht
-
-* [https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an](https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an-a-bb904c03-972f-4823-8261-25105c0a9813#ref=rss)
-### spenden
-
-* [https://www.spiegel.de/panorama/justiz/unschuldig-verurteilter-erhaelt-mehr-als-eine-million-dollar-spenden](https://www.spiegel.de/panorama/justiz/unschuldig-verurteilter-erhaelt-mehr-als-eine-million-dollar-spenden-a-f02bde37-fe05-40c8-a992-835f24d5ea00#ref=rss)
-### portugal
-
-* [https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen](https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen-a-963e10ef-5881-4818-9fa0-fc1eda560067#ref=rss)
-### spieler
-
-* [https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen](https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen-a-963e10ef-5881-4818-9fa0-fc1eda560067#ref=rss)
-### drei
-
-* [https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen](https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen-a-963e10ef-5881-4818-9fa0-fc1eda560067#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
-### partie
-
-* [https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen](https://www.spiegel.de/sport/fussball/corona-eklat-in-portugal-nur-noch-sechs-spieler-ligapartie-in-portugal-abgebrochen-a-963e10ef-5881-4818-9fa0-fc1eda560067#ref=rss)
-* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
-### fälle
-
-* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr](https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr-a-a08f0de7-8a32-4b48-8479-75c5f8bebc20#ref=rss)
-### nachgewiesen
-
-* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter](https://www.spiegel.de/wissenschaft/medizin/omikron-in-deutschland-corona-virusvariante-in-bayern-nachgewiesen-wie-geht-es-weiter-a-ebbda1a6-f289-4ca4-9a70-69d6618a8567#ref=rss)
-### südafrika
-
-* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr](https://www.spiegel.de/wissenschaft/corona-virus-variante-b-1-1-529-omikron-patienten-in-suedafrika-bislang-nicht-in-lebensgefahr-a-a08f0de7-8a32-4b48-8479-75c5f8bebc20#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron](https://www.spiegel.de/panorama/neue-corona-variante-b-1-1-529-die-welt-sucht-omikron-a-04e07977-ac89-4086-8838-a3dec9b8898c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
-### start
-
-* [https://www.spiegel.de/sport/wintersport/skilanglauf-in-finnland-start-der-langlaeuferinnen-in-ruka-verschoben-zu-kalt](https://www.spiegel.de/sport/wintersport/skilanglauf-in-finnland-start-der-langlaeuferinnen-in-ruka-verschoben-zu-kalt-a-4ae82805-f5e6-443e-87b9-46d0e86b5574#ref=rss)
-### langläuferinnen
-
-* [https://www.spiegel.de/sport/wintersport/skilanglauf-in-finnland-start-der-langlaeuferinnen-in-ruka-verschoben-zu-kalt](https://www.spiegel.de/sport/wintersport/skilanglauf-in-finnland-start-der-langlaeuferinnen-in-ruka-verschoben-zu-kalt-a-4ae82805-f5e6-443e-87b9-46d0e86b5574#ref=rss)
-### verschieben
-
-* [https://www.spiegel.de/sport/wintersport/skilanglauf-in-finnland-start-der-langlaeuferinnen-in-ruka-verschoben-zu-kalt](https://www.spiegel.de/sport/wintersport/skilanglauf-in-finnland-start-der-langlaeuferinnen-in-ruka-verschoben-zu-kalt-a-4ae82805-f5e6-443e-87b9-46d0e86b5574#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
-### rente
-
-* [https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus](https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus-a-374b61d6-68c5-4401-8a13-78e490d7c739#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
-### nächsten
-
-* [https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus](https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus-a-374b61d6-68c5-4401-8a13-78e490d7c739#ref=rss)
-* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
-### steigen
-
-* [https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus](https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus-a-374b61d6-68c5-4401-8a13-78e490d7c739#ref=rss)
-* [https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf](https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf-a-80beb8c9-cb12-4411-9a3b-53811bb5e8d1#ref=rss)
-### ampelkoalition
-
-* [https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus](https://www.spiegel.de/wirtschaft/soziales/0-8-prozent-weniger-rentenerhoehung-faellt-deutlich-geringer-aus-a-374b61d6-68c5-4401-8a13-78e490d7c739#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
-### weihnachtsmärkte
-
-* [https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen](https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen-a-73bdb70e-b2e5-4ad2-a6dc-4bcded52e8e9#ref=rss)
-### schausteller
-
-* [https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen](https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen-a-73bdb70e-b2e5-4ad2-a6dc-4bcded52e8e9#ref=rss)
-### gäste
-
-* [https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen](https://www.spiegel.de/wirtschaft/abgesagte-weihnachtsmaerkte-schausteller-fordern-neue-staatshilfen-a-73bdb70e-b2e5-4ad2-a6dc-4bcded52e8e9#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften](https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften-a-e9b1d199-6802-4487-ae2a-ffec900a5c37#ref=rss)
-### außenministerin
-
-* [https://www.spiegel.de/ausland/estland-aussenministerin-ueber-belarus-krise-wir-koennen-diese-menschen-nicht-erfrieren-lassen](https://www.spiegel.de/ausland/estland-aussenministerin-ueber-belarus-krise-wir-koennen-diese-menschen-nicht-erfrieren-lassen-a-eeca3c2a-059d-4941-b6b3-f58deecfcef0#ref=rss)
-### wir
-
-* [https://www.spiegel.de/ausland/estland-aussenministerin-ueber-belarus-krise-wir-koennen-diese-menschen-nicht-erfrieren-lassen](https://www.spiegel.de/ausland/estland-aussenministerin-ueber-belarus-krise-wir-koennen-diese-menschen-nicht-erfrieren-lassen-a-eeca3c2a-059d-4941-b6b3-f58deecfcef0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften](https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften-a-e9b1d199-6802-4487-ae2a-ffec900a5c37#ref=rss)
-* [https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst](https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst-a-f0f19669-f05c-45b7-9150-a35c2eab9451#ref=rss)
-### schnelltests
-
-* [https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften](https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften-a-e9b1d199-6802-4487-ae2a-ffec900a5c37#ref=rss)
-### geimpften
-
-* [https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften](https://www.spiegel.de/gesundheit/diagnose/coronavirus-und-2g-plus-was-bringen-schnelltests-bei-geimpften-a-e9b1d199-6802-4487-ae2a-ffec900a5c37#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/panorama/nach-hochwasserkatastrophe-flutgeld-sorgt-fuer-geldflut](https://www.spiegel.de/panorama/nach-hochwasserkatastrophe-flutgeld-sorgt-fuer-geldflut-a-729656a6-deb9-42db-b8f2-17f5b3aeefa6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer-a-c717518b-133b-45b3-8a82-ee642e58c7b3#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen](https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen-a-bb0b79a6-d4ab-40ec-8f23-4f67c82a7f62#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen](https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen-a-bb0b79a6-d4ab-40ec-8f23-4f67c82a7f62#ref=rss)
-### wolkenkratzer
-
-* [https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen](https://www.spiegel.de/reise/staedte/elbtower-in-hamburg-estrel-tower-in-berlin-taugen-deutschlands-neue-wolkenkratzer-zu-wahrzeichen-a-bb0b79a6-d4ab-40ec-8f23-4f67c82a7f62#ref=rss)
-### grüne
-
-* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer-a-c717518b-133b-45b3-8a82-ee642e58c7b3#ref=rss)
-### koalitionsvertrag
-
-* [https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen](https://www.spiegel.de/politik/deutschland/jugendrat-der-generationen-stiftung-der-koalitionsvertrag-ist-ein-verrat-an-jungen-menschen-a-34492ca0-9a9c-4573-a29b-335d8dc8f975#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer-a-c717518b-133b-45b3-8a82-ee642e58c7b3#ref=rss)
-### frankwalter
-
-* [https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf](https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf-a-80beb8c9-cb12-4411-9a3b-53811bb5e8d1#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf](https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf-a-80beb8c9-cb12-4411-9a3b-53811bb5e8d1#ref=rss)
-### ruft
-
-* [https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf](https://www.spiegel.de/wirtschaft/um-lockdown-zuvorzukommen-bundespraesident-ruft-buerger-zu-kontaktbeschraenkungen-auf-a-80beb8c9-cb12-4411-9a3b-53811bb5e8d1#ref=rss)
-### sonntag
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
-* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
-* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren](https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren-a-1a68f26a-7ae0-44f4-885c-3569ac1ef281#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel](https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel-a-7d0a48b2-9ece-469d-8029-3a36a0ebbe3f#ref=rss)
+* [https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle](https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle-a-924ed139-7043-478f-ae59-18b9117a012b#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand](https://www.spiegel.de/wissenschaft/medizin/coronavirus-news-am-sonntag-sieben-tage-inzidenz-mit-446-7-auf-neuem-hoechststand-a-56cf286c-2268-44fc-8b6f-0ca482fc66a7#ref=rss)
-* [https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst](https://www.spiegel.de/ausland/omikron-warum-die-neue-corona-variante-nicht-xi-heisst-a-f0f19669-f05c-45b7-9150-a35c2eab9451#ref=rss)
-### erst
+* [https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche](https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche-a-85816a50-1b19-447b-999c-6cc39b9f0800#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin-a-7eeebea2-1948-4de4-bb1f-5a0a85794b88#ref=rss)
+* [https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot](https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot-a-cd9e11c1-b1c5-406c-8425-f144db00bb66#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern](https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern-a-ac8f8688-985d-49bf-af80-21ca1fca1ed5#ref=rss)
+### fc
 
-* [https://www.spiegel.de/auto/fahrkultur/pininfarina-x-die-bombe-von-turin](https://www.spiegel.de/auto/fahrkultur/pininfarina-x-die-bombe-von-turin-a-f2dc7320-6aa2-4d13-9a09-a7542dc3b63a#ref=rss)
-* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
-### bahn
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum-a-7abbe949-0b55-4830-9f13-c42b5b80a92a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel](https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel-a-7d0a48b2-9ece-469d-8029-3a36a0ebbe3f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vorstand-und-fans-streiten-beim-fc-bayern-es-ist-sehr-viel-kaputtgegangen](https://www.spiegel.de/sport/fussball/vorstand-und-fans-streiten-beim-fc-bayern-es-ist-sehr-viel-kaputtgegangen-a-522e6e15-3baf-41ea-9036-98b0fbedc386#ref=rss)
+### söder
 
-* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
-### 40
+* [https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren](https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren-a-1a68f26a-7ae0-44f4-885c-3569ac1ef281#ref=rss)
+* [https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle](https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle-a-924ed139-7043-478f-ae59-18b9117a012b#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise](https://www.spiegel.de/reise/deutschland/3g-pflicht-bei-der-deutschen-bahn-bislang-80-000-kontrollen-und-40-zug-verweise-a-e7569009-af5e-427a-a250-70ea8b77ce8b#ref=rss)
-### heil
+* [https://www.spiegel.de/politik/deutschland/land-berlin-spd-gruene-und-linke-einigen-sich-auf-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/land-berlin-spd-gruene-und-linke-einigen-sich-auf-koalitionsvertrag-a-e92fa9e7-5e46-4334-a28f-68f957d177a1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin-a-7eeebea2-1948-4de4-bb1f-5a0a85794b88#ref=rss)
+### leben
 
-* [https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an](https://www.spiegel.de/politik/deutschland/hubertus-heil-kuendigt-impfpflicht-fuer-kliniken-und-heime-noch-vor-weihnachten-an-a-bb904c03-972f-4823-8261-25105c0a9813#ref=rss)
-### usa
+* [https://www.spiegel.de/kultur/der-schoenste-nachruf-der-welt-was-ein-gelungenes-leben-ausmacht-schoener-schreiben-die-deutschkolumne](https://www.spiegel.de/kultur/der-schoenste-nachruf-der-welt-was-ein-gelungenes-leben-ausmacht-schoener-schreiben-die-deutschkolumne-a-86caf100-70c8-45cd-a0ba-fa56606a6ee8#ref=rss)
+* [https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot](https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot-a-cd9e11c1-b1c5-406c-8425-f144db00bb66#ref=rss)
+### kopf
 
-* [https://www.spiegel.de/panorama/justiz/minneapolis-minnesota-fuenfjaehriger-bei-videodreh-von-jugendlichen-erschossen](https://www.spiegel.de/panorama/justiz/minneapolis-minnesota-fuenfjaehriger-bei-videodreh-von-jugendlichen-erschossen-a-f2980996-e3c5-4bfe-80a8-f8f4a10c9ed3#ref=rss)
-### werder
+* [https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche](https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche-a-85816a50-1b19-447b-999c-6cc39b9f0800#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg](https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg-a-8922d5bb-aaa9-43c4-a0a3-35688d8906d1#ref=rss)
+### woche
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel-a-8be7fa7a-d51d-41fb-86dc-47e3b9b23565#ref=rss)
-### bremen
+* [https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche](https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche-a-85816a50-1b19-447b-999c-6cc39b9f0800#ref=rss)
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-verschlumpft-und-zugenaeht](https://www.spiegel.de/panorama/die-bilder-der-woche-verschlumpft-und-zugenaeht-a-c21dc2e2-a6a2-4c73-bdc5-fb3c65df885a#ref=rss)
+### fußballbundesliga
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel-a-8be7fa7a-d51d-41fb-86dc-47e3b9b23565#ref=rss)
-### holstein
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum-a-7abbe949-0b55-4830-9f13-c42b5b80a92a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin-a-7eeebea2-1948-4de4-bb1f-5a0a85794b88#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch-a-8ac33891-759d-414a-8436-a791ce48e1e2#ref=rss)
+### köln
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel-a-8be7fa7a-d51d-41fb-86dc-47e3b9b23565#ref=rss)
-### kiel
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum-a-7abbe949-0b55-4830-9f13-c42b5b80a92a#ref=rss)
+### zuschauer
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-werder-bremen-verliert-bei-holstein-kiel-a-8be7fa7a-d51d-41fb-86dc-47e3b9b23565#ref=rss)
-### flughafen
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum-a-7abbe949-0b55-4830-9f13-c42b5b80a92a#ref=rss)
+* [https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle](https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle-a-924ed139-7043-478f-ae59-18b9117a012b#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tagesschau-sieben-millionen-zuschauer-sehen-pannen-start](https://www.spiegel.de/kultur/tv/tagesschau-sieben-millionen-zuschauer-sehen-pannen-start-a-ab9690da-a445-4a5d-b08c-52d4e4d3e5c8#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/panorama/gesellschaft/luebeck-polizei-beendet-unzulaessige-corona-impfaktion-am-flughafen](https://www.spiegel.de/panorama/gesellschaft/luebeck-polizei-beendet-unzulaessige-corona-impfaktion-am-flughafen-a-0005244d-bb38-4fbd-80dc-89226c898c93#ref=rss)
-### volker
+* [https://www.spiegel.de/sport/wintersport/biathlon-in-oestersund-oeberg-und-samuelsson-gewinnen-sprint-nawrath-mit-olympia-norm](https://www.spiegel.de/sport/wintersport/biathlon-in-oestersund-oeberg-und-samuelsson-gewinnen-sprint-nawrath-mit-olympia-norm-a-45328a7d-f9d7-40f3-9164-c01522ad88fe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin-a-7eeebea2-1948-4de4-bb1f-5a0a85794b88#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forscher-ueber-neue-corona-variante-trickst-omikron-die-immunabwehr-aus](https://www.spiegel.de/wissenschaft/forscher-ueber-neue-corona-variante-trickst-omikron-die-immunabwehr-aus-a-3dae4e11-5432-4fcf-8739-f024c083c851#ref=rss)
+### sieg
 
-* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer-a-c717518b-133b-45b3-8a82-ee642e58c7b3#ref=rss)
-### wissing
+* [https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg](https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg-a-8922d5bb-aaa9-43c4-a0a3-35688d8906d1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vorstand-und-fans-streiten-beim-fc-bayern-es-ist-sehr-viel-kaputtgegangen](https://www.spiegel.de/sport/fussball/vorstand-und-fans-streiten-beim-fc-bayern-es-ist-sehr-viel-kaputtgegangen-a-522e6e15-3baf-41ea-9036-98b0fbedc386#ref=rss)
+### omikron
 
-* [https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer](https://www.spiegel.de/politik/deutschland/stefan-gelbhaar-und-matthias-gastel-kritisieren-volker-wissing-fuer-angekuendigte-senkung-der-kfz-steuersteuer-a-c717518b-133b-45b3-8a82-ee642e58c7b3#ref=rss)
-### schachwm
+* [https://www.spiegel.de/wissenschaft/forscher-ueber-neue-corona-variante-trickst-omikron-die-immunabwehr-aus](https://www.spiegel.de/wissenschaft/forscher-ueber-neue-corona-variante-trickst-omikron-die-immunabwehr-aus-a-3dae4e11-5432-4fcf-8739-f024c083c851#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren](https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren-a-1a68f26a-7ae0-44f4-885c-3569ac1ef281#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
-### remis
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch-a-8ac33891-759d-414a-8436-a791ce48e1e2#ref=rss)
+* [https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle](https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle-a-924ed139-7043-478f-ae59-18b9117a012b#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tagesschau-sieben-millionen-zuschauer-sehen-pannen-start](https://www.spiegel.de/kultur/tv/tagesschau-sieben-millionen-zuschauer-sehen-pannen-start-a-ab9690da-a445-4a5d-b08c-52d4e4d3e5c8#ref=rss)
+### trainer
 
-* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch-a-8ac33891-759d-414a-8436-a791ce48e1e2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel](https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel-a-7d0a48b2-9ece-469d-8029-3a36a0ebbe3f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vorstand-und-fans-streiten-beim-fc-bayern-es-ist-sehr-viel-kaputtgegangen](https://www.spiegel.de/sport/fussball/vorstand-und-fans-streiten-beim-fc-bayern-es-ist-sehr-viel-kaputtgegangen-a-522e6e15-3baf-41ea-9036-98b0fbedc386#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel](https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel-a-7d0a48b2-9ece-469d-8029-3a36a0ebbe3f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vorstand-und-fans-streiten-beim-fc-bayern-es-ist-sehr-viel-kaputtgegangen](https://www.spiegel.de/sport/fussball/vorstand-und-fans-streiten-beim-fc-bayern-es-ist-sehr-viel-kaputtgegangen-a-522e6e15-3baf-41ea-9036-98b0fbedc386#ref=rss)
+### gucci
+
+* [https://www.spiegel.de/wirtschaft/film-house-of-gucci-lady-gaga-sorgt-fuer-ansturm-auf-gucci-taschen](https://www.spiegel.de/wirtschaft/film-house-of-gucci-lady-gaga-sorgt-fuer-ansturm-auf-gucci-taschen-a-726244da-627c-4843-97be-17c49f7101df#ref=rss)
+### land
+
+* [https://www.spiegel.de/politik/deutschland/land-berlin-spd-gruene-und-linke-einigen-sich-auf-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/land-berlin-spd-gruene-und-linke-einigen-sich-auf-koalitionsvertrag-a-e92fa9e7-5e46-4334-a28f-68f957d177a1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren](https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren-a-1a68f26a-7ae0-44f4-885c-3569ac1ef281#ref=rss)
+### koalitionsvertrag
+
+* [https://www.spiegel.de/politik/deutschland/land-berlin-spd-gruene-und-linke-einigen-sich-auf-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/land-berlin-spd-gruene-und-linke-einigen-sich-auf-koalitionsvertrag-a-e92fa9e7-5e46-4334-a28f-68f957d177a1#ref=rss)
+### größten
+
+* [https://www.spiegel.de/politik/deutschland/land-berlin-spd-gruene-und-linke-einigen-sich-auf-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/land-berlin-spd-gruene-und-linke-einigen-sich-auf-koalitionsvertrag-a-e92fa9e7-5e46-4334-a28f-68f957d177a1#ref=rss)
+* [https://www.spiegel.de/geschichte/contergan-gruenenthal-familie-bittet-opfer-um-entschuldigung](https://www.spiegel.de/geschichte/contergan-gruenenthal-familie-bittet-opfer-um-entschuldigung-a-d6ce2b88-c55f-476e-b896-59ea448d9894#ref=rss)
+### welt
+
+* [https://www.spiegel.de/kultur/der-schoenste-nachruf-der-welt-was-ein-gelungenes-leben-ausmacht-schoener-schreiben-die-deutschkolumne](https://www.spiegel.de/kultur/der-schoenste-nachruf-der-welt-was-ein-gelungenes-leben-ausmacht-schoener-schreiben-die-deutschkolumne-a-86caf100-70c8-45cd-a0ba-fa56606a6ee8#ref=rss)
+* [https://www.spiegel.de/ausland/mittelmeer-italiens-kuestenwache-rettet-neugeborenes-mit-240-menschen-aus-seenot](https://www.spiegel.de/ausland/mittelmeer-italiens-kuestenwache-rettet-neugeborenes-mit-240-menschen-aus-seenot-a-293864ec-1e1b-4fa8-b45a-d1833a5b3422#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/kultur/der-schoenste-nachruf-der-welt-was-ein-gelungenes-leben-ausmacht-schoener-schreiben-die-deutschkolumne](https://www.spiegel.de/kultur/der-schoenste-nachruf-der-welt-was-ein-gelungenes-leben-ausmacht-schoener-schreiben-die-deutschkolumne-a-86caf100-70c8-45cd-a0ba-fa56606a6ee8#ref=rss)
+* [https://www.spiegel.de/sport/steigende-corona-inzidenzen-so-will-der-dosb-den-neustart-trotz-pandemie-schaffen](https://www.spiegel.de/sport/steigende-corona-inzidenzen-so-will-der-dosb-den-neustart-trotz-pandemie-schaffen-a-dfd12914-7d83-4c67-a611-d25d82d15e1e#ref=rss)
+### ganze
+
+* [https://www.spiegel.de/kultur/der-schoenste-nachruf-der-welt-was-ein-gelungenes-leben-ausmacht-schoener-schreiben-die-deutschkolumne](https://www.spiegel.de/kultur/der-schoenste-nachruf-der-welt-was-ein-gelungenes-leben-ausmacht-schoener-schreiben-die-deutschkolumne-a-86caf100-70c8-45cd-a0ba-fa56606a6ee8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren](https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren-a-1a68f26a-7ae0-44f4-885c-3569ac1ef281#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/afd-grossspender-spritzt-nicht-zugelassenen-impfstoff](https://www.spiegel.de/panorama/afd-grossspender-spritzt-nicht-zugelassenen-impfstoff-a-b33f5bdf-6c9f-4750-9188-f923486ae937#ref=rss)
+### rätsel
+
+* [https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche](https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche-a-85816a50-1b19-447b-999c-6cc39b9f0800#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-in-der-tuerkei-der-geheimnisvolle-krater-vom-keban-damm](https://www.spiegel.de/wissenschaft/klimawandel-in-der-tuerkei-der-geheimnisvolle-krater-vom-keban-damm-a-72978ed9-1c80-4cb9-be56-d6a5cb362c9d#ref=rss)
+### münzen
+
+* [https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche](https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche-a-85816a50-1b19-447b-999c-6cc39b9f0800#ref=rss)
+### liegen
+
+* [https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche](https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche-a-85816a50-1b19-447b-999c-6cc39b9f0800#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch-a-8ac33891-759d-414a-8436-a791ce48e1e2#ref=rss)
+### kopfseite
+
+* [https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche](https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche-a-85816a50-1b19-447b-999c-6cc39b9f0800#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche](https://www.spiegel.de/karriere/kopf-oder-zahl-raetsel-der-woche-a-85816a50-1b19-447b-999c-6cc39b9f0800#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tagesschau-sieben-millionen-zuschauer-sehen-pannen-start](https://www.spiegel.de/kultur/tv/tagesschau-sieben-millionen-zuschauer-sehen-pannen-start-a-ab9690da-a445-4a5d-b08c-52d4e4d3e5c8#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum-a-7abbe949-0b55-4830-9f13-c42b5b80a92a#ref=rss)
+* [https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot](https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot-a-cd9e11c1-b1c5-406c-8425-f144db00bb66#ref=rss)
+### coronamasken
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum-a-7abbe949-0b55-4830-9f13-c42b5b80a92a#ref=rss)
+### mitten
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum-a-7abbe949-0b55-4830-9f13-c42b5b80a92a#ref=rss)
+* [https://www.spiegel.de/sport/steigende-corona-inzidenzen-so-will-der-dosb-den-neustart-trotz-pandemie-schaffen](https://www.spiegel.de/sport/steigende-corona-inzidenzen-so-will-der-dosb-den-neustart-trotz-pandemie-schaffen-a-dfd12914-7d83-4c67-a611-d25d82d15e1e#ref=rss)
+### vierten
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum-a-7abbe949-0b55-4830-9f13-c42b5b80a92a#ref=rss)
+* [https://www.spiegel.de/sport/steigende-corona-inzidenzen-so-will-der-dosb-den-neustart-trotz-pandemie-schaffen](https://www.spiegel.de/sport/steigende-corona-inzidenzen-so-will-der-dosb-den-neustart-trotz-pandemie-schaffen-a-dfd12914-7d83-4c67-a611-d25d82d15e1e#ref=rss)
+### welle
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum](https://www.spiegel.de/sport/fussball/fussball-bundesliga-1-fc-koeln-drohen-bussgelder-wegen-fehlender-corona-masken-im-publikum-a-7abbe949-0b55-4830-9f13-c42b5b80a92a#ref=rss)
+* [https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle](https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle-a-924ed139-7043-478f-ae59-18b9117a012b#ref=rss)
+### anfang
+
+* [https://www.spiegel.de/sport/steigende-corona-inzidenzen-so-will-der-dosb-den-neustart-trotz-pandemie-schaffen](https://www.spiegel.de/sport/steigende-corona-inzidenzen-so-will-der-dosb-den-neustart-trotz-pandemie-schaffen-a-dfd12914-7d83-4c67-a611-d25d82d15e1e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel](https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel-a-7d0a48b2-9ece-469d-8029-3a36a0ebbe3f#ref=rss)
+### neue
+
+* [https://www.spiegel.de/sport/steigende-corona-inzidenzen-so-will-der-dosb-den-neustart-trotz-pandemie-schaffen](https://www.spiegel.de/sport/steigende-corona-inzidenzen-so-will-der-dosb-den-neustart-trotz-pandemie-schaffen-a-dfd12914-7d83-4c67-a611-d25d82d15e1e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forscher-ueber-neue-corona-variante-trickst-omikron-die-immunabwehr-aus](https://www.spiegel.de/wissenschaft/forscher-ueber-neue-corona-variante-trickst-omikron-die-immunabwehr-aus-a-3dae4e11-5432-4fcf-8739-f024c083c851#ref=rss)
+### west
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich](https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich-a-6b7fb57c-b0e8-4434-8afa-21385fd206fe#ref=rss)
+### ham
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich](https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich-a-6b7fb57c-b0e8-4434-8afa-21385fd206fe#ref=rss)
+### united
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich](https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich-a-6b7fb57c-b0e8-4434-8afa-21385fd206fe#ref=rss)
+### carlton
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich](https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich-a-6b7fb57c-b0e8-4434-8afa-21385fd206fe#ref=rss)
+### cole
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich](https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich-a-6b7fb57c-b0e8-4434-8afa-21385fd206fe#ref=rss)
+### entschuldigt
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich](https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich-a-6b7fb57c-b0e8-4434-8afa-21385fd206fe#ref=rss)
+### seines
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich](https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich-a-6b7fb57c-b0e8-4434-8afa-21385fd206fe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-sergio-ramos-debuetiert-bei-3-1-gegen-st-etienne-neymar-verletzt](https://www.spiegel.de/sport/fussball/paris-saint-germain-sergio-ramos-debuetiert-bei-3-1-gegen-st-etienne-neymar-verletzt-a-f822046c-4504-47e4-ae39-5946b7b37cfd#ref=rss)
+### frühere
+
+* [https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich](https://www.spiegel.de/sport/fussball/manchester-city-vs-west-ham-united-carlton-cole-entschuldigt-sich-fuer-holocaust-vergleich-a-6b7fb57c-b0e8-4434-8afa-21385fd206fe#ref=rss)
+* [https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot](https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot-a-cd9e11c1-b1c5-406c-8425-f144db00bb66#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-in-der-tuerkei-der-geheimnisvolle-krater-vom-keban-damm](https://www.spiegel.de/wissenschaft/klimawandel-in-der-tuerkei-der-geheimnisvolle-krater-vom-keban-damm-a-72978ed9-1c80-4cb9-be56-d6a5cb362c9d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-sergio-ramos-debuetiert-bei-3-1-gegen-st-etienne-neymar-verletzt](https://www.spiegel.de/sport/fussball/paris-saint-germain-sergio-ramos-debuetiert-bei-3-1-gegen-st-etienne-neymar-verletzt-a-f822046c-4504-47e4-ae39-5946b7b37cfd#ref=rss)
+### contergan
+
+* [https://www.spiegel.de/geschichte/contergan-gruenenthal-familie-bittet-opfer-um-entschuldigung](https://www.spiegel.de/geschichte/contergan-gruenenthal-familie-bittet-opfer-um-entschuldigung-a-d6ce2b88-c55f-476e-b896-59ea448d9894#ref=rss)
+### öberg
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-in-oestersund-oeberg-und-samuelsson-gewinnen-sprint-nawrath-mit-olympia-norm](https://www.spiegel.de/sport/wintersport/biathlon-in-oestersund-oeberg-und-samuelsson-gewinnen-sprint-nawrath-mit-olympia-norm-a-45328a7d-f9d7-40f3-9164-c01522ad88fe#ref=rss)
+### samuelsson
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-in-oestersund-oeberg-und-samuelsson-gewinnen-sprint-nawrath-mit-olympia-norm](https://www.spiegel.de/sport/wintersport/biathlon-in-oestersund-oeberg-und-samuelsson-gewinnen-sprint-nawrath-mit-olympia-norm-a-45328a7d-f9d7-40f3-9164-c01522ad88fe#ref=rss)
+### gewinnen
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-in-oestersund-oeberg-und-samuelsson-gewinnen-sprint-nawrath-mit-olympia-norm](https://www.spiegel.de/sport/wintersport/biathlon-in-oestersund-oeberg-und-samuelsson-gewinnen-sprint-nawrath-mit-olympia-norm-a-45328a7d-f9d7-40f3-9164-c01522ad88fe#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-in-oestersund-oeberg-und-samuelsson-gewinnen-sprint-nawrath-mit-olympia-norm](https://www.spiegel.de/sport/wintersport/biathlon-in-oestersund-oeberg-und-samuelsson-gewinnen-sprint-nawrath-mit-olympia-norm-a-45328a7d-f9d7-40f3-9164-c01522ad88fe#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nordische-kombination-saisonstart-nach-mass-fuer-terence-weber-und-das-dsv-team](https://www.spiegel.de/sport/wintersport/nordische-kombination-saisonstart-nach-mass-fuer-terence-weber-und-das-dsv-team-a-f38d7741-bd5e-4e3d-8419-a6f8152198fc#ref=rss)
+### drei
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-in-oestersund-oeberg-und-samuelsson-gewinnen-sprint-nawrath-mit-olympia-norm](https://www.spiegel.de/sport/wintersport/biathlon-in-oestersund-oeberg-und-samuelsson-gewinnen-sprint-nawrath-mit-olympia-norm-a-45328a7d-f9d7-40f3-9164-c01522ad88fe#ref=rss)
+* [https://www.spiegel.de/ausland/mittelmeer-italiens-kuestenwache-rettet-neugeborenes-mit-240-menschen-aus-seenot](https://www.spiegel.de/ausland/mittelmeer-italiens-kuestenwache-rettet-neugeborenes-mit-240-menschen-aus-seenot-a-293864ec-1e1b-4fa8-b45a-d1833a5b3422#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-masken-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-masken-im-schnellcheck-a-9d1456d8-0c39-4637-8b71-b4ce913acaae#ref=rss)
+### masken
+
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-masken-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-masken-im-schnellcheck-a-9d1456d8-0c39-4637-8b71-b4ce913acaae#ref=rss)
+* [https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle](https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle-a-924ed139-7043-478f-ae59-18b9117a012b#ref=rss)
+### eintracht
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin-a-7eeebea2-1948-4de4-bb1f-5a0a85794b88#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin-a-7eeebea2-1948-4de4-bb1f-5a0a85794b88#ref=rss)
+### punkte
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-eintracht-frankfurt-mit-last-minute-sieg-gegen-union-berlin-a-7eeebea2-1948-4de4-bb1f-5a0a85794b88#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch-a-8ac33891-759d-414a-8436-a791ce48e1e2#ref=rss)
 ### magnus
 
-* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
+* [https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg](https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg-a-8922d5bb-aaa9-43c4-a0a3-35688d8906d1#ref=rss)
 ### carlsen
 
-* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
-### jan
+* [https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg](https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg-a-8922d5bb-aaa9-43c4-a0a3-35688d8906d1#ref=rss)
+### verpasst
 
-* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
-### nepomnjaschtschi
+* [https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg](https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg-a-8922d5bb-aaa9-43c4-a0a3-35688d8906d1#ref=rss)
+### dritten
 
-* [https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi](https://www.spiegel.de/sport/schach-wm-erneut-remis-zwischen-magnus-carlsen-und-jan-nepomnjaschtschi-a-20058ae9-4ceb-49b3-ba94-43c95f4250a2#ref=rss)
-### andreas
+* [https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg](https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg-a-8922d5bb-aaa9-43c4-a0a3-35688d8906d1#ref=rss)
+### duell
 
-* [https://www.spiegel.de/geschichte/befreiung-von-andreas-baader-1970-der-beginn-der-raf-gewalt-podcast](https://www.spiegel.de/geschichte/befreiung-von-andreas-baader-1970-der-beginn-der-raf-gewalt-podcast-a-2781a328-58a8-4121-a6c0-b5fa5272fd89#ref=rss)
-### baader
+* [https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg](https://www.spiegel.de/sport/schach-wm-magnus-carlsen-verpasst-auch-im-dritten-duell-den-sieg-a-8922d5bb-aaa9-43c4-a0a3-35688d8906d1#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/geschichte/befreiung-von-andreas-baader-1970-der-beginn-der-raf-gewalt-podcast](https://www.spiegel.de/geschichte/befreiung-von-andreas-baader-1970-der-beginn-der-raf-gewalt-podcast-a-2781a328-58a8-4121-a6c0-b5fa5272fd89#ref=rss)
-### 1970
+* [https://www.spiegel.de/wissenschaft/forscher-ueber-neue-corona-variante-trickst-omikron-die-immunabwehr-aus](https://www.spiegel.de/wissenschaft/forscher-ueber-neue-corona-variante-trickst-omikron-die-immunabwehr-aus-a-3dae4e11-5432-4fcf-8739-f024c083c851#ref=rss)
+* [https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle](https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle-a-924ed139-7043-478f-ae59-18b9117a012b#ref=rss)
+### omikronfälle
 
-* [https://www.spiegel.de/geschichte/befreiung-von-andreas-baader-1970-der-beginn-der-raf-gewalt-podcast](https://www.spiegel.de/geschichte/befreiung-von-andreas-baader-1970-der-beginn-der-raf-gewalt-podcast-a-2781a328-58a8-4121-a6c0-b5fa5272fd89#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forscher-ueber-neue-corona-variante-trickst-omikron-die-immunabwehr-aus](https://www.spiegel.de/wissenschaft/forscher-ueber-neue-corona-variante-trickst-omikron-die-immunabwehr-aus-a-3dae4e11-5432-4fcf-8739-f024c083c851#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern](https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern-a-ac8f8688-985d-49bf-af80-21ca1fca1ed5#ref=rss)
+### maß
+
+* [https://www.spiegel.de/sport/wintersport/nordische-kombination-saisonstart-nach-mass-fuer-terence-weber-und-das-dsv-team](https://www.spiegel.de/sport/wintersport/nordische-kombination-saisonstart-nach-mass-fuer-terence-weber-und-das-dsv-team-a-f38d7741-bd5e-4e3d-8419-a6f8152198fc#ref=rss)
+### terence
+
+* [https://www.spiegel.de/sport/wintersport/nordische-kombination-saisonstart-nach-mass-fuer-terence-weber-und-das-dsv-team](https://www.spiegel.de/sport/wintersport/nordische-kombination-saisonstart-nach-mass-fuer-terence-weber-und-das-dsv-team-a-f38d7741-bd5e-4e3d-8419-a6f8152198fc#ref=rss)
+### weber
+
+* [https://www.spiegel.de/sport/wintersport/nordische-kombination-saisonstart-nach-mass-fuer-terence-weber-und-das-dsv-team](https://www.spiegel.de/sport/wintersport/nordische-kombination-saisonstart-nach-mass-fuer-terence-weber-und-das-dsv-team-a-f38d7741-bd5e-4e3d-8419-a6f8152198fc#ref=rss)
+### 240
+
+* [https://www.spiegel.de/ausland/mittelmeer-italiens-kuestenwache-rettet-neugeborenes-mit-240-menschen-aus-seenot](https://www.spiegel.de/ausland/mittelmeer-italiens-kuestenwache-rettet-neugeborenes-mit-240-menschen-aus-seenot-a-293864ec-1e1b-4fa8-b45a-d1833a5b3422#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/mittelmeer-italiens-kuestenwache-rettet-neugeborenes-mit-240-menschen-aus-seenot](https://www.spiegel.de/ausland/mittelmeer-italiens-kuestenwache-rettet-neugeborenes-mit-240-menschen-aus-seenot-a-293864ec-1e1b-4fa8-b45a-d1833a5b3422#ref=rss)
+### gekommen
+
+* [https://www.spiegel.de/ausland/mittelmeer-italiens-kuestenwache-rettet-neugeborenes-mit-240-menschen-aus-seenot](https://www.spiegel.de/ausland/mittelmeer-italiens-kuestenwache-rettet-neugeborenes-mit-240-menschen-aus-seenot-a-293864ec-1e1b-4fa8-b45a-d1833a5b3422#ref=rss)
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-sergio-ramos-debuetiert-bei-3-1-gegen-st-etienne-neymar-verletzt](https://www.spiegel.de/sport/fussball/paris-saint-germain-sergio-ramos-debuetiert-bei-3-1-gegen-st-etienne-neymar-verletzt-a-f822046c-4504-47e4-ae39-5946b7b37cfd#ref=rss)
+### waren
+
+* [https://www.spiegel.de/ausland/mittelmeer-italiens-kuestenwache-rettet-neugeborenes-mit-240-menschen-aus-seenot](https://www.spiegel.de/ausland/mittelmeer-italiens-kuestenwache-rettet-neugeborenes-mit-240-menschen-aus-seenot-a-293864ec-1e1b-4fa8-b45a-d1833a5b3422#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern](https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern-a-ac8f8688-985d-49bf-af80-21ca1fca1ed5#ref=rss)
+### coronavirus
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren](https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren-a-1a68f26a-7ae0-44f4-885c-3569ac1ef281#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern](https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern-a-ac8f8688-985d-49bf-af80-21ca1fca1ed5#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren](https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren-a-1a68f26a-7ae0-44f4-885c-3569ac1ef281#ref=rss)
+* [https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle](https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle-a-924ed139-7043-478f-ae59-18b9117a012b#ref=rss)
+### stark
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren](https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren-a-1a68f26a-7ae0-44f4-885c-3569ac1ef281#ref=rss)
+* [https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle](https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle-a-924ed139-7043-478f-ae59-18b9117a012b#ref=rss)
+### betroffene
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren](https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren-a-1a68f26a-7ae0-44f4-885c-3569ac1ef281#ref=rss)
+* [https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle](https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle-a-924ed139-7043-478f-ae59-18b9117a012b#ref=rss)
+### regionen
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren](https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren-a-1a68f26a-7ae0-44f4-885c-3569ac1ef281#ref=rss)
+* [https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle](https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle-a-924ed139-7043-478f-ae59-18b9117a012b#ref=rss)
+### ministerpräsident
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren](https://www.spiegel.de/politik/deutschland/coronavirus-und-omikron-markus-soeder-will-das-ganze-land-leider-noch-staerker-herunterfahren-a-1a68f26a-7ae0-44f4-885c-3569ac1ef281#ref=rss)
+* [https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle](https://www.spiegel.de/politik/nach-omikron-ausbruch-markus-soeder-fordert-haertere-massnahmen-gegen-vierte-welle-a-924ed139-7043-478f-ae59-18b9117a012b#ref=rss)
+### st
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch-a-8ac33891-759d-414a-8436-a791ce48e1e2#ref=rss)
+### pauli
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-st-pauli-bleibt-spitzenreiter-hamburger-sv-auf-dem-vormarsch-a-8ac33891-759d-414a-8436-a791ce48e1e2#ref=rss)
+### frank
+
+* [https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot](https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot-a-cd9e11c1-b1c5-406c-8425-f144db00bb66#ref=rss)
+### williams
+
+* [https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot](https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot-a-cd9e11c1-b1c5-406c-8425-f144db00bb66#ref=rss)
+### darunter
+
+* [https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot](https://www.spiegel.de/sport/formel1/legendaerer-formel-1-teamchef-frank-williams-ist-tot-a-cd9e11c1-b1c5-406c-8425-f144db00bb66#ref=rss)
+* [https://www.spiegel.de/ausland/territorialstreit-chinesische-flugzeuge-dringen-in-taiwans-luftverteidigungszone-ein](https://www.spiegel.de/ausland/territorialstreit-chinesische-flugzeuge-dringen-in-taiwans-luftverteidigungszone-ein-a-ce309239-6436-408f-b909-b15dc8c361f4#ref=rss)
+### paris
+
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-sergio-ramos-debuetiert-bei-3-1-gegen-st-etienne-neymar-verletzt](https://www.spiegel.de/sport/fussball/paris-saint-germain-sergio-ramos-debuetiert-bei-3-1-gegen-st-etienne-neymar-verletzt-a-f822046c-4504-47e4-ae39-5946b7b37cfd#ref=rss)
+### sergio
+
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-sergio-ramos-debuetiert-bei-3-1-gegen-st-etienne-neymar-verletzt](https://www.spiegel.de/sport/fussball/paris-saint-germain-sergio-ramos-debuetiert-bei-3-1-gegen-st-etienne-neymar-verletzt-a-f822046c-4504-47e4-ae39-5946b7b37cfd#ref=rss)
+### ramos
+
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-sergio-ramos-debuetiert-bei-3-1-gegen-st-etienne-neymar-verletzt](https://www.spiegel.de/sport/fussball/paris-saint-germain-sergio-ramos-debuetiert-bei-3-1-gegen-st-etienne-neymar-verletzt-a-f822046c-4504-47e4-ae39-5946b7b37cfd#ref=rss)
+### ole
+
+* [https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel](https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel-a-7d0a48b2-9ece-469d-8029-3a36a0ebbe3f#ref=rss)
+### werner
+
+* [https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel](https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel-a-7d0a48b2-9ece-469d-8029-3a36a0ebbe3f#ref=rss)
+### werder
+
+* [https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel](https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel-a-7d0a48b2-9ece-469d-8029-3a36a0ebbe3f#ref=rss)
+### kiel
+
+* [https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel](https://www.spiegel.de/sport/fussball/ole-werner-werder-bremen-verpflichtet-ex-trainer-von-holstein-kiel-a-7d0a48b2-9ece-469d-8029-3a36a0ebbe3f#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/territorialstreit-chinesische-flugzeuge-dringen-in-taiwans-luftverteidigungszone-ein](https://www.spiegel.de/ausland/territorialstreit-chinesische-flugzeuge-dringen-in-taiwans-luftverteidigungszone-ein-a-ce309239-6436-408f-b909-b15dc8c361f4#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/ausland/territorialstreit-chinesische-flugzeuge-dringen-in-taiwans-luftverteidigungszone-ein](https://www.spiegel.de/ausland/territorialstreit-chinesische-flugzeuge-dringen-in-taiwans-luftverteidigungszone-ein-a-ce309239-6436-408f-b909-b15dc8c361f4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern](https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern-a-ac8f8688-985d-49bf-af80-21ca1fca1ed5#ref=rss)
+### maschinen
+
+* [https://www.spiegel.de/ausland/territorialstreit-chinesische-flugzeuge-dringen-in-taiwans-luftverteidigungszone-ein](https://www.spiegel.de/ausland/territorialstreit-chinesische-flugzeuge-dringen-in-taiwans-luftverteidigungszone-ein-a-ce309239-6436-408f-b909-b15dc8c361f4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern](https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern-a-ac8f8688-985d-49bf-af80-21ca1fca1ed5#ref=rss)
+### film
+
+* [https://www.spiegel.de/wirtschaft/film-house-of-gucci-lady-gaga-sorgt-fuer-ansturm-auf-gucci-taschen](https://www.spiegel.de/wirtschaft/film-house-of-gucci-lady-gaga-sorgt-fuer-ansturm-auf-gucci-taschen-a-726244da-627c-4843-97be-17c49f7101df#ref=rss)
+### house
+
+* [https://www.spiegel.de/wirtschaft/film-house-of-gucci-lady-gaga-sorgt-fuer-ansturm-auf-gucci-taschen](https://www.spiegel.de/wirtschaft/film-house-of-gucci-lady-gaga-sorgt-fuer-ansturm-auf-gucci-taschen-a-726244da-627c-4843-97be-17c49f7101df#ref=rss)
+### of
+
+* [https://www.spiegel.de/wirtschaft/film-house-of-gucci-lady-gaga-sorgt-fuer-ansturm-auf-gucci-taschen](https://www.spiegel.de/wirtschaft/film-house-of-gucci-lady-gaga-sorgt-fuer-ansturm-auf-gucci-taschen-a-726244da-627c-4843-97be-17c49f7101df#ref=rss)
+### lady
+
+* [https://www.spiegel.de/wirtschaft/film-house-of-gucci-lady-gaga-sorgt-fuer-ansturm-auf-gucci-taschen](https://www.spiegel.de/wirtschaft/film-house-of-gucci-lady-gaga-sorgt-fuer-ansturm-auf-gucci-taschen-a-726244da-627c-4843-97be-17c49f7101df#ref=rss)
+### gaga
+
+* [https://www.spiegel.de/wirtschaft/film-house-of-gucci-lady-gaga-sorgt-fuer-ansturm-auf-gucci-taschen](https://www.spiegel.de/wirtschaft/film-house-of-gucci-lady-gaga-sorgt-fuer-ansturm-auf-gucci-taschen-a-726244da-627c-4843-97be-17c49f7101df#ref=rss)
+### antarktis
+
+* [https://www.spiegel.de/auto/erste-airbus-a340-landung-in-der-antarktis](https://www.spiegel.de/auto/erste-airbus-a340-landung-in-der-antarktis-a-e445b389-2ca8-45b0-aef3-7d3779f9a6a1#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/ausland/schweiz-mehrheit-stimmt-fuer-coronagesetz](https://www.spiegel.de/ausland/schweiz-mehrheit-stimmt-fuer-coronagesetz-a-531926a6-22af-42ee-baa4-f689f68ba175#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/ausland/schweiz-mehrheit-stimmt-fuer-coronagesetz](https://www.spiegel.de/ausland/schweiz-mehrheit-stimmt-fuer-coronagesetz-a-531926a6-22af-42ee-baa4-f689f68ba175#ref=rss)
+### 13
+
+* [https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern](https://www.spiegel.de/wissenschaft/corona-virus-niederlande-melden-13-omikron-faelle-bei-suedafrika-rueckkehrern-a-ac8f8688-985d-49bf-af80-21ca1fca1ed5#ref=rss)
+### tagesschau
+
+* [https://www.spiegel.de/kultur/tv/tagesschau-sieben-millionen-zuschauer-sehen-pannen-start](https://www.spiegel.de/kultur/tv/tagesschau-sieben-millionen-zuschauer-sehen-pannen-start-a-ab9690da-a445-4a5d-b08c-52d4e4d3e5c8#ref=rss)
 
