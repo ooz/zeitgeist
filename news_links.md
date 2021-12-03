@@ -4,331 +4,231 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### usa
+### kevin
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-uber-rivale-didi-plant-rueckzug-von-new-yorker-boerse](https://www.spiegel.de/wirtschaft/unternehmen/chinas-uber-rivale-didi-plant-rueckzug-von-new-yorker-boerse-a-44e5880f-6942-4b66-8e8a-6e5a09d03a04#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/facebook-liess-anzeigen-von-impfgegnern-mit-nazivergleichen-zu](https://www.spiegel.de/netzwelt/web/facebook-liess-anzeigen-von-impfgegnern-mit-nazivergleichen-zu-a-a49d0d5d-eab5-4bca-b88e-8a9ff49804a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-verschaerfen-regeln-fuer-coronatests-bei-einreise](https://www.spiegel.de/wirtschaft/usa-verschaerfen-regeln-fuer-coronatests-bei-einreise-a-aff2da7b-b02b-4797-a64e-c8c07b524d20#ref=rss)
-* [https://www.spiegel.de/ausland/usa-kongress-wendet-haushaltssperre-ab](https://www.spiegel.de/ausland/usa-kongress-wendet-haushaltssperre-ab-a-46d8ebf8-1796-4502-94d3-b81e86bd0f83#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/bob-olympiasiegerin-kaillie-humphries-startet-jetzt-fuer-die-usa](https://www.spiegel.de/sport/wintersport/bob-olympiasiegerin-kaillie-humphries-startet-jetzt-fuer-die-usa-a-d4c1b6db-b5dc-483e-adc7-c89c8fe16584#ref=rss)
-### sebastian
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-der-kuenftige-spd-generalsekretaer-muss-sich-neu-erfinden](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-der-kuenftige-spd-generalsekretaer-muss-sich-neu-erfinden-a-73902dfe-fddb-41e7-9a72-9cc1eb504356#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-vorstand-nominiert-kevin-kuehnert-einstimmig-als-neuen-generalsekretaer](https://www.spiegel.de/politik/deutschland/spd-vorstand-nominiert-kevin-kuehnert-einstimmig-als-neuen-generalsekretaer-a-4b225315-67e7-49a6-962f-3e0b9f1d9f3f#ref=rss)
+### kühnert
 
-* [https://www.spiegel.de/kultur/tv/tv-total-schaerfste-biene-im-bundestag-twitter-user-werfen-der-show-sexismus-vor](https://www.spiegel.de/kultur/tv/tv-total-schaerfste-biene-im-bundestag-twitter-user-werfen-der-show-sexismus-vor-a-c0f43676-3ff6-4a85-ba0d-7dd627a4783a#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler](https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler-a-a07e14f1-1276-4701-877b-6a4abf803413#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter](https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter-a-b37e49e8-5d80-4e77-8cf5-12dee8b2f54b#ref=rss)
-### lamine
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-der-kuenftige-spd-generalsekretaer-muss-sich-neu-erfinden](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-der-kuenftige-spd-generalsekretaer-muss-sich-neu-erfinden-a-73902dfe-fddb-41e7-9a72-9cc1eb504356#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-vorstand-nominiert-kevin-kuehnert-einstimmig-als-neuen-generalsekretaer](https://www.spiegel.de/politik/deutschland/spd-vorstand-nominiert-kevin-kuehnert-einstimmig-als-neuen-generalsekretaer-a-4b225315-67e7-49a6-962f-3e0b9f1d9f3f#ref=rss)
+### ischgl
 
-* [https://www.spiegel.de/sport/lamine-diack-ist-tot-er-verkoerperte-das-schlechte-im-sport](https://www.spiegel.de/sport/lamine-diack-ist-tot-er-verkoerperte-das-schlechte-im-sport-a-d762089d-5ff4-4a35-b9f6-d833c4397391#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-pate-lamine-diack-ist-tot](https://www.spiegel.de/sport/leichtathletik-pate-lamine-diack-ist-tot-a-aedb5036-de77-4346-9940-925ec7351620#ref=rss)
-### diack
-
-* [https://www.spiegel.de/sport/lamine-diack-ist-tot-er-verkoerperte-das-schlechte-im-sport](https://www.spiegel.de/sport/lamine-diack-ist-tot-er-verkoerperte-das-schlechte-im-sport-a-d762089d-5ff4-4a35-b9f6-d833c4397391#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-pate-lamine-diack-ist-tot](https://www.spiegel.de/sport/leichtathletik-pate-lamine-diack-ist-tot-a-aedb5036-de77-4346-9940-925ec7351620#ref=rss)
-### jens
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-zu-corona-lage-auf-intensivstationen-um-weihnachten-mit-traurigem-hoehepunkt](https://www.spiegel.de/politik/deutschland/jens-spahn-zu-corona-lage-auf-intensivstationen-um-weihnachten-mit-traurigem-hoehepunkt-a-38d1c501-4953-4a19-84a3-4b26af7cdb47#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-jens-spahn-und-rki-chef-lothar-wieler-aeussern-sich-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/deutschland/corona-jens-spahn-und-rki-chef-lothar-wieler-aeussern-sich-zur-aktuellen-lage-livestream-a-2b26c888-68be-4713-9d44-c7fcdde297d6#ref=rss)
-### spahn
-
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-zu-corona-lage-auf-intensivstationen-um-weihnachten-mit-traurigem-hoehepunkt](https://www.spiegel.de/politik/deutschland/jens-spahn-zu-corona-lage-auf-intensivstationen-um-weihnachten-mit-traurigem-hoehepunkt-a-38d1c501-4953-4a19-84a3-4b26af7cdb47#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-jens-spahn-und-rki-chef-lothar-wieler-aeussern-sich-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/deutschland/corona-jens-spahn-und-rki-chef-lothar-wieler-aeussern-sich-zur-aktuellen-lage-livestream-a-2b26c888-68be-4713-9d44-c7fcdde297d6#ref=rss)
-### maßnahmen
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-droht-mit-massnahmen-gegen-eu-sanktionen](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-droht-mit-massnahmen-gegen-eu-sanktionen-a-f7c4f746-c033-414e-9799-59c56cc50782#ref=rss)
-* [https://www.spiegel.de/kultur/wellenbrecher-ist-wort-des-jahres-2021](https://www.spiegel.de/kultur/wellenbrecher-ist-wort-des-jahres-2021-a-d86a3633-e0df-48ad-9756-a828915705ad#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-droht-mit-massnahmen-gegen-eu-sanktionen](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-droht-mit-massnahmen-gegen-eu-sanktionen-a-f7c4f746-c033-414e-9799-59c56cc50782#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tv-total-schaerfste-biene-im-bundestag-twitter-user-werfen-der-show-sexismus-vor](https://www.spiegel.de/kultur/tv/tv-total-schaerfste-biene-im-bundestag-twitter-user-werfen-der-show-sexismus-vor-a-c0f43676-3ff6-4a85-ba0d-7dd627a4783a#ref=rss)
-* [https://www.spiegel.de/sport/nfl-sperrt-drei-football-profis-wegen-gefaelschter-impfpaesse](https://www.spiegel.de/sport/nfl-sperrt-drei-football-profis-wegen-gefaelschter-impfpaesse-a-eaecb6ac-654f-4608-9d66-da3b36d3bc77#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler](https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler-a-a07e14f1-1276-4701-877b-6a4abf803413#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter](https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter-a-b37e49e8-5d80-4e77-8cf5-12dee8b2f54b#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler](https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler-a-a07e14f1-1276-4701-877b-6a4abf803413#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter](https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter-a-b37e49e8-5d80-4e77-8cf5-12dee8b2f54b#ref=rss)
-### regeln
-
-* [https://www.spiegel.de/wissenschaft/medizin/maskenpflicht-in-der-schule-alles-nur-keine-schulschliessung](https://www.spiegel.de/wissenschaft/medizin/maskenpflicht-in-der-schule-alles-nur-keine-schulschliessung-a-f7662a88-4f10-4e69-9009-96ed9c26c40a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-verschaerfen-regeln-fuer-coronatests-bei-einreise](https://www.spiegel.de/wirtschaft/usa-verschaerfen-regeln-fuer-coronatests-bei-einreise-a-aff2da7b-b02b-4797-a64e-c8c07b524d20#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-zu-corona-lage-auf-intensivstationen-um-weihnachten-mit-traurigem-hoehepunkt](https://www.spiegel.de/politik/deutschland/jens-spahn-zu-corona-lage-auf-intensivstationen-um-weihnachten-mit-traurigem-hoehepunkt-a-38d1c501-4953-4a19-84a3-4b26af7cdb47#ref=rss)
-### belarus
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-droht-mit-massnahmen-gegen-eu-sanktionen](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-droht-mit-massnahmen-gegen-eu-sanktionen-a-f7c4f746-c033-414e-9799-59c56cc50782#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-droht-mit-massnahmen-gegen-eu-sanktionen](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-droht-mit-massnahmen-gegen-eu-sanktionen-a-f7c4f746-c033-414e-9799-59c56cc50782#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler](https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler-a-a07e14f1-1276-4701-877b-6a4abf803413#ref=rss)
-### lukaschenko
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-droht-mit-massnahmen-gegen-eu-sanktionen](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-droht-mit-massnahmen-gegen-eu-sanktionen-a-f7c4f746-c033-414e-9799-59c56cc50782#ref=rss)
-### droht
-
-* [https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-droht-mit-massnahmen-gegen-eu-sanktionen](https://www.spiegel.de/ausland/belarus-alexander-lukaschenko-droht-mit-massnahmen-gegen-eu-sanktionen-a-f7c4f746-c033-414e-9799-59c56cc50782#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-europarat-leitet-strafverfahren-wegen-osman-kavala-ein](https://www.spiegel.de/ausland/tuerkei-europarat-leitet-strafverfahren-wegen-osman-kavala-ein-a-9fe3d69d-f74c-42a9-ae5b-41af7c801c03#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/ausland/libyen-sohn-von-muammar-al-gaddafi-darf-doch-bei-praesidentschaftswahl-kandidieren](https://www.spiegel.de/ausland/libyen-sohn-von-muammar-al-gaddafi-darf-doch-bei-praesidentschaftswahl-kandidieren-a-87866872-01a0-4fa7-9e41-dbfa0245efed#ref=rss)
-### präsidentschaftswahl
-
-* [https://www.spiegel.de/ausland/libyen-sohn-von-muammar-al-gaddafi-darf-doch-bei-praesidentschaftswahl-kandidieren](https://www.spiegel.de/ausland/libyen-sohn-von-muammar-al-gaddafi-darf-doch-bei-praesidentschaftswahl-kandidieren-a-87866872-01a0-4fa7-9e41-dbfa0245efed#ref=rss)
-### papst
-
-* [https://www.spiegel.de/panorama/justiz/papst-franziskus-mann-wollte-messer-zum-gottesdienst-in-nikosia-mitnehmen](https://www.spiegel.de/panorama/justiz/papst-franziskus-mann-wollte-messer-zum-gottesdienst-in-nikosia-mitnehmen-a-7755ae7f-9e1f-44bc-97a4-deb5b8c2ca69#ref=rss)
-### franziskus
-
-* [https://www.spiegel.de/panorama/justiz/papst-franziskus-mann-wollte-messer-zum-gottesdienst-in-nikosia-mitnehmen](https://www.spiegel.de/panorama/justiz/papst-franziskus-mann-wollte-messer-zum-gottesdienst-in-nikosia-mitnehmen-a-7755ae7f-9e1f-44bc-97a4-deb5b8c2ca69#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/papst-franziskus-mann-wollte-messer-zum-gottesdienst-in-nikosia-mitnehmen](https://www.spiegel.de/panorama/justiz/papst-franziskus-mann-wollte-messer-zum-gottesdienst-in-nikosia-mitnehmen-a-7755ae7f-9e1f-44bc-97a4-deb5b8c2ca69#ref=rss)
-### messer
-
-* [https://www.spiegel.de/panorama/justiz/papst-franziskus-mann-wollte-messer-zum-gottesdienst-in-nikosia-mitnehmen](https://www.spiegel.de/panorama/justiz/papst-franziskus-mann-wollte-messer-zum-gottesdienst-in-nikosia-mitnehmen-a-7755ae7f-9e1f-44bc-97a4-deb5b8c2ca69#ref=rss)
-### gottesdienst
-
-* [https://www.spiegel.de/panorama/justiz/papst-franziskus-mann-wollte-messer-zum-gottesdienst-in-nikosia-mitnehmen](https://www.spiegel.de/panorama/justiz/papst-franziskus-mann-wollte-messer-zum-gottesdienst-in-nikosia-mitnehmen-a-7755ae7f-9e1f-44bc-97a4-deb5b8c2ca69#ref=rss)
-### didi
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/chinas-uber-rivale-didi-plant-rueckzug-von-new-yorker-boerse](https://www.spiegel.de/wirtschaft/unternehmen/chinas-uber-rivale-didi-plant-rueckzug-von-new-yorker-boerse-a-44e5880f-6942-4b66-8e8a-6e5a09d03a04#ref=rss)
-### schachwm
-
-* [https://www.spiegel.de/sport/schach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-sind-zu-gut-um-zu-gewinnen](https://www.spiegel.de/sport/schach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-sind-zu-gut-um-zu-gewinnen-a-b84fa75c-1f43-4f20-a15d-411f115cccd1#ref=rss)
-### magnus
-
-* [https://www.spiegel.de/sport/schach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-sind-zu-gut-um-zu-gewinnen](https://www.spiegel.de/sport/schach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-sind-zu-gut-um-zu-gewinnen-a-b84fa75c-1f43-4f20-a15d-411f115cccd1#ref=rss)
-### carlsen
-
-* [https://www.spiegel.de/sport/schach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-sind-zu-gut-um-zu-gewinnen](https://www.spiegel.de/sport/schach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-sind-zu-gut-um-zu-gewinnen-a-b84fa75c-1f43-4f20-a15d-411f115cccd1#ref=rss)
-### jan
-
-* [https://www.spiegel.de/sport/schach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-sind-zu-gut-um-zu-gewinnen](https://www.spiegel.de/sport/schach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-sind-zu-gut-um-zu-gewinnen-a-b84fa75c-1f43-4f20-a15d-411f115cccd1#ref=rss)
-### nepomnjaschtschi
-
-* [https://www.spiegel.de/sport/schach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-sind-zu-gut-um-zu-gewinnen](https://www.spiegel.de/sport/schach-wm-magnus-carlsen-und-jan-nepomnjaschtschi-sind-zu-gut-um-zu-gewinnen-a-b84fa75c-1f43-4f20-a15d-411f115cccd1#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/manchester-united-ralf-rangnick-spottet-ueber-bonus-geruechte-fuer-haaland-transfer](https://www.spiegel.de/sport/fussball/manchester-united-ralf-rangnick-spottet-ueber-bonus-geruechte-fuer-haaland-transfer-a-06bb22a8-347f-451e-a7c6-496dc2d34524#ref=rss)
-### united
-
-* [https://www.spiegel.de/sport/fussball/manchester-united-ralf-rangnick-spottet-ueber-bonus-geruechte-fuer-haaland-transfer](https://www.spiegel.de/sport/fussball/manchester-united-ralf-rangnick-spottet-ueber-bonus-geruechte-fuer-haaland-transfer-a-06bb22a8-347f-451e-a7c6-496dc2d34524#ref=rss)
-### ralf
-
-* [https://www.spiegel.de/sport/fussball/manchester-united-ralf-rangnick-spottet-ueber-bonus-geruechte-fuer-haaland-transfer](https://www.spiegel.de/sport/fussball/manchester-united-ralf-rangnick-spottet-ueber-bonus-geruechte-fuer-haaland-transfer-a-06bb22a8-347f-451e-a7c6-496dc2d34524#ref=rss)
-### rangnick
-
-* [https://www.spiegel.de/sport/fussball/manchester-united-ralf-rangnick-spottet-ueber-bonus-geruechte-fuer-haaland-transfer](https://www.spiegel.de/sport/fussball/manchester-united-ralf-rangnick-spottet-ueber-bonus-geruechte-fuer-haaland-transfer-a-06bb22a8-347f-451e-a7c6-496dc2d34524#ref=rss)
-### schärfste
-
-* [https://www.spiegel.de/kultur/tv/tv-total-schaerfste-biene-im-bundestag-twitter-user-werfen-der-show-sexismus-vor](https://www.spiegel.de/kultur/tv/tv-total-schaerfste-biene-im-bundestag-twitter-user-werfen-der-show-sexismus-vor-a-c0f43676-3ff6-4a85-ba0d-7dd627a4783a#ref=rss)
-### biene
-
-* [https://www.spiegel.de/kultur/tv/tv-total-schaerfste-biene-im-bundestag-twitter-user-werfen-der-show-sexismus-vor](https://www.spiegel.de/kultur/tv/tv-total-schaerfste-biene-im-bundestag-twitter-user-werfen-der-show-sexismus-vor-a-c0f43676-3ff6-4a85-ba0d-7dd627a4783a#ref=rss)
-### neue
-
-* [https://www.spiegel.de/kultur/tv/tv-total-schaerfste-biene-im-bundestag-twitter-user-werfen-der-show-sexismus-vor](https://www.spiegel.de/kultur/tv/tv-total-schaerfste-biene-im-bundestag-twitter-user-werfen-der-show-sexismus-vor-a-c0f43676-3ff6-4a85-ba0d-7dd627a4783a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-verschaerfen-regeln-fuer-coronatests-bei-einreise](https://www.spiegel.de/wirtschaft/usa-verschaerfen-regeln-fuer-coronatests-bei-einreise-a-aff2da7b-b02b-4797-a64e-c8c07b524d20#ref=rss)
-### waren
-
-* [https://www.spiegel.de/kultur/tv/tv-total-schaerfste-biene-im-bundestag-twitter-user-werfen-der-show-sexismus-vor](https://www.spiegel.de/kultur/tv/tv-total-schaerfste-biene-im-bundestag-twitter-user-werfen-der-show-sexismus-vor-a-c0f43676-3ff6-4a85-ba0d-7dd627a4783a#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-pate-lamine-diack-ist-tot](https://www.spiegel.de/sport/leichtathletik-pate-lamine-diack-ist-tot-a-aedb5036-de77-4346-9940-925ec7351620#ref=rss)
-### tot
-
-* [https://www.spiegel.de/sport/lamine-diack-ist-tot-er-verkoerperte-das-schlechte-im-sport](https://www.spiegel.de/sport/lamine-diack-ist-tot-er-verkoerperte-das-schlechte-im-sport-a-d762089d-5ff4-4a35-b9f6-d833c4397391#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-pate-lamine-diack-ist-tot](https://www.spiegel.de/sport/leichtathletik-pate-lamine-diack-ist-tot-a-aedb5036-de77-4346-9940-925ec7351620#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/sport/lamine-diack-ist-tot-er-verkoerperte-das-schlechte-im-sport](https://www.spiegel.de/sport/lamine-diack-ist-tot-er-verkoerperte-das-schlechte-im-sport-a-d762089d-5ff4-4a35-b9f6-d833c4397391#ref=rss)
-* [https://www.spiegel.de/sport/fussball/atletico-mineiro-feiert-meistertitel-in-brasilien-darauf-hat-er-klub-50-jahre-gewartet](https://www.spiegel.de/sport/fussball/atletico-mineiro-feiert-meistertitel-in-brasilien-darauf-hat-er-klub-50-jahre-gewartet-a-4b784cda-d09e-44e3-ba48-3660a91f7c53#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/lamine-diack-ist-tot-er-verkoerperte-das-schlechte-im-sport](https://www.spiegel.de/sport/lamine-diack-ist-tot-er-verkoerperte-das-schlechte-im-sport-a-d762089d-5ff4-4a35-b9f6-d833c4397391#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kurzarbeit-steigt-erstmals-seit-februar-wieder](https://www.spiegel.de/wirtschaft/kurzarbeit-steigt-erstmals-seit-februar-wieder-a-737d5373-e4ed-4fb2-86ea-da094399873c#ref=rss)
-### karl
-
-* [https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler](https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler-a-a07e14f1-1276-4701-877b-6a4abf803413#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-zur-corona-lage-die-empfehlung-der-stiko-kam-viel-zu-spaet](https://www.spiegel.de/politik/deutschland/manuela-schwesig-zur-corona-lage-die-empfehlung-der-stiko-kam-viel-zu-spaet-a-8512897a-d4ec-40a3-b09b-90eadcd323b4#ref=rss)
-### nehammer
-
-* [https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler](https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler-a-a07e14f1-1276-4701-877b-6a4abf803413#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler](https://www.spiegel.de/ausland/oesterreich-karl-nehammer-wird-bundeskanzler-a-a07e14f1-1276-4701-877b-6a4abf803413#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter](https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter-a-b37e49e8-5d80-4e77-8cf5-12dee8b2f54b#ref=rss)
-### wellenbrecher
-
-* [https://www.spiegel.de/kultur/wellenbrecher-ist-wort-des-jahres-2021](https://www.spiegel.de/kultur/wellenbrecher-ist-wort-des-jahres-2021-a-d86a3633-e0df-48ad-9756-a828915705ad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski](https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski-a-43201b81-98f9-41d2-9ee7-fe50f53db215#ref=rss)
+* [https://www.spiegel.de/panorama/ischgl-ex-coronavirus-hotspot-startet-skisaison-im-lockdown](https://www.spiegel.de/panorama/ischgl-ex-coronavirus-hotspot-startet-skisaison-im-lockdown-a-c8f7f088-14be-4c18-aaad-64e8c3ed3165#ref=rss)
 ### wort
 
-* [https://www.spiegel.de/kultur/wellenbrecher-ist-wort-des-jahres-2021](https://www.spiegel.de/kultur/wellenbrecher-ist-wort-des-jahres-2021-a-d86a3633-e0df-48ad-9756-a828915705ad#ref=rss)
+* [https://www.spiegel.de/kultur/wort-des-jahres-wellenbrecher-labergeschichtlich-eine-spitzenwahl](https://www.spiegel.de/kultur/wort-des-jahres-wellenbrecher-labergeschichtlich-eine-spitzenwahl-a-b130159f-dded-40f8-9594-412195c831e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b](https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b-a-d8e93315-ba66-49d4-9b29-17f1969ef6cc#ref=rss)
 ### jahres
 
-* [https://www.spiegel.de/kultur/wellenbrecher-ist-wort-des-jahres-2021](https://www.spiegel.de/kultur/wellenbrecher-ist-wort-des-jahres-2021-a-d86a3633-e0df-48ad-9756-a828915705ad#ref=rss)
-### gj
+* [https://www.spiegel.de/kultur/wort-des-jahres-wellenbrecher-labergeschichtlich-eine-spitzenwahl](https://www.spiegel.de/kultur/wort-des-jahres-wellenbrecher-labergeschichtlich-eine-spitzenwahl-a-b130159f-dded-40f8-9594-412195c831e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b](https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b-a-d8e93315-ba66-49d4-9b29-17f1969ef6cc#ref=rss)
+### wellenbrecher
 
-* [https://www.spiegel.de/auto/exoplanet-entdeckt-auf-gj-367b-ist-alle-acht-stunden-silvester](https://www.spiegel.de/auto/exoplanet-entdeckt-auf-gj-367b-ist-alle-acht-stunden-silvester-a-91c6e0b3-cac5-4d1b-b266-f2b9badd88b2#ref=rss)
-### 367b
+* [https://www.spiegel.de/kultur/wort-des-jahres-wellenbrecher-labergeschichtlich-eine-spitzenwahl](https://www.spiegel.de/kultur/wort-des-jahres-wellenbrecher-labergeschichtlich-eine-spitzenwahl-a-b130159f-dded-40f8-9594-412195c831e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b](https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b-a-d8e93315-ba66-49d4-9b29-17f1969ef6cc#ref=rss)
+### horst
 
-* [https://www.spiegel.de/auto/exoplanet-entdeckt-auf-gj-367b-ist-alle-acht-stunden-silvester](https://www.spiegel.de/auto/exoplanet-entdeckt-auf-gj-367b-ist-alle-acht-stunden-silvester-a-91c6e0b3-cac5-4d1b-b266-f2b9badd88b2#ref=rss)
-### alle
+* [https://www.spiegel.de/sport/fussball/horst-eckel-stimmen-zum-tod-des-weltmeisters-von-1954-in-jeder-hinsicht-ein-vorbild-fuer-mich](https://www.spiegel.de/sport/fussball/horst-eckel-stimmen-zum-tod-des-weltmeisters-von-1954-in-jeder-hinsicht-ein-vorbild-fuer-mich-a-f3ebfee7-eb6d-4e51-924b-0d34d73c6149#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-horst-eckel-der-letzte-weltmeister-der-54er-elf](https://www.spiegel.de/sport/fussball/nachruf-auf-horst-eckel-der-letzte-weltmeister-der-54er-elf-a-2ac92451-15db-4e90-a94b-666d90f7545c#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/auto/exoplanet-entdeckt-auf-gj-367b-ist-alle-acht-stunden-silvester](https://www.spiegel.de/auto/exoplanet-entdeckt-auf-gj-367b-ist-alle-acht-stunden-silvester-a-91c6e0b3-cac5-4d1b-b266-f2b9badd88b2#ref=rss)
-* [https://www.spiegel.de/sport/leichtathletik-pate-lamine-diack-ist-tot](https://www.spiegel.de/sport/leichtathletik-pate-lamine-diack-ist-tot-a-aedb5036-de77-4346-9940-925ec7351620#ref=rss)
-### sehr
+* [https://www.spiegel.de/wirtschaft/unternehmen/corona-krise-verschafft-champagner-hersteller-rekordjahr](https://www.spiegel.de/wirtschaft/unternehmen/corona-krise-verschafft-champagner-hersteller-rekordjahr-a-d04663e3-c6b9-4c36-8cd2-4428ba60a03b#ref=rss)
+* [https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen](https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen-a-fc54335e-c7b3-46f3-8b65-a9d72b2c0e72#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-polizei-soll-sich-auf-kampf-gegen-corona-suender-konzentrieren](https://www.spiegel.de/politik/deutschland/corona-polizei-soll-sich-auf-kampf-gegen-corona-suender-konzentrieren-a-95021eb6-0923-4959-8fee-48f84d8385dd#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/auto/exoplanet-entdeckt-auf-gj-367b-ist-alle-acht-stunden-silvester](https://www.spiegel.de/auto/exoplanet-entdeckt-auf-gj-367b-ist-alle-acht-stunden-silvester-a-91c6e0b3-cac5-4d1b-b266-f2b9badd88b2#ref=rss)
-### weit
+* [https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski](https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski-a-43201b81-98f9-41d2-9ee7-fe50f53db215#ref=rss)
+* [https://www.spiegel.de/panorama/ischgl-ex-coronavirus-hotspot-startet-skisaison-im-lockdown](https://www.spiegel.de/panorama/ischgl-ex-coronavirus-hotspot-startet-skisaison-im-lockdown-a-c8f7f088-14be-4c18-aaad-64e8c3ed3165#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-6-14-jaehrige-duerfen-kostenlos-fahren-auch-ohne-die-eltern](https://www.spiegel.de/auto/deutsche-bahn-6-14-jaehrige-duerfen-kostenlos-fahren-auch-ohne-die-eltern-a-596fdbfa-e91e-4add-aed1-074bd37032a6#ref=rss)
+### viele
 
-* [https://www.spiegel.de/auto/exoplanet-entdeckt-auf-gj-367b-ist-alle-acht-stunden-silvester](https://www.spiegel.de/auto/exoplanet-entdeckt-auf-gj-367b-ist-alle-acht-stunden-silvester-a-91c6e0b3-cac5-4d1b-b266-f2b9badd88b2#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/maskenpflicht-in-der-schule-alles-nur-keine-schulschliessung](https://www.spiegel.de/wissenschaft/medizin/maskenpflicht-in-der-schule-alles-nur-keine-schulschliessung-a-f7662a88-4f10-4e69-9009-96ed9c26c40a#ref=rss)
-### bald
-
-* [https://www.spiegel.de/wissenschaft/medizin/maskenpflicht-in-der-schule-alles-nur-keine-schulschliessung](https://www.spiegel.de/wissenschaft/medizin/maskenpflicht-in-der-schule-alles-nur-keine-schulschliessung-a-f7662a88-4f10-4e69-9009-96ed9c26c40a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verkauft-erneut-tesla-aktien-fuer-eine-milliarde-dollar](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verkauft-erneut-tesla-aktien-fuer-eine-milliarde-dollar-a-6efb1e76-7457-402d-afdb-7e4655f1a49c#ref=rss)
-### facebook
-
-* [https://www.spiegel.de/netzwelt/web/facebook-liess-anzeigen-von-impfgegnern-mit-nazivergleichen-zu](https://www.spiegel.de/netzwelt/web/facebook-liess-anzeigen-von-impfgegnern-mit-nazivergleichen-zu-a-a49d0d5d-eab5-4bca-b88e-8a9ff49804a1#ref=rss)
-### coronaimpfung
-
-* [https://www.spiegel.de/netzwelt/web/facebook-liess-anzeigen-von-impfgegnern-mit-nazivergleichen-zu](https://www.spiegel.de/netzwelt/web/facebook-liess-anzeigen-von-impfgegnern-mit-nazivergleichen-zu-a-a49d0d5d-eab5-4bca-b88e-8a9ff49804a1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/marcus-lamb-daystar-gruender-stirbt-nach-corona-infektion](https://www.spiegel.de/panorama/leute/marcus-lamb-daystar-gruender-stirbt-nach-corona-infektion-a-44b572a2-8217-4b07-997b-b1590971383b#ref=rss)
-### antifolterkomitee
-
-* [https://www.spiegel.de/ausland/kroatien-anti-folter-komitee-prangert-misshandlung-von-fluechtlingen-an](https://www.spiegel.de/ausland/kroatien-anti-folter-komitee-prangert-misshandlung-von-fluechtlingen-an-a-d907e3cf-03e5-47b5-907e-d9f421a7a01a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski](https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski-a-43201b81-98f9-41d2-9ee7-fe50f53db215#ref=rss)
+* [https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen](https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen-a-fc54335e-c7b3-46f3-8b65-a9d72b2c0e72#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-risiko-erneuter-ansteckung-bei-omikron-variante-laut-vorlaeufiger-studie-erhoeht](https://www.spiegel.de/wissenschaft/medizin/coronavirus-risiko-erneuter-ansteckung-bei-omikron-variante-laut-vorlaeufiger-studie-erhoeht-a-aea45449-cc61-46a6-b291-eb2005952603#ref=rss)
 ### land
 
-* [https://www.spiegel.de/wirtschaft/usa-verschaerfen-regeln-fuer-coronatests-bei-einreise](https://www.spiegel.de/wirtschaft/usa-verschaerfen-regeln-fuer-coronatests-bei-einreise-a-aff2da7b-b02b-4797-a64e-c8c07b524d20#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-das-schicksal-der-gruenen-liegt-in-seiner-hand](https://www.spiegel.de/politik/deutschland/robert-habeck-das-schicksal-der-gruenen-liegt-in-seiner-hand-a-3e372153-0e25-4bf2-9db8-6da583e2f9dc#ref=rss)
+* [https://www.spiegel.de/kultur/wort-des-jahres-wellenbrecher-labergeschichtlich-eine-spitzenwahl](https://www.spiegel.de/kultur/wort-des-jahres-wellenbrecher-labergeschichtlich-eine-spitzenwahl-a-b130159f-dded-40f8-9594-412195c831e9#ref=rss)
+* [https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen](https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen-a-fc54335e-c7b3-46f3-8b65-a9d72b2c0e72#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-kritisiert-ampel-zu-wenige-ostdeutsche-in-der-regierung](https://www.spiegel.de/politik/deutschland/die-linke-kritisiert-ampel-zu-wenige-ostdeutsche-in-der-regierung-a-a59d8c20-1402-4457-9099-da94cd9c98d8#ref=rss)
+* [https://www.spiegel.de/kultur/klaus-rainer-roehl-zu-seinem-tod-wanderer-zwischen-den-polen](https://www.spiegel.de/kultur/klaus-rainer-roehl-zu-seinem-tod-wanderer-zwischen-den-polen-a-587a27c5-aab0-464c-9efd-9ae7ddcd2ef3#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/politik/deutschland/die-linke-kritisiert-ampel-zu-wenige-ostdeutsche-in-der-regierung](https://www.spiegel.de/politik/deutschland/die-linke-kritisiert-ampel-zu-wenige-ostdeutsche-in-der-regierung-a-a59d8c20-1402-4457-9099-da94cd9c98d8#ref=rss)
+* [https://www.spiegel.de/ausland/kroatien-zoran-milanovic-wettert-nach-pushback-vorwuerfen-gegen-eu](https://www.spiegel.de/ausland/kroatien-zoran-milanovic-wettert-nach-pushback-vorwuerfen-gegen-eu-a-55a6dd9e-eda5-441b-8ce1-c4a838d60e7d#ref=rss)
 ### künftig
 
-* [https://www.spiegel.de/wirtschaft/usa-verschaerfen-regeln-fuer-coronatests-bei-einreise](https://www.spiegel.de/wirtschaft/usa-verschaerfen-regeln-fuer-coronatests-bei-einreise-a-aff2da7b-b02b-4797-a64e-c8c07b524d20#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter](https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter-a-b37e49e8-5d80-4e77-8cf5-12dee8b2f54b#ref=rss)
-### corona
+* [https://www.spiegel.de/kultur/tv/hr-florian-hager-wird-neuer-intendant-des-hessischen-rundfunks](https://www.spiegel.de/kultur/tv/hr-florian-hager-wird-neuer-intendant-des-hessischen-rundfunks-a-2d6a4233-7b3b-4066-944b-cf5315624e9e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-polizei-soll-sich-auf-kampf-gegen-corona-suender-konzentrieren](https://www.spiegel.de/politik/deutschland/corona-polizei-soll-sich-auf-kampf-gegen-corona-suender-konzentrieren-a-95021eb6-0923-4959-8fee-48f84d8385dd#ref=rss)
+* [https://www.spiegel.de/auto/deutsche-bahn-6-14-jaehrige-duerfen-kostenlos-fahren-auch-ohne-die-eltern](https://www.spiegel.de/auto/deutsche-bahn-6-14-jaehrige-duerfen-kostenlos-fahren-auch-ohne-die-eltern-a-596fdbfa-e91e-4add-aed1-074bd37032a6#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-zu-corona-lage-auf-intensivstationen-um-weihnachten-mit-traurigem-hoehepunkt](https://www.spiegel.de/politik/deutschland/jens-spahn-zu-corona-lage-auf-intensivstationen-um-weihnachten-mit-traurigem-hoehepunkt-a-38d1c501-4953-4a19-84a3-4b26af7cdb47#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-jens-spahn-und-rki-chef-lothar-wieler-aeussern-sich-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/deutschland/corona-jens-spahn-und-rki-chef-lothar-wieler-aeussern-sich-zur-aktuellen-lage-livestream-a-2b26c888-68be-4713-9d44-c7fcdde297d6#ref=rss)
+* [https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen](https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen-a-fc54335e-c7b3-46f3-8b65-a9d72b2c0e72#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/usa-wirtschaft-schafft-deutlich-weniger-arbeitsplaetze-als-erwartet](https://www.spiegel.de/wirtschaft/soziales/usa-wirtschaft-schafft-deutlich-weniger-arbeitsplaetze-als-erwartet-a-5b21274b-f323-42bf-bb76-c8e303ce4117#ref=rss)
+### eckel
+
+* [https://www.spiegel.de/sport/fussball/horst-eckel-stimmen-zum-tod-des-weltmeisters-von-1954-in-jeder-hinsicht-ein-vorbild-fuer-mich](https://www.spiegel.de/sport/fussball/horst-eckel-stimmen-zum-tod-des-weltmeisters-von-1954-in-jeder-hinsicht-ein-vorbild-fuer-mich-a-f3ebfee7-eb6d-4e51-924b-0d34d73c6149#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-horst-eckel-der-letzte-weltmeister-der-54er-elf](https://www.spiegel.de/sport/fussball/nachruf-auf-horst-eckel-der-letzte-weltmeister-der-54er-elf-a-2ac92451-15db-4e90-a94b-666d90f7545c#ref=rss)
+### spdgeneralsekretär
+
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-der-kuenftige-spd-generalsekretaer-muss-sich-neu-erfinden](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-der-kuenftige-spd-generalsekretaer-muss-sich-neu-erfinden-a-73902dfe-fddb-41e7-9a72-9cc1eb504356#ref=rss)
+### neu
+
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-der-kuenftige-spd-generalsekretaer-muss-sich-neu-erfinden](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-der-kuenftige-spd-generalsekretaer-muss-sich-neu-erfinden-a-73902dfe-fddb-41e7-9a72-9cc1eb504356#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-14-000-beschaeftigte-beteiligen-sich-an-warnstreiks](https://www.spiegel.de/wirtschaft/unternehmen/airbus-14-000-beschaeftigte-beteiligen-sich-an-warnstreiks-a-a1a6736b-d416-4fcb-b5f4-693326209925#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-der-kuenftige-spd-generalsekretaer-muss-sich-neu-erfinden](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-der-kuenftige-spd-generalsekretaer-muss-sich-neu-erfinden-a-73902dfe-fddb-41e7-9a72-9cc1eb504356#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-polizei-soll-sich-auf-kampf-gegen-corona-suender-konzentrieren](https://www.spiegel.de/politik/deutschland/corona-polizei-soll-sich-auf-kampf-gegen-corona-suender-konzentrieren-a-95021eb6-0923-4959-8fee-48f84d8385dd#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-der-kuenftige-spd-generalsekretaer-muss-sich-neu-erfinden](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-der-kuenftige-spd-generalsekretaer-muss-sich-neu-erfinden-a-73902dfe-fddb-41e7-9a72-9cc1eb504356#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/is-mordprozess-in-frankfurt-voelkermord-ueberall](https://www.spiegel.de/panorama/justiz/is-mordprozess-in-frankfurt-voelkermord-ueberall-a-8c0a2818-716c-4198-a975-e6fd519946fb#ref=rss)
+### champagnerhersteller
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/corona-krise-verschafft-champagner-hersteller-rekordjahr](https://www.spiegel.de/wirtschaft/unternehmen/corona-krise-verschafft-champagner-hersteller-rekordjahr-a-d04663e3-c6b9-4c36-8cd2-4428ba60a03b#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/corona-krise-verschafft-champagner-hersteller-rekordjahr](https://www.spiegel.de/wirtschaft/unternehmen/corona-krise-verschafft-champagner-hersteller-rekordjahr-a-d04663e3-c6b9-4c36-8cd2-4428ba60a03b#ref=rss)
+* [https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen](https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen-a-fc54335e-c7b3-46f3-8b65-a9d72b2c0e72#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/corona-krise-verschafft-champagner-hersteller-rekordjahr](https://www.spiegel.de/wirtschaft/unternehmen/corona-krise-verschafft-champagner-hersteller-rekordjahr-a-d04663e3-c6b9-4c36-8cd2-4428ba60a03b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-risiko-erneuter-ansteckung-bei-omikron-variante-laut-vorlaeufiger-studie-erhoeht](https://www.spiegel.de/wissenschaft/medizin/coronavirus-risiko-erneuter-ansteckung-bei-omikron-variante-laut-vorlaeufiger-studie-erhoeht-a-aea45449-cc61-46a6-b291-eb2005952603#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski](https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski-a-43201b81-98f9-41d2-9ee7-fe50f53db215#ref=rss)
+* [https://www.spiegel.de/kultur/wort-des-jahres-wellenbrecher-labergeschichtlich-eine-spitzenwahl](https://www.spiegel.de/kultur/wort-des-jahres-wellenbrecher-labergeschichtlich-eine-spitzenwahl-a-b130159f-dded-40f8-9594-412195c831e9#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski](https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski-a-43201b81-98f9-41d2-9ee7-fe50f53db215#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-horst-eckel-der-letzte-weltmeister-der-54er-elf](https://www.spiegel.de/sport/fussball/nachruf-auf-horst-eckel-der-letzte-weltmeister-der-54er-elf-a-2ac92451-15db-4e90-a94b-666d90f7545c#ref=rss)
+### coronahotspot
+
+* [https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski](https://www.spiegel.de/wirtschaft/ischgl-zu-corona-zeiten-geht-s-auch-ohne-apres-ski-a-43201b81-98f9-41d2-9ee7-fe50f53db215#ref=rss)
+* [https://www.spiegel.de/panorama/ischgl-ex-coronavirus-hotspot-startet-skisaison-im-lockdown](https://www.spiegel.de/panorama/ischgl-ex-coronavirus-hotspot-startet-skisaison-im-lockdown-a-c8f7f088-14be-4c18-aaad-64e8c3ed3165#ref=rss)
+### airbus
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-14-000-beschaeftigte-beteiligen-sich-an-warnstreiks](https://www.spiegel.de/wirtschaft/unternehmen/airbus-14-000-beschaeftigte-beteiligen-sich-an-warnstreiks-a-a1a6736b-d416-4fcb-b5f4-693326209925#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-14-000-beschaeftigte-beteiligen-sich-an-warnstreiks](https://www.spiegel.de/wirtschaft/unternehmen/airbus-14-000-beschaeftigte-beteiligen-sich-an-warnstreiks-a-a1a6736b-d416-4fcb-b5f4-693326209925#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-linke-kritisiert-ampel-zu-wenige-ostdeutsche-in-der-regierung](https://www.spiegel.de/politik/deutschland/die-linke-kritisiert-ampel-zu-wenige-ostdeutsche-in-der-regierung-a-a59d8c20-1402-4457-9099-da94cd9c98d8#ref=rss)
+### 2g
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ernsting-s-family-chef-timm-homann-ueber-2g-dagegen-werden-wir-klagen-bis-zum-letzten-euro](https://www.spiegel.de/wirtschaft/unternehmen/ernsting-s-family-chef-timm-homann-ueber-2g-dagegen-werden-wir-klagen-bis-zum-letzten-euro-a-fbb3553e-bd4e-40a8-9f57-9e761c2c2527#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-polizei-soll-sich-auf-kampf-gegen-corona-suender-konzentrieren](https://www.spiegel.de/politik/deutschland/corona-polizei-soll-sich-auf-kampf-gegen-corona-suender-konzentrieren-a-95021eb6-0923-4959-8fee-48f84d8385dd#ref=rss)
+### wir
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ernsting-s-family-chef-timm-homann-ueber-2g-dagegen-werden-wir-klagen-bis-zum-letzten-euro](https://www.spiegel.de/wirtschaft/unternehmen/ernsting-s-family-chef-timm-homann-ueber-2g-dagegen-werden-wir-klagen-bis-zum-letzten-euro-a-fbb3553e-bd4e-40a8-9f57-9e761c2c2527#ref=rss)
+* [https://www.spiegel.de/netzwelt/wombo-dream-hier-verschmilzt-taylor-swift-mit-einem-weihnachtsbaum](https://www.spiegel.de/netzwelt/wombo-dream-hier-verschmilzt-taylor-swift-mit-einem-weihnachtsbaum-a-0e4a56b1-7f4a-41b4-9de7-0abea1b60d12#ref=rss)
+### wettert
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ernsting-s-family-chef-timm-homann-ueber-2g-dagegen-werden-wir-klagen-bis-zum-letzten-euro](https://www.spiegel.de/wirtschaft/unternehmen/ernsting-s-family-chef-timm-homann-ueber-2g-dagegen-werden-wir-klagen-bis-zum-letzten-euro-a-fbb3553e-bd4e-40a8-9f57-9e761c2c2527#ref=rss)
+* [https://www.spiegel.de/ausland/kroatien-zoran-milanovic-wettert-nach-pushback-vorwuerfen-gegen-eu](https://www.spiegel.de/ausland/kroatien-zoran-milanovic-wettert-nach-pushback-vorwuerfen-gegen-eu-a-55a6dd9e-eda5-441b-8ce1-c4a838d60e7d#ref=rss)
+### frankfurt
+
+* [https://www.spiegel.de/panorama/justiz/is-mordprozess-in-frankfurt-voelkermord-ueberall](https://www.spiegel.de/panorama/justiz/is-mordprozess-in-frankfurt-voelkermord-ueberall-a-8c0a2818-716c-4198-a975-e6fd519946fb#ref=rss)
 ### lage
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-zu-corona-lage-auf-intensivstationen-um-weihnachten-mit-traurigem-hoehepunkt](https://www.spiegel.de/politik/deutschland/jens-spahn-zu-corona-lage-auf-intensivstationen-um-weihnachten-mit-traurigem-hoehepunkt-a-38d1c501-4953-4a19-84a3-4b26af7cdb47#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-jens-spahn-und-rki-chef-lothar-wieler-aeussern-sich-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/deutschland/corona-jens-spahn-und-rki-chef-lothar-wieler-aeussern-sich-zur-aktuellen-lage-livestream-a-2b26c888-68be-4713-9d44-c7fcdde297d6#ref=rss)
-### lothar
+* [https://www.spiegel.de/kultur/wort-des-jahres-wellenbrecher-labergeschichtlich-eine-spitzenwahl](https://www.spiegel.de/kultur/wort-des-jahres-wellenbrecher-labergeschichtlich-eine-spitzenwahl-a-b130159f-dded-40f8-9594-412195c831e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b](https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b-a-d8e93315-ba66-49d4-9b29-17f1969ef6cc#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/corona-jens-spahn-und-rki-chef-lothar-wieler-aeussern-sich-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/deutschland/corona-jens-spahn-und-rki-chef-lothar-wieler-aeussern-sich-zur-aktuellen-lage-livestream-a-2b26c888-68be-4713-9d44-c7fcdde297d6#ref=rss)
-### wieler
+* [https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b](https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b-a-d8e93315-ba66-49d4-9b29-17f1969ef6cc#ref=rss)
+### planet
 
-* [https://www.spiegel.de/politik/deutschland/corona-jens-spahn-und-rki-chef-lothar-wieler-aeussern-sich-zur-aktuellen-lage-livestream](https://www.spiegel.de/politik/deutschland/corona-jens-spahn-und-rki-chef-lothar-wieler-aeussern-sich-zur-aktuellen-lage-livestream-a-2b26c888-68be-4713-9d44-c7fcdde297d6#ref=rss)
-### habeck
+* [https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b](https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b-a-d8e93315-ba66-49d4-9b29-17f1969ef6cc#ref=rss)
+### 2022
 
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-das-schicksal-der-gruenen-liegt-in-seiner-hand](https://www.spiegel.de/politik/deutschland/robert-habeck-das-schicksal-der-gruenen-liegt-in-seiner-hand-a-3e372153-0e25-4bf2-9db8-6da583e2f9dc#ref=rss)
-### schicksal
+* [https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b](https://www.spiegel.de/politik/deutschland/news-wie-gefaehrlich-ist-omikron-wellenbrecher-ist-wort-des-jahres-donald-trump-planet-gj-367b-a-d8e93315-ba66-49d4-9b29-17f1969ef6cc#ref=rss)
+* [https://www.spiegel.de/kultur/tv/hr-florian-hager-wird-neuer-intendant-des-hessischen-rundfunks](https://www.spiegel.de/kultur/tv/hr-florian-hager-wird-neuer-intendant-des-hessischen-rundfunks-a-2d6a4233-7b3b-4066-944b-cf5315624e9e#ref=rss)
+### polizeiruf
 
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-das-schicksal-der-gruenen-liegt-in-seiner-hand](https://www.spiegel.de/politik/deutschland/robert-habeck-das-schicksal-der-gruenen-liegt-in-seiner-hand-a-3e372153-0e25-4bf2-9db8-6da583e2f9dc#ref=rss)
-### grünen
+* [https://www.spiegel.de/kultur/tv/polizeiruf-110-hermann-ist-der-immobilienhai-die-kz-dogge-von-heute](https://www.spiegel.de/kultur/tv/polizeiruf-110-hermann-ist-der-immobilienhai-die-kz-dogge-von-heute-a-28d37dac-8412-4822-a4a0-d37f3ce739bb#ref=rss)
+### spiegelinformationen
 
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-das-schicksal-der-gruenen-liegt-in-seiner-hand](https://www.spiegel.de/politik/deutschland/robert-habeck-das-schicksal-der-gruenen-liegt-in-seiner-hand-a-3e372153-0e25-4bf2-9db8-6da583e2f9dc#ref=rss)
-### liegt
+* [https://www.spiegel.de/politik/deutschland/die-linke-kritisiert-ampel-zu-wenige-ostdeutsche-in-der-regierung](https://www.spiegel.de/politik/deutschland/die-linke-kritisiert-ampel-zu-wenige-ostdeutsche-in-der-regierung-a-a59d8c20-1402-4457-9099-da94cd9c98d8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-vorstand-nominiert-kevin-kuehnert-einstimmig-als-neuen-generalsekretaer](https://www.spiegel.de/politik/deutschland/spd-vorstand-nominiert-kevin-kuehnert-einstimmig-als-neuen-generalsekretaer-a-4b225315-67e7-49a6-962f-3e0b9f1d9f3f#ref=rss)
+### florian
 
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-das-schicksal-der-gruenen-liegt-in-seiner-hand](https://www.spiegel.de/politik/deutschland/robert-habeck-das-schicksal-der-gruenen-liegt-in-seiner-hand-a-3e372153-0e25-4bf2-9db8-6da583e2f9dc#ref=rss)
-### hand
+* [https://www.spiegel.de/kultur/tv/hr-florian-hager-wird-neuer-intendant-des-hessischen-rundfunks](https://www.spiegel.de/kultur/tv/hr-florian-hager-wird-neuer-intendant-des-hessischen-rundfunks-a-2d6a4233-7b3b-4066-944b-cf5315624e9e#ref=rss)
+### hager
 
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-das-schicksal-der-gruenen-liegt-in-seiner-hand](https://www.spiegel.de/politik/deutschland/robert-habeck-das-schicksal-der-gruenen-liegt-in-seiner-hand-a-3e372153-0e25-4bf2-9db8-6da583e2f9dc#ref=rss)
-### gestorben
+* [https://www.spiegel.de/kultur/tv/hr-florian-hager-wird-neuer-intendant-des-hessischen-rundfunks](https://www.spiegel.de/kultur/tv/hr-florian-hager-wird-neuer-intendant-des-hessischen-rundfunks-a-2d6a4233-7b3b-4066-944b-cf5315624e9e#ref=rss)
+### hessischen
 
-* [https://www.spiegel.de/sport/leichtathletik-pate-lamine-diack-ist-tot](https://www.spiegel.de/sport/leichtathletik-pate-lamine-diack-ist-tot-a-aedb5036-de77-4346-9940-925ec7351620#ref=rss)
-* [https://www.spiegel.de/panorama/leute/marcus-lamb-daystar-gruender-stirbt-nach-corona-infektion](https://www.spiegel.de/panorama/leute/marcus-lamb-daystar-gruender-stirbt-nach-corona-infektion-a-44b572a2-8217-4b07-997b-b1590971383b#ref=rss)
-### kurileninseln
+* [https://www.spiegel.de/kultur/tv/hr-florian-hager-wird-neuer-intendant-des-hessischen-rundfunks](https://www.spiegel.de/kultur/tv/hr-florian-hager-wird-neuer-intendant-des-hessischen-rundfunks-a-2d6a4233-7b3b-4066-944b-cf5315624e9e#ref=rss)
+### wombo
 
-* [https://www.spiegel.de/ausland/kurilen-inseln-russland-schickt-abwehrraketen-auf-von-japan-beanspruchte-insel](https://www.spiegel.de/ausland/kurilen-inseln-russland-schickt-abwehrraketen-auf-von-japan-beanspruchte-insel-a-c22fda7a-76d6-4b6a-8f46-2ac4b6d684e2#ref=rss)
-### russland
+* [https://www.spiegel.de/netzwelt/wombo-dream-hier-verschmilzt-taylor-swift-mit-einem-weihnachtsbaum](https://www.spiegel.de/netzwelt/wombo-dream-hier-verschmilzt-taylor-swift-mit-einem-weihnachtsbaum-a-0e4a56b1-7f4a-41b4-9de7-0abea1b60d12#ref=rss)
+### dream
 
-* [https://www.spiegel.de/ausland/kurilen-inseln-russland-schickt-abwehrraketen-auf-von-japan-beanspruchte-insel](https://www.spiegel.de/ausland/kurilen-inseln-russland-schickt-abwehrraketen-auf-von-japan-beanspruchte-insel-a-c22fda7a-76d6-4b6a-8f46-2ac4b6d684e2#ref=rss)
-### abwehrraketen
+* [https://www.spiegel.de/netzwelt/wombo-dream-hier-verschmilzt-taylor-swift-mit-einem-weihnachtsbaum](https://www.spiegel.de/netzwelt/wombo-dream-hier-verschmilzt-taylor-swift-mit-einem-weihnachtsbaum-a-0e4a56b1-7f4a-41b4-9de7-0abea1b60d12#ref=rss)
+### künstliche
 
-* [https://www.spiegel.de/ausland/kurilen-inseln-russland-schickt-abwehrraketen-auf-von-japan-beanspruchte-insel](https://www.spiegel.de/ausland/kurilen-inseln-russland-schickt-abwehrraketen-auf-von-japan-beanspruchte-insel-a-c22fda7a-76d6-4b6a-8f46-2ac4b6d684e2#ref=rss)
-### japan
+* [https://www.spiegel.de/netzwelt/wombo-dream-hier-verschmilzt-taylor-swift-mit-einem-weihnachtsbaum](https://www.spiegel.de/netzwelt/wombo-dream-hier-verschmilzt-taylor-swift-mit-einem-weihnachtsbaum-a-0e4a56b1-7f4a-41b4-9de7-0abea1b60d12#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/klima-killer-landwirtschaft-maenner-die-mit-blitzen-auf-kuhmist-schiessen](https://www.spiegel.de/wissenschaft/technik/klima-killer-landwirtschaft-maenner-die-mit-blitzen-auf-kuhmist-schiessen-a-f03131f2-a77c-4db2-86d7-8ec69b1ba7af#ref=rss)
+### chile
 
-* [https://www.spiegel.de/ausland/kurilen-inseln-russland-schickt-abwehrraketen-auf-von-japan-beanspruchte-insel](https://www.spiegel.de/ausland/kurilen-inseln-russland-schickt-abwehrraketen-auf-von-japan-beanspruchte-insel-a-c22fda7a-76d6-4b6a-8f46-2ac4b6d684e2#ref=rss)
-### kongress
+* [https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen](https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen-a-fc54335e-c7b3-46f3-8b65-a9d72b2c0e72#ref=rss)
+### rassismus
 
-* [https://www.spiegel.de/ausland/usa-kongress-wendet-haushaltssperre-ab](https://www.spiegel.de/ausland/usa-kongress-wendet-haushaltssperre-ab-a-46d8ebf8-1796-4502-94d3-b81e86bd0f83#ref=rss)
-### februar
+* [https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen](https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen-a-fc54335e-c7b3-46f3-8b65-a9d72b2c0e72#ref=rss)
+### verlassen
 
-* [https://www.spiegel.de/ausland/usa-kongress-wendet-haushaltssperre-ab](https://www.spiegel.de/ausland/usa-kongress-wendet-haushaltssperre-ab-a-46d8ebf8-1796-4502-94d3-b81e86bd0f83#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kurzarbeit-steigt-erstmals-seit-februar-wieder](https://www.spiegel.de/wirtschaft/kurzarbeit-steigt-erstmals-seit-februar-wieder-a-737d5373-e4ed-4fb2-86ea-da094399873c#ref=rss)
-### kurzarbeit
+* [https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen](https://www.spiegel.de/ausland/chile-und-rassismus-warum-so-viele-haitianer-das-land-verlassen-a-fc54335e-c7b3-46f3-8b65-a9d72b2c0e72#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/wirtschaft/kurzarbeit-steigt-erstmals-seit-februar-wieder](https://www.spiegel.de/wirtschaft/kurzarbeit-steigt-erstmals-seit-februar-wieder-a-737d5373-e4ed-4fb2-86ea-da094399873c#ref=rss)
-### schwesig
+* [https://www.spiegel.de/wirtschaft/soziales/usa-wirtschaft-schafft-deutlich-weniger-arbeitsplaetze-als-erwartet](https://www.spiegel.de/wirtschaft/soziales/usa-wirtschaft-schafft-deutlich-weniger-arbeitsplaetze-als-erwartet-a-5b21274b-f323-42bf-bb76-c8e303ce4117#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-polizei-soll-sich-auf-kampf-gegen-corona-suender-konzentrieren](https://www.spiegel.de/politik/deutschland/corona-polizei-soll-sich-auf-kampf-gegen-corona-suender-konzentrieren-a-95021eb6-0923-4959-8fee-48f84d8385dd#ref=rss)
+### arbeitsplätze
 
-* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-zur-corona-lage-die-empfehlung-der-stiko-kam-viel-zu-spaet](https://www.spiegel.de/politik/deutschland/manuela-schwesig-zur-corona-lage-die-empfehlung-der-stiko-kam-viel-zu-spaet-a-8512897a-d4ec-40a3-b09b-90eadcd323b4#ref=rss)
-### coronalage
+* [https://www.spiegel.de/wirtschaft/soziales/usa-wirtschaft-schafft-deutlich-weniger-arbeitsplaetze-als-erwartet](https://www.spiegel.de/wirtschaft/soziales/usa-wirtschaft-schafft-deutlich-weniger-arbeitsplaetze-als-erwartet-a-5b21274b-f323-42bf-bb76-c8e303ce4117#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-zur-corona-lage-die-empfehlung-der-stiko-kam-viel-zu-spaet](https://www.spiegel.de/politik/deutschland/manuela-schwesig-zur-corona-lage-die-empfehlung-der-stiko-kam-viel-zu-spaet-a-8512897a-d4ec-40a3-b09b-90eadcd323b4#ref=rss)
-### stiko
+* [https://www.spiegel.de/wirtschaft/soziales/usa-wirtschaft-schafft-deutlich-weniger-arbeitsplaetze-als-erwartet](https://www.spiegel.de/wirtschaft/soziales/usa-wirtschaft-schafft-deutlich-weniger-arbeitsplaetze-als-erwartet-a-5b21274b-f323-42bf-bb76-c8e303ce4117#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-vorstand-nominiert-kevin-kuehnert-einstimmig-als-neuen-generalsekretaer](https://www.spiegel.de/politik/deutschland/spd-vorstand-nominiert-kevin-kuehnert-einstimmig-als-neuen-generalsekretaer-a-4b225315-67e7-49a6-962f-3e0b9f1d9f3f#ref=rss)
+### vorstand
 
-* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-zur-corona-lage-die-empfehlung-der-stiko-kam-viel-zu-spaet](https://www.spiegel.de/politik/deutschland/manuela-schwesig-zur-corona-lage-die-empfehlung-der-stiko-kam-viel-zu-spaet-a-8512897a-d4ec-40a3-b09b-90eadcd323b4#ref=rss)
-### macht
+* [https://www.spiegel.de/politik/deutschland/spd-vorstand-nominiert-kevin-kuehnert-einstimmig-als-neuen-generalsekretaer](https://www.spiegel.de/politik/deutschland/spd-vorstand-nominiert-kevin-kuehnert-einstimmig-als-neuen-generalsekretaer-a-4b225315-67e7-49a6-962f-3e0b9f1d9f3f#ref=rss)
+### omikronvariante
 
-* [https://www.spiegel.de/politik/deutschland/manuela-schwesig-zur-corona-lage-die-empfehlung-der-stiko-kam-viel-zu-spaet](https://www.spiegel.de/politik/deutschland/manuela-schwesig-zur-corona-lage-die-empfehlung-der-stiko-kam-viel-zu-spaet-a-8512897a-d4ec-40a3-b09b-90eadcd323b4#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter](https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter-a-b37e49e8-5d80-4e77-8cf5-12dee8b2f54b#ref=rss)
-### türkei
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-risiko-erneuter-ansteckung-bei-omikron-variante-laut-vorlaeufiger-studie-erhoeht](https://www.spiegel.de/wissenschaft/medizin/coronavirus-risiko-erneuter-ansteckung-bei-omikron-variante-laut-vorlaeufiger-studie-erhoeht-a-aea45449-cc61-46a6-b291-eb2005952603#ref=rss)
+### landwirtschaft
 
-* [https://www.spiegel.de/ausland/tuerkei-europarat-leitet-strafverfahren-wegen-osman-kavala-ein](https://www.spiegel.de/ausland/tuerkei-europarat-leitet-strafverfahren-wegen-osman-kavala-ein-a-9fe3d69d-f74c-42a9-ae5b-41af7c801c03#ref=rss)
-### europarat
+* [https://www.spiegel.de/wissenschaft/technik/klima-killer-landwirtschaft-maenner-die-mit-blitzen-auf-kuhmist-schiessen](https://www.spiegel.de/wissenschaft/technik/klima-killer-landwirtschaft-maenner-die-mit-blitzen-auf-kuhmist-schiessen-a-f03131f2-a77c-4db2-86d7-8ec69b1ba7af#ref=rss)
+### sarah
 
-* [https://www.spiegel.de/ausland/tuerkei-europarat-leitet-strafverfahren-wegen-osman-kavala-ein](https://www.spiegel.de/ausland/tuerkei-europarat-leitet-strafverfahren-wegen-osman-kavala-ein-a-9fe3d69d-f74c-42a9-ae5b-41af7c801c03#ref=rss)
-### osman
+* [https://www.spiegel.de/panorama/leute/sarah-engels-ueber-geburt-ihrer-tochter-voller-glueck-und-stolz](https://www.spiegel.de/panorama/leute/sarah-engels-ueber-geburt-ihrer-tochter-voller-glueck-und-stolz-a-1734c4e2-229b-42c0-ad31-1bd4b288991b#ref=rss)
+### engels
 
-* [https://www.spiegel.de/ausland/tuerkei-europarat-leitet-strafverfahren-wegen-osman-kavala-ein](https://www.spiegel.de/ausland/tuerkei-europarat-leitet-strafverfahren-wegen-osman-kavala-ein-a-9fe3d69d-f74c-42a9-ae5b-41af7c801c03#ref=rss)
-### kavala
+* [https://www.spiegel.de/panorama/leute/sarah-engels-ueber-geburt-ihrer-tochter-voller-glueck-und-stolz](https://www.spiegel.de/panorama/leute/sarah-engels-ueber-geburt-ihrer-tochter-voller-glueck-und-stolz-a-1734c4e2-229b-42c0-ad31-1bd4b288991b#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/ausland/tuerkei-europarat-leitet-strafverfahren-wegen-osman-kavala-ein](https://www.spiegel.de/ausland/tuerkei-europarat-leitet-strafverfahren-wegen-osman-kavala-ein-a-9fe3d69d-f74c-42a9-ae5b-41af7c801c03#ref=rss)
-### bisher
+* [https://www.spiegel.de/auto/deutsche-bahn-6-14-jaehrige-duerfen-kostenlos-fahren-auch-ohne-die-eltern](https://www.spiegel.de/auto/deutsche-bahn-6-14-jaehrige-duerfen-kostenlos-fahren-auch-ohne-die-eltern-a-596fdbfa-e91e-4add-aed1-074bd37032a6#ref=rss)
+### fahren
 
-* [https://www.spiegel.de/ausland/tuerkei-europarat-leitet-strafverfahren-wegen-osman-kavala-ein](https://www.spiegel.de/ausland/tuerkei-europarat-leitet-strafverfahren-wegen-osman-kavala-ein-a-9fe3d69d-f74c-42a9-ae5b-41af7c801c03#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verkauft-erneut-tesla-aktien-fuer-eine-milliarde-dollar](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verkauft-erneut-tesla-aktien-fuer-eine-milliarde-dollar-a-6efb1e76-7457-402d-afdb-7e4655f1a49c#ref=rss)
-### kaillie
+* [https://www.spiegel.de/auto/deutsche-bahn-6-14-jaehrige-duerfen-kostenlos-fahren-auch-ohne-die-eltern](https://www.spiegel.de/auto/deutsche-bahn-6-14-jaehrige-duerfen-kostenlos-fahren-auch-ohne-die-eltern-a-596fdbfa-e91e-4add-aed1-074bd37032a6#ref=rss)
+### klaus
 
-* [https://www.spiegel.de/sport/wintersport/bob-olympiasiegerin-kaillie-humphries-startet-jetzt-fuer-die-usa](https://www.spiegel.de/sport/wintersport/bob-olympiasiegerin-kaillie-humphries-startet-jetzt-fuer-die-usa-a-d4c1b6db-b5dc-483e-adc7-c89c8fe16584#ref=rss)
-### humphries
+* [https://www.spiegel.de/kultur/klaus-rainer-roehl-zu-seinem-tod-wanderer-zwischen-den-polen](https://www.spiegel.de/kultur/klaus-rainer-roehl-zu-seinem-tod-wanderer-zwischen-den-polen-a-587a27c5-aab0-464c-9efd-9ae7ddcd2ef3#ref=rss)
+### rainer
 
-* [https://www.spiegel.de/sport/wintersport/bob-olympiasiegerin-kaillie-humphries-startet-jetzt-fuer-die-usa](https://www.spiegel.de/sport/wintersport/bob-olympiasiegerin-kaillie-humphries-startet-jetzt-fuer-die-usa-a-d4c1b6db-b5dc-483e-adc7-c89c8fe16584#ref=rss)
-### wirft
+* [https://www.spiegel.de/kultur/klaus-rainer-roehl-zu-seinem-tod-wanderer-zwischen-den-polen](https://www.spiegel.de/kultur/klaus-rainer-roehl-zu-seinem-tod-wanderer-zwischen-den-polen-a-587a27c5-aab0-464c-9efd-9ae7ddcd2ef3#ref=rss)
+### röhl
 
-* [https://www.spiegel.de/sport/wintersport/bob-olympiasiegerin-kaillie-humphries-startet-jetzt-fuer-die-usa](https://www.spiegel.de/sport/wintersport/bob-olympiasiegerin-kaillie-humphries-startet-jetzt-fuer-die-usa-a-d4c1b6db-b5dc-483e-adc7-c89c8fe16584#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter](https://www.spiegel.de/ausland/oesterreich-wie-geht-es-ohne-sebastian-kurz-weiter-a-b37e49e8-5d80-4e77-8cf5-12dee8b2f54b#ref=rss)
-### marcus
+* [https://www.spiegel.de/kultur/klaus-rainer-roehl-zu-seinem-tod-wanderer-zwischen-den-polen](https://www.spiegel.de/kultur/klaus-rainer-roehl-zu-seinem-tod-wanderer-zwischen-den-polen-a-587a27c5-aab0-464c-9efd-9ae7ddcd2ef3#ref=rss)
+### steffen
 
-* [https://www.spiegel.de/panorama/leute/marcus-lamb-daystar-gruender-stirbt-nach-corona-infektion](https://www.spiegel.de/panorama/leute/marcus-lamb-daystar-gruender-stirbt-nach-corona-infektion-a-44b572a2-8217-4b07-997b-b1590971383b#ref=rss)
-### lamb
+* [https://www.spiegel.de/netzwelt/web/steffen-seibert-twitter-konto-des-regierungssprechers-wird-archiviert](https://www.spiegel.de/netzwelt/web/steffen-seibert-twitter-konto-des-regierungssprechers-wird-archiviert-a-a8a2a07d-0a56-4dd4-95c8-b00647f79a5f#ref=rss)
+### seibert
 
-* [https://www.spiegel.de/panorama/leute/marcus-lamb-daystar-gruender-stirbt-nach-corona-infektion](https://www.spiegel.de/panorama/leute/marcus-lamb-daystar-gruender-stirbt-nach-corona-infektion-a-44b572a2-8217-4b07-997b-b1590971383b#ref=rss)
-### elon
+* [https://www.spiegel.de/netzwelt/web/steffen-seibert-twitter-konto-des-regierungssprechers-wird-archiviert](https://www.spiegel.de/netzwelt/web/steffen-seibert-twitter-konto-des-regierungssprechers-wird-archiviert-a-a8a2a07d-0a56-4dd4-95c8-b00647f79a5f#ref=rss)
+### regierungssprechers
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verkauft-erneut-tesla-aktien-fuer-eine-milliarde-dollar](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verkauft-erneut-tesla-aktien-fuer-eine-milliarde-dollar-a-6efb1e76-7457-402d-afdb-7e4655f1a49c#ref=rss)
-### musk
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verkauft-erneut-tesla-aktien-fuer-eine-milliarde-dollar](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-verkauft-erneut-tesla-aktien-fuer-eine-milliarde-dollar-a-6efb1e76-7457-402d-afdb-7e4655f1a49c#ref=rss)
-### nfl
-
-* [https://www.spiegel.de/sport/nfl-sperrt-drei-football-profis-wegen-gefaelschter-impfpaesse](https://www.spiegel.de/sport/nfl-sperrt-drei-football-profis-wegen-gefaelschter-impfpaesse-a-eaecb6ac-654f-4608-9d66-da3b36d3bc77#ref=rss)
-### drei
-
-* [https://www.spiegel.de/sport/nfl-sperrt-drei-football-profis-wegen-gefaelschter-impfpaesse](https://www.spiegel.de/sport/nfl-sperrt-drei-football-profis-wegen-gefaelschter-impfpaesse-a-eaecb6ac-654f-4608-9d66-da3b36d3bc77#ref=rss)
-### impfpässe
-
-* [https://www.spiegel.de/sport/nfl-sperrt-drei-football-profis-wegen-gefaelschter-impfpaesse](https://www.spiegel.de/sport/nfl-sperrt-drei-football-profis-wegen-gefaelschter-impfpaesse-a-eaecb6ac-654f-4608-9d66-da3b36d3bc77#ref=rss)
-### atletico
-
-* [https://www.spiegel.de/sport/fussball/atletico-mineiro-feiert-meistertitel-in-brasilien-darauf-hat-er-klub-50-jahre-gewartet](https://www.spiegel.de/sport/fussball/atletico-mineiro-feiert-meistertitel-in-brasilien-darauf-hat-er-klub-50-jahre-gewartet-a-4b784cda-d09e-44e3-ba48-3660a91f7c53#ref=rss)
-### mineiro
-
-* [https://www.spiegel.de/sport/fussball/atletico-mineiro-feiert-meistertitel-in-brasilien-darauf-hat-er-klub-50-jahre-gewartet](https://www.spiegel.de/sport/fussball/atletico-mineiro-feiert-meistertitel-in-brasilien-darauf-hat-er-klub-50-jahre-gewartet-a-4b784cda-d09e-44e3-ba48-3660a91f7c53#ref=rss)
-### brasilien
-
-* [https://www.spiegel.de/sport/fussball/atletico-mineiro-feiert-meistertitel-in-brasilien-darauf-hat-er-klub-50-jahre-gewartet](https://www.spiegel.de/sport/fussball/atletico-mineiro-feiert-meistertitel-in-brasilien-darauf-hat-er-klub-50-jahre-gewartet-a-4b784cda-d09e-44e3-ba48-3660a91f7c53#ref=rss)
-### klub
-
-* [https://www.spiegel.de/sport/fussball/atletico-mineiro-feiert-meistertitel-in-brasilien-darauf-hat-er-klub-50-jahre-gewartet](https://www.spiegel.de/sport/fussball/atletico-mineiro-feiert-meistertitel-in-brasilien-darauf-hat-er-klub-50-jahre-gewartet-a-4b784cda-d09e-44e3-ba48-3660a91f7c53#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/steffen-seibert-twitter-konto-des-regierungssprechers-wird-archiviert](https://www.spiegel.de/netzwelt/web/steffen-seibert-twitter-konto-des-regierungssprechers-wird-archiviert-a-a8a2a07d-0a56-4dd4-95c8-b00647f79a5f#ref=rss)
 
