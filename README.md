@@ -112,13 +112,13 @@ profi(412) bayerische(411) la(411) madrid(411) mächtige(411) strand(411) terror
 
 ```
 date, investment, buy price, sell price
-2021-12-01 10:09:50, 1-EUR, 1.13 USD, 1.13 USD
-2021-12-01 10:09:50, 1-EUR, 7.23 CNY, 7.23 CNY
-2021-12-01 10:09:50, crude-oil-brent-barrel, 72.4 USD, 72.4 USD
-2021-12-01 10:09:51, gold-10g, 528.85 EUR, 500.79 EUR
-2021-12-01 10:09:55, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-12-01 10:09:56, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-12-01 10:09:58, lego-2019-60225-1-rovertestfahrt, 24.0 USD, 24.0 USD
+2021-12-08 10:09:51, 1-EUR, 1.12 USD, 1.12 USD
+2021-12-08 10:09:51, 1-EUR, 7.16 CNY, 7.16 CNY
+2021-12-08 10:09:52, crude-oil-brent-barrel, 75.66 USD, 75.66 USD
+2021-12-08 10:09:52, gold-10g, 532.99 EUR, 504.89 EUR
+2021-12-08 10:09:57, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-12-08 10:09:59, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-12-08 10:10:00, lego-2019-60225-1-rovertestfahrt, 25.0 USD, 25.0 USD
 ```
 
 <footer>
