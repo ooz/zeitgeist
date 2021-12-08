@@ -4,294 +4,317 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/zwickau-polizei-hebt-neonazi-vertrieb-fuer-weihnachtsschmuck-aus](https://www.spiegel.de/panorama/justiz/zwickau-polizei-hebt-neonazi-vertrieb-fuer-weihnachtsschmuck-aus-a-398edb92-f5c3-4f44-b5ae-d1be81e6f021#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-polizei-verhaftet-verdaechtigen-im-mordfall-khashoggi](https://www.spiegel.de/ausland/frankreich-polizei-verhaftet-verdaechtigen-im-mordfall-khashoggi-a-e699b1e2-b3a9-489d-b723-9e822c6251c6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik](https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik-a-a5a2c1aa-50a5-46ec-aa64-2b4e5fc30ec4#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/service/mehrwertsteuer-eu-staaten-wollen-ermaessigten-satz-auf-mehr-produkte-ermoeglichen](https://www.spiegel.de/wirtschaft/service/mehrwertsteuer-eu-staaten-wollen-ermaessigten-satz-auf-mehr-produkte-ermoeglichen-a-3175ca55-9aed-4b1b-ad05-b79098eb18c3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/zwickau-polizei-hebt-neonazi-vertrieb-fuer-weihnachtsschmuck-aus](https://www.spiegel.de/panorama/justiz/zwickau-polizei-hebt-neonazi-vertrieb-fuer-weihnachtsschmuck-aus-a-398edb92-f5c3-4f44-b5ae-d1be81e6f021#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik](https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik-a-a5a2c1aa-50a5-46ec-aa64-2b4e5fc30ec4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/duesseldorf-mitglied-von-al-nusra-front-zu-mehr-als-drei-jahren-haft-verurteilt](https://www.spiegel.de/politik/deutschland/duesseldorf-mitglied-von-al-nusra-front-zu-mehr-als-drei-jahren-haft-verurteilt-a-d9bfee03-3eb1-405e-b985-f9b65ca96087#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln-a-36cbf2fb-0575-4eb0-ab64-e01b3e84bad1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-christian-duerr-ist-neuer-fraktionsvorsitzender](https://www.spiegel.de/politik/deutschland/fdp-christian-duerr-ist-neuer-fraktionsvorsitzender-a-8ebb6e53-a6a4-4b34-aec7-4c83ec86490a#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln-a-36cbf2fb-0575-4eb0-ab64-e01b3e84bad1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende](https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende-a-94483ff0-c977-4eb6-9cba-f5540ce8139a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wasserstoff-lieferungen-rwe-kooperiert-mit-russischem-novatek-konzern](https://www.spiegel.de/wirtschaft/unternehmen/wasserstoff-lieferungen-rwe-kooperiert-mit-russischem-novatek-konzern-a-d998be4a-f58a-442c-be1c-15d12fe0d801#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/ausland/newsletter-die-lage-inside-austria-oesterreich-nach-dem-rueckzug-von-sebastian-kurz-aus-der-politik](https://www.spiegel.de/ausland/newsletter-die-lage-inside-austria-oesterreich-nach-dem-rueckzug-von-sebastian-kurz-aus-der-politik-a-9be88dbd-8f36-4f31-932b-c79efd6dfadc#ref=rss)
-* [https://www.spiegel.de/reise/europa/oesterreich-schweiz-frankreich-italien-welche-corona-regeln-gelten-jetzt-in-den-wintersportlaendern](https://www.spiegel.de/reise/europa/oesterreich-schweiz-frankreich-italien-welche-corona-regeln-gelten-jetzt-in-den-wintersportlaendern-a-d2085d80-fdb3-4264-99b7-c15f964840fc#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/ausland/newsletter-die-lage-inside-austria-oesterreich-nach-dem-rueckzug-von-sebastian-kurz-aus-der-politik](https://www.spiegel.de/ausland/newsletter-die-lage-inside-austria-oesterreich-nach-dem-rueckzug-von-sebastian-kurz-aus-der-politik-a-9be88dbd-8f36-4f31-932b-c79efd6dfadc#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-polizei-verhaftet-verdaechtigen-im-mordfall-khashoggi](https://www.spiegel.de/ausland/frankreich-polizei-verhaftet-verdaechtigen-im-mordfall-khashoggi-a-e699b1e2-b3a9-489d-b723-9e822c6251c6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik](https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik-a-a5a2c1aa-50a5-46ec-aa64-2b4e5fc30ec4#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/service/mehrwertsteuer-eu-staaten-wollen-ermaessigten-satz-auf-mehr-produkte-ermoeglichen](https://www.spiegel.de/wirtschaft/service/mehrwertsteuer-eu-staaten-wollen-ermaessigten-satz-auf-mehr-produkte-ermoeglichen-a-3175ca55-9aed-4b1b-ad05-b79098eb18c3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-koalitionsvertrag-der-ampel-infektionsschutzgesetz-olympiaboykott](https://www.spiegel.de/politik/deutschland/news-des-tages-koalitionsvertrag-der-ampel-infektionsschutzgesetz-olympiaboykott-a-84f34bff-7c11-4c39-ab99-ce2a4b0cb52c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende](https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende-a-94483ff0-c977-4eb6-9cba-f5540ce8139a#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/moskau-mutmasslicher-maskenverweigerer-erschiesst-zwei-personen](https://www.spiegel.de/panorama/justiz/moskau-mutmasslicher-maskenverweigerer-erschiesst-zwei-personen-a-ef03dc7d-765a-4cb0-9115-b56962262ca8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-zahl-der-alkoholtoten-in-grossbritannien-steigt-2020-auf-rekord](https://www.spiegel.de/wissenschaft/medizin/coronavirus-zahl-der-alkoholtoten-in-grossbritannien-steigt-2020-auf-rekord-a-7d152a93-b6e3-4981-9564-eae993fb11a5#ref=rss)
-* [https://www.spiegel.de/panorama/burundi-mindestens-38-tote-und-69-schwerverletzte-bei-gefaengnisbrand](https://www.spiegel.de/panorama/burundi-mindestens-38-tote-und-69-schwerverletzte-bei-gefaengnisbrand-a-7b1747a1-f1eb-4b39-add1-3f9a445a5143#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-hat-umzug-in-margot-honeckers-buero-bereits-eingeleitet](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-hat-umzug-in-margot-honeckers-buero-bereits-eingeleitet-a-c0554b4e-d810-4dd2-8908-48bcab25f54b#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-hat-umzug-in-margot-honeckers-buero-bereits-eingeleitet](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-hat-umzug-in-margot-honeckers-buero-bereits-eingeleitet-a-c0554b4e-d810-4dd2-8908-48bcab25f54b#ref=rss)
-### raus
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-hat-umzug-in-margot-honeckers-buero-bereits-eingeleitet](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-hat-umzug-in-margot-honeckers-buero-bereits-eingeleitet-a-c0554b4e-d810-4dd2-8908-48bcab25f54b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vishal-garg-von-better-com-entlaesst-900-beschaeftige-per-zoom-call-wegen-unproduktivitaet](https://www.spiegel.de/wirtschaft/unternehmen/vishal-garg-von-better-com-entlaesst-900-beschaeftige-per-zoom-call-wegen-unproduktivitaet-a-fd46cb2e-ed34-4986-919c-81b8ef7cc54c#ref=rss)
-### leben
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-hat-umzug-in-margot-honeckers-buero-bereits-eingeleitet](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-hat-umzug-in-margot-honeckers-buero-bereits-eingeleitet-a-c0554b4e-d810-4dd2-8908-48bcab25f54b#ref=rss)
-* [https://www.spiegel.de/panorama/burundi-mindestens-38-tote-und-69-schwerverletzte-bei-gefaengnisbrand](https://www.spiegel.de/panorama/burundi-mindestens-38-tote-und-69-schwerverletzte-bei-gefaengnisbrand-a-7b1747a1-f1eb-4b39-add1-3f9a445a5143#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-hat-umzug-in-margot-honeckers-buero-bereits-eingeleitet](https://www.spiegel.de/politik/deutschland/angela-merkel-cdu-hat-umzug-in-margot-honeckers-buero-bereits-eingeleitet-a-c0554b4e-d810-4dd2-8908-48bcab25f54b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-christian-duerr-ist-neuer-fraktionsvorsitzender](https://www.spiegel.de/politik/deutschland/fdp-christian-duerr-ist-neuer-fraktionsvorsitzender-a-8ebb6e53-a6a4-4b34-aec7-4c83ec86490a#ref=rss)
-### magnus
-
-* [https://www.spiegel.de/sport/schwach-wm-magnus-carlsen-besiegt-jan-nepomnjaschtschi-in-partie-neun](https://www.spiegel.de/sport/schwach-wm-magnus-carlsen-besiegt-jan-nepomnjaschtschi-in-partie-neun-a-1a4c73a0-eee6-4d8d-9317-e555397330fa#ref=rss)
-### carlsen
-
-* [https://www.spiegel.de/sport/schwach-wm-magnus-carlsen-besiegt-jan-nepomnjaschtschi-in-partie-neun](https://www.spiegel.de/sport/schwach-wm-magnus-carlsen-besiegt-jan-nepomnjaschtschi-in-partie-neun-a-1a4c73a0-eee6-4d8d-9317-e555397330fa#ref=rss)
-### jan
-
-* [https://www.spiegel.de/sport/schwach-wm-magnus-carlsen-besiegt-jan-nepomnjaschtschi-in-partie-neun](https://www.spiegel.de/sport/schwach-wm-magnus-carlsen-besiegt-jan-nepomnjaschtschi-in-partie-neun-a-1a4c73a0-eee6-4d8d-9317-e555397330fa#ref=rss)
-### nepomnjaschtschi
-
-* [https://www.spiegel.de/sport/schwach-wm-magnus-carlsen-besiegt-jan-nepomnjaschtschi-in-partie-neun](https://www.spiegel.de/sport/schwach-wm-magnus-carlsen-besiegt-jan-nepomnjaschtschi-in-partie-neun-a-1a4c73a0-eee6-4d8d-9317-e555397330fa#ref=rss)
-### nahm
-
-* [https://www.spiegel.de/sport/schwach-wm-magnus-carlsen-besiegt-jan-nepomnjaschtschi-in-partie-neun](https://www.spiegel.de/sport/schwach-wm-magnus-carlsen-besiegt-jan-nepomnjaschtschi-in-partie-neun-a-1a4c73a0-eee6-4d8d-9317-e555397330fa#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik](https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik-a-a5a2c1aa-50a5-46ec-aa64-2b4e5fc30ec4#ref=rss)
-### thüringen
-
-* [https://www.spiegel.de/panorama/gesellschaft/thueringen-22-prozent-der-einwohner-verharmlosen-coronavirus](https://www.spiegel.de/panorama/gesellschaft/thueringen-22-prozent-der-einwohner-verharmlosen-coronavirus-a-aa1b549d-ec92-491d-8527-9d23b75d33d0#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/panorama/gesellschaft/thueringen-22-prozent-der-einwohner-verharmlosen-coronavirus](https://www.spiegel.de/panorama/gesellschaft/thueringen-22-prozent-der-einwohner-verharmlosen-coronavirus-a-aa1b549d-ec92-491d-8527-9d23b75d33d0#ref=rss)
 ### olaf
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln-a-36cbf2fb-0575-4eb0-ab64-e01b3e84bad1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler](https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler-a-c06bef1f-713e-4e4e-b1f6-d05daae17da2#ref=rss)
+* [https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte](https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte-a-ee3ae9eb-6244-4649-b665-7bd97cd85692#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern](https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern-a-2bf1f672-518d-4962-b8ab-4d172dbc0ade#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier-a-b60f30bc-39ad-4836-982e-2433d701e962#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an](https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an-a-5c3e926a-844b-41b5-80db-c2acdea300e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt](https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt-a-d5600633-a835-4f8b-96c5-a9cf28342ca4#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream](https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream-a-2ea44c32-65d0-4ed7-ba1c-72d8f171c734#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog](https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog-a-5121a688-5d58-4956-9f66-63b75a3a7597#ref=rss)
 ### scholz
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln-a-36cbf2fb-0575-4eb0-ab64-e01b3e84bad1#ref=rss)
-### regierung
+* [https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler](https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler-a-c06bef1f-713e-4e4e-b1f6-d05daae17da2#ref=rss)
+* [https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte](https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte-a-ee3ae9eb-6244-4649-b665-7bd97cd85692#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern](https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern-a-2bf1f672-518d-4962-b8ab-4d172dbc0ade#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier-a-b60f30bc-39ad-4836-982e-2433d701e962#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an](https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an-a-5c3e926a-844b-41b5-80db-c2acdea300e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt](https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt-a-d5600633-a835-4f8b-96c5-a9cf28342ca4#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream](https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream-a-2ea44c32-65d0-4ed7-ba1c-72d8f171c734#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog](https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog-a-5121a688-5d58-4956-9f66-63b75a3a7597#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln-a-36cbf2fb-0575-4eb0-ab64-e01b3e84bad1#ref=rss)
-### ampel
+* [https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler](https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler-a-c06bef1f-713e-4e4e-b1f6-d05daae17da2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern](https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern-a-2bf1f672-518d-4962-b8ab-4d172dbc0ade#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier-a-b60f30bc-39ad-4836-982e-2433d701e962#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt](https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt-a-d5600633-a835-4f8b-96c5-a9cf28342ca4#ref=rss)
+* [https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel](https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel-a-1b1927c2-971a-41b7-a6e9-f3221ff184df#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream](https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream-a-2ea44c32-65d0-4ed7-ba1c-72d8f171c734#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog](https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog-a-5121a688-5d58-4956-9f66-63b75a3a7597#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln-a-36cbf2fb-0575-4eb0-ab64-e01b3e84bad1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-koalitionsvertrag-der-ampel-infektionsschutzgesetz-olympiaboykott](https://www.spiegel.de/politik/deutschland/news-des-tages-koalitionsvertrag-der-ampel-infektionsschutzgesetz-olympiaboykott-a-84f34bff-7c11-4c39-ab99-ce2a4b0cb52c#ref=rss)
-### lindner
+* [https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler](https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler-a-c06bef1f-713e-4e4e-b1f6-d05daae17da2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern](https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern-a-2bf1f672-518d-4962-b8ab-4d172dbc0ade#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier-a-b60f30bc-39ad-4836-982e-2433d701e962#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an](https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an-a-5c3e926a-844b-41b5-80db-c2acdea300e0#ref=rss)
+### bundeskanzler
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-ampel-koalition-die-regierung-spricht-in-raetseln-a-36cbf2fb-0575-4eb0-ab64-e01b3e84bad1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-christian-duerr-ist-neuer-fraktionsvorsitzender](https://www.spiegel.de/politik/deutschland/fdp-christian-duerr-ist-neuer-fraktionsvorsitzender-a-8ebb6e53-a6a4-4b34-aec7-4c83ec86490a#ref=rss)
-### lage
+* [https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler](https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler-a-c06bef1f-713e-4e4e-b1f6-d05daae17da2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern](https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern-a-2bf1f672-518d-4962-b8ab-4d172dbc0ade#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an](https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an-a-5c3e926a-844b-41b5-80db-c2acdea300e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt](https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt-a-d5600633-a835-4f8b-96c5-a9cf28342ca4#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream](https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream-a-2ea44c32-65d0-4ed7-ba1c-72d8f171c734#ref=rss)
+### angela
 
-* [https://www.spiegel.de/ausland/newsletter-die-lage-inside-austria-oesterreich-nach-dem-rueckzug-von-sebastian-kurz-aus-der-politik](https://www.spiegel.de/ausland/newsletter-die-lage-inside-austria-oesterreich-nach-dem-rueckzug-von-sebastian-kurz-aus-der-politik-a-9be88dbd-8f36-4f31-932b-c79efd6dfadc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-koalitionsvertrag-der-ampel-infektionsschutzgesetz-olympiaboykott](https://www.spiegel.de/politik/deutschland/news-des-tages-koalitionsvertrag-der-ampel-infektionsschutzgesetz-olympiaboykott-a-84f34bff-7c11-4c39-ab99-ce2a4b0cb52c#ref=rss)
-### jahren
+* [https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt](https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt-a-d5600633-a835-4f8b-96c5-a9cf28342ca4#ref=rss)
+* [https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel](https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel-a-1b1927c2-971a-41b7-a6e9-f3221ff184df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-die-schatten-auf-ihrer-kanzlerschaft-bilanz-in-sieben-kapiteln](https://www.spiegel.de/politik/deutschland/angela-merkel-die-schatten-auf-ihrer-kanzlerschaft-bilanz-in-sieben-kapiteln-a-7f4e662a-83d3-4911-90a3-529362b1d763#ref=rss)
+### merkel
 
-* [https://www.spiegel.de/ausland/newsletter-die-lage-inside-austria-oesterreich-nach-dem-rueckzug-von-sebastian-kurz-aus-der-politik](https://www.spiegel.de/ausland/newsletter-die-lage-inside-austria-oesterreich-nach-dem-rueckzug-von-sebastian-kurz-aus-der-politik-a-9be88dbd-8f36-4f31-932b-c79efd6dfadc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/duesseldorf-mitglied-von-al-nusra-front-zu-mehr-als-drei-jahren-haft-verurteilt](https://www.spiegel.de/politik/deutschland/duesseldorf-mitglied-von-al-nusra-front-zu-mehr-als-drei-jahren-haft-verurteilt-a-d9bfee03-3eb1-405e-b985-f9b65ca96087#ref=rss)
-### mehrwertsteuer
+* [https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt](https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt-a-d5600633-a835-4f8b-96c5-a9cf28342ca4#ref=rss)
+* [https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel](https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel-a-1b1927c2-971a-41b7-a6e9-f3221ff184df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-die-schatten-auf-ihrer-kanzlerschaft-bilanz-in-sieben-kapiteln](https://www.spiegel.de/politik/deutschland/angela-merkel-die-schatten-auf-ihrer-kanzlerschaft-bilanz-in-sieben-kapiteln-a-7f4e662a-83d3-4911-90a3-529362b1d763#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/wirtschaft/service/mehrwertsteuer-eu-staaten-wollen-ermaessigten-satz-auf-mehr-produkte-ermoeglichen](https://www.spiegel.de/wirtschaft/service/mehrwertsteuer-eu-staaten-wollen-ermaessigten-satz-auf-mehr-produkte-ermoeglichen-a-3175ca55-9aed-4b1b-ad05-b79098eb18c3#ref=rss)
-### produkte
+* [https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte](https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte-a-ee3ae9eb-6244-4649-b665-7bd97cd85692#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern](https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern-a-2bf1f672-518d-4962-b8ab-4d172dbc0ade#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-sorgt-fuer-massenabwanderung-von-mitarbeitern-im-gastgewerbe](https://www.spiegel.de/wirtschaft/corona-sorgt-fuer-massenabwanderung-von-mitarbeitern-im-gastgewerbe-a-6cd7c8f8-b086-4317-b8aa-f7e0330d8fad#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/wirtschaft/service/mehrwertsteuer-eu-staaten-wollen-ermaessigten-satz-auf-mehr-produkte-ermoeglichen](https://www.spiegel.de/wirtschaft/service/mehrwertsteuer-eu-staaten-wollen-ermaessigten-satz-auf-mehr-produkte-ermoeglichen-a-3175ca55-9aed-4b1b-ad05-b79098eb18c3#ref=rss)
-### eu
+* [https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte](https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte-a-ee3ae9eb-6244-4649-b665-7bd97cd85692#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an](https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an-a-5c3e926a-844b-41b5-80db-c2acdea300e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt](https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt-a-d5600633-a835-4f8b-96c5-a9cf28342ca4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog](https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog-a-5121a688-5d58-4956-9f66-63b75a3a7597#ref=rss)
+### china
 
-* [https://www.spiegel.de/wirtschaft/service/mehrwertsteuer-eu-staaten-wollen-ermaessigten-satz-auf-mehr-produkte-ermoeglichen](https://www.spiegel.de/wirtschaft/service/mehrwertsteuer-eu-staaten-wollen-ermaessigten-satz-auf-mehr-produkte-ermoeglichen-a-3175ca55-9aed-4b1b-ad05-b79098eb18c3#ref=rss)
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt](https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt-a-bd0c1b8b-d084-4b27-8e79-c4860bd4d29d#ref=rss)
-### amalia
+* [https://www.spiegel.de/netzwelt/gadgets/apple-soll-heimlich-vereinbarung-mit-chinesischer-regierung-getroffen-haben](https://www.spiegel.de/netzwelt/gadgets/apple-soll-heimlich-vereinbarung-mit-chinesischer-regierung-getroffen-haben-a-be71c6dc-5124-4dc5-96f3-754e29030818#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-nun-offenbar-auch-von-chipkrise-erfasst](https://www.spiegel.de/netzwelt/gadgets/apple-nun-offenbar-auch-von-chipkrise-erfasst-a-3203d8c1-727d-4300-9747-0b7f4075f8e9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olympische-winterspiele-in-china-nicola-beer-fordert-komplett-boykott](https://www.spiegel.de/politik/deutschland/olympische-winterspiele-in-china-nicola-beer-fordert-komplett-boykott-a-fb9268d7-94eb-444d-9133-97f86a14bdbc#ref=rss)
+### steinmeier
 
-* [https://www.spiegel.de/panorama/leute/niederlande-prinzessin-amalia-ist-nun-volljaehrig](https://www.spiegel.de/panorama/leute/niederlande-prinzessin-amalia-ist-nun-volljaehrig-a-6b026aa7-ab86-402a-84e4-65b98cd5061d#ref=rss)
-### hitzewellen
+* [https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler](https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler-a-c06bef1f-713e-4e4e-b1f6-d05daae17da2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier-a-b60f30bc-39ad-4836-982e-2433d701e962#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-und-hitzewellen-extreme-hitze-kann-extrem-teuer-werden](https://www.spiegel.de/wissenschaft/mensch/klimakrise-und-hitzewellen-extreme-hitze-kann-extrem-teuer-werden-a-d49f1677-a7bb-4e79-b1df-09559a15268e#ref=rss)
-### teuer
-
-* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-und-hitzewellen-extreme-hitze-kann-extrem-teuer-werden](https://www.spiegel.de/wissenschaft/mensch/klimakrise-und-hitzewellen-extreme-hitze-kann-extrem-teuer-werden-a-d49f1677-a7bb-4e79-b1df-09559a15268e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiekrise-strompreis-auf-rekordhoch](https://www.spiegel.de/wirtschaft/energiekrise-strompreis-auf-rekordhoch-a-1727779f-485e-4d71-bb06-40773e8c5db7#ref=rss)
-### sascha
-
-* [https://www.spiegel.de/sport/sascha-moelders-bei-1860-muenchen-was-hinter-der-suspendierung-des-publikumslieblings-steckt](https://www.spiegel.de/sport/sascha-moelders-bei-1860-muenchen-was-hinter-der-suspendierung-des-publikumslieblings-steckt-a-ca447a8d-6957-4446-a45b-804e617d568b#ref=rss)
-### mölders
-
-* [https://www.spiegel.de/sport/sascha-moelders-bei-1860-muenchen-was-hinter-der-suspendierung-des-publikumslieblings-steckt](https://www.spiegel.de/sport/sascha-moelders-bei-1860-muenchen-was-hinter-der-suspendierung-des-publikumslieblings-steckt-a-ca447a8d-6957-4446-a45b-804e617d568b#ref=rss)
-### 1860
-
-* [https://www.spiegel.de/sport/sascha-moelders-bei-1860-muenchen-was-hinter-der-suspendierung-des-publikumslieblings-steckt](https://www.spiegel.de/sport/sascha-moelders-bei-1860-muenchen-was-hinter-der-suspendierung-des-publikumslieblings-steckt-a-ca447a8d-6957-4446-a45b-804e617d568b#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/sport/sascha-moelders-bei-1860-muenchen-was-hinter-der-suspendierung-des-publikumslieblings-steckt](https://www.spiegel.de/sport/sascha-moelders-bei-1860-muenchen-was-hinter-der-suspendierung-des-publikumslieblings-steckt-a-ca447a8d-6957-4446-a45b-804e617d568b#ref=rss)
-### droht
-
-* [https://www.spiegel.de/sport/sascha-moelders-bei-1860-muenchen-was-hinter-der-suspendierung-des-publikumslieblings-steckt](https://www.spiegel.de/sport/sascha-moelders-bei-1860-muenchen-was-hinter-der-suspendierung-des-publikumslieblings-steckt-a-ca447a8d-6957-4446-a45b-804e617d568b#ref=rss)
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt](https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt-a-bd0c1b8b-d084-4b27-8e79-c4860bd4d29d#ref=rss)
+* [https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte](https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte-a-ee3ae9eb-6244-4649-b665-7bd97cd85692#ref=rss)
+* [https://www.spiegel.de/start/lufthansa-arbeitsgericht-entscheidet-ueber-klagen-von-nachwuchs-piloten](https://www.spiegel.de/start/lufthansa-arbeitsgericht-entscheidet-ueber-klagen-von-nachwuchs-piloten-a-b56a5941-f6c7-4beb-9346-c3e80800d774#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-nun-offenbar-auch-von-chipkrise-erfasst](https://www.spiegel.de/netzwelt/gadgets/apple-nun-offenbar-auch-von-chipkrise-erfasst-a-3203d8c1-727d-4300-9747-0b7f4075f8e9#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/panorama/justiz/zwickau-polizei-hebt-neonazi-vertrieb-fuer-weihnachtsschmuck-aus](https://www.spiegel.de/panorama/justiz/zwickau-polizei-hebt-neonazi-vertrieb-fuer-weihnachtsschmuck-aus-a-398edb92-f5c3-4f44-b5ae-d1be81e6f021#ref=rss)
-* [https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa](https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa-a-77825b22-4550-4056-b351-d638c99ae2d3#ref=rss)
-### galeria
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-will-in-corona-krise-erneut-staatliche-hilfe](https://www.spiegel.de/wirtschaft/unternehmen/galeria-will-in-corona-krise-erneut-staatliche-hilfe-a-b09b7c71-1613-4403-84b2-b7dea0e18c74#ref=rss)
-### koalitionsvertrag
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-koalitionsvertrag-der-ampel-infektionsschutzgesetz-olympiaboykott](https://www.spiegel.de/politik/deutschland/news-des-tages-koalitionsvertrag-der-ampel-infektionsschutzgesetz-olympiaboykott-a-84f34bff-7c11-4c39-ab99-ce2a4b0cb52c#ref=rss)
-### infektionsschutzgesetz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-koalitionsvertrag-der-ampel-infektionsschutzgesetz-olympiaboykott](https://www.spiegel.de/politik/deutschland/news-des-tages-koalitionsvertrag-der-ampel-infektionsschutzgesetz-olympiaboykott-a-84f34bff-7c11-4c39-ab99-ce2a4b0cb52c#ref=rss)
-### olympiaboykott
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-koalitionsvertrag-der-ampel-infektionsschutzgesetz-olympiaboykott](https://www.spiegel.de/politik/deutschland/news-des-tages-koalitionsvertrag-der-ampel-infektionsschutzgesetz-olympiaboykott-a-84f34bff-7c11-4c39-ab99-ce2a4b0cb52c#ref=rss)
-* [https://www.spiegel.de/ausland/olympia-boykott-der-usa-china-ist-brueskiert-die-analyse](https://www.spiegel.de/ausland/olympia-boykott-der-usa-china-ist-brueskiert-die-analyse-a-27d6f4e1-53ca-4273-9cc6-41025b352160#ref=rss)
-### corona
-
-* [https://www.spiegel.de/wissenschaft/medizin/kreuzimpfungen-bestimmte-kombinationen-fuehren-zu-besserer-immunantwort](https://www.spiegel.de/wissenschaft/medizin/kreuzimpfungen-bestimmte-kombinationen-fuehren-zu-besserer-immunantwort-a-4c8e527d-8433-4e31-ad9f-4e9f03ad0dbb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-zahl-der-alkoholtoten-in-grossbritannien-steigt-2020-auf-rekord](https://www.spiegel.de/wissenschaft/medizin/coronavirus-zahl-der-alkoholtoten-in-grossbritannien-steigt-2020-auf-rekord-a-7d152a93-b6e3-4981-9564-eae993fb11a5#ref=rss)
-### kreuzimpfungen
-
-* [https://www.spiegel.de/wissenschaft/medizin/kreuzimpfungen-bestimmte-kombinationen-fuehren-zu-besserer-immunantwort](https://www.spiegel.de/wissenschaft/medizin/kreuzimpfungen-bestimmte-kombinationen-fuehren-zu-besserer-immunantwort-a-4c8e527d-8433-4e31-ad9f-4e9f03ad0dbb#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-polizei-verhaftet-verdaechtigen-im-mordfall-khashoggi](https://www.spiegel.de/ausland/frankreich-polizei-verhaftet-verdaechtigen-im-mordfall-khashoggi-a-e699b1e2-b3a9-489d-b723-9e822c6251c6#ref=rss)
-* [https://www.spiegel.de/reise/europa/oesterreich-schweiz-frankreich-italien-welche-corona-regeln-gelten-jetzt-in-den-wintersportlaendern](https://www.spiegel.de/reise/europa/oesterreich-schweiz-frankreich-italien-welche-corona-regeln-gelten-jetzt-in-den-wintersportlaendern-a-d2085d80-fdb3-4264-99b7-c15f964840fc#ref=rss)
-### verhaftet
-
-* [https://www.spiegel.de/ausland/frankreich-polizei-verhaftet-verdaechtigen-im-mordfall-khashoggi](https://www.spiegel.de/ausland/frankreich-polizei-verhaftet-verdaechtigen-im-mordfall-khashoggi-a-e699b1e2-b3a9-489d-b723-9e822c6251c6#ref=rss)
-### khashoggi
-
-* [https://www.spiegel.de/ausland/frankreich-polizei-verhaftet-verdaechtigen-im-mordfall-khashoggi](https://www.spiegel.de/ausland/frankreich-polizei-verhaftet-verdaechtigen-im-mordfall-khashoggi-a-e699b1e2-b3a9-489d-b723-9e822c6251c6#ref=rss)
-### französische
-
-* [https://www.spiegel.de/ausland/frankreich-polizei-verhaftet-verdaechtigen-im-mordfall-khashoggi](https://www.spiegel.de/ausland/frankreich-polizei-verhaftet-verdaechtigen-im-mordfall-khashoggi-a-e699b1e2-b3a9-489d-b723-9e822c6251c6#ref=rss)
-* [https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa](https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa-a-77825b22-4550-4056-b351-d638c99ae2d3#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/panorama/justiz/moskau-mutmasslicher-maskenverweigerer-erschiesst-zwei-personen](https://www.spiegel.de/panorama/justiz/moskau-mutmasslicher-maskenverweigerer-erschiesst-zwei-personen-a-ef03dc7d-765a-4cb0-9115-b56962262ca8#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/moskau-mutmasslicher-maskenverweigerer-erschiesst-zwei-personen](https://www.spiegel.de/panorama/justiz/moskau-mutmasslicher-maskenverweigerer-erschiesst-zwei-personen-a-ef03dc7d-765a-4cb0-9115-b56962262ca8#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/moskau-mutmasslicher-maskenverweigerer-erschiesst-zwei-personen](https://www.spiegel.de/panorama/justiz/moskau-mutmasslicher-maskenverweigerer-erschiesst-zwei-personen-a-ef03dc7d-765a-4cb0-9115-b56962262ca8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik](https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik-a-a5a2c1aa-50a5-46ec-aa64-2b4e5fc30ec4#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-zahl-der-alkoholtoten-in-grossbritannien-steigt-2020-auf-rekord](https://www.spiegel.de/wissenschaft/medizin/coronavirus-zahl-der-alkoholtoten-in-grossbritannien-steigt-2020-auf-rekord-a-7d152a93-b6e3-4981-9564-eae993fb11a5#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-zahl-der-alkoholtoten-in-grossbritannien-steigt-2020-auf-rekord](https://www.spiegel.de/wissenschaft/medizin/coronavirus-zahl-der-alkoholtoten-in-grossbritannien-steigt-2020-auf-rekord-a-7d152a93-b6e3-4981-9564-eae993fb11a5#ref=rss)
-### nie
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-zahl-der-alkoholtoten-in-grossbritannien-steigt-2020-auf-rekord](https://www.spiegel.de/wissenschaft/medizin/coronavirus-zahl-der-alkoholtoten-in-grossbritannien-steigt-2020-auf-rekord-a-7d152a93-b6e3-4981-9564-eae993fb11a5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiekrise-strompreis-auf-rekordhoch](https://www.spiegel.de/wirtschaft/energiekrise-strompreis-auf-rekordhoch-a-1727779f-485e-4d71-bb06-40773e8c5db7#ref=rss)
+* [https://www.spiegel.de/start/guenstige-rezepte-drei-einfache-weihnachtsgeschenke-aus-der-kueche](https://www.spiegel.de/start/guenstige-rezepte-drei-einfache-weihnachtsgeschenke-aus-der-kueche-a-4c383fb9-8de9-4ade-861d-8073dc5f391c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-sorgt-fuer-massenabwanderung-von-mitarbeitern-im-gastgewerbe](https://www.spiegel.de/wirtschaft/corona-sorgt-fuer-massenabwanderung-von-mitarbeitern-im-gastgewerbe-a-6cd7c8f8-b086-4317-b8aa-f7e0330d8fad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bauunternehmen-erwarten-weitere-preissteigerungen](https://www.spiegel.de/wirtschaft/bauunternehmen-erwarten-weitere-preissteigerungen-a-d8a38482-4a9d-4dea-8359-bc23cf6183a3#ref=rss)
 ### gewählt
 
-* [https://www.spiegel.de/politik/deutschland/fdp-christian-duerr-ist-neuer-fraktionsvorsitzender](https://www.spiegel.de/politik/deutschland/fdp-christian-duerr-ist-neuer-fraktionsvorsitzender-a-8ebb6e53-a6a4-4b34-aec7-4c83ec86490a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende](https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende-a-94483ff0-c977-4eb6-9cba-f5540ce8139a#ref=rss)
-### vishal
+* [https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt](https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt-a-d5600633-a835-4f8b-96c5-a9cf28342ca4#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream](https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream-a-2ea44c32-65d0-4ed7-ba1c-72d8f171c734#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog](https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog-a-5121a688-5d58-4956-9f66-63b75a3a7597#ref=rss)
+### amtseid
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vishal-garg-von-better-com-entlaesst-900-beschaeftige-per-zoom-call-wegen-unproduktivitaet](https://www.spiegel.de/wirtschaft/unternehmen/vishal-garg-von-better-com-entlaesst-900-beschaeftige-per-zoom-call-wegen-unproduktivitaet-a-fd46cb2e-ed34-4986-919c-81b8ef7cc54c#ref=rss)
-### garg
+* [https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler](https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler-a-c06bef1f-713e-4e4e-b1f6-d05daae17da2#ref=rss)
+### ernennung
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vishal-garg-von-better-com-entlaesst-900-beschaeftige-per-zoom-call-wegen-unproduktivitaet](https://www.spiegel.de/wirtschaft/unternehmen/vishal-garg-von-better-com-entlaesst-900-beschaeftige-per-zoom-call-wegen-unproduktivitaet-a-fd46cb2e-ed34-4986-919c-81b8ef7cc54c#ref=rss)
-### bettercom
+* [https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler](https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler-a-c06bef1f-713e-4e4e-b1f6-d05daae17da2#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream](https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream-a-2ea44c32-65d0-4ed7-ba1c-72d8f171c734#ref=rss)
+### bundespräsident
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vishal-garg-von-better-com-entlaesst-900-beschaeftige-per-zoom-call-wegen-unproduktivitaet](https://www.spiegel.de/wirtschaft/unternehmen/vishal-garg-von-better-com-entlaesst-900-beschaeftige-per-zoom-call-wegen-unproduktivitaet-a-fd46cb2e-ed34-4986-919c-81b8ef7cc54c#ref=rss)
-### 900
+* [https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler](https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler-a-c06bef1f-713e-4e4e-b1f6-d05daae17da2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier-a-b60f30bc-39ad-4836-982e-2433d701e962#ref=rss)
+### frankwalter
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vishal-garg-von-better-com-entlaesst-900-beschaeftige-per-zoom-call-wegen-unproduktivitaet](https://www.spiegel.de/wirtschaft/unternehmen/vishal-garg-von-better-com-entlaesst-900-beschaeftige-per-zoom-call-wegen-unproduktivitaet-a-fd46cb2e-ed34-4986-919c-81b8ef7cc54c#ref=rss)
-### zoomcall
+* [https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler](https://www.spiegel.de/politik/deutschland/bundestag-olaf-scholz-leistet-amtseid-als-bundeskanzler-a-c06bef1f-713e-4e4e-b1f6-d05daae17da2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier-a-b60f30bc-39ad-4836-982e-2433d701e962#ref=rss)
+### job
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/vishal-garg-von-better-com-entlaesst-900-beschaeftige-per-zoom-call-wegen-unproduktivitaet](https://www.spiegel.de/wirtschaft/unternehmen/vishal-garg-von-better-com-entlaesst-900-beschaeftige-per-zoom-call-wegen-unproduktivitaet-a-fd46cb2e-ed34-4986-919c-81b8ef7cc54c#ref=rss)
-### ursula
+* [https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte](https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte-a-ee3ae9eb-6244-4649-b665-7bd97cd85692#ref=rss)
+### beachten
 
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt](https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt-a-bd0c1b8b-d084-4b27-8e79-c4860bd4d29d#ref=rss)
-### leyen
+* [https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte](https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte-a-ee3ae9eb-6244-4649-b665-7bd97cd85692#ref=rss)
+### sollte
 
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt](https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt-a-bd0c1b8b-d084-4b27-8e79-c4860bd4d29d#ref=rss)
-### russland
+* [https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte](https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte-a-ee3ae9eb-6244-4649-b665-7bd97cd85692#ref=rss)
+### zeit
 
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt](https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt-a-bd0c1b8b-d084-4b27-8e79-c4860bd4d29d#ref=rss)
-### ukrainekonflikt
+* [https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte](https://www.spiegel.de/karriere/karriere-was-olaf-scholz-im-neuen-job-beachten-sollte-a-ee3ae9eb-6244-4649-b665-7bd97cd85692#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-in-der-corona-pandemie-stand-heute-kann-ich-diese-aussage-machen](https://www.spiegel.de/politik/deutschland/jens-spahn-in-der-corona-pandemie-stand-heute-kann-ich-diese-aussage-machen-a-75e06e04-7c32-495c-8360-66ddf605f9f9#ref=rss)
+### apple
 
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt](https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt-a-bd0c1b8b-d084-4b27-8e79-c4860bd4d29d#ref=rss)
-### europa
+* [https://www.spiegel.de/netzwelt/gadgets/apple-soll-heimlich-vereinbarung-mit-chinesischer-regierung-getroffen-haben](https://www.spiegel.de/netzwelt/gadgets/apple-soll-heimlich-vereinbarung-mit-chinesischer-regierung-getroffen-haben-a-be71c6dc-5124-4dc5-96f3-754e29030818#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-nun-offenbar-auch-von-chipkrise-erfasst](https://www.spiegel.de/netzwelt/gadgets/apple-nun-offenbar-auch-von-chipkrise-erfasst-a-3203d8c1-727d-4300-9747-0b7f4075f8e9#ref=rss)
+### apples
 
-* [https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt](https://www.spiegel.de/ausland/ursula-von-der-leyen-droht-russland-mit-neuen-sanktionen-im-ukraine-konflikt-a-bd0c1b8b-d084-4b27-8e79-c4860bd4d29d#ref=rss)
-* [https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa](https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa-a-77825b22-4550-4056-b351-d638c99ae2d3#ref=rss)
-### katharina
+* [https://www.spiegel.de/netzwelt/gadgets/apple-soll-heimlich-vereinbarung-mit-chinesischer-regierung-getroffen-haben](https://www.spiegel.de/netzwelt/gadgets/apple-soll-heimlich-vereinbarung-mit-chinesischer-regierung-getroffen-haben-a-be71c6dc-5124-4dc5-96f3-754e29030818#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-nun-offenbar-auch-von-chipkrise-erfasst](https://www.spiegel.de/netzwelt/gadgets/apple-nun-offenbar-auch-von-chipkrise-erfasst-a-3203d8c1-727d-4300-9747-0b7f4075f8e9#ref=rss)
+### wichtigsten
 
-* [https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende](https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende-a-94483ff0-c977-4eb6-9cba-f5540ce8139a#ref=rss)
-### dröge
+* [https://www.spiegel.de/netzwelt/gadgets/apple-soll-heimlich-vereinbarung-mit-chinesischer-regierung-getroffen-haben](https://www.spiegel.de/netzwelt/gadgets/apple-soll-heimlich-vereinbarung-mit-chinesischer-regierung-getroffen-haben-a-be71c6dc-5124-4dc5-96f3-754e29030818#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog](https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog-a-5121a688-5d58-4956-9f66-63b75a3a7597#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende](https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende-a-94483ff0-c977-4eb6-9cba-f5540ce8139a#ref=rss)
-### britta
+* [https://www.spiegel.de/netzwelt/gadgets/apple-soll-heimlich-vereinbarung-mit-chinesischer-regierung-getroffen-haben](https://www.spiegel.de/netzwelt/gadgets/apple-soll-heimlich-vereinbarung-mit-chinesischer-regierung-getroffen-haben-a-be71c6dc-5124-4dc5-96f3-754e29030818#ref=rss)
+* [https://www.spiegel.de/wirtschaft/corona-sorgt-fuer-massenabwanderung-von-mitarbeitern-im-gastgewerbe](https://www.spiegel.de/wirtschaft/corona-sorgt-fuer-massenabwanderung-von-mitarbeitern-im-gastgewerbe-a-6cd7c8f8-b086-4317-b8aa-f7e0330d8fad#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende](https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende-a-94483ff0-c977-4eb6-9cba-f5540ce8139a#ref=rss)
-### haßelmann
+* [https://www.spiegel.de/netzwelt/gadgets/apple-soll-heimlich-vereinbarung-mit-chinesischer-regierung-getroffen-haben](https://www.spiegel.de/netzwelt/gadgets/apple-soll-heimlich-vereinbarung-mit-chinesischer-regierung-getroffen-haben-a-be71c6dc-5124-4dc5-96f3-754e29030818#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-nun-offenbar-auch-von-chipkrise-erfasst](https://www.spiegel.de/netzwelt/gadgets/apple-nun-offenbar-auch-von-chipkrise-erfasst-a-3203d8c1-727d-4300-9747-0b7f4075f8e9#ref=rss)
+### drei
 
-* [https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende](https://www.spiegel.de/politik/deutschland/gruene-katharina-droege-und-britta-hasselmann-neue-fraktionsvorsitzende-a-94483ff0-c977-4eb6-9cba-f5540ce8139a#ref=rss)
-### köln
+* [https://www.spiegel.de/start/guenstige-rezepte-drei-einfache-weihnachtsgeschenke-aus-der-kueche](https://www.spiegel.de/start/guenstige-rezepte-drei-einfache-weihnachtsgeschenke-aus-der-kueche-a-4c383fb9-8de9-4ade-861d-8073dc5f391c#ref=rss)
+### jens
 
-* [https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik](https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik-a-a5a2c1aa-50a5-46ec-aa64-2b4e5fc30ec4#ref=rss)
-### fest
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-in-der-corona-pandemie-stand-heute-kann-ich-diese-aussage-machen](https://www.spiegel.de/politik/deutschland/jens-spahn-in-der-corona-pandemie-stand-heute-kann-ich-diese-aussage-machen-a-75e06e04-7c32-495c-8360-66ddf605f9f9#ref=rss)
+### coronapandemie
 
-* [https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik](https://www.spiegel.de/panorama/justiz/koeln-19-jaehriger-kollabiert-im-polizeigewahrsam-und-stirbt-in-klinik-a-a5a2c1aa-50a5-46ec-aa64-2b4e5fc30ec4#ref=rss)
-* [https://www.spiegel.de/ausland/olympia-boykott-der-usa-china-ist-brueskiert-die-analyse](https://www.spiegel.de/ausland/olympia-boykott-der-usa-china-ist-brueskiert-die-analyse-a-27d6f4e1-53ca-4273-9cc6-41025b352160#ref=rss)
-### juan
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-in-der-corona-pandemie-stand-heute-kann-ich-diese-aussage-machen](https://www.spiegel.de/politik/deutschland/jens-spahn-in-der-corona-pandemie-stand-heute-kann-ich-diese-aussage-machen-a-75e06e04-7c32-495c-8360-66ddf605f9f9#ref=rss)
+### ich
 
-* [https://www.spiegel.de/panorama/justiz/london-juan-carlos-beruft-sich-in-gerichtsstreit-mit-ex-geliebter-auf-immunitaet](https://www.spiegel.de/panorama/justiz/london-juan-carlos-beruft-sich-in-gerichtsstreit-mit-ex-geliebter-auf-immunitaet-a-f26849ef-dddb-4470-b0ac-13b4b008e596#ref=rss)
-### carlos
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-in-der-corona-pandemie-stand-heute-kann-ich-diese-aussage-machen](https://www.spiegel.de/politik/deutschland/jens-spahn-in-der-corona-pandemie-stand-heute-kann-ich-diese-aussage-machen-a-75e06e04-7c32-495c-8360-66ddf605f9f9#ref=rss)
+* [https://www.spiegel.de/ausland/finnland-sanna-marin-entschuldigt-sich-wegen-party-nacht-nach-corona-kontakt](https://www.spiegel.de/ausland/finnland-sanna-marin-entschuldigt-sich-wegen-party-nacht-nach-corona-kontakt-a-b7ccd054-20fa-47b3-875a-9dcfa6fd8b79#ref=rss)
+### geprägt
 
-* [https://www.spiegel.de/panorama/justiz/london-juan-carlos-beruft-sich-in-gerichtsstreit-mit-ex-geliebter-auf-immunitaet](https://www.spiegel.de/panorama/justiz/london-juan-carlos-beruft-sich-in-gerichtsstreit-mit-ex-geliebter-auf-immunitaet-a-f26849ef-dddb-4470-b0ac-13b4b008e596#ref=rss)
-### schweiz
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-in-der-corona-pandemie-stand-heute-kann-ich-diese-aussage-machen](https://www.spiegel.de/politik/deutschland/jens-spahn-in-der-corona-pandemie-stand-heute-kann-ich-diese-aussage-machen-a-75e06e04-7c32-495c-8360-66ddf605f9f9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-die-schatten-auf-ihrer-kanzlerschaft-bilanz-in-sieben-kapiteln](https://www.spiegel.de/politik/deutschland/angela-merkel-die-schatten-auf-ihrer-kanzlerschaft-bilanz-in-sieben-kapiteln-a-7f4e662a-83d3-4911-90a3-529362b1d763#ref=rss)
+### oft
 
-* [https://www.spiegel.de/reise/europa/oesterreich-schweiz-frankreich-italien-welche-corona-regeln-gelten-jetzt-in-den-wintersportlaendern](https://www.spiegel.de/reise/europa/oesterreich-schweiz-frankreich-italien-welche-corona-regeln-gelten-jetzt-in-den-wintersportlaendern-a-d2085d80-fdb3-4264-99b7-c15f964840fc#ref=rss)
-### ranking
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-in-der-corona-pandemie-stand-heute-kann-ich-diese-aussage-machen](https://www.spiegel.de/politik/deutschland/jens-spahn-in-der-corona-pandemie-stand-heute-kann-ich-diese-aussage-machen-a-75e06e04-7c32-495c-8360-66ddf605f9f9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-bye-bye-herr-verkehrsminister](https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-bye-bye-herr-verkehrsminister-a-f5c05490-cc85-4a75-8087-c9232f6448d0#ref=rss)
+### volkswagen
 
-* [https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa](https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa-a-77825b22-4550-4056-b351-d638c99ae2d3#ref=rss)
-### top
+* [https://www.spiegel.de/wirtschaft/volkswagen-audi-managerin-hildegard-wortmann-rueckt-in-den-konzern-vorstand-auf](https://www.spiegel.de/wirtschaft/volkswagen-audi-managerin-hildegard-wortmann-rueckt-in-den-konzern-vorstand-auf-a-ee296af1-c8cc-4337-85d9-be68027ebef2#ref=rss)
+### hildegard
 
-* [https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa](https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa-a-77825b22-4550-4056-b351-d638c99ae2d3#ref=rss)
-### ten
+* [https://www.spiegel.de/wirtschaft/volkswagen-audi-managerin-hildegard-wortmann-rueckt-in-den-konzern-vorstand-auf](https://www.spiegel.de/wirtschaft/volkswagen-audi-managerin-hildegard-wortmann-rueckt-in-den-konzern-vorstand-auf-a-ee296af1-c8cc-4337-85d9-be68027ebef2#ref=rss)
+### wortmann
 
-* [https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa](https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa-a-77825b22-4550-4056-b351-d638c99ae2d3#ref=rss)
-### deutsche
+* [https://www.spiegel.de/wirtschaft/volkswagen-audi-managerin-hildegard-wortmann-rueckt-in-den-konzern-vorstand-auf](https://www.spiegel.de/wirtschaft/volkswagen-audi-managerin-hildegard-wortmann-rueckt-in-den-konzern-vorstand-auf-a-ee296af1-c8cc-4337-85d9-be68027ebef2#ref=rss)
+### gefunden
 
-* [https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa](https://www.spiegel.de/karriere/ranking-die-top-ten-der-wirtschaftshochschulen-in-europa-a-77825b22-4550-4056-b351-d638c99ae2d3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/wasserstoff-lieferungen-rwe-kooperiert-mit-russischem-novatek-konzern](https://www.spiegel.de/wirtschaft/unternehmen/wasserstoff-lieferungen-rwe-kooperiert-mit-russischem-novatek-konzern-a-d998be4a-f58a-442c-be1c-15d12fe0d801#ref=rss)
-### rwe
+* [https://www.spiegel.de/wirtschaft/volkswagen-audi-managerin-hildegard-wortmann-rueckt-in-den-konzern-vorstand-auf](https://www.spiegel.de/wirtschaft/volkswagen-audi-managerin-hildegard-wortmann-rueckt-in-den-konzern-vorstand-auf-a-ee296af1-c8cc-4337-85d9-be68027ebef2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-haushalt-republikaner-bieten-schlupfloch-zu-hoeherer-schuldengrenze-an](https://www.spiegel.de/wirtschaft/us-haushalt-republikaner-bieten-schlupfloch-zu-hoeherer-schuldengrenze-an-a-94711a03-6d21-4724-a700-121c666a7630#ref=rss)
+### lufthansa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/wasserstoff-lieferungen-rwe-kooperiert-mit-russischem-novatek-konzern](https://www.spiegel.de/wirtschaft/unternehmen/wasserstoff-lieferungen-rwe-kooperiert-mit-russischem-novatek-konzern-a-d998be4a-f58a-442c-be1c-15d12fe0d801#ref=rss)
-### rentenversicherung
+* [https://www.spiegel.de/start/lufthansa-arbeitsgericht-entscheidet-ueber-klagen-von-nachwuchs-piloten](https://www.spiegel.de/start/lufthansa-arbeitsgericht-entscheidet-ueber-klagen-von-nachwuchs-piloten-a-b56a5941-f6c7-4beb-9346-c3e80800d774#ref=rss)
+### klagen
 
-* [https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-muss-negativzinsen-in-millionenhoehe-zahlen](https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-muss-negativzinsen-in-millionenhoehe-zahlen-a-42bd12fa-107b-48a5-ac35-72e1f3404228#ref=rss)
-### treffen
+* [https://www.spiegel.de/start/lufthansa-arbeitsgericht-entscheidet-ueber-klagen-von-nachwuchs-piloten](https://www.spiegel.de/start/lufthansa-arbeitsgericht-entscheidet-ueber-klagen-von-nachwuchs-piloten-a-b56a5941-f6c7-4beb-9346-c3e80800d774#ref=rss)
+### viele
 
-* [https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-muss-negativzinsen-in-millionenhoehe-zahlen](https://www.spiegel.de/wirtschaft/soziales/rentenversicherung-muss-negativzinsen-in-millionenhoehe-zahlen-a-42bd12fa-107b-48a5-ac35-72e1f3404228#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiekrise-strompreis-auf-rekordhoch](https://www.spiegel.de/wirtschaft/energiekrise-strompreis-auf-rekordhoch-a-1727779f-485e-4d71-bb06-40773e8c5db7#ref=rss)
-### burundi
+* [https://www.spiegel.de/start/lufthansa-arbeitsgericht-entscheidet-ueber-klagen-von-nachwuchs-piloten](https://www.spiegel.de/start/lufthansa-arbeitsgericht-entscheidet-ueber-klagen-von-nachwuchs-piloten-a-b56a5941-f6c7-4beb-9346-c3e80800d774#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bauunternehmen-erwarten-weitere-preissteigerungen](https://www.spiegel.de/wirtschaft/bauunternehmen-erwarten-weitere-preissteigerungen-a-d8a38482-4a9d-4dea-8359-bc23cf6183a3#ref=rss)
+### standen
 
-* [https://www.spiegel.de/panorama/burundi-mindestens-38-tote-und-69-schwerverletzte-bei-gefaengnisbrand](https://www.spiegel.de/panorama/burundi-mindestens-38-tote-und-69-schwerverletzte-bei-gefaengnisbrand-a-7b1747a1-f1eb-4b39-add1-3f9a445a5143#ref=rss)
-### gefängnisbrand
+* [https://www.spiegel.de/netzwelt/gadgets/apple-nun-offenbar-auch-von-chipkrise-erfasst](https://www.spiegel.de/netzwelt/gadgets/apple-nun-offenbar-auch-von-chipkrise-erfasst-a-3203d8c1-727d-4300-9747-0b7f4075f8e9#ref=rss)
+* [https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel](https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel-a-1b1927c2-971a-41b7-a6e9-f3221ff184df#ref=rss)
+### bildern
 
-* [https://www.spiegel.de/panorama/burundi-mindestens-38-tote-und-69-schwerverletzte-bei-gefaengnisbrand](https://www.spiegel.de/panorama/burundi-mindestens-38-tote-und-69-schwerverletzte-bei-gefaengnisbrand-a-7b1747a1-f1eb-4b39-add1-3f9a445a5143#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern](https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern-a-2bf1f672-518d-4962-b8ab-4d172dbc0ade#ref=rss)
+### kam
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern](https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern-a-2bf1f672-518d-4962-b8ab-4d172dbc0ade#ref=rss)
+* [https://www.spiegel.de/kultur/dwanyne-johnson-bei-people-s-choice-awards-der-abraeumer](https://www.spiegel.de/kultur/dwanyne-johnson-bei-people-s-choice-awards-der-abraeumer-a-c990df28-a2aa-4632-a3c8-6e59652788d4#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern](https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern-a-2bf1f672-518d-4962-b8ab-4d172dbc0ade#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/umfrage-sorgen-um-klima-corona-pflege-aber-am-meisten-um-den-eigenen-geldbeutel](https://www.spiegel.de/wirtschaft/soziales/umfrage-sorgen-um-klima-corona-pflege-aber-am-meisten-um-den-eigenen-geldbeutel-a-e3b210cf-0ffa-4e7e-a5d9-e83918ba8899#ref=rss)
+### ampelkoalition
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern](https://www.spiegel.de/politik/deutschland/olaf-scholz-die-wahl-des-neuen-bundeskanzlers-in-bildern-a-2bf1f672-518d-4962-b8ab-4d172dbc0ade#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bauunternehmen-erwarten-weitere-preissteigerungen](https://www.spiegel.de/wirtschaft/bauunternehmen-erwarten-weitere-preissteigerungen-a-d8a38482-4a9d-4dea-8359-bc23cf6183a3#ref=rss)
+### ernennungsurkunde
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier-a-b60f30bc-39ad-4836-982e-2433d701e962#ref=rss)
+### weg
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier-a-b60f30bc-39ad-4836-982e-2433d701e962#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-haushalt-republikaner-bieten-schlupfloch-zu-hoeherer-schuldengrenze-an](https://www.spiegel.de/wirtschaft/us-haushalt-republikaner-bieten-schlupfloch-zu-hoeherer-schuldengrenze-an-a-94711a03-6d21-4724-a700-121c666a7630#ref=rss)
+### geschafft
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/olaf-scholz-erhaelt-ernennungsurkunde-von-frank-walter-steinmeier-a-b60f30bc-39ad-4836-982e-2433d701e962#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an](https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an-a-5c3e926a-844b-41b5-80db-c2acdea300e0#ref=rss)
+### stimmen
+
+* [https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an](https://www.spiegel.de/politik/olaf-scholz-nimmt-die-wahl-zum-bundeskanzler-an-a-5c3e926a-844b-41b5-80db-c2acdea300e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt](https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt-a-d5600633-a835-4f8b-96c5-a9cf28342ca4#ref=rss)
+### sanna
+
+* [https://www.spiegel.de/ausland/finnland-sanna-marin-entschuldigt-sich-wegen-party-nacht-nach-corona-kontakt](https://www.spiegel.de/ausland/finnland-sanna-marin-entschuldigt-sich-wegen-party-nacht-nach-corona-kontakt-a-b7ccd054-20fa-47b3-875a-9dcfa6fd8b79#ref=rss)
+### marin
+
+* [https://www.spiegel.de/ausland/finnland-sanna-marin-entschuldigt-sich-wegen-party-nacht-nach-corona-kontakt](https://www.spiegel.de/ausland/finnland-sanna-marin-entschuldigt-sich-wegen-party-nacht-nach-corona-kontakt-a-b7ccd054-20fa-47b3-875a-9dcfa6fd8b79#ref=rss)
+### bangladesch
+
+* [https://www.spiegel.de/panorama/justiz/bangladesch-20-studenten-wegen-mord-an-kommilitonen-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/bangladesch-20-studenten-wegen-mord-an-kommilitonen-zum-tode-verurteilt-a-b1cf1b4e-d5c3-403d-9468-8681c8441453#ref=rss)
+### 20
+
+* [https://www.spiegel.de/panorama/justiz/bangladesch-20-studenten-wegen-mord-an-kommilitonen-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/bangladesch-20-studenten-wegen-mord-an-kommilitonen-zum-tode-verurteilt-a-b1cf1b4e-d5c3-403d-9468-8681c8441453#ref=rss)
+### studenten
+
+* [https://www.spiegel.de/panorama/justiz/bangladesch-20-studenten-wegen-mord-an-kommilitonen-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/bangladesch-20-studenten-wegen-mord-an-kommilitonen-zum-tode-verurteilt-a-b1cf1b4e-d5c3-403d-9468-8681c8441453#ref=rss)
+### tode
+
+* [https://www.spiegel.de/panorama/justiz/bangladesch-20-studenten-wegen-mord-an-kommilitonen-zum-tode-verurteilt](https://www.spiegel.de/panorama/justiz/bangladesch-20-studenten-wegen-mord-an-kommilitonen-zum-tode-verurteilt-a-b1cf1b4e-d5c3-403d-9468-8681c8441453#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt](https://www.spiegel.de/politik/deutschland/deutschland-olaf-scholz-im-bundestag-zum-bundeskanzler-gewaehlt-a-d5600633-a835-4f8b-96c5-a9cf28342ca4#ref=rss)
+* [https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream](https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream-a-2ea44c32-65d0-4ed7-ba1c-72d8f171c734#ref=rss)
+### scheidende
+
+* [https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel](https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel-a-1b1927c2-971a-41b7-a6e9-f3221ff184df#ref=rss)
+### kanzlerin
+
+* [https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel](https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel-a-1b1927c2-971a-41b7-a6e9-f3221ff184df#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel](https://www.spiegel.de/politik/standing-ovations-fuer-angela-merkel-a-1b1927c2-971a-41b7-a6e9-f3221ff184df#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog](https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog-a-5121a688-5d58-4956-9f66-63b75a3a7597#ref=rss)
+### razzien
+
+* [https://www.spiegel.de/panorama/justiz/berlin-und-brandenburg-bundesweite-razzien-gegen-schleuserbande](https://www.spiegel.de/panorama/justiz/berlin-und-brandenburg-bundesweite-razzien-gegen-schleuserbande-a-8a07a296-7607-455b-92c8-e5ce114033df#ref=rss)
+### ivo
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-afd-abgeordneter-ivo-teichmann-muss-mit-corona-erkrankung-in-klinik](https://www.spiegel.de/politik/deutschland/sachsen-afd-abgeordneter-ivo-teichmann-muss-mit-corona-erkrankung-in-klinik-a-b363a51d-24cb-4533-8599-804167d6e367#ref=rss)
+### teichmann
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-afd-abgeordneter-ivo-teichmann-muss-mit-corona-erkrankung-in-klinik](https://www.spiegel.de/politik/deutschland/sachsen-afd-abgeordneter-ivo-teichmann-muss-mit-corona-erkrankung-in-klinik-a-b363a51d-24cb-4533-8599-804167d6e367#ref=rss)
+### andreas
+
+* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-bye-bye-herr-verkehrsminister](https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-bye-bye-herr-verkehrsminister-a-f5c05490-cc85-4a75-8087-c9232f6448d0#ref=rss)
+### scheuer
+
+* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-bye-bye-herr-verkehrsminister](https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-bye-bye-herr-verkehrsminister-a-f5c05490-cc85-4a75-8087-c9232f6448d0#ref=rss)
+### minister
+
+* [https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-bye-bye-herr-verkehrsminister](https://www.spiegel.de/politik/deutschland/andreas-scheuer-csu-bye-bye-herr-verkehrsminister-a-f5c05490-cc85-4a75-8087-c9232f6448d0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog](https://www.spiegel.de/politik/deutschland/olaf-scholz-soll-zum-kanzler-gewaehlt-werden-newsblog-a-5121a688-5d58-4956-9f66-63b75a3a7597#ref=rss)
+### corona
+
+* [https://www.spiegel.de/wirtschaft/corona-sorgt-fuer-massenabwanderung-von-mitarbeitern-im-gastgewerbe](https://www.spiegel.de/wirtschaft/corona-sorgt-fuer-massenabwanderung-von-mitarbeitern-im-gastgewerbe-a-6cd7c8f8-b086-4317-b8aa-f7e0330d8fad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/umfrage-sorgen-um-klima-corona-pflege-aber-am-meisten-um-den-eigenen-geldbeutel](https://www.spiegel.de/wirtschaft/soziales/umfrage-sorgen-um-klima-corona-pflege-aber-am-meisten-um-den-eigenen-geldbeutel-a-e3b210cf-0ffa-4e7e-a5d9-e83918ba8899#ref=rss)
+### gastgewerbe
+
+* [https://www.spiegel.de/wirtschaft/corona-sorgt-fuer-massenabwanderung-von-mitarbeitern-im-gastgewerbe](https://www.spiegel.de/wirtschaft/corona-sorgt-fuer-massenabwanderung-von-mitarbeitern-im-gastgewerbe-a-6cd7c8f8-b086-4317-b8aa-f7e0330d8fad#ref=rss)
+### livestream
+
+* [https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream](https://www.spiegel.de/politik/olaf-scholz-kanzlerwahl-im-bundestag-im-livestream-a-2ea44c32-65d0-4ed7-ba1c-72d8f171c734#ref=rss)
+### 2022
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2022-novak-djokovic-auf-meldeliste-serena-williams-muss-passen](https://www.spiegel.de/sport/tennis/australian-open-2022-novak-djokovic-auf-meldeliste-serena-williams-muss-passen-a-75b0f628-46df-475b-a550-ce5a604987c8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olympische-winterspiele-in-china-nicola-beer-fordert-komplett-boykott](https://www.spiegel.de/politik/deutschland/olympische-winterspiele-in-china-nicola-beer-fordert-komplett-boykott-a-fb9268d7-94eb-444d-9133-97f86a14bdbc#ref=rss)
+### novak
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2022-novak-djokovic-auf-meldeliste-serena-williams-muss-passen](https://www.spiegel.de/sport/tennis/australian-open-2022-novak-djokovic-auf-meldeliste-serena-williams-muss-passen-a-75b0f628-46df-475b-a550-ce5a604987c8#ref=rss)
+### djokovic
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2022-novak-djokovic-auf-meldeliste-serena-williams-muss-passen](https://www.spiegel.de/sport/tennis/australian-open-2022-novak-djokovic-auf-meldeliste-serena-williams-muss-passen-a-75b0f628-46df-475b-a550-ce5a604987c8#ref=rss)
+### serena
+
+* [https://www.spiegel.de/sport/tennis/australian-open-2022-novak-djokovic-auf-meldeliste-serena-williams-muss-passen](https://www.spiegel.de/sport/tennis/australian-open-2022-novak-djokovic-auf-meldeliste-serena-williams-muss-passen-a-75b0f628-46df-475b-a550-ce5a604987c8#ref=rss)
+### preise
+
+* [https://www.spiegel.de/wirtschaft/bauunternehmen-erwarten-weitere-preissteigerungen](https://www.spiegel.de/wirtschaft/bauunternehmen-erwarten-weitere-preissteigerungen-a-d8a38482-4a9d-4dea-8359-bc23cf6183a3#ref=rss)
+* [https://www.spiegel.de/kultur/dwanyne-johnson-bei-people-s-choice-awards-der-abraeumer](https://www.spiegel.de/kultur/dwanyne-johnson-bei-people-s-choice-awards-der-abraeumer-a-c990df28-a2aa-4632-a3c8-6e59652788d4#ref=rss)
+### choice
+
+* [https://www.spiegel.de/kultur/dwanyne-johnson-bei-people-s-choice-awards-der-abraeumer](https://www.spiegel.de/kultur/dwanyne-johnson-bei-people-s-choice-awards-der-abraeumer-a-c990df28-a2aa-4632-a3c8-6e59652788d4#ref=rss)
+### awards
+
+* [https://www.spiegel.de/kultur/dwanyne-johnson-bei-people-s-choice-awards-der-abraeumer](https://www.spiegel.de/kultur/dwanyne-johnson-bei-people-s-choice-awards-der-abraeumer-a-c990df28-a2aa-4632-a3c8-6e59652788d4#ref=rss)
+### sorgen
+
+* [https://www.spiegel.de/wirtschaft/soziales/umfrage-sorgen-um-klima-corona-pflege-aber-am-meisten-um-den-eigenen-geldbeutel](https://www.spiegel.de/wirtschaft/soziales/umfrage-sorgen-um-klima-corona-pflege-aber-am-meisten-um-den-eigenen-geldbeutel-a-e3b210cf-0ffa-4e7e-a5d9-e83918ba8899#ref=rss)
+### beer
+
+* [https://www.spiegel.de/politik/deutschland/olympische-winterspiele-in-china-nicola-beer-fordert-komplett-boykott](https://www.spiegel.de/politik/deutschland/olympische-winterspiele-in-china-nicola-beer-fordert-komplett-boykott-a-fb9268d7-94eb-444d-9133-97f86a14bdbc#ref=rss)
+### usa
+
+* [https://www.spiegel.de/politik/deutschland/olympische-winterspiele-in-china-nicola-beer-fordert-komplett-boykott](https://www.spiegel.de/politik/deutschland/olympische-winterspiele-in-china-nicola-beer-fordert-komplett-boykott-a-fb9268d7-94eb-444d-9133-97f86a14bdbc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-haushalt-republikaner-bieten-schlupfloch-zu-hoeherer-schuldengrenze-an](https://www.spiegel.de/wirtschaft/us-haushalt-republikaner-bieten-schlupfloch-zu-hoeherer-schuldengrenze-an-a-94711a03-6d21-4724-a700-121c666a7630#ref=rss)
+### republikaner
+
+* [https://www.spiegel.de/wirtschaft/us-haushalt-republikaner-bieten-schlupfloch-zu-hoeherer-schuldengrenze-an](https://www.spiegel.de/wirtschaft/us-haushalt-republikaner-bieten-schlupfloch-zu-hoeherer-schuldengrenze-an-a-94711a03-6d21-4724-a700-121c666a7630#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/wirtschaft/us-haushalt-republikaner-bieten-schlupfloch-zu-hoeherer-schuldengrenze-an](https://www.spiegel.de/wirtschaft/us-haushalt-republikaner-bieten-schlupfloch-zu-hoeherer-schuldengrenze-an-a-94711a03-6d21-4724-a700-121c666a7630#ref=rss)
 
