@@ -4,308 +4,286 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### coronavirus
+### mann
 
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise](https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise-a-6b28272d-d670-48af-9aa0-a130ba325c01#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-reisende-duerfen-an-kosten-fuer-rueckholfluege-beteiligt-werden](https://www.spiegel.de/politik/deutschland/coronavirus-reisende-duerfen-an-kosten-fuer-rueckholfluege-beteiligt-werden-a-66593f96-d723-4978-8ced-75611a1025ed#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-das-risiko-fuer-herzmuskelentzuendungen-ist-bei-infizierten-hoeher-als-bei-geimpften](https://www.spiegel.de/wissenschaft/medizin/coronavirus-das-risiko-fuer-herzmuskelentzuendungen-ist-bei-infizierten-hoeher-als-bei-geimpften-a-64a0b6f4-8902-4385-b508-3926a935bd79#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-hamburg-kennt-impfstatus-von-infizierten-oft-nicht](https://www.spiegel.de/politik/deutschland/coronavirus-hamburg-kennt-impfstatus-von-infizierten-oft-nicht-a-a5b72513-c532-4617-a5da-5e40476e9c3b#ref=rss)
-### friedrich
+* [https://www.spiegel.de/panorama/herzogenrath-nordrhein-westfalen-unfallfahrer-flieht-auf-drei-reifen](https://www.spiegel.de/panorama/herzogenrath-nordrhein-westfalen-unfallfahrer-flieht-auf-drei-reifen-a-e637d5e1-85d2-4a5f-adf1-81d2d1c14a1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/presseschau-zur-wahl-von-friedrich-merz-er-ist-ein-mann-von-gestern-keiner-fuer-morgen](https://www.spiegel.de/politik/deutschland/presseschau-zur-wahl-von-friedrich-merz-er-ist-ein-mann-von-gestern-keiner-fuer-morgen-a-f58f252b-394d-49dc-a72f-f62f135d8b98#ref=rss)
+* [https://www.spiegel.de/panorama/hattingen-bein-eingeklemmt-junger-mann-steckt-nachts-stundenlang-auf-hochofen-fest](https://www.spiegel.de/panorama/hattingen-bein-eingeklemmt-junger-mann-steckt-nachts-stundenlang-auf-hochofen-fest-a-f86f0fe3-82a5-4f7e-99f1-045d096bf2da#ref=rss)
+* [https://www.spiegel.de/ausland/kapitol-attacke-trump-unterstuetzer-muss-fuenf-jahre-ins-gefaengnis](https://www.spiegel.de/ausland/kapitol-attacke-trump-unterstuetzer-muss-fuenf-jahre-ins-gefaengnis-a-96541b52-a900-4fe8-886b-877a274e8d0e#ref=rss)
+### wir
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-designierter-cdu-chef-zum-ersten-zum-zweiten-zum-dritten](https://www.spiegel.de/politik/deutschland/friedrich-merz-designierter-cdu-chef-zum-ersten-zum-zweiten-zum-dritten-a-f533d5f0-0319-4894-9d34-8e5ecf6218ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-omikron-welle-christian-drosten-iphone-hack-pegasus](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-omikron-welle-christian-drosten-iphone-hack-pegasus-a-09d17897-14cb-4cdd-a636-b954e523c2a5#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-designierter-cdu-chef-zum-ersten-zum-zweiten-zum-dritten](https://www.spiegel.de/politik/deutschland/friedrich-merz-designierter-cdu-chef-zum-ersten-zum-zweiten-zum-dritten-a-f533d5f0-0319-4894-9d34-8e5ecf6218ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-omikron-welle-christian-drosten-iphone-hack-pegasus](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-omikron-welle-christian-drosten-iphone-hack-pegasus-a-09d17897-14cb-4cdd-a636-b954e523c2a5#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/deutschland/karsten-hilse-immunitaet-von-afd-abgeordnetem-soll-laut-bericht-aufgehoben-werden](https://www.spiegel.de/politik/deutschland/karsten-hilse-immunitaet-von-afd-abgeordnetem-soll-laut-bericht-aufgehoben-werden-a-db659c12-13d5-4e92-aed0-743f0a19d090#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-antisemitismus-gehoert-laut-studie-zum-programmatischen-kern-der-partei](https://www.spiegel.de/politik/deutschland/afd-antisemitismus-gehoert-laut-studie-zum-programmatischen-kern-der-partei-a-ee57381b-a3c2-4910-a69e-d68e0bac8f73#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen](https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen-a-86106785-b42e-4ec6-a7a2-b1559b12c0a6#ref=rss)
-### pandemie
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise](https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise-a-6b28272d-d670-48af-9aa0-a130ba325c01#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-reisende-duerfen-an-kosten-fuer-rueckholfluege-beteiligt-werden](https://www.spiegel.de/politik/deutschland/coronavirus-reisende-duerfen-an-kosten-fuer-rueckholfluege-beteiligt-werden-a-66593f96-d723-4978-8ced-75611a1025ed#ref=rss)
-### krise
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise](https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise-a-6b28272d-d670-48af-9aa0-a130ba325c01#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-designierter-cdu-chef-zum-ersten-zum-zweiten-zum-dritten](https://www.spiegel.de/politik/deutschland/friedrich-merz-designierter-cdu-chef-zum-ersten-zum-zweiten-zum-dritten-a-f533d5f0-0319-4894-9d34-8e5ecf6218ae#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise](https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise-a-6b28272d-d670-48af-9aa0-a130ba325c01#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/staatstrojaner-bundesrat-stoppt-mithilfe-pflicht-bei-der-whatsapp-ueberwachung](https://www.spiegel.de/netzwelt/netzpolitik/staatstrojaner-bundesrat-stoppt-mithilfe-pflicht-bei-der-whatsapp-ueberwachung-a-462a18f1-8b5e-4862-a3dc-8a94d1dca046#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungsministerin-bettina-stark-watzinger-schulschliessungen-als-letztes-mittel](https://www.spiegel.de/panorama/bildung/bildungsministerin-bettina-stark-watzinger-schulschliessungen-als-letztes-mittel-a-b9853880-d5c7-4eed-b439-6fa695e96dd4#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wissenschaft/natur/neuseeland-seeleoparden-koennen-haie-jagen-und-fressen](https://www.spiegel.de/wissenschaft/natur/neuseeland-seeleoparden-koennen-haie-jagen-und-fressen-a-5ef02ced-348f-4c89-812f-2f8294918dd8#ref=rss)
-* [https://www.spiegel.de/kultur/thomas-oberender-und-berliner-festspiele-toxischer-fuehrungsstil](https://www.spiegel.de/kultur/thomas-oberender-und-berliner-festspiele-toxischer-fuehrungsstil-a-d29b0173-9b70-47f2-ad95-262c29098e12#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundespraesidentenwahl-wolfgang-kubicki-und-christian-duerr-unterstuetzen-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/bundespraesidentenwahl-wolfgang-kubicki-und-christian-duerr-unterstuetzen-frank-walter-steinmeier-a-d89d6c1e-79e9-433b-8945-d63b59b1969f#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/landgericht-ulm-mutter-ermordete-ihre-beiden-kinder-13-jahre-haft](https://www.spiegel.de/panorama/justiz/landgericht-ulm-mutter-ermordete-ihre-beiden-kinder-13-jahre-haft-a-e5d8d739-8a85-4acc-886c-72c4aa6e8bef#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungsministerin-bettina-stark-watzinger-schulschliessungen-als-letztes-mittel](https://www.spiegel.de/panorama/bildung/bildungsministerin-bettina-stark-watzinger-schulschliessungen-als-letztes-mittel-a-b9853880-d5c7-4eed-b439-6fa695e96dd4#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/eu-verhandler-mahnen-iran-zur-eile-bei-atomabkommen](https://www.spiegel.de/ausland/eu-verhandler-mahnen-iran-zur-eile-bei-atomabkommen-a-d176c250-4d43-4ad6-9bc6-70f667de5b30#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen](https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen-a-86106785-b42e-4ec6-a7a2-b1559b12c0a6#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/polen-parlament-verabschiedet-umstrittenes-rundfunkgesetz](https://www.spiegel.de/ausland/polen-parlament-verabschiedet-umstrittenes-rundfunkgesetz-a-89bcfc40-f6fc-45fc-994c-b394aa71d86a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-kuendigen-gespraeche-mit-russland-an](https://www.spiegel.de/ausland/usa-kuendigen-gespraeche-mit-russland-an-a-254d9668-fe77-48fb-93a9-339795ecf111#ref=rss)
-### litauen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen](https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen-a-86106785-b42e-4ec6-a7a2-b1559b12c0a6#ref=rss)
-### katastrophenforscher
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise](https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise-a-6b28272d-d670-48af-9aa0-a130ba325c01#ref=rss)
-### fachleute
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise](https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise-a-6b28272d-d670-48af-9aa0-a130ba325c01#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-omikron-welle-christian-drosten-iphone-hack-pegasus](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-omikron-welle-christian-drosten-iphone-hack-pegasus-a-09d17897-14cb-4cdd-a636-b954e523c2a5#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise](https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise-a-6b28272d-d670-48af-9aa0-a130ba325c01#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-reisende-duerfen-an-kosten-fuer-rueckholfluege-beteiligt-werden](https://www.spiegel.de/politik/deutschland/coronavirus-reisende-duerfen-an-kosten-fuer-rueckholfluege-beteiligt-werden-a-66593f96-d723-4978-8ced-75611a1025ed#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise](https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise-a-6b28272d-d670-48af-9aa0-a130ba325c01#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-omikron-welle-christian-drosten-iphone-hack-pegasus](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-omikron-welle-christian-drosten-iphone-hack-pegasus-a-09d17897-14cb-4cdd-a636-b954e523c2a5#ref=rss)
-### denn
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise](https://www.spiegel.de/wissenschaft/medizin/coronavirus-interview-mit-katastrophenforscher-eine-pandemie-ist-eine-soziale-krise-a-6b28272d-d670-48af-9aa0-a130ba325c01#ref=rss)
-* [https://www.spiegel.de/ausland/polen-parlament-verabschiedet-umstrittenes-rundfunkgesetz](https://www.spiegel.de/ausland/polen-parlament-verabschiedet-umstrittenes-rundfunkgesetz-a-89bcfc40-f6fc-45fc-994c-b394aa71d86a#ref=rss)
-### nfl
-
-* [https://www.spiegel.de/sport/nfl-fox-kommentator-sorgt-nach-mutmasslich-schwerer-kopfverletzung-fuer-empoerung](https://www.spiegel.de/sport/nfl-fox-kommentator-sorgt-nach-mutmasslich-schwerer-kopfverletzung-fuer-empoerung-a-4a4dd135-bac0-4fb2-a8c1-1276ca6d5a17#ref=rss)
-### blieb
-
-* [https://www.spiegel.de/sport/nfl-fox-kommentator-sorgt-nach-mutmasslich-schwerer-kopfverletzung-fuer-empoerung](https://www.spiegel.de/sport/nfl-fox-kommentator-sorgt-nach-mutmasslich-schwerer-kopfverletzung-fuer-empoerung-a-4a4dd135-bac0-4fb2-a8c1-1276ca6d5a17#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gerard-depardieu-mutmassliches-vergewaltigungsopfer-geht-an-die-oeffentlichkeit](https://www.spiegel.de/panorama/justiz/gerard-depardieu-mutmassliches-vergewaltigungsopfer-geht-an-die-oeffentlichkeit-a-7b018c91-3c15-4af2-953f-57cdba78dc9e#ref=rss)
-### seeleoparden
-
-* [https://www.spiegel.de/wissenschaft/natur/neuseeland-seeleoparden-koennen-haie-jagen-und-fressen](https://www.spiegel.de/wissenschaft/natur/neuseeland-seeleoparden-koennen-haie-jagen-und-fressen-a-5ef02ced-348f-4c89-812f-2f8294918dd8#ref=rss)
-### haie
-
-* [https://www.spiegel.de/wissenschaft/natur/neuseeland-seeleoparden-koennen-haie-jagen-und-fressen](https://www.spiegel.de/wissenschaft/natur/neuseeland-seeleoparden-koennen-haie-jagen-und-fressen-a-5ef02ced-348f-4c89-812f-2f8294918dd8#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wissenschaft/natur/neuseeland-seeleoparden-koennen-haie-jagen-und-fressen](https://www.spiegel.de/wissenschaft/natur/neuseeland-seeleoparden-koennen-haie-jagen-und-fressen-a-5ef02ced-348f-4c89-812f-2f8294918dd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen](https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen-a-86106785-b42e-4ec6-a7a2-b1559b12c0a6#ref=rss)
-### landgericht
-
-* [https://www.spiegel.de/panorama/justiz/landgericht-ulm-mutter-ermordete-ihre-beiden-kinder-13-jahre-haft](https://www.spiegel.de/panorama/justiz/landgericht-ulm-mutter-ermordete-ihre-beiden-kinder-13-jahre-haft-a-e5d8d739-8a85-4acc-886c-72c4aa6e8bef#ref=rss)
-### ulm
-
-* [https://www.spiegel.de/panorama/justiz/landgericht-ulm-mutter-ermordete-ihre-beiden-kinder-13-jahre-haft](https://www.spiegel.de/panorama/justiz/landgericht-ulm-mutter-ermordete-ihre-beiden-kinder-13-jahre-haft-a-e5d8d739-8a85-4acc-886c-72c4aa6e8bef#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/panorama/justiz/landgericht-ulm-mutter-ermordete-ihre-beiden-kinder-13-jahre-haft](https://www.spiegel.de/panorama/justiz/landgericht-ulm-mutter-ermordete-ihre-beiden-kinder-13-jahre-haft-a-e5d8d739-8a85-4acc-886c-72c4aa6e8bef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-paar-soll-illegal-mit-waffen-gehandelt-haben](https://www.spiegel.de/politik/deutschland/rechtsextremismus-paar-soll-illegal-mit-waffen-gehandelt-haben-a-70817eb2-d150-4128-9b4c-f0ef22ce9c03#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/landgericht-ulm-mutter-ermordete-ihre-beiden-kinder-13-jahre-haft](https://www.spiegel.de/panorama/justiz/landgericht-ulm-mutter-ermordete-ihre-beiden-kinder-13-jahre-haft-a-e5d8d739-8a85-4acc-886c-72c4aa6e8bef#ref=rss)
-* [https://www.spiegel.de/sport/paul-lim-bei-der-darts-wm-wie-ein-67-jaehriger-geschichte-schreibt](https://www.spiegel.de/sport/paul-lim-bei-der-darts-wm-wie-ein-67-jaehriger-geschichte-schreibt-a-42d3c152-0ec7-4c1a-90cb-0151d9728e2c#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/justiz/landgericht-ulm-mutter-ermordete-ihre-beiden-kinder-13-jahre-haft](https://www.spiegel.de/panorama/justiz/landgericht-ulm-mutter-ermordete-ihre-beiden-kinder-13-jahre-haft-a-e5d8d739-8a85-4acc-886c-72c4aa6e8bef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/luftfahrtunternehmen-postenwechsel-bei-lufthansa-erste-chefin-fuer-austrian-airlines](https://www.spiegel.de/wirtschaft/unternehmen/luftfahrtunternehmen-postenwechsel-bei-lufthansa-erste-chefin-fuer-austrian-airlines-a-aa041888-0a5c-498a-bc0f-a70aafc2664d#ref=rss)
-### hannover
-
-* [https://www.spiegel.de/panorama/justiz/hannover-prozess-um-toedliche-schuesse-angeklagter-rinor-z-legt-gestaendnis-ab](https://www.spiegel.de/panorama/justiz/hannover-prozess-um-toedliche-schuesse-angeklagter-rinor-z-legt-gestaendnis-ab-a-ce4e333d-dcd8-4794-9632-1a35e7f9a2cb#ref=rss)
-### rinor
-
-* [https://www.spiegel.de/panorama/justiz/hannover-prozess-um-toedliche-schuesse-angeklagter-rinor-z-legt-gestaendnis-ab](https://www.spiegel.de/panorama/justiz/hannover-prozess-um-toedliche-schuesse-angeklagter-rinor-z-legt-gestaendnis-ab-a-ce4e333d-dcd8-4794-9632-1a35e7f9a2cb#ref=rss)
-### z
-
-* [https://www.spiegel.de/panorama/justiz/hannover-prozess-um-toedliche-schuesse-angeklagter-rinor-z-legt-gestaendnis-ab](https://www.spiegel.de/panorama/justiz/hannover-prozess-um-toedliche-schuesse-angeklagter-rinor-z-legt-gestaendnis-ab-a-ce4e333d-dcd8-4794-9632-1a35e7f9a2cb#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/panorama/justiz/hannover-prozess-um-toedliche-schuesse-angeklagter-rinor-z-legt-gestaendnis-ab](https://www.spiegel.de/panorama/justiz/hannover-prozess-um-toedliche-schuesse-angeklagter-rinor-z-legt-gestaendnis-ab-a-ce4e333d-dcd8-4794-9632-1a35e7f9a2cb#ref=rss)
-* [https://www.spiegel.de/panorama/leute/alexander-klaws-und-ehefrau-nadja-machen-paartherapie](https://www.spiegel.de/panorama/leute/alexander-klaws-und-ehefrau-nadja-machen-paartherapie-a-376370dc-fd8b-4424-b805-64e37d37503d#ref=rss)
-### austrian
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/luftfahrtunternehmen-postenwechsel-bei-lufthansa-erste-chefin-fuer-austrian-airlines](https://www.spiegel.de/wirtschaft/unternehmen/luftfahrtunternehmen-postenwechsel-bei-lufthansa-erste-chefin-fuer-austrian-airlines-a-aa041888-0a5c-498a-bc0f-a70aafc2664d#ref=rss)
-### airlines
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/luftfahrtunternehmen-postenwechsel-bei-lufthansa-erste-chefin-fuer-austrian-airlines](https://www.spiegel.de/wirtschaft/unternehmen/luftfahrtunternehmen-postenwechsel-bei-lufthansa-erste-chefin-fuer-austrian-airlines-a-aa041888-0a5c-498a-bc0f-a70aafc2664d#ref=rss)
-### audi
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-audi-baut-in-ingolstadt-ab-2028-nur-noch-e-autos](https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-audi-baut-in-ingolstadt-ab-2028-nur-noch-e-autos-a-36b4ece2-4b17-49fe-8c9e-5cb4f00fae91#ref=rss)
-### baut
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-audi-baut-in-ingolstadt-ab-2028-nur-noch-e-autos](https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-audi-baut-in-ingolstadt-ab-2028-nur-noch-e-autos-a-36b4ece2-4b17-49fe-8c9e-5cb4f00fae91#ref=rss)
-### ingolstadt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-audi-baut-in-ingolstadt-ab-2028-nur-noch-e-autos](https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-audi-baut-in-ingolstadt-ab-2028-nur-noch-e-autos-a-36b4ece2-4b17-49fe-8c9e-5cb4f00fae91#ref=rss)
-### 2028
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-audi-baut-in-ingolstadt-ab-2028-nur-noch-e-autos](https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-audi-baut-in-ingolstadt-ab-2028-nur-noch-e-autos-a-36b4ece2-4b17-49fe-8c9e-5cb4f00fae91#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-audi-baut-in-ingolstadt-ab-2028-nur-noch-e-autos](https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-audi-baut-in-ingolstadt-ab-2028-nur-noch-e-autos-a-36b4ece2-4b17-49fe-8c9e-5cb4f00fae91#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen](https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen-a-86106785-b42e-4ec6-a7a2-b1559b12c0a6#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-designierter-cdu-chef-zum-ersten-zum-zweiten-zum-dritten](https://www.spiegel.de/politik/deutschland/friedrich-merz-designierter-cdu-chef-zum-ersten-zum-zweiten-zum-dritten-a-f533d5f0-0319-4894-9d34-8e5ecf6218ae#ref=rss)
-* [https://www.spiegel.de/sport/paul-lim-bei-der-darts-wm-wie-ein-67-jaehriger-geschichte-schreibt](https://www.spiegel.de/sport/paul-lim-bei-der-darts-wm-wie-ein-67-jaehriger-geschichte-schreibt-a-42d3c152-0ec7-4c1a-90cb-0151d9728e2c#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-omikron-welle-christian-drosten-iphone-hack-pegasus](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-omikron-welle-christian-drosten-iphone-hack-pegasus-a-09d17897-14cb-4cdd-a636-b954e523c2a5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundespraesidentenwahl-wolfgang-kubicki-und-christian-duerr-unterstuetzen-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/bundespraesidentenwahl-wolfgang-kubicki-und-christian-duerr-unterstuetzen-frank-walter-steinmeier-a-d89d6c1e-79e9-433b-8945-d63b59b1969f#ref=rss)
-### iphonehack
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-omikron-welle-christian-drosten-iphone-hack-pegasus](https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-omikron-welle-christian-drosten-iphone-hack-pegasus-a-09d17897-14cb-4cdd-a636-b954e523c2a5#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/eu-verhandler-mahnen-iran-zur-eile-bei-atomabkommen](https://www.spiegel.de/ausland/eu-verhandler-mahnen-iran-zur-eile-bei-atomabkommen-a-d176c250-4d43-4ad6-9bc6-70f667de5b30#ref=rss)
-### atomabkommen
-
-* [https://www.spiegel.de/ausland/eu-verhandler-mahnen-iran-zur-eile-bei-atomabkommen](https://www.spiegel.de/ausland/eu-verhandler-mahnen-iran-zur-eile-bei-atomabkommen-a-d176c250-4d43-4ad6-9bc6-70f667de5b30#ref=rss)
-### sondern
-
-* [https://www.spiegel.de/ausland/eu-verhandler-mahnen-iran-zur-eile-bei-atomabkommen](https://www.spiegel.de/ausland/eu-verhandler-mahnen-iran-zur-eile-bei-atomabkommen-a-d176c250-4d43-4ad6-9bc6-70f667de5b30#ref=rss)
-* [https://www.spiegel.de/sport/paul-lim-bei-der-darts-wm-wie-ein-67-jaehriger-geschichte-schreibt](https://www.spiegel.de/sport/paul-lim-bei-der-darts-wm-wie-ein-67-jaehriger-geschichte-schreibt-a-42d3c152-0ec7-4c1a-90cb-0151d9728e2c#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/ausland/eu-verhandler-mahnen-iran-zur-eile-bei-atomabkommen](https://www.spiegel.de/ausland/eu-verhandler-mahnen-iran-zur-eile-bei-atomabkommen-a-d176c250-4d43-4ad6-9bc6-70f667de5b30#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-hamburg-kennt-impfstatus-von-infizierten-oft-nicht](https://www.spiegel.de/politik/deutschland/coronavirus-hamburg-kennt-impfstatus-von-infizierten-oft-nicht-a-a5b72513-c532-4617-a5da-5e40476e9c3b#ref=rss)
-### polen
-
-* [https://www.spiegel.de/ausland/polen-parlament-verabschiedet-umstrittenes-rundfunkgesetz](https://www.spiegel.de/ausland/polen-parlament-verabschiedet-umstrittenes-rundfunkgesetz-a-89bcfc40-f6fc-45fc-994c-b394aa71d86a#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/ausland/polen-parlament-verabschiedet-umstrittenes-rundfunkgesetz](https://www.spiegel.de/ausland/polen-parlament-verabschiedet-umstrittenes-rundfunkgesetz-a-89bcfc40-f6fc-45fc-994c-b394aa71d86a#ref=rss)
-### rundfunkgesetz
-
-* [https://www.spiegel.de/ausland/polen-parlament-verabschiedet-umstrittenes-rundfunkgesetz](https://www.spiegel.de/ausland/polen-parlament-verabschiedet-umstrittenes-rundfunkgesetz-a-89bcfc40-f6fc-45fc-994c-b394aa71d86a#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/usa-kuendigen-gespraeche-mit-russland-an](https://www.spiegel.de/ausland/usa-kuendigen-gespraeche-mit-russland-an-a-254d9668-fe77-48fb-93a9-339795ecf111#ref=rss)
-### pflegeheim
-
-* [https://www.spiegel.de/panorama/justiz/hildesheim-corona-tote-in-pflegeheim-ermittlungen-gegen-ehemalige-mitarbeiterin](https://www.spiegel.de/panorama/justiz/hildesheim-corona-tote-in-pflegeheim-ermittlungen-gegen-ehemalige-mitarbeiterin-a-f6bd4700-1a20-4ff8-ad8c-4eafdd205f7f#ref=rss)
-### mitarbeiterin
-
-* [https://www.spiegel.de/panorama/justiz/hildesheim-corona-tote-in-pflegeheim-ermittlungen-gegen-ehemalige-mitarbeiterin](https://www.spiegel.de/panorama/justiz/hildesheim-corona-tote-in-pflegeheim-ermittlungen-gegen-ehemalige-mitarbeiterin-a-f6bd4700-1a20-4ff8-ad8c-4eafdd205f7f#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/kultur/thomas-oberender-und-berliner-festspiele-toxischer-fuehrungsstil](https://www.spiegel.de/kultur/thomas-oberender-und-berliner-festspiele-toxischer-fuehrungsstil-a-d29b0173-9b70-47f2-ad95-262c29098e12#ref=rss)
-### oberender
-
-* [https://www.spiegel.de/kultur/thomas-oberender-und-berliner-festspiele-toxischer-fuehrungsstil](https://www.spiegel.de/kultur/thomas-oberender-und-berliner-festspiele-toxischer-fuehrungsstil-a-d29b0173-9b70-47f2-ad95-262c29098e12#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/kultur/thomas-oberender-und-berliner-festspiele-toxischer-fuehrungsstil](https://www.spiegel.de/kultur/thomas-oberender-und-berliner-festspiele-toxischer-fuehrungsstil-a-d29b0173-9b70-47f2-ad95-262c29098e12#ref=rss)
-### festspiele
-
-* [https://www.spiegel.de/kultur/thomas-oberender-und-berliner-festspiele-toxischer-fuehrungsstil](https://www.spiegel.de/kultur/thomas-oberender-und-berliner-festspiele-toxischer-fuehrungsstil-a-d29b0173-9b70-47f2-ad95-262c29098e12#ref=rss)
-### gérard
-
-* [https://www.spiegel.de/panorama/justiz/gerard-depardieu-mutmassliches-vergewaltigungsopfer-geht-an-die-oeffentlichkeit](https://www.spiegel.de/panorama/justiz/gerard-depardieu-mutmassliches-vergewaltigungsopfer-geht-an-die-oeffentlichkeit-a-7b018c91-3c15-4af2-953f-57cdba78dc9e#ref=rss)
-### depardieu
-
-* [https://www.spiegel.de/panorama/justiz/gerard-depardieu-mutmassliches-vergewaltigungsopfer-geht-an-die-oeffentlichkeit](https://www.spiegel.de/panorama/justiz/gerard-depardieu-mutmassliches-vergewaltigungsopfer-geht-an-die-oeffentlichkeit-a-7b018c91-3c15-4af2-953f-57cdba78dc9e#ref=rss)
-### mutmaßliches
-
-* [https://www.spiegel.de/panorama/justiz/gerard-depardieu-mutmassliches-vergewaltigungsopfer-geht-an-die-oeffentlichkeit](https://www.spiegel.de/panorama/justiz/gerard-depardieu-mutmassliches-vergewaltigungsopfer-geht-an-die-oeffentlichkeit-a-7b018c91-3c15-4af2-953f-57cdba78dc9e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/rechtsextremismus-paar-soll-illegal-mit-waffen-gehandelt-haben](https://www.spiegel.de/politik/deutschland/rechtsextremismus-paar-soll-illegal-mit-waffen-gehandelt-haben-a-70817eb2-d150-4128-9b4c-f0ef22ce9c03#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/psychologische-beratung-beim-studierendenwerk-mit-dieser-welle-haben-wir-nicht-gerechnet](https://www.spiegel.de/panorama/bildung/psychologische-beratung-beim-studierendenwerk-mit-dieser-welle-haben-wir-nicht-gerechnet-a-2ec6ddfc-2de4-4d3a-96b2-b0df2af5cf2f#ref=rss)
+* [https://www.spiegel.de/psychologie/ueberforderung-warum-wir-nicht-immer-funktionieren-muessen](https://www.spiegel.de/psychologie/ueberforderung-warum-wir-nicht-immer-funktionieren-muessen-a-b04e5190-3dc9-4464-ad2e-d71b4b9c27fa#ref=rss)
 ### lange
 
-* [https://www.spiegel.de/panorama/justiz/gerard-depardieu-mutmassliches-vergewaltigungsopfer-geht-an-die-oeffentlichkeit](https://www.spiegel.de/panorama/justiz/gerard-depardieu-mutmassliches-vergewaltigungsopfer-geht-an-die-oeffentlichkeit-a-7b018c91-3c15-4af2-953f-57cdba78dc9e#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungsministerin-bettina-stark-watzinger-schulschliessungen-als-letztes-mittel](https://www.spiegel.de/panorama/bildung/bildungsministerin-bettina-stark-watzinger-schulschliessungen-als-letztes-mittel-a-b9853880-d5c7-4eed-b439-6fa695e96dd4#ref=rss)
-### schauspielerin
+* [https://www.spiegel.de/politik/deutschland/presseschau-zur-wahl-von-friedrich-merz-er-ist-ein-mann-von-gestern-keiner-fuer-morgen](https://www.spiegel.de/politik/deutschland/presseschau-zur-wahl-von-friedrich-merz-er-ist-ein-mann-von-gestern-keiner-fuer-morgen-a-f58f252b-394d-49dc-a72f-f62f135d8b98#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-petra-koepping-ueber-fackelaufmarsch-diese-leute-haben-umsturzfantasien](https://www.spiegel.de/politik/deutschland/corona-petra-koepping-ueber-fackelaufmarsch-diese-leute-haben-umsturzfantasien-a-2083fa7e-64c6-452a-b2b8-c90fd53eb713#ref=rss)
+* [https://www.spiegel.de/panorama/leute/corona-garmisch-partenkirchen-die-skisaison-startet-mit-2g-konzept](https://www.spiegel.de/panorama/leute/corona-garmisch-partenkirchen-die-skisaison-startet-mit-2g-konzept-a-06701285-8eba-4a3f-9207-a7d177343615#ref=rss)
+* [https://www.spiegel.de/ausland/kapitol-attacke-trump-unterstuetzer-muss-fuenf-jahre-ins-gefaengnis](https://www.spiegel.de/ausland/kapitol-attacke-trump-unterstuetzer-muss-fuenf-jahre-ins-gefaengnis-a-96541b52-a900-4fe8-886b-877a274e8d0e#ref=rss)
+### corona
 
-* [https://www.spiegel.de/panorama/justiz/gerard-depardieu-mutmassliches-vergewaltigungsopfer-geht-an-die-oeffentlichkeit](https://www.spiegel.de/panorama/justiz/gerard-depardieu-mutmassliches-vergewaltigungsopfer-geht-an-die-oeffentlichkeit-a-7b018c91-3c15-4af2-953f-57cdba78dc9e#ref=rss)
-* [https://www.spiegel.de/kultur/kein-corona-test-uschi-glas-liess-theaterstueck-mit-robert-atzorn-platzen](https://www.spiegel.de/kultur/kein-corona-test-uschi-glas-liess-theaterstueck-mit-robert-atzorn-platzen-a-d53dd494-073e-450d-8905-1657a0ff5b97#ref=rss)
-### frankwalter
+* [https://www.spiegel.de/politik/deutschland/corona-petra-koepping-ueber-fackelaufmarsch-diese-leute-haben-umsturzfantasien](https://www.spiegel.de/politik/deutschland/corona-petra-koepping-ueber-fackelaufmarsch-diese-leute-haben-umsturzfantasien-a-2083fa7e-64c6-452a-b2b8-c90fd53eb713#ref=rss)
+* [https://www.spiegel.de/panorama/joe-biden-kreml-kentucky-bilder-der-woche](https://www.spiegel.de/panorama/joe-biden-kreml-kentucky-bilder-der-woche-a-5995fbc6-5cec-44aa-8ce7-d9d37c5fde73#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-proteste-impfpflicht-lukaschenko-fluechtlinge](https://www.spiegel.de/politik/deutschland/news-corona-proteste-impfpflicht-lukaschenko-fluechtlinge-a-d8b1b496-89b5-4c30-9608-64d7e6a661b9#ref=rss)
+* [https://www.spiegel.de/panorama/leute/corona-garmisch-partenkirchen-die-skisaison-startet-mit-2g-konzept](https://www.spiegel.de/panorama/leute/corona-garmisch-partenkirchen-die-skisaison-startet-mit-2g-konzept-a-06701285-8eba-4a3f-9207-a7d177343615#ref=rss)
+### wolfsburg
 
-* [https://www.spiegel.de/politik/deutschland/bundespraesidentenwahl-wolfgang-kubicki-und-christian-duerr-unterstuetzen-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/bundespraesidentenwahl-wolfgang-kubicki-und-christian-duerr-unterstuetzen-frank-walter-steinmeier-a-d89d6c1e-79e9-433b-8945-d63b59b1969f#ref=rss)
-### steinmeier
+* [https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg](https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg-a-2295eb44-b6c6-44f7-92d9-c8a88c911ef8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg-a-51e19366-0377-4932-bdf0-0656c0162287#ref=rss)
+### julian
 
-* [https://www.spiegel.de/politik/deutschland/bundespraesidentenwahl-wolfgang-kubicki-und-christian-duerr-unterstuetzen-frank-walter-steinmeier](https://www.spiegel.de/politik/deutschland/bundespraesidentenwahl-wolfgang-kubicki-und-christian-duerr-unterstuetzen-frank-walter-steinmeier-a-d89d6c1e-79e9-433b-8945-d63b59b1969f#ref=rss)
-### paul
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen-a-8eaa15ea-d112-4a59-9699-f57c9f0a2ae0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg](https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg-a-2295eb44-b6c6-44f7-92d9-c8a88c911ef8#ref=rss)
+### nagelsmann
 
-* [https://www.spiegel.de/sport/paul-lim-bei-der-darts-wm-wie-ein-67-jaehriger-geschichte-schreibt](https://www.spiegel.de/sport/paul-lim-bei-der-darts-wm-wie-ein-67-jaehriger-geschichte-schreibt-a-42d3c152-0ec7-4c1a-90cb-0151d9728e2c#ref=rss)
-### lim
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen-a-8eaa15ea-d112-4a59-9699-f57c9f0a2ae0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg](https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg-a-2295eb44-b6c6-44f7-92d9-c8a88c911ef8#ref=rss)
+### fc
 
-* [https://www.spiegel.de/sport/paul-lim-bei-der-darts-wm-wie-ein-67-jaehriger-geschichte-schreibt](https://www.spiegel.de/sport/paul-lim-bei-der-darts-wm-wie-ein-67-jaehriger-geschichte-schreibt-a-42d3c152-0ec7-4c1a-90cb-0151d9728e2c#ref=rss)
-### jahr
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen-a-8eaa15ea-d112-4a59-9699-f57c9f0a2ae0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab-a-9a93c0b3-0620-41e2-a9e2-9ce1631fe917#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/sport/paul-lim-bei-der-darts-wm-wie-ein-67-jaehriger-geschichte-schreibt](https://www.spiegel.de/sport/paul-lim-bei-der-darts-wm-wie-ein-67-jaehriger-geschichte-schreibt-a-42d3c152-0ec7-4c1a-90cb-0151d9728e2c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/karsten-hilse-immunitaet-von-afd-abgeordnetem-soll-laut-bericht-aufgehoben-werden](https://www.spiegel.de/politik/deutschland/karsten-hilse-immunitaet-von-afd-abgeordnetem-soll-laut-bericht-aufgehoben-werden-a-db659c12-13d5-4e92-aed0-743f0a19d090#ref=rss)
-### karsten
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen-a-8eaa15ea-d112-4a59-9699-f57c9f0a2ae0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg-a-51e19366-0377-4932-bdf0-0656c0162287#ref=rss)
+### gut
 
-* [https://www.spiegel.de/politik/deutschland/karsten-hilse-immunitaet-von-afd-abgeordnetem-soll-laut-bericht-aufgehoben-werden](https://www.spiegel.de/politik/deutschland/karsten-hilse-immunitaet-von-afd-abgeordnetem-soll-laut-bericht-aufgehoben-werden-a-db659c12-13d5-4e92-aed0-743f0a19d090#ref=rss)
-### hilse
+* [https://www.spiegel.de/deinspiegel/last-minute-weihnachtsgeschenke-basteln-besser-als-socken](https://www.spiegel.de/deinspiegel/last-minute-weihnachtsgeschenke-basteln-besser-als-socken-a-e195a92c-0002-0001-0000-000180592505#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/presseschau-zur-wahl-von-friedrich-merz-er-ist-ein-mann-von-gestern-keiner-fuer-morgen](https://www.spiegel.de/politik/deutschland/presseschau-zur-wahl-von-friedrich-merz-er-ist-ein-mann-von-gestern-keiner-fuer-morgen-a-f58f252b-394d-49dc-a72f-f62f135d8b98#ref=rss)
+* [https://www.spiegel.de/partnerschaft/ehe-in-der-krise-wie-sage-ich-meiner-frau-dass-ich-eine-affaere-hatte](https://www.spiegel.de/partnerschaft/ehe-in-der-krise-wie-sage-ich-meiner-frau-dass-ich-eine-affaere-hatte-a-838d771f-8c5f-4d1c-92c6-3dd1df215ff0#ref=rss)
+### nordrheinwestfalen
 
-* [https://www.spiegel.de/politik/deutschland/karsten-hilse-immunitaet-von-afd-abgeordnetem-soll-laut-bericht-aufgehoben-werden](https://www.spiegel.de/politik/deutschland/karsten-hilse-immunitaet-von-afd-abgeordnetem-soll-laut-bericht-aufgehoben-werden-a-db659c12-13d5-4e92-aed0-743f0a19d090#ref=rss)
-### bericht
+* [https://www.spiegel.de/panorama/herzogenrath-nordrhein-westfalen-unfallfahrer-flieht-auf-drei-reifen](https://www.spiegel.de/panorama/herzogenrath-nordrhein-westfalen-unfallfahrer-flieht-auf-drei-reifen-a-e637d5e1-85d2-4a5f-adf1-81d2d1c14a1d#ref=rss)
+* [https://www.spiegel.de/panorama/hattingen-bein-eingeklemmt-junger-mann-steckt-nachts-stundenlang-auf-hochofen-fest](https://www.spiegel.de/panorama/hattingen-bein-eingeklemmt-junger-mann-steckt-nachts-stundenlang-auf-hochofen-fest-a-f86f0fe3-82a5-4f7e-99f1-045d096bf2da#ref=rss)
+### haus
 
-* [https://www.spiegel.de/politik/deutschland/karsten-hilse-immunitaet-von-afd-abgeordnetem-soll-laut-bericht-aufgehoben-werden](https://www.spiegel.de/politik/deutschland/karsten-hilse-immunitaet-von-afd-abgeordnetem-soll-laut-bericht-aufgehoben-werden-a-db659c12-13d5-4e92-aed0-743f0a19d090#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen](https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen-a-86106785-b42e-4ec6-a7a2-b1559b12c0a6#ref=rss)
-### kosten
+* [https://www.spiegel.de/politik/deutschland/corona-petra-koepping-ueber-fackelaufmarsch-diese-leute-haben-umsturzfantasien](https://www.spiegel.de/politik/deutschland/corona-petra-koepping-ueber-fackelaufmarsch-diese-leute-haben-umsturzfantasien-a-2083fa7e-64c6-452a-b2b8-c90fd53eb713#ref=rss)
+* [https://www.spiegel.de/panorama/joe-biden-kreml-kentucky-bilder-der-woche](https://www.spiegel.de/panorama/joe-biden-kreml-kentucky-bilder-der-woche-a-5995fbc6-5cec-44aa-8ce7-d9d37c5fde73#ref=rss)
+* [https://www.spiegel.de/panorama/usa-angeblicher-aufruf-zu-schusswaffengewalt-an-schulen-auf-tiktok-sorgt-fuer-wirbel](https://www.spiegel.de/panorama/usa-angeblicher-aufruf-zu-schusswaffengewalt-an-schulen-auf-tiktok-sorgt-fuer-wirbel-a-92e48dd0-baf4-44b1-81ac-2bd794f4d5e4#ref=rss)
+### woche
 
-* [https://www.spiegel.de/politik/deutschland/coronavirus-reisende-duerfen-an-kosten-fuer-rueckholfluege-beteiligt-werden](https://www.spiegel.de/politik/deutschland/coronavirus-reisende-duerfen-an-kosten-fuer-rueckholfluege-beteiligt-werden-a-66593f96-d723-4978-8ced-75611a1025ed#ref=rss)
-### auftrag
+* [https://www.spiegel.de/panorama/joe-biden-kreml-kentucky-bilder-der-woche](https://www.spiegel.de/panorama/joe-biden-kreml-kentucky-bilder-der-woche-a-5995fbc6-5cec-44aa-8ce7-d9d37c5fde73#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-maradonas-tod-habecks-aufstieg-putins-plan-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-maradonas-tod-habecks-aufstieg-putins-plan-podcast-a-8898ec84-b2a9-48b6-a871-d408f6106d4f#ref=rss)
+### eigentlich
 
-* [https://www.spiegel.de/politik/deutschland/coronavirus-reisende-duerfen-an-kosten-fuer-rueckholfluege-beteiligt-werden](https://www.spiegel.de/politik/deutschland/coronavirus-reisende-duerfen-an-kosten-fuer-rueckholfluege-beteiligt-werden-a-66593f96-d723-4978-8ced-75611a1025ed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-antisemitismus-gehoert-laut-studie-zum-programmatischen-kern-der-partei](https://www.spiegel.de/politik/deutschland/afd-antisemitismus-gehoert-laut-studie-zum-programmatischen-kern-der-partei-a-ee57381b-a3c2-4910-a69e-d68e0bac8f73#ref=rss)
-### risiko
+* [https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg](https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg-a-2295eb44-b6c6-44f7-92d9-c8a88c911ef8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-maradonas-tod-habecks-aufstieg-putins-plan-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-maradonas-tod-habecks-aufstieg-putins-plan-podcast-a-8898ec84-b2a9-48b6-a871-d408f6106d4f#ref=rss)
+* [https://www.spiegel.de/ausland/boris-johnson-weihnachtsparty-aufklaerer-simon-case-tritt-zurueck](https://www.spiegel.de/ausland/boris-johnson-weihnachtsparty-aufklaerer-simon-case-tritt-zurueck-a-06fc27f1-702c-409d-b891-0f23a7c6643d#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-das-risiko-fuer-herzmuskelentzuendungen-ist-bei-infizierten-hoeher-als-bei-geimpften](https://www.spiegel.de/wissenschaft/medizin/coronavirus-das-risiko-fuer-herzmuskelentzuendungen-ist-bei-infizierten-hoeher-als-bei-geimpften-a-64a0b6f4-8902-4385-b508-3926a935bd79#ref=rss)
-### infizierten
+* [https://www.spiegel.de/ausland/kapitol-attacke-trump-unterstuetzer-muss-fuenf-jahre-ins-gefaengnis](https://www.spiegel.de/ausland/kapitol-attacke-trump-unterstuetzer-muss-fuenf-jahre-ins-gefaengnis-a-96541b52-a900-4fe8-886b-877a274e8d0e#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-10-jahre-kim-jong-un-absoluter-herrscher-im-reich-des-schreckens](https://www.spiegel.de/ausland/nordkorea-10-jahre-kim-jong-un-absoluter-herrscher-im-reich-des-schreckens-a-6873bd76-59ac-490f-b71e-a62ea296c2c6#ref=rss)
+* [https://www.spiegel.de/panorama/landgericht-schweinfurt-mutter-ueberliess-maennern-ihre-tochter-zum-missbrauch-fuenf-jahre-freiheitsstrafe](https://www.spiegel.de/panorama/landgericht-schweinfurt-mutter-ueberliess-maennern-ihre-tochter-zum-missbrauch-fuenf-jahre-freiheitsstrafe-a-3407603f-6015-45f0-8acb-d52beeebd4fc#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-das-risiko-fuer-herzmuskelentzuendungen-ist-bei-infizierten-hoeher-als-bei-geimpften](https://www.spiegel.de/wissenschaft/medizin/coronavirus-das-risiko-fuer-herzmuskelentzuendungen-ist-bei-infizierten-hoeher-als-bei-geimpften-a-64a0b6f4-8902-4385-b508-3926a935bd79#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-hamburg-kennt-impfstatus-von-infizierten-oft-nicht](https://www.spiegel.de/politik/deutschland/coronavirus-hamburg-kennt-impfstatus-von-infizierten-oft-nicht-a-a5b72513-c532-4617-a5da-5e40476e9c3b#ref=rss)
-### ungeimpfte
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen-a-8eaa15ea-d112-4a59-9699-f57c9f0a2ae0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg-a-51e19366-0377-4932-bdf0-0656c0162287#ref=rss)
+### herbstmeister
 
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-das-risiko-fuer-herzmuskelentzuendungen-ist-bei-infizierten-hoeher-als-bei-geimpften](https://www.spiegel.de/wissenschaft/medizin/coronavirus-das-risiko-fuer-herzmuskelentzuendungen-ist-bei-infizierten-hoeher-als-bei-geimpften-a-64a0b6f4-8902-4385-b508-3926a935bd79#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-hamburg-kennt-impfstatus-von-infizierten-oft-nicht](https://www.spiegel.de/politik/deutschland/coronavirus-hamburg-kennt-impfstatus-von-infizierten-oft-nicht-a-a5b72513-c532-4617-a5da-5e40476e9c3b#ref=rss)
-### afd
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen-a-8eaa15ea-d112-4a59-9699-f57c9f0a2ae0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab-a-9a93c0b3-0620-41e2-a9e2-9ce1631fe917#ref=rss)
+### enorm
 
-* [https://www.spiegel.de/politik/deutschland/afd-antisemitismus-gehoert-laut-studie-zum-programmatischen-kern-der-partei](https://www.spiegel.de/politik/deutschland/afd-antisemitismus-gehoert-laut-studie-zum-programmatischen-kern-der-partei-a-ee57381b-a3c2-4910-a69e-d68e0bac8f73#ref=rss)
+* [https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/julian-nagelsmanns-hinrundenbilanz-als-trainer-des-fc-bayern-muenchen-a-8eaa15ea-d112-4a59-9699-f57c9f0a2ae0#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/psychologische-beratung-beim-studierendenwerk-mit-dieser-welle-haben-wir-nicht-gerechnet](https://www.spiegel.de/panorama/bildung/psychologische-beratung-beim-studierendenwerk-mit-dieser-welle-haben-wir-nicht-gerechnet-a-2ec6ddfc-2de4-4d3a-96b2-b0df2af5cf2f#ref=rss)
+### fest
+
+* [https://www.spiegel.de/deinspiegel/last-minute-weihnachtsgeschenke-basteln-besser-als-socken](https://www.spiegel.de/deinspiegel/last-minute-weihnachtsgeschenke-basteln-besser-als-socken-a-e195a92c-0002-0001-0000-000180592505#ref=rss)
+* [https://www.spiegel.de/panorama/hattingen-bein-eingeklemmt-junger-mann-steckt-nachts-stundenlang-auf-hochofen-fest](https://www.spiegel.de/panorama/hattingen-bein-eingeklemmt-junger-mann-steckt-nachts-stundenlang-auf-hochofen-fest-a-f86f0fe3-82a5-4f7e-99f1-045d096bf2da#ref=rss)
+### vietnam
+
+* [https://www.spiegel.de/karriere/vietnam-ein-deutscher-hat-in-asien-ein-bed-and-breakfast-aufgebaut](https://www.spiegel.de/karriere/vietnam-ein-deutscher-hat-in-asien-ein-bed-and-breakfast-aufgebaut-a-43ebca18-eb4a-437a-8010-d6a7ea1b8fa7#ref=rss)
+### bed
+
+* [https://www.spiegel.de/karriere/vietnam-ein-deutscher-hat-in-asien-ein-bed-and-breakfast-aufgebaut](https://www.spiegel.de/karriere/vietnam-ein-deutscher-hat-in-asien-ein-bed-and-breakfast-aufgebaut-a-43ebca18-eb4a-437a-8010-d6a7ea1b8fa7#ref=rss)
+### and
+
+* [https://www.spiegel.de/karriere/vietnam-ein-deutscher-hat-in-asien-ein-bed-and-breakfast-aufgebaut](https://www.spiegel.de/karriere/vietnam-ein-deutscher-hat-in-asien-ein-bed-and-breakfast-aufgebaut-a-43ebca18-eb4a-437a-8010-d6a7ea1b8fa7#ref=rss)
+### breakfast
+
+* [https://www.spiegel.de/karriere/vietnam-ein-deutscher-hat-in-asien-ein-bed-and-breakfast-aufgebaut](https://www.spiegel.de/karriere/vietnam-ein-deutscher-hat-in-asien-ein-bed-and-breakfast-aufgebaut-a-43ebca18-eb4a-437a-8010-d6a7ea1b8fa7#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/presseschau-zur-wahl-von-friedrich-merz-er-ist-ein-mann-von-gestern-keiner-fuer-morgen](https://www.spiegel.de/politik/deutschland/presseschau-zur-wahl-von-friedrich-merz-er-ist-ein-mann-von-gestern-keiner-fuer-morgen-a-f58f252b-394d-49dc-a72f-f62f135d8b98#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/presseschau-zur-wahl-von-friedrich-merz-er-ist-ein-mann-von-gestern-keiner-fuer-morgen](https://www.spiegel.de/politik/deutschland/presseschau-zur-wahl-von-friedrich-merz-er-ist-ein-mann-von-gestern-keiner-fuer-morgen-a-f58f252b-394d-49dc-a72f-f62f135d8b98#ref=rss)
 ### partei
 
-* [https://www.spiegel.de/politik/deutschland/afd-antisemitismus-gehoert-laut-studie-zum-programmatischen-kern-der-partei](https://www.spiegel.de/politik/deutschland/afd-antisemitismus-gehoert-laut-studie-zum-programmatischen-kern-der-partei-a-ee57381b-a3c2-4910-a69e-d68e0bac8f73#ref=rss)
-### alexander
+* [https://www.spiegel.de/politik/deutschland/presseschau-zur-wahl-von-friedrich-merz-er-ist-ein-mann-von-gestern-keiner-fuer-morgen](https://www.spiegel.de/politik/deutschland/presseschau-zur-wahl-von-friedrich-merz-er-ist-ein-mann-von-gestern-keiner-fuer-morgen-a-f58f252b-394d-49dc-a72f-f62f135d8b98#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-news-am-samstag-42-813-corona-neuinfektionen-krankenhaeuser-fuerchten-omikron-welle](https://www.spiegel.de/wissenschaft/corona-news-am-samstag-42-813-corona-neuinfektionen-krankenhaeuser-fuerchten-omikron-welle-a-6984736b-5fae-4420-9ab9-ad8b02511899#ref=rss)
+### köpping
 
-* [https://www.spiegel.de/panorama/leute/alexander-klaws-und-ehefrau-nadja-machen-paartherapie](https://www.spiegel.de/panorama/leute/alexander-klaws-und-ehefrau-nadja-machen-paartherapie-a-376370dc-fd8b-4424-b805-64e37d37503d#ref=rss)
-### klaws
+* [https://www.spiegel.de/politik/deutschland/corona-petra-koepping-ueber-fackelaufmarsch-diese-leute-haben-umsturzfantasien](https://www.spiegel.de/politik/deutschland/corona-petra-koepping-ueber-fackelaufmarsch-diese-leute-haben-umsturzfantasien-a-2083fa7e-64c6-452a-b2b8-c90fd53eb713#ref=rss)
+### drohungen
 
-* [https://www.spiegel.de/panorama/leute/alexander-klaws-und-ehefrau-nadja-machen-paartherapie](https://www.spiegel.de/panorama/leute/alexander-klaws-und-ehefrau-nadja-machen-paartherapie-a-376370dc-fd8b-4424-b805-64e37d37503d#ref=rss)
-### ehefrau
+* [https://www.spiegel.de/politik/deutschland/corona-petra-koepping-ueber-fackelaufmarsch-diese-leute-haben-umsturzfantasien](https://www.spiegel.de/politik/deutschland/corona-petra-koepping-ueber-fackelaufmarsch-diese-leute-haben-umsturzfantasien-a-2083fa7e-64c6-452a-b2b8-c90fd53eb713#ref=rss)
+* [https://www.spiegel.de/panorama/usa-angeblicher-aufruf-zu-schusswaffengewalt-an-schulen-auf-tiktok-sorgt-fuer-wirbel](https://www.spiegel.de/panorama/usa-angeblicher-aufruf-zu-schusswaffengewalt-an-schulen-auf-tiktok-sorgt-fuer-wirbel-a-92e48dd0-baf4-44b1-81ac-2bd794f4d5e4#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/leute/alexander-klaws-und-ehefrau-nadja-machen-paartherapie](https://www.spiegel.de/panorama/leute/alexander-klaws-und-ehefrau-nadja-machen-paartherapie-a-376370dc-fd8b-4424-b805-64e37d37503d#ref=rss)
-### paartherapie
+* [https://www.spiegel.de/politik/deutschland/corona-petra-koepping-ueber-fackelaufmarsch-diese-leute-haben-umsturzfantasien](https://www.spiegel.de/politik/deutschland/corona-petra-koepping-ueber-fackelaufmarsch-diese-leute-haben-umsturzfantasien-a-2083fa7e-64c6-452a-b2b8-c90fd53eb713#ref=rss)
+* [https://www.spiegel.de/panorama/joe-biden-kreml-kentucky-bilder-der-woche](https://www.spiegel.de/panorama/joe-biden-kreml-kentucky-bilder-der-woche-a-5995fbc6-5cec-44aa-8ce7-d9d37c5fde73#ref=rss)
+### dartswm
 
-* [https://www.spiegel.de/panorama/leute/alexander-klaws-und-ehefrau-nadja-machen-paartherapie](https://www.spiegel.de/panorama/leute/alexander-klaws-und-ehefrau-nadja-machen-paartherapie-a-376370dc-fd8b-4424-b805-64e37d37503d#ref=rss)
-### hamburg
+* [https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz](https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz-a-a6a8717b-9bd2-4303-ab28-a1ec51bdf5fc#ref=rss)
+### william
 
-* [https://www.spiegel.de/politik/deutschland/coronavirus-hamburg-kennt-impfstatus-von-infizierten-oft-nicht](https://www.spiegel.de/politik/deutschland/coronavirus-hamburg-kennt-impfstatus-von-infizierten-oft-nicht-a-a5b72513-c532-4617-a5da-5e40476e9c3b#ref=rss)
-### uschi
+* [https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz](https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz-a-a6a8717b-9bd2-4303-ab28-a1ec51bdf5fc#ref=rss)
+### borland
 
-* [https://www.spiegel.de/kultur/kein-corona-test-uschi-glas-liess-theaterstueck-mit-robert-atzorn-platzen](https://www.spiegel.de/kultur/kein-corona-test-uschi-glas-liess-theaterstueck-mit-robert-atzorn-platzen-a-d53dd494-073e-450d-8905-1657a0ff5b97#ref=rss)
-### glas
+* [https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz](https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz-a-a6a8717b-9bd2-4303-ab28-a1ec51bdf5fc#ref=rss)
+### spiel
 
-* [https://www.spiegel.de/kultur/kein-corona-test-uschi-glas-liess-theaterstueck-mit-robert-atzorn-platzen](https://www.spiegel.de/kultur/kein-corona-test-uschi-glas-liess-theaterstueck-mit-robert-atzorn-platzen-a-d53dd494-073e-450d-8905-1657a0ff5b97#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz](https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz-a-a6a8717b-9bd2-4303-ab28-a1ec51bdf5fc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg](https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg-a-2295eb44-b6c6-44f7-92d9-c8a88c911ef8#ref=rss)
+### erste
+
+* [https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz](https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz-a-a6a8717b-9bd2-4303-ab28-a1ec51bdf5fc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-das-raetsel-der-milden-omikron-verlaeufe](https://www.spiegel.de/wissenschaft/medizin/coronavirus-das-raetsel-der-milden-omikron-verlaeufe-a-c73c3807-7997-4d60-a98f-098bcd4480a8#ref=rss)
+### partie
+
+* [https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz](https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz-a-a6a8717b-9bd2-4303-ab28-a1ec51bdf5fc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg-a-51e19366-0377-4932-bdf0-0656c0162287#ref=rss)
+### entschieden
+
+* [https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz](https://www.spiegel.de/sport/darts-wm-2022-william-borland-gelingt-das-perfekte-spiel-im-entscheidenden-satz-a-a6a8717b-9bd2-4303-ab28-a1ec51bdf5fc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-entscheidet-ueber-fall-mit-verdecktem-ermittler-bei-zu-viel-druck-gibt-s-keine-strafe](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-entscheidet-ueber-fall-mit-verdecktem-ermittler-bei-zu-viel-druck-gibt-s-keine-strafe-a-3605c84d-55d0-4a9e-a26d-0d3fc300e2f7#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/panorama/joe-biden-kreml-kentucky-bilder-der-woche](https://www.spiegel.de/panorama/joe-biden-kreml-kentucky-bilder-der-woche-a-5995fbc6-5cec-44aa-8ce7-d9d37c5fde73#ref=rss)
+### benjamin
+
+* [https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg](https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg-a-2295eb44-b6c6-44f7-92d9-c8a88c911ef8#ref=rss)
+### pavard
+
+* [https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg](https://www.spiegel.de/sport/fussball/benjamin-pavard-kuriose-klo-szene-beim-fc-bayern-muenchen-sieg-gegen-wolfsburg-a-2295eb44-b6c6-44f7-92d9-c8a88c911ef8#ref=rss)
+### samstag
+
+* [https://www.spiegel.de/politik/deutschland/news-corona-proteste-impfpflicht-lukaschenko-fluechtlinge](https://www.spiegel.de/politik/deutschland/news-corona-proteste-impfpflicht-lukaschenko-fluechtlinge-a-d8b1b496-89b5-4c30-9608-64d7e6a661b9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/corona-news-am-samstag-42-813-corona-neuinfektionen-krankenhaeuser-fuerchten-omikron-welle](https://www.spiegel.de/wissenschaft/corona-news-am-samstag-42-813-corona-neuinfektionen-krankenhaeuser-fuerchten-omikron-welle-a-6984736b-5fae-4420-9ab9-ad8b02511899#ref=rss)
+### nrw
+
+* [https://www.spiegel.de/panorama/leute/glueckspilz-aus-nrw-knackt-73-millionen-euro-jackpot](https://www.spiegel.de/panorama/leute/glueckspilz-aus-nrw-knackt-73-millionen-euro-jackpot-a-a692a1e9-bfac-4e7a-b82f-6d32f9658cb3#ref=rss)
+### pandemie
+
+* [https://www.spiegel.de/panorama/leute/corona-garmisch-partenkirchen-die-skisaison-startet-mit-2g-konzept](https://www.spiegel.de/panorama/leute/corona-garmisch-partenkirchen-die-skisaison-startet-mit-2g-konzept-a-06701285-8eba-4a3f-9207-a7d177343615#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/psychologische-beratung-beim-studierendenwerk-mit-dieser-welle-haben-wir-nicht-gerechnet](https://www.spiegel.de/panorama/bildung/psychologische-beratung-beim-studierendenwerk-mit-dieser-welle-haben-wir-nicht-gerechnet-a-2ec6ddfc-2de4-4d3a-96b2-b0df2af5cf2f#ref=rss)
+### ich
+
+* [https://www.spiegel.de/partnerschaft/ehe-in-der-krise-wie-sage-ich-meiner-frau-dass-ich-eine-affaere-hatte](https://www.spiegel.de/partnerschaft/ehe-in-der-krise-wie-sage-ich-meiner-frau-dass-ich-eine-affaere-hatte-a-838d771f-8c5f-4d1c-92c6-3dd1df215ff0#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/ausland/kapitol-attacke-trump-unterstuetzer-muss-fuenf-jahre-ins-gefaengnis](https://www.spiegel.de/ausland/kapitol-attacke-trump-unterstuetzer-muss-fuenf-jahre-ins-gefaengnis-a-96541b52-a900-4fe8-886b-877a274e8d0e#ref=rss)
+* [https://www.spiegel.de/panorama/landgericht-schweinfurt-mutter-ueberliess-maennern-ihre-tochter-zum-missbrauch-fuenf-jahre-freiheitsstrafe](https://www.spiegel.de/panorama/landgericht-schweinfurt-mutter-ueberliess-maennern-ihre-tochter-zum-missbrauch-fuenf-jahre-freiheitsstrafe-a-3407603f-6015-45f0-8acb-d52beeebd4fc#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/bildung/psychologische-beratung-beim-studierendenwerk-mit-dieser-welle-haben-wir-nicht-gerechnet](https://www.spiegel.de/panorama/bildung/psychologische-beratung-beim-studierendenwerk-mit-dieser-welle-haben-wir-nicht-gerechnet-a-2ec6ddfc-2de4-4d3a-96b2-b0df2af5cf2f#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-10-jahre-kim-jong-un-absoluter-herrscher-im-reich-des-schreckens](https://www.spiegel.de/ausland/nordkorea-10-jahre-kim-jong-un-absoluter-herrscher-im-reich-des-schreckens-a-6873bd76-59ac-490f-b71e-a62ea296c2c6#ref=rss)
+### coronanews
+
+* [https://www.spiegel.de/wissenschaft/corona-news-am-samstag-42-813-corona-neuinfektionen-krankenhaeuser-fuerchten-omikron-welle](https://www.spiegel.de/wissenschaft/corona-news-am-samstag-42-813-corona-neuinfektionen-krankenhaeuser-fuerchten-omikron-welle-a-6984736b-5fae-4420-9ab9-ad8b02511899#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/wissenschaft/corona-news-am-samstag-42-813-corona-neuinfektionen-krankenhaeuser-fuerchten-omikron-welle](https://www.spiegel.de/wissenschaft/corona-news-am-samstag-42-813-corona-neuinfektionen-krankenhaeuser-fuerchten-omikron-welle-a-6984736b-5fae-4420-9ab9-ad8b02511899#ref=rss)
+* [https://www.spiegel.de/ausland/boris-johnson-weihnachtsparty-aufklaerer-simon-case-tritt-zurueck](https://www.spiegel.de/ausland/boris-johnson-weihnachtsparty-aufklaerer-simon-case-tritt-zurueck-a-06fc27f1-702c-409d-b891-0f23a7c6643d#ref=rss)
+### uns
+
+* [https://www.spiegel.de/psychologie/ueberforderung-warum-wir-nicht-immer-funktionieren-muessen](https://www.spiegel.de/psychologie/ueberforderung-warum-wir-nicht-immer-funktionieren-muessen-a-b04e5190-3dc9-4464-ad2e-d71b4b9c27fa#ref=rss)
+### habecks
+
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-maradonas-tod-habecks-aufstieg-putins-plan-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-maradonas-tod-habecks-aufstieg-putins-plan-podcast-a-8898ec84-b2a9-48b6-a871-d408f6106d4f#ref=rss)
+### aufstieg
+
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-maradonas-tod-habecks-aufstieg-putins-plan-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-maradonas-tod-habecks-aufstieg-putins-plan-podcast-a-8898ec84-b2a9-48b6-a871-d408f6106d4f#ref=rss)
+### maradonas
+
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-maradonas-tod-habecks-aufstieg-putins-plan-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-maradonas-tod-habecks-aufstieg-putins-plan-podcast-a-8898ec84-b2a9-48b6-a871-d408f6106d4f#ref=rss)
 ### robert
 
-* [https://www.spiegel.de/kultur/kein-corona-test-uschi-glas-liess-theaterstueck-mit-robert-atzorn-platzen](https://www.spiegel.de/kultur/kein-corona-test-uschi-glas-liess-theaterstueck-mit-robert-atzorn-platzen-a-d53dd494-073e-450d-8905-1657a0ff5b97#ref=rss)
-### atzorn
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-maradonas-tod-habecks-aufstieg-putins-plan-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-maradonas-tod-habecks-aufstieg-putins-plan-podcast-a-8898ec84-b2a9-48b6-a871-d408f6106d4f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg-a-51e19366-0377-4932-bdf0-0656c0162287#ref=rss)
+### usa
 
-* [https://www.spiegel.de/kultur/kein-corona-test-uschi-glas-liess-theaterstueck-mit-robert-atzorn-platzen](https://www.spiegel.de/kultur/kein-corona-test-uschi-glas-liess-theaterstueck-mit-robert-atzorn-platzen-a-d53dd494-073e-450d-8905-1657a0ff5b97#ref=rss)
-### streit
+* [https://www.spiegel.de/panorama/usa-angeblicher-aufruf-zu-schusswaffengewalt-an-schulen-auf-tiktok-sorgt-fuer-wirbel](https://www.spiegel.de/panorama/usa-angeblicher-aufruf-zu-schusswaffengewalt-an-schulen-auf-tiktok-sorgt-fuer-wirbel-a-92e48dd0-baf4-44b1-81ac-2bd794f4d5e4#ref=rss)
+### schusswaffengewalt
 
-* [https://www.spiegel.de/kultur/kein-corona-test-uschi-glas-liess-theaterstueck-mit-robert-atzorn-platzen](https://www.spiegel.de/kultur/kein-corona-test-uschi-glas-liess-theaterstueck-mit-robert-atzorn-platzen-a-d53dd494-073e-450d-8905-1657a0ff5b97#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen](https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen-a-86106785-b42e-4ec6-a7a2-b1559b12c0a6#ref=rss)
-### bettina
+* [https://www.spiegel.de/panorama/usa-angeblicher-aufruf-zu-schusswaffengewalt-an-schulen-auf-tiktok-sorgt-fuer-wirbel](https://www.spiegel.de/panorama/usa-angeblicher-aufruf-zu-schusswaffengewalt-an-schulen-auf-tiktok-sorgt-fuer-wirbel-a-92e48dd0-baf4-44b1-81ac-2bd794f4d5e4#ref=rss)
+### schulen
 
-* [https://www.spiegel.de/panorama/bildung/bildungsministerin-bettina-stark-watzinger-schulschliessungen-als-letztes-mittel](https://www.spiegel.de/panorama/bildung/bildungsministerin-bettina-stark-watzinger-schulschliessungen-als-letztes-mittel-a-b9853880-d5c7-4eed-b439-6fa695e96dd4#ref=rss)
-### starkwatzinger
+* [https://www.spiegel.de/panorama/usa-angeblicher-aufruf-zu-schusswaffengewalt-an-schulen-auf-tiktok-sorgt-fuer-wirbel](https://www.spiegel.de/panorama/usa-angeblicher-aufruf-zu-schusswaffengewalt-an-schulen-auf-tiktok-sorgt-fuer-wirbel-a-92e48dd0-baf4-44b1-81ac-2bd794f4d5e4#ref=rss)
+### tiktok
 
-* [https://www.spiegel.de/panorama/bildung/bildungsministerin-bettina-stark-watzinger-schulschliessungen-als-letztes-mittel](https://www.spiegel.de/panorama/bildung/bildungsministerin-bettina-stark-watzinger-schulschliessungen-als-letztes-mittel-a-b9853880-d5c7-4eed-b439-6fa695e96dd4#ref=rss)
-### continental
+* [https://www.spiegel.de/panorama/usa-angeblicher-aufruf-zu-schusswaffengewalt-an-schulen-auf-tiktok-sorgt-fuer-wirbel](https://www.spiegel.de/panorama/usa-angeblicher-aufruf-zu-schusswaffengewalt-an-schulen-auf-tiktok-sorgt-fuer-wirbel-a-92e48dd0-baf4-44b1-81ac-2bd794f4d5e4#ref=rss)
+### johnson
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen](https://www.spiegel.de/wirtschaft/unternehmen/taiwan-frage-continental-geraet-offenbar-in-streit-zwischen-china-und-litauen-a-86106785-b42e-4ec6-a7a2-b1559b12c0a6#ref=rss)
+* [https://www.spiegel.de/ausland/boris-johnson-weihnachtsparty-aufklaerer-simon-case-tritt-zurueck](https://www.spiegel.de/ausland/boris-johnson-weihnachtsparty-aufklaerer-simon-case-tritt-zurueck-a-06fc27f1-702c-409d-b891-0f23a7c6643d#ref=rss)
+### simon
+
+* [https://www.spiegel.de/ausland/boris-johnson-weihnachtsparty-aufklaerer-simon-case-tritt-zurueck](https://www.spiegel.de/ausland/boris-johnson-weihnachtsparty-aufklaerer-simon-case-tritt-zurueck-a-06fc27f1-702c-409d-b891-0f23a7c6643d#ref=rss)
+### case
+
+* [https://www.spiegel.de/ausland/boris-johnson-weihnachtsparty-aufklaerer-simon-case-tritt-zurueck](https://www.spiegel.de/ausland/boris-johnson-weihnachtsparty-aufklaerer-simon-case-tritt-zurueck-a-06fc27f1-702c-409d-b891-0f23a7c6643d#ref=rss)
+### fußballbundesliga
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg-a-51e19366-0377-4932-bdf0-0656c0162287#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab-a-9a93c0b3-0620-41e2-a9e2-9ce1631fe917#ref=rss)
+### vfl
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg-a-51e19366-0377-4932-bdf0-0656c0162287#ref=rss)
+### zweiten
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fussball-bundesliga-bayern-muenchen-gewinnt-gegen-vfl-wolfsburg-a-51e19366-0377-4932-bdf0-0656c0162287#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab-a-9a93c0b3-0620-41e2-a9e2-9ce1631fe917#ref=rss)
+### pegasus
+
+* [https://www.spiegel.de/netzwelt/gadgets/pegasus-von-nso-anatomie-eines-meisterhaften-iphone-hacks](https://www.spiegel.de/netzwelt/gadgets/pegasus-von-nso-anatomie-eines-meisterhaften-iphone-hacks-a-64877e57-891c-4925-b060-9bf16427e09e#ref=rss)
+### nso
+
+* [https://www.spiegel.de/netzwelt/gadgets/pegasus-von-nso-anatomie-eines-meisterhaften-iphone-hacks](https://www.spiegel.de/netzwelt/gadgets/pegasus-von-nso-anatomie-eines-meisterhaften-iphone-hacks-a-64877e57-891c-4925-b060-9bf16427e09e#ref=rss)
+### liga
+
+* [https://www.spiegel.de/netzwelt/gadgets/pegasus-von-nso-anatomie-eines-meisterhaften-iphone-hacks](https://www.spiegel.de/netzwelt/gadgets/pegasus-von-nso-anatomie-eines-meisterhaften-iphone-hacks-a-64877e57-891c-4925-b060-9bf16427e09e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab-a-9a93c0b3-0620-41e2-a9e2-9ce1631fe917#ref=rss)
+### omikron
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-das-raetsel-der-milden-omikron-verlaeufe](https://www.spiegel.de/wissenschaft/medizin/coronavirus-das-raetsel-der-milden-omikron-verlaeufe-a-c73c3807-7997-4d60-a98f-098bcd4480a8#ref=rss)
+### kiel
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab-a-9a93c0b3-0620-41e2-a9e2-9ce1631fe917#ref=rss)
+### st
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab-a-9a93c0b3-0620-41e2-a9e2-9ce1631fe917#ref=rss)
+### pauli
+
+* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-holstein-kiel-schiesst-tabellenfuehrer-fc-st-pauli-ab-a-9a93c0b3-0620-41e2-a9e2-9ce1631fe917#ref=rss)
+### bundesgerichtshof
+
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-entscheidet-ueber-fall-mit-verdecktem-ermittler-bei-zu-viel-druck-gibt-s-keine-strafe](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-entscheidet-ueber-fall-mit-verdecktem-ermittler-bei-zu-viel-druck-gibt-s-keine-strafe-a-3605c84d-55d0-4a9e-a26d-0d3fc300e2f7#ref=rss)
+### nordkorea
+
+* [https://www.spiegel.de/ausland/nordkorea-10-jahre-kim-jong-un-absoluter-herrscher-im-reich-des-schreckens](https://www.spiegel.de/ausland/nordkorea-10-jahre-kim-jong-un-absoluter-herrscher-im-reich-des-schreckens-a-6873bd76-59ac-490f-b71e-a62ea296c2c6#ref=rss)
+### kim
+
+* [https://www.spiegel.de/ausland/nordkorea-10-jahre-kim-jong-un-absoluter-herrscher-im-reich-des-schreckens](https://www.spiegel.de/ausland/nordkorea-10-jahre-kim-jong-un-absoluter-herrscher-im-reich-des-schreckens-a-6873bd76-59ac-490f-b71e-a62ea296c2c6#ref=rss)
+### jong
+
+* [https://www.spiegel.de/ausland/nordkorea-10-jahre-kim-jong-un-absoluter-herrscher-im-reich-des-schreckens](https://www.spiegel.de/ausland/nordkorea-10-jahre-kim-jong-un-absoluter-herrscher-im-reich-des-schreckens-a-6873bd76-59ac-490f-b71e-a62ea296c2c6#ref=rss)
+### un
+
+* [https://www.spiegel.de/ausland/nordkorea-10-jahre-kim-jong-un-absoluter-herrscher-im-reich-des-schreckens](https://www.spiegel.de/ausland/nordkorea-10-jahre-kim-jong-un-absoluter-herrscher-im-reich-des-schreckens-a-6873bd76-59ac-490f-b71e-a62ea296c2c6#ref=rss)
+### afrika
+
+* [https://www.spiegel.de/ausland/tuerkische-aussenpolitik-recep-tayyip-erdogans-plan-fuer-afrika](https://www.spiegel.de/ausland/tuerkische-aussenpolitik-recep-tayyip-erdogans-plan-fuer-afrika-a-84b94527-c2f4-4bd4-ae8a-081646d81eaa#ref=rss)
+### christian
+
+* [https://www.spiegel.de/sport/christian-eriksen-und-inter-mailand-loesen-vertrag-nach-herzstillstand-bei-fussball-em-auf](https://www.spiegel.de/sport/christian-eriksen-und-inter-mailand-loesen-vertrag-nach-herzstillstand-bei-fussball-em-auf-a-6733c20e-ef3e-41ed-affe-21afa65fa29c#ref=rss)
+### eriksen
+
+* [https://www.spiegel.de/sport/christian-eriksen-und-inter-mailand-loesen-vertrag-nach-herzstillstand-bei-fussball-em-auf](https://www.spiegel.de/sport/christian-eriksen-und-inter-mailand-loesen-vertrag-nach-herzstillstand-bei-fussball-em-auf-a-6733c20e-ef3e-41ed-affe-21afa65fa29c#ref=rss)
+### herzstillstand
+
+* [https://www.spiegel.de/sport/christian-eriksen-und-inter-mailand-loesen-vertrag-nach-herzstillstand-bei-fussball-em-auf](https://www.spiegel.de/sport/christian-eriksen-und-inter-mailand-loesen-vertrag-nach-herzstillstand-bei-fussball-em-auf-a-6733c20e-ef3e-41ed-affe-21afa65fa29c#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/landgericht-schweinfurt-mutter-ueberliess-maennern-ihre-tochter-zum-missbrauch-fuenf-jahre-freiheitsstrafe](https://www.spiegel.de/panorama/landgericht-schweinfurt-mutter-ueberliess-maennern-ihre-tochter-zum-missbrauch-fuenf-jahre-freiheitsstrafe-a-3407603f-6015-45f0-8acb-d52beeebd4fc#ref=rss)
 
