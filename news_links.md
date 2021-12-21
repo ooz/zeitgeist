@@ -4,316 +4,306 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
-
-* [https://www.spiegel.de/panorama/berlin-bankraeuber-verletzen-menschen-mit-reizgas](https://www.spiegel.de/panorama/berlin-bankraeuber-verletzen-menschen-mit-reizgas-a-9cd92bb5-8c21-4d88-9661-6d29725263a0#ref=rss)
-* [https://www.spiegel.de/ausland/argentinien-in-der-corona-krise-das-post-pandemie-trauma](https://www.spiegel.de/ausland/argentinien-in-der-corona-krise-das-post-pandemie-trauma-a-7fd82be8-7f3d-4abf-9534-048940bfabbf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bda-arbeitgeberpraesident-rainer-dulger-fuer-allgemeine-corona-impfpflicht](https://www.spiegel.de/wirtschaft/unternehmen/bda-arbeitgeberpraesident-rainer-dulger-fuer-allgemeine-corona-impfpflicht-a-adf310fe-ccb3-403f-b3b2-e717b4136c2a#ref=rss)
-* [https://www.spiegel.de/ausland/hongkong-warum-die-meisten-menschen-nicht-waehlen-wollten](https://www.spiegel.de/ausland/hongkong-warum-die-meisten-menschen-nicht-waehlen-wollten-a-827a724f-1efc-416a-948d-741d54ecf8ad#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/berlin-bankraeuber-verletzen-menschen-mit-reizgas](https://www.spiegel.de/panorama/berlin-bankraeuber-verletzen-menschen-mit-reizgas-a-9cd92bb5-8c21-4d88-9661-6d29725263a0#ref=rss)
-* [https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren](https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren-a-aacb56a5-45a3-4596-8b9b-c5528c601547#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/joe-biden-us-demokraten-wollen-anfang-januar-ueber-prestigeprojekt-des-praesidenten-abstimmen-lassen](https://www.spiegel.de/ausland/joe-biden-us-demokraten-wollen-anfang-januar-ueber-prestigeprojekt-des-praesidenten-abstimmen-lassen-a-4722400d-8d46-402f-9a21-722291ffc732#ref=rss)
-### joachim
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-omikron-bundesbank-chef-joachim-nagel-jagdschein](https://www.spiegel.de/politik/deutschland/news-des-tages-omikron-bundesbank-chef-joachim-nagel-jagdschein-a-b191e4ce-a0da-4e11-9597-d11942ee6a3c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesbank-wer-ist-joachim-nagel](https://www.spiegel.de/wirtschaft/bundesbank-wer-ist-joachim-nagel-a-ed2387f2-8922-4485-8132-591b790825a0#ref=rss)
-### nagel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-omikron-bundesbank-chef-joachim-nagel-jagdschein](https://www.spiegel.de/politik/deutschland/news-des-tages-omikron-bundesbank-chef-joachim-nagel-jagdschein-a-b191e4ce-a0da-4e11-9597-d11942ee6a3c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesbank-wer-ist-joachim-nagel](https://www.spiegel.de/wirtschaft/bundesbank-wer-ist-joachim-nagel-a-ed2387f2-8922-4485-8132-591b790825a0#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wissenschaft/mensch/grossbritannien-forscher-machen-ungewoehnlichen-mammutfund](https://www.spiegel.de/wissenschaft/mensch/grossbritannien-forscher-machen-ungewoehnlichen-mammutfund-a-b652b10f-403d-447f-99be-9a6cc0718288#ref=rss)
-* [https://www.spiegel.de/ausland/russland-weist-zwei-deutsche-diplomaten-aus-und-bestellt-botschafter-ein](https://www.spiegel.de/ausland/russland-weist-zwei-deutsche-diplomaten-aus-und-bestellt-botschafter-ein-a-7133a943-cfbe-4158-9813-6b38d29eb14f#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kuenftiger-cdu-chef-kommt-bei-aelteren-gut-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-kuenftiger-cdu-chef-kommt-bei-aelteren-gut-an-a-32666aa0-fb1c-4966-b6e4-9835b1ffad38#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-ema-empfiehlt-zulassung-des-proteinimpfstoffs-von-novavax](https://www.spiegel.de/wissenschaft/medizin/corona-ema-empfiehlt-zulassung-des-proteinimpfstoffs-von-novavax-a-68a76060-ff43-4415-a9cd-cb2040218094#ref=rss)
-* [https://www.spiegel.de/ausland/hongkong-warum-die-meisten-menschen-nicht-waehlen-wollten](https://www.spiegel.de/ausland/hongkong-warum-die-meisten-menschen-nicht-waehlen-wollten-a-827a724f-1efc-416a-948d-741d54ecf8ad#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/aktienmarkt-dax-sackt-deutlich-ab](https://www.spiegel.de/wirtschaft/aktienmarkt-dax-sackt-deutlich-ab-a-df1f96de-b28c-4f74-a733-6b2d230aac93#ref=rss)
-* [https://www.spiegel.de/ausland/argentinien-in-der-corona-krise-das-post-pandemie-trauma](https://www.spiegel.de/ausland/argentinien-in-der-corona-krise-das-post-pandemie-trauma-a-7fd82be8-7f3d-4abf-9534-048940bfabbf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen](https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen-a-df377ce6-16ad-4016-b340-5a672a04ed80#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/viya-chinesische-influencerin-muss-wegen-steuerhinterziehung-181-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/viya-chinesische-influencerin-muss-wegen-steuerhinterziehung-181-millionen-euro-strafe-zahlen-a-7cb5bd02-570a-491b-917e-895d977febd8#ref=rss)
-* [https://www.spiegel.de/kultur/spider-man-legt-besten-us-start-seit-beginn-der-pandemie-hin](https://www.spiegel.de/kultur/spider-man-legt-besten-us-start-seit-beginn-der-pandemie-hin-a-2fe94ba5-d466-4545-811a-284c82954459#ref=rss)
-### hongkong
-
-* [https://www.spiegel.de/ausland/hongkong-warum-die-meisten-menschen-nicht-waehlen-wollten](https://www.spiegel.de/ausland/hongkong-warum-die-meisten-menschen-nicht-waehlen-wollten-a-827a724f-1efc-416a-948d-741d54ecf8ad#ref=rss)
-### expräsident
-
-* [https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats](https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats-a-3dbfac63-d66b-4bd3-af61-8fc3a8018b8e#ref=rss)
-### petro
-
-* [https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats](https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats-a-3dbfac63-d66b-4bd3-af61-8fc3a8018b8e#ref=rss)
-### poroschenko
-
-* [https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats](https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats-a-3dbfac63-d66b-4bd3-af61-8fc3a8018b8e#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats](https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats-a-3dbfac63-d66b-4bd3-af61-8fc3a8018b8e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-plaedoyers-in-prozess-gegen-epstein-vertraute-sie-wusste-genau-was-sie-tat](https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-plaedoyers-in-prozess-gegen-epstein-vertraute-sie-wusste-genau-was-sie-tat-a-04c372ca-2835-4351-ab36-6f206abb3b06#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats](https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats-a-3dbfac63-d66b-4bd3-af61-8fc3a8018b8e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-weist-zwei-deutsche-diplomaten-aus-und-bestellt-botschafter-ein](https://www.spiegel.de/ausland/russland-weist-zwei-deutsche-diplomaten-aus-und-bestellt-botschafter-ein-a-7133a943-cfbe-4158-9813-6b38d29eb14f#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats](https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats-a-3dbfac63-d66b-4bd3-af61-8fc3a8018b8e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/grossbritannien-forscher-machen-ungewoehnlichen-mammutfund](https://www.spiegel.de/wissenschaft/mensch/grossbritannien-forscher-machen-ungewoehnlichen-mammutfund-a-b652b10f-403d-447f-99be-9a6cc0718288#ref=rss)
-### gefängnis
-
-* [https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats](https://www.spiegel.de/ausland/ukraine-ex-praesident-petro-poroschenko-droht-prozess-wegen-hochverrats-a-3dbfac63-d66b-4bd3-af61-8fc3a8018b8e#ref=rss)
-* [https://www.spiegel.de/ausland/hongkong-warum-die-meisten-menschen-nicht-waehlen-wollten](https://www.spiegel.de/ausland/hongkong-warum-die-meisten-menschen-nicht-waehlen-wollten-a-827a724f-1efc-416a-948d-741d54ecf8ad#ref=rss)
-### ghislaine
-
-* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-plaedoyers-in-prozess-gegen-epstein-vertraute-sie-wusste-genau-was-sie-tat](https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-plaedoyers-in-prozess-gegen-epstein-vertraute-sie-wusste-genau-was-sie-tat-a-04c372ca-2835-4351-ab36-6f206abb3b06#ref=rss)
-### maxwell
-
-* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-plaedoyers-in-prozess-gegen-epstein-vertraute-sie-wusste-genau-was-sie-tat](https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-plaedoyers-in-prozess-gegen-epstein-vertraute-sie-wusste-genau-was-sie-tat-a-04c372ca-2835-4351-ab36-6f206abb3b06#ref=rss)
-### epsteinvertraute
-
-* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-plaedoyers-in-prozess-gegen-epstein-vertraute-sie-wusste-genau-was-sie-tat](https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-plaedoyers-in-prozess-gegen-epstein-vertraute-sie-wusste-genau-was-sie-tat-a-04c372ca-2835-4351-ab36-6f206abb3b06#ref=rss)
-### junge
-
-* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-plaedoyers-in-prozess-gegen-epstein-vertraute-sie-wusste-genau-was-sie-tat](https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-plaedoyers-in-prozess-gegen-epstein-vertraute-sie-wusste-genau-was-sie-tat-a-04c372ca-2835-4351-ab36-6f206abb3b06#ref=rss)
-* [https://www.spiegel.de/ausland/chile-wahl-von-gabriel-boric-zum-praesidenten-ein-epochaler-wandel](https://www.spiegel.de/ausland/chile-wahl-von-gabriel-boric-zum-praesidenten-ein-epochaler-wandel-a-74350c2b-b989-4343-ba67-5d2d8eec0548#ref=rss)
-### januar
-
-* [https://www.spiegel.de/ausland/joe-biden-us-demokraten-wollen-anfang-januar-ueber-prestigeprojekt-des-praesidenten-abstimmen-lassen](https://www.spiegel.de/ausland/joe-biden-us-demokraten-wollen-anfang-januar-ueber-prestigeprojekt-des-praesidenten-abstimmen-lassen-a-4722400d-8d46-402f-9a21-722291ffc732#ref=rss)
-* [https://www.spiegel.de/wirtschaft/aktienmarkt-dax-sackt-deutlich-ab](https://www.spiegel.de/wirtschaft/aktienmarkt-dax-sackt-deutlich-ab-a-df1f96de-b28c-4f74-a733-6b2d230aac93#ref=rss)
-### präsidenten
-
-* [https://www.spiegel.de/ausland/joe-biden-us-demokraten-wollen-anfang-januar-ueber-prestigeprojekt-des-praesidenten-abstimmen-lassen](https://www.spiegel.de/ausland/joe-biden-us-demokraten-wollen-anfang-januar-ueber-prestigeprojekt-des-praesidenten-abstimmen-lassen-a-4722400d-8d46-402f-9a21-722291ffc732#ref=rss)
-* [https://www.spiegel.de/ausland/chile-wahl-von-gabriel-boric-zum-praesidenten-ein-epochaler-wandel](https://www.spiegel.de/ausland/chile-wahl-von-gabriel-boric-zum-praesidenten-ein-epochaler-wandel-a-74350c2b-b989-4343-ba67-5d2d8eec0548#ref=rss)
-### gabriel
-
-* [https://www.spiegel.de/ausland/chile-wahl-von-gabriel-boric-zum-praesidenten-ein-epochaler-wandel](https://www.spiegel.de/ausland/chile-wahl-von-gabriel-boric-zum-praesidenten-ein-epochaler-wandel-a-74350c2b-b989-4343-ba67-5d2d8eec0548#ref=rss)
-### boric
-
-* [https://www.spiegel.de/ausland/chile-wahl-von-gabriel-boric-zum-praesidenten-ein-epochaler-wandel](https://www.spiegel.de/ausland/chile-wahl-von-gabriel-boric-zum-praesidenten-ein-epochaler-wandel-a-74350c2b-b989-4343-ba67-5d2d8eec0548#ref=rss)
-### studierende
-
-* [https://www.spiegel.de/panorama/bildung/bafoeg-immer-weniger-studierende-beziehen-finanzielle-unterstuetzung-vom-staat](https://www.spiegel.de/panorama/bildung/bafoeg-immer-weniger-studierende-beziehen-finanzielle-unterstuetzung-vom-staat-a-189d8bf5-0a9d-4a33-85c1-a91e9fea703e#ref=rss)
-### finanzielle
-
-* [https://www.spiegel.de/panorama/bildung/bafoeg-immer-weniger-studierende-beziehen-finanzielle-unterstuetzung-vom-staat](https://www.spiegel.de/panorama/bildung/bafoeg-immer-weniger-studierende-beziehen-finanzielle-unterstuetzung-vom-staat-a-189d8bf5-0a9d-4a33-85c1-a91e9fea703e#ref=rss)
-### unterstützung
-
-* [https://www.spiegel.de/panorama/bildung/bafoeg-immer-weniger-studierende-beziehen-finanzielle-unterstuetzung-vom-staat](https://www.spiegel.de/panorama/bildung/bafoeg-immer-weniger-studierende-beziehen-finanzielle-unterstuetzung-vom-staat-a-189d8bf5-0a9d-4a33-85c1-a91e9fea703e#ref=rss)
-### staat
-
-* [https://www.spiegel.de/panorama/bildung/bafoeg-immer-weniger-studierende-beziehen-finanzielle-unterstuetzung-vom-staat](https://www.spiegel.de/panorama/bildung/bafoeg-immer-weniger-studierende-beziehen-finanzielle-unterstuetzung-vom-staat-a-189d8bf5-0a9d-4a33-85c1-a91e9fea703e#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/bildung/bafoeg-immer-weniger-studierende-beziehen-finanzielle-unterstuetzung-vom-staat](https://www.spiegel.de/panorama/bildung/bafoeg-immer-weniger-studierende-beziehen-finanzielle-unterstuetzung-vom-staat-a-189d8bf5-0a9d-4a33-85c1-a91e9fea703e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesbank-wer-ist-joachim-nagel](https://www.spiegel.de/wirtschaft/bundesbank-wer-ist-joachim-nagel-a-ed2387f2-8922-4485-8132-591b790825a0#ref=rss)
-### bundesbank
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-omikron-bundesbank-chef-joachim-nagel-jagdschein](https://www.spiegel.de/politik/deutschland/news-des-tages-omikron-bundesbank-chef-joachim-nagel-jagdschein-a-b191e4ce-a0da-4e11-9597-d11942ee6a3c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundesbank-wer-ist-joachim-nagel](https://www.spiegel.de/wirtschaft/bundesbank-wer-ist-joachim-nagel-a-ed2387f2-8922-4485-8132-591b790825a0#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-omikron-bundesbank-chef-joachim-nagel-jagdschein](https://www.spiegel.de/politik/deutschland/news-des-tages-omikron-bundesbank-chef-joachim-nagel-jagdschein-a-b191e4ce-a0da-4e11-9597-d11942ee6a3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kuenftiger-cdu-chef-kommt-bei-aelteren-gut-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-kuenftiger-cdu-chef-kommt-bei-aelteren-gut-an-a-32666aa0-fb1c-4966-b6e4-9835b1ffad38#ref=rss)
-### reizgas
-
-* [https://www.spiegel.de/panorama/berlin-bankraeuber-verletzen-menschen-mit-reizgas](https://www.spiegel.de/panorama/berlin-bankraeuber-verletzen-menschen-mit-reizgas-a-9cd92bb5-8c21-4d88-9661-6d29725263a0#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/wissenschaft/mensch/grossbritannien-forscher-machen-ungewoehnlichen-mammutfund](https://www.spiegel.de/wissenschaft/mensch/grossbritannien-forscher-machen-ungewoehnlichen-mammutfund-a-b652b10f-403d-447f-99be-9a6cc0718288#ref=rss)
-### florida
-
-* [https://www.spiegel.de/panorama/florida-teenager-verursachen-unfall-alligatoren-durch-heckscheibe-geschleudert](https://www.spiegel.de/panorama/florida-teenager-verursachen-unfall-alligatoren-durch-heckscheibe-geschleudert-a-9b732e46-0a9e-4827-a756-6b07f992d59a#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/psychologie/so-gelingt-das-corona-weihnachtsfest-sicherheit-und-familienstreit](https://www.spiegel.de/psychologie/so-gelingt-das-corona-weihnachtsfest-sicherheit-und-familienstreit-a-161222e0-4a9f-4a23-9026-7352aa530ad9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene](https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene-a-1f07279c-dd49-400a-a1b4-0d9e65a3c94e#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/backstage/leseraufruf-der-spiegel-erklaert-seine-arbeit](https://www.spiegel.de/backstage/leseraufruf-der-spiegel-erklaert-seine-arbeit-a-211f2927-dcc1-4272-a4d5-68324749ed2b#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/backstage/leseraufruf-der-spiegel-erklaert-seine-arbeit](https://www.spiegel.de/backstage/leseraufruf-der-spiegel-erklaert-seine-arbeit-a-211f2927-dcc1-4272-a4d5-68324749ed2b#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/backstage/leseraufruf-der-spiegel-erklaert-seine-arbeit](https://www.spiegel.de/backstage/leseraufruf-der-spiegel-erklaert-seine-arbeit-a-211f2927-dcc1-4272-a4d5-68324749ed2b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/marcus-held-bewaehrungsstrafe-fuer-ex-buergermeister-von-oppenheim](https://www.spiegel.de/politik/deutschland/marcus-held-bewaehrungsstrafe-fuer-ex-buergermeister-von-oppenheim-a-ab90d9bc-25c6-4dc2-90c4-7e811e6a6ec2#ref=rss)
-### wollten
-
-* [https://www.spiegel.de/backstage/leseraufruf-der-spiegel-erklaert-seine-arbeit](https://www.spiegel.de/backstage/leseraufruf-der-spiegel-erklaert-seine-arbeit-a-211f2927-dcc1-4272-a4d5-68324749ed2b#ref=rss)
-* [https://www.spiegel.de/ausland/hongkong-warum-die-meisten-menschen-nicht-waehlen-wollten](https://www.spiegel.de/ausland/hongkong-warum-die-meisten-menschen-nicht-waehlen-wollten-a-827a724f-1efc-416a-948d-741d54ecf8ad#ref=rss)
-### la
-
-* [https://www.spiegel.de/panorama/vulkan-rotwein-von-la-palma-zum-wohl-cumbre-vieja](https://www.spiegel.de/panorama/vulkan-rotwein-von-la-palma-zum-wohl-cumbre-vieja-a-d772041b-e04b-4c28-a028-68ccde1e0cf3#ref=rss)
-### palma
-
-* [https://www.spiegel.de/panorama/vulkan-rotwein-von-la-palma-zum-wohl-cumbre-vieja](https://www.spiegel.de/panorama/vulkan-rotwein-von-la-palma-zum-wohl-cumbre-vieja-a-d772041b-e04b-4c28-a028-68ccde1e0cf3#ref=rss)
-### vernichtet
-
-* [https://www.spiegel.de/panorama/vulkan-rotwein-von-la-palma-zum-wohl-cumbre-vieja](https://www.spiegel.de/panorama/vulkan-rotwein-von-la-palma-zum-wohl-cumbre-vieja-a-d772041b-e04b-4c28-a028-68ccde1e0cf3#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/vulkan-rotwein-von-la-palma-zum-wohl-cumbre-vieja](https://www.spiegel.de/panorama/vulkan-rotwein-von-la-palma-zum-wohl-cumbre-vieja-a-d772041b-e04b-4c28-a028-68ccde1e0cf3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen](https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen-a-df377ce6-16ad-4016-b340-5a672a04ed80#ref=rss)
-### hoch
-
-* [https://www.spiegel.de/wirtschaft/bundesbank-wer-ist-joachim-nagel](https://www.spiegel.de/wirtschaft/bundesbank-wer-ist-joachim-nagel-a-ed2387f2-8922-4485-8132-591b790825a0#ref=rss)
-* [https://www.spiegel.de/kultur/spider-man-legt-besten-us-start-seit-beginn-der-pandemie-hin](https://www.spiegel.de/kultur/spider-man-legt-besten-us-start-seit-beginn-der-pandemie-hin-a-2fe94ba5-d466-4545-811a-284c82954459#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/bundesbank-wer-ist-joachim-nagel](https://www.spiegel.de/wirtschaft/bundesbank-wer-ist-joachim-nagel-a-ed2387f2-8922-4485-8132-591b790825a0#ref=rss)
-* [https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren](https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren-a-aacb56a5-45a3-4596-8b9b-c5528c601547#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kuenftiger-cdu-chef-kommt-bei-aelteren-gut-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-kuenftiger-cdu-chef-kommt-bei-aelteren-gut-an-a-32666aa0-fb1c-4966-b6e4-9835b1ffad38#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kuenftiger-cdu-chef-kommt-bei-aelteren-gut-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-kuenftiger-cdu-chef-kommt-bei-aelteren-gut-an-a-32666aa0-fb1c-4966-b6e4-9835b1ffad38#ref=rss)
-### älteren
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kuenftiger-cdu-chef-kommt-bei-aelteren-gut-an](https://www.spiegel.de/politik/deutschland/friedrich-merz-kuenftiger-cdu-chef-kommt-bei-aelteren-gut-an-a-32666aa0-fb1c-4966-b6e4-9835b1ffad38#ref=rss)
-### dax
-
-* [https://www.spiegel.de/wirtschaft/aktienmarkt-dax-sackt-deutlich-ab](https://www.spiegel.de/wirtschaft/aktienmarkt-dax-sackt-deutlich-ab-a-df1f96de-b28c-4f74-a733-6b2d230aac93#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wirtschaft/aktienmarkt-dax-sackt-deutlich-ab](https://www.spiegel.de/wirtschaft/aktienmarkt-dax-sackt-deutlich-ab-a-df1f96de-b28c-4f74-a733-6b2d230aac93#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/ausland/russland-weist-zwei-deutsche-diplomaten-aus-und-bestellt-botschafter-ein](https://www.spiegel.de/ausland/russland-weist-zwei-deutsche-diplomaten-aus-und-bestellt-botschafter-ein-a-7133a943-cfbe-4158-9813-6b38d29eb14f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen](https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen-a-df377ce6-16ad-4016-b340-5a672a04ed80#ref=rss)
-### diplomaten
-
-* [https://www.spiegel.de/ausland/russland-weist-zwei-deutsche-diplomaten-aus-und-bestellt-botschafter-ein](https://www.spiegel.de/ausland/russland-weist-zwei-deutsche-diplomaten-aus-und-bestellt-botschafter-ein-a-7133a943-cfbe-4158-9813-6b38d29eb14f#ref=rss)
-### personen
-
-* [https://www.spiegel.de/ausland/russland-weist-zwei-deutsche-diplomaten-aus-und-bestellt-botschafter-ein](https://www.spiegel.de/ausland/russland-weist-zwei-deutsche-diplomaten-aus-und-bestellt-botschafter-ein-a-7133a943-cfbe-4158-9813-6b38d29eb14f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene](https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene-a-1f07279c-dd49-400a-a1b4-0d9e65a3c94e#ref=rss)
-### argentinien
-
-* [https://www.spiegel.de/ausland/argentinien-in-der-corona-krise-das-post-pandemie-trauma](https://www.spiegel.de/ausland/argentinien-in-der-corona-krise-das-post-pandemie-trauma-a-7fd82be8-7f3d-4abf-9534-048940bfabbf#ref=rss)
-### pandemie
-
-* [https://www.spiegel.de/ausland/argentinien-in-der-corona-krise-das-post-pandemie-trauma](https://www.spiegel.de/ausland/argentinien-in-der-corona-krise-das-post-pandemie-trauma-a-7fd82be8-7f3d-4abf-9534-048940bfabbf#ref=rss)
-* [https://www.spiegel.de/kultur/spider-man-legt-besten-us-start-seit-beginn-der-pandemie-hin](https://www.spiegel.de/kultur/spider-man-legt-besten-us-start-seit-beginn-der-pandemie-hin-a-2fe94ba5-d466-4545-811a-284c82954459#ref=rss)
-### david
-
-* [https://www.spiegel.de/kultur/musik/david-guetta-jeff-mills-und-afro-jack-hundertausende-feiern-bei-techno-festival-in-saudi-arabien](https://www.spiegel.de/kultur/musik/david-guetta-jeff-mills-und-afro-jack-hundertausende-feiern-bei-techno-festival-in-saudi-arabien-a-269b5150-4cf8-4a4c-b17b-01bd032e098c#ref=rss)
-### guetta
-
-* [https://www.spiegel.de/kultur/musik/david-guetta-jeff-mills-und-afro-jack-hundertausende-feiern-bei-techno-festival-in-saudi-arabien](https://www.spiegel.de/kultur/musik/david-guetta-jeff-mills-und-afro-jack-hundertausende-feiern-bei-techno-festival-in-saudi-arabien-a-269b5150-4cf8-4a4c-b17b-01bd032e098c#ref=rss)
-### jeff
-
-* [https://www.spiegel.de/kultur/musik/david-guetta-jeff-mills-und-afro-jack-hundertausende-feiern-bei-techno-festival-in-saudi-arabien](https://www.spiegel.de/kultur/musik/david-guetta-jeff-mills-und-afro-jack-hundertausende-feiern-bei-techno-festival-in-saudi-arabien-a-269b5150-4cf8-4a4c-b17b-01bd032e098c#ref=rss)
-### mills
-
-* [https://www.spiegel.de/kultur/musik/david-guetta-jeff-mills-und-afro-jack-hundertausende-feiern-bei-techno-festival-in-saudi-arabien](https://www.spiegel.de/kultur/musik/david-guetta-jeff-mills-und-afro-jack-hundertausende-feiern-bei-techno-festival-in-saudi-arabien-a-269b5150-4cf8-4a4c-b17b-01bd032e098c#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/kultur/musik/david-guetta-jeff-mills-und-afro-jack-hundertausende-feiern-bei-techno-festival-in-saudi-arabien](https://www.spiegel.de/kultur/musik/david-guetta-jeff-mills-und-afro-jack-hundertausende-feiern-bei-techno-festival-in-saudi-arabien-a-269b5150-4cf8-4a4c-b17b-01bd032e098c#ref=rss)
-### viya
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/viya-chinesische-influencerin-muss-wegen-steuerhinterziehung-181-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/viya-chinesische-influencerin-muss-wegen-steuerhinterziehung-181-millionen-euro-strafe-zahlen-a-7cb5bd02-570a-491b-917e-895d977febd8#ref=rss)
-### chinesische
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/viya-chinesische-influencerin-muss-wegen-steuerhinterziehung-181-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/viya-chinesische-influencerin-muss-wegen-steuerhinterziehung-181-millionen-euro-strafe-zahlen-a-7cb5bd02-570a-491b-917e-895d977febd8#ref=rss)
-### influencerin
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/viya-chinesische-influencerin-muss-wegen-steuerhinterziehung-181-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/viya-chinesische-influencerin-muss-wegen-steuerhinterziehung-181-millionen-euro-strafe-zahlen-a-7cb5bd02-570a-491b-917e-895d977febd8#ref=rss)
-### strafe
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/viya-chinesische-influencerin-muss-wegen-steuerhinterziehung-181-millionen-euro-strafe-zahlen](https://www.spiegel.de/wirtschaft/unternehmen/viya-chinesische-influencerin-muss-wegen-steuerhinterziehung-181-millionen-euro-strafe-zahlen-a-7cb5bd02-570a-491b-917e-895d977febd8#ref=rss)
-### corona
-
-* [https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene](https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene-a-1f07279c-dd49-400a-a1b4-0d9e65a3c94e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-ema-empfiehlt-zulassung-des-proteinimpfstoffs-von-novavax](https://www.spiegel.de/wissenschaft/medizin/corona-ema-empfiehlt-zulassung-des-proteinimpfstoffs-von-novavax-a-68a76060-ff43-4415-a9cd-cb2040218094#ref=rss)
-### geimpfte
-
-* [https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene](https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene-a-1f07279c-dd49-400a-a1b4-0d9e65a3c94e#ref=rss)
-### genesene
-
-* [https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene](https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene-a-1f07279c-dd49-400a-a1b4-0d9e65a3c94e#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene](https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene-a-1f07279c-dd49-400a-a1b4-0d9e65a3c94e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/marcus-held-bewaehrungsstrafe-fuer-ex-buergermeister-von-oppenheim](https://www.spiegel.de/politik/deutschland/marcus-held-bewaehrungsstrafe-fuer-ex-buergermeister-von-oppenheim-a-ab90d9bc-25c6-4dc2-90c4-7e811e6a6ec2#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene](https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-erwaegen-kontaktbeschraenkungen-auch-fuer-geimpfte-und-genesene-a-1f07279c-dd49-400a-a1b4-0d9e65a3c94e#ref=rss)
-* [https://www.spiegel.de/ausland/hongkong-warum-die-meisten-menschen-nicht-waehlen-wollten](https://www.spiegel.de/ausland/hongkong-warum-die-meisten-menschen-nicht-waehlen-wollten-a-827a724f-1efc-416a-948d-741d54ecf8ad#ref=rss)
-### marcus
-
-* [https://www.spiegel.de/politik/deutschland/marcus-held-bewaehrungsstrafe-fuer-ex-buergermeister-von-oppenheim](https://www.spiegel.de/politik/deutschland/marcus-held-bewaehrungsstrafe-fuer-ex-buergermeister-von-oppenheim-a-ab90d9bc-25c6-4dc2-90c4-7e811e6a6ec2#ref=rss)
-### held
-
-* [https://www.spiegel.de/politik/deutschland/marcus-held-bewaehrungsstrafe-fuer-ex-buergermeister-von-oppenheim](https://www.spiegel.de/politik/deutschland/marcus-held-bewaehrungsstrafe-fuer-ex-buergermeister-von-oppenheim-a-ab90d9bc-25c6-4dc2-90c4-7e811e6a6ec2#ref=rss)
-### bewährungsstrafe
-
-* [https://www.spiegel.de/politik/deutschland/marcus-held-bewaehrungsstrafe-fuer-ex-buergermeister-von-oppenheim](https://www.spiegel.de/politik/deutschland/marcus-held-bewaehrungsstrafe-fuer-ex-buergermeister-von-oppenheim-a-ab90d9bc-25c6-4dc2-90c4-7e811e6a6ec2#ref=rss)
-### oppenheim
-
-* [https://www.spiegel.de/politik/deutschland/marcus-held-bewaehrungsstrafe-fuer-ex-buergermeister-von-oppenheim](https://www.spiegel.de/politik/deutschland/marcus-held-bewaehrungsstrafe-fuer-ex-buergermeister-von-oppenheim-a-ab90d9bc-25c6-4dc2-90c4-7e811e6a6ec2#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen](https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen-a-df377ce6-16ad-4016-b340-5a672a04ed80#ref=rss)
+### omikron
+
+* [https://www.spiegel.de/gesundheit/diagnose/omikron-who-warnt-vor-treffen-an-weihnachten](https://www.spiegel.de/gesundheit/diagnose/omikron-who-warnt-vor-treffen-an-weihnachten-a-93c7ccc2-291c-4fa5-a486-a31d6ddd27a5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/corona-omikron-im-muenchner-abwasser-nachgewiesen](https://www.spiegel.de/wissenschaft/mensch/corona-omikron-im-muenchner-abwasser-nachgewiesen-a-fd093514-3b52-413f-b1b8-82381ea5f5f7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-variante-omikron-in-deutschland-viele-arbeitskraefte-wuerden-ausfallen](https://www.spiegel.de/wissenschaft/medizin/corona-variante-omikron-in-deutschland-viele-arbeitskraefte-wuerden-ausfallen-a-032b5f13-0958-48c9-a153-b2eda4d1f482#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax](https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax-a-a4766f86-bccd-4c3d-8a7f-c7383cc7c8c2#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/gesundheit/diagnose/omikron-who-warnt-vor-treffen-an-weihnachten](https://www.spiegel.de/gesundheit/diagnose/omikron-who-warnt-vor-treffen-an-weihnachten-a-93c7ccc2-291c-4fa5-a486-a31d6ddd27a5#ref=rss)
+* [https://www.spiegel.de/start/guenstiges-weihnachtsessen-vegetarisches-wellington-mit-pilzcreme-und-gruenkohl](https://www.spiegel.de/start/guenstiges-weihnachtsessen-vegetarisches-wellington-mit-pilzcreme-und-gruenkohl-a-ca866b69-380d-41e6-bf38-c10d9c1f8d06#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-variante-omikron-in-deutschland-viele-arbeitskraefte-wuerden-ausfallen](https://www.spiegel.de/wissenschaft/medizin/corona-variante-omikron-in-deutschland-viele-arbeitskraefte-wuerden-ausfallen-a-032b5f13-0958-48c9-a153-b2eda4d1f482#ref=rss)
+* [https://www.spiegel.de/stil/panettone-aus-dem-gefaengnis-wo-schwerverbrecher-koestlichen-weihnachtskuchen-herstellen](https://www.spiegel.de/stil/panettone-aus-dem-gefaengnis-wo-schwerverbrecher-koestlichen-weihnachtskuchen-herstellen-a-d58ff512-d6ad-4a86-b6b7-fea75988b079#ref=rss)
+* [https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast](https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast-a-e4cbf0b4-5547-4278-8cf4-65ed7a49086a#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen](https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen-a-df377ce6-16ad-4016-b340-5a672a04ed80#ref=rss)
-* [https://www.spiegel.de/kultur/spider-man-legt-besten-us-start-seit-beginn-der-pandemie-hin](https://www.spiegel.de/kultur/spider-man-legt-besten-us-start-seit-beginn-der-pandemie-hin-a-2fe94ba5-d466-4545-811a-284c82954459#ref=rss)
-### holen
+* [https://www.spiegel.de/wissenschaft/mensch/corona-omikron-im-muenchner-abwasser-nachgewiesen](https://www.spiegel.de/wissenschaft/mensch/corona-omikron-im-muenchner-abwasser-nachgewiesen-a-fd093514-3b52-413f-b1b8-82381ea5f5f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-anne-spiegel-will-mehr-zum-schutz-von-frauen-gegen-gewalt-tun](https://www.spiegel.de/politik/deutschland/bundesregierung-anne-spiegel-will-mehr-zum-schutz-von-frauen-gegen-gewalt-tun-a-8be2c1cf-6474-4923-b130-8e6ee2764cb7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-variante-omikron-in-deutschland-viele-arbeitskraefte-wuerden-ausfallen](https://www.spiegel.de/wissenschaft/medizin/corona-variante-omikron-in-deutschland-viele-arbeitskraefte-wuerden-ausfallen-a-032b5f13-0958-48c9-a153-b2eda4d1f482#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen](https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen-a-df377ce6-16ad-4016-b340-5a672a04ed80#ref=rss)
-### europa
+* [https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord](https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord-a-40aff4e6-c3e5-4868-b0fc-a28766fa50e7#ref=rss)
+* [https://www.spiegel.de/start/guenstiges-weihnachtsessen-vegetarisches-wellington-mit-pilzcreme-und-gruenkohl](https://www.spiegel.de/start/guenstiges-weihnachtsessen-vegetarisches-wellington-mit-pilzcreme-und-gruenkohl-a-ca866b69-380d-41e6-bf38-c10d9c1f8d06#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-anne-spiegel-will-mehr-zum-schutz-von-frauen-gegen-gewalt-tun](https://www.spiegel.de/politik/deutschland/bundesregierung-anne-spiegel-will-mehr-zum-schutz-von-frauen-gegen-gewalt-tun-a-8be2c1cf-6474-4923-b130-8e6ee2764cb7#ref=rss)
+### corona
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen](https://www.spiegel.de/wirtschaft/unternehmen/chip-mangel-robert-habeck-will-halbleiter-herstellung-nach-deutschland-holen-a-df377ce6-16ad-4016-b340-5a672a04ed80#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-ema-empfiehlt-zulassung-des-proteinimpfstoffs-von-novavax](https://www.spiegel.de/wissenschaft/medizin/corona-ema-empfiehlt-zulassung-des-proteinimpfstoffs-von-novavax-a-68a76060-ff43-4415-a9cd-cb2040218094#ref=rss)
+* [https://www.spiegel.de/ausland/corona-donald-trump-wegen-booster-beichte-ausgebuht](https://www.spiegel.de/ausland/corona-donald-trump-wegen-booster-beichte-ausgebuht-a-a8ebd841-c5ff-4d95-aa71-6cd661afdd86#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/corona-omikron-im-muenchner-abwasser-nachgewiesen](https://www.spiegel.de/wissenschaft/mensch/corona-omikron-im-muenchner-abwasser-nachgewiesen-a-fd093514-3b52-413f-b1b8-82381ea5f5f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht-a-35c4741d-e13e-4d45-9ebe-382cab750a75#ref=rss)
+### behörden
+
+* [https://www.spiegel.de/panorama/katar-regenbogenfarbenes-spielzeug-muss-weichen](https://www.spiegel.de/panorama/katar-regenbogenfarbenes-spielzeug-muss-weichen-a-a7dfe078-4db7-4418-91f1-00c3909d998e#ref=rss)
+* [https://www.spiegel.de/auto/blitzer-posse-im-saarland-wie-die-tempomessung-immer-wieder-scheitert](https://www.spiegel.de/auto/blitzer-posse-im-saarland-wie-die-tempomessung-immer-wieder-scheitert-a-d96af3ac-02ec-4fce-aaeb-4c91256003bd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-variante-omikron-in-deutschland-viele-arbeitskraefte-wuerden-ausfallen](https://www.spiegel.de/wissenschaft/medizin/corona-variante-omikron-in-deutschland-viele-arbeitskraefte-wuerden-ausfallen-a-032b5f13-0958-48c9-a153-b2eda4d1f482#ref=rss)
+### franziska
+
+* [https://www.spiegel.de/politik/deutschland/franziska-giffey-zur-buergermeisterin-in-berlin-gewaehlt](https://www.spiegel.de/politik/deutschland/franziska-giffey-zur-buergermeisterin-in-berlin-gewaehlt-a-f77a00ad-8f5b-46b3-8bb3-a4e5528a5810#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax](https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax-a-a4766f86-bccd-4c3d-8a7f-c7383cc7c8c2#ref=rss)
+### giffey
+
+* [https://www.spiegel.de/politik/deutschland/franziska-giffey-zur-buergermeisterin-in-berlin-gewaehlt](https://www.spiegel.de/politik/deutschland/franziska-giffey-zur-buergermeisterin-in-berlin-gewaehlt-a-f77a00ad-8f5b-46b3-8bb3-a4e5528a5810#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax](https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax-a-a4766f86-bccd-4c3d-8a7f-c7383cc7c8c2#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/qatar-airways-verklagt-airbus-maengel-an-flugzeugen](https://www.spiegel.de/wirtschaft/unternehmen/qatar-airways-verklagt-airbus-maengel-an-flugzeugen-a-7b5224e8-1631-4aa2-a4bc-c2f988faf41b#ref=rss)
+* [https://www.spiegel.de/start/guenstiges-weihnachtsessen-vegetarisches-wellington-mit-pilzcreme-und-gruenkohl](https://www.spiegel.de/start/guenstiges-weihnachtsessen-vegetarisches-wellington-mit-pilzcreme-und-gruenkohl-a-ca866b69-380d-41e6-bf38-c10d9c1f8d06#ref=rss)
+* [https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast](https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast-a-e4cbf0b4-5547-4278-8cf4-65ed7a49086a#ref=rss)
+### arbeit
+
+* [https://www.spiegel.de/start/guenstiges-weihnachtsessen-vegetarisches-wellington-mit-pilzcreme-und-gruenkohl](https://www.spiegel.de/start/guenstiges-weihnachtsessen-vegetarisches-wellington-mit-pilzcreme-und-gruenkohl-a-ca866b69-380d-41e6-bf38-c10d9c1f8d06#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-anne-spiegel-will-mehr-zum-schutz-von-frauen-gegen-gewalt-tun](https://www.spiegel.de/politik/deutschland/bundesregierung-anne-spiegel-will-mehr-zum-schutz-von-frauen-gegen-gewalt-tun-a-8be2c1cf-6474-4923-b130-8e6ee2764cb7#ref=rss)
+* [https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast](https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast-a-e4cbf0b4-5547-4278-8cf4-65ed7a49086a#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast](https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast-a-e4cbf0b4-5547-4278-8cf4-65ed7a49086a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-proteste-wer-laeuft-mit-und-worum-geht-es-ueberhaupt-podcast](https://www.spiegel.de/politik/deutschland/corona-proteste-wer-laeuft-mit-und-worum-geht-es-ueberhaupt-podcast-a-cc5b618f-a277-4498-8b91-dc5fcc803275#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/corona-donald-trump-wegen-booster-beichte-ausgebuht](https://www.spiegel.de/ausland/corona-donald-trump-wegen-booster-beichte-ausgebuht-a-a8ebd841-c5ff-4d95-aa71-6cd661afdd86#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/ausland/corona-donald-trump-wegen-booster-beichte-ausgebuht](https://www.spiegel.de/ausland/corona-donald-trump-wegen-booster-beichte-ausgebuht-a-a8ebd841-c5ff-4d95-aa71-6cd661afdd86#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht-a-35c4741d-e13e-4d45-9ebe-382cab750a75#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/gesundheit/diagnose/omikron-who-warnt-vor-treffen-an-weihnachten](https://www.spiegel.de/gesundheit/diagnose/omikron-who-warnt-vor-treffen-an-weihnachten-a-93c7ccc2-291c-4fa5-a486-a31d6ddd27a5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht-a-35c4741d-e13e-4d45-9ebe-382cab750a75#ref=rss)
+### rät
+
+* [https://www.spiegel.de/gesundheit/diagnose/omikron-who-warnt-vor-treffen-an-weihnachten](https://www.spiegel.de/gesundheit/diagnose/omikron-who-warnt-vor-treffen-an-weihnachten-a-93c7ccc2-291c-4fa5-a486-a31d6ddd27a5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-13-einsatzkraefte-bei-protesten-in-mannheim-verletzt](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-13-einsatzkraefte-bei-protesten-in-mannheim-verletzt-a-c21f476b-e104-474b-ae6b-215013bb1606#ref=rss)
+### später
+
+* [https://www.spiegel.de/gesundheit/diagnose/omikron-who-warnt-vor-treffen-an-weihnachten](https://www.spiegel.de/gesundheit/diagnose/omikron-who-warnt-vor-treffen-an-weihnachten-a-93c7ccc2-291c-4fa5-a486-a31d6ddd27a5#ref=rss)
+### feiern
+
+* [https://www.spiegel.de/gesundheit/diagnose/omikron-who-warnt-vor-treffen-an-weihnachten](https://www.spiegel.de/gesundheit/diagnose/omikron-who-warnt-vor-treffen-an-weihnachten-a-93c7ccc2-291c-4fa5-a486-a31d6ddd27a5#ref=rss)
+### katar
+
+* [https://www.spiegel.de/panorama/katar-regenbogenfarbenes-spielzeug-muss-weichen](https://www.spiegel.de/panorama/katar-regenbogenfarbenes-spielzeug-muss-weichen-a-a7dfe078-4db7-4418-91f1-00c3909d998e#ref=rss)
+### regenbogenfarbenes
+
+* [https://www.spiegel.de/panorama/katar-regenbogenfarbenes-spielzeug-muss-weichen](https://www.spiegel.de/panorama/katar-regenbogenfarbenes-spielzeug-muss-weichen-a-a7dfe078-4db7-4418-91f1-00c3909d998e#ref=rss)
+### spielzeug
+
+* [https://www.spiegel.de/panorama/katar-regenbogenfarbenes-spielzeug-muss-weichen](https://www.spiegel.de/panorama/katar-regenbogenfarbenes-spielzeug-muss-weichen-a-a7dfe078-4db7-4418-91f1-00c3909d998e#ref=rss)
+### aufgerufen
+
+* [https://www.spiegel.de/panorama/katar-regenbogenfarbenes-spielzeug-muss-weichen](https://www.spiegel.de/panorama/katar-regenbogenfarbenes-spielzeug-muss-weichen-a-a7dfe078-4db7-4418-91f1-00c3909d998e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-bodo-ramelow-entsetzt-ueber-aufruf-zu-demo-vor-haus-des-innenministers](https://www.spiegel.de/politik/deutschland/thueringen-bodo-ramelow-entsetzt-ueber-aufruf-zu-demo-vor-haus-des-innenministers-a-29b7bc5b-f1b8-411e-971b-d5ef38e0f28d#ref=rss)
+### eugh
+
+* [https://www.spiegel.de/wirtschaft/service/urteil-des-eugh-vorverlegte-fluege-gelten-als-annulliert](https://www.spiegel.de/wirtschaft/service/urteil-des-eugh-vorverlegte-fluege-gelten-als-annulliert-a-1f8a2f92-0338-4b4d-bba6-b09b80293d23#ref=rss)
+### flug
+
+* [https://www.spiegel.de/wirtschaft/service/urteil-des-eugh-vorverlegte-fluege-gelten-als-annulliert](https://www.spiegel.de/wirtschaft/service/urteil-des-eugh-vorverlegte-fluege-gelten-als-annulliert-a-1f8a2f92-0338-4b4d-bba6-b09b80293d23#ref=rss)
+### deshalb
+
+* [https://www.spiegel.de/wirtschaft/service/urteil-des-eugh-vorverlegte-fluege-gelten-als-annulliert](https://www.spiegel.de/wirtschaft/service/urteil-des-eugh-vorverlegte-fluege-gelten-als-annulliert-a-1f8a2f92-0338-4b4d-bba6-b09b80293d23#ref=rss)
+* [https://www.spiegel.de/ausland/china-verhaengt-im-uiguren-streit-neue-sanktionen-gegen-us-vertreter](https://www.spiegel.de/ausland/china-verhaengt-im-uiguren-streit-neue-sanktionen-gegen-us-vertreter-a-f668d3c7-c1b5-4695-8a56-196da740f19b#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/china-verhaengt-im-uiguren-streit-neue-sanktionen-gegen-us-vertreter](https://www.spiegel.de/ausland/china-verhaengt-im-uiguren-streit-neue-sanktionen-gegen-us-vertreter-a-f668d3c7-c1b5-4695-8a56-196da740f19b#ref=rss)
+### verhängt
+
+* [https://www.spiegel.de/ausland/china-verhaengt-im-uiguren-streit-neue-sanktionen-gegen-us-vertreter](https://www.spiegel.de/ausland/china-verhaengt-im-uiguren-streit-neue-sanktionen-gegen-us-vertreter-a-f668d3c7-c1b5-4695-8a56-196da740f19b#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/china-verhaengt-im-uiguren-streit-neue-sanktionen-gegen-us-vertreter](https://www.spiegel.de/ausland/china-verhaengt-im-uiguren-streit-neue-sanktionen-gegen-us-vertreter-a-f668d3c7-c1b5-4695-8a56-196da740f19b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/franziska-giffey-zur-buergermeisterin-in-berlin-gewaehlt](https://www.spiegel.de/politik/deutschland/franziska-giffey-zur-buergermeisterin-in-berlin-gewaehlt-a-f77a00ad-8f5b-46b3-8bb3-a4e5528a5810#ref=rss)
+### sanktionen
+
+* [https://www.spiegel.de/ausland/china-verhaengt-im-uiguren-streit-neue-sanktionen-gegen-us-vertreter](https://www.spiegel.de/ausland/china-verhaengt-im-uiguren-streit-neue-sanktionen-gegen-us-vertreter-a-f668d3c7-c1b5-4695-8a56-196da740f19b#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/china-verhaengt-im-uiguren-streit-neue-sanktionen-gegen-us-vertreter](https://www.spiegel.de/ausland/china-verhaengt-im-uiguren-streit-neue-sanktionen-gegen-us-vertreter-a-f668d3c7-c1b5-4695-8a56-196da740f19b#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/usa-drittklaessler-in-washington-d-c-muessen-holocaust-nachspielen](https://www.spiegel.de/panorama/bildung/usa-drittklaessler-in-washington-d-c-muessen-holocaust-nachspielen-a-b4aa46d3-3cc2-4c9b-8495-09e18bf23e04#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/wissenschaft/mensch/corona-omikron-im-muenchner-abwasser-nachgewiesen](https://www.spiegel.de/wissenschaft/mensch/corona-omikron-im-muenchner-abwasser-nachgewiesen-a-fd093514-3b52-413f-b1b8-82381ea5f5f7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/wer-wird-millionaer-21-jahre-lang-beworben-thomas-mueller-gewinnt-nur-500-euro](https://www.spiegel.de/panorama/leute/wer-wird-millionaer-21-jahre-lang-beworben-thomas-mueller-gewinnt-nur-500-euro-a-5e6ec446-5c8e-40a6-8b81-0afc61dc8636#ref=rss)
+### bürgermeisterin
+
+* [https://www.spiegel.de/politik/deutschland/franziska-giffey-zur-buergermeisterin-in-berlin-gewaehlt](https://www.spiegel.de/politik/deutschland/franziska-giffey-zur-buergermeisterin-in-berlin-gewaehlt-a-f77a00ad-8f5b-46b3-8bb3-a4e5528a5810#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/franziska-giffey-zur-buergermeisterin-in-berlin-gewaehlt](https://www.spiegel.de/politik/deutschland/franziska-giffey-zur-buergermeisterin-in-berlin-gewaehlt-a-f77a00ad-8f5b-46b3-8bb3-a4e5528a5810#ref=rss)
+### erste
+
+* [https://www.spiegel.de/politik/deutschland/franziska-giffey-zur-buergermeisterin-in-berlin-gewaehlt](https://www.spiegel.de/politik/deutschland/franziska-giffey-zur-buergermeisterin-in-berlin-gewaehlt-a-f77a00ad-8f5b-46b3-8bb3-a4e5528a5810#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/japan-laesst-drei-verurteilte-moerder-hinrichten](https://www.spiegel.de/panorama/justiz/japan-laesst-drei-verurteilte-moerder-hinrichten-a-8da2556b-ca2d-470f-be6d-fd918bca90d2#ref=rss)
+### raymond
+
+* [https://www.spiegel.de/sport/darts-wm-2022-ex-weltmeister-raymond-van-barneveld-siegt-bei-seinem-comeback](https://www.spiegel.de/sport/darts-wm-2022-ex-weltmeister-raymond-van-barneveld-siegt-bei-seinem-comeback-a-ca26a4d2-0281-43f5-9c10-094ae9db5644#ref=rss)
+### van
+
+* [https://www.spiegel.de/sport/darts-wm-2022-ex-weltmeister-raymond-van-barneveld-siegt-bei-seinem-comeback](https://www.spiegel.de/sport/darts-wm-2022-ex-weltmeister-raymond-van-barneveld-siegt-bei-seinem-comeback-a-ca26a4d2-0281-43f5-9c10-094ae9db5644#ref=rss)
+### barneveld
+
+* [https://www.spiegel.de/sport/darts-wm-2022-ex-weltmeister-raymond-van-barneveld-siegt-bei-seinem-comeback](https://www.spiegel.de/sport/darts-wm-2022-ex-weltmeister-raymond-van-barneveld-siegt-bei-seinem-comeback-a-ca26a4d2-0281-43f5-9c10-094ae9db5644#ref=rss)
+### karriere
+
+* [https://www.spiegel.de/sport/darts-wm-2022-ex-weltmeister-raymond-van-barneveld-siegt-bei-seinem-comeback](https://www.spiegel.de/sport/darts-wm-2022-ex-weltmeister-raymond-van-barneveld-siegt-bei-seinem-comeback-a-ca26a4d2-0281-43f5-9c10-094ae9db5644#ref=rss)
+* [https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast](https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast-a-e4cbf0b4-5547-4278-8cf4-65ed7a49086a#ref=rss)
+### james
+
+* [https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-james-webb-folgt-hubble-ein-klappspiegel-im-weltall](https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-james-webb-folgt-hubble-ein-klappspiegel-im-weltall-a-2e37bdb5-4aaa-4593-96f6-4f55c7de7534#ref=rss)
+### webb
+
+* [https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-james-webb-folgt-hubble-ein-klappspiegel-im-weltall](https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-james-webb-folgt-hubble-ein-klappspiegel-im-weltall-a-2e37bdb5-4aaa-4593-96f6-4f55c7de7534#ref=rss)
+### endlich
+
+* [https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-james-webb-folgt-hubble-ein-klappspiegel-im-weltall](https://www.spiegel.de/wissenschaft/weltall/weltraumteleskop-james-webb-folgt-hubble-ein-klappspiegel-im-weltall-a-2e37bdb5-4aaa-4593-96f6-4f55c7de7534#ref=rss)
+* [https://www.spiegel.de/panorama/leute/wer-wird-millionaer-21-jahre-lang-beworben-thomas-mueller-gewinnt-nur-500-euro](https://www.spiegel.de/panorama/leute/wer-wird-millionaer-21-jahre-lang-beworben-thomas-mueller-gewinnt-nur-500-euro-a-5e6ec446-5c8e-40a6-8b81-0afc61dc8636#ref=rss)
+### ramelow
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-bodo-ramelow-entsetzt-ueber-aufruf-zu-demo-vor-haus-des-innenministers](https://www.spiegel.de/politik/deutschland/thueringen-bodo-ramelow-entsetzt-ueber-aufruf-zu-demo-vor-haus-des-innenministers-a-29b7bc5b-f1b8-411e-971b-d5ef38e0f28d#ref=rss)
+### haus
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-bodo-ramelow-entsetzt-ueber-aufruf-zu-demo-vor-haus-des-innenministers](https://www.spiegel.de/politik/deutschland/thueringen-bodo-ramelow-entsetzt-ueber-aufruf-zu-demo-vor-haus-des-innenministers-a-29b7bc5b-f1b8-411e-971b-d5ef38e0f28d#ref=rss)
+### innenministers
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-bodo-ramelow-entsetzt-ueber-aufruf-zu-demo-vor-haus-des-innenministers](https://www.spiegel.de/politik/deutschland/thueringen-bodo-ramelow-entsetzt-ueber-aufruf-zu-demo-vor-haus-des-innenministers-a-29b7bc5b-f1b8-411e-971b-d5ef38e0f28d#ref=rss)
+### qatar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/qatar-airways-verklagt-airbus-maengel-an-flugzeugen](https://www.spiegel.de/wirtschaft/unternehmen/qatar-airways-verklagt-airbus-maengel-an-flugzeugen-a-7b5224e8-1631-4aa2-a4bc-c2f988faf41b#ref=rss)
+### airways
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/qatar-airways-verklagt-airbus-maengel-an-flugzeugen](https://www.spiegel.de/wirtschaft/unternehmen/qatar-airways-verklagt-airbus-maengel-an-flugzeugen-a-7b5224e8-1631-4aa2-a4bc-c2f988faf41b#ref=rss)
+### airbus
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/qatar-airways-verklagt-airbus-maengel-an-flugzeugen](https://www.spiegel.de/wirtschaft/unternehmen/qatar-airways-verklagt-airbus-maengel-an-flugzeugen-a-7b5224e8-1631-4aa2-a4bc-c2f988faf41b#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht-a-35c4741d-e13e-4d45-9ebe-382cab750a75#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-13-einsatzkraefte-bei-protesten-in-mannheim-verletzt](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-13-einsatzkraefte-bei-protesten-in-mannheim-verletzt-a-c21f476b-e104-474b-ae6b-215013bb1606#ref=rss)
+### beraten
+
+* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht-a-35c4741d-e13e-4d45-9ebe-382cab750a75#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax](https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax-a-a4766f86-bccd-4c3d-8a7f-c7383cc7c8c2#ref=rss)
+### maßnahmen
+
+* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht-a-35c4741d-e13e-4d45-9ebe-382cab750a75#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tuerkei-tuerkische-lira-erholt-sich-dank-massnahmenpaket](https://www.spiegel.de/wirtschaft/tuerkei-tuerkische-lira-erholt-sich-dank-massnahmenpaket-a-a473928e-aa0d-443d-b6d0-803e872b7c55#ref=rss)
+### laut
+
+* [https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-markus-soeder-fordert-rasches-signal-zur-impfpflicht-a-35c4741d-e13e-4d45-9ebe-382cab750a75#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-laut-ezb-vizechef-nicht-so-voruebergehend-wie-erwartet](https://www.spiegel.de/wirtschaft/inflation-laut-ezb-vizechef-nicht-so-voruebergehend-wie-erwartet-a-38b2876d-24c1-4b11-9d2a-b7d4fcf9e2ac#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/panorama/leute/wer-wird-millionaer-21-jahre-lang-beworben-thomas-mueller-gewinnt-nur-500-euro](https://www.spiegel.de/panorama/leute/wer-wird-millionaer-21-jahre-lang-beworben-thomas-mueller-gewinnt-nur-500-euro-a-5e6ec446-5c8e-40a6-8b81-0afc61dc8636#ref=rss)
+### müller
+
+* [https://www.spiegel.de/panorama/leute/wer-wird-millionaer-21-jahre-lang-beworben-thomas-mueller-gewinnt-nur-500-euro](https://www.spiegel.de/panorama/leute/wer-wird-millionaer-21-jahre-lang-beworben-thomas-mueller-gewinnt-nur-500-euro-a-5e6ec446-5c8e-40a6-8b81-0afc61dc8636#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/leute/wer-wird-millionaer-21-jahre-lang-beworben-thomas-mueller-gewinnt-nur-500-euro](https://www.spiegel.de/panorama/leute/wer-wird-millionaer-21-jahre-lang-beworben-thomas-mueller-gewinnt-nur-500-euro-a-5e6ec446-5c8e-40a6-8b81-0afc61dc8636#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/japan-laesst-drei-verurteilte-moerder-hinrichten](https://www.spiegel.de/panorama/justiz/japan-laesst-drei-verurteilte-moerder-hinrichten-a-8da2556b-ca2d-470f-be6d-fd918bca90d2#ref=rss)
+### schnell
+
+* [https://www.spiegel.de/panorama/leute/wer-wird-millionaer-21-jahre-lang-beworben-thomas-mueller-gewinnt-nur-500-euro](https://www.spiegel.de/panorama/leute/wer-wird-millionaer-21-jahre-lang-beworben-thomas-mueller-gewinnt-nur-500-euro-a-5e6ec446-5c8e-40a6-8b81-0afc61dc8636#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-variante-omikron-in-deutschland-viele-arbeitskraefte-wuerden-ausfallen](https://www.spiegel.de/wissenschaft/medizin/corona-variante-omikron-in-deutschland-viele-arbeitskraefte-wuerden-ausfallen-a-032b5f13-0958-48c9-a153-b2eda4d1f482#ref=rss)
+### saarland
+
+* [https://www.spiegel.de/auto/blitzer-posse-im-saarland-wie-die-tempomessung-immer-wieder-scheitert](https://www.spiegel.de/auto/blitzer-posse-im-saarland-wie-die-tempomessung-immer-wieder-scheitert-a-d96af3ac-02ec-4fce-aaeb-4c91256003bd#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord](https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord-a-40aff4e6-c3e5-4868-b0fc-a28766fa50e7#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/auto/blitzer-posse-im-saarland-wie-die-tempomessung-immer-wieder-scheitert](https://www.spiegel.de/auto/blitzer-posse-im-saarland-wie-die-tempomessung-immer-wieder-scheitert-a-d96af3ac-02ec-4fce-aaeb-4c91256003bd#ref=rss)
+* [https://www.spiegel.de/start/guenstiges-weihnachtsessen-vegetarisches-wellington-mit-pilzcreme-und-gruenkohl](https://www.spiegel.de/start/guenstiges-weihnachtsessen-vegetarisches-wellington-mit-pilzcreme-und-gruenkohl-a-ca866b69-380d-41e6-bf38-c10d9c1f8d06#ref=rss)
+### st
+
+* [https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord](https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord-a-40aff4e6-c3e5-4868-b0fc-a28766fa50e7#ref=rss)
+### nikolaus
+
+* [https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord](https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord-a-40aff4e6-c3e5-4868-b0fc-a28766fa50e7#ref=rss)
+### nikolauspostamt
+
+* [https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord](https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord-a-40aff4e6-c3e5-4868-b0fc-a28766fa50e7#ref=rss)
+### 30000
+
+* [https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord](https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord-a-40aff4e6-c3e5-4868-b0fc-a28766fa50e7#ref=rss)
+### briefe
+
+* [https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord](https://www.spiegel.de/panorama/gesellschaft/st-nikolaus-nikolauspostamt-im-saarland-erreichen-mehr-als-30-000-briefe-rekord-a-40aff4e6-c3e5-4868-b0fc-a28766fa50e7#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/wirtschaft/inflation-laut-ezb-vizechef-nicht-so-voruebergehend-wie-erwartet](https://www.spiegel.de/wirtschaft/inflation-laut-ezb-vizechef-nicht-so-voruebergehend-wie-erwartet-a-38b2876d-24c1-4b11-9d2a-b7d4fcf9e2ac#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/wirtschaft/inflation-laut-ezb-vizechef-nicht-so-voruebergehend-wie-erwartet](https://www.spiegel.de/wirtschaft/inflation-laut-ezb-vizechef-nicht-so-voruebergehend-wie-erwartet-a-38b2876d-24c1-4b11-9d2a-b7d4fcf9e2ac#ref=rss)
+* [https://www.spiegel.de/stil/panettone-aus-dem-gefaengnis-wo-schwerverbrecher-koestlichen-weihnachtskuchen-herstellen](https://www.spiegel.de/stil/panettone-aus-dem-gefaengnis-wo-schwerverbrecher-koestlichen-weihnachtskuchen-herstellen-a-d58ff512-d6ad-4a86-b6b7-fea75988b079#ref=rss)
+### sophia
+
+* [https://www.spiegel.de/panorama/leute/sophia-thomalla-ich-kann-manchmal-nur-mit-alkohol-abliefern](https://www.spiegel.de/panorama/leute/sophia-thomalla-ich-kann-manchmal-nur-mit-alkohol-abliefern-a-635f1536-4622-4a02-9dd3-db531fdaf8a6#ref=rss)
+### thomalla
+
+* [https://www.spiegel.de/panorama/leute/sophia-thomalla-ich-kann-manchmal-nur-mit-alkohol-abliefern](https://www.spiegel.de/panorama/leute/sophia-thomalla-ich-kann-manchmal-nur-mit-alkohol-abliefern-a-635f1536-4622-4a02-9dd3-db531fdaf8a6#ref=rss)
+### chris
+
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-stars-distanzieren-sich-von-chris-noth](https://www.spiegel.de/panorama/leute/sex-and-the-city-stars-distanzieren-sich-von-chris-noth-a-712249ac-0b03-4a7c-b055-c1d1cfe92855#ref=rss)
+### noth
+
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-stars-distanzieren-sich-von-chris-noth](https://www.spiegel.de/panorama/leute/sex-and-the-city-stars-distanzieren-sich-von-chris-noth-a-712249ac-0b03-4a7c-b055-c1d1cfe92855#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/leute/sex-and-the-city-stars-distanzieren-sich-von-chris-noth](https://www.spiegel.de/panorama/leute/sex-and-the-city-stars-distanzieren-sich-von-chris-noth-a-712249ac-0b03-4a7c-b055-c1d1cfe92855#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-anne-spiegel-will-mehr-zum-schutz-von-frauen-gegen-gewalt-tun](https://www.spiegel.de/politik/deutschland/bundesregierung-anne-spiegel-will-mehr-zum-schutz-von-frauen-gegen-gewalt-tun-a-8be2c1cf-6474-4923-b130-8e6ee2764cb7#ref=rss)
+### washington
+
+* [https://www.spiegel.de/panorama/bildung/usa-drittklaessler-in-washington-d-c-muessen-holocaust-nachspielen](https://www.spiegel.de/panorama/bildung/usa-drittklaessler-in-washington-d-c-muessen-holocaust-nachspielen-a-b4aa46d3-3cc2-4c9b-8495-09e18bf23e04#ref=rss)
+### dc
+
+* [https://www.spiegel.de/panorama/bildung/usa-drittklaessler-in-washington-d-c-muessen-holocaust-nachspielen](https://www.spiegel.de/panorama/bildung/usa-drittklaessler-in-washington-d-c-muessen-holocaust-nachspielen-a-b4aa46d3-3cc2-4c9b-8495-09e18bf23e04#ref=rss)
+### holocaust
+
+* [https://www.spiegel.de/panorama/bildung/usa-drittklaessler-in-washington-d-c-muessen-holocaust-nachspielen](https://www.spiegel.de/panorama/bildung/usa-drittklaessler-in-washington-d-c-muessen-holocaust-nachspielen-a-b4aa46d3-3cc2-4c9b-8495-09e18bf23e04#ref=rss)
+### junge
+
+* [https://www.spiegel.de/panorama/bildung/usa-drittklaessler-in-washington-d-c-muessen-holocaust-nachspielen](https://www.spiegel.de/panorama/bildung/usa-drittklaessler-in-washington-d-c-muessen-holocaust-nachspielen-a-b4aa46d3-3cc2-4c9b-8495-09e18bf23e04#ref=rss)
+* [https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast](https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast-a-e4cbf0b4-5547-4278-8cf4-65ed7a49086a#ref=rss)
+### japan
+
+* [https://www.spiegel.de/panorama/justiz/japan-laesst-drei-verurteilte-moerder-hinrichten](https://www.spiegel.de/panorama/justiz/japan-laesst-drei-verurteilte-moerder-hinrichten-a-8da2556b-ca2d-470f-be6d-fd918bca90d2#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/justiz/japan-laesst-drei-verurteilte-moerder-hinrichten](https://www.spiegel.de/panorama/justiz/japan-laesst-drei-verurteilte-moerder-hinrichten-a-8da2556b-ca2d-470f-be6d-fd918bca90d2#ref=rss)
+### anne
+
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-anne-spiegel-will-mehr-zum-schutz-von-frauen-gegen-gewalt-tun](https://www.spiegel.de/politik/deutschland/bundesregierung-anne-spiegel-will-mehr-zum-schutz-von-frauen-gegen-gewalt-tun-a-8be2c1cf-6474-4923-b130-8e6ee2764cb7#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-anne-spiegel-will-mehr-zum-schutz-von-frauen-gegen-gewalt-tun](https://www.spiegel.de/politik/deutschland/bundesregierung-anne-spiegel-will-mehr-zum-schutz-von-frauen-gegen-gewalt-tun-a-8be2c1cf-6474-4923-b130-8e6ee2764cb7#ref=rss)
+### besten
+
+* [https://www.spiegel.de/stil/panettone-aus-dem-gefaengnis-wo-schwerverbrecher-koestlichen-weihnachtskuchen-herstellen](https://www.spiegel.de/stil/panettone-aus-dem-gefaengnis-wo-schwerverbrecher-koestlichen-weihnachtskuchen-herstellen-a-d58ff512-d6ad-4a86-b6b7-fea75988b079#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax](https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax-a-a4766f86-bccd-4c3d-8a7f-c7383cc7c8c2#ref=rss)
+### dienstag
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-13-einsatzkraefte-bei-protesten-in-mannheim-verletzt](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-13-einsatzkraefte-bei-protesten-in-mannheim-verletzt-a-c21f476b-e104-474b-ae6b-215013bb1606#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax](https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax-a-a4766f86-bccd-4c3d-8a7f-c7383cc7c8c2#ref=rss)
+### pandemie
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-13-einsatzkraefte-bei-protesten-in-mannheim-verletzt](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-13-einsatzkraefte-bei-protesten-in-mannheim-verletzt-a-c21f476b-e104-474b-ae6b-215013bb1606#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-proteste-wer-laeuft-mit-und-worum-geht-es-ueberhaupt-podcast](https://www.spiegel.de/politik/deutschland/corona-proteste-wer-laeuft-mit-und-worum-geht-es-ueberhaupt-podcast-a-cc5b618f-a277-4498-8b91-dc5fcc803275#ref=rss)
+### judith
+
+* [https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast](https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast-a-e4cbf0b4-5547-4278-8cf4-65ed7a49086a#ref=rss)
+### beck
+
+* [https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast](https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast-a-e4cbf0b4-5547-4278-8cf4-65ed7a49086a#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast](https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast-a-e4cbf0b4-5547-4278-8cf4-65ed7a49086a#ref=rss)
+### post
+
+* [https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast](https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast-a-e4cbf0b4-5547-4278-8cf4-65ed7a49086a#ref=rss)
+### denkt
+
+* [https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast](https://www.spiegel.de/start/junge-chefs-wie-judith-beck-bei-der-deutschen-post-karriere-macht-podcast-a-e4cbf0b4-5547-4278-8cf4-65ed7a49086a#ref=rss)
 ### bayern
 
-* [https://www.spiegel.de/sport/fussball/women-s-champions-league-fc-bayern-trifft-auf-paris-vfl-wolfsburg-auf-arsenal](https://www.spiegel.de/sport/fussball/women-s-champions-league-fc-bayern-trifft-auf-paris-vfl-wolfsburg-auf-arsenal-a-e9db0db6-a2fc-4153-a043-091ee231c2e6#ref=rss)
-### vfl
-
-* [https://www.spiegel.de/sport/fussball/women-s-champions-league-fc-bayern-trifft-auf-paris-vfl-wolfsburg-auf-arsenal](https://www.spiegel.de/sport/fussball/women-s-champions-league-fc-bayern-trifft-auf-paris-vfl-wolfsburg-auf-arsenal-a-e9db0db6-a2fc-4153-a043-091ee231c2e6#ref=rss)
-### novavax
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-ema-empfiehlt-zulassung-des-proteinimpfstoffs-von-novavax](https://www.spiegel.de/wissenschaft/medizin/corona-ema-empfiehlt-zulassung-des-proteinimpfstoffs-von-novavax-a-68a76060-ff43-4415-a9cd-cb2040218094#ref=rss)
-### erotikadventskalendern
-
-* [https://www.spiegel.de/wirtschaft/service/verbraucherschuetzer-mahnen-anbieter-von-erotik-adventskalendern-ab](https://www.spiegel.de/wirtschaft/service/verbraucherschuetzer-mahnen-anbieter-von-erotik-adventskalendern-ab-a-764a7511-9dcd-4b81-b892-5e042ccbe9de#ref=rss)
-### rainer
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bda-arbeitgeberpraesident-rainer-dulger-fuer-allgemeine-corona-impfpflicht](https://www.spiegel.de/wirtschaft/unternehmen/bda-arbeitgeberpraesident-rainer-dulger-fuer-allgemeine-corona-impfpflicht-a-adf310fe-ccb3-403f-b3b2-e717b4136c2a#ref=rss)
-### dulger
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bda-arbeitgeberpraesident-rainer-dulger-fuer-allgemeine-corona-impfpflicht](https://www.spiegel.de/wirtschaft/unternehmen/bda-arbeitgeberpraesident-rainer-dulger-fuer-allgemeine-corona-impfpflicht-a-adf310fe-ccb3-403f-b3b2-e717b4136c2a#ref=rss)
-### spiderman
-
-* [https://www.spiegel.de/kultur/spider-man-legt-besten-us-start-seit-beginn-der-pandemie-hin](https://www.spiegel.de/kultur/spider-man-legt-besten-us-start-seit-beginn-der-pandemie-hin-a-2fe94ba5-d466-4545-811a-284c82954459#ref=rss)
-### bummel
-
-* [https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren](https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren-a-aacb56a5-45a3-4596-8b9b-c5528c601547#ref=rss)
-### japanischen
-
-* [https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren](https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren-a-aacb56a5-45a3-4596-8b9b-c5528c601547#ref=rss)
-### confiserien
-
-* [https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren](https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren-a-aacb56a5-45a3-4596-8b9b-c5528c601547#ref=rss)
-### portugiesischen
-
-* [https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren](https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren-a-aacb56a5-45a3-4596-8b9b-c5528c601547#ref=rss)
-### bäckern
-
-* [https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren](https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren-a-aacb56a5-45a3-4596-8b9b-c5528c601547#ref=rss)
-### syrischen
-
-* [https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren](https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren-a-aacb56a5-45a3-4596-8b9b-c5528c601547#ref=rss)
-### konditoren
-
-* [https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren](https://www.spiegel.de/reise/staedte/berlin-ein-bummel-zu-japanischen-confiserien-portugiesischen-baeckern-und-syrischen-konditoren-a-aacb56a5-45a3-4596-8b9b-c5528c601547#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax](https://www.spiegel.de/politik/deutschland/news-corona-virus-omikron-franziska-giffey-bayern-novavax-a-a4766f86-bccd-4c3d-8a7f-c7383cc7c8c2#ref=rss)
 
