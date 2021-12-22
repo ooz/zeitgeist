@@ -111,13 +111,13 @@ erneute(426) mag(426) amerikanische(425) beschreibt(425) verzweifelt(425) aufgef
 
 ```
 date, investment, buy price, sell price
-2021-12-15 10:10:19, 1-EUR, 1.13 USD, 1.13 USD
-2021-12-15 10:10:19, 1-EUR, 7.19 CNY, 7.19 CNY
-2021-12-15 10:10:19, crude-oil-brent-barrel, 73.04 USD, 73.04 USD
-2021-12-15 10:10:20, gold-10g, 527.67 EUR, 499.6 EUR
-2021-12-15 10:10:25, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2021-12-15 10:10:27, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
-2021-12-15 10:10:28, lego-2019-60225-1-rovertestfahrt, 25.0 USD, 25.0 USD
+2021-12-22 10:10:09, 1-EUR, 1.12 USD, 1.12 USD
+2021-12-22 10:10:09, 1-EUR, 7.19 CNY, 7.19 CNY
+2021-12-22 10:10:10, crude-oil-brent-barrel, 74.37 USD, 74.37 USD
+2021-12-22 10:10:10, gold-10g, 532.72 EUR, 504.63 EUR
+2021-12-22 10:10:16, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2021-12-22 10:10:17, lego-2019-60224-1-satellitenwartung, 10.0 USD, 10.0 USD
+2021-12-22 10:10:19, lego-2019-60225-1-rovertestfahrt, 25.0 USD, 25.0 USD
 ```
 
 <footer>
