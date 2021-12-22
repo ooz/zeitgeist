@@ -4,305 +4,322 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### corona
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen-a-2142d176-7aaa-4cdb-9a4a-205ab723eced#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream-a-1c69189d-3264-4c95-b9ef-f5593483e64a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-diskutieren-ueber-quarantaene-befreiung-fuer-infizierte-in-kritischen-berufen](https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-diskutieren-ueber-quarantaene-befreiung-fuer-infizierte-in-kritischen-berufen-a-7336e2ad-86b9-4e2e-b211-fcbb6c1a8fa6#ref=rss)
-* [https://www.spiegel.de/reise/corona-wie-das-reisejahr-2022-verlaufen-koennte](https://www.spiegel.de/reise/corona-wie-das-reisejahr-2022-verlaufen-koennte-a-a05d143d-ba07-46b8-b62e-3af01fb04492#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/triage-wegen-corona-krebsforscher-schlagen-alarm-wegen-versorgungsproblemen](https://www.spiegel.de/gesundheit/diagnose/triage-wegen-corona-krebsforscher-schlagen-alarm-wegen-versorgungsproblemen-a-e3d8eaab-9cae-4508-86fc-3d6aa900a3f9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-laender-draengen-bundesregierung-zu-entscheidung-wegen-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-laender-draengen-bundesregierung-zu-entscheidung-wegen-impfpflicht-a-aac11802-6003-4b6b-a35f-fd83b35f43db#ref=rss)
-* [https://www.spiegel.de/kultur/corona-maskenpflicht-und-impfnachweise-das-kontrolldilemma-kolumne](https://www.spiegel.de/kultur/corona-maskenpflicht-und-impfnachweise-das-kontrolldilemma-kolumne-a-5bec3c5e-ab0e-426c-838a-0766ba849e29#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen-a-2142d176-7aaa-4cdb-9a4a-205ab723eced#ref=rss)
-* [https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren](https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren-a-2d9e8aee-fd76-4db1-a510-ab64fa146664#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream-a-1c69189d-3264-4c95-b9ef-f5593483e64a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki](https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki-a-f6b4ca77-4b24-456f-bb1c-4f2baa4feceb#ref=rss)
-* [https://www.spiegel.de/ausland/olaf-scholz-und-xi-jinping-wollen-deutsch-chinesische-beziehungen-vertiefen](https://www.spiegel.de/ausland/olaf-scholz-und-xi-jinping-wollen-deutsch-chinesische-beziehungen-vertiefen-a-1b57a83c-2a17-430e-9b48-a9b05f7c18dd#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen-a-2142d176-7aaa-4cdb-9a4a-205ab723eced#ref=rss)
-* [https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren](https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren-a-2d9e8aee-fd76-4db1-a510-ab64fa146664#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream-a-1c69189d-3264-4c95-b9ef-f5593483e64a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki](https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki-a-f6b4ca77-4b24-456f-bb1c-4f2baa4feceb#ref=rss)
-* [https://www.spiegel.de/ausland/olaf-scholz-und-xi-jinping-wollen-deutsch-chinesische-beziehungen-vertiefen](https://www.spiegel.de/ausland/olaf-scholz-und-xi-jinping-wollen-deutsch-chinesische-beziehungen-vertiefen-a-1b57a83c-2a17-430e-9b48-a9b05f7c18dd#ref=rss)
-### länder
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen-a-2142d176-7aaa-4cdb-9a4a-205ab723eced#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-diskutieren-ueber-quarantaene-befreiung-fuer-infizierte-in-kritischen-berufen](https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-diskutieren-ueber-quarantaene-befreiung-fuer-infizierte-in-kritischen-berufen-a-7336e2ad-86b9-4e2e-b211-fcbb6c1a8fa6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-laender-draengen-bundesregierung-zu-entscheidung-wegen-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-laender-draengen-bundesregierung-zu-entscheidung-wegen-impfpflicht-a-aac11802-6003-4b6b-a35f-fd83b35f43db#ref=rss)
-### kontaktbeschränkungen
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen-a-2142d176-7aaa-4cdb-9a4a-205ab723eced#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream-a-1c69189d-3264-4c95-b9ef-f5593483e64a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki](https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki-a-f6b4ca77-4b24-456f-bb1c-4f2baa4feceb#ref=rss)
-### weihnachten
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen-a-2142d176-7aaa-4cdb-9a4a-205ab723eced#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream-a-1c69189d-3264-4c95-b9ef-f5593483e64a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki](https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki-a-f6b4ca77-4b24-456f-bb1c-4f2baa4feceb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/murcia-drogendealer-wollten-korb-mit-kokain-haschisch-und-schinken-verlosen](https://www.spiegel.de/panorama/justiz/murcia-drogendealer-wollten-korb-mit-kokain-haschisch-und-schinken-verlosen-a-e607efad-9be9-48ef-a5e3-715dc2649bcb#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren](https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren-a-2d9e8aee-fd76-4db1-a510-ab64fa146664#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-zeigt-test-mit-unbemannter-kampfdrohne-auf-der-krim](https://www.spiegel.de/ausland/ukraine-russland-zeigt-test-mit-unbemannter-kampfdrohne-auf-der-krim-a-5a1e376a-7af8-47a9-8d75-e9383e179e79#ref=rss)
-### rki
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream-a-1c69189d-3264-4c95-b9ef-f5593483e64a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki](https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki-a-f6b4ca77-4b24-456f-bb1c-4f2baa4feceb#ref=rss)
-### bund
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen-a-2142d176-7aaa-4cdb-9a4a-205ab723eced#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-diskutieren-ueber-quarantaene-befreiung-fuer-infizierte-in-kritischen-berufen](https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-diskutieren-ueber-quarantaene-befreiung-fuer-infizierte-in-kritischen-berufen-a-7336e2ad-86b9-4e2e-b211-fcbb6c1a8fa6#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen-a-2142d176-7aaa-4cdb-9a4a-205ab723eced#ref=rss)
-* [https://www.spiegel.de/ausland/chile-mit-gabriel-boric-kommt-eine-neue-generation-von-linken-an-die-macht](https://www.spiegel.de/ausland/chile-mit-gabriel-boric-kommt-eine-neue-generation-von-linken-an-die-macht-a-6051b7b2-b092-46ca-9ad6-58002b408a80#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/london-big-ben-soll-zu-neujahr-laeuten](https://www.spiegel.de/panorama/gesellschaft/london-big-ben-soll-zu-neujahr-laeuten-a-51a3f8f8-3825-40af-acae-f8c485b6a436#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen-a-2142d176-7aaa-4cdb-9a4a-205ab723eced#ref=rss)
-* [https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren](https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren-a-2d9e8aee-fd76-4db1-a510-ab64fa146664#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream-a-1c69189d-3264-4c95-b9ef-f5593483e64a#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-bund-und-laender-einigen-sich-auf-schaerfere-kontaktbeschraenkungen-a-2142d176-7aaa-4cdb-9a4a-205ab723eced#ref=rss)
-* [https://www.spiegel.de/reise/corona-wie-das-reisejahr-2022-verlaufen-koennte](https://www.spiegel.de/reise/corona-wie-das-reisejahr-2022-verlaufen-koennte-a-a05d143d-ba07-46b8-b62e-3af01fb04492#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-zum-jahrestag-der-kapitol-krawalle-pressekonferenz-geben](https://www.spiegel.de/ausland/usa-donald-trump-will-zum-jahrestag-der-kapitol-krawalle-pressekonferenz-geben-a-fae13947-455b-4cdb-8349-bb63e53ea895#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-70-jaehriger-braust-mit-selbst-gebautem-e-bike-an-polizei-vorbei](https://www.spiegel.de/panorama/justiz/gelsenkirchen-70-jaehriger-braust-mit-selbst-gebautem-e-bike-an-polizei-vorbei-a-a599b044-96fe-4775-885e-b0669f30164b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/murcia-drogendealer-wollten-korb-mit-kokain-haschisch-und-schinken-verlosen](https://www.spiegel.de/panorama/justiz/murcia-drogendealer-wollten-korb-mit-kokain-haschisch-und-schinken-verlosen-a-e607efad-9be9-48ef-a5e3-715dc2649bcb#ref=rss)
-### lockdown
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angst-vor-dem-lockdown-ezb-vize-ueber-die-inflation-weihnachtsgeschenke-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-angst-vor-dem-lockdown-ezb-vize-ueber-die-inflation-weihnachtsgeschenke-fuer-kinder-a-1799d075-70f7-48a7-b057-ec844e008065#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki](https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki-a-f6b4ca77-4b24-456f-bb1c-4f2baa4feceb#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angst-vor-dem-lockdown-ezb-vize-ueber-die-inflation-weihnachtsgeschenke-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-angst-vor-dem-lockdown-ezb-vize-ueber-die-inflation-weihnachtsgeschenke-fuer-kinder-a-1799d075-70f7-48a7-b057-ec844e008065#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bayern-wie-kitas-die-corona-testpflicht-umsetzen-wollen](https://www.spiegel.de/panorama/bildung/bayern-wie-kitas-die-corona-testpflicht-umsetzen-wollen-a-09bcf294-b33a-49a1-97dc-33dd9df65235#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren](https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren-a-2d9e8aee-fd76-4db1-a510-ab64fa146664#ref=rss)
-### westen
-
-* [https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren](https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren-a-2d9e8aee-fd76-4db1-a510-ab64fa146664#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-zeigt-test-mit-unbemannter-kampfdrohne-auf-der-krim](https://www.spiegel.de/ausland/ukraine-russland-zeigt-test-mit-unbemannter-kampfdrohne-auf-der-krim-a-5a1e376a-7af8-47a9-8d75-e9383e179e79#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren](https://www.spiegel.de/ausland/russland-stoppt-gaslieferungen-via-jamal-pipeline-olaf-scholz-und-wladimir-putin-telefonieren-a-2d9e8aee-fd76-4db1-a510-ab64fa146664#ref=rss)
-* [https://www.spiegel.de/ausland/olaf-scholz-und-xi-jinping-wollen-deutsch-chinesische-beziehungen-vertiefen](https://www.spiegel.de/ausland/olaf-scholz-und-xi-jinping-wollen-deutsch-chinesische-beziehungen-vertiefen-a-1b57a83c-2a17-430e-9b48-a9b05f7c18dd#ref=rss)
-### 70jähriger
-
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-70-jaehriger-braust-mit-selbst-gebautem-e-bike-an-polizei-vorbei](https://www.spiegel.de/panorama/justiz/gelsenkirchen-70-jaehriger-braust-mit-selbst-gebautem-e-bike-an-polizei-vorbei-a-a599b044-96fe-4775-885e-b0669f30164b#ref=rss)
-### ebike
-
-* [https://www.spiegel.de/panorama/justiz/gelsenkirchen-70-jaehriger-braust-mit-selbst-gebautem-e-bike-an-polizei-vorbei](https://www.spiegel.de/panorama/justiz/gelsenkirchen-70-jaehriger-braust-mit-selbst-gebautem-e-bike-an-polizei-vorbei-a-a599b044-96fe-4775-885e-b0669f30164b#ref=rss)
-### anderen
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream-a-1c69189d-3264-4c95-b9ef-f5593483e64a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/murcia-drogendealer-wollten-korb-mit-kokain-haschisch-und-schinken-verlosen](https://www.spiegel.de/panorama/justiz/murcia-drogendealer-wollten-korb-mit-kokain-haschisch-und-schinken-verlosen-a-e607efad-9be9-48ef-a5e3-715dc2649bcb#ref=rss)
-### maximale
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream-a-1c69189d-3264-4c95-b9ef-f5593483e64a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki](https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki-a-f6b4ca77-4b24-456f-bb1c-4f2baa4feceb#ref=rss)
-### pressekonferenz
-
-* [https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream](https://www.spiegel.de/politik/deutschland/corona-olaf-scholz-zu-kontaktbeschraenkungen-und-anderen-massnahmen-livestream-a-1c69189d-3264-4c95-b9ef-f5593483e64a#ref=rss)
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-zum-jahrestag-der-kapitol-krawalle-pressekonferenz-geben](https://www.spiegel.de/ausland/usa-donald-trump-will-zum-jahrestag-der-kapitol-krawalle-pressekonferenz-geben-a-fae13947-455b-4cdb-8349-bb63e53ea895#ref=rss)
-### motörhead
-
-* [https://www.spiegel.de/psychologie/motoerhead-wie-lemmy-kilmister-mein-bester-kumpel-wurde-midlife-kolumne](https://www.spiegel.de/psychologie/motoerhead-wie-lemmy-kilmister-mein-bester-kumpel-wurde-midlife-kolumne-a-899ae805-00d1-4977-9096-603b342cb19c#ref=rss)
-### coronademo
-
-* [https://www.spiegel.de/panorama/justiz/merseburg-polizist-soll-teilnehmern-von-corona-demo-applaudiert-haben](https://www.spiegel.de/panorama/justiz/merseburg-polizist-soll-teilnehmern-von-corona-demo-applaudiert-haben-a-2544d9bf-749c-4025-b6f4-ef5183e8f8d8#ref=rss)
-### teilnehmer
-
-* [https://www.spiegel.de/panorama/justiz/merseburg-polizist-soll-teilnehmern-von-corona-demo-applaudiert-haben](https://www.spiegel.de/panorama/justiz/merseburg-polizist-soll-teilnehmern-von-corona-demo-applaudiert-haben-a-2544d9bf-749c-4025-b6f4-ef5183e8f8d8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/murcia-drogendealer-wollten-korb-mit-kokain-haschisch-und-schinken-verlosen](https://www.spiegel.de/panorama/justiz/murcia-drogendealer-wollten-korb-mit-kokain-haschisch-und-schinken-verlosen-a-e607efad-9be9-48ef-a5e3-715dc2649bcb#ref=rss)
-### ezbvize
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angst-vor-dem-lockdown-ezb-vize-ueber-die-inflation-weihnachtsgeschenke-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-angst-vor-dem-lockdown-ezb-vize-ueber-die-inflation-weihnachtsgeschenke-fuer-kinder-a-1799d075-70f7-48a7-b057-ec844e008065#ref=rss)
-### inflation
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angst-vor-dem-lockdown-ezb-vize-ueber-die-inflation-weihnachtsgeschenke-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-angst-vor-dem-lockdown-ezb-vize-ueber-die-inflation-weihnachtsgeschenke-fuer-kinder-a-1799d075-70f7-48a7-b057-ec844e008065#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angst-vor-dem-lockdown-ezb-vize-ueber-die-inflation-weihnachtsgeschenke-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-angst-vor-dem-lockdown-ezb-vize-ueber-die-inflation-weihnachtsgeschenke-fuer-kinder-a-1799d075-70f7-48a7-b057-ec844e008065#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutschland-immobilien-markt-verzeichnet-rekordumsatz](https://www.spiegel.de/wirtschaft/service/deutschland-immobilien-markt-verzeichnet-rekordumsatz-a-d16662dc-26cc-46be-ae41-ce2fd5ed87ca#ref=rss)
-### fürchten
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-angst-vor-dem-lockdown-ezb-vize-ueber-die-inflation-weihnachtsgeschenke-fuer-kinder](https://www.spiegel.de/politik/deutschland/news-des-tages-angst-vor-dem-lockdown-ezb-vize-ueber-die-inflation-weihnachtsgeschenke-fuer-kinder-a-1799d075-70f7-48a7-b057-ec844e008065#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-diskutieren-ueber-quarantaene-befreiung-fuer-infizierte-in-kritischen-berufen](https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-diskutieren-ueber-quarantaene-befreiung-fuer-infizierte-in-kritischen-berufen-a-7336e2ad-86b9-4e2e-b211-fcbb6c1a8fa6#ref=rss)
-### infizierte
-
-* [https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-diskutieren-ueber-quarantaene-befreiung-fuer-infizierte-in-kritischen-berufen](https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-diskutieren-ueber-quarantaene-befreiung-fuer-infizierte-in-kritischen-berufen-a-7336e2ad-86b9-4e2e-b211-fcbb6c1a8fa6#ref=rss)
-### omikronvariante
-
-* [https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-diskutieren-ueber-quarantaene-befreiung-fuer-infizierte-in-kritischen-berufen](https://www.spiegel.de/politik/deutschland/corona-bund-und-laender-diskutieren-ueber-quarantaene-befreiung-fuer-infizierte-in-kritischen-berufen-a-7336e2ad-86b9-4e2e-b211-fcbb6c1a8fa6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-laender-draengen-bundesregierung-zu-entscheidung-wegen-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-laender-draengen-bundesregierung-zu-entscheidung-wegen-impfpflicht-a-aac11802-6003-4b6b-a35f-fd83b35f43db#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/reise/corona-wie-das-reisejahr-2022-verlaufen-koennte](https://www.spiegel.de/reise/corona-wie-das-reisejahr-2022-verlaufen-koennte-a-a05d143d-ba07-46b8-b62e-3af01fb04492#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/reise/corona-wie-das-reisejahr-2022-verlaufen-koennte](https://www.spiegel.de/reise/corona-wie-das-reisejahr-2022-verlaufen-koennte-a-a05d143d-ba07-46b8-b62e-3af01fb04492#ref=rss)
-* [https://www.spiegel.de/netzwelt/nft-ur-sms-fuer-107-000-euro-versteigert](https://www.spiegel.de/netzwelt/nft-ur-sms-fuer-107-000-euro-versteigert-a-9ad5dc77-fae3-4d1f-9985-ff09ee2a12b8#ref=rss)
-### tausendfüßer
+* [https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land](https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land-a-d66a34c8-ee7b-4965-869e-f634a1ab3d44#ref=rss)
+* [https://www.spiegel.de/start/klassentreffen-warum-sie-weit-mehr-sind-als-ein-wiedersehen-mit-alten-freunden](https://www.spiegel.de/start/klassentreffen-warum-sie-weit-mehr-sind-als-ein-wiedersehen-mit-alten-freunden-a-59e742ac-5829-476c-8fe7-6e0aae0a3759#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-einzelhandel-lieferprobleme-verschaerfen-sich-im-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-einzelhandel-lieferprobleme-verschaerfen-sich-im-weihnachtsgeschaeft-a-14ba39ce-b9a9-4a50-809e-5894e9448078#ref=rss)
+* [https://www.spiegel.de/ausland/corona-australien-will-keine-lockdowns-mehr-trotz-omikron](https://www.spiegel.de/ausland/corona-australien-will-keine-lockdowns-mehr-trotz-omikron-a-b90f8d05-8b90-4789-aac3-38432f745698#ref=rss)
+### land
 
-* [https://www.spiegel.de/wissenschaft/natur/tausendfuesser-gigantisches-fossil-in-england-am-strand-entdeckt](https://www.spiegel.de/wissenschaft/natur/tausendfuesser-gigantisches-fossil-in-england-am-strand-entdeckt-a-3deb1627-9728-40e3-bd14-c97f4c3f57a0#ref=rss)
-### england
+* [https://www.spiegel.de/ausland/corona-in-suedkorea-warum-es-so-schwer-ist-zu-lockern](https://www.spiegel.de/ausland/corona-in-suedkorea-warum-es-so-schwer-ist-zu-lockern-a-75079cd4-9a11-4a7b-b4ab-84f6b7d38995#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land](https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land-a-d66a34c8-ee7b-4965-869e-f634a1ab3d44#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/vodafone-telekom-telefonica-mobilfunk-datenverkehr-nimmt-stark-zu](https://www.spiegel.de/netzwelt/web/vodafone-telekom-telefonica-mobilfunk-datenverkehr-nimmt-stark-zu-a-01d72960-f1fc-469d-9f6e-f4fce9005fba#ref=rss)
+* [https://www.spiegel.de/ausland/corona-australien-will-keine-lockdowns-mehr-trotz-omikron](https://www.spiegel.de/ausland/corona-australien-will-keine-lockdowns-mehr-trotz-omikron-a-b90f8d05-8b90-4789-aac3-38432f745698#ref=rss)
+### omikron
 
-* [https://www.spiegel.de/wissenschaft/natur/tausendfuesser-gigantisches-fossil-in-england-am-strand-entdeckt](https://www.spiegel.de/wissenschaft/natur/tausendfuesser-gigantisches-fossil-in-england-am-strand-entdeckt-a-3deb1627-9728-40e3-bd14-c97f4c3f57a0#ref=rss)
-### entdeckt
+* [https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen](https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen-a-194c8394-e510-40c7-93d7-6b11112b7a36#ref=rss)
+* [https://www.spiegel.de/ausland/corona-australien-will-keine-lockdowns-mehr-trotz-omikron](https://www.spiegel.de/ausland/corona-australien-will-keine-lockdowns-mehr-trotz-omikron-a-b90f8d05-8b90-4789-aac3-38432f745698#ref=rss)
+* [https://www.spiegel.de/ausland/omikron-in-den-usa-wie-joe-biden-dem-virus-winter-begegnen-will](https://www.spiegel.de/ausland/omikron-in-den-usa-wie-joe-biden-dem-virus-winter-begegnen-will-a-a951b683-faae-40bf-829c-cb499875265a#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/wissenschaft/natur/tausendfuesser-gigantisches-fossil-in-england-am-strand-entdeckt](https://www.spiegel.de/wissenschaft/natur/tausendfuesser-gigantisches-fossil-in-england-am-strand-entdeckt-a-3deb1627-9728-40e3-bd14-c97f4c3f57a0#ref=rss)
-### meter
+* [https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land](https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land-a-d66a34c8-ee7b-4965-869e-f634a1ab3d44#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuba-inflation-liegt-bei-70-prozent-mindestens](https://www.spiegel.de/wirtschaft/kuba-inflation-liegt-bei-70-prozent-mindestens-a-99ccd603-6873-4d09-8ea3-ef41296106c4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-einzelhandel-lieferprobleme-verschaerfen-sich-im-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-einzelhandel-lieferprobleme-verschaerfen-sich-im-weihnachtsgeschaeft-a-14ba39ce-b9a9-4a50-809e-5894e9448078#ref=rss)
+### joe
 
-* [https://www.spiegel.de/wissenschaft/natur/tausendfuesser-gigantisches-fossil-in-england-am-strand-entdeckt](https://www.spiegel.de/wissenschaft/natur/tausendfuesser-gigantisches-fossil-in-england-am-strand-entdeckt-a-3deb1627-9728-40e3-bd14-c97f4c3f57a0#ref=rss)
-* [https://www.spiegel.de/sport/kurzbahn-wm-in-abu-dhabi-florian-wellbrock-schwimmt-1500-meter-weltrekord-und-erhaelt-80-000-dollar](https://www.spiegel.de/sport/kurzbahn-wm-in-abu-dhabi-florian-wellbrock-schwimmt-1500-meter-weltrekord-und-erhaelt-80-000-dollar-a-0a77d991-9c33-4cc6-afd2-7d7d6b42229d#ref=rss)
-### zdf
+* [https://www.spiegel.de/ausland/usa-mitch-mcconnell-umwirbt-joe-manchin-wir-haetten-ihn-natuerlich-liebend-gerne-im-team](https://www.spiegel.de/ausland/usa-mitch-mcconnell-umwirbt-joe-manchin-wir-haetten-ihn-natuerlich-liebend-gerne-im-team-a-982e4383-3ac9-4ec9-b48d-55c58e57a1b9#ref=rss)
+* [https://www.spiegel.de/ausland/omikron-in-den-usa-wie-joe-biden-dem-virus-winter-begegnen-will](https://www.spiegel.de/ausland/omikron-in-den-usa-wie-joe-biden-dem-virus-winter-begegnen-will-a-a951b683-faae-40bf-829c-cb499875265a#ref=rss)
+### ich
 
-* [https://www.spiegel.de/kultur/tv/zdf-ist-staerkster-sender-marktanteile-2021](https://www.spiegel.de/kultur/tv/zdf-ist-staerkster-sender-marktanteile-2021-a-598e8ff9-6669-4683-bf87-ff0a692590ee#ref=rss)
-### 2021
+* [https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert](https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert-a-e936e953-bdbf-4be9-8b50-3f3d1c1baa5a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award](https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award-a-a1e11c57-446d-4ef6-8c11-72e466193e8f#ref=rss)
+### 2022
 
-* [https://www.spiegel.de/kultur/tv/zdf-ist-staerkster-sender-marktanteile-2021](https://www.spiegel.de/kultur/tv/zdf-ist-staerkster-sender-marktanteile-2021-a-598e8ff9-6669-4683-bf87-ff0a692590ee#ref=rss)
-* [https://www.spiegel.de/kultur/tv/volker-bruch-vom-stadtmagazin-tip-zum-peinlichsten-berliner-gekuert](https://www.spiegel.de/kultur/tv/volker-bruch-vom-stadtmagazin-tip-zum-peinlichsten-berliner-gekuert-a-75d5e74c-cfee-4608-8d02-64eded247a68#ref=rss)
-### platz
+* [https://www.spiegel.de/sport/formel1/olympische-winterspiele-2022-leon-draisaitl-eishockey-turnier-wohl-ohne-nhl-spieler](https://www.spiegel.de/sport/formel1/olympische-winterspiele-2022-leon-draisaitl-eishockey-turnier-wohl-ohne-nhl-spieler-a-d2c6d17c-dac7-4563-8853-1e5a55447f18#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award](https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award-a-a1e11c57-446d-4ef6-8c11-72e466193e8f#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus](https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus-a-8c25218c-9363-41d9-abd5-d8539af81dce#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/g7-gipfel-auf-schloss-elmau-absicherung-soll-166-millionen-euro-kosten](https://www.spiegel.de/wirtschaft/soziales/g7-gipfel-auf-schloss-elmau-absicherung-soll-166-millionen-euro-kosten-a-0da01b47-ddae-46e6-8326-42d76e6a3b97#ref=rss)
+### corona
 
-* [https://www.spiegel.de/kultur/tv/zdf-ist-staerkster-sender-marktanteile-2021](https://www.spiegel.de/kultur/tv/zdf-ist-staerkster-sender-marktanteile-2021-a-598e8ff9-6669-4683-bf87-ff0a692590ee#ref=rss)
-* [https://www.spiegel.de/kultur/tv/volker-bruch-vom-stadtmagazin-tip-zum-peinlichsten-berliner-gekuert](https://www.spiegel.de/kultur/tv/volker-bruch-vom-stadtmagazin-tip-zum-peinlichsten-berliner-gekuert-a-75d5e74c-cfee-4608-8d02-64eded247a68#ref=rss)
-### allerdings
+* [https://www.spiegel.de/ausland/corona-in-suedkorea-warum-es-so-schwer-ist-zu-lockern](https://www.spiegel.de/ausland/corona-in-suedkorea-warum-es-so-schwer-ist-zu-lockern-a-75079cd4-9a11-4a7b-b4ab-84f6b7d38995#ref=rss)
+* [https://www.spiegel.de/start/klassentreffen-warum-sie-weit-mehr-sind-als-ein-wiedersehen-mit-alten-freunden](https://www.spiegel.de/start/klassentreffen-warum-sie-weit-mehr-sind-als-ein-wiedersehen-mit-alten-freunden-a-59e742ac-5829-476c-8fe7-6e0aae0a3759#ref=rss)
+* [https://www.spiegel.de/ausland/corona-australien-will-keine-lockdowns-mehr-trotz-omikron](https://www.spiegel.de/ausland/corona-australien-will-keine-lockdowns-mehr-trotz-omikron-a-b90f8d05-8b90-4789-aac3-38432f745698#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/netzwelt/nft-ur-sms-fuer-107-000-euro-versteigert](https://www.spiegel.de/netzwelt/nft-ur-sms-fuer-107-000-euro-versteigert-a-9ad5dc77-fae3-4d1f-9985-ff09ee2a12b8#ref=rss)
-* [https://www.spiegel.de/ausland/chile-mit-gabriel-boric-kommt-eine-neue-generation-von-linken-an-die-macht](https://www.spiegel.de/ausland/chile-mit-gabriel-boric-kommt-eine-neue-generation-von-linken-an-die-macht-a-6051b7b2-b092-46ca-9ad6-58002b408a80#ref=rss)
-### franco
+* [https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen](https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen-a-194c8394-e510-40c7-93d7-6b11112b7a36#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land](https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land-a-d66a34c8-ee7b-4965-869e-f634a1ab3d44#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-niedrigster-schweine-bestand-in-deutschland-seit-25-jahren](https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-niedrigster-schweine-bestand-in-deutschland-seit-25-jahren-a-c93fbdc6-c280-4a12-9b99-8d04897ed2c1#ref=rss)
+### euro
 
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-franco-a-antisemitischer-bloedsinn-richter-entzieht-angeklagtem-das-wort](https://www.spiegel.de/panorama/justiz/prozess-gegen-franco-a-antisemitischer-bloedsinn-richter-entzieht-angeklagtem-das-wort-a-671f0f7f-e407-4c81-b22f-85adf3be0f64#ref=rss)
-### richter
-
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-franco-a-antisemitischer-bloedsinn-richter-entzieht-angeklagtem-das-wort](https://www.spiegel.de/panorama/justiz/prozess-gegen-franco-a-antisemitischer-bloedsinn-richter-entzieht-angeklagtem-das-wort-a-671f0f7f-e407-4c81-b22f-85adf3be0f64#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/prozess-gegen-franco-a-antisemitischer-bloedsinn-richter-entzieht-angeklagtem-das-wort](https://www.spiegel.de/panorama/justiz/prozess-gegen-franco-a-antisemitischer-bloedsinn-richter-entzieht-angeklagtem-das-wort-a-671f0f7f-e407-4c81-b22f-85adf3be0f64#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dubai-emir-muss-eine-halbe-milliarde-pfund-an-ex-frau-zahlen](https://www.spiegel.de/panorama/justiz/dubai-emir-muss-eine-halbe-milliarde-pfund-an-ex-frau-zahlen-a-01add328-d4d0-430c-b4b6-d0caa346a4ba#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-zum-jahrestag-der-kapitol-krawalle-pressekonferenz-geben](https://www.spiegel.de/ausland/usa-donald-trump-will-zum-jahrestag-der-kapitol-krawalle-pressekonferenz-geben-a-fae13947-455b-4cdb-8349-bb63e53ea895#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-zum-jahrestag-der-kapitol-krawalle-pressekonferenz-geben](https://www.spiegel.de/ausland/usa-donald-trump-will-zum-jahrestag-der-kapitol-krawalle-pressekonferenz-geben-a-fae13947-455b-4cdb-8349-bb63e53ea895#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nuernberg-fuerth-hitlergruss-aus-protest-gegen-afd-mann-muss-gelstrafe-zahlen](https://www.spiegel.de/panorama/justiz/nuernberg-fuerth-hitlergruss-aus-protest-gegen-afd-mann-muss-gelstrafe-zahlen-a-2dbd4d54-380f-411a-977d-7e62c306939a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wie-hessen-kryptogeld-im-wert-von-100-millionen-euro-loswurde](https://www.spiegel.de/wirtschaft/wie-hessen-kryptogeld-im-wert-von-100-millionen-euro-loswurde-a-b62dd991-020c-455a-8d1b-8666ea1ef3b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/g7-gipfel-auf-schloss-elmau-absicherung-soll-166-millionen-euro-kosten](https://www.spiegel.de/wirtschaft/soziales/g7-gipfel-auf-schloss-elmau-absicherung-soll-166-millionen-euro-kosten-a-0da01b47-ddae-46e6-8326-42d76e6a3b97#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/usa-donald-trump-will-zum-jahrestag-der-kapitol-krawalle-pressekonferenz-geben](https://www.spiegel.de/ausland/usa-donald-trump-will-zum-jahrestag-der-kapitol-krawalle-pressekonferenz-geben-a-fae13947-455b-4cdb-8349-bb63e53ea895#ref=rss)
-* [https://www.spiegel.de/kultur/corona-maskenpflicht-und-impfnachweise-das-kontrolldilemma-kolumne](https://www.spiegel.de/kultur/corona-maskenpflicht-und-impfnachweise-das-kontrolldilemma-kolumne-a-5bec3c5e-ab0e-426c-838a-0766ba849e29#ref=rss)
-### triage
+* [https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land](https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land-a-d66a34c8-ee7b-4965-869e-f634a1ab3d44#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/potsdam-bluttat-im-oberlinhaus-15-jahre-haft](https://www.spiegel.de/panorama/justiz/potsdam-bluttat-im-oberlinhaus-15-jahre-haft-a-4e6aa7f4-8379-45e7-bd9e-51d40a244a24#ref=rss)
+* [https://www.spiegel.de/ausland/corona-australien-will-keine-lockdowns-mehr-trotz-omikron](https://www.spiegel.de/ausland/corona-australien-will-keine-lockdowns-mehr-trotz-omikron-a-b90f8d05-8b90-4789-aac3-38432f745698#ref=rss)
+### usa
 
-* [https://www.spiegel.de/gesundheit/diagnose/triage-wegen-corona-krebsforscher-schlagen-alarm-wegen-versorgungsproblemen](https://www.spiegel.de/gesundheit/diagnose/triage-wegen-corona-krebsforscher-schlagen-alarm-wegen-versorgungsproblemen-a-e3d8eaab-9cae-4508-86fc-3d6aa900a3f9#ref=rss)
-### bald
+* [https://www.spiegel.de/ausland/usa-mitch-mcconnell-umwirbt-joe-manchin-wir-haetten-ihn-natuerlich-liebend-gerne-im-team](https://www.spiegel.de/ausland/usa-mitch-mcconnell-umwirbt-joe-manchin-wir-haetten-ihn-natuerlich-liebend-gerne-im-team-a-982e4383-3ac9-4ec9-b48d-55c58e57a1b9#ref=rss)
+* [https://www.spiegel.de/ausland/omikron-in-den-usa-wie-joe-biden-dem-virus-winter-begegnen-will](https://www.spiegel.de/ausland/omikron-in-den-usa-wie-joe-biden-dem-virus-winter-begegnen-will-a-a951b683-faae-40bf-829c-cb499875265a#ref=rss)
+### biden
 
-* [https://www.spiegel.de/gesundheit/diagnose/triage-wegen-corona-krebsforscher-schlagen-alarm-wegen-versorgungsproblemen](https://www.spiegel.de/gesundheit/diagnose/triage-wegen-corona-krebsforscher-schlagen-alarm-wegen-versorgungsproblemen-a-e3d8eaab-9cae-4508-86fc-3d6aa900a3f9#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bayern-wie-kitas-die-corona-testpflicht-umsetzen-wollen](https://www.spiegel.de/panorama/bildung/bayern-wie-kitas-die-corona-testpflicht-umsetzen-wollen-a-09bcf294-b33a-49a1-97dc-33dd9df65235#ref=rss)
-### kurzbahnwm
+* [https://www.spiegel.de/ausland/usa-mitch-mcconnell-umwirbt-joe-manchin-wir-haetten-ihn-natuerlich-liebend-gerne-im-team](https://www.spiegel.de/ausland/usa-mitch-mcconnell-umwirbt-joe-manchin-wir-haetten-ihn-natuerlich-liebend-gerne-im-team-a-982e4383-3ac9-4ec9-b48d-55c58e57a1b9#ref=rss)
+* [https://www.spiegel.de/ausland/omikron-in-den-usa-wie-joe-biden-dem-virus-winter-begegnen-will](https://www.spiegel.de/ausland/omikron-in-den-usa-wie-joe-biden-dem-virus-winter-begegnen-will-a-a951b683-faae-40bf-829c-cb499875265a#ref=rss)
+### bin
 
-* [https://www.spiegel.de/sport/kurzbahn-wm-in-abu-dhabi-florian-wellbrock-schwimmt-1500-meter-weltrekord-und-erhaelt-80-000-dollar](https://www.spiegel.de/sport/kurzbahn-wm-in-abu-dhabi-florian-wellbrock-schwimmt-1500-meter-weltrekord-und-erhaelt-80-000-dollar-a-0a77d991-9c33-4cc6-afd2-7d7d6b42229d#ref=rss)
-### florian
-
-* [https://www.spiegel.de/sport/kurzbahn-wm-in-abu-dhabi-florian-wellbrock-schwimmt-1500-meter-weltrekord-und-erhaelt-80-000-dollar](https://www.spiegel.de/sport/kurzbahn-wm-in-abu-dhabi-florian-wellbrock-schwimmt-1500-meter-weltrekord-und-erhaelt-80-000-dollar-a-0a77d991-9c33-4cc6-afd2-7d7d6b42229d#ref=rss)
-### wellbrock
-
-* [https://www.spiegel.de/sport/kurzbahn-wm-in-abu-dhabi-florian-wellbrock-schwimmt-1500-meter-weltrekord-und-erhaelt-80-000-dollar](https://www.spiegel.de/sport/kurzbahn-wm-in-abu-dhabi-florian-wellbrock-schwimmt-1500-meter-weltrekord-und-erhaelt-80-000-dollar-a-0a77d991-9c33-4cc6-afd2-7d7d6b42229d#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/corona-laender-draengen-bundesregierung-zu-entscheidung-wegen-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-laender-draengen-bundesregierung-zu-entscheidung-wegen-impfpflicht-a-aac11802-6003-4b6b-a35f-fd83b35f43db#ref=rss)
-* [https://www.spiegel.de/ausland/iran-testet-mehrere-raketen-bei-militaeruebung-am-persischen-golf](https://www.spiegel.de/ausland/iran-testet-mehrere-raketen-bei-militaeruebung-am-persischen-golf-a-e758506e-8083-4979-95fd-1015809fafc1#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert](https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert-a-e936e953-bdbf-4be9-8b50-3f3d1c1baa5a#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award](https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award-a-a1e11c57-446d-4ef6-8c11-72e466193e8f#ref=rss)
 ### jahr
 
-* [https://www.spiegel.de/politik/deutschland/corona-laender-draengen-bundesregierung-zu-entscheidung-wegen-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-laender-draengen-bundesregierung-zu-entscheidung-wegen-impfpflicht-a-aac11802-6003-4b6b-a35f-fd83b35f43db#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/london-big-ben-soll-zu-neujahr-laeuten](https://www.spiegel.de/panorama/gesellschaft/london-big-ben-soll-zu-neujahr-laeuten-a-51a3f8f8-3825-40af-acae-f8c485b6a436#ref=rss)
-### spiegelinformationen
+* [https://www.spiegel.de/sport/formel1/olympische-winterspiele-2022-leon-draisaitl-eishockey-turnier-wohl-ohne-nhl-spieler](https://www.spiegel.de/sport/formel1/olympische-winterspiele-2022-leon-draisaitl-eishockey-turnier-wohl-ohne-nhl-spieler-a-d2c6d17c-dac7-4563-8853-1e5a55447f18#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-mick-schumacher-wird-ersatzfahrer-bei-ferrari](https://www.spiegel.de/sport/formel1/formel-1-mick-schumacher-wird-ersatzfahrer-bei-ferrari-a-217d36fa-cacb-4c66-8b84-bbb045727092#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus](https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus-a-8c25218c-9363-41d9-abd5-d8539af81dce#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/corona-laender-draengen-bundesregierung-zu-entscheidung-wegen-impfpflicht](https://www.spiegel.de/politik/deutschland/corona-laender-draengen-bundesregierung-zu-entscheidung-wegen-impfpflicht-a-aac11802-6003-4b6b-a35f-fd83b35f43db#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki](https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki-a-f6b4ca77-4b24-456f-bb1c-4f2baa4feceb#ref=rss)
-### lauterbach
+* [https://www.spiegel.de/kultur/the-lost-leonardo-ueber-salvator-mundi-die-versuche-mich-zu-bestechen-sind-ueberschaubar](https://www.spiegel.de/kultur/the-lost-leonardo-ueber-salvator-mundi-die-versuche-mich-zu-bestechen-sind-ueberschaubar-a-94640aa3-eaf0-4301-a043-0c412c385e4a#ref=rss)
+* [https://www.spiegel.de/ausland/omikron-in-den-usa-wie-joe-biden-dem-virus-winter-begegnen-will](https://www.spiegel.de/ausland/omikron-in-den-usa-wie-joe-biden-dem-virus-winter-begegnen-will-a-a951b683-faae-40bf-829c-cb499875265a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/vaeterurlaub-arbeitgeber-werfen-familienministerin-spiegel-aktionismus-vor](https://www.spiegel.de/wirtschaft/soziales/vaeterurlaub-arbeitgeber-werfen-familienministerin-spiegel-aktionismus-vor-a-fdaf4b7e-01c8-4c8c-926c-a9ddf2694017#ref=rss)
+### hans
 
-* [https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki](https://www.spiegel.de/politik/deutschland/corona-bundeslaender-irritiert-ueber-corona-kommunikation-von-bundesregierung-und-rki-a-f6b4ca77-4b24-456f-bb1c-4f2baa4feceb#ref=rss)
-### murcia
+* [https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award](https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award-a-a1e11c57-446d-4ef6-8c11-72e466193e8f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/hans-sigl-der-bergdoktor-wuerde-rund-um-die-uhr-impfen](https://www.spiegel.de/panorama/leute/hans-sigl-der-bergdoktor-wuerde-rund-um-die-uhr-impfen-a-30f77110-e336-4a0b-9e7e-25debd87f4c0#ref=rss)
+### schumacher
 
-* [https://www.spiegel.de/panorama/justiz/murcia-drogendealer-wollten-korb-mit-kokain-haschisch-und-schinken-verlosen](https://www.spiegel.de/panorama/justiz/murcia-drogendealer-wollten-korb-mit-kokain-haschisch-und-schinken-verlosen-a-e607efad-9be9-48ef-a5e3-715dc2649bcb#ref=rss)
-### kokain
+* [https://www.spiegel.de/sport/formel1/formel-1-mick-schumacher-wird-ersatzfahrer-bei-ferrari](https://www.spiegel.de/sport/formel1/formel-1-mick-schumacher-wird-ersatzfahrer-bei-ferrari-a-217d36fa-cacb-4c66-8b84-bbb045727092#ref=rss)
+### südkorea
 
-* [https://www.spiegel.de/panorama/justiz/murcia-drogendealer-wollten-korb-mit-kokain-haschisch-und-schinken-verlosen](https://www.spiegel.de/panorama/justiz/murcia-drogendealer-wollten-korb-mit-kokain-haschisch-und-schinken-verlosen-a-e607efad-9be9-48ef-a5e3-715dc2649bcb#ref=rss)
-### xi
+* [https://www.spiegel.de/ausland/corona-in-suedkorea-warum-es-so-schwer-ist-zu-lockern](https://www.spiegel.de/ausland/corona-in-suedkorea-warum-es-so-schwer-ist-zu-lockern-a-75079cd4-9a11-4a7b-b4ab-84f6b7d38995#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/olaf-scholz-und-xi-jinping-wollen-deutsch-chinesische-beziehungen-vertiefen](https://www.spiegel.de/ausland/olaf-scholz-und-xi-jinping-wollen-deutsch-chinesische-beziehungen-vertiefen-a-1b57a83c-2a17-430e-9b48-a9b05f7c18dd#ref=rss)
-### jinping
+* [https://www.spiegel.de/ausland/corona-in-suedkorea-warum-es-so-schwer-ist-zu-lockern](https://www.spiegel.de/ausland/corona-in-suedkorea-warum-es-so-schwer-ist-zu-lockern-a-75079cd4-9a11-4a7b-b4ab-84f6b7d38995#ref=rss)
+* [https://www.spiegel.de/ausland/polen-oppositionelle-sollen-mit-pegasus-gehackt-worden-sein](https://www.spiegel.de/ausland/polen-oppositionelle-sollen-mit-pegasus-gehackt-worden-sein-a-2fc7f733-b247-4f2e-bf32-1abe4cc13938#ref=rss)
+### coronavirus
 
-* [https://www.spiegel.de/ausland/olaf-scholz-und-xi-jinping-wollen-deutsch-chinesische-beziehungen-vertiefen](https://www.spiegel.de/ausland/olaf-scholz-und-xi-jinping-wollen-deutsch-chinesische-beziehungen-vertiefen-a-1b57a83c-2a17-430e-9b48-a9b05f7c18dd#ref=rss)
-### beziehungen
+* [https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen](https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen-a-194c8394-e510-40c7-93d7-6b11112b7a36#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/coronavirus-lehrergewerkschaft-fordert-nach-ministerpraesidentenkonferenz-klarheit-fuer-schulen](https://www.spiegel.de/panorama/bildung/coronavirus-lehrergewerkschaft-fordert-nach-ministerpraesidentenkonferenz-klarheit-fuer-schulen-a-f316b9d0-280f-4a64-842e-cbe49e7e02d9#ref=rss)
+### nachgewiesen
 
-* [https://www.spiegel.de/ausland/olaf-scholz-und-xi-jinping-wollen-deutsch-chinesische-beziehungen-vertiefen](https://www.spiegel.de/ausland/olaf-scholz-und-xi-jinping-wollen-deutsch-chinesische-beziehungen-vertiefen-a-1b57a83c-2a17-430e-9b48-a9b05f7c18dd#ref=rss)
-### immobilienmarkt
+* [https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen](https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen-a-194c8394-e510-40c7-93d7-6b11112b7a36#ref=rss)
+### wenigen
 
-* [https://www.spiegel.de/wirtschaft/service/deutschland-immobilien-markt-verzeichnet-rekordumsatz](https://www.spiegel.de/wirtschaft/service/deutschland-immobilien-markt-verzeichnet-rekordumsatz-a-d16662dc-26cc-46be-ae41-ce2fd5ed87ca#ref=rss)
-### ukraine
+* [https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen](https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen-a-194c8394-e510-40c7-93d7-6b11112b7a36#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwangerschaftsabbrueche-ampelkoalition-will-werbeparagrafen-219a-im-januar-abschaffen](https://www.spiegel.de/politik/deutschland/schwangerschaftsabbrueche-ampelkoalition-will-werbeparagrafen-219a-im-januar-abschaffen-a-99c6a7a3-962d-4dc3-a6b8-5842aa82882a#ref=rss)
+### wochen
 
-* [https://www.spiegel.de/ausland/ukraine-russland-zeigt-test-mit-unbemannter-kampfdrohne-auf-der-krim](https://www.spiegel.de/ausland/ukraine-russland-zeigt-test-mit-unbemannter-kampfdrohne-auf-der-krim-a-5a1e376a-7af8-47a9-8d75-e9383e179e79#ref=rss)
-### kampfdrohne
+* [https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen](https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen-a-194c8394-e510-40c7-93d7-6b11112b7a36#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schwangerschaftsabbrueche-ampelkoalition-will-werbeparagrafen-219a-im-januar-abschaffen](https://www.spiegel.de/politik/deutschland/schwangerschaftsabbrueche-ampelkoalition-will-werbeparagrafen-219a-im-januar-abschaffen-a-99c6a7a3-962d-4dc3-a6b8-5842aa82882a#ref=rss)
+### laut
 
-* [https://www.spiegel.de/ausland/ukraine-russland-zeigt-test-mit-unbemannter-kampfdrohne-auf-der-krim](https://www.spiegel.de/ausland/ukraine-russland-zeigt-test-mit-unbemannter-kampfdrohne-auf-der-krim-a-5a1e376a-7af8-47a9-8d75-e9383e179e79#ref=rss)
-### einsatz
+* [https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen](https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen-a-194c8394-e510-40c7-93d7-6b11112b7a36#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-einzelhandel-lieferprobleme-verschaerfen-sich-im-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-einzelhandel-lieferprobleme-verschaerfen-sich-im-weihnachtsgeschaeft-a-14ba39ce-b9a9-4a50-809e-5894e9448078#ref=rss)
+### parlament
 
-* [https://www.spiegel.de/ausland/ukraine-russland-zeigt-test-mit-unbemannter-kampfdrohne-auf-der-krim](https://www.spiegel.de/ausland/ukraine-russland-zeigt-test-mit-unbemannter-kampfdrohne-auf-der-krim-a-5a1e376a-7af8-47a9-8d75-e9383e179e79#ref=rss)
-* [https://www.spiegel.de/ausland/iran-testet-mehrere-raketen-bei-militaeruebung-am-persischen-golf](https://www.spiegel.de/ausland/iran-testet-mehrere-raketen-bei-militaeruebung-am-persischen-golf-a-e758506e-8083-4979-95fd-1015809fafc1#ref=rss)
-### bayern
+* [https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen](https://www.spiegel.de/politik/deutschland/coronavirus-omikron-variante-im-bundestag-nachgewiesen-a-194c8394-e510-40c7-93d7-6b11112b7a36#ref=rss)
+* [https://www.spiegel.de/ausland/libyen-parlament-haelt-praesidentschaftswahl-am-freitag-fuer-unmoeglich](https://www.spiegel.de/ausland/libyen-parlament-haelt-praesidentschaftswahl-am-freitag-fuer-unmoeglich-a-4901b08c-93d6-4bab-9ad2-b2faaec15b68#ref=rss)
+### jemen
 
-* [https://www.spiegel.de/panorama/bildung/bayern-wie-kitas-die-corona-testpflicht-umsetzen-wollen](https://www.spiegel.de/panorama/bildung/bayern-wie-kitas-die-corona-testpflicht-umsetzen-wollen-a-09bcf294-b33a-49a1-97dc-33dd9df65235#ref=rss)
-### chile
+* [https://www.spiegel.de/ausland/jemen-uno-reduziert-hilfslieferungen-wegen-fehlender-gelder](https://www.spiegel.de/ausland/jemen-uno-reduziert-hilfslieferungen-wegen-fehlender-gelder-a-dda6e221-433b-486b-a12d-e36c11b697f2#ref=rss)
+### uno
 
-* [https://www.spiegel.de/ausland/chile-mit-gabriel-boric-kommt-eine-neue-generation-von-linken-an-die-macht](https://www.spiegel.de/ausland/chile-mit-gabriel-boric-kommt-eine-neue-generation-von-linken-an-die-macht-a-6051b7b2-b092-46ca-9ad6-58002b408a80#ref=rss)
-### gabriel
+* [https://www.spiegel.de/ausland/jemen-uno-reduziert-hilfslieferungen-wegen-fehlender-gelder](https://www.spiegel.de/ausland/jemen-uno-reduziert-hilfslieferungen-wegen-fehlender-gelder-a-dda6e221-433b-486b-a12d-e36c11b697f2#ref=rss)
+### hitlergruß
 
-* [https://www.spiegel.de/ausland/chile-mit-gabriel-boric-kommt-eine-neue-generation-von-linken-an-die-macht](https://www.spiegel.de/ausland/chile-mit-gabriel-boric-kommt-eine-neue-generation-von-linken-an-die-macht-a-6051b7b2-b092-46ca-9ad6-58002b408a80#ref=rss)
-### boric
+* [https://www.spiegel.de/panorama/justiz/nuernberg-fuerth-hitlergruss-aus-protest-gegen-afd-mann-muss-gelstrafe-zahlen](https://www.spiegel.de/panorama/justiz/nuernberg-fuerth-hitlergruss-aus-protest-gegen-afd-mann-muss-gelstrafe-zahlen-a-2dbd4d54-380f-411a-977d-7e62c306939a#ref=rss)
+### protest
 
-* [https://www.spiegel.de/ausland/chile-mit-gabriel-boric-kommt-eine-neue-generation-von-linken-an-die-macht](https://www.spiegel.de/ausland/chile-mit-gabriel-boric-kommt-eine-neue-generation-von-linken-an-die-macht-a-6051b7b2-b092-46ca-9ad6-58002b408a80#ref=rss)
-### volker
+* [https://www.spiegel.de/panorama/justiz/nuernberg-fuerth-hitlergruss-aus-protest-gegen-afd-mann-muss-gelstrafe-zahlen](https://www.spiegel.de/panorama/justiz/nuernberg-fuerth-hitlergruss-aus-protest-gegen-afd-mann-muss-gelstrafe-zahlen-a-2dbd4d54-380f-411a-977d-7e62c306939a#ref=rss)
+### afd
 
-* [https://www.spiegel.de/kultur/tv/volker-bruch-vom-stadtmagazin-tip-zum-peinlichsten-berliner-gekuert](https://www.spiegel.de/kultur/tv/volker-bruch-vom-stadtmagazin-tip-zum-peinlichsten-berliner-gekuert-a-75d5e74c-cfee-4608-8d02-64eded247a68#ref=rss)
-### bruch
+* [https://www.spiegel.de/panorama/justiz/nuernberg-fuerth-hitlergruss-aus-protest-gegen-afd-mann-muss-gelstrafe-zahlen](https://www.spiegel.de/panorama/justiz/nuernberg-fuerth-hitlergruss-aus-protest-gegen-afd-mann-muss-gelstrafe-zahlen-a-2dbd4d54-380f-411a-977d-7e62c306939a#ref=rss)
+### mann
 
-* [https://www.spiegel.de/kultur/tv/volker-bruch-vom-stadtmagazin-tip-zum-peinlichsten-berliner-gekuert](https://www.spiegel.de/kultur/tv/volker-bruch-vom-stadtmagazin-tip-zum-peinlichsten-berliner-gekuert-a-75d5e74c-cfee-4608-8d02-64eded247a68#ref=rss)
-### tip
-
-* [https://www.spiegel.de/kultur/tv/volker-bruch-vom-stadtmagazin-tip-zum-peinlichsten-berliner-gekuert](https://www.spiegel.de/kultur/tv/volker-bruch-vom-stadtmagazin-tip-zum-peinlichsten-berliner-gekuert-a-75d5e74c-cfee-4608-8d02-64eded247a68#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/kultur/tv/volker-bruch-vom-stadtmagazin-tip-zum-peinlichsten-berliner-gekuert](https://www.spiegel.de/kultur/tv/volker-bruch-vom-stadtmagazin-tip-zum-peinlichsten-berliner-gekuert-a-75d5e74c-cfee-4608-8d02-64eded247a68#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nuernberg-fuerth-hitlergruss-aus-protest-gegen-afd-mann-muss-gelstrafe-zahlen](https://www.spiegel.de/panorama/justiz/nuernberg-fuerth-hitlergruss-aus-protest-gegen-afd-mann-muss-gelstrafe-zahlen-a-2dbd4d54-380f-411a-977d-7e62c306939a#ref=rss)
 ### zahlen
 
-* [https://www.spiegel.de/panorama/justiz/dubai-emir-muss-eine-halbe-milliarde-pfund-an-ex-frau-zahlen](https://www.spiegel.de/panorama/justiz/dubai-emir-muss-eine-halbe-milliarde-pfund-an-ex-frau-zahlen-a-01add328-d4d0-430c-b4b6-d0caa346a4ba#ref=rss)
-### london
+* [https://www.spiegel.de/panorama/justiz/nuernberg-fuerth-hitlergruss-aus-protest-gegen-afd-mann-muss-gelstrafe-zahlen](https://www.spiegel.de/panorama/justiz/nuernberg-fuerth-hitlergruss-aus-protest-gegen-afd-mann-muss-gelstrafe-zahlen-a-2dbd4d54-380f-411a-977d-7e62c306939a#ref=rss)
+### schwangerschaftsabbrüche
 
-* [https://www.spiegel.de/panorama/justiz/dubai-emir-muss-eine-halbe-milliarde-pfund-an-ex-frau-zahlen](https://www.spiegel.de/panorama/justiz/dubai-emir-muss-eine-halbe-milliarde-pfund-an-ex-frau-zahlen-a-01add328-d4d0-430c-b4b6-d0caa346a4ba#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/london-big-ben-soll-zu-neujahr-laeuten](https://www.spiegel.de/panorama/gesellschaft/london-big-ben-soll-zu-neujahr-laeuten-a-51a3f8f8-3825-40af-acae-f8c485b6a436#ref=rss)
-### belarus
+* [https://www.spiegel.de/politik/deutschland/schwangerschaftsabbrueche-ampelkoalition-will-werbeparagrafen-219a-im-januar-abschaffen](https://www.spiegel.de/politik/deutschland/schwangerschaftsabbrueche-ampelkoalition-will-werbeparagrafen-219a-im-januar-abschaffen-a-99c6a7a3-962d-4dc3-a6b8-5842aa82882a#ref=rss)
+### januar
 
-* [https://www.spiegel.de/ausland/fluechtlinge-belarus-und-polen-verweigern-uno-experten-zugang-zur-grenze](https://www.spiegel.de/ausland/fluechtlinge-belarus-und-polen-verweigern-uno-experten-zugang-zur-grenze-a-4c22759a-cd68-4eae-8a76-4c51272e45ca#ref=rss)
-### polen
+* [https://www.spiegel.de/politik/deutschland/schwangerschaftsabbrueche-ampelkoalition-will-werbeparagrafen-219a-im-januar-abschaffen](https://www.spiegel.de/politik/deutschland/schwangerschaftsabbrueche-ampelkoalition-will-werbeparagrafen-219a-im-januar-abschaffen-a-99c6a7a3-962d-4dc3-a6b8-5842aa82882a#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/coronavirus-lehrergewerkschaft-fordert-nach-ministerpraesidentenkonferenz-klarheit-fuer-schulen](https://www.spiegel.de/panorama/bildung/coronavirus-lehrergewerkschaft-fordert-nach-ministerpraesidentenkonferenz-klarheit-fuer-schulen-a-f316b9d0-280f-4a64-842e-cbe49e7e02d9#ref=rss)
+### libyen
 
-* [https://www.spiegel.de/ausland/fluechtlinge-belarus-und-polen-verweigern-uno-experten-zugang-zur-grenze](https://www.spiegel.de/ausland/fluechtlinge-belarus-und-polen-verweigern-uno-experten-zugang-zur-grenze-a-4c22759a-cd68-4eae-8a76-4c51272e45ca#ref=rss)
-### zugang
+* [https://www.spiegel.de/ausland/libyen-parlament-haelt-praesidentschaftswahl-am-freitag-fuer-unmoeglich](https://www.spiegel.de/ausland/libyen-parlament-haelt-praesidentschaftswahl-am-freitag-fuer-unmoeglich-a-4901b08c-93d6-4bab-9ad2-b2faaec15b68#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/fluechtlinge-belarus-und-polen-verweigern-uno-experten-zugang-zur-grenze](https://www.spiegel.de/ausland/fluechtlinge-belarus-und-polen-verweigern-uno-experten-zugang-zur-grenze-a-4c22759a-cd68-4eae-8a76-4c51272e45ca#ref=rss)
-### grenze
+* [https://www.spiegel.de/ausland/libyen-parlament-haelt-praesidentschaftswahl-am-freitag-fuer-unmoeglich](https://www.spiegel.de/ausland/libyen-parlament-haelt-praesidentschaftswahl-am-freitag-fuer-unmoeglich-a-4901b08c-93d6-4bab-9ad2-b2faaec15b68#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-niedrigster-schweine-bestand-in-deutschland-seit-25-jahren](https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-niedrigster-schweine-bestand-in-deutschland-seit-25-jahren-a-c93fbdc6-c280-4a12-9b99-8d04897ed2c1#ref=rss)
+### wohnimmobilien
 
-* [https://www.spiegel.de/ausland/fluechtlinge-belarus-und-polen-verweigern-uno-experten-zugang-zur-grenze](https://www.spiegel.de/ausland/fluechtlinge-belarus-und-polen-verweigern-uno-experten-zugang-zur-grenze-a-4c22759a-cd68-4eae-8a76-4c51272e45ca#ref=rss)
-### iran
+* [https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land](https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land-a-d66a34c8-ee7b-4965-869e-f634a1ab3d44#ref=rss)
+### häuser
 
-* [https://www.spiegel.de/ausland/iran-testet-mehrere-raketen-bei-militaeruebung-am-persischen-golf](https://www.spiegel.de/ausland/iran-testet-mehrere-raketen-bei-militaeruebung-am-persischen-golf-a-e758506e-8083-4979-95fd-1015809fafc1#ref=rss)
-### raketen
+* [https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land](https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land-a-d66a34c8-ee7b-4965-869e-f634a1ab3d44#ref=rss)
+### wohnungen
 
-* [https://www.spiegel.de/ausland/iran-testet-mehrere-raketen-bei-militaeruebung-am-persischen-golf](https://www.spiegel.de/ausland/iran-testet-mehrere-raketen-bei-militaeruebung-am-persischen-golf-a-e758506e-8083-4979-95fd-1015809fafc1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land](https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land-a-d66a34c8-ee7b-4965-869e-f634a1ab3d44#ref=rss)
+### zunehmend
+
+* [https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land](https://www.spiegel.de/wirtschaft/soziales/wohnimmobilien-haeuser-und-wohnungen-verteuern-sich-rasant-auch-auf-dem-land-a-d66a34c8-ee7b-4965-869e-f634a1ab3d44#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/vodafone-telekom-telefonica-mobilfunk-datenverkehr-nimmt-stark-zu](https://www.spiegel.de/netzwelt/web/vodafone-telekom-telefonica-mobilfunk-datenverkehr-nimmt-stark-zu-a-01d72960-f1fc-469d-9f6e-f4fce9005fba#ref=rss)
+### manchin
+
+* [https://www.spiegel.de/ausland/usa-mitch-mcconnell-umwirbt-joe-manchin-wir-haetten-ihn-natuerlich-liebend-gerne-im-team](https://www.spiegel.de/ausland/usa-mitch-mcconnell-umwirbt-joe-manchin-wir-haetten-ihn-natuerlich-liebend-gerne-im-team-a-982e4383-3ac9-4ec9-b48d-55c58e57a1b9#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-niedrigster-schweine-bestand-in-deutschland-seit-25-jahren](https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-niedrigster-schweine-bestand-in-deutschland-seit-25-jahren-a-c93fbdc6-c280-4a12-9b99-8d04897ed2c1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kuba-inflation-liegt-bei-70-prozent-mindestens](https://www.spiegel.de/wirtschaft/kuba-inflation-liegt-bei-70-prozent-mindestens-a-99ccd603-6873-4d09-8ea3-ef41296106c4#ref=rss)
+### bundesverfassungsgericht
+
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-xavier-naidoo-durfte-antisemit-genannt-werden](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-xavier-naidoo-durfte-antisemit-genannt-werden-a-4c1a3d65-753b-4b9e-9f9b-4606482566b8#ref=rss)
+### xavier
+
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-xavier-naidoo-durfte-antisemit-genannt-werden](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-xavier-naidoo-durfte-antisemit-genannt-werden-a-4c1a3d65-753b-4b9e-9f9b-4606482566b8#ref=rss)
+### naidoo
+
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-xavier-naidoo-durfte-antisemit-genannt-werden](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-xavier-naidoo-durfte-antisemit-genannt-werden-a-4c1a3d65-753b-4b9e-9f9b-4606482566b8#ref=rss)
+### ryan
+
+* [https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert](https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert-a-e936e953-bdbf-4be9-8b50-3f3d1c1baa5a#ref=rss)
+### reynolds
+
+* [https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert](https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert-a-e936e953-bdbf-4be9-8b50-3f3d1c1baa5a#ref=rss)
+### ben
+
+* [https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert](https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert-a-e936e953-bdbf-4be9-8b50-3f3d1c1baa5a#ref=rss)
+### affleck
+
+* [https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert](https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert-a-e936e953-bdbf-4be9-8b50-3f3d1c1baa5a#ref=rss)
+### nie
+
+* [https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert](https://www.spiegel.de/panorama/leute/ryan-reynolds-sie-glauben-dass-ich-ben-affleck-bin-und-ich-habe-sie-nie-korrigiert-a-e936e953-bdbf-4be9-8b50-3f3d1c1baa5a#ref=rss)
+### klarheit
+
+* [https://www.spiegel.de/panorama/bildung/coronavirus-lehrergewerkschaft-fordert-nach-ministerpraesidentenkonferenz-klarheit-fuer-schulen](https://www.spiegel.de/panorama/bildung/coronavirus-lehrergewerkschaft-fordert-nach-ministerpraesidentenkonferenz-klarheit-fuer-schulen-a-f316b9d0-280f-4a64-842e-cbe49e7e02d9#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/bildung/coronavirus-lehrergewerkschaft-fordert-nach-ministerpraesidentenkonferenz-klarheit-fuer-schulen](https://www.spiegel.de/panorama/bildung/coronavirus-lehrergewerkschaft-fordert-nach-ministerpraesidentenkonferenz-klarheit-fuer-schulen-a-f316b9d0-280f-4a64-842e-cbe49e7e02d9#ref=rss)
+### olympia
+
+* [https://www.spiegel.de/sport/formel1/olympische-winterspiele-2022-leon-draisaitl-eishockey-turnier-wohl-ohne-nhl-spieler](https://www.spiegel.de/sport/formel1/olympische-winterspiele-2022-leon-draisaitl-eishockey-turnier-wohl-ohne-nhl-spieler-a-d2c6d17c-dac7-4563-8853-1e5a55447f18#ref=rss)
+### kuba
+
+* [https://www.spiegel.de/wirtschaft/kuba-inflation-liegt-bei-70-prozent-mindestens](https://www.spiegel.de/wirtschaft/kuba-inflation-liegt-bei-70-prozent-mindestens-a-99ccd603-6873-4d09-8ea3-ef41296106c4#ref=rss)
+### deshalb
+
+* [https://www.spiegel.de/wirtschaft/kuba-inflation-liegt-bei-70-prozent-mindestens](https://www.spiegel.de/wirtschaft/kuba-inflation-liegt-bei-70-prozent-mindestens-a-99ccd603-6873-4d09-8ea3-ef41296106c4#ref=rss)
+* [https://www.spiegel.de/ausland/omikron-in-den-usa-wie-joe-biden-dem-virus-winter-begegnen-will](https://www.spiegel.de/ausland/omikron-in-den-usa-wie-joe-biden-dem-virus-winter-begegnen-will-a-a951b683-faae-40bf-829c-cb499875265a#ref=rss)
+### start
+
+* [https://www.spiegel.de/wissenschaft/weltall/franzoesisch-guayana-start-fuer-james-webb-weltraumteleskop-verzoegert-sich-erneut](https://www.spiegel.de/wissenschaft/weltall/franzoesisch-guayana-start-fuer-james-webb-weltraumteleskop-verzoegert-sich-erneut-a-81395608-2b22-4175-9b86-a400c8303844#ref=rss)
+### verzögert
+
+* [https://www.spiegel.de/wissenschaft/weltall/franzoesisch-guayana-start-fuer-james-webb-weltraumteleskop-verzoegert-sich-erneut](https://www.spiegel.de/wissenschaft/weltall/franzoesisch-guayana-start-fuer-james-webb-weltraumteleskop-verzoegert-sich-erneut-a-81395608-2b22-4175-9b86-a400c8303844#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/wissenschaft/weltall/franzoesisch-guayana-start-fuer-james-webb-weltraumteleskop-verzoegert-sich-erneut](https://www.spiegel.de/wissenschaft/weltall/franzoesisch-guayana-start-fuer-james-webb-weltraumteleskop-verzoegert-sich-erneut-a-81395608-2b22-4175-9b86-a400c8303844#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-mick-schumacher-wird-ersatzfahrer-bei-ferrari](https://www.spiegel.de/sport/formel1/formel-1-mick-schumacher-wird-ersatzfahrer-bei-ferrari-a-217d36fa-cacb-4c66-8b84-bbb045727092#ref=rss)
+### leonardo
+
+* [https://www.spiegel.de/kultur/the-lost-leonardo-ueber-salvator-mundi-die-versuche-mich-zu-bestechen-sind-ueberschaubar](https://www.spiegel.de/kultur/the-lost-leonardo-ueber-salvator-mundi-die-versuche-mich-zu-bestechen-sind-ueberschaubar-a-94640aa3-eaf0-4301-a043-0c412c385e4a#ref=rss)
+### salvator
+
+* [https://www.spiegel.de/kultur/the-lost-leonardo-ueber-salvator-mundi-die-versuche-mich-zu-bestechen-sind-ueberschaubar](https://www.spiegel.de/kultur/the-lost-leonardo-ueber-salvator-mundi-die-versuche-mich-zu-bestechen-sind-ueberschaubar-a-94640aa3-eaf0-4301-a043-0c412c385e4a#ref=rss)
+### mundi
+
+* [https://www.spiegel.de/kultur/the-lost-leonardo-ueber-salvator-mundi-die-versuche-mich-zu-bestechen-sind-ueberschaubar](https://www.spiegel.de/kultur/the-lost-leonardo-ueber-salvator-mundi-die-versuche-mich-zu-bestechen-sind-ueberschaubar-a-94640aa3-eaf0-4301-a043-0c412c385e4a#ref=rss)
+### klassentreffen
+
+* [https://www.spiegel.de/start/klassentreffen-warum-sie-weit-mehr-sind-als-ein-wiedersehen-mit-alten-freunden](https://www.spiegel.de/start/klassentreffen-warum-sie-weit-mehr-sind-als-ein-wiedersehen-mit-alten-freunden-a-59e742ac-5829-476c-8fe7-6e0aae0a3759#ref=rss)
+### weit
+
+* [https://www.spiegel.de/start/klassentreffen-warum-sie-weit-mehr-sind-als-ein-wiedersehen-mit-alten-freunden](https://www.spiegel.de/start/klassentreffen-warum-sie-weit-mehr-sind-als-ein-wiedersehen-mit-alten-freunden-a-59e742ac-5829-476c-8fe7-6e0aae0a3759#ref=rss)
+### wiedersehen
+
+* [https://www.spiegel.de/start/klassentreffen-warum-sie-weit-mehr-sind-als-ein-wiedersehen-mit-alten-freunden](https://www.spiegel.de/start/klassentreffen-warum-sie-weit-mehr-sind-als-ein-wiedersehen-mit-alten-freunden-a-59e742ac-5829-476c-8fe7-6e0aae0a3759#ref=rss)
+### geworden
+
+* [https://www.spiegel.de/start/klassentreffen-warum-sie-weit-mehr-sind-als-ein-wiedersehen-mit-alten-freunden](https://www.spiegel.de/start/klassentreffen-warum-sie-weit-mehr-sind-als-ein-wiedersehen-mit-alten-freunden-a-59e742ac-5829-476c-8fe7-6e0aae0a3759#ref=rss)
+* [https://www.spiegel.de/ausland/polen-oppositionelle-sollen-mit-pegasus-gehackt-worden-sein](https://www.spiegel.de/ausland/polen-oppositionelle-sollen-mit-pegasus-gehackt-worden-sein-a-2fc7f733-b247-4f2e-bf32-1abe4cc13938#ref=rss)
+### maria
+
+* [https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award](https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award-a-a1e11c57-446d-4ef6-8c11-72e466193e8f#ref=rss)
+### schraders
+
+* [https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award](https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award-a-a1e11c57-446d-4ef6-8c11-72e466193e8f#ref=rss)
+### dein
+
+* [https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award](https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award-a-a1e11c57-446d-4ef6-8c11-72e466193e8f#ref=rss)
+### mensch
+
+* [https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award](https://www.spiegel.de/kultur/kino/oscar-verleihung-maria-schraders-ich-bin-dein-mensch-auf-shortlist-fuer-academy-award-a-a1e11c57-446d-4ef6-8c11-72e466193e8f#ref=rss)
+### lockdowns
+
+* [https://www.spiegel.de/ausland/corona-australien-will-keine-lockdowns-mehr-trotz-omikron](https://www.spiegel.de/ausland/corona-australien-will-keine-lockdowns-mehr-trotz-omikron-a-b90f8d05-8b90-4789-aac3-38432f745698#ref=rss)
+### oppositionelle
+
+* [https://www.spiegel.de/ausland/polen-oppositionelle-sollen-mit-pegasus-gehackt-worden-sein](https://www.spiegel.de/ausland/polen-oppositionelle-sollen-mit-pegasus-gehackt-worden-sein-a-2fc7f733-b247-4f2e-bf32-1abe4cc13938#ref=rss)
+### pegasus
+
+* [https://www.spiegel.de/ausland/polen-oppositionelle-sollen-mit-pegasus-gehackt-worden-sein](https://www.spiegel.de/ausland/polen-oppositionelle-sollen-mit-pegasus-gehackt-worden-sein-a-2fc7f733-b247-4f2e-bf32-1abe4cc13938#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wirtschaft/wie-hessen-kryptogeld-im-wert-von-100-millionen-euro-loswurde](https://www.spiegel.de/wirtschaft/wie-hessen-kryptogeld-im-wert-von-100-millionen-euro-loswurde-a-b62dd991-020c-455a-8d1b-8666ea1ef3b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/g7-gipfel-auf-schloss-elmau-absicherung-soll-166-millionen-euro-kosten](https://www.spiegel.de/wirtschaft/soziales/g7-gipfel-auf-schloss-elmau-absicherung-soll-166-millionen-euro-kosten-a-0da01b47-ddae-46e6-8326-42d76e6a3b97#ref=rss)
+### sigl
+
+* [https://www.spiegel.de/panorama/leute/hans-sigl-der-bergdoktor-wuerde-rund-um-die-uhr-impfen](https://www.spiegel.de/panorama/leute/hans-sigl-der-bergdoktor-wuerde-rund-um-die-uhr-impfen-a-30f77110-e336-4a0b-9e7e-25debd87f4c0#ref=rss)
+### bergdoktor
+
+* [https://www.spiegel.de/panorama/leute/hans-sigl-der-bergdoktor-wuerde-rund-um-die-uhr-impfen](https://www.spiegel.de/panorama/leute/hans-sigl-der-bergdoktor-wuerde-rund-um-die-uhr-impfen-a-30f77110-e336-4a0b-9e7e-25debd87f4c0#ref=rss)
+### impfen
+
+* [https://www.spiegel.de/panorama/leute/hans-sigl-der-bergdoktor-wuerde-rund-um-die-uhr-impfen](https://www.spiegel.de/panorama/leute/hans-sigl-der-bergdoktor-wuerde-rund-um-die-uhr-impfen-a-30f77110-e336-4a0b-9e7e-25debd87f4c0#ref=rss)
+### väterurlaub
+
+* [https://www.spiegel.de/wirtschaft/soziales/vaeterurlaub-arbeitgeber-werfen-familienministerin-spiegel-aktionismus-vor](https://www.spiegel.de/wirtschaft/soziales/vaeterurlaub-arbeitgeber-werfen-familienministerin-spiegel-aktionismus-vor-a-fdaf4b7e-01c8-4c8c-926c-a9ddf2694017#ref=rss)
+### arbeitgeber
+
+* [https://www.spiegel.de/wirtschaft/soziales/vaeterurlaub-arbeitgeber-werfen-familienministerin-spiegel-aktionismus-vor](https://www.spiegel.de/wirtschaft/soziales/vaeterurlaub-arbeitgeber-werfen-familienministerin-spiegel-aktionismus-vor-a-fdaf4b7e-01c8-4c8c-926c-a9ddf2694017#ref=rss)
+### familienministerin
+
+* [https://www.spiegel.de/wirtschaft/soziales/vaeterurlaub-arbeitgeber-werfen-familienministerin-spiegel-aktionismus-vor](https://www.spiegel.de/wirtschaft/soziales/vaeterurlaub-arbeitgeber-werfen-familienministerin-spiegel-aktionismus-vor-a-fdaf4b7e-01c8-4c8c-926c-a9ddf2694017#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/wirtschaft/soziales/vaeterurlaub-arbeitgeber-werfen-familienministerin-spiegel-aktionismus-vor](https://www.spiegel.de/wirtschaft/soziales/vaeterurlaub-arbeitgeber-werfen-familienministerin-spiegel-aktionismus-vor-a-fdaf4b7e-01c8-4c8c-926c-a9ddf2694017#ref=rss)
+### mick
+
+* [https://www.spiegel.de/sport/formel1/formel-1-mick-schumacher-wird-ersatzfahrer-bei-ferrari](https://www.spiegel.de/sport/formel1/formel-1-mick-schumacher-wird-ersatzfahrer-bei-ferrari-a-217d36fa-cacb-4c66-8b84-bbb045727092#ref=rss)
+### dartswm
+
+* [https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus](https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus-a-8c25218c-9363-41d9-abd5-d8539af81dce#ref=rss)
+### florian
+
+* [https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus](https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus-a-8c25218c-9363-41d9-abd5-d8539af81dce#ref=rss)
+### hempel
+
+* [https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus](https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus-a-8c25218c-9363-41d9-abd5-d8539af81dce#ref=rss)
+### dimitri
+
+* [https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus](https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus-a-8c25218c-9363-41d9-abd5-d8539af81dce#ref=rss)
+### van
+
+* [https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus](https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus-a-8c25218c-9363-41d9-abd5-d8539af81dce#ref=rss)
+### bergh
+
+* [https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus](https://www.spiegel.de/sport/darts-wm-2022-florian-hempel-wirft-ueberraschend-dimitri-van-den-bergh-raus-a-8c25218c-9363-41d9-abd5-d8539af81dce#ref=rss)
+### g7gipfel
+
+* [https://www.spiegel.de/wirtschaft/soziales/g7-gipfel-auf-schloss-elmau-absicherung-soll-166-millionen-euro-kosten](https://www.spiegel.de/wirtschaft/soziales/g7-gipfel-auf-schloss-elmau-absicherung-soll-166-millionen-euro-kosten-a-0da01b47-ddae-46e6-8326-42d76e6a3b97#ref=rss)
+### schloss
+
+* [https://www.spiegel.de/wirtschaft/soziales/g7-gipfel-auf-schloss-elmau-absicherung-soll-166-millionen-euro-kosten](https://www.spiegel.de/wirtschaft/soziales/g7-gipfel-auf-schloss-elmau-absicherung-soll-166-millionen-euro-kosten-a-0da01b47-ddae-46e6-8326-42d76e6a3b97#ref=rss)
+### elmau
+
+* [https://www.spiegel.de/wirtschaft/soziales/g7-gipfel-auf-schloss-elmau-absicherung-soll-166-millionen-euro-kosten](https://www.spiegel.de/wirtschaft/soziales/g7-gipfel-auf-schloss-elmau-absicherung-soll-166-millionen-euro-kosten-a-0da01b47-ddae-46e6-8326-42d76e6a3b97#ref=rss)
 
