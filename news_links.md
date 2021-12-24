@@ -4,367 +4,335 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### corona
-
-* [https://www.spiegel.de/politik/deutschland/corona-malu-dreyer-appelliert-an-ungeimpfte-ihre-haltung-zu-ueberdenken](https://www.spiegel.de/politik/deutschland/corona-malu-dreyer-appelliert-an-ungeimpfte-ihre-haltung-zu-ueberdenken-a-b377efc0-bcea-47fe-9cfb-6ebedae72a38#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-aus-fuer-eishockey-superstar-leon-draisaitl-schoene-bescherung-doch-die-medaillenchancen-steigen](https://www.spiegel.de/sport/olympia/olympia-aus-fuer-eishockey-superstar-leon-draisaitl-schoene-bescherung-doch-die-medaillenchancen-steigen-a-53738a3c-c359-4175-916d-838e748ccce7#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut](https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut-a-ead3d027-6f0d-41f1-b208-902b7f5c4ab2#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-obdachlose-im-hofbraeuhaus-kaeltehilfe-am-alexanderplatz](https://www.spiegel.de/panorama/gesellschaft/berlin-obdachlose-im-hofbraeuhaus-kaeltehilfe-am-alexanderplatz-a-2fe234d1-dc38-4cb5-8f3f-94418ea53c91#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/rki-registriert-35-431-neuinfektionen-inzidenz-sinkt-auf-265-8](https://www.spiegel.de/wissenschaft/medizin/rki-registriert-35-431-neuinfektionen-inzidenz-sinkt-auf-265-8-a-8f3da449-0780-4ba9-9595-b9fd79184f1d#ref=rss)
-### wir
-
-* [https://www.spiegel.de/politik/deutschland/weihnachtsansprache-frank-walter-steinmeier-ruft-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/weihnachtsansprache-frank-walter-steinmeier-ruft-zum-zusammenhalt-auf-a-3353b94b-1313-4fa2-912e-53cb279aaaf0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast](https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast-a-b0c25dc5-40ae-4aab-a332-a04b7f8e51ec#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/leute/weitere-frau-beschuldigt-serienstar-chris-noth-wegen-sexueller-belaestigung](https://www.spiegel.de/panorama/leute/weitere-frau-beschuldigt-serienstar-chris-noth-wegen-sexueller-belaestigung-a-1c1f2cf1-fcd8-480f-a025-000a2bd20f77#ref=rss)
-* [https://www.spiegel.de/auto/nach-behoerdenintervention-tesla-sperrt-spiele-app-in-fahrenden-autos](https://www.spiegel.de/auto/nach-behoerdenintervention-tesla-sperrt-spiele-app-in-fahrenden-autos-a-30a71c06-7a46-4640-af69-296cd2e18550#ref=rss)
-* [https://www.spiegel.de/ausland/bangladesch-mehr-als-30-tote-bei-brand-auf-faehre](https://www.spiegel.de/ausland/bangladesch-mehr-als-30-tote-bei-brand-auf-faehre-a-cc83ed71-33da-4136-96dc-bdc88bb999a6#ref=rss)
-### fahrer
-
-* [https://www.spiegel.de/panorama/laster-prallt-gegen-masten-und-verteilt-waschmaschinen-auf-a4](https://www.spiegel.de/panorama/laster-prallt-gegen-masten-und-verteilt-waschmaschinen-auf-a4-a-b523ef4e-79fd-491b-a9c3-d02468739c3b#ref=rss)
-* [https://www.spiegel.de/auto/nach-behoerdenintervention-tesla-sperrt-spiele-app-in-fahrenden-autos](https://www.spiegel.de/auto/nach-behoerdenintervention-tesla-sperrt-spiele-app-in-fahrenden-autos-a-30a71c06-7a46-4640-af69-296cd2e18550#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/weihnachten-stadt-lahr-in-baden-wuerttemberg-verkleidet-blitzer-als-rentierschlitten](https://www.spiegel.de/panorama/gesellschaft/weihnachten-stadt-lahr-in-baden-wuerttemberg-verkleidet-blitzer-als-rentierschlitten-a-46bec6b4-9dbf-4b54-8889-02ddf65669b0#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/laster-prallt-gegen-masten-und-verteilt-waschmaschinen-auf-a4](https://www.spiegel.de/panorama/laster-prallt-gegen-masten-und-verteilt-waschmaschinen-auf-a4-a-b523ef4e-79fd-491b-a9c3-d02468739c3b#ref=rss)
-* [https://www.spiegel.de/familie/autismus-und-assistenzhunde-immer-die-gleiche-botschaft-du-bist-hier-nicht-erwuenscht](https://www.spiegel.de/familie/autismus-und-assistenzhunde-immer-die-gleiche-botschaft-du-bist-hier-nicht-erwuenscht-a-13033950-5d92-4395-bded-bbf193529c14#ref=rss)
-* [https://www.spiegel.de/sport/eishockey/loewen-frankfurt-18-jaehriger-eishockeyspieler-stirbt-nach-unfall-bei-ligaspiel](https://www.spiegel.de/sport/eishockey/loewen-frankfurt-18-jaehriger-eishockeyspieler-stirbt-nach-unfall-bei-ligaspiel-a-a5dac171-30b3-4241-86cd-fc828757ed09#ref=rss)
-### sehr
-
-* [https://www.spiegel.de/familie/warum-kinder-dinosaurier-so-sehr-lieben](https://www.spiegel.de/familie/warum-kinder-dinosaurier-so-sehr-lieben-a-7abb1679-80c1-4a5b-9f94-277a66e44a69#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava](https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava-a-97c2b455-bbfd-4fb8-9629-0340b7f98256#ref=rss)
-* [https://www.spiegel.de/familie/autismus-und-assistenzhunde-immer-die-gleiche-botschaft-du-bist-hier-nicht-erwuenscht](https://www.spiegel.de/familie/autismus-und-assistenzhunde-immer-die-gleiche-botschaft-du-bist-hier-nicht-erwuenscht-a-13033950-5d92-4395-bded-bbf193529c14#ref=rss)
-### viele
-
-* [https://www.spiegel.de/familie/warum-kinder-dinosaurier-so-sehr-lieben](https://www.spiegel.de/familie/warum-kinder-dinosaurier-so-sehr-lieben-a-7abb1679-80c1-4a5b-9f94-277a66e44a69#ref=rss)
-* [https://www.spiegel.de/panorama/leute/winter-wetter-in-deutschland-hunderte-verkehrsunfaelle-wegen-glatteis](https://www.spiegel.de/panorama/leute/winter-wetter-in-deutschland-hunderte-verkehrsunfaelle-wegen-glatteis-a-ac40df11-60be-4874-9b0f-59aa4f0f57b3#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-obdachlose-im-hofbraeuhaus-kaeltehilfe-am-alexanderplatz](https://www.spiegel.de/panorama/gesellschaft/berlin-obdachlose-im-hofbraeuhaus-kaeltehilfe-am-alexanderplatz-a-2fe234d1-dc38-4cb5-8f3f-94418ea53c91#ref=rss)
-### draisaitl
-
-* [https://www.spiegel.de/sport/olympia/olympia-aus-fuer-eishockey-superstar-leon-draisaitl-schoene-bescherung-doch-die-medaillenchancen-steigen](https://www.spiegel.de/sport/olympia/olympia-aus-fuer-eishockey-superstar-leon-draisaitl-schoene-bescherung-doch-die-medaillenchancen-steigen-a-53738a3c-c359-4175-916d-838e748ccce7#ref=rss)
-### weihnachten
-
-* [https://www.spiegel.de/wirtschaft/service/verpackungs-und-geschenkmuell-an-silvester-so-schenken-sie-nachhaltiger](https://www.spiegel.de/wirtschaft/service/verpackungs-und-geschenkmuell-an-silvester-so-schenken-sie-nachhaltiger-a-b554147a-c71e-4e01-b125-47e57e354436#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/weihnachten-stadt-lahr-in-baden-wuerttemberg-verkleidet-blitzer-als-rentierschlitten](https://www.spiegel.de/panorama/gesellschaft/weihnachten-stadt-lahr-in-baden-wuerttemberg-verkleidet-blitzer-als-rentierschlitten-a-46bec6b4-9dbf-4b54-8889-02ddf65669b0#ref=rss)
-* [https://www.spiegel.de/gesundheit/corona-gespraeche-an-weihnachten-mit-diesem-wissen-koennen-sie-kontern](https://www.spiegel.de/gesundheit/corona-gespraeche-an-weihnachten-mit-diesem-wissen-koennen-sie-kontern-a-396d6b6f-deab-4cc3-ac5b-4f9122585b16#ref=rss)
-### flucht
-
-* [https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst](https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst-a-9c52c8c8-0890-46f9-9ac9-bd8ae31f4968#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben](https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben-a-715fb0fa-0e57-4244-96ca-ecd70061d037#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst](https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst-a-9c52c8c8-0890-46f9-9ac9-bd8ae31f4968#ref=rss)
-* [https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld](https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld-a-b367c2ba-a601-42fd-a7a0-cc9611644522#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/bangladesch-mehr-als-30-tote-bei-brand-auf-faehre](https://www.spiegel.de/ausland/bangladesch-mehr-als-30-tote-bei-brand-auf-faehre-a-cc83ed71-33da-4136-96dc-bdc88bb999a6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/winter-wetter-in-deutschland-hunderte-verkehrsunfaelle-wegen-glatteis](https://www.spiegel.de/panorama/leute/winter-wetter-in-deutschland-hunderte-verkehrsunfaelle-wegen-glatteis-a-ac40df11-60be-4874-9b0f-59aa4f0f57b3#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben](https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben-a-715fb0fa-0e57-4244-96ca-ecd70061d037#ref=rss)
-### krankenhaus
-
-* [https://www.spiegel.de/ausland/bangladesch-mehr-als-30-tote-bei-brand-auf-faehre](https://www.spiegel.de/ausland/bangladesch-mehr-als-30-tote-bei-brand-auf-faehre-a-cc83ed71-33da-4136-96dc-bdc88bb999a6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/pele-fussball-legende-wieder-aus-krankenhaus-entlassen](https://www.spiegel.de/sport/fussball/pele-fussball-legende-wieder-aus-krankenhaus-entlassen-a-f5391322-00c7-4c65-8cc0-1c20ae69a132#ref=rss)
-* [https://www.spiegel.de/sport/eishockey/loewen-frankfurt-18-jaehriger-eishockeyspieler-stirbt-nach-unfall-bei-ligaspiel](https://www.spiegel.de/sport/eishockey/loewen-frankfurt-18-jaehriger-eishockeyspieler-stirbt-nach-unfall-bei-ligaspiel-a-a5dac171-30b3-4241-86cd-fc828757ed09#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/leute/winter-wetter-in-deutschland-hunderte-verkehrsunfaelle-wegen-glatteis](https://www.spiegel.de/panorama/leute/winter-wetter-in-deutschland-hunderte-verkehrsunfaelle-wegen-glatteis-a-ac40df11-60be-4874-9b0f-59aa4f0f57b3#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben](https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben-a-715fb0fa-0e57-4244-96ca-ecd70061d037#ref=rss)
-* [https://www.spiegel.de/sport/fussball/pele-fussball-legende-wieder-aus-krankenhaus-entlassen](https://www.spiegel.de/sport/fussball/pele-fussball-legende-wieder-aus-krankenhaus-entlassen-a-f5391322-00c7-4c65-8cc0-1c20ae69a132#ref=rss)
-### weihnachtsansprache
-
-* [https://www.spiegel.de/wissenschaft/medizin/rki-registriert-35-431-neuinfektionen-inzidenz-sinkt-auf-265-8](https://www.spiegel.de/wissenschaft/medizin/rki-registriert-35-431-neuinfektionen-inzidenz-sinkt-auf-265-8-a-8f3da449-0780-4ba9-9595-b9fd79184f1d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/weihnachtsansprache-frank-walter-steinmeier-ruft-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/weihnachtsansprache-frank-walter-steinmeier-ruft-zum-zusammenhalt-auf-a-3353b94b-1313-4fa2-912e-53cb279aaaf0#ref=rss)
-### später
-
-* [https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast](https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast-a-b0c25dc5-40ae-4aab-a332-a04b7f8e51ec#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben](https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben-a-715fb0fa-0e57-4244-96ca-ecd70061d037#ref=rss)
-* [https://www.spiegel.de/sport/eishockey/loewen-frankfurt-18-jaehriger-eishockeyspieler-stirbt-nach-unfall-bei-ligaspiel](https://www.spiegel.de/sport/eishockey/loewen-frankfurt-18-jaehriger-eishockeyspieler-stirbt-nach-unfall-bei-ligaspiel-a-a5dac171-30b3-4241-86cd-fc828757ed09#ref=rss)
-### dreyer
-
-* [https://www.spiegel.de/politik/deutschland/corona-malu-dreyer-appelliert-an-ungeimpfte-ihre-haltung-zu-ueberdenken](https://www.spiegel.de/politik/deutschland/corona-malu-dreyer-appelliert-an-ungeimpfte-ihre-haltung-zu-ueberdenken-a-b377efc0-bcea-47fe-9cfb-6ebedae72a38#ref=rss)
-### appelliert
-
-* [https://www.spiegel.de/politik/deutschland/corona-malu-dreyer-appelliert-an-ungeimpfte-ihre-haltung-zu-ueberdenken](https://www.spiegel.de/politik/deutschland/corona-malu-dreyer-appelliert-an-ungeimpfte-ihre-haltung-zu-ueberdenken-a-b377efc0-bcea-47fe-9cfb-6ebedae72a38#ref=rss)
-### ungeimpfte
-
-* [https://www.spiegel.de/politik/deutschland/corona-malu-dreyer-appelliert-an-ungeimpfte-ihre-haltung-zu-ueberdenken](https://www.spiegel.de/politik/deutschland/corona-malu-dreyer-appelliert-an-ungeimpfte-ihre-haltung-zu-ueberdenken-a-b377efc0-bcea-47fe-9cfb-6ebedae72a38#ref=rss)
-### haltung
-
-* [https://www.spiegel.de/politik/deutschland/corona-malu-dreyer-appelliert-an-ungeimpfte-ihre-haltung-zu-ueberdenken](https://www.spiegel.de/politik/deutschland/corona-malu-dreyer-appelliert-an-ungeimpfte-ihre-haltung-zu-ueberdenken-a-b377efc0-bcea-47fe-9cfb-6ebedae72a38#ref=rss)
-### überdenken
-
-* [https://www.spiegel.de/politik/deutschland/corona-malu-dreyer-appelliert-an-ungeimpfte-ihre-haltung-zu-ueberdenken](https://www.spiegel.de/politik/deutschland/corona-malu-dreyer-appelliert-an-ungeimpfte-ihre-haltung-zu-ueberdenken-a-b377efc0-bcea-47fe-9cfb-6ebedae72a38#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/leute/weitere-frau-beschuldigt-serienstar-chris-noth-wegen-sexueller-belaestigung](https://www.spiegel.de/panorama/leute/weitere-frau-beschuldigt-serienstar-chris-noth-wegen-sexueller-belaestigung-a-1c1f2cf1-fcd8-480f-a025-000a2bd20f77#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben](https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben-a-715fb0fa-0e57-4244-96ca-ecd70061d037#ref=rss)
-### beschuldigt
-
-* [https://www.spiegel.de/panorama/leute/weitere-frau-beschuldigt-serienstar-chris-noth-wegen-sexueller-belaestigung](https://www.spiegel.de/panorama/leute/weitere-frau-beschuldigt-serienstar-chris-noth-wegen-sexueller-belaestigung-a-1c1f2cf1-fcd8-480f-a025-000a2bd20f77#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-ex-praesidentin-park-wird-begnadigt](https://www.spiegel.de/ausland/suedkorea-ex-praesidentin-park-wird-begnadigt-a-a0d90ea4-31e5-44e2-ab5d-8ac634cd6a99#ref=rss)
-### chris
-
-* [https://www.spiegel.de/panorama/leute/weitere-frau-beschuldigt-serienstar-chris-noth-wegen-sexueller-belaestigung](https://www.spiegel.de/panorama/leute/weitere-frau-beschuldigt-serienstar-chris-noth-wegen-sexueller-belaestigung-a-1c1f2cf1-fcd8-480f-a025-000a2bd20f77#ref=rss)
-### noth
-
-* [https://www.spiegel.de/panorama/leute/weitere-frau-beschuldigt-serienstar-chris-noth-wegen-sexueller-belaestigung](https://www.spiegel.de/panorama/leute/weitere-frau-beschuldigt-serienstar-chris-noth-wegen-sexueller-belaestigung-a-1c1f2cf1-fcd8-480f-a025-000a2bd20f77#ref=rss)
-### mittlerweile
-
-* [https://www.spiegel.de/panorama/leute/weitere-frau-beschuldigt-serienstar-chris-noth-wegen-sexueller-belaestigung](https://www.spiegel.de/panorama/leute/weitere-frau-beschuldigt-serienstar-chris-noth-wegen-sexueller-belaestigung-a-1c1f2cf1-fcd8-480f-a025-000a2bd20f77#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/rki-omikron-jetzt-in-allen-bundeslaendern-nachgewiesen](https://www.spiegel.de/wissenschaft/medizin/rki-omikron-jetzt-in-allen-bundeslaendern-nachgewiesen-a-774de208-0226-4936-a4b4-5719d16175f2#ref=rss)
-### allen
-
-* [https://www.spiegel.de/wissenschaft/medizin/rki-omikron-jetzt-in-allen-bundeslaendern-nachgewiesen](https://www.spiegel.de/wissenschaft/medizin/rki-omikron-jetzt-in-allen-bundeslaendern-nachgewiesen-a-774de208-0226-4936-a4b4-5719d16175f2#ref=rss)
-### bundesländern
-
-* [https://www.spiegel.de/wissenschaft/medizin/rki-omikron-jetzt-in-allen-bundeslaendern-nachgewiesen](https://www.spiegel.de/wissenschaft/medizin/rki-omikron-jetzt-in-allen-bundeslaendern-nachgewiesen-a-774de208-0226-4936-a4b4-5719d16175f2#ref=rss)
-### mast
-
-* [https://www.spiegel.de/panorama/laster-prallt-gegen-masten-und-verteilt-waschmaschinen-auf-a4](https://www.spiegel.de/panorama/laster-prallt-gegen-masten-und-verteilt-waschmaschinen-auf-a4-a-b523ef4e-79fd-491b-a9c3-d02468739c3b#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/auto/nach-behoerdenintervention-tesla-sperrt-spiele-app-in-fahrenden-autos](https://www.spiegel.de/auto/nach-behoerdenintervention-tesla-sperrt-spiele-app-in-fahrenden-autos-a-30a71c06-7a46-4640-af69-296cd2e18550#ref=rss)
-### sperrt
-
-* [https://www.spiegel.de/auto/nach-behoerdenintervention-tesla-sperrt-spiele-app-in-fahrenden-autos](https://www.spiegel.de/auto/nach-behoerdenintervention-tesla-sperrt-spiele-app-in-fahrenden-autos-a-30a71c06-7a46-4640-af69-296cd2e18550#ref=rss)
-### sondern
-
-* [https://www.spiegel.de/auto/nach-behoerdenintervention-tesla-sperrt-spiele-app-in-fahrenden-autos](https://www.spiegel.de/auto/nach-behoerdenintervention-tesla-sperrt-spiele-app-in-fahrenden-autos-a-30a71c06-7a46-4640-af69-296cd2e18550#ref=rss)
-* [https://www.spiegel.de/familie/warum-kinder-dinosaurier-so-sehr-lieben](https://www.spiegel.de/familie/warum-kinder-dinosaurier-so-sehr-lieben-a-7abb1679-80c1-4a5b-9f94-277a66e44a69#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/familie/warum-kinder-dinosaurier-so-sehr-lieben](https://www.spiegel.de/familie/warum-kinder-dinosaurier-so-sehr-lieben-a-7abb1679-80c1-4a5b-9f94-277a66e44a69#ref=rss)
-### dinosaurier
-
-* [https://www.spiegel.de/familie/warum-kinder-dinosaurier-so-sehr-lieben](https://www.spiegel.de/familie/warum-kinder-dinosaurier-so-sehr-lieben-a-7abb1679-80c1-4a5b-9f94-277a66e44a69#ref=rss)
-### lieben
-
-* [https://www.spiegel.de/familie/warum-kinder-dinosaurier-so-sehr-lieben](https://www.spiegel.de/familie/warum-kinder-dinosaurier-so-sehr-lieben-a-7abb1679-80c1-4a5b-9f94-277a66e44a69#ref=rss)
-### hakim
-
-* [https://www.spiegel.de/sport/fussball/hakim-ziyech-vom-fc-chelsea-als-stoerender-einfluss-nicht-fuer-afrika-cup-nominiert](https://www.spiegel.de/sport/fussball/hakim-ziyech-vom-fc-chelsea-als-stoerender-einfluss-nicht-fuer-afrika-cup-nominiert-a-3c25b1d4-3a34-4537-90a8-cec28562383d#ref=rss)
-### ziyech
-
-* [https://www.spiegel.de/sport/fussball/hakim-ziyech-vom-fc-chelsea-als-stoerender-einfluss-nicht-fuer-afrika-cup-nominiert](https://www.spiegel.de/sport/fussball/hakim-ziyech-vom-fc-chelsea-als-stoerender-einfluss-nicht-fuer-afrika-cup-nominiert-a-3c25b1d4-3a34-4537-90a8-cec28562383d#ref=rss)
-### afrikacup
-
-* [https://www.spiegel.de/sport/fussball/hakim-ziyech-vom-fc-chelsea-als-stoerender-einfluss-nicht-fuer-afrika-cup-nominiert](https://www.spiegel.de/sport/fussball/hakim-ziyech-vom-fc-chelsea-als-stoerender-einfluss-nicht-fuer-afrika-cup-nominiert-a-3c25b1d4-3a34-4537-90a8-cec28562383d#ref=rss)
-### rund
-
-* [https://www.spiegel.de/sport/fussball/hakim-ziyech-vom-fc-chelsea-als-stoerender-einfluss-nicht-fuer-afrika-cup-nominiert](https://www.spiegel.de/sport/fussball/hakim-ziyech-vom-fc-chelsea-als-stoerender-einfluss-nicht-fuer-afrika-cup-nominiert-a-3c25b1d4-3a34-4537-90a8-cec28562383d#ref=rss)
-* [https://www.spiegel.de/ausland/bangladesch-mehr-als-30-tote-bei-brand-auf-faehre](https://www.spiegel.de/ausland/bangladesch-mehr-als-30-tote-bei-brand-auf-faehre-a-cc83ed71-33da-4136-96dc-bdc88bb999a6#ref=rss)
-### angst
-
-* [https://www.spiegel.de/sport/fussball/hakim-ziyech-vom-fc-chelsea-als-stoerender-einfluss-nicht-fuer-afrika-cup-nominiert](https://www.spiegel.de/sport/fussball/hakim-ziyech-vom-fc-chelsea-als-stoerender-einfluss-nicht-fuer-afrika-cup-nominiert-a-3c25b1d4-3a34-4537-90a8-cec28562383d#ref=rss)
-* [https://www.spiegel.de/gesundheit/corona-gespraeche-an-weihnachten-mit-diesem-wissen-koennen-sie-kontern](https://www.spiegel.de/gesundheit/corona-gespraeche-an-weihnachten-mit-diesem-wissen-koennen-sie-kontern-a-396d6b6f-deab-4cc3-ac5b-4f9122585b16#ref=rss)
-### weihnachtssterne
-
-* [https://www.spiegel.de/stil/weihnachtssterne-mathematisch-gesehen-fuer-mich-ist-der-schoenste-stern-eine-kugel](https://www.spiegel.de/stil/weihnachtssterne-mathematisch-gesehen-fuer-mich-ist-der-schoenste-stern-eine-kugel-a-41d85bf4-5f0d-4ecd-af25-c45706040895#ref=rss)
-### stern
-
-* [https://www.spiegel.de/stil/weihnachtssterne-mathematisch-gesehen-fuer-mich-ist-der-schoenste-stern-eine-kugel](https://www.spiegel.de/stil/weihnachtssterne-mathematisch-gesehen-fuer-mich-ist-der-schoenste-stern-eine-kugel-a-41d85bf4-5f0d-4ecd-af25-c45706040895#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/stil/weihnachtssterne-mathematisch-gesehen-fuer-mich-ist-der-schoenste-stern-eine-kugel](https://www.spiegel.de/stil/weihnachtssterne-mathematisch-gesehen-fuer-mich-ist-der-schoenste-stern-eine-kugel-a-41d85bf4-5f0d-4ecd-af25-c45706040895#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/verpackungs-und-geschenkmuell-an-silvester-so-schenken-sie-nachhaltiger](https://www.spiegel.de/wirtschaft/service/verpackungs-und-geschenkmuell-an-silvester-so-schenken-sie-nachhaltiger-a-b554147a-c71e-4e01-b125-47e57e354436#ref=rss)
-### leon
-
-* [https://www.spiegel.de/sport/olympia/olympia-aus-fuer-eishockey-superstar-leon-draisaitl-schoene-bescherung-doch-die-medaillenchancen-steigen](https://www.spiegel.de/sport/olympia/olympia-aus-fuer-eishockey-superstar-leon-draisaitl-schoene-bescherung-doch-die-medaillenchancen-steigen-a-53738a3c-c359-4175-916d-838e748ccce7#ref=rss)
-### gespräch
-
-* [https://www.spiegel.de/sport/olympia/olympia-aus-fuer-eishockey-superstar-leon-draisaitl-schoene-bescherung-doch-die-medaillenchancen-steigen](https://www.spiegel.de/sport/olympia/olympia-aus-fuer-eishockey-superstar-leon-draisaitl-schoene-bescherung-doch-die-medaillenchancen-steigen-a-53738a3c-c359-4175-916d-838e748ccce7#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava](https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava-a-97c2b455-bbfd-4fb8-9629-0340b7f98256#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/china-hongkonger-universitaeten-entfernen-weitere-tiananmen-mahnmale](https://www.spiegel.de/ausland/china-hongkonger-universitaeten-entfernen-weitere-tiananmen-mahnmale-a-0940527b-e565-4d8a-8c51-1212eb0dd1d0#ref=rss)
-### universitäten
-
-* [https://www.spiegel.de/ausland/china-hongkonger-universitaeten-entfernen-weitere-tiananmen-mahnmale](https://www.spiegel.de/ausland/china-hongkonger-universitaeten-entfernen-weitere-tiananmen-mahnmale-a-0940527b-e565-4d8a-8c51-1212eb0dd1d0#ref=rss)
-### silvester
-
-* [https://www.spiegel.de/wirtschaft/service/verpackungs-und-geschenkmuell-an-silvester-so-schenken-sie-nachhaltiger](https://www.spiegel.de/wirtschaft/service/verpackungs-und-geschenkmuell-an-silvester-so-schenken-sie-nachhaltiger-a-b554147a-c71e-4e01-b125-47e57e354436#ref=rss)
-### nachhaltiger
-
-* [https://www.spiegel.de/wirtschaft/service/verpackungs-und-geschenkmuell-an-silvester-so-schenken-sie-nachhaltiger](https://www.spiegel.de/wirtschaft/service/verpackungs-und-geschenkmuell-an-silvester-so-schenken-sie-nachhaltiger-a-b554147a-c71e-4e01-b125-47e57e354436#ref=rss)
-### jedes
-
-* [https://www.spiegel.de/wirtschaft/service/verpackungs-und-geschenkmuell-an-silvester-so-schenken-sie-nachhaltiger](https://www.spiegel.de/wirtschaft/service/verpackungs-und-geschenkmuell-an-silvester-so-schenken-sie-nachhaltiger-a-b554147a-c71e-4e01-b125-47e57e354436#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast](https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast-a-b0c25dc5-40ae-4aab-a332-a04b7f8e51ec#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/service/verpackungs-und-geschenkmuell-an-silvester-so-schenken-sie-nachhaltiger](https://www.spiegel.de/wirtschaft/service/verpackungs-und-geschenkmuell-an-silvester-so-schenken-sie-nachhaltiger-a-b554147a-c71e-4e01-b125-47e57e354436#ref=rss)
-* [https://www.spiegel.de/panorama/weihnachtsbaum-selbstgebaut-ho-ho-holzbaum](https://www.spiegel.de/panorama/weihnachtsbaum-selbstgebaut-ho-ho-holzbaum-a-45ffa7b5-038d-4e84-9834-7ceec0bd4d9f#ref=rss)
-### joni
-
-* [https://www.spiegel.de/kultur/musik/joni-mitchell-weihnachts-klassiker-river-bekommt-nach-50-jahren-ein-musikvideo](https://www.spiegel.de/kultur/musik/joni-mitchell-weihnachts-klassiker-river-bekommt-nach-50-jahren-ein-musikvideo-a-0872d8bb-55ce-4c28-9646-1c825cc0645f#ref=rss)
-### mitchell
-
-* [https://www.spiegel.de/kultur/musik/joni-mitchell-weihnachts-klassiker-river-bekommt-nach-50-jahren-ein-musikvideo](https://www.spiegel.de/kultur/musik/joni-mitchell-weihnachts-klassiker-river-bekommt-nach-50-jahren-ein-musikvideo-a-0872d8bb-55ce-4c28-9646-1c825cc0645f#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/kultur/musik/joni-mitchell-weihnachts-klassiker-river-bekommt-nach-50-jahren-ein-musikvideo](https://www.spiegel.de/kultur/musik/joni-mitchell-weihnachts-klassiker-river-bekommt-nach-50-jahren-ein-musikvideo-a-0872d8bb-55ce-4c28-9646-1c825cc0645f#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava](https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava-a-97c2b455-bbfd-4fb8-9629-0340b7f98256#ref=rss)
-### musikvideo
-
-* [https://www.spiegel.de/kultur/musik/joni-mitchell-weihnachts-klassiker-river-bekommt-nach-50-jahren-ein-musikvideo](https://www.spiegel.de/kultur/musik/joni-mitchell-weihnachts-klassiker-river-bekommt-nach-50-jahren-ein-musikvideo-a-0872d8bb-55ce-4c28-9646-1c825cc0645f#ref=rss)
-### mörder
-
-* [https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst](https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst-a-9c52c8c8-0890-46f9-9ac9-bd8ae31f4968#ref=rss)
-### niederlanden
-
-* [https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst](https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst-a-9c52c8c8-0890-46f9-9ac9-bd8ae31f4968#ref=rss)
-### tagen
-
-* [https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst](https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst-a-9c52c8c8-0890-46f9-9ac9-bd8ae31f4968#ref=rss)
+* [https://www.spiegel.de/auto/fahrkultur/oldtimer-autojahrgang-1992-erreicht-altersgrenze](https://www.spiegel.de/auto/fahrkultur/oldtimer-autojahrgang-1992-erreicht-altersgrenze-a-58f81248-41c7-4d8f-8299-6b2419c7916a#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden](https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden-a-b5940f60-ad88-404b-94ed-0e5e90e55ec9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/australien-seltener-pinker-handfisch-erstmals-nach-22-jahren-wieder-gesichtet](https://www.spiegel.de/wissenschaft/natur/australien-seltener-pinker-handfisch-erstmals-nach-22-jahren-wieder-gesichtet-a-104c5e53-d92c-442c-96e8-aca9f88358f4#ref=rss)
+* [https://www.spiegel.de/ausland/papst-franziskus-die-bescheidene-bleibe-des-heiligen-vaters-im-vatikan](https://www.spiegel.de/ausland/papst-franziskus-die-bescheidene-bleibe-des-heiligen-vaters-im-vatikan-a-012bae0a-c358-4c0c-88e1-af5754433cb5#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/inge-jens-stirbt-im-alter-von-94-jahren](https://www.spiegel.de/kultur/literatur/inge-jens-stirbt-im-alter-von-94-jahren-a-3d4f9e6b-0980-44cb-b24e-23aa0a9ad474#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video-a-46599b76-2d9c-446f-848b-006909e3aa95#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst](https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst-a-9c52c8c8-0890-46f9-9ac9-bd8ae31f4968#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben](https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben-a-715fb0fa-0e57-4244-96ca-ecd70061d037#ref=rss)
-### haft
+* [https://www.spiegel.de/panorama/justiz/koblenz-50-jaehriger-zersticht-1500-reifen-an-ueber-380-autos](https://www.spiegel.de/panorama/justiz/koblenz-50-jaehriger-zersticht-1500-reifen-an-ueber-380-autos-a-d827c28b-7a01-484f-98b8-2a158d590a56#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayern-bussgeld-fuer-weihnachtslichterkette-am-auto](https://www.spiegel.de/panorama/justiz/bayern-bussgeld-fuer-weihnachtslichterkette-am-auto-a-4ee527c2-d18e-4501-be5d-d6d48cfa500c#ref=rss)
+* [https://www.spiegel.de/politik/niederlande-polizei-verstaerkt-schutz-fuer-gesundheitsminister-hugo-de-jonge](https://www.spiegel.de/politik/niederlande-polizei-verstaerkt-schutz-fuer-gesundheitsminister-hugo-de-jonge-a-d54c55ae-9990-4abd-b8cb-d73273b5846c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-joachim-herrmann-ermutigt-kommunen-querdenker-spaziergaenge-zu-verbieten](https://www.spiegel.de/politik/deutschland/corona-joachim-herrmann-ermutigt-kommunen-querdenker-spaziergaenge-zu-verbieten-a-249e5dd2-e625-412d-983d-bc290a8121cf#ref=rss)
+### wochen
 
-* [https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst](https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst-a-9c52c8c8-0890-46f9-9ac9-bd8ae31f4968#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava](https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava-a-97c2b455-bbfd-4fb8-9629-0340b7f98256#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-scharfe-kritik-an-unklarer-corona-datenlage-an-den-feiertagen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-scharfe-kritik-an-unklarer-corona-datenlage-an-den-feiertagen-a-b60e3141-35df-4370-8306-6ff483287f26#ref=rss)
+* [https://www.spiegel.de/wissenschaft/james-webb-teleskop-was-es-kann-und-wie-es-funktioniert](https://www.spiegel.de/wissenschaft/james-webb-teleskop-was-es-kann-und-wie-es-funktioniert-a-88c76f1d-4919-4e02-8c40-a1b3bdfb929c#ref=rss)
+* [https://www.spiegel.de/politik/niederlande-polizei-verstaerkt-schutz-fuer-gesundheitsminister-hugo-de-jonge](https://www.spiegel.de/politik/niederlande-polizei-verstaerkt-schutz-fuer-gesundheitsminister-hugo-de-jonge-a-d54c55ae-9990-4abd-b8cb-d73273b5846c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-joachim-herrmann-ermutigt-kommunen-querdenker-spaziergaenge-zu-verbieten](https://www.spiegel.de/politik/deutschland/corona-joachim-herrmann-ermutigt-kommunen-querdenker-spaziergaenge-zu-verbieten-a-249e5dd2-e625-412d-983d-bc290a8121cf#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst](https://www.spiegel.de/panorama/justiz/muenster-enschede-nach-flucht-vor-haftantritt-verurteilter-moerder-in-den-niederlanden-gefasst-a-9c52c8c8-0890-46f9-9ac9-bd8ae31f4968#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava](https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava-a-97c2b455-bbfd-4fb8-9629-0340b7f98256#ref=rss)
-### kamen
+* [https://www.spiegel.de/ausland/russland-berichtet-von-angeblichem-angriff-auf-konsulat-in-der-ukraine](https://www.spiegel.de/ausland/russland-berichtet-von-angeblichem-angriff-auf-konsulat-in-der-ukraine-a-1add52da-73b0-4499-a6a7-5816a4bba443#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/die-rueckkehr-der-pint-grossen-sektflaschen](https://www.spiegel.de/wirtschaft/service/die-rueckkehr-der-pint-grossen-sektflaschen-a-c7f8eaa3-4805-40aa-bd59-b4453310ed39#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/google-soll-in-russland-87-millionen-euro-strafe-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/google-soll-in-russland-87-millionen-euro-strafe-zahlen-a-5bcd1542-523b-4363-bcf7-23b33565ffae#ref=rss)
+* [https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-spricht-von-eu-als-viertem-deutschen-reich](https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-spricht-von-eu-als-viertem-deutschen-reich-a-fcc1c5bc-fee6-41ad-bd6b-26e744287bac#ref=rss)
+### corona
 
-* [https://www.spiegel.de/ausland/bangladesch-mehr-als-30-tote-bei-brand-auf-faehre](https://www.spiegel.de/ausland/bangladesch-mehr-als-30-tote-bei-brand-auf-faehre-a-cc83ed71-33da-4136-96dc-bdc88bb999a6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/winter-wetter-in-deutschland-hunderte-verkehrsunfaelle-wegen-glatteis](https://www.spiegel.de/panorama/leute/winter-wetter-in-deutschland-hunderte-verkehrsunfaelle-wegen-glatteis-a-ac40df11-60be-4874-9b0f-59aa4f0f57b3#ref=rss)
-### nba
+* [https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022](https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022-a-e34558ba-2b5f-472a-a4b2-5f102f2badf4#ref=rss)
+* [https://www.spiegel.de/panorama/rueckblick-auf-das-jahr-das-war-2021](https://www.spiegel.de/panorama/rueckblick-auf-das-jahr-das-war-2021-a-9305249a-c99c-41d0-89b4-0dbe9e9c40c6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-joachim-herrmann-ermutigt-kommunen-querdenker-spaziergaenge-zu-verbieten](https://www.spiegel.de/politik/deutschland/corona-joachim-herrmann-ermutigt-kommunen-querdenker-spaziergaenge-zu-verbieten-a-249e5dd2-e625-412d-983d-bc290a8121cf#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video-a-46599b76-2d9c-446f-848b-006909e3aa95#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut](https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut-a-ead3d027-6f0d-41f1-b208-902b7f5c4ab2#ref=rss)
-### franz
+* [https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022](https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022-a-e34558ba-2b5f-472a-a4b2-5f102f2badf4#ref=rss)
+* [https://www.spiegel.de/panorama/rueckblick-auf-das-jahr-das-war-2021](https://www.spiegel.de/panorama/rueckblick-auf-das-jahr-das-war-2021-a-9305249a-c99c-41d0-89b4-0dbe9e9c40c6#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis](https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis-a-5b082a3b-e700-46c8-85a6-7e827431da2e#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut](https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut-a-ead3d027-6f0d-41f1-b208-902b7f5c4ab2#ref=rss)
-### wagner
+* [https://www.spiegel.de/auto/fahrkultur/oldtimer-autojahrgang-1992-erreicht-altersgrenze](https://www.spiegel.de/auto/fahrkultur/oldtimer-autojahrgang-1992-erreicht-altersgrenze-a-58f81248-41c7-4d8f-8299-6b2419c7916a#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-ueber-weihnachten-frostiger-norden-unbestaendiger-sueden](https://www.spiegel.de/panorama/wetter-ueber-weihnachten-frostiger-norden-unbestaendiger-sueden-a-d4d92aa4-bc9c-49a5-ae85-95014449c95b#ref=rss)
+* [https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-spricht-von-eu-als-viertem-deutschen-reich](https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-spricht-von-eu-als-viertem-deutschen-reich-a-fcc1c5bc-fee6-41ad-bd6b-26e744287bac#ref=rss)
+### feiertagen
 
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut](https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut-a-ead3d027-6f0d-41f1-b208-902b7f5c4ab2#ref=rss)
-### stephen
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-scharfe-kritik-an-unklarer-corona-datenlage-an-den-feiertagen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-scharfe-kritik-an-unklarer-corona-datenlage-an-den-feiertagen-a-b60e3141-35df-4370-8306-6ff483287f26#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-ueber-weihnachten-frostiger-norden-unbestaendiger-sueden](https://www.spiegel.de/panorama/wetter-ueber-weihnachten-frostiger-norden-unbestaendiger-sueden-a-d4d92aa4-bc9c-49a5-ae85-95014449c95b#ref=rss)
+### familie
 
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut](https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut-a-ead3d027-6f0d-41f1-b208-902b7f5c4ab2#ref=rss)
-### curry
+* [https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden](https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden-a-b5940f60-ad88-404b-94ed-0e5e90e55ec9#ref=rss)
+* [https://www.spiegel.de/ausland/ich-verlasse-einen-hort-der-sicherheit](https://www.spiegel.de/ausland/ich-verlasse-einen-hort-der-sicherheit-a-d09c494d-099f-4e71-9c0b-60e18473ff87#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut](https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut-a-ead3d027-6f0d-41f1-b208-902b7f5c4ab2#ref=rss)
-### überragt
+* [https://www.spiegel.de/panorama/gesellschaft/impfaktion-am-koelner-dom-das-ist-ja-was-ganz-besonderes-als-koelsche-maedche](https://www.spiegel.de/panorama/gesellschaft/impfaktion-am-koelner-dom-das-ist-ja-was-ganz-besonderes-als-koelsche-maedche-a-5f73a70c-ccd2-48e4-8af7-1dd6c283da26#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis](https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis-a-5b082a3b-e700-46c8-85a6-7e827431da2e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/die-rueckkehr-der-pint-grossen-sektflaschen](https://www.spiegel.de/wirtschaft/service/die-rueckkehr-der-pint-grossen-sektflaschen-a-c7f8eaa3-4805-40aa-bd59-b4453310ed39#ref=rss)
+### distanzunterricht
 
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut](https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut-a-ead3d027-6f0d-41f1-b208-902b7f5c4ab2#ref=rss)
-### helfen
+* [https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022](https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022-a-e34558ba-2b5f-472a-a4b2-5f102f2badf4#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht](https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht-a-97a1b666-4625-483d-a865-217c768d377a#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut](https://www.spiegel.de/sport/basketball/nba-franz-wagner-erzielt-17-punkte-in-sieben-minuten-stephen-curry-ueberragt-erneut-a-ead3d027-6f0d-41f1-b208-902b7f5c4ab2#ref=rss)
-* [https://www.spiegel.de/familie/autismus-und-assistenzhunde-immer-die-gleiche-botschaft-du-bist-hier-nicht-erwuenscht](https://www.spiegel.de/familie/autismus-und-assistenzhunde-immer-die-gleiche-botschaft-du-bist-hier-nicht-erwuenscht-a-13033950-5d92-4395-bded-bbf193529c14#ref=rss)
-### davon
+* [https://www.spiegel.de/panorama/justiz/bayern-bussgeld-fuer-weihnachtslichterkette-am-auto](https://www.spiegel.de/panorama/justiz/bayern-bussgeld-fuer-weihnachtslichterkette-am-auto-a-4ee527c2-d18e-4501-be5d-d6d48cfa500c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/oliver-kahn-verteidigt-katar-sponsoring-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/oliver-kahn-verteidigt-katar-sponsoring-beim-fc-bayern-muenchen-a-614ae0a8-a285-423f-a2f3-e194c3c6ef32#ref=rss)
+### thema
 
-* [https://www.spiegel.de/panorama/leute/winter-wetter-in-deutschland-hunderte-verkehrsunfaelle-wegen-glatteis](https://www.spiegel.de/panorama/leute/winter-wetter-in-deutschland-hunderte-verkehrsunfaelle-wegen-glatteis-a-ac40df11-60be-4874-9b0f-59aa4f0f57b3#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-obdachlose-im-hofbraeuhaus-kaeltehilfe-am-alexanderplatz](https://www.spiegel.de/panorama/gesellschaft/berlin-obdachlose-im-hofbraeuhaus-kaeltehilfe-am-alexanderplatz-a-2fe234d1-dc38-4cb5-8f3f-94418ea53c91#ref=rss)
-### dartswm
+* [https://www.spiegel.de/wirtschaft/service/die-rueckkehr-der-pint-grossen-sektflaschen](https://www.spiegel.de/wirtschaft/service/die-rueckkehr-der-pint-grossen-sektflaschen-a-c7f8eaa3-4805-40aa-bd59-b4453310ed39#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht](https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht-a-97a1b666-4625-483d-a865-217c768d377a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/oliver-kahn-verteidigt-katar-sponsoring-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/oliver-kahn-verteidigt-katar-sponsoring-beim-fc-bayern-muenchen-a-614ae0a8-a285-423f-a2f3-e194c3c6ef32#ref=rss)
+### oldtimer
 
-* [https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld](https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld-a-b367c2ba-a601-42fd-a7a0-cc9611644522#ref=rss)
-### 2022
+* [https://www.spiegel.de/auto/fahrkultur/oldtimer-autojahrgang-1992-erreicht-altersgrenze](https://www.spiegel.de/auto/fahrkultur/oldtimer-autojahrgang-1992-erreicht-altersgrenze-a-58f81248-41c7-4d8f-8299-6b2419c7916a#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld](https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld-a-b367c2ba-a601-42fd-a7a0-cc9611644522#ref=rss)
-* [https://www.spiegel.de/panorama/weihnachtsbaum-selbstgebaut-ho-ho-holzbaum](https://www.spiegel.de/panorama/weihnachtsbaum-selbstgebaut-ho-ho-holzbaum-a-45ffa7b5-038d-4e84-9834-7ceec0bd4d9f#ref=rss)
-### gabriel
+* [https://www.spiegel.de/auto/fahrkultur/oldtimer-autojahrgang-1992-erreicht-altersgrenze](https://www.spiegel.de/auto/fahrkultur/oldtimer-autojahrgang-1992-erreicht-altersgrenze-a-58f81248-41c7-4d8f-8299-6b2419c7916a#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis](https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis-a-5b082a3b-e700-46c8-85a6-7e827431da2e#ref=rss)
+### oft
 
-* [https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld](https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld-a-b367c2ba-a601-42fd-a7a0-cc9611644522#ref=rss)
-### clemens
+* [https://www.spiegel.de/auto/fahrkultur/oldtimer-autojahrgang-1992-erreicht-altersgrenze](https://www.spiegel.de/auto/fahrkultur/oldtimer-autojahrgang-1992-erreicht-altersgrenze-a-58f81248-41c7-4d8f-8299-6b2419c7916a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-joachim-herrmann-ermutigt-kommunen-querdenker-spaziergaenge-zu-verbieten](https://www.spiegel.de/politik/deutschland/corona-joachim-herrmann-ermutigt-kommunen-querdenker-spaziergaenge-zu-verbieten-a-249e5dd2-e625-412d-983d-bc290a8121cf#ref=rss)
+### hinzu
 
-* [https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld](https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld-a-b367c2ba-a601-42fd-a7a0-cc9611644522#ref=rss)
-### runde
+* [https://www.spiegel.de/auto/fahrkultur/oldtimer-autojahrgang-1992-erreicht-altersgrenze](https://www.spiegel.de/auto/fahrkultur/oldtimer-autojahrgang-1992-erreicht-altersgrenze-a-58f81248-41c7-4d8f-8299-6b2419c7916a#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis](https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis-a-5b082a3b-e700-46c8-85a6-7e827431da2e#ref=rss)
+### koblenz
 
-* [https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld](https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld-a-b367c2ba-a601-42fd-a7a0-cc9611644522#ref=rss)
-### rob
+* [https://www.spiegel.de/panorama/justiz/koblenz-50-jaehriger-zersticht-1500-reifen-an-ueber-380-autos](https://www.spiegel.de/panorama/justiz/koblenz-50-jaehriger-zersticht-1500-reifen-an-ueber-380-autos-a-d827c28b-7a01-484f-98b8-2a158d590a56#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld](https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld-a-b367c2ba-a601-42fd-a7a0-cc9611644522#ref=rss)
-### cross
+* [https://www.spiegel.de/panorama/justiz/koblenz-50-jaehriger-zersticht-1500-reifen-an-ueber-380-autos](https://www.spiegel.de/panorama/justiz/koblenz-50-jaehriger-zersticht-1500-reifen-an-ueber-380-autos-a-d827c28b-7a01-484f-98b8-2a158d590a56#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis](https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis-a-5b082a3b-e700-46c8-85a6-7e827431da2e#ref=rss)
+### schlüssel
 
-* [https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld](https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld-a-b367c2ba-a601-42fd-a7a0-cc9611644522#ref=rss)
-### raymond
+* [https://www.spiegel.de/panorama/leute/suedafrika-protestiert-gegen-versteigerung-von-mandelas-zellenschluessel](https://www.spiegel.de/panorama/leute/suedafrika-protestiert-gegen-versteigerung-von-mandelas-zellenschluessel-a-6f15e8d9-2e2f-4aa9-885b-a190fc82065b#ref=rss)
+### emily
 
-* [https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld](https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld-a-b367c2ba-a601-42fd-a7a0-cc9611644522#ref=rss)
-### van
+* [https://www.spiegel.de/kultur/tv/emily-in-paris-bei-netflix-staffel-2-ueberall-champagner-nirgendwo-gelbwesten](https://www.spiegel.de/kultur/tv/emily-in-paris-bei-netflix-staffel-2-ueberall-champagner-nirgendwo-gelbwesten-a-af6be994-eaa8-4385-8307-6e165c6a2c7a#ref=rss)
+### paris
 
-* [https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld](https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld-a-b367c2ba-a601-42fd-a7a0-cc9611644522#ref=rss)
-### barneveld
+* [https://www.spiegel.de/kultur/tv/emily-in-paris-bei-netflix-staffel-2-ueberall-champagner-nirgendwo-gelbwesten](https://www.spiegel.de/kultur/tv/emily-in-paris-bei-netflix-staffel-2-ueberall-champagner-nirgendwo-gelbwesten-a-af6be994-eaa8-4385-8307-6e165c6a2c7a#ref=rss)
+### netflix
 
-* [https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld](https://www.spiegel.de/sport/darts-wm-2022-gabriel-clemens-in-runde-drei-rob-cross-schlaegt-raymond-van-barneveld-a-b367c2ba-a601-42fd-a7a0-cc9611644522#ref=rss)
-### vater
+* [https://www.spiegel.de/kultur/tv/emily-in-paris-bei-netflix-staffel-2-ueberall-champagner-nirgendwo-gelbwesten](https://www.spiegel.de/kultur/tv/emily-in-paris-bei-netflix-staffel-2-ueberall-champagner-nirgendwo-gelbwesten-a-af6be994-eaa8-4385-8307-6e165c6a2c7a#ref=rss)
+### staffel
 
-* [https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava](https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava-a-97c2b455-bbfd-4fb8-9629-0340b7f98256#ref=rss)
-### maria
+* [https://www.spiegel.de/kultur/tv/emily-in-paris-bei-netflix-staffel-2-ueberall-champagner-nirgendwo-gelbwesten](https://www.spiegel.de/kultur/tv/emily-in-paris-bei-netflix-staffel-2-ueberall-champagner-nirgendwo-gelbwesten-a-af6be994-eaa8-4385-8307-6e165c6a2c7a#ref=rss)
+### coronavirus
 
-* [https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava](https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava-a-97c2b455-bbfd-4fb8-9629-0340b7f98256#ref=rss)
-### kalesnikava
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-scharfe-kritik-an-unklarer-corona-datenlage-an-den-feiertagen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-scharfe-kritik-an-unklarer-corona-datenlage-an-den-feiertagen-a-b60e3141-35df-4370-8306-6ff483287f26#ref=rss)
+* [https://www.spiegel.de/ausland/ich-verlasse-einen-hort-der-sicherheit](https://www.spiegel.de/ausland/ich-verlasse-einen-hort-der-sicherheit-a-d09c494d-099f-4e71-9c0b-60e18473ff87#ref=rss)
+### funktioniert
 
-* [https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava](https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava-a-97c2b455-bbfd-4fb8-9629-0340b7f98256#ref=rss)
-### stunden
+* [https://www.spiegel.de/wissenschaft/james-webb-teleskop-was-es-kann-und-wie-es-funktioniert](https://www.spiegel.de/wissenschaft/james-webb-teleskop-was-es-kann-und-wie-es-funktioniert-a-88c76f1d-4919-4e02-8c40-a1b3bdfb929c#ref=rss)
+* [https://www.spiegel.de/ausland/papst-franziskus-die-bescheidene-bleibe-des-heiligen-vaters-im-vatikan](https://www.spiegel.de/ausland/papst-franziskus-die-bescheidene-bleibe-des-heiligen-vaters-im-vatikan-a-012bae0a-c358-4c0c-88e1-af5754433cb5#ref=rss)
+### hajj
 
-* [https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava](https://www.spiegel.de/ausland/belarus-vater-der-inhaftierten-maria-kalesnikava-a-97c2b455-bbfd-4fb8-9629-0340b7f98256#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben](https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben-a-715fb0fa-0e57-4244-96ca-ecd70061d037#ref=rss)
-### park
+* [https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden](https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden-a-b5940f60-ad88-404b-94ed-0e5e90e55ec9#ref=rss)
+### abdo
 
-* [https://www.spiegel.de/ausland/suedkorea-ex-praesidentin-park-wird-begnadigt](https://www.spiegel.de/ausland/suedkorea-ex-praesidentin-park-wird-begnadigt-a-a0d90ea4-31e5-44e2-ab5d-8ac634cd6a99#ref=rss)
-### geunhye
+* [https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden](https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden-a-b5940f60-ad88-404b-94ed-0e5e90e55ec9#ref=rss)
+### endlich
 
-* [https://www.spiegel.de/ausland/suedkorea-ex-praesidentin-park-wird-begnadigt](https://www.spiegel.de/ausland/suedkorea-ex-praesidentin-park-wird-begnadigt-a-a0d90ea4-31e5-44e2-ab5d-8ac634cd6a99#ref=rss)
-### alexanderplatz
+* [https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden](https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden-a-b5940f60-ad88-404b-94ed-0e5e90e55ec9#ref=rss)
+### gefunden
 
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-obdachlose-im-hofbraeuhaus-kaeltehilfe-am-alexanderplatz](https://www.spiegel.de/panorama/gesellschaft/berlin-obdachlose-im-hofbraeuhaus-kaeltehilfe-am-alexanderplatz-a-2fe234d1-dc38-4cb5-8f3f-94418ea53c91#ref=rss)
-### deshalb
+* [https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden](https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden-a-b5940f60-ad88-404b-94ed-0e5e90e55ec9#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-obdachlose-im-hofbraeuhaus-kaeltehilfe-am-alexanderplatz](https://www.spiegel.de/panorama/gesellschaft/berlin-obdachlose-im-hofbraeuhaus-kaeltehilfe-am-alexanderplatz-a-2fe234d1-dc38-4cb5-8f3f-94418ea53c91#ref=rss)
-* [https://www.spiegel.de/panorama/weihnachtsbaum-selbstgebaut-ho-ho-holzbaum](https://www.spiegel.de/panorama/weihnachtsbaum-selbstgebaut-ho-ho-holzbaum-a-45ffa7b5-038d-4e84-9834-7ceec0bd4d9f#ref=rss)
-### suga
+* [https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden](https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden-a-b5940f60-ad88-404b-94ed-0e5e90e55ec9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video-a-46599b76-2d9c-446f-848b-006909e3aa95#ref=rss)
+### bleibe
 
-* [https://www.spiegel.de/wissenschaft/medizin/rki-registriert-35-431-neuinfektionen-inzidenz-sinkt-auf-265-8](https://www.spiegel.de/wissenschaft/medizin/rki-registriert-35-431-neuinfektionen-inzidenz-sinkt-auf-265-8-a-8f3da449-0780-4ba9-9595-b9fd79184f1d#ref=rss)
-### johnson
+* [https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden](https://www.spiegel.de/ausland/syrien-tagebuch-familie-hajj-abdo-hat-endlich-eine-wohnung-gefunden-a-b5940f60-ad88-404b-94ed-0e5e90e55ec9#ref=rss)
+* [https://www.spiegel.de/ausland/papst-franziskus-die-bescheidene-bleibe-des-heiligen-vaters-im-vatikan](https://www.spiegel.de/ausland/papst-franziskus-die-bescheidene-bleibe-des-heiligen-vaters-im-vatikan-a-012bae0a-c358-4c0c-88e1-af5754433cb5#ref=rss)
+### kölner
 
-* [https://www.spiegel.de/wissenschaft/medizin/rki-registriert-35-431-neuinfektionen-inzidenz-sinkt-auf-265-8](https://www.spiegel.de/wissenschaft/medizin/rki-registriert-35-431-neuinfektionen-inzidenz-sinkt-auf-265-8-a-8f3da449-0780-4ba9-9595-b9fd79184f1d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben](https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben-a-715fb0fa-0e57-4244-96ca-ecd70061d037#ref=rss)
-### diesem
+* [https://www.spiegel.de/panorama/gesellschaft/impfaktion-am-koelner-dom-das-ist-ja-was-ganz-besonderes-als-koelsche-maedche](https://www.spiegel.de/panorama/gesellschaft/impfaktion-am-koelner-dom-das-ist-ja-was-ganz-besonderes-als-koelsche-maedche-a-5f73a70c-ccd2-48e4-8af7-1dd6c283da26#ref=rss)
+### dom
 
-* [https://www.spiegel.de/panorama/weihnachtsbaum-selbstgebaut-ho-ho-holzbaum](https://www.spiegel.de/panorama/weihnachtsbaum-selbstgebaut-ho-ho-holzbaum-a-45ffa7b5-038d-4e84-9834-7ceec0bd4d9f#ref=rss)
-* [https://www.spiegel.de/gesundheit/corona-gespraeche-an-weihnachten-mit-diesem-wissen-koennen-sie-kontern](https://www.spiegel.de/gesundheit/corona-gespraeche-an-weihnachten-mit-diesem-wissen-koennen-sie-kontern-a-396d6b6f-deab-4cc3-ac5b-4f9122585b16#ref=rss)
-### steinmeier
+* [https://www.spiegel.de/panorama/gesellschaft/impfaktion-am-koelner-dom-das-ist-ja-was-ganz-besonderes-als-koelsche-maedche](https://www.spiegel.de/panorama/gesellschaft/impfaktion-am-koelner-dom-das-ist-ja-was-ganz-besonderes-als-koelsche-maedche-a-5f73a70c-ccd2-48e4-8af7-1dd6c283da26#ref=rss)
+### wetter
 
-* [https://www.spiegel.de/politik/deutschland/weihnachtsansprache-frank-walter-steinmeier-ruft-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/weihnachtsansprache-frank-walter-steinmeier-ruft-zum-zusammenhalt-auf-a-3353b94b-1313-4fa2-912e-53cb279aaaf0#ref=rss)
-### ruft
+* [https://www.spiegel.de/panorama/wetter-ueber-weihnachten-frostiger-norden-unbestaendiger-sueden](https://www.spiegel.de/panorama/wetter-ueber-weihnachten-frostiger-norden-unbestaendiger-sueden-a-d4d92aa4-bc9c-49a5-ae85-95014449c95b#ref=rss)
+### weihnachten
 
-* [https://www.spiegel.de/politik/deutschland/weihnachtsansprache-frank-walter-steinmeier-ruft-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/weihnachtsansprache-frank-walter-steinmeier-ruft-zum-zusammenhalt-auf-a-3353b94b-1313-4fa2-912e-53cb279aaaf0#ref=rss)
-### zusammenhalt
+* [https://www.spiegel.de/panorama/wetter-ueber-weihnachten-frostiger-norden-unbestaendiger-sueden](https://www.spiegel.de/panorama/wetter-ueber-weihnachten-frostiger-norden-unbestaendiger-sueden-a-d4d92aa4-bc9c-49a5-ae85-95014449c95b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gorillas-uebernimmt-800-fahrradkuriere-von-foodpanda](https://www.spiegel.de/wirtschaft/unternehmen/gorillas-uebernimmt-800-fahrradkuriere-von-foodpanda-a-1ffd52c0-bf7a-4774-9883-b8263368dfdd#ref=rss)
+### russland
 
-* [https://www.spiegel.de/politik/deutschland/weihnachtsansprache-frank-walter-steinmeier-ruft-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/weihnachtsansprache-frank-walter-steinmeier-ruft-zum-zusammenhalt-auf-a-3353b94b-1313-4fa2-912e-53cb279aaaf0#ref=rss)
-### schaumweinsteuer
+* [https://www.spiegel.de/ausland/russland-berichtet-von-angeblichem-angriff-auf-konsulat-in-der-ukraine](https://www.spiegel.de/ausland/russland-berichtet-von-angeblichem-angriff-auf-konsulat-in-der-ukraine-a-1add52da-73b0-4499-a6a7-5816a4bba443#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/google-soll-in-russland-87-millionen-euro-strafe-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/google-soll-in-russland-87-millionen-euro-strafe-zahlen-a-5bcd1542-523b-4363-bcf7-23b33565ffae#ref=rss)
+### berichtet
 
-* [https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast](https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast-a-b0c25dc5-40ae-4aab-a332-a04b7f8e51ec#ref=rss)
-### kaiser
+* [https://www.spiegel.de/ausland/russland-berichtet-von-angeblichem-angriff-auf-konsulat-in-der-ukraine](https://www.spiegel.de/ausland/russland-berichtet-von-angeblichem-angriff-auf-konsulat-in-der-ukraine-a-1add52da-73b0-4499-a6a7-5816a4bba443#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern](https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern-a-0f660f3f-3521-4f48-bfef-1112c3727f99#ref=rss)
+### konsulat
 
-* [https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast](https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast-a-b0c25dc5-40ae-4aab-a332-a04b7f8e51ec#ref=rss)
+* [https://www.spiegel.de/ausland/russland-berichtet-von-angeblichem-angriff-auf-konsulat-in-der-ukraine](https://www.spiegel.de/ausland/russland-berichtet-von-angeblichem-angriff-auf-konsulat-in-der-ukraine-a-1add52da-73b0-4499-a6a7-5816a4bba443#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/russland-berichtet-von-angeblichem-angriff-auf-konsulat-in-der-ukraine](https://www.spiegel.de/ausland/russland-berichtet-von-angeblichem-angriff-auf-konsulat-in-der-ukraine-a-1add52da-73b0-4499-a6a7-5816a4bba443#ref=rss)
+### schuld
+
+* [https://www.spiegel.de/ausland/russland-berichtet-von-angeblichem-angriff-auf-konsulat-in-der-ukraine](https://www.spiegel.de/ausland/russland-berichtet-von-angeblichem-angriff-auf-konsulat-in-der-ukraine-a-1add52da-73b0-4499-a6a7-5816a4bba443#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video-a-46599b76-2d9c-446f-848b-006909e3aa95#ref=rss)
+### kinderschutzbund
+
+* [https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022](https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022-a-e34558ba-2b5f-472a-a4b2-5f102f2badf4#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022](https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022-a-e34558ba-2b5f-472a-a4b2-5f102f2badf4#ref=rss)
+### offene
+
+* [https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022](https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022-a-e34558ba-2b5f-472a-a4b2-5f102f2badf4#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht](https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht-a-97a1b666-4625-483d-a865-217c768d377a#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022](https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022-a-e34558ba-2b5f-472a-a4b2-5f102f2badf4#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis](https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis-a-5b082a3b-e700-46c8-85a6-7e827431da2e#ref=rss)
+### viele
+
+* [https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022](https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022-a-e34558ba-2b5f-472a-a4b2-5f102f2badf4#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern](https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern-a-0f660f3f-3521-4f48-bfef-1112c3727f99#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022](https://www.spiegel.de/panorama/bildung/corona-kinderschutzbund-fordert-offene-schule-und-kitas-im-jahr-2022-a-e34558ba-2b5f-472a-a4b2-5f102f2badf4#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht](https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht-a-97a1b666-4625-483d-a865-217c768d377a#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/justiz/bayern-bussgeld-fuer-weihnachtslichterkette-am-auto](https://www.spiegel.de/panorama/justiz/bayern-bussgeld-fuer-weihnachtslichterkette-am-auto-a-4ee527c2-d18e-4501-be5d-d6d48cfa500c#ref=rss)
+### gesundheitsminister
+
+* [https://www.spiegel.de/politik/niederlande-polizei-verstaerkt-schutz-fuer-gesundheitsminister-hugo-de-jonge](https://www.spiegel.de/politik/niederlande-polizei-verstaerkt-schutz-fuer-gesundheitsminister-hugo-de-jonge-a-d54c55ae-9990-4abd-b8cb-d73273b5846c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video-a-46599b76-2d9c-446f-848b-006909e3aa95#ref=rss)
+### hugo
+
+* [https://www.spiegel.de/politik/niederlande-polizei-verstaerkt-schutz-fuer-gesundheitsminister-hugo-de-jonge](https://www.spiegel.de/politik/niederlande-polizei-verstaerkt-schutz-fuer-gesundheitsminister-hugo-de-jonge-a-d54c55ae-9990-4abd-b8cb-d73273b5846c#ref=rss)
+### de
+
+* [https://www.spiegel.de/politik/niederlande-polizei-verstaerkt-schutz-fuer-gesundheitsminister-hugo-de-jonge](https://www.spiegel.de/politik/niederlande-polizei-verstaerkt-schutz-fuer-gesundheitsminister-hugo-de-jonge-a-d54c55ae-9990-4abd-b8cb-d73273b5846c#ref=rss)
+### jonge
+
+* [https://www.spiegel.de/politik/niederlande-polizei-verstaerkt-schutz-fuer-gesundheitsminister-hugo-de-jonge](https://www.spiegel.de/politik/niederlande-polizei-verstaerkt-schutz-fuer-gesundheitsminister-hugo-de-jonge-a-d54c55ae-9990-4abd-b8cb-d73273b5846c#ref=rss)
+### 2021
+
+* [https://www.spiegel.de/panorama/rueckblick-auf-das-jahr-das-war-2021](https://www.spiegel.de/panorama/rueckblick-auf-das-jahr-das-war-2021-a-9305249a-c99c-41d0-89b4-0dbe9e9c40c6#ref=rss)
+### sturm
+
+* [https://www.spiegel.de/panorama/rueckblick-auf-das-jahr-das-war-2021](https://www.spiegel.de/panorama/rueckblick-auf-das-jahr-das-war-2021-a-9305249a-c99c-41d0-89b4-0dbe9e9c40c6#ref=rss)
+### handfisch
+
+* [https://www.spiegel.de/wissenschaft/natur/australien-seltener-pinker-handfisch-erstmals-nach-22-jahren-wieder-gesichtet](https://www.spiegel.de/wissenschaft/natur/australien-seltener-pinker-handfisch-erstmals-nach-22-jahren-wieder-gesichtet-a-104c5e53-d92c-442c-96e8-aca9f88358f4#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/wissenschaft/natur/australien-seltener-pinker-handfisch-erstmals-nach-22-jahren-wieder-gesichtet](https://www.spiegel.de/wissenschaft/natur/australien-seltener-pinker-handfisch-erstmals-nach-22-jahren-wieder-gesichtet-a-104c5e53-d92c-442c-96e8-aca9f88358f4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/armin-laschet-waere-gerne-nrw-ministerpraesident-geblieben](https://www.spiegel.de/politik/deutschland/armin-laschet-waere-gerne-nrw-ministerpraesident-geblieben-a-67f43e93-4e6c-47d4-a3a0-7a38b0b34573#ref=rss)
+### galt
+
+* [https://www.spiegel.de/wissenschaft/natur/australien-seltener-pinker-handfisch-erstmals-nach-22-jahren-wieder-gesichtet](https://www.spiegel.de/wissenschaft/natur/australien-seltener-pinker-handfisch-erstmals-nach-22-jahren-wieder-gesichtet-a-104c5e53-d92c-442c-96e8-aca9f88358f4#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/inge-jens-stirbt-im-alter-von-94-jahren](https://www.spiegel.de/kultur/literatur/inge-jens-stirbt-im-alter-von-94-jahren-a-3d4f9e6b-0980-44cb-b24e-23aa0a9ad474#ref=rss)
+### video
+
+* [https://www.spiegel.de/wissenschaft/natur/australien-seltener-pinker-handfisch-erstmals-nach-22-jahren-wieder-gesichtet](https://www.spiegel.de/wissenschaft/natur/australien-seltener-pinker-handfisch-erstmals-nach-22-jahren-wieder-gesichtet-a-104c5e53-d92c-442c-96e8-aca9f88358f4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video-a-46599b76-2d9c-446f-848b-006909e3aa95#ref=rss)
+### tote
+
+* [https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis](https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis-a-5b082a3b-e700-46c8-85a6-7e827431da2e#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis](https://www.spiegel.de/ausland/griechenland-mindestens-elf-tote-bei-untergang-von-fluechtlingsboot-in-der-aegaeis-a-5b082a3b-e700-46c8-85a6-7e827431da2e#ref=rss)
+* [https://www.spiegel.de/ausland/ich-verlasse-einen-hort-der-sicherheit](https://www.spiegel.de/ausland/ich-verlasse-einen-hort-der-sicherheit-a-d09c494d-099f-4e71-9c0b-60e18473ff87#ref=rss)
+### sektflaschen
+
+* [https://www.spiegel.de/wirtschaft/service/die-rueckkehr-der-pint-grossen-sektflaschen](https://www.spiegel.de/wirtschaft/service/die-rueckkehr-der-pint-grossen-sektflaschen-a-c7f8eaa3-4805-40aa-bd59-b4453310ed39#ref=rss)
+### smartphone
+
+* [https://www.spiegel.de/ausland/ich-verlasse-einen-hort-der-sicherheit](https://www.spiegel.de/ausland/ich-verlasse-einen-hort-der-sicherheit-a-d09c494d-099f-4e71-9c0b-60e18473ff87#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern](https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern-a-0f660f3f-3521-4f48-bfef-1112c3727f99#ref=rss)
+### google
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/google-soll-in-russland-87-millionen-euro-strafe-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/google-soll-in-russland-87-millionen-euro-strafe-zahlen-a-5bcd1542-523b-4363-bcf7-23b33565ffae#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/google-soll-in-russland-87-millionen-euro-strafe-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/google-soll-in-russland-87-millionen-euro-strafe-zahlen-a-5bcd1542-523b-4363-bcf7-23b33565ffae#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-in-den-usa-forscher-finden-ueberreste-eines-riesigen-fischsauriers](https://www.spiegel.de/wissenschaft/natur/dinosaurier-fund-in-den-usa-forscher-finden-ueberreste-eines-riesigen-fischsauriers-a-fd22cc26-cb18-4430-b4f9-91239c33d13f#ref=rss)
+### strafe
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/google-soll-in-russland-87-millionen-euro-strafe-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/google-soll-in-russland-87-millionen-euro-strafe-zahlen-a-5bcd1542-523b-4363-bcf7-23b33565ffae#ref=rss)
 ### zahlen
 
-* [https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast](https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast-a-b0c25dc5-40ae-4aab-a332-a04b7f8e51ec#ref=rss)
-### flotte
+* [https://www.spiegel.de/netzwelt/netzpolitik/google-soll-in-russland-87-millionen-euro-strafe-zahlen](https://www.spiegel.de/netzwelt/netzpolitik/google-soll-in-russland-87-millionen-euro-strafe-zahlen-a-5bcd1542-523b-4363-bcf7-23b33565ffae#ref=rss)
+### herrmann
 
-* [https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast](https://www.spiegel.de/wirtschaft/service/steuer-relikt-aus-kaiserzeit-die-schaumweinsteuer-auf-sekt-und-champagner-podcast-a-b0c25dc5-40ae-4aab-a332-a04b7f8e51ec#ref=rss)
-### wenige
+* [https://www.spiegel.de/politik/deutschland/corona-joachim-herrmann-ermutigt-kommunen-querdenker-spaziergaenge-zu-verbieten](https://www.spiegel.de/politik/deutschland/corona-joachim-herrmann-ermutigt-kommunen-querdenker-spaziergaenge-zu-verbieten-a-249e5dd2-e625-412d-983d-bc290a8121cf#ref=rss)
+### thüringen
 
-* [https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben](https://www.spiegel.de/panorama/gesellschaft/oklahoma-elfjaehriger-davyon-johnson-rettete-zwei-menschen-am-selben-tag-das-leben-a-715fb0fa-0e57-4244-96ca-ecd70061d037#ref=rss)
-* [https://www.spiegel.de/sport/eishockey/loewen-frankfurt-18-jaehriger-eishockeyspieler-stirbt-nach-unfall-bei-ligaspiel](https://www.spiegel.de/sport/eishockey/loewen-frankfurt-18-jaehriger-eishockeyspieler-stirbt-nach-unfall-bei-ligaspiel-a-a5dac171-30b3-4241-86cd-fc828757ed09#ref=rss)
-### löwen
+* [https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht](https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht-a-97a1b666-4625-483d-a865-217c768d377a#ref=rss)
+### alle
 
-* [https://www.spiegel.de/sport/eishockey/loewen-frankfurt-18-jaehriger-eishockeyspieler-stirbt-nach-unfall-bei-ligaspiel](https://www.spiegel.de/sport/eishockey/loewen-frankfurt-18-jaehriger-eishockeyspieler-stirbt-nach-unfall-bei-ligaspiel-a-a5dac171-30b3-4241-86cd-fc828757ed09#ref=rss)
-### frankfurt
+* [https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht](https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht-a-97a1b666-4625-483d-a865-217c768d377a#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern](https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern-a-0f660f3f-3521-4f48-bfef-1112c3727f99#ref=rss)
+### gerade
 
-* [https://www.spiegel.de/sport/eishockey/loewen-frankfurt-18-jaehriger-eishockeyspieler-stirbt-nach-unfall-bei-ligaspiel](https://www.spiegel.de/sport/eishockey/loewen-frankfurt-18-jaehriger-eishockeyspieler-stirbt-nach-unfall-bei-ligaspiel-a-a5dac171-30b3-4241-86cd-fc828757ed09#ref=rss)
-### stadt
+* [https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht](https://www.spiegel.de/panorama/bildung/thueringen-verlaengerte-ferien-und-dann-erst-mal-distanzunterricht-a-97a1b666-4625-483d-a865-217c768d377a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gorillas-uebernimmt-800-fahrradkuriere-von-foodpanda](https://www.spiegel.de/wirtschaft/unternehmen/gorillas-uebernimmt-800-fahrradkuriere-von-foodpanda-a-1ffd52c0-bf7a-4774-9883-b8263368dfdd#ref=rss)
+### papst
 
-* [https://www.spiegel.de/panorama/gesellschaft/weihnachten-stadt-lahr-in-baden-wuerttemberg-verkleidet-blitzer-als-rentierschlitten](https://www.spiegel.de/panorama/gesellschaft/weihnachten-stadt-lahr-in-baden-wuerttemberg-verkleidet-blitzer-als-rentierschlitten-a-46bec6b4-9dbf-4b54-8889-02ddf65669b0#ref=rss)
-### lahr
+* [https://www.spiegel.de/ausland/papst-franziskus-die-bescheidene-bleibe-des-heiligen-vaters-im-vatikan](https://www.spiegel.de/ausland/papst-franziskus-die-bescheidene-bleibe-des-heiligen-vaters-im-vatikan-a-012bae0a-c358-4c0c-88e1-af5754433cb5#ref=rss)
+### franziskus
 
-* [https://www.spiegel.de/panorama/gesellschaft/weihnachten-stadt-lahr-in-baden-wuerttemberg-verkleidet-blitzer-als-rentierschlitten](https://www.spiegel.de/panorama/gesellschaft/weihnachten-stadt-lahr-in-baden-wuerttemberg-verkleidet-blitzer-als-rentierschlitten-a-46bec6b4-9dbf-4b54-8889-02ddf65669b0#ref=rss)
-### blitzer
+* [https://www.spiegel.de/ausland/papst-franziskus-die-bescheidene-bleibe-des-heiligen-vaters-im-vatikan](https://www.spiegel.de/ausland/papst-franziskus-die-bescheidene-bleibe-des-heiligen-vaters-im-vatikan-a-012bae0a-c358-4c0c-88e1-af5754433cb5#ref=rss)
+### vatikan
 
-* [https://www.spiegel.de/panorama/gesellschaft/weihnachten-stadt-lahr-in-baden-wuerttemberg-verkleidet-blitzer-als-rentierschlitten](https://www.spiegel.de/panorama/gesellschaft/weihnachten-stadt-lahr-in-baden-wuerttemberg-verkleidet-blitzer-als-rentierschlitten-a-46bec6b4-9dbf-4b54-8889-02ddf65669b0#ref=rss)
+* [https://www.spiegel.de/ausland/papst-franziskus-die-bescheidene-bleibe-des-heiligen-vaters-im-vatikan](https://www.spiegel.de/ausland/papst-franziskus-die-bescheidene-bleibe-des-heiligen-vaters-im-vatikan-a-012bae0a-c358-4c0c-88e1-af5754433cb5#ref=rss)
+### inge
+
+* [https://www.spiegel.de/kultur/literatur/inge-jens-stirbt-im-alter-von-94-jahren](https://www.spiegel.de/kultur/literatur/inge-jens-stirbt-im-alter-von-94-jahren-a-3d4f9e6b-0980-44cb-b24e-23aa0a9ad474#ref=rss)
+### jens
+
+* [https://www.spiegel.de/kultur/literatur/inge-jens-stirbt-im-alter-von-94-jahren](https://www.spiegel.de/kultur/literatur/inge-jens-stirbt-im-alter-von-94-jahren-a-3d4f9e6b-0980-44cb-b24e-23aa0a9ad474#ref=rss)
+### armin
+
+* [https://www.spiegel.de/politik/deutschland/armin-laschet-waere-gerne-nrw-ministerpraesident-geblieben](https://www.spiegel.de/politik/deutschland/armin-laschet-waere-gerne-nrw-ministerpraesident-geblieben-a-67f43e93-4e6c-47d4-a3a0-7a38b0b34573#ref=rss)
+### laschet
+
+* [https://www.spiegel.de/politik/deutschland/armin-laschet-waere-gerne-nrw-ministerpraesident-geblieben](https://www.spiegel.de/politik/deutschland/armin-laschet-waere-gerne-nrw-ministerpraesident-geblieben-a-67f43e93-4e6c-47d4-a3a0-7a38b0b34573#ref=rss)
+### oliver
+
+* [https://www.spiegel.de/sport/fussball/oliver-kahn-verteidigt-katar-sponsoring-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/oliver-kahn-verteidigt-katar-sponsoring-beim-fc-bayern-muenchen-a-614ae0a8-a285-423f-a2f3-e194c3c6ef32#ref=rss)
+### kahn
+
+* [https://www.spiegel.de/sport/fussball/oliver-kahn-verteidigt-katar-sponsoring-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/oliver-kahn-verteidigt-katar-sponsoring-beim-fc-bayern-muenchen-a-614ae0a8-a285-423f-a2f3-e194c3c6ef32#ref=rss)
+### verteidigt
+
+* [https://www.spiegel.de/sport/fussball/oliver-kahn-verteidigt-katar-sponsoring-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/oliver-kahn-verteidigt-katar-sponsoring-beim-fc-bayern-muenchen-a-614ae0a8-a285-423f-a2f3-e194c3c6ef32#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/oliver-kahn-verteidigt-katar-sponsoring-beim-fc-bayern-muenchen](https://www.spiegel.de/sport/fussball/oliver-kahn-verteidigt-katar-sponsoring-beim-fc-bayern-muenchen-a-614ae0a8-a285-423f-a2f3-e194c3c6ef32#ref=rss)
+### polen
+
+* [https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-spricht-von-eu-als-viertem-deutschen-reich](https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-spricht-von-eu-als-viertem-deutschen-reich-a-fcc1c5bc-fee6-41ad-bd6b-26e744287bac#ref=rss)
+### kaczyński
+
+* [https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-spricht-von-eu-als-viertem-deutschen-reich](https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-spricht-von-eu-als-viertem-deutschen-reich-a-fcc1c5bc-fee6-41ad-bd6b-26e744287bac#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-spricht-von-eu-als-viertem-deutschen-reich](https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-spricht-von-eu-als-viertem-deutschen-reich-a-fcc1c5bc-fee6-41ad-bd6b-26e744287bac#ref=rss)
+### gorillas
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/gorillas-uebernimmt-800-fahrradkuriere-von-foodpanda](https://www.spiegel.de/wirtschaft/unternehmen/gorillas-uebernimmt-800-fahrradkuriere-von-foodpanda-a-1ffd52c0-bf7a-4774-9883-b8263368dfdd#ref=rss)
+### foodpanda
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/gorillas-uebernimmt-800-fahrradkuriere-von-foodpanda](https://www.spiegel.de/wirtschaft/unternehmen/gorillas-uebernimmt-800-fahrradkuriere-von-foodpanda-a-1ffd52c0-bf7a-4774-9883-b8263368dfdd#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/gorillas-uebernimmt-800-fahrradkuriere-von-foodpanda](https://www.spiegel.de/wirtschaft/unternehmen/gorillas-uebernimmt-800-fahrradkuriere-von-foodpanda-a-1ffd52c0-bf7a-4774-9883-b8263368dfdd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video-a-46599b76-2d9c-446f-848b-006909e3aa95#ref=rss)
+### womit
+
+* [https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern](https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern-a-0f660f3f-3521-4f48-bfef-1112c3727f99#ref=rss)
+### neueinsteiger
+
+* [https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern](https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern-a-0f660f3f-3521-4f48-bfef-1112c3727f99#ref=rss)
+### hadern
+
+* [https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern](https://www.spiegel.de/netzwelt/gadgets/smartphones-verschenken-an-eltern-oder-grosseltern-womit-neueinsteiger-hadern-a-0f660f3f-3521-4f48-bfef-1112c3727f99#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video-a-46599b76-2d9c-446f-848b-006909e3aa95#ref=rss)
+### dankt
+
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-dankt-pflegekraeften-mit-video-a-46599b76-2d9c-446f-848b-006909e3aa95#ref=rss)
 
