@@ -4,361 +4,322 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### england
+### kritisiert
 
-* [https://www.spiegel.de/sport/fussball/manchester-city-und-leicester-liefern-sich-spektakel-am-boxing-day](https://www.spiegel.de/sport/fussball/manchester-city-und-leicester-liefern-sich-spektakel-am-boxing-day-a-a0483417-b309-48b1-a762-6550ecbaa1a8#ref=rss)
-* [https://www.spiegel.de/panorama/thronjubilaeum-pubs-in-england-und-wales-koennten-zu-ehren-der-queen-laenger-oeffnen](https://www.spiegel.de/panorama/thronjubilaeum-pubs-in-england-und-wales-koennten-zu-ehren-der-queen-laenger-oeffnen-a-1d8e4742-4526-4a9f-88a8-da9a4a702e0e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-online-hetze-soll-in-england-kuenftig-stadionverbot-nach-sich-ziehen](https://www.spiegel.de/sport/fussball/premier-league-online-hetze-soll-in-england-kuenftig-stadionverbot-nach-sich-ziehen-a-2d94336b-382d-4463-a5af-aaebb0a6bb57#ref=rss)
-### millionen
+* [https://www.spiegel.de/wirtschaft/unternehmen/corona-handelsverband-beklagt-dramatisch-schlechtes-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/corona-handelsverband-beklagt-dramatisch-schlechtes-weihnachtsgeschaeft-a-42f8860b-8d1e-4db7-b2b1-af98447bc0f1#ref=rss)
+* [https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1](https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1-a-1c0a517b-5804-4915-8559-2aaa46768373#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-kritisiert-wolfgang-kubickis-aussagen-zur-corona-impfpflicht](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-kritisiert-wolfgang-kubickis-aussagen-zur-corona-impfpflicht-a-c6fa0eef-5a8d-451d-8c53-28024dcfb7a7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-urteile-zu-2g-frank-ulrich-montgomery-kritisiert-richter](https://www.spiegel.de/politik/deutschland/corona-urteile-zu-2g-frank-ulrich-montgomery-kritisiert-richter-a-27d52367-13f1-4acf-ad15-0609e9c2d490#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/die-rueckkehr-der-missernten](https://www.spiegel.de/wirtschaft/die-rueckkehr-der-missernten-a-b7a6ed78-6334-412e-a59e-716a644df5f1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bundesregierung-erreicht-selbst-gesetztes-impfziel-von-30-millionen-dosen](https://www.spiegel.de/politik/deutschland/corona-bundesregierung-erreicht-selbst-gesetztes-impfziel-von-30-millionen-dosen-a-8846a640-df58-4782-a23a-95384f43ce52#ref=rss)
-* [https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot](https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot-a-dbba0a1a-d180-4800-bc8e-a5324fb99fb3#ref=rss)
-### viele
+* [https://www.spiegel.de/wirtschaft/soziales/aussenhandels-chef-fordert-steuervorteile-fuer-auslaendische-fachkraefte](https://www.spiegel.de/wirtschaft/soziales/aussenhandels-chef-fordert-steuervorteile-fuer-auslaendische-fachkraefte-a-c2ecb9c1-a79c-44d7-9f83-dd6e13af78a3#ref=rss)
+* [https://www.spiegel.de/panorama/glatteis-deutscher-wetterdienst-warnt-vor-verkehrsbehinderungen](https://www.spiegel.de/panorama/glatteis-deutscher-wetterdienst-warnt-vor-verkehrsbehinderungen-a-a90acf6f-974f-4e84-96ff-b0faf7dc96c9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-27-dezember-mehrere-bundeslaender-verschaerfen-corona-regeln](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-27-dezember-mehrere-bundeslaender-verschaerfen-corona-regeln-a-fc241510-cce1-4e2f-beac-a2b68a287f12#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-wieder](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-wieder-a-4ba00e1b-7358-4328-81b8-59086f8910be#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer](https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer-a-a160387a-5063-4366-8300-cf1bcc06369d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-will-besiedlung-der-golanhoehen-massiv-vorantreiben](https://www.spiegel.de/ausland/israel-will-besiedlung-der-golanhoehen-massiv-vorantreiben-a-66c83b04-3610-4581-ab71-b9f2d4790f4e#ref=rss)
-* [https://www.spiegel.de/kultur/tv/serientipps-diese-sechs-serien-muessen-sie-2021-unbedingt-noch-sehen](https://www.spiegel.de/kultur/tv/serientipps-diese-sechs-serien-muessen-sie-2021-unbedingt-noch-sehen-a-6b503e29-7b81-4247-8bc6-ce80bafbbc6a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr](https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr-a-8916fe9b-697c-4453-bffa-d2e1af8ac0c7#ref=rss)
-### corona
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-und-leicester-liefern-sich-spektakel-am-boxing-day](https://www.spiegel.de/sport/fussball/manchester-city-und-leicester-liefern-sich-spektakel-am-boxing-day-a-a0483417-b309-48b1-a762-6550ecbaa1a8#ref=rss)
-* [https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney](https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney-a-06c145bd-a322-4347-b5ad-1be508d15416#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rundfunk-berlin-brandenburg-fuehrt-2g-regel-ein](https://www.spiegel.de/wirtschaft/rundfunk-berlin-brandenburg-fuehrt-2g-regel-ein-a-37957b74-c72b-4c49-8ad0-96b1ae542a65#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer](https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer-a-a160387a-5063-4366-8300-cf1bcc06369d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-in-israel-aus-zugvoegel-betroffen](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-in-israel-aus-zugvoegel-betroffen-a-cc9ffa0e-08a7-47b7-b0a4-9849a82ff460#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schule-und-corona-lehrkraefte-vs-pisa-chef-andreas-schleicher-streit-um-praesenz-und-distanzunterricht](https://www.spiegel.de/panorama/bildung/schule-und-corona-lehrkraefte-vs-pisa-chef-andreas-schleicher-streit-um-praesenz-und-distanzunterricht-a-b2eddb27-a068-470d-9d7f-e2b8161d534b#ref=rss)
+* [https://www.spiegel.de/panorama/glatteis-deutscher-wetterdienst-warnt-vor-verkehrsbehinderungen](https://www.spiegel.de/panorama/glatteis-deutscher-wetterdienst-warnt-vor-verkehrsbehinderungen-a-a90acf6f-974f-4e84-96ff-b0faf7dc96c9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/staedtetag-fordert-polizeischutz-bei-konkreten-gefaehrdungen-fuer-kommunalpolitikerinnen-und-kommunalpolitiker](https://www.spiegel.de/panorama/justiz/staedtetag-fordert-polizeischutz-bei-konkreten-gefaehrdungen-fuer-kommunalpolitikerinnen-und-kommunalpolitiker-a-d0dff975-b591-4029-ac80-3cde6d7c2cce#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer](https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer-a-a160387a-5063-4366-8300-cf1bcc06369d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-in-israel-aus-zugvoegel-betroffen](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-in-israel-aus-zugvoegel-betroffen-a-cc9ffa0e-08a7-47b7-b0a4-9849a82ff460#ref=rss)
-### leben
-
-* [https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer](https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer-a-a160387a-5063-4366-8300-cf1bcc06369d#ref=rss)
-* [https://www.spiegel.de/ausland/israel-will-besiedlung-der-golanhoehen-massiv-vorantreiben](https://www.spiegel.de/ausland/israel-will-besiedlung-der-golanhoehen-massiv-vorantreiben-a-66c83b04-3610-4581-ab71-b9f2d4790f4e#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/so-bekommen-alte-smartphones-ein-zweites-leben-verschenken-reparieren-recyceln](https://www.spiegel.de/netzwelt/gadgets/so-bekommen-alte-smartphones-ein-zweites-leben-verschenken-reparieren-recyceln-a-81404089-e68b-4ca7-9824-4dfa0836124d#ref=rss)
-### andere
-
-* [https://www.spiegel.de/panorama/kevin-trapp-und-andere-fussballer-posts-zum-fest](https://www.spiegel.de/panorama/kevin-trapp-und-andere-fussballer-posts-zum-fest-a-385ee4bb-c6c3-4d00-8815-3af3ec7fbfb1#ref=rss)
-* [https://www.spiegel.de/ausland/lord-alfred-dubs-britischer-politiker-wurde-vom-fluechtling-zum-retter-von-fluechtlingen](https://www.spiegel.de/ausland/lord-alfred-dubs-britischer-politiker-wurde-vom-fluechtling-zum-retter-von-fluechtlingen-a-d38be488-148f-426e-90eb-3a714eb5b230#ref=rss)
-* [https://www.spiegel.de/kultur/tv/luke-mockridge-ines-anioli-spricht-ueber-die-vergewaltigungsvorwuerfe](https://www.spiegel.de/kultur/tv/luke-mockridge-ines-anioli-spricht-ueber-die-vergewaltigungsvorwuerfe-a-710975a9-dc42-471c-956c-8e81144cdb60#ref=rss)
-### auto
-
-* [https://www.spiegel.de/familie/curacao-ein-flamingo-als-lehrer-im-auftrag-fuer-den-tierschutz-podcast](https://www.spiegel.de/familie/curacao-ein-flamingo-als-lehrer-im-auftrag-fuer-den-tierschutz-podcast-a-f69c2783-5108-4ffd-be3d-97cf49eed0e5#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-frauen-duerfen-nur-noch-mit-hidschab-im-auto-mitfahren](https://www.spiegel.de/ausland/afghanistan-frauen-duerfen-nur-noch-mit-hidschab-im-auto-mitfahren-a-01cf968f-28d0-42ed-a7fe-8dcbf12b20d7#ref=rss)
-### israel
-
-* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-in-israel-aus-zugvoegel-betroffen](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-in-israel-aus-zugvoegel-betroffen-a-cc9ffa0e-08a7-47b7-b0a4-9849a82ff460#ref=rss)
-* [https://www.spiegel.de/ausland/israel-will-besiedlung-der-golanhoehen-massiv-vorantreiben](https://www.spiegel.de/ausland/israel-will-besiedlung-der-golanhoehen-massiv-vorantreiben-a-66c83b04-3610-4581-ab71-b9f2d4790f4e#ref=rss)
-### denn
-
-* [https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney](https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney-a-06c145bd-a322-4347-b5ad-1be508d15416#ref=rss)
-* [https://www.spiegel.de/panorama/thronjubilaeum-pubs-in-england-und-wales-koennten-zu-ehren-der-queen-laenger-oeffnen](https://www.spiegel.de/panorama/thronjubilaeum-pubs-in-england-und-wales-koennten-zu-ehren-der-queen-laenger-oeffnen-a-1d8e4742-4526-4a9f-88a8-da9a4a702e0e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/drohnen-ueber-gefaengnissen-justizbehoerden-fordern-eu-weites-vorgehen](https://www.spiegel.de/panorama/justiz/drohnen-ueber-gefaengnissen-justizbehoerden-fordern-eu-weites-vorgehen-a-7a69f9c1-048c-492e-af04-f57d91860a74#ref=rss)
-### mockridge
-
-* [https://www.spiegel.de/kultur/tv/luke-mockridge-ines-anioli-spricht-ueber-die-vergewaltigungsvorwuerfe](https://www.spiegel.de/kultur/tv/luke-mockridge-ines-anioli-spricht-ueber-die-vergewaltigungsvorwuerfe-a-710975a9-dc42-471c-956c-8e81144cdb60#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/kultur/tv/luke-mockridge-ines-anioli-spricht-ueber-die-vergewaltigungsvorwuerfe](https://www.spiegel.de/kultur/tv/luke-mockridge-ines-anioli-spricht-ueber-die-vergewaltigungsvorwuerfe-a-710975a9-dc42-471c-956c-8e81144cdb60#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-frauen-duerfen-nur-noch-mit-hidschab-im-auto-mitfahren](https://www.spiegel.de/ausland/afghanistan-frauen-duerfen-nur-noch-mit-hidschab-im-auto-mitfahren-a-01cf968f-28d0-42ed-a7fe-8dcbf12b20d7#ref=rss)
-### künftig
-
-* [https://www.spiegel.de/ausland/israel-will-besiedlung-der-golanhoehen-massiv-vorantreiben](https://www.spiegel.de/ausland/israel-will-besiedlung-der-golanhoehen-massiv-vorantreiben-a-66c83b04-3610-4581-ab71-b9f2d4790f4e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-online-hetze-soll-in-england-kuenftig-stadionverbot-nach-sich-ziehen](https://www.spiegel.de/sport/fussball/premier-league-online-hetze-soll-in-england-kuenftig-stadionverbot-nach-sich-ziehen-a-2d94336b-382d-4463-a5af-aaebb0a6bb57#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/kultur/tv/serientipps-diese-sechs-serien-muessen-sie-2021-unbedingt-noch-sehen](https://www.spiegel.de/kultur/tv/serientipps-diese-sechs-serien-muessen-sie-2021-unbedingt-noch-sehen-a-6b503e29-7b81-4247-8bc6-ce80bafbbc6a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr](https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr-a-8916fe9b-697c-4453-bffa-d2e1af8ac0c7#ref=rss)
-### welt
-
-* [https://www.spiegel.de/wirtschaft/die-rueckkehr-der-missernten](https://www.spiegel.de/wirtschaft/die-rueckkehr-der-missernten-a-b7a6ed78-6334-412e-a59e-716a644df5f1#ref=rss)
-* [https://www.spiegel.de/gesundheit/schwangerschaft/weshalb-dreht-sich-bei-der-schwangeren-alles-im-kreis-eine-raetselhafte-patientin](https://www.spiegel.de/gesundheit/schwangerschaft/weshalb-dreht-sich-bei-der-schwangeren-alles-im-kreis-eine-raetselhafte-patientin-a-77bfbcf9-9f14-4377-b38b-99d8ad08a93f#ref=rss)
-### klimawandel
-
-* [https://www.spiegel.de/wissenschaft/klimawandel-rentiere-in-lappland-ziehen-in-den-sueden](https://www.spiegel.de/wissenschaft/klimawandel-rentiere-in-lappland-ziehen-in-den-sueden-a-736c54a2-b38e-4b36-af1e-ffc3ff0a06dd#ref=rss)
-### lappland
-
-* [https://www.spiegel.de/wissenschaft/klimawandel-rentiere-in-lappland-ziehen-in-den-sueden](https://www.spiegel.de/wissenschaft/klimawandel-rentiere-in-lappland-ziehen-in-den-sueden-a-736c54a2-b38e-4b36-af1e-ffc3ff0a06dd#ref=rss)
-### ziehen
-
-* [https://www.spiegel.de/wissenschaft/klimawandel-rentiere-in-lappland-ziehen-in-den-sueden](https://www.spiegel.de/wissenschaft/klimawandel-rentiere-in-lappland-ziehen-in-den-sueden-a-736c54a2-b38e-4b36-af1e-ffc3ff0a06dd#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-online-hetze-soll-in-england-kuenftig-stadionverbot-nach-sich-ziehen](https://www.spiegel.de/sport/fussball/premier-league-online-hetze-soll-in-england-kuenftig-stadionverbot-nach-sich-ziehen-a-2d94336b-382d-4463-a5af-aaebb0a6bb57#ref=rss)
-### manche
-
-* [https://www.spiegel.de/wissenschaft/klimawandel-rentiere-in-lappland-ziehen-in-den-sueden](https://www.spiegel.de/wissenschaft/klimawandel-rentiere-in-lappland-ziehen-in-den-sueden-a-736c54a2-b38e-4b36-af1e-ffc3ff0a06dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-steffi-lemke-svenja-schulze-die-plaene-der-ministerinnen](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-steffi-lemke-svenja-schulze-die-plaene-der-ministerinnen-a-57a9bd45-af6f-466d-bab5-15616860b77b#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wissenschaft/klimawandel-rentiere-in-lappland-ziehen-in-den-sueden](https://www.spiegel.de/wissenschaft/klimawandel-rentiere-in-lappland-ziehen-in-den-sueden-a-736c54a2-b38e-4b36-af1e-ffc3ff0a06dd#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-hamburg-mit-maria-furtwaengler-alles-kommt-zurueck-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-hamburg-mit-maria-furtwaengler-alles-kommt-zurueck-im-schnellcheck-a-30b84cec-95f0-46ad-b12a-b3fe4ce5d21b#ref=rss)
-### leicester
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-und-leicester-liefern-sich-spektakel-am-boxing-day](https://www.spiegel.de/sport/fussball/manchester-city-und-leicester-liefern-sich-spektakel-am-boxing-day-a-a0483417-b309-48b1-a762-6550ecbaa1a8#ref=rss)
-### boxing
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-und-leicester-liefern-sich-spektakel-am-boxing-day](https://www.spiegel.de/sport/fussball/manchester-city-und-leicester-liefern-sich-spektakel-am-boxing-day-a-a0483417-b309-48b1-a762-6550ecbaa1a8#ref=rss)
-### day
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-und-leicester-liefern-sich-spektakel-am-boxing-day](https://www.spiegel.de/sport/fussball/manchester-city-und-leicester-liefern-sich-spektakel-am-boxing-day-a-a0483417-b309-48b1-a762-6550ecbaa1a8#ref=rss)
-### eingestellt
-
-* [https://www.spiegel.de/sport/fussball/manchester-city-und-leicester-liefern-sich-spektakel-am-boxing-day](https://www.spiegel.de/sport/fussball/manchester-city-und-leicester-liefern-sich-spektakel-am-boxing-day-a-a0483417-b309-48b1-a762-6550ecbaa1a8#ref=rss)
-* [https://www.spiegel.de/kultur/tv/luke-mockridge-ines-anioli-spricht-ueber-die-vergewaltigungsvorwuerfe](https://www.spiegel.de/kultur/tv/luke-mockridge-ines-anioli-spricht-ueber-die-vergewaltigungsvorwuerfe-a-710975a9-dc42-471c-956c-8e81144cdb60#ref=rss)
-### dutzende
-
-* [https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer](https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer-a-a160387a-5063-4366-8300-cf1bcc06369d#ref=rss)
-### bootsunglücken
-
-* [https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer](https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer-a-a160387a-5063-4366-8300-cf1bcc06369d#ref=rss)
-### mittelmeer
-
-* [https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer](https://www.spiegel.de/ausland/flucht-nach-europa-dutzende-menschen-sterben-bei-bootsungluecken-auf-dem-mittelmeer-a-a160387a-5063-4366-8300-cf1bcc06369d#ref=rss)
-### project
-
-* [https://www.spiegel.de/kultur/recherche-zu-project-veritas-us-richter-weist-new-york-times-zur-zerstoerung-vertraulicher-dokumente-an](https://www.spiegel.de/kultur/recherche-zu-project-veritas-us-richter-weist-new-york-times-zur-zerstoerung-vertraulicher-dokumente-an-a-11e43d90-1285-43b5-95f5-8a26ea06f9a4#ref=rss)
-### new
-
-* [https://www.spiegel.de/kultur/recherche-zu-project-veritas-us-richter-weist-new-york-times-zur-zerstoerung-vertraulicher-dokumente-an](https://www.spiegel.de/kultur/recherche-zu-project-veritas-us-richter-weist-new-york-times-zur-zerstoerung-vertraulicher-dokumente-an-a-11e43d90-1285-43b5-95f5-8a26ea06f9a4#ref=rss)
-### york
-
-* [https://www.spiegel.de/kultur/recherche-zu-project-veritas-us-richter-weist-new-york-times-zur-zerstoerung-vertraulicher-dokumente-an](https://www.spiegel.de/kultur/recherche-zu-project-veritas-us-richter-weist-new-york-times-zur-zerstoerung-vertraulicher-dokumente-an-a-11e43d90-1285-43b5-95f5-8a26ea06f9a4#ref=rss)
-### times
-
-* [https://www.spiegel.de/kultur/recherche-zu-project-veritas-us-richter-weist-new-york-times-zur-zerstoerung-vertraulicher-dokumente-an](https://www.spiegel.de/kultur/recherche-zu-project-veritas-us-richter-weist-new-york-times-zur-zerstoerung-vertraulicher-dokumente-an-a-11e43d90-1285-43b5-95f5-8a26ea06f9a4#ref=rss)
-### erst
-
-* [https://www.spiegel.de/kultur/recherche-zu-project-veritas-us-richter-weist-new-york-times-zur-zerstoerung-vertraulicher-dokumente-an](https://www.spiegel.de/kultur/recherche-zu-project-veritas-us-richter-weist-new-york-times-zur-zerstoerung-vertraulicher-dokumente-an-a-11e43d90-1285-43b5-95f5-8a26ea06f9a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr](https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr-a-8916fe9b-697c-4453-bffa-d2e1af8ac0c7#ref=rss)
-### verschärft
-
-* [https://www.spiegel.de/kultur/recherche-zu-project-veritas-us-richter-weist-new-york-times-zur-zerstoerung-vertraulicher-dokumente-an](https://www.spiegel.de/kultur/recherche-zu-project-veritas-us-richter-weist-new-york-times-zur-zerstoerung-vertraulicher-dokumente-an-a-11e43d90-1285-43b5-95f5-8a26ea06f9a4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rundfunk-berlin-brandenburg-fuehrt-2g-regel-ein](https://www.spiegel.de/wirtschaft/rundfunk-berlin-brandenburg-fuehrt-2g-regel-ein-a-37957b74-c72b-4c49-8ad0-96b1ae542a65#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-steffi-lemke-svenja-schulze-die-plaene-der-ministerinnen](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-steffi-lemke-svenja-schulze-die-plaene-der-ministerinnen-a-57a9bd45-af6f-466d-bab5-15616860b77b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr](https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr-a-8916fe9b-697c-4453-bffa-d2e1af8ac0c7#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-steffi-lemke-svenja-schulze-die-plaene-der-ministerinnen](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-steffi-lemke-svenja-schulze-die-plaene-der-ministerinnen-a-57a9bd45-af6f-466d-bab5-15616860b77b#ref=rss)
-* [https://www.spiegel.de/kultur/tv/luke-mockridge-ines-anioli-spricht-ueber-die-vergewaltigungsvorwuerfe](https://www.spiegel.de/kultur/tv/luke-mockridge-ines-anioli-spricht-ueber-die-vergewaltigungsvorwuerfe-a-710975a9-dc42-471c-956c-8e81144cdb60#ref=rss)
-### vier
-
-* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-steffi-lemke-svenja-schulze-die-plaene-der-ministerinnen](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-steffi-lemke-svenja-schulze-die-plaene-der-ministerinnen-a-57a9bd45-af6f-466d-bab5-15616860b77b#ref=rss)
-* [https://www.spiegel.de/panorama/beziehungsstreit-in-fuerth-eskaliert-grosseinsatz-mit-fuenf-festnahmen-und-vier-verletzten-polizisten](https://www.spiegel.de/panorama/beziehungsstreit-in-fuerth-eskaliert-grosseinsatz-mit-fuenf-festnahmen-und-vier-verletzten-polizisten-a-02fd34e2-7387-47ed-b65e-13f21f94f381#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-steffi-lemke-svenja-schulze-die-plaene-der-ministerinnen](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-steffi-lemke-svenja-schulze-die-plaene-der-ministerinnen-a-57a9bd45-af6f-466d-bab5-15616860b77b#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/so-bekommen-alte-smartphones-ein-zweites-leben-verschenken-reparieren-recyceln](https://www.spiegel.de/netzwelt/gadgets/so-bekommen-alte-smartphones-ein-zweites-leben-verschenken-reparieren-recyceln-a-81404089-e68b-4ca7-9824-4dfa0836124d#ref=rss)
-### fürth
-
-* [https://www.spiegel.de/panorama/beziehungsstreit-in-fuerth-eskaliert-grosseinsatz-mit-fuenf-festnahmen-und-vier-verletzten-polizisten](https://www.spiegel.de/panorama/beziehungsstreit-in-fuerth-eskaliert-grosseinsatz-mit-fuenf-festnahmen-und-vier-verletzten-polizisten-a-02fd34e2-7387-47ed-b65e-13f21f94f381#ref=rss)
-### beziehungsstreit
-
-* [https://www.spiegel.de/panorama/beziehungsstreit-in-fuerth-eskaliert-grosseinsatz-mit-fuenf-festnahmen-und-vier-verletzten-polizisten](https://www.spiegel.de/panorama/beziehungsstreit-in-fuerth-eskaliert-grosseinsatz-mit-fuenf-festnahmen-und-vier-verletzten-polizisten-a-02fd34e2-7387-47ed-b65e-13f21f94f381#ref=rss)
-### großeinsatz
-
-* [https://www.spiegel.de/panorama/beziehungsstreit-in-fuerth-eskaliert-grosseinsatz-mit-fuenf-festnahmen-und-vier-verletzten-polizisten](https://www.spiegel.de/panorama/beziehungsstreit-in-fuerth-eskaliert-grosseinsatz-mit-fuenf-festnahmen-und-vier-verletzten-polizisten-a-02fd34e2-7387-47ed-b65e-13f21f94f381#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/panorama/beziehungsstreit-in-fuerth-eskaliert-grosseinsatz-mit-fuenf-festnahmen-und-vier-verletzten-polizisten](https://www.spiegel.de/panorama/beziehungsstreit-in-fuerth-eskaliert-grosseinsatz-mit-fuenf-festnahmen-und-vier-verletzten-polizisten-a-02fd34e2-7387-47ed-b65e-13f21f94f381#ref=rss)
-* [https://www.spiegel.de/sport/handball/nach-16-siegen-im-handball-sc-magdeburg-verliert-zum-ersten-mal](https://www.spiegel.de/sport/handball/nach-16-siegen-im-handball-sc-magdeburg-verliert-zum-ersten-mal-a-3829fbc7-adbf-417d-98c9-d3083fda434b#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/beziehungsstreit-in-fuerth-eskaliert-grosseinsatz-mit-fuenf-festnahmen-und-vier-verletzten-polizisten](https://www.spiegel.de/panorama/beziehungsstreit-in-fuerth-eskaliert-grosseinsatz-mit-fuenf-festnahmen-und-vier-verletzten-polizisten-a-02fd34e2-7387-47ed-b65e-13f21f94f381#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dortmund-30-jaehriger-soll-seine-mutter-erstochen-haben](https://www.spiegel.de/panorama/justiz/dortmund-30-jaehriger-soll-seine-mutter-erstochen-haben-a-06fc6dc3-b0a9-41e7-8ba0-8b4d36ef6e37#ref=rss)
-### fest
-
-* [https://www.spiegel.de/panorama/kevin-trapp-und-andere-fussballer-posts-zum-fest](https://www.spiegel.de/panorama/kevin-trapp-und-andere-fussballer-posts-zum-fest-a-385ee4bb-c6c3-4d00-8815-3af3ec7fbfb1#ref=rss)
-### curaçao
-
-* [https://www.spiegel.de/familie/curacao-ein-flamingo-als-lehrer-im-auftrag-fuer-den-tierschutz-podcast](https://www.spiegel.de/familie/curacao-ein-flamingo-als-lehrer-im-auftrag-fuer-den-tierschutz-podcast-a-f69c2783-5108-4ffd-be3d-97cf49eed0e5#ref=rss)
-### flamingo
-
-* [https://www.spiegel.de/familie/curacao-ein-flamingo-als-lehrer-im-auftrag-fuer-den-tierschutz-podcast](https://www.spiegel.de/familie/curacao-ein-flamingo-als-lehrer-im-auftrag-fuer-den-tierschutz-podcast-a-f69c2783-5108-4ffd-be3d-97cf49eed0e5#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/familie/curacao-ein-flamingo-als-lehrer-im-auftrag-fuer-den-tierschutz-podcast](https://www.spiegel.de/familie/curacao-ein-flamingo-als-lehrer-im-auftrag-fuer-den-tierschutz-podcast-a-f69c2783-5108-4ffd-be3d-97cf49eed0e5#ref=rss)
-* [https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot](https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot-a-dbba0a1a-d180-4800-bc8e-a5324fb99fb3#ref=rss)
-### alles
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-hamburg-mit-maria-furtwaengler-alles-kommt-zurueck-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-hamburg-mit-maria-furtwaengler-alles-kommt-zurueck-im-schnellcheck-a-30b84cec-95f0-46ad-b12a-b3fe4ce5d21b#ref=rss)
-* [https://www.spiegel.de/gesundheit/schwangerschaft/weshalb-dreht-sich-bei-der-schwangeren-alles-im-kreis-eine-raetselhafte-patientin](https://www.spiegel.de/gesundheit/schwangerschaft/weshalb-dreht-sich-bei-der-schwangeren-alles-im-kreis-eine-raetselhafte-patientin-a-77bfbcf9-9f14-4377-b38b-99d8ad08a93f#ref=rss)
-### zugvögel
-
-* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-in-israel-aus-zugvoegel-betroffen](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-in-israel-aus-zugvoegel-betroffen-a-cc9ffa0e-08a7-47b7-b0a4-9849a82ff460#ref=rss)
-### fürchten
-
-* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-in-israel-aus-zugvoegel-betroffen](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-in-israel-aus-zugvoegel-betroffen-a-cc9ffa0e-08a7-47b7-b0a4-9849a82ff460#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/drohnen-ueber-gefaengnissen-justizbehoerden-fordern-eu-weites-vorgehen](https://www.spiegel.de/panorama/justiz/drohnen-ueber-gefaengnissen-justizbehoerden-fordern-eu-weites-vorgehen-a-7a69f9c1-048c-492e-af04-f57d91860a74#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-in-israel-aus-zugvoegel-betroffen](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-in-israel-aus-zugvoegel-betroffen-a-cc9ffa0e-08a7-47b7-b0a4-9849a82ff460#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dortmund-30-jaehriger-soll-seine-mutter-erstochen-haben](https://www.spiegel.de/panorama/justiz/dortmund-30-jaehriger-soll-seine-mutter-erstochen-haben-a-06fc6dc3-b0a9-41e7-8ba0-8b4d36ef6e37#ref=rss)
-### lord
-
-* [https://www.spiegel.de/ausland/lord-alfred-dubs-britischer-politiker-wurde-vom-fluechtling-zum-retter-von-fluechtlingen](https://www.spiegel.de/ausland/lord-alfred-dubs-britischer-politiker-wurde-vom-fluechtling-zum-retter-von-fluechtlingen-a-d38be488-148f-426e-90eb-3a714eb5b230#ref=rss)
-### alfred
-
-* [https://www.spiegel.de/ausland/lord-alfred-dubs-britischer-politiker-wurde-vom-fluechtling-zum-retter-von-fluechtlingen](https://www.spiegel.de/ausland/lord-alfred-dubs-britischer-politiker-wurde-vom-fluechtling-zum-retter-von-fluechtlingen-a-d38be488-148f-426e-90eb-3a714eb5b230#ref=rss)
-### dubs
-
-* [https://www.spiegel.de/ausland/lord-alfred-dubs-britischer-politiker-wurde-vom-fluechtling-zum-retter-von-fluechtlingen](https://www.spiegel.de/ausland/lord-alfred-dubs-britischer-politiker-wurde-vom-fluechtling-zum-retter-von-fluechtlingen-a-d38be488-148f-426e-90eb-3a714eb5b230#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/ausland/lord-alfred-dubs-britischer-politiker-wurde-vom-fluechtling-zum-retter-von-fluechtlingen](https://www.spiegel.de/ausland/lord-alfred-dubs-britischer-politiker-wurde-vom-fluechtling-zum-retter-von-fluechtlingen-a-d38be488-148f-426e-90eb-3a714eb5b230#ref=rss)
-### kam
-
-* [https://www.spiegel.de/ausland/lord-alfred-dubs-britischer-politiker-wurde-vom-fluechtling-zum-retter-von-fluechtlingen](https://www.spiegel.de/ausland/lord-alfred-dubs-britischer-politiker-wurde-vom-fluechtling-zum-retter-von-fluechtlingen-a-d38be488-148f-426e-90eb-3a714eb5b230#ref=rss)
-* [https://www.spiegel.de/kultur/tv/serientipps-diese-sechs-serien-muessen-sie-2021-unbedingt-noch-sehen](https://www.spiegel.de/kultur/tv/serientipps-diese-sechs-serien-muessen-sie-2021-unbedingt-noch-sehen-a-6b503e29-7b81-4247-8bc6-ce80bafbbc6a#ref=rss)
-### handballbundesliga
-
-* [https://www.spiegel.de/sport/handball/nach-16-siegen-im-handball-sc-magdeburg-verliert-zum-ersten-mal](https://www.spiegel.de/sport/handball/nach-16-siegen-im-handball-sc-magdeburg-verliert-zum-ersten-mal-a-3829fbc7-adbf-417d-98c9-d3083fda434b#ref=rss)
-### sc
-
-* [https://www.spiegel.de/sport/handball/nach-16-siegen-im-handball-sc-magdeburg-verliert-zum-ersten-mal](https://www.spiegel.de/sport/handball/nach-16-siegen-im-handball-sc-magdeburg-verliert-zum-ersten-mal-a-3829fbc7-adbf-417d-98c9-d3083fda434b#ref=rss)
-### magdeburg
-
-* [https://www.spiegel.de/sport/handball/nach-16-siegen-im-handball-sc-magdeburg-verliert-zum-ersten-mal](https://www.spiegel.de/sport/handball/nach-16-siegen-im-handball-sc-magdeburg-verliert-zum-ersten-mal-a-3829fbc7-adbf-417d-98c9-d3083fda434b#ref=rss)
-### 16
-
-* [https://www.spiegel.de/sport/handball/nach-16-siegen-im-handball-sc-magdeburg-verliert-zum-ersten-mal](https://www.spiegel.de/sport/handball/nach-16-siegen-im-handball-sc-magdeburg-verliert-zum-ersten-mal-a-3829fbc7-adbf-417d-98c9-d3083fda434b#ref=rss)
-### also
-
-* [https://www.spiegel.de/sport/handball/nach-16-siegen-im-handball-sc-magdeburg-verliert-zum-ersten-mal](https://www.spiegel.de/sport/handball/nach-16-siegen-im-handball-sc-magdeburg-verliert-zum-ersten-mal-a-3829fbc7-adbf-417d-98c9-d3083fda434b#ref=rss)
-* [https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney](https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney-a-06c145bd-a322-4347-b5ad-1be508d15416#ref=rss)
-### briten
-
-* [https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney](https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney-a-06c145bd-a322-4347-b5ad-1be508d15416#ref=rss)
-### flüge
-
-* [https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney](https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney-a-06c145bd-a322-4347-b5ad-1be508d15416#ref=rss)
-### bondi
-
-* [https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney](https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney-a-06c145bd-a322-4347-b5ad-1be508d15416#ref=rss)
-### beach
-
-* [https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney](https://www.spiegel.de/panorama/corona-briten-stranden-wegen-ausgefallener-fluege-am-bondi-beach-in-sydney-a-06c145bd-a322-4347-b5ad-1be508d15416#ref=rss)
-### queen
-
-* [https://www.spiegel.de/panorama/thronjubilaeum-pubs-in-england-und-wales-koennten-zu-ehren-der-queen-laenger-oeffnen](https://www.spiegel.de/panorama/thronjubilaeum-pubs-in-england-und-wales-koennten-zu-ehren-der-queen-laenger-oeffnen-a-1d8e4742-4526-4a9f-88a8-da9a4a702e0e#ref=rss)
-### pubs
-
-* [https://www.spiegel.de/panorama/thronjubilaeum-pubs-in-england-und-wales-koennten-zu-ehren-der-queen-laenger-oeffnen](https://www.spiegel.de/panorama/thronjubilaeum-pubs-in-england-und-wales-koennten-zu-ehren-der-queen-laenger-oeffnen-a-1d8e4742-4526-4a9f-88a8-da9a4a702e0e#ref=rss)
-### wales
-
-* [https://www.spiegel.de/panorama/thronjubilaeum-pubs-in-england-und-wales-koennten-zu-ehren-der-queen-laenger-oeffnen](https://www.spiegel.de/panorama/thronjubilaeum-pubs-in-england-und-wales-koennten-zu-ehren-der-queen-laenger-oeffnen-a-1d8e4742-4526-4a9f-88a8-da9a4a702e0e#ref=rss)
-### bekommen
-
-* [https://www.spiegel.de/panorama/thronjubilaeum-pubs-in-england-und-wales-koennten-zu-ehren-der-queen-laenger-oeffnen](https://www.spiegel.de/panorama/thronjubilaeum-pubs-in-england-und-wales-koennten-zu-ehren-der-queen-laenger-oeffnen-a-1d8e4742-4526-4a9f-88a8-da9a4a702e0e#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/so-bekommen-alte-smartphones-ein-zweites-leben-verschenken-reparieren-recyceln](https://www.spiegel.de/netzwelt/gadgets/so-bekommen-alte-smartphones-ein-zweites-leben-verschenken-reparieren-recyceln-a-81404089-e68b-4ca7-9824-4dfa0836124d#ref=rss)
-### rundfunk
-
-* [https://www.spiegel.de/wirtschaft/rundfunk-berlin-brandenburg-fuehrt-2g-regel-ein](https://www.spiegel.de/wirtschaft/rundfunk-berlin-brandenburg-fuehrt-2g-regel-ein-a-37957b74-c72b-4c49-8ad0-96b1ae542a65#ref=rss)
-### berlinbrandenburg
-
-* [https://www.spiegel.de/wirtschaft/rundfunk-berlin-brandenburg-fuehrt-2g-regel-ein](https://www.spiegel.de/wirtschaft/rundfunk-berlin-brandenburg-fuehrt-2g-regel-ein-a-37957b74-c72b-4c49-8ad0-96b1ae542a65#ref=rss)
-### rbb
-
-* [https://www.spiegel.de/wirtschaft/rundfunk-berlin-brandenburg-fuehrt-2g-regel-ein](https://www.spiegel.de/wirtschaft/rundfunk-berlin-brandenburg-fuehrt-2g-regel-ein-a-37957b74-c72b-4c49-8ad0-96b1ae542a65#ref=rss)
-### luke
-
-* [https://www.spiegel.de/kultur/tv/luke-mockridge-ines-anioli-spricht-ueber-die-vergewaltigungsvorwuerfe](https://www.spiegel.de/kultur/tv/luke-mockridge-ines-anioli-spricht-ueber-die-vergewaltigungsvorwuerfe-a-710975a9-dc42-471c-956c-8e81144cdb60#ref=rss)
-### golanhöhen
-
-* [https://www.spiegel.de/ausland/israel-will-besiedlung-der-golanhoehen-massiv-vorantreiben](https://www.spiegel.de/ausland/israel-will-besiedlung-der-golanhoehen-massiv-vorantreiben-a-66c83b04-3610-4581-ab71-b9f2d4790f4e#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/ausland/israel-will-besiedlung-der-golanhoehen-massiv-vorantreiben](https://www.spiegel.de/ausland/israel-will-besiedlung-der-golanhoehen-massiv-vorantreiben-a-66c83b04-3610-4581-ab71-b9f2d4790f4e#ref=rss)
-* [https://www.spiegel.de/gesundheit/schwangerschaft/weshalb-dreht-sich-bei-der-schwangeren-alles-im-kreis-eine-raetselhafte-patientin](https://www.spiegel.de/gesundheit/schwangerschaft/weshalb-dreht-sich-bei-der-schwangeren-alles-im-kreis-eine-raetselhafte-patientin-a-77bfbcf9-9f14-4377-b38b-99d8ad08a93f#ref=rss)
-### erreicht
-
-* [https://www.spiegel.de/politik/deutschland/corona-bundesregierung-erreicht-selbst-gesetztes-impfziel-von-30-millionen-dosen](https://www.spiegel.de/politik/deutschland/corona-bundesregierung-erreicht-selbst-gesetztes-impfziel-von-30-millionen-dosen-a-8846a640-df58-4782-a23a-95384f43ce52#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/politik/deutschland/corona-bundesregierung-erreicht-selbst-gesetztes-impfziel-von-30-millionen-dosen](https://www.spiegel.de/politik/deutschland/corona-bundesregierung-erreicht-selbst-gesetztes-impfziel-von-30-millionen-dosen-a-8846a640-df58-4782-a23a-95384f43ce52#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dortmund-30-jaehriger-soll-seine-mutter-erstochen-haben](https://www.spiegel.de/panorama/justiz/dortmund-30-jaehriger-soll-seine-mutter-erstochen-haben-a-06fc6dc3-b0a9-41e7-8ba0-8b4d36ef6e37#ref=rss)
-### 30
-
-* [https://www.spiegel.de/politik/deutschland/corona-bundesregierung-erreicht-selbst-gesetztes-impfziel-von-30-millionen-dosen](https://www.spiegel.de/politik/deutschland/corona-bundesregierung-erreicht-selbst-gesetztes-impfziel-von-30-millionen-dosen-a-8846a640-df58-4782-a23a-95384f43ce52#ref=rss)
-### nächsten
-
-* [https://www.spiegel.de/politik/deutschland/corona-bundesregierung-erreicht-selbst-gesetztes-impfziel-von-30-millionen-dosen](https://www.spiegel.de/politik/deutschland/corona-bundesregierung-erreicht-selbst-gesetztes-impfziel-von-30-millionen-dosen-a-8846a640-df58-4782-a23a-95384f43ce52#ref=rss)
-* [https://www.spiegel.de/gesundheit/schwangerschaft/weshalb-dreht-sich-bei-der-schwangeren-alles-im-kreis-eine-raetselhafte-patientin](https://www.spiegel.de/gesundheit/schwangerschaft/weshalb-dreht-sich-bei-der-schwangeren-alles-im-kreis-eine-raetselhafte-patientin-a-77bfbcf9-9f14-4377-b38b-99d8ad08a93f#ref=rss)
-### serien
-
-* [https://www.spiegel.de/kultur/tv/serientipps-diese-sechs-serien-muessen-sie-2021-unbedingt-noch-sehen](https://www.spiegel.de/kultur/tv/serientipps-diese-sechs-serien-muessen-sie-2021-unbedingt-noch-sehen-a-6b503e29-7b81-4247-8bc6-ce80bafbbc6a#ref=rss)
-### 2021
-
-* [https://www.spiegel.de/kultur/tv/serientipps-diese-sechs-serien-muessen-sie-2021-unbedingt-noch-sehen](https://www.spiegel.de/kultur/tv/serientipps-diese-sechs-serien-muessen-sie-2021-unbedingt-noch-sehen-a-6b503e29-7b81-4247-8bc6-ce80bafbbc6a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr](https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr-a-8916fe9b-697c-4453-bffa-d2e1af8ac0c7#ref=rss)
-### unter
-
-* [https://www.spiegel.de/kultur/tv/serientipps-diese-sechs-serien-muessen-sie-2021-unbedingt-noch-sehen](https://www.spiegel.de/kultur/tv/serientipps-diese-sechs-serien-muessen-sie-2021-unbedingt-noch-sehen-a-6b503e29-7b81-4247-8bc6-ce80bafbbc6a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/serap-gueler-cdu-ueber-friedrich-merz-und-die-frauenquote](https://www.spiegel.de/politik/deutschland/serap-gueler-cdu-ueber-friedrich-merz-und-die-frauenquote-a-0a87490c-53fd-4de0-9f91-5d8876a5f071#ref=rss)
-### smartphones
-
-* [https://www.spiegel.de/netzwelt/gadgets/so-bekommen-alte-smartphones-ein-zweites-leben-verschenken-reparieren-recyceln](https://www.spiegel.de/netzwelt/gadgets/so-bekommen-alte-smartphones-ein-zweites-leben-verschenken-reparieren-recyceln-a-81404089-e68b-4ca7-9824-4dfa0836124d#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/netzwelt/gadgets/so-bekommen-alte-smartphones-ein-zweites-leben-verschenken-reparieren-recyceln](https://www.spiegel.de/netzwelt/gadgets/so-bekommen-alte-smartphones-ein-zweites-leben-verschenken-reparieren-recyceln-a-81404089-e68b-4ca7-9824-4dfa0836124d#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-glatteis](https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-glatteis-a-d6599e27-7142-473c-957a-da9a266a473e#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-glatteis](https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-glatteis-a-d6599e27-7142-473c-957a-da9a266a473e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-online-hetze-soll-in-england-kuenftig-stadionverbot-nach-sich-ziehen](https://www.spiegel.de/sport/fussball/premier-league-online-hetze-soll-in-england-kuenftig-stadionverbot-nach-sich-ziehen-a-2d94336b-382d-4463-a5af-aaebb0a6bb57#ref=rss)
-### erwartet
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-glatteis](https://www.spiegel.de/panorama/wetter-in-deutschland-wetterdienst-warnt-vor-glatteis-a-d6599e27-7142-473c-957a-da9a266a473e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/serap-gueler-cdu-ueber-friedrich-merz-und-die-frauenquote](https://www.spiegel.de/politik/deutschland/serap-gueler-cdu-ueber-friedrich-merz-und-die-frauenquote-a-0a87490c-53fd-4de0-9f91-5d8876a5f071#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/panorama/justiz/dortmund-30-jaehriger-soll-seine-mutter-erstochen-haben](https://www.spiegel.de/panorama/justiz/dortmund-30-jaehriger-soll-seine-mutter-erstochen-haben-a-06fc6dc3-b0a9-41e7-8ba0-8b4d36ef6e37#ref=rss)
-### 30jähriger
-
-* [https://www.spiegel.de/panorama/justiz/dortmund-30-jaehriger-soll-seine-mutter-erstochen-haben](https://www.spiegel.de/panorama/justiz/dortmund-30-jaehriger-soll-seine-mutter-erstochen-haben-a-06fc6dc3-b0a9-41e7-8ba0-8b4d36ef6e37#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/justiz/dortmund-30-jaehriger-soll-seine-mutter-erstochen-haben](https://www.spiegel.de/panorama/justiz/dortmund-30-jaehriger-soll-seine-mutter-erstochen-haben-a-06fc6dc3-b0a9-41e7-8ba0-8b4d36ef6e37#ref=rss)
-### feiertage
-
-* [https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr](https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr-a-8916fe9b-697c-4453-bffa-d2e1af8ac0c7#ref=rss)
-### wochenenden
-
-* [https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr](https://www.spiegel.de/wirtschaft/feiertage-an-wochenenden-2022-wird-ein-arbeitnehmerunfreundliches-jahr-a-8916fe9b-697c-4453-bffa-d2e1af8ac0c7#ref=rss)
-### mark
-
-* [https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot](https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot-a-dbba0a1a-d180-4800-bc8e-a5324fb99fb3#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot](https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot-a-dbba0a1a-d180-4800-bc8e-a5324fb99fb3#ref=rss)
-### teenage
-
-* [https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot](https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot-a-dbba0a1a-d180-4800-bc8e-a5324fb99fb3#ref=rss)
-### mutant
-
-* [https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot](https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot-a-dbba0a1a-d180-4800-bc8e-a5324fb99fb3#ref=rss)
-### hero
-
-* [https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot](https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot-a-dbba0a1a-d180-4800-bc8e-a5324fb99fb3#ref=rss)
-### turtles
-
-* [https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot](https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot-a-dbba0a1a-d180-4800-bc8e-a5324fb99fb3#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot](https://www.spiegel.de/panorama/he-man-und-teenage-mutant-hero-turtles-spielzeugdesigner-mark-taylor-ist-tot-a-dbba0a1a-d180-4800-bc8e-a5324fb99fb3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-online-hetze-soll-in-england-kuenftig-stadionverbot-nach-sich-ziehen](https://www.spiegel.de/sport/fussball/premier-league-online-hetze-soll-in-england-kuenftig-stadionverbot-nach-sich-ziehen-a-2d94336b-382d-4463-a5af-aaebb0a6bb57#ref=rss)
-### serap
-
-* [https://www.spiegel.de/politik/deutschland/serap-gueler-cdu-ueber-friedrich-merz-und-die-frauenquote](https://www.spiegel.de/politik/deutschland/serap-gueler-cdu-ueber-friedrich-merz-und-die-frauenquote-a-0a87490c-53fd-4de0-9f91-5d8876a5f071#ref=rss)
-### güler
-
-* [https://www.spiegel.de/politik/deutschland/serap-gueler-cdu-ueber-friedrich-merz-und-die-frauenquote](https://www.spiegel.de/politik/deutschland/serap-gueler-cdu-ueber-friedrich-merz-und-die-frauenquote-a-0a87490c-53fd-4de0-9f91-5d8876a5f071#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/serap-gueler-cdu-ueber-friedrich-merz-und-die-frauenquote](https://www.spiegel.de/politik/deutschland/serap-gueler-cdu-ueber-friedrich-merz-und-die-frauenquote-a-0a87490c-53fd-4de0-9f91-5d8876a5f071#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund](https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund-a-f971a92d-515a-49ea-809f-815fe417eadc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-27-dezember-mehrere-bundeslaender-verschaerfen-corona-regeln](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-27-dezember-mehrere-bundeslaender-verschaerfen-corona-regeln-a-fc241510-cce1-4e2f-beac-a2b68a287f12#ref=rss)
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast-a-c1288cee-57c9-42ad-be67-4e60b37f0671#ref=rss)
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast-a-4072e131-bf4e-4987-be82-f4b1fbdc9929#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever](https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever-a-9e1e1bbf-d0d0-4c08-b4bf-b3ee82a0ac69#ref=rss)
+* [https://www.spiegel.de/ausland/somalia-praesident-entlaesst-premierminister-mohamed-hussein-roble](https://www.spiegel.de/ausland/somalia-praesident-entlaesst-premierminister-mohamed-hussein-roble-a-cd9c9536-95d5-4470-aa44-bbb16437517d#ref=rss)
+### corona
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/corona-handelsverband-beklagt-dramatisch-schlechtes-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/corona-handelsverband-beklagt-dramatisch-schlechtes-weihnachtsgeschaeft-a-42f8860b-8d1e-4db7-b2b1-af98447bc0f1#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schule-und-corona-lehrkraefte-vs-pisa-chef-andreas-schleicher-streit-um-praesenz-und-distanzunterricht](https://www.spiegel.de/panorama/bildung/schule-und-corona-lehrkraefte-vs-pisa-chef-andreas-schleicher-streit-um-praesenz-und-distanzunterricht-a-b2eddb27-a068-470d-9d7f-e2b8161d534b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-wieder](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-wieder-a-4ba00e1b-7358-4328-81b8-59086f8910be#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-karl-lauterbach-cem-oezdemir-die-politischen-aufsteiger-des-jahres](https://www.spiegel.de/politik/deutschland/olaf-scholz-karl-lauterbach-cem-oezdemir-die-politischen-aufsteiger-des-jahres-a-e9f49f25-51d8-4942-be45-868d4a965424#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-krise-olaf-scholz-impfkampagne-wladimir-putin-sowjetunion](https://www.spiegel.de/politik/deutschland/news-corona-krise-olaf-scholz-impfkampagne-wladimir-putin-sowjetunion-a-a248dd97-506a-40fe-8f76-8c1fd3b024ac#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-karl-lauterbach-cem-oezdemir-die-politischen-aufsteiger-des-jahres](https://www.spiegel.de/politik/deutschland/olaf-scholz-karl-lauterbach-cem-oezdemir-die-politischen-aufsteiger-des-jahres-a-e9f49f25-51d8-4942-be45-868d4a965424#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-krise-olaf-scholz-impfkampagne-wladimir-putin-sowjetunion](https://www.spiegel.de/politik/deutschland/news-corona-krise-olaf-scholz-impfkampagne-wladimir-putin-sowjetunion-a-a248dd97-506a-40fe-8f76-8c1fd3b024ac#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-karl-lauterbach-cem-oezdemir-die-politischen-aufsteiger-des-jahres](https://www.spiegel.de/politik/deutschland/olaf-scholz-karl-lauterbach-cem-oezdemir-die-politischen-aufsteiger-des-jahres-a-e9f49f25-51d8-4942-be45-868d4a965424#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-27-dezember-mehrere-bundeslaender-verschaerfen-corona-regeln](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-27-dezember-mehrere-bundeslaender-verschaerfen-corona-regeln-a-fc241510-cce1-4e2f-beac-a2b68a287f12#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/justiz/koenigin-elizabeth-ii-eindringling-soll-in-video-laut-the-sun-mit-ermordung-gedroht-haben](https://www.spiegel.de/panorama/justiz/koenigin-elizabeth-ii-eindringling-soll-in-video-laut-the-sun-mit-ermordung-gedroht-haben-a-c7e78a72-180e-43c3-84a6-ce7b5d6dff22#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund](https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund-a-f971a92d-515a-49ea-809f-815fe417eadc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-wieder](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-wieder-a-4ba00e1b-7358-4328-81b8-59086f8910be#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wirtschaft/soziales/aussenhandels-chef-fordert-steuervorteile-fuer-auslaendische-fachkraefte](https://www.spiegel.de/wirtschaft/soziales/aussenhandels-chef-fordert-steuervorteile-fuer-auslaendische-fachkraefte-a-c2ecb9c1-a79c-44d7-9f83-dd6e13af78a3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/staedtetag-fordert-polizeischutz-bei-konkreten-gefaehrdungen-fuer-kommunalpolitikerinnen-und-kommunalpolitiker](https://www.spiegel.de/panorama/justiz/staedtetag-fordert-polizeischutz-bei-konkreten-gefaehrdungen-fuer-kommunalpolitikerinnen-und-kommunalpolitiker-a-d0dff975-b591-4029-ac80-3cde6d7c2cce#ref=rss)
+### 2022
+
+* [https://www.spiegel.de/panorama/justiz/staedtetag-fordert-polizeischutz-bei-konkreten-gefaehrdungen-fuer-kommunalpolitikerinnen-und-kommunalpolitiker](https://www.spiegel.de/panorama/justiz/staedtetag-fordert-polizeischutz-bei-konkreten-gefaehrdungen-fuer-kommunalpolitikerinnen-und-kommunalpolitiker-a-d0dff975-b591-4029-ac80-3cde6d7c2cce#ref=rss)
+* [https://www.spiegel.de/auto/auto-kaufen-und-fahren-2022-das-aendert-sich-im-neuen-jahr](https://www.spiegel.de/auto/auto-kaufen-und-fahren-2022-das-aendert-sich-im-neuen-jahr-a-bafee8f4-4b65-430c-a867-c86cadd54a24#ref=rss)
+### emotionen
+
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast-a-c1288cee-57c9-42ad-be67-4e60b37f0671#ref=rss)
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast-a-4072e131-bf4e-4987-be82-f4b1fbdc9929#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast-a-c1288cee-57c9-42ad-be67-4e60b37f0671#ref=rss)
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast-a-4072e131-bf4e-4987-be82-f4b1fbdc9929#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-wie-friedrich-merz-das-hardliner-image-ablegt-podcast](https://www.spiegel.de/politik/deutschland/cdu-wie-friedrich-merz-das-hardliner-image-ablegt-podcast-a-c25f453e-d2a0-4a01-9c94-23e4434b2097#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/serap-gueler-cdu-ueber-friedrich-merz-und-die-frauenquote](https://www.spiegel.de/politik/deutschland/serap-gueler-cdu-ueber-friedrich-merz-und-die-frauenquote-a-0a87490c-53fd-4de0-9f91-5d8876a5f071#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-wie-friedrich-merz-das-hardliner-image-ablegt-podcast](https://www.spiegel.de/politik/deutschland/cdu-wie-friedrich-merz-das-hardliner-image-ablegt-podcast-a-c25f453e-d2a0-4a01-9c94-23e4434b2097#ref=rss)
+### nato
+
+* [https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever](https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever-a-9e1e1bbf-d0d0-4c08-b4bf-b3ee82a0ac69#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever](https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever-a-9e1e1bbf-d0d0-4c08-b4bf-b3ee82a0ac69#ref=rss)
+### übt
+
+* [https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever](https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever-a-9e1e1bbf-d0d0-4c08-b4bf-b3ee82a0ac69#ref=rss)
+* [https://www.spiegel.de/sport/fussball/thomas-tuchel-vom-fc-chelsea-uebt-kritik-vielleicht-machen-wir-hier-einen-grossen-fehler](https://www.spiegel.de/sport/fussball/thomas-tuchel-vom-fc-chelsea-uebt-kritik-vielleicht-machen-wir-hier-einen-grossen-fehler-a-d6408008-6a42-4248-86dc-bf2a842e0db7#ref=rss)
+### teil
+
+* [https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever](https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever-a-9e1e1bbf-d0d0-4c08-b4bf-b3ee82a0ac69#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rueckholaktion-wegen-corona-tausende-passagiere-haben-rechnungen-nicht-bezahlt](https://www.spiegel.de/wirtschaft/rueckholaktion-wegen-corona-tausende-passagiere-haben-rechnungen-nicht-bezahlt-a-38b193ce-a0a9-4702-8cb0-6a04efb466ac#ref=rss)
+### erst
+
+* [https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever](https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever-a-9e1e1bbf-d0d0-4c08-b4bf-b3ee82a0ac69#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-karl-lauterbach-cem-oezdemir-die-politischen-aufsteiger-des-jahres](https://www.spiegel.de/politik/deutschland/olaf-scholz-karl-lauterbach-cem-oezdemir-die-politischen-aufsteiger-des-jahres-a-e9f49f25-51d8-4942-be45-868d4a965424#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever](https://www.spiegel.de/ausland/konflikt-zwischen-der-nato-und-russland-moskau-uebt-militaermanoever-a-9e1e1bbf-d0d0-4c08-b4bf-b3ee82a0ac69#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-krise-olaf-scholz-impfkampagne-wladimir-putin-sowjetunion](https://www.spiegel.de/politik/deutschland/news-corona-krise-olaf-scholz-impfkampagne-wladimir-putin-sowjetunion-a-a248dd97-506a-40fe-8f76-8c1fd3b024ac#ref=rss)
+### roberto
+
+* [https://www.spiegel.de/sport/fussball/italien-trainer-roberto-mancini-weiss-schon-wer-weltmeister-wird-sein-eigenes-team](https://www.spiegel.de/sport/fussball/italien-trainer-roberto-mancini-weiss-schon-wer-weltmeister-wird-sein-eigenes-team-a-38a11d52-cf8a-4505-bcb9-08a2452914b0#ref=rss)
+### mancini
+
+* [https://www.spiegel.de/sport/fussball/italien-trainer-roberto-mancini-weiss-schon-wer-weltmeister-wird-sein-eigenes-team](https://www.spiegel.de/sport/fussball/italien-trainer-roberto-mancini-weiss-schon-wer-weltmeister-wird-sein-eigenes-team-a-38a11d52-cf8a-4505-bcb9-08a2452914b0#ref=rss)
+### weltmeister
+
+* [https://www.spiegel.de/sport/fussball/italien-trainer-roberto-mancini-weiss-schon-wer-weltmeister-wird-sein-eigenes-team](https://www.spiegel.de/sport/fussball/italien-trainer-roberto-mancini-weiss-schon-wer-weltmeister-wird-sein-eigenes-team-a-38a11d52-cf8a-4505-bcb9-08a2452914b0#ref=rss)
+### team
+
+* [https://www.spiegel.de/sport/fussball/italien-trainer-roberto-mancini-weiss-schon-wer-weltmeister-wird-sein-eigenes-team](https://www.spiegel.de/sport/fussball/italien-trainer-roberto-mancini-weiss-schon-wer-weltmeister-wird-sein-eigenes-team-a-38a11d52-cf8a-4505-bcb9-08a2452914b0#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/corona-handelsverband-beklagt-dramatisch-schlechtes-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/corona-handelsverband-beklagt-dramatisch-schlechtes-weihnachtsgeschaeft-a-42f8860b-8d1e-4db7-b2b1-af98447bc0f1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/koenigin-elizabeth-ii-eindringling-soll-in-video-laut-the-sun-mit-ermordung-gedroht-haben](https://www.spiegel.de/panorama/justiz/koenigin-elizabeth-ii-eindringling-soll-in-video-laut-the-sun-mit-ermordung-gedroht-haben-a-c7e78a72-180e-43c3-84a6-ce7b5d6dff22#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/corona-handelsverband-beklagt-dramatisch-schlechtes-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/corona-handelsverband-beklagt-dramatisch-schlechtes-weihnachtsgeschaeft-a-42f8860b-8d1e-4db7-b2b1-af98447bc0f1#ref=rss)
+* [https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1](https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1-a-1c0a517b-5804-4915-8559-2aaa46768373#ref=rss)
+### somalia
+
+* [https://www.spiegel.de/ausland/somalia-praesident-entlaesst-premierminister-mohamed-hussein-roble](https://www.spiegel.de/ausland/somalia-praesident-entlaesst-premierminister-mohamed-hussein-roble-a-cd9c9536-95d5-4470-aa44-bbb16437517d#ref=rss)
+### premierminister
+
+* [https://www.spiegel.de/ausland/somalia-praesident-entlaesst-premierminister-mohamed-hussein-roble](https://www.spiegel.de/ausland/somalia-praesident-entlaesst-premierminister-mohamed-hussein-roble-a-cd9c9536-95d5-4470-aa44-bbb16437517d#ref=rss)
+### roble
+
+* [https://www.spiegel.de/ausland/somalia-praesident-entlaesst-premierminister-mohamed-hussein-roble](https://www.spiegel.de/ausland/somalia-praesident-entlaesst-premierminister-mohamed-hussein-roble-a-cd9c9536-95d5-4470-aa44-bbb16437517d#ref=rss)
+### bremervörde
+
+* [https://www.spiegel.de/panorama/bremervoerde-frau-stirbt-nachdem-sie-stark-unterkuehlt-aufgefunden-wurde](https://www.spiegel.de/panorama/bremervoerde-frau-stirbt-nachdem-sie-stark-unterkuehlt-aufgefunden-wurde-a-86223e50-b274-46b6-a3b4-272c4a84652f#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/bremervoerde-frau-stirbt-nachdem-sie-stark-unterkuehlt-aufgefunden-wurde](https://www.spiegel.de/panorama/bremervoerde-frau-stirbt-nachdem-sie-stark-unterkuehlt-aufgefunden-wurde-a-86223e50-b274-46b6-a3b4-272c4a84652f#ref=rss)
+### unterkühlt
+
+* [https://www.spiegel.de/panorama/bremervoerde-frau-stirbt-nachdem-sie-stark-unterkuehlt-aufgefunden-wurde](https://www.spiegel.de/panorama/bremervoerde-frau-stirbt-nachdem-sie-stark-unterkuehlt-aufgefunden-wurde-a-86223e50-b274-46b6-a3b4-272c4a84652f#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/bremervoerde-frau-stirbt-nachdem-sie-stark-unterkuehlt-aufgefunden-wurde](https://www.spiegel.de/panorama/bremervoerde-frau-stirbt-nachdem-sie-stark-unterkuehlt-aufgefunden-wurde-a-86223e50-b274-46b6-a3b4-272c4a84652f#ref=rss)
+* [https://www.spiegel.de/kultur/spider-man-stellt-kassenrekord-auf-binnen-zwoelf-tagen](https://www.spiegel.de/kultur/spider-man-stellt-kassenrekord-auf-binnen-zwoelf-tagen-a-a71aba2d-4a1e-4fbb-8fcd-e87c50747056#ref=rss)
+### politischen
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-karl-lauterbach-cem-oezdemir-die-politischen-aufsteiger-des-jahres](https://www.spiegel.de/politik/deutschland/olaf-scholz-karl-lauterbach-cem-oezdemir-die-politischen-aufsteiger-des-jahres-a-e9f49f25-51d8-4942-be45-868d4a965424#ref=rss)
+### zweiten
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-karl-lauterbach-cem-oezdemir-die-politischen-aufsteiger-des-jahres](https://www.spiegel.de/politik/deutschland/olaf-scholz-karl-lauterbach-cem-oezdemir-die-politischen-aufsteiger-des-jahres-a-e9f49f25-51d8-4942-be45-868d4a965424#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-27-dezember-mehrere-bundeslaender-verschaerfen-corona-regeln](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-27-dezember-mehrere-bundeslaender-verschaerfen-corona-regeln-a-fc241510-cce1-4e2f-beac-a2b68a287f12#ref=rss)
+### video
+
+* [https://www.spiegel.de/panorama/justiz/koenigin-elizabeth-ii-eindringling-soll-in-video-laut-the-sun-mit-ermordung-gedroht-haben](https://www.spiegel.de/panorama/justiz/koenigin-elizabeth-ii-eindringling-soll-in-video-laut-the-sun-mit-ermordung-gedroht-haben-a-c7e78a72-180e-43c3-84a6-ce7b5d6dff22#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/us-abtreibungsrecht-roe-v-wade-anwaeltin-sarah-weddington-ist-tot](https://www.spiegel.de/ausland/us-abtreibungsrecht-roe-v-wade-anwaeltin-sarah-weddington-ist-tot-a-0378fd3e-505a-4ec6-aba5-77e31e94ae6a#ref=rss)
+### sarah
+
+* [https://www.spiegel.de/ausland/us-abtreibungsrecht-roe-v-wade-anwaeltin-sarah-weddington-ist-tot](https://www.spiegel.de/ausland/us-abtreibungsrecht-roe-v-wade-anwaeltin-sarah-weddington-ist-tot-a-0378fd3e-505a-4ec6-aba5-77e31e94ae6a#ref=rss)
+### weddington
+
+* [https://www.spiegel.de/ausland/us-abtreibungsrecht-roe-v-wade-anwaeltin-sarah-weddington-ist-tot](https://www.spiegel.de/ausland/us-abtreibungsrecht-roe-v-wade-anwaeltin-sarah-weddington-ist-tot-a-0378fd3e-505a-4ec6-aba5-77e31e94ae6a#ref=rss)
+### meghan
+
+* [https://www.spiegel.de/panorama/leute/meghan-markle-associated-newspapers-zahlt-finanzielle-entschaedigung-an-die-herzogin-von-sussex](https://www.spiegel.de/panorama/leute/meghan-markle-associated-newspapers-zahlt-finanzielle-entschaedigung-an-die-herzogin-von-sussex-a-1c4fe136-4937-4a87-babe-c71263916c22#ref=rss)
+### associated
+
+* [https://www.spiegel.de/panorama/leute/meghan-markle-associated-newspapers-zahlt-finanzielle-entschaedigung-an-die-herzogin-von-sussex](https://www.spiegel.de/panorama/leute/meghan-markle-associated-newspapers-zahlt-finanzielle-entschaedigung-an-die-herzogin-von-sussex-a-1c4fe136-4937-4a87-babe-c71263916c22#ref=rss)
+### newspapers
+
+* [https://www.spiegel.de/panorama/leute/meghan-markle-associated-newspapers-zahlt-finanzielle-entschaedigung-an-die-herzogin-von-sussex](https://www.spiegel.de/panorama/leute/meghan-markle-associated-newspapers-zahlt-finanzielle-entschaedigung-an-die-herzogin-von-sussex-a-1c4fe136-4937-4a87-babe-c71263916c22#ref=rss)
+### herzogin
+
+* [https://www.spiegel.de/panorama/leute/meghan-markle-associated-newspapers-zahlt-finanzielle-entschaedigung-an-die-herzogin-von-sussex](https://www.spiegel.de/panorama/leute/meghan-markle-associated-newspapers-zahlt-finanzielle-entschaedigung-an-die-herzogin-von-sussex-a-1c4fe136-4937-4a87-babe-c71263916c22#ref=rss)
+### spiderman
+
+* [https://www.spiegel.de/kultur/spider-man-stellt-kassenrekord-auf-binnen-zwoelf-tagen](https://www.spiegel.de/kultur/spider-man-stellt-kassenrekord-auf-binnen-zwoelf-tagen-a-a71aba2d-4a1e-4fbb-8fcd-e87c50747056#ref=rss)
+### tagen
+
+* [https://www.spiegel.de/kultur/spider-man-stellt-kassenrekord-auf-binnen-zwoelf-tagen](https://www.spiegel.de/kultur/spider-man-stellt-kassenrekord-auf-binnen-zwoelf-tagen-a-a71aba2d-4a1e-4fbb-8fcd-e87c50747056#ref=rss)
+* [https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund](https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund-a-f971a92d-515a-49ea-809f-815fe417eadc#ref=rss)
+### beginn
+
+* [https://www.spiegel.de/kultur/spider-man-stellt-kassenrekord-auf-binnen-zwoelf-tagen](https://www.spiegel.de/kultur/spider-man-stellt-kassenrekord-auf-binnen-zwoelf-tagen-a-a71aba2d-4a1e-4fbb-8fcd-e87c50747056#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rueckholaktion-wegen-corona-tausende-passagiere-haben-rechnungen-nicht-bezahlt](https://www.spiegel.de/wirtschaft/rueckholaktion-wegen-corona-tausende-passagiere-haben-rechnungen-nicht-bezahlt-a-38b193ce-a0a9-4702-8cb0-6a04efb466ac#ref=rss)
+### coronapandemie
+
+* [https://www.spiegel.de/kultur/spider-man-stellt-kassenrekord-auf-binnen-zwoelf-tagen](https://www.spiegel.de/kultur/spider-man-stellt-kassenrekord-auf-binnen-zwoelf-tagen-a-a71aba2d-4a1e-4fbb-8fcd-e87c50747056#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rueckholaktion-wegen-corona-tausende-passagiere-haben-rechnungen-nicht-bezahlt](https://www.spiegel.de/wirtschaft/rueckholaktion-wegen-corona-tausende-passagiere-haben-rechnungen-nicht-bezahlt-a-38b193ce-a0a9-4702-8cb0-6a04efb466ac#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/panorama/tuerkei-rennen-mit-selbstgebauten-holzautos-die-spassmacher-von-der-formulaz](https://www.spiegel.de/panorama/tuerkei-rennen-mit-selbstgebauten-holzautos-die-spassmacher-von-der-formulaz-a-5c04eda3-507a-4d5f-8fdc-a4c69b34c26e#ref=rss)
+### holzautos
+
+* [https://www.spiegel.de/panorama/tuerkei-rennen-mit-selbstgebauten-holzautos-die-spassmacher-von-der-formulaz](https://www.spiegel.de/panorama/tuerkei-rennen-mit-selbstgebauten-holzautos-die-spassmacher-von-der-formulaz-a-5c04eda3-507a-4d5f-8fdc-a4c69b34c26e#ref=rss)
+### sebastian
+
+* [https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1](https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1-a-1c0a517b-5804-4915-8559-2aaa46768373#ref=rss)
+### vettel
+
+* [https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1](https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1-a-1c0a517b-5804-4915-8559-2aaa46768373#ref=rss)
+### formel
+
+* [https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1](https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1-a-1c0a517b-5804-4915-8559-2aaa46768373#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1](https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1-a-1c0a517b-5804-4915-8559-2aaa46768373#ref=rss)
+### zunehmend
+
+* [https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1](https://www.spiegel.de/sport/formel1/sebastian-vettel-wird-zum-chefkritiker-der-formel-1-a-1c0a517b-5804-4915-8559-2aaa46768373#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/staedtetag-fordert-polizeischutz-bei-konkreten-gefaehrdungen-fuer-kommunalpolitikerinnen-und-kommunalpolitiker](https://www.spiegel.de/panorama/justiz/staedtetag-fordert-polizeischutz-bei-konkreten-gefaehrdungen-fuer-kommunalpolitikerinnen-und-kommunalpolitiker-a-d0dff975-b591-4029-ac80-3cde6d7c2cce#ref=rss)
+### pisachef
+
+* [https://www.spiegel.de/panorama/bildung/schule-und-corona-lehrkraefte-vs-pisa-chef-andreas-schleicher-streit-um-praesenz-und-distanzunterricht](https://www.spiegel.de/panorama/bildung/schule-und-corona-lehrkraefte-vs-pisa-chef-andreas-schleicher-streit-um-praesenz-und-distanzunterricht-a-b2eddb27-a068-470d-9d7f-e2b8161d534b#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/panorama/bildung/schule-und-corona-lehrkraefte-vs-pisa-chef-andreas-schleicher-streit-um-praesenz-und-distanzunterricht](https://www.spiegel.de/panorama/bildung/schule-und-corona-lehrkraefte-vs-pisa-chef-andreas-schleicher-streit-um-praesenz-und-distanzunterricht-a-b2eddb27-a068-470d-9d7f-e2b8161d534b#ref=rss)
+* [https://www.spiegel.de/auto/auto-kaufen-und-fahren-2022-das-aendert-sich-im-neuen-jahr](https://www.spiegel.de/auto/auto-kaufen-und-fahren-2022-das-aendert-sich-im-neuen-jahr-a-bafee8f4-4b65-430c-a867-c86cadd54a24#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/sport/fussball/thomas-tuchel-vom-fc-chelsea-uebt-kritik-vielleicht-machen-wir-hier-einen-grossen-fehler](https://www.spiegel.de/sport/fussball/thomas-tuchel-vom-fc-chelsea-uebt-kritik-vielleicht-machen-wir-hier-einen-grossen-fehler-a-d6408008-6a42-4248-86dc-bf2a842e0db7#ref=rss)
+### tuchel
+
+* [https://www.spiegel.de/sport/fussball/thomas-tuchel-vom-fc-chelsea-uebt-kritik-vielleicht-machen-wir-hier-einen-grossen-fehler](https://www.spiegel.de/sport/fussball/thomas-tuchel-vom-fc-chelsea-uebt-kritik-vielleicht-machen-wir-hier-einen-grossen-fehler-a-d6408008-6a42-4248-86dc-bf2a842e0db7#ref=rss)
+### chelsea
+
+* [https://www.spiegel.de/sport/fussball/thomas-tuchel-vom-fc-chelsea-uebt-kritik-vielleicht-machen-wir-hier-einen-grossen-fehler](https://www.spiegel.de/sport/fussball/thomas-tuchel-vom-fc-chelsea-uebt-kritik-vielleicht-machen-wir-hier-einen-grossen-fehler-a-d6408008-6a42-4248-86dc-bf2a842e0db7#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/sport/fussball/thomas-tuchel-vom-fc-chelsea-uebt-kritik-vielleicht-machen-wir-hier-einen-grossen-fehler](https://www.spiegel.de/sport/fussball/thomas-tuchel-vom-fc-chelsea-uebt-kritik-vielleicht-machen-wir-hier-einen-grossen-fehler-a-d6408008-6a42-4248-86dc-bf2a842e0db7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-urteile-zu-2g-frank-ulrich-montgomery-kritisiert-richter](https://www.spiegel.de/politik/deutschland/corona-urteile-zu-2g-frank-ulrich-montgomery-kritisiert-richter-a-27d52367-13f1-4acf-ad15-0609e9c2d490#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/wirtschaft/rueckholaktion-wegen-corona-tausende-passagiere-haben-rechnungen-nicht-bezahlt](https://www.spiegel.de/wirtschaft/rueckholaktion-wegen-corona-tausende-passagiere-haben-rechnungen-nicht-bezahlt-a-38b193ce-a0a9-4702-8cb0-6a04efb466ac#ref=rss)
+### rechnungen
+
+* [https://www.spiegel.de/wirtschaft/rueckholaktion-wegen-corona-tausende-passagiere-haben-rechnungen-nicht-bezahlt](https://www.spiegel.de/wirtschaft/rueckholaktion-wegen-corona-tausende-passagiere-haben-rechnungen-nicht-bezahlt-a-38b193ce-a0a9-4702-8cb0-6a04efb466ac#ref=rss)
+### glatteis
+
+* [https://www.spiegel.de/panorama/glatteis-deutscher-wetterdienst-warnt-vor-verkehrsbehinderungen](https://www.spiegel.de/panorama/glatteis-deutscher-wetterdienst-warnt-vor-verkehrsbehinderungen-a-a90acf6f-974f-4e84-96ff-b0faf7dc96c9#ref=rss)
+### vielen
+
+* [https://www.spiegel.de/panorama/glatteis-deutscher-wetterdienst-warnt-vor-verkehrsbehinderungen](https://www.spiegel.de/panorama/glatteis-deutscher-wetterdienst-warnt-vor-verkehrsbehinderungen-a-a90acf6f-974f-4e84-96ff-b0faf7dc96c9#ref=rss)
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast-a-4072e131-bf4e-4987-be82-f4b1fbdc9929#ref=rss)
+### myanmar
+
+* [https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund](https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund-a-f971a92d-515a-49ea-809f-815fe417eadc#ref=rss)
+### martin
+
+* [https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund](https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund-a-f971a92d-515a-49ea-809f-815fe417eadc#ref=rss)
+### griffiths
+
+* [https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund](https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund-a-f971a92d-515a-49ea-809f-815fe417eadc#ref=rss)
+### 30
+
+* [https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund](https://www.spiegel.de/ausland/myanmar-uno-vize-generalsekretaer-martin-griffiths-entsetzt-ueber-leichenfund-a-f971a92d-515a-49ea-809f-815fe417eadc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-krise-olaf-scholz-impfkampagne-wladimir-putin-sowjetunion](https://www.spiegel.de/politik/deutschland/news-corona-krise-olaf-scholz-impfkampagne-wladimir-putin-sowjetunion-a-a248dd97-506a-40fe-8f76-8c1fd3b024ac#ref=rss)
+### winfried
+
+* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-kritisiert-wolfgang-kubickis-aussagen-zur-corona-impfpflicht](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-kritisiert-wolfgang-kubickis-aussagen-zur-corona-impfpflicht-a-c6fa0eef-5a8d-451d-8c53-28024dcfb7a7#ref=rss)
+### kretschmann
+
+* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-kritisiert-wolfgang-kubickis-aussagen-zur-corona-impfpflicht](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-kritisiert-wolfgang-kubickis-aussagen-zur-corona-impfpflicht-a-c6fa0eef-5a8d-451d-8c53-28024dcfb7a7#ref=rss)
+### wolfgang
+
+* [https://www.spiegel.de/politik/deutschland/winfried-kretschmann-kritisiert-wolfgang-kubickis-aussagen-zur-corona-impfpflicht](https://www.spiegel.de/politik/deutschland/winfried-kretschmann-kritisiert-wolfgang-kubickis-aussagen-zur-corona-impfpflicht-a-c6fa0eef-5a8d-451d-8c53-28024dcfb7a7#ref=rss)
+### montag
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-27-dezember-mehrere-bundeslaender-verschaerfen-corona-regeln](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-27-dezember-mehrere-bundeslaender-verschaerfen-corona-regeln-a-fc241510-cce1-4e2f-beac-a2b68a287f12#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-krise-olaf-scholz-impfkampagne-wladimir-putin-sowjetunion](https://www.spiegel.de/politik/deutschland/news-corona-krise-olaf-scholz-impfkampagne-wladimir-putin-sowjetunion-a-a248dd97-506a-40fe-8f76-8c1fd3b024ac#ref=rss)
+### china
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-27-dezember-mehrere-bundeslaender-verschaerfen-corona-regeln](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-27-dezember-mehrere-bundeslaender-verschaerfen-corona-regeln-a-fc241510-cce1-4e2f-beac-a2b68a287f12#ref=rss)
+### frank
+
+* [https://www.spiegel.de/politik/deutschland/corona-urteile-zu-2g-frank-ulrich-montgomery-kritisiert-richter](https://www.spiegel.de/politik/deutschland/corona-urteile-zu-2g-frank-ulrich-montgomery-kritisiert-richter-a-27d52367-13f1-4acf-ad15-0609e9c2d490#ref=rss)
+### ulrich
+
+* [https://www.spiegel.de/politik/deutschland/corona-urteile-zu-2g-frank-ulrich-montgomery-kritisiert-richter](https://www.spiegel.de/politik/deutschland/corona-urteile-zu-2g-frank-ulrich-montgomery-kritisiert-richter-a-27d52367-13f1-4acf-ad15-0609e9c2d490#ref=rss)
+### montgomery
+
+* [https://www.spiegel.de/politik/deutschland/corona-urteile-zu-2g-frank-ulrich-montgomery-kritisiert-richter](https://www.spiegel.de/politik/deutschland/corona-urteile-zu-2g-frank-ulrich-montgomery-kritisiert-richter-a-27d52367-13f1-4acf-ad15-0609e9c2d490#ref=rss)
+### richter
+
+* [https://www.spiegel.de/politik/deutschland/corona-urteile-zu-2g-frank-ulrich-montgomery-kritisiert-richter](https://www.spiegel.de/politik/deutschland/corona-urteile-zu-2g-frank-ulrich-montgomery-kritisiert-richter-a-27d52367-13f1-4acf-ad15-0609e9c2d490#ref=rss)
+### regulieren
+
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast-a-c1288cee-57c9-42ad-be67-4e60b37f0671#ref=rss)
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast-a-4072e131-bf4e-4987-be82-f4b1fbdc9929#ref=rss)
+### gefühle
+
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast-a-c1288cee-57c9-42ad-be67-4e60b37f0671#ref=rss)
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast-a-4072e131-bf4e-4987-be82-f4b1fbdc9929#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast-a-c1288cee-57c9-42ad-be67-4e60b37f0671#ref=rss)
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast-a-4072e131-bf4e-4987-be82-f4b1fbdc9929#ref=rss)
+### coaching
+
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-finden-sie-gefuehle-peinlich-spiegel-coaching-podcast-a-c1288cee-57c9-42ad-be67-4e60b37f0671#ref=rss)
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast-a-4072e131-bf4e-4987-be82-f4b1fbdc9929#ref=rss)
+### ich
+
+* [https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/emotionen-regulieren-mache-ich-mir-sorgen-oder-bin-ich-nur-muede-spiegel-coaching-podcast-a-4072e131-bf4e-4987-be82-f4b1fbdc9929#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/cdu-wie-friedrich-merz-das-hardliner-image-ablegt-podcast](https://www.spiegel.de/politik/deutschland/cdu-wie-friedrich-merz-das-hardliner-image-ablegt-podcast-a-c25f453e-d2a0-4a01-9c94-23e4434b2097#ref=rss)
+### sowjetunion
+
+* [https://www.spiegel.de/politik/deutschland/news-corona-krise-olaf-scholz-impfkampagne-wladimir-putin-sowjetunion](https://www.spiegel.de/politik/deutschland/news-corona-krise-olaf-scholz-impfkampagne-wladimir-putin-sowjetunion-a-a248dd97-506a-40fe-8f76-8c1fd3b024ac#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-wie-gefiel-ihnen-das-lindholm-lindenberg-doppel](https://www.spiegel.de/kultur/tv/tatort-wie-gefiel-ihnen-das-lindholm-lindenberg-doppel-a-4ad6f1f4-c22d-4712-8dc5-280a329ca9db#ref=rss)
+### siebentageinzidenz
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-wieder](https://www.spiegel.de/wissenschaft/medizin/corona-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-wieder-a-4ba00e1b-7358-4328-81b8-59086f8910be#ref=rss)
+### schweinfurt
+
+* [https://www.spiegel.de/panorama/schweinfurt-kind-bei-impfgegner-demo-verletzt-anzeige-gegen-die-mutter](https://www.spiegel.de/panorama/schweinfurt-kind-bei-impfgegner-demo-verletzt-anzeige-gegen-die-mutter-a-fd566cd5-7281-4f57-8768-6c88d573d325#ref=rss)
+### kind
+
+* [https://www.spiegel.de/panorama/schweinfurt-kind-bei-impfgegner-demo-verletzt-anzeige-gegen-die-mutter](https://www.spiegel.de/panorama/schweinfurt-kind-bei-impfgegner-demo-verletzt-anzeige-gegen-die-mutter-a-fd566cd5-7281-4f57-8768-6c88d573d325#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/schweinfurt-kind-bei-impfgegner-demo-verletzt-anzeige-gegen-die-mutter](https://www.spiegel.de/panorama/schweinfurt-kind-bei-impfgegner-demo-verletzt-anzeige-gegen-die-mutter-a-fd566cd5-7281-4f57-8768-6c88d573d325#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/schweinfurt-kind-bei-impfgegner-demo-verletzt-anzeige-gegen-die-mutter](https://www.spiegel.de/panorama/schweinfurt-kind-bei-impfgegner-demo-verletzt-anzeige-gegen-die-mutter-a-fd566cd5-7281-4f57-8768-6c88d573d325#ref=rss)
 
