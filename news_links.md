@@ -4,345 +4,371 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/essen-polizei-sucht-nach-angriff-auf-schwangere-nach-zeugen](https://www.spiegel.de/panorama/justiz/essen-polizei-sucht-nach-angriff-auf-schwangere-nach-zeugen-a-1ef359e0-cbec-4541-a30d-fdbc572ba2c9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung](https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung-a-7687bedc-24db-4d42-b3dd-1e9bc1ebeaed#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/maulburg-im-landkreis-loerrach-paar-in-corona-quarantaene-ruft-wegen-lebensmittelknappheit-die-polizei](https://www.spiegel.de/panorama/justiz/maulburg-im-landkreis-loerrach-paar-in-corona-quarantaene-ruft-wegen-lebensmittelknappheit-die-polizei-a-e2cf48fa-5b47-46e2-817e-89ae2b573403#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/panorama/olaf-scholz-spd-und-sein-unwahrscheinlicher-wahlsieg-die-irren-thesen-des-markus-f](https://www.spiegel.de/panorama/olaf-scholz-spd-und-sein-unwahrscheinlicher-wahlsieg-die-irren-thesen-des-markus-f-a-a7e887c1-7ce3-44c0-b60a-94d84538072c#ref=rss)
-* [https://www.spiegel.de/panorama/ralf-stegner-spd-und-mein-ganz-persoenlicher-watergate-moment-ein-spiegel-redakteur-erinnert-sich](https://www.spiegel.de/panorama/ralf-stegner-spd-und-mein-ganz-persoenlicher-watergate-moment-ein-spiegel-redakteur-erinnert-sich-a-0f589cbf-6cda-4d81-9f7e-f2df96222970#ref=rss)
-* [https://www.spiegel.de/ausland/donbass-ost-ukraine-provokationen-gibt-es-staendig-deswegen-verfalle-ich-nicht-in-panik](https://www.spiegel.de/ausland/donbass-ost-ukraine-provokationen-gibt-es-staendig-deswegen-verfalle-ich-nicht-in-panik-a-14bb5d2f-1280-441b-8c75-dbc46cbac6e6#ref=rss)
-### deutschen
+* [https://www.spiegel.de/panorama/obdachlosigkeit-oh-nein-nicht-das-dachte-ich-na-klar-mache-ich-gern-sagte-ich](https://www.spiegel.de/panorama/obdachlosigkeit-oh-nein-nicht-das-dachte-ich-na-klar-mache-ich-gern-sagte-ich-a-efef8bda-d576-4918-8b42-5e41955fb4c7#ref=rss)
+* [https://www.spiegel.de/panorama/rueckblicke-von-spiegel-redakteuren-taghrid-und-ich](https://www.spiegel.de/panorama/rueckblicke-von-spiegel-redakteuren-taghrid-und-ich-a-e491b43d-49d2-4aca-bd33-ef102bfb9bff#ref=rss)
+### 2021
 
-* [https://www.spiegel.de/sport/florian-hempels-traum-vom-achtelfinale-ist-geplatzt](https://www.spiegel.de/sport/florian-hempels-traum-vom-achtelfinale-ist-geplatzt-a-a72b1d86-cf01-4e56-b125-130cc52b1a66#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter](https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter-a-0113590d-6ddc-4a13-9482-ab2ff4c373d8#ref=rss)
-* [https://www.spiegel.de/sport/new-england-patriots-in-der-nfl-der-beste-spieler-der-geschichte-ist-weg-na-und](https://www.spiegel.de/sport/new-england-patriots-in-der-nfl-der-beste-spieler-der-geschichte-ist-weg-na-und-a-258e7cf9-452a-4908-a48e-d8d484cbbb52#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen](https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen-a-2f0b77f0-6228-49ac-b5d3-006e5e7a72bf#ref=rss)
-### coronapandemie
+* [https://www.spiegel.de/kultur/nachrufe-2021-die-toten-des-jahres-teil-2-mai-bis-august](https://www.spiegel.de/kultur/nachrufe-2021-die-toten-des-jahres-teil-2-mai-bis-august-a-1e261436-7629-40b5-9c2d-57288ddcccf8#ref=rss)
+* [https://www.spiegel.de/kultur/james-bond-nft-kanye-west-humboldt-forum-die-groessten-enttaeuschungen-des-kulturjahres-2021](https://www.spiegel.de/kultur/james-bond-nft-kanye-west-humboldt-forum-die-groessten-enttaeuschungen-des-kulturjahres-2021-a-a2843d4d-700f-4a8c-b3a3-ee5364fe57b6#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/urlaubserlebnisse-der-spiegel-redaktion-2021-der-musik-des-eises-lauschen](https://www.spiegel.de/reise/fernweh/urlaubserlebnisse-der-spiegel-redaktion-2021-der-musik-des-eises-lauschen-a-8ad05768-e480-4ae5-a412-7f616812b1c1#ref=rss)
+### triage
 
-* [https://www.spiegel.de/panorama/stauprognose-adac-rechnet-mit-ruhigem-verkehr-zum-jahreswechsel](https://www.spiegel.de/panorama/stauprognose-adac-rechnet-mit-ruhigem-verkehr-zum-jahreswechsel-a-08cc416a-a084-441c-a167-0b74fb2ab49b#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/koeln-stunksitzung-sagt-alle-termine-ab-rosenmontagszug-vor-dem-aus](https://www.spiegel.de/panorama/gesellschaft/koeln-stunksitzung-sagt-alle-termine-ab-rosenmontagszug-vor-dem-aus-a-538d9724-2bbb-4887-90d9-016bc7c08cb3#ref=rss)
-* [https://www.spiegel.de/ausland/usa-impfgegner-kritisieren-donald-trump-fuer-aeusserungen-zur-corona-impfung](https://www.spiegel.de/ausland/usa-impfgegner-kritisieren-donald-trump-fuer-aeusserungen-zur-corona-impfung-a-10d1497b-7f9a-4053-8c68-787e365ee14e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen](https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen-a-69ba2655-6cb2-4440-95e5-d107d2a83945#ref=rss)
-### wohl
+* [https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen](https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen-a-895dcd89-9f60-4632-b721-9ba568ac74a6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie-a-ac6cbc62-1b10-4b43-a38f-43c9221111b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-krise-karneval-karl-lauterbach-triage-impfstoff](https://www.spiegel.de/politik/deutschland/news-corona-krise-karneval-karl-lauterbach-triage-impfstoff-a-0169c620-e814-4b91-a46d-e81522ec8d00#ref=rss)
+### vierschanzentournee
 
-* [https://www.spiegel.de/panorama/bildung/inklusion-schwierige-schueler-werden-offenbar-vermehrt-als-geistig-behindert-etikettiert](https://www.spiegel.de/panorama/bildung/inklusion-schwierige-schueler-werden-offenbar-vermehrt-als-geistig-behindert-etikettiert-a-e432c76b-d9e5-49d6-922f-375a1b9a96ec#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/koeln-stunksitzung-sagt-alle-termine-ab-rosenmontagszug-vor-dem-aus](https://www.spiegel.de/panorama/gesellschaft/koeln-stunksitzung-sagt-alle-termine-ab-rosenmontagszug-vor-dem-aus-a-538d9724-2bbb-4887-90d9-016bc7c08cb3#ref=rss)
-### macht
+* [https://www.spiegel.de/sport/wintersport/einstimmiger-beschluss-der-vier-orte-die-vierschanzentournee-der-frauen-soll-kommen](https://www.spiegel.de/sport/wintersport/einstimmiger-beschluss-der-vier-orte-die-vierschanzentournee-der-frauen-soll-kommen-a-2ac303fa-d25b-4d21-b10c-9d5ed5904e8a#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2021-22-zeitplan-schanzen-ergebnisse](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2021-22-zeitplan-schanzen-ergebnisse-a-19dfe08f-adf8-44d6-8aef-72c11a5fbf5c#ref=rss)
+### bundesverfassungsgericht
 
-* [https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv-a-ee285d10-bba4-40ee-b18a-bf8728e98d9d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/koeln-stunksitzung-sagt-alle-termine-ab-rosenmontagszug-vor-dem-aus](https://www.spiegel.de/panorama/gesellschaft/koeln-stunksitzung-sagt-alle-termine-ab-rosenmontagszug-vor-dem-aus-a-538d9724-2bbb-4887-90d9-016bc7c08cb3#ref=rss)
-* [https://www.spiegel.de/netzwelt/japan-forscher-praesentiert-den-ersten-leck-und-schmeckfernseher](https://www.spiegel.de/netzwelt/japan-forscher-praesentiert-den-ersten-leck-und-schmeckfernseher-a-dc35e1df-2f53-402e-bad7-d923274582d6#ref=rss)
-### vier
+* [https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen](https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen-a-895dcd89-9f60-4632-b721-9ba568ac74a6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie-a-ac6cbc62-1b10-4b43-a38f-43c9221111b4#ref=rss)
+### moskau
 
-* [https://www.spiegel.de/panorama/gesellschaft/schweinfurt-vier-angeklagte-nach-ausschreitungen-bei-coronademo-verurteilt](https://www.spiegel.de/panorama/gesellschaft/schweinfurt-vier-angeklagte-nach-ausschreitungen-bei-coronademo-verurteilt-a-0b113009-03cb-4074-9a9e-65e62861b875#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter](https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter-a-0113590d-6ddc-4a13-9482-ab2ff4c373d8#ref=rss)
-### geld
+* [https://www.spiegel.de/ausland/memorial-moskau-loest-russlands-bekannteste-menschenrechtsorganisation-auf](https://www.spiegel.de/ausland/memorial-moskau-loest-russlands-bekannteste-menschenrechtsorganisation-auf-a-7b8ee540-8aac-43b9-b6e0-e2bab4ebe7fb#ref=rss)
+* [https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch](https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch-a-54a97855-7229-402c-a3ba-181be420c307#ref=rss)
+### 2
 
-* [https://www.spiegel.de/panorama/gesellschaft/schweinfurt-vier-angeklagte-nach-ausschreitungen-bei-coronademo-verurteilt](https://www.spiegel.de/panorama/gesellschaft/schweinfurt-vier-angeklagte-nach-ausschreitungen-bei-coronademo-verurteilt-a-0b113009-03cb-4074-9a9e-65e62861b875#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/kiel-8000-euro-in-jacke-gefunden-geld-wird-gespendet](https://www.spiegel.de/panorama/gesellschaft/kiel-8000-euro-in-jacke-gefunden-geld-wird-gespendet-a-be4e366e-c646-4e21-b469-74e873e426c6#ref=rss)
-### spd
+* [https://www.spiegel.de/kultur/nachrufe-2021-die-toten-des-jahres-teil-2-mai-bis-august](https://www.spiegel.de/kultur/nachrufe-2021-die-toten-des-jahres-teil-2-mai-bis-august-a-1e261436-7629-40b5-9c2d-57288ddcccf8#ref=rss)
+* [https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch](https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch-a-54a97855-7229-402c-a3ba-181be420c307#ref=rss)
+### russland
 
-* [https://www.spiegel.de/panorama/olaf-scholz-spd-und-sein-unwahrscheinlicher-wahlsieg-die-irren-thesen-des-markus-f](https://www.spiegel.de/panorama/olaf-scholz-spd-und-sein-unwahrscheinlicher-wahlsieg-die-irren-thesen-des-markus-f-a-a7e887c1-7ce3-44c0-b60a-94d84538072c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen-a-2cf869f8-47c2-49db-aa19-0beb6e3f9b21#ref=rss)
-* [https://www.spiegel.de/panorama/ralf-stegner-spd-und-mein-ganz-persoenlicher-watergate-moment-ein-spiegel-redakteur-erinnert-sich](https://www.spiegel.de/panorama/ralf-stegner-spd-und-mein-ganz-persoenlicher-watergate-moment-ein-spiegel-redakteur-erinnert-sich-a-0f589cbf-6cda-4d81-9f7e-f2df96222970#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch](https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch-a-54a97855-7229-402c-a3ba-181be420c307#ref=rss)
+* [https://www.spiegel.de/ausland/putin-strebt-wiederherstellung-eines-russischen-reiches-an](https://www.spiegel.de/ausland/putin-strebt-wiederherstellung-eines-russischen-reiches-an-a-ee7ee951-488a-445a-817c-0638dcf07c58#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise](https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise-a-4dc84391-7d0d-4603-b3d0-03400ad2dba5#ref=rss)
+### entscheidung
 
-* [https://www.spiegel.de/panorama/usa-heftige-schneefaelle-legen-teile-kaliforniens-und-nevadas-lahm](https://www.spiegel.de/panorama/usa-heftige-schneefaelle-legen-teile-kaliforniens-und-nevadas-lahm-a-b5d72418-c851-47b3-9b4b-12e46718bad4#ref=rss)
-* [https://www.spiegel.de/ausland/usa-impfgegner-kritisieren-donald-trump-fuer-aeusserungen-zur-corona-impfung](https://www.spiegel.de/ausland/usa-impfgegner-kritisieren-donald-trump-fuer-aeusserungen-zur-corona-impfung-a-10d1497b-7f9a-4053-8c68-787e365ee14e#ref=rss)
-### jahr
+* [https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch](https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch-a-54a97855-7229-402c-a3ba-181be420c307#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie-a-ac6cbc62-1b10-4b43-a38f-43c9221111b4#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/panorama/usa-heftige-schneefaelle-legen-teile-kaliforniens-und-nevadas-lahm](https://www.spiegel.de/panorama/usa-heftige-schneefaelle-legen-teile-kaliforniens-und-nevadas-lahm-a-b5d72418-c851-47b3-9b4b-12e46718bad4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen](https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen-a-69ba2655-6cb2-4440-95e5-d107d2a83945#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen](https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen-a-2f0b77f0-6228-49ac-b5d3-006e5e7a72bf#ref=rss)
-### ersten
+* [https://www.spiegel.de/sport/wintersport/einstimmiger-beschluss-der-vier-orte-die-vierschanzentournee-der-frauen-soll-kommen](https://www.spiegel.de/sport/wintersport/einstimmiger-beschluss-der-vier-orte-die-vierschanzentournee-der-frauen-soll-kommen-a-2ac303fa-d25b-4d21-b10c-9d5ed5904e8a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gewalt-an-frauen-weisser-ring-fordert-effektives-konzept-gegen-femizide](https://www.spiegel.de/panorama/justiz/gewalt-an-frauen-weisser-ring-fordert-effektives-konzept-gegen-femizide-a-1d70886c-5517-419d-b669-4cf6707b2be8#ref=rss)
+### united
 
-* [https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen](https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen-a-25374aef-e3cd-4443-8824-b62782094f55#ref=rss)
-* [https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter](https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter-a-0113590d-6ddc-4a13-9482-ab2ff4c373d8#ref=rss)
-* [https://www.spiegel.de/netzwelt/japan-forscher-praesentiert-den-ersten-leck-und-schmeckfernseher](https://www.spiegel.de/netzwelt/japan-forscher-praesentiert-den-ersten-leck-und-schmeckfernseher-a-dc35e1df-2f53-402e-bad7-d923274582d6#ref=rss)
-### erklärt
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united-a-2410fc54-5cfa-4991-8ba3-0586d8e8aaf1#ref=rss)
+### coronakrise
 
-* [https://www.spiegel.de/ausland/vulkan-auf-la-palma-der-kampf-gegen-die-ascheberge](https://www.spiegel.de/ausland/vulkan-auf-la-palma-der-kampf-gegen-die-ascheberge-a-f843dd32-2495-4f2b-af19-9a0f52630f0e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv-a-ee285d10-bba4-40ee-b18a-bf8728e98d9d#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen](https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen-a-895dcd89-9f60-4632-b721-9ba568ac74a6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-krise-karneval-karl-lauterbach-triage-impfstoff](https://www.spiegel.de/politik/deutschland/news-corona-krise-karneval-karl-lauterbach-triage-impfstoff-a-0169c620-e814-4b91-a46d-e81522ec8d00#ref=rss)
+### geben
 
-* [https://www.spiegel.de/panorama/bildung/inklusion-schwierige-schueler-werden-offenbar-vermehrt-als-geistig-behindert-etikettiert](https://www.spiegel.de/panorama/bildung/inklusion-schwierige-schueler-werden-offenbar-vermehrt-als-geistig-behindert-etikettiert-a-e432c76b-d9e5-49d6-922f-375a1b9a96ec#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/essen-polizei-sucht-nach-angriff-auf-schwangere-nach-zeugen](https://www.spiegel.de/panorama/justiz/essen-polizei-sucht-nach-angriff-auf-schwangere-nach-zeugen-a-1ef359e0-cbec-4541-a30d-fdbc572ba2c9#ref=rss)
-### rammoclan
-
-* [https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv-a-ee285d10-bba4-40ee-b18a-bf8728e98d9d#ref=rss)
-### tv
-
-* [https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv-a-ee285d10-bba4-40ee-b18a-bf8728e98d9d#ref=rss)
-* [https://www.spiegel.de/netzwelt/japan-forscher-praesentiert-den-ersten-leck-und-schmeckfernseher](https://www.spiegel.de/netzwelt/japan-forscher-praesentiert-den-ersten-leck-und-schmeckfernseher-a-dc35e1df-2f53-402e-bad7-d923274582d6#ref=rss)
-### teile
-
-* [https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv-a-ee285d10-bba4-40ee-b18a-bf8728e98d9d#ref=rss)
-* [https://www.spiegel.de/panorama/usa-heftige-schneefaelle-legen-teile-kaliforniens-und-nevadas-lahm](https://www.spiegel.de/panorama/usa-heftige-schneefaelle-legen-teile-kaliforniens-und-nevadas-lahm-a-b5d72418-c851-47b3-9b4b-12e46718bad4#ref=rss)
-### familie
-
-* [https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv-a-ee285d10-bba4-40ee-b18a-bf8728e98d9d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung](https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung-a-7687bedc-24db-4d42-b3dd-1e9bc1ebeaed#ref=rss)
-### zweite
-
-* [https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/podcast-ueber-die-macht-der-clans-der-rammo-clan-spiegel-tv-a-ee285d10-bba4-40ee-b18a-bf8728e98d9d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen-a-2cf869f8-47c2-49db-aa19-0beb6e3f9b21#ref=rss)
-### myanmar
-
-* [https://www.spiegel.de/ausland/putsch-in-myanmar-mein-heimatland-ist-in-einer-schweren-humanitaeren-krise](https://www.spiegel.de/ausland/putsch-in-myanmar-mein-heimatland-ist-in-einer-schweren-humanitaeren-krise-a-71356738-ae26-463a-9f9b-884efc18c2c3#ref=rss)
-### mein
-
-* [https://www.spiegel.de/ausland/putsch-in-myanmar-mein-heimatland-ist-in-einer-schweren-humanitaeren-krise](https://www.spiegel.de/ausland/putsch-in-myanmar-mein-heimatland-ist-in-einer-schweren-humanitaeren-krise-a-71356738-ae26-463a-9f9b-884efc18c2c3#ref=rss)
-* [https://www.spiegel.de/panorama/ralf-stegner-spd-und-mein-ganz-persoenlicher-watergate-moment-ein-spiegel-redakteur-erinnert-sich](https://www.spiegel.de/panorama/ralf-stegner-spd-und-mein-ganz-persoenlicher-watergate-moment-ein-spiegel-redakteur-erinnert-sich-a-0f589cbf-6cda-4d81-9f7e-f2df96222970#ref=rss)
-### schweren
-
-* [https://www.spiegel.de/ausland/putsch-in-myanmar-mein-heimatland-ist-in-einer-schweren-humanitaeren-krise](https://www.spiegel.de/ausland/putsch-in-myanmar-mein-heimatland-ist-in-einer-schweren-humanitaeren-krise-a-71356738-ae26-463a-9f9b-884efc18c2c3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/corona-risiko-von-ungeimpfte-fuer-intensivstationsaufenthalt-60-mal-erhoeht](https://www.spiegel.de/wissenschaft/mensch/corona-risiko-von-ungeimpfte-fuer-intensivstationsaufenthalt-60-mal-erhoeht-a-f654b864-3933-41a3-92f9-020c95cf7dd8#ref=rss)
-### krise
-
-* [https://www.spiegel.de/ausland/putsch-in-myanmar-mein-heimatland-ist-in-einer-schweren-humanitaeren-krise](https://www.spiegel.de/ausland/putsch-in-myanmar-mein-heimatland-ist-in-einer-schweren-humanitaeren-krise-a-71356738-ae26-463a-9f9b-884efc18c2c3#ref=rss)
-* [https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen](https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen-a-25374aef-e3cd-4443-8824-b62782094f55#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/ausland/putsch-in-myanmar-mein-heimatland-ist-in-einer-schweren-humanitaeren-krise](https://www.spiegel.de/ausland/putsch-in-myanmar-mein-heimatland-ist-in-einer-schweren-humanitaeren-krise-a-71356738-ae26-463a-9f9b-884efc18c2c3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/corona-risiko-von-ungeimpfte-fuer-intensivstationsaufenthalt-60-mal-erhoeht](https://www.spiegel.de/wissenschaft/mensch/corona-risiko-von-ungeimpfte-fuer-intensivstationsaufenthalt-60-mal-erhoeht-a-f654b864-3933-41a3-92f9-020c95cf7dd8#ref=rss)
-### schweinfurt
-
-* [https://www.spiegel.de/panorama/gesellschaft/schweinfurt-vier-angeklagte-nach-ausschreitungen-bei-coronademo-verurteilt](https://www.spiegel.de/panorama/gesellschaft/schweinfurt-vier-angeklagte-nach-ausschreitungen-bei-coronademo-verurteilt-a-0b113009-03cb-4074-9a9e-65e62861b875#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/gesellschaft/schweinfurt-vier-angeklagte-nach-ausschreitungen-bei-coronademo-verurteilt](https://www.spiegel.de/panorama/gesellschaft/schweinfurt-vier-angeklagte-nach-ausschreitungen-bei-coronademo-verurteilt-a-0b113009-03cb-4074-9a9e-65e62861b875#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung](https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung-a-7687bedc-24db-4d42-b3dd-1e9bc1ebeaed#ref=rss)
-### florian
-
-* [https://www.spiegel.de/sport/florian-hempels-traum-vom-achtelfinale-ist-geplatzt](https://www.spiegel.de/sport/florian-hempels-traum-vom-achtelfinale-ist-geplatzt-a-a72b1d86-cf01-4e56-b125-130cc52b1a66#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/sport/florian-hempels-traum-vom-achtelfinale-ist-geplatzt](https://www.spiegel.de/sport/florian-hempels-traum-vom-achtelfinale-ist-geplatzt-a-a72b1d86-cf01-4e56-b125-130cc52b1a66#ref=rss)
-* [https://www.spiegel.de/panorama/usa-heftige-schneefaelle-legen-teile-kaliforniens-und-nevadas-lahm](https://www.spiegel.de/panorama/usa-heftige-schneefaelle-legen-teile-kaliforniens-und-nevadas-lahm-a-b5d72418-c851-47b3-9b4b-12e46718bad4#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/panorama/olaf-scholz-spd-und-sein-unwahrscheinlicher-wahlsieg-die-irren-thesen-des-markus-f](https://www.spiegel.de/panorama/olaf-scholz-spd-und-sein-unwahrscheinlicher-wahlsieg-die-irren-thesen-des-markus-f-a-a7e887c1-7ce3-44c0-b60a-94d84538072c#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/panorama/olaf-scholz-spd-und-sein-unwahrscheinlicher-wahlsieg-die-irren-thesen-des-markus-f](https://www.spiegel.de/panorama/olaf-scholz-spd-und-sein-unwahrscheinlicher-wahlsieg-die-irren-thesen-des-markus-f-a-a7e887c1-7ce3-44c0-b60a-94d84538072c#ref=rss)
-### staat
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-islamische-staat-in-nordsyrien-russisches-militaermanoever-neue-regeln-fuer-autofahrer](https://www.spiegel.de/politik/deutschland/news-des-tages-islamische-staat-in-nordsyrien-russisches-militaermanoever-neue-regeln-fuer-autofahrer-a-ce4bc74f-9e79-4ae8-92c8-40b7d0b9f303#ref=rss)
-### nordsyrien
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-islamische-staat-in-nordsyrien-russisches-militaermanoever-neue-regeln-fuer-autofahrer](https://www.spiegel.de/politik/deutschland/news-des-tages-islamische-staat-in-nordsyrien-russisches-militaermanoever-neue-regeln-fuer-autofahrer-a-ce4bc74f-9e79-4ae8-92c8-40b7d0b9f303#ref=rss)
-### neue
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-islamische-staat-in-nordsyrien-russisches-militaermanoever-neue-regeln-fuer-autofahrer](https://www.spiegel.de/politik/deutschland/news-des-tages-islamische-staat-in-nordsyrien-russisches-militaermanoever-neue-regeln-fuer-autofahrer-a-ce4bc74f-9e79-4ae8-92c8-40b7d0b9f303#ref=rss)
-### autofahrer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-islamische-staat-in-nordsyrien-russisches-militaermanoever-neue-regeln-fuer-autofahrer](https://www.spiegel.de/politik/deutschland/news-des-tages-islamische-staat-in-nordsyrien-russisches-militaermanoever-neue-regeln-fuer-autofahrer-a-ce4bc74f-9e79-4ae8-92c8-40b7d0b9f303#ref=rss)
-### adac
-
-* [https://www.spiegel.de/panorama/stauprognose-adac-rechnet-mit-ruhigem-verkehr-zum-jahreswechsel](https://www.spiegel.de/panorama/stauprognose-adac-rechnet-mit-ruhigem-verkehr-zum-jahreswechsel-a-08cc416a-a084-441c-a167-0b74fb2ab49b#ref=rss)
-### rechnet
-
-* [https://www.spiegel.de/panorama/stauprognose-adac-rechnet-mit-ruhigem-verkehr-zum-jahreswechsel](https://www.spiegel.de/panorama/stauprognose-adac-rechnet-mit-ruhigem-verkehr-zum-jahreswechsel-a-08cc416a-a084-441c-a167-0b74fb2ab49b#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/stauprognose-adac-rechnet-mit-ruhigem-verkehr-zum-jahreswechsel](https://www.spiegel.de/panorama/stauprognose-adac-rechnet-mit-ruhigem-verkehr-zum-jahreswechsel-a-08cc416a-a084-441c-a167-0b74fb2ab49b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen](https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen-a-69ba2655-6cb2-4440-95e5-d107d2a83945#ref=rss)
-### lyon
-
-* [https://www.spiegel.de/sport/fussball/verband-greift-nach-krawallen-durch-und-schliesst-lyon-und-fc-paris-vom-pokal-aus](https://www.spiegel.de/sport/fussball/verband-greift-nach-krawallen-durch-und-schliesst-lyon-und-fc-paris-vom-pokal-aus-a-1a0c2e62-72a2-478a-9d70-b20e9c45771f#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/verband-greift-nach-krawallen-durch-und-schliesst-lyon-und-fc-paris-vom-pokal-aus](https://www.spiegel.de/sport/fussball/verband-greift-nach-krawallen-durch-und-schliesst-lyon-und-fc-paris-vom-pokal-aus-a-1a0c2e62-72a2-478a-9d70-b20e9c45771f#ref=rss)
-### paris
-
-* [https://www.spiegel.de/sport/fussball/verband-greift-nach-krawallen-durch-und-schliesst-lyon-und-fc-paris-vom-pokal-aus](https://www.spiegel.de/sport/fussball/verband-greift-nach-krawallen-durch-und-schliesst-lyon-und-fc-paris-vom-pokal-aus-a-1a0c2e62-72a2-478a-9d70-b20e9c45771f#ref=rss)
-### frankwalter
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen-a-2cf869f8-47c2-49db-aa19-0beb6e3f9b21#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen-a-2cf869f8-47c2-49db-aa19-0beb6e3f9b21#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen-a-2cf869f8-47c2-49db-aa19-0beb6e3f9b21#ref=rss)
-### möchte
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen-a-2cf869f8-47c2-49db-aa19-0beb6e3f9b21#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen](https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen-a-2f0b77f0-6228-49ac-b5d3-006e5e7a72bf#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-die-zweite-amtszeit-das-laute-schweigen-der-gruenen-a-2cf869f8-47c2-49db-aa19-0beb6e3f9b21#ref=rss)
-* [https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen](https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen-a-25374aef-e3cd-4443-8824-b62782094f55#ref=rss)
-### corona
-
-* [https://www.spiegel.de/wissenschaft/mensch/corona-risiko-von-ungeimpfte-fuer-intensivstationsaufenthalt-60-mal-erhoeht](https://www.spiegel.de/wissenschaft/mensch/corona-risiko-von-ungeimpfte-fuer-intensivstationsaufenthalt-60-mal-erhoeht-a-f654b864-3933-41a3-92f9-020c95cf7dd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen](https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen-a-69ba2655-6cb2-4440-95e5-d107d2a83945#ref=rss)
-### impfungen
-
-* [https://www.spiegel.de/wissenschaft/mensch/corona-risiko-von-ungeimpfte-fuer-intensivstationsaufenthalt-60-mal-erhoeht](https://www.spiegel.de/wissenschaft/mensch/corona-risiko-von-ungeimpfte-fuer-intensivstationsaufenthalt-60-mal-erhoeht-a-f654b864-3933-41a3-92f9-020c95cf7dd8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-impfgegner-kritisieren-donald-trump-fuer-aeusserungen-zur-corona-impfung](https://www.spiegel.de/ausland/usa-impfgegner-kritisieren-donald-trump-fuer-aeusserungen-zur-corona-impfung-a-10d1497b-7f9a-4053-8c68-787e365ee14e#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/wissenschaft/mensch/corona-risiko-von-ungeimpfte-fuer-intensivstationsaufenthalt-60-mal-erhoeht](https://www.spiegel.de/wissenschaft/mensch/corona-risiko-von-ungeimpfte-fuer-intensivstationsaufenthalt-60-mal-erhoeht-a-f654b864-3933-41a3-92f9-020c95cf7dd8#ref=rss)
-* [https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen](https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen-a-25374aef-e3cd-4443-8824-b62782094f55#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen](https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen-a-895dcd89-9f60-4632-b721-9ba568ac74a6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie-a-ac6cbc62-1b10-4b43-a38f-43c9221111b4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-krise-karneval-karl-lauterbach-triage-impfstoff](https://www.spiegel.de/politik/deutschland/news-corona-krise-karneval-karl-lauterbach-triage-impfstoff-a-0169c620-e814-4b91-a46d-e81522ec8d00#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wissenschaft/mensch/corona-risiko-von-ungeimpfte-fuer-intensivstationsaufenthalt-60-mal-erhoeht](https://www.spiegel.de/wissenschaft/mensch/corona-risiko-von-ungeimpfte-fuer-intensivstationsaufenthalt-60-mal-erhoeht-a-f654b864-3933-41a3-92f9-020c95cf7dd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen](https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen-a-2f0b77f0-6228-49ac-b5d3-006e5e7a72bf#ref=rss)
-### 8000
+* [https://www.spiegel.de/panorama/rueckblicke-von-spiegel-redakteuren-taghrid-und-ich](https://www.spiegel.de/panorama/rueckblicke-von-spiegel-redakteuren-taghrid-und-ich-a-e491b43d-49d2-4aca-bd33-ef102bfb9bff#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2021-22-zeitplan-schanzen-ergebnisse](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2021-22-zeitplan-schanzen-ergebnisse-a-19dfe08f-adf8-44d6-8aef-72c11a5fbf5c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger](https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger-a-b10d0704-85da-4e73-96cd-740eb89bdf97#ref=rss)
+### niedersachsen
 
-* [https://www.spiegel.de/panorama/gesellschaft/kiel-8000-euro-in-jacke-gefunden-geld-wird-gespendet](https://www.spiegel.de/panorama/gesellschaft/kiel-8000-euro-in-jacke-gefunden-geld-wird-gespendet-a-be4e366e-c646-4e21-b469-74e873e426c6#ref=rss)
-### euro
+* [https://www.spiegel.de/panorama/a31-in-niedersachsen-ausgebrochenes-pferd-loest-mehrere-unfaelle-aus](https://www.spiegel.de/panorama/a31-in-niedersachsen-ausgebrochenes-pferd-loest-mehrere-unfaelle-aus-a-b3b4ca09-d9c4-4b81-be84-6bc94ac0d0c7#ref=rss)
+### pferd
 
-* [https://www.spiegel.de/panorama/gesellschaft/kiel-8000-euro-in-jacke-gefunden-geld-wird-gespendet](https://www.spiegel.de/panorama/gesellschaft/kiel-8000-euro-in-jacke-gefunden-geld-wird-gespendet-a-be4e366e-c646-4e21-b469-74e873e426c6#ref=rss)
-### jacke
+* [https://www.spiegel.de/panorama/a31-in-niedersachsen-ausgebrochenes-pferd-loest-mehrere-unfaelle-aus](https://www.spiegel.de/panorama/a31-in-niedersachsen-ausgebrochenes-pferd-loest-mehrere-unfaelle-aus-a-b3b4ca09-d9c4-4b81-be84-6bc94ac0d0c7#ref=rss)
+### löst
 
-* [https://www.spiegel.de/panorama/gesellschaft/kiel-8000-euro-in-jacke-gefunden-geld-wird-gespendet](https://www.spiegel.de/panorama/gesellschaft/kiel-8000-euro-in-jacke-gefunden-geld-wird-gespendet-a-be4e366e-c646-4e21-b469-74e873e426c6#ref=rss)
-### sommer
+* [https://www.spiegel.de/panorama/a31-in-niedersachsen-ausgebrochenes-pferd-loest-mehrere-unfaelle-aus](https://www.spiegel.de/panorama/a31-in-niedersachsen-ausgebrochenes-pferd-loest-mehrere-unfaelle-aus-a-b3b4ca09-d9c4-4b81-be84-6bc94ac0d0c7#ref=rss)
+* [https://www.spiegel.de/ausland/memorial-moskau-loest-russlands-bekannteste-menschenrechtsorganisation-auf](https://www.spiegel.de/ausland/memorial-moskau-loest-russlands-bekannteste-menschenrechtsorganisation-auf-a-7b8ee540-8aac-43b9-b6e0-e2bab4ebe7fb#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/panorama/gesellschaft/kiel-8000-euro-in-jacke-gefunden-geld-wird-gespendet](https://www.spiegel.de/panorama/gesellschaft/kiel-8000-euro-in-jacke-gefunden-geld-wird-gespendet-a-be4e366e-c646-4e21-b469-74e873e426c6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung](https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung-a-7687bedc-24db-4d42-b3dd-1e9bc1ebeaed#ref=rss)
-### fand
+* [https://www.spiegel.de/panorama/a31-in-niedersachsen-ausgebrochenes-pferd-loest-mehrere-unfaelle-aus](https://www.spiegel.de/panorama/a31-in-niedersachsen-ausgebrochenes-pferd-loest-mehrere-unfaelle-aus-a-b3b4ca09-d9c4-4b81-be84-6bc94ac0d0c7#ref=rss)
+### unfälle
 
-* [https://www.spiegel.de/panorama/gesellschaft/kiel-8000-euro-in-jacke-gefunden-geld-wird-gespendet](https://www.spiegel.de/panorama/gesellschaft/kiel-8000-euro-in-jacke-gefunden-geld-wird-gespendet-a-be4e366e-c646-4e21-b469-74e873e426c6#ref=rss)
-* [https://www.spiegel.de/panorama/ralf-stegner-spd-und-mein-ganz-persoenlicher-watergate-moment-ein-spiegel-redakteur-erinnert-sich](https://www.spiegel.de/panorama/ralf-stegner-spd-und-mein-ganz-persoenlicher-watergate-moment-ein-spiegel-redakteur-erinnert-sich-a-0f589cbf-6cda-4d81-9f7e-f2df96222970#ref=rss)
-### stunksitzung
+* [https://www.spiegel.de/panorama/a31-in-niedersachsen-ausgebrochenes-pferd-loest-mehrere-unfaelle-aus](https://www.spiegel.de/panorama/a31-in-niedersachsen-ausgebrochenes-pferd-loest-mehrere-unfaelle-aus-a-b3b4ca09-d9c4-4b81-be84-6bc94ac0d0c7#ref=rss)
+### memorial
 
-* [https://www.spiegel.de/panorama/gesellschaft/koeln-stunksitzung-sagt-alle-termine-ab-rosenmontagszug-vor-dem-aus](https://www.spiegel.de/panorama/gesellschaft/koeln-stunksitzung-sagt-alle-termine-ab-rosenmontagszug-vor-dem-aus-a-538d9724-2bbb-4887-90d9-016bc7c08cb3#ref=rss)
-### sagt
+* [https://www.spiegel.de/ausland/memorial-moskau-loest-russlands-bekannteste-menschenrechtsorganisation-auf](https://www.spiegel.de/ausland/memorial-moskau-loest-russlands-bekannteste-menschenrechtsorganisation-auf-a-7b8ee540-8aac-43b9-b6e0-e2bab4ebe7fb#ref=rss)
+### russlands
 
-* [https://www.spiegel.de/panorama/gesellschaft/koeln-stunksitzung-sagt-alle-termine-ab-rosenmontagszug-vor-dem-aus](https://www.spiegel.de/panorama/gesellschaft/koeln-stunksitzung-sagt-alle-termine-ab-rosenmontagszug-vor-dem-aus-a-538d9724-2bbb-4887-90d9-016bc7c08cb3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tierwohl-debatte-sozialverband-fordert-ausgleich-bei-steigenden-lebensmittelpreisen](https://www.spiegel.de/wirtschaft/tierwohl-debatte-sozialverband-fordert-ausgleich-bei-steigenden-lebensmittelpreisen-a-b10818d5-b47f-45ad-ab3c-b2eb09cfad4b#ref=rss)
-### rosenmontagszug
+* [https://www.spiegel.de/ausland/memorial-moskau-loest-russlands-bekannteste-menschenrechtsorganisation-auf](https://www.spiegel.de/ausland/memorial-moskau-loest-russlands-bekannteste-menschenrechtsorganisation-auf-a-7b8ee540-8aac-43b9-b6e0-e2bab4ebe7fb#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise](https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise-a-4dc84391-7d0d-4603-b3d0-03400ad2dba5#ref=rss)
+### menschenrechtsorganisation
 
-* [https://www.spiegel.de/panorama/gesellschaft/koeln-stunksitzung-sagt-alle-termine-ab-rosenmontagszug-vor-dem-aus](https://www.spiegel.de/panorama/gesellschaft/koeln-stunksitzung-sagt-alle-termine-ab-rosenmontagszug-vor-dem-aus-a-538d9724-2bbb-4887-90d9-016bc7c08cb3#ref=rss)
-### ralf
+* [https://www.spiegel.de/ausland/memorial-moskau-loest-russlands-bekannteste-menschenrechtsorganisation-auf](https://www.spiegel.de/ausland/memorial-moskau-loest-russlands-bekannteste-menschenrechtsorganisation-auf-a-7b8ee540-8aac-43b9-b6e0-e2bab4ebe7fb#ref=rss)
+### entschieden
 
-* [https://www.spiegel.de/panorama/ralf-stegner-spd-und-mein-ganz-persoenlicher-watergate-moment-ein-spiegel-redakteur-erinnert-sich](https://www.spiegel.de/panorama/ralf-stegner-spd-und-mein-ganz-persoenlicher-watergate-moment-ein-spiegel-redakteur-erinnert-sich-a-0f589cbf-6cda-4d81-9f7e-f2df96222970#ref=rss)
-### stegner
+* [https://www.spiegel.de/ausland/memorial-moskau-loest-russlands-bekannteste-menschenrechtsorganisation-auf](https://www.spiegel.de/ausland/memorial-moskau-loest-russlands-bekannteste-menschenrechtsorganisation-auf-a-7b8ee540-8aac-43b9-b6e0-e2bab4ebe7fb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen](https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen-a-895dcd89-9f60-4632-b721-9ba568ac74a6#ref=rss)
+### jahres
 
-* [https://www.spiegel.de/panorama/ralf-stegner-spd-und-mein-ganz-persoenlicher-watergate-moment-ein-spiegel-redakteur-erinnert-sich](https://www.spiegel.de/panorama/ralf-stegner-spd-und-mein-ganz-persoenlicher-watergate-moment-ein-spiegel-redakteur-erinnert-sich-a-0f589cbf-6cda-4d81-9f7e-f2df96222970#ref=rss)
-### michael
+* [https://www.spiegel.de/kultur/nachrufe-2021-die-toten-des-jahres-teil-2-mai-bis-august](https://www.spiegel.de/kultur/nachrufe-2021-die-toten-des-jahres-teil-2-mai-bis-august-a-1e261436-7629-40b5-9c2d-57288ddcccf8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-us-behoerde-verkuerzt-empfohlene-isolationsdauer-nach-infektion](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-us-behoerde-verkuerzt-empfohlene-isolationsdauer-nach-infektion-a-1217ab8e-dc69-431d-9b4b-2872306ba511#ref=rss)
+### andere
 
-* [https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen](https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen-a-25374aef-e3cd-4443-8824-b62782094f55#ref=rss)
-### van
+* [https://www.spiegel.de/kultur/nachrufe-2021-die-toten-des-jahres-teil-2-mai-bis-august](https://www.spiegel.de/kultur/nachrufe-2021-die-toten-des-jahres-teil-2-mai-bis-august-a-1e261436-7629-40b5-9c2d-57288ddcccf8#ref=rss)
+* [https://www.spiegel.de/panorama/obdachlosigkeit-oh-nein-nicht-das-dachte-ich-na-klar-mache-ich-gern-sagte-ich](https://www.spiegel.de/panorama/obdachlosigkeit-oh-nein-nicht-das-dachte-ich-na-klar-mache-ich-gern-sagte-ich-a-efef8bda-d576-4918-8b42-5e41955fb4c7#ref=rss)
+### james
 
-* [https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen](https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen-a-25374aef-e3cd-4443-8824-b62782094f55#ref=rss)
-### gerwen
+* [https://www.spiegel.de/kultur/james-bond-nft-kanye-west-humboldt-forum-die-groessten-enttaeuschungen-des-kulturjahres-2021](https://www.spiegel.de/kultur/james-bond-nft-kanye-west-humboldt-forum-die-groessten-enttaeuschungen-des-kulturjahres-2021-a-a2843d4d-700f-4a8c-b3a3-ee5364fe57b6#ref=rss)
+### bond
 
-* [https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen](https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen-a-25374aef-e3cd-4443-8824-b62782094f55#ref=rss)
-### sieben
+* [https://www.spiegel.de/kultur/james-bond-nft-kanye-west-humboldt-forum-die-groessten-enttaeuschungen-des-kulturjahres-2021](https://www.spiegel.de/kultur/james-bond-nft-kanye-west-humboldt-forum-die-groessten-enttaeuschungen-des-kulturjahres-2021-a-a2843d4d-700f-4a8c-b3a3-ee5364fe57b6#ref=rss)
+### humboldt
 
-* [https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen](https://www.spiegel.de/sport/michael-van-gerwen-bei-der-darts-wm-mighty-mike-will-es-allen-zeigen-a-25374aef-e3cd-4443-8824-b62782094f55#ref=rss)
-* [https://www.spiegel.de/ausland/donbass-ost-ukraine-provokationen-gibt-es-staendig-deswegen-verfalle-ich-nicht-in-panik](https://www.spiegel.de/ausland/donbass-ost-ukraine-provokationen-gibt-es-staendig-deswegen-verfalle-ich-nicht-in-panik-a-14bb5d2f-1280-441b-8c75-dbc46cbac6e6#ref=rss)
-### dagi
+* [https://www.spiegel.de/kultur/james-bond-nft-kanye-west-humboldt-forum-die-groessten-enttaeuschungen-des-kulturjahres-2021](https://www.spiegel.de/kultur/james-bond-nft-kanye-west-humboldt-forum-die-groessten-enttaeuschungen-des-kulturjahres-2021-a-a2843d4d-700f-4a8c-b3a3-ee5364fe57b6#ref=rss)
+### forum
 
-* [https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter](https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter-a-0113590d-6ddc-4a13-9482-ab2ff4c373d8#ref=rss)
-### bee
-
-* [https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter](https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter-a-0113590d-6ddc-4a13-9482-ab2ff4c373d8#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter](https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter-a-0113590d-6ddc-4a13-9482-ab2ff4c373d8#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter](https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter-a-0113590d-6ddc-4a13-9482-ab2ff4c373d8#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter](https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter-a-0113590d-6ddc-4a13-9482-ab2ff4c373d8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen](https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen-a-69ba2655-6cb2-4440-95e5-d107d2a83945#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter](https://www.spiegel.de/panorama/leute/dagi-bee-youtuberin-wird-erstmals-mutter-a-0113590d-6ddc-4a13-9482-ab2ff4c373d8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen](https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen-a-69ba2655-6cb2-4440-95e5-d107d2a83945#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/usa-impfgegner-kritisieren-donald-trump-fuer-aeusserungen-zur-corona-impfung](https://www.spiegel.de/ausland/usa-impfgegner-kritisieren-donald-trump-fuer-aeusserungen-zur-corona-impfung-a-10d1497b-7f9a-4053-8c68-787e365ee14e#ref=rss)
-### frühere
-
-* [https://www.spiegel.de/ausland/usa-impfgegner-kritisieren-donald-trump-fuer-aeusserungen-zur-corona-impfung](https://www.spiegel.de/ausland/usa-impfgegner-kritisieren-donald-trump-fuer-aeusserungen-zur-corona-impfung-a-10d1497b-7f9a-4053-8c68-787e365ee14e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung](https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung-a-7687bedc-24db-4d42-b3dd-1e9bc1ebeaed#ref=rss)
-### unter
-
-* [https://www.spiegel.de/ausland/usa-impfgegner-kritisieren-donald-trump-fuer-aeusserungen-zur-corona-impfung](https://www.spiegel.de/ausland/usa-impfgegner-kritisieren-donald-trump-fuer-aeusserungen-zur-corona-impfung-a-10d1497b-7f9a-4053-8c68-787e365ee14e#ref=rss)
-* [https://www.spiegel.de/ausland/donbass-ost-ukraine-provokationen-gibt-es-staendig-deswegen-verfalle-ich-nicht-in-panik](https://www.spiegel.de/ausland/donbass-ost-ukraine-provokationen-gibt-es-staendig-deswegen-verfalle-ich-nicht-in-panik-a-14bb5d2f-1280-441b-8c75-dbc46cbac6e6#ref=rss)
-### essen
-
-* [https://www.spiegel.de/panorama/justiz/essen-polizei-sucht-nach-angriff-auf-schwangere-nach-zeugen](https://www.spiegel.de/panorama/justiz/essen-polizei-sucht-nach-angriff-auf-schwangere-nach-zeugen-a-1ef359e0-cbec-4541-a30d-fdbc572ba2c9#ref=rss)
-### schwangere
-
-* [https://www.spiegel.de/panorama/justiz/essen-polizei-sucht-nach-angriff-auf-schwangere-nach-zeugen](https://www.spiegel.de/panorama/justiz/essen-polizei-sucht-nach-angriff-auf-schwangere-nach-zeugen-a-1ef359e0-cbec-4541-a30d-fdbc572ba2c9#ref=rss)
-### bittet
-
-* [https://www.spiegel.de/panorama/justiz/essen-polizei-sucht-nach-angriff-auf-schwangere-nach-zeugen](https://www.spiegel.de/panorama/justiz/essen-polizei-sucht-nach-angriff-auf-schwangere-nach-zeugen-a-1ef359e0-cbec-4541-a30d-fdbc572ba2c9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung](https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung-a-7687bedc-24db-4d42-b3dd-1e9bc1ebeaed#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/panorama/justiz/essen-polizei-sucht-nach-angriff-auf-schwangere-nach-zeugen](https://www.spiegel.de/panorama/justiz/essen-polizei-sucht-nach-angriff-auf-schwangere-nach-zeugen-a-1ef359e0-cbec-4541-a30d-fdbc572ba2c9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/maulburg-im-landkreis-loerrach-paar-in-corona-quarantaene-ruft-wegen-lebensmittelknappheit-die-polizei](https://www.spiegel.de/panorama/justiz/maulburg-im-landkreis-loerrach-paar-in-corona-quarantaene-ruft-wegen-lebensmittelknappheit-die-polizei-a-e2cf48fa-5b47-46e2-817e-89ae2b573403#ref=rss)
-### wolfgang
-
-* [https://www.spiegel.de/politik/deutschland/impfpflicht-debatte-wolfgang-kubicki-verteidigt-sich-gegen-kritik-von-winfried-kretschmann](https://www.spiegel.de/politik/deutschland/impfpflicht-debatte-wolfgang-kubicki-verteidigt-sich-gegen-kritik-von-winfried-kretschmann-a-84c311d1-724e-4b20-817f-565b3bc3554d#ref=rss)
-### kubicki
-
-* [https://www.spiegel.de/politik/deutschland/impfpflicht-debatte-wolfgang-kubicki-verteidigt-sich-gegen-kritik-von-winfried-kretschmann](https://www.spiegel.de/politik/deutschland/impfpflicht-debatte-wolfgang-kubicki-verteidigt-sich-gegen-kritik-von-winfried-kretschmann-a-84c311d1-724e-4b20-817f-565b3bc3554d#ref=rss)
-### winfried
-
-* [https://www.spiegel.de/politik/deutschland/impfpflicht-debatte-wolfgang-kubicki-verteidigt-sich-gegen-kritik-von-winfried-kretschmann](https://www.spiegel.de/politik/deutschland/impfpflicht-debatte-wolfgang-kubicki-verteidigt-sich-gegen-kritik-von-winfried-kretschmann-a-84c311d1-724e-4b20-817f-565b3bc3554d#ref=rss)
-### kretschmann
-
-* [https://www.spiegel.de/politik/deutschland/impfpflicht-debatte-wolfgang-kubicki-verteidigt-sich-gegen-kritik-von-winfried-kretschmann](https://www.spiegel.de/politik/deutschland/impfpflicht-debatte-wolfgang-kubicki-verteidigt-sich-gegen-kritik-von-winfried-kretschmann-a-84c311d1-724e-4b20-817f-565b3bc3554d#ref=rss)
-### dalian
-
-* [https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung](https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung-a-7687bedc-24db-4d42-b3dd-1e9bc1ebeaed#ref=rss)
-### atkinson
-
-* [https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung](https://www.spiegel.de/panorama/justiz/dalian-atkinson-britische-polizei-bittet-fuer-toetung-von-ex-fussballer-um-verzeihung-a-7687bedc-24db-4d42-b3dd-1e9bc1ebeaed#ref=rss)
-### donbass
-
-* [https://www.spiegel.de/ausland/donbass-ost-ukraine-provokationen-gibt-es-staendig-deswegen-verfalle-ich-nicht-in-panik](https://www.spiegel.de/ausland/donbass-ost-ukraine-provokationen-gibt-es-staendig-deswegen-verfalle-ich-nicht-in-panik-a-14bb5d2f-1280-441b-8c75-dbc46cbac6e6#ref=rss)
-### new
-
-* [https://www.spiegel.de/sport/new-england-patriots-in-der-nfl-der-beste-spieler-der-geschichte-ist-weg-na-und](https://www.spiegel.de/sport/new-england-patriots-in-der-nfl-der-beste-spieler-der-geschichte-ist-weg-na-und-a-258e7cf9-452a-4908-a48e-d8d484cbbb52#ref=rss)
-### england
-
-* [https://www.spiegel.de/sport/new-england-patriots-in-der-nfl-der-beste-spieler-der-geschichte-ist-weg-na-und](https://www.spiegel.de/sport/new-england-patriots-in-der-nfl-der-beste-spieler-der-geschichte-ist-weg-na-und-a-258e7cf9-452a-4908-a48e-d8d484cbbb52#ref=rss)
-### patriots
-
-* [https://www.spiegel.de/sport/new-england-patriots-in-der-nfl-der-beste-spieler-der-geschichte-ist-weg-na-und](https://www.spiegel.de/sport/new-england-patriots-in-der-nfl-der-beste-spieler-der-geschichte-ist-weg-na-und-a-258e7cf9-452a-4908-a48e-d8d484cbbb52#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/sport/new-england-patriots-in-der-nfl-der-beste-spieler-der-geschichte-ist-weg-na-und](https://www.spiegel.de/sport/new-england-patriots-in-der-nfl-der-beste-spieler-der-geschichte-ist-weg-na-und-a-258e7cf9-452a-4908-a48e-d8d484cbbb52#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen](https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen-a-2f0b77f0-6228-49ac-b5d3-006e5e7a72bf#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/netzwelt/japan-forscher-praesentiert-den-ersten-leck-und-schmeckfernseher](https://www.spiegel.de/netzwelt/japan-forscher-praesentiert-den-ersten-leck-und-schmeckfernseher-a-dc35e1df-2f53-402e-bad7-d923274582d6#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/wirtschaft/belarus-lasche-eu-strafen-gegen-alexander-lukaschenko](https://www.spiegel.de/wirtschaft/belarus-lasche-eu-strafen-gegen-alexander-lukaschenko-a-fc17d6fd-b93b-40de-9c3e-f06f8139ee2b#ref=rss)
-### lukaschenko
-
-* [https://www.spiegel.de/wirtschaft/belarus-lasche-eu-strafen-gegen-alexander-lukaschenko](https://www.spiegel.de/wirtschaft/belarus-lasche-eu-strafen-gegen-alexander-lukaschenko-a-fc17d6fd-b93b-40de-9c3e-f06f8139ee2b#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen](https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen-a-69ba2655-6cb2-4440-95e5-d107d2a83945#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen](https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen-a-2f0b77f0-6228-49ac-b5d3-006e5e7a72bf#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen](https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen-a-69ba2655-6cb2-4440-95e5-d107d2a83945#ref=rss)
-### weihnachten
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen](https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen-a-69ba2655-6cb2-4440-95e5-d107d2a83945#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen](https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen-a-69ba2655-6cb2-4440-95e5-d107d2a83945#ref=rss)
+* [https://www.spiegel.de/kultur/james-bond-nft-kanye-west-humboldt-forum-die-groessten-enttaeuschungen-des-kulturjahres-2021](https://www.spiegel.de/kultur/james-bond-nft-kanye-west-humboldt-forum-die-groessten-enttaeuschungen-des-kulturjahres-2021-a-a2843d4d-700f-4a8c-b3a3-ee5364fe57b6#ref=rss)
 ### rund
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen](https://www.spiegel.de/wirtschaft/unternehmen/trotz-corona-bahn-zaehlt-ueber-weihnachten-wieder-mehr-fahrgaeste-in-fernzuegen-a-69ba2655-6cb2-4440-95e5-d107d2a83945#ref=rss)
-### umwelthilfe
+* [https://www.spiegel.de/kultur/james-bond-nft-kanye-west-humboldt-forum-die-groessten-enttaeuschungen-des-kulturjahres-2021](https://www.spiegel.de/kultur/james-bond-nft-kanye-west-humboldt-forum-die-groessten-enttaeuschungen-des-kulturjahres-2021-a-a2843d4d-700f-4a8c-b3a3-ee5364fe57b6#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2021-22-zeitplan-schanzen-ergebnisse](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2021-22-zeitplan-schanzen-ergebnisse-a-19dfe08f-adf8-44d6-8aef-72c11a5fbf5c#ref=rss)
+### gehalt
 
-* [https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen](https://www.spiegel.de/wirtschaft/nach-plastiktueten-verbot-umwelthilfe-will-auch-obstbeutel-abschaffen-a-2f0b77f0-6228-49ac-b5d3-006e5e7a72bf#ref=rss)
+* [https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch](https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch-a-710d924b-44eb-407b-bd8c-5254b8bb2a96#ref=rss)
+### verhandeln
+
+* [https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch](https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch-a-710d924b-44eb-407b-bd8c-5254b8bb2a96#ref=rss)
+### berufseinsteigerinnen
+
+* [https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch](https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch-a-710d924b-44eb-407b-bd8c-5254b8bb2a96#ref=rss)
+### ljubow
+
+* [https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch](https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch-a-710d924b-44eb-407b-bd8c-5254b8bb2a96#ref=rss)
+### chaikevitch
+
+* [https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch](https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch-a-710d924b-44eb-407b-bd8c-5254b8bb2a96#ref=rss)
+### genug
+
+* [https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch](https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch-a-710d924b-44eb-407b-bd8c-5254b8bb2a96#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie-a-ac6cbc62-1b10-4b43-a38f-43c9221111b4#ref=rss)
+### ändern
+
+* [https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch](https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch-a-710d924b-44eb-407b-bd8c-5254b8bb2a96#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/einstimmiger-beschluss-der-vier-orte-die-vierschanzentournee-der-frauen-soll-kommen](https://www.spiegel.de/sport/wintersport/einstimmiger-beschluss-der-vier-orte-die-vierschanzentournee-der-frauen-soll-kommen-a-2ac303fa-d25b-4d21-b10c-9d5ed5904e8a#ref=rss)
+### gespräche
+
+* [https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch](https://www.spiegel.de/start/gehalt-online-verhandeln-tipps-fuer-berufseinsteigerinnen-von-ljubow-chaikevitch-a-710d924b-44eb-407b-bd8c-5254b8bb2a96#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise](https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise-a-4dc84391-7d0d-4603-b3d0-03400ad2dba5#ref=rss)
+### lehrkräfte
+
+* [https://www.spiegel.de/panorama/bildung/corona-luecken-lehrkraefte-zeigen-kaum-interesse-an-bezahlter-mehrarbeit](https://www.spiegel.de/panorama/bildung/corona-luecken-lehrkraefte-zeigen-kaum-interesse-an-bezahlter-mehrarbeit-a-d4d7706e-ecce-4cef-a65f-1400f355aaab#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/bildung/corona-luecken-lehrkraefte-zeigen-kaum-interesse-an-bezahlter-mehrarbeit](https://www.spiegel.de/panorama/bildung/corona-luecken-lehrkraefte-zeigen-kaum-interesse-an-bezahlter-mehrarbeit-a-d4d7706e-ecce-4cef-a65f-1400f355aaab#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla](https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla-a-c91e5f69-8939-4526-b644-6af6b425a9b5#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/panorama/bildung/corona-luecken-lehrkraefte-zeigen-kaum-interesse-an-bezahlter-mehrarbeit](https://www.spiegel.de/panorama/bildung/corona-luecken-lehrkraefte-zeigen-kaum-interesse-an-bezahlter-mehrarbeit-a-d4d7706e-ecce-4cef-a65f-1400f355aaab#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/zahlen-des-rki-bundesweite-sieben-tage-inzidenz-faellt-deutlich-ab](https://www.spiegel.de/wissenschaft/medizin/zahlen-des-rki-bundesweite-sieben-tage-inzidenz-faellt-deutlich-ab-a-6e0ca59b-2372-47e4-a13d-082252c7208d#ref=rss)
+### nord
+
+* [https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch](https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch-a-54a97855-7229-402c-a3ba-181be420c307#ref=rss)
+### stream
+
+* [https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch](https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch-a-54a97855-7229-402c-a3ba-181be420c307#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch](https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch-a-54a97855-7229-402c-a3ba-181be420c307#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch](https://www.spiegel.de/ausland/nord-stream-2-russland-draengt-auf-entscheidung-ueber-ostseepipeline-annalena-baerbock-ist-skeptisch-a-54a97855-7229-402c-a3ba-181be420c307#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger](https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger-a-b10d0704-85da-4e73-96cd-740eb89bdf97#ref=rss)
+### maroš
+
+* [https://www.spiegel.de/ausland/eu-kommissionsvize-maros-sefcovic-das-verhaeltnis-der-eu-mit-der-schweiz-droht-zu-zerfallen](https://www.spiegel.de/ausland/eu-kommissionsvize-maros-sefcovic-das-verhaeltnis-der-eu-mit-der-schweiz-droht-zu-zerfallen-a-2f346708-1bb9-4aee-a0c8-942e0bc1ec72#ref=rss)
+### šefčovič
+
+* [https://www.spiegel.de/ausland/eu-kommissionsvize-maros-sefcovic-das-verhaeltnis-der-eu-mit-der-schweiz-droht-zu-zerfallen](https://www.spiegel.de/ausland/eu-kommissionsvize-maros-sefcovic-das-verhaeltnis-der-eu-mit-der-schweiz-droht-zu-zerfallen-a-2f346708-1bb9-4aee-a0c8-942e0bc1ec72#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/ausland/eu-kommissionsvize-maros-sefcovic-das-verhaeltnis-der-eu-mit-der-schweiz-droht-zu-zerfallen](https://www.spiegel.de/ausland/eu-kommissionsvize-maros-sefcovic-das-verhaeltnis-der-eu-mit-der-schweiz-droht-zu-zerfallen-a-2f346708-1bb9-4aee-a0c8-942e0bc1ec72#ref=rss)
+### droht
+
+* [https://www.spiegel.de/ausland/eu-kommissionsvize-maros-sefcovic-das-verhaeltnis-der-eu-mit-der-schweiz-droht-zu-zerfallen](https://www.spiegel.de/ausland/eu-kommissionsvize-maros-sefcovic-das-verhaeltnis-der-eu-mit-der-schweiz-droht-zu-zerfallen-a-2f346708-1bb9-4aee-a0c8-942e0bc1ec72#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger](https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger-a-b10d0704-85da-4e73-96cd-740eb89bdf97#ref=rss)
+### baikalsee
+
+* [https://www.spiegel.de/reise/fernweh/urlaubserlebnisse-der-spiegel-redaktion-2021-der-musik-des-eises-lauschen](https://www.spiegel.de/reise/fernweh/urlaubserlebnisse-der-spiegel-redaktion-2021-der-musik-des-eises-lauschen-a-8ad05768-e480-4ae5-a412-7f616812b1c1#ref=rss)
+### sauerland
+
+* [https://www.spiegel.de/reise/fernweh/urlaubserlebnisse-der-spiegel-redaktion-2021-der-musik-des-eises-lauschen](https://www.spiegel.de/reise/fernweh/urlaubserlebnisse-der-spiegel-redaktion-2021-der-musik-des-eises-lauschen-a-8ad05768-e480-4ae5-a412-7f616812b1c1#ref=rss)
+### oft
+
+* [https://www.spiegel.de/reise/fernweh/urlaubserlebnisse-der-spiegel-redaktion-2021-der-musik-des-eises-lauschen](https://www.spiegel.de/reise/fernweh/urlaubserlebnisse-der-spiegel-redaktion-2021-der-musik-des-eises-lauschen-a-8ad05768-e480-4ae5-a412-7f616812b1c1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/gewalt-an-frauen-weisser-ring-fordert-effektives-konzept-gegen-femizide](https://www.spiegel.de/panorama/justiz/gewalt-an-frauen-weisser-ring-fordert-effektives-konzept-gegen-femizide-a-1d70886c-5517-419d-b669-4cf6707b2be8#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla](https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla-a-c91e5f69-8939-4526-b644-6af6b425a9b5#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla](https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla-a-c91e5f69-8939-4526-b644-6af6b425a9b5#ref=rss)
+### chinas
+
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla](https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla-a-c91e5f69-8939-4526-b644-6af6b425a9b5#ref=rss)
+### raumstation
+
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla](https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla-a-c91e5f69-8939-4526-b644-6af6b425a9b5#ref=rss)
+### satelliten
+
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla](https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla-a-c91e5f69-8939-4526-b644-6af6b425a9b5#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla](https://www.spiegel.de/wissenschaft/weltall/elon-musk-chinas-raumstation-musste-satelliten-von-elon-musk-ausweichen-boykottaufrufe-gegen-tesla-a-c91e5f69-8939-4526-b644-6af6b425a9b5#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise](https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise-a-4dc84391-7d0d-4603-b3d0-03400ad2dba5#ref=rss)
+### corona
+
+* [https://www.spiegel.de/politik/deutschland/corona-kritik-an-klaus-holetscheks-vorschlag-zu-hoeheren-krankenkassenbeitraegen-fuer-ungeimpfte](https://www.spiegel.de/politik/deutschland/corona-kritik-an-klaus-holetscheks-vorschlag-zu-hoeheren-krankenkassenbeitraegen-fuer-ungeimpfte-a-b6f6f7ac-ef29-49ab-9912-44e462f88693#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/zahlen-des-rki-bundesweite-sieben-tage-inzidenz-faellt-deutlich-ab](https://www.spiegel.de/wissenschaft/medizin/zahlen-des-rki-bundesweite-sieben-tage-inzidenz-faellt-deutlich-ab-a-6e0ca59b-2372-47e4-a13d-082252c7208d#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/deutschland/corona-kritik-an-klaus-holetscheks-vorschlag-zu-hoeheren-krankenkassenbeitraegen-fuer-ungeimpfte](https://www.spiegel.de/politik/deutschland/corona-kritik-an-klaus-holetscheks-vorschlag-zu-hoeheren-krankenkassenbeitraegen-fuer-ungeimpfte-a-b6f6f7ac-ef29-49ab-9912-44e462f88693#ref=rss)
+### vorschlag
+
+* [https://www.spiegel.de/politik/deutschland/corona-kritik-an-klaus-holetscheks-vorschlag-zu-hoeheren-krankenkassenbeitraegen-fuer-ungeimpfte](https://www.spiegel.de/politik/deutschland/corona-kritik-an-klaus-holetscheks-vorschlag-zu-hoeheren-krankenkassenbeitraegen-fuer-ungeimpfte-a-b6f6f7ac-ef29-49ab-9912-44e462f88693#ref=rss)
+### gesundheitsminister
+
+* [https://www.spiegel.de/politik/deutschland/corona-kritik-an-klaus-holetscheks-vorschlag-zu-hoeheren-krankenkassenbeitraegen-fuer-ungeimpfte](https://www.spiegel.de/politik/deutschland/corona-kritik-an-klaus-holetscheks-vorschlag-zu-hoeheren-krankenkassenbeitraegen-fuer-ungeimpfte-a-b6f6f7ac-ef29-49ab-9912-44e462f88693#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-krise-karneval-karl-lauterbach-triage-impfstoff](https://www.spiegel.de/politik/deutschland/news-corona-krise-karneval-karl-lauterbach-triage-impfstoff-a-0169c620-e814-4b91-a46d-e81522ec8d00#ref=rss)
+### premier
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united-a-2410fc54-5cfa-4991-8ba3-0586d8e8aaf1#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united-a-2410fc54-5cfa-4991-8ba3-0586d8e8aaf1#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united-a-2410fc54-5cfa-4991-8ba3-0586d8e8aaf1#ref=rss)
+### ralf
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united-a-2410fc54-5cfa-4991-8ba3-0586d8e8aaf1#ref=rss)
+### rangnick
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united-a-2410fc54-5cfa-4991-8ba3-0586d8e8aaf1#ref=rss)
+### newcastle
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united-a-2410fc54-5cfa-4991-8ba3-0586d8e8aaf1#ref=rss)
+### angreifen
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united-a-2410fc54-5cfa-4991-8ba3-0586d8e8aaf1#ref=rss)
+* [https://www.spiegel.de/ausland/putin-strebt-wiederherstellung-eines-russischen-reiches-an](https://www.spiegel.de/ausland/putin-strebt-wiederherstellung-eines-russischen-reiches-an-a-ee7ee951-488a-445a-817c-0638dcf07c58#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united](https://www.spiegel.de/sport/fussball/premier-league-manchester-united-und-ralf-rangnick-mit-remis-gegen-newcastle-united-a-2410fc54-5cfa-4991-8ba3-0586d8e8aaf1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/zahlen-des-rki-bundesweite-sieben-tage-inzidenz-faellt-deutlich-ab](https://www.spiegel.de/wissenschaft/medizin/zahlen-des-rki-bundesweite-sieben-tage-inzidenz-faellt-deutlich-ab-a-6e0ca59b-2372-47e4-a13d-082252c7208d#ref=rss)
+### klar
+
+* [https://www.spiegel.de/panorama/obdachlosigkeit-oh-nein-nicht-das-dachte-ich-na-klar-mache-ich-gern-sagte-ich](https://www.spiegel.de/panorama/obdachlosigkeit-oh-nein-nicht-das-dachte-ich-na-klar-mache-ich-gern-sagte-ich-a-efef8bda-d576-4918-8b42-5e41955fb4c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger](https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger-a-b10d0704-85da-4e73-96cd-740eb89bdf97#ref=rss)
+### nie
+
+* [https://www.spiegel.de/panorama/obdachlosigkeit-oh-nein-nicht-das-dachte-ich-na-klar-mache-ich-gern-sagte-ich](https://www.spiegel.de/panorama/obdachlosigkeit-oh-nein-nicht-das-dachte-ich-na-klar-mache-ich-gern-sagte-ich-a-efef8bda-d576-4918-8b42-5e41955fb4c7#ref=rss)
+* [https://www.spiegel.de/panorama/rueckblicke-von-spiegel-redakteuren-taghrid-und-ich](https://www.spiegel.de/panorama/rueckblicke-von-spiegel-redakteuren-taghrid-und-ich-a-e491b43d-49d2-4aca-bd33-ef102bfb9bff#ref=rss)
+### dartswm
+
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-als-letzter-deutscher-ausgeschieden](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-als-letzter-deutscher-ausgeschieden-a-63e35ba6-32d1-4b7d-ab7a-1e448fc408d0#ref=rss)
+### gabriel
+
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-als-letzter-deutscher-ausgeschieden](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-als-letzter-deutscher-ausgeschieden-a-63e35ba6-32d1-4b7d-ab7a-1e448fc408d0#ref=rss)
+### clemens
+
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-als-letzter-deutscher-ausgeschieden](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-als-letzter-deutscher-ausgeschieden-a-63e35ba6-32d1-4b7d-ab7a-1e448fc408d0#ref=rss)
+### nachrichten
+
+* [https://www.spiegel.de/sport/darts-wm-gabriel-clemens-als-letzter-deutscher-ausgeschieden](https://www.spiegel.de/sport/darts-wm-gabriel-clemens-als-letzter-deutscher-ausgeschieden-a-63e35ba6-32d1-4b7d-ab7a-1e448fc408d0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-us-behoerde-verkuerzt-empfohlene-isolationsdauer-nach-infektion](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-us-behoerde-verkuerzt-empfohlene-isolationsdauer-nach-infektion-a-1217ab8e-dc69-431d-9b4b-2872306ba511#ref=rss)
+### intensivbetten
+
+* [https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen](https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen-a-895dcd89-9f60-4632-b721-9ba568ac74a6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie-a-ac6cbc62-1b10-4b43-a38f-43c9221111b4#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen](https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen-a-895dcd89-9f60-4632-b721-9ba568ac74a6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie-a-ac6cbc62-1b10-4b43-a38f-43c9221111b4#ref=rss)
+### gesetzliche
+
+* [https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen](https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen-a-895dcd89-9f60-4632-b721-9ba568ac74a6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie-a-ac6cbc62-1b10-4b43-a38f-43c9221111b4#ref=rss)
+### vorgaben
+
+* [https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen](https://www.spiegel.de/panorama/justiz/corona-krise-bundesverfassungsgericht-verpflichtet-gesetzgeber-zu-triage-regelungen-a-895dcd89-9f60-4632-b721-9ba568ac74a6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie-a-ac6cbc62-1b10-4b43-a38f-43c9221111b4#ref=rss)
+### bankenaufsicht
+
+* [https://www.spiegel.de/wirtschaft/tuerkei-lira-verfall-bankenaufsicht-stellt-strafanzeige-gegen-journalisten](https://www.spiegel.de/wirtschaft/tuerkei-lira-verfall-bankenaufsicht-stellt-strafanzeige-gegen-journalisten-a-4ef21399-60aa-4784-9ac8-fc978d7b403a#ref=rss)
+### strafanzeige
+
+* [https://www.spiegel.de/wirtschaft/tuerkei-lira-verfall-bankenaufsicht-stellt-strafanzeige-gegen-journalisten](https://www.spiegel.de/wirtschaft/tuerkei-lira-verfall-bankenaufsicht-stellt-strafanzeige-gegen-journalisten-a-4ef21399-60aa-4784-9ac8-fc978d7b403a#ref=rss)
+### journalisten
+
+* [https://www.spiegel.de/wirtschaft/tuerkei-lira-verfall-bankenaufsicht-stellt-strafanzeige-gegen-journalisten](https://www.spiegel.de/wirtschaft/tuerkei-lira-verfall-bankenaufsicht-stellt-strafanzeige-gegen-journalisten-a-4ef21399-60aa-4784-9ac8-fc978d7b403a#ref=rss)
+### weißer
+
+* [https://www.spiegel.de/panorama/justiz/gewalt-an-frauen-weisser-ring-fordert-effektives-konzept-gegen-femizide](https://www.spiegel.de/panorama/justiz/gewalt-an-frauen-weisser-ring-fordert-effektives-konzept-gegen-femizide-a-1d70886c-5517-419d-b669-4cf6707b2be8#ref=rss)
+### ring
+
+* [https://www.spiegel.de/panorama/justiz/gewalt-an-frauen-weisser-ring-fordert-effektives-konzept-gegen-femizide](https://www.spiegel.de/panorama/justiz/gewalt-an-frauen-weisser-ring-fordert-effektives-konzept-gegen-femizide-a-1d70886c-5517-419d-b669-4cf6707b2be8#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/panorama/justiz/gewalt-an-frauen-weisser-ring-fordert-effektives-konzept-gegen-femizide](https://www.spiegel.de/panorama/justiz/gewalt-an-frauen-weisser-ring-fordert-effektives-konzept-gegen-femizide-a-1d70886c-5517-419d-b669-4cf6707b2be8#ref=rss)
+### schweden
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/internet-schweden-ist-europas-glasfasernation-nr-1](https://www.spiegel.de/netzwelt/netzpolitik/internet-schweden-ist-europas-glasfasernation-nr-1-a-1a956198-bd78-4b42-9b46-af29addc7efd#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/internet-schweden-ist-europas-glasfasernation-nr-1](https://www.spiegel.de/netzwelt/netzpolitik/internet-schweden-ist-europas-glasfasernation-nr-1-a-1a956198-bd78-4b42-9b46-af29addc7efd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-us-behoerde-verkuerzt-empfohlene-isolationsdauer-nach-infektion](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-us-behoerde-verkuerzt-empfohlene-isolationsdauer-nach-infektion-a-1217ab8e-dc69-431d-9b4b-2872306ba511#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/internet-schweden-ist-europas-glasfasernation-nr-1](https://www.spiegel.de/netzwelt/netzpolitik/internet-schweden-ist-europas-glasfasernation-nr-1-a-1a956198-bd78-4b42-9b46-af29addc7efd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger](https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger-a-b10d0704-85da-4e73-96cd-740eb89bdf97#ref=rss)
+### zeitplan
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2021-22-zeitplan-schanzen-ergebnisse](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2021-22-zeitplan-schanzen-ergebnisse-a-19dfe08f-adf8-44d6-8aef-72c11a5fbf5c#ref=rss)
+### ergebnisse
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2021-22-zeitplan-schanzen-ergebnisse](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2021-22-zeitplan-schanzen-ergebnisse-a-19dfe08f-adf8-44d6-8aef-72c11a5fbf5c#ref=rss)
+### januar
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2021-22-zeitplan-schanzen-ergebnisse](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2021-22-zeitplan-schanzen-ergebnisse-a-19dfe08f-adf8-44d6-8aef-72c11a5fbf5c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise](https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise-a-4dc84391-7d0d-4603-b3d0-03400ad2dba5#ref=rss)
+### los
+
+* [https://www.spiegel.de/panorama/justiz/los-angeles-14-jaehrige-durch-querschlaeger-aus-polizeiwaffe-getoetet-videoaufnahmen-veroeffentlicht](https://www.spiegel.de/panorama/justiz/los-angeles-14-jaehrige-durch-querschlaeger-aus-polizeiwaffe-getoetet-videoaufnahmen-veroeffentlicht-a-66416815-d180-4122-a975-4c7581a5831f#ref=rss)
+### angeles
+
+* [https://www.spiegel.de/panorama/justiz/los-angeles-14-jaehrige-durch-querschlaeger-aus-polizeiwaffe-getoetet-videoaufnahmen-veroeffentlicht](https://www.spiegel.de/panorama/justiz/los-angeles-14-jaehrige-durch-querschlaeger-aus-polizeiwaffe-getoetet-videoaufnahmen-veroeffentlicht-a-66416815-d180-4122-a975-4c7581a5831f#ref=rss)
+### veröffentlicht
+
+* [https://www.spiegel.de/panorama/justiz/los-angeles-14-jaehrige-durch-querschlaeger-aus-polizeiwaffe-getoetet-videoaufnahmen-veroeffentlicht](https://www.spiegel.de/panorama/justiz/los-angeles-14-jaehrige-durch-querschlaeger-aus-polizeiwaffe-getoetet-videoaufnahmen-veroeffentlicht-a-66416815-d180-4122-a975-4c7581a5831f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie](https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-entscheidet-ueber-triage-in-der-corona-pandemie-a-ac6cbc62-1b10-4b43-a38f-43c9221111b4#ref=rss)
+### christoph
+
+* [https://www.spiegel.de/ausland/putin-strebt-wiederherstellung-eines-russischen-reiches-an](https://www.spiegel.de/ausland/putin-strebt-wiederherstellung-eines-russischen-reiches-an-a-ee7ee951-488a-445a-817c-0638dcf07c58#ref=rss)
+### heusgen
+
+* [https://www.spiegel.de/ausland/putin-strebt-wiederherstellung-eines-russischen-reiches-an](https://www.spiegel.de/ausland/putin-strebt-wiederherstellung-eines-russischen-reiches-an-a-ee7ee951-488a-445a-817c-0638dcf07c58#ref=rss)
+### grenze
+
+* [https://www.spiegel.de/ausland/putin-strebt-wiederherstellung-eines-russischen-reiches-an](https://www.spiegel.de/ausland/putin-strebt-wiederherstellung-eines-russischen-reiches-an-a-ee7ee951-488a-445a-817c-0638dcf07c58#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise](https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise-a-4dc84391-7d0d-4603-b3d0-03400ad2dba5#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/putin-strebt-wiederherstellung-eines-russischen-reiches-an](https://www.spiegel.de/ausland/putin-strebt-wiederherstellung-eines-russischen-reiches-an-a-ee7ee951-488a-445a-817c-0638dcf07c58#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise](https://www.spiegel.de/ausland/usa-und-russland-sprechen-am-10-januar-ueber-ukraine-krise-a-4dc84391-7d0d-4603-b3d0-03400ad2dba5#ref=rss)
+### fachkräftemangel
+
+* [https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger](https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger-a-b10d0704-85da-4e73-96cd-740eb89bdf97#ref=rss)
+### erzieher
+
+* [https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger](https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger-a-b10d0704-85da-4e73-96cd-740eb89bdf97#ref=rss)
+### kommenden
+
+* [https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger](https://www.spiegel.de/wirtschaft/soziales/staedtetag-warnt-deutschland-fehlen-hunderttausende-erzieher-und-pfleger-a-b10d0704-85da-4e73-96cd-740eb89bdf97#ref=rss)
+* [https://www.spiegel.de/ausland/jahresausblick-2022-von-den-us-midterm-wahlen-bis-zur-fussball-wm-podcast](https://www.spiegel.de/ausland/jahresausblick-2022-von-den-us-midterm-wahlen-bis-zur-fussball-wm-podcast-a-c07ba953-54f8-4f1d-bad4-1aee4fdba4b6#ref=rss)
+### dienstag
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-us-behoerde-verkuerzt-empfohlene-isolationsdauer-nach-infektion](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-us-behoerde-verkuerzt-empfohlene-isolationsdauer-nach-infektion-a-1217ab8e-dc69-431d-9b4b-2872306ba511#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-corona-krise-karneval-karl-lauterbach-triage-impfstoff](https://www.spiegel.de/politik/deutschland/news-corona-krise-karneval-karl-lauterbach-triage-impfstoff-a-0169c620-e814-4b91-a46d-e81522ec8d00#ref=rss)
+### who
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-us-behoerde-verkuerzt-empfohlene-isolationsdauer-nach-infektion](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-dienstag-us-behoerde-verkuerzt-empfohlene-isolationsdauer-nach-infektion-a-1217ab8e-dc69-431d-9b4b-2872306ba511#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/ausland/jahresausblick-2022-von-den-us-midterm-wahlen-bis-zur-fussball-wm-podcast](https://www.spiegel.de/ausland/jahresausblick-2022-von-den-us-midterm-wahlen-bis-zur-fussball-wm-podcast-a-c07ba953-54f8-4f1d-bad4-1aee4fdba4b6#ref=rss)
 
