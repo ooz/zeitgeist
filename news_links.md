@@ -4,356 +4,357 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### omikron
-
-* [https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle](https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle-a-7c0cfe57-1c51-4c56-bfce-d5c33e3a5a57#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus](https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus-a-f171f8ed-fb62-41f2-843a-208adda25ed8#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/frankreich-studierende-muessen-praesenzpruefungen-ablegen-trotz-corona](https://www.spiegel.de/panorama/bildung/frankreich-studierende-muessen-praesenzpruefungen-ablegen-trotz-corona-a-bdaa2ab6-e362-46e7-ac6b-7e11b2277be2#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-ernennen-rina-amiri-als-sondergesandte-fuer-rechte-von-frauen-in-afghanistan](https://www.spiegel.de/ausland/usa-ernennen-rina-amiri-als-sondergesandte-fuer-rechte-von-frauen-in-afghanistan-a-4fbd4f13-f535-43cd-a831-c238876e9a96#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab](https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab-a-885cc662-b76f-42cd-977e-8891e072f113#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus](https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus-a-f171f8ed-fb62-41f2-843a-208adda25ed8#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle](https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle-a-7c0cfe57-1c51-4c56-bfce-d5c33e3a5a57#ref=rss)
-* [https://www.spiegel.de/start/persoenlicher-jahresrueckblick-fuers-studium-drei-strategien](https://www.spiegel.de/start/persoenlicher-jahresrueckblick-fuers-studium-drei-strategien-a-1ffeae67-294f-4603-83a5-d83597b39027#ref=rss)
-* [https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an](https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an-a-74200448-01eb-471d-af5e-f284539ec535#ref=rss)
-### wir
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-reichtum-toetungsverbot-fuer-kueken-75-jahre-spiegel](https://www.spiegel.de/politik/deutschland/news-des-tages-reichtum-toetungsverbot-fuer-kueken-75-jahre-spiegel-a-ca225ad3-5e1b-4a4c-bea7-b3a2276f976b#ref=rss)
-* [https://www.spiegel.de/kultur/luke-mockridge-und-ines-anioli-wie-wir-fuer-unsere-berichterstattung-kaempfen](https://www.spiegel.de/kultur/luke-mockridge-und-ines-anioli-wie-wir-fuer-unsere-berichterstattung-kaempfen-a-f1b6678a-366a-43d7-b040-2580d31fb232#ref=rss)
-### coronapandemie
-
-* [https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor](https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor-a-564bee7d-b257-4718-8833-0e6382da905c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab](https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab-a-885cc662-b76f-42cd-977e-8891e072f113#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig](https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig-a-f4ad3772-0ebe-4366-ac64-8c9056d729fe#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor](https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor-a-564bee7d-b257-4718-8833-0e6382da905c#ref=rss)
-* [https://www.spiegel.de/start/persoenlicher-jahresrueckblick-fuers-studium-drei-strategien](https://www.spiegel.de/start/persoenlicher-jahresrueckblick-fuers-studium-drei-strategien-a-1ffeae67-294f-4603-83a5-d83597b39027#ref=rss)
-* [https://www.spiegel.de/kultur/sabine-weiss-fotografin-ist-tot-vertreterin-der-humanistischen-fotografie](https://www.spiegel.de/kultur/sabine-weiss-fotografin-ist-tot-vertreterin-der-humanistischen-fotografie-a-e5f48e80-14dd-4b59-a947-46b5f26727c1#ref=rss)
-### laut
-
-* [https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt](https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt-a-3fd2bfe5-dc40-441d-99eb-f7372995a1d6#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-internes-papier-zeigt-was-sich-die-eu-staaten-wuenschen](https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-internes-papier-zeigt-was-sich-die-eu-staaten-wuenschen-a-8ba7be94-2ecd-41d5-8ae4-aad12a7b1325#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-oliver-kahn-bestaetigt-ermittlungen-nach-medienbericht](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-oliver-kahn-bestaetigt-ermittlungen-nach-medienbericht-a-fed2096d-a2af-4b88-90a4-15953b1f626b#ref=rss)
-### karl
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter-a-9a325185-1505-45e3-b029-29402f1d9d83#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-prueft-kuerzere-quarantaene-dauer](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-prueft-kuerzere-quarantaene-dauer-a-42de4063-cb61-436c-af50-3b0f2310068c#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/usa-ernennen-rina-amiri-als-sondergesandte-fuer-rechte-von-frauen-in-afghanistan](https://www.spiegel.de/ausland/usa-ernennen-rina-amiri-als-sondergesandte-fuer-rechte-von-frauen-in-afghanistan-a-4fbd4f13-f535-43cd-a831-c238876e9a96#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab](https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab-a-885cc662-b76f-42cd-977e-8891e072f113#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus](https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus-a-f171f8ed-fb62-41f2-843a-208adda25ed8#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken](https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken-a-abf813a2-a65f-4207-89ea-bf0bd3d3e59a#ref=rss)
-### corona
-
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-prueft-kuerzere-quarantaene-dauer](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-prueft-kuerzere-quarantaene-dauer-a-42de4063-cb61-436c-af50-3b0f2310068c#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-lebron-james-wegen-umstrittenem-corona-post-in-der-kritik](https://www.spiegel.de/sport/basketball/nba-lebron-james-wegen-umstrittenem-corona-post-in-der-kritik-a-9b1ebc23-4848-4a60-88ca-0536bc73457b#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/frankreich-studierende-muessen-praesenzpruefungen-ablegen-trotz-corona](https://www.spiegel.de/panorama/bildung/frankreich-studierende-muessen-praesenzpruefungen-ablegen-trotz-corona-a-bdaa2ab6-e362-46e7-ac6b-7e11b2277be2#ref=rss)
-### james
-
-* [https://www.spiegel.de/sport/basketball/nba-lebron-james-wegen-umstrittenem-corona-post-in-der-kritik](https://www.spiegel.de/sport/basketball/nba-lebron-james-wegen-umstrittenem-corona-post-in-der-kritik-a-9b1ebc23-4848-4a60-88ca-0536bc73457b#ref=rss)
-### china
-
-* [https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor](https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor-a-564bee7d-b257-4718-8833-0e6382da905c#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor](https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor-a-564bee7d-b257-4718-8833-0e6382da905c#ref=rss)
-### öffentlich
-
-* [https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor](https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor-a-564bee7d-b257-4718-8833-0e6382da905c#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor](https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor-a-564bee7d-b257-4718-8833-0e6382da905c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab](https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab-a-885cc662-b76f-42cd-977e-8891e072f113#ref=rss)
-### dennoch
-
-* [https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor](https://www.spiegel.de/panorama/gesellschaft/china-fuehrt-mehrere-mutmassliche-menschenschmuggler-oeffentlich-vor-a-564bee7d-b257-4718-8833-0e6382da905c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig](https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig-a-f4ad3772-0ebe-4366-ac64-8c9056d729fe#ref=rss)
-### intensivmediziner
-
-* [https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt](https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt-a-3fd2bfe5-dc40-441d-99eb-f7372995a1d6#ref=rss)
-### uwe
-
-* [https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt](https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt-a-3fd2bfe5-dc40-441d-99eb-f7372995a1d6#ref=rss)
-### janssens
-
-* [https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt](https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt-a-3fd2bfe5-dc40-441d-99eb-f7372995a1d6#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt](https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt-a-3fd2bfe5-dc40-441d-99eb-f7372995a1d6#ref=rss)
-### kurzfristige
-
-* [https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt](https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt-a-3fd2bfe5-dc40-441d-99eb-f7372995a1d6#ref=rss)
-### überlebenswahrscheinlichkeit
-
-* [https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt](https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt-a-3fd2bfe5-dc40-441d-99eb-f7372995a1d6#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt](https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt-a-3fd2bfe5-dc40-441d-99eb-f7372995a1d6#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bautzen-beamte-sollen-teilnehmer-von-coronademo-getreten-haben-polizei-ermittelt](https://www.spiegel.de/panorama/justiz/bautzen-beamte-sollen-teilnehmer-von-coronademo-getreten-haben-polizei-ermittelt-a-1d9d4eff-7060-4425-b781-36ddd0b2e72e#ref=rss)
-### bedeutet
-
-* [https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt](https://www.spiegel.de/gesundheit/diagnose/triage-intensivmediziner-uwe-janssens-erklaert-wie-man-die-kurzfristige-ueberlebenswahrscheinlichkeit-ermittelt-a-3fd2bfe5-dc40-441d-99eb-f7372995a1d6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus](https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus-a-f171f8ed-fb62-41f2-843a-208adda25ed8#ref=rss)
-### vierschanzentournee
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter-a-9a325185-1505-45e3-b029-29402f1d9d83#ref=rss)
-### ryoyu
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter-a-9a325185-1505-45e3-b029-29402f1d9d83#ref=rss)
-### kobayashi
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter-a-9a325185-1505-45e3-b029-29402f1d9d83#ref=rss)
-### oberstdorf
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter-a-9a325185-1505-45e3-b029-29402f1d9d83#ref=rss)
-### geiger
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter-a-9a325185-1505-45e3-b029-29402f1d9d83#ref=rss)
-### fünfter
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter](https://www.spiegel.de/sport/wintersport/vierschanzentournee-ryoyu-kobayashi-gewinnt-in-oberstdorf-karl-geiger-fuenfter-a-9a325185-1505-45e3-b029-29402f1d9d83#ref=rss)
-### rechte
-
-* [https://www.spiegel.de/ausland/usa-ernennen-rina-amiri-als-sondergesandte-fuer-rechte-von-frauen-in-afghanistan](https://www.spiegel.de/ausland/usa-ernennen-rina-amiri-als-sondergesandte-fuer-rechte-von-frauen-in-afghanistan-a-4fbd4f13-f535-43cd-a831-c238876e9a96#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/ausland/usa-ernennen-rina-amiri-als-sondergesandte-fuer-rechte-von-frauen-in-afghanistan](https://www.spiegel.de/ausland/usa-ernennen-rina-amiri-als-sondergesandte-fuer-rechte-von-frauen-in-afghanistan-a-4fbd4f13-f535-43cd-a831-c238876e9a96#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/sport/wintersport/olympia-2022-in-peking-warum-sprinterin-alexandra-burghardt-nun-im-bob-mit-mariama-jamanka-startet](https://www.spiegel.de/sport/wintersport/olympia-2022-in-peking-warum-sprinterin-alexandra-burghardt-nun-im-bob-mit-mariama-jamanka-startet-a-88690f6c-0271-4a7a-bb1f-327b73fd6c51#ref=rss)
-### alexandra
-
-* [https://www.spiegel.de/sport/wintersport/olympia-2022-in-peking-warum-sprinterin-alexandra-burghardt-nun-im-bob-mit-mariama-jamanka-startet](https://www.spiegel.de/sport/wintersport/olympia-2022-in-peking-warum-sprinterin-alexandra-burghardt-nun-im-bob-mit-mariama-jamanka-startet-a-88690f6c-0271-4a7a-bb1f-327b73fd6c51#ref=rss)
-### burghardt
-
-* [https://www.spiegel.de/sport/wintersport/olympia-2022-in-peking-warum-sprinterin-alexandra-burghardt-nun-im-bob-mit-mariama-jamanka-startet](https://www.spiegel.de/sport/wintersport/olympia-2022-in-peking-warum-sprinterin-alexandra-burghardt-nun-im-bob-mit-mariama-jamanka-startet-a-88690f6c-0271-4a7a-bb1f-327b73fd6c51#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/wintersport/olympia-2022-in-peking-warum-sprinterin-alexandra-burghardt-nun-im-bob-mit-mariama-jamanka-startet](https://www.spiegel.de/sport/wintersport/olympia-2022-in-peking-warum-sprinterin-alexandra-burghardt-nun-im-bob-mit-mariama-jamanka-startet-a-88690f6c-0271-4a7a-bb1f-327b73fd6c51#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab](https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab-a-885cc662-b76f-42cd-977e-8891e072f113#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle](https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle-a-7c0cfe57-1c51-4c56-bfce-d5c33e3a5a57#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nord-stream-2-wladimir-putin-erhoeht-druck-auf-deutschland](https://www.spiegel.de/wirtschaft/nord-stream-2-wladimir-putin-erhoeht-druck-auf-deutschland-a-ce44f777-b3b3-44b3-8e4a-a0a81e49f38a#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle](https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle-a-7c0cfe57-1c51-4c56-bfce-d5c33e3a5a57#ref=rss)
-### verhältnis
-
-* [https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle](https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle-a-7c0cfe57-1c51-4c56-bfce-d5c33e3a5a57#ref=rss)
-* [https://www.spiegel.de/auto/gebrauchtwagen-mit-rekordpreisen-diesel-wagen-werden-teurer-elektroautos-eher-nicht](https://www.spiegel.de/auto/gebrauchtwagen-mit-rekordpreisen-diesel-wagen-werden-teurer-elektroautos-eher-nicht-a-9a5f72df-0a8d-4e89-abc7-34343de8c4ce#ref=rss)
-### meisten
-
-* [https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle](https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle-a-7c0cfe57-1c51-4c56-bfce-d5c33e3a5a57#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-internes-papier-zeigt-was-sich-die-eu-staaten-wuenschen](https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-internes-papier-zeigt-was-sich-die-eu-staaten-wuenschen-a-8ba7be94-2ecd-41d5-8ae4-aad12a7b1325#ref=rss)
-### schleswigholstein
-
-* [https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle](https://www.spiegel.de/wissenschaft/omikron-in-deutschland-hamburg-hat-im-verhaeltnis-zur-einwohnerzahl-die-meisten-faelle-a-7c0cfe57-1c51-4c56-bfce-d5c33e3a5a57#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken](https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken-a-abf813a2-a65f-4207-89ea-bf0bd3d3e59a#ref=rss)
-### vorratsdatenspeicherung
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-internes-papier-zeigt-was-sich-die-eu-staaten-wuenschen](https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-internes-papier-zeigt-was-sich-die-eu-staaten-wuenschen-a-8ba7be94-2ecd-41d5-8ae4-aad12a7b1325#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-internes-papier-zeigt-was-sich-die-eu-staaten-wuenschen](https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-internes-papier-zeigt-was-sich-die-eu-staaten-wuenschen-a-8ba7be94-2ecd-41d5-8ae4-aad12a7b1325#ref=rss)
-* [https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab](https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab-a-885cc662-b76f-42cd-977e-8891e072f113#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-internes-papier-zeigt-was-sich-die-eu-staaten-wuenschen](https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-internes-papier-zeigt-was-sich-die-eu-staaten-wuenschen-a-8ba7be94-2ecd-41d5-8ae4-aad12a7b1325#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig](https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig-a-f4ad3772-0ebe-4366-ac64-8c9056d729fe#ref=rss)
-### konzerne
-
-* [https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab](https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab-a-885cc662-b76f-42cd-977e-8891e072f113#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab](https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab-a-885cc662-b76f-42cd-977e-8891e072f113#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken](https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken-a-abf813a2-a65f-4207-89ea-bf0bd3d3e59a#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab](https://www.spiegel.de/wirtschaft/boerse-us-firmen-haengen-europaeische-konkurrenten-ab-a-885cc662-b76f-42cd-977e-8891e072f113#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/claudia-roth-nennt-memorial-aufloesung-massive-schlaege-gegen-die-russische-zivilgesellschaft](https://www.spiegel.de/politik/deutschland/claudia-roth-nennt-memorial-aufloesung-massive-schlaege-gegen-die-russische-zivilgesellschaft-a-53b5f2d8-14b2-4de0-8c29-57c7f5dd422b#ref=rss)
-### spinne
-
-* [https://www.spiegel.de/panorama/georgsmarienhuette-spinne-beisst-mitarbeiter-supermarkt-geraeumt](https://www.spiegel.de/panorama/georgsmarienhuette-spinne-beisst-mitarbeiter-supermarkt-geraeumt-a-050d5ded-688a-4864-8fd8-e6bf3a22ba38#ref=rss)
-### mitarbeiter
-
-* [https://www.spiegel.de/panorama/georgsmarienhuette-spinne-beisst-mitarbeiter-supermarkt-geraeumt](https://www.spiegel.de/panorama/georgsmarienhuette-spinne-beisst-mitarbeiter-supermarkt-geraeumt-a-050d5ded-688a-4864-8fd8-e6bf3a22ba38#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus](https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus-a-f171f8ed-fb62-41f2-843a-208adda25ed8#ref=rss)
-### krankenhaus
-
-* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus](https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus-a-f171f8ed-fb62-41f2-843a-208adda25ed8#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus](https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus-a-f171f8ed-fb62-41f2-843a-208adda25ed8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/christian-drosten-virologe-macht-auf-twitter-sarkastische-bemerkung-ueber-impfgegner](https://www.spiegel.de/panorama/leute/christian-drosten-virologe-macht-auf-twitter-sarkastische-bemerkung-ueber-impfgegner-a-8c8f85a5-ca71-4ae0-8c0e-c98f9fa66269#ref=rss)
-### zwingend
-
-* [https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus](https://www.spiegel.de/wissenschaft/medizin/omikron-in-den-usa-muessen-mehr-kinder-mit-covid-ins-krankenhaus-a-f171f8ed-fb62-41f2-843a-208adda25ed8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig](https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig-a-f4ad3772-0ebe-4366-ac64-8c9056d729fe#ref=rss)
-### fürs
-
-* [https://www.spiegel.de/start/persoenlicher-jahresrueckblick-fuers-studium-drei-strategien](https://www.spiegel.de/start/persoenlicher-jahresrueckblick-fuers-studium-drei-strategien-a-1ffeae67-294f-4603-83a5-d83597b39027#ref=rss)
-### wichtige
-
-* [https://www.spiegel.de/start/persoenlicher-jahresrueckblick-fuers-studium-drei-strategien](https://www.spiegel.de/start/persoenlicher-jahresrueckblick-fuers-studium-drei-strategien-a-1ffeae67-294f-4603-83a5-d83597b39027#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig](https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig-a-f4ad3772-0ebe-4366-ac64-8c9056d729fe#ref=rss)
-### nord
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-2-wladimir-putin-erhoeht-druck-auf-deutschland](https://www.spiegel.de/wirtschaft/nord-stream-2-wladimir-putin-erhoeht-druck-auf-deutschland-a-ce44f777-b3b3-44b3-8e4a-a0a81e49f38a#ref=rss)
-### stream
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-2-wladimir-putin-erhoeht-druck-auf-deutschland](https://www.spiegel.de/wirtschaft/nord-stream-2-wladimir-putin-erhoeht-druck-auf-deutschland-a-ce44f777-b3b3-44b3-8e4a-a0a81e49f38a#ref=rss)
-### 2
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-2-wladimir-putin-erhoeht-druck-auf-deutschland](https://www.spiegel.de/wirtschaft/nord-stream-2-wladimir-putin-erhoeht-druck-auf-deutschland-a-ce44f777-b3b3-44b3-8e4a-a0a81e49f38a#ref=rss)
-### putin
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-2-wladimir-putin-erhoeht-druck-auf-deutschland](https://www.spiegel.de/wirtschaft/nord-stream-2-wladimir-putin-erhoeht-druck-auf-deutschland-a-ce44f777-b3b3-44b3-8e4a-a0a81e49f38a#ref=rss)
-### küken
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-reichtum-toetungsverbot-fuer-kueken-75-jahre-spiegel](https://www.spiegel.de/politik/deutschland/news-des-tages-reichtum-toetungsverbot-fuer-kueken-75-jahre-spiegel-a-ca225ad3-5e1b-4a4c-bea7-b3a2276f976b#ref=rss)
-### 75
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-reichtum-toetungsverbot-fuer-kueken-75-jahre-spiegel](https://www.spiegel.de/politik/deutschland/news-des-tages-reichtum-toetungsverbot-fuer-kueken-75-jahre-spiegel-a-ca225ad3-5e1b-4a4c-bea7-b3a2276f976b#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-reichtum-toetungsverbot-fuer-kueken-75-jahre-spiegel](https://www.spiegel.de/politik/deutschland/news-des-tages-reichtum-toetungsverbot-fuer-kueken-75-jahre-spiegel-a-ca225ad3-5e1b-4a4c-bea7-b3a2276f976b#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-reichtum-toetungsverbot-fuer-kueken-75-jahre-spiegel](https://www.spiegel.de/politik/deutschland/news-des-tages-reichtum-toetungsverbot-fuer-kueken-75-jahre-spiegel-a-ca225ad3-5e1b-4a4c-bea7-b3a2276f976b#ref=rss)
-* [https://www.spiegel.de/kultur/sabine-weiss-fotografin-ist-tot-vertreterin-der-humanistischen-fotografie](https://www.spiegel.de/kultur/sabine-weiss-fotografin-ist-tot-vertreterin-der-humanistischen-fotografie-a-e5f48e80-14dd-4b59-a947-46b5f26727c1#ref=rss)
-### claudia
-
-* [https://www.spiegel.de/politik/deutschland/claudia-roth-nennt-memorial-aufloesung-massive-schlaege-gegen-die-russische-zivilgesellschaft](https://www.spiegel.de/politik/deutschland/claudia-roth-nennt-memorial-aufloesung-massive-schlaege-gegen-die-russische-zivilgesellschaft-a-53b5f2d8-14b2-4de0-8c29-57c7f5dd422b#ref=rss)
-### roth
-
-* [https://www.spiegel.de/politik/deutschland/claudia-roth-nennt-memorial-aufloesung-massive-schlaege-gegen-die-russische-zivilgesellschaft](https://www.spiegel.de/politik/deutschland/claudia-roth-nennt-memorial-aufloesung-massive-schlaege-gegen-die-russische-zivilgesellschaft-a-53b5f2d8-14b2-4de0-8c29-57c7f5dd422b#ref=rss)
-### russische
-
-* [https://www.spiegel.de/politik/deutschland/claudia-roth-nennt-memorial-aufloesung-massive-schlaege-gegen-die-russische-zivilgesellschaft](https://www.spiegel.de/politik/deutschland/claudia-roth-nennt-memorial-aufloesung-massive-schlaege-gegen-die-russische-zivilgesellschaft-a-53b5f2d8-14b2-4de0-8c29-57c7f5dd422b#ref=rss)
-### luke
-
-* [https://www.spiegel.de/kultur/luke-mockridge-und-ines-anioli-wie-wir-fuer-unsere-berichterstattung-kaempfen](https://www.spiegel.de/kultur/luke-mockridge-und-ines-anioli-wie-wir-fuer-unsere-berichterstattung-kaempfen-a-f1b6678a-366a-43d7-b040-2580d31fb232#ref=rss)
-### mockridge
-
-* [https://www.spiegel.de/kultur/luke-mockridge-und-ines-anioli-wie-wir-fuer-unsere-berichterstattung-kaempfen](https://www.spiegel.de/kultur/luke-mockridge-und-ines-anioli-wie-wir-fuer-unsere-berichterstattung-kaempfen-a-f1b6678a-366a-43d7-b040-2580d31fb232#ref=rss)
-### lehrermangel
-
-* [https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken](https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken-a-abf813a2-a65f-4207-89ea-bf0bd3d3e59a#ref=rss)
-### karin
-
-* [https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken](https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken-a-abf813a2-a65f-4207-89ea-bf0bd3d3e59a#ref=rss)
-### prien
-
-* [https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken](https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken-a-abf813a2-a65f-4207-89ea-bf0bd3d3e59a#ref=rss)
-### naturwissenschaftler
-
-* [https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken](https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken-a-abf813a2-a65f-4207-89ea-bf0bd3d3e59a#ref=rss)
-### andere
-
-* [https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken](https://www.spiegel.de/panorama/bildung/lehrermangel-naechste-kmk-praesidentin-karin-prien-will-naturwissenschaftler-in-die-schulen-locken-a-abf813a2-a65f-4207-89ea-bf0bd3d3e59a#ref=rss)
-* [https://www.spiegel.de/auto/gebrauchtwagen-mit-rekordpreisen-diesel-wagen-werden-teurer-elektroautos-eher-nicht](https://www.spiegel.de/auto/gebrauchtwagen-mit-rekordpreisen-diesel-wagen-werden-teurer-elektroautos-eher-nicht-a-9a5f72df-0a8d-4e89-abc7-34343de8c4ce#ref=rss)
-### olli
-
-* [https://www.spiegel.de/kultur/tv/olli-dittrich-ich-war-angela-merkel-das-zahlemann-protokoll](https://www.spiegel.de/kultur/tv/olli-dittrich-ich-war-angela-merkel-das-zahlemann-protokoll-a-b017b046-7706-4c36-b8c2-54cca96d6ee7#ref=rss)
-### dittrich
-
-* [https://www.spiegel.de/kultur/tv/olli-dittrich-ich-war-angela-merkel-das-zahlemann-protokoll](https://www.spiegel.de/kultur/tv/olli-dittrich-ich-war-angela-merkel-das-zahlemann-protokoll-a-b017b046-7706-4c36-b8c2-54cca96d6ee7#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/kultur/tv/olli-dittrich-ich-war-angela-merkel-das-zahlemann-protokoll](https://www.spiegel.de/kultur/tv/olli-dittrich-ich-war-angela-merkel-das-zahlemann-protokoll-a-b017b046-7706-4c36-b8c2-54cca96d6ee7#ref=rss)
-* [https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an](https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an-a-74200448-01eb-471d-af5e-f284539ec535#ref=rss)
-### cdu
+* [https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden](https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden-a-30d756b8-b2a5-4512-a89b-a9a810b18106#ref=rss)
+* [https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab](https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab-a-cbae415a-2bc1-4dd8-b87e-1f5729c02ccb#ref=rss)
+* [https://www.spiegel.de/ausland/tigray-ich-hatte-bei-jedem-interview-traenen-in-den-augen](https://www.spiegel.de/ausland/tigray-ich-hatte-bei-jedem-interview-traenen-in-den-augen-a-8e3c22b8-1eaa-430b-a040-b7c509f6994f#ref=rss)
+### januar
 
-* [https://www.spiegel.de/kultur/tv/olli-dittrich-ich-war-angela-merkel-das-zahlemann-protokoll](https://www.spiegel.de/kultur/tv/olli-dittrich-ich-war-angela-merkel-das-zahlemann-protokoll-a-b017b046-7706-4c36-b8c2-54cca96d6ee7#ref=rss)
-* [https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an](https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an-a-74200448-01eb-471d-af5e-f284539ec535#ref=rss)
-### fotografie
+* [https://www.spiegel.de/politik/deutschland/corona-virus-italien-und-kanada-werden-ab-januar-zu-hochrisikogebieten](https://www.spiegel.de/politik/deutschland/corona-virus-italien-und-kanada-werden-ab-januar-zu-hochrisikogebieten-a-791c5c92-518c-45d0-a534-356aeb9e2172#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/corona-und-praesenzunterricht-fachleute-fordern-dringend-konzepte-fuer-schulen-in-omikron-welle](https://www.spiegel.de/panorama/bildung/corona-und-praesenzunterricht-fachleute-fordern-dringend-konzepte-fuer-schulen-in-omikron-welle-a-253b585e-0b9d-40c4-a60f-90b1598b534f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen](https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen-a-57c948ec-f1d2-4210-8587-ea99b3130afa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/brexit-britischer-verband-warnt-vor-engpaessen-bei-lebensmitteln](https://www.spiegel.de/wirtschaft/brexit-britischer-verband-warnt-vor-engpaessen-bei-lebensmitteln-a-0170add8-2d1d-4555-8151-a719a0329fc5#ref=rss)
+### ghislaine
 
-* [https://www.spiegel.de/wissenschaft/technik/fotografie-auf-der-jagd-nach-der-perfekten-schneeflocke](https://www.spiegel.de/wissenschaft/technik/fotografie-auf-der-jagd-nach-der-perfekten-schneeflocke-a-66d6b4c6-50b5-4952-8c18-94f75e43fb36#ref=rss)
-* [https://www.spiegel.de/kultur/sabine-weiss-fotografin-ist-tot-vertreterin-der-humanistischen-fotografie](https://www.spiegel.de/kultur/sabine-weiss-fotografin-ist-tot-vertreterin-der-humanistischen-fotografie-a-e5f48e80-14dd-4b59-a947-46b5f26727c1#ref=rss)
-### schneeflocke
+* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwells-familie-will-gegen-urteil-in-berufung-gehen](https://www.spiegel.de/panorama/justiz/ghislaine-maxwells-familie-will-gegen-urteil-in-berufung-gehen-a-5904d03a-d051-45d5-81c4-ea5aba727ee5#ref=rss)
+* [https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen](https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen-a-05efbc9e-d312-4154-82b7-4afe298a54a2#ref=rss)
+### maxwell
 
-* [https://www.spiegel.de/wissenschaft/technik/fotografie-auf-der-jagd-nach-der-perfekten-schneeflocke](https://www.spiegel.de/wissenschaft/technik/fotografie-auf-der-jagd-nach-der-perfekten-schneeflocke-a-66d6b4c6-50b5-4952-8c18-94f75e43fb36#ref=rss)
-### fc
+* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwells-familie-will-gegen-urteil-in-berufung-gehen](https://www.spiegel.de/panorama/justiz/ghislaine-maxwells-familie-will-gegen-urteil-in-berufung-gehen-a-5904d03a-d051-45d5-81c4-ea5aba727ee5#ref=rss)
+* [https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen](https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen-a-05efbc9e-d312-4154-82b7-4afe298a54a2#ref=rss)
+### gut
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-oliver-kahn-bestaetigt-ermittlungen-nach-medienbericht](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-oliver-kahn-bestaetigt-ermittlungen-nach-medienbericht-a-fed2096d-a2af-4b88-90a4-15953b1f626b#ref=rss)
-### bayern
+* [https://www.spiegel.de/sport/tischtennis-timo-boll-wie-kann-man-mit-40-noch-so-gut-sein](https://www.spiegel.de/sport/tischtennis-timo-boll-wie-kann-man-mit-40-noch-so-gut-sein-a-c69e521e-4f84-4262-ae01-fda957ffbfeb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-f4e3b710-071f-4c6c-bf7d-eae23e2937bf#ref=rss)
+* [https://www.spiegel.de/panorama/jahresrueckblick-2021-im-ultimativen-quiz](https://www.spiegel.de/panorama/jahresrueckblick-2021-im-ultimativen-quiz-a-7c167a3a-492b-4018-909e-62ef329b7dd3#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-oliver-kahn-bestaetigt-ermittlungen-nach-medienbericht](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-oliver-kahn-bestaetigt-ermittlungen-nach-medienbericht-a-fed2096d-a2af-4b88-90a4-15953b1f626b#ref=rss)
-### oliver
+* [https://www.spiegel.de/sport/tischtennis-timo-boll-wie-kann-man-mit-40-noch-so-gut-sein](https://www.spiegel.de/sport/tischtennis-timo-boll-wie-kann-man-mit-40-noch-so-gut-sein-a-c69e521e-4f84-4262-ae01-fda957ffbfeb#ref=rss)
+* [https://www.spiegel.de/sport/john-madden-zum-tod-der-nfl-legende-er-war-football](https://www.spiegel.de/sport/john-madden-zum-tod-der-nfl-legende-er-war-football-a-358a752d-3cf4-441e-bd5c-862de1bea854#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/9-11-hamburg-konzentriert-sich-20-jahre-danach-erneut-auf-islamistische-szene](https://www.spiegel.de/politik/deutschland/9-11-hamburg-konzentriert-sich-20-jahre-danach-erneut-auf-islamistische-szene-a-750d07c5-65cf-4781-acd5-b4e4319362c4#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-oliver-kahn-bestaetigt-ermittlungen-nach-medienbericht](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-oliver-kahn-bestaetigt-ermittlungen-nach-medienbericht-a-fed2096d-a2af-4b88-90a4-15953b1f626b#ref=rss)
-### kahn
+* [https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden](https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden-a-30d756b8-b2a5-4512-a89b-a9a810b18106#ref=rss)
+* [https://www.spiegel.de/sport/topspieler-schliessen-abbruch-der-darts-wm-nicht-mehr-aus](https://www.spiegel.de/sport/topspieler-schliessen-abbruch-der-darts-wm-nicht-mehr-aus-a-253a41e3-95da-447b-aad1-04a6384d2dad#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-f4e3b710-071f-4c6c-bf7d-eae23e2937bf#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-oliver-kahn-bestaetigt-ermittlungen-nach-medienbericht](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-oliver-kahn-bestaetigt-ermittlungen-nach-medienbericht-a-fed2096d-a2af-4b88-90a4-15953b1f626b#ref=rss)
-### ermittlungen
+* [https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden](https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden-a-30d756b8-b2a5-4512-a89b-a9a810b18106#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/lebensmittel-warum-die-preise-viel-staerker-steigen-als-die-grundsicherung](https://www.spiegel.de/wirtschaft/soziales/lebensmittel-warum-die-preise-viel-staerker-steigen-als-die-grundsicherung-a-5b8fda08-a6fb-4a30-ba94-edd673306203#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021](https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021-a-e9270a66-3b2f-4111-89cd-5e8084c66d18#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-oliver-kahn-bestaetigt-ermittlungen-nach-medienbericht](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-oliver-kahn-bestaetigt-ermittlungen-nach-medienbericht-a-fed2096d-a2af-4b88-90a4-15953b1f626b#ref=rss)
-### thorsten
+* [https://www.spiegel.de/ausland/jordanien-abgeordnete-pruegeln-sich-wegen-frauenrechten](https://www.spiegel.de/ausland/jordanien-abgeordnete-pruegeln-sich-wegen-frauenrechten-a-ca9ed78f-a0ec-45ff-b040-9c2b4f99ae21#ref=rss)
+* [https://www.spiegel.de/ausland/tigray-ich-hatte-bei-jedem-interview-traenen-in-den-augen](https://www.spiegel.de/ausland/tigray-ich-hatte-bei-jedem-interview-traenen-in-den-augen-a-8e3c22b8-1eaa-430b-a040-b7c509f6994f#ref=rss)
+* [https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen](https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen-a-05efbc9e-d312-4154-82b7-4afe298a54a2#ref=rss)
+### kurz
 
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig](https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig-a-f4ad3772-0ebe-4366-ac64-8c9056d729fe#ref=rss)
-### frei
+* [https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab](https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab-a-cbae415a-2bc1-4dd8-b87e-1f5729c02ccb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/oesterreichs-ex-kanzler-kurz-uebernimmt-offenbar-posten-bei-techinvestor-peter-thiel](https://www.spiegel.de/wirtschaft/unternehmen/oesterreichs-ex-kanzler-kurz-uebernimmt-offenbar-posten-bei-techinvestor-peter-thiel-a-d1402afa-cb5a-4d70-b3ad-76e20f26bd17#ref=rss)
+### erst
 
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig](https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig-a-f4ad3772-0ebe-4366-ac64-8c9056d729fe#ref=rss)
-### impfregister
+* [https://www.spiegel.de/wissenschaft/coronavirus-wie-ein-leser-dank-spiegel-grafik-zur-boosterimpfung-kam](https://www.spiegel.de/wissenschaft/coronavirus-wie-ein-leser-dank-spiegel-grafik-zur-boosterimpfung-kam-a-6fe972c2-476d-46fe-aed3-3a7ea602d700#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/corona-und-praesenzunterricht-fachleute-fordern-dringend-konzepte-fuer-schulen-in-omikron-welle](https://www.spiegel.de/panorama/bildung/corona-und-praesenzunterricht-fachleute-fordern-dringend-konzepte-fuer-schulen-in-omikron-welle-a-253b585e-0b9d-40c4-a60f-90b1598b534f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/felix-zwayer-schiedsrichter-wird-vorerst-keine-bvb-spiele-pfeifen](https://www.spiegel.de/sport/fussball/felix-zwayer-schiedsrichter-wird-vorerst-keine-bvb-spiele-pfeifen-a-fe394efb-4480-4de8-9b33-bd2ff9e8f269#ref=rss)
+### urteil
 
-* [https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig](https://www.spiegel.de/politik/deutschland/corona-pandemie-cdu-politiker-thorsten-frei-haelt-impfregister-fuer-zwingend-notwendig-a-f4ad3772-0ebe-4366-ac64-8c9056d729fe#ref=rss)
-### christian
+* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwells-familie-will-gegen-urteil-in-berufung-gehen](https://www.spiegel.de/panorama/justiz/ghislaine-maxwells-familie-will-gegen-urteil-in-berufung-gehen-a-5904d03a-d051-45d5-81c4-ea5aba727ee5#ref=rss)
+* [https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen](https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen-a-05efbc9e-d312-4154-82b7-4afe298a54a2#ref=rss)
+### corona
 
-* [https://www.spiegel.de/panorama/leute/christian-drosten-virologe-macht-auf-twitter-sarkastische-bemerkung-ueber-impfgegner](https://www.spiegel.de/panorama/leute/christian-drosten-virologe-macht-auf-twitter-sarkastische-bemerkung-ueber-impfgegner-a-8c8f85a5-ca71-4ae0-8c0e-c98f9fa66269#ref=rss)
-### drosten
+* [https://www.spiegel.de/panorama/bildung/corona-und-praesenzunterricht-fachleute-fordern-dringend-konzepte-fuer-schulen-in-omikron-welle](https://www.spiegel.de/panorama/bildung/corona-und-praesenzunterricht-fachleute-fordern-dringend-konzepte-fuer-schulen-in-omikron-welle-a-253b585e-0b9d-40c4-a60f-90b1598b534f#ref=rss)
+* [https://www.spiegel.de/panorama/jahresrueckblick-2021-im-ultimativen-quiz](https://www.spiegel.de/panorama/jahresrueckblick-2021-im-ultimativen-quiz-a-7c167a3a-492b-4018-909e-62ef329b7dd3#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021](https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021-a-e9270a66-3b2f-4111-89cd-5e8084c66d18#ref=rss)
+### augen
 
-* [https://www.spiegel.de/panorama/leute/christian-drosten-virologe-macht-auf-twitter-sarkastische-bemerkung-ueber-impfgegner](https://www.spiegel.de/panorama/leute/christian-drosten-virologe-macht-auf-twitter-sarkastische-bemerkung-ueber-impfgegner-a-8c8f85a5-ca71-4ae0-8c0e-c98f9fa66269#ref=rss)
-### virologe
+* [https://www.spiegel.de/ausland/tigray-ich-hatte-bei-jedem-interview-traenen-in-den-augen](https://www.spiegel.de/ausland/tigray-ich-hatte-bei-jedem-interview-traenen-in-den-augen-a-8e3c22b8-1eaa-430b-a040-b7c509f6994f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen](https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen-a-57c948ec-f1d2-4210-8587-ea99b3130afa#ref=rss)
+### 2021
 
-* [https://www.spiegel.de/panorama/leute/christian-drosten-virologe-macht-auf-twitter-sarkastische-bemerkung-ueber-impfgegner](https://www.spiegel.de/panorama/leute/christian-drosten-virologe-macht-auf-twitter-sarkastische-bemerkung-ueber-impfgegner-a-8c8f85a5-ca71-4ae0-8c0e-c98f9fa66269#ref=rss)
-### bautzen
+* [https://www.spiegel.de/panorama/jahresrueckblick-2021-im-ultimativen-quiz](https://www.spiegel.de/panorama/jahresrueckblick-2021-im-ultimativen-quiz-a-7c167a3a-492b-4018-909e-62ef329b7dd3#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021](https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021-a-e9270a66-3b2f-4111-89cd-5e8084c66d18#ref=rss)
+### lisbeth
 
-* [https://www.spiegel.de/panorama/justiz/bautzen-beamte-sollen-teilnehmer-von-coronademo-getreten-haben-polizei-ermittelt](https://www.spiegel.de/panorama/justiz/bautzen-beamte-sollen-teilnehmer-von-coronademo-getreten-haben-polizei-ermittelt-a-1d9d4eff-7060-4425-b781-36ddd0b2e72e#ref=rss)
-### teilnehmer
+* [https://www.spiegel.de/netzwelt/apps/lisbeth-lissi-kroemer-93-jaehriger-tiktok-star-ist-tot](https://www.spiegel.de/netzwelt/apps/lisbeth-lissi-kroemer-93-jaehriger-tiktok-star-ist-tot-a-3f075605-a9aa-4718-81a9-72ef98a27a78#ref=rss)
+### lissi
 
-* [https://www.spiegel.de/panorama/justiz/bautzen-beamte-sollen-teilnehmer-von-coronademo-getreten-haben-polizei-ermittelt](https://www.spiegel.de/panorama/justiz/bautzen-beamte-sollen-teilnehmer-von-coronademo-getreten-haben-polizei-ermittelt-a-1d9d4eff-7060-4425-b781-36ddd0b2e72e#ref=rss)
-### coronademo
+* [https://www.spiegel.de/netzwelt/apps/lisbeth-lissi-kroemer-93-jaehriger-tiktok-star-ist-tot](https://www.spiegel.de/netzwelt/apps/lisbeth-lissi-kroemer-93-jaehriger-tiktok-star-ist-tot-a-3f075605-a9aa-4718-81a9-72ef98a27a78#ref=rss)
+### krömer
 
-* [https://www.spiegel.de/panorama/justiz/bautzen-beamte-sollen-teilnehmer-von-coronademo-getreten-haben-polizei-ermittelt](https://www.spiegel.de/panorama/justiz/bautzen-beamte-sollen-teilnehmer-von-coronademo-getreten-haben-polizei-ermittelt-a-1d9d4eff-7060-4425-b781-36ddd0b2e72e#ref=rss)
-### polizei
+* [https://www.spiegel.de/netzwelt/apps/lisbeth-lissi-kroemer-93-jaehriger-tiktok-star-ist-tot](https://www.spiegel.de/netzwelt/apps/lisbeth-lissi-kroemer-93-jaehriger-tiktok-star-ist-tot-a-3f075605-a9aa-4718-81a9-72ef98a27a78#ref=rss)
+### übers
 
-* [https://www.spiegel.de/panorama/justiz/bautzen-beamte-sollen-teilnehmer-von-coronademo-getreten-haben-polizei-ermittelt](https://www.spiegel.de/panorama/justiz/bautzen-beamte-sollen-teilnehmer-von-coronademo-getreten-haben-polizei-ermittelt-a-1d9d4eff-7060-4425-b781-36ddd0b2e72e#ref=rss)
-* [https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an](https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an-a-74200448-01eb-471d-af5e-f284539ec535#ref=rss)
-### lebron
+* [https://www.spiegel.de/netzwelt/apps/lisbeth-lissi-kroemer-93-jaehriger-tiktok-star-ist-tot](https://www.spiegel.de/netzwelt/apps/lisbeth-lissi-kroemer-93-jaehriger-tiktok-star-ist-tot-a-3f075605-a9aa-4718-81a9-72ef98a27a78#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen](https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen-a-57c948ec-f1d2-4210-8587-ea99b3130afa#ref=rss)
+### geworden
 
-* [https://www.spiegel.de/sport/basketball/nba-lebron-james-wegen-umstrittenem-corona-post-in-der-kritik](https://www.spiegel.de/sport/basketball/nba-lebron-james-wegen-umstrittenem-corona-post-in-der-kritik-a-9b1ebc23-4848-4a60-88ca-0536bc73457b#ref=rss)
-### studierende
+* [https://www.spiegel.de/netzwelt/apps/lisbeth-lissi-kroemer-93-jaehriger-tiktok-star-ist-tot](https://www.spiegel.de/netzwelt/apps/lisbeth-lissi-kroemer-93-jaehriger-tiktok-star-ist-tot-a-3f075605-a9aa-4718-81a9-72ef98a27a78#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021](https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021-a-e9270a66-3b2f-4111-89cd-5e8084c66d18#ref=rss)
+### wolfgang
 
-* [https://www.spiegel.de/panorama/bildung/frankreich-studierende-muessen-praesenzpruefungen-ablegen-trotz-corona](https://www.spiegel.de/panorama/bildung/frankreich-studierende-muessen-praesenzpruefungen-ablegen-trotz-corona-a-bdaa2ab6-e362-46e7-ac6b-7e11b2277be2#ref=rss)
-### präsenzprüfungen
+* [https://www.spiegel.de/wirtschaft/wolfgang-joop-was-wir-aus-dem-shitstorm-nach-dem-spiegel-gespraech-gelernt-haben](https://www.spiegel.de/wirtschaft/wolfgang-joop-was-wir-aus-dem-shitstorm-nach-dem-spiegel-gespraech-gelernt-haben-a-f57395dc-8090-4858-9412-1d935ccf9838#ref=rss)
+### joop
 
-* [https://www.spiegel.de/panorama/bildung/frankreich-studierende-muessen-praesenzpruefungen-ablegen-trotz-corona](https://www.spiegel.de/panorama/bildung/frankreich-studierende-muessen-praesenzpruefungen-ablegen-trotz-corona-a-bdaa2ab6-e362-46e7-ac6b-7e11b2277be2#ref=rss)
-### armin
+* [https://www.spiegel.de/wirtschaft/wolfgang-joop-was-wir-aus-dem-shitstorm-nach-dem-spiegel-gespraech-gelernt-haben](https://www.spiegel.de/wirtschaft/wolfgang-joop-was-wir-aus-dem-shitstorm-nach-dem-spiegel-gespraech-gelernt-haben-a-f57395dc-8090-4858-9412-1d935ccf9838#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an](https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an-a-74200448-01eb-471d-af5e-f284539ec535#ref=rss)
-### laschet
+* [https://www.spiegel.de/wirtschaft/wolfgang-joop-was-wir-aus-dem-shitstorm-nach-dem-spiegel-gespraech-gelernt-haben](https://www.spiegel.de/wirtschaft/wolfgang-joop-was-wir-aus-dem-shitstorm-nach-dem-spiegel-gespraech-gelernt-haben-a-f57395dc-8090-4858-9412-1d935ccf9838#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-wie-ein-leser-dank-spiegel-grafik-zur-boosterimpfung-kam](https://www.spiegel.de/wissenschaft/coronavirus-wie-ein-leser-dank-spiegel-grafik-zur-boosterimpfung-kam-a-6fe972c2-476d-46fe-aed3-3a7ea602d700#ref=rss)
+### joachim
 
-* [https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an](https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an-a-74200448-01eb-471d-af5e-f284539ec535#ref=rss)
-### kanzlerkandidaten
+* [https://www.spiegel.de/politik/deutschland/joachim-herrmann-bayerns-innenminister-csu-spricht-von-rechter-unterwanderung](https://www.spiegel.de/politik/deutschland/joachim-herrmann-bayerns-innenminister-csu-spricht-von-rechter-unterwanderung-a-a858934b-8029-42fb-b5b8-9eb2c65d8982#ref=rss)
+### herrmann
 
-* [https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an](https://www.spiegel.de/panorama/armin-laschet-cdu-am-ende-setzten-die-personenschuetzer-des-kanzlerkandidaten-die-polizei-auf-mich-an-a-74200448-01eb-471d-af5e-f284539ec535#ref=rss)
-### sabine
+* [https://www.spiegel.de/politik/deutschland/joachim-herrmann-bayerns-innenminister-csu-spricht-von-rechter-unterwanderung](https://www.spiegel.de/politik/deutschland/joachim-herrmann-bayerns-innenminister-csu-spricht-von-rechter-unterwanderung-a-a858934b-8029-42fb-b5b8-9eb2c65d8982#ref=rss)
+### macht
 
-* [https://www.spiegel.de/kultur/sabine-weiss-fotografin-ist-tot-vertreterin-der-humanistischen-fotografie](https://www.spiegel.de/kultur/sabine-weiss-fotografin-ist-tot-vertreterin-der-humanistischen-fotografie-a-e5f48e80-14dd-4b59-a947-46b5f26727c1#ref=rss)
-### weiss
+* [https://www.spiegel.de/politik/deutschland/joachim-herrmann-bayerns-innenminister-csu-spricht-von-rechter-unterwanderung](https://www.spiegel.de/politik/deutschland/joachim-herrmann-bayerns-innenminister-csu-spricht-von-rechter-unterwanderung-a-a858934b-8029-42fb-b5b8-9eb2c65d8982#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen](https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen-a-57c948ec-f1d2-4210-8587-ea99b3130afa#ref=rss)
+### coronavirus
 
-* [https://www.spiegel.de/kultur/sabine-weiss-fotografin-ist-tot-vertreterin-der-humanistischen-fotografie](https://www.spiegel.de/kultur/sabine-weiss-fotografin-ist-tot-vertreterin-der-humanistischen-fotografie-a-e5f48e80-14dd-4b59-a947-46b5f26727c1#ref=rss)
-### fotografin
+* [https://www.spiegel.de/politik/deutschland/corona-virus-italien-und-kanada-werden-ab-januar-zu-hochrisikogebieten](https://www.spiegel.de/politik/deutschland/corona-virus-italien-und-kanada-werden-ab-januar-zu-hochrisikogebieten-a-791c5c92-518c-45d0-a534-356aeb9e2172#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-wie-ein-leser-dank-spiegel-grafik-zur-boosterimpfung-kam](https://www.spiegel.de/wissenschaft/coronavirus-wie-ein-leser-dank-spiegel-grafik-zur-boosterimpfung-kam-a-6fe972c2-476d-46fe-aed3-3a7ea602d700#ref=rss)
+### italien
 
-* [https://www.spiegel.de/kultur/sabine-weiss-fotografin-ist-tot-vertreterin-der-humanistischen-fotografie](https://www.spiegel.de/kultur/sabine-weiss-fotografin-ist-tot-vertreterin-der-humanistischen-fotografie-a-e5f48e80-14dd-4b59-a947-46b5f26727c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-virus-italien-und-kanada-werden-ab-januar-zu-hochrisikogebieten](https://www.spiegel.de/politik/deutschland/corona-virus-italien-und-kanada-werden-ab-januar-zu-hochrisikogebieten-a-791c5c92-518c-45d0-a534-356aeb9e2172#ref=rss)
+### kanada
+
+* [https://www.spiegel.de/politik/deutschland/corona-virus-italien-und-kanada-werden-ab-januar-zu-hochrisikogebieten](https://www.spiegel.de/politik/deutschland/corona-virus-italien-und-kanada-werden-ab-januar-zu-hochrisikogebieten-a-791c5c92-518c-45d0-a534-356aeb9e2172#ref=rss)
+### boss
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hugo-boss-erweitert-fertigung-in-der-tuerkei-wegen-gestoerter-lieferketten-in-suedostasien](https://www.spiegel.de/wirtschaft/unternehmen/hugo-boss-erweitert-fertigung-in-der-tuerkei-wegen-gestoerter-lieferketten-in-suedostasien-a-0c07190c-969a-4100-bc72-fe7538ba8fd8#ref=rss)
+### lieferketten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hugo-boss-erweitert-fertigung-in-der-tuerkei-wegen-gestoerter-lieferketten-in-suedostasien](https://www.spiegel.de/wirtschaft/unternehmen/hugo-boss-erweitert-fertigung-in-der-tuerkei-wegen-gestoerter-lieferketten-in-suedostasien-a-0c07190c-969a-4100-bc72-fe7538ba8fd8#ref=rss)
+### engpässe
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hugo-boss-erweitert-fertigung-in-der-tuerkei-wegen-gestoerter-lieferketten-in-suedostasien](https://www.spiegel.de/wirtschaft/unternehmen/hugo-boss-erweitert-fertigung-in-der-tuerkei-wegen-gestoerter-lieferketten-in-suedostasien-a-0c07190c-969a-4100-bc72-fe7538ba8fd8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/brexit-britischer-verband-warnt-vor-engpaessen-bei-lebensmitteln](https://www.spiegel.de/wirtschaft/brexit-britischer-verband-warnt-vor-engpaessen-bei-lebensmitteln-a-0170add8-2d1d-4555-8151-a719a0329fc5#ref=rss)
+### stärker
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/hugo-boss-erweitert-fertigung-in-der-tuerkei-wegen-gestoerter-lieferketten-in-suedostasien](https://www.spiegel.de/wirtschaft/unternehmen/hugo-boss-erweitert-fertigung-in-der-tuerkei-wegen-gestoerter-lieferketten-in-suedostasien-a-0c07190c-969a-4100-bc72-fe7538ba8fd8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/lebensmittel-warum-die-preise-viel-staerker-steigen-als-die-grundsicherung](https://www.spiegel.de/wirtschaft/soziales/lebensmittel-warum-die-preise-viel-staerker-steigen-als-die-grundsicherung-a-5b8fda08-a6fb-4a30-ba94-edd673306203#ref=rss)
+### timo
+
+* [https://www.spiegel.de/sport/tischtennis-timo-boll-wie-kann-man-mit-40-noch-so-gut-sein](https://www.spiegel.de/sport/tischtennis-timo-boll-wie-kann-man-mit-40-noch-so-gut-sein-a-c69e521e-4f84-4262-ae01-fda957ffbfeb#ref=rss)
+### 40
+
+* [https://www.spiegel.de/sport/tischtennis-timo-boll-wie-kann-man-mit-40-noch-so-gut-sein](https://www.spiegel.de/sport/tischtennis-timo-boll-wie-kann-man-mit-40-noch-so-gut-sein-a-c69e521e-4f84-4262-ae01-fda957ffbfeb#ref=rss)
+### komplett
+
+* [https://www.spiegel.de/sport/tischtennis-timo-boll-wie-kann-man-mit-40-noch-so-gut-sein](https://www.spiegel.de/sport/tischtennis-timo-boll-wie-kann-man-mit-40-noch-so-gut-sein-a-c69e521e-4f84-4262-ae01-fda957ffbfeb#ref=rss)
+* [https://www.spiegel.de/sport/topspieler-schliessen-abbruch-der-darts-wm-nicht-mehr-aus](https://www.spiegel.de/sport/topspieler-schliessen-abbruch-der-darts-wm-nicht-mehr-aus-a-253a41e3-95da-447b-aad1-04a6384d2dad#ref=rss)
+### vogelgrippewelle
+
+* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-welle-forscher-melden-staerkste-gefluegelpestepidemie-ueberhaupt-in-europa](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-welle-forscher-melden-staerkste-gefluegelpestepidemie-ueberhaupt-in-europa-a-dbaa52c0-3508-4cf4-ae4a-7b2290bdfc9d#ref=rss)
+### europa
+
+* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-welle-forscher-melden-staerkste-gefluegelpestepidemie-ueberhaupt-in-europa](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-welle-forscher-melden-staerkste-gefluegelpestepidemie-ueberhaupt-in-europa-a-dbaa52c0-3508-4cf4-ae4a-7b2290bdfc9d#ref=rss)
+### winter
+
+* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-welle-forscher-melden-staerkste-gefluegelpestepidemie-ueberhaupt-in-europa](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-welle-forscher-melden-staerkste-gefluegelpestepidemie-ueberhaupt-in-europa-a-dbaa52c0-3508-4cf4-ae4a-7b2290bdfc9d#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wissenschaft/natur/vogelgrippe-welle-forscher-melden-staerkste-gefluegelpestepidemie-ueberhaupt-in-europa](https://www.spiegel.de/wissenschaft/natur/vogelgrippe-welle-forscher-melden-staerkste-gefluegelpestepidemie-ueberhaupt-in-europa-a-dbaa52c0-3508-4cf4-ae4a-7b2290bdfc9d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021](https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021-a-e9270a66-3b2f-4111-89cd-5e8084c66d18#ref=rss)
+### frank
+
+* [https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden](https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden-a-30d756b8-b2a5-4512-a89b-a9a810b18106#ref=rss)
+### stäbler
+
+* [https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden](https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden-a-30d756b8-b2a5-4512-a89b-a9a810b18106#ref=rss)
+### bronze
+
+* [https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden](https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden-a-30d756b8-b2a5-4512-a89b-a9a810b18106#ref=rss)
+### olympische
+
+* [https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden](https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden-a-30d756b8-b2a5-4512-a89b-a9a810b18106#ref=rss)
+* [https://www.spiegel.de/panorama/jahresrueckblick-2021-im-ultimativen-quiz](https://www.spiegel.de/panorama/jahresrueckblick-2021-im-ultimativen-quiz-a-7c167a3a-492b-4018-909e-62ef329b7dd3#ref=rss)
+### spielen
+
+* [https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden](https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden-a-30d756b8-b2a5-4512-a89b-a9a810b18106#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden](https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden-a-30d756b8-b2a5-4512-a89b-a9a810b18106#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/9-11-hamburg-konzentriert-sich-20-jahre-danach-erneut-auf-islamistische-szene](https://www.spiegel.de/politik/deutschland/9-11-hamburg-konzentriert-sich-20-jahre-danach-erneut-auf-islamistische-szene-a-750d07c5-65cf-4781-acd5-b4e4319362c4#ref=rss)
+### letzten
+
+* [https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden](https://www.spiegel.de/sport/frank-staebler-holt-bronze-bei-den-olympische-spielen-in-tokio-schoener-kann-eine-langzeitrecherche-kaum-enden-a-30d756b8-b2a5-4512-a89b-a9a810b18106#ref=rss)
+* [https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab](https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab-a-cbae415a-2bc1-4dd8-b87e-1f5729c02ccb#ref=rss)
+### jordanien
+
+* [https://www.spiegel.de/ausland/jordanien-abgeordnete-pruegeln-sich-wegen-frauenrechten](https://www.spiegel.de/ausland/jordanien-abgeordnete-pruegeln-sich-wegen-frauenrechten-a-ca9ed78f-a0ec-45ff-b040-9c2b4f99ae21#ref=rss)
+### claus
+
+* [https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab](https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab-a-cbae415a-2bc1-4dd8-b87e-1f5729c02ccb#ref=rss)
+### kleber
+
+* [https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab](https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab-a-cbae415a-2bc1-4dd8-b87e-1f5729c02ccb#ref=rss)
+### gundula
+
+* [https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab](https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab-a-cbae415a-2bc1-4dd8-b87e-1f5729c02ccb#ref=rss)
+### gause
+
+* [https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab](https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab-a-cbae415a-2bc1-4dd8-b87e-1f5729c02ccb#ref=rss)
+### sendung
+
+* [https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab](https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab-a-cbae415a-2bc1-4dd8-b87e-1f5729c02ccb#ref=rss)
+### machte
+
+* [https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab](https://www.spiegel.de/panorama/leute/heute-journal-zdf-moderatoren-claus-kleber-und-gundula-gause-stimmten-ihre-outfits-farblich-ab-a-cbae415a-2bc1-4dd8-b87e-1f5729c02ccb#ref=rss)
+* [https://www.spiegel.de/sport/john-madden-zum-tod-der-nfl-legende-er-war-football](https://www.spiegel.de/sport/john-madden-zum-tod-der-nfl-legende-er-war-football-a-358a752d-3cf4-441e-bd5c-862de1bea854#ref=rss)
+### schnell
+
+* [https://www.spiegel.de/wissenschaft/coronavirus-wie-ein-leser-dank-spiegel-grafik-zur-boosterimpfung-kam](https://www.spiegel.de/wissenschaft/coronavirus-wie-ein-leser-dank-spiegel-grafik-zur-boosterimpfung-kam-a-6fe972c2-476d-46fe-aed3-3a7ea602d700#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/corona-und-praesenzunterricht-fachleute-fordern-dringend-konzepte-fuer-schulen-in-omikron-welle](https://www.spiegel.de/panorama/bildung/corona-und-praesenzunterricht-fachleute-fordern-dringend-konzepte-fuer-schulen-in-omikron-welle-a-253b585e-0b9d-40c4-a60f-90b1598b534f#ref=rss)
+### unser
+
+* [https://www.spiegel.de/wissenschaft/coronavirus-wie-ein-leser-dank-spiegel-grafik-zur-boosterimpfung-kam](https://www.spiegel.de/wissenschaft/coronavirus-wie-ein-leser-dank-spiegel-grafik-zur-boosterimpfung-kam-a-6fe972c2-476d-46fe-aed3-3a7ea602d700#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/lebensmittel-warum-die-preise-viel-staerker-steigen-als-die-grundsicherung](https://www.spiegel.de/wirtschaft/soziales/lebensmittel-warum-die-preise-viel-staerker-steigen-als-die-grundsicherung-a-5b8fda08-a6fb-4a30-ba94-edd673306203#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/wirtschaft/soziales/lebensmittel-warum-die-preise-viel-staerker-steigen-als-die-grundsicherung](https://www.spiegel.de/wirtschaft/soziales/lebensmittel-warum-die-preise-viel-staerker-steigen-als-die-grundsicherung-a-5b8fda08-a6fb-4a30-ba94-edd673306203#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-f4e3b710-071f-4c6c-bf7d-eae23e2937bf#ref=rss)
+### grundsicherung
+
+* [https://www.spiegel.de/wirtschaft/soziales/lebensmittel-warum-die-preise-viel-staerker-steigen-als-die-grundsicherung](https://www.spiegel.de/wirtschaft/soziales/lebensmittel-warum-die-preise-viel-staerker-steigen-als-die-grundsicherung-a-5b8fda08-a6fb-4a30-ba94-edd673306203#ref=rss)
+### problem
+
+* [https://www.spiegel.de/wirtschaft/soziales/lebensmittel-warum-die-preise-viel-staerker-steigen-als-die-grundsicherung](https://www.spiegel.de/wirtschaft/soziales/lebensmittel-warum-die-preise-viel-staerker-steigen-als-die-grundsicherung-a-5b8fda08-a6fb-4a30-ba94-edd673306203#ref=rss)
+* [https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen](https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen-a-57c948ec-f1d2-4210-8587-ea99b3130afa#ref=rss)
+### familie
+
+* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwells-familie-will-gegen-urteil-in-berufung-gehen](https://www.spiegel.de/panorama/justiz/ghislaine-maxwells-familie-will-gegen-urteil-in-berufung-gehen-a-5904d03a-d051-45d5-81c4-ea5aba727ee5#ref=rss)
+### sexhandels
+
+* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwells-familie-will-gegen-urteil-in-berufung-gehen](https://www.spiegel.de/panorama/justiz/ghislaine-maxwells-familie-will-gegen-urteil-in-berufung-gehen-a-5904d03a-d051-45d5-81c4-ea5aba727ee5#ref=rss)
+* [https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen](https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen-a-05efbc9e-d312-4154-82b7-4afe298a54a2#ref=rss)
+### fachleute
+
+* [https://www.spiegel.de/panorama/bildung/corona-und-praesenzunterricht-fachleute-fordern-dringend-konzepte-fuer-schulen-in-omikron-welle](https://www.spiegel.de/panorama/bildung/corona-und-praesenzunterricht-fachleute-fordern-dringend-konzepte-fuer-schulen-in-omikron-welle-a-253b585e-0b9d-40c4-a60f-90b1598b534f#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/panorama/bildung/corona-und-praesenzunterricht-fachleute-fordern-dringend-konzepte-fuer-schulen-in-omikron-welle](https://www.spiegel.de/panorama/bildung/corona-und-praesenzunterricht-fachleute-fordern-dringend-konzepte-fuer-schulen-in-omikron-welle-a-253b585e-0b9d-40c4-a60f-90b1598b534f#ref=rss)
+### felix
+
+* [https://www.spiegel.de/sport/fussball/felix-zwayer-schiedsrichter-wird-vorerst-keine-bvb-spiele-pfeifen](https://www.spiegel.de/sport/fussball/felix-zwayer-schiedsrichter-wird-vorerst-keine-bvb-spiele-pfeifen-a-fe394efb-4480-4de8-9b33-bd2ff9e8f269#ref=rss)
+### zwayer
+
+* [https://www.spiegel.de/sport/fussball/felix-zwayer-schiedsrichter-wird-vorerst-keine-bvb-spiele-pfeifen](https://www.spiegel.de/sport/fussball/felix-zwayer-schiedsrichter-wird-vorerst-keine-bvb-spiele-pfeifen-a-fe394efb-4480-4de8-9b33-bd2ff9e8f269#ref=rss)
+### schiedsrichter
+
+* [https://www.spiegel.de/sport/fussball/felix-zwayer-schiedsrichter-wird-vorerst-keine-bvb-spiele-pfeifen](https://www.spiegel.de/sport/fussball/felix-zwayer-schiedsrichter-wird-vorerst-keine-bvb-spiele-pfeifen-a-fe394efb-4480-4de8-9b33-bd2ff9e8f269#ref=rss)
+### tigray
+
+* [https://www.spiegel.de/ausland/tigray-ich-hatte-bei-jedem-interview-traenen-in-den-augen](https://www.spiegel.de/ausland/tigray-ich-hatte-bei-jedem-interview-traenen-in-den-augen-a-8e3c22b8-1eaa-430b-a040-b7c509f6994f#ref=rss)
+### sebastian
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/oesterreichs-ex-kanzler-kurz-uebernimmt-offenbar-posten-bei-techinvestor-peter-thiel](https://www.spiegel.de/wirtschaft/unternehmen/oesterreichs-ex-kanzler-kurz-uebernimmt-offenbar-posten-bei-techinvestor-peter-thiel-a-d1402afa-cb5a-4d70-b3ad-76e20f26bd17#ref=rss)
+### exkanzler
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/oesterreichs-ex-kanzler-kurz-uebernimmt-offenbar-posten-bei-techinvestor-peter-thiel](https://www.spiegel.de/wirtschaft/unternehmen/oesterreichs-ex-kanzler-kurz-uebernimmt-offenbar-posten-bei-techinvestor-peter-thiel-a-d1402afa-cb5a-4d70-b3ad-76e20f26bd17#ref=rss)
+### peter
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/oesterreichs-ex-kanzler-kurz-uebernimmt-offenbar-posten-bei-techinvestor-peter-thiel](https://www.spiegel.de/wirtschaft/unternehmen/oesterreichs-ex-kanzler-kurz-uebernimmt-offenbar-posten-bei-techinvestor-peter-thiel-a-d1402afa-cb5a-4d70-b3ad-76e20f26bd17#ref=rss)
+### thiel
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/oesterreichs-ex-kanzler-kurz-uebernimmt-offenbar-posten-bei-techinvestor-peter-thiel](https://www.spiegel.de/wirtschaft/unternehmen/oesterreichs-ex-kanzler-kurz-uebernimmt-offenbar-posten-bei-techinvestor-peter-thiel-a-d1402afa-cb5a-4d70-b3ad-76e20f26bd17#ref=rss)
+### nord
+
+* [https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern](https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern-a-3753f073-b4d4-4f98-9237-e4890546f434#ref=rss)
+### stream
+
+* [https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern](https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern-a-3753f073-b4d4-4f98-9237-e4890546f434#ref=rss)
+### 2
+
+* [https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern](https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern-a-3753f073-b4d4-4f98-9237-e4890546f434#ref=rss)
+### omid
+
+* [https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern](https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern-a-3753f073-b4d4-4f98-9237-e4890546f434#ref=rss)
+### nouripour
+
+* [https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern](https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern-a-3753f073-b4d4-4f98-9237-e4890546f434#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern](https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern-a-3753f073-b4d4-4f98-9237-e4890546f434#ref=rss)
+### gaspipeline
+
+* [https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern](https://www.spiegel.de/politik/deutschland/omid-nouripour-gruenen-chef-kandidat-sieht-wenig-spielraum-nord-stream-2-zu-verhindern-a-3753f073-b4d4-4f98-9237-e4890546f434#ref=rss)
+### dartswm
+
+* [https://www.spiegel.de/sport/topspieler-schliessen-abbruch-der-darts-wm-nicht-mehr-aus](https://www.spiegel.de/sport/topspieler-schliessen-abbruch-der-darts-wm-nicht-mehr-aus-a-253a41e3-95da-447b-aad1-04a6384d2dad#ref=rss)
+### 2022
+
+* [https://www.spiegel.de/sport/topspieler-schliessen-abbruch-der-darts-wm-nicht-mehr-aus](https://www.spiegel.de/sport/topspieler-schliessen-abbruch-der-darts-wm-nicht-mehr-aus-a-253a41e3-95da-447b-aad1-04a6384d2dad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-arbeitgeber-drohen-mit-klage-gegen-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-arbeitgeber-drohen-mit-klage-gegen-erhoehung-a-06bda4d0-9bd5-41e3-a226-d88d3fb3ac71#ref=rss)
+### abbruch
+
+* [https://www.spiegel.de/sport/topspieler-schliessen-abbruch-der-darts-wm-nicht-mehr-aus](https://www.spiegel.de/sport/topspieler-schliessen-abbruch-der-darts-wm-nicht-mehr-aus-a-253a41e3-95da-447b-aad1-04a6384d2dad#ref=rss)
+### neue
+
+* [https://www.spiegel.de/sport/topspieler-schliessen-abbruch-der-darts-wm-nicht-mehr-aus](https://www.spiegel.de/sport/topspieler-schliessen-abbruch-der-darts-wm-nicht-mehr-aus-a-253a41e3-95da-447b-aad1-04a6384d2dad#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021](https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021-a-e9270a66-3b2f-4111-89cd-5e8084c66d18#ref=rss)
+### mindestlohn
+
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-arbeitgeber-drohen-mit-klage-gegen-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-arbeitgeber-drohen-mit-klage-gegen-erhoehung-a-06bda4d0-9bd5-41e3-a226-d88d3fb3ac71#ref=rss)
+### arbeitgeber
+
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-arbeitgeber-drohen-mit-klage-gegen-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-arbeitgeber-drohen-mit-klage-gegen-erhoehung-a-06bda4d0-9bd5-41e3-a226-d88d3fb3ac71#ref=rss)
+### drohen
+
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-arbeitgeber-drohen-mit-klage-gegen-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-arbeitgeber-drohen-mit-klage-gegen-erhoehung-a-06bda4d0-9bd5-41e3-a226-d88d3fb3ac71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/brexit-britischer-verband-warnt-vor-engpaessen-bei-lebensmitteln](https://www.spiegel.de/wirtschaft/brexit-britischer-verband-warnt-vor-engpaessen-bei-lebensmitteln-a-0170add8-2d1d-4555-8151-a719a0329fc5#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/soziales/mindestlohn-arbeitgeber-drohen-mit-klage-gegen-erhoehung](https://www.spiegel.de/wirtschaft/soziales/mindestlohn-arbeitgeber-drohen-mit-klage-gegen-erhoehung-a-06bda4d0-9bd5-41e3-a226-d88d3fb3ac71#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ddr-zusatzrenten-ostdeutsche-laender-zahlen-jaehrlich-2-6-milliarden-euro](https://www.spiegel.de/wirtschaft/soziales/ddr-zusatzrenten-ostdeutsche-laender-zahlen-jaehrlich-2-6-milliarden-euro-a-7acc3f69-3ff4-45b5-9921-a6d9460056f4#ref=rss)
+### john
+
+* [https://www.spiegel.de/sport/john-madden-zum-tod-der-nfl-legende-er-war-football](https://www.spiegel.de/sport/john-madden-zum-tod-der-nfl-legende-er-war-football-a-358a752d-3cf4-441e-bd5c-862de1bea854#ref=rss)
+### madden
+
+* [https://www.spiegel.de/sport/john-madden-zum-tod-der-nfl-legende-er-war-football](https://www.spiegel.de/sport/john-madden-zum-tod-der-nfl-legende-er-war-football-a-358a752d-3cf4-441e-bd5c-862de1bea854#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-f4e3b710-071f-4c6c-bf7d-eae23e2937bf#ref=rss)
+### komplizin
+
+* [https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen](https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen-a-05efbc9e-d312-4154-82b7-4afe298a54a2#ref=rss)
+### jeffrey
+
+* [https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen](https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen-a-05efbc9e-d312-4154-82b7-4afe298a54a2#ref=rss)
+### epstein
+
+* [https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen](https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen-a-05efbc9e-d312-4154-82b7-4afe298a54a2#ref=rss)
+### schuldig
+
+* [https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen](https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen-a-05efbc9e-d312-4154-82b7-4afe298a54a2#ref=rss)
+### gesprochen
+
+* [https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen](https://www.spiegel.de/ausland/ghislaine-maxwell-jeffrey-epsteins-komplizin-des-sexhandels-schuldig-gesprochen-a-05efbc9e-d312-4154-82b7-4afe298a54a2#ref=rss)
+### sasha
+
+* [https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen](https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen-a-57c948ec-f1d2-4210-8587-ea99b3130afa#ref=rss)
+### 50
+
+* [https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen](https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen-a-57c948ec-f1d2-4210-8587-ea99b3130afa#ref=rss)
+### musiker
+
+* [https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen](https://www.spiegel.de/panorama/leute/sasha-wird-50-wie-der-musiker-uebers-altern-denkt-und-seine-augen-a-57c948ec-f1d2-4210-8587-ea99b3130afa#ref=rss)
+### länder
+
+* [https://www.spiegel.de/wirtschaft/soziales/ddr-zusatzrenten-ostdeutsche-laender-zahlen-jaehrlich-2-6-milliarden-euro](https://www.spiegel.de/wirtschaft/soziales/ddr-zusatzrenten-ostdeutsche-laender-zahlen-jaehrlich-2-6-milliarden-euro-a-7acc3f69-3ff4-45b5-9921-a6d9460056f4#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/politik/deutschland/9-11-hamburg-konzentriert-sich-20-jahre-danach-erneut-auf-islamistische-szene](https://www.spiegel.de/politik/deutschland/9-11-hamburg-konzentriert-sich-20-jahre-danach-erneut-auf-islamistische-szene-a-750d07c5-65cf-4781-acd5-b4e4319362c4#ref=rss)
+### 20
+
+* [https://www.spiegel.de/politik/deutschland/9-11-hamburg-konzentriert-sich-20-jahre-danach-erneut-auf-islamistische-szene](https://www.spiegel.de/politik/deutschland/9-11-hamburg-konzentriert-sich-20-jahre-danach-erneut-auf-islamistische-szene-a-750d07c5-65cf-4781-acd5-b4e4319362c4#ref=rss)
+### emilia
+
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021](https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021-a-e9270a66-3b2f-4111-89cd-5e8084c66d18#ref=rss)
+### matteo
+
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021](https://www.spiegel.de/panorama/gesellschaft/deutschland-emilia-und-matteo-sind-die-beliebtesten-vornamen-2021-a-e9270a66-3b2f-4111-89cd-5e8084c66d18#ref=rss)
 
