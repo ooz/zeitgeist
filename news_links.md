@@ -4,312 +4,286 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### corona
-
-* [https://www.spiegel.de/psychologie/corona-und-die-psyche-wie-man-seinen-seelenfrieden-wiederfindet](https://www.spiegel.de/psychologie/corona-und-die-psyche-wie-man-seinen-seelenfrieden-wiederfindet-a-3dc2e019-eb33-49bb-9d69-4a79310e4e36#ref=rss)
-* [https://www.spiegel.de/politik/corona-bundestagspraesidentin-baerbel-bas-will-bei-impfpflicht-nichts-uebers-knie-brechen](https://www.spiegel.de/politik/corona-bundestagspraesidentin-baerbel-bas-will-bei-impfpflicht-nichts-uebers-knie-brechen-a-5adeaa6e-ed6a-44c3-87c4-910d5ffd92ab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf-a-ca0e66ab-fc25-48ed-bc55-92d763344397#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/panorama/2021-das-jahr-in-spiegel-fotos](https://www.spiegel.de/panorama/2021-das-jahr-in-spiegel-fotos-a-19906587-dc32-4093-b521-d630bece147c#ref=rss)
-* [https://www.spiegel.de/familie/familie-gluecksformel-fuers-neue-jahr-kolumne](https://www.spiegel.de/familie/familie-gluecksformel-fuers-neue-jahr-kolumne-a-9bdfa04b-29db-458b-9d23-71654fe46b54#ref=rss)
-* [https://www.spiegel.de/ausland/kuba-regimegegner-yunior-garcia-was-aus-der-kubanischen-oppositionsbewegung-geworden-ist](https://www.spiegel.de/ausland/kuba-regimegegner-yunior-garcia-was-aus-der-kubanischen-oppositionsbewegung-geworden-ist-a-eddf71fb-91c9-4793-becf-8970f70feed9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-im-jahr-2021-zwischen-apokalypse-und-transformation](https://www.spiegel.de/wissenschaft/mensch/klimakrise-im-jahr-2021-zwischen-apokalypse-und-transformation-a-575464a2-bbd5-4b80-a7f3-4080dfb7000b#ref=rss)
-* [https://www.spiegel.de/panorama/boellerverbot-zu-silvester-warum-lassen-es-die-deutschen-so-gern-knallen-podcast](https://www.spiegel.de/panorama/boellerverbot-zu-silvester-warum-lassen-es-die-deutschen-so-gern-knallen-podcast-a-0f4fb8fd-cfab-474f-a401-c53680fe336a#ref=rss)
-### drei
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend](https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend-a-cf927361-dcdf-403b-8c21-99be992aae63#ref=rss)
-* [https://www.spiegel.de/ausland/iran-schickt-satellitentraeger-ins-all](https://www.spiegel.de/ausland/iran-schickt-satellitentraeger-ins-all-a-77bff980-63a9-4ff4-8292-c2c291a59066#ref=rss)
-* [https://www.spiegel.de/wirtschaft/drei-weitere-atomkraftwerke-gehen-zum-jahresende-vom-netz](https://www.spiegel.de/wirtschaft/drei-weitere-atomkraftwerke-gehen-zum-jahresende-vom-netz-a-2abadc17-8be7-476a-8ef5-de9370a68987#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/colorado-zehntausende-menschen-fliehen-vor-waldbraenden](https://www.spiegel.de/panorama/colorado-zehntausende-menschen-fliehen-vor-waldbraenden-a-48ec13b6-ea29-4e95-ab05-e32a0758b5e2#ref=rss)
-* [https://www.spiegel.de/panorama/2021-das-jahr-in-spiegel-fotos](https://www.spiegel.de/panorama/2021-das-jahr-in-spiegel-fotos-a-19906587-dc32-4093-b521-d630bece147c#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft](https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft-a-0842a43c-dad8-40b5-9076-c5d595a85ce6#ref=rss)
 ### 2021
 
-* [https://www.spiegel.de/panorama/2021-das-jahr-in-spiegel-fotos](https://www.spiegel.de/panorama/2021-das-jahr-in-spiegel-fotos-a-19906587-dc32-4093-b521-d630bece147c#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft](https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft-a-0842a43c-dad8-40b5-9076-c5d595a85ce6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-im-jahr-2021-zwischen-apokalypse-und-transformation](https://www.spiegel.de/wissenschaft/mensch/klimakrise-im-jahr-2021-zwischen-apokalypse-und-transformation-a-575464a2-bbd5-4b80-a7f3-4080dfb7000b#ref=rss)
-### impfpflicht
-
-* [https://www.spiegel.de/politik/deutschland/muenchen-festgenommener-soldat-wieder-auf-freiem-fuss](https://www.spiegel.de/politik/deutschland/muenchen-festgenommener-soldat-wieder-auf-freiem-fuss-a-f774383d-bfbb-4232-8b18-ed8946d1e6a8#ref=rss)
-* [https://www.spiegel.de/politik/corona-bundestagspraesidentin-baerbel-bas-will-bei-impfpflicht-nichts-uebers-knie-brechen](https://www.spiegel.de/politik/corona-bundestagspraesidentin-baerbel-bas-will-bei-impfpflicht-nichts-uebers-knie-brechen-a-5adeaa6e-ed6a-44c3-87c4-910d5ffd92ab#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend](https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend-a-cf927361-dcdf-403b-8c21-99be992aae63#ref=rss)
-* [https://www.spiegel.de/wirtschaft/drei-weitere-atomkraftwerke-gehen-zum-jahresende-vom-netz](https://www.spiegel.de/wirtschaft/drei-weitere-atomkraftwerke-gehen-zum-jahresende-vom-netz-a-2abadc17-8be7-476a-8ef5-de9370a68987#ref=rss)
-### luft
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend](https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend-a-cf927361-dcdf-403b-8c21-99be992aae63#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/brasilien-lya-luft-ist-tot](https://www.spiegel.de/kultur/literatur/brasilien-lya-luft-ist-tot-a-934cea29-a535-4d59-855e-d2444b63c2ed#ref=rss)
-### özdemir
-
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-will-lebensmittelspenden-erleichtern](https://www.spiegel.de/politik/deutschland/cem-oezdemir-will-lebensmittelspenden-erleichtern-a-60a1c7d8-8e87-49fb-adf9-a28c91725579#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/debatte-ueber-lebensmittel-preise-greenpeace-spricht-sich-fuer-hoehere-mehrwertsteuer-aus](https://www.spiegel.de/wirtschaft/service/debatte-ueber-lebensmittel-preise-greenpeace-spricht-sich-fuer-hoehere-mehrwertsteuer-aus-a-3c3d3dba-1d6d-49cd-aadf-a08e923c3606#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen](https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen-a-d2fa77a6-cf85-42e2-ae90-f113837d17ed#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-und-wladimir-putin-telefonieren-zum-ukraine-konflikt](https://www.spiegel.de/ausland/joe-biden-und-wladimir-putin-telefonieren-zum-ukraine-konflikt-a-83c2c36d-e447-4915-b5c4-75206ac25aa7#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen](https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen-a-d2fa77a6-cf85-42e2-ae90-f113837d17ed#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-und-wladimir-putin-telefonieren-zum-ukraine-konflikt](https://www.spiegel.de/ausland/joe-biden-und-wladimir-putin-telefonieren-zum-ukraine-konflikt-a-83c2c36d-e447-4915-b5c4-75206ac25aa7#ref=rss)
-### gesellschaft
-
-* [https://www.spiegel.de/psychologie/corona-und-die-psyche-wie-man-seinen-seelenfrieden-wiederfindet](https://www.spiegel.de/psychologie/corona-und-die-psyche-wie-man-seinen-seelenfrieden-wiederfindet-a-3dc2e019-eb33-49bb-9d69-4a79310e4e36#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf-a-ca0e66ab-fc25-48ed-bc55-92d763344397#ref=rss)
-### wir
-
-* [https://www.spiegel.de/psychologie/corona-und-die-psyche-wie-man-seinen-seelenfrieden-wiederfindet](https://www.spiegel.de/psychologie/corona-und-die-psyche-wie-man-seinen-seelenfrieden-wiederfindet-a-3dc2e019-eb33-49bb-9d69-4a79310e4e36#ref=rss)
-* [https://www.spiegel.de/panorama/boellerverbot-zu-silvester-warum-lassen-es-die-deutschen-so-gern-knallen-podcast](https://www.spiegel.de/panorama/boellerverbot-zu-silvester-warum-lassen-es-die-deutschen-so-gern-knallen-podcast-a-0f4fb8fd-cfab-474f-a401-c53680fe336a#ref=rss)
-* [https://www.spiegel.de/ausland/china-der-gruene-pfau-das-wunder-von-yunnan-und-ein-auto-das-uns-folgte](https://www.spiegel.de/ausland/china-der-gruene-pfau-das-wunder-von-yunnan-und-ein-auto-das-uns-folgte-a-3dd89510-6de0-4c5a-868a-70df591956bb#ref=rss)
-### letzten
-
-* [https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein](https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein-a-db929c06-81d8-4f0a-a8ab-73427b75c30c#ref=rss)
-* [https://www.spiegel.de/panorama/boellerverbot-zu-silvester-warum-lassen-es-die-deutschen-so-gern-knallen-podcast](https://www.spiegel.de/panorama/boellerverbot-zu-silvester-warum-lassen-es-die-deutschen-so-gern-knallen-podcast-a-0f4fb8fd-cfab-474f-a401-c53680fe336a#ref=rss)
-* [https://www.spiegel.de/kultur/claus-kleber-verabschiedet-sich-vom-heute-journal](https://www.spiegel.de/kultur/claus-kleber-verabschiedet-sich-vom-heute-journal-a-6ce412ef-32fd-48ff-a696-5570b2f93990#ref=rss)
-### sehr
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-rki-registriert-41-240-neuinfektionen-inzidenz-bei-214-9](https://www.spiegel.de/wissenschaft/medizin/corona-news-rki-registriert-41-240-neuinfektionen-inzidenz-bei-214-9-a-f1b5bcef-8bb2-47b5-ac3f-55eba9b96eee#ref=rss)
-* [https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel](https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel-a-2dc64392-7076-4e42-bd21-ce2c26be0abb#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-und-wladimir-putin-telefonieren-zum-ukraine-konflikt](https://www.spiegel.de/ausland/joe-biden-und-wladimir-putin-telefonieren-zum-ukraine-konflikt-a-83c2c36d-e447-4915-b5c4-75206ac25aa7#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/bildung/machtmissbrauch-am-max-planck-institut-er-fragte-immer-wieder-mit-wem-ich-geredet-hatte](https://www.spiegel.de/panorama/bildung/machtmissbrauch-am-max-planck-institut-er-fragte-immer-wieder-mit-wem-ich-geredet-hatte-a-abf9875b-ffef-4ad0-88a4-72f36729dda4#ref=rss)
-### ausstellung
-
-* [https://www.spiegel.de/auto/ausstellung-vitesse-in-compiegne-ein-hoch-auf-die-geschwindigkeit](https://www.spiegel.de/auto/ausstellung-vitesse-in-compiegne-ein-hoch-auf-die-geschwindigkeit-a-7fcb8e00-844b-4e21-9805-9be4a098109b#ref=rss)
-### hoch
-
-* [https://www.spiegel.de/auto/ausstellung-vitesse-in-compiegne-ein-hoch-auf-die-geschwindigkeit](https://www.spiegel.de/auto/ausstellung-vitesse-in-compiegne-ein-hoch-auf-die-geschwindigkeit-a-7fcb8e00-844b-4e21-9805-9be4a098109b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/findet-die-bundesregierung-die-wunderwaffe-gegen-wohnungsnot](https://www.spiegel.de/wirtschaft/soziales/findet-die-bundesregierung-die-wunderwaffe-gegen-wohnungsnot-a-62334228-ff06-43fd-9e3e-9b8e2d8c47a0#ref=rss)
-### all
-
-* [https://www.spiegel.de/auto/ausstellung-vitesse-in-compiegne-ein-hoch-auf-die-geschwindigkeit](https://www.spiegel.de/auto/ausstellung-vitesse-in-compiegne-ein-hoch-auf-die-geschwindigkeit-a-7fcb8e00-844b-4e21-9805-9be4a098109b#ref=rss)
-* [https://www.spiegel.de/ausland/iran-schickt-satellitentraeger-ins-all](https://www.spiegel.de/ausland/iran-schickt-satellitentraeger-ins-all-a-77bff980-63a9-4ff4-8292-c2c291a59066#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/auto/ausstellung-vitesse-in-compiegne-ein-hoch-auf-die-geschwindigkeit](https://www.spiegel.de/auto/ausstellung-vitesse-in-compiegne-ein-hoch-auf-die-geschwindigkeit-a-7fcb8e00-844b-4e21-9805-9be4a098109b#ref=rss)
-* [https://www.spiegel.de/ausland/iran-schickt-satellitentraeger-ins-all](https://www.spiegel.de/ausland/iran-schickt-satellitentraeger-ins-all-a-77bff980-63a9-4ff4-8292-c2c291a59066#ref=rss)
-### tempo
-
-* [https://www.spiegel.de/auto/ausstellung-vitesse-in-compiegne-ein-hoch-auf-die-geschwindigkeit](https://www.spiegel.de/auto/ausstellung-vitesse-in-compiegne-ein-hoch-auf-die-geschwindigkeit-a-7fcb8e00-844b-4e21-9805-9be4a098109b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf-a-ca0e66ab-fc25-48ed-bc55-92d763344397#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/wirtschaft/soziales/findet-die-bundesregierung-die-wunderwaffe-gegen-wohnungsnot](https://www.spiegel.de/wirtschaft/soziales/findet-die-bundesregierung-die-wunderwaffe-gegen-wohnungsnot-a-62334228-ff06-43fd-9e3e-9b8e2d8c47a0#ref=rss)
-### fordern
-
-* [https://www.spiegel.de/wirtschaft/soziales/findet-die-bundesregierung-die-wunderwaffe-gegen-wohnungsnot](https://www.spiegel.de/wirtschaft/soziales/findet-die-bundesregierung-die-wunderwaffe-gegen-wohnungsnot-a-62334228-ff06-43fd-9e3e-9b8e2d8c47a0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-rki-registriert-41-240-neuinfektionen-inzidenz-bei-214-9](https://www.spiegel.de/wissenschaft/medizin/corona-news-rki-registriert-41-240-neuinfektionen-inzidenz-bei-214-9-a-f1b5bcef-8bb2-47b5-ac3f-55eba9b96eee#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/soziales/findet-die-bundesregierung-die-wunderwaffe-gegen-wohnungsnot](https://www.spiegel.de/wirtschaft/soziales/findet-die-bundesregierung-die-wunderwaffe-gegen-wohnungsnot-a-62334228-ff06-43fd-9e3e-9b8e2d8c47a0#ref=rss)
-* [https://www.spiegel.de/familie/familie-gluecksformel-fuers-neue-jahr-kolumne](https://www.spiegel.de/familie/familie-gluecksformel-fuers-neue-jahr-kolumne-a-9bdfa04b-29db-458b-9d23-71654fe46b54#ref=rss)
-### fest
-
-* [https://www.spiegel.de/politik/deutschland/muenchen-festgenommener-soldat-wieder-auf-freiem-fuss](https://www.spiegel.de/politik/deutschland/muenchen-festgenommener-soldat-wieder-auf-freiem-fuss-a-f774383d-bfbb-4232-8b18-ed8946d1e6a8#ref=rss)
-* [https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel](https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel-a-2dc64392-7076-4e42-bd21-ce2c26be0abb#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/politik/deutschland/muenchen-festgenommener-soldat-wieder-auf-freiem-fuss](https://www.spiegel.de/politik/deutschland/muenchen-festgenommener-soldat-wieder-auf-freiem-fuss-a-f774383d-bfbb-4232-8b18-ed8946d1e6a8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/drei-weitere-atomkraftwerke-gehen-zum-jahresende-vom-netz](https://www.spiegel.de/wirtschaft/drei-weitere-atomkraftwerke-gehen-zum-jahresende-vom-netz-a-2abadc17-8be7-476a-8ef5-de9370a68987#ref=rss)
-### funklöcher
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend](https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend-a-cf927361-dcdf-403b-8c21-99be992aae63#ref=rss)
-### macht
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend](https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend-a-cf927361-dcdf-403b-8c21-99be992aae63#ref=rss)
-### netz
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend](https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend-a-cf927361-dcdf-403b-8c21-99be992aae63#ref=rss)
-* [https://www.spiegel.de/wirtschaft/drei-weitere-atomkraftwerke-gehen-zum-jahresende-vom-netz](https://www.spiegel.de/wirtschaft/drei-weitere-atomkraftwerke-gehen-zum-jahresende-vom-netz-a-2abadc17-8be7-476a-8ef5-de9370a68987#ref=rss)
-### darüber
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend](https://www.spiegel.de/netzwelt/netzpolitik/breitbandausbau-und-funkloecher-macht-sie-das-netz-in-deutschland-auch-so-wuetend-a-cf927361-dcdf-403b-8c21-99be992aae63#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/machtmissbrauch-am-max-planck-institut-er-fragte-immer-wieder-mit-wem-ich-geredet-hatte](https://www.spiegel.de/panorama/bildung/machtmissbrauch-am-max-planck-institut-er-fragte-immer-wieder-mit-wem-ich-geredet-hatte-a-abf9875b-ffef-4ad0-88a4-72f36729dda4#ref=rss)
-### joão
-
-* [https://www.spiegel.de/panorama/leute/joao-cancelo-spieler-von-manchester-city-ausgeraubt-und-blutig-geschlagen](https://www.spiegel.de/panorama/leute/joao-cancelo-spieler-von-manchester-city-ausgeraubt-und-blutig-geschlagen-a-a2f7bdf3-9b94-48ee-b9b6-4e00f3fb54f7#ref=rss)
-### cancelo
-
-* [https://www.spiegel.de/panorama/leute/joao-cancelo-spieler-von-manchester-city-ausgeraubt-und-blutig-geschlagen](https://www.spiegel.de/panorama/leute/joao-cancelo-spieler-von-manchester-city-ausgeraubt-und-blutig-geschlagen-a-a2f7bdf3-9b94-48ee-b9b6-4e00f3fb54f7#ref=rss)
-### ausgeraubt
-
-* [https://www.spiegel.de/panorama/leute/joao-cancelo-spieler-von-manchester-city-ausgeraubt-und-blutig-geschlagen](https://www.spiegel.de/panorama/leute/joao-cancelo-spieler-von-manchester-city-ausgeraubt-und-blutig-geschlagen-a-a2f7bdf3-9b94-48ee-b9b6-4e00f3fb54f7#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/leute/joao-cancelo-spieler-von-manchester-city-ausgeraubt-und-blutig-geschlagen](https://www.spiegel.de/panorama/leute/joao-cancelo-spieler-von-manchester-city-ausgeraubt-und-blutig-geschlagen-a-a2f7bdf3-9b94-48ee-b9b6-4e00f3fb54f7#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-und-wladimir-putin-telefonieren-zum-ukraine-konflikt](https://www.spiegel.de/ausland/joe-biden-und-wladimir-putin-telefonieren-zum-ukraine-konflikt-a-83c2c36d-e447-4915-b5c4-75206ac25aa7#ref=rss)
-### erste
-
-* [https://www.spiegel.de/panorama/leute/joao-cancelo-spieler-von-manchester-city-ausgeraubt-und-blutig-geschlagen](https://www.spiegel.de/panorama/leute/joao-cancelo-spieler-von-manchester-city-ausgeraubt-und-blutig-geschlagen-a-a2f7bdf3-9b94-48ee-b9b6-4e00f3fb54f7#ref=rss)
-* [https://www.spiegel.de/ausland/coronavirus-suedafrika-hebt-naechtliche-ausgangssperre-auf](https://www.spiegel.de/ausland/coronavirus-suedafrika-hebt-naechtliche-ausgangssperre-auf-a-5c9883d1-fa2a-48e0-be6f-8a5e49865cd0#ref=rss)
-### colorado
-
-* [https://www.spiegel.de/panorama/colorado-zehntausende-menschen-fliehen-vor-waldbraenden](https://www.spiegel.de/panorama/colorado-zehntausende-menschen-fliehen-vor-waldbraenden-a-48ec13b6-ea29-4e95-ab05-e32a0758b5e2#ref=rss)
-### zehntausende
-
-* [https://www.spiegel.de/panorama/colorado-zehntausende-menschen-fliehen-vor-waldbraenden](https://www.spiegel.de/panorama/colorado-zehntausende-menschen-fliehen-vor-waldbraenden-a-48ec13b6-ea29-4e95-ab05-e32a0758b5e2#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/colorado-zehntausende-menschen-fliehen-vor-waldbraenden](https://www.spiegel.de/panorama/colorado-zehntausende-menschen-fliehen-vor-waldbraenden-a-48ec13b6-ea29-4e95-ab05-e32a0758b5e2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft](https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft-a-0842a43c-dad8-40b5-9076-c5d595a85ce6#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/politik/deutschland/cem-oezdemir-will-lebensmittelspenden-erleichtern](https://www.spiegel.de/politik/deutschland/cem-oezdemir-will-lebensmittelspenden-erleichtern-a-60a1c7d8-8e87-49fb-adf9-a28c91725579#ref=rss)
-* [https://www.spiegel.de/ausland/coronavirus-suedafrika-hebt-naechtliche-ausgangssperre-auf](https://www.spiegel.de/ausland/coronavirus-suedafrika-hebt-naechtliche-ausgangssperre-auf-a-5c9883d1-fa2a-48e0-be6f-8a5e49865cd0#ref=rss)
-### manfred
-
-* [https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen](https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen-a-d2fa77a6-cf85-42e2-ae90-f113837d17ed#ref=rss)
-### weber
-
-* [https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen](https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen-a-d2fa77a6-cf85-42e2-ae90-f113837d17ed#ref=rss)
-### eu
-
-* [https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen](https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen-a-d2fa77a6-cf85-42e2-ae90-f113837d17ed#ref=rss)
-### müsse
-
-* [https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen](https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen-a-d2fa77a6-cf85-42e2-ae90-f113837d17ed#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen](https://www.spiegel.de/ausland/manfred-weber-draengt-auf-beteiligung-der-eu-an-ukraine-gespraechen-a-d2fa77a6-cf85-42e2-ae90-f113837d17ed#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-und-wladimir-putin-telefonieren-zum-ukraine-konflikt](https://www.spiegel.de/ausland/joe-biden-und-wladimir-putin-telefonieren-zum-ukraine-konflikt-a-83c2c36d-e447-4915-b5c4-75206ac25aa7#ref=rss)
-### gary
-
-* [https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein](https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein-a-db929c06-81d8-4f0a-a8ab-73427b75c30c#ref=rss)
-### anderson
-
-* [https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein](https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein-a-db929c06-81d8-4f0a-a8ab-73427b75c30c#ref=rss)
-### james
-
-* [https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein](https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein-a-db929c06-81d8-4f0a-a8ab-73427b75c30c#ref=rss)
-### wade
-
-* [https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein](https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein-a-db929c06-81d8-4f0a-a8ab-73427b75c30c#ref=rss)
-### peter
-
-* [https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein](https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein-a-db929c06-81d8-4f0a-a8ab-73427b75c30c#ref=rss)
-### wright
-
-* [https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein](https://www.spiegel.de/sport/darts-wm-2022-gary-anderson-james-wade-und-peter-wright-ziehen-ins-viertelfinale-ein-a-db929c06-81d8-4f0a-a8ab-73427b75c30c#ref=rss)
-### spiegelfotos
-
-* [https://www.spiegel.de/panorama/2021-das-jahr-in-spiegel-fotos](https://www.spiegel.de/panorama/2021-das-jahr-in-spiegel-fotos-a-19906587-dc32-4093-b521-d630bece147c#ref=rss)
-### dinner
-
-* [https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft](https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft-a-0842a43c-dad8-40b5-9076-c5d595a85ce6#ref=rss)
-### for
-
-* [https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft](https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft-a-0842a43c-dad8-40b5-9076-c5d595a85ce6#ref=rss)
-### one
-
-* [https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft](https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft-a-0842a43c-dad8-40b5-9076-c5d595a85ce6#ref=rss)
-### silvester
-
-* [https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft](https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft-a-0842a43c-dad8-40b5-9076-c5d595a85ce6#ref=rss)
-* [https://www.spiegel.de/panorama/boellerverbot-zu-silvester-warum-lassen-es-die-deutschen-so-gern-knallen-podcast](https://www.spiegel.de/panorama/boellerverbot-zu-silvester-warum-lassen-es-die-deutschen-so-gern-knallen-podcast-a-0f4fb8fd-cfab-474f-a401-c53680fe336a#ref=rss)
-### jahresende
-
-* [https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft](https://www.spiegel.de/kultur/tv/dinner-for-one-2021-im-tv-wo-und-wann-der-klassiker-an-silvester-laeuft-a-0842a43c-dad8-40b5-9076-c5d595a85ce6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/drei-weitere-atomkraftwerke-gehen-zum-jahresende-vom-netz](https://www.spiegel.de/wirtschaft/drei-weitere-atomkraftwerke-gehen-zum-jahresende-vom-netz-a-2abadc17-8be7-476a-8ef5-de9370a68987#ref=rss)
-### landkreise
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-rki-registriert-41-240-neuinfektionen-inzidenz-bei-214-9](https://www.spiegel.de/wissenschaft/medizin/corona-news-rki-registriert-41-240-neuinfektionen-inzidenz-bei-214-9-a-f1b5bcef-8bb2-47b5-ac3f-55eba9b96eee#ref=rss)
-### vorgehen
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-rki-registriert-41-240-neuinfektionen-inzidenz-bei-214-9](https://www.spiegel.de/wissenschaft/medizin/corona-news-rki-registriert-41-240-neuinfektionen-inzidenz-bei-214-9-a-f1b5bcef-8bb2-47b5-ac3f-55eba9b96eee#ref=rss)
-### sprechen
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-rki-registriert-41-240-neuinfektionen-inzidenz-bei-214-9](https://www.spiegel.de/wissenschaft/medizin/corona-news-rki-registriert-41-240-neuinfektionen-inzidenz-bei-214-9-a-f1b5bcef-8bb2-47b5-ac3f-55eba9b96eee#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/machtmissbrauch-am-max-planck-institut-er-fragte-immer-wieder-mit-wem-ich-geredet-hatte](https://www.spiegel.de/panorama/bildung/machtmissbrauch-am-max-planck-institut-er-fragte-immer-wieder-mit-wem-ich-geredet-hatte-a-abf9875b-ffef-4ad0-88a4-72f36729dda4#ref=rss)
-### maßnahmen
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-rki-registriert-41-240-neuinfektionen-inzidenz-bei-214-9](https://www.spiegel.de/wissenschaft/medizin/corona-news-rki-registriert-41-240-neuinfektionen-inzidenz-bei-214-9-a-f1b5bcef-8bb2-47b5-ac3f-55eba9b96eee#ref=rss)
-* [https://www.spiegel.de/ausland/coronavirus-suedafrika-hebt-naechtliche-ausgangssperre-auf](https://www.spiegel.de/ausland/coronavirus-suedafrika-hebt-naechtliche-ausgangssperre-auf-a-5c9883d1-fa2a-48e0-be6f-8a5e49865cd0#ref=rss)
-### kim
-
-* [https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel](https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel-a-2dc64392-7076-4e42-bd21-ce2c26be0abb#ref=rss)
-### jong
-
-* [https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel](https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel-a-2dc64392-7076-4e42-bd21-ce2c26be0abb#ref=rss)
-### un
-
-* [https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel](https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel-a-2dc64392-7076-4e42-bd21-ce2c26be0abb#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel](https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel-a-2dc64392-7076-4e42-bd21-ce2c26be0abb#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel](https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel-a-2dc64392-7076-4e42-bd21-ce2c26be0abb#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/brasilien-lya-luft-ist-tot](https://www.spiegel.de/kultur/literatur/brasilien-lya-luft-ist-tot-a-934cea29-a535-4d59-855e-d2444b63c2ed#ref=rss)
-### bilanz
-
-* [https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel](https://www.spiegel.de/ausland/kim-jong-un-in-nordkorea-auch-nach-zehn-jahren-noch-fest-im-sattel-a-2dc64392-7076-4e42-bd21-ce2c26be0abb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-im-jahr-2021-zwischen-apokalypse-und-transformation](https://www.spiegel.de/wissenschaft/mensch/klimakrise-im-jahr-2021-zwischen-apokalypse-und-transformation-a-575464a2-bbd5-4b80-a7f3-4080dfb7000b#ref=rss)
-### claude
-
-* [https://www.spiegel.de/geschichte/zeitreise-spiegel-1971-der-aufstieg-von-claude-levi-strauss](https://www.spiegel.de/geschichte/zeitreise-spiegel-1971-der-aufstieg-von-claude-levi-strauss-a-97c3479d-9fa4-4166-870b-29a753f2b794#ref=rss)
-### lévistrauss
-
-* [https://www.spiegel.de/geschichte/zeitreise-spiegel-1971-der-aufstieg-von-claude-levi-strauss](https://www.spiegel.de/geschichte/zeitreise-spiegel-1971-der-aufstieg-von-claude-levi-strauss-a-97c3479d-9fa4-4166-870b-29a753f2b794#ref=rss)
-### regimegegner
-
-* [https://www.spiegel.de/ausland/kuba-regimegegner-yunior-garcia-was-aus-der-kubanischen-oppositionsbewegung-geworden-ist](https://www.spiegel.de/ausland/kuba-regimegegner-yunior-garcia-was-aus-der-kubanischen-oppositionsbewegung-geworden-ist-a-eddf71fb-91c9-4793-becf-8970f70feed9#ref=rss)
-### yunior
-
-* [https://www.spiegel.de/ausland/kuba-regimegegner-yunior-garcia-was-aus-der-kubanischen-oppositionsbewegung-geworden-ist](https://www.spiegel.de/ausland/kuba-regimegegner-yunior-garcia-was-aus-der-kubanischen-oppositionsbewegung-geworden-ist-a-eddf71fb-91c9-4793-becf-8970f70feed9#ref=rss)
-### garcía
-
-* [https://www.spiegel.de/ausland/kuba-regimegegner-yunior-garcia-was-aus-der-kubanischen-oppositionsbewegung-geworden-ist](https://www.spiegel.de/ausland/kuba-regimegegner-yunior-garcia-was-aus-der-kubanischen-oppositionsbewegung-geworden-ist-a-eddf71fb-91c9-4793-becf-8970f70feed9#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/kuba-regimegegner-yunior-garcia-was-aus-der-kubanischen-oppositionsbewegung-geworden-ist](https://www.spiegel.de/ausland/kuba-regimegegner-yunior-garcia-was-aus-der-kubanischen-oppositionsbewegung-geworden-ist-a-eddf71fb-91c9-4793-becf-8970f70feed9#ref=rss)
-* [https://www.spiegel.de/ausland/coronavirus-suedafrika-hebt-naechtliche-ausgangssperre-auf](https://www.spiegel.de/ausland/coronavirus-suedafrika-hebt-naechtliche-ausgangssperre-auf-a-5c9883d1-fa2a-48e0-be6f-8a5e49865cd0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-christen-sollen-gott-trotz-traenen-der-sorge-und-trauer-fuer-2021-danken](https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-christen-sollen-gott-trotz-traenen-der-sorge-und-trauer-fuer-2021-danken-a-c158e0c1-2553-4f08-ab93-bf4f2677c4ed#ref=rss)
+* [https://www.spiegel.de/sport/das-sportjahr-im-bilderquiz](https://www.spiegel.de/sport/das-sportjahr-im-bilderquiz-a-99b3909d-8aff-413e-b61f-af88338a7d2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/satirische-neujahrsansprache-wann-hoert-diese-ganze-scheisse-endlich-auf](https://www.spiegel.de/politik/deutschland/satirische-neujahrsansprache-wann-hoert-diese-ganze-scheisse-endlich-auf-a-6f9c2f98-e7cc-4d68-951a-32cc1778e978#ref=rss)
 ### neujahrsansprache
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf-a-ca0e66ab-fc25-48ed-bc55-92d763344397#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen](https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen-a-40a8237e-0a50-4052-adb7-a21d466cb278#ref=rss)
+* [https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck](https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck-a-53f8067c-e033-44be-aed0-e328b80bc6d3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/satirische-neujahrsansprache-wann-hoert-diese-ganze-scheisse-endlich-auf](https://www.spiegel.de/politik/deutschland/satirische-neujahrsansprache-wann-hoert-diese-ganze-scheisse-endlich-auf-a-6f9c2f98-e7cc-4d68-951a-32cc1778e978#ref=rss)
+### frau
+
+* [https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs](https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs-a-e2006595-53d4-4918-853f-e2fe2a55d683#ref=rss)
+* [https://www.spiegel.de/panorama/von-chicago-nach-reykjavik-frau-isoliert-sich-selbst-auf-flugzeugtoilette-fuer-vier-stunden](https://www.spiegel.de/panorama/von-chicago-nach-reykjavik-frau-isoliert-sich-selbst-auf-flugzeugtoilette-fuer-vier-stunden-a-b91cabb1-b69b-4eb9-82f5-c59674c01a55#ref=rss)
+* [https://www.spiegel.de/panorama/usa-vater-haelt-16-jaehrige-tochter-fuer-einbrecherin-und-erschiesst-sie](https://www.spiegel.de/panorama/usa-vater-haelt-16-jaehrige-tochter-fuer-einbrecherin-und-erschiesst-sie-a-ebea7d59-7a8d-4866-8ff9-076e60ebbeef#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/panorama/zwoelfjaehriger-stirbt-durch-silvester-explosion-in-den-niederlanden](https://www.spiegel.de/panorama/zwoelfjaehriger-stirbt-durch-silvester-explosion-in-den-niederlanden-a-df5922cc-8039-47e8-9fcc-10cb903f84bc#ref=rss)
+* [https://www.spiegel.de/panorama/weimar-einjaehriges-kind-von-hund-ins-gesicht-gebissen-und-schwer-verletzt](https://www.spiegel.de/panorama/weimar-einjaehriges-kind-von-hund-ins-gesicht-gebissen-und-schwer-verletzt-a-a796b73e-9a8a-4f39-b2f4-7e80c0172185#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/zwoelfjaehriger-stirbt-durch-silvester-explosion-in-den-niederlanden](https://www.spiegel.de/panorama/zwoelfjaehriger-stirbt-durch-silvester-explosion-in-den-niederlanden-a-df5922cc-8039-47e8-9fcc-10cb903f84bc#ref=rss)
+* [https://www.spiegel.de/panorama/weimar-einjaehriges-kind-von-hund-ins-gesicht-gebissen-und-schwer-verletzt](https://www.spiegel.de/panorama/weimar-einjaehriges-kind-von-hund-ins-gesicht-gebissen-und-schwer-verletzt-a-a796b73e-9a8a-4f39-b2f4-7e80c0172185#ref=rss)
+### erste
+
+* [https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen](https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen-a-40a8237e-0a50-4052-adb7-a21d466cb278#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs](https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs-a-e2006595-53d4-4918-853f-e2fe2a55d683#ref=rss)
+### wir
+
+* [https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen](https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen-a-40a8237e-0a50-4052-adb7-a21d466cb278#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig](https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig-a-e507772c-2f84-430b-8190-6481a77e770e#ref=rss)
+* [https://www.spiegel.de/netzwelt/attila-hildmann-haben-wir-ihm-eine-zu-grosse-buehne-geboten](https://www.spiegel.de/netzwelt/attila-hildmann-haben-wir-ihm-eine-zu-grosse-buehne-geboten-a-7679dbb4-0b58-4996-9c73-c927f1e71d5c#ref=rss)
 ### olaf
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf-a-ca0e66ab-fc25-48ed-bc55-92d763344397#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen](https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen-a-40a8237e-0a50-4052-adb7-a21d466cb278#ref=rss)
+* [https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck](https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck-a-53f8067c-e033-44be-aed0-e328b80bc6d3#ref=rss)
 ### scholz
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf-a-ca0e66ab-fc25-48ed-bc55-92d763344397#ref=rss)
-### ruft
+* [https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen](https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen-a-40a8237e-0a50-4052-adb7-a21d466cb278#ref=rss)
+* [https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck](https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck-a-53f8067c-e033-44be-aed0-e328b80bc6d3#ref=rss)
+### corona
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf-a-ca0e66ab-fc25-48ed-bc55-92d763344397#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen](https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen-a-40a8237e-0a50-4052-adb7-a21d466cb278#ref=rss)
+* [https://www.spiegel.de/ausland/corona-regierung-sieht-hoehepunkt-der-omikron-welle-ueberschritten](https://www.spiegel.de/ausland/corona-regierung-sieht-hoehepunkt-der-omikron-welle-ueberschritten-a-078a4334-e706-4687-98ef-6acea210a44c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig](https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig-a-e507772c-2f84-430b-8190-6481a77e770e#ref=rss)
+### fahrzeuge
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/sicherheitsmaengel-tesla-ruft-rund-200-000-fahrzeuge-in-china-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/sicherheitsmaengel-tesla-ruft-rund-200-000-fahrzeuge-in-china-zurueck-a-76f99377-2bca-4180-8005-cb818eb395c9#ref=rss)
+### ich
+
+* [https://www.spiegel.de/wissenschaft/mensch/aktivismus-und-selbstbeschaeftigung-kein-yoga-ist-auch-keine-loesung](https://www.spiegel.de/wissenschaft/mensch/aktivismus-und-selbstbeschaeftigung-kein-yoga-ist-auch-keine-loesung-a-c20989a9-dda2-4145-9c95-bfb54f1cc6e7#ref=rss)
+* [https://www.spiegel.de/panorama/corona-impfpflicht-diesen-kommentar-wuerde-ich-heute-anders-schreiben](https://www.spiegel.de/panorama/corona-impfpflicht-diesen-kommentar-wuerde-ich-heute-anders-schreiben-a-358b05d3-1caf-491b-9a76-039aabed8240#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/ausland/jugendliche-in-der-corona-pandemie-geschichten-von-drei-jungen-menschen-die-sich-durchbeissen](https://www.spiegel.de/ausland/jugendliche-in-der-corona-pandemie-geschichten-von-drei-jungen-menschen-die-sich-durchbeissen-a-a44ce26e-250a-4153-8319-86d2fd174080#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig](https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig-a-e507772c-2f84-430b-8190-6481a77e770e#ref=rss)
+* [https://www.spiegel.de/panorama/livestream-zum-silvester-feuerwerk-in-sydney](https://www.spiegel.de/panorama/livestream-zum-silvester-feuerwerk-in-sydney-a-81e0e0ef-430c-4927-a06d-f4ee175146bb#ref=rss)
+### 2022
+
+* [https://www.spiegel.de/sport/olympia/das-schwierige-sportjahr-2022-raus-aus-dem-stillen-kaemmerlein](https://www.spiegel.de/sport/olympia/das-schwierige-sportjahr-2022-raus-aus-dem-stillen-kaemmerlein-a-c23cf7c5-1973-4187-ac02-ede4717a6fe4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig](https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig-a-e507772c-2f84-430b-8190-6481a77e770e#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/justiz/haftstrafe-reduziert-zehn-statt-110-jahre-gefaengnis-fuer-us-trucker](https://www.spiegel.de/panorama/justiz/haftstrafe-reduziert-zehn-statt-110-jahre-gefaengnis-fuer-us-trucker-a-4f288107-0156-4dfe-a36c-a47fad038d47#ref=rss)
+* [https://www.spiegel.de/ausland/corona-regierung-sieht-hoehepunkt-der-omikron-welle-ueberschritten](https://www.spiegel.de/ausland/corona-regierung-sieht-hoehepunkt-der-omikron-welle-ueberschritten-a-078a4334-e706-4687-98ef-6acea210a44c#ref=rss)
+* [https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck](https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck-a-53f8067c-e033-44be-aed0-e328b80bc6d3#ref=rss)
+### georg
+
+* [https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-christen-sollen-gott-trotz-traenen-der-sorge-und-trauer-fuer-2021-danken](https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-christen-sollen-gott-trotz-traenen-der-sorge-und-trauer-fuer-2021-danken-a-c158e0c1-2553-4f08-ab93-bf4f2677c4ed#ref=rss)
+### bätzing
+
+* [https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-christen-sollen-gott-trotz-traenen-der-sorge-und-trauer-fuer-2021-danken](https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-christen-sollen-gott-trotz-traenen-der-sorge-und-trauer-fuer-2021-danken-a-c158e0c1-2553-4f08-ab93-bf4f2677c4ed#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-christen-sollen-gott-trotz-traenen-der-sorge-und-trauer-fuer-2021-danken](https://www.spiegel.de/panorama/gesellschaft/georg-baetzing-christen-sollen-gott-trotz-traenen-der-sorge-und-trauer-fuer-2021-danken-a-c158e0c1-2553-4f08-ab93-bf4f2677c4ed#ref=rss)
+* [https://www.spiegel.de/panorama/usa-vater-haelt-16-jaehrige-tochter-fuer-einbrecherin-und-erschiesst-sie](https://www.spiegel.de/panorama/usa-vater-haelt-16-jaehrige-tochter-fuer-einbrecherin-und-erschiesst-sie-a-ebea7d59-7a8d-4866-8ff9-076e60ebbeef#ref=rss)
+### kind
+
+* [https://www.spiegel.de/panorama/zwoelfjaehriger-stirbt-durch-silvester-explosion-in-den-niederlanden](https://www.spiegel.de/panorama/zwoelfjaehriger-stirbt-durch-silvester-explosion-in-den-niederlanden-a-df5922cc-8039-47e8-9fcc-10cb903f84bc#ref=rss)
+* [https://www.spiegel.de/panorama/weimar-einjaehriges-kind-von-hund-ins-gesicht-gebissen-und-schwer-verletzt](https://www.spiegel.de/panorama/weimar-einjaehriges-kind-von-hund-ins-gesicht-gebissen-und-schwer-verletzt-a-a796b73e-9a8a-4f39-b2f4-7e80c0172185#ref=rss)
+### leben
+
+* [https://www.spiegel.de/panorama/zwoelfjaehriger-stirbt-durch-silvester-explosion-in-den-niederlanden](https://www.spiegel.de/panorama/zwoelfjaehriger-stirbt-durch-silvester-explosion-in-den-niederlanden-a-df5922cc-8039-47e8-9fcc-10cb903f84bc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/james-webb-teleskop-es-geht-darum-hinweise-auf-leben-zu-finden](https://www.spiegel.de/wissenschaft/weltall/james-webb-teleskop-es-geht-darum-hinweise-auf-leben-zu-finden-a-fe65a28a-cb63-450d-825c-f41dbfd0d916#ref=rss)
+### rede
+
+* [https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen](https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen-a-40a8237e-0a50-4052-adb7-a21d466cb278#ref=rss)
+* [https://www.spiegel.de/ausland/neujahrsbotschaft-des-britischen-premiers-johnson-versucht-es-mit-zuversicht](https://www.spiegel.de/ausland/neujahrsbotschaft-des-britischen-premiers-johnson-versucht-es-mit-zuversicht-a-da3cbd3c-2fd4-4104-b991-ddf1c5beb585#ref=rss)
+### voller
+
+* [https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen](https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen-a-40a8237e-0a50-4052-adb7-a21d466cb278#ref=rss)
+* [https://www.spiegel.de/panorama/livestream-zum-silvester-feuerwerk-in-sydney](https://www.spiegel.de/panorama/livestream-zum-silvester-feuerwerk-in-sydney-a-81e0e0ef-430c-4927-a06d-f4ee175146bb#ref=rss)
+### länge
+
+* [https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen](https://www.spiegel.de/politik/deutschland/scholz-erste-neujahrsansprache-bleiben-wir-zusammen-a-40a8237e-0a50-4052-adb7-a21d466cb278#ref=rss)
+* [https://www.spiegel.de/panorama/livestream-zum-silvester-feuerwerk-in-sydney](https://www.spiegel.de/panorama/livestream-zum-silvester-feuerwerk-in-sydney-a-81e0e0ef-430c-4927-a06d-f4ee175146bb#ref=rss)
+### omikronwelle
+
+* [https://www.spiegel.de/wissenschaft/medizin/drosten-zu-omikron-welle-fuer-ungeimpfte-ueber-60-wird-es-jetzt-richtig-gefaehrlich](https://www.spiegel.de/wissenschaft/medizin/drosten-zu-omikron-welle-fuer-ungeimpfte-ueber-60-wird-es-jetzt-richtig-gefaehrlich-a-4ab1640a-b3c2-4d6c-b290-32905a8a173b#ref=rss)
+* [https://www.spiegel.de/ausland/corona-regierung-sieht-hoehepunkt-der-omikron-welle-ueberschritten](https://www.spiegel.de/ausland/corona-regierung-sieht-hoehepunkt-der-omikron-welle-ueberschritten-a-078a4334-e706-4687-98ef-6acea210a44c#ref=rss)
+### model
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/sicherheitsmaengel-tesla-ruft-rund-200-000-fahrzeuge-in-china-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/sicherheitsmaengel-tesla-ruft-rund-200-000-fahrzeuge-in-china-zurueck-a-76f99377-2bca-4180-8005-cb818eb395c9#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/sicherheitsmaengel-tesla-ruft-rund-200-000-fahrzeuge-in-china-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/sicherheitsmaengel-tesla-ruft-rund-200-000-fahrzeuge-in-china-zurueck-a-76f99377-2bca-4180-8005-cb818eb395c9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig](https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig-a-e507772c-2f84-430b-8190-6481a77e770e#ref=rss)
+### entdeckt
+
+* [https://www.spiegel.de/wissenschaft/natur/hobby-forscherin-entdeckt-dinosaurier-spur-in-wales](https://www.spiegel.de/wissenschaft/natur/hobby-forscherin-entdeckt-dinosaurier-spur-in-wales-a-7007b0fa-b8ef-4f3b-8f82-9b2d8d4c6e5f#ref=rss)
+* [https://www.spiegel.de/ausland/corona-regierung-sieht-hoehepunkt-der-omikron-welle-ueberschritten](https://www.spiegel.de/ausland/corona-regierung-sieht-hoehepunkt-der-omikron-welle-ueberschritten-a-078a4334-e706-4687-98ef-6acea210a44c#ref=rss)
+### wales
+
+* [https://www.spiegel.de/wissenschaft/natur/hobby-forscherin-entdeckt-dinosaurier-spur-in-wales](https://www.spiegel.de/wissenschaft/natur/hobby-forscherin-entdeckt-dinosaurier-spur-in-wales-a-7007b0fa-b8ef-4f3b-8f82-9b2d8d4c6e5f#ref=rss)
+### selbstbeschäftigung
+
+* [https://www.spiegel.de/wissenschaft/mensch/aktivismus-und-selbstbeschaeftigung-kein-yoga-ist-auch-keine-loesung](https://www.spiegel.de/wissenschaft/mensch/aktivismus-und-selbstbeschaeftigung-kein-yoga-ist-auch-keine-loesung-a-c20989a9-dda2-4145-9c95-bfb54f1cc6e7#ref=rss)
+### yoga
+
+* [https://www.spiegel.de/wissenschaft/mensch/aktivismus-und-selbstbeschaeftigung-kein-yoga-ist-auch-keine-loesung](https://www.spiegel.de/wissenschaft/mensch/aktivismus-und-selbstbeschaeftigung-kein-yoga-ist-auch-keine-loesung-a-c20989a9-dda2-4145-9c95-bfb54f1cc6e7#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wissenschaft/mensch/aktivismus-und-selbstbeschaeftigung-kein-yoga-ist-auch-keine-loesung](https://www.spiegel.de/wissenschaft/mensch/aktivismus-und-selbstbeschaeftigung-kein-yoga-ist-auch-keine-loesung-a-c20989a9-dda2-4145-9c95-bfb54f1cc6e7#ref=rss)
+* [https://www.spiegel.de/ausland/park-geun-hye-suedkoreas-ehemalige-praesidentin-ist-wieder-frei](https://www.spiegel.de/ausland/park-geun-hye-suedkoreas-ehemalige-praesidentin-ist-wieder-frei-a-998dd1d2-61c5-408c-8702-6897d10b7c43#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/jugendliche-in-der-corona-pandemie-geschichten-von-drei-jungen-menschen-die-sich-durchbeissen](https://www.spiegel.de/ausland/jugendliche-in-der-corona-pandemie-geschichten-von-drei-jungen-menschen-die-sich-durchbeissen-a-a44ce26e-250a-4153-8319-86d2fd174080#ref=rss)
+* [https://www.spiegel.de/ausland/fluechtlinge-deutsches-rettungsschiff-mit-440-migranten-darf-anlegen](https://www.spiegel.de/ausland/fluechtlinge-deutsches-rettungsschiff-mit-440-migranten-darf-anlegen-a-43598065-81b1-4bb2-b4a0-afc2e74e88e9#ref=rss)
+### new
+
+* [https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs](https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs-a-e2006595-53d4-4918-853f-e2fe2a55d683#ref=rss)
+### york
+
+* [https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs](https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs-a-e2006595-53d4-4918-853f-e2fe2a55d683#ref=rss)
+### keechant
+
+* [https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs](https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs-a-e2006595-53d4-4918-853f-e2fe2a55d683#ref=rss)
+### sewell
+
+* [https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs](https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs-a-e2006595-53d4-4918-853f-e2fe2a55d683#ref=rss)
 ### kampf
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf-a-ca0e66ab-fc25-48ed-bc55-92d763344397#ref=rss)
-### zusammenhalt
+* [https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs](https://www.spiegel.de/ausland/new-york-keechant-sewell-wird-erste-nypd-polizeichefin-eine-frau-gegen-die-gangs-a-e2006595-53d4-4918-853f-e2fe2a55d683#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig](https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig-a-e507772c-2f84-430b-8190-6481a77e770e#ref=rss)
+### sportjahr
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf](https://www.spiegel.de/politik/deutschland/olaf-scholz-ruft-gesellschaft-in-neujahrsansprache-im-kampf-gegen-corona-zum-zusammenhalt-auf-a-ca0e66ab-fc25-48ed-bc55-92d763344397#ref=rss)
-### claus
+* [https://www.spiegel.de/sport/olympia/das-schwierige-sportjahr-2022-raus-aus-dem-stillen-kaemmerlein](https://www.spiegel.de/sport/olympia/das-schwierige-sportjahr-2022-raus-aus-dem-stillen-kaemmerlein-a-c23cf7c5-1973-4187-ac02-ede4717a6fe4#ref=rss)
+* [https://www.spiegel.de/sport/das-sportjahr-im-bilderquiz](https://www.spiegel.de/sport/das-sportjahr-im-bilderquiz-a-99b3909d-8aff-413e-b61f-af88338a7d2c#ref=rss)
+### league
 
-* [https://www.spiegel.de/kultur/claus-kleber-verabschiedet-sich-vom-heute-journal](https://www.spiegel.de/kultur/claus-kleber-verabschiedet-sich-vom-heute-journal-a-6ce412ef-32fd-48ff-a696-5570b2f93990#ref=rss)
-### kleber
+* [https://www.spiegel.de/sport/olympia/das-schwierige-sportjahr-2022-raus-aus-dem-stillen-kaemmerlein](https://www.spiegel.de/sport/olympia/das-schwierige-sportjahr-2022-raus-aus-dem-stillen-kaemmerlein-a-c23cf7c5-1973-4187-ac02-ede4717a6fe4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-romelo-lukaku-vom-fc-chelsea-ist-nicht-gluecklich-und-kokettiert-mit-rueckkehr-zu-inter-mailand](https://www.spiegel.de/sport/fussball/premier-league-romelo-lukaku-vom-fc-chelsea-ist-nicht-gluecklich-und-kokettiert-mit-rueckkehr-zu-inter-mailand-a-ae37d3a1-db61-4b91-8b80-9e7f36efc27c#ref=rss)
+### markus
 
-* [https://www.spiegel.de/kultur/claus-kleber-verabschiedet-sich-vom-heute-journal](https://www.spiegel.de/kultur/claus-kleber-verabschiedet-sich-vom-heute-journal-a-6ce412ef-32fd-48ff-a696-5570b2f93990#ref=rss)
-### fast
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-markus-eisenbichler-gewinnt-quali-in-garmisch-partenkirchen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-markus-eisenbichler-gewinnt-quali-in-garmisch-partenkirchen-a-7ac5abcf-bd7f-46b6-bca2-5fd98733b015#ref=rss)
+### eisenbichler
 
-* [https://www.spiegel.de/kultur/claus-kleber-verabschiedet-sich-vom-heute-journal](https://www.spiegel.de/kultur/claus-kleber-verabschiedet-sich-vom-heute-journal-a-6ce412ef-32fd-48ff-a696-5570b2f93990#ref=rss)
-### 3000
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-markus-eisenbichler-gewinnt-quali-in-garmisch-partenkirchen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-markus-eisenbichler-gewinnt-quali-in-garmisch-partenkirchen-a-7ac5abcf-bd7f-46b6-bca2-5fd98733b015#ref=rss)
+### garmischpartenkirchen
 
-* [https://www.spiegel.de/kultur/claus-kleber-verabschiedet-sich-vom-heute-journal](https://www.spiegel.de/kultur/claus-kleber-verabschiedet-sich-vom-heute-journal-a-6ce412ef-32fd-48ff-a696-5570b2f93990#ref=rss)
-### coronavirus
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-markus-eisenbichler-gewinnt-quali-in-garmisch-partenkirchen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-markus-eisenbichler-gewinnt-quali-in-garmisch-partenkirchen-a-7ac5abcf-bd7f-46b6-bca2-5fd98733b015#ref=rss)
+### indes
 
-* [https://www.spiegel.de/ausland/coronavirus-suedafrika-hebt-naechtliche-ausgangssperre-auf](https://www.spiegel.de/ausland/coronavirus-suedafrika-hebt-naechtliche-ausgangssperre-auf-a-5c9883d1-fa2a-48e0-be6f-8a5e49865cd0#ref=rss)
-### südafrika
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-markus-eisenbichler-gewinnt-quali-in-garmisch-partenkirchen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-markus-eisenbichler-gewinnt-quali-in-garmisch-partenkirchen-a-7ac5abcf-bd7f-46b6-bca2-5fd98733b015#ref=rss)
+* [https://www.spiegel.de/ausland/neujahrsbotschaft-des-britischen-premiers-johnson-versucht-es-mit-zuversicht](https://www.spiegel.de/ausland/neujahrsbotschaft-des-britischen-premiers-johnson-versucht-es-mit-zuversicht-a-da3cbd3c-2fd4-4104-b991-ddf1c5beb585#ref=rss)
+### statt
 
-* [https://www.spiegel.de/ausland/coronavirus-suedafrika-hebt-naechtliche-ausgangssperre-auf](https://www.spiegel.de/ausland/coronavirus-suedafrika-hebt-naechtliche-ausgangssperre-auf-a-5c9883d1-fa2a-48e0-be6f-8a5e49865cd0#ref=rss)
-### lya
+* [https://www.spiegel.de/panorama/justiz/haftstrafe-reduziert-zehn-statt-110-jahre-gefaengnis-fuer-us-trucker](https://www.spiegel.de/panorama/justiz/haftstrafe-reduziert-zehn-statt-110-jahre-gefaengnis-fuer-us-trucker-a-4f288107-0156-4dfe-a36c-a47fad038d47#ref=rss)
+* [https://www.spiegel.de/ausland/park-geun-hye-suedkoreas-ehemalige-praesidentin-ist-wieder-frei](https://www.spiegel.de/ausland/park-geun-hye-suedkoreas-ehemalige-praesidentin-ist-wieder-frei-a-998dd1d2-61c5-408c-8702-6897d10b7c43#ref=rss)
+### gefängnis
 
-* [https://www.spiegel.de/kultur/literatur/brasilien-lya-luft-ist-tot](https://www.spiegel.de/kultur/literatur/brasilien-lya-luft-ist-tot-a-934cea29-a535-4d59-855e-d2444b63c2ed#ref=rss)
-### china
+* [https://www.spiegel.de/panorama/justiz/haftstrafe-reduziert-zehn-statt-110-jahre-gefaengnis-fuer-us-trucker](https://www.spiegel.de/panorama/justiz/haftstrafe-reduziert-zehn-statt-110-jahre-gefaengnis-fuer-us-trucker-a-4f288107-0156-4dfe-a36c-a47fad038d47#ref=rss)
+* [https://www.spiegel.de/ausland/park-geun-hye-suedkoreas-ehemalige-praesidentin-ist-wieder-frei](https://www.spiegel.de/ausland/park-geun-hye-suedkoreas-ehemalige-praesidentin-ist-wieder-frei-a-998dd1d2-61c5-408c-8702-6897d10b7c43#ref=rss)
+### vier
 
-* [https://www.spiegel.de/ausland/china-der-gruene-pfau-das-wunder-von-yunnan-und-ein-auto-das-uns-folgte](https://www.spiegel.de/ausland/china-der-gruene-pfau-das-wunder-von-yunnan-und-ein-auto-das-uns-folgte-a-3dd89510-6de0-4c5a-868a-70df591956bb#ref=rss)
-### greenpeace
+* [https://www.spiegel.de/panorama/justiz/haftstrafe-reduziert-zehn-statt-110-jahre-gefaengnis-fuer-us-trucker](https://www.spiegel.de/panorama/justiz/haftstrafe-reduziert-zehn-statt-110-jahre-gefaengnis-fuer-us-trucker-a-4f288107-0156-4dfe-a36c-a47fad038d47#ref=rss)
+* [https://www.spiegel.de/panorama/von-chicago-nach-reykjavik-frau-isoliert-sich-selbst-auf-flugzeugtoilette-fuer-vier-stunden](https://www.spiegel.de/panorama/von-chicago-nach-reykjavik-frau-isoliert-sich-selbst-auf-flugzeugtoilette-fuer-vier-stunden-a-b91cabb1-b69b-4eb9-82f5-c59674c01a55#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/wirtschaft/service/debatte-ueber-lebensmittel-preise-greenpeace-spricht-sich-fuer-hoehere-mehrwertsteuer-aus](https://www.spiegel.de/wirtschaft/service/debatte-ueber-lebensmittel-preise-greenpeace-spricht-sich-fuer-hoehere-mehrwertsteuer-aus-a-3c3d3dba-1d6d-49cd-aadf-a08e923c3606#ref=rss)
+* [https://www.spiegel.de/panorama/von-chicago-nach-reykjavik-frau-isoliert-sich-selbst-auf-flugzeugtoilette-fuer-vier-stunden](https://www.spiegel.de/panorama/von-chicago-nach-reykjavik-frau-isoliert-sich-selbst-auf-flugzeugtoilette-fuer-vier-stunden-a-b91cabb1-b69b-4eb9-82f5-c59674c01a55#ref=rss)
+* [https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck](https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck-a-53f8067c-e033-44be-aed0-e328b80bc6d3#ref=rss)
+### stunden
+
+* [https://www.spiegel.de/panorama/von-chicago-nach-reykjavik-frau-isoliert-sich-selbst-auf-flugzeugtoilette-fuer-vier-stunden](https://www.spiegel.de/panorama/von-chicago-nach-reykjavik-frau-isoliert-sich-selbst-auf-flugzeugtoilette-fuer-vier-stunden-a-b91cabb1-b69b-4eb9-82f5-c59674c01a55#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/von-chicago-nach-reykjavik-frau-isoliert-sich-selbst-auf-flugzeugtoilette-fuer-vier-stunden](https://www.spiegel.de/panorama/von-chicago-nach-reykjavik-frau-isoliert-sich-selbst-auf-flugzeugtoilette-fuer-vier-stunden-a-b91cabb1-b69b-4eb9-82f5-c59674c01a55#ref=rss)
+* [https://www.spiegel.de/ausland/park-geun-hye-suedkoreas-ehemalige-praesidentin-ist-wieder-frei](https://www.spiegel.de/ausland/park-geun-hye-suedkoreas-ehemalige-praesidentin-ist-wieder-frei-a-998dd1d2-61c5-408c-8702-6897d10b7c43#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/corona-regierung-sieht-hoehepunkt-der-omikron-welle-ueberschritten](https://www.spiegel.de/ausland/corona-regierung-sieht-hoehepunkt-der-omikron-welle-ueberschritten-a-078a4334-e706-4687-98ef-6acea210a44c#ref=rss)
+* [https://www.spiegel.de/ausland/fluechtlinge-deutsches-rettungsschiff-mit-440-migranten-darf-anlegen](https://www.spiegel.de/ausland/fluechtlinge-deutsches-rettungsschiff-mit-440-migranten-darf-anlegen-a-43598065-81b1-4bb2-b4a0-afc2e74e88e9#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/corona-regierung-sieht-hoehepunkt-der-omikron-welle-ueberschritten](https://www.spiegel.de/ausland/corona-regierung-sieht-hoehepunkt-der-omikron-welle-ueberschritten-a-078a4334-e706-4687-98ef-6acea210a44c#ref=rss)
+* [https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck](https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck-a-53f8067c-e033-44be-aed0-e328b80bc6d3#ref=rss)
+### gute
+
+* [https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck](https://www.spiegel.de/kultur/neujahrsrede-von-olaf-scholz-das-fehlende-herrengesteck-a-53f8067c-e033-44be-aed0-e328b80bc6d3#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket](https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket-a-68721357-8991-4e65-8669-5413b3d71d17#ref=rss)
+### jameswebbteleskop
+
+* [https://www.spiegel.de/wissenschaft/weltall/james-webb-teleskop-es-geht-darum-hinweise-auf-leben-zu-finden](https://www.spiegel.de/wissenschaft/weltall/james-webb-teleskop-es-geht-darum-hinweise-auf-leben-zu-finden-a-fe65a28a-cb63-450d-825c-f41dbfd0d916#ref=rss)
+### wann
+
+* [https://www.spiegel.de/wissenschaft/weltall/james-webb-teleskop-es-geht-darum-hinweise-auf-leben-zu-finden](https://www.spiegel.de/wissenschaft/weltall/james-webb-teleskop-es-geht-darum-hinweise-auf-leben-zu-finden-a-fe65a28a-cb63-450d-825c-f41dbfd0d916#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/satirische-neujahrsansprache-wann-hoert-diese-ganze-scheisse-endlich-auf](https://www.spiegel.de/politik/deutschland/satirische-neujahrsansprache-wann-hoert-diese-ganze-scheisse-endlich-auf-a-6f9c2f98-e7cc-4d68-951a-32cc1778e978#ref=rss)
+### jonas
+
+* [https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket](https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket-a-68721357-8991-4e65-8669-5413b3d71d17#ref=rss)
+### dobler
+
+* [https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket](https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket-a-68721357-8991-4e65-8669-5413b3d71d17#ref=rss)
+### oberstdorf
+
+* [https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket](https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket-a-68721357-8991-4e65-8669-5413b3d71d17#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket](https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket-a-68721357-8991-4e65-8669-5413b3d71d17#ref=rss)
+### moch
+
+* [https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket](https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket-a-68721357-8991-4e65-8669-5413b3d71d17#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket](https://www.spiegel.de/sport/wintersport/tour-de-ski-jonas-dobler-steigt-in-oberstdorf-mit-herzproblemen-aus-friedrich-moch-loest-olympia-ticket-a-68721357-8991-4e65-8669-5413b3d71d17#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-romelo-lukaku-vom-fc-chelsea-ist-nicht-gluecklich-und-kokettiert-mit-rueckkehr-zu-inter-mailand](https://www.spiegel.de/sport/fussball/premier-league-romelo-lukaku-vom-fc-chelsea-ist-nicht-gluecklich-und-kokettiert-mit-rueckkehr-zu-inter-mailand-a-ae37d3a1-db61-4b91-8b80-9e7f36efc27c#ref=rss)
+### flüchtlinge
+
+* [https://www.spiegel.de/ausland/fluechtlinge-deutsches-rettungsschiff-mit-440-migranten-darf-anlegen](https://www.spiegel.de/ausland/fluechtlinge-deutsches-rettungsschiff-mit-440-migranten-darf-anlegen-a-43598065-81b1-4bb2-b4a0-afc2e74e88e9#ref=rss)
+### politik
+
+* [https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig](https://www.spiegel.de/politik/deutschland/jahresvorschau-2022-fuer-deutschland-das-wird-in-der-politik-wichtig-a-e507772c-2f84-430b-8190-6481a77e770e#ref=rss)
+### sydney
+
+* [https://www.spiegel.de/panorama/livestream-zum-silvester-feuerwerk-in-sydney](https://www.spiegel.de/panorama/livestream-zum-silvester-feuerwerk-in-sydney-a-81e0e0ef-430c-4927-a06d-f4ee175146bb#ref=rss)
+### badenwürttemberg
+
+* [https://www.spiegel.de/panorama/baden-wuerttemberg-88-jaehrige-von-muellwagen-ueberrollt-und-getoetet](https://www.spiegel.de/panorama/baden-wuerttemberg-88-jaehrige-von-muellwagen-ueberrollt-und-getoetet-a-e9c4d315-fce6-45a1-a1f9-65b05b991ae2#ref=rss)
+### weimar
+
+* [https://www.spiegel.de/panorama/weimar-einjaehriges-kind-von-hund-ins-gesicht-gebissen-und-schwer-verletzt](https://www.spiegel.de/panorama/weimar-einjaehriges-kind-von-hund-ins-gesicht-gebissen-und-schwer-verletzt-a-a796b73e-9a8a-4f39-b2f4-7e80c0172185#ref=rss)
+### hund
+
+* [https://www.spiegel.de/panorama/weimar-einjaehriges-kind-von-hund-ins-gesicht-gebissen-und-schwer-verletzt](https://www.spiegel.de/panorama/weimar-einjaehriges-kind-von-hund-ins-gesicht-gebissen-und-schwer-verletzt-a-a796b73e-9a8a-4f39-b2f4-7e80c0172185#ref=rss)
+### premier
+
+* [https://www.spiegel.de/sport/fussball/premier-league-romelo-lukaku-vom-fc-chelsea-ist-nicht-gluecklich-und-kokettiert-mit-rueckkehr-zu-inter-mailand](https://www.spiegel.de/sport/fussball/premier-league-romelo-lukaku-vom-fc-chelsea-ist-nicht-gluecklich-und-kokettiert-mit-rueckkehr-zu-inter-mailand-a-ae37d3a1-db61-4b91-8b80-9e7f36efc27c#ref=rss)
+* [https://www.spiegel.de/ausland/neujahrsbotschaft-des-britischen-premiers-johnson-versucht-es-mit-zuversicht](https://www.spiegel.de/ausland/neujahrsbotschaft-des-britischen-premiers-johnson-versucht-es-mit-zuversicht-a-da3cbd3c-2fd4-4104-b991-ddf1c5beb585#ref=rss)
+### lukaku
+
+* [https://www.spiegel.de/sport/fussball/premier-league-romelo-lukaku-vom-fc-chelsea-ist-nicht-gluecklich-und-kokettiert-mit-rueckkehr-zu-inter-mailand](https://www.spiegel.de/sport/fussball/premier-league-romelo-lukaku-vom-fc-chelsea-ist-nicht-gluecklich-und-kokettiert-mit-rueckkehr-zu-inter-mailand-a-ae37d3a1-db61-4b91-8b80-9e7f36efc27c#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/premier-league-romelo-lukaku-vom-fc-chelsea-ist-nicht-gluecklich-und-kokettiert-mit-rueckkehr-zu-inter-mailand](https://www.spiegel.de/sport/fussball/premier-league-romelo-lukaku-vom-fc-chelsea-ist-nicht-gluecklich-und-kokettiert-mit-rueckkehr-zu-inter-mailand-a-ae37d3a1-db61-4b91-8b80-9e7f36efc27c#ref=rss)
+### chelsea
+
+* [https://www.spiegel.de/sport/fussball/premier-league-romelo-lukaku-vom-fc-chelsea-ist-nicht-gluecklich-und-kokettiert-mit-rueckkehr-zu-inter-mailand](https://www.spiegel.de/sport/fussball/premier-league-romelo-lukaku-vom-fc-chelsea-ist-nicht-gluecklich-und-kokettiert-mit-rueckkehr-zu-inter-mailand-a-ae37d3a1-db61-4b91-8b80-9e7f36efc27c#ref=rss)
+### johnson
+
+* [https://www.spiegel.de/ausland/neujahrsbotschaft-des-britischen-premiers-johnson-versucht-es-mit-zuversicht](https://www.spiegel.de/ausland/neujahrsbotschaft-des-britischen-premiers-johnson-versucht-es-mit-zuversicht-a-da3cbd3c-2fd4-4104-b991-ddf1c5beb585#ref=rss)
+### jahreswechsel
+
+* [https://www.spiegel.de/ausland/neujahrsbotschaft-des-britischen-premiers-johnson-versucht-es-mit-zuversicht](https://www.spiegel.de/ausland/neujahrsbotschaft-des-britischen-premiers-johnson-versucht-es-mit-zuversicht-a-da3cbd3c-2fd4-4104-b991-ddf1c5beb585#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/satirische-neujahrsansprache-wann-hoert-diese-ganze-scheisse-endlich-auf](https://www.spiegel.de/politik/deutschland/satirische-neujahrsansprache-wann-hoert-diese-ganze-scheisse-endlich-auf-a-6f9c2f98-e7cc-4d68-951a-32cc1778e978#ref=rss)
+### park
+
+* [https://www.spiegel.de/ausland/park-geun-hye-suedkoreas-ehemalige-praesidentin-ist-wieder-frei](https://www.spiegel.de/ausland/park-geun-hye-suedkoreas-ehemalige-praesidentin-ist-wieder-frei-a-998dd1d2-61c5-408c-8702-6897d10b7c43#ref=rss)
+### frei
+
+* [https://www.spiegel.de/ausland/park-geun-hye-suedkoreas-ehemalige-praesidentin-ist-wieder-frei](https://www.spiegel.de/ausland/park-geun-hye-suedkoreas-ehemalige-praesidentin-ist-wieder-frei-a-998dd1d2-61c5-408c-8702-6897d10b7c43#ref=rss)
+### usa
+
+* [https://www.spiegel.de/panorama/usa-vater-haelt-16-jaehrige-tochter-fuer-einbrecherin-und-erschiesst-sie](https://www.spiegel.de/panorama/usa-vater-haelt-16-jaehrige-tochter-fuer-einbrecherin-und-erschiesst-sie-a-ebea7d59-7a8d-4866-8ff9-076e60ebbeef#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/usa-vater-haelt-16-jaehrige-tochter-fuer-einbrecherin-und-erschiesst-sie](https://www.spiegel.de/panorama/usa-vater-haelt-16-jaehrige-tochter-fuer-einbrecherin-und-erschiesst-sie-a-ebea7d59-7a8d-4866-8ff9-076e60ebbeef#ref=rss)
+### attila
+
+* [https://www.spiegel.de/netzwelt/attila-hildmann-haben-wir-ihm-eine-zu-grosse-buehne-geboten](https://www.spiegel.de/netzwelt/attila-hildmann-haben-wir-ihm-eine-zu-grosse-buehne-geboten-a-7679dbb4-0b58-4996-9c73-c927f1e71d5c#ref=rss)
+### hildmann
+
+* [https://www.spiegel.de/netzwelt/attila-hildmann-haben-wir-ihm-eine-zu-grosse-buehne-geboten](https://www.spiegel.de/netzwelt/attila-hildmann-haben-wir-ihm-eine-zu-grosse-buehne-geboten-a-7679dbb4-0b58-4996-9c73-c927f1e71d5c#ref=rss)
 
