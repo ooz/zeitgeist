@@ -4,326 +4,339 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vinfast-vietnamesischer-tesla-herausforderer-will-elektroautos-in-deutschland-bauen](https://www.spiegel.de/wirtschaft/unternehmen/vinfast-vietnamesischer-tesla-herausforderer-will-elektroautos-in-deutschland-bauen-a-baf3711c-7e5f-46a7-8748-509d35310b43#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/niedriglohn-wo-deutschlands-geringverdiener-arbeiten-und-wer-dazu-gehoert](https://www.spiegel.de/wirtschaft/soziales/niedriglohn-wo-deutschlands-geringverdiener-arbeiten-und-wer-dazu-gehoert-a-05f3dd6a-77e4-4b2a-8c54-79c646d0376d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-in-deutschland-rki-sieben-tage-inzidenz-steigt-erneut-stark-an](https://www.spiegel.de/wissenschaft/medizin/coronavirus-in-deutschland-rki-sieben-tage-inzidenz-steigt-erneut-stark-an-a-8636ec96-b38a-4032-9877-3c3d3718d26e#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/ein-jahr-attacke-auf-das-us-kapitol-es-kann-noch-schlimmer-kommen](https://www.spiegel.de/ausland/ein-jahr-attacke-auf-das-us-kapitol-es-kann-noch-schlimmer-kommen-a-60bac6ac-badc-4824-a88f-7d0ad100bf28#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl](https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl-a-8fbb7e6d-3659-4918-a530-2d70b233227c#ref=rss)
-* [https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt](https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt-a-25f928a8-c329-4f99-b093-2327cd01fd36#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan](https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan-a-293299be-cd59-497c-accd-7dcae201c03a#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/ein-jahr-attacke-auf-das-us-kapitol-es-kann-noch-schlimmer-kommen](https://www.spiegel.de/ausland/ein-jahr-attacke-auf-das-us-kapitol-es-kann-noch-schlimmer-kommen-a-60bac6ac-badc-4824-a88f-7d0ad100bf28#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl](https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl-a-8fbb7e6d-3659-4918-a530-2d70b233227c#ref=rss)
-* [https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt](https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt-a-25f928a8-c329-4f99-b093-2327cd01fd36#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan](https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan-a-293299be-cd59-497c-accd-7dcae201c03a#ref=rss)
-### corona
-
-* [https://www.spiegel.de/politik/christian-lindner-fdp-chef-zum-politischen-jahresauftakt-am-dreikoenigstag](https://www.spiegel.de/politik/christian-lindner-fdp-chef-zum-politischen-jahresauftakt-am-dreikoenigstag-a-ebe907bd-ee90-4bf5-9da6-cfe74cb8327c#ref=rss)
-* [https://www.spiegel.de/gesundheit/corona-genesen-geimpft-geboostert-was-sie-jetzt-wissen-muessen](https://www.spiegel.de/gesundheit/corona-genesen-geimpft-geboostert-was-sie-jetzt-wissen-muessen-a-11389ca5-1c85-45d2-be05-9fb20dbd0400#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-nationalversammlung-billigt-drastische-einschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/ausland/frankreich-nationalversammlung-billigt-drastische-einschraenkungen-fuer-ungeimpfte-a-7ec94841-56d9-4ba4-90fd-d455513a64ad#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-manuela-schwesig-ueber-die-mpk-und-drohungen-von-querdenkern](https://www.spiegel.de/politik/deutschland/corona-manuela-schwesig-ueber-die-mpk-und-drohungen-von-querdenkern-a-24659ee7-03cb-4137-9d68-8be54ab6c9af#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/leichtathletik-kugelstosserin-christina-schwanitz-will-karriere-nach-der-saison-beenden](https://www.spiegel.de/sport/leichtathletik-kugelstosserin-christina-schwanitz-will-karriere-nach-der-saison-beenden-a-2ff5eb7d-c211-445f-9b1a-6c303ee4dbe1#ref=rss)
-* [https://www.spiegel.de/ausland/ein-jahr-attacke-auf-das-us-kapitol-es-kann-noch-schlimmer-kommen](https://www.spiegel.de/ausland/ein-jahr-attacke-auf-das-us-kapitol-es-kann-noch-schlimmer-kommen-a-60bac6ac-badc-4824-a88f-7d0ad100bf28#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl](https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl-a-8fbb7e6d-3659-4918-a530-2d70b233227c#ref=rss)
-* [https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt](https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt-a-25f928a8-c329-4f99-b093-2327cd01fd36#ref=rss)
-### kasachstan
-
-* [https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten](https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten-a-80ed0f8b-00da-4fd6-a378-d33590e6e4f1#ref=rss)
-* [https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty](https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty-a-49750626-3e7d-4477-8a91-865b96a31398#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan](https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan-a-293299be-cd59-497c-accd-7dcae201c03a#ref=rss)
-### demonstranten
-
-* [https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten](https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten-a-80ed0f8b-00da-4fd6-a378-d33590e6e4f1#ref=rss)
-* [https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty](https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty-a-49750626-3e7d-4477-8a91-865b96a31398#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten](https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten-a-80ed0f8b-00da-4fd6-a378-d33590e6e4f1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/vinfast-vietnamesischer-tesla-herausforderer-will-elektroautos-in-deutschland-bauen](https://www.spiegel.de/wirtschaft/unternehmen/vinfast-vietnamesischer-tesla-herausforderer-will-elektroautos-in-deutschland-bauen-a-baf3711c-7e5f-46a7-8748-509d35310b43#ref=rss)
-* [https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty](https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty-a-49750626-3e7d-4477-8a91-865b96a31398#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-meldet-angeblichen-test-von-hyperschall-rakete](https://www.spiegel.de/ausland/nordkorea-meldet-angeblichen-test-von-hyperschall-rakete-a-1b16ac04-5ef7-4b6d-87de-3932b0f1dd69#ref=rss)
-### angaben
-
-* [https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten](https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten-a-80ed0f8b-00da-4fd6-a378-d33590e6e4f1#ref=rss)
-* [https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty](https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty-a-49750626-3e7d-4477-8a91-865b96a31398#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-meldet-angeblichen-test-von-hyperschall-rakete](https://www.spiegel.de/ausland/nordkorea-meldet-angeblichen-test-von-hyperschall-rakete-a-1b16ac04-5ef7-4b6d-87de-3932b0f1dd69#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/christian-lindner-fdp-chef-zum-politischen-jahresauftakt-am-dreikoenigstag](https://www.spiegel.de/politik/christian-lindner-fdp-chef-zum-politischen-jahresauftakt-am-dreikoenigstag-a-ebe907bd-ee90-4bf5-9da6-cfe74cb8327c#ref=rss)
-* [https://www.spiegel.de/kultur/tv/heute-journal-hanna-zimmermann-wird-neue-co-moderatorin](https://www.spiegel.de/kultur/tv/heute-journal-hanna-zimmermann-wird-neue-co-moderatorin-a-c15474dd-0c93-4b19-bfa2-84fc25d4b9c1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan](https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan-a-293299be-cd59-497c-accd-7dcae201c03a#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/christian-lindner-fdp-chef-zum-politischen-jahresauftakt-am-dreikoenigstag](https://www.spiegel.de/politik/christian-lindner-fdp-chef-zum-politischen-jahresauftakt-am-dreikoenigstag-a-ebe907bd-ee90-4bf5-9da6-cfe74cb8327c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan](https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan-a-293299be-cd59-497c-accd-7dcae201c03a#ref=rss)
-### almaty
-
-* [https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten](https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten-a-80ed0f8b-00da-4fd6-a378-d33590e6e4f1#ref=rss)
-* [https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty](https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty-a-49750626-3e7d-4477-8a91-865b96a31398#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten](https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten-a-80ed0f8b-00da-4fd6-a378-d33590e6e4f1#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-nationalversammlung-billigt-drastische-einschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/ausland/frankreich-nationalversammlung-billigt-drastische-einschraenkungen-fuer-ungeimpfte-a-7ec94841-56d9-4ba4-90fd-d455513a64ad#ref=rss)
-* [https://www.spiegel.de/sport/tennis/novak-djokovic-aus-australien-ausgewiesen-eklat-um-die-nummer-eins](https://www.spiegel.de/sport/tennis/novak-djokovic-aus-australien-ausgewiesen-eklat-um-die-nummer-eins-a-2c2432b3-9e90-4a90-b9de-b29d43c4eef9#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vinfast-vietnamesischer-tesla-herausforderer-will-elektroautos-in-deutschland-bauen](https://www.spiegel.de/wirtschaft/unternehmen/vinfast-vietnamesischer-tesla-herausforderer-will-elektroautos-in-deutschland-bauen-a-baf3711c-7e5f-46a7-8748-509d35310b43#ref=rss)
-* [https://www.spiegel.de/kultur/tv/heute-journal-hanna-zimmermann-wird-neue-co-moderatorin](https://www.spiegel.de/kultur/tv/heute-journal-hanna-zimmermann-wird-neue-co-moderatorin-a-c15474dd-0c93-4b19-bfa2-84fc25d4b9c1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/exxonmobil-entdeckt-neue-erdoel-quellen-vor-guyana](https://www.spiegel.de/wirtschaft/exxonmobil-entdeckt-neue-erdoel-quellen-vor-guyana-a-5263d6fb-944a-478a-8256-770cb75872af#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/ein-jahr-attacke-auf-das-us-kapitol-es-kann-noch-schlimmer-kommen](https://www.spiegel.de/ausland/ein-jahr-attacke-auf-das-us-kapitol-es-kann-noch-schlimmer-kommen-a-60bac6ac-badc-4824-a88f-7d0ad100bf28#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen](https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen-a-80428b50-aeba-4e25-99d6-61505be49ae8#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl](https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl-a-8fbb7e6d-3659-4918-a530-2d70b233227c#ref=rss)
-### eklat
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-impfung-in-der-schwangerschaft-ist-nicht-mit-erhoehtem-risiko-fuer-fruehgeburten-verbunden](https://www.spiegel.de/wissenschaft/medizin/coronavirus-impfung-in-der-schwangerschaft-ist-nicht-mit-erhoehtem-risiko-fuer-fruehgeburten-verbunden-a-1d33c43b-d5b1-4639-a500-8efe262b09ea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz](https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz-a-4f50ec93-8324-496c-b10a-77f90e7f0747#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/scheindebatten-die-wir-2022-nicht-mehr-brauchen-podcast](https://www.spiegel.de/politik/deutschland/scheindebatten-die-wir-2022-nicht-mehr-brauchen-podcast-a-89619e18-569d-44df-9a3f-3ac56615578b#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/schweizer-soldaten-duerfen-whatsapp-im-dienst-nicht-mehr-nutzen](https://www.spiegel.de/netzwelt/apps/schweizer-soldaten-duerfen-whatsapp-im-dienst-nicht-mehr-nutzen-a-414c2a00-8938-4b23-93cc-af7ebbfc3822#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/hannover-hort-betreuer-wegen-kindesmissbrauch-zu-acht-jahren-gefaengnis-verurteilt](https://www.spiegel.de/panorama/bildung/hannover-hort-betreuer-wegen-kindesmissbrauch-zu-acht-jahren-gefaengnis-verurteilt-a-dd851d30-e542-4bee-a15e-201e2fcb9b8d#ref=rss)
+### china
 
-* [https://www.spiegel.de/sport/nfl-antonio-brown-aeussert-sich-zum-eklat-und-beschuldigt-seinen-trainer](https://www.spiegel.de/sport/nfl-antonio-brown-aeussert-sich-zum-eklat-und-beschuldigt-seinen-trainer-a-25288b3c-895a-40eb-9e4f-0f7d6758878a#ref=rss)
-* [https://www.spiegel.de/sport/tennis/novak-djokovic-aus-australien-ausgewiesen-eklat-um-die-nummer-eins](https://www.spiegel.de/sport/tennis/novak-djokovic-aus-australien-ausgewiesen-eklat-um-die-nummer-eins-a-2c2432b3-9e90-4a90-b9de-b29d43c4eef9#ref=rss)
-### joe
+* [https://www.spiegel.de/panorama/china-schwangere-wird-wegen-fehlendem-coronatest-nicht-behandelt-und-erleidet-fehlgeburt](https://www.spiegel.de/panorama/china-schwangere-wird-wegen-fehlendem-coronatest-nicht-behandelt-und-erleidet-fehlgeburt-a-18a13d0f-ab5d-4a5c-986d-a12f9b9d686f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/us-nanoforscher-wegen-kooperation-mit-china-verurteilt](https://www.spiegel.de/wissenschaft/mensch/us-nanoforscher-wegen-kooperation-mit-china-verurteilt-a-c0c67cf9-ec78-4ecf-9200-40bb160c5bd4#ref=rss)
+### attackiert
 
-* [https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl](https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl-a-8fbb7e6d-3659-4918-a530-2d70b233227c#ref=rss)
-* [https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt](https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt-a-25f928a8-c329-4f99-b093-2327cd01fd36#ref=rss)
-### biden
+* [https://www.spiegel.de/sport/fussballquiz-wer-biss-friedel-rausch](https://www.spiegel.de/sport/fussballquiz-wer-biss-friedel-rausch-a-08e251c5-1d83-4fd7-8ed8-31fa1debde78#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat](https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat-a-f4924a16-5e2d-4158-90b6-8a7b0d6251a8#ref=rss)
+* [https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump](https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump-a-23549345-9c58-44f5-9498-0319144fa998#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump](https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump-a-f7ea92f0-681a-466f-8367-ea9d34479cd4#ref=rss)
+### kapitol
 
-* [https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl](https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl-a-8fbb7e6d-3659-4918-a530-2d70b233227c#ref=rss)
-* [https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt](https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt-a-25f928a8-c329-4f99-b093-2327cd01fd36#ref=rss)
-### sebastian
+* [https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat](https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat-a-f4924a16-5e2d-4158-90b6-8a7b0d6251a8#ref=rss)
+* [https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt](https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt-a-6d0e4ec0-790a-492b-98fd-bdbbad896689#ref=rss)
+* [https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump](https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump-a-23549345-9c58-44f5-9498-0319144fa998#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/leute/sebastian-vettel-findet-greta-thunberg-toll](https://www.spiegel.de/panorama/leute/sebastian-vettel-findet-greta-thunberg-toll-a-a54d871c-5025-4777-8550-715d5d0b7bb1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan](https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan-a-293299be-cd59-497c-accd-7dcae201c03a#ref=rss)
-### frankreich
+* [https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt](https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt-a-6d0e4ec0-790a-492b-98fd-bdbbad896689#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/us-nanoforscher-wegen-kooperation-mit-china-verurteilt](https://www.spiegel.de/wissenschaft/mensch/us-nanoforscher-wegen-kooperation-mit-china-verurteilt-a-c0c67cf9-ec78-4ecf-9200-40bb160c5bd4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-impfung-in-der-schwangerschaft-ist-nicht-mit-erhoehtem-risiko-fuer-fruehgeburten-verbunden](https://www.spiegel.de/wissenschaft/medizin/coronavirus-impfung-in-der-schwangerschaft-ist-nicht-mit-erhoehtem-risiko-fuer-fruehgeburten-verbunden-a-1d33c43b-d5b1-4639-a500-8efe262b09ea#ref=rss)
+* [https://www.spiegel.de/ausland/coronavirus-lehrer-und-schulen-streiten-in-chicago-ueber-coronaregeln](https://www.spiegel.de/ausland/coronavirus-lehrer-und-schulen-streiten-in-chicago-ueber-coronaregeln-a-cb815609-1df7-4ba3-8840-6bf14d7a0cda#ref=rss)
+### corona
 
-* [https://www.spiegel.de/netzwelt/web/frankreich-verhaengt-millionenstrafen-gegen-facebook-und-google](https://www.spiegel.de/netzwelt/web/frankreich-verhaengt-millionenstrafen-gegen-facebook-und-google-a-18ddf3fd-ac7e-4919-99a3-6e79a298d033#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-nationalversammlung-billigt-drastische-einschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/ausland/frankreich-nationalversammlung-billigt-drastische-einschraenkungen-fuer-ungeimpfte-a-7ec94841-56d9-4ba4-90fd-d455513a64ad#ref=rss)
-### google
+* [https://www.spiegel.de/politik/deutschland/corona-das-planen-bund-und-laender-im-kampf-gegen-omikron](https://www.spiegel.de/politik/deutschland/corona-das-planen-bund-und-laender-im-kampf-gegen-omikron-a-21b96108-0102-4962-a102-b435ed17159b#ref=rss)
+* [https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet](https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet-a-3d003192-2da8-4228-97f6-f799ddb603a7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-in-sachsen-michael-kretschmer-plant-weitgehende-oeffnungen](https://www.spiegel.de/politik/deutschland/corona-in-sachsen-michael-kretschmer-plant-weitgehende-oeffnungen-a-b9e4b529-b18e-467d-bdc6-e1afe35d29da#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/netzwelt/web/frankreich-verhaengt-millionenstrafen-gegen-facebook-und-google](https://www.spiegel.de/netzwelt/web/frankreich-verhaengt-millionenstrafen-gegen-facebook-und-google-a-18ddf3fd-ac7e-4919-99a3-6e79a298d033#ref=rss)
-### millionen
+* [https://www.spiegel.de/wissenschaft/mensch/us-nanoforscher-wegen-kooperation-mit-china-verurteilt](https://www.spiegel.de/wissenschaft/mensch/us-nanoforscher-wegen-kooperation-mit-china-verurteilt-a-c0c67cf9-ec78-4ecf-9200-40bb160c5bd4#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oesterreich-45-jaehriger-beteiligter-im-missbrauchskomplex-muenster-verurteilt](https://www.spiegel.de/panorama/justiz/oesterreich-45-jaehriger-beteiligter-im-missbrauchskomplex-muenster-verurteilt-a-b1f6cd1d-0994-4ae6-aa53-c6074635dd2f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/hannover-hort-betreuer-wegen-kindesmissbrauch-zu-acht-jahren-gefaengnis-verurteilt](https://www.spiegel.de/panorama/bildung/hannover-hort-betreuer-wegen-kindesmissbrauch-zu-acht-jahren-gefaengnis-verurteilt-a-dd851d30-e542-4bee-a15e-201e2fcb9b8d#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/netzwelt/web/frankreich-verhaengt-millionenstrafen-gegen-facebook-und-google](https://www.spiegel.de/netzwelt/web/frankreich-verhaengt-millionenstrafen-gegen-facebook-und-google-a-18ddf3fd-ac7e-4919-99a3-6e79a298d033#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/niedriglohn-wo-deutschlands-geringverdiener-arbeiten-und-wer-dazu-gehoert](https://www.spiegel.de/wirtschaft/soziales/niedriglohn-wo-deutschlands-geringverdiener-arbeiten-und-wer-dazu-gehoert-a-05f3dd6a-77e4-4b2a-8c54-79c646d0376d#ref=rss)
-### lindner
+* [https://www.spiegel.de/panorama/china-schwangere-wird-wegen-fehlendem-coronatest-nicht-behandelt-und-erleidet-fehlgeburt](https://www.spiegel.de/panorama/china-schwangere-wird-wegen-fehlendem-coronatest-nicht-behandelt-und-erleidet-fehlgeburt-a-18a13d0f-ab5d-4a5c-986d-a12f9b9d686f#ref=rss)
+* [https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet](https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet-a-3d003192-2da8-4228-97f6-f799ddb603a7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/union-berlin-dirk-zingler-will-keine-veganen-wuerstchen-im-fussballstadion](https://www.spiegel.de/sport/fussball/union-berlin-dirk-zingler-will-keine-veganen-wuerstchen-im-fussballstadion-a-2e6b054c-a473-475b-9de9-f08ec859871f#ref=rss)
+### donald
 
-* [https://www.spiegel.de/politik/christian-lindner-fdp-chef-zum-politischen-jahresauftakt-am-dreikoenigstag](https://www.spiegel.de/politik/christian-lindner-fdp-chef-zum-politischen-jahresauftakt-am-dreikoenigstag-a-ebe907bd-ee90-4bf5-9da6-cfe74cb8327c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan](https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan-a-293299be-cd59-497c-accd-7dcae201c03a#ref=rss)
-### menschen
+* [https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat](https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat-a-f4924a16-5e2d-4158-90b6-8a7b0d6251a8#ref=rss)
+* [https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump](https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump-a-23549345-9c58-44f5-9498-0319144fa998#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump](https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump-a-f7ea92f0-681a-466f-8367-ea9d34479cd4#ref=rss)
+### trump
 
-* [https://www.spiegel.de/gesundheit/corona-genesen-geimpft-geboostert-was-sie-jetzt-wissen-muessen](https://www.spiegel.de/gesundheit/corona-genesen-geimpft-geboostert-was-sie-jetzt-wissen-muessen-a-11389ca5-1c85-45d2-be05-9fb20dbd0400#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/niedriglohn-wo-deutschlands-geringverdiener-arbeiten-und-wer-dazu-gehoert](https://www.spiegel.de/wirtschaft/soziales/niedriglohn-wo-deutschlands-geringverdiener-arbeiten-und-wer-dazu-gehoert-a-05f3dd6a-77e4-4b2a-8c54-79c646d0376d#ref=rss)
-### leichtathletik
+* [https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat](https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat-a-f4924a16-5e2d-4158-90b6-8a7b0d6251a8#ref=rss)
+* [https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump](https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump-a-23549345-9c58-44f5-9498-0319144fa998#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump](https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump-a-f7ea92f0-681a-466f-8367-ea9d34479cd4#ref=rss)
+### aufs
 
-* [https://www.spiegel.de/sport/leichtathletik-kugelstosserin-christina-schwanitz-will-karriere-nach-der-saison-beenden](https://www.spiegel.de/sport/leichtathletik-kugelstosserin-christina-schwanitz-will-karriere-nach-der-saison-beenden-a-2ff5eb7d-c211-445f-9b1a-6c303ee4dbe1#ref=rss)
-### christina
-
-* [https://www.spiegel.de/sport/leichtathletik-kugelstosserin-christina-schwanitz-will-karriere-nach-der-saison-beenden](https://www.spiegel.de/sport/leichtathletik-kugelstosserin-christina-schwanitz-will-karriere-nach-der-saison-beenden-a-2ff5eb7d-c211-445f-9b1a-6c303ee4dbe1#ref=rss)
-### schwanitz
-
-* [https://www.spiegel.de/sport/leichtathletik-kugelstosserin-christina-schwanitz-will-karriere-nach-der-saison-beenden](https://www.spiegel.de/sport/leichtathletik-kugelstosserin-christina-schwanitz-will-karriere-nach-der-saison-beenden-a-2ff5eb7d-c211-445f-9b1a-6c303ee4dbe1#ref=rss)
-### hofft
-
-* [https://www.spiegel.de/sport/leichtathletik-kugelstosserin-christina-schwanitz-will-karriere-nach-der-saison-beenden](https://www.spiegel.de/sport/leichtathletik-kugelstosserin-christina-schwanitz-will-karriere-nach-der-saison-beenden-a-2ff5eb7d-c211-445f-9b1a-6c303ee4dbe1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/sebastian-vettel-findet-greta-thunberg-toll](https://www.spiegel.de/panorama/leute/sebastian-vettel-findet-greta-thunberg-toll-a-a54d871c-5025-4777-8550-715d5d0b7bb1#ref=rss)
-### raumfahrtkonzern
-
-* [https://www.spiegel.de/politik/deutschland/bremen-bekennerschreiben-nach-brandanschlag-auf-raumfahrtkonzern-aufgetaucht](https://www.spiegel.de/politik/deutschland/bremen-bekennerschreiben-nach-brandanschlag-auf-raumfahrtkonzern-aufgetaucht-a-afd658ce-ef57-40c5-909b-e5121e41244c#ref=rss)
-### militär
-
-* [https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten](https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten-a-80ed0f8b-00da-4fd6-a378-d33590e6e4f1#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten](https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten-a-80ed0f8b-00da-4fd6-a378-d33590e6e4f1#ref=rss)
-* [https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty](https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty-a-49750626-3e7d-4477-8a91-865b96a31398#ref=rss)
-### schickt
-
-* [https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten](https://www.spiegel.de/ausland/kasachstan-militaer-schiesst-in-almaty-auf-demonstranten-a-80ed0f8b-00da-4fd6-a378-d33590e6e4f1#ref=rss)
-* [https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty](https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty-a-49750626-3e7d-4477-8a91-865b96a31398#ref=rss)
-### vinfast
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/vinfast-vietnamesischer-tesla-herausforderer-will-elektroautos-in-deutschland-bauen](https://www.spiegel.de/wirtschaft/unternehmen/vinfast-vietnamesischer-tesla-herausforderer-will-elektroautos-in-deutschland-bauen-a-baf3711c-7e5f-46a7-8748-509d35310b43#ref=rss)
-### uskapitol
-
-* [https://www.spiegel.de/ausland/ein-jahr-attacke-auf-das-us-kapitol-es-kann-noch-schlimmer-kommen](https://www.spiegel.de/ausland/ein-jahr-attacke-auf-das-us-kapitol-es-kann-noch-schlimmer-kommen-a-60bac6ac-badc-4824-a88f-7d0ad100bf28#ref=rss)
-* [https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt](https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt-a-25f928a8-c329-4f99-b093-2327cd01fd36#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/ein-jahr-attacke-auf-das-us-kapitol-es-kann-noch-schlimmer-kommen](https://www.spiegel.de/ausland/ein-jahr-attacke-auf-das-us-kapitol-es-kann-noch-schlimmer-kommen-a-60bac6ac-badc-4824-a88f-7d0ad100bf28#ref=rss)
-* [https://www.spiegel.de/wirtschaft/exxonmobil-entdeckt-neue-erdoel-quellen-vor-guyana](https://www.spiegel.de/wirtschaft/exxonmobil-entdeckt-neue-erdoel-quellen-vor-guyana-a-5263d6fb-944a-478a-8256-770cb75872af#ref=rss)
-### hanna
-
-* [https://www.spiegel.de/kultur/tv/heute-journal-hanna-zimmermann-wird-neue-co-moderatorin](https://www.spiegel.de/kultur/tv/heute-journal-hanna-zimmermann-wird-neue-co-moderatorin-a-c15474dd-0c93-4b19-bfa2-84fc25d4b9c1#ref=rss)
-### zimmermann
-
-* [https://www.spiegel.de/kultur/tv/heute-journal-hanna-zimmermann-wird-neue-co-moderatorin](https://www.spiegel.de/kultur/tv/heute-journal-hanna-zimmermann-wird-neue-co-moderatorin-a-c15474dd-0c93-4b19-bfa2-84fc25d4b9c1#ref=rss)
-### unter
-
-* [https://www.spiegel.de/kultur/tv/heute-journal-hanna-zimmermann-wird-neue-co-moderatorin](https://www.spiegel.de/kultur/tv/heute-journal-hanna-zimmermann-wird-neue-co-moderatorin-a-c15474dd-0c93-4b19-bfa2-84fc25d4b9c1#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen](https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen-a-80428b50-aeba-4e25-99d6-61505be49ae8#ref=rss)
-### basketballstar
-
-* [https://www.spiegel.de/sport/basketball/nba-impfverweigerer-basketball-star-kyrie-irving-gibt-saisondebuet](https://www.spiegel.de/sport/basketball/nba-impfverweigerer-basketball-star-kyrie-irving-gibt-saisondebuet-a-874279eb-a82f-4da2-9d95-4e5414283a01#ref=rss)
-### kyrie
-
-* [https://www.spiegel.de/sport/basketball/nba-impfverweigerer-basketball-star-kyrie-irving-gibt-saisondebuet](https://www.spiegel.de/sport/basketball/nba-impfverweigerer-basketball-star-kyrie-irving-gibt-saisondebuet-a-874279eb-a82f-4da2-9d95-4e5414283a01#ref=rss)
-### irving
-
-* [https://www.spiegel.de/sport/basketball/nba-impfverweigerer-basketball-star-kyrie-irving-gibt-saisondebuet](https://www.spiegel.de/sport/basketball/nba-impfverweigerer-basketball-star-kyrie-irving-gibt-saisondebuet-a-874279eb-a82f-4da2-9d95-4e5414283a01#ref=rss)
-### saisondebüt
-
-* [https://www.spiegel.de/sport/basketball/nba-impfverweigerer-basketball-star-kyrie-irving-gibt-saisondebuet](https://www.spiegel.de/sport/basketball/nba-impfverweigerer-basketball-star-kyrie-irving-gibt-saisondebuet-a-874279eb-a82f-4da2-9d95-4e5414283a01#ref=rss)
-### nationalversammlung
-
-* [https://www.spiegel.de/ausland/frankreich-nationalversammlung-billigt-drastische-einschraenkungen-fuer-ungeimpfte](https://www.spiegel.de/ausland/frankreich-nationalversammlung-billigt-drastische-einschraenkungen-fuer-ungeimpfte-a-7ec94841-56d9-4ba4-90fd-d455513a64ad#ref=rss)
-### bahnradweltmeisterin
-
-* [https://www.spiegel.de/sport/nach-sturz-bahnrad-weltmeisterin-amy-pieters-wird-in-heimat-verlegt](https://www.spiegel.de/sport/nach-sturz-bahnrad-weltmeisterin-amy-pieters-wird-in-heimat-verlegt-a-39ef386e-a6c2-4d01-b9bf-907afc7fa192#ref=rss)
-### amy
-
-* [https://www.spiegel.de/sport/nach-sturz-bahnrad-weltmeisterin-amy-pieters-wird-in-heimat-verlegt](https://www.spiegel.de/sport/nach-sturz-bahnrad-weltmeisterin-amy-pieters-wird-in-heimat-verlegt-a-39ef386e-a6c2-4d01-b9bf-907afc7fa192#ref=rss)
-### pieters
-
-* [https://www.spiegel.de/sport/nach-sturz-bahnrad-weltmeisterin-amy-pieters-wird-in-heimat-verlegt](https://www.spiegel.de/sport/nach-sturz-bahnrad-weltmeisterin-amy-pieters-wird-in-heimat-verlegt-a-39ef386e-a6c2-4d01-b9bf-907afc7fa192#ref=rss)
-### heimat
-
-* [https://www.spiegel.de/sport/nach-sturz-bahnrad-weltmeisterin-amy-pieters-wird-in-heimat-verlegt](https://www.spiegel.de/sport/nach-sturz-bahnrad-weltmeisterin-amy-pieters-wird-in-heimat-verlegt-a-39ef386e-a6c2-4d01-b9bf-907afc7fa192#ref=rss)
-### verlegt
-
-* [https://www.spiegel.de/sport/nach-sturz-bahnrad-weltmeisterin-amy-pieters-wird-in-heimat-verlegt](https://www.spiegel.de/sport/nach-sturz-bahnrad-weltmeisterin-amy-pieters-wird-in-heimat-verlegt-a-39ef386e-a6c2-4d01-b9bf-907afc7fa192#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/sport/nach-sturz-bahnrad-weltmeisterin-amy-pieters-wird-in-heimat-verlegt](https://www.spiegel.de/sport/nach-sturz-bahnrad-weltmeisterin-amy-pieters-wird-in-heimat-verlegt-a-39ef386e-a6c2-4d01-b9bf-907afc7fa192#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan](https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan-a-293299be-cd59-497c-accd-7dcae201c03a#ref=rss)
-### dirk
-
-* [https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen](https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen-a-80428b50-aeba-4e25-99d6-61505be49ae8#ref=rss)
-### nowitzki
-
-* [https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen](https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen-a-80428b50-aeba-4e25-99d6-61505be49ae8#ref=rss)
-### dallas
-
-* [https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen](https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen-a-80428b50-aeba-4e25-99d6-61505be49ae8#ref=rss)
-### mavericks
-
-* [https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen](https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen-a-80428b50-aeba-4e25-99d6-61505be49ae8#ref=rss)
-### nummer
-
-* [https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen](https://www.spiegel.de/sport/basketball/nba-star-ehrung-fuer-dirk-nowitzki-trikot-der-dallas-mavericks-unter-hallendecke-gezogen-a-80428b50-aeba-4e25-99d6-61505be49ae8#ref=rss)
-* [https://www.spiegel.de/sport/tennis/novak-djokovic-aus-australien-ausgewiesen-eklat-um-die-nummer-eins](https://www.spiegel.de/sport/tennis/novak-djokovic-aus-australien-ausgewiesen-eklat-um-die-nummer-eins-a-2c2432b3-9e90-4a90-b9de-b29d43c4eef9#ref=rss)
-### antonio
-
-* [https://www.spiegel.de/sport/nfl-antonio-brown-aeussert-sich-zum-eklat-und-beschuldigt-seinen-trainer](https://www.spiegel.de/sport/nfl-antonio-brown-aeussert-sich-zum-eklat-und-beschuldigt-seinen-trainer-a-25288b3c-895a-40eb-9e4f-0f7d6758878a#ref=rss)
-### brown
-
-* [https://www.spiegel.de/sport/nfl-antonio-brown-aeussert-sich-zum-eklat-und-beschuldigt-seinen-trainer](https://www.spiegel.de/sport/nfl-antonio-brown-aeussert-sich-zum-eklat-und-beschuldigt-seinen-trainer-a-25288b3c-895a-40eb-9e4f-0f7d6758878a#ref=rss)
-### anwälte
-
-* [https://www.spiegel.de/sport/nfl-antonio-brown-aeussert-sich-zum-eklat-und-beschuldigt-seinen-trainer](https://www.spiegel.de/sport/nfl-antonio-brown-aeussert-sich-zum-eklat-und-beschuldigt-seinen-trainer-a-25288b3c-895a-40eb-9e4f-0f7d6758878a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-von-jeffrey-epstein-vertrauter-fordern-neues-verfahren](https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-von-jeffrey-epstein-vertrauter-fordern-neues-verfahren-a-8c05f1d1-503d-49e2-97a4-6e8017508cbb#ref=rss)
-### emma
-
-* [https://www.spiegel.de/panorama/gesellschaft/emma-watson-israels-ehemaliger-uno-botschafter-wirft-harry-potter-star-antisemitismus-vor](https://www.spiegel.de/panorama/gesellschaft/emma-watson-israels-ehemaliger-uno-botschafter-wirft-harry-potter-star-antisemitismus-vor-a-c97b933a-76f1-4183-aa62-40eb49239768#ref=rss)
-### watson
-
-* [https://www.spiegel.de/panorama/gesellschaft/emma-watson-israels-ehemaliger-uno-botschafter-wirft-harry-potter-star-antisemitismus-vor](https://www.spiegel.de/panorama/gesellschaft/emma-watson-israels-ehemaliger-uno-botschafter-wirft-harry-potter-star-antisemitismus-vor-a-c97b933a-76f1-4183-aa62-40eb49239768#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/panorama/gesellschaft/emma-watson-israels-ehemaliger-uno-botschafter-wirft-harry-potter-star-antisemitismus-vor](https://www.spiegel.de/panorama/gesellschaft/emma-watson-israels-ehemaliger-uno-botschafter-wirft-harry-potter-star-antisemitismus-vor-a-c97b933a-76f1-4183-aa62-40eb49239768#ref=rss)
-### antisemitismus
-
-* [https://www.spiegel.de/panorama/gesellschaft/emma-watson-israels-ehemaliger-uno-botschafter-wirft-harry-potter-star-antisemitismus-vor](https://www.spiegel.de/panorama/gesellschaft/emma-watson-israels-ehemaliger-uno-botschafter-wirft-harry-potter-star-antisemitismus-vor-a-c97b933a-76f1-4183-aa62-40eb49239768#ref=rss)
-### manuela
-
-* [https://www.spiegel.de/politik/deutschland/corona-manuela-schwesig-ueber-die-mpk-und-drohungen-von-querdenkern](https://www.spiegel.de/politik/deutschland/corona-manuela-schwesig-ueber-die-mpk-und-drohungen-von-querdenkern-a-24659ee7-03cb-4137-9d68-8be54ab6c9af#ref=rss)
-### schwesig
-
-* [https://www.spiegel.de/politik/deutschland/corona-manuela-schwesig-ueber-die-mpk-und-drohungen-von-querdenkern](https://www.spiegel.de/politik/deutschland/corona-manuela-schwesig-ueber-die-mpk-und-drohungen-von-querdenkern-a-24659ee7-03cb-4137-9d68-8be54ab6c9af#ref=rss)
-### exxonmobil
-
-* [https://www.spiegel.de/wirtschaft/exxonmobil-entdeckt-neue-erdoel-quellen-vor-guyana](https://www.spiegel.de/wirtschaft/exxonmobil-entdeckt-neue-erdoel-quellen-vor-guyana-a-5263d6fb-944a-478a-8256-770cb75872af#ref=rss)
-### entdeckt
-
-* [https://www.spiegel.de/wirtschaft/exxonmobil-entdeckt-neue-erdoel-quellen-vor-guyana](https://www.spiegel.de/wirtschaft/exxonmobil-entdeckt-neue-erdoel-quellen-vor-guyana-a-5263d6fb-944a-478a-8256-770cb75872af#ref=rss)
-### guyana
-
-* [https://www.spiegel.de/wirtschaft/exxonmobil-entdeckt-neue-erdoel-quellen-vor-guyana](https://www.spiegel.de/wirtschaft/exxonmobil-entdeckt-neue-erdoel-quellen-vor-guyana-a-5263d6fb-944a-478a-8256-770cb75872af#ref=rss)
-### umfrage
-
-* [https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl](https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl-a-8fbb7e6d-3659-4918-a530-2d70b233227c#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat](https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat-a-f4924a16-5e2d-4158-90b6-8a7b0d6251a8#ref=rss)
+* [https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt](https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt-a-6d0e4ec0-790a-492b-98fd-bdbbad896689#ref=rss)
+* [https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar](https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar-a-b1a33b87-dae6-40ad-93e1-e505b89a5c1a#ref=rss)
 ### uspräsident
 
-* [https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl](https://www.spiegel.de/ausland/joe-biden-mehr-als-40-prozent-zweifeln-laut-umfrage-an-rechtmaessiger-wahl-a-8fbb7e6d-3659-4918-a530-2d70b233227c#ref=rss)
-* [https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt](https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt-a-25f928a8-c329-4f99-b093-2327cd01fd36#ref=rss)
-### vettel
+* [https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat](https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat-a-f4924a16-5e2d-4158-90b6-8a7b0d6251a8#ref=rss)
+* [https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump](https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump-a-23549345-9c58-44f5-9498-0319144fa998#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump](https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump-a-f7ea92f0-681a-466f-8367-ea9d34479cd4#ref=rss)
+### waren
 
-* [https://www.spiegel.de/panorama/leute/sebastian-vettel-findet-greta-thunberg-toll](https://www.spiegel.de/panorama/leute/sebastian-vettel-findet-greta-thunberg-toll-a-a54d871c-5025-4777-8550-715d5d0b7bb1#ref=rss)
-### greta
+* [https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt](https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt-a-6d0e4ec0-790a-492b-98fd-bdbbad896689#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oesterreich-45-jaehriger-beteiligter-im-missbrauchskomplex-muenster-verurteilt](https://www.spiegel.de/panorama/justiz/oesterreich-45-jaehriger-beteiligter-im-missbrauchskomplex-muenster-verurteilt-a-b1f6cd1d-0994-4ae6-aa53-c6074635dd2f#ref=rss)
+* [https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet](https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet-a-3d003192-2da8-4228-97f6-f799ddb603a7#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/leute/sebastian-vettel-findet-greta-thunberg-toll](https://www.spiegel.de/panorama/leute/sebastian-vettel-findet-greta-thunberg-toll-a-a54d871c-5025-4777-8550-715d5d0b7bb1#ref=rss)
-### thunberg
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-warum-der-fdp-chef-hoffnungen-in-friedrich-merz-setzt](https://www.spiegel.de/politik/deutschland/christian-lindner-warum-der-fdp-chef-hoffnungen-in-friedrich-merz-setzt-a-5a737e49-0724-4d55-839c-cbc8538a4c6e#ref=rss)
+* [https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein](https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein-a-c9e7e8e0-e483-49f2-b9f9-6fd137530e26#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/hannover-hort-betreuer-wegen-kindesmissbrauch-zu-acht-jahren-gefaengnis-verurteilt](https://www.spiegel.de/panorama/bildung/hannover-hort-betreuer-wegen-kindesmissbrauch-zu-acht-jahren-gefaengnis-verurteilt-a-dd851d30-e542-4bee-a15e-201e2fcb9b8d#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/panorama/leute/sebastian-vettel-findet-greta-thunberg-toll](https://www.spiegel.de/panorama/leute/sebastian-vettel-findet-greta-thunberg-toll-a-a54d871c-5025-4777-8550-715d5d0b7bb1#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-warum-der-fdp-chef-hoffnungen-in-friedrich-merz-setzt](https://www.spiegel.de/politik/deutschland/christian-lindner-warum-der-fdp-chef-hoffnungen-in-friedrich-merz-setzt-a-5a737e49-0724-4d55-839c-cbc8538a4c6e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump](https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump-a-f7ea92f0-681a-466f-8367-ea9d34479cd4#ref=rss)
+* [https://www.spiegel.de/geschichte/75-jahre-spiegel-wie-die-aids-berichterstattung-immer-noch-nachwirkt](https://www.spiegel.de/geschichte/75-jahre-spiegel-wie-die-aids-berichterstattung-immer-noch-nachwirkt-a-c42d2500-64a6-4e41-a1b4-266cc8c74bb3#ref=rss)
+### omikron
 
-* [https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty](https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty-a-49750626-3e7d-4477-8a91-865b96a31398#ref=rss)
-### dutzende
+* [https://www.spiegel.de/politik/deutschland/corona-das-planen-bund-und-laender-im-kampf-gegen-omikron](https://www.spiegel.de/politik/deutschland/corona-das-planen-bund-und-laender-im-kampf-gegen-omikron-a-21b96108-0102-4962-a102-b435ed17159b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-in-sachsen-michael-kretschmer-plant-weitgehende-oeffnungen](https://www.spiegel.de/politik/deutschland/corona-in-sachsen-michael-kretschmer-plant-weitgehende-oeffnungen-a-b9e4b529-b18e-467d-bdc6-e1afe35d29da#ref=rss)
+### lage
 
-* [https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty](https://www.spiegel.de/ausland/kasachstan-polizei-toetet-dutzende-demonstranten-in-almaty-a-49750626-3e7d-4477-8a91-865b96a31398#ref=rss)
-### donnerstag
+* [https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump](https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump-a-23549345-9c58-44f5-9498-0319144fa998#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump](https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump-a-f7ea92f0-681a-466f-8367-ea9d34479cd4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/weltmarktpreise-fuer-lebensmittel-steigen-um-28-prozent](https://www.spiegel.de/wirtschaft/service/weltmarktpreise-fuer-lebensmittel-steigen-um-28-prozent-a-c7298174-9f50-48ad-a0e7-a217439ddeed#ref=rss)
+### wir
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-8f2034e5-6446-4d7b-a8a9-1570a5ddf565#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan](https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan-a-293299be-cd59-497c-accd-7dcae201c03a#ref=rss)
-### stark
+* [https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump](https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump-a-f7ea92f0-681a-466f-8367-ea9d34479cd4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/vfl-bochum-verstaerkt-sich-mit-juergen-locadia-barca-geruechte-um-erling-haaland](https://www.spiegel.de/sport/fussball/vfl-bochum-verstaerkt-sich-mit-juergen-locadia-barca-geruechte-um-erling-haaland-a-6a33ad97-25f9-4afa-8e98-162f4fc81487#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/scheindebatten-die-wir-2022-nicht-mehr-brauchen-podcast](https://www.spiegel.de/politik/deutschland/scheindebatten-die-wir-2022-nicht-mehr-brauchen-podcast-a-89619e18-569d-44df-9a3f-3ac56615578b#ref=rss)
+### coronavirus
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-donnerstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-8f2034e5-6446-4d7b-a8a9-1570a5ddf565#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-in-deutschland-rki-sieben-tage-inzidenz-steigt-erneut-stark-an](https://www.spiegel.de/wissenschaft/medizin/coronavirus-in-deutschland-rki-sieben-tage-inzidenz-steigt-erneut-stark-an-a-8636ec96-b38a-4032-9877-3c3d3718d26e#ref=rss)
-### ghislaine
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-impfung-in-der-schwangerschaft-ist-nicht-mit-erhoehtem-risiko-fuer-fruehgeburten-verbunden](https://www.spiegel.de/wissenschaft/medizin/coronavirus-impfung-in-der-schwangerschaft-ist-nicht-mit-erhoehtem-risiko-fuer-fruehgeburten-verbunden-a-1d33c43b-d5b1-4639-a500-8efe262b09ea#ref=rss)
+* [https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein](https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein-a-c9e7e8e0-e483-49f2-b9f9-6fd137530e26#ref=rss)
+* [https://www.spiegel.de/ausland/coronavirus-lehrer-und-schulen-streiten-in-chicago-ueber-coronaregeln](https://www.spiegel.de/ausland/coronavirus-lehrer-und-schulen-streiten-in-chicago-ueber-coronaregeln-a-cb815609-1df7-4ba3-8840-6bf14d7a0cda#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-von-jeffrey-epstein-vertrauter-fordern-neues-verfahren](https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-von-jeffrey-epstein-vertrauter-fordern-neues-verfahren-a-8c05f1d1-503d-49e2-97a4-6e8017508cbb#ref=rss)
-### maxwell
+* [https://www.spiegel.de/ausland/oesterreich-fuehrt-ffp2-maskenpflicht-im-freien-ein](https://www.spiegel.de/ausland/oesterreich-fuehrt-ffp2-maskenpflicht-im-freien-ein-a-cb351ddc-e994-49bc-b043-f404d3cd1368#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oesterreich-45-jaehriger-beteiligter-im-missbrauchskomplex-muenster-verurteilt](https://www.spiegel.de/panorama/justiz/oesterreich-45-jaehriger-beteiligter-im-missbrauchskomplex-muenster-verurteilt-a-b1f6cd1d-0994-4ae6-aa53-c6074635dd2f#ref=rss)
+### impfpflicht
 
-* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-von-jeffrey-epstein-vertrauter-fordern-neues-verfahren](https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-von-jeffrey-epstein-vertrauter-fordern-neues-verfahren-a-8c05f1d1-503d-49e2-97a4-6e8017508cbb#ref=rss)
-### maldine
+* [https://www.spiegel.de/ausland/oesterreich-fuehrt-ffp2-maskenpflicht-im-freien-ein](https://www.spiegel.de/ausland/oesterreich-fuehrt-ffp2-maskenpflicht-im-freien-ein-a-cb351ddc-e994-49bc-b043-f404d3cd1368#ref=rss)
+* [https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein](https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein-a-c9e7e8e0-e483-49f2-b9f9-6fd137530e26#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/start/ausbildung-zur-feintaeschnerin-warum-maldine-schoeller-ein-altes-handwerk-erlernt](https://www.spiegel.de/start/ausbildung-zur-feintaeschnerin-warum-maldine-schoeller-ein-altes-handwerk-erlernt-a-5c39595a-3b49-4e61-bb66-a68280e7bebb#ref=rss)
-### schöller
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz](https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz-a-4f50ec93-8324-496c-b10a-77f90e7f0747#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/start/ausbildung-zur-feintaeschnerin-warum-maldine-schoeller-ein-altes-handwerk-erlernt](https://www.spiegel.de/start/ausbildung-zur-feintaeschnerin-warum-maldine-schoeller-ein-altes-handwerk-erlernt-a-5c39595a-3b49-4e61-bb66-a68280e7bebb#ref=rss)
-### handwerk
+* [https://www.spiegel.de/politik/deutschland/scheindebatten-die-wir-2022-nicht-mehr-brauchen-podcast](https://www.spiegel.de/politik/deutschland/scheindebatten-die-wir-2022-nicht-mehr-brauchen-podcast-a-89619e18-569d-44df-9a3f-3ac56615578b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/weltmarktpreise-fuer-lebensmittel-steigen-um-28-prozent](https://www.spiegel.de/wirtschaft/service/weltmarktpreise-fuer-lebensmittel-steigen-um-28-prozent-a-c7298174-9f50-48ad-a0e7-a217439ddeed#ref=rss)
+* [https://www.spiegel.de/kultur/tv/joerg-pilawa-verlaesst-die-ard-wechselt-der-moderator-zu-sat-1](https://www.spiegel.de/kultur/tv/joerg-pilawa-verlaesst-die-ard-wechselt-der-moderator-zu-sat-1-a-c65dd0df-c1e2-4654-8fef-573b9f338b73#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/start/ausbildung-zur-feintaeschnerin-warum-maldine-schoeller-ein-altes-handwerk-erlernt](https://www.spiegel.de/start/ausbildung-zur-feintaeschnerin-warum-maldine-schoeller-ein-altes-handwerk-erlernt-a-5c39595a-3b49-4e61-bb66-a68280e7bebb#ref=rss)
-### datenschutzbeauftragter
+* [https://www.spiegel.de/politik/deutschland/scheindebatten-die-wir-2022-nicht-mehr-brauchen-podcast](https://www.spiegel.de/politik/deutschland/scheindebatten-die-wir-2022-nicht-mehr-brauchen-podcast-a-89619e18-569d-44df-9a3f-3ac56615578b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/weltmarktpreise-fuer-lebensmittel-steigen-um-28-prozent](https://www.spiegel.de/wirtschaft/service/weltmarktpreise-fuer-lebensmittel-steigen-um-28-prozent-a-c7298174-9f50-48ad-a0e7-a217439ddeed#ref=rss)
+### italien
 
-* [https://www.spiegel.de/wirtschaft/impfregister-datenschutzbeauftragter-warnt-vor-zu-grossem-staatszugriff](https://www.spiegel.de/wirtschaft/impfregister-datenschutzbeauftragter-warnt-vor-zu-grossem-staatszugriff-a-a8df5509-b073-4512-af42-62336db3770e#ref=rss)
-### tiefpunkt
+* [https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein](https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein-a-c9e7e8e0-e483-49f2-b9f9-6fd137530e26#ref=rss)
+* [https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet](https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet-a-3d003192-2da8-4228-97f6-f799ddb603a7#ref=rss)
+### schulen
 
-* [https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt](https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt-a-25f928a8-c329-4f99-b093-2327cd01fd36#ref=rss)
-### vorgeschmack
+* [https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein](https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein-a-c9e7e8e0-e483-49f2-b9f9-6fd137530e26#ref=rss)
+* [https://www.spiegel.de/ausland/coronavirus-lehrer-und-schulen-streiten-in-chicago-ueber-coronaregeln](https://www.spiegel.de/ausland/coronavirus-lehrer-und-schulen-streiten-in-chicago-ueber-coronaregeln-a-cb815609-1df7-4ba3-8840-6bf14d7a0cda#ref=rss)
+### schwangere
 
-* [https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt](https://www.spiegel.de/ausland/sturm-aufs-us-kapitol-vor-einem-jahr-tiefpunkt-oder-vorgeschmack-auf-das-was-kommt-a-25f928a8-c329-4f99-b093-2327cd01fd36#ref=rss)
-### kapitolsturm
+* [https://www.spiegel.de/panorama/china-schwangere-wird-wegen-fehlendem-coronatest-nicht-behandelt-und-erleidet-fehlgeburt](https://www.spiegel.de/panorama/china-schwangere-wird-wegen-fehlendem-coronatest-nicht-behandelt-und-erleidet-fehlgeburt-a-18a13d0f-ab5d-4a5c-986d-a12f9b9d686f#ref=rss)
+### friedel
 
-* [https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan](https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan-a-293299be-cd59-497c-accd-7dcae201c03a#ref=rss)
-### auftritt
+* [https://www.spiegel.de/sport/fussballquiz-wer-biss-friedel-rausch](https://www.spiegel.de/sport/fussballquiz-wer-biss-friedel-rausch-a-08e251c5-1d83-4fd7-8ed8-31fa1debde78#ref=rss)
+### rausch
 
-* [https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan](https://www.spiegel.de/politik/deutschland/news-fdp-kapitolsturm-donald-trump-sebastian-kurz-wirecard-kasachstan-a-293299be-cd59-497c-accd-7dcae201c03a#ref=rss)
-### arbeiten
+* [https://www.spiegel.de/sport/fussballquiz-wer-biss-friedel-rausch](https://www.spiegel.de/sport/fussballquiz-wer-biss-friedel-rausch-a-08e251c5-1d83-4fd7-8ed8-31fa1debde78#ref=rss)
+### joe
 
-* [https://www.spiegel.de/wirtschaft/soziales/niedriglohn-wo-deutschlands-geringverdiener-arbeiten-und-wer-dazu-gehoert](https://www.spiegel.de/wirtschaft/soziales/niedriglohn-wo-deutschlands-geringverdiener-arbeiten-und-wer-dazu-gehoert-a-05f3dd6a-77e4-4b2a-8c54-79c646d0376d#ref=rss)
-### sehr
+* [https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat](https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat-a-f4924a16-5e2d-4158-90b6-8a7b0d6251a8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump](https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump-a-f7ea92f0-681a-466f-8367-ea9d34479cd4#ref=rss)
+### biden
 
-* [https://www.spiegel.de/wirtschaft/soziales/niedriglohn-wo-deutschlands-geringverdiener-arbeiten-und-wer-dazu-gehoert](https://www.spiegel.de/wirtschaft/soziales/niedriglohn-wo-deutschlands-geringverdiener-arbeiten-und-wer-dazu-gehoert-a-05f3dd6a-77e4-4b2a-8c54-79c646d0376d#ref=rss)
-### novak
+* [https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat](https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat-a-f4924a16-5e2d-4158-90b6-8a7b0d6251a8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump](https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump-a-f7ea92f0-681a-466f-8367-ea9d34479cd4#ref=rss)
+### rede
 
-* [https://www.spiegel.de/sport/tennis/novak-djokovic-aus-australien-ausgewiesen-eklat-um-die-nummer-eins](https://www.spiegel.de/sport/tennis/novak-djokovic-aus-australien-ausgewiesen-eklat-um-die-nummer-eins-a-2c2432b3-9e90-4a90-b9de-b29d43c4eef9#ref=rss)
-### djokovic
+* [https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat](https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat-a-f4924a16-5e2d-4158-90b6-8a7b0d6251a8#ref=rss)
+* [https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump](https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump-a-23549345-9c58-44f5-9498-0319144fa998#ref=rss)
+### sturm
 
-* [https://www.spiegel.de/sport/tennis/novak-djokovic-aus-australien-ausgewiesen-eklat-um-die-nummer-eins](https://www.spiegel.de/sport/tennis/novak-djokovic-aus-australien-ausgewiesen-eklat-um-die-nummer-eins-a-2c2432b3-9e90-4a90-b9de-b29d43c4eef9#ref=rss)
-### hyperschallrakete
+* [https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat](https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat-a-f4924a16-5e2d-4158-90b6-8a7b0d6251a8#ref=rss)
+* [https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt](https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt-a-6d0e4ec0-790a-492b-98fd-bdbbad896689#ref=rss)
+### scharf
 
-* [https://www.spiegel.de/ausland/nordkorea-meldet-angeblichen-test-von-hyperschall-rakete](https://www.spiegel.de/ausland/nordkorea-meldet-angeblichen-test-von-hyperschall-rakete-a-1b16ac04-5ef7-4b6d-87de-3932b0f1dd69#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat](https://www.spiegel.de/ausland/joe-biden-ueber-donald-trump-er-kann-nicht-akzeptieren-dass-er-verloren-hat-a-f4924a16-5e2d-4158-90b6-8a7b0d6251a8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump](https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump-a-f7ea92f0-681a-466f-8367-ea9d34479cd4#ref=rss)
+### religiöse
+
+* [https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt](https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt-a-6d0e4ec0-790a-492b-98fd-bdbbad896689#ref=rss)
+### annika
+
+* [https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt](https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt-a-6d0e4ec0-790a-492b-98fd-bdbbad896689#ref=rss)
+### brockschmidt
+
+* [https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt](https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt-a-6d0e4ec0-790a-492b-98fd-bdbbad896689#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt](https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt-a-6d0e4ec0-790a-492b-98fd-bdbbad896689#ref=rss)
+* [https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein](https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein-a-c9e7e8e0-e483-49f2-b9f9-6fd137530e26#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt](https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt-a-6d0e4ec0-790a-492b-98fd-bdbbad896689#ref=rss)
+* [https://www.spiegel.de/sport/fussball/union-berlin-dirk-zingler-will-keine-veganen-wuerstchen-im-fussballstadion](https://www.spiegel.de/sport/fussball/union-berlin-dirk-zingler-will-keine-veganen-wuerstchen-im-fussballstadion-a-2e6b054c-a473-475b-9de9-f08ec859871f#ref=rss)
+### macht
+
+* [https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt](https://www.spiegel.de/kultur/religioese-rechte-in-den-usa-und-der-sturm-aufs-kapitol-interview-mit-annika-brockschmidt-a-6d0e4ec0-790a-492b-98fd-bdbbad896689#ref=rss)
+* [https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar](https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar-a-b1a33b87-dae6-40ad-93e1-e505b89a5c1a#ref=rss)
+### christian
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-warum-der-fdp-chef-hoffnungen-in-friedrich-merz-setzt](https://www.spiegel.de/politik/deutschland/christian-lindner-warum-der-fdp-chef-hoffnungen-in-friedrich-merz-setzt-a-5a737e49-0724-4d55-839c-cbc8538a4c6e#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-warum-der-fdp-chef-hoffnungen-in-friedrich-merz-setzt](https://www.spiegel.de/politik/deutschland/christian-lindner-warum-der-fdp-chef-hoffnungen-in-friedrich-merz-setzt-a-5a737e49-0724-4d55-839c-cbc8538a4c6e#ref=rss)
+### acht
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-warum-der-fdp-chef-hoffnungen-in-friedrich-merz-setzt](https://www.spiegel.de/politik/deutschland/christian-lindner-warum-der-fdp-chef-hoffnungen-in-friedrich-merz-setzt-a-5a737e49-0724-4d55-839c-cbc8538a4c6e#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/hannover-hort-betreuer-wegen-kindesmissbrauch-zu-acht-jahren-gefaengnis-verurteilt](https://www.spiegel.de/panorama/bildung/hannover-hort-betreuer-wegen-kindesmissbrauch-zu-acht-jahren-gefaengnis-verurteilt-a-dd851d30-e542-4bee-a15e-201e2fcb9b8d#ref=rss)
+### opposition
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-warum-der-fdp-chef-hoffnungen-in-friedrich-merz-setzt](https://www.spiegel.de/politik/deutschland/christian-lindner-warum-der-fdp-chef-hoffnungen-in-friedrich-merz-setzt-a-5a737e49-0724-4d55-839c-cbc8538a4c6e#ref=rss)
+* [https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein](https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein-a-c9e7e8e0-e483-49f2-b9f9-6fd137530e26#ref=rss)
+### mobbing
+
+* [https://www.spiegel.de/karriere/mobbing-im-job-folgen-von-mobbing-sind-keine-berufskrankheit](https://www.spiegel.de/karriere/mobbing-im-job-folgen-von-mobbing-sind-keine-berufskrankheit-a-0b4b7b5a-b77b-44f0-85e3-e3444579a3f8#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/karriere/mobbing-im-job-folgen-von-mobbing-sind-keine-berufskrankheit](https://www.spiegel.de/karriere/mobbing-im-job-folgen-von-mobbing-sind-keine-berufskrankheit-a-0b4b7b5a-b77b-44f0-85e3-e3444579a3f8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/union-berlin-dirk-zingler-will-keine-veganen-wuerstchen-im-fussballstadion](https://www.spiegel.de/sport/fussball/union-berlin-dirk-zingler-will-keine-veganen-wuerstchen-im-fussballstadion-a-2e6b054c-a473-475b-9de9-f08ec859871f#ref=rss)
+### brandenburg
+
+* [https://www.spiegel.de/panorama/gesellschaft/brandenburg-an-der-havel-gesundheitsamt-fordert-zu-mehrmonatiger-corona-quarantaene-auf](https://www.spiegel.de/panorama/gesellschaft/brandenburg-an-der-havel-gesundheitsamt-fordert-zu-mehrmonatiger-corona-quarantaene-auf-a-06263d39-5b20-4c46-9fdb-3151d0a43f41#ref=rss)
+### havel
+
+* [https://www.spiegel.de/panorama/gesellschaft/brandenburg-an-der-havel-gesundheitsamt-fordert-zu-mehrmonatiger-corona-quarantaene-auf](https://www.spiegel.de/panorama/gesellschaft/brandenburg-an-der-havel-gesundheitsamt-fordert-zu-mehrmonatiger-corona-quarantaene-auf-a-06263d39-5b20-4c46-9fdb-3151d0a43f41#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/politik/deutschland/corona-das-planen-bund-und-laender-im-kampf-gegen-omikron](https://www.spiegel.de/politik/deutschland/corona-das-planen-bund-und-laender-im-kampf-gegen-omikron-a-21b96108-0102-4962-a102-b435ed17159b#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/politik/deutschland/corona-das-planen-bund-und-laender-im-kampf-gegen-omikron](https://www.spiegel.de/politik/deutschland/corona-das-planen-bund-und-laender-im-kampf-gegen-omikron-a-21b96108-0102-4962-a102-b435ed17159b#ref=rss)
+* [https://www.spiegel.de/kultur/tv/joerg-pilawa-verlaesst-die-ard-wechselt-der-moderator-zu-sat-1](https://www.spiegel.de/kultur/tv/joerg-pilawa-verlaesst-die-ard-wechselt-der-moderator-zu-sat-1-a-c65dd0df-c1e2-4654-8fef-573b9f338b73#ref=rss)
+### zusammenarbeit
+
+* [https://www.spiegel.de/wissenschaft/mensch/us-nanoforscher-wegen-kooperation-mit-china-verurteilt](https://www.spiegel.de/wissenschaft/mensch/us-nanoforscher-wegen-kooperation-mit-china-verurteilt-a-c0c67cf9-ec78-4ecf-9200-40bb160c5bd4#ref=rss)
+* [https://www.spiegel.de/kultur/tv/joerg-pilawa-verlaesst-die-ard-wechselt-der-moderator-zu-sat-1](https://www.spiegel.de/kultur/tv/joerg-pilawa-verlaesst-die-ard-wechselt-der-moderator-zu-sat-1-a-c65dd0df-c1e2-4654-8fef-573b9f338b73#ref=rss)
+### land
+
+* [https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump](https://www.spiegel.de/ausland/rede-zum-6-januar-joe-bidens-abrechnung-mit-donald-trump-a-23549345-9c58-44f5-9498-0319144fa998#ref=rss)
+* [https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar](https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar-a-b1a33b87-dae6-40ad-93e1-e505b89a5c1a#ref=rss)
+### alle
+
+* [https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump](https://www.spiegel.de/politik/deutschland/news-novak-djokovic-kennen-wir-nicht-alle-so-einen-schwurbler-joe-biden-vs-donald-trump-a-f7ea92f0-681a-466f-8367-ea9d34479cd4#ref=rss)
+* [https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet](https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet-a-3d003192-2da8-4228-97f6-f799ddb603a7#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-impfung-in-der-schwangerschaft-ist-nicht-mit-erhoehtem-risiko-fuer-fruehgeburten-verbunden](https://www.spiegel.de/wissenschaft/medizin/coronavirus-impfung-in-der-schwangerschaft-ist-nicht-mit-erhoehtem-risiko-fuer-fruehgeburten-verbunden-a-1d33c43b-d5b1-4639-a500-8efe262b09ea#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-fuehrt-ffp2-maskenpflicht-im-freien-ein](https://www.spiegel.de/ausland/oesterreich-fuehrt-ffp2-maskenpflicht-im-freien-ein-a-cb351ddc-e994-49bc-b043-f404d3cd1368#ref=rss)
+### führt
+
+* [https://www.spiegel.de/ausland/oesterreich-fuehrt-ffp2-maskenpflicht-im-freien-ein](https://www.spiegel.de/ausland/oesterreich-fuehrt-ffp2-maskenpflicht-im-freien-ein-a-cb351ddc-e994-49bc-b043-f404d3cd1368#ref=rss)
+* [https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein](https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein-a-c9e7e8e0-e483-49f2-b9f9-6fd137530e26#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/oesterreich-fuehrt-ffp2-maskenpflicht-im-freien-ein](https://www.spiegel.de/ausland/oesterreich-fuehrt-ffp2-maskenpflicht-im-freien-ein-a-cb351ddc-e994-49bc-b043-f404d3cd1368#ref=rss)
+* [https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein](https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein-a-c9e7e8e0-e483-49f2-b9f9-6fd137530e26#ref=rss)
+### sowie
+
+* [https://www.spiegel.de/ausland/oesterreich-fuehrt-ffp2-maskenpflicht-im-freien-ein](https://www.spiegel.de/ausland/oesterreich-fuehrt-ffp2-maskenpflicht-im-freien-ein-a-cb351ddc-e994-49bc-b043-f404d3cd1368#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz](https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz-a-4f50ec93-8324-496c-b10a-77f90e7f0747#ref=rss)
+### airbus
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz](https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz-a-4f50ec93-8324-496c-b10a-77f90e7f0747#ref=rss)
+### 600
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz](https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz-a-4f50ec93-8324-496c-b10a-77f90e7f0747#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz](https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz-a-4f50ec93-8324-496c-b10a-77f90e7f0747#ref=rss)
+### einige
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz](https://www.spiegel.de/wirtschaft/unternehmen/airbus-qatar-airways-will-mehr-als-600-millionen-dollar-schadensersatz-a-4f50ec93-8324-496c-b10a-77f90e7f0747#ref=rss)
+* [https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet](https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet-a-3d003192-2da8-4228-97f6-f799ddb603a7#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/sport/fussball/vfl-bochum-verstaerkt-sich-mit-juergen-locadia-barca-geruechte-um-erling-haaland](https://www.spiegel.de/sport/fussball/vfl-bochum-verstaerkt-sich-mit-juergen-locadia-barca-geruechte-um-erling-haaland-a-6a33ad97-25f9-4afa-8e98-162f4fc81487#ref=rss)
+### locadia
+
+* [https://www.spiegel.de/sport/fussball/vfl-bochum-verstaerkt-sich-mit-juergen-locadia-barca-geruechte-um-erling-haaland](https://www.spiegel.de/sport/fussball/vfl-bochum-verstaerkt-sich-mit-juergen-locadia-barca-geruechte-um-erling-haaland-a-6a33ad97-25f9-4afa-8e98-162f4fc81487#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein](https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein-a-c9e7e8e0-e483-49f2-b9f9-6fd137530e26#ref=rss)
+### 50
+
+* [https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein](https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein-a-c9e7e8e0-e483-49f2-b9f9-6fd137530e26#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein](https://www.spiegel.de/ausland/italien-fuehrt-impfpflicht-fuer-menschen-ueber-50-ein-a-c9e7e8e0-e483-49f2-b9f9-6fd137530e26#ref=rss)
+* [https://www.spiegel.de/ausland/coronavirus-lehrer-und-schulen-streiten-in-chicago-ueber-coronaregeln](https://www.spiegel.de/ausland/coronavirus-lehrer-und-schulen-streiten-in-chicago-ueber-coronaregeln-a-cb815609-1df7-4ba3-8840-6bf14d7a0cda#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/service/weltmarktpreise-fuer-lebensmittel-steigen-um-28-prozent](https://www.spiegel.de/wirtschaft/service/weltmarktpreise-fuer-lebensmittel-steigen-um-28-prozent-a-c7298174-9f50-48ad-a0e7-a217439ddeed#ref=rss)
+* [https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet](https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet-a-3d003192-2da8-4228-97f6-f799ddb603a7#ref=rss)
+### jörg
+
+* [https://www.spiegel.de/kultur/tv/joerg-pilawa-verlaesst-die-ard-wechselt-der-moderator-zu-sat-1](https://www.spiegel.de/kultur/tv/joerg-pilawa-verlaesst-die-ard-wechselt-der-moderator-zu-sat-1-a-c65dd0df-c1e2-4654-8fef-573b9f338b73#ref=rss)
+### pilawa
+
+* [https://www.spiegel.de/kultur/tv/joerg-pilawa-verlaesst-die-ard-wechselt-der-moderator-zu-sat-1](https://www.spiegel.de/kultur/tv/joerg-pilawa-verlaesst-die-ard-wechselt-der-moderator-zu-sat-1-a-c65dd0df-c1e2-4654-8fef-573b9f338b73#ref=rss)
+### moderator
+
+* [https://www.spiegel.de/kultur/tv/joerg-pilawa-verlaesst-die-ard-wechselt-der-moderator-zu-sat-1](https://www.spiegel.de/kultur/tv/joerg-pilawa-verlaesst-die-ard-wechselt-der-moderator-zu-sat-1-a-c65dd0df-c1e2-4654-8fef-573b9f338b73#ref=rss)
+### spur
+
+* [https://www.spiegel.de/panorama/justiz/oesterreich-45-jaehriger-beteiligter-im-missbrauchskomplex-muenster-verurteilt](https://www.spiegel.de/panorama/justiz/oesterreich-45-jaehriger-beteiligter-im-missbrauchskomplex-muenster-verurteilt-a-b1f6cd1d-0994-4ae6-aa53-c6074635dd2f#ref=rss)
+* [https://www.spiegel.de/netzwelt/spanien-google-street-view-bringt-ermittler-auf-spur-von-gesuchtem-mafioso](https://www.spiegel.de/netzwelt/spanien-google-street-view-bringt-ermittler-auf-spur-von-gesuchtem-mafioso-a-d65f6436-036b-4411-bd42-753b5e800628#ref=rss)
+### lehrer
+
+* [https://www.spiegel.de/ausland/coronavirus-lehrer-und-schulen-streiten-in-chicago-ueber-coronaregeln](https://www.spiegel.de/ausland/coronavirus-lehrer-und-schulen-streiten-in-chicago-ueber-coronaregeln-a-cb815609-1df7-4ba3-8840-6bf14d7a0cda#ref=rss)
+### filmtipps
+
+* [https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar](https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar-a-b1a33b87-dae6-40ad-93e1-e505b89a5c1a#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar](https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar-a-b1a33b87-dae6-40ad-93e1-e505b89a5c1a#ref=rss)
+### tender
+
+* [https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar](https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar-a-b1a33b87-dae6-40ad-93e1-e505b89a5c1a#ref=rss)
+### bar
+
+* [https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar](https://www.spiegel.de/kultur/kino/filmtipps-the-355-lamb-bad-tales-favolacce-ploetzlich-aufs-land-the-tender-bar-a-b1a33b87-dae6-40ad-93e1-e505b89a5c1a#ref=rss)
+### fluggäste
+
+* [https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet](https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet-a-3d003192-2da8-4228-97f6-f799ddb603a7#ref=rss)
+### indien
+
+* [https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet](https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet-a-3d003192-2da8-4228-97f6-f799ddb603a7#ref=rss)
+### positiv
+
+* [https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet](https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet-a-3d003192-2da8-4228-97f6-f799ddb603a7#ref=rss)
+### getestet
+
+* [https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet](https://www.spiegel.de/panorama/corona-70-prozent-der-fluggaeste-auf-flug-von-italien-nach-indien-positiv-getestet-a-3d003192-2da8-4228-97f6-f799ddb603a7#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/geschichte/75-jahre-spiegel-wie-die-aids-berichterstattung-immer-noch-nachwirkt](https://www.spiegel.de/geschichte/75-jahre-spiegel-wie-die-aids-berichterstattung-immer-noch-nachwirkt-a-c42d2500-64a6-4e41-a1b4-266cc8c74bb3#ref=rss)
+* [https://www.spiegel.de/netzwelt/spanien-google-street-view-bringt-ermittler-auf-spur-von-gesuchtem-mafioso](https://www.spiegel.de/netzwelt/spanien-google-street-view-bringt-ermittler-auf-spur-von-gesuchtem-mafioso-a-d65f6436-036b-4411-bd42-753b5e800628#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/geschichte/75-jahre-spiegel-wie-die-aids-berichterstattung-immer-noch-nachwirkt](https://www.spiegel.de/geschichte/75-jahre-spiegel-wie-die-aids-berichterstattung-immer-noch-nachwirkt-a-c42d2500-64a6-4e41-a1b4-266cc8c74bb3#ref=rss)
+### dirk
+
+* [https://www.spiegel.de/sport/fussball/union-berlin-dirk-zingler-will-keine-veganen-wuerstchen-im-fussballstadion](https://www.spiegel.de/sport/fussball/union-berlin-dirk-zingler-will-keine-veganen-wuerstchen-im-fussballstadion-a-2e6b054c-a473-475b-9de9-f08ec859871f#ref=rss)
+### zingler
+
+* [https://www.spiegel.de/sport/fussball/union-berlin-dirk-zingler-will-keine-veganen-wuerstchen-im-fussballstadion](https://www.spiegel.de/sport/fussball/union-berlin-dirk-zingler-will-keine-veganen-wuerstchen-im-fussballstadion-a-2e6b054c-a473-475b-9de9-f08ec859871f#ref=rss)
+### würstchen
+
+* [https://www.spiegel.de/sport/fussball/union-berlin-dirk-zingler-will-keine-veganen-wuerstchen-im-fussballstadion](https://www.spiegel.de/sport/fussball/union-berlin-dirk-zingler-will-keine-veganen-wuerstchen-im-fussballstadion-a-2e6b054c-a473-475b-9de9-f08ec859871f#ref=rss)
+### sachsen
+
+* [https://www.spiegel.de/politik/deutschland/corona-in-sachsen-michael-kretschmer-plant-weitgehende-oeffnungen](https://www.spiegel.de/politik/deutschland/corona-in-sachsen-michael-kretschmer-plant-weitgehende-oeffnungen-a-b9e4b529-b18e-467d-bdc6-e1afe35d29da#ref=rss)
+### kretschmer
+
+* [https://www.spiegel.de/politik/deutschland/corona-in-sachsen-michael-kretschmer-plant-weitgehende-oeffnungen](https://www.spiegel.de/politik/deutschland/corona-in-sachsen-michael-kretschmer-plant-weitgehende-oeffnungen-a-b9e4b529-b18e-467d-bdc6-e1afe35d29da#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/netzwelt/spanien-google-street-view-bringt-ermittler-auf-spur-von-gesuchtem-mafioso](https://www.spiegel.de/netzwelt/spanien-google-street-view-bringt-ermittler-auf-spur-von-gesuchtem-mafioso-a-d65f6436-036b-4411-bd42-753b5e800628#ref=rss)
 
