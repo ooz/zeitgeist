@@ -4,310 +4,328 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### tonga
+### missbrauch
 
-* [https://www.spiegel.de/panorama/tonga-landebahn-nach-ausbruch-von-unterwasservulkan-von-asche-befreit-erste-hilfsfluege-gelandet](https://www.spiegel.de/panorama/tonga-landebahn-nach-ausbruch-von-unterwasservulkan-von-asche-befreit-erste-hilfsfluege-gelandet-a-973e041c-855c-4b8a-bbdd-1c9cd5efe4f7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/vulkanausbruch-auf-tonga-das-raetsel-des-hohen-tsunamis](https://www.spiegel.de/wissenschaft/natur/vulkanausbruch-auf-tonga-das-raetsel-des-hohen-tsunamis-a-7c3794fa-c46c-4f04-bb58-cf4125540844#ref=rss)
-### joe
+* [https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten](https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten-a-fbdbe2a6-658e-448a-bf49-4ab76360a402#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise-a-e8b633a6-9c9e-45f3-b8a0-32e86f97037d#ref=rss)
+* [https://www.spiegel.de/ausland/indien-missbrauch-in-der-katholischen-kirche-der-bischof-ist-frei-aber-gesiegt-haben-die-nonnen](https://www.spiegel.de/ausland/indien-missbrauch-in-der-katholischen-kirche-der-bischof-ist-frei-aber-gesiegt-haben-die-nonnen-a-4b306ded-4db8-4f01-87b1-41114b9d7862#ref=rss)
+* [https://www.spiegel.de/panorama/missbrauch-im-erzbistum-muenchen-freising-kardinal-reinhard-marx-erschuettert-und-beschaemt](https://www.spiegel.de/panorama/missbrauch-im-erzbistum-muenchen-freising-kardinal-reinhard-marx-erschuettert-und-beschaemt-a-5156f700-374a-4953-b518-0cef583e9788#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi](https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi-a-8ad24e2b-a4d3-41e6-b02c-f5b9122b7177#ref=rss)
+### benedikt
 
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-und-seine-irritierenden-aussagen-zu-wladimir-putin-was-meinte-er-damit](https://www.spiegel.de/ausland/us-praesident-joe-biden-und-seine-irritierenden-aussagen-zu-wladimir-putin-was-meinte-er-damit-a-95321cad-cca6-448b-a8c4-0da12554fd92#ref=rss)
-* [https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat](https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat-a-253a00f2-289c-4028-be73-7b8c03079a6d#ref=rss)
-### biden
+* [https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten](https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten-a-fbdbe2a6-658e-448a-bf49-4ab76360a402#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise-a-e8b633a6-9c9e-45f3-b8a0-32e86f97037d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi](https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi-a-8ad24e2b-a4d3-41e6-b02c-f5b9122b7177#ref=rss)
+### xvi
 
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-und-seine-irritierenden-aussagen-zu-wladimir-putin-was-meinte-er-damit](https://www.spiegel.de/ausland/us-praesident-joe-biden-und-seine-irritierenden-aussagen-zu-wladimir-putin-was-meinte-er-damit-a-95321cad-cca6-448b-a8c4-0da12554fd92#ref=rss)
-* [https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat](https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat-a-253a00f2-289c-4028-be73-7b8c03079a6d#ref=rss)
-### israel
+* [https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten](https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten-a-fbdbe2a6-658e-448a-bf49-4ab76360a402#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise-a-e8b633a6-9c9e-45f3-b8a0-32e86f97037d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi](https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi-a-8ad24e2b-a4d3-41e6-b02c-f5b9122b7177#ref=rss)
+### münchen
 
-* [https://www.spiegel.de/ausland/israel-palaestina-konflikt-polizei-reisst-haus-in-ost-jerusalem-ab](https://www.spiegel.de/ausland/israel-palaestina-konflikt-polizei-reisst-haus-in-ost-jerusalem-ab-a-5ed1e4d4-1f6c-4c93-a96f-f823e253ae88#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-und-israel-bringen-bei-der-uno-resolution-gegen-holocaust-leugnung-ein](https://www.spiegel.de/politik/deutschland/deutschland-und-israel-bringen-bei-der-uno-resolution-gegen-holocaust-leugnung-ein-a-82bbd433-4941-405d-8c4d-a3c25cdba97f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/milliardendeal-fuer-thyssenkrupp-israel-kauft-deutsche-u-boote-fuer-drei-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/milliardendeal-fuer-thyssenkrupp-israel-kauft-deutsche-u-boote-fuer-drei-milliarden-euro-a-f39e1846-719a-4975-9642-744036172e71#ref=rss)
-### jahr
+* [https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten](https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten-a-fbdbe2a6-658e-448a-bf49-4ab76360a402#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi](https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi-a-8ad24e2b-a4d3-41e6-b02c-f5b9122b7177#ref=rss)
+### corona
 
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-und-seine-irritierenden-aussagen-zu-wladimir-putin-was-meinte-er-damit](https://www.spiegel.de/ausland/us-praesident-joe-biden-und-seine-irritierenden-aussagen-zu-wladimir-putin-was-meinte-er-damit-a-95321cad-cca6-448b-a8c4-0da12554fd92#ref=rss)
-* [https://www.spiegel.de/ausland/israel-palaestina-konflikt-polizei-reisst-haus-in-ost-jerusalem-ab](https://www.spiegel.de/ausland/israel-palaestina-konflikt-polizei-reisst-haus-in-ost-jerusalem-ab-a-5ed1e4d4-1f6c-4c93-a96f-f823e253ae88#ref=rss)
-* [https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat](https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat-a-253a00f2-289c-4028-be73-7b8c03079a6d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise-a-e8b633a6-9c9e-45f3-b8a0-32e86f97037d#ref=rss)
+* [https://www.spiegel.de/gesundheit/corona-je-kleiner-die-kinder-desto-weniger-profitieren-sie-von-der-impfung-fuer-sich-selbst](https://www.spiegel.de/gesundheit/corona-je-kleiner-die-kinder-desto-weniger-profitieren-sie-von-der-impfung-fuer-sich-selbst-a-25111f9c-af5a-4750-a4be-0a828c6fdfde#ref=rss)
+* [https://www.spiegel.de/sport/handball/corona-bei-der-handball-em-2022-hat-es-nur-deutschland-so-schlimm-erwischt](https://www.spiegel.de/sport/handball/corona-bei-der-handball-em-2022-hat-es-nur-deutschland-so-schlimm-erwischt-a-50e8874d-4968-46ac-82e2-078135dbbda2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/corona-wenn-aerzte-impfpaesse-faelschen](https://www.spiegel.de/panorama/justiz/corona-wenn-aerzte-impfpaesse-faelschen-a-a62e485e-24e4-44aa-bbf1-6fa85ee2c317#ref=rss)
+### erste
+
+* [https://www.spiegel.de/ausland/cyberangriffe-die-ukraine-ist-die-erste-frontlinie-eines-echten-cyberkonflikts](https://www.spiegel.de/ausland/cyberangriffe-die-ukraine-ist-die-erste-frontlinie-eines-echten-cyberkonflikts-a-935fdf98-6bc0-420a-a138-4d6e9eecb06b#ref=rss)
+* [https://www.spiegel.de/panorama/tonga-erste-augenzeugenberichte-nach-dem-vulkanausbruch](https://www.spiegel.de/panorama/tonga-erste-augenzeugenberichte-nach-dem-vulkanausbruch-a-6d5c2cf3-8165-42d9-b1ff-a63f406b5785#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt](https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt-a-6ba028ef-8677-4836-954b-9980865e11b8#ref=rss)
+* [https://www.spiegel.de/ausland/polen-soll-69-millionen-euro-an-eu-zahlen-streit-ueber-justizreform](https://www.spiegel.de/ausland/polen-soll-69-millionen-euro-an-eu-zahlen-streit-ueber-justizreform-a-0b7988b1-7c51-4609-8862-c374a0f2c3d6#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-und-annalena-baerbock-versprechen-kooperation-bei-boni-ermittlungen](https://www.spiegel.de/politik/deutschland/robert-habeck-und-annalena-baerbock-versprechen-kooperation-bei-boni-ermittlungen-a-041a367d-5f10-40a7-90d5-ea194169806d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf](https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf-a-78dcd5ab-efec-47cf-b396-521cfbfe9cac#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands-a-2a63cf80-1de6-4141-81c0-27d26dcd9da3#ref=rss)
+* [https://www.spiegel.de/ausland/cyberangriffe-die-ukraine-ist-die-erste-frontlinie-eines-echten-cyberkonflikts](https://www.spiegel.de/ausland/cyberangriffe-die-ukraine-ist-die-erste-frontlinie-eines-echten-cyberkonflikts-a-935fdf98-6bc0-420a-a138-4d6e9eecb06b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf](https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf-a-78dcd5ab-efec-47cf-b396-521cfbfe9cac#ref=rss)
+### erzbistum
+
+* [https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten](https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten-a-fbdbe2a6-658e-448a-bf49-4ab76360a402#ref=rss)
+* [https://www.spiegel.de/panorama/missbrauch-im-erzbistum-muenchen-freising-kardinal-reinhard-marx-erschuettert-und-beschaemt](https://www.spiegel.de/panorama/missbrauch-im-erzbistum-muenchen-freising-kardinal-reinhard-marx-erschuettert-und-beschaemt-a-5156f700-374a-4953-b518-0cef583e9788#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi](https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi-a-8ad24e2b-a4d3-41e6-b02c-f5b9122b7177#ref=rss)
+### papst
+
+* [https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten](https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten-a-fbdbe2a6-658e-448a-bf49-4ab76360a402#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise-a-e8b633a6-9c9e-45f3-b8a0-32e86f97037d#ref=rss)
+### euparlament
+
+* [https://www.spiegel.de/wirtschaft/service/tiertransporte-eu-parlament-fordert-besseren-schutz](https://www.spiegel.de/wirtschaft/service/tiertransporte-eu-parlament-fordert-besseren-schutz-a-3bf7ef57-0e89-411b-8210-a44d8f66532f#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/eu-parlament-einigt-sich-auf-neue-regeln-fuer-techkonzerne](https://www.spiegel.de/netzwelt/netzpolitik/eu-parlament-einigt-sich-auf-neue-regeln-fuer-techkonzerne-a-706a8067-2981-4832-829b-f4345dbafde3#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/bayern-robert-habeck-fordert-markus-soeder-zu-oekologischem-patriotismus-auf](https://www.spiegel.de/politik/deutschland/bayern-robert-habeck-fordert-markus-soeder-zu-oekologischem-patriotismus-auf-a-6b2640a6-e7d3-401b-b970-5b853cda302c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/raumfahrt-studie-zu-weltraum-anaemie-blutarmut-koennte-im-all-problematisch-werden](https://www.spiegel.de/wissenschaft/natur/raumfahrt-studie-zu-weltraum-anaemie-blutarmut-koennte-im-all-problematisch-werden-a-57902de2-919a-4a0e-b17a-42c171615036#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen](https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen-a-b20f73b6-e393-49ad-9652-89a8597e57b2#ref=rss)
-### land
+* [https://www.spiegel.de/wirtschaft/service/tiertransporte-eu-parlament-fordert-besseren-schutz](https://www.spiegel.de/wirtschaft/service/tiertransporte-eu-parlament-fordert-besseren-schutz-a-3bf7ef57-0e89-411b-8210-a44d8f66532f#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/luca-und-co-ermittler-griffen-mehr-als-100-mal-auf-daten-zur-kontaktverfolgung-zu](https://www.spiegel.de/netzwelt/apps/luca-und-co-ermittler-griffen-mehr-als-100-mal-auf-daten-zur-kontaktverfolgung-zu-a-a4e4c90a-7d6a-4b0e-8003-2a5ec7bc694f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt](https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt-a-6ba028ef-8677-4836-954b-9980865e11b8#ref=rss)
+### kryptowährungen
 
-* [https://www.spiegel.de/politik/deutschland/bayern-robert-habeck-fordert-markus-soeder-zu-oekologischem-patriotismus-auf](https://www.spiegel.de/politik/deutschland/bayern-robert-habeck-fordert-markus-soeder-zu-oekologischem-patriotismus-auf-a-6b2640a6-e7d3-401b-b970-5b853cda302c#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/urlaub-in-asien-thailand-erlaubt-wieder-einreise-ohne-quarantaene](https://www.spiegel.de/reise/fernweh/urlaub-in-asien-thailand-erlaubt-wieder-einreise-ohne-quarantaene-a-9d394b18-ba03-4706-b9fc-d9858a03433b#ref=rss)
-* [https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat](https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat-a-253a00f2-289c-4028-be73-7b8c03079a6d#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/wintersport/biathlon-erik-lesser-schimpft-auf-peking-spiele-und-das-ioc](https://www.spiegel.de/sport/wintersport/biathlon-erik-lesser-schimpft-auf-peking-spiele-und-das-ioc-a-bde585cb-111e-43fb-a762-256b051783be#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-so-stark-wie-noch-nie-seit-dem-zweiten-weltkrieg](https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-so-stark-wie-noch-nie-seit-dem-zweiten-weltkrieg-a-6deb9c68-927c-4641-905d-fd729980554e#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-deutschland-beantragt-wegen-coronafaellen-spielverlegung-gegen-spanien](https://www.spiegel.de/sport/handball/handball-em-deutschland-beantragt-wegen-coronafaellen-spielverlegung-gegen-spanien-a-7cfed1ce-76a7-460e-93c1-a64a996ef377#ref=rss)
-### anwälte
-
-* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-der-vertrauten-jeffrey-epsteins-beantragen-neuen-prozess](https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-der-vertrauten-jeffrey-epsteins-beantragen-neuen-prozess-a-e1ddf610-fe30-46f5-9236-0c2802814977#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-gerichtstreit-mit-vater-jamie-spears-geht-weiter](https://www.spiegel.de/panorama/leute/britney-spears-gerichtstreit-mit-vater-jamie-spears-geht-weiter-a-ebedea36-ba93-4926-a52b-3dd27ffdded0#ref=rss)
-### nie
-
-* [https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-so-stark-wie-noch-nie-seit-dem-zweiten-weltkrieg](https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-so-stark-wie-noch-nie-seit-dem-zweiten-weltkrieg-a-6deb9c68-927c-4641-905d-fd729980554e#ref=rss)
-* [https://www.spiegel.de/panorama/tonga-landebahn-nach-ausbruch-von-unterwasservulkan-von-asche-befreit-erste-hilfsfluege-gelandet](https://www.spiegel.de/panorama/tonga-landebahn-nach-ausbruch-von-unterwasservulkan-von-asche-befreit-erste-hilfsfluege-gelandet-a-973e041c-855c-4b8a-bbdd-1c9cd5efe4f7#ref=rss)
-### höhere
-
-* [https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-so-stark-wie-noch-nie-seit-dem-zweiten-weltkrieg](https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-so-stark-wie-noch-nie-seit-dem-zweiten-weltkrieg-a-6deb9c68-927c-4641-905d-fd729980554e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen](https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen-a-b20f73b6-e393-49ad-9652-89a8597e57b2#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/deutschland-und-israel-bringen-bei-der-uno-resolution-gegen-holocaust-leugnung-ein](https://www.spiegel.de/politik/deutschland/deutschland-und-israel-bringen-bei-der-uno-resolution-gegen-holocaust-leugnung-ein-a-82bbd433-4941-405d-8c4d-a3c25cdba97f#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-deutschland-beantragt-wegen-coronafaellen-spielverlegung-gegen-spanien](https://www.spiegel.de/sport/handball/handball-em-deutschland-beantragt-wegen-coronafaellen-spielverlegung-gegen-spanien-a-7cfed1ce-76a7-460e-93c1-a64a996ef377#ref=rss)
-### spears
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-gerichtstreit-mit-vater-jamie-spears-geht-weiter](https://www.spiegel.de/panorama/leute/britney-spears-gerichtstreit-mit-vater-jamie-spears-geht-weiter-a-ebedea36-ba93-4926-a52b-3dd27ffdded0#ref=rss)
-### ende
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-gerichtstreit-mit-vater-jamie-spears-geht-weiter](https://www.spiegel.de/panorama/leute/britney-spears-gerichtstreit-mit-vater-jamie-spears-geht-weiter-a-ebedea36-ba93-4926-a52b-3dd27ffdded0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/corona-news-infektiologe-impfpflicht-schnell-auf-weitere-berufsgruppen-ausweiten](https://www.spiegel.de/wissenschaft/corona-news-infektiologe-impfpflicht-schnell-auf-weitere-berufsgruppen-ausweiten-a-01ae705d-cd6c-4c87-856e-739776bccdaa#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-und-seine-irritierenden-aussagen-zu-wladimir-putin-was-meinte-er-damit](https://www.spiegel.de/ausland/us-praesident-joe-biden-und-seine-irritierenden-aussagen-zu-wladimir-putin-was-meinte-er-damit-a-95321cad-cca6-448b-a8c4-0da12554fd92#ref=rss)
-* [https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat](https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat-a-253a00f2-289c-4028-be73-7b8c03079a6d#ref=rss)
-### aussagen
-
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-und-seine-irritierenden-aussagen-zu-wladimir-putin-was-meinte-er-damit](https://www.spiegel.de/ausland/us-praesident-joe-biden-und-seine-irritierenden-aussagen-zu-wladimir-putin-was-meinte-er-damit-a-95321cad-cca6-448b-a8c4-0da12554fd92#ref=rss)
-### ziehen
-
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-und-seine-irritierenden-aussagen-zu-wladimir-putin-was-meinte-er-damit](https://www.spiegel.de/ausland/us-praesident-joe-biden-und-seine-irritierenden-aussagen-zu-wladimir-putin-was-meinte-er-damit-a-95321cad-cca6-448b-a8c4-0da12554fd92#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-omid-nouripor-will-eigenen-bundestagswahlkampf-aufarbeiten](https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-omid-nouripor-will-eigenen-bundestagswahlkampf-aufarbeiten-a-010f28d9-e44a-4509-94aa-bc9cfb51ef34#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/bayern-robert-habeck-fordert-markus-soeder-zu-oekologischem-patriotismus-auf](https://www.spiegel.de/politik/deutschland/bayern-robert-habeck-fordert-markus-soeder-zu-oekologischem-patriotismus-auf-a-6b2640a6-e7d3-401b-b970-5b853cda302c#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/politik/deutschland/bayern-robert-habeck-fordert-markus-soeder-zu-oekologischem-patriotismus-auf](https://www.spiegel.de/politik/deutschland/bayern-robert-habeck-fordert-markus-soeder-zu-oekologischem-patriotismus-auf-a-6b2640a6-e7d3-401b-b970-5b853cda302c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise-a-e8b633a6-9c9e-45f3-b8a0-32e86f97037d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bitcoin-und-co-russische-notenbank-fuer-verbot-von-kryptowaehrungen](https://www.spiegel.de/wirtschaft/bitcoin-und-co-russische-notenbank-fuer-verbot-von-kryptowaehrungen-a-35f9ee10-15c9-4156-8ae0-aeb8afe51dcc#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/politik/deutschland/bayern-robert-habeck-fordert-markus-soeder-zu-oekologischem-patriotismus-auf](https://www.spiegel.de/politik/deutschland/bayern-robert-habeck-fordert-markus-soeder-zu-oekologischem-patriotismus-auf-a-6b2640a6-e7d3-401b-b970-5b853cda302c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen](https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen-a-b20f73b6-e393-49ad-9652-89a8597e57b2#ref=rss)
-### fall
+* [https://www.spiegel.de/netzwelt/netzpolitik/eu-parlament-einigt-sich-auf-neue-regeln-fuer-techkonzerne](https://www.spiegel.de/netzwelt/netzpolitik/eu-parlament-einigt-sich-auf-neue-regeln-fuer-techkonzerne-a-706a8067-2981-4832-829b-f4345dbafde3#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nach-mail-zu-verbotener-lockdown-party-in-erklaerungsnot](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nach-mail-zu-verbotener-lockdown-party-in-erklaerungsnot-a-0e56ffa0-bb4f-4de3-bae9-a5314e5893e0#ref=rss)
+### selenskyj
 
-* [https://www.spiegel.de/panorama/justiz/giessen-und-marburg-bundes-kriminal-amt-nimmt-mut-mass-li-che-rausch-gift-haend-ler-fest](https://www.spiegel.de/panorama/justiz/giessen-und-marburg-bundes-kriminal-amt-nimmt-mut-mass-li-che-rausch-gift-haend-ler-fest-a-88e5b6bd-a3bf-416a-aa76-a615a185c766#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-der-vertrauten-jeffrey-epsteins-beantragen-neuen-prozess](https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-der-vertrauten-jeffrey-epsteins-beantragen-neuen-prozess-a-e1ddf610-fe30-46f5-9236-0c2802814977#ref=rss)
-### geben
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands-a-2a63cf80-1de6-4141-81c0-27d26dcd9da3#ref=rss)
+### biden
 
-* [https://www.spiegel.de/sport/fussball/transferticker-fc-barcelona-will-ousmane-dembele-loswerden-gladbach-verleiht-hannes-wolf](https://www.spiegel.de/sport/fussball/transferticker-fc-barcelona-will-ousmane-dembele-loswerden-gladbach-verleiht-hannes-wolf-a-00d8eafa-8d36-4c49-80ca-a33e142b973a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen](https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen-a-b20f73b6-e393-49ad-9652-89a8597e57b2#ref=rss)
-### erik
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands-a-2a63cf80-1de6-4141-81c0-27d26dcd9da3#ref=rss)
+### kleinerem
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-erik-lesser-schimpft-auf-peking-spiele-und-das-ioc](https://www.spiegel.de/sport/wintersport/biathlon-erik-lesser-schimpft-auf-peking-spiele-und-das-ioc-a-bde585cb-111e-43fb-a762-256b051783be#ref=rss)
-### lesser
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands-a-2a63cf80-1de6-4141-81c0-27d26dcd9da3#ref=rss)
+### eindringen
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-erik-lesser-schimpft-auf-peking-spiele-und-das-ioc](https://www.spiegel.de/sport/wintersport/biathlon-erik-lesser-schimpft-auf-peking-spiele-und-das-ioc-a-bde585cb-111e-43fb-a762-256b051783be#ref=rss)
-### ioc
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands-a-2a63cf80-1de6-4141-81c0-27d26dcd9da3#ref=rss)
+### russlands
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-erik-lesser-schimpft-auf-peking-spiele-und-das-ioc](https://www.spiegel.de/sport/wintersport/biathlon-erik-lesser-schimpft-auf-peking-spiele-und-das-ioc-a-bde585cb-111e-43fb-a762-256b051783be#ref=rss)
-### china
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands-a-2a63cf80-1de6-4141-81c0-27d26dcd9da3#ref=rss)
+### ukrainekonflikt
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-erik-lesser-schimpft-auf-peking-spiele-und-das-ioc](https://www.spiegel.de/sport/wintersport/biathlon-erik-lesser-schimpft-auf-peking-spiele-und-das-ioc-a-bde585cb-111e-43fb-a762-256b051783be#ref=rss)
-* [https://www.spiegel.de/sport/basketball/begleitest-du-mich-in-die-arbeitslager](https://www.spiegel.de/sport/basketball/begleitest-du-mich-in-die-arbeitslager-a-b5f826bf-3d2f-463c-bda4-11219b4b25c8#ref=rss)
-### kritik
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands-a-2a63cf80-1de6-4141-81c0-27d26dcd9da3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf](https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf-a-78dcd5ab-efec-47cf-b396-521cfbfe9cac#ref=rss)
+### zeigte
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-erik-lesser-schimpft-auf-peking-spiele-und-das-ioc](https://www.spiegel.de/sport/wintersport/biathlon-erik-lesser-schimpft-auf-peking-spiele-und-das-ioc-a-bde585cb-111e-43fb-a762-256b051783be#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-kuendigung-per-zoom-vishal-garg-kehrt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/nach-kuendigung-per-zoom-vishal-garg-kehrt-zurueck-a-71227376-4272-4cc9-a06d-2d652a7ab68e#ref=rss)
-### polizei
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-korrigiert-joe-biden-nach-aussage-zu-kleinerem-eindringen-russlands-a-2a63cf80-1de6-4141-81c0-27d26dcd9da3#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ingrid-alexandra-besucht-norwegische-staatsgewalten-fortbildung-vor-dem-18-geburtstag](https://www.spiegel.de/panorama/leute/ingrid-alexandra-besucht-norwegische-staatsgewalten-fortbildung-vor-dem-18-geburtstag-a-cc1b4203-3b53-48c9-983a-7e9dd028ef3b#ref=rss)
+### missbrauchsgutachten
 
-* [https://www.spiegel.de/ausland/israel-palaestina-konflikt-polizei-reisst-haus-in-ost-jerusalem-ab](https://www.spiegel.de/ausland/israel-palaestina-konflikt-polizei-reisst-haus-in-ost-jerusalem-ab-a-5ed1e4d4-1f6c-4c93-a96f-f823e253ae88#ref=rss)
-### viertel
+* [https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten](https://www.spiegel.de/panorama/gesellschaft/missbrauch-im-erzbistum-muenchen-papst-benedikt-xvi-will-fuer-opfer-beten-a-fbdbe2a6-658e-448a-bf49-4ab76360a402#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi](https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi-a-8ad24e2b-a4d3-41e6-b02c-f5b9122b7177#ref=rss)
+### weltuntergangsuhr
 
-* [https://www.spiegel.de/ausland/israel-palaestina-konflikt-polizei-reisst-haus-in-ost-jerusalem-ab](https://www.spiegel.de/ausland/israel-palaestina-konflikt-polizei-reisst-haus-in-ost-jerusalem-ab-a-5ed1e4d4-1f6c-4c93-a96f-f823e253ae88#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen](https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen-a-b20f73b6-e393-49ad-9652-89a8597e57b2#ref=rss)
-### vishal
+* [https://www.spiegel.de/wissenschaft/mensch/weltuntergangsuhr-hundert-sekunden-noch-bis-zum-weltuntergang](https://www.spiegel.de/wissenschaft/mensch/weltuntergangsuhr-hundert-sekunden-noch-bis-zum-weltuntergang-a-9f34493a-8e43-4948-909f-a3c26cdd85ab#ref=rss)
+### erde
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-kuendigung-per-zoom-vishal-garg-kehrt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/nach-kuendigung-per-zoom-vishal-garg-kehrt-zurueck-a-71227376-4272-4cc9-a06d-2d652a7ab68e#ref=rss)
-### garg
+* [https://www.spiegel.de/wissenschaft/mensch/weltuntergangsuhr-hundert-sekunden-noch-bis-zum-weltuntergang](https://www.spiegel.de/wissenschaft/mensch/weltuntergangsuhr-hundert-sekunden-noch-bis-zum-weltuntergang-a-9f34493a-8e43-4948-909f-a3c26cdd85ab#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt](https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt-a-ba51159b-8416-46a5-8796-5bae4f7db652#ref=rss)
+### 2021
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-kuendigung-per-zoom-vishal-garg-kehrt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/nach-kuendigung-per-zoom-vishal-garg-kehrt-zurueck-a-71227376-4272-4cc9-a06d-2d652a7ab68e#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/reise/fernweh/urlaub-in-asien-thailand-erlaubt-wieder-einreise-ohne-quarantaene](https://www.spiegel.de/reise/fernweh/urlaub-in-asien-thailand-erlaubt-wieder-einreise-ohne-quarantaene-a-9d394b18-ba03-4706-b9fc-d9858a03433b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-der-vertrauten-jeffrey-epsteins-beantragen-neuen-prozess](https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-der-vertrauten-jeffrey-epsteins-beantragen-neuen-prozess-a-e1ddf610-fe30-46f5-9236-0c2802814977#ref=rss)
-### enes
-
-* [https://www.spiegel.de/sport/basketball/begleitest-du-mich-in-die-arbeitslager](https://www.spiegel.de/sport/basketball/begleitest-du-mich-in-die-arbeitslager-a-b5f826bf-3d2f-463c-bda4-11219b4b25c8#ref=rss)
-### kanter
-
-* [https://www.spiegel.de/sport/basketball/begleitest-du-mich-in-die-arbeitslager](https://www.spiegel.de/sport/basketball/begleitest-du-mich-in-die-arbeitslager-a-b5f826bf-3d2f-463c-bda4-11219b4b25c8#ref=rss)
-### freedom
-
-* [https://www.spiegel.de/sport/basketball/begleitest-du-mich-in-die-arbeitslager](https://www.spiegel.de/sport/basketball/begleitest-du-mich-in-die-arbeitslager-a-b5f826bf-3d2f-463c-bda4-11219b4b25c8#ref=rss)
-### prangert
-
-* [https://www.spiegel.de/sport/basketball/begleitest-du-mich-in-die-arbeitslager](https://www.spiegel.de/sport/basketball/begleitest-du-mich-in-die-arbeitslager-a-b5f826bf-3d2f-463c-bda4-11219b4b25c8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/corona-news-infektiologe-impfpflicht-schnell-auf-weitere-berufsgruppen-ausweiten](https://www.spiegel.de/wissenschaft/corona-news-infektiologe-impfpflicht-schnell-auf-weitere-berufsgruppen-ausweiten-a-01ae705d-cd6c-4c87-856e-739776bccdaa#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wissenschaft/natur/raumfahrt-studie-zu-weltraum-anaemie-blutarmut-koennte-im-all-problematisch-werden](https://www.spiegel.de/wissenschaft/natur/raumfahrt-studie-zu-weltraum-anaemie-blutarmut-koennte-im-all-problematisch-werden-a-57902de2-919a-4a0e-b17a-42c171615036#ref=rss)
-### blutarmut
-
-* [https://www.spiegel.de/wissenschaft/natur/raumfahrt-studie-zu-weltraum-anaemie-blutarmut-koennte-im-all-problematisch-werden](https://www.spiegel.de/wissenschaft/natur/raumfahrt-studie-zu-weltraum-anaemie-blutarmut-koennte-im-all-problematisch-werden-a-57902de2-919a-4a0e-b17a-42c171615036#ref=rss)
-### all
-
-* [https://www.spiegel.de/wissenschaft/natur/raumfahrt-studie-zu-weltraum-anaemie-blutarmut-koennte-im-all-problematisch-werden](https://www.spiegel.de/wissenschaft/natur/raumfahrt-studie-zu-weltraum-anaemie-blutarmut-koennte-im-all-problematisch-werden-a-57902de2-919a-4a0e-b17a-42c171615036#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wissenschaft/natur/raumfahrt-studie-zu-weltraum-anaemie-blutarmut-koennte-im-all-problematisch-werden](https://www.spiegel.de/wissenschaft/natur/raumfahrt-studie-zu-weltraum-anaemie-blutarmut-koennte-im-all-problematisch-werden-a-57902de2-919a-4a0e-b17a-42c171615036#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen](https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen-a-b20f73b6-e393-49ad-9652-89a8597e57b2#ref=rss)
-### ghislaine
-
-* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-der-vertrauten-jeffrey-epsteins-beantragen-neuen-prozess](https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-der-vertrauten-jeffrey-epsteins-beantragen-neuen-prozess-a-e1ddf610-fe30-46f5-9236-0c2802814977#ref=rss)
-### maxwell
-
-* [https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-der-vertrauten-jeffrey-epsteins-beantragen-neuen-prozess](https://www.spiegel.de/panorama/justiz/ghislaine-maxwell-anwaelte-der-vertrauten-jeffrey-epsteins-beantragen-neuen-prozess-a-e1ddf610-fe30-46f5-9236-0c2802814977#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/weltuntergangsuhr-hundert-sekunden-noch-bis-zum-weltuntergang](https://www.spiegel.de/wissenschaft/mensch/weltuntergangsuhr-hundert-sekunden-noch-bis-zum-weltuntergang-a-9f34493a-8e43-4948-909f-a3c26cdd85ab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt](https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt-a-6ba028ef-8677-4836-954b-9980865e11b8#ref=rss)
 ### stark
 
-* [https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-so-stark-wie-noch-nie-seit-dem-zweiten-weltkrieg](https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-so-stark-wie-noch-nie-seit-dem-zweiten-weltkrieg-a-6deb9c68-927c-4641-905d-fd729980554e#ref=rss)
-### preise
+* [https://www.spiegel.de/wissenschaft/mensch/weltuntergangsuhr-hundert-sekunden-noch-bis-zum-weltuntergang](https://www.spiegel.de/wissenschaft/mensch/weltuntergangsuhr-hundert-sekunden-noch-bis-zum-weltuntergang-a-9f34493a-8e43-4948-909f-a3c26cdd85ab#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi](https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi-a-8ad24e2b-a4d3-41e6-b02c-f5b9122b7177#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-so-stark-wie-noch-nie-seit-dem-zweiten-weltkrieg](https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-so-stark-wie-noch-nie-seit-dem-zweiten-weltkrieg-a-6deb9c68-927c-4641-905d-fd729980554e#ref=rss)
-### resolution
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise-a-e8b633a6-9c9e-45f3-b8a0-32e86f97037d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-verbraucherschuetzer-klaus-mueller-soll-chef-werden](https://www.spiegel.de/wirtschaft/bundesnetzagentur-verbraucherschuetzer-klaus-mueller-soll-chef-werden-a-36c29869-088e-48b6-b0d7-e2464696275b#ref=rss)
+### geschäft
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-und-israel-bringen-bei-der-uno-resolution-gegen-holocaust-leugnung-ein](https://www.spiegel.de/politik/deutschland/deutschland-und-israel-bringen-bei-der-uno-resolution-gegen-holocaust-leugnung-ein-a-82bbd433-4941-405d-8c4d-a3c25cdba97f#ref=rss)
-### trivialisierung
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise-a-e8b633a6-9c9e-45f3-b8a0-32e86f97037d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/corona-wenn-aerzte-impfpaesse-faelschen](https://www.spiegel.de/panorama/justiz/corona-wenn-aerzte-impfpaesse-faelschen-a-a62e485e-24e4-44aa-bbf1-6fa85ee2c317#ref=rss)
+### lage
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-und-israel-bringen-bei-der-uno-resolution-gegen-holocaust-leugnung-ein](https://www.spiegel.de/politik/deutschland/deutschland-und-israel-bringen-bei-der-uno-resolution-gegen-holocaust-leugnung-ein-a-82bbd433-4941-405d-8c4d-a3c25cdba97f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/corona-news-infektiologe-impfpflicht-schnell-auf-weitere-berufsgruppen-ausweiten](https://www.spiegel.de/wissenschaft/corona-news-infektiologe-impfpflicht-schnell-auf-weitere-berufsgruppen-ausweiten-a-01ae705d-cd6c-4c87-856e-739776bccdaa#ref=rss)
-### hardy
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise](https://www.spiegel.de/politik/deutschland/news-des-tages-sexueller-missbrauch-crypto-com-coronakrise-a-e8b633a6-9c9e-45f3-b8a0-32e86f97037d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf](https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf-a-78dcd5ab-efec-47cf-b396-521cfbfe9cac#ref=rss)
+### antisemitismus
 
-* [https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben](https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben-a-d33a932d-8fbd-4fd9-98ed-d2120dfc1bd8#ref=rss)
-### krüger
+* [https://www.spiegel.de/ausland/antisemitismus-uno-prangert-holocaust-leugnung-an](https://www.spiegel.de/ausland/antisemitismus-uno-prangert-holocaust-leugnung-an-a-b9b64a06-4364-410b-9995-e2f4ac6f2eb8#ref=rss)
+### uno
 
-* [https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben](https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben-a-d33a932d-8fbd-4fd9-98ed-d2120dfc1bd8#ref=rss)
-### schauspieler
+* [https://www.spiegel.de/ausland/antisemitismus-uno-prangert-holocaust-leugnung-an](https://www.spiegel.de/ausland/antisemitismus-uno-prangert-holocaust-leugnung-an-a-b9b64a06-4364-410b-9995-e2f4ac6f2eb8#ref=rss)
+### künftig
 
-* [https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben](https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben-a-d33a932d-8fbd-4fd9-98ed-d2120dfc1bd8#ref=rss)
-### alter
+* [https://www.spiegel.de/ausland/antisemitismus-uno-prangert-holocaust-leugnung-an](https://www.spiegel.de/ausland/antisemitismus-uno-prangert-holocaust-leugnung-an-a-b9b64a06-4364-410b-9995-e2f4ac6f2eb8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-verbraucherschuetzer-klaus-mueller-soll-chef-werden](https://www.spiegel.de/wirtschaft/bundesnetzagentur-verbraucherschuetzer-klaus-mueller-soll-chef-werden-a-36c29869-088e-48b6-b0d7-e2464696275b#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben](https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben-a-d33a932d-8fbd-4fd9-98ed-d2120dfc1bd8#ref=rss)
-### 93
+* [https://www.spiegel.de/ausland/cyberangriffe-die-ukraine-ist-die-erste-frontlinie-eines-echten-cyberkonflikts](https://www.spiegel.de/ausland/cyberangriffe-die-ukraine-ist-die-erste-frontlinie-eines-echten-cyberkonflikts-a-935fdf98-6bc0-420a-a138-4d6e9eecb06b#ref=rss)
+* [https://www.spiegel.de/sport/handball/corona-bei-der-handball-em-2022-hat-es-nur-deutschland-so-schlimm-erwischt](https://www.spiegel.de/sport/handball/corona-bei-der-handball-em-2022-hat-es-nur-deutschland-so-schlimm-erwischt-a-50e8874d-4968-46ac-82e2-078135dbbda2#ref=rss)
+### netz
 
-* [https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben](https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben-a-d33a932d-8fbd-4fd9-98ed-d2120dfc1bd8#ref=rss)
-### jahren
+* [https://www.spiegel.de/netzwelt/netzpolitik/eu-parlament-einigt-sich-auf-neue-regeln-fuer-techkonzerne](https://www.spiegel.de/netzwelt/netzpolitik/eu-parlament-einigt-sich-auf-neue-regeln-fuer-techkonzerne-a-706a8067-2981-4832-829b-f4345dbafde3#ref=rss)
+* [https://www.spiegel.de/auto/fahrkultur/bugatti-test-verkehrsminister-wissing-kritisiert-raser-video](https://www.spiegel.de/auto/fahrkultur/bugatti-test-verkehrsminister-wissing-kritisiert-raser-video-a-b320da7f-6ef6-4a06-84c1-0aa59025b2a3#ref=rss)
+### indien
 
-* [https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben](https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben-a-d33a932d-8fbd-4fd9-98ed-d2120dfc1bd8#ref=rss)
-### gestorben
+* [https://www.spiegel.de/ausland/indien-missbrauch-in-der-katholischen-kirche-der-bischof-ist-frei-aber-gesiegt-haben-die-nonnen](https://www.spiegel.de/ausland/indien-missbrauch-in-der-katholischen-kirche-der-bischof-ist-frei-aber-gesiegt-haben-die-nonnen-a-4b306ded-4db8-4f01-87b1-41114b9d7862#ref=rss)
+### kirche
 
-* [https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben](https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben-a-d33a932d-8fbd-4fd9-98ed-d2120dfc1bd8#ref=rss)
-### stand
+* [https://www.spiegel.de/ausland/indien-missbrauch-in-der-katholischen-kirche-der-bischof-ist-frei-aber-gesiegt-haben-die-nonnen](https://www.spiegel.de/ausland/indien-missbrauch-in-der-katholischen-kirche-der-bischof-ist-frei-aber-gesiegt-haben-die-nonnen-a-4b306ded-4db8-4f01-87b1-41114b9d7862#ref=rss)
+* [https://www.spiegel.de/panorama/missbrauch-im-erzbistum-muenchen-freising-kardinal-reinhard-marx-erschuettert-und-beschaemt](https://www.spiegel.de/panorama/missbrauch-im-erzbistum-muenchen-freising-kardinal-reinhard-marx-erschuettert-und-beschaemt-a-5156f700-374a-4953-b518-0cef583e9788#ref=rss)
+### bischof
 
-* [https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben](https://www.spiegel.de/kultur/hardy-krueger-schauspieler-und-synchronsprecher-im-alter-von-93-jahren-gestorben-a-d33a932d-8fbd-4fd9-98ed-d2120dfc1bd8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/britney-spears-gerichtstreit-mit-vater-jamie-spears-geht-weiter](https://www.spiegel.de/panorama/leute/britney-spears-gerichtstreit-mit-vater-jamie-spears-geht-weiter-a-ebedea36-ba93-4926-a52b-3dd27ffdded0#ref=rss)
-### faeser
+* [https://www.spiegel.de/ausland/indien-missbrauch-in-der-katholischen-kirche-der-bischof-ist-frei-aber-gesiegt-haben-die-nonnen](https://www.spiegel.de/ausland/indien-missbrauch-in-der-katholischen-kirche-der-bischof-ist-frei-aber-gesiegt-haben-die-nonnen-a-4b306ded-4db8-4f01-87b1-41114b9d7862#ref=rss)
+### tonga
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/faeser-will-telegram-aus-den-app-stores-werfen-lassen](https://www.spiegel.de/netzwelt/netzpolitik/faeser-will-telegram-aus-den-app-stores-werfen-lassen-a-30f191c7-ecb6-4d2c-997d-cfceadd2eb60#ref=rss)
-### telegram
+* [https://www.spiegel.de/panorama/tonga-erste-augenzeugenberichte-nach-dem-vulkanausbruch](https://www.spiegel.de/panorama/tonga-erste-augenzeugenberichte-nach-dem-vulkanausbruch-a-6d5c2cf3-8165-42d9-b1ff-a63f406b5785#ref=rss)
+### augenzeugenberichte
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/faeser-will-telegram-aus-den-app-stores-werfen-lassen](https://www.spiegel.de/netzwelt/netzpolitik/faeser-will-telegram-aus-den-app-stores-werfen-lassen-a-30f191c7-ecb6-4d2c-997d-cfceadd2eb60#ref=rss)
-### appstores
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/faeser-will-telegram-aus-den-app-stores-werfen-lassen](https://www.spiegel.de/netzwelt/netzpolitik/faeser-will-telegram-aus-den-app-stores-werfen-lassen-a-30f191c7-ecb6-4d2c-997d-cfceadd2eb60#ref=rss)
-### beantragt
-
-* [https://www.spiegel.de/sport/handball/handball-em-deutschland-beantragt-wegen-coronafaellen-spielverlegung-gegen-spanien](https://www.spiegel.de/sport/handball/handball-em-deutschland-beantragt-wegen-coronafaellen-spielverlegung-gegen-spanien-a-7cfed1ce-76a7-460e-93c1-a64a996ef377#ref=rss)
-### milliardendeal
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/milliardendeal-fuer-thyssenkrupp-israel-kauft-deutsche-u-boote-fuer-drei-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/milliardendeal-fuer-thyssenkrupp-israel-kauft-deutsche-u-boote-fuer-drei-milliarden-euro-a-f39e1846-719a-4975-9642-744036172e71#ref=rss)
-### thyssenkrupp
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/milliardendeal-fuer-thyssenkrupp-israel-kauft-deutsche-u-boote-fuer-drei-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/milliardendeal-fuer-thyssenkrupp-israel-kauft-deutsche-u-boote-fuer-drei-milliarden-euro-a-f39e1846-719a-4975-9642-744036172e71#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/milliardendeal-fuer-thyssenkrupp-israel-kauft-deutsche-u-boote-fuer-drei-milliarden-euro](https://www.spiegel.de/wirtschaft/unternehmen/milliardendeal-fuer-thyssenkrupp-israel-kauft-deutsche-u-boote-fuer-drei-milliarden-euro-a-f39e1846-719a-4975-9642-744036172e71#ref=rss)
-### britney
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-gerichtstreit-mit-vater-jamie-spears-geht-weiter](https://www.spiegel.de/panorama/leute/britney-spears-gerichtstreit-mit-vater-jamie-spears-geht-weiter-a-ebedea36-ba93-4926-a52b-3dd27ffdded0#ref=rss)
-### vater
-
-* [https://www.spiegel.de/panorama/leute/britney-spears-gerichtstreit-mit-vater-jamie-spears-geht-weiter](https://www.spiegel.de/panorama/leute/britney-spears-gerichtstreit-mit-vater-jamie-spears-geht-weiter-a-ebedea36-ba93-4926-a52b-3dd27ffdded0#ref=rss)
-### hertha
-
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-verliert-im-dfb-pokal-gegen-union-berlin-die-hierarchie-in-der-hauptstadt](https://www.spiegel.de/sport/fussball/hertha-bsc-verliert-im-dfb-pokal-gegen-union-berlin-die-hierarchie-in-der-hauptstadt-a-b77534f2-dc1d-4d51-b841-095e7b6e357d#ref=rss)
-### bsc
-
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-verliert-im-dfb-pokal-gegen-union-berlin-die-hierarchie-in-der-hauptstadt](https://www.spiegel.de/sport/fussball/hertha-bsc-verliert-im-dfb-pokal-gegen-union-berlin-die-hierarchie-in-der-hauptstadt-a-b77534f2-dc1d-4d51-b841-095e7b6e357d#ref=rss)
-### verliert
-
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-verliert-im-dfb-pokal-gegen-union-berlin-die-hierarchie-in-der-hauptstadt](https://www.spiegel.de/sport/fussball/hertha-bsc-verliert-im-dfb-pokal-gegen-union-berlin-die-hierarchie-in-der-hauptstadt-a-b77534f2-dc1d-4d51-b841-095e7b6e357d#ref=rss)
-* [https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert](https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert-a-c9213ef0-85c5-43a9-b19e-f3db1996413d#ref=rss)
-### union
-
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-verliert-im-dfb-pokal-gegen-union-berlin-die-hierarchie-in-der-hauptstadt](https://www.spiegel.de/sport/fussball/hertha-bsc-verliert-im-dfb-pokal-gegen-union-berlin-die-hierarchie-in-der-hauptstadt-a-b77534f2-dc1d-4d51-b841-095e7b6e357d#ref=rss)
-### tahiti
-
-* [https://www.spiegel.de/wissenschaft/natur/tahiti-forscher-entdecken-tief-gelegenes-gesundes-korallenriff](https://www.spiegel.de/wissenschaft/natur/tahiti-forscher-entdecken-tief-gelegenes-gesundes-korallenriff-a-a110986e-154b-4fbb-995b-3a721b774cd7#ref=rss)
-### forscher
-
-* [https://www.spiegel.de/wissenschaft/natur/tahiti-forscher-entdecken-tief-gelegenes-gesundes-korallenriff](https://www.spiegel.de/wissenschaft/natur/tahiti-forscher-entdecken-tief-gelegenes-gesundes-korallenriff-a-a110986e-154b-4fbb-995b-3a721b774cd7#ref=rss)
-### australian
-
-* [https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert](https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert-a-c9213ef0-85c5-43a9-b19e-f3db1996413d#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert](https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert-a-c9213ef0-85c5-43a9-b19e-f3db1996413d#ref=rss)
-### philipp
-
-* [https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert](https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert-a-c9213ef0-85c5-43a9-b19e-f3db1996413d#ref=rss)
-### kohlschreiber
-
-* [https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert](https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert-a-c9213ef0-85c5-43a9-b19e-f3db1996413d#ref=rss)
-### muguruza
-
-* [https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert](https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert-a-c9213ef0-85c5-43a9-b19e-f3db1996413d#ref=rss)
-### gescheitert
-
-* [https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert](https://www.spiegel.de/sport/tennis/australian-open-philipp-kohlschreiber-verliert-auch-weltranglistendritte-garbine-muguruza-gescheitert-a-c9213ef0-85c5-43a9-b19e-f3db1996413d#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/nordkorea-deutet-moegliche-wiederaufnahmen-von-atomtests-an](https://www.spiegel.de/ausland/nordkorea-deutet-moegliche-wiederaufnahmen-von-atomtests-an-a-2b2363c0-70b3-443b-8e79-d11832ff6a55#ref=rss)
-### atomtests
-
-* [https://www.spiegel.de/ausland/nordkorea-deutet-moegliche-wiederaufnahmen-von-atomtests-an](https://www.spiegel.de/ausland/nordkorea-deutet-moegliche-wiederaufnahmen-von-atomtests-an-a-2b2363c0-70b3-443b-8e79-d11832ff6a55#ref=rss)
+* [https://www.spiegel.de/panorama/tonga-erste-augenzeugenberichte-nach-dem-vulkanausbruch](https://www.spiegel.de/panorama/tonga-erste-augenzeugenberichte-nach-dem-vulkanausbruch-a-6d5c2cf3-8165-42d9-b1ff-a63f406b5785#ref=rss)
 ### vulkanausbruch
 
-* [https://www.spiegel.de/panorama/tonga-landebahn-nach-ausbruch-von-unterwasservulkan-von-asche-befreit-erste-hilfsfluege-gelandet](https://www.spiegel.de/panorama/tonga-landebahn-nach-ausbruch-von-unterwasservulkan-von-asche-befreit-erste-hilfsfluege-gelandet-a-973e041c-855c-4b8a-bbdd-1c9cd5efe4f7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/vulkanausbruch-auf-tonga-das-raetsel-des-hohen-tsunamis](https://www.spiegel.de/wissenschaft/natur/vulkanausbruch-auf-tonga-das-raetsel-des-hohen-tsunamis-a-7c3794fa-c46c-4f04-bb58-cf4125540844#ref=rss)
-### hoch
+* [https://www.spiegel.de/panorama/tonga-erste-augenzeugenberichte-nach-dem-vulkanausbruch](https://www.spiegel.de/panorama/tonga-erste-augenzeugenberichte-nach-dem-vulkanausbruch-a-6d5c2cf3-8165-42d9-b1ff-a63f406b5785#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/wissenschaft/natur/vulkanausbruch-auf-tonga-das-raetsel-des-hohen-tsunamis](https://www.spiegel.de/wissenschaft/natur/vulkanausbruch-auf-tonga-das-raetsel-des-hohen-tsunamis-a-7c3794fa-c46c-4f04-bb58-cf4125540844#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umstrittene-eu-taxonomie-widerstand-im-eu-parlament-gegen-gruene-einstufung-von-atomkraft-waechst](https://www.spiegel.de/wirtschaft/umstrittene-eu-taxonomie-widerstand-im-eu-parlament-gegen-gruene-einstufung-von-atomkraft-waechst-a-59e4e7b0-b2be-4d18-be08-cbbe06060407#ref=rss)
-### kritisieren
+* [https://www.spiegel.de/auto/fahrkultur/bugatti-test-verkehrsminister-wissing-kritisiert-raser-video](https://www.spiegel.de/auto/fahrkultur/bugatti-test-verkehrsminister-wissing-kritisiert-raser-video-a-b320da7f-6ef6-4a06-84c1-0aa59025b2a3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf](https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf-a-78dcd5ab-efec-47cf-b396-521cfbfe9cac#ref=rss)
+### hartz
 
-* [https://www.spiegel.de/wissenschaft/corona-news-infektiologe-impfpflicht-schnell-auf-weitere-berufsgruppen-ausweiten](https://www.spiegel.de/wissenschaft/corona-news-infektiologe-impfpflicht-schnell-auf-weitere-berufsgruppen-ausweiten-a-01ae705d-cd6c-4c87-856e-739776bccdaa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umstrittene-eu-taxonomie-widerstand-im-eu-parlament-gegen-gruene-einstufung-von-atomkraft-waechst](https://www.spiegel.de/wirtschaft/umstrittene-eu-taxonomie-widerstand-im-eu-parlament-gegen-gruene-einstufung-von-atomkraft-waechst-a-59e4e7b0-b2be-4d18-be08-cbbe06060407#ref=rss)
-### grünen
+* [https://www.spiegel.de/politik/deutschland/was-hartz-iv-angerichtet-hat-podcast](https://www.spiegel.de/politik/deutschland/was-hartz-iv-angerichtet-hat-podcast-a-c39b54f1-3f85-442f-99f7-8e0b7c31741c#ref=rss)
+### iv
 
-* [https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-omid-nouripor-will-eigenen-bundestagswahlkampf-aufarbeiten](https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-omid-nouripor-will-eigenen-bundestagswahlkampf-aufarbeiten-a-010f28d9-e44a-4509-94aa-bc9cfb51ef34#ref=rss)
-### omid
+* [https://www.spiegel.de/politik/deutschland/was-hartz-iv-angerichtet-hat-podcast](https://www.spiegel.de/politik/deutschland/was-hartz-iv-angerichtet-hat-podcast-a-c39b54f1-3f85-442f-99f7-8e0b7c31741c#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-omid-nouripor-will-eigenen-bundestagswahlkampf-aufarbeiten](https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-omid-nouripor-will-eigenen-bundestagswahlkampf-aufarbeiten-a-010f28d9-e44a-4509-94aa-bc9cfb51ef34#ref=rss)
-### eigenen
+* [https://www.spiegel.de/politik/deutschland/was-hartz-iv-angerichtet-hat-podcast](https://www.spiegel.de/politik/deutschland/was-hartz-iv-angerichtet-hat-podcast-a-c39b54f1-3f85-442f-99f7-8e0b7c31741c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt](https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt-a-ba51159b-8416-46a5-8796-5bae4f7db652#ref=rss)
+### betroffene
 
-* [https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-omid-nouripor-will-eigenen-bundestagswahlkampf-aufarbeiten](https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-omid-nouripor-will-eigenen-bundestagswahlkampf-aufarbeiten-a-010f28d9-e44a-4509-94aa-bc9cfb51ef34#ref=rss)
-* [https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat](https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat-a-253a00f2-289c-4028-be73-7b8c03079a6d#ref=rss)
-### aufarbeiten
+* [https://www.spiegel.de/politik/deutschland/was-hartz-iv-angerichtet-hat-podcast](https://www.spiegel.de/politik/deutschland/was-hartz-iv-angerichtet-hat-podcast-a-c39b54f1-3f85-442f-99f7-8e0b7c31741c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi](https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi-a-8ad24e2b-a4d3-41e6-b02c-f5b9122b7177#ref=rss)
+### bundesnetzagentur
 
-* [https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-omid-nouripor-will-eigenen-bundestagswahlkampf-aufarbeiten](https://www.spiegel.de/politik/deutschland/buendnis-90-die-gruenen-omid-nouripor-will-eigenen-bundestagswahlkampf-aufarbeiten-a-010f28d9-e44a-4509-94aa-bc9cfb51ef34#ref=rss)
-### zusatzbeiträge
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-verbraucherschuetzer-klaus-mueller-soll-chef-werden](https://www.spiegel.de/wirtschaft/bundesnetzagentur-verbraucherschuetzer-klaus-mueller-soll-chef-werden-a-36c29869-088e-48b6-b0d7-e2464696275b#ref=rss)
+### verbraucherschützer
 
-* [https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen](https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen-a-b20f73b6-e393-49ad-9652-89a8597e57b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-verbraucherschuetzer-klaus-mueller-soll-chef-werden](https://www.spiegel.de/wirtschaft/bundesnetzagentur-verbraucherschuetzer-klaus-mueller-soll-chef-werden-a-36c29869-088e-48b6-b0d7-e2464696275b#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-verbraucherschuetzer-klaus-mueller-soll-chef-werden](https://www.spiegel.de/wirtschaft/bundesnetzagentur-verbraucherschuetzer-klaus-mueller-soll-chef-werden-a-36c29869-088e-48b6-b0d7-e2464696275b#ref=rss)
+### müller
+
+* [https://www.spiegel.de/wirtschaft/bundesnetzagentur-verbraucherschuetzer-klaus-mueller-soll-chef-werden](https://www.spiegel.de/wirtschaft/bundesnetzagentur-verbraucherschuetzer-klaus-mueller-soll-chef-werden-a-36c29869-088e-48b6-b0d7-e2464696275b#ref=rss)
+### boris
+
+* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nach-mail-zu-verbotener-lockdown-party-in-erklaerungsnot](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nach-mail-zu-verbotener-lockdown-party-in-erklaerungsnot-a-0e56ffa0-bb4f-4de3-bae9-a5314e5893e0#ref=rss)
+### johnson
+
+* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nach-mail-zu-verbotener-lockdown-party-in-erklaerungsnot](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nach-mail-zu-verbotener-lockdown-party-in-erklaerungsnot-a-0e56ffa0-bb4f-4de3-bae9-a5314e5893e0#ref=rss)
+### jüngste
+
+* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nach-mail-zu-verbotener-lockdown-party-in-erklaerungsnot](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-nach-mail-zu-verbotener-lockdown-party-in-erklaerungsnot-a-0e56ffa0-bb4f-4de3-bae9-a5314e5893e0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt](https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt-a-ba51159b-8416-46a5-8796-5bae4f7db652#ref=rss)
+### co
+
+* [https://www.spiegel.de/netzwelt/apps/luca-und-co-ermittler-griffen-mehr-als-100-mal-auf-daten-zur-kontaktverfolgung-zu](https://www.spiegel.de/netzwelt/apps/luca-und-co-ermittler-griffen-mehr-als-100-mal-auf-daten-zur-kontaktverfolgung-zu-a-a4e4c90a-7d6a-4b0e-8003-2a5ec7bc694f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bitcoin-und-co-russische-notenbank-fuer-verbot-von-kryptowaehrungen](https://www.spiegel.de/wirtschaft/bitcoin-und-co-russische-notenbank-fuer-verbot-von-kryptowaehrungen-a-35f9ee10-15c9-4156-8ae0-aeb8afe51dcc#ref=rss)
+### daten
+
+* [https://www.spiegel.de/netzwelt/apps/luca-und-co-ermittler-griffen-mehr-als-100-mal-auf-daten-zur-kontaktverfolgung-zu](https://www.spiegel.de/netzwelt/apps/luca-und-co-ermittler-griffen-mehr-als-100-mal-auf-daten-zur-kontaktverfolgung-zu-a-a4e4c90a-7d6a-4b0e-8003-2a5ec7bc694f#ref=rss)
+### je
+
+* [https://www.spiegel.de/gesundheit/corona-je-kleiner-die-kinder-desto-weniger-profitieren-sie-von-der-impfung-fuer-sich-selbst](https://www.spiegel.de/gesundheit/corona-je-kleiner-die-kinder-desto-weniger-profitieren-sie-von-der-impfung-fuer-sich-selbst-a-25111f9c-af5a-4750-a4be-0a828c6fdfde#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt](https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt-a-ba51159b-8416-46a5-8796-5bae4f7db652#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/gesundheit/corona-je-kleiner-die-kinder-desto-weniger-profitieren-sie-von-der-impfung-fuer-sich-selbst](https://www.spiegel.de/gesundheit/corona-je-kleiner-die-kinder-desto-weniger-profitieren-sie-von-der-impfung-fuer-sich-selbst-a-25111f9c-af5a-4750-a4be-0a828c6fdfde#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/gesundheit/corona-je-kleiner-die-kinder-desto-weniger-profitieren-sie-von-der-impfung-fuer-sich-selbst](https://www.spiegel.de/gesundheit/corona-je-kleiner-die-kinder-desto-weniger-profitieren-sie-von-der-impfung-fuer-sich-selbst-a-25111f9c-af5a-4750-a4be-0a828c6fdfde#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi](https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi-a-8ad24e2b-a4d3-41e6-b02c-f5b9122b7177#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/gesundheit/corona-je-kleiner-die-kinder-desto-weniger-profitieren-sie-von-der-impfung-fuer-sich-selbst](https://www.spiegel.de/gesundheit/corona-je-kleiner-die-kinder-desto-weniger-profitieren-sie-von-der-impfung-fuer-sich-selbst-a-25111f9c-af5a-4750-a4be-0a828c6fdfde#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt](https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt-a-ba51159b-8416-46a5-8796-5bae4f7db652#ref=rss)
+### pflege
+
+* [https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt](https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt-a-6ba028ef-8677-4836-954b-9980865e11b8#ref=rss)
+### heim
+
+* [https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt](https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt-a-6ba028ef-8677-4836-954b-9980865e11b8#ref=rss)
+### zuzahlungen
+
+* [https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt](https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt-a-6ba028ef-8677-4836-954b-9980865e11b8#ref=rss)
+### schnitt
+
+* [https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt](https://www.spiegel.de/wirtschaft/soziales/pflege-im-heim-zuzahlungen-steigen-deutlich-jetzt-2179-euro-im-schnitt-a-6ba028ef-8677-4836-954b-9980865e11b8#ref=rss)
+### kardinal
+
+* [https://www.spiegel.de/panorama/missbrauch-im-erzbistum-muenchen-freising-kardinal-reinhard-marx-erschuettert-und-beschaemt](https://www.spiegel.de/panorama/missbrauch-im-erzbistum-muenchen-freising-kardinal-reinhard-marx-erschuettert-und-beschaemt-a-5156f700-374a-4953-b518-0cef583e9788#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi](https://www.spiegel.de/panorama/gesellschaft/gutachten-zu-missbrauch-im-erzbistum-muenchen-irreparabler-schaden-durch-benedikt-xvi-a-8ad24e2b-a4d3-41e6-b02c-f5b9122b7177#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf](https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf-a-78dcd5ab-efec-47cf-b396-521cfbfe9cac#ref=rss)
+### ingrid
+
+* [https://www.spiegel.de/panorama/leute/ingrid-alexandra-besucht-norwegische-staatsgewalten-fortbildung-vor-dem-18-geburtstag](https://www.spiegel.de/panorama/leute/ingrid-alexandra-besucht-norwegische-staatsgewalten-fortbildung-vor-dem-18-geburtstag-a-cc1b4203-3b53-48c9-983a-7e9dd028ef3b#ref=rss)
+### besucht
+
+* [https://www.spiegel.de/panorama/leute/ingrid-alexandra-besucht-norwegische-staatsgewalten-fortbildung-vor-dem-18-geburtstag](https://www.spiegel.de/panorama/leute/ingrid-alexandra-besucht-norwegische-staatsgewalten-fortbildung-vor-dem-18-geburtstag-a-cc1b4203-3b53-48c9-983a-7e9dd028ef3b#ref=rss)
+### novak
+
+* [https://www.spiegel.de/sport/tennis/australian-open-bundesgericht-begruendet-ausreise-novak-djokovic-war-eine-bedrohung](https://www.spiegel.de/sport/tennis/australian-open-bundesgericht-begruendet-ausreise-novak-djokovic-war-eine-bedrohung-a-a2b235a4-7401-45ca-a140-78f6729c75ec#ref=rss)
+### bundesgericht
+
+* [https://www.spiegel.de/sport/tennis/australian-open-bundesgericht-begruendet-ausreise-novak-djokovic-war-eine-bedrohung](https://www.spiegel.de/sport/tennis/australian-open-bundesgericht-begruendet-ausreise-novak-djokovic-war-eine-bedrohung-a-a2b235a4-7401-45ca-a140-78f6729c75ec#ref=rss)
+### australian
+
+* [https://www.spiegel.de/sport/tennis/australian-open-bundesgericht-begruendet-ausreise-novak-djokovic-war-eine-bedrohung](https://www.spiegel.de/sport/tennis/australian-open-bundesgericht-begruendet-ausreise-novak-djokovic-war-eine-bedrohung-a-a2b235a4-7401-45ca-a140-78f6729c75ec#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/tennis/australian-open-bundesgericht-begruendet-ausreise-novak-djokovic-war-eine-bedrohung](https://www.spiegel.de/sport/tennis/australian-open-bundesgericht-begruendet-ausreise-novak-djokovic-war-eine-bedrohung-a-a2b235a4-7401-45ca-a140-78f6729c75ec#ref=rss)
+### zara
+
+* [https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt](https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt-a-ba51159b-8416-46a5-8796-5bae4f7db652#ref=rss)
+### rutherford
+
+* [https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt](https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt-a-ba51159b-8416-46a5-8796-5bae4f7db652#ref=rss)
+### welt
+
+* [https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt](https://www.spiegel.de/panorama/gesellschaft/zara-rutherford-umrundet-die-erde-mit-19-jahren-in-156-tagen-um-die-welt-a-ba51159b-8416-46a5-8796-5bae4f7db652#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-und-annalena-baerbock-versprechen-kooperation-bei-boni-ermittlungen](https://www.spiegel.de/politik/deutschland/robert-habeck-und-annalena-baerbock-versprechen-kooperation-bei-boni-ermittlungen-a-041a367d-5f10-40a7-90d5-ea194169806d#ref=rss)
+### annalena
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-und-annalena-baerbock-versprechen-kooperation-bei-boni-ermittlungen](https://www.spiegel.de/politik/deutschland/robert-habeck-und-annalena-baerbock-versprechen-kooperation-bei-boni-ermittlungen-a-041a367d-5f10-40a7-90d5-ea194169806d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf](https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf-a-78dcd5ab-efec-47cf-b396-521cfbfe9cac#ref=rss)
+### außenministerin
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-und-annalena-baerbock-versprechen-kooperation-bei-boni-ermittlungen](https://www.spiegel.de/politik/deutschland/robert-habeck-und-annalena-baerbock-versprechen-kooperation-bei-boni-ermittlungen-a-041a367d-5f10-40a7-90d5-ea194169806d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf](https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf-a-78dcd5ab-efec-47cf-b396-521cfbfe9cac#ref=rss)
+### hardy
+
+* [https://www.spiegel.de/kultur/kino/hardy-krueger-politiker-und-kollegen-trauern-um-den-schauspieler-eine-der-wichtigsten-stimmen-nachkriegsdeutschlands](https://www.spiegel.de/kultur/kino/hardy-krueger-politiker-und-kollegen-trauern-um-den-schauspieler-eine-der-wichtigsten-stimmen-nachkriegsdeutschlands-a-7bdda2fa-9b62-4f34-856b-38be456a172d#ref=rss)
+### krüger
+
+* [https://www.spiegel.de/kultur/kino/hardy-krueger-politiker-und-kollegen-trauern-um-den-schauspieler-eine-der-wichtigsten-stimmen-nachkriegsdeutschlands](https://www.spiegel.de/kultur/kino/hardy-krueger-politiker-und-kollegen-trauern-um-den-schauspieler-eine-der-wichtigsten-stimmen-nachkriegsdeutschlands-a-7bdda2fa-9b62-4f34-856b-38be456a172d#ref=rss)
+### whisky
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/whisky-schwaebische-brennerei-unterliegt-im-namensstreit-um-glen](https://www.spiegel.de/wirtschaft/unternehmen/whisky-schwaebische-brennerei-unterliegt-im-namensstreit-um-glen-a-ce38f3fe-89c9-4d50-a792-340fcb3481ce#ref=rss)
+### glen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/whisky-schwaebische-brennerei-unterliegt-im-namensstreit-um-glen](https://www.spiegel.de/wirtschaft/unternehmen/whisky-schwaebische-brennerei-unterliegt-im-namensstreit-um-glen-a-ce38f3fe-89c9-4d50-a792-340fcb3481ce#ref=rss)
+### fälschen
+
+* [https://www.spiegel.de/panorama/justiz/corona-wenn-aerzte-impfpaesse-faelschen](https://www.spiegel.de/panorama/justiz/corona-wenn-aerzte-impfpaesse-faelschen-a-a62e485e-24e4-44aa-bbf1-6fa85ee2c317#ref=rss)
+### andere
+
+* [https://www.spiegel.de/panorama/justiz/corona-wenn-aerzte-impfpaesse-faelschen](https://www.spiegel.de/panorama/justiz/corona-wenn-aerzte-impfpaesse-faelschen-a-a62e485e-24e4-44aa-bbf1-6fa85ee2c317#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bitcoin-und-co-russische-notenbank-fuer-verbot-von-kryptowaehrungen](https://www.spiegel.de/wirtschaft/bitcoin-und-co-russische-notenbank-fuer-verbot-von-kryptowaehrungen-a-35f9ee10-15c9-4156-8ae0-aeb8afe51dcc#ref=rss)
+### bitcoin
+
+* [https://www.spiegel.de/wirtschaft/bitcoin-und-co-russische-notenbank-fuer-verbot-von-kryptowaehrungen](https://www.spiegel.de/wirtschaft/bitcoin-und-co-russische-notenbank-fuer-verbot-von-kryptowaehrungen-a-35f9ee10-15c9-4156-8ae0-aeb8afe51dcc#ref=rss)
+### russische
+
+* [https://www.spiegel.de/wirtschaft/bitcoin-und-co-russische-notenbank-fuer-verbot-von-kryptowaehrungen](https://www.spiegel.de/wirtschaft/bitcoin-und-co-russische-notenbank-fuer-verbot-von-kryptowaehrungen-a-35f9ee10-15c9-4156-8ae0-aeb8afe51dcc#ref=rss)
+### land
+
+* [https://www.spiegel.de/wirtschaft/bitcoin-und-co-russische-notenbank-fuer-verbot-von-kryptowaehrungen](https://www.spiegel.de/wirtschaft/bitcoin-und-co-russische-notenbank-fuer-verbot-von-kryptowaehrungen-a-35f9ee10-15c9-4156-8ae0-aeb8afe51dcc#ref=rss)
+* [https://www.spiegel.de/ausland/polen-soll-69-millionen-euro-an-eu-zahlen-streit-ueber-justizreform](https://www.spiegel.de/ausland/polen-soll-69-millionen-euro-an-eu-zahlen-streit-ueber-justizreform-a-0b7988b1-7c51-4609-8862-c374a0f2c3d6#ref=rss)
+### blinken
+
+* [https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf](https://www.spiegel.de/ausland/ukraine-annalena-baerbock-und-antony-blinken-fordern-russland-zum-dialog-auf-a-78dcd5ab-efec-47cf-b396-521cfbfe9cac#ref=rss)
+### polen
+
+* [https://www.spiegel.de/ausland/polen-soll-69-millionen-euro-an-eu-zahlen-streit-ueber-justizreform](https://www.spiegel.de/ausland/polen-soll-69-millionen-euro-an-eu-zahlen-streit-ueber-justizreform-a-0b7988b1-7c51-4609-8862-c374a0f2c3d6#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/polen-soll-69-millionen-euro-an-eu-zahlen-streit-ueber-justizreform](https://www.spiegel.de/ausland/polen-soll-69-millionen-euro-an-eu-zahlen-streit-ueber-justizreform-a-0b7988b1-7c51-4609-8862-c374a0f2c3d6#ref=rss)
 ### zahlen
 
-* [https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen](https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen-a-b20f73b6-e393-49ad-9652-89a8597e57b2#ref=rss)
-### große
+* [https://www.spiegel.de/ausland/polen-soll-69-millionen-euro-an-eu-zahlen-streit-ueber-justizreform](https://www.spiegel.de/ausland/polen-soll-69-millionen-euro-an-eu-zahlen-streit-ueber-justizreform-a-0b7988b1-7c51-4609-8862-c374a0f2c3d6#ref=rss)
+### justizreform
 
-* [https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen](https://www.spiegel.de/wirtschaft/service/krankenversicherung-21-millionen-menschen-in-deutschland-muessen-hoehere-zusatzbeitraege-zahlen-a-b20f73b6-e393-49ad-9652-89a8597e57b2#ref=rss)
-* [https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat](https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat-a-253a00f2-289c-4028-be73-7b8c03079a6d#ref=rss)
-### pläne
-
-* [https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat](https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat-a-253a00f2-289c-4028-be73-7b8c03079a6d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umstrittene-eu-taxonomie-widerstand-im-eu-parlament-gegen-gruene-einstufung-von-atomkraft-waechst](https://www.spiegel.de/wirtschaft/umstrittene-eu-taxonomie-widerstand-im-eu-parlament-gegen-gruene-einstufung-von-atomkraft-waechst-a-59e4e7b0-b2be-4d18-be08-cbbe06060407#ref=rss)
-### widerstand
-
-* [https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat](https://www.spiegel.de/ausland/usa-wahlrechtsreform-von-joe-biden-scheitert-im-senat-a-253a00f2-289c-4028-be73-7b8c03079a6d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umstrittene-eu-taxonomie-widerstand-im-eu-parlament-gegen-gruene-einstufung-von-atomkraft-waechst](https://www.spiegel.de/wirtschaft/umstrittene-eu-taxonomie-widerstand-im-eu-parlament-gegen-gruene-einstufung-von-atomkraft-waechst-a-59e4e7b0-b2be-4d18-be08-cbbe06060407#ref=rss)
+* [https://www.spiegel.de/ausland/polen-soll-69-millionen-euro-an-eu-zahlen-streit-ueber-justizreform](https://www.spiegel.de/ausland/polen-soll-69-millionen-euro-an-eu-zahlen-streit-ueber-justizreform-a-0b7988b1-7c51-4609-8862-c374a0f2c3d6#ref=rss)
 
