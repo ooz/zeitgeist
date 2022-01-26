@@ -123,13 +123,13 @@ live(460) protestiert(460) appelliert(459) ber(459) bernd(459) blickt(459) gipfe
 
 ```
 date, investment, buy price, sell price
-2022-01-19 10:09:50, 1-EUR, 1.13 USD, 1.13 USD
-2022-01-19 10:09:50, 1-EUR, 7.22 CNY, 7.22 CNY
-2022-01-19 10:09:51, crude-oil-brent-barrel, 88.48 USD, 88.48 USD
-2022-01-19 10:09:51, gold-10g, 538.16 EUR, 510.01 EUR
-2022-01-19 10:09:56, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2022-01-19 10:09:57, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
-2022-01-19 10:09:59, lego-2019-60225-1-rovertestfahrt, 25.0 USD, 25.0 USD
+2022-01-26 10:09:46, 1-EUR, 1.12 USD, 1.12 USD
+2022-01-26 10:09:46, 1-EUR, 7.13 CNY, 7.13 CNY
+2022-01-26 10:09:46, crude-oil-brent-barrel, 88.93 USD, 88.93 USD
+2022-01-26 10:09:49, gold-10g, 549.14 EUR, 520.88 EUR
+2022-01-26 10:09:53, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2022-01-26 10:09:55, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
+2022-01-26 10:09:56, lego-2019-60225-1-rovertestfahrt, 25.0 USD, 25.0 USD
 ```
 
 <footer>
