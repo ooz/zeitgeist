@@ -4,290 +4,345 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### corona
+### laut
 
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus](https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus-a-2c4b4757-6938-4fed-b8a3-a9f9c1028e01#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/corona-ex-dschungelcamperin-christin-okpara-reiste-mit-gefaelschtem-impfpass-frau-verhaftet](https://www.spiegel.de/panorama/justiz/corona-ex-dschungelcamperin-christin-okpara-reiste-mit-gefaelschtem-impfpass-frau-verhaftet-a-b639ef68-5811-4c45-bd4c-c952b50f3025#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/medizinmuell-durch-corona-who-warnt-vor-abfallberg](https://www.spiegel.de/wissenschaft/medizin/medizinmuell-durch-corona-who-warnt-vor-abfallberg-a-a9847c60-b2d9-4a4a-afe0-c755a78aab5e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-deutsche-politik-sieht-keine-eile-bei-impfung-von-kleinkindern](https://www.spiegel.de/politik/deutschland/corona-deutsche-politik-sieht-keine-eile-bei-impfung-von-kleinkindern-a-8057296e-8f2c-4a18-bc61-8ad8518dbac1#ref=rss)
-* [https://www.spiegel.de/gesundheit/corona-krankenhauspersonal-in-kalifornien-berichte-von-der-covid-front](https://www.spiegel.de/gesundheit/corona-krankenhauspersonal-in-kalifornien-berichte-von-der-covid-front-a-1d6361a9-8864-4021-b223-cf9a44850961#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-polizistenmorde-olympische-winterspiele](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-polizistenmorde-olympische-winterspiele-a-627a7c59-aff8-405f-acd7-53176b6a6ebc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-an-bord-deutsches-marine-schiff-berlin-faellt-fuer-nato-einsatz-aus](https://www.spiegel.de/politik/deutschland/corona-an-bord-deutsches-marine-schiff-berlin-faellt-fuer-nato-einsatz-aus-a-6d2c6ba7-195c-4b59-8f77-f24909908681#ref=rss)
-### polizei
+* [https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt](https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt-a-13f30787-08c7-42c2-ba76-6df06c0b01e7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche](https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche-a-3b32209a-26b0-4888-bd73-fab1904e3e9e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/adac-erhebung-e10-benzin-in-deutschland-so-teuer-wie-nie](https://www.spiegel.de/wirtschaft/soziales/adac-erhebung-e10-benzin-in-deutschland-so-teuer-wie-nie-a-9a076540-e551-46b5-a18a-ebd4c3992c1a#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-bombardiert-kurdische-ziele-in-syrien-und-irak](https://www.spiegel.de/ausland/tuerkei-bombardiert-kurdische-ziele-in-syrien-und-irak-a-c7eebcc9-da27-48c8-9b47-97c8c785cc5e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5](https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5-a-8ab801ba-4c04-49cc-baf1-3c6f3aac4bb4#ref=rss)
+### mindestens
 
-* [https://www.spiegel.de/panorama/justiz/corona-ex-dschungelcamperin-christin-okpara-reiste-mit-gefaelschtem-impfpass-frau-verhaftet](https://www.spiegel.de/panorama/justiz/corona-ex-dschungelcamperin-christin-okpara-reiste-mit-gefaelschtem-impfpass-frau-verhaftet-a-b639ef68-5811-4c45-bd4c-c952b50f3025#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-jenfeld-polizei-gibt-nach-durchsuchung-von-otto-hahn-schule-entwarnung](https://www.spiegel.de/panorama/justiz/hamburg-jenfeld-polizei-gibt-nach-durchsuchung-von-otto-hahn-schule-entwarnung-a-efca11c3-c23b-4d3c-93af-57d62f476aec#ref=rss)
-* [https://www.spiegel.de/auto/berlin-diplomaten-begingen-2021-fast-10-000-verkehrsverstoesse](https://www.spiegel.de/auto/berlin-diplomaten-begingen-2021-fast-10-000-verkehrsverstoesse-a-931db18b-8550-431f-9ffb-cd0cb6ea17c7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/helgoland-leiche-vor-helgoland-polizei-rollt-cold-case-auf](https://www.spiegel.de/panorama/justiz/helgoland-leiche-vor-helgoland-polizei-rollt-cold-case-auf-a-4564d90c-de48-4e09-b478-842cea0bb028#ref=rss)
-### premier
+* [https://www.spiegel.de/wirtschaft/soziales/heizkostenzuschuss-kabinett-billigt-zuschlag-von-mindestens-115-euro-fuer-finanzschwache](https://www.spiegel.de/wirtschaft/soziales/heizkostenzuschuss-kabinett-billigt-zuschlag-von-mindestens-115-euro-fuer-finanzschwache-a-e9d3cd20-2ac0-44f5-a6fb-1a7802552327#ref=rss)
+* [https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt](https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt-a-13f30787-08c7-42c2-ba76-6df06c0b01e7#ref=rss)
+* [https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell](https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell-a-c058cb15-8fdc-4eb1-b360-d8b385737ed6#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus](https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus-a-2c4b4757-6938-4fed-b8a3-a9f9c1028e01#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-westen-ignoriert-russische-bedenken-im-konflikt-mit-der-ukraine](https://www.spiegel.de/ausland/wladimir-putin-westen-ignoriert-russische-bedenken-im-konflikt-mit-der-ukraine-a-fe66cb07-0021-4075-8672-1001a9890630#ref=rss)
-* [https://www.spiegel.de/ausland/luxemburgs-premier-xavier-bettel-zieht-wegen-plagiats-pruefung-diplomarbeit-zurueck](https://www.spiegel.de/ausland/luxemburgs-premier-xavier-bettel-zieht-wegen-plagiats-pruefung-diplomarbeit-zurueck-a-3a478464-5682-43e8-bf2c-637306aab2d4#ref=rss)
-### zurück
+* [https://www.spiegel.de/wirtschaft/unternehmen/mineralwasser-nestle-nimmt-vittel-vom-deutschen-markt](https://www.spiegel.de/wirtschaft/unternehmen/mineralwasser-nestle-nimmt-vittel-vom-deutschen-markt-a-ca5e739e-c57c-4880-8312-4144c5a0f6f1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/adac-erhebung-e10-benzin-in-deutschland-so-teuer-wie-nie](https://www.spiegel.de/wirtschaft/soziales/adac-erhebung-e10-benzin-in-deutschland-so-teuer-wie-nie-a-9a076540-e551-46b5-a18a-ebd4c3992c1a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-massnahmen-politiker-fordern-entscheidung-ueber-lockerungen](https://www.spiegel.de/politik/deutschland/corona-massnahmen-politiker-fordern-entscheidung-ueber-lockerungen-a-54db39f6-7909-4299-b7c3-adef7e7d32cd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine](https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine-a-d515ae4c-0ed2-4106-b40a-c7b083b043ed#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5](https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5-a-8ab801ba-4c04-49cc-baf1-3c6f3aac4bb4#ref=rss)
+### boris
 
-* [https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck](https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck-a-294bf245-2378-4a08-bae1-c110a2f9b319#ref=rss)
-* [https://www.spiegel.de/ausland/luxemburgs-premier-xavier-bettel-zieht-wegen-plagiats-pruefung-diplomarbeit-zurueck](https://www.spiegel.de/ausland/luxemburgs-premier-xavier-bettel-zieht-wegen-plagiats-pruefung-diplomarbeit-zurueck-a-3a478464-5682-43e8-bf2c-637306aab2d4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-ruft-54-000-selbstfahrende-fahrzeuge-zurueck](https://www.spiegel.de/wirtschaft/tesla-ruft-54-000-selbstfahrende-fahrzeuge-zurueck-a-2bf5ca01-ee1e-4fad-a1fd-71fee2b54a32#ref=rss)
-### sollte
+* [https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt](https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt-a-13f30787-08c7-42c2-ba76-6df06c0b01e7#ref=rss)
+* [https://www.spiegel.de/ausland/boris-johnsons-partygate-uebersteht-der-premier-jeden-skandal-podcast](https://www.spiegel.de/ausland/boris-johnsons-partygate-uebersteht-der-premier-jeden-skandal-podcast-a-f5743824-c0f6-483a-ab92-2e1764e7287b#ref=rss)
+### johnson
 
-* [https://www.spiegel.de/panorama/justiz/corona-ex-dschungelcamperin-christin-okpara-reiste-mit-gefaelschtem-impfpass-frau-verhaftet](https://www.spiegel.de/panorama/justiz/corona-ex-dschungelcamperin-christin-okpara-reiste-mit-gefaelschtem-impfpass-frau-verhaftet-a-b639ef68-5811-4c45-bd4c-c952b50f3025#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/italien-archaeologen-finden-artefakte-antiker-seeschlacht](https://www.spiegel.de/wissenschaft/mensch/italien-archaeologen-finden-artefakte-antiker-seeschlacht-a-168556fd-d9ab-4a18-b29d-6b43e6340ae4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-jenfeld-polizei-gibt-nach-durchsuchung-von-otto-hahn-schule-entwarnung](https://www.spiegel.de/panorama/justiz/hamburg-jenfeld-polizei-gibt-nach-durchsuchung-von-otto-hahn-schule-entwarnung-a-efca11c3-c23b-4d3c-93af-57d62f476aec#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-an-bord-deutsches-marine-schiff-berlin-faellt-fuer-nato-einsatz-aus](https://www.spiegel.de/politik/deutschland/corona-an-bord-deutsches-marine-schiff-berlin-faellt-fuer-nato-einsatz-aus-a-6d2c6ba7-195c-4b59-8f77-f24909908681#ref=rss)
-### zieht
-
-* [https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck](https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck-a-294bf245-2378-4a08-bae1-c110a2f9b319#ref=rss)
-* [https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab](https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab-a-a5b8e1b1-fc5e-4789-aac6-cbbe5af14de9#ref=rss)
-* [https://www.spiegel.de/ausland/luxemburgs-premier-xavier-bettel-zieht-wegen-plagiats-pruefung-diplomarbeit-zurueck](https://www.spiegel.de/ausland/luxemburgs-premier-xavier-bettel-zieht-wegen-plagiats-pruefung-diplomarbeit-zurueck-a-3a478464-5682-43e8-bf2c-637306aab2d4#ref=rss)
+* [https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt](https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt-a-13f30787-08c7-42c2-ba76-6df06c0b01e7#ref=rss)
+* [https://www.spiegel.de/ausland/boris-johnsons-partygate-uebersteht-der-premier-jeden-skandal-podcast](https://www.spiegel.de/ausland/boris-johnsons-partygate-uebersteht-der-premier-jeden-skandal-podcast-a-f5743824-c0f6-483a-ab92-2e1764e7287b#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/corona-ex-dschungelcamperin-christin-okpara-reiste-mit-gefaelschtem-impfpass-frau-verhaftet](https://www.spiegel.de/panorama/justiz/corona-ex-dschungelcamperin-christin-okpara-reiste-mit-gefaelschtem-impfpass-frau-verhaftet-a-b639ef68-5811-4c45-bd4c-c952b50f3025#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-ruft-54-000-selbstfahrende-fahrzeuge-zurueck](https://www.spiegel.de/wirtschaft/tesla-ruft-54-000-selbstfahrende-fahrzeuge-zurueck-a-2bf5ca01-ee1e-4fad-a1fd-71fee2b54a32#ref=rss)
-* [https://www.spiegel.de/sport/nfl-superstar-tom-brady-bestaetigt-karriereende](https://www.spiegel.de/sport/nfl-superstar-tom-brady-bestaetigt-karriereende-a-b70e105d-3e1b-44bf-a57b-e425c4d804a6#ref=rss)
-### warnt
+* [https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt](https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt-a-13f30787-08c7-42c2-ba76-6df06c0b01e7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche](https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche-a-3b32209a-26b0-4888-bd73-fab1904e3e9e#ref=rss)
+* [https://www.spiegel.de/ausland/guinea-bissau-moeglicher-putschversuch-offenbar-gescheitert](https://www.spiegel.de/ausland/guinea-bissau-moeglicher-putschversuch-offenbar-gescheitert-a-1cfa4ba6-1c97-4eae-aff1-62991178a2ca#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/wissenschaft/medizin/medizinmuell-durch-corona-who-warnt-vor-abfallberg](https://www.spiegel.de/wissenschaft/medizin/medizinmuell-durch-corona-who-warnt-vor-abfallberg-a-a9847c60-b2d9-4a4a-afe0-c755a78aab5e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-es-stimmt-nicht-dass-omikron-den-ganzen-immunschutz-der-impfung-aufhebt](https://www.spiegel.de/wissenschaft/medizin/coronavirus-es-stimmt-nicht-dass-omikron-den-ganzen-immunschutz-der-impfung-aufhebt-a-9c2476f9-c49c-4481-b866-d7a119b6892c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-konflikt-antony-blinken-ruft-russland-im-gespraech-mit-sergej-lawrow-zu-sofortigem-truppenabzug-auf](https://www.spiegel.de/ausland/ukraine-konflikt-antony-blinken-ruft-russland-im-gespraech-mit-sergej-lawrow-zu-sofortigem-truppenabzug-auf-a-df8c7ea6-96df-41c3-bba8-da704de3f731#ref=rss)
-### jahren
+* [https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche](https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche-a-3b32209a-26b0-4888-bd73-fab1904e3e9e#ref=rss)
+* [https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar](https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar-a-acd921fe-396a-4409-94f8-4fa315cc6876#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar-a-0479d95e-ef44-4bab-95f1-4aab7eab10d5#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/corona-deutsche-politik-sieht-keine-eile-bei-impfung-von-kleinkindern](https://www.spiegel.de/politik/deutschland/corona-deutsche-politik-sieht-keine-eile-bei-impfung-von-kleinkindern-a-8057296e-8f2c-4a18-bc61-8ad8518dbac1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/anders-behring-breivik-norwegischer-massenmoerder-scheitert-mit-antrag-auf-haftentlassung](https://www.spiegel.de/panorama/justiz/anders-behring-breivik-norwegischer-massenmoerder-scheitert-mit-antrag-auf-haftentlassung-a-fc749fa7-7387-4c15-9a93-e003d5de3fd5#ref=rss)
-* [https://www.spiegel.de/sport/nfl-superstar-tom-brady-bestaetigt-karriereende](https://www.spiegel.de/sport/nfl-superstar-tom-brady-bestaetigt-karriereende-a-b70e105d-3e1b-44bf-a57b-e425c4d804a6#ref=rss)
-### berlin
+* [https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche](https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche-a-3b32209a-26b0-4888-bd73-fab1904e3e9e#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-in-peking-welt-anti-doping-agentur-haelt-manipulationen-von-proben-fuer-ausgeschlossen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-in-peking-welt-anti-doping-agentur-haelt-manipulationen-von-proben-fuer-ausgeschlossen-a-7dbb6101-2757-482b-a11c-1db5b1aff6f9#ref=rss)
+* [https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar](https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar-a-acd921fe-396a-4409-94f8-4fa315cc6876#ref=rss)
+* [https://www.spiegel.de/sport/basketball/dirk-nowitzki-hadert-wegen-fussproblemen-mit-spaetem-karriereende](https://www.spiegel.de/sport/basketball/dirk-nowitzki-hadert-wegen-fussproblemen-mit-spaetem-karriereende-a-7a11c282-2c82-4955-a57c-f076fb7146f7#ref=rss)
+### euro
 
-* [https://www.spiegel.de/politik/deutschland/corona-an-bord-deutsches-marine-schiff-berlin-faellt-fuer-nato-einsatz-aus](https://www.spiegel.de/politik/deutschland/corona-an-bord-deutsches-marine-schiff-berlin-faellt-fuer-nato-einsatz-aus-a-6d2c6ba7-195c-4b59-8f77-f24909908681#ref=rss)
-* [https://www.spiegel.de/auto/berlin-diplomaten-begingen-2021-fast-10-000-verkehrsverstoesse](https://www.spiegel.de/auto/berlin-diplomaten-begingen-2021-fast-10-000-verkehrsverstoesse-a-931db18b-8550-431f-9ffb-cd0cb6ea17c7#ref=rss)
-### brady
+* [https://www.spiegel.de/wirtschaft/soziales/heizkostenzuschuss-kabinett-billigt-zuschlag-von-mindestens-115-euro-fuer-finanzschwache](https://www.spiegel.de/wirtschaft/soziales/heizkostenzuschuss-kabinett-billigt-zuschlag-von-mindestens-115-euro-fuer-finanzschwache-a-e9d3cd20-2ac0-44f5-a6fb-1a7802552327#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche](https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche-a-3b32209a-26b0-4888-bd73-fab1904e3e9e#ref=rss)
+### facebook
 
-* [https://www.spiegel.de/sport/nfl-superstar-tom-brady-bestaetigt-karriereende](https://www.spiegel.de/sport/nfl-superstar-tom-brady-bestaetigt-karriereende-a-b70e105d-3e1b-44bf-a57b-e425c4d804a6#ref=rss)
-### weniger
+* [https://www.spiegel.de/netzwelt/web/facebook-darf-nutzer-bei-versand-von-missbrauchsfotos-sofort-sperren](https://www.spiegel.de/netzwelt/web/facebook-darf-nutzer-bei-versand-von-missbrauchsfotos-sofort-sperren-a-d1278d16-ea42-4ed2-8f87-65489a777b2b#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/bundesverfassungsgericht-facebook-muss-daten-von-hetzern-an-renate-kuenast-geben](https://www.spiegel.de/netzwelt/netzpolitik/bundesverfassungsgericht-facebook-muss-daten-von-hetzern-an-renate-kuenast-geben-a-8f9c3fc4-470d-4a90-b7f3-c6c69fbd0e56#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus](https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus-a-2c4b4757-6938-4fed-b8a3-a9f9c1028e01#ref=rss)
-### geben
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus](https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus-a-2c4b4757-6938-4fed-b8a3-a9f9c1028e01#ref=rss)
-* [https://www.spiegel.de/gesundheit/corona-krankenhauspersonal-in-kalifornien-berichte-von-der-covid-front](https://www.spiegel.de/gesundheit/corona-krankenhauspersonal-in-kalifornien-berichte-von-der-covid-front-a-1d6361a9-8864-4021-b223-cf9a44850961#ref=rss)
-### klubs
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus](https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus-a-2c4b4757-6938-4fed-b8a3-a9f9c1028e01#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus](https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus-a-2c4b4757-6938-4fed-b8a3-a9f9c1028e01#ref=rss)
-* [https://www.spiegel.de/panorama/nordsee-sturmfluten-verkleinern-straende-der-inseln](https://www.spiegel.de/panorama/nordsee-sturmfluten-verkleinern-straende-der-inseln-a-995cdc8b-31c7-4528-bf70-f3d23431f23a#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/facebook-darf-nutzer-bei-versand-von-missbrauchsfotos-sofort-sperren](https://www.spiegel.de/netzwelt/web/facebook-darf-nutzer-bei-versand-von-missbrauchsfotos-sofort-sperren-a-d1278d16-ea42-4ed2-8f87-65489a777b2b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mineralwasser-nestle-nimmt-vittel-vom-deutschen-markt](https://www.spiegel.de/wirtschaft/unternehmen/mineralwasser-nestle-nimmt-vittel-vom-deutschen-markt-a-ca5e739e-c57c-4880-8312-4144c5a0f6f1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-den-usa-unternehmen-nutzen-preissteigerungen-um-hoehere-gewinne-abzugreifen](https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-den-usa-unternehmen-nutzen-preissteigerungen-um-hoehere-gewinne-abzugreifen-a-c1c5a0b8-a451-4de9-9a5c-cefb7fd659ad#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus](https://www.spiegel.de/sport/fussball/fussball-transfers-so-viel-weniger-geben-klubs-fuer-neuzugaenge-aus-a-2c4b4757-6938-4fed-b8a3-a9f9c1028e01#ref=rss)
-* [https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck](https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck-a-294bf245-2378-4a08-bae1-c110a2f9b319#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-drei-lehrer-unter-rechtsextremismus-verdacht](https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-drei-lehrer-unter-rechtsextremismus-verdacht-a-362c69aa-d6e7-4bd8-b2ee-16f100640386#ref=rss)
-### lehrer
-
-* [https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-drei-lehrer-unter-rechtsextremismus-verdacht](https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-drei-lehrer-unter-rechtsextremismus-verdacht-a-362c69aa-d6e7-4bd8-b2ee-16f100640386#ref=rss)
+* [https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt](https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt-a-13f30787-08c7-42c2-ba76-6df06c0b01e7#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-in-peking-welt-anti-doping-agentur-haelt-manipulationen-von-proben-fuer-ausgeschlossen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-in-peking-welt-anti-doping-agentur-haelt-manipulationen-von-proben-fuer-ausgeschlossen-a-7dbb6101-2757-482b-a11c-1db5b1aff6f9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5](https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5-a-8ab801ba-4c04-49cc-baf1-3c6f3aac4bb4#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-drei-lehrer-unter-rechtsextremismus-verdacht](https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-drei-lehrer-unter-rechtsextremismus-verdacht-a-362c69aa-d6e7-4bd8-b2ee-16f100640386#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-deutsche-politik-sieht-keine-eile-bei-impfung-von-kleinkindern](https://www.spiegel.de/politik/deutschland/corona-deutsche-politik-sieht-keine-eile-bei-impfung-von-kleinkindern-a-8057296e-8f2c-4a18-bc61-8ad8518dbac1#ref=rss)
-### val
+* [https://www.spiegel.de/netzwelt/netzpolitik/bundesverfassungsgericht-facebook-muss-daten-von-hetzern-an-renate-kuenast-geben](https://www.spiegel.de/netzwelt/netzpolitik/bundesverfassungsgericht-facebook-muss-daten-von-hetzern-an-renate-kuenast-geben-a-8f9c3fc4-470d-4a90-b7f3-c6c69fbd0e56#ref=rss)
+* [https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell](https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell-a-c058cb15-8fdc-4eb1-b360-d8b385737ed6#ref=rss)
+* [https://www.spiegel.de/ausland/guinea-bissau-moeglicher-putschversuch-offenbar-gescheitert](https://www.spiegel.de/ausland/guinea-bissau-moeglicher-putschversuch-offenbar-gescheitert-a-1cfa4ba6-1c97-4eae-aff1-62991178a2ca#ref=rss)
+### lockerungen
 
-* [https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck](https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck-a-294bf245-2378-4a08-bae1-c110a2f9b319#ref=rss)
-### mcdermid
-
-* [https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck](https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck-a-294bf245-2378-4a08-bae1-c110a2f9b319#ref=rss)
-### david
-
-* [https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck](https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck-a-294bf245-2378-4a08-bae1-c110a2f9b319#ref=rss)
-### goodwillie
-
-* [https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck](https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck-a-294bf245-2378-4a08-bae1-c110a2f9b319#ref=rss)
-### sponsoring
-
-* [https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck](https://www.spiegel.de/sport/fussball/schottischer-fussball-autorin-val-mcdermid-zieht-nach-verpflichtung-von-david-goodwillie-sponsoring-zurueck-a-294bf245-2378-4a08-bae1-c110a2f9b319#ref=rss)
-### christin
-
-* [https://www.spiegel.de/panorama/justiz/corona-ex-dschungelcamperin-christin-okpara-reiste-mit-gefaelschtem-impfpass-frau-verhaftet](https://www.spiegel.de/panorama/justiz/corona-ex-dschungelcamperin-christin-okpara-reiste-mit-gefaelschtem-impfpass-frau-verhaftet-a-b639ef68-5811-4c45-bd4c-c952b50f3025#ref=rss)
-### okpara
-
-* [https://www.spiegel.de/panorama/justiz/corona-ex-dschungelcamperin-christin-okpara-reiste-mit-gefaelschtem-impfpass-frau-verhaftet](https://www.spiegel.de/panorama/justiz/corona-ex-dschungelcamperin-christin-okpara-reiste-mit-gefaelschtem-impfpass-frau-verhaftet-a-b639ef68-5811-4c45-bd4c-c952b50f3025#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/wladimir-putin-westen-ignoriert-russische-bedenken-im-konflikt-mit-der-ukraine](https://www.spiegel.de/ausland/wladimir-putin-westen-ignoriert-russische-bedenken-im-konflikt-mit-der-ukraine-a-fe66cb07-0021-4075-8672-1001a9890630#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/wladimir-putin-westen-ignoriert-russische-bedenken-im-konflikt-mit-der-ukraine](https://www.spiegel.de/ausland/wladimir-putin-westen-ignoriert-russische-bedenken-im-konflikt-mit-der-ukraine-a-fe66cb07-0021-4075-8672-1001a9890630#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-massnahmen-politiker-fordern-entscheidung-ueber-lockerungen](https://www.spiegel.de/politik/deutschland/corona-massnahmen-politiker-fordern-entscheidung-ueber-lockerungen-a-54db39f6-7909-4299-b7c3-adef7e7d32cd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-ea61b2c1-204e-4a21-ae6d-50d6fa6f3714#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/wladimir-putin-westen-ignoriert-russische-bedenken-im-konflikt-mit-der-ukraine](https://www.spiegel.de/ausland/wladimir-putin-westen-ignoriert-russische-bedenken-im-konflikt-mit-der-ukraine-a-fe66cb07-0021-4075-8672-1001a9890630#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-konflikt-antony-blinken-ruft-russland-im-gespraech-mit-sergej-lawrow-zu-sofortigem-truppenabzug-auf](https://www.spiegel.de/ausland/ukraine-konflikt-antony-blinken-ruft-russland-im-gespraech-mit-sergej-lawrow-zu-sofortigem-truppenabzug-auf-a-df8c7ea6-96df-41c3-bba8-da704de3f731#ref=rss)
-### wir
+* [https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine](https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine-a-d515ae4c-0ed2-4106-b40a-c7b083b043ed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-ukraine-corona-virus-frankreich-verkehr](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-ukraine-corona-virus-frankreich-verkehr-a-f59d1835-b5e9-4d66-9d7a-5f35501e7b01#ref=rss)
+### 2022
 
-* [https://www.spiegel.de/ausland/wladimir-putin-westen-ignoriert-russische-bedenken-im-konflikt-mit-der-ukraine](https://www.spiegel.de/ausland/wladimir-putin-westen-ignoriert-russische-bedenken-im-konflikt-mit-der-ukraine-a-fe66cb07-0021-4075-8672-1001a9890630#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-polizistenmorde-olympische-winterspiele](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-polizistenmorde-olympische-winterspiele-a-627a7c59-aff8-405f-acd7-53176b6a6ebc#ref=rss)
-### nordsee
+* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-in-peking-welt-anti-doping-agentur-haelt-manipulationen-von-proben-fuer-ausgeschlossen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-in-peking-welt-anti-doping-agentur-haelt-manipulationen-von-proben-fuer-ausgeschlossen-a-7dbb6101-2757-482b-a11c-1db5b1aff6f9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/eeg-umlage-widerstand-in-gruenen-fraktion-gegen-vorzeitiges-ende](https://www.spiegel.de/wirtschaft/soziales/eeg-umlage-widerstand-in-gruenen-fraktion-gegen-vorzeitiges-ende-a-2127044f-a872-417f-b54d-2cb0f409195f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar-a-0479d95e-ef44-4bab-95f1-4aab7eab10d5#ref=rss)
+### mittwoch
 
-* [https://www.spiegel.de/panorama/nordsee-sturmfluten-verkleinern-straende-der-inseln](https://www.spiegel.de/panorama/nordsee-sturmfluten-verkleinern-straende-der-inseln-a-995cdc8b-31c7-4528-bf70-f3d23431f23a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/helgoland-leiche-vor-helgoland-polizei-rollt-cold-case-auf](https://www.spiegel.de/panorama/justiz/helgoland-leiche-vor-helgoland-polizei-rollt-cold-case-auf-a-4564d90c-de48-4e09-b478-842cea0bb028#ref=rss)
-### medizinmüll
+* [https://www.spiegel.de/ausland/guinea-bissau-moeglicher-putschversuch-offenbar-gescheitert](https://www.spiegel.de/ausland/guinea-bissau-moeglicher-putschversuch-offenbar-gescheitert-a-1cfa4ba6-1c97-4eae-aff1-62991178a2ca#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-ukraine-corona-virus-frankreich-verkehr](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-ukraine-corona-virus-frankreich-verkehr-a-f59d1835-b5e9-4d66-9d7a-5f35501e7b01#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-ea61b2c1-204e-4a21-ae6d-50d6fa6f3714#ref=rss)
+### 2021
 
-* [https://www.spiegel.de/wissenschaft/medizin/medizinmuell-durch-corona-who-warnt-vor-abfallberg](https://www.spiegel.de/wissenschaft/medizin/medizinmuell-durch-corona-who-warnt-vor-abfallberg-a-a9847c60-b2d9-4a4a-afe0-c755a78aab5e#ref=rss)
-### sieht
+* [https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar](https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar-a-acd921fe-396a-4409-94f8-4fa315cc6876#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar-a-0479d95e-ef44-4bab-95f1-4aab7eab10d5#ref=rss)
+### dollar
 
-* [https://www.spiegel.de/wissenschaft/medizin/medizinmuell-durch-corona-who-warnt-vor-abfallberg](https://www.spiegel.de/wissenschaft/medizin/medizinmuell-durch-corona-who-warnt-vor-abfallberg-a-a9847c60-b2d9-4a4a-afe0-c755a78aab5e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-deutsche-politik-sieht-keine-eile-bei-impfung-von-kleinkindern](https://www.spiegel.de/politik/deutschland/corona-deutsche-politik-sieht-keine-eile-bei-impfung-von-kleinkindern-a-8057296e-8f2c-4a18-bc61-8ad8518dbac1#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/wissenschaft/medizin/medizinmuell-durch-corona-who-warnt-vor-abfallberg](https://www.spiegel.de/wissenschaft/medizin/medizinmuell-durch-corona-who-warnt-vor-abfallberg-a-a9847c60-b2d9-4a4a-afe0-c755a78aab5e#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/oiltanking-probleme-bei-tankstellen-zulieferer-dauern-an](https://www.spiegel.de/netzwelt/web/oiltanking-probleme-bei-tankstellen-zulieferer-dauern-an-a-424ee7b1-3322-46ca-afdc-9332ee76149f#ref=rss)
-### drach
-
-* [https://www.spiegel.de/panorama/justiz/thomas-drach-prozessbeginn-gegen-den-reemtsma-entfuehrer](https://www.spiegel.de/panorama/justiz/thomas-drach-prozessbeginn-gegen-den-reemtsma-entfuehrer-a-c235922e-19a4-4c33-bfe2-27024c74225d#ref=rss)
-### reemtsmaentführer
-
-* [https://www.spiegel.de/panorama/justiz/thomas-drach-prozessbeginn-gegen-den-reemtsma-entfuehrer](https://www.spiegel.de/panorama/justiz/thomas-drach-prozessbeginn-gegen-den-reemtsma-entfuehrer-a-c235922e-19a4-4c33-bfe2-27024c74225d#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/panorama/justiz/thomas-drach-prozessbeginn-gegen-den-reemtsma-entfuehrer](https://www.spiegel.de/panorama/justiz/thomas-drach-prozessbeginn-gegen-den-reemtsma-entfuehrer-a-c235922e-19a4-4c33-bfe2-27024c74225d#ref=rss)
-* [https://www.spiegel.de/sport/nfl-superstar-tom-brady-bestaetigt-karriereende](https://www.spiegel.de/sport/nfl-superstar-tom-brady-bestaetigt-karriereende-a-b70e105d-3e1b-44bf-a57b-e425c4d804a6#ref=rss)
+* [https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar](https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar-a-acd921fe-396a-4409-94f8-4fa315cc6876#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar-a-0479d95e-ef44-4bab-95f1-4aab7eab10d5#ref=rss)
 ### coronavirus
 
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-es-stimmt-nicht-dass-omikron-den-ganzen-immunschutz-der-impfung-aufhebt](https://www.spiegel.de/wissenschaft/medizin/coronavirus-es-stimmt-nicht-dass-omikron-den-ganzen-immunschutz-der-impfung-aufhebt-a-9c2476f9-c49c-4481-b866-d7a119b6892c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-an-bord-deutsches-marine-schiff-berlin-faellt-fuer-nato-einsatz-aus](https://www.spiegel.de/politik/deutschland/corona-an-bord-deutsches-marine-schiff-berlin-faellt-fuer-nato-einsatz-aus-a-6d2c6ba7-195c-4b59-8f77-f24909908681#ref=rss)
-### impfung
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-ukraine-corona-virus-frankreich-verkehr](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-ukraine-corona-virus-frankreich-verkehr-a-f59d1835-b5e9-4d66-9d7a-5f35501e7b01#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5](https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5-a-8ab801ba-4c04-49cc-baf1-3c6f3aac4bb4#ref=rss)
+### 115
 
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-es-stimmt-nicht-dass-omikron-den-ganzen-immunschutz-der-impfung-aufhebt](https://www.spiegel.de/wissenschaft/medizin/coronavirus-es-stimmt-nicht-dass-omikron-den-ganzen-immunschutz-der-impfung-aufhebt-a-9c2476f9-c49c-4481-b866-d7a119b6892c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-deutsche-politik-sieht-keine-eile-bei-impfung-von-kleinkindern](https://www.spiegel.de/politik/deutschland/corona-deutsche-politik-sieht-keine-eile-bei-impfung-von-kleinkindern-a-8057296e-8f2c-4a18-bc61-8ad8518dbac1#ref=rss)
-### deutsche
+* [https://www.spiegel.de/wirtschaft/soziales/heizkostenzuschuss-kabinett-billigt-zuschlag-von-mindestens-115-euro-fuer-finanzschwache](https://www.spiegel.de/wirtschaft/soziales/heizkostenzuschuss-kabinett-billigt-zuschlag-von-mindestens-115-euro-fuer-finanzschwache-a-e9d3cd20-2ac0-44f5-a6fb-1a7802552327#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/corona-deutsche-politik-sieht-keine-eile-bei-impfung-von-kleinkindern](https://www.spiegel.de/politik/deutschland/corona-deutsche-politik-sieht-keine-eile-bei-impfung-von-kleinkindern-a-8057296e-8f2c-4a18-bc61-8ad8518dbac1#ref=rss)
-### julia
+* [https://www.spiegel.de/wirtschaft/soziales/heizkostenzuschuss-kabinett-billigt-zuschlag-von-mindestens-115-euro-fuer-finanzschwache](https://www.spiegel.de/wirtschaft/soziales/heizkostenzuschuss-kabinett-billigt-zuschlag-von-mindestens-115-euro-fuer-finanzschwache-a-e9d3cd20-2ac0-44f5-a6fb-1a7802552327#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-den-usa-unternehmen-nutzen-preissteigerungen-um-hoehere-gewinne-abzugreifen](https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-den-usa-unternehmen-nutzen-preissteigerungen-um-hoehere-gewinne-abzugreifen-a-c1c5a0b8-a451-4de9-9a5c-cefb7fd659ad#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/start/koechin-werden-spitzenkoechin-julia-komp-ueber-ihre-arbeit-in-der-gastronomie-podcast](https://www.spiegel.de/start/koechin-werden-spitzenkoechin-julia-komp-ueber-ihre-arbeit-in-der-gastronomie-podcast-a-fc77ec93-3aff-423f-87e3-5aec159f60e2#ref=rss)
-### komp
+* [https://www.spiegel.de/wirtschaft/soziales/heizkostenzuschuss-kabinett-billigt-zuschlag-von-mindestens-115-euro-fuer-finanzschwache](https://www.spiegel.de/wirtschaft/soziales/heizkostenzuschuss-kabinett-billigt-zuschlag-von-mindestens-115-euro-fuer-finanzschwache-a-e9d3cd20-2ac0-44f5-a6fb-1a7802552327#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche](https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche-a-3b32209a-26b0-4888-bd73-fab1904e3e9e#ref=rss)
+### gesundheitsminister
 
-* [https://www.spiegel.de/start/koechin-werden-spitzenkoechin-julia-komp-ueber-ihre-arbeit-in-der-gastronomie-podcast](https://www.spiegel.de/start/koechin-werden-spitzenkoechin-julia-komp-ueber-ihre-arbeit-in-der-gastronomie-podcast-a-fc77ec93-3aff-423f-87e3-5aec159f60e2#ref=rss)
-### arbeit
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-gesundheitsminister-will-fussballstar-joshua-kimmich-persoenlich-impfen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-gesundheitsminister-will-fussballstar-joshua-kimmich-persoenlich-impfen-a-f13e972b-c77a-4755-a5dd-2ade7c2210b8#ref=rss)
+### joshua
 
-* [https://www.spiegel.de/start/koechin-werden-spitzenkoechin-julia-komp-ueber-ihre-arbeit-in-der-gastronomie-podcast](https://www.spiegel.de/start/koechin-werden-spitzenkoechin-julia-komp-ueber-ihre-arbeit-in-der-gastronomie-podcast-a-fc77ec93-3aff-423f-87e3-5aec159f60e2#ref=rss)
-* [https://www.spiegel.de/gesundheit/corona-krankenhauspersonal-in-kalifornien-berichte-von-der-covid-front](https://www.spiegel.de/gesundheit/corona-krankenhauspersonal-in-kalifornien-berichte-von-der-covid-front-a-1d6361a9-8864-4021-b223-cf9a44850961#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-gesundheitsminister-will-fussballstar-joshua-kimmich-persoenlich-impfen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-gesundheitsminister-will-fussballstar-joshua-kimmich-persoenlich-impfen-a-f13e972b-c77a-4755-a5dd-2ade7c2210b8#ref=rss)
+### kimmich
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-gesundheitsminister-will-fussballstar-joshua-kimmich-persoenlich-impfen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-gesundheitsminister-will-fussballstar-joshua-kimmich-persoenlich-impfen-a-f13e972b-c77a-4755-a5dd-2ade7c2210b8#ref=rss)
+### impfen
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-gesundheitsminister-will-fussballstar-joshua-kimmich-persoenlich-impfen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-gesundheitsminister-will-fussballstar-joshua-kimmich-persoenlich-impfen-a-f13e972b-c77a-4755-a5dd-2ade7c2210b8#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-gesundheitsminister-will-fussballstar-joshua-kimmich-persoenlich-impfen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-gesundheitsminister-will-fussballstar-joshua-kimmich-persoenlich-impfen-a-f13e972b-c77a-4755-a5dd-2ade7c2210b8#ref=rss)
+* [https://www.spiegel.de/ausland/boris-johnsons-partygate-uebersteht-der-premier-jeden-skandal-podcast](https://www.spiegel.de/ausland/boris-johnsons-partygate-uebersteht-der-premier-jeden-skandal-podcast-a-f5743824-c0f6-483a-ab92-2e1764e7287b#ref=rss)
+### kartoffeln
+
+* [https://www.spiegel.de/start/guenstiges-rezept-fuer-indisches-aloo-gobi-mit-kartoffeln-und-blumenkohl](https://www.spiegel.de/start/guenstiges-rezept-fuer-indisches-aloo-gobi-mit-kartoffeln-und-blumenkohl-a-78f9adc1-26cc-4288-a116-4792ae7ffa83#ref=rss)
+### blumenkohl
+
+* [https://www.spiegel.de/start/guenstiges-rezept-fuer-indisches-aloo-gobi-mit-kartoffeln-und-blumenkohl](https://www.spiegel.de/start/guenstiges-rezept-fuer-indisches-aloo-gobi-mit-kartoffeln-und-blumenkohl-a-78f9adc1-26cc-4288-a116-4792ae7ffa83#ref=rss)
+### geld
+
+* [https://www.spiegel.de/start/guenstiges-rezept-fuer-indisches-aloo-gobi-mit-kartoffeln-und-blumenkohl](https://www.spiegel.de/start/guenstiges-rezept-fuer-indisches-aloo-gobi-mit-kartoffeln-und-blumenkohl-a-78f9adc1-26cc-4288-a116-4792ae7ffa83#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche](https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche-a-3b32209a-26b0-4888-bd73-fab1904e3e9e#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/start/guenstiges-rezept-fuer-indisches-aloo-gobi-mit-kartoffeln-und-blumenkohl](https://www.spiegel.de/start/guenstiges-rezept-fuer-indisches-aloo-gobi-mit-kartoffeln-und-blumenkohl-a-78f9adc1-26cc-4288-a116-4792ae7ffa83#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/facebook-darf-nutzer-bei-versand-von-missbrauchsfotos-sofort-sperren](https://www.spiegel.de/netzwelt/web/facebook-darf-nutzer-bei-versand-von-missbrauchsfotos-sofort-sperren-a-d1278d16-ea42-4ed2-8f87-65489a777b2b#ref=rss)
+### corona
+
+* [https://www.spiegel.de/panorama/corona-hat-den-inselstaat-tonga-erreicht](https://www.spiegel.de/panorama/corona-hat-den-inselstaat-tonga-erreicht-a-26e82773-1186-4691-97dd-1c71cebe8239#ref=rss)
+### inselstaat
+
+* [https://www.spiegel.de/panorama/corona-hat-den-inselstaat-tonga-erreicht](https://www.spiegel.de/panorama/corona-hat-den-inselstaat-tonga-erreicht-a-26e82773-1186-4691-97dd-1c71cebe8239#ref=rss)
+### tonga
+
+* [https://www.spiegel.de/panorama/corona-hat-den-inselstaat-tonga-erreicht](https://www.spiegel.de/panorama/corona-hat-den-inselstaat-tonga-erreicht-a-26e82773-1186-4691-97dd-1c71cebe8239#ref=rss)
+### erreicht
+
+* [https://www.spiegel.de/panorama/corona-hat-den-inselstaat-tonga-erreicht](https://www.spiegel.de/panorama/corona-hat-den-inselstaat-tonga-erreicht-a-26e82773-1186-4691-97dd-1c71cebe8239#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5](https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5-a-8ab801ba-4c04-49cc-baf1-3c6f3aac4bb4#ref=rss)
+### lieferung
+
+* [https://www.spiegel.de/panorama/corona-hat-den-inselstaat-tonga-erreicht](https://www.spiegel.de/panorama/corona-hat-den-inselstaat-tonga-erreicht-a-26e82773-1186-4691-97dd-1c71cebe8239#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine](https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine-a-d515ae4c-0ed2-4106-b40a-c7b083b043ed#ref=rss)
+### infektionen
+
+* [https://www.spiegel.de/panorama/corona-hat-den-inselstaat-tonga-erreicht](https://www.spiegel.de/panorama/corona-hat-den-inselstaat-tonga-erreicht-a-26e82773-1186-4691-97dd-1c71cebe8239#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5](https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5-a-8ab801ba-4c04-49cc-baf1-3c6f3aac4bb4#ref=rss)
+### nestlé
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mineralwasser-nestle-nimmt-vittel-vom-deutschen-markt](https://www.spiegel.de/wirtschaft/unternehmen/mineralwasser-nestle-nimmt-vittel-vom-deutschen-markt-a-ca5e739e-c57c-4880-8312-4144c5a0f6f1#ref=rss)
+### vittel
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mineralwasser-nestle-nimmt-vittel-vom-deutschen-markt](https://www.spiegel.de/wirtschaft/unternehmen/mineralwasser-nestle-nimmt-vittel-vom-deutschen-markt-a-ca5e739e-c57c-4880-8312-4144c5a0f6f1#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/start/koechin-werden-spitzenkoechin-julia-komp-ueber-ihre-arbeit-in-der-gastronomie-podcast](https://www.spiegel.de/start/koechin-werden-spitzenkoechin-julia-komp-ueber-ihre-arbeit-in-der-gastronomie-podcast-a-fc77ec93-3aff-423f-87e3-5aec159f60e2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-polizistenmorde-olympische-winterspiele](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-polizistenmorde-olympische-winterspiele-a-627a7c59-aff8-405f-acd7-53176b6a6ebc#ref=rss)
-### india
+* [https://www.spiegel.de/wirtschaft/unternehmen/mineralwasser-nestle-nimmt-vittel-vom-deutschen-markt](https://www.spiegel.de/wirtschaft/unternehmen/mineralwasser-nestle-nimmt-vittel-vom-deutschen-markt-a-ca5e739e-c57c-4880-8312-4144c5a0f6f1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-massnahmen-politiker-fordern-entscheidung-ueber-lockerungen](https://www.spiegel.de/politik/deutschland/corona-massnahmen-politiker-fordern-entscheidung-ueber-lockerungen-a-54db39f6-7909-4299-b7c3-adef7e7d32cd#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab](https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab-a-a5b8e1b1-fc5e-4789-aac6-cbbe5af14de9#ref=rss)
-### arie
+* [https://www.spiegel.de/wirtschaft/unternehmen/mineralwasser-nestle-nimmt-vittel-vom-deutschen-markt](https://www.spiegel.de/wirtschaft/unternehmen/mineralwasser-nestle-nimmt-vittel-vom-deutschen-markt-a-ca5e739e-c57c-4880-8312-4144c5a0f6f1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-ea61b2c1-204e-4a21-ae6d-50d6fa6f3714#ref=rss)
+### untersuchungsbericht
 
-* [https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab](https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab-a-a5b8e1b1-fc5e-4789-aac6-cbbe5af14de9#ref=rss)
-### sängerin
+* [https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt](https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt-a-13f30787-08c7-42c2-ba76-6df06c0b01e7#ref=rss)
+* [https://www.spiegel.de/ausland/boris-johnsons-partygate-uebersteht-der-premier-jeden-skandal-podcast](https://www.spiegel.de/ausland/boris-johnsons-partygate-uebersteht-der-premier-jeden-skandal-podcast-a-f5743824-c0f6-483a-ab92-2e1764e7287b#ref=rss)
+### premier
 
-* [https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab](https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab-a-a5b8e1b1-fc5e-4789-aac6-cbbe5af14de9#ref=rss)
-### spotify
+* [https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt](https://www.spiegel.de/ausland/boris-johnson-nahm-offenbar-an-weiterer-feier-waehrend-des-lockdowns-statt-a-13f30787-08c7-42c2-ba76-6df06c0b01e7#ref=rss)
+* [https://www.spiegel.de/ausland/boris-johnsons-partygate-uebersteht-der-premier-jeden-skandal-podcast](https://www.spiegel.de/ausland/boris-johnsons-partygate-uebersteht-der-premier-jeden-skandal-podcast-a-f5743824-c0f6-483a-ab92-2e1764e7287b#ref=rss)
+### bundesverfassungsgericht
 
-* [https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab](https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab-a-a5b8e1b1-fc5e-4789-aac6-cbbe5af14de9#ref=rss)
-### joe
+* [https://www.spiegel.de/netzwelt/netzpolitik/bundesverfassungsgericht-facebook-muss-daten-von-hetzern-an-renate-kuenast-geben](https://www.spiegel.de/netzwelt/netzpolitik/bundesverfassungsgericht-facebook-muss-daten-von-hetzern-an-renate-kuenast-geben-a-8f9c3fc4-470d-4a90-b7f3-c6c69fbd0e56#ref=rss)
+### neun
 
-* [https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab](https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab-a-a5b8e1b1-fc5e-4789-aac6-cbbe5af14de9#ref=rss)
-### rogan
+* [https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell](https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell-a-c058cb15-8fdc-4eb1-b360-d8b385737ed6#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab](https://www.spiegel.de/kultur/musik/india-arie-saengerin-zieht-musik-von-spotify-wegen-rassistischer-sprache-von-joe-rogan-ab-a-a5b8e1b1-fc5e-4789-aac6-cbbe5af14de9#ref=rss)
-### luxemburgs
+* [https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell](https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell-a-c058cb15-8fdc-4eb1-b360-d8b385737ed6#ref=rss)
+* [https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet](https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet-a-dd744051-1299-4080-aa7f-02322c41e2a0#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/ausland/luxemburgs-premier-xavier-bettel-zieht-wegen-plagiats-pruefung-diplomarbeit-zurueck](https://www.spiegel.de/ausland/luxemburgs-premier-xavier-bettel-zieht-wegen-plagiats-pruefung-diplomarbeit-zurueck-a-3a478464-5682-43e8-bf2c-637306aab2d4#ref=rss)
-### xavier
+* [https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell](https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell-a-c058cb15-8fdc-4eb1-b360-d8b385737ed6#ref=rss)
+* [https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet](https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet-a-dd744051-1299-4080-aa7f-02322c41e2a0#ref=rss)
+### opfern
 
-* [https://www.spiegel.de/ausland/luxemburgs-premier-xavier-bettel-zieht-wegen-plagiats-pruefung-diplomarbeit-zurueck](https://www.spiegel.de/ausland/luxemburgs-premier-xavier-bettel-zieht-wegen-plagiats-pruefung-diplomarbeit-zurueck-a-3a478464-5682-43e8-bf2c-637306aab2d4#ref=rss)
-### bettel
-
-* [https://www.spiegel.de/ausland/luxemburgs-premier-xavier-bettel-zieht-wegen-plagiats-pruefung-diplomarbeit-zurueck](https://www.spiegel.de/ausland/luxemburgs-premier-xavier-bettel-zieht-wegen-plagiats-pruefung-diplomarbeit-zurueck-a-3a478464-5682-43e8-bf2c-637306aab2d4#ref=rss)
-### ricarda
-
-* [https://www.spiegel.de/politik/deutschland/ricarda-lang-und-omid-nouripour-haelfte-der-gruenen-anhaenger-gluecklich-mit-neuem-fuehrungsduo](https://www.spiegel.de/politik/deutschland/ricarda-lang-und-omid-nouripour-haelfte-der-gruenen-anhaenger-gluecklich-mit-neuem-fuehrungsduo-a-42546ed1-f680-4a63-9ccc-8a1c47dbb835#ref=rss)
-### lang
-
-* [https://www.spiegel.de/politik/deutschland/ricarda-lang-und-omid-nouripour-haelfte-der-gruenen-anhaenger-gluecklich-mit-neuem-fuehrungsduo](https://www.spiegel.de/politik/deutschland/ricarda-lang-und-omid-nouripour-haelfte-der-gruenen-anhaenger-gluecklich-mit-neuem-fuehrungsduo-a-42546ed1-f680-4a63-9ccc-8a1c47dbb835#ref=rss)
-### omid
-
-* [https://www.spiegel.de/politik/deutschland/ricarda-lang-und-omid-nouripour-haelfte-der-gruenen-anhaenger-gluecklich-mit-neuem-fuehrungsduo](https://www.spiegel.de/politik/deutschland/ricarda-lang-und-omid-nouripour-haelfte-der-gruenen-anhaenger-gluecklich-mit-neuem-fuehrungsduo-a-42546ed1-f680-4a63-9ccc-8a1c47dbb835#ref=rss)
-### nouripour
-
-* [https://www.spiegel.de/politik/deutschland/ricarda-lang-und-omid-nouripour-haelfte-der-gruenen-anhaenger-gluecklich-mit-neuem-fuehrungsduo](https://www.spiegel.de/politik/deutschland/ricarda-lang-und-omid-nouripour-haelfte-der-gruenen-anhaenger-gluecklich-mit-neuem-fuehrungsduo-a-42546ed1-f680-4a63-9ccc-8a1c47dbb835#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/politik/deutschland/ricarda-lang-und-omid-nouripour-haelfte-der-gruenen-anhaenger-gluecklich-mit-neuem-fuehrungsduo](https://www.spiegel.de/politik/deutschland/ricarda-lang-und-omid-nouripour-haelfte-der-gruenen-anhaenger-gluecklich-mit-neuem-fuehrungsduo-a-42546ed1-f680-4a63-9ccc-8a1c47dbb835#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-ruft-54-000-selbstfahrende-fahrzeuge-zurueck](https://www.spiegel.de/wirtschaft/tesla-ruft-54-000-selbstfahrende-fahrzeuge-zurueck-a-2bf5ca01-ee1e-4fad-a1fd-71fee2b54a32#ref=rss)
-### blinken
-
-* [https://www.spiegel.de/ausland/ukraine-konflikt-antony-blinken-ruft-russland-im-gespraech-mit-sergej-lawrow-zu-sofortigem-truppenabzug-auf](https://www.spiegel.de/ausland/ukraine-konflikt-antony-blinken-ruft-russland-im-gespraech-mit-sergej-lawrow-zu-sofortigem-truppenabzug-auf-a-df8c7ea6-96df-41c3-bba8-da704de3f731#ref=rss)
-### ruft
-
-* [https://www.spiegel.de/ausland/ukraine-konflikt-antony-blinken-ruft-russland-im-gespraech-mit-sergej-lawrow-zu-sofortigem-truppenabzug-auf](https://www.spiegel.de/ausland/ukraine-konflikt-antony-blinken-ruft-russland-im-gespraech-mit-sergej-lawrow-zu-sofortigem-truppenabzug-auf-a-df8c7ea6-96df-41c3-bba8-da704de3f731#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tesla-ruft-54-000-selbstfahrende-fahrzeuge-zurueck](https://www.spiegel.de/wirtschaft/tesla-ruft-54-000-selbstfahrende-fahrzeuge-zurueck-a-2bf5ca01-ee1e-4fad-a1fd-71fee2b54a32#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-konflikt-antony-blinken-ruft-russland-im-gespraech-mit-sergej-lawrow-zu-sofortigem-truppenabzug-auf](https://www.spiegel.de/ausland/ukraine-konflikt-antony-blinken-ruft-russland-im-gespraech-mit-sergej-lawrow-zu-sofortigem-truppenabzug-auf-a-df8c7ea6-96df-41c3-bba8-da704de3f731#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/gaskrise-europa-droht-knappheit-bis-2025](https://www.spiegel.de/wirtschaft/soziales/gaskrise-europa-droht-knappheit-bis-2025-a-6ab99c46-5df7-48e2-b7e0-7cc004a9e467#ref=rss)
-### anders
-
-* [https://www.spiegel.de/panorama/justiz/anders-behring-breivik-norwegischer-massenmoerder-scheitert-mit-antrag-auf-haftentlassung](https://www.spiegel.de/panorama/justiz/anders-behring-breivik-norwegischer-massenmoerder-scheitert-mit-antrag-auf-haftentlassung-a-fc749fa7-7387-4c15-9a93-e003d5de3fd5#ref=rss)
-### behring
-
-* [https://www.spiegel.de/panorama/justiz/anders-behring-breivik-norwegischer-massenmoerder-scheitert-mit-antrag-auf-haftentlassung](https://www.spiegel.de/panorama/justiz/anders-behring-breivik-norwegischer-massenmoerder-scheitert-mit-antrag-auf-haftentlassung-a-fc749fa7-7387-4c15-9a93-e003d5de3fd5#ref=rss)
-### breivik
-
-* [https://www.spiegel.de/panorama/justiz/anders-behring-breivik-norwegischer-massenmoerder-scheitert-mit-antrag-auf-haftentlassung](https://www.spiegel.de/panorama/justiz/anders-behring-breivik-norwegischer-massenmoerder-scheitert-mit-antrag-auf-haftentlassung-a-fc749fa7-7387-4c15-9a93-e003d5de3fd5#ref=rss)
-### seines
-
-* [https://www.spiegel.de/panorama/justiz/anders-behring-breivik-norwegischer-massenmoerder-scheitert-mit-antrag-auf-haftentlassung](https://www.spiegel.de/panorama/justiz/anders-behring-breivik-norwegischer-massenmoerder-scheitert-mit-antrag-auf-haftentlassung-a-fc749fa7-7387-4c15-9a93-e003d5de3fd5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/helgoland-leiche-vor-helgoland-polizei-rollt-cold-case-auf](https://www.spiegel.de/panorama/justiz/helgoland-leiche-vor-helgoland-polizei-rollt-cold-case-auf-a-4564d90c-de48-4e09-b478-842cea0bb028#ref=rss)
+* [https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell](https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell-a-c058cb15-8fdc-4eb1-b360-d8b385737ed6#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-bombardiert-kurdische-ziele-in-syrien-und-irak](https://www.spiegel.de/ausland/tuerkei-bombardiert-kurdische-ziele-in-syrien-und-irak-a-c7eebcc9-da27-48c8-9b47-97c8c785cc5e#ref=rss)
 ### unklar
 
-* [https://www.spiegel.de/netzwelt/web/oiltanking-probleme-bei-tankstellen-zulieferer-dauern-an](https://www.spiegel.de/netzwelt/web/oiltanking-probleme-bei-tankstellen-zulieferer-dauern-an-a-424ee7b1-3322-46ca-afdc-9332ee76149f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/helgoland-leiche-vor-helgoland-polizei-rollt-cold-case-auf](https://www.spiegel.de/panorama/justiz/helgoland-leiche-vor-helgoland-polizei-rollt-cold-case-auf-a-4564d90c-de48-4e09-b478-842cea0bb028#ref=rss)
-### polizistenmorde
+* [https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell](https://www.spiegel.de/panorama/kolumbien-neun-tote-bei-razzia-gegen-drogenkartell-a-c058cb15-8fdc-4eb1-b360-d8b385737ed6#ref=rss)
+* [https://www.spiegel.de/panorama/moenchengladbach-kleinkind-und-mutter-sterben-bei-wohnungsbrand](https://www.spiegel.de/panorama/moenchengladbach-kleinkind-und-mutter-sterben-bei-wohnungsbrand-a-ba388d0f-3fed-4a51-bcac-7f3f71a0d459#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-corona-polizistenmorde-olympische-winterspiele](https://www.spiegel.de/politik/deutschland/news-des-tages-corona-polizistenmorde-olympische-winterspiele-a-627a7c59-aff8-405f-acd7-53176b6a6ebc#ref=rss)
-### strom
+* [https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche](https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche-a-3b32209a-26b0-4888-bd73-fab1904e3e9e#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/wirtschaft/service/jaehrliche-energiekosten-fuer-familien-steigen-im-schnitt-auf-6092-euro](https://www.spiegel.de/wirtschaft/service/jaehrliche-energiekosten-fuer-familien-steigen-im-schnitt-auf-6092-euro-a-8ba0e09e-d32c-44ea-b50f-59ba26e19333#ref=rss)
-### gas
+* [https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche](https://www.spiegel.de/wirtschaft/soziales/christian-lindner-mahnt-ampel-ressorts-zu-disziplin-offenbar-400-milliarden-euro-teure-extrawuensche-a-3b32209a-26b0-4888-bd73-fab1904e3e9e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine](https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine-a-d515ae4c-0ed2-4106-b40a-c7b083b043ed#ref=rss)
+### nie
 
-* [https://www.spiegel.de/wirtschaft/service/jaehrliche-energiekosten-fuer-familien-steigen-im-schnitt-auf-6092-euro](https://www.spiegel.de/wirtschaft/service/jaehrliche-energiekosten-fuer-familien-steigen-im-schnitt-auf-6092-euro-a-8ba0e09e-d32c-44ea-b50f-59ba26e19333#ref=rss)
-### öl
+* [https://www.spiegel.de/wirtschaft/soziales/adac-erhebung-e10-benzin-in-deutschland-so-teuer-wie-nie](https://www.spiegel.de/wirtschaft/soziales/adac-erhebung-e10-benzin-in-deutschland-so-teuer-wie-nie-a-9a076540-e551-46b5-a18a-ebd4c3992c1a#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/wirtschaft/service/jaehrliche-energiekosten-fuer-familien-steigen-im-schnitt-auf-6092-euro](https://www.spiegel.de/wirtschaft/service/jaehrliche-energiekosten-fuer-familien-steigen-im-schnitt-auf-6092-euro-a-8ba0e09e-d32c-44ea-b50f-59ba26e19333#ref=rss)
-### zeigt
+* [https://www.spiegel.de/wirtschaft/soziales/adac-erhebung-e10-benzin-in-deutschland-so-teuer-wie-nie](https://www.spiegel.de/wirtschaft/soziales/adac-erhebung-e10-benzin-in-deutschland-so-teuer-wie-nie-a-9a076540-e551-46b5-a18a-ebd4c3992c1a#ref=rss)
+* [https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar](https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar-a-acd921fe-396a-4409-94f8-4fa315cc6876#ref=rss)
+### politiker
 
-* [https://www.spiegel.de/wirtschaft/service/jaehrliche-energiekosten-fuer-familien-steigen-im-schnitt-auf-6092-euro](https://www.spiegel.de/wirtschaft/service/jaehrliche-energiekosten-fuer-familien-steigen-im-schnitt-auf-6092-euro-a-8ba0e09e-d32c-44ea-b50f-59ba26e19333#ref=rss)
-* [https://www.spiegel.de/kultur/rihanna-ist-schwanger-warum-bilder-wie-diese-noch-heute-alle-interessieren](https://www.spiegel.de/kultur/rihanna-ist-schwanger-warum-bilder-wie-diese-noch-heute-alle-interessieren-a-bc3d21d8-c0e2-4ee1-b21e-55a307078bf8#ref=rss)
-### ottohahnschule
+* [https://www.spiegel.de/politik/deutschland/corona-massnahmen-politiker-fordern-entscheidung-ueber-lockerungen](https://www.spiegel.de/politik/deutschland/corona-massnahmen-politiker-fordern-entscheidung-ueber-lockerungen-a-54db39f6-7909-4299-b7c3-adef7e7d32cd#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-jenfeld-polizei-gibt-nach-durchsuchung-von-otto-hahn-schule-entwarnung](https://www.spiegel.de/panorama/justiz/hamburg-jenfeld-polizei-gibt-nach-durchsuchung-von-otto-hahn-schule-entwarnung-a-efca11c3-c23b-4d3c-93af-57d62f476aec#ref=rss)
-### alle
+* [https://www.spiegel.de/politik/deutschland/corona-massnahmen-politiker-fordern-entscheidung-ueber-lockerungen](https://www.spiegel.de/politik/deutschland/corona-massnahmen-politiker-fordern-entscheidung-ueber-lockerungen-a-54db39f6-7909-4299-b7c3-adef7e7d32cd#ref=rss)
+* [https://www.spiegel.de/sport/basketball/dirk-nowitzki-hadert-wegen-fussproblemen-mit-spaetem-karriereende](https://www.spiegel.de/sport/basketball/dirk-nowitzki-hadert-wegen-fussproblemen-mit-spaetem-karriereende-a-7a11c282-2c82-4955-a57c-f076fb7146f7#ref=rss)
+### chef
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-jenfeld-polizei-gibt-nach-durchsuchung-von-otto-hahn-schule-entwarnung](https://www.spiegel.de/panorama/justiz/hamburg-jenfeld-polizei-gibt-nach-durchsuchung-von-otto-hahn-schule-entwarnung-a-efca11c3-c23b-4d3c-93af-57d62f476aec#ref=rss)
-* [https://www.spiegel.de/kultur/rihanna-ist-schwanger-warum-bilder-wie-diese-noch-heute-alle-interessieren](https://www.spiegel.de/kultur/rihanna-ist-schwanger-warum-bilder-wie-diese-noch-heute-alle-interessieren-a-bc3d21d8-c0e2-4ee1-b21e-55a307078bf8#ref=rss)
-### europa
+* [https://www.spiegel.de/politik/deutschland/corona-massnahmen-politiker-fordern-entscheidung-ueber-lockerungen](https://www.spiegel.de/politik/deutschland/corona-massnahmen-politiker-fordern-entscheidung-ueber-lockerungen-a-54db39f6-7909-4299-b7c3-adef7e7d32cd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine](https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine-a-d515ae4c-0ed2-4106-b40a-c7b083b043ed#ref=rss)
+### mönchengladbach
 
-* [https://www.spiegel.de/wirtschaft/soziales/gaskrise-europa-droht-knappheit-bis-2025](https://www.spiegel.de/wirtschaft/soziales/gaskrise-europa-droht-knappheit-bis-2025-a-6ab99c46-5df7-48e2-b7e0-7cc004a9e467#ref=rss)
-### 2025
+* [https://www.spiegel.de/panorama/moenchengladbach-kleinkind-und-mutter-sterben-bei-wohnungsbrand](https://www.spiegel.de/panorama/moenchengladbach-kleinkind-und-mutter-sterben-bei-wohnungsbrand-a-ba388d0f-3fed-4a51-bcac-7f3f71a0d459#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/wirtschaft/soziales/gaskrise-europa-droht-knappheit-bis-2025](https://www.spiegel.de/wirtschaft/soziales/gaskrise-europa-droht-knappheit-bis-2025-a-6ab99c46-5df7-48e2-b7e0-7cc004a9e467#ref=rss)
-### natoeinsatz
+* [https://www.spiegel.de/panorama/moenchengladbach-kleinkind-und-mutter-sterben-bei-wohnungsbrand](https://www.spiegel.de/panorama/moenchengladbach-kleinkind-und-mutter-sterben-bei-wohnungsbrand-a-ba388d0f-3fed-4a51-bcac-7f3f71a0d459#ref=rss)
+### kind
 
-* [https://www.spiegel.de/politik/deutschland/corona-an-bord-deutsches-marine-schiff-berlin-faellt-fuer-nato-einsatz-aus](https://www.spiegel.de/politik/deutschland/corona-an-bord-deutsches-marine-schiff-berlin-faellt-fuer-nato-einsatz-aus-a-6d2c6ba7-195c-4b59-8f77-f24909908681#ref=rss)
-### helgoland
+* [https://www.spiegel.de/panorama/moenchengladbach-kleinkind-und-mutter-sterben-bei-wohnungsbrand](https://www.spiegel.de/panorama/moenchengladbach-kleinkind-und-mutter-sterben-bei-wohnungsbrand-a-ba388d0f-3fed-4a51-bcac-7f3f71a0d459#ref=rss)
+* [https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet](https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet-a-dd744051-1299-4080-aa7f-02322c41e2a0#ref=rss)
+### christoph
 
-* [https://www.spiegel.de/panorama/justiz/helgoland-leiche-vor-helgoland-polizei-rollt-cold-case-auf](https://www.spiegel.de/panorama/justiz/helgoland-leiche-vor-helgoland-polizei-rollt-cold-case-auf-a-4564d90c-de48-4e09-b478-842cea0bb028#ref=rss)
-### leiche
+* [https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine](https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine-a-d515ae4c-0ed2-4106-b40a-c7b083b043ed#ref=rss)
+### heusgen
 
-* [https://www.spiegel.de/panorama/justiz/helgoland-leiche-vor-helgoland-polizei-rollt-cold-case-auf](https://www.spiegel.de/panorama/justiz/helgoland-leiche-vor-helgoland-polizei-rollt-cold-case-auf-a-4564d90c-de48-4e09-b478-842cea0bb028#ref=rss)
-### tom
+* [https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine](https://www.spiegel.de/politik/deutschland/heusgen-plaediert-fuer-lieferung-von-defensivwaffen-an-die-ukraine-a-d515ae4c-0ed2-4106-b40a-c7b083b043ed#ref=rss)
+### burundi
 
-* [https://www.spiegel.de/sport/nfl-superstar-tom-brady-bestaetigt-karriereende](https://www.spiegel.de/sport/nfl-superstar-tom-brady-bestaetigt-karriereende-a-b70e105d-3e1b-44bf-a57b-e425c4d804a6#ref=rss)
-### rihanna
+* [https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet](https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet-a-dd744051-1299-4080-aa7f-02322c41e2a0#ref=rss)
+### entführt
 
-* [https://www.spiegel.de/kultur/rihanna-ist-schwanger-warum-bilder-wie-diese-noch-heute-alle-interessieren](https://www.spiegel.de/kultur/rihanna-ist-schwanger-warum-bilder-wie-diese-noch-heute-alle-interessieren-a-bc3d21d8-c0e2-4ee1-b21e-55a307078bf8#ref=rss)
+* [https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet](https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet-a-dd744051-1299-4080-aa7f-02322c41e2a0#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet](https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet-a-dd744051-1299-4080-aa7f-02322c41e2a0#ref=rss)
+* [https://www.spiegel.de/ausland/guinea-bissau-moeglicher-putschversuch-offenbar-gescheitert](https://www.spiegel.de/ausland/guinea-bissau-moeglicher-putschversuch-offenbar-gescheitert-a-1cfa4ba6-1c97-4eae-aff1-62991178a2ca#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet](https://www.spiegel.de/panorama/burundi-vierjaehriger-albino-junge-entfuehrt-und-getoetet-a-dd744051-1299-4080-aa7f-02322c41e2a0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar-a-0479d95e-ef44-4bab-95f1-4aab7eab10d5#ref=rss)
+### weltantidopingagentur
+
+* [https://www.spiegel.de/sport/olympia/olympische-winterspiele-in-peking-welt-anti-doping-agentur-haelt-manipulationen-von-proben-fuer-ausgeschlossen](https://www.spiegel.de/sport/olympia/olympische-winterspiele-in-peking-welt-anti-doping-agentur-haelt-manipulationen-von-proben-fuer-ausgeschlossen-a-7dbb6101-2757-482b-a11c-1db5b1aff6f9#ref=rss)
+### nutzen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-den-usa-unternehmen-nutzen-preissteigerungen-um-hoehere-gewinne-abzugreifen](https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-den-usa-unternehmen-nutzen-preissteigerungen-um-hoehere-gewinne-abzugreifen-a-c1c5a0b8-a451-4de9-9a5c-cefb7fd659ad#ref=rss)
+### höhere
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-den-usa-unternehmen-nutzen-preissteigerungen-um-hoehere-gewinne-abzugreifen](https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-den-usa-unternehmen-nutzen-preissteigerungen-um-hoehere-gewinne-abzugreifen-a-c1c5a0b8-a451-4de9-9a5c-cefb7fd659ad#ref=rss)
+### abzugreifen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-den-usa-unternehmen-nutzen-preissteigerungen-um-hoehere-gewinne-abzugreifen](https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-den-usa-unternehmen-nutzen-preissteigerungen-um-hoehere-gewinne-abzugreifen-a-c1c5a0b8-a451-4de9-9a5c-cefb7fd659ad#ref=rss)
+### kosten
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-den-usa-unternehmen-nutzen-preissteigerungen-um-hoehere-gewinne-abzugreifen](https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-den-usa-unternehmen-nutzen-preissteigerungen-um-hoehere-gewinne-abzugreifen-a-c1c5a0b8-a451-4de9-9a5c-cefb7fd659ad#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19](https://www.spiegel.de/wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-ea61b2c1-204e-4a21-ae6d-50d6fa6f3714#ref=rss)
+### eegumlage
+
+* [https://www.spiegel.de/wirtschaft/soziales/eeg-umlage-widerstand-in-gruenen-fraktion-gegen-vorzeitiges-ende](https://www.spiegel.de/wirtschaft/soziales/eeg-umlage-widerstand-in-gruenen-fraktion-gegen-vorzeitiges-ende-a-2127044f-a872-417f-b54d-2cb0f409195f#ref=rss)
+### grünenfraktion
+
+* [https://www.spiegel.de/wirtschaft/soziales/eeg-umlage-widerstand-in-gruenen-fraktion-gegen-vorzeitiges-ende](https://www.spiegel.de/wirtschaft/soziales/eeg-umlage-widerstand-in-gruenen-fraktion-gegen-vorzeitiges-ende-a-2127044f-a872-417f-b54d-2cb0f409195f#ref=rss)
+### guineabissau
+
+* [https://www.spiegel.de/ausland/guinea-bissau-moeglicher-putschversuch-offenbar-gescheitert](https://www.spiegel.de/ausland/guinea-bissau-moeglicher-putschversuch-offenbar-gescheitert-a-1cfa4ba6-1c97-4eae-aff1-62991178a2ca#ref=rss)
+### stunden
+
+* [https://www.spiegel.de/ausland/guinea-bissau-moeglicher-putschversuch-offenbar-gescheitert](https://www.spiegel.de/ausland/guinea-bissau-moeglicher-putschversuch-offenbar-gescheitert-a-1cfa4ba6-1c97-4eae-aff1-62991178a2ca#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5](https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5-a-8ab801ba-4c04-49cc-baf1-3c6f3aac4bb4#ref=rss)
+### schickten
+
+* [https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar](https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar-a-acd921fe-396a-4409-94f8-4fa315cc6876#ref=rss)
+### familien
+
+* [https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar](https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar-a-acd921fe-396a-4409-94f8-4fa315cc6876#ref=rss)
+### 516
+
+* [https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar](https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar-a-acd921fe-396a-4409-94f8-4fa315cc6876#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar](https://www.spiegel.de/panorama/rekordueberweisungen-2021-mexikaner-im-ausland-schickten-2021-ihren-familien-51-6-milliarden-dollar-a-acd921fe-396a-4409-94f8-4fa315cc6876#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar-a-0479d95e-ef44-4bab-95f1-4aab7eab10d5#ref=rss)
+### whoopi
+
+* [https://www.spiegel.de/kultur/whoopi-goldberg-nach-holocaust-aeusserung-von-us-sender-abc-suspendiert](https://www.spiegel.de/kultur/whoopi-goldberg-nach-holocaust-aeusserung-von-us-sender-abc-suspendiert-a-7ebc0a5d-40f8-4c59-9603-dcf31333fe52#ref=rss)
+### goldberg
+
+* [https://www.spiegel.de/kultur/whoopi-goldberg-nach-holocaust-aeusserung-von-us-sender-abc-suspendiert](https://www.spiegel.de/kultur/whoopi-goldberg-nach-holocaust-aeusserung-von-us-sender-abc-suspendiert-a-7ebc0a5d-40f8-4c59-9603-dcf31333fe52#ref=rss)
+### ziele
+
+* [https://www.spiegel.de/ausland/tuerkei-bombardiert-kurdische-ziele-in-syrien-und-irak](https://www.spiegel.de/ausland/tuerkei-bombardiert-kurdische-ziele-in-syrien-und-irak-a-c7eebcc9-da27-48c8-9b47-97c8c785cc5e#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/ausland/tuerkei-bombardiert-kurdische-ziele-in-syrien-und-irak](https://www.spiegel.de/ausland/tuerkei-bombardiert-kurdische-ziele-in-syrien-und-irak-a-c7eebcc9-da27-48c8-9b47-97c8c785cc5e#ref=rss)
+### dirk
+
+* [https://www.spiegel.de/sport/basketball/dirk-nowitzki-hadert-wegen-fussproblemen-mit-spaetem-karriereende](https://www.spiegel.de/sport/basketball/dirk-nowitzki-hadert-wegen-fussproblemen-mit-spaetem-karriereende-a-7a11c282-2c82-4955-a57c-f076fb7146f7#ref=rss)
+### nowitzki
+
+* [https://www.spiegel.de/sport/basketball/dirk-nowitzki-hadert-wegen-fussproblemen-mit-spaetem-karriereende](https://www.spiegel.de/sport/basketball/dirk-nowitzki-hadert-wegen-fussproblemen-mit-spaetem-karriereende-a-7a11c282-2c82-4955-a57c-f076fb7146f7#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/sport/basketball/dirk-nowitzki-hadert-wegen-fussproblemen-mit-spaetem-karriereende](https://www.spiegel.de/sport/basketball/dirk-nowitzki-hadert-wegen-fussproblemen-mit-spaetem-karriereende-a-7a11c282-2c82-4955-a57c-f076fb7146f7#ref=rss)
+### alphabet
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar](https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-muttergesellschaft-verdoppelt-2021-gewinn-auf-76-milliarden-dollar-a-0479d95e-ef44-4bab-95f1-4aab7eab10d5#ref=rss)
+### partygate
+
+* [https://www.spiegel.de/ausland/boris-johnsons-partygate-uebersteht-der-premier-jeden-skandal-podcast](https://www.spiegel.de/ausland/boris-johnsons-partygate-uebersteht-der-premier-jeden-skandal-podcast-a-f5743824-c0f6-483a-ab92-2e1764e7287b#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-ukraine-corona-virus-frankreich-verkehr](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-ukraine-corona-virus-frankreich-verkehr-a-f59d1835-b5e9-4d66-9d7a-5f35501e7b01#ref=rss)
+### verkehr
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-ukraine-corona-virus-frankreich-verkehr](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-ukraine-corona-virus-frankreich-verkehr-a-f59d1835-b5e9-4d66-9d7a-5f35501e7b01#ref=rss)
+### siebentageinzidenz
+
+* [https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5](https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5-a-8ab801ba-4c04-49cc-baf1-3c6f3aac4bb4#ref=rss)
+### 12275
+
+* [https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5](https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5-a-8ab801ba-4c04-49cc-baf1-3c6f3aac4bb4#ref=rss)
+### höchstwert
+
+* [https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5](https://www.spiegel.de/wissenschaft/coronavirus-in-deutschland-sieben-tage-inzidenz-steigt-laut-rki-auf-1227-5-a-8ab801ba-4c04-49cc-baf1-3c6f3aac4bb4#ref=rss)
 
