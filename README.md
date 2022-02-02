@@ -109,13 +109,13 @@ kapitän(468) stärken(468) vermutlich(468) flüchtlinge(467) industrie(467) wit
 
 ```
 date, investment, buy price, sell price
-2022-01-26 10:09:46, 1-EUR, 1.12 USD, 1.12 USD
-2022-01-26 10:09:46, 1-EUR, 7.13 CNY, 7.13 CNY
-2022-01-26 10:09:46, crude-oil-brent-barrel, 88.93 USD, 88.93 USD
-2022-01-26 10:09:49, gold-10g, 549.14 EUR, 520.88 EUR
-2022-01-26 10:09:53, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2022-01-26 10:09:55, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
-2022-01-26 10:09:56, lego-2019-60225-1-rovertestfahrt, 25.0 USD, 25.0 USD
+2022-02-02 10:09:56, 1-EUR, 1.12 USD, 1.12 USD
+2022-02-02 10:09:56, 1-EUR, 7.16 CNY, 7.16 CNY
+2022-02-02 10:09:57, crude-oil-brent-barrel, 89.36 USD, 89.36 USD
+2022-02-02 10:09:57, gold-10g, 535.79 EUR, 507.66 EUR
+2022-02-02 10:10:02, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2022-02-02 10:10:03, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
+2022-02-02 10:10:05, lego-2019-60225-1-rovertestfahrt, 25.0 USD, 25.0 USD
 ```
 
 <footer>
