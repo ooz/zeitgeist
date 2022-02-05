@@ -10,9 +10,5 @@ config = {
             '''<meta name="referrer" content="no-referrer">''',
             '''<link rel="stylesheet" type="text/css" href="static/zeitgeist.css" />'''
         ]
-    },
-    'social': {
-        'about_url': 'https://oliz.io/about',
-        'github_url': 'https://github.com/ooz/zeitgeist'
     }
 }
