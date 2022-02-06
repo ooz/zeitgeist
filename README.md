@@ -139,13 +139,13 @@ aufgefordert(472) emma(472) privaten(472) reiche(472) schlimmer(472) stunde(472)
 
 ```
 date, investment, buy price, sell price
-2022-02-06 00:06:56, 1-EUR, 1.14 USD, 1.14 USD
-2022-02-06 00:06:56, 1-EUR, 7.29 CNY, 7.29 CNY
-2022-02-06 00:06:56, crude-oil-brent-barrel, 93.27 USD, 93.27 USD
-2022-02-06 00:06:57, gold-10g, 530.75 EUR, 502.67 EUR
-2022-02-06 00:07:02, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2022-02-06 00:07:04, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
-2022-02-06 00:07:05, lego-2019-60225-1-rovertestfahrt, 25.0 USD, 25.0 USD
+2022-02-06 00:14:11, 1-EUR, 1.14 USD, 1.14 USD
+2022-02-06 00:14:11, 1-EUR, 7.29 CNY, 7.29 CNY
+2022-02-06 00:14:11, crude-oil-brent-barrel, 93.27 USD, 93.27 USD
+2022-02-06 00:14:11, gold-10g, 530.75 EUR, 502.67 EUR
+2022-02-06 00:14:16, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2022-02-06 00:14:17, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
+2022-02-06 00:14:19, lego-2019-60225-1-rovertestfahrt, 25.0 USD, 25.0 USD
 ```
 
 <footer>
