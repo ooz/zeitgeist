@@ -99,13 +99,13 @@ locker(475) müssten(474) pakistan(474) schatten(474) wut(474) bar(473) becker(4
 
 ```
 date, investment, buy price, sell price
-2022-02-06 00:14:11, 1-EUR, 1.14 USD, 1.14 USD
-2022-02-06 00:14:11, 1-EUR, 7.29 CNY, 7.29 CNY
-2022-02-06 00:14:11, crude-oil-brent-barrel, 93.27 USD, 93.27 USD
-2022-02-06 00:14:11, gold-10g, 530.75 EUR, 502.67 EUR
-2022-02-06 00:14:16, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2022-02-06 00:14:17, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
-2022-02-06 00:14:19, lego-2019-60225-1-rovertestfahrt, 25.0 USD, 25.0 USD
+2022-02-09 10:09:53, 1-EUR, 1.14 USD, 1.14 USD
+2022-02-09 10:09:53, 1-EUR, 7.26 CNY, 7.26 CNY
+2022-02-09 10:09:54, crude-oil-brent-barrel, 90.53 USD, 90.53 USD
+2022-02-09 10:09:54, gold-10g, 537.49 EUR, 509.35 EUR
+2022-02-09 10:09:59, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2022-02-09 10:10:00, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
+2022-02-09 10:10:02, lego-2019-60225-1-rovertestfahrt, 25.0 USD, 25.0 USD
 ```
 
 <footer>
