@@ -4,318 +4,305 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### olympia
+### sorgen
 
-* [https://www.spiegel.de/sport/olympia/eiskunstlauf-warum-die-russische-auswahl-um-ihre-goldmedaille-bangen-muss](https://www.spiegel.de/sport/olympia/eiskunstlauf-warum-die-russische-auswahl-um-ihre-goldmedaille-bangen-muss-a-e720836a-907d-4d97-9bfd-5b294940c06a#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-olympiadisziplin-shorttrack-in-suedkorea-eine-brutale-ellenbogengesellschaft](https://www.spiegel.de/sport/olympia/olympia-2022-olympiadisziplin-shorttrack-in-suedkorea-eine-brutale-ellenbogengesellschaft-a-378f6c78-0959-4012-a2ce-db7cbff9fa85#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief](https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief-a-1f62ebee-3ab7-4c7d-bbf9-dd384df9ca6f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking](https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking-a-efed9c0d-f030-4b03-badf-b60ca867f479#ref=rss)
-* [https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-2022-spielplan-und-ergebnisse-in-der-uebersicht](https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-2022-spielplan-und-ergebnisse-in-der-uebersicht-a-52c0c17c-8404-442e-96b3-1842a40ab518#ref=rss)
+* [https://www.spiegel.de/ausland/inflation-in-der-tuerkei-es-faellt-mir-immer-schwerer-meine-kinder-zu-versorgen](https://www.spiegel.de/ausland/inflation-in-der-tuerkei-es-faellt-mir-immer-schwerer-meine-kinder-zu-versorgen-a-270440c0-4ceb-4968-96f5-ae860140757c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/holz-beton-und-stahl-sorgen-fuer-rasanten-anstieg-der-baupreise](https://www.spiegel.de/wirtschaft/holz-beton-und-stahl-sorgen-fuer-rasanten-anstieg-der-baupreise-a-c413abb9-99cd-4d25-8a36-27df13400da0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/auftraege-beschaeftigen-deutsche-industrie-so-lange-wie-nie-zuvor](https://www.spiegel.de/wirtschaft/auftraege-beschaeftigen-deutsche-industrie-so-lange-wie-nie-zuvor-a-00d86616-0ade-4856-866e-d2171fbba9d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise](https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise-a-59b27373-8aff-441a-a5d7-13c86a422235#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung](https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung-a-c48800df-d471-4578-ad83-3efb39959a86#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-stau-hauptstaedte-deutschlands-oevp-chats-aus-oesterreich-corona-und-jugend](https://www.spiegel.de/politik/deutschland/news-stau-hauptstaedte-deutschlands-oevp-chats-aus-oesterreich-corona-und-jugend-a-537f8946-4ac0-45ce-ad5e-f8f10cd859b4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro](https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro-a-98e1c957-1f9f-4bf9-9ee9-9936d4f3b81b#ref=rss)
-* [https://www.spiegel.de/ausland/tunesien-in-der-krise-das-ende-der-gewaltenteilung](https://www.spiegel.de/ausland/tunesien-in-der-krise-das-ende-der-gewaltenteilung-a-5d982a45-d871-4d7e-babe-f3dbb3ea54cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert](https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert-a-7fc0c89b-c1b4-4cde-b386-89b16087411c#ref=rss)
-### söder
+* [https://www.spiegel.de/wirtschaft/tamoxifen-wichtiges-brustkrebs-medikament-nicht-lieferbar](https://www.spiegel.de/wirtschaft/tamoxifen-wichtiges-brustkrebs-medikament-nicht-lieferbar-a-5fc5a7cf-d6e8-4f67-8e31-c58175c65dff#ref=rss)
+* [https://www.spiegel.de/ausland/inflation-in-der-tuerkei-es-faellt-mir-immer-schwerer-meine-kinder-zu-versorgen](https://www.spiegel.de/ausland/inflation-in-der-tuerkei-es-faellt-mir-immer-schwerer-meine-kinder-zu-versorgen-a-270440c0-4ceb-4968-96f5-ae860140757c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handel-nach-dem-brexit-verliert-grossbritannien-stark-an-bedeutung-fuer-deutschland](https://www.spiegel.de/wirtschaft/handel-nach-dem-brexit-verliert-grossbritannien-stark-an-bedeutung-fuer-deutschland-a-4f04e59b-8c73-4ed9-8e66-b213b9c04bb5#ref=rss)
+* [https://www.spiegel.de/psychologie/interview-mit-dem-februar-50-shades-of-grey-ist-mein-groesster-bestseller](https://www.spiegel.de/psychologie/interview-mit-dem-februar-50-shades-of-grey-ist-mein-groesster-bestseller-a-203e138e-88c6-475f-9b1b-9acf185200b2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise](https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise-a-59b27373-8aff-441a-a5d7-13c86a422235#ref=rss)
+### olympia
 
-* [https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden](https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden-a-6baff781-34e8-4246-9fcb-86ba14f714d5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert](https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert-a-7fc0c89b-c1b4-4cde-b386-89b16087411c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes](https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes-a-9a2516f0-4f65-488b-8674-a8c1a36d5b9b#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/start/erster-tag-im-neuen-job-wie-man-das-onboarding-selbst-uebernimmt](https://www.spiegel.de/start/erster-tag-im-neuen-job-wie-man-das-onboarding-selbst-uebernimmt-a-57380426-a62e-4c93-983a-81e29c384962#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert](https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert-a-7fc0c89b-c1b4-4cde-b386-89b16087411c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-korrigiert-angaben-zu-angriff-auf-17-jaehrige-in-tram](https://www.spiegel.de/panorama/justiz/berlin-polizei-korrigiert-angaben-zu-angriff-auf-17-jaehrige-in-tram-a-cca5af85-0e3e-42d1-b18a-c19bfedf7cc6#ref=rss)
-### allem
-
-* [https://www.spiegel.de/start/erster-tag-im-neuen-job-wie-man-das-onboarding-selbst-uebernimmt](https://www.spiegel.de/start/erster-tag-im-neuen-job-wie-man-das-onboarding-selbst-uebernimmt-a-57380426-a62e-4c93-983a-81e29c384962#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-olympiadisziplin-shorttrack-in-suedkorea-eine-brutale-ellenbogengesellschaft](https://www.spiegel.de/sport/olympia/olympia-2022-olympiadisziplin-shorttrack-in-suedkorea-eine-brutale-ellenbogengesellschaft-a-378f6c78-0959-4012-a2ce-db7cbff9fa85#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-praesident-gitanas-naus-da-putin-will-zurueck-zu-groesse-und-einfluss](https://www.spiegel.de/ausland/litauen-praesident-gitanas-naus-da-putin-will-zurueck-zu-groesse-und-einfluss-a-060c502a-2864-40f4-af3f-8bc2614f6f86#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/galaxy-s22-und-galaxy-tab-s8-samsung-stellt-neue-smartphones-und-xxl-tablet-vor](https://www.spiegel.de/netzwelt/gadgets/galaxy-s22-und-galaxy-tab-s8-samsung-stellt-neue-smartphones-und-xxl-tablet-vor-a-527d4d4c-bc57-4cde-b4cf-6f850e5ce571#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/kultur/tuerkei-aufsicht-verlangt-lizenz-von-deutscher-welle](https://www.spiegel.de/kultur/tuerkei-aufsicht-verlangt-lizenz-von-deutscher-welle-a-22d005ab-5ee9-4a61-a575-d2c3672529d0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro](https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro-a-98e1c957-1f9f-4bf9-9ee9-9936d4f3b81b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/kernfusion-jet-projekt-in-oxford-meldet-energie-weltrekord](https://www.spiegel.de/wissenschaft/technik/kernfusion-jet-projekt-in-oxford-meldet-energie-weltrekord-a-354d5608-bbed-48ff-985b-3c86ad78e94a#ref=rss)
-### peking
-
-* [https://www.spiegel.de/sport/olympia/eiskunstlauf-warum-die-russische-auswahl-um-ihre-goldmedaille-bangen-muss](https://www.spiegel.de/sport/olympia/eiskunstlauf-warum-die-russische-auswahl-um-ihre-goldmedaille-bangen-muss-a-e720836a-907d-4d97-9bfd-5b294940c06a#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-olympiadisziplin-shorttrack-in-suedkorea-eine-brutale-ellenbogengesellschaft](https://www.spiegel.de/sport/olympia/olympia-2022-olympiadisziplin-shorttrack-in-suedkorea-eine-brutale-ellenbogengesellschaft-a-378f6c78-0959-4012-a2ce-db7cbff9fa85#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking](https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking-a-efed9c0d-f030-4b03-badf-b60ca867f479#ref=rss)
-* [https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-2022-spielplan-und-ergebnisse-in-der-uebersicht](https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-2022-spielplan-und-ergebnisse-in-der-uebersicht-a-52c0c17c-8404-442e-96b3-1842a40ab518#ref=rss)
-### coronaimpfpflicht
-
-* [https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden](https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden-a-6baff781-34e8-4246-9fcb-86ba14f714d5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert](https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert-a-7fc0c89b-c1b4-4cde-b386-89b16087411c#ref=rss)
-### pflege
-
-* [https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden](https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden-a-6baff781-34e8-4246-9fcb-86ba14f714d5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert](https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert-a-7fc0c89b-c1b4-4cde-b386-89b16087411c#ref=rss)
-### markus
-
-* [https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden](https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden-a-6baff781-34e8-4246-9fcb-86ba14f714d5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert](https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert-a-7fc0c89b-c1b4-4cde-b386-89b16087411c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes](https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes-a-9a2516f0-4f65-488b-8674-a8c1a36d5b9b#ref=rss)
-### russische
-
-* [https://www.spiegel.de/ausland/nord-stream-2-kann-katar-unsere-luecke-bei-der-gasversorgung-decken](https://www.spiegel.de/ausland/nord-stream-2-kann-katar-unsere-luecke-bei-der-gasversorgung-decken-a-85e80521-febb-4f64-a37b-b36984d24e92#ref=rss)
-* [https://www.spiegel.de/sport/olympia/eiskunstlauf-warum-die-russische-auswahl-um-ihre-goldmedaille-bangen-muss](https://www.spiegel.de/sport/olympia/eiskunstlauf-warum-die-russische-auswahl-um-ihre-goldmedaille-bangen-muss-a-e720836a-907d-4d97-9bfd-5b294940c06a#ref=rss)
-### neue
-
-* [https://www.spiegel.de/start/erster-tag-im-neuen-job-wie-man-das-onboarding-selbst-uebernimmt](https://www.spiegel.de/start/erster-tag-im-neuen-job-wie-man-das-onboarding-selbst-uebernimmt-a-57380426-a62e-4c93-983a-81e29c384962#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/galaxy-s22-und-galaxy-tab-s8-samsung-stellt-neue-smartphones-und-xxl-tablet-vor](https://www.spiegel.de/netzwelt/gadgets/galaxy-s22-und-galaxy-tab-s8-samsung-stellt-neue-smartphones-und-xxl-tablet-vor-a-527d4d4c-bc57-4cde-b4cf-6f850e5ce571#ref=rss)
-### goldmedaille
-
-* [https://www.spiegel.de/sport/olympia/eiskunstlauf-warum-die-russische-auswahl-um-ihre-goldmedaille-bangen-muss](https://www.spiegel.de/sport/olympia/eiskunstlauf-warum-die-russische-auswahl-um-ihre-goldmedaille-bangen-muss-a-e720836a-907d-4d97-9bfd-5b294940c06a#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief](https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief-a-1f62ebee-3ab7-4c7d-bbf9-dd384df9ca6f#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin](https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin-a-b5e4f745-5c7f-4994-ba7d-8e44a3b00958#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger](https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger-a-44c5fa37-9ec6-4ef5-bbcb-5f26b31fefc3#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-skisprung-disqualifikationen-kontrolleur-jukkara-weist-schuld-von-sich](https://www.spiegel.de/sport/olympia/olympia-2022-skisprung-disqualifikationen-kontrolleur-jukkara-weist-schuld-von-sich-a-b25620de-a216-4459-9438-b2d4cb155c58#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-eiskunstlauf-yuzuru-hanyu-stuerzt-beim-vierfach-axel](https://www.spiegel.de/sport/olympia/olympia-2022-eiskunstlauf-yuzuru-hanyu-stuerzt-beim-vierfach-axel-a-27505fad-d93c-403f-8ada-e7a6644c7b5f#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein](https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein-a-43f1b623-ae02-4091-a953-5fba500b4df0#ref=rss)
 ### 2022
 
-* [https://www.spiegel.de/sport/olympia/olympia-2022-olympiadisziplin-shorttrack-in-suedkorea-eine-brutale-ellenbogengesellschaft](https://www.spiegel.de/sport/olympia/olympia-2022-olympiadisziplin-shorttrack-in-suedkorea-eine-brutale-ellenbogengesellschaft-a-378f6c78-0959-4012-a2ce-db7cbff9fa85#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief](https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief-a-1f62ebee-3ab7-4c7d-bbf9-dd384df9ca6f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-2022-spielplan-und-ergebnisse-in-der-uebersicht](https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-2022-spielplan-und-ergebnisse-in-der-uebersicht-a-52c0c17c-8404-442e-96b3-1842a40ab518#ref=rss)
-### vinzenz
+* [https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin](https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin-a-b5e4f745-5c7f-4994-ba7d-8e44a3b00958#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger](https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger-a-44c5fa37-9ec6-4ef5-bbcb-5f26b31fefc3#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-skisprung-disqualifikationen-kontrolleur-jukkara-weist-schuld-von-sich](https://www.spiegel.de/sport/olympia/olympia-2022-skisprung-disqualifikationen-kontrolleur-jukkara-weist-schuld-von-sich-a-b25620de-a216-4459-9438-b2d4cb155c58#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-eiskunstlauf-yuzuru-hanyu-stuerzt-beim-vierfach-axel](https://www.spiegel.de/sport/olympia/olympia-2022-eiskunstlauf-yuzuru-hanyu-stuerzt-beim-vierfach-axel-a-27505fad-d93c-403f-8ada-e7a6644c7b5f#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein](https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein-a-43f1b623-ae02-4091-a953-5fba500b4df0#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief](https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief-a-1f62ebee-3ab7-4c7d-bbf9-dd384df9ca6f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking](https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking-a-efed9c0d-f030-4b03-badf-b60ca867f479#ref=rss)
-### geiger
+* [https://www.spiegel.de/wirtschaft/tamoxifen-wichtiges-brustkrebs-medikament-nicht-lieferbar](https://www.spiegel.de/wirtschaft/tamoxifen-wichtiges-brustkrebs-medikament-nicht-lieferbar-a-5fc5a7cf-d6e8-4f67-8e31-c58175c65dff#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handel-nach-dem-brexit-verliert-grossbritannien-stark-an-bedeutung-fuer-deutschland](https://www.spiegel.de/wirtschaft/handel-nach-dem-brexit-verliert-grossbritannien-stark-an-bedeutung-fuer-deutschland-a-4f04e59b-8c73-4ed9-8e66-b213b9c04bb5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise](https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise-a-59b27373-8aff-441a-a5d7-13c86a422235#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief](https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief-a-1f62ebee-3ab7-4c7d-bbf9-dd384df9ca6f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking](https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking-a-efed9c0d-f030-4b03-badf-b60ca867f479#ref=rss)
-### getötet
+* [https://www.spiegel.de/ausland/inflation-in-der-tuerkei-es-faellt-mir-immer-schwerer-meine-kinder-zu-versorgen](https://www.spiegel.de/ausland/inflation-in-der-tuerkei-es-faellt-mir-immer-schwerer-meine-kinder-zu-versorgen-a-270440c0-4ceb-4968-96f5-ae860140757c#ref=rss)
+* [https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger](https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger-a-add79eef-bd65-462d-abed-72519dc6dc32#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-kameras-sollen-fluechtende-am-aermelkanal-stoppen](https://www.spiegel.de/ausland/frankreich-kameras-sollen-fluechtende-am-aermelkanal-stoppen-a-31e5b317-0407-4893-923c-40b050afc5c3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise](https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise-a-59b27373-8aff-441a-a5d7-13c86a422235#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung](https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung-a-c48800df-d471-4578-ad83-3efb39959a86#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bamberg-toetung-aus-mordlust-19-jaehrige-bewundert-serienmoerder](https://www.spiegel.de/panorama/justiz/bamberg-toetung-aus-mordlust-19-jaehrige-bewundert-serienmoerder-a-c8b6894a-a312-439f-9e0e-cc45510d96e2#ref=rss)
-### junge
+* [https://www.spiegel.de/ausland/oppositionschef-keir-starmer-macht-johnson-fuer-attacke-auf-sich-verantwortlich](https://www.spiegel.de/ausland/oppositionschef-keir-starmer-macht-johnson-fuer-attacke-auf-sich-verantwortlich-a-cab88892-635b-4955-b9dd-2488a910b075#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handel-nach-dem-brexit-verliert-grossbritannien-stark-an-bedeutung-fuer-deutschland](https://www.spiegel.de/wirtschaft/handel-nach-dem-brexit-verliert-grossbritannien-stark-an-bedeutung-fuer-deutschland-a-4f04e59b-8c73-4ed9-8e66-b213b9c04bb5#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-kameras-sollen-fluechtende-am-aermelkanal-stoppen](https://www.spiegel.de/ausland/frankreich-kameras-sollen-fluechtende-am-aermelkanal-stoppen-a-31e5b317-0407-4893-923c-40b050afc5c3#ref=rss)
+### jahre
 
-* [https://www.spiegel.de/kultur/tagesspiegel-journalist-von-marschall-bedauert-diese-junge-dame-ausspruch](https://www.spiegel.de/kultur/tagesspiegel-journalist-von-marschall-bedauert-diese-junge-dame-ausspruch-a-e6c91f16-6d89-4c3e-be5d-9bd3220db448#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bamberg-toetung-aus-mordlust-19-jaehrige-bewundert-serienmoerder](https://www.spiegel.de/panorama/justiz/bamberg-toetung-aus-mordlust-19-jaehrige-bewundert-serienmoerder-a-c8b6894a-a312-439f-9e0e-cc45510d96e2#ref=rss)
-### polizei
+* [https://www.spiegel.de/wissenschaft/mensch/grotte-mandrin-der-moderne-mensch-lebte-schon-10-000-jahre-frueher-in-westeuropa](https://www.spiegel.de/wissenschaft/mensch/grotte-mandrin-der-moderne-mensch-lebte-schon-10-000-jahre-frueher-in-westeuropa-a-1d15bfda-be87-4dd2-b7f1-537ba4dfce5c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/grosswildjagd-jeder-vierte-loewe-in-sambia-hat-schrotkugeln-im-schaedel](https://www.spiegel.de/wissenschaft/natur/grosswildjagd-jeder-vierte-loewe-in-sambia-hat-schrotkugeln-im-schaedel-a-b0b7de54-f9b7-476d-bff3-5fab193661a0#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein](https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein-a-43f1b623-ae02-4091-a953-5fba500b4df0#ref=rss)
+### gilt
 
-* [https://www.spiegel.de/panorama/justiz/essen-sek-stuermt-falsche-wohnung-und-entschuldigt-sich](https://www.spiegel.de/panorama/justiz/essen-sek-stuermt-falsche-wohnung-und-entschuldigt-sich-a-c970e7cf-7268-4388-83e0-7b864668a169#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-korrigiert-angaben-zu-angriff-auf-17-jaehrige-in-tram](https://www.spiegel.de/panorama/justiz/berlin-polizei-korrigiert-angaben-zu-angriff-auf-17-jaehrige-in-tram-a-cca5af85-0e3e-42d1-b18a-c19bfedf7cc6#ref=rss)
-### präsident
+* [https://www.spiegel.de/politik/deutschland/regelung-gekippt-drei-monatsfrist-gilt-nun-auch-im-bundestag](https://www.spiegel.de/politik/deutschland/regelung-gekippt-drei-monatsfrist-gilt-nun-auch-im-bundestag-a-a65ed201-b1d8-46ee-a409-803b67495d6f#ref=rss)
+* [https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus](https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus-a-3b329bf9-5fc6-4b79-ac4f-98492f001f4b#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/tunesien-in-der-krise-das-ende-der-gewaltenteilung](https://www.spiegel.de/ausland/tunesien-in-der-krise-das-ende-der-gewaltenteilung-a-5d982a45-d871-4d7e-babe-f3dbb3ea54cf#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-praesident-gitanas-naus-da-putin-will-zurueck-zu-groesse-und-einfluss](https://www.spiegel.de/ausland/litauen-praesident-gitanas-naus-da-putin-will-zurueck-zu-groesse-und-einfluss-a-060c502a-2864-40f4-af3f-8bc2614f6f86#ref=rss)
-* [https://www.spiegel.de/geschichte/wie-reinhard-heydrich-1940-praesident-von-interpol-wurde](https://www.spiegel.de/geschichte/wie-reinhard-heydrich-1940-praesident-von-interpol-wurde-a-7e6fc7da-2646-4628-ae46-ec83df183082#ref=rss)
-### bayern
+* [https://www.spiegel.de/wirtschaft/holz-beton-und-stahl-sorgen-fuer-rasanten-anstieg-der-baupreise](https://www.spiegel.de/wirtschaft/holz-beton-und-stahl-sorgen-fuer-rasanten-anstieg-der-baupreise-a-c413abb9-99cd-4d25-8a36-27df13400da0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/auftraege-beschaeftigen-deutsche-industrie-so-lange-wie-nie-zuvor](https://www.spiegel.de/wirtschaft/auftraege-beschaeftigen-deutsche-industrie-so-lange-wie-nie-zuvor-a-00d86616-0ade-4856-866e-d2171fbba9d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise](https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise-a-59b27373-8aff-441a-a5d7-13c86a422235#ref=rss)
+### starmer
 
-* [https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden](https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden-a-6baff781-34e8-4246-9fcb-86ba14f714d5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bamberg-toetung-aus-mordlust-19-jaehrige-bewundert-serienmoerder](https://www.spiegel.de/panorama/justiz/bamberg-toetung-aus-mordlust-19-jaehrige-bewundert-serienmoerder-a-c8b6894a-a312-439f-9e0e-cc45510d96e2#ref=rss)
-### ministerpräsident
+* [https://www.spiegel.de/ausland/oppositionschef-keir-starmer-macht-johnson-fuer-attacke-auf-sich-verantwortlich](https://www.spiegel.de/ausland/oppositionschef-keir-starmer-macht-johnson-fuer-attacke-auf-sich-verantwortlich-a-cab88892-635b-4955-b9dd-2488a910b075#ref=rss)
+### nahe
 
-* [https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden](https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden-a-6baff781-34e8-4246-9fcb-86ba14f714d5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes](https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes-a-9a2516f0-4f65-488b-8674-a8c1a36d5b9b#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden](https://www.spiegel.de/panorama/justiz/corona-impfpflicht-in-der-pflege-auch-bayern-ist-an-recht-und-gesetz-gebunden-a-6baff781-34e8-4246-9fcb-86ba14f714d5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes](https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes-a-9a2516f0-4f65-488b-8674-a8c1a36d5b9b#ref=rss)
-### mickie
-
-* [https://www.spiegel.de/panorama/leute/mickie-krause-party-saenger-an-blasenkrebs-erkrankt](https://www.spiegel.de/panorama/leute/mickie-krause-party-saenger-an-blasenkrebs-erkrankt-a-864669e8-b481-4628-9709-db2416f2169a#ref=rss)
-### krause
-
-* [https://www.spiegel.de/panorama/leute/mickie-krause-party-saenger-an-blasenkrebs-erkrankt](https://www.spiegel.de/panorama/leute/mickie-krause-party-saenger-an-blasenkrebs-erkrankt-a-864669e8-b481-4628-9709-db2416f2169a#ref=rss)
-### nord
-
-* [https://www.spiegel.de/ausland/nord-stream-2-kann-katar-unsere-luecke-bei-der-gasversorgung-decken](https://www.spiegel.de/ausland/nord-stream-2-kann-katar-unsere-luecke-bei-der-gasversorgung-decken-a-85e80521-febb-4f64-a37b-b36984d24e92#ref=rss)
-### stream
-
-* [https://www.spiegel.de/ausland/nord-stream-2-kann-katar-unsere-luecke-bei-der-gasversorgung-decken](https://www.spiegel.de/ausland/nord-stream-2-kann-katar-unsere-luecke-bei-der-gasversorgung-decken-a-85e80521-febb-4f64-a37b-b36984d24e92#ref=rss)
-### 2
-
-* [https://www.spiegel.de/ausland/nord-stream-2-kann-katar-unsere-luecke-bei-der-gasversorgung-decken](https://www.spiegel.de/ausland/nord-stream-2-kann-katar-unsere-luecke-bei-der-gasversorgung-decken-a-85e80521-febb-4f64-a37b-b36984d24e92#ref=rss)
-### unsere
-
-* [https://www.spiegel.de/ausland/nord-stream-2-kann-katar-unsere-luecke-bei-der-gasversorgung-decken](https://www.spiegel.de/ausland/nord-stream-2-kann-katar-unsere-luecke-bei-der-gasversorgung-decken-a-85e80521-febb-4f64-a37b-b36984d24e92#ref=rss)
-* [https://www.spiegel.de/kultur/tagesspiegel-journalist-von-marschall-bedauert-diese-junge-dame-ausspruch](https://www.spiegel.de/kultur/tagesspiegel-journalist-von-marschall-bedauert-diese-junge-dame-ausspruch-a-e6c91f16-6d89-4c3e-be5d-9bd3220db448#ref=rss)
-### tag
-
-* [https://www.spiegel.de/start/erster-tag-im-neuen-job-wie-man-das-onboarding-selbst-uebernimmt](https://www.spiegel.de/start/erster-tag-im-neuen-job-wie-man-das-onboarding-selbst-uebernimmt-a-57380426-a62e-4c93-983a-81e29c384962#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking](https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking-a-efed9c0d-f030-4b03-badf-b60ca867f479#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/start/erster-tag-im-neuen-job-wie-man-das-onboarding-selbst-uebernimmt](https://www.spiegel.de/start/erster-tag-im-neuen-job-wie-man-das-onboarding-selbst-uebernimmt-a-57380426-a62e-4c93-983a-81e29c384962#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-covid-19-erhoeht-das-risiko-fuer-herz-kreislauf-krankheiten](https://www.spiegel.de/wissenschaft/medizin/coronavirus-covid-19-erhoeht-das-risiko-fuer-herz-kreislauf-krankheiten-a-14926a6e-77a6-4d16-8fc3-3d034774a110#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/kultur/tuerkei-aufsicht-verlangt-lizenz-von-deutscher-welle](https://www.spiegel.de/kultur/tuerkei-aufsicht-verlangt-lizenz-von-deutscher-welle-a-22d005ab-5ee9-4a61-a575-d2c3672529d0#ref=rss)
-### lizenz
-
-* [https://www.spiegel.de/kultur/tuerkei-aufsicht-verlangt-lizenz-von-deutscher-welle](https://www.spiegel.de/kultur/tuerkei-aufsicht-verlangt-lizenz-von-deutscher-welle-a-22d005ab-5ee9-4a61-a575-d2c3672529d0#ref=rss)
-### welle
-
-* [https://www.spiegel.de/kultur/tuerkei-aufsicht-verlangt-lizenz-von-deutscher-welle](https://www.spiegel.de/kultur/tuerkei-aufsicht-verlangt-lizenz-von-deutscher-welle-a-22d005ab-5ee9-4a61-a575-d2c3672529d0#ref=rss)
-### russland
-
-* [https://www.spiegel.de/kultur/tuerkei-aufsicht-verlangt-lizenz-von-deutscher-welle](https://www.spiegel.de/kultur/tuerkei-aufsicht-verlangt-lizenz-von-deutscher-welle-a-22d005ab-5ee9-4a61-a575-d2c3672529d0#ref=rss)
-* [https://www.spiegel.de/ausland/litauen-praesident-gitanas-naus-da-putin-will-zurueck-zu-groesse-und-einfluss](https://www.spiegel.de/ausland/litauen-praesident-gitanas-naus-da-putin-will-zurueck-zu-groesse-und-einfluss-a-060c502a-2864-40f4-af3f-8bc2614f6f86#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/kultur/tuerkei-aufsicht-verlangt-lizenz-von-deutscher-welle](https://www.spiegel.de/kultur/tuerkei-aufsicht-verlangt-lizenz-von-deutscher-welle-a-22d005ab-5ee9-4a61-a575-d2c3672529d0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/waermepumpen-und-heizsysteme-branche-verkauft-so-viele-geraete-wie-noch-nie](https://www.spiegel.de/wirtschaft/waermepumpen-und-heizsysteme-branche-verkauft-so-viele-geraete-wie-noch-nie-a-409df11b-8501-4f8e-8e19-01dad764d4db#ref=rss)
-### shorttrack
-
-* [https://www.spiegel.de/sport/olympia/olympia-2022-olympiadisziplin-shorttrack-in-suedkorea-eine-brutale-ellenbogengesellschaft](https://www.spiegel.de/sport/olympia/olympia-2022-olympiadisziplin-shorttrack-in-suedkorea-eine-brutale-ellenbogengesellschaft-a-378f6c78-0959-4012-a2ce-db7cbff9fa85#ref=rss)
-### corona
-
-* [https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief](https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief-a-1f62ebee-3ab7-4c7d-bbf9-dd384df9ca6f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-stau-hauptstaedte-deutschlands-oevp-chats-aus-oesterreich-corona-und-jugend](https://www.spiegel.de/politik/deutschland/news-stau-hauptstaedte-deutschlands-oevp-chats-aus-oesterreich-corona-und-jugend-a-537f8946-4ac0-45ce-ad5e-f8f10cd859b4#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief](https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief-a-1f62ebee-3ab7-4c7d-bbf9-dd384df9ca6f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking](https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking-a-efed9c0d-f030-4b03-badf-b60ca867f479#ref=rss)
-### nordischen
-
-* [https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief](https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief-a-1f62ebee-3ab7-4c7d-bbf9-dd384df9ca6f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking](https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking-a-efed9c0d-f030-4b03-badf-b60ca867f479#ref=rss)
-### gold
-
-* [https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief](https://www.spiegel.de/sport/olympia/olympia-2022-wie-vinzenz-geiger-aus-der-isolation-zur-goldmedaille-lief-a-1f62ebee-3ab7-4c7d-bbf9-dd384df9ca6f#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking](https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking-a-efed9c0d-f030-4b03-badf-b60ca867f479#ref=rss)
-### paris
-
-* [https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung](https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung-a-c48800df-d471-4578-ad83-3efb39959a86#ref=rss)
-### salah
-
-* [https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung](https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung-a-c48800df-d471-4578-ad83-3efb39959a86#ref=rss)
-### abdeslam
-
-* [https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung](https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung-a-c48800df-d471-4578-ad83-3efb39959a86#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung](https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung-a-c48800df-d471-4578-ad83-3efb39959a86#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bamberg-toetung-aus-mordlust-19-jaehrige-bewundert-serienmoerder](https://www.spiegel.de/panorama/justiz/bamberg-toetung-aus-mordlust-19-jaehrige-bewundert-serienmoerder-a-c8b6894a-a312-439f-9e0e-cc45510d96e2#ref=rss)
-### niemanden
-
-* [https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung](https://www.spiegel.de/ausland/anschlaege-in-paris-angeklagter-salah-abdeslam-spricht-von-verteidigung-a-c48800df-d471-4578-ad83-3efb39959a86#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/politik/deutschland/news-stau-hauptstaedte-deutschlands-oevp-chats-aus-oesterreich-corona-und-jugend](https://www.spiegel.de/politik/deutschland/news-stau-hauptstaedte-deutschlands-oevp-chats-aus-oesterreich-corona-und-jugend-a-537f8946-4ac0-45ce-ad5e-f8f10cd859b4#ref=rss)
-* [https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-2022-spielplan-und-ergebnisse-in-der-uebersicht](https://www.spiegel.de/sport/olympia/eishockey-bei-olympia-2022-spielplan-und-ergebnisse-in-der-uebersicht-a-52c0c17c-8404-442e-96b3-1842a40ab518#ref=rss)
-### entschuldigung
-
-* [https://www.spiegel.de/kultur/tagesspiegel-journalist-von-marschall-bedauert-diese-junge-dame-ausspruch](https://www.spiegel.de/kultur/tagesspiegel-journalist-von-marschall-bedauert-diese-junge-dame-ausspruch-a-e6c91f16-6d89-4c3e-be5d-9bd3220db448#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/essen-sek-stuermt-falsche-wohnung-und-entschuldigt-sich](https://www.spiegel.de/panorama/justiz/essen-sek-stuermt-falsche-wohnung-und-entschuldigt-sich-a-c970e7cf-7268-4388-83e0-7b864668a169#ref=rss)
-### schulen
-
-* [https://www.spiegel.de/panorama/bildung/indien-bundesstaat-karnataka-schliesst-schulen-nach-protesten-gegen-kopftuch-verbot](https://www.spiegel.de/panorama/bildung/indien-bundesstaat-karnataka-schliesst-schulen-nach-protesten-gegen-kopftuch-verbot-a-1234748c-637a-4e4e-978e-92641d8d0416#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-covid-19-erhoeht-das-risiko-fuer-herz-kreislauf-krankheiten](https://www.spiegel.de/wissenschaft/medizin/coronavirus-covid-19-erhoeht-das-risiko-fuer-herz-kreislauf-krankheiten-a-14926a6e-77a6-4d16-8fc3-3d034774a110#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes](https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes-a-9a2516f0-4f65-488b-8674-a8c1a36d5b9b#ref=rss)
-### fällen
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-covid-19-erhoeht-das-risiko-fuer-herz-kreislauf-krankheiten](https://www.spiegel.de/wissenschaft/medizin/coronavirus-covid-19-erhoeht-das-risiko-fuer-herz-kreislauf-krankheiten-a-14926a6e-77a6-4d16-8fc3-3d034774a110#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro](https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro-a-98e1c957-1f9f-4bf9-9ee9-9936d4f3b81b#ref=rss)
-### alle
-
-* [https://www.spiegel.de/wissenschaft/weltall/spacex-sonnensturm-laesst-starlink-satelliten-aus-dem-orbit-stuerzen](https://www.spiegel.de/wissenschaft/weltall/spacex-sonnensturm-laesst-starlink-satelliten-aus-dem-orbit-stuerzen-a-154044c8-3e7e-427d-9c46-b2cc3bfa495c#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/galaxy-s22-und-galaxy-tab-s8-samsung-stellt-neue-smartphones-und-xxl-tablet-vor](https://www.spiegel.de/netzwelt/gadgets/galaxy-s22-und-galaxy-tab-s8-samsung-stellt-neue-smartphones-und-xxl-tablet-vor-a-527d4d4c-bc57-4cde-b4cf-6f850e5ce571#ref=rss)
-### erst
-
-* [https://www.spiegel.de/wissenschaft/weltall/spacex-sonnensturm-laesst-starlink-satelliten-aus-dem-orbit-stuerzen](https://www.spiegel.de/wissenschaft/weltall/spacex-sonnensturm-laesst-starlink-satelliten-aus-dem-orbit-stuerzen-a-154044c8-3e7e-427d-9c46-b2cc3bfa495c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro](https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro-a-98e1c957-1f9f-4bf9-9ee9-9936d4f3b81b#ref=rss)
-### falsche
-
-* [https://www.spiegel.de/panorama/justiz/essen-sek-stuermt-falsche-wohnung-und-entschuldigt-sich](https://www.spiegel.de/panorama/justiz/essen-sek-stuermt-falsche-wohnung-und-entschuldigt-sich-a-c970e7cf-7268-4388-83e0-7b864668a169#ref=rss)
-### wohnung
-
-* [https://www.spiegel.de/panorama/justiz/essen-sek-stuermt-falsche-wohnung-und-entschuldigt-sich](https://www.spiegel.de/panorama/justiz/essen-sek-stuermt-falsche-wohnung-und-entschuldigt-sich-a-c970e7cf-7268-4388-83e0-7b864668a169#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/panorama/justiz/essen-sek-stuermt-falsche-wohnung-und-entschuldigt-sich](https://www.spiegel.de/panorama/justiz/essen-sek-stuermt-falsche-wohnung-und-entschuldigt-sich-a-c970e7cf-7268-4388-83e0-7b864668a169#ref=rss)
-* [https://www.spiegel.de/wirtschaft/waermepumpen-und-heizsysteme-branche-verkauft-so-viele-geraete-wie-noch-nie](https://www.spiegel.de/wirtschaft/waermepumpen-und-heizsysteme-branche-verkauft-so-viele-geraete-wie-noch-nie-a-409df11b-8501-4f8e-8e19-01dad764d4db#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro](https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro-a-98e1c957-1f9f-4bf9-9ee9-9936d4f3b81b#ref=rss)
-### arzt
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro](https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro-a-98e1c957-1f9f-4bf9-9ee9-9936d4f3b81b#ref=rss)
-### 500
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro](https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro-a-98e1c957-1f9f-4bf9-9ee9-9936d4f3b81b#ref=rss)
-### cannabis
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro](https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro-a-98e1c957-1f9f-4bf9-9ee9-9936d4f3b81b#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro](https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro-a-98e1c957-1f9f-4bf9-9ee9-9936d4f3b81b#ref=rss)
-### 50000
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro](https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro-a-98e1c957-1f9f-4bf9-9ee9-9936d4f3b81b#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro](https://www.spiegel.de/panorama/justiz/muenchen-arzt-verschrieb-500-mal-cannabis-ohne-grund-und-kassierte-knapp-50-000-euro-a-98e1c957-1f9f-4bf9-9ee9-9936d4f3b81b#ref=rss)
-### ende
-
-* [https://www.spiegel.de/ausland/tunesien-in-der-krise-das-ende-der-gewaltenteilung](https://www.spiegel.de/ausland/tunesien-in-der-krise-das-ende-der-gewaltenteilung-a-5d982a45-d871-4d7e-babe-f3dbb3ea54cf#ref=rss)
-### mann
-
-* [https://www.spiegel.de/netzwelt/kusel-haftbefehl-wegen-aufruf-zum-polizistenmord-im-netz](https://www.spiegel.de/netzwelt/kusel-haftbefehl-wegen-aufruf-zum-polizistenmord-im-netz-a-7adbfb60-092c-4f3b-a02c-c3565a1d69c0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bamberg-toetung-aus-mordlust-19-jaehrige-bewundert-serienmoerder](https://www.spiegel.de/panorama/justiz/bamberg-toetung-aus-mordlust-19-jaehrige-bewundert-serienmoerder-a-c8b6894a-a312-439f-9e0e-cc45510d96e2#ref=rss)
+* [https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus](https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus-a-3b329bf9-5fc6-4b79-ac4f-98492f001f4b#ref=rss)
+* [https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger](https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger-a-add79eef-bd65-462d-abed-72519dc6dc32#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/netzwelt/kusel-haftbefehl-wegen-aufruf-zum-polizistenmord-im-netz](https://www.spiegel.de/netzwelt/kusel-haftbefehl-wegen-aufruf-zum-polizistenmord-im-netz-a-7adbfb60-092c-4f3b-a02c-c3565a1d69c0#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking](https://www.spiegel.de/sport/olympia/olympia-2022-am-9-2-das-war-tag-fuenf-in-peking-a-efed9c0d-f030-4b03-badf-b60ca867f479#ref=rss)
-### impfpflicht
+* [https://www.spiegel.de/sport/olympia/olympia-2022-eiskunstlauf-yuzuru-hanyu-stuerzt-beim-vierfach-axel](https://www.spiegel.de/sport/olympia/olympia-2022-eiskunstlauf-yuzuru-hanyu-stuerzt-beim-vierfach-axel-a-27505fad-d93c-403f-8ada-e7a6644c7b5f#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein](https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein-a-43f1b623-ae02-4091-a953-5fba500b4df0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fuerth-fahrer-nach-verwuestungs-fahrt-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/fuerth-fahrer-nach-verwuestungs-fahrt-in-untersuchungshaft-a-c1d6bb92-99a8-4a3a-bce3-8a76bf9b9c2e#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert](https://www.spiegel.de/politik/deutschland/impfpflicht-in-der-pflege-warum-die-union-rebelliert-a-7fc0c89b-c1b4-4cde-b386-89b16087411c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes](https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes-a-9a2516f0-4f65-488b-8674-a8c1a36d5b9b#ref=rss)
-### wärmepumpen
+* [https://www.spiegel.de/wissenschaft/mensch/grotte-mandrin-der-moderne-mensch-lebte-schon-10-000-jahre-frueher-in-westeuropa](https://www.spiegel.de/wissenschaft/mensch/grotte-mandrin-der-moderne-mensch-lebte-schon-10-000-jahre-frueher-in-westeuropa-a-1d15bfda-be87-4dd2-b7f1-537ba4dfce5c#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-kameras-sollen-fluechtende-am-aermelkanal-stoppen](https://www.spiegel.de/ausland/frankreich-kameras-sollen-fluechtende-am-aermelkanal-stoppen-a-31e5b317-0407-4893-923c-40b050afc5c3#ref=rss)
+### of
 
-* [https://www.spiegel.de/wirtschaft/waermepumpen-und-heizsysteme-branche-verkauft-so-viele-geraete-wie-noch-nie](https://www.spiegel.de/wirtschaft/waermepumpen-und-heizsysteme-branche-verkauft-so-viele-geraete-wie-noch-nie-a-409df11b-8501-4f8e-8e19-01dad764d4db#ref=rss)
-### meldet
+* [https://www.spiegel.de/reise/fernweh/travel-photographer-of-the-year-2021-ausgezeichnete-reisefotos](https://www.spiegel.de/reise/fernweh/travel-photographer-of-the-year-2021-ausgezeichnete-reisefotos-a-6bfebdd1-1bc6-41a7-830a-b0ac73843bac#ref=rss)
+* [https://www.spiegel.de/psychologie/interview-mit-dem-februar-50-shades-of-grey-ist-mein-groesster-bestseller](https://www.spiegel.de/psychologie/interview-mit-dem-februar-50-shades-of-grey-ist-mein-groesster-bestseller-a-203e138e-88c6-475f-9b1b-9acf185200b2#ref=rss)
+### besten
 
-* [https://www.spiegel.de/wirtschaft/waermepumpen-und-heizsysteme-branche-verkauft-so-viele-geraete-wie-noch-nie](https://www.spiegel.de/wirtschaft/waermepumpen-und-heizsysteme-branche-verkauft-so-viele-geraete-wie-noch-nie-a-409df11b-8501-4f8e-8e19-01dad764d4db#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/kernfusion-jet-projekt-in-oxford-meldet-energie-weltrekord](https://www.spiegel.de/wissenschaft/technik/kernfusion-jet-projekt-in-oxford-meldet-energie-weltrekord-a-354d5608-bbed-48ff-985b-3c86ad78e94a#ref=rss)
-### 19jährige
+* [https://www.spiegel.de/reise/fernweh/travel-photographer-of-the-year-2021-ausgezeichnete-reisefotos](https://www.spiegel.de/reise/fernweh/travel-photographer-of-the-year-2021-ausgezeichnete-reisefotos-a-6bfebdd1-1bc6-41a7-830a-b0ac73843bac#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin](https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin-a-b5e4f745-5c7f-4994-ba7d-8e44a3b00958#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/panorama/justiz/bamberg-toetung-aus-mordlust-19-jaehrige-bewundert-serienmoerder](https://www.spiegel.de/panorama/justiz/bamberg-toetung-aus-mordlust-19-jaehrige-bewundert-serienmoerder-a-c8b6894a-a312-439f-9e0e-cc45510d96e2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/regelung-gekippt-drei-monatsfrist-gilt-nun-auch-im-bundestag](https://www.spiegel.de/politik/deutschland/regelung-gekippt-drei-monatsfrist-gilt-nun-auch-im-bundestag-a-a65ed201-b1d8-46ee-a409-803b67495d6f#ref=rss)
+### monate
+
+* [https://www.spiegel.de/politik/deutschland/regelung-gekippt-drei-monatsfrist-gilt-nun-auch-im-bundestag](https://www.spiegel.de/politik/deutschland/regelung-gekippt-drei-monatsfrist-gilt-nun-auch-im-bundestag-a-a65ed201-b1d8-46ee-a409-803b67495d6f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/auftraege-beschaeftigen-deutsche-industrie-so-lange-wie-nie-zuvor](https://www.spiegel.de/wirtschaft/auftraege-beschaeftigen-deutsche-industrie-so-lange-wie-nie-zuvor-a-00d86616-0ade-4856-866e-d2171fbba9d7#ref=rss)
+### usa
+
+* [https://www.spiegel.de/panorama/leute/usa-nfl-star-jonathan-allen-entschuldigt-sich-fuer-hitler-tweet](https://www.spiegel.de/panorama/leute/usa-nfl-star-jonathan-allen-entschuldigt-sich-fuer-hitler-tweet-a-2c0b2379-00f8-43a5-8200-158b8342488a#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin](https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin-a-b5e4f745-5c7f-4994-ba7d-8e44a3b00958#ref=rss)
+### jonathan
+
+* [https://www.spiegel.de/panorama/leute/usa-nfl-star-jonathan-allen-entschuldigt-sich-fuer-hitler-tweet](https://www.spiegel.de/panorama/leute/usa-nfl-star-jonathan-allen-entschuldigt-sich-fuer-hitler-tweet-a-2c0b2379-00f8-43a5-8200-158b8342488a#ref=rss)
+### allen
+
+* [https://www.spiegel.de/panorama/leute/usa-nfl-star-jonathan-allen-entschuldigt-sich-fuer-hitler-tweet](https://www.spiegel.de/panorama/leute/usa-nfl-star-jonathan-allen-entschuldigt-sich-fuer-hitler-tweet-a-2c0b2379-00f8-43a5-8200-158b8342488a#ref=rss)
+### tamoxifen
+
+* [https://www.spiegel.de/wirtschaft/tamoxifen-wichtiges-brustkrebs-medikament-nicht-lieferbar](https://www.spiegel.de/wirtschaft/tamoxifen-wichtiges-brustkrebs-medikament-nicht-lieferbar-a-5fc5a7cf-d6e8-4f67-8e31-c58175c65dff#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wirtschaft/tamoxifen-wichtiges-brustkrebs-medikament-nicht-lieferbar](https://www.spiegel.de/wirtschaft/tamoxifen-wichtiges-brustkrebs-medikament-nicht-lieferbar-a-5fc5a7cf-d6e8-4f67-8e31-c58175c65dff#ref=rss)
+* [https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger](https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger-a-add79eef-bd65-462d-abed-72519dc6dc32#ref=rss)
+### indigene
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin](https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin-a-b5e4f745-5c7f-4994-ba7d-8e44a3b00958#ref=rss)
+### abby
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin](https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin-a-b5e4f745-5c7f-4994-ba7d-8e44a3b00958#ref=rss)
+### roque
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin](https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin-a-b5e4f745-5c7f-4994-ba7d-8e44a3b00958#ref=rss)
+### erste
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin](https://www.spiegel.de/sport/olympia/olympia-2022-indigene-eishockeyspielerin-abby-roque-amerikas-eisbrecherin-a-b5e4f745-5c7f-4994-ba7d-8e44a3b00958#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/indien-so-sah-die-angeblich-erste-hochzeit-im-metaversum-aus](https://www.spiegel.de/netzwelt/web/indien-so-sah-die-angeblich-erste-hochzeit-im-metaversum-aus-a-571964c5-5821-4038-8a25-fe0337a75d30#ref=rss)
+### sambia
+
+* [https://www.spiegel.de/wissenschaft/natur/grosswildjagd-jeder-vierte-loewe-in-sambia-hat-schrotkugeln-im-schaedel](https://www.spiegel.de/wissenschaft/natur/grosswildjagd-jeder-vierte-loewe-in-sambia-hat-schrotkugeln-im-schaedel-a-b0b7de54-f9b7-476d-bff3-5fab193661a0#ref=rss)
+### schädel
+
+* [https://www.spiegel.de/wissenschaft/natur/grosswildjagd-jeder-vierte-loewe-in-sambia-hat-schrotkugeln-im-schaedel](https://www.spiegel.de/wissenschaft/natur/grosswildjagd-jeder-vierte-loewe-in-sambia-hat-schrotkugeln-im-schaedel-a-b0b7de54-f9b7-476d-bff3-5fab193661a0#ref=rss)
+### hatten
+
+* [https://www.spiegel.de/wissenschaft/natur/grosswildjagd-jeder-vierte-loewe-in-sambia-hat-schrotkugeln-im-schaedel](https://www.spiegel.de/wissenschaft/natur/grosswildjagd-jeder-vierte-loewe-in-sambia-hat-schrotkugeln-im-schaedel-a-b0b7de54-f9b7-476d-bff3-5fab193661a0#ref=rss)
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-scheitert-mit-verfassungsbeschwerde-zu-erdogan-gedicht](https://www.spiegel.de/kultur/tv/jan-boehmermann-scheitert-mit-verfassungsbeschwerde-zu-erdogan-gedicht-a-78dbfe59-e0b9-4384-aaa3-853d4389d7cf#ref=rss)
+### fanden
+
+* [https://www.spiegel.de/wissenschaft/natur/grosswildjagd-jeder-vierte-loewe-in-sambia-hat-schrotkugeln-im-schaedel](https://www.spiegel.de/wissenschaft/natur/grosswildjagd-jeder-vierte-loewe-in-sambia-hat-schrotkugeln-im-schaedel-a-b0b7de54-f9b7-476d-bff3-5fab193661a0#ref=rss)
+* [https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger](https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger-a-add79eef-bd65-462d-abed-72519dc6dc32#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/ausland/inflation-in-der-tuerkei-es-faellt-mir-immer-schwerer-meine-kinder-zu-versorgen](https://www.spiegel.de/ausland/inflation-in-der-tuerkei-es-faellt-mir-immer-schwerer-meine-kinder-zu-versorgen-a-270440c0-4ceb-4968-96f5-ae860140757c#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/inflation-in-der-tuerkei-es-faellt-mir-immer-schwerer-meine-kinder-zu-versorgen](https://www.spiegel.de/ausland/inflation-in-der-tuerkei-es-faellt-mir-immer-schwerer-meine-kinder-zu-versorgen-a-270440c0-4ceb-4968-96f5-ae860140757c#ref=rss)
+### schwerer
+
+* [https://www.spiegel.de/ausland/inflation-in-der-tuerkei-es-faellt-mir-immer-schwerer-meine-kinder-zu-versorgen](https://www.spiegel.de/ausland/inflation-in-der-tuerkei-es-faellt-mir-immer-schwerer-meine-kinder-zu-versorgen-a-270440c0-4ceb-4968-96f5-ae860140757c#ref=rss)
+* [https://www.spiegel.de/panorama/dierdorf-in-rheinland-pfalz-autofahrerin-stirbt-bei-zusammenstoss-mit-zug](https://www.spiegel.de/panorama/dierdorf-in-rheinland-pfalz-autofahrerin-stirbt-bei-zusammenstoss-mit-zug-a-64962910-c7a6-495a-9b02-919d01274a3d#ref=rss)
+### natoosterweiterung
+
+* [https://www.spiegel.de/panorama/nato-osterweiterung-was-hat-der-westen-1990-heimlich-dem-kreml-zugesagt](https://www.spiegel.de/panorama/nato-osterweiterung-was-hat-der-westen-1990-heimlich-dem-kreml-zugesagt-a-38b7dc85-ab4f-48db-837d-1b974c8ae95a#ref=rss)
+### westen
+
+* [https://www.spiegel.de/panorama/nato-osterweiterung-was-hat-der-westen-1990-heimlich-dem-kreml-zugesagt](https://www.spiegel.de/panorama/nato-osterweiterung-was-hat-der-westen-1990-heimlich-dem-kreml-zugesagt-a-38b7dc85-ab4f-48db-837d-1b974c8ae95a#ref=rss)
+### 1990
+
+* [https://www.spiegel.de/panorama/nato-osterweiterung-was-hat-der-westen-1990-heimlich-dem-kreml-zugesagt](https://www.spiegel.de/panorama/nato-osterweiterung-was-hat-der-westen-1990-heimlich-dem-kreml-zugesagt-a-38b7dc85-ab4f-48db-837d-1b974c8ae95a#ref=rss)
+### russland
+
+* [https://www.spiegel.de/panorama/nato-osterweiterung-was-hat-der-westen-1990-heimlich-dem-kreml-zugesagt](https://www.spiegel.de/panorama/nato-osterweiterung-was-hat-der-westen-1990-heimlich-dem-kreml-zugesagt-a-38b7dc85-ab4f-48db-837d-1b974c8ae95a#ref=rss)
+* [https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus](https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus-a-3b329bf9-5fc6-4b79-ac4f-98492f001f4b#ref=rss)
+### anstieg
+
+* [https://www.spiegel.de/wirtschaft/holz-beton-und-stahl-sorgen-fuer-rasanten-anstieg-der-baupreise](https://www.spiegel.de/wirtschaft/holz-beton-und-stahl-sorgen-fuer-rasanten-anstieg-der-baupreise-a-c413abb9-99cd-4d25-8a36-27df13400da0#ref=rss)
+### rohstoffe
+
+* [https://www.spiegel.de/wirtschaft/holz-beton-und-stahl-sorgen-fuer-rasanten-anstieg-der-baupreise](https://www.spiegel.de/wirtschaft/holz-beton-und-stahl-sorgen-fuer-rasanten-anstieg-der-baupreise-a-c413abb9-99cd-4d25-8a36-27df13400da0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/auftraege-beschaeftigen-deutsche-industrie-so-lange-wie-nie-zuvor](https://www.spiegel.de/wirtschaft/auftraege-beschaeftigen-deutsche-industrie-so-lange-wie-nie-zuvor-a-00d86616-0ade-4856-866e-d2171fbba9d7#ref=rss)
+### teurer
+
+* [https://www.spiegel.de/wirtschaft/holz-beton-und-stahl-sorgen-fuer-rasanten-anstieg-der-baupreise](https://www.spiegel.de/wirtschaft/holz-beton-und-stahl-sorgen-fuer-rasanten-anstieg-der-baupreise-a-c413abb9-99cd-4d25-8a36-27df13400da0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise](https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise-a-59b27373-8aff-441a-a5d7-13c86a422235#ref=rss)
+### jan
+
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-scheitert-mit-verfassungsbeschwerde-zu-erdogan-gedicht](https://www.spiegel.de/kultur/tv/jan-boehmermann-scheitert-mit-verfassungsbeschwerde-zu-erdogan-gedicht-a-78dbfe59-e0b9-4384-aaa3-853d4389d7cf#ref=rss)
+### verfassungsbeschwerde
+
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-scheitert-mit-verfassungsbeschwerde-zu-erdogan-gedicht](https://www.spiegel.de/kultur/tv/jan-boehmermann-scheitert-mit-verfassungsbeschwerde-zu-erdogan-gedicht-a-78dbfe59-e0b9-4384-aaa3-853d4389d7cf#ref=rss)
+### aussicht
+
+* [https://www.spiegel.de/kultur/tv/jan-boehmermann-scheitert-mit-verfassungsbeschwerde-zu-erdogan-gedicht](https://www.spiegel.de/kultur/tv/jan-boehmermann-scheitert-mit-verfassungsbeschwerde-zu-erdogan-gedicht-a-78dbfe59-e0b9-4384-aaa3-853d4389d7cf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise](https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise-a-59b27373-8aff-441a-a5d7-13c86a422235#ref=rss)
+### keir
+
+* [https://www.spiegel.de/ausland/oppositionschef-keir-starmer-macht-johnson-fuer-attacke-auf-sich-verantwortlich](https://www.spiegel.de/ausland/oppositionschef-keir-starmer-macht-johnson-fuer-attacke-auf-sich-verantwortlich-a-cab88892-635b-4955-b9dd-2488a910b075#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/oppositionschef-keir-starmer-macht-johnson-fuer-attacke-auf-sich-verantwortlich](https://www.spiegel.de/ausland/oppositionschef-keir-starmer-macht-johnson-fuer-attacke-auf-sich-verantwortlich-a-cab88892-635b-4955-b9dd-2488a910b075#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energiekosten-der-blumenstrauss-zum-valentins-tag-wird-teuer](https://www.spiegel.de/wirtschaft/energiekosten-der-blumenstrauss-zum-valentins-tag-wird-teuer-a-ad8c44e8-a762-4c92-abf7-3edcb4e71268#ref=rss)
+### dierdorf
+
+* [https://www.spiegel.de/panorama/dierdorf-in-rheinland-pfalz-autofahrerin-stirbt-bei-zusammenstoss-mit-zug](https://www.spiegel.de/panorama/dierdorf-in-rheinland-pfalz-autofahrerin-stirbt-bei-zusammenstoss-mit-zug-a-64962910-c7a6-495a-9b02-919d01274a3d#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/dierdorf-in-rheinland-pfalz-autofahrerin-stirbt-bei-zusammenstoss-mit-zug](https://www.spiegel.de/panorama/dierdorf-in-rheinland-pfalz-autofahrerin-stirbt-bei-zusammenstoss-mit-zug-a-64962910-c7a6-495a-9b02-919d01274a3d#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-eiskunstlauf-yuzuru-hanyu-stuerzt-beim-vierfach-axel](https://www.spiegel.de/sport/olympia/olympia-2022-eiskunstlauf-yuzuru-hanyu-stuerzt-beim-vierfach-axel-a-27505fad-d93c-403f-8ada-e7a6644c7b5f#ref=rss)
+### tesla
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-produktionsstart-in-gruenheide-verzoegert-sich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-produktionsstart-in-gruenheide-verzoegert-sich-a-6597ffdf-f8bc-4f44-b80b-5a6a711b2e39#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-produktionsstart-in-gruenheide-verzoegert-sich](https://www.spiegel.de/wirtschaft/unternehmen/tesla-produktionsstart-in-gruenheide-verzoegert-sich-a-6597ffdf-f8bc-4f44-b80b-5a6a711b2e39#ref=rss)
+* [https://www.spiegel.de/psychologie/interview-mit-dem-februar-50-shades-of-grey-ist-mein-groesster-bestseller](https://www.spiegel.de/psychologie/interview-mit-dem-februar-50-shades-of-grey-ist-mein-groesster-bestseller-a-203e138e-88c6-475f-9b1b-9acf185200b2#ref=rss)
+### johannes
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger](https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger-a-44c5fa37-9ec6-4ef5-bbcb-5f26b31fefc3#ref=rss)
+### strolz
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger](https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger-a-44c5fa37-9ec6-4ef5-bbcb-5f26b31fefc3#ref=rss)
+### kombination
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger](https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger-a-44c5fa37-9ec6-4ef5-bbcb-5f26b31fefc3#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger](https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger-a-44c5fa37-9ec6-4ef5-bbcb-5f26b31fefc3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise](https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise-a-59b27373-8aff-441a-a5d7-13c86a422235#ref=rss)
+### olympische
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger](https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger-a-44c5fa37-9ec6-4ef5-bbcb-5f26b31fefc3#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-skisprung-disqualifikationen-kontrolleur-jukkara-weist-schuld-von-sich](https://www.spiegel.de/sport/olympia/olympia-2022-skisprung-disqualifikationen-kontrolleur-jukkara-weist-schuld-von-sich-a-b25620de-a216-4459-9438-b2d4cb155c58#ref=rss)
+### gewonnen
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger](https://www.spiegel.de/sport/olympia/olympia-2022-ski-alpin-johannes-strolz-wird-in-der-kombination-sensationssieger-a-44c5fa37-9ec6-4ef5-bbcb-5f26b31fefc3#ref=rss)
+* [https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein](https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein-a-43f1b623-ae02-4091-a953-5fba500b4df0#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus](https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus-a-3b329bf9-5fc6-4b79-ac4f-98492f001f4b#ref=rss)
+### militärmanöver
+
+* [https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus](https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus-a-3b329bf9-5fc6-4b79-ac4f-98492f001f4b#ref=rss)
+### belarus
+
+* [https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus](https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus-a-3b329bf9-5fc6-4b79-ac4f-98492f001f4b#ref=rss)
+### enger
+
+* [https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus](https://www.spiegel.de/ausland/grenzgebiet-zur-ukraine-russland-beginnt-militaermanoever-mit-belarus-a-3b329bf9-5fc6-4b79-ac4f-98492f001f4b#ref=rss)
+* [https://www.spiegel.de/panorama/ukrainische-gemeinde-in-berlin-friedensgebet-gegen-putins-panzer](https://www.spiegel.de/panorama/ukrainische-gemeinde-in-berlin-friedensgebet-gegen-putins-panzer-a-d3467754-d58d-4a51-b293-0ad69a678693#ref=rss)
+### jukkara
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-skisprung-disqualifikationen-kontrolleur-jukkara-weist-schuld-von-sich](https://www.spiegel.de/sport/olympia/olympia-2022-skisprung-disqualifikationen-kontrolleur-jukkara-weist-schuld-von-sich-a-b25620de-a216-4459-9438-b2d4cb155c58#ref=rss)
+### yuzuru
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-eiskunstlauf-yuzuru-hanyu-stuerzt-beim-vierfach-axel](https://www.spiegel.de/sport/olympia/olympia-2022-eiskunstlauf-yuzuru-hanyu-stuerzt-beim-vierfach-axel-a-27505fad-d93c-403f-8ada-e7a6644c7b5f#ref=rss)
+### hanyu
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-eiskunstlauf-yuzuru-hanyu-stuerzt-beim-vierfach-axel](https://www.spiegel.de/sport/olympia/olympia-2022-eiskunstlauf-yuzuru-hanyu-stuerzt-beim-vierfach-axel-a-27505fad-d93c-403f-8ada-e7a6644c7b5f#ref=rss)
+### handel
+
+* [https://www.spiegel.de/wirtschaft/handel-nach-dem-brexit-verliert-grossbritannien-stark-an-bedeutung-fuer-deutschland](https://www.spiegel.de/wirtschaft/handel-nach-dem-brexit-verliert-grossbritannien-stark-an-bedeutung-fuer-deutschland-a-4f04e59b-8c73-4ed9-8e66-b213b9c04bb5#ref=rss)
+### brexit
+
+* [https://www.spiegel.de/wirtschaft/handel-nach-dem-brexit-verliert-grossbritannien-stark-an-bedeutung-fuer-deutschland](https://www.spiegel.de/wirtschaft/handel-nach-dem-brexit-verliert-grossbritannien-stark-an-bedeutung-fuer-deutschland-a-4f04e59b-8c73-4ed9-8e66-b213b9c04bb5#ref=rss)
+### chloe
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein](https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein-a-43f1b623-ae02-4091-a953-5fba500b4df0#ref=rss)
+### kim
+
+* [https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein](https://www.spiegel.de/sport/olympia/olympia-2022-chloe-kim-siegt-in-der-halfpipe-und-setzt-sich-fuer-mentale-gesundheit-ein-a-43f1b623-ae02-4091-a953-5fba500b4df0#ref=rss)
+### grenze
+
+* [https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger](https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger-a-add79eef-bd65-462d-abed-72519dc6dc32#ref=rss)
+### mexiko
+
+* [https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger](https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger-a-add79eef-bd65-462d-abed-72519dc6dc32#ref=rss)
+### 132
+
+* [https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger](https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger-a-add79eef-bd65-462d-abed-72519dc6dc32#ref=rss)
+### fahrer
+
+* [https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger](https://www.spiegel.de/panorama/texas-us-polizei-befreit-nahe-der-grenze-zu-mexiko-132-migranten-aus-lkw-anhaenger-a-add79eef-bd65-462d-abed-72519dc6dc32#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fuerth-fahrer-nach-verwuestungs-fahrt-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/fuerth-fahrer-nach-verwuestungs-fahrt-in-untersuchungshaft-a-c1d6bb92-99a8-4a3a-bce3-8a76bf9b9c2e#ref=rss)
+### teuer
+
+* [https://www.spiegel.de/wirtschaft/energiekosten-der-blumenstrauss-zum-valentins-tag-wird-teuer](https://www.spiegel.de/wirtschaft/energiekosten-der-blumenstrauss-zum-valentins-tag-wird-teuer-a-ad8c44e8-a762-4c92-abf7-3edcb4e71268#ref=rss)
+### interview
+
+* [https://www.spiegel.de/psychologie/interview-mit-dem-februar-50-shades-of-grey-ist-mein-groesster-bestseller](https://www.spiegel.de/psychologie/interview-mit-dem-februar-50-shades-of-grey-ist-mein-groesster-bestseller-a-203e138e-88c6-475f-9b1b-9acf185200b2#ref=rss)
+### februar
+
+* [https://www.spiegel.de/psychologie/interview-mit-dem-februar-50-shades-of-grey-ist-mein-groesster-bestseller](https://www.spiegel.de/psychologie/interview-mit-dem-februar-50-shades-of-grey-ist-mein-groesster-bestseller-a-203e138e-88c6-475f-9b1b-9acf185200b2#ref=rss)
+### wir
+
+* [https://www.spiegel.de/psychologie/interview-mit-dem-februar-50-shades-of-grey-ist-mein-groesster-bestseller](https://www.spiegel.de/psychologie/interview-mit-dem-februar-50-shades-of-grey-ist-mein-groesster-bestseller-a-203e138e-88c6-475f-9b1b-9acf185200b2#ref=rss)
+### kameras
+
+* [https://www.spiegel.de/ausland/frankreich-kameras-sollen-fluechtende-am-aermelkanal-stoppen](https://www.spiegel.de/ausland/frankreich-kameras-sollen-fluechtende-am-aermelkanal-stoppen-a-31e5b317-0407-4893-923c-40b050afc5c3#ref=rss)
+### ärmelkanal
+
+* [https://www.spiegel.de/ausland/frankreich-kameras-sollen-fluechtende-am-aermelkanal-stoppen](https://www.spiegel.de/ausland/frankreich-kameras-sollen-fluechtende-am-aermelkanal-stoppen-a-31e5b317-0407-4893-923c-40b050afc5c3#ref=rss)
+### gemeinde
+
+* [https://www.spiegel.de/panorama/ukrainische-gemeinde-in-berlin-friedensgebet-gegen-putins-panzer](https://www.spiegel.de/panorama/ukrainische-gemeinde-in-berlin-friedensgebet-gegen-putins-panzer-a-d3467754-d58d-4a51-b293-0ad69a678693#ref=rss)
 ### berlin
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-korrigiert-angaben-zu-angriff-auf-17-jaehrige-in-tram](https://www.spiegel.de/panorama/justiz/berlin-polizei-korrigiert-angaben-zu-angriff-auf-17-jaehrige-in-tram-a-cca5af85-0e3e-42d1-b18a-c19bfedf7cc6#ref=rss)
-### angaben
+* [https://www.spiegel.de/panorama/ukrainische-gemeinde-in-berlin-friedensgebet-gegen-putins-panzer](https://www.spiegel.de/panorama/ukrainische-gemeinde-in-berlin-friedensgebet-gegen-putins-panzer-a-d3467754-d58d-4a51-b293-0ad69a678693#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-korrigiert-angaben-zu-angriff-auf-17-jaehrige-in-tram](https://www.spiegel.de/panorama/justiz/berlin-polizei-korrigiert-angaben-zu-angriff-auf-17-jaehrige-in-tram-a-cca5af85-0e3e-42d1-b18a-c19bfedf7cc6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes](https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes-a-9a2516f0-4f65-488b-8674-a8c1a36d5b9b#ref=rss)
-### 17jährige
+* [https://www.spiegel.de/ausland/donald-trump-us-nationalarchiv-soll-justizministerium-zu-ermittlungen-aufgefordert-haben](https://www.spiegel.de/ausland/donald-trump-us-nationalarchiv-soll-justizministerium-zu-ermittlungen-aufgefordert-haben-a-7fd2154a-a508-45b2-8263-87e334d22850#ref=rss)
+### trump
 
-* [https://www.spiegel.de/panorama/justiz/berlin-polizei-korrigiert-angaben-zu-angriff-auf-17-jaehrige-in-tram](https://www.spiegel.de/panorama/justiz/berlin-polizei-korrigiert-angaben-zu-angriff-auf-17-jaehrige-in-tram-a-cca5af85-0e3e-42d1-b18a-c19bfedf7cc6#ref=rss)
-### kernfusion
+* [https://www.spiegel.de/ausland/donald-trump-us-nationalarchiv-soll-justizministerium-zu-ermittlungen-aufgefordert-haben](https://www.spiegel.de/ausland/donald-trump-us-nationalarchiv-soll-justizministerium-zu-ermittlungen-aufgefordert-haben-a-7fd2154a-a508-45b2-8263-87e334d22850#ref=rss)
+### strom
 
-* [https://www.spiegel.de/wissenschaft/technik/kernfusion-jet-projekt-in-oxford-meldet-energie-weltrekord](https://www.spiegel.de/wissenschaft/technik/kernfusion-jet-projekt-in-oxford-meldet-energie-weltrekord-a-354d5608-bbed-48ff-985b-3c86ad78e94a#ref=rss)
-### gitanas
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise](https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise-a-59b27373-8aff-441a-a5d7-13c86a422235#ref=rss)
+### gas
 
-* [https://www.spiegel.de/ausland/litauen-praesident-gitanas-naus-da-putin-will-zurueck-zu-groesse-und-einfluss](https://www.spiegel.de/ausland/litauen-praesident-gitanas-naus-da-putin-will-zurueck-zu-groesse-und-einfluss-a-060c502a-2864-40f4-af3f-8bc2614f6f86#ref=rss)
-### nausėda
-
-* [https://www.spiegel.de/ausland/litauen-praesident-gitanas-naus-da-putin-will-zurueck-zu-groesse-und-einfluss](https://www.spiegel.de/ausland/litauen-praesident-gitanas-naus-da-putin-will-zurueck-zu-groesse-und-einfluss-a-060c502a-2864-40f4-af3f-8bc2614f6f86#ref=rss)
-### größe
-
-* [https://www.spiegel.de/ausland/litauen-praesident-gitanas-naus-da-putin-will-zurueck-zu-groesse-und-einfluss](https://www.spiegel.de/ausland/litauen-praesident-gitanas-naus-da-putin-will-zurueck-zu-groesse-und-einfluss-a-060c502a-2864-40f4-af3f-8bc2614f6f86#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/galaxy-s22-und-galaxy-tab-s8-samsung-stellt-neue-smartphones-und-xxl-tablet-vor](https://www.spiegel.de/netzwelt/gadgets/galaxy-s22-und-galaxy-tab-s8-samsung-stellt-neue-smartphones-und-xxl-tablet-vor-a-527d4d4c-bc57-4cde-b4cf-6f850e5ce571#ref=rss)
-### douglas
-
-* [https://www.spiegel.de/kultur/kino/douglas-trumbull-spezialeffekte-visionaer-und-regisseur-ist-tot-als-ob-man-gott-fotografiert](https://www.spiegel.de/kultur/kino/douglas-trumbull-spezialeffekte-visionaer-und-regisseur-ist-tot-als-ob-man-gott-fotografiert-a-2270f130-0400-4d31-a1a3-ac2618294f70#ref=rss)
-### trumbull
-
-* [https://www.spiegel.de/kultur/kino/douglas-trumbull-spezialeffekte-visionaer-und-regisseur-ist-tot-als-ob-man-gott-fotografiert](https://www.spiegel.de/kultur/kino/douglas-trumbull-spezialeffekte-visionaer-und-regisseur-ist-tot-als-ob-man-gott-fotografiert-a-2270f130-0400-4d31-a1a3-ac2618294f70#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes](https://www.spiegel.de/politik/deutschland/coronavirus-olaf-scholz-erwartet-umsetzung-des-impfpflicht-gesetzes-a-9a2516f0-4f65-488b-8674-a8c1a36d5b9b#ref=rss)
-### galaxy
-
-* [https://www.spiegel.de/netzwelt/gadgets/galaxy-s22-und-galaxy-tab-s8-samsung-stellt-neue-smartphones-und-xxl-tablet-vor](https://www.spiegel.de/netzwelt/gadgets/galaxy-s22-und-galaxy-tab-s8-samsung-stellt-neue-smartphones-und-xxl-tablet-vor-a-527d4d4c-bc57-4cde-b4cf-6f850e5ce571#ref=rss)
-### 1940
-
-* [https://www.spiegel.de/geschichte/wie-reinhard-heydrich-1940-praesident-von-interpol-wurde](https://www.spiegel.de/geschichte/wie-reinhard-heydrich-1940-praesident-von-interpol-wurde-a-7e6fc7da-2646-4628-ae46-ec83df183082#ref=rss)
-### interpol
-
-* [https://www.spiegel.de/geschichte/wie-reinhard-heydrich-1940-praesident-von-interpol-wurde](https://www.spiegel.de/geschichte/wie-reinhard-heydrich-1940-praesident-von-interpol-wurde-a-7e6fc7da-2646-4628-ae46-ec83df183082#ref=rss)
-### stand
-
-* [https://www.spiegel.de/geschichte/wie-reinhard-heydrich-1940-praesident-von-interpol-wurde](https://www.spiegel.de/geschichte/wie-reinhard-heydrich-1940-praesident-von-interpol-wurde-a-7e6fc7da-2646-4628-ae46-ec83df183082#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise](https://www.spiegel.de/wirtschaft/strom-und-gas-62-prozent-machen-sich-sorgen-wegen-der-hohen-energiepreise-a-59b27373-8aff-441a-a5d7-13c86a422235#ref=rss)
 
