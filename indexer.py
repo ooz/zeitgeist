@@ -11,7 +11,7 @@ title: Zeitgeist
 tags: __no_header__, __no_footer__
 ---
 
-# [Zeitgeist](https://oliz.io/zeitgeist/) [![Zeitgeist CircleCI build indicator](https://circleci.com/gh/ooz/zeitgeist.svg?style=shield)](https://circleci.com/gh/ooz/zeitgeist)
+# [Zeitgeist](https://oliz.io/zeitgeist/)
 
 ## Language
 
@@ -26,9 +26,11 @@ tags: __no_header__, __no_footer__
 {investments}
 ```
 
+## [Weather](weather.html)
+
 <footer>
 <a href="javascript:toggleTheme()" class="nav">🌓</a>
-- <a href="https://github.com/ooz/zeitgeist">code</a> measuring the Zeitgeist since 2019, by <a href="https://oliz.io">oz</a>
+<a href="https://github.com/ooz/zeitgeist">code</a> measuring the Zeitgeist since 2019, by <a href="https://oliz.io">oz</a>
 </footer>
 '''
 
