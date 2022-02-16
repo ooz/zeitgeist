@@ -29,10 +29,6 @@ tags: __no_header__
 
 * [https://www.spiegel.de/sport/olympia/olympia-2022-langlauf-gold-fuer-katharina-hennig-und-victoria-carl-unfassbar](https://www.spiegel.de/sport/olympia/olympia-2022-langlauf-gold-fuer-katharina-hennig-und-victoria-carl-unfassbar-a-efe50d42-376b-43f3-ba75-6aeb2e23ddf4#ref=rss)
 * [https://www.spiegel.de/sport/olympia/olympia-2022-victoria-carl-und-katharina-henning-holen-gold-im-teamsprint](https://www.spiegel.de/sport/olympia/olympia-2022-victoria-carl-und-katharina-henning-holen-gold-im-teamsprint-a-c991d857-3ac4-4a69-9a32-9c79bed3d244#ref=rss)
-### 2021
-
-* [https://www.spiegel.de/politik/martina-fietz-fruehere-vize-regierungssprecherin-gestorben](https://www.spiegel.de/politik/martina-fietz-fruehere-vize-regierungssprecherin-gestorben-a-e8a33c7e-8283-41f1-a0ac-e776e115a075#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf](https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf-a-2e6151d2-1052-4649-b572-27fbbcd4aa85#ref=rss)
 ### playmobil
 
 * [https://www.spiegel.de/wirtschaft/playmobil-ist-an-uebernahme-von-schleich-interessiert](https://www.spiegel.de/wirtschaft/playmobil-ist-an-uebernahme-von-schleich-interessiert-a-00662d38-0d02-4112-ba5a-d687e1b2fc78#ref=rss)
@@ -50,10 +46,6 @@ tags: __no_header__
 
 * [https://www.spiegel.de/wirtschaft/soziales/hans-boeckler-stiftung-jede-fuenfte-mutter-reduziert-wegen-corona-ihre-arbeitszeit](https://www.spiegel.de/wirtschaft/soziales/hans-boeckler-stiftung-jede-fuenfte-mutter-reduziert-wegen-corona-ihre-arbeitszeit-a-35c0701c-36bb-459e-87ae-8c95e9c5f1ac#ref=rss)
 * [https://www.spiegel.de/geschichte/sturmflut-1962-in-hamburg-aufstehen-wir-saufen-ab](https://www.spiegel.de/geschichte/sturmflut-1962-in-hamburg-aufstehen-wir-saufen-ab-a-5025a565-278f-41da-904e-a60758ec898d#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/wetter-unwetterwarnung-orkanboeen-ziehen-ueber-deutschland-schule-faellt-am-donnerstag-in-nrw-aus](https://www.spiegel.de/panorama/wetter-unwetterwarnung-orkanboeen-ziehen-ueber-deutschland-schule-faellt-am-donnerstag-in-nrw-aus-a-7f503bcb-502e-4ee7-8a22-4276646ceab9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf](https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf-a-2e6151d2-1052-4649-b572-27fbbcd4aa85#ref=rss)
 ### gollust
 
 * [https://www.spiegel.de/kultur/cnn-marketing-chefin-allison-gollust-tritt-wegen-verhaeltnis-mit-jeff-zucker-zurueck](https://www.spiegel.de/kultur/cnn-marketing-chefin-allison-gollust-tritt-wegen-verhaeltnis-mit-jeff-zucker-zurueck-a-f663eb9c-d7c6-42e5-85f7-8a3c906d5757#ref=rss)
@@ -65,6 +57,22 @@ tags: __no_header__
 
 * [https://www.spiegel.de/wirtschaft/unternehmen/lars-windhorst-gegen-hertha-bsc-lasse-mir-von-niemandem-375-millionen-euro-verbrennen](https://www.spiegel.de/wirtschaft/unternehmen/lars-windhorst-gegen-hertha-bsc-lasse-mir-von-niemandem-375-millionen-euro-verbrennen-a-66039f84-d373-4809-b552-d56ff458cc09#ref=rss)
 * [https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-ether-ripple-eu-parlamentarier-gegen-anonyme-zahlungen-mit-kryptowaehrungen](https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-ether-ripple-eu-parlamentarier-gegen-anonyme-zahlungen-mit-kryptowaehrungen-a-116ce46e-9676-4e4a-b969-513adb5499e4#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/wirtschaft/soziales/europaeische-volkspartei-will-notbremse-fuer-co2-preis-einfuehren](https://www.spiegel.de/wirtschaft/soziales/europaeische-volkspartei-will-notbremse-fuer-co2-preis-einfuehren-a-e1482e94-134c-458d-beac-1fa83df56375#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesregierung-will-mieter-beim-co-preis-deutlich-entlasten](https://www.spiegel.de/wirtschaft/bundesregierung-will-mieter-beim-co-preis-deutlich-entlasten-a-87b544bb-ca49-4c34-b44f-183971bb4353#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/wirtschaft/soziales/europaeische-volkspartei-will-notbremse-fuer-co2-preis-einfuehren](https://www.spiegel.de/wirtschaft/soziales/europaeische-volkspartei-will-notbremse-fuer-co2-preis-einfuehren-a-e1482e94-134c-458d-beac-1fa83df56375#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesregierung-will-mieter-beim-co-preis-deutlich-entlasten](https://www.spiegel.de/wirtschaft/bundesregierung-will-mieter-beim-co-preis-deutlich-entlasten-a-87b544bb-ca49-4c34-b44f-183971bb4353#ref=rss)
+### eukommission
+
+* [https://www.spiegel.de/wirtschaft/soziales/europaeische-volkspartei-will-notbremse-fuer-co2-preis-einfuehren](https://www.spiegel.de/wirtschaft/soziales/europaeische-volkspartei-will-notbremse-fuer-co2-preis-einfuehren-a-e1482e94-134c-458d-beac-1fa83df56375#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-ether-ripple-eu-parlamentarier-gegen-anonyme-zahlungen-mit-kryptowaehrungen](https://www.spiegel.de/netzwelt/netzpolitik/bitcoin-ether-ripple-eu-parlamentarier-gegen-anonyme-zahlungen-mit-kryptowaehrungen-a-116ce46e-9676-4e4a-b969-513adb5499e4#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/soziales/europaeische-volkspartei-will-notbremse-fuer-co2-preis-einfuehren](https://www.spiegel.de/wirtschaft/soziales/europaeische-volkspartei-will-notbremse-fuer-co2-preis-einfuehren-a-e1482e94-134c-458d-beac-1fa83df56375#ref=rss)
+* [https://www.spiegel.de/ausland/somalia-mehrere-tote-bei-schwerer-terrorattacke-in-mogadischu](https://www.spiegel.de/ausland/somalia-mehrere-tote-bei-schwerer-terrorattacke-in-mogadischu-a-a4567e05-83b4-4ba3-bb53-8e354949fb00#ref=rss)
 ### olympia
 
 * [https://www.spiegel.de/sport/olympia/olympia-2022-langlauf-gold-fuer-katharina-hennig-und-victoria-carl-unfassbar](https://www.spiegel.de/sport/olympia/olympia-2022-langlauf-gold-fuer-katharina-hennig-und-victoria-carl-unfassbar-a-efe50d42-376b-43f3-ba75-6aeb2e23ddf4#ref=rss)
@@ -172,14 +180,6 @@ tags: __no_header__
 ### sydney
 
 * [https://www.spiegel.de/panorama/australien-erster-toedlicher-haiangriff-in-sydney-seit-jahrzehnten](https://www.spiegel.de/panorama/australien-erster-toedlicher-haiangriff-in-sydney-seit-jahrzehnten-a-993066c4-bb37-4280-b0a6-3c3aca893541#ref=rss)
-### jahrzehnten
-
-* [https://www.spiegel.de/panorama/australien-erster-toedlicher-haiangriff-in-sydney-seit-jahrzehnten](https://www.spiegel.de/panorama/australien-erster-toedlicher-haiangriff-in-sydney-seit-jahrzehnten-a-993066c4-bb37-4280-b0a6-3c3aca893541#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf](https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf-a-2e6151d2-1052-4649-b572-27fbbcd4aa85#ref=rss)
-### fast
-
-* [https://www.spiegel.de/panorama/australien-erster-toedlicher-haiangriff-in-sydney-seit-jahrzehnten](https://www.spiegel.de/panorama/australien-erster-toedlicher-haiangriff-in-sydney-seit-jahrzehnten-a-993066c4-bb37-4280-b0a6-3c3aca893541#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf](https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf-a-2e6151d2-1052-4649-b572-27fbbcd4aa85#ref=rss)
 ### jahre
 
 * [https://www.spiegel.de/panorama/australien-erster-toedlicher-haiangriff-in-sydney-seit-jahrzehnten](https://www.spiegel.de/panorama/australien-erster-toedlicher-haiangriff-in-sydney-seit-jahrzehnten-a-993066c4-bb37-4280-b0a6-3c3aca893541#ref=rss)
@@ -192,10 +192,6 @@ tags: __no_header__
 
 * [https://www.spiegel.de/panorama/australien-erster-toedlicher-haiangriff-in-sydney-seit-jahrzehnten](https://www.spiegel.de/panorama/australien-erster-toedlicher-haiangriff-in-sydney-seit-jahrzehnten-a-993066c4-bb37-4280-b0a6-3c3aca893541#ref=rss)
 * [https://www.spiegel.de/panorama/wetter-unwetterwarnung-orkanboeen-ziehen-ueber-deutschland-schule-faellt-am-donnerstag-in-nrw-aus](https://www.spiegel.de/panorama/wetter-unwetterwarnung-orkanboeen-ziehen-ueber-deutschland-schule-faellt-am-donnerstag-in-nrw-aus-a-7f503bcb-502e-4ee7-8a22-4276646ceab9#ref=rss)
-### komplett
-
-* [https://www.spiegel.de/panorama/australien-erster-toedlicher-haiangriff-in-sydney-seit-jahrzehnten](https://www.spiegel.de/panorama/australien-erster-toedlicher-haiangriff-in-sydney-seit-jahrzehnten-a-993066c4-bb37-4280-b0a6-3c3aca893541#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf](https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf-a-2e6151d2-1052-4649-b572-27fbbcd4aa85#ref=rss)
 ### streifenwagen
 
 * [https://www.spiegel.de/panorama/thueringen-mann-schiesst-auf-streifenwagen-festnahme](https://www.spiegel.de/panorama/thueringen-mann-schiesst-auf-streifenwagen-festnahme-a-290c410c-0eb9-48f6-87c4-c1f43b76e12e#ref=rss)
@@ -208,6 +204,9 @@ tags: __no_header__
 * [https://www.spiegel.de/panorama/thueringen-mann-schiesst-auf-streifenwagen-festnahme](https://www.spiegel.de/panorama/thueringen-mann-schiesst-auf-streifenwagen-festnahme-a-290c410c-0eb9-48f6-87c4-c1f43b76e12e#ref=rss)
 * [https://www.spiegel.de/panorama/fuchsstadt-in-bayern-mann-ueberschwemmt-hof-mit-tausend-kubikmeter-guelle](https://www.spiegel.de/panorama/fuchsstadt-in-bayern-mann-ueberschwemmt-hof-mit-tausend-kubikmeter-guelle-a-c0873b1e-d725-4fe2-8653-b95070ddf464#ref=rss)
 ### orkanböen
+
+* [https://www.spiegel.de/panorama/wetter-unwetterwarnung-orkanboeen-ziehen-ueber-deutschland-schule-faellt-am-donnerstag-in-nrw-aus](https://www.spiegel.de/panorama/wetter-unwetterwarnung-orkanboeen-ziehen-ueber-deutschland-schule-faellt-am-donnerstag-in-nrw-aus-a-7f503bcb-502e-4ee7-8a22-4276646ceab9#ref=rss)
+### deutschland
 
 * [https://www.spiegel.de/panorama/wetter-unwetterwarnung-orkanboeen-ziehen-ueber-deutschland-schule-faellt-am-donnerstag-in-nrw-aus](https://www.spiegel.de/panorama/wetter-unwetterwarnung-orkanboeen-ziehen-ueber-deutschland-schule-faellt-am-donnerstag-in-nrw-aus-a-7f503bcb-502e-4ee7-8a22-4276646ceab9#ref=rss)
 ### erwartet
@@ -246,10 +245,6 @@ tags: __no_header__
 ### zucker
 
 * [https://www.spiegel.de/kultur/cnn-marketing-chefin-allison-gollust-tritt-wegen-verhaeltnis-mit-jeff-zucker-zurueck](https://www.spiegel.de/kultur/cnn-marketing-chefin-allison-gollust-tritt-wegen-verhaeltnis-mit-jeff-zucker-zurueck-a-f663eb9c-d7c6-42e5-85f7-8a3c906d5757#ref=rss)
-### inflation
-
-* [https://www.spiegel.de/wirtschaft/inflation-ezb-direktorin-isabel-schnabel-sieht-erhoehtes-risiko-bei-zu-spaetem-handeln](https://www.spiegel.de/wirtschaft/inflation-ezb-direktorin-isabel-schnabel-sieht-erhoehtes-risiko-bei-zu-spaetem-handeln-a-d8f0a5db-5f2b-409c-ae4c-9153277d9282#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf](https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf-a-2e6151d2-1052-4649-b572-27fbbcd4aa85#ref=rss)
 ### ezbdirektorin
 
 * [https://www.spiegel.de/wirtschaft/inflation-ezb-direktorin-isabel-schnabel-sieht-erhoehtes-risiko-bei-zu-spaetem-handeln](https://www.spiegel.de/wirtschaft/inflation-ezb-direktorin-isabel-schnabel-sieht-erhoehtes-risiko-bei-zu-spaetem-handeln-a-d8f0a5db-5f2b-409c-ae4c-9153277d9282#ref=rss)
@@ -318,10 +313,6 @@ tags: __no_header__
 ### millionen
 
 * [https://www.spiegel.de/wirtschaft/unternehmen/lars-windhorst-gegen-hertha-bsc-lasse-mir-von-niemandem-375-millionen-euro-verbrennen](https://www.spiegel.de/wirtschaft/unternehmen/lars-windhorst-gegen-hertha-bsc-lasse-mir-von-niemandem-375-millionen-euro-verbrennen-a-66039f84-d373-4809-b552-d56ff458cc09#ref=rss)
-### verloren
-
-* [https://www.spiegel.de/wissenschaft/mensch/hamburg-und-die-flutgefahr-das-risikobewusstsein-darf-nicht-verloren-gehen](https://www.spiegel.de/wissenschaft/mensch/hamburg-und-die-flutgefahr-das-risikobewusstsein-darf-nicht-verloren-gehen-a-14d117e4-7f25-4475-801d-165b549145da#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf](https://www.spiegel.de/wirtschaft/soziales/realloehne-sinken-inflation-zehrt-lohnzuwachs-2021-komplett-auf-a-2e6151d2-1052-4649-b572-27fbbcd4aa85#ref=rss)
 ### tote
 
 * [https://www.spiegel.de/wissenschaft/mensch/hamburg-und-die-flutgefahr-das-risikobewusstsein-darf-nicht-verloren-gehen](https://www.spiegel.de/wissenschaft/mensch/hamburg-und-die-flutgefahr-das-risikobewusstsein-darf-nicht-verloren-gehen-a-14d117e4-7f25-4475-801d-165b549145da#ref=rss)
