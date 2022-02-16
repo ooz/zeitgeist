@@ -12,19 +12,9 @@ commands:
             make install_pipenv
             make init
 jobs:
-  test:
-    docker:
-      - image: circleci/python:3.6.7
-    steps:
-      - checkout
-      - install-dependencies
-      - run:
-          name: Test
-          command: |
-            make test
   track-all:
     docker:
-      - image: circleci/python:3.6.7
+      - image: circleci/python:3.8.10
     steps:
       - checkout
       - add-ssh-key
@@ -34,7 +24,7 @@ jobs:
             make
   track-often:
     docker:
-      - image: circleci/python:3.6.7
+      - image: circleci/python:3.8.10
     steps:
       - checkout
       - add-ssh-key
@@ -44,7 +34,7 @@ jobs:
             make often
   track-rarely:
     docker:
-      - image: circleci/python:3.6.7
+      - image: circleci/python:3.8.10
     steps:
       - checkout
       - add-ssh-key
@@ -58,10 +48,7 @@ workflows:
   # 1st
   on-commit:
     jobs:
-      - test
       - track-all:
-          requires:
-            - test
           filters:
             branches:
               only:
