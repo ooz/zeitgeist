@@ -122,13 +122,13 @@ chelsea(482) positionen(482) unentschieden(482) zeugen(481) arbeitsplatz(480) be
 
 ```
 date, investment, buy price, sell price
-2022-02-09 10:09:53, 1-EUR, 1.14 USD, 1.14 USD
-2022-02-09 10:09:53, 1-EUR, 7.26 CNY, 7.26 CNY
-2022-02-09 10:09:54, crude-oil-brent-barrel, 90.53 USD, 90.53 USD
-2022-02-09 10:09:54, gold-10g, 537.49 EUR, 509.35 EUR
-2022-02-09 10:09:59, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2022-02-09 10:10:00, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
-2022-02-09 10:10:02, lego-2019-60225-1-rovertestfahrt, 25.0 USD, 25.0 USD
+2022-02-16 10:09:59, 1-EUR, 1.13 USD, 1.13 USD
+2022-02-16 10:09:59, 1-EUR, 7.19 CNY, 7.19 CNY
+2022-02-16 10:10:00, crude-oil-brent-barrel, 94.0 USD, 94.0 USD
+2022-02-16 10:10:00, gold-10g, 548.36 EUR, 520.11 EUR
+2022-02-16 10:10:06, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2022-02-16 10:10:07, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
+2022-02-16 10:10:09, lego-2019-60225-1-rovertestfahrt, 24.0 USD, 24.0 USD
 ```
 
 <footer>
