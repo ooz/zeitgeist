@@ -119,13 +119,13 @@ liverpool(489) beobachtet(488) profi(488) spahn(488) diktator(487) erholung(487)
 
 ```
 date, investment, buy price, sell price
-2022-02-16 13:15:23, 1-EUR, 1.13 USD, 1.13 USD
-2022-02-16 13:15:23, 1-EUR, 7.19 CNY, 7.19 CNY
-2022-02-16 13:15:23, crude-oil-brent-barrel, 94.51 USD, 94.51 USD
-2022-02-16 13:15:23, gold-10g, 546.71 EUR, 518.67 EUR
-2022-02-16 13:15:29, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2022-02-16 13:15:31, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
-2022-02-16 13:15:32, lego-2019-60225-1-rovertestfahrt, 24.0 USD, 24.0 USD
+2022-02-23 10:10:09, 1-EUR, 1.13 USD, 1.13 USD
+2022-02-23 10:10:09, 1-EUR, 7.17 CNY, 7.17 CNY
+2022-02-23 10:10:09, crude-oil-brent-barrel, 95.82 USD, 95.82 USD
+2022-02-23 10:10:09, gold-10g, 559.14 EUR, 530.74 EUR
+2022-02-23 10:10:15, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2022-02-23 10:10:16, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
+2022-02-23 10:10:17, lego-2019-60225-1-rovertestfahrt, 24.0 USD, 24.0 USD
 ```
 
 ## [Weather](weather.html)
