@@ -4,321 +4,295 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ukraine
-
-* [https://www.spiegel.de/netzwelt/games/itch-io-bundle-for-ukraine-spendenaktion-mit-hunderten-games-ab-zehn-dollar](https://www.spiegel.de/netzwelt/games/itch-io-bundle-for-ukraine-spendenaktion-mit-hunderten-games-ab-zehn-dollar-a-7551235d-a2e6-44a0-8fd1-a18dc72b53b1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-generalbundesanwalt-ermittelt-wegen-verdacht-auf-russische-kriegsverbrechen](https://www.spiegel.de/politik/deutschland/ukraine-generalbundesanwalt-ermittelt-wegen-verdacht-auf-russische-kriegsverbrechen-a-20b9eb86-3c2d-4487-a411-cbe1ae458022#ref=rss)
-* [https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro](https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro-a-5e35beaf-a4bf-421b-bd19-a764bde1372f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen](https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen-a-7307f850-a403-4540-b774-6aa986b82ed7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krieg-in-der-ukraine-us-demokraten-bereiten-milliarden-hilfspaket-fuer-ukraine-vor](https://www.spiegel.de/wirtschaft/krieg-in-der-ukraine-us-demokraten-bereiten-milliarden-hilfspaket-fuer-ukraine-vor-a-d893a3a2-6861-4555-82bc-5a0f1bd71c25#ref=rss)
-* [https://www.spiegel.de/ausland/russland-sanktionen-ukraine-fordert-russisches-energieembargo-deutschland-will-nicht](https://www.spiegel.de/ausland/russland-sanktionen-ukraine-fordert-russisches-energieembargo-deutschland-will-nicht-a-24f2c331-8437-4ee3-b996-c97fc642839d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/atomkraftwerke-in-der-ukraine-wuerden-wir-von-einem-atomunfall-erfahren](https://www.spiegel.de/wissenschaft/technik/atomkraftwerke-in-der-ukraine-wuerden-wir-von-einem-atomunfall-erfahren-a-d5eac030-fd15-4c11-beec-4f09845f2209#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/wirtschaft/russland-zahlt-nur-noch-rubel-an-unfreundliche-staaten](https://www.spiegel.de/wirtschaft/russland-zahlt-nur-noch-rubel-an-unfreundliche-staaten-a-c99d1fdb-6e26-487d-89b1-1c0ea8116f60#ref=rss)
-* [https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen](https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen-a-7307f850-a403-4540-b774-6aa986b82ed7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/oelembargo-gegen-russland-moeglich-und-doch-unmoeglich](https://www.spiegel.de/wirtschaft/soziales/oelembargo-gegen-russland-moeglich-und-doch-unmoeglich-a-cd0e9e77-fd9f-47d4-9653-0b3f3d84c334#ref=rss)
-* [https://www.spiegel.de/ausland/russland-sanktionen-ukraine-fordert-russisches-energieembargo-deutschland-will-nicht](https://www.spiegel.de/ausland/russland-sanktionen-ukraine-fordert-russisches-energieembargo-deutschland-will-nicht-a-24f2c331-8437-4ee3-b996-c97fc642839d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/atomkonzerne-verweisen-auf-hohe-huerden-fuer-laufzeitverlaengerung](https://www.spiegel.de/wirtschaft/unternehmen/atomkonzerne-verweisen-auf-hohe-huerden-fuer-laufzeitverlaengerung-a-1ca69d07-b502-4c66-b999-ec3a22f9d905#ref=rss)
-### wir
+* [https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland](https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland-a-d5d644c0-6b32-4c9a-a8ce-69c1e5531f4b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-will-gasimporte-aus-russland-um-zwei-drittel-reduzieren](https://www.spiegel.de/wirtschaft/eu-will-gasimporte-aus-russland-um-zwei-drittel-reduzieren-a-26442635-84e2-468e-b121-9a2ec5019d10#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-loest-tv-vertrag-mit-russland-auf](https://www.spiegel.de/sport/fussball/premier-league-loest-tv-vertrag-mit-russland-auf-a-69c8d1c1-cead-4cfd-a704-65725a5aa438#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof](https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof-a-71f0cc20-c2a0-48f3-9b3b-231a8396bc2c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forschung-kooperationen-mit-russland-dieser-krieg-wird-zu-schweren-verwerfungen-fuehren](https://www.spiegel.de/wissenschaft/forschung-kooperationen-mit-russland-dieser-krieg-wird-zu-schweren-verwerfungen-fuehren-a-b4a141fb-563c-4ab8-8105-429272a1b1e3#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-im-ukraine-krieg-wie-der-gejagte-zum-jaeger-werden-will](https://www.spiegel.de/ausland/russlands-drohnen-im-ukraine-krieg-wie-der-gejagte-zum-jaeger-werden-will-a-6dce020b-5056-43d3-8dd4-66008434eddb#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland](https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland-a-2908aa70-7c64-46fb-8b49-e0b06389529b#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen](https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen-a-c3b1e46d-bed2-4456-b53c-253094ebf9bb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/atomkraftwerke-in-der-ukraine-wuerden-wir-von-einem-atomunfall-erfahren](https://www.spiegel.de/wissenschaft/technik/atomkraftwerke-in-der-ukraine-wuerden-wir-von-einem-atomunfall-erfahren-a-d5eac030-fd15-4c11-beec-4f09845f2209#ref=rss)
-### vorerst
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union-a-db1bfb35-3b2b-4477-9a6b-6dba59c7161d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-oel-und-gas-hilfe-fuer-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-oel-und-gas-hilfe-fuer-ukraine-a-fe466f2c-2d05-4679-9a94-d70495f557b6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-loest-tv-vertrag-mit-russland-auf](https://www.spiegel.de/sport/fussball/premier-league-loest-tv-vertrag-mit-russland-auf-a-69c8d1c1-cead-4cfd-a704-65725a5aa438#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof](https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof-a-71f0cc20-c2a0-48f3-9b3b-231a8396bc2c#ref=rss)
+* [https://www.spiegel.de/psychologie/krieg-in-der-ukraine-jugendaengste-koennten-wahr-werden](https://www.spiegel.de/psychologie/krieg-in-der-ukraine-jugendaengste-koennten-wahr-werden-a-80b67da6-c818-4dec-bccd-6ef402db3bd9#ref=rss)
+* [https://www.spiegel.de/kultur/fluechtende-aus-der-ukraine-finger-weg-von-den-frauen-kolumne](https://www.spiegel.de/kultur/fluechtende-aus-der-ukraine-finger-weg-von-den-frauen-kolumne-a-210cb3cd-b0c2-45c3-94f1-50c4863b7a89#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten](https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten-a-94d07675-bc4d-4a7f-8e0b-33584a981b14#ref=rss)
+### ukrainekrieg
 
-* [https://www.spiegel.de/kultur/russland-ukraine-krieg-internationale-taenzer-verlassen-aus-protest-russische-ballet-kompanien](https://www.spiegel.de/kultur/russland-ukraine-krieg-internationale-taenzer-verlassen-aus-protest-russische-ballet-kompanien-a-e0338b58-25a6-49d7-a5d5-1f5785b80350#ref=rss)
-* [https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen](https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen-a-7307f850-a403-4540-b774-6aa986b82ed7#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-ausraster-zu-bewaehrungssperre-verurteilt](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-ausraster-zu-bewaehrungssperre-verurteilt-a-cc45420a-7d84-4571-b1d8-83e429c5adf0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten](https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten-a-5cacf099-dd3a-4abb-b7ab-160f4d3ad013#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/kammer-laesst-nach-toedlicher-raserei-anklage-wegen-mordes-zu](https://www.spiegel.de/panorama/justiz/kammer-laesst-nach-toedlicher-raserei-anklage-wegen-mordes-zu-a-a94e7ce9-7776-4fe8-8694-5420b2f86730#ref=rss)
-* [https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro](https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro-a-5e35beaf-a4bf-421b-bd19-a764bde1372f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/atomkonzerne-verweisen-auf-hohe-huerden-fuer-laufzeitverlaengerung](https://www.spiegel.de/wirtschaft/unternehmen/atomkonzerne-verweisen-auf-hohe-huerden-fuer-laufzeitverlaengerung-a-1ca69d07-b502-4c66-b999-ec3a22f9d905#ref=rss)
-### euro
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-verband-will-100-milliarden-euro-komplett-in-ausruestung-stecken](https://www.spiegel.de/politik/deutschland/bundeswehr-verband-will-100-milliarden-euro-komplett-in-ausruestung-stecken-a-8c6aca6f-9e78-414a-9aab-d85859cb3f1c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro](https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro-a-5e35beaf-a4bf-421b-bd19-a764bde1372f#ref=rss)
-### juan
-
-* [https://www.spiegel.de/panorama/gesellschaft/italien-faengt-problembaer-juan-carrito-in-den-abruzzen-ein](https://www.spiegel.de/panorama/gesellschaft/italien-faengt-problembaer-juan-carrito-in-den-abruzzen-ein-a-cb4b6318-9a81-48ad-8b7e-af933f3a443e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten](https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten-a-5cacf099-dd3a-4abb-b7ab-160f4d3ad013#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/netzwelt/games/itch-io-bundle-for-ukraine-spendenaktion-mit-hunderten-games-ab-zehn-dollar](https://www.spiegel.de/netzwelt/games/itch-io-bundle-for-ukraine-spendenaktion-mit-hunderten-games-ab-zehn-dollar-a-7551235d-a2e6-44a0-8fd1-a18dc72b53b1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/oelembargo-gegen-russland-moeglich-und-doch-unmoeglich](https://www.spiegel.de/wirtschaft/soziales/oelembargo-gegen-russland-moeglich-und-doch-unmoeglich-a-cd0e9e77-fd9f-47d4-9653-0b3f3d84c334#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-covid-19-kann-das-gehirn-schrumpfen-lassen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-covid-19-kann-das-gehirn-schrumpfen-lassen-a-a83bda90-15e5-4576-8c53-7c8327bdeb2e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden](https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden-a-f899f5a5-9c5c-4175-968c-1e0e3a7f46bc#ref=rss)
-* [https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert](https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert-a-0be87d45-1b5a-4d7e-8d29-d54111a117af#ref=rss)
-### robert
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-gegen-laengere-laufzeiten-von-atomkraftwerken](https://www.spiegel.de/politik/deutschland/robert-habeck-gegen-laengere-laufzeiten-von-atomkraftwerken-a-f014a9ab-5827-49aa-8d72-1fd18d35e9f0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden](https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden-a-f899f5a5-9c5c-4175-968c-1e0e3a7f46bc#ref=rss)
-### öl
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-gegen-laengere-laufzeiten-von-atomkraftwerken](https://www.spiegel.de/politik/deutschland/robert-habeck-gegen-laengere-laufzeiten-von-atomkraftwerken-a-f014a9ab-5827-49aa-8d72-1fd18d35e9f0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/bremen-und-hamburg-aktivisten-bespruehen-frachter-mit-russischem-oel-oder-kohle](https://www.spiegel.de/panorama/gesellschaft/bremen-und-hamburg-aktivisten-bespruehen-frachter-mit-russischem-oel-oder-kohle-a-173f9f13-c819-4ea9-b14b-bee0c9f9e56f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-die-probleme-von-russlands-streitkraeften](https://www.spiegel.de/ausland/ukraine-krieg-die-probleme-von-russlands-streitkraeften-a-d24cbdf6-3e46-4c8f-8f2e-f746f6a5faea#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-oel-und-gas-hilfe-fuer-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-oel-und-gas-hilfe-fuer-ukraine-a-fe466f2c-2d05-4679-9a94-d70495f557b6#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-im-ukraine-krieg-wie-der-gejagte-zum-jaeger-werden-will](https://www.spiegel.de/ausland/russlands-drohnen-im-ukraine-krieg-wie-der-gejagte-zum-jaeger-werden-will-a-6dce020b-5056-43d3-8dd4-66008434eddb#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland](https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland-a-2908aa70-7c64-46fb-8b49-e0b06389529b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-witalij-war-einer-der-ersten-toten-mein-herz-ist-gebrochen](https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-witalij-war-einer-der-ersten-toten-mein-herz-ist-gebrochen-a-2a238546-c658-4b96-9f08-8c48c46d52a2#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-in-bildern-wie-menschen-fliehen-unterwegs-in-europa](https://www.spiegel.de/ausland/ukrainekrieg-in-bildern-wie-menschen-fliehen-unterwegs-in-europa-a-d09e9b75-4e7c-4e8b-87de-d5a398447dcc#ref=rss)
 ### frauen
 
-* [https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen](https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen-a-c3b1e46d-bed2-4456-b53c-253094ebf9bb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/weltfrauentag-warnstreiks-in-kitas-starten](https://www.spiegel.de/wirtschaft/weltfrauentag-warnstreiks-in-kitas-starten-a-4fc93e27-3b35-4fbb-9721-94a8c24d4630#ref=rss)
-* [https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert](https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert-a-0be87d45-1b5a-4d7e-8d29-d54111a117af#ref=rss)
-### deutschland
+* [https://www.spiegel.de/politik/deutschland/internationaler-frauentag-maenner-sorgt-euch](https://www.spiegel.de/politik/deutschland/internationaler-frauentag-maenner-sorgt-euch-a-c97769d5-fba3-4426-a920-ee8cc1eed39e#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-muss-frauentag-nur-im-stillen-begehen](https://www.spiegel.de/ausland/afghanistan-muss-frauentag-nur-im-stillen-begehen-a-0ad4e9ea-a777-4733-8610-74ae2b52b3b4#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt](https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt-a-d1a0d242-4d4f-491a-a89f-348ee6849aa2#ref=rss)
+* [https://www.spiegel.de/kultur/fluechtende-aus-der-ukraine-finger-weg-von-den-frauen-kolumne](https://www.spiegel.de/kultur/fluechtende-aus-der-ukraine-finger-weg-von-den-frauen-kolumne-a-210cb3cd-b0c2-45c3-94f1-50c4863b7a89#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro](https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro-a-5e35beaf-a4bf-421b-bd19-a764bde1372f#ref=rss)
-* [https://www.spiegel.de/ausland/russland-sanktionen-ukraine-fordert-russisches-energieembargo-deutschland-will-nicht](https://www.spiegel.de/ausland/russland-sanktionen-ukraine-fordert-russisches-energieembargo-deutschland-will-nicht-a-24f2c331-8437-4ee3-b996-c97fc642839d#ref=rss)
-### dürfen
-
-* [https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt](https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt-a-b150650f-7e36-47ac-804e-765af5d579b8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russland-zahlt-nur-noch-rubel-an-unfreundliche-staaten](https://www.spiegel.de/wirtschaft/russland-zahlt-nur-noch-rubel-an-unfreundliche-staaten-a-c99d1fdb-6e26-487d-89b1-1c0ea8116f60#ref=rss)
-* [https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen](https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen-a-7307f850-a403-4540-b774-6aa986b82ed7#ref=rss)
-### dennoch
-
-* [https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt](https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt-a-b150650f-7e36-47ac-804e-765af5d579b8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/oelembargo-gegen-russland-moeglich-und-doch-unmoeglich](https://www.spiegel.de/wirtschaft/soziales/oelembargo-gegen-russland-moeglich-und-doch-unmoeglich-a-cd0e9e77-fd9f-47d4-9653-0b3f3d84c334#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-ausraster-zu-bewaehrungssperre-verurteilt](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-ausraster-zu-bewaehrungssperre-verurteilt-a-cc45420a-7d84-4571-b1d8-83e429c5adf0#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/monsanto-kalifornien-verklagt-bayer-tochter-wegen-umweltverschmutzung](https://www.spiegel.de/wirtschaft/unternehmen/monsanto-kalifornien-verklagt-bayer-tochter-wegen-umweltverschmutzung-a-159bcbd0-3c35-4dae-b909-ca26c5742aee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krieg-in-der-ukraine-us-demokraten-bereiten-milliarden-hilfspaket-fuer-ukraine-vor](https://www.spiegel.de/wirtschaft/krieg-in-der-ukraine-us-demokraten-bereiten-milliarden-hilfspaket-fuer-ukraine-vor-a-d893a3a2-6861-4555-82bc-5a0f1bd71c25#ref=rss)
-* [https://www.spiegel.de/ausland/russland-sanktionen-ukraine-fordert-russisches-energieembargo-deutschland-will-nicht](https://www.spiegel.de/ausland/russland-sanktionen-ukraine-fordert-russisches-energieembargo-deutschland-will-nicht-a-24f2c331-8437-4ee3-b996-c97fc642839d#ref=rss)
-### verlassen
-
-* [https://www.spiegel.de/kultur/russland-ukraine-krieg-internationale-taenzer-verlassen-aus-protest-russische-ballet-kompanien](https://www.spiegel.de/kultur/russland-ukraine-krieg-internationale-taenzer-verlassen-aus-protest-russische-ballet-kompanien-a-e0338b58-25a6-49d7-a5d5-1f5785b80350#ref=rss)
-* [https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen](https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen-a-7307f850-a403-4540-b774-6aa986b82ed7#ref=rss)
-### russische
-
-* [https://www.spiegel.de/kultur/russland-ukraine-krieg-internationale-taenzer-verlassen-aus-protest-russische-ballet-kompanien](https://www.spiegel.de/kultur/russland-ukraine-krieg-internationale-taenzer-verlassen-aus-protest-russische-ballet-kompanien-a-e0338b58-25a6-49d7-a5d5-1f5785b80350#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-generalbundesanwalt-ermittelt-wegen-verdacht-auf-russische-kriegsverbrechen](https://www.spiegel.de/politik/deutschland/ukraine-generalbundesanwalt-ermittelt-wegen-verdacht-auf-russische-kriegsverbrechen-a-20b9eb86-3c2d-4487-a411-cbe1ae458022#ref=rss)
-### italien
-
-* [https://www.spiegel.de/kultur/russland-ukraine-krieg-internationale-taenzer-verlassen-aus-protest-russische-ballet-kompanien](https://www.spiegel.de/kultur/russland-ukraine-krieg-internationale-taenzer-verlassen-aus-protest-russische-ballet-kompanien-a-e0338b58-25a6-49d7-a5d5-1f5785b80350#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/italien-faengt-problembaer-juan-carrito-in-den-abruzzen-ein](https://www.spiegel.de/panorama/gesellschaft/italien-faengt-problembaer-juan-carrito-in-den-abruzzen-ein-a-cb4b6318-9a81-48ad-8b7e-af933f3a443e#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/russland-ukraine-krieg-internationale-taenzer-verlassen-aus-protest-russische-ballet-kompanien](https://www.spiegel.de/kultur/russland-ukraine-krieg-internationale-taenzer-verlassen-aus-protest-russische-ballet-kompanien-a-e0338b58-25a6-49d7-a5d5-1f5785b80350#ref=rss)
-* [https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen](https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen-a-c3b1e46d-bed2-4456-b53c-253094ebf9bb#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/netzwelt/games/itch-io-bundle-for-ukraine-spendenaktion-mit-hunderten-games-ab-zehn-dollar](https://www.spiegel.de/netzwelt/games/itch-io-bundle-for-ukraine-spendenaktion-mit-hunderten-games-ab-zehn-dollar-a-7551235d-a2e6-44a0-8fd1-a18dc72b53b1#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/netzwelt/games/itch-io-bundle-for-ukraine-spendenaktion-mit-hunderten-games-ab-zehn-dollar](https://www.spiegel.de/netzwelt/games/itch-io-bundle-for-ukraine-spendenaktion-mit-hunderten-games-ab-zehn-dollar-a-7551235d-a2e6-44a0-8fd1-a18dc72b53b1#ref=rss)
-* [https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor](https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor-a-df0c59c3-728a-45bc-86fb-8f2ef04e641e#ref=rss)
-### zahlt
-
-* [https://www.spiegel.de/netzwelt/games/itch-io-bundle-for-ukraine-spendenaktion-mit-hunderten-games-ab-zehn-dollar](https://www.spiegel.de/netzwelt/games/itch-io-bundle-for-ukraine-spendenaktion-mit-hunderten-games-ab-zehn-dollar-a-7551235d-a2e6-44a0-8fd1-a18dc72b53b1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russland-zahlt-nur-noch-rubel-an-unfreundliche-staaten](https://www.spiegel.de/wirtschaft/russland-zahlt-nur-noch-rubel-an-unfreundliche-staaten-a-c99d1fdb-6e26-487d-89b1-1c0ea8116f60#ref=rss)
-### zahlreiche
-
-* [https://www.spiegel.de/netzwelt/games/itch-io-bundle-for-ukraine-spendenaktion-mit-hunderten-games-ab-zehn-dollar](https://www.spiegel.de/netzwelt/games/itch-io-bundle-for-ukraine-spendenaktion-mit-hunderten-games-ab-zehn-dollar-a-7551235d-a2e6-44a0-8fd1-a18dc72b53b1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/corona-impfpass-faelschungen-in-nrw-erneut-dutzende-razzien-im-rheinland](https://www.spiegel.de/panorama/justiz/corona-impfpass-faelschungen-in-nrw-erneut-dutzende-razzien-im-rheinland-a-1567df01-01f5-4abd-a30a-38bd5f40c307#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/kammer-laesst-nach-toedlicher-raserei-anklage-wegen-mordes-zu](https://www.spiegel.de/panorama/justiz/kammer-laesst-nach-toedlicher-raserei-anklage-wegen-mordes-zu-a-a94e7ce9-7776-4fe8-8694-5420b2f86730#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/frauentag-menschen-neigen-immer-noch-dazu-die-welt-in-blau-und-rosa-einzuteilen](https://www.spiegel.de/panorama/bildung/frauentag-menschen-neigen-immer-noch-dazu-die-welt-in-blau-und-rosa-einzuteilen-a-b8344270-8b5c-4595-8bfa-c8a9afe3cd29#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/panorama/justiz/kammer-laesst-nach-toedlicher-raserei-anklage-wegen-mordes-zu](https://www.spiegel.de/panorama/justiz/kammer-laesst-nach-toedlicher-raserei-anklage-wegen-mordes-zu-a-a94e7ce9-7776-4fe8-8694-5420b2f86730#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/monsanto-kalifornien-verklagt-bayer-tochter-wegen-umweltverschmutzung](https://www.spiegel.de/wirtschaft/unternehmen/monsanto-kalifornien-verklagt-bayer-tochter-wegen-umweltverschmutzung-a-159bcbd0-3c35-4dae-b909-ca26c5742aee#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/panorama/justiz/kammer-laesst-nach-toedlicher-raserei-anklage-wegen-mordes-zu](https://www.spiegel.de/panorama/justiz/kammer-laesst-nach-toedlicher-raserei-anklage-wegen-mordes-zu-a-a94e7ce9-7776-4fe8-8694-5420b2f86730#ref=rss)
-* [https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor](https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor-a-df0c59c3-728a-45bc-86fb-8f2ef04e641e#ref=rss)
-### paralympics
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2022-leonie-walter-holt-ueberraschend-gold-im-biathlon](https://www.spiegel.de/sport/olympia/paralympics-2022-leonie-walter-holt-ueberraschend-gold-im-biathlon-a-03296e26-61a7-46e1-a6b8-e3a199338f3c#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2022-leonie-walter-holt-ueberraschend-gold-im-biathlon](https://www.spiegel.de/sport/olympia/paralympics-2022-leonie-walter-holt-ueberraschend-gold-im-biathlon-a-03296e26-61a7-46e1-a6b8-e3a199338f3c#ref=rss)
-* [https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen](https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen-a-c3b1e46d-bed2-4456-b53c-253094ebf9bb#ref=rss)
-### biathlon
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2022-leonie-walter-holt-ueberraschend-gold-im-biathlon](https://www.spiegel.de/sport/olympia/paralympics-2022-leonie-walter-holt-ueberraschend-gold-im-biathlon-a-03296e26-61a7-46e1-a6b8-e3a199338f3c#ref=rss)
-### wicker
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2022-leonie-walter-holt-ueberraschend-gold-im-biathlon](https://www.spiegel.de/sport/olympia/paralympics-2022-leonie-walter-holt-ueberraschend-gold-im-biathlon-a-03296e26-61a7-46e1-a6b8-e3a199338f3c#ref=rss)
-### obwohl
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2022-leonie-walter-holt-ueberraschend-gold-im-biathlon](https://www.spiegel.de/sport/olympia/paralympics-2022-leonie-walter-holt-ueberraschend-gold-im-biathlon-a-03296e26-61a7-46e1-a6b8-e3a199338f3c#ref=rss)
-* [https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt](https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt-a-b150650f-7e36-47ac-804e-765af5d579b8#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/sport/olympia/paralympics-2022-leonie-walter-holt-ueberraschend-gold-im-biathlon](https://www.spiegel.de/sport/olympia/paralympics-2022-leonie-walter-holt-ueberraschend-gold-im-biathlon-a-03296e26-61a7-46e1-a6b8-e3a199338f3c#ref=rss)
-* [https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor](https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor-a-df0c59c3-728a-45bc-86fb-8f2ef04e641e#ref=rss)
-### missbrauchsgutachten
-
-* [https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor](https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor-a-df0c59c3-728a-45bc-86fb-8f2ef04e641e#ref=rss)
-### kardinal
-
-* [https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor](https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor-a-df0c59c3-728a-45bc-86fb-8f2ef04e641e#ref=rss)
-### marx
-
-* [https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor](https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor-a-df0c59c3-728a-45bc-86fb-8f2ef04e641e#ref=rss)
-### passiert
-
-* [https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor](https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor-a-df0c59c3-728a-45bc-86fb-8f2ef04e641e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/atomkraftwerke-in-der-ukraine-wuerden-wir-von-einem-atomunfall-erfahren](https://www.spiegel.de/wissenschaft/technik/atomkraftwerke-in-der-ukraine-wuerden-wir-von-einem-atomunfall-erfahren-a-d5eac030-fd15-4c11-beec-4f09845f2209#ref=rss)
-### antworten
-
-* [https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor](https://www.spiegel.de/panorama/katholische-kirche-missbrauchsgutachten-beirat-wirft-kardinal-marx-untaetigkeit-vor-a-df0c59c3-728a-45bc-86fb-8f2ef04e641e#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/frauentag-menschen-neigen-immer-noch-dazu-die-welt-in-blau-und-rosa-einzuteilen](https://www.spiegel.de/panorama/bildung/frauentag-menschen-neigen-immer-noch-dazu-die-welt-in-blau-und-rosa-einzuteilen-a-b8344270-8b5c-4595-8bfa-c8a9afe3cd29#ref=rss)
-### gehirn
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-covid-19-kann-das-gehirn-schrumpfen-lassen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-covid-19-kann-das-gehirn-schrumpfen-lassen-a-a83bda90-15e5-4576-8c53-7c8327bdeb2e#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-verband-will-100-milliarden-euro-komplett-in-ausruestung-stecken](https://www.spiegel.de/politik/deutschland/bundeswehr-verband-will-100-milliarden-euro-komplett-in-ausruestung-stecken-a-8c6aca6f-9e78-414a-9aab-d85859cb3f1c#ref=rss)
-### 100
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-verband-will-100-milliarden-euro-komplett-in-ausruestung-stecken](https://www.spiegel.de/politik/deutschland/bundeswehr-verband-will-100-milliarden-euro-komplett-in-ausruestung-stecken-a-8c6aca6f-9e78-414a-9aab-d85859cb3f1c#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-verband-will-100-milliarden-euro-komplett-in-ausruestung-stecken](https://www.spiegel.de/politik/deutschland/bundeswehr-verband-will-100-milliarden-euro-komplett-in-ausruestung-stecken-a-8c6aca6f-9e78-414a-9aab-d85859cb3f1c#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-verband-will-100-milliarden-euro-komplett-in-ausruestung-stecken](https://www.spiegel.de/politik/deutschland/bundeswehr-verband-will-100-milliarden-euro-komplett-in-ausruestung-stecken-a-8c6aca6f-9e78-414a-9aab-d85859cb3f1c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/italien-faengt-problembaer-juan-carrito-in-den-abruzzen-ein](https://www.spiegel.de/panorama/gesellschaft/italien-faengt-problembaer-juan-carrito-in-den-abruzzen-ein-a-cb4b6318-9a81-48ad-8b7e-af933f3a443e#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-gegen-laengere-laufzeiten-von-atomkraftwerken](https://www.spiegel.de/politik/deutschland/robert-habeck-gegen-laengere-laufzeiten-von-atomkraftwerken-a-f014a9ab-5827-49aa-8d72-1fd18d35e9f0#ref=rss)
-### weg
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-gegen-laengere-laufzeiten-von-atomkraftwerken](https://www.spiegel.de/politik/deutschland/robert-habeck-gegen-laengere-laufzeiten-von-atomkraftwerken-a-f014a9ab-5827-49aa-8d72-1fd18d35e9f0#ref=rss)
-* [https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten](https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten-a-5cacf099-dd3a-4abb-b7ab-160f4d3ad013#ref=rss)
-### russisches
-
-* [https://www.spiegel.de/politik/deutschland/robert-habeck-gegen-laengere-laufzeiten-von-atomkraftwerken](https://www.spiegel.de/politik/deutschland/robert-habeck-gegen-laengere-laufzeiten-von-atomkraftwerken-a-f014a9ab-5827-49aa-8d72-1fd18d35e9f0#ref=rss)
-* [https://www.spiegel.de/ausland/russland-sanktionen-ukraine-fordert-russisches-energieembargo-deutschland-will-nicht](https://www.spiegel.de/ausland/russland-sanktionen-ukraine-fordert-russisches-energieembargo-deutschland-will-nicht-a-24f2c331-8437-4ee3-b996-c97fc642839d#ref=rss)
-### frauentag
-
-* [https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen](https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen-a-c3b1e46d-bed2-4456-b53c-253094ebf9bb#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/frauentag-menschen-neigen-immer-noch-dazu-die-welt-in-blau-und-rosa-einzuteilen](https://www.spiegel.de/panorama/bildung/frauentag-menschen-neigen-immer-noch-dazu-die-welt-in-blau-und-rosa-einzuteilen-a-b8344270-8b5c-4595-8bfa-c8a9afe3cd29#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen](https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen-a-c3b1e46d-bed2-4456-b53c-253094ebf9bb#ref=rss)
-* [https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert](https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert-a-0be87d45-1b5a-4d7e-8d29-d54111a117af#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen](https://www.spiegel.de/backstage/internationaler-frauentag-2022-wir-muessen-denkmuster-durchbrechen-a-c3b1e46d-bed2-4456-b53c-253094ebf9bb#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden](https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden-a-f899f5a5-9c5c-4175-968c-1e0e3a7f46bc#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-generalbundesanwalt-ermittelt-wegen-verdacht-auf-russische-kriegsverbrechen](https://www.spiegel.de/politik/deutschland/ukraine-generalbundesanwalt-ermittelt-wegen-verdacht-auf-russische-kriegsverbrechen-a-20b9eb86-3c2d-4487-a411-cbe1ae458022#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/frauentag-menschen-neigen-immer-noch-dazu-die-welt-in-blau-und-rosa-einzuteilen](https://www.spiegel.de/panorama/bildung/frauentag-menschen-neigen-immer-noch-dazu-die-welt-in-blau-und-rosa-einzuteilen-a-b8344270-8b5c-4595-8bfa-c8a9afe3cd29#ref=rss)
-### plan
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-generalbundesanwalt-ermittelt-wegen-verdacht-auf-russische-kriegsverbrechen](https://www.spiegel.de/politik/deutschland/ukraine-generalbundesanwalt-ermittelt-wegen-verdacht-auf-russische-kriegsverbrechen-a-20b9eb86-3c2d-4487-a411-cbe1ae458022#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden](https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden-a-f899f5a5-9c5c-4175-968c-1e0e3a7f46bc#ref=rss)
-### weltfrauentag
-
-* [https://www.spiegel.de/wirtschaft/weltfrauentag-warnstreiks-in-kitas-starten](https://www.spiegel.de/wirtschaft/weltfrauentag-warnstreiks-in-kitas-starten-a-4fc93e27-3b35-4fbb-9721-94a8c24d4630#ref=rss)
-* [https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert](https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert-a-0be87d45-1b5a-4d7e-8d29-d54111a117af#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/panorama/gesellschaft/bremen-und-hamburg-aktivisten-bespruehen-frachter-mit-russischem-oel-oder-kohle](https://www.spiegel.de/panorama/gesellschaft/bremen-und-hamburg-aktivisten-bespruehen-frachter-mit-russischem-oel-oder-kohle-a-173f9f13-c819-4ea9-b14b-bee0c9f9e56f#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/gesellschaft/bremen-und-hamburg-aktivisten-bespruehen-frachter-mit-russischem-oel-oder-kohle](https://www.spiegel.de/panorama/gesellschaft/bremen-und-hamburg-aktivisten-bespruehen-frachter-mit-russischem-oel-oder-kohle-a-173f9f13-c819-4ea9-b14b-bee0c9f9e56f#ref=rss)
-### aktivisten
-
-* [https://www.spiegel.de/panorama/gesellschaft/bremen-und-hamburg-aktivisten-bespruehen-frachter-mit-russischem-oel-oder-kohle](https://www.spiegel.de/panorama/gesellschaft/bremen-und-hamburg-aktivisten-bespruehen-frachter-mit-russischem-oel-oder-kohle-a-173f9f13-c819-4ea9-b14b-bee0c9f9e56f#ref=rss)
-### russischem
-
-* [https://www.spiegel.de/panorama/gesellschaft/bremen-und-hamburg-aktivisten-bespruehen-frachter-mit-russischem-oel-oder-kohle](https://www.spiegel.de/panorama/gesellschaft/bremen-und-hamburg-aktivisten-bespruehen-frachter-mit-russischem-oel-oder-kohle-a-173f9f13-c819-4ea9-b14b-bee0c9f9e56f#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro](https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro-a-5e35beaf-a4bf-421b-bd19-a764bde1372f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden](https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden-a-f899f5a5-9c5c-4175-968c-1e0e3a7f46bc#ref=rss)
-### pro
-
-* [https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro](https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro-a-5e35beaf-a4bf-421b-bd19-a764bde1372f#ref=rss)
-### liter
-
-* [https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro](https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro-a-5e35beaf-a4bf-421b-bd19-a764bde1372f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union-a-db1bfb35-3b2b-4477-9a6b-6dba59c7161d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof](https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof-a-71f0cc20-c2a0-48f3-9b3b-231a8396bc2c#ref=rss)
+* [https://www.spiegel.de/psychologie/krieg-in-der-ukraine-jugendaengste-koennten-wahr-werden](https://www.spiegel.de/psychologie/krieg-in-der-ukraine-jugendaengste-koennten-wahr-werden-a-80b67da6-c818-4dec-bccd-6ef402db3bd9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forschung-kooperationen-mit-russland-dieser-krieg-wird-zu-schweren-verwerfungen-fuehren](https://www.spiegel.de/wissenschaft/forschung-kooperationen-mit-russland-dieser-krieg-wird-zu-schweren-verwerfungen-fuehren-a-b4a141fb-563c-4ab8-8105-429272a1b1e3#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-in-bildern-wie-menschen-fliehen-unterwegs-in-europa](https://www.spiegel.de/ausland/ukrainekrieg-in-bildern-wie-menschen-fliehen-unterwegs-in-europa-a-d09e9b75-4e7c-4e8b-87de-d5a398447dcc#ref=rss)
 ### russlands
 
-* [https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro](https://www.spiegel.de/wirtschaft/diesel-und-e10-literpreis-steigt-ueber-zwei-euro-a-5e35beaf-a4bf-421b-bd19-a764bde1372f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/oelembargo-gegen-russland-moeglich-und-doch-unmoeglich](https://www.spiegel.de/wirtschaft/soziales/oelembargo-gegen-russland-moeglich-und-doch-unmoeglich-a-cd0e9e77-fd9f-47d4-9653-0b3f3d84c334#ref=rss)
-### calvin
+* [https://www.spiegel.de/ausland/ukraine-krieg-die-probleme-von-russlands-streitkraeften](https://www.spiegel.de/ausland/ukraine-krieg-die-probleme-von-russlands-streitkraeften-a-d24cbdf6-3e46-4c8f-8f2e-f746f6a5faea#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-oel-und-gas-hilfe-fuer-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-oel-und-gas-hilfe-fuer-ukraine-a-fe466f2c-2d05-4679-9a94-d70495f557b6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof](https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof-a-71f0cc20-c2a0-48f3-9b3b-231a8396bc2c#ref=rss)
+* [https://www.spiegel.de/ausland/russlands-drohnen-im-ukraine-krieg-wie-der-gejagte-zum-jaeger-werden-will](https://www.spiegel.de/ausland/russlands-drohnen-im-ukraine-krieg-wie-der-gejagte-zum-jaeger-werden-will-a-6dce020b-5056-43d3-8dd4-66008434eddb#ref=rss)
+### ich
 
-* [https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt](https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt-a-b150650f-7e36-47ac-804e-765af5d579b8#ref=rss)
-### ridley
+* [https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege](https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege-a-4ba9744b-0db7-48d9-a452-e73f77ee50d2#ref=rss)
+* [https://www.spiegel.de/panorama/rapmusik-wie-kann-ich-feministin-sein-und-sexismus-rapper-feiern](https://www.spiegel.de/panorama/rapmusik-wie-kann-ich-feministin-sein-und-sexismus-rapper-feiern-a-6524ff46-d6f4-4cec-b7f5-2ad32cfb1312#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten](https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten-a-94d07675-bc4d-4a7f-8e0b-33584a981b14#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt](https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt-a-b150650f-7e36-47ac-804e-765af5d579b8#ref=rss)
-### wetten
+* [https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland](https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland-a-d5d644c0-6b32-4c9a-a8ce-69c1e5531f4b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-handelsbilanzdefizit-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/us-handelsbilanzdefizit-steigt-auf-rekordwert-a-d84711e9-5e80-40bd-b7a2-00570ae90741#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland](https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland-a-2908aa70-7c64-46fb-8b49-e0b06389529b#ref=rss)
+### neue
 
-* [https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt](https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt-a-b150650f-7e36-47ac-804e-765af5d579b8#ref=rss)
-### gesperrt
+* [https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege](https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege-a-4ba9744b-0db7-48d9-a452-e73f77ee50d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-will-gasimporte-aus-russland-um-zwei-drittel-reduzieren](https://www.spiegel.de/wirtschaft/eu-will-gasimporte-aus-russland-um-zwei-drittel-reduzieren-a-26442635-84e2-468e-b121-9a2ec5019d10#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland](https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland-a-2908aa70-7c64-46fb-8b49-e0b06389529b#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt](https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt-a-d1a0d242-4d4f-491a-a89f-348ee6849aa2#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt](https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt-a-b150650f-7e36-47ac-804e-765af5d579b8#ref=rss)
-### jahr
+* [https://www.spiegel.de/wissenschaft/forschung-kooperationen-mit-russland-dieser-krieg-wird-zu-schweren-verwerfungen-fuehren](https://www.spiegel.de/wissenschaft/forschung-kooperationen-mit-russland-dieser-krieg-wird-zu-schweren-verwerfungen-fuehren-a-b4a141fb-563c-4ab8-8105-429272a1b1e3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/zecken-breiten-sich-in-neuen-gebieten-aus](https://www.spiegel.de/wissenschaft/medizin/zecken-breiten-sich-in-neuen-gebieten-aus-a-f0986265-f6f2-4119-bc5f-f3baa9322e69#ref=rss)
+* [https://www.spiegel.de/kultur/fluechtende-aus-der-ukraine-finger-weg-von-den-frauen-kolumne](https://www.spiegel.de/kultur/fluechtende-aus-der-ukraine-finger-weg-von-den-frauen-kolumne-a-210cb3cd-b0c2-45c3-94f1-50c4863b7a89#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten](https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten-a-94d07675-bc4d-4a7f-8e0b-33584a981b14#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt](https://www.spiegel.de/sport/nfl-calvin-ridley-wegen-illegaler-wetten-bis-saisonende-gesperrt-a-b150650f-7e36-47ac-804e-765af5d579b8#ref=rss)
-* [https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert](https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert-a-0be87d45-1b5a-4d7e-8d29-d54111a117af#ref=rss)
-### alle
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union-a-db1bfb35-3b2b-4477-9a6b-6dba59c7161d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hertha-bsc-ein-schwer-deprimierter-klub](https://www.spiegel.de/sport/fussball/hertha-bsc-ein-schwer-deprimierter-klub-a-94bd9f05-c528-4881-a7f3-45d5188922ef#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden](https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden-a-f899f5a5-9c5c-4175-968c-1e0e3a7f46bc#ref=rss)
-### schutzmaßnahmen
+* [https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege](https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege-a-4ba9744b-0db7-48d9-a452-e73f77ee50d2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forschung-kooperationen-mit-russland-dieser-krieg-wird-zu-schweren-verwerfungen-fuehren](https://www.spiegel.de/wissenschaft/forschung-kooperationen-mit-russland-dieser-krieg-wird-zu-schweren-verwerfungen-fuehren-a-b4a141fb-563c-4ab8-8105-429272a1b1e3#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten](https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten-a-94d07675-bc4d-4a7f-8e0b-33584a981b14#ref=rss)
+### mann
 
-* [https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden](https://www.spiegel.de/panorama/gesellschaft/corona-inzidenz-steigt-patientenschuetzer-warnen-davor-alle-schutzmassnahmen-zu-beenden-a-f899f5a5-9c5c-4175-968c-1e0e3a7f46bc#ref=rss)
-### staaten
+* [https://www.spiegel.de/panorama/justiz/offenburg-vater-aus-dem-ortenaukreis-missbrauchte-tochter-vier-jahre-haft](https://www.spiegel.de/panorama/justiz/offenburg-vater-aus-dem-ortenaukreis-missbrauchte-tochter-vier-jahre-haft-a-4f77ae2a-1b32-4ab0-9e21-f7f7f5133d6c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brilon-mann-soll-vorsaetzlich-auto-seiner-expartnerin-mit-dem-auto-gerammt-haben](https://www.spiegel.de/panorama/justiz/brilon-mann-soll-vorsaetzlich-auto-seiner-expartnerin-mit-dem-auto-gerammt-haben-a-341eb3b0-2b8c-48e1-b00b-56253f759ef1#ref=rss)
+### joe
 
-* [https://www.spiegel.de/wirtschaft/russland-zahlt-nur-noch-rubel-an-unfreundliche-staaten](https://www.spiegel.de/wirtschaft/russland-zahlt-nur-noch-rubel-an-unfreundliche-staaten-a-c99d1fdb-6e26-487d-89b1-1c0ea8116f60#ref=rss)
+* [https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland](https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland-a-d5d644c0-6b32-4c9a-a8ce-69c1e5531f4b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland](https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland-a-2908aa70-7c64-46fb-8b49-e0b06389529b#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland](https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland-a-d5d644c0-6b32-4c9a-a8ce-69c1e5531f4b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland](https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland-a-2908aa70-7c64-46fb-8b49-e0b06389529b#ref=rss)
+### hertha
+
+* [https://www.spiegel.de/sport/fussball/hertha-bsc-ein-schwer-deprimierter-klub](https://www.spiegel.de/sport/fussball/hertha-bsc-ein-schwer-deprimierter-klub-a-94bd9f05-c528-4881-a7f3-45d5188922ef#ref=rss)
+### öl
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-oel-und-gas-hilfe-fuer-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-oel-und-gas-hilfe-fuer-ukraine-a-fe466f2c-2d05-4679-9a94-d70495f557b6#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland](https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland-a-2908aa70-7c64-46fb-8b49-e0b06389529b#ref=rss)
+### männer
+
+* [https://www.spiegel.de/sport/fussball/gewalt-beim-fussball-in-mexiko-zehn-maenner-festgenommen-etliche-werden-noch-gesucht](https://www.spiegel.de/sport/fussball/gewalt-beim-fussball-in-mexiko-zehn-maenner-festgenommen-etliche-werden-noch-gesucht-a-7a63e4fe-d63a-49b6-bd28-1a2efeb122b3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/internationaler-frauentag-maenner-sorgt-euch](https://www.spiegel.de/politik/deutschland/internationaler-frauentag-maenner-sorgt-euch-a-c97769d5-fba3-4426-a920-ee8cc1eed39e#ref=rss)
+### frauentag
+
+* [https://www.spiegel.de/politik/deutschland/internationaler-frauentag-maenner-sorgt-euch](https://www.spiegel.de/politik/deutschland/internationaler-frauentag-maenner-sorgt-euch-a-c97769d5-fba3-4426-a920-ee8cc1eed39e#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-muss-frauentag-nur-im-stillen-begehen](https://www.spiegel.de/ausland/afghanistan-muss-frauentag-nur-im-stillen-begehen-a-0ad4e9ea-a777-4733-8610-74ae2b52b3b4#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/justiz/brilon-mann-soll-vorsaetzlich-auto-seiner-expartnerin-mit-dem-auto-gerammt-haben](https://www.spiegel.de/panorama/justiz/brilon-mann-soll-vorsaetzlich-auto-seiner-expartnerin-mit-dem-auto-gerammt-haben-a-341eb3b0-2b8c-48e1-b00b-56253f759ef1#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union-a-db1bfb35-3b2b-4477-9a6b-6dba59c7161d#ref=rss)
+### ampel
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union-a-db1bfb35-3b2b-4477-9a6b-6dba59c7161d#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union-a-db1bfb35-3b2b-4477-9a6b-6dba59c7161d#ref=rss)
+### reaktion
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-die-unterstuetzung-der-ampel-gut-fuer-die-union-a-db1bfb35-3b2b-4477-9a6b-6dba59c7161d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-loest-tv-vertrag-mit-russland-auf](https://www.spiegel.de/sport/fussball/premier-league-loest-tv-vertrag-mit-russland-auf-a-69c8d1c1-cead-4cfd-a704-65725a5aa438#ref=rss)
 ### russischen
 
-* [https://www.spiegel.de/wirtschaft/russland-zahlt-nur-noch-rubel-an-unfreundliche-staaten](https://www.spiegel.de/wirtschaft/russland-zahlt-nur-noch-rubel-an-unfreundliche-staaten-a-c99d1fdb-6e26-487d-89b1-1c0ea8116f60#ref=rss)
-* [https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen](https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen-a-7307f850-a403-4540-b774-6aa986b82ed7#ref=rss)
-### problembär
+* [https://www.spiegel.de/ausland/ukraine-krieg-die-probleme-von-russlands-streitkraeften](https://www.spiegel.de/ausland/ukraine-krieg-die-probleme-von-russlands-streitkraeften-a-d24cbdf6-3e46-4c8f-8f2e-f746f6a5faea#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-loest-tv-vertrag-mit-russland-auf](https://www.spiegel.de/sport/fussball/premier-league-loest-tv-vertrag-mit-russland-auf-a-69c8d1c1-cead-4cfd-a704-65725a5aa438#ref=rss)
+### jost
 
-* [https://www.spiegel.de/panorama/gesellschaft/italien-faengt-problembaer-juan-carrito-in-den-abruzzen-ein](https://www.spiegel.de/panorama/gesellschaft/italien-faengt-problembaer-juan-carrito-in-den-abruzzen-ein-a-cb4b6318-9a81-48ad-8b7e-af933f3a443e#ref=rss)
-### carrito
+* [https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege](https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege-a-4ba9744b-0db7-48d9-a452-e73f77ee50d2#ref=rss)
+### kobusch
 
-* [https://www.spiegel.de/panorama/gesellschaft/italien-faengt-problembaer-juan-carrito-in-den-abruzzen-ein](https://www.spiegel.de/panorama/gesellschaft/italien-faengt-problembaer-juan-carrito-in-den-abruzzen-ein-a-cb4b6318-9a81-48ad-8b7e-af933f3a443e#ref=rss)
+* [https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege](https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege-a-4ba9744b-0db7-48d9-a452-e73f77ee50d2#ref=rss)
+### mount
+
+* [https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege](https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege-a-4ba9744b-0db7-48d9-a452-e73f77ee50d2#ref=rss)
+### everest
+
+* [https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege](https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege-a-4ba9744b-0db7-48d9-a452-e73f77ee50d2#ref=rss)
+### berg
+
+* [https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege](https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege-a-4ba9744b-0db7-48d9-a452-e73f77ee50d2#ref=rss)
+### winter
+
+* [https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege](https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege-a-4ba9744b-0db7-48d9-a452-e73f77ee50d2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-will-gasimporte-aus-russland-um-zwei-drittel-reduzieren](https://www.spiegel.de/wirtschaft/eu-will-gasimporte-aus-russland-um-zwei-drittel-reduzieren-a-26442635-84e2-468e-b121-9a2ec5019d10#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege](https://www.spiegel.de/sport/jost-kobusch-am-mount-everest-gehofft-dass-ich-nicht-vom-berg-fliege-a-4ba9744b-0db7-48d9-a452-e73f77ee50d2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-oel-und-gas-hilfe-fuer-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-oel-und-gas-hilfe-fuer-ukraine-a-fe466f2c-2d05-4679-9a94-d70495f557b6#ref=rss)
+### missbrauchte
+
+* [https://www.spiegel.de/panorama/justiz/offenburg-vater-aus-dem-ortenaukreis-missbrauchte-tochter-vier-jahre-haft](https://www.spiegel.de/panorama/justiz/offenburg-vater-aus-dem-ortenaukreis-missbrauchte-tochter-vier-jahre-haft-a-4f77ae2a-1b32-4ab0-9e21-f7f7f5133d6c#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/panorama/justiz/offenburg-vater-aus-dem-ortenaukreis-missbrauchte-tochter-vier-jahre-haft](https://www.spiegel.de/panorama/justiz/offenburg-vater-aus-dem-ortenaukreis-missbrauchte-tochter-vier-jahre-haft-a-4f77ae2a-1b32-4ab0-9e21-f7f7f5133d6c#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/justiz/offenburg-vater-aus-dem-ortenaukreis-missbrauchte-tochter-vier-jahre-haft](https://www.spiegel.de/panorama/justiz/offenburg-vater-aus-dem-ortenaukreis-missbrauchte-tochter-vier-jahre-haft-a-4f77ae2a-1b32-4ab0-9e21-f7f7f5133d6c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-witalij-war-einer-der-ersten-toten-mein-herz-ist-gebrochen](https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-witalij-war-einer-der-ersten-toten-mein-herz-ist-gebrochen-a-2a238546-c658-4b96-9f08-8c48c46d52a2#ref=rss)
+### rohöl
+
+* [https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland](https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland-a-d5d644c0-6b32-4c9a-a8ce-69c1e5531f4b#ref=rss)
+### schweren
+
+* [https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland](https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland-a-d5d644c0-6b32-4c9a-a8ce-69c1e5531f4b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/forschung-kooperationen-mit-russland-dieser-krieg-wird-zu-schweren-verwerfungen-fuehren](https://www.spiegel.de/wissenschaft/forschung-kooperationen-mit-russland-dieser-krieg-wird-zu-schweren-verwerfungen-fuehren-a-b4a141fb-563c-4ab8-8105-429272a1b1e3#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland](https://www.spiegel.de/ausland/usa-erlassen-importverbot-fuer-rohoel-aus-russland-a-d5d644c0-6b32-4c9a-a8ce-69c1e5531f4b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-handelsbilanzdefizit-steigt-auf-rekordwert](https://www.spiegel.de/wirtschaft/us-handelsbilanzdefizit-steigt-auf-rekordwert-a-d84711e9-5e80-40bd-b7a2-00570ae90741#ref=rss)
+### präsidentschaftswahl
+
+* [https://www.spiegel.de/ausland/suedkorea-praesidentschaftswahl-schlammwerfen-in-seoul](https://www.spiegel.de/ausland/suedkorea-praesidentschaftswahl-schlammwerfen-in-seoul-a-e1a614ad-3f67-46cc-8dfd-fdeea695b1c3#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt](https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt-a-d1a0d242-4d4f-491a-a89f-348ee6849aa2#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/suedkorea-praesidentschaftswahl-schlammwerfen-in-seoul](https://www.spiegel.de/ausland/suedkorea-praesidentschaftswahl-schlammwerfen-in-seoul-a-e1a614ad-3f67-46cc-8dfd-fdeea695b1c3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/zecken-breiten-sich-in-neuen-gebieten-aus](https://www.spiegel.de/wissenschaft/medizin/zecken-breiten-sich-in-neuen-gebieten-aus-a-f0986265-f6f2-4119-bc5f-f3baa9322e69#ref=rss)
+### mein
+
+* [https://www.spiegel.de/panorama/rapmusik-wie-kann-ich-feministin-sein-und-sexismus-rapper-feiern](https://www.spiegel.de/panorama/rapmusik-wie-kann-ich-feministin-sein-und-sexismus-rapper-feiern-a-6524ff46-d6f4-4cec-b7f5-2ad32cfb1312#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-witalij-war-einer-der-ersten-toten-mein-herz-ist-gebrochen](https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-witalij-war-einer-der-ersten-toten-mein-herz-ist-gebrochen-a-2a238546-c658-4b96-9f08-8c48c46d52a2#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/rapmusik-wie-kann-ich-feministin-sein-und-sexismus-rapper-feiern](https://www.spiegel.de/panorama/rapmusik-wie-kann-ich-feministin-sein-und-sexismus-rapper-feiern-a-6524ff46-d6f4-4cec-b7f5-2ad32cfb1312#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brilon-mann-soll-vorsaetzlich-auto-seiner-expartnerin-mit-dem-auto-gerammt-haben](https://www.spiegel.de/panorama/justiz/brilon-mann-soll-vorsaetzlich-auto-seiner-expartnerin-mit-dem-auto-gerammt-haben-a-341eb3b0-2b8c-48e1-b00b-56253f759ef1#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/panorama/rapmusik-wie-kann-ich-feministin-sein-und-sexismus-rapper-feiern](https://www.spiegel.de/panorama/rapmusik-wie-kann-ich-feministin-sein-und-sexismus-rapper-feiern-a-6524ff46-d6f4-4cec-b7f5-2ad32cfb1312#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hertha-bsc-ein-schwer-deprimierter-klub](https://www.spiegel.de/sport/fussball/hertha-bsc-ein-schwer-deprimierter-klub-a-94bd9f05-c528-4881-a7f3-45d5188922ef#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/eu-will-gasimporte-aus-russland-um-zwei-drittel-reduzieren](https://www.spiegel.de/wirtschaft/eu-will-gasimporte-aus-russland-um-zwei-drittel-reduzieren-a-26442635-84e2-468e-b121-9a2ec5019d10#ref=rss)
+### ed
+
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-unveroeffentlichter-song-versehentlich-vor-gericht-angespielt](https://www.spiegel.de/kultur/musik/ed-sheeran-unveroeffentlichter-song-versehentlich-vor-gericht-angespielt-a-956ccc59-618a-4c9c-871c-50a256193bbb#ref=rss)
+### sheeran
+
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-unveroeffentlichter-song-versehentlich-vor-gericht-angespielt](https://www.spiegel.de/kultur/musik/ed-sheeran-unveroeffentlichter-song-versehentlich-vor-gericht-angespielt-a-956ccc59-618a-4c9c-871c-50a256193bbb#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-unveroeffentlichter-song-versehentlich-vor-gericht-angespielt](https://www.spiegel.de/kultur/musik/ed-sheeran-unveroeffentlichter-song-versehentlich-vor-gericht-angespielt-a-956ccc59-618a-4c9c-871c-50a256193bbb#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/kultur/musik/ed-sheeran-unveroeffentlichter-song-versehentlich-vor-gericht-angespielt](https://www.spiegel.de/kultur/musik/ed-sheeran-unveroeffentlichter-song-versehentlich-vor-gericht-angespielt-a-956ccc59-618a-4c9c-871c-50a256193bbb#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-in-bildern-wie-menschen-fliehen-unterwegs-in-europa](https://www.spiegel.de/ausland/ukrainekrieg-in-bildern-wie-menschen-fliehen-unterwegs-in-europa-a-d09e9b75-4e7c-4e8b-87de-d5a398447dcc#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/sport/fussball/hertha-bsc-ein-schwer-deprimierter-klub](https://www.spiegel.de/sport/fussball/hertha-bsc-ein-schwer-deprimierter-klub-a-94bd9f05-c528-4881-a7f3-45d5188922ef#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brilon-mann-soll-vorsaetzlich-auto-seiner-expartnerin-mit-dem-auto-gerammt-haben](https://www.spiegel.de/panorama/justiz/brilon-mann-soll-vorsaetzlich-auto-seiner-expartnerin-mit-dem-auto-gerammt-haben-a-341eb3b0-2b8c-48e1-b00b-56253f759ef1#ref=rss)
+### gas
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-oel-und-gas-hilfe-fuer-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-oel-und-gas-hilfe-fuer-ukraine-a-fe466f2c-2d05-4679-9a94-d70495f557b6#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland](https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland-a-2908aa70-7c64-46fb-8b49-e0b06389529b#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/panorama/justiz/dresden-juwelendiebstahl-aus-dem-gruenen-gewoelbe-wachleute-hinderten-taeter-laut-zeuge-nicht-an-flucht](https://www.spiegel.de/panorama/justiz/dresden-juwelendiebstahl-aus-dem-gruenen-gewoelbe-wachleute-hinderten-taeter-laut-zeuge-nicht-an-flucht-a-087779f5-07ff-4d8b-b050-a7294aacb2af#ref=rss)
+### wachleute
+
+* [https://www.spiegel.de/panorama/justiz/dresden-juwelendiebstahl-aus-dem-gruenen-gewoelbe-wachleute-hinderten-taeter-laut-zeuge-nicht-an-flucht](https://www.spiegel.de/panorama/justiz/dresden-juwelendiebstahl-aus-dem-gruenen-gewoelbe-wachleute-hinderten-taeter-laut-zeuge-nicht-an-flucht-a-087779f5-07ff-4d8b-b050-a7294aacb2af#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/sport/fussball/gewalt-beim-fussball-in-mexiko-zehn-maenner-festgenommen-etliche-werden-noch-gesucht](https://www.spiegel.de/sport/fussball/gewalt-beim-fussball-in-mexiko-zehn-maenner-festgenommen-etliche-werden-noch-gesucht-a-7a63e4fe-d63a-49b6-bd28-1a2efeb122b3#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt](https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt-a-d1a0d242-4d4f-491a-a89f-348ee6849aa2#ref=rss)
 ### fußball
 
-* [https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen](https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen-a-7307f850-a403-4540-b774-6aa986b82ed7#ref=rss)
-### eigenen
+* [https://www.spiegel.de/sport/fussball/gewalt-beim-fussball-in-mexiko-zehn-maenner-festgenommen-etliche-werden-noch-gesucht](https://www.spiegel.de/sport/fussball/gewalt-beim-fussball-in-mexiko-zehn-maenner-festgenommen-etliche-werden-noch-gesucht-a-7a63e4fe-d63a-49b6-bd28-1a2efeb122b3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof](https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof-a-71f0cc20-c2a0-48f3-9b3b-231a8396bc2c#ref=rss)
+### mexiko
 
-* [https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen](https://www.spiegel.de/sport/fussball/russland-ukraine-krieg-auslaendische-spieler-duerfen-laender-vorerst-verlassen-a-7307f850-a403-4540-b774-6aa986b82ed7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/krieg-in-der-ukraine-us-demokraten-bereiten-milliarden-hilfspaket-fuer-ukraine-vor](https://www.spiegel.de/wirtschaft/krieg-in-der-ukraine-us-demokraten-bereiten-milliarden-hilfspaket-fuer-ukraine-vor-a-d893a3a2-6861-4555-82bc-5a0f1bd71c25#ref=rss)
-### monsanto
+* [https://www.spiegel.de/sport/fussball/gewalt-beim-fussball-in-mexiko-zehn-maenner-festgenommen-etliche-werden-noch-gesucht](https://www.spiegel.de/sport/fussball/gewalt-beim-fussball-in-mexiko-zehn-maenner-festgenommen-etliche-werden-noch-gesucht-a-7a63e4fe-d63a-49b6-bd28-1a2efeb122b3#ref=rss)
+### zehn
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/monsanto-kalifornien-verklagt-bayer-tochter-wegen-umweltverschmutzung](https://www.spiegel.de/wirtschaft/unternehmen/monsanto-kalifornien-verklagt-bayer-tochter-wegen-umweltverschmutzung-a-159bcbd0-3c35-4dae-b909-ca26c5742aee#ref=rss)
-### dagegen
+* [https://www.spiegel.de/sport/fussball/gewalt-beim-fussball-in-mexiko-zehn-maenner-festgenommen-etliche-werden-noch-gesucht](https://www.spiegel.de/sport/fussball/gewalt-beim-fussball-in-mexiko-zehn-maenner-festgenommen-etliche-werden-noch-gesucht-a-7a63e4fe-d63a-49b6-bd28-1a2efeb122b3#ref=rss)
+### festgenommen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/monsanto-kalifornien-verklagt-bayer-tochter-wegen-umweltverschmutzung](https://www.spiegel.de/wirtschaft/unternehmen/monsanto-kalifornien-verklagt-bayer-tochter-wegen-umweltverschmutzung-a-159bcbd0-3c35-4dae-b909-ca26c5742aee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/atomkonzerne-verweisen-auf-hohe-huerden-fuer-laufzeitverlaengerung](https://www.spiegel.de/wirtschaft/unternehmen/atomkonzerne-verweisen-auf-hohe-huerden-fuer-laufzeitverlaengerung-a-1ca69d07-b502-4c66-b999-ec3a22f9d905#ref=rss)
-### alexander
+* [https://www.spiegel.de/sport/fussball/gewalt-beim-fussball-in-mexiko-zehn-maenner-festgenommen-etliche-werden-noch-gesucht](https://www.spiegel.de/sport/fussball/gewalt-beim-fussball-in-mexiko-zehn-maenner-festgenommen-etliche-werden-noch-gesucht-a-7a63e4fe-d63a-49b6-bd28-1a2efeb122b3#ref=rss)
+### tvvertrag
 
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-ausraster-zu-bewaehrungssperre-verurteilt](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-ausraster-zu-bewaehrungssperre-verurteilt-a-cc45420a-7d84-4571-b1d8-83e429c5adf0#ref=rss)
-### zverev
+* [https://www.spiegel.de/sport/fussball/premier-league-loest-tv-vertrag-mit-russland-auf](https://www.spiegel.de/sport/fussball/premier-league-loest-tv-vertrag-mit-russland-auf-a-69c8d1c1-cead-4cfd-a704-65725a5aa438#ref=rss)
+### liga
 
-* [https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-ausraster-zu-bewaehrungssperre-verurteilt](https://www.spiegel.de/sport/tennis/tennis-alexander-zverev-nach-ausraster-zu-bewaehrungssperre-verurteilt-a-cc45420a-7d84-4571-b1d8-83e429c5adf0#ref=rss)
-### amnesty
+* [https://www.spiegel.de/sport/fussball/premier-league-loest-tv-vertrag-mit-russland-auf](https://www.spiegel.de/sport/fussball/premier-league-loest-tv-vertrag-mit-russland-auf-a-69c8d1c1-cead-4cfd-a704-65725a5aa438#ref=rss)
+### sanktionen
 
-* [https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert](https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert-a-0be87d45-1b5a-4d7e-8d29-d54111a117af#ref=rss)
-### international
+* [https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof](https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof-a-71f0cc20-c2a0-48f3-9b3b-231a8396bc2c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland](https://www.spiegel.de/ausland/usa-und-ukraine-krieg-joe-biden-verkuendet-neue-sanktionen-gegen-russland-a-2908aa70-7c64-46fb-8b49-e0b06389529b#ref=rss)
+### möchte
 
-* [https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert](https://www.spiegel.de/ausland/amnesty-international-frauenrechte-haben-sich-weltweit-verschlechtert-a-0be87d45-1b5a-4d7e-8d29-d54111a117af#ref=rss)
-### energieembargo
+* [https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof](https://www.spiegel.de/sport/fussball/fifa-und-uefa-sperren-russlands-fussballverband-zieht-vor-den-sportgerichtshof-a-71f0cc20-c2a0-48f3-9b3b-231a8396bc2c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten](https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten-a-94d07675-bc4d-4a7f-8e0b-33584a981b14#ref=rss)
+### moderna
 
-* [https://www.spiegel.de/ausland/russland-sanktionen-ukraine-fordert-russisches-energieembargo-deutschland-will-nicht](https://www.spiegel.de/ausland/russland-sanktionen-ukraine-fordert-russisches-energieembargo-deutschland-will-nicht-a-24f2c331-8437-4ee3-b996-c97fc642839d#ref=rss)
-### atomkraftwerke
+* [https://www.spiegel.de/wirtschaft/unternehmen/coronaimpfstoff-us-hersteller-moderna-verzichtet-in-92-laendern-auf-patentschutz](https://www.spiegel.de/wirtschaft/unternehmen/coronaimpfstoff-us-hersteller-moderna-verzichtet-in-92-laendern-auf-patentschutz-a-d0c6e068-405c-4d57-8c32-6795ebcb0f62#ref=rss)
+### patentschutz
 
-* [https://www.spiegel.de/wissenschaft/technik/atomkraftwerke-in-der-ukraine-wuerden-wir-von-einem-atomunfall-erfahren](https://www.spiegel.de/wissenschaft/technik/atomkraftwerke-in-der-ukraine-wuerden-wir-von-einem-atomunfall-erfahren-a-d5eac030-fd15-4c11-beec-4f09845f2209#ref=rss)
-### carlos
+* [https://www.spiegel.de/wirtschaft/unternehmen/coronaimpfstoff-us-hersteller-moderna-verzichtet-in-92-laendern-auf-patentschutz](https://www.spiegel.de/wirtschaft/unternehmen/coronaimpfstoff-us-hersteller-moderna-verzichtet-in-92-laendern-auf-patentschutz-a-d0c6e068-405c-4d57-8c32-6795ebcb0f62#ref=rss)
+### weg
 
-* [https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten](https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten-a-5cacf099-dd3a-4abb-b7ab-160f4d3ad013#ref=rss)
-### i
+* [https://www.spiegel.de/politik/deutschland/internationaler-frauentag-maenner-sorgt-euch](https://www.spiegel.de/politik/deutschland/internationaler-frauentag-maenner-sorgt-euch-a-c97769d5-fba3-4426-a920-ee8cc1eed39e#ref=rss)
+* [https://www.spiegel.de/kultur/fluechtende-aus-der-ukraine-finger-weg-von-den-frauen-kolumne](https://www.spiegel.de/kultur/fluechtende-aus-der-ukraine-finger-weg-von-den-frauen-kolumne-a-210cb3cd-b0c2-45c3-94f1-50c4863b7a89#ref=rss)
+### kooperationen
 
-* [https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten](https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten-a-5cacf099-dd3a-4abb-b7ab-160f4d3ad013#ref=rss)
-### bleibt
+* [https://www.spiegel.de/wissenschaft/forschung-kooperationen-mit-russland-dieser-krieg-wird-zu-schweren-verwerfungen-fuehren](https://www.spiegel.de/wissenschaft/forschung-kooperationen-mit-russland-dieser-krieg-wird-zu-schweren-verwerfungen-fuehren-a-b4a141fb-563c-4ab8-8105-429272a1b1e3#ref=rss)
+### zecken
 
-* [https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten](https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten-a-5cacf099-dd3a-4abb-b7ab-160f4d3ad013#ref=rss)
-### emiraten
+* [https://www.spiegel.de/wissenschaft/medizin/zecken-breiten-sich-in-neuen-gebieten-aus](https://www.spiegel.de/wissenschaft/medizin/zecken-breiten-sich-in-neuen-gebieten-aus-a-f0986265-f6f2-4119-bc5f-f3baa9322e69#ref=rss)
+### expartnerin
 
-* [https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten](https://www.spiegel.de/panorama/leute/spanien-ex-koenig-juan-carlos-i-bleibt-in-den-vereinigten-arabischen-emiraten-a-5cacf099-dd3a-4abb-b7ab-160f4d3ad013#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brilon-mann-soll-vorsaetzlich-auto-seiner-expartnerin-mit-dem-auto-gerammt-haben](https://www.spiegel.de/panorama/justiz/brilon-mann-soll-vorsaetzlich-auto-seiner-expartnerin-mit-dem-auto-gerammt-haben-a-341eb3b0-2b8c-48e1-b00b-56253f759ef1#ref=rss)
+### zuvor
+
+* [https://www.spiegel.de/panorama/justiz/brilon-mann-soll-vorsaetzlich-auto-seiner-expartnerin-mit-dem-auto-gerammt-haben](https://www.spiegel.de/panorama/justiz/brilon-mann-soll-vorsaetzlich-auto-seiner-expartnerin-mit-dem-auto-gerammt-haben-a-341eb3b0-2b8c-48e1-b00b-56253f759ef1#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-muss-frauentag-nur-im-stillen-begehen](https://www.spiegel.de/ausland/afghanistan-muss-frauentag-nur-im-stillen-begehen-a-0ad4e9ea-a777-4733-8610-74ae2b52b3b4#ref=rss)
+### witalij
+
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-witalij-war-einer-der-ersten-toten-mein-herz-ist-gebrochen](https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-witalij-war-einer-der-ersten-toten-mein-herz-ist-gebrochen-a-2a238546-c658-4b96-9f08-8c48c46d52a2#ref=rss)
+### éric
+
+* [https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt](https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt-a-d1a0d242-4d4f-491a-a89f-348ee6849aa2#ref=rss)
+### zemmour
+
+* [https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt](https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt-a-d1a0d242-4d4f-491a-a89f-348ee6849aa2#ref=rss)
+### acht
+
+* [https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt](https://www.spiegel.de/ausland/frankreich-eric-zemmour-von-acht-frauen-des-sexuellen-missbrauchs-beschuldigt-a-d1a0d242-4d4f-491a-a89f-348ee6849aa2#ref=rss)
+### flüchtlinge
+
+* [https://www.spiegel.de/kultur/fluechtende-aus-der-ukraine-finger-weg-von-den-frauen-kolumne](https://www.spiegel.de/kultur/fluechtende-aus-der-ukraine-finger-weg-von-den-frauen-kolumne-a-210cb3cd-b0c2-45c3-94f1-50c4863b7a89#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten](https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten-a-94d07675-bc4d-4a7f-8e0b-33584a981b14#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/kultur/fluechtende-aus-der-ukraine-finger-weg-von-den-frauen-kolumne](https://www.spiegel.de/kultur/fluechtende-aus-der-ukraine-finger-weg-von-den-frauen-kolumne-a-210cb3cd-b0c2-45c3-94f1-50c4863b7a89#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten](https://www.spiegel.de/panorama/gesellschaft/ukraine-krieg-ich-moechte-fluechtlinge-zuhause-aufnehmen-was-muss-ich-beachten-a-94d07675-bc4d-4a7f-8e0b-33584a981b14#ref=rss)
 
