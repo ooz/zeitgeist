@@ -118,13 +118,13 @@ podium(510) bekannten(509) erneute(509) haseloff(509) investoren(509) katze(509)
 
 ```
 date, investment, buy price, sell price
-2022-03-09 10:09:54, 1-EUR, 1.08 USD, 1.08 USD
-2022-03-09 10:09:54, 1-EUR, 6.88 CNY, 6.88 CNY
-2022-03-09 10:09:55, crude-oil-brent-barrel, 127.0 USD, 127.0 USD
-2022-03-09 10:09:55, gold-10g, 620.03 EUR, 584.13 EUR
-2022-03-09 10:09:59, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2022-03-09 10:10:01, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
-2022-03-09 10:10:02, lego-2019-60225-1-rovertestfahrt, 24.0 USD, 24.0 USD
+2022-03-16 10:09:55, 1-EUR, 1.09 USD, 1.09 USD
+2022-03-16 10:09:55, 1-EUR, 7.01 CNY, 7.01 CNY
+2022-03-16 10:09:56, crude-oil-brent-barrel, 101.2 USD, 101.2 USD
+2022-03-16 10:09:56, gold-10g, 592.43 EUR, 556.81 EUR
+2022-03-16 10:10:01, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2022-03-16 10:10:02, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
+2022-03-16 10:10:03, lego-2019-60225-1-rovertestfahrt, 25.0 USD, 25.0 USD
 ```
 
 ## [Weather](weather.html)
