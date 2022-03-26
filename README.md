@@ -113,12 +113,12 @@ führende(521) positionen(521) turnier(521) wechsel(521) selten(520) anerkannt(5
 </p>
 </details>
 <p>Legend:
-
-* <span class="new">new</span>, first seen within the last 10 days
-* <span class="current">current</span>, regular topical words used in the news, not "new", not "former"
-* <span class="former">former(days span relevant)</span>, not used in the last 30 days, but still re-occurring enough to not get deleted
-* Words not used for more than 90 days get deleted from the database, but may re-enter as "new" words when used again
-
+<ul>
+<li><span class="new">new</span>, first seen within the last 10 days</li>
+<li><span class="current">current</span>, regular topical words used in the news, not "new", not "former"</li>
+<li><span class="former">former(days span relevant)</span>, not used in the last 30 days, but still re-occurring enough to not get deleted</li>
+<li>Words not used for more than 90 days get deleted from the database, but may re-enter as "new" words when used again</li>
+</ul>
 </p>
 
 ## Investments[.csv](investments.csv)
@@ -128,13 +128,13 @@ führende(521) positionen(521) turnier(521) wechsel(521) selten(520) anerkannt(5
 
 ```
 date, investment, buy price, sell price
-2022-03-26 10:22:53, 1-EUR, 1.1 USD, 1.1 USD
-2022-03-26 10:22:53, 1-EUR, 7.0 CNY, 7.0 CNY
-2022-03-26 10:22:54, crude-oil-brent-barrel, 120.7 USD, 120.7 USD
-2022-03-26 10:22:54, gold-10g, 603.29 EUR, 567.56 EUR
-2022-03-26 10:22:59, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2022-03-26 10:23:00, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
-2022-03-26 10:23:02, lego-2019-60225-1-rovertestfahrt, 24.0 USD, 24.0 USD
+2022-03-26 10:26:10, 1-EUR, 1.1 USD, 1.1 USD
+2022-03-26 10:26:10, 1-EUR, 7.0 CNY, 7.0 CNY
+2022-03-26 10:26:10, crude-oil-brent-barrel, 120.7 USD, 120.7 USD
+2022-03-26 10:26:11, gold-10g, 603.29 EUR, 567.56 EUR
+2022-03-26 10:26:16, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
+2022-03-26 10:26:17, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
+2022-03-26 10:26:18, lego-2019-60225-1-rovertestfahrt, 24.0 USD, 24.0 USD
 ```
 
 ## [Weather](weather.html)
