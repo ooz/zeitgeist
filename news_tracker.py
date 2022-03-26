@@ -37,7 +37,14 @@ def format_as_html(words, old_words):
         buf.append(' '.join([f'{w.word}({w.relevant_for_days()})' for w in old_words if w.relevant_for_days() >= 5]))
         buf.append('</p>')
         buf.append('</details>')
-    buf.append('<p>Legend: <span class="new">new</span>, <span class="current">current</span>, <span class="former">former(days relevant)</span></p>')
+    buf.append('''<p>Legend:
+
+* <span class="new">new</span>, first seen within the last 10 days
+* <span class="current">current</span>, regular topical words used in the news, not "new", not "former"
+* <span class="former">former(days span relevant)</span>, not used in the last 30 days, but still re-occurring enough to not get deleted
+* Words not used for more than 90 days get deleted from the database, but may re-enter as "new" words when used again
+
+</p>''')
     return '\n'.join(buf)
 
 def format_as_markdown_links_list(words):
