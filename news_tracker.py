@@ -38,12 +38,12 @@ def format_as_html(words, old_words):
         buf.append('</p>')
         buf.append('</details>')
     buf.append('''<p>Legend:
-
-* <span class="new">new</span>, first seen within the last 10 days
-* <span class="current">current</span>, regular topical words used in the news, not "new", not "former"
-* <span class="former">former(days span relevant)</span>, not used in the last 30 days, but still re-occurring enough to not get deleted
-* Words not used for more than 90 days get deleted from the database, but may re-enter as "new" words when used again
-
+<ul>
+<li><span class="new">new</span>, first seen within the last 10 days</li>
+<li><span class="current">current</span>, regular topical words used in the news, not "new", not "former"</li>
+<li><span class="former">former(days span relevant)</span>, not used in the last 30 days, but still re-occurring enough to not get deleted</li>
+<li>Words not used for more than 90 days get deleted from the database, but may re-enter as "new" words when used again</li>
+</ul>
 </p>''')
     return '\n'.join(buf)
 
