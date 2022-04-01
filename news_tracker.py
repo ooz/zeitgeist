@@ -42,6 +42,7 @@ def format_as_html(words, old_words):
 <li><span class="new">new</span>, first seen within the last 10 days</li>
 <li><span class="current">current</span>, regular topical words used in the news, not "new", not "former"</li>
 <li><span class="former">former(days span relevant)</span>, not used in the last 30 days, but still re-occurring enough to not get deleted</li>
+<li>Only words which occurred at least twice in the RSS feed are tracked. <a href="language/filters.py">Some common words are blocked</a></li>
 <li>Words not used for more than 90 days get deleted from the database, but may re-enter as "new" words when used again</li>
 </ul>
 </p>''')
