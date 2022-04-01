@@ -144,5 +144,16 @@ def main():
     with open('investments.csv', 'w') as f:
         f.write(investments_csv + '\n')
 
+    with open('investments.md', 'w') as f:
+        f.write(f'''## [Zeitgeist](index.html) Investments
+
+[Inflation Chart](https://inflationchart.com),
+[Stocks in BTC](https://stonksinbtc.xyz/)
+
+```
+{investments_csv}
+```
+''')
+
 if __name__ == "__main__":
     main()

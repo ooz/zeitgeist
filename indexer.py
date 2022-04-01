@@ -17,14 +17,7 @@ tags: __no_header__, __no_footer__
 
 {news}
 
-## Investments[.csv](investments.csv)
-
-[Inflation Chart](https://inflationchart.com),
-[Stocks in BTC](https://stonksinbtc.xyz/)
-
-```
-{investments}
-```
+## [Investments](investments.html)[.csv](investments.csv)
 
 ## [Weather](weather.html)
 
