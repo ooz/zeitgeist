@@ -36,12 +36,14 @@ tags: __no_header__, __no_footer__
 <span style="font-size:16pt"><a href="news_links.html#georgien" class="current">georgien</a></span>
 <span style="font-size:16pt"><a href="news_links.html#wohl" class="current">wohl</a></span>
 <br>
+<span style="font-size:12pt"><a href="news_links.html#serbien" class="current">serbien</a></span>
+<span style="font-size:12pt"><a href="news_links.html#mindestens" class="current">mindestens</a></span>
+<span style="font-size:12pt"><a href="news_links.html#acht" class="current">acht</a></span>
 <span style="font-size:12pt"><a href="news_links.html#elena" class="new">elena</a></span>
 <span style="font-size:12pt"><a href="news_links.html#semechin" class="new">semechin</a></span>
 <span style="font-size:12pt"><a href="news_links.html#chemotherapie" class="new">chemotherapie</a></span>
 <span style="font-size:12pt"><a href="news_links.html#deutschen" class="current">deutschen</a></span>
 <span style="font-size:12pt"><a href="news_links.html#meisterschaften" class="new">meisterschaften</a></span>
-<span style="font-size:12pt"><a href="news_links.html#selbst" class="current">selbst</a></span>
 <span style="font-size:12pt"><a href="news_links.html#schweiz" class="current">schweiz</a></span>
 <span style="font-size:12pt"><a href="news_links.html#ukrainekrieg" class="current">ukrainekrieg</a></span>
 <span style="font-size:12pt"><a href="news_links.html#deutlich" class="current">deutlich</a></span>
@@ -93,11 +95,7 @@ tags: __no_header__, __no_footer__
 <span style="font-size:12pt"><a href="news_links.html#riechen" class="current">riechen</a></span>
 <span style="font-size:12pt"><a href="news_links.html#fast" class="current">fast</a></span>
 <span style="font-size:12pt"><a href="news_links.html#katar" class="current">katar</a></span>
-<span style="font-size:12pt"><a href="news_links.html#lage" class="current">lage</a></span>
 <span style="font-size:12pt"><a href="news_links.html#freitag" class="current">freitag</a></span>
-<span style="font-size:12pt"><a href="news_links.html#smith" class="current">smith</a></span>
-<span style="font-size:12pt"><a href="news_links.html#chris" class="current">chris</a></span>
-<span style="font-size:12pt"><a href="news_links.html#rock" class="current">rock</a></span>
 </p>
 <details>
 <summary>Stopped using...</summary>
@@ -115,21 +113,7 @@ mailand(526) ausgesprochen(525) geschichten(525) spur(525) arsenal(524) demonstr
 </ul>
 </p>
 
-## Investments[.csv](investments.csv)
-
-[Inflation Chart](https://inflationchart.com),
-[Stocks in BTC](https://stonksinbtc.xyz/)
-
-```
-date, investment, buy price, sell price
-2022-04-01 09:44:27, 1-EUR, 1.11 USD, 1.11 USD
-2022-04-01 09:44:27, 1-EUR, 7.04 CNY, 7.04 CNY
-2022-04-01 09:44:28, crude-oil-brent-barrel, 105.5 USD, 105.5 USD
-2022-04-01 09:44:28, gold-10g, 592.73 EUR, 557.1 EUR
-2022-04-01 09:44:32, lego-2019-30365-1-satellit, 4.0 USD, 4.0 USD
-2022-04-01 09:44:34, lego-2019-60224-1-satellitenwartung, 11.0 USD, 11.0 USD
-2022-04-01 09:44:35, lego-2019-60225-1-rovertestfahrt, 24.0 USD, 24.0 USD
-```
+## [Investments](investments.html)[.csv](investments.csv)
 
 ## [Weather](weather.html)
 

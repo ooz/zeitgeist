@@ -124,6 +124,15 @@ tags: __no_header__
 * [https://www.spiegel.de/panorama/leute/red-hot-chili-peppers-auf-walk-of-fame-in-hollywwod-geehrt-ein-stern-fuer-die-rockstars](https://www.spiegel.de/panorama/leute/red-hot-chili-peppers-auf-walk-of-fame-in-hollywwod-geehrt-ein-stern-fuer-die-rockstars-a-1b4f049f-bd24-4e4f-83e6-c73c7593ecc5#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/news-russland-ukraine-krieg-china-eu-fussball-weltmeisterschaft-katar](https://www.spiegel.de/politik/deutschland/news-russland-ukraine-krieg-china-eu-fussball-weltmeisterschaft-katar-a-d5d7f7e6-774b-46b2-93b5-d0a096d88dd7#ref=rss)
 * [https://www.spiegel.de/ausland/krieg-in-der-ukraine-das-geschah-in-der-nacht-zu-freitag-1-april](https://www.spiegel.de/ausland/krieg-in-der-ukraine-das-geschah-in-der-nacht-zu-freitag-1-april-a-5a5b10b0-ed81-408a-a1fa-bd2d1f09f9fa#ref=rss)
+### serbien
+
+* [https://www.spiegel.de/panorama/serbien-mindestens-acht-tote-bei-grubenunglueck](https://www.spiegel.de/panorama/serbien-mindestens-acht-tote-bei-grubenunglueck-a-ab66d102-1afe-4a96-9e2d-72c1f089cb1a#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/serbien-mindestens-acht-tote-bei-grubenunglueck](https://www.spiegel.de/panorama/serbien-mindestens-acht-tote-bei-grubenunglueck-a-ab66d102-1afe-4a96-9e2d-72c1f089cb1a#ref=rss)
+### acht
+
+* [https://www.spiegel.de/panorama/serbien-mindestens-acht-tote-bei-grubenunglueck](https://www.spiegel.de/panorama/serbien-mindestens-acht-tote-bei-grubenunglueck-a-ab66d102-1afe-4a96-9e2d-72c1f089cb1a#ref=rss)
 ### elena
 
 * [https://www.spiegel.de/sport/paralympicssieger-elena-semechin-gewinnt-silber-waehrend-der-chemotherapie-bei-den-deutschen-meisterschaften](https://www.spiegel.de/sport/paralympicssieger-elena-semechin-gewinnt-silber-waehrend-der-chemotherapie-bei-den-deutschen-meisterschaften-a-ba2d0f34-3052-4d22-87ea-c2b454250c34#ref=rss)
@@ -139,10 +148,6 @@ tags: __no_header__
 ### meisterschaften
 
 * [https://www.spiegel.de/sport/paralympicssieger-elena-semechin-gewinnt-silber-waehrend-der-chemotherapie-bei-den-deutschen-meisterschaften](https://www.spiegel.de/sport/paralympicssieger-elena-semechin-gewinnt-silber-waehrend-der-chemotherapie-bei-den-deutschen-meisterschaften-a-ba2d0f34-3052-4d22-87ea-c2b454250c34#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/sport/paralympicssieger-elena-semechin-gewinnt-silber-waehrend-der-chemotherapie-bei-den-deutschen-meisterschaften](https://www.spiegel.de/sport/paralympicssieger-elena-semechin-gewinnt-silber-waehrend-der-chemotherapie-bei-den-deutschen-meisterschaften-a-ba2d0f34-3052-4d22-87ea-c2b454250c34#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/will-smith-polizei-stand-zur-festnahme-nach-ohrfeige-gegen-chris-rock-bei-oscars-bereit](https://www.spiegel.de/panorama/justiz/will-smith-polizei-stand-zur-festnahme-nach-ohrfeige-gegen-chris-rock-bei-oscars-bereit-a-611299c8-0b54-451b-84bc-14d9802bf7ac#ref=rss)
 ### schweiz
 
 * [https://www.spiegel.de/ausland/knapp-3-5-millionen-faelle-schweiz-laesst-alle-landesweiten-coronamassnahmen-fallen](https://www.spiegel.de/ausland/knapp-3-5-millionen-faelle-schweiz-laesst-alle-landesweiten-coronamassnahmen-fallen-a-a693dbac-e856-4388-8bc1-56f87150e9b4#ref=rss)
@@ -321,21 +326,8 @@ tags: __no_header__
 ### katar
 
 * [https://www.spiegel.de/politik/deutschland/news-russland-ukraine-krieg-china-eu-fussball-weltmeisterschaft-katar](https://www.spiegel.de/politik/deutschland/news-russland-ukraine-krieg-china-eu-fussball-weltmeisterschaft-katar-a-d5d7f7e6-774b-46b2-93b5-d0a096d88dd7#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-russland-ukraine-krieg-china-eu-fussball-weltmeisterschaft-katar](https://www.spiegel.de/politik/deutschland/news-russland-ukraine-krieg-china-eu-fussball-weltmeisterschaft-katar-a-d5d7f7e6-774b-46b2-93b5-d0a096d88dd7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/will-smith-polizei-stand-zur-festnahme-nach-ohrfeige-gegen-chris-rock-bei-oscars-bereit](https://www.spiegel.de/panorama/justiz/will-smith-polizei-stand-zur-festnahme-nach-ohrfeige-gegen-chris-rock-bei-oscars-bereit-a-611299c8-0b54-451b-84bc-14d9802bf7ac#ref=rss)
 ### freitag
 
 * [https://www.spiegel.de/politik/deutschland/news-russland-ukraine-krieg-china-eu-fussball-weltmeisterschaft-katar](https://www.spiegel.de/politik/deutschland/news-russland-ukraine-krieg-china-eu-fussball-weltmeisterschaft-katar-a-d5d7f7e6-774b-46b2-93b5-d0a096d88dd7#ref=rss)
 * [https://www.spiegel.de/ausland/krieg-in-der-ukraine-das-geschah-in-der-nacht-zu-freitag-1-april](https://www.spiegel.de/ausland/krieg-in-der-ukraine-das-geschah-in-der-nacht-zu-freitag-1-april-a-5a5b10b0-ed81-408a-a1fa-bd2d1f09f9fa#ref=rss)
-### smith
-
-* [https://www.spiegel.de/panorama/justiz/will-smith-polizei-stand-zur-festnahme-nach-ohrfeige-gegen-chris-rock-bei-oscars-bereit](https://www.spiegel.de/panorama/justiz/will-smith-polizei-stand-zur-festnahme-nach-ohrfeige-gegen-chris-rock-bei-oscars-bereit-a-611299c8-0b54-451b-84bc-14d9802bf7ac#ref=rss)
-### chris
-
-* [https://www.spiegel.de/panorama/justiz/will-smith-polizei-stand-zur-festnahme-nach-ohrfeige-gegen-chris-rock-bei-oscars-bereit](https://www.spiegel.de/panorama/justiz/will-smith-polizei-stand-zur-festnahme-nach-ohrfeige-gegen-chris-rock-bei-oscars-bereit-a-611299c8-0b54-451b-84bc-14d9802bf7ac#ref=rss)
-### rock
-
-* [https://www.spiegel.de/panorama/justiz/will-smith-polizei-stand-zur-festnahme-nach-ohrfeige-gegen-chris-rock-bei-oscars-bereit](https://www.spiegel.de/panorama/justiz/will-smith-polizei-stand-zur-festnahme-nach-ohrfeige-gegen-chris-rock-bei-oscars-bereit-a-611299c8-0b54-451b-84bc-14d9802bf7ac#ref=rss)
 
