@@ -74,7 +74,9 @@ def main():
         link = item['link']
         if not link.startswith('https://www.spiegel.de/international/'): # don't mix DE and EN, focus on just DE for now
             worddb.add_words(item['title'], link)
-            worddb.add_words(item['summary'], link)
+            summary = item.get('summary', None)
+            if summary:
+                worddb.add_words(summary, link)
 
     worddb_from_file = w.worddb_from_file(DE_WORDDB)
     worddb = worddb.merge(worddb_from_file)
