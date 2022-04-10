@@ -4,36 +4,49 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### fc
+### menschen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-union-berlin-gewinnt-berlin-derby-gegen-hertha-bsc-4-1](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-union-berlin-gewinnt-berlin-derby-gegen-hertha-bsc-4-1-a-1f34b70a-d6ee-4806-a688-8515bd342f93#ref=rss)
-* [https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton](https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton-a-d9fed855-4f45-4080-a306-f849901264f7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05-a-c654989e-163c-4d78-a56a-4380a3e33ec3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-fotos-zeigen-die-vergangenen-kriegstage](https://www.spiegel.de/ausland/ukraine-fotos-zeigen-die-vergangenen-kriegstage-a-9251d740-20ab-468a-8b5a-95b38c0ede7e#ref=rss)
+* [https://www.spiegel.de/gesundheit/risikogruppen-in-der-corona-pandemie-wir-werden-nicht-zufaellig-vergessen](https://www.spiegel.de/gesundheit/risikogruppen-in-der-corona-pandemie-wir-werden-nicht-zufaellig-vergessen-a-dfedd015-b78f-431d-8906-6c087d75f6dc#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl-a-1f8baf20-40c7-4f6a-9dac-36a1a6279d65#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch-a-856d1971-7e6c-42e8-8654-e6d8cb2ed5b0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100](https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100-a-68084cb1-4164-40f2-b9ab-14e0210f6d45#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/verbot-von-15-organisationen-wie-russlands-regierung-kritiker-mundtot-machen-will](https://www.spiegel.de/ausland/verbot-von-15-organisationen-wie-russlands-regierung-kritiker-mundtot-machen-will-a-03679847-6d05-4288-b747-d76702b567eb#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin](https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin-a-a4cdd8d1-d31a-47f4-a619-cef7c5fab5a1#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-dutzende-tote-zivilisten-ukraine-meldet-fund-von-massengrab-nahe-kiew](https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-dutzende-tote-zivilisten-ukraine-meldet-fund-von-massengrab-nahe-kiew-a-0436db9e-9a6b-435d-94cc-b195573c83b9#ref=rss)
+* [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
 ### deutschland
 
 * [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch-a-856d1971-7e6c-42e8-8654-e6d8cb2ed5b0#ref=rss)
 * [https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100](https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100-a-68084cb1-4164-40f2-b9ab-14e0210f6d45#ref=rss)
 * [https://www.spiegel.de/wirtschaft/soeder-will-fracking-in-deutschland-ergebnisoffen-pruefen](https://www.spiegel.de/wirtschaft/soeder-will-fracking-in-deutschland-ergebnisoffen-pruefen-a-0f67693c-e398-453e-b360-fcd944e29ad7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/waffenlieferung-fuer-die-ukraine-experte-ueber-marder-schuetzenpanzer](https://www.spiegel.de/wissenschaft/mensch/waffenlieferung-fuer-die-ukraine-experte-ueber-marder-schuetzenpanzer-a-d74c94c3-2075-4229-a955-e1f13c07b9fa#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld](https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld-a-79f67793-2fc6-4f8f-892f-1fe656ace9a3#ref=rss)
+### putin
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-es-kommt-nun-doch-zu-einer-allgemeinen-impfpflicht-ab-95](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-es-kommt-nun-doch-zu-einer-allgemeinen-impfpflicht-ab-95-a-d65c7b81-f188-4fa6-b3dd-2f9418bbd4eb#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin](https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin-a-a4cdd8d1-d31a-47f4-a619-cef7c5fab5a1#ref=rss)
+* [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
 ### ukraine
 
+* [https://www.spiegel.de/ausland/ukraine-krieg-boris-johnson-und-wolodymyr-selenskyj-spazieren-durch-kiew](https://www.spiegel.de/ausland/ukraine-krieg-boris-johnson-und-wolodymyr-selenskyj-spazieren-durch-kiew-a-6d737627-1db8-4b29-b60c-bea17da77ac1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-fotos-zeigen-die-vergangenen-kriegstage](https://www.spiegel.de/ausland/ukraine-fotos-zeigen-die-vergangenen-kriegstage-a-9251d740-20ab-468a-8b5a-95b38c0ede7e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin](https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin-a-a4cdd8d1-d31a-47f4-a619-cef7c5fab5a1#ref=rss)
 * [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/waffenlieferung-fuer-die-ukraine-experte-ueber-marder-schuetzenpanzer](https://www.spiegel.de/wissenschaft/mensch/waffenlieferung-fuer-die-ukraine-experte-ueber-marder-schuetzenpanzer-a-d74c94c3-2075-4229-a955-e1f13c07b9fa#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew](https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew-a-4b3e2f05-cd34-4445-8e22-ac32feda4448#ref=rss)
-* [https://www.spiegel.de/panorama/die-bilder-der-woche-mann-ueber-bord](https://www.spiegel.de/panorama/die-bilder-der-woche-mann-ueber-bord-a-a2aa7549-6de0-4d68-85a9-6184887ccef7#ref=rss)
-### frankreich
+### sieht
 
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl-a-1f8baf20-40c7-4f6a-9dac-36a1a6279d65#ref=rss)
-* [https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien](https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien-a-9090dfbe-90f4-4ac4-bc38-422300510466#ref=rss)
-* [https://www.spiegel.de/panorama/frankreich-flugschuelerin-uebernimmt-nach-pilotentod-ruder-von-sportflugzeug](https://www.spiegel.de/panorama/frankreich-flugschuelerin-uebernimmt-nach-pilotentod-ruder-von-sportflugzeug-a-0daea4de-55af-4f66-821e-7faf6df83fb0#ref=rss)
-* [https://www.spiegel.de/panorama/die-bilder-der-woche-mann-ueber-bord](https://www.spiegel.de/panorama/die-bilder-der-woche-mann-ueber-bord-a-a2aa7549-6de0-4d68-85a9-6184887ccef7#ref=rss)
-### premier
+* [https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei](https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei-a-90be5c5f-e42b-4a7c-a36e-a8f10385bddd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum](https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum-a-6315cdda-c783-4a61-bb57-d1c7afd17047#ref=rss)
+* [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
+* [https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung](https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung-a-1413339e-09a2-4e6e-b589-23c982d1dc95#ref=rss)
+### max
 
-* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min-a-56da8632-0016-46ee-a37d-ecc1e0fde0b4#ref=rss)
-* [https://www.spiegel.de/ausland/pakistan-premier-imran-khan-verliert-misstrauensvotum](https://www.spiegel.de/ausland/pakistan-premier-imran-khan-verliert-misstrauensvotum-a-176228a4-0f48-4de4-b890-82c1f1e70582#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew](https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew-a-4b3e2f05-cd34-4445-8e22-ac32feda4448#ref=rss)
-* [https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton](https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton-a-d9fed855-4f45-4080-a306-f849901264f7#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht](https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht-a-5355a485-a68b-4677-82f9-e7aeae715a85#ref=rss)
+* [https://www.spiegel.de/sport/formel1/grosser-preis-von-australien-max-verstappen-scheidet-bei-start-ziel-sieg-von-charles-leclerc-aus](https://www.spiegel.de/sport/formel1/grosser-preis-von-australien-max-verstappen-scheidet-bei-start-ziel-sieg-von-charles-leclerc-aus-a-1a425645-172a-4ef7-a1bc-d76556691065#ref=rss)
+### verstappen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht](https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht-a-5355a485-a68b-4677-82f9-e7aeae715a85#ref=rss)
+* [https://www.spiegel.de/sport/formel1/grosser-preis-von-australien-max-verstappen-scheidet-bei-start-ziel-sieg-von-charles-leclerc-aus](https://www.spiegel.de/sport/formel1/grosser-preis-von-australien-max-verstappen-scheidet-bei-start-ziel-sieg-von-charles-leclerc-aus-a-1a425645-172a-4ef7-a1bc-d76556691065#ref=rss)
 ### markus
 
 * [https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum](https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum-a-6315cdda-c783-4a61-bb57-d1c7afd17047#ref=rss)
@@ -42,96 +55,230 @@ tags: __no_header__
 
 * [https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum](https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum-a-6315cdda-c783-4a61-bb57-d1c7afd17047#ref=rss)
 * [https://www.spiegel.de/wirtschaft/soeder-will-fracking-in-deutschland-ergebnisoffen-pruefen](https://www.spiegel.de/wirtschaft/soeder-will-fracking-in-deutschland-ergebnisoffen-pruefen-a-0f67693c-e398-453e-b360-fcd944e29ad7#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum](https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum-a-6315cdda-c783-4a61-bb57-d1c7afd17047#ref=rss)
-* [https://www.spiegel.de/ausland/moldau-premierministerin-natalia-gavrilita-es-geht-um-mehr-als-geschaefte](https://www.spiegel.de/ausland/moldau-premierministerin-natalia-gavrilita-es-geht-um-mehr-als-geschaefte-a-21925567-9795-480a-870d-57c8e111052f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/waffenlieferung-fuer-die-ukraine-experte-ueber-marder-schuetzenpanzer](https://www.spiegel.de/wissenschaft/mensch/waffenlieferung-fuer-die-ukraine-experte-ueber-marder-schuetzenpanzer-a-d74c94c3-2075-4229-a955-e1f13c07b9fa#ref=rss)
 ### drei
 
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-nach-6-1-auswaertssieg-gegen-clermont-foot-auf-titelkurs](https://www.spiegel.de/sport/fussball/paris-saint-germain-nach-6-1-auswaertssieg-gegen-clermont-foot-auf-titelkurs-a-538543d4-c35c-4790-9f64-8e7dfb2ceee2#ref=rss)
 * [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-fragt-bei-twitter-stirbt-twitter](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-fragt-bei-twitter-stirbt-twitter-a-a744d73b-ed85-4646-afc4-239655fdab0e#ref=rss)
 * [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min-a-56da8632-0016-46ee-a37d-ecc1e0fde0b4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/axiom-1-mission-was-machen-die-millionaere-im-esa-forschungsmodul-columbus](https://www.spiegel.de/wissenschaft/weltall/axiom-1-mission-was-machen-die-millionaere-im-esa-forschungsmodul-columbus-a-34889a70-1336-460c-b286-f861663f4f77#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05-a-c654989e-163c-4d78-a56a-4380a3e33ec3#ref=rss)
-### union
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin-a-3b494800-638e-45a4-bd2b-2f5d7ae6d182#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-union-berlin-gewinnt-berlin-derby-gegen-hertha-bsc-4-1](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-union-berlin-gewinnt-berlin-derby-gegen-hertha-bsc-4-1-a-1f34b70a-d6ee-4806-a688-8515bd342f93#ref=rss)
-### hertha
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin-a-3b494800-638e-45a4-bd2b-2f5d7ae6d182#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-union-berlin-gewinnt-berlin-derby-gegen-hertha-bsc-4-1](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-union-berlin-gewinnt-berlin-derby-gegen-hertha-bsc-4-1-a-1f34b70a-d6ee-4806-a688-8515bd342f93#ref=rss)
 ### woche
 
-* [https://www.spiegel.de/wissenschaft/weltall/axiom-1-mission-was-machen-die-millionaere-im-esa-forschungsmodul-columbus](https://www.spiegel.de/wissenschaft/weltall/axiom-1-mission-was-machen-die-millionaere-im-esa-forschungsmodul-columbus-a-34889a70-1336-460c-b286-f861663f4f77#ref=rss)
-* [https://www.spiegel.de/sport/fussball/arminia-bielefeld-cedric-brunner-nach-kopfballduell-mit-jonas-wind-im-krankenhaus](https://www.spiegel.de/sport/fussball/arminia-bielefeld-cedric-brunner-nach-kopfballduell-mit-jonas-wind-im-krankenhaus-a-0d4361aa-ed36-4bdd-8f4f-b525046c63ea#ref=rss)
-* [https://www.spiegel.de/panorama/die-bilder-der-woche-mann-ueber-bord](https://www.spiegel.de/panorama/die-bilder-der-woche-mann-ueber-bord-a-a2aa7549-6de0-4d68-85a9-6184887ccef7#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum](https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum-a-6315cdda-c783-4a61-bb57-d1c7afd17047#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05-a-c654989e-163c-4d78-a56a-4380a3e33ec3#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum](https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum-a-6315cdda-c783-4a61-bb57-d1c7afd17047#ref=rss)
-* [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
-* [https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung](https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung-a-1413339e-09a2-4e6e-b589-23c982d1dc95#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl-a-1f8baf20-40c7-4f6a-9dac-36a1a6279d65#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch-a-856d1971-7e6c-42e8-8654-e6d8cb2ed5b0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100](https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100-a-68084cb1-4164-40f2-b9ab-14e0210f6d45#ref=rss)
-### karl
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch-a-856d1971-7e6c-42e8-8654-e6d8cb2ed5b0#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew](https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew-a-4b3e2f05-cd34-4445-8e22-ac32feda4448#ref=rss)
-### kiew
-
-* [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew](https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew-a-4b3e2f05-cd34-4445-8e22-ac32feda4448#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-es-kommt-nun-doch-zu-einer-allgemeinen-impfpflicht-ab-95](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-es-kommt-nun-doch-zu-einer-allgemeinen-impfpflicht-ab-95-a-d65c7b81-f188-4fa6-b3dd-2f9418bbd4eb#ref=rss)
+* [https://www.spiegel.de/karriere/welche-zahl-folgt-als-naechste-raetsel-der-woche](https://www.spiegel.de/karriere/welche-zahl-folgt-als-naechste-raetsel-der-woche-a-22b7f8ba-8fb9-4d65-886a-af18c08ce86b#ref=rss)
 ### selenskyj
 
+* [https://www.spiegel.de/ausland/ukraine-krieg-boris-johnson-und-wolodymyr-selenskyj-spazieren-durch-kiew](https://www.spiegel.de/ausland/ukraine-krieg-boris-johnson-und-wolodymyr-selenskyj-spazieren-durch-kiew-a-6d737627-1db8-4b29-b60c-bea17da77ac1#ref=rss)
 * [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew](https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew-a-4b3e2f05-cd34-4445-8e22-ac32feda4448#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben](https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben-a-3523d2fb-15ae-4f4a-936a-ac716a302f7c#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl-a-1f8baf20-40c7-4f6a-9dac-36a1a6279d65#ref=rss)
+* [https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien](https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien-a-9090dfbe-90f4-4ac4-bc38-422300510466#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben](https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben-a-3523d2fb-15ae-4f4a-936a-ac716a302f7c#ref=rss)
+* [https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien](https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien-a-9090dfbe-90f4-4ac4-bc38-422300510466#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei](https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei-a-90be5c5f-e42b-4a7c-a36e-a8f10385bddd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soeder-will-fracking-in-deutschland-ergebnisoffen-pruefen](https://www.spiegel.de/wirtschaft/soeder-will-fracking-in-deutschland-ergebnisoffen-pruefen-a-0f67693c-e398-453e-b360-fcd944e29ad7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht](https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht-a-051af349-e1d4-4631-9460-03b273f55f32#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-reichelt-befuerworterin-caspar-verlaesst-den-medienkonzern](https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-reichelt-befuerworterin-caspar-verlaesst-den-medienkonzern-a-52fbcd30-a5c4-4e04-8573-7dd74cf3796b#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht](https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht-a-051af349-e1d4-4631-9460-03b273f55f32#ref=rss)
+* [https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung](https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung-a-1413339e-09a2-4e6e-b589-23c982d1dc95#ref=rss)
+### charles
+
+* [https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht](https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht-a-5355a485-a68b-4677-82f9-e7aeae715a85#ref=rss)
+* [https://www.spiegel.de/sport/formel1/grosser-preis-von-australien-max-verstappen-scheidet-bei-start-ziel-sieg-von-charles-leclerc-aus](https://www.spiegel.de/sport/formel1/grosser-preis-von-australien-max-verstappen-scheidet-bei-start-ziel-sieg-von-charles-leclerc-aus-a-1a425645-172a-4ef7-a1bc-d76556691065#ref=rss)
+### leclerc
+
+* [https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht](https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht-a-5355a485-a68b-4677-82f9-e7aeae715a85#ref=rss)
+* [https://www.spiegel.de/sport/formel1/grosser-preis-von-australien-max-verstappen-scheidet-bei-start-ziel-sieg-von-charles-leclerc-aus](https://www.spiegel.de/sport/formel1/grosser-preis-von-australien-max-verstappen-scheidet-bei-start-ziel-sieg-von-charles-leclerc-aus-a-1a425645-172a-4ef7-a1bc-d76556691065#ref=rss)
+### berlusconi
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin](https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin-a-a4cdd8d1-d31a-47f4-a619-cef7c5fab5a1#ref=rss)
+* [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-kopfproblem-des-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-kopfproblem-des-fc-bayern-a-e01e09d5-d923-4b6a-abcb-93f00e79cd08#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum](https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum-a-6315cdda-c783-4a61-bb57-d1c7afd17047#ref=rss)
+### frau
+
+* [https://www.spiegel.de/gesundheit/risikogruppen-in-der-corona-pandemie-wir-werden-nicht-zufaellig-vergessen](https://www.spiegel.de/gesundheit/risikogruppen-in-der-corona-pandemie-wir-werden-nicht-zufaellig-vergessen-a-dfedd015-b78f-431d-8906-6c087d75f6dc#ref=rss)
+* [https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung](https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung-a-1413339e-09a2-4e6e-b589-23c982d1dc95#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/karriere/welche-zahl-folgt-als-naechste-raetsel-der-woche](https://www.spiegel.de/karriere/welche-zahl-folgt-als-naechste-raetsel-der-woche-a-22b7f8ba-8fb9-4d65-886a-af18c08ce86b#ref=rss)
+### folge
+
+* [https://www.spiegel.de/karriere/welche-zahl-folgt-als-naechste-raetsel-der-woche](https://www.spiegel.de/karriere/welche-zahl-folgt-als-naechste-raetsel-der-woche-a-22b7f8ba-8fb9-4d65-886a-af18c08ce86b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100](https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100-a-68084cb1-4164-40f2-b9ab-14e0210f6d45#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min-a-56da8632-0016-46ee-a37d-ecc1e0fde0b4#ref=rss)
 ### twitter
 
 * [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-fragt-bei-twitter-stirbt-twitter](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-fragt-bei-twitter-stirbt-twitter-a-a744d73b-ed85-4646-afc4-239655fdab0e#ref=rss)
-### sieg
+### bochum
 
-* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min-a-56da8632-0016-46ee-a37d-ecc1e0fde0b4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld](https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld-a-79f67793-2fc6-4f8f-892f-1fe656ace9a3#ref=rss)
-* [https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton](https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton-a-d9fed855-4f45-4080-a306-f849901264f7#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/justiz/bochum-mann-stirbt-nach-streit-bei-techno-party-tuersteher-in-gewahrsam](https://www.spiegel.de/panorama/justiz/bochum-mann-stirbt-nach-streit-bei-techno-party-tuersteher-in-gewahrsam-a-959b75bd-f7b2-4b69-a074-96d6bfd0022d#ref=rss)
+### stirbt
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin-a-3b494800-638e-45a4-bd2b-2f5d7ae6d182#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-union-berlin-gewinnt-berlin-derby-gegen-hertha-bsc-4-1](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-union-berlin-gewinnt-berlin-derby-gegen-hertha-bsc-4-1-a-1f34b70a-d6ee-4806-a688-8515bd342f93#ref=rss)
-### bsc
+* [https://www.spiegel.de/panorama/justiz/bochum-mann-stirbt-nach-streit-bei-techno-party-tuersteher-in-gewahrsam](https://www.spiegel.de/panorama/justiz/bochum-mann-stirbt-nach-streit-bei-techno-party-tuersteher-in-gewahrsam-a-959b75bd-f7b2-4b69-a074-96d6bfd0022d#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-fragt-bei-twitter-stirbt-twitter](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-fragt-bei-twitter-stirbt-twitter-a-a744d73b-ed85-4646-afc4-239655fdab0e#ref=rss)
+### technoparty
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin-a-3b494800-638e-45a4-bd2b-2f5d7ae6d182#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-union-berlin-gewinnt-berlin-derby-gegen-hertha-bsc-4-1](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-union-berlin-gewinnt-berlin-derby-gegen-hertha-bsc-4-1-a-1f34b70a-d6ee-4806-a688-8515bd342f93#ref=rss)
-### land
+* [https://www.spiegel.de/panorama/justiz/bochum-mann-stirbt-nach-streit-bei-techno-party-tuersteher-in-gewahrsam](https://www.spiegel.de/panorama/justiz/bochum-mann-stirbt-nach-streit-bei-techno-party-tuersteher-in-gewahrsam-a-959b75bd-f7b2-4b69-a074-96d6bfd0022d#ref=rss)
+### türsteher
 
-* [https://www.spiegel.de/wirtschaft/nigeria-land-zum-zweiten-mal-innerhalb-eines-monats-ohne-strom](https://www.spiegel.de/wirtschaft/nigeria-land-zum-zweiten-mal-innerhalb-eines-monats-ohne-strom-a-293ed9c1-7796-4bd8-9f11-82d90d67fcaa#ref=rss)
-* [https://www.spiegel.de/ausland/moldau-premierministerin-natalia-gavrilita-es-geht-um-mehr-als-geschaefte](https://www.spiegel.de/ausland/moldau-premierministerin-natalia-gavrilita-es-geht-um-mehr-als-geschaefte-a-21925567-9795-480a-870d-57c8e111052f#ref=rss)
-### bielefeld
+* [https://www.spiegel.de/panorama/justiz/bochum-mann-stirbt-nach-streit-bei-techno-party-tuersteher-in-gewahrsam](https://www.spiegel.de/panorama/justiz/bochum-mann-stirbt-nach-streit-bei-techno-party-tuersteher-in-gewahrsam-a-959b75bd-f7b2-4b69-a074-96d6bfd0022d#ref=rss)
+### paris
 
-* [https://www.spiegel.de/sport/fussball/arminia-bielefeld-cedric-brunner-nach-kopfballduell-mit-jonas-wind-im-krankenhaus](https://www.spiegel.de/sport/fussball/arminia-bielefeld-cedric-brunner-nach-kopfballduell-mit-jonas-wind-im-krankenhaus-a-0d4361aa-ed36-4bdd-8f4f-b525046c63ea#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld](https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld-a-79f67793-2fc6-4f8f-892f-1fe656ace9a3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-nach-6-1-auswaertssieg-gegen-clermont-foot-auf-titelkurs](https://www.spiegel.de/sport/fussball/paris-saint-germain-nach-6-1-auswaertssieg-gegen-clermont-foot-auf-titelkurs-a-538543d4-c35c-4790-9f64-8e7dfb2ceee2#ref=rss)
+### saintgermain
+
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-nach-6-1-auswaertssieg-gegen-clermont-foot-auf-titelkurs](https://www.spiegel.de/sport/fussball/paris-saint-germain-nach-6-1-auswaertssieg-gegen-clermont-foot-auf-titelkurs-a-538543d4-c35c-4790-9f64-8e7dfb2ceee2#ref=rss)
+### clermont
+
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-nach-6-1-auswaertssieg-gegen-clermont-foot-auf-titelkurs](https://www.spiegel.de/sport/fussball/paris-saint-germain-nach-6-1-auswaertssieg-gegen-clermont-foot-auf-titelkurs-a-538543d4-c35c-4790-9f64-8e7dfb2ceee2#ref=rss)
+### foot
+
+* [https://www.spiegel.de/sport/fussball/paris-saint-germain-nach-6-1-auswaertssieg-gegen-clermont-foot-auf-titelkurs](https://www.spiegel.de/sport/fussball/paris-saint-germain-nach-6-1-auswaertssieg-gegen-clermont-foot-auf-titelkurs-a-538543d4-c35c-4790-9f64-8e7dfb2ceee2#ref=rss)
+### cartoons
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-es-kommt-nun-doch-zu-einer-allgemeinen-impfpflicht-ab-95](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-es-kommt-nun-doch-zu-einer-allgemeinen-impfpflicht-ab-95-a-d65c7b81-f188-4fa6-b3dd-2f9418bbd4eb#ref=rss)
+### kremlchef
+
+* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-es-kommt-nun-doch-zu-einer-allgemeinen-impfpflicht-ab-95](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-es-kommt-nun-doch-zu-einer-allgemeinen-impfpflicht-ab-95-a-d65c7b81-f188-4fa6-b3dd-2f9418bbd4eb#ref=rss)
+* [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-boris-johnson-und-wolodymyr-selenskyj-spazieren-durch-kiew](https://www.spiegel.de/ausland/ukraine-krieg-boris-johnson-und-wolodymyr-selenskyj-spazieren-durch-kiew-a-6d737627-1db8-4b29-b60c-bea17da77ac1#ref=rss)
+* [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
+### kiew
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-boris-johnson-und-wolodymyr-selenskyj-spazieren-durch-kiew](https://www.spiegel.de/ausland/ukraine-krieg-boris-johnson-und-wolodymyr-selenskyj-spazieren-durch-kiew-a-6d737627-1db8-4b29-b60c-bea17da77ac1#ref=rss)
+* [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
+### anne
+
+* [https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben](https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben-a-3523d2fb-15ae-4f4a-936a-ac716a302f7c#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben](https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben-a-3523d2fb-15ae-4f4a-936a-ac716a302f7c#ref=rss)
+### flutkatastrophe
+
+* [https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben](https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben-a-3523d2fb-15ae-4f4a-936a-ac716a302f7c#ref=rss)
+### urlaub
+
+* [https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben](https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben-a-3523d2fb-15ae-4f4a-936a-ac716a302f7c#ref=rss)
+* [https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien](https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien-a-9090dfbe-90f4-4ac4-bc38-422300510466#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben](https://www.spiegel.de/politik/deutschland/anne-spiegel-ministerin-soll-trotz-flutkatastrophe-langen-urlaub-gemacht-haben-a-3523d2fb-15ae-4f4a-936a-ac716a302f7c#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht](https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht-a-051af349-e1d4-4631-9460-03b273f55f32#ref=rss)
+### corona
+
+* [https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei](https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei-a-90be5c5f-e42b-4a7c-a36e-a8f10385bddd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100](https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100-a-68084cb1-4164-40f2-b9ab-14e0210f6d45#ref=rss)
+### hotels
+
+* [https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei](https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei-a-90be5c5f-e42b-4a7c-a36e-a8f10385bddd#ref=rss)
+### gaststätten
+
+* [https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei](https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei-a-90be5c5f-e42b-4a7c-a36e-a8f10385bddd#ref=rss)
+### maskenpflicht
+
+* [https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei](https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei-a-90be5c5f-e42b-4a7c-a36e-a8f10385bddd#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei](https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei-a-90be5c5f-e42b-4a7c-a36e-a8f10385bddd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-kopfproblem-des-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-kopfproblem-des-fc-bayern-a-e01e09d5-d923-4b6a-abcb-93f00e79cd08#ref=rss)
+### umfrage
+
+* [https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei](https://www.spiegel.de/wissenschaft/mensch/corona-viele-hotels-und-gaststaetten-behalten-maskenpflicht-bei-a-90be5c5f-e42b-4a7c-a36e-a8f10385bddd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch-a-856d1971-7e6c-42e8-8654-e6d8cb2ed5b0#ref=rss)
+### formel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht](https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht-a-5355a485-a68b-4677-82f9-e7aeae715a85#ref=rss)
+* [https://www.spiegel.de/sport/formel1/grosser-preis-von-australien-max-verstappen-scheidet-bei-start-ziel-sieg-von-charles-leclerc-aus](https://www.spiegel.de/sport/formel1/grosser-preis-von-australien-max-verstappen-scheidet-bei-start-ziel-sieg-von-charles-leclerc-aus-a-1a425645-172a-4ef7-a1bc-d76556691065#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht](https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht-a-5355a485-a68b-4677-82f9-e7aeae715a85#ref=rss)
+* [https://www.spiegel.de/sport/formel1/grosser-preis-von-australien-max-verstappen-scheidet-bei-start-ziel-sieg-von-charles-leclerc-aus](https://www.spiegel.de/sport/formel1/grosser-preis-von-australien-max-verstappen-scheidet-bei-start-ziel-sieg-von-charles-leclerc-aus-a-1a425645-172a-4ef7-a1bc-d76556691065#ref=rss)
+### katastrophe
+
+* [https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht](https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht-a-5355a485-a68b-4677-82f9-e7aeae715a85#ref=rss)
+### sebastian
+
+* [https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht](https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht-a-5355a485-a68b-4677-82f9-e7aeae715a85#ref=rss)
+### vettel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht](https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht-a-5355a485-a68b-4677-82f9-e7aeae715a85#ref=rss)
+### auto
+
+* [https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht](https://www.spiegel.de/sport/formel1/formel-1-katastrophe-fuer-max-verstappen-sebastian-vettel-versteht-sein-auto-nicht-a-5355a485-a68b-4677-82f9-e7aeae715a85#ref=rss)
+### scottie
+
+* [https://www.spiegel.de/sport/golf/golf-scottie-scheffler-steht-beim-masters-in-augusta-vor-dem-gesamtsieg](https://www.spiegel.de/sport/golf/golf-scottie-scheffler-steht-beim-masters-in-augusta-vor-dem-gesamtsieg-a-d7b01313-53dd-4d17-9b46-cb736cd85fdf#ref=rss)
+### scheffler
+
+* [https://www.spiegel.de/sport/golf/golf-scottie-scheffler-steht-beim-masters-in-augusta-vor-dem-gesamtsieg](https://www.spiegel.de/sport/golf/golf-scottie-scheffler-steht-beim-masters-in-augusta-vor-dem-gesamtsieg-a-d7b01313-53dd-4d17-9b46-cb736cd85fdf#ref=rss)
+### masters
+
+* [https://www.spiegel.de/sport/golf/golf-scottie-scheffler-steht-beim-masters-in-augusta-vor-dem-gesamtsieg](https://www.spiegel.de/sport/golf/golf-scottie-scheffler-steht-beim-masters-in-augusta-vor-dem-gesamtsieg-a-d7b01313-53dd-4d17-9b46-cb736cd85fdf#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/ausland/ukraine-fotos-zeigen-die-vergangenen-kriegstage](https://www.spiegel.de/ausland/ukraine-fotos-zeigen-die-vergangenen-kriegstage-a-9251d740-20ab-468a-8b5a-95b38c0ede7e#ref=rss)
+### kriegstage
+
+* [https://www.spiegel.de/ausland/ukraine-fotos-zeigen-die-vergangenen-kriegstage](https://www.spiegel.de/ausland/ukraine-fotos-zeigen-die-vergangenen-kriegstage-a-9251d740-20ab-468a-8b5a-95b38c0ede7e#ref=rss)
+### 15
+
+* [https://www.spiegel.de/ausland/verbot-von-15-organisationen-wie-russlands-regierung-kritiker-mundtot-machen-will](https://www.spiegel.de/ausland/verbot-von-15-organisationen-wie-russlands-regierung-kritiker-mundtot-machen-will-a-03679847-6d05-4288-b747-d76702b567eb#ref=rss)
+### organisationen
+
+* [https://www.spiegel.de/ausland/verbot-von-15-organisationen-wie-russlands-regierung-kritiker-mundtot-machen-will](https://www.spiegel.de/ausland/verbot-von-15-organisationen-wie-russlands-regierung-kritiker-mundtot-machen-will-a-03679847-6d05-4288-b747-d76702b567eb#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/verbot-von-15-organisationen-wie-russlands-regierung-kritiker-mundtot-machen-will](https://www.spiegel.de/ausland/verbot-von-15-organisationen-wie-russlands-regierung-kritiker-mundtot-machen-will-a-03679847-6d05-4288-b747-d76702b567eb#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-dutzende-tote-zivilisten-ukraine-meldet-fund-von-massengrab-nahe-kiew](https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-dutzende-tote-zivilisten-ukraine-meldet-fund-von-massengrab-nahe-kiew-a-0436db9e-9a6b-435d-94cc-b195573c83b9#ref=rss)
+### arbeit
+
+* [https://www.spiegel.de/ausland/verbot-von-15-organisationen-wie-russlands-regierung-kritiker-mundtot-machen-will](https://www.spiegel.de/ausland/verbot-von-15-organisationen-wie-russlands-regierung-kritiker-mundtot-machen-will-a-03679847-6d05-4288-b747-d76702b567eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch-a-856d1971-7e6c-42e8-8654-e6d8cb2ed5b0#ref=rss)
+### verliert
+
+* [https://www.spiegel.de/ausland/verbot-von-15-organisationen-wie-russlands-regierung-kritiker-mundtot-machen-will](https://www.spiegel.de/ausland/verbot-von-15-organisationen-wie-russlands-regierung-kritiker-mundtot-machen-will-a-03679847-6d05-4288-b747-d76702b567eb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch-a-856d1971-7e6c-42e8-8654-e6d8cb2ed5b0#ref=rss)
+### silvio
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin](https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin-a-a4cdd8d1-d31a-47f4-a619-cef7c5fab5a1#ref=rss)
+### enttäuscht
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin](https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin-a-a4cdd8d1-d31a-47f4-a619-cef7c5fab5a1#ref=rss)
+* [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin](https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin-a-a4cdd8d1-d31a-47f4-a619-cef7c5fab5a1#ref=rss)
+### ministerpräsident
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin](https://www.spiegel.de/ausland/ukraine-krieg-silvio-berlusconi-zutiefst-enttaeuscht-und-traurig-ueber-freund-wladimir-putin-a-a4cdd8d1-d31a-47f4-a619-cef7c5fab5a1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum](https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum-a-6315cdda-c783-4a61-bb57-d1c7afd17047#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/deinspiegel/was-mensch-und-affe-verbindet-und-was-sie-unterscheidet-podcast](https://www.spiegel.de/deinspiegel/was-mensch-und-affe-verbindet-und-was-sie-unterscheidet-podcast-a-9c1650c4-aebb-4c3a-aa2c-d371897b7c83#ref=rss)
+* [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
+### leistung
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-kopfproblem-des-fc-bayern](https://www.spiegel.de/sport/fussball/fussball-bundesliga-das-kopfproblem-des-fc-bayern-a-e01e09d5-d923-4b6a-abcb-93f00e79cd08#ref=rss)
+* [https://www.spiegel.de/gesundheit/risikogruppen-in-der-corona-pandemie-wir-werden-nicht-zufaellig-vergessen](https://www.spiegel.de/gesundheit/risikogruppen-in-der-corona-pandemie-wir-werden-nicht-zufaellig-vergessen-a-dfedd015-b78f-431d-8906-6c087d75f6dc#ref=rss)
 ### offenbar
 
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-dutzende-tote-zivilisten-ukraine-meldet-fund-von-massengrab-nahe-kiew](https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-dutzende-tote-zivilisten-ukraine-meldet-fund-von-massengrab-nahe-kiew-a-0436db9e-9a6b-435d-94cc-b195573c83b9#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum](https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum-a-6315cdda-c783-4a61-bb57-d1c7afd17047#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nigeria-land-zum-zweiten-mal-innerhalb-eines-monats-ohne-strom](https://www.spiegel.de/wirtschaft/nigeria-land-zum-zweiten-mal-innerhalb-eines-monats-ohne-strom-a-293ed9c1-7796-4bd8-9f11-82d90d67fcaa#ref=rss)
 ### einmal
 
 * [https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum](https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum-a-6315cdda-c783-4a61-bb57-d1c7afd17047#ref=rss)
 * [https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung](https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung-a-1413339e-09a2-4e6e-b589-23c982d1dc95#ref=rss)
-### leben
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum](https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum-a-6315cdda-c783-4a61-bb57-d1c7afd17047#ref=rss)
-* [https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall](https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall-a-b15e9450-e430-4aac-b276-36f3601e80a6#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum](https://www.spiegel.de/politik/deutschland/markus-soeder-bekundet-abschied-vom-kanzlertraum-a-6315cdda-c783-4a61-bb57-d1c7afd17047#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/waffenlieferung-fuer-die-ukraine-experte-ueber-marder-schuetzenpanzer](https://www.spiegel.de/wissenschaft/mensch/waffenlieferung-fuer-die-ukraine-experte-ueber-marder-schuetzenpanzer-a-d74c94c3-2075-4229-a955-e1f13c07b9fa#ref=rss)
 ### emmanuel
 
 * [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl-a-1f8baf20-40c7-4f6a-9dac-36a1a6279d65#ref=rss)
@@ -147,24 +294,12 @@ tags: __no_header__
 ### pen
 
 * [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl-a-1f8baf20-40c7-4f6a-9dac-36a1a6279d65#ref=rss)
-### liegen
+### karl
 
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-oder-marine-le-pen-erster-wahlgang-bei-praesidentschaftswahl-a-1f8baf20-40c7-4f6a-9dac-36a1a6279d65#ref=rss)
-* [https://www.spiegel.de/panorama/leute/koenig-von-jordanien-staatsoberhaupt-abdullah-ii-fuer-bandscheiben-op-in-frankfurt](https://www.spiegel.de/panorama/leute/koenig-von-jordanien-staatsoberhaupt-abdullah-ii-fuer-bandscheiben-op-in-frankfurt-a-22f9a4ab-24aa-409b-8838-23e9066cbce1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch-a-856d1971-7e6c-42e8-8654-e6d8cb2ed5b0#ref=rss)
 ### lauterbach
 
 * [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch-a-856d1971-7e6c-42e8-8654-e6d8cb2ed5b0#ref=rss)
-### verliert
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch-a-856d1971-7e6c-42e8-8654-e6d8cb2ed5b0#ref=rss)
-* [https://www.spiegel.de/ausland/pakistan-premier-imran-khan-verliert-misstrauensvotum](https://www.spiegel.de/ausland/pakistan-premier-imran-khan-verliert-misstrauensvotum-a-176228a4-0f48-4de4-b890-82c1f1e70582#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verliert-nach-scheitern-der-impfpflicht-stark-an-zuspruch-a-856d1971-7e6c-42e8-8654-e6d8cb2ed5b0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld](https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld-a-79f67793-2fc6-4f8f-892f-1fe656ace9a3#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien](https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien-a-9090dfbe-90f4-4ac4-bc38-422300510466#ref=rss)
 ### günstig
 
 * [https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien](https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien-a-9090dfbe-90f4-4ac4-bc38-422300510466#ref=rss)
@@ -172,34 +307,12 @@ tags: __no_header__
 
 * [https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien](https://www.spiegel.de/reise/europa/bahnreisen-so-kommen-sie-guenstig-mit-der-bahn-in-den-urlaub-nach-italien-frankreich-kroatien-a-9090dfbe-90f4-4ac4-bc38-422300510466#ref=rss)
 * [https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung](https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung-a-1413339e-09a2-4e6e-b589-23c982d1dc95#ref=rss)
-### geschah
-
-* [https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht](https://www.spiegel.de/ausland/grossoffensive-in-ostukraine-befuerchtet-kiew-will-panzer-aus-duesseldorf-das-geschah-in-der-nacht-a-2d1b0630-6f45-4af2-a9a5-db537fbb4c59#ref=rss)
-* [https://www.spiegel.de/panorama/die-bilder-der-woche-mann-ueber-bord](https://www.spiegel.de/panorama/die-bilder-der-woche-mann-ueber-bord-a-a2aa7549-6de0-4d68-85a9-6184887ccef7#ref=rss)
-### coronazahlen
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100](https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100-a-68084cb1-4164-40f2-b9ab-14e0210f6d45#ref=rss)
-### robert
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100](https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100-a-68084cb1-4164-40f2-b9ab-14e0210f6d45#ref=rss)
-### folge
-
-* [https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100](https://www.spiegel.de/wissenschaft/medizin/coronazahlen-des-robert-koch-instituts-sieben-tage-inzidenz-sinkt-auf-unter-1100-a-68084cb1-4164-40f2-b9ab-14e0210f6d45#ref=rss)
-* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min-a-56da8632-0016-46ee-a37d-ecc1e0fde0b4#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/soeder-will-fracking-in-deutschland-ergebnisoffen-pruefen](https://www.spiegel.de/wirtschaft/soeder-will-fracking-in-deutschland-ergebnisoffen-pruefen-a-0f67693c-e398-453e-b360-fcd944e29ad7#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht](https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht-a-051af349-e1d4-4631-9460-03b273f55f32#ref=rss)
 ### elon
 
 * [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-fragt-bei-twitter-stirbt-twitter](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-fragt-bei-twitter-stirbt-twitter-a-a744d73b-ed85-4646-afc4-239655fdab0e#ref=rss)
 ### musk
 
 * [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-fragt-bei-twitter-stirbt-twitter](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-fragt-bei-twitter-stirbt-twitter-a-a744d73b-ed85-4646-afc4-239655fdab0e#ref=rss)
-### stirbt
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-fragt-bei-twitter-stirbt-twitter](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-fragt-bei-twitter-stirbt-twitter-a-a744d73b-ed85-4646-afc4-239655fdab0e#ref=rss)
-* [https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall](https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall-a-b15e9450-e430-4aac-b276-36f3601e80a6#ref=rss)
 ### cristiano
 
 * [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-entschuldigt-sich-fuer-uebergriff-gegen-zuschauer-mit-smartphone](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-entschuldigt-sich-fuer-uebergriff-gegen-zuschauer-mit-smartphone-a-1992b9c0-69c1-4463-9219-28723788c53a#ref=rss)
@@ -212,27 +325,15 @@ tags: __no_header__
 ### trump
 
 * [https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht](https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht-a-051af349-e1d4-4631-9460-03b273f55f32#ref=rss)
+### jr
+
+* [https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht](https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht-a-051af349-e1d4-4631-9460-03b273f55f32#ref=rss)
 ### nachricht
 
 * [https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht](https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht-a-051af349-e1d4-4631-9460-03b273f55f32#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht](https://www.spiegel.de/ausland/donald-trump-junior-kompromittierende-nachricht-zur-stimmauszaehlung-in-den-usa-aufgetaucht-a-051af349-e1d4-4631-9460-03b273f55f32#ref=rss)
-* [https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung](https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung-a-1413339e-09a2-4e6e-b589-23c982d1dc95#ref=rss)
 ### texas
 
 * [https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung](https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung-a-1413339e-09a2-4e6e-b589-23c982d1dc95#ref=rss)
-### frau
-
-* [https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung](https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung-a-1413339e-09a2-4e6e-b589-23c982d1dc95#ref=rss)
-### gekommen
-
-* [https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung](https://www.spiegel.de/ausland/texas-mordanklage-gegen-frau-nach-selbst-vorgenommener-abtreibung-a-1413339e-09a2-4e6e-b589-23c982d1dc95#ref=rss)
-* [https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall](https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall-a-b15e9450-e430-4aac-b276-36f3601e80a6#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min-a-56da8632-0016-46ee-a37d-ecc1e0fde0b4#ref=rss)
-* [https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton](https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton-a-d9fed855-4f45-4080-a306-f849901264f7#ref=rss)
 ### tottenham
 
 * [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min-a-56da8632-0016-46ee-a37d-ecc1e0fde0b4#ref=rss)
@@ -248,162 +349,4 @@ tags: __no_header__
 ### heungmin
 
 * [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min-a-56da8632-0016-46ee-a37d-ecc1e0fde0b4#ref=rss)
-### kampf
-
-* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min-a-56da8632-0016-46ee-a37d-ecc1e0fde0b4#ref=rss)
-* [https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton](https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton-a-d9fed855-4f45-4080-a306-f849901264f7#ref=rss)
-### fußballkönigsklasse
-
-* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min-a-56da8632-0016-46ee-a37d-ecc1e0fde0b4#ref=rss)
-* [https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton](https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton-a-d9fed855-4f45-4080-a306-f849901264f7#ref=rss)
-### verlor
-
-* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-siegt-bei-aston-villa-dank-dreierpack-von-son-heung-min-a-56da8632-0016-46ee-a37d-ecc1e0fde0b4#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wie-flutopfer-im-ahrtal-alleingelassen-werden-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/wie-flutopfer-im-ahrtal-alleingelassen-werden-spiegel-tv-a-156d2da8-265b-452e-a1b6-8ed99b048505#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin-a-3b494800-638e-45a4-bd2b-2f5d7ae6d182#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-union-berlin-gewinnt-berlin-derby-gegen-hertha-bsc-4-1](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-union-berlin-gewinnt-berlin-derby-gegen-hertha-bsc-4-1-a-1f34b70a-d6ee-4806-a688-8515bd342f93#ref=rss)
-### schlägt
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin-a-3b494800-638e-45a4-bd2b-2f5d7ae6d182#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05-a-c654989e-163c-4d78-a56a-4380a3e33ec3#ref=rss)
-### vier
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin-a-3b494800-638e-45a4-bd2b-2f5d7ae6d182#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wie-flutopfer-im-ahrtal-alleingelassen-werden-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/wie-flutopfer-im-ahrtal-alleingelassen-werden-spiegel-tv-a-156d2da8-265b-452e-a1b6-8ed99b048505#ref=rss)
-### mann
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin-a-3b494800-638e-45a4-bd2b-2f5d7ae6d182#ref=rss)
-* [https://www.spiegel.de/panorama/die-bilder-der-woche-mann-ueber-bord](https://www.spiegel.de/panorama/die-bilder-der-woche-mann-ueber-bord-a-a2aa7549-6de0-4d68-85a9-6184887ccef7#ref=rss)
-### abstieg
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-schlaegt-hertha-bsc-deutlich-es-brennt-in-berlin-a-3b494800-638e-45a4-bd2b-2f5d7ae6d182#ref=rss)
-* [https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton](https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton-a-d9fed855-4f45-4080-a306-f849901264f7#ref=rss)
-### noble
-
-* [https://www.spiegel.de/sport/grand-national-noble-yeats-und-amateur-sam-waley-cohen-gewinnen-pferderennen](https://www.spiegel.de/sport/grand-national-noble-yeats-und-amateur-sam-waley-cohen-gewinnen-pferderennen-a-a65d1159-fd9d-4191-9577-79303ec6ac7d#ref=rss)
-### yeats
-
-* [https://www.spiegel.de/sport/grand-national-noble-yeats-und-amateur-sam-waley-cohen-gewinnen-pferderennen](https://www.spiegel.de/sport/grand-national-noble-yeats-und-amateur-sam-waley-cohen-gewinnen-pferderennen-a-a65d1159-fd9d-4191-9577-79303ec6ac7d#ref=rss)
-### amateur
-
-* [https://www.spiegel.de/sport/grand-national-noble-yeats-und-amateur-sam-waley-cohen-gewinnen-pferderennen](https://www.spiegel.de/sport/grand-national-noble-yeats-und-amateur-sam-waley-cohen-gewinnen-pferderennen-a-a65d1159-fd9d-4191-9577-79303ec6ac7d#ref=rss)
-### gewann
-
-* [https://www.spiegel.de/sport/grand-national-noble-yeats-und-amateur-sam-waley-cohen-gewinnen-pferderennen](https://www.spiegel.de/sport/grand-national-noble-yeats-und-amateur-sam-waley-cohen-gewinnen-pferderennen-a-a65d1159-fd9d-4191-9577-79303ec6ac7d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05-a-c654989e-163c-4d78-a56a-4380a3e33ec3#ref=rss)
-### flugschülerin
-
-* [https://www.spiegel.de/panorama/frankreich-flugschuelerin-uebernimmt-nach-pilotentod-ruder-von-sportflugzeug](https://www.spiegel.de/panorama/frankreich-flugschuelerin-uebernimmt-nach-pilotentod-ruder-von-sportflugzeug-a-0daea4de-55af-4f66-821e-7faf6df83fb0#ref=rss)
-### sportflugzeug
-
-* [https://www.spiegel.de/panorama/frankreich-flugschuelerin-uebernimmt-nach-pilotentod-ruder-von-sportflugzeug](https://www.spiegel.de/panorama/frankreich-flugschuelerin-uebernimmt-nach-pilotentod-ruder-von-sportflugzeug-a-0daea4de-55af-4f66-821e-7faf6df83fb0#ref=rss)
-### imran
-
-* [https://www.spiegel.de/ausland/pakistan-premier-imran-khan-verliert-misstrauensvotum](https://www.spiegel.de/ausland/pakistan-premier-imran-khan-verliert-misstrauensvotum-a-176228a4-0f48-4de4-b890-82c1f1e70582#ref=rss)
-### khan
-
-* [https://www.spiegel.de/ausland/pakistan-premier-imran-khan-verliert-misstrauensvotum](https://www.spiegel.de/ausland/pakistan-premier-imran-khan-verliert-misstrauensvotum-a-176228a4-0f48-4de4-b890-82c1f1e70582#ref=rss)
-### monats
-
-* [https://www.spiegel.de/wirtschaft/nigeria-land-zum-zweiten-mal-innerhalb-eines-monats-ohne-strom](https://www.spiegel.de/wirtschaft/nigeria-land-zum-zweiten-mal-innerhalb-eines-monats-ohne-strom-a-293ed9c1-7796-4bd8-9f11-82d90d67fcaa#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wirtschaft/nigeria-land-zum-zweiten-mal-innerhalb-eines-monats-ohne-strom](https://www.spiegel.de/wirtschaft/nigeria-land-zum-zweiten-mal-innerhalb-eines-monats-ohne-strom-a-293ed9c1-7796-4bd8-9f11-82d90d67fcaa#ref=rss)
-### strom
-
-* [https://www.spiegel.de/wirtschaft/nigeria-land-zum-zweiten-mal-innerhalb-eines-monats-ohne-strom](https://www.spiegel.de/wirtschaft/nigeria-land-zum-zweiten-mal-innerhalb-eines-monats-ohne-strom-a-293ed9c1-7796-4bd8-9f11-82d90d67fcaa#ref=rss)
-### natalia
-
-* [https://www.spiegel.de/ausland/moldau-premierministerin-natalia-gavrilita-es-geht-um-mehr-als-geschaefte](https://www.spiegel.de/ausland/moldau-premierministerin-natalia-gavrilita-es-geht-um-mehr-als-geschaefte-a-21925567-9795-480a-870d-57c8e111052f#ref=rss)
-### gavrilița
-
-* [https://www.spiegel.de/ausland/moldau-premierministerin-natalia-gavrilita-es-geht-um-mehr-als-geschaefte](https://www.spiegel.de/ausland/moldau-premierministerin-natalia-gavrilita-es-geht-um-mehr-als-geschaefte-a-21925567-9795-480a-870d-57c8e111052f#ref=rss)
-### experte
-
-* [https://www.spiegel.de/wissenschaft/mensch/waffenlieferung-fuer-die-ukraine-experte-ueber-marder-schuetzenpanzer](https://www.spiegel.de/wissenschaft/mensch/waffenlieferung-fuer-die-ukraine-experte-ueber-marder-schuetzenpanzer-a-d74c94c3-2075-4229-a955-e1f13c07b9fa#ref=rss)
-### nfl
-
-* [https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall](https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall-a-b15e9450-e430-4aac-b276-36f3601e80a6#ref=rss)
-### dwayne
-
-* [https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall](https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall-a-b15e9450-e430-4aac-b276-36f3601e80a6#ref=rss)
-### haskins
-
-* [https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall](https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall-a-b15e9450-e430-4aac-b276-36f3601e80a6#ref=rss)
-### quarterback
-
-* [https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall](https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall-a-b15e9450-e430-4aac-b276-36f3601e80a6#ref=rss)
-### pittsburgh
-
-* [https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall](https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall-a-b15e9450-e430-4aac-b276-36f3601e80a6#ref=rss)
-### steelers
-
-* [https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall](https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall-a-b15e9450-e430-4aac-b276-36f3601e80a6#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall](https://www.spiegel.de/sport/nfl-dwayne-haskins-ist-tot-24-jahre-alter-quarterback-der-pittsburgh-steelers-stirbt-nach-autounfall-a-b15e9450-e430-4aac-b276-36f3601e80a6#ref=rss)
-* [https://www.spiegel.de/sport/fussball/arminia-bielefeld-cedric-brunner-nach-kopfballduell-mit-jonas-wind-im-krankenhaus](https://www.spiegel.de/sport/fussball/arminia-bielefeld-cedric-brunner-nach-kopfballduell-mit-jonas-wind-im-krankenhaus-a-0d4361aa-ed36-4bdd-8f4f-b525046c63ea#ref=rss)
-### boris
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew](https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew-a-4b3e2f05-cd34-4445-8e22-ac32feda4448#ref=rss)
-### johnson
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew](https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew-a-4b3e2f05-cd34-4445-8e22-ac32feda4448#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew](https://www.spiegel.de/ausland/krieg-in-der-ukraine-johnson-trifft-selenskyj-ueberraschend-in-kiew-a-4b3e2f05-cd34-4445-8e22-ac32feda4448#ref=rss)
-### arminia
-
-* [https://www.spiegel.de/sport/fussball/arminia-bielefeld-cedric-brunner-nach-kopfballduell-mit-jonas-wind-im-krankenhaus](https://www.spiegel.de/sport/fussball/arminia-bielefeld-cedric-brunner-nach-kopfballduell-mit-jonas-wind-im-krankenhaus-a-0d4361aa-ed36-4bdd-8f4f-b525046c63ea#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld](https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld-a-79f67793-2fc6-4f8f-892f-1fe656ace9a3#ref=rss)
-### cedric
-
-* [https://www.spiegel.de/sport/fussball/arminia-bielefeld-cedric-brunner-nach-kopfballduell-mit-jonas-wind-im-krankenhaus](https://www.spiegel.de/sport/fussball/arminia-bielefeld-cedric-brunner-nach-kopfballduell-mit-jonas-wind-im-krankenhaus-a-0d4361aa-ed36-4bdd-8f4f-b525046c63ea#ref=rss)
-### brunner
-
-* [https://www.spiegel.de/sport/fussball/arminia-bielefeld-cedric-brunner-nach-kopfballduell-mit-jonas-wind-im-krankenhaus](https://www.spiegel.de/sport/fussball/arminia-bielefeld-cedric-brunner-nach-kopfballduell-mit-jonas-wind-im-krankenhaus-a-0d4361aa-ed36-4bdd-8f4f-b525046c63ea#ref=rss)
-### abdullah
-
-* [https://www.spiegel.de/panorama/leute/koenig-von-jordanien-staatsoberhaupt-abdullah-ii-fuer-bandscheiben-op-in-frankfurt](https://www.spiegel.de/panorama/leute/koenig-von-jordanien-staatsoberhaupt-abdullah-ii-fuer-bandscheiben-op-in-frankfurt-a-22f9a4ab-24aa-409b-8838-23e9066cbce1#ref=rss)
-### ii
-
-* [https://www.spiegel.de/panorama/leute/koenig-von-jordanien-staatsoberhaupt-abdullah-ii-fuer-bandscheiben-op-in-frankfurt](https://www.spiegel.de/panorama/leute/koenig-von-jordanien-staatsoberhaupt-abdullah-ii-fuer-bandscheiben-op-in-frankfurt-a-22f9a4ab-24aa-409b-8838-23e9066cbce1#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/panorama/leute/koenig-von-jordanien-staatsoberhaupt-abdullah-ii-fuer-bandscheiben-op-in-frankfurt](https://www.spiegel.de/panorama/leute/koenig-von-jordanien-staatsoberhaupt-abdullah-ii-fuer-bandscheiben-op-in-frankfurt-a-22f9a4ab-24aa-409b-8838-23e9066cbce1#ref=rss)
-### besiegt
-
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld](https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld-a-79f67793-2fc6-4f8f-892f-1fe656ace9a3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05-a-c654989e-163c-4d78-a56a-4380a3e33ec3#ref=rss)
-### bundesliga
-
-* [https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld](https://www.spiegel.de/sport/fussball/wm-qualifikation-deutsche-nationalspielerinnen-besiegen-portugal-3-0-in-bielefeld-a-79f67793-2fc6-4f8f-892f-1fe656ace9a3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05-a-c654989e-163c-4d78-a56a-4380a3e33ec3#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton](https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton-a-d9fed855-4f45-4080-a306-f849901264f7#ref=rss)
-### united
-
-* [https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton](https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton-a-d9fed855-4f45-4080-a306-f849901264f7#ref=rss)
-### everton
-
-* [https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton](https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton-a-d9fed855-4f45-4080-a306-f849901264f7#ref=rss)
-### punkte
-
-* [https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton](https://www.spiegel.de/sport/premier-league-manchester-united-patzt-erneut-0-1-beim-fc-everton-a-d9fed855-4f45-4080-a306-f849901264f7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05-a-c654989e-163c-4d78-a56a-4380a3e33ec3#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/panorama/die-bilder-der-woche-mann-ueber-bord](https://www.spiegel.de/panorama/die-bilder-der-woche-mann-ueber-bord-a-a2aa7549-6de0-4d68-85a9-6184887ccef7#ref=rss)
-### augsburg
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05-a-c654989e-163c-4d78-a56a-4380a3e33ec3#ref=rss)
-### köln
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05-a-c654989e-163c-4d78-a56a-4380a3e33ec3#ref=rss)
-### mainz
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-besiegt-fc-augsburg-dank-eines-handelfmeters-1-fc-koeln-schlaegt-mainz-05-a-c654989e-163c-4d78-a56a-4380a3e33ec3#ref=rss)
 
