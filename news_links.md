@@ -4,363 +4,320 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ukraine
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte](https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte-a-ab20e785-74d6-4b4f-8438-aa7dedb9c786#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-wie-der-kanzler-einmal-aus-sich-herausging](https://www.spiegel.de/politik/deutschland/olaf-scholz-wie-der-kanzler-einmal-aus-sich-herausging-a-8a7e43db-f51a-4688-8e00-0dac1babcb75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg](https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg-a-4800afc9-2433-4d0e-bd33-218dbca5a607#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen-a-7110c9e0-2432-43e3-8f76-5d4f000b5ab0#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte](https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte-a-ab20e785-74d6-4b4f-8438-aa7dedb9c786#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/ukraine-krieg-warum-ukrainer-deutsche-drohnen-hacker-um-rat-bitten](https://www.spiegel.de/netzwelt/gadgets/ukraine-krieg-warum-ukrainer-deutsche-drohnen-hacker-um-rat-bitten-a-978a0c06-30cf-49f1-8724-42bc2eaa79c2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg](https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg-a-4800afc9-2433-4d0e-bd33-218dbca5a607#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen-a-7110c9e0-2432-43e3-8f76-5d4f000b5ab0#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-eu-kommission-sieht-ende-der-akuten-phase-der-pandemie](https://www.spiegel.de/politik/deutschland/coronavirus-eu-kommission-sieht-ende-der-akuten-phase-der-pandemie-a-f81d6445-0035-4251-a1f6-b15b731929d9#ref=rss)
-* [https://www.spiegel.de/ausland/coronavirus-in-china-videos-aus-einem-quarantaenezentrum-in-shanghai-zeigen-ueble-zustaende](https://www.spiegel.de/ausland/coronavirus-in-china-videos-aus-einem-quarantaenezentrum-in-shanghai-zeigen-ueble-zustaende-a-de357681-6254-4b1a-96e7-122dd1b067e2#ref=rss)
-* [https://www.spiegel.de/ausland/finnland-corona-infizierter-praesident-sauli-niinistoe-an-lungenentzuendung-erkrankt](https://www.spiegel.de/ausland/finnland-corona-infizierter-praesident-sauli-niinistoe-an-lungenentzuendung-erkrankt-a-647312c3-6c95-4532-bf0c-a0d1f56b04dc#ref=rss)
-### bundeswehr
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-laut-christine-lambrecht-nur-150-schuetzenpanzer-puma-angeblich-einsatzbereit](https://www.spiegel.de/politik/deutschland/bundeswehr-laut-christine-lambrecht-nur-150-schuetzenpanzer-puma-angeblich-einsatzbereit-a-5614855e-80f3-4160-9727-933d62b1261e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen](https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen-a-6458980e-b1ef-4050-b270-2062517ead3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-die-100-milliarden-euro-debatte-livestream](https://www.spiegel.de/politik/deutschland/bundeswehr-die-100-milliarden-euro-debatte-livestream-a-a1e9944f-eb29-4b85-a7ce-ab56b50b1082#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte](https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte-a-ab20e785-74d6-4b4f-8438-aa7dedb9c786#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg](https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg-a-4800afc9-2433-4d0e-bd33-218dbca5a607#ref=rss)
-* [https://www.spiegel.de/wirtschaft/clemens-toennies-meldet-umsatz-einbruch-fleischkonsum-ruecklaeufig](https://www.spiegel.de/wirtschaft/clemens-toennies-meldet-umsatz-einbruch-fleischkonsum-ruecklaeufig-a-10c29abf-0c03-46d1-ba79-8fbea49d3027#ref=rss)
-### pandemie
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-eu-kommission-sieht-ende-der-akuten-phase-der-pandemie](https://www.spiegel.de/politik/deutschland/coronavirus-eu-kommission-sieht-ende-der-akuten-phase-der-pandemie-a-f81d6445-0035-4251-a1f6-b15b731929d9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/beatmungsgeraete-bund-stoppt-uebernahme-durch-chinesisches-unternehmen](https://www.spiegel.de/wirtschaft/beatmungsgeraete-bund-stoppt-uebernahme-durch-chinesisches-unternehmen-a-6c0396e9-2773-4f2b-aa41-85917dfe104d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent-a-92dff1a8-64ff-429f-93f6-913e42a070ef#ref=rss)
 ### ukrainekrieg
 
-* [https://www.spiegel.de/netzwelt/gadgets/ukraine-krieg-warum-ukrainer-deutsche-drohnen-hacker-um-rat-bitten](https://www.spiegel.de/netzwelt/gadgets/ukraine-krieg-warum-ukrainer-deutsche-drohnen-hacker-um-rat-bitten-a-978a0c06-30cf-49f1-8724-42bc2eaa79c2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-tesla-tag-gegen-laerm](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-tesla-tag-gegen-laerm-a-1d44dee0-84fa-44a3-b8ce-0dd09ab64fbe#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen-a-7110c9e0-2432-43e3-8f76-5d4f000b5ab0#ref=rss)
-### deutsche
+* [https://www.spiegel.de/politik/deutschland/thomas-kutschaty-ich-wuensche-mir-den-tag-herbei-an-dem-gerhard-schroeder-die-partei-verlaesst](https://www.spiegel.de/politik/deutschland/thomas-kutschaty-ich-wuensche-mir-den-tag-herbei-an-dem-gerhard-schroeder-die-partei-verlaesst-a-5a3c551a-2ffc-4024-a7ce-c3d8810f0adc#ref=rss)
+* [https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol](https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol-a-e1c3de38-fa7d-4a79-9f90-3b84cd204ebf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/eisenbahn-im-ukraine-krieg-so-wichtig-ist-die-schienen-logistik](https://www.spiegel.de/wissenschaft/mensch/eisenbahn-im-ukraine-krieg-so-wichtig-ist-die-schienen-logistik-a-9ce63f0a-e3f8-45cb-a567-6866b62fa9e1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-angriffe-im-donbass-und-ein-statement-von-menschenrechtsanwaeltin-amal-clooney](https://www.spiegel.de/ausland/ukraine-krieg-angriffe-im-donbass-und-ein-statement-von-menschenrechtsanwaeltin-amal-clooney-a-1a932244-7138-4fb4-ae15-ecdafe45f485#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu](https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu-a-f3c5741d-dcaa-4795-a1c6-bc9328c49499#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen](https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen-a-c99e175e-3cee-4a6a-95c7-d8100a12f1c2#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/netzwelt/gadgets/ukraine-krieg-warum-ukrainer-deutsche-drohnen-hacker-um-rat-bitten](https://www.spiegel.de/netzwelt/gadgets/ukraine-krieg-warum-ukrainer-deutsche-drohnen-hacker-um-rat-bitten-a-978a0c06-30cf-49f1-8724-42bc2eaa79c2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-tesla-tag-gegen-laerm](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-tesla-tag-gegen-laerm-a-1d44dee0-84fa-44a3-b8ce-0dd09ab64fbe#ref=rss)
-### menschen
+* [https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine](https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine-a-ec1d85f2-7c2f-4536-8c92-f42c62a35c17#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/eisenbahn-im-ukraine-krieg-so-wichtig-ist-die-schienen-logistik](https://www.spiegel.de/wissenschaft/mensch/eisenbahn-im-ukraine-krieg-so-wichtig-ist-die-schienen-logistik-a-9ce63f0a-e3f8-45cb-a567-6866b62fa9e1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu](https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu-a-f3c5741d-dcaa-4795-a1c6-bc9328c49499#ref=rss)
+* [https://www.spiegel.de/ausland/igor-wolobujew-ehemaliger-gazprombank-manager-kaempft-fuer-die-ukraine](https://www.spiegel.de/ausland/igor-wolobujew-ehemaliger-gazprombank-manager-kaempft-fuer-die-ukraine-a-015b9566-7604-4662-b8b7-729da9ea5528#ref=rss)
+### ich
 
-* [https://www.spiegel.de/wissenschaft/indien-rekordhitze-von-bis-zu-50-grad-koennte-tausenden-menschen-das-leben-kosten](https://www.spiegel.de/wissenschaft/indien-rekordhitze-von-bis-zu-50-grad-koennte-tausenden-menschen-das-leben-kosten-a-77668bcc-eeaa-4015-a175-dbe8b6a1861a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-tesla-tag-gegen-laerm](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-tesla-tag-gegen-laerm-a-1d44dee0-84fa-44a3-b8ce-0dd09ab64fbe#ref=rss)
-### leitl
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96](https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96-a-19312aae-f52c-41dd-b657-223dd70222bb#ref=rss)
-### fürth
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96](https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96-a-19312aae-f52c-41dd-b657-223dd70222bb#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-unbekannter-stiehlt-drei-mittelfinger-skulpturen-von-ai-weiwei](https://www.spiegel.de/panorama/justiz/hamburg-unbekannter-stiehlt-drei-mittelfinger-skulpturen-von-ai-weiwei-a-f6a0020f-368f-4de9-9124-435a77865508#ref=rss)
-### euro
-
-* [https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen](https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen-a-6458980e-b1ef-4050-b270-2062517ead3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent-a-92dff1a8-64ff-429f-93f6-913e42a070ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-die-100-milliarden-euro-debatte-livestream](https://www.spiegel.de/politik/deutschland/bundeswehr-die-100-milliarden-euro-debatte-livestream-a-a1e9944f-eb29-4b85-a7ce-ab56b50b1082#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen-a-7110c9e0-2432-43e3-8f76-5d4f000b5ab0#ref=rss)
-* [https://www.spiegel.de/ausland/gas-embargo-gegen-polen-und-bulgarien-wie-wladimir-putin-europa-spalten-will](https://www.spiegel.de/ausland/gas-embargo-gegen-polen-und-bulgarien-wie-wladimir-putin-europa-spalten-will-a-b5fd049c-3768-451e-97fb-39db75c45b9d#ref=rss)
-### shkodran
-
-* [https://www.spiegel.de/panorama/leute/shkodran-mustafi-einbrecher-steigen-bei-shkodran-mustafi-ein-waehrend-er-zu-hause-ist](https://www.spiegel.de/panorama/leute/shkodran-mustafi-einbrecher-steigen-bei-shkodran-mustafi-ein-waehrend-er-zu-hause-ist-a-50c4891a-e77f-410d-96d0-ca6f30e0b43a#ref=rss)
-### mustafi
-
-* [https://www.spiegel.de/panorama/leute/shkodran-mustafi-einbrecher-steigen-bei-shkodran-mustafi-ein-waehrend-er-zu-hause-ist](https://www.spiegel.de/panorama/leute/shkodran-mustafi-einbrecher-steigen-bei-shkodran-mustafi-ein-waehrend-er-zu-hause-ist-a-50c4891a-e77f-410d-96d0-ca6f30e0b43a#ref=rss)
-### panzerhaubitze
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte](https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte-a-ab20e785-74d6-4b4f-8438-aa7dedb9c786#ref=rss)
-### 2000
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte](https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte-a-ab20e785-74d6-4b4f-8438-aa7dedb9c786#ref=rss)
-### helfen
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte](https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte-a-ab20e785-74d6-4b4f-8438-aa7dedb9c786#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/ukraine-krieg-warum-ukrainer-deutsche-drohnen-hacker-um-rat-bitten](https://www.spiegel.de/netzwelt/gadgets/ukraine-krieg-warum-ukrainer-deutsche-drohnen-hacker-um-rat-bitten-a-978a0c06-30cf-49f1-8724-42bc2eaa79c2#ref=rss)
-### schweren
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte](https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte-a-ab20e785-74d6-4b4f-8438-aa7dedb9c786#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-wie-der-kanzler-einmal-aus-sich-herausging](https://www.spiegel.de/politik/deutschland/olaf-scholz-wie-der-kanzler-einmal-aus-sich-herausging-a-8a7e43db-f51a-4688-8e00-0dac1babcb75#ref=rss)
-### waffen
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte](https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte-a-ab20e785-74d6-4b4f-8438-aa7dedb9c786#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-wie-der-kanzler-einmal-aus-sich-herausging](https://www.spiegel.de/politik/deutschland/olaf-scholz-wie-der-kanzler-einmal-aus-sich-herausging-a-8a7e43db-f51a-4688-8e00-0dac1babcb75#ref=rss)
-### land
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte](https://www.spiegel.de/wissenschaft/technik/ukraine-wie-die-panzerhaubitze-2000-helfen-koennte-a-ab20e785-74d6-4b4f-8438-aa7dedb9c786#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bezahlen-mit-bitcoin-zentralafrikanische-republik-erlaubt-neues-zahlungsmittel](https://www.spiegel.de/wirtschaft/bezahlen-mit-bitcoin-zentralafrikanische-republik-erlaubt-neues-zahlungsmittel-a-161978d0-58f8-4193-be59-0360c01e1c68#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-eu-kommission-sieht-ende-der-akuten-phase-der-pandemie](https://www.spiegel.de/politik/deutschland/coronavirus-eu-kommission-sieht-ende-der-akuten-phase-der-pandemie-a-f81d6445-0035-4251-a1f6-b15b731929d9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-laut-christine-lambrecht-nur-150-schuetzenpanzer-puma-angeblich-einsatzbereit](https://www.spiegel.de/politik/deutschland/bundeswehr-laut-christine-lambrecht-nur-150-schuetzenpanzer-puma-angeblich-einsatzbereit-a-5614855e-80f3-4160-9727-933d62b1261e#ref=rss)
-### ende
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-eu-kommission-sieht-ende-der-akuten-phase-der-pandemie](https://www.spiegel.de/politik/deutschland/coronavirus-eu-kommission-sieht-ende-der-akuten-phase-der-pandemie-a-f81d6445-0035-4251-a1f6-b15b731929d9#ref=rss)
-* [https://www.spiegel.de/politik/eu-reformen-der-konferenz-zur-zukunft-europas-weg-mit-dem-veto](https://www.spiegel.de/politik/eu-reformen-der-konferenz-zur-zukunft-europas-weg-mit-dem-veto-a-f63b0ee9-aba7-47e8-9511-f4a718ec2934#ref=rss)
-### russland
-
-* [https://www.spiegel.de/netzwelt/gadgets/ukraine-krieg-warum-ukrainer-deutsche-drohnen-hacker-um-rat-bitten](https://www.spiegel.de/netzwelt/gadgets/ukraine-krieg-warum-ukrainer-deutsche-drohnen-hacker-um-rat-bitten-a-978a0c06-30cf-49f1-8724-42bc2eaa79c2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen-a-7110c9e0-2432-43e3-8f76-5d4f000b5ab0#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten](https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten-a-af6c81b1-c16c-47e5-bf67-1d6ddb824dbc#ref=rss)
-* [https://www.spiegel.de/ausland/frontex-in-illegale-pushbacks-von-hunderten-fluechtlingen-involviert](https://www.spiegel.de/ausland/frontex-in-illegale-pushbacks-von-hunderten-fluechtlingen-involviert-a-086f0e5a-0172-4007-b59c-7bced325cc75#ref=rss)
-### dürfen
-
-* [https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten](https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten-a-af6c81b1-c16c-47e5-bf67-1d6ddb824dbc#ref=rss)
-### automatisch
-
-* [https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten](https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten-a-af6c81b1-c16c-47e5-bf67-1d6ddb824dbc#ref=rss)
-### nachnamen
-
-* [https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten](https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten-a-af6c81b1-c16c-47e5-bf67-1d6ddb824dbc#ref=rss)
-### erhalten
-
-* [https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten](https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten-a-af6c81b1-c16c-47e5-bf67-1d6ddb824dbc#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen-a-7110c9e0-2432-43e3-8f76-5d4f000b5ab0#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten](https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten-a-af6c81b1-c16c-47e5-bf67-1d6ddb824dbc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent-a-92dff1a8-64ff-429f-93f6-913e42a070ef#ref=rss)
-### bekommen
-
-* [https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten](https://www.spiegel.de/panorama/justiz/italien-urteil-kinder-duerfen-nicht-automatisch-den-nachnamen-des-vaters-erhalten-a-af6c81b1-c16c-47e5-bf67-1d6ddb824dbc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent-a-92dff1a8-64ff-429f-93f6-913e42a070ef#ref=rss)
-### madeleine
-
-* [https://www.spiegel.de/ausland/madeleine-albright-joe-biden-wuerdigt-ex-aussenministerin-als-naturgewalt](https://www.spiegel.de/ausland/madeleine-albright-joe-biden-wuerdigt-ex-aussenministerin-als-naturgewalt-a-ca573daa-db2b-447c-a338-1c5b32835bc0#ref=rss)
-### albright
-
-* [https://www.spiegel.de/ausland/madeleine-albright-joe-biden-wuerdigt-ex-aussenministerin-als-naturgewalt](https://www.spiegel.de/ausland/madeleine-albright-joe-biden-wuerdigt-ex-aussenministerin-als-naturgewalt-a-ca573daa-db2b-447c-a338-1c5b32835bc0#ref=rss)
-### exaußenministerin
-
-* [https://www.spiegel.de/ausland/madeleine-albright-joe-biden-wuerdigt-ex-aussenministerin-als-naturgewalt](https://www.spiegel.de/ausland/madeleine-albright-joe-biden-wuerdigt-ex-aussenministerin-als-naturgewalt-a-ca573daa-db2b-447c-a338-1c5b32835bc0#ref=rss)
-### indien
-
-* [https://www.spiegel.de/wissenschaft/indien-rekordhitze-von-bis-zu-50-grad-koennte-tausenden-menschen-das-leben-kosten](https://www.spiegel.de/wissenschaft/indien-rekordhitze-von-bis-zu-50-grad-koennte-tausenden-menschen-das-leben-kosten-a-77668bcc-eeaa-4015-a175-dbe8b6a1861a#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-wie-der-kanzler-einmal-aus-sich-herausging](https://www.spiegel.de/politik/deutschland/olaf-scholz-wie-der-kanzler-einmal-aus-sich-herausging-a-8a7e43db-f51a-4688-8e00-0dac1babcb75#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-wie-der-kanzler-einmal-aus-sich-herausging](https://www.spiegel.de/politik/deutschland/olaf-scholz-wie-der-kanzler-einmal-aus-sich-herausging-a-8a7e43db-f51a-4688-8e00-0dac1babcb75#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg](https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg-a-4800afc9-2433-4d0e-bd33-218dbca5a607#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg](https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg-a-4800afc9-2433-4d0e-bd33-218dbca5a607#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thomas-kutschaty-ich-wuensche-mir-den-tag-herbei-an-dem-gerhard-schroeder-die-partei-verlaesst](https://www.spiegel.de/politik/deutschland/thomas-kutschaty-ich-wuensche-mir-den-tag-herbei-an-dem-gerhard-schroeder-die-partei-verlaesst-a-5a3c551a-2ffc-4024-a7ce-c3d8810f0adc#ref=rss)
+* [https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht](https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht-a-983d4718-af38-449d-90f7-9571b19567f6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall](https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall-a-4aba92de-f78d-40e0-8fdf-4acbf4536ff1#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg](https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg-a-4800afc9-2433-4d0e-bd33-218dbca5a607#ref=rss)
-* [https://www.spiegel.de/kultur/musik/elektronik-pionier-klaus-schulze-ist-tot](https://www.spiegel.de/kultur/musik/elektronik-pionier-klaus-schulze-ist-tot-a-f057fe14-2791-4e7c-be85-3c24e8191112#ref=rss)
-### große
+* [https://www.spiegel.de/wirtschaft/gazprombank-russland-weist-deutsche-und-oesterreichische-gaszahlung-zurueck](https://www.spiegel.de/wirtschaft/gazprombank-russland-weist-deutsche-und-oesterreichische-gaszahlung-zurueck-a-bcb57982-fa10-498d-b767-e96f0a28f34b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu](https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu-a-f3c5741d-dcaa-4795-a1c6-bc9328c49499#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/so-wenig-hochzeiten-in-deutschland-wie-zuletzt-im-ersten-weltkrieg](https://www.spiegel.de/panorama/gesellschaft/so-wenig-hochzeiten-in-deutschland-wie-zuletzt-im-ersten-weltkrieg-a-4ac9e251-8980-458b-aa66-2aee39c71855#ref=rss)
+### russische
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg](https://www.spiegel.de/politik/deutschland/ukraine-markus-soeder-warnt-vor-hineinzerren-deutschlands-in-den-krieg-a-4800afc9-2433-4d0e-bd33-218dbca5a607#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/willem-alexander-niederlande-zelebrieren-den-koenigstag](https://www.spiegel.de/panorama/gesellschaft/willem-alexander-niederlande-zelebrieren-den-koenigstag-a-ebd0d635-fbc9-4c7a-80aa-0754dbf03ac2#ref=rss)
-### tag
+* [https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine](https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine-a-ec1d85f2-7c2f-4536-8c92-f42c62a35c17#ref=rss)
+* [https://www.spiegel.de/ausland/russland-setzt-offenbar-kampfdelfine-zum-schutz-seiner-flotte-ein](https://www.spiegel.de/ausland/russland-setzt-offenbar-kampfdelfine-zum-schutz-seiner-flotte-ein-a-3da1d3a8-17f4-44f1-b7d2-548efe5802de#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen](https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen-a-c99e175e-3cee-4a6a-95c7-d8100a12f1c2#ref=rss)
+### ukrainische
 
-* [https://www.spiegel.de/panorama/gesellschaft/willem-alexander-niederlande-zelebrieren-den-koenigstag](https://www.spiegel.de/panorama/gesellschaft/willem-alexander-niederlande-zelebrieren-den-koenigstag-a-ebd0d635-fbc9-4c7a-80aa-0754dbf03ac2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-tesla-tag-gegen-laerm](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-tesla-tag-gegen-laerm-a-1d44dee0-84fa-44a3-b8ce-0dd09ab64fbe#ref=rss)
-### bundesliga
+* [https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine](https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine-a-ec1d85f2-7c2f-4536-8c92-f42c62a35c17#ref=rss)
+* [https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol](https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol-a-e1c3de38-fa7d-4a79-9f90-3b84cd204ebf#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen](https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen-a-c99e175e-3cee-4a6a-95c7-d8100a12f1c2#ref=rss)
+### russland
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96](https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96-a-19312aae-f52c-41dd-b657-223dd70222bb#ref=rss)
-### trainer
+* [https://www.spiegel.de/ausland/russland-setzt-offenbar-kampfdelfine-zum-schutz-seiner-flotte-ein](https://www.spiegel.de/ausland/russland-setzt-offenbar-kampfdelfine-zum-schutz-seiner-flotte-ein-a-3da1d3a8-17f4-44f1-b7d2-548efe5802de#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gazprombank-russland-weist-deutsche-und-oesterreichische-gaszahlung-zurueck](https://www.spiegel.de/wirtschaft/gazprombank-russland-weist-deutsche-und-oesterreichische-gaszahlung-zurueck-a-bcb57982-fa10-498d-b767-e96f0a28f34b#ref=rss)
+### fc
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96](https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96-a-19312aae-f52c-41dd-b657-223dd70222bb#ref=rss)
-### stefan
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-liverpool-schlaegt-fc-villarreal-die-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-fc-liverpool-schlaegt-fc-villarreal-die-pressestimmen-a-656ab23b-467f-4999-91ce-857716ccc9c4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-verliert-durch-patzer-von-torwart-andrei-radu-gegen-fc-bologna](https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-verliert-durch-patzer-von-torwart-andrei-radu-gegen-fc-bologna-a-d20cf32e-48d2-438e-9894-127364d4c5d0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer](https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer-a-6cb6f6bb-4268-43ec-9526-7084410133c8#ref=rss)
+### liverpool
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96](https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96-a-19312aae-f52c-41dd-b657-223dd70222bb#ref=rss)
-### verlässt
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-liverpool-schlaegt-fc-villarreal-die-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-fc-liverpool-schlaegt-fc-villarreal-die-pressestimmen-a-656ab23b-467f-4999-91ce-857716ccc9c4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer](https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer-a-6cb6f6bb-4268-43ec-9526-7084410133c8#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96](https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96-a-19312aae-f52c-41dd-b657-223dd70222bb#ref=rss)
-### greuther
+* [https://www.spiegel.de/politik/deutschland/thomas-kutschaty-ich-wuensche-mir-den-tag-herbei-an-dem-gerhard-schroeder-die-partei-verlaesst](https://www.spiegel.de/politik/deutschland/thomas-kutschaty-ich-wuensche-mir-den-tag-herbei-an-dem-gerhard-schroeder-die-partei-verlaesst-a-5a3c551a-2ffc-4024-a7ce-c3d8810f0adc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-verwandelt-ukraine-debatte-in-generalattacke-auf-olaf-scholz](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-verwandelt-ukraine-debatte-in-generalattacke-auf-olaf-scholz-a-1b27e78f-46a0-425e-9933-01be197fa9ed#ref=rss)
+### angriffe
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96](https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96-a-19312aae-f52c-41dd-b657-223dd70222bb#ref=rss)
-### hannover
+* [https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine](https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine-a-ec1d85f2-7c2f-4536-8c92-f42c62a35c17#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/eisenbahn-im-ukraine-krieg-so-wichtig-ist-die-schienen-logistik](https://www.spiegel.de/wissenschaft/mensch/eisenbahn-im-ukraine-krieg-so-wichtig-ist-die-schienen-logistik-a-9ce63f0a-e3f8-45cb-a567-6866b62fa9e1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-angriffe-im-donbass-und-ein-statement-von-menschenrechtsanwaeltin-amal-clooney](https://www.spiegel.de/ausland/ukraine-krieg-angriffe-im-donbass-und-ein-statement-von-menschenrechtsanwaeltin-amal-clooney-a-1a932244-7138-4fb4-ae15-ecdafe45f485#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96](https://www.spiegel.de/sport/fussball/bundesliga-trainer-stefan-leitl-verlaesst-greuther-fuerth-in-richtung-hannover-96-a-19312aae-f52c-41dd-b657-223dd70222bb#ref=rss)
-### bezahlen
+* [https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol](https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol-a-e1c3de38-fa7d-4a79-9f90-3b84cd204ebf#ref=rss)
+* [https://www.spiegel.de/ausland/usa-sollen-militaergeraet-im-wert-von-sieben-milliarden-dollar-zurueckgelassen-haben](https://www.spiegel.de/ausland/usa-sollen-militaergeraet-im-wert-von-sieben-milliarden-dollar-zurueckgelassen-haben-a-0594bd43-9d35-4499-8005-9e5ec57bbf7c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/so-wenig-hochzeiten-in-deutschland-wie-zuletzt-im-ersten-weltkrieg](https://www.spiegel.de/panorama/gesellschaft/so-wenig-hochzeiten-in-deutschland-wie-zuletzt-im-ersten-weltkrieg-a-4ac9e251-8980-458b-aa66-2aee39c71855#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wirtschaft/bezahlen-mit-bitcoin-zentralafrikanische-republik-erlaubt-neues-zahlungsmittel](https://www.spiegel.de/wirtschaft/bezahlen-mit-bitcoin-zentralafrikanische-republik-erlaubt-neues-zahlungsmittel-a-161978d0-58f8-4193-be59-0360c01e1c68#ref=rss)
-### bitcoin
+* [https://www.spiegel.de/ausland/russland-setzt-offenbar-kampfdelfine-zum-schutz-seiner-flotte-ein](https://www.spiegel.de/ausland/russland-setzt-offenbar-kampfdelfine-zum-schutz-seiner-flotte-ein-a-3da1d3a8-17f4-44f1-b7d2-548efe5802de#ref=rss)
+* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora-a-d8d5c205-fcde-49bb-ab9a-ee9b5a60e64d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen](https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen-a-c99e175e-3cee-4a6a-95c7-d8100a12f1c2#ref=rss)
+### video
 
-* [https://www.spiegel.de/wirtschaft/bezahlen-mit-bitcoin-zentralafrikanische-republik-erlaubt-neues-zahlungsmittel](https://www.spiegel.de/wirtschaft/bezahlen-mit-bitcoin-zentralafrikanische-republik-erlaubt-neues-zahlungsmittel-a-161978d0-58f8-4193-be59-0360c01e1c68#ref=rss)
-### zentralafrikanische
-
-* [https://www.spiegel.de/wirtschaft/bezahlen-mit-bitcoin-zentralafrikanische-republik-erlaubt-neues-zahlungsmittel](https://www.spiegel.de/wirtschaft/bezahlen-mit-bitcoin-zentralafrikanische-republik-erlaubt-neues-zahlungsmittel-a-161978d0-58f8-4193-be59-0360c01e1c68#ref=rss)
-### republik
-
-* [https://www.spiegel.de/wirtschaft/bezahlen-mit-bitcoin-zentralafrikanische-republik-erlaubt-neues-zahlungsmittel](https://www.spiegel.de/wirtschaft/bezahlen-mit-bitcoin-zentralafrikanische-republik-erlaubt-neues-zahlungsmittel-a-161978d0-58f8-4193-be59-0360c01e1c68#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/justiz/schramberg-mutmassliche-reichsbuerger-verbarrikadieren-sich-bei-polizeikontrolle-in-auto](https://www.spiegel.de/panorama/justiz/schramberg-mutmassliche-reichsbuerger-verbarrikadieren-sich-bei-polizeikontrolle-in-auto-a-59b312da-5f87-4326-93cc-63d0e3d05f9b#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/schramberg-mutmassliche-reichsbuerger-verbarrikadieren-sich-bei-polizeikontrolle-in-auto](https://www.spiegel.de/panorama/justiz/schramberg-mutmassliche-reichsbuerger-verbarrikadieren-sich-bei-polizeikontrolle-in-auto-a-59b312da-5f87-4326-93cc-63d0e3d05f9b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/clemens-toennies-meldet-umsatz-einbruch-fleischkonsum-ruecklaeufig](https://www.spiegel.de/wirtschaft/clemens-toennies-meldet-umsatz-einbruch-fleischkonsum-ruecklaeufig-a-10c29abf-0c03-46d1-ba79-8fbea49d3027#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/justiz/schramberg-mutmassliche-reichsbuerger-verbarrikadieren-sich-bei-polizeikontrolle-in-auto](https://www.spiegel.de/panorama/justiz/schramberg-mutmassliche-reichsbuerger-verbarrikadieren-sich-bei-polizeikontrolle-in-auto-a-59b312da-5f87-4326-93cc-63d0e3d05f9b#ref=rss)
-* [https://www.spiegel.de/ausland/frontex-in-illegale-pushbacks-von-hunderten-fluechtlingen-involviert](https://www.spiegel.de/ausland/frontex-in-illegale-pushbacks-von-hunderten-fluechtlingen-involviert-a-086f0e5a-0172-4007-b59c-7bced325cc75#ref=rss)
-### ai
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-unbekannter-stiehlt-drei-mittelfinger-skulpturen-von-ai-weiwei](https://www.spiegel.de/panorama/justiz/hamburg-unbekannter-stiehlt-drei-mittelfinger-skulpturen-von-ai-weiwei-a-f6a0020f-368f-4de9-9124-435a77865508#ref=rss)
-### weiwei
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-unbekannter-stiehlt-drei-mittelfinger-skulpturen-von-ai-weiwei](https://www.spiegel.de/panorama/justiz/hamburg-unbekannter-stiehlt-drei-mittelfinger-skulpturen-von-ai-weiwei-a-f6a0020f-368f-4de9-9124-435a77865508#ref=rss)
-### chinesischen
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-unbekannter-stiehlt-drei-mittelfinger-skulpturen-von-ai-weiwei](https://www.spiegel.de/panorama/justiz/hamburg-unbekannter-stiehlt-drei-mittelfinger-skulpturen-von-ai-weiwei-a-f6a0020f-368f-4de9-9124-435a77865508#ref=rss)
-* [https://www.spiegel.de/wirtschaft/beatmungsgeraete-bund-stoppt-uebernahme-durch-chinesisches-unternehmen](https://www.spiegel.de/wirtschaft/beatmungsgeraete-bund-stoppt-uebernahme-durch-chinesisches-unternehmen-a-6c0396e9-2773-4f2b-aa41-85917dfe104d#ref=rss)
-### beatmungsgeräte
-
-* [https://www.spiegel.de/wirtschaft/beatmungsgeraete-bund-stoppt-uebernahme-durch-chinesisches-unternehmen](https://www.spiegel.de/wirtschaft/beatmungsgeraete-bund-stoppt-uebernahme-durch-chinesisches-unternehmen-a-6c0396e9-2773-4f2b-aa41-85917dfe104d#ref=rss)
-### übernahme
-
-* [https://www.spiegel.de/wirtschaft/beatmungsgeraete-bund-stoppt-uebernahme-durch-chinesisches-unternehmen](https://www.spiegel.de/wirtschaft/beatmungsgeraete-bund-stoppt-uebernahme-durch-chinesisches-unternehmen-a-6c0396e9-2773-4f2b-aa41-85917dfe104d#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/wirtschaft/beatmungsgeraete-bund-stoppt-uebernahme-durch-chinesisches-unternehmen](https://www.spiegel.de/wirtschaft/beatmungsgeraete-bund-stoppt-uebernahme-durch-chinesisches-unternehmen-a-6c0396e9-2773-4f2b-aa41-85917dfe104d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen](https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen-a-6458980e-b1ef-4050-b270-2062517ead3c#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-laut-christine-lambrecht-nur-150-schuetzenpanzer-puma-angeblich-einsatzbereit](https://www.spiegel.de/politik/deutschland/bundeswehr-laut-christine-lambrecht-nur-150-schuetzenpanzer-puma-angeblich-einsatzbereit-a-5614855e-80f3-4160-9727-933d62b1261e#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-abgeordneter-soll-im-parlament-pornos-geschaut-haben-tories-leiten-untersuchung-ein](https://www.spiegel.de/ausland/grossbritannien-abgeordneter-soll-im-parlament-pornos-geschaut-haben-tories-leiten-untersuchung-ein-a-9ae519ab-8861-43f9-9c06-2deb3c1fab22#ref=rss)
-### lambrecht
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-laut-christine-lambrecht-nur-150-schuetzenpanzer-puma-angeblich-einsatzbereit](https://www.spiegel.de/politik/deutschland/bundeswehr-laut-christine-lambrecht-nur-150-schuetzenpanzer-puma-angeblich-einsatzbereit-a-5614855e-80f3-4160-9727-933d62b1261e#ref=rss)
-### einsatzbereit
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-laut-christine-lambrecht-nur-150-schuetzenpanzer-puma-angeblich-einsatzbereit](https://www.spiegel.de/politik/deutschland/bundeswehr-laut-christine-lambrecht-nur-150-schuetzenpanzer-puma-angeblich-einsatzbereit-a-5614855e-80f3-4160-9727-933d62b1261e#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen](https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen-a-6458980e-b1ef-4050-b270-2062517ead3c#ref=rss)
-### signalisiert
-
-* [https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen](https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen-a-6458980e-b1ef-4050-b270-2062517ead3c#ref=rss)
-### unterstützung
-
-* [https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen](https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen-a-6458980e-b1ef-4050-b270-2062517ead3c#ref=rss)
-### 100
-
-* [https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen](https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen-a-6458980e-b1ef-4050-b270-2062517ead3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-die-100-milliarden-euro-debatte-livestream](https://www.spiegel.de/politik/deutschland/bundeswehr-die-100-milliarden-euro-debatte-livestream-a-a1e9944f-eb29-4b85-a7ce-ab56b50b1082#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen](https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen-a-6458980e-b1ef-4050-b270-2062517ead3c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-die-100-milliarden-euro-debatte-livestream](https://www.spiegel.de/politik/deutschland/bundeswehr-die-100-milliarden-euro-debatte-livestream-a-a1e9944f-eb29-4b85-a7ce-ab56b50b1082#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen](https://www.spiegel.de/politik/deutschland/sondervermoegen-fuer-die-bundeswehr-union-signalisiert-unterstuetzung-stellt-jedoch-bedingungen-a-6458980e-b1ef-4050-b270-2062517ead3c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/elektronik-pionier-klaus-schulze-ist-tot](https://www.spiegel.de/kultur/musik/elektronik-pionier-klaus-schulze-ist-tot-a-f057fe14-2791-4e7c-be85-3c24e8191112#ref=rss)
-### konferenz
-
-* [https://www.spiegel.de/politik/eu-reformen-der-konferenz-zur-zukunft-europas-weg-mit-dem-veto](https://www.spiegel.de/politik/eu-reformen-der-konferenz-zur-zukunft-europas-weg-mit-dem-veto-a-f63b0ee9-aba7-47e8-9511-f4a718ec2934#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/politik/eu-reformen-der-konferenz-zur-zukunft-europas-weg-mit-dem-veto](https://www.spiegel.de/politik/eu-reformen-der-konferenz-zur-zukunft-europas-weg-mit-dem-veto-a-f63b0ee9-aba7-47e8-9511-f4a718ec2934#ref=rss)
-### europas
-
-* [https://www.spiegel.de/politik/eu-reformen-der-konferenz-zur-zukunft-europas-weg-mit-dem-veto](https://www.spiegel.de/politik/eu-reformen-der-konferenz-zur-zukunft-europas-weg-mit-dem-veto-a-f63b0ee9-aba7-47e8-9511-f4a718ec2934#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/politik/eu-reformen-der-konferenz-zur-zukunft-europas-weg-mit-dem-veto](https://www.spiegel.de/politik/eu-reformen-der-konferenz-zur-zukunft-europas-weg-mit-dem-veto-a-f63b0ee9-aba7-47e8-9511-f4a718ec2934#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-abgeordneter-soll-im-parlament-pornos-geschaut-haben-tories-leiten-untersuchung-ein](https://www.spiegel.de/ausland/grossbritannien-abgeordneter-soll-im-parlament-pornos-geschaut-haben-tories-leiten-untersuchung-ein-a-9ae519ab-8861-43f9-9c06-2deb3c1fab22#ref=rss)
-### eu
-
-* [https://www.spiegel.de/politik/eu-reformen-der-konferenz-zur-zukunft-europas-weg-mit-dem-veto](https://www.spiegel.de/politik/eu-reformen-der-konferenz-zur-zukunft-europas-weg-mit-dem-veto-a-f63b0ee9-aba7-47e8-9511-f4a718ec2934#ref=rss)
-* [https://www.spiegel.de/ausland/gas-embargo-gegen-polen-und-bulgarien-wie-wladimir-putin-europa-spalten-will](https://www.spiegel.de/ausland/gas-embargo-gegen-polen-und-bulgarien-wie-wladimir-putin-europa-spalten-will-a-b5fd049c-3768-451e-97fb-39db75c45b9d#ref=rss)
-### videos
-
-* [https://www.spiegel.de/ausland/coronavirus-in-china-videos-aus-einem-quarantaenezentrum-in-shanghai-zeigen-ueble-zustaende](https://www.spiegel.de/ausland/coronavirus-in-china-videos-aus-einem-quarantaenezentrum-in-shanghai-zeigen-ueble-zustaende-a-de357681-6254-4b1a-96e7-122dd1b067e2#ref=rss)
-### shanghai
-
-* [https://www.spiegel.de/ausland/coronavirus-in-china-videos-aus-einem-quarantaenezentrum-in-shanghai-zeigen-ueble-zustaende](https://www.spiegel.de/ausland/coronavirus-in-china-videos-aus-einem-quarantaenezentrum-in-shanghai-zeigen-ueble-zustaende-a-de357681-6254-4b1a-96e7-122dd1b067e2#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/ausland/coronavirus-in-china-videos-aus-einem-quarantaenezentrum-in-shanghai-zeigen-ueble-zustaende](https://www.spiegel.de/ausland/coronavirus-in-china-videos-aus-einem-quarantaenezentrum-in-shanghai-zeigen-ueble-zustaende-a-de357681-6254-4b1a-96e7-122dd1b067e2#ref=rss)
-### darin
-
-* [https://www.spiegel.de/ausland/coronavirus-in-china-videos-aus-einem-quarantaenezentrum-in-shanghai-zeigen-ueble-zustaende](https://www.spiegel.de/ausland/coronavirus-in-china-videos-aus-einem-quarantaenezentrum-in-shanghai-zeigen-ueble-zustaende-a-de357681-6254-4b1a-96e7-122dd1b067e2#ref=rss)
-* [https://www.spiegel.de/ausland/frontex-in-illegale-pushbacks-von-hunderten-fluechtlingen-involviert](https://www.spiegel.de/ausland/frontex-in-illegale-pushbacks-von-hunderten-fluechtlingen-involviert-a-086f0e5a-0172-4007-b59c-7bced325cc75#ref=rss)
-### pushbacks
-
-* [https://www.spiegel.de/ausland/frontex-in-illegale-pushbacks-von-hunderten-fluechtlingen-involviert](https://www.spiegel.de/ausland/frontex-in-illegale-pushbacks-von-hunderten-fluechtlingen-involviert-a-086f0e5a-0172-4007-b59c-7bced325cc75#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/yom-ha-schoah-100-holocaust-ueberlebende-mahnen-mit-100-worten-erinnerung-an](https://www.spiegel.de/panorama/gesellschaft/yom-ha-schoah-100-holocaust-ueberlebende-mahnen-mit-100-worten-erinnerung-an-a-75b53d9c-f94f-4906-9b11-31cffa8d95f9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-angriffe-im-donbass-und-ein-statement-von-menschenrechtsanwaeltin-amal-clooney](https://www.spiegel.de/ausland/ukraine-krieg-angriffe-im-donbass-und-ein-statement-von-menschenrechtsanwaeltin-amal-clooney-a-1a932244-7138-4fb4-ae15-ecdafe45f485#ref=rss)
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall](https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall-a-4aba92de-f78d-40e0-8fdf-4acbf4536ff1#ref=rss)
 ### bundestag
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent-a-92dff1a8-64ff-429f-93f6-913e42a070ef#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-die-100-milliarden-euro-debatte-livestream](https://www.spiegel.de/politik/deutschland/bundeswehr-die-100-milliarden-euro-debatte-livestream-a-a1e9944f-eb29-4b85-a7ce-ab56b50b1082#ref=rss)
-### steigen
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-verwandelt-ukraine-debatte-in-generalattacke-auf-olaf-scholz](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-verwandelt-ukraine-debatte-in-generalattacke-auf-olaf-scholz-a-1b27e78f-46a0-425e-9933-01be197fa9ed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu](https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu-a-f3c5741d-dcaa-4795-a1c6-bc9328c49499#ref=rss)
+### villarreal
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent-a-92dff1a8-64ff-429f-93f6-913e42a070ef#ref=rss)
-* [https://www.spiegel.de/panorama/leute/shkodran-mustafi-einbrecher-steigen-bei-shkodran-mustafi-ein-waehrend-er-zu-hause-ist](https://www.spiegel.de/panorama/leute/shkodran-mustafi-einbrecher-steigen-bei-shkodran-mustafi-ein-waehrend-er-zu-hause-ist-a-50c4891a-e77f-410d-96d0-ca6f30e0b43a#ref=rss)
-### prozent
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-liverpool-schlaegt-fc-villarreal-die-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-fc-liverpool-schlaegt-fc-villarreal-die-pressestimmen-a-656ab23b-467f-4999-91ce-857716ccc9c4#ref=rss)
+* [https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer](https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer-a-6cb6f6bb-4268-43ec-9526-7084410133c8#ref=rss)
+### schwere
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent-a-92dff1a8-64ff-429f-93f6-913e42a070ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/clemens-toennies-meldet-umsatz-einbruch-fleischkonsum-ruecklaeufig](https://www.spiegel.de/wirtschaft/clemens-toennies-meldet-umsatz-einbruch-fleischkonsum-ruecklaeufig-a-10c29abf-0c03-46d1-ba79-8fbea49d3027#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu](https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu-a-f3c5741d-dcaa-4795-a1c6-bc9328c49499#ref=rss)
+* [https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht](https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht-a-983d4718-af38-449d-90f7-9571b19567f6#ref=rss)
+* [https://www.spiegel.de/ausland/igor-wolobujew-ehemaliger-gazprombank-manager-kaempft-fuer-die-ukraine](https://www.spiegel.de/ausland/igor-wolobujew-ehemaliger-gazprombank-manager-kaempft-fuer-die-ukraine-a-015b9566-7604-4662-b8b7-729da9ea5528#ref=rss)
+### avatar
+
+* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora-a-d8d5c205-fcde-49bb-ab9a-ee9b5a60e64d#ref=rss)
+### erste
+
+* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora-a-d8d5c205-fcde-49bb-ab9a-ee9b5a60e64d#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/politik/deutschland/thomas-kutschaty-ich-wuensche-mir-den-tag-herbei-an-dem-gerhard-schroeder-die-partei-verlaesst](https://www.spiegel.de/politik/deutschland/thomas-kutschaty-ich-wuensche-mir-den-tag-herbei-an-dem-gerhard-schroeder-die-partei-verlaesst-a-5a3c551a-2ffc-4024-a7ce-c3d8810f0adc#ref=rss)
+### kutschaty
+
+* [https://www.spiegel.de/politik/deutschland/thomas-kutschaty-ich-wuensche-mir-den-tag-herbei-an-dem-gerhard-schroeder-die-partei-verlaesst](https://www.spiegel.de/politik/deutschland/thomas-kutschaty-ich-wuensche-mir-den-tag-herbei-an-dem-gerhard-schroeder-die-partei-verlaesst-a-5a3c551a-2ffc-4024-a7ce-c3d8810f0adc#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/thomas-kutschaty-ich-wuensche-mir-den-tag-herbei-an-dem-gerhard-schroeder-die-partei-verlaesst](https://www.spiegel.de/politik/deutschland/thomas-kutschaty-ich-wuensche-mir-den-tag-herbei-an-dem-gerhard-schroeder-die-partei-verlaesst-a-5a3c551a-2ffc-4024-a7ce-c3d8810f0adc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-verwandelt-ukraine-debatte-in-generalattacke-auf-olaf-scholz](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-verwandelt-ukraine-debatte-in-generalattacke-auf-olaf-scholz-a-1b27e78f-46a0-425e-9933-01be197fa9ed#ref=rss)
+### microsoft
+
+* [https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine](https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine-a-ec1d85f2-7c2f-4536-8c92-f42c62a35c17#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine](https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine-a-ec1d85f2-7c2f-4536-8c92-f42c62a35c17#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/yom-ha-schoah-100-holocaust-ueberlebende-mahnen-mit-100-worten-erinnerung-an](https://www.spiegel.de/panorama/gesellschaft/yom-ha-schoah-100-holocaust-ueberlebende-mahnen-mit-100-worten-erinnerung-an-a-75b53d9c-f94f-4906-9b11-31cffa8d95f9#ref=rss)
+### systeme
+
+* [https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine](https://www.spiegel.de/netzwelt/web/ukrainekrieg-microsoft-zaehlt-bisher-237-hackerangriffe-auf-die-ukraine-a-ec1d85f2-7c2f-4536-8c92-f42c62a35c17#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu](https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu-a-f3c5741d-dcaa-4795-a1c6-bc9328c49499#ref=rss)
+### asowregiment
+
+* [https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol](https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol-a-e1c3de38-fa7d-4a79-9f90-3b84cd204ebf#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol](https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol-a-e1c3de38-fa7d-4a79-9f90-3b84cd204ebf#ref=rss)
+### kiew
+
+* [https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol](https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol-a-e1c3de38-fa7d-4a79-9f90-3b84cd204ebf#ref=rss)
+### hilfe
+
+* [https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol](https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol-a-e1c3de38-fa7d-4a79-9f90-3b84cd204ebf#ref=rss)
+### zivilisten
+
+* [https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol](https://www.spiegel.de/ausland/asow-regiment-kritisiert-regierung-in-kiew-wegen-mangelnder-hilfe-in-mariupol-a-e1c3de38-fa7d-4a79-9f90-3b84cd204ebf#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-angriffe-im-donbass-und-ein-statement-von-menschenrechtsanwaeltin-amal-clooney](https://www.spiegel.de/ausland/ukraine-krieg-angriffe-im-donbass-und-ein-statement-von-menschenrechtsanwaeltin-amal-clooney-a-1a932244-7138-4fb4-ae15-ecdafe45f485#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/ausland/russland-setzt-offenbar-kampfdelfine-zum-schutz-seiner-flotte-ein](https://www.spiegel.de/ausland/russland-setzt-offenbar-kampfdelfine-zum-schutz-seiner-flotte-ein-a-3da1d3a8-17f4-44f1-b7d2-548efe5802de#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/facebook-quartalszahlen-verzeichnen-zuwachs-beim-meta-konzern](https://www.spiegel.de/netzwelt/apps/facebook-quartalszahlen-verzeichnen-zuwachs-beim-meta-konzern-a-da7b69a3-3106-4ceb-bd50-2ccf63a444ab#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/ausland/russland-setzt-offenbar-kampfdelfine-zum-schutz-seiner-flotte-ein](https://www.spiegel.de/ausland/russland-setzt-offenbar-kampfdelfine-zum-schutz-seiner-flotte-ein-a-3da1d3a8-17f4-44f1-b7d2-548efe5802de#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/so-wenig-hochzeiten-in-deutschland-wie-zuletzt-im-ersten-weltkrieg](https://www.spiegel.de/panorama/gesellschaft/so-wenig-hochzeiten-in-deutschland-wie-zuletzt-im-ersten-weltkrieg-a-4ac9e251-8980-458b-aa66-2aee39c71855#ref=rss)
+### switch
+
+* [https://www.spiegel.de/netzwelt/games/switch-sports-von-nintendo-schweissgebadet-zurueck-ins-jahr-2006](https://www.spiegel.de/netzwelt/games/switch-sports-von-nintendo-schweissgebadet-zurueck-ins-jahr-2006-a-41104879-8c0d-410a-89ab-3bc776c2e3bc#ref=rss)
+### sports
+
+* [https://www.spiegel.de/netzwelt/games/switch-sports-von-nintendo-schweissgebadet-zurueck-ins-jahr-2006](https://www.spiegel.de/netzwelt/games/switch-sports-von-nintendo-schweissgebadet-zurueck-ins-jahr-2006-a-41104879-8c0d-410a-89ab-3bc776c2e3bc#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/netzwelt/games/switch-sports-von-nintendo-schweissgebadet-zurueck-ins-jahr-2006](https://www.spiegel.de/netzwelt/games/switch-sports-von-nintendo-schweissgebadet-zurueck-ins-jahr-2006-a-41104879-8c0d-410a-89ab-3bc776c2e3bc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gazprombank-russland-weist-deutsche-und-oesterreichische-gaszahlung-zurueck](https://www.spiegel.de/wirtschaft/gazprombank-russland-weist-deutsche-und-oesterreichische-gaszahlung-zurueck-a-bcb57982-fa10-498d-b767-e96f0a28f34b#ref=rss)
 ### jahr
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent](https://www.spiegel.de/politik/deutschland/bundestag-abgeordnetendiaeten-steigen-um-3-1-prozent-a-92dff1a8-64ff-429f-93f6-913e42a070ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/clemens-toennies-meldet-umsatz-einbruch-fleischkonsum-ruecklaeufig](https://www.spiegel.de/wirtschaft/clemens-toennies-meldet-umsatz-einbruch-fleischkonsum-ruecklaeufig-a-10c29abf-0c03-46d1-ba79-8fbea49d3027#ref=rss)
-### jahre
+* [https://www.spiegel.de/netzwelt/games/switch-sports-von-nintendo-schweissgebadet-zurueck-ins-jahr-2006](https://www.spiegel.de/netzwelt/games/switch-sports-von-nintendo-schweissgebadet-zurueck-ins-jahr-2006-a-41104879-8c0d-410a-89ab-3bc776c2e3bc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/helgoland-polizei-sucht-mit-rekonstruktion-hinweise-zu-leiche-aus-dem-jahr1994](https://www.spiegel.de/panorama/justiz/helgoland-polizei-sucht-mit-rekonstruktion-hinweise-zu-leiche-aus-dem-jahr1994-a-81b44ca0-e6c4-4716-ba7b-aef95f018223#ref=rss)
+### gern
 
-* [https://www.spiegel.de/wissenschaft/mensch/gaza-bauer-findet-4500-jahre-alte-statuette-der-goettin-anat-aus-kanaan](https://www.spiegel.de/wissenschaft/mensch/gaza-bauer-findet-4500-jahre-alte-statuette-der-goettin-anat-aus-kanaan-a-27f766f9-2fd4-4130-9534-8444a8935e51#ref=rss)
-* [https://www.spiegel.de/kultur/musik/elektronik-pionier-klaus-schulze-ist-tot](https://www.spiegel.de/kultur/musik/elektronik-pionier-klaus-schulze-ist-tot-a-f057fe14-2791-4e7c-be85-3c24e8191112#ref=rss)
-### göttin
+* [https://www.spiegel.de/netzwelt/games/switch-sports-von-nintendo-schweissgebadet-zurueck-ins-jahr-2006](https://www.spiegel.de/netzwelt/games/switch-sports-von-nintendo-schweissgebadet-zurueck-ins-jahr-2006-a-41104879-8c0d-410a-89ab-3bc776c2e3bc#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/facebook-quartalszahlen-verzeichnen-zuwachs-beim-meta-konzern](https://www.spiegel.de/netzwelt/apps/facebook-quartalszahlen-verzeichnen-zuwachs-beim-meta-konzern-a-da7b69a3-3106-4ceb-bd50-2ccf63a444ab#ref=rss)
+### 100
 
-* [https://www.spiegel.de/wissenschaft/mensch/gaza-bauer-findet-4500-jahre-alte-statuette-der-goettin-anat-aus-kanaan](https://www.spiegel.de/wissenschaft/mensch/gaza-bauer-findet-4500-jahre-alte-statuette-der-goettin-anat-aus-kanaan-a-27f766f9-2fd4-4130-9534-8444a8935e51#ref=rss)
-### anat
+* [https://www.spiegel.de/panorama/gesellschaft/yom-ha-schoah-100-holocaust-ueberlebende-mahnen-mit-100-worten-erinnerung-an](https://www.spiegel.de/panorama/gesellschaft/yom-ha-schoah-100-holocaust-ueberlebende-mahnen-mit-100-worten-erinnerung-an-a-75b53d9c-f94f-4906-9b11-31cffa8d95f9#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/wissenschaft/mensch/gaza-bauer-findet-4500-jahre-alte-statuette-der-goettin-anat-aus-kanaan](https://www.spiegel.de/wissenschaft/mensch/gaza-bauer-findet-4500-jahre-alte-statuette-der-goettin-anat-aus-kanaan-a-27f766f9-2fd4-4130-9534-8444a8935e51#ref=rss)
-### tesla
+* [https://www.spiegel.de/panorama/gesellschaft/yom-ha-schoah-100-holocaust-ueberlebende-mahnen-mit-100-worten-erinnerung-an](https://www.spiegel.de/panorama/gesellschaft/yom-ha-schoah-100-holocaust-ueberlebende-mahnen-mit-100-worten-erinnerung-an-a-75b53d9c-f94f-4906-9b11-31cffa8d95f9#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/zollvereinsteig-und-baldeneysteig-bei-essen-wandern-wo-millionen-wohnen](https://www.spiegel.de/reise/deutschland/zollvereinsteig-und-baldeneysteig-bei-essen-wandern-wo-millionen-wohnen-a-e3cfe534-ee2b-403b-8672-bebbba9b0db8#ref=rss)
+### zollvereinsteig
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-tesla-tag-gegen-laerm](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-krieg-tesla-tag-gegen-laerm-a-1d44dee0-84fa-44a3-b8ce-0dd09ab64fbe#ref=rss)
-### wladimir
+* [https://www.spiegel.de/reise/deutschland/zollvereinsteig-und-baldeneysteig-bei-essen-wandern-wo-millionen-wohnen](https://www.spiegel.de/reise/deutschland/zollvereinsteig-und-baldeneysteig-bei-essen-wandern-wo-millionen-wohnen-a-e3cfe534-ee2b-403b-8672-bebbba9b0db8#ref=rss)
+### wandern
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen-a-7110c9e0-2432-43e3-8f76-5d4f000b5ab0#ref=rss)
-* [https://www.spiegel.de/ausland/gas-embargo-gegen-polen-und-bulgarien-wie-wladimir-putin-europa-spalten-will](https://www.spiegel.de/ausland/gas-embargo-gegen-polen-und-bulgarien-wie-wladimir-putin-europa-spalten-will-a-b5fd049c-3768-451e-97fb-39db75c45b9d#ref=rss)
-### rasch
+* [https://www.spiegel.de/reise/deutschland/zollvereinsteig-und-baldeneysteig-bei-essen-wandern-wo-millionen-wohnen](https://www.spiegel.de/reise/deutschland/zollvereinsteig-und-baldeneysteig-bei-essen-wandern-wo-millionen-wohnen-a-e3cfe534-ee2b-403b-8672-bebbba9b0db8#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-droht-unterstuetzern-von-kiew-mit-blitzschnellen-schlaegen-a-7110c9e0-2432-43e3-8f76-5d4f000b5ab0#ref=rss)
-* [https://www.spiegel.de/ausland/gas-embargo-gegen-polen-und-bulgarien-wie-wladimir-putin-europa-spalten-will](https://www.spiegel.de/ausland/gas-embargo-gegen-polen-und-bulgarien-wie-wladimir-putin-europa-spalten-will-a-b5fd049c-3768-451e-97fb-39db75c45b9d#ref=rss)
-### klaus
+* [https://www.spiegel.de/reise/deutschland/zollvereinsteig-und-baldeneysteig-bei-essen-wandern-wo-millionen-wohnen](https://www.spiegel.de/reise/deutschland/zollvereinsteig-und-baldeneysteig-bei-essen-wandern-wo-millionen-wohnen-a-e3cfe534-ee2b-403b-8672-bebbba9b0db8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/eisenbahn-im-ukraine-krieg-so-wichtig-ist-die-schienen-logistik](https://www.spiegel.de/wissenschaft/mensch/eisenbahn-im-ukraine-krieg-so-wichtig-ist-die-schienen-logistik-a-9ce63f0a-e3f8-45cb-a567-6866b62fa9e1#ref=rss)
+### macht
 
-* [https://www.spiegel.de/kultur/musik/elektronik-pionier-klaus-schulze-ist-tot](https://www.spiegel.de/kultur/musik/elektronik-pionier-klaus-schulze-ist-tot-a-f057fe14-2791-4e7c-be85-3c24e8191112#ref=rss)
-### schulze
+* [https://www.spiegel.de/reise/deutschland/zollvereinsteig-und-baldeneysteig-bei-essen-wandern-wo-millionen-wohnen](https://www.spiegel.de/reise/deutschland/zollvereinsteig-und-baldeneysteig-bei-essen-wandern-wo-millionen-wohnen-a-e3cfe534-ee2b-403b-8672-bebbba9b0db8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-angriffe-im-donbass-und-ein-statement-von-menschenrechtsanwaeltin-amal-clooney](https://www.spiegel.de/ausland/ukraine-krieg-angriffe-im-donbass-und-ein-statement-von-menschenrechtsanwaeltin-amal-clooney-a-1a932244-7138-4fb4-ae15-ecdafe45f485#ref=rss)
+### meldet
 
-* [https://www.spiegel.de/kultur/musik/elektronik-pionier-klaus-schulze-ist-tot](https://www.spiegel.de/kultur/musik/elektronik-pionier-klaus-schulze-ist-tot-a-f057fe14-2791-4e7c-be85-3c24e8191112#ref=rss)
-### einbrecher
+* [https://www.spiegel.de/wissenschaft/mensch/eisenbahn-im-ukraine-krieg-so-wichtig-ist-die-schienen-logistik](https://www.spiegel.de/wissenschaft/mensch/eisenbahn-im-ukraine-krieg-so-wichtig-ist-die-schienen-logistik-a-9ce63f0a-e3f8-45cb-a567-6866b62fa9e1#ref=rss)
+* [https://www.spiegel.de/ausland/usa-sollen-militaergeraet-im-wert-von-sieben-milliarden-dollar-zurueckgelassen-haben](https://www.spiegel.de/ausland/usa-sollen-militaergeraet-im-wert-von-sieben-milliarden-dollar-zurueckgelassen-haben-a-0594bd43-9d35-4499-8005-9e5ec57bbf7c#ref=rss)
+### merz
 
-* [https://www.spiegel.de/panorama/leute/shkodran-mustafi-einbrecher-steigen-bei-shkodran-mustafi-ein-waehrend-er-zu-hause-ist](https://www.spiegel.de/panorama/leute/shkodran-mustafi-einbrecher-steigen-bei-shkodran-mustafi-ein-waehrend-er-zu-hause-ist-a-50c4891a-e77f-410d-96d0-ca6f30e0b43a#ref=rss)
-### polen
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-verwandelt-ukraine-debatte-in-generalattacke-auf-olaf-scholz](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-verwandelt-ukraine-debatte-in-generalattacke-auf-olaf-scholz-a-1b27e78f-46a0-425e-9933-01be197fa9ed#ref=rss)
+### sehr
 
-* [https://www.spiegel.de/ausland/gas-embargo-gegen-polen-und-bulgarien-wie-wladimir-putin-europa-spalten-will](https://www.spiegel.de/ausland/gas-embargo-gegen-polen-und-bulgarien-wie-wladimir-putin-europa-spalten-will-a-b5fd049c-3768-451e-97fb-39db75c45b9d#ref=rss)
-### bulgarien
+* [https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-verwandelt-ukraine-debatte-in-generalattacke-auf-olaf-scholz](https://www.spiegel.de/politik/deutschland/bundestag-friedrich-merz-verwandelt-ukraine-debatte-in-generalattacke-auf-olaf-scholz-a-1b27e78f-46a0-425e-9933-01be197fa9ed#ref=rss)
+* [https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer](https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer-a-6cb6f6bb-4268-43ec-9526-7084410133c8#ref=rss)
+### china
 
-* [https://www.spiegel.de/ausland/gas-embargo-gegen-polen-und-bulgarien-wie-wladimir-putin-europa-spalten-will](https://www.spiegel.de/ausland/gas-embargo-gegen-polen-und-bulgarien-wie-wladimir-putin-europa-spalten-will-a-b5fd049c-3768-451e-97fb-39db75c45b9d#ref=rss)
-### tönnies
+* [https://www.spiegel.de/ausland/corona-in-china-weitere-millionenstaedte-ordnen-massentests-an](https://www.spiegel.de/ausland/corona-in-china-weitere-millionenstaedte-ordnen-massentests-an-a-d2e7807c-c7b2-4f9a-84b9-1dbfd2d29661#ref=rss)
+### kämpft
 
-* [https://www.spiegel.de/wirtschaft/clemens-toennies-meldet-umsatz-einbruch-fleischkonsum-ruecklaeufig](https://www.spiegel.de/wirtschaft/clemens-toennies-meldet-umsatz-einbruch-fleischkonsum-ruecklaeufig-a-10c29abf-0c03-46d1-ba79-8fbea49d3027#ref=rss)
-### fleischkonsum
+* [https://www.spiegel.de/ausland/corona-in-china-weitere-millionenstaedte-ordnen-massentests-an](https://www.spiegel.de/ausland/corona-in-china-weitere-millionenstaedte-ordnen-massentests-an-a-d2e7807c-c7b2-4f9a-84b9-1dbfd2d29661#ref=rss)
+* [https://www.spiegel.de/ausland/igor-wolobujew-ehemaliger-gazprombank-manager-kaempft-fuer-die-ukraine](https://www.spiegel.de/ausland/igor-wolobujew-ehemaliger-gazprombank-manager-kaempft-fuer-die-ukraine-a-015b9566-7604-4662-b8b7-729da9ea5528#ref=rss)
+### wochen
 
-* [https://www.spiegel.de/wirtschaft/clemens-toennies-meldet-umsatz-einbruch-fleischkonsum-ruecklaeufig](https://www.spiegel.de/wirtschaft/clemens-toennies-meldet-umsatz-einbruch-fleischkonsum-ruecklaeufig-a-10c29abf-0c03-46d1-ba79-8fbea49d3027#ref=rss)
-### präsident
+* [https://www.spiegel.de/ausland/corona-in-china-weitere-millionenstaedte-ordnen-massentests-an](https://www.spiegel.de/ausland/corona-in-china-weitere-millionenstaedte-ordnen-massentests-an-a-d2e7807c-c7b2-4f9a-84b9-1dbfd2d29661#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen](https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen-a-c99e175e-3cee-4a6a-95c7-d8100a12f1c2#ref=rss)
+### pressestimmen
 
-* [https://www.spiegel.de/ausland/finnland-corona-infizierter-praesident-sauli-niinistoe-an-lungenentzuendung-erkrankt](https://www.spiegel.de/ausland/finnland-corona-infizierter-praesident-sauli-niinistoe-an-lungenentzuendung-erkrankt-a-647312c3-6c95-4532-bf0c-a0d1f56b04dc#ref=rss)
-### sauli
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-liverpool-schlaegt-fc-villarreal-die-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-fc-liverpool-schlaegt-fc-villarreal-die-pressestimmen-a-656ab23b-467f-4999-91ce-857716ccc9c4#ref=rss)
+### finden
 
-* [https://www.spiegel.de/ausland/finnland-corona-infizierter-praesident-sauli-niinistoe-an-lungenentzuendung-erkrankt](https://www.spiegel.de/ausland/finnland-corona-infizierter-praesident-sauli-niinistoe-an-lungenentzuendung-erkrankt-a-647312c3-6c95-4532-bf0c-a0d1f56b04dc#ref=rss)
-### niinistö
+* [https://www.spiegel.de/sport/fussball/champions-league-fc-liverpool-schlaegt-fc-villarreal-die-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-fc-liverpool-schlaegt-fc-villarreal-die-pressestimmen-a-656ab23b-467f-4999-91ce-857716ccc9c4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/brexit-und-coronafolgen-vier-von-fuenf-britischen-firmen-finden-kaum-noch-mitarbeiter](https://www.spiegel.de/wirtschaft/unternehmen/brexit-und-coronafolgen-vier-von-fuenf-britischen-firmen-finden-kaum-noch-mitarbeiter-a-f4bc79dd-955d-4afa-b184-640fa5da51c0#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/ausland/finnland-corona-infizierter-praesident-sauli-niinistoe-an-lungenentzuendung-erkrankt](https://www.spiegel.de/ausland/finnland-corona-infizierter-praesident-sauli-niinistoe-an-lungenentzuendung-erkrankt-a-647312c3-6c95-4532-bf0c-a0d1f56b04dc#ref=rss)
-### lungenentzündung
+* [https://www.spiegel.de/ausland/usa-sollen-militaergeraet-im-wert-von-sieben-milliarden-dollar-zurueckgelassen-haben](https://www.spiegel.de/ausland/usa-sollen-militaergeraet-im-wert-von-sieben-milliarden-dollar-zurueckgelassen-haben-a-0594bd43-9d35-4499-8005-9e5ec57bbf7c#ref=rss)
+### gazprombank
 
-* [https://www.spiegel.de/ausland/finnland-corona-infizierter-praesident-sauli-niinistoe-an-lungenentzuendung-erkrankt](https://www.spiegel.de/ausland/finnland-corona-infizierter-praesident-sauli-niinistoe-an-lungenentzuendung-erkrankt-a-647312c3-6c95-4532-bf0c-a0d1f56b04dc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gazprombank-russland-weist-deutsche-und-oesterreichische-gaszahlung-zurueck](https://www.spiegel.de/wirtschaft/gazprombank-russland-weist-deutsche-und-oesterreichische-gaszahlung-zurueck-a-bcb57982-fa10-498d-b767-e96f0a28f34b#ref=rss)
+* [https://www.spiegel.de/ausland/igor-wolobujew-ehemaliger-gazprombank-manager-kaempft-fuer-die-ukraine](https://www.spiegel.de/ausland/igor-wolobujew-ehemaliger-gazprombank-manager-kaempft-fuer-die-ukraine-a-015b9566-7604-4662-b8b7-729da9ea5528#ref=rss)
+### waffen
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu](https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundestag-stimmt-lieferung-schwerer-waffen-an-kiew-zu-a-f3c5741d-dcaa-4795-a1c6-bc9328c49499#ref=rss)
+### facebook
+
+* [https://www.spiegel.de/netzwelt/apps/facebook-quartalszahlen-verzeichnen-zuwachs-beim-meta-konzern](https://www.spiegel.de/netzwelt/apps/facebook-quartalszahlen-verzeichnen-zuwachs-beim-meta-konzern-a-da7b69a3-3106-4ceb-bd50-2ccf63a444ab#ref=rss)
+### quartalszahlen
+
+* [https://www.spiegel.de/netzwelt/apps/facebook-quartalszahlen-verzeichnen-zuwachs-beim-meta-konzern](https://www.spiegel.de/netzwelt/apps/facebook-quartalszahlen-verzeichnen-zuwachs-beim-meta-konzern-a-da7b69a3-3106-4ceb-bd50-2ccf63a444ab#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/netzwelt/apps/facebook-quartalszahlen-verzeichnen-zuwachs-beim-meta-konzern](https://www.spiegel.de/netzwelt/apps/facebook-quartalszahlen-verzeichnen-zuwachs-beim-meta-konzern-a-da7b69a3-3106-4ceb-bd50-2ccf63a444ab#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/so-wenig-hochzeiten-in-deutschland-wie-zuletzt-im-ersten-weltkrieg](https://www.spiegel.de/panorama/gesellschaft/so-wenig-hochzeiten-in-deutschland-wie-zuletzt-im-ersten-weltkrieg-a-4ac9e251-8980-458b-aa66-2aee39c71855#ref=rss)
+### nicole
+
+* [https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht](https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht-a-983d4718-af38-449d-90f7-9571b19567f6#ref=rss)
+### brustkrebs
+
+* [https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht](https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht-a-983d4718-af38-449d-90f7-9571b19567f6#ref=rss)
+### dachte
+
+* [https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht](https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht-a-983d4718-af38-449d-90f7-9571b19567f6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall](https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall-a-4aba92de-f78d-40e0-8fdf-4acbf4536ff1#ref=rss)
+### gewann
+
+* [https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht](https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht-a-983d4718-af38-449d-90f7-9571b19567f6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer](https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer-a-6cb6f6bb-4268-43ec-9526-7084410133c8#ref=rss)
+### berichtet
+
+* [https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht](https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht-a-983d4718-af38-449d-90f7-9571b19567f6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall](https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall-a-4aba92de-f78d-40e0-8fdf-4acbf4536ff1#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht](https://www.spiegel.de/panorama/leute/saengerin-nicole-ueber-brustkrebs-ich-dachte-nur-ich-doch-nicht-a-983d4718-af38-449d-90f7-9571b19567f6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall](https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall-a-4aba92de-f78d-40e0-8fdf-4acbf4536ff1#ref=rss)
+### führung
+
+* [https://www.spiegel.de/ausland/igor-wolobujew-ehemaliger-gazprombank-manager-kaempft-fuer-die-ukraine](https://www.spiegel.de/ausland/igor-wolobujew-ehemaliger-gazprombank-manager-kaempft-fuer-die-ukraine-a-015b9566-7604-4662-b8b7-729da9ea5528#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/wirecard-wie-ey-den-bilanzskandal-abschuetteln-will](https://www.spiegel.de/wirtschaft/unternehmen/wirecard-wie-ey-den-bilanzskandal-abschuetteln-will-a-e6b1f9b0-47c6-473f-9de3-04f5cacf6d69#ref=rss)
+### patzer
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-verliert-durch-patzer-von-torwart-andrei-radu-gegen-fc-bologna](https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-verliert-durch-patzer-von-torwart-andrei-radu-gegen-fc-bologna-a-d20cf32e-48d2-438e-9894-127364d4c5d0#ref=rss)
+### andrei
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-verliert-durch-patzer-von-torwart-andrei-radu-gegen-fc-bologna](https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-verliert-durch-patzer-von-torwart-andrei-radu-gegen-fc-bologna-a-d20cf32e-48d2-438e-9894-127364d4c5d0#ref=rss)
+### radu
+
+* [https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-verliert-durch-patzer-von-torwart-andrei-radu-gegen-fc-bologna](https://www.spiegel.de/sport/fussball/fussball-in-italien-inter-mailand-verliert-durch-patzer-von-torwart-andrei-radu-gegen-fc-bologna-a-d20cf32e-48d2-438e-9894-127364d4c5d0#ref=rss)
+### james
+
+* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora-a-d8d5c205-fcde-49bb-ab9a-ee9b5a60e64d#ref=rss)
+### cameron
+
+* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora-a-d8d5c205-fcde-49bb-ab9a-ee9b5a60e64d#ref=rss)
+### szenen
+
+* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora-a-d8d5c205-fcde-49bb-ab9a-ee9b5a60e64d#ref=rss)
+### 2
+
+* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora-a-d8d5c205-fcde-49bb-ab9a-ee9b5a60e64d#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-james-cameron-zeigt-erste-erste-szenen-aus-der-welt-des-planeten-pandora-a-d8d5c205-fcde-49bb-ab9a-ee9b5a60e64d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/helgoland-polizei-sucht-mit-rekonstruktion-hinweise-zu-leiche-aus-dem-jahr1994](https://www.spiegel.de/panorama/justiz/helgoland-polizei-sucht-mit-rekonstruktion-hinweise-zu-leiche-aus-dem-jahr1994-a-81b44ca0-e6c4-4716-ba7b-aef95f018223#ref=rss)
+### wirecard
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/wirecard-wie-ey-den-bilanzskandal-abschuetteln-will](https://www.spiegel.de/wirtschaft/unternehmen/wirecard-wie-ey-den-bilanzskandal-abschuetteln-will-a-e6b1f9b0-47c6-473f-9de3-04f5cacf6d69#ref=rss)
+### ey
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/wirecard-wie-ey-den-bilanzskandal-abschuetteln-will](https://www.spiegel.de/wirtschaft/unternehmen/wirecard-wie-ey-den-bilanzskandal-abschuetteln-will-a-e6b1f9b0-47c6-473f-9de3-04f5cacf6d69#ref=rss)
+### leiche
+
+* [https://www.spiegel.de/panorama/justiz/helgoland-polizei-sucht-mit-rekonstruktion-hinweise-zu-leiche-aus-dem-jahr1994](https://www.spiegel.de/panorama/justiz/helgoland-polizei-sucht-mit-rekonstruktion-hinweise-zu-leiche-aus-dem-jahr1994-a-81b44ca0-e6c4-4716-ba7b-aef95f018223#ref=rss)
+### militärverwaltung
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen](https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen-a-c99e175e-3cee-4a6a-95c7-d8100a12f1c2#ref=rss)
+### cherson
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen](https://www.spiegel.de/ausland/ukraine-krieg-russische-militaerverwaltung-will-in-cherson-offenbar-rubel-einfuehrung-erzwingen-a-c99e175e-3cee-4a6a-95c7-d8100a12f1c2#ref=rss)
+### hailey
+
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall](https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall-a-4aba92de-f78d-40e0-8fdf-4acbf4536ff1#ref=rss)
+### bieber
+
+* [https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall](https://www.spiegel.de/panorama/leute/hailey-bieber-ueber-gesundheitliche-probleme-ich-dachte-sofort-ich-haette-einen-schlaganfall-a-4aba92de-f78d-40e0-8fdf-4acbf4536ff1#ref=rss)
+### chemiestudent
+
+* [https://www.spiegel.de/panorama/bildung/hessen-chemiestudent-experimentiert-zu-hause-und-loest-feuerwehreinsatz-aus](https://www.spiegel.de/panorama/bildung/hessen-chemiestudent-experimentiert-zu-hause-und-loest-feuerwehreinsatz-aus-a-52fdefc3-8378-4bb8-9ea6-91e55efe4847#ref=rss)
+### hause
+
+* [https://www.spiegel.de/panorama/bildung/hessen-chemiestudent-experimentiert-zu-hause-und-loest-feuerwehreinsatz-aus](https://www.spiegel.de/panorama/bildung/hessen-chemiestudent-experimentiert-zu-hause-und-loest-feuerwehreinsatz-aus-a-52fdefc3-8378-4bb8-9ea6-91e55efe4847#ref=rss)
+### thiago
+
+* [https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer](https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer-a-6cb6f6bb-4268-43ec-9526-7084410133c8#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer](https://www.spiegel.de/sport/fussball/thiago-beim-fc-liverpool-juergen-klopps-neuer-anfuehrer-a-6cb6f6bb-4268-43ec-9526-7084410133c8#ref=rss)
+### brexit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/brexit-und-coronafolgen-vier-von-fuenf-britischen-firmen-finden-kaum-noch-mitarbeiter](https://www.spiegel.de/wirtschaft/unternehmen/brexit-und-coronafolgen-vier-von-fuenf-britischen-firmen-finden-kaum-noch-mitarbeiter-a-f4bc79dd-955d-4afa-b184-640fa5da51c0#ref=rss)
+### abtreibungen
+
+* [https://www.spiegel.de/politik/deutschland/abtreibungen-wie-viel-fortschritt-bringt-die-ampel-podcast](https://www.spiegel.de/politik/deutschland/abtreibungen-wie-viel-fortschritt-bringt-die-ampel-podcast-a-3c61396c-5e47-4aec-b8f6-990384e80e99#ref=rss)
+### fortschritt
+
+* [https://www.spiegel.de/politik/deutschland/abtreibungen-wie-viel-fortschritt-bringt-die-ampel-podcast](https://www.spiegel.de/politik/deutschland/abtreibungen-wie-viel-fortschritt-bringt-die-ampel-podcast-a-3c61396c-5e47-4aec-b8f6-990384e80e99#ref=rss)
 
