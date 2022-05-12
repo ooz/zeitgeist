@@ -4,373 +4,325 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ukraine
-
-* [https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt](https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt-a-86a18c3a-02d4-4d39-8d95-8ca56f049f29#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre](https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre-a-410e918d-5195-4e88-93e4-009a4698c991#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren](https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren-a-242a54fd-48c7-424b-9755-958dfc9aa5ff#ref=rss)
-* [https://www.spiegel.de/ausland/slowakei-und-polen-verlangen-eu-kandidatenstatus-fuer-ukraine](https://www.spiegel.de/ausland/slowakei-und-polen-verlangen-eu-kandidatenstatus-fuer-ukraine-a-09fe42de-be93-4511-9aa9-05b44f706c9c#ref=rss)
-* [https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech](https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech-a-9350655c-246a-4ee0-a35a-caf631d38e5b#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen-a-f81d25cc-0d01-438b-a641-db48c6abc93a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre](https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre-a-410e918d-5195-4e88-93e4-009a4698c991#ref=rss)
-* [https://www.spiegel.de/ausland/brexitstreit-mit-der-eu-boris-johnson-spielt-schon-wieder-mit-nordirlands-zukunft](https://www.spiegel.de/ausland/brexitstreit-mit-der-eu-boris-johnson-spielt-schon-wieder-mit-nordirlands-zukunft-a-61d1058a-034a-405f-aa20-998932073ac0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-berlin-vorwurf-der-wahlmanipulation-gegen-beatrix-von-storch-schiedsgericht-der-afd-annulliert-berliner-delegiertenwahl](https://www.spiegel.de/politik/deutschland/afd-in-berlin-vorwurf-der-wahlmanipulation-gegen-beatrix-von-storch-schiedsgericht-der-afd-annulliert-berliner-delegiertenwahl-a-6fb650f5-423a-40b6-a904-e01163dba6f3#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/seit-beginn-des-jahres-sind-4000-braende-ausgebrochen](https://www.spiegel.de/wissenschaft/seit-beginn-des-jahres-sind-4000-braende-ausgebrochen-a-af52c0bc-d6d3-44e0-b857-bf6ee74d9c93#ref=rss)
-* [https://www.spiegel.de/ausland/brexitstreit-mit-der-eu-boris-johnson-spielt-schon-wieder-mit-nordirlands-zukunft](https://www.spiegel.de/ausland/brexitstreit-mit-der-eu-boris-johnson-spielt-schon-wieder-mit-nordirlands-zukunft-a-61d1058a-034a-405f-aa20-998932073ac0#ref=rss)
-* [https://www.spiegel.de/gesundheit/coronavirus-in-deutschland-von-der-pandemie-in-die-endemie-wie-geht-es-weiter](https://www.spiegel.de/gesundheit/coronavirus-in-deutschland-von-der-pandemie-in-die-endemie-wie-geht-es-weiter-a-959aad64-50b1-46e5-b41a-e99e2856fbb9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren](https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren-a-242a54fd-48c7-424b-9755-958dfc9aa5ff#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen](https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen-a-2f3f72e3-6b2c-426a-af34-6c6fc9462d76#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/legalisierung-von-cannabis-haushaltsausschuss-macht-druck-bei-cannabisgesetz](https://www.spiegel.de/politik/deutschland/legalisierung-von-cannabis-haushaltsausschuss-macht-druck-bei-cannabisgesetz-a-01f7c1e7-3e89-4aa6-adde-481f885b4650#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-was-jetzt-richtig-ins-geld-geht-und-wo-sie-sogar-sparen](https://www.spiegel.de/wirtschaft/service/inflation-was-jetzt-richtig-ins-geld-geht-und-wo-sie-sogar-sparen-a-4108d629-637d-4f4d-a669-fe63e4faafee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-bundesregierung-loest-corona-krisenstab-auf](https://www.spiegel.de/politik/deutschland/coronavirus-bundesregierung-loest-corona-krisenstab-auf-a-ef830b22-0a61-49a0-8ea5-946fec87200c#ref=rss)
-### gas
-
-* [https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt](https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt-a-86a18c3a-02d4-4d39-8d95-8ca56f049f29#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre](https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre-a-410e918d-5195-4e88-93e4-009a4698c991#ref=rss)
-### 2000
-
-* [https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt](https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt-a-86a18c3a-02d4-4d39-8d95-8ca56f049f29#ref=rss)
-* [https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen](https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen-a-2f3f72e3-6b2c-426a-af34-6c6fc9462d76#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor](https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor-a-e2792ca8-b752-421b-9d51-96613c4643c1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui](https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui-a-06b1ce46-12d3-4dbe-8378-fc8838795546#ref=rss)
-### andere
-
-* [https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor](https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor-a-e2792ca8-b752-421b-9d51-96613c4643c1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen-a-f81d25cc-0d01-438b-a641-db48c6abc93a#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-will-chats-im-kampf-gegen-kindesmissbrauch-durchleuchten-buergerrechtler-sind-alarmiert](https://www.spiegel.de/netzwelt/netzpolitik/eu-will-chats-im-kampf-gegen-kindesmissbrauch-durchleuchten-buergerrechtler-sind-alarmiert-a-3d2e4f66-4a2e-4171-a1ee-97f52ee6a889#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen-a-f81d25cc-0d01-438b-a641-db48c6abc93a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-schlaegt-kleinem-cdu-parteitag-fortsetzung-von-jamaika-vor](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-schlaegt-kleinem-cdu-parteitag-fortsetzung-von-jamaika-vor-a-863a2744-5dcc-4fce-a2f3-923735d66a25#ref=rss)
-### partei
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen-a-f81d25cc-0d01-438b-a641-db48c6abc93a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-berlin-vorwurf-der-wahlmanipulation-gegen-beatrix-von-storch-schiedsgericht-der-afd-annulliert-berliner-delegiertenwahl](https://www.spiegel.de/politik/deutschland/afd-in-berlin-vorwurf-der-wahlmanipulation-gegen-beatrix-von-storch-schiedsgericht-der-afd-annulliert-berliner-delegiertenwahl-a-6fb650f5-423a-40b6-a904-e01163dba6f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-schlaegt-kleinem-cdu-parteitag-fortsetzung-von-jamaika-vor](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-schlaegt-kleinem-cdu-parteitag-fortsetzung-von-jamaika-vor-a-863a2744-5dcc-4fce-a2f3-923735d66a25#ref=rss)
-### verpflichtet
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui](https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui-a-06b1ce46-12d3-4dbe-8378-fc8838795546#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-will-chats-im-kampf-gegen-kindesmissbrauch-durchleuchten-buergerrechtler-sind-alarmiert](https://www.spiegel.de/netzwelt/netzpolitik/eu-will-chats-im-kampf-gegen-kindesmissbrauch-durchleuchten-buergerrechtler-sind-alarmiert-a-3d2e4f66-4a2e-4171-a1ee-97f52ee6a889#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen](https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen-a-2f3f72e3-6b2c-426a-af34-6c6fc9462d76#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-was-jetzt-richtig-ins-geld-geht-und-wo-sie-sogar-sparen](https://www.spiegel.de/wirtschaft/service/inflation-was-jetzt-richtig-ins-geld-geht-und-wo-sie-sogar-sparen-a-4108d629-637d-4f4d-a669-fe63e4faafee#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre](https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre-a-410e918d-5195-4e88-93e4-009a4698c991#ref=rss)
-* [https://www.spiegel.de/gesundheit/coronavirus-in-deutschland-von-der-pandemie-in-die-endemie-wie-geht-es-weiter](https://www.spiegel.de/gesundheit/coronavirus-in-deutschland-von-der-pandemie-in-die-endemie-wie-geht-es-weiter-a-959aad64-50b1-46e5-b41a-e99e2856fbb9#ref=rss)
-* [https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech](https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech-a-9350655c-246a-4ee0-a35a-caf631d38e5b#ref=rss)
-### krieg
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen](https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen-a-f2e4d04e-c3d9-47d5-9a40-e0c8a9ff2858#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-offenen-stellen-in-deutschland-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-offenen-stellen-in-deutschland-auf-rekordwert-a-d1a20d8c-dad5-44c9-ab9a-b42f23439d5e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet](https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet-a-cd80c89a-9774-4129-9179-ca2d325b42f7#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-bundeswehr-fliegt-erneut-kriegsverletzte-nach-deutschland](https://www.spiegel.de/ausland/krieg-in-der-ukraine-bundeswehr-fliegt-erneut-kriegsverletzte-nach-deutschland-a-b84cd94b-afe5-46f3-bb48-88cc85e91d39#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt](https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt-a-86a18c3a-02d4-4d39-8d95-8ca56f049f29#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren](https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren-a-242a54fd-48c7-424b-9755-958dfc9aa5ff#ref=rss)
-### eubeitritt
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen](https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen-a-f2e4d04e-c3d9-47d5-9a40-e0c8a9ff2858#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel](https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel-a-5b3af770-9e66-4bbb-878f-aed0ff44b3c9#ref=rss)
+* [https://www.spiegel.de/familie/vaeter-ausreden-im-faktencheck-mann-kann-s-nicht-mehr-hoeren](https://www.spiegel.de/familie/vaeter-ausreden-im-faktencheck-mann-kann-s-nicht-mehr-hoeren-a-5c01ccbb-b1db-40d5-80dc-83ad058249ca#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet](https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet-a-cd80c89a-9774-4129-9179-ca2d325b42f7#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt](https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt-a-86a18c3a-02d4-4d39-8d95-8ca56f049f29#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt](https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt-a-86a18c3a-02d4-4d39-8d95-8ca56f049f29#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren](https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren-a-242a54fd-48c7-424b-9755-958dfc9aa5ff#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt](https://www.spiegel.de/ausland/russlands-krieg-in-osteuropa-tag-77-weniger-gas-kiew-erhaelt-unterstuetzung-fuer-schleunigen-eu-beitritt-a-86a18c3a-02d4-4d39-8d95-8ca56f049f29#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-was-jetzt-richtig-ins-geld-geht-und-wo-sie-sogar-sparen](https://www.spiegel.de/wirtschaft/service/inflation-was-jetzt-richtig-ins-geld-geht-und-wo-sie-sogar-sparen-a-4108d629-637d-4f4d-a669-fe63e4faafee#ref=rss)
-### fifa
-
-* [https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor](https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor-a-e2792ca8-b752-421b-9d51-96613c4643c1#ref=rss)
-### ea
-
-* [https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor](https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor-a-e2792ca8-b752-421b-9d51-96613c4643c1#ref=rss)
-### sports
-
-* [https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor](https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor-a-e2792ca8-b752-421b-9d51-96613c4643c1#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor](https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor-a-e2792ca8-b752-421b-9d51-96613c4643c1#ref=rss)
-* [https://www.spiegel.de/geschichte/mai-offensive-1972-als-die-raf-zum-angriff-ueberging](https://www.spiegel.de/geschichte/mai-offensive-1972-als-die-raf-zum-angriff-ueberging-a-c3c1d252-a872-4c36-a433-8d0489cc8f11#ref=rss)
-### freiheit
-
-* [https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor](https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor-a-e2792ca8-b752-421b-9d51-96613c4643c1#ref=rss)
-* [https://www.spiegel.de/panorama/kambodscha-fischer-fangen-vier-meter-langen-rochen-am-mekong](https://www.spiegel.de/panorama/kambodscha-fischer-fangen-vier-meter-langen-rochen-am-mekong-a-1bcc7d17-341f-455a-a257-f0401a25fdc4#ref=rss)
-### ganz
-
-* [https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor](https://www.spiegel.de/sport/fussball/fifa-heisst-jetzt-ea-sports-fc-doppeltes-eigentor-a-e2792ca8-b752-421b-9d51-96613c4643c1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui](https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui-a-06b1ce46-12d3-4dbe-8378-fc8838795546#ref=rss)
-### beginn
-
-* [https://www.spiegel.de/ausland/was-ist-denn-jetzt-mit-dem-oelembargo](https://www.spiegel.de/ausland/was-ist-denn-jetzt-mit-dem-oelembargo-a-f4c29338-4c90-4f07-8320-744c802a4526#ref=rss)
-* [https://www.spiegel.de/wissenschaft/seit-beginn-des-jahres-sind-4000-braende-ausgebrochen](https://www.spiegel.de/wissenschaft/seit-beginn-des-jahres-sind-4000-braende-ausgebrochen-a-af52c0bc-d6d3-44e0-b857-bf6ee74d9c93#ref=rss)
-### russischer
-
-* [https://www.spiegel.de/ausland/was-ist-denn-jetzt-mit-dem-oelembargo](https://www.spiegel.de/ausland/was-ist-denn-jetzt-mit-dem-oelembargo-a-f4c29338-4c90-4f07-8320-744c802a4526#ref=rss)
-* [https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech](https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech-a-9350655c-246a-4ee0-a35a-caf631d38e5b#ref=rss)
-### wahrscheinlich
-
-* [https://www.spiegel.de/ausland/was-ist-denn-jetzt-mit-dem-oelembargo](https://www.spiegel.de/ausland/was-ist-denn-jetzt-mit-dem-oelembargo-a-f4c29338-4c90-4f07-8320-744c802a4526#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen-a-f81d25cc-0d01-438b-a641-db48c6abc93a#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wirtschaft/energiesparen-ohne-weh-zu-tun-das-parlament-der-klima-schwindler-kommentar](https://www.spiegel.de/wirtschaft/energiesparen-ohne-weh-zu-tun-das-parlament-der-klima-schwindler-kommentar-a-b2fa82b2-872d-4cec-aa42-82f4e4bdf148#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen](https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen-a-dee8a3af-31eb-4af3-b8f9-7af8a93ba0f0#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten](https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten-a-d7555bf6-65d3-4799-96fa-b6d74445eac9#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen](https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen-a-f2e4d04e-c3d9-47d5-9a40-e0c8a9ff2858#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/erzeugerpreise-milch-kartoffeln-getreide-deutlich-teurer](https://www.spiegel.de/wirtschaft/service/erzeugerpreise-milch-kartoffeln-getreide-deutlich-teurer-a-4b06c00a-2e01-4c3f-9b2f-a6a4b6c0d5f4#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-bundeswehr-fliegt-erneut-kriegsverletzte-nach-deutschland](https://www.spiegel.de/ausland/krieg-in-der-ukraine-bundeswehr-fliegt-erneut-kriegsverletzte-nach-deutschland-a-b84cd94b-afe5-46f3-bb48-88cc85e91d39#ref=rss)
 ### unternehmen
 
-* [https://www.spiegel.de/wirtschaft/energiesparen-ohne-weh-zu-tun-das-parlament-der-klima-schwindler-kommentar](https://www.spiegel.de/wirtschaft/energiesparen-ohne-weh-zu-tun-das-parlament-der-klima-schwindler-kommentar-a-b2fa82b2-872d-4cec-aa42-82f4e4bdf148#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fynn-kliemann-auch-toom-und-berentzen-beenden-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/fynn-kliemann-auch-toom-und-berentzen-beenden-zusammenarbeit-a-ed30a40a-1859-4b96-993f-604dcedcb385#ref=rss)
-### eukommission
-
-* [https://www.spiegel.de/wirtschaft/energiesparen-ohne-weh-zu-tun-das-parlament-der-klima-schwindler-kommentar](https://www.spiegel.de/wirtschaft/energiesparen-ohne-weh-zu-tun-das-parlament-der-klima-schwindler-kommentar-a-b2fa82b2-872d-4cec-aa42-82f4e4bdf148#ref=rss)
-* [https://www.spiegel.de/ausland/slowakei-und-polen-verlangen-eu-kandidatenstatus-fuer-ukraine](https://www.spiegel.de/ausland/slowakei-und-polen-verlangen-eu-kandidatenstatus-fuer-ukraine-a-09fe42de-be93-4511-9aa9-05b44f706c9c#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen](https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen-a-dee8a3af-31eb-4af3-b8f9-7af8a93ba0f0#ref=rss)
-### bvb
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen](https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen-a-dee8a3af-31eb-4af3-b8f9-7af8a93ba0f0#ref=rss)
-### erling
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen](https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen-a-dee8a3af-31eb-4af3-b8f9-7af8a93ba0f0#ref=rss)
-### haaland
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen](https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen-a-dee8a3af-31eb-4af3-b8f9-7af8a93ba0f0#ref=rss)
-### frage
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen](https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen-a-dee8a3af-31eb-4af3-b8f9-7af8a93ba0f0#ref=rss)
-* [https://www.spiegel.de/ausland/slowakei-und-polen-verlangen-eu-kandidatenstatus-fuer-ukraine](https://www.spiegel.de/ausland/slowakei-und-polen-verlangen-eu-kandidatenstatus-fuer-ukraine-a-09fe42de-be93-4511-9aa9-05b44f706c9c#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen](https://www.spiegel.de/sport/fussball/borussia-dortmund-so-will-sich-der-bvb-ohne-erling-haaland-neu-aufstellen-a-dee8a3af-31eb-4af3-b8f9-7af8a93ba0f0#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren](https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren-a-242a54fd-48c7-424b-9755-958dfc9aa5ff#ref=rss)
-### landtagswahl
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen-a-f81d25cc-0d01-438b-a641-db48c6abc93a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre](https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre-a-410e918d-5195-4e88-93e4-009a4698c991#ref=rss)
-### nrw
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen-a-f81d25cc-0d01-438b-a641-db48c6abc93a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre](https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre-a-410e918d-5195-4e88-93e4-009a4698c991#ref=rss)
-### enges
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen-a-f81d25cc-0d01-438b-a641-db48c6abc93a#ref=rss)
-### rennen
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen-a-f81d25cc-0d01-438b-a641-db48c6abc93a#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen-a-f81d25cc-0d01-438b-a641-db48c6abc93a#ref=rss)
-### dürfen
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen-a-f81d25cc-0d01-438b-a641-db48c6abc93a#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/griechenland-gericht-erlaubt-campus-polizei-an-universitaeten](https://www.spiegel.de/panorama/bildung/griechenland-gericht-erlaubt-campus-polizei-an-universitaeten-a-12a13fad-03c2-44f3-8c83-1a8f1e1f39d7#ref=rss)
-### nordrheinwestfalen
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nrw-enges-rennen-zwischen-cdu-und-spd-gruene-duerfen-auf-starkes-ergebnis-hoffen-a-f81d25cc-0d01-438b-a641-db48c6abc93a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre](https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre-a-410e918d-5195-4e88-93e4-009a4698c991#ref=rss)
-### leiche
-
-* [https://www.spiegel.de/panorama/justiz/edgefield-mutmasslicher-moerder-stirbt-beim-verscharren-einer-leiche-an-herzinfarkt](https://www.spiegel.de/panorama/justiz/edgefield-mutmasslicher-moerder-stirbt-beim-verscharren-einer-leiche-an-herzinfarkt-a-f3b79cd2-1283-418b-b1f6-edd466b20a11#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/justiz/edgefield-mutmasslicher-moerder-stirbt-beim-verscharren-einer-leiche-an-herzinfarkt](https://www.spiegel.de/panorama/justiz/edgefield-mutmasslicher-moerder-stirbt-beim-verscharren-einer-leiche-an-herzinfarkt-a-f3b79cd2-1283-418b-b1f6-edd466b20a11#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/hongkong-kardinal-joseph-zen-festgenommen](https://www.spiegel.de/panorama/gesellschaft/hongkong-kardinal-joseph-zen-festgenommen-a-f96a4371-161f-41e7-a419-08395c09817d#ref=rss)
-### verschwinden
-
-* [https://www.spiegel.de/panorama/justiz/edgefield-mutmasslicher-moerder-stirbt-beim-verscharren-einer-leiche-an-herzinfarkt](https://www.spiegel.de/panorama/justiz/edgefield-mutmasslicher-moerder-stirbt-beim-verscharren-einer-leiche-an-herzinfarkt-a-f3b79cd2-1283-418b-b1f6-edd466b20a11#ref=rss)
-* [https://www.spiegel.de/gesundheit/coronavirus-in-deutschland-von-der-pandemie-in-die-endemie-wie-geht-es-weiter](https://www.spiegel.de/gesundheit/coronavirus-in-deutschland-von-der-pandemie-in-die-endemie-wie-geht-es-weiter-a-959aad64-50b1-46e5-b41a-e99e2856fbb9#ref=rss)
-### schirin
-
-* [https://www.spiegel.de/ausland/schirin-abu-akleh-israel-bietet-palaestinensern-gemeinsame-untersuchung-an](https://www.spiegel.de/ausland/schirin-abu-akleh-israel-bietet-palaestinensern-gemeinsame-untersuchung-an-a-5942f209-144a-407d-a5d5-d5ba780ffc81#ref=rss)
-### abu
-
-* [https://www.spiegel.de/ausland/schirin-abu-akleh-israel-bietet-palaestinensern-gemeinsame-untersuchung-an](https://www.spiegel.de/ausland/schirin-abu-akleh-israel-bietet-palaestinensern-gemeinsame-untersuchung-an-a-5942f209-144a-407d-a5d5-d5ba780ffc81#ref=rss)
-### akleh
-
-* [https://www.spiegel.de/ausland/schirin-abu-akleh-israel-bietet-palaestinensern-gemeinsame-untersuchung-an](https://www.spiegel.de/ausland/schirin-abu-akleh-israel-bietet-palaestinensern-gemeinsame-untersuchung-an-a-5942f209-144a-407d-a5d5-d5ba780ffc81#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/schirin-abu-akleh-israel-bietet-palaestinensern-gemeinsame-untersuchung-an](https://www.spiegel.de/ausland/schirin-abu-akleh-israel-bietet-palaestinensern-gemeinsame-untersuchung-an-a-5942f209-144a-407d-a5d5-d5ba780ffc81#ref=rss)
-### palästinensern
-
-* [https://www.spiegel.de/ausland/schirin-abu-akleh-israel-bietet-palaestinensern-gemeinsame-untersuchung-an](https://www.spiegel.de/ausland/schirin-abu-akleh-israel-bietet-palaestinensern-gemeinsame-untersuchung-an-a-5942f209-144a-407d-a5d5-d5ba780ffc81#ref=rss)
-### untersuchung
-
-* [https://www.spiegel.de/ausland/schirin-abu-akleh-israel-bietet-palaestinensern-gemeinsame-untersuchung-an](https://www.spiegel.de/ausland/schirin-abu-akleh-israel-bietet-palaestinensern-gemeinsame-untersuchung-an-a-5942f209-144a-407d-a5d5-d5ba780ffc81#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui](https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui-a-06b1ce46-12d3-4dbe-8378-fc8838795546#ref=rss)
-### noussair
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui](https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui-a-06b1ce46-12d3-4dbe-8378-fc8838795546#ref=rss)
-### mazraoui
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui](https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui-a-06b1ce46-12d3-4dbe-8378-fc8838795546#ref=rss)
-### europa
-
-* [https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui](https://www.spiegel.de/sport/fussball/bundesliga-bayern-muenchen-verpflichtet-rechtsverteidiger-noussair-mazraoui-a-06b1ce46-12d3-4dbe-8378-fc8838795546#ref=rss)
-* [https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen](https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen-a-2f3f72e3-6b2c-426a-af34-6c6fc9462d76#ref=rss)
-### waldbrände
-
-* [https://www.spiegel.de/wissenschaft/seit-beginn-des-jahres-sind-4000-braende-ausgebrochen](https://www.spiegel.de/wissenschaft/seit-beginn-des-jahres-sind-4000-braende-ausgebrochen-a-af52c0bc-d6d3-44e0-b857-bf6ee74d9c93#ref=rss)
+* [https://www.spiegel.de/wirtschaft/saudi-aramco-ueberholt-apple-als-wertvollstes-unternehmen-der-welt](https://www.spiegel.de/wirtschaft/saudi-aramco-ueberholt-apple-als-wertvollstes-unternehmen-der-welt-a-16161cad-4984-479c-a2c4-a1ed745e706b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/coldplay-kooperierte-die-britische-band-mit-einem-zweifelhaftem-oelunternehmen](https://www.spiegel.de/kultur/musik/coldplay-kooperierte-die-britische-band-mit-einem-zweifelhaftem-oelunternehmen-a-81003f5a-1755-4d6e-b39a-f093f0160e82#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/wissenschaft/seit-beginn-des-jahres-sind-4000-braende-ausgebrochen](https://www.spiegel.de/wissenschaft/seit-beginn-des-jahres-sind-4000-braende-ausgebrochen-a-af52c0bc-d6d3-44e0-b857-bf6ee74d9c93#ref=rss)
-### eu
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten](https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten-a-d7555bf6-65d3-4799-96fa-b6d74445eac9#ref=rss)
+* [https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung](https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung-a-d9e6fd0f-9719-4333-b6ec-dd23903c3684#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet](https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet-a-cd80c89a-9774-4129-9179-ca2d325b42f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/russland-sanktionen-russland-wird-so-langsam-sinken-wie-die-titanic](https://www.spiegel.de/wirtschaft/soziales/russland-sanktionen-russland-wird-so-langsam-sinken-wie-die-titanic-a-7cf48e0a-3b54-42e7-8df2-5c243330d583#ref=rss)
+### natobeitritt
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-will-chats-im-kampf-gegen-kindesmissbrauch-durchleuchten-buergerrechtler-sind-alarmiert](https://www.spiegel.de/netzwelt/netzpolitik/eu-will-chats-im-kampf-gegen-kindesmissbrauch-durchleuchten-buergerrechtler-sind-alarmiert-a-3d2e4f66-4a2e-4171-a1ee-97f52ee6a889#ref=rss)
-* [https://www.spiegel.de/ausland/brexitstreit-mit-der-eu-boris-johnson-spielt-schon-wieder-mit-nordirlands-zukunft](https://www.spiegel.de/ausland/brexitstreit-mit-der-eu-boris-johnson-spielt-schon-wieder-mit-nordirlands-zukunft-a-61d1058a-034a-405f-aa20-998932073ac0#ref=rss)
-### chats
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-will-chats-im-kampf-gegen-kindesmissbrauch-durchleuchten-buergerrechtler-sind-alarmiert](https://www.spiegel.de/netzwelt/netzpolitik/eu-will-chats-im-kampf-gegen-kindesmissbrauch-durchleuchten-buergerrechtler-sind-alarmiert-a-3d2e4f66-4a2e-4171-a1ee-97f52ee6a889#ref=rss)
-### bürgerrechtler
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-will-chats-im-kampf-gegen-kindesmissbrauch-durchleuchten-buergerrechtler-sind-alarmiert](https://www.spiegel.de/netzwelt/netzpolitik/eu-will-chats-im-kampf-gegen-kindesmissbrauch-durchleuchten-buergerrechtler-sind-alarmiert-a-3d2e4f66-4a2e-4171-a1ee-97f52ee6a889#ref=rss)
-### alarmiert
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/eu-will-chats-im-kampf-gegen-kindesmissbrauch-durchleuchten-buergerrechtler-sind-alarmiert](https://www.spiegel.de/netzwelt/netzpolitik/eu-will-chats-im-kampf-gegen-kindesmissbrauch-durchleuchten-buergerrechtler-sind-alarmiert-a-3d2e4f66-4a2e-4171-a1ee-97f52ee6a889#ref=rss)
-### fynn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/fynn-kliemann-auch-toom-und-berentzen-beenden-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/fynn-kliemann-auch-toom-und-berentzen-beenden-zusammenarbeit-a-ed30a40a-1859-4b96-993f-604dcedcb385#ref=rss)
-### kliemann
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/fynn-kliemann-auch-toom-und-berentzen-beenden-zusammenarbeit](https://www.spiegel.de/wirtschaft/unternehmen/fynn-kliemann-auch-toom-und-berentzen-beenden-zusammenarbeit-a-ed30a40a-1859-4b96-993f-604dcedcb385#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen](https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen-a-2f3f72e3-6b2c-426a-af34-6c6fc9462d76#ref=rss)
-### dürren
-
-* [https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen](https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen-a-2f3f72e3-6b2c-426a-af34-6c6fc9462d76#ref=rss)
-### 29
-
-* [https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen](https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen-a-2f3f72e3-6b2c-426a-af34-6c6fc9462d76#ref=rss)
-### gestiegen
-
-* [https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen](https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen-a-2f3f72e3-6b2c-426a-af34-6c6fc9462d76#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen](https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen-a-2f3f72e3-6b2c-426a-af34-6c6fc9462d76#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren](https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren-a-242a54fd-48c7-424b-9755-958dfc9aa5ff#ref=rss)
-### betroffen
-
-* [https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen](https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen-a-2f3f72e3-6b2c-426a-af34-6c6fc9462d76#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren](https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren-a-242a54fd-48c7-424b-9755-958dfc9aa5ff#ref=rss)
-### sondern
-
-* [https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen](https://www.spiegel.de/ausland/uno-bericht-zahl-der-duerren-seit-2000-um-29-prozent-gestiegen-a-2f3f72e3-6b2c-426a-af34-6c6fc9462d76#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren](https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren-a-242a54fd-48c7-424b-9755-958dfc9aa5ff#ref=rss)
-### legalisierung
-
-* [https://www.spiegel.de/politik/deutschland/legalisierung-von-cannabis-haushaltsausschuss-macht-druck-bei-cannabisgesetz](https://www.spiegel.de/politik/deutschland/legalisierung-von-cannabis-haushaltsausschuss-macht-druck-bei-cannabisgesetz-a-01f7c1e7-3e89-4aa6-adde-481f885b4650#ref=rss)
-### cannabis
-
-* [https://www.spiegel.de/politik/deutschland/legalisierung-von-cannabis-haushaltsausschuss-macht-druck-bei-cannabisgesetz](https://www.spiegel.de/politik/deutschland/legalisierung-von-cannabis-haushaltsausschuss-macht-druck-bei-cannabisgesetz-a-01f7c1e7-3e89-4aa6-adde-481f885b4650#ref=rss)
-### plant
-
-* [https://www.spiegel.de/politik/deutschland/legalisierung-von-cannabis-haushaltsausschuss-macht-druck-bei-cannabisgesetz](https://www.spiegel.de/politik/deutschland/legalisierung-von-cannabis-haushaltsausschuss-macht-druck-bei-cannabisgesetz-a-01f7c1e7-3e89-4aa6-adde-481f885b4650#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/paragraf-219a-union-gegen-abschaffung-des-werbeverbots-fuer-schwangerschaftsabbrueche](https://www.spiegel.de/politik/deutschland/paragraf-219a-union-gegen-abschaffung-des-werbeverbots-fuer-schwangerschaftsabbrueche-a-40abc7a0-2e6a-41ee-9f7b-7e95d03c2f3a#ref=rss)
-### 219a
-
-* [https://www.spiegel.de/politik/deutschland/paragraf-219a-union-gegen-abschaffung-des-werbeverbots-fuer-schwangerschaftsabbrueche](https://www.spiegel.de/politik/deutschland/paragraf-219a-union-gegen-abschaffung-des-werbeverbots-fuer-schwangerschaftsabbrueche-a-40abc7a0-2e6a-41ee-9f7b-7e95d03c2f3a#ref=rss)
-### bevor
-
-* [https://www.spiegel.de/politik/deutschland/paragraf-219a-union-gegen-abschaffung-des-werbeverbots-fuer-schwangerschaftsabbrueche](https://www.spiegel.de/politik/deutschland/paragraf-219a-union-gegen-abschaffung-des-werbeverbots-fuer-schwangerschaftsabbrueche-a-40abc7a0-2e6a-41ee-9f7b-7e95d03c2f3a#ref=rss)
-* [https://www.spiegel.de/netzwelt/onecoin-weltweite-fahndung-nach-der-krypto-queen](https://www.spiegel.de/netzwelt/onecoin-weltweite-fahndung-nach-der-krypto-queen-a-22f82001-f4fc-4b62-b8ed-18159567aa64#ref=rss)
-### darüber
-
-* [https://www.spiegel.de/politik/deutschland/paragraf-219a-union-gegen-abschaffung-des-werbeverbots-fuer-schwangerschaftsabbrueche](https://www.spiegel.de/politik/deutschland/paragraf-219a-union-gegen-abschaffung-des-werbeverbots-fuer-schwangerschaftsabbrueche-a-40abc7a0-2e6a-41ee-9f7b-7e95d03c2f3a#ref=rss)
-* [https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech](https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech-a-9350655c-246a-4ee0-a35a-caf631d38e5b#ref=rss)
-### zen
-
-* [https://www.spiegel.de/panorama/gesellschaft/hongkong-kardinal-joseph-zen-festgenommen](https://www.spiegel.de/panorama/gesellschaft/hongkong-kardinal-joseph-zen-festgenommen-a-f96a4371-161f-41e7-a419-08395c09817d#ref=rss)
+* [https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung](https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung-a-d9e6fd0f-9719-4333-b6ec-dd23903c3684#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-und-regierungschefin-finnlands-sprechen-sich-fuer-unverzueglichen-nato-beitritt-aus](https://www.spiegel.de/ausland/praesident-und-regierungschefin-finnlands-sprechen-sich-fuer-unverzueglichen-nato-beitritt-aus-a-35cd2ea9-c1c8-471a-a661-dfc798d071c2#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/gesellschaft/hongkong-kardinal-joseph-zen-festgenommen](https://www.spiegel.de/panorama/gesellschaft/hongkong-kardinal-joseph-zen-festgenommen-a-f96a4371-161f-41e7-a419-08395c09817d#ref=rss)
-* [https://www.spiegel.de/netzwelt/onecoin-weltweite-fahndung-nach-der-krypto-queen](https://www.spiegel.de/netzwelt/onecoin-weltweite-fahndung-nach-der-krypto-queen-a-22f82001-f4fc-4b62-b8ed-18159567aa64#ref=rss)
-### schleswigholstein
+* [https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit](https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit-a-5ad614c9-f1c8-4b16-9b93-f3da54a6a77d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hanau-tote-geschwister-polizei-ermittelt-wegen-mordverdachts-vater-gesucht](https://www.spiegel.de/panorama/justiz/hanau-tote-geschwister-polizei-ermittelt-wegen-mordverdachts-vater-gesucht-a-c35a1573-88db-4b7e-aa5d-e2de84519436#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen](https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen-a-c956d6d7-bdc9-4b6a-8aff-0d039b8584f2#ref=rss)
+### zahl
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre](https://www.spiegel.de/politik/deutschland/news-des-tages-gasversorgung-landtagswahl-nordrhein-westfalen-duerre-a-410e918d-5195-4e88-93e4-009a4698c991#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-schlaegt-kleinem-cdu-parteitag-fortsetzung-von-jamaika-vor](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-schlaegt-kleinem-cdu-parteitag-fortsetzung-von-jamaika-vor-a-863a2744-5dcc-4fce-a2f3-923735d66a25#ref=rss)
-### einmal
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen](https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen-a-f2e4d04e-c3d9-47d5-9a40-e0c8a9ff2858#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-offenen-stellen-in-deutschland-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-offenen-stellen-in-deutschland-auf-rekordwert-a-d1a20d8c-dad5-44c9-ab9a-b42f23439d5e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-flussueberquerung-endet-fuer-russische-einheit-im-fiasko](https://www.spiegel.de/ausland/ukraine-krieg-flussueberquerung-endet-fuer-russische-einheit-im-fiasko-a-cb528978-bf03-4634-9b1d-636fef70e64a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen](https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen-a-a76e7a9b-8574-49ba-897f-e630db4f48e4#ref=rss)
+### laut
 
-* [https://www.spiegel.de/ausland/brexitstreit-mit-der-eu-boris-johnson-spielt-schon-wieder-mit-nordirlands-zukunft](https://www.spiegel.de/ausland/brexitstreit-mit-der-eu-boris-johnson-spielt-schon-wieder-mit-nordirlands-zukunft-a-61d1058a-034a-405f-aa20-998932073ac0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-bundesregierung-loest-corona-krisenstab-auf](https://www.spiegel.de/politik/deutschland/coronavirus-bundesregierung-loest-corona-krisenstab-auf-a-ef830b22-0a61-49a0-8ea5-946fec87200c#ref=rss)
-### inflation
+* [https://www.spiegel.de/auto/elektroautos-doppelt-so-viele-neuzulassungen-im-sueden-wie-im-osten-deutschlands](https://www.spiegel.de/auto/elektroautos-doppelt-so-viele-neuzulassungen-im-sueden-wie-im-osten-deutschlands-a-d9528a72-51c2-4291-91b1-649886eb82ae#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-flussueberquerung-endet-fuer-russische-einheit-im-fiasko](https://www.spiegel.de/ausland/ukraine-krieg-flussueberquerung-endet-fuer-russische-einheit-im-fiasko-a-cb528978-bf03-4634-9b1d-636fef70e64a#ref=rss)
+* [https://www.spiegel.de/kultur/musik/coldplay-kooperierte-die-britische-band-mit-einem-zweifelhaftem-oelunternehmen](https://www.spiegel.de/kultur/musik/coldplay-kooperierte-die-britische-band-mit-einem-zweifelhaftem-oelunternehmen-a-81003f5a-1755-4d6e-b39a-f093f0160e82#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet](https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet-a-cd80c89a-9774-4129-9179-ca2d325b42f7#ref=rss)
+### saudi
 
-* [https://www.spiegel.de/wirtschaft/service/inflation-was-jetzt-richtig-ins-geld-geht-und-wo-sie-sogar-sparen](https://www.spiegel.de/wirtschaft/service/inflation-was-jetzt-richtig-ins-geld-geht-und-wo-sie-sogar-sparen-a-4108d629-637d-4f4d-a669-fe63e4faafee#ref=rss)
-### geld
+* [https://www.spiegel.de/wirtschaft/saudi-aramco-ueberholt-apple-als-wertvollstes-unternehmen-der-welt](https://www.spiegel.de/wirtschaft/saudi-aramco-ueberholt-apple-als-wertvollstes-unternehmen-der-welt-a-16161cad-4984-479c-a2c4-a1ed745e706b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima](https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima-a-75e1cce0-e16b-4e29-9d27-276f285b2413#ref=rss)
+### aramco
 
-* [https://www.spiegel.de/wirtschaft/service/inflation-was-jetzt-richtig-ins-geld-geht-und-wo-sie-sogar-sparen](https://www.spiegel.de/wirtschaft/service/inflation-was-jetzt-richtig-ins-geld-geht-und-wo-sie-sogar-sparen-a-4108d629-637d-4f4d-a669-fe63e4faafee#ref=rss)
-* [https://www.spiegel.de/netzwelt/onecoin-weltweite-fahndung-nach-der-krypto-queen](https://www.spiegel.de/netzwelt/onecoin-weltweite-fahndung-nach-der-krypto-queen-a-22f82001-f4fc-4b62-b8ed-18159567aa64#ref=rss)
-### 50
+* [https://www.spiegel.de/wirtschaft/saudi-aramco-ueberholt-apple-als-wertvollstes-unternehmen-der-welt](https://www.spiegel.de/wirtschaft/saudi-aramco-ueberholt-apple-als-wertvollstes-unternehmen-der-welt-a-16161cad-4984-479c-a2c4-a1ed745e706b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima](https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima-a-75e1cce0-e16b-4e29-9d27-276f285b2413#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/geschichte/mai-offensive-1972-als-die-raf-zum-angriff-ueberging](https://www.spiegel.de/geschichte/mai-offensive-1972-als-die-raf-zum-angriff-ueberging-a-c3c1d252-a872-4c36-a433-8d0489cc8f11#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/griechenland-gericht-erlaubt-campus-polizei-an-universitaeten](https://www.spiegel.de/panorama/bildung/griechenland-gericht-erlaubt-campus-polizei-an-universitaeten-a-12a13fad-03c2-44f3-8c83-1a8f1e1f39d7#ref=rss)
-### vier
+* [https://www.spiegel.de/panorama/justiz/essen-priester-gesteht-offenbar-sexuellen-missbrauch-und-wird-suspendiert](https://www.spiegel.de/panorama/justiz/essen-priester-gesteht-offenbar-sexuellen-missbrauch-und-wird-suspendiert-a-d2e10d00-0ca1-4857-9995-2e5880e7bd34#ref=rss)
+* [https://www.spiegel.de/sport/golf/golf-unternehmer-greg-norman-irritiert-mit-aussagen-zum-mord-an-jamal-khashoggi](https://www.spiegel.de/sport/golf/golf-unternehmer-greg-norman-irritiert-mit-aussagen-zum-mord-an-jamal-khashoggi-a-bd7d37bd-b8cd-4016-973e-7e3fc649e8e3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen](https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen-a-c956d6d7-bdc9-4b6a-8aff-0d039b8584f2#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/geschichte/mai-offensive-1972-als-die-raf-zum-angriff-ueberging](https://www.spiegel.de/geschichte/mai-offensive-1972-als-die-raf-zum-angriff-ueberging-a-c3c1d252-a872-4c36-a433-8d0489cc8f11#ref=rss)
-* [https://www.spiegel.de/panorama/kambodscha-fischer-fangen-vier-meter-langen-rochen-am-mekong](https://www.spiegel.de/panorama/kambodscha-fischer-fangen-vier-meter-langen-rochen-am-mekong-a-1bcc7d17-341f-455a-a257-f0401a25fdc4#ref=rss)
-### beatrix
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten](https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten-a-d7555bf6-65d3-4799-96fa-b6d74445eac9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/erzeugerpreise-milch-kartoffeln-getreide-deutlich-teurer](https://www.spiegel.de/wirtschaft/service/erzeugerpreise-milch-kartoffeln-getreide-deutlich-teurer-a-4b06c00a-2e01-4c3f-9b2f-a6a4b6c0d5f4#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-bundeswehr-fliegt-erneut-kriegsverletzte-nach-deutschland](https://www.spiegel.de/ausland/krieg-in-der-ukraine-bundeswehr-fliegt-erneut-kriegsverletzte-nach-deutschland-a-b84cd94b-afe5-46f3-bb48-88cc85e91d39#ref=rss)
+### osten
 
-* [https://www.spiegel.de/politik/deutschland/afd-in-berlin-vorwurf-der-wahlmanipulation-gegen-beatrix-von-storch-schiedsgericht-der-afd-annulliert-berliner-delegiertenwahl](https://www.spiegel.de/politik/deutschland/afd-in-berlin-vorwurf-der-wahlmanipulation-gegen-beatrix-von-storch-schiedsgericht-der-afd-annulliert-berliner-delegiertenwahl-a-6fb650f5-423a-40b6-a904-e01163dba6f3#ref=rss)
-### storch
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten](https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten-a-d7555bf6-65d3-4799-96fa-b6d74445eac9#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-doppelt-so-viele-neuzulassungen-im-sueden-wie-im-osten-deutschlands](https://www.spiegel.de/auto/elektroautos-doppelt-so-viele-neuzulassungen-im-sueden-wie-im-osten-deutschlands-a-d9528a72-51c2-4291-91b1-649886eb82ae#ref=rss)
+### bedrohung
 
-* [https://www.spiegel.de/politik/deutschland/afd-in-berlin-vorwurf-der-wahlmanipulation-gegen-beatrix-von-storch-schiedsgericht-der-afd-annulliert-berliner-delegiertenwahl](https://www.spiegel.de/politik/deutschland/afd-in-berlin-vorwurf-der-wahlmanipulation-gegen-beatrix-von-storch-schiedsgericht-der-afd-annulliert-berliner-delegiertenwahl-a-6fb650f5-423a-40b6-a904-e01163dba6f3#ref=rss)
-### fischer
+* [https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung](https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung-a-d9e6fd0f-9719-4333-b6ec-dd23903c3684#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen](https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen-a-a76e7a9b-8574-49ba-897f-e630db4f48e4#ref=rss)
+### wohnung
 
-* [https://www.spiegel.de/panorama/kambodscha-fischer-fangen-vier-meter-langen-rochen-am-mekong](https://www.spiegel.de/panorama/kambodscha-fischer-fangen-vier-meter-langen-rochen-am-mekong-a-1bcc7d17-341f-455a-a257-f0401a25fdc4#ref=rss)
-### coronavirus
+* [https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit](https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit-a-5ad614c9-f1c8-4b16-9b93-f3da54a6a77d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen](https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen-a-c956d6d7-bdc9-4b6a-8aff-0d039b8584f2#ref=rss)
+* [https://www.spiegel.de/ausland/corona-massnahmen-in-shanghai-der-lockdown-hat-die-haessliche-seite-chinas-gezeigt](https://www.spiegel.de/ausland/corona-massnahmen-in-shanghai-der-lockdown-hat-die-haessliche-seite-chinas-gezeigt-a-c37adb0a-2f1e-473a-8d39-7bdb6f58c75d#ref=rss)
+### schulen
 
-* [https://www.spiegel.de/gesundheit/coronavirus-in-deutschland-von-der-pandemie-in-die-endemie-wie-geht-es-weiter](https://www.spiegel.de/gesundheit/coronavirus-in-deutschland-von-der-pandemie-in-die-endemie-wie-geht-es-weiter-a-959aad64-50b1-46e5-b41a-e99e2856fbb9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-bundesregierung-loest-corona-krisenstab-auf](https://www.spiegel.de/politik/deutschland/coronavirus-bundesregierung-loest-corona-krisenstab-auf-a-ef830b22-0a61-49a0-8ea5-946fec87200c#ref=rss)
-### pandemie
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen](https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen-a-f2e4d04e-c3d9-47d5-9a40-e0c8a9ff2858#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen](https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen-a-c956d6d7-bdc9-4b6a-8aff-0d039b8584f2#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/gesundheit/coronavirus-in-deutschland-von-der-pandemie-in-die-endemie-wie-geht-es-weiter](https://www.spiegel.de/gesundheit/coronavirus-in-deutschland-von-der-pandemie-in-die-endemie-wie-geht-es-weiter-a-959aad64-50b1-46e5-b41a-e99e2856fbb9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-bundesregierung-loest-corona-krisenstab-auf](https://www.spiegel.de/politik/deutschland/coronavirus-bundesregierung-loest-corona-krisenstab-auf-a-ef830b22-0a61-49a0-8ea5-946fec87200c#ref=rss)
-### fast
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen](https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen-a-f2e4d04e-c3d9-47d5-9a40-e0c8a9ff2858#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hanau-tote-geschwister-polizei-ermittelt-wegen-mordverdachts-vater-gesucht](https://www.spiegel.de/panorama/justiz/hanau-tote-geschwister-polizei-ermittelt-wegen-mordverdachts-vater-gesucht-a-c35a1573-88db-4b7e-aa5d-e2de84519436#ref=rss)
+* [https://www.spiegel.de/familie/vaeter-ausreden-im-faktencheck-mann-kann-s-nicht-mehr-hoeren](https://www.spiegel.de/familie/vaeter-ausreden-im-faktencheck-mann-kann-s-nicht-mehr-hoeren-a-5c01ccbb-b1db-40d5-80dc-83ad058249ca#ref=rss)
+### geplante
 
-* [https://www.spiegel.de/gesundheit/coronavirus-in-deutschland-von-der-pandemie-in-die-endemie-wie-geht-es-weiter](https://www.spiegel.de/gesundheit/coronavirus-in-deutschland-von-der-pandemie-in-die-endemie-wie-geht-es-weiter-a-959aad64-50b1-46e5-b41a-e99e2856fbb9#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/griechenland-gericht-erlaubt-campus-polizei-an-universitaeten](https://www.spiegel.de/panorama/bildung/griechenland-gericht-erlaubt-campus-polizei-an-universitaeten-a-12a13fad-03c2-44f3-8c83-1a8f1e1f39d7#ref=rss)
-### jahre
+* [https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima](https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima-a-75e1cce0-e16b-4e29-9d27-276f285b2413#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bafoeg-studierendenvertreter-kritisieren-plaene-der-bundesregierung](https://www.spiegel.de/panorama/bildung/bafoeg-studierendenvertreter-kritisieren-plaene-der-bundesregierung-a-46c29392-7679-4d98-9f84-f651ff8554c5#ref=rss)
+### öl
 
-* [https://www.spiegel.de/netzwelt/onecoin-weltweite-fahndung-nach-der-krypto-queen](https://www.spiegel.de/netzwelt/onecoin-weltweite-fahndung-nach-der-krypto-queen-a-22f82001-f4fc-4b62-b8ed-18159567aa64#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/griechenland-gericht-erlaubt-campus-polizei-an-universitaeten](https://www.spiegel.de/panorama/bildung/griechenland-gericht-erlaubt-campus-polizei-an-universitaeten-a-12a13fad-03c2-44f3-8c83-1a8f1e1f39d7#ref=rss)
-### daniel
+* [https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima](https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima-a-75e1cce0-e16b-4e29-9d27-276f285b2413#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel](https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel-a-5b3af770-9e66-4bbb-878f-aed0ff44b3c9#ref=rss)
+### gazprom
 
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-schlaegt-kleinem-cdu-parteitag-fortsetzung-von-jamaika-vor](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-schlaegt-kleinem-cdu-parteitag-fortsetzung-von-jamaika-vor-a-863a2744-5dcc-4fce-a2f3-923735d66a25#ref=rss)
-### günther
+* [https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima](https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima-a-75e1cce0-e16b-4e29-9d27-276f285b2413#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet](https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet-a-cd80c89a-9774-4129-9179-ca2d325b42f7#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-schlaegt-kleinem-cdu-parteitag-fortsetzung-von-jamaika-vor](https://www.spiegel.de/politik/deutschland/schleswig-holstein-daniel-guenther-schlaegt-kleinem-cdu-parteitag-fortsetzung-von-jamaika-vor-a-863a2744-5dcc-4fce-a2f3-923735d66a25#ref=rss)
-### jobs
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-offenen-stellen-in-deutschland-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-offenen-stellen-in-deutschland-auf-rekordwert-a-d1a20d8c-dad5-44c9-ab9a-b42f23439d5e#ref=rss)
+* [https://www.spiegel.de/auto/elektroautos-doppelt-so-viele-neuzulassungen-im-sueden-wie-im-osten-deutschlands](https://www.spiegel.de/auto/elektroautos-doppelt-so-viele-neuzulassungen-im-sueden-wie-im-osten-deutschlands-a-d9528a72-51c2-4291-91b1-649886eb82ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/russland-sanktionen-russland-wird-so-langsam-sinken-wie-die-titanic](https://www.spiegel.de/wirtschaft/soziales/russland-sanktionen-russland-wird-so-langsam-sinken-wie-die-titanic-a-7cf48e0a-3b54-42e7-8df2-5c243330d583#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren](https://www.spiegel.de/ausland/ukraine-krieg-ein-drittel-der-jobs-in-der-ukraine-verloren-a-242a54fd-48c7-424b-9755-958dfc9aa5ff#ref=rss)
-### coronakrisenstab
+* [https://www.spiegel.de/sport/golf/golf-unternehmer-greg-norman-irritiert-mit-aussagen-zum-mord-an-jamal-khashoggi](https://www.spiegel.de/sport/golf/golf-unternehmer-greg-norman-irritiert-mit-aussagen-zum-mord-an-jamal-khashoggi-a-bd7d37bd-b8cd-4016-973e-7e3fc649e8e3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bafoeg-studierendenvertreter-kritisieren-plaene-der-bundesregierung](https://www.spiegel.de/panorama/bildung/bafoeg-studierendenvertreter-kritisieren-plaene-der-bundesregierung-a-46c29392-7679-4d98-9f84-f651ff8554c5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/chinesischer-mars-rover-zhurong-wie-lange-gab-es-fluessiges-wasser-auf-dem-mars](https://www.spiegel.de/wissenschaft/weltall/chinesischer-mars-rover-zhurong-wie-lange-gab-es-fluessiges-wasser-auf-dem-mars-a-0430029d-d3d8-4b5f-aad4-1969b23fd64f#ref=rss)
+### bundeswehr
 
-* [https://www.spiegel.de/politik/deutschland/coronavirus-bundesregierung-loest-corona-krisenstab-auf](https://www.spiegel.de/politik/deutschland/coronavirus-bundesregierung-loest-corona-krisenstab-auf-a-ef830b22-0a61-49a0-8ea5-946fec87200c#ref=rss)
-### griechenland
+* [https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel](https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel-a-5b3af770-9e66-4bbb-878f-aed0ff44b3c9#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-bundeswehr-fliegt-erneut-kriegsverletzte-nach-deutschland](https://www.spiegel.de/ausland/krieg-in-der-ukraine-bundeswehr-fliegt-erneut-kriegsverletzte-nach-deutschland-a-b84cd94b-afe5-46f3-bb48-88cc85e91d39#ref=rss)
+### welt
 
-* [https://www.spiegel.de/panorama/bildung/griechenland-gericht-erlaubt-campus-polizei-an-universitaeten](https://www.spiegel.de/panorama/bildung/griechenland-gericht-erlaubt-campus-polizei-an-universitaeten-a-12a13fad-03c2-44f3-8c83-1a8f1e1f39d7#ref=rss)
-### svenja
+* [https://www.spiegel.de/wirtschaft/saudi-aramco-ueberholt-apple-als-wertvollstes-unternehmen-der-welt](https://www.spiegel.de/wirtschaft/saudi-aramco-ueberholt-apple-als-wertvollstes-unternehmen-der-welt-a-16161cad-4984-479c-a2c4-a1ed745e706b#ref=rss)
+### essen
 
-* [https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech](https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech-a-9350655c-246a-4ee0-a35a-caf631d38e5b#ref=rss)
-### flaßpöhler
+* [https://www.spiegel.de/panorama/justiz/essen-priester-gesteht-offenbar-sexuellen-missbrauch-und-wird-suspendiert](https://www.spiegel.de/panorama/justiz/essen-priester-gesteht-offenbar-sexuellen-missbrauch-und-wird-suspendiert-a-d2e10d00-0ca1-4857-9995-2e5880e7bd34#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen](https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen-a-c956d6d7-bdc9-4b6a-8aff-0d039b8584f2#ref=rss)
+### priester
 
-* [https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech](https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech-a-9350655c-246a-4ee0-a35a-caf631d38e5b#ref=rss)
-### wladimir
+* [https://www.spiegel.de/panorama/justiz/essen-priester-gesteht-offenbar-sexuellen-missbrauch-und-wird-suspendiert](https://www.spiegel.de/panorama/justiz/essen-priester-gesteht-offenbar-sexuellen-missbrauch-und-wird-suspendiert-a-d2e10d00-0ca1-4857-9995-2e5880e7bd34#ref=rss)
+### essener
 
-* [https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech](https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech-a-9350655c-246a-4ee0-a35a-caf631d38e5b#ref=rss)
-### kaminer
+* [https://www.spiegel.de/panorama/justiz/essen-priester-gesteht-offenbar-sexuellen-missbrauch-und-wird-suspendiert](https://www.spiegel.de/panorama/justiz/essen-priester-gesteht-offenbar-sexuellen-missbrauch-und-wird-suspendiert-a-d2e10d00-0ca1-4857-9995-2e5880e7bd34#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen](https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen-a-c956d6d7-bdc9-4b6a-8aff-0d039b8584f2#ref=rss)
+### verliert
 
-* [https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech](https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech-a-9350655c-246a-4ee0-a35a-caf631d38e5b#ref=rss)
-### streiten
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten](https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten-a-d7555bf6-65d3-4799-96fa-b6d74445eac9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel](https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel-a-5b3af770-9e66-4bbb-878f-aed0ff44b3c9#ref=rss)
+### derzeit
 
-* [https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech](https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech-a-9350655c-246a-4ee0-a35a-caf631d38e5b#ref=rss)
-### spitzengespräch
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten](https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten-a-d7555bf6-65d3-4799-96fa-b6d74445eac9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima](https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima-a-75e1cce0-e16b-4e29-9d27-276f285b2413#ref=rss)
+### liegt
 
-* [https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech](https://www.spiegel.de/kultur/ukraine-svenja-flasspoehler-und-wladimir-kaminer-streiten-im-spitzengespraech-a-9350655c-246a-4ee0-a35a-caf631d38e5b#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten](https://www.spiegel.de/ausland/krieg-in-der-ukraine-nullsummenspiel-im-osten-a-d7555bf6-65d3-4799-96fa-b6d74445eac9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/russland-sanktionen-russland-wird-so-langsam-sinken-wie-die-titanic](https://www.spiegel.de/wirtschaft/soziales/russland-sanktionen-russland-wird-so-langsam-sinken-wie-die-titanic-a-7cf48e0a-3b54-42e7-8df2-5c243330d583#ref=rss)
+### kremlsprecher
+
+* [https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung](https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung-a-d9e6fd0f-9719-4333-b6ec-dd23903c3684#ref=rss)
+### peskow
+
+* [https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung](https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung-a-d9e6fd0f-9719-4333-b6ec-dd23903c3684#ref=rss)
+### finnlands
+
+* [https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung](https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung-a-d9e6fd0f-9719-4333-b6ec-dd23903c3684#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-und-regierungschefin-finnlands-sprechen-sich-fuer-unverzueglichen-nato-beitritt-aus](https://www.spiegel.de/ausland/praesident-und-regierungschefin-finnlands-sprechen-sich-fuer-unverzueglichen-nato-beitritt-aus-a-35cd2ea9-c1c8-471a-a661-dfc798d071c2#ref=rss)
+### finnischen
+
+* [https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung](https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung-a-d9e6fd0f-9719-4333-b6ec-dd23903c3684#ref=rss)
+* [https://www.spiegel.de/kultur/musik/coldplay-kooperierte-die-britische-band-mit-einem-zweifelhaftem-oelunternehmen](https://www.spiegel.de/kultur/musik/coldplay-kooperierte-die-britische-band-mit-einem-zweifelhaftem-oelunternehmen-a-81003f5a-1755-4d6e-b39a-f093f0160e82#ref=rss)
+### schritt
+
+* [https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung](https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung-a-d9e6fd0f-9719-4333-b6ec-dd23903c3684#ref=rss)
+* [https://www.spiegel.de/ausland/praesident-und-regierungschefin-finnlands-sprechen-sich-fuer-unverzueglichen-nato-beitritt-aus](https://www.spiegel.de/ausland/praesident-und-regierungschefin-finnlands-sprechen-sich-fuer-unverzueglichen-nato-beitritt-aus-a-35cd2ea9-c1c8-471a-a661-dfc798d071c2#ref=rss)
+### stabiler
+
+* [https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung](https://www.spiegel.de/ausland/kremlsprecher-dmitrij-peskow-nato-beitritt-finnlands-definitiv-eine-bedrohung-a-d9e6fd0f-9719-4333-b6ec-dd23903c3684#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/russland-sanktionen-russland-wird-so-langsam-sinken-wie-die-titanic](https://www.spiegel.de/wirtschaft/soziales/russland-sanktionen-russland-wird-so-langsam-sinken-wie-die-titanic-a-7cf48e0a-3b54-42e7-8df2-5c243330d583#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit](https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit-a-5ad614c9-f1c8-4b16-9b93-f3da54a6a77d#ref=rss)
+### tage
+
+* [https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit](https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit-a-5ad614c9-f1c8-4b16-9b93-f3da54a6a77d#ref=rss)
+### tod
+
+* [https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit](https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit-a-5ad614c9-f1c8-4b16-9b93-f3da54a6a77d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hanau-tote-geschwister-polizei-ermittelt-wegen-mordverdachts-vater-gesucht](https://www.spiegel.de/panorama/justiz/hanau-tote-geschwister-polizei-ermittelt-wegen-mordverdachts-vater-gesucht-a-c35a1573-88db-4b7e-aa5d-e2de84519436#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit](https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit-a-5ad614c9-f1c8-4b16-9b93-f3da54a6a77d#ref=rss)
+### toten
+
+* [https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit](https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit-a-5ad614c9-f1c8-4b16-9b93-f3da54a6a77d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-flussueberquerung-endet-fuer-russische-einheit-im-fiasko](https://www.spiegel.de/ausland/ukraine-krieg-flussueberquerung-endet-fuer-russische-einheit-im-fiasko-a-cb528978-bf03-4634-9b1d-636fef70e64a#ref=rss)
+### leben
+
+* [https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit](https://www.spiegel.de/panorama/justiz/wels-in-oesterreich-vierjaehrige-zwei-tage-nach-tod-der-mutter-aus-wohnung-befreit-a-5ad614c9-f1c8-4b16-9b93-f3da54a6a77d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/russland-sanktionen-russland-wird-so-langsam-sinken-wie-die-titanic](https://www.spiegel.de/wirtschaft/soziales/russland-sanktionen-russland-wird-so-langsam-sinken-wie-die-titanic-a-7cf48e0a-3b54-42e7-8df2-5c243330d583#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen](https://www.spiegel.de/panorama/bildung/ukraine-krieg-mehr-als-105-000-ukrainische-schueler-an-deutschen-schulen-a-f2e4d04e-c3d9-47d5-9a40-e0c8a9ff2858#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-flussueberquerung-endet-fuer-russische-einheit-im-fiasko](https://www.spiegel.de/ausland/ukraine-krieg-flussueberquerung-endet-fuer-russische-einheit-im-fiasko-a-cb528978-bf03-4634-9b1d-636fef70e64a#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima](https://www.spiegel.de/wissenschaft/geplante-oel-und-gasprojekte-weltweit-195-kohlenstoffbomben-bedrohen-das-weltklima-a-75e1cce0-e16b-4e29-9d27-276f285b2413#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-faellt-auf-tiefsten-stand-seit-dezember-2020](https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-faellt-auf-tiefsten-stand-seit-dezember-2020-a-3b90691f-175e-49bf-93a9-e8d4db9c4e37#ref=rss)
+### arbeitsmarkt
+
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-offenen-stellen-in-deutschland-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-offenen-stellen-in-deutschland-auf-rekordwert-a-d1a20d8c-dad5-44c9-ab9a-b42f23439d5e#ref=rss)
+### nie
+
+* [https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-offenen-stellen-in-deutschland-auf-rekordwert](https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-zahl-der-offenen-stellen-in-deutschland-auf-rekordwert-a-d1a20d8c-dad5-44c9-ab9a-b42f23439d5e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/erzeugerpreise-milch-kartoffeln-getreide-deutlich-teurer](https://www.spiegel.de/wirtschaft/service/erzeugerpreise-milch-kartoffeln-getreide-deutlich-teurer-a-4b06c00a-2e01-4c3f-9b2f-a6a4b6c0d5f4#ref=rss)
+### vater
+
+* [https://www.spiegel.de/panorama/justiz/hanau-tote-geschwister-polizei-ermittelt-wegen-mordverdachts-vater-gesucht](https://www.spiegel.de/panorama/justiz/hanau-tote-geschwister-polizei-ermittelt-wegen-mordverdachts-vater-gesucht-a-c35a1573-88db-4b7e-aa5d-e2de84519436#ref=rss)
+### bitcoin
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-faellt-auf-tiefsten-stand-seit-dezember-2020](https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-faellt-auf-tiefsten-stand-seit-dezember-2020-a-3b90691f-175e-49bf-93a9-e8d4db9c4e37#ref=rss)
+### fällt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-faellt-auf-tiefsten-stand-seit-dezember-2020](https://www.spiegel.de/wirtschaft/unternehmen/bitcoin-faellt-auf-tiefsten-stand-seit-dezember-2020-a-3b90691f-175e-49bf-93a9-e8d4db9c4e37#ref=rss)
+### greg
+
+* [https://www.spiegel.de/sport/golf/golf-unternehmer-greg-norman-irritiert-mit-aussagen-zum-mord-an-jamal-khashoggi](https://www.spiegel.de/sport/golf/golf-unternehmer-greg-norman-irritiert-mit-aussagen-zum-mord-an-jamal-khashoggi-a-bd7d37bd-b8cd-4016-973e-7e3fc649e8e3#ref=rss)
+### norman
+
+* [https://www.spiegel.de/sport/golf/golf-unternehmer-greg-norman-irritiert-mit-aussagen-zum-mord-an-jamal-khashoggi](https://www.spiegel.de/sport/golf/golf-unternehmer-greg-norman-irritiert-mit-aussagen-zum-mord-an-jamal-khashoggi-a-bd7d37bd-b8cd-4016-973e-7e3fc649e8e3#ref=rss)
+### straftaten
+
+* [https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen](https://www.spiegel.de/panorama/justiz/essen-polizei-verhindert-mutmasslichen-nazi-terroranschlag-an-schulen-a-c956d6d7-bdc9-4b6a-8aff-0d039b8584f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen](https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen-a-a76e7a9b-8574-49ba-897f-e630db4f48e4#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/panorama/bildung/bafoeg-studierendenvertreter-kritisieren-plaene-der-bundesregierung](https://www.spiegel.de/panorama/bildung/bafoeg-studierendenvertreter-kritisieren-plaene-der-bundesregierung-a-46c29392-7679-4d98-9f84-f651ff8554c5#ref=rss)
+### shanghai
+
+* [https://www.spiegel.de/ausland/corona-massnahmen-in-shanghai-der-lockdown-hat-die-haessliche-seite-chinas-gezeigt](https://www.spiegel.de/ausland/corona-massnahmen-in-shanghai-der-lockdown-hat-die-haessliche-seite-chinas-gezeigt-a-c37adb0a-2f1e-473a-8d39-7bdb6f58c75d#ref=rss)
+### lockdown
+
+* [https://www.spiegel.de/ausland/corona-massnahmen-in-shanghai-der-lockdown-hat-die-haessliche-seite-chinas-gezeigt](https://www.spiegel.de/ausland/corona-massnahmen-in-shanghai-der-lockdown-hat-die-haessliche-seite-chinas-gezeigt-a-c37adb0a-2f1e-473a-8d39-7bdb6f58c75d#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/ausland/corona-massnahmen-in-shanghai-der-lockdown-hat-die-haessliche-seite-chinas-gezeigt](https://www.spiegel.de/ausland/corona-massnahmen-in-shanghai-der-lockdown-hat-die-haessliche-seite-chinas-gezeigt-a-c37adb0a-2f1e-473a-8d39-7bdb6f58c75d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/indien-frau-verklagt-eigenen-sohn-und-schwiegertochter-weil-sie-enkel-will](https://www.spiegel.de/panorama/gesellschaft/indien-frau-verklagt-eigenen-sohn-und-schwiegertochter-weil-sie-enkel-will-a-b8f74398-f0e6-4d98-9e6a-ffcf69f91de8#ref=rss)
+### elektroautos
+
+* [https://www.spiegel.de/auto/elektroautos-doppelt-so-viele-neuzulassungen-im-sueden-wie-im-osten-deutschlands](https://www.spiegel.de/auto/elektroautos-doppelt-so-viele-neuzulassungen-im-sueden-wie-im-osten-deutschlands-a-d9528a72-51c2-4291-91b1-649886eb82ae#ref=rss)
+### zusammen
+
+* [https://www.spiegel.de/auto/elektroautos-doppelt-so-viele-neuzulassungen-im-sueden-wie-im-osten-deutschlands](https://www.spiegel.de/auto/elektroautos-doppelt-so-viele-neuzulassungen-im-sueden-wie-im-osten-deutschlands-a-d9528a72-51c2-4291-91b1-649886eb82ae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen](https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen-a-a76e7a9b-8574-49ba-897f-e630db4f48e4#ref=rss)
+### segelschulschiff
+
+* [https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel](https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel-a-5b3af770-9e66-4bbb-878f-aed0ff44b3c9#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel](https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel-a-5b3af770-9e66-4bbb-878f-aed0ff44b3c9#ref=rss)
+### euro
+
+* [https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel](https://www.spiegel.de/politik/deutschland/segelschulschiff-gorch-fock-muss-wegen-getriebeproblems-zurueck-nach-kiel-a-5b3af770-9e66-4bbb-878f-aed0ff44b3c9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/grunderbe-ostbeauftragter-carsten-schneider-wirbt-fuer-20-000-euro-zahlung](https://www.spiegel.de/wirtschaft/soziales/grunderbe-ostbeauftragter-carsten-schneider-wirbt-fuer-20-000-euro-zahlung-a-2d593a97-e8c6-484d-8d50-8919c6da63a4#ref=rss)
+### schwere
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-flussueberquerung-endet-fuer-russische-einheit-im-fiasko](https://www.spiegel.de/ausland/ukraine-krieg-flussueberquerung-endet-fuer-russische-einheit-im-fiasko-a-cb528978-bf03-4634-9b1d-636fef70e64a#ref=rss)
+* [https://www.spiegel.de/panorama/kalifornien-heftige-braende-zerstoeren-millionenschwere-villen](https://www.spiegel.de/panorama/kalifornien-heftige-braende-zerstoeren-millionenschwere-villen-a-de077efb-38dd-495e-a6c6-768a9c04784c#ref=rss)
+### ich
+
+* [https://www.spiegel.de/familie/vaeter-ausreden-im-faktencheck-mann-kann-s-nicht-mehr-hoeren](https://www.spiegel.de/familie/vaeter-ausreden-im-faktencheck-mann-kann-s-nicht-mehr-hoeren-a-5c01ccbb-b1db-40d5-80dc-83ad058249ca#ref=rss)
+### steckt
+
+* [https://www.spiegel.de/familie/vaeter-ausreden-im-faktencheck-mann-kann-s-nicht-mehr-hoeren](https://www.spiegel.de/familie/vaeter-ausreden-im-faktencheck-mann-kann-s-nicht-mehr-hoeren-a-5c01ccbb-b1db-40d5-80dc-83ad058249ca#ref=rss)
+* [https://www.spiegel.de/sport/fussball/patrik-schick-von-bayer-04-leverkusen-der-goldene-stuermer-aus-prag](https://www.spiegel.de/sport/fussball/patrik-schick-von-bayer-04-leverkusen-der-goldene-stuermer-aus-prag-a-7be437c9-f420-4789-9987-645ff87d28c6#ref=rss)
+### kuhle
+
+* [https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen](https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen-a-a76e7a9b-8574-49ba-897f-e630db4f48e4#ref=rss)
+### stark
+
+* [https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen](https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen-a-a76e7a9b-8574-49ba-897f-e630db4f48e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/erzeugerpreise-milch-kartoffeln-getreide-deutlich-teurer](https://www.spiegel.de/wirtschaft/service/erzeugerpreise-milch-kartoffeln-getreide-deutlich-teurer-a-4b06c00a-2e01-4c3f-9b2f-a6a4b6c0d5f4#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen](https://www.spiegel.de/politik/deutschland/konstantin-kuhle-ueber-corona-und-putin-proteste-es-braut-sich-etwas-zusammen-a-a76e7a9b-8574-49ba-897f-e630db4f48e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet](https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet-a-cd80c89a-9774-4129-9179-ca2d325b42f7#ref=rss)
+### coldplay
+
+* [https://www.spiegel.de/kultur/musik/coldplay-kooperierte-die-britische-band-mit-einem-zweifelhaftem-oelunternehmen](https://www.spiegel.de/kultur/musik/coldplay-kooperierte-die-britische-band-mit-einem-zweifelhaftem-oelunternehmen-a-81003f5a-1755-4d6e-b39a-f093f0160e82#ref=rss)
+### kooperierte
+
+* [https://www.spiegel.de/kultur/musik/coldplay-kooperierte-die-britische-band-mit-einem-zweifelhaftem-oelunternehmen](https://www.spiegel.de/kultur/musik/coldplay-kooperierte-die-britische-band-mit-einem-zweifelhaftem-oelunternehmen-a-81003f5a-1755-4d6e-b39a-f093f0160e82#ref=rss)
+### band
+
+* [https://www.spiegel.de/kultur/musik/coldplay-kooperierte-die-britische-band-mit-einem-zweifelhaftem-oelunternehmen](https://www.spiegel.de/kultur/musik/coldplay-kooperierte-die-britische-band-mit-einem-zweifelhaftem-oelunternehmen-a-81003f5a-1755-4d6e-b39a-f093f0160e82#ref=rss)
+### kalifornien
+
+* [https://www.spiegel.de/panorama/kalifornien-heftige-braende-zerstoeren-millionenschwere-villen](https://www.spiegel.de/panorama/kalifornien-heftige-braende-zerstoeren-millionenschwere-villen-a-de077efb-38dd-495e-a6c6-768a9c04784c#ref=rss)
+### germania
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet](https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet-a-cd80c89a-9774-4129-9179-ca2d325b42f7#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet](https://www.spiegel.de/wirtschaft/unternehmen/gaslieferstopps-bei-gazprom-germania-habeck-sieht-deutschland-vorbereitet-a-cd80c89a-9774-4129-9179-ca2d325b42f7#ref=rss)
+### flüssiges
+
+* [https://www.spiegel.de/wissenschaft/weltall/chinesischer-mars-rover-zhurong-wie-lange-gab-es-fluessiges-wasser-auf-dem-mars](https://www.spiegel.de/wissenschaft/weltall/chinesischer-mars-rover-zhurong-wie-lange-gab-es-fluessiges-wasser-auf-dem-mars-a-0430029d-d3d8-4b5f-aad4-1969b23fd64f#ref=rss)
+### landwirtschaftliche
+
+* [https://www.spiegel.de/wirtschaft/service/erzeugerpreise-milch-kartoffeln-getreide-deutlich-teurer](https://www.spiegel.de/wirtschaft/service/erzeugerpreise-milch-kartoffeln-getreide-deutlich-teurer-a-4b06c00a-2e01-4c3f-9b2f-a6a4b6c0d5f4#ref=rss)
+### patrik
+
+* [https://www.spiegel.de/sport/fussball/patrik-schick-von-bayer-04-leverkusen-der-goldene-stuermer-aus-prag](https://www.spiegel.de/sport/fussball/patrik-schick-von-bayer-04-leverkusen-der-goldene-stuermer-aus-prag-a-7be437c9-f420-4789-9987-645ff87d28c6#ref=rss)
+### schick
+
+* [https://www.spiegel.de/sport/fussball/patrik-schick-von-bayer-04-leverkusen-der-goldene-stuermer-aus-prag](https://www.spiegel.de/sport/fussball/patrik-schick-von-bayer-04-leverkusen-der-goldene-stuermer-aus-prag-a-7be437c9-f420-4789-9987-645ff87d28c6#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/gesellschaft/indien-frau-verklagt-eigenen-sohn-und-schwiegertochter-weil-sie-enkel-will](https://www.spiegel.de/panorama/gesellschaft/indien-frau-verklagt-eigenen-sohn-und-schwiegertochter-weil-sie-enkel-will-a-b8f74398-f0e6-4d98-9e6a-ffcf69f91de8#ref=rss)
+### grunderbe
+
+* [https://www.spiegel.de/wirtschaft/soziales/grunderbe-ostbeauftragter-carsten-schneider-wirbt-fuer-20-000-euro-zahlung](https://www.spiegel.de/wirtschaft/soziales/grunderbe-ostbeauftragter-carsten-schneider-wirbt-fuer-20-000-euro-zahlung-a-2d593a97-e8c6-484d-8d50-8919c6da63a4#ref=rss)
+### carsten
+
+* [https://www.spiegel.de/wirtschaft/soziales/grunderbe-ostbeauftragter-carsten-schneider-wirbt-fuer-20-000-euro-zahlung](https://www.spiegel.de/wirtschaft/soziales/grunderbe-ostbeauftragter-carsten-schneider-wirbt-fuer-20-000-euro-zahlung-a-2d593a97-e8c6-484d-8d50-8919c6da63a4#ref=rss)
+### schneider
+
+* [https://www.spiegel.de/wirtschaft/soziales/grunderbe-ostbeauftragter-carsten-schneider-wirbt-fuer-20-000-euro-zahlung](https://www.spiegel.de/wirtschaft/soziales/grunderbe-ostbeauftragter-carsten-schneider-wirbt-fuer-20-000-euro-zahlung-a-2d593a97-e8c6-484d-8d50-8919c6da63a4#ref=rss)
+### junge
+
+* [https://www.spiegel.de/wirtschaft/soziales/grunderbe-ostbeauftragter-carsten-schneider-wirbt-fuer-20-000-euro-zahlung](https://www.spiegel.de/wirtschaft/soziales/grunderbe-ostbeauftragter-carsten-schneider-wirbt-fuer-20-000-euro-zahlung-a-2d593a97-e8c6-484d-8d50-8919c6da63a4#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wirtschaft/soziales/grunderbe-ostbeauftragter-carsten-schneider-wirbt-fuer-20-000-euro-zahlung](https://www.spiegel.de/wirtschaft/soziales/grunderbe-ostbeauftragter-carsten-schneider-wirbt-fuer-20-000-euro-zahlung-a-2d593a97-e8c6-484d-8d50-8919c6da63a4#ref=rss)
+### kriegsverletzte
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-bundeswehr-fliegt-erneut-kriegsverletzte-nach-deutschland](https://www.spiegel.de/ausland/krieg-in-der-ukraine-bundeswehr-fliegt-erneut-kriegsverletzte-nach-deutschland-a-b84cd94b-afe5-46f3-bb48-88cc85e91d39#ref=rss)
 
