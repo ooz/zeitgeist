@@ -4,354 +4,331 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### nordrheinwestfalen
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-ordnungsamt-laesst-musik-auf-cdu-wahlparty-leiser-drehen](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-ordnungsamt-laesst-musik-auf-cdu-wahlparty-leiser-drehen-a-117773eb-5f4b-4e93-b25d-bbcb4a22721c#ref=rss)
-* [https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen](https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen-a-3842c05a-8025-40be-8aa8-915345f18b15#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land](https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land-a-c4c3bc59-5847-459b-a8d4-9d09fcd65f0e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg-a-a0f0f179-794b-40ae-b0cc-357ecc25ea7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet](https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet-a-a4bf1229-37be-4f5b-bc81-88945ee65993#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kevin-kuehnert-wiegelt-kritik-an-olaf-scholz-nach-spd-niederlage-ab](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kevin-kuehnert-wiegelt-kritik-an-olaf-scholz-nach-spd-niederlage-ab-a-9f87dd32-5d49-4724-8ee6-39f00dd6d7ad#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel-a-7058e3ed-f559-4b61-9461-140f903da8e6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend](https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend-a-87a894f0-1a46-45be-8785-e262e2c40170#ref=rss)
-### cdu
+* [https://www.spiegel.de/reise/corona-massnahmen-kommt-nun-das-ende-der-maskenpflicht-auf-flugreisen](https://www.spiegel.de/reise/corona-massnahmen-kommt-nun-das-ende-der-maskenpflicht-auf-flugreisen-a-145b5d7c-e53d-4520-a70d-c49772e2fbd8#ref=rss)
+* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen](https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen-a-f4da4ea9-8fbd-4fe5-8378-58080aced4a0#ref=rss)
+* [https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern](https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern-a-75fcead7-1bed-4cbe-b331-660c97d9b6c0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
+### schweden
 
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-ordnungsamt-laesst-musik-auf-cdu-wahlparty-leiser-drehen](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-ordnungsamt-laesst-musik-auf-cdu-wahlparty-leiser-drehen-a-117773eb-5f4b-4e93-b25d-bbcb4a22721c#ref=rss)
-* [https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen](https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen-a-3842c05a-8025-40be-8aa8-915345f18b15#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land](https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land-a-c4c3bc59-5847-459b-a8d4-9d09fcd65f0e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg-a-a0f0f179-794b-40ae-b0cc-357ecc25ea7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nrw-wahl-was-fuer-schwarz-gruen-spricht-und-was-dagegen](https://www.spiegel.de/politik/deutschland/nrw-wahl-was-fuer-schwarz-gruen-spricht-und-was-dagegen-a-04ababb0-ad59-4494-a453-8c4f5e8e87f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel-a-7058e3ed-f559-4b61-9461-140f903da8e6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend](https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend-a-87a894f0-1a46-45be-8785-e262e2c40170#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt-a-aa70dbea-a67d-41d8-a1fc-813b8549355c#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen](https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen-a-f4da4ea9-8fbd-4fe5-8378-58080aced4a0#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
+* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
+* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
+* [https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris](https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris-a-b44ac028-54ec-4228-a763-9737d90cd617#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa](https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa-a-9f52d0ec-b54b-4c33-90ed-e32b2cc32177#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer](https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer-a-9a1c0bd2-53ff-4c17-8050-3c07908de9b6#ref=rss)
+* [https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris](https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris-a-b44ac028-54ec-4228-a763-9737d90cd617#ref=rss)
 ### nrw
 
-* [https://www.spiegel.de/politik/deutschland/linke-bei-nrw-wahl-sie-hatten-ihr-ziel-tief-gesteckt-und-selbst-das-klar-verpasst](https://www.spiegel.de/politik/deutschland/linke-bei-nrw-wahl-sie-hatten-ihr-ziel-tief-gesteckt-und-selbst-das-klar-verpasst-a-bfecccb9-b6ce-4125-b001-ac0a63d556cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land](https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land-a-c4c3bc59-5847-459b-a8d4-9d09fcd65f0e#ref=rss)
-* [https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream](https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream-a-e7d24b1c-0924-4832-9c3e-9533b7111431#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet](https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet-a-a4bf1229-37be-4f5b-bc81-88945ee65993#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nrw-wahl-was-fuer-schwarz-gruen-spricht-und-was-dagegen](https://www.spiegel.de/politik/deutschland/nrw-wahl-was-fuer-schwarz-gruen-spricht-und-was-dagegen-a-04ababb0-ad59-4494-a453-8c4f5e8e87f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel-a-7058e3ed-f559-4b61-9461-140f903da8e6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend](https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend-a-87a894f0-1a46-45be-8785-e262e2c40170#ref=rss)
-### landtagswahl
+* [https://www.spiegel.de/panorama/bildung/deutscher-kita-preis-geht-nach-heilbronn-und-arnsberg](https://www.spiegel.de/panorama/bildung/deutscher-kita-preis-geht-nach-heilbronn-und-arnsberg-a-de351b60-42f4-4205-b82a-a030d28a869a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt-a-aa70dbea-a67d-41d8-a1fc-813b8549355c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich](https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich-a-d4ed0cb8-6b8c-4f4a-a192-b17272e94dcd#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land](https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land-a-c4c3bc59-5847-459b-a8d4-9d09fcd65f0e#ref=rss)
-* [https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream](https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream-a-e7d24b1c-0924-4832-9c3e-9533b7111431#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg-a-a0f0f179-794b-40ae-b0cc-357ecc25ea7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel-a-7058e3ed-f559-4b61-9461-140f903da8e6#ref=rss)
-### niederlage
-
-* [https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream](https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream-a-e7d24b1c-0924-4832-9c3e-9533b7111431#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet](https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet-a-a4bf1229-37be-4f5b-bc81-88945ee65993#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kevin-kuehnert-wiegelt-kritik-an-olaf-scholz-nach-spd-niederlage-ab](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kevin-kuehnert-wiegelt-kritik-an-olaf-scholz-nach-spd-niederlage-ab-a-9f87dd32-5d49-4724-8ee6-39f00dd6d7ad#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel-a-7058e3ed-f559-4b61-9461-140f903da8e6#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen](https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen-a-3842c05a-8025-40be-8aa8-915345f18b15#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend](https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend-a-87a894f0-1a46-45be-8785-e262e2c40170#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/politik/deutschland/linke-bei-nrw-wahl-sie-hatten-ihr-ziel-tief-gesteckt-und-selbst-das-klar-verpasst](https://www.spiegel.de/politik/deutschland/linke-bei-nrw-wahl-sie-hatten-ihr-ziel-tief-gesteckt-und-selbst-das-klar-verpasst-a-bfecccb9-b6ce-4125-b001-ac0a63d556cf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-kommission-senkt-prognose-fuer-wirtschaftswachstum-auf-2-7-prozent](https://www.spiegel.de/wirtschaft/eu-kommission-senkt-prognose-fuer-wirtschaftswachstum-auf-2-7-prozent-a-7fbdb0fc-ab5c-45ae-8e0b-6904b89ac2b9#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/netzwelt/web/sixt-hackerangriff-wie-das-unternehmen-seine-probleme-schoenredet](https://www.spiegel.de/netzwelt/web/sixt-hackerangriff-wie-das-unternehmen-seine-probleme-schoenredet-a-ecf99f23-f4ed-4e78-ab99-ed553961329d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-bei-nrw-wahl-sie-hatten-ihr-ziel-tief-gesteckt-und-selbst-das-klar-verpasst](https://www.spiegel.de/politik/deutschland/linke-bei-nrw-wahl-sie-hatten-ihr-ziel-tief-gesteckt-und-selbst-das-klar-verpasst-a-bfecccb9-b6ce-4125-b001-ac0a63d556cf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-die-aera-paul-achleitner-geht-zu-ende](https://www.spiegel.de/wirtschaft/deutsche-bank-die-aera-paul-achleitner-geht-zu-ende-a-5e8b3ee2-3d96-4687-abe6-ddf6d02e58ae#ref=rss)
-### hatten
-
-* [https://www.spiegel.de/politik/deutschland/linke-bei-nrw-wahl-sie-hatten-ihr-ziel-tief-gesteckt-und-selbst-das-klar-verpasst](https://www.spiegel.de/politik/deutschland/linke-bei-nrw-wahl-sie-hatten-ihr-ziel-tief-gesteckt-und-selbst-das-klar-verpasst-a-bfecccb9-b6ce-4125-b001-ac0a63d556cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet](https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet-a-a4bf1229-37be-4f5b-bc81-88945ee65993#ref=rss)
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-mann-in-essen-vom-blitz-getroffen-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/nordrhein-westfalen-mann-in-essen-vom-blitz-getroffen-lebensgefaehrlich-verletzt-a-9d39d912-85c6-45be-a2c2-c0d5e13364ab#ref=rss)
+* [https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris](https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris-a-b44ac028-54ec-4228-a763-9737d90cd617#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/geplantes-oelembargo-gegen-russland-litauen-wirft-ungarn-geiselnahme-der-eu-vor](https://www.spiegel.de/ausland/geplantes-oelembargo-gegen-russland-litauen-wirft-ungarn-geiselnahme-der-eu-vor-a-feccc38a-3d9a-4071-ba3f-eef4b0364935#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-gibt-wichtige-gebiete-in-luhansk-nicht-auf](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-gibt-wichtige-gebiete-in-luhansk-nicht-auf-a-d0dae6f7-d10d-4314-a3c9-6c344cd062ab#ref=rss)
-### parteien
+* [https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt](https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt-a-f7a42805-d8da-475f-a11a-d514eb47a6e8#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen](https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen-a-f4da4ea9-8fbd-4fe5-8378-58080aced4a0#ref=rss)
+* [https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro](https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro-a-cad7b949-0e94-4eaf-beaf-4f02475fe1a8#ref=rss)
+### mariupol
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land](https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land-a-c4c3bc59-5847-459b-a8d4-9d09fcd65f0e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg-a-a0f0f179-794b-40ae-b0cc-357ecc25ea7a#ref=rss)
-### land
+* [https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt](https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt-a-f7a42805-d8da-475f-a11a-d514eb47a6e8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen](https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen-a-dc04d27f-4042-43c7-b84e-71ee879437cb#ref=rss)
+### zeigen
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land](https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land-a-c4c3bc59-5847-459b-a8d4-9d09fcd65f0e#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch](https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch-a-a5142dfc-0dfd-4f9a-ac17-565c8145c821#ref=rss)
-### scholz
+* [https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt](https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt-a-f7a42805-d8da-475f-a11a-d514eb47a6e8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen](https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen-a-dc04d27f-4042-43c7-b84e-71ee879437cb#ref=rss)
+### experten
 
-* [https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream](https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream-a-e7d24b1c-0924-4832-9c3e-9533b7111431#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kevin-kuehnert-wiegelt-kritik-an-olaf-scholz-nach-spd-niederlage-ab](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kevin-kuehnert-wiegelt-kritik-an-olaf-scholz-nach-spd-niederlage-ab-a-9f87dd32-5d49-4724-8ee6-39f00dd6d7ad#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel-a-7058e3ed-f559-4b61-9461-140f903da8e6#ref=rss)
-### wirtschaft
+* [https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt](https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt-a-f7a42805-d8da-475f-a11a-d514eb47a6e8#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen](https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen-a-f4da4ea9-8fbd-4fe5-8378-58080aced4a0#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa](https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa-a-9f52d0ec-b54b-4c33-90ed-e32b2cc32177#ref=rss)
+### frau
 
-* [https://www.spiegel.de/wirtschaft/eu-kommission-senkt-prognose-fuer-wirtschaftswachstum-auf-2-7-prozent](https://www.spiegel.de/wirtschaft/eu-kommission-senkt-prognose-fuer-wirtschaftswachstum-auf-2-7-prozent-a-7fbdb0fc-ab5c-45ae-8e0b-6904b89ac2b9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/chinas-wirtschaft-leidet-unter-den-kosten-der-null-covid-strategie](https://www.spiegel.de/wirtschaft/chinas-wirtschaft-leidet-unter-den-kosten-der-null-covid-strategie-a-d02a32c2-3648-4600-8325-e0ab376cd8bc#ref=rss)
-### wahl
+* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/32-jaehrige-erstochen-und-von-lkw-ueberfahren-ehemann-soll-seine-frau-aus-rache-ermordet-haben](https://www.spiegel.de/panorama/justiz/32-jaehrige-erstochen-und-von-lkw-ueberfahren-ehemann-soll-seine-frau-aus-rache-ermordet-haben-a-5447b814-f685-4bd4-b80e-a2d1fd077644#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg-a-a0f0f179-794b-40ae-b0cc-357ecc25ea7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nrw-wahl-was-fuer-schwarz-gruen-spricht-und-was-dagegen](https://www.spiegel.de/politik/deutschland/nrw-wahl-was-fuer-schwarz-gruen-spricht-und-was-dagegen-a-04ababb0-ad59-4494-a453-8c4f5e8e87f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend](https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend-a-87a894f0-1a46-45be-8785-e262e2c40170#ref=rss)
-### grünen
+* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
+* [https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt](https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt-a-75eb6576-baaa-4124-8467-778d041b9a1a#ref=rss)
+### jean
 
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg-a-a0f0f179-794b-40ae-b0cc-357ecc25ea7a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nrw-wahl-was-fuer-schwarz-gruen-spricht-und-was-dagegen](https://www.spiegel.de/politik/deutschland/nrw-wahl-was-fuer-schwarz-gruen-spricht-und-was-dagegen-a-04ababb0-ad59-4494-a453-8c4f5e8e87f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel-a-7058e3ed-f559-4b61-9461-140f903da8e6#ref=rss)
-### fast
+* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
+* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
+### castex
 
-* [https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab](https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab-a-0f20fcac-e8ee-486f-8832-dba003afc9e1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/werder-bremen-und-der-aufstieg-schuld-und-siege](https://www.spiegel.de/sport/fussball/werder-bremen-und-der-aufstieg-schuld-und-siege-a-cba6b1c2-c3c2-4b6c-818f-9137c6e1f7c8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend](https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend-a-87a894f0-1a46-45be-8785-e262e2c40170#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/corona-maskenpflicht-gilt-in-flugzeugen-von-und-nach-deutschland-trotz-eu-empfehlung-weiter](https://www.spiegel.de/politik/deutschland/corona-maskenpflicht-gilt-in-flugzeugen-von-und-nach-deutschland-trotz-eu-empfehlung-weiter-a-2164053a-867e-4c69-9f01-55214594a881#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland](https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland-a-ca18928c-d9bd-46ec-b621-48ab13b3c38c#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/netzwelt/web/sixt-hackerangriff-wie-das-unternehmen-seine-probleme-schoenredet](https://www.spiegel.de/netzwelt/web/sixt-hackerangriff-wie-das-unternehmen-seine-probleme-schoenredet-a-ecf99f23-f4ed-4e78-ab99-ed553961329d#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/netzwelt/web/sixt-hackerangriff-wie-das-unternehmen-seine-probleme-schoenredet](https://www.spiegel.de/netzwelt/web/sixt-hackerangriff-wie-das-unternehmen-seine-probleme-schoenredet-a-ecf99f23-f4ed-4e78-ab99-ed553961329d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/schwanau-gemeinde-waehlt-buergermeister-der-gar-nicht-kandidieren-wollte](https://www.spiegel.de/panorama/gesellschaft/schwanau-gemeinde-waehlt-buergermeister-der-gar-nicht-kandidieren-wollte-a-086320c1-ada8-497d-98e9-987d1720756f#ref=rss)
-### wüst
-
-* [https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen](https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen-a-3842c05a-8025-40be-8aa8-915345f18b15#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen](https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen-a-3842c05a-8025-40be-8aa8-915345f18b15#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend](https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend-a-87a894f0-1a46-45be-8785-e262e2c40170#ref=rss)
-### erfolg
-
-* [https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen](https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen-a-3842c05a-8025-40be-8aa8-915345f18b15#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend](https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend-a-87a894f0-1a46-45be-8785-e262e2c40170#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen](https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen-a-3842c05a-8025-40be-8aa8-915345f18b15#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet](https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet-a-a4bf1229-37be-4f5b-bc81-88945ee65993#ref=rss)
-### pressekonferenz
-
-* [https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen](https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen-a-3842c05a-8025-40be-8aa8-915345f18b15#ref=rss)
-* [https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream](https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream-a-e7d24b1c-0924-4832-9c3e-9533b7111431#ref=rss)
-### geäußert
-
-* [https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen](https://www.spiegel.de/politik/hendrik-wuest-und-friedrich-merz-so-reagiert-die-cdu-auf-den-erfolg-in-nordrhein-westfalen-a-3842c05a-8025-40be-8aa8-915345f18b15#ref=rss)
-* [https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream](https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream-a-e7d24b1c-0924-4832-9c3e-9533b7111431#ref=rss)
-### grenoble
-
-* [https://www.spiegel.de/panorama/gesellschaft/grenoble-will-burkinis-und-oben-ohne-in-schwimmbaedern-erlauben](https://www.spiegel.de/panorama/gesellschaft/grenoble-will-burkinis-und-oben-ohne-in-schwimmbaedern-erlauben-a-0b0c70f1-ffc3-473d-956f-751cd23c1305#ref=rss)
-### burkinis
-
-* [https://www.spiegel.de/panorama/gesellschaft/grenoble-will-burkinis-und-oben-ohne-in-schwimmbaedern-erlauben](https://www.spiegel.de/panorama/gesellschaft/grenoble-will-burkinis-und-oben-ohne-in-schwimmbaedern-erlauben-a-0b0c70f1-ffc3-473d-956f-751cd23c1305#ref=rss)
-### schwimmbädern
-
-* [https://www.spiegel.de/panorama/gesellschaft/grenoble-will-burkinis-und-oben-ohne-in-schwimmbaedern-erlauben](https://www.spiegel.de/panorama/gesellschaft/grenoble-will-burkinis-und-oben-ohne-in-schwimmbaedern-erlauben-a-0b0c70f1-ffc3-473d-956f-751cd23c1305#ref=rss)
-### bürgermeister
-
-* [https://www.spiegel.de/panorama/gesellschaft/grenoble-will-burkinis-und-oben-ohne-in-schwimmbaedern-erlauben](https://www.spiegel.de/panorama/gesellschaft/grenoble-will-burkinis-und-oben-ohne-in-schwimmbaedern-erlauben-a-0b0c70f1-ffc3-473d-956f-751cd23c1305#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/schwanau-gemeinde-waehlt-buergermeister-der-gar-nicht-kandidieren-wollte](https://www.spiegel.de/panorama/gesellschaft/schwanau-gemeinde-waehlt-buergermeister-der-gar-nicht-kandidieren-wollte-a-086320c1-ada8-497d-98e9-987d1720756f#ref=rss)
-### gar
-
-* [https://www.spiegel.de/panorama/gesellschaft/grenoble-will-burkinis-und-oben-ohne-in-schwimmbaedern-erlauben](https://www.spiegel.de/panorama/gesellschaft/grenoble-will-burkinis-und-oben-ohne-in-schwimmbaedern-erlauben-a-0b0c70f1-ffc3-473d-956f-751cd23c1305#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/schwanau-gemeinde-waehlt-buergermeister-der-gar-nicht-kandidieren-wollte](https://www.spiegel.de/panorama/gesellschaft/schwanau-gemeinde-waehlt-buergermeister-der-gar-nicht-kandidieren-wollte-a-086320c1-ada8-497d-98e9-987d1720756f#ref=rss)
-### linke
-
-* [https://www.spiegel.de/politik/deutschland/linke-bei-nrw-wahl-sie-hatten-ihr-ziel-tief-gesteckt-und-selbst-das-klar-verpasst](https://www.spiegel.de/politik/deutschland/linke-bei-nrw-wahl-sie-hatten-ihr-ziel-tief-gesteckt-und-selbst-das-klar-verpasst-a-bfecccb9-b6ce-4125-b001-ac0a63d556cf#ref=rss)
+* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
+* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
 ### nrwwahl
 
-* [https://www.spiegel.de/politik/deutschland/linke-bei-nrw-wahl-sie-hatten-ihr-ziel-tief-gesteckt-und-selbst-das-klar-verpasst](https://www.spiegel.de/politik/deutschland/linke-bei-nrw-wahl-sie-hatten-ihr-ziel-tief-gesteckt-und-selbst-das-klar-verpasst-a-bfecccb9-b6ce-4125-b001-ac0a63d556cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nrw-wahl-was-fuer-schwarz-gruen-spricht-und-was-dagegen](https://www.spiegel.de/politik/deutschland/nrw-wahl-was-fuer-schwarz-gruen-spricht-und-was-dagegen-a-04ababb0-ad59-4494-a453-8c4f5e8e87f3#ref=rss)
-### ungarn
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt-a-aa70dbea-a67d-41d8-a1fc-813b8549355c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich](https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich-a-d4ed0cb8-6b8c-4f4a-a192-b17272e94dcd#ref=rss)
+### ampel
 
-* [https://www.spiegel.de/ausland/geplantes-oelembargo-gegen-russland-litauen-wirft-ungarn-geiselnahme-der-eu-vor](https://www.spiegel.de/ausland/geplantes-oelembargo-gegen-russland-litauen-wirft-ungarn-geiselnahme-der-eu-vor-a-feccc38a-3d9a-4071-ba3f-eef4b0364935#ref=rss)
-### eu
+* [https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich](https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich-a-d4ed0cb8-6b8c-4f4a-a192-b17272e94dcd#ref=rss)
+### jury
 
-* [https://www.spiegel.de/ausland/geplantes-oelembargo-gegen-russland-litauen-wirft-ungarn-geiselnahme-der-eu-vor](https://www.spiegel.de/ausland/geplantes-oelembargo-gegen-russland-litauen-wirft-ungarn-geiselnahme-der-eu-vor-a-feccc38a-3d9a-4071-ba3f-eef4b0364935#ref=rss)
-### ukraine
+* [https://www.spiegel.de/panorama/bildung/deutscher-kita-preis-geht-nach-heilbronn-und-arnsberg](https://www.spiegel.de/panorama/bildung/deutscher-kita-preis-geht-nach-heilbronn-und-arnsberg-a-de351b60-42f4-4205-b82a-a030d28a869a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt](https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt-a-3497c93d-e9af-41c8-a4a9-90f0399ad54a#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/ausland/geplantes-oelembargo-gegen-russland-litauen-wirft-ungarn-geiselnahme-der-eu-vor](https://www.spiegel.de/ausland/geplantes-oelembargo-gegen-russland-litauen-wirft-ungarn-geiselnahme-der-eu-vor-a-feccc38a-3d9a-4071-ba3f-eef4b0364935#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-kommission-senkt-prognose-fuer-wirtschaftswachstum-auf-2-7-prozent](https://www.spiegel.de/wirtschaft/eu-kommission-senkt-prognose-fuer-wirtschaftswachstum-auf-2-7-prozent-a-7fbdb0fc-ab5c-45ae-8e0b-6904b89ac2b9#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/bildung/deutscher-kita-preis-geht-nach-heilbronn-und-arnsberg](https://www.spiegel.de/panorama/bildung/deutscher-kita-preis-geht-nach-heilbronn-und-arnsberg-a-de351b60-42f4-4205-b82a-a030d28a869a#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/grippe-bei-kindern-mit-zunehmenden-lockerungen-erleiden-kinder-jetzt-diese-infektionen](https://www.spiegel.de/gesundheit/diagnose/grippe-bei-kindern-mit-zunehmenden-lockerungen-erleiden-kinder-jetzt-diese-infektionen-a-beb50f76-496f-4fd5-b392-dd681211ea00#ref=rss)
+### erdoğan
 
-* [https://www.spiegel.de/wirtschaft/oekologischer-umbau-waldbesitzer-fordern-unterstuetzung-in-milliardenhoehe](https://www.spiegel.de/wirtschaft/oekologischer-umbau-waldbesitzer-fordern-unterstuetzung-in-milliardenhoehe-a-cec30e05-f93a-426b-a536-70f5b1655abf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland](https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland-a-ca18928c-d9bd-46ec-b621-48ab13b3c38c#ref=rss)
-### klimawandel
-
-* [https://www.spiegel.de/wirtschaft/oekologischer-umbau-waldbesitzer-fordern-unterstuetzung-in-milliardenhoehe](https://www.spiegel.de/wirtschaft/oekologischer-umbau-waldbesitzer-fordern-unterstuetzung-in-milliardenhoehe-a-cec30e05-f93a-426b-a536-70f5b1655abf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland](https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland-a-ca18928c-d9bd-46ec-b621-48ab13b3c38c#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/wirtschaft/oekologischer-umbau-waldbesitzer-fordern-unterstuetzung-in-milliardenhoehe](https://www.spiegel.de/wirtschaft/oekologischer-umbau-waldbesitzer-fordern-unterstuetzung-in-milliardenhoehe-a-cec30e05-f93a-426b-a536-70f5b1655abf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend](https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend-a-87a894f0-1a46-45be-8785-e262e2c40170#ref=rss)
-### spiralen
-
-* [https://www.spiegel.de/panorama/gesellschaft/spiralen-aus-daenemark-groenlaenderinnen-sollen-unter-zwangsverhuetung-gelitten-haben](https://www.spiegel.de/panorama/gesellschaft/spiralen-aus-daenemark-groenlaenderinnen-sollen-unter-zwangsverhuetung-gelitten-haben-a-cbbb2c2a-21fd-4e85-919e-0b799cc216ea#ref=rss)
-### grönländerinnen
-
-* [https://www.spiegel.de/panorama/gesellschaft/spiralen-aus-daenemark-groenlaenderinnen-sollen-unter-zwangsverhuetung-gelitten-haben](https://www.spiegel.de/panorama/gesellschaft/spiralen-aus-daenemark-groenlaenderinnen-sollen-unter-zwangsverhuetung-gelitten-haben-a-cbbb2c2a-21fd-4e85-919e-0b799cc216ea#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/gesellschaft/spiralen-aus-daenemark-groenlaenderinnen-sollen-unter-zwangsverhuetung-gelitten-haben](https://www.spiegel.de/panorama/gesellschaft/spiralen-aus-daenemark-groenlaenderinnen-sollen-unter-zwangsverhuetung-gelitten-haben-a-cbbb2c2a-21fd-4e85-919e-0b799cc216ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/chinas-wirtschaft-leidet-unter-den-kosten-der-null-covid-strategie](https://www.spiegel.de/wirtschaft/chinas-wirtschaft-leidet-unter-den-kosten-der-null-covid-strategie-a-d02a32c2-3648-4600-8325-e0ab376cd8bc#ref=rss)
-### grüne
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land](https://www.spiegel.de/politik/deutschland/landtagswahl-nrw-2022-wahlkarte-und-ergebnisse-der-parteien-in-stadt-und-land-a-c4c3bc59-5847-459b-a8d4-9d09fcd65f0e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg-a-a0f0f179-794b-40ae-b0cc-357ecc25ea7a#ref=rss)
-### ergebnis
-
-* [https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream](https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream-a-e7d24b1c-0924-4832-9c3e-9533b7111431#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet](https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet-a-a4bf1229-37be-4f5b-bc81-88945ee65993#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream](https://www.spiegel.de/politik/nrw-wie-geht-die-spd-mit-der-niederlage-bei-der-landtagswahl-um-livestream-a-e7d24b1c-0924-4832-9c3e-9533b7111431#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kevin-kuehnert-wiegelt-kritik-an-olaf-scholz-nach-spd-niederlage-ab](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kevin-kuehnert-wiegelt-kritik-an-olaf-scholz-nach-spd-niederlage-ab-a-9f87dd32-5d49-4724-8ee6-39f00dd6d7ad#ref=rss)
-### fleisch
-
-* [https://www.spiegel.de/stil/rezept-fuer-batata-harra-scharfe-sommer-kartoffeln-aus-dem-libanon](https://www.spiegel.de/stil/rezept-fuer-batata-harra-scharfe-sommer-kartoffeln-aus-dem-libanon-a-7c52fa11-f96d-46a4-a512-d1a6277c4e71#ref=rss)
-### alle
-
-* [https://www.spiegel.de/stil/rezept-fuer-batata-harra-scharfe-sommer-kartoffeln-aus-dem-libanon](https://www.spiegel.de/stil/rezept-fuer-batata-harra-scharfe-sommer-kartoffeln-aus-dem-libanon-a-7c52fa11-f96d-46a4-a512-d1a6277c4e71#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-maskenpflicht-gilt-in-flugzeugen-von-und-nach-deutschland-trotz-eu-empfehlung-weiter](https://www.spiegel.de/politik/deutschland/corona-maskenpflicht-gilt-in-flugzeugen-von-und-nach-deutschland-trotz-eu-empfehlung-weiter-a-2164053a-867e-4c69-9f01-55214594a881#ref=rss)
-### relegation
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-in-der-relegation-die-entdeckung-des-widerstandes](https://www.spiegel.de/sport/fussball/hamburger-sv-in-der-relegation-die-entdeckung-des-widerstandes-a-f643cf4d-7e85-4aa1-b45e-66ae7c5d5faf#ref=rss)
-### aufstieg
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-in-der-relegation-die-entdeckung-des-widerstandes](https://www.spiegel.de/sport/fussball/hamburger-sv-in-der-relegation-die-entdeckung-des-widerstandes-a-f643cf4d-7e85-4aa1-b45e-66ae7c5d5faf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/werder-bremen-und-der-aufstieg-schuld-und-siege](https://www.spiegel.de/sport/fussball/werder-bremen-und-der-aufstieg-schuld-und-siege-a-cba6b1c2-c3c2-4b6c-818f-9137c6e1f7c8#ref=rss)
-### schien
-
-* [https://www.spiegel.de/sport/fussball/hamburger-sv-in-der-relegation-die-entdeckung-des-widerstandes](https://www.spiegel.de/sport/fussball/hamburger-sv-in-der-relegation-die-entdeckung-des-widerstandes-a-f643cf4d-7e85-4aa1-b45e-66ae7c5d5faf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/werder-bremen-und-der-aufstieg-schuld-und-siege](https://www.spiegel.de/sport/fussball/werder-bremen-und-der-aufstieg-schuld-und-siege-a-cba6b1c2-c3c2-4b6c-818f-9137c6e1f7c8#ref=rss)
-### eukommission
-
-* [https://www.spiegel.de/wirtschaft/eu-kommission-senkt-prognose-fuer-wirtschaftswachstum-auf-2-7-prozent](https://www.spiegel.de/wirtschaft/eu-kommission-senkt-prognose-fuer-wirtschaftswachstum-auf-2-7-prozent-a-7fbdb0fc-ab5c-45ae-8e0b-6904b89ac2b9#ref=rss)
-### 27
-
-* [https://www.spiegel.de/wirtschaft/eu-kommission-senkt-prognose-fuer-wirtschaftswachstum-auf-2-7-prozent](https://www.spiegel.de/wirtschaft/eu-kommission-senkt-prognose-fuer-wirtschaftswachstum-auf-2-7-prozent-a-7fbdb0fc-ab5c-45ae-8e0b-6904b89ac2b9#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/wirtschaft/eu-kommission-senkt-prognose-fuer-wirtschaftswachstum-auf-2-7-prozent](https://www.spiegel.de/wirtschaft/eu-kommission-senkt-prognose-fuer-wirtschaftswachstum-auf-2-7-prozent-a-7fbdb0fc-ab5c-45ae-8e0b-6904b89ac2b9#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch](https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch-a-a5142dfc-0dfd-4f9a-ac17-565c8145c821#ref=rss)
-### wählerwanderung
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg-a-a0f0f179-794b-40ae-b0cc-357ecc25ea7a#ref=rss)
-### konnte
-
-* [https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg](https://www.spiegel.de/politik/deutschland/landtagswahl-in-nordrhein-westfalen-waehlerwanderung-so-kamen-gruene-und-cdu-zu-ihrem-sieg-a-a0f0f179-794b-40ae-b0cc-357ecc25ea7a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab](https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab-a-0f20fcac-e8ee-486f-8832-dba003afc9e1#ref=rss)
-### renault
-
-* [https://www.spiegel.de/wirtschaft/renault-ueberlaesst-lada-hersteller-avtovaz-dem-russischen-staat](https://www.spiegel.de/wirtschaft/renault-ueberlaesst-lada-hersteller-avtovaz-dem-russischen-staat-a-654bc4b4-02f8-4469-8e46-7642f0013bfa#ref=rss)
-### avtovaz
-
-* [https://www.spiegel.de/wirtschaft/renault-ueberlaesst-lada-hersteller-avtovaz-dem-russischen-staat](https://www.spiegel.de/wirtschaft/renault-ueberlaesst-lada-hersteller-avtovaz-dem-russischen-staat-a-654bc4b4-02f8-4469-8e46-7642f0013bfa#ref=rss)
-### billboard
-
-* [https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab](https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab-a-0f20fcac-e8ee-486f-8832-dba003afc9e1#ref=rss)
-### music
-
-* [https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab](https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab-a-0f20fcac-e8ee-486f-8832-dba003afc9e1#ref=rss)
-### awards
-
-* [https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab](https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab-a-0f20fcac-e8ee-486f-8832-dba003afc9e1#ref=rss)
-### olivia
-
-* [https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab](https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab-a-0f20fcac-e8ee-486f-8832-dba003afc9e1#ref=rss)
-### rodrigo
-
-* [https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab](https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab-a-0f20fcac-e8ee-486f-8832-dba003afc9e1#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab](https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab-a-0f20fcac-e8ee-486f-8832-dba003afc9e1#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus](https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus-a-a155872b-d96d-4a54-8a44-1dabfafc67ab#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab](https://www.spiegel.de/kultur/musik/billboard-music-awards-olivia-rodrigo-raeumt-sieben-trophaeen-ab-a-0f20fcac-e8ee-486f-8832-dba003afc9e1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nrw-wahl-was-fuer-schwarz-gruen-spricht-und-was-dagegen](https://www.spiegel.de/politik/deutschland/nrw-wahl-was-fuer-schwarz-gruen-spricht-und-was-dagegen-a-04ababb0-ad59-4494-a453-8c4f5e8e87f3#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet](https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet-a-a4bf1229-37be-4f5b-bc81-88945ee65993#ref=rss)
-### parteichef
-
-* [https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet](https://www.spiegel.de/politik/deutschland/fdp-in-nordrhein-westfalen-das-fdp-desaster-und-was-es-fuer-lindner-bedeutet-a-a4bf1229-37be-4f5b-bc81-88945ee65993#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend](https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend-a-87a894f0-1a46-45be-8785-e262e2c40170#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/sport/fussball/werder-bremen-und-der-aufstieg-schuld-und-siege](https://www.spiegel.de/sport/fussball/werder-bremen-und-der-aufstieg-schuld-und-siege-a-cba6b1c2-c3c2-4b6c-818f-9137c6e1f7c8#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/sport/fussball/werder-bremen-und-der-aufstieg-schuld-und-siege](https://www.spiegel.de/sport/fussball/werder-bremen-und-der-aufstieg-schuld-und-siege-a-cba6b1c2-c3c2-4b6c-818f-9137c6e1f7c8#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-gibt-wichtige-gebiete-in-luhansk-nicht-auf](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-gibt-wichtige-gebiete-in-luhansk-nicht-auf-a-d0dae6f7-d10d-4314-a3c9-6c344cd062ab#ref=rss)
-### maskenpflicht
-
-* [https://www.spiegel.de/politik/deutschland/corona-maskenpflicht-gilt-in-flugzeugen-von-und-nach-deutschland-trotz-eu-empfehlung-weiter](https://www.spiegel.de/politik/deutschland/corona-maskenpflicht-gilt-in-flugzeugen-von-und-nach-deutschland-trotz-eu-empfehlung-weiter-a-2164053a-867e-4c69-9f01-55214594a881#ref=rss)
-### flugzeugen
-
-* [https://www.spiegel.de/politik/deutschland/corona-maskenpflicht-gilt-in-flugzeugen-von-und-nach-deutschland-trotz-eu-empfehlung-weiter](https://www.spiegel.de/politik/deutschland/corona-maskenpflicht-gilt-in-flugzeugen-von-und-nach-deutschland-trotz-eu-empfehlung-weiter-a-2164053a-867e-4c69-9f01-55214594a881#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch](https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch-a-a5142dfc-0dfd-4f9a-ac17-565c8145c821#ref=rss)
-### meldet
-
-* [https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch](https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch-a-a5142dfc-0dfd-4f9a-ac17-565c8145c821#ref=rss)
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-gibt-wichtige-gebiete-in-luhansk-nicht-auf](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-gibt-wichtige-gebiete-in-luhansk-nicht-auf-a-d0dae6f7-d10d-4314-a3c9-6c344cd062ab#ref=rss)
-### 50
-
-* [https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch](https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch-a-a5142dfc-0dfd-4f9a-ac17-565c8145c821#ref=rss)
-### tote
-
-* [https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch](https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch-a-a5142dfc-0dfd-4f9a-ac17-565c8145c821#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch](https://www.spiegel.de/ausland/nordkorea-pjoengjang-meldet-50-tote-nach-corona-ausbruch-a-a5142dfc-0dfd-4f9a-ac17-565c8145c821#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland](https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland-a-ca18928c-d9bd-46ec-b621-48ab13b3c38c#ref=rss)
-### kevin
-
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kevin-kuehnert-wiegelt-kritik-an-olaf-scholz-nach-spd-niederlage-ab](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kevin-kuehnert-wiegelt-kritik-an-olaf-scholz-nach-spd-niederlage-ab-a-9f87dd32-5d49-4724-8ee6-39f00dd6d7ad#ref=rss)
-### kühnert
-
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kevin-kuehnert-wiegelt-kritik-an-olaf-scholz-nach-spd-niederlage-ab](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-kevin-kuehnert-wiegelt-kritik-an-olaf-scholz-nach-spd-niederlage-ab-a-9f87dd32-5d49-4724-8ee6-39f00dd6d7ad#ref=rss)
-### wahlsieg
-
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel-a-7058e3ed-f559-4b61-9461-140f903da8e6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend](https://www.spiegel.de/politik/deutschland/cdu-sieg-in-nrw-friedrich-merz-und-sein-fast-perfekter-abend-a-87a894f0-1a46-45be-8785-e262e2c40170#ref=rss)
-### meisten
-
-* [https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel](https://www.spiegel.de/politik/deutschland/nordrhein-westfalen-die-landtagswahl-im-pressespiegel-a-7058e3ed-f559-4b61-9461-140f903da8e6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland](https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland-a-ca18928c-d9bd-46ec-b621-48ab13b3c38c#ref=rss)
-### dallas
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus](https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus-a-a155872b-d96d-4a54-8a44-1dabfafc67ab#ref=rss)
-### mavericks
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus](https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus-a-a155872b-d96d-4a54-8a44-1dabfafc67ab#ref=rss)
-### suns
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus](https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus-a-a155872b-d96d-4a54-8a44-1dabfafc67ab#ref=rss)
-### celtics
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus](https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus-a-a155872b-d96d-4a54-8a44-1dabfafc67ab#ref=rss)
-### milwaukee
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus](https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus-a-a155872b-d96d-4a54-8a44-1dabfafc67ab#ref=rss)
-### bucks
-
-* [https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus](https://www.spiegel.de/sport/basketball/nba-playoffs-dallas-mavericks-besiegen-phoenix-suns-boston-celtics-werfen-milwaukee-bucks-raus-a-a155872b-d96d-4a54-8a44-1dabfafc67ab#ref=rss)
-### schwanau
-
-* [https://www.spiegel.de/panorama/gesellschaft/schwanau-gemeinde-waehlt-buergermeister-der-gar-nicht-kandidieren-wollte](https://www.spiegel.de/panorama/gesellschaft/schwanau-gemeinde-waehlt-buergermeister-der-gar-nicht-kandidieren-wollte-a-086320c1-ada8-497d-98e9-987d1720756f#ref=rss)
-### inflation
-
-* [https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland](https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland-a-ca18928c-d9bd-46ec-b621-48ab13b3c38c#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland](https://www.spiegel.de/wirtschaft/umfrage-inflation-ist-die-groesste-sorge-der-menschen-in-deutschland-a-ca18928c-d9bd-46ec-b621-48ab13b3c38c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-die-aera-paul-achleitner-geht-zu-ende](https://www.spiegel.de/wirtschaft/deutsche-bank-die-aera-paul-achleitner-geht-zu-ende-a-5e8b3ee2-3d96-4687-abe6-ddf6d02e58ae#ref=rss)
-### bank
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-die-aera-paul-achleitner-geht-zu-ende](https://www.spiegel.de/wirtschaft/deutsche-bank-die-aera-paul-achleitner-geht-zu-ende-a-5e8b3ee2-3d96-4687-abe6-ddf6d02e58ae#ref=rss)
-### paul
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-die-aera-paul-achleitner-geht-zu-ende](https://www.spiegel.de/wirtschaft/deutsche-bank-die-aera-paul-achleitner-geht-zu-ende-a-5e8b3ee2-3d96-4687-abe6-ddf6d02e58ae#ref=rss)
-### achleitner
-
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-die-aera-paul-achleitner-geht-zu-ende](https://www.spiegel.de/wirtschaft/deutsche-bank-die-aera-paul-achleitner-geht-zu-ende-a-5e8b3ee2-3d96-4687-abe6-ddf6d02e58ae#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
 ### natobeitritt
 
-* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-gibt-wichtige-gebiete-in-luhansk-nicht-auf](https://www.spiegel.de/ausland/krieg-in-der-ukraine-kiew-gibt-wichtige-gebiete-in-luhansk-nicht-auf-a-d0dae6f7-d10d-4314-a3c9-6c344cd062ab#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt-a-aa70dbea-a67d-41d8-a1fc-813b8549355c#ref=rss)
+### finnland
+
+* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
+### nato
+
+* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen](https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen-a-f4da4ea9-8fbd-4fe5-8378-58080aced4a0#ref=rss)
+### länder
+
+* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
+### josef
+
+* [https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab](https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab-a-b60217b4-0872-437f-becc-35565d9c6a80#ref=rss)
+### joffe
+
+* [https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab](https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab-a-b60217b4-0872-437f-becc-35565d9c6a80#ref=rss)
+### zeitmitherausgeber
+
+* [https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab](https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab-a-b60217b4-0872-437f-becc-35565d9c6a80#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab](https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab-a-b60217b4-0872-437f-becc-35565d9c6a80#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar](https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar-a-582bd666-fd57-4a7f-99fc-a5e40d88d5b1#ref=rss)
+### blitz
+
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-mann-in-essen-vom-blitz-getroffen-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/nordrhein-westfalen-mann-in-essen-vom-blitz-getroffen-lebensgefaehrlich-verletzt-a-9d39d912-85c6-45be-a2c2-c0d5e13364ab#ref=rss)
+### getroffen
+
+* [https://www.spiegel.de/panorama/nordrhein-westfalen-mann-in-essen-vom-blitz-getroffen-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/nordrhein-westfalen-mann-in-essen-vom-blitz-getroffen-lebensgefaehrlich-verletzt-a-9d39d912-85c6-45be-a2c2-c0d5e13364ab#ref=rss)
+### phosphorbomben
+
+* [https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt](https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt-a-f7a42805-d8da-475f-a11a-d514eb47a6e8#ref=rss)
+### beschuss
+
+* [https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt](https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt-a-f7a42805-d8da-475f-a11a-d514eb47a6e8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen](https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen-a-dc04d27f-4042-43c7-b84e-71ee879437cb#ref=rss)
+### ausnahmezustand
+
+* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
+### el
+
+* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
+### salvador
+
+* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
+### fest
+
+* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
+* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
+### macht
+
+* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
+* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
+### ärmelkanal
+
+* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
+### höchstwert
+
+* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
+### wochenende
+
+* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
+* [https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer](https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer-a-9a1c0bd2-53ff-4c17-8050-3c07908de9b6#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
+### erreicht
+
+* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/bodenverdichtung-traktoren-und-maehdrescher-werden-zu-schwer](https://www.spiegel.de/wissenschaft/natur/bodenverdichtung-traktoren-und-maehdrescher-werden-zu-schwer-a-faf44514-2b44-4f59-bd8f-4e1435b9512b#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa](https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa-a-9f52d0ec-b54b-4c33-90ed-e32b2cc32177#ref=rss)
+### élisabeth
+
+* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
+### borne
+
+* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
+### neue
+
+* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
+* [https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen](https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen-a-71cfcb00-af14-4414-8496-7b56913d7ef8#ref=rss)
+### 30
+
+* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
+* [https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern](https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern-a-75fcead7-1bed-4cbe-b331-660c97d9b6c0#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen](https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen-a-f4da4ea9-8fbd-4fe5-8378-58080aced4a0#ref=rss)
+### frankreichs
+
+* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
+* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
+### folgt
+
+* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte](https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte-a-6aadfc5d-e31f-47dd-9f17-0cb5fd0e2a32#ref=rss)
+### macron
+
+* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
+* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
+### nkunku
+
+* [https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt](https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt-a-3497c93d-e9af-41c8-a4a9-90f0399ad54a#ref=rss)
+### spieler
+
+* [https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt](https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt-a-3497c93d-e9af-41c8-a4a9-90f0399ad54a#ref=rss)
+### saison
+
+* [https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt](https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt-a-3497c93d-e9af-41c8-a4a9-90f0399ad54a#ref=rss)
+### gewählt
+
+* [https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt](https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt-a-3497c93d-e9af-41c8-a4a9-90f0399ad54a#ref=rss)
+### stiftung
+
+* [https://www.spiegel.de/auto/kinderfahrrad-stiftung-warentest-bewertet-fuenf-von-zwoelf-modelle-als-mangelhaft](https://www.spiegel.de/auto/kinderfahrrad-stiftung-warentest-bewertet-fuenf-von-zwoelf-modelle-als-mangelhaft-a-04a20071-5221-4ef8-8353-a37f81b14d3c#ref=rss)
+### warentest
+
+* [https://www.spiegel.de/auto/kinderfahrrad-stiftung-warentest-bewertet-fuenf-von-zwoelf-modelle-als-mangelhaft](https://www.spiegel.de/auto/kinderfahrrad-stiftung-warentest-bewertet-fuenf-von-zwoelf-modelle-als-mangelhaft-a-04a20071-5221-4ef8-8353-a37f81b14d3c#ref=rss)
+### sixt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt-a-aa70dbea-a67d-41d8-a1fc-813b8549355c#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt-a-aa70dbea-a67d-41d8-a1fc-813b8549355c#ref=rss)
+* [https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern](https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern-a-75fcead7-1bed-4cbe-b331-660c97d9b6c0#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro](https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro-a-cad7b949-0e94-4eaf-beaf-4f02475fe1a8#ref=rss)
+### euro
+
+* [https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro](https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro-a-cad7b949-0e94-4eaf-beaf-4f02475fe1a8#ref=rss)
+* [https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte](https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte-a-d9ff3c0e-6b4c-4ff7-9042-de452bce100c#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro](https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro-a-cad7b949-0e94-4eaf-beaf-4f02475fe1a8#ref=rss)
+* [https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen](https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen-a-71cfcb00-af14-4414-8496-7b56913d7ef8#ref=rss)
+### schulz
+
+* [https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich](https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich-a-d4ed0cb8-6b8c-4f4a-a192-b17272e94dcd#ref=rss)
+### premierminister
+
+* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa](https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa-a-9f52d0ec-b54b-4c33-90ed-e32b2cc32177#ref=rss)
+### fernverkehr
+
+* [https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer](https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer-a-9a1c0bd2-53ff-4c17-8050-3c07908de9b6#ref=rss)
+### läuft
+
+* [https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer](https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer-a-9a1c0bd2-53ff-4c17-8050-3c07908de9b6#ref=rss)
+### alles
+
+* [https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer](https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer-a-9a1c0bd2-53ff-4c17-8050-3c07908de9b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte](https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte-a-6aadfc5d-e31f-47dd-9f17-0cb5fd0e2a32#ref=rss)
+### ehemann
+
+* [https://www.spiegel.de/panorama/justiz/32-jaehrige-erstochen-und-von-lkw-ueberfahren-ehemann-soll-seine-frau-aus-rache-ermordet-haben](https://www.spiegel.de/panorama/justiz/32-jaehrige-erstochen-und-von-lkw-ueberfahren-ehemann-soll-seine-frau-aus-rache-ermordet-haben-a-5447b814-f685-4bd4-b80e-a2d1fd077644#ref=rss)
+### einsatz
+
+* [https://www.spiegel.de/wissenschaft/natur/bodenverdichtung-traktoren-und-maehdrescher-werden-zu-schwer](https://www.spiegel.de/wissenschaft/natur/bodenverdichtung-traktoren-und-maehdrescher-werden-zu-schwer-a-faf44514-2b44-4f59-bd8f-4e1435b9512b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen](https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen-a-dc04d27f-4042-43c7-b84e-71ee879437cb#ref=rss)
+### nehmen
+
+* [https://www.spiegel.de/gesundheit/diagnose/grippe-bei-kindern-mit-zunehmenden-lockerungen-erleiden-kinder-jetzt-diese-infektionen](https://www.spiegel.de/gesundheit/diagnose/grippe-bei-kindern-mit-zunehmenden-lockerungen-erleiden-kinder-jetzt-diese-infektionen-a-beb50f76-496f-4fd5-b392-dd681211ea00#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
+### experte
+
+* [https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen](https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen-a-dc04d27f-4042-43c7-b84e-71ee879437cb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte](https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte-a-6aadfc5d-e31f-47dd-9f17-0cb5fd0e2a32#ref=rss)
+### neuneuroticket
+
+* [https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern](https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern-a-75fcead7-1bed-4cbe-b331-660c97d9b6c0#ref=rss)
+* [https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte](https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte-a-d9ff3c0e-6b4c-4ff7-9042-de452bce100c#ref=rss)
+### juni
+
+* [https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern](https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern-a-75fcead7-1bed-4cbe-b331-660c97d9b6c0#ref=rss)
+* [https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte](https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte-a-d9ff3c0e-6b4c-4ff7-9042-de452bce100c#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen](https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen-a-71cfcb00-af14-4414-8496-7b56913d7ef8#ref=rss)
+### lahm
+
+* [https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen](https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen-a-71cfcb00-af14-4414-8496-7b56913d7ef8#ref=rss)
+### buch
+
+* [https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen](https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen-a-71cfcb00-af14-4414-8496-7b56913d7ef8#ref=rss)
+### darin
+
+* [https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen](https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen-a-71cfcb00-af14-4414-8496-7b56913d7ef8#ref=rss)
+* [https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt](https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt-a-75eb6576-baaa-4124-8467-778d041b9a1a#ref=rss)
+### paris
+
+* [https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris](https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris-a-b44ac028-54ec-4228-a763-9737d90cd617#ref=rss)
+### krise
+
+* [https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte](https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte-a-6aadfc5d-e31f-47dd-9f17-0cb5fd0e2a32#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte](https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte-a-6aadfc5d-e31f-47dd-9f17-0cb5fd0e2a32#ref=rss)
+* [https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt](https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt-a-75eb6576-baaa-4124-8467-778d041b9a1a#ref=rss)
+### folge
+
+* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar](https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar-a-582bd666-fd57-4a7f-99fc-a5e40d88d5b1#ref=rss)
+### nika
+
+* [https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt](https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt-a-75eb6576-baaa-4124-8467-778d041b9a1a#ref=rss)
+### gwaramia
+
+* [https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt](https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt-a-75eb6576-baaa-4124-8467-778d041b9a1a#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte](https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte-a-d9ff3c0e-6b4c-4ff7-9042-de452bce100c#ref=rss)
+### bezahlt
+
+* [https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte](https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte-a-d9ff3c0e-6b4c-4ff7-9042-de452bce100c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar](https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar-a-582bd666-fd57-4a7f-99fc-a5e40d88d5b1#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar](https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar-a-582bd666-fd57-4a7f-99fc-a5e40d88d5b1#ref=rss)
 
