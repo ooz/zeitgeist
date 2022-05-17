@@ -6,329 +6,317 @@ tags: __no_header__
 
 ### mehr
 
-* [https://www.spiegel.de/reise/corona-massnahmen-kommt-nun-das-ende-der-maskenpflicht-auf-flugreisen](https://www.spiegel.de/reise/corona-massnahmen-kommt-nun-das-ende-der-maskenpflicht-auf-flugreisen-a-145b5d7c-e53d-4520-a70d-c49772e2fbd8#ref=rss)
-* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen](https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen-a-f4da4ea9-8fbd-4fe5-8378-58080aced4a0#ref=rss)
-* [https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern](https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern-a-75fcead7-1bed-4cbe-b331-660c97d9b6c0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt-a-aa70dbea-a67d-41d8-a1fc-813b8549355c#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen](https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen-a-f4da4ea9-8fbd-4fe5-8378-58080aced4a0#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
-* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
-* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
-* [https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris](https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris-a-b44ac028-54ec-4228-a763-9737d90cd617#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa](https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa-a-9f52d0ec-b54b-4c33-90ed-e32b2cc32177#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer](https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer-a-9a1c0bd2-53ff-4c17-8050-3c07908de9b6#ref=rss)
-* [https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris](https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris-a-b44ac028-54ec-4228-a763-9737d90cd617#ref=rss)
-### nrw
-
-* [https://www.spiegel.de/panorama/bildung/deutscher-kita-preis-geht-nach-heilbronn-und-arnsberg](https://www.spiegel.de/panorama/bildung/deutscher-kita-preis-geht-nach-heilbronn-und-arnsberg-a-de351b60-42f4-4205-b82a-a030d28a869a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt-a-aa70dbea-a67d-41d8-a1fc-813b8549355c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich](https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich-a-d4ed0cb8-6b8c-4f4a-a192-b17272e94dcd#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-mann-in-essen-vom-blitz-getroffen-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/nordrhein-westfalen-mann-in-essen-vom-blitz-getroffen-lebensgefaehrlich-verletzt-a-9d39d912-85c6-45be-a2c2-c0d5e13364ab#ref=rss)
-* [https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris](https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris-a-b44ac028-54ec-4228-a763-9737d90cd617#ref=rss)
-### russland
-
-* [https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt](https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt-a-f7a42805-d8da-475f-a11a-d514eb47a6e8#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen](https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen-a-f4da4ea9-8fbd-4fe5-8378-58080aced4a0#ref=rss)
-* [https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro](https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro-a-cad7b949-0e94-4eaf-beaf-4f02475fe1a8#ref=rss)
-### mariupol
-
-* [https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt](https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt-a-f7a42805-d8da-475f-a11a-d514eb47a6e8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen](https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen-a-dc04d27f-4042-43c7-b84e-71ee879437cb#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt](https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt-a-f7a42805-d8da-475f-a11a-d514eb47a6e8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen](https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen-a-dc04d27f-4042-43c7-b84e-71ee879437cb#ref=rss)
-### experten
-
-* [https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt](https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt-a-f7a42805-d8da-475f-a11a-d514eb47a6e8#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen](https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen-a-f4da4ea9-8fbd-4fe5-8378-58080aced4a0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa](https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa-a-9f52d0ec-b54b-4c33-90ed-e32b2cc32177#ref=rss)
+* [https://www.spiegel.de/panorama/leute/joerg-pilawa-ard-moderator-und-seine-frau-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/joerg-pilawa-ard-moderator-und-seine-frau-haben-sich-getrennt-a-5f38c067-176d-46e3-9412-ffbd69763a00#ref=rss)
+* [https://www.spiegel.de/ausland/libanon-hisbollah-block-verliert-mehrheit-im-parlament](https://www.spiegel.de/ausland/libanon-hisbollah-block-verliert-mehrheit-im-parlament-a-6e42ad0b-7902-4f1d-b8a9-b29bef4fc065#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-jake-daniels-vom-fc-blackpool-macht-seine-homosexualitaet-oeffentlich](https://www.spiegel.de/sport/fussball/fussball-jake-daniels-vom-fc-blackpool-macht-seine-homosexualitaet-oeffentlich-a-dadda36b-ea4e-48f0-85a1-84cca819b631#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert](https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert-a-abcdba74-1e0c-4030-9c44-9b83e6d4ff69#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei](https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei-a-2f6541af-42f3-497e-bbad-846d0bcd55ee#ref=rss)
 ### frau
 
-* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/32-jaehrige-erstochen-und-von-lkw-ueberfahren-ehemann-soll-seine-frau-aus-rache-ermordet-haben](https://www.spiegel.de/panorama/justiz/32-jaehrige-erstochen-und-von-lkw-ueberfahren-ehemann-soll-seine-frau-aus-rache-ermordet-haben-a-5447b814-f685-4bd4-b80e-a2d1fd077644#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
-* [https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt](https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt-a-75eb6576-baaa-4124-8467-778d041b9a1a#ref=rss)
-### jean
-
-* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
-* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
-### castex
-
-* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
-* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
-### nrwwahl
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt-a-aa70dbea-a67d-41d8-a1fc-813b8549355c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich](https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich-a-d4ed0cb8-6b8c-4f4a-a192-b17272e94dcd#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich](https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich-a-d4ed0cb8-6b8c-4f4a-a192-b17272e94dcd#ref=rss)
-### jury
-
-* [https://www.spiegel.de/panorama/bildung/deutscher-kita-preis-geht-nach-heilbronn-und-arnsberg](https://www.spiegel.de/panorama/bildung/deutscher-kita-preis-geht-nach-heilbronn-und-arnsberg-a-de351b60-42f4-4205-b82a-a030d28a869a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt](https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt-a-3497c93d-e9af-41c8-a4a9-90f0399ad54a#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/bildung/deutscher-kita-preis-geht-nach-heilbronn-und-arnsberg](https://www.spiegel.de/panorama/bildung/deutscher-kita-preis-geht-nach-heilbronn-und-arnsberg-a-de351b60-42f4-4205-b82a-a030d28a869a#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/grippe-bei-kindern-mit-zunehmenden-lockerungen-erleiden-kinder-jetzt-diese-infektionen](https://www.spiegel.de/gesundheit/diagnose/grippe-bei-kindern-mit-zunehmenden-lockerungen-erleiden-kinder-jetzt-diese-infektionen-a-beb50f76-496f-4fd5-b392-dd681211ea00#ref=rss)
-### erdoğan
-
-* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
-### natobeitritt
-
-* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt-a-aa70dbea-a67d-41d8-a1fc-813b8549355c#ref=rss)
-### finnland
-
-* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
-### nato
-
-* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen](https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen-a-f4da4ea9-8fbd-4fe5-8378-58080aced4a0#ref=rss)
-### länder
-
-* [https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage](https://www.spiegel.de/ausland/tuerkei-praesident-recep-tayyip-erdogan-erteilt-nato-beitritt-von-schweden-und-finnland-eine-absage-a-b941b465-6841-4163-8025-079283e9e2f5#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
-### josef
-
-* [https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab](https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab-a-b60217b4-0872-437f-becc-35565d9c6a80#ref=rss)
-### joffe
-
-* [https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab](https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab-a-b60217b4-0872-437f-becc-35565d9c6a80#ref=rss)
-### zeitmitherausgeber
-
-* [https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab](https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab-a-b60217b4-0872-437f-becc-35565d9c6a80#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab](https://www.spiegel.de/kultur/josef-joffe-zeit-herausgeber-dankt-ab-a-b60217b4-0872-437f-becc-35565d9c6a80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar](https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar-a-582bd666-fd57-4a7f-99fc-a5e40d88d5b1#ref=rss)
-### blitz
-
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-mann-in-essen-vom-blitz-getroffen-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/nordrhein-westfalen-mann-in-essen-vom-blitz-getroffen-lebensgefaehrlich-verletzt-a-9d39d912-85c6-45be-a2c2-c0d5e13364ab#ref=rss)
-### getroffen
-
-* [https://www.spiegel.de/panorama/nordrhein-westfalen-mann-in-essen-vom-blitz-getroffen-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/nordrhein-westfalen-mann-in-essen-vom-blitz-getroffen-lebensgefaehrlich-verletzt-a-9d39d912-85c6-45be-a2c2-c0d5e13364ab#ref=rss)
-### phosphorbomben
-
-* [https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt](https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt-a-f7a42805-d8da-475f-a11a-d514eb47a6e8#ref=rss)
-### beschuss
-
-* [https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt](https://www.spiegel.de/wissenschaft/technik/asow-stahlwerk-hat-russland-wirklich-phosphorbomben-eingesetzt-a-f7a42805-d8da-475f-a11a-d514eb47a6e8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen](https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen-a-dc04d27f-4042-43c7-b84e-71ee879437cb#ref=rss)
-### ausnahmezustand
-
-* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
-### el
-
-* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
-### salvador
-
-* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
-### fest
-
-* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
-* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
-### macht
-
-* [https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest](https://www.spiegel.de/panorama/ausnahmezustand-in-el-salvador-polizei-nimmt-zehntausende-bandenmitglieder-fest-a-8dd1e082-57f7-40c6-9eeb-39ff07ae9a31#ref=rss)
-* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
-### ärmelkanal
-
-* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
-### höchstwert
-
-* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
-### wochenende
-
-* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
-* [https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer](https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer-a-9a1c0bd2-53ff-4c17-8050-3c07908de9b6#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
-### erreicht
-
-* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/bodenverdichtung-traktoren-und-maehdrescher-werden-zu-schwer](https://www.spiegel.de/wissenschaft/natur/bodenverdichtung-traktoren-und-maehdrescher-werden-zu-schwer-a-faf44514-2b44-4f59-bd8f-4e1435b9512b#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert](https://www.spiegel.de/ausland/aermelkanal-113-menschen-aus-seenot-gerettet-migrationszahlen-vor-neuem-hoechstwert-a-ca80b273-d1c2-41fb-a4f6-add7118638f7#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa](https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa-a-9f52d0ec-b54b-4c33-90ed-e32b2cc32177#ref=rss)
-### élisabeth
-
-* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
-### borne
-
-* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
-* [https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen](https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen-a-71cfcb00-af14-4414-8496-7b56913d7ef8#ref=rss)
-### 30
-
-* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
-* [https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern](https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern-a-75fcead7-1bed-4cbe-b331-660c97d9b6c0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/muenchen-frau-mit-3-3-promille-faehrt-auto-in-parkhaus-zu-schrott](https://www.spiegel.de/panorama/justiz/muenchen-frau-mit-3-3-promille-faehrt-auto-in-parkhaus-zu-schrott-a-4d189074-9f01-4055-8b9a-175e02ee610c#ref=rss)
+* [https://www.spiegel.de/panorama/leute/joerg-pilawa-ard-moderator-und-seine-frau-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/joerg-pilawa-ard-moderator-und-seine-frau-haben-sich-getrennt-a-5f38c067-176d-46e3-9412-ffbd69763a00#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie](https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie-a-72ba3583-33a5-4df5-9aaa-26b1b3beae49#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen](https://www.spiegel.de/ausland/schweden-will-in-die-nato-historische-kehrtwende-mit-bauchschmerzen-a-f4da4ea9-8fbd-4fe5-8378-58080aced4a0#ref=rss)
-### frankreichs
+* [https://www.spiegel.de/panorama/justiz/zara-phythian-sexueller-missbrauch-doctor-strange-schauspielerin-zu-acht-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/zara-phythian-sexueller-missbrauch-doctor-strange-schauspielerin-zu-acht-jahren-haft-verurteilt-a-7df74239-7618-4eb2-8a6b-05ae11532519#ref=rss)
+* [https://www.spiegel.de/kultur/tv/schauspieler-und-kabarettist-rainer-basedow-ist-tot](https://www.spiegel.de/kultur/tv/schauspieler-und-kabarettist-rainer-basedow-ist-tot-a-22664bb4-ed37-479d-acf0-4d8180d4797c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/ufo-anhoerung-im-us-kongress-was-von-der-sitzung-zu-erwarten-ist](https://www.spiegel.de/wissenschaft/weltall/ufo-anhoerung-im-us-kongress-was-von-der-sitzung-zu-erwarten-ist-a-51aa348e-a0ed-454a-b301-3c9be2aa340e#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie](https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie-a-72ba3583-33a5-4df5-9aaa-26b1b3beae49#ref=rss)
+### missbrauch
 
-* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
-* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
-### folgt
+* [https://www.spiegel.de/panorama/justiz/zara-phythian-sexueller-missbrauch-doctor-strange-schauspielerin-zu-acht-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/zara-phythian-sexueller-missbrauch-doctor-strange-schauspielerin-zu-acht-jahren-haft-verurteilt-a-7df74239-7618-4eb2-8a6b-05ae11532519#ref=rss)
+* [https://www.spiegel.de/sport/verein-athleten-deutschland-neue-anlaufstelle-bei-gewalt-und-missbrauch](https://www.spiegel.de/sport/verein-athleten-deutschland-neue-anlaufstelle-bei-gewalt-und-missbrauch-a-acf68651-0377-41c1-8c73-b23e559e08cd#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
-* [https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte](https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte-a-6aadfc5d-e31f-47dd-9f17-0cb5fd0e2a32#ref=rss)
-### macron
+* [https://www.spiegel.de/panorama/justiz/zara-phythian-sexueller-missbrauch-doctor-strange-schauspielerin-zu-acht-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/zara-phythian-sexueller-missbrauch-doctor-strange-schauspielerin-zu-acht-jahren-haft-verurteilt-a-7df74239-7618-4eb2-8a6b-05ae11532519#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/inflation-in-grossbritannien-zentralbankchef-sieht-apokalyptische-steigerungen](https://www.spiegel.de/wirtschaft/soziales/inflation-in-grossbritannien-zentralbankchef-sieht-apokalyptische-steigerungen-a-bf14b10b-340e-4cfd-ac10-9531b2d7df81#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin](https://www.spiegel.de/ausland/elisabeth-borne-bisherige-arbeitsministerin-wird-neue-franzoesische-premierministerin-a-e0d749bb-3f2c-49a6-8e06-de8291ca5189#ref=rss)
-* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
-### nkunku
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-dfb-ermittelt-gegen-stuermer-von-werder-bremen](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-dfb-ermittelt-gegen-stuermer-von-werder-bremen-a-8f8d7702-cc79-4c13-84df-4e9407b45f2f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-nach-terrorverdacht-weiterer-junger-mann-kurzzeitig-festgenommen](https://www.spiegel.de/panorama/justiz/essen-nach-terrorverdacht-weiterer-junger-mann-kurzzeitig-festgenommen-a-dc56ae76-9798-4498-86c6-50364e959e17#ref=rss)
+### gesetz
 
-* [https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt](https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt-a-3497c93d-e9af-41c8-a4a9-90f0399ad54a#ref=rss)
-### spieler
+* [https://www.spiegel.de/kultur/tv/schauspieler-und-kabarettist-rainer-basedow-ist-tot](https://www.spiegel.de/kultur/tv/schauspieler-und-kabarettist-rainer-basedow-ist-tot-a-22664bb4-ed37-479d-acf0-4d8180d4797c#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/langsames-internet-verbraucherschuetzer-fordern-bessere-entschaedigung](https://www.spiegel.de/netzwelt/netzpolitik/langsames-internet-verbraucherschuetzer-fordern-bessere-entschaedigung-a-1ded09de-3697-4015-a80f-bc8548b4caa8#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt](https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt-a-3497c93d-e9af-41c8-a4a9-90f0399ad54a#ref=rss)
-### saison
+* [https://www.spiegel.de/ausland/nato-streit-jean-asselborn-wirft-recep-tayyip-erdogan-basar-mentalitaet-vor](https://www.spiegel.de/ausland/nato-streit-jean-asselborn-wirft-recep-tayyip-erdogan-basar-mentalitaet-vor-a-d5b0140d-53aa-4e55-99bc-386165ab205a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei](https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei-a-2f6541af-42f3-497e-bbad-846d0bcd55ee#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt](https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt-a-3497c93d-e9af-41c8-a4a9-90f0399ad54a#ref=rss)
-### gewählt
+* [https://www.spiegel.de/panorama/justiz/san-diego-und-tijuana-us-ermittler-entdecken-geheimen-drogentunnel](https://www.spiegel.de/panorama/justiz/san-diego-und-tijuana-us-ermittler-entdecken-geheimen-drogentunnel-a-1c0ff273-f04f-4036-80f3-9120bc33b9cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/babymilch-in-den-usa-eltern-verzweifeln-am-mangel](https://www.spiegel.de/wirtschaft/babymilch-in-den-usa-eltern-verzweifeln-am-mangel-a-b79aae31-07af-401e-8e22-3cb56c223996#ref=rss)
+### macht
 
-* [https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt](https://www.spiegel.de/sport/fussball/nkunku-zum-spieler-der-saison-gewaehlt-a-3497c93d-e9af-41c8-a4a9-90f0399ad54a#ref=rss)
-### stiftung
+* [https://www.spiegel.de/wirtschaft/soziales/inflation-in-grossbritannien-zentralbankchef-sieht-apokalyptische-steigerungen](https://www.spiegel.de/wirtschaft/soziales/inflation-in-grossbritannien-zentralbankchef-sieht-apokalyptische-steigerungen-a-bf14b10b-340e-4cfd-ac10-9531b2d7df81#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-jake-daniels-vom-fc-blackpool-macht-seine-homosexualitaet-oeffentlich](https://www.spiegel.de/sport/fussball/fussball-jake-daniels-vom-fc-blackpool-macht-seine-homosexualitaet-oeffentlich-a-dadda36b-ea4e-48f0-85a1-84cca819b631#ref=rss)
+* [https://www.spiegel.de/ausland/libyen-anhaenger-der-rivalen-bekaempfen-sich-in-tripolis](https://www.spiegel.de/ausland/libyen-anhaenger-der-rivalen-bekaempfen-sich-in-tripolis-a-f7d5baab-f0f3-422b-8fb2-f39a338f56d8#ref=rss)
+### erste
 
-* [https://www.spiegel.de/auto/kinderfahrrad-stiftung-warentest-bewertet-fuenf-von-zwoelf-modelle-als-mangelhaft](https://www.spiegel.de/auto/kinderfahrrad-stiftung-warentest-bewertet-fuenf-von-zwoelf-modelle-als-mangelhaft-a-04a20071-5221-4ef8-8353-a37f81b14d3c#ref=rss)
-### warentest
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen-a-d1207cd3-7190-425f-b56e-750489c59a5c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-jake-daniels-vom-fc-blackpool-macht-seine-homosexualitaet-oeffentlich](https://www.spiegel.de/sport/fussball/fussball-jake-daniels-vom-fc-blackpool-macht-seine-homosexualitaet-oeffentlich-a-dadda36b-ea4e-48f0-85a1-84cca819b631#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie](https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie-a-72ba3583-33a5-4df5-9aaa-26b1b3beae49#ref=rss)
+### internet
 
-* [https://www.spiegel.de/auto/kinderfahrrad-stiftung-warentest-bewertet-fuenf-von-zwoelf-modelle-als-mangelhaft](https://www.spiegel.de/auto/kinderfahrrad-stiftung-warentest-bewertet-fuenf-von-zwoelf-modelle-als-mangelhaft-a-04a20071-5221-4ef8-8353-a37f81b14d3c#ref=rss)
-### sixt
+* [https://www.spiegel.de/netzwelt/netzpolitik/langsames-internet-verbraucherschuetzer-fordern-bessere-entschaedigung](https://www.spiegel.de/netzwelt/netzpolitik/langsames-internet-verbraucherschuetzer-fordern-bessere-entschaedigung-a-1ded09de-3697-4015-a80f-bc8548b4caa8#ref=rss)
+* [https://www.spiegel.de/ausland/buffalo-massaker-im-bundesstaat-new-york-amerikas-gefaehrlicher-replacement-kult](https://www.spiegel.de/ausland/buffalo-massaker-im-bundesstaat-new-york-amerikas-gefaehrlicher-replacement-kult-a-9f0f8a5d-ce5a-4cfb-8e50-f5e01f45aae1#ref=rss)
+### fordern
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt-a-aa70dbea-a67d-41d8-a1fc-813b8549355c#ref=rss)
-### folgen
+* [https://www.spiegel.de/netzwelt/netzpolitik/langsames-internet-verbraucherschuetzer-fordern-bessere-entschaedigung](https://www.spiegel.de/netzwelt/netzpolitik/langsames-internet-verbraucherschuetzer-fordern-bessere-entschaedigung-a-1ded09de-3697-4015-a80f-bc8548b4caa8#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/paritaetischer-wohlfahrtsverband-fast-jeder-dritte-student-lebt-in-armut](https://www.spiegel.de/panorama/bildung/paritaetischer-wohlfahrtsverband-fast-jeder-dritte-student-lebt-in-armut-a-df4f9be8-f46f-4ea8-9480-e2d4ad02dc19#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-und-ein-moeglicher-lieferstopp-wer-in-deutschland-als-erstes-auf-gas-verzichten-muss](https://www.spiegel.de/wirtschaft/russland-und-ein-moeglicher-lieferstopp-wer-in-deutschland-als-erstes-auf-gas-verzichten-muss-a-64b20941-4755-4251-a9f2-f49dea77d213#ref=rss)
+### russen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt](https://www.spiegel.de/politik/deutschland/news-des-tages-wahl-in-nrw-ukrainekrieg-sixt-a-aa70dbea-a67d-41d8-a1fc-813b8549355c#ref=rss)
-* [https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern](https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern-a-75fcead7-1bed-4cbe-b331-660c97d9b6c0#ref=rss)
-### ungarn
+* [https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert](https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert-a-abcdba74-1e0c-4030-9c44-9b83e6d4ff69#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei](https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei-a-2f6541af-42f3-497e-bbad-846d0bcd55ee#ref=rss)
+### auto
 
-* [https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro](https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro-a-cad7b949-0e94-4eaf-beaf-4f02475fe1a8#ref=rss)
-### euro
+* [https://www.spiegel.de/panorama/justiz/muenchen-frau-mit-3-3-promille-faehrt-auto-in-parkhaus-zu-schrott](https://www.spiegel.de/panorama/justiz/muenchen-frau-mit-3-3-promille-faehrt-auto-in-parkhaus-zu-schrott-a-4d189074-9f01-4055-8b9a-175e02ee610c#ref=rss)
+### parkhaus
 
-* [https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro](https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro-a-cad7b949-0e94-4eaf-beaf-4f02475fe1a8#ref=rss)
-* [https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte](https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte-a-d9ff3c0e-6b4c-4ff7-9042-de452bce100c#ref=rss)
-### stellt
+* [https://www.spiegel.de/panorama/justiz/muenchen-frau-mit-3-3-promille-faehrt-auto-in-parkhaus-zu-schrott](https://www.spiegel.de/panorama/justiz/muenchen-frau-mit-3-3-promille-faehrt-auto-in-parkhaus-zu-schrott-a-4d189074-9f01-4055-8b9a-175e02ee610c#ref=rss)
+### weit
 
-* [https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro](https://www.spiegel.de/ausland/ungarn-verlangt-fuer-russisches-oelembargo-15-bis-18-milliarden-euro-a-cad7b949-0e94-4eaf-beaf-4f02475fe1a8#ref=rss)
-* [https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen](https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen-a-71cfcb00-af14-4414-8496-7b56913d7ef8#ref=rss)
-### schulz
+* [https://www.spiegel.de/wirtschaft/schweiz-ist-beliebtestes-europaeisches-ziel-deutscher-auswanderer](https://www.spiegel.de/wirtschaft/schweiz-ist-beliebtestes-europaeisches-ziel-deutscher-auswanderer-a-90dd18c6-6098-4b15-a2b4-1dc482de7cdf#ref=rss)
+### liegt
 
-* [https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich](https://www.spiegel.de/politik/deutschland/martin-schulz-zu-nrw-wahl-und-ampel-eine-ampel-in-nrw-waere-nuetzlich-a-d4ed0cb8-6b8c-4f4a-a192-b17272e94dcd#ref=rss)
-### premierminister
+* [https://www.spiegel.de/wirtschaft/schweiz-ist-beliebtestes-europaeisches-ziel-deutscher-auswanderer](https://www.spiegel.de/wirtschaft/schweiz-ist-beliebtestes-europaeisches-ziel-deutscher-auswanderer-a-90dd18c6-6098-4b15-a2b4-1dc482de7cdf#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/paritaetischer-wohlfahrtsverband-fast-jeder-dritte-student-lebt-in-armut](https://www.spiegel.de/panorama/bildung/paritaetischer-wohlfahrtsverband-fast-jeder-dritte-student-lebt-in-armut-a-df4f9be8-f46f-4ea8-9480-e2d4ad02dc19#ref=rss)
+### land
 
-* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
-### laut
+* [https://www.spiegel.de/wirtschaft/schweiz-ist-beliebtestes-europaeisches-ziel-deutscher-auswanderer](https://www.spiegel.de/wirtschaft/schweiz-ist-beliebtestes-europaeisches-ziel-deutscher-auswanderer-a-90dd18c6-6098-4b15-a2b4-1dc482de7cdf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei](https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei-a-2f6541af-42f3-497e-bbad-846d0bcd55ee#ref=rss)
+### zara
 
-* [https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck](https://www.spiegel.de/ausland/jean-castex-frankreichs-premierminister-tritt-zurueck-a-95910955-5b2a-433a-bff2-d349b1770c8b#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa](https://www.spiegel.de/panorama/gesellschaft/wetter-neuer-saharastaub-unterwegs-nach-europa-a-9f52d0ec-b54b-4c33-90ed-e32b2cc32177#ref=rss)
-### fernverkehr
+* [https://www.spiegel.de/panorama/justiz/zara-phythian-sexueller-missbrauch-doctor-strange-schauspielerin-zu-acht-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/zara-phythian-sexueller-missbrauch-doctor-strange-schauspielerin-zu-acht-jahren-haft-verurteilt-a-7df74239-7618-4eb2-8a6b-05ae11532519#ref=rss)
+### phythian
 
-* [https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer](https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer-a-9a1c0bd2-53ff-4c17-8050-3c07908de9b6#ref=rss)
-### läuft
+* [https://www.spiegel.de/panorama/justiz/zara-phythian-sexueller-missbrauch-doctor-strange-schauspielerin-zu-acht-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/zara-phythian-sexueller-missbrauch-doctor-strange-schauspielerin-zu-acht-jahren-haft-verurteilt-a-7df74239-7618-4eb2-8a6b-05ae11532519#ref=rss)
+### acht
 
-* [https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer](https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer-a-9a1c0bd2-53ff-4c17-8050-3c07908de9b6#ref=rss)
-### alles
+* [https://www.spiegel.de/panorama/justiz/zara-phythian-sexueller-missbrauch-doctor-strange-schauspielerin-zu-acht-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/zara-phythian-sexueller-missbrauch-doctor-strange-schauspielerin-zu-acht-jahren-haft-verurteilt-a-7df74239-7618-4eb2-8a6b-05ae11532519#ref=rss)
+### niclas
 
-* [https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer](https://www.spiegel.de/panorama/nach-kabelbrand-in-hamburg-fernverkehr-der-bahn-laeuft-wieder-regulaer-a-9a1c0bd2-53ff-4c17-8050-3c07908de9b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte](https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte-a-6aadfc5d-e31f-47dd-9f17-0cb5fd0e2a32#ref=rss)
-### ehemann
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-dfb-ermittelt-gegen-stuermer-von-werder-bremen](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-dfb-ermittelt-gegen-stuermer-von-werder-bremen-a-8f8d7702-cc79-4c13-84df-4e9407b45f2f#ref=rss)
+### füllkrug
 
-* [https://www.spiegel.de/panorama/justiz/32-jaehrige-erstochen-und-von-lkw-ueberfahren-ehemann-soll-seine-frau-aus-rache-ermordet-haben](https://www.spiegel.de/panorama/justiz/32-jaehrige-erstochen-und-von-lkw-ueberfahren-ehemann-soll-seine-frau-aus-rache-ermordet-haben-a-5447b814-f685-4bd4-b80e-a2d1fd077644#ref=rss)
-### einsatz
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-dfb-ermittelt-gegen-stuermer-von-werder-bremen](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-dfb-ermittelt-gegen-stuermer-von-werder-bremen-a-8f8d7702-cc79-4c13-84df-4e9407b45f2f#ref=rss)
+### dfb
 
-* [https://www.spiegel.de/wissenschaft/natur/bodenverdichtung-traktoren-und-maehdrescher-werden-zu-schwer](https://www.spiegel.de/wissenschaft/natur/bodenverdichtung-traktoren-und-maehdrescher-werden-zu-schwer-a-faf44514-2b44-4f59-bd8f-4e1435b9512b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen](https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen-a-dc04d27f-4042-43c7-b84e-71ee879437cb#ref=rss)
-### nehmen
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-dfb-ermittelt-gegen-stuermer-von-werder-bremen](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-dfb-ermittelt-gegen-stuermer-von-werder-bremen-a-8f8d7702-cc79-4c13-84df-4e9407b45f2f#ref=rss)
+### stürmer
 
-* [https://www.spiegel.de/gesundheit/diagnose/grippe-bei-kindern-mit-zunehmenden-lockerungen-erleiden-kinder-jetzt-diese-infektionen](https://www.spiegel.de/gesundheit/diagnose/grippe-bei-kindern-mit-zunehmenden-lockerungen-erleiden-kinder-jetzt-diese-infektionen-a-beb50f76-496f-4fd5-b392-dd681211ea00#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
-### experte
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-dfb-ermittelt-gegen-stuermer-von-werder-bremen](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-dfb-ermittelt-gegen-stuermer-von-werder-bremen-a-8f8d7702-cc79-4c13-84df-4e9407b45f2f#ref=rss)
+### werder
 
-* [https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen](https://www.spiegel.de/wissenschaft/mariupol-video-soll-einsatz-von-brandmunition-zeigen-a-dc04d27f-4042-43c7-b84e-71ee879437cb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte](https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte-a-6aadfc5d-e31f-47dd-9f17-0cb5fd0e2a32#ref=rss)
-### neuneuroticket
+* [https://www.spiegel.de/sport/fussball/niclas-fuellkrug-dfb-ermittelt-gegen-stuermer-von-werder-bremen](https://www.spiegel.de/sport/fussball/niclas-fuellkrug-dfb-ermittelt-gegen-stuermer-von-werder-bremen-a-8f8d7702-cc79-4c13-84df-4e9407b45f2f#ref=rss)
+### rainer
 
-* [https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern](https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern-a-75fcead7-1bed-4cbe-b331-660c97d9b6c0#ref=rss)
-* [https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte](https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte-a-d9ff3c0e-6b4c-4ff7-9042-de452bce100c#ref=rss)
-### juni
+* [https://www.spiegel.de/kultur/tv/schauspieler-und-kabarettist-rainer-basedow-ist-tot](https://www.spiegel.de/kultur/tv/schauspieler-und-kabarettist-rainer-basedow-ist-tot-a-22664bb4-ed37-479d-acf0-4d8180d4797c#ref=rss)
+### basedow
 
-* [https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern](https://www.spiegel.de/auto/neun-euro-ticket-verkehrsbetriebe-rechnen-mit-30-millionen-nutzern-a-75fcead7-1bed-4cbe-b331-660c97d9b6c0#ref=rss)
-* [https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte](https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte-a-d9ff3c0e-6b4c-4ff7-9042-de452bce100c#ref=rss)
-### philipp
+* [https://www.spiegel.de/kultur/tv/schauspieler-und-kabarettist-rainer-basedow-ist-tot](https://www.spiegel.de/kultur/tv/schauspieler-und-kabarettist-rainer-basedow-ist-tot-a-22664bb4-ed37-479d-acf0-4d8180d4797c#ref=rss)
+### bekannt
 
-* [https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen](https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen-a-71cfcb00-af14-4414-8496-7b56913d7ef8#ref=rss)
-### lahm
+* [https://www.spiegel.de/kultur/tv/schauspieler-und-kabarettist-rainer-basedow-ist-tot](https://www.spiegel.de/kultur/tv/schauspieler-und-kabarettist-rainer-basedow-ist-tot-a-22664bb4-ed37-479d-acf0-4d8180d4797c#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie](https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie-a-72ba3583-33a5-4df5-9aaa-26b1b3beae49#ref=rss)
+### asselborn
 
-* [https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen](https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen-a-71cfcb00-af14-4414-8496-7b56913d7ef8#ref=rss)
-### buch
+* [https://www.spiegel.de/ausland/nato-streit-jean-asselborn-wirft-recep-tayyip-erdogan-basar-mentalitaet-vor](https://www.spiegel.de/ausland/nato-streit-jean-asselborn-wirft-recep-tayyip-erdogan-basar-mentalitaet-vor-a-d5b0140d-53aa-4e55-99bc-386165ab205a#ref=rss)
+### basarmentalität
 
-* [https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen](https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen-a-71cfcb00-af14-4414-8496-7b56913d7ef8#ref=rss)
-### darin
-
-* [https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen](https://www.spiegel.de/kultur/philipp-lahm-stellt-neues-buch-vor-sitzen-ist-das-neue-rauchen-a-71cfcb00-af14-4414-8496-7b56913d7ef8#ref=rss)
-* [https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt](https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt-a-75eb6576-baaa-4124-8467-778d041b9a1a#ref=rss)
-### paris
-
-* [https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris](https://www.spiegel.de/panorama/messerangriff-auf-22-jaehrige-flucht-ueber-daecher-von-hamburg-endet-in-paris-a-b44ac028-54ec-4228-a763-9737d90cd617#ref=rss)
-### krise
-
-* [https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte](https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte-a-6aadfc5d-e31f-47dd-9f17-0cb5fd0e2a32#ref=rss)
+* [https://www.spiegel.de/ausland/nato-streit-jean-asselborn-wirft-recep-tayyip-erdogan-basar-mentalitaet-vor](https://www.spiegel.de/ausland/nato-streit-jean-asselborn-wirft-recep-tayyip-erdogan-basar-mentalitaet-vor-a-d5b0140d-53aa-4e55-99bc-386165ab205a#ref=rss)
 ### sieht
 
-* [https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte](https://www.spiegel.de/wirtschaft/dax-dow-jones-bitcoin-hedgefondsmanager-ueber-wacklige-finanzmaerkte-a-6aadfc5d-e31f-47dd-9f17-0cb5fd0e2a32#ref=rss)
-* [https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt](https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt-a-75eb6576-baaa-4124-8467-778d041b9a1a#ref=rss)
-### folge
+* [https://www.spiegel.de/ausland/nato-streit-jean-asselborn-wirft-recep-tayyip-erdogan-basar-mentalitaet-vor](https://www.spiegel.de/ausland/nato-streit-jean-asselborn-wirft-recep-tayyip-erdogan-basar-mentalitaet-vor-a-d5b0140d-53aa-4e55-99bc-386165ab205a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/inflation-in-grossbritannien-zentralbankchef-sieht-apokalyptische-steigerungen](https://www.spiegel.de/wirtschaft/soziales/inflation-in-grossbritannien-zentralbankchef-sieht-apokalyptische-steigerungen-a-bf14b10b-340e-4cfd-ac10-9531b2d7df81#ref=rss)
+### verfügt
 
-* [https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine](https://www.spiegel.de/panorama/gesellschaft/drogenbericht-der-bundesregierung-deutlich-mehr-tote-durch-opiate-und-amphetamine-a-58fed477-3c2c-47e0-9f07-5f45acb3a422#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar](https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar-a-582bd666-fd57-4a7f-99fc-a5e40d88d5b1#ref=rss)
-### nika
+* [https://www.spiegel.de/panorama/justiz/san-diego-und-tijuana-us-ermittler-entdecken-geheimen-drogentunnel](https://www.spiegel.de/panorama/justiz/san-diego-und-tijuana-us-ermittler-entdecken-geheimen-drogentunnel-a-1c0ff273-f04f-4036-80f3-9120bc33b9cd#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/paritaetischer-wohlfahrtsverband-fast-jeder-dritte-student-lebt-in-armut](https://www.spiegel.de/panorama/bildung/paritaetischer-wohlfahrtsverband-fast-jeder-dritte-student-lebt-in-armut-a-df4f9be8-f46f-4ea8-9480-e2d4ad02dc19#ref=rss)
+### womöglich
 
-* [https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt](https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt-a-75eb6576-baaa-4124-8467-778d041b9a1a#ref=rss)
-### gwaramia
+* [https://www.spiegel.de/panorama/justiz/san-diego-und-tijuana-us-ermittler-entdecken-geheimen-drogentunnel](https://www.spiegel.de/panorama/justiz/san-diego-und-tijuana-us-ermittler-entdecken-geheimen-drogentunnel-a-1c0ff273-f04f-4036-80f3-9120bc33b9cd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-nach-terrorverdacht-weiterer-junger-mann-kurzzeitig-festgenommen](https://www.spiegel.de/panorama/justiz/essen-nach-terrorverdacht-weiterer-junger-mann-kurzzeitig-festgenommen-a-dc56ae76-9798-4498-86c6-50364e959e17#ref=rss)
+### inflation
 
-* [https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt](https://www.spiegel.de/ausland/nika-gwaramia-eigentuemer-von-oppositionssender-in-georgien-zu-haftstrafe-verurteilt-a-75eb6576-baaa-4124-8467-778d041b9a1a#ref=rss)
-### studierende
+* [https://www.spiegel.de/wirtschaft/soziales/inflation-in-grossbritannien-zentralbankchef-sieht-apokalyptische-steigerungen](https://www.spiegel.de/wirtschaft/soziales/inflation-in-grossbritannien-zentralbankchef-sieht-apokalyptische-steigerungen-a-bf14b10b-340e-4cfd-ac10-9531b2d7df81#ref=rss)
+### jörg
 
-* [https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte](https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte-a-d9ff3c0e-6b4c-4ff7-9042-de452bce100c#ref=rss)
-### bezahlt
+* [https://www.spiegel.de/panorama/leute/joerg-pilawa-ard-moderator-und-seine-frau-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/joerg-pilawa-ard-moderator-und-seine-frau-haben-sich-getrennt-a-5f38c067-176d-46e3-9412-ffbd69763a00#ref=rss)
+### pilawa
 
-* [https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte](https://www.spiegel.de/start/entlastungspaket-wie-das-neun-euro-ticket-studierende-erreichen-koennte-a-d9ff3c0e-6b4c-4ff7-9042-de452bce100c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar](https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar-a-582bd666-fd57-4a7f-99fc-a5e40d88d5b1#ref=rss)
-### fdp
+* [https://www.spiegel.de/panorama/leute/joerg-pilawa-ard-moderator-und-seine-frau-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/joerg-pilawa-ard-moderator-und-seine-frau-haben-sich-getrennt-a-5f38c067-176d-46e3-9412-ffbd69763a00#ref=rss)
+### zusammen
 
-* [https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar](https://www.spiegel.de/politik/deutschland/wahldebakel-fuer-fdp-christian-lindner-bezahlt-kommentar-a-582bd666-fd57-4a7f-99fc-a5e40d88d5b1#ref=rss)
+* [https://www.spiegel.de/panorama/leute/joerg-pilawa-ard-moderator-und-seine-frau-haben-sich-getrennt](https://www.spiegel.de/panorama/leute/joerg-pilawa-ard-moderator-und-seine-frau-haben-sich-getrennt-a-5f38c067-176d-46e3-9412-ffbd69763a00#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei](https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei-a-2f6541af-42f3-497e-bbad-846d0bcd55ee#ref=rss)
+### erwarten
+
+* [https://www.spiegel.de/wissenschaft/weltall/ufo-anhoerung-im-us-kongress-was-von-der-sitzung-zu-erwarten-ist](https://www.spiegel.de/wissenschaft/weltall/ufo-anhoerung-im-us-kongress-was-von-der-sitzung-zu-erwarten-ist-a-51aa348e-a0ed-454a-b301-3c9be2aa340e#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/wissenschaft/weltall/ufo-anhoerung-im-us-kongress-was-von-der-sitzung-zu-erwarten-ist](https://www.spiegel.de/wissenschaft/weltall/ufo-anhoerung-im-us-kongress-was-von-der-sitzung-zu-erwarten-ist-a-51aa348e-a0ed-454a-b301-3c9be2aa340e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen-a-d1207cd3-7190-425f-b56e-750489c59a5c#ref=rss)
+### gerhard
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen-a-d1207cd3-7190-425f-b56e-750489c59a5c#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen-a-d1207cd3-7190-425f-b56e-750489c59a5c#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen-a-d1207cd3-7190-425f-b56e-750489c59a5c#ref=rss)
+### altkanzler
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen-a-d1207cd3-7190-425f-b56e-750489c59a5c#ref=rss)
+### fast
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-union-will-altkanzler-fast-alle-unterstuetzung-kuerzen-a-d1207cd3-7190-425f-b56e-750489c59a5c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/paritaetischer-wohlfahrtsverband-fast-jeder-dritte-student-lebt-in-armut](https://www.spiegel.de/panorama/bildung/paritaetischer-wohlfahrtsverband-fast-jeder-dritte-student-lebt-in-armut-a-df4f9be8-f46f-4ea8-9480-e2d4ad02dc19#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-demydow-ueberschwemmte-sich-selbst-gegen-russische-truppen](https://www.spiegel.de/ausland/ukraine-demydow-ueberschwemmte-sich-selbst-gegen-russische-truppen-a-89f88a23-6a51-4832-a77d-df2382853dd5#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert](https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert-a-abcdba74-1e0c-4030-9c44-9b83e6d4ff69#ref=rss)
+### demydow
+
+* [https://www.spiegel.de/ausland/ukraine-demydow-ueberschwemmte-sich-selbst-gegen-russische-truppen](https://www.spiegel.de/ausland/ukraine-demydow-ueberschwemmte-sich-selbst-gegen-russische-truppen-a-89f88a23-6a51-4832-a77d-df2382853dd5#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/nrw-wahlergebnis-der-spd-anke-rehlinger-fordert-staerkeres-profil](https://www.spiegel.de/politik/deutschland/nrw-wahlergebnis-der-spd-anke-rehlinger-fordert-staerkeres-profil-a-fa87cdb0-f306-4d1b-bcd6-235a6ac8b084#ref=rss)
+### anke
+
+* [https://www.spiegel.de/politik/deutschland/nrw-wahlergebnis-der-spd-anke-rehlinger-fordert-staerkeres-profil](https://www.spiegel.de/politik/deutschland/nrw-wahlergebnis-der-spd-anke-rehlinger-fordert-staerkeres-profil-a-fa87cdb0-f306-4d1b-bcd6-235a6ac8b084#ref=rss)
+### rehlinger
+
+* [https://www.spiegel.de/politik/deutschland/nrw-wahlergebnis-der-spd-anke-rehlinger-fordert-staerkeres-profil](https://www.spiegel.de/politik/deutschland/nrw-wahlergebnis-der-spd-anke-rehlinger-fordert-staerkeres-profil-a-fa87cdb0-f306-4d1b-bcd6-235a6ac8b084#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/nrw-wahlergebnis-der-spd-anke-rehlinger-fordert-staerkeres-profil](https://www.spiegel.de/politik/deutschland/nrw-wahlergebnis-der-spd-anke-rehlinger-fordert-staerkeres-profil-a-fa87cdb0-f306-4d1b-bcd6-235a6ac8b084#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/nrw-wahlergebnis-der-spd-anke-rehlinger-fordert-staerkeres-profil](https://www.spiegel.de/politik/deutschland/nrw-wahlergebnis-der-spd-anke-rehlinger-fordert-staerkeres-profil-a-fa87cdb0-f306-4d1b-bcd6-235a6ac8b084#ref=rss)
+* [https://www.spiegel.de/sport/verein-athleten-deutschland-neue-anlaufstelle-bei-gewalt-und-missbrauch](https://www.spiegel.de/sport/verein-athleten-deutschland-neue-anlaufstelle-bei-gewalt-und-missbrauch-a-acf68651-0377-41c1-8c73-b23e559e08cd#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/libanon-hisbollah-block-verliert-mehrheit-im-parlament](https://www.spiegel.de/ausland/libanon-hisbollah-block-verliert-mehrheit-im-parlament-a-6e42ad0b-7902-4f1d-b8a9-b29bef4fc065#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/ausland/libanon-hisbollah-block-verliert-mehrheit-im-parlament](https://www.spiegel.de/ausland/libanon-hisbollah-block-verliert-mehrheit-im-parlament-a-6e42ad0b-7902-4f1d-b8a9-b29bef4fc065#ref=rss)
+### schwanau
+
+* [https://www.spiegel.de/panorama/gesellschaft/schwanau-buergermeisterkandidat-alexander-schindler-tritt-amt-nicht-an](https://www.spiegel.de/panorama/gesellschaft/schwanau-buergermeisterkandidat-alexander-schindler-tritt-amt-nicht-an-a-4b01ca0b-3d51-401f-b329-e50b6edaf1e1#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/panorama/gesellschaft/schwanau-buergermeisterkandidat-alexander-schindler-tritt-amt-nicht-an](https://www.spiegel.de/panorama/gesellschaft/schwanau-buergermeisterkandidat-alexander-schindler-tritt-amt-nicht-an-a-4b01ca0b-3d51-401f-b329-e50b6edaf1e1#ref=rss)
+### schindler
+
+* [https://www.spiegel.de/panorama/gesellschaft/schwanau-buergermeisterkandidat-alexander-schindler-tritt-amt-nicht-an](https://www.spiegel.de/panorama/gesellschaft/schwanau-buergermeisterkandidat-alexander-schindler-tritt-amt-nicht-an-a-4b01ca0b-3d51-401f-b329-e50b6edaf1e1#ref=rss)
+### verbraucherschützer
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/langsames-internet-verbraucherschuetzer-fordern-bessere-entschaedigung](https://www.spiegel.de/netzwelt/netzpolitik/langsames-internet-verbraucherschuetzer-fordern-bessere-entschaedigung-a-1ded09de-3697-4015-a80f-bc8548b4caa8#ref=rss)
+### jake
+
+* [https://www.spiegel.de/sport/fussball/fussball-jake-daniels-vom-fc-blackpool-macht-seine-homosexualitaet-oeffentlich](https://www.spiegel.de/sport/fussball/fussball-jake-daniels-vom-fc-blackpool-macht-seine-homosexualitaet-oeffentlich-a-dadda36b-ea4e-48f0-85a1-84cca819b631#ref=rss)
+### daniels
+
+* [https://www.spiegel.de/sport/fussball/fussball-jake-daniels-vom-fc-blackpool-macht-seine-homosexualitaet-oeffentlich](https://www.spiegel.de/sport/fussball/fussball-jake-daniels-vom-fc-blackpool-macht-seine-homosexualitaet-oeffentlich-a-dadda36b-ea4e-48f0-85a1-84cca819b631#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert](https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert-a-abcdba74-1e0c-4030-9c44-9b83e6d4ff69#ref=rss)
+### asowstahlwerk
+
+* [https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert](https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert-a-abcdba74-1e0c-4030-9c44-9b83e6d4ff69#ref=rss)
+### mariupol
+
+* [https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert](https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert-a-abcdba74-1e0c-4030-9c44-9b83e6d4ff69#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert](https://www.spiegel.de/ausland/ukraine-soldaten-aus-asowstal-stahlwerk-in-mariupol-abtransportiert-a-abcdba74-1e0c-4030-9c44-9b83e6d4ff69#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/paritaetischer-wohlfahrtsverband-fast-jeder-dritte-student-lebt-in-armut](https://www.spiegel.de/panorama/bildung/paritaetischer-wohlfahrtsverband-fast-jeder-dritte-student-lebt-in-armut-a-df4f9be8-f46f-4ea8-9480-e2d4ad02dc19#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei](https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei-a-2f6541af-42f3-497e-bbad-846d0bcd55ee#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei](https://www.spiegel.de/wirtschaft/ukraine-krieg-russen-kaufen-doppelt-so-viele-immobilien-in-der-tuerkei-a-2f6541af-42f3-497e-bbad-846d0bcd55ee#ref=rss)
+* [https://www.spiegel.de/ausland/buffalo-massaker-im-bundesstaat-new-york-amerikas-gefaehrlicher-replacement-kult](https://www.spiegel.de/ausland/buffalo-massaker-im-bundesstaat-new-york-amerikas-gefaehrlicher-replacement-kult-a-9f0f8a5d-ce5a-4cfb-8e50-f5e01f45aae1#ref=rss)
+### libyen
+
+* [https://www.spiegel.de/ausland/libyen-anhaenger-der-rivalen-bekaempfen-sich-in-tripolis](https://www.spiegel.de/ausland/libyen-anhaenger-der-rivalen-bekaempfen-sich-in-tripolis-a-f7d5baab-f0f3-422b-8fb2-f39a338f56d8#ref=rss)
+### tripolis
+
+* [https://www.spiegel.de/ausland/libyen-anhaenger-der-rivalen-bekaempfen-sich-in-tripolis](https://www.spiegel.de/ausland/libyen-anhaenger-der-rivalen-bekaempfen-sich-in-tripolis-a-f7d5baab-f0f3-422b-8fb2-f39a338f56d8#ref=rss)
+### essen
+
+* [https://www.spiegel.de/panorama/justiz/essen-nach-terrorverdacht-weiterer-junger-mann-kurzzeitig-festgenommen](https://www.spiegel.de/panorama/justiz/essen-nach-terrorverdacht-weiterer-junger-mann-kurzzeitig-festgenommen-a-dc56ae76-9798-4498-86c6-50364e959e17#ref=rss)
+### allein
+
+* [https://www.spiegel.de/panorama/justiz/essen-nach-terrorverdacht-weiterer-junger-mann-kurzzeitig-festgenommen](https://www.spiegel.de/panorama/justiz/essen-nach-terrorverdacht-weiterer-junger-mann-kurzzeitig-festgenommen-a-dc56ae76-9798-4498-86c6-50364e959e17#ref=rss)
+* [https://www.spiegel.de/sport/verein-athleten-deutschland-neue-anlaufstelle-bei-gewalt-und-missbrauch](https://www.spiegel.de/sport/verein-athleten-deutschland-neue-anlaufstelle-bei-gewalt-und-missbrauch-a-acf68651-0377-41c1-8c73-b23e559e08cd#ref=rss)
+### élisabeth
+
+* [https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie](https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie-a-72ba3583-33a5-4df5-9aaa-26b1b3beae49#ref=rss)
+### borne
+
+* [https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie](https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie-a-72ba3583-33a5-4df5-9aaa-26b1b3beae49#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie](https://www.spiegel.de/ausland/frankreich-elisabeth-borne-wird-die-erste-premierministerin-seit-30-jahren-wer-ist-sie-a-72ba3583-33a5-4df5-9aaa-26b1b3beae49#ref=rss)
+* [https://www.spiegel.de/wirtschaft/babymilch-in-den-usa-eltern-verzweifeln-am-mangel](https://www.spiegel.de/wirtschaft/babymilch-in-den-usa-eltern-verzweifeln-am-mangel-a-b79aae31-07af-401e-8e22-3cb56c223996#ref=rss)
+### new
+
+* [https://www.spiegel.de/ausland/buffalo-massaker-im-bundesstaat-new-york-amerikas-gefaehrlicher-replacement-kult](https://www.spiegel.de/ausland/buffalo-massaker-im-bundesstaat-new-york-amerikas-gefaehrlicher-replacement-kult-a-9f0f8a5d-ce5a-4cfb-8e50-f5e01f45aae1#ref=rss)
+### york
+
+* [https://www.spiegel.de/ausland/buffalo-massaker-im-bundesstaat-new-york-amerikas-gefaehrlicher-replacement-kult](https://www.spiegel.de/ausland/buffalo-massaker-im-bundesstaat-new-york-amerikas-gefaehrlicher-replacement-kult-a-9f0f8a5d-ce5a-4cfb-8e50-f5e01f45aae1#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/sport/verein-athleten-deutschland-neue-anlaufstelle-bei-gewalt-und-missbrauch](https://www.spiegel.de/sport/verein-athleten-deutschland-neue-anlaufstelle-bei-gewalt-und-missbrauch-a-acf68651-0377-41c1-8c73-b23e559e08cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-und-ein-moeglicher-lieferstopp-wer-in-deutschland-als-erstes-auf-gas-verzichten-muss](https://www.spiegel.de/wirtschaft/russland-und-ein-moeglicher-lieferstopp-wer-in-deutschland-als-erstes-auf-gas-verzichten-muss-a-64b20941-4755-4251-a9f2-f49dea77d213#ref=rss)
+### anlaufstelle
+
+* [https://www.spiegel.de/sport/verein-athleten-deutschland-neue-anlaufstelle-bei-gewalt-und-missbrauch](https://www.spiegel.de/sport/verein-athleten-deutschland-neue-anlaufstelle-bei-gewalt-und-missbrauch-a-acf68651-0377-41c1-8c73-b23e559e08cd#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/sport/verein-athleten-deutschland-neue-anlaufstelle-bei-gewalt-und-missbrauch](https://www.spiegel.de/sport/verein-athleten-deutschland-neue-anlaufstelle-bei-gewalt-und-missbrauch-a-acf68651-0377-41c1-8c73-b23e559e08cd#ref=rss)
+### bundesverfassungsgericht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesverfassungsgericht-kommunen-duerfen-bettensteuer-verlangen](https://www.spiegel.de/wirtschaft/unternehmen/bundesverfassungsgericht-kommunen-duerfen-bettensteuer-verlangen-a-752696a8-d7b5-4d40-b60f-2c09ae8dd0a6#ref=rss)
+### bettensteuer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bundesverfassungsgericht-kommunen-duerfen-bettensteuer-verlangen](https://www.spiegel.de/wirtschaft/unternehmen/bundesverfassungsgericht-kommunen-duerfen-bettensteuer-verlangen-a-752696a8-d7b5-4d40-b60f-2c09ae8dd0a6#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/wirtschaft/babymilch-in-den-usa-eltern-verzweifeln-am-mangel](https://www.spiegel.de/wirtschaft/babymilch-in-den-usa-eltern-verzweifeln-am-mangel-a-b79aae31-07af-401e-8e22-3cb56c223996#ref=rss)
+### rajon
+
+* [https://www.spiegel.de/panorama/justiz/rajon-rondo-nba-star-soll-ex-partnerin-mit-waffe-bedroht-haben](https://www.spiegel.de/panorama/justiz/rajon-rondo-nba-star-soll-ex-partnerin-mit-waffe-bedroht-haben-a-704bc80e-a907-44eb-b2fd-c61b64a5907f#ref=rss)
+### rondo
+
+* [https://www.spiegel.de/panorama/justiz/rajon-rondo-nba-star-soll-ex-partnerin-mit-waffe-bedroht-haben](https://www.spiegel.de/panorama/justiz/rajon-rondo-nba-star-soll-ex-partnerin-mit-waffe-bedroht-haben-a-704bc80e-a907-44eb-b2fd-c61b64a5907f#ref=rss)
+### bedroht
+
+* [https://www.spiegel.de/panorama/justiz/rajon-rondo-nba-star-soll-ex-partnerin-mit-waffe-bedroht-haben](https://www.spiegel.de/panorama/justiz/rajon-rondo-nba-star-soll-ex-partnerin-mit-waffe-bedroht-haben-a-704bc80e-a907-44eb-b2fd-c61b64a5907f#ref=rss)
+### russland
+
+* [https://www.spiegel.de/wirtschaft/russland-und-ein-moeglicher-lieferstopp-wer-in-deutschland-als-erstes-auf-gas-verzichten-muss](https://www.spiegel.de/wirtschaft/russland-und-ein-moeglicher-lieferstopp-wer-in-deutschland-als-erstes-auf-gas-verzichten-muss-a-64b20941-4755-4251-a9f2-f49dea77d213#ref=rss)
+### zweifel
+
+* [https://www.spiegel.de/wirtschaft/russland-und-ein-moeglicher-lieferstopp-wer-in-deutschland-als-erstes-auf-gas-verzichten-muss](https://www.spiegel.de/wirtschaft/russland-und-ein-moeglicher-lieferstopp-wer-in-deutschland-als-erstes-auf-gas-verzichten-muss-a-64b20941-4755-4251-a9f2-f49dea77d213#ref=rss)
+### kourtney
+
+* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-haben-offiziell-geheiratet](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-haben-offiziell-geheiratet-a-bec8a15c-0a00-4eb5-bb74-8097fab008a6#ref=rss)
+### kardashian
+
+* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-haben-offiziell-geheiratet](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-haben-offiziell-geheiratet-a-bec8a15c-0a00-4eb5-bb74-8097fab008a6#ref=rss)
+### travis
+
+* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-haben-offiziell-geheiratet](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-haben-offiziell-geheiratet-a-bec8a15c-0a00-4eb5-bb74-8097fab008a6#ref=rss)
+### barker
+
+* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-haben-offiziell-geheiratet](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-haben-offiziell-geheiratet-a-bec8a15c-0a00-4eb5-bb74-8097fab008a6#ref=rss)
+### offiziell
+
+* [https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-haben-offiziell-geheiratet](https://www.spiegel.de/panorama/leute/kourtney-kardashian-und-travis-barker-haben-offiziell-geheiratet-a-bec8a15c-0a00-4eb5-bb74-8097fab008a6#ref=rss)
 
