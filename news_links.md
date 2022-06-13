@@ -4,321 +4,313 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### stuttgart
+### mann
 
-* [https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-erhebt-rassismus-vorwuerfe-stuttgart-kuendigt-untersuchung-an](https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-erhebt-rassismus-vorwuerfe-stuttgart-kuendigt-untersuchung-an-a-86519428-fe6b-47ef-bd5b-f499698b875f#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini](https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini-a-5e915d20-f421-4578-be29-3c742698167c#ref=rss)
-### spiegel
+* [https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich](https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich-a-b9d8810c-f68c-4dea-8548-7a2c61413eeb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mexiko-mob-verbrennt-mann-bei-lebendigem-leib](https://www.spiegel.de/panorama/justiz/mexiko-mob-verbrennt-mann-bei-lebendigem-leib-a-0bf6c557-3989-44a7-a068-f1649d703eaa#ref=rss)
+* [https://www.spiegel.de/geschichte/kapitaen-francis-beaufort-der-mann-der-dem-wind-seinen-namen-gab](https://www.spiegel.de/geschichte/kapitaen-francis-beaufort-der-mann-der-dem-wind-seinen-namen-gab-a-9a856426-1fd8-42fb-b6bf-165f4ce2b7b9#ref=rss)
+### allen
 
-* [https://www.spiegel.de/panorama/gesellschaft/schottergaerten-im-visier-wenn-kies-und-co-die-natur-verdraengen-arte-re-reportage-von-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/schottergaerten-im-visier-wenn-kies-und-co-die-natur-verdraengen-arte-re-reportage-von-spiegel-tv-a-980f66f3-f357-4c35-ae42-1570d2d5c795#ref=rss)
-* [https://www.spiegel.de/deinspiegel/florian-wellbrock-gibt-schwimm-tipps-videos-helfen-mir-meine-technik-zu-verbessern](https://www.spiegel.de/deinspiegel/florian-wellbrock-gibt-schwimm-tipps-videos-helfen-mir-meine-technik-zu-verbessern-a-ad12b713-0002-0001-0000-000180592528#ref=rss)
-### andy
-
-* [https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-erhebt-rassismus-vorwuerfe-stuttgart-kuendigt-untersuchung-an](https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-erhebt-rassismus-vorwuerfe-stuttgart-kuendigt-untersuchung-an-a-86519428-fe6b-47ef-bd5b-f499698b875f#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini](https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini-a-5e915d20-f421-4578-be29-3c742698167c#ref=rss)
-### murray
-
-* [https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-erhebt-rassismus-vorwuerfe-stuttgart-kuendigt-untersuchung-an](https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-erhebt-rassismus-vorwuerfe-stuttgart-kuendigt-untersuchung-an-a-86519428-fe6b-47ef-bd5b-f499698b875f#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini](https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini-a-5e915d20-f421-4578-be29-3c742698167c#ref=rss)
-### parlament
-
-* [https://www.spiegel.de/ausland/ukraine-unterwegs-mit-spezialkraeften-oberst-kostenkos-kampf-um-den-sueden](https://www.spiegel.de/ausland/ukraine-unterwegs-mit-spezialkraeften-oberst-kostenkos-kampf-um-den-sueden-a-47390f67-b168-4006-bfef-442969451e5c#ref=rss)
-* [https://www.spiegel.de/ausland/emmanuel-macron-muss-um-klare-mehrheit-fuerchten](https://www.spiegel.de/ausland/emmanuel-macron-muss-um-klare-mehrheit-fuerchten-a-43ea6a22-93c9-485e-8eb4-bebd5c042967#ref=rss)
-* [https://www.spiegel.de/ausland/so-funktioniert-die-parlamentswahl-in-frankreich](https://www.spiegel.de/ausland/so-funktioniert-die-parlamentswahl-in-frankreich-a-19b99f6d-c9b3-43bf-81c2-ddc9da7af6df#ref=rss)
-### kämpft
-
-* [https://www.spiegel.de/ausland/ukraine-unterwegs-mit-spezialkraeften-oberst-kostenkos-kampf-um-den-sueden](https://www.spiegel.de/ausland/ukraine-unterwegs-mit-spezialkraeften-oberst-kostenkos-kampf-um-den-sueden-a-47390f67-b168-4006-bfef-442969451e5c#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein-a-3d247666-d8ca-4fee-aeea-621d6c1db9ad#ref=rss)
-### frühere
-
-* [https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein](https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein-a-f899e011-382a-4e6a-9b32-2227fb21a029#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/speyer-ex-generalvikar-sturm-ueber-seinen-kirchenaustritt-und-amtsverzicht](https://www.spiegel.de/panorama/gesellschaft/speyer-ex-generalvikar-sturm-ueber-seinen-kirchenaustritt-und-amtsverzicht-a-dfab364e-eb9e-4bfe-bb3d-5e184d5b9f03#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-ddr-auswahl-kapitaen-bernd-bransch-ist-tot](https://www.spiegel.de/sport/fussball/fussball-ddr-auswahl-kapitaen-bernd-bransch-ist-tot-a-5896f8af-78ed-4a09-b8c5-c201e5e32738#ref=rss)
-### macron
-
-* [https://www.spiegel.de/ausland/emmanuel-macron-muss-um-klare-mehrheit-fuerchten](https://www.spiegel.de/ausland/emmanuel-macron-muss-um-klare-mehrheit-fuerchten-a-43ea6a22-93c9-485e-8eb4-bebd5c042967#ref=rss)
-* [https://www.spiegel.de/ausland/so-funktioniert-die-parlamentswahl-in-frankreich](https://www.spiegel.de/ausland/so-funktioniert-die-parlamentswahl-in-frankreich-a-19b99f6d-c9b3-43bf-81c2-ddc9da7af6df#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein-a-3d247666-d8ca-4fee-aeea-621d6c1db9ad#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari](https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari-a-103b7ed7-de0e-4002-8480-7a901ca8fd84#ref=rss)
-### verstappen
-
-* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein-a-3d247666-d8ca-4fee-aeea-621d6c1db9ad#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari](https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari-a-103b7ed7-de0e-4002-8480-7a901ca8fd84#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/ausland/so-funktioniert-die-parlamentswahl-in-frankreich](https://www.spiegel.de/ausland/so-funktioniert-die-parlamentswahl-in-frankreich-a-19b99f6d-c9b3-43bf-81c2-ddc9da7af6df#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-und-fehler-in-der-russland-politik-als-die-sozialdemokraten-konservativ-wurden](https://www.spiegel.de/politik/deutschland/spd-und-fehler-in-der-russland-politik-als-die-sozialdemokraten-konservativ-wurden-a-8792865a-37ab-4422-a6c3-8ede63131e3d#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari](https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari-a-103b7ed7-de0e-4002-8480-7a901ca8fd84#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/netzwelt/entega-hackerangriff-beim-darmstaedter-energieversorger](https://www.spiegel.de/netzwelt/entega-hackerangriff-beim-darmstaedter-energieversorger-a-41ef0e01-943d-4a5a-99de-5c9b0541c1b2#ref=rss)
-* [https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70](https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70-a-cb45e397-af5e-4f5a-9817-ebb970bded54#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/spd-und-fehler-in-der-russland-politik-als-die-sozialdemokraten-konservativ-wurden](https://www.spiegel.de/politik/deutschland/spd-und-fehler-in-der-russland-politik-als-die-sozialdemokraten-konservativ-wurden-a-8792865a-37ab-4422-a6c3-8ede63131e3d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kartellrecht-spd-und-fdp-begruessen-plan-von-robert-habeck](https://www.spiegel.de/politik/deutschland/kartellrecht-spd-und-fdp-begruessen-plan-von-robert-habeck-a-d1c26703-1a08-42ac-af64-23be1b8c0d81#ref=rss)
-### schottergärten
-
-* [https://www.spiegel.de/panorama/gesellschaft/schottergaerten-im-visier-wenn-kies-und-co-die-natur-verdraengen-arte-re-reportage-von-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/schottergaerten-im-visier-wenn-kies-und-co-die-natur-verdraengen-arte-re-reportage-von-spiegel-tv-a-980f66f3-f357-4c35-ae42-1570d2d5c795#ref=rss)
-### arte
-
-* [https://www.spiegel.de/panorama/gesellschaft/schottergaerten-im-visier-wenn-kies-und-co-die-natur-verdraengen-arte-re-reportage-von-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/schottergaerten-im-visier-wenn-kies-und-co-die-natur-verdraengen-arte-re-reportage-von-spiegel-tv-a-980f66f3-f357-4c35-ae42-1570d2d5c795#ref=rss)
-### rereportage
-
-* [https://www.spiegel.de/panorama/gesellschaft/schottergaerten-im-visier-wenn-kies-und-co-die-natur-verdraengen-arte-re-reportage-von-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/schottergaerten-im-visier-wenn-kies-und-co-die-natur-verdraengen-arte-re-reportage-von-spiegel-tv-a-980f66f3-f357-4c35-ae42-1570d2d5c795#ref=rss)
-### tv
-
-* [https://www.spiegel.de/panorama/gesellschaft/schottergaerten-im-visier-wenn-kies-und-co-die-natur-verdraengen-arte-re-reportage-von-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/schottergaerten-im-visier-wenn-kies-und-co-die-natur-verdraengen-arte-re-reportage-von-spiegel-tv-a-980f66f3-f357-4c35-ae42-1570d2d5c795#ref=rss)
-### fans
-
-* [https://www.spiegel.de/panorama/gesellschaft/schottergaerten-im-visier-wenn-kies-und-co-die-natur-verdraengen-arte-re-reportage-von-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/schottergaerten-im-visier-wenn-kies-und-co-die-natur-verdraengen-arte-re-reportage-von-spiegel-tv-a-980f66f3-f357-4c35-ae42-1570d2d5c795#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-mitglieder-entlasten-vorstaende-der-jahre-2019-und-2020-nicht](https://www.spiegel.de/sport/fussball/fc-schalke-04-mitglieder-entlasten-vorstaende-der-jahre-2019-und-2020-nicht-a-e95b1fd2-7ef0-4c1a-890b-7867eb31fb1c#ref=rss)
-### tennis
-
-* [https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-erhebt-rassismus-vorwuerfe-stuttgart-kuendigt-untersuchung-an](https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-erhebt-rassismus-vorwuerfe-stuttgart-kuendigt-untersuchung-an-a-86519428-fe6b-47ef-bd5b-f499698b875f#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini](https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini-a-5e915d20-f421-4578-be29-3c742698167c#ref=rss)
-### nick
-
-* [https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-erhebt-rassismus-vorwuerfe-stuttgart-kuendigt-untersuchung-an](https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-erhebt-rassismus-vorwuerfe-stuttgart-kuendigt-untersuchung-an-a-86519428-fe6b-47ef-bd5b-f499698b875f#ref=rss)
-### kyrgios
-
-* [https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-erhebt-rassismus-vorwuerfe-stuttgart-kuendigt-untersuchung-an](https://www.spiegel.de/sport/tennis/tennis-nick-kyrgios-erhebt-rassismus-vorwuerfe-stuttgart-kuendigt-untersuchung-an-a-86519428-fe6b-47ef-bd5b-f499698b875f#ref=rss)
-### virus
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-ferien-2-0-und-ein-unbelehrbares-virus](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-ferien-2-0-und-ein-unbelehrbares-virus-a-ca559be5-0c3a-4acc-a25a-ab819e7d6e49#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-ferien-2-0-und-ein-unbelehrbares-virus](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-ferien-2-0-und-ein-unbelehrbares-virus-a-ca559be5-0c3a-4acc-a25a-ab819e7d6e49#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-hamburg-mit-wotan-wilke-moehring-schattenleben-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-hamburg-mit-wotan-wilke-moehring-schattenleben-im-schnellcheck-a-f1e987b9-2622-4a69-8e57-e58f86132507#ref=rss)
-### unsere
-
-* [https://www.spiegel.de/kultur/literatur/cartoons-der-woche-ferien-2-0-und-ein-unbelehrbares-virus](https://www.spiegel.de/kultur/literatur/cartoons-der-woche-ferien-2-0-und-ein-unbelehrbares-virus-a-ca559be5-0c3a-4acc-a25a-ab819e7d6e49#ref=rss)
-* [https://www.spiegel.de/ausland/so-funktioniert-die-parlamentswahl-in-frankreich](https://www.spiegel.de/ausland/so-funktioniert-die-parlamentswahl-in-frankreich-a-19b99f6d-c9b3-43bf-81c2-ddc9da7af6df#ref=rss)
-### ukrainischen
-
-* [https://www.spiegel.de/ausland/ukraine-unterwegs-mit-spezialkraeften-oberst-kostenkos-kampf-um-den-sueden](https://www.spiegel.de/ausland/ukraine-unterwegs-mit-spezialkraeften-oberst-kostenkos-kampf-um-den-sueden-a-47390f67-b168-4006-bfef-442969451e5c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-was-die-ampel-von-olaf-scholz-kiew-reise-erwartet](https://www.spiegel.de/politik/deutschland/ukraine-krieg-was-die-ampel-von-olaf-scholz-kiew-reise-erwartet-a-610ff543-ef42-4391-bd52-1a326b63e0a5#ref=rss)
-### 70
-
-* [https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini](https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini-a-5e915d20-f421-4578-be29-3c742698167c#ref=rss)
-* [https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70](https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70-a-cb45e397-af5e-4f5a-9817-ebb970bded54#ref=rss)
-### matteo
-
-* [https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini](https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini-a-5e915d20-f421-4578-be29-3c742698167c#ref=rss)
-### berrettini
-
-* [https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini](https://www.spiegel.de/sport/tennis/tennis-in-stuttgart-andy-murray-verliert-sein-70-finale-auf-der-atp-tour-gegen-matteo-berrettini-a-5e915d20-f421-4578-be29-3c742698167c#ref=rss)
-### nations
-
-* [https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein](https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein-a-f899e011-382a-4e6a-9b32-2227fb21a029#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein](https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein-a-f899e011-382a-4e6a-9b32-2227fb21a029#ref=rss)
-### todor
-
-* [https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein](https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein-a-f899e011-382a-4e6a-9b32-2227fb21a029#ref=rss)
-### nedelew
-
-* [https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein](https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein-a-f899e011-382a-4e6a-9b32-2227fb21a029#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein](https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein-a-f899e011-382a-4e6a-9b32-2227fb21a029#ref=rss)
-### weg
-
-* [https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein](https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein-a-f899e011-382a-4e6a-9b32-2227fb21a029#ref=rss)
-### team
-
-* [https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein](https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein-a-f899e011-382a-4e6a-9b32-2227fb21a029#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein-a-3d247666-d8ca-4fee-aeea-621d6c1db9ad#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein](https://www.spiegel.de/sport/fussball/nations-league-bulgariens-todor-nedelew-nach-unfall-bei-bewusstsein-a-f899e011-382a-4e6a-9b32-2227fb21a029#ref=rss)
-* [https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70](https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70-a-cb45e397-af5e-4f5a-9817-ebb970bded54#ref=rss)
-### emmanuel
-
-* [https://www.spiegel.de/ausland/emmanuel-macron-muss-um-klare-mehrheit-fuerchten](https://www.spiegel.de/ausland/emmanuel-macron-muss-um-klare-mehrheit-fuerchten-a-43ea6a22-93c9-485e-8eb4-bebd5c042967#ref=rss)
-### mehrheit
-
-* [https://www.spiegel.de/ausland/emmanuel-macron-muss-um-klare-mehrheit-fuerchten](https://www.spiegel.de/ausland/emmanuel-macron-muss-um-klare-mehrheit-fuerchten-a-43ea6a22-93c9-485e-8eb4-bebd5c042967#ref=rss)
-### linkes
-
-* [https://www.spiegel.de/ausland/emmanuel-macron-muss-um-klare-mehrheit-fuerchten](https://www.spiegel.de/ausland/emmanuel-macron-muss-um-klare-mehrheit-fuerchten-a-43ea6a22-93c9-485e-8eb4-bebd5c042967#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-hamburg-mit-wotan-wilke-moehring-schattenleben-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-hamburg-mit-wotan-wilke-moehring-schattenleben-im-schnellcheck-a-f1e987b9-2622-4a69-8e57-e58f86132507#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/emmanuel-macron-muss-um-klare-mehrheit-fuerchten](https://www.spiegel.de/ausland/emmanuel-macron-muss-um-klare-mehrheit-fuerchten-a-43ea6a22-93c9-485e-8eb4-bebd5c042967#ref=rss)
-* [https://www.spiegel.de/ausland/so-funktioniert-die-parlamentswahl-in-frankreich](https://www.spiegel.de/ausland/so-funktioniert-die-parlamentswahl-in-frankreich-a-19b99f6d-c9b3-43bf-81c2-ddc9da7af6df#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/ausland/umstrittenes-abkommen-mit-grossbritannien-ruanda-bereit-fuer-zehntausende-asylsuchende](https://www.spiegel.de/ausland/umstrittenes-abkommen-mit-grossbritannien-ruanda-bereit-fuer-zehntausende-asylsuchende-a-577baa7c-2924-4f69-b4d7-ca1f99dcf18a#ref=rss)
-### ruanda
-
-* [https://www.spiegel.de/ausland/umstrittenes-abkommen-mit-grossbritannien-ruanda-bereit-fuer-zehntausende-asylsuchende](https://www.spiegel.de/ausland/umstrittenes-abkommen-mit-grossbritannien-ruanda-bereit-fuer-zehntausende-asylsuchende-a-577baa7c-2924-4f69-b4d7-ca1f99dcf18a#ref=rss)
-### zehntausende
-
-* [https://www.spiegel.de/ausland/umstrittenes-abkommen-mit-grossbritannien-ruanda-bereit-fuer-zehntausende-asylsuchende](https://www.spiegel.de/ausland/umstrittenes-abkommen-mit-grossbritannien-ruanda-bereit-fuer-zehntausende-asylsuchende-a-577baa7c-2924-4f69-b4d7-ca1f99dcf18a#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-sorgt-fuer-hunger-und-freut-sich-ueber-fast-food](https://www.spiegel.de/ausland/russland-sorgt-fuer-hunger-und-freut-sich-ueber-fast-food-a-881271b3-14aa-492c-baeb-2d7b5640936b#ref=rss)
-### fast
-
-* [https://www.spiegel.de/ausland/russland-sorgt-fuer-hunger-und-freut-sich-ueber-fast-food](https://www.spiegel.de/ausland/russland-sorgt-fuer-hunger-und-freut-sich-ueber-fast-food-a-881271b3-14aa-492c-baeb-2d7b5640936b#ref=rss)
-* [https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70](https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70-a-cb45e397-af5e-4f5a-9817-ebb970bded54#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/russland-sorgt-fuer-hunger-und-freut-sich-ueber-fast-food](https://www.spiegel.de/ausland/russland-sorgt-fuer-hunger-und-freut-sich-ueber-fast-food-a-881271b3-14aa-492c-baeb-2d7b5640936b#ref=rss)
-* [https://www.spiegel.de/ausland/so-funktioniert-die-parlamentswahl-in-frankreich](https://www.spiegel.de/ausland/so-funktioniert-die-parlamentswahl-in-frankreich-a-19b99f6d-c9b3-43bf-81c2-ddc9da7af6df#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/ausland/russland-sorgt-fuer-hunger-und-freut-sich-ueber-fast-food](https://www.spiegel.de/ausland/russland-sorgt-fuer-hunger-und-freut-sich-ueber-fast-food-a-881271b3-14aa-492c-baeb-2d7b5640936b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-was-die-ampel-von-olaf-scholz-kiew-reise-erwartet](https://www.spiegel.de/politik/deutschland/ukraine-krieg-was-die-ampel-von-olaf-scholz-kiew-reise-erwartet-a-610ff543-ef42-4391-bd52-1a326b63e0a5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert](https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert-a-07a10386-1942-4b0f-a10e-998498f5c915#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-nfl-profi-devon-allen-verfehlt-weltrekord-ueber-110-meter-huerden-knapp](https://www.spiegel.de/sport/leichtathletik-nfl-profi-devon-allen-verfehlt-weltrekord-ueber-110-meter-huerden-knapp-a-0aa6dade-d9b3-400c-8fd0-63b99c41778c#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/russland-sorgt-fuer-hunger-und-freut-sich-ueber-fast-food](https://www.spiegel.de/ausland/russland-sorgt-fuer-hunger-und-freut-sich-ueber-fast-food-a-881271b3-14aa-492c-baeb-2d7b5640936b#ref=rss)
-* [https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70](https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70-a-cb45e397-af5e-4f5a-9817-ebb970bded54#ref=rss)
-### katar
-
-* [https://www.spiegel.de/wirtschaft/katar-beteiligt-totalenergies-an-fluessiggasprojekt](https://www.spiegel.de/wirtschaft/katar-beteiligt-totalenergies-an-fluessiggasprojekt-a-46eadbae-fa09-4a56-b750-c0bff4483a23#ref=rss)
-### totalenergies
-
-* [https://www.spiegel.de/wirtschaft/katar-beteiligt-totalenergies-an-fluessiggasprojekt](https://www.spiegel.de/wirtschaft/katar-beteiligt-totalenergies-an-fluessiggasprojekt-a-46eadbae-fa09-4a56-b750-c0bff4483a23#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wirtschaft/katar-beteiligt-totalenergies-an-fluessiggasprojekt](https://www.spiegel.de/wirtschaft/katar-beteiligt-totalenergies-an-fluessiggasprojekt-a-46eadbae-fa09-4a56-b750-c0bff4483a23#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/thailand-tieraerztin-steckte-sich-bei-katze-mit-corona-an](https://www.spiegel.de/wissenschaft/mensch/thailand-tieraerztin-steckte-sich-bei-katze-mit-corona-an-a-70f62d70-f830-4657-89e2-cd4a4e05c0a2#ref=rss)
-### madrid
-
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-marcelo-verabschiedet-sich-bei-real-madrid-neuer-vertrag-fuer-leroy-sanes-bruder-bei-schalke](https://www.spiegel.de/sport/fussball/fussball-transferticker-marcelo-verabschiedet-sich-bei-real-madrid-neuer-vertrag-fuer-leroy-sanes-bruder-bei-schalke-a-d286334a-6e2f-4d43-83e8-a6b0330f3b72#ref=rss)
-### leroy
-
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-marcelo-verabschiedet-sich-bei-real-madrid-neuer-vertrag-fuer-leroy-sanes-bruder-bei-schalke](https://www.spiegel.de/sport/fussball/fussball-transferticker-marcelo-verabschiedet-sich-bei-real-madrid-neuer-vertrag-fuer-leroy-sanes-bruder-bei-schalke-a-d286334a-6e2f-4d43-83e8-a6b0330f3b72#ref=rss)
-### sanés
-
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-marcelo-verabschiedet-sich-bei-real-madrid-neuer-vertrag-fuer-leroy-sanes-bruder-bei-schalke](https://www.spiegel.de/sport/fussball/fussball-transferticker-marcelo-verabschiedet-sich-bei-real-madrid-neuer-vertrag-fuer-leroy-sanes-bruder-bei-schalke-a-d286334a-6e2f-4d43-83e8-a6b0330f3b72#ref=rss)
-### bruder
-
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-marcelo-verabschiedet-sich-bei-real-madrid-neuer-vertrag-fuer-leroy-sanes-bruder-bei-schalke](https://www.spiegel.de/sport/fussball/fussball-transferticker-marcelo-verabschiedet-sich-bei-real-madrid-neuer-vertrag-fuer-leroy-sanes-bruder-bei-schalke-a-d286334a-6e2f-4d43-83e8-a6b0330f3b72#ref=rss)
-### schalke
-
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-marcelo-verabschiedet-sich-bei-real-madrid-neuer-vertrag-fuer-leroy-sanes-bruder-bei-schalke](https://www.spiegel.de/sport/fussball/fussball-transferticker-marcelo-verabschiedet-sich-bei-real-madrid-neuer-vertrag-fuer-leroy-sanes-bruder-bei-schalke-a-d286334a-6e2f-4d43-83e8-a6b0330f3b72#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-mitglieder-entlasten-vorstaende-der-jahre-2019-und-2020-nicht](https://www.spiegel.de/sport/fussball/fc-schalke-04-mitglieder-entlasten-vorstaende-der-jahre-2019-und-2020-nicht-a-e95b1fd2-7ef0-4c1a-890b-7867eb31fb1c#ref=rss)
-### tankstellenverband
-
-* [https://www.spiegel.de/politik/tankstellenverband-ostdeutschland-beschaffungskosten-sollen-fuer-hohe-spritpreise-verantwortlich-sein](https://www.spiegel.de/politik/tankstellenverband-ostdeutschland-beschaffungskosten-sollen-fuer-hohe-spritpreise-verantwortlich-sein-a-38f3c305-abe6-4084-9554-cfadb3b2a65e#ref=rss)
-### beschaffungskosten
-
-* [https://www.spiegel.de/politik/tankstellenverband-ostdeutschland-beschaffungskosten-sollen-fuer-hohe-spritpreise-verantwortlich-sein](https://www.spiegel.de/politik/tankstellenverband-ostdeutschland-beschaffungskosten-sollen-fuer-hohe-spritpreise-verantwortlich-sein-a-38f3c305-abe6-4084-9554-cfadb3b2a65e#ref=rss)
-### verantwortlich
-
-* [https://www.spiegel.de/politik/tankstellenverband-ostdeutschland-beschaffungskosten-sollen-fuer-hohe-spritpreise-verantwortlich-sein](https://www.spiegel.de/politik/tankstellenverband-ostdeutschland-beschaffungskosten-sollen-fuer-hohe-spritpreise-verantwortlich-sein-a-38f3c305-abe6-4084-9554-cfadb3b2a65e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-mitglieder-entlasten-vorstaende-der-jahre-2019-und-2020-nicht](https://www.spiegel.de/sport/fussball/fc-schalke-04-mitglieder-entlasten-vorstaende-der-jahre-2019-und-2020-nicht-a-e95b1fd2-7ef0-4c1a-890b-7867eb31fb1c#ref=rss)
-### tankrabatt
-
-* [https://www.spiegel.de/politik/tankstellenverband-ostdeutschland-beschaffungskosten-sollen-fuer-hohe-spritpreise-verantwortlich-sein](https://www.spiegel.de/politik/tankstellenverband-ostdeutschland-beschaffungskosten-sollen-fuer-hohe-spritpreise-verantwortlich-sein-a-38f3c305-abe6-4084-9554-cfadb3b2a65e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kartellrecht-spd-und-fdp-begruessen-plan-von-robert-habeck](https://www.spiegel.de/politik/deutschland/kartellrecht-spd-und-fdp-begruessen-plan-von-robert-habeck-a-d1c26703-1a08-42ac-af64-23be1b8c0d81#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/tankstellenverband-ostdeutschland-beschaffungskosten-sollen-fuer-hohe-spritpreise-verantwortlich-sein](https://www.spiegel.de/politik/tankstellenverband-ostdeutschland-beschaffungskosten-sollen-fuer-hohe-spritpreise-verantwortlich-sein-a-38f3c305-abe6-4084-9554-cfadb3b2a65e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/speyer-ex-generalvikar-sturm-ueber-seinen-kirchenaustritt-und-amtsverzicht](https://www.spiegel.de/panorama/gesellschaft/speyer-ex-generalvikar-sturm-ueber-seinen-kirchenaustritt-und-amtsverzicht-a-dfab364e-eb9e-4bfe-bb3d-5e184d5b9f03#ref=rss)
-### speyer
-
-* [https://www.spiegel.de/panorama/gesellschaft/speyer-ex-generalvikar-sturm-ueber-seinen-kirchenaustritt-und-amtsverzicht](https://www.spiegel.de/panorama/gesellschaft/speyer-ex-generalvikar-sturm-ueber-seinen-kirchenaustritt-und-amtsverzicht-a-dfab364e-eb9e-4bfe-bb3d-5e184d5b9f03#ref=rss)
-### sturm
-
-* [https://www.spiegel.de/panorama/gesellschaft/speyer-ex-generalvikar-sturm-ueber-seinen-kirchenaustritt-und-amtsverzicht](https://www.spiegel.de/panorama/gesellschaft/speyer-ex-generalvikar-sturm-ueber-seinen-kirchenaustritt-und-amtsverzicht-a-dfab364e-eb9e-4bfe-bb3d-5e184d5b9f03#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/gesellschaft/speyer-ex-generalvikar-sturm-ueber-seinen-kirchenaustritt-und-amtsverzicht](https://www.spiegel.de/panorama/gesellschaft/speyer-ex-generalvikar-sturm-ueber-seinen-kirchenaustritt-und-amtsverzicht-a-dfab364e-eb9e-4bfe-bb3d-5e184d5b9f03#ref=rss)
-* [https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70](https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70-a-cb45e397-af5e-4f5a-9817-ebb970bded54#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein-a-3d247666-d8ca-4fee-aeea-621d6c1db9ad#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari](https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari-a-103b7ed7-de0e-4002-8480-7a901ca8fd84#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein-a-3d247666-d8ca-4fee-aeea-621d6c1db9ad#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari](https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari-a-103b7ed7-de0e-4002-8480-7a901ca8fd84#ref=rss)
-### lewis
-
-* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein-a-3d247666-d8ca-4fee-aeea-621d6c1db9ad#ref=rss)
-### hamilton
-
-* [https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein](https://www.spiegel.de/sport/formel1/formel-1-lewis-hamilton-kaempft-mit-rueckenschmerzen-max-verstappen-kaempft-allein-a-3d247666-d8ca-4fee-aeea-621d6c1db9ad#ref=rss)
-### entega
-
-* [https://www.spiegel.de/netzwelt/entega-hackerangriff-beim-darmstaedter-energieversorger](https://www.spiegel.de/netzwelt/entega-hackerangriff-beim-darmstaedter-energieversorger-a-41ef0e01-943d-4a5a-99de-5c9b0541c1b2#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/netzwelt/web/tinder-trading-scam-wenn-der-online-flirt-zur-millionenfalle-wird](https://www.spiegel.de/netzwelt/web/tinder-trading-scam-wenn-der-online-flirt-zur-millionenfalle-wird-a-ecacba34-0c00-46f0-9636-7fc439b38c1e#ref=rss)
-* [https://www.spiegel.de/deinspiegel/florian-wellbrock-gibt-schwimm-tipps-videos-helfen-mir-meine-technik-zu-verbessern](https://www.spiegel.de/deinspiegel/florian-wellbrock-gibt-schwimm-tipps-videos-helfen-mir-meine-technik-zu-verbessern-a-ad12b713-0002-0001-0000-000180592528#ref=rss)
-### juni
-
-* [https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70](https://www.spiegel.de/panorama/zugunglueck-bei-garmisch-partenkirchen-polizei-korrigiert-zahl-der-verletzten-auf-fast-70-a-cb45e397-af5e-4f5a-9817-ebb970bded54#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-was-die-ampel-von-olaf-scholz-kiew-reise-erwartet](https://www.spiegel.de/politik/deutschland/ukraine-krieg-was-die-ampel-von-olaf-scholz-kiew-reise-erwartet-a-610ff543-ef42-4391-bd52-1a326b63e0a5#ref=rss)
-### bernd
-
-* [https://www.spiegel.de/sport/fussball/fussball-ddr-auswahl-kapitaen-bernd-bransch-ist-tot](https://www.spiegel.de/sport/fussball/fussball-ddr-auswahl-kapitaen-bernd-bransch-ist-tot-a-5896f8af-78ed-4a09-b8c5-c201e5e32738#ref=rss)
-### bransch
-
-* [https://www.spiegel.de/sport/fussball/fussball-ddr-auswahl-kapitaen-bernd-bransch-ist-tot](https://www.spiegel.de/sport/fussball/fussball-ddr-auswahl-kapitaen-bernd-bransch-ist-tot-a-5896f8af-78ed-4a09-b8c5-c201e5e32738#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fussball-ddr-auswahl-kapitaen-bernd-bransch-ist-tot](https://www.spiegel.de/sport/fussball/fussball-ddr-auswahl-kapitaen-bernd-bransch-ist-tot-a-5896f8af-78ed-4a09-b8c5-c201e5e32738#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-mitglieder-entlasten-vorstaende-der-jahre-2019-und-2020-nicht](https://www.spiegel.de/sport/fussball/fc-schalke-04-mitglieder-entlasten-vorstaende-der-jahre-2019-und-2020-nicht-a-e95b1fd2-7ef0-4c1a-890b-7867eb31fb1c#ref=rss)
-### alte
-
-* [https://www.spiegel.de/sport/fussball/fc-schalke-04-mitglieder-entlasten-vorstaende-der-jahre-2019-und-2020-nicht](https://www.spiegel.de/sport/fussball/fc-schalke-04-mitglieder-entlasten-vorstaende-der-jahre-2019-und-2020-nicht-a-e95b1fd2-7ef0-4c1a-890b-7867eb31fb1c#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-hamburg-mit-wotan-wilke-moehring-schattenleben-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-hamburg-mit-wotan-wilke-moehring-schattenleben-im-schnellcheck-a-f1e987b9-2622-4a69-8e57-e58f86132507#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-hamburg-mit-wotan-wilke-moehring-schattenleben-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-hamburg-mit-wotan-wilke-moehring-schattenleben-im-schnellcheck-a-f1e987b9-2622-4a69-8e57-e58f86132507#ref=rss)
-### thailand
-
-* [https://www.spiegel.de/wissenschaft/mensch/thailand-tieraerztin-steckte-sich-bei-katze-mit-corona-an](https://www.spiegel.de/wissenschaft/mensch/thailand-tieraerztin-steckte-sich-bei-katze-mit-corona-an-a-70f62d70-f830-4657-89e2-cd4a4e05c0a2#ref=rss)
-### katze
-
-* [https://www.spiegel.de/wissenschaft/mensch/thailand-tieraerztin-steckte-sich-bei-katze-mit-corona-an](https://www.spiegel.de/wissenschaft/mensch/thailand-tieraerztin-steckte-sich-bei-katze-mit-corona-an-a-70f62d70-f830-4657-89e2-cd4a4e05c0a2#ref=rss)
-### sehr
-
-* [https://www.spiegel.de/wissenschaft/mensch/thailand-tieraerztin-steckte-sich-bei-katze-mit-corona-an](https://www.spiegel.de/wissenschaft/mensch/thailand-tieraerztin-steckte-sich-bei-katze-mit-corona-an-a-70f62d70-f830-4657-89e2-cd4a4e05c0a2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-was-die-ampel-von-olaf-scholz-kiew-reise-erwartet](https://www.spiegel.de/politik/deutschland/ukraine-krieg-was-die-ampel-von-olaf-scholz-kiew-reise-erwartet-a-610ff543-ef42-4391-bd52-1a326b63e0a5#ref=rss)
-### sozialdemokraten
-
-* [https://www.spiegel.de/politik/deutschland/spd-und-fehler-in-der-russland-politik-als-die-sozialdemokraten-konservativ-wurden](https://www.spiegel.de/politik/deutschland/spd-und-fehler-in-der-russland-politik-als-die-sozialdemokraten-konservativ-wurden-a-8792865a-37ab-4422-a6c3-8ede63131e3d#ref=rss)
-### ampelkoalition
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-was-die-ampel-von-olaf-scholz-kiew-reise-erwartet](https://www.spiegel.de/politik/deutschland/ukraine-krieg-was-die-ampel-von-olaf-scholz-kiew-reise-erwartet-a-610ff543-ef42-4391-bd52-1a326b63e0a5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kartellrecht-spd-und-fdp-begruessen-plan-von-robert-habeck](https://www.spiegel.de/politik/deutschland/kartellrecht-spd-und-fdp-begruessen-plan-von-robert-habeck-a-d1c26703-1a08-42ac-af64-23be1b8c0d81#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/deutschland/kartellrecht-spd-und-fdp-begruessen-plan-von-robert-habeck](https://www.spiegel.de/politik/deutschland/kartellrecht-spd-und-fdp-begruessen-plan-von-robert-habeck-a-d1c26703-1a08-42ac-af64-23be1b8c0d81#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich](https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich-a-b9d8810c-f68c-4dea-8548-7a2c61413eeb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/sprit-preise-robert-habeck-kuendigt-kartellrecht-mit-klauen-und-zaehnen-an](https://www.spiegel.de/wirtschaft/soziales/sprit-preise-robert-habeck-kuendigt-kartellrecht-mit-klauen-und-zaehnen-an-a-1300e198-1606-41cb-9d1c-fef80f750456#ref=rss)
+* [https://www.spiegel.de/wirtschaft/long-covid-und-beruf-fuer-viele-ist-damit-der-soziale-abstieg-vorgezeichnet](https://www.spiegel.de/wirtschaft/long-covid-und-beruf-fuer-viele-ist-damit-der-soziale-abstieg-vorgezeichnet-a-c98acb23-4aae-48bc-9b8b-cff4bf8744f5#ref=rss)
 ### habeck
 
-* [https://www.spiegel.de/politik/deutschland/kartellrecht-spd-und-fdp-begruessen-plan-von-robert-habeck](https://www.spiegel.de/politik/deutschland/kartellrecht-spd-und-fdp-begruessen-plan-von-robert-habeck-a-d1c26703-1a08-42ac-af64-23be1b8c0d81#ref=rss)
-### florian
+* [https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel](https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel-a-e32323d8-aa4e-45b9-aac9-a71f0adeac96#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/sprit-preise-robert-habeck-kuendigt-kartellrecht-mit-klauen-und-zaehnen-an](https://www.spiegel.de/wirtschaft/soziales/sprit-preise-robert-habeck-kuendigt-kartellrecht-mit-klauen-und-zaehnen-an-a-1300e198-1606-41cb-9d1c-fef80f750456#ref=rss)
+### kapitän
 
-* [https://www.spiegel.de/deinspiegel/florian-wellbrock-gibt-schwimm-tipps-videos-helfen-mir-meine-technik-zu-verbessern](https://www.spiegel.de/deinspiegel/florian-wellbrock-gibt-schwimm-tipps-videos-helfen-mir-meine-technik-zu-verbessern-a-ad12b713-0002-0001-0000-000180592528#ref=rss)
-### wellbrock
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-ddr-fussballer-bernd-bransch-der-stille-kapitaen](https://www.spiegel.de/sport/fussball/nachruf-auf-ddr-fussballer-bernd-bransch-der-stille-kapitaen-a-9d18ec81-a95e-480b-bd56-88feb50235a9#ref=rss)
+* [https://www.spiegel.de/geschichte/kapitaen-francis-beaufort-der-mann-der-dem-wind-seinen-namen-gab](https://www.spiegel.de/geschichte/kapitaen-francis-beaufort-der-mann-der-dem-wind-seinen-namen-gab-a-9a856426-1fd8-42fb-b6bf-165f4ce2b7b9#ref=rss)
+### fc
 
-* [https://www.spiegel.de/deinspiegel/florian-wellbrock-gibt-schwimm-tipps-videos-helfen-mir-meine-technik-zu-verbessern](https://www.spiegel.de/deinspiegel/florian-wellbrock-gibt-schwimm-tipps-videos-helfen-mir-meine-technik-zu-verbessern-a-ad12b713-0002-0001-0000-000180592528#ref=rss)
-### bolsonaro
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-ddr-fussballer-bernd-bransch-der-stille-kapitaen](https://www.spiegel.de/sport/fussball/nachruf-auf-ddr-fussballer-bernd-bransch-der-stille-kapitaen-a-9d18ec81-a95e-480b-bd56-88feb50235a9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica](https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica-a-c41347c7-1568-481e-a904-8d746c4c2ba2#ref=rss)
+### groß
 
-* [https://www.spiegel.de/ausland/kurztrip-von-brasiliens-staatschef-bolsonaro-fuehrt-motorradkorso-in-florida-an](https://www.spiegel.de/ausland/kurztrip-von-brasiliens-staatschef-bolsonaro-fuehrt-motorradkorso-in-florida-an-a-875b1a9a-eb1d-4e8a-b3c1-ddf17aff9cf7#ref=rss)
-### red
+* [https://www.spiegel.de/wissenschaft/natur/wattenmeer-klimawandel-bedroht-lebensraeume-von-zugvoegeln](https://www.spiegel.de/wissenschaft/natur/wattenmeer-klimawandel-bedroht-lebensraeume-von-zugvoegeln-a-821294ad-1c6f-45cb-baa8-c3c199ba9590#ref=rss)
+* [https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica](https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica-a-c41347c7-1568-481e-a904-8d746c4c2ba2#ref=rss)
+* [https://www.spiegel.de/ausland/us-kompromiss-zu-waffengesetzen-das-kleine-amerikanische-wunder](https://www.spiegel.de/ausland/us-kompromiss-zu-waffengesetzen-das-kleine-amerikanische-wunder-a-0eb7c41d-8bb2-43e3-98be-e8bf8e1ad2f6#ref=rss)
+### verliert
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari](https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari-a-103b7ed7-de0e-4002-8480-7a901ca8fd84#ref=rss)
-### bull
+* [https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert](https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert-a-07a10386-1942-4b0f-a10e-998498f5c915#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession](https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession-a-a9f7b3ce-fdbd-459e-acb1-6a5747f0d478#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-organisation-gegen-folter-muss-sich-aufloesen](https://www.spiegel.de/ausland/ukraine-krieg-russische-organisation-gegen-folter-muss-sich-aufloesen-a-79eec8a2-0c8c-4651-9f9c-f0c8e15757ac#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari](https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari-a-103b7ed7-de0e-4002-8480-7a901ca8fd84#ref=rss)
-### ferrari
+* [https://www.spiegel.de/ausland/brexit-boris-johnson-riskiert-mit-geplantem-gesetz-handelskrieg-mit-der-eu](https://www.spiegel.de/ausland/brexit-boris-johnson-riskiert-mit-geplantem-gesetz-handelskrieg-mit-der-eu-a-373ac3a9-8cf7-474d-89ca-78ff1aa200ce#ref=rss)
+* [https://www.spiegel.de/wirtschaft/grossbritannien-wirtschaft-schrumpft-erneut](https://www.spiegel.de/wirtschaft/grossbritannien-wirtschaft-schrumpft-erneut-a-e19d2e0a-89a8-4a65-957c-c3220f39ea83#ref=rss)
+### oscar
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari](https://www.spiegel.de/sport/formel1/formel-1-in-baku-doppelsieg-fuer-red-bull-desaster-fuer-ferrari-a-103b7ed7-de0e-4002-8480-7a901ca8fd84#ref=rss)
-### quiz
+* [https://www.spiegel.de/kultur/75-tony-awards-jennifer-hudson-wird-zum-egot](https://www.spiegel.de/kultur/75-tony-awards-jennifer-hudson-wird-zum-egot-a-037291be-af88-48dc-bee2-2d6ca52f6544#ref=rss)
+* [https://www.spiegel.de/sport/tennis/atp-weltrangliste-alexander-zverev-neuer-zweiter-oscar-otte-an-51](https://www.spiegel.de/sport/tennis/atp-weltrangliste-alexander-zverev-neuer-zweiter-oscar-otte-an-51-a-04c9e11c-6cf3-453f-a75d-6893a36bd891#ref=rss)
+### sorge
 
-* [https://www.spiegel.de/stil/quiz-testen-sie-ihr-garten-wissen](https://www.spiegel.de/stil/quiz-testen-sie-ihr-garten-wissen-a-88b72653-7506-4a7a-b1ae-a779d7d79068#ref=rss)
-### antworten
+* [https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession](https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession-a-a9f7b3ce-fdbd-459e-acb1-6a5747f0d478#ref=rss)
+* [https://www.spiegel.de/ausland/us-kompromiss-zu-waffengesetzen-das-kleine-amerikanische-wunder](https://www.spiegel.de/ausland/us-kompromiss-zu-waffengesetzen-das-kleine-amerikanische-wunder-a-0eb7c41d-8bb2-43e3-98be-e8bf8e1ad2f6#ref=rss)
+### russland
 
-* [https://www.spiegel.de/stil/quiz-testen-sie-ihr-garten-wissen](https://www.spiegel.de/stil/quiz-testen-sie-ihr-garten-wissen-a-88b72653-7506-4a7a-b1ae-a779d7d79068#ref=rss)
+* [https://www.spiegel.de/wirtschaft/netzagentur-chef-klaus-mueller-sagt-sinkende-erdgaslieferungen-aus-russland-voraus](https://www.spiegel.de/wirtschaft/netzagentur-chef-klaus-mueller-sagt-sinkende-erdgaslieferungen-aus-russland-voraus-a-40047a09-08c0-48c2-a970-4b16b23458d9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-organisation-gegen-folter-muss-sich-aufloesen](https://www.spiegel.de/ausland/ukraine-krieg-russische-organisation-gegen-folter-muss-sich-aufloesen-a-79eec8a2-0c8c-4651-9f9c-f0c8e15757ac#ref=rss)
+### meter
+
+* [https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica](https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica-a-c41347c7-1568-481e-a904-8d746c4c2ba2#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-nfl-profi-devon-allen-verfehlt-weltrekord-ueber-110-meter-huerden-knapp](https://www.spiegel.de/sport/leichtathletik-nfl-profi-devon-allen-verfehlt-weltrekord-ueber-110-meter-huerden-knapp-a-0aa6dade-d9b3-400c-8fd0-63b99c41778c#ref=rss)
+### haaland
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-erling-haaland-bis-2027-bei-manchester-city-giorgio-chiellini-nach-los-angeles](https://www.spiegel.de/sport/fussball/fussball-transfers-erling-haaland-bis-2027-bei-manchester-city-giorgio-chiellini-nach-los-angeles-a-496d1ed3-ecc3-4ca0-95fc-74fe696bce63#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-erling-haaland-bis-2027-bei-manchester-city-giorgio-chiellini-nach-los-angeles](https://www.spiegel.de/sport/fussball/fussball-transfers-erling-haaland-bis-2027-bei-manchester-city-giorgio-chiellini-nach-los-angeles-a-496d1ed3-ecc3-4ca0-95fc-74fe696bce63#ref=rss)
+### giorgio
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-erling-haaland-bis-2027-bei-manchester-city-giorgio-chiellini-nach-los-angeles](https://www.spiegel.de/sport/fussball/fussball-transfers-erling-haaland-bis-2027-bei-manchester-city-giorgio-chiellini-nach-los-angeles-a-496d1ed3-ecc3-4ca0-95fc-74fe696bce63#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-erling-haaland-bis-2027-bei-manchester-city-giorgio-chiellini-nach-los-angeles](https://www.spiegel.de/sport/fussball/fussball-transfers-erling-haaland-bis-2027-bei-manchester-city-giorgio-chiellini-nach-los-angeles-a-496d1ed3-ecc3-4ca0-95fc-74fe696bce63#ref=rss)
+* [https://www.spiegel.de/wirtschaft/netzagentur-chef-klaus-mueller-sagt-sinkende-erdgaslieferungen-aus-russland-voraus](https://www.spiegel.de/wirtschaft/netzagentur-chef-klaus-mueller-sagt-sinkende-erdgaslieferungen-aus-russland-voraus-a-40047a09-08c0-48c2-a970-4b16b23458d9#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich](https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich-a-b9d8810c-f68c-4dea-8548-7a2c61413eeb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel](https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel-a-e32323d8-aa4e-45b9-aac9-a71f0adeac96#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich](https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich-a-b9d8810c-f68c-4dea-8548-7a2c61413eeb#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-nfl-profi-devon-allen-verfehlt-weltrekord-ueber-110-meter-huerden-knapp](https://www.spiegel.de/sport/leichtathletik-nfl-profi-devon-allen-verfehlt-weltrekord-ueber-110-meter-huerden-knapp-a-0aa6dade-d9b3-400c-8fd0-63b99c41778c#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich](https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich-a-b9d8810c-f68c-4dea-8548-7a2c61413eeb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert](https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert-a-07a10386-1942-4b0f-a10e-998498f5c915#ref=rss)
+### ums
+
+* [https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich](https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich-a-b9d8810c-f68c-4dea-8548-7a2c61413eeb#ref=rss)
+* [https://www.spiegel.de/sport/golf/golf-und-tote-die-golfer-hatten-keine-ahnung-dass-sie-ueber-eine-leiche-trampelten](https://www.spiegel.de/sport/golf/golf-und-tote-die-golfer-hatten-keine-ahnung-dass-sie-ueber-eine-leiche-trampelten-a-7b114f90-7bdc-4a3d-b41b-d06348a20056#ref=rss)
+### leben
+
+* [https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich](https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich-a-b9d8810c-f68c-4dea-8548-7a2c61413eeb#ref=rss)
+* [https://www.spiegel.de/sport/golf/golf-und-tote-die-golfer-hatten-keine-ahnung-dass-sie-ueber-eine-leiche-trampelten](https://www.spiegel.de/sport/golf/golf-und-tote-die-golfer-hatten-keine-ahnung-dass-sie-ueber-eine-leiche-trampelten-a-7b114f90-7bdc-4a3d-b41b-d06348a20056#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich](https://www.spiegel.de/panorama/justiz/hambuehren-13-jaehrige-stirbt-bei-autounfall-fluechtiger-fahrer-stellt-sich-a-b9d8810c-f68c-4dea-8548-7a2c61413eeb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mexiko-mob-verbrennt-mann-bei-lebendigem-leib](https://www.spiegel.de/panorama/justiz/mexiko-mob-verbrennt-mann-bei-lebendigem-leib-a-0bf6c557-3989-44a7-a068-f1649d703eaa#ref=rss)
+### raffinerie
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel](https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel-a-e32323d8-aa4e-45b9-aac9-a71f0adeac96#ref=rss)
+### öl
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel](https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel-a-e32323d8-aa4e-45b9-aac9-a71f0adeac96#ref=rss)
+### embargo
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel](https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel-a-e32323d8-aa4e-45b9-aac9-a71f0adeac96#ref=rss)
+* [https://www.spiegel.de/wirtschaft/netzagentur-chef-klaus-mueller-sagt-sinkende-erdgaslieferungen-aus-russland-voraus](https://www.spiegel.de/wirtschaft/netzagentur-chef-klaus-mueller-sagt-sinkende-erdgaslieferungen-aus-russland-voraus-a-40047a09-08c0-48c2-a970-4b16b23458d9#ref=rss)
+### wirtschaftsminister
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel](https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel-a-e32323d8-aa4e-45b9-aac9-a71f0adeac96#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/sprit-preise-robert-habeck-kuendigt-kartellrecht-mit-klauen-und-zaehnen-an](https://www.spiegel.de/wirtschaft/soziales/sprit-preise-robert-habeck-kuendigt-kartellrecht-mit-klauen-und-zaehnen-an-a-1300e198-1606-41cb-9d1c-fef80f750456#ref=rss)
+### erfolge
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel](https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel-a-e32323d8-aa4e-45b9-aac9-a71f0adeac96#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-ddr-fussballer-bernd-bransch-der-stille-kapitaen](https://www.spiegel.de/sport/fussball/nachruf-auf-ddr-fussballer-bernd-bransch-der-stille-kapitaen-a-9d18ec81-a95e-480b-bd56-88feb50235a9#ref=rss)
+### lieferungen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel](https://www.spiegel.de/wirtschaft/unternehmen/raffinerie-in-schwedt-ist-auf-suche-nach-alternative-zu-russischem-oel-a-e32323d8-aa4e-45b9-aac9-a71f0adeac96#ref=rss)
+* [https://www.spiegel.de/wirtschaft/netzagentur-chef-klaus-mueller-sagt-sinkende-erdgaslieferungen-aus-russland-voraus](https://www.spiegel.de/wirtschaft/netzagentur-chef-klaus-mueller-sagt-sinkende-erdgaslieferungen-aus-russland-voraus-a-40047a09-08c0-48c2-a970-4b16b23458d9#ref=rss)
+### bernd
+
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-ddr-fussballer-bernd-bransch-der-stille-kapitaen](https://www.spiegel.de/sport/fussball/nachruf-auf-ddr-fussballer-bernd-bransch-der-stille-kapitaen-a-9d18ec81-a95e-480b-bd56-88feb50235a9#ref=rss)
+### bransch
+
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-ddr-fussballer-bernd-bransch-der-stille-kapitaen](https://www.spiegel.de/sport/fussball/nachruf-auf-ddr-fussballer-bernd-bransch-der-stille-kapitaen-a-9d18ec81-a95e-480b-bd56-88feb50235a9#ref=rss)
+### hatten
+
+* [https://www.spiegel.de/sport/golf/golf-und-tote-die-golfer-hatten-keine-ahnung-dass-sie-ueber-eine-leiche-trampelten](https://www.spiegel.de/sport/golf/golf-und-tote-die-golfer-hatten-keine-ahnung-dass-sie-ueber-eine-leiche-trampelten-a-7b114f90-7bdc-4a3d-b41b-d06348a20056#ref=rss)
+* [https://www.spiegel.de/wirtschaft/grossbritannien-wirtschaft-schrumpft-erneut](https://www.spiegel.de/wirtschaft/grossbritannien-wirtschaft-schrumpft-erneut-a-e19d2e0a-89a8-4a65-957c-c3220f39ea83#ref=rss)
+### viele
+
+* [https://www.spiegel.de/sport/golf/golf-und-tote-die-golfer-hatten-keine-ahnung-dass-sie-ueber-eine-leiche-trampelten](https://www.spiegel.de/sport/golf/golf-und-tote-die-golfer-hatten-keine-ahnung-dass-sie-ueber-eine-leiche-trampelten-a-7b114f90-7bdc-4a3d-b41b-d06348a20056#ref=rss)
+* [https://www.spiegel.de/wirtschaft/long-covid-und-beruf-fuer-viele-ist-damit-der-soziale-abstieg-vorgezeichnet](https://www.spiegel.de/wirtschaft/long-covid-und-beruf-fuer-viele-ist-damit-der-soziale-abstieg-vorgezeichnet-a-c98acb23-4aae-48bc-9b8b-cff4bf8744f5#ref=rss)
+### arten
+
+* [https://www.spiegel.de/sport/golf/golf-und-tote-die-golfer-hatten-keine-ahnung-dass-sie-ueber-eine-leiche-trampelten](https://www.spiegel.de/sport/golf/golf-und-tote-die-golfer-hatten-keine-ahnung-dass-sie-ueber-eine-leiche-trampelten-a-7b114f90-7bdc-4a3d-b41b-d06348a20056#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/wattenmeer-klimawandel-bedroht-lebensraeume-von-zugvoegeln](https://www.spiegel.de/wissenschaft/natur/wattenmeer-klimawandel-bedroht-lebensraeume-von-zugvoegeln-a-821294ad-1c6f-45cb-baa8-c3c199ba9590#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-verdraengen-ukrainische-armee-aus-zentrum-von-sjewerodonezk](https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-verdraengen-ukrainische-armee-aus-zentrum-von-sjewerodonezk-a-08c3ec10-9acc-4136-973b-8d632551c474#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-organisation-gegen-folter-muss-sich-aufloesen](https://www.spiegel.de/ausland/ukraine-krieg-russische-organisation-gegen-folter-muss-sich-aufloesen-a-79eec8a2-0c8c-4651-9f9c-f0c8e15757ac#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-verdraengen-ukrainische-armee-aus-zentrum-von-sjewerodonezk](https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-verdraengen-ukrainische-armee-aus-zentrum-von-sjewerodonezk-a-08c3ec10-9acc-4136-973b-8d632551c474#ref=rss)
+### armee
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-verdraengen-ukrainische-armee-aus-zentrum-von-sjewerodonezk](https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-verdraengen-ukrainische-armee-aus-zentrum-von-sjewerodonezk-a-08c3ec10-9acc-4136-973b-8d632551c474#ref=rss)
+### zentrum
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-verdraengen-ukrainische-armee-aus-zentrum-von-sjewerodonezk](https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-verdraengen-ukrainische-armee-aus-zentrum-von-sjewerodonezk-a-08c3ec10-9acc-4136-973b-8d632551c474#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/soziales/sprit-preise-robert-habeck-kuendigt-kartellrecht-mit-klauen-und-zaehnen-an](https://www.spiegel.de/wirtschaft/soziales/sprit-preise-robert-habeck-kuendigt-kartellrecht-mit-klauen-und-zaehnen-an-a-1300e198-1606-41cb-9d1c-fef80f750456#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-nfl-profi-devon-allen-verfehlt-weltrekord-ueber-110-meter-huerden-knapp](https://www.spiegel.de/sport/leichtathletik-nfl-profi-devon-allen-verfehlt-weltrekord-ueber-110-meter-huerden-knapp-a-0aa6dade-d9b3-400c-8fd0-63b99c41778c#ref=rss)
+### reform
+
+* [https://www.spiegel.de/wirtschaft/soziales/sprit-preise-robert-habeck-kuendigt-kartellrecht-mit-klauen-und-zaehnen-an](https://www.spiegel.de/wirtschaft/soziales/sprit-preise-robert-habeck-kuendigt-kartellrecht-mit-klauen-und-zaehnen-an-a-1300e198-1606-41cb-9d1c-fef80f750456#ref=rss)
+* [https://www.spiegel.de/ausland/us-kompromiss-zu-waffengesetzen-das-kleine-amerikanische-wunder](https://www.spiegel.de/ausland/us-kompromiss-zu-waffengesetzen-das-kleine-amerikanische-wunder-a-0eb7c41d-8bb2-43e3-98be-e8bf8e1ad2f6#ref=rss)
+### mob
+
+* [https://www.spiegel.de/panorama/justiz/mexiko-mob-verbrennt-mann-bei-lebendigem-leib](https://www.spiegel.de/panorama/justiz/mexiko-mob-verbrennt-mann-bei-lebendigem-leib-a-0bf6c557-3989-44a7-a068-f1649d703eaa#ref=rss)
+### zugvögeln
+
+* [https://www.spiegel.de/wissenschaft/natur/wattenmeer-klimawandel-bedroht-lebensraeume-von-zugvoegeln](https://www.spiegel.de/wissenschaft/natur/wattenmeer-klimawandel-bedroht-lebensraeume-von-zugvoegeln-a-821294ad-1c6f-45cb-baa8-c3c199ba9590#ref=rss)
+### sachsen
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert](https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert-a-07a10386-1942-4b0f-a10e-998498f5c915#ref=rss)
+### cdu
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert](https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert-a-07a10386-1942-4b0f-a10e-998498f5c915#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert](https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert-a-07a10386-1942-4b0f-a10e-998498f5c915#ref=rss)
+### fast
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert](https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert-a-07a10386-1942-4b0f-a10e-998498f5c915#ref=rss)
+* [https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica](https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica-a-c41347c7-1568-481e-a904-8d746c4c2ba2#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert](https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert-a-07a10386-1942-4b0f-a10e-998498f5c915#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handwerk-umsatz-steigt-trotz-leicht-sinkender-beschaeftigung](https://www.spiegel.de/wirtschaft/handwerk-umsatz-steigt-trotz-leicht-sinkender-beschaeftigung-a-c362896f-bee3-486d-8e66-8baf481cc074#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert](https://www.spiegel.de/politik/deutschland/sachsen-cdu-bei-landratswahlen-vorn-afd-verliert-a-07a10386-1942-4b0f-a10e-998498f5c915#ref=rss)
+* [https://www.spiegel.de/geschichte/kapitaen-francis-beaufort-der-mann-der-dem-wind-seinen-namen-gab](https://www.spiegel.de/geschichte/kapitaen-francis-beaufort-der-mann-der-dem-wind-seinen-namen-gab-a-9a856426-1fd8-42fb-b6bf-165f4ce2b7b9#ref=rss)
+### johnson
+
+* [https://www.spiegel.de/ausland/brexit-boris-johnson-riskiert-mit-geplantem-gesetz-handelskrieg-mit-der-eu](https://www.spiegel.de/ausland/brexit-boris-johnson-riskiert-mit-geplantem-gesetz-handelskrieg-mit-der-eu-a-373ac3a9-8cf7-474d-89ca-78ff1aa200ce#ref=rss)
+### gesetz
+
+* [https://www.spiegel.de/ausland/brexit-boris-johnson-riskiert-mit-geplantem-gesetz-handelskrieg-mit-der-eu](https://www.spiegel.de/ausland/brexit-boris-johnson-riskiert-mit-geplantem-gesetz-handelskrieg-mit-der-eu-a-373ac3a9-8cf7-474d-89ca-78ff1aa200ce#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/brexit-boris-johnson-riskiert-mit-geplantem-gesetz-handelskrieg-mit-der-eu](https://www.spiegel.de/ausland/brexit-boris-johnson-riskiert-mit-geplantem-gesetz-handelskrieg-mit-der-eu-a-373ac3a9-8cf7-474d-89ca-78ff1aa200ce#ref=rss)
+### tony
+
+* [https://www.spiegel.de/kultur/75-tony-awards-jennifer-hudson-wird-zum-egot](https://www.spiegel.de/kultur/75-tony-awards-jennifer-hudson-wird-zum-egot-a-037291be-af88-48dc-bee2-2d6ca52f6544#ref=rss)
+### jennifer
+
+* [https://www.spiegel.de/kultur/75-tony-awards-jennifer-hudson-wird-zum-egot](https://www.spiegel.de/kultur/75-tony-awards-jennifer-hudson-wird-zum-egot-a-037291be-af88-48dc-bee2-2d6ca52f6544#ref=rss)
+### hudson
+
+* [https://www.spiegel.de/kultur/75-tony-awards-jennifer-hudson-wird-zum-egot](https://www.spiegel.de/kultur/75-tony-awards-jennifer-hudson-wird-zum-egot-a-037291be-af88-48dc-bee2-2d6ca52f6544#ref=rss)
+### alle
+
+* [https://www.spiegel.de/kultur/75-tony-awards-jennifer-hudson-wird-zum-egot](https://www.spiegel.de/kultur/75-tony-awards-jennifer-hudson-wird-zum-egot-a-037291be-af88-48dc-bee2-2d6ca52f6544#ref=rss)
+* [https://www.spiegel.de/karriere/hybrides-arbeiten-wie-werden-wir-jetzt-ein-team-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/hybrides-arbeiten-wie-werden-wir-jetzt-ein-team-tipps-vom-karrierecoach-a-b7c1cd16-7b39-4e15-920f-e62e498755cb#ref=rss)
+### rezession
+
+* [https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession](https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession-a-a9f7b3ce-fdbd-459e-acb1-6a5747f0d478#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession](https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession-a-a9f7b3ce-fdbd-459e-acb1-6a5747f0d478#ref=rss)
+* [https://www.spiegel.de/ausland/us-kompromiss-zu-waffengesetzen-das-kleine-amerikanische-wunder](https://www.spiegel.de/ausland/us-kompromiss-zu-waffengesetzen-das-kleine-amerikanische-wunder-a-0eb7c41d-8bb2-43e3-98be-e8bf8e1ad2f6#ref=rss)
+### lockdowns
+
+* [https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession](https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession-a-a9f7b3ce-fdbd-459e-acb1-6a5747f0d478#ref=rss)
+* [https://www.spiegel.de/ausland/china-corona-faelle-in-bar-in-peking-loesen-massentests-und-lockdowns-aus](https://www.spiegel.de/ausland/china-corona-faelle-in-bar-in-peking-loesen-massentests-und-lockdowns-aus-a-5ed615dc-2451-4bb3-8995-3f35e7b671c8#ref=rss)
+### china
+
+* [https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession](https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession-a-a9f7b3ce-fdbd-459e-acb1-6a5747f0d478#ref=rss)
+* [https://www.spiegel.de/ausland/china-corona-faelle-in-bar-in-peking-loesen-massentests-und-lockdowns-aus](https://www.spiegel.de/ausland/china-corona-faelle-in-bar-in-peking-loesen-massentests-und-lockdowns-aus-a-5ed615dc-2451-4bb3-8995-3f35e7b671c8#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession](https://www.spiegel.de/wirtschaft/kursrutsch-im-dax-geht-weiter-sorge-vor-rezession-a-a9f7b3ce-fdbd-459e-acb1-6a5747f0d478#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handwerk-umsatz-steigt-trotz-leicht-sinkender-beschaeftigung](https://www.spiegel.de/wirtschaft/handwerk-umsatz-steigt-trotz-leicht-sinkender-beschaeftigung-a-c362896f-bee3-486d-8e66-8baf481cc074#ref=rss)
+### netzagenturchef
+
+* [https://www.spiegel.de/wirtschaft/netzagentur-chef-klaus-mueller-sagt-sinkende-erdgaslieferungen-aus-russland-voraus](https://www.spiegel.de/wirtschaft/netzagentur-chef-klaus-mueller-sagt-sinkende-erdgaslieferungen-aus-russland-voraus-a-40047a09-08c0-48c2-a970-4b16b23458d9#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/atp-weltrangliste-alexander-zverev-neuer-zweiter-oscar-otte-an-51](https://www.spiegel.de/sport/tennis/atp-weltrangliste-alexander-zverev-neuer-zweiter-oscar-otte-an-51-a-04c9e11c-6cf3-453f-a75d-6893a36bd891#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/atp-weltrangliste-alexander-zverev-neuer-zweiter-oscar-otte-an-51](https://www.spiegel.de/sport/tennis/atp-weltrangliste-alexander-zverev-neuer-zweiter-oscar-otte-an-51-a-04c9e11c-6cf3-453f-a75d-6893a36bd891#ref=rss)
+### otte
+
+* [https://www.spiegel.de/sport/tennis/atp-weltrangliste-alexander-zverev-neuer-zweiter-oscar-otte-an-51](https://www.spiegel.de/sport/tennis/atp-weltrangliste-alexander-zverev-neuer-zweiter-oscar-otte-an-51-a-04c9e11c-6cf3-453f-a75d-6893a36bd891#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/china-corona-faelle-in-bar-in-peking-loesen-massentests-und-lockdowns-aus](https://www.spiegel.de/ausland/china-corona-faelle-in-bar-in-peking-loesen-massentests-und-lockdowns-aus-a-5ed615dc-2451-4bb3-8995-3f35e7b671c8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/9-euro-ticket-ein-viertel-mehr-passagiere-nahm-den-zug](https://www.spiegel.de/wirtschaft/unternehmen/9-euro-ticket-ein-viertel-mehr-passagiere-nahm-den-zug-a-bc15aabe-ae9c-4833-ab38-8e607dd77d74#ref=rss)
+### long
+
+* [https://www.spiegel.de/wirtschaft/long-covid-und-beruf-fuer-viele-ist-damit-der-soziale-abstieg-vorgezeichnet](https://www.spiegel.de/wirtschaft/long-covid-und-beruf-fuer-viele-ist-damit-der-soziale-abstieg-vorgezeichnet-a-c98acb23-4aae-48bc-9b8b-cff4bf8744f5#ref=rss)
+### covid
+
+* [https://www.spiegel.de/wirtschaft/long-covid-und-beruf-fuer-viele-ist-damit-der-soziale-abstieg-vorgezeichnet](https://www.spiegel.de/wirtschaft/long-covid-und-beruf-fuer-viele-ist-damit-der-soziale-abstieg-vorgezeichnet-a-c98acb23-4aae-48bc-9b8b-cff4bf8744f5#ref=rss)
+### kerstin
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/kerstin-claus-missbrauchsbeauftragte-fordert-chat-betreiber-zu-alterskontrollen-auf](https://www.spiegel.de/netzwelt/netzpolitik/kerstin-claus-missbrauchsbeauftragte-fordert-chat-betreiber-zu-alterskontrollen-auf-a-9f44cbd5-51c8-489d-a399-cbe2620fc665#ref=rss)
+### claus
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/kerstin-claus-missbrauchsbeauftragte-fordert-chat-betreiber-zu-alterskontrollen-auf](https://www.spiegel.de/netzwelt/netzpolitik/kerstin-claus-missbrauchsbeauftragte-fordert-chat-betreiber-zu-alterskontrollen-auf-a-9f44cbd5-51c8-489d-a399-cbe2620fc665#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/kerstin-claus-missbrauchsbeauftragte-fordert-chat-betreiber-zu-alterskontrollen-auf](https://www.spiegel.de/netzwelt/netzpolitik/kerstin-claus-missbrauchsbeauftragte-fordert-chat-betreiber-zu-alterskontrollen-auf-a-9f44cbd5-51c8-489d-a399-cbe2620fc665#ref=rss)
+### liverpool
+
+* [https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica](https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica-a-c41347c7-1568-481e-a904-8d746c4c2ba2#ref=rss)
+### sadio
+
+* [https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica](https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica-a-c41347c7-1568-481e-a904-8d746c4c2ba2#ref=rss)
+### mané
+
+* [https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica](https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica-a-c41347c7-1568-481e-a904-8d746c4c2ba2#ref=rss)
+### darwin
+
+* [https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica](https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica-a-c41347c7-1568-481e-a904-8d746c4c2ba2#ref=rss)
+### núñez
+
+* [https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica](https://www.spiegel.de/sport/fussball/moeglicher-nachfolger-fuer-sadio-mane-fc-liverpool-holt-darwin-nunez-von-benfica-a-c41347c7-1568-481e-a904-8d746c4c2ba2#ref=rss)
+### waffengesetze
+
+* [https://www.spiegel.de/ausland/us-kompromiss-zu-waffengesetzen-das-kleine-amerikanische-wunder](https://www.spiegel.de/ausland/us-kompromiss-zu-waffengesetzen-das-kleine-amerikanische-wunder-a-0eb7c41d-8bb2-43e3-98be-e8bf8e1ad2f6#ref=rss)
+### beaufort
+
+* [https://www.spiegel.de/geschichte/kapitaen-francis-beaufort-der-mann-der-dem-wind-seinen-namen-gab](https://www.spiegel.de/geschichte/kapitaen-francis-beaufort-der-mann-der-dem-wind-seinen-namen-gab-a-9a856426-1fd8-42fb-b6bf-165f4ce2b7b9#ref=rss)
+### umsatz
+
+* [https://www.spiegel.de/wirtschaft/handwerk-umsatz-steigt-trotz-leicht-sinkender-beschaeftigung](https://www.spiegel.de/wirtschaft/handwerk-umsatz-steigt-trotz-leicht-sinkender-beschaeftigung-a-c362896f-bee3-486d-8e66-8baf481cc074#ref=rss)
+### rebel
+
+* [https://www.spiegel.de/panorama/leute/rebel-wilson-wurde-vor-coming-out-von-zeitung-unter-druck-gesetzt](https://www.spiegel.de/panorama/leute/rebel-wilson-wurde-vor-coming-out-von-zeitung-unter-druck-gesetzt-a-edf343e3-c8bd-46a2-a72b-3bdcedc30394#ref=rss)
+### wilson
+
+* [https://www.spiegel.de/panorama/leute/rebel-wilson-wurde-vor-coming-out-von-zeitung-unter-druck-gesetzt](https://www.spiegel.de/panorama/leute/rebel-wilson-wurde-vor-coming-out-von-zeitung-unter-druck-gesetzt-a-edf343e3-c8bd-46a2-a72b-3bdcedc30394#ref=rss)
+### lange
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russische-organisation-gegen-folter-muss-sich-aufloesen](https://www.spiegel.de/ausland/ukraine-krieg-russische-organisation-gegen-folter-muss-sich-aufloesen-a-79eec8a2-0c8c-4651-9f9c-f0c8e15757ac#ref=rss)
+* [https://www.spiegel.de/karriere/hybrides-arbeiten-wie-werden-wir-jetzt-ein-team-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/hybrides-arbeiten-wie-werden-wir-jetzt-ein-team-tipps-vom-karrierecoach-a-b7c1cd16-7b39-4e15-920f-e62e498755cb#ref=rss)
+### team
+
+* [https://www.spiegel.de/karriere/hybrides-arbeiten-wie-werden-wir-jetzt-ein-team-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/hybrides-arbeiten-wie-werden-wir-jetzt-ein-team-tipps-vom-karrierecoach-a-b7c1cd16-7b39-4e15-920f-e62e498755cb#ref=rss)
+### führt
+
+* [https://www.spiegel.de/karriere/hybrides-arbeiten-wie-werden-wir-jetzt-ein-team-tipps-vom-karrierecoach](https://www.spiegel.de/karriere/hybrides-arbeiten-wie-werden-wir-jetzt-ein-team-tipps-vom-karrierecoach-a-b7c1cd16-7b39-4e15-920f-e62e498755cb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/9-euro-ticket-ein-viertel-mehr-passagiere-nahm-den-zug](https://www.spiegel.de/wirtschaft/unternehmen/9-euro-ticket-ein-viertel-mehr-passagiere-nahm-den-zug-a-bc15aabe-ae9c-4833-ab38-8e607dd77d74#ref=rss)
+### devon
+
+* [https://www.spiegel.de/sport/leichtathletik-nfl-profi-devon-allen-verfehlt-weltrekord-ueber-110-meter-huerden-knapp](https://www.spiegel.de/sport/leichtathletik-nfl-profi-devon-allen-verfehlt-weltrekord-ueber-110-meter-huerden-knapp-a-0aa6dade-d9b3-400c-8fd0-63b99c41778c#ref=rss)
+### 110
+
+* [https://www.spiegel.de/sport/leichtathletik-nfl-profi-devon-allen-verfehlt-weltrekord-ueber-110-meter-huerden-knapp](https://www.spiegel.de/sport/leichtathletik-nfl-profi-devon-allen-verfehlt-weltrekord-ueber-110-meter-huerden-knapp-a-0aa6dade-d9b3-400c-8fd0-63b99c41778c#ref=rss)
+### 9euroticket
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/9-euro-ticket-ein-viertel-mehr-passagiere-nahm-den-zug](https://www.spiegel.de/wirtschaft/unternehmen/9-euro-ticket-ein-viertel-mehr-passagiere-nahm-den-zug-a-bc15aabe-ae9c-4833-ab38-8e607dd77d74#ref=rss)
+### felor
+
+* [https://www.spiegel.de/politik/deutschland/felor-badenberg-bundesamt-fuer-verfassungsschutz-soll-erstmals-eine-vizepraesidentin-bekommen](https://www.spiegel.de/politik/deutschland/felor-badenberg-bundesamt-fuer-verfassungsschutz-soll-erstmals-eine-vizepraesidentin-bekommen-a-214c90a6-64b7-49f5-881a-d4e3eeb1cb6f#ref=rss)
+### badenberg
+
+* [https://www.spiegel.de/politik/deutschland/felor-badenberg-bundesamt-fuer-verfassungsschutz-soll-erstmals-eine-vizepraesidentin-bekommen](https://www.spiegel.de/politik/deutschland/felor-badenberg-bundesamt-fuer-verfassungsschutz-soll-erstmals-eine-vizepraesidentin-bekommen-a-214c90a6-64b7-49f5-881a-d4e3eeb1cb6f#ref=rss)
 
