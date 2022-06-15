@@ -4,293 +4,285 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### großbritannien
 
-* [https://www.spiegel.de/wirtschaft/polen-tschechien-und-ungarn-aussenhandel-mit-osteuropa-waechst-trotz-des-kriegs](https://www.spiegel.de/wirtschaft/polen-tschechien-und-ungarn-aussenhandel-mit-osteuropa-waechst-trotz-des-kriegs-a-eb68ad4f-0354-4f1d-90b2-d5ebd362112e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/drohende-insolvenz-deutschland-hilft-gazprom-germania-mit-kfw-darlehen](https://www.spiegel.de/wirtschaft/unternehmen/drohende-insolvenz-deutschland-hilft-gazprom-germania-mit-kfw-darlehen-a-4c3d86ac-1cf1-4186-bf4a-1d6369a8279a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/homeoffice-so-viele-menschen-wie-noch-nie-in-deutschland-arbeiteten-2021-zu-hause-rekordwert-waehrend-pandemie](https://www.spiegel.de/wirtschaft/homeoffice-so-viele-menschen-wie-noch-nie-in-deutschland-arbeiteten-2021-zu-hause-rekordwert-waehrend-pandemie-a-dc879825-c2c8-4a55-a827-71f29edb6562#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-kritisiert-synodalen-weg-der-katholischen-kirche-in-deutschland](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-kritisiert-synodalen-weg-der-katholischen-kirche-in-deutschland-a-3353bce6-a23f-499e-bc97-428fbf40abb7#ref=rss)
-### russland
+* [https://www.spiegel.de/ausland/brexit-eu-leitet-verfahren-gegen-grossbritannien-wegen-nordirland-streits-ein](https://www.spiegel.de/ausland/brexit-eu-leitet-verfahren-gegen-grossbritannien-wegen-nordirland-streits-ein-a-d70a7299-d92c-4ec8-b4dc-25318fc8db63#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-regierung-will-weiterhin-menschen-nach-ruanda-abschieben](https://www.spiegel.de/ausland/grossbritannien-regierung-will-weiterhin-menschen-nach-ruanda-abschieben-a-21dc5e27-0e28-4a1b-90d1-da9c5a50de1d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen-a-db5f4c09-0bc7-4c7e-9f10-77d4d81bf572#ref=rss)
+### eu
 
-* [https://www.spiegel.de/ausland/schlacht-im-donbass-die-gefaehrlichste-phase](https://www.spiegel.de/ausland/schlacht-im-donbass-die-gefaehrlichste-phase-a-ade0c2a2-bd8a-4868-b086-e46c6d09b099#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-fordert-verteidiger-von-asot-chemiewerk-zur-kapitulation-auf](https://www.spiegel.de/ausland/ukraine-krieg-russland-fordert-verteidiger-von-asot-chemiewerk-zur-kapitulation-auf-a-1e6b60df-0f40-42ee-a6b9-a8c50c34b9f3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/polen-tschechien-und-ungarn-aussenhandel-mit-osteuropa-waechst-trotz-des-kriegs](https://www.spiegel.de/wirtschaft/polen-tschechien-und-ungarn-aussenhandel-mit-osteuropa-waechst-trotz-des-kriegs-a-eb68ad4f-0354-4f1d-90b2-d5ebd362112e#ref=rss)
-### fast
+* [https://www.spiegel.de/ausland/brexit-eu-leitet-verfahren-gegen-grossbritannien-wegen-nordirland-streits-ein](https://www.spiegel.de/ausland/brexit-eu-leitet-verfahren-gegen-grossbritannien-wegen-nordirland-streits-ein-a-d70a7299-d92c-4ec8-b4dc-25318fc8db63#ref=rss)
+* [https://www.spiegel.de/wirtschaft/erdgas-eu-schliesst-gas-abkommen-mit-israel-und-aegypten](https://www.spiegel.de/wirtschaft/erdgas-eu-schliesst-gas-abkommen-mit-israel-und-aegypten-a-07979197-b0e7-4635-b194-bee0460c8723#ref=rss)
+### italien
 
-* [https://www.spiegel.de/ausland/schlacht-im-donbass-die-gefaehrlichste-phase](https://www.spiegel.de/ausland/schlacht-im-donbass-die-gefaehrlichste-phase-a-ade0c2a2-bd8a-4868-b086-e46c6d09b099#ref=rss)
-* [https://www.spiegel.de/wirtschaft/homeoffice-so-viele-menschen-wie-noch-nie-in-deutschland-arbeiteten-2021-zu-hause-rekordwert-waehrend-pandemie](https://www.spiegel.de/wirtschaft/homeoffice-so-viele-menschen-wie-noch-nie-in-deutschland-arbeiteten-2021-zu-hause-rekordwert-waehrend-pandemie-a-dc879825-c2c8-4a55-a827-71f29edb6562#ref=rss)
-### geld
+* [https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-italien-ein-blaues-desaster-fuenf-schritte-zurueck-pressestimmen](https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-italien-ein-blaues-desaster-fuenf-schritte-zurueck-pressestimmen-a-774ba948-de1f-4655-926c-dd3ff5dc9eba#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-in-der-nations-league-gegen-italien-hansi-flick-liebt-es-wenn-ein-plan-funktioniert](https://www.spiegel.de/sport/fussball/dfb-in-der-nations-league-gegen-italien-hansi-flick-liebt-es-wenn-ein-plan-funktioniert-a-2b02f92f-758c-4b62-8384-f67c3bf3bbbe#ref=rss)
+### verfahren
 
-* [https://www.spiegel.de/sport/fussball/frauen-fussball-spaniens-fussballerinnen-bekommen-gleiche-bezahlung-wie-die-maenner](https://www.spiegel.de/sport/fussball/frauen-fussball-spaniens-fussballerinnen-bekommen-gleiche-bezahlung-wie-die-maenner-a-d71a2cbf-2f3d-43b1-9a1f-b747bd6540c3#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/9-euro-ticket-warum-arme-familien-nun-geld-zurueckzahlen-muessen](https://www.spiegel.de/panorama/gesellschaft/9-euro-ticket-warum-arme-familien-nun-geld-zurueckzahlen-muessen-a-4b5a8fe9-f978-4cda-b375-af85d78f17f0#ref=rss)
-### mehr
+* [https://www.spiegel.de/politik/deutschland/verfahren-in-muenchen-prozess-gegen-russischen-staatsbuerger-wegen-mordvorbereitung-im-auftrag-tschetscheniens-begonnen](https://www.spiegel.de/politik/deutschland/verfahren-in-muenchen-prozess-gegen-russischen-staatsbuerger-wegen-mordvorbereitung-im-auftrag-tschetscheniens-begonnen-a-06e21bda-db17-4a30-ae51-d6a9ff3e7017#ref=rss)
+* [https://www.spiegel.de/ausland/brexit-eu-leitet-verfahren-gegen-grossbritannien-wegen-nordirland-streits-ein](https://www.spiegel.de/ausland/brexit-eu-leitet-verfahren-gegen-grossbritannien-wegen-nordirland-streits-ein-a-d70a7299-d92c-4ec8-b4dc-25318fc8db63#ref=rss)
+### de
 
-* [https://www.spiegel.de/wirtschaft/tankrabatt-was-ist-dran-an-den-argumenten-der-mineraloellobby](https://www.spiegel.de/wirtschaft/tankrabatt-was-ist-dran-an-den-argumenten-der-mineraloellobby-a-dade95b7-e230-4e8a-a483-b3e10dff2f90#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-fordert-verteidiger-von-asot-chemiewerk-zur-kapitulation-auf](https://www.spiegel.de/ausland/ukraine-krieg-russland-fordert-verteidiger-von-asot-chemiewerk-zur-kapitulation-auf-a-1e6b60df-0f40-42ee-a6b9-a8c50c34b9f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-frauenquote-der-drueckeberger](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-frauenquote-der-drueckeberger-a-d9231c8e-0add-4ba6-8f9b-43c89789bcd1#ref=rss)
-### namen
+* [https://www.spiegel.de/wirtschaft/unternehmen/mallorca-sauftourismus-auf-der-insel-saison-bereits-verloren](https://www.spiegel.de/wirtschaft/unternehmen/mallorca-sauftourismus-auf-der-insel-saison-bereits-verloren-a-f96b6cd8-e12d-4053-881e-9e4d27e50098#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/peter-r-de-vries-wie-kann-ich-diesen-verlust-jemals-verarbeiten](https://www.spiegel.de/panorama/justiz/peter-r-de-vries-wie-kann-ich-diesen-verlust-jemals-verarbeiten-a-c096f735-dce4-480e-bda4-977e12e79a94#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/recep-tayyip-erdogan-will-anderen-namen-auf-turkish-airlines-fliegern](https://www.spiegel.de/wirtschaft/unternehmen/recep-tayyip-erdogan-will-anderen-namen-auf-turkish-airlines-fliegern-a-867f86c8-94cc-4085-91a2-130092545d31#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/grenfell-hochhausbrand-2017-london-gedenkt-der-opfer-forever-in-our-hearts](https://www.spiegel.de/panorama/gesellschaft/grenfell-hochhausbrand-2017-london-gedenkt-der-opfer-forever-in-our-hearts-a-75756091-09f5-4819-822a-05d2a36d3090#ref=rss)
-### steckt
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt-a-277a795c-804d-474c-a028-ef9b45517a2b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-papst-franziskus-gendersprache](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-papst-franziskus-gendersprache-a-785c0a38-353b-458a-95b5-3bffeaaa8122#ref=rss)
-### schwere
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt-a-277a795c-804d-474c-a028-ef9b45517a2b#ref=rss)
-* [https://www.spiegel.de/ausland/wassermassen-reissen-bruecken-strassen-und-ein-haus-mit](https://www.spiegel.de/ausland/wassermassen-reissen-bruecken-strassen-und-ein-haus-mit-a-921eaa91-ef40-4a45-979f-6d2e6ef5fb67#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt-a-1ec6adab-4dcd-43de-ac63-d27e77e55cc7#ref=rss)
-### papst
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-papst-franziskus-gendersprache](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-papst-franziskus-gendersprache-a-785c0a38-353b-458a-95b5-3bffeaaa8122#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-kritisiert-synodalen-weg-der-katholischen-kirche-in-deutschland](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-kritisiert-synodalen-weg-der-katholischen-kirche-in-deutschland-a-3353bce6-a23f-499e-bc97-428fbf40abb7#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/untersuchungsausschuss-zum-sturm-auf-us-kapitol-mittwochsanhoerung-vorerst-abgesagt](https://www.spiegel.de/ausland/untersuchungsausschuss-zum-sturm-auf-us-kapitol-mittwochsanhoerung-vorerst-abgesagt-a-78f1c211-3d08-47f8-9c98-082d8a0548cd#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani](https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani-a-f2b683e5-c0fd-4723-9415-a887aff95c9f#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-traegt-dank-partnerin-die-haare-kurz-sie-sagt-ich-sehe-damit-juenger-aus](https://www.spiegel.de/panorama/leute/thomas-gottschalk-traegt-dank-partnerin-die-haare-kurz-sie-sagt-ich-sehe-damit-juenger-aus-a-292c125a-893d-4aa3-9cfe-1f1c624b1122#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt-a-1ec6adab-4dcd-43de-ac63-d27e77e55cc7#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt-a-1ec6adab-4dcd-43de-ac63-d27e77e55cc7#ref=rss)
-### schlacht
-
-* [https://www.spiegel.de/ausland/schlacht-im-donbass-die-gefaehrlichste-phase](https://www.spiegel.de/ausland/schlacht-im-donbass-die-gefaehrlichste-phase-a-ade0c2a2-bd8a-4868-b086-e46c6d09b099#ref=rss)
-### donbass
-
-* [https://www.spiegel.de/ausland/schlacht-im-donbass-die-gefaehrlichste-phase](https://www.spiegel.de/ausland/schlacht-im-donbass-die-gefaehrlichste-phase-a-ade0c2a2-bd8a-4868-b086-e46c6d09b099#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/schlacht-im-donbass-die-gefaehrlichste-phase](https://www.spiegel.de/ausland/schlacht-im-donbass-die-gefaehrlichste-phase-a-ade0c2a2-bd8a-4868-b086-e46c6d09b099#ref=rss)
-* [https://www.spiegel.de/wirtschaft/tankrabatt-was-ist-dran-an-den-argumenten-der-mineraloellobby](https://www.spiegel.de/wirtschaft/tankrabatt-was-ist-dran-an-den-argumenten-der-mineraloellobby-a-dade95b7-e230-4e8a-a483-b3e10dff2f90#ref=rss)
-### verteidiger
-
-* [https://www.spiegel.de/ausland/schlacht-im-donbass-die-gefaehrlichste-phase](https://www.spiegel.de/ausland/schlacht-im-donbass-die-gefaehrlichste-phase-a-ade0c2a2-bd8a-4868-b086-e46c6d09b099#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-fordert-verteidiger-von-asot-chemiewerk-zur-kapitulation-auf](https://www.spiegel.de/ausland/ukraine-krieg-russland-fordert-verteidiger-von-asot-chemiewerk-zur-kapitulation-auf-a-1e6b60df-0f40-42ee-a6b9-a8c50c34b9f3#ref=rss)
-### länder
-
-* [https://www.spiegel.de/sport/fussball/frauen-fussball-spaniens-fussballerinnen-bekommen-gleiche-bezahlung-wie-die-maenner](https://www.spiegel.de/sport/fussball/frauen-fussball-spaniens-fussballerinnen-bekommen-gleiche-bezahlung-wie-die-maenner-a-d71a2cbf-2f3d-43b1-9a1f-b747bd6540c3#ref=rss)
-* [https://www.spiegel.de/ausland/hans-insel-kanada-und-daenemark-legen-grenzstreit-bei](https://www.spiegel.de/ausland/hans-insel-kanada-und-daenemark-legen-grenzstreit-bei-a-8c644537-583a-4572-8406-41e53c325b86#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-fordert-verteidiger-von-asot-chemiewerk-zur-kapitulation-auf](https://www.spiegel.de/ausland/ukraine-krieg-russland-fordert-verteidiger-von-asot-chemiewerk-zur-kapitulation-auf-a-1e6b60df-0f40-42ee-a6b9-a8c50c34b9f3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt-a-277a795c-804d-474c-a028-ef9b45517a2b#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-fordert-verteidiger-von-asot-chemiewerk-zur-kapitulation-auf](https://www.spiegel.de/ausland/ukraine-krieg-russland-fordert-verteidiger-von-asot-chemiewerk-zur-kapitulation-auf-a-1e6b60df-0f40-42ee-a6b9-a8c50c34b9f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt-a-1ec6adab-4dcd-43de-ac63-d27e77e55cc7#ref=rss)
-### erdoğan
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/recep-tayyip-erdogan-will-anderen-namen-auf-turkish-airlines-fliegern](https://www.spiegel.de/wirtschaft/unternehmen/recep-tayyip-erdogan-will-anderen-namen-auf-turkish-airlines-fliegern-a-867f86c8-94cc-4085-91a2-130092545d31#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/recep-tayyip-erdogan-will-anderen-namen-auf-turkish-airlines-fliegern](https://www.spiegel.de/wirtschaft/unternehmen/recep-tayyip-erdogan-will-anderen-namen-auf-turkish-airlines-fliegern-a-867f86c8-94cc-4085-91a2-130092545d31#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-kritisiert-synodalen-weg-der-katholischen-kirche-in-deutschland](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-kritisiert-synodalen-weg-der-katholischen-kirche-in-deutschland-a-3353bce6-a23f-499e-bc97-428fbf40abb7#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/recep-tayyip-erdogan-will-anderen-namen-auf-turkish-airlines-fliegern](https://www.spiegel.de/wirtschaft/unternehmen/recep-tayyip-erdogan-will-anderen-namen-auf-turkish-airlines-fliegern-a-867f86c8-94cc-4085-91a2-130092545d31#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt-a-277a795c-804d-474c-a028-ef9b45517a2b#ref=rss)
-### osteuropa
-
-* [https://www.spiegel.de/wirtschaft/polen-tschechien-und-ungarn-aussenhandel-mit-osteuropa-waechst-trotz-des-kriegs](https://www.spiegel.de/wirtschaft/polen-tschechien-und-ungarn-aussenhandel-mit-osteuropa-waechst-trotz-des-kriegs-a-eb68ad4f-0354-4f1d-90b2-d5ebd362112e#ref=rss)
-### vergangenen
-
-* [https://www.spiegel.de/wirtschaft/polen-tschechien-und-ungarn-aussenhandel-mit-osteuropa-waechst-trotz-des-kriegs](https://www.spiegel.de/wirtschaft/polen-tschechien-und-ungarn-aussenhandel-mit-osteuropa-waechst-trotz-des-kriegs-a-eb68ad4f-0354-4f1d-90b2-d5ebd362112e#ref=rss)
-* [https://www.spiegel.de/kultur/documenta-in-kassel-toroeffnungspanik](https://www.spiegel.de/kultur/documenta-in-kassel-toroeffnungspanik-a-74e753c7-99f3-43e0-993f-d3496ed9ec41#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/wirtschaft/polen-tschechien-und-ungarn-aussenhandel-mit-osteuropa-waechst-trotz-des-kriegs](https://www.spiegel.de/wirtschaft/polen-tschechien-und-ungarn-aussenhandel-mit-osteuropa-waechst-trotz-des-kriegs-a-eb68ad4f-0354-4f1d-90b2-d5ebd362112e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt-a-1ec6adab-4dcd-43de-ac63-d27e77e55cc7#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt-a-277a795c-804d-474c-a028-ef9b45517a2b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-papst-franziskus-gendersprache](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-papst-franziskus-gendersprache-a-785c0a38-353b-458a-95b5-3bffeaaa8122#ref=rss)
-### 1000
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt-a-277a795c-804d-474c-a028-ef9b45517a2b#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt-a-277a795c-804d-474c-a028-ef9b45517a2b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/homeoffice-so-viele-menschen-wie-noch-nie-in-deutschland-arbeiteten-2021-zu-hause-rekordwert-waehrend-pandemie](https://www.spiegel.de/wirtschaft/homeoffice-so-viele-menschen-wie-noch-nie-in-deutschland-arbeiteten-2021-zu-hause-rekordwert-waehrend-pandemie-a-dc879825-c2c8-4a55-a827-71f29edb6562#ref=rss)
-### waffen
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-was-hinter-kiews-langer-waffen-wunschliste-steckt-a-277a795c-804d-474c-a028-ef9b45517a2b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt-a-1ec6adab-4dcd-43de-ac63-d27e77e55cc7#ref=rss)
-### hof
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-freiheitsberaubung-auf-hof-oesterreichischer-helfer-von-isolierter-familie-verurteilt](https://www.spiegel.de/panorama/justiz/niederlande-freiheitsberaubung-auf-hof-oesterreichischer-helfer-von-isolierter-familie-verurteilt-a-4d5c6fb3-2a42-4a88-acf8-b9673b446f4f#ref=rss)
-### familie
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-freiheitsberaubung-auf-hof-oesterreichischer-helfer-von-isolierter-familie-verurteilt](https://www.spiegel.de/panorama/justiz/niederlande-freiheitsberaubung-auf-hof-oesterreichischer-helfer-von-isolierter-familie-verurteilt-a-4d5c6fb3-2a42-4a88-acf8-b9673b446f4f#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-freiheitsberaubung-auf-hof-oesterreichischer-helfer-von-isolierter-familie-verurteilt](https://www.spiegel.de/panorama/justiz/niederlande-freiheitsberaubung-auf-hof-oesterreichischer-helfer-von-isolierter-familie-verurteilt-a-4d5c6fb3-2a42-4a88-acf8-b9673b446f4f#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/justiz/niederlande-freiheitsberaubung-auf-hof-oesterreichischer-helfer-von-isolierter-familie-verurteilt](https://www.spiegel.de/panorama/justiz/niederlande-freiheitsberaubung-auf-hof-oesterreichischer-helfer-von-isolierter-familie-verurteilt-a-4d5c6fb3-2a42-4a88-acf8-b9673b446f4f#ref=rss)
-* [https://www.spiegel.de/reise/staedte/trient-in-norditalien-deutsch-im-kopf-dolce-vita-im-herzen](https://www.spiegel.de/reise/staedte/trient-in-norditalien-deutsch-im-kopf-dolce-vita-im-herzen-a-46182a22-9478-4fb2-a780-fe67512595b2#ref=rss)
-### 9euroticket
-
-* [https://www.spiegel.de/panorama/gesellschaft/9-euro-ticket-warum-arme-familien-nun-geld-zurueckzahlen-muessen](https://www.spiegel.de/panorama/gesellschaft/9-euro-ticket-warum-arme-familien-nun-geld-zurueckzahlen-muessen-a-4b5a8fe9-f978-4cda-b375-af85d78f17f0#ref=rss)
-### zurückzahlen
-
-* [https://www.spiegel.de/panorama/gesellschaft/9-euro-ticket-warum-arme-familien-nun-geld-zurueckzahlen-muessen](https://www.spiegel.de/panorama/gesellschaft/9-euro-ticket-warum-arme-familien-nun-geld-zurueckzahlen-muessen-a-4b5a8fe9-f978-4cda-b375-af85d78f17f0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/drohende-insolvenz-deutschland-hilft-gazprom-germania-mit-kfw-darlehen](https://www.spiegel.de/wirtschaft/unternehmen/drohende-insolvenz-deutschland-hilft-gazprom-germania-mit-kfw-darlehen-a-4c3d86ac-1cf1-4186-bf4a-1d6369a8279a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mallorca-sauftourismus-auf-der-insel-saison-bereits-verloren](https://www.spiegel.de/wirtschaft/unternehmen/mallorca-sauftourismus-auf-der-insel-saison-bereits-verloren-a-f96b6cd8-e12d-4053-881e-9e4d27e50098#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-selenskyj-zum-kampf-um-den-donbass-die-verluste-sind-schmerzhaft-fuer-uns](https://www.spiegel.de/ausland/ukraine-selenskyj-zum-kampf-um-den-donbass-die-verluste-sind-schmerzhaft-fuer-uns-a-e7bae044-d4e3-4c02-a7d4-1078291e648c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen-a-db5f4c09-0bc7-4c7e-9f10-77d4d81bf572#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/gesellschaft/9-euro-ticket-warum-arme-familien-nun-geld-zurueckzahlen-muessen](https://www.spiegel.de/panorama/gesellschaft/9-euro-ticket-warum-arme-familien-nun-geld-zurueckzahlen-muessen-a-4b5a8fe9-f978-4cda-b375-af85d78f17f0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/homeoffice-so-viele-menschen-wie-noch-nie-in-deutschland-arbeiteten-2021-zu-hause-rekordwert-waehrend-pandemie](https://www.spiegel.de/wirtschaft/homeoffice-so-viele-menschen-wie-noch-nie-in-deutschland-arbeiteten-2021-zu-hause-rekordwert-waehrend-pandemie-a-dc879825-c2c8-4a55-a827-71f29edb6562#ref=rss)
-### hansinsel
+* [https://www.spiegel.de/ausland/trinkwasser-aus-luft-und-sonne-wie-ein-start-up-nordafrika-mit-trinkwasser-versorgen-will](https://www.spiegel.de/ausland/trinkwasser-aus-luft-und-sonne-wie-ein-start-up-nordafrika-mit-trinkwasser-versorgen-will-a-3124c850-fbbe-491f-940d-bd667200e52a#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-regierung-will-weiterhin-menschen-nach-ruanda-abschieben](https://www.spiegel.de/ausland/grossbritannien-regierung-will-weiterhin-menschen-nach-ruanda-abschieben-a-21dc5e27-0e28-4a1b-90d1-da9c5a50de1d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sommerwelle-gesundheitsminister-lauterbach-warnt-vor-steigenden-infektionszahlen](https://www.spiegel.de/politik/deutschland/coronavirus-sommerwelle-gesundheitsminister-lauterbach-warnt-vor-steigenden-infektionszahlen-a-e4c7b977-280a-47b4-81ba-905206ed38a9#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/hans-insel-kanada-und-daenemark-legen-grenzstreit-bei](https://www.spiegel.de/ausland/hans-insel-kanada-und-daenemark-legen-grenzstreit-bei-a-8c644537-583a-4572-8406-41e53c325b86#ref=rss)
-### grenzstreit
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-warum-europa-jetzt-besonders-gefordert-ist](https://www.spiegel.de/ausland/krieg-in-der-ukraine-warum-europa-jetzt-besonders-gefordert-ist-a-bcc2d838-6e08-4710-ac9d-df2099bc31dc#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-selenskyj-zum-kampf-um-den-donbass-die-verluste-sind-schmerzhaft-fuer-uns](https://www.spiegel.de/ausland/ukraine-selenskyj-zum-kampf-um-den-donbass-die-verluste-sind-schmerzhaft-fuer-uns-a-e7bae044-d4e3-4c02-a7d4-1078291e648c#ref=rss)
+### europa
 
-* [https://www.spiegel.de/ausland/hans-insel-kanada-und-daenemark-legen-grenzstreit-bei](https://www.spiegel.de/ausland/hans-insel-kanada-und-daenemark-legen-grenzstreit-bei-a-8c644537-583a-4572-8406-41e53c325b86#ref=rss)
-### inflation
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-papst-franziskus-gendersprache](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-papst-franziskus-gendersprache-a-785c0a38-353b-458a-95b5-3bffeaaa8122#ref=rss)
-### franziskus
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-papst-franziskus-gendersprache](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-papst-franziskus-gendersprache-a-785c0a38-353b-458a-95b5-3bffeaaa8122#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-kritisiert-synodalen-weg-der-katholischen-kirche-in-deutschland](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-kritisiert-synodalen-weg-der-katholischen-kirche-in-deutschland-a-3353bce6-a23f-499e-bc97-428fbf40abb7#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-papst-franziskus-gendersprache](https://www.spiegel.de/politik/deutschland/news-des-tages-inflation-papst-franziskus-gendersprache-a-785c0a38-353b-458a-95b5-3bffeaaa8122#ref=rss)
-* [https://www.spiegel.de/reise/staedte/trient-in-norditalien-deutsch-im-kopf-dolce-vita-im-herzen](https://www.spiegel.de/reise/staedte/trient-in-norditalien-deutsch-im-kopf-dolce-vita-im-herzen-a-46182a22-9478-4fb2-a780-fe67512595b2#ref=rss)
-### tigges
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-steffen-tigges-von-borussia-dortmund-zum-1-fc-koeln-bayer-muenchens-marc-roca-vor-wechsel-in-die-premier-league](https://www.spiegel.de/sport/fussball/fussball-transfers-steffen-tigges-von-borussia-dortmund-zum-1-fc-koeln-bayer-muenchens-marc-roca-vor-wechsel-in-die-premier-league-a-9d581268-a988-4a38-ae4c-16fcfcee9ec5#ref=rss)
-### marc
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-steffen-tigges-von-borussia-dortmund-zum-1-fc-koeln-bayer-muenchens-marc-roca-vor-wechsel-in-die-premier-league](https://www.spiegel.de/sport/fussball/fussball-transfers-steffen-tigges-von-borussia-dortmund-zum-1-fc-koeln-bayer-muenchens-marc-roca-vor-wechsel-in-die-premier-league-a-9d581268-a988-4a38-ae4c-16fcfcee9ec5#ref=rss)
-### roca
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfers-steffen-tigges-von-borussia-dortmund-zum-1-fc-koeln-bayer-muenchens-marc-roca-vor-wechsel-in-die-premier-league](https://www.spiegel.de/sport/fussball/fussball-transfers-steffen-tigges-von-borussia-dortmund-zum-1-fc-koeln-bayer-muenchens-marc-roca-vor-wechsel-in-die-premier-league-a-9d581268-a988-4a38-ae4c-16fcfcee9ec5#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/ausland/wassermassen-reissen-bruecken-strassen-und-ein-haus-mit](https://www.spiegel.de/ausland/wassermassen-reissen-bruecken-strassen-und-ein-haus-mit-a-921eaa91-ef40-4a45-979f-6d2e6ef5fb67#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-hansi-flick-und-die-last-des-erbes-von-joachim-loew](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-hansi-flick-und-die-last-des-erbes-von-joachim-loew-a-29aa578c-5933-4710-b290-c6449a3b1eae#ref=rss)
-### untersuchungsausschuss
-
-* [https://www.spiegel.de/ausland/untersuchungsausschuss-zum-sturm-auf-us-kapitol-mittwochsanhoerung-vorerst-abgesagt](https://www.spiegel.de/ausland/untersuchungsausschuss-zum-sturm-auf-us-kapitol-mittwochsanhoerung-vorerst-abgesagt-a-78f1c211-3d08-47f8-9c98-082d8a0548cd#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani](https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani-a-f2b683e5-c0fd-4723-9415-a887aff95c9f#ref=rss)
-### kurzfristig
-
-* [https://www.spiegel.de/ausland/untersuchungsausschuss-zum-sturm-auf-us-kapitol-mittwochsanhoerung-vorerst-abgesagt](https://www.spiegel.de/ausland/untersuchungsausschuss-zum-sturm-auf-us-kapitol-mittwochsanhoerung-vorerst-abgesagt-a-78f1c211-3d08-47f8-9c98-082d8a0548cd#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-frauenquote-der-drueckeberger](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-frauenquote-der-drueckeberger-a-d9231c8e-0add-4ba6-8f9b-43c89789bcd1#ref=rss)
-### frauenquote
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-frauenquote-der-drueckeberger](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-die-frauenquote-der-drueckeberger-a-d9231c8e-0add-4ba6-8f9b-43c89789bcd1#ref=rss)
-### trient
-
-* [https://www.spiegel.de/reise/staedte/trient-in-norditalien-deutsch-im-kopf-dolce-vita-im-herzen](https://www.spiegel.de/reise/staedte/trient-in-norditalien-deutsch-im-kopf-dolce-vita-im-herzen-a-46182a22-9478-4fb2-a780-fe67512595b2#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani](https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani-a-f2b683e5-c0fd-4723-9415-a887aff95c9f#ref=rss)
-### betrunkenen
-
-* [https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani](https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani-a-f2b683e5-c0fd-4723-9415-a887aff95c9f#ref=rss)
-### rudy
-
-* [https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani](https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani-a-f2b683e5-c0fd-4723-9415-a887aff95c9f#ref=rss)
-### giuliani
-
-* [https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani](https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani-a-f2b683e5-c0fd-4723-9415-a887aff95c9f#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani](https://www.spiegel.de/ausland/donald-trump-untersuchungsausschuss-spricht-ueber-einen-betrunkenen-rudy-giuliani-a-f2b683e5-c0fd-4723-9415-a887aff95c9f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-traegt-dank-partnerin-die-haare-kurz-sie-sagt-ich-sehe-damit-juenger-aus](https://www.spiegel.de/panorama/leute/thomas-gottschalk-traegt-dank-partnerin-die-haare-kurz-sie-sagt-ich-sehe-damit-juenger-aus-a-292c125a-893d-4aa3-9cfe-1f1c624b1122#ref=rss)
-### montez
-
-* [https://www.spiegel.de/karriere/rapper-montez-ueber-seinen-aufstieg-der-mann-der-millionenstreams-podcast](https://www.spiegel.de/karriere/rapper-montez-ueber-seinen-aufstieg-der-mann-der-millionenstreams-podcast-a-47a4fafb-0fda-43a2-ad6f-364e00dc59cf#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/karriere/rapper-montez-ueber-seinen-aufstieg-der-mann-der-millionenstreams-podcast](https://www.spiegel.de/karriere/rapper-montez-ueber-seinen-aufstieg-der-mann-der-millionenstreams-podcast-a-47a4fafb-0fda-43a2-ad6f-364e00dc59cf#ref=rss)
-### hansi
-
-* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-hansi-flick-und-die-last-des-erbes-von-joachim-loew](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-hansi-flick-und-die-last-des-erbes-von-joachim-loew-a-29aa578c-5933-4710-b290-c6449a3b1eae#ref=rss)
-### flick
-
-* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-hansi-flick-und-die-last-des-erbes-von-joachim-loew](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-hansi-flick-und-die-last-des-erbes-von-joachim-loew-a-29aa578c-5933-4710-b290-c6449a3b1eae#ref=rss)
-### documenta
-
-* [https://www.spiegel.de/kultur/documenta-in-kassel-toroeffnungspanik](https://www.spiegel.de/kultur/documenta-in-kassel-toroeffnungspanik-a-74e753c7-99f3-43e0-993f-d3496ed9ec41#ref=rss)
-### kassel
-
-* [https://www.spiegel.de/kultur/documenta-in-kassel-toroeffnungspanik](https://www.spiegel.de/kultur/documenta-in-kassel-toroeffnungspanik-a-74e753c7-99f3-43e0-993f-d3496ed9ec41#ref=rss)
-### 2017
-
-* [https://www.spiegel.de/panorama/gesellschaft/grenfell-hochhausbrand-2017-london-gedenkt-der-opfer-forever-in-our-hearts](https://www.spiegel.de/panorama/gesellschaft/grenfell-hochhausbrand-2017-london-gedenkt-der-opfer-forever-in-our-hearts-a-75756091-09f5-4819-822a-05d2a36d3090#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-warum-europa-jetzt-besonders-gefordert-ist](https://www.spiegel.de/ausland/krieg-in-der-ukraine-warum-europa-jetzt-besonders-gefordert-ist-a-bcc2d838-6e08-4710-ac9d-df2099bc31dc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-laengerer-ausfall-bei-lng-terminalbetreiber-freeport-treibt-gaspreise-in-europa](https://www.spiegel.de/wirtschaft/lng-laengerer-ausfall-bei-lng-terminalbetreiber-freeport-treibt-gaspreise-in-europa-a-5087a499-fc51-4c00-94cb-833dac8c5b42#ref=rss)
 ### london
 
-* [https://www.spiegel.de/panorama/gesellschaft/grenfell-hochhausbrand-2017-london-gedenkt-der-opfer-forever-in-our-hearts](https://www.spiegel.de/panorama/gesellschaft/grenfell-hochhausbrand-2017-london-gedenkt-der-opfer-forever-in-our-hearts-a-75756091-09f5-4819-822a-05d2a36d3090#ref=rss)
-### thomas
+* [https://www.spiegel.de/ausland/brexit-eu-leitet-verfahren-gegen-grossbritannien-wegen-nordirland-streits-ein](https://www.spiegel.de/ausland/brexit-eu-leitet-verfahren-gegen-grossbritannien-wegen-nordirland-streits-ein-a-d70a7299-d92c-4ec8-b4dc-25318fc8db63#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-regierung-will-weiterhin-menschen-nach-ruanda-abschieben](https://www.spiegel.de/ausland/grossbritannien-regierung-will-weiterhin-menschen-nach-ruanda-abschieben-a-21dc5e27-0e28-4a1b-90d1-da9c5a50de1d#ref=rss)
+### demenz
 
-* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-traegt-dank-partnerin-die-haare-kurz-sie-sagt-ich-sehe-damit-juenger-aus](https://www.spiegel.de/panorama/leute/thomas-gottschalk-traegt-dank-partnerin-die-haare-kurz-sie-sagt-ich-sehe-damit-juenger-aus-a-292c125a-893d-4aa3-9cfe-1f1c624b1122#ref=rss)
-### gottschalk
+* [https://www.spiegel.de/wissenschaft/medizin/demenz-luecken-im-kurzzeitgedaechtnis-koennen-vorboten-von-demenz-sein](https://www.spiegel.de/wissenschaft/medizin/demenz-luecken-im-kurzzeitgedaechtnis-koennen-vorboten-von-demenz-sein-a-3362eb95-93d4-4a35-b6b5-06a80d02d03d#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/leute/thomas-gottschalk-traegt-dank-partnerin-die-haare-kurz-sie-sagt-ich-sehe-damit-juenger-aus](https://www.spiegel.de/panorama/leute/thomas-gottschalk-traegt-dank-partnerin-die-haare-kurz-sie-sagt-ich-sehe-damit-juenger-aus-a-292c125a-893d-4aa3-9cfe-1f1c624b1122#ref=rss)
-### anton
+* [https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-italien-ein-blaues-desaster-fuenf-schritte-zurueck-pressestimmen](https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-italien-ein-blaues-desaster-fuenf-schritte-zurueck-pressestimmen-a-774ba948-de1f-4655-926c-dd3ff5dc9eba#ref=rss)
+* [https://www.spiegel.de/gesundheit/abtreibungen-wieder-mehr-schwangerschaftsabbrueche-in-deutschland-im-ersten-quartal](https://www.spiegel.de/gesundheit/abtreibungen-wieder-mehr-schwangerschaftsabbrueche-in-deutschland-im-ersten-quartal-a-a3733697-e700-4e40-8164-5a173345fc32#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt-a-1ec6adab-4dcd-43de-ac63-d27e77e55cc7#ref=rss)
-### hofreiter
+* [https://www.spiegel.de/gesundheit/abtreibungen-wieder-mehr-schwangerschaftsabbrueche-in-deutschland-im-ersten-quartal](https://www.spiegel.de/gesundheit/abtreibungen-wieder-mehr-schwangerschaftsabbrueche-in-deutschland-im-ersten-quartal-a-a3733697-e700-4e40-8164-5a173345fc32#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/internetprobleme-mehr-als-jeder-dritte-hat-laut-umfrage-aerger-mit-dem-netz](https://www.spiegel.de/netzwelt/web/internetprobleme-mehr-als-jeder-dritte-hat-laut-umfrage-aerger-mit-dem-netz-a-f27da735-705b-48d3-9589-73a34276252e#ref=rss)
+### brasilien
 
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt-a-1ec6adab-4dcd-43de-ac63-d27e77e55cc7#ref=rss)
-### grünen
+* [https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen-a-db5f4c09-0bc7-4c7e-9f10-77d4d81bf572#ref=rss)
+* [https://www.spiegel.de/wirtschaft/brasilien-staatsanwaelte-rechnen-mit-entschaedigung-von-vw-fuer-schuldknechtschaft](https://www.spiegel.de/wirtschaft/brasilien-staatsanwaelte-rechnen-mit-entschaedigung-von-vw-fuer-schuldknechtschaft-a-dd9a34c9-a7e0-438f-86d1-ca15d440cd5d#ref=rss)
+### frankwalter
 
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt-a-1ec6adab-4dcd-43de-ac63-d27e77e55cc7#ref=rss)
-### mittlerweile
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-sein-vorstoss-zur-dienstpflicht-ploetzlich-nervt-er](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-sein-vorstoss-zur-dienstpflicht-ploetzlich-nervt-er-a-cd81bd12-8fd6-482f-a878-af34a692207d#ref=rss)
+### steinmeier
 
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt-a-1ec6adab-4dcd-43de-ac63-d27e77e55cc7#ref=rss)
-### störenfried
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-sein-vorstoss-zur-dienstpflicht-ploetzlich-nervt-er](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-sein-vorstoss-zur-dienstpflicht-ploetzlich-nervt-er-a-cd81bd12-8fd6-482f-a878-af34a692207d#ref=rss)
+### los
 
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt-a-1ec6adab-4dcd-43de-ac63-d27e77e55cc7#ref=rss)
-### kritisiert
+* [https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-sein-vorstoss-zur-dienstpflicht-ploetzlich-nervt-er](https://www.spiegel.de/politik/deutschland/frank-walter-steinmeier-und-sein-vorstoss-zur-dienstpflicht-ploetzlich-nervt-er-a-cd81bd12-8fd6-482f-a878-af34a692207d#ref=rss)
+* [https://www.spiegel.de/panorama/koenigshain-in-sachsen-der-wahlsieger-der-gar-nicht-auf-dem-stimmzettel-stand](https://www.spiegel.de/panorama/koenigshain-in-sachsen-der-wahlsieger-der-gar-nicht-auf-dem-stimmzettel-stand-a-bc5abd77-0977-4eb1-af6f-2593dbf3b93d#ref=rss)
+### mallorca
 
-* [https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt](https://www.spiegel.de/politik/deutschland/anton-hofreiter-was-sagt-es-ueber-die-gruenen-dass-er-in-der-partei-mittlerweile-als-stoerenfried-gilt-a-1ec6adab-4dcd-43de-ac63-d27e77e55cc7#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-kritisiert-synodalen-weg-der-katholischen-kirche-in-deutschland](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-kritisiert-synodalen-weg-der-katholischen-kirche-in-deutschland-a-3353bce6-a23f-499e-bc97-428fbf40abb7#ref=rss)
-### joe
+* [https://www.spiegel.de/wirtschaft/unternehmen/mallorca-sauftourismus-auf-der-insel-saison-bereits-verloren](https://www.spiegel.de/wirtschaft/unternehmen/mallorca-sauftourismus-auf-der-insel-saison-bereits-verloren-a-f96b6cd8-e12d-4053-881e-9e4d27e50098#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/ausland/joe-biden-reist-im-juli-nach-israel-und-saudi-arabien-erste-nahost-reise-als-us-praesident](https://www.spiegel.de/ausland/joe-biden-reist-im-juli-nach-israel-und-saudi-arabien-erste-nahost-reise-als-us-praesident-a-e8b2f42d-8bf8-40ea-b155-564897cff2b1#ref=rss)
-### biden
+* [https://www.spiegel.de/wirtschaft/unternehmen/mallorca-sauftourismus-auf-der-insel-saison-bereits-verloren](https://www.spiegel.de/wirtschaft/unternehmen/mallorca-sauftourismus-auf-der-insel-saison-bereits-verloren-a-f96b6cd8-e12d-4053-881e-9e4d27e50098#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/9-euro-ticket-bremer-spd-fordert-nachfolge-fuers-guenstige-fahren](https://www.spiegel.de/politik/deutschland/9-euro-ticket-bremer-spd-fordert-nachfolge-fuers-guenstige-fahren-a-9d533a7a-f34f-43a9-a3c5-0aaa235963e1#ref=rss)
+### härteres
 
-* [https://www.spiegel.de/ausland/joe-biden-reist-im-juli-nach-israel-und-saudi-arabien-erste-nahost-reise-als-us-praesident](https://www.spiegel.de/ausland/joe-biden-reist-im-juli-nach-israel-und-saudi-arabien-erste-nahost-reise-als-us-praesident-a-e8b2f42d-8bf8-40ea-b155-564897cff2b1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/mallorca-sauftourismus-auf-der-insel-saison-bereits-verloren](https://www.spiegel.de/wirtschaft/unternehmen/mallorca-sauftourismus-auf-der-insel-saison-bereits-verloren-a-f96b6cd8-e12d-4053-881e-9e4d27e50098#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tankrabatt-kartellrechtsplaene-von-robert-habeck-bringen-bdi-chef-russwurm-in-rage](https://www.spiegel.de/wirtschaft/tankrabatt-kartellrechtsplaene-von-robert-habeck-bringen-bdi-chef-russwurm-in-rage-a-58b4325a-5fe7-437a-9acc-a9442beccb99#ref=rss)
+### vorgehen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/mallorca-sauftourismus-auf-der-insel-saison-bereits-verloren](https://www.spiegel.de/wirtschaft/unternehmen/mallorca-sauftourismus-auf-der-insel-saison-bereits-verloren-a-f96b6cd8-e12d-4053-881e-9e4d27e50098#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-regierung-will-weiterhin-menschen-nach-ruanda-abschieben](https://www.spiegel.de/ausland/grossbritannien-regierung-will-weiterhin-menschen-nach-ruanda-abschieben-a-21dc5e27-0e28-4a1b-90d1-da9c5a50de1d#ref=rss)
+### peter
+
+* [https://www.spiegel.de/panorama/justiz/peter-r-de-vries-wie-kann-ich-diesen-verlust-jemals-verarbeiten](https://www.spiegel.de/panorama/justiz/peter-r-de-vries-wie-kann-ich-diesen-verlust-jemals-verarbeiten-a-c096f735-dce4-480e-bda4-977e12e79a94#ref=rss)
+### r
+
+* [https://www.spiegel.de/panorama/justiz/peter-r-de-vries-wie-kann-ich-diesen-verlust-jemals-verarbeiten](https://www.spiegel.de/panorama/justiz/peter-r-de-vries-wie-kann-ich-diesen-verlust-jemals-verarbeiten-a-c096f735-dce4-480e-bda4-977e12e79a94#ref=rss)
+### vries
+
+* [https://www.spiegel.de/panorama/justiz/peter-r-de-vries-wie-kann-ich-diesen-verlust-jemals-verarbeiten](https://www.spiegel.de/panorama/justiz/peter-r-de-vries-wie-kann-ich-diesen-verlust-jemals-verarbeiten-a-c096f735-dce4-480e-bda4-977e12e79a94#ref=rss)
+### trinkwasser
+
+* [https://www.spiegel.de/ausland/trinkwasser-aus-luft-und-sonne-wie-ein-start-up-nordafrika-mit-trinkwasser-versorgen-will](https://www.spiegel.de/ausland/trinkwasser-aus-luft-und-sonne-wie-ein-start-up-nordafrika-mit-trinkwasser-versorgen-will-a-3124c850-fbbe-491f-940d-bd667200e52a#ref=rss)
+### nordafrika
+
+* [https://www.spiegel.de/ausland/trinkwasser-aus-luft-und-sonne-wie-ein-start-up-nordafrika-mit-trinkwasser-versorgen-will](https://www.spiegel.de/ausland/trinkwasser-aus-luft-und-sonne-wie-ein-start-up-nordafrika-mit-trinkwasser-versorgen-will-a-3124c850-fbbe-491f-940d-bd667200e52a#ref=rss)
+### ändern
+
+* [https://www.spiegel.de/ausland/trinkwasser-aus-luft-und-sonne-wie-ein-start-up-nordafrika-mit-trinkwasser-versorgen-will](https://www.spiegel.de/ausland/trinkwasser-aus-luft-und-sonne-wie-ein-start-up-nordafrika-mit-trinkwasser-versorgen-will-a-3124c850-fbbe-491f-940d-bd667200e52a#ref=rss)
+* [https://www.spiegel.de/ausland/brexit-eu-leitet-verfahren-gegen-grossbritannien-wegen-nordirland-streits-ein](https://www.spiegel.de/ausland/brexit-eu-leitet-verfahren-gegen-grossbritannien-wegen-nordirland-streits-ein-a-d70a7299-d92c-4ec8-b4dc-25318fc8db63#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-robert-lewandowski-poker-geht-in-die-naechste-runde](https://www.spiegel.de/sport/fussball/fussball-transferticker-robert-lewandowski-poker-geht-in-die-naechste-runde-a-dc97d8b7-7be6-4e4d-b520-3278acdaa81a#ref=rss)
+### robert
+
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-robert-lewandowski-poker-geht-in-die-naechste-runde](https://www.spiegel.de/sport/fussball/fussball-transferticker-robert-lewandowski-poker-geht-in-die-naechste-runde-a-dc97d8b7-7be6-4e4d-b520-3278acdaa81a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tankrabatt-kartellrechtsplaene-von-robert-habeck-bringen-bdi-chef-russwurm-in-rage](https://www.spiegel.de/wirtschaft/tankrabatt-kartellrechtsplaene-von-robert-habeck-bringen-bdi-chef-russwurm-in-rage-a-58b4325a-5fe7-437a-9acc-a9442beccb99#ref=rss)
+### bradley
+
+* [https://www.spiegel.de/panorama/leute/bradley-cooper-ueber-seine-kokainsucht-null-selbstwertgefuehl](https://www.spiegel.de/panorama/leute/bradley-cooper-ueber-seine-kokainsucht-null-selbstwertgefuehl-a-501e989b-e3cc-4d2a-98bd-7d18fc6d6dcc#ref=rss)
+### cooper
+
+* [https://www.spiegel.de/panorama/leute/bradley-cooper-ueber-seine-kokainsucht-null-selbstwertgefuehl](https://www.spiegel.de/panorama/leute/bradley-cooper-ueber-seine-kokainsucht-null-selbstwertgefuehl-a-501e989b-e3cc-4d2a-98bd-7d18fc6d6dcc#ref=rss)
+### königshain
+
+* [https://www.spiegel.de/panorama/koenigshain-in-sachsen-der-wahlsieger-der-gar-nicht-auf-dem-stimmzettel-stand](https://www.spiegel.de/panorama/koenigshain-in-sachsen-der-wahlsieger-der-gar-nicht-auf-dem-stimmzettel-stand-a-bc5abd77-0977-4eb1-af6f-2593dbf3b93d#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-warum-europa-jetzt-besonders-gefordert-ist](https://www.spiegel.de/ausland/krieg-in-der-ukraine-warum-europa-jetzt-besonders-gefordert-ist-a-bcc2d838-6e08-4710-ac9d-df2099bc31dc#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/internetprobleme-mehr-als-jeder-dritte-hat-laut-umfrage-aerger-mit-dem-netz](https://www.spiegel.de/netzwelt/web/internetprobleme-mehr-als-jeder-dritte-hat-laut-umfrage-aerger-mit-dem-netz-a-f27da735-705b-48d3-9589-73a34276252e#ref=rss)
+### donbass
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-warum-europa-jetzt-besonders-gefordert-ist](https://www.spiegel.de/ausland/krieg-in-der-ukraine-warum-europa-jetzt-besonders-gefordert-ist-a-bcc2d838-6e08-4710-ac9d-df2099bc31dc#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-selenskyj-zum-kampf-um-den-donbass-die-verluste-sind-schmerzhaft-fuer-uns](https://www.spiegel.de/ausland/ukraine-selenskyj-zum-kampf-um-den-donbass-die-verluste-sind-schmerzhaft-fuer-uns-a-e7bae044-d4e3-4c02-a7d4-1078291e648c#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-warum-europa-jetzt-besonders-gefordert-ist](https://www.spiegel.de/ausland/krieg-in-der-ukraine-warum-europa-jetzt-besonders-gefordert-ist-a-bcc2d838-6e08-4710-ac9d-df2099bc31dc#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-selenskyj-zum-kampf-um-den-donbass-die-verluste-sind-schmerzhaft-fuer-uns](https://www.spiegel.de/ausland/ukraine-selenskyj-zum-kampf-um-den-donbass-die-verluste-sind-schmerzhaft-fuer-uns-a-e7bae044-d4e3-4c02-a7d4-1078291e648c#ref=rss)
+### alexandra
+
+* [https://www.spiegel.de/sport/fussball/alexandra-popp-dfb-kapitaenin-mit-corona-infiziert-im-trainingslager-vor-england-spiel](https://www.spiegel.de/sport/fussball/alexandra-popp-dfb-kapitaenin-mit-corona-infiziert-im-trainingslager-vor-england-spiel-a-9652a4a2-bf3c-4570-9411-e3e44e4a540d#ref=rss)
+### popp
+
+* [https://www.spiegel.de/sport/fussball/alexandra-popp-dfb-kapitaenin-mit-corona-infiziert-im-trainingslager-vor-england-spiel](https://www.spiegel.de/sport/fussball/alexandra-popp-dfb-kapitaenin-mit-corona-infiziert-im-trainingslager-vor-england-spiel-a-9652a4a2-bf3c-4570-9411-e3e44e4a540d#ref=rss)
+### trainingslager
+
+* [https://www.spiegel.de/sport/fussball/alexandra-popp-dfb-kapitaenin-mit-corona-infiziert-im-trainingslager-vor-england-spiel](https://www.spiegel.de/sport/fussball/alexandra-popp-dfb-kapitaenin-mit-corona-infiziert-im-trainingslager-vor-england-spiel-a-9652a4a2-bf3c-4570-9411-e3e44e4a540d#ref=rss)
+### brexit
+
+* [https://www.spiegel.de/ausland/brexit-eu-leitet-verfahren-gegen-grossbritannien-wegen-nordirland-streits-ein](https://www.spiegel.de/ausland/brexit-eu-leitet-verfahren-gegen-grossbritannien-wegen-nordirland-streits-ein-a-d70a7299-d92c-4ec8-b4dc-25318fc8db63#ref=rss)
+### 9euroticket
+
+* [https://www.spiegel.de/politik/deutschland/9-euro-ticket-bremer-spd-fordert-nachfolge-fuers-guenstige-fahren](https://www.spiegel.de/politik/deutschland/9-euro-ticket-bremer-spd-fordert-nachfolge-fuers-guenstige-fahren-a-9d533a7a-f34f-43a9-a3c5-0aaa235963e1#ref=rss)
+### bremer
+
+* [https://www.spiegel.de/politik/deutschland/9-euro-ticket-bremer-spd-fordert-nachfolge-fuers-guenstige-fahren](https://www.spiegel.de/politik/deutschland/9-euro-ticket-bremer-spd-fordert-nachfolge-fuers-guenstige-fahren-a-9d533a7a-f34f-43a9-a3c5-0aaa235963e1#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/9-euro-ticket-bremer-spd-fordert-nachfolge-fuers-guenstige-fahren](https://www.spiegel.de/politik/deutschland/9-euro-ticket-bremer-spd-fordert-nachfolge-fuers-guenstige-fahren-a-9d533a7a-f34f-43a9-a3c5-0aaa235963e1#ref=rss)
+### zusätzlich
+
+* [https://www.spiegel.de/wissenschaft/medizin/demenz-luecken-im-kurzzeitgedaechtnis-koennen-vorboten-von-demenz-sein](https://www.spiegel.de/wissenschaft/medizin/demenz-luecken-im-kurzzeitgedaechtnis-koennen-vorboten-von-demenz-sein-a-3362eb95-93d4-4a35-b6b5-06a80d02d03d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-laengerer-ausfall-bei-lng-terminalbetreiber-freeport-treibt-gaspreise-in-europa](https://www.spiegel.de/wirtschaft/lng-laengerer-ausfall-bei-lng-terminalbetreiber-freeport-treibt-gaspreise-in-europa-a-5087a499-fc51-4c00-94cb-833dac8c5b42#ref=rss)
+### risiko
+
+* [https://www.spiegel.de/wissenschaft/medizin/demenz-luecken-im-kurzzeitgedaechtnis-koennen-vorboten-von-demenz-sein](https://www.spiegel.de/wissenschaft/medizin/demenz-luecken-im-kurzzeitgedaechtnis-koennen-vorboten-von-demenz-sein-a-3362eb95-93d4-4a35-b6b5-06a80d02d03d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-in-der-nations-league-gegen-italien-hansi-flick-liebt-es-wenn-ein-plan-funktioniert](https://www.spiegel.de/sport/fussball/dfb-in-der-nations-league-gegen-italien-hansi-flick-liebt-es-wenn-ein-plan-funktioniert-a-2b02f92f-758c-4b62-8384-f67c3bf3bbbe#ref=rss)
+### nations
+
+* [https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-italien-ein-blaues-desaster-fuenf-schritte-zurueck-pressestimmen](https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-italien-ein-blaues-desaster-fuenf-schritte-zurueck-pressestimmen-a-774ba948-de1f-4655-926c-dd3ff5dc9eba#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-in-der-nations-league-gegen-italien-hansi-flick-liebt-es-wenn-ein-plan-funktioniert](https://www.spiegel.de/sport/fussball/dfb-in-der-nations-league-gegen-italien-hansi-flick-liebt-es-wenn-ein-plan-funktioniert-a-2b02f92f-758c-4b62-8384-f67c3bf3bbbe#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-italien-ein-blaues-desaster-fuenf-schritte-zurueck-pressestimmen](https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-italien-ein-blaues-desaster-fuenf-schritte-zurueck-pressestimmen-a-774ba948-de1f-4655-926c-dd3ff5dc9eba#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-in-der-nations-league-gegen-italien-hansi-flick-liebt-es-wenn-ein-plan-funktioniert](https://www.spiegel.de/sport/fussball/dfb-in-der-nations-league-gegen-italien-hansi-flick-liebt-es-wenn-ein-plan-funktioniert-a-2b02f92f-758c-4b62-8384-f67c3bf3bbbe#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/gesundheit/abtreibungen-wieder-mehr-schwangerschaftsabbrueche-in-deutschland-im-ersten-quartal](https://www.spiegel.de/gesundheit/abtreibungen-wieder-mehr-schwangerschaftsabbrueche-in-deutschland-im-ersten-quartal-a-a3733697-e700-4e40-8164-5a173345fc32#ref=rss)
+### quartal
+
+* [https://www.spiegel.de/gesundheit/abtreibungen-wieder-mehr-schwangerschaftsabbrueche-in-deutschland-im-ersten-quartal](https://www.spiegel.de/gesundheit/abtreibungen-wieder-mehr-schwangerschaftsabbrueche-in-deutschland-im-ersten-quartal-a-a3733697-e700-4e40-8164-5a173345fc32#ref=rss)
+### 2022
+
+* [https://www.spiegel.de/gesundheit/abtreibungen-wieder-mehr-schwangerschaftsabbrueche-in-deutschland-im-ersten-quartal](https://www.spiegel.de/gesundheit/abtreibungen-wieder-mehr-schwangerschaftsabbrueche-in-deutschland-im-ersten-quartal-a-a3733697-e700-4e40-8164-5a173345fc32#ref=rss)
+### rund
+
+* [https://www.spiegel.de/gesundheit/abtreibungen-wieder-mehr-schwangerschaftsabbrueche-in-deutschland-im-ersten-quartal](https://www.spiegel.de/gesundheit/abtreibungen-wieder-mehr-schwangerschaftsabbrueche-in-deutschland-im-ersten-quartal-a-a3733697-e700-4e40-8164-5a173345fc32#ref=rss)
+### freeport
+
+* [https://www.spiegel.de/wirtschaft/lng-laengerer-ausfall-bei-lng-terminalbetreiber-freeport-treibt-gaspreise-in-europa](https://www.spiegel.de/wirtschaft/lng-laengerer-ausfall-bei-lng-terminalbetreiber-freeport-treibt-gaspreise-in-europa-a-5087a499-fc51-4c00-94cb-833dac8c5b42#ref=rss)
+### gas
+
+* [https://www.spiegel.de/wirtschaft/lng-laengerer-ausfall-bei-lng-terminalbetreiber-freeport-treibt-gaspreise-in-europa](https://www.spiegel.de/wirtschaft/lng-laengerer-ausfall-bei-lng-terminalbetreiber-freeport-treibt-gaspreise-in-europa-a-5087a499-fc51-4c00-94cb-833dac8c5b42#ref=rss)
+* [https://www.spiegel.de/wirtschaft/erdgas-eu-schliesst-gas-abkommen-mit-israel-und-aegypten](https://www.spiegel.de/wirtschaft/erdgas-eu-schliesst-gas-abkommen-mit-israel-und-aegypten-a-07979197-b0e7-4635-b194-bee0460c8723#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/wirtschaft/lng-laengerer-ausfall-bei-lng-terminalbetreiber-freeport-treibt-gaspreise-in-europa](https://www.spiegel.de/wirtschaft/lng-laengerer-ausfall-bei-lng-terminalbetreiber-freeport-treibt-gaspreise-in-europa-a-5087a499-fc51-4c00-94cb-833dac8c5b42#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sommerwelle-gesundheitsminister-lauterbach-warnt-vor-steigenden-infektionszahlen](https://www.spiegel.de/politik/deutschland/coronavirus-sommerwelle-gesundheitsminister-lauterbach-warnt-vor-steigenden-infektionszahlen-a-e4c7b977-280a-47b4-81ba-905206ed38a9#ref=rss)
 ### israel
 
-* [https://www.spiegel.de/ausland/joe-biden-reist-im-juli-nach-israel-und-saudi-arabien-erste-nahost-reise-als-us-praesident](https://www.spiegel.de/ausland/joe-biden-reist-im-juli-nach-israel-und-saudi-arabien-erste-nahost-reise-als-us-praesident-a-e8b2f42d-8bf8-40ea-b155-564897cff2b1#ref=rss)
-### saudiarabien
+* [https://www.spiegel.de/wirtschaft/erdgas-eu-schliesst-gas-abkommen-mit-israel-und-aegypten](https://www.spiegel.de/wirtschaft/erdgas-eu-schliesst-gas-abkommen-mit-israel-und-aegypten-a-07979197-b0e7-4635-b194-bee0460c8723#ref=rss)
+### ägypten
 
-* [https://www.spiegel.de/ausland/joe-biden-reist-im-juli-nach-israel-und-saudi-arabien-erste-nahost-reise-als-us-praesident](https://www.spiegel.de/ausland/joe-biden-reist-im-juli-nach-israel-und-saudi-arabien-erste-nahost-reise-als-us-praesident-a-e8b2f42d-8bf8-40ea-b155-564897cff2b1#ref=rss)
-### uspräsident
+* [https://www.spiegel.de/wirtschaft/erdgas-eu-schliesst-gas-abkommen-mit-israel-und-aegypten](https://www.spiegel.de/wirtschaft/erdgas-eu-schliesst-gas-abkommen-mit-israel-und-aegypten-a-07979197-b0e7-4635-b194-bee0460c8723#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/ausland/joe-biden-reist-im-juli-nach-israel-und-saudi-arabien-erste-nahost-reise-als-us-praesident](https://www.spiegel.de/ausland/joe-biden-reist-im-juli-nach-israel-und-saudi-arabien-erste-nahost-reise-als-us-praesident-a-e8b2f42d-8bf8-40ea-b155-564897cff2b1#ref=rss)
-### apple
+* [https://www.spiegel.de/wirtschaft/erdgas-eu-schliesst-gas-abkommen-mit-israel-und-aegypten](https://www.spiegel.de/wirtschaft/erdgas-eu-schliesst-gas-abkommen-mit-israel-und-aegypten-a-07979197-b0e7-4635-b194-bee0460c8723#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sommerwelle-gesundheitsminister-lauterbach-warnt-vor-steigenden-infektionszahlen](https://www.spiegel.de/politik/deutschland/coronavirus-sommerwelle-gesundheitsminister-lauterbach-warnt-vor-steigenden-infektionszahlen-a-e4c7b977-280a-47b4-81ba-905206ed38a9#ref=rss)
+### europäische
 
-* [https://www.spiegel.de/netzwelt/apps/whatsapp-apple-erleichtert-den-umzug-von-android-zum-iphone](https://www.spiegel.de/netzwelt/apps/whatsapp-apple-erleichtert-den-umzug-von-android-zum-iphone-a-da9bf273-58cd-4b4e-9004-ecd90357c296#ref=rss)
-### hilft
+* [https://www.spiegel.de/wirtschaft/erdgas-eu-schliesst-gas-abkommen-mit-israel-und-aegypten](https://www.spiegel.de/wirtschaft/erdgas-eu-schliesst-gas-abkommen-mit-israel-und-aegypten-a-07979197-b0e7-4635-b194-bee0460c8723#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-regierung-will-weiterhin-menschen-nach-ruanda-abschieben](https://www.spiegel.de/ausland/grossbritannien-regierung-will-weiterhin-menschen-nach-ruanda-abschieben-a-21dc5e27-0e28-4a1b-90d1-da9c5a50de1d#ref=rss)
+### laut
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/drohende-insolvenz-deutschland-hilft-gazprom-germania-mit-kfw-darlehen](https://www.spiegel.de/wirtschaft/unternehmen/drohende-insolvenz-deutschland-hilft-gazprom-germania-mit-kfw-darlehen-a-4c3d86ac-1cf1-4186-bf4a-1d6369a8279a#ref=rss)
-### gazprom
+* [https://www.spiegel.de/netzwelt/web/internetprobleme-mehr-als-jeder-dritte-hat-laut-umfrage-aerger-mit-dem-netz](https://www.spiegel.de/netzwelt/web/internetprobleme-mehr-als-jeder-dritte-hat-laut-umfrage-aerger-mit-dem-netz-a-f27da735-705b-48d3-9589-73a34276252e#ref=rss)
+### ruanda
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/drohende-insolvenz-deutschland-hilft-gazprom-germania-mit-kfw-darlehen](https://www.spiegel.de/wirtschaft/unternehmen/drohende-insolvenz-deutschland-hilft-gazprom-germania-mit-kfw-darlehen-a-4c3d86ac-1cf1-4186-bf4a-1d6369a8279a#ref=rss)
-### germania
+* [https://www.spiegel.de/ausland/grossbritannien-regierung-will-weiterhin-menschen-nach-ruanda-abschieben](https://www.spiegel.de/ausland/grossbritannien-regierung-will-weiterhin-menschen-nach-ruanda-abschieben-a-21dc5e27-0e28-4a1b-90d1-da9c5a50de1d#ref=rss)
+### bundesverfassungsgericht
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/drohende-insolvenz-deutschland-hilft-gazprom-germania-mit-kfw-darlehen](https://www.spiegel.de/wirtschaft/unternehmen/drohende-insolvenz-deutschland-hilft-gazprom-germania-mit-kfw-darlehen-a-4c3d86ac-1cf1-4186-bf4a-1d6369a8279a#ref=rss)
-### ki
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-merkel-verletzte-mit-aeusserung-ueber-kemmerich-wahl-rechte-der-afd](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-merkel-verletzte-mit-aeusserung-ueber-kemmerich-wahl-rechte-der-afd-a-19171d12-5e60-4783-934f-00d6a9539c3e#ref=rss)
+### angela
 
-* [https://www.spiegel.de/netzwelt/web/google-beurlaubt-ingenieur-der-einer-ki-gefuehle-zuschreibt](https://www.spiegel.de/netzwelt/web/google-beurlaubt-ingenieur-der-einer-ki-gefuehle-zuschreibt-a-3d873abb-6a82-444d-b319-699a42841ca1#ref=rss)
-### homeoffice
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-merkel-verletzte-mit-aeusserung-ueber-kemmerich-wahl-rechte-der-afd](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-merkel-verletzte-mit-aeusserung-ueber-kemmerich-wahl-rechte-der-afd-a-19171d12-5e60-4783-934f-00d6a9539c3e#ref=rss)
+### merkel
 
-* [https://www.spiegel.de/wirtschaft/homeoffice-so-viele-menschen-wie-noch-nie-in-deutschland-arbeiteten-2021-zu-hause-rekordwert-waehrend-pandemie](https://www.spiegel.de/wirtschaft/homeoffice-so-viele-menschen-wie-noch-nie-in-deutschland-arbeiteten-2021-zu-hause-rekordwert-waehrend-pandemie-a-dc879825-c2c8-4a55-a827-71f29edb6562#ref=rss)
-### 2021
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-merkel-verletzte-mit-aeusserung-ueber-kemmerich-wahl-rechte-der-afd](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-merkel-verletzte-mit-aeusserung-ueber-kemmerich-wahl-rechte-der-afd-a-19171d12-5e60-4783-934f-00d6a9539c3e#ref=rss)
+### verletzte
 
-* [https://www.spiegel.de/wirtschaft/homeoffice-so-viele-menschen-wie-noch-nie-in-deutschland-arbeiteten-2021-zu-hause-rekordwert-waehrend-pandemie](https://www.spiegel.de/wirtschaft/homeoffice-so-viele-menschen-wie-noch-nie-in-deutschland-arbeiteten-2021-zu-hause-rekordwert-waehrend-pandemie-a-dc879825-c2c8-4a55-a827-71f29edb6562#ref=rss)
-### kirche
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-merkel-verletzte-mit-aeusserung-ueber-kemmerich-wahl-rechte-der-afd](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-merkel-verletzte-mit-aeusserung-ueber-kemmerich-wahl-rechte-der-afd-a-19171d12-5e60-4783-934f-00d6a9539c3e#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-olympiasiegerin-anita-wlodarczyk-verpasst-wm-nach-jagd-auf-autodieb](https://www.spiegel.de/sport/leichtathletik-olympiasiegerin-anita-wlodarczyk-verpasst-wm-nach-jagd-auf-autodieb-a-1cb92c5b-fe42-4944-b984-710184a71fe1#ref=rss)
+### afd
 
-* [https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-kritisiert-synodalen-weg-der-katholischen-kirche-in-deutschland](https://www.spiegel.de/panorama/gesellschaft/papst-franziskus-kritisiert-synodalen-weg-der-katholischen-kirche-in-deutschland-a-3353bce6-a23f-499e-bc97-428fbf40abb7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-merkel-verletzte-mit-aeusserung-ueber-kemmerich-wahl-rechte-der-afd](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-merkel-verletzte-mit-aeusserung-ueber-kemmerich-wahl-rechte-der-afd-a-19171d12-5e60-4783-934f-00d6a9539c3e#ref=rss)
+### indien
+
+* [https://www.spiegel.de/panorama/indien-junge-nach-vier-tagen-aus-brunnenschacht-gerettet](https://www.spiegel.de/panorama/indien-junge-nach-vier-tagen-aus-brunnenschacht-gerettet-a-37e3c5e6-0418-493a-850d-cdf068ba8fd5#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/indien-junge-nach-vier-tagen-aus-brunnenschacht-gerettet](https://www.spiegel.de/panorama/indien-junge-nach-vier-tagen-aus-brunnenschacht-gerettet-a-37e3c5e6-0418-493a-850d-cdf068ba8fd5#ref=rss)
+### tagen
+
+* [https://www.spiegel.de/panorama/indien-junge-nach-vier-tagen-aus-brunnenschacht-gerettet](https://www.spiegel.de/panorama/indien-junge-nach-vier-tagen-aus-brunnenschacht-gerettet-a-37e3c5e6-0418-493a-850d-cdf068ba8fd5#ref=rss)
+### hansi
+
+* [https://www.spiegel.de/sport/fussball/dfb-in-der-nations-league-gegen-italien-hansi-flick-liebt-es-wenn-ein-plan-funktioniert](https://www.spiegel.de/sport/fussball/dfb-in-der-nations-league-gegen-italien-hansi-flick-liebt-es-wenn-ein-plan-funktioniert-a-2b02f92f-758c-4b62-8384-f67c3bf3bbbe#ref=rss)
+### flick
+
+* [https://www.spiegel.de/sport/fussball/dfb-in-der-nations-league-gegen-italien-hansi-flick-liebt-es-wenn-ein-plan-funktioniert](https://www.spiegel.de/sport/fussball/dfb-in-der-nations-league-gegen-italien-hansi-flick-liebt-es-wenn-ein-plan-funktioniert-a-2b02f92f-758c-4b62-8384-f67c3bf3bbbe#ref=rss)
+### gesundheitsminister
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sommerwelle-gesundheitsminister-lauterbach-warnt-vor-steigenden-infektionszahlen](https://www.spiegel.de/politik/deutschland/coronavirus-sommerwelle-gesundheitsminister-lauterbach-warnt-vor-steigenden-infektionszahlen-a-e4c7b977-280a-47b4-81ba-905206ed38a9#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-sommerwelle-gesundheitsminister-lauterbach-warnt-vor-steigenden-infektionszahlen](https://www.spiegel.de/politik/deutschland/coronavirus-sommerwelle-gesundheitsminister-lauterbach-warnt-vor-steigenden-infektionszahlen-a-e4c7b977-280a-47b4-81ba-905206ed38a9#ref=rss)
+### dom
+
+* [https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen-a-db5f4c09-0bc7-4c7e-9f10-77d4d81bf572#ref=rss)
+### phillips
+
+* [https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen-a-db5f4c09-0bc7-4c7e-9f10-77d4d81bf572#ref=rss)
+### journalist
+
+* [https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen-a-db5f4c09-0bc7-4c7e-9f10-77d4d81bf572#ref=rss)
+### zweiter
+
+* [https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen-a-db5f4c09-0bc7-4c7e-9f10-77d4d81bf572#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen-a-db5f4c09-0bc7-4c7e-9f10-77d4d81bf572#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen](https://www.spiegel.de/panorama/justiz/dom-phillips-in-brasilien-verschollener-journalist-zweiter-verdaechtiger-festgenommen-a-db5f4c09-0bc7-4c7e-9f10-77d4d81bf572#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-olympiasiegerin-anita-wlodarczyk-verpasst-wm-nach-jagd-auf-autodieb](https://www.spiegel.de/sport/leichtathletik-olympiasiegerin-anita-wlodarczyk-verpasst-wm-nach-jagd-auf-autodieb-a-1cb92c5b-fe42-4944-b984-710184a71fe1#ref=rss)
+### hammerwerferin
+
+* [https://www.spiegel.de/sport/leichtathletik-olympiasiegerin-anita-wlodarczyk-verpasst-wm-nach-jagd-auf-autodieb](https://www.spiegel.de/sport/leichtathletik-olympiasiegerin-anita-wlodarczyk-verpasst-wm-nach-jagd-auf-autodieb-a-1cb92c5b-fe42-4944-b984-710184a71fe1#ref=rss)
+### anita
+
+* [https://www.spiegel.de/sport/leichtathletik-olympiasiegerin-anita-wlodarczyk-verpasst-wm-nach-jagd-auf-autodieb](https://www.spiegel.de/sport/leichtathletik-olympiasiegerin-anita-wlodarczyk-verpasst-wm-nach-jagd-auf-autodieb-a-1cb92c5b-fe42-4944-b984-710184a71fe1#ref=rss)
+### wlodarczyk
+
+* [https://www.spiegel.de/sport/leichtathletik-olympiasiegerin-anita-wlodarczyk-verpasst-wm-nach-jagd-auf-autodieb](https://www.spiegel.de/sport/leichtathletik-olympiasiegerin-anita-wlodarczyk-verpasst-wm-nach-jagd-auf-autodieb-a-1cb92c5b-fe42-4944-b984-710184a71fe1#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/sport/leichtathletik-olympiasiegerin-anita-wlodarczyk-verpasst-wm-nach-jagd-auf-autodieb](https://www.spiegel.de/sport/leichtathletik-olympiasiegerin-anita-wlodarczyk-verpasst-wm-nach-jagd-auf-autodieb-a-1cb92c5b-fe42-4944-b984-710184a71fe1#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/wirtschaft/tankrabatt-kartellrechtsplaene-von-robert-habeck-bringen-bdi-chef-russwurm-in-rage](https://www.spiegel.de/wirtschaft/tankrabatt-kartellrechtsplaene-von-robert-habeck-bringen-bdi-chef-russwurm-in-rage-a-58b4325a-5fe7-437a-9acc-a9442beccb99#ref=rss)
 
