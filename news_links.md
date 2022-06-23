@@ -4,325 +4,296 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### olaf
+### robert
 
-* [https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an](https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an-a-5fea341c-2773-4dd2-9c20-7b7fee11e69b#ref=rss)
-* [https://www.spiegel.de/kultur/olaf-scholz-verzichtet-auf-documenta-besuch](https://www.spiegel.de/kultur/olaf-scholz-verzichtet-auf-documenta-besuch-a-8fc6d240-f048-4a24-b1ff-e2c0da7b8fd5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar](https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar-a-df27cbdf-5022-4b28-9d3f-c10603bd989a#ref=rss)
-### scholz
+* [https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet](https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet-a-1b70b9e9-20c1-44ce-a177-07417672e524#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream](https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream-a-bc5240f4-8588-46a6-a694-ee9abe97d787#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen](https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen-a-19e34474-06b4-4ced-8d98-06ff0e817f4f#ref=rss)
+### habeck
 
-* [https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an](https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an-a-5fea341c-2773-4dd2-9c20-7b7fee11e69b#ref=rss)
-* [https://www.spiegel.de/kultur/olaf-scholz-verzichtet-auf-documenta-besuch](https://www.spiegel.de/kultur/olaf-scholz-verzichtet-auf-documenta-besuch-a-8fc6d240-f048-4a24-b1ff-e2c0da7b8fd5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar](https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar-a-df27cbdf-5022-4b28-9d3f-c10603bd989a#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick](https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick-a-85fa9e25-af4e-461f-b19a-2932f0ed0cde#ref=rss)
-* [https://www.spiegel.de/ausland/duerre-in-nord-italien-wir-hoffen-einfach-dass-es-bald-wieder-regnet](https://www.spiegel.de/ausland/duerre-in-nord-italien-wir-hoffen-einfach-dass-es-bald-wieder-regnet-a-3d8d1ed1-053c-4d1f-b19f-608da849445d#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bafoeg-erhoehung-koalition-legt-nach-und-enttaeuscht-studierende](https://www.spiegel.de/panorama/bildung/bafoeg-erhoehung-koalition-legt-nach-und-enttaeuscht-studierende-a-c30b7cc5-7140-4b8f-a896-28d17dee1676#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef](https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef-a-401ab134-1fbf-473b-b4c3-e4d5737393cf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet](https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet-a-1b70b9e9-20c1-44ce-a177-07417672e524#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream](https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream-a-bc5240f4-8588-46a6-a694-ee9abe97d787#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen](https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen-a-19e34474-06b4-4ced-8d98-06ff0e817f4f#ref=rss)
 ### eu
 
-* [https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an](https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an-a-5fea341c-2773-4dd2-9c20-7b7fee11e69b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-parlament-stimmt-fuer-ehrgeizigeren-emissionshandel](https://www.spiegel.de/wirtschaft/unternehmen/eu-parlament-stimmt-fuer-ehrgeizigeren-emissionshandel-a-64070c12-7a94-4a33-bf08-1bc3cb22c342#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/brexit-studie-eu-austritt-kostet-jeden-britischen-arbeitnehmer-470-pfund-pro-jahr](https://www.spiegel.de/wirtschaft/unternehmen/brexit-studie-eu-austritt-kostet-jeden-britischen-arbeitnehmer-470-pfund-pro-jahr-a-86c4008f-dab3-4ef2-985a-992bdbb7c776#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef](https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef-a-401ab134-1fbf-473b-b4c3-e4d5737393cf#ref=rss)
-### kanzler
+* [https://www.spiegel.de/auto/elektroautos-bundesanstalt-fuer-geowissenschaften-und-rohstoffe-warnt-vor-lithium-engpass](https://www.spiegel.de/auto/elektroautos-bundesanstalt-fuer-geowissenschaften-und-rohstoffe-warnt-vor-lithium-engpass-a-9c2d65fb-a261-42ee-89de-56586f8cf08e#ref=rss)
+* [https://www.spiegel.de/ausland/eu-gipfel-warum-bruessel-die-zeitenwende-braucht](https://www.spiegel.de/ausland/eu-gipfel-warum-bruessel-die-zeitenwende-braucht-a-cf6f0a1a-c6f6-4930-b71f-3f39e71e6308#ref=rss)
+* [https://www.spiegel.de/auto/biodiesel-und-nahrungsmittelkrise-19-millionen-flaschen-sonnenblumenoel-landen-in-autotanks-taeglich](https://www.spiegel.de/auto/biodiesel-und-nahrungsmittelkrise-19-millionen-flaschen-sonnenblumenoel-landen-in-autotanks-taeglich-a-2e83f5f8-0471-4db6-a072-5e9481bd3253#ref=rss)
+* [https://www.spiegel.de/ausland/vor-westbalkan-gipfel-kosovo-beharrt-auf-zusagen-der-eu](https://www.spiegel.de/ausland/vor-westbalkan-gipfel-kosovo-beharrt-auf-zusagen-der-eu-a-1f2a3571-c5d7-442c-8e2b-4a3a8a878094#ref=rss)
+### zweite
 
-* [https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an](https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an-a-5fea341c-2773-4dd2-9c20-7b7fee11e69b#ref=rss)
-* [https://www.spiegel.de/kultur/olaf-scholz-verzichtet-auf-documenta-besuch](https://www.spiegel.de/kultur/olaf-scholz-verzichtet-auf-documenta-besuch-a-8fc6d240-f048-4a24-b1ff-e2c0da7b8fd5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum](https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum-a-3c0f0b60-b16c-4d88-841e-640f663b1382#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar](https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar-a-df27cbdf-5022-4b28-9d3f-c10603bd989a#ref=rss)
-### russland
+* [https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet](https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet-a-1b70b9e9-20c1-44ce-a177-07417672e524#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream](https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream-a-bc5240f4-8588-46a6-a694-ee9abe97d787#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen](https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen-a-19e34474-06b4-4ced-8d98-06ff0e817f4f#ref=rss)
+### stufe
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke](https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke-a-e97d0291-7cfe-4037-ac91-465c8cbba408#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum](https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum-a-3c0f0b60-b16c-4d88-841e-640f663b1382#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar](https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar-a-df27cbdf-5022-4b28-9d3f-c10603bd989a#ref=rss)
-### wahl
+* [https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet](https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet-a-1b70b9e9-20c1-44ce-a177-07417672e524#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream](https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream-a-bc5240f4-8588-46a6-a694-ee9abe97d787#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen](https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen-a-19e34474-06b4-4ced-8d98-06ff0e817f4f#ref=rss)
+### notfallplans
 
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-parteispitzen-billigen-schwarz-gruenen-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/schleswig-holstein-parteispitzen-billigen-schwarz-gruenen-koalitionsvertrag-a-3aae5839-d7aa-4616-a9f8-482a55572dca#ref=rss)
-* [https://www.spiegel.de/ausland/sturm-aufs-kapitol-vier-erkenntnisse-zur-vierten-anhoerung](https://www.spiegel.de/ausland/sturm-aufs-kapitol-vier-erkenntnisse-zur-vierten-anhoerung-a-d682bbe3-632d-42f8-96d0-cb4b58a81171#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben](https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben-a-e0dce699-c774-48db-8134-7f9ae40b6978#ref=rss)
-### bleiben
+* [https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet](https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet-a-1b70b9e9-20c1-44ce-a177-07417672e524#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream](https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream-a-bc5240f4-8588-46a6-a694-ee9abe97d787#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen](https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen-a-19e34474-06b4-4ced-8d98-06ff0e817f4f#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen](https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen-a-81b2c303-becc-4c4d-86da-dad4d4a92d6d#ref=rss)
-* [https://www.spiegel.de/ausland/sturm-aufs-kapitol-vier-erkenntnisse-zur-vierten-anhoerung](https://www.spiegel.de/ausland/sturm-aufs-kapitol-vier-erkenntnisse-zur-vierten-anhoerung-a-d682bbe3-632d-42f8-96d0-cb4b58a81171#ref=rss)
-* [https://www.spiegel.de/kultur/tv/ingo-zamperoni-bleibt-tagesthemen-moderator](https://www.spiegel.de/kultur/tv/ingo-zamperoni-bleibt-tagesthemen-moderator-a-19493e23-fea3-4096-a23c-7d7def22ff34#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-massnahme-zum-gassparen-baeder-senken-wassertemperatur](https://www.spiegel.de/panorama/gesellschaft/muenchen-massnahme-zum-gassparen-baeder-senken-wassertemperatur-a-292037c6-9c8e-4b4a-9c42-96433726a57d#ref=rss)
-### drei
+* [https://www.spiegel.de/politik/ukraine-botschafter-andrij-melnyk-im-spiegel-talk-mein-praesident-war-not-amused](https://www.spiegel.de/politik/ukraine-botschafter-andrij-melnyk-im-spiegel-talk-mein-praesident-war-not-amused-a-b0b3a31d-901d-447f-b43f-b2572bacb77d#ref=rss)
+* [https://www.spiegel.de/kultur/olaf-scholz-und-die-documenta-ein-skandal-dieser-regierung-kommentar](https://www.spiegel.de/kultur/olaf-scholz-und-die-documenta-ein-skandal-dieser-regierung-kommentar-a-41a0fa45-7626-4eed-ad5c-066aa3517fec#ref=rss)
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an](https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an-a-5fea341c-2773-4dd2-9c20-7b7fee11e69b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke](https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke-a-e97d0291-7cfe-4037-ac91-465c8cbba408#ref=rss)
-* [https://www.spiegel.de/kultur/tv/ingo-zamperoni-bleibt-tagesthemen-moderator](https://www.spiegel.de/kultur/tv/ingo-zamperoni-bleibt-tagesthemen-moderator-a-19493e23-fea3-4096-a23c-7d7def22ff34#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick](https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick-a-85fa9e25-af4e-461f-b19a-2932f0ed0cde#ref=rss)
-* [https://www.spiegel.de/psychologie/psychologie-warum-optimisten-laenger-leben-und-wie-man-lernt-optimistisch-zu-sein](https://www.spiegel.de/psychologie/psychologie-warum-optimisten-laenger-leben-und-wie-man-lernt-optimistisch-zu-sein-a-d3e72410-050b-4b0d-a87a-7b0379d643e7#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-afghanistan-ich-habe-viele-leichen-gesehen](https://www.spiegel.de/ausland/erdbeben-in-afghanistan-ich-habe-viele-leichen-gesehen-a-6c386e97-6588-4fd3-bd9c-c652b05f0484#ref=rss)
-### erdbeben
-
-* [https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick](https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick-a-85fa9e25-af4e-461f-b19a-2932f0ed0cde#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-afghanistan-ich-habe-viele-leichen-gesehen](https://www.spiegel.de/ausland/erdbeben-in-afghanistan-ich-habe-viele-leichen-gesehen-a-6c386e97-6588-4fd3-bd9c-c652b05f0484#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum](https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum-a-3c0f0b60-b16c-4d88-841e-640f663b1382#ref=rss)
-* [https://www.spiegel.de/kultur/genozid-an-den-herero-und-nama-die-deutsche-grausamkeit-beginnt-nicht-mit-dem-holocaust-sie-gipfelt-darin](https://www.spiegel.de/kultur/genozid-an-den-herero-und-nama-die-deutsche-grausamkeit-beginnt-nicht-mit-dem-holocaust-sie-gipfelt-darin-a-0fc80e0d-44f5-4a59-b99c-1cae8feb1715#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen](https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen-a-81b2c303-becc-4c4d-86da-dad4d4a92d6d#ref=rss)
-### wir
-
-* [https://www.spiegel.de/ausland/duerre-in-nord-italien-wir-hoffen-einfach-dass-es-bald-wieder-regnet](https://www.spiegel.de/ausland/duerre-in-nord-italien-wir-hoffen-einfach-dass-es-bald-wieder-regnet-a-3d8d1ed1-053c-4d1f-b19f-608da849445d#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m2-im-test-apple-zuendet-die-zweite-stufe](https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m2-im-test-apple-zuendet-die-zweite-stufe-a-27630c1f-fb62-48bc-8fa6-4db496450daf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar](https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar-a-df27cbdf-5022-4b28-9d3f-c10603bd989a#ref=rss)
-### münchen
-
-* [https://www.spiegel.de/panorama/justiz/muenchen-polizei-will-konsequent-gegen-gewaltbereite-g7-gegner-vorgehen](https://www.spiegel.de/panorama/justiz/muenchen-polizei-will-konsequent-gegen-gewaltbereite-g7-gegner-vorgehen-a-de62e265-d192-4522-9b78-7422b27a4ed0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-massnahme-zum-gassparen-baeder-senken-wassertemperatur](https://www.spiegel.de/panorama/gesellschaft/muenchen-massnahme-zum-gassparen-baeder-senken-wassertemperatur-a-292037c6-9c8e-4b4a-9c42-96433726a57d#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/sturm-aufs-kapitol-vier-erkenntnisse-zur-vierten-anhoerung](https://www.spiegel.de/ausland/sturm-aufs-kapitol-vier-erkenntnisse-zur-vierten-anhoerung-a-d682bbe3-632d-42f8-96d0-cb4b58a81171#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linken-parteitag-bodo-ramelow-darf-nur-vier-minuten-reden](https://www.spiegel.de/politik/deutschland/linken-parteitag-bodo-ramelow-darf-nur-vier-minuten-reden-a-d197f428-33e5-445f-bbbf-ce52d029ad53#ref=rss)
-### pro
-
-* [https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m2-im-test-apple-zuendet-die-zweite-stufe](https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m2-im-test-apple-zuendet-die-zweite-stufe-a-27630c1f-fb62-48bc-8fa6-4db496450daf#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bafoeg-erhoehung-koalition-legt-nach-und-enttaeuscht-studierende](https://www.spiegel.de/panorama/bildung/bafoeg-erhoehung-koalition-legt-nach-und-enttaeuscht-studierende-a-c30b7cc5-7140-4b8f-a896-28d17dee1676#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/brexit-studie-eu-austritt-kostet-jeden-britischen-arbeitnehmer-470-pfund-pro-jahr](https://www.spiegel.de/wirtschaft/unternehmen/brexit-studie-eu-austritt-kostet-jeden-britischen-arbeitnehmer-470-pfund-pro-jahr-a-86c4008f-dab3-4ef2-985a-992bdbb7c776#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an](https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an-a-5fea341c-2773-4dd2-9c20-7b7fee11e69b#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-plant-nahost-reise-wie-umgehen-mit-iran-und-israel](https://www.spiegel.de/ausland/joe-biden-plant-nahost-reise-wie-umgehen-mit-iran-und-israel-a-5eaf7ed9-ede6-4fff-9a33-ac6e75dadef1#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an](https://www.spiegel.de/politik/deutschland/eu-g7-nato-gipfel-darauf-kommt-es-fuer-olaf-scholz-beim-gipfelmarathon-an-a-5fea341c-2773-4dd2-9c20-7b7fee11e69b#ref=rss)
-* [https://www.spiegel.de/kultur/genozid-an-den-herero-und-nama-die-deutsche-grausamkeit-beginnt-nicht-mit-dem-holocaust-sie-gipfelt-darin](https://www.spiegel.de/kultur/genozid-an-den-herero-und-nama-die-deutsche-grausamkeit-beginnt-nicht-mit-dem-holocaust-sie-gipfelt-darin-a-0fc80e0d-44f5-4a59-b99c-1cae8feb1715#ref=rss)
-### längere
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke](https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke-a-e97d0291-7cfe-4037-ac91-465c8cbba408#ref=rss)
-### laufzeiten
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke](https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke-a-e97d0291-7cfe-4037-ac91-465c8cbba408#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke](https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke-a-e97d0291-7cfe-4037-ac91-465c8cbba408#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar](https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar-a-df27cbdf-5022-4b28-9d3f-c10603bd989a#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke](https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke-a-e97d0291-7cfe-4037-ac91-465c8cbba408#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben](https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben-a-e0dce699-c774-48db-8134-7f9ae40b6978#ref=rss)
-### forderungen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke](https://www.spiegel.de/wirtschaft/unternehmen/so-realistisch-sind-laengere-laufzeiten-fuer-atomkraftwerke-a-e97d0291-7cfe-4037-ac91-465c8cbba408#ref=rss)
-* [https://www.spiegel.de/kultur/genozid-an-den-herero-und-nama-die-deutsche-grausamkeit-beginnt-nicht-mit-dem-holocaust-sie-gipfelt-darin](https://www.spiegel.de/kultur/genozid-an-den-herero-und-nama-die-deutsche-grausamkeit-beginnt-nicht-mit-dem-holocaust-sie-gipfelt-darin-a-0fc80e0d-44f5-4a59-b99c-1cae8feb1715#ref=rss)
-### andrij
-
-* [https://www.spiegel.de/politik/andrij-melnyk-im-talk-zum-ukraine-krieg-putin-ist-wie-eine-symbiose-aus-hitler-und-stalin](https://www.spiegel.de/politik/andrij-melnyk-im-talk-zum-ukraine-krieg-putin-ist-wie-eine-symbiose-aus-hitler-und-stalin-a-f672284f-b893-410e-8c42-17004d30e39a#ref=rss)
-### melnyk
-
-* [https://www.spiegel.de/politik/andrij-melnyk-im-talk-zum-ukraine-krieg-putin-ist-wie-eine-symbiose-aus-hitler-und-stalin](https://www.spiegel.de/politik/andrij-melnyk-im-talk-zum-ukraine-krieg-putin-ist-wie-eine-symbiose-aus-hitler-und-stalin-a-f672284f-b893-410e-8c42-17004d30e39a#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/andrij-melnyk-im-talk-zum-ukraine-krieg-putin-ist-wie-eine-symbiose-aus-hitler-und-stalin](https://www.spiegel.de/politik/andrij-melnyk-im-talk-zum-ukraine-krieg-putin-ist-wie-eine-symbiose-aus-hitler-und-stalin-a-f672284f-b893-410e-8c42-17004d30e39a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben](https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben-a-e0dce699-c774-48db-8134-7f9ae40b6978#ref=rss)
-### schleswigholstein
-
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-parteispitzen-billigen-schwarz-gruenen-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/schleswig-holstein-parteispitzen-billigen-schwarz-gruenen-koalitionsvertrag-a-3aae5839-d7aa-4616-a9f8-482a55572dca#ref=rss)
-### koalition
-
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-parteispitzen-billigen-schwarz-gruenen-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/schleswig-holstein-parteispitzen-billigen-schwarz-gruenen-koalitionsvertrag-a-3aae5839-d7aa-4616-a9f8-482a55572dca#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bafoeg-erhoehung-koalition-legt-nach-und-enttaeuscht-studierende](https://www.spiegel.de/panorama/bildung/bafoeg-erhoehung-koalition-legt-nach-und-enttaeuscht-studierende-a-c30b7cc5-7140-4b8f-a896-28d17dee1676#ref=rss)
-### zustimmen
-
-* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-parteispitzen-billigen-schwarz-gruenen-koalitionsvertrag](https://www.spiegel.de/politik/deutschland/schleswig-holstein-parteispitzen-billigen-schwarz-gruenen-koalitionsvertrag-a-3aae5839-d7aa-4616-a9f8-482a55572dca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef](https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef-a-401ab134-1fbf-473b-b4c3-e4d5737393cf#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick](https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick-a-85fa9e25-af4e-461f-b19a-2932f0ed0cde#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-afghanistan-ich-habe-viele-leichen-gesehen](https://www.spiegel.de/ausland/erdbeben-in-afghanistan-ich-habe-viele-leichen-gesehen-a-6c386e97-6588-4fd3-bd9c-c652b05f0484#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick](https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick-a-85fa9e25-af4e-461f-b19a-2932f0ed0cde#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick](https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick-a-85fa9e25-af4e-461f-b19a-2932f0ed0cde#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-plant-nahost-reise-wie-umgehen-mit-iran-und-israel](https://www.spiegel.de/ausland/joe-biden-plant-nahost-reise-wie-umgehen-mit-iran-und-israel-a-5eaf7ed9-ede6-4fff-9a33-ac6e75dadef1#ref=rss)
-### großen
-
-* [https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick](https://www.spiegel.de/panorama/afghanistan-mehr-als-tausend-menschen-durch-erdbeben-getoetet-der-ueberblick-a-85fa9e25-af4e-461f-b19a-2932f0ed0cde#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-frau-muss-sieben-meter-hohes-holzkreuz-aus-garten-entfernen](https://www.spiegel.de/panorama/justiz/duesseldorf-frau-muss-sieben-meter-hohes-holzkreuz-aus-garten-entfernen-a-c9f9e2f6-d100-47e5-8942-d9d8dd3fa393#ref=rss)
-### verzichtet
-
-* [https://www.spiegel.de/kultur/olaf-scholz-verzichtet-auf-documenta-besuch](https://www.spiegel.de/kultur/olaf-scholz-verzichtet-auf-documenta-besuch-a-8fc6d240-f048-4a24-b1ff-e2c0da7b8fd5#ref=rss)
-### regierungserklärung
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum](https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum-a-3c0f0b60-b16c-4d88-841e-640f663b1382#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar](https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar-a-df27cbdf-5022-4b28-9d3f-c10603bd989a#ref=rss)
-### partnerschaft
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum](https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum-a-3c0f0b60-b16c-4d88-841e-640f663b1382#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar](https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar-a-df27cbdf-5022-4b28-9d3f-c10603bd989a#ref=rss)
-### unvorstellbar
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum](https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum-a-3c0f0b60-b16c-4d88-841e-640f663b1382#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar](https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar-a-df27cbdf-5022-4b28-9d3f-c10603bd989a#ref=rss)
-### verkehrsminister
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum](https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum-a-3c0f0b60-b16c-4d88-841e-640f663b1382#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen](https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen-a-81b2c303-becc-4c4d-86da-dad4d4a92d6d#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum](https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-9-euro-ticket-wohneigentum-a-3c0f0b60-b16c-4d88-841e-640f663b1382#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen](https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen-a-81b2c303-becc-4c4d-86da-dad4d4a92d6d#ref=rss)
-### länger
-
-* [https://www.spiegel.de/psychologie/psychologie-warum-optimisten-laenger-leben-und-wie-man-lernt-optimistisch-zu-sein](https://www.spiegel.de/psychologie/psychologie-warum-optimisten-laenger-leben-und-wie-man-lernt-optimistisch-zu-sein-a-d3e72410-050b-4b0d-a87a-7b0379d643e7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/kampf-gegen-plastikmuell-forscher-erfinden-essbare-verpackungen-fuer-obst-und-gemuese](https://www.spiegel.de/wissenschaft/kampf-gegen-plastikmuell-forscher-erfinden-essbare-verpackungen-fuer-obst-und-gemuese-a-c9f7233d-82ed-42c3-988e-2ebf8572d718#ref=rss)
-### leben
-
-* [https://www.spiegel.de/psychologie/psychologie-warum-optimisten-laenger-leben-und-wie-man-lernt-optimistisch-zu-sein](https://www.spiegel.de/psychologie/psychologie-warum-optimisten-laenger-leben-und-wie-man-lernt-optimistisch-zu-sein-a-d3e72410-050b-4b0d-a87a-7b0379d643e7#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-afghanistan-ich-habe-viele-leichen-gesehen](https://www.spiegel.de/ausland/erdbeben-in-afghanistan-ich-habe-viele-leichen-gesehen-a-6c386e97-6588-4fd3-bd9c-c652b05f0484#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/psychologie/psychologie-warum-optimisten-laenger-leben-und-wie-man-lernt-optimistisch-zu-sein](https://www.spiegel.de/psychologie/psychologie-warum-optimisten-laenger-leben-und-wie-man-lernt-optimistisch-zu-sein-a-d3e72410-050b-4b0d-a87a-7b0379d643e7#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-massnahme-zum-gassparen-baeder-senken-wassertemperatur](https://www.spiegel.de/panorama/gesellschaft/muenchen-massnahme-zum-gassparen-baeder-senken-wassertemperatur-a-292037c6-9c8e-4b4a-9c42-96433726a57d#ref=rss)
-### norditalien
-
-* [https://www.spiegel.de/ausland/duerre-in-nord-italien-wir-hoffen-einfach-dass-es-bald-wieder-regnet](https://www.spiegel.de/ausland/duerre-in-nord-italien-wir-hoffen-einfach-dass-es-bald-wieder-regnet-a-3d8d1ed1-053c-4d1f-b19f-608da849445d#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/duerre-in-nord-italien-wir-hoffen-einfach-dass-es-bald-wieder-regnet](https://www.spiegel.de/ausland/duerre-in-nord-italien-wir-hoffen-einfach-dass-es-bald-wieder-regnet-a-3d8d1ed1-053c-4d1f-b19f-608da849445d#ref=rss)
-* [https://www.spiegel.de/kultur/tv/ingo-zamperoni-bleibt-tagesthemen-moderator](https://www.spiegel.de/kultur/tv/ingo-zamperoni-bleibt-tagesthemen-moderator-a-19493e23-fea3-4096-a23c-7d7def22ff34#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/joe-biden-plant-nahost-reise-wie-umgehen-mit-iran-und-israel](https://www.spiegel.de/ausland/joe-biden-plant-nahost-reise-wie-umgehen-mit-iran-und-israel-a-5eaf7ed9-ede6-4fff-9a33-ac6e75dadef1#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/joe-biden-plant-nahost-reise-wie-umgehen-mit-iran-und-israel](https://www.spiegel.de/ausland/joe-biden-plant-nahost-reise-wie-umgehen-mit-iran-und-israel-a-5eaf7ed9-ede6-4fff-9a33-ac6e75dadef1#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/joe-biden-plant-nahost-reise-wie-umgehen-mit-iran-und-israel](https://www.spiegel.de/ausland/joe-biden-plant-nahost-reise-wie-umgehen-mit-iran-und-israel-a-5eaf7ed9-ede6-4fff-9a33-ac6e75dadef1#ref=rss)
-### entschieden
-
-* [https://www.spiegel.de/ausland/joe-biden-plant-nahost-reise-wie-umgehen-mit-iran-und-israel](https://www.spiegel.de/ausland/joe-biden-plant-nahost-reise-wie-umgehen-mit-iran-und-israel-a-5eaf7ed9-ede6-4fff-9a33-ac6e75dadef1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/eu-parlament-stimmt-fuer-ehrgeizigeren-emissionshandel](https://www.spiegel.de/wirtschaft/unternehmen/eu-parlament-stimmt-fuer-ehrgeizigeren-emissionshandel-a-64070c12-7a94-4a33-bf08-1bc3cb22c342#ref=rss)
-### herero
-
-* [https://www.spiegel.de/kultur/genozid-an-den-herero-und-nama-die-deutsche-grausamkeit-beginnt-nicht-mit-dem-holocaust-sie-gipfelt-darin](https://www.spiegel.de/kultur/genozid-an-den-herero-und-nama-die-deutsche-grausamkeit-beginnt-nicht-mit-dem-holocaust-sie-gipfelt-darin-a-0fc80e0d-44f5-4a59-b99c-1cae8feb1715#ref=rss)
-### nama
-
-* [https://www.spiegel.de/kultur/genozid-an-den-herero-und-nama-die-deutsche-grausamkeit-beginnt-nicht-mit-dem-holocaust-sie-gipfelt-darin](https://www.spiegel.de/kultur/genozid-an-den-herero-und-nama-die-deutsche-grausamkeit-beginnt-nicht-mit-dem-holocaust-sie-gipfelt-darin-a-0fc80e0d-44f5-4a59-b99c-1cae8feb1715#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/ausland/erdbeben-in-afghanistan-ich-habe-viele-leichen-gesehen](https://www.spiegel.de/ausland/erdbeben-in-afghanistan-ich-habe-viele-leichen-gesehen-a-6c386e97-6588-4fd3-bd9c-c652b05f0484#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-massnahme-zum-gassparen-baeder-senken-wassertemperatur](https://www.spiegel.de/panorama/gesellschaft/muenchen-massnahme-zum-gassparen-baeder-senken-wassertemperatur-a-292037c6-9c8e-4b4a-9c42-96433726a57d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/g7-gipfel-in-elmau-mia-san-viele-das-sicherheitskonzept-der-polizei](https://www.spiegel.de/panorama/justiz/g7-gipfel-in-elmau-mia-san-viele-das-sicherheitskonzept-der-polizei-a-4f5d6b6d-f07f-4d66-88c0-fa6bd4385c0e#ref=rss)
+* [https://www.spiegel.de/auto/9-euro-ticket-verkehrsminister-volker-wissing-haelt-fahrschein-fuer-dauerhaft-nicht-moeglich](https://www.spiegel.de/auto/9-euro-ticket-verkehrsminister-volker-wissing-haelt-fahrschein-fuer-dauerhaft-nicht-moeglich-a-46626415-6de2-4b94-8a68-174aaa8c7f36#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/la-palma-deutsche-verschenken-ihr-haus-an-vulkanopfer](https://www.spiegel.de/panorama/gesellschaft/la-palma-deutsche-verschenken-ihr-haus-an-vulkanopfer-a-78f00e98-aa67-489e-b52c-71ffe676a306#ref=rss)
 ### volker
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen](https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen-a-81b2c303-becc-4c4d-86da-dad4d4a92d6d#ref=rss)
+* [https://www.spiegel.de/auto/9-euro-ticket-verkehrsminister-volker-wissing-haelt-fahrschein-fuer-dauerhaft-nicht-moeglich](https://www.spiegel.de/auto/9-euro-ticket-verkehrsminister-volker-wissing-haelt-fahrschein-fuer-dauerhaft-nicht-moeglich-a-46626415-6de2-4b94-8a68-174aaa8c7f36#ref=rss)
+* [https://www.spiegel.de/kultur/documenta-volker-beck-und-josef-schuster-fordern-ruecktritt-der-documenta-chefin](https://www.spiegel.de/kultur/documenta-volker-beck-und-josef-schuster-fordern-ruecktritt-der-documenta-chefin-a-1ff950ab-4517-48cd-805e-2750c5c8b76c#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/auto/9-euro-ticket-verkehrsminister-volker-wissing-haelt-fahrschein-fuer-dauerhaft-nicht-moeglich](https://www.spiegel.de/auto/9-euro-ticket-verkehrsminister-volker-wissing-haelt-fahrschein-fuer-dauerhaft-nicht-moeglich-a-46626415-6de2-4b94-8a68-174aaa8c7f36#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-regelt-spielrecht-fuer-trans-und-nicht-binaere-menschen](https://www.spiegel.de/sport/fussball/dfb-regelt-spielrecht-fuer-trans-und-nicht-binaere-menschen-a-17ec9cdd-ff72-41c6-a93b-f1308869e359#ref=rss)
+### ändern
+
+* [https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-am-abraham-geiger-kolleg-was-die-neue-chefin-vorhat](https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-am-abraham-geiger-kolleg-was-die-neue-chefin-vorhat-a-71c9c774-40eb-489f-b874-cafeb0bb332d#ref=rss)
+* [https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten](https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten-a-2a603632-e7b9-40a7-975f-ac3efcbdbe38#ref=rss)
+* [https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen](https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen-a-e63e4fbf-b05a-45de-8852-43f2dff66817#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-mann-verletzt-19-jaehrige-an-bushaltestelle-lebensgefaehrlich-mit-messer](https://www.spiegel.de/panorama/justiz/hamburg-mann-verletzt-19-jaehrige-an-bushaltestelle-lebensgefaehrlich-mit-messer-a-0a9507a7-1008-4186-8755-0f860420eb50#ref=rss)
+* [https://www.spiegel.de/panorama/los-angeles-blitz-toetet-frau-und-hunde-beim-gassigehen](https://www.spiegel.de/panorama/los-angeles-blitz-toetet-frau-und-hunde-beim-gassigehen-a-77b8834a-9164-4472-a05b-cdcfa2edbac3#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/panorama/bildung/bafoeg-ampelkoalition-stockt-die-saetze-auf-und-muss-kritik-einstecken](https://www.spiegel.de/panorama/bildung/bafoeg-ampelkoalition-stockt-die-saetze-auf-und-muss-kritik-einstecken-a-1efe28a8-7596-4c80-bc01-0d98a0fab8b1#ref=rss)
+* [https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen](https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen-a-e63e4fbf-b05a-45de-8852-43f2dff66817#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-lehnt-afd-eilantrag-zu-ausschussvorsitzen-im-bundestag-ab](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-lehnt-afd-eilantrag-zu-ausschussvorsitzen-im-bundestag-ab-a-27b4cb69-4d38-4f26-9669-81e6cd4ed4b0#ref=rss)
+### gas
+
+* [https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet](https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet-a-1b70b9e9-20c1-44ce-a177-07417672e524#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream](https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream-a-bc5240f4-8588-46a6-a694-ee9abe97d787#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen](https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen-a-19e34474-06b4-4ced-8d98-06ff0e817f4f#ref=rss)
+### wirtschaftsminister
+
+* [https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet](https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet-a-1b70b9e9-20c1-44ce-a177-07417672e524#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream](https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream-a-bc5240f4-8588-46a6-a694-ee9abe97d787#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen](https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen-a-19e34474-06b4-4ced-8d98-06ff0e817f4f#ref=rss)
+### mohammed
+
+* [https://www.spiegel.de/ausland/mohammed-bin-salman-trifft-recep-tayyip-erdogan-tuerkei-und-saudi-arabien-verabreden](https://www.spiegel.de/ausland/mohammed-bin-salman-trifft-recep-tayyip-erdogan-tuerkei-und-saudi-arabien-verabreden-a-5f606226-b808-43b1-9573-c964e5bb45d9#ref=rss)
+### bin
+
+* [https://www.spiegel.de/ausland/mohammed-bin-salman-trifft-recep-tayyip-erdogan-tuerkei-und-saudi-arabien-verabreden](https://www.spiegel.de/ausland/mohammed-bin-salman-trifft-recep-tayyip-erdogan-tuerkei-und-saudi-arabien-verabreden-a-5f606226-b808-43b1-9573-c964e5bb45d9#ref=rss)
+### salman
+
+* [https://www.spiegel.de/ausland/mohammed-bin-salman-trifft-recep-tayyip-erdogan-tuerkei-und-saudi-arabien-verabreden](https://www.spiegel.de/ausland/mohammed-bin-salman-trifft-recep-tayyip-erdogan-tuerkei-und-saudi-arabien-verabreden-a-5f606226-b808-43b1-9573-c964e5bb45d9#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/mohammed-bin-salman-trifft-recep-tayyip-erdogan-tuerkei-und-saudi-arabien-verabreden](https://www.spiegel.de/ausland/mohammed-bin-salman-trifft-recep-tayyip-erdogan-tuerkei-und-saudi-arabien-verabreden-a-5f606226-b808-43b1-9573-c964e5bb45d9#ref=rss)
+### saudiarabien
+
+* [https://www.spiegel.de/ausland/mohammed-bin-salman-trifft-recep-tayyip-erdogan-tuerkei-und-saudi-arabien-verabreden](https://www.spiegel.de/ausland/mohammed-bin-salman-trifft-recep-tayyip-erdogan-tuerkei-und-saudi-arabien-verabreden-a-5f606226-b808-43b1-9573-c964e5bb45d9#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/ausland/mohammed-bin-salman-trifft-recep-tayyip-erdogan-tuerkei-und-saudi-arabien-verabreden](https://www.spiegel.de/ausland/mohammed-bin-salman-trifft-recep-tayyip-erdogan-tuerkei-und-saudi-arabien-verabreden-a-5f606226-b808-43b1-9573-c964e5bb45d9#ref=rss)
+* [https://www.spiegel.de/auto/biodiesel-und-nahrungsmittelkrise-19-millionen-flaschen-sonnenblumenoel-landen-in-autotanks-taeglich](https://www.spiegel.de/auto/biodiesel-und-nahrungsmittelkrise-19-millionen-flaschen-sonnenblumenoel-landen-in-autotanks-taeglich-a-2e83f5f8-0471-4db6-a072-5e9481bd3253#ref=rss)
+### andrij
+
+* [https://www.spiegel.de/politik/ukraine-botschafter-andrij-melnyk-im-spiegel-talk-mein-praesident-war-not-amused](https://www.spiegel.de/politik/ukraine-botschafter-andrij-melnyk-im-spiegel-talk-mein-praesident-war-not-amused-a-b0b3a31d-901d-447f-b43f-b2572bacb77d#ref=rss)
+### melnyk
+
+* [https://www.spiegel.de/politik/ukraine-botschafter-andrij-melnyk-im-spiegel-talk-mein-praesident-war-not-amused](https://www.spiegel.de/politik/ukraine-botschafter-andrij-melnyk-im-spiegel-talk-mein-praesident-war-not-amused-a-b0b3a31d-901d-447f-b43f-b2572bacb77d#ref=rss)
+### spiegeltalk
+
+* [https://www.spiegel.de/politik/ukraine-botschafter-andrij-melnyk-im-spiegel-talk-mein-praesident-war-not-amused](https://www.spiegel.de/politik/ukraine-botschafter-andrij-melnyk-im-spiegel-talk-mein-praesident-war-not-amused-a-b0b3a31d-901d-447f-b43f-b2572bacb77d#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/politik/ukraine-botschafter-andrij-melnyk-im-spiegel-talk-mein-praesident-war-not-amused](https://www.spiegel.de/politik/ukraine-botschafter-andrij-melnyk-im-spiegel-talk-mein-praesident-war-not-amused-a-b0b3a31d-901d-447f-b43f-b2572bacb77d#ref=rss)
+* [https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten](https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten-a-2a603632-e7b9-40a7-975f-ac3efcbdbe38#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/ukraine-botschafter-andrij-melnyk-im-spiegel-talk-mein-praesident-war-not-amused](https://www.spiegel.de/politik/ukraine-botschafter-andrij-melnyk-im-spiegel-talk-mein-praesident-war-not-amused-a-b0b3a31d-901d-447f-b43f-b2572bacb77d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bafoeg-ampelkoalition-stockt-die-saetze-auf-und-muss-kritik-einstecken](https://www.spiegel.de/panorama/bildung/bafoeg-ampelkoalition-stockt-die-saetze-auf-und-muss-kritik-einstecken-a-1efe28a8-7596-4c80-bc01-0d98a0fab8b1#ref=rss)
+### elmau
+
+* [https://www.spiegel.de/panorama/justiz/g7-gipfel-in-elmau-mia-san-viele-das-sicherheitskonzept-der-polizei](https://www.spiegel.de/panorama/justiz/g7-gipfel-in-elmau-mia-san-viele-das-sicherheitskonzept-der-polizei-a-4f5d6b6d-f07f-4d66-88c0-fa6bd4385c0e#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/g7-gipfel-in-elmau-mia-san-viele-das-sicherheitskonzept-der-polizei](https://www.spiegel.de/panorama/justiz/g7-gipfel-in-elmau-mia-san-viele-das-sicherheitskonzept-der-polizei-a-4f5d6b6d-f07f-4d66-88c0-fa6bd4385c0e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/salzgitter-jugendliche-wurde-erstickt-14-jaehriger-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/salzgitter-jugendliche-wurde-erstickt-14-jaehriger-in-untersuchungshaft-a-92a6587f-aef2-4765-8bf7-ca078232bb39#ref=rss)
+### 9euroticket
+
+* [https://www.spiegel.de/auto/9-euro-ticket-verkehrsminister-volker-wissing-haelt-fahrschein-fuer-dauerhaft-nicht-moeglich](https://www.spiegel.de/auto/9-euro-ticket-verkehrsminister-volker-wissing-haelt-fahrschein-fuer-dauerhaft-nicht-moeglich-a-46626415-6de2-4b94-8a68-174aaa8c7f36#ref=rss)
 ### wissing
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen](https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen-a-81b2c303-becc-4c4d-86da-dad4d4a92d6d#ref=rss)
-### sagt
+* [https://www.spiegel.de/auto/9-euro-ticket-verkehrsminister-volker-wissing-haelt-fahrschein-fuer-dauerhaft-nicht-moeglich](https://www.spiegel.de/auto/9-euro-ticket-verkehrsminister-volker-wissing-haelt-fahrschein-fuer-dauerhaft-nicht-moeglich-a-46626415-6de2-4b94-8a68-174aaa8c7f36#ref=rss)
+### documenta
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen](https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen-a-81b2c303-becc-4c4d-86da-dad4d4a92d6d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef](https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef-a-401ab134-1fbf-473b-b4c3-e4d5737393cf#ref=rss)
-### diesmal
+* [https://www.spiegel.de/kultur/olaf-scholz-und-die-documenta-ein-skandal-dieser-regierung-kommentar](https://www.spiegel.de/kultur/olaf-scholz-und-die-documenta-ein-skandal-dieser-regierung-kommentar-a-41a0fa45-7626-4eed-ad5c-066aa3517fec#ref=rss)
+* [https://www.spiegel.de/kultur/documenta-volker-beck-und-josef-schuster-fordern-ruecktritt-der-documenta-chefin](https://www.spiegel.de/kultur/documenta-volker-beck-und-josef-schuster-fordern-ruecktritt-der-documenta-chefin-a-1ff950ab-4517-48cd-805e-2750c5c8b76c#ref=rss)
+### la
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen](https://www.spiegel.de/wirtschaft/unternehmen/marode-infrastruktur-deutsche-bahn-und-verkehrsminister-volker-wissing-wollen-hochleistungsnetz-aufbauen-a-81b2c303-becc-4c4d-86da-dad4d4a92d6d#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m2-im-test-apple-zuendet-die-zweite-stufe](https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m2-im-test-apple-zuendet-die-zweite-stufe-a-27630c1f-fb62-48bc-8fa6-4db496450daf#ref=rss)
-### anhörung
+* [https://www.spiegel.de/panorama/gesellschaft/la-palma-deutsche-verschenken-ihr-haus-an-vulkanopfer](https://www.spiegel.de/panorama/gesellschaft/la-palma-deutsche-verschenken-ihr-haus-an-vulkanopfer-a-78f00e98-aa67-489e-b52c-71ffe676a306#ref=rss)
+### palma
 
-* [https://www.spiegel.de/ausland/sturm-aufs-kapitol-vier-erkenntnisse-zur-vierten-anhoerung](https://www.spiegel.de/ausland/sturm-aufs-kapitol-vier-erkenntnisse-zur-vierten-anhoerung-a-d682bbe3-632d-42f8-96d0-cb4b58a81171#ref=rss)
-### alternative
+* [https://www.spiegel.de/panorama/gesellschaft/la-palma-deutsche-verschenken-ihr-haus-an-vulkanopfer](https://www.spiegel.de/panorama/gesellschaft/la-palma-deutsche-verschenken-ihr-haus-an-vulkanopfer-a-78f00e98-aa67-489e-b52c-71ffe676a306#ref=rss)
+### kolleg
 
-* [https://www.spiegel.de/ausland/sturm-aufs-kapitol-vier-erkenntnisse-zur-vierten-anhoerung](https://www.spiegel.de/ausland/sturm-aufs-kapitol-vier-erkenntnisse-zur-vierten-anhoerung-a-d682bbe3-632d-42f8-96d0-cb4b58a81171#ref=rss)
-* [https://www.spiegel.de/wissenschaft/kampf-gegen-plastikmuell-forscher-erfinden-essbare-verpackungen-fuer-obst-und-gemuese](https://www.spiegel.de/wissenschaft/kampf-gegen-plastikmuell-forscher-erfinden-essbare-verpackungen-fuer-obst-und-gemuese-a-c9f7233d-82ed-42c3-988e-2ebf8572d718#ref=rss)
-### minuten
+* [https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-am-abraham-geiger-kolleg-was-die-neue-chefin-vorhat](https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-am-abraham-geiger-kolleg-was-die-neue-chefin-vorhat-a-71c9c774-40eb-489f-b874-cafeb0bb332d#ref=rss)
+### gemacht
 
-* [https://www.spiegel.de/politik/deutschland/linken-parteitag-bodo-ramelow-darf-nur-vier-minuten-reden](https://www.spiegel.de/politik/deutschland/linken-parteitag-bodo-ramelow-darf-nur-vier-minuten-reden-a-d197f428-33e5-445f-bbbf-ce52d029ad53#ref=rss)
-### einmal
+* [https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-am-abraham-geiger-kolleg-was-die-neue-chefin-vorhat](https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-am-abraham-geiger-kolleg-was-die-neue-chefin-vorhat-a-71c9c774-40eb-489f-b874-cafeb0bb332d#ref=rss)
+* [https://www.spiegel.de/karriere/bundesfinanzhof-trauerredner-koennen-schwarze-kleidung-nicht-steuerlich-absetzen](https://www.spiegel.de/karriere/bundesfinanzhof-trauerredner-koennen-schwarze-kleidung-nicht-steuerlich-absetzen-a-b734c960-f0c4-4809-a660-039edcda91bb#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/politik/deutschland/linken-parteitag-bodo-ramelow-darf-nur-vier-minuten-reden](https://www.spiegel.de/politik/deutschland/linken-parteitag-bodo-ramelow-darf-nur-vier-minuten-reden-a-d197f428-33e5-445f-bbbf-ce52d029ad53#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef](https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef-a-401ab134-1fbf-473b-b4c3-e4d5737393cf#ref=rss)
-### ferda
+* [https://www.spiegel.de/panorama/justiz/hamburg-mann-verletzt-19-jaehrige-an-bushaltestelle-lebensgefaehrlich-mit-messer](https://www.spiegel.de/panorama/justiz/hamburg-mann-verletzt-19-jaehrige-an-bushaltestelle-lebensgefaehrlich-mit-messer-a-0a9507a7-1008-4186-8755-0f860420eb50#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben](https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben-a-e0dce699-c774-48db-8134-7f9ae40b6978#ref=rss)
-### ataman
+* [https://www.spiegel.de/panorama/justiz/hamburg-mann-verletzt-19-jaehrige-an-bushaltestelle-lebensgefaehrlich-mit-messer](https://www.spiegel.de/panorama/justiz/hamburg-mann-verletzt-19-jaehrige-an-bushaltestelle-lebensgefaehrlich-mit-messer-a-0a9507a7-1008-4186-8755-0f860420eb50#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben](https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben-a-e0dce699-c774-48db-8134-7f9ae40b6978#ref=rss)
-### anfang
+* [https://www.spiegel.de/panorama/justiz/hamburg-mann-verletzt-19-jaehrige-an-bushaltestelle-lebensgefaehrlich-mit-messer](https://www.spiegel.de/panorama/justiz/hamburg-mann-verletzt-19-jaehrige-an-bushaltestelle-lebensgefaehrlich-mit-messer-a-0a9507a7-1008-4186-8755-0f860420eb50#ref=rss)
+### schwer
 
-* [https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben](https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben-a-e0dce699-c774-48db-8134-7f9ae40b6978#ref=rss)
-### juli
+* [https://www.spiegel.de/panorama/justiz/hamburg-mann-verletzt-19-jaehrige-an-bushaltestelle-lebensgefaehrlich-mit-messer](https://www.spiegel.de/panorama/justiz/hamburg-mann-verletzt-19-jaehrige-an-bushaltestelle-lebensgefaehrlich-mit-messer-a-0a9507a7-1008-4186-8755-0f860420eb50#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eurowings-wie-crews-jetzt-die-maskenpflicht-durchsetzen-sollen](https://www.spiegel.de/wirtschaft/eurowings-wie-crews-jetzt-die-maskenpflicht-durchsetzen-sollen-a-1a7d2dbe-7d6e-4dae-baf6-4ee33a1ac211#ref=rss)
+### militärhistoriker
 
-* [https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben](https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben-a-e0dce699-c774-48db-8134-7f9ae40b6978#ref=rss)
-### verschoben
+* [https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten](https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten-a-2a603632-e7b9-40a7-975f-ac3efcbdbe38#ref=rss)
+### sönke
 
-* [https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben](https://www.spiegel.de/politik/deutschland/diskriminierungsbeauftragte-wahl-von-ferda-ataman-auf-anfang-juli-verschoben-a-e0dce699-c774-48db-8134-7f9ae40b6978#ref=rss)
-### apple
+* [https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten](https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten-a-2a603632-e7b9-40a7-975f-ac3efcbdbe38#ref=rss)
+### neitzel
 
-* [https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m2-im-test-apple-zuendet-die-zweite-stufe](https://www.spiegel.de/netzwelt/gadgets/macbook-pro-m2-im-test-apple-zuendet-die-zweite-stufe-a-27630c1f-fb62-48bc-8fa6-4db496450daf#ref=rss)
-### ingo
+* [https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten](https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten-a-2a603632-e7b9-40a7-975f-ac3efcbdbe38#ref=rss)
+### müssten
 
-* [https://www.spiegel.de/kultur/tv/ingo-zamperoni-bleibt-tagesthemen-moderator](https://www.spiegel.de/kultur/tv/ingo-zamperoni-bleibt-tagesthemen-moderator-a-19493e23-fea3-4096-a23c-7d7def22ff34#ref=rss)
-### zamperoni
+* [https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten](https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten-a-2a603632-e7b9-40a7-975f-ac3efcbdbe38#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet](https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet-a-1b70b9e9-20c1-44ce-a177-07417672e524#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/kultur/tv/ingo-zamperoni-bleibt-tagesthemen-moderator](https://www.spiegel.de/kultur/tv/ingo-zamperoni-bleibt-tagesthemen-moderator-a-19493e23-fea3-4096-a23c-7d7def22ff34#ref=rss)
-### olli
+* [https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten](https://www.spiegel.de/backstage/militaerhistoriker-soenke-neitzel-diskutiert-ueber-den-ukrainekrieg-mit-spiegel-abonnentinnen-und-abonnenten-a-2a603632-e7b9-40a7-975f-ac3efcbdbe38#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-regelt-spielrecht-fuer-trans-und-nicht-binaere-menschen](https://www.spiegel.de/sport/fussball/dfb-regelt-spielrecht-fuer-trans-und-nicht-binaere-menschen-a-17ec9cdd-ff72-41c6-a93b-f1308869e359#ref=rss)
+### bundesfinanzhof
 
-* [https://www.spiegel.de/panorama/leute/olli-schulz-ueber-jan-boehmermann-und-fynn-kliemann-hab-beide-schonmal-in-ihrer-kueche-weinen-sehen](https://www.spiegel.de/panorama/leute/olli-schulz-ueber-jan-boehmermann-und-fynn-kliemann-hab-beide-schonmal-in-ihrer-kueche-weinen-sehen-a-4a8e5a7b-0fba-4e23-a34b-bce0c262d06c#ref=rss)
-### schulz
+* [https://www.spiegel.de/karriere/bundesfinanzhof-trauerredner-koennen-schwarze-kleidung-nicht-steuerlich-absetzen](https://www.spiegel.de/karriere/bundesfinanzhof-trauerredner-koennen-schwarze-kleidung-nicht-steuerlich-absetzen-a-b734c960-f0c4-4809-a660-039edcda91bb#ref=rss)
+### schwarze
 
-* [https://www.spiegel.de/panorama/leute/olli-schulz-ueber-jan-boehmermann-und-fynn-kliemann-hab-beide-schonmal-in-ihrer-kueche-weinen-sehen](https://www.spiegel.de/panorama/leute/olli-schulz-ueber-jan-boehmermann-und-fynn-kliemann-hab-beide-schonmal-in-ihrer-kueche-weinen-sehen-a-4a8e5a7b-0fba-4e23-a34b-bce0c262d06c#ref=rss)
-### jan
+* [https://www.spiegel.de/karriere/bundesfinanzhof-trauerredner-koennen-schwarze-kleidung-nicht-steuerlich-absetzen](https://www.spiegel.de/karriere/bundesfinanzhof-trauerredner-koennen-schwarze-kleidung-nicht-steuerlich-absetzen-a-b734c960-f0c4-4809-a660-039edcda91bb#ref=rss)
+### steuerlich
 
-* [https://www.spiegel.de/panorama/leute/olli-schulz-ueber-jan-boehmermann-und-fynn-kliemann-hab-beide-schonmal-in-ihrer-kueche-weinen-sehen](https://www.spiegel.de/panorama/leute/olli-schulz-ueber-jan-boehmermann-und-fynn-kliemann-hab-beide-schonmal-in-ihrer-kueche-weinen-sehen-a-4a8e5a7b-0fba-4e23-a34b-bce0c262d06c#ref=rss)
-### böhmermann
+* [https://www.spiegel.de/karriere/bundesfinanzhof-trauerredner-koennen-schwarze-kleidung-nicht-steuerlich-absetzen](https://www.spiegel.de/karriere/bundesfinanzhof-trauerredner-koennen-schwarze-kleidung-nicht-steuerlich-absetzen-a-b734c960-f0c4-4809-a660-039edcda91bb#ref=rss)
+### stellte
 
-* [https://www.spiegel.de/panorama/leute/olli-schulz-ueber-jan-boehmermann-und-fynn-kliemann-hab-beide-schonmal-in-ihrer-kueche-weinen-sehen](https://www.spiegel.de/panorama/leute/olli-schulz-ueber-jan-boehmermann-und-fynn-kliemann-hab-beide-schonmal-in-ihrer-kueche-weinen-sehen-a-4a8e5a7b-0fba-4e23-a34b-bce0c262d06c#ref=rss)
-### fynn
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-welchen-ligarekord-stellte-der-fc-chelsea-auf](https://www.spiegel.de/sport/fussball/fussball-quiz-welchen-ligarekord-stellte-der-fc-chelsea-auf-a-e5b2dfdf-54a8-4cd0-b1af-a6b4e0e3d9c2#ref=rss)
+### fc
 
-* [https://www.spiegel.de/panorama/leute/olli-schulz-ueber-jan-boehmermann-und-fynn-kliemann-hab-beide-schonmal-in-ihrer-kueche-weinen-sehen](https://www.spiegel.de/panorama/leute/olli-schulz-ueber-jan-boehmermann-und-fynn-kliemann-hab-beide-schonmal-in-ihrer-kueche-weinen-sehen-a-4a8e5a7b-0fba-4e23-a34b-bce0c262d06c#ref=rss)
-### kliemann
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-welchen-ligarekord-stellte-der-fc-chelsea-auf](https://www.spiegel.de/sport/fussball/fussball-quiz-welchen-ligarekord-stellte-der-fc-chelsea-auf-a-e5b2dfdf-54a8-4cd0-b1af-a6b4e0e3d9c2#ref=rss)
+### chelsea
 
-* [https://www.spiegel.de/panorama/leute/olli-schulz-ueber-jan-boehmermann-und-fynn-kliemann-hab-beide-schonmal-in-ihrer-kueche-weinen-sehen](https://www.spiegel.de/panorama/leute/olli-schulz-ueber-jan-boehmermann-und-fynn-kliemann-hab-beide-schonmal-in-ihrer-kueche-weinen-sehen-a-4a8e5a7b-0fba-4e23-a34b-bce0c262d06c#ref=rss)
-### völker
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-welchen-ligarekord-stellte-der-fc-chelsea-auf](https://www.spiegel.de/sport/fussball/fussball-quiz-welchen-ligarekord-stellte-der-fc-chelsea-auf-a-e5b2dfdf-54a8-4cd0-b1af-a6b4e0e3d9c2#ref=rss)
+### saison
 
-* [https://www.spiegel.de/ausland/indigene-voelker-sollen-als-naturschuetzer-gestaerkt-werden](https://www.spiegel.de/ausland/indigene-voelker-sollen-als-naturschuetzer-gestaerkt-werden-a-8774d113-4d22-4aec-827a-128caf5a7a6a#ref=rss)
-### naturschützer
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-welchen-ligarekord-stellte-der-fc-chelsea-auf](https://www.spiegel.de/sport/fussball/fussball-quiz-welchen-ligarekord-stellte-der-fc-chelsea-auf-a-e5b2dfdf-54a8-4cd0-b1af-a6b4e0e3d9c2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-regelt-spielrecht-fuer-trans-und-nicht-binaere-menschen](https://www.spiegel.de/sport/fussball/dfb-regelt-spielrecht-fuer-trans-und-nicht-binaere-menschen-a-17ec9cdd-ff72-41c6-a93b-f1308869e359#ref=rss)
+### maskenpflicht
 
-* [https://www.spiegel.de/ausland/indigene-voelker-sollen-als-naturschuetzer-gestaerkt-werden](https://www.spiegel.de/ausland/indigene-voelker-sollen-als-naturschuetzer-gestaerkt-werden-a-8774d113-4d22-4aec-827a-128caf5a7a6a#ref=rss)
-### philipp
+* [https://www.spiegel.de/wirtschaft/eurowings-wie-crews-jetzt-die-maskenpflicht-durchsetzen-sollen](https://www.spiegel.de/wirtschaft/eurowings-wie-crews-jetzt-die-maskenpflicht-durchsetzen-sollen-a-1a7d2dbe-7d6e-4dae-baf6-4ee33a1ac211#ref=rss)
+### droht
 
-* [https://www.spiegel.de/sport/tennis/philipp-kohlschreiber-scheitert-in-der-wimbledon-qualifikation-und-beendet-karriere](https://www.spiegel.de/sport/tennis/philipp-kohlschreiber-scheitert-in-der-wimbledon-qualifikation-und-beendet-karriere-a-bb48588c-5595-4dd1-b197-0a2ec9f66dbe#ref=rss)
-### kohlschreiber
+* [https://www.spiegel.de/wirtschaft/eurowings-wie-crews-jetzt-die-maskenpflicht-durchsetzen-sollen](https://www.spiegel.de/wirtschaft/eurowings-wie-crews-jetzt-die-maskenpflicht-durchsetzen-sollen-a-1a7d2dbe-7d6e-4dae-baf6-4ee33a1ac211#ref=rss)
+* [https://www.spiegel.de/reise/deutschland/ferienbeginn-in-nrw-wie-komme-ich-im-flugchaos-zu-meinem-recht](https://www.spiegel.de/reise/deutschland/ferienbeginn-in-nrw-wie-komme-ich-im-flugchaos-zu-meinem-recht-a-0d675ed5-4946-4eaf-9528-54b9ab3169d1#ref=rss)
+### bafög
 
-* [https://www.spiegel.de/sport/tennis/philipp-kohlschreiber-scheitert-in-der-wimbledon-qualifikation-und-beendet-karriere](https://www.spiegel.de/sport/tennis/philipp-kohlschreiber-scheitert-in-der-wimbledon-qualifikation-und-beendet-karriere-a-bb48588c-5595-4dd1-b197-0a2ec9f66dbe#ref=rss)
-### karriere
+* [https://www.spiegel.de/panorama/bildung/bafoeg-ampelkoalition-stockt-die-saetze-auf-und-muss-kritik-einstecken](https://www.spiegel.de/panorama/bildung/bafoeg-ampelkoalition-stockt-die-saetze-auf-und-muss-kritik-einstecken-a-1efe28a8-7596-4c80-bc01-0d98a0fab8b1#ref=rss)
+### beschlossen
 
-* [https://www.spiegel.de/sport/tennis/philipp-kohlschreiber-scheitert-in-der-wimbledon-qualifikation-und-beendet-karriere](https://www.spiegel.de/sport/tennis/philipp-kohlschreiber-scheitert-in-der-wimbledon-qualifikation-und-beendet-karriere-a-bb48588c-5595-4dd1-b197-0a2ec9f66dbe#ref=rss)
-### jeden
+* [https://www.spiegel.de/panorama/bildung/bafoeg-ampelkoalition-stockt-die-saetze-auf-und-muss-kritik-einstecken](https://www.spiegel.de/panorama/bildung/bafoeg-ampelkoalition-stockt-die-saetze-auf-und-muss-kritik-einstecken-a-1efe28a8-7596-4c80-bc01-0d98a0fab8b1#ref=rss)
+* [https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen](https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen-a-e63e4fbf-b05a-45de-8852-43f2dff66817#ref=rss)
+### warnt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/brexit-studie-eu-austritt-kostet-jeden-britischen-arbeitnehmer-470-pfund-pro-jahr](https://www.spiegel.de/wirtschaft/unternehmen/brexit-studie-eu-austritt-kostet-jeden-britischen-arbeitnehmer-470-pfund-pro-jahr-a-86c4008f-dab3-4ef2-985a-992bdbb7c776#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar](https://www.spiegel.de/politik/deutschland/ukraine-krieg-partnerschaft-mit-russland-ist-fuer-olaf-scholz-auf-absehbare-zeit-unvorstellbar-a-df27cbdf-5022-4b28-9d3f-c10603bd989a#ref=rss)
-### arbeitnehmer
+* [https://www.spiegel.de/auto/elektroautos-bundesanstalt-fuer-geowissenschaften-und-rohstoffe-warnt-vor-lithium-engpass](https://www.spiegel.de/auto/elektroautos-bundesanstalt-fuer-geowissenschaften-und-rohstoffe-warnt-vor-lithium-engpass-a-9c2d65fb-a261-42ee-89de-56586f8cf08e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet](https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet-a-1b70b9e9-20c1-44ce-a177-07417672e524#ref=rss)
+### brüssel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/brexit-studie-eu-austritt-kostet-jeden-britischen-arbeitnehmer-470-pfund-pro-jahr](https://www.spiegel.de/wirtschaft/unternehmen/brexit-studie-eu-austritt-kostet-jeden-britischen-arbeitnehmer-470-pfund-pro-jahr-a-86c4008f-dab3-4ef2-985a-992bdbb7c776#ref=rss)
-### wassertemperatur
+* [https://www.spiegel.de/ausland/eu-gipfel-warum-bruessel-die-zeitenwende-braucht](https://www.spiegel.de/ausland/eu-gipfel-warum-bruessel-die-zeitenwende-braucht-a-cf6f0a1a-c6f6-4930-b71f-3f39e71e6308#ref=rss)
+* [https://www.spiegel.de/ausland/vor-westbalkan-gipfel-kosovo-beharrt-auf-zusagen-der-eu](https://www.spiegel.de/ausland/vor-westbalkan-gipfel-kosovo-beharrt-auf-zusagen-der-eu-a-1f2a3571-c5d7-442c-8e2b-4a3a8a878094#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/gesellschaft/muenchen-massnahme-zum-gassparen-baeder-senken-wassertemperatur](https://www.spiegel.de/panorama/gesellschaft/muenchen-massnahme-zum-gassparen-baeder-senken-wassertemperatur-a-292037c6-9c8e-4b4a-9c42-96433726a57d#ref=rss)
-### sieben
+* [https://www.spiegel.de/ausland/eu-gipfel-warum-bruessel-die-zeitenwende-braucht](https://www.spiegel.de/ausland/eu-gipfel-warum-bruessel-die-zeitenwende-braucht-a-cf6f0a1a-c6f6-4930-b71f-3f39e71e6308#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream](https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream-a-bc5240f4-8588-46a6-a694-ee9abe97d787#ref=rss)
+### los
 
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-frau-muss-sieben-meter-hohes-holzkreuz-aus-garten-entfernen](https://www.spiegel.de/panorama/justiz/duesseldorf-frau-muss-sieben-meter-hohes-holzkreuz-aus-garten-entfernen-a-c9f9e2f6-d100-47e5-8942-d9d8dd3fa393#ref=rss)
-### meter
+* [https://www.spiegel.de/panorama/los-angeles-blitz-toetet-frau-und-hunde-beim-gassigehen](https://www.spiegel.de/panorama/los-angeles-blitz-toetet-frau-und-hunde-beim-gassigehen-a-77b8834a-9164-4472-a05b-cdcfa2edbac3#ref=rss)
+### angeles
 
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-frau-muss-sieben-meter-hohes-holzkreuz-aus-garten-entfernen](https://www.spiegel.de/panorama/justiz/duesseldorf-frau-muss-sieben-meter-hohes-holzkreuz-aus-garten-entfernen-a-c9f9e2f6-d100-47e5-8942-d9d8dd3fa393#ref=rss)
-### holzkreuz
+* [https://www.spiegel.de/panorama/los-angeles-blitz-toetet-frau-und-hunde-beim-gassigehen](https://www.spiegel.de/panorama/los-angeles-blitz-toetet-frau-und-hunde-beim-gassigehen-a-77b8834a-9164-4472-a05b-cdcfa2edbac3#ref=rss)
+### blitz
 
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-frau-muss-sieben-meter-hohes-holzkreuz-aus-garten-entfernen](https://www.spiegel.de/panorama/justiz/duesseldorf-frau-muss-sieben-meter-hohes-holzkreuz-aus-garten-entfernen-a-c9f9e2f6-d100-47e5-8942-d9d8dd3fa393#ref=rss)
-### garten
+* [https://www.spiegel.de/panorama/los-angeles-blitz-toetet-frau-und-hunde-beim-gassigehen](https://www.spiegel.de/panorama/los-angeles-blitz-toetet-frau-und-hunde-beim-gassigehen-a-77b8834a-9164-4472-a05b-cdcfa2edbac3#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/panorama/justiz/duesseldorf-frau-muss-sieben-meter-hohes-holzkreuz-aus-garten-entfernen](https://www.spiegel.de/panorama/justiz/duesseldorf-frau-muss-sieben-meter-hohes-holzkreuz-aus-garten-entfernen-a-c9f9e2f6-d100-47e5-8942-d9d8dd3fa393#ref=rss)
-### lindner
+* [https://www.spiegel.de/panorama/justiz/stuttgart-ermittler-verhindern-sprengstoffanschlag-in-der-schweiz-zwei-maenner-festgenommen](https://www.spiegel.de/panorama/justiz/stuttgart-ermittler-verhindern-sprengstoffanschlag-in-der-schweiz-zwei-maenner-festgenommen-a-6f0e5200-9e88-4e13-a7af-1e6de2513483#ref=rss)
+### männer
 
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef](https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef-a-401ab134-1fbf-473b-b4c3-e4d5737393cf#ref=rss)
-### grüne
+* [https://www.spiegel.de/panorama/justiz/stuttgart-ermittler-verhindern-sprengstoffanschlag-in-der-schweiz-zwei-maenner-festgenommen](https://www.spiegel.de/panorama/justiz/stuttgart-ermittler-verhindern-sprengstoffanschlag-in-der-schweiz-zwei-maenner-festgenommen-a-6f0e5200-9e88-4e13-a7af-1e6de2513483#ref=rss)
+### festgenommen
 
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef](https://www.spiegel.de/politik/deutschland/christian-lindner-sagt-nein-zum-verbrenner-aus-spd-und-gruene-kritisieren-fdp-chef-a-401ab134-1fbf-473b-b4c3-e4d5737393cf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stuttgart-ermittler-verhindern-sprengstoffanschlag-in-der-schweiz-zwei-maenner-festgenommen](https://www.spiegel.de/panorama/justiz/stuttgart-ermittler-verhindern-sprengstoffanschlag-in-der-schweiz-zwei-maenner-festgenommen-a-6f0e5200-9e88-4e13-a7af-1e6de2513483#ref=rss)
+### waren
+
+* [https://www.spiegel.de/panorama/justiz/stuttgart-ermittler-verhindern-sprengstoffanschlag-in-der-schweiz-zwei-maenner-festgenommen](https://www.spiegel.de/panorama/justiz/stuttgart-ermittler-verhindern-sprengstoffanschlag-in-der-schweiz-zwei-maenner-festgenommen-a-6f0e5200-9e88-4e13-a7af-1e6de2513483#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/salzgitter-jugendliche-wurde-erstickt-14-jaehriger-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/salzgitter-jugendliche-wurde-erstickt-14-jaehriger-in-untersuchungshaft-a-92a6587f-aef2-4765-8bf7-ca078232bb39#ref=rss)
+### salzgitter
+
+* [https://www.spiegel.de/panorama/justiz/salzgitter-jugendliche-wurde-erstickt-14-jaehriger-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/salzgitter-jugendliche-wurde-erstickt-14-jaehriger-in-untersuchungshaft-a-92a6587f-aef2-4765-8bf7-ca078232bb39#ref=rss)
+### bafögreform
+
+* [https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen](https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen-a-e63e4fbf-b05a-45de-8852-43f2dff66817#ref=rss)
+### wohnpauschale
+
+* [https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen](https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen-a-e63e4fbf-b05a-45de-8852-43f2dff66817#ref=rss)
+### elternfreibeträge
+
+* [https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen](https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen-a-e63e4fbf-b05a-45de-8852-43f2dff66817#ref=rss)
+### steigen
+
+* [https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen](https://www.spiegel.de/start/bafoeg-reform-wie-sich-satz-wohnpauschale-und-elternfreibetraege-aendern-sollen-a-e63e4fbf-b05a-45de-8852-43f2dff66817#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream](https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream-a-bc5240f4-8588-46a6-a694-ee9abe97d787#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/auto/biodiesel-und-nahrungsmittelkrise-19-millionen-flaschen-sonnenblumenoel-landen-in-autotanks-taeglich](https://www.spiegel.de/auto/biodiesel-und-nahrungsmittelkrise-19-millionen-flaschen-sonnenblumenoel-landen-in-autotanks-taeglich-a-2e83f5f8-0471-4db6-a072-5e9481bd3253#ref=rss)
+* [https://www.spiegel.de/ausland/vor-westbalkan-gipfel-kosovo-beharrt-auf-zusagen-der-eu](https://www.spiegel.de/ausland/vor-westbalkan-gipfel-kosovo-beharrt-auf-zusagen-der-eu-a-1f2a3571-c5d7-442c-8e2b-4a3a8a878094#ref=rss)
+### gasalarmstufe
+
+* [https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet](https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet-a-1b70b9e9-20c1-44ce-a177-07417672e524#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream](https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream-a-bc5240f4-8588-46a6-a694-ee9abe97d787#ref=rss)
+### kraft
+
+* [https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet](https://www.spiegel.de/wirtschaft/service/wie-robert-habeck-die-gas-alarmstufe-begruendet-a-1b70b9e9-20c1-44ce-a177-07417672e524#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen](https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen-a-19e34474-06b4-4ced-8d98-06ff0e817f4f#ref=rss)
+### kosovo
+
+* [https://www.spiegel.de/ausland/vor-westbalkan-gipfel-kosovo-beharrt-auf-zusagen-der-eu](https://www.spiegel.de/ausland/vor-westbalkan-gipfel-kosovo-beharrt-auf-zusagen-der-eu-a-1f2a3571-c5d7-442c-8e2b-4a3a8a878094#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/vor-westbalkan-gipfel-kosovo-beharrt-auf-zusagen-der-eu](https://www.spiegel.de/ausland/vor-westbalkan-gipfel-kosovo-beharrt-auf-zusagen-der-eu-a-1f2a3571-c5d7-442c-8e2b-4a3a8a878094#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen](https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen-a-19e34474-06b4-4ced-8d98-06ff0e817f4f#ref=rss)
+### trans
+
+* [https://www.spiegel.de/sport/fussball/dfb-regelt-spielrecht-fuer-trans-und-nicht-binaere-menschen](https://www.spiegel.de/sport/fussball/dfb-regelt-spielrecht-fuer-trans-und-nicht-binaere-menschen-a-17ec9cdd-ff72-41c6-a93b-f1308869e359#ref=rss)
+### nichtbinäre
+
+* [https://www.spiegel.de/sport/fussball/dfb-regelt-spielrecht-fuer-trans-und-nicht-binaere-menschen](https://www.spiegel.de/sport/fussball/dfb-regelt-spielrecht-fuer-trans-und-nicht-binaere-menschen-a-17ec9cdd-ff72-41c6-a93b-f1308869e359#ref=rss)
+### ausrufen
+
+* [https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream](https://www.spiegel.de/wirtschaft/gaspreise-wirtschaftsminister-robert-habeck-will-die-gas-alarmstufe-ausrufen-livestream-a-bc5240f4-8588-46a6-a694-ee9abe97d787#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen](https://www.spiegel.de/wirtschaft/service/gasversorgung-robert-habeck-wird-zweite-stufe-des-notfallplans-ausrufen-a-19e34474-06b4-4ced-8d98-06ff0e817f4f#ref=rss)
+### gesperrt
+
+* [https://www.spiegel.de/panorama/legoland-in-der-naehe-des-freizeitparks-an-der-a8-ist-eine-fliegerbombe-gefunden-worden-sie-wird-kontrolliert-gesprengt](https://www.spiegel.de/panorama/legoland-in-der-naehe-des-freizeitparks-an-der-a8-ist-eine-fliegerbombe-gefunden-worden-sie-wird-kontrolliert-gesprengt-a-cbe3c87a-8b34-4674-88ef-bf0c96c89fcd#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-lehnt-afd-eilantrag-zu-ausschussvorsitzen-im-bundestag-ab](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-lehnt-afd-eilantrag-zu-ausschussvorsitzen-im-bundestag-ab-a-27b4cb69-4d38-4f26-9669-81e6cd4ed4b0#ref=rss)
+### bundesverfassungsgericht
+
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-lehnt-afd-eilantrag-zu-ausschussvorsitzen-im-bundestag-ab](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-lehnt-afd-eilantrag-zu-ausschussvorsitzen-im-bundestag-ab-a-27b4cb69-4d38-4f26-9669-81e6cd4ed4b0#ref=rss)
 
