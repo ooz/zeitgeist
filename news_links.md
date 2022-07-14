@@ -4,343 +4,302 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zwei
+### deutschland
 
-* [https://www.spiegel.de/wissenschaft/studie-zu-den-gesundheitsfolgen-von-salz-nachsalzen-raubt-bis-zu-zwei-lebensjahre](https://www.spiegel.de/wissenschaft/studie-zu-den-gesundheitsfolgen-von-salz-nachsalzen-raubt-bis-zu-zwei-lebensjahre-a-c5cfa16a-5770-42d2-82e7-5df8cb0ade30#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-gewinnt-erste-tories-abstimmung-um-johnsons-nachfolge](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-gewinnt-erste-tories-abstimmung-um-johnsons-nachfolge-a-52ef3ed9-a79b-4e4c-af08-276838bda8d5#ref=rss)
-* [https://www.spiegel.de/panorama/mallorca-zwei-touristen-von-herabstuerzendem-balkon-verletzt](https://www.spiegel.de/panorama/mallorca-zwei-touristen-von-herabstuerzendem-balkon-verletzt-a-f4180127-cfae-4071-bf4f-28993cddcccc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989](https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989-a-036ae827-5877-4860-a5df-b0d340c61f57#ref=rss)
-### macht
+* [https://www.spiegel.de/wirtschaft/immobilien-in-den-grossen-staedten-sinken-die-preise](https://www.spiegel.de/wirtschaft/immobilien-in-den-grossen-staedten-sinken-die-preise-a-d3d9da0e-7f83-4fda-8ff6-5b977d49a2b4#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-scheidungen-laut-statistischem-bundesamt-erneut-gesunken](https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-scheidungen-laut-statistischem-bundesamt-erneut-gesunken-a-b52b5187-de12-4fe1-b314-1410d77edc97#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/flutkatastrophe-im-ahrtal-ich-sehe-leider-nicht-dass-die-richtigen-lehren-gezogen-werden](https://www.spiegel.de/wissenschaft/natur/flutkatastrophe-im-ahrtal-ich-sehe-leider-nicht-dass-die-richtigen-lehren-gezogen-werden-a-d4f2c47e-8b00-4ab0-b850-a1819c584840#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-die-hitze-sucht-europa-heim](https://www.spiegel.de/wissenschaft/mensch/klimakrise-die-hitze-sucht-europa-heim-a-89aa1152-ed32-40af-9606-8fd6573423f2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken](https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken-a-6565a5c9-ebbe-41d7-af73-4e07008172cc#ref=rss)
+### leben
 
-* [https://www.spiegel.de/politik/robert-habeck-wirtschaftsminister-mit-coronavirus-infiziert](https://www.spiegel.de/politik/robert-habeck-wirtschaftsminister-mit-coronavirus-infiziert-a-8042e866-3385-4aff-8244-5ffc267d0180#ref=rss)
-* [https://www.spiegel.de/ausland/demonstranten-in-sri-lanka-besetzen-machtzentren-erst-der-praesidentenpalast-dann-der-sitz-des-premiers](https://www.spiegel.de/ausland/demonstranten-in-sri-lanka-besetzen-machtzentren-erst-der-praesidentenpalast-dann-der-sitz-des-premiers-a-f84909f4-8410-45c5-8281-8b8312369b03#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/hunger-hormon-sonne-macht-maenner-hungrig](https://www.spiegel.de/wissenschaft/mensch/hunger-hormon-sonne-macht-maenner-hungrig-a-91176cd0-b7ee-48c4-83e3-32359cf9bf5d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss](https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss-a-02fb5342-8ffb-4754-8cd5-e0502c81ae9b#ref=rss)
-### jonas
-
-* [https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar](https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar-a-7a8e68c4-5297-48f4-9b37-2fb2d008c2b8#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard-a-14fb7028-2a93-4da5-887e-364fd4e68b93#ref=rss)
-### vingegaard
-
-* [https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar](https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar-a-7a8e68c4-5297-48f4-9b37-2fb2d008c2b8#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard-a-14fb7028-2a93-4da5-887e-364fd4e68b93#ref=rss)
-### tadej
-
-* [https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar](https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar-a-7a8e68c4-5297-48f4-9b37-2fb2d008c2b8#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard-a-14fb7028-2a93-4da5-887e-364fd4e68b93#ref=rss)
-### pogačar
-
-* [https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar](https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar-a-7a8e68c4-5297-48f4-9b37-2fb2d008c2b8#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard-a-14fb7028-2a93-4da5-887e-364fd4e68b93#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/demonstranten-in-sri-lanka-besetzen-machtzentren-erst-der-praesidentenpalast-dann-der-sitz-des-premiers](https://www.spiegel.de/ausland/demonstranten-in-sri-lanka-besetzen-machtzentren-erst-der-praesidentenpalast-dann-der-sitz-des-premiers-a-f84909f4-8410-45c5-8281-8b8312369b03#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989](https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989-a-036ae827-5877-4860-a5df-b0d340c61f57#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/hunger-hormon-sonne-macht-maenner-hungrig](https://www.spiegel.de/wissenschaft/mensch/hunger-hormon-sonne-macht-maenner-hungrig-a-91176cd0-b7ee-48c4-83e3-32359cf9bf5d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik](https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik-a-7e48e508-d35b-4ac3-a25d-f4e698219c22#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wissenschaft/studie-zu-den-gesundheitsfolgen-von-salz-nachsalzen-raubt-bis-zu-zwei-lebensjahre](https://www.spiegel.de/wissenschaft/studie-zu-den-gesundheitsfolgen-von-salz-nachsalzen-raubt-bis-zu-zwei-lebensjahre-a-c5cfa16a-5770-42d2-82e7-5df8cb0ade30#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/hunger-hormon-sonne-macht-maenner-hungrig](https://www.spiegel.de/wissenschaft/mensch/hunger-hormon-sonne-macht-maenner-hungrig-a-91176cd0-b7ee-48c4-83e3-32359cf9bf5d#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/robert-habeck-wirtschaftsminister-mit-coronavirus-infiziert](https://www.spiegel.de/politik/robert-habeck-wirtschaftsminister-mit-coronavirus-infiziert-a-8042e866-3385-4aff-8244-5ffc267d0180#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/hunger-hormon-sonne-macht-maenner-hungrig](https://www.spiegel.de/wissenschaft/mensch/hunger-hormon-sonne-macht-maenner-hungrig-a-91176cd0-b7ee-48c4-83e3-32359cf9bf5d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik](https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik-a-7e48e508-d35b-4ac3-a25d-f4e698219c22#ref=rss)
-### tour
-
-* [https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar](https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar-a-7a8e68c4-5297-48f4-9b37-2fb2d008c2b8#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard-a-14fb7028-2a93-4da5-887e-364fd4e68b93#ref=rss)
-### de
-
-* [https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar](https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar-a-7a8e68c4-5297-48f4-9b37-2fb2d008c2b8#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard-a-14fb7028-2a93-4da5-887e-364fd4e68b93#ref=rss)
-### france
-
-* [https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar](https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar-a-7a8e68c4-5297-48f4-9b37-2fb2d008c2b8#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard-a-14fb7028-2a93-4da5-887e-364fd4e68b93#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/demonstranten-in-sri-lanka-besetzen-machtzentren-erst-der-praesidentenpalast-dann-der-sitz-des-premiers](https://www.spiegel.de/ausland/demonstranten-in-sri-lanka-besetzen-machtzentren-erst-der-praesidentenpalast-dann-der-sitz-des-premiers-a-f84909f4-8410-45c5-8281-8b8312369b03#ref=rss)
-* [https://www.spiegel.de/ausland/frankreichs-praesident-emmanuel-macron-empoert-mit-derbem-spruch-zur-oppositionskritik](https://www.spiegel.de/ausland/frankreichs-praesident-emmanuel-macron-empoert-mit-derbem-spruch-zur-oppositionskritik-a-a49b2b87-4207-4363-b0bf-ba9236640027#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/wohnungslose-178-000-menschen-lebten-zu-jahresbeginn-in-unterkuenften](https://www.spiegel.de/wirtschaft/soziales/wohnungslose-178-000-menschen-lebten-zu-jahresbeginn-in-unterkuenften-a-09654690-684c-44b8-8b5c-829623155d4f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt](https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt-a-8b92f49c-c59d-424a-8934-d0187d78c783#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-die-hitze-sucht-europa-heim](https://www.spiegel.de/wissenschaft/mensch/klimakrise-die-hitze-sucht-europa-heim-a-89aa1152-ed32-40af-9606-8fd6573423f2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-nordkorea-erkennt-prorussische-volksrepubliken-an](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-nordkorea-erkennt-prorussische-volksrepubliken-an-a-05a6aa83-63da-4683-8111-eda5c23623b4#ref=rss)
 ### unter
 
-* [https://www.spiegel.de/kultur/weitere-frauen-beschuldigen-dj-tim-westwood](https://www.spiegel.de/kultur/weitere-frauen-beschuldigen-dj-tim-westwood-a-f80324dd-19be-4685-9c53-851fad891fd3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/euro-faellt-unter-einen-dollar-erstmals-seit-20-jahren](https://www.spiegel.de/wirtschaft/service/euro-faellt-unter-einen-dollar-erstmals-seit-20-jahren-a-1469e3f9-7f20-4abe-b4e0-4a960facd196#ref=rss)
-### jahren
+* [https://www.spiegel.de/wirtschaft/soziales/wohnungslose-178-000-menschen-lebten-zu-jahresbeginn-in-unterkuenften](https://www.spiegel.de/wirtschaft/soziales/wohnungslose-178-000-menschen-lebten-zu-jahresbeginn-in-unterkuenften-a-09654690-684c-44b8-8b5c-829623155d4f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bayern-und-hessen-steuerfahnder-beschlagnahmen-luxusautos-und-gold-bei-grossfamilie](https://www.spiegel.de/panorama/justiz/bayern-und-hessen-steuerfahnder-beschlagnahmen-luxusautos-und-gold-bei-grossfamilie-a-6faf141e-7469-4129-8f51-de2182132d01#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-baden-wuerttemberg-stuft-landesverband-als-verdachtsobjekt-ein](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-baden-wuerttemberg-stuft-landesverband-als-verdachtsobjekt-ein-a-b29b2036-4e6b-4b3e-9e8e-b9d85c7118a9#ref=rss)
+* [https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers](https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers-a-706c42e7-ad2b-4f27-80a2-dc878867b220#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989](https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989-a-036ae827-5877-4860-a5df-b0d340c61f57#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/euro-faellt-unter-einen-dollar-erstmals-seit-20-jahren](https://www.spiegel.de/wirtschaft/service/euro-faellt-unter-einen-dollar-erstmals-seit-20-jahren-a-1469e3f9-7f20-4abe-b4e0-4a960facd196#ref=rss)
-* [https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss](https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss-a-02fb5342-8ffb-4754-8cd5-e0502c81ae9b#ref=rss)
-### neuen
+* [https://www.spiegel.de/netzwelt/netzpolitik/dortmund-de-darf-laut-bundesgerichtshof-weiter-aktuell-berichten](https://www.spiegel.de/netzwelt/netzpolitik/dortmund-de-darf-laut-bundesgerichtshof-weiter-aktuell-berichten-a-87bc0666-e117-4212-a308-c3f3ed904499#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-scheidungen-laut-statistischem-bundesamt-erneut-gesunken](https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-scheidungen-laut-statistischem-bundesamt-erneut-gesunken-a-b52b5187-de12-4fe1-b314-1410d77edc97#ref=rss)
+* [https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum](https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum-a-4fbacd82-b651-4289-966f-f1a657b0c99b#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989](https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989-a-036ae827-5877-4860-a5df-b0d340c61f57#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik](https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik-a-7e48e508-d35b-4ac3-a25d-f4e698219c22#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/euro-faellt-unter-einen-dollar-erstmals-seit-20-jahren](https://www.spiegel.de/wirtschaft/service/euro-faellt-unter-einen-dollar-erstmals-seit-20-jahren-a-1469e3f9-7f20-4abe-b4e0-4a960facd196#ref=rss)
-### salz
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-scheidungen-laut-statistischem-bundesamt-erneut-gesunken](https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-scheidungen-laut-statistischem-bundesamt-erneut-gesunken-a-b52b5187-de12-4fe1-b314-1410d77edc97#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation](https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation-a-52cec380-16e8-4c64-b444-7ddbba25bd99#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tarifverhandlungen-verdi-lehnt-erstes-angebot-der-lufthansa-ab](https://www.spiegel.de/wirtschaft/unternehmen/tarifverhandlungen-verdi-lehnt-erstes-angebot-der-lufthansa-ab-a-a8c09faf-0cf9-4cfa-9009-9f5f84a428aa#ref=rss)
+* [https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers](https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers-a-706c42e7-ad2b-4f27-80a2-dc878867b220#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wissenschaft/studie-zu-den-gesundheitsfolgen-von-salz-nachsalzen-raubt-bis-zu-zwei-lebensjahre](https://www.spiegel.de/wissenschaft/studie-zu-den-gesundheitsfolgen-von-salz-nachsalzen-raubt-bis-zu-zwei-lebensjahre-a-c5cfa16a-5770-42d2-82e7-5df8cb0ade30#ref=rss)
-### neue
+* [https://www.spiegel.de/wirtschaft/soziales/wohnungslose-178-000-menschen-lebten-zu-jahresbeginn-in-unterkuenften](https://www.spiegel.de/wirtschaft/soziales/wohnungslose-178-000-menschen-lebten-zu-jahresbeginn-in-unterkuenften-a-09654690-684c-44b8-8b5c-829623155d4f#ref=rss)
+* [https://www.spiegel.de/start/welcher-job-passt-zu-mir-jugendliche-sind-mit-der-beruflichen-orientierung-ueberfordert](https://www.spiegel.de/start/welcher-job-passt-zu-mir-jugendliche-sind-mit-der-beruflichen-orientierung-ueberfordert-a-77e75101-ad02-4f02-bcaa-a9f1cc4ae550#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-nordkorea-erkennt-prorussische-volksrepubliken-an](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-nordkorea-erkennt-prorussische-volksrepubliken-an-a-05a6aa83-63da-4683-8111-eda5c23623b4#ref=rss)
+### preise
 
-* [https://www.spiegel.de/wissenschaft/studie-zu-den-gesundheitsfolgen-von-salz-nachsalzen-raubt-bis-zu-zwei-lebensjahre](https://www.spiegel.de/wissenschaft/studie-zu-den-gesundheitsfolgen-von-salz-nachsalzen-raubt-bis-zu-zwei-lebensjahre-a-c5cfa16a-5770-42d2-82e7-5df8cb0ade30#ref=rss)
-* [https://www.spiegel.de/sport/galopprennen-in-grossbritannien-jockeys-droht-disqualifikation-wenn-sie-zu-haeufig-mit-der-peitsche-zuschlagen](https://www.spiegel.de/sport/galopprennen-in-grossbritannien-jockeys-droht-disqualifikation-wenn-sie-zu-haeufig-mit-der-peitsche-zuschlagen-a-21deab49-f121-4664-b4ad-cf8de115e20f#ref=rss)
-### bartleby
+* [https://www.spiegel.de/wirtschaft/immobilien-in-den-grossen-staedten-sinken-die-preise](https://www.spiegel.de/wirtschaft/immobilien-in-den-grossen-staedten-sinken-die-preise-a-d3d9da0e-7f83-4fda-8ff6-5b977d49a2b4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation](https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation-a-52cec380-16e8-4c64-b444-7ddbba25bd99#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/kultur/bartleby-der-schreiber-von-herman-melville-taugt-der-beruehmteste-nichtstuer-als-vorbild](https://www.spiegel.de/kultur/bartleby-der-schreiber-von-herman-melville-taugt-der-beruehmteste-nichtstuer-als-vorbild-a-a0c48e3a-648b-4f10-92ef-f391fbfcc517#ref=rss)
-### herman
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen](https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen-a-76944d42-ed23-402b-a0e1-f097a157b9d3#ref=rss)
+* [https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum](https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum-a-4fbacd82-b651-4289-966f-f1a657b0c99b#ref=rss)
+### leichtathletikwm
 
-* [https://www.spiegel.de/kultur/bartleby-der-schreiber-von-herman-melville-taugt-der-beruehmteste-nichtstuer-als-vorbild](https://www.spiegel.de/kultur/bartleby-der-schreiber-von-herman-melville-taugt-der-beruehmteste-nichtstuer-als-vorbild-a-a0c48e3a-648b-4f10-92ef-f391fbfcc517#ref=rss)
-### robert
+* [https://www.spiegel.de/sport/leichtathletik-sprinter-ferdinand-omanyala-verpasst-weltmeisterschaft-wegen-visumproblemen](https://www.spiegel.de/sport/leichtathletik-sprinter-ferdinand-omanyala-verpasst-weltmeisterschaft-wegen-visumproblemen-a-dcbaa9fa-1636-4378-9996-b9f1234365e3#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-wm-2022-in-eugene-zeitplan-entscheidungen-tv-uebertragung](https://www.spiegel.de/sport/leichtathletik-wm-2022-in-eugene-zeitplan-entscheidungen-tv-uebertragung-a-137557b4-2fb0-4b64-a0e7-91123333cec2#ref=rss)
+### stadt
 
-* [https://www.spiegel.de/politik/robert-habeck-wirtschaftsminister-mit-coronavirus-infiziert](https://www.spiegel.de/politik/robert-habeck-wirtschaftsminister-mit-coronavirus-infiziert-a-8042e866-3385-4aff-8244-5ffc267d0180#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/politik/robert-habeck-wirtschaftsminister-mit-coronavirus-infiziert](https://www.spiegel.de/politik/robert-habeck-wirtschaftsminister-mit-coronavirus-infiziert-a-8042e866-3385-4aff-8244-5ffc267d0180#ref=rss)
-### wirtschaftsminister
-
-* [https://www.spiegel.de/politik/robert-habeck-wirtschaftsminister-mit-coronavirus-infiziert](https://www.spiegel.de/politik/robert-habeck-wirtschaftsminister-mit-coronavirus-infiziert-a-8042e866-3385-4aff-8244-5ffc267d0180#ref=rss)
-* [https://www.spiegel.de/ausland/frankreichs-praesident-emmanuel-macron-empoert-mit-derbem-spruch-zur-oppositionskritik](https://www.spiegel.de/ausland/frankreichs-praesident-emmanuel-macron-empoert-mit-derbem-spruch-zur-oppositionskritik-a-a49b2b87-4207-4363-b0bf-ba9236640027#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/politik/robert-habeck-wirtschaftsminister-mit-coronavirus-infiziert](https://www.spiegel.de/politik/robert-habeck-wirtschaftsminister-mit-coronavirus-infiziert-a-8042e866-3385-4aff-8244-5ffc267d0180#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet](https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet-a-adc4d83b-7662-4f41-8438-175007889559#ref=rss)
-### dunkelziffer
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-lueckenhafte-daten-wie-hoch-ist-die-dunkelziffer](https://www.spiegel.de/wissenschaft/medizin/corona-lueckenhafte-daten-wie-hoch-ist-die-dunkelziffer-a-06ee8370-96b5-4dad-ae3f-de5edb200489#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-lueckenhafte-daten-wie-hoch-ist-die-dunkelziffer](https://www.spiegel.de/wissenschaft/medizin/corona-lueckenhafte-daten-wie-hoch-ist-die-dunkelziffer-a-06ee8370-96b5-4dad-ae3f-de5edb200489#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik](https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik-a-7e48e508-d35b-4ac3-a25d-f4e698219c22#ref=rss)
-### entdeckt
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-lueckenhafte-daten-wie-hoch-ist-die-dunkelziffer](https://www.spiegel.de/wissenschaft/medizin/corona-lueckenhafte-daten-wie-hoch-ist-die-dunkelziffer-a-06ee8370-96b5-4dad-ae3f-de5edb200489#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet](https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet-a-adc4d83b-7662-4f41-8438-175007889559#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-lueckenhafte-daten-wie-hoch-ist-die-dunkelziffer](https://www.spiegel.de/wissenschaft/medizin/corona-lueckenhafte-daten-wie-hoch-ist-die-dunkelziffer-a-06ee8370-96b5-4dad-ae3f-de5edb200489#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet](https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet-a-adc4d83b-7662-4f41-8438-175007889559#ref=rss)
-### 11
-
-* [https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar](https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar-a-7a8e68c4-5297-48f4-9b37-2fb2d008c2b8#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard-a-14fb7028-2a93-4da5-887e-364fd4e68b93#ref=rss)
-### etappe
-
-* [https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar](https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar-a-7a8e68c4-5297-48f4-9b37-2fb2d008c2b8#ref=rss)
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard-a-14fb7028-2a93-4da5-887e-364fd4e68b93#ref=rss)
-### berg
-
-* [https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar](https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar-a-7a8e68c4-5297-48f4-9b37-2fb2d008c2b8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-offenbar-mitglied-des-remmo-clans-in-berliner-fitnessstudio-niedergestochen](https://www.spiegel.de/panorama/justiz/berlin-offenbar-mitglied-des-remmo-clans-in-berliner-fitnessstudio-niedergestochen-a-5c840e08-1b08-424d-9f16-f81f99e16b06#ref=rss)
-### einst
-
-* [https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar](https://www.spiegel.de/sport/tour-de-france-jonas-vingegaard-deklassiert-auf-der-11-etappe-tadej-pogacar-a-7a8e68c4-5297-48f4-9b37-2fb2d008c2b8#ref=rss)
-* [https://www.spiegel.de/kultur/hauptbahnhof-in-hamburg-deutsche-bahn-haengt-juedische-kunst-von-yohana-hirschfeld-ab](https://www.spiegel.de/kultur/hauptbahnhof-in-hamburg-deutsche-bahn-haengt-juedische-kunst-von-yohana-hirschfeld-ab-a-ed61352c-7ae9-4662-9e6c-a4d6d4e7434e#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen](https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen-a-60cf4d4c-45b2-4de0-8b83-2fe3dca1e5fa#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rezessionsirisko-iwf-chefin-georgiewa-befuerchtet-hartes-jahr-2022](https://www.spiegel.de/wirtschaft/rezessionsirisko-iwf-chefin-georgiewa-befuerchtet-hartes-jahr-2022-a-dd6b4383-3dcc-44b3-aaa8-385b7d85c626#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen](https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen-a-60cf4d4c-45b2-4de0-8b83-2fe3dca1e5fa#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen](https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen-a-60cf4d4c-45b2-4de0-8b83-2fe3dca1e5fa#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen](https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen-a-60cf4d4c-45b2-4de0-8b83-2fe3dca1e5fa#ref=rss)
-### bierhoff
-
-* [https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen](https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen-a-60cf4d4c-45b2-4de0-8b83-2fe3dca1e5fa#ref=rss)
-### equal
-
-* [https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen](https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen-a-60cf4d4c-45b2-4de0-8b83-2fe3dca1e5fa#ref=rss)
-### pay
-
-* [https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen](https://www.spiegel.de/sport/fussball/em-2022-olaf-scholz-will-mit-oliver-bierhoff-ueber-equal-pay-im-fussball-sprechen-a-60cf4d4c-45b2-4de0-8b83-2fe3dca1e5fa#ref=rss)
-### gazprom
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stellt-weiterbetrieb-von-nord-stream-1-infrage](https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stellt-weiterbetrieb-von-nord-stream-1-infrage-a-2b2dafc5-a01e-47c7-9b19-a21aaec57ca5#ref=rss)
-### nord
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stellt-weiterbetrieb-von-nord-stream-1-infrage](https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stellt-weiterbetrieb-von-nord-stream-1-infrage-a-2b2dafc5-a01e-47c7-9b19-a21aaec57ca5#ref=rss)
-### stream
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stellt-weiterbetrieb-von-nord-stream-1-infrage](https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stellt-weiterbetrieb-von-nord-stream-1-infrage-a-2b2dafc5-a01e-47c7-9b19-a21aaec57ca5#ref=rss)
-### 1
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stellt-weiterbetrieb-von-nord-stream-1-infrage](https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stellt-weiterbetrieb-von-nord-stream-1-infrage-a-2b2dafc5-a01e-47c7-9b19-a21aaec57ca5#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stellt-weiterbetrieb-von-nord-stream-1-infrage](https://www.spiegel.de/wirtschaft/unternehmen/gazprom-stellt-weiterbetrieb-von-nord-stream-1-infrage-a-2b2dafc5-a01e-47c7-9b19-a21aaec57ca5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kanadas-notenbank-erhoeht-leitzins-um-ganzen-prozentpunkt](https://www.spiegel.de/wirtschaft/service/kanadas-notenbank-erhoeht-leitzins-um-ganzen-prozentpunkt-a-554964fe-fcc7-47fa-a488-fadb58f69435#ref=rss)
-### milizen
-
-* [https://www.spiegel.de/ausland/sturm-auf-das-us-kapitol-untersuchungsausschuss-rechtsextreme-milizen-und-ein-trump-tweet](https://www.spiegel.de/ausland/sturm-auf-das-us-kapitol-untersuchungsausschuss-rechtsextreme-milizen-und-ein-trump-tweet-a-e38ddb0e-73a0-46a2-96e8-01393e3c3be5#ref=rss)
-### 6
-
-* [https://www.spiegel.de/ausland/sturm-auf-das-us-kapitol-untersuchungsausschuss-rechtsextreme-milizen-und-ein-trump-tweet](https://www.spiegel.de/ausland/sturm-auf-das-us-kapitol-untersuchungsausschuss-rechtsextreme-milizen-und-ein-trump-tweet-a-e38ddb0e-73a0-46a2-96e8-01393e3c3be5#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet](https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet-a-adc4d83b-7662-4f41-8438-175007889559#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-gewinnt-erste-tories-abstimmung-um-johnsons-nachfolge](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-gewinnt-erste-tories-abstimmung-um-johnsons-nachfolge-a-52ef3ed9-a79b-4e4c-af08-276838bda8d5#ref=rss)
-* [https://www.spiegel.de/sport/galopprennen-in-grossbritannien-jockeys-droht-disqualifikation-wenn-sie-zu-haeufig-mit-der-peitsche-zuschlagen](https://www.spiegel.de/sport/galopprennen-in-grossbritannien-jockeys-droht-disqualifikation-wenn-sie-zu-haeufig-mit-der-peitsche-zuschlagen-a-21deab49-f121-4664-b4ad-cf8de115e20f#ref=rss)
-### erste
-
-* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-gewinnt-erste-tories-abstimmung-um-johnsons-nachfolge](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-gewinnt-erste-tories-abstimmung-um-johnsons-nachfolge-a-52ef3ed9-a79b-4e4c-af08-276838bda8d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/kanadas-notenbank-erhoeht-leitzins-um-ganzen-prozentpunkt](https://www.spiegel.de/wirtschaft/service/kanadas-notenbank-erhoeht-leitzins-um-ganzen-prozentpunkt-a-554964fe-fcc7-47fa-a488-fadb58f69435#ref=rss)
-### nachfolge
-
-* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-gewinnt-erste-tories-abstimmung-um-johnsons-nachfolge](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-gewinnt-erste-tories-abstimmung-um-johnsons-nachfolge-a-52ef3ed9-a79b-4e4c-af08-276838bda8d5#ref=rss)
-### rennen
-
-* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-gewinnt-erste-tories-abstimmung-um-johnsons-nachfolge](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-gewinnt-erste-tories-abstimmung-um-johnsons-nachfolge-a-52ef3ed9-a79b-4e4c-af08-276838bda8d5#ref=rss)
-### georgiewa
-
-* [https://www.spiegel.de/wirtschaft/rezessionsirisko-iwf-chefin-georgiewa-befuerchtet-hartes-jahr-2022](https://www.spiegel.de/wirtschaft/rezessionsirisko-iwf-chefin-georgiewa-befuerchtet-hartes-jahr-2022-a-dd6b4383-3dcc-44b3-aaa8-385b7d85c626#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/rezessionsirisko-iwf-chefin-georgiewa-befuerchtet-hartes-jahr-2022](https://www.spiegel.de/wirtschaft/rezessionsirisko-iwf-chefin-georgiewa-befuerchtet-hartes-jahr-2022-a-dd6b4383-3dcc-44b3-aaa8-385b7d85c626#ref=rss)
-* [https://www.spiegel.de/ausland/israel-verwirrung-um-us-konsulat-in-ostjerusalem](https://www.spiegel.de/ausland/israel-verwirrung-um-us-konsulat-in-ostjerusalem-a-9d5ba42e-8046-432f-8143-5925ea166428#ref=rss)
-### hohen
-
-* [https://www.spiegel.de/wirtschaft/rezessionsirisko-iwf-chefin-georgiewa-befuerchtet-hartes-jahr-2022](https://www.spiegel.de/wirtschaft/rezessionsirisko-iwf-chefin-georgiewa-befuerchtet-hartes-jahr-2022-a-dd6b4383-3dcc-44b3-aaa8-385b7d85c626#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strom-rekordpreise-wie-solar-und-windparks-in-der-gaskrise-zu-goldgruben-werden](https://www.spiegel.de/wirtschaft/strom-rekordpreise-wie-solar-und-windparks-in-der-gaskrise-zu-goldgruben-werden-a-bc96a68a-c7d1-4e81-ae13-62410dfc4caa#ref=rss)
-### sri
-
-* [https://www.spiegel.de/ausland/demonstranten-in-sri-lanka-besetzen-machtzentren-erst-der-praesidentenpalast-dann-der-sitz-des-premiers](https://www.spiegel.de/ausland/demonstranten-in-sri-lanka-besetzen-machtzentren-erst-der-praesidentenpalast-dann-der-sitz-des-premiers-a-f84909f4-8410-45c5-8281-8b8312369b03#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/mallorca-zwei-touristen-von-herabstuerzendem-balkon-verletzt](https://www.spiegel.de/panorama/mallorca-zwei-touristen-von-herabstuerzendem-balkon-verletzt-a-f4180127-cfae-4071-bf4f-28993cddcccc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-offenbar-mitglied-des-remmo-clans-in-berliner-fitnessstudio-niedergestochen](https://www.spiegel.de/panorama/justiz/berlin-offenbar-mitglied-des-remmo-clans-in-berliner-fitnessstudio-niedergestochen-a-5c840e08-1b08-424d-9f16-f81f99e16b06#ref=rss)
-### krankenhaus
-
-* [https://www.spiegel.de/panorama/mallorca-zwei-touristen-von-herabstuerzendem-balkon-verletzt](https://www.spiegel.de/panorama/mallorca-zwei-touristen-von-herabstuerzendem-balkon-verletzt-a-f4180127-cfae-4071-bf4f-28993cddcccc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-offenbar-mitglied-des-remmo-clans-in-berliner-fitnessstudio-niedergestochen](https://www.spiegel.de/panorama/justiz/berlin-offenbar-mitglied-des-remmo-clans-in-berliner-fitnessstudio-niedergestochen-a-5c840e08-1b08-424d-9f16-f81f99e16b06#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-wm-2022-in-eugene-zeitplan-entscheidungen-tv-uebertragung](https://www.spiegel.de/sport/leichtathletik-wm-2022-in-eugene-zeitplan-entscheidungen-tv-uebertragung-a-137557b4-2fb0-4b64-a0e7-91123333cec2#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-irritiert-mit-video-leitfaden-zu-moeglichem-atombomben-angriff](https://www.spiegel.de/ausland/new-york-irritiert-mit-video-leitfaden-zu-moeglichem-atombomben-angriff-a-c25b96d2-57fb-431c-aa47-92b55eade744#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-nordkorea-erkennt-prorussische-volksrepubliken-an](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-nordkorea-erkennt-prorussische-volksrepubliken-an-a-05a6aa83-63da-4683-8111-eda5c23623b4#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/mallorca-zwei-touristen-von-herabstuerzendem-balkon-verletzt](https://www.spiegel.de/panorama/mallorca-zwei-touristen-von-herabstuerzendem-balkon-verletzt-a-f4180127-cfae-4071-bf4f-28993cddcccc#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-offenbar-mitglied-des-remmo-clans-in-berliner-fitnessstudio-niedergestochen](https://www.spiegel.de/panorama/justiz/berlin-offenbar-mitglied-des-remmo-clans-in-berliner-fitnessstudio-niedergestochen-a-5c840e08-1b08-424d-9f16-f81f99e16b06#ref=rss)
-### frauen
+* [https://www.spiegel.de/start/welcher-job-passt-zu-mir-jugendliche-sind-mit-der-beruflichen-orientierung-ueberfordert](https://www.spiegel.de/start/welcher-job-passt-zu-mir-jugendliche-sind-mit-der-beruflichen-orientierung-ueberfordert-a-77e75101-ad02-4f02-bcaa-a9f1cc4ae550#ref=rss)
+* [https://www.spiegel.de/ausland/sri-lanka-demonstrierende-wollen-besetzte-gebaeude-raeumen](https://www.spiegel.de/ausland/sri-lanka-demonstrierende-wollen-besetzte-gebaeude-raeumen-a-6b79b6d8-6eb2-4a94-a006-db706e3f0e65#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ryan-gosling-ueber-seine-rolle-in-barbie-mache-das-fuer-die-kens-dieser-welt](https://www.spiegel.de/panorama/leute/ryan-gosling-ueber-seine-rolle-in-barbie-mache-das-fuer-die-kens-dieser-welt-a-65927f3a-980b-4d02-9b2f-6caf26de13dc#ref=rss)
+### dürre
 
-* [https://www.spiegel.de/kultur/weitere-frauen-beschuldigen-dj-tim-westwood](https://www.spiegel.de/kultur/weitere-frauen-beschuldigen-dj-tim-westwood-a-f80324dd-19be-4685-9c53-851fad891fd3#ref=rss)
-### dj
+* [https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers](https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers-a-706c42e7-ad2b-4f27-80a2-dc878867b220#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-die-hitze-sucht-europa-heim](https://www.spiegel.de/wissenschaft/mensch/klimakrise-die-hitze-sucht-europa-heim-a-89aa1152-ed32-40af-9606-8fd6573423f2#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken](https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken-a-6565a5c9-ebbe-41d7-af73-4e07008172cc#ref=rss)
+### hitze
 
-* [https://www.spiegel.de/kultur/weitere-frauen-beschuldigen-dj-tim-westwood](https://www.spiegel.de/kultur/weitere-frauen-beschuldigen-dj-tim-westwood-a-f80324dd-19be-4685-9c53-851fad891fd3#ref=rss)
-### tim
+* [https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers](https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers-a-706c42e7-ad2b-4f27-80a2-dc878867b220#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-die-hitze-sucht-europa-heim](https://www.spiegel.de/wissenschaft/mensch/klimakrise-die-hitze-sucht-europa-heim-a-89aa1152-ed32-40af-9606-8fd6573423f2#ref=rss)
+### wohnungslose
 
-* [https://www.spiegel.de/kultur/weitere-frauen-beschuldigen-dj-tim-westwood](https://www.spiegel.de/kultur/weitere-frauen-beschuldigen-dj-tim-westwood-a-f80324dd-19be-4685-9c53-851fad891fd3#ref=rss)
-### westwood
+* [https://www.spiegel.de/wirtschaft/soziales/wohnungslose-178-000-menschen-lebten-zu-jahresbeginn-in-unterkuenften](https://www.spiegel.de/wirtschaft/soziales/wohnungslose-178-000-menschen-lebten-zu-jahresbeginn-in-unterkuenften-a-09654690-684c-44b8-8b5c-829623155d4f#ref=rss)
+### hemer
 
-* [https://www.spiegel.de/kultur/weitere-frauen-beschuldigen-dj-tim-westwood](https://www.spiegel.de/kultur/weitere-frauen-beschuldigen-dj-tim-westwood-a-f80324dd-19be-4685-9c53-851fad891fd3#ref=rss)
-### britische
+* [https://www.spiegel.de/panorama/hemer-im-sauerland-frau-stirbt-nach-hausexplosion-im-sauerland-in-klinik](https://www.spiegel.de/panorama/hemer-im-sauerland-frau-stirbt-nach-hausexplosion-im-sauerland-in-klinik-a-7a52e90f-a6e2-4425-bca7-ba7e59f8b671#ref=rss)
+### sauerland
 
-* [https://www.spiegel.de/kultur/weitere-frauen-beschuldigen-dj-tim-westwood](https://www.spiegel.de/kultur/weitere-frauen-beschuldigen-dj-tim-westwood-a-f80324dd-19be-4685-9c53-851fad891fd3#ref=rss)
-* [https://www.spiegel.de/sport/galopprennen-in-grossbritannien-jockeys-droht-disqualifikation-wenn-sie-zu-haeufig-mit-der-peitsche-zuschlagen](https://www.spiegel.de/sport/galopprennen-in-grossbritannien-jockeys-droht-disqualifikation-wenn-sie-zu-haeufig-mit-der-peitsche-zuschlagen-a-21deab49-f121-4664-b4ad-cf8de115e20f#ref=rss)
-### leitzins
+* [https://www.spiegel.de/panorama/hemer-im-sauerland-frau-stirbt-nach-hausexplosion-im-sauerland-in-klinik](https://www.spiegel.de/panorama/hemer-im-sauerland-frau-stirbt-nach-hausexplosion-im-sauerland-in-klinik-a-7a52e90f-a6e2-4425-bca7-ba7e59f8b671#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/wirtschaft/service/kanadas-notenbank-erhoeht-leitzins-um-ganzen-prozentpunkt](https://www.spiegel.de/wirtschaft/service/kanadas-notenbank-erhoeht-leitzins-um-ganzen-prozentpunkt-a-554964fe-fcc7-47fa-a488-fadb58f69435#ref=rss)
-### ganzen
-
-* [https://www.spiegel.de/wirtschaft/service/kanadas-notenbank-erhoeht-leitzins-um-ganzen-prozentpunkt](https://www.spiegel.de/wirtschaft/service/kanadas-notenbank-erhoeht-leitzins-um-ganzen-prozentpunkt-a-554964fe-fcc7-47fa-a488-fadb58f69435#ref=rss)
-### prozentpunkt
-
-* [https://www.spiegel.de/wirtschaft/service/kanadas-notenbank-erhoeht-leitzins-um-ganzen-prozentpunkt](https://www.spiegel.de/wirtschaft/service/kanadas-notenbank-erhoeht-leitzins-um-ganzen-prozentpunkt-a-554964fe-fcc7-47fa-a488-fadb58f69435#ref=rss)
-### reaktion
-
-* [https://www.spiegel.de/wirtschaft/service/kanadas-notenbank-erhoeht-leitzins-um-ganzen-prozentpunkt](https://www.spiegel.de/wirtschaft/service/kanadas-notenbank-erhoeht-leitzins-um-ganzen-prozentpunkt-a-554964fe-fcc7-47fa-a488-fadb58f69435#ref=rss)
-* [https://www.spiegel.de/ausland/frankreichs-praesident-emmanuel-macron-empoert-mit-derbem-spruch-zur-oppositionskritik](https://www.spiegel.de/ausland/frankreichs-praesident-emmanuel-macron-empoert-mit-derbem-spruch-zur-oppositionskritik-a-a49b2b87-4207-4363-b0bf-ba9236640027#ref=rss)
-### gelbe
-
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard-a-14fb7028-2a93-4da5-887e-364fd4e68b93#ref=rss)
-### trikot
-
-* [https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard](https://www.spiegel.de/sport/tour-de-france-tadej-pogacar-verliert-das-gelbe-trikot-an-jonas-vingegaard-a-14fb7028-2a93-4da5-887e-364fd4e68b93#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet](https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet-a-adc4d83b-7662-4f41-8438-175007889559#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-offenbar-mitglied-des-remmo-clans-in-berliner-fitnessstudio-niedergestochen](https://www.spiegel.de/panorama/justiz/berlin-offenbar-mitglied-des-remmo-clans-in-berliner-fitnessstudio-niedergestochen-a-5c840e08-1b08-424d-9f16-f81f99e16b06#ref=rss)
-### fuchs
-
-* [https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet](https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet-a-adc4d83b-7662-4f41-8438-175007889559#ref=rss)
+* [https://www.spiegel.de/wirtschaft/immobilien-in-den-grossen-staedten-sinken-die-preise](https://www.spiegel.de/wirtschaft/immobilien-in-den-grossen-staedten-sinken-die-preise-a-d3d9da0e-7f83-4fda-8ff6-5b977d49a2b4#ref=rss)
+* [https://www.spiegel.de/auto/volkswagen-europaeischer-gerichtshof-erklaert-thermofenster-in-diesel-fahrzeugen-fuer-unzulaessig](https://www.spiegel.de/auto/volkswagen-europaeischer-gerichtshof-erklaert-thermofenster-in-diesel-fahrzeugen-fuer-unzulaessig-a-5be63140-54a8-4455-be7f-8690012d422b#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet](https://www.spiegel.de/panorama/berlin-fuchs-in-der-senatsverwaltung-fuer-integration-arbeit-und-soziales-in-kreuzberg-gesichtet-a-adc4d83b-7662-4f41-8438-175007889559#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989](https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989-a-036ae827-5877-4860-a5df-b0d340c61f57#ref=rss)
-### jockeys
+* [https://www.spiegel.de/panorama/schweiz-polizei-stoppt-frisierten-e-scooter-bis-zu-120-km-h-moeglich](https://www.spiegel.de/panorama/schweiz-polizei-stoppt-frisierten-e-scooter-bis-zu-120-km-h-moeglich-a-12a94d03-d0b5-4ab9-84f9-b231125b356c#ref=rss)
+### escooter
 
-* [https://www.spiegel.de/sport/galopprennen-in-grossbritannien-jockeys-droht-disqualifikation-wenn-sie-zu-haeufig-mit-der-peitsche-zuschlagen](https://www.spiegel.de/sport/galopprennen-in-grossbritannien-jockeys-droht-disqualifikation-wenn-sie-zu-haeufig-mit-der-peitsche-zuschlagen-a-21deab49-f121-4664-b4ad-cf8de115e20f#ref=rss)
-### peitsche
+* [https://www.spiegel.de/panorama/schweiz-polizei-stoppt-frisierten-e-scooter-bis-zu-120-km-h-moeglich](https://www.spiegel.de/panorama/schweiz-polizei-stoppt-frisierten-e-scooter-bis-zu-120-km-h-moeglich-a-12a94d03-d0b5-4ab9-84f9-b231125b356c#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/sport/galopprennen-in-grossbritannien-jockeys-droht-disqualifikation-wenn-sie-zu-haeufig-mit-der-peitsche-zuschlagen](https://www.spiegel.de/sport/galopprennen-in-grossbritannien-jockeys-droht-disqualifikation-wenn-sie-zu-haeufig-mit-der-peitsche-zuschlagen-a-21deab49-f121-4664-b4ad-cf8de115e20f#ref=rss)
-### erstmals
+* [https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt](https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt-a-8b92f49c-c59d-424a-8934-d0187d78c783#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-irritiert-mit-video-leitfaden-zu-moeglichem-atombomben-angriff](https://www.spiegel.de/ausland/new-york-irritiert-mit-video-leitfaden-zu-moeglichem-atombomben-angriff-a-c25b96d2-57fb-431c-aa47-92b55eade744#ref=rss)
+### geburtsklinik
 
-* [https://www.spiegel.de/sport/galopprennen-in-grossbritannien-jockeys-droht-disqualifikation-wenn-sie-zu-haeufig-mit-der-peitsche-zuschlagen](https://www.spiegel.de/sport/galopprennen-in-grossbritannien-jockeys-droht-disqualifikation-wenn-sie-zu-haeufig-mit-der-peitsche-zuschlagen-a-21deab49-f121-4664-b4ad-cf8de115e20f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/euro-faellt-unter-einen-dollar-erstmals-seit-20-jahren](https://www.spiegel.de/wirtschaft/service/euro-faellt-unter-einen-dollar-erstmals-seit-20-jahren-a-1469e3f9-7f20-4abe-b4e0-4a960facd196#ref=rss)
-### täter
+* [https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt](https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt-a-8b92f49c-c59d-424a-8934-d0187d78c783#ref=rss)
+### donbass
 
-* [https://www.spiegel.de/panorama/justiz/berlin-offenbar-mitglied-des-remmo-clans-in-berliner-fitnessstudio-niedergestochen](https://www.spiegel.de/panorama/justiz/berlin-offenbar-mitglied-des-remmo-clans-in-berliner-fitnessstudio-niedergestochen-a-5c840e08-1b08-424d-9f16-f81f99e16b06#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989](https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989-a-036ae827-5877-4860-a5df-b0d340c61f57#ref=rss)
-### hamburger
+* [https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt](https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt-a-8b92f49c-c59d-424a-8934-d0187d78c783#ref=rss)
+### wo
 
-* [https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989](https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989-a-036ae827-5877-4860-a5df-b0d340c61f57#ref=rss)
-* [https://www.spiegel.de/kultur/hauptbahnhof-in-hamburg-deutsche-bahn-haengt-juedische-kunst-von-yohana-hirschfeld-ab](https://www.spiegel.de/kultur/hauptbahnhof-in-hamburg-deutsche-bahn-haengt-juedische-kunst-von-yohana-hirschfeld-ab-a-ed61352c-7ae9-4662-9e6c-a4d6d4e7434e#ref=rss)
-### später
+* [https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt](https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt-a-8b92f49c-c59d-424a-8934-d0187d78c783#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken](https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken-a-6565a5c9-ebbe-41d7-af73-4e07008172cc#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989](https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989-a-036ae827-5877-4860-a5df-b0d340c61f57#ref=rss)
-* [https://www.spiegel.de/ausland/israel-verwirrung-um-us-konsulat-in-ostjerusalem](https://www.spiegel.de/ausland/israel-verwirrung-um-us-konsulat-in-ostjerusalem-a-9d5ba42e-8046-432f-8143-5925ea166428#ref=rss)
-### spur
+* [https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt](https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt-a-8b92f49c-c59d-424a-8934-d0187d78c783#ref=rss)
+* [https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum](https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum-a-4fbacd82-b651-4289-966f-f1a657b0c99b#ref=rss)
+### welt
 
-* [https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989](https://www.spiegel.de/panorama/justiz/goehrde-morde-in-niedersachsen-polizei-sucht-nach-hamburger-telefonbuch-von-1989-a-036ae827-5877-4860-a5df-b0d340c61f57#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/hunger-hormon-sonne-macht-maenner-hungrig](https://www.spiegel.de/wissenschaft/mensch/hunger-hormon-sonne-macht-maenner-hungrig-a-91176cd0-b7ee-48c4-83e3-32359cf9bf5d#ref=rss)
-### ostjerusalem
+* [https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt](https://www.spiegel.de/ausland/ukraine-geburtsklinik-im-donbass-wo-der-tod-praesent-ist-wenn-das-leben-beginnt-a-8b92f49c-c59d-424a-8934-d0187d78c783#ref=rss)
+* [https://www.spiegel.de/panorama/leute/ryan-gosling-ueber-seine-rolle-in-barbie-mache-das-fuer-die-kens-dieser-welt](https://www.spiegel.de/panorama/leute/ryan-gosling-ueber-seine-rolle-in-barbie-mache-das-fuer-die-kens-dieser-welt-a-65927f3a-980b-4d02-9b2f-6caf26de13dc#ref=rss)
+### joachim
 
-* [https://www.spiegel.de/ausland/israel-verwirrung-um-us-konsulat-in-ostjerusalem](https://www.spiegel.de/ausland/israel-verwirrung-um-us-konsulat-in-ostjerusalem-a-9d5ba42e-8046-432f-8143-5925ea166428#ref=rss)
-### bahn
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen](https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen-a-76944d42-ed23-402b-a0e1-f097a157b9d3#ref=rss)
+### gauck
 
-* [https://www.spiegel.de/kultur/hauptbahnhof-in-hamburg-deutsche-bahn-haengt-juedische-kunst-von-yohana-hirschfeld-ab](https://www.spiegel.de/kultur/hauptbahnhof-in-hamburg-deutsche-bahn-haengt-juedische-kunst-von-yohana-hirschfeld-ab-a-ed61352c-7ae9-4662-9e6c-a4d6d4e7434e#ref=rss)
-### yohana
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen](https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen-a-76944d42-ed23-402b-a0e1-f097a157b9d3#ref=rss)
+### markus
 
-* [https://www.spiegel.de/kultur/hauptbahnhof-in-hamburg-deutsche-bahn-haengt-juedische-kunst-von-yohana-hirschfeld-ab](https://www.spiegel.de/kultur/hauptbahnhof-in-hamburg-deutsche-bahn-haengt-juedische-kunst-von-yohana-hirschfeld-ab-a-ed61352c-7ae9-4662-9e6c-a4d6d4e7434e#ref=rss)
-### hirschfeld
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen](https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen-a-76944d42-ed23-402b-a0e1-f097a157b9d3#ref=rss)
+### lanz
 
-* [https://www.spiegel.de/kultur/hauptbahnhof-in-hamburg-deutsche-bahn-haengt-juedische-kunst-von-yohana-hirschfeld-ab](https://www.spiegel.de/kultur/hauptbahnhof-in-hamburg-deutsche-bahn-haengt-juedische-kunst-von-yohana-hirschfeld-ab-a-ed61352c-7ae9-4662-9e6c-a4d6d4e7434e#ref=rss)
-### deutschen
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen](https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen-a-76944d42-ed23-402b-a0e1-f097a157b9d3#ref=rss)
+### würde
 
-* [https://www.spiegel.de/kultur/hauptbahnhof-in-hamburg-deutsche-bahn-haengt-juedische-kunst-von-yohana-hirschfeld-ab](https://www.spiegel.de/kultur/hauptbahnhof-in-hamburg-deutsche-bahn-haengt-juedische-kunst-von-yohana-hirschfeld-ab-a-ed61352c-7ae9-4662-9e6c-a4d6d4e7434e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik](https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik-a-7e48e508-d35b-4ac3-a25d-f4e698219c22#ref=rss)
-### männer
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen](https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen-a-76944d42-ed23-402b-a0e1-f097a157b9d3#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/wissenschaft/mensch/hunger-hormon-sonne-macht-maenner-hungrig](https://www.spiegel.de/wissenschaft/mensch/hunger-hormon-sonne-macht-maenner-hungrig-a-91176cd0-b7ee-48c4-83e3-32359cf9bf5d#ref=rss)
-### suspendiert
+* [https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen](https://www.spiegel.de/politik/deutschland/joachim-gauck-bei-markus-lanz-ehemaliger-bundespraesident-wuerde-im-notfall-selbst-zur-waffe-greifen-a-76944d42-ed23-402b-a0e1-f097a157b9d3#ref=rss)
+* [https://www.spiegel.de/auto/volkswagen-europaeischer-gerichtshof-erklaert-thermofenster-in-diesel-fahrzeugen-fuer-unzulaessig](https://www.spiegel.de/auto/volkswagen-europaeischer-gerichtshof-erklaert-thermofenster-in-diesel-fahrzeugen-fuer-unzulaessig-a-5be63140-54a8-4455-be7f-8690012d422b#ref=rss)
+### gavin
 
-* [https://www.spiegel.de/panorama/bildung/verwaltungsgericht-duesseldorf-lehrerin-die-corona-schutzmassnahmen-nicht-umsetzt-darf-suspendiert-werden](https://www.spiegel.de/panorama/bildung/verwaltungsgericht-duesseldorf-lehrerin-die-corona-schutzmassnahmen-nicht-umsetzt-darf-suspendiert-werden-a-112a1d5d-a58f-4659-85b7-ce9204229f6d#ref=rss)
-### verbraucher
+* [https://www.spiegel.de/ausland/gavin-newsom-in-kalifornien-koennen-gewaltopfer-bald-waffenhersteller-verklagen](https://www.spiegel.de/ausland/gavin-newsom-in-kalifornien-koennen-gewaltopfer-bald-waffenhersteller-verklagen-a-fc28a116-1d60-462a-8d0a-536ebee2717b#ref=rss)
+### newsom
 
-* [https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik](https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik-a-7e48e508-d35b-4ac3-a25d-f4e698219c22#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strom-rekordpreise-wie-solar-und-windparks-in-der-gaskrise-zu-goldgruben-werden](https://www.spiegel.de/wirtschaft/strom-rekordpreise-wie-solar-und-windparks-in-der-gaskrise-zu-goldgruben-werden-a-bc96a68a-c7d1-4e81-ae13-62410dfc4caa#ref=rss)
-### strom
+* [https://www.spiegel.de/ausland/gavin-newsom-in-kalifornien-koennen-gewaltopfer-bald-waffenhersteller-verklagen](https://www.spiegel.de/ausland/gavin-newsom-in-kalifornien-koennen-gewaltopfer-bald-waffenhersteller-verklagen-a-fc28a116-1d60-462a-8d0a-536ebee2717b#ref=rss)
+### kalifornien
 
-* [https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik](https://www.spiegel.de/wirtschaft/verbraucher-greifen-tiefer-in-die-tasche-fuer-nachhaltige-elektronik-a-7e48e508-d35b-4ac3-a25d-f4e698219c22#ref=rss)
-* [https://www.spiegel.de/wirtschaft/strom-rekordpreise-wie-solar-und-windparks-in-der-gaskrise-zu-goldgruben-werden](https://www.spiegel.de/wirtschaft/strom-rekordpreise-wie-solar-und-windparks-in-der-gaskrise-zu-goldgruben-werden-a-bc96a68a-c7d1-4e81-ae13-62410dfc4caa#ref=rss)
-### fällt
+* [https://www.spiegel.de/ausland/gavin-newsom-in-kalifornien-koennen-gewaltopfer-bald-waffenhersteller-verklagen](https://www.spiegel.de/ausland/gavin-newsom-in-kalifornien-koennen-gewaltopfer-bald-waffenhersteller-verklagen-a-fc28a116-1d60-462a-8d0a-536ebee2717b#ref=rss)
+### großfamilie
 
-* [https://www.spiegel.de/wirtschaft/service/euro-faellt-unter-einen-dollar-erstmals-seit-20-jahren](https://www.spiegel.de/wirtschaft/service/euro-faellt-unter-einen-dollar-erstmals-seit-20-jahren-a-1469e3f9-7f20-4abe-b4e0-4a960facd196#ref=rss)
-### dollar
+* [https://www.spiegel.de/panorama/justiz/bayern-und-hessen-steuerfahnder-beschlagnahmen-luxusautos-und-gold-bei-grossfamilie](https://www.spiegel.de/panorama/justiz/bayern-und-hessen-steuerfahnder-beschlagnahmen-luxusautos-und-gold-bei-grossfamilie-a-6faf141e-7469-4129-8f51-de2182132d01#ref=rss)
+### kaja
 
-* [https://www.spiegel.de/wirtschaft/service/euro-faellt-unter-einen-dollar-erstmals-seit-20-jahren](https://www.spiegel.de/wirtschaft/service/euro-faellt-unter-einen-dollar-erstmals-seit-20-jahren-a-1469e3f9-7f20-4abe-b4e0-4a960facd196#ref=rss)
-### mickey
+* [https://www.spiegel.de/ausland/estland-kaja-kallas-tritt-als-ministerpraesidentin-zurueck](https://www.spiegel.de/ausland/estland-kaja-kallas-tritt-als-ministerpraesidentin-zurueck-a-b5e650b2-dd1f-4f6a-9f6e-329dc1e0c9b8#ref=rss)
+### kallas
 
-* [https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss](https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss-a-02fb5342-8ffb-4754-8cd5-e0502c81ae9b#ref=rss)
-### rourke
+* [https://www.spiegel.de/ausland/estland-kaja-kallas-tritt-als-ministerpraesidentin-zurueck](https://www.spiegel.de/ausland/estland-kaja-kallas-tritt-als-ministerpraesidentin-zurueck-a-b5e650b2-dd1f-4f6a-9f6e-329dc1e0c9b8#ref=rss)
+### ministerpräsidentin
 
-* [https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss](https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss-a-02fb5342-8ffb-4754-8cd5-e0502c81ae9b#ref=rss)
-### tom
+* [https://www.spiegel.de/ausland/estland-kaja-kallas-tritt-als-ministerpraesidentin-zurueck](https://www.spiegel.de/ausland/estland-kaja-kallas-tritt-als-ministerpraesidentin-zurueck-a-b5e650b2-dd1f-4f6a-9f6e-329dc1e0c9b8#ref=rss)
+### rücktritt
 
-* [https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss](https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss-a-02fb5342-8ffb-4754-8cd5-e0502c81ae9b#ref=rss)
-### cruise
+* [https://www.spiegel.de/ausland/estland-kaja-kallas-tritt-als-ministerpraesidentin-zurueck](https://www.spiegel.de/ausland/estland-kaja-kallas-tritt-als-ministerpraesidentin-zurueck-a-b5e650b2-dd1f-4f6a-9f6e-329dc1e0c9b8#ref=rss)
+* [https://www.spiegel.de/ausland/sri-lanka-demonstrierende-wollen-besetzte-gebaeude-raeumen](https://www.spiegel.de/ausland/sri-lanka-demonstrierende-wollen-besetzte-gebaeude-raeumen-a-6b79b6d8-6eb2-4a94-a006-db706e3f0e65#ref=rss)
+### woche
 
-* [https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss](https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss-a-02fb5342-8ffb-4754-8cd5-e0502c81ae9b#ref=rss)
-### mir
+* [https://www.spiegel.de/ausland/estland-kaja-kallas-tritt-als-ministerpraesidentin-zurueck](https://www.spiegel.de/ausland/estland-kaja-kallas-tritt-als-ministerpraesidentin-zurueck-a-b5e650b2-dd1f-4f6a-9f6e-329dc1e0c9b8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/klimakrise-die-hitze-sucht-europa-heim](https://www.spiegel.de/wissenschaft/mensch/klimakrise-die-hitze-sucht-europa-heim-a-89aa1152-ed32-40af-9606-8fd6573423f2#ref=rss)
+### ferdinand
 
-* [https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss](https://www.spiegel.de/panorama/leute/mickey-rourke-ueber-tom-cruise-bedeutet-mir-einen-scheiss-a-02fb5342-8ffb-4754-8cd5-e0502c81ae9b#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-sprinter-ferdinand-omanyala-verpasst-weltmeisterschaft-wegen-visumproblemen](https://www.spiegel.de/sport/leichtathletik-sprinter-ferdinand-omanyala-verpasst-weltmeisterschaft-wegen-visumproblemen-a-dcbaa9fa-1636-4378-9996-b9f1234365e3#ref=rss)
+### omanyala
+
+* [https://www.spiegel.de/sport/leichtathletik-sprinter-ferdinand-omanyala-verpasst-weltmeisterschaft-wegen-visumproblemen](https://www.spiegel.de/sport/leichtathletik-sprinter-ferdinand-omanyala-verpasst-weltmeisterschaft-wegen-visumproblemen-a-dcbaa9fa-1636-4378-9996-b9f1234365e3#ref=rss)
+### 2022
+
+* [https://www.spiegel.de/sport/leichtathletik-wm-2022-in-eugene-zeitplan-entscheidungen-tv-uebertragung](https://www.spiegel.de/sport/leichtathletik-wm-2022-in-eugene-zeitplan-entscheidungen-tv-uebertragung-a-137557b4-2fb0-4b64-a0e7-91123333cec2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation](https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation-a-52cec380-16e8-4c64-b444-7ddbba25bd99#ref=rss)
+### eugene
+
+* [https://www.spiegel.de/sport/leichtathletik-wm-2022-in-eugene-zeitplan-entscheidungen-tv-uebertragung](https://www.spiegel.de/sport/leichtathletik-wm-2022-in-eugene-zeitplan-entscheidungen-tv-uebertragung-a-137557b4-2fb0-4b64-a0e7-91123333cec2#ref=rss)
+### zeitplan
+
+* [https://www.spiegel.de/sport/leichtathletik-wm-2022-in-eugene-zeitplan-entscheidungen-tv-uebertragung](https://www.spiegel.de/sport/leichtathletik-wm-2022-in-eugene-zeitplan-entscheidungen-tv-uebertragung-a-137557b4-2fb0-4b64-a0e7-91123333cec2#ref=rss)
+### entscheidungen
+
+* [https://www.spiegel.de/sport/leichtathletik-wm-2022-in-eugene-zeitplan-entscheidungen-tv-uebertragung](https://www.spiegel.de/sport/leichtathletik-wm-2022-in-eugene-zeitplan-entscheidungen-tv-uebertragung-a-137557b4-2fb0-4b64-a0e7-91123333cec2#ref=rss)
+### bundesgerichtshof
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/dortmund-de-darf-laut-bundesgerichtshof-weiter-aktuell-berichten](https://www.spiegel.de/netzwelt/netzpolitik/dortmund-de-darf-laut-bundesgerichtshof-weiter-aktuell-berichten-a-87bc0666-e117-4212-a308-c3f3ed904499#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-scheidungen-laut-statistischem-bundesamt-erneut-gesunken](https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-scheidungen-laut-statistischem-bundesamt-erneut-gesunken-a-b52b5187-de12-4fe1-b314-1410d77edc97#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-mit-corona-infiziert](https://www.spiegel.de/politik/deutschland/marco-buschmann-mit-corona-infiziert-a-fecd2097-e41f-4c1a-8893-da729edec7ce#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-scheidungen-laut-statistischem-bundesamt-erneut-gesunken](https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-scheidungen-laut-statistischem-bundesamt-erneut-gesunken-a-b52b5187-de12-4fe1-b314-1410d77edc97#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tarifverhandlungen-verdi-lehnt-erstes-angebot-der-lufthansa-ab](https://www.spiegel.de/wirtschaft/unternehmen/tarifverhandlungen-verdi-lehnt-erstes-angebot-der-lufthansa-ab-a-a8c09faf-0cf9-4cfa-9009-9f5f84a428aa#ref=rss)
+### eukommission
+
+* [https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation](https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation-a-52cec380-16e8-4c64-b444-7ddbba25bd99#ref=rss)
+### historischen
+
+* [https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation](https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation-a-52cec380-16e8-4c64-b444-7ddbba25bd99#ref=rss)
+* [https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers](https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers-a-706c42e7-ad2b-4f27-80a2-dc878867b220#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation](https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation-a-52cec380-16e8-4c64-b444-7ddbba25bd99#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/flutkatastrophe-im-ahrtal-ich-sehe-leider-nicht-dass-die-richtigen-lehren-gezogen-werden](https://www.spiegel.de/wissenschaft/natur/flutkatastrophe-im-ahrtal-ich-sehe-leider-nicht-dass-die-richtigen-lehren-gezogen-werden-a-d4f2c47e-8b00-4ab0-b850-a1819c584840#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation](https://www.spiegel.de/wirtschaft/service/eu-kommission-erwartet-fuer-2022-rekordinflation-a-52cec380-16e8-4c64-b444-7ddbba25bd99#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tarifverhandlungen-verdi-lehnt-erstes-angebot-der-lufthansa-ab](https://www.spiegel.de/wirtschaft/unternehmen/tarifverhandlungen-verdi-lehnt-erstes-angebot-der-lufthansa-ab-a-a8c09faf-0cf9-4cfa-9009-9f5f84a428aa#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-baden-wuerttemberg-stuft-landesverband-als-verdachtsobjekt-ein](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-baden-wuerttemberg-stuft-landesverband-als-verdachtsobjekt-ein-a-b29b2036-4e6b-4b3e-9e8e-b9d85c7118a9#ref=rss)
+### verfassungsschutz
+
+* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-baden-wuerttemberg-stuft-landesverband-als-verdachtsobjekt-ein](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-baden-wuerttemberg-stuft-landesverband-als-verdachtsobjekt-ein-a-b29b2036-4e6b-4b3e-9e8e-b9d85c7118a9#ref=rss)
+### landesverband
+
+* [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-baden-wuerttemberg-stuft-landesverband-als-verdachtsobjekt-ein](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-baden-wuerttemberg-stuft-landesverband-als-verdachtsobjekt-ein-a-b29b2036-4e6b-4b3e-9e8e-b9d85c7118a9#ref=rss)
+### studie
+
+* [https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum](https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum-a-4fbacd82-b651-4289-966f-f1a657b0c99b#ref=rss)
+* [https://www.spiegel.de/start/welcher-job-passt-zu-mir-jugendliche-sind-mit-der-beruflichen-orientierung-ueberfordert](https://www.spiegel.de/start/welcher-job-passt-zu-mir-jugendliche-sind-mit-der-beruflichen-orientierung-ueberfordert-a-77e75101-ad02-4f02-bcaa-a9f1cc4ae550#ref=rss)
+### job
+
+* [https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum](https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum-a-4fbacd82-b651-4289-966f-f1a657b0c99b#ref=rss)
+* [https://www.spiegel.de/start/welcher-job-passt-zu-mir-jugendliche-sind-mit-der-beruflichen-orientierung-ueberfordert](https://www.spiegel.de/start/welcher-job-passt-zu-mir-jugendliche-sind-mit-der-beruflichen-orientierung-ueberfordert-a-77e75101-ad02-4f02-bcaa-a9f1cc4ae550#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum](https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum-a-4fbacd82-b651-4289-966f-f1a657b0c99b#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken](https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken-a-6565a5c9-ebbe-41d7-af73-4e07008172cc#ref=rss)
+### fall
+
+* [https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum](https://www.spiegel.de/sport/nfl-studie-gewalttaten-gegen-frauen-schaden-der-football-karriere-kaum-a-4fbacd82-b651-4289-966f-f1a657b0c99b#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-irritiert-mit-video-leitfaden-zu-moeglichem-atombomben-angriff](https://www.spiegel.de/ausland/new-york-irritiert-mit-video-leitfaden-zu-moeglichem-atombomben-angriff-a-c25b96d2-57fb-431c-aa47-92b55eade744#ref=rss)
+### buschmann
+
+* [https://www.spiegel.de/politik/deutschland/marco-buschmann-mit-corona-infiziert](https://www.spiegel.de/politik/deutschland/marco-buschmann-mit-corona-infiziert-a-fecd2097-e41f-4c1a-8893-da729edec7ce#ref=rss)
+### vincent
+
+* [https://www.spiegel.de/kultur/vincent-van-gogh-moegliches-selbstportraet-entdeckt](https://www.spiegel.de/kultur/vincent-van-gogh-moegliches-selbstportraet-entdeckt-a-c3f79b6b-2dc1-4618-b738-48106629914d#ref=rss)
+### van
+
+* [https://www.spiegel.de/kultur/vincent-van-gogh-moegliches-selbstportraet-entdeckt](https://www.spiegel.de/kultur/vincent-van-gogh-moegliches-selbstportraet-entdeckt-a-c3f79b6b-2dc1-4618-b738-48106629914d#ref=rss)
+### gogh
+
+* [https://www.spiegel.de/kultur/vincent-van-gogh-moegliches-selbstportraet-entdeckt](https://www.spiegel.de/kultur/vincent-van-gogh-moegliches-selbstportraet-entdeckt-a-c3f79b6b-2dc1-4618-b738-48106629914d#ref=rss)
+### selbstporträt
+
+* [https://www.spiegel.de/kultur/vincent-van-gogh-moegliches-selbstportraet-entdeckt](https://www.spiegel.de/kultur/vincent-van-gogh-moegliches-selbstportraet-entdeckt-a-c3f79b6b-2dc1-4618-b738-48106629914d#ref=rss)
+### entdeckt
+
+* [https://www.spiegel.de/kultur/vincent-van-gogh-moegliches-selbstportraet-entdeckt](https://www.spiegel.de/kultur/vincent-van-gogh-moegliches-selbstportraet-entdeckt-a-c3f79b6b-2dc1-4618-b738-48106629914d#ref=rss)
+### ahrtal
+
+* [https://www.spiegel.de/wissenschaft/natur/flutkatastrophe-im-ahrtal-ich-sehe-leider-nicht-dass-die-richtigen-lehren-gezogen-werden](https://www.spiegel.de/wissenschaft/natur/flutkatastrophe-im-ahrtal-ich-sehe-leider-nicht-dass-die-richtigen-lehren-gezogen-werden-a-d4f2c47e-8b00-4ab0-b850-a1819c584840#ref=rss)
+### vorbereitet
+
+* [https://www.spiegel.de/wissenschaft/natur/flutkatastrophe-im-ahrtal-ich-sehe-leider-nicht-dass-die-richtigen-lehren-gezogen-werden](https://www.spiegel.de/wissenschaft/natur/flutkatastrophe-im-ahrtal-ich-sehe-leider-nicht-dass-die-richtigen-lehren-gezogen-werden-a-d4f2c47e-8b00-4ab0-b850-a1819c584840#ref=rss)
+* [https://www.spiegel.de/ausland/new-york-irritiert-mit-video-leitfaden-zu-moeglichem-atombomben-angriff](https://www.spiegel.de/ausland/new-york-irritiert-mit-video-leitfaden-zu-moeglichem-atombomben-angriff-a-c25b96d2-57fb-431c-aa47-92b55eade744#ref=rss)
+### angebot
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tarifverhandlungen-verdi-lehnt-erstes-angebot-der-lufthansa-ab](https://www.spiegel.de/wirtschaft/unternehmen/tarifverhandlungen-verdi-lehnt-erstes-angebot-der-lufthansa-ab-a-a8c09faf-0cf9-4cfa-9009-9f5f84a428aa#ref=rss)
+* [https://www.spiegel.de/start/welcher-job-passt-zu-mir-jugendliche-sind-mit-der-beruflichen-orientierung-ueberfordert](https://www.spiegel.de/start/welcher-job-passt-zu-mir-jugendliche-sind-mit-der-beruflichen-orientierung-ueberfordert-a-77e75101-ad02-4f02-bcaa-a9f1cc4ae550#ref=rss)
+### lufthansa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tarifverhandlungen-verdi-lehnt-erstes-angebot-der-lufthansa-ab](https://www.spiegel.de/wirtschaft/unternehmen/tarifverhandlungen-verdi-lehnt-erstes-angebot-der-lufthansa-ab-a-a8c09faf-0cf9-4cfa-9009-9f5f84a428aa#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/start/welcher-job-passt-zu-mir-jugendliche-sind-mit-der-beruflichen-orientierung-ueberfordert](https://www.spiegel.de/start/welcher-job-passt-zu-mir-jugendliche-sind-mit-der-beruflichen-orientierung-ueberfordert-a-77e75101-ad02-4f02-bcaa-a9f1cc4ae550#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken](https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken-a-6565a5c9-ebbe-41d7-af73-4e07008172cc#ref=rss)
+### new
+
+* [https://www.spiegel.de/ausland/new-york-irritiert-mit-video-leitfaden-zu-moeglichem-atombomben-angriff](https://www.spiegel.de/ausland/new-york-irritiert-mit-video-leitfaden-zu-moeglichem-atombomben-angriff-a-c25b96d2-57fb-431c-aa47-92b55eade744#ref=rss)
+### york
+
+* [https://www.spiegel.de/ausland/new-york-irritiert-mit-video-leitfaden-zu-moeglichem-atombomben-angriff](https://www.spiegel.de/ausland/new-york-irritiert-mit-video-leitfaden-zu-moeglichem-atombomben-angriff-a-c25b96d2-57fb-431c-aa47-92b55eade744#ref=rss)
+### schuld
+
+* [https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers](https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers-a-706c42e7-ad2b-4f27-80a2-dc878867b220#ref=rss)
+### klimawandel
+
+* [https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers](https://www.spiegel.de/ausland/italien-leidet-unter-einer-historischen-duerre-schuld-ist-nicht-nur-der-klimawandel-das-land-verschwendet-fast-die-haelfte-seines-wassers-a-706c42e7-ad2b-4f27-80a2-dc878867b220#ref=rss)
+### karten
+
+* [https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken](https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken-a-6565a5c9-ebbe-41d7-af73-4e07008172cc#ref=rss)
+### grafiken
+
+* [https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken](https://www.spiegel.de/wissenschaft/mensch/duerre-in-deutschland-so-trocken-sind-die-boeden-aktuelle-werte-in-karten-und-grafiken-a-6565a5c9-ebbe-41d7-af73-4e07008172cc#ref=rss)
+### netflix
+
+* [https://www.spiegel.de/netzwelt/apps/netflix-schliesst-werbedeal-mit-microsoft](https://www.spiegel.de/netzwelt/apps/netflix-schliesst-werbedeal-mit-microsoft-a-7b55edd9-338d-449a-b108-a6d6a557b6ac#ref=rss)
+### sri
+
+* [https://www.spiegel.de/ausland/sri-lanka-demonstrierende-wollen-besetzte-gebaeude-raeumen](https://www.spiegel.de/ausland/sri-lanka-demonstrierende-wollen-besetzte-gebaeude-raeumen-a-6b79b6d8-6eb2-4a94-a006-db706e3f0e65#ref=rss)
+### gebäude
+
+* [https://www.spiegel.de/ausland/sri-lanka-demonstrierende-wollen-besetzte-gebaeude-raeumen](https://www.spiegel.de/ausland/sri-lanka-demonstrierende-wollen-besetzte-gebaeude-raeumen-a-6b79b6d8-6eb2-4a94-a006-db706e3f0e65#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-nordkorea-erkennt-prorussische-volksrepubliken-an](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-nordkorea-erkennt-prorussische-volksrepubliken-an-a-05a6aa83-63da-4683-8111-eda5c23623b4#ref=rss)
+### ryan
+
+* [https://www.spiegel.de/panorama/leute/ryan-gosling-ueber-seine-rolle-in-barbie-mache-das-fuer-die-kens-dieser-welt](https://www.spiegel.de/panorama/leute/ryan-gosling-ueber-seine-rolle-in-barbie-mache-das-fuer-die-kens-dieser-welt-a-65927f3a-980b-4d02-9b2f-6caf26de13dc#ref=rss)
+### gosling
+
+* [https://www.spiegel.de/panorama/leute/ryan-gosling-ueber-seine-rolle-in-barbie-mache-das-fuer-die-kens-dieser-welt](https://www.spiegel.de/panorama/leute/ryan-gosling-ueber-seine-rolle-in-barbie-mache-das-fuer-die-kens-dieser-welt-a-65927f3a-980b-4d02-9b2f-6caf26de13dc#ref=rss)
+### kiew
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-nordkorea-erkennt-prorussische-volksrepubliken-an](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-nordkorea-erkennt-prorussische-volksrepubliken-an-a-05a6aa83-63da-4683-8111-eda5c23623b4#ref=rss)
 
