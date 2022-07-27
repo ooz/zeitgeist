@@ -4,316 +4,283 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### frauen
+### schweiz
 
-* [https://www.spiegel.de/wirtschaft/konsumklima-auf-rekordtief-seit-beginn-der-erhebung-wurde-kein-schlechterer-wert-gemessen](https://www.spiegel.de/wirtschaft/konsumklima-auf-rekordtief-seit-beginn-der-erhebung-wurde-kein-schlechterer-wert-gemessen-a-e68d5460-6d93-4dc7-97c6-c58f5de67b23#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-lage-der-frauen-im-land-verschlechtert-sich-zunehmend](https://www.spiegel.de/ausland/afghanistan-lage-der-frauen-im-land-verschlechtert-sich-zunehmend-a-38e7886d-9dc4-44cb-8b67-31e574caa728#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben](https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben-a-c560cbd5-87ad-4dcc-91bb-368b8e514612#ref=rss)
-* [https://www.spiegel.de/ausland/maha-vajiralongkorn-thailands-koenig-wird-70](https://www.spiegel.de/ausland/maha-vajiralongkorn-thailands-koenig-wird-70-a-a04a0cdf-383b-482c-8c49-a2210a95d229#ref=rss)
-### usa
+* [https://www.spiegel.de/panorama/waldbraende-in-sachsen-der-kampf-gegen-die-unbesiegbaren-flammen](https://www.spiegel.de/panorama/waldbraende-in-sachsen-der-kampf-gegen-die-unbesiegbaren-flammen-a-499609b2-0d4c-4e94-93f8-ad572d0d40a8#ref=rss)
+* [https://www.spiegel.de/panorama/vierwaauto-stuerzt-in-die-tiefe-und-versinkt-in-schweizer-see-bergung-dauert-an](https://www.spiegel.de/panorama/vierwaauto-stuerzt-in-die-tiefe-und-versinkt-in-schweizer-see-bergung-dauert-an-a-54796d84-969b-4a66-9401-b074504ed2fc#ref=rss)
+* [https://www.spiegel.de/kultur/musik/schweiz-bern-konzertabbruch-wegen-dreadlocks-und-reggae](https://www.spiegel.de/kultur/musik/schweiz-bern-konzertabbruch-wegen-dreadlocks-und-reggae-a-fd567ca9-6f21-4d06-93c1-5eb14c6cdacb#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/panorama/lake-mead-in-den-usa-nationalparkwaerter-melden-dritten-leichenfund-binnen-drei-monaten](https://www.spiegel.de/panorama/lake-mead-in-den-usa-nationalparkwaerter-melden-dritten-leichenfund-binnen-drei-monaten-a-ea9c2530-7b09-4382-a6d0-c244bf634c32#ref=rss)
-* [https://www.spiegel.de/ausland/usa-das-militaer-und-seine-klima-bilanz-5600-liter-sprit-pro-stunde](https://www.spiegel.de/ausland/usa-das-militaer-und-seine-klima-bilanz-5600-liter-sprit-pro-stunde-a-8baef57e-5e78-487f-a236-32b76119f576#ref=rss)
-### flughafen
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-vertritt-olaf-scholz-im-kabinett-uebt-er-schon](https://www.spiegel.de/politik/deutschland/robert-habeck-vertritt-olaf-scholz-im-kabinett-uebt-er-schon-a-b427c9d8-cbd2-47f0-ada7-9dd62d4468dd#ref=rss)
+### documenta
 
-* [https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet](https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet-a-ef2e589a-300d-4c8d-ab13-ec0ddb862a6f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-streik-so-reagieren-passagiere-auf-dem-frankfurter-flughafen](https://www.spiegel.de/wirtschaft/lufthansa-streik-so-reagieren-passagiere-auf-dem-frankfurter-flughafen-a-25109864-3666-444d-bde5-f29a356f4b1e#ref=rss)
-* [https://www.spiegel.de/panorama/flughafen-london-heathrow-reisende-geben-vor-rollstuhl-zu-brauchen-um-nicht-anstehen-zu-muessen](https://www.spiegel.de/panorama/flughafen-london-heathrow-reisende-geben-vor-rollstuhl-zu-brauchen-um-nicht-anstehen-zu-muessen-a-b7783936-689b-492d-9663-b81888cd94ef#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/konsumklima-auf-rekordtief-seit-beginn-der-erhebung-wurde-kein-schlechterer-wert-gemessen](https://www.spiegel.de/wirtschaft/konsumklima-auf-rekordtief-seit-beginn-der-erhebung-wurde-kein-schlechterer-wert-gemessen-a-e68d5460-6d93-4dc7-97c6-c58f5de67b23#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-ueberrascht-mit-weiterem-milliardengewinn](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-ueberrascht-mit-weiterem-milliardengewinn-a-81e9dd10-f5c3-4615-9858-204464d8ea1d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/energiekrise-friedrich-merz-fordert-kauf-neuer-akw-brennstaebe](https://www.spiegel.de/politik/deutschland/energiekrise-friedrich-merz-fordert-kauf-neuer-akw-brennstaebe-a-2663f597-4bcf-49ea-af5f-cbe681d7ff25#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/affenpocken-genesener-ueber-krankheitsverlauf-ich-dachte-ich-wuerde-sterben](https://www.spiegel.de/panorama/affenpocken-genesener-ueber-krankheitsverlauf-ich-dachte-ich-wuerde-sterben-a-aaa58cdc-41ea-4632-8d01-cda21e24964d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben](https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben-a-c560cbd5-87ad-4dcc-91bb-368b8e514612#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/kultur/corona-und-ukraine-krieg-hemmen-ticketverkauf-warum-die-kultur-nicht-aus-der-krise-kommt](https://www.spiegel.de/kultur/corona-und-ukraine-krieg-hemmen-ticketverkauf-warum-die-kultur-nicht-aus-der-krise-kommt-a-ebc334d9-7355-4884-9436-96c9cec39db0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben](https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben-a-c560cbd5-87ad-4dcc-91bb-368b8e514612#ref=rss)
-* [https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende](https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende-a-e83a8ed0-bf5a-4135-b66c-22aec2d13566#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wirtschaft/service/spritpreis-faellt-weiter-super-e10-auf-vorkriegsniveau](https://www.spiegel.de/wirtschaft/service/spritpreis-faellt-weiter-super-e10-auf-vorkriegsniveau-a-ed875e7e-dc36-4908-bac8-6a707dc54c65#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-zahl-der-beschaeftigten-im-sanitaer-und-heizungsbau-schrumpft-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-zahl-der-beschaeftigten-im-sanitaer-und-heizungsbau-schrumpft-deutlich-a-45bdac4b-c3cf-4954-a3e5-0c221ba80a6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-ueberrascht-mit-weiterem-milliardengewinn](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-ueberrascht-mit-weiterem-milliardengewinn-a-81e9dd10-f5c3-4615-9858-204464d8ea1d#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/afghanistan-lage-der-frauen-im-land-verschlechtert-sich-zunehmend](https://www.spiegel.de/ausland/afghanistan-lage-der-frauen-im-land-verschlechtert-sich-zunehmend-a-38e7886d-9dc4-44cb-8b67-31e574caa728#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet](https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet-a-ef2e589a-300d-4c8d-ab13-ec0ddb862a6f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-krankenhausgesellschaft-fordert-aufhebung-der-impfpflicht-fuer-pflegepersonal](https://www.spiegel.de/wirtschaft/unternehmen/corona-krankenhausgesellschaft-fordert-aufhebung-der-impfpflicht-fuer-pflegepersonal-a-0b52f45e-1a0d-4022-a62b-b1a12bf6f380#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine](https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine-a-700c0786-ec84-4e6c-a1cb-fd553459b4d4#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-tuerkei-eroeffnet-kontrollzentrum-fuer-ukrainische-getreideausfuhr](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-tuerkei-eroeffnet-kontrollzentrum-fuer-ukrainische-getreideausfuhr-a-65911b16-c177-42b8-8b9a-ba704044cbc9#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine](https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine-a-700c0786-ec84-4e6c-a1cb-fd553459b4d4#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-kaum-noch-freie-plaetze-fuer-gefluechtete-notfallplan-soll-in-kraft-treten](https://www.spiegel.de/panorama/gesellschaft/berlin-kaum-noch-freie-plaetze-fuer-gefluechtete-notfallplan-soll-in-kraft-treten-a-1f235c0e-610a-4711-bb20-ef589b0cde71#ref=rss)
+* [https://www.spiegel.de/kultur/documenta-erneut-antisemitische-bilder-aufgetaucht](https://www.spiegel.de/kultur/documenta-erneut-antisemitische-bilder-aufgetaucht-a-05fa3528-187d-4f4d-ba71-ff27b414f52b#ref=rss)
 ### alle
 
-* [https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen](https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen-a-8a4319ad-db1d-4785-89e4-7a4d5be30007#ref=rss)
-* [https://www.spiegel.de/panorama/flughafen-london-heathrow-reisende-geben-vor-rollstuhl-zu-brauchen-um-nicht-anstehen-zu-muessen](https://www.spiegel.de/panorama/flughafen-london-heathrow-reisende-geben-vor-rollstuhl-zu-brauchen-um-nicht-anstehen-zu-muessen-a-b7783936-689b-492d-9663-b81888cd94ef#ref=rss)
-### fordert
+* [https://www.spiegel.de/wirtschaft/spanien-ryanair-mitarbeitende-verlaengern-streik-um-weitere-fuenf-monate](https://www.spiegel.de/wirtschaft/spanien-ryanair-mitarbeitende-verlaengern-streik-um-weitere-fuenf-monate-a-13c3ddad-02ba-4ba7-a323-d7430997da08#ref=rss)
+* [https://www.spiegel.de/ausland/affenpocken-brandbrief-der-gesundheitskommissarin-kommission-sieht-eu-als-epizentrum](https://www.spiegel.de/ausland/affenpocken-brandbrief-der-gesundheitskommissarin-kommission-sieht-eu-als-epizentrum-a-1e87a859-e387-4627-ae0d-c69cda8e26dd#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-negativ-auf-corona-getestet](https://www.spiegel.de/ausland/usa-joe-biden-negativ-auf-corona-getestet-a-4398018b-911a-4241-b953-d8f3e527654e#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende](https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende-a-e83a8ed0-bf5a-4135-b66c-22aec2d13566#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/energiekrise-friedrich-merz-fordert-kauf-neuer-akw-brennstaebe](https://www.spiegel.de/politik/deutschland/energiekrise-friedrich-merz-fordert-kauf-neuer-akw-brennstaebe-a-2663f597-4bcf-49ea-af5f-cbe681d7ff25#ref=rss)
-### angst
+* [https://www.spiegel.de/netzwelt/apps/apple-nacktfotoscanner-fuer-iphones-startet-nun-auch-in-deutschland](https://www.spiegel.de/netzwelt/apps/apple-nacktfotoscanner-fuer-iphones-startet-nun-auch-in-deutschland-a-3d33e293-653a-4cbb-a7b0-4ba01dd261d1#ref=rss)
+* [https://www.spiegel.de/ausland/hungerkrise-in-afghanistan-wo-kinder-vor-lauter-hunger-nicht-mal-mehr-lachen-koennen](https://www.spiegel.de/ausland/hungerkrise-in-afghanistan-wo-kinder-vor-lauter-hunger-nicht-mal-mehr-lachen-koennen-a-5f905c92-a084-4332-8031-3da14db02a03#ref=rss)
+### empfangen
 
-* [https://www.spiegel.de/wirtschaft/konsumklima-auf-rekordtief-seit-beginn-der-erhebung-wurde-kein-schlechterer-wert-gemessen](https://www.spiegel.de/wirtschaft/konsumklima-auf-rekordtief-seit-beginn-der-erhebung-wurde-kein-schlechterer-wert-gemessen-a-e68d5460-6d93-4dc7-97c6-c58f5de67b23#ref=rss)
-### allem
+* [https://www.spiegel.de/netzwelt/apps/apple-nacktfotoscanner-fuer-iphones-startet-nun-auch-in-deutschland](https://www.spiegel.de/netzwelt/apps/apple-nacktfotoscanner-fuer-iphones-startet-nun-auch-in-deutschland-a-3d33e293-653a-4cbb-a7b0-4ba01dd261d1#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner-a-69a15300-8d92-46e9-8369-cf03a4428d2b#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wirtschaft/konsumklima-auf-rekordtief-seit-beginn-der-erhebung-wurde-kein-schlechterer-wert-gemessen](https://www.spiegel.de/wirtschaft/konsumklima-auf-rekordtief-seit-beginn-der-erhebung-wurde-kein-schlechterer-wert-gemessen-a-e68d5460-6d93-4dc7-97c6-c58f5de67b23#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet](https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet-a-ef2e589a-300d-4c8d-ab13-ec0ddb862a6f#ref=rss)
-### affenpocken
+* [https://www.spiegel.de/ausland/peking-als-friedensmakler-in-der-ukraine-setzt-nicht-auf-china](https://www.spiegel.de/ausland/peking-als-friedensmakler-in-der-ukraine-setzt-nicht-auf-china-a-8befc414-905c-4608-afe1-b56da8834ea4#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/panorama/affenpocken-genesener-ueber-krankheitsverlauf-ich-dachte-ich-wuerde-sterben](https://www.spiegel.de/panorama/affenpocken-genesener-ueber-krankheitsverlauf-ich-dachte-ich-wuerde-sterben-a-aaa58cdc-41ea-4632-8d01-cda21e24964d#ref=rss)
-### 70
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner-a-69a15300-8d92-46e9-8369-cf03a4428d2b#ref=rss)
+### macron
 
-* [https://www.spiegel.de/panorama/affenpocken-genesener-ueber-krankheitsverlauf-ich-dachte-ich-wuerde-sterben](https://www.spiegel.de/panorama/affenpocken-genesener-ueber-krankheitsverlauf-ich-dachte-ich-wuerde-sterben-a-aaa58cdc-41ea-4632-8d01-cda21e24964d#ref=rss)
-* [https://www.spiegel.de/ausland/maha-vajiralongkorn-thailands-koenig-wird-70](https://www.spiegel.de/ausland/maha-vajiralongkorn-thailands-koenig-wird-70-a-a04a0cdf-383b-482c-8c49-a2210a95d229#ref=rss)
-### schlimmer
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner-a-69a15300-8d92-46e9-8369-cf03a4428d2b#ref=rss)
+### mohammed
 
-* [https://www.spiegel.de/panorama/affenpocken-genesener-ueber-krankheitsverlauf-ich-dachte-ich-wuerde-sterben](https://www.spiegel.de/panorama/affenpocken-genesener-ueber-krankheitsverlauf-ich-dachte-ich-wuerde-sterben-a-aaa58cdc-41ea-4632-8d01-cda21e24964d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/rezession-inflation-job-boom-warum-die-us-konjunktur-verruecktspielt](https://www.spiegel.de/wirtschaft/rezession-inflation-job-boom-warum-die-us-konjunktur-verruecktspielt-a-268dddb0-caa5-498a-9ade-c419ed7f2d05#ref=rss)
-### corona
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner-a-69a15300-8d92-46e9-8369-cf03a4428d2b#ref=rss)
+### bin
 
-* [https://www.spiegel.de/kultur/corona-und-ukraine-krieg-hemmen-ticketverkauf-warum-die-kultur-nicht-aus-der-krise-kommt](https://www.spiegel.de/kultur/corona-und-ukraine-krieg-hemmen-ticketverkauf-warum-die-kultur-nicht-aus-der-krise-kommt-a-ebc334d9-7355-4884-9436-96c9cec39db0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-krankenhausgesellschaft-fordert-aufhebung-der-impfpflicht-fuer-pflegepersonal](https://www.spiegel.de/wirtschaft/unternehmen/corona-krankenhausgesellschaft-fordert-aufhebung-der-impfpflicht-fuer-pflegepersonal-a-0b52f45e-1a0d-4022-a62b-b1a12bf6f380#ref=rss)
-### kristen
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner-a-69a15300-8d92-46e9-8369-cf03a4428d2b#ref=rss)
+### salman
 
-* [https://www.spiegel.de/panorama/leute/kristen-bell-gibt-ihren-kindern-melatonin-gummibaerchen-zum-einschlafen](https://www.spiegel.de/panorama/leute/kristen-bell-gibt-ihren-kindern-melatonin-gummibaerchen-zum-einschlafen-a-2a609db8-7ba6-4fce-b6f1-6e38239f5c34#ref=rss)
-### bell
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner-a-69a15300-8d92-46e9-8369-cf03a4428d2b#ref=rss)
+### erstmals
 
-* [https://www.spiegel.de/panorama/leute/kristen-bell-gibt-ihren-kindern-melatonin-gummibaerchen-zum-einschlafen](https://www.spiegel.de/panorama/leute/kristen-bell-gibt-ihren-kindern-melatonin-gummibaerchen-zum-einschlafen-a-2a609db8-7ba6-4fce-b6f1-6e38239f5c34#ref=rss)
-### kindern
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner-a-69a15300-8d92-46e9-8369-cf03a4428d2b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dazn-sky-amazon-prime-wie-sie-in-dieser-saison-kein-fussball-spiel-verpassen](https://www.spiegel.de/sport/fussball/dazn-sky-amazon-prime-wie-sie-in-dieser-saison-kein-fussball-spiel-verpassen-a-2230ab01-c697-416e-ac87-dacd5583cac7#ref=rss)
+### europa
 
-* [https://www.spiegel.de/panorama/leute/kristen-bell-gibt-ihren-kindern-melatonin-gummibaerchen-zum-einschlafen](https://www.spiegel.de/panorama/leute/kristen-bell-gibt-ihren-kindern-melatonin-gummibaerchen-zum-einschlafen-a-2a609db8-7ba6-4fce-b6f1-6e38239f5c34#ref=rss)
-* [https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine](https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine-a-700c0786-ec84-4e6c-a1cb-fd553459b4d4#ref=rss)
-### land
+* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-trifft-mohammed-bin-salman-zum-dinner-a-69a15300-8d92-46e9-8369-cf03a4428d2b#ref=rss)
+* [https://www.spiegel.de/ausland/affenpocken-brandbrief-der-gesundheitskommissarin-kommission-sieht-eu-als-epizentrum](https://www.spiegel.de/ausland/affenpocken-brandbrief-der-gesundheitskommissarin-kommission-sieht-eu-als-epizentrum-a-1e87a859-e387-4627-ae0d-c69cda8e26dd#ref=rss)
+### robert
 
-* [https://www.spiegel.de/panorama/leute/kristen-bell-gibt-ihren-kindern-melatonin-gummibaerchen-zum-einschlafen](https://www.spiegel.de/panorama/leute/kristen-bell-gibt-ihren-kindern-melatonin-gummibaerchen-zum-einschlafen-a-2a609db8-7ba6-4fce-b6f1-6e38239f5c34#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-lage-der-frauen-im-land-verschlechtert-sich-zunehmend](https://www.spiegel.de/ausland/afghanistan-lage-der-frauen-im-land-verschlechtert-sich-zunehmend-a-38e7886d-9dc4-44cb-8b67-31e574caa728#ref=rss)
-### ursprung
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-vertritt-olaf-scholz-im-kabinett-uebt-er-schon](https://www.spiegel.de/politik/deutschland/robert-habeck-vertritt-olaf-scholz-im-kabinett-uebt-er-schon-a-b427c9d8-cbd2-47f0-ada7-9dd62d4468dd#ref=rss)
+### habeck
 
-* [https://www.spiegel.de/wissenschaft/mensch/zum-ursprung-des-coronavirus-die-laborthese-wird-unwahrscheinlicher](https://www.spiegel.de/wissenschaft/mensch/zum-ursprung-des-coronavirus-die-laborthese-wird-unwahrscheinlicher-a-b434a884-d3eb-4012-ba1a-6aa30f03807f#ref=rss)
-### zwei
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-vertritt-olaf-scholz-im-kabinett-uebt-er-schon](https://www.spiegel.de/politik/deutschland/robert-habeck-vertritt-olaf-scholz-im-kabinett-uebt-er-schon-a-b427c9d8-cbd2-47f0-ada7-9dd62d4468dd#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/wissenschaft/mensch/zum-ursprung-des-coronavirus-die-laborthese-wird-unwahrscheinlicher](https://www.spiegel.de/wissenschaft/mensch/zum-ursprung-des-coronavirus-die-laborthese-wird-unwahrscheinlicher-a-b434a884-d3eb-4012-ba1a-6aa30f03807f#ref=rss)
-* [https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine](https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine-a-700c0786-ec84-4e6c-a1cb-fd553459b4d4#ref=rss)
-### neuen
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-vertritt-olaf-scholz-im-kabinett-uebt-er-schon](https://www.spiegel.de/politik/deutschland/robert-habeck-vertritt-olaf-scholz-im-kabinett-uebt-er-schon-a-b427c9d8-cbd2-47f0-ada7-9dd62d4468dd#ref=rss)
+### kabinett
 
-* [https://www.spiegel.de/wirtschaft/zuzahlungen-fuer-heimplaetze-bei-so-hohen-eigenanteilen-bleibt-pflegebeduerftigkeit-ein-armutsrisiko](https://www.spiegel.de/wirtschaft/zuzahlungen-fuer-heimplaetze-bei-so-hohen-eigenanteilen-bleibt-pflegebeduerftigkeit-ein-armutsrisiko-a-5c5158ce-3646-4a01-8959-df60b78091e5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ulrich-koerner-folgt-auf-thomas-gottstein-credit-suisse-wechselt-ueberraschend-den-konzernchef](https://www.spiegel.de/wirtschaft/unternehmen/ulrich-koerner-folgt-auf-thomas-gottstein-credit-suisse-wechselt-ueberraschend-den-konzernchef-a-243222e9-07cc-45e8-ab93-037cd8b433b2#ref=rss)
-### josé
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-vertritt-olaf-scholz-im-kabinett-uebt-er-schon](https://www.spiegel.de/politik/deutschland/robert-habeck-vertritt-olaf-scholz-im-kabinett-uebt-er-schon-a-b427c9d8-cbd2-47f0-ada7-9dd62d4468dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kabinett-beschliesst-klimaschutz-ausgaben-in-milliardenhoehe](https://www.spiegel.de/wirtschaft/kabinett-beschliesst-klimaschutz-ausgaben-in-milliardenhoehe-a-6bb04071-e3a9-43f5-b2e4-e19cc179e281#ref=rss)
+### tigerente
 
-* [https://www.spiegel.de/sport/fussball/serie-a-atalanta-bergamo-profi-jose-luis-palomino-wegen-dopings-gesperrt](https://www.spiegel.de/sport/fussball/serie-a-atalanta-bergamo-profi-jose-luis-palomino-wegen-dopings-gesperrt-a-1f4c928e-8ab7-4c8f-bedf-19581b3c1369#ref=rss)
-### luis
+* [https://www.spiegel.de/kultur/literatur/janosch-beziehungsratgeber-bei-reclam-ist-die-tigerente-jetzt-hochkultur](https://www.spiegel.de/kultur/literatur/janosch-beziehungsratgeber-bei-reclam-ist-die-tigerente-jetzt-hochkultur-a-0a78108b-358e-4edb-acf8-ca7103334650#ref=rss)
+### hochkultur
 
-* [https://www.spiegel.de/sport/fussball/serie-a-atalanta-bergamo-profi-jose-luis-palomino-wegen-dopings-gesperrt](https://www.spiegel.de/sport/fussball/serie-a-atalanta-bergamo-profi-jose-luis-palomino-wegen-dopings-gesperrt-a-1f4c928e-8ab7-4c8f-bedf-19581b3c1369#ref=rss)
-### palomino
+* [https://www.spiegel.de/kultur/literatur/janosch-beziehungsratgeber-bei-reclam-ist-die-tigerente-jetzt-hochkultur](https://www.spiegel.de/kultur/literatur/janosch-beziehungsratgeber-bei-reclam-ist-die-tigerente-jetzt-hochkultur-a-0a78108b-358e-4edb-acf8-ca7103334650#ref=rss)
+### energie
 
-* [https://www.spiegel.de/sport/fussball/serie-a-atalanta-bergamo-profi-jose-luis-palomino-wegen-dopings-gesperrt](https://www.spiegel.de/sport/fussball/serie-a-atalanta-bergamo-profi-jose-luis-palomino-wegen-dopings-gesperrt-a-1f4c928e-8ab7-4c8f-bedf-19581b3c1369#ref=rss)
-### zuletzt
+* [https://www.spiegel.de/wirtschaft/berlin-schaltet-strahler-an-200-sehenswuerdigkeiten-ab-um-energie-zu-sparen](https://www.spiegel.de/wirtschaft/berlin-schaltet-strahler-an-200-sehenswuerdigkeiten-ab-um-energie-zu-sparen-a-4b1164aa-764a-4193-8810-92cbab8dcbed#ref=rss)
+### sparen
 
-* [https://www.spiegel.de/sport/fussball/serie-a-atalanta-bergamo-profi-jose-luis-palomino-wegen-dopings-gesperrt](https://www.spiegel.de/sport/fussball/serie-a-atalanta-bergamo-profi-jose-luis-palomino-wegen-dopings-gesperrt-a-1f4c928e-8ab7-4c8f-bedf-19581b3c1369#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/berlin-kaum-noch-freie-plaetze-fuer-gefluechtete-notfallplan-soll-in-kraft-treten](https://www.spiegel.de/panorama/gesellschaft/berlin-kaum-noch-freie-plaetze-fuer-gefluechtete-notfallplan-soll-in-kraft-treten-a-1f235c0e-610a-4711-bb20-ef589b0cde71#ref=rss)
-### weniger
+* [https://www.spiegel.de/wirtschaft/berlin-schaltet-strahler-an-200-sehenswuerdigkeiten-ab-um-energie-zu-sparen](https://www.spiegel.de/wirtschaft/berlin-schaltet-strahler-an-200-sehenswuerdigkeiten-ab-um-energie-zu-sparen-a-4b1164aa-764a-4193-8810-92cbab8dcbed#ref=rss)
+### bleiben
 
-* [https://www.spiegel.de/wirtschaft/service/spritpreis-faellt-weiter-super-e10-auf-vorkriegsniveau](https://www.spiegel.de/wirtschaft/service/spritpreis-faellt-weiter-super-e10-auf-vorkriegsniveau-a-ed875e7e-dc36-4908-bac8-6a707dc54c65#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-zahl-der-beschaeftigten-im-sanitaer-und-heizungsbau-schrumpft-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-zahl-der-beschaeftigten-im-sanitaer-und-heizungsbau-schrumpft-deutlich-a-45bdac4b-c3cf-4954-a3e5-0c221ba80a6b#ref=rss)
-### lake
+* [https://www.spiegel.de/wirtschaft/berlin-schaltet-strahler-an-200-sehenswuerdigkeiten-ab-um-energie-zu-sparen](https://www.spiegel.de/wirtschaft/berlin-schaltet-strahler-an-200-sehenswuerdigkeiten-ab-um-energie-zu-sparen-a-4b1164aa-764a-4193-8810-92cbab8dcbed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-stellt-baldiges-konzept-fuer-herbst-in-aussicht](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-stellt-baldiges-konzept-fuer-herbst-in-aussicht-a-24f9f3da-ad6a-408a-afad-b96f881f74cd#ref=rss)
+### krise
 
-* [https://www.spiegel.de/panorama/lake-mead-in-den-usa-nationalparkwaerter-melden-dritten-leichenfund-binnen-drei-monaten](https://www.spiegel.de/panorama/lake-mead-in-den-usa-nationalparkwaerter-melden-dritten-leichenfund-binnen-drei-monaten-a-ea9c2530-7b09-4382-a6d0-c244bf634c32#ref=rss)
-### mead
-
-* [https://www.spiegel.de/panorama/lake-mead-in-den-usa-nationalparkwaerter-melden-dritten-leichenfund-binnen-drei-monaten](https://www.spiegel.de/panorama/lake-mead-in-den-usa-nationalparkwaerter-melden-dritten-leichenfund-binnen-drei-monaten-a-ea9c2530-7b09-4382-a6d0-c244bf634c32#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/lake-mead-in-den-usa-nationalparkwaerter-melden-dritten-leichenfund-binnen-drei-monaten](https://www.spiegel.de/panorama/lake-mead-in-den-usa-nationalparkwaerter-melden-dritten-leichenfund-binnen-drei-monaten-a-ea9c2530-7b09-4382-a6d0-c244bf634c32#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/energiekrise-friedrich-merz-fordert-kauf-neuer-akw-brennstaebe](https://www.spiegel.de/politik/deutschland/energiekrise-friedrich-merz-fordert-kauf-neuer-akw-brennstaebe-a-2663f597-4bcf-49ea-af5f-cbe681d7ff25#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/panorama/lake-mead-in-den-usa-nationalparkwaerter-melden-dritten-leichenfund-binnen-drei-monaten](https://www.spiegel.de/panorama/lake-mead-in-den-usa-nationalparkwaerter-melden-dritten-leichenfund-binnen-drei-monaten-a-ea9c2530-7b09-4382-a6d0-c244bf634c32#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/energiekrise-friedrich-merz-fordert-kauf-neuer-akw-brennstaebe](https://www.spiegel.de/politik/deutschland/energiekrise-friedrich-merz-fordert-kauf-neuer-akw-brennstaebe-a-2663f597-4bcf-49ea-af5f-cbe681d7ff25#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/ausland/afghanistan-lage-der-frauen-im-land-verschlechtert-sich-zunehmend](https://www.spiegel.de/ausland/afghanistan-lage-der-frauen-im-land-verschlechtert-sich-zunehmend-a-38e7886d-9dc4-44cb-8b67-31e574caa728#ref=rss)
-### fluggäste
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet](https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet-a-ef2e589a-300d-4c8d-ab13-ec0ddb862a6f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-streik-so-reagieren-passagiere-auf-dem-frankfurter-flughafen](https://www.spiegel.de/wirtschaft/lufthansa-streik-so-reagieren-passagiere-auf-dem-frankfurter-flughafen-a-25109864-3666-444d-bde5-f29a356f4b1e#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet](https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet-a-ef2e589a-300d-4c8d-ab13-ec0ddb862a6f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/lufthansa-streik-so-reagieren-passagiere-auf-dem-frankfurter-flughafen](https://www.spiegel.de/wirtschaft/lufthansa-streik-so-reagieren-passagiere-auf-dem-frankfurter-flughafen-a-25109864-3666-444d-bde5-f29a356f4b1e#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet](https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet-a-ef2e589a-300d-4c8d-ab13-ec0ddb862a6f#ref=rss)
-* [https://www.spiegel.de/panorama/flughafen-london-heathrow-reisende-geben-vor-rollstuhl-zu-brauchen-um-nicht-anstehen-zu-muessen](https://www.spiegel.de/panorama/flughafen-london-heathrow-reisende-geben-vor-rollstuhl-zu-brauchen-um-nicht-anstehen-zu-muessen-a-b7783936-689b-492d-9663-b81888cd94ef#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet](https://www.spiegel.de/wirtschaft/lufthansa-zahlreiche-fluggaeste-am-terminal-gestrandet-a-ef2e589a-300d-4c8d-ab13-ec0ddb862a6f#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen](https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen-a-8a4319ad-db1d-4785-89e4-7a4d5be30007#ref=rss)
-### reagieren
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-streik-so-reagieren-passagiere-auf-dem-frankfurter-flughafen](https://www.spiegel.de/wirtschaft/lufthansa-streik-so-reagieren-passagiere-auf-dem-frankfurter-flughafen-a-25109864-3666-444d-bde5-f29a356f4b1e#ref=rss)
-### passagiere
-
-* [https://www.spiegel.de/wirtschaft/lufthansa-streik-so-reagieren-passagiere-auf-dem-frankfurter-flughafen](https://www.spiegel.de/wirtschaft/lufthansa-streik-so-reagieren-passagiere-auf-dem-frankfurter-flughafen-a-25109864-3666-444d-bde5-f29a356f4b1e#ref=rss)
-### olympiasiegerin
-
-* [https://www.spiegel.de/sport/kanuslalom-wm-in-augsburg-auftakt-gold-fuer-deutsches-team-um-olympiasiegerin-ricarda-funk](https://www.spiegel.de/sport/kanuslalom-wm-in-augsburg-auftakt-gold-fuer-deutsches-team-um-olympiasiegerin-ricarda-funk-a-439a0f96-0b26-4ff8-b64d-c370ae33b14e#ref=rss)
-### ricarda
-
-* [https://www.spiegel.de/sport/kanuslalom-wm-in-augsburg-auftakt-gold-fuer-deutsches-team-um-olympiasiegerin-ricarda-funk](https://www.spiegel.de/sport/kanuslalom-wm-in-augsburg-auftakt-gold-fuer-deutsches-team-um-olympiasiegerin-ricarda-funk-a-439a0f96-0b26-4ff8-b64d-c370ae33b14e#ref=rss)
-### funk
-
-* [https://www.spiegel.de/sport/kanuslalom-wm-in-augsburg-auftakt-gold-fuer-deutsches-team-um-olympiasiegerin-ricarda-funk](https://www.spiegel.de/sport/kanuslalom-wm-in-augsburg-auftakt-gold-fuer-deutsches-team-um-olympiasiegerin-ricarda-funk-a-439a0f96-0b26-4ff8-b64d-c370ae33b14e#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/kanuslalom-wm-in-augsburg-auftakt-gold-fuer-deutsches-team-um-olympiasiegerin-ricarda-funk](https://www.spiegel.de/sport/kanuslalom-wm-in-augsburg-auftakt-gold-fuer-deutsches-team-um-olympiasiegerin-ricarda-funk-a-439a0f96-0b26-4ff8-b64d-c370ae33b14e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-ueberrascht-mit-weiterem-milliardengewinn](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-ueberrascht-mit-weiterem-milliardengewinn-a-81e9dd10-f5c3-4615-9858-204464d8ea1d#ref=rss)
-### lange
-
-* [https://www.spiegel.de/sport/kanuslalom-wm-in-augsburg-auftakt-gold-fuer-deutsches-team-um-olympiasiegerin-ricarda-funk](https://www.spiegel.de/sport/kanuslalom-wm-in-augsburg-auftakt-gold-fuer-deutsches-team-um-olympiasiegerin-ricarda-funk-a-439a0f96-0b26-4ff8-b64d-c370ae33b14e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben](https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben-a-c560cbd5-87ad-4dcc-91bb-368b8e514612#ref=rss)
-### martina
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben](https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben-a-c560cbd5-87ad-4dcc-91bb-368b8e514612#ref=rss)
-### vosstecklenburg
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben](https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben-a-c560cbd5-87ad-4dcc-91bb-368b8e514612#ref=rss)
-### mittwoch
-
-* [https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben](https://www.spiegel.de/sport/fussball/fussball-em-2022-martina-voss-tecklenburg-will-bis-2027-bundestrainerin-der-frauen-bleiben-a-c560cbd5-87ad-4dcc-91bb-368b8e514612#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-tuerkei-eroeffnet-kontrollzentrum-fuer-ukrainische-getreideausfuhr](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-tuerkei-eroeffnet-kontrollzentrum-fuer-ukrainische-getreideausfuhr-a-65911b16-c177-42b8-8b9a-ba704044cbc9#ref=rss)
-### ashley
-
-* [https://www.spiegel.de/panorama/leute/ashley-judd-traf-sich-fuer-gespraech-mit-frueherem-vergewaltiger](https://www.spiegel.de/panorama/leute/ashley-judd-traf-sich-fuer-gespraech-mit-frueherem-vergewaltiger-a-ece39a80-fe49-4422-a847-7d3678b19134#ref=rss)
-### judd
-
-* [https://www.spiegel.de/panorama/leute/ashley-judd-traf-sich-fuer-gespraech-mit-frueherem-vergewaltiger](https://www.spiegel.de/panorama/leute/ashley-judd-traf-sich-fuer-gespraech-mit-frueherem-vergewaltiger-a-ece39a80-fe49-4422-a847-7d3678b19134#ref=rss)
-### angaben
-
-* [https://www.spiegel.de/panorama/leute/ashley-judd-traf-sich-fuer-gespraech-mit-frueherem-vergewaltiger](https://www.spiegel.de/panorama/leute/ashley-judd-traf-sich-fuer-gespraech-mit-frueherem-vergewaltiger-a-ece39a80-fe49-4422-a847-7d3678b19134#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-tuerkei-eroeffnet-kontrollzentrum-fuer-ukrainische-getreideausfuhr](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-tuerkei-eroeffnet-kontrollzentrum-fuer-ukrainische-getreideausfuhr-a-65911b16-c177-42b8-8b9a-ba704044cbc9#ref=rss)
-### fachkräftemangel
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-zahl-der-beschaeftigten-im-sanitaer-und-heizungsbau-schrumpft-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-zahl-der-beschaeftigten-im-sanitaer-und-heizungsbau-schrumpft-deutlich-a-45bdac4b-c3cf-4954-a3e5-0c221ba80a6b#ref=rss)
-* [https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende](https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende-a-e83a8ed0-bf5a-4135-b66c-22aec2d13566#ref=rss)
-### derzeit
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-zahl-der-beschaeftigten-im-sanitaer-und-heizungsbau-schrumpft-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-zahl-der-beschaeftigten-im-sanitaer-und-heizungsbau-schrumpft-deutlich-a-45bdac4b-c3cf-4954-a3e5-0c221ba80a6b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-krankenhausgesellschaft-fordert-aufhebung-der-impfpflicht-fuer-pflegepersonal](https://www.spiegel.de/wirtschaft/unternehmen/corona-krankenhausgesellschaft-fordert-aufhebung-der-impfpflicht-fuer-pflegepersonal-a-0b52f45e-1a0d-4022-a62b-b1a12bf6f380#ref=rss)
-### überakademisierung
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-zahl-der-beschaeftigten-im-sanitaer-und-heizungsbau-schrumpft-deutlich](https://www.spiegel.de/wirtschaft/unternehmen/fachkraeftemangel-zahl-der-beschaeftigten-im-sanitaer-und-heizungsbau-schrumpft-deutlich-a-45bdac4b-c3cf-4954-a3e5-0c221ba80a6b#ref=rss)
-* [https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende](https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende-a-e83a8ed0-bf5a-4135-b66c-22aec2d13566#ref=rss)
-### inflation
-
-* [https://www.spiegel.de/wirtschaft/rezession-inflation-job-boom-warum-die-us-konjunktur-verruecktspielt](https://www.spiegel.de/wirtschaft/rezession-inflation-job-boom-warum-die-us-konjunktur-verruecktspielt-a-268dddb0-caa5-498a-9ade-c419ed7f2d05#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wirtschaft/rezession-inflation-job-boom-warum-die-us-konjunktur-verruecktspielt](https://www.spiegel.de/wirtschaft/rezession-inflation-job-boom-warum-die-us-konjunktur-verruecktspielt-a-268dddb0-caa5-498a-9ade-c419ed7f2d05#ref=rss)
-* [https://www.spiegel.de/ausland/usa-das-militaer-und-seine-klima-bilanz-5600-liter-sprit-pro-stunde](https://www.spiegel.de/ausland/usa-das-militaer-und-seine-klima-bilanz-5600-liter-sprit-pro-stunde-a-8baef57e-5e78-487f-a236-32b76119f576#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine](https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine-a-700c0786-ec84-4e6c-a1cb-fd553459b4d4#ref=rss)
-### brühl
-
-* [https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine](https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine-a-700c0786-ec84-4e6c-a1cb-fd553459b4d4#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine](https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine-a-700c0786-ec84-4e6c-a1cb-fd553459b4d4#ref=rss)
-### fühlt
-
-* [https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine](https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine-a-700c0786-ec84-4e6c-a1cb-fd553459b4d4#ref=rss)
-### radikaler
-
-* [https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine](https://www.spiegel.de/panorama/leute/daniel-bruehl-ist-nach-spanien-gezogen-auch-wegen-des-krieges-in-der-ukraine-a-700c0786-ec84-4e6c-a1cb-fd553459b4d4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen](https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen-a-8a4319ad-db1d-4785-89e4-7a4d5be30007#ref=rss)
-### bremen
-
-* [https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen](https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen-a-8a4319ad-db1d-4785-89e4-7a4d5be30007#ref=rss)
-### innensenator
-
-* [https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen](https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen-a-8a4319ad-db1d-4785-89e4-7a4d5be30007#ref=rss)
-### ulrich
-
-* [https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen](https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen-a-8a4319ad-db1d-4785-89e4-7a4d5be30007#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ulrich-koerner-folgt-auf-thomas-gottstein-credit-suisse-wechselt-ueberraschend-den-konzernchef](https://www.spiegel.de/wirtschaft/unternehmen/ulrich-koerner-folgt-auf-thomas-gottstein-credit-suisse-wechselt-ueberraschend-den-konzernchef-a-243222e9-07cc-45e8-ab93-037cd8b433b2#ref=rss)
-### mäurer
-
-* [https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen](https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen-a-8a4319ad-db1d-4785-89e4-7a4d5be30007#ref=rss)
-### wettbüros
-
-* [https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen](https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen-a-8a4319ad-db1d-4785-89e4-7a4d5be30007#ref=rss)
-### schließen
-
-* [https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen](https://www.spiegel.de/panorama/justiz/bremen-innensenator-ulrich-maeurer-will-alle-wettbueros-der-stadt-schliessen-a-8a4319ad-db1d-4785-89e4-7a4d5be30007#ref=rss)
-### credit
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ulrich-koerner-folgt-auf-thomas-gottstein-credit-suisse-wechselt-ueberraschend-den-konzernchef](https://www.spiegel.de/wirtschaft/unternehmen/ulrich-koerner-folgt-auf-thomas-gottstein-credit-suisse-wechselt-ueberraschend-den-konzernchef-a-243222e9-07cc-45e8-ab93-037cd8b433b2#ref=rss)
-### suisse
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ulrich-koerner-folgt-auf-thomas-gottstein-credit-suisse-wechselt-ueberraschend-den-konzernchef](https://www.spiegel.de/wirtschaft/unternehmen/ulrich-koerner-folgt-auf-thomas-gottstein-credit-suisse-wechselt-ueberraschend-den-konzernchef-a-243222e9-07cc-45e8-ab93-037cd8b433b2#ref=rss)
-### überraschend
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ulrich-koerner-folgt-auf-thomas-gottstein-credit-suisse-wechselt-ueberraschend-den-konzernchef](https://www.spiegel.de/wirtschaft/unternehmen/ulrich-koerner-folgt-auf-thomas-gottstein-credit-suisse-wechselt-ueberraschend-den-konzernchef-a-243222e9-07cc-45e8-ab93-037cd8b433b2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-ueberrascht-mit-weiterem-milliardengewinn](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-ueberrascht-mit-weiterem-milliardengewinn-a-81e9dd10-f5c3-4615-9858-204464d8ea1d#ref=rss)
-### handwerk
-
-* [https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende](https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende-a-e83a8ed0-bf5a-4135-b66c-22aec2d13566#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende](https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende-a-e83a8ed0-bf5a-4135-b66c-22aec2d13566#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-tuerkei-eroeffnet-kontrollzentrum-fuer-ukrainische-getreideausfuhr](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-tuerkei-eroeffnet-kontrollzentrum-fuer-ukrainische-getreideausfuhr-a-65911b16-c177-42b8-8b9a-ba704044cbc9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/berlin-schaltet-strahler-an-200-sehenswuerdigkeiten-ab-um-energie-zu-sparen](https://www.spiegel.de/wirtschaft/berlin-schaltet-strahler-an-200-sehenswuerdigkeiten-ab-um-energie-zu-sparen-a-4b1164aa-764a-4193-8810-92cbab8dcbed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-lufthansa-streik-benzinpreis-krise-im-kulturbetrieb](https://www.spiegel.de/politik/deutschland/news-des-tages-lufthansa-streik-benzinpreis-krise-im-kulturbetrieb-a-540047a9-6657-4313-9de6-841c95f3c6ef#ref=rss)
 ### sagt
 
-* [https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende](https://www.spiegel.de/start/fachkraeftemangel-im-handwerk-praesident-fordert-bildungswende-a-e83a8ed0-bf5a-4135-b66c-22aec2d13566#ref=rss)
-* [https://www.spiegel.de/ausland/maha-vajiralongkorn-thailands-koenig-wird-70](https://www.spiegel.de/ausland/maha-vajiralongkorn-thailands-koenig-wird-70-a-a04a0cdf-383b-482c-8c49-a2210a95d229#ref=rss)
-### nord
+* [https://www.spiegel.de/wirtschaft/berlin-schaltet-strahler-an-200-sehenswuerdigkeiten-ab-um-energie-zu-sparen](https://www.spiegel.de/wirtschaft/berlin-schaltet-strahler-an-200-sehenswuerdigkeiten-ab-um-energie-zu-sparen-a-4b1164aa-764a-4193-8810-92cbab8dcbed#ref=rss)
+* [https://www.spiegel.de/sport/basketball/brittney-griner-in-russland-inhaftierte-us-basketballerin-sagt-vor-gericht-aus](https://www.spiegel.de/sport/basketball/brittney-griner-in-russland-inhaftierte-us-basketballerin-sagt-vor-gericht-aus-a-d8192eb6-bd0c-49e2-b93d-badecd1defe1#ref=rss)
+### erst
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/gazprom-drosselt-lieferungen-durch-nord-stream-1-weiter-nur-noch-20-prozent-der-kapazitaet](https://www.spiegel.de/wirtschaft/unternehmen/gazprom-drosselt-lieferungen-durch-nord-stream-1-weiter-nur-noch-20-prozent-der-kapazitaet-a-470b1991-21a5-4000-9d28-6a2277417f31#ref=rss)
-### stream
+* [https://www.spiegel.de/wirtschaft/berlin-schaltet-strahler-an-200-sehenswuerdigkeiten-ab-um-energie-zu-sparen](https://www.spiegel.de/wirtschaft/berlin-schaltet-strahler-an-200-sehenswuerdigkeiten-ab-um-energie-zu-sparen-a-4b1164aa-764a-4193-8810-92cbab8dcbed#ref=rss)
+* [https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht](https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht-a-663343ce-2a75-4cd9-a467-158db76363c0#ref=rss)
+### shakira
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/gazprom-drosselt-lieferungen-durch-nord-stream-1-weiter-nur-noch-20-prozent-der-kapazitaet](https://www.spiegel.de/wirtschaft/unternehmen/gazprom-drosselt-lieferungen-durch-nord-stream-1-weiter-nur-noch-20-prozent-der-kapazitaet-a-470b1991-21a5-4000-9d28-6a2277417f31#ref=rss)
-### 1
+* [https://www.spiegel.de/panorama/justiz/shakira-lehnt-aussergerichtliche-einigung-mit-spanischem-fiskus-ab](https://www.spiegel.de/panorama/justiz/shakira-lehnt-aussergerichtliche-einigung-mit-spanischem-fiskus-ab-a-1b271925-7e68-4ac0-bb59-c441adbe18c5#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/gazprom-drosselt-lieferungen-durch-nord-stream-1-weiter-nur-noch-20-prozent-der-kapazitaet](https://www.spiegel.de/wirtschaft/unternehmen/gazprom-drosselt-lieferungen-durch-nord-stream-1-weiter-nur-noch-20-prozent-der-kapazitaet-a-470b1991-21a5-4000-9d28-6a2277417f31#ref=rss)
-### maha
+* [https://www.spiegel.de/panorama/justiz/shakira-lehnt-aussergerichtliche-einigung-mit-spanischem-fiskus-ab](https://www.spiegel.de/panorama/justiz/shakira-lehnt-aussergerichtliche-einigung-mit-spanischem-fiskus-ab-a-1b271925-7e68-4ac0-bb59-c441adbe18c5#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-kokettiert-in-rede-in-washington-dc-mit-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/donald-trump-kokettiert-in-rede-in-washington-dc-mit-praesidentschafts-kandidatur-a-ffc32faf-8cfc-4fd8-88f3-dfff104f7074#ref=rss)
+### flammen
 
-* [https://www.spiegel.de/ausland/maha-vajiralongkorn-thailands-koenig-wird-70](https://www.spiegel.de/ausland/maha-vajiralongkorn-thailands-koenig-wird-70-a-a04a0cdf-383b-482c-8c49-a2210a95d229#ref=rss)
-### vajiralongkorn
+* [https://www.spiegel.de/panorama/waldbraende-in-sachsen-der-kampf-gegen-die-unbesiegbaren-flammen](https://www.spiegel.de/panorama/waldbraende-in-sachsen-der-kampf-gegen-die-unbesiegbaren-flammen-a-499609b2-0d4c-4e94-93f8-ad572d0d40a8#ref=rss)
+### uefa
 
-* [https://www.spiegel.de/ausland/maha-vajiralongkorn-thailands-koenig-wird-70](https://www.spiegel.de/ausland/maha-vajiralongkorn-thailands-koenig-wird-70-a-a04a0cdf-383b-482c-8c49-a2210a95d229#ref=rss)
-### könig
+* [https://www.spiegel.de/sport/fussball/uefa-erlaubt-wieder-stehplaetze-im-europapokal](https://www.spiegel.de/sport/fussball/uefa-erlaubt-wieder-stehplaetze-im-europapokal-a-6450b4c7-bb19-4467-b3dd-ab2cb011dcf2#ref=rss)
+### stehplätze
 
-* [https://www.spiegel.de/ausland/maha-vajiralongkorn-thailands-koenig-wird-70](https://www.spiegel.de/ausland/maha-vajiralongkorn-thailands-koenig-wird-70-a-a04a0cdf-383b-482c-8c49-a2210a95d229#ref=rss)
-### bank
+* [https://www.spiegel.de/sport/fussball/uefa-erlaubt-wieder-stehplaetze-im-europapokal](https://www.spiegel.de/sport/fussball/uefa-erlaubt-wieder-stehplaetze-im-europapokal-a-6450b4c7-bb19-4467-b3dd-ab2cb011dcf2#ref=rss)
+### europapokal
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-ueberrascht-mit-weiterem-milliardengewinn](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-ueberrascht-mit-weiterem-milliardengewinn-a-81e9dd10-f5c3-4615-9858-204464d8ea1d#ref=rss)
-### milliardengewinn
+* [https://www.spiegel.de/sport/fussball/uefa-erlaubt-wieder-stehplaetze-im-europapokal](https://www.spiegel.de/sport/fussball/uefa-erlaubt-wieder-stehplaetze-im-europapokal-a-6450b4c7-bb19-4467-b3dd-ab2cb011dcf2#ref=rss)
+### bringt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-ueberrascht-mit-weiterem-milliardengewinn](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-ueberrascht-mit-weiterem-milliardengewinn-a-81e9dd10-f5c3-4615-9858-204464d8ea1d#ref=rss)
-### ukrainische
+* [https://www.spiegel.de/sport/fussball/uefa-erlaubt-wieder-stehplaetze-im-europapokal](https://www.spiegel.de/sport/fussball/uefa-erlaubt-wieder-stehplaetze-im-europapokal-a-6450b4c7-bb19-4467-b3dd-ab2cb011dcf2#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-kokettiert-in-rede-in-washington-dc-mit-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/donald-trump-kokettiert-in-rede-in-washington-dc-mit-praesidentschafts-kandidatur-a-ffc32faf-8cfc-4fd8-88f3-dfff104f7074#ref=rss)
+### energiekrise
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-tuerkei-eroeffnet-kontrollzentrum-fuer-ukrainische-getreideausfuhr](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-tuerkei-eroeffnet-kontrollzentrum-fuer-ukrainische-getreideausfuhr-a-65911b16-c177-42b8-8b9a-ba704044cbc9#ref=rss)
-### impfpflicht
+* [https://www.spiegel.de/wirtschaft/profiteur-der-energiekrise-energieriese-rwe-rechnet-mit-hohem-milliarden-gewinn](https://www.spiegel.de/wirtschaft/profiteur-der-energiekrise-energieriese-rwe-rechnet-mit-hohem-milliarden-gewinn-a-b3a43e8b-5f55-4d83-bc1b-1619af258169#ref=rss)
+### rwe
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-krankenhausgesellschaft-fordert-aufhebung-der-impfpflicht-fuer-pflegepersonal](https://www.spiegel.de/wirtschaft/unternehmen/corona-krankenhausgesellschaft-fordert-aufhebung-der-impfpflicht-fuer-pflegepersonal-a-0b52f45e-1a0d-4022-a62b-b1a12bf6f380#ref=rss)
-### heathrow
+* [https://www.spiegel.de/wirtschaft/profiteur-der-energiekrise-energieriese-rwe-rechnet-mit-hohem-milliarden-gewinn](https://www.spiegel.de/wirtschaft/profiteur-der-energiekrise-energieriese-rwe-rechnet-mit-hohem-milliarden-gewinn-a-b3a43e8b-5f55-4d83-bc1b-1619af258169#ref=rss)
+### brittney
 
-* [https://www.spiegel.de/panorama/flughafen-london-heathrow-reisende-geben-vor-rollstuhl-zu-brauchen-um-nicht-anstehen-zu-muessen](https://www.spiegel.de/panorama/flughafen-london-heathrow-reisende-geben-vor-rollstuhl-zu-brauchen-um-nicht-anstehen-zu-muessen-a-b7783936-689b-492d-9663-b81888cd94ef#ref=rss)
-### reisende
+* [https://www.spiegel.de/sport/basketball/brittney-griner-in-russland-inhaftierte-us-basketballerin-sagt-vor-gericht-aus](https://www.spiegel.de/sport/basketball/brittney-griner-in-russland-inhaftierte-us-basketballerin-sagt-vor-gericht-aus-a-d8192eb6-bd0c-49e2-b93d-badecd1defe1#ref=rss)
+### griner
 
-* [https://www.spiegel.de/panorama/flughafen-london-heathrow-reisende-geben-vor-rollstuhl-zu-brauchen-um-nicht-anstehen-zu-muessen](https://www.spiegel.de/panorama/flughafen-london-heathrow-reisende-geben-vor-rollstuhl-zu-brauchen-um-nicht-anstehen-zu-muessen-a-b7783936-689b-492d-9663-b81888cd94ef#ref=rss)
-### friedrich
+* [https://www.spiegel.de/sport/basketball/brittney-griner-in-russland-inhaftierte-us-basketballerin-sagt-vor-gericht-aus](https://www.spiegel.de/sport/basketball/brittney-griner-in-russland-inhaftierte-us-basketballerin-sagt-vor-gericht-aus-a-d8192eb6-bd0c-49e2-b93d-badecd1defe1#ref=rss)
+### usbasketballerin
 
-* [https://www.spiegel.de/politik/deutschland/energiekrise-friedrich-merz-fordert-kauf-neuer-akw-brennstaebe](https://www.spiegel.de/politik/deutschland/energiekrise-friedrich-merz-fordert-kauf-neuer-akw-brennstaebe-a-2663f597-4bcf-49ea-af5f-cbe681d7ff25#ref=rss)
-### merz
+* [https://www.spiegel.de/sport/basketball/brittney-griner-in-russland-inhaftierte-us-basketballerin-sagt-vor-gericht-aus](https://www.spiegel.de/sport/basketball/brittney-griner-in-russland-inhaftierte-us-basketballerin-sagt-vor-gericht-aus-a-d8192eb6-bd0c-49e2-b93d-badecd1defe1#ref=rss)
+### dazu
 
-* [https://www.spiegel.de/politik/deutschland/energiekrise-friedrich-merz-fordert-kauf-neuer-akw-brennstaebe](https://www.spiegel.de/politik/deutschland/energiekrise-friedrich-merz-fordert-kauf-neuer-akw-brennstaebe-a-2663f597-4bcf-49ea-af5f-cbe681d7ff25#ref=rss)
+* [https://www.spiegel.de/sport/basketball/brittney-griner-in-russland-inhaftierte-us-basketballerin-sagt-vor-gericht-aus](https://www.spiegel.de/sport/basketball/brittney-griner-in-russland-inhaftierte-us-basketballerin-sagt-vor-gericht-aus-a-d8192eb6-bd0c-49e2-b93d-badecd1defe1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-christian-lindner-will-steuersenkung-und-kindergelderhoehung-vorschlagen](https://www.spiegel.de/wirtschaft/inflation-christian-lindner-will-steuersenkung-und-kindergelderhoehung-vorschlagen-a-e5e7a5bb-2355-47e3-b8a6-ba409f502fb2#ref=rss)
+### tour
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht](https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht-a-663343ce-2a75-4cd9-a467-158db76363c0#ref=rss)
+### de
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht](https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht-a-663343ce-2a75-4cd9-a467-158db76363c0#ref=rss)
+### france
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht](https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht-a-663343ce-2a75-4cd9-a467-158db76363c0#ref=rss)
+### femmes
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht](https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht-a-663343ce-2a75-4cd9-a467-158db76363c0#ref=rss)
+### mavi
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht](https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht-a-663343ce-2a75-4cd9-a467-158db76363c0#ref=rss)
+### garcía
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht](https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht-a-663343ce-2a75-4cd9-a467-158db76363c0#ref=rss)
+### teamfahrzeug
+
+* [https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht](https://www.spiegel.de/sport/tour-de-france-femmes-topfahrerin-mavi-garcia-wird-von-eigenem-teamfahrzeug-zum-sturz-gebracht-a-663343ce-2a75-4cd9-a467-158db76363c0#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/sport/fussball/dazn-sky-amazon-prime-wie-sie-in-dieser-saison-kein-fussball-spiel-verpassen](https://www.spiegel.de/sport/fussball/dazn-sky-amazon-prime-wie-sie-in-dieser-saison-kein-fussball-spiel-verpassen-a-2230ab01-c697-416e-ac87-dacd5583cac7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/spanien-ryanair-mitarbeitende-verlaengern-streik-um-weitere-fuenf-monate](https://www.spiegel.de/wirtschaft/spanien-ryanair-mitarbeitende-verlaengern-streik-um-weitere-fuenf-monate-a-13c3ddad-02ba-4ba7-a323-d7430997da08#ref=rss)
+### entdeckt
+
+* [https://www.spiegel.de/kultur/documenta-erneut-antisemitische-bilder-aufgetaucht](https://www.spiegel.de/kultur/documenta-erneut-antisemitische-bilder-aufgetaucht-a-05fa3528-187d-4f4d-ba71-ff27b414f52b#ref=rss)
+* [https://www.spiegel.de/panorama/angola-minenarbeiter-finden-mutmasslich-groessten-rosafarbenen-rohdiamanten-seit-300-jahren](https://www.spiegel.de/panorama/angola-minenarbeiter-finden-mutmasslich-groessten-rosafarbenen-rohdiamanten-seit-300-jahren-a-38bd25eb-86ac-499d-b0e8-b0301732a027#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/wirtschaft/spanien-ryanair-mitarbeitende-verlaengern-streik-um-weitere-fuenf-monate](https://www.spiegel.de/wirtschaft/spanien-ryanair-mitarbeitende-verlaengern-streik-um-weitere-fuenf-monate-a-13c3ddad-02ba-4ba7-a323-d7430997da08#ref=rss)
+### pakistan
+
+* [https://www.spiegel.de/panorama/pakistan-50-000-familien-muessen-in-provinz-belutschistan-haeuser-verlassen](https://www.spiegel.de/panorama/pakistan-50-000-familien-muessen-in-provinz-belutschistan-haeuser-verlassen-a-dd861197-76cd-4c68-ab0d-4e0c0d87d6fb#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/pakistan-50-000-familien-muessen-in-provinz-belutschistan-haeuser-verlassen](https://www.spiegel.de/panorama/pakistan-50-000-familien-muessen-in-provinz-belutschistan-haeuser-verlassen-a-dd861197-76cd-4c68-ab0d-4e0c0d87d6fb#ref=rss)
+* [https://www.spiegel.de/ausland/hungerkrise-in-afghanistan-wo-kinder-vor-lauter-hunger-nicht-mal-mehr-lachen-koennen](https://www.spiegel.de/ausland/hungerkrise-in-afghanistan-wo-kinder-vor-lauter-hunger-nicht-mal-mehr-lachen-koennen-a-5f905c92-a084-4332-8031-3da14db02a03#ref=rss)
+### viele
+
+* [https://www.spiegel.de/panorama/pakistan-50-000-familien-muessen-in-provinz-belutschistan-haeuser-verlassen](https://www.spiegel.de/panorama/pakistan-50-000-familien-muessen-in-provinz-belutschistan-haeuser-verlassen-a-dd861197-76cd-4c68-ab0d-4e0c0d87d6fb#ref=rss)
+* [https://www.spiegel.de/panorama/vierwaauto-stuerzt-in-die-tiefe-und-versinkt-in-schweizer-see-bergung-dauert-an](https://www.spiegel.de/panorama/vierwaauto-stuerzt-in-die-tiefe-und-versinkt-in-schweizer-see-bergung-dauert-an-a-54796d84-969b-4a66-9401-b074504ed2fc#ref=rss)
+### wingsurfen
+
+* [https://www.spiegel.de/reise/deutschland/wingsurfen-in-niendorf-selbstversuch-auf-der-ostsee](https://www.spiegel.de/reise/deutschland/wingsurfen-in-niendorf-selbstversuch-auf-der-ostsee-a-e209f887-e452-45cd-8b1f-0bcc76f936fc#ref=rss)
+### ostsee
+
+* [https://www.spiegel.de/reise/deutschland/wingsurfen-in-niendorf-selbstversuch-auf-der-ostsee](https://www.spiegel.de/reise/deutschland/wingsurfen-in-niendorf-selbstversuch-auf-der-ostsee-a-e209f887-e452-45cd-8b1f-0bcc76f936fc#ref=rss)
+### aufs
+
+* [https://www.spiegel.de/reise/deutschland/wingsurfen-in-niendorf-selbstversuch-auf-der-ostsee](https://www.spiegel.de/reise/deutschland/wingsurfen-in-niendorf-selbstversuch-auf-der-ostsee-a-e209f887-e452-45cd-8b1f-0bcc76f936fc#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/reise/deutschland/wingsurfen-in-niendorf-selbstversuch-auf-der-ostsee](https://www.spiegel.de/reise/deutschland/wingsurfen-in-niendorf-selbstversuch-auf-der-ostsee-a-e209f887-e452-45cd-8b1f-0bcc76f936fc#ref=rss)
+* [https://www.spiegel.de/panorama/vierwaauto-stuerzt-in-die-tiefe-und-versinkt-in-schweizer-see-bergung-dauert-an](https://www.spiegel.de/panorama/vierwaauto-stuerzt-in-die-tiefe-und-versinkt-in-schweizer-see-bergung-dauert-an-a-54796d84-969b-4a66-9401-b074504ed2fc#ref=rss)
+### affenpocken
+
+* [https://www.spiegel.de/ausland/affenpocken-brandbrief-der-gesundheitskommissarin-kommission-sieht-eu-als-epizentrum](https://www.spiegel.de/ausland/affenpocken-brandbrief-der-gesundheitskommissarin-kommission-sieht-eu-als-epizentrum-a-1e87a859-e387-4627-ae0d-c69cda8e26dd#ref=rss)
+### epizentrum
+
+* [https://www.spiegel.de/ausland/affenpocken-brandbrief-der-gesundheitskommissarin-kommission-sieht-eu-als-epizentrum](https://www.spiegel.de/ausland/affenpocken-brandbrief-der-gesundheitskommissarin-kommission-sieht-eu-als-epizentrum-a-1e87a859-e387-4627-ae0d-c69cda8e26dd#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/usa-joe-biden-negativ-auf-corona-getestet](https://www.spiegel.de/ausland/usa-joe-biden-negativ-auf-corona-getestet-a-4398018b-911a-4241-b953-d8f3e527654e#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/usa-joe-biden-negativ-auf-corona-getestet](https://www.spiegel.de/ausland/usa-joe-biden-negativ-auf-corona-getestet-a-4398018b-911a-4241-b953-d8f3e527654e#ref=rss)
+### corona
+
+* [https://www.spiegel.de/ausland/usa-joe-biden-negativ-auf-corona-getestet](https://www.spiegel.de/ausland/usa-joe-biden-negativ-auf-corona-getestet-a-4398018b-911a-4241-b953-d8f3e527654e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-stellt-baldiges-konzept-fuer-herbst-in-aussicht](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-stellt-baldiges-konzept-fuer-herbst-in-aussicht-a-24f9f3da-ad6a-408a-afad-b96f881f74cd#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/ausland/usa-joe-biden-negativ-auf-corona-getestet](https://www.spiegel.de/ausland/usa-joe-biden-negativ-auf-corona-getestet-a-4398018b-911a-4241-b953-d8f3e527654e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-christian-lindner-will-steuersenkung-und-kindergelderhoehung-vorschlagen](https://www.spiegel.de/wirtschaft/inflation-christian-lindner-will-steuersenkung-und-kindergelderhoehung-vorschlagen-a-e5e7a5bb-2355-47e3-b8a6-ba409f502fb2#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/usa-joe-biden-negativ-auf-corona-getestet](https://www.spiegel.de/ausland/usa-joe-biden-negativ-auf-corona-getestet-a-4398018b-911a-4241-b953-d8f3e527654e#ref=rss)
+* [https://www.spiegel.de/ausland/hungerkrise-in-afghanistan-wo-kinder-vor-lauter-hunger-nicht-mal-mehr-lachen-koennen](https://www.spiegel.de/ausland/hungerkrise-in-afghanistan-wo-kinder-vor-lauter-hunger-nicht-mal-mehr-lachen-koennen-a-5f905c92-a084-4332-8031-3da14db02a03#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-kokettiert-in-rede-in-washington-dc-mit-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/donald-trump-kokettiert-in-rede-in-washington-dc-mit-praesidentschafts-kandidatur-a-ffc32faf-8cfc-4fd8-88f3-dfff104f7074#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-kokettiert-in-rede-in-washington-dc-mit-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/donald-trump-kokettiert-in-rede-in-washington-dc-mit-praesidentschafts-kandidatur-a-ffc32faf-8cfc-4fd8-88f3-dfff104f7074#ref=rss)
+### rede
+
+* [https://www.spiegel.de/ausland/donald-trump-kokettiert-in-rede-in-washington-dc-mit-praesidentschafts-kandidatur](https://www.spiegel.de/ausland/donald-trump-kokettiert-in-rede-in-washington-dc-mit-praesidentschafts-kandidatur-a-ffc32faf-8cfc-4fd8-88f3-dfff104f7074#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/kabinett-beschliesst-klimaschutz-ausgaben-in-milliardenhoehe](https://www.spiegel.de/wirtschaft/kabinett-beschliesst-klimaschutz-ausgaben-in-milliardenhoehe-a-6bb04071-e3a9-43f5-b2e4-e19cc179e281#ref=rss)
+* [https://www.spiegel.de/ausland/hungerkrise-in-afghanistan-wo-kinder-vor-lauter-hunger-nicht-mal-mehr-lachen-koennen](https://www.spiegel.de/ausland/hungerkrise-in-afghanistan-wo-kinder-vor-lauter-hunger-nicht-mal-mehr-lachen-koennen-a-5f905c92-a084-4332-8031-3da14db02a03#ref=rss)
+### vierwaldstättersee
+
+* [https://www.spiegel.de/panorama/vierwaauto-stuerzt-in-die-tiefe-und-versinkt-in-schweizer-see-bergung-dauert-an](https://www.spiegel.de/panorama/vierwaauto-stuerzt-in-die-tiefe-und-versinkt-in-schweizer-see-bergung-dauert-an-a-54796d84-969b-4a66-9401-b074504ed2fc#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/vierwaauto-stuerzt-in-die-tiefe-und-versinkt-in-schweizer-see-bergung-dauert-an](https://www.spiegel.de/panorama/vierwaauto-stuerzt-in-die-tiefe-und-versinkt-in-schweizer-see-bergung-dauert-an-a-54796d84-969b-4a66-9401-b074504ed2fc#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/wirtschaft/inflation-christian-lindner-will-steuersenkung-und-kindergelderhoehung-vorschlagen](https://www.spiegel.de/wirtschaft/inflation-christian-lindner-will-steuersenkung-und-kindergelderhoehung-vorschlagen-a-e5e7a5bb-2355-47e3-b8a6-ba409f502fb2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/grossbritannien-mcdonald-s-erhoeht-preise-fuer-cheeseburger-um-20-prozent](https://www.spiegel.de/wirtschaft/grossbritannien-mcdonald-s-erhoeht-preise-fuer-cheeseburger-um-20-prozent-a-00d46a46-52c2-43ed-9b3d-9f204279138a#ref=rss)
+### christian
+
+* [https://www.spiegel.de/wirtschaft/inflation-christian-lindner-will-steuersenkung-und-kindergelderhoehung-vorschlagen](https://www.spiegel.de/wirtschaft/inflation-christian-lindner-will-steuersenkung-und-kindergelderhoehung-vorschlagen-a-e5e7a5bb-2355-47e3-b8a6-ba409f502fb2#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/wirtschaft/inflation-christian-lindner-will-steuersenkung-und-kindergelderhoehung-vorschlagen](https://www.spiegel.de/wirtschaft/inflation-christian-lindner-will-steuersenkung-und-kindergelderhoehung-vorschlagen-a-e5e7a5bb-2355-47e3-b8a6-ba409f502fb2#ref=rss)
+### preise
+
+* [https://www.spiegel.de/wirtschaft/inflation-christian-lindner-will-steuersenkung-und-kindergelderhoehung-vorschlagen](https://www.spiegel.de/wirtschaft/inflation-christian-lindner-will-steuersenkung-und-kindergelderhoehung-vorschlagen-a-e5e7a5bb-2355-47e3-b8a6-ba409f502fb2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/grossbritannien-mcdonald-s-erhoeht-preise-fuer-cheeseburger-um-20-prozent](https://www.spiegel.de/wirtschaft/grossbritannien-mcdonald-s-erhoeht-preise-fuer-cheeseburger-um-20-prozent-a-00d46a46-52c2-43ed-9b3d-9f204279138a#ref=rss)
+### minenarbeiter
+
+* [https://www.spiegel.de/panorama/angola-minenarbeiter-finden-mutmasslich-groessten-rosafarbenen-rohdiamanten-seit-300-jahren](https://www.spiegel.de/panorama/angola-minenarbeiter-finden-mutmasslich-groessten-rosafarbenen-rohdiamanten-seit-300-jahren-a-38bd25eb-86ac-499d-b0e8-b0301732a027#ref=rss)
+### größten
+
+* [https://www.spiegel.de/panorama/angola-minenarbeiter-finden-mutmasslich-groessten-rosafarbenen-rohdiamanten-seit-300-jahren](https://www.spiegel.de/panorama/angola-minenarbeiter-finden-mutmasslich-groessten-rosafarbenen-rohdiamanten-seit-300-jahren-a-38bd25eb-86ac-499d-b0e8-b0301732a027#ref=rss)
+### rosafarbenen
+
+* [https://www.spiegel.de/panorama/angola-minenarbeiter-finden-mutmasslich-groessten-rosafarbenen-rohdiamanten-seit-300-jahren](https://www.spiegel.de/panorama/angola-minenarbeiter-finden-mutmasslich-groessten-rosafarbenen-rohdiamanten-seit-300-jahren-a-38bd25eb-86ac-499d-b0e8-b0301732a027#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/angola-minenarbeiter-finden-mutmasslich-groessten-rosafarbenen-rohdiamanten-seit-300-jahren](https://www.spiegel.de/panorama/angola-minenarbeiter-finden-mutmasslich-groessten-rosafarbenen-rohdiamanten-seit-300-jahren-a-38bd25eb-86ac-499d-b0e8-b0301732a027#ref=rss)
+### karl
+
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-stellt-baldiges-konzept-fuer-herbst-in-aussicht](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-stellt-baldiges-konzept-fuer-herbst-in-aussicht-a-24f9f3da-ad6a-408a-afad-b96f881f74cd#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-stellt-baldiges-konzept-fuer-herbst-in-aussicht](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-stellt-baldiges-konzept-fuer-herbst-in-aussicht-a-24f9f3da-ad6a-408a-afad-b96f881f74cd#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/ausland/hungerkrise-in-afghanistan-wo-kinder-vor-lauter-hunger-nicht-mal-mehr-lachen-koennen](https://www.spiegel.de/ausland/hungerkrise-in-afghanistan-wo-kinder-vor-lauter-hunger-nicht-mal-mehr-lachen-koennen-a-5f905c92-a084-4332-8031-3da14db02a03#ref=rss)
+### bern
+
+* [https://www.spiegel.de/kultur/musik/schweiz-bern-konzertabbruch-wegen-dreadlocks-und-reggae](https://www.spiegel.de/kultur/musik/schweiz-bern-konzertabbruch-wegen-dreadlocks-und-reggae-a-fd567ca9-6f21-4d06-93c1-5eb14c6cdacb#ref=rss)
+### dreadlocks
+
+* [https://www.spiegel.de/kultur/musik/schweiz-bern-konzertabbruch-wegen-dreadlocks-und-reggae](https://www.spiegel.de/kultur/musik/schweiz-bern-konzertabbruch-wegen-dreadlocks-und-reggae-a-fd567ca9-6f21-4d06-93c1-5eb14c6cdacb#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/wirtschaft/grossbritannien-mcdonald-s-erhoeht-preise-fuer-cheeseburger-um-20-prozent](https://www.spiegel.de/wirtschaft/grossbritannien-mcdonald-s-erhoeht-preise-fuer-cheeseburger-um-20-prozent-a-00d46a46-52c2-43ed-9b3d-9f204279138a#ref=rss)
+### erbil
+
+* [https://www.spiegel.de/ausland/irak-unbekannte-beschiessen-tuerkisches-konsulat-in-erbil](https://www.spiegel.de/ausland/irak-unbekannte-beschiessen-tuerkisches-konsulat-in-erbil-a-d4951c77-9a96-4102-a5d3-f9dd78685334#ref=rss)
 
