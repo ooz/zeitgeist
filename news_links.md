@@ -4,242 +4,275 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### usa
 
-* [https://www.spiegel.de/panorama/vereinigte-arabische-emirate-mindestens-sieben-gastarbeiter-sterben-wegen-starker-regenfaelle-in-den-emiraten](https://www.spiegel.de/panorama/vereinigte-arabische-emirate-mindestens-sieben-gastarbeiter-sterben-wegen-starker-regenfaelle-in-den-emiraten-a-077bee5a-f0f4-4522-a455-297afe9c8f38#ref=rss)
-* [https://www.spiegel.de/panorama/saechsische-schweiz-erst-kam-das-feuer-jetzt-kommen-die-stornierungen-der-touristen](https://www.spiegel.de/panorama/saechsische-schweiz-erst-kam-das-feuer-jetzt-kommen-die-stornierungen-der-touristen-a-36d42e4f-bf1b-4709-ab1c-5a9cc6efe2ba#ref=rss)
-* [https://www.spiegel.de/panorama/kentucky-zahl-der-flutopfer-steigt-auf-16-gouverneur-rechnet-mit-mehr-toten](https://www.spiegel.de/panorama/kentucky-zahl-der-flutopfer-steigt-auf-16-gouverneur-rechnet-mit-mehr-toten-a-1127d7ce-2e62-49a6-b264-27bdb0acd54d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitsmarkt-andrea-nahles-afghanistan-kaffeekonsum](https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitsmarkt-andrea-nahles-afghanistan-kaffeekonsum-a-e0b7e33b-1581-414b-96c7-182bf80f8b8e#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/corona-jeder-dritte-hat-seit-pandemiebeginn-zugenommen](https://www.spiegel.de/gesundheit/ernaehrung/corona-jeder-dritte-hat-seit-pandemiebeginn-zugenommen-a-da41b34e-f0ee-4aac-b9eb-da6970c75025#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/shakira-spanische-staatsanwaltschaft-fordert-mehr-als-acht-jahre-haft-wegen-steuerbetrugs](https://www.spiegel.de/panorama/justiz/shakira-spanische-staatsanwaltschaft-fordert-mehr-als-acht-jahre-haft-wegen-steuerbetrugs-a-239a4e1b-048b-4b25-a48c-603bb9171a43#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/meta-instagram-laesst-neues-update-wieder-auslaufen](https://www.spiegel.de/netzwelt/apps/meta-instagram-laesst-neues-update-wieder-auslaufen-a-ddb407a7-99d0-4a6e-a4db-da523e1ba550#ref=rss)
-### polizei
+* [https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung](https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung-a-046bc621-f9e0-4cfa-bf8f-ae2aecfc0781#ref=rss)
+* [https://www.spiegel.de/ausland/waffengesetze-in-den-usa-repraesentantenhaus-stimmt-fuer-verbot-halbautomatischer-waffen](https://www.spiegel.de/ausland/waffengesetze-in-den-usa-repraesentantenhaus-stimmt-fuer-verbot-halbautomatischer-waffen-a-a69cd9cc-5ab1-42a9-9a8f-46b8bc8b4112#ref=rss)
+* [https://www.spiegel.de/ausland/russland-usa-russischer-staatsbuerger-soll-us-wahlen-beeinflusst-haben](https://www.spiegel.de/ausland/russland-usa-russischer-staatsbuerger-soll-us-wahlen-beeinflusst-haben-a-4b654e29-291e-44a1-91c8-3a283fe5a2ce#ref=rss)
+### schwimmen
 
-* [https://www.spiegel.de/panorama/justiz/boston-in-grossbritannien-neunjaehrige-offenbar-erstochen-polizei-nimmt-zwei-verdaechtige-fest](https://www.spiegel.de/panorama/justiz/boston-in-grossbritannien-neunjaehrige-offenbar-erstochen-polizei-nimmt-zwei-verdaechtige-fest-a-39aa676b-dbd3-4e41-a833-1ad030288886#ref=rss)
-* [https://www.spiegel.de/panorama/aerztin-aus-oberoesterreich-tot-aufgefunden](https://www.spiegel.de/panorama/aerztin-aus-oberoesterreich-tot-aufgefunden-a-21a05493-8034-4b5c-acf6-966f1a61d685#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dohna-bei-dresden-rottweiler-attackiert-helfer-und-wird-von-polizei-erschossen](https://www.spiegel.de/panorama/justiz/dohna-bei-dresden-rottweiler-attackiert-helfer-und-wird-von-polizei-erschossen-a-7501b13e-c9b3-43d6-a86d-edb6fde705bd#ref=rss)
-### kritik
+* [https://www.spiegel.de/wissenschaft/fressend-verhungern](https://www.spiegel.de/wissenschaft/fressend-verhungern-a-e5b84cd2-1367-41d5-bfdc-f4e943ff9c7c#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/schwimmen-warum-sich-auch-im-wasser-die-unterschiede-zwischen-deutschen-und-syrern-zeigen](https://www.spiegel.de/panorama/gesellschaft/schwimmen-warum-sich-auch-im-wasser-die-unterschiede-zwischen-deutschen-und-syrern-zeigen-a-3cb5402f-e36c-4350-a1be-9b2c8c8af897#ref=rss)
+### 1860
 
-* [https://www.spiegel.de/panorama/faeroeer-inseln-rund-100-delfine-bei-jagd-getoetet](https://www.spiegel.de/panorama/faeroeer-inseln-rund-100-delfine-bei-jagd-getoetet-a-605f8da2-29de-4d5e-b890-5511f4a7bb0e#ref=rss)
-* [https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin](https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin-a-22cb131b-45bb-4eac-a257-0ec02220abc4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/norwegen-entschaerft-kennzeichnung-von-retuschierten-bildern](https://www.spiegel.de/wirtschaft/norwegen-entschaerft-kennzeichnung-von-retuschierten-bildern-a-e0ac9749-9f55-411b-a6ab-770faaf3637d#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/meta-instagram-laesst-neues-update-wieder-auslaufen](https://www.spiegel.de/netzwelt/apps/meta-instagram-laesst-neues-update-wieder-auslaufen-a-ddb407a7-99d0-4a6e-a4db-da523e1ba550#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/faeroeer-inseln-rund-100-delfine-bei-jagd-getoetet](https://www.spiegel.de/panorama/faeroeer-inseln-rund-100-delfine-bei-jagd-getoetet-a-605f8da2-29de-4d5e-b890-5511f4a7bb0e#ref=rss)
-* [https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin](https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin-a-22cb131b-45bb-4eac-a257-0ec02220abc4#ref=rss)
-* [https://www.spiegel.de/kultur/musik/beyonce-und-ihr-neues-album-renaissance-ein-bass-der-sich-um-die-gebaermutter-zu-legen-scheint](https://www.spiegel.de/kultur/musik/beyonce-und-ihr-neues-album-renaissance-ein-bass-der-sich-um-die-gebaermutter-zu-legen-scheint-a-57ebbe4f-1e48-40ef-b189-21e3b5911329#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/meta-instagram-laesst-neues-update-wieder-auslaufen](https://www.spiegel.de/netzwelt/apps/meta-instagram-laesst-neues-update-wieder-auslaufen-a-ddb407a7-99d0-4a6e-a4db-da523e1ba550#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/vereinigte-arabische-emirate-mindestens-sieben-gastarbeiter-sterben-wegen-starker-regenfaelle-in-den-emiraten](https://www.spiegel.de/panorama/vereinigte-arabische-emirate-mindestens-sieben-gastarbeiter-sterben-wegen-starker-regenfaelle-in-den-emiraten-a-077bee5a-f0f4-4522-a455-297afe9c8f38#ref=rss)
-* [https://www.spiegel.de/panorama/saechsische-schweiz-erst-kam-das-feuer-jetzt-kommen-die-stornierungen-der-touristen](https://www.spiegel.de/panorama/saechsische-schweiz-erst-kam-das-feuer-jetzt-kommen-die-stornierungen-der-touristen-a-36d42e4f-bf1b-4709-ab1c-5a9cc6efe2ba#ref=rss)
-* [https://www.spiegel.de/panorama/kentucky-zahl-der-flutopfer-steigt-auf-16-gouverneur-rechnet-mit-mehr-toten](https://www.spiegel.de/panorama/kentucky-zahl-der-flutopfer-steigt-auf-16-gouverneur-rechnet-mit-mehr-toten-a-1127d7ce-2e62-49a6-b264-27bdb0acd54d#ref=rss)
-### schweiz
-
-* [https://www.spiegel.de/panorama/saechsische-schweiz-erst-kam-das-feuer-jetzt-kommen-die-stornierungen-der-touristen](https://www.spiegel.de/panorama/saechsische-schweiz-erst-kam-das-feuer-jetzt-kommen-die-stornierungen-der-touristen-a-36d42e4f-bf1b-4709-ab1c-5a9cc6efe2ba#ref=rss)
-* [https://www.spiegel.de/panorama/sachsen-landratsamt-verhaengt-waldbrand-katastrophenalarm-fuer-weitere-gemeinde](https://www.spiegel.de/panorama/sachsen-landratsamt-verhaengt-waldbrand-katastrophenalarm-fuer-weitere-gemeinde-a-06961656-a461-4f67-9864-49f54fbd7507#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/netzwelt/jax-der-ohrwurm-victoria-s-secret-laesst-sie-layla-endlich-vergessen](https://www.spiegel.de/netzwelt/jax-der-ohrwurm-victoria-s-secret-laesst-sie-layla-endlich-vergessen-a-cb882248-ffae-476b-b05b-cba363e49d05#ref=rss)
-* [https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin](https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin-a-22cb131b-45bb-4eac-a257-0ec02220abc4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-will-schulen-im-herbst-nicht-schliessen](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-will-schulen-im-herbst-nicht-schliessen-a-f47fab38-eb7e-483f-a804-c676b32fa594#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/wirtschaft/pedro-sanchez-fordert-verzicht-aufs-krawattentragen](https://www.spiegel.de/wirtschaft/pedro-sanchez-fordert-verzicht-aufs-krawattentragen-a-10e69d73-9842-4681-8390-933d593e0771#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/shakira-spanische-staatsanwaltschaft-fordert-mehr-als-acht-jahre-haft-wegen-steuerbetrugs](https://www.spiegel.de/panorama/justiz/shakira-spanische-staatsanwaltschaft-fordert-mehr-als-acht-jahre-haft-wegen-steuerbetrugs-a-239a4e1b-048b-4b25-a48c-603bb9171a43#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin](https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin-a-22cb131b-45bb-4eac-a257-0ec02220abc4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/shakira-spanische-staatsanwaltschaft-fordert-mehr-als-acht-jahre-haft-wegen-steuerbetrugs](https://www.spiegel.de/panorama/justiz/shakira-spanische-staatsanwaltschaft-fordert-mehr-als-acht-jahre-haft-wegen-steuerbetrugs-a-239a4e1b-048b-4b25-a48c-603bb9171a43#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitsmarkt-andrea-nahles-afghanistan-kaffeekonsum](https://www.spiegel.de/politik/deutschland/news-des-tages-arbeitsmarkt-andrea-nahles-afghanistan-kaffeekonsum-a-e0b7e33b-1581-414b-96c7-182bf80f8b8e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/arcelormittal-stahlwerk-in-eisenhuettenstadt-schickt-teil-der-mitarbeiter-in-kurzarbeit](https://www.spiegel.de/wirtschaft/unternehmen/arcelormittal-stahlwerk-in-eisenhuettenstadt-schickt-teil-der-mitarbeiter-in-kurzarbeit-a-1defbeef-7cc8-40ba-8339-1ea7a0545a58#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo](https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo-a-687bbfff-92d1-4a67-9d40-5c7aa1b675cb#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/boston-in-grossbritannien-neunjaehrige-offenbar-erstochen-polizei-nimmt-zwei-verdaechtige-fest](https://www.spiegel.de/panorama/justiz/boston-in-grossbritannien-neunjaehrige-offenbar-erstochen-polizei-nimmt-zwei-verdaechtige-fest-a-39aa676b-dbd3-4e41-a833-1ad030288886#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/arcelormittal-stahlwerk-in-eisenhuettenstadt-schickt-teil-der-mitarbeiter-in-kurzarbeit](https://www.spiegel.de/wirtschaft/unternehmen/arcelormittal-stahlwerk-in-eisenhuettenstadt-schickt-teil-der-mitarbeiter-in-kurzarbeit-a-1defbeef-7cc8-40ba-8339-1ea7a0545a58#ref=rss)
-### übernimmt
-
-* [https://www.spiegel.de/politik/deutschland/bodo-ramelow-uebernimmt-geschaefte-des-bundespraesidenten](https://www.spiegel.de/politik/deutschland/bodo-ramelow-uebernimmt-geschaefte-des-bundespraesidenten-a-b369a5db-f678-4070-803b-c21c907239f1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/shakira-spanische-staatsanwaltschaft-fordert-mehr-als-acht-jahre-haft-wegen-steuerbetrugs](https://www.spiegel.de/panorama/justiz/shakira-spanische-staatsanwaltschaft-fordert-mehr-als-acht-jahre-haft-wegen-steuerbetrugs-a-239a4e1b-048b-4b25-a48c-603bb9171a43#ref=rss)
-### barbara
-
-* [https://www.spiegel.de/kultur/barbara-finken-ueber-vogue-cover-mit-olena-selenska-nicht-pervers-sondern-sehr-beruehrend](https://www.spiegel.de/kultur/barbara-finken-ueber-vogue-cover-mit-olena-selenska-nicht-pervers-sondern-sehr-beruehrend-a-2e3df13d-a5de-46b2-9304-81ff54c27da9#ref=rss)
-### voguecover
-
-* [https://www.spiegel.de/kultur/barbara-finken-ueber-vogue-cover-mit-olena-selenska-nicht-pervers-sondern-sehr-beruehrend](https://www.spiegel.de/kultur/barbara-finken-ueber-vogue-cover-mit-olena-selenska-nicht-pervers-sondern-sehr-beruehrend-a-2e3df13d-a5de-46b2-9304-81ff54c27da9#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/vereinigte-arabische-emirate-mindestens-sieben-gastarbeiter-sterben-wegen-starker-regenfaelle-in-den-emiraten](https://www.spiegel.de/panorama/vereinigte-arabische-emirate-mindestens-sieben-gastarbeiter-sterben-wegen-starker-regenfaelle-in-den-emiraten-a-077bee5a-f0f4-4522-a455-297afe9c8f38#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/boston-in-grossbritannien-neunjaehrige-offenbar-erstochen-polizei-nimmt-zwei-verdaechtige-fest](https://www.spiegel.de/panorama/justiz/boston-in-grossbritannien-neunjaehrige-offenbar-erstochen-polizei-nimmt-zwei-verdaechtige-fest-a-39aa676b-dbd3-4e41-a833-1ad030288886#ref=rss)
-### feuer
-
-* [https://www.spiegel.de/panorama/brandenburg-mit-dem-guellewagen-gegen-den-waldbrand](https://www.spiegel.de/panorama/brandenburg-mit-dem-guellewagen-gegen-den-waldbrand-a-b2ba4bdd-fbff-4cd1-b0e0-f3629d9d657d#ref=rss)
-* [https://www.spiegel.de/panorama/saechsische-schweiz-erst-kam-das-feuer-jetzt-kommen-die-stornierungen-der-touristen](https://www.spiegel.de/panorama/saechsische-schweiz-erst-kam-das-feuer-jetzt-kommen-die-stornierungen-der-touristen-a-36d42e4f-bf1b-4709-ab1c-5a9cc6efe2ba#ref=rss)
-### sächsischen
-
-* [https://www.spiegel.de/panorama/saechsische-schweiz-erst-kam-das-feuer-jetzt-kommen-die-stornierungen-der-touristen](https://www.spiegel.de/panorama/saechsische-schweiz-erst-kam-das-feuer-jetzt-kommen-die-stornierungen-der-touristen-a-36d42e4f-bf1b-4709-ab1c-5a9cc6efe2ba#ref=rss)
-* [https://www.spiegel.de/panorama/sachsen-landratsamt-verhaengt-waldbrand-katastrophenalarm-fuer-weitere-gemeinde](https://www.spiegel.de/panorama/sachsen-landratsamt-verhaengt-waldbrand-katastrophenalarm-fuer-weitere-gemeinde-a-06961656-a461-4f67-9864-49f54fbd7507#ref=rss)
-### rund
-
-* [https://www.spiegel.de/panorama/faeroeer-inseln-rund-100-delfine-bei-jagd-getoetet](https://www.spiegel.de/panorama/faeroeer-inseln-rund-100-delfine-bei-jagd-getoetet-a-605f8da2-29de-4d5e-b890-5511f4a7bb0e#ref=rss)
-### delfine
-
-* [https://www.spiegel.de/panorama/faeroeer-inseln-rund-100-delfine-bei-jagd-getoetet](https://www.spiegel.de/panorama/faeroeer-inseln-rund-100-delfine-bei-jagd-getoetet-a-605f8da2-29de-4d5e-b890-5511f4a7bb0e#ref=rss)
-### getötet
-
-* [https://www.spiegel.de/panorama/faeroeer-inseln-rund-100-delfine-bei-jagd-getoetet](https://www.spiegel.de/panorama/faeroeer-inseln-rund-100-delfine-bei-jagd-getoetet-a-605f8da2-29de-4d5e-b890-5511f4a7bb0e#ref=rss)
-### jax
-
-* [https://www.spiegel.de/netzwelt/jax-der-ohrwurm-victoria-s-secret-laesst-sie-layla-endlich-vergessen](https://www.spiegel.de/netzwelt/jax-der-ohrwurm-victoria-s-secret-laesst-sie-layla-endlich-vergessen-a-cb882248-ffae-476b-b05b-cba363e49d05#ref=rss)
-### versuchen
-
-* [https://www.spiegel.de/netzwelt/jax-der-ohrwurm-victoria-s-secret-laesst-sie-layla-endlich-vergessen](https://www.spiegel.de/netzwelt/jax-der-ohrwurm-victoria-s-secret-laesst-sie-layla-endlich-vergessen-a-cb882248-ffae-476b-b05b-cba363e49d05#ref=rss)
-* [https://www.spiegel.de/panorama/kentucky-zahl-der-flutopfer-steigt-auf-16-gouverneur-rechnet-mit-mehr-toten](https://www.spiegel.de/panorama/kentucky-zahl-der-flutopfer-steigt-auf-16-gouverneur-rechnet-mit-mehr-toten-a-1127d7ce-2e62-49a6-b264-27bdb0acd54d#ref=rss)
-### uslotterie
-
-* [https://www.spiegel.de/panorama/us-lotterie-mega-millions-hauptgewinn-1-1-millarden-dollar](https://www.spiegel.de/panorama/us-lotterie-mega-millions-hauptgewinn-1-1-millarden-dollar-a-4fadad29-47fd-4982-ab4b-775fa5f39212#ref=rss)
-### mega
-
-* [https://www.spiegel.de/panorama/us-lotterie-mega-millions-hauptgewinn-1-1-millarden-dollar](https://www.spiegel.de/panorama/us-lotterie-mega-millions-hauptgewinn-1-1-millarden-dollar-a-4fadad29-47fd-4982-ab4b-775fa5f39212#ref=rss)
-### millions
-
-* [https://www.spiegel.de/panorama/us-lotterie-mega-millions-hauptgewinn-1-1-millarden-dollar](https://www.spiegel.de/panorama/us-lotterie-mega-millions-hauptgewinn-1-1-millarden-dollar-a-4fadad29-47fd-4982-ab4b-775fa5f39212#ref=rss)
-### freitag
-
-* [https://www.spiegel.de/panorama/us-lotterie-mega-millions-hauptgewinn-1-1-millarden-dollar](https://www.spiegel.de/panorama/us-lotterie-mega-millions-hauptgewinn-1-1-millarden-dollar-a-4fadad29-47fd-4982-ab4b-775fa5f39212#ref=rss)
-* [https://www.spiegel.de/panorama/aerztin-aus-oberoesterreich-tot-aufgefunden](https://www.spiegel.de/panorama/aerztin-aus-oberoesterreich-tot-aufgefunden-a-21a05493-8034-4b5c-acf6-966f1a61d685#ref=rss)
-### pedro
-
-* [https://www.spiegel.de/wirtschaft/pedro-sanchez-fordert-verzicht-aufs-krawattentragen](https://www.spiegel.de/wirtschaft/pedro-sanchez-fordert-verzicht-aufs-krawattentragen-a-10e69d73-9842-4681-8390-933d593e0771#ref=rss)
-### sánchez
-
-* [https://www.spiegel.de/wirtschaft/pedro-sanchez-fordert-verzicht-aufs-krawattentragen](https://www.spiegel.de/wirtschaft/pedro-sanchez-fordert-verzicht-aufs-krawattentragen-a-10e69d73-9842-4681-8390-933d593e0771#ref=rss)
-### spanische
-
-* [https://www.spiegel.de/wirtschaft/pedro-sanchez-fordert-verzicht-aufs-krawattentragen](https://www.spiegel.de/wirtschaft/pedro-sanchez-fordert-verzicht-aufs-krawattentragen-a-10e69d73-9842-4681-8390-933d593e0771#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/shakira-spanische-staatsanwaltschaft-fordert-mehr-als-acht-jahre-haft-wegen-steuerbetrugs](https://www.spiegel.de/panorama/justiz/shakira-spanische-staatsanwaltschaft-fordert-mehr-als-acht-jahre-haft-wegen-steuerbetrugs-a-239a4e1b-048b-4b25-a48c-603bb9171a43#ref=rss)
-### kentucky
-
-* [https://www.spiegel.de/panorama/kentucky-zahl-der-flutopfer-steigt-auf-16-gouverneur-rechnet-mit-mehr-toten](https://www.spiegel.de/panorama/kentucky-zahl-der-flutopfer-steigt-auf-16-gouverneur-rechnet-mit-mehr-toten-a-1127d7ce-2e62-49a6-b264-27bdb0acd54d#ref=rss)
-### patricia
-
-* [https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin](https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin-a-22cb131b-45bb-4eac-a257-0ec02220abc4#ref=rss)
-### schlesinger
-
-* [https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin](https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin-a-22cb131b-45bb-4eac-a257-0ec02220abc4#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin](https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin-a-22cb131b-45bb-4eac-a257-0ec02220abc4#ref=rss)
-### rbbintendantin
-
-* [https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin](https://www.spiegel.de/kultur/patricia-schlesinger-staatsanwaltschaft-ermittelt-nicht-gegen-rbb-intendantin-a-22cb131b-45bb-4eac-a257-0ec02220abc4#ref=rss)
-### chris
-
-* [https://www.spiegel.de/panorama/leute/will-smith-bittet-chris-rock-um-entschuldigung-ich-bin-da-wenn-du-bereit-bist-zu-reden](https://www.spiegel.de/panorama/leute/will-smith-bittet-chris-rock-um-entschuldigung-ich-bin-da-wenn-du-bereit-bist-zu-reden-a-508e41a9-f580-42be-bc91-c3bc8d2f743c#ref=rss)
-### rock
-
-* [https://www.spiegel.de/panorama/leute/will-smith-bittet-chris-rock-um-entschuldigung-ich-bin-da-wenn-du-bereit-bist-zu-reden](https://www.spiegel.de/panorama/leute/will-smith-bittet-chris-rock-um-entschuldigung-ich-bin-da-wenn-du-bereit-bist-zu-reden-a-508e41a9-f580-42be-bc91-c3bc8d2f743c#ref=rss)
-### saunen
-
-* [https://www.spiegel.de/wirtschaft/service/muenchner-baeder-schalten-saunen-ab](https://www.spiegel.de/wirtschaft/service/muenchner-baeder-schalten-saunen-ab-a-599fbadb-c466-448f-bd1e-f422e329c2ec#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung](https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung-a-b15a49d2-d599-4697-8995-cebebe1e5ba9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen](https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen-a-abf716be-1161-4173-a8b2-41146e5c28bb#ref=rss)
 ### münchen
 
-* [https://www.spiegel.de/wirtschaft/service/muenchner-baeder-schalten-saunen-ab](https://www.spiegel.de/wirtschaft/service/muenchner-baeder-schalten-saunen-ab-a-599fbadb-c466-448f-bd1e-f422e329c2ec#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo](https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo-a-687bbfff-92d1-4a67-9d40-5c7aa1b675cb#ref=rss)
-### offenbar
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung](https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung-a-b15a49d2-d599-4697-8995-cebebe1e5ba9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/corona-pandemie-beauftragter-der-tu-muenchen-raet-zum-zweiten-booster-vor-der-wiesn](https://www.spiegel.de/wissenschaft/natur/corona-pandemie-beauftragter-der-tu-muenchen-raet-zum-zweiten-booster-vor-der-wiesn-a-cda738a1-5678-4fa0-b757-a21fb1f816ea#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen](https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen-a-abf716be-1161-4173-a8b2-41146e5c28bb#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/justiz/boston-in-grossbritannien-neunjaehrige-offenbar-erstochen-polizei-nimmt-zwei-verdaechtige-fest](https://www.spiegel.de/panorama/justiz/boston-in-grossbritannien-neunjaehrige-offenbar-erstochen-polizei-nimmt-zwei-verdaechtige-fest-a-39aa676b-dbd3-4e41-a833-1ad030288886#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-will-schulen-im-herbst-nicht-schliessen](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-will-schulen-im-herbst-nicht-schliessen-a-f47fab38-eb7e-483f-a804-c676b32fa594#ref=rss)
-### nimmt
+* [https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht](https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht-a-ab97abd1-7d5e-4282-9658-c2d51a18e607#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung](https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung-a-046bc621-f9e0-4cfa-bf8f-ae2aecfc0781#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-vergeltung-an](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-vergeltung-an-a-b8f9be7c-0d26-4763-aeec-054cc0271797#ref=rss)
+### russland
 
-* [https://www.spiegel.de/panorama/justiz/boston-in-grossbritannien-neunjaehrige-offenbar-erstochen-polizei-nimmt-zwei-verdaechtige-fest](https://www.spiegel.de/panorama/justiz/boston-in-grossbritannien-neunjaehrige-offenbar-erstochen-polizei-nimmt-zwei-verdaechtige-fest-a-39aa676b-dbd3-4e41-a833-1ad030288886#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/meta-instagram-laesst-neues-update-wieder-auslaufen](https://www.spiegel.de/netzwelt/apps/meta-instagram-laesst-neues-update-wieder-auslaufen-a-ddb407a7-99d0-4a6e-a4db-da523e1ba550#ref=rss)
+* [https://www.spiegel.de/ausland/russland-fordert-offenbar-auslieferung-des-tiergartenmoerders](https://www.spiegel.de/ausland/russland-fordert-offenbar-auslieferung-des-tiergartenmoerders-a-bc52efea-bfe1-4605-a265-63c0325d1b74#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-vergeltung-an](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-vergeltung-an-a-b8f9be7c-0d26-4763-aeec-054cc0271797#ref=rss)
+* [https://www.spiegel.de/ausland/russland-usa-russischer-staatsbuerger-soll-us-wahlen-beeinflusst-haben](https://www.spiegel.de/ausland/russland-usa-russischer-staatsbuerger-soll-us-wahlen-beeinflusst-haben-a-4b654e29-291e-44a1-91c8-3a283fe5a2ce#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken-a-8649f6e1-7fec-430a-95bd-8fdc33cbd940#ref=rss)
+* [https://www.spiegel.de/panorama/suedafrika-acht-frauen-bei-videodreh-vergewaltigt](https://www.spiegel.de/panorama/suedafrika-acht-frauen-bei-videodreh-vergewaltigt-a-29cad1fd-7c33-4557-96a9-2c793c22c1d2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ottweiler-im-saarland-zwei-tote-und-ein-verletzter-bei-streit-um-wohnung](https://www.spiegel.de/panorama/justiz/ottweiler-im-saarland-zwei-tote-und-ein-verletzter-bei-streit-um-wohnung-a-856cdb76-cff4-4234-8569-e0604b325daf#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung](https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung-a-046bc621-f9e0-4cfa-bf8f-ae2aecfc0781#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen](https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen-a-abf716be-1161-4173-a8b2-41146e5c28bb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hessen-lka-durchsucht-wegen-chatgruppen-inhalten-wohnungen-von-fuenf-polizisten](https://www.spiegel.de/panorama/justiz/hessen-lka-durchsucht-wegen-chatgruppen-inhalten-wohnungen-von-fuenf-polizisten-a-59d94ec5-c8eb-40b2-b62f-059c8e38e094#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/panorama/gesellschaft/schwimmen-warum-sich-auch-im-wasser-die-unterschiede-zwischen-deutschen-und-syrern-zeigen](https://www.spiegel.de/panorama/gesellschaft/schwimmen-warum-sich-auch-im-wasser-die-unterschiede-zwischen-deutschen-und-syrern-zeigen-a-3cb5402f-e36c-4350-a1be-9b2c8c8af897#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-finale-der-fussball-europameisterschaft-gruene-und-die-atomenergie-schulferien](https://www.spiegel.de/politik/deutschland/news-finale-der-fussball-europameisterschaft-gruene-und-die-atomenergie-schulferien-a-e44b850e-692c-4a50-81dd-ca660a4ba881#ref=rss)
+### sinzing
+
+* [https://www.spiegel.de/panorama/sinzing-bei-regensburg-75-jaehrige-stuerzt-von-drehleiter-der-feuerwehr](https://www.spiegel.de/panorama/sinzing-bei-regensburg-75-jaehrige-stuerzt-von-drehleiter-der-feuerwehr-a-cc3fa0e3-1fa7-4de1-8484-84e80422d62d#ref=rss)
+### regensburg
+
+* [https://www.spiegel.de/panorama/sinzing-bei-regensburg-75-jaehrige-stuerzt-von-drehleiter-der-feuerwehr](https://www.spiegel.de/panorama/sinzing-bei-regensburg-75-jaehrige-stuerzt-von-drehleiter-der-feuerwehr-a-cc3fa0e3-1fa7-4de1-8484-84e80422d62d#ref=rss)
+### 75jährige
+
+* [https://www.spiegel.de/panorama/sinzing-bei-regensburg-75-jaehrige-stuerzt-von-drehleiter-der-feuerwehr](https://www.spiegel.de/panorama/sinzing-bei-regensburg-75-jaehrige-stuerzt-von-drehleiter-der-feuerwehr-a-cc3fa0e3-1fa7-4de1-8484-84e80422d62d#ref=rss)
+### drehleiter
+
+* [https://www.spiegel.de/panorama/sinzing-bei-regensburg-75-jaehrige-stuerzt-von-drehleiter-der-feuerwehr](https://www.spiegel.de/panorama/sinzing-bei-regensburg-75-jaehrige-stuerzt-von-drehleiter-der-feuerwehr-a-cc3fa0e3-1fa7-4de1-8484-84e80422d62d#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/sinzing-bei-regensburg-75-jaehrige-stuerzt-von-drehleiter-der-feuerwehr](https://www.spiegel.de/panorama/sinzing-bei-regensburg-75-jaehrige-stuerzt-von-drehleiter-der-feuerwehr-a-cc3fa0e3-1fa7-4de1-8484-84e80422d62d#ref=rss)
+* [https://www.spiegel.de/reise/belgien-thalys-kollidiert-mit-tier-tausende-fahrgaeste-gestrandet](https://www.spiegel.de/reise/belgien-thalys-kollidiert-mit-tier-tausende-fahrgaeste-gestrandet-a-7ffaea2e-b8ce-4954-b4c6-d4f2704e2ae2#ref=rss)
 ### sachsen
 
-* [https://www.spiegel.de/panorama/sachsen-landratsamt-verhaengt-waldbrand-katastrophenalarm-fuer-weitere-gemeinde](https://www.spiegel.de/panorama/sachsen-landratsamt-verhaengt-waldbrand-katastrophenalarm-fuer-weitere-gemeinde-a-06961656-a461-4f67-9864-49f54fbd7507#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dohna-bei-dresden-rottweiler-attackiert-helfer-und-wird-von-polizei-erschossen](https://www.spiegel.de/panorama/justiz/dohna-bei-dresden-rottweiler-attackiert-helfer-und-wird-von-polizei-erschossen-a-7501b13e-c9b3-43d6-a86d-edb6fde705bd#ref=rss)
+* [https://www.spiegel.de/panorama/waldbraende-in-sachsen-erhoffte-entspannung-bleibt-aus](https://www.spiegel.de/panorama/waldbraende-in-sachsen-erhoffte-entspannung-bleibt-aus-a-33985d39-52d8-47ba-b481-1eb8d809f5b9#ref=rss)
+### lage
+
+* [https://www.spiegel.de/panorama/waldbraende-in-sachsen-erhoffte-entspannung-bleibt-aus](https://www.spiegel.de/panorama/waldbraende-in-sachsen-erhoffte-entspannung-bleibt-aus-a-33985d39-52d8-47ba-b481-1eb8d809f5b9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-finale-der-fussball-europameisterschaft-gruene-und-die-atomenergie-schulferien](https://www.spiegel.de/politik/deutschland/news-finale-der-fussball-europameisterschaft-gruene-und-die-atomenergie-schulferien-a-e44b850e-692c-4a50-81dd-ca660a4ba881#ref=rss)
+### 50
+
+* [https://www.spiegel.de/sport/golf/fuer-50-millionen-dollar-praemie-bubba-watson-wechselt-zu-saudi-arabischer-golfserie-liv](https://www.spiegel.de/sport/golf/fuer-50-millionen-dollar-praemie-bubba-watson-wechselt-zu-saudi-arabischer-golfserie-liv-a-55be9818-9ef1-4662-b25a-ecdf477dfe62#ref=rss)
+* [https://www.spiegel.de/reise/europa/laax-in-der-schweiz-familienurlaub-in-der-jugendherberge](https://www.spiegel.de/reise/europa/laax-in-der-schweiz-familienurlaub-in-der-jugendherberge-a-d3579061-be7c-4bbc-af9f-d41c5265be8e#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/sport/golf/fuer-50-millionen-dollar-praemie-bubba-watson-wechselt-zu-saudi-arabischer-golfserie-liv](https://www.spiegel.de/sport/golf/fuer-50-millionen-dollar-praemie-bubba-watson-wechselt-zu-saudi-arabischer-golfserie-liv-a-55be9818-9ef1-4662-b25a-ecdf477dfe62#ref=rss)
+* [https://www.spiegel.de/wissenschaft/fressend-verhungern](https://www.spiegel.de/wissenschaft/fressend-verhungern-a-e5b84cd2-1367-41d5-bfdc-f4e943ff9c7c#ref=rss)
+### bubba
+
+* [https://www.spiegel.de/sport/golf/fuer-50-millionen-dollar-praemie-bubba-watson-wechselt-zu-saudi-arabischer-golfserie-liv](https://www.spiegel.de/sport/golf/fuer-50-millionen-dollar-praemie-bubba-watson-wechselt-zu-saudi-arabischer-golfserie-liv-a-55be9818-9ef1-4662-b25a-ecdf477dfe62#ref=rss)
+### watson
+
+* [https://www.spiegel.de/sport/golf/fuer-50-millionen-dollar-praemie-bubba-watson-wechselt-zu-saudi-arabischer-golfserie-liv](https://www.spiegel.de/sport/golf/fuer-50-millionen-dollar-praemie-bubba-watson-wechselt-zu-saudi-arabischer-golfserie-liv-a-55be9818-9ef1-4662-b25a-ecdf477dfe62#ref=rss)
+### liv
+
+* [https://www.spiegel.de/sport/golf/fuer-50-millionen-dollar-praemie-bubba-watson-wechselt-zu-saudi-arabischer-golfserie-liv](https://www.spiegel.de/sport/golf/fuer-50-millionen-dollar-praemie-bubba-watson-wechselt-zu-saudi-arabischer-golfserie-liv-a-55be9818-9ef1-4662-b25a-ecdf477dfe62#ref=rss)
+### borussia
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung](https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung-a-b15a49d2-d599-4697-8995-cebebe1e5ba9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen](https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen-a-abf716be-1161-4173-a8b2-41146e5c28bb#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung](https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung-a-b15a49d2-d599-4697-8995-cebebe1e5ba9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen](https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen-a-abf716be-1161-4173-a8b2-41146e5c28bb#ref=rss)
+### 30
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung](https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung-a-b15a49d2-d599-4697-8995-cebebe1e5ba9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen](https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen-a-abf716be-1161-4173-a8b2-41146e5c28bb#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung](https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung-a-b15a49d2-d599-4697-8995-cebebe1e5ba9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-vergeltung-an](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-vergeltung-an-a-b8f9be7c-0d26-4763-aeec-054cc0271797#ref=rss)
+### bvb
+
+* [https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung](https://www.spiegel.de/sport/fussball/dfb-pokal-borussia-dortmund-gewinnt-gegen-1860-muenchen-mit-einer-erwachsenen-leistung-a-b15a49d2-d599-4697-8995-cebebe1e5ba9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen](https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen-a-abf716be-1161-4173-a8b2-41146e5c28bb#ref=rss)
+### annalena
+
+* [https://www.spiegel.de/ausland/baerbock-und-cavusoglu-streiten-auf-der-pressekonferenz-warum-kommen-sie-immer-wieder-mit-osman-kavala](https://www.spiegel.de/ausland/baerbock-und-cavusoglu-streiten-auf-der-pressekonferenz-warum-kommen-sie-immer-wieder-mit-osman-kavala-a-2191a2dd-8faa-4029-865c-a28b2fdf3fa2#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/ausland/baerbock-und-cavusoglu-streiten-auf-der-pressekonferenz-warum-kommen-sie-immer-wieder-mit-osman-kavala](https://www.spiegel.de/ausland/baerbock-und-cavusoglu-streiten-auf-der-pressekonferenz-warum-kommen-sie-immer-wieder-mit-osman-kavala-a-2191a2dd-8faa-4029-865c-a28b2fdf3fa2#ref=rss)
+### pressekonferenz
+
+* [https://www.spiegel.de/ausland/baerbock-und-cavusoglu-streiten-auf-der-pressekonferenz-warum-kommen-sie-immer-wieder-mit-osman-kavala](https://www.spiegel.de/ausland/baerbock-und-cavusoglu-streiten-auf-der-pressekonferenz-warum-kommen-sie-immer-wieder-mit-osman-kavala-a-2191a2dd-8faa-4029-865c-a28b2fdf3fa2#ref=rss)
+### beide
+
+* [https://www.spiegel.de/ausland/baerbock-und-cavusoglu-streiten-auf-der-pressekonferenz-warum-kommen-sie-immer-wieder-mit-osman-kavala](https://www.spiegel.de/ausland/baerbock-und-cavusoglu-streiten-auf-der-pressekonferenz-warum-kommen-sie-immer-wieder-mit-osman-kavala-a-2191a2dd-8faa-4029-865c-a28b2fdf3fa2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken-a-8649f6e1-7fec-430a-95bd-8fdc33cbd940#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht](https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht-a-ab97abd1-7d5e-4282-9658-c2d51a18e607#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-vergeltung-an](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-vergeltung-an-a-b8f9be7c-0d26-4763-aeec-054cc0271797#ref=rss)
+### kriegsgefangene
+
+* [https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht](https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht-a-ab97abd1-7d5e-4282-9658-c2d51a18e607#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht](https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht-a-ab97abd1-7d5e-4282-9658-c2d51a18e607#ref=rss)
+* [https://www.spiegel.de/gesundheit/spanien-meldet-ersten-todesfall-durch-affenpocken](https://www.spiegel.de/gesundheit/spanien-meldet-ersten-todesfall-durch-affenpocken-a-e5bd1f23-1fec-4db7-81d6-adb52cf67b31#ref=rss)
+### attacke
+
+* [https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht](https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht-a-ab97abd1-7d5e-4282-9658-c2d51a18e607#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung](https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung-a-046bc621-f9e0-4cfa-bf8f-ae2aecfc0781#ref=rss)
+### gefängnis
+
+* [https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht](https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht-a-ab97abd1-7d5e-4282-9658-c2d51a18e607#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-vergeltung-an](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-vergeltung-an-a-b8f9be7c-0d26-4763-aeec-054cc0271797#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht](https://www.spiegel.de/ausland/ukraine-was-ueber-den-angriff-auf-kriegsgefangene-in-der-ostukraine-bekannt-ist-und-was-nicht-a-ab97abd1-7d5e-4282-9658-c2d51a18e607#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-waffen-im-ukrainekrieg-personalmangel-atomkraft-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-waffen-im-ukrainekrieg-personalmangel-atomkraft-podcast-a-a58c2380-8b01-453e-844b-c37199ae4d6e#ref=rss)
+### ulrike
+
+* [https://www.spiegel.de/politik/deutschland/csu-sozialministerin-ulrike-scharf-die-abschaffung-der-prostitution-waere-utopisch](https://www.spiegel.de/politik/deutschland/csu-sozialministerin-ulrike-scharf-die-abschaffung-der-prostitution-waere-utopisch-a-7df23342-2eea-460e-8f52-d37d633beb05#ref=rss)
+### scharf
+
+* [https://www.spiegel.de/politik/deutschland/csu-sozialministerin-ulrike-scharf-die-abschaffung-der-prostitution-waere-utopisch](https://www.spiegel.de/politik/deutschland/csu-sozialministerin-ulrike-scharf-die-abschaffung-der-prostitution-waere-utopisch-a-7df23342-2eea-460e-8f52-d37d633beb05#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/panorama/sachsen-landratsamt-verhaengt-waldbrand-katastrophenalarm-fuer-weitere-gemeinde](https://www.spiegel.de/panorama/sachsen-landratsamt-verhaengt-waldbrand-katastrophenalarm-fuer-weitere-gemeinde-a-06961656-a461-4f67-9864-49f54fbd7507#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/corona-jeder-dritte-hat-seit-pandemiebeginn-zugenommen](https://www.spiegel.de/gesundheit/ernaehrung/corona-jeder-dritte-hat-seit-pandemiebeginn-zugenommen-a-da41b34e-f0ee-4aac-b9eb-da6970c75025#ref=rss)
-### helfen
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken-a-8649f6e1-7fec-430a-95bd-8fdc33cbd940#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/wirtschaft/service/naehrwert-logo-aenderungen-bei-berechnungen-fuer-nutri-score](https://www.spiegel.de/wirtschaft/service/naehrwert-logo-aenderungen-bei-berechnungen-fuer-nutri-score-a-4b399d7e-6d87-48fe-a012-94b165c92723#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/dohna-bei-dresden-rottweiler-attackiert-helfer-und-wird-von-polizei-erschossen](https://www.spiegel.de/panorama/justiz/dohna-bei-dresden-rottweiler-attackiert-helfer-und-wird-von-polizei-erschossen-a-7501b13e-c9b3-43d6-a86d-edb6fde705bd#ref=rss)
-### corona
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken-a-8649f6e1-7fec-430a-95bd-8fdc33cbd940#ref=rss)
+### volker
 
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-will-schulen-im-herbst-nicht-schliessen](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-will-schulen-im-herbst-nicht-schliessen-a-f47fab38-eb7e-483f-a804-c676b32fa594#ref=rss)
-* [https://www.spiegel.de/gesundheit/ernaehrung/corona-jeder-dritte-hat-seit-pandemiebeginn-zugenommen](https://www.spiegel.de/gesundheit/ernaehrung/corona-jeder-dritte-hat-seit-pandemiebeginn-zugenommen-a-da41b34e-f0ee-4aac-b9eb-da6970c75025#ref=rss)
-### lauterbach
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken-a-8649f6e1-7fec-430a-95bd-8fdc33cbd940#ref=rss)
+### wissing
 
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-will-schulen-im-herbst-nicht-schliessen](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-will-schulen-im-herbst-nicht-schliessen-a-f47fab38-eb7e-483f-a804-c676b32fa594#ref=rss)
-### herbst
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken-a-8649f6e1-7fec-430a-95bd-8fdc33cbd940#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-will-schulen-im-herbst-nicht-schliessen](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-will-schulen-im-herbst-nicht-schliessen-a-f47fab38-eb7e-483f-a804-c676b32fa594#ref=rss)
-### tot
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-posten-volker-wissing-will-offenbar-fdp-parteifreunde-begluecken-a-8649f6e1-7fec-430a-95bd-8fdc33cbd940#ref=rss)
+* [https://www.spiegel.de/ausland/russland-fordert-offenbar-auslieferung-des-tiergartenmoerders](https://www.spiegel.de/ausland/russland-fordert-offenbar-auslieferung-des-tiergartenmoerders-a-bc52efea-bfe1-4605-a265-63c0325d1b74#ref=rss)
+### robert
 
-* [https://www.spiegel.de/panorama/aerztin-aus-oberoesterreich-tot-aufgefunden](https://www.spiegel.de/panorama/aerztin-aus-oberoesterreich-tot-aufgefunden-a-21a05493-8034-4b5c-acf6-966f1a61d685#ref=rss)
-### aufgefunden
+* [https://www.spiegel.de/sport/fussball/viel-bullshit-erzaehlt-robert-lewandowski-tritt-gegen-bayern-fuehrung-nach](https://www.spiegel.de/sport/fussball/viel-bullshit-erzaehlt-robert-lewandowski-tritt-gegen-bayern-fuehrung-nach-a-43e65c62-de93-42d3-a3e0-eda7d34cd020#ref=rss)
+### lewandowski
 
-* [https://www.spiegel.de/panorama/aerztin-aus-oberoesterreich-tot-aufgefunden](https://www.spiegel.de/panorama/aerztin-aus-oberoesterreich-tot-aufgefunden-a-21a05493-8034-4b5c-acf6-966f1a61d685#ref=rss)
-### monate
+* [https://www.spiegel.de/sport/fussball/viel-bullshit-erzaehlt-robert-lewandowski-tritt-gegen-bayern-fuehrung-nach](https://www.spiegel.de/sport/fussball/viel-bullshit-erzaehlt-robert-lewandowski-tritt-gegen-bayern-fuehrung-nach-a-43e65c62-de93-42d3-a3e0-eda7d34cd020#ref=rss)
+### fc
 
-* [https://www.spiegel.de/panorama/aerztin-aus-oberoesterreich-tot-aufgefunden](https://www.spiegel.de/panorama/aerztin-aus-oberoesterreich-tot-aufgefunden-a-21a05493-8034-4b5c-acf6-966f1a61d685#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/arcelormittal-stahlwerk-in-eisenhuettenstadt-schickt-teil-der-mitarbeiter-in-kurzarbeit](https://www.spiegel.de/wirtschaft/unternehmen/arcelormittal-stahlwerk-in-eisenhuettenstadt-schickt-teil-der-mitarbeiter-in-kurzarbeit-a-1defbeef-7cc8-40ba-8339-1ea7a0545a58#ref=rss)
-### bodo
+* [https://www.spiegel.de/sport/fussball/viel-bullshit-erzaehlt-robert-lewandowski-tritt-gegen-bayern-fuehrung-nach](https://www.spiegel.de/sport/fussball/viel-bullshit-erzaehlt-robert-lewandowski-tritt-gegen-bayern-fuehrung-nach-a-43e65c62-de93-42d3-a3e0-eda7d34cd020#ref=rss)
+### papst
 
-* [https://www.spiegel.de/politik/deutschland/bodo-ramelow-uebernimmt-geschaefte-des-bundespraesidenten](https://www.spiegel.de/politik/deutschland/bodo-ramelow-uebernimmt-geschaefte-des-bundespraesidenten-a-b369a5db-f678-4070-803b-c21c907239f1#ref=rss)
-### ramelow
+* [https://www.spiegel.de/panorama/papst-franziskus-haelt-sich-ruecktritt-offen](https://www.spiegel.de/panorama/papst-franziskus-haelt-sich-ruecktritt-offen-a-b6eb4976-39fc-496a-8286-071156fb270c#ref=rss)
+### kanada
 
-* [https://www.spiegel.de/politik/deutschland/bodo-ramelow-uebernimmt-geschaefte-des-bundespraesidenten](https://www.spiegel.de/politik/deutschland/bodo-ramelow-uebernimmt-geschaefte-des-bundespraesidenten-a-b369a5db-f678-4070-803b-c21c907239f1#ref=rss)
-### macht
+* [https://www.spiegel.de/panorama/papst-franziskus-haelt-sich-ruecktritt-offen](https://www.spiegel.de/panorama/papst-franziskus-haelt-sich-ruecktritt-offen-a-b6eb4976-39fc-496a-8286-071156fb270c#ref=rss)
+### probleme
 
-* [https://www.spiegel.de/politik/deutschland/bodo-ramelow-uebernimmt-geschaefte-des-bundespraesidenten](https://www.spiegel.de/politik/deutschland/bodo-ramelow-uebernimmt-geschaefte-des-bundespraesidenten-a-b369a5db-f678-4070-803b-c21c907239f1#ref=rss)
-* [https://www.spiegel.de/kultur/musik/beyonce-und-ihr-neues-album-renaissance-ein-bass-der-sich-um-die-gebaermutter-zu-legen-scheint](https://www.spiegel.de/kultur/musik/beyonce-und-ihr-neues-album-renaissance-ein-bass-der-sich-um-die-gebaermutter-zu-legen-scheint-a-57ebbe4f-1e48-40ef-b189-21e3b5911329#ref=rss)
-### alexandra
+* [https://www.spiegel.de/panorama/papst-franziskus-haelt-sich-ruecktritt-offen](https://www.spiegel.de/panorama/papst-franziskus-haelt-sich-ruecktritt-offen-a-b6eb4976-39fc-496a-8286-071156fb270c#ref=rss)
+* [https://www.spiegel.de/familie/familie-wie-sage-ich-meinen-schwiegereltern-dass-sie-keinen-kontakt-mehr-zur-ex-meines-mannes-haben-sollten](https://www.spiegel.de/familie/familie-wie-sage-ich-meinen-schwiegereltern-dass-sie-keinen-kontakt-mehr-zur-ex-meines-mannes-haben-sollten-a-e67d33e8-8a6d-4a27-8ff2-a28fc7694bb8#ref=rss)
+### laax
 
-* [https://www.spiegel.de/sport/fussball/alexandra-popp-ist-vor-dem-em-finale-zu-spaessen-aufgelegt-mit-schnauzbart-zur-pk](https://www.spiegel.de/sport/fussball/alexandra-popp-ist-vor-dem-em-finale-zu-spaessen-aufgelegt-mit-schnauzbart-zur-pk-a-f174b0b0-6a98-4aa7-98b1-bb4ed733f9bf#ref=rss)
-### popp
+* [https://www.spiegel.de/reise/europa/laax-in-der-schweiz-familienurlaub-in-der-jugendherberge](https://www.spiegel.de/reise/europa/laax-in-der-schweiz-familienurlaub-in-der-jugendherberge-a-d3579061-be7c-4bbc-af9f-d41c5265be8e#ref=rss)
+### jugendherberge
 
-* [https://www.spiegel.de/sport/fussball/alexandra-popp-ist-vor-dem-em-finale-zu-spaessen-aufgelegt-mit-schnauzbart-zur-pk](https://www.spiegel.de/sport/fussball/alexandra-popp-ist-vor-dem-em-finale-zu-spaessen-aufgelegt-mit-schnauzbart-zur-pk-a-f174b0b0-6a98-4aa7-98b1-bb4ed733f9bf#ref=rss)
-### arcelormittal
+* [https://www.spiegel.de/reise/europa/laax-in-der-schweiz-familienurlaub-in-der-jugendherberge](https://www.spiegel.de/reise/europa/laax-in-der-schweiz-familienurlaub-in-der-jugendherberge-a-d3579061-be7c-4bbc-af9f-d41c5265be8e#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/arcelormittal-stahlwerk-in-eisenhuettenstadt-schickt-teil-der-mitarbeiter-in-kurzarbeit](https://www.spiegel.de/wirtschaft/unternehmen/arcelormittal-stahlwerk-in-eisenhuettenstadt-schickt-teil-der-mitarbeiter-in-kurzarbeit-a-1defbeef-7cc8-40ba-8339-1ea7a0545a58#ref=rss)
-### zoll
+* [https://www.spiegel.de/wissenschaft/natur/corona-pandemie-beauftragter-der-tu-muenchen-raet-zum-zweiten-booster-vor-der-wiesn](https://www.spiegel.de/wissenschaft/natur/corona-pandemie-beauftragter-der-tu-muenchen-raet-zum-zweiten-booster-vor-der-wiesn-a-cda738a1-5678-4fa0-b757-a21fb1f816ea#ref=rss)
+* [https://www.spiegel.de/familie/familie-wie-sage-ich-meinen-schwiegereltern-dass-sie-keinen-kontakt-mehr-zur-ex-meines-mannes-haben-sollten](https://www.spiegel.de/familie/familie-wie-sage-ich-meinen-schwiegereltern-dass-sie-keinen-kontakt-mehr-zur-ex-meines-mannes-haben-sollten-a-e67d33e8-8a6d-4a27-8ff2-a28fc7694bb8#ref=rss)
+### jason
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo](https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo-a-687bbfff-92d1-4a67-9d40-5c7aa1b675cb#ref=rss)
-### hufe
+* [https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung](https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung-a-046bc621-f9e0-4cfa-bf8f-ae2aecfc0781#ref=rss)
+### furman
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo](https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo-a-687bbfff-92d1-4a67-9d40-5c7aa1b675cb#ref=rss)
-### gebisse
+* [https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung](https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung-a-046bc621-f9e0-4cfa-bf8f-ae2aecfc0781#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo](https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo-a-687bbfff-92d1-4a67-9d40-5c7aa1b675cb#ref=rss)
-### gepäck
+* [https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung](https://www.spiegel.de/wirtschaft/wie-die-usa-die-inflation-in-europa-befeuern-oekonom-jason-furman-ueber-ursachen-der-teuerung-a-046bc621-f9e0-4cfa-bf8f-ae2aecfc0781#ref=rss)
+* [https://www.spiegel.de/familie/familie-wie-sage-ich-meinen-schwiegereltern-dass-sie-keinen-kontakt-mehr-zur-ex-meines-mannes-haben-sollten](https://www.spiegel.de/familie/familie-wie-sage-ich-meinen-schwiegereltern-dass-sie-keinen-kontakt-mehr-zur-ex-meines-mannes-haben-sollten-a-e67d33e8-8a6d-4a27-8ff2-a28fc7694bb8#ref=rss)
+### wasser
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo](https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo-a-687bbfff-92d1-4a67-9d40-5c7aa1b675cb#ref=rss)
-### togo
+* [https://www.spiegel.de/panorama/gesellschaft/schwimmen-warum-sich-auch-im-wasser-die-unterschiede-zwischen-deutschen-und-syrern-zeigen](https://www.spiegel.de/panorama/gesellschaft/schwimmen-warum-sich-auch-im-wasser-die-unterschiede-zwischen-deutschen-und-syrern-zeigen-a-3cb5402f-e36c-4350-a1be-9b2c8c8af897#ref=rss)
+### unterschiede
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo](https://www.spiegel.de/panorama/justiz/muenchen-zoll-findet-rinderhaut-hufe-und-gebisse-in-gepaeck-von-grossfamilie-aus-togo-a-687bbfff-92d1-4a67-9d40-5c7aa1b675cb#ref=rss)
-### rottweiler
+* [https://www.spiegel.de/panorama/gesellschaft/schwimmen-warum-sich-auch-im-wasser-die-unterschiede-zwischen-deutschen-und-syrern-zeigen](https://www.spiegel.de/panorama/gesellschaft/schwimmen-warum-sich-auch-im-wasser-die-unterschiede-zwischen-deutschen-und-syrern-zeigen-a-3cb5402f-e36c-4350-a1be-9b2c8c8af897#ref=rss)
+### syrern
 
-* [https://www.spiegel.de/panorama/justiz/dohna-bei-dresden-rottweiler-attackiert-helfer-und-wird-von-polizei-erschossen](https://www.spiegel.de/panorama/justiz/dohna-bei-dresden-rottweiler-attackiert-helfer-und-wird-von-polizei-erschossen-a-7501b13e-c9b3-43d6-a86d-edb6fde705bd#ref=rss)
-### norwegen
+* [https://www.spiegel.de/panorama/gesellschaft/schwimmen-warum-sich-auch-im-wasser-die-unterschiede-zwischen-deutschen-und-syrern-zeigen](https://www.spiegel.de/panorama/gesellschaft/schwimmen-warum-sich-auch-im-wasser-die-unterschiede-zwischen-deutschen-und-syrern-zeigen-a-3cb5402f-e36c-4350-a1be-9b2c8c8af897#ref=rss)
+### zeigen
 
-* [https://www.spiegel.de/wirtschaft/norwegen-entschaerft-kennzeichnung-von-retuschierten-bildern](https://www.spiegel.de/wirtschaft/norwegen-entschaerft-kennzeichnung-von-retuschierten-bildern-a-e0ac9749-9f55-411b-a6ab-770faaf3637d#ref=rss)
-### renaissance
+* [https://www.spiegel.de/panorama/gesellschaft/schwimmen-warum-sich-auch-im-wasser-die-unterschiede-zwischen-deutschen-und-syrern-zeigen](https://www.spiegel.de/panorama/gesellschaft/schwimmen-warum-sich-auch-im-wasser-die-unterschiede-zwischen-deutschen-und-syrern-zeigen-a-3cb5402f-e36c-4350-a1be-9b2c8c8af897#ref=rss)
+### neue
 
-* [https://www.spiegel.de/kultur/musik/beyonce-und-ihr-neues-album-renaissance-ein-bass-der-sich-um-die-gebaermutter-zu-legen-scheint](https://www.spiegel.de/kultur/musik/beyonce-und-ihr-neues-album-renaissance-ein-bass-der-sich-um-die-gebaermutter-zu-legen-scheint-a-57ebbe4f-1e48-40ef-b189-21e3b5911329#ref=rss)
-### shakira
+* [https://www.spiegel.de/familie/familie-wie-sage-ich-meinen-schwiegereltern-dass-sie-keinen-kontakt-mehr-zur-ex-meines-mannes-haben-sollten](https://www.spiegel.de/familie/familie-wie-sage-ich-meinen-schwiegereltern-dass-sie-keinen-kontakt-mehr-zur-ex-meines-mannes-haben-sollten-a-e67d33e8-8a6d-4a27-8ff2-a28fc7694bb8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ottweiler-im-saarland-zwei-tote-und-ein-verletzter-bei-streit-um-wohnung](https://www.spiegel.de/panorama/justiz/ottweiler-im-saarland-zwei-tote-und-ein-verletzter-bei-streit-um-wohnung-a-856cdb76-cff4-4234-8569-e0604b325daf#ref=rss)
+### elon
 
-* [https://www.spiegel.de/panorama/justiz/shakira-spanische-staatsanwaltschaft-fordert-mehr-als-acht-jahre-haft-wegen-steuerbetrugs](https://www.spiegel.de/panorama/justiz/shakira-spanische-staatsanwaltschaft-fordert-mehr-als-acht-jahre-haft-wegen-steuerbetrugs-a-239a4e1b-048b-4b25-a48c-603bb9171a43#ref=rss)
-### instagram
+* [https://www.spiegel.de/wirtschaft/elon-musk-reicht-gegenklage-gegen-twitter-ein](https://www.spiegel.de/wirtschaft/elon-musk-reicht-gegenklage-gegen-twitter-ein-a-c3a6651a-ee99-438f-ab93-77eea882a7ce#ref=rss)
+### musk
 
-* [https://www.spiegel.de/netzwelt/apps/meta-instagram-laesst-neues-update-wieder-auslaufen](https://www.spiegel.de/netzwelt/apps/meta-instagram-laesst-neues-update-wieder-auslaufen-a-ddb407a7-99d0-4a6e-a4db-da523e1ba550#ref=rss)
-### update
+* [https://www.spiegel.de/wirtschaft/elon-musk-reicht-gegenklage-gegen-twitter-ein](https://www.spiegel.de/wirtschaft/elon-musk-reicht-gegenklage-gegen-twitter-ein-a-c3a6651a-ee99-438f-ab93-77eea882a7ce#ref=rss)
+### gegenklage
 
-* [https://www.spiegel.de/netzwelt/apps/meta-instagram-laesst-neues-update-wieder-auslaufen](https://www.spiegel.de/netzwelt/apps/meta-instagram-laesst-neues-update-wieder-auslaufen-a-ddb407a7-99d0-4a6e-a4db-da523e1ba550#ref=rss)
+* [https://www.spiegel.de/wirtschaft/elon-musk-reicht-gegenklage-gegen-twitter-ein](https://www.spiegel.de/wirtschaft/elon-musk-reicht-gegenklage-gegen-twitter-ein-a-c3a6651a-ee99-438f-ab93-77eea882a7ce#ref=rss)
+### twitter
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-reicht-gegenklage-gegen-twitter-ein](https://www.spiegel.de/wirtschaft/elon-musk-reicht-gegenklage-gegen-twitter-ein-a-c3a6651a-ee99-438f-ab93-77eea882a7ce#ref=rss)
+### streit
+
+* [https://www.spiegel.de/wirtschaft/elon-musk-reicht-gegenklage-gegen-twitter-ein](https://www.spiegel.de/wirtschaft/elon-musk-reicht-gegenklage-gegen-twitter-ein-a-c3a6651a-ee99-438f-ab93-77eea882a7ce#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ottweiler-im-saarland-zwei-tote-und-ein-verletzter-bei-streit-um-wohnung](https://www.spiegel.de/panorama/justiz/ottweiler-im-saarland-zwei-tote-und-ein-verletzter-bei-streit-um-wohnung-a-856cdb76-cff4-4234-8569-e0604b325daf#ref=rss)
+### waffen
+
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-waffen-im-ukrainekrieg-personalmangel-atomkraft-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-waffen-im-ukrainekrieg-personalmangel-atomkraft-podcast-a-a58c2380-8b01-453e-844b-c37199ae4d6e#ref=rss)
+* [https://www.spiegel.de/ausland/waffengesetze-in-den-usa-repraesentantenhaus-stimmt-fuer-verbot-halbautomatischer-waffen](https://www.spiegel.de/ausland/waffengesetze-in-den-usa-repraesentantenhaus-stimmt-fuer-verbot-halbautomatischer-waffen-a-a69cd9cc-5ab1-42a9-9a8f-46b8bc8b4112#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-vergeltung-an](https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-kuendigt-vergeltung-an-a-b8f9be7c-0d26-4763-aeec-054cc0271797#ref=rss)
+### belgien
+
+* [https://www.spiegel.de/reise/belgien-thalys-kollidiert-mit-tier-tausende-fahrgaeste-gestrandet](https://www.spiegel.de/reise/belgien-thalys-kollidiert-mit-tier-tausende-fahrgaeste-gestrandet-a-7ffaea2e-b8ce-4954-b4c6-d4f2704e2ae2#ref=rss)
+### tier
+
+* [https://www.spiegel.de/reise/belgien-thalys-kollidiert-mit-tier-tausende-fahrgaeste-gestrandet](https://www.spiegel.de/reise/belgien-thalys-kollidiert-mit-tier-tausende-fahrgaeste-gestrandet-a-7ffaea2e-b8ce-4954-b4c6-d4f2704e2ae2#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/panorama/suedafrika-acht-frauen-bei-videodreh-vergewaltigt](https://www.spiegel.de/panorama/suedafrika-acht-frauen-bei-videodreh-vergewaltigt-a-29cad1fd-7c33-4557-96a9-2c793c22c1d2#ref=rss)
+### vergewaltigt
+
+* [https://www.spiegel.de/panorama/suedafrika-acht-frauen-bei-videodreh-vergewaltigt](https://www.spiegel.de/panorama/suedafrika-acht-frauen-bei-videodreh-vergewaltigt-a-29cad1fd-7c33-4557-96a9-2c793c22c1d2#ref=rss)
+### repräsentantenhaus
+
+* [https://www.spiegel.de/ausland/waffengesetze-in-den-usa-repraesentantenhaus-stimmt-fuer-verbot-halbautomatischer-waffen](https://www.spiegel.de/ausland/waffengesetze-in-den-usa-repraesentantenhaus-stimmt-fuer-verbot-halbautomatischer-waffen-a-a69cd9cc-5ab1-42a9-9a8f-46b8bc8b4112#ref=rss)
+### verbot
+
+* [https://www.spiegel.de/ausland/waffengesetze-in-den-usa-repraesentantenhaus-stimmt-fuer-verbot-halbautomatischer-waffen](https://www.spiegel.de/ausland/waffengesetze-in-den-usa-repraesentantenhaus-stimmt-fuer-verbot-halbautomatischer-waffen-a-a69cd9cc-5ab1-42a9-9a8f-46b8bc8b4112#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/gesundheit/spanien-meldet-ersten-todesfall-durch-affenpocken](https://www.spiegel.de/gesundheit/spanien-meldet-ersten-todesfall-durch-affenpocken-a-e5bd1f23-1fec-4db7-81d6-adb52cf67b31#ref=rss)
+### russischer
+
+* [https://www.spiegel.de/ausland/russland-usa-russischer-staatsbuerger-soll-us-wahlen-beeinflusst-haben](https://www.spiegel.de/ausland/russland-usa-russischer-staatsbuerger-soll-us-wahlen-beeinflusst-haben-a-4b654e29-291e-44a1-91c8-3a283fe5a2ce#ref=rss)
+### edin
+
+* [https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen](https://www.spiegel.de/sport/fussball/dortmund-dominiert-gegen-muenchner-loewen-a-abf716be-1161-4173-a8b2-41146e5c28bb#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/panorama/justiz/hessen-lka-durchsucht-wegen-chatgruppen-inhalten-wohnungen-von-fuenf-polizisten](https://www.spiegel.de/panorama/justiz/hessen-lka-durchsucht-wegen-chatgruppen-inhalten-wohnungen-von-fuenf-polizisten-a-59d94ec5-c8eb-40b2-b62f-059c8e38e094#ref=rss)
+### wohnung
+
+* [https://www.spiegel.de/panorama/justiz/ottweiler-im-saarland-zwei-tote-und-ein-verletzter-bei-streit-um-wohnung](https://www.spiegel.de/panorama/justiz/ottweiler-im-saarland-zwei-tote-und-ein-verletzter-bei-streit-um-wohnung-a-856cdb76-cff4-4234-8569-e0604b325daf#ref=rss)
 
