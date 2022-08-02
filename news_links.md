@@ -4,272 +4,367 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### taiwan
+### mann
 
-* [https://www.spiegel.de/ausland/annalena-baerbock-verspricht-taiwan-unterstuetzung-bei-moeglichem-ueberfall-durch-china](https://www.spiegel.de/ausland/annalena-baerbock-verspricht-taiwan-unterstuetzung-bei-moeglichem-ueberfall-durch-china-a-bd14bf74-dddd-4eab-9c09-f7c6d4bc2c4a#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik-a-ef0c7c2e-d69b-4fa3-ace4-01889d20add5#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen](https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen-a-5e541962-b4e0-417b-969d-225c83b3cfa1#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/service/energiekrise-kompletter-verzicht-auf-gas-in-stromerzeugung-laut-wirtschaftsministerium-nicht-moeglich](https://www.spiegel.de/wirtschaft/service/energiekrise-kompletter-verzicht-auf-gas-in-stromerzeugung-laut-wirtschaftsministerium-nicht-moeglich-a-e366bdbf-f9d0-444b-8690-8b92152c9a65#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik-a-ef0c7c2e-d69b-4fa3-ace4-01889d20add5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/verbliebene-deutsche-kernkraftwerke-zuspruch-fuer-akw-laufzeitverlaengerung-unter-gruenen-anhaengern-spiegel-umfrage](https://www.spiegel.de/politik/deutschland/verbliebene-deutsche-kernkraftwerke-zuspruch-fuer-akw-laufzeitverlaengerung-unter-gruenen-anhaengern-spiegel-umfrage-a-79d72f98-c97c-41c8-9807-07627183487d#ref=rss)
-* [https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation](https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation-a-e0f1a79c-a06e-46de-88dc-b7013c118b65#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-verspricht-taiwan-unterstuetzung-bei-moeglichem-ueberfall-durch-china](https://www.spiegel.de/ausland/annalena-baerbock-verspricht-taiwan-unterstuetzung-bei-moeglichem-ueberfall-durch-china-a-bd14bf74-dddd-4eab-9c09-f7c6d4bc2c4a#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik-a-ef0c7c2e-d69b-4fa3-ace4-01889d20add5#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen](https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen-a-5e541962-b4e0-417b-969d-225c83b3cfa1#ref=rss)
-### nancy
-
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik-a-ef0c7c2e-d69b-4fa3-ace4-01889d20add5#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen](https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen-a-5e541962-b4e0-417b-969d-225c83b3cfa1#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/wissenschaft/medizin/affenpocken-zwei-kinder-in-deutschland-infiziert](https://www.spiegel.de/wissenschaft/medizin/affenpocken-zwei-kinder-in-deutschland-infiziert-a-0b36142e-fbd4-441d-b4ce-039d4b17409a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/goldpreis-steigt-weiter](https://www.spiegel.de/wirtschaft/goldpreis-steigt-weiter-a-9edae239-a230-45ab-ab04-52fb36aeb49c#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bts-k-pop-band-aus-suedkorea-darf-auch-waehrend-des-wehrdienstes-im-ausland-auftreten](https://www.spiegel.de/kultur/musik/bts-k-pop-band-aus-suedkorea-darf-auch-waehrend-des-wehrdienstes-im-ausland-auftreten-a-1a6cecee-205d-48f3-8b41-904110ead96c#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-team-feiert-in-frankfurt-das-ist-unglaublich](https://www.spiegel.de/sport/fussball/fussball-dfb-team-feiert-in-frankfurt-das-ist-unglaublich-a-17ea0d61-a9d9-436d-a00b-62180d1f61c8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2022-fans-feiern-dfb-team-in-frankfurt-livestream](https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2022-fans-feiern-dfb-team-in-frankfurt-livestream-a-e03ad270-da61-40eb-853c-2d9beb8d0efc#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/energiewende-flugsicherung-macht-platz-fuer-mehr-windkraftraeder](https://www.spiegel.de/wirtschaft/energiewende-flugsicherung-macht-platz-fuer-mehr-windkraftraeder-a-86fde0ff-01e3-4f16-840d-3ef4a132a811#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/verdi-deutlich-mehr-lohn-fuer-bodenpersonal-an-mehreren-flughaefen](https://www.spiegel.de/wirtschaft/unternehmen/verdi-deutlich-mehr-lohn-fuer-bodenpersonal-an-mehreren-flughaefen-a-7dcbb6f1-e2af-4f44-ad0a-adc0537b57ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/verbraucherschutz-30-prozent-mehr-anfragen-an-netzagentur-wegen-steigender-energiepreise](https://www.spiegel.de/wirtschaft/service/verbraucherschutz-30-prozent-mehr-anfragen-an-netzagentur-wegen-steigender-energiepreise-a-519a2fdd-9f77-408b-b35b-c4cba9edb65c#ref=rss)
-### pelosi
-
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik-a-ef0c7c2e-d69b-4fa3-ace4-01889d20add5#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen](https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen-a-5e541962-b4e0-417b-969d-225c83b3cfa1#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik-a-ef0c7c2e-d69b-4fa3-ace4-01889d20add5#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen](https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen-a-5e541962-b4e0-417b-969d-225c83b3cfa1#ref=rss)
-* [https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation](https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation-a-e0f1a79c-a06e-46de-88dc-b7013c118b65#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/auch-kalifornien-verhaengt-notstand-wegen-affenpocken](https://www.spiegel.de/wissenschaft/medizin/auch-kalifornien-verhaengt-notstand-wegen-affenpocken-a-99aa48b8-711e-460a-a0ee-cbd540cfc64e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-polizei-verletzt-jungen-mann-toedlich](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-polizei-verletzt-jungen-mann-toedlich-a-216ee74c-758b-4872-bcb9-8b41d1943ab5#ref=rss)
+* [https://www.spiegel.de/panorama/lotto-brandenburg-findet-millionengewinner](https://www.spiegel.de/panorama/lotto-brandenburg-findet-millionengewinner-a-34807670-195a-4eed-9558-97095ff700f2#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/winnyzja-ukraine-als-der-krieg-zu-mir-nach-hause-kam](https://www.spiegel.de/ausland/winnyzja-ukraine-als-der-krieg-zu-mir-nach-hause-kam-a-b8cda2e3-0279-4378-88ba-78cd0c1c880b#ref=rss)
-* [https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht](https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht-a-d1b5d41a-a34d-45a3-b4e5-bc18009831bb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-atomkraft-ukraine-documenta](https://www.spiegel.de/politik/deutschland/news-des-tages-atomkraft-ukraine-documenta-a-2f5e1ed0-6208-44ef-b83e-9201a7204c29#ref=rss)
-### jahre
+* [https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-frachtschiff-razoni-erreicht-istanbul-deutlich-spaeter-als-geplant](https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-frachtschiff-razoni-erreicht-istanbul-deutlich-spaeter-als-geplant-a-de60d572-0ce7-4cb2-86fc-24ba30648ff2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-heeresinspekteur-alfons-mais-rechnet-nicht-mit-schnellem-kriegsende](https://www.spiegel.de/politik/deutschland/ukraine-heeresinspekteur-alfons-mais-rechnet-nicht-mit-schnellem-kriegsende-a-ec4916a0-c9a8-47ed-8584-ecbdb0799e98#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende](https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende-a-e5bec401-2b97-4c12-8402-d64ce07a56a8#ref=rss)
+### joe
 
-* [https://www.spiegel.de/panorama/justiz/freiburg-getoetete-ayleen-29-jaehriger-soll-schuelerin-ermordet-haben](https://www.spiegel.de/panorama/justiz/freiburg-getoetete-ayleen-29-jaehriger-soll-schuelerin-ermordet-haben-a-dc574b08-14e0-4128-b33b-dc6c408800b7#ref=rss)
-* [https://www.spiegel.de/kultur/musik/bts-k-pop-band-aus-suedkorea-darf-auch-waehrend-des-wehrdienstes-im-ausland-auftreten](https://www.spiegel.de/kultur/musik/bts-k-pop-band-aus-suedkorea-darf-auch-waehrend-des-wehrdienstes-im-ausland-auftreten-a-1a6cecee-205d-48f3-8b41-904110ead96c#ref=rss)
-* [https://www.spiegel.de/kultur/tv/joachim-jauer-gestorben-beim-zdf-als-ddr-korrespondent-und-kennzeichen-d-reporter](https://www.spiegel.de/kultur/tv/joachim-jauer-gestorben-beim-zdf-als-ddr-korrespondent-und-kennzeichen-d-reporter-a-fd50f0c3-5890-48cd-bac4-7bd216b8fd26#ref=rss)
-### dfbteam
+* [https://www.spiegel.de/wissenschaft/klimaschutz-paket-von-joe-biden-in-den-usa-das-ist-wirklich-eine-grosse-sache](https://www.spiegel.de/wissenschaft/klimaschutz-paket-von-joe-biden-in-den-usa-das-ist-wirklich-eine-grosse-sache-a-f6b42124-119f-4312-b16b-39a6d39f2977#ref=rss)
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs-a-b309d623-448d-47b4-a06d-87b12538d801#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-team-feiert-in-frankfurt-das-ist-unglaublich](https://www.spiegel.de/sport/fussball/fussball-dfb-team-feiert-in-frankfurt-das-ist-unglaublich-a-17ea0d61-a9d9-436d-a00b-62180d1f61c8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2022-fans-feiern-dfb-team-in-frankfurt-livestream](https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2022-fans-feiern-dfb-team-in-frankfurt-livestream-a-e03ad270-da61-40eb-853c-2d9beb8d0efc#ref=rss)
-### fans
+* [https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow](https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow-a-b9637baa-7f60-485a-8b16-fa907366db82#ref=rss)
+* [https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie](https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie-a-20281f27-e369-47c8-9ef4-34f541272316#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal](https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal-a-bc8a33fb-f6d2-46a9-a9ce-559a8d6e0a1c#ref=rss)
+* [https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich](https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich-a-f3497ef9-7fc5-4a4c-8fa1-ec5d7a45ec06#ref=rss)
+### aiman
 
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-team-feiert-in-frankfurt-das-ist-unglaublich](https://www.spiegel.de/sport/fussball/fussball-dfb-team-feiert-in-frankfurt-das-ist-unglaublich-a-17ea0d61-a9d9-436d-a00b-62180d1f61c8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2022-fans-feiern-dfb-team-in-frankfurt-livestream](https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2022-fans-feiern-dfb-team-in-frankfurt-livestream-a-e03ad270-da61-40eb-853c-2d9beb8d0efc#ref=rss)
-### zurück
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs-a-b309d623-448d-47b4-a06d-87b12538d801#ref=rss)
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs-a-a0271073-b948-4093-b539-b4c13e0fd2c3#ref=rss)
+### alsawahiri
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker-a-a0b3b15f-5fcc-4cf8-9e30-1432a4a9c417#ref=rss)
-* [https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation](https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation-a-e0f1a79c-a06e-46de-88dc-b7013c118b65#ref=rss)
-### baerbock
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs-a-b309d623-448d-47b4-a06d-87b12538d801#ref=rss)
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs-a-a0271073-b948-4093-b539-b4c13e0fd2c3#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/annalena-baerbock-verspricht-taiwan-unterstuetzung-bei-moeglichem-ueberfall-durch-china](https://www.spiegel.de/ausland/annalena-baerbock-verspricht-taiwan-unterstuetzung-bei-moeglichem-ueberfall-durch-china-a-bd14bf74-dddd-4eab-9c09-f7c6d4bc2c4a#ref=rss)
+* [https://www.spiegel.de/psychologie/aufraeumen-nach-marie-kondo-was-passierte-nachdem-ich-meinen-rucksack-entsorgte](https://www.spiegel.de/psychologie/aufraeumen-nach-marie-kondo-was-passierte-nachdem-ich-meinen-rucksack-entsorgte-a-9ebf3b00-c791-4646-8cef-e8c85f7b9290#ref=rss)
+* [https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich](https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich-a-f3497ef9-7fc5-4a4c-8fa1-ec5d7a45ec06#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/ausland/annalena-baerbock-verspricht-taiwan-unterstuetzung-bei-moeglichem-ueberfall-durch-china](https://www.spiegel.de/ausland/annalena-baerbock-verspricht-taiwan-unterstuetzung-bei-moeglichem-ueberfall-durch-china-a-bd14bf74-dddd-4eab-9c09-f7c6d4bc2c4a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/affenpocken-zwei-kinder-in-deutschland-infiziert](https://www.spiegel.de/wissenschaft/medizin/affenpocken-zwei-kinder-in-deutschland-infiziert-a-0b36142e-fbd4-441d-b4ce-039d4b17409a#ref=rss)
-### russland
+* [https://www.spiegel.de/wissenschaft/medizin/auch-kalifornien-verhaengt-notstand-wegen-affenpocken](https://www.spiegel.de/wissenschaft/medizin/auch-kalifornien-verhaengt-notstand-wegen-affenpocken-a-99aa48b8-711e-460a-a0ee-cbd540cfc64e#ref=rss)
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs-a-a0271073-b948-4093-b539-b4c13e0fd2c3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/notfallplan-zum-energiesparen-spanien-muss-fuer-deutschlands-fehler-schwitzen](https://www.spiegel.de/wirtschaft/unternehmen/notfallplan-zum-energiesparen-spanien-muss-fuer-deutschlands-fehler-schwitzen-a-386a9ef5-8b2d-4b77-92be-642a44ce45e6#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/annalena-baerbock-verspricht-taiwan-unterstuetzung-bei-moeglichem-ueberfall-durch-china](https://www.spiegel.de/ausland/annalena-baerbock-verspricht-taiwan-unterstuetzung-bei-moeglichem-ueberfall-durch-china-a-bd14bf74-dddd-4eab-9c09-f7c6d4bc2c4a#ref=rss)
-* [https://www.spiegel.de/ausland/uno-konferenz-zum-atomwaffensperrvertrag-joe-biden-will-mit-russland-neu-verhandeln](https://www.spiegel.de/ausland/uno-konferenz-zum-atomwaffensperrvertrag-joe-biden-will-mit-russland-neu-verhandeln-a-e10db405-a5ca-4c8f-8a9b-17a49b7a91db#ref=rss)
-### unokonferenz
+* [https://www.spiegel.de/wirtschaft/unternehmen/pendlerpauschale-geringverdiener-fahren-am-weitesten-zur-arbeit](https://www.spiegel.de/wirtschaft/unternehmen/pendlerpauschale-geringverdiener-fahren-am-weitesten-zur-arbeit-a-87f006de-9c98-41f9-ac3d-7b01de1c2e07#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr](https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr-a-a7f04468-9637-4e19-86e6-cb5db89cbc77#ref=rss)
+* [https://www.spiegel.de/panorama/lotto-brandenburg-findet-millionengewinner](https://www.spiegel.de/panorama/lotto-brandenburg-findet-millionengewinner-a-34807670-195a-4eed-9558-97095ff700f2#ref=rss)
+### fast
 
-* [https://www.spiegel.de/ausland/annalena-baerbock-verspricht-taiwan-unterstuetzung-bei-moeglichem-ueberfall-durch-china](https://www.spiegel.de/ausland/annalena-baerbock-verspricht-taiwan-unterstuetzung-bei-moeglichem-ueberfall-durch-china-a-bd14bf74-dddd-4eab-9c09-f7c6d4bc2c4a#ref=rss)
-* [https://www.spiegel.de/ausland/uno-konferenz-zum-atomwaffensperrvertrag-joe-biden-will-mit-russland-neu-verhandeln](https://www.spiegel.de/ausland/uno-konferenz-zum-atomwaffensperrvertrag-joe-biden-will-mit-russland-neu-verhandeln-a-e10db405-a5ca-4c8f-8a9b-17a49b7a91db#ref=rss)
-### energiekrise
+* [https://www.spiegel.de/netzwelt/web/chinesische-influencerin-grillt-weissen-hai-nun-droht-ihr-eine-freiheitsstrafe](https://www.spiegel.de/netzwelt/web/chinesische-influencerin-grillt-weissen-hai-nun-droht-ihr-eine-freiheitsstrafe-a-1e7e08ee-d895-451d-80fa-309a82de5d87#ref=rss)
+* [https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie](https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie-a-20281f27-e369-47c8-9ef4-34f541272316#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal](https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal-a-bc8a33fb-f6d2-46a9-a9ce-559a8d6e0a1c#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/wirtschaft/service/energiekrise-kompletter-verzicht-auf-gas-in-stromerzeugung-laut-wirtschaftsministerium-nicht-moeglich](https://www.spiegel.de/wirtschaft/service/energiekrise-kompletter-verzicht-auf-gas-in-stromerzeugung-laut-wirtschaftsministerium-nicht-moeglich-a-e366bdbf-f9d0-444b-8690-8b92152c9a65#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-atomkraft-ukraine-documenta](https://www.spiegel.de/politik/deutschland/news-des-tages-atomkraft-ukraine-documenta-a-2f5e1ed0-6208-44ef-b83e-9201a7204c29#ref=rss)
-### gas
+* [https://www.spiegel.de/netzwelt/web/chinesische-influencerin-grillt-weissen-hai-nun-droht-ihr-eine-freiheitsstrafe](https://www.spiegel.de/netzwelt/web/chinesische-influencerin-grillt-weissen-hai-nun-droht-ihr-eine-freiheitsstrafe-a-1e7e08ee-d895-451d-80fa-309a82de5d87#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-polizei-verletzt-jungen-mann-toedlich](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-polizei-verletzt-jungen-mann-toedlich-a-216ee74c-758b-4872-bcb9-8b41d1943ab5#ref=rss)
+### wäre
 
-* [https://www.spiegel.de/wirtschaft/service/energiekrise-kompletter-verzicht-auf-gas-in-stromerzeugung-laut-wirtschaftsministerium-nicht-moeglich](https://www.spiegel.de/wirtschaft/service/energiekrise-kompletter-verzicht-auf-gas-in-stromerzeugung-laut-wirtschaftsministerium-nicht-moeglich-a-e366bdbf-f9d0-444b-8690-8b92152c9a65#ref=rss)
-### woche
-
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik-a-ef0c7c2e-d69b-4fa3-ace4-01889d20add5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gericht-entscheidet-martin-kind-darf-als-geschaeftsfuehrer-von-hannover-96-weitermachen](https://www.spiegel.de/sport/fussball/gericht-entscheidet-martin-kind-darf-als-geschaeftsfuehrer-von-hannover-96-weitermachen-a-0bc2515b-c6b9-47c6-a41b-23d943b548fa#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-eine-frontlinie-der-aktuellen-weltpolitik-a-ef0c7c2e-d69b-4fa3-ace4-01889d20add5#ref=rss)
-* [https://www.spiegel.de/sport/golf-luke-donald-fuehrt-team-europe-an](https://www.spiegel.de/sport/golf-luke-donald-fuehrt-team-europe-an-a-c6a5b66b-9a3c-42be-8ede-07b49270bd21#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/deutschland/verbliebene-deutsche-kernkraftwerke-zuspruch-fuer-akw-laufzeitverlaengerung-unter-gruenen-anhaengern-spiegel-umfrage](https://www.spiegel.de/politik/deutschland/verbliebene-deutsche-kernkraftwerke-zuspruch-fuer-akw-laufzeitverlaengerung-unter-gruenen-anhaengern-spiegel-umfrage-a-79d72f98-c97c-41c8-9807-07627183487d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/affenpocken-zwei-kinder-in-deutschland-infiziert](https://www.spiegel.de/wissenschaft/medizin/affenpocken-zwei-kinder-in-deutschland-infiziert-a-0b36142e-fbd4-441d-b4ce-039d4b17409a#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/verbliebene-deutsche-kernkraftwerke-zuspruch-fuer-akw-laufzeitverlaengerung-unter-gruenen-anhaengern-spiegel-umfrage](https://www.spiegel.de/politik/deutschland/verbliebene-deutsche-kernkraftwerke-zuspruch-fuer-akw-laufzeitverlaengerung-unter-gruenen-anhaengern-spiegel-umfrage-a-79d72f98-c97c-41c8-9807-07627183487d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-atomkraft-ukraine-documenta](https://www.spiegel.de/politik/deutschland/news-des-tages-atomkraft-ukraine-documenta-a-2f5e1ed0-6208-44ef-b83e-9201a7204c29#ref=rss)
-### positiv
-
-* [https://www.spiegel.de/politik/deutschland/verbliebene-deutsche-kernkraftwerke-zuspruch-fuer-akw-laufzeitverlaengerung-unter-gruenen-anhaengern-spiegel-umfrage](https://www.spiegel.de/politik/deutschland/verbliebene-deutsche-kernkraftwerke-zuspruch-fuer-akw-laufzeitverlaengerung-unter-gruenen-anhaengern-spiegel-umfrage-a-79d72f98-c97c-41c8-9807-07627183487d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/goldpreis-steigt-weiter](https://www.spiegel.de/wirtschaft/goldpreis-steigt-weiter-a-9edae239-a230-45ab-ab04-52fb36aeb49c#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/politik/deutschland/verbliebene-deutsche-kernkraftwerke-zuspruch-fuer-akw-laufzeitverlaengerung-unter-gruenen-anhaengern-spiegel-umfrage](https://www.spiegel.de/politik/deutschland/verbliebene-deutsche-kernkraftwerke-zuspruch-fuer-akw-laufzeitverlaengerung-unter-gruenen-anhaengern-spiegel-umfrage-a-79d72f98-c97c-41c8-9807-07627183487d#ref=rss)
-* [https://www.spiegel.de/sport/golf-luke-donald-fuehrt-team-europe-an](https://www.spiegel.de/sport/golf-luke-donald-fuehrt-team-europe-an-a-c6a5b66b-9a3c-42be-8ede-07b49270bd21#ref=rss)
-### mir
-
-* [https://www.spiegel.de/ausland/winnyzja-ukraine-als-der-krieg-zu-mir-nach-hause-kam](https://www.spiegel.de/ausland/winnyzja-ukraine-als-der-krieg-zu-mir-nach-hause-kam-a-b8cda2e3-0279-4378-88ba-78cd0c1c880b#ref=rss)
-* [https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht](https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht-a-d1b5d41a-a34d-45a3-b4e5-bc18009831bb#ref=rss)
-### per
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/waitrose-supermarktkette-in-grossbritannien-schafft-mindesthaltbarkeitsdatum-ab](https://www.spiegel.de/wirtschaft/unternehmen/waitrose-supermarktkette-in-grossbritannien-schafft-mindesthaltbarkeitsdatum-ab-a-c2fe9433-fd80-49ed-bdb8-b59873138508#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-testet-nutzung-kostenfreier-toiletten](https://www.spiegel.de/panorama/berlin-testet-nutzung-kostenfreier-toiletten-a-27edffa8-16a7-431a-906b-ca235c6f95dc#ref=rss)
-### schülerin
-
-* [https://www.spiegel.de/panorama/justiz/freiburg-getoetete-ayleen-29-jaehriger-soll-schuelerin-ermordet-haben](https://www.spiegel.de/panorama/justiz/freiburg-getoetete-ayleen-29-jaehriger-soll-schuelerin-ermordet-haben-a-dc574b08-14e0-4128-b33b-dc6c408800b7#ref=rss)
-### fest
-
-* [https://www.spiegel.de/panorama/justiz/freiburg-getoetete-ayleen-29-jaehriger-soll-schuelerin-ermordet-haben](https://www.spiegel.de/panorama/justiz/freiburg-getoetete-ayleen-29-jaehriger-soll-schuelerin-ermordet-haben-a-dc574b08-14e0-4128-b33b-dc6c408800b7#ref=rss)
-* [https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht](https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht-a-d1b5d41a-a34d-45a3-b4e5-bc18009831bb#ref=rss)
-### affenpocken
-
-* [https://www.spiegel.de/wissenschaft/medizin/affenpocken-zwei-kinder-in-deutschland-infiziert](https://www.spiegel.de/wissenschaft/medizin/affenpocken-zwei-kinder-in-deutschland-infiziert-a-0b36142e-fbd4-441d-b4ce-039d4b17409a#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/wissenschaft/medizin/affenpocken-zwei-kinder-in-deutschland-infiziert](https://www.spiegel.de/wissenschaft/medizin/affenpocken-zwei-kinder-in-deutschland-infiziert-a-0b36142e-fbd4-441d-b4ce-039d4b17409a#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-testet-nutzung-kostenfreier-toiletten](https://www.spiegel.de/panorama/berlin-testet-nutzung-kostenfreier-toiletten-a-27edffa8-16a7-431a-906b-ca235c6f95dc#ref=rss)
-### einzige
-
-* [https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht](https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht-a-d1b5d41a-a34d-45a3-b4e5-bc18009831bb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/lovescammer-und-ihre-tricks-sie-muss-glauben-dass-du-der-einzige-bist-den-sie-hat](https://www.spiegel.de/panorama/justiz/lovescammer-und-ihre-tricks-sie-muss-glauben-dass-du-der-einzige-bist-den-sie-hat-a-28e27fa1-9623-4509-8b24-fa515e943c91#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht](https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht-a-d1b5d41a-a34d-45a3-b4e5-bc18009831bb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiewende-flugsicherung-macht-platz-fuer-mehr-windkraftraeder](https://www.spiegel.de/wirtschaft/energiewende-flugsicherung-macht-platz-fuer-mehr-windkraftraeder-a-86fde0ff-01e3-4f16-840d-3ef4a132a811#ref=rss)
-### getreidefrachter
-
-* [https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht](https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht-a-d1b5d41a-a34d-45a3-b4e5-bc18009831bb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-atomkraft-ukraine-documenta](https://www.spiegel.de/politik/deutschland/news-des-tages-atomkraft-ukraine-documenta-a-2f5e1ed0-6208-44ef-b83e-9201a7204c29#ref=rss)
-### hafen
-
-* [https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht](https://www.spiegel.de/ausland/razoni-seemann-im-video-die-minen-sind-das-einzige-was-mir-sorgen-macht-a-d1b5d41a-a34d-45a3-b4e5-bc18009831bb#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/justiz/lovescammer-und-ihre-tricks-sie-muss-glauben-dass-du-der-einzige-bist-den-sie-hat](https://www.spiegel.de/panorama/justiz/lovescammer-und-ihre-tricks-sie-muss-glauben-dass-du-der-einzige-bist-den-sie-hat-a-28e27fa1-9623-4509-8b24-fa515e943c91#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2022-fans-feiern-dfb-team-in-frankfurt-livestream](https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2022-fans-feiern-dfb-team-in-frankfurt-livestream-a-e03ad270-da61-40eb-853c-2d9beb8d0efc#ref=rss)
-### atomwaffensperrvertrag
-
-* [https://www.spiegel.de/ausland/uno-konferenz-zum-atomwaffensperrvertrag-joe-biden-will-mit-russland-neu-verhandeln](https://www.spiegel.de/ausland/uno-konferenz-zum-atomwaffensperrvertrag-joe-biden-will-mit-russland-neu-verhandeln-a-e10db405-a5ca-4c8f-8a9b-17a49b7a91db#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr](https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr-a-a7f04468-9637-4e19-86e6-cb5db89cbc77#ref=rss)
+* [https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie](https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie-a-20281f27-e369-47c8-9ef4-34f541272316#ref=rss)
+* [https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet](https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet-a-042e3985-9f4f-420f-b7f0-2d5641a47ff8#ref=rss)
 ### biden
 
-* [https://www.spiegel.de/ausland/uno-konferenz-zum-atomwaffensperrvertrag-joe-biden-will-mit-russland-neu-verhandeln](https://www.spiegel.de/ausland/uno-konferenz-zum-atomwaffensperrvertrag-joe-biden-will-mit-russland-neu-verhandeln-a-e10db405-a5ca-4c8f-8a9b-17a49b7a91db#ref=rss)
-### verhandeln
+* [https://www.spiegel.de/wissenschaft/klimaschutz-paket-von-joe-biden-in-den-usa-das-ist-wirklich-eine-grosse-sache](https://www.spiegel.de/wissenschaft/klimaschutz-paket-von-joe-biden-in-den-usa-das-ist-wirklich-eine-grosse-sache-a-f6b42124-119f-4312-b16b-39a6d39f2977#ref=rss)
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs-a-b309d623-448d-47b4-a06d-87b12538d801#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/uno-konferenz-zum-atomwaffensperrvertrag-joe-biden-will-mit-russland-neu-verhandeln](https://www.spiegel.de/ausland/uno-konferenz-zum-atomwaffensperrvertrag-joe-biden-will-mit-russland-neu-verhandeln-a-e10db405-a5ca-4c8f-8a9b-17a49b7a91db#ref=rss)
-### neuen
+* [https://www.spiegel.de/wissenschaft/klimaschutz-paket-von-joe-biden-in-den-usa-das-ist-wirklich-eine-grosse-sache](https://www.spiegel.de/wissenschaft/klimaschutz-paket-von-joe-biden-in-den-usa-das-ist-wirklich-eine-grosse-sache-a-f6b42124-119f-4312-b16b-39a6d39f2977#ref=rss)
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs-a-b309d623-448d-47b4-a06d-87b12538d801#ref=rss)
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs-a-a0271073-b948-4093-b539-b4c13e0fd2c3#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/uno-konferenz-zum-atomwaffensperrvertrag-joe-biden-will-mit-russland-neu-verhandeln](https://www.spiegel.de/ausland/uno-konferenz-zum-atomwaffensperrvertrag-joe-biden-will-mit-russland-neu-verhandeln-a-e10db405-a5ca-4c8f-8a9b-17a49b7a91db#ref=rss)
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker-a-a0b3b15f-5fcc-4cf8-9e30-1432a4a9c417#ref=rss)
-### spielerinnen
+* [https://www.spiegel.de/psychologie/aufraeumen-nach-marie-kondo-was-passierte-nachdem-ich-meinen-rucksack-entsorgte](https://www.spiegel.de/psychologie/aufraeumen-nach-marie-kondo-was-passierte-nachdem-ich-meinen-rucksack-entsorgte-a-9ebf3b00-c791-4646-8cef-e8c85f7b9290#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klima-krise-mojib-latif-wie-koennen-sie-optimistisch-sein](https://www.spiegel.de/wissenschaft/klima-krise-mojib-latif-wie-koennen-sie-optimistisch-sein-a-5773227b-d718-4ba5-ae50-e212c0c91f5b#ref=rss)
+* [https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet](https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet-a-042e3985-9f4f-420f-b7f0-2d5641a47ff8#ref=rss)
+### russland
 
-* [https://www.spiegel.de/sport/fussball/fussball-dfb-team-feiert-in-frankfurt-das-ist-unglaublich](https://www.spiegel.de/sport/fussball/fussball-dfb-team-feiert-in-frankfurt-das-ist-unglaublich-a-17ea0d61-a9d9-436d-a00b-62180d1f61c8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2022-fans-feiern-dfb-team-in-frankfurt-livestream](https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2022-fans-feiern-dfb-team-in-frankfurt-livestream-a-e03ad270-da61-40eb-853c-2d9beb8d0efc#ref=rss)
-### documenta
+* [https://www.spiegel.de/ausland/brittney-griner-diplomatisches-ringen-um-in-russland-inhaftierte-us-basketballerin](https://www.spiegel.de/ausland/brittney-griner-diplomatisches-ringen-um-in-russland-inhaftierte-us-basketballerin-a-1ce8474d-ba9c-420a-945d-818c8403b33a#ref=rss)
+### sparen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-atomkraft-ukraine-documenta](https://www.spiegel.de/politik/deutschland/news-des-tages-atomkraft-ukraine-documenta-a-2f5e1ed0-6208-44ef-b83e-9201a7204c29#ref=rss)
-### melanie
+* [https://www.spiegel.de/wirtschaft/unternehmen/notfallplan-zum-energiesparen-spanien-muss-fuer-deutschlands-fehler-schwitzen](https://www.spiegel.de/wirtschaft/unternehmen/notfallplan-zum-energiesparen-spanien-muss-fuer-deutschlands-fehler-schwitzen-a-386a9ef5-8b2d-4b77-92be-642a44ce45e6#ref=rss)
+* [https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich](https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich-a-f3497ef9-7fc5-4a4c-8fa1-ec5d7a45ec06#ref=rss)
+### annalena
 
-* [https://www.spiegel.de/politik/deutschland/linkspartei-melanie-wery-sims-tritt-aus-partei-aus](https://www.spiegel.de/politik/deutschland/linkspartei-melanie-wery-sims-tritt-aus-partei-aus-a-2ee92f02-d39e-4c5e-a1fa-55295bc74441#ref=rss)
-### werysims
+* [https://www.spiegel.de/politik/deutschland/konferenz-zu-atomwaffen-warum-baerbocks-uno-auftritt-diesmal-nicht-zuendete](https://www.spiegel.de/politik/deutschland/konferenz-zu-atomwaffen-warum-baerbocks-uno-auftritt-diesmal-nicht-zuendete-a-635079bc-74f5-4d6b-afe2-d212070f169a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende](https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende-a-e5bec401-2b97-4c12-8402-d64ce07a56a8#ref=rss)
+### baerbock
 
-* [https://www.spiegel.de/politik/deutschland/linkspartei-melanie-wery-sims-tritt-aus-partei-aus](https://www.spiegel.de/politik/deutschland/linkspartei-melanie-wery-sims-tritt-aus-partei-aus-a-2ee92f02-d39e-4c5e-a1fa-55295bc74441#ref=rss)
-### prozent
+* [https://www.spiegel.de/politik/deutschland/konferenz-zu-atomwaffen-warum-baerbocks-uno-auftritt-diesmal-nicht-zuendete](https://www.spiegel.de/politik/deutschland/konferenz-zu-atomwaffen-warum-baerbocks-uno-auftritt-diesmal-nicht-zuendete-a-635079bc-74f5-4d6b-afe2-d212070f169a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende](https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende-a-e5bec401-2b97-4c12-8402-d64ce07a56a8#ref=rss)
+### dienstag
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-bestimmte-genvariante-verringert-sterberisiko](https://www.spiegel.de/wissenschaft/medizin/corona-bestimmte-genvariante-verringert-sterberisiko-a-0736ae10-e183-41c9-b3e6-c0ab9ddd2198#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/verbraucherschutz-30-prozent-mehr-anfragen-an-netzagentur-wegen-steigender-energiepreise](https://www.spiegel.de/wirtschaft/service/verbraucherschutz-30-prozent-mehr-anfragen-an-netzagentur-wegen-steigender-energiepreise-a-519a2fdd-9f77-408b-b35b-c4cba9edb65c#ref=rss)
-### wuppertaler
+* [https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich](https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich-a-49e738c1-0d7f-4d83-b3b7-6b01f868afee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende](https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende-a-e5bec401-2b97-4c12-8402-d64ce07a56a8#ref=rss)
+* [https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet](https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet-a-042e3985-9f4f-420f-b7f0-2d5641a47ff8#ref=rss)
+### nancy
 
-* [https://www.spiegel.de/panorama/justiz/wuppertaler-schwebebahn-pornografische-inhalte-auf-werbetafel](https://www.spiegel.de/panorama/justiz/wuppertaler-schwebebahn-pornografische-inhalte-auf-werbetafel-a-75dfd9c0-49a4-4777-9dba-acf25ac589fa#ref=rss)
-### werbetafel
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende](https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende-a-e5bec401-2b97-4c12-8402-d64ce07a56a8#ref=rss)
+* [https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet](https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet-a-042e3985-9f4f-420f-b7f0-2d5641a47ff8#ref=rss)
+### gemeldet
 
-* [https://www.spiegel.de/panorama/justiz/wuppertaler-schwebebahn-pornografische-inhalte-auf-werbetafel](https://www.spiegel.de/panorama/justiz/wuppertaler-schwebebahn-pornografische-inhalte-auf-werbetafel-a-75dfd9c0-49a4-4777-9dba-acf25ac589fa#ref=rss)
-### toiletten
+* [https://www.spiegel.de/wissenschaft/medizin/auch-kalifornien-verhaengt-notstand-wegen-affenpocken](https://www.spiegel.de/wissenschaft/medizin/auch-kalifornien-verhaengt-notstand-wegen-affenpocken-a-99aa48b8-711e-460a-a0ee-cbd540cfc64e#ref=rss)
+* [https://www.spiegel.de/panorama/lotto-brandenburg-findet-millionengewinner](https://www.spiegel.de/panorama/lotto-brandenburg-findet-millionengewinner-a-34807670-195a-4eed-9558-97095ff700f2#ref=rss)
+### bedeutet
 
-* [https://www.spiegel.de/panorama/berlin-testet-nutzung-kostenfreier-toiletten](https://www.spiegel.de/panorama/berlin-testet-nutzung-kostenfreier-toiletten-a-27edffa8-16a7-431a-906b-ca235c6f95dc#ref=rss)
-### cristiano
+* [https://www.spiegel.de/wissenschaft/medizin/auch-kalifornien-verhaengt-notstand-wegen-affenpocken](https://www.spiegel.de/wissenschaft/medizin/auch-kalifornien-verhaengt-notstand-wegen-affenpocken-a-99aa48b8-711e-460a-a0ee-cbd540cfc64e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimaschutz-paket-von-joe-biden-in-den-usa-das-ist-wirklich-eine-grosse-sache](https://www.spiegel.de/wissenschaft/klimaschutz-paket-von-joe-biden-in-den-usa-das-ist-wirklich-eine-grosse-sache-a-f6b42124-119f-4312-b16b-39a6d39f2977#ref=rss)
+### laut
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker-a-a0b3b15f-5fcc-4cf8-9e30-1432a4a9c417#ref=rss)
-### ronaldo
+* [https://www.spiegel.de/wirtschaft/unternehmen/pendlerpauschale-geringverdiener-fahren-am-weitesten-zur-arbeit](https://www.spiegel.de/wirtschaft/unternehmen/pendlerpauschale-geringverdiener-fahren-am-weitesten-zur-arbeit-a-87f006de-9c98-41f9-ac3d-7b01de1c2e07#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/versicherer-investieren-trotz-energiekrise-wohl-eher-nicht-in-atomkraft](https://www.spiegel.de/wirtschaft/unternehmen/versicherer-investieren-trotz-energiekrise-wohl-eher-nicht-in-atomkraft-a-f6a51a72-f2a6-4f73-8f53-498be3e7a2d6#ref=rss)
+### aktuellen
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker-a-a0b3b15f-5fcc-4cf8-9e30-1432a4a9c417#ref=rss)
-### gerüchte
+* [https://www.spiegel.de/wirtschaft/unternehmen/pendlerpauschale-geringverdiener-fahren-am-weitesten-zur-arbeit](https://www.spiegel.de/wirtschaft/unternehmen/pendlerpauschale-geringverdiener-fahren-am-weitesten-zur-arbeit-a-87f006de-9c98-41f9-ac3d-7b01de1c2e07#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal](https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal-a-bc8a33fb-f6d2-46a9-a9ce-559a8d6e0a1c#ref=rss)
+### jährlich
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker-a-a0b3b15f-5fcc-4cf8-9e30-1432a4a9c417#ref=rss)
-* [https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation](https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation-a-e0f1a79c-a06e-46de-88dc-b7013c118b65#ref=rss)
-### möglichen
+* [https://www.spiegel.de/wirtschaft/unternehmen/pendlerpauschale-geringverdiener-fahren-am-weitesten-zur-arbeit](https://www.spiegel.de/wirtschaft/unternehmen/pendlerpauschale-geringverdiener-fahren-am-weitesten-zur-arbeit-a-87f006de-9c98-41f9-ac3d-7b01de1c2e07#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr](https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr-a-a7f04468-9637-4e19-86e6-cb5db89cbc77#ref=rss)
+### russlands
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker-a-a0b3b15f-5fcc-4cf8-9e30-1432a4a9c417#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen](https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen-a-5e541962-b4e0-417b-969d-225c83b3cfa1#ref=rss)
-### wohl
+* [https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-frachtschiff-razoni-erreicht-istanbul-deutlich-spaeter-als-geplant](https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-frachtschiff-razoni-erreicht-istanbul-deutlich-spaeter-als-geplant-a-de60d572-0ce7-4cb2-86fc-24ba30648ff2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich](https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich-a-49e738c1-0d7f-4d83-b3b7-6b01f868afee#ref=rss)
+### frachtschiff
 
-* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-ist-zurueck-in-manchester-und-sorgt-fuer-aerger-fussball-transferticker-a-a0b3b15f-5fcc-4cf8-9e30-1432a4a9c417#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen](https://www.spiegel.de/ausland/nancy-pelosi-will-offenbar-bereits-morgen-nach-taipeh-reisen-a-5e541962-b4e0-417b-969d-225c83b3cfa1#ref=rss)
-### bts
+* [https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-frachtschiff-razoni-erreicht-istanbul-deutlich-spaeter-als-geplant](https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-frachtschiff-razoni-erreicht-istanbul-deutlich-spaeter-als-geplant-a-de60d572-0ce7-4cb2-86fc-24ba30648ff2#ref=rss)
+### razoni
 
-* [https://www.spiegel.de/kultur/musik/bts-k-pop-band-aus-suedkorea-darf-auch-waehrend-des-wehrdienstes-im-ausland-auftreten](https://www.spiegel.de/kultur/musik/bts-k-pop-band-aus-suedkorea-darf-auch-waehrend-des-wehrdienstes-im-ausland-auftreten-a-1a6cecee-205d-48f3-8b41-904110ead96c#ref=rss)
-### südkorea
+* [https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-frachtschiff-razoni-erreicht-istanbul-deutlich-spaeter-als-geplant](https://www.spiegel.de/ausland/russlands-krieg-in-der-ukraine-frachtschiff-razoni-erreicht-istanbul-deutlich-spaeter-als-geplant-a-de60d572-0ce7-4cb2-86fc-24ba30648ff2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende](https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende-a-e5bec401-2b97-4c12-8402-d64ce07a56a8#ref=rss)
+### china
 
-* [https://www.spiegel.de/kultur/musik/bts-k-pop-band-aus-suedkorea-darf-auch-waehrend-des-wehrdienstes-im-ausland-auftreten](https://www.spiegel.de/kultur/musik/bts-k-pop-band-aus-suedkorea-darf-auch-waehrend-des-wehrdienstes-im-ausland-auftreten-a-1a6cecee-205d-48f3-8b41-904110ead96c#ref=rss)
-### 30
+* [https://www.spiegel.de/netzwelt/web/chinesische-influencerin-grillt-weissen-hai-nun-droht-ihr-eine-freiheitsstrafe](https://www.spiegel.de/netzwelt/web/chinesische-influencerin-grillt-weissen-hai-nun-droht-ihr-eine-freiheitsstrafe-a-1e7e08ee-d895-451d-80fa-309a82de5d87#ref=rss)
+* [https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet](https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet-a-042e3985-9f4f-420f-b7f0-2d5641a47ff8#ref=rss)
+### weißen
 
-* [https://www.spiegel.de/kultur/musik/bts-k-pop-band-aus-suedkorea-darf-auch-waehrend-des-wehrdienstes-im-ausland-auftreten](https://www.spiegel.de/kultur/musik/bts-k-pop-band-aus-suedkorea-darf-auch-waehrend-des-wehrdienstes-im-ausland-auftreten-a-1a6cecee-205d-48f3-8b41-904110ead96c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/verbraucherschutz-30-prozent-mehr-anfragen-an-netzagentur-wegen-steigender-energiepreise](https://www.spiegel.de/wirtschaft/service/verbraucherschutz-30-prozent-mehr-anfragen-an-netzagentur-wegen-steigender-energiepreise-a-519a2fdd-9f77-408b-b35b-c4cba9edb65c#ref=rss)
-### joachim
+* [https://www.spiegel.de/netzwelt/web/chinesische-influencerin-grillt-weissen-hai-nun-droht-ihr-eine-freiheitsstrafe](https://www.spiegel.de/netzwelt/web/chinesische-influencerin-grillt-weissen-hai-nun-droht-ihr-eine-freiheitsstrafe-a-1e7e08ee-d895-451d-80fa-309a82de5d87#ref=rss)
+### hai
 
-* [https://www.spiegel.de/kultur/tv/joachim-jauer-gestorben-beim-zdf-als-ddr-korrespondent-und-kennzeichen-d-reporter](https://www.spiegel.de/kultur/tv/joachim-jauer-gestorben-beim-zdf-als-ddr-korrespondent-und-kennzeichen-d-reporter-a-fd50f0c3-5890-48cd-bac4-7bd216b8fd26#ref=rss)
-### jauer
+* [https://www.spiegel.de/netzwelt/web/chinesische-influencerin-grillt-weissen-hai-nun-droht-ihr-eine-freiheitsstrafe](https://www.spiegel.de/netzwelt/web/chinesische-influencerin-grillt-weissen-hai-nun-droht-ihr-eine-freiheitsstrafe-a-1e7e08ee-d895-451d-80fa-309a82de5d87#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/kultur/tv/joachim-jauer-gestorben-beim-zdf-als-ddr-korrespondent-und-kennzeichen-d-reporter](https://www.spiegel.de/kultur/tv/joachim-jauer-gestorben-beim-zdf-als-ddr-korrespondent-und-kennzeichen-d-reporter-a-fd50f0c3-5890-48cd-bac4-7bd216b8fd26#ref=rss)
-### zdf
+* [https://www.spiegel.de/netzwelt/web/chinesische-influencerin-grillt-weissen-hai-nun-droht-ihr-eine-freiheitsstrafe](https://www.spiegel.de/netzwelt/web/chinesische-influencerin-grillt-weissen-hai-nun-droht-ihr-eine-freiheitsstrafe-a-1e7e08ee-d895-451d-80fa-309a82de5d87#ref=rss)
+* [https://www.spiegel.de/panorama/lotto-brandenburg-findet-millionengewinner](https://www.spiegel.de/panorama/lotto-brandenburg-findet-millionengewinner-a-34807670-195a-4eed-9558-97095ff700f2#ref=rss)
+### alfons
 
-* [https://www.spiegel.de/kultur/tv/joachim-jauer-gestorben-beim-zdf-als-ddr-korrespondent-und-kennzeichen-d-reporter](https://www.spiegel.de/kultur/tv/joachim-jauer-gestorben-beim-zdf-als-ddr-korrespondent-und-kennzeichen-d-reporter-a-fd50f0c3-5890-48cd-bac4-7bd216b8fd26#ref=rss)
-### kennzeichen
+* [https://www.spiegel.de/politik/deutschland/ukraine-heeresinspekteur-alfons-mais-rechnet-nicht-mit-schnellem-kriegsende](https://www.spiegel.de/politik/deutschland/ukraine-heeresinspekteur-alfons-mais-rechnet-nicht-mit-schnellem-kriegsende-a-ec4916a0-c9a8-47ed-8584-ecbdb0799e98#ref=rss)
+### mais
 
-* [https://www.spiegel.de/kultur/tv/joachim-jauer-gestorben-beim-zdf-als-ddr-korrespondent-und-kennzeichen-d-reporter](https://www.spiegel.de/kultur/tv/joachim-jauer-gestorben-beim-zdf-als-ddr-korrespondent-und-kennzeichen-d-reporter-a-fd50f0c3-5890-48cd-bac4-7bd216b8fd26#ref=rss)
-### anatolij
+* [https://www.spiegel.de/politik/deutschland/ukraine-heeresinspekteur-alfons-mais-rechnet-nicht-mit-schnellem-kriegsende](https://www.spiegel.de/politik/deutschland/ukraine-heeresinspekteur-alfons-mais-rechnet-nicht-mit-schnellem-kriegsende-a-ec4916a0-c9a8-47ed-8584-ecbdb0799e98#ref=rss)
+### rechnet
 
-* [https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation](https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation-a-e0f1a79c-a06e-46de-88dc-b7013c118b65#ref=rss)
-### tschubais
+* [https://www.spiegel.de/politik/deutschland/ukraine-heeresinspekteur-alfons-mais-rechnet-nicht-mit-schnellem-kriegsende](https://www.spiegel.de/politik/deutschland/ukraine-heeresinspekteur-alfons-mais-rechnet-nicht-mit-schnellem-kriegsende-a-ec4916a0-c9a8-47ed-8584-ecbdb0799e98#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/versicherer-investieren-trotz-energiekrise-wohl-eher-nicht-in-atomkraft](https://www.spiegel.de/wirtschaft/unternehmen/versicherer-investieren-trotz-energiekrise-wohl-eher-nicht-in-atomkraft-a-f6a51a72-f2a6-4f73-8f53-498be3e7a2d6#ref=rss)
+### friedrich
 
-* [https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation](https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation-a-e0f1a79c-a06e-46de-88dc-b7013c118b65#ref=rss)
-### liegt
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-teilnahme-an-veranstaltung-mit-us-senator-lindsey-graham-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-teilnahme-an-veranstaltung-mit-us-senator-lindsey-graham-ab-a-7c238cf2-9991-4aa1-94bf-74d669e01f8b#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation](https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation-a-e0f1a79c-a06e-46de-88dc-b7013c118b65#ref=rss)
-### intensivstation
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-teilnahme-an-veranstaltung-mit-us-senator-lindsey-graham-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-teilnahme-an-veranstaltung-mit-us-senator-lindsey-graham-ab-a-7c238cf2-9991-4aa1-94bf-74d669e01f8b#ref=rss)
+### ussenator
 
-* [https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation](https://www.spiegel.de/ausland/anatolij-tschubais-frueherer-kremlberater-liegt-offenbar-mit-nervenkrankheit-auf-der-intensivstation-a-e0f1a79c-a06e-46de-88dc-b7013c118b65#ref=rss)
-### verdi
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-teilnahme-an-veranstaltung-mit-us-senator-lindsey-graham-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-teilnahme-an-veranstaltung-mit-us-senator-lindsey-graham-ab-a-7c238cf2-9991-4aa1-94bf-74d669e01f8b#ref=rss)
+### lindsey
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/verdi-deutlich-mehr-lohn-fuer-bodenpersonal-an-mehreren-flughaefen](https://www.spiegel.de/wirtschaft/unternehmen/verdi-deutlich-mehr-lohn-fuer-bodenpersonal-an-mehreren-flughaefen-a-7dcbb6f1-e2af-4f44-ad0a-adc0537b57ea#ref=rss)
-### deutlich
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-teilnahme-an-veranstaltung-mit-us-senator-lindsey-graham-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-teilnahme-an-veranstaltung-mit-us-senator-lindsey-graham-ab-a-7c238cf2-9991-4aa1-94bf-74d669e01f8b#ref=rss)
+### graham
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/verdi-deutlich-mehr-lohn-fuer-bodenpersonal-an-mehreren-flughaefen](https://www.spiegel.de/wirtschaft/unternehmen/verdi-deutlich-mehr-lohn-fuer-bodenpersonal-an-mehreren-flughaefen-a-7dcbb6f1-e2af-4f44-ad0a-adc0537b57ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/verbraucherschutz-30-prozent-mehr-anfragen-an-netzagentur-wegen-steigender-energiepreise](https://www.spiegel.de/wirtschaft/service/verbraucherschutz-30-prozent-mehr-anfragen-an-netzagentur-wegen-steigender-energiepreise-a-519a2fdd-9f77-408b-b35b-c4cba9edb65c#ref=rss)
-### hannover
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-teilnahme-an-veranstaltung-mit-us-senator-lindsey-graham-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-teilnahme-an-veranstaltung-mit-us-senator-lindsey-graham-ab-a-7c238cf2-9991-4aa1-94bf-74d669e01f8b#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/fussball/gericht-entscheidet-martin-kind-darf-als-geschaeftsfuehrer-von-hannover-96-weitermachen](https://www.spiegel.de/sport/fussball/gericht-entscheidet-martin-kind-darf-als-geschaeftsfuehrer-von-hannover-96-weitermachen-a-0bc2515b-c6b9-47c6-a41b-23d943b548fa#ref=rss)
-### 96
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-teilnahme-an-veranstaltung-mit-us-senator-lindsey-graham-ab](https://www.spiegel.de/politik/deutschland/friedrich-merz-sagt-teilnahme-an-veranstaltung-mit-us-senator-lindsey-graham-ab-a-7c238cf2-9991-4aa1-94bf-74d669e01f8b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich](https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich-a-49e738c1-0d7f-4d83-b3b7-6b01f868afee#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/sport/fussball/gericht-entscheidet-martin-kind-darf-als-geschaeftsfuehrer-von-hannover-96-weitermachen](https://www.spiegel.de/sport/fussball/gericht-entscheidet-martin-kind-darf-als-geschaeftsfuehrer-von-hannover-96-weitermachen-a-0bc2515b-c6b9-47c6-a41b-23d943b548fa#ref=rss)
-### martin
+* [https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr](https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr-a-a7f04468-9637-4e19-86e6-cb5db89cbc77#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/sport/fussball/gericht-entscheidet-martin-kind-darf-als-geschaeftsfuehrer-von-hannover-96-weitermachen](https://www.spiegel.de/sport/fussball/gericht-entscheidet-martin-kind-darf-als-geschaeftsfuehrer-von-hannover-96-weitermachen-a-0bc2515b-c6b9-47c6-a41b-23d943b548fa#ref=rss)
-### kind
+* [https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr](https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr-a-a7f04468-9637-4e19-86e6-cb5db89cbc77#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimaschutz-paket-von-joe-biden-in-den-usa-das-ist-wirklich-eine-grosse-sache](https://www.spiegel.de/wissenschaft/klimaschutz-paket-von-joe-biden-in-den-usa-das-ist-wirklich-eine-grosse-sache-a-f6b42124-119f-4312-b16b-39a6d39f2977#ref=rss)
+### betroffen
 
-* [https://www.spiegel.de/sport/fussball/gericht-entscheidet-martin-kind-darf-als-geschaeftsfuehrer-von-hannover-96-weitermachen](https://www.spiegel.de/sport/fussball/gericht-entscheidet-martin-kind-darf-als-geschaeftsfuehrer-von-hannover-96-weitermachen-a-0bc2515b-c6b9-47c6-a41b-23d943b548fa#ref=rss)
-### geschäftsführer
+* [https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr](https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr-a-a7f04468-9637-4e19-86e6-cb5db89cbc77#ref=rss)
+* [https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow](https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow-a-b9637baa-7f60-485a-8b16-fa907366db82#ref=rss)
+### unter
 
-* [https://www.spiegel.de/sport/fussball/gericht-entscheidet-martin-kind-darf-als-geschaeftsfuehrer-von-hannover-96-weitermachen](https://www.spiegel.de/sport/fussball/gericht-entscheidet-martin-kind-darf-als-geschaeftsfuehrer-von-hannover-96-weitermachen-a-0bc2515b-c6b9-47c6-a41b-23d943b548fa#ref=rss)
-### feiern
+* [https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr](https://www.spiegel.de/ausland/frankreich-senat-stimmt-fuer-abschaffung-der-rundfunkgebuehr-a-a7f04468-9637-4e19-86e6-cb5db89cbc77#ref=rss)
+* [https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich](https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich-a-f3497ef9-7fc5-4a4c-8fa1-ec5d7a45ec06#ref=rss)
+### frankfurt
 
-* [https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2022-fans-feiern-dfb-team-in-frankfurt-livestream](https://www.spiegel.de/sport/fussball/fussball-em-der-frauen-2022-fans-feiern-dfb-team-in-frankfurt-livestream-a-e03ad270-da61-40eb-853c-2d9beb8d0efc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-polizei-verletzt-jungen-mann-toedlich](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-polizei-verletzt-jungen-mann-toedlich-a-216ee74c-758b-4872-bcb9-8b41d1943ab5#ref=rss)
+### main
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-polizei-verletzt-jungen-mann-toedlich](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-polizei-verletzt-jungen-mann-toedlich-a-216ee74c-758b-4872-bcb9-8b41d1943ab5#ref=rss)
+### jungen
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-polizei-verletzt-jungen-mann-toedlich](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-polizei-verletzt-jungen-mann-toedlich-a-216ee74c-758b-4872-bcb9-8b41d1943ab5#ref=rss)
+### tödlich
+
+* [https://www.spiegel.de/panorama/justiz/frankfurt-am-main-polizei-verletzt-jungen-mann-toedlich](https://www.spiegel.de/panorama/justiz/frankfurt-am-main-polizei-verletzt-jungen-mann-toedlich-a-216ee74c-758b-4872-bcb9-8b41d1943ab5#ref=rss)
+### lotto
+
+* [https://www.spiegel.de/panorama/lotto-brandenburg-findet-millionengewinner](https://www.spiegel.de/panorama/lotto-brandenburg-findet-millionengewinner-a-34807670-195a-4eed-9558-97095ff700f2#ref=rss)
+### findet
+
+* [https://www.spiegel.de/panorama/lotto-brandenburg-findet-millionengewinner](https://www.spiegel.de/panorama/lotto-brandenburg-findet-millionengewinner-a-34807670-195a-4eed-9558-97095ff700f2#ref=rss)
+* [https://www.spiegel.de/psychologie/aufraeumen-nach-marie-kondo-was-passierte-nachdem-ich-meinen-rucksack-entsorgte](https://www.spiegel.de/psychologie/aufraeumen-nach-marie-kondo-was-passierte-nachdem-ich-meinen-rucksack-entsorgte-a-9ebf3b00-c791-4646-8cef-e8c85f7b9290#ref=rss)
+### british
+
+* [https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow](https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow-a-b9637baa-7f60-485a-8b16-fa907366db82#ref=rss)
+### airways
+
+* [https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow](https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow-a-b9637baa-7f60-485a-8b16-fa907366db82#ref=rss)
+### kurzstreckenflüge
+
+* [https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow](https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow-a-b9637baa-7f60-485a-8b16-fa907366db82#ref=rss)
+### heathrow
+
+* [https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow](https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow-a-b9637baa-7f60-485a-8b16-fa907366db82#ref=rss)
+### allem
+
+* [https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow](https://www.spiegel.de/wirtschaft/grossbritannien-british-airways-verkauft-vorerst-keine-kurzstreckenfluege-mehr-ab-heathrow-a-b9637baa-7f60-485a-8b16-fa907366db82#ref=rss)
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs-a-a0271073-b948-4093-b539-b4c13e0fd2c3#ref=rss)
+### pornhub
+
+* [https://www.spiegel.de/netzwelt/web/pornhub-klage-gegen-visa-wegen-monetarisierung-von-missbrauch-zugelassen](https://www.spiegel.de/netzwelt/web/pornhub-klage-gegen-visa-wegen-monetarisierung-von-missbrauch-zugelassen-a-8911e4e9-24da-429f-bda4-303d05157fe5#ref=rss)
+### visa
+
+* [https://www.spiegel.de/netzwelt/web/pornhub-klage-gegen-visa-wegen-monetarisierung-von-missbrauch-zugelassen](https://www.spiegel.de/netzwelt/web/pornhub-klage-gegen-visa-wegen-monetarisierung-von-missbrauch-zugelassen-a-8911e4e9-24da-429f-bda4-303d05157fe5#ref=rss)
+### missbrauch
+
+* [https://www.spiegel.de/netzwelt/web/pornhub-klage-gegen-visa-wegen-monetarisierung-von-missbrauch-zugelassen](https://www.spiegel.de/netzwelt/web/pornhub-klage-gegen-visa-wegen-monetarisierung-von-missbrauch-zugelassen-a-8911e4e9-24da-429f-bda4-303d05157fe5#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/netzwelt/web/pornhub-klage-gegen-visa-wegen-monetarisierung-von-missbrauch-zugelassen](https://www.spiegel.de/netzwelt/web/pornhub-klage-gegen-visa-wegen-monetarisierung-von-missbrauch-zugelassen-a-8911e4e9-24da-429f-bda4-303d05157fe5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal](https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal-a-bc8a33fb-f6d2-46a9-a9ce-559a8d6e0a1c#ref=rss)
+### brad
+
+* [https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie](https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie-a-20281f27-e369-47c8-9ef4-34f541272316#ref=rss)
+### pitt
+
+* [https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie](https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie-a-20281f27-e369-47c8-9ef4-34f541272316#ref=rss)
+### leben
+
+* [https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie](https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie-a-20281f27-e369-47c8-9ef4-34f541272316#ref=rss)
+* [https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich](https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich-a-f3497ef9-7fc5-4a4c-8fa1-ec5d7a45ec06#ref=rss)
+### anders
+
+* [https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie](https://www.spiegel.de/panorama/leute/brad-pitt-schauspieler-interessiert-sich-im-alter-mehr-fuer-psychologie-a-20281f27-e369-47c8-9ef4-34f541272316#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/konferenz-zu-atomwaffen-warum-baerbocks-uno-auftritt-diesmal-nicht-zuendete](https://www.spiegel.de/politik/deutschland/konferenz-zu-atomwaffen-warum-baerbocks-uno-auftritt-diesmal-nicht-zuendete-a-635079bc-74f5-4d6b-afe2-d212070f169a#ref=rss)
+### rki
+
+* [https://www.spiegel.de/wissenschaft/medizin/corona-rki-registriert-102-698-neuinfektionen-inzidenz-bei-516-1](https://www.spiegel.de/wissenschaft/medizin/corona-rki-registriert-102-698-neuinfektionen-inzidenz-bei-516-1-a-3bb99b0a-186a-4835-927d-0489dbcc3055#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs-a-b309d623-448d-47b4-a06d-87b12538d801#ref=rss)
+### tötung
+
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs-a-b309d623-448d-47b4-a06d-87b12538d801#ref=rss)
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs-a-a0271073-b948-4093-b539-b4c13e0fd2c3#ref=rss)
+### allen
+
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-us-praesident-joe-bidens-ansprache-zur-toetung-des-al-qaida-chefs-a-b309d623-448d-47b4-a06d-87b12538d801#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich](https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich-a-49e738c1-0d7f-4d83-b3b7-6b01f868afee#ref=rss)
+### ifoumfrage
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal](https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal-a-bc8a33fb-f6d2-46a9-a9ce-559a8d6e0a1c#ref=rss)
+### fehlt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal](https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal-a-bc8a33fb-f6d2-46a9-a9ce-559a8d6e0a1c#ref=rss)
+### personal
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal](https://www.spiegel.de/wirtschaft/unternehmen/ifo-umfrage-zum-fachkraeftemangel-jedem-zweiten-betrieb-fehlt-personal-a-bc8a33fb-f6d2-46a9-a9ce-559a8d6e0a1c#ref=rss)
+### marie
+
+* [https://www.spiegel.de/psychologie/aufraeumen-nach-marie-kondo-was-passierte-nachdem-ich-meinen-rucksack-entsorgte](https://www.spiegel.de/psychologie/aufraeumen-nach-marie-kondo-was-passierte-nachdem-ich-meinen-rucksack-entsorgte-a-9ebf3b00-c791-4646-8cef-e8c85f7b9290#ref=rss)
+### kondo
+
+* [https://www.spiegel.de/psychologie/aufraeumen-nach-marie-kondo-was-passierte-nachdem-ich-meinen-rucksack-entsorgte](https://www.spiegel.de/psychologie/aufraeumen-nach-marie-kondo-was-passierte-nachdem-ich-meinen-rucksack-entsorgte-a-9ebf3b00-c791-4646-8cef-e8c85f7b9290#ref=rss)
+### fehler
+
+* [https://www.spiegel.de/psychologie/aufraeumen-nach-marie-kondo-was-passierte-nachdem-ich-meinen-rucksack-entsorgte](https://www.spiegel.de/psychologie/aufraeumen-nach-marie-kondo-was-passierte-nachdem-ich-meinen-rucksack-entsorgte-a-9ebf3b00-c791-4646-8cef-e8c85f7b9290#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/notfallplan-zum-energiesparen-spanien-muss-fuer-deutschlands-fehler-schwitzen](https://www.spiegel.de/wirtschaft/unternehmen/notfallplan-zum-energiesparen-spanien-muss-fuer-deutschlands-fehler-schwitzen-a-386a9ef5-8b2d-4b77-92be-642a44ce45e6#ref=rss)
+### mojib
+
+* [https://www.spiegel.de/wissenschaft/klima-krise-mojib-latif-wie-koennen-sie-optimistisch-sein](https://www.spiegel.de/wissenschaft/klima-krise-mojib-latif-wie-koennen-sie-optimistisch-sein-a-5773227b-d718-4ba5-ae50-e212c0c91f5b#ref=rss)
+### latif
+
+* [https://www.spiegel.de/wissenschaft/klima-krise-mojib-latif-wie-koennen-sie-optimistisch-sein](https://www.spiegel.de/wissenschaft/klima-krise-mojib-latif-wie-koennen-sie-optimistisch-sein-a-5773227b-d718-4ba5-ae50-e212c0c91f5b#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/wissenschaft/klima-krise-mojib-latif-wie-koennen-sie-optimistisch-sein](https://www.spiegel.de/wissenschaft/klima-krise-mojib-latif-wie-koennen-sie-optimistisch-sein-a-5773227b-d718-4ba5-ae50-e212c0c91f5b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/impfpass-faelschung-wegen-coronaausbruch-ins-gefaengnis-podcastcast](https://www.spiegel.de/panorama/justiz/impfpass-faelschung-wegen-coronaausbruch-ins-gefaengnis-podcastcast-a-a78c907d-2f76-41c4-b1fc-09f9ea2f8f74#ref=rss)
+### erste
+
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs](https://www.spiegel.de/ausland/aiman-al-sawahiri-so-reagieren-barack-obama-und-andere-auf-die-toetung-des-qaida-chefs-a-a0271073-b948-4093-b539-b4c13e0fd2c3#ref=rss)
+* [https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet](https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet-a-042e3985-9f4f-420f-b7f0-2d5641a47ff8#ref=rss)
+### brittney
+
+* [https://www.spiegel.de/ausland/brittney-griner-diplomatisches-ringen-um-in-russland-inhaftierte-us-basketballerin](https://www.spiegel.de/ausland/brittney-griner-diplomatisches-ringen-um-in-russland-inhaftierte-us-basketballerin-a-1ce8474d-ba9c-420a-945d-818c8403b33a#ref=rss)
+### griner
+
+* [https://www.spiegel.de/ausland/brittney-griner-diplomatisches-ringen-um-in-russland-inhaftierte-us-basketballerin](https://www.spiegel.de/ausland/brittney-griner-diplomatisches-ringen-um-in-russland-inhaftierte-us-basketballerin-a-1ce8474d-ba9c-420a-945d-818c8403b33a#ref=rss)
+### theurer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-beauftragter-michael-theurer-gegen-69-euro-ticket-bahnnetz-ist-teilweise-stark-ueberlastet](https://www.spiegel.de/wirtschaft/unternehmen/bahn-beauftragter-michael-theurer-gegen-69-euro-ticket-bahnnetz-ist-teilweise-stark-ueberlastet-a-ca7e70af-4510-463a-b90b-4e0950d01936#ref=rss)
+### 69euroticket
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-beauftragter-michael-theurer-gegen-69-euro-ticket-bahnnetz-ist-teilweise-stark-ueberlastet](https://www.spiegel.de/wirtschaft/unternehmen/bahn-beauftragter-michael-theurer-gegen-69-euro-ticket-bahnnetz-ist-teilweise-stark-ueberlastet-a-ca7e70af-4510-463a-b90b-4e0950d01936#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/notfallplan-zum-energiesparen-spanien-muss-fuer-deutschlands-fehler-schwitzen](https://www.spiegel.de/wirtschaft/unternehmen/notfallplan-zum-energiesparen-spanien-muss-fuer-deutschlands-fehler-schwitzen-a-386a9ef5-8b2d-4b77-92be-642a44ce45e6#ref=rss)
+### außenministerin
+
+* [https://www.spiegel.de/politik/deutschland/konferenz-zu-atomwaffen-warum-baerbocks-uno-auftritt-diesmal-nicht-zuendete](https://www.spiegel.de/politik/deutschland/konferenz-zu-atomwaffen-warum-baerbocks-uno-auftritt-diesmal-nicht-zuendete-a-635079bc-74f5-4d6b-afe2-d212070f169a#ref=rss)
+### zwillinge
+
+* [https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren](https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren-a-3f796407-d45a-4164-aa04-db4b0fa546f6#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren](https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren-a-3f796407-d45a-4164-aa04-db4b0fa546f6#ref=rss)
+### ärzte
+
+* [https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren](https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren-a-3f796407-d45a-4164-aa04-db4b0fa546f6#ref=rss)
+### trennen
+
+* [https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren](https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren-a-3f796407-d45a-4164-aa04-db4b0fa546f6#ref=rss)
+### arthur
+
+* [https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren](https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren-a-3f796407-d45a-4164-aa04-db4b0fa546f6#ref=rss)
+### bernardo
+
+* [https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren](https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren-a-3f796407-d45a-4164-aa04-db4b0fa546f6#ref=rss)
+### waren
+
+* [https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren](https://www.spiegel.de/panorama/siamesische-zwillinge-in-brasilien-aerzte-trennen-arthur-und-bernardo-die-am-kopf-verbunden-waren-a-3f796407-d45a-4164-aa04-db4b0fa546f6#ref=rss)
+### gehalt
+
+* [https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich](https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich-a-f3497ef9-7fc5-4a4c-8fa1-ec5d7a45ec06#ref=rss)
+### ausgeben
+
+* [https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich](https://www.spiegel.de/start/erstes-gehalt-sparen-ausgeben-ich-verprasse-also-bin-ich-a-f3497ef9-7fc5-4a4c-8fa1-ec5d7a45ec06#ref=rss)
+### sanktionen
+
+* [https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich](https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich-a-49e738c1-0d7f-4d83-b3b7-6b01f868afee#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich](https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich-a-49e738c1-0d7f-4d83-b3b7-6b01f868afee#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich](https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich-a-49e738c1-0d7f-4d83-b3b7-6b01f868afee#ref=rss)
+### news
+
+* [https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich](https://www.spiegel.de/ausland/ukraine-update-ankunft-von-ukrainischem-mais-in-der-tuerkei-verzoegert-sich-a-49e738c1-0d7f-4d83-b3b7-6b01f868afee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende](https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende-a-e5bec401-2b97-4c12-8402-d64ce07a56a8#ref=rss)
+### coronaausbruch
+
+* [https://www.spiegel.de/panorama/justiz/impfpass-faelschung-wegen-coronaausbruch-ins-gefaengnis-podcastcast](https://www.spiegel.de/panorama/justiz/impfpass-faelschung-wegen-coronaausbruch-ins-gefaengnis-podcastcast-a-a78c907d-2f76-41c4-b1fc-09f9ea2f8f74#ref=rss)
+### pelosi
+
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende](https://www.spiegel.de/politik/deutschland/news-ukraine-annalena-baerbock-nancy-pelosi-isabel-allende-a-e5bec401-2b97-4c12-8402-d64ce07a56a8#ref=rss)
+* [https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet](https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet-a-042e3985-9f4f-420f-b7f0-2d5641a47ff8#ref=rss)
+### schickt
+
+* [https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet](https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet-a-042e3985-9f4f-420f-b7f0-2d5641a47ff8#ref=rss)
+### kampfflieger
+
+* [https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet](https://www.spiegel.de/ausland/pelosi-wird-offenbar-am-dienstag-in-taiwan-erwartet-a-042e3985-9f4f-420f-b7f0-2d5641a47ff8#ref=rss)
 
