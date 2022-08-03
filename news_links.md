@@ -4,309 +4,276 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### taiwan
-
-* [https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel](https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel-a-14ffce5e-673d-4e44-b2c4-f323114dbce4#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi](https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi-a-a131dfa3-977a-4071-85de-bffc73e99579#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nancy-pelosi-in-taiwan-ayman-al-sawahiri-mercedes](https://www.spiegel.de/politik/deutschland/news-des-tages-nancy-pelosi-in-taiwan-ayman-al-sawahiri-mercedes-a-29dccb64-0bf2-4bbc-9b1c-fe9c2887d34f#ref=rss)
-* [https://www.spiegel.de/ausland/pelosi-in-taiwan-warum-die-welt-in-die-naechste-grosskrise-schlittern-koennte](https://www.spiegel.de/ausland/pelosi-in-taiwan-warum-die-welt-in-die-naechste-grosskrise-schlittern-koennte-a-51c9a19e-7c45-4a7f-bf5f-616e397f3e26#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet-a-9da912d6-02ac-482c-ae44-9d5779bf5b00#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich](https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich-a-678a29e2-3d77-4842-88b2-bee1fefcf2ab#ref=rss)
-### nancy
-
-* [https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel](https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel-a-14ffce5e-673d-4e44-b2c4-f323114dbce4#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi](https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi-a-a131dfa3-977a-4071-85de-bffc73e99579#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nancy-pelosi-in-taiwan-ayman-al-sawahiri-mercedes](https://www.spiegel.de/politik/deutschland/news-des-tages-nancy-pelosi-in-taiwan-ayman-al-sawahiri-mercedes-a-29dccb64-0bf2-4bbc-9b1c-fe9c2887d34f#ref=rss)
-* [https://www.spiegel.de/ausland/pelosi-in-taiwan-warum-die-welt-in-die-naechste-grosskrise-schlittern-koennte](https://www.spiegel.de/ausland/pelosi-in-taiwan-warum-die-welt-in-die-naechste-grosskrise-schlittern-koennte-a-51c9a19e-7c45-4a7f-bf5f-616e397f3e26#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet-a-9da912d6-02ac-482c-ae44-9d5779bf5b00#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich](https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich-a-678a29e2-3d77-4842-88b2-bee1fefcf2ab#ref=rss)
-### china
-
-* [https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel](https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel-a-14ffce5e-673d-4e44-b2c4-f323114dbce4#ref=rss)
-* [https://www.spiegel.de/ausland/china-behoerden-gehen-von-bevoelkerungsschwund-bis-2025-aus](https://www.spiegel.de/ausland/china-behoerden-gehen-von-bevoelkerungsschwund-bis-2025-aus-a-7d6ae6fe-5ee0-47a2-90c1-77ba08d32e64#ref=rss)
-* [https://www.spiegel.de/ausland/pelosi-in-taiwan-warum-die-welt-in-die-naechste-grosskrise-schlittern-koennte](https://www.spiegel.de/ausland/pelosi-in-taiwan-warum-die-welt-in-die-naechste-grosskrise-schlittern-koennte-a-51c9a19e-7c45-4a7f-bf5f-616e397f3e26#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet-a-9da912d6-02ac-482c-ae44-9d5779bf5b00#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich](https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich-a-678a29e2-3d77-4842-88b2-bee1fefcf2ab#ref=rss)
-### pelosi
-
-* [https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi](https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi-a-a131dfa3-977a-4071-85de-bffc73e99579#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nancy-pelosi-in-taiwan-ayman-al-sawahiri-mercedes](https://www.spiegel.de/politik/deutschland/news-des-tages-nancy-pelosi-in-taiwan-ayman-al-sawahiri-mercedes-a-29dccb64-0bf2-4bbc-9b1c-fe9c2887d34f#ref=rss)
-* [https://www.spiegel.de/ausland/pelosi-in-taiwan-warum-die-welt-in-die-naechste-grosskrise-schlittern-koennte](https://www.spiegel.de/ausland/pelosi-in-taiwan-warum-die-welt-in-die-naechste-grosskrise-schlittern-koennte-a-51c9a19e-7c45-4a7f-bf5f-616e397f3e26#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet-a-9da912d6-02ac-482c-ae44-9d5779bf5b00#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich](https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich-a-678a29e2-3d77-4842-88b2-bee1fefcf2ab#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-setzt-eu-regeln-fuer-vaterschaftsurlaub-spaeter-um](https://www.spiegel.de/wirtschaft/soziales/deutschland-setzt-eu-regeln-fuer-vaterschaftsurlaub-spaeter-um-a-4761aefa-c28c-4475-8b5d-1fc098b77c75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel](https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel-a-14ffce5e-673d-4e44-b2c4-f323114dbce4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nord-stream-1-turbine-fuer-gas-pipeline-offenbar-weiter-in-deutschland](https://www.spiegel.de/wirtschaft/nord-stream-1-turbine-fuer-gas-pipeline-offenbar-weiter-in-deutschland-a-337b9ec8-311c-4e29-a92d-e3f475d896d6#ref=rss)
-### quartal
-
-* [https://www.spiegel.de/wirtschaft/uber-umsatz-verdoppelt-starkes-zweites-quartal-trotz-hoher-inflation](https://www.spiegel.de/wirtschaft/uber-umsatz-verdoppelt-starkes-zweites-quartal-trotz-hoher-inflation-a-fbff36a4-8380-49e5-a5da-3379c97e7f83#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bp-macht-8-5-milliarden-dollar-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/bp-macht-8-5-milliarden-dollar-gewinn-a-b1d50137-ee1c-430f-9784-190a17dcc36e#ref=rss)
-### später
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-setzt-eu-regeln-fuer-vaterschaftsurlaub-spaeter-um](https://www.spiegel.de/wirtschaft/soziales/deutschland-setzt-eu-regeln-fuer-vaterschaftsurlaub-spaeter-um-a-4761aefa-c28c-4475-8b5d-1fc098b77c75#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/trude-unruh-ist-tot](https://www.spiegel.de/politik/deutschland/trude-unruh-ist-tot-a-cab54247-bfda-42b7-867f-a5301fcd5ccd#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-setzt-eu-regeln-fuer-vaterschaftsurlaub-spaeter-um](https://www.spiegel.de/wirtschaft/soziales/deutschland-setzt-eu-regeln-fuer-vaterschaftsurlaub-spaeter-um-a-4761aefa-c28c-4475-8b5d-1fc098b77c75#ref=rss)
-* [https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen](https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen-a-d4ce4856-945b-459c-b06a-f04fe840ca43#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel](https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel-a-14ffce5e-673d-4e44-b2c4-f323114dbce4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nancy-pelosi-in-taiwan-ayman-al-sawahiri-mercedes](https://www.spiegel.de/politik/deutschland/news-des-tages-nancy-pelosi-in-taiwan-ayman-al-sawahiri-mercedes-a-29dccb64-0bf2-4bbc-9b1c-fe9c2887d34f#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet-a-9da912d6-02ac-482c-ae44-9d5779bf5b00#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-1-turbine-fuer-gas-pipeline-offenbar-weiter-in-deutschland](https://www.spiegel.de/wirtschaft/nord-stream-1-turbine-fuer-gas-pipeline-offenbar-weiter-in-deutschland-a-337b9ec8-311c-4e29-a92d-e3f475d896d6#ref=rss)
-* [https://www.spiegel.de/ausland/die-lage-inside-austria-kanzler-nehammer-wackelt-ein-bisschen](https://www.spiegel.de/ausland/die-lage-inside-austria-kanzler-nehammer-wackelt-ein-bisschen-a-04491360-66f4-4e4e-b136-79c808e1571a#ref=rss)
-### besuch
-
-* [https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi](https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi-a-a131dfa3-977a-4071-85de-bffc73e99579#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich](https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich-a-678a29e2-3d77-4842-88b2-bee1fefcf2ab#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nancy-pelosi-in-taiwan-ayman-al-sawahiri-mercedes](https://www.spiegel.de/politik/deutschland/news-des-tages-nancy-pelosi-in-taiwan-ayman-al-sawahiri-mercedes-a-29dccb64-0bf2-4bbc-9b1c-fe9c2887d34f#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-tschechien-das-feuer-war-noch-nie-so-gross](https://www.spiegel.de/panorama/waldbraende-in-tschechien-das-feuer-war-noch-nie-so-gross-a-e99ef479-ff41-4822-b6ba-2c022a4351cd#ref=rss)
-* [https://www.spiegel.de/ausland/die-lage-inside-austria-kanzler-nehammer-wackelt-ein-bisschen](https://www.spiegel.de/ausland/die-lage-inside-austria-kanzler-nehammer-wackelt-ein-bisschen-a-04491360-66f4-4e4e-b136-79c808e1571a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-in-deutschland-steigt-erstmals-seit-2017-wieder-baby-boom-in-der-pandemie](https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-in-deutschland-steigt-erstmals-seit-2017-wieder-baby-boom-in-der-pandemie-a-b14b2c6a-41df-4a17-bb7e-3c8ff5ff4785#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-inzidenz-sinkt-erneut-rki-meldet-87-681-neuinfektionen](https://www.spiegel.de/wissenschaft/coronavirus-inzidenz-sinkt-erneut-rki-meldet-87-681-neuinfektionen-a-79b2553d-394a-44c4-ab1d-81af461b56b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/kindergeld-regelung-fuer-auslaender-war-verfassungswidrig](https://www.spiegel.de/wirtschaft/soziales/kindergeld-regelung-fuer-auslaender-war-verfassungswidrig-a-2c187196-3187-4670-a20a-6f0eb1b08e0f#ref=rss)
+* [https://www.spiegel.de/start/altersarmut-grossteil-der-studierenden-hat-laut-umfrage-angst](https://www.spiegel.de/start/altersarmut-grossteil-der-studierenden-hat-laut-umfrage-angst-a-b526447b-ecba-48fa-972f-558ea2a460d6#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-verbietet-schilder-mit-trikot-wuenschen-voellig-aus-dem-ruder-gelaufen](https://www.spiegel.de/sport/fussball/ajax-amsterdam-verbietet-schilder-mit-trikot-wuenschen-voellig-aus-dem-ruder-gelaufen-a-96ed3875-b1bf-4179-a440-f8891543ba33#ref=rss)
-* [https://www.spiegel.de/ausland/pelosi-in-taiwan-warum-die-welt-in-die-naechste-grosskrise-schlittern-koennte](https://www.spiegel.de/ausland/pelosi-in-taiwan-warum-die-welt-in-die-naechste-grosskrise-schlittern-koennte-a-51c9a19e-7c45-4a7f-bf5f-616e397f3e26#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lebensmittel-produktion-von-alkoholfreiem-bier-steigt-deutlich-74-prozent-in-zehn-jahren](https://www.spiegel.de/wirtschaft/unternehmen/lebensmittel-produktion-von-alkoholfreiem-bier-steigt-deutlich-74-prozent-in-zehn-jahren-a-268a9045-1fc1-499b-8fbc-ef9911c5a230#ref=rss)
-### bier
+* [https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-in-deutschland-steigt-erstmals-seit-2017-wieder-baby-boom-in-der-pandemie](https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-in-deutschland-steigt-erstmals-seit-2017-wieder-baby-boom-in-der-pandemie-a-b14b2c6a-41df-4a17-bb7e-3c8ff5ff4785#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heckler-und-koch-waffenfirma-mit-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/heckler-und-koch-waffenfirma-mit-deutlich-mehr-gewinn-a-4ae817fa-9f36-4e92-ac70-b7163e1a9b56#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-inzidenz-sinkt-erneut-rki-meldet-87-681-neuinfektionen](https://www.spiegel.de/wissenschaft/coronavirus-inzidenz-sinkt-erneut-rki-meldet-87-681-neuinfektionen-a-79b2553d-394a-44c4-ab1d-81af461b56b7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lindsey-graham-will-friedrich-merz-nun-gar-nicht-mehr-treffen](https://www.spiegel.de/politik/deutschland/lindsey-graham-will-friedrich-merz-nun-gar-nicht-mehr-treffen-a-f4a4b9a1-20f9-49f9-80e0-4f323abb150e#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lebensmittel-produktion-von-alkoholfreiem-bier-steigt-deutlich-74-prozent-in-zehn-jahren](https://www.spiegel.de/wirtschaft/unternehmen/lebensmittel-produktion-von-alkoholfreiem-bier-steigt-deutlich-74-prozent-in-zehn-jahren-a-268a9045-1fc1-499b-8fbc-ef9911c5a230#ref=rss)
-### sozialen
-
-* [https://www.spiegel.de/psychologie/midlife-kolumne-raus-aus-der-sozialen-blase](https://www.spiegel.de/psychologie/midlife-kolumne-raus-aus-der-sozialen-blase-a-1f88346b-697f-4734-96ab-d141c225f43c#ref=rss)
-### blase
-
-* [https://www.spiegel.de/psychologie/midlife-kolumne-raus-aus-der-sozialen-blase](https://www.spiegel.de/psychologie/midlife-kolumne-raus-aus-der-sozialen-blase-a-1f88346b-697f-4734-96ab-d141c225f43c#ref=rss)
-### vaterschaftsurlaub
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-setzt-eu-regeln-fuer-vaterschaftsurlaub-spaeter-um](https://www.spiegel.de/wirtschaft/soziales/deutschland-setzt-eu-regeln-fuer-vaterschaftsurlaub-spaeter-um-a-4761aefa-c28c-4475-8b5d-1fc098b77c75#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/wirtschaft/soziales/deutschland-setzt-eu-regeln-fuer-vaterschaftsurlaub-spaeter-um](https://www.spiegel.de/wirtschaft/soziales/deutschland-setzt-eu-regeln-fuer-vaterschaftsurlaub-spaeter-um-a-4761aefa-c28c-4475-8b5d-1fc098b77c75#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lebensmittel-produktion-von-alkoholfreiem-bier-steigt-deutlich-74-prozent-in-zehn-jahren](https://www.spiegel.de/wirtschaft/unternehmen/lebensmittel-produktion-von-alkoholfreiem-bier-steigt-deutlich-74-prozent-in-zehn-jahren-a-268a9045-1fc1-499b-8fbc-ef9911c5a230#ref=rss)
-### annalena
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-wirbt-fuer-transatlantisches-verhaeltnis-auf-augenhoehe](https://www.spiegel.de/politik/deutschland/annalena-baerbock-wirbt-fuer-transatlantisches-verhaeltnis-auf-augenhoehe-a-2a208707-e456-4911-83ab-6c059e43430a#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-wirbt-fuer-transatlantisches-verhaeltnis-auf-augenhoehe](https://www.spiegel.de/politik/deutschland/annalena-baerbock-wirbt-fuer-transatlantisches-verhaeltnis-auf-augenhoehe-a-2a208707-e456-4911-83ab-6c059e43430a#ref=rss)
-### viele
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-wirbt-fuer-transatlantisches-verhaeltnis-auf-augenhoehe](https://www.spiegel.de/politik/deutschland/annalena-baerbock-wirbt-fuer-transatlantisches-verhaeltnis-auf-augenhoehe-a-2a208707-e456-4911-83ab-6c059e43430a#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi](https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi-a-a131dfa3-977a-4071-85de-bffc73e99579#ref=rss)
-### droht
-
-* [https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel](https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel-a-14ffce5e-673d-4e44-b2c4-f323114dbce4#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet-a-9da912d6-02ac-482c-ae44-9d5779bf5b00#ref=rss)
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann](https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann-a-1c28fd0a-8ea1-4efa-8e57-8a722616db4a#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream](https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream-a-92b9f70b-08f5-4be1-834d-a1e7113a0415#ref=rss)
 ### reagiert
 
-* [https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel](https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel-a-14ffce5e-673d-4e44-b2c4-f323114dbce4#ref=rss)
-### drohungen
-
-* [https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel](https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel-a-14ffce5e-673d-4e44-b2c4-f323114dbce4#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi](https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi-a-a131dfa3-977a-4071-85de-bffc73e99579#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel](https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel-a-14ffce5e-673d-4e44-b2c4-f323114dbce4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lebensmittel-produktion-von-alkoholfreiem-bier-steigt-deutlich-74-prozent-in-zehn-jahren](https://www.spiegel.de/wirtschaft/unternehmen/lebensmittel-produktion-von-alkoholfreiem-bier-steigt-deutlich-74-prozent-in-zehn-jahren-a-268a9045-1fc1-499b-8fbc-ef9911c5a230#ref=rss)
-### fordern
-
-* [https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel](https://www.spiegel.de/politik/deutschland/china-droht-usa-und-taiwan-so-reagiert-deutschland-verwerflich-und-indiskutabel-a-14ffce5e-673d-4e44-b2c4-f323114dbce4#ref=rss)
-* [https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen](https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen-a-d4ce4856-945b-459c-b06a-f04fe840ca43#ref=rss)
-### italien
-
-* [https://www.spiegel.de/ausland/italien-mitte-links-block-gegen-rechte-parteien](https://www.spiegel.de/ausland/italien-mitte-links-block-gegen-rechte-parteien-a-af889141-4b34-48e3-92a8-62acd8f0ab44#ref=rss)
-* [https://www.spiegel.de/ausland/italien-kampaniens-praesident-protestiert-gegen-ankunft-von-migranten-auf-der-ocean-viking](https://www.spiegel.de/ausland/italien-kampaniens-praesident-protestiert-gegen-ankunft-von-migranten-auf-der-ocean-viking-a-65d1b1bb-a6fa-44d0-b056-d2248ab52f64#ref=rss)
-### parteien
-
-* [https://www.spiegel.de/ausland/italien-mitte-links-block-gegen-rechte-parteien](https://www.spiegel.de/ausland/italien-mitte-links-block-gegen-rechte-parteien-a-af889141-4b34-48e3-92a8-62acd8f0ab44#ref=rss)
-### ende
-
-* [https://www.spiegel.de/ausland/italien-mitte-links-block-gegen-rechte-parteien](https://www.spiegel.de/ausland/italien-mitte-links-block-gegen-rechte-parteien-a-af889141-4b34-48e3-92a8-62acd8f0ab44#ref=rss)
-* [https://www.spiegel.de/ausland/china-behoerden-gehen-von-bevoelkerungsschwund-bis-2025-aus](https://www.spiegel.de/ausland/china-behoerden-gehen-von-bevoelkerungsschwund-bis-2025-aus-a-7d6ae6fe-5ee0-47a2-90c1-77ba08d32e64#ref=rss)
-### turbine
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-1-turbine-fuer-gas-pipeline-offenbar-weiter-in-deutschland](https://www.spiegel.de/wirtschaft/nord-stream-1-turbine-fuer-gas-pipeline-offenbar-weiter-in-deutschland-a-337b9ec8-311c-4e29-a92d-e3f475d896d6#ref=rss)
-### deutliche
-
-* [https://www.spiegel.de/wirtschaft/nord-stream-1-turbine-fuer-gas-pipeline-offenbar-weiter-in-deutschland](https://www.spiegel.de/wirtschaft/nord-stream-1-turbine-fuer-gas-pipeline-offenbar-weiter-in-deutschland-a-337b9ec8-311c-4e29-a92d-e3f475d896d6#ref=rss)
-* [https://www.spiegel.de/ausland/china-behoerden-gehen-von-bevoelkerungsschwund-bis-2025-aus](https://www.spiegel.de/ausland/china-behoerden-gehen-von-bevoelkerungsschwund-bis-2025-aus-a-7d6ae6fe-5ee0-47a2-90c1-77ba08d32e64#ref=rss)
-### chinas
-
-* [https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi](https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi-a-a131dfa3-977a-4071-85de-bffc73e99579#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi](https://www.spiegel.de/ausland/taiwan-uebungen-fuer-den-fall-eines-angriffs-chinas-vor-besuch-von-nancy-pelosi-a-a131dfa3-977a-4071-85de-bffc73e99579#ref=rss)
-* [https://www.spiegel.de/ausland/italien-kampaniens-praesident-protestiert-gegen-ankunft-von-migranten-auf-der-ocean-viking](https://www.spiegel.de/ausland/italien-kampaniens-praesident-protestiert-gegen-ankunft-von-migranten-auf-der-ocean-viking-a-65d1b1bb-a6fa-44d0-b056-d2248ab52f64#ref=rss)
-### mercedes
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-nancy-pelosi-in-taiwan-ayman-al-sawahiri-mercedes](https://www.spiegel.de/politik/deutschland/news-des-tages-nancy-pelosi-in-taiwan-ayman-al-sawahiri-mercedes-a-29dccb64-0bf2-4bbc-9b1c-fe9c2887d34f#ref=rss)
-### lidl
-
-* [https://www.spiegel.de/wirtschaft/lidl-gibt-im-streit-mit-verbraucherschuetzern-nach-mueslipackung-soll-voller-werden](https://www.spiegel.de/wirtschaft/lidl-gibt-im-streit-mit-verbraucherschuetzern-nach-mueslipackung-soll-voller-werden-a-8bc269e2-d073-4cdf-b485-90ecd98c2c22#ref=rss)
-### voller
-
-* [https://www.spiegel.de/wirtschaft/lidl-gibt-im-streit-mit-verbraucherschuetzern-nach-mueslipackung-soll-voller-werden](https://www.spiegel.de/wirtschaft/lidl-gibt-im-streit-mit-verbraucherschuetzern-nach-mueslipackung-soll-voller-werden-a-8bc269e2-d073-4cdf-b485-90ecd98c2c22#ref=rss)
-### erst
-
-* [https://www.spiegel.de/wirtschaft/lidl-gibt-im-streit-mit-verbraucherschuetzern-nach-mueslipackung-soll-voller-werden](https://www.spiegel.de/wirtschaft/lidl-gibt-im-streit-mit-verbraucherschuetzern-nach-mueslipackung-soll-voller-werden-a-8bc269e2-d073-4cdf-b485-90ecd98c2c22#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/trude-unruh-ist-tot](https://www.spiegel.de/politik/deutschland/trude-unruh-ist-tot-a-cab54247-bfda-42b7-867f-a5301fcd5ccd#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/netzwelt/web/bier-werbung-polizei-essen-bittet-nach-twitter-panne-um-entschuldigung](https://www.spiegel.de/netzwelt/web/bier-werbung-polizei-essen-bittet-nach-twitter-panne-um-entschuldigung-a-cc1b288d-7c59-484d-a842-2a97dddc4cc4#ref=rss)
-### essen
-
-* [https://www.spiegel.de/netzwelt/web/bier-werbung-polizei-essen-bittet-nach-twitter-panne-um-entschuldigung](https://www.spiegel.de/netzwelt/web/bier-werbung-polizei-essen-bittet-nach-twitter-panne-um-entschuldigung-a-cc1b288d-7c59-484d-a842-2a97dddc4cc4#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/netzwelt/web/bier-werbung-polizei-essen-bittet-nach-twitter-panne-um-entschuldigung](https://www.spiegel.de/netzwelt/web/bier-werbung-polizei-essen-bittet-nach-twitter-panne-um-entschuldigung-a-cc1b288d-7c59-484d-a842-2a97dddc4cc4#ref=rss)
-* [https://www.spiegel.de/panorama/waldbraende-in-tschechien-das-feuer-war-noch-nie-so-gross](https://www.spiegel.de/panorama/waldbraende-in-tschechien-das-feuer-war-noch-nie-so-gross-a-e99ef479-ff41-4822-b6ba-2c022a4351cd#ref=rss)
-### waldbrände
-
-* [https://www.spiegel.de/panorama/waldbraende-in-tschechien-das-feuer-war-noch-nie-so-gross](https://www.spiegel.de/panorama/waldbraende-in-tschechien-das-feuer-war-noch-nie-so-gross-a-e99ef479-ff41-4822-b6ba-2c022a4351cd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/waldbraende-saechsische-schweiz-112-anrufen-und-auf-regen-hoffen-ist-keine-strategie](https://www.spiegel.de/wissenschaft/natur/waldbraende-saechsische-schweiz-112-anrufen-und-auf-regen-hoffen-ist-keine-strategie-a-80e4721a-e48a-481d-9792-90b2116e3e35#ref=rss)
-### sachsen
-
-* [https://www.spiegel.de/panorama/waldbraende-in-tschechien-das-feuer-war-noch-nie-so-gross](https://www.spiegel.de/panorama/waldbraende-in-tschechien-das-feuer-war-noch-nie-so-gross-a-e99ef479-ff41-4822-b6ba-2c022a4351cd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/waldbraende-saechsische-schweiz-112-anrufen-und-auf-regen-hoffen-ist-keine-strategie](https://www.spiegel.de/wissenschaft/natur/waldbraende-saechsische-schweiz-112-anrufen-und-auf-regen-hoffen-ist-keine-strategie-a-80e4721a-e48a-481d-9792-90b2116e3e35#ref=rss)
-### gefährlich
-
-* [https://www.spiegel.de/panorama/waldbraende-in-tschechien-das-feuer-war-noch-nie-so-gross](https://www.spiegel.de/panorama/waldbraende-in-tschechien-das-feuer-war-noch-nie-so-gross-a-e99ef479-ff41-4822-b6ba-2c022a4351cd#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich](https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich-a-678a29e2-3d77-4842-88b2-bee1fefcf2ab#ref=rss)
+* [https://www.spiegel.de/panorama/airbnb-bittet-nach-tiktok-video-fuer-sklavenhuetten-angebot-aus-mississippi-um-entschuldigung](https://www.spiegel.de/panorama/airbnb-bittet-nach-tiktok-video-fuer-sklavenhuetten-angebot-aus-mississippi-um-entschuldigung-a-d048927a-b215-4830-a972-9e57aa256289#ref=rss)
+* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-china-reagiert-tage-des-zorns](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-china-reagiert-tage-des-zorns-a-083c10cd-42e7-4c62-9247-af4e5111006c#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-fuerchtet-see-und-luftblockade-durch-chinas-militaer](https://www.spiegel.de/ausland/taiwan-fuerchtet-see-und-luftblockade-durch-chinas-militaer-a-8d9d2f00-f331-488e-a21b-a8cccadf00bf#ref=rss)
 ### münchen
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-mann-scheitert-mit-klage-gegen-homosexuelle-ampelpaerchen](https://www.spiegel.de/panorama/justiz/muenchen-mann-scheitert-mit-klage-gegen-homosexuelle-ampelpaerchen-a-255a106f-43b2-4d6c-bd24-1a688cbadf5a#ref=rss)
-### ampelpärchen
+* [https://www.spiegel.de/panorama/justiz/muenchen-86-jaehriger-verwechselt-treppe-mit-parkhauseinfahrt](https://www.spiegel.de/panorama/justiz/muenchen-86-jaehriger-verwechselt-treppe-mit-parkhauseinfahrt-a-d08e2cdf-05a1-406e-8217-ae665c2eb81d#ref=rss)
+* [https://www.spiegel.de/sport/bahnrad-olympiasiegerin-lisa-brennauer-beendet-ihre-karriere](https://www.spiegel.de/sport/bahnrad-olympiasiegerin-lisa-brennauer-beendet-ihre-karriere-a-bacb4d1c-4781-4ecc-9c33-3c553b173ddb#ref=rss)
+### infektionsschutzgesetz
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-mann-scheitert-mit-klage-gegen-homosexuelle-ampelpaerchen](https://www.spiegel.de/panorama/justiz/muenchen-mann-scheitert-mit-klage-gegen-homosexuelle-ampelpaerchen-a-255a106f-43b2-4d6c-bd24-1a688cbadf5a#ref=rss)
-### entschieden
+* [https://www.spiegel.de/politik/deutschland/corona-entwurf-fuer-infektionsschutzgesetz-sieht-maskenpflicht-in-innenraeumen-vor](https://www.spiegel.de/politik/deutschland/corona-entwurf-fuer-infektionsschutzgesetz-sieht-maskenpflicht-in-innenraeumen-vor-a-3cd4fef8-3c7a-442c-a72e-c22745d0418a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verhandlungen-ueber-neues-infektionsschutzgesetz-beendet](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verhandlungen-ueber-neues-infektionsschutzgesetz-beendet-a-ae8800d0-6809-40ad-b7a0-496be1072432#ref=rss)
+### nancy
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-mann-scheitert-mit-klage-gegen-homosexuelle-ampelpaerchen](https://www.spiegel.de/panorama/justiz/muenchen-mann-scheitert-mit-klage-gegen-homosexuelle-ampelpaerchen-a-255a106f-43b2-4d6c-bd24-1a688cbadf5a#ref=rss)
-* [https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen](https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen-a-d4ce4856-945b-459c-b06a-f04fe840ca43#ref=rss)
-### dürfen
+* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-china-reagiert-tage-des-zorns](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-china-reagiert-tage-des-zorns-a-083c10cd-42e7-4c62-9247-af4e5111006c#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-fuerchtet-see-und-luftblockade-durch-chinas-militaer](https://www.spiegel.de/ausland/taiwan-fuerchtet-see-und-luftblockade-durch-chinas-militaer-a-8d9d2f00-f331-488e-a21b-a8cccadf00bf#ref=rss)
+### pelosi
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-mann-scheitert-mit-klage-gegen-homosexuelle-ampelpaerchen](https://www.spiegel.de/panorama/justiz/muenchen-mann-scheitert-mit-klage-gegen-homosexuelle-ampelpaerchen-a-255a106f-43b2-4d6c-bd24-1a688cbadf5a#ref=rss)
-* [https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen](https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen-a-d4ce4856-945b-459c-b06a-f04fe840ca43#ref=rss)
-### bleiben
+* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-china-reagiert-tage-des-zorns](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-china-reagiert-tage-des-zorns-a-083c10cd-42e7-4c62-9247-af4e5111006c#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-fuerchtet-see-und-luftblockade-durch-chinas-militaer](https://www.spiegel.de/ausland/taiwan-fuerchtet-see-und-luftblockade-durch-chinas-militaer-a-8d9d2f00-f331-488e-a21b-a8cccadf00bf#ref=rss)
+### taiwan
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-mann-scheitert-mit-klage-gegen-homosexuelle-ampelpaerchen](https://www.spiegel.de/panorama/justiz/muenchen-mann-scheitert-mit-klage-gegen-homosexuelle-ampelpaerchen-a-255a106f-43b2-4d6c-bd24-1a688cbadf5a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-entscheidung-im-parteiausschlussverfahren-soll-montag-verkuendet-werden](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-entscheidung-im-parteiausschlussverfahren-soll-montag-verkuendet-werden-a-3c951f09-5ab9-4463-9162-fc0128938ad0#ref=rss)
-### 13jährigen
+* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-china-reagiert-tage-des-zorns](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-china-reagiert-tage-des-zorns-a-083c10cd-42e7-4c62-9247-af4e5111006c#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-fuerchtet-see-und-luftblockade-durch-chinas-militaer](https://www.spiegel.de/ausland/taiwan-fuerchtet-see-und-luftblockade-durch-chinas-militaer-a-8d9d2f00-f331-488e-a21b-a8cccadf00bf#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/justiz/berlin-angeklagter-nach-toedlichem-messerangriff-auf-13-jaehrigen-wegen-mordes-verurteilt](https://www.spiegel.de/panorama/justiz/berlin-angeklagter-nach-toedlichem-messerangriff-auf-13-jaehrigen-wegen-mordes-verurteilt-a-ee8d200d-3283-4a22-a41d-58125e23d796#ref=rss)
-### amsterdam
+* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-china-reagiert-tage-des-zorns](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-china-reagiert-tage-des-zorns-a-083c10cd-42e7-4c62-9247-af4e5111006c#ref=rss)
+* [https://www.spiegel.de/ausland/taiwan-fuerchtet-see-und-luftblockade-durch-chinas-militaer](https://www.spiegel.de/ausland/taiwan-fuerchtet-see-und-luftblockade-durch-chinas-militaer-a-8d9d2f00-f331-488e-a21b-a8cccadf00bf#ref=rss)
+### nord
 
-* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-verbietet-schilder-mit-trikot-wuenschen-voellig-aus-dem-ruder-gelaufen](https://www.spiegel.de/sport/fussball/ajax-amsterdam-verbietet-schilder-mit-trikot-wuenschen-voellig-aus-dem-ruder-gelaufen-a-96ed3875-b1bf-4179-a440-f8891543ba33#ref=rss)
-### schilder
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann](https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann-a-1c28fd0a-8ea1-4efa-8e57-8a722616db4a#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream](https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream-a-92b9f70b-08f5-4be1-834d-a1e7113a0415#ref=rss)
+### stream
 
-* [https://www.spiegel.de/sport/fussball/ajax-amsterdam-verbietet-schilder-mit-trikot-wuenschen-voellig-aus-dem-ruder-gelaufen](https://www.spiegel.de/sport/fussball/ajax-amsterdam-verbietet-schilder-mit-trikot-wuenschen-voellig-aus-dem-ruder-gelaufen-a-96ed3875-b1bf-4179-a440-f8891543ba33#ref=rss)
-### gerhard
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann](https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann-a-1c28fd0a-8ea1-4efa-8e57-8a722616db4a#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream](https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream-a-92b9f70b-08f5-4be1-834d-a1e7113a0415#ref=rss)
+### 1
 
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-entscheidung-im-parteiausschlussverfahren-soll-montag-verkuendet-werden](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-entscheidung-im-parteiausschlussverfahren-soll-montag-verkuendet-werden-a-3c951f09-5ab9-4463-9162-fc0128938ad0#ref=rss)
-### schröder
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann](https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann-a-1c28fd0a-8ea1-4efa-8e57-8a722616db4a#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream](https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream-a-92b9f70b-08f5-4be1-834d-a1e7113a0415#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-entscheidung-im-parteiausschlussverfahren-soll-montag-verkuendet-werden](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-entscheidung-im-parteiausschlussverfahren-soll-montag-verkuendet-werden-a-3c951f09-5ab9-4463-9162-fc0128938ad0#ref=rss)
-### entscheidung
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann](https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann-a-1c28fd0a-8ea1-4efa-8e57-8a722616db4a#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream](https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream-a-92b9f70b-08f5-4be1-834d-a1e7113a0415#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-entscheidung-im-parteiausschlussverfahren-soll-montag-verkuendet-werden](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-entscheidung-im-parteiausschlussverfahren-soll-montag-verkuendet-werden-a-3c951f09-5ab9-4463-9162-fc0128938ad0#ref=rss)
-### chinesische
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-so-wollen-grosskonzerne-gas-sparen](https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-so-wollen-grosskonzerne-gas-sparen-a-9011644b-aff3-41a7-a786-58bc81b047bc#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream](https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream-a-92b9f70b-08f5-4be1-834d-a1e7113a0415#ref=rss)
+* [https://www.spiegel.de/kultur/kino/batgirl-warner-bros-streicht-bereits-gedrehten-hbo-max-film](https://www.spiegel.de/kultur/kino/batgirl-warner-bros-streicht-bereits-gedrehten-hbo-max-film-a-f49502fa-d51e-4f87-8e2d-d96f825148d9#ref=rss)
+### airbnb
 
-* [https://www.spiegel.de/ausland/china-behoerden-gehen-von-bevoelkerungsschwund-bis-2025-aus](https://www.spiegel.de/ausland/china-behoerden-gehen-von-bevoelkerungsschwund-bis-2025-aus-a-7d6ae6fe-5ee0-47a2-90c1-77ba08d32e64#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich](https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich-a-678a29e2-3d77-4842-88b2-bee1fefcf2ab#ref=rss)
-### kritik
+* [https://www.spiegel.de/panorama/airbnb-bittet-nach-tiktok-video-fuer-sklavenhuetten-angebot-aus-mississippi-um-entschuldigung](https://www.spiegel.de/panorama/airbnb-bittet-nach-tiktok-video-fuer-sklavenhuetten-angebot-aus-mississippi-um-entschuldigung-a-d048927a-b215-4830-a972-9e57aa256289#ref=rss)
+### mississippi
 
-* [https://www.spiegel.de/ausland/china-behoerden-gehen-von-bevoelkerungsschwund-bis-2025-aus](https://www.spiegel.de/ausland/china-behoerden-gehen-von-bevoelkerungsschwund-bis-2025-aus-a-7d6ae6fe-5ee0-47a2-90c1-77ba08d32e64#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-liz-truss-zieht-umstrittene-sparplaene-fuer-oeffentlichen-dienst-wieder-zurueck](https://www.spiegel.de/ausland/grossbritannien-liz-truss-zieht-umstrittene-sparplaene-fuer-oeffentlichen-dienst-wieder-zurueck-a-ebb83474-5b03-4506-afa6-f7a1b3e09603#ref=rss)
-### timo
+* [https://www.spiegel.de/panorama/airbnb-bittet-nach-tiktok-video-fuer-sklavenhuetten-angebot-aus-mississippi-um-entschuldigung](https://www.spiegel.de/panorama/airbnb-bittet-nach-tiktok-video-fuer-sklavenhuetten-angebot-aus-mississippi-um-entschuldigung-a-d048927a-b215-4830-a972-9e57aa256289#ref=rss)
+### usbundesstaat
 
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-rueckkehr-von-timo-werner-zu-leipzig-wird-immer-konkreter](https://www.spiegel.de/sport/fussball/fussball-transferticker-rueckkehr-von-timo-werner-zu-leipzig-wird-immer-konkreter-a-46ed8061-684e-4ac3-9324-f3e347314a29#ref=rss)
-### werner
+* [https://www.spiegel.de/panorama/airbnb-bittet-nach-tiktok-video-fuer-sklavenhuetten-angebot-aus-mississippi-um-entschuldigung](https://www.spiegel.de/panorama/airbnb-bittet-nach-tiktok-video-fuer-sklavenhuetten-angebot-aus-mississippi-um-entschuldigung-a-d048927a-b215-4830-a972-9e57aa256289#ref=rss)
+* [https://www.spiegel.de/ausland/kansas-referendum-zur-verschaerfung-des-abtreibungsrechts-gescheitert](https://www.spiegel.de/ausland/kansas-referendum-zur-verschaerfung-des-abtreibungsrechts-gescheitert-a-bee47820-81da-400c-8ef0-fd428b711cee#ref=rss)
+### plattform
 
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-rueckkehr-von-timo-werner-zu-leipzig-wird-immer-konkreter](https://www.spiegel.de/sport/fussball/fussball-transferticker-rueckkehr-von-timo-werner-zu-leipzig-wird-immer-konkreter-a-46ed8061-684e-4ac3-9324-f3e347314a29#ref=rss)
-### wohl
+* [https://www.spiegel.de/panorama/airbnb-bittet-nach-tiktok-video-fuer-sklavenhuetten-angebot-aus-mississippi-um-entschuldigung](https://www.spiegel.de/panorama/airbnb-bittet-nach-tiktok-video-fuer-sklavenhuetten-angebot-aus-mississippi-um-entschuldigung-a-d048927a-b215-4830-a972-9e57aa256289#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/freevee-das-bietet-amazons-neuer-kostenloser-streaming-dienst](https://www.spiegel.de/netzwelt/apps/freevee-das-bietet-amazons-neuer-kostenloser-streaming-dienst-a-cde70aee-e20e-4fec-a660-e981c5f88c55#ref=rss)
+### 86jähriger
 
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-rueckkehr-von-timo-werner-zu-leipzig-wird-immer-konkreter](https://www.spiegel.de/sport/fussball/fussball-transferticker-rueckkehr-von-timo-werner-zu-leipzig-wird-immer-konkreter-a-46ed8061-684e-4ac3-9324-f3e347314a29#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-liz-truss-zieht-umstrittene-sparplaene-fuer-oeffentlichen-dienst-wieder-zurueck](https://www.spiegel.de/ausland/grossbritannien-liz-truss-zieht-umstrittene-sparplaene-fuer-oeffentlichen-dienst-wieder-zurueck-a-ebb83474-5b03-4506-afa6-f7a1b3e09603#ref=rss)
-### uber
+* [https://www.spiegel.de/panorama/justiz/muenchen-86-jaehriger-verwechselt-treppe-mit-parkhauseinfahrt](https://www.spiegel.de/panorama/justiz/muenchen-86-jaehriger-verwechselt-treppe-mit-parkhauseinfahrt-a-d08e2cdf-05a1-406e-8217-ae665c2eb81d#ref=rss)
+### treppe
 
-* [https://www.spiegel.de/wirtschaft/uber-umsatz-verdoppelt-starkes-zweites-quartal-trotz-hoher-inflation](https://www.spiegel.de/wirtschaft/uber-umsatz-verdoppelt-starkes-zweites-quartal-trotz-hoher-inflation-a-fbff36a4-8380-49e5-a5da-3379c97e7f83#ref=rss)
-### zweiten
+* [https://www.spiegel.de/panorama/justiz/muenchen-86-jaehriger-verwechselt-treppe-mit-parkhauseinfahrt](https://www.spiegel.de/panorama/justiz/muenchen-86-jaehriger-verwechselt-treppe-mit-parkhauseinfahrt-a-d08e2cdf-05a1-406e-8217-ae665c2eb81d#ref=rss)
+### parkhauseinfahrt
 
-* [https://www.spiegel.de/wirtschaft/uber-umsatz-verdoppelt-starkes-zweites-quartal-trotz-hoher-inflation](https://www.spiegel.de/wirtschaft/uber-umsatz-verdoppelt-starkes-zweites-quartal-trotz-hoher-inflation-a-fbff36a4-8380-49e5-a5da-3379c97e7f83#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bp-macht-8-5-milliarden-dollar-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/bp-macht-8-5-milliarden-dollar-gewinn-a-b1d50137-ee1c-430f-9784-190a17dcc36e#ref=rss)
-### sagt
+* [https://www.spiegel.de/panorama/justiz/muenchen-86-jaehriger-verwechselt-treppe-mit-parkhauseinfahrt](https://www.spiegel.de/panorama/justiz/muenchen-86-jaehriger-verwechselt-treppe-mit-parkhauseinfahrt-a-d08e2cdf-05a1-406e-8217-ae665c2eb81d#ref=rss)
+### stephen
 
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet-a-9da912d6-02ac-482c-ae44-9d5779bf5b00#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/waldbraende-saechsische-schweiz-112-anrufen-und-auf-regen-hoffen-ist-keine-strategie](https://www.spiegel.de/wissenschaft/natur/waldbraende-saechsische-schweiz-112-anrufen-und-auf-regen-hoffen-ist-keine-strategie-a-80e4721a-e48a-481d-9792-90b2116e3e35#ref=rss)
-### usspitzenpolitikerin
+* [https://www.spiegel.de/kultur/literatur/stephen-king-als-zeuge-gerichtsprozess-um-bertelsmann-und-simon-und-schuster](https://www.spiegel.de/kultur/literatur/stephen-king-als-zeuge-gerichtsprozess-um-bertelsmann-und-simon-und-schuster-a-899cacd3-cdc2-4968-b4b3-495203f6e187#ref=rss)
+### king
 
-* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-gelandet-a-9da912d6-02ac-482c-ae44-9d5779bf5b00#ref=rss)
-* [https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich](https://www.spiegel.de/ausland/taiwan-china-nennt-besuch-von-nancy-pelosi-gefaehrlich-a-678a29e2-3d77-4842-88b2-bee1fefcf2ab#ref=rss)
-### trude
+* [https://www.spiegel.de/kultur/literatur/stephen-king-als-zeuge-gerichtsprozess-um-bertelsmann-und-simon-und-schuster](https://www.spiegel.de/kultur/literatur/stephen-king-als-zeuge-gerichtsprozess-um-bertelsmann-und-simon-und-schuster-a-899cacd3-cdc2-4968-b4b3-495203f6e187#ref=rss)
+### bertelsmann
 
-* [https://www.spiegel.de/politik/deutschland/trude-unruh-ist-tot](https://www.spiegel.de/politik/deutschland/trude-unruh-ist-tot-a-cab54247-bfda-42b7-867f-a5301fcd5ccd#ref=rss)
-### unruh
+* [https://www.spiegel.de/kultur/literatur/stephen-king-als-zeuge-gerichtsprozess-um-bertelsmann-und-simon-und-schuster](https://www.spiegel.de/kultur/literatur/stephen-king-als-zeuge-gerichtsprozess-um-bertelsmann-und-simon-und-schuster-a-899cacd3-cdc2-4968-b4b3-495203f6e187#ref=rss)
+### regenwasser
 
-* [https://www.spiegel.de/politik/deutschland/trude-unruh-ist-tot](https://www.spiegel.de/politik/deutschland/trude-unruh-ist-tot-a-cab54247-bfda-42b7-867f-a5301fcd5ccd#ref=rss)
-### jahren
+* [https://www.spiegel.de/wissenschaft/natur/pfas-schadstoffe-verunreinigen-regenwasser](https://www.spiegel.de/wissenschaft/natur/pfas-schadstoffe-verunreinigen-regenwasser-a-602f0eab-71d6-4347-b247-b43367d7af7d#ref=rss)
+### welt
 
-* [https://www.spiegel.de/politik/deutschland/trude-unruh-ist-tot](https://www.spiegel.de/politik/deutschland/trude-unruh-ist-tot-a-cab54247-bfda-42b7-867f-a5301fcd5ccd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lebensmittel-produktion-von-alkoholfreiem-bier-steigt-deutlich-74-prozent-in-zehn-jahren](https://www.spiegel.de/wirtschaft/unternehmen/lebensmittel-produktion-von-alkoholfreiem-bier-steigt-deutlich-74-prozent-in-zehn-jahren-a-268a9045-1fc1-499b-8fbc-ef9911c5a230#ref=rss)
-### tod
+* [https://www.spiegel.de/wissenschaft/natur/pfas-schadstoffe-verunreinigen-regenwasser](https://www.spiegel.de/wissenschaft/natur/pfas-schadstoffe-verunreinigen-regenwasser-a-602f0eab-71d6-4347-b247-b43367d7af7d#ref=rss)
+* [https://www.spiegel.de/panorama/myanmar-meldet-geburt-eines-weissen-elefanten](https://www.spiegel.de/panorama/myanmar-meldet-geburt-eines-weissen-elefanten-a-46c844da-9d88-454f-9fd4-d0b331f6cfbb#ref=rss)
+### aiman
 
-* [https://www.spiegel.de/politik/deutschland/trude-unruh-ist-tot](https://www.spiegel.de/politik/deutschland/trude-unruh-ist-tot-a-cab54247-bfda-42b7-867f-a5301fcd5ccd#ref=rss)
-* [https://www.spiegel.de/ausland/die-lage-inside-austria-kanzler-nehammer-wackelt-ein-bisschen](https://www.spiegel.de/ausland/die-lage-inside-austria-kanzler-nehammer-wackelt-ein-bisschen-a-04491360-66f4-4e4e-b136-79c808e1571a#ref=rss)
-### prozent
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-wie-us-spione-den-al-qaida-anfuehrer-fanden](https://www.spiegel.de/ausland/aiman-al-sawahiri-wie-us-spione-den-al-qaida-anfuehrer-fanden-a-aefab97e-5fee-4530-9943-fba32ab074b8#ref=rss)
+### alsawahiri
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lebensmittel-produktion-von-alkoholfreiem-bier-steigt-deutlich-74-prozent-in-zehn-jahren](https://www.spiegel.de/wirtschaft/unternehmen/lebensmittel-produktion-von-alkoholfreiem-bier-steigt-deutlich-74-prozent-in-zehn-jahren-a-268a9045-1fc1-499b-8fbc-ef9911c5a230#ref=rss)
-### liz
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-wie-us-spione-den-al-qaida-anfuehrer-fanden](https://www.spiegel.de/ausland/aiman-al-sawahiri-wie-us-spione-den-al-qaida-anfuehrer-fanden-a-aefab97e-5fee-4530-9943-fba32ab074b8#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/ausland/grossbritannien-liz-truss-zieht-umstrittene-sparplaene-fuer-oeffentlichen-dienst-wieder-zurueck](https://www.spiegel.de/ausland/grossbritannien-liz-truss-zieht-umstrittene-sparplaene-fuer-oeffentlichen-dienst-wieder-zurueck-a-ebb83474-5b03-4506-afa6-f7a1b3e09603#ref=rss)
-### truss
+* [https://www.spiegel.de/ausland/aiman-al-sawahiri-wie-us-spione-den-al-qaida-anfuehrer-fanden](https://www.spiegel.de/ausland/aiman-al-sawahiri-wie-us-spione-den-al-qaida-anfuehrer-fanden-a-aefab97e-5fee-4530-9943-fba32ab074b8#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/fall-ayleen-und-digitalwelten-so-leicht-ist-es-in-fortnite-fremde-kennenzulernen](https://www.spiegel.de/netzwelt/games/fall-ayleen-und-digitalwelten-so-leicht-ist-es-in-fortnite-fremde-kennenzulernen-a-962a37a9-ebdf-42f2-8697-de17babd1a6f#ref=rss)
+### corona
 
-* [https://www.spiegel.de/ausland/grossbritannien-liz-truss-zieht-umstrittene-sparplaene-fuer-oeffentlichen-dienst-wieder-zurueck](https://www.spiegel.de/ausland/grossbritannien-liz-truss-zieht-umstrittene-sparplaene-fuer-oeffentlichen-dienst-wieder-zurueck-a-ebb83474-5b03-4506-afa6-f7a1b3e09603#ref=rss)
-### milliarden
+* [https://www.spiegel.de/politik/deutschland/corona-entwurf-fuer-infektionsschutzgesetz-sieht-maskenpflicht-in-innenraeumen-vor](https://www.spiegel.de/politik/deutschland/corona-entwurf-fuer-infektionsschutzgesetz-sieht-maskenpflicht-in-innenraeumen-vor-a-3cd4fef8-3c7a-442c-a72e-c22745d0418a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-in-deutschland-steigt-erstmals-seit-2017-wieder-baby-boom-in-der-pandemie](https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-in-deutschland-steigt-erstmals-seit-2017-wieder-baby-boom-in-der-pandemie-a-b14b2c6a-41df-4a17-bb7e-3c8ff5ff4785#ref=rss)
+### entwurf
 
-* [https://www.spiegel.de/ausland/grossbritannien-liz-truss-zieht-umstrittene-sparplaene-fuer-oeffentlichen-dienst-wieder-zurueck](https://www.spiegel.de/ausland/grossbritannien-liz-truss-zieht-umstrittene-sparplaene-fuer-oeffentlichen-dienst-wieder-zurueck-a-ebb83474-5b03-4506-afa6-f7a1b3e09603#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bp-macht-8-5-milliarden-dollar-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/bp-macht-8-5-milliarden-dollar-gewinn-a-b1d50137-ee1c-430f-9784-190a17dcc36e#ref=rss)
-### migranten
+* [https://www.spiegel.de/politik/deutschland/corona-entwurf-fuer-infektionsschutzgesetz-sieht-maskenpflicht-in-innenraeumen-vor](https://www.spiegel.de/politik/deutschland/corona-entwurf-fuer-infektionsschutzgesetz-sieht-maskenpflicht-in-innenraeumen-vor-a-3cd4fef8-3c7a-442c-a72e-c22745d0418a#ref=rss)
+### maskenpflicht
 
-* [https://www.spiegel.de/ausland/italien-kampaniens-praesident-protestiert-gegen-ankunft-von-migranten-auf-der-ocean-viking](https://www.spiegel.de/ausland/italien-kampaniens-praesident-protestiert-gegen-ankunft-von-migranten-auf-der-ocean-viking-a-65d1b1bb-a6fa-44d0-b056-d2248ab52f64#ref=rss)
-### ocean
+* [https://www.spiegel.de/politik/deutschland/corona-entwurf-fuer-infektionsschutzgesetz-sieht-maskenpflicht-in-innenraeumen-vor](https://www.spiegel.de/politik/deutschland/corona-entwurf-fuer-infektionsschutzgesetz-sieht-maskenpflicht-in-innenraeumen-vor-a-3cd4fef8-3c7a-442c-a72e-c22745d0418a#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/ausland/italien-kampaniens-praesident-protestiert-gegen-ankunft-von-migranten-auf-der-ocean-viking](https://www.spiegel.de/ausland/italien-kampaniens-praesident-protestiert-gegen-ankunft-von-migranten-auf-der-ocean-viking-a-65d1b1bb-a6fa-44d0-b056-d2248ab52f64#ref=rss)
-### viking
+* [https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-china-reagiert-tage-des-zorns](https://www.spiegel.de/ausland/nancy-pelosi-in-taiwan-china-reagiert-tage-des-zorns-a-083c10cd-42e7-4c62-9247-af4e5111006c#ref=rss)
+* [https://www.spiegel.de/gesundheit/long-covid-auch-haarausfall-und-libidoverlust-koennen-folgen-von-covid-19-sein](https://www.spiegel.de/gesundheit/long-covid-auch-haarausfall-und-libidoverlust-koennen-folgen-von-covid-19-sein-a-27f27923-4913-4d57-b0aa-ecf53702ff0e#ref=rss)
+### pandemie
 
-* [https://www.spiegel.de/ausland/italien-kampaniens-praesident-protestiert-gegen-ankunft-von-migranten-auf-der-ocean-viking](https://www.spiegel.de/ausland/italien-kampaniens-praesident-protestiert-gegen-ankunft-von-migranten-auf-der-ocean-viking-a-65d1b1bb-a6fa-44d0-b056-d2248ab52f64#ref=rss)
-### bp
+* [https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-in-deutschland-steigt-erstmals-seit-2017-wieder-baby-boom-in-der-pandemie](https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-in-deutschland-steigt-erstmals-seit-2017-wieder-baby-boom-in-der-pandemie-a-b14b2c6a-41df-4a17-bb7e-3c8ff5ff4785#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verhandlungen-ueber-neues-infektionsschutzgesetz-beendet](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verhandlungen-ueber-neues-infektionsschutzgesetz-beendet-a-ae8800d0-6809-40ad-b7a0-496be1072432#ref=rss)
+### 2021
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bp-macht-8-5-milliarden-dollar-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/bp-macht-8-5-milliarden-dollar-gewinn-a-b1d50137-ee1c-430f-9784-190a17dcc36e#ref=rss)
-### gewinn
+* [https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-in-deutschland-steigt-erstmals-seit-2017-wieder-baby-boom-in-der-pandemie](https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-in-deutschland-steigt-erstmals-seit-2017-wieder-baby-boom-in-der-pandemie-a-b14b2c6a-41df-4a17-bb7e-3c8ff5ff4785#ref=rss)
+* [https://www.spiegel.de/sport/bahnrad-olympiasiegerin-lisa-brennauer-beendet-ihre-karriere](https://www.spiegel.de/sport/bahnrad-olympiasiegerin-lisa-brennauer-beendet-ihre-karriere-a-bacb4d1c-4781-4ecc-9c33-3c553b173ddb#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bp-macht-8-5-milliarden-dollar-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/bp-macht-8-5-milliarden-dollar-gewinn-a-b1d50137-ee1c-430f-9784-190a17dcc36e#ref=rss)
-### britische
+* [https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-in-deutschland-steigt-erstmals-seit-2017-wieder-baby-boom-in-der-pandemie](https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-in-deutschland-steigt-erstmals-seit-2017-wieder-baby-boom-in-der-pandemie-a-b14b2c6a-41df-4a17-bb7e-3c8ff5ff4785#ref=rss)
+* [https://www.spiegel.de/wirtschaft/heckler-und-koch-waffenfirma-mit-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/heckler-und-koch-waffenfirma-mit-deutlich-mehr-gewinn-a-4ae817fa-9f36-4e92-ac70-b7163e1a9b56#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bp-macht-8-5-milliarden-dollar-gewinn](https://www.spiegel.de/wirtschaft/unternehmen/bp-macht-8-5-milliarden-dollar-gewinn-a-b1d50137-ee1c-430f-9784-190a17dcc36e#ref=rss)
-* [https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen](https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen-a-d4ce4856-945b-459c-b06a-f04fe840ca43#ref=rss)
-### archie
+* [https://www.spiegel.de/gesundheit/long-covid-auch-haarausfall-und-libidoverlust-koennen-folgen-von-covid-19-sein](https://www.spiegel.de/gesundheit/long-covid-auch-haarausfall-und-libidoverlust-koennen-folgen-von-covid-19-sein-a-27f27923-4913-4d57-b0aa-ecf53702ff0e#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream](https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream-a-92b9f70b-08f5-4be1-834d-a1e7113a0415#ref=rss)
+### heckler
 
-* [https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen](https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen-a-d4ce4856-945b-459c-b06a-f04fe840ca43#ref=rss)
-### koma
+* [https://www.spiegel.de/wirtschaft/heckler-und-koch-waffenfirma-mit-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/heckler-und-koch-waffenfirma-mit-deutlich-mehr-gewinn-a-4ae817fa-9f36-4e92-ac70-b7163e1a9b56#ref=rss)
+### koch
 
-* [https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen](https://www.spiegel.de/panorama/archie-im-koma-eltern-fordern-fortsetzung-der-lebenserhaltenden-massnahmen-a-d4ce4856-945b-459c-b06a-f04fe840ca43#ref=rss)
-### bayreuther
+* [https://www.spiegel.de/wirtschaft/heckler-und-koch-waffenfirma-mit-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/heckler-und-koch-waffenfirma-mit-deutlich-mehr-gewinn-a-4ae817fa-9f36-4e92-ac70-b7163e1a9b56#ref=rss)
+### gar
 
-* [https://www.spiegel.de/kultur/bayreuther-festspiele-wotan-saenger-will-am-mittwoch-auftreten](https://www.spiegel.de/kultur/bayreuther-festspiele-wotan-saenger-will-am-mittwoch-auftreten-a-f8f0003f-6d80-4a4b-a4f1-808e047f41d3#ref=rss)
-### festspiele
+* [https://www.spiegel.de/wirtschaft/heckler-und-koch-waffenfirma-mit-deutlich-mehr-gewinn](https://www.spiegel.de/wirtschaft/heckler-und-koch-waffenfirma-mit-deutlich-mehr-gewinn-a-4ae817fa-9f36-4e92-ac70-b7163e1a9b56#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lindsey-graham-will-friedrich-merz-nun-gar-nicht-mehr-treffen](https://www.spiegel.de/politik/deutschland/lindsey-graham-will-friedrich-merz-nun-gar-nicht-mehr-treffen-a-f4a4b9a1-20f9-49f9-80e0-4f323abb150e#ref=rss)
+### bernd
 
-* [https://www.spiegel.de/kultur/bayreuther-festspiele-wotan-saenger-will-am-mittwoch-auftreten](https://www.spiegel.de/kultur/bayreuther-festspiele-wotan-saenger-will-am-mittwoch-auftreten-a-f8f0003f-6d80-4a4b-a4f1-808e047f41d3#ref=rss)
-### wotansänger
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-bernd-leno-wechselt-zum-fc-fulham](https://www.spiegel.de/sport/fussball/fussball-transferticker-bernd-leno-wechselt-zum-fc-fulham-a-962bc96e-43f0-46d4-8bf0-3d952988c197#ref=rss)
+### leno
 
-* [https://www.spiegel.de/kultur/bayreuther-festspiele-wotan-saenger-will-am-mittwoch-auftreten](https://www.spiegel.de/kultur/bayreuther-festspiele-wotan-saenger-will-am-mittwoch-auftreten-a-f8f0003f-6d80-4a4b-a4f1-808e047f41d3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-transferticker-bernd-leno-wechselt-zum-fc-fulham](https://www.spiegel.de/sport/fussball/fussball-transferticker-bernd-leno-wechselt-zum-fc-fulham-a-962bc96e-43f0-46d4-8bf0-3d952988c197#ref=rss)
+### 31
+
+* [https://www.spiegel.de/panorama/justiz/brandanschlag-im-saarland-vor-31-jahren-bundesanwaltschaft-klagt-rechtsextremisten-wegen-mordes-an](https://www.spiegel.de/panorama/justiz/brandanschlag-im-saarland-vor-31-jahren-bundesanwaltschaft-klagt-rechtsextremisten-wegen-mordes-an-a-5e196a2f-a718-421a-90ed-ff71d70c0ef3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-inzidenz-sinkt-erneut-rki-meldet-87-681-neuinfektionen](https://www.spiegel.de/wissenschaft/coronavirus-inzidenz-sinkt-erneut-rki-meldet-87-681-neuinfektionen-a-79b2553d-394a-44c4-ab1d-81af461b56b7#ref=rss)
+### bundesanwaltschaft
+
+* [https://www.spiegel.de/panorama/justiz/brandanschlag-im-saarland-vor-31-jahren-bundesanwaltschaft-klagt-rechtsextremisten-wegen-mordes-an](https://www.spiegel.de/panorama/justiz/brandanschlag-im-saarland-vor-31-jahren-bundesanwaltschaft-klagt-rechtsextremisten-wegen-mordes-an-a-5e196a2f-a718-421a-90ed-ff71d70c0ef3#ref=rss)
+### freevee
+
+* [https://www.spiegel.de/netzwelt/apps/freevee-das-bietet-amazons-neuer-kostenloser-streaming-dienst](https://www.spiegel.de/netzwelt/apps/freevee-das-bietet-amazons-neuer-kostenloser-streaming-dienst-a-cde70aee-e20e-4fec-a660-e981c5f88c55#ref=rss)
+### amazons
+
+* [https://www.spiegel.de/netzwelt/apps/freevee-das-bietet-amazons-neuer-kostenloser-streaming-dienst](https://www.spiegel.de/netzwelt/apps/freevee-das-bietet-amazons-neuer-kostenloser-streaming-dienst-a-cde70aee-e20e-4fec-a660-e981c5f88c55#ref=rss)
+### streamingdienst
+
+* [https://www.spiegel.de/netzwelt/apps/freevee-das-bietet-amazons-neuer-kostenloser-streaming-dienst](https://www.spiegel.de/netzwelt/apps/freevee-das-bietet-amazons-neuer-kostenloser-streaming-dienst-a-cde70aee-e20e-4fec-a660-e981c5f88c55#ref=rss)
+* [https://www.spiegel.de/kultur/kino/batgirl-warner-bros-streicht-bereits-gedrehten-hbo-max-film](https://www.spiegel.de/kultur/kino/batgirl-warner-bros-streicht-bereits-gedrehten-hbo-max-film-a-f49502fa-d51e-4f87-8e2d-d96f825148d9#ref=rss)
+### coronavirus
+
+* [https://www.spiegel.de/wissenschaft/coronavirus-inzidenz-sinkt-erneut-rki-meldet-87-681-neuinfektionen](https://www.spiegel.de/wissenschaft/coronavirus-inzidenz-sinkt-erneut-rki-meldet-87-681-neuinfektionen-a-79b2553d-394a-44c4-ab1d-81af461b56b7#ref=rss)
+### meldet
+
+* [https://www.spiegel.de/wissenschaft/coronavirus-inzidenz-sinkt-erneut-rki-meldet-87-681-neuinfektionen](https://www.spiegel.de/wissenschaft/coronavirus-inzidenz-sinkt-erneut-rki-meldet-87-681-neuinfektionen-a-79b2553d-394a-44c4-ab1d-81af461b56b7#ref=rss)
+* [https://www.spiegel.de/panorama/myanmar-meldet-geburt-eines-weissen-elefanten](https://www.spiegel.de/panorama/myanmar-meldet-geburt-eines-weissen-elefanten-a-46c844da-9d88-454f-9fd4-d0b331f6cfbb#ref=rss)
+### 24
+
+* [https://www.spiegel.de/wissenschaft/coronavirus-inzidenz-sinkt-erneut-rki-meldet-87-681-neuinfektionen](https://www.spiegel.de/wissenschaft/coronavirus-inzidenz-sinkt-erneut-rki-meldet-87-681-neuinfektionen-a-79b2553d-394a-44c4-ab1d-81af461b56b7#ref=rss)
+* [https://www.spiegel.de/sport/bahnrad-olympiasiegerin-lisa-brennauer-beendet-ihre-karriere](https://www.spiegel.de/sport/bahnrad-olympiasiegerin-lisa-brennauer-beendet-ihre-karriere-a-bacb4d1c-4781-4ecc-9c33-3c553b173ddb#ref=rss)
+### myanmar
+
+* [https://www.spiegel.de/panorama/myanmar-meldet-geburt-eines-weissen-elefanten](https://www.spiegel.de/panorama/myanmar-meldet-geburt-eines-weissen-elefanten-a-46c844da-9d88-454f-9fd4-d0b331f6cfbb#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann](https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann-a-1c28fd0a-8ea1-4efa-8e57-8a722616db4a#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream](https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream-a-92b9f70b-08f5-4be1-834d-a1e7113a0415#ref=rss)
+### turbine
+
+* [https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann](https://www.spiegel.de/wirtschaft/olaf-scholz-zu-nord-stream-1-es-gibt-keine-gruende-warum-diese-lieferung-nicht-stattfinden-kann-a-1c28fd0a-8ea1-4efa-8e57-8a722616db4a#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream](https://www.spiegel.de/politik/das-sagt-kanzler-olaf-scholz-zum-gasstreit-mit-russland-livestream-a-92b9f70b-08f5-4be1-834d-a1e7113a0415#ref=rss)
+### ayleen
+
+* [https://www.spiegel.de/netzwelt/games/fall-ayleen-und-digitalwelten-so-leicht-ist-es-in-fortnite-fremde-kennenzulernen](https://www.spiegel.de/netzwelt/games/fall-ayleen-und-digitalwelten-so-leicht-ist-es-in-fortnite-fremde-kennenzulernen-a-962a37a9-ebdf-42f2-8697-de17babd1a6f#ref=rss)
+### fortnite
+
+* [https://www.spiegel.de/netzwelt/games/fall-ayleen-und-digitalwelten-so-leicht-ist-es-in-fortnite-fremde-kennenzulernen](https://www.spiegel.de/netzwelt/games/fall-ayleen-und-digitalwelten-so-leicht-ist-es-in-fortnite-fremde-kennenzulernen-a-962a37a9-ebdf-42f2-8697-de17babd1a6f#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/netzwelt/games/fall-ayleen-und-digitalwelten-so-leicht-ist-es-in-fortnite-fremde-kennenzulernen](https://www.spiegel.de/netzwelt/games/fall-ayleen-und-digitalwelten-so-leicht-ist-es-in-fortnite-fremde-kennenzulernen-a-962a37a9-ebdf-42f2-8697-de17babd1a6f#ref=rss)
+* [https://www.spiegel.de/start/altersarmut-grossteil-der-studierenden-hat-laut-umfrage-angst](https://www.spiegel.de/start/altersarmut-grossteil-der-studierenden-hat-laut-umfrage-angst-a-b526447b-ecba-48fa-972f-558ea2a460d6#ref=rss)
+### energiekrise
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-so-wollen-grosskonzerne-gas-sparen](https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-so-wollen-grosskonzerne-gas-sparen-a-9011644b-aff3-41a7-a786-58bc81b047bc#ref=rss)
+### vorhaben
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-so-wollen-grosskonzerne-gas-sparen](https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-so-wollen-grosskonzerne-gas-sparen-a-9011644b-aff3-41a7-a786-58bc81b047bc#ref=rss)
+* [https://www.spiegel.de/ausland/kansas-referendum-zur-verschaerfung-des-abtreibungsrechts-gescheitert](https://www.spiegel.de/ausland/kansas-referendum-zur-verschaerfung-des-abtreibungsrechts-gescheitert-a-bee47820-81da-400c-8ef0-fd428b711cee#ref=rss)
+### lisa
+
+* [https://www.spiegel.de/sport/bahnrad-olympiasiegerin-lisa-brennauer-beendet-ihre-karriere](https://www.spiegel.de/sport/bahnrad-olympiasiegerin-lisa-brennauer-beendet-ihre-karriere-a-bacb4d1c-4781-4ecc-9c33-3c553b173ddb#ref=rss)
+### brennauer
+
+* [https://www.spiegel.de/sport/bahnrad-olympiasiegerin-lisa-brennauer-beendet-ihre-karriere](https://www.spiegel.de/sport/bahnrad-olympiasiegerin-lisa-brennauer-beendet-ihre-karriere-a-bacb4d1c-4781-4ecc-9c33-3c553b173ddb#ref=rss)
+### beendet
+
+* [https://www.spiegel.de/sport/bahnrad-olympiasiegerin-lisa-brennauer-beendet-ihre-karriere](https://www.spiegel.de/sport/bahnrad-olympiasiegerin-lisa-brennauer-beendet-ihre-karriere-a-bacb4d1c-4781-4ecc-9c33-3c553b173ddb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verhandlungen-ueber-neues-infektionsschutzgesetz-beendet](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verhandlungen-ueber-neues-infektionsschutzgesetz-beendet-a-ae8800d0-6809-40ad-b7a0-496be1072432#ref=rss)
+### lindsey
+
+* [https://www.spiegel.de/politik/deutschland/lindsey-graham-will-friedrich-merz-nun-gar-nicht-mehr-treffen](https://www.spiegel.de/politik/deutschland/lindsey-graham-will-friedrich-merz-nun-gar-nicht-mehr-treffen-a-f4a4b9a1-20f9-49f9-80e0-4f323abb150e#ref=rss)
+### graham
+
+* [https://www.spiegel.de/politik/deutschland/lindsey-graham-will-friedrich-merz-nun-gar-nicht-mehr-treffen](https://www.spiegel.de/politik/deutschland/lindsey-graham-will-friedrich-merz-nun-gar-nicht-mehr-treffen-a-f4a4b9a1-20f9-49f9-80e0-4f323abb150e#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/lindsey-graham-will-friedrich-merz-nun-gar-nicht-mehr-treffen](https://www.spiegel.de/politik/deutschland/lindsey-graham-will-friedrich-merz-nun-gar-nicht-mehr-treffen-a-f4a4b9a1-20f9-49f9-80e0-4f323abb150e#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/lindsey-graham-will-friedrich-merz-nun-gar-nicht-mehr-treffen](https://www.spiegel.de/politik/deutschland/lindsey-graham-will-friedrich-merz-nun-gar-nicht-mehr-treffen-a-f4a4b9a1-20f9-49f9-80e0-4f323abb150e#ref=rss)
+### umfrage
+
+* [https://www.spiegel.de/start/altersarmut-grossteil-der-studierenden-hat-laut-umfrage-angst](https://www.spiegel.de/start/altersarmut-grossteil-der-studierenden-hat-laut-umfrage-angst-a-b526447b-ecba-48fa-972f-558ea2a460d6#ref=rss)
+### leona
+
+* [https://www.spiegel.de/panorama/leute/leona-lewis-saengerin-ist-mutter-geworden](https://www.spiegel.de/panorama/leute/leona-lewis-saengerin-ist-mutter-geworden-a-a7d0213c-0639-4cee-a723-95c8ba7f6389#ref=rss)
+### lewis
+
+* [https://www.spiegel.de/panorama/leute/leona-lewis-saengerin-ist-mutter-geworden](https://www.spiegel.de/panorama/leute/leona-lewis-saengerin-ist-mutter-geworden-a-a7d0213c-0639-4cee-a723-95c8ba7f6389#ref=rss)
+### sängerin
+
+* [https://www.spiegel.de/panorama/leute/leona-lewis-saengerin-ist-mutter-geworden](https://www.spiegel.de/panorama/leute/leona-lewis-saengerin-ist-mutter-geworden-a-a7d0213c-0639-4cee-a723-95c8ba7f6389#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/leute/leona-lewis-saengerin-ist-mutter-geworden](https://www.spiegel.de/panorama/leute/leona-lewis-saengerin-ist-mutter-geworden-a-a7d0213c-0639-4cee-a723-95c8ba7f6389#ref=rss)
+### geworden
+
+* [https://www.spiegel.de/panorama/leute/leona-lewis-saengerin-ist-mutter-geworden](https://www.spiegel.de/panorama/leute/leona-lewis-saengerin-ist-mutter-geworden-a-a7d0213c-0639-4cee-a723-95c8ba7f6389#ref=rss)
+### karl
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verhandlungen-ueber-neues-infektionsschutzgesetz-beendet](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verhandlungen-ueber-neues-infektionsschutzgesetz-beendet-a-ae8800d0-6809-40ad-b7a0-496be1072432#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-verhandlungen-ueber-neues-infektionsschutzgesetz-beendet](https://www.spiegel.de/politik/deutschland/karl-lauterbach-verhandlungen-ueber-neues-infektionsschutzgesetz-beendet-a-ae8800d0-6809-40ad-b7a0-496be1072432#ref=rss)
+### kansas
+
+* [https://www.spiegel.de/ausland/kansas-referendum-zur-verschaerfung-des-abtreibungsrechts-gescheitert](https://www.spiegel.de/ausland/kansas-referendum-zur-verschaerfung-des-abtreibungsrechts-gescheitert-a-bee47820-81da-400c-8ef0-fd428b711cee#ref=rss)
+### gescheitert
+
+* [https://www.spiegel.de/ausland/kansas-referendum-zur-verschaerfung-des-abtreibungsrechts-gescheitert](https://www.spiegel.de/ausland/kansas-referendum-zur-verschaerfung-des-abtreibungsrechts-gescheitert-a-bee47820-81da-400c-8ef0-fd428b711cee#ref=rss)
+### batgirl
+
+* [https://www.spiegel.de/kultur/kino/batgirl-warner-bros-streicht-bereits-gedrehten-hbo-max-film](https://www.spiegel.de/kultur/kino/batgirl-warner-bros-streicht-bereits-gedrehten-hbo-max-film-a-f49502fa-d51e-4f87-8e2d-d96f825148d9#ref=rss)
 
