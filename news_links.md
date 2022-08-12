@@ -4,253 +4,231 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zwei
-
-* [https://www.spiegel.de/wirtschaft/bayerischer-rundfunk-technik-chefin-hat-zwei-autos-und-zwei-chauffeure](https://www.spiegel.de/wirtschaft/bayerischer-rundfunk-technik-chefin-hat-zwei-autos-und-zwei-chauffeure-a-1ba399d5-6a98-4766-a3d8-08a59be59780#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-julian-draxler-und-thilo-kehrer-droht-strafversetzung-in-liga-5](https://www.spiegel.de/sport/fussball/fussball-transferticker-julian-draxler-und-thilo-kehrer-droht-strafversetzung-in-liga-5-a-07de6208-713f-429a-b85a-9c11bc18300f#ref=rss)
-* [https://www.spiegel.de/panorama/missouri-hoehlenforscher-retten-vermisste-huendin-nach-zwei-monaten-durch-zufall](https://www.spiegel.de/panorama/missouri-hoehlenforscher-retten-vermisste-huendin-nach-zwei-monaten-durch-zufall-a-87f223c3-add0-4314-ac17-fe95a59dc783#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/zolgensma-zwei-kinder-sterben-nach-behandlung-mit-gentherapie-medikament](https://www.spiegel.de/wissenschaft/medizin/zolgensma-zwei-kinder-sterben-nach-behandlung-mit-gentherapie-medikament-a-1d269643-e7e4-45f2-8d4e-c8f91d4761ac#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/afghanistan-in-den-50-jahren-meines-lebens-herrschte-40-jahre-lang-krieg](https://www.spiegel.de/panorama/afghanistan-in-den-50-jahren-meines-lebens-herrschte-40-jahre-lang-krieg-a-93c101d5-6582-42b3-9d4a-ffc524ec3608#ref=rss)
-* [https://www.spiegel.de/start/bafoeg-erstmals-seit-jahren-wieder-mehr-studierende-gefoerdert](https://www.spiegel.de/start/bafoeg-erstmals-seit-jahren-wieder-mehr-studierende-gefoerdert-a-57805f0c-13d8-4859-9a4a-ff3758e20045#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-in-den-alpen-schweizer-gebirgspass-wird-erstmals-seit-2000-jahren-wieder-eisfrei](https://www.spiegel.de/wissenschaft/natur/klimawandel-in-den-alpen-schweizer-gebirgspass-wird-erstmals-seit-2000-jahren-wieder-eisfrei-a-8b6a4778-2dcd-4ead-a016-a34d2fa0855c#ref=rss)
-### september
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-in-den-alpen-schweizer-gebirgspass-wird-erstmals-seit-2000-jahren-wieder-eisfrei](https://www.spiegel.de/wissenschaft/natur/klimawandel-in-den-alpen-schweizer-gebirgspass-wird-erstmals-seit-2000-jahren-wieder-eisfrei-a-8b6a4778-2dcd-4ead-a016-a34d2fa0855c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-geht-von-auslieferung-angepasster-impfstoffe-im-september-aus](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-geht-von-auslieferung-angepasster-impfstoffe-im-september-aus-a-a38cebb8-1e0a-4ae5-8b8b-4ba4e2db8a31#ref=rss)
-* [https://www.spiegel.de/netzwelt/corona-warn-app-zeigt-frische-impfung-bald-in-gruen-an](https://www.spiegel.de/netzwelt/corona-warn-app-zeigt-frische-impfung-bald-in-gruen-an-a-0eb525de-57aa-4e3f-a4b1-06753142f95f#ref=rss)
-### lauterbach
-
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-geht-von-auslieferung-angepasster-impfstoffe-im-september-aus](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-geht-von-auslieferung-angepasster-impfstoffe-im-september-aus-a-a38cebb8-1e0a-4ae5-8b8b-4ba4e2db8a31#ref=rss)
-* [https://www.spiegel.de/wissenschaft/coronavirus-gesundheitsminister-lauterbach-erlaeutert-seinen-corona-kurs-livestream](https://www.spiegel.de/wissenschaft/coronavirus-gesundheitsminister-lauterbach-erlaeutert-seinen-corona-kurs-livestream-a-c2884985-55dc-4f40-9561-8f9d21c7cb4a#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/juergen-elsaesser-autobiografie-des-rechtsextremisten-darf-so-nicht-mehr-verbreitet-werden](https://www.spiegel.de/politik/deutschland/juergen-elsaesser-autobiografie-des-rechtsextremisten-darf-so-nicht-mehr-verbreitet-werden-a-5892086f-4784-47f6-acd9-108ea7fb0081#ref=rss)
-* [https://www.spiegel.de/wirtschaft/backhandwerk-gegen-discounter-keiner-will-mehr-baecker-werden-aber-luxusbrote-boomen](https://www.spiegel.de/wirtschaft/backhandwerk-gegen-discounter-keiner-will-mehr-baecker-werden-aber-luxusbrote-boomen-a-4b80217a-6fbe-4aac-a873-2c5f9c10aa8c#ref=rss)
-* [https://www.spiegel.de/start/bafoeg-erstmals-seit-jahren-wieder-mehr-studierende-gefoerdert](https://www.spiegel.de/start/bafoeg-erstmals-seit-jahren-wieder-mehr-studierende-gefoerdert-a-57805f0c-13d8-4859-9a4a-ff3758e20045#ref=rss)
-### tier
+* [https://www.spiegel.de/kultur/schullektuere-in-bayern-mehr-friedriche-als-frauen](https://www.spiegel.de/kultur/schullektuere-in-bayern-mehr-friedriche-als-frauen-a-8f994964-720f-4e07-929c-1899e4f01373#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-klagt-gegen-bundestag-das-steht-ehemaligen-bundeskanzlern-zu](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-klagt-gegen-bundestag-das-steht-ehemaligen-bundeskanzlern-zu-a-973682b4-c102-4bee-b384-bb933f9484c1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussballzweitligist-fc-st-pauli-spielt-mit-gendersternchen-auf-dem-trikot](https://www.spiegel.de/sport/fussball/fussballzweitligist-fc-st-pauli-spielt-mit-gendersternchen-auf-dem-trikot-a-d51279e6-1e36-4a8e-a35b-e44dae1cc6c7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/indien-mann-gewinnt-jahrzehntelangen-rechtsstreit-mit-der-indischen-bahn-wegen-45-cent](https://www.spiegel.de/panorama/justiz/indien-mann-gewinnt-jahrzehntelangen-rechtsstreit-mit-der-indischen-bahn-wegen-45-cent-a-8f5cd01a-315c-487b-bfff-5e43a93f24d5#ref=rss)
+* [https://www.spiegel.de/ausland/russland-greift-kramatorsk-an-vor-uns-liegt-fast-kein-leben-mehr](https://www.spiegel.de/ausland/russland-greift-kramatorsk-an-vor-uns-liegt-fast-kein-leben-mehr-a-261b8bbf-abcc-45b3-9d82-5491ee01cecf#ref=rss)
+* [https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus](https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus-a-8abdbf03-c526-4805-adad-95bd15e7ee02#ref=rss)
+### donald
 
-* [https://www.spiegel.de/panorama/justiz/bayern-falke-ueberlebt-zusammenprall-mit-auto-hinter-dem-kuehlergrill](https://www.spiegel.de/panorama/justiz/bayern-falke-ueberlebt-zusammenprall-mit-auto-hinter-dem-kuehlergrill-a-afcf6e62-9450-406e-9cda-9f2e93829cc3#ref=rss)
-* [https://www.spiegel.de/panorama/norwegen-muss-walross-freya-sterben-weil-schaulustige-zu-nah-rangehen](https://www.spiegel.de/panorama/norwegen-muss-walross-freya-sterben-weil-schaulustige-zu-nah-rangehen-a-168b67f2-76f1-431e-add4-423f0941a044#ref=rss)
-### erstmals
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger-a-2d705fa5-ef0e-4d4f-994c-ba8fa88b53c7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-zur-durchsuchung-von-mar-a-lago-das-atomwaffenthema-ist-ein-schwindel](https://www.spiegel.de/ausland/donald-trump-zur-durchsuchung-von-mar-a-lago-das-atomwaffenthema-ist-ein-schwindel-a-f298a0e5-0b0c-4279-8ef5-04334ff056f1#ref=rss)
+### trump
 
-* [https://www.spiegel.de/start/bafoeg-erstmals-seit-jahren-wieder-mehr-studierende-gefoerdert](https://www.spiegel.de/start/bafoeg-erstmals-seit-jahren-wieder-mehr-studierende-gefoerdert-a-57805f0c-13d8-4859-9a4a-ff3758e20045#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-in-den-alpen-schweizer-gebirgspass-wird-erstmals-seit-2000-jahren-wieder-eisfrei](https://www.spiegel.de/wissenschaft/natur/klimawandel-in-den-alpen-schweizer-gebirgspass-wird-erstmals-seit-2000-jahren-wieder-eisfrei-a-8b6a4778-2dcd-4ead-a016-a34d2fa0855c#ref=rss)
-### bundestag
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger-a-2d705fa5-ef0e-4d4f-994c-ba8fa88b53c7#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-zur-durchsuchung-von-mar-a-lago-das-atomwaffenthema-ist-ein-schwindel](https://www.spiegel.de/ausland/donald-trump-zur-durchsuchung-von-mar-a-lago-das-atomwaffenthema-ist-ein-schwindel-a-f298a0e5-0b0c-4279-8ef5-04334ff056f1#ref=rss)
+### ganz
 
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-hat-jedes-gespuer-fuer-anstand-verloren-reaktionen-auf-klage-gegen-bundestag](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-hat-jedes-gespuer-fuer-anstand-verloren-reaktionen-auf-klage-gegen-bundestag-a-842b8d6d-9961-440d-a517-a9dbf50f8084#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sonntagsfrage-gruene-und-union-liegen-gleichauf](https://www.spiegel.de/politik/deutschland/sonntagsfrage-gruene-und-union-liegen-gleichauf-a-1b7c0617-f1d4-4981-910a-5c17ae017544#ref=rss)
-### angela
+* [https://www.spiegel.de/sport/tyson-fury-will-doch-kein-box-comeback](https://www.spiegel.de/sport/tyson-fury-will-doch-kein-box-comeback-a-f4037099-bdc8-47f0-8e87-25985f184959#ref=rss)
+* [https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus](https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus-a-8abdbf03-c526-4805-adad-95bd15e7ee02#ref=rss)
+### tot
 
-* [https://www.spiegel.de/panorama/bildung/namensvetterin-angela-merkel-grundschuelerin-angela-bekommt-einschulungspost-von-merkel](https://www.spiegel.de/panorama/bildung/namensvetterin-angela-merkel-grundschuelerin-angela-bekommt-einschulungspost-von-merkel-a-81341587-31b2-4b46-9c1d-c8759d869ef0#ref=rss)
-### jürgen
+* [https://www.spiegel.de/panorama/leute/rolf-eden-ist-tot](https://www.spiegel.de/panorama/leute/rolf-eden-ist-tot-a-708d32b4-be7f-4f0d-86b5-1c15af5a8bf5#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jean-jacques-sempe-ist-tot-die-welt-fuenf-nummern-zu-gross](https://www.spiegel.de/kultur/literatur/jean-jacques-sempe-ist-tot-die-welt-fuenf-nummern-zu-gross-a-0379f95c-0ec8-4d9a-b00a-beb2370d0863#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/politik/deutschland/juergen-elsaesser-autobiografie-des-rechtsextremisten-darf-so-nicht-mehr-verbreitet-werden](https://www.spiegel.de/politik/deutschland/juergen-elsaesser-autobiografie-des-rechtsextremisten-darf-so-nicht-mehr-verbreitet-werden-a-5892086f-4784-47f6-acd9-108ea7fb0081#ref=rss)
-### elsässer
+* [https://www.spiegel.de/ausland/rishi-sunak-tory-politiker-laesst-sich-privatpool-anlage-bauen](https://www.spiegel.de/ausland/rishi-sunak-tory-politiker-laesst-sich-privatpool-anlage-bauen-a-45e8bf1f-b518-41b4-af9e-52cd322b4b70#ref=rss)
+* [https://www.spiegel.de/politik/bundeswehr-in-mali-die-deutschen-sind-nicht-willkommen-was-lernen-sie-daraus](https://www.spiegel.de/politik/bundeswehr-in-mali-die-deutschen-sind-nicht-willkommen-was-lernen-sie-daraus-a-3cbf143b-2303-4977-9d0b-5f1356aad940#ref=rss)
+* [https://www.spiegel.de/ausland/russland-greift-kramatorsk-an-vor-uns-liegt-fast-kein-leben-mehr](https://www.spiegel.de/ausland/russland-greift-kramatorsk-an-vor-uns-liegt-fast-kein-leben-mehr-a-261b8bbf-abcc-45b3-9d82-5491ee01cecf#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/politik/deutschland/juergen-elsaesser-autobiografie-des-rechtsextremisten-darf-so-nicht-mehr-verbreitet-werden](https://www.spiegel.de/politik/deutschland/juergen-elsaesser-autobiografie-des-rechtsextremisten-darf-so-nicht-mehr-verbreitet-werden-a-5892086f-4784-47f6-acd9-108ea7fb0081#ref=rss)
-### ich
+* [https://www.spiegel.de/wirtschaft/plastikpueppchen-aus-china-gericht-verbietet-haendler-den-verkauf-von-lego-raubkopien](https://www.spiegel.de/wirtschaft/plastikpueppchen-aus-china-gericht-verbietet-haendler-den-verkauf-von-lego-raubkopien-a-56a831bf-7cb7-41fd-8c12-9368e6570c12#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/indien-mann-gewinnt-jahrzehntelangen-rechtsstreit-mit-der-indischen-bahn-wegen-45-cent](https://www.spiegel.de/panorama/justiz/indien-mann-gewinnt-jahrzehntelangen-rechtsstreit-mit-der-indischen-bahn-wegen-45-cent-a-8f5cd01a-315c-487b-bfff-5e43a93f24d5#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/juergen-elsaesser-autobiografie-des-rechtsextremisten-darf-so-nicht-mehr-verbreitet-werden](https://www.spiegel.de/politik/deutschland/juergen-elsaesser-autobiografie-des-rechtsextremisten-darf-so-nicht-mehr-verbreitet-werden-a-5892086f-4784-47f6-acd9-108ea7fb0081#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin](https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin-a-9307d45d-2264-48bd-97c4-e42ef301190e#ref=rss)
-### timo
+* [https://www.spiegel.de/panorama/dortmund-hunderte-bei-trauerfeier-fuer-bei-polizeieinsatz-getoeteten-16-jaehrigen](https://www.spiegel.de/panorama/dortmund-hunderte-bei-trauerfeier-fuer-bei-polizeieinsatz-getoeteten-16-jaehrigen-a-67695e9c-27e9-4aa8-b943-6bef26d0ce63#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/jean-jacques-sempe-ist-tot-die-welt-fuenf-nummern-zu-gross](https://www.spiegel.de/kultur/literatur/jean-jacques-sempe-ist-tot-die-welt-fuenf-nummern-zu-gross-a-0379f95c-0ec8-4d9a-b00a-beb2370d0863#ref=rss)
+* [https://www.spiegel.de/ausland/russland-greift-kramatorsk-an-vor-uns-liegt-fast-kein-leben-mehr](https://www.spiegel.de/ausland/russland-greift-kramatorsk-an-vor-uns-liegt-fast-kein-leben-mehr-a-261b8bbf-abcc-45b3-9d82-5491ee01cecf#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/sport/fussball/sportgrafik-der-woche-hin-und-wieder-zurueck](https://www.spiegel.de/sport/fussball/sportgrafik-der-woche-hin-und-wieder-zurueck-a-3cd3eac6-62bd-44ad-9639-92bcdb2d12ee#ref=rss)
-### werner
+* [https://www.spiegel.de/ausland/kenia-beten-fuer-den-frieden-waehlen-unter-polizeischutz](https://www.spiegel.de/ausland/kenia-beten-fuer-den-frieden-waehlen-unter-polizeischutz-a-39dbdb28-5496-454e-924b-37e17241d5e0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schlesinger-affaere-neuer-ard-chef-tom-buhrow-kuendigt-ard-reformen-an](https://www.spiegel.de/wirtschaft/schlesinger-affaere-neuer-ard-chef-tom-buhrow-kuendigt-ard-reformen-an-a-44c4ff95-32a6-4a8e-a4c9-cd9678f0637e#ref=rss)
+### prozess
 
-* [https://www.spiegel.de/sport/fussball/sportgrafik-der-woche-hin-und-wieder-zurueck](https://www.spiegel.de/sport/fussball/sportgrafik-der-woche-hin-und-wieder-zurueck-a-3cd3eac6-62bd-44ad-9639-92bcdb2d12ee#ref=rss)
-### geschäft
+* [https://www.spiegel.de/panorama/prozess-um-ermordete-maryam-h-in-einen-koffer-passt-doch-kein-mensch](https://www.spiegel.de/panorama/prozess-um-ermordete-maryam-h-in-einen-koffer-passt-doch-kein-mensch-a-f1e41155-a910-4da3-b906-1a56644ffee4#ref=rss)
+### maryam
 
-* [https://www.spiegel.de/sport/fussball/sportgrafik-der-woche-hin-und-wieder-zurueck](https://www.spiegel.de/sport/fussball/sportgrafik-der-woche-hin-und-wieder-zurueck-a-3cd3eac6-62bd-44ad-9639-92bcdb2d12ee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/backhandwerk-gegen-discounter-keiner-will-mehr-baecker-werden-aber-luxusbrote-boomen](https://www.spiegel.de/wirtschaft/backhandwerk-gegen-discounter-keiner-will-mehr-baecker-werden-aber-luxusbrote-boomen-a-4b80217a-6fbe-4aac-a873-2c5f9c10aa8c#ref=rss)
-### 40
+* [https://www.spiegel.de/panorama/prozess-um-ermordete-maryam-h-in-einen-koffer-passt-doch-kein-mensch](https://www.spiegel.de/panorama/prozess-um-ermordete-maryam-h-in-einen-koffer-passt-doch-kein-mensch-a-f1e41155-a910-4da3-b906-1a56644ffee4#ref=rss)
+### h
 
-* [https://www.spiegel.de/panorama/afghanistan-in-den-50-jahren-meines-lebens-herrschte-40-jahre-lang-krieg](https://www.spiegel.de/panorama/afghanistan-in-den-50-jahren-meines-lebens-herrschte-40-jahre-lang-krieg-a-93c101d5-6582-42b3-9d4a-ffc524ec3608#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/deutschland-knapp-40-prozent-der-lehrkraefte-arbeiten-in-teilzeit](https://www.spiegel.de/panorama/bildung/deutschland-knapp-40-prozent-der-lehrkraefte-arbeiten-in-teilzeit-a-ee9264bb-db9c-4b00-8770-22bfa97d3b8c#ref=rss)
-### einst
+* [https://www.spiegel.de/panorama/prozess-um-ermordete-maryam-h-in-einen-koffer-passt-doch-kein-mensch](https://www.spiegel.de/panorama/prozess-um-ermordete-maryam-h-in-einen-koffer-passt-doch-kein-mensch-a-f1e41155-a910-4da3-b906-1a56644ffee4#ref=rss)
+### news
 
-* [https://www.spiegel.de/panorama/afghanistan-in-den-50-jahren-meines-lebens-herrschte-40-jahre-lang-krieg](https://www.spiegel.de/panorama/afghanistan-in-den-50-jahren-meines-lebens-herrschte-40-jahre-lang-krieg-a-93c101d5-6582-42b3-9d4a-ffc524ec3608#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin](https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin-a-9307d45d-2264-48bd-97c4-e42ef301190e#ref=rss)
-### bayern
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger-a-2d705fa5-ef0e-4d4f-994c-ba8fa88b53c7#ref=rss)
+* [https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus](https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus-a-8abdbf03-c526-4805-adad-95bd15e7ee02#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/panorama/justiz/bayern-falke-ueberlebt-zusammenprall-mit-auto-hinter-dem-kuehlergrill](https://www.spiegel.de/panorama/justiz/bayern-falke-ueberlebt-zusammenprall-mit-auto-hinter-dem-kuehlergrill-a-afcf6e62-9450-406e-9cda-9f2e93829cc3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-zehnjaehriger-findet-phosphorbecher-aus-zweitem-weltkrieg-brandverletzungen](https://www.spiegel.de/panorama/justiz/garmisch-partenkirchen-zehnjaehriger-findet-phosphorbecher-aus-zweitem-weltkrieg-brandverletzungen-a-5477aacf-095a-4186-bf2f-5dfe334f099c#ref=rss)
-### falke
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger-a-2d705fa5-ef0e-4d4f-994c-ba8fa88b53c7#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/panorama/justiz/bayern-falke-ueberlebt-zusammenprall-mit-auto-hinter-dem-kuehlergrill](https://www.spiegel.de/panorama/justiz/bayern-falke-ueberlebt-zusammenprall-mit-auto-hinter-dem-kuehlergrill-a-afcf6e62-9450-406e-9cda-9f2e93829cc3#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/justiz/bayern-falke-ueberlebt-zusammenprall-mit-auto-hinter-dem-kuehlergrill](https://www.spiegel.de/panorama/justiz/bayern-falke-ueberlebt-zusammenprall-mit-auto-hinter-dem-kuehlergrill-a-afcf6e62-9450-406e-9cda-9f2e93829cc3#ref=rss)
-### rundfunk
-
-* [https://www.spiegel.de/wirtschaft/bayerischer-rundfunk-technik-chefin-hat-zwei-autos-und-zwei-chauffeure](https://www.spiegel.de/wirtschaft/bayerischer-rundfunk-technik-chefin-hat-zwei-autos-und-zwei-chauffeure-a-1ba399d5-6a98-4766-a3d8-08a59be59780#ref=rss)
-### technikchefin
-
-* [https://www.spiegel.de/wirtschaft/bayerischer-rundfunk-technik-chefin-hat-zwei-autos-und-zwei-chauffeure](https://www.spiegel.de/wirtschaft/bayerischer-rundfunk-technik-chefin-hat-zwei-autos-und-zwei-chauffeure-a-1ba399d5-6a98-4766-a3d8-08a59be59780#ref=rss)
-### rbb
-
-* [https://www.spiegel.de/wirtschaft/bayerischer-rundfunk-technik-chefin-hat-zwei-autos-und-zwei-chauffeure](https://www.spiegel.de/wirtschaft/bayerischer-rundfunk-technik-chefin-hat-zwei-autos-und-zwei-chauffeure-a-1ba399d5-6a98-4766-a3d8-08a59be59780#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fall-patricia-schlesinger-beim-rbb-nun-aufarbeitung-der-filz-affaere-in-der-ard](https://www.spiegel.de/wirtschaft/fall-patricia-schlesinger-beim-rbb-nun-aufarbeitung-der-filz-affaere-in-der-ard-a-7dc67278-00ba-429a-a8c4-1cea83a44c25#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### klimawandel
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-erwaermung-in-arktis-fast-viermal-schneller-als-weltweit](https://www.spiegel.de/wissenschaft/natur/klimawandel-erwaermung-in-arktis-fast-viermal-schneller-als-weltweit-a-454be6e1-8a3a-4ffe-ad3c-13a684206822#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-in-den-alpen-schweizer-gebirgspass-wird-erstmals-seit-2000-jahren-wieder-eisfrei](https://www.spiegel.de/wissenschaft/natur/klimawandel-in-den-alpen-schweizer-gebirgspass-wird-erstmals-seit-2000-jahren-wieder-eisfrei-a-8b6a4778-2dcd-4ead-a016-a34d2fa0855c#ref=rss)
-### arktis
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-erwaermung-in-arktis-fast-viermal-schneller-als-weltweit](https://www.spiegel.de/wissenschaft/natur/klimawandel-erwaermung-in-arktis-fast-viermal-schneller-als-weltweit-a-454be6e1-8a3a-4ffe-ad3c-13a684206822#ref=rss)
-### schneller
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-erwaermung-in-arktis-fast-viermal-schneller-als-weltweit](https://www.spiegel.de/wissenschaft/natur/klimawandel-erwaermung-in-arktis-fast-viermal-schneller-als-weltweit-a-454be6e1-8a3a-4ffe-ad3c-13a684206822#ref=rss)
-### walross
-
-* [https://www.spiegel.de/panorama/norwegen-muss-walross-freya-sterben-weil-schaulustige-zu-nah-rangehen](https://www.spiegel.de/panorama/norwegen-muss-walross-freya-sterben-weil-schaulustige-zu-nah-rangehen-a-168b67f2-76f1-431e-add4-423f0941a044#ref=rss)
-### freya
-
-* [https://www.spiegel.de/panorama/norwegen-muss-walross-freya-sterben-weil-schaulustige-zu-nah-rangehen](https://www.spiegel.de/panorama/norwegen-muss-walross-freya-sterben-weil-schaulustige-zu-nah-rangehen-a-168b67f2-76f1-431e-add4-423f0941a044#ref=rss)
-### sterben
-
-* [https://www.spiegel.de/panorama/norwegen-muss-walross-freya-sterben-weil-schaulustige-zu-nah-rangehen](https://www.spiegel.de/panorama/norwegen-muss-walross-freya-sterben-weil-schaulustige-zu-nah-rangehen-a-168b67f2-76f1-431e-add4-423f0941a044#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/zolgensma-zwei-kinder-sterben-nach-behandlung-mit-gentherapie-medikament](https://www.spiegel.de/wissenschaft/medizin/zolgensma-zwei-kinder-sterben-nach-behandlung-mit-gentherapie-medikament-a-1d269643-e7e4-45f2-8d4e-c8f91d4761ac#ref=rss)
-### rom
-
-* [https://www.spiegel.de/panorama/justiz/rom-mutmasslicher-bankraeuber-aus-eingestuerztem-tunnel-gerettet](https://www.spiegel.de/panorama/justiz/rom-mutmasslicher-bankraeuber-aus-eingestuerztem-tunnel-gerettet-a-e868a743-f338-4f21-881d-f06def0a7826#ref=rss)
-### tunnel
-
-* [https://www.spiegel.de/panorama/justiz/rom-mutmasslicher-bankraeuber-aus-eingestuerztem-tunnel-gerettet](https://www.spiegel.de/panorama/justiz/rom-mutmasslicher-bankraeuber-aus-eingestuerztem-tunnel-gerettet-a-e868a743-f338-4f21-881d-f06def0a7826#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/justiz/rom-mutmasslicher-bankraeuber-aus-eingestuerztem-tunnel-gerettet](https://www.spiegel.de/panorama/justiz/rom-mutmasslicher-bankraeuber-aus-eingestuerztem-tunnel-gerettet-a-e868a743-f338-4f21-881d-f06def0a7826#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin](https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin-a-9307d45d-2264-48bd-97c4-e42ef301190e#ref=rss)
-### warburgbank
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warburg-bank-staatsanwaltschaft-bonn-setzt-einziehung-von-cum-ex-millionen-aus](https://www.spiegel.de/wirtschaft/unternehmen/warburg-bank-staatsanwaltschaft-bonn-setzt-einziehung-von-cum-ex-millionen-aus-a-39b670f8-1231-4dfe-8d90-502f26779707#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warburg-bank-staatsanwaltschaft-bonn-setzt-einziehung-von-cum-ex-millionen-aus](https://www.spiegel.de/wirtschaft/unternehmen/warburg-bank-staatsanwaltschaft-bonn-setzt-einziehung-von-cum-ex-millionen-aus-a-39b670f8-1231-4dfe-8d90-502f26779707#ref=rss)
-### bonn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warburg-bank-staatsanwaltschaft-bonn-setzt-einziehung-von-cum-ex-millionen-aus](https://www.spiegel.de/wirtschaft/unternehmen/warburg-bank-staatsanwaltschaft-bonn-setzt-einziehung-von-cum-ex-millionen-aus-a-39b670f8-1231-4dfe-8d90-502f26779707#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/warburg-bank-staatsanwaltschaft-bonn-setzt-einziehung-von-cum-ex-millionen-aus](https://www.spiegel.de/wirtschaft/unternehmen/warburg-bank-staatsanwaltschaft-bonn-setzt-einziehung-von-cum-ex-millionen-aus-a-39b670f8-1231-4dfe-8d90-502f26779707#ref=rss)
-* [https://www.spiegel.de/politik/bundeswehr-setzt-mali-einsatz-aus](https://www.spiegel.de/politik/bundeswehr-setzt-mali-einsatz-aus-a-b3f33d2b-13df-4596-b7c1-24fa4729dbe6#ref=rss)
-### studierende
-
-* [https://www.spiegel.de/start/bafoeg-erstmals-seit-jahren-wieder-mehr-studierende-gefoerdert](https://www.spiegel.de/start/bafoeg-erstmals-seit-jahren-wieder-mehr-studierende-gefoerdert-a-57805f0c-13d8-4859-9a4a-ff3758e20045#ref=rss)
-### gerhard
-
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-hat-jedes-gespuer-fuer-anstand-verloren-reaktionen-auf-klage-gegen-bundestag](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-hat-jedes-gespuer-fuer-anstand-verloren-reaktionen-auf-klage-gegen-bundestag-a-842b8d6d-9961-440d-a517-a9dbf50f8084#ref=rss)
-### schröder
-
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-hat-jedes-gespuer-fuer-anstand-verloren-reaktionen-auf-klage-gegen-bundestag](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-hat-jedes-gespuer-fuer-anstand-verloren-reaktionen-auf-klage-gegen-bundestag-a-842b8d6d-9961-440d-a517-a9dbf50f8084#ref=rss)
-### reaktionen
-
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-hat-jedes-gespuer-fuer-anstand-verloren-reaktionen-auf-klage-gegen-bundestag](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-hat-jedes-gespuer-fuer-anstand-verloren-reaktionen-auf-klage-gegen-bundestag-a-842b8d6d-9961-440d-a517-a9dbf50f8084#ref=rss)
-### andere
-
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-hat-jedes-gespuer-fuer-anstand-verloren-reaktionen-auf-klage-gegen-bundestag](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-hat-jedes-gespuer-fuer-anstand-verloren-reaktionen-auf-klage-gegen-bundestag-a-842b8d6d-9961-440d-a517-a9dbf50f8084#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fall-patricia-schlesinger-beim-rbb-nun-aufarbeitung-der-filz-affaere-in-der-ard](https://www.spiegel.de/wirtschaft/fall-patricia-schlesinger-beim-rbb-nun-aufarbeitung-der-filz-affaere-in-der-ard-a-7dc67278-00ba-429a-a8c4-1cea83a44c25#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-hat-jedes-gespuer-fuer-anstand-verloren-reaktionen-auf-klage-gegen-bundestag](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-hat-jedes-gespuer-fuer-anstand-verloren-reaktionen-auf-klage-gegen-bundestag-a-842b8d6d-9961-440d-a517-a9dbf50f8084#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/deutschland-knapp-40-prozent-der-lehrkraefte-arbeiten-in-teilzeit](https://www.spiegel.de/panorama/bildung/deutschland-knapp-40-prozent-der-lehrkraefte-arbeiten-in-teilzeit-a-ee9264bb-db9c-4b00-8770-22bfa97d3b8c#ref=rss)
-### verteidigungsministerium
-
-* [https://www.spiegel.de/politik/bundeswehr-setzt-mali-einsatz-aus](https://www.spiegel.de/politik/bundeswehr-setzt-mali-einsatz-aus-a-b3f33d2b-13df-4596-b7c1-24fa4729dbe6#ref=rss)
-### mali
-
-* [https://www.spiegel.de/politik/bundeswehr-setzt-mali-einsatz-aus](https://www.spiegel.de/politik/bundeswehr-setzt-mali-einsatz-aus-a-b3f33d2b-13df-4596-b7c1-24fa4729dbe6#ref=rss)
-### eisfrei
-
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-in-den-alpen-schweizer-gebirgspass-wird-erstmals-seit-2000-jahren-wieder-eisfrei](https://www.spiegel.de/wissenschaft/natur/klimawandel-in-den-alpen-schweizer-gebirgspass-wird-erstmals-seit-2000-jahren-wieder-eisfrei-a-8b6a4778-2dcd-4ead-a016-a34d2fa0855c#ref=rss)
-### zolgensma
-
-* [https://www.spiegel.de/wissenschaft/medizin/zolgensma-zwei-kinder-sterben-nach-behandlung-mit-gentherapie-medikament](https://www.spiegel.de/wissenschaft/medizin/zolgensma-zwei-kinder-sterben-nach-behandlung-mit-gentherapie-medikament-a-1d269643-e7e4-45f2-8d4e-c8f91d4761ac#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/wissenschaft/medizin/zolgensma-zwei-kinder-sterben-nach-behandlung-mit-gentherapie-medikament](https://www.spiegel.de/wissenschaft/medizin/zolgensma-zwei-kinder-sterben-nach-behandlung-mit-gentherapie-medikament-a-1d269643-e7e4-45f2-8d4e-c8f91d4761ac#ref=rss)
-### behandlung
-
-* [https://www.spiegel.de/wissenschaft/medizin/zolgensma-zwei-kinder-sterben-nach-behandlung-mit-gentherapie-medikament](https://www.spiegel.de/wissenschaft/medizin/zolgensma-zwei-kinder-sterben-nach-behandlung-mit-gentherapie-medikament-a-1d269643-e7e4-45f2-8d4e-c8f91d4761ac#ref=rss)
-### gentherapiemedikament
-
-* [https://www.spiegel.de/wissenschaft/medizin/zolgensma-zwei-kinder-sterben-nach-behandlung-mit-gentherapie-medikament](https://www.spiegel.de/wissenschaft/medizin/zolgensma-zwei-kinder-sterben-nach-behandlung-mit-gentherapie-medikament-a-1d269643-e7e4-45f2-8d4e-c8f91d4761ac#ref=rss)
-### jamie
-
-* [https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin](https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin-a-9307d45d-2264-48bd-97c4-e42ef301190e#ref=rss)
-### foxx
-
-* [https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin](https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin-a-9307d45d-2264-48bd-97c4-e42ef301190e#ref=rss)
-### schuhverkäufer
-
-* [https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin](https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin-a-9307d45d-2264-48bd-97c4-e42ef301190e#ref=rss)
-### bekommt
-
-* [https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin](https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin-a-9307d45d-2264-48bd-97c4-e42ef301190e#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/namensvetterin-angela-merkel-grundschuelerin-angela-bekommt-einschulungspost-von-merkel](https://www.spiegel.de/panorama/bildung/namensvetterin-angela-merkel-grundschuelerin-angela-bekommt-einschulungspost-von-merkel-a-81341587-31b2-4b46-9c1d-c8759d869ef0#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin](https://www.spiegel.de/panorama/leute/jamie-foxx-ueber-job-als-schuhverkaeufer-ich-war-gut-darin-a-9307d45d-2264-48bd-97c4-e42ef301190e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-behoerde-haelt-einstellung-des-schiffsverkehrs-fuer-unwahrscheinlich](https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-behoerde-haelt-einstellung-des-schiffsverkehrs-fuer-unwahrscheinlich-a-46827655-4f52-4f2c-951a-a519a12421de#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/panorama/bildung/deutschland-knapp-40-prozent-der-lehrkraefte-arbeiten-in-teilzeit](https://www.spiegel.de/panorama/bildung/deutschland-knapp-40-prozent-der-lehrkraefte-arbeiten-in-teilzeit-a-ee9264bb-db9c-4b00-8770-22bfa97d3b8c#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/panorama/bildung/deutschland-knapp-40-prozent-der-lehrkraefte-arbeiten-in-teilzeit](https://www.spiegel.de/panorama/bildung/deutschland-knapp-40-prozent-der-lehrkraefte-arbeiten-in-teilzeit-a-ee9264bb-db9c-4b00-8770-22bfa97d3b8c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-behoerde-haelt-einstellung-des-schiffsverkehrs-fuer-unwahrscheinlich](https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-behoerde-haelt-einstellung-des-schiffsverkehrs-fuer-unwahrscheinlich-a-46827655-4f52-4f2c-951a-a519a12421de#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/bildung/deutschland-knapp-40-prozent-der-lehrkraefte-arbeiten-in-teilzeit](https://www.spiegel.de/panorama/bildung/deutschland-knapp-40-prozent-der-lehrkraefte-arbeiten-in-teilzeit-a-ee9264bb-db9c-4b00-8770-22bfa97d3b8c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/coronavirus-gesundheitsminister-lauterbach-erlaeutert-seinen-corona-kurs-livestream](https://www.spiegel.de/wissenschaft/coronavirus-gesundheitsminister-lauterbach-erlaeutert-seinen-corona-kurs-livestream-a-c2884985-55dc-4f40-9561-8f9d21c7cb4a#ref=rss)
-### karl
-
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-geht-von-auslieferung-angepasster-impfstoffe-im-september-aus](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-geht-von-auslieferung-angepasster-impfstoffe-im-september-aus-a-a38cebb8-1e0a-4ae5-8b8b-4ba4e2db8a31#ref=rss)
-* [https://www.spiegel.de/wissenschaft/coronavirus-gesundheitsminister-lauterbach-erlaeutert-seinen-corona-kurs-livestream](https://www.spiegel.de/wissenschaft/coronavirus-gesundheitsminister-lauterbach-erlaeutert-seinen-corona-kurs-livestream-a-c2884985-55dc-4f40-9561-8f9d21c7cb4a#ref=rss)
-### gesundheitsminister
-
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-geht-von-auslieferung-angepasster-impfstoffe-im-september-aus](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-geht-von-auslieferung-angepasster-impfstoffe-im-september-aus-a-a38cebb8-1e0a-4ae5-8b8b-4ba4e2db8a31#ref=rss)
-* [https://www.spiegel.de/wissenschaft/coronavirus-gesundheitsminister-lauterbach-erlaeutert-seinen-corona-kurs-livestream](https://www.spiegel.de/wissenschaft/coronavirus-gesundheitsminister-lauterbach-erlaeutert-seinen-corona-kurs-livestream-a-c2884985-55dc-4f40-9561-8f9d21c7cb4a#ref=rss)
-### fall
-
-* [https://www.spiegel.de/wirtschaft/fall-patricia-schlesinger-beim-rbb-nun-aufarbeitung-der-filz-affaere-in-der-ard](https://www.spiegel.de/wirtschaft/fall-patricia-schlesinger-beim-rbb-nun-aufarbeitung-der-filz-affaere-in-der-ard-a-7dc67278-00ba-429a-a8c4-1cea83a44c25#ref=rss)
-### patricia
-
-* [https://www.spiegel.de/wirtschaft/fall-patricia-schlesinger-beim-rbb-nun-aufarbeitung-der-filz-affaere-in-der-ard](https://www.spiegel.de/wirtschaft/fall-patricia-schlesinger-beim-rbb-nun-aufarbeitung-der-filz-affaere-in-der-ard-a-7dc67278-00ba-429a-a8c4-1cea83a44c25#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger-a-2d705fa5-ef0e-4d4f-994c-ba8fa88b53c7#ref=rss)
 ### schlesinger
 
-* [https://www.spiegel.de/wirtschaft/fall-patricia-schlesinger-beim-rbb-nun-aufarbeitung-der-filz-affaere-in-der-ard](https://www.spiegel.de/wirtschaft/fall-patricia-schlesinger-beim-rbb-nun-aufarbeitung-der-filz-affaere-in-der-ard-a-7dc67278-00ba-429a-a8c4-1cea83a44c25#ref=rss)
-### ard
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger-a-2d705fa5-ef0e-4d4f-994c-ba8fa88b53c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schlesinger-affaere-neuer-ard-chef-tom-buhrow-kuendigt-ard-reformen-an](https://www.spiegel.de/wirtschaft/schlesinger-affaere-neuer-ard-chef-tom-buhrow-kuendigt-ard-reformen-an-a-44c4ff95-32a6-4a8e-a4c9-cd9678f0637e#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/wirtschaft/fall-patricia-schlesinger-beim-rbb-nun-aufarbeitung-der-filz-affaere-in-der-ard](https://www.spiegel.de/wirtschaft/fall-patricia-schlesinger-beim-rbb-nun-aufarbeitung-der-filz-affaere-in-der-ard-a-7dc67278-00ba-429a-a8c4-1cea83a44c25#ref=rss)
-### hongkong
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger](https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-olaf-scholz-patricia-schlesinger-a-2d705fa5-ef0e-4d4f-994c-ba8fa88b53c7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-34-jaehriger-stirbt-nach-hundeattacke-in-england](https://www.spiegel.de/panorama/justiz/grossbritannien-34-jaehriger-stirbt-nach-hundeattacke-in-england-a-94c8b6da-4918-4e50-a70e-52dc6d1bc1d3#ref=rss)
+### händler
 
-* [https://www.spiegel.de/ausland/hongkong-verzeichnet-groessten-bevoelkerungsschwund-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/ausland/hongkong-verzeichnet-groessten-bevoelkerungsschwund-seit-beginn-der-aufzeichnungen-a-27a1fbd9-74be-4a8c-a388-b693f2afbaf0#ref=rss)
-### jahr
+* [https://www.spiegel.de/wirtschaft/geoeffnete-tuer-klimaanlage-an-pariser-geschaeft-muss-umweltstrafe-zahlen](https://www.spiegel.de/wirtschaft/geoeffnete-tuer-klimaanlage-an-pariser-geschaeft-muss-umweltstrafe-zahlen-a-a658c56d-70cf-4076-9fb6-3f121fdc811c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/plastikpueppchen-aus-china-gericht-verbietet-haendler-den-verkauf-von-lego-raubkopien](https://www.spiegel.de/wirtschaft/plastikpueppchen-aus-china-gericht-verbietet-haendler-den-verkauf-von-lego-raubkopien-a-56a831bf-7cb7-41fd-8c12-9368e6570c12#ref=rss)
+### salman
 
-* [https://www.spiegel.de/ausland/hongkong-verzeichnet-groessten-bevoelkerungsschwund-seit-beginn-der-aufzeichnungen](https://www.spiegel.de/ausland/hongkong-verzeichnet-groessten-bevoelkerungsschwund-seit-beginn-der-aufzeichnungen-a-27a1fbd9-74be-4a8c-a388-b693f2afbaf0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-behoerde-haelt-einstellung-des-schiffsverkehrs-fuer-unwahrscheinlich](https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-behoerde-haelt-einstellung-des-schiffsverkehrs-fuer-unwahrscheinlich-a-46827655-4f52-4f2c-951a-a519a12421de#ref=rss)
-### zdfpolitbarometer
+* [https://www.spiegel.de/panorama/justiz/salman-rushdie-in-new-york-auf-buehne-angegriffen](https://www.spiegel.de/panorama/justiz/salman-rushdie-in-new-york-auf-buehne-angegriffen-a-2736ced4-d951-4b0c-80cc-5de0e2a65188#ref=rss)
+### rushdie
 
-* [https://www.spiegel.de/politik/deutschland/sonntagsfrage-gruene-und-union-liegen-gleichauf](https://www.spiegel.de/politik/deutschland/sonntagsfrage-gruene-und-union-liegen-gleichauf-a-1b7c0617-f1d4-4981-910a-5c17ae017544#ref=rss)
-### grüne
+* [https://www.spiegel.de/panorama/justiz/salman-rushdie-in-new-york-auf-buehne-angegriffen](https://www.spiegel.de/panorama/justiz/salman-rushdie-in-new-york-auf-buehne-angegriffen-a-2736ced4-d951-4b0c-80cc-5de0e2a65188#ref=rss)
+### autor
 
-* [https://www.spiegel.de/politik/deutschland/sonntagsfrage-gruene-und-union-liegen-gleichauf](https://www.spiegel.de/politik/deutschland/sonntagsfrage-gruene-und-union-liegen-gleichauf-a-1b7c0617-f1d4-4981-910a-5c17ae017544#ref=rss)
-### union
+* [https://www.spiegel.de/panorama/justiz/salman-rushdie-in-new-york-auf-buehne-angegriffen](https://www.spiegel.de/panorama/justiz/salman-rushdie-in-new-york-auf-buehne-angegriffen-a-2736ced4-d951-4b0c-80cc-5de0e2a65188#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/sonntagsfrage-gruene-und-union-liegen-gleichauf](https://www.spiegel.de/politik/deutschland/sonntagsfrage-gruene-und-union-liegen-gleichauf-a-1b7c0617-f1d4-4981-910a-5c17ae017544#ref=rss)
-### laut
+* [https://www.spiegel.de/panorama/justiz/salman-rushdie-in-new-york-auf-buehne-angegriffen](https://www.spiegel.de/panorama/justiz/salman-rushdie-in-new-york-auf-buehne-angegriffen-a-2736ced4-d951-4b0c-80cc-5de0e2a65188#ref=rss)
+* [https://www.spiegel.de/ausland/rishi-sunak-tory-politiker-laesst-sich-privatpool-anlage-bauen](https://www.spiegel.de/ausland/rishi-sunak-tory-politiker-laesst-sich-privatpool-anlage-bauen-a-45e8bf1f-b518-41b4-af9e-52cd322b4b70#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/politik/deutschland/sonntagsfrage-gruene-und-union-liegen-gleichauf](https://www.spiegel.de/politik/deutschland/sonntagsfrage-gruene-und-union-liegen-gleichauf-a-1b7c0617-f1d4-4981-910a-5c17ae017544#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-behoerde-haelt-einstellung-des-schiffsverkehrs-fuer-unwahrscheinlich](https://www.spiegel.de/wirtschaft/unternehmen/rhein-niedrigwasser-behoerde-haelt-einstellung-des-schiffsverkehrs-fuer-unwahrscheinlich-a-46827655-4f52-4f2c-951a-a519a12421de#ref=rss)
-### merkel
+* [https://www.spiegel.de/panorama/justiz/salman-rushdie-in-new-york-auf-buehne-angegriffen](https://www.spiegel.de/panorama/justiz/salman-rushdie-in-new-york-auf-buehne-angegriffen-a-2736ced4-d951-4b0c-80cc-5de0e2a65188#ref=rss)
+* [https://www.spiegel.de/panorama/paderborn-21-verletzte-bei-zusammenstoss-von-auto-und-linienbus](https://www.spiegel.de/panorama/paderborn-21-verletzte-bei-zusammenstoss-von-auto-und-linienbus-a-52a824df-2d17-4b7e-b9bc-339ca19feae1#ref=rss)
+### festgenommen
 
-* [https://www.spiegel.de/panorama/bildung/namensvetterin-angela-merkel-grundschuelerin-angela-bekommt-einschulungspost-von-merkel](https://www.spiegel.de/panorama/bildung/namensvetterin-angela-merkel-grundschuelerin-angela-bekommt-einschulungspost-von-merkel-a-81341587-31b2-4b46-9c1d-c8759d869ef0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/salman-rushdie-in-new-york-auf-buehne-angegriffen](https://www.spiegel.de/panorama/justiz/salman-rushdie-in-new-york-auf-buehne-angegriffen-a-2736ced4-d951-4b0c-80cc-5de0e2a65188#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/geldwaesche-fuer-nordkorea-krypto-entwickler-in-den-niederlanden-festgenommen](https://www.spiegel.de/netzwelt/web/geldwaesche-fuer-nordkorea-krypto-entwickler-in-den-niederlanden-festgenommen-a-06ee3a5e-2e0f-43b7-a102-4dae0bbdcdcc#ref=rss)
+### tyson
+
+* [https://www.spiegel.de/sport/tyson-fury-will-doch-kein-box-comeback](https://www.spiegel.de/sport/tyson-fury-will-doch-kein-box-comeback-a-f4037099-bdc8-47f0-8e87-25985f184959#ref=rss)
+### fury
+
+* [https://www.spiegel.de/sport/tyson-fury-will-doch-kein-box-comeback](https://www.spiegel.de/sport/tyson-fury-will-doch-kein-box-comeback-a-f4037099-bdc8-47f0-8e87-25985f184959#ref=rss)
+### große
+
+* [https://www.spiegel.de/sport/tyson-fury-will-doch-kein-box-comeback](https://www.spiegel.de/sport/tyson-fury-will-doch-kein-box-comeback-a-f4037099-bdc8-47f0-8e87-25985f184959#ref=rss)
+* [https://www.spiegel.de/panorama/fischsterben-bei-frankfurt-an-der-oder-wer-wo-was-reingekippt-hat-das-ist-die-grosse-frage](https://www.spiegel.de/panorama/fischsterben-bei-frankfurt-an-der-oder-wer-wo-was-reingekippt-hat-das-ist-die-grosse-frage-a-ca568004-b7e8-4720-94a2-c69bf2037efa#ref=rss)
+### gerhard
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-klagt-gegen-bundestag-das-steht-ehemaligen-bundeskanzlern-zu](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-klagt-gegen-bundestag-das-steht-ehemaligen-bundeskanzlern-zu-a-973682b4-c102-4bee-b384-bb933f9484c1#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-klagt-gegen-bundestag-das-steht-ehemaligen-bundeskanzlern-zu](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-klagt-gegen-bundestag-das-steht-ehemaligen-bundeskanzlern-zu-a-973682b4-c102-4bee-b384-bb933f9484c1#ref=rss)
+### bundestag
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-klagt-gegen-bundestag-das-steht-ehemaligen-bundeskanzlern-zu](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-klagt-gegen-bundestag-das-steht-ehemaligen-bundeskanzlern-zu-a-973682b4-c102-4bee-b384-bb933f9484c1#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-klagt-gegen-bundestag-das-steht-ehemaligen-bundeskanzlern-zu](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-klagt-gegen-bundestag-das-steht-ehemaligen-bundeskanzlern-zu-a-973682b4-c102-4bee-b384-bb933f9484c1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/indien-mann-gewinnt-jahrzehntelangen-rechtsstreit-mit-der-indischen-bahn-wegen-45-cent](https://www.spiegel.de/panorama/justiz/indien-mann-gewinnt-jahrzehntelangen-rechtsstreit-mit-der-indischen-bahn-wegen-45-cent-a-8f5cd01a-315c-487b-bfff-5e43a93f24d5#ref=rss)
+### rolf
+
+* [https://www.spiegel.de/panorama/leute/rolf-eden-ist-tot](https://www.spiegel.de/panorama/leute/rolf-eden-ist-tot-a-708d32b4-be7f-4f0d-86b5-1c15af5a8bf5#ref=rss)
+### eden
+
+* [https://www.spiegel.de/panorama/leute/rolf-eden-ist-tot](https://www.spiegel.de/panorama/leute/rolf-eden-ist-tot-a-708d32b4-be7f-4f0d-86b5-1c15af5a8bf5#ref=rss)
+### durchsuchung
+
+* [https://www.spiegel.de/ausland/donald-trump-zur-durchsuchung-von-mar-a-lago-das-atomwaffenthema-ist-ein-schwindel](https://www.spiegel.de/ausland/donald-trump-zur-durchsuchung-von-mar-a-lago-das-atomwaffenthema-ist-ein-schwindel-a-f298a0e5-0b0c-4279-8ef5-04334ff056f1#ref=rss)
+### schwindel
+
+* [https://www.spiegel.de/ausland/donald-trump-zur-durchsuchung-von-mar-a-lago-das-atomwaffenthema-ist-ein-schwindel](https://www.spiegel.de/ausland/donald-trump-zur-durchsuchung-von-mar-a-lago-das-atomwaffenthema-ist-ein-schwindel-a-f298a0e5-0b0c-4279-8ef5-04334ff056f1#ref=rss)
+### dürre
+
+* [https://www.spiegel.de/ausland/rishi-sunak-tory-politiker-laesst-sich-privatpool-anlage-bauen](https://www.spiegel.de/ausland/rishi-sunak-tory-politiker-laesst-sich-privatpool-anlage-bauen-a-45e8bf1f-b518-41b4-af9e-52cd322b4b70#ref=rss)
+* [https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein](https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein-a-2941e3f0-de95-4655-a0d2-ebc6d01f5184#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/paderborn-21-verletzte-bei-zusammenstoss-von-auto-und-linienbus](https://www.spiegel.de/panorama/paderborn-21-verletzte-bei-zusammenstoss-von-auto-und-linienbus-a-52a824df-2d17-4b7e-b9bc-339ca19feae1#ref=rss)
+### niederlanden
+
+* [https://www.spiegel.de/netzwelt/web/geldwaesche-fuer-nordkorea-krypto-entwickler-in-den-niederlanden-festgenommen](https://www.spiegel.de/netzwelt/web/geldwaesche-fuer-nordkorea-krypto-entwickler-in-den-niederlanden-festgenommen-a-06ee3a5e-2e0f-43b7-a102-4dae0bbdcdcc#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein](https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein-a-2941e3f0-de95-4655-a0d2-ebc6d01f5184#ref=rss)
+* [https://www.spiegel.de/panorama/fischsterben-bei-frankfurt-an-der-oder-wer-wo-was-reingekippt-hat-das-ist-die-grosse-frage](https://www.spiegel.de/panorama/fischsterben-bei-frankfurt-an-der-oder-wer-wo-was-reingekippt-hat-das-ist-die-grosse-frage-a-ca568004-b7e8-4720-94a2-c69bf2037efa#ref=rss)
+### ausgetrocknete
+
+* [https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein](https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein-a-2941e3f0-de95-4655-a0d2-ebc6d01f5184#ref=rss)
+### seen
+
+* [https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein](https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein-a-2941e3f0-de95-4655-a0d2-ebc6d01f5184#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein](https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein-a-2941e3f0-de95-4655-a0d2-ebc6d01f5184#ref=rss)
+### tiefgang
+
+* [https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein](https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein-a-2941e3f0-de95-4655-a0d2-ebc6d01f5184#ref=rss)
+### rhein
+
+* [https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein](https://www.spiegel.de/panorama/duerre-in-deutschland-ausgetrocknete-seen-frachtschiffe-mit-wenig-tiefgang-am-rhein-a-2941e3f0-de95-4655-a0d2-ebc6d01f5184#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/bundeswehr-in-mali-die-deutschen-sind-nicht-willkommen-was-lernen-sie-daraus](https://www.spiegel.de/politik/bundeswehr-in-mali-die-deutschen-sind-nicht-willkommen-was-lernen-sie-daraus-a-3cbf143b-2303-4977-9d0b-5f1356aad940#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/bundeswehr-in-mali-die-deutschen-sind-nicht-willkommen-was-lernen-sie-daraus](https://www.spiegel.de/politik/bundeswehr-in-mali-die-deutschen-sind-nicht-willkommen-was-lernen-sie-daraus-a-3cbf143b-2303-4977-9d0b-5f1356aad940#ref=rss)
+### dortmund
+
+* [https://www.spiegel.de/panorama/dortmund-hunderte-bei-trauerfeier-fuer-bei-polizeieinsatz-getoeteten-16-jaehrigen](https://www.spiegel.de/panorama/dortmund-hunderte-bei-trauerfeier-fuer-bei-polizeieinsatz-getoeteten-16-jaehrigen-a-67695e9c-27e9-4aa8-b943-6bef26d0ce63#ref=rss)
+### 16jährigen
+
+* [https://www.spiegel.de/panorama/dortmund-hunderte-bei-trauerfeier-fuer-bei-polizeieinsatz-getoeteten-16-jaehrigen](https://www.spiegel.de/panorama/dortmund-hunderte-bei-trauerfeier-fuer-bei-polizeieinsatz-getoeteten-16-jaehrigen-a-67695e9c-27e9-4aa8-b943-6bef26d0ce63#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fussballzweitligist-fc-st-pauli-spielt-mit-gendersternchen-auf-dem-trikot](https://www.spiegel.de/sport/fussball/fussballzweitligist-fc-st-pauli-spielt-mit-gendersternchen-auf-dem-trikot-a-d51279e6-1e36-4a8e-a35b-e44dae1cc6c7#ref=rss)
+### st
+
+* [https://www.spiegel.de/sport/fussball/fussballzweitligist-fc-st-pauli-spielt-mit-gendersternchen-auf-dem-trikot](https://www.spiegel.de/sport/fussball/fussballzweitligist-fc-st-pauli-spielt-mit-gendersternchen-auf-dem-trikot-a-d51279e6-1e36-4a8e-a35b-e44dae1cc6c7#ref=rss)
+### pauli
+
+* [https://www.spiegel.de/sport/fussball/fussballzweitligist-fc-st-pauli-spielt-mit-gendersternchen-auf-dem-trikot](https://www.spiegel.de/sport/fussball/fussballzweitligist-fc-st-pauli-spielt-mit-gendersternchen-auf-dem-trikot-a-d51279e6-1e36-4a8e-a35b-e44dae1cc6c7#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-34-jaehriger-stirbt-nach-hundeattacke-in-england](https://www.spiegel.de/panorama/justiz/grossbritannien-34-jaehriger-stirbt-nach-hundeattacke-in-england-a-94c8b6da-4918-4e50-a70e-52dc6d1bc1d3#ref=rss)
+* [https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus](https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus-a-8abdbf03-c526-4805-adad-95bd15e7ee02#ref=rss)
+### england
+
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-34-jaehriger-stirbt-nach-hundeattacke-in-england](https://www.spiegel.de/panorama/justiz/grossbritannien-34-jaehriger-stirbt-nach-hundeattacke-in-england-a-94c8b6da-4918-4e50-a70e-52dc6d1bc1d3#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/grossbritannien-34-jaehriger-stirbt-nach-hundeattacke-in-england](https://www.spiegel.de/panorama/justiz/grossbritannien-34-jaehriger-stirbt-nach-hundeattacke-in-england-a-94c8b6da-4918-4e50-a70e-52dc6d1bc1d3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/indien-mann-gewinnt-jahrzehntelangen-rechtsstreit-mit-der-indischen-bahn-wegen-45-cent](https://www.spiegel.de/panorama/justiz/indien-mann-gewinnt-jahrzehntelangen-rechtsstreit-mit-der-indischen-bahn-wegen-45-cent-a-8f5cd01a-315c-487b-bfff-5e43a93f24d5#ref=rss)
+### rupien
+
+* [https://www.spiegel.de/panorama/justiz/indien-mann-gewinnt-jahrzehntelangen-rechtsstreit-mit-der-indischen-bahn-wegen-45-cent](https://www.spiegel.de/panorama/justiz/indien-mann-gewinnt-jahrzehntelangen-rechtsstreit-mit-der-indischen-bahn-wegen-45-cent-a-8f5cd01a-315c-487b-bfff-5e43a93f24d5#ref=rss)
+### jeanjacques
+
+* [https://www.spiegel.de/kultur/literatur/jean-jacques-sempe-ist-tot-die-welt-fuenf-nummern-zu-gross](https://www.spiegel.de/kultur/literatur/jean-jacques-sempe-ist-tot-die-welt-fuenf-nummern-zu-gross-a-0379f95c-0ec8-4d9a-b00a-beb2370d0863#ref=rss)
+### sempé
+
+* [https://www.spiegel.de/kultur/literatur/jean-jacques-sempe-ist-tot-die-welt-fuenf-nummern-zu-gross](https://www.spiegel.de/kultur/literatur/jean-jacques-sempe-ist-tot-die-welt-fuenf-nummern-zu-gross-a-0379f95c-0ec8-4d9a-b00a-beb2370d0863#ref=rss)
+### tom
+
+* [https://www.spiegel.de/wirtschaft/schlesinger-affaere-neuer-ard-chef-tom-buhrow-kuendigt-ard-reformen-an](https://www.spiegel.de/wirtschaft/schlesinger-affaere-neuer-ard-chef-tom-buhrow-kuendigt-ard-reformen-an-a-44c4ff95-32a6-4a8e-a4c9-cd9678f0637e#ref=rss)
+### buhrow
+
+* [https://www.spiegel.de/wirtschaft/schlesinger-affaere-neuer-ard-chef-tom-buhrow-kuendigt-ard-reformen-an](https://www.spiegel.de/wirtschaft/schlesinger-affaere-neuer-ard-chef-tom-buhrow-kuendigt-ard-reformen-an-a-44c4ff95-32a6-4a8e-a4c9-cd9678f0637e#ref=rss)
+### alle
+
+* [https://www.spiegel.de/wirtschaft/schlesinger-affaere-neuer-ard-chef-tom-buhrow-kuendigt-ard-reformen-an](https://www.spiegel.de/wirtschaft/schlesinger-affaere-neuer-ard-chef-tom-buhrow-kuendigt-ard-reformen-an-a-44c4ff95-32a6-4a8e-a4c9-cd9678f0637e#ref=rss)
+* [https://www.spiegel.de/ausland/russland-greift-kramatorsk-an-vor-uns-liegt-fast-kein-leben-mehr](https://www.spiegel.de/ausland/russland-greift-kramatorsk-an-vor-uns-liegt-fast-kein-leben-mehr-a-261b8bbf-abcc-45b3-9d82-5491ee01cecf#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/ausland/brasilien-brutale-angriffe-auf-affen-wegen-affenpocken](https://www.spiegel.de/ausland/brasilien-brutale-angriffe-auf-affen-wegen-affenpocken-a-7e017058-f89f-431c-b556-04a7ddb29d24#ref=rss)
+### affen
+
+* [https://www.spiegel.de/ausland/brasilien-brutale-angriffe-auf-affen-wegen-affenpocken](https://www.spiegel.de/ausland/brasilien-brutale-angriffe-auf-affen-wegen-affenpocken-a-7e017058-f89f-431c-b556-04a7ddb29d24#ref=rss)
+### klimagesetz
+
+* [https://www.spiegel.de/wissenschaft/mensch/joe-biden-was-das-neue-klimagesetz-der-usa-wert-ist](https://www.spiegel.de/wissenschaft/mensch/joe-biden-was-das-neue-klimagesetz-der-usa-wert-ist-a-398904c9-a59f-483f-8d9c-92b53bb094d9#ref=rss)
+### freitag
+
+* [https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus](https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus-a-8abdbf03-c526-4805-adad-95bd15e7ee02#ref=rss)
+### feuerwehrleute
+
+* [https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus](https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus-a-8abdbf03-c526-4805-adad-95bd15e7ee02#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus](https://www.spiegel.de/ausland/duerre-news-am-freitag-grossbritannien-ruft-fuer-weite-landesteile-duerre-notstand-aus-a-8abdbf03-c526-4805-adad-95bd15e7ee02#ref=rss)
 
