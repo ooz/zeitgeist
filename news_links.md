@@ -4,344 +4,292 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### männer
+
+* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-erstmals-gemeinsames-wm-trikot-fuer-maenner-und-frauen](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-erstmals-gemeinsames-wm-trikot-fuer-maenner-und-frauen-a-107f0aad-449a-4f18-af2c-9014fdce447a#ref=rss)
+* [https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen](https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen-a-871df37d-020d-4c69-a79f-8b5fce5de5d6#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen](https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen-a-982357b7-8726-4a5a-a76e-73519e71dfaf#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/pakistan-mehr-als-1000-tote-durch-monsun-ueberschwemmungen](https://www.spiegel.de/politik/pakistan-mehr-als-1000-tote-durch-monsun-ueberschwemmungen-a-65833d27-9a87-418b-9f85-a3c51142074e#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht](https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht-a-24884e7c-e1bd-43f1-b90f-bc6e90c89ab6#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot](https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot-a-e2d471ac-5bf0-4dc8-ad26-7c0cca3be249#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0-a-268adbac-7b88-4b3d-b112-6a8f367d19f1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland-a-d9a2deee-99b1-4a2c-8076-e10f20f5065a#ref=rss)
-* [https://www.spiegel.de/panorama/ingelheim-kind-bleibt-mit-kopf-im-toilettenaufsatz-stecken-und-wird-von-feuerwehr-befreit](https://www.spiegel.de/panorama/ingelheim-kind-bleibt-mit-kopf-im-toilettenaufsatz-stecken-und-wird-von-feuerwehr-befreit-a-2c1552cb-1aae-4db3-b46d-9072551974ee#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/ueberschwemmungen-in-pakistan-rettung-aus-der-luft](https://www.spiegel.de/ausland/ueberschwemmungen-in-pakistan-rettung-aus-der-luft-a-7eeef9f5-c8ed-45ce-80ea-46389563d3b4#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-russischen-verteidigungsminister-schoigu-geschwaecht](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-russischen-verteidigungsminister-schoigu-geschwaecht-a-331d9642-d781-48d2-8807-3d2f6b8ee372#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/recht-auf-reparatur-verbraucherschuetzer-fordern-mehr-tempo](https://www.spiegel.de/netzwelt/gadgets/recht-auf-reparatur-verbraucherschuetzer-fordern-mehr-tempo-a-ec048060-df2a-444c-97a2-06601123c0aa#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/politik/spd-drastisch-steigende-strompreise-stephan-weil-fordert-staatliches-einschreiten](https://www.spiegel.de/politik/spd-drastisch-steigende-strompreise-stephan-weil-fordert-staatliches-einschreiten-a-6c7e41fe-7625-4f41-9c13-9cc1a9385b13#ref=rss)
-* [https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter](https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter-a-114b703b-d2b7-4eb3-aafa-630f213de4cc#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic](https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic-a-c85cf0e9-66ae-4c20-a7b2-ec2e8128afc9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland-a-d9a2deee-99b1-4a2c-8076-e10f20f5065a#ref=rss)
-### 1
+* [https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen](https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen-a-20b360fd-5bbc-4b2d-8677-883a84eb5658#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-fuehrt-die-maskenpflicht-im-regierungsflieger-wieder-ein](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-fuehrt-die-maskenpflicht-im-regierungsflieger-wieder-ein-a-5457f37f-84c4-4086-9357-4843183cbd2a#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot](https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot-a-e2d471ac-5bf0-4dc8-ad26-7c0cca3be249#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0-a-268adbac-7b88-4b3d-b112-6a8f367d19f1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-1-fc-kaiserslautern-und-1-fc-magdeburg-spielen-4-4](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-1-fc-kaiserslautern-und-1-fc-magdeburg-spielen-4-4-a-ac914eac-7200-413e-ac7d-2d7677d86501#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien-a-81c4b068-1322-465f-8d0a-db18554ee46e#ref=rss)
-### warnt
+* [https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen](https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen-a-20b360fd-5bbc-4b2d-8677-883a84eb5658#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-fuehrt-die-maskenpflicht-im-regierungsflieger-wieder-ein](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-fuehrt-die-maskenpflicht-im-regierungsflieger-wieder-ein-a-5457f37f-84c4-4086-9357-4843183cbd2a#ref=rss)
+### politik
 
-* [https://www.spiegel.de/ausland/iran-israel-warnt-vor-atom-deal-wir-werden-bereit-sein-zu-handeln](https://www.spiegel.de/ausland/iran-israel-warnt-vor-atom-deal-wir-werden-bereit-sein-zu-handeln-a-c8b3eb39-3a0e-4468-92e5-0cbed5c03a23#ref=rss)
-* [https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden](https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden-a-fac497b0-001b-40bd-bfc5-95a16d1a14f0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland-a-d9a2deee-99b1-4a2c-8076-e10f20f5065a#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/spd-drastisch-steigende-strompreise-stephan-weil-fordert-staatliches-einschreiten](https://www.spiegel.de/politik/spd-drastisch-steigende-strompreise-stephan-weil-fordert-staatliches-einschreiten-a-6c7e41fe-7625-4f41-9c13-9cc1a9385b13#ref=rss)
-* [https://www.spiegel.de/wirtschaft/9-euro-ticket-deutsche-bahn-zieht-positive-bilanz-umweltamt-fordert-fortsetzung](https://www.spiegel.de/wirtschaft/9-euro-ticket-deutsche-bahn-zieht-positive-bilanz-umweltamt-fordert-fortsetzung-a-b75270b2-5a35-4196-aa5e-674d3ab3dae7#ref=rss)
-* [https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden](https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden-a-fac497b0-001b-40bd-bfc5-95a16d1a14f0#ref=rss)
-### drei
-
-* [https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht](https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht-a-24884e7c-e1bd-43f1-b90f-bc6e90c89ab6#ref=rss)
-* [https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter](https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter-a-114b703b-d2b7-4eb3-aafa-630f213de4cc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland-a-d9a2deee-99b1-4a2c-8076-e10f20f5065a#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/iran-israel-warnt-vor-atom-deal-wir-werden-bereit-sein-zu-handeln](https://www.spiegel.de/ausland/iran-israel-warnt-vor-atom-deal-wir-werden-bereit-sein-zu-handeln-a-c8b3eb39-3a0e-4468-92e5-0cbed5c03a23#ref=rss)
-* [https://www.spiegel.de/ausland/affenpocken-in-den-usa-amerikas-behoerden-haben-nichts-gelernt-aus-corona](https://www.spiegel.de/ausland/affenpocken-in-den-usa-amerikas-behoerden-haben-nichts-gelernt-aus-corona-a-6fa2b0d0-ea05-45f9-acf7-4a5ef87eb6df#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen-a-58ee8509-d7b8-4ac9-800f-ceff97f2f48c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0-a-268adbac-7b88-4b3d-b112-6a8f367d19f1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-1-fc-kaiserslautern-und-1-fc-magdeburg-spielen-4-4](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-1-fc-kaiserslautern-und-1-fc-magdeburg-spielen-4-4-a-ac914eac-7200-413e-ac7d-2d7677d86501#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/9-euro-ticket-deutsche-bahn-zieht-positive-bilanz-umweltamt-fordert-fortsetzung](https://www.spiegel.de/wirtschaft/9-euro-ticket-deutsche-bahn-zieht-positive-bilanz-umweltamt-fordert-fortsetzung-a-b75270b2-5a35-4196-aa5e-674d3ab3dae7#ref=rss)
-* [https://www.spiegel.de/geschichte/ukraine-krieg-und-erinnerungskultur-warum-wir-unseren-historischen-horizont-erweitern-muessen](https://www.spiegel.de/geschichte/ukraine-krieg-und-erinnerungskultur-warum-wir-unseren-historischen-horizont-erweitern-muessen-a-a281fcff-cbb5-4393-a423-40800932f280#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland-a-d9a2deee-99b1-4a2c-8076-e10f20f5065a#ref=rss)
-### land
-
-* [https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden](https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden-a-fac497b0-001b-40bd-bfc5-95a16d1a14f0#ref=rss)
-* [https://www.spiegel.de/panorama/amsterdams-aeltestes-hausboot-wird-aus-kanal-entfernt](https://www.spiegel.de/panorama/amsterdams-aeltestes-hausboot-wird-aus-kanal-entfernt-a-01c7a98c-2128-450e-9f6e-ca77b78d0fe3#ref=rss)
-### formel
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot](https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot-a-e2d471ac-5bf0-4dc8-ad26-7c0cca3be249#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien-a-81c4b068-1322-465f-8d0a-db18554ee46e#ref=rss)
-### lewis
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot](https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot-a-e2d471ac-5bf0-4dc8-ad26-7c0cca3be249#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien-a-81c4b068-1322-465f-8d0a-db18554ee46e#ref=rss)
-### hamilton
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot](https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot-a-e2d471ac-5bf0-4dc8-ad26-7c0cca3be249#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien-a-81c4b068-1322-465f-8d0a-db18554ee46e#ref=rss)
-### max
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot](https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot-a-e2d471ac-5bf0-4dc8-ad26-7c0cca3be249#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien-a-81c4b068-1322-465f-8d0a-db18554ee46e#ref=rss)
+* [https://www.spiegel.de/ausland/irak-muktada-al-sadr-zieht-sich-aus-politik-zurueck](https://www.spiegel.de/ausland/irak-muktada-al-sadr-zieht-sich-aus-politik-zurueck-a-27a4be03-8cc1-4c6b-90b5-28ba44dd8156#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/recht-auf-reparatur-verbraucherschuetzer-fordern-mehr-tempo](https://www.spiegel.de/netzwelt/gadgets/recht-auf-reparatur-verbraucherschuetzer-fordern-mehr-tempo-a-ec048060-df2a-444c-97a2-06601123c0aa#ref=rss)
 ### verstappen
 
-* [https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot](https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot-a-e2d471ac-5bf0-4dc8-ad26-7c0cca3be249#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien-a-81c4b068-1322-465f-8d0a-db18554ee46e#ref=rss)
-### fc
+* [https://www.spiegel.de/sport/formel1/max-verstappen-in-der-formel-1-formel-verstappen](https://www.spiegel.de/sport/formel1/max-verstappen-in-der-formel-1-formel-verstappen-a-b14bbd20-0226-496c-a4a8-c814ebf7b583#ref=rss)
+### andere
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0-a-268adbac-7b88-4b3d-b112-6a8f367d19f1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-1-fc-kaiserslautern-und-1-fc-magdeburg-spielen-4-4](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-1-fc-kaiserslautern-und-1-fc-magdeburg-spielen-4-4-a-ac914eac-7200-413e-ac7d-2d7677d86501#ref=rss)
-### wir
+* [https://www.spiegel.de/wirtschaft/unternehmen/uebergewinnsteuer-wieso-andere-laender-sie-umsetzen-und-deutschland-nicht](https://www.spiegel.de/wirtschaft/unternehmen/uebergewinnsteuer-wieso-andere-laender-sie-umsetzen-und-deutschland-nicht-a-1adcb4ee-a42a-4ad0-9837-34970bf3c3f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/air-france-suspendiert-piloten-wegen-handgreiflichkeiten-im-cockpit](https://www.spiegel.de/wirtschaft/air-france-suspendiert-piloten-wegen-handgreiflichkeiten-im-cockpit-a-ea66d3e3-7799-4d01-a926-d878fa0274f9#ref=rss)
+### nehmen
 
-* [https://www.spiegel.de/ausland/iran-israel-warnt-vor-atom-deal-wir-werden-bereit-sein-zu-handeln](https://www.spiegel.de/ausland/iran-israel-warnt-vor-atom-deal-wir-werden-bereit-sein-zu-handeln-a-c8b3eb39-3a0e-4468-92e5-0cbed5c03a23#ref=rss)
-* [https://www.spiegel.de/geschichte/ukraine-krieg-und-erinnerungskultur-warum-wir-unseren-historischen-horizont-erweitern-muessen](https://www.spiegel.de/geschichte/ukraine-krieg-und-erinnerungskultur-warum-wir-unseren-historischen-horizont-erweitern-muessen-a-a281fcff-cbb5-4393-a423-40800932f280#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-russischen-verteidigungsminister-schoigu-geschwaecht](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-russischen-verteidigungsminister-schoigu-geschwaecht-a-331d9642-d781-48d2-8807-3d2f6b8ee372#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gemeinden-nehmen-rekordsumme-aus-der-gewerbesteuer-ein](https://www.spiegel.de/wirtschaft/gemeinden-nehmen-rekordsumme-aus-der-gewerbesteuer-ein-a-707365a3-dbb7-4866-a813-3f6a35595d8f#ref=rss)
+* [https://www.spiegel.de/ausland/venezuela-und-kolumbien-nehmen-diplomatische-beziehungen-wieder-auf](https://www.spiegel.de/ausland/venezuela-und-kolumbien-nehmen-diplomatische-beziehungen-wieder-auf-a-115fecdb-bf16-4e82-a866-7f978dabdf24#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-russischen-verteidigungsminister-schoigu-geschwaecht](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-russischen-verteidigungsminister-schoigu-geschwaecht-a-331d9642-d781-48d2-8807-3d2f6b8ee372#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen](https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen-a-20b360fd-5bbc-4b2d-8677-883a84eb5658#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/netzwelt/gadgets/recht-auf-reparatur-verbraucherschuetzer-fordern-mehr-tempo](https://www.spiegel.de/netzwelt/gadgets/recht-auf-reparatur-verbraucherschuetzer-fordern-mehr-tempo-a-ec048060-df2a-444c-97a2-06601123c0aa#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/professor-fuer-schulpaedagogik-wir-brauchen-einen-sokratischen-eid-fuer-lehrerinnen-und-lehrer](https://www.spiegel.de/panorama/bildung/professor-fuer-schulpaedagogik-wir-brauchen-einen-sokratischen-eid-fuer-lehrerinnen-und-lehrer-a-75ff0b17-52b5-4324-91e9-260547c136f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fischsterben-in-der-oder-steffi-lemke-fordert-stopp-von-ausbau-des-flusses](https://www.spiegel.de/politik/deutschland/fischsterben-in-der-oder-steffi-lemke-fordert-stopp-von-ausbau-des-flusses-a-84cf7f39-2da2-4d7e-82a8-51ea94162e1a#ref=rss)
+### eid
+
+* [https://www.spiegel.de/panorama/bildung/professor-fuer-schulpaedagogik-wir-brauchen-einen-sokratischen-eid-fuer-lehrerinnen-und-lehrer](https://www.spiegel.de/panorama/bildung/professor-fuer-schulpaedagogik-wir-brauchen-einen-sokratischen-eid-fuer-lehrerinnen-und-lehrer-a-75ff0b17-52b5-4324-91e9-260547c136f5#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-erstmals-gemeinsames-wm-trikot-fuer-maenner-und-frauen](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-erstmals-gemeinsames-wm-trikot-fuer-maenner-und-frauen-a-107f0aad-449a-4f18-af2c-9014fdce447a#ref=rss)
+### gemeinsames
+
+* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-erstmals-gemeinsames-wm-trikot-fuer-maenner-und-frauen](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-erstmals-gemeinsames-wm-trikot-fuer-maenner-und-frauen-a-107f0aad-449a-4f18-af2c-9014fdce447a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen](https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen-a-20b360fd-5bbc-4b2d-8677-883a84eb5658#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-erstmals-gemeinsames-wm-trikot-fuer-maenner-und-frauen](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-erstmals-gemeinsames-wm-trikot-fuer-maenner-und-frauen-a-107f0aad-449a-4f18-af2c-9014fdce447a#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen](https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen-a-982357b7-8726-4a5a-a76e-73519e71dfaf#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-erstmals-gemeinsames-wm-trikot-fuer-maenner-und-frauen](https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-erstmals-gemeinsames-wm-trikot-fuer-maenner-und-frauen-a-107f0aad-449a-4f18-af2c-9014fdce447a#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-wahl-jair-bolsonaro-sorgt-fuer-sexismus-eklat-waehrend-tv-debatte](https://www.spiegel.de/ausland/brasilien-wahl-jair-bolsonaro-sorgt-fuer-sexismus-eklat-waehrend-tv-debatte-a-59de9433-a107-4b88-8c9d-9e60da6ce5fe#ref=rss)
+### überschwemmungen
+
+* [https://www.spiegel.de/ausland/ueberschwemmungen-in-pakistan-rettung-aus-der-luft](https://www.spiegel.de/ausland/ueberschwemmungen-in-pakistan-rettung-aus-der-luft-a-7eeef9f5-c8ed-45ce-80ea-46389563d3b4#ref=rss)
 ### pakistan
 
-* [https://www.spiegel.de/politik/pakistan-mehr-als-1000-tote-durch-monsun-ueberschwemmungen](https://www.spiegel.de/politik/pakistan-mehr-als-1000-tote-durch-monsun-ueberschwemmungen-a-65833d27-9a87-418b-9f85-a3c51142074e#ref=rss)
-### anderen
+* [https://www.spiegel.de/ausland/ueberschwemmungen-in-pakistan-rettung-aus-der-luft](https://www.spiegel.de/ausland/ueberschwemmungen-in-pakistan-rettung-aus-der-luft-a-7eeef9f5-c8ed-45ce-80ea-46389563d3b4#ref=rss)
+### luft
 
-* [https://www.spiegel.de/politik/pakistan-mehr-als-1000-tote-durch-monsun-ueberschwemmungen](https://www.spiegel.de/politik/pakistan-mehr-als-1000-tote-durch-monsun-ueberschwemmungen-a-65833d27-9a87-418b-9f85-a3c51142074e#ref=rss)
-* [https://www.spiegel.de/start/psychische-belastung-in-der-pandemie-wieso-laufe-ich-noch-immer-nicht-auf-voller-power](https://www.spiegel.de/start/psychische-belastung-in-der-pandemie-wieso-laufe-ich-noch-immer-nicht-auf-voller-power-a-903566ad-8f68-423e-8116-2bccbd2d5b76#ref=rss)
-### mario
+* [https://www.spiegel.de/ausland/ueberschwemmungen-in-pakistan-rettung-aus-der-luft](https://www.spiegel.de/ausland/ueberschwemmungen-in-pakistan-rettung-aus-der-luft-a-7eeef9f5-c8ed-45ce-80ea-46389563d3b4#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen-a-58ee8509-d7b8-4ac9-800f-ceff97f2f48c#ref=rss)
-### götze
+* [https://www.spiegel.de/ausland/ueberschwemmungen-in-pakistan-rettung-aus-der-luft](https://www.spiegel.de/ausland/ueberschwemmungen-in-pakistan-rettung-aus-der-luft-a-7eeef9f5-c8ed-45ce-80ea-46389563d3b4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-frisst-lohn-erhoehungen-auf](https://www.spiegel.de/wirtschaft/inflation-frisst-lohn-erhoehungen-auf-a-abbcf040-4692-4159-b4c1-e674b8deb96e#ref=rss)
+### viele
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen-a-58ee8509-d7b8-4ac9-800f-ceff97f2f48c#ref=rss)
-### sieg
+* [https://www.spiegel.de/ausland/ueberschwemmungen-in-pakistan-rettung-aus-der-luft](https://www.spiegel.de/ausland/ueberschwemmungen-in-pakistan-rettung-aus-der-luft-a-7eeef9f5-c8ed-45ce-80ea-46389563d3b4#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/professor-fuer-schulpaedagogik-wir-brauchen-einen-sokratischen-eid-fuer-lehrerinnen-und-lehrer](https://www.spiegel.de/panorama/bildung/professor-fuer-schulpaedagogik-wir-brauchen-einen-sokratischen-eid-fuer-lehrerinnen-und-lehrer-a-75ff0b17-52b5-4324-91e9-260547c136f5#ref=rss)
+### muktada
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen-a-58ee8509-d7b8-4ac9-800f-ceff97f2f48c#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien-a-81c4b068-1322-465f-8d0a-db18554ee46e#ref=rss)
-### bremen
+* [https://www.spiegel.de/ausland/irak-muktada-al-sadr-zieht-sich-aus-politik-zurueck](https://www.spiegel.de/ausland/irak-muktada-al-sadr-zieht-sich-aus-politik-zurueck-a-27a4be03-8cc1-4c6b-90b5-28ba44dd8156#ref=rss)
+### alsadr
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen-a-58ee8509-d7b8-4ac9-800f-ceff97f2f48c#ref=rss)
-### ende
+* [https://www.spiegel.de/ausland/irak-muktada-al-sadr-zieht-sich-aus-politik-zurueck](https://www.spiegel.de/ausland/irak-muktada-al-sadr-zieht-sich-aus-politik-zurueck-a-27a4be03-8cc1-4c6b-90b5-28ba44dd8156#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen-a-58ee8509-d7b8-4ac9-800f-ceff97f2f48c#ref=rss)
-* [https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter](https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter-a-114b703b-d2b7-4eb3-aafa-630f213de4cc#ref=rss)
-### stürmer
+* [https://www.spiegel.de/ausland/irak-muktada-al-sadr-zieht-sich-aus-politik-zurueck](https://www.spiegel.de/ausland/irak-muktada-al-sadr-zieht-sich-aus-politik-zurueck-a-27a4be03-8cc1-4c6b-90b5-28ba44dd8156#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europaeische-zentralbank-anleger-spekulieren-auf-grossen-zinsschritt](https://www.spiegel.de/wirtschaft/europaeische-zentralbank-anleger-spekulieren-auf-grossen-zinsschritt-a-99d9bf9c-5153-4e06-a222-ac303777708d#ref=rss)
+### bolsonaro
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen](https://www.spiegel.de/sport/fussball/fussball-bundesliga-mario-goetze-trifft-bei-eintracht-frankfurts-sieg-in-bremen-a-58ee8509-d7b8-4ac9-800f-ceff97f2f48c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0-a-268adbac-7b88-4b3d-b112-6a8f367d19f1#ref=rss)
-### spd
+* [https://www.spiegel.de/ausland/brasilien-wahl-jair-bolsonaro-sorgt-fuer-sexismus-eklat-waehrend-tv-debatte](https://www.spiegel.de/ausland/brasilien-wahl-jair-bolsonaro-sorgt-fuer-sexismus-eklat-waehrend-tv-debatte-a-59de9433-a107-4b88-8c9d-9e60da6ce5fe#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/politik/spd-drastisch-steigende-strompreise-stephan-weil-fordert-staatliches-einschreiten](https://www.spiegel.de/politik/spd-drastisch-steigende-strompreise-stephan-weil-fordert-staatliches-einschreiten-a-6c7e41fe-7625-4f41-9c13-9cc1a9385b13#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gasumlage-wie-kommt-robert-habeck-da-raus](https://www.spiegel.de/politik/deutschland/gasumlage-wie-kommt-robert-habeck-da-raus-a-d29a7217-4b94-4b59-bbab-da91804bf27f#ref=rss)
-### long
+* [https://www.spiegel.de/ausland/brasilien-wahl-jair-bolsonaro-sorgt-fuer-sexismus-eklat-waehrend-tv-debatte](https://www.spiegel.de/ausland/brasilien-wahl-jair-bolsonaro-sorgt-fuer-sexismus-eklat-waehrend-tv-debatte-a-59de9433-a107-4b88-8c9d-9e60da6ce5fe#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-im-bundespraesidenten-wahlkampf-alexander-van-der-bellen-und-der-hass](https://www.spiegel.de/ausland/oesterreich-im-bundespraesidenten-wahlkampf-alexander-van-der-bellen-und-der-hass-a-f19609f4-32d2-4e75-8bce-8c93d103c4bc#ref=rss)
+### max
 
-* [https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht](https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht-a-24884e7c-e1bd-43f1-b90f-bc6e90c89ab6#ref=rss)
-### erzählen
+* [https://www.spiegel.de/sport/formel1/max-verstappen-in-der-formel-1-formel-verstappen](https://www.spiegel.de/sport/formel1/max-verstappen-in-der-formel-1-formel-verstappen-a-b14bbd20-0226-496c-a4a8-c814ebf7b583#ref=rss)
+### formel
 
-* [https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht](https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht-a-24884e7c-e1bd-43f1-b90f-bc6e90c89ab6#ref=rss)
-### früh
+* [https://www.spiegel.de/sport/formel1/max-verstappen-in-der-formel-1-formel-verstappen](https://www.spiegel.de/sport/formel1/max-verstappen-in-der-formel-1-formel-verstappen-a-b14bbd20-0226-496c-a4a8-c814ebf7b583#ref=rss)
+### 1
 
-* [https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht](https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht-a-24884e7c-e1bd-43f1-b90f-bc6e90c89ab6#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien-a-81c4b068-1322-465f-8d0a-db18554ee46e#ref=rss)
+* [https://www.spiegel.de/sport/formel1/max-verstappen-in-der-formel-1-formel-verstappen](https://www.spiegel.de/sport/formel1/max-verstappen-in-der-formel-1-formel-verstappen-a-b14bbd20-0226-496c-a4a8-c814ebf7b583#ref=rss)
+* [https://www.spiegel.de/wirtschaft/versprechen-wohngeldreform-soll-zum-jahreswechsel-kommen](https://www.spiegel.de/wirtschaft/versprechen-wohngeldreform-soll-zum-jahreswechsel-kommen-a-391a7ec9-fe00-48f7-bf3c-68cd6ff51ce0#ref=rss)
+### alberto
+
+* [https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen](https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen-a-871df37d-020d-4c69-a79f-8b5fce5de5d6#ref=rss)
+### balocco
+
+* [https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen](https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen-a-871df37d-020d-4c69-a79f-8b5fce5de5d6#ref=rss)
+### unternehmer
+
+* [https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen](https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen-a-871df37d-020d-4c69-a79f-8b5fce5de5d6#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen](https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen-a-871df37d-020d-4c69-a79f-8b5fce5de5d6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/uebergewinnsteuer-wieso-andere-laender-sie-umsetzen-und-deutschland-nicht](https://www.spiegel.de/wirtschaft/unternehmen/uebergewinnsteuer-wieso-andere-laender-sie-umsetzen-und-deutschland-nicht-a-1adcb4ee-a42a-4ad0-9837-34970bf3c3f8#ref=rss)
+### medienberichten
+
+* [https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen](https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen-a-871df37d-020d-4c69-a79f-8b5fce5de5d6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/pierre-emerick-aubameyang-unbekannte-sollen-profi-des-fc-barcelona-in-seinem-haus-ueberfallen-haben](https://www.spiegel.de/panorama/justiz/pierre-emerick-aubameyang-unbekannte-sollen-profi-des-fc-barcelona-in-seinem-haus-ueberfallen-haben-a-097083ff-3211-4ae7-83aa-f70418280516#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht](https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht-a-24884e7c-e1bd-43f1-b90f-bc6e90c89ab6#ref=rss)
-* [https://www.spiegel.de/ausland/indien-sprengung-zweier-wolkenkratzer-aus-dem-staub-gemacht](https://www.spiegel.de/ausland/indien-sprengung-zweier-wolkenkratzer-aus-dem-staub-gemacht-a-548ee2bb-aaf5-4b43-9a21-7989a4950122#ref=rss)
-### später
+* [https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen](https://www.spiegel.de/panorama/alberto-balocco-italienischer-unternehmer-laut-medienberichten-vom-blitz-erschlagen-a-871df37d-020d-4c69-a79f-8b5fce5de5d6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/air-france-suspendiert-piloten-wegen-handgreiflichkeiten-im-cockpit](https://www.spiegel.de/wirtschaft/air-france-suspendiert-piloten-wegen-handgreiflichkeiten-im-cockpit-a-ea66d3e3-7799-4d01-a926-d878fa0274f9#ref=rss)
+### geywitz
 
-* [https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht](https://www.spiegel.de/gesundheit/diagnose/long-long-covid-drei-betroffene-erzaehlen-wie-es-ihnen-inzwischen-geht-a-24884e7c-e1bd-43f1-b90f-bc6e90c89ab6#ref=rss)
-* [https://www.spiegel.de/panorama/oesterreich-6-jaehriger-nach-ueberfall-auf-vater-tod-in-fluss-gefunden](https://www.spiegel.de/panorama/oesterreich-6-jaehriger-nach-ueberfall-auf-vater-tod-in-fluss-gefunden-a-b93fc7a7-fab0-4ec4-afcf-91bf95eec7f4#ref=rss)
-### krisen
+* [https://www.spiegel.de/wirtschaft/versprechen-wohngeldreform-soll-zum-jahreswechsel-kommen](https://www.spiegel.de/wirtschaft/versprechen-wohngeldreform-soll-zum-jahreswechsel-kommen-a-391a7ec9-fe00-48f7-bf3c-68cd6ff51ce0#ref=rss)
+### verspricht
 
-* [https://www.spiegel.de/start/psychische-belastung-in-der-pandemie-wieso-laufe-ich-noch-immer-nicht-auf-voller-power](https://www.spiegel.de/start/psychische-belastung-in-der-pandemie-wieso-laufe-ich-noch-immer-nicht-auf-voller-power-a-903566ad-8f68-423e-8116-2bccbd2d5b76#ref=rss)
-* [https://www.spiegel.de/geschichte/ukraine-krieg-und-erinnerungskultur-warum-wir-unseren-historischen-horizont-erweitern-muessen](https://www.spiegel.de/geschichte/ukraine-krieg-und-erinnerungskultur-warum-wir-unseren-historischen-horizont-erweitern-muessen-a-a281fcff-cbb5-4393-a423-40800932f280#ref=rss)
-### rätsel
+* [https://www.spiegel.de/wirtschaft/versprechen-wohngeldreform-soll-zum-jahreswechsel-kommen](https://www.spiegel.de/wirtschaft/versprechen-wohngeldreform-soll-zum-jahreswechsel-kommen-a-391a7ec9-fe00-48f7-bf3c-68cd6ff51ce0#ref=rss)
+### üppige
 
-* [https://www.spiegel.de/karriere/wasser-marsch-raetsel-der-woche](https://www.spiegel.de/karriere/wasser-marsch-raetsel-der-woche-a-08d204e0-d7db-46c2-b45a-6c1205d10354#ref=rss)
-* [https://www.spiegel.de/deinspiegel/raetsel-des-alltags-hoert-man-in-muscheln-wirklich-das-meer-rauschen](https://www.spiegel.de/deinspiegel/raetsel-des-alltags-hoert-man-in-muscheln-wirklich-das-meer-rauschen-a-bdbfca79-0002-0001-0000-000180592534#ref=rss)
-### bernd
+* [https://www.spiegel.de/wirtschaft/versprechen-wohngeldreform-soll-zum-jahreswechsel-kommen](https://www.spiegel.de/wirtschaft/versprechen-wohngeldreform-soll-zum-jahreswechsel-kommen-a-391a7ec9-fe00-48f7-bf3c-68cd6ff51ce0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/europaeische-zentralbank-anleger-spekulieren-auf-grossen-zinsschritt](https://www.spiegel.de/wirtschaft/europaeische-zentralbank-anleger-spekulieren-auf-grossen-zinsschritt-a-99d9bf9c-5153-4e06-a222-ac303777708d#ref=rss)
+### energie
 
-* [https://www.spiegel.de/karriere/wasser-marsch-raetsel-der-woche](https://www.spiegel.de/karriere/wasser-marsch-raetsel-der-woche-a-08d204e0-d7db-46c2-b45a-6c1205d10354#ref=rss)
-### charles
+* [https://www.spiegel.de/wirtschaft/versprechen-wohngeldreform-soll-zum-jahreswechsel-kommen](https://www.spiegel.de/wirtschaft/versprechen-wohngeldreform-soll-zum-jahreswechsel-kommen-a-391a7ec9-fe00-48f7-bf3c-68cd6ff51ce0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gemeinden-nehmen-rekordsumme-aus-der-gewerbesteuer-ein](https://www.spiegel.de/wirtschaft/gemeinden-nehmen-rekordsumme-aus-der-gewerbesteuer-ein-a-707365a3-dbb7-4866-a813-3f6a35595d8f#ref=rss)
+### übergewinnsteuer
 
-* [https://www.spiegel.de/karriere/wasser-marsch-raetsel-der-woche](https://www.spiegel.de/karriere/wasser-marsch-raetsel-der-woche-a-08d204e0-d7db-46c2-b45a-6c1205d10354#ref=rss)
-### füllen
+* [https://www.spiegel.de/wirtschaft/unternehmen/uebergewinnsteuer-wieso-andere-laender-sie-umsetzen-und-deutschland-nicht](https://www.spiegel.de/wirtschaft/unternehmen/uebergewinnsteuer-wieso-andere-laender-sie-umsetzen-und-deutschland-nicht-a-1adcb4ee-a42a-4ad0-9837-34970bf3c3f8#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/karriere/wasser-marsch-raetsel-der-woche](https://www.spiegel.de/karriere/wasser-marsch-raetsel-der-woche-a-08d204e0-d7db-46c2-b45a-6c1205d10354#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland-a-d9a2deee-99b1-4a2c-8076-e10f20f5065a#ref=rss)
-### kommen
+* [https://www.spiegel.de/wirtschaft/unternehmen/uebergewinnsteuer-wieso-andere-laender-sie-umsetzen-und-deutschland-nicht](https://www.spiegel.de/wirtschaft/unternehmen/uebergewinnsteuer-wieso-andere-laender-sie-umsetzen-und-deutschland-nicht-a-1adcb4ee-a42a-4ad0-9837-34970bf3c3f8#ref=rss)
+* [https://www.spiegel.de/start/handwerk-nur-wenige-deutsche-ziehen-beruf-in-betracht](https://www.spiegel.de/start/handwerk-nur-wenige-deutsche-ziehen-beruf-in-betracht-a-a10fc5b4-067c-4578-9a9a-c6678bbbfa3e#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/karriere/wasser-marsch-raetsel-der-woche](https://www.spiegel.de/karriere/wasser-marsch-raetsel-der-woche-a-08d204e0-d7db-46c2-b45a-6c1205d10354#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-schliesst-epidemische-lage-im-winter-nicht-aus](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-schliesst-epidemische-lage-im-winter-nicht-aus-a-a4525a83-c00e-4d4d-8ffe-40376e12043f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/uebergewinnsteuer-wieso-andere-laender-sie-umsetzen-und-deutschland-nicht](https://www.spiegel.de/wirtschaft/unternehmen/uebergewinnsteuer-wieso-andere-laender-sie-umsetzen-und-deutschland-nicht-a-1adcb4ee-a42a-4ad0-9837-34970bf3c3f8#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/recht-auf-reparatur-verbraucherschuetzer-fordern-mehr-tempo](https://www.spiegel.de/netzwelt/gadgets/recht-auf-reparatur-verbraucherschuetzer-fordern-mehr-tempo-a-ec048060-df2a-444c-97a2-06601123c0aa#ref=rss)
+### pierreemerick
+
+* [https://www.spiegel.de/panorama/justiz/pierre-emerick-aubameyang-unbekannte-sollen-profi-des-fc-barcelona-in-seinem-haus-ueberfallen-haben](https://www.spiegel.de/panorama/justiz/pierre-emerick-aubameyang-unbekannte-sollen-profi-des-fc-barcelona-in-seinem-haus-ueberfallen-haben-a-097083ff-3211-4ae7-83aa-f70418280516#ref=rss)
+### aubameyang
+
+* [https://www.spiegel.de/panorama/justiz/pierre-emerick-aubameyang-unbekannte-sollen-profi-des-fc-barcelona-in-seinem-haus-ueberfallen-haben](https://www.spiegel.de/panorama/justiz/pierre-emerick-aubameyang-unbekannte-sollen-profi-des-fc-barcelona-in-seinem-haus-ueberfallen-haben-a-097083ff-3211-4ae7-83aa-f70418280516#ref=rss)
+### geld
+
+* [https://www.spiegel.de/wirtschaft/inflation-frisst-lohn-erhoehungen-auf](https://www.spiegel.de/wirtschaft/inflation-frisst-lohn-erhoehungen-auf-a-abbcf040-4692-4159-b4c1-e674b8deb96e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gemeinden-nehmen-rekordsumme-aus-der-gewerbesteuer-ein](https://www.spiegel.de/wirtschaft/gemeinden-nehmen-rekordsumme-aus-der-gewerbesteuer-ein-a-707365a3-dbb7-4866-a813-3f6a35595d8f#ref=rss)
+### hilfe
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-russischen-verteidigungsminister-schoigu-geschwaecht](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-russischen-verteidigungsminister-schoigu-geschwaecht-a-331d9642-d781-48d2-8807-3d2f6b8ee372#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen](https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen-a-20b360fd-5bbc-4b2d-8677-883a84eb5658#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-russischen-verteidigungsminister-schoigu-geschwaecht](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-russischen-verteidigungsminister-schoigu-geschwaecht-a-331d9642-d781-48d2-8807-3d2f6b8ee372#ref=rss)
+* [https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar](https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar-a-dcd98eab-0322-461a-887f-ff9c029fe537#ref=rss)
+### prag
+
+* [https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen](https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen-a-20b360fd-5bbc-4b2d-8677-883a84eb5658#ref=rss)
+### nötig
+
+* [https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen](https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen-a-20b360fd-5bbc-4b2d-8677-883a84eb5658#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gemeinden-nehmen-rekordsumme-aus-der-gewerbesteuer-ein](https://www.spiegel.de/wirtschaft/gemeinden-nehmen-rekordsumme-aus-der-gewerbesteuer-ein-a-707365a3-dbb7-4866-a813-3f6a35595d8f#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen](https://www.spiegel.de/politik/deutschland/prag-olaf-scholz-spd-will-ukraine-so-lange-wie-noetig-unterstuetzen-a-20b360fd-5bbc-4b2d-8677-883a84eb5658#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-fuehrt-die-maskenpflicht-im-regierungsflieger-wieder-ein](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-fuehrt-die-maskenpflicht-im-regierungsflieger-wieder-ein-a-5457f37f-84c4-4086-9357-4843183cbd2a#ref=rss)
+### europäische
+
+* [https://www.spiegel.de/wirtschaft/europaeische-zentralbank-anleger-spekulieren-auf-grossen-zinsschritt](https://www.spiegel.de/wirtschaft/europaeische-zentralbank-anleger-spekulieren-auf-grossen-zinsschritt-a-99d9bf9c-5153-4e06-a222-ac303777708d#ref=rss)
+### zentralbank
+
+* [https://www.spiegel.de/wirtschaft/europaeische-zentralbank-anleger-spekulieren-auf-grossen-zinsschritt](https://www.spiegel.de/wirtschaft/europaeische-zentralbank-anleger-spekulieren-auf-grossen-zinsschritt-a-99d9bf9c-5153-4e06-a222-ac303777708d#ref=rss)
+### anleger
+
+* [https://www.spiegel.de/wirtschaft/europaeische-zentralbank-anleger-spekulieren-auf-grossen-zinsschritt](https://www.spiegel.de/wirtschaft/europaeische-zentralbank-anleger-spekulieren-auf-grossen-zinsschritt-a-99d9bf9c-5153-4e06-a222-ac303777708d#ref=rss)
+### prince
+
+* [https://www.spiegel.de/reise/fernweh/von-assam-bis-prince-abdulaziz-die-top-ten-der-groessten-motor-jachten-der-welt](https://www.spiegel.de/reise/fernweh/von-assam-bis-prince-abdulaziz-die-top-ten-der-groessten-motor-jachten-der-welt-a-455ca3d7-74aa-410f-b4ab-b6d242992ac6#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/reise/fernweh/von-assam-bis-prince-abdulaziz-die-top-ten-der-groessten-motor-jachten-der-welt](https://www.spiegel.de/reise/fernweh/von-assam-bis-prince-abdulaziz-die-top-ten-der-groessten-motor-jachten-der-welt-a-455ca3d7-74aa-410f-b4ab-b6d242992ac6#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/recht-auf-reparatur-verbraucherschuetzer-fordern-mehr-tempo](https://www.spiegel.de/netzwelt/gadgets/recht-auf-reparatur-verbraucherschuetzer-fordern-mehr-tempo-a-ec048060-df2a-444c-97a2-06601123c0aa#ref=rss)
+### maskenpflicht
+
+* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-fuehrt-die-maskenpflicht-im-regierungsflieger-wieder-ein](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-fuehrt-die-maskenpflicht-im-regierungsflieger-wieder-ein-a-5457f37f-84c4-4086-9357-4843183cbd2a#ref=rss)
+### sokratischen
+
+* [https://www.spiegel.de/panorama/bildung/professor-fuer-schulpaedagogik-wir-brauchen-einen-sokratischen-eid-fuer-lehrerinnen-und-lehrer](https://www.spiegel.de/panorama/bildung/professor-fuer-schulpaedagogik-wir-brauchen-einen-sokratischen-eid-fuer-lehrerinnen-und-lehrer-a-75ff0b17-52b5-4324-91e9-260547c136f5#ref=rss)
+### staatsschutz
+
+* [https://www.spiegel.de/panorama/justiz/rostock-lichtenhagen-staatsschutz-uebernimmt-ermittlungen-zu-spritzattacke](https://www.spiegel.de/panorama/justiz/rostock-lichtenhagen-staatsschutz-uebernimmt-ermittlungen-zu-spritzattacke-a-d4c59c79-4417-486c-88b8-4c620d190503#ref=rss)
+### air
+
+* [https://www.spiegel.de/wirtschaft/air-france-suspendiert-piloten-wegen-handgreiflichkeiten-im-cockpit](https://www.spiegel.de/wirtschaft/air-france-suspendiert-piloten-wegen-handgreiflichkeiten-im-cockpit-a-ea66d3e3-7799-4d01-a926-d878fa0274f9#ref=rss)
+### france
+
+* [https://www.spiegel.de/wirtschaft/air-france-suspendiert-piloten-wegen-handgreiflichkeiten-im-cockpit](https://www.spiegel.de/wirtschaft/air-france-suspendiert-piloten-wegen-handgreiflichkeiten-im-cockpit-a-ea66d3e3-7799-4d01-a926-d878fa0274f9#ref=rss)
+### piloten
+
+* [https://www.spiegel.de/wirtschaft/air-france-suspendiert-piloten-wegen-handgreiflichkeiten-im-cockpit](https://www.spiegel.de/wirtschaft/air-france-suspendiert-piloten-wegen-handgreiflichkeiten-im-cockpit-a-ea66d3e3-7799-4d01-a926-d878fa0274f9#ref=rss)
+### pga
+
+* [https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar](https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar-a-dcd98eab-0322-461a-887f-ff9c029fe537#ref=rss)
 ### tour
 
-* [https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter](https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter-a-114b703b-d2b7-4eb3-aafa-630f213de4cc#ref=rss)
-### adam
+* [https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar](https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar-a-dcd98eab-0322-461a-887f-ff9c029fe537#ref=rss)
+### rory
 
-* [https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter](https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter-a-114b703b-d2b7-4eb3-aafa-630f213de4cc#ref=rss)
-### yates
+* [https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar](https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar-a-dcd98eab-0322-461a-887f-ff9c029fe537#ref=rss)
+### mcilroy
 
-* [https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter](https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter-a-114b703b-d2b7-4eb3-aafa-630f213de4cc#ref=rss)
-### georg
+* [https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar](https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar-a-dcd98eab-0322-461a-887f-ff9c029fe537#ref=rss)
+### finalturnier
 
-* [https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter](https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter-a-114b703b-d2b7-4eb3-aafa-630f213de4cc#ref=rss)
-### zimmermann
+* [https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar](https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar-a-dcd98eab-0322-461a-887f-ff9c029fe537#ref=rss)
+### letzten
 
-* [https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter](https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter-a-114b703b-d2b7-4eb3-aafa-630f213de4cc#ref=rss)
-### platz
+* [https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar](https://www.spiegel.de/sport/pga-tour-rory-mcilroy-gewinnt-nach-aufholjagd-finalturnier-und-18-millionen-dollar-a-dcd98eab-0322-461a-887f-ff9c029fe537#ref=rss)
+* [https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen](https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen-a-982357b7-8726-4a5a-a76e-73519e71dfaf#ref=rss)
+### österreich
 
-* [https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter](https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter-a-114b703b-d2b7-4eb3-aafa-630f213de4cc#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien-a-81c4b068-1322-465f-8d0a-db18554ee46e#ref=rss)
-### unter
+* [https://www.spiegel.de/ausland/oesterreich-im-bundespraesidenten-wahlkampf-alexander-van-der-bellen-und-der-hass](https://www.spiegel.de/ausland/oesterreich-im-bundespraesidenten-wahlkampf-alexander-van-der-bellen-und-der-hass-a-f19609f4-32d2-4e75-8bce-8c93d103c4bc#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter](https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter-a-114b703b-d2b7-4eb3-aafa-630f213de4cc#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-heile-welt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-heile-welt-im-schnellcheck-a-d330c6ee-26c4-456c-bfd7-f71ea94b07f4#ref=rss)
-### brite
+* [https://www.spiegel.de/ausland/oesterreich-im-bundespraesidenten-wahlkampf-alexander-van-der-bellen-und-der-hass](https://www.spiegel.de/ausland/oesterreich-im-bundespraesidenten-wahlkampf-alexander-van-der-bellen-und-der-hass-a-f19609f4-32d2-4e75-8bce-8c93d103c4bc#ref=rss)
+### van
 
-* [https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter](https://www.spiegel.de/sport/deutschland-tour-adam-yates-holt-gesamtsieg-georg-zimmermann-wird-vierter-a-114b703b-d2b7-4eb3-aafa-630f213de4cc#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot](https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot-a-e2d471ac-5bf0-4dc8-ad26-7c0cca3be249#ref=rss)
-### remco
+* [https://www.spiegel.de/ausland/oesterreich-im-bundespraesidenten-wahlkampf-alexander-van-der-bellen-und-der-hass](https://www.spiegel.de/ausland/oesterreich-im-bundespraesidenten-wahlkampf-alexander-van-der-bellen-und-der-hass-a-f19609f4-32d2-4e75-8bce-8c93d103c4bc#ref=rss)
+### bellen
 
-* [https://www.spiegel.de/sport/vuelta-remco-evenepoel-baut-gesamtfuehrung-aus-primoz-roglic-schwaechelt](https://www.spiegel.de/sport/vuelta-remco-evenepoel-baut-gesamtfuehrung-aus-primoz-roglic-schwaechelt-a-c837832e-7253-495f-86f1-f1e3aa75030c#ref=rss)
-### evenepoel
+* [https://www.spiegel.de/ausland/oesterreich-im-bundespraesidenten-wahlkampf-alexander-van-der-bellen-und-der-hass](https://www.spiegel.de/ausland/oesterreich-im-bundespraesidenten-wahlkampf-alexander-van-der-bellen-und-der-hass-a-f19609f4-32d2-4e75-8bce-8c93d103c4bc#ref=rss)
+### paula
 
-* [https://www.spiegel.de/sport/vuelta-remco-evenepoel-baut-gesamtfuehrung-aus-primoz-roglic-schwaechelt](https://www.spiegel.de/sport/vuelta-remco-evenepoel-baut-gesamtfuehrung-aus-primoz-roglic-schwaechelt-a-c837832e-7253-495f-86f1-f1e3aa75030c#ref=rss)
-### zeigte
+* [https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen](https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen-a-982357b7-8726-4a5a-a76e-73519e71dfaf#ref=rss)
+### badosa
 
-* [https://www.spiegel.de/sport/vuelta-remco-evenepoel-baut-gesamtfuehrung-aus-primoz-roglic-schwaechelt](https://www.spiegel.de/sport/vuelta-remco-evenepoel-baut-gesamtfuehrung-aus-primoz-roglic-schwaechelt-a-c837832e-7253-495f-86f1-f1e3aa75030c#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic](https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic-a-c85cf0e9-66ae-4c20-a7b2-ec2e8128afc9#ref=rss)
-### rote
+* [https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen](https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen-a-982357b7-8726-4a5a-a76e-73519e71dfaf#ref=rss)
+### iga
 
-* [https://www.spiegel.de/sport/vuelta-remco-evenepoel-baut-gesamtfuehrung-aus-primoz-roglic-schwaechelt](https://www.spiegel.de/sport/vuelta-remco-evenepoel-baut-gesamtfuehrung-aus-primoz-roglic-schwaechelt-a-c837832e-7253-495f-86f1-f1e3aa75030c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0-a-268adbac-7b88-4b3d-b112-6a8f367d19f1#ref=rss)
-### 9euroticket
+* [https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen](https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen-a-982357b7-8726-4a5a-a76e-73519e71dfaf#ref=rss)
+### świątek
 
-* [https://www.spiegel.de/wirtschaft/9-euro-ticket-deutsche-bahn-zieht-positive-bilanz-umweltamt-fordert-fortsetzung](https://www.spiegel.de/wirtschaft/9-euro-ticket-deutsche-bahn-zieht-positive-bilanz-umweltamt-fordert-fortsetzung-a-b75270b2-5a35-4196-aa5e-674d3ab3dae7#ref=rss)
-### deutsche
+* [https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen](https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen-a-982357b7-8726-4a5a-a76e-73519e71dfaf#ref=rss)
+### bälle
 
-* [https://www.spiegel.de/wirtschaft/9-euro-ticket-deutsche-bahn-zieht-positive-bilanz-umweltamt-fordert-fortsetzung](https://www.spiegel.de/wirtschaft/9-euro-ticket-deutsche-bahn-zieht-positive-bilanz-umweltamt-fordert-fortsetzung-a-b75270b2-5a35-4196-aa5e-674d3ab3dae7#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic](https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic-a-c85cf0e9-66ae-4c20-a7b2-ec2e8128afc9#ref=rss)
-### bahn
+* [https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen](https://www.spiegel.de/sport/tennis/us-open-paula-badosa-und-iga-swiatek-kritisieren-unterschiedliche-baelle-fuer-maenner-und-frauen-a-982357b7-8726-4a5a-a76e-73519e71dfaf#ref=rss)
+### kolumbien
 
-* [https://www.spiegel.de/wirtschaft/9-euro-ticket-deutsche-bahn-zieht-positive-bilanz-umweltamt-fordert-fortsetzung](https://www.spiegel.de/wirtschaft/9-euro-ticket-deutsche-bahn-zieht-positive-bilanz-umweltamt-fordert-fortsetzung-a-b75270b2-5a35-4196-aa5e-674d3ab3dae7#ref=rss)
-### drittel
+* [https://www.spiegel.de/ausland/venezuela-und-kolumbien-nehmen-diplomatische-beziehungen-wieder-auf](https://www.spiegel.de/ausland/venezuela-und-kolumbien-nehmen-diplomatische-beziehungen-wieder-auf-a-115fecdb-bf16-4e82-a866-7f978dabdf24#ref=rss)
+### krefeld
 
-* [https://www.spiegel.de/wirtschaft/9-euro-ticket-deutsche-bahn-zieht-positive-bilanz-umweltamt-fordert-fortsetzung](https://www.spiegel.de/wirtschaft/9-euro-ticket-deutsche-bahn-zieht-positive-bilanz-umweltamt-fordert-fortsetzung-a-b75270b2-5a35-4196-aa5e-674d3ab3dae7#ref=rss)
-* [https://www.spiegel.de/ausland/affenpocken-in-den-usa-amerikas-behoerden-haben-nichts-gelernt-aus-corona](https://www.spiegel.de/ausland/affenpocken-in-den-usa-amerikas-behoerden-haben-nichts-gelernt-aus-corona-a-6fa2b0d0-ea05-45f9-acf7-4a5ef87eb6df#ref=rss)
-### fluss
+* [https://www.spiegel.de/panorama/krefeld-autofahrer-ueberfaehrt-sechsjaehrigen-auf-skateboard](https://www.spiegel.de/panorama/krefeld-autofahrer-ueberfaehrt-sechsjaehrigen-auf-skateboard-a-f41551cf-0943-4bcd-a29c-65c8ef276258#ref=rss)
+### autofahrer
 
-* [https://www.spiegel.de/panorama/oesterreich-6-jaehriger-nach-ueberfall-auf-vater-tod-in-fluss-gefunden](https://www.spiegel.de/panorama/oesterreich-6-jaehriger-nach-ueberfall-auf-vater-tod-in-fluss-gefunden-a-b93fc7a7-fab0-4ec4-afcf-91bf95eec7f4#ref=rss)
-### söder
+* [https://www.spiegel.de/panorama/krefeld-autofahrer-ueberfaehrt-sechsjaehrigen-auf-skateboard](https://www.spiegel.de/panorama/krefeld-autofahrer-ueberfaehrt-sechsjaehrigen-auf-skateboard-a-f41551cf-0943-4bcd-a29c-65c8ef276258#ref=rss)
+### skateboard
 
-* [https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden](https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden-a-fac497b0-001b-40bd-bfc5-95a16d1a14f0#ref=rss)
-### weg
+* [https://www.spiegel.de/panorama/krefeld-autofahrer-ueberfaehrt-sechsjaehrigen-auf-skateboard](https://www.spiegel.de/panorama/krefeld-autofahrer-ueberfaehrt-sechsjaehrigen-auf-skateboard-a-f41551cf-0943-4bcd-a29c-65c8ef276258#ref=rss)
+### unfall
 
-* [https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden](https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden-a-fac497b0-001b-40bd-bfc5-95a16d1a14f0#ref=rss)
-### finden
+* [https://www.spiegel.de/panorama/krefeld-autofahrer-ueberfaehrt-sechsjaehrigen-auf-skateboard](https://www.spiegel.de/panorama/krefeld-autofahrer-ueberfaehrt-sechsjaehrigen-auf-skateboard-a-f41551cf-0943-4bcd-a29c-65c8ef276258#ref=rss)
+* [https://www.spiegel.de/panorama/ammersee-unfall-beim-stand-up-paddling-16-jaehrige-tot-geborgen](https://www.spiegel.de/panorama/ammersee-unfall-beim-stand-up-paddling-16-jaehrige-tot-geborgen-a-a7db382e-e32c-4e57-abf6-55ae07f9b663#ref=rss)
+### steffi
 
-* [https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden](https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden-a-fac497b0-001b-40bd-bfc5-95a16d1a14f0#ref=rss)
-### ampelkoalition
+* [https://www.spiegel.de/politik/deutschland/fischsterben-in-der-oder-steffi-lemke-fordert-stopp-von-ausbau-des-flusses](https://www.spiegel.de/politik/deutschland/fischsterben-in-der-oder-steffi-lemke-fordert-stopp-von-ausbau-des-flusses-a-84cf7f39-2da2-4d7e-82a8-51ea94162e1a#ref=rss)
+### lemke
 
-* [https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden](https://www.spiegel.de/politik/markus-soeder-fordert-bundesregierung-auf-weg-gegen-leiden-des-landes-zu-finden-a-fac497b0-001b-40bd-bfc5-95a16d1a14f0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/gasumlage-wie-kommt-robert-habeck-da-raus](https://www.spiegel.de/politik/deutschland/gasumlage-wie-kommt-robert-habeck-da-raus-a-d29a7217-4b94-4b59-bbab-da91804bf27f#ref=rss)
-### slowenien
+* [https://www.spiegel.de/politik/deutschland/fischsterben-in-der-oder-steffi-lemke-fordert-stopp-von-ausbau-des-flusses](https://www.spiegel.de/politik/deutschland/fischsterben-in-der-oder-steffi-lemke-fordert-stopp-von-ausbau-des-flusses-a-84cf7f39-2da2-4d7e-82a8-51ea94162e1a#ref=rss)
+### ammersee
 
-* [https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic](https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic-a-c85cf0e9-66ae-4c20-a7b2-ec2e8128afc9#ref=rss)
-### luka
+* [https://www.spiegel.de/panorama/ammersee-unfall-beim-stand-up-paddling-16-jaehrige-tot-geborgen](https://www.spiegel.de/panorama/ammersee-unfall-beim-stand-up-paddling-16-jaehrige-tot-geborgen-a-a7db382e-e32c-4e57-abf6-55ae07f9b663#ref=rss)
+### 16jährige
 
-* [https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic](https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic-a-c85cf0e9-66ae-4c20-a7b2-ec2e8128afc9#ref=rss)
-### dončić
-
-* [https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic](https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic-a-c85cf0e9-66ae-4c20-a7b2-ec2e8128afc9#ref=rss)
-### mannschaft
-
-* [https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic](https://www.spiegel.de/sport/basketball/basketball-deutschland-schlaegt-topfavorit-slowenien-um-superstar-luka-doncic-a-c85cf0e9-66ae-4c20-a7b2-ec2e8128afc9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0-a-268adbac-7b88-4b3d-b112-6a8f367d19f1#ref=rss)
-### russland
-
-* [https://www.spiegel.de/wirtschaft/russland-fackelt-gas-ab-das-ist-die-wahrscheinlich-teuerste-flamme-der-welt](https://www.spiegel.de/wirtschaft/russland-fackelt-gas-ab-das-ist-die-wahrscheinlich-teuerste-flamme-der-welt-a-4167214c-c840-4426-a4e1-b3246b370cc7#ref=rss)
-### fackelt
-
-* [https://www.spiegel.de/wirtschaft/russland-fackelt-gas-ab-das-ist-die-wahrscheinlich-teuerste-flamme-der-welt](https://www.spiegel.de/wirtschaft/russland-fackelt-gas-ab-das-ist-die-wahrscheinlich-teuerste-flamme-der-welt-a-4167214c-c840-4426-a4e1-b3246b370cc7#ref=rss)
-### gas
-
-* [https://www.spiegel.de/wirtschaft/russland-fackelt-gas-ab-das-ist-die-wahrscheinlich-teuerste-flamme-der-welt](https://www.spiegel.de/wirtschaft/russland-fackelt-gas-ab-das-ist-die-wahrscheinlich-teuerste-flamme-der-welt-a-4167214c-c840-4426-a4e1-b3246b370cc7#ref=rss)
-### welt
-
-* [https://www.spiegel.de/wirtschaft/russland-fackelt-gas-ab-das-ist-die-wahrscheinlich-teuerste-flamme-der-welt](https://www.spiegel.de/wirtschaft/russland-fackelt-gas-ab-das-ist-die-wahrscheinlich-teuerste-flamme-der-welt-a-4167214c-c840-4426-a4e1-b3246b370cc7#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-heile-welt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-heile-welt-im-schnellcheck-a-d330c6ee-26c4-456c-bfd7-f71ea94b07f4#ref=rss)
-### belgien
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot](https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot-a-e2d471ac-5bf0-4dc8-ad26-7c0cca3be249#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien](https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-faehrt-im-red-bull-von-platz-14-zum-sieg-beim-grossen-preis-von-belgien-a-81c4b068-1322-465f-8d0a-db18554ee46e#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot](https://www.spiegel.de/sport/formel1/formel-1-in-belgien-fruehes-aus-fuer-lewis-hamilton-was-fuer-ein-idiot-a-e2d471ac-5bf0-4dc8-ad26-7c0cca3be249#ref=rss)
-* [https://www.spiegel.de/panorama/ingelheim-kind-bleibt-mit-kopf-im-toilettenaufsatz-stecken-und-wird-von-feuerwehr-befreit](https://www.spiegel.de/panorama/ingelheim-kind-bleibt-mit-kopf-im-toilettenaufsatz-stecken-und-wird-von-feuerwehr-befreit-a-2c1552cb-1aae-4db3-b46d-9072551974ee#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-heile-welt-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dortmund-heile-welt-im-schnellcheck-a-d330c6ee-26c4-456c-bfd7-f71ea94b07f4#ref=rss)
-### corona
-
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-schliesst-epidemische-lage-im-winter-nicht-aus](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-schliesst-epidemische-lage-im-winter-nicht-aus-a-a4525a83-c00e-4d4d-8ffe-40376e12043f#ref=rss)
-* [https://www.spiegel.de/ausland/affenpocken-in-den-usa-amerikas-behoerden-haben-nichts-gelernt-aus-corona](https://www.spiegel.de/ausland/affenpocken-in-den-usa-amerikas-behoerden-haben-nichts-gelernt-aus-corona-a-6fa2b0d0-ea05-45f9-acf7-4a5ef87eb6df#ref=rss)
-### karl
-
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-schliesst-epidemische-lage-im-winter-nicht-aus](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-schliesst-epidemische-lage-im-winter-nicht-aus-a-a4525a83-c00e-4d4d-8ffe-40376e12043f#ref=rss)
-### lauterbach
-
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-schliesst-epidemische-lage-im-winter-nicht-aus](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-schliesst-epidemische-lage-im-winter-nicht-aus-a-a4525a83-c00e-4d4d-8ffe-40376e12043f#ref=rss)
-### einmal
-
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-schliesst-epidemische-lage-im-winter-nicht-aus](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-schliesst-epidemische-lage-im-winter-nicht-aus-a-a4525a83-c00e-4d4d-8ffe-40376e12043f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0-a-268adbac-7b88-4b3d-b112-6a8f367d19f1#ref=rss)
-### brauche
-
-* [https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-schliesst-epidemische-lage-im-winter-nicht-aus](https://www.spiegel.de/politik/deutschland/corona-karl-lauterbach-schliesst-epidemische-lage-im-winter-nicht-aus-a-a4525a83-c00e-4d4d-8ffe-40376e12043f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland-a-d9a2deee-99b1-4a2c-8076-e10f20f5065a#ref=rss)
-### vfb
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0-a-268adbac-7b88-4b3d-b112-6a8f367d19f1#ref=rss)
-### stuttgart
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0-a-268adbac-7b88-4b3d-b112-6a8f367d19f1#ref=rss)
-### köln
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0-a-268adbac-7b88-4b3d-b112-6a8f367d19f1#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0](https://www.spiegel.de/sport/fussball/fussball-bundesliga-vfb-stuttgart-und-1-fc-koeln-trennen-sich-0-0-a-268adbac-7b88-4b3d-b112-6a8f367d19f1#ref=rss)
-* [https://www.spiegel.de/ausland/affenpocken-in-den-usa-amerikas-behoerden-haben-nichts-gelernt-aus-corona](https://www.spiegel.de/ausland/affenpocken-in-den-usa-amerikas-behoerden-haben-nichts-gelernt-aus-corona-a-6fa2b0d0-ea05-45f9-acf7-4a5ef87eb6df#ref=rss)
-### indien
-
-* [https://www.spiegel.de/ausland/indien-sprengung-zweier-wolkenkratzer-aus-dem-staub-gemacht](https://www.spiegel.de/ausland/indien-sprengung-zweier-wolkenkratzer-aus-dem-staub-gemacht-a-548ee2bb-aaf5-4b43-9a21-7989a4950122#ref=rss)
-### sprengung
-
-* [https://www.spiegel.de/ausland/indien-sprengung-zweier-wolkenkratzer-aus-dem-staub-gemacht](https://www.spiegel.de/ausland/indien-sprengung-zweier-wolkenkratzer-aus-dem-staub-gemacht-a-548ee2bb-aaf5-4b43-9a21-7989a4950122#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland](https://www.spiegel.de/wirtschaft/soziales/studie-warnt-vor-massivem-arbeitskraeftemangel-in-deutschland-a-d9a2deee-99b1-4a2c-8076-e10f20f5065a#ref=rss)
-### ingelheim
-
-* [https://www.spiegel.de/panorama/ingelheim-kind-bleibt-mit-kopf-im-toilettenaufsatz-stecken-und-wird-von-feuerwehr-befreit](https://www.spiegel.de/panorama/ingelheim-kind-bleibt-mit-kopf-im-toilettenaufsatz-stecken-und-wird-von-feuerwehr-befreit-a-2c1552cb-1aae-4db3-b46d-9072551974ee#ref=rss)
-### kopf
-
-* [https://www.spiegel.de/panorama/ingelheim-kind-bleibt-mit-kopf-im-toilettenaufsatz-stecken-und-wird-von-feuerwehr-befreit](https://www.spiegel.de/panorama/ingelheim-kind-bleibt-mit-kopf-im-toilettenaufsatz-stecken-und-wird-von-feuerwehr-befreit-a-2c1552cb-1aae-4db3-b46d-9072551974ee#ref=rss)
-### feuerwehr
-
-* [https://www.spiegel.de/panorama/ingelheim-kind-bleibt-mit-kopf-im-toilettenaufsatz-stecken-und-wird-von-feuerwehr-befreit](https://www.spiegel.de/panorama/ingelheim-kind-bleibt-mit-kopf-im-toilettenaufsatz-stecken-und-wird-von-feuerwehr-befreit-a-2c1552cb-1aae-4db3-b46d-9072551974ee#ref=rss)
-### gasumlage
-
-* [https://www.spiegel.de/politik/deutschland/gasumlage-wie-kommt-robert-habeck-da-raus](https://www.spiegel.de/politik/deutschland/gasumlage-wie-kommt-robert-habeck-da-raus-a-d29a7217-4b94-4b59-bbab-da91804bf27f#ref=rss)
-### robert
-
-* [https://www.spiegel.de/politik/deutschland/gasumlage-wie-kommt-robert-habeck-da-raus](https://www.spiegel.de/politik/deutschland/gasumlage-wie-kommt-robert-habeck-da-raus-a-d29a7217-4b94-4b59-bbab-da91804bf27f#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/politik/deutschland/gasumlage-wie-kommt-robert-habeck-da-raus](https://www.spiegel.de/politik/deutschland/gasumlage-wie-kommt-robert-habeck-da-raus-a-d29a7217-4b94-4b59-bbab-da91804bf27f#ref=rss)
-### kaiserslautern
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-1-fc-kaiserslautern-und-1-fc-magdeburg-spielen-4-4](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-1-fc-kaiserslautern-und-1-fc-magdeburg-spielen-4-4-a-ac914eac-7200-413e-ac7d-2d7677d86501#ref=rss)
-### magdeburg
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-1-fc-kaiserslautern-und-1-fc-magdeburg-spielen-4-4](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-1-fc-kaiserslautern-und-1-fc-magdeburg-spielen-4-4-a-ac914eac-7200-413e-ac7d-2d7677d86501#ref=rss)
-### 44
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-1-fc-kaiserslautern-und-1-fc-magdeburg-spielen-4-4](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-1-fc-kaiserslautern-und-1-fc-magdeburg-spielen-4-4-a-ac914eac-7200-413e-ac7d-2d7677d86501#ref=rss)
-### amsterdams
-
-* [https://www.spiegel.de/panorama/amsterdams-aeltestes-hausboot-wird-aus-kanal-entfernt](https://www.spiegel.de/panorama/amsterdams-aeltestes-hausboot-wird-aus-kanal-entfernt-a-01c7a98c-2128-450e-9f6e-ca77b78d0fe3#ref=rss)
-### hausboot
-
-* [https://www.spiegel.de/panorama/amsterdams-aeltestes-hausboot-wird-aus-kanal-entfernt](https://www.spiegel.de/panorama/amsterdams-aeltestes-hausboot-wird-aus-kanal-entfernt-a-01c7a98c-2128-450e-9f6e-ca77b78d0fe3#ref=rss)
-### soldat
-
-* [https://www.spiegel.de/ausland/grossbritannien-soldat-erschiesst-kameraden](https://www.spiegel.de/ausland/grossbritannien-soldat-erschiesst-kameraden-a-6a639786-65a8-4945-bbcd-55a703576545#ref=rss)
-### kameraden
-
-* [https://www.spiegel.de/ausland/grossbritannien-soldat-erschiesst-kameraden](https://www.spiegel.de/ausland/grossbritannien-soldat-erschiesst-kameraden-a-6a639786-65a8-4945-bbcd-55a703576545#ref=rss)
+* [https://www.spiegel.de/panorama/ammersee-unfall-beim-stand-up-paddling-16-jaehrige-tot-geborgen](https://www.spiegel.de/panorama/ammersee-unfall-beim-stand-up-paddling-16-jaehrige-tot-geborgen-a-a7db382e-e32c-4e57-abf6-55ae07f9b663#ref=rss)
 
