@@ -4,306 +4,326 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### russland
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-schwarzmeerflotte-verlegt-u-boote-zurueck-nach-russland](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-schwarzmeerflotte-verlegt-u-boote-zurueck-nach-russland-a-ba8fc688-a8f3-438e-8100-4044f52d99b7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-parteispitze-fordert-informationen-zu-russland-reise-von-abgeordneten](https://www.spiegel.de/politik/deutschland/afd-parteispitze-fordert-informationen-zu-russland-reise-von-abgeordneten-a-73f036eb-6ce8-45b5-ba32-0112b3f151c8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab](https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab-a-587d86f7-8f32-4d15-b74a-7bbf32e406c9#ref=rss)
-* [https://www.spiegel.de/ausland/russland-direktor-von-ruestungsfirma-wegen-geschaeften-mit-nato-laendern-festgenommen](https://www.spiegel.de/ausland/russland-direktor-von-ruestungsfirma-wegen-geschaeften-mit-nato-laendern-festgenommen-a-13705718-9cd2-4469-bfcb-4875d528c09e#ref=rss)
-### liz
-
-* [https://www.spiegel.de/wirtschaft/freihandel-liz-truss-begraebt-die-hoffnung-auf-ein-schnelles-abkommen-mit-den-usa](https://www.spiegel.de/wirtschaft/freihandel-liz-truss-begraebt-die-hoffnung-auf-ein-schnelles-abkommen-mit-den-usa-a-9e26f5f6-c88d-4153-849d-b3962e579b91#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/liz-truss-australisches-tv-team-erkennt-britische-premierministerin-nicht-minor-royals](https://www.spiegel.de/panorama/gesellschaft/liz-truss-australisches-tv-team-erkennt-britische-premierministerin-nicht-minor-royals-a-5e7cc78a-e7e0-4116-aa49-ed9ea714b037#ref=rss)
-* [https://www.spiegel.de/ausland/liz-truss-und-charles-iii-gelingt-grossbritannien-der-doppelte-neustart](https://www.spiegel.de/ausland/liz-truss-und-charles-iii-gelingt-grossbritannien-der-doppelte-neustart-a-1e0f021b-7037-4568-9557-58d248929861#ref=rss)
-### truss
-
-* [https://www.spiegel.de/wirtschaft/freihandel-liz-truss-begraebt-die-hoffnung-auf-ein-schnelles-abkommen-mit-den-usa](https://www.spiegel.de/wirtschaft/freihandel-liz-truss-begraebt-die-hoffnung-auf-ein-schnelles-abkommen-mit-den-usa-a-9e26f5f6-c88d-4153-849d-b3962e579b91#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/liz-truss-australisches-tv-team-erkennt-britische-premierministerin-nicht-minor-royals](https://www.spiegel.de/panorama/gesellschaft/liz-truss-australisches-tv-team-erkennt-britische-premierministerin-nicht-minor-royals-a-5e7cc78a-e7e0-4116-aa49-ed9ea714b037#ref=rss)
-* [https://www.spiegel.de/ausland/liz-truss-und-charles-iii-gelingt-grossbritannien-der-doppelte-neustart](https://www.spiegel.de/ausland/liz-truss-und-charles-iii-gelingt-grossbritannien-der-doppelte-neustart-a-1e0f021b-7037-4568-9557-58d248929861#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/europaeische-union-die-eu-verschwendet-mehr-lebensmittel-als-sie-importiert](https://www.spiegel.de/wissenschaft/europaeische-union-die-eu-verschwendet-mehr-lebensmittel-als-sie-importiert-a-d2134a53-f011-43f7-abc4-d1d59ddd1343#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/einrichtungsbezogene-impfpflicht-baden-wuerttemberg-kontrolliert-nachweise-in-der-pflege-so-gut-wie-nicht-mehr](https://www.spiegel.de/panorama/gesellschaft/einrichtungsbezogene-impfpflicht-baden-wuerttemberg-kontrolliert-nachweise-in-der-pflege-so-gut-wie-nicht-mehr-a-a34ec8e0-81ac-4eae-a430-d4e5588b5e89#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer](https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer-a-451fd558-f5f9-4c07-a291-dcb89fa4a6f0#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wirtschaft/freihandel-liz-truss-begraebt-die-hoffnung-auf-ein-schnelles-abkommen-mit-den-usa](https://www.spiegel.de/wirtschaft/freihandel-liz-truss-begraebt-die-hoffnung-auf-ein-schnelles-abkommen-mit-den-usa-a-9e26f5f6-c88d-4153-849d-b3962e579b91#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/usa-pentagon-will-umstrittene-online-operationen-des-militaers-pruefen](https://www.spiegel.de/netzwelt/netzpolitik/usa-pentagon-will-umstrittene-online-operationen-des-militaers-pruefen-a-07e5781e-9d46-4e6d-a545-67d9f7c7c342#ref=rss)
-* [https://www.spiegel.de/psychologie/usa-wie-florida-vom-paradies-zur-hoelle-wurde](https://www.spiegel.de/psychologie/usa-wie-florida-vom-paradies-zur-hoelle-wurde-a-36e8f148-332d-45e9-b0a5-de727f509c04#ref=rss)
-### premierministerin
+* [https://www.spiegel.de/politik/iss-usa-und-russland-starten-gemeinsamen-flug-zur-raumstation](https://www.spiegel.de/politik/iss-usa-und-russland-starten-gemeinsamen-flug-zur-raumstation-a-504e6b81-665b-4bcd-a2eb-9b22154929ce#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen](https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen-a-ef8608f2-da47-4b8a-8774-6636d3a39a0f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/adnan-syed-serial-podcast-macherin-sarah-koenig-ueber-spektakulaere-wende-in-mordfall](https://www.spiegel.de/panorama/justiz/adnan-syed-serial-podcast-macherin-sarah-koenig-ueber-spektakulaere-wende-in-mordfall-a-317fcdd4-2f63-4e33-ae66-f30dbd88bd14#ref=rss)
+* [https://www.spiegel.de/ausland/usa-sheriff-von-texas-will-migrantenfluege-auf-nobele-ferieninsel-untersuchen](https://www.spiegel.de/ausland/usa-sheriff-von-texas-will-migrantenfluege-auf-nobele-ferieninsel-untersuchen-a-92fb4249-2422-4fd4-a61d-5a40c25223e2#ref=rss)
+### russland
 
-* [https://www.spiegel.de/wirtschaft/freihandel-liz-truss-begraebt-die-hoffnung-auf-ein-schnelles-abkommen-mit-den-usa](https://www.spiegel.de/wirtschaft/freihandel-liz-truss-begraebt-die-hoffnung-auf-ein-schnelles-abkommen-mit-den-usa-a-9e26f5f6-c88d-4153-849d-b3962e579b91#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/liz-truss-australisches-tv-team-erkennt-britische-premierministerin-nicht-minor-royals](https://www.spiegel.de/panorama/gesellschaft/liz-truss-australisches-tv-team-erkennt-britische-premierministerin-nicht-minor-royals-a-5e7cc78a-e7e0-4116-aa49-ed9ea714b037#ref=rss)
-* [https://www.spiegel.de/ausland/liz-truss-und-charles-iii-gelingt-grossbritannien-der-doppelte-neustart](https://www.spiegel.de/ausland/liz-truss-und-charles-iii-gelingt-grossbritannien-der-doppelte-neustart-a-1e0f021b-7037-4568-9557-58d248929861#ref=rss)
-### schulen
+* [https://www.spiegel.de/politik/iss-usa-und-russland-starten-gemeinsamen-flug-zur-raumstation](https://www.spiegel.de/politik/iss-usa-und-russland-starten-gemeinsamen-flug-zur-raumstation-a-504e6b81-665b-4bcd-a2eb-9b22154929ce#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-darum-verlegt-russland-seine-u-boote-von-der-krim](https://www.spiegel.de/ausland/ukraine-krieg-darum-verlegt-russland-seine-u-boote-von-der-krim-a-c00b8f08-86f2-4067-a8ec-138fccf194d8#ref=rss)
+* [https://www.spiegel.de/ausland/russischer-elitesoldat-packt-aus-viele-soldaten-wollen-nicht-mehr-kaempfen-spiegel-tv](https://www.spiegel.de/ausland/russischer-elitesoldat-packt-aus-viele-soldaten-wollen-nicht-mehr-kaempfen-spiegel-tv-a-470070ee-6a41-4d31-8d5a-3cff579b4d35#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/bildung/warum-unsere-schulen-so-marode-sind-bildungs-newsletter-kleine-pause](https://www.spiegel.de/panorama/bildung/warum-unsere-schulen-so-marode-sind-bildungs-newsletter-kleine-pause-a-cda9d232-f3d0-44ef-a10d-66292a7c8b79#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland](https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland-a-46cff7b6-79ab-4bef-9245-cd11d7ca9f1d#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/bildung/warum-unsere-schulen-so-marode-sind-bildungs-newsletter-kleine-pause](https://www.spiegel.de/panorama/bildung/warum-unsere-schulen-so-marode-sind-bildungs-newsletter-kleine-pause-a-cda9d232-f3d0-44ef-a10d-66292a7c8b79#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer](https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer-a-451fd558-f5f9-4c07-a291-dcb89fa4a6f0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-abrupt-gesunken-frauen-mit-kinderwunsch-warteten-corona-impfung-ab](https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-abrupt-gesunken-frauen-mit-kinderwunsch-warteten-corona-impfung-ab-a-f749e5d5-c2a2-4d4a-88c2-1fecfdbefb5b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt](https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt-a-0f7fa808-6045-43ae-8539-b860171ec5c8#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-abrupt-gesunken-frauen-mit-kinderwunsch-warteten-corona-impfung-ab](https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-abrupt-gesunken-frauen-mit-kinderwunsch-warteten-corona-impfung-ab-a-f749e5d5-c2a2-4d4a-88c2-1fecfdbefb5b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt](https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt-a-0f7fa808-6045-43ae-8539-b860171ec5c8#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland](https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland-a-46cff7b6-79ab-4bef-9245-cd11d7ca9f1d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/nachhaltigkeit-heidelbergcement-will-nicht-mehr-heidelbergcement-heissen](https://www.spiegel.de/wirtschaft/unternehmen/nachhaltigkeit-heidelbergcement-will-nicht-mehr-heidelbergcement-heissen-a-573e6035-c621-46ef-88b7-32eca4925f28#ref=rss)
+* [https://www.spiegel.de/gesundheit/deutsche-fuehlen-sich-zunehmend-von-ihrer-freizeit-gestresst](https://www.spiegel.de/gesundheit/deutsche-fuehlen-sich-zunehmend-von-ihrer-freizeit-gestresst-a-75b9487a-dd5c-4d35-a6a5-ca427285b1b9#ref=rss)
+* [https://www.spiegel.de/ausland/russischer-elitesoldat-packt-aus-viele-soldaten-wollen-nicht-mehr-kaempfen-spiegel-tv](https://www.spiegel.de/ausland/russischer-elitesoldat-packt-aus-viele-soldaten-wollen-nicht-mehr-kaempfen-spiegel-tv-a-470070ee-6a41-4d31-8d5a-3cff579b4d35#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/adnan-syed-serial-podcast-macherin-sarah-koenig-ueber-spektakulaere-wende-in-mordfall](https://www.spiegel.de/panorama/justiz/adnan-syed-serial-podcast-macherin-sarah-koenig-ueber-spektakulaere-wende-in-mordfall-a-317fcdd4-2f63-4e33-ae66-f30dbd88bd14#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-schwarzmeerflotte-verlegt-u-boote-zurueck-nach-russland](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-schwarzmeerflotte-verlegt-u-boote-zurueck-nach-russland-a-ba8fc688-a8f3-438e-8100-4044f52d99b7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab](https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab-a-587d86f7-8f32-4d15-b74a-7bbf32e406c9#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland](https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland-a-46cff7b6-79ab-4bef-9245-cd11d7ca9f1d#ref=rss)
-### alle
+* [https://www.spiegel.de/ausland/ukraine-referenden-im-donbass-angekuendigt-warnung-von-selenskyj](https://www.spiegel.de/ausland/ukraine-referenden-im-donbass-angekuendigt-warnung-von-selenskyj-a-18ec7ba7-2c71-4ffd-ac01-8fe959353afd#ref=rss)
+* [https://www.spiegel.de/ausland/russischer-elitesoldat-packt-aus-viele-soldaten-wollen-nicht-mehr-kaempfen-spiegel-tv](https://www.spiegel.de/ausland/russischer-elitesoldat-packt-aus-viele-soldaten-wollen-nicht-mehr-kaempfen-spiegel-tv-a-470070ee-6a41-4d31-8d5a-3cff579b4d35#ref=rss)
+* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-was-an-olaf-scholz-argumenten-irrefuehrend-ist](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-was-an-olaf-scholz-argumenten-irrefuehrend-ist-a-0806cddc-ff95-426e-9c98-26f1d89bca05#ref=rss)
+### putin
 
-* [https://www.spiegel.de/panorama/justiz/fall-niels-hoegel-prozess-gegen-vorgesetzte-freispruch-fuer-alle-angeklagten-in-sicht](https://www.spiegel.de/panorama/justiz/fall-niels-hoegel-prozess-gegen-vorgesetzte-freispruch-fuer-alle-angeklagten-in-sicht-a-88242698-702f-4e04-b5b6-90e828515877#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer](https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer-a-451fd558-f5f9-4c07-a291-dcb89fa4a6f0#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-dane-jackson-kollidiert-mit-teamkollegen-und-ueberstreckt-sich-den-hals](https://www.spiegel.de/sport/american-football/nfl-dane-jackson-kollidiert-mit-teamkollegen-und-ueberstreckt-sich-den-hals-a-ded7f86b-b160-4fc0-a856-65cff9a116c3#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/ausland/ukraine-krieg-darum-verlegt-russland-seine-u-boote-von-der-krim](https://www.spiegel.de/ausland/ukraine-krieg-darum-verlegt-russland-seine-u-boote-von-der-krim-a-c00b8f08-86f2-4067-a8ec-138fccf194d8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-gibt-erklaerung-zu-scheinreferenden-ab](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-gibt-erklaerung-zu-scheinreferenden-ab-a-459f0752-8605-4fea-ab6f-b4cb3fbb7a47#ref=rss)
+* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-was-an-olaf-scholz-argumenten-irrefuehrend-ist](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-was-an-olaf-scholz-argumenten-irrefuehrend-ist-a-0806cddc-ff95-426e-9c98-26f1d89bca05#ref=rss)
+### ron
 
-* [https://www.spiegel.de/wirtschaft/freihandel-liz-truss-begraebt-die-hoffnung-auf-ein-schnelles-abkommen-mit-den-usa](https://www.spiegel.de/wirtschaft/freihandel-liz-truss-begraebt-die-hoffnung-auf-ein-schnelles-abkommen-mit-den-usa-a-9e26f5f6-c88d-4153-849d-b3962e579b91#ref=rss)
-* [https://www.spiegel.de/ausland/liz-truss-und-charles-iii-gelingt-grossbritannien-der-doppelte-neustart](https://www.spiegel.de/ausland/liz-truss-und-charles-iii-gelingt-grossbritannien-der-doppelte-neustart-a-1e0f021b-7037-4568-9557-58d248929861#ref=rss)
-### zahl
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen](https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen-a-224bc1a5-798b-42a4-9737-9b67040d0784#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/return-to-monkey-island-im-test-der-logische-weg-ist-nie-der-richtige](https://www.spiegel.de/netzwelt/games/return-to-monkey-island-im-test-der-logische-weg-ist-nie-der-richtige-a-7db9561c-d5ef-4470-98e7-13bda2d17612#ref=rss)
+* [https://www.spiegel.de/ausland/usa-sheriff-von-texas-will-migrantenfluege-auf-nobele-ferieninsel-untersuchen](https://www.spiegel.de/ausland/usa-sheriff-von-texas-will-migrantenfluege-auf-nobele-ferieninsel-untersuchen-a-92fb4249-2422-4fd4-a61d-5a40c25223e2#ref=rss)
+### magnus
 
-* [https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-abrupt-gesunken-frauen-mit-kinderwunsch-warteten-corona-impfung-ab](https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-abrupt-gesunken-frauen-mit-kinderwunsch-warteten-corona-impfung-ab-a-f749e5d5-c2a2-4d4a-88c2-1fecfdbefb5b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt](https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt-a-0f7fa808-6045-43ae-8539-b860171ec5c8#ref=rss)
-### erdoğan
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen](https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen-a-224bc1a5-798b-42a4-9737-9b67040d0784#ref=rss)
+* [https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet](https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet-a-5b3a743b-4680-40c7-85ad-de5f54a766b6#ref=rss)
+### carlsen
 
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-schwarzmeerflotte-verlegt-u-boote-zurueck-nach-russland](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-schwarzmeerflotte-verlegt-u-boote-zurueck-nach-russland-a-ba8fc688-a8f3-438e-8100-4044f52d99b7#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-schwarzmeerflotte-verlegt-u-boote-zurueck-nach-russland](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-schwarzmeerflotte-verlegt-u-boote-zurueck-nach-russland-a-ba8fc688-a8f3-438e-8100-4044f52d99b7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-parteispitze-fordert-informationen-zu-russland-reise-von-abgeordneten](https://www.spiegel.de/politik/deutschland/afd-parteispitze-fordert-informationen-zu-russland-reise-von-abgeordneten-a-73f036eb-6ce8-45b5-ba32-0112b3f151c8#ref=rss)
-### gebiete
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-schwarzmeerflotte-verlegt-u-boote-zurueck-nach-russland](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-schwarzmeerflotte-verlegt-u-boote-zurueck-nach-russland-a-ba8fc688-a8f3-438e-8100-4044f52d99b7#ref=rss)
-### europäische
-
-* [https://www.spiegel.de/wissenschaft/europaeische-union-die-eu-verschwendet-mehr-lebensmittel-als-sie-importiert](https://www.spiegel.de/wissenschaft/europaeische-union-die-eu-verschwendet-mehr-lebensmittel-als-sie-importiert-a-d2134a53-f011-43f7-abc4-d1d59ddd1343#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/eugh-urteil-deutsche-regelung-zur-vorratsdatenspeicherung-verstoesst-gegen-eu-recht](https://www.spiegel.de/netzwelt/netzpolitik/eugh-urteil-deutsche-regelung-zur-vorratsdatenspeicherung-verstoesst-gegen-eu-recht-a-8f4a22a4-5c65-4fef-9599-9be875583ac7#ref=rss)
-### lebensmittel
-
-* [https://www.spiegel.de/wissenschaft/europaeische-union-die-eu-verschwendet-mehr-lebensmittel-als-sie-importiert](https://www.spiegel.de/wissenschaft/europaeische-union-die-eu-verschwendet-mehr-lebensmittel-als-sie-importiert-a-d2134a53-f011-43f7-abc4-d1d59ddd1343#ref=rss)
-### importiert
-
-* [https://www.spiegel.de/wissenschaft/europaeische-union-die-eu-verschwendet-mehr-lebensmittel-als-sie-importiert](https://www.spiegel.de/wissenschaft/europaeische-union-die-eu-verschwendet-mehr-lebensmittel-als-sie-importiert-a-d2134a53-f011-43f7-abc4-d1d59ddd1343#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wissenschaft/europaeische-union-die-eu-verschwendet-mehr-lebensmittel-als-sie-importiert](https://www.spiegel.de/wissenschaft/europaeische-union-die-eu-verschwendet-mehr-lebensmittel-als-sie-importiert-a-d2134a53-f011-43f7-abc4-d1d59ddd1343#ref=rss)
-* [https://www.spiegel.de/wirtschaft/belgien-schaltet-autobahnbeleuchtung-teilweise-aus-um-energie-zu-sparen](https://www.spiegel.de/wirtschaft/belgien-schaltet-autobahnbeleuchtung-teilweise-aus-um-energie-zu-sparen-a-e021754b-e320-44b1-809f-e232b6d82a17#ref=rss)
-### urlaub
-
-* [https://www.spiegel.de/reise/deutschland/urlaub-im-tiny-house-was-macht-die-mini-unterkunft-so-faszinierend](https://www.spiegel.de/reise/deutschland/urlaub-im-tiny-house-was-macht-die-mini-unterkunft-so-faszinierend-a-2aece5cd-b15b-4511-b5e1-74d39fdd62fa#ref=rss)
-### wenigen
-
-* [https://www.spiegel.de/reise/deutschland/urlaub-im-tiny-house-was-macht-die-mini-unterkunft-so-faszinierend](https://www.spiegel.de/reise/deutschland/urlaub-im-tiny-house-was-macht-die-mini-unterkunft-so-faszinierend-a-2aece5cd-b15b-4511-b5e1-74d39fdd62fa#ref=rss)
-* [https://www.spiegel.de/gesundheit/coronavirus-stiko-empfiehlt-omikron-impfstoffe-als-booster](https://www.spiegel.de/gesundheit/coronavirus-stiko-empfiehlt-omikron-impfstoffe-als-booster-a-02de0f5b-f066-4fd7-b5aa-a6db14d4b3c2#ref=rss)
-### badenwürttemberg
-
-* [https://www.spiegel.de/panorama/gesellschaft/einrichtungsbezogene-impfpflicht-baden-wuerttemberg-kontrolliert-nachweise-in-der-pflege-so-gut-wie-nicht-mehr](https://www.spiegel.de/panorama/gesellschaft/einrichtungsbezogene-impfpflicht-baden-wuerttemberg-kontrolliert-nachweise-in-der-pflege-so-gut-wie-nicht-mehr-a-a34ec8e0-81ac-4eae-a430-d4e5588b5e89#ref=rss)
-### niels
-
-* [https://www.spiegel.de/panorama/justiz/fall-niels-hoegel-prozess-gegen-vorgesetzte-freispruch-fuer-alle-angeklagten-in-sicht](https://www.spiegel.de/panorama/justiz/fall-niels-hoegel-prozess-gegen-vorgesetzte-freispruch-fuer-alle-angeklagten-in-sicht-a-88242698-702f-4e04-b5b6-90e828515877#ref=rss)
-### högel
-
-* [https://www.spiegel.de/panorama/justiz/fall-niels-hoegel-prozess-gegen-vorgesetzte-freispruch-fuer-alle-angeklagten-in-sicht](https://www.spiegel.de/panorama/justiz/fall-niels-hoegel-prozess-gegen-vorgesetzte-freispruch-fuer-alle-angeklagten-in-sicht-a-88242698-702f-4e04-b5b6-90e828515877#ref=rss)
-### vorgesetzte
-
-* [https://www.spiegel.de/panorama/justiz/fall-niels-hoegel-prozess-gegen-vorgesetzte-freispruch-fuer-alle-angeklagten-in-sicht](https://www.spiegel.de/panorama/justiz/fall-niels-hoegel-prozess-gegen-vorgesetzte-freispruch-fuer-alle-angeklagten-in-sicht-a-88242698-702f-4e04-b5b6-90e828515877#ref=rss)
-### hoffnung
-
-* [https://www.spiegel.de/wirtschaft/freihandel-liz-truss-begraebt-die-hoffnung-auf-ein-schnelles-abkommen-mit-den-usa](https://www.spiegel.de/wirtschaft/freihandel-liz-truss-begraebt-die-hoffnung-auf-ein-schnelles-abkommen-mit-den-usa-a-9e26f5f6-c88d-4153-849d-b3962e579b91#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/shortlist-deutscher-buchpreis-2022-aydemir-faktor-und-droescher-sind-in-der-engeren-auswahl](https://www.spiegel.de/kultur/literatur/shortlist-deutscher-buchpreis-2022-aydemir-faktor-und-droescher-sind-in-der-engeren-auswahl-a-e4ce9d73-0b14-460e-9715-508d8282a9a6#ref=rss)
-### unter
-
-* [https://www.spiegel.de/politik/deutschland/luisa-neubauer-und-ulrich-schneider-das-maerchen-vom-unsozialen-klimaschutz-gastbeitrag](https://www.spiegel.de/politik/deutschland/luisa-neubauer-und-ulrich-schneider-das-maerchen-vom-unsozialen-klimaschutz-gastbeitrag-a-cab15eb9-ca7c-494d-9434-6cdf8020610c#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland](https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland-a-46cff7b6-79ab-4bef-9245-cd11d7ca9f1d#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/usa-pentagon-will-umstrittene-online-operationen-des-militaers-pruefen](https://www.spiegel.de/netzwelt/netzpolitik/usa-pentagon-will-umstrittene-online-operationen-des-militaers-pruefen-a-07e5781e-9d46-4e6d-a545-67d9f7c7c342#ref=rss)
-* [https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an](https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an-a-6a6c41fd-7b74-48f5-a283-5c4290873e7b#ref=rss)
-### empfiehlt
-
-* [https://www.spiegel.de/gesundheit/coronavirus-stiko-empfiehlt-omikron-impfstoffe-als-booster](https://www.spiegel.de/gesundheit/coronavirus-stiko-empfiehlt-omikron-impfstoffe-als-booster-a-02de0f5b-f066-4fd7-b5aa-a6db14d4b3c2#ref=rss)
-### booster
-
-* [https://www.spiegel.de/gesundheit/coronavirus-stiko-empfiehlt-omikron-impfstoffe-als-booster](https://www.spiegel.de/gesundheit/coronavirus-stiko-empfiehlt-omikron-impfstoffe-als-booster-a-02de0f5b-f066-4fd7-b5aa-a6db14d4b3c2#ref=rss)
-### akw
-
-* [https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an](https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an-a-6a6c41fd-7b74-48f5-a283-5c4290873e7b#ref=rss)
-### isar
-
-* [https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an](https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an-a-6a6c41fd-7b74-48f5-a283-5c4290873e7b#ref=rss)
-### 2
-
-* [https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an](https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an-a-6a6c41fd-7b74-48f5-a283-5c4290873e7b#ref=rss)
-### umweltministerin
-
-* [https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an](https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an-a-6a6c41fd-7b74-48f5-a283-5c4290873e7b#ref=rss)
-### steffi
-
-* [https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an](https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an-a-6a6c41fd-7b74-48f5-a283-5c4290873e7b#ref=rss)
-### lemke
-
-* [https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an](https://www.spiegel.de/wirtschaft/akw-isar-2-umweltministerin-steffi-lemke-greift-bayerische-landesregierung-an-a-6a6c41fd-7b74-48f5-a283-5c4290873e7b#ref=rss)
-### paradies
-
-* [https://www.spiegel.de/psychologie/usa-wie-florida-vom-paradies-zur-hoelle-wurde](https://www.spiegel.de/psychologie/usa-wie-florida-vom-paradies-zur-hoelle-wurde-a-36e8f148-332d-45e9-b0a5-de727f509c04#ref=rss)
-### konnte
-
-* [https://www.spiegel.de/psychologie/usa-wie-florida-vom-paradies-zur-hoelle-wurde](https://www.spiegel.de/psychologie/usa-wie-florida-vom-paradies-zur-hoelle-wurde-a-36e8f148-332d-45e9-b0a5-de727f509c04#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-dane-jackson-kollidiert-mit-teamkollegen-und-ueberstreckt-sich-den-hals](https://www.spiegel.de/sport/american-football/nfl-dane-jackson-kollidiert-mit-teamkollegen-und-ueberstreckt-sich-den-hals-a-ded7f86b-b160-4fc0-a856-65cff9a116c3#ref=rss)
-### unsere
-
-* [https://www.spiegel.de/panorama/bildung/warum-unsere-schulen-so-marode-sind-bildungs-newsletter-kleine-pause](https://www.spiegel.de/panorama/bildung/warum-unsere-schulen-so-marode-sind-bildungs-newsletter-kleine-pause-a-cda9d232-f3d0-44ef-a10d-66292a7c8b79#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-dane-jackson-kollidiert-mit-teamkollegen-und-ueberstreckt-sich-den-hals](https://www.spiegel.de/sport/american-football/nfl-dane-jackson-kollidiert-mit-teamkollegen-und-ueberstreckt-sich-den-hals-a-ded7f86b-b160-4fc0-a856-65cff9a116c3#ref=rss)
-### marode
-
-* [https://www.spiegel.de/panorama/bildung/warum-unsere-schulen-so-marode-sind-bildungs-newsletter-kleine-pause](https://www.spiegel.de/panorama/bildung/warum-unsere-schulen-so-marode-sind-bildungs-newsletter-kleine-pause-a-cda9d232-f3d0-44ef-a10d-66292a7c8b79#ref=rss)
-### stadtwerke
-
-* [https://www.spiegel.de/wirtschaft/stadtwerke-in-not-dann-bekommt-der-stadtwerk-x-chef-natuerlich-muffensausen](https://www.spiegel.de/wirtschaft/stadtwerke-in-not-dann-bekommt-der-stadtwerk-x-chef-natuerlich-muffensausen-a-7e6a682e-4397-482a-8408-d6be7fb1225c#ref=rss)
-### erste
-
-* [https://www.spiegel.de/wirtschaft/stadtwerke-in-not-dann-bekommt-der-stadtwerk-x-chef-natuerlich-muffensausen](https://www.spiegel.de/wirtschaft/stadtwerke-in-not-dann-bekommt-der-stadtwerk-x-chef-natuerlich-muffensausen-a-7e6a682e-4397-482a-8408-d6be7fb1225c#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-dane-jackson-kollidiert-mit-teamkollegen-und-ueberstreckt-sich-den-hals](https://www.spiegel.de/sport/american-football/nfl-dane-jackson-kollidiert-mit-teamkollegen-und-ueberstreckt-sich-den-hals-a-ded7f86b-b160-4fc0-a856-65cff9a116c3#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wirtschaft/stadtwerke-in-not-dann-bekommt-der-stadtwerk-x-chef-natuerlich-muffensausen](https://www.spiegel.de/wirtschaft/stadtwerke-in-not-dann-bekommt-der-stadtwerk-x-chef-natuerlich-muffensausen-a-7e6a682e-4397-482a-8408-d6be7fb1225c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-parteispitze-fordert-informationen-zu-russland-reise-von-abgeordneten](https://www.spiegel.de/politik/deutschland/afd-parteispitze-fordert-informationen-zu-russland-reise-von-abgeordneten-a-73f036eb-6ce8-45b5-ba32-0112b3f151c8#ref=rss)
-### app
-
-* [https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer](https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer-a-451fd558-f5f9-4c07-a291-dcb89fa4a6f0#ref=rss)
-### store
-
-* [https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer](https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer-a-451fd558-f5f9-4c07-a291-dcb89fa4a6f0#ref=rss)
-### apple
-
-* [https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer](https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer-a-451fd558-f5f9-4c07-a291-dcb89fa4a6f0#ref=rss)
-### rund
-
-* [https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer](https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer-a-451fd558-f5f9-4c07-a291-dcb89fa4a6f0#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland](https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland-a-46cff7b6-79ab-4bef-9245-cd11d7ca9f1d#ref=rss)
-### 20
-
-* [https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer](https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer-a-451fd558-f5f9-4c07-a291-dcb89fa4a6f0#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt](https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt-a-0f7fa808-6045-43ae-8539-b860171ec5c8#ref=rss)
-### länder
-
-* [https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer](https://www.spiegel.de/netzwelt/apps/app-store-von-apple-kauf-apps-fuers-iphone-werden-bald-teurer-a-451fd558-f5f9-4c07-a291-dcb89fa4a6f0#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland](https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland-a-46cff7b6-79ab-4bef-9245-cd11d7ca9f1d#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-abrupt-gesunken-frauen-mit-kinderwunsch-warteten-corona-impfung-ab](https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-abrupt-gesunken-frauen-mit-kinderwunsch-warteten-corona-impfung-ab-a-f749e5d5-c2a2-4d4a-88c2-1fecfdbefb5b#ref=rss)
-### kinderwunsch
-
-* [https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-abrupt-gesunken-frauen-mit-kinderwunsch-warteten-corona-impfung-ab](https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-abrupt-gesunken-frauen-mit-kinderwunsch-warteten-corona-impfung-ab-a-f749e5d5-c2a2-4d4a-88c2-1fecfdbefb5b#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-abrupt-gesunken-frauen-mit-kinderwunsch-warteten-corona-impfung-ab](https://www.spiegel.de/panorama/gesellschaft/geburtenziffer-abrupt-gesunken-frauen-mit-kinderwunsch-warteten-corona-impfung-ab-a-f749e5d5-c2a2-4d4a-88c2-1fecfdbefb5b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab](https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab-a-587d86f7-8f32-4d15-b74a-7bbf32e406c9#ref=rss)
-### uboote
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab](https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab-a-587d86f7-8f32-4d15-b74a-7bbf32e406c9#ref=rss)
-### schwarzmeerflotte
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab](https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab-a-587d86f7-8f32-4d15-b74a-7bbf32e406c9#ref=rss)
-### krim
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab](https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab-a-587d86f7-8f32-4d15-b74a-7bbf32e406c9#ref=rss)
-### grund
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab](https://www.spiegel.de/ausland/ukraine-krieg-russland-zieht-u-boote-der-schwarzmeerflotte-von-krim-ab-a-587d86f7-8f32-4d15-b74a-7bbf32e406c9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt](https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt-a-0f7fa808-6045-43ae-8539-b860171ec5c8#ref=rss)
-### inflation
-
-* [https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-weiter-ungebremst](https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-weiter-ungebremst-a-ddea07a1-5757-4d8b-b67f-ca528be87ea6#ref=rss)
-### erzeugerpreise
-
-* [https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-weiter-ungebremst](https://www.spiegel.de/wirtschaft/inflation-erzeugerpreise-steigen-weiter-ungebremst-a-ddea07a1-5757-4d8b-b67f-ca528be87ea6#ref=rss)
-### alzheimer
-
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt](https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt-a-0f7fa808-6045-43ae-8539-b860171ec5c8#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt](https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt-a-0f7fa808-6045-43ae-8539-b860171ec5c8#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/frank-mawer-angeblich-aeltester-australier-im-alter-von-110-jahren-gestorben](https://www.spiegel.de/panorama/gesellschaft/frank-mawer-angeblich-aeltester-australier-im-alter-von-110-jahren-gestorben-a-66f748d1-b978-4971-a68b-0150050dd993#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt](https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt-a-0f7fa808-6045-43ae-8539-b860171ec5c8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/einzelhaendler-machen-sich-sorgen-um-das-weihnachtsgeschaeft](https://www.spiegel.de/wirtschaft/einzelhaendler-machen-sich-sorgen-um-das-weihnachtsgeschaeft-a-71034438-1f4b-4f3f-8ed6-add40dd5114f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen](https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen-a-224bc1a5-798b-42a4-9737-9b67040d0784#ref=rss)
+* [https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet](https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet-a-5b3a743b-4680-40c7-85ad-de5f54a766b6#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt](https://www.spiegel.de/wissenschaft/medizin/alzheimer-zahl-der-faelle-hat-sich-in-deutschland-binnen-20-jahren-verdoppelt-a-0f7fa808-6045-43ae-8539-b860171ec5c8#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland](https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland-a-46cff7b6-79ab-4bef-9245-cd11d7ca9f1d#ref=rss)
-### ludger
+* [https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert](https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert-a-19d63fc0-c978-4208-a1a3-79003586a0d7#ref=rss)
+* [https://www.spiegel.de/gesundheit/deutsche-fuehlen-sich-zunehmend-von-ihrer-freizeit-gestresst](https://www.spiegel.de/gesundheit/deutsche-fuehlen-sich-zunehmend-von-ihrer-freizeit-gestresst-a-75b9487a-dd5c-4d35-a6a5-ca427285b1b9#ref=rss)
+* [https://www.spiegel.de/ausland/usa-sheriff-von-texas-will-migrantenfluege-auf-nobele-ferieninsel-untersuchen](https://www.spiegel.de/ausland/usa-sheriff-von-texas-will-migrantenfluege-auf-nobele-ferieninsel-untersuchen-a-92fb4249-2422-4fd4-a61d-5a40c25223e2#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/sport/ludger-beerbaum-staatsanwaltschaft-stellt-ermittlungen-gegen-springreiter-ein](https://www.spiegel.de/sport/ludger-beerbaum-staatsanwaltschaft-stellt-ermittlungen-gegen-springreiter-ein-a-04f5249e-a6ba-4a0c-be60-91d45986523e#ref=rss)
-### beerbaum
-
-* [https://www.spiegel.de/sport/ludger-beerbaum-staatsanwaltschaft-stellt-ermittlungen-gegen-springreiter-ein](https://www.spiegel.de/sport/ludger-beerbaum-staatsanwaltschaft-stellt-ermittlungen-gegen-springreiter-ein-a-04f5249e-a6ba-4a0c-be60-91d45986523e#ref=rss)
-### springreiter
-
-* [https://www.spiegel.de/sport/ludger-beerbaum-staatsanwaltschaft-stellt-ermittlungen-gegen-springreiter-ein](https://www.spiegel.de/sport/ludger-beerbaum-staatsanwaltschaft-stellt-ermittlungen-gegen-springreiter-ein-a-04f5249e-a6ba-4a0c-be60-91d45986523e#ref=rss)
-### tvteam
-
-* [https://www.spiegel.de/panorama/gesellschaft/liz-truss-australisches-tv-team-erkennt-britische-premierministerin-nicht-minor-royals](https://www.spiegel.de/panorama/gesellschaft/liz-truss-australisches-tv-team-erkennt-britische-premierministerin-nicht-minor-royals-a-5e7cc78a-e7e0-4116-aa49-ed9ea714b037#ref=rss)
-### britische
-
-* [https://www.spiegel.de/panorama/gesellschaft/liz-truss-australisches-tv-team-erkennt-britische-premierministerin-nicht-minor-royals](https://www.spiegel.de/panorama/gesellschaft/liz-truss-australisches-tv-team-erkennt-britische-premierministerin-nicht-minor-royals-a-5e7cc78a-e7e0-4116-aa49-ed9ea714b037#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/gesellschaft/liz-truss-australisches-tv-team-erkennt-britische-premierministerin-nicht-minor-royals](https://www.spiegel.de/panorama/gesellschaft/liz-truss-australisches-tv-team-erkennt-britische-premierministerin-nicht-minor-royals-a-5e7cc78a-e7e0-4116-aa49-ed9ea714b037#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/frank-mawer-angeblich-aeltester-australier-im-alter-von-110-jahren-gestorben](https://www.spiegel.de/panorama/gesellschaft/frank-mawer-angeblich-aeltester-australier-im-alter-von-110-jahren-gestorben-a-66f748d1-b978-4971-a68b-0150050dd993#ref=rss)
-### buchpreis
-
-* [https://www.spiegel.de/kultur/literatur/shortlist-deutscher-buchpreis-2022-aydemir-faktor-und-droescher-sind-in-der-engeren-auswahl](https://www.spiegel.de/kultur/literatur/shortlist-deutscher-buchpreis-2022-aydemir-faktor-und-droescher-sind-in-der-engeren-auswahl-a-e4ce9d73-0b14-460e-9715-508d8282a9a6#ref=rss)
-### aydemir
-
-* [https://www.spiegel.de/kultur/literatur/shortlist-deutscher-buchpreis-2022-aydemir-faktor-und-droescher-sind-in-der-engeren-auswahl](https://www.spiegel.de/kultur/literatur/shortlist-deutscher-buchpreis-2022-aydemir-faktor-und-droescher-sind-in-der-engeren-auswahl-a-e4ce9d73-0b14-460e-9715-508d8282a9a6#ref=rss)
-### dröscher
-
-* [https://www.spiegel.de/kultur/literatur/shortlist-deutscher-buchpreis-2022-aydemir-faktor-und-droescher-sind-in-der-engeren-auswahl](https://www.spiegel.de/kultur/literatur/shortlist-deutscher-buchpreis-2022-aydemir-faktor-und-droescher-sind-in-der-engeren-auswahl-a-e4ce9d73-0b14-460e-9715-508d8282a9a6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/norwegischer-staatsfonds-will-unternehmen-zu-null-emissionen-verpflichten](https://www.spiegel.de/wirtschaft/norwegischer-staatsfonds-will-unternehmen-zu-null-emissionen-verpflichten-a-339b839a-0626-428f-aabe-204645956d60#ref=rss)
+* [https://www.spiegel.de/wirtschaft/uniper-verstaatlichung-des-gasversorgers-steht-unmittelbar-bevor](https://www.spiegel.de/wirtschaft/uniper-verstaatlichung-des-gasversorgers-steht-unmittelbar-bevor-a-203fca43-46cd-4ef3-90a7-ef01e7048f0c#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/kultur/literatur/shortlist-deutscher-buchpreis-2022-aydemir-faktor-und-droescher-sind-in-der-engeren-auswahl](https://www.spiegel.de/kultur/literatur/shortlist-deutscher-buchpreis-2022-aydemir-faktor-und-droescher-sind-in-der-engeren-auswahl-a-e4ce9d73-0b14-460e-9715-508d8282a9a6#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/eugh-urteil-deutsche-regelung-zur-vorratsdatenspeicherung-verstoesst-gegen-eu-recht](https://www.spiegel.de/netzwelt/netzpolitik/eugh-urteil-deutsche-regelung-zur-vorratsdatenspeicherung-verstoesst-gegen-eu-recht-a-8f4a22a4-5c65-4fef-9599-9be875583ac7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte](https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte-a-134e6719-861f-4837-8346-e535ea405935#ref=rss)
+* [https://www.spiegel.de/gesundheit/deutsche-fuehlen-sich-zunehmend-von-ihrer-freizeit-gestresst](https://www.spiegel.de/gesundheit/deutsche-fuehlen-sich-zunehmend-von-ihrer-freizeit-gestresst-a-75b9487a-dd5c-4d35-a6a5-ca427285b1b9#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte](https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte-a-134e6719-861f-4837-8346-e535ea405935#ref=rss)
+* [https://www.spiegel.de/ausland/russischer-elitesoldat-packt-aus-viele-soldaten-wollen-nicht-mehr-kaempfen-spiegel-tv](https://www.spiegel.de/ausland/russischer-elitesoldat-packt-aus-viele-soldaten-wollen-nicht-mehr-kaempfen-spiegel-tv-a-470070ee-6a41-4d31-8d5a-3cff579b4d35#ref=rss)
+### vorratsdatenspeicherung
+
+* [https://www.spiegel.de/politik/deutschland/vorratsdatenspeicherung-streit-zwischen-nancy-faeser-und-marco-buschmann-das-letzte-gefecht](https://www.spiegel.de/politik/deutschland/vorratsdatenspeicherung-streit-zwischen-nancy-faeser-und-marco-buschmann-das-letzte-gefecht-a-a40e4da8-7086-4941-8dfd-04570ebb745d#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-nachhilfe-vom-eugh-fuer-ein-begriffsstutziges-kind-namens-bundesregierung](https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-nachhilfe-vom-eugh-fuer-ein-begriffsstutziges-kind-namens-bundesregierung-a-89f8c7e8-545a-4d94-8618-30f1b6cb6cb0#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-was-an-olaf-scholz-argumenten-irrefuehrend-ist](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-was-an-olaf-scholz-argumenten-irrefuehrend-ist-a-0806cddc-ff95-426e-9c98-26f1d89bca05#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-nachhilfe-vom-eugh-fuer-ein-begriffsstutziges-kind-namens-bundesregierung](https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-nachhilfe-vom-eugh-fuer-ein-begriffsstutziges-kind-namens-bundesregierung-a-89f8c7e8-545a-4d94-8618-30f1b6cb6cb0#ref=rss)
+### desantis
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen](https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen-a-224bc1a5-798b-42a4-9737-9b67040d0784#ref=rss)
+* [https://www.spiegel.de/ausland/usa-sheriff-von-texas-will-migrantenfluege-auf-nobele-ferieninsel-untersuchen](https://www.spiegel.de/ausland/usa-sheriff-von-texas-will-migrantenfluege-auf-nobele-ferieninsel-untersuchen-a-92fb4249-2422-4fd4-a61d-5a40c25223e2#ref=rss)
+### queen
+
+* [https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert](https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert-a-19d63fc0-c978-4208-a1a3-79003586a0d7#ref=rss)
+### elizabeth
+
+* [https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert](https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert-a-19d63fc0-c978-4208-a1a3-79003586a0d7#ref=rss)
+### ii
+
+* [https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert](https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert-a-19d63fc0-c978-4208-a1a3-79003586a0d7#ref=rss)
+### blumengrüße
+
+* [https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert](https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert-a-19d63fc0-c978-4208-a1a3-79003586a0d7#ref=rss)
+### kompostiert
+
+* [https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert](https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert-a-19d63fc0-c978-4208-a1a3-79003586a0d7#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert](https://www.spiegel.de/panorama/queen-elizabeth-ii-blumengruesse-an-verstorbene-koenigin-werden-kompostiert-a-19d63fc0-c978-4208-a1a3-79003586a0d7#ref=rss)
+* [https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab](https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab-a-42b7bee5-fbcc-46e7-80b4-139cf15f87fd#ref=rss)
+### linksfraktion
+
+* [https://www.spiegel.de/politik/deutschland/linksfraktion-fasst-beschluss-gegen-wagenknecht](https://www.spiegel.de/politik/deutschland/linksfraktion-fasst-beschluss-gegen-wagenknecht-a-e7d215b1-d46d-4617-9d70-4ec723e86a73#ref=rss)
+### beschluss
+
+* [https://www.spiegel.de/politik/deutschland/linksfraktion-fasst-beschluss-gegen-wagenknecht](https://www.spiegel.de/politik/deutschland/linksfraktion-fasst-beschluss-gegen-wagenknecht-a-e7d215b1-d46d-4617-9d70-4ec723e86a73#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/linksfraktion-fasst-beschluss-gegen-wagenknecht](https://www.spiegel.de/politik/deutschland/linksfraktion-fasst-beschluss-gegen-wagenknecht-a-e7d215b1-d46d-4617-9d70-4ec723e86a73#ref=rss)
+### iss
+
+* [https://www.spiegel.de/politik/iss-usa-und-russland-starten-gemeinsamen-flug-zur-raumstation](https://www.spiegel.de/politik/iss-usa-und-russland-starten-gemeinsamen-flug-zur-raumstation-a-504e6b81-665b-4bcd-a2eb-9b22154929ce#ref=rss)
+### russische
+
+* [https://www.spiegel.de/politik/iss-usa-und-russland-starten-gemeinsamen-flug-zur-raumstation](https://www.spiegel.de/politik/iss-usa-und-russland-starten-gemeinsamen-flug-zur-raumstation-a-504e6b81-665b-4bcd-a2eb-9b22154929ce#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-darum-verlegt-russland-seine-u-boote-von-der-krim](https://www.spiegel.de/ausland/ukraine-krieg-darum-verlegt-russland-seine-u-boote-von-der-krim-a-c00b8f08-86f2-4067-a8ec-138fccf194d8#ref=rss)
+### drei
+
+* [https://www.spiegel.de/politik/iss-usa-und-russland-starten-gemeinsamen-flug-zur-raumstation](https://www.spiegel.de/politik/iss-usa-und-russland-starten-gemeinsamen-flug-zur-raumstation-a-504e6b81-665b-4bcd-a2eb-9b22154929ce#ref=rss)
+* [https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen](https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen-a-ef8608f2-da47-4b8a-8774-6636d3a39a0f#ref=rss)
+### nachhaltigkeit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nachhaltigkeit-heidelbergcement-will-nicht-mehr-heidelbergcement-heissen](https://www.spiegel.de/wirtschaft/unternehmen/nachhaltigkeit-heidelbergcement-will-nicht-mehr-heidelbergcement-heissen-a-573e6035-c621-46ef-88b7-32eca4925f28#ref=rss)
+### heidelbergcement
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nachhaltigkeit-heidelbergcement-will-nicht-mehr-heidelbergcement-heissen](https://www.spiegel.de/wirtschaft/unternehmen/nachhaltigkeit-heidelbergcement-will-nicht-mehr-heidelbergcement-heissen-a-573e6035-c621-46ef-88b7-32eca4925f28#ref=rss)
+### weg
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/nachhaltigkeit-heidelbergcement-will-nicht-mehr-heidelbergcement-heissen](https://www.spiegel.de/wirtschaft/unternehmen/nachhaltigkeit-heidelbergcement-will-nicht-mehr-heidelbergcement-heissen-a-573e6035-c621-46ef-88b7-32eca4925f28#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/return-to-monkey-island-im-test-der-logische-weg-ist-nie-der-richtige](https://www.spiegel.de/netzwelt/games/return-to-monkey-island-im-test-der-logische-weg-ist-nie-der-richtige-a-7db9561c-d5ef-4470-98e7-13bda2d17612#ref=rss)
+### referenden
+
+* [https://www.spiegel.de/ausland/ukraine-referenden-im-donbass-angekuendigt-warnung-von-selenskyj](https://www.spiegel.de/ausland/ukraine-referenden-im-donbass-angekuendigt-warnung-von-selenskyj-a-18ec7ba7-2c71-4ffd-ac01-8fe959353afd#ref=rss)
+### warnung
+
+* [https://www.spiegel.de/ausland/ukraine-referenden-im-donbass-angekuendigt-warnung-von-selenskyj](https://www.spiegel.de/ausland/ukraine-referenden-im-donbass-angekuendigt-warnung-von-selenskyj-a-18ec7ba7-2c71-4ffd-ac01-8fe959353afd#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-referenden-im-donbass-angekuendigt-warnung-von-selenskyj](https://www.spiegel.de/ausland/ukraine-referenden-im-donbass-angekuendigt-warnung-von-selenskyj-a-18ec7ba7-2c71-4ffd-ac01-8fe959353afd#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/ausland/ukraine-referenden-im-donbass-angekuendigt-warnung-von-selenskyj](https://www.spiegel.de/ausland/ukraine-referenden-im-donbass-angekuendigt-warnung-von-selenskyj-a-18ec7ba7-2c71-4ffd-ac01-8fe959353afd#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-darum-verlegt-russland-seine-u-boote-von-der-krim](https://www.spiegel.de/ausland/ukraine-krieg-darum-verlegt-russland-seine-u-boote-von-der-krim-a-c00b8f08-86f2-4067-a8ec-138fccf194d8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-gibt-erklaerung-zu-scheinreferenden-ab](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-gibt-erklaerung-zu-scheinreferenden-ab-a-459f0752-8605-4fea-ab6f-b4cb3fbb7a47#ref=rss)
+### uboote
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-darum-verlegt-russland-seine-u-boote-von-der-krim](https://www.spiegel.de/ausland/ukraine-krieg-darum-verlegt-russland-seine-u-boote-von-der-krim-a-c00b8f08-86f2-4067-a8ec-138fccf194d8#ref=rss)
+### krim
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-darum-verlegt-russland-seine-u-boote-von-der-krim](https://www.spiegel.de/ausland/ukraine-krieg-darum-verlegt-russland-seine-u-boote-von-der-krim-a-c00b8f08-86f2-4067-a8ec-138fccf194d8#ref=rss)
+### formel
+
+* [https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen](https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen-a-ef8608f2-da47-4b8a-8774-6636d3a39a0f#ref=rss)
+### 1
+
+* [https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen](https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen-a-ef8608f2-da47-4b8a-8774-6636d3a39a0f#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen](https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen-a-ef8608f2-da47-4b8a-8774-6636d3a39a0f#ref=rss)
+### rennen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen](https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen-a-ef8608f2-da47-4b8a-8774-6636d3a39a0f#ref=rss)
+### kehrt
+
+* [https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen](https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen-a-ef8608f2-da47-4b8a-8774-6636d3a39a0f#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/return-to-monkey-island-im-test-der-logische-weg-ist-nie-der-richtige](https://www.spiegel.de/netzwelt/games/return-to-monkey-island-im-test-der-logische-weg-ist-nie-der-richtige-a-7db9561c-d5ef-4470-98e7-13bda2d17612#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen](https://www.spiegel.de/sport/formel1/formel-1-plant-rekordjahr-2023-mit-24-rennen-a-ef8608f2-da47-4b8a-8774-6636d3a39a0f#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/return-to-monkey-island-im-test-der-logische-weg-ist-nie-der-richtige](https://www.spiegel.de/netzwelt/games/return-to-monkey-island-im-test-der-logische-weg-ist-nie-der-richtige-a-7db9561c-d5ef-4470-98e7-13bda2d17612#ref=rss)
+### brad
+
+* [https://www.spiegel.de/kultur/brad-pitt-macht-jetzt-kunst-so-sehen-die-werke-von-bob-dylan-sylvester-stallone-und-otto-aus](https://www.spiegel.de/kultur/brad-pitt-macht-jetzt-kunst-so-sehen-die-werke-von-bob-dylan-sylvester-stallone-und-otto-aus-a-47053916-9120-4998-9a4a-698f719e07d1#ref=rss)
+### pitt
+
+* [https://www.spiegel.de/kultur/brad-pitt-macht-jetzt-kunst-so-sehen-die-werke-von-bob-dylan-sylvester-stallone-und-otto-aus](https://www.spiegel.de/kultur/brad-pitt-macht-jetzt-kunst-so-sehen-die-werke-von-bob-dylan-sylvester-stallone-und-otto-aus-a-47053916-9120-4998-9a4a-698f719e07d1#ref=rss)
+### kunst
+
+* [https://www.spiegel.de/kultur/brad-pitt-macht-jetzt-kunst-so-sehen-die-werke-von-bob-dylan-sylvester-stallone-und-otto-aus](https://www.spiegel.de/kultur/brad-pitt-macht-jetzt-kunst-so-sehen-die-werke-von-bob-dylan-sylvester-stallone-und-otto-aus-a-47053916-9120-4998-9a4a-698f719e07d1#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/kultur/brad-pitt-macht-jetzt-kunst-so-sehen-die-werke-von-bob-dylan-sylvester-stallone-und-otto-aus](https://www.spiegel.de/kultur/brad-pitt-macht-jetzt-kunst-so-sehen-die-werke-von-bob-dylan-sylvester-stallone-und-otto-aus-a-47053916-9120-4998-9a4a-698f719e07d1#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-pleiten-pech-und-pannen-vor-der-tirol-wahl](https://www.spiegel.de/ausland/oesterreich-pleiten-pech-und-pannen-vor-der-tirol-wahl-a-9125c5f7-a06c-4501-9c68-03815fb8cc0d#ref=rss)
+### staatsfonds
+
+* [https://www.spiegel.de/wirtschaft/norwegischer-staatsfonds-will-unternehmen-zu-null-emissionen-verpflichten](https://www.spiegel.de/wirtschaft/norwegischer-staatsfonds-will-unternehmen-zu-null-emissionen-verpflichten-a-339b839a-0626-428f-aabe-204645956d60#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/wirtschaft/norwegischer-staatsfonds-will-unternehmen-zu-null-emissionen-verpflichten](https://www.spiegel.de/wirtschaft/norwegischer-staatsfonds-will-unternehmen-zu-null-emissionen-verpflichten-a-339b839a-0626-428f-aabe-204645956d60#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen](https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen-a-224bc1a5-798b-42a4-9737-9b67040d0784#ref=rss)
+### verlangt
+
+* [https://www.spiegel.de/wirtschaft/norwegischer-staatsfonds-will-unternehmen-zu-null-emissionen-verpflichten](https://www.spiegel.de/wirtschaft/norwegischer-staatsfonds-will-unternehmen-zu-null-emissionen-verpflichten-a-339b839a-0626-428f-aabe-204645956d60#ref=rss)
+* [https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet](https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet-a-5b3a743b-4680-40c7-85ad-de5f54a766b6#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-gibt-erklaerung-zu-scheinreferenden-ab](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-gibt-erklaerung-zu-scheinreferenden-ab-a-459f0752-8605-4fea-ab6f-b4cb3fbb7a47#ref=rss)
+### erklärung
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-gibt-erklaerung-zu-scheinreferenden-ab](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-gibt-erklaerung-zu-scheinreferenden-ab-a-459f0752-8605-4fea-ab6f-b4cb3fbb7a47#ref=rss)
+* [https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet](https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet-a-5b3a743b-4680-40c7-85ad-de5f54a766b6#ref=rss)
+### scheinreferenden
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-gibt-erklaerung-zu-scheinreferenden-ab](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-gibt-erklaerung-zu-scheinreferenden-ab-a-459f0752-8605-4fea-ab6f-b4cb3fbb7a47#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-gibt-erklaerung-zu-scheinreferenden-ab](https://www.spiegel.de/ausland/ukraine-krieg-wladimir-putin-gibt-erklaerung-zu-scheinreferenden-ab-a-459f0752-8605-4fea-ab6f-b4cb3fbb7a47#ref=rss)
+* [https://www.spiegel.de/gesundheit/deutsche-fuehlen-sich-zunehmend-von-ihrer-freizeit-gestresst](https://www.spiegel.de/gesundheit/deutsche-fuehlen-sich-zunehmend-von-ihrer-freizeit-gestresst-a-75b9487a-dd5c-4d35-a6a5-ca427285b1b9#ref=rss)
+### robert
+
+* [https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte](https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte-a-134e6719-861f-4837-8346-e535ea405935#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte](https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte-a-134e6719-861f-4837-8346-e535ea405935#ref=rss)
+### netz
+
+* [https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte](https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte-a-134e6719-861f-4837-8346-e535ea405935#ref=rss)
+* [https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab](https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab-a-42b7bee5-fbcc-46e7-80b4-139cf15f87fd#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte](https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte-a-134e6719-861f-4837-8346-e535ea405935#ref=rss)
+* [https://www.spiegel.de/ausland/russischer-elitesoldat-packt-aus-viele-soldaten-wollen-nicht-mehr-kaempfen-spiegel-tv](https://www.spiegel.de/ausland/russischer-elitesoldat-packt-aus-viele-soldaten-wollen-nicht-mehr-kaempfen-spiegel-tv-a-470070ee-6a41-4d31-8d5a-3cff579b4d35#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte](https://www.spiegel.de/politik/deutschland/warum-robert-habeck-deutsche-atomkraftwerke-doch-am-netz-lassen-koennte-a-134e6719-861f-4837-8346-e535ea405935#ref=rss)
+* [https://www.spiegel.de/panorama/tierschutz-wie-schweine-in-deutschen-staellen-leiden-ein-verantwortlicher-bauer-spricht](https://www.spiegel.de/panorama/tierschutz-wie-schweine-in-deutschen-staellen-leiden-ein-verantwortlicher-bauer-spricht-a-eb92d393-49ed-450d-b3ea-3928d95a7f75#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland](https://www.spiegel.de/panorama/bildung/schulen-mehr-als-2700-ukrainische-lehr-und-hilfskraefte-in-deutschland-a-46cff7b6-79ab-4bef-9245-cd11d7ca9f1d#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/eugh-urteil-deutsche-regelung-zur-vorratsdatenspeicherung-verstoesst-gegen-eu-recht](https://www.spiegel.de/netzwelt/netzpolitik/eugh-urteil-deutsche-regelung-zur-vorratsdatenspeicherung-verstoesst-gegen-eu-recht-a-8f4a22a4-5c65-4fef-9599-9be875583ac7#ref=rss)
+* [https://www.spiegel.de/gesundheit/deutsche-fuehlen-sich-zunehmend-von-ihrer-freizeit-gestresst](https://www.spiegel.de/gesundheit/deutsche-fuehlen-sich-zunehmend-von-ihrer-freizeit-gestresst-a-75b9487a-dd5c-4d35-a6a5-ca427285b1b9#ref=rss)
+* [https://www.spiegel.de/panorama/tierschutz-wie-schweine-in-deutschen-staellen-leiden-ein-verantwortlicher-bauer-spricht](https://www.spiegel.de/panorama/tierschutz-wie-schweine-in-deutschen-staellen-leiden-ein-verantwortlicher-bauer-spricht-a-eb92d393-49ed-450d-b3ea-3928d95a7f75#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/panorama/tierschutz-wie-schweine-in-deutschen-staellen-leiden-ein-verantwortlicher-bauer-spricht](https://www.spiegel.de/panorama/tierschutz-wie-schweine-in-deutschen-staellen-leiden-ein-verantwortlicher-bauer-spricht-a-eb92d393-49ed-450d-b3ea-3928d95a7f75#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-nachhilfe-vom-eugh-fuer-ein-begriffsstutziges-kind-namens-bundesregierung](https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-nachhilfe-vom-eugh-fuer-ein-begriffsstutziges-kind-namens-bundesregierung-a-89f8c7e8-545a-4d94-8618-30f1b6cb6cb0#ref=rss)
+### schnell
+
+* [https://www.spiegel.de/panorama/bildung/studierende-in-geldnot-fachverbaende-fordern-sofortigen-bafoeg-notfallmechanismus](https://www.spiegel.de/panorama/bildung/studierende-in-geldnot-fachverbaende-fordern-sofortigen-bafoeg-notfallmechanismus-a-723f0081-02e6-4010-b67e-dbf4bea0caa5#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/wissenschaft/spinnenart-jagt-mit-akrobatischen-mitteln](https://www.spiegel.de/wissenschaft/spinnenart-jagt-mit-akrobatischen-mitteln-a-de8be523-0091-4b40-8fd2-5f2f91651e19#ref=rss)
+* [https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet](https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet-a-5b3a743b-4680-40c7-85ad-de5f54a766b6#ref=rss)
+### faeser
+
+* [https://www.spiegel.de/politik/deutschland/vorratsdatenspeicherung-streit-zwischen-nancy-faeser-und-marco-buschmann-das-letzte-gefecht](https://www.spiegel.de/politik/deutschland/vorratsdatenspeicherung-streit-zwischen-nancy-faeser-und-marco-buschmann-das-letzte-gefecht-a-a40e4da8-7086-4941-8dfd-04570ebb745d#ref=rss)
+### buschmann
+
+* [https://www.spiegel.de/politik/deutschland/vorratsdatenspeicherung-streit-zwischen-nancy-faeser-und-marco-buschmann-das-letzte-gefecht](https://www.spiegel.de/politik/deutschland/vorratsdatenspeicherung-streit-zwischen-nancy-faeser-und-marco-buschmann-das-letzte-gefecht-a-a40e4da8-7086-4941-8dfd-04570ebb745d#ref=rss)
+### tv
+
+* [https://www.spiegel.de/ausland/russischer-elitesoldat-packt-aus-viele-soldaten-wollen-nicht-mehr-kaempfen-spiegel-tv](https://www.spiegel.de/ausland/russischer-elitesoldat-packt-aus-viele-soldaten-wollen-nicht-mehr-kaempfen-spiegel-tv-a-470070ee-6a41-4d31-8d5a-3cff579b4d35#ref=rss)
+### adnan
+
+* [https://www.spiegel.de/panorama/justiz/adnan-syed-serial-podcast-macherin-sarah-koenig-ueber-spektakulaere-wende-in-mordfall](https://www.spiegel.de/panorama/justiz/adnan-syed-serial-podcast-macherin-sarah-koenig-ueber-spektakulaere-wende-in-mordfall-a-317fcdd4-2f63-4e33-ae66-f30dbd88bd14#ref=rss)
+### syed
+
+* [https://www.spiegel.de/panorama/justiz/adnan-syed-serial-podcast-macherin-sarah-koenig-ueber-spektakulaere-wende-in-mordfall](https://www.spiegel.de/panorama/justiz/adnan-syed-serial-podcast-macherin-sarah-koenig-ueber-spektakulaere-wende-in-mordfall-a-317fcdd4-2f63-4e33-ae66-f30dbd88bd14#ref=rss)
+### panzerlieferungen
+
+* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-was-an-olaf-scholz-argumenten-irrefuehrend-ist](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-was-an-olaf-scholz-argumenten-irrefuehrend-ist-a-0806cddc-ff95-426e-9c98-26f1d89bca05#ref=rss)
+### eugh
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-nachhilfe-vom-eugh-fuer-ein-begriffsstutziges-kind-namens-bundesregierung](https://www.spiegel.de/netzwelt/netzpolitik/vorratsdatenspeicherung-nachhilfe-vom-eugh-fuer-ein-begriffsstutziges-kind-namens-bundesregierung-a-89f8c7e8-545a-4d94-8618-30f1b6cb6cb0#ref=rss)
+### mars
+
+* [https://www.spiegel.de/wissenschaft/weltall/nasa-so-klingt-ein-meteoriteneinschlag-auf-dem-mars](https://www.spiegel.de/wissenschaft/weltall/nasa-so-klingt-ein-meteoriteneinschlag-auf-dem-mars-a-2a83de22-8444-4d33-b13d-963dd2447b6b#ref=rss)
+### könig
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen](https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen-a-224bc1a5-798b-42a4-9737-9b67040d0784#ref=rss)
 ### charles
 
-* [https://www.spiegel.de/ausland/liz-truss-und-charles-iii-gelingt-grossbritannien-der-doppelte-neustart](https://www.spiegel.de/ausland/liz-truss-und-charles-iii-gelingt-grossbritannien-der-doppelte-neustart-a-1e0f021b-7037-4568-9557-58d248929861#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen](https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen-a-224bc1a5-798b-42a4-9737-9b67040d0784#ref=rss)
 ### iii
 
-* [https://www.spiegel.de/ausland/liz-truss-und-charles-iii-gelingt-grossbritannien-der-doppelte-neustart](https://www.spiegel.de/ausland/liz-truss-und-charles-iii-gelingt-grossbritannien-der-doppelte-neustart-a-1e0f021b-7037-4568-9557-58d248929861#ref=rss)
-### direktor
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen](https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen-a-224bc1a5-798b-42a4-9737-9b67040d0784#ref=rss)
+### liz
 
-* [https://www.spiegel.de/ausland/russland-direktor-von-ruestungsfirma-wegen-geschaeften-mit-nato-laendern-festgenommen](https://www.spiegel.de/ausland/russland-direktor-von-ruestungsfirma-wegen-geschaeften-mit-nato-laendern-festgenommen-a-13705718-9cd2-4469-bfcb-4875d528c09e#ref=rss)
-### natoländern
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen](https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen-a-224bc1a5-798b-42a4-9737-9b67040d0784#ref=rss)
+### truss
 
-* [https://www.spiegel.de/ausland/russland-direktor-von-ruestungsfirma-wegen-geschaeften-mit-nato-laendern-festgenommen](https://www.spiegel.de/ausland/russland-direktor-von-ruestungsfirma-wegen-geschaeften-mit-nato-laendern-festgenommen-a-13705718-9cd2-4469-bfcb-4875d528c09e#ref=rss)
-### festgenommen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen](https://www.spiegel.de/politik/deutschland/news-des-tages-neuanfang-mit-koenig-charles-iii-und-liz-truss-ron-desantis-magnus-carlsen-a-224bc1a5-798b-42a4-9737-9b67040d0784#ref=rss)
+### uniper
 
-* [https://www.spiegel.de/ausland/russland-direktor-von-ruestungsfirma-wegen-geschaeften-mit-nato-laendern-festgenommen](https://www.spiegel.de/ausland/russland-direktor-von-ruestungsfirma-wegen-geschaeften-mit-nato-laendern-festgenommen-a-13705718-9cd2-4469-bfcb-4875d528c09e#ref=rss)
-### dane
+* [https://www.spiegel.de/wirtschaft/uniper-verstaatlichung-des-gasversorgers-steht-unmittelbar-bevor](https://www.spiegel.de/wirtschaft/uniper-verstaatlichung-des-gasversorgers-steht-unmittelbar-bevor-a-203fca43-46cd-4ef3-90a7-ef01e7048f0c#ref=rss)
+### monkey
 
-* [https://www.spiegel.de/sport/american-football/nfl-dane-jackson-kollidiert-mit-teamkollegen-und-ueberstreckt-sich-den-hals](https://www.spiegel.de/sport/american-football/nfl-dane-jackson-kollidiert-mit-teamkollegen-und-ueberstreckt-sich-den-hals-a-ded7f86b-b160-4fc0-a856-65cff9a116c3#ref=rss)
-### jackson
+* [https://www.spiegel.de/netzwelt/games/return-to-monkey-island-im-test-der-logische-weg-ist-nie-der-richtige](https://www.spiegel.de/netzwelt/games/return-to-monkey-island-im-test-der-logische-weg-ist-nie-der-richtige-a-7db9561c-d5ef-4470-98e7-13bda2d17612#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/sport/american-football/nfl-dane-jackson-kollidiert-mit-teamkollegen-und-ueberstreckt-sich-den-hals](https://www.spiegel.de/sport/american-football/nfl-dane-jackson-kollidiert-mit-teamkollegen-und-ueberstreckt-sich-den-hals-a-ded7f86b-b160-4fc0-a856-65cff9a116c3#ref=rss)
-### frank
+* [https://www.spiegel.de/netzwelt/games/return-to-monkey-island-im-test-der-logische-weg-ist-nie-der-richtige](https://www.spiegel.de/netzwelt/games/return-to-monkey-island-im-test-der-logische-weg-ist-nie-der-richtige-a-7db9561c-d5ef-4470-98e7-13bda2d17612#ref=rss)
+* [https://www.spiegel.de/wissenschaft/maarten-schmidt-im-alter-von-92-jahren-verstorben](https://www.spiegel.de/wissenschaft/maarten-schmidt-im-alter-von-92-jahren-verstorben-a-85f04863-d1a2-43b7-8e68-60b13ad8c7a6#ref=rss)
+### iran
 
-* [https://www.spiegel.de/panorama/gesellschaft/frank-mawer-angeblich-aeltester-australier-im-alter-von-110-jahren-gestorben](https://www.spiegel.de/panorama/gesellschaft/frank-mawer-angeblich-aeltester-australier-im-alter-von-110-jahren-gestorben-a-66f748d1-b978-4971-a68b-0150050dd993#ref=rss)
-### mawer
+* [https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab](https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab-a-42b7bee5-fbcc-46e7-80b4-139cf15f87fd#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/panorama/gesellschaft/frank-mawer-angeblich-aeltester-australier-im-alter-von-110-jahren-gestorben](https://www.spiegel.de/panorama/gesellschaft/frank-mawer-angeblich-aeltester-australier-im-alter-von-110-jahren-gestorben-a-66f748d1-b978-4971-a68b-0150050dd993#ref=rss)
-### ältester
+* [https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab](https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab-a-42b7bee5-fbcc-46e7-80b4-139cf15f87fd#ref=rss)
+### protestieren
 
-* [https://www.spiegel.de/panorama/gesellschaft/frank-mawer-angeblich-aeltester-australier-im-alter-von-110-jahren-gestorben](https://www.spiegel.de/panorama/gesellschaft/frank-mawer-angeblich-aeltester-australier-im-alter-von-110-jahren-gestorben-a-66f748d1-b978-4971-a68b-0150050dd993#ref=rss)
-### 110
+* [https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab](https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab-a-42b7bee5-fbcc-46e7-80b4-139cf15f87fd#ref=rss)
+### tod
 
-* [https://www.spiegel.de/panorama/gesellschaft/frank-mawer-angeblich-aeltester-australier-im-alter-von-110-jahren-gestorben](https://www.spiegel.de/panorama/gesellschaft/frank-mawer-angeblich-aeltester-australier-im-alter-von-110-jahren-gestorben-a-66f748d1-b978-4971-a68b-0150050dd993#ref=rss)
+* [https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab](https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab-a-42b7bee5-fbcc-46e7-80b4-139cf15f87fd#ref=rss)
+### schneiden
+
+* [https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab](https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab-a-42b7bee5-fbcc-46e7-80b4-139cf15f87fd#ref=rss)
+### haare
+
+* [https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab](https://www.spiegel.de/ausland/iran-frauen-protestieren-nach-tod-von-mahsa-amini-und-schneiden-sich-die-haare-ab-a-42b7bee5-fbcc-46e7-80b4-139cf15f87fd#ref=rss)
+### ruf
+
+* [https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet](https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet-a-5b3a743b-4680-40c7-85ad-de5f54a766b6#ref=rss)
+### schadet
+
+* [https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet](https://www.spiegel.de/sport/magnus-carlsen-wie-der-schach-skandal-seinem-ruf-schadet-a-5b3a743b-4680-40c7-85ad-de5f54a766b6#ref=rss)
+### maarten
+
+* [https://www.spiegel.de/wissenschaft/maarten-schmidt-im-alter-von-92-jahren-verstorben](https://www.spiegel.de/wissenschaft/maarten-schmidt-im-alter-von-92-jahren-verstorben-a-85f04863-d1a2-43b7-8e68-60b13ad8c7a6#ref=rss)
+### schmidt
+
+* [https://www.spiegel.de/wissenschaft/maarten-schmidt-im-alter-von-92-jahren-verstorben](https://www.spiegel.de/wissenschaft/maarten-schmidt-im-alter-von-92-jahren-verstorben-a-85f04863-d1a2-43b7-8e68-60b13ad8c7a6#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/oesterreich-pleiten-pech-und-pannen-vor-der-tirol-wahl](https://www.spiegel.de/ausland/oesterreich-pleiten-pech-und-pannen-vor-der-tirol-wahl-a-9125c5f7-a06c-4501-9c68-03815fb8cc0d#ref=rss)
+### karl
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-berliner-gesundheitsamt-stellt-ermittlungen-ein](https://www.spiegel.de/politik/deutschland/karl-lauterbach-berliner-gesundheitsamt-stellt-ermittlungen-ein-a-78989aaa-351d-4703-b1ac-d6986f78c128#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-berliner-gesundheitsamt-stellt-ermittlungen-ein](https://www.spiegel.de/politik/deutschland/karl-lauterbach-berliner-gesundheitsamt-stellt-ermittlungen-ein-a-78989aaa-351d-4703-b1ac-d6986f78c128#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-berliner-gesundheitsamt-stellt-ermittlungen-ein](https://www.spiegel.de/politik/deutschland/karl-lauterbach-berliner-gesundheitsamt-stellt-ermittlungen-ein-a-78989aaa-351d-4703-b1ac-d6986f78c128#ref=rss)
 
