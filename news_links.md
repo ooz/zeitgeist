@@ -4,352 +4,341 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### unter
-
-* [https://www.spiegel.de/sport/strassenrad-wm-annemiek-van-vleuten-gewinnt-gold-trotz-eines-gebrochenen-ellbogens](https://www.spiegel.de/sport/strassenrad-wm-annemiek-van-vleuten-gewinnt-gold-trotz-eines-gebrochenen-ellbogens-a-096e4464-919b-4f90-bfdd-6c582809984b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-dfb-team-verliert-gegen-ungarn-der-rueckschlag](https://www.spiegel.de/sport/fussball/nations-league-dfb-team-verliert-gegen-ungarn-der-rueckschlag-a-c5b2678b-af2d-49e2-a035-1f7f87984524#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten](https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten-a-233acd6d-5e20-46e7-8525-4f27c917306b#ref=rss)
-* [https://www.spiegel.de/reise/staedte/kopenhagen-mit-kindern-tipps-fuer-die-staedtereise-tivoli-aquarium-kulturnacht-copenhagen-card](https://www.spiegel.de/reise/staedte/kopenhagen-mit-kindern-tipps-fuer-die-staedtereise-tivoli-aquarium-kulturnacht-copenhagen-card-a-c2b0d275-01fc-4e5c-8aff-a78330453a0d#ref=rss)
-### britische
-
-* [https://www.spiegel.de/wissenschaft/mensch/kornkreis-schneider-kosten-britische-bauern-tausende-pfund](https://www.spiegel.de/wissenschaft/mensch/kornkreis-schneider-kosten-britische-bauern-tausende-pfund-a-64626152-97f5-43fc-a034-6e80d596d2e1#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs](https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs-a-f7cbbb44-7929-4fc4-a1d0-4c806b4ee124#ref=rss)
-* [https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier](https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier-a-a4e829f8-6366-45aa-a8aa-b3b916162774#ref=rss)
-### energiekrise
-
-* [https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs](https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs-a-f7cbbb44-7929-4fc4-a1d0-4c806b4ee124#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise](https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise-a-90f3f080-c2ae-405f-911d-d55f1f67fa20#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskriminalamt-sieht-innere-sicherheit-durch-energiekrise-gefaehrdet](https://www.spiegel.de/politik/deutschland/bundeskriminalamt-sieht-innere-sicherheit-durch-energiekrise-gefaehrdet-a-b476591c-e314-4c47-ac91-b9a25233ca3b#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord](https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord-a-df6e3695-fe86-4b32-89b1-902bf7304054#ref=rss)
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-arbeitsagentur-registriert-wieder-mehr-interesse-an-kurzarbeit](https://www.spiegel.de/wirtschaft/andrea-nahles-arbeitsagentur-registriert-wieder-mehr-interesse-an-kurzarbeit-a-cf0ec26b-6579-4a77-99be-8dcb4fb6b726#ref=rss)
-### roger
-
-* [https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen](https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen-a-0c8cba8a-38fa-4de1-b5d2-b09ef0a34ff2#ref=rss)
-* [https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal](https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal-a-ae4bd7a6-3948-4b69-ae44-198a8aa5901b#ref=rss)
-### federer
-
-* [https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen](https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen-a-0c8cba8a-38fa-4de1-b5d2-b09ef0a34ff2#ref=rss)
-* [https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal](https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal-a-ae4bd7a6-3948-4b69-ae44-198a8aa5901b#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen](https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen-a-d1d528a1-3c21-4160-810f-d404ece904f6#ref=rss)
-* [https://www.spiegel.de/ausland/wochenrueckblick-sahra-wagenknecht-ukraine-krieg-chinas-corona-politik-podcast](https://www.spiegel.de/ausland/wochenrueckblick-sahra-wagenknecht-ukraine-krieg-chinas-corona-politik-podcast-a-c557f002-7802-48ed-a39e-339e2c1561ce#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-treffen-zwischen-annalena-baerbock-und-sergej-lawrow-geplatzt](https://www.spiegel.de/ausland/ukraine-krieg-treffen-zwischen-annalena-baerbock-und-sergej-lawrow-geplatzt-a-504b6bba-9cf9-435d-96e1-a316d81bcb8c#ref=rss)
-### besten
-
-* [https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen](https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen-a-0c8cba8a-38fa-4de1-b5d2-b09ef0a34ff2#ref=rss)
-* [https://www.spiegel.de/psychologie/tipps-wie-sage-ich-meinen-nachbarn-dass-ihre-kinder-zu-laut-zu-sind](https://www.spiegel.de/psychologie/tipps-wie-sage-ich-meinen-nachbarn-dass-ihre-kinder-zu-laut-zu-sind-a-98dc14f7-a4af-470f-8798-f4a6dc7ca1d9#ref=rss)
-* [https://www.spiegel.de/reise/staedte/kopenhagen-mit-kindern-tipps-fuer-die-staedtereise-tivoli-aquarium-kulturnacht-copenhagen-card](https://www.spiegel.de/reise/staedte/kopenhagen-mit-kindern-tipps-fuer-die-staedtereise-tivoli-aquarium-kulturnacht-copenhagen-card-a-c2b0d275-01fc-4e5c-8aff-a78330453a0d#ref=rss)
-### eigene
-
-* [https://www.spiegel.de/ausland/ungarn-plant-neue-integritaetsbehoerde-reaktion-auf-eu-rechtsstaatsverfahren](https://www.spiegel.de/ausland/ungarn-plant-neue-integritaetsbehoerde-reaktion-auf-eu-rechtsstaatsverfahren-a-a6c446f8-3996-486e-bd3f-fae41fb47026#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-dfb-team-verliert-gegen-ungarn-der-rueckschlag](https://www.spiegel.de/sport/fussball/nations-league-dfb-team-verliert-gegen-ungarn-der-rueckschlag-a-c5b2678b-af2d-49e2-a035-1f7f87984524#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise](https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise-a-90f3f080-c2ae-405f-911d-d55f1f67fa20#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/ruesselsheim-auto-faehrt-in-gruppe-feiernder-sechs-verletzte](https://www.spiegel.de/panorama/ruesselsheim-auto-faehrt-in-gruppe-feiernder-sechs-verletzte-a-c0b66ad8-1da6-49d1-a863-27135021c9bd#ref=rss)
-* [https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier](https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier-a-a4e829f8-6366-45aa-a8aa-b3b916162774#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise](https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise-a-90f3f080-c2ae-405f-911d-d55f1f67fa20#ref=rss)
-### tipps
+* [https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran](https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran-a-445aafd8-12ff-4fcf-94c7-213ba0406a72#ref=rss)
+* [https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon](https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon-a-1b8b05d1-4cbd-4f41-a178-1a08cb1e7ff5#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran](https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran-a-73345050-be40-4cf3-a454-cb2c23700a8e#ref=rss)
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera](https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera-a-3cd25913-0c1c-4970-a413-1b2fd974c1dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr](https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr-a-3744494a-879f-44dc-9e85-dc1c740b1fb8#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/psychologie/tipps-wie-sage-ich-meinen-nachbarn-dass-ihre-kinder-zu-laut-zu-sind](https://www.spiegel.de/psychologie/tipps-wie-sage-ich-meinen-nachbarn-dass-ihre-kinder-zu-laut-zu-sind-a-98dc14f7-a4af-470f-8798-f4a6dc7ca1d9#ref=rss)
-* [https://www.spiegel.de/reise/staedte/kopenhagen-mit-kindern-tipps-fuer-die-staedtereise-tivoli-aquarium-kulturnacht-copenhagen-card](https://www.spiegel.de/reise/staedte/kopenhagen-mit-kindern-tipps-fuer-die-staedtereise-tivoli-aquarium-kulturnacht-copenhagen-card-a-c2b0d275-01fc-4e5c-8aff-a78330453a0d#ref=rss)
-### laut
+* [https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon](https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon-a-1b8b05d1-4cbd-4f41-a178-1a08cb1e7ff5#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran](https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran-a-73345050-be40-4cf3-a454-cb2c23700a8e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/weltbevoelkerung-am-15-november-kommt-der-achtmilliardste-mensch-zur-welt](https://www.spiegel.de/wissenschaft/mensch/weltbevoelkerung-am-15-november-kommt-der-achtmilliardste-mensch-zur-welt-a-6667c484-4ca4-4a4a-9c9e-82868abb49eb#ref=rss)
+### russen
 
-* [https://www.spiegel.de/psychologie/tipps-wie-sage-ich-meinen-nachbarn-dass-ihre-kinder-zu-laut-zu-sind](https://www.spiegel.de/psychologie/tipps-wie-sage-ich-meinen-nachbarn-dass-ihre-kinder-zu-laut-zu-sind-a-98dc14f7-a4af-470f-8798-f4a6dc7ca1d9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/umfrage-die-wut-der-deutschen-waechst](https://www.spiegel.de/politik/deutschland/umfrage-die-wut-der-deutschen-waechst-a-3396c8af-d695-4011-9d6d-6be588a1b0ab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskriminalamt-sieht-innere-sicherheit-durch-energiekrise-gefaehrdet](https://www.spiegel.de/politik/deutschland/bundeskriminalamt-sieht-innere-sicherheit-durch-energiekrise-gefaehrdet-a-b476591c-e314-4c47-ac91-b9a25233ca3b#ref=rss)
-### olaf
+* [https://www.spiegel.de/ausland/eu-ratspraesident-charles-michel-fordert-europa-zur-aufnahme-von-gefluechteten-russen-auf](https://www.spiegel.de/ausland/eu-ratspraesident-charles-michel-fordert-europa-zur-aufnahme-von-gefluechteten-russen-auf-a-cdb27537-d73f-419b-843f-b8ee3fae972d#ref=rss)
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera](https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera-a-3cd25913-0c1c-4970-a413-1b2fd974c1dd#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen](https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen-a-db135573-91a6-4b02-927f-3480534a7d18#ref=rss)
+### pharoah
 
-* [https://www.spiegel.de/wirtschaft/energiepreiskrise-olaf-scholz-verspricht-weitere-unterstuetzung](https://www.spiegel.de/wirtschaft/energiepreiskrise-olaf-scholz-verspricht-weitere-unterstuetzung-a-a75a4b40-0338-41ee-91dc-8bfd41488208#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-gruene-fdp-und-union-fordern-klartext-von-scholz](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-gruene-fdp-und-union-fordern-klartext-von-scholz-a-96909d7b-c75d-48c6-89b8-2bd021103311#ref=rss)
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf](https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf-a-b05c5129-ef45-41c7-9635-5876bfc53567#ref=rss)
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben-a-1fdd177e-5ebb-4e1d-b933-367d77857f2b#ref=rss)
+### sanders
+
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf](https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf-a-b05c5129-ef45-41c7-9635-5876bfc53567#ref=rss)
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben-a-1fdd177e-5ebb-4e1d-b933-367d77857f2b#ref=rss)
+### amini
+
+* [https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran](https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran-a-445aafd8-12ff-4fcf-94c7-213ba0406a72#ref=rss)
+* [https://www.spiegel.de/ausland/warum-mahsa-amini-sterben-musste](https://www.spiegel.de/ausland/warum-mahsa-amini-sterben-musste-a-a7d08958-bf92-4aac-a68a-101883ad197d#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran](https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran-a-73345050-be40-4cf3-a454-cb2c23700a8e#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran](https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran-a-445aafd8-12ff-4fcf-94c7-213ba0406a72#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran](https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran-a-73345050-be40-4cf3-a454-cb2c23700a8e#ref=rss)
 ### scholz
 
-* [https://www.spiegel.de/wirtschaft/energiepreiskrise-olaf-scholz-verspricht-weitere-unterstuetzung](https://www.spiegel.de/wirtschaft/energiepreiskrise-olaf-scholz-verspricht-weitere-unterstuetzung-a-a75a4b40-0338-41ee-91dc-8bfd41488208#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-gruene-fdp-und-union-fordern-klartext-von-scholz](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-gruene-fdp-und-union-fordern-klartext-von-scholz-a-96909d7b-c75d-48c6-89b8-2bd021103311#ref=rss)
-### energiepreise
-
-* [https://www.spiegel.de/wirtschaft/energiepreiskrise-olaf-scholz-verspricht-weitere-unterstuetzung](https://www.spiegel.de/wirtschaft/energiepreiskrise-olaf-scholz-verspricht-weitere-unterstuetzung-a-a75a4b40-0338-41ee-91dc-8bfd41488208#ref=rss)
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-arbeitsagentur-registriert-wieder-mehr-interesse-an-kurzarbeit](https://www.spiegel.de/wirtschaft/andrea-nahles-arbeitsagentur-registriert-wieder-mehr-interesse-an-kurzarbeit-a-cf0ec26b-6579-4a77-99be-8dcb4fb6b726#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskriminalamt-sieht-innere-sicherheit-durch-energiekrise-gefaehrdet](https://www.spiegel.de/politik/deutschland/bundeskriminalamt-sieht-innere-sicherheit-durch-energiekrise-gefaehrdet-a-b476591c-e314-4c47-ac91-b9a25233ca3b#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/justiz/grenzkontrollen-in-bayern-erhebliches-grundrauschen-an-grenzueberschreitender-kriminalitaet](https://www.spiegel.de/panorama/justiz/grenzkontrollen-in-bayern-erhebliches-grundrauschen-an-grenzueberschreitender-kriminalitaet-a-5dc5c6ac-2d4c-4234-8d47-c3053aba13a7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise](https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise-a-90f3f080-c2ae-405f-911d-d55f1f67fa20#ref=rss)
-### wut
-
-* [https://www.spiegel.de/politik/deutschland/umfrage-die-wut-der-deutschen-waechst](https://www.spiegel.de/politik/deutschland/umfrage-die-wut-der-deutschen-waechst-a-3396c8af-d695-4011-9d6d-6be588a1b0ab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten](https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten-a-233acd6d-5e20-46e7-8525-4f27c917306b#ref=rss)
+* [https://www.spiegel.de/ausland/kanzler-besuch-in-saudi-arabien-scholz-spricht-khashoggi-mord-an](https://www.spiegel.de/ausland/kanzler-besuch-in-saudi-arabien-scholz-spricht-khashoggi-mord-an-a-ae0e4506-eaab-4b35-9a9a-d8643fa7b538#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst](https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst-a-6c734853-1687-45d3-8992-8b3424d6363a#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/politik/deutschland/umfrage-die-wut-der-deutschen-waechst](https://www.spiegel.de/politik/deutschland/umfrage-die-wut-der-deutschen-waechst-a-3396c8af-d695-4011-9d6d-6be588a1b0ab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten](https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten-a-233acd6d-5e20-46e7-8525-4f27c917306b#ref=rss)
-### bauern
-
-* [https://www.spiegel.de/wissenschaft/mensch/kornkreis-schneider-kosten-britische-bauern-tausende-pfund](https://www.spiegel.de/wissenschaft/mensch/kornkreis-schneider-kosten-britische-bauern-tausende-pfund-a-64626152-97f5-43fc-a034-6e80d596d2e1#ref=rss)
-### hohe
-
-* [https://www.spiegel.de/wissenschaft/mensch/kornkreis-schneider-kosten-britische-bauern-tausende-pfund](https://www.spiegel.de/wissenschaft/mensch/kornkreis-schneider-kosten-britische-bauern-tausende-pfund-a-64626152-97f5-43fc-a034-6e80d596d2e1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskriminalamt-sieht-innere-sicherheit-durch-energiekrise-gefaehrdet](https://www.spiegel.de/politik/deutschland/bundeskriminalamt-sieht-innere-sicherheit-durch-energiekrise-gefaehrdet-a-b476591c-e314-4c47-ac91-b9a25233ca3b#ref=rss)
-### großbritannien
-
-* [https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs](https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs-a-f7cbbb44-7929-4fc4-a1d0-4c806b4ee124#ref=rss)
-* [https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord](https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord-a-df6e3695-fe86-4b32-89b1-902bf7304054#ref=rss)
-### bedroht
-
-* [https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs](https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs-a-f7cbbb44-7929-4fc4-a1d0-4c806b4ee124#ref=rss)
-### pubs
-
-* [https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs](https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs-a-f7cbbb44-7929-4fc4-a1d0-4c806b4ee124#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs](https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs-a-f7cbbb44-7929-4fc4-a1d0-4c806b4ee124#ref=rss)
-* [https://www.spiegel.de/panorama/ruesselsheim-auto-faehrt-in-gruppe-feiernder-sechs-verletzte](https://www.spiegel.de/panorama/ruesselsheim-auto-faehrt-in-gruppe-feiernder-sechs-verletzte-a-c0b66ad8-1da6-49d1-a863-27135021c9bd#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs](https://www.spiegel.de/ausland/grossbritannien-die-energiekrise-bedroht-die-pubs-a-f7cbbb44-7929-4fc4-a1d0-4c806b4ee124#ref=rss)
-* [https://www.spiegel.de/kultur/kino/louise-fletcher-ist-tot-oscar-gewinnerin-aus-einer-flog-ueber-das-kuckucksnest](https://www.spiegel.de/kultur/kino/louise-fletcher-ist-tot-oscar-gewinnerin-aus-einer-flog-ueber-das-kuckucksnest-a-6836a8e2-0c31-4021-9c1b-d8dc3e943d9f#ref=rss)
-### markus
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen](https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen-a-d1d528a1-3c21-4160-810f-d404ece904f6#ref=rss)
-### reisner
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen](https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen-a-d1d528a1-3c21-4160-810f-d404ece904f6#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen](https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen-a-d1d528a1-3c21-4160-810f-d404ece904f6#ref=rss)
-* [https://www.spiegel.de/ausland/charkiw-krywyj-rih-russland-will-ukrainischen-vormarsch-mit-attacken-auf-staudaemme-stoppen](https://www.spiegel.de/ausland/charkiw-krywyj-rih-russland-will-ukrainischen-vormarsch-mit-attacken-auf-staudaemme-stoppen-a-b5b1b7e4-9624-4d28-bba9-1aec6b5c53a5#ref=rss)
-### russlands
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen](https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen-a-d1d528a1-3c21-4160-810f-d404ece904f6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten](https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten-a-233acd6d-5e20-46e7-8525-4f27c917306b#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen](https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen-a-d1d528a1-3c21-4160-810f-d404ece904f6#ref=rss)
-* [https://www.spiegel.de/psychologie/tipps-wie-sage-ich-meinen-nachbarn-dass-ihre-kinder-zu-laut-zu-sind](https://www.spiegel.de/psychologie/tipps-wie-sage-ich-meinen-nachbarn-dass-ihre-kinder-zu-laut-zu-sind-a-98dc14f7-a4af-470f-8798-f4a6dc7ca1d9#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen](https://www.spiegel.de/ausland/ukraine-krieg-militaerhistoriker-markus-reisner-der-westen-muss-die-schnelle-entscheidung-suchen-a-d1d528a1-3c21-4160-810f-d404ece904f6#ref=rss)
-* [https://www.spiegel.de/ausland/wochenrueckblick-sahra-wagenknecht-ukraine-krieg-chinas-corona-politik-podcast](https://www.spiegel.de/ausland/wochenrueckblick-sahra-wagenknecht-ukraine-krieg-chinas-corona-politik-podcast-a-c557f002-7802-48ed-a39e-339e2c1561ce#ref=rss)
-### louise
-
-* [https://www.spiegel.de/kultur/kino/louise-fletcher-ist-tot-oscar-gewinnerin-aus-einer-flog-ueber-das-kuckucksnest](https://www.spiegel.de/kultur/kino/louise-fletcher-ist-tot-oscar-gewinnerin-aus-einer-flog-ueber-das-kuckucksnest-a-6836a8e2-0c31-4021-9c1b-d8dc3e943d9f#ref=rss)
-### fletcher
-
-* [https://www.spiegel.de/kultur/kino/louise-fletcher-ist-tot-oscar-gewinnerin-aus-einer-flog-ueber-das-kuckucksnest](https://www.spiegel.de/kultur/kino/louise-fletcher-ist-tot-oscar-gewinnerin-aus-einer-flog-ueber-das-kuckucksnest-a-6836a8e2-0c31-4021-9c1b-d8dc3e943d9f#ref=rss)
-### flog
-
-* [https://www.spiegel.de/kultur/kino/louise-fletcher-ist-tot-oscar-gewinnerin-aus-einer-flog-ueber-das-kuckucksnest](https://www.spiegel.de/kultur/kino/louise-fletcher-ist-tot-oscar-gewinnerin-aus-einer-flog-ueber-das-kuckucksnest-a-6836a8e2-0c31-4021-9c1b-d8dc3e943d9f#ref=rss)
-### kuckucksnest
-
-* [https://www.spiegel.de/kultur/kino/louise-fletcher-ist-tot-oscar-gewinnerin-aus-einer-flog-ueber-das-kuckucksnest](https://www.spiegel.de/kultur/kino/louise-fletcher-ist-tot-oscar-gewinnerin-aus-einer-flog-ueber-das-kuckucksnest-a-6836a8e2-0c31-4021-9c1b-d8dc3e943d9f#ref=rss)
-### loch
-
-* [https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord](https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord-a-df6e3695-fe86-4b32-89b1-902bf7304054#ref=rss)
-### ness
-
-* [https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord](https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord-a-df6e3695-fe86-4b32-89b1-902bf7304054#ref=rss)
-### ross
-
-* [https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord](https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord-a-df6e3695-fe86-4b32-89b1-902bf7304054#ref=rss)
-### edgley
-
-* [https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord](https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord-a-df6e3695-fe86-4b32-89b1-902bf7304054#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord](https://www.spiegel.de/sport/mehr-als-52-stunden-im-loch-ness-extremschwimmer-ross-edgley-knackt-rekord-a-df6e3695-fe86-4b32-89b1-902bf7304054#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-dfb-team-verliert-gegen-ungarn-der-rueckschlag](https://www.spiegel.de/sport/fussball/nations-league-dfb-team-verliert-gegen-ungarn-der-rueckschlag-a-c5b2678b-af2d-49e2-a035-1f7f87984524#ref=rss)
-### ende
-
-* [https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen](https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen-a-0c8cba8a-38fa-4de1-b5d2-b09ef0a34ff2#ref=rss)
-* [https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal](https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal-a-ae4bd7a6-3948-4b69-ae44-198a8aa5901b#ref=rss)
-### tränen
-
-* [https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen](https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen-a-0c8cba8a-38fa-4de1-b5d2-b09ef0a34ff2#ref=rss)
-* [https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal](https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal-a-ae4bd7a6-3948-4b69-ae44-198a8aa5901b#ref=rss)
-### laver
-
-* [https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen](https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen-a-0c8cba8a-38fa-4de1-b5d2-b09ef0a34ff2#ref=rss)
-* [https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal](https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal-a-ae4bd7a6-3948-4b69-ae44-198a8aa5901b#ref=rss)
-### cup
-
-* [https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen](https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen-a-0c8cba8a-38fa-4de1-b5d2-b09ef0a34ff2#ref=rss)
-* [https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal](https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal-a-ae4bd7a6-3948-4b69-ae44-198a8aa5901b#ref=rss)
-### london
-
-* [https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen](https://www.spiegel.de/sport/tennis/karriereende-von-roger-federer-am-ende-fliessen-die-traenen-a-0c8cba8a-38fa-4de1-b5d2-b09ef0a34ff2#ref=rss)
-* [https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal](https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal-a-ae4bd7a6-3948-4b69-ae44-198a8aa5901b#ref=rss)
-### ungarn
-
-* [https://www.spiegel.de/ausland/ungarn-plant-neue-integritaetsbehoerde-reaktion-auf-eu-rechtsstaatsverfahren](https://www.spiegel.de/ausland/ungarn-plant-neue-integritaetsbehoerde-reaktion-auf-eu-rechtsstaatsverfahren-a-a6c446f8-3996-486e-bd3f-fae41fb47026#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-dfb-team-verliert-gegen-ungarn-der-rueckschlag](https://www.spiegel.de/sport/fussball/nations-league-dfb-team-verliert-gegen-ungarn-der-rueckschlag-a-c5b2678b-af2d-49e2-a035-1f7f87984524#ref=rss)
-### auto
-
-* [https://www.spiegel.de/panorama/ruesselsheim-auto-faehrt-in-gruppe-feiernder-sechs-verletzte](https://www.spiegel.de/panorama/ruesselsheim-auto-faehrt-in-gruppe-feiernder-sechs-verletzte-a-c0b66ad8-1da6-49d1-a863-27135021c9bd#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/panorama/ruesselsheim-auto-faehrt-in-gruppe-feiernder-sechs-verletzte](https://www.spiegel.de/panorama/ruesselsheim-auto-faehrt-in-gruppe-feiernder-sechs-verletzte-a-c0b66ad8-1da6-49d1-a863-27135021c9bd#ref=rss)
-### davon
-
-* [https://www.spiegel.de/panorama/ruesselsheim-auto-faehrt-in-gruppe-feiernder-sechs-verletzte](https://www.spiegel.de/panorama/ruesselsheim-auto-faehrt-in-gruppe-feiernder-sechs-verletzte-a-c0b66ad8-1da6-49d1-a863-27135021c9bd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oepnv-30-milliarden-finanzluecke-laender-fuerchten-milliardenverluste-im-nahverkehr](https://www.spiegel.de/wirtschaft/oepnv-30-milliarden-finanzluecke-laender-fuerchten-milliardenverluste-im-nahverkehr-a-3a82ebea-7247-4481-9c33-a4e617916756#ref=rss)
-### gefahren
-
-* [https://www.spiegel.de/panorama/ruesselsheim-auto-faehrt-in-gruppe-feiernder-sechs-verletzte](https://www.spiegel.de/panorama/ruesselsheim-auto-faehrt-in-gruppe-feiernder-sechs-verletzte-a-c0b66ad8-1da6-49d1-a863-27135021c9bd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/grenzkontrollen-in-bayern-erhebliches-grundrauschen-an-grenzueberschreitender-kriminalitaet](https://www.spiegel.de/panorama/justiz/grenzkontrollen-in-bayern-erhebliches-grundrauschen-an-grenzueberschreitender-kriminalitaet-a-5dc5c6ac-2d4c-4234-8d47-c3053aba13a7#ref=rss)
-### documenta
-
-* [https://www.spiegel.de/kultur/documenta-15-in-kassel-schliesst-bis-zum-finale-ein-desaster-kommentar](https://www.spiegel.de/kultur/documenta-15-in-kassel-schliesst-bis-zum-finale-ein-desaster-kommentar-a-30f43d5b-dd91-4f9e-b0f3-b7ad963f919b#ref=rss)
-### 15
-
-* [https://www.spiegel.de/kultur/documenta-15-in-kassel-schliesst-bis-zum-finale-ein-desaster-kommentar](https://www.spiegel.de/kultur/documenta-15-in-kassel-schliesst-bis-zum-finale-ein-desaster-kommentar-a-30f43d5b-dd91-4f9e-b0f3-b7ad963f919b#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/kultur/documenta-15-in-kassel-schliesst-bis-zum-finale-ein-desaster-kommentar](https://www.spiegel.de/kultur/documenta-15-in-kassel-schliesst-bis-zum-finale-ein-desaster-kommentar-a-30f43d5b-dd91-4f9e-b0f3-b7ad963f919b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-fake-referenden-gehen-weiter](https://www.spiegel.de/ausland/ukraine-russland-news-fake-referenden-gehen-weiter-a-52ee0e98-ae68-41c3-a26d-9137aa063e15#ref=rss)
-### ukrainischen
-
-* [https://www.spiegel.de/ausland/charkiw-krywyj-rih-russland-will-ukrainischen-vormarsch-mit-attacken-auf-staudaemme-stoppen](https://www.spiegel.de/ausland/charkiw-krywyj-rih-russland-will-ukrainischen-vormarsch-mit-attacken-auf-staudaemme-stoppen-a-b5b1b7e4-9624-4d28-bba9-1aec6b5c53a5#ref=rss)
-### vormarsch
-
-* [https://www.spiegel.de/ausland/charkiw-krywyj-rih-russland-will-ukrainischen-vormarsch-mit-attacken-auf-staudaemme-stoppen](https://www.spiegel.de/ausland/charkiw-krywyj-rih-russland-will-ukrainischen-vormarsch-mit-attacken-auf-staudaemme-stoppen-a-b5b1b7e4-9624-4d28-bba9-1aec6b5c53a5#ref=rss)
-### staudämme
-
-* [https://www.spiegel.de/ausland/charkiw-krywyj-rih-russland-will-ukrainischen-vormarsch-mit-attacken-auf-staudaemme-stoppen](https://www.spiegel.de/ausland/charkiw-krywyj-rih-russland-will-ukrainischen-vormarsch-mit-attacken-auf-staudaemme-stoppen-a-b5b1b7e4-9624-4d28-bba9-1aec6b5c53a5#ref=rss)
-### rasche
-
-* [https://www.spiegel.de/wirtschaft/energiepreiskrise-olaf-scholz-verspricht-weitere-unterstuetzung](https://www.spiegel.de/wirtschaft/energiepreiskrise-olaf-scholz-verspricht-weitere-unterstuetzung-a-a75a4b40-0338-41ee-91dc-8bfd41488208#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/energiepreiskrise-olaf-scholz-verspricht-weitere-unterstuetzung](https://www.spiegel.de/wirtschaft/energiepreiskrise-olaf-scholz-verspricht-weitere-unterstuetzung-a-a75a4b40-0338-41ee-91dc-8bfd41488208#ref=rss)
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-arbeitsagentur-registriert-wieder-mehr-interesse-an-kurzarbeit](https://www.spiegel.de/wirtschaft/andrea-nahles-arbeitsagentur-registriert-wieder-mehr-interesse-an-kurzarbeit-a-cf0ec26b-6579-4a77-99be-8dcb4fb6b726#ref=rss)
-### straßenradwm
-
-* [https://www.spiegel.de/sport/strassenrad-wm-annemiek-van-vleuten-gewinnt-gold-trotz-eines-gebrochenen-ellbogens](https://www.spiegel.de/sport/strassenrad-wm-annemiek-van-vleuten-gewinnt-gold-trotz-eines-gebrochenen-ellbogens-a-096e4464-919b-4f90-bfdd-6c582809984b#ref=rss)
-### annemiek
-
-* [https://www.spiegel.de/sport/strassenrad-wm-annemiek-van-vleuten-gewinnt-gold-trotz-eines-gebrochenen-ellbogens](https://www.spiegel.de/sport/strassenrad-wm-annemiek-van-vleuten-gewinnt-gold-trotz-eines-gebrochenen-ellbogens-a-096e4464-919b-4f90-bfdd-6c582809984b#ref=rss)
-### van
-
-* [https://www.spiegel.de/sport/strassenrad-wm-annemiek-van-vleuten-gewinnt-gold-trotz-eines-gebrochenen-ellbogens](https://www.spiegel.de/sport/strassenrad-wm-annemiek-van-vleuten-gewinnt-gold-trotz-eines-gebrochenen-ellbogens-a-096e4464-919b-4f90-bfdd-6c582809984b#ref=rss)
-### vleuten
-
-* [https://www.spiegel.de/sport/strassenrad-wm-annemiek-van-vleuten-gewinnt-gold-trotz-eines-gebrochenen-ellbogens](https://www.spiegel.de/sport/strassenrad-wm-annemiek-van-vleuten-gewinnt-gold-trotz-eines-gebrochenen-ellbogens-a-096e4464-919b-4f90-bfdd-6c582809984b#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/strassenrad-wm-annemiek-van-vleuten-gewinnt-gold-trotz-eines-gebrochenen-ellbogens](https://www.spiegel.de/sport/strassenrad-wm-annemiek-van-vleuten-gewinnt-gold-trotz-eines-gebrochenen-ellbogens-a-096e4464-919b-4f90-bfdd-6c582809984b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-treffen-zwischen-annalena-baerbock-und-sergej-lawrow-geplatzt](https://www.spiegel.de/ausland/ukraine-krieg-treffen-zwischen-annalena-baerbock-und-sergej-lawrow-geplatzt-a-504b6bba-9cf9-435d-96e1-a316d81bcb8c#ref=rss)
-### werde
-
-* [https://www.spiegel.de/ausland/wahlen-in-italien-warum-der-ausgang-noch-nicht-entschieden-ist](https://www.spiegel.de/ausland/wahlen-in-italien-warum-der-ausgang-noch-nicht-entschieden-ist-a-60de3bb4-4137-4ace-8c58-87ea1a12a5f4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise](https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise-a-90f3f080-c2ae-405f-911d-d55f1f67fa20#ref=rss)
-### unsicherheit
-
-* [https://www.spiegel.de/politik/deutschland/umfrage-die-wut-der-deutschen-waechst](https://www.spiegel.de/politik/deutschland/umfrage-die-wut-der-deutschen-waechst-a-3396c8af-d695-4011-9d6d-6be588a1b0ab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten](https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten-a-233acd6d-5e20-46e7-8525-4f27c917306b#ref=rss)
-### spiegelumfrage
-
-* [https://www.spiegel.de/politik/deutschland/umfrage-die-wut-der-deutschen-waechst](https://www.spiegel.de/politik/deutschland/umfrage-die-wut-der-deutschen-waechst-a-3396c8af-d695-4011-9d6d-6be588a1b0ab#ref=rss)
-### nahverkehr
-
-* [https://www.spiegel.de/wirtschaft/oepnv-30-milliarden-finanzluecke-laender-fuerchten-milliardenverluste-im-nahverkehr](https://www.spiegel.de/wirtschaft/oepnv-30-milliarden-finanzluecke-laender-fuerchten-milliardenverluste-im-nahverkehr-a-3a82ebea-7247-4481-9c33-a4e617916756#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/wirtschaft/oepnv-30-milliarden-finanzluecke-laender-fuerchten-milliardenverluste-im-nahverkehr](https://www.spiegel.de/wirtschaft/oepnv-30-milliarden-finanzluecke-laender-fuerchten-milliardenverluste-im-nahverkehr-a-3a82ebea-7247-4481-9c33-a4e617916756#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/oepnv-30-milliarden-finanzluecke-laender-fuerchten-milliardenverluste-im-nahverkehr](https://www.spiegel.de/wirtschaft/oepnv-30-milliarden-finanzluecke-laender-fuerchten-milliardenverluste-im-nahverkehr-a-3a82ebea-7247-4481-9c33-a4e617916756#ref=rss)
-* [https://www.spiegel.de/auto/anwohnerparken-in-berlin-hamburg-muenchen-und-co-schmerzhafter-abschied-vom-billigstellplatz](https://www.spiegel.de/auto/anwohnerparken-in-berlin-hamburg-muenchen-und-co-schmerzhafter-abschied-vom-billigstellplatz-a-f9fee13f-5db2-4d74-8a23-42c4b5bd6a95#ref=rss)
-### news
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-fake-referenden-gehen-weiter](https://www.spiegel.de/ausland/ukraine-russland-news-fake-referenden-gehen-weiter-a-52ee0e98-ae68-41c3-a26d-9137aa063e15#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten](https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten-a-233acd6d-5e20-46e7-8525-4f27c917306b#ref=rss)
-### verliert
-
-* [https://www.spiegel.de/sport/fussball/nations-league-dfb-team-verliert-gegen-ungarn-der-rueckschlag](https://www.spiegel.de/sport/fussball/nations-league-dfb-team-verliert-gegen-ungarn-der-rueckschlag-a-c5b2678b-af2d-49e2-a035-1f7f87984524#ref=rss)
-### registriert
-
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-arbeitsagentur-registriert-wieder-mehr-interesse-an-kurzarbeit](https://www.spiegel.de/wirtschaft/andrea-nahles-arbeitsagentur-registriert-wieder-mehr-interesse-an-kurzarbeit-a-cf0ec26b-6579-4a77-99be-8dcb4fb6b726#ref=rss)
-### interesse
-
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-arbeitsagentur-registriert-wieder-mehr-interesse-an-kurzarbeit](https://www.spiegel.de/wirtschaft/andrea-nahles-arbeitsagentur-registriert-wieder-mehr-interesse-an-kurzarbeit-a-cf0ec26b-6579-4a77-99be-8dcb4fb6b726#ref=rss)
-### kurzarbeit
-
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-arbeitsagentur-registriert-wieder-mehr-interesse-an-kurzarbeit](https://www.spiegel.de/wirtschaft/andrea-nahles-arbeitsagentur-registriert-wieder-mehr-interesse-an-kurzarbeit-a-cf0ec26b-6579-4a77-99be-8dcb4fb6b726#ref=rss)
-### elton
-
-* [https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier](https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier-a-a4e829f8-6366-45aa-a8aa-b3b916162774#ref=rss)
-### john
-
-* [https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier](https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier-a-a4e829f8-6366-45aa-a8aa-b3b916162774#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier](https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier-a-a4e829f8-6366-45aa-a8aa-b3b916162774#ref=rss)
-### biden
-
-* [https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier](https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier-a-a4e829f8-6366-45aa-a8aa-b3b916162774#ref=rss)
-### weißen
-
-* [https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier](https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier-a-a4e829f8-6366-45aa-a8aa-b3b916162774#ref=rss)
-### haus
-
-* [https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier](https://www.spiegel.de/panorama/elton-john-bei-us-praesident-joe-biden-im-weissen-haus-was-fuer-eine-bruchbude-hier-a-a4e829f8-6366-45aa-a8aa-b3b916162774#ref=rss)
-### strompreise
-
-* [https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise](https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise-a-90f3f080-c2ae-405f-911d-d55f1f67fa20#ref=rss)
-### fordern
-
-* [https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise](https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise-a-90f3f080-c2ae-405f-911d-d55f1f67fa20#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-gruene-fdp-und-union-fordern-klartext-von-scholz](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-gruene-fdp-und-union-fordern-klartext-von-scholz-a-96909d7b-c75d-48c6-89b8-2bd021103311#ref=rss)
-### grüne
-
-* [https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise](https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise-a-90f3f080-c2ae-405f-911d-d55f1f67fa20#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-gruene-fdp-und-union-fordern-klartext-von-scholz](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-gruene-fdp-und-union-fordern-klartext-von-scholz-a-96909d7b-c75d-48c6-89b8-2bd021103311#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise](https://www.spiegel.de/wirtschaft/energiekrise-nord-laender-wollen-eigene-strompreise-a-90f3f080-c2ae-405f-911d-d55f1f67fa20#ref=rss)
-* [https://www.spiegel.de/auto/anwohnerparken-in-berlin-hamburg-muenchen-und-co-schmerzhafter-abschied-vom-billigstellplatz](https://www.spiegel.de/auto/anwohnerparken-in-berlin-hamburg-muenchen-und-co-schmerzhafter-abschied-vom-billigstellplatz-a-f9fee13f-5db2-4d74-8a23-42c4b5bd6a95#ref=rss)
-### sicherheit
-
-* [https://www.spiegel.de/politik/deutschland/bundeskriminalamt-sieht-innere-sicherheit-durch-energiekrise-gefaehrdet](https://www.spiegel.de/politik/deutschland/bundeskriminalamt-sieht-innere-sicherheit-durch-energiekrise-gefaehrdet-a-b476591c-e314-4c47-ac91-b9a25233ca3b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-treffen-zwischen-annalena-baerbock-und-sergej-lawrow-geplatzt](https://www.spiegel.de/ausland/ukraine-krieg-treffen-zwischen-annalena-baerbock-und-sergej-lawrow-geplatzt-a-504b6bba-9cf9-435d-96e1-a316d81bcb8c#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/bundeskriminalamt-sieht-innere-sicherheit-durch-energiekrise-gefaehrdet](https://www.spiegel.de/politik/deutschland/bundeskriminalamt-sieht-innere-sicherheit-durch-energiekrise-gefaehrdet-a-b476591c-e314-4c47-ac91-b9a25233ca3b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten](https://www.spiegel.de/politik/deutschland/news-putin-unter-druck-umfrage-zu-den-gefuehlen-der-deutschen-bayerns-gruenen-spitzenkandidaten-a-233acd6d-5e20-46e7-8525-4f27c917306b#ref=rss)
-### kopenhagen
-
-* [https://www.spiegel.de/reise/staedte/kopenhagen-mit-kindern-tipps-fuer-die-staedtereise-tivoli-aquarium-kulturnacht-copenhagen-card](https://www.spiegel.de/reise/staedte/kopenhagen-mit-kindern-tipps-fuer-die-staedtereise-tivoli-aquarium-kulturnacht-copenhagen-card-a-c2b0d275-01fc-4e5c-8aff-a78330453a0d#ref=rss)
-### kulturnacht
-
-* [https://www.spiegel.de/reise/staedte/kopenhagen-mit-kindern-tipps-fuer-die-staedtereise-tivoli-aquarium-kulturnacht-copenhagen-card](https://www.spiegel.de/reise/staedte/kopenhagen-mit-kindern-tipps-fuer-die-staedtereise-tivoli-aquarium-kulturnacht-copenhagen-card-a-c2b0d275-01fc-4e5c-8aff-a78330453a0d#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-deutscher-energie-manager-reist-als-wahlbeobachter-zu-scheinreferenden](https://www.spiegel.de/ausland/russland-ukraine-krieg-deutscher-energie-manager-reist-als-wahlbeobachter-zu-scheinreferenden-a-4a538c21-3246-4d07-bd5b-0b629c2924b0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/warum-die-deutschen-die-lust-auf-bier-verlieren](https://www.spiegel.de/wirtschaft/warum-die-deutschen-die-lust-auf-bier-verlieren-a-199adc65-5aaf-449a-ba01-e6f592414d96#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen](https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen-a-db135573-91a6-4b02-927f-3480534a7d18#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/oesterreich-warum-so-viele-rechte-kandidaten-bei-der-bundespraesidentenwahl-antreten](https://www.spiegel.de/ausland/oesterreich-warum-so-viele-rechte-kandidaten-bei-der-bundespraesidentenwahl-antreten-a-7967847e-1371-4978-9208-5e8a775c53ff#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran](https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran-a-73345050-be40-4cf3-a454-cb2c23700a8e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr](https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr-a-3744494a-879f-44dc-9e85-dc1c740b1fb8#ref=rss)
+### proteste
+
+* [https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran](https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran-a-445aafd8-12ff-4fcf-94c7-213ba0406a72#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran](https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran-a-73345050-be40-4cf3-a454-cb2c23700a8e#ref=rss)
 ### saudiarabien
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-gruene-fdp-und-union-fordern-klartext-von-scholz](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-gruene-fdp-und-union-fordern-klartext-von-scholz-a-96909d7b-c75d-48c6-89b8-2bd021103311#ref=rss)
-### kanzler
+* [https://www.spiegel.de/ausland/kanzler-besuch-in-saudi-arabien-scholz-spricht-khashoggi-mord-an](https://www.spiegel.de/ausland/kanzler-besuch-in-saudi-arabien-scholz-spricht-khashoggi-mord-an-a-ae0e4506-eaab-4b35-9a9a-d8643fa7b538#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst](https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst-a-6c734853-1687-45d3-8992-8b3424d6363a#ref=rss)
+### gesperrt
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-gruene-fdp-und-union-fordern-klartext-von-scholz](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-gruene-fdp-und-union-fordern-klartext-von-scholz-a-96909d7b-c75d-48c6-89b8-2bd021103311#ref=rss)
-### sahra
+* [https://www.spiegel.de/panorama/montpellier-frachtflugzeug-landet-mit-der-nase-im-see](https://www.spiegel.de/panorama/montpellier-frachtflugzeug-landet-mit-der-nase-im-see-a-84c27cbe-9d9c-40c4-bcdb-057321473aa5#ref=rss)
+* [https://www.spiegel.de/panorama/mosel-nach-schiffskollision-gesperrt](https://www.spiegel.de/panorama/mosel-nach-schiffskollision-gesperrt-a-47f6cd58-5b5b-4f90-83cd-e4b3f4f22f39#ref=rss)
+### wir
 
-* [https://www.spiegel.de/ausland/wochenrueckblick-sahra-wagenknecht-ukraine-krieg-chinas-corona-politik-podcast](https://www.spiegel.de/ausland/wochenrueckblick-sahra-wagenknecht-ukraine-krieg-chinas-corona-politik-podcast-a-c557f002-7802-48ed-a39e-339e2c1561ce#ref=rss)
-### wagenknecht
+* [https://www.spiegel.de/familie/generationenkonflikte-wie-wir-den-schwieger-eltern-unseren-erziehungsweg-erklaeren-podcast](https://www.spiegel.de/familie/generationenkonflikte-wie-wir-den-schwieger-eltern-unseren-erziehungsweg-erklaeren-podcast-a-df7934a9-a8ba-4497-b9b7-0910b6c56bbd#ref=rss)
+### wo
 
-* [https://www.spiegel.de/ausland/wochenrueckblick-sahra-wagenknecht-ukraine-krieg-chinas-corona-politik-podcast](https://www.spiegel.de/ausland/wochenrueckblick-sahra-wagenknecht-ukraine-krieg-chinas-corona-politik-podcast-a-c557f002-7802-48ed-a39e-339e2c1561ce#ref=rss)
-### beendet
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf](https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf-a-b05c5129-ef45-41c7-9635-5876bfc53567#ref=rss)
+* [https://www.spiegel.de/ausland/klimawandel-wegen-einer-duerre-steht-somalia-vor-der-hungersnot](https://www.spiegel.de/ausland/klimawandel-wegen-einer-duerre-steht-somalia-vor-der-hungersnot-a-1f1f0b33-5f19-4bea-a4a8-ba14507971fc#ref=rss)
+### john
 
-* [https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal](https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal-a-ae4bd7a6-3948-4b69-ae44-198a8aa5901b#ref=rss)
-### doppel
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf](https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf-a-b05c5129-ef45-41c7-9635-5876bfc53567#ref=rss)
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben-a-1fdd177e-5ebb-4e1d-b933-367d77857f2b#ref=rss)
+### coltrane
 
-* [https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal](https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal-a-ae4bd7a6-3948-4b69-ae44-198a8aa5901b#ref=rss)
-### rafael
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf](https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf-a-b05c5129-ef45-41c7-9635-5876bfc53567#ref=rss)
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben-a-1fdd177e-5ebb-4e1d-b933-367d77857f2b#ref=rss)
+### fand
 
-* [https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal](https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal-a-ae4bd7a6-3948-4b69-ae44-198a8aa5901b#ref=rss)
-### nadal
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf](https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf-a-b05c5129-ef45-41c7-9635-5876bfc53567#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal](https://www.spiegel.de/sport/tennis/laver-cup-roger-federer-beendet-seine-karriere-mit-einer-niederlage-doppel-mit-rafael-nadal-a-ae4bd7a6-3948-4b69-ae44-198a8aa5901b#ref=rss)
-### treffen
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf](https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf-a-b05c5129-ef45-41c7-9635-5876bfc53567#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-deutscher-energie-manager-reist-als-wahlbeobachter-zu-scheinreferenden](https://www.spiegel.de/ausland/russland-ukraine-krieg-deutscher-energie-manager-reist-als-wahlbeobachter-zu-scheinreferenden-a-4a538c21-3246-4d07-bd5b-0b629c2924b0#ref=rss)
+### free
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-treffen-zwischen-annalena-baerbock-und-sergej-lawrow-geplatzt](https://www.spiegel.de/ausland/ukraine-krieg-treffen-zwischen-annalena-baerbock-und-sergej-lawrow-geplatzt-a-504b6bba-9cf9-435d-96e1-a316d81bcb8c#ref=rss)
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf](https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf-a-b05c5129-ef45-41c7-9635-5876bfc53567#ref=rss)
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben-a-1fdd177e-5ebb-4e1d-b933-367d77857f2b#ref=rss)
+### jazz
+
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf](https://www.spiegel.de/kultur/musik/pharoah-sanders-den-schmerz-ueberblasen-ein-nachruf-a-b05c5129-ef45-41c7-9635-5876bfc53567#ref=rss)
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben-a-1fdd177e-5ebb-4e1d-b933-367d77857f2b#ref=rss)
+### spritztour
+
+* [https://www.spiegel.de/panorama/leute/spritztour-mit-einem-rekord-raser-jetzt-zeige-ich-ihnen-mal-die-beschleunigung-spiegel-tv](https://www.spiegel.de/panorama/leute/spritztour-mit-einem-rekord-raser-jetzt-zeige-ich-ihnen-mal-die-beschleunigung-spiegel-tv-a-7bbf9b59-8134-4a3e-9528-5602b1937b23#ref=rss)
+### video
+
+* [https://www.spiegel.de/panorama/leute/spritztour-mit-einem-rekord-raser-jetzt-zeige-ich-ihnen-mal-die-beschleunigung-spiegel-tv](https://www.spiegel.de/panorama/leute/spritztour-mit-einem-rekord-raser-jetzt-zeige-ich-ihnen-mal-die-beschleunigung-spiegel-tv-a-7bbf9b59-8134-4a3e-9528-5602b1937b23#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-spiegel-reporter-christoph-reuter-in-den-urwaeldern-des-emirates](https://www.spiegel.de/ausland/afghanistan-spiegel-reporter-christoph-reuter-in-den-urwaeldern-des-emirates-a-0d095136-2876-4738-8313-aa3762935907#ref=rss)
+### tod
+
+* [https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran](https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran-a-445aafd8-12ff-4fcf-94c7-213ba0406a72#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran](https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran-a-73345050-be40-4cf3-a454-cb2c23700a8e#ref=rss)
+### masha
+
+* [https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran](https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran-a-445aafd8-12ff-4fcf-94c7-213ba0406a72#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran](https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran-a-73345050-be40-4cf3-a454-cb2c23700a8e#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran](https://www.spiegel.de/ausland/tod-von-masha-amini-proteste-in-iran-a-445aafd8-12ff-4fcf-94c7-213ba0406a72#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst](https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst-a-6c734853-1687-45d3-8992-8b3424d6363a#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon](https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon-a-1b8b05d1-4cbd-4f41-a178-1a08cb1e7ff5#ref=rss)
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera](https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera-a-3cd25913-0c1c-4970-a413-1b2fd974c1dd#ref=rss)
+### libanon
+
+* [https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon](https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon-a-1b8b05d1-4cbd-4f41-a178-1a08cb1e7ff5#ref=rss)
+### leben
+
+* [https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon](https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon-a-1b8b05d1-4cbd-4f41-a178-1a08cb1e7ff5#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-spiegel-reporter-christoph-reuter-in-den-urwaeldern-des-emirates](https://www.spiegel.de/ausland/afghanistan-spiegel-reporter-christoph-reuter-in-den-urwaeldern-des-emirates-a-0d095136-2876-4738-8313-aa3762935907#ref=rss)
+### zunächst
+
+* [https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon](https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon-a-1b8b05d1-4cbd-4f41-a178-1a08cb1e7ff5#ref=rss)
+* [https://www.spiegel.de/panorama/montpellier-frachtflugzeug-landet-mit-der-nase-im-see](https://www.spiegel.de/panorama/montpellier-frachtflugzeug-landet-mit-der-nase-im-see-a-84c27cbe-9d9c-40c4-bcdb-057321473aa5#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon](https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon-a-1b8b05d1-4cbd-4f41-a178-1a08cb1e7ff5#ref=rss)
+* [https://www.spiegel.de/ausland/drohungen-gegen-belgischen-justizminister-polizei-nimmt-verdaechtige-fest](https://www.spiegel.de/ausland/drohungen-gegen-belgischen-justizminister-polizei-nimmt-verdaechtige-fest-a-6d501419-54a3-4e92-8982-c5c9fae28e10#ref=rss)
+### waren
+
+* [https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon](https://www.spiegel.de/ausland/bootsunglueck-in-syrien-mehr-als-90-tote-bei-flucht-aus-dem-libanon-a-1b8b05d1-4cbd-4f41-a178-1a08cb1e7ff5#ref=rss)
+* [https://www.spiegel.de/ausland/italien-vor-der-wahl-giorgia-meloni-die-neofaschistische-ja-nein-frau](https://www.spiegel.de/ausland/italien-vor-der-wahl-giorgia-meloni-die-neofaschistische-ja-nein-frau-a-b79f8046-1107-4339-90be-3267d60c96b8#ref=rss)
+### bundeskanzler
+
+* [https://www.spiegel.de/ausland/kanzler-besuch-in-saudi-arabien-scholz-spricht-khashoggi-mord-an](https://www.spiegel.de/ausland/kanzler-besuch-in-saudi-arabien-scholz-spricht-khashoggi-mord-an-a-ae0e4506-eaab-4b35-9a9a-d8643fa7b538#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst](https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst-a-6c734853-1687-45d3-8992-8b3424d6363a#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/ausland/kanzler-besuch-in-saudi-arabien-scholz-spricht-khashoggi-mord-an](https://www.spiegel.de/ausland/kanzler-besuch-in-saudi-arabien-scholz-spricht-khashoggi-mord-an-a-ae0e4506-eaab-4b35-9a9a-d8643fa7b538#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst](https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst-a-6c734853-1687-45d3-8992-8b3424d6363a#ref=rss)
+### besuch
+
+* [https://www.spiegel.de/ausland/kanzler-besuch-in-saudi-arabien-scholz-spricht-khashoggi-mord-an](https://www.spiegel.de/ausland/kanzler-besuch-in-saudi-arabien-scholz-spricht-khashoggi-mord-an-a-ae0e4506-eaab-4b35-9a9a-d8643fa7b538#ref=rss)
+* [https://www.spiegel.de/ausland/klimawandel-wegen-einer-duerre-steht-somalia-vor-der-hungersnot](https://www.spiegel.de/ausland/klimawandel-wegen-einer-duerre-steht-somalia-vor-der-hungersnot-a-1f1f0b33-5f19-4bea-a4a8-ba14507971fc#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-deutscher-energie-manager-reist-als-wahlbeobachter-zu-scheinreferenden](https://www.spiegel.de/ausland/russland-ukraine-krieg-deutscher-energie-manager-reist-als-wahlbeobachter-zu-scheinreferenden-a-4a538c21-3246-4d07-bd5b-0b629c2924b0#ref=rss)
+* [https://www.spiegel.de/ausland/michail-misinzew-wird-neuer-russischer-vize-verteidigungsminister](https://www.spiegel.de/ausland/michail-misinzew-wird-neuer-russischer-vize-verteidigungsminister-a-adff43b1-f531-4d63-a88d-4b312dae5e43#ref=rss)
+### nasa
+
+* [https://www.spiegel.de/panorama/mondmission-der-nasa-in-florida-artemis-darf-erneut-nicht-starten](https://www.spiegel.de/panorama/mondmission-der-nasa-in-florida-artemis-darf-erneut-nicht-starten-a-bb6458da-1a4d-494d-b966-238e842cc483#ref=rss)
+### florida
+
+* [https://www.spiegel.de/panorama/mondmission-der-nasa-in-florida-artemis-darf-erneut-nicht-starten](https://www.spiegel.de/panorama/mondmission-der-nasa-in-florida-artemis-darf-erneut-nicht-starten-a-bb6458da-1a4d-494d-b966-238e842cc483#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-ich-habe-mich-an-den-krieg-gewoehnt](https://www.spiegel.de/ausland/ukraine-ich-habe-mich-an-den-krieg-gewoehnt-a-b8cce542-8d6c-424c-bf36-b26c9d74da52#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen](https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen-a-db135573-91a6-4b02-927f-3480534a7d18#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/ausland/ukraine-ich-habe-mich-an-den-krieg-gewoehnt](https://www.spiegel.de/ausland/ukraine-ich-habe-mich-an-den-krieg-gewoehnt-a-b8cce542-8d6c-424c-bf36-b26c9d74da52#ref=rss)
+### welt
+
+* [https://www.spiegel.de/ausland/ukraine-ich-habe-mich-an-den-krieg-gewoehnt](https://www.spiegel.de/ausland/ukraine-ich-habe-mich-an-den-krieg-gewoehnt-a-b8cce542-8d6c-424c-bf36-b26c9d74da52#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/weltbevoelkerung-am-15-november-kommt-der-achtmilliardste-mensch-zur-welt](https://www.spiegel.de/wissenschaft/mensch/weltbevoelkerung-am-15-november-kommt-der-achtmilliardste-mensch-zur-welt-a-6667c484-4ca4-4a4a-9c9e-82868abb49eb#ref=rss)
+### lutsiv
+
+* [https://www.spiegel.de/ausland/ukraine-ich-habe-mich-an-den-krieg-gewoehnt](https://www.spiegel.de/ausland/ukraine-ich-habe-mich-an-den-krieg-gewoehnt-a-b8cce542-8d6c-424c-bf36-b26c9d74da52#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/ausland/ukraine-ich-habe-mich-an-den-krieg-gewoehnt](https://www.spiegel.de/ausland/ukraine-ich-habe-mich-an-den-krieg-gewoehnt-a-b8cce542-8d6c-424c-bf36-b26c9d74da52#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen](https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen-a-db135573-91a6-4b02-927f-3480534a7d18#ref=rss)
+### vielen
+
+* [https://www.spiegel.de/wirtschaft/warum-die-deutschen-die-lust-auf-bier-verlieren](https://www.spiegel.de/wirtschaft/warum-die-deutschen-die-lust-auf-bier-verlieren-a-199adc65-5aaf-449a-ba01-e6f592414d96#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst](https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst-a-6c734853-1687-45d3-8992-8b3424d6363a#ref=rss)
+### montpellier
+
+* [https://www.spiegel.de/panorama/montpellier-frachtflugzeug-landet-mit-der-nase-im-see](https://www.spiegel.de/panorama/montpellier-frachtflugzeug-landet-mit-der-nase-im-see-a-84c27cbe-9d9c-40c4-bcdb-057321473aa5#ref=rss)
+### frachtflugzeug
+
+* [https://www.spiegel.de/panorama/montpellier-frachtflugzeug-landet-mit-der-nase-im-see](https://www.spiegel.de/panorama/montpellier-frachtflugzeug-landet-mit-der-nase-im-see-a-84c27cbe-9d9c-40c4-bcdb-057321473aa5#ref=rss)
+### österreich
+
+* [https://www.spiegel.de/ausland/oesterreich-warum-so-viele-rechte-kandidaten-bei-der-bundespraesidentenwahl-antreten](https://www.spiegel.de/ausland/oesterreich-warum-so-viele-rechte-kandidaten-bei-der-bundespraesidentenwahl-antreten-a-7967847e-1371-4978-9208-5e8a775c53ff#ref=rss)
+### kandidaten
+
+* [https://www.spiegel.de/ausland/oesterreich-warum-so-viele-rechte-kandidaten-bei-der-bundespraesidentenwahl-antreten](https://www.spiegel.de/ausland/oesterreich-warum-so-viele-rechte-kandidaten-bei-der-bundespraesidentenwahl-antreten-a-7967847e-1371-4978-9208-5e8a775c53ff#ref=rss)
+### nie
+
+* [https://www.spiegel.de/ausland/oesterreich-warum-so-viele-rechte-kandidaten-bei-der-bundespraesidentenwahl-antreten](https://www.spiegel.de/ausland/oesterreich-warum-so-viele-rechte-kandidaten-bei-der-bundespraesidentenwahl-antreten-a-7967847e-1371-4978-9208-5e8a775c53ff#ref=rss)
+* [https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr](https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr-a-3744494a-879f-44dc-9e85-dc1c740b1fb8#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/ausland/oesterreich-warum-so-viele-rechte-kandidaten-bei-der-bundespraesidentenwahl-antreten](https://www.spiegel.de/ausland/oesterreich-warum-so-viele-rechte-kandidaten-bei-der-bundespraesidentenwahl-antreten-a-7967847e-1371-4978-9208-5e8a775c53ff#ref=rss)
+* [https://www.spiegel.de/familie/generationenkonflikte-wie-wir-den-schwieger-eltern-unseren-erziehungsweg-erklaeren-podcast](https://www.spiegel.de/familie/generationenkonflikte-wie-wir-den-schwieger-eltern-unseren-erziehungsweg-erklaeren-podcast-a-df7934a9-a8ba-4497-b9b7-0910b6c56bbd#ref=rss)
+### erklären
+
+* [https://www.spiegel.de/familie/generationenkonflikte-wie-wir-den-schwieger-eltern-unseren-erziehungsweg-erklaeren-podcast](https://www.spiegel.de/familie/generationenkonflikte-wie-wir-den-schwieger-eltern-unseren-erziehungsweg-erklaeren-podcast-a-df7934a9-a8ba-4497-b9b7-0910b6c56bbd#ref=rss)
+### unsere
+
+* [https://www.spiegel.de/familie/generationenkonflikte-wie-wir-den-schwieger-eltern-unseren-erziehungsweg-erklaeren-podcast](https://www.spiegel.de/familie/generationenkonflikte-wie-wir-den-schwieger-eltern-unseren-erziehungsweg-erklaeren-podcast-a-df7934a9-a8ba-4497-b9b7-0910b6c56bbd#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/familie/generationenkonflikte-wie-wir-den-schwieger-eltern-unseren-erziehungsweg-erklaeren-podcast](https://www.spiegel.de/familie/generationenkonflikte-wie-wir-den-schwieger-eltern-unseren-erziehungsweg-erklaeren-podcast-a-df7934a9-a8ba-4497-b9b7-0910b6c56bbd#ref=rss)
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera](https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera-a-3cd25913-0c1c-4970-a413-1b2fd974c1dd#ref=rss)
+### 81
+
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben-a-1fdd177e-5ebb-4e1d-b933-367d77857f2b#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben-a-1fdd177e-5ebb-4e1d-b933-367d77857f2b#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben](https://www.spiegel.de/kultur/musik/pharoah-sanders-free-jazz-pionier-mit-81-jahren-gestorben-a-1fdd177e-5ebb-4e1d-b933-367d77857f2b#ref=rss)
+### klimawandel
+
+* [https://www.spiegel.de/ausland/klimawandel-wegen-einer-duerre-steht-somalia-vor-der-hungersnot](https://www.spiegel.de/ausland/klimawandel-wegen-einer-duerre-steht-somalia-vor-der-hungersnot-a-1f1f0b33-5f19-4bea-a4a8-ba14507971fc#ref=rss)
+### somalia
+
+* [https://www.spiegel.de/ausland/klimawandel-wegen-einer-duerre-steht-somalia-vor-der-hungersnot](https://www.spiegel.de/ausland/klimawandel-wegen-einer-duerre-steht-somalia-vor-der-hungersnot-a-1f1f0b33-5f19-4bea-a4a8-ba14507971fc#ref=rss)
+### ganze
+
+* [https://www.spiegel.de/ausland/klimawandel-wegen-einer-duerre-steht-somalia-vor-der-hungersnot](https://www.spiegel.de/ausland/klimawandel-wegen-einer-duerre-steht-somalia-vor-der-hungersnot-a-1f1f0b33-5f19-4bea-a4a8-ba14507971fc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/weltbevoelkerung-am-15-november-kommt-der-achtmilliardste-mensch-zur-welt](https://www.spiegel.de/wissenschaft/mensch/weltbevoelkerung-am-15-november-kommt-der-achtmilliardste-mensch-zur-welt-a-6667c484-4ca4-4a4a-9c9e-82868abb49eb#ref=rss)
+### michail
+
+* [https://www.spiegel.de/ausland/michail-misinzew-wird-neuer-russischer-vize-verteidigungsminister](https://www.spiegel.de/ausland/michail-misinzew-wird-neuer-russischer-vize-verteidigungsminister-a-adff43b1-f531-4d63-a88d-4b312dae5e43#ref=rss)
+### misinzew
+
+* [https://www.spiegel.de/ausland/michail-misinzew-wird-neuer-russischer-vize-verteidigungsminister](https://www.spiegel.de/ausland/michail-misinzew-wird-neuer-russischer-vize-verteidigungsminister-a-adff43b1-f531-4d63-a88d-4b312dae5e43#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/ausland/michail-misinzew-wird-neuer-russischer-vize-verteidigungsminister](https://www.spiegel.de/ausland/michail-misinzew-wird-neuer-russischer-vize-verteidigungsminister-a-adff43b1-f531-4d63-a88d-4b312dae5e43#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/weltbevoelkerung-am-15-november-kommt-der-achtmilliardste-mensch-zur-welt](https://www.spiegel.de/wissenschaft/mensch/weltbevoelkerung-am-15-november-kommt-der-achtmilliardste-mensch-zur-welt-a-6667c484-4ca4-4a4a-9c9e-82868abb49eb#ref=rss)
+### vizeverteidigungsminister
+
+* [https://www.spiegel.de/ausland/michail-misinzew-wird-neuer-russischer-vize-verteidigungsminister](https://www.spiegel.de/ausland/michail-misinzew-wird-neuer-russischer-vize-verteidigungsminister-a-adff43b1-f531-4d63-a88d-4b312dae5e43#ref=rss)
+### mahsa
+
+* [https://www.spiegel.de/ausland/warum-mahsa-amini-sterben-musste](https://www.spiegel.de/ausland/warum-mahsa-amini-sterben-musste-a-a7d08958-bf92-4aac-a68a-101883ad197d#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/warum-mahsa-amini-sterben-musste](https://www.spiegel.de/ausland/warum-mahsa-amini-sterben-musste-a-a7d08958-bf92-4aac-a68a-101883ad197d#ref=rss)
+* [https://www.spiegel.de/ausland/eu-ratspraesident-charles-michel-fordert-europa-zur-aufnahme-von-gefluechteten-russen-auf](https://www.spiegel.de/ausland/eu-ratspraesident-charles-michel-fordert-europa-zur-aufnahme-von-gefluechteten-russen-auf-a-cdb27537-d73f-419b-843f-b8ee3fae972d#ref=rss)
+### zuvor
+
+* [https://www.spiegel.de/ausland/warum-mahsa-amini-sterben-musste](https://www.spiegel.de/ausland/warum-mahsa-amini-sterben-musste-a-a7d08958-bf92-4aac-a68a-101883ad197d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr](https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr-a-3744494a-879f-44dc-9e85-dc1c740b1fb8#ref=rss)
+### nimmt
+
+* [https://www.spiegel.de/ausland/warum-mahsa-amini-sterben-musste](https://www.spiegel.de/ausland/warum-mahsa-amini-sterben-musste-a-a7d08958-bf92-4aac-a68a-101883ad197d#ref=rss)
+* [https://www.spiegel.de/ausland/drohungen-gegen-belgischen-justizminister-polizei-nimmt-verdaechtige-fest](https://www.spiegel.de/ausland/drohungen-gegen-belgischen-justizminister-polizei-nimmt-verdaechtige-fest-a-6d501419-54a3-4e92-8982-c5c9fae28e10#ref=rss)
+### norden
+
+* [https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran](https://www.spiegel.de/ausland/proteste-gegen-kopftuch-zwang-mehr-als-700-festnahmen-bei-demonstrationen-im-norden-des-iran-a-73345050-be40-4cf3-a454-cb2c23700a8e#ref=rss)
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera](https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera-a-3cd25913-0c1c-4970-a413-1b2fd974c1dd#ref=rss)
+### drei
+
+* [https://www.spiegel.de/start/studieren-mit-hund-wie-man-uni-und-vierbeiner-vereinbaren-kann](https://www.spiegel.de/start/studieren-mit-hund-wie-man-uni-und-vierbeiner-vereinbaren-kann-a-4ebf7b68-8919-4b3e-bf07-7d63c51a124c#ref=rss)
+* [https://www.spiegel.de/ausland/drohungen-gegen-belgischen-justizminister-polizei-nimmt-verdaechtige-fest](https://www.spiegel.de/ausland/drohungen-gegen-belgischen-justizminister-polizei-nimmt-verdaechtige-fest-a-6d501419-54a3-4e92-8982-c5c9fae28e10#ref=rss)
+### reeperbahn
+
+* [https://www.spiegel.de/kultur/musik/reeperbahn-festival-2022-betterov-best-practices-und-krisenkommunikation](https://www.spiegel.de/kultur/musik/reeperbahn-festival-2022-betterov-best-practices-und-krisenkommunikation-a-9746fb68-ffc5-4e1a-92c6-0d2b5994a23c#ref=rss)
+### festival
+
+* [https://www.spiegel.de/kultur/musik/reeperbahn-festival-2022-betterov-best-practices-und-krisenkommunikation](https://www.spiegel.de/kultur/musik/reeperbahn-festival-2022-betterov-best-practices-und-krisenkommunikation-a-9746fb68-ffc5-4e1a-92c6-0d2b5994a23c#ref=rss)
+### klub
+
+* [https://www.spiegel.de/kultur/musik/reeperbahn-festival-2022-betterov-best-practices-und-krisenkommunikation](https://www.spiegel.de/kultur/musik/reeperbahn-festival-2022-betterov-best-practices-und-krisenkommunikation-a-9746fb68-ffc5-4e1a-92c6-0d2b5994a23c#ref=rss)
+### italien
+
+* [https://www.spiegel.de/ausland/italien-vor-der-wahl-giorgia-meloni-die-neofaschistische-ja-nein-frau](https://www.spiegel.de/ausland/italien-vor-der-wahl-giorgia-meloni-die-neofaschistische-ja-nein-frau-a-b79f8046-1107-4339-90be-3267d60c96b8#ref=rss)
+### giorgia
+
+* [https://www.spiegel.de/ausland/italien-vor-der-wahl-giorgia-meloni-die-neofaschistische-ja-nein-frau](https://www.spiegel.de/ausland/italien-vor-der-wahl-giorgia-meloni-die-neofaschistische-ja-nein-frau-a-b79f8046-1107-4339-90be-3267d60c96b8#ref=rss)
+### meloni
+
+* [https://www.spiegel.de/ausland/italien-vor-der-wahl-giorgia-meloni-die-neofaschistische-ja-nein-frau](https://www.spiegel.de/ausland/italien-vor-der-wahl-giorgia-meloni-die-neofaschistische-ja-nein-frau-a-b79f8046-1107-4339-90be-3267d60c96b8#ref=rss)
+### mosel
+
+* [https://www.spiegel.de/panorama/mosel-nach-schiffskollision-gesperrt](https://www.spiegel.de/panorama/mosel-nach-schiffskollision-gesperrt-a-47f6cd58-5b5b-4f90-83cd-e4b3f4f22f39#ref=rss)
+### weltbevölkerung
+
+* [https://www.spiegel.de/wissenschaft/mensch/weltbevoelkerung-am-15-november-kommt-der-achtmilliardste-mensch-zur-welt](https://www.spiegel.de/wissenschaft/mensch/weltbevoelkerung-am-15-november-kommt-der-achtmilliardste-mensch-zur-welt-a-6667c484-4ca4-4a4a-9c9e-82868abb49eb#ref=rss)
+### justizminister
+
+* [https://www.spiegel.de/ausland/drohungen-gegen-belgischen-justizminister-polizei-nimmt-verdaechtige-fest](https://www.spiegel.de/ausland/drohungen-gegen-belgischen-justizminister-polizei-nimmt-verdaechtige-fest-a-6d501419-54a3-4e92-8982-c5c9fae28e10#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/ausland/drohungen-gegen-belgischen-justizminister-polizei-nimmt-verdaechtige-fest](https://www.spiegel.de/ausland/drohungen-gegen-belgischen-justizminister-polizei-nimmt-verdaechtige-fest-a-6d501419-54a3-4e92-8982-c5c9fae28e10#ref=rss)
+### fest
+
+* [https://www.spiegel.de/ausland/drohungen-gegen-belgischen-justizminister-polizei-nimmt-verdaechtige-fest](https://www.spiegel.de/ausland/drohungen-gegen-belgischen-justizminister-polizei-nimmt-verdaechtige-fest-a-6d501419-54a3-4e92-8982-c5c9fae28e10#ref=rss)
+### charles
+
+* [https://www.spiegel.de/ausland/eu-ratspraesident-charles-michel-fordert-europa-zur-aufnahme-von-gefluechteten-russen-auf](https://www.spiegel.de/ausland/eu-ratspraesident-charles-michel-fordert-europa-zur-aufnahme-von-gefluechteten-russen-auf-a-cdb27537-d73f-419b-843f-b8ee3fae972d#ref=rss)
+### michel
+
+* [https://www.spiegel.de/ausland/eu-ratspraesident-charles-michel-fordert-europa-zur-aufnahme-von-gefluechteten-russen-auf](https://www.spiegel.de/ausland/eu-ratspraesident-charles-michel-fordert-europa-zur-aufnahme-von-gefluechteten-russen-auf-a-cdb27537-d73f-419b-843f-b8ee3fae972d#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/eu-ratspraesident-charles-michel-fordert-europa-zur-aufnahme-von-gefluechteten-russen-auf](https://www.spiegel.de/ausland/eu-ratspraesident-charles-michel-fordert-europa-zur-aufnahme-von-gefluechteten-russen-auf-a-cdb27537-d73f-419b-843f-b8ee3fae972d#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen](https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen-a-db135573-91a6-4b02-927f-3480534a7d18#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera](https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera-a-3cd25913-0c1c-4970-a413-1b2fd974c1dd#ref=rss)
+### woche
+
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera](https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera-a-3cd25913-0c1c-4970-a413-1b2fd974c1dd#ref=rss)
+### russland
+
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera](https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera-a-3cd25913-0c1c-4970-a413-1b2fd974c1dd#ref=rss)
+* [https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen](https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen-a-db135573-91a6-4b02-927f-3480534a7d18#ref=rss)
+### gaza
+
+* [https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera](https://www.spiegel.de/panorama/die-bilder-der-woche-aus-russland-gaza-und-syrien-durst-oder-cholera-a-3cd25913-0c1c-4970-a413-1b2fd974c1dd#ref=rss)
+### pro
+
+* [https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen](https://www.spiegel.de/politik/ukraine-und-russland-die-deutschen-verstehen-die-russen-die-sich-am-krieg-nicht-beteiligen-wollen-a-db135573-91a6-4b02-927f-3480534a7d18#ref=rss)
+* [https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr](https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr-a-3744494a-879f-44dc-9e85-dc1c740b1fb8#ref=rss)
+### pakete
+
+* [https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr](https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr-a-3744494a-879f-44dc-9e85-dc1c740b1fb8#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr](https://www.spiegel.de/wirtschaft/online-boom-auf-dem-zenit-54-pakete-pro-person-und-jahr-a-3744494a-879f-44dc-9e85-dc1c740b1fb8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst](https://www.spiegel.de/politik/deutschland/olaf-scholz-wird-von-kronprinz-mohammed-bin-salman-in-saudi-arabien-per-handschlag-begruesst-a-6c734853-1687-45d3-8992-8b3424d6363a#ref=rss)
+### spiegelreporter
+
+* [https://www.spiegel.de/ausland/afghanistan-spiegel-reporter-christoph-reuter-in-den-urwaeldern-des-emirates](https://www.spiegel.de/ausland/afghanistan-spiegel-reporter-christoph-reuter-in-den-urwaeldern-des-emirates-a-0d095136-2876-4738-8313-aa3762935907#ref=rss)
+### christoph
+
+* [https://www.spiegel.de/ausland/afghanistan-spiegel-reporter-christoph-reuter-in-den-urwaeldern-des-emirates](https://www.spiegel.de/ausland/afghanistan-spiegel-reporter-christoph-reuter-in-den-urwaeldern-des-emirates-a-0d095136-2876-4738-8313-aa3762935907#ref=rss)
+### reuter
+
+* [https://www.spiegel.de/ausland/afghanistan-spiegel-reporter-christoph-reuter-in-den-urwaeldern-des-emirates](https://www.spiegel.de/ausland/afghanistan-spiegel-reporter-christoph-reuter-in-den-urwaeldern-des-emirates-a-0d095136-2876-4738-8313-aa3762935907#ref=rss)
 
