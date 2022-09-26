@@ -4,281 +4,319 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### russland
 
+* [https://www.spiegel.de/ausland/mobilmachung-in-russland-maenner-fliehen-vor-der-einberufung-nach-georgien](https://www.spiegel.de/ausland/mobilmachung-in-russland-maenner-fliehen-vor-der-einberufung-nach-georgien-a-5b07c264-c7b9-4550-9cd9-feebfa9d986f#ref=rss)
+* [https://www.spiegel.de/ausland/russland-kriegsdienstverweigerer-soll-sich-selbst-angezuendet-haben](https://www.spiegel.de/ausland/russland-kriegsdienstverweigerer-soll-sich-selbst-angezuendet-haben-a-7a9eda43-e68c-4688-a752-4c9bc9d1aef8#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-verleiht-edward-snowden-die-russische-staatsbuergerschaft](https://www.spiegel.de/ausland/wladimir-putin-verleiht-edward-snowden-die-russische-staatsbuergerschaft-a-3e8744a4-5d6b-4117-aa14-960e749cfc97#ref=rss)
+* [https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen](https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen-a-6d0caf6a-1ceb-44b0-aefb-09fe04fb6601#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen](https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen-a-9ef4e7b2-7896-4de4-b8b0-8dbad65cbb96#ref=rss)
 * [https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer](https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer-a-1c6234da-b861-4174-a094-4d6b37d56e76#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-geschaeftsklima-verschlechtert-sich-deutlich](https://www.spiegel.de/wirtschaft/ifo-geschaeftsklima-verschlechtert-sich-deutlich-a-c0dba118-834d-49c3-a36a-112b42aa33b5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-den-emiraten-und-katar-kanzler-im-sumpf](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-den-emiraten-und-katar-kanzler-im-sumpf-a-c4bc85b0-e447-4c50-8e0e-26188fdc5176#ref=rss)
-* [https://www.spiegel.de/wirtschaft/steigende-preise-und-armut-ich-esse-das-was-die-kinder-uebrig-lassen](https://www.spiegel.de/wirtschaft/steigende-preise-und-armut-ich-esse-das-was-die-kinder-uebrig-lassen-a-6dea127c-b8a9-49e0-9bc2-b3554c7b0ccc#ref=rss)
-### italien
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/italien-mailaender-boerse-reagiert-kaum-auf-rechten-wahlsieg](https://www.spiegel.de/wirtschaft/unternehmen/italien-mailaender-boerse-reagiert-kaum-auf-rechten-wahlsieg-a-d3594e01-e4dd-4874-b881-a312aa5c7c8f#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-will-einhaltung-von-grundrechten-in-italien-genau-beobachten](https://www.spiegel.de/ausland/frankreich-will-einhaltung-von-grundrechten-in-italien-genau-beobachten-a-376e5b6a-7818-47be-82a7-776aad3a6734#ref=rss)
-* [https://www.spiegel.de/wirtschaft/italien-wahl-die-neue-rechts-koalition-wird-geld-verteilen-das-italien-nicht-hat](https://www.spiegel.de/wirtschaft/italien-wahl-die-neue-rechts-koalition-wird-geld-verteilen-das-italien-nicht-hat-a-17d3d849-af9d-4ea1-833b-f5c5e30b49b3#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-positiv-auf-corona-getestet](https://www.spiegel.de/politik/deutschland/olaf-scholz-positiv-auf-corona-getestet-a-e55c1f9b-29e7-4f0a-92e1-0fd56d523c6e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-den-emiraten-und-katar-kanzler-im-sumpf](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-den-emiraten-und-katar-kanzler-im-sumpf-a-c4bc85b0-e447-4c50-8e0e-26188fdc5176#ref=rss)
-### aller
-
-* [https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig](https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig-a-f40cc0ea-fae1-4d03-8da8-de1dca965d29#ref=rss)
-* [https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt](https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt-a-ac7fd1f1-8592-464a-9a54-7251745899c4#ref=rss)
-### wenig
-
-* [https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig](https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig-a-f40cc0ea-fae1-4d03-8da8-de1dca965d29#ref=rss)
-* [https://www.spiegel.de/wirtschaft/steigende-preise-und-armut-ich-esse-das-was-die-kinder-uebrig-lassen](https://www.spiegel.de/wirtschaft/steigende-preise-und-armut-ich-esse-das-was-die-kinder-uebrig-lassen-a-6dea127c-b8a9-49e0-9bc2-b3554c7b0ccc#ref=rss)
-### getestet
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-klimaanlagen-skandal-continental-hat-auch-bei-wasser-und-tankschlaeuchen-gepfuscht](https://www.spiegel.de/wirtschaft/unternehmen/nach-klimaanlagen-skandal-continental-hat-auch-bei-wasser-und-tankschlaeuchen-gepfuscht-a-7f01ce57-664b-4938-9147-14af4536f698#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-positiv-auf-corona-getestet](https://www.spiegel.de/politik/deutschland/olaf-scholz-positiv-auf-corona-getestet-a-e55c1f9b-29e7-4f0a-92e1-0fd56d523c6e#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-positiv-auf-corona-getestet](https://www.spiegel.de/politik/deutschland/olaf-scholz-positiv-auf-corona-getestet-a-e55c1f9b-29e7-4f0a-92e1-0fd56d523c6e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-den-emiraten-und-katar-kanzler-im-sumpf](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-den-emiraten-und-katar-kanzler-im-sumpf-a-c4bc85b0-e447-4c50-8e0e-26188fdc5176#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/italien-wahl-die-neue-rechts-koalition-wird-geld-verteilen-das-italien-nicht-hat](https://www.spiegel.de/wirtschaft/italien-wahl-die-neue-rechts-koalition-wird-geld-verteilen-das-italien-nicht-hat-a-17d3d849-af9d-4ea1-833b-f5c5e30b49b3#ref=rss)
-* [https://www.spiegel.de/start/als-auslieferungsfahrer-arbeiten-nebenjobs-fuer-studierende-die-sich-lohnen](https://www.spiegel.de/start/als-auslieferungsfahrer-arbeiten-nebenjobs-fuer-studierende-die-sich-lohnen-a-a1695b84-74b7-4002-b524-a99cd0026364#ref=rss)
-* [https://www.spiegel.de/wirtschaft/steigende-preise-und-armut-ich-esse-das-was-die-kinder-uebrig-lassen](https://www.spiegel.de/wirtschaft/steigende-preise-und-armut-ich-esse-das-was-die-kinder-uebrig-lassen-a-6dea127c-b8a9-49e0-9bc2-b3554c7b0ccc#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/ausland/suedkorea-und-usa-beginnen-marinemanoever-zur-abschreckung-nordkoreas](https://www.spiegel.de/ausland/suedkorea-und-usa-beginnen-marinemanoever-zur-abschreckung-nordkoreas-a-c126618d-b18e-44d5-91cd-e00eca703055#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/suedkorea-und-usa-beginnen-marinemanoever-zur-abschreckung-nordkoreas](https://www.spiegel.de/ausland/suedkorea-und-usa-beginnen-marinemanoever-zur-abschreckung-nordkoreas-a-c126618d-b18e-44d5-91cd-e00eca703055#ref=rss)
-* [https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt](https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt-a-ac7fd1f1-8592-464a-9a54-7251745899c4#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/suedkorea-und-usa-beginnen-marinemanoever-zur-abschreckung-nordkoreas](https://www.spiegel.de/ausland/suedkorea-und-usa-beginnen-marinemanoever-zur-abschreckung-nordkoreas-a-c126618d-b18e-44d5-91cd-e00eca703055#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-vorstandschef-alan-jope-will-ende-2023-gehen](https://www.spiegel.de/wirtschaft/unternehmen/unilever-vorstandschef-alan-jope-will-ende-2023-gehen-a-b4d9f547-9759-4d40-81d6-6eed6526fafd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-pfund-sterling-faellt-auf-rekordtief-zum-us-dollar](https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-pfund-sterling-faellt-auf-rekordtief-zum-us-dollar-a-d1811aa0-7398-4b78-a07a-d4bfc6bef895#ref=rss)
-### russlandukrainekrieg
-
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-energie-waldeck-frankenberg-aus-hessen-stellt-manager-reise-zu-scheinreferenden-frei](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-energie-waldeck-frankenberg-aus-hessen-stellt-manager-reise-zu-scheinreferenden-frei-a-521d4d40-b9d0-44fb-8ac4-8826c27fd054#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-mann-schiesst-in-russischem-einberufungsamt-auf-militaerkommissar](https://www.spiegel.de/ausland/russland-ukraine-krieg-mann-schiesst-in-russischem-einberufungsamt-auf-militaerkommissar-a-2b4ccf6d-977f-483b-b264-7e12d8e87bb3#ref=rss)
-### hessen
-
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-energie-waldeck-frankenberg-aus-hessen-stellt-manager-reise-zu-scheinreferenden-frei](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-energie-waldeck-frankenberg-aus-hessen-stellt-manager-reise-zu-scheinreferenden-frei-a-521d4d40-b9d0-44fb-8ac4-8826c27fd054#ref=rss)
-### frei
-
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-energie-waldeck-frankenberg-aus-hessen-stellt-manager-reise-zu-scheinreferenden-frei](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-energie-waldeck-frankenberg-aus-hessen-stellt-manager-reise-zu-scheinreferenden-frei-a-521d4d40-b9d0-44fb-8ac4-8826c27fd054#ref=rss)
-* [https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-auf-rtl-unappetitliches-ackern-auf-der-sozialgaerstation](https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-auf-rtl-unappetitliches-ackern-auf-der-sozialgaerstation-a-86b7786d-f243-44e1-9917-287bf224c8ef#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-energie-waldeck-frankenberg-aus-hessen-stellt-manager-reise-zu-scheinreferenden-frei](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-energie-waldeck-frankenberg-aus-hessen-stellt-manager-reise-zu-scheinreferenden-frei-a-521d4d40-b9d0-44fb-8ac4-8826c27fd054#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland-a-9e593272-2202-406c-b9a1-1b8ad5a85d91#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-energie-waldeck-frankenberg-aus-hessen-stellt-manager-reise-zu-scheinreferenden-frei](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-energie-waldeck-frankenberg-aus-hessen-stellt-manager-reise-zu-scheinreferenden-frei-a-521d4d40-b9d0-44fb-8ac4-8826c27fd054#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland-a-9e593272-2202-406c-b9a1-1b8ad5a85d91#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-energie-waldeck-frankenberg-aus-hessen-stellt-manager-reise-zu-scheinreferenden-frei](https://www.spiegel.de/politik/deutschland/russland-ukraine-krieg-energie-waldeck-frankenberg-aus-hessen-stellt-manager-reise-zu-scheinreferenden-frei-a-521d4d40-b9d0-44fb-8ac4-8826c27fd054#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland-a-9e593272-2202-406c-b9a1-1b8ad5a85d91#ref=rss)
-### christian
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-bringt-erstmals-direkt-gaspreisbremse-ins-spiel](https://www.spiegel.de/politik/deutschland/christian-lindner-bringt-erstmals-direkt-gaspreisbremse-ins-spiel-a-21f8e397-cbf4-4cb8-96f3-04d6564fd5a6#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-bringt-erstmals-direkt-gaspreisbremse-ins-spiel](https://www.spiegel.de/politik/deutschland/christian-lindner-bringt-erstmals-direkt-gaspreisbremse-ins-spiel-a-21f8e397-cbf4-4cb8-96f3-04d6564fd5a6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-vorstandschef-alan-jope-will-ende-2023-gehen](https://www.spiegel.de/wirtschaft/unternehmen/unilever-vorstandschef-alan-jope-will-ende-2023-gehen-a-b4d9f547-9759-4d40-81d6-6eed6526fafd#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/ausland/kanada-hurrikan-fiona-hinterlaesst-verwuestungen](https://www.spiegel.de/ausland/kanada-hurrikan-fiona-hinterlaesst-verwuestungen-a-6cce7a49-38d2-4188-a26b-9f703ecdf065#ref=rss)
-### hurrikan
-
-* [https://www.spiegel.de/ausland/kanada-hurrikan-fiona-hinterlaesst-verwuestungen](https://www.spiegel.de/ausland/kanada-hurrikan-fiona-hinterlaesst-verwuestungen-a-6cce7a49-38d2-4188-a26b-9f703ecdf065#ref=rss)
-### fiona
-
-* [https://www.spiegel.de/ausland/kanada-hurrikan-fiona-hinterlaesst-verwuestungen](https://www.spiegel.de/ausland/kanada-hurrikan-fiona-hinterlaesst-verwuestungen-a-6cce7a49-38d2-4188-a26b-9f703ecdf065#ref=rss)
-### oecd
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland-a-9e593272-2202-406c-b9a1-1b8ad5a85d91#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland-a-9e593272-2202-406c-b9a1-1b8ad5a85d91#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-hohe-gaspreise-verteuern-duengemittel-kraeftig-absatz-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-hohe-gaspreise-verteuern-duengemittel-kraeftig-absatz-eingebrochen-a-53dfab09-68de-4e32-8b61-6d7b475660e9#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland-a-9e593272-2202-406c-b9a1-1b8ad5a85d91#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-ralf-rangnicks-oesterreicher-steigen-ab-frankreich-rettet-sich](https://www.spiegel.de/sport/fussball/nations-league-ralf-rangnicks-oesterreicher-steigen-ab-frankreich-rettet-sich-a-287eda59-2cf2-4ca2-ab27-12f58c3549fe#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/auch-die-oecd-rechnet-mit-rezession-in-deutschland-a-9e593272-2202-406c-b9a1-1b8ad5a85d91#ref=rss)
-* [https://www.spiegel.de/wirtschaft/ifo-geschaeftsklima-verschlechtert-sich-deutlich](https://www.spiegel.de/wirtschaft/ifo-geschaeftsklima-verschlechtert-sich-deutlich-a-c0dba118-834d-49c3-a36a-112b42aa33b5#ref=rss)
-### dakumfrage
-
-* [https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig](https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig-a-f40cc0ea-fae1-4d03-8da8-de1dca965d29#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig](https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig-a-f40cc0ea-fae1-4d03-8da8-de1dca965d29#ref=rss)
-### drittel
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage](https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage-a-441e0873-69e1-4cb6-a022-d7e8f82be159#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-torwart-marc-andre-ter-stegen-die-nummer-eins-die-die-nummer-zwei-ist](https://www.spiegel.de/sport/fussball/dfb-torwart-marc-andre-ter-stegen-die-nummer-eins-die-die-nummer-zwei-ist-a-087e777a-3b9e-4051-9e44-57a5e87724f6#ref=rss)
+* [https://www.spiegel.de/panorama/norwegen-toedliche-schuesse-vor-pride-parade-in-oslo-ermittler-nehmen-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/norwegen-toedliche-schuesse-vor-pride-parade-in-oslo-ermittler-nehmen-zwei-tatverdaechtige-fest-a-f45e268d-ccb0-444e-a891-73b03d943e24#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/suedlicher-schneeferner-deutschland-ist-ein-gletscher-weggeschmolzen](https://www.spiegel.de/wissenschaft/natur/suedlicher-schneeferner-deutschland-ist-ein-gletscher-weggeschmolzen-a-8d3907e0-4aa8-4f57-93c3-9567e65ea30a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hagen-kollegen-waehrend-schiesserei-allein-gelassen-polizistinnen-kaempfen-in-berufungsverfahren-um-ihren-job](https://www.spiegel.de/panorama/justiz/hagen-kollegen-waehrend-schiesserei-allein-gelassen-polizistinnen-kaempfen-in-berufungsverfahren-um-ihren-job-a-64969100-ad4f-43cc-8b33-fec88b7d16c7#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig](https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig-a-f40cc0ea-fae1-4d03-8da8-de1dca965d29#ref=rss)
-### bewegen
+* [https://www.spiegel.de/ausland/russland-kriegsdienstverweigerer-soll-sich-selbst-angezuendet-haben](https://www.spiegel.de/ausland/russland-kriegsdienstverweigerer-soll-sich-selbst-angezuendet-haben-a-7a9eda43-e68c-4688-a752-4c9bc9d1aef8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/jupiter-heute-in-der-nacht-vielleicht-das-hellste-himmelsobjekt-neben-dem-mond](https://www.spiegel.de/wissenschaft/weltall/jupiter-heute-in-der-nacht-vielleicht-das-hellste-himmelsobjekt-neben-dem-mond-a-9da51252-0ca9-4d2d-986f-73f8f056bac5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz-a-b9491d01-ca63-4a8b-909b-928f95e17b50#ref=rss)
+* [https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen](https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen-a-6d0caf6a-1ceb-44b0-aefb-09fe04fb6601#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-torwart-marc-andre-ter-stegen-die-nummer-eins-die-die-nummer-zwei-ist](https://www.spiegel.de/sport/fussball/dfb-torwart-marc-andre-ter-stegen-die-nummer-eins-die-die-nummer-zwei-ist-a-087e777a-3b9e-4051-9e44-57a5e87724f6#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig](https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig-a-f40cc0ea-fae1-4d03-8da8-de1dca965d29#ref=rss)
-### besonders
+* [https://www.spiegel.de/ausland/belgien-verdaechtiges-paket-vor-wohnhaus-des-justizministers-entdeckt](https://www.spiegel.de/ausland/belgien-verdaechtiges-paket-vor-wohnhaus-des-justizministers-entdeckt-a-f9b43b48-1d10-4254-ac21-d7e238bde6ca#ref=rss)
+* [https://www.spiegel.de/panorama/muenchner-oktoberfest-polizei-fahndet-nach-messerstecher-von-der-wiesn](https://www.spiegel.de/panorama/muenchner-oktoberfest-polizei-fahndet-nach-messerstecher-von-der-wiesn-a-dc67b155-62d3-4a03-9648-0582d8033152#ref=rss)
+* [https://www.spiegel.de/panorama/norwegen-toedliche-schuesse-vor-pride-parade-in-oslo-ermittler-nehmen-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/norwegen-toedliche-schuesse-vor-pride-parade-in-oslo-ermittler-nehmen-zwei-tatverdaechtige-fest-a-f45e268d-ccb0-444e-a891-73b03d943e24#ref=rss)
+### männer
 
-* [https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig](https://www.spiegel.de/panorama/bildung/dak-umfrage-zwei-drittel-aller-schulkinder-bewegen-sich-zu-wenig-a-f40cc0ea-fae1-4d03-8da8-de1dca965d29#ref=rss)
+* [https://www.spiegel.de/ausland/mobilmachung-in-russland-maenner-fliehen-vor-der-einberufung-nach-georgien](https://www.spiegel.de/ausland/mobilmachung-in-russland-maenner-fliehen-vor-der-einberufung-nach-georgien-a-5b07c264-c7b9-4550-9cd9-feebfa9d986f#ref=rss)
+* [https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen](https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen-a-6d0caf6a-1ceb-44b0-aefb-09fe04fb6601#ref=rss)
+* [https://www.spiegel.de/panorama/norwegen-toedliche-schuesse-vor-pride-parade-in-oslo-ermittler-nehmen-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/norwegen-toedliche-schuesse-vor-pride-parade-in-oslo-ermittler-nehmen-zwei-tatverdaechtige-fest-a-f45e268d-ccb0-444e-a891-73b03d943e24#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/russland-kriegsdienstverweigerer-soll-sich-selbst-angezuendet-haben](https://www.spiegel.de/ausland/russland-kriegsdienstverweigerer-soll-sich-selbst-angezuendet-haben-a-7a9eda43-e68c-4688-a752-4c9bc9d1aef8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage](https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage-a-441e0873-69e1-4cb6-a022-d7e8f82be159#ref=rss)
+* [https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen](https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen-a-6d0caf6a-1ceb-44b0-aefb-09fe04fb6601#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/corona-lebenszufriedenheit-von-abiturienten-waehrend-pandemie-ueberdurchschnittlich-gesunken](https://www.spiegel.de/panorama/bildung/corona-lebenszufriedenheit-von-abiturienten-waehrend-pandemie-ueberdurchschnittlich-gesunken-a-0f195c48-6809-4426-9e1d-0361955a6a44#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/wladimir-putin-verleiht-edward-snowden-die-russische-staatsbuergerschaft](https://www.spiegel.de/ausland/wladimir-putin-verleiht-edward-snowden-die-russische-staatsbuergerschaft-a-3e8744a4-5d6b-4117-aa14-960e749cfc97#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen](https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen-a-9ef4e7b2-7896-4de4-b8b0-8dbad65cbb96#ref=rss)
+### sanktionen
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran](https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran-a-dd4e7dca-d8d7-4fcc-9cac-1d2161e5e79b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen](https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen-a-9ef4e7b2-7896-4de4-b8b0-8dbad65cbb96#ref=rss)
 * [https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer](https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer-a-1c6234da-b861-4174-a094-4d6b37d56e76#ref=rss)
-### mobilmachung
+### olaf
 
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage](https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage-a-441e0873-69e1-4cb6-a022-d7e8f82be159#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz-a-b9491d01-ca63-4a8b-909b-928f95e17b50#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage](https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage-a-441e0873-69e1-4cb6-a022-d7e8f82be159#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz-a-b9491d01-ca63-4a8b-909b-928f95e17b50#ref=rss)
+### deutlich
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage](https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage-a-441e0873-69e1-4cb6-a022-d7e8f82be159#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/corona-lebenszufriedenheit-von-abiturienten-waehrend-pandemie-ueberdurchschnittlich-gesunken](https://www.spiegel.de/panorama/bildung/corona-lebenszufriedenheit-von-abiturienten-waehrend-pandemie-ueberdurchschnittlich-gesunken-a-0f195c48-6809-4426-9e1d-0361955a6a44#ref=rss)
+* [https://www.spiegel.de/wirtschaft/flughaefen-zahl-der-flugpassagiere-legt-kraeftig-zu](https://www.spiegel.de/wirtschaft/flughaefen-zahl-der-flugpassagiere-legt-kraeftig-zu-a-ac45a2b7-1a3d-4205-90d4-ba526b3a39b9#ref=rss)
+### münchner
+
+* [https://www.spiegel.de/panorama/muenchner-oktoberfest-polizei-fahndet-nach-messerstecher-von-der-wiesn](https://www.spiegel.de/panorama/muenchner-oktoberfest-polizei-fahndet-nach-messerstecher-von-der-wiesn-a-dc67b155-62d3-4a03-9648-0582d8033152#ref=rss)
+* [https://www.spiegel.de/panorama/muenchner-flughafen-lebensgefaehrlich-erkrankter-vor-abflug-bewahrt](https://www.spiegel.de/panorama/muenchner-flughafen-lebensgefaehrlich-erkrankter-vor-abflug-bewahrt-a-1deca6dd-b4f3-4689-9cde-dd7a3afae7c9#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/wladimir-putin-verleiht-edward-snowden-die-russische-staatsbuergerschaft](https://www.spiegel.de/ausland/wladimir-putin-verleiht-edward-snowden-die-russische-staatsbuergerschaft-a-3e8744a4-5d6b-4117-aa14-960e749cfc97#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen](https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen-a-9ef4e7b2-7896-4de4-b8b0-8dbad65cbb96#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/wladimir-putin-verleiht-edward-snowden-die-russische-staatsbuergerschaft](https://www.spiegel.de/ausland/wladimir-putin-verleiht-edward-snowden-die-russische-staatsbuergerschaft-a-3e8744a4-5d6b-4117-aa14-960e749cfc97#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen](https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen-a-9ef4e7b2-7896-4de4-b8b0-8dbad65cbb96#ref=rss)
 * [https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer](https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer-a-1c6234da-b861-4174-a094-4d6b37d56e76#ref=rss)
-### dagestan
+### giorgia
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer](https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer-a-1c6234da-b861-4174-a094-4d6b37d56e76#ref=rss)
-### russlands
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz-a-b9491d01-ca63-4a8b-909b-928f95e17b50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/italien-wahl-warum-cdu-und-csu-besonders-mit-melonis-sieg-hadern](https://www.spiegel.de/politik/deutschland/italien-wahl-warum-cdu-und-csu-besonders-mit-melonis-sieg-hadern-a-db014f43-f4dc-4716-9516-26a813a2ab04#ref=rss)
+### italien
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer](https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer-a-1c6234da-b861-4174-a094-4d6b37d56e76#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ischewsk-mehrere-tote-bei-schusswaffenangriff-in-schule](https://www.spiegel.de/panorama/justiz/ischewsk-mehrere-tote-bei-schusswaffenangriff-in-schule-a-e42b5181-77f5-4461-a558-b2648a09befb#ref=rss)
-### russen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz-a-b9491d01-ca63-4a8b-909b-928f95e17b50#ref=rss)
+* [https://www.spiegel.de/ausland/italien-markus-soeder-csu-verteilt-rueffel-wegen-unterstuetzung-fuer-silvio-berlusconi](https://www.spiegel.de/ausland/italien-markus-soeder-csu-verteilt-rueffel-wegen-unterstuetzung-fuer-silvio-berlusconi-a-22649a92-ff56-4f59-9ce4-c325d52de975#ref=rss)
+### csu
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer](https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer-a-1c6234da-b861-4174-a094-4d6b37d56e76#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-mann-schiesst-in-russischem-einberufungsamt-auf-militaerkommissar](https://www.spiegel.de/ausland/russland-ukraine-krieg-mann-schiesst-in-russischem-einberufungsamt-auf-militaerkommissar-a-2b4ccf6d-977f-483b-b264-7e12d8e87bb3#ref=rss)
-### deutschen
+* [https://www.spiegel.de/politik/deutschland/italien-wahl-warum-cdu-und-csu-besonders-mit-melonis-sieg-hadern](https://www.spiegel.de/politik/deutschland/italien-wahl-warum-cdu-und-csu-besonders-mit-melonis-sieg-hadern-a-db014f43-f4dc-4716-9516-26a813a2ab04#ref=rss)
+* [https://www.spiegel.de/ausland/italien-markus-soeder-csu-verteilt-rueffel-wegen-unterstuetzung-fuer-silvio-berlusconi](https://www.spiegel.de/ausland/italien-markus-soeder-csu-verteilt-rueffel-wegen-unterstuetzung-fuer-silvio-berlusconi-a-22649a92-ff56-4f59-9ce4-c325d52de975#ref=rss)
+### gletscher
 
-* [https://www.spiegel.de/wirtschaft/ifo-geschaeftsklima-verschlechtert-sich-deutlich](https://www.spiegel.de/wirtschaft/ifo-geschaeftsklima-verschlechtert-sich-deutlich-a-c0dba118-834d-49c3-a36a-112b42aa33b5#ref=rss)
-* [https://www.spiegel.de/panorama/synodaler-weg-bischof-baetzing-will-reformen-nicht-von-konservativen-blockieren-lassen](https://www.spiegel.de/panorama/synodaler-weg-bischof-baetzing-will-reformen-nicht-von-konservativen-blockieren-lassen-a-ac8635b2-9dd1-4c77-a7bf-a73d33d06535#ref=rss)
-### continental
+* [https://www.spiegel.de/wissenschaft/natur/suedlicher-schneeferner-deutschland-ist-ein-gletscher-weggeschmolzen](https://www.spiegel.de/wissenschaft/natur/suedlicher-schneeferner-deutschland-ist-ein-gletscher-weggeschmolzen-a-8d3907e0-4aa8-4f57-93c3-9567e65ea30a#ref=rss)
+### verdächtiges
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-klimaanlagen-skandal-continental-hat-auch-bei-wasser-und-tankschlaeuchen-gepfuscht](https://www.spiegel.de/wirtschaft/unternehmen/nach-klimaanlagen-skandal-continental-hat-auch-bei-wasser-und-tankschlaeuchen-gepfuscht-a-7f01ce57-664b-4938-9147-14af4536f698#ref=rss)
-### sommerhaus
+* [https://www.spiegel.de/ausland/belgien-verdaechtiges-paket-vor-wohnhaus-des-justizministers-entdeckt](https://www.spiegel.de/ausland/belgien-verdaechtiges-paket-vor-wohnhaus-des-justizministers-entdeckt-a-f9b43b48-1d10-4254-ac21-d7e238bde6ca#ref=rss)
+### paket
 
-* [https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-auf-rtl-unappetitliches-ackern-auf-der-sozialgaerstation](https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-auf-rtl-unappetitliches-ackern-auf-der-sozialgaerstation-a-86b7786d-f243-44e1-9917-287bf224c8ef#ref=rss)
-### stars
-
-* [https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-auf-rtl-unappetitliches-ackern-auf-der-sozialgaerstation](https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-auf-rtl-unappetitliches-ackern-auf-der-sozialgaerstation-a-86b7786d-f243-44e1-9917-287bf224c8ef#ref=rss)
-### fast
-
-* [https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-auf-rtl-unappetitliches-ackern-auf-der-sozialgaerstation](https://www.spiegel.de/kultur/tv/sommerhaus-der-stars-auf-rtl-unappetitliches-ackern-auf-der-sozialgaerstation-a-86b7786d-f243-44e1-9917-287bf224c8ef#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/italien-mailaender-boerse-reagiert-kaum-auf-rechten-wahlsieg](https://www.spiegel.de/wirtschaft/unternehmen/italien-mailaender-boerse-reagiert-kaum-auf-rechten-wahlsieg-a-d3594e01-e4dd-4874-b881-a312aa5c7c8f#ref=rss)
-### kalifornien
-
-* [https://www.spiegel.de/wissenschaft/natur/kalifornien-maeuse-beeinflussen-das-oekosystem-weil-sie-hungrig-sind](https://www.spiegel.de/wissenschaft/natur/kalifornien-maeuse-beeinflussen-das-oekosystem-weil-sie-hungrig-sind-a-36ace482-6f11-485e-a8f8-b263ce2e8c61#ref=rss)
-### mäuse
-
-* [https://www.spiegel.de/wissenschaft/natur/kalifornien-maeuse-beeinflussen-das-oekosystem-weil-sie-hungrig-sind](https://www.spiegel.de/wissenschaft/natur/kalifornien-maeuse-beeinflussen-das-oekosystem-weil-sie-hungrig-sind-a-36ace482-6f11-485e-a8f8-b263ce2e8c61#ref=rss)
-### rolle
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/italien-mailaender-boerse-reagiert-kaum-auf-rechten-wahlsieg](https://www.spiegel.de/wirtschaft/unternehmen/italien-mailaender-boerse-reagiert-kaum-auf-rechten-wahlsieg-a-d3594e01-e4dd-4874-b881-a312aa5c7c8f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/italien-wahl-die-neue-rechts-koalition-wird-geld-verteilen-das-italien-nicht-hat](https://www.spiegel.de/wirtschaft/italien-wahl-die-neue-rechts-koalition-wird-geld-verteilen-das-italien-nicht-hat-a-17d3d849-af9d-4ea1-833b-f5c5e30b49b3#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-will-einhaltung-von-grundrechten-in-italien-genau-beobachten](https://www.spiegel.de/ausland/frankreich-will-einhaltung-von-grundrechten-in-italien-genau-beobachten-a-376e5b6a-7818-47be-82a7-776aad3a6734#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nations-league-ralf-rangnicks-oesterreicher-steigen-ab-frankreich-rettet-sich](https://www.spiegel.de/sport/fussball/nations-league-ralf-rangnicks-oesterreicher-steigen-ab-frankreich-rettet-sich-a-287eda59-2cf2-4ca2-ab27-12f58c3549fe#ref=rss)
-### genau
-
-* [https://www.spiegel.de/ausland/frankreich-will-einhaltung-von-grundrechten-in-italien-genau-beobachten](https://www.spiegel.de/ausland/frankreich-will-einhaltung-von-grundrechten-in-italien-genau-beobachten-a-376e5b6a-7818-47be-82a7-776aad3a6734#ref=rss)
-### positiv
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-positiv-auf-corona-getestet](https://www.spiegel.de/politik/deutschland/olaf-scholz-positiv-auf-corona-getestet-a-e55c1f9b-29e7-4f0a-92e1-0fd56d523c6e#ref=rss)
-### corona
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-positiv-auf-corona-getestet](https://www.spiegel.de/politik/deutschland/olaf-scholz-positiv-auf-corona-getestet-a-e55c1f9b-29e7-4f0a-92e1-0fd56d523c6e#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-den-emiraten-und-katar-kanzler-im-sumpf](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-saudi-arabien-den-emiraten-und-katar-kanzler-im-sumpf-a-c4bc85b0-e447-4c50-8e0e-26188fdc5176#ref=rss)
-* [https://www.spiegel.de/start/als-auslieferungsfahrer-arbeiten-nebenjobs-fuer-studierende-die-sich-lohnen](https://www.spiegel.de/start/als-auslieferungsfahrer-arbeiten-nebenjobs-fuer-studierende-die-sich-lohnen-a-a1695b84-74b7-4002-b524-a99cd0026364#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-mann-schiesst-in-russischem-einberufungsamt-auf-militaerkommissar](https://www.spiegel.de/ausland/russland-ukraine-krieg-mann-schiesst-in-russischem-einberufungsamt-auf-militaerkommissar-a-2b4ccf6d-977f-483b-b264-7e12d8e87bb3#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-mann-schiesst-in-russischem-einberufungsamt-auf-militaerkommissar](https://www.spiegel.de/ausland/russland-ukraine-krieg-mann-schiesst-in-russischem-einberufungsamt-auf-militaerkommissar-a-2b4ccf6d-977f-483b-b264-7e12d8e87bb3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-hohe-gaspreise-verteuern-duengemittel-kraeftig-absatz-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-hohe-gaspreise-verteuern-duengemittel-kraeftig-absatz-eingebrochen-a-53dfab09-68de-4e32-8b61-6d7b475660e9#ref=rss)
-### obiwan
-
-* [https://www.spiegel.de/netzwelt/web/obi-wan-kenobi-darth-vader-wird-schon-von-einer-kuenstlichen-intelligenz-gesprochen](https://www.spiegel.de/netzwelt/web/obi-wan-kenobi-darth-vader-wird-schon-von-einer-kuenstlichen-intelligenz-gesprochen-a-6c94406c-e486-4474-a88c-dac64deb5b28#ref=rss)
-### kenobi
-
-* [https://www.spiegel.de/netzwelt/web/obi-wan-kenobi-darth-vader-wird-schon-von-einer-kuenstlichen-intelligenz-gesprochen](https://www.spiegel.de/netzwelt/web/obi-wan-kenobi-darth-vader-wird-schon-von-einer-kuenstlichen-intelligenz-gesprochen-a-6c94406c-e486-4474-a88c-dac64deb5b28#ref=rss)
-### darth
-
-* [https://www.spiegel.de/netzwelt/web/obi-wan-kenobi-darth-vader-wird-schon-von-einer-kuenstlichen-intelligenz-gesprochen](https://www.spiegel.de/netzwelt/web/obi-wan-kenobi-darth-vader-wird-schon-von-einer-kuenstlichen-intelligenz-gesprochen-a-6c94406c-e486-4474-a88c-dac64deb5b28#ref=rss)
-### vader
-
-* [https://www.spiegel.de/netzwelt/web/obi-wan-kenobi-darth-vader-wird-schon-von-einer-kuenstlichen-intelligenz-gesprochen](https://www.spiegel.de/netzwelt/web/obi-wan-kenobi-darth-vader-wird-schon-von-einer-kuenstlichen-intelligenz-gesprochen-a-6c94406c-e486-4474-a88c-dac64deb5b28#ref=rss)
-### landwirtschaft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-hohe-gaspreise-verteuern-duengemittel-kraeftig-absatz-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-hohe-gaspreise-verteuern-duengemittel-kraeftig-absatz-eingebrochen-a-53dfab09-68de-4e32-8b61-6d7b475660e9#ref=rss)
-### gaspreise
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-hohe-gaspreise-verteuern-duengemittel-kraeftig-absatz-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-hohe-gaspreise-verteuern-duengemittel-kraeftig-absatz-eingebrochen-a-53dfab09-68de-4e32-8b61-6d7b475660e9#ref=rss)
-### absatz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-hohe-gaspreise-verteuern-duengemittel-kraeftig-absatz-eingebrochen](https://www.spiegel.de/wirtschaft/unternehmen/landwirtschaft-hohe-gaspreise-verteuern-duengemittel-kraeftig-absatz-eingebrochen-a-53dfab09-68de-4e32-8b61-6d7b475660e9#ref=rss)
-### reformen
-
-* [https://www.spiegel.de/panorama/synodaler-weg-bischof-baetzing-will-reformen-nicht-von-konservativen-blockieren-lassen](https://www.spiegel.de/panorama/synodaler-weg-bischof-baetzing-will-reformen-nicht-von-konservativen-blockieren-lassen-a-ac8635b2-9dd1-4c77-a7bf-a73d33d06535#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/panorama/synodaler-weg-bischof-baetzing-will-reformen-nicht-von-konservativen-blockieren-lassen](https://www.spiegel.de/panorama/synodaler-weg-bischof-baetzing-will-reformen-nicht-von-konservativen-blockieren-lassen-a-ac8635b2-9dd1-4c77-a7bf-a73d33d06535#ref=rss)
-* [https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt](https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt-a-ac7fd1f1-8592-464a-9a54-7251745899c4#ref=rss)
-### wagnersöldner
-
-* [https://www.spiegel.de/ausland/wladimir-putin-vertrauter-jewgeni-prigoschin-gesteht-gruendung-der-wagner-soeldner](https://www.spiegel.de/ausland/wladimir-putin-vertrauter-jewgeni-prigoschin-gesteht-gruendung-der-wagner-soeldner-a-3f685f4b-f1cb-4840-afbd-c88bd5b425c5#ref=rss)
+* [https://www.spiegel.de/ausland/belgien-verdaechtiges-paket-vor-wohnhaus-des-justizministers-entdeckt](https://www.spiegel.de/ausland/belgien-verdaechtiges-paket-vor-wohnhaus-des-justizministers-entdeckt-a-f9b43b48-1d10-4254-ac21-d7e238bde6ca#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/wirtschaft/italien-wahl-die-neue-rechts-koalition-wird-geld-verteilen-das-italien-nicht-hat](https://www.spiegel.de/wirtschaft/italien-wahl-die-neue-rechts-koalition-wird-geld-verteilen-das-italien-nicht-hat-a-17d3d849-af9d-4ea1-833b-f5c5e30b49b3#ref=rss)
-* [https://www.spiegel.de/karriere/bewerber-ghosting-wenn-der-neue-kollege-einfach-wegbleibt](https://www.spiegel.de/karriere/bewerber-ghosting-wenn-der-neue-kollege-einfach-wegbleibt-a-8f67f88f-c45d-4e4d-8ab5-17f0053f508a#ref=rss)
-### regierung
+* [https://www.spiegel.de/ausland/belgien-verdaechtiges-paket-vor-wohnhaus-des-justizministers-entdeckt](https://www.spiegel.de/ausland/belgien-verdaechtiges-paket-vor-wohnhaus-des-justizministers-entdeckt-a-f9b43b48-1d10-4254-ac21-d7e238bde6ca#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran](https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran-a-dd4e7dca-d8d7-4fcc-9cac-1d2161e5e79b#ref=rss)
+### volkswagen
 
-* [https://www.spiegel.de/wirtschaft/italien-wahl-die-neue-rechts-koalition-wird-geld-verteilen-das-italien-nicht-hat](https://www.spiegel.de/wirtschaft/italien-wahl-die-neue-rechts-koalition-wird-geld-verteilen-das-italien-nicht-hat-a-17d3d849-af9d-4ea1-833b-f5c5e30b49b3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-pfund-sterling-faellt-auf-rekordtief-zum-us-dollar](https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-pfund-sterling-faellt-auf-rekordtief-zum-us-dollar-a-d1811aa0-7398-4b78-a07a-d4bfc6bef895#ref=rss)
-### glaubt
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-und-umicore-investieren-milliarden-in-batterieproduktion](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-und-umicore-investieren-milliarden-in-batterieproduktion-a-ce43092f-1ebd-4172-8aed-e9bd78a60f97#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/wirtschaft/italien-wahl-die-neue-rechts-koalition-wird-geld-verteilen-das-italien-nicht-hat](https://www.spiegel.de/wirtschaft/italien-wahl-die-neue-rechts-koalition-wird-geld-verteilen-das-italien-nicht-hat-a-17d3d849-af9d-4ea1-833b-f5c5e30b49b3#ref=rss)
-* [https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt](https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt-a-ac7fd1f1-8592-464a-9a54-7251745899c4#ref=rss)
-### ischewsk
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-und-umicore-investieren-milliarden-in-batterieproduktion](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-und-umicore-investieren-milliarden-in-batterieproduktion-a-ce43092f-1ebd-4172-8aed-e9bd78a60f97#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/dart-mission-der-nasa-so-sieht-die-kollision-mit-einem-asteroiden-aus](https://www.spiegel.de/wissenschaft/weltall/dart-mission-der-nasa-so-sieht-die-kollision-mit-einem-asteroiden-aus-a-23d09e6c-7ccd-46e7-a639-bbfa93686768#ref=rss)
+### zukunft
 
-* [https://www.spiegel.de/panorama/justiz/ischewsk-mehrere-tote-bei-schusswaffenangriff-in-schule](https://www.spiegel.de/panorama/justiz/ischewsk-mehrere-tote-bei-schusswaffenangriff-in-schule-a-e42b5181-77f5-4461-a558-b2648a09befb#ref=rss)
-### mehrere
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-und-umicore-investieren-milliarden-in-batterieproduktion](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-und-umicore-investieren-milliarden-in-batterieproduktion-a-ce43092f-1ebd-4172-8aed-e9bd78a60f97#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hagen-kollegen-waehrend-schiesserei-allein-gelassen-polizistinnen-kaempfen-in-berufungsverfahren-um-ihren-job](https://www.spiegel.de/panorama/justiz/hagen-kollegen-waehrend-schiesserei-allein-gelassen-polizistinnen-kaempfen-in-berufungsverfahren-um-ihren-job-a-64969100-ad4f-43cc-8b33-fec88b7d16c7#ref=rss)
+### nasa
 
-* [https://www.spiegel.de/panorama/justiz/ischewsk-mehrere-tote-bei-schusswaffenangriff-in-schule](https://www.spiegel.de/panorama/justiz/ischewsk-mehrere-tote-bei-schusswaffenangriff-in-schule-a-e42b5181-77f5-4461-a558-b2648a09befb#ref=rss)
-### schule
+* [https://www.spiegel.de/wissenschaft/weltall/dart-mission-der-nasa-so-sieht-die-kollision-mit-einem-asteroiden-aus](https://www.spiegel.de/wissenschaft/weltall/dart-mission-der-nasa-so-sieht-die-kollision-mit-einem-asteroiden-aus-a-23d09e6c-7ccd-46e7-a639-bbfa93686768#ref=rss)
+### weltmeister
 
-* [https://www.spiegel.de/panorama/justiz/ischewsk-mehrere-tote-bei-schusswaffenangriff-in-schule](https://www.spiegel.de/panorama/justiz/ischewsk-mehrere-tote-bei-schusswaffenangriff-in-schule-a-e42b5181-77f5-4461-a558-b2648a09befb#ref=rss)
-### beginnen
+* [https://www.spiegel.de/sport/fussball/weltmeister-von-1954-nachlass-von-horst-eckel-wird-versteigert](https://www.spiegel.de/sport/fussball/weltmeister-von-1954-nachlass-von-horst-eckel-wird-versteigert-a-91f9bb5f-6e4e-4963-a8ad-f15c6fee7f38#ref=rss)
+### 1954
 
-* [https://www.spiegel.de/ausland/suedkorea-und-usa-beginnen-marinemanoever-zur-abschreckung-nordkoreas](https://www.spiegel.de/ausland/suedkorea-und-usa-beginnen-marinemanoever-zur-abschreckung-nordkoreas-a-c126618d-b18e-44d5-91cd-e00eca703055#ref=rss)
-### dahmer
+* [https://www.spiegel.de/sport/fussball/weltmeister-von-1954-nachlass-von-horst-eckel-wird-versteigert](https://www.spiegel.de/sport/fussball/weltmeister-von-1954-nachlass-von-horst-eckel-wird-versteigert-a-91f9bb5f-6e4e-4963-a8ad-f15c6fee7f38#ref=rss)
+### nachlass
 
-* [https://www.spiegel.de/kultur/netflix-serienkiller-serie-dahmer-kannibalismus-nekrophilie-und-daddy-issues](https://www.spiegel.de/kultur/netflix-serienkiller-serie-dahmer-kannibalismus-nekrophilie-und-daddy-issues-a-df360b66-ba0d-4ce9-8c9f-e8a0536492ad#ref=rss)
-### unilevervorstandschef
+* [https://www.spiegel.de/sport/fussball/weltmeister-von-1954-nachlass-von-horst-eckel-wird-versteigert](https://www.spiegel.de/sport/fussball/weltmeister-von-1954-nachlass-von-horst-eckel-wird-versteigert-a-91f9bb5f-6e4e-4963-a8ad-f15c6fee7f38#ref=rss)
+### horst
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-vorstandschef-alan-jope-will-ende-2023-gehen](https://www.spiegel.de/wirtschaft/unternehmen/unilever-vorstandschef-alan-jope-will-ende-2023-gehen-a-b4d9f547-9759-4d40-81d6-6eed6526fafd#ref=rss)
-### alan
+* [https://www.spiegel.de/sport/fussball/weltmeister-von-1954-nachlass-von-horst-eckel-wird-versteigert](https://www.spiegel.de/sport/fussball/weltmeister-von-1954-nachlass-von-horst-eckel-wird-versteigert-a-91f9bb5f-6e4e-4963-a8ad-f15c6fee7f38#ref=rss)
+### eckel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-vorstandschef-alan-jope-will-ende-2023-gehen](https://www.spiegel.de/wirtschaft/unternehmen/unilever-vorstandschef-alan-jope-will-ende-2023-gehen-a-b4d9f547-9759-4d40-81d6-6eed6526fafd#ref=rss)
-### jope
+* [https://www.spiegel.de/sport/fussball/weltmeister-von-1954-nachlass-von-horst-eckel-wird-versteigert](https://www.spiegel.de/sport/fussball/weltmeister-von-1954-nachlass-von-horst-eckel-wird-versteigert-a-91f9bb5f-6e4e-4963-a8ad-f15c6fee7f38#ref=rss)
+### einberufung
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/unilever-vorstandschef-alan-jope-will-ende-2023-gehen](https://www.spiegel.de/wirtschaft/unternehmen/unilever-vorstandschef-alan-jope-will-ende-2023-gehen-a-b4d9f547-9759-4d40-81d6-6eed6526fafd#ref=rss)
-### shirin
+* [https://www.spiegel.de/ausland/mobilmachung-in-russland-maenner-fliehen-vor-der-einberufung-nach-georgien](https://www.spiegel.de/ausland/mobilmachung-in-russland-maenner-fliehen-vor-der-einberufung-nach-georgien-a-5b07c264-c7b9-4550-9cd9-feebfa9d986f#ref=rss)
+* [https://www.spiegel.de/ausland/russland-kriegsdienstverweigerer-soll-sich-selbst-angezuendet-haben](https://www.spiegel.de/ausland/russland-kriegsdienstverweigerer-soll-sich-selbst-angezuendet-haben-a-7a9eda43-e68c-4688-a752-4c9bc9d1aef8#ref=rss)
+### georgien
 
-* [https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt](https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt-a-ac7fd1f1-8592-464a-9a54-7251745899c4#ref=rss)
-### neshat
+* [https://www.spiegel.de/ausland/mobilmachung-in-russland-maenner-fliehen-vor-der-einberufung-nach-georgien](https://www.spiegel.de/ausland/mobilmachung-in-russland-maenner-fliehen-vor-der-einberufung-nach-georgien-a-5b07c264-c7b9-4550-9cd9-feebfa9d986f#ref=rss)
+### lage
 
-* [https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt](https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt-a-ac7fd1f1-8592-464a-9a54-7251745899c4#ref=rss)
-### kampf
+* [https://www.spiegel.de/ausland/mobilmachung-in-russland-maenner-fliehen-vor-der-einberufung-nach-georgien](https://www.spiegel.de/ausland/mobilmachung-in-russland-maenner-fliehen-vor-der-einberufung-nach-georgien-a-5b07c264-c7b9-4550-9cd9-feebfa9d986f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz-a-b9491d01-ca63-4a8b-909b-928f95e17b50#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt](https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt-a-ac7fd1f1-8592-464a-9a54-7251745899c4#ref=rss)
-### frauen
+* [https://www.spiegel.de/ausland/russland-kriegsdienstverweigerer-soll-sich-selbst-angezuendet-haben](https://www.spiegel.de/ausland/russland-kriegsdienstverweigerer-soll-sich-selbst-angezuendet-haben-a-7a9eda43-e68c-4688-a752-4c9bc9d1aef8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nord-stream-2-sorge-ueber-moegliches-leck](https://www.spiegel.de/wirtschaft/nord-stream-2-sorge-ueber-moegliches-leck-a-42db687d-582f-4fc1-9e83-e310c94e889a#ref=rss)
+### sehen
 
-* [https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt](https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt-a-ac7fd1f1-8592-464a-9a54-7251745899c4#ref=rss)
-### tod
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage](https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage-a-441e0873-69e1-4cb6-a022-d7e8f82be159#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/jupiter-heute-in-der-nacht-vielleicht-das-hellste-himmelsobjekt-neben-dem-mond](https://www.spiegel.de/wissenschaft/weltall/jupiter-heute-in-der-nacht-vielleicht-das-hellste-himmelsobjekt-neben-dem-mond-a-9da51252-0ca9-4d2d-986f-73f8f056bac5#ref=rss)
+### legt
 
-* [https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt](https://www.spiegel.de/kultur/exil-iranerin-shirin-neshat-ueber-proteste-in-iran-ihr-kampf-ist-der-kampf-aller-frauen-in-der-welt-a-ac7fd1f1-8592-464a-9a54-7251745899c4#ref=rss)
-### steigende
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage](https://www.spiegel.de/politik/deutschland/friedrich-merz-ueberholt-robert-habeck-bei-kanzlerfrage-umfrage-a-441e0873-69e1-4cb6-a022-d7e8f82be159#ref=rss)
+* [https://www.spiegel.de/wirtschaft/flughaefen-zahl-der-flugpassagiere-legt-kraeftig-zu](https://www.spiegel.de/wirtschaft/flughaefen-zahl-der-flugpassagiere-legt-kraeftig-zu-a-ac45a2b7-1a3d-4205-90d4-ba526b3a39b9#ref=rss)
+### jupiter
 
-* [https://www.spiegel.de/wirtschaft/steigende-preise-und-armut-ich-esse-das-was-die-kinder-uebrig-lassen](https://www.spiegel.de/wirtschaft/steigende-preise-und-armut-ich-esse-das-was-die-kinder-uebrig-lassen-a-6dea127c-b8a9-49e0-9bc2-b3554c7b0ccc#ref=rss)
-### österreich
+* [https://www.spiegel.de/wissenschaft/weltall/jupiter-heute-in-der-nacht-vielleicht-das-hellste-himmelsobjekt-neben-dem-mond](https://www.spiegel.de/wissenschaft/weltall/jupiter-heute-in-der-nacht-vielleicht-das-hellste-himmelsobjekt-neben-dem-mond-a-9da51252-0ca9-4d2d-986f-73f8f056bac5#ref=rss)
+### westen
 
-* [https://www.spiegel.de/sport/fussball/nations-league-ralf-rangnicks-oesterreicher-steigen-ab-frankreich-rettet-sich](https://www.spiegel.de/sport/fussball/nations-league-ralf-rangnicks-oesterreicher-steigen-ab-frankreich-rettet-sich-a-287eda59-2cf2-4ca2-ab27-12f58c3549fe#ref=rss)
-### steigt
+* [https://www.spiegel.de/wissenschaft/weltall/jupiter-heute-in-der-nacht-vielleicht-das-hellste-himmelsobjekt-neben-dem-mond](https://www.spiegel.de/wissenschaft/weltall/jupiter-heute-in-der-nacht-vielleicht-das-hellste-himmelsobjekt-neben-dem-mond-a-9da51252-0ca9-4d2d-986f-73f8f056bac5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen](https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen-a-9ef4e7b2-7896-4de4-b8b0-8dbad65cbb96#ref=rss)
+### osten
 
-* [https://www.spiegel.de/sport/fussball/nations-league-ralf-rangnicks-oesterreicher-steigen-ab-frankreich-rettet-sich](https://www.spiegel.de/sport/fussball/nations-league-ralf-rangnicks-oesterreicher-steigen-ab-frankreich-rettet-sich-a-287eda59-2cf2-4ca2-ab27-12f58c3549fe#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/jupiter-heute-in-der-nacht-vielleicht-das-hellste-himmelsobjekt-neben-dem-mond](https://www.spiegel.de/wissenschaft/weltall/jupiter-heute-in-der-nacht-vielleicht-das-hellste-himmelsobjekt-neben-dem-mond-a-9da51252-0ca9-4d2d-986f-73f8f056bac5#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer](https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer-a-1c6234da-b861-4174-a094-4d6b37d56e76#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/wirtschaft/grossbritannien-das-pfund-stuerzt-ab-dem-land-droht-die-schuldenfalle](https://www.spiegel.de/wirtschaft/grossbritannien-das-pfund-stuerzt-ab-dem-land-droht-die-schuldenfalle-a-3e3530e4-0a3c-46b5-9d1c-94a6f71662e5#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer](https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer-a-1c6234da-b861-4174-a094-4d6b37d56e76#ref=rss)
 ### pfund
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-pfund-sterling-faellt-auf-rekordtief-zum-us-dollar](https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-pfund-sterling-faellt-auf-rekordtief-zum-us-dollar-a-d1811aa0-7398-4b78-a07a-d4bfc6bef895#ref=rss)
+* [https://www.spiegel.de/wirtschaft/grossbritannien-das-pfund-stuerzt-ab-dem-land-droht-die-schuldenfalle](https://www.spiegel.de/wirtschaft/grossbritannien-das-pfund-stuerzt-ab-dem-land-droht-die-schuldenfalle-a-3e3530e4-0a3c-46b5-9d1c-94a6f71662e5#ref=rss)
+### land
+
+* [https://www.spiegel.de/wirtschaft/grossbritannien-das-pfund-stuerzt-ab-dem-land-droht-die-schuldenfalle](https://www.spiegel.de/wirtschaft/grossbritannien-das-pfund-stuerzt-ab-dem-land-droht-die-schuldenfalle-a-3e3530e4-0a3c-46b5-9d1c-94a6f71662e5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran](https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran-a-dd4e7dca-d8d7-4fcc-9cac-1d2161e5e79b#ref=rss)
+### gut
+
+* [https://www.spiegel.de/wirtschaft/grossbritannien-das-pfund-stuerzt-ab-dem-land-droht-die-schuldenfalle](https://www.spiegel.de/wirtschaft/grossbritannien-das-pfund-stuerzt-ab-dem-land-droht-die-schuldenfalle-a-3e3530e4-0a3c-46b5-9d1c-94a6f71662e5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/nord-stream-2-sorge-ueber-moegliches-leck](https://www.spiegel.de/wirtschaft/nord-stream-2-sorge-ueber-moegliches-leck-a-42db687d-582f-4fc1-9e83-e310c94e889a#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/wirtschaft/grossbritannien-das-pfund-stuerzt-ab-dem-land-droht-die-schuldenfalle](https://www.spiegel.de/wirtschaft/grossbritannien-das-pfund-stuerzt-ab-dem-land-droht-die-schuldenfalle-a-3e3530e4-0a3c-46b5-9d1c-94a6f71662e5#ref=rss)
+* [https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen](https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen-a-6d0caf6a-1ceb-44b0-aefb-09fe04fb6601#ref=rss)
+### edward
+
+* [https://www.spiegel.de/ausland/wladimir-putin-verleiht-edward-snowden-die-russische-staatsbuergerschaft](https://www.spiegel.de/ausland/wladimir-putin-verleiht-edward-snowden-die-russische-staatsbuergerschaft-a-3e8744a4-5d6b-4117-aa14-960e749cfc97#ref=rss)
+### snowden
+
+* [https://www.spiegel.de/ausland/wladimir-putin-verleiht-edward-snowden-die-russische-staatsbuergerschaft](https://www.spiegel.de/ausland/wladimir-putin-verleiht-edward-snowden-die-russische-staatsbuergerschaft-a-3e8744a4-5d6b-4117-aa14-960e749cfc97#ref=rss)
+### news
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz-a-b9491d01-ca63-4a8b-909b-928f95e17b50#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer](https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer-a-1c6234da-b861-4174-a094-4d6b37d56e76#ref=rss)
+### italienwahl
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz-a-b9491d01-ca63-4a8b-909b-928f95e17b50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/italien-wahl-warum-cdu-und-csu-besonders-mit-melonis-sieg-hadern](https://www.spiegel.de/politik/deutschland/italien-wahl-warum-cdu-und-csu-besonders-mit-melonis-sieg-hadern-a-db014f43-f4dc-4716-9516-26a813a2ab04#ref=rss)
+### meloni
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz-a-b9491d01-ca63-4a8b-909b-928f95e17b50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/italien-wahl-warum-cdu-und-csu-besonders-mit-melonis-sieg-hadern](https://www.spiegel.de/politik/deutschland/italien-wahl-warum-cdu-und-csu-besonders-mit-melonis-sieg-hadern-a-db014f43-f4dc-4716-9516-26a813a2ab04#ref=rss)
+### iran
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz-a-b9491d01-ca63-4a8b-909b-928f95e17b50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran](https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran-a-dd4e7dca-d8d7-4fcc-9cac-1d2161e5e79b#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz-a-b9491d01-ca63-4a8b-909b-928f95e17b50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-spd-will-feldjaeger-motto-jedem-das-seine-beibehalten](https://www.spiegel.de/politik/deutschland/christine-lambrecht-spd-will-feldjaeger-motto-jedem-das-seine-beibehalten-a-63fa87b6-1347-4b40-87f0-8751d25c49e2#ref=rss)
+### landes
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz-a-b9491d01-ca63-4a8b-909b-928f95e17b50#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer](https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer-a-1c6234da-b861-4174-a094-4d6b37d56e76#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz](https://www.spiegel.de/politik/deutschland/news-des-tages-italien-wahl-giorgia-meloni-proteste-in-iran-olaf-scholz-a-b9491d01-ca63-4a8b-909b-928f95e17b50#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran](https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran-a-dd4e7dca-d8d7-4fcc-9cac-1d2161e5e79b#ref=rss)
+### lambrecht
+
+* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-spd-will-feldjaeger-motto-jedem-das-seine-beibehalten](https://www.spiegel.de/politik/deutschland/christine-lambrecht-spd-will-feldjaeger-motto-jedem-das-seine-beibehalten-a-63fa87b6-1347-4b40-87f0-8751d25c49e2#ref=rss)
+### feldjägermotto
+
+* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-spd-will-feldjaeger-motto-jedem-das-seine-beibehalten](https://www.spiegel.de/politik/deutschland/christine-lambrecht-spd-will-feldjaeger-motto-jedem-das-seine-beibehalten-a-63fa87b6-1347-4b40-87f0-8751d25c49e2#ref=rss)
+### jedem
+
+* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-spd-will-feldjaeger-motto-jedem-das-seine-beibehalten](https://www.spiegel.de/politik/deutschland/christine-lambrecht-spd-will-feldjaeger-motto-jedem-das-seine-beibehalten-a-63fa87b6-1347-4b40-87f0-8751d25c49e2#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/politik/deutschland/italien-wahl-warum-cdu-und-csu-besonders-mit-melonis-sieg-hadern](https://www.spiegel.de/politik/deutschland/italien-wahl-warum-cdu-und-csu-besonders-mit-melonis-sieg-hadern-a-db014f43-f4dc-4716-9516-26a813a2ab04#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/porsche-aktien-duerften-maximalen-preis-erzielen](https://www.spiegel.de/wirtschaft/unternehmen/porsche-aktien-duerften-maximalen-preis-erzielen-a-5898cb06-7e26-4f57-82e6-04b54ce8ff14#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/italien-wahl-warum-cdu-und-csu-besonders-mit-melonis-sieg-hadern](https://www.spiegel.de/politik/deutschland/italien-wahl-warum-cdu-und-csu-besonders-mit-melonis-sieg-hadern-a-db014f43-f4dc-4716-9516-26a813a2ab04#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran](https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran-a-dd4e7dca-d8d7-4fcc-9cac-1d2161e5e79b#ref=rss)
+### dagestan
+
+* [https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen](https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen-a-6d0caf6a-1ceb-44b0-aefb-09fe04fb6601#ref=rss)
+### aktivisten
+
+* [https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen](https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen-a-6d0caf6a-1ceb-44b0-aefb-09fe04fb6601#ref=rss)
+### kreml
+
+* [https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen](https://www.spiegel.de/ausland/dagestan-aktivisten-berichten-ueber-mehr-als-hundert-festnahmen-a-6d0caf6a-1ceb-44b0-aefb-09fe04fb6601#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen](https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen-a-9ef4e7b2-7896-4de4-b8b0-8dbad65cbb96#ref=rss)
+### ter
+
+* [https://www.spiegel.de/sport/fussball/dfb-torwart-marc-andre-ter-stegen-die-nummer-eins-die-die-nummer-zwei-ist](https://www.spiegel.de/sport/fussball/dfb-torwart-marc-andre-ter-stegen-die-nummer-eins-die-die-nummer-zwei-ist-a-087e777a-3b9e-4051-9e44-57a5e87724f6#ref=rss)
+### stegen
+
+* [https://www.spiegel.de/sport/fussball/dfb-torwart-marc-andre-ter-stegen-die-nummer-eins-die-die-nummer-zwei-ist](https://www.spiegel.de/sport/fussball/dfb-torwart-marc-andre-ter-stegen-die-nummer-eins-die-die-nummer-zwei-ist-a-087e777a-3b9e-4051-9e44-57a5e87724f6#ref=rss)
+### nummer
+
+* [https://www.spiegel.de/sport/fussball/dfb-torwart-marc-andre-ter-stegen-die-nummer-eins-die-die-nummer-zwei-ist](https://www.spiegel.de/sport/fussball/dfb-torwart-marc-andre-ter-stegen-die-nummer-eins-die-die-nummer-zwei-ist-a-087e777a-3b9e-4051-9e44-57a5e87724f6#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/sport/fussball/dfb-torwart-marc-andre-ter-stegen-die-nummer-eins-die-die-nummer-zwei-ist](https://www.spiegel.de/sport/fussball/dfb-torwart-marc-andre-ter-stegen-die-nummer-eins-die-die-nummer-zwei-ist-a-087e777a-3b9e-4051-9e44-57a5e87724f6#ref=rss)
+* [https://www.spiegel.de/panorama/muenchner-flughafen-lebensgefaehrlich-erkrankter-vor-abflug-bewahrt](https://www.spiegel.de/panorama/muenchner-flughafen-lebensgefaehrlich-erkrankter-vor-abflug-bewahrt-a-1deca6dd-b4f3-4689-9cde-dd7a3afae7c9#ref=rss)
+### davon
+
+* [https://www.spiegel.de/panorama/muenchner-flughafen-lebensgefaehrlich-erkrankter-vor-abflug-bewahrt](https://www.spiegel.de/panorama/muenchner-flughafen-lebensgefaehrlich-erkrankter-vor-abflug-bewahrt-a-1deca6dd-b4f3-4689-9cde-dd7a3afae7c9#ref=rss)
+### corona
+
+* [https://www.spiegel.de/panorama/bildung/corona-lebenszufriedenheit-von-abiturienten-waehrend-pandemie-ueberdurchschnittlich-gesunken](https://www.spiegel.de/panorama/bildung/corona-lebenszufriedenheit-von-abiturienten-waehrend-pandemie-ueberdurchschnittlich-gesunken-a-0f195c48-6809-4426-9e1d-0361955a6a44#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/bildung/corona-lebenszufriedenheit-von-abiturienten-waehrend-pandemie-ueberdurchschnittlich-gesunken](https://www.spiegel.de/panorama/bildung/corona-lebenszufriedenheit-von-abiturienten-waehrend-pandemie-ueberdurchschnittlich-gesunken-a-0f195c48-6809-4426-9e1d-0361955a6a44#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran](https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran-a-dd4e7dca-d8d7-4fcc-9cac-1d2161e5e79b#ref=rss)
+### oslo
+
+* [https://www.spiegel.de/panorama/norwegen-toedliche-schuesse-vor-pride-parade-in-oslo-ermittler-nehmen-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/norwegen-toedliche-schuesse-vor-pride-parade-in-oslo-ermittler-nehmen-zwei-tatverdaechtige-fest-a-f45e268d-ccb0-444e-a891-73b03d943e24#ref=rss)
+### fest
+
+* [https://www.spiegel.de/panorama/norwegen-toedliche-schuesse-vor-pride-parade-in-oslo-ermittler-nehmen-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/norwegen-toedliche-schuesse-vor-pride-parade-in-oslo-ermittler-nehmen-zwei-tatverdaechtige-fest-a-f45e268d-ccb0-444e-a891-73b03d943e24#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer](https://www.spiegel.de/ausland/ukraine-news-am-montag-mann-eroeffnet-in-russischem-militaermeldeamt-das-feuer-a-1c6234da-b861-4174-a094-4d6b37d56e76#ref=rss)
+### nahe
+
+* [https://www.spiegel.de/panorama/norwegen-toedliche-schuesse-vor-pride-parade-in-oslo-ermittler-nehmen-zwei-tatverdaechtige-fest](https://www.spiegel.de/panorama/norwegen-toedliche-schuesse-vor-pride-parade-in-oslo-ermittler-nehmen-zwei-tatverdaechtige-fest-a-f45e268d-ccb0-444e-a891-73b03d943e24#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen](https://www.spiegel.de/wirtschaft/russland-koennen-die-oligarchen-wladimir-putin-stoppen-a-9ef4e7b2-7896-4de4-b8b0-8dbad65cbb96#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran](https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran-a-dd4e7dca-d8d7-4fcc-9cac-1d2161e5e79b#ref=rss)
+### tod
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran](https://www.spiegel.de/politik/deutschland/annalena-baerbock-gruene-fordert-nach-tod-junger-iranerin-neue-sanktionen-gegen-iran-a-dd4e7dca-d8d7-4fcc-9cac-1d2161e5e79b#ref=rss)
+### flughäfen
+
+* [https://www.spiegel.de/wirtschaft/flughaefen-zahl-der-flugpassagiere-legt-kraeftig-zu](https://www.spiegel.de/wirtschaft/flughaefen-zahl-der-flugpassagiere-legt-kraeftig-zu-a-ac45a2b7-1a3d-4205-90d4-ba526b3a39b9#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/flughaefen-zahl-der-flugpassagiere-legt-kraeftig-zu](https://www.spiegel.de/wirtschaft/flughaefen-zahl-der-flugpassagiere-legt-kraeftig-zu-a-ac45a2b7-1a3d-4205-90d4-ba526b3a39b9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/suedlicher-schneeferner-deutschland-ist-ein-gletscher-weggeschmolzen](https://www.spiegel.de/wissenschaft/natur/suedlicher-schneeferner-deutschland-ist-ein-gletscher-weggeschmolzen-a-8d3907e0-4aa8-4f57-93c3-9567e65ea30a#ref=rss)
+### nord
+
+* [https://www.spiegel.de/wirtschaft/nord-stream-2-sorge-ueber-moegliches-leck](https://www.spiegel.de/wirtschaft/nord-stream-2-sorge-ueber-moegliches-leck-a-42db687d-582f-4fc1-9e83-e310c94e889a#ref=rss)
+### stream
+
+* [https://www.spiegel.de/wirtschaft/nord-stream-2-sorge-ueber-moegliches-leck](https://www.spiegel.de/wirtschaft/nord-stream-2-sorge-ueber-moegliches-leck-a-42db687d-582f-4fc1-9e83-e310c94e889a#ref=rss)
+### 2
+
+* [https://www.spiegel.de/wirtschaft/nord-stream-2-sorge-ueber-moegliches-leck](https://www.spiegel.de/wirtschaft/nord-stream-2-sorge-ueber-moegliches-leck-a-42db687d-582f-4fc1-9e83-e310c94e889a#ref=rss)
+### leck
+
+* [https://www.spiegel.de/wirtschaft/nord-stream-2-sorge-ueber-moegliches-leck](https://www.spiegel.de/wirtschaft/nord-stream-2-sorge-ueber-moegliches-leck-a-42db687d-582f-4fc1-9e83-e310c94e889a#ref=rss)
+### schneeferner
+
+* [https://www.spiegel.de/wissenschaft/natur/suedlicher-schneeferner-deutschland-ist-ein-gletscher-weggeschmolzen](https://www.spiegel.de/wissenschaft/natur/suedlicher-schneeferner-deutschland-ist-ein-gletscher-weggeschmolzen-a-8d3907e0-4aa8-4f57-93c3-9567e65ea30a#ref=rss)
+### polizistinnen
+
+* [https://www.spiegel.de/panorama/justiz/hagen-kollegen-waehrend-schiesserei-allein-gelassen-polizistinnen-kaempfen-in-berufungsverfahren-um-ihren-job](https://www.spiegel.de/panorama/justiz/hagen-kollegen-waehrend-schiesserei-allein-gelassen-polizistinnen-kaempfen-in-berufungsverfahren-um-ihren-job-a-64969100-ad4f-43cc-8b33-fec88b7d16c7#ref=rss)
+### mord
+
+* [https://www.spiegel.de/kultur/tv/mord-mit-aussicht-ard-krimiserie-bekommt-eine-weitere-staffel](https://www.spiegel.de/kultur/tv/mord-mit-aussicht-ard-krimiserie-bekommt-eine-weitere-staffel-a-0ea5df66-fae2-443a-baa6-803a81376b80#ref=rss)
+### aussicht
+
+* [https://www.spiegel.de/kultur/tv/mord-mit-aussicht-ard-krimiserie-bekommt-eine-weitere-staffel](https://www.spiegel.de/kultur/tv/mord-mit-aussicht-ard-krimiserie-bekommt-eine-weitere-staffel-a-0ea5df66-fae2-443a-baa6-803a81376b80#ref=rss)
+### staffel
+
+* [https://www.spiegel.de/kultur/tv/mord-mit-aussicht-ard-krimiserie-bekommt-eine-weitere-staffel](https://www.spiegel.de/kultur/tv/mord-mit-aussicht-ard-krimiserie-bekommt-eine-weitere-staffel-a-0ea5df66-fae2-443a-baa6-803a81376b80#ref=rss)
 
