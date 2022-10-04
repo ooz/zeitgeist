@@ -4,313 +4,298 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### neuen
+### iran
 
-* [https://www.spiegel.de/panorama/justiz/proteste-im-rheinischen-braunkohlerevier-fuers-klima-in-die-zelle](https://www.spiegel.de/panorama/justiz/proteste-im-rheinischen-braunkohlerevier-fuers-klima-in-die-zelle-a-c3f34bec-bb6c-4671-ad4f-f80373b37b80#ref=rss)
-* [https://www.spiegel.de/panorama/leute/kim-kardashian-veroeffentlicht-true-crime-podcast](https://www.spiegel.de/panorama/leute/kim-kardashian-veroeffentlicht-true-crime-podcast-a-1d887d64-a95a-4778-8352-e6fcf9a89a9e#ref=rss)
-* [https://www.spiegel.de/kultur/musik/prince-erben-nothing-compares-2-u-nicht-in-sinead-o-connor-doku](https://www.spiegel.de/kultur/musik/prince-erben-nothing-compares-2-u-nicht-in-sinead-o-connor-doku-a-b30f93bd-576b-461d-82e9-dd5a5d8287dd#ref=rss)
-* [https://www.spiegel.de/ausland/arizona-abtreibungsklinik-entwickelt-neuen-weg-fuer-patientinnen](https://www.spiegel.de/ausland/arizona-abtreibungsklinik-entwickelt-neuen-weg-fuer-patientinnen-a-d235c355-e60b-485a-a65e-dee019bf08da#ref=rss)
-* [https://www.spiegel.de/geschichte/kanalinsel-sark-wo-europas-letzter-feudalherr-lebt](https://www.spiegel.de/geschichte/kanalinsel-sark-wo-europas-letzter-feudalherr-lebt-a-bb587655-7b92-4bc8-b4ff-5dcefb198a84#ref=rss)
+* [https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran](https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran-a-ccdbcabf-8188-4cff-b70c-2cabe871f54b#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-lasst-sie-nicht-allein](https://www.spiegel.de/ausland/proteste-in-iran-lasst-sie-nicht-allein-a-7f6bb056-6166-417b-a48f-c73bdabf4aea#ref=rss)
 ### lützerath
 
-* [https://www.spiegel.de/panorama/justiz/proteste-im-rheinischen-braunkohlerevier-fuers-klima-in-die-zelle](https://www.spiegel.de/panorama/justiz/proteste-im-rheinischen-braunkohlerevier-fuers-klima-in-die-zelle-a-c3f34bec-bb6c-4671-ad4f-f80373b37b80#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden](https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden-a-16d96d9e-6d04-4213-9d0f-50df540e9893#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck](https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck-a-e9a9e632-06de-4f0a-853b-3be7915d4a0c#ref=rss)
-### lauterbach
+* [https://www.spiegel.de/panorama/gesellschaft/entscheidung-zu-luetzerath-geopfert-fuer-ein-versprechen](https://www.spiegel.de/panorama/gesellschaft/entscheidung-zu-luetzerath-geopfert-fuer-ein-versprechen-a-3a5e2002-25bb-4f97-b3b5-f6fb3c732a2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-wladimir-putin-luetzerath-usb-c](https://www.spiegel.de/politik/deutschland/news-des-tages-wladimir-putin-luetzerath-usb-c-a-251ed7b0-9293-46e9-af68-ab3e52eae77a#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck](https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck-a-2ee75b30-1a5e-4593-8709-fcf182ded134#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hohe-energiepreise-lauterbach-verspricht-loesung-fuer-krankenhaeuser](https://www.spiegel.de/wirtschaft/hohe-energiepreise-lauterbach-verspricht-loesung-fuer-krankenhaeuser-a-77d4b1de-0d81-4a9d-9604-ab2732408130#ref=rss)
-### kohle
+* [https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki](https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki-a-659ac9b0-d9a0-4ac5-860f-e8c18f7b1a1c#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-lasst-sie-nicht-allein](https://www.spiegel.de/ausland/proteste-in-iran-lasst-sie-nicht-allein-a-7f6bb056-6166-417b-a48f-c73bdabf4aea#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/pinguine-zaehlen-in-der-antarktis-neuverheiratete-vor-fuenf-monaten-solo-hochzeitsreise](https://www.spiegel.de/wissenschaft/natur/pinguine-zaehlen-in-der-antarktis-neuverheiratete-vor-fuenf-monaten-solo-hochzeitsreise-a-8f4c1ce4-3c6e-4ee3-8b8f-213896c16048#ref=rss)
+* [https://www.spiegel.de/panorama/bulgarien-explosion-in-ruestungswerk-tote-und-verletzte](https://www.spiegel.de/panorama/bulgarien-explosion-in-ruestungswerk-tote-und-verletzte-a-85067a11-4cce-4b30-b569-ab2a4b8c4279#ref=rss)
+### bund
 
-* [https://www.spiegel.de/panorama/justiz/proteste-im-rheinischen-braunkohlerevier-fuers-klima-in-die-zelle](https://www.spiegel.de/panorama/justiz/proteste-im-rheinischen-braunkohlerevier-fuers-klima-in-die-zelle-a-c3f34bec-bb6c-4671-ad4f-f80373b37b80#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden](https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden-a-16d96d9e-6d04-4213-9d0f-50df540e9893#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck](https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck-a-e9a9e632-06de-4f0a-853b-3be7915d4a0c#ref=rss)
-### russische
+* [https://www.spiegel.de/politik/deutschland/treffen-mit-laendern-bund-lehnt-uebernahme-aller-wohngeldkosten-ab](https://www.spiegel.de/politik/deutschland/treffen-mit-laendern-bund-lehnt-uebernahme-aller-wohngeldkosten-ab-a-2ee9e0a4-db94-46f2-b676-acaed50cde27#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unklare-gaspreisbremse-entscheidung-ueber-weitere-entlastungen-wird-wohl-vertagt](https://www.spiegel.de/politik/deutschland/unklare-gaspreisbremse-entscheidung-ueber-weitere-entlastungen-wird-wohl-vertagt-a-f39ab485-8cc6-454a-a4c1-48b68cff5bcf#ref=rss)
+### allein
 
-* [https://www.spiegel.de/ausland/schweden-marinechefin-ueber-russische-provokationen-und-militaerische-herausforderungen](https://www.spiegel.de/ausland/schweden-marinechefin-ueber-russische-provokationen-und-militaerische-herausforderungen-a-2925b835-826e-44c5-ae63-160f9a0ddcb4#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-unterstuetzt-russische-annexionen-in-der-ukraine](https://www.spiegel.de/ausland/nordkorea-unterstuetzt-russische-annexionen-in-der-ukraine-a-ddf73afd-e383-4c3c-ad08-8f30bab9357f#ref=rss)
-### 1
-
-* [https://www.spiegel.de/ausland/schweden-marinechefin-ueber-russische-provokationen-und-militaerische-herausforderungen](https://www.spiegel.de/ausland/schweden-marinechefin-ueber-russische-provokationen-und-militaerische-herausforderungen-a-2925b835-826e-44c5-ae63-160f9a0ddcb4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/weinzierl-wird-neuer-trainer-in-nuernberg](https://www.spiegel.de/sport/fussball/weinzierl-wird-neuer-trainer-in-nuernberg-a-ce97ba2b-6eb7-4102-8677-22bce1bf8fad#ref=rss)
-### karl
-
-* [https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck](https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck-a-2ee75b30-1a5e-4593-8709-fcf182ded134#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hohe-energiepreise-lauterbach-verspricht-loesung-fuer-krankenhaeuser](https://www.spiegel.de/wirtschaft/hohe-energiepreise-lauterbach-verspricht-loesung-fuer-krankenhaeuser-a-77d4b1de-0d81-4a9d-9604-ab2732408130#ref=rss)
-### putin
-
-* [https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck](https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck-a-2ee75b30-1a5e-4593-8709-fcf182ded134#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-russland-ueberfordert-mit-ausruestung-und-training-von-rekruten](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-russland-ueberfordert-mit-ausruestung-und-training-von-rekruten-a-ac8e9663-745c-4888-91e8-5283ba101083#ref=rss)
-### 2030
-
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden](https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden-a-16d96d9e-6d04-4213-9d0f-50df540e9893#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck](https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck-a-e9a9e632-06de-4f0a-853b-3be7915d4a0c#ref=rss)
-### rwe
-
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden](https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden-a-16d96d9e-6d04-4213-9d0f-50df540e9893#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck](https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck-a-e9a9e632-06de-4f0a-853b-3be7915d4a0c#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-russland-ueberfordert-mit-ausruestung-und-training-von-rekruten](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-russland-ueberfordert-mit-ausruestung-und-training-von-rekruten-a-ac8e9663-745c-4888-91e8-5283ba101083#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-unterstuetzt-russische-annexionen-in-der-ukraine](https://www.spiegel.de/ausland/nordkorea-unterstuetzt-russische-annexionen-in-der-ukraine-a-ddf73afd-e383-4c3c-ad08-8f30bab9357f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor](https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor-a-31d8e368-4e9f-40b4-9ef1-d59682c7740f#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-russland-ueberfordert-mit-ausruestung-und-training-von-rekruten](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-russland-ueberfordert-mit-ausruestung-und-training-von-rekruten-a-ac8e9663-745c-4888-91e8-5283ba101083#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-unterstuetzt-russische-annexionen-in-der-ukraine](https://www.spiegel.de/ausland/nordkorea-unterstuetzt-russische-annexionen-in-der-ukraine-a-ddf73afd-e383-4c3c-ad08-8f30bab9357f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor](https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor-a-31d8e368-4e9f-40b4-9ef1-d59682c7740f#ref=rss)
-### eu
-
-* [https://www.spiegel.de/netzwelt/eu-usb-c-wird-standard-fuer-ladegeraete](https://www.spiegel.de/netzwelt/eu-usb-c-wird-standard-fuer-ladegeraete-a-42356322-ab46-4631-a94d-6f018b9a9902#ref=rss)
-### standard
-
-* [https://www.spiegel.de/netzwelt/eu-usb-c-wird-standard-fuer-ladegeraete](https://www.spiegel.de/netzwelt/eu-usb-c-wird-standard-fuer-ladegeraete-a-42356322-ab46-4631-a94d-6f018b9a9902#ref=rss)
-### annalena
-
-* [https://www.spiegel.de/ausland/polen-annalena-baerbock-weist-polnische-reparations-forderungen-zurueck](https://www.spiegel.de/ausland/polen-annalena-baerbock-weist-polnische-reparations-forderungen-zurueck-a-2192c039-e407-4c1a-bfe7-972af7f17357#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/ausland/polen-annalena-baerbock-weist-polnische-reparations-forderungen-zurueck](https://www.spiegel.de/ausland/polen-annalena-baerbock-weist-polnische-reparations-forderungen-zurueck-a-2192c039-e407-4c1a-bfe7-972af7f17357#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/polen-annalena-baerbock-weist-polnische-reparations-forderungen-zurueck](https://www.spiegel.de/ausland/polen-annalena-baerbock-weist-polnische-reparations-forderungen-zurueck-a-2192c039-e407-4c1a-bfe7-972af7f17357#ref=rss)
-* [https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck](https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck-a-2ee75b30-1a5e-4593-8709-fcf182ded134#ref=rss)
-### frage
-
-* [https://www.spiegel.de/ausland/polen-annalena-baerbock-weist-polnische-reparations-forderungen-zurueck](https://www.spiegel.de/ausland/polen-annalena-baerbock-weist-polnische-reparations-forderungen-zurueck-a-2192c039-e407-4c1a-bfe7-972af7f17357#ref=rss)
-* [https://www.spiegel.de/start/die-erste-steuererklaerung-wie-man-sich-als-student-geld-vom-staat-zurueckholt](https://www.spiegel.de/start/die-erste-steuererklaerung-wie-man-sich-als-student-geld-vom-staat-zurueckholt-a-fa312110-e36a-4103-bc46-a8795b60efb3#ref=rss)
-### besuch
-
-* [https://www.spiegel.de/ausland/polen-annalena-baerbock-weist-polnische-reparations-forderungen-zurueck](https://www.spiegel.de/ausland/polen-annalena-baerbock-weist-polnische-reparations-forderungen-zurueck-a-2192c039-e407-4c1a-bfe7-972af7f17357#ref=rss)
-* [https://www.spiegel.de/geschichte/kanalinsel-sark-wo-europas-letzter-feudalherr-lebt](https://www.spiegel.de/geschichte/kanalinsel-sark-wo-europas-letzter-feudalherr-lebt-a-bb587655-7b92-4bc8-b4ff-5dcefb198a84#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/treffen-mit-laendern-bund-lehnt-uebernahme-aller-wohngeldkosten-ab](https://www.spiegel.de/politik/deutschland/treffen-mit-laendern-bund-lehnt-uebernahme-aller-wohngeldkosten-ab-a-2ee9e0a4-db94-46f2-b676-acaed50cde27#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-lasst-sie-nicht-allein](https://www.spiegel.de/ausland/proteste-in-iran-lasst-sie-nicht-allein-a-7f6bb056-6166-417b-a48f-c73bdabf4aea#ref=rss)
 ### proteste
 
-* [https://www.spiegel.de/panorama/justiz/proteste-im-rheinischen-braunkohlerevier-fuers-klima-in-die-zelle](https://www.spiegel.de/panorama/justiz/proteste-im-rheinischen-braunkohlerevier-fuers-klima-in-die-zelle-a-c3f34bec-bb6c-4671-ad4f-f80373b37b80#ref=rss)
-### weichen
+* [https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran](https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran-a-ccdbcabf-8188-4cff-b70c-2cabe871f54b#ref=rss)
+* [https://www.spiegel.de/ausland/proteste-in-iran-lasst-sie-nicht-allein](https://www.spiegel.de/ausland/proteste-in-iran-lasst-sie-nicht-allein-a-7f6bb056-6166-417b-a48f-c73bdabf4aea#ref=rss)
+### unter
 
-* [https://www.spiegel.de/panorama/justiz/proteste-im-rheinischen-braunkohlerevier-fuers-klima-in-die-zelle](https://www.spiegel.de/panorama/justiz/proteste-im-rheinischen-braunkohlerevier-fuers-klima-in-die-zelle-a-c3f34bec-bb6c-4671-ad4f-f80373b37b80#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden](https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden-a-16d96d9e-6d04-4213-9d0f-50df540e9893#ref=rss)
-### donald
+* [https://www.spiegel.de/panorama/gesellschaft/energiekrise-preisexplosion-kriegsangst-wie-deutschland-unter-der-mangellage-leidet-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/energiekrise-preisexplosion-kriegsangst-wie-deutschland-unter-der-mangellage-leidet-spiegel-tv-a-af00492a-b4d0-45c2-8a38-e5e308076a0c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/pinguine-zaehlen-in-der-antarktis-neuverheiratete-vor-fuenf-monaten-solo-hochzeitsreise](https://www.spiegel.de/wissenschaft/natur/pinguine-zaehlen-in-der-antarktis-neuverheiratete-vor-fuenf-monaten-solo-hochzeitsreise-a-8f4c1ce4-3c6e-4ee3-8b8f-213896c16048#ref=rss)
+* [https://www.spiegel.de/panorama/weltgesundheitsorganisation-warnt-pakistan-nach-flut-am-rande-einer-gesundheitskatastrophe](https://www.spiegel.de/panorama/weltgesundheitsorganisation-warnt-pakistan-nach-flut-am-rande-einer-gesundheitskatastrophe-a-e53e996c-93b7-4681-8cb7-81bef9fbd9d5#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/ausland/donald-trump-war-angeblich-besorgt-ueber-epstein-vertraute-maxwell](https://www.spiegel.de/ausland/donald-trump-war-angeblich-besorgt-ueber-epstein-vertraute-maxwell-a-798c351b-4e6c-46f2-981d-7e964223dd41#ref=rss)
-### trump
+* [https://www.spiegel.de/panorama/bayern-elfjaehrige-auf-schulgelaende-von-lastwagen-erfasst-tot](https://www.spiegel.de/panorama/bayern-elfjaehrige-auf-schulgelaende-von-lastwagen-erfasst-tot-a-f95bad6b-23fc-4031-91bf-b3a6e78021fe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mutmassliches-gewaltverbrechen-in-bayern-junge-frau-tot-aus-fluss-geborgen](https://www.spiegel.de/panorama/justiz/mutmassliches-gewaltverbrechen-in-bayern-junge-frau-tot-aus-fluss-geborgen-a-885e35c0-cb90-463c-9ebe-bc0711f1df59#ref=rss)
+### tot
 
-* [https://www.spiegel.de/ausland/donald-trump-war-angeblich-besorgt-ueber-epstein-vertraute-maxwell](https://www.spiegel.de/ausland/donald-trump-war-angeblich-besorgt-ueber-epstein-vertraute-maxwell-a-798c351b-4e6c-46f2-981d-7e964223dd41#ref=rss)
-### maxwell
-
-* [https://www.spiegel.de/ausland/donald-trump-war-angeblich-besorgt-ueber-epstein-vertraute-maxwell](https://www.spiegel.de/ausland/donald-trump-war-angeblich-besorgt-ueber-epstein-vertraute-maxwell-a-798c351b-4e6c-46f2-981d-7e964223dd41#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/donald-trump-war-angeblich-besorgt-ueber-epstein-vertraute-maxwell](https://www.spiegel.de/ausland/donald-trump-war-angeblich-besorgt-ueber-epstein-vertraute-maxwell-a-798c351b-4e6c-46f2-981d-7e964223dd41#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden](https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden-a-16d96d9e-6d04-4213-9d0f-50df540e9893#ref=rss)
-### premierministerin
-
-* [https://www.spiegel.de/wirtschaft/premierministerin-liz-truss-die-naechste-kehrtwende](https://www.spiegel.de/wirtschaft/premierministerin-liz-truss-die-naechste-kehrtwende-a-5215af4b-92e7-4c43-a05c-d97f164cae32#ref=rss)
-### nächste
-
-* [https://www.spiegel.de/wirtschaft/premierministerin-liz-truss-die-naechste-kehrtwende](https://www.spiegel.de/wirtschaft/premierministerin-liz-truss-die-naechste-kehrtwende-a-5215af4b-92e7-4c43-a05c-d97f164cae32#ref=rss)
-### kehrtwende
-
-* [https://www.spiegel.de/wirtschaft/premierministerin-liz-truss-die-naechste-kehrtwende](https://www.spiegel.de/wirtschaft/premierministerin-liz-truss-die-naechste-kehrtwende-a-5215af4b-92e7-4c43-a05c-d97f164cae32#ref=rss)
-### marinechefin
-
-* [https://www.spiegel.de/ausland/schweden-marinechefin-ueber-russische-provokationen-und-militaerische-herausforderungen](https://www.spiegel.de/ausland/schweden-marinechefin-ueber-russische-provokationen-und-militaerische-herausforderungen-a-2925b835-826e-44c5-ae63-160f9a0ddcb4#ref=rss)
-### provokationen
-
-* [https://www.spiegel.de/ausland/schweden-marinechefin-ueber-russische-provokationen-und-militaerische-herausforderungen](https://www.spiegel.de/ausland/schweden-marinechefin-ueber-russische-provokationen-und-militaerische-herausforderungen-a-2925b835-826e-44c5-ae63-160f9a0ddcb4#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/ausland/schweden-marinechefin-ueber-russische-provokationen-und-militaerische-herausforderungen](https://www.spiegel.de/ausland/schweden-marinechefin-ueber-russische-provokationen-und-militaerische-herausforderungen-a-2925b835-826e-44c5-ae63-160f9a0ddcb4#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-unterstuetzt-russische-annexionen-in-der-ukraine](https://www.spiegel.de/ausland/nordkorea-unterstuetzt-russische-annexionen-in-der-ukraine-a-ddf73afd-e383-4c3c-ad08-8f30bab9357f#ref=rss)
-### 2
-
-* [https://www.spiegel.de/ausland/schweden-marinechefin-ueber-russische-provokationen-und-militaerische-herausforderungen](https://www.spiegel.de/ausland/schweden-marinechefin-ueber-russische-provokationen-und-militaerische-herausforderungen-a-2925b835-826e-44c5-ae63-160f9a0ddcb4#ref=rss)
-* [https://www.spiegel.de/kultur/musik/prince-erben-nothing-compares-2-u-nicht-in-sinead-o-connor-doku](https://www.spiegel.de/kultur/musik/prince-erben-nothing-compares-2-u-nicht-in-sinead-o-connor-doku-a-b30f93bd-576b-461d-82e9-dd5a5d8287dd#ref=rss)
-### oktober
-
-* [https://www.spiegel.de/panorama/wetterprognose-fuer-die-kommenden-tage-goldener-oktober-24-grad](https://www.spiegel.de/panorama/wetterprognose-fuer-die-kommenden-tage-goldener-oktober-24-grad-a-97deddb1-dbb0-4c5d-a066-07430a33081b#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor](https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor-a-019437ae-a481-4f2c-825a-b4bfa162eee6#ref=rss)
-### sommer
-
-* [https://www.spiegel.de/panorama/wetterprognose-fuer-die-kommenden-tage-goldener-oktober-24-grad](https://www.spiegel.de/panorama/wetterprognose-fuer-die-kommenden-tage-goldener-oktober-24-grad-a-97deddb1-dbb0-4c5d-a066-07430a33081b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deal-mit-byd-konzern-sixt-will-100-000-chinesische-e-autos-in-dienst-stellen](https://www.spiegel.de/wirtschaft/unternehmen/deal-mit-byd-konzern-sixt-will-100-000-chinesische-e-autos-in-dienst-stellen-a-06f02a55-d17c-41c3-8b41-28af9947a85a#ref=rss)
-### kommenden
-
-* [https://www.spiegel.de/panorama/wetterprognose-fuer-die-kommenden-tage-goldener-oktober-24-grad](https://www.spiegel.de/panorama/wetterprognose-fuer-die-kommenden-tage-goldener-oktober-24-grad-a-97deddb1-dbb0-4c5d-a066-07430a33081b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck](https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck-a-e9a9e632-06de-4f0a-853b-3be7915d4a0c#ref=rss)
-### geben
-
-* [https://www.spiegel.de/panorama/wetterprognose-fuer-die-kommenden-tage-goldener-oktober-24-grad](https://www.spiegel.de/panorama/wetterprognose-fuer-die-kommenden-tage-goldener-oktober-24-grad-a-97deddb1-dbb0-4c5d-a066-07430a33081b#ref=rss)
-* [https://www.spiegel.de/sport/tim-lobinger-ueber-krebserkrankung-heilung-wird-es-bei-mir-nicht-mehr-geben](https://www.spiegel.de/sport/tim-lobinger-ueber-krebserkrankung-heilung-wird-es-bei-mir-nicht-mehr-geben-a-4b09ac49-eefd-4a8a-9e4d-0e625b8f405c#ref=rss)
-### kim
-
-* [https://www.spiegel.de/panorama/leute/kim-kardashian-veroeffentlicht-true-crime-podcast](https://www.spiegel.de/panorama/leute/kim-kardashian-veroeffentlicht-true-crime-podcast-a-1d887d64-a95a-4778-8352-e6fcf9a89a9e#ref=rss)
-### kardashian
-
-* [https://www.spiegel.de/panorama/leute/kim-kardashian-veroeffentlicht-true-crime-podcast](https://www.spiegel.de/panorama/leute/kim-kardashian-veroeffentlicht-true-crime-podcast-a-1d887d64-a95a-4778-8352-e6fcf9a89a9e#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/leute/kim-kardashian-veroeffentlicht-true-crime-podcast](https://www.spiegel.de/panorama/leute/kim-kardashian-veroeffentlicht-true-crime-podcast-a-1d887d64-a95a-4778-8352-e6fcf9a89a9e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/suedafrika-deutscher-tourist-bei-ueberfall-im-kruger-nationalpark-getoetet](https://www.spiegel.de/panorama/justiz/suedafrika-deutscher-tourist-bei-ueberfall-im-kruger-nationalpark-getoetet-a-ce6ed9c0-93e1-4f1c-9f46-a08f5047bb8f#ref=rss)
-### leben
-
-* [https://www.spiegel.de/kultur/musik/prince-erben-nothing-compares-2-u-nicht-in-sinead-o-connor-doku](https://www.spiegel.de/kultur/musik/prince-erben-nothing-compares-2-u-nicht-in-sinead-o-connor-doku-a-b30f93bd-576b-461d-82e9-dd5a5d8287dd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/suedafrika-deutscher-tourist-bei-ueberfall-im-kruger-nationalpark-getoetet](https://www.spiegel.de/panorama/justiz/suedafrika-deutscher-tourist-bei-ueberfall-im-kruger-nationalpark-getoetet-a-ce6ed9c0-93e1-4f1c-9f46-a08f5047bb8f#ref=rss)
-### sixt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deal-mit-byd-konzern-sixt-will-100-000-chinesische-e-autos-in-dienst-stellen](https://www.spiegel.de/wirtschaft/unternehmen/deal-mit-byd-konzern-sixt-will-100-000-chinesische-e-autos-in-dienst-stellen-a-06f02a55-d17c-41c3-8b41-28af9947a85a#ref=rss)
-### chinesische
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deal-mit-byd-konzern-sixt-will-100-000-chinesische-e-autos-in-dienst-stellen](https://www.spiegel.de/wirtschaft/unternehmen/deal-mit-byd-konzern-sixt-will-100-000-chinesische-e-autos-in-dienst-stellen-a-06f02a55-d17c-41c3-8b41-28af9947a85a#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deal-mit-byd-konzern-sixt-will-100-000-chinesische-e-autos-in-dienst-stellen](https://www.spiegel.de/wirtschaft/unternehmen/deal-mit-byd-konzern-sixt-will-100-000-chinesische-e-autos-in-dienst-stellen-a-06f02a55-d17c-41c3-8b41-28af9947a85a#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/weltlehrertag-zahl-der-lehramtsabsolventen-um-13-8-prozent-gesunken](https://www.spiegel.de/panorama/bildung/weltlehrertag-zahl-der-lehramtsabsolventen-um-13-8-prozent-gesunken-a-a156b537-b148-42a9-beb0-bcb4ff7cbc90#ref=rss)
-### angriff
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deal-mit-byd-konzern-sixt-will-100-000-chinesische-e-autos-in-dienst-stellen](https://www.spiegel.de/wirtschaft/unternehmen/deal-mit-byd-konzern-sixt-will-100-000-chinesische-e-autos-in-dienst-stellen-a-06f02a55-d17c-41c3-8b41-28af9947a85a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/suedafrika-deutscher-tourist-bei-ueberfall-im-kruger-nationalpark-getoetet](https://www.spiegel.de/panorama/justiz/suedafrika-deutscher-tourist-bei-ueberfall-im-kruger-nationalpark-getoetet-a-ce6ed9c0-93e1-4f1c-9f46-a08f5047bb8f#ref=rss)
-### arizona
-
-* [https://www.spiegel.de/ausland/arizona-abtreibungsklinik-entwickelt-neuen-weg-fuer-patientinnen](https://www.spiegel.de/ausland/arizona-abtreibungsklinik-entwickelt-neuen-weg-fuer-patientinnen-a-d235c355-e60b-485a-a65e-dee019bf08da#ref=rss)
-### abtreibungsklinik
-
-* [https://www.spiegel.de/ausland/arizona-abtreibungsklinik-entwickelt-neuen-weg-fuer-patientinnen](https://www.spiegel.de/ausland/arizona-abtreibungsklinik-entwickelt-neuen-weg-fuer-patientinnen-a-d235c355-e60b-485a-a65e-dee019bf08da#ref=rss)
-### entwickelt
-
-* [https://www.spiegel.de/ausland/arizona-abtreibungsklinik-entwickelt-neuen-weg-fuer-patientinnen](https://www.spiegel.de/ausland/arizona-abtreibungsklinik-entwickelt-neuen-weg-fuer-patientinnen-a-d235c355-e60b-485a-a65e-dee019bf08da#ref=rss)
-### weg
-
-* [https://www.spiegel.de/ausland/arizona-abtreibungsklinik-entwickelt-neuen-weg-fuer-patientinnen](https://www.spiegel.de/ausland/arizona-abtreibungsklinik-entwickelt-neuen-weg-fuer-patientinnen-a-d235c355-e60b-485a-a65e-dee019bf08da#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/suedafrika-deutscher-tourist-bei-ueberfall-im-kruger-nationalpark-getoetet](https://www.spiegel.de/panorama/justiz/suedafrika-deutscher-tourist-bei-ueberfall-im-kruger-nationalpark-getoetet-a-ce6ed9c0-93e1-4f1c-9f46-a08f5047bb8f#ref=rss)
-### patientinnen
-
-* [https://www.spiegel.de/ausland/arizona-abtreibungsklinik-entwickelt-neuen-weg-fuer-patientinnen](https://www.spiegel.de/ausland/arizona-abtreibungsklinik-entwickelt-neuen-weg-fuer-patientinnen-a-d235c355-e60b-485a-a65e-dee019bf08da#ref=rss)
-### asian
-
-* [https://www.spiegel.de/sport/olympia/asian-games-2029-saudi-arabien-richtet-jetzt-auch-winterspiele-aus](https://www.spiegel.de/sport/olympia/asian-games-2029-saudi-arabien-richtet-jetzt-auch-winterspiele-aus-a-a35e186b-1daa-4b8c-9f68-73b128b8aeda#ref=rss)
-### games
-
-* [https://www.spiegel.de/sport/olympia/asian-games-2029-saudi-arabien-richtet-jetzt-auch-winterspiele-aus](https://www.spiegel.de/sport/olympia/asian-games-2029-saudi-arabien-richtet-jetzt-auch-winterspiele-aus-a-a35e186b-1daa-4b8c-9f68-73b128b8aeda#ref=rss)
-### 2029
-
-* [https://www.spiegel.de/sport/olympia/asian-games-2029-saudi-arabien-richtet-jetzt-auch-winterspiele-aus](https://www.spiegel.de/sport/olympia/asian-games-2029-saudi-arabien-richtet-jetzt-auch-winterspiele-aus-a-a35e186b-1daa-4b8c-9f68-73b128b8aeda#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/sport/olympia/asian-games-2029-saudi-arabien-richtet-jetzt-auch-winterspiele-aus](https://www.spiegel.de/sport/olympia/asian-games-2029-saudi-arabien-richtet-jetzt-auch-winterspiele-aus-a-a35e186b-1daa-4b8c-9f68-73b128b8aeda#ref=rss)
-### widerstandsbewegung
-
-* [https://www.spiegel.de/ausland/afghanistan-widerstandsbewegung-meldet-gebietsgewinn](https://www.spiegel.de/ausland/afghanistan-widerstandsbewegung-meldet-gebietsgewinn-a-3084770b-4ac5-4cb7-bda6-82777d9e1209#ref=rss)
-### gebiete
-
-* [https://www.spiegel.de/ausland/afghanistan-widerstandsbewegung-meldet-gebietsgewinn](https://www.spiegel.de/ausland/afghanistan-widerstandsbewegung-meldet-gebietsgewinn-a-3084770b-4ac5-4cb7-bda6-82777d9e1209#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-unterstuetzt-russische-annexionen-in-der-ukraine](https://www.spiegel.de/ausland/nordkorea-unterstuetzt-russische-annexionen-in-der-ukraine-a-ddf73afd-e383-4c3c-ad08-8f30bab9357f#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck](https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck-a-2ee75b30-1a5e-4593-8709-fcf182ded134#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor](https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor-a-31d8e368-4e9f-40b4-9ef1-d59682c7740f#ref=rss)
-### wir
-
-* [https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck](https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck-a-2ee75b30-1a5e-4593-8709-fcf182ded134#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hohe-energiepreise-lauterbach-verspricht-loesung-fuer-krankenhaeuser](https://www.spiegel.de/wirtschaft/hohe-energiepreise-lauterbach-verspricht-loesung-fuer-krankenhaeuser-a-77d4b1de-0d81-4a9d-9604-ab2732408130#ref=rss)
-### prompt
-
-* [https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck](https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck-a-2ee75b30-1a5e-4593-8709-fcf182ded134#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-russland-ueberfordert-mit-ausruestung-und-training-von-rekruten](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-russland-ueberfordert-mit-ausruestung-und-training-von-rekruten-a-ac8e9663-745c-4888-91e8-5283ba101083#ref=rss)
-### gesundheitsminister
-
-* [https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck](https://www.spiegel.de/politik/ukraine-karl-lauterbach-rudert-nach-aussage-zurueck-a-2ee75b30-1a5e-4593-8709-fcf182ded134#ref=rss)
-* [https://www.spiegel.de/wirtschaft/hohe-energiepreise-lauterbach-verspricht-loesung-fuer-krankenhaeuser](https://www.spiegel.de/wirtschaft/hohe-energiepreise-lauterbach-verspricht-loesung-fuer-krankenhaeuser-a-77d4b1de-0d81-4a9d-9604-ab2732408130#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/weinzierl-wird-neuer-trainer-in-nuernberg](https://www.spiegel.de/sport/fussball/weinzierl-wird-neuer-trainer-in-nuernberg-a-ce97ba2b-6eb7-4102-8677-22bce1bf8fad#ref=rss)
-### nürnberg
-
-* [https://www.spiegel.de/sport/fussball/weinzierl-wird-neuer-trainer-in-nuernberg](https://www.spiegel.de/sport/fussball/weinzierl-wird-neuer-trainer-in-nuernberg-a-ce97ba2b-6eb7-4102-8677-22bce1bf8fad#ref=rss)
-### markus
-
-* [https://www.spiegel.de/sport/fussball/weinzierl-wird-neuer-trainer-in-nuernberg](https://www.spiegel.de/sport/fussball/weinzierl-wird-neuer-trainer-in-nuernberg-a-ce97ba2b-6eb7-4102-8677-22bce1bf8fad#ref=rss)
-### weinzierl
-
-* [https://www.spiegel.de/sport/fussball/weinzierl-wird-neuer-trainer-in-nuernberg](https://www.spiegel.de/sport/fussball/weinzierl-wird-neuer-trainer-in-nuernberg-a-ce97ba2b-6eb7-4102-8677-22bce1bf8fad#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/wirtschaft/hohe-energiepreise-lauterbach-verspricht-loesung-fuer-krankenhaeuser](https://www.spiegel.de/wirtschaft/hohe-energiepreise-lauterbach-verspricht-loesung-fuer-krankenhaeuser-a-77d4b1de-0d81-4a9d-9604-ab2732408130#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck](https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck-a-e9a9e632-06de-4f0a-853b-3be7915d4a0c#ref=rss)
-### kohleausstieg
-
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden](https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden-a-16d96d9e-6d04-4213-9d0f-50df540e9893#ref=rss)
-### energiekonzern
-
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden](https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden-a-16d96d9e-6d04-4213-9d0f-50df540e9893#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck](https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck-a-e9a9e632-06de-4f0a-853b-3be7915d4a0c#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden](https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden-a-16d96d9e-6d04-4213-9d0f-50df540e9893#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck](https://www.spiegel.de/wirtschaft/sind-die-klimaziele-zu-halten-herr-habeck-a-e9a9e632-06de-4f0a-853b-3be7915d4a0c#ref=rss)
-### vorziehen
-
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden](https://www.spiegel.de/panorama/gesellschaft/luetzerath-muss-trotz-protestcamp-fuer-die-kohle-weichen-kohleausstieg-soll-auf-2030-vorgeschoben-werden-a-16d96d9e-6d04-4213-9d0f-50df540e9893#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor](https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor-a-019437ae-a481-4f2c-825a-b4bfa162eee6#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-elfjaehrige-auf-schulgelaende-von-lastwagen-erfasst-tot](https://www.spiegel.de/panorama/bayern-elfjaehrige-auf-schulgelaende-von-lastwagen-erfasst-tot-a-f95bad6b-23fc-4031-91bf-b3a6e78021fe#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mutmassliches-gewaltverbrechen-in-bayern-junge-frau-tot-aus-fluss-geborgen](https://www.spiegel.de/panorama/justiz/mutmassliches-gewaltverbrechen-in-bayern-junge-frau-tot-aus-fluss-geborgen-a-885e35c0-cb90-463c-9ebe-bc0711f1df59#ref=rss)
+* [https://www.spiegel.de/kultur/country-ikone-loretta-lynn-ist-tot](https://www.spiegel.de/kultur/country-ikone-loretta-lynn-ist-tot-a-b6000d1b-c708-414c-9ec0-5c7307543126#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/bildung/weltlehrertag-zahl-der-lehramtsabsolventen-um-13-8-prozent-gesunken](https://www.spiegel.de/panorama/bildung/weltlehrertag-zahl-der-lehramtsabsolventen-um-13-8-prozent-gesunken-a-a156b537-b148-42a9-beb0-bcb4ff7cbc90#ref=rss)
-* [https://www.spiegel.de/sport/tim-lobinger-ueber-krebserkrankung-heilung-wird-es-bei-mir-nicht-mehr-geben](https://www.spiegel.de/sport/tim-lobinger-ueber-krebserkrankung-heilung-wird-es-bei-mir-nicht-mehr-geben-a-4b09ac49-eefd-4a8a-9e4d-0e625b8f405c#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-russland-ueberfordert-mit-ausruestung-und-training-von-rekruten](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-russland-ueberfordert-mit-ausruestung-und-training-von-rekruten-a-ac8e9663-745c-4888-91e8-5283ba101083#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor](https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor-a-31d8e368-4e9f-40b4-9ef1-d59682c7740f#ref=rss)
-### verhandlungen
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-russland-ueberfordert-mit-ausruestung-und-training-von-rekruten](https://www.spiegel.de/ausland/russland-ukraine-news-am-dienstag-russland-ueberfordert-mit-ausruestung-und-training-von-rekruten-a-ac8e9663-745c-4888-91e8-5283ba101083#ref=rss)
-### sark
-
-* [https://www.spiegel.de/geschichte/kanalinsel-sark-wo-europas-letzter-feudalherr-lebt](https://www.spiegel.de/geschichte/kanalinsel-sark-wo-europas-letzter-feudalherr-lebt-a-bb587655-7b92-4bc8-b4ff-5dcefb198a84#ref=rss)
+* [https://www.spiegel.de/wissenschaft/uno-generalsekretaer-antonio-guterres-waehrend-das-klima-chaos-voranschreitet-ist-der-klimaschutz-ins-stocken-geraten](https://www.spiegel.de/wissenschaft/uno-generalsekretaer-antonio-guterres-waehrend-das-klima-chaos-voranschreitet-ist-der-klimaschutz-ins-stocken-geraten-a-4b42bfde-1bee-430b-ad7c-66620d48375e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/coronavirus-ehepaar-mit-falschem-impfstatus-durfte-von-kreuzfahrt-ausgeschlossen-werden](https://www.spiegel.de/wirtschaft/coronavirus-ehepaar-mit-falschem-impfstatus-durfte-von-kreuzfahrt-ausgeschlossen-werden-a-91c14df4-1235-43af-8cd1-a3009c80b6a6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/indonesien-stadion-katastrophe-die-meisten-toten-gab-es-an-tor-13-es-war-verschlossen](https://www.spiegel.de/sport/fussball/indonesien-stadion-katastrophe-die-meisten-toten-gab-es-an-tor-13-es-war-verschlossen-a-68333d13-2634-435d-a897-2faecb5aec1d#ref=rss)
 ### ich
 
-* [https://www.spiegel.de/start/die-erste-steuererklaerung-wie-man-sich-als-student-geld-vom-staat-zurueckholt](https://www.spiegel.de/start/die-erste-steuererklaerung-wie-man-sich-als-student-geld-vom-staat-zurueckholt-a-fa312110-e36a-4103-bc46-a8795b60efb3#ref=rss)
-### mir
+* [https://www.spiegel.de/psychologie/multitasking-im-beruf-nein-ich-will-mich-nicht-besser-organisieren](https://www.spiegel.de/psychologie/multitasking-im-beruf-nein-ich-will-mich-nicht-besser-organisieren-a-4e910e78-b517-4184-85f4-4653144b431a#ref=rss)
+### liz
 
-* [https://www.spiegel.de/start/die-erste-steuererklaerung-wie-man-sich-als-student-geld-vom-staat-zurueckholt](https://www.spiegel.de/start/die-erste-steuererklaerung-wie-man-sich-als-student-geld-vom-staat-zurueckholt-a-fa312110-e36a-4103-bc46-a8795b60efb3#ref=rss)
-* [https://www.spiegel.de/sport/tim-lobinger-ueber-krebserkrankung-heilung-wird-es-bei-mir-nicht-mehr-geben](https://www.spiegel.de/sport/tim-lobinger-ueber-krebserkrankung-heilung-wird-es-bei-mir-nicht-mehr-geben-a-4b09ac49-eefd-4a8a-9e4d-0e625b8f405c#ref=rss)
-### gerade
+* [https://www.spiegel.de/ausland/liz-truss-in-grossbritannien-die-eiernde-lady](https://www.spiegel.de/ausland/liz-truss-in-grossbritannien-die-eiernde-lady-a-fc46f80d-897f-4b3a-ae8c-e672453f026b#ref=rss)
+### truss
 
-* [https://www.spiegel.de/start/die-erste-steuererklaerung-wie-man-sich-als-student-geld-vom-staat-zurueckholt](https://www.spiegel.de/start/die-erste-steuererklaerung-wie-man-sich-als-student-geld-vom-staat-zurueckholt-a-fa312110-e36a-4103-bc46-a8795b60efb3#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor](https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor-a-31d8e368-4e9f-40b4-9ef1-d59682c7740f#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/ausland/liz-truss-in-grossbritannien-die-eiernde-lady](https://www.spiegel.de/ausland/liz-truss-in-grossbritannien-die-eiernde-lady-a-fc46f80d-897f-4b3a-ae8c-e672453f026b#ref=rss)
+### frau
 
-* [https://www.spiegel.de/ausland/nordkorea-unterstuetzt-russische-annexionen-in-der-ukraine](https://www.spiegel.de/ausland/nordkorea-unterstuetzt-russische-annexionen-in-der-ukraine-a-ddf73afd-e383-4c3c-ad08-8f30bab9357f#ref=rss)
-### brasilien
+* [https://www.spiegel.de/ausland/liz-truss-in-grossbritannien-die-eiernde-lady](https://www.spiegel.de/ausland/liz-truss-in-grossbritannien-die-eiernde-lady-a-fc46f80d-897f-4b3a-ae8c-e672453f026b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mutmassliches-gewaltverbrechen-in-bayern-junge-frau-tot-aus-fluss-geborgen](https://www.spiegel.de/panorama/justiz/mutmassliches-gewaltverbrechen-in-bayern-junge-frau-tot-aus-fluss-geborgen-a-885e35c0-cb90-463c-9ebe-bc0711f1df59#ref=rss)
+### steckt
 
-* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor](https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor-a-019437ae-a481-4f2c-825a-b4bfa162eee6#ref=rss)
-### jair
+* [https://www.spiegel.de/ausland/liz-truss-in-grossbritannien-die-eiernde-lady](https://www.spiegel.de/ausland/liz-truss-in-grossbritannien-die-eiernde-lady-a-fc46f80d-897f-4b3a-ae8c-e672453f026b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/energiekrise-preisexplosion-kriegsangst-wie-deutschland-unter-der-mangellage-leidet-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/energiekrise-preisexplosion-kriegsangst-wie-deutschland-unter-der-mangellage-leidet-spiegel-tv-a-af00492a-b4d0-45c2-8a38-e5e308076a0c#ref=rss)
+### krise
 
-* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor](https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor-a-019437ae-a481-4f2c-825a-b4bfa162eee6#ref=rss)
+* [https://www.spiegel.de/ausland/liz-truss-in-grossbritannien-die-eiernde-lady](https://www.spiegel.de/ausland/liz-truss-in-grossbritannien-die-eiernde-lady-a-fc46f80d-897f-4b3a-ae8c-e672453f026b#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/energiekrise-preisexplosion-kriegsangst-wie-deutschland-unter-der-mangellage-leidet-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/energiekrise-preisexplosion-kriegsangst-wie-deutschland-unter-der-mangellage-leidet-spiegel-tv-a-af00492a-b4d0-45c2-8a38-e5e308076a0c#ref=rss)
+### viele
+
+* [https://www.spiegel.de/ausland/liz-truss-in-grossbritannien-die-eiernde-lady](https://www.spiegel.de/ausland/liz-truss-in-grossbritannien-die-eiernde-lady-a-fc46f80d-897f-4b3a-ae8c-e672453f026b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-spekuliert-sozialleistungen-ziehen-viele-zuwanderer-erst-an](https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-spekuliert-sozialleistungen-ziehen-viele-zuwanderer-erst-an-a-1181d98b-7daa-417e-974d-d7716599fb02#ref=rss)
+### maggie
+
+* [https://www.spiegel.de/ausland/autorin-maggie-haberman-ueber-trumps-gescheiterten-staatsstreich](https://www.spiegel.de/ausland/autorin-maggie-haberman-ueber-trumps-gescheiterten-staatsstreich-a-b60ddfbb-9eb9-4b4c-986c-d0d82d0d00d4#ref=rss)
+### haberman
+
+* [https://www.spiegel.de/ausland/autorin-maggie-haberman-ueber-trumps-gescheiterten-staatsstreich](https://www.spiegel.de/ausland/autorin-maggie-haberman-ueber-trumps-gescheiterten-staatsstreich-a-b60ddfbb-9eb9-4b4c-986c-d0d82d0d00d4#ref=rss)
+### nafo
+
+* [https://www.spiegel.de/netzwelt/web/ukrainekrieg-wie-die-nafo-mit-hunde-memes-russische-propaganda-bekaempft](https://www.spiegel.de/netzwelt/web/ukrainekrieg-wie-die-nafo-mit-hunde-memes-russische-propaganda-bekaempft-a-2cc7f2c8-bd5b-45e8-8e3d-3225a9d32c90#ref=rss)
+### russische
+
+* [https://www.spiegel.de/netzwelt/web/ukrainekrieg-wie-die-nafo-mit-hunde-memes-russische-propaganda-bekaempft](https://www.spiegel.de/netzwelt/web/ukrainekrieg-wie-die-nafo-mit-hunde-memes-russische-propaganda-bekaempft-a-2cc7f2c8-bd5b-45e8-8e3d-3225a9d32c90#ref=rss)
+### desinformation
+
+* [https://www.spiegel.de/netzwelt/web/ukrainekrieg-wie-die-nafo-mit-hunde-memes-russische-propaganda-bekaempft](https://www.spiegel.de/netzwelt/web/ukrainekrieg-wie-die-nafo-mit-hunde-memes-russische-propaganda-bekaempft-a-2cc7f2c8-bd5b-45e8-8e3d-3225a9d32c90#ref=rss)
+* [https://www.spiegel.de/kultur/tuerkei-journalisten-verurteilten-geplantes-gesetz-gegen-desinformation](https://www.spiegel.de/kultur/tuerkei-journalisten-verurteilten-geplantes-gesetz-gegen-desinformation-a-986c6c87-5017-4cf7-b030-b81dcb9afe19#ref=rss)
+### fast
+
+* [https://www.spiegel.de/netzwelt/web/ukrainekrieg-wie-die-nafo-mit-hunde-memes-russische-propaganda-bekaempft](https://www.spiegel.de/netzwelt/web/ukrainekrieg-wie-die-nafo-mit-hunde-memes-russische-propaganda-bekaempft-a-2cc7f2c8-bd5b-45e8-8e3d-3225a9d32c90#ref=rss)
+* [https://www.spiegel.de/panorama/weltgesundheitsorganisation-warnt-pakistan-nach-flut-am-rande-einer-gesundheitskatastrophe](https://www.spiegel.de/panorama/weltgesundheitsorganisation-warnt-pakistan-nach-flut-am-rande-einer-gesundheitskatastrophe-a-e53e996c-93b7-4681-8cb7-81bef9fbd9d5#ref=rss)
+### angeklagte
+
+* [https://www.spiegel.de/panorama/sektenmord-an-vierjaehrigem-freispruch-fuer-angeklagte-mutter](https://www.spiegel.de/panorama/sektenmord-an-vierjaehrigem-freispruch-fuer-angeklagte-mutter-a-173aa672-5945-4da0-99b1-12554e780aca#ref=rss)
+### mutter
+
+* [https://www.spiegel.de/panorama/sektenmord-an-vierjaehrigem-freispruch-fuer-angeklagte-mutter](https://www.spiegel.de/panorama/sektenmord-an-vierjaehrigem-freispruch-fuer-angeklagte-mutter-a-173aa672-5945-4da0-99b1-12554e780aca#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/sektenmord-an-vierjaehrigem-freispruch-fuer-angeklagte-mutter](https://www.spiegel.de/panorama/sektenmord-an-vierjaehrigem-freispruch-fuer-angeklagte-mutter-a-173aa672-5945-4da0-99b1-12554e780aca#ref=rss)
+* [https://www.spiegel.de/kultur/country-ikone-loretta-lynn-ist-tot](https://www.spiegel.de/kultur/country-ikone-loretta-lynn-ist-tot-a-b6000d1b-c708-414c-9ec0-5c7307543126#ref=rss)
+### junge
+
+* [https://www.spiegel.de/panorama/sektenmord-an-vierjaehrigem-freispruch-fuer-angeklagte-mutter](https://www.spiegel.de/panorama/sektenmord-an-vierjaehrigem-freispruch-fuer-angeklagte-mutter-a-173aa672-5945-4da0-99b1-12554e780aca#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mutmassliches-gewaltverbrechen-in-bayern-junge-frau-tot-aus-fluss-geborgen](https://www.spiegel.de/panorama/justiz/mutmassliches-gewaltverbrechen-in-bayern-junge-frau-tot-aus-fluss-geborgen-a-885e35c0-cb90-463c-9ebe-bc0711f1df59#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/politik/deutschland/treffen-mit-laendern-bund-lehnt-uebernahme-aller-wohngeldkosten-ab](https://www.spiegel.de/politik/deutschland/treffen-mit-laendern-bund-lehnt-uebernahme-aller-wohngeldkosten-ab-a-2ee9e0a4-db94-46f2-b676-acaed50cde27#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unklare-gaspreisbremse-entscheidung-ueber-weitere-entlastungen-wird-wohl-vertagt](https://www.spiegel.de/politik/deutschland/unklare-gaspreisbremse-entscheidung-ueber-weitere-entlastungen-wird-wohl-vertagt-a-f39ab485-8cc6-454a-a4c1-48b68cff5bcf#ref=rss)
+### ländern
+
+* [https://www.spiegel.de/politik/deutschland/treffen-mit-laendern-bund-lehnt-uebernahme-aller-wohngeldkosten-ab](https://www.spiegel.de/politik/deutschland/treffen-mit-laendern-bund-lehnt-uebernahme-aller-wohngeldkosten-ab-a-2ee9e0a4-db94-46f2-b676-acaed50cde27#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unklare-gaspreisbremse-entscheidung-ueber-weitere-entlastungen-wird-wohl-vertagt](https://www.spiegel.de/politik/deutschland/unklare-gaspreisbremse-entscheidung-ueber-weitere-entlastungen-wird-wohl-vertagt-a-f39ab485-8cc6-454a-a4c1-48b68cff5bcf#ref=rss)
+### nika
+
+* [https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran](https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran-a-ccdbcabf-8188-4cff-b70c-2cabe871f54b#ref=rss)
+### shakarami
+
+* [https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran](https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran-a-ccdbcabf-8188-4cff-b70c-2cabe871f54b#ref=rss)
+### tod
+
+* [https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran](https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran-a-ccdbcabf-8188-4cff-b70c-2cabe871f54b#ref=rss)
+### befeuert
+
+* [https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran](https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran-a-ccdbcabf-8188-4cff-b70c-2cabe871f54b#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran](https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran-a-ccdbcabf-8188-4cff-b70c-2cabe871f54b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-spekuliert-sozialleistungen-ziehen-viele-zuwanderer-erst-an](https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-spekuliert-sozialleistungen-ziehen-viele-zuwanderer-erst-an-a-1181d98b-7daa-417e-974d-d7716599fb02#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran](https://www.spiegel.de/ausland/nika-shakarami-tod-der-teenagerin-befeuert-proteste-in-iran-a-ccdbcabf-8188-4cff-b70c-2cabe871f54b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mutmassliches-gewaltverbrechen-in-bayern-junge-frau-tot-aus-fluss-geborgen](https://www.spiegel.de/panorama/justiz/mutmassliches-gewaltverbrechen-in-bayern-junge-frau-tot-aus-fluss-geborgen-a-885e35c0-cb90-463c-9ebe-bc0711f1df59#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/panorama/gesellschaft/energiekrise-preisexplosion-kriegsangst-wie-deutschland-unter-der-mangellage-leidet-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/energiekrise-preisexplosion-kriegsangst-wie-deutschland-unter-der-mangellage-leidet-spiegel-tv-a-af00492a-b4d0-45c2-8a38-e5e308076a0c#ref=rss)
+### tv
+
+* [https://www.spiegel.de/panorama/gesellschaft/energiekrise-preisexplosion-kriegsangst-wie-deutschland-unter-der-mangellage-leidet-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/energiekrise-preisexplosion-kriegsangst-wie-deutschland-unter-der-mangellage-leidet-spiegel-tv-a-af00492a-b4d0-45c2-8a38-e5e308076a0c#ref=rss)
+### nie
+
+* [https://www.spiegel.de/panorama/gesellschaft/energiekrise-preisexplosion-kriegsangst-wie-deutschland-unter-der-mangellage-leidet-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/energiekrise-preisexplosion-kriegsangst-wie-deutschland-unter-der-mangellage-leidet-spiegel-tv-a-af00492a-b4d0-45c2-8a38-e5e308076a0c#ref=rss)
+* [https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki](https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki-a-659ac9b0-d9a0-4ac5-860f-e8c18f7b1a1c#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-spekuliert-sozialleistungen-ziehen-viele-zuwanderer-erst-an](https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-spekuliert-sozialleistungen-ziehen-viele-zuwanderer-erst-an-a-1181d98b-7daa-417e-974d-d7716599fb02#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-spekuliert-sozialleistungen-ziehen-viele-zuwanderer-erst-an](https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-spekuliert-sozialleistungen-ziehen-viele-zuwanderer-erst-an-a-1181d98b-7daa-417e-974d-d7716599fb02#ref=rss)
+### flüchtlinge
+
+* [https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-spekuliert-sozialleistungen-ziehen-viele-zuwanderer-erst-an](https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-spekuliert-sozialleistungen-ziehen-viele-zuwanderer-erst-an-a-1181d98b-7daa-417e-974d-d7716599fb02#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-nansen-fluechtlingspreis-des-unhcr](https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-nansen-fluechtlingspreis-des-unhcr-a-c7ce4912-ab6b-4649-a227-d4643056c509#ref=rss)
+### thema
+
+* [https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-spekuliert-sozialleistungen-ziehen-viele-zuwanderer-erst-an](https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-spekuliert-sozialleistungen-ziehen-viele-zuwanderer-erst-an-a-1181d98b-7daa-417e-974d-d7716599fb02#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unklare-gaspreisbremse-entscheidung-ueber-weitere-entlastungen-wird-wohl-vertagt](https://www.spiegel.de/politik/deutschland/unklare-gaspreisbremse-entscheidung-ueber-weitere-entlastungen-wird-wohl-vertagt-a-f39ab485-8cc6-454a-a4c1-48b68cff5bcf#ref=rss)
+### entscheidung
+
+* [https://www.spiegel.de/panorama/gesellschaft/entscheidung-zu-luetzerath-geopfert-fuer-ein-versprechen](https://www.spiegel.de/panorama/gesellschaft/entscheidung-zu-luetzerath-geopfert-fuer-ein-versprechen-a-3a5e2002-25bb-4f97-b3b5-f6fb3c732a2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unklare-gaspreisbremse-entscheidung-ueber-weitere-entlastungen-wird-wohl-vertagt](https://www.spiegel.de/politik/deutschland/unklare-gaspreisbremse-entscheidung-ueber-weitere-entlastungen-wird-wohl-vertagt-a-f39ab485-8cc6-454a-a4c1-48b68cff5bcf#ref=rss)
 ### regierung
 
-* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor](https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor-a-019437ae-a481-4f2c-825a-b4bfa162eee6#ref=rss)
-### auszahlung
+* [https://www.spiegel.de/panorama/gesellschaft/entscheidung-zu-luetzerath-geopfert-fuer-ein-versprechen](https://www.spiegel.de/panorama/gesellschaft/entscheidung-zu-luetzerath-geopfert-fuer-ein-versprechen-a-3a5e2002-25bb-4f97-b3b5-f6fb3c732a2c#ref=rss)
+* [https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen](https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen-a-07029d01-b1ae-46a0-bccc-8fdfc10cd6f6#ref=rss)
+### vorziehen
 
-* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor](https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor-a-019437ae-a481-4f2c-825a-b4bfa162eee6#ref=rss)
-### zuschüssen
+* [https://www.spiegel.de/panorama/gesellschaft/entscheidung-zu-luetzerath-geopfert-fuer-ein-versprechen](https://www.spiegel.de/panorama/gesellschaft/entscheidung-zu-luetzerath-geopfert-fuer-ein-versprechen-a-3a5e2002-25bb-4f97-b3b5-f6fb3c732a2c#ref=rss)
+* [https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen](https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen-a-07029d01-b1ae-46a0-bccc-8fdfc10cd6f6#ref=rss)
+### ort
 
-* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor](https://www.spiegel.de/ausland/brasilien-jair-bolsonaros-regierung-zieht-vor-stichwahl-auszahlung-von-zuschuessen-vor-a-019437ae-a481-4f2c-825a-b4bfa162eee6#ref=rss)
-### vase
+* [https://www.spiegel.de/panorama/gesellschaft/entscheidung-zu-luetzerath-geopfert-fuer-ein-versprechen](https://www.spiegel.de/panorama/gesellschaft/entscheidung-zu-luetzerath-geopfert-fuer-ein-versprechen-a-3a5e2002-25bb-4f97-b3b5-f6fb3c732a2c#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-elfjaehrige-auf-schulgelaende-von-lastwagen-erfasst-tot](https://www.spiegel.de/panorama/bayern-elfjaehrige-auf-schulgelaende-von-lastwagen-erfasst-tot-a-f95bad6b-23fc-4031-91bf-b3a6e78021fe#ref=rss)
+### schulgelände
 
-* [https://www.spiegel.de/panorama/fontainebleau-vase-im-tianqiuping-stil-fuer-fast-8-millionen-euro-versteigert](https://www.spiegel.de/panorama/fontainebleau-vase-im-tianqiuping-stil-fuer-fast-8-millionen-euro-versteigert-a-7f69a1a6-4d60-423d-8228-81ca55989f30#ref=rss)
-### versteigert
+* [https://www.spiegel.de/panorama/bayern-elfjaehrige-auf-schulgelaende-von-lastwagen-erfasst-tot](https://www.spiegel.de/panorama/bayern-elfjaehrige-auf-schulgelaende-von-lastwagen-erfasst-tot-a-f95bad6b-23fc-4031-91bf-b3a6e78021fe#ref=rss)
+### gewaltverbrechen
 
-* [https://www.spiegel.de/panorama/fontainebleau-vase-im-tianqiuping-stil-fuer-fast-8-millionen-euro-versteigert](https://www.spiegel.de/panorama/fontainebleau-vase-im-tianqiuping-stil-fuer-fast-8-millionen-euro-versteigert-a-7f69a1a6-4d60-423d-8228-81ca55989f30#ref=rss)
-### tim
+* [https://www.spiegel.de/panorama/justiz/mutmassliches-gewaltverbrechen-in-bayern-junge-frau-tot-aus-fluss-geborgen](https://www.spiegel.de/panorama/justiz/mutmassliches-gewaltverbrechen-in-bayern-junge-frau-tot-aus-fluss-geborgen-a-885e35c0-cb90-463c-9ebe-bc0711f1df59#ref=rss)
+### loretta
 
-* [https://www.spiegel.de/sport/tim-lobinger-ueber-krebserkrankung-heilung-wird-es-bei-mir-nicht-mehr-geben](https://www.spiegel.de/sport/tim-lobinger-ueber-krebserkrankung-heilung-wird-es-bei-mir-nicht-mehr-geben-a-4b09ac49-eefd-4a8a-9e4d-0e625b8f405c#ref=rss)
-### lobinger
+* [https://www.spiegel.de/kultur/country-ikone-loretta-lynn-ist-tot](https://www.spiegel.de/kultur/country-ikone-loretta-lynn-ist-tot-a-b6000d1b-c708-414c-9ec0-5c7307543126#ref=rss)
+### lynn
 
-* [https://www.spiegel.de/sport/tim-lobinger-ueber-krebserkrankung-heilung-wird-es-bei-mir-nicht-mehr-geben](https://www.spiegel.de/sport/tim-lobinger-ueber-krebserkrankung-heilung-wird-es-bei-mir-nicht-mehr-geben-a-4b09ac49-eefd-4a8a-9e4d-0e625b8f405c#ref=rss)
-### außenminister
+* [https://www.spiegel.de/kultur/country-ikone-loretta-lynn-ist-tot](https://www.spiegel.de/kultur/country-ikone-loretta-lynn-ist-tot-a-b6000d1b-c708-414c-9ec0-5c7307543126#ref=rss)
+### messe
 
-* [https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor](https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor-a-31d8e368-4e9f-40b4-9ef1-d59682c7740f#ref=rss)
-### wirft
+* [https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki](https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki-a-659ac9b0-d9a0-4ac5-860f-e8c18f7b1a1c#ref=rss)
+### rom
 
-* [https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor](https://www.spiegel.de/ausland/ukraine-aussenminister-wirft-russland-spaltung-afrikas-vor-a-31d8e368-4e9f-40b4-9ef1-d59682c7740f#ref=rss)
+* [https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki](https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki-a-659ac9b0-d9a0-4ac5-860f-e8c18f7b1a1c#ref=rss)
+### ministranten
+
+* [https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki](https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki-a-659ac9b0-d9a0-4ac5-860f-e8c18f7b1a1c#ref=rss)
+### erzbischof
+
+* [https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki](https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki-a-659ac9b0-d9a0-4ac5-860f-e8c18f7b1a1c#ref=rss)
+### woelki
+
+* [https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki](https://www.spiegel.de/panorama/messe-in-rom-ministranten-protestieren-gegen-koelner-erzbischof-woelki-a-659ac9b0-d9a0-4ac5-860f-e8c18f7b1a1c#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/proteste-in-iran-lasst-sie-nicht-allein](https://www.spiegel.de/ausland/proteste-in-iran-lasst-sie-nicht-allein-a-7f6bb056-6166-417b-a48f-c73bdabf4aea#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-nansen-fluechtlingspreis-des-unhcr](https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-nansen-fluechtlingspreis-des-unhcr-a-c7ce4912-ab6b-4649-a227-d4643056c509#ref=rss)
+### medienbericht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/medienbericht-piloten-bestreiken-am-donnerstag-lufthansa-tochter-eurowings](https://www.spiegel.de/wirtschaft/unternehmen/medienbericht-piloten-bestreiken-am-donnerstag-lufthansa-tochter-eurowings-a-eb5d9c7b-df20-43e7-8116-b3c562f05e74#ref=rss)
+### donnerstag
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/medienbericht-piloten-bestreiken-am-donnerstag-lufthansa-tochter-eurowings](https://www.spiegel.de/wirtschaft/unternehmen/medienbericht-piloten-bestreiken-am-donnerstag-lufthansa-tochter-eurowings-a-eb5d9c7b-df20-43e7-8116-b3c562f05e74#ref=rss)
+### eurowings
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/medienbericht-piloten-bestreiken-am-donnerstag-lufthansa-tochter-eurowings](https://www.spiegel.de/wirtschaft/unternehmen/medienbericht-piloten-bestreiken-am-donnerstag-lufthansa-tochter-eurowings-a-eb5d9c7b-df20-43e7-8116-b3c562f05e74#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/medienbericht-piloten-bestreiken-am-donnerstag-lufthansa-tochter-eurowings](https://www.spiegel.de/wirtschaft/unternehmen/medienbericht-piloten-bestreiken-am-donnerstag-lufthansa-tochter-eurowings-a-eb5d9c7b-df20-43e7-8116-b3c562f05e74#ref=rss)
+* [https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen](https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen-a-07029d01-b1ae-46a0-bccc-8fdfc10cd6f6#ref=rss)
+### kwasi
+
+* [https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen](https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen-a-07029d01-b1ae-46a0-bccc-8fdfc10cd6f6#ref=rss)
+### kwarteng
+
+* [https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen](https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen-a-07029d01-b1ae-46a0-bccc-8fdfc10cd6f6#ref=rss)
+### britische
+
+* [https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen](https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen-a-07029d01-b1ae-46a0-bccc-8fdfc10cd6f6#ref=rss)
+### haushaltsplan
+
+* [https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen](https://www.spiegel.de/ausland/kwasi-kwarteng-britische-regierung-will-haushaltsplan-doch-nicht-vorziehen-a-07029d01-b1ae-46a0-bccc-8fdfc10cd6f6#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/wissenschaft/natur/pinguine-zaehlen-in-der-antarktis-neuverheiratete-vor-fuenf-monaten-solo-hochzeitsreise](https://www.spiegel.de/wissenschaft/natur/pinguine-zaehlen-in-der-antarktis-neuverheiratete-vor-fuenf-monaten-solo-hochzeitsreise-a-8f4c1ce4-3c6e-4ee3-8b8f-213896c16048#ref=rss)
+### bringt
+
+* [https://www.spiegel.de/wirtschaft/vw-wen-bringt-oliver-blume-als-naechstes-an-die-boerse](https://www.spiegel.de/wirtschaft/vw-wen-bringt-oliver-blume-als-naechstes-an-die-boerse-a-9c62a945-1e05-49f1-a63a-685163f45054#ref=rss)
+### blume
+
+* [https://www.spiegel.de/wirtschaft/vw-wen-bringt-oliver-blume-als-naechstes-an-die-boerse](https://www.spiegel.de/wirtschaft/vw-wen-bringt-oliver-blume-als-naechstes-an-die-boerse-a-9c62a945-1e05-49f1-a63a-685163f45054#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/panorama/weltgesundheitsorganisation-warnt-pakistan-nach-flut-am-rande-einer-gesundheitskatastrophe](https://www.spiegel.de/panorama/weltgesundheitsorganisation-warnt-pakistan-nach-flut-am-rande-einer-gesundheitskatastrophe-a-e53e996c-93b7-4681-8cb7-81bef9fbd9d5#ref=rss)
+### pakistan
+
+* [https://www.spiegel.de/panorama/weltgesundheitsorganisation-warnt-pakistan-nach-flut-am-rande-einer-gesundheitskatastrophe](https://www.spiegel.de/panorama/weltgesundheitsorganisation-warnt-pakistan-nach-flut-am-rande-einer-gesundheitskatastrophe-a-e53e996c-93b7-4681-8cb7-81bef9fbd9d5#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/kultur/tuerkei-journalisten-verurteilten-geplantes-gesetz-gegen-desinformation](https://www.spiegel.de/kultur/tuerkei-journalisten-verurteilten-geplantes-gesetz-gegen-desinformation-a-986c6c87-5017-4cf7-b030-b81dcb9afe19#ref=rss)
+### nein
+
+* [https://www.spiegel.de/kultur/tuerkei-journalisten-verurteilten-geplantes-gesetz-gegen-desinformation](https://www.spiegel.de/kultur/tuerkei-journalisten-verurteilten-geplantes-gesetz-gegen-desinformation-a-986c6c87-5017-4cf7-b030-b81dcb9afe19#ref=rss)
+* [https://www.spiegel.de/psychologie/multitasking-im-beruf-nein-ich-will-mich-nicht-besser-organisieren](https://www.spiegel.de/psychologie/multitasking-im-beruf-nein-ich-will-mich-nicht-besser-organisieren-a-4e910e78-b517-4184-85f4-4653144b431a#ref=rss)
+### bulgarien
+
+* [https://www.spiegel.de/panorama/bulgarien-explosion-in-ruestungswerk-tote-und-verletzte](https://www.spiegel.de/panorama/bulgarien-explosion-in-ruestungswerk-tote-und-verletzte-a-85067a11-4cce-4b30-b569-ab2a4b8c4279#ref=rss)
+### explosion
+
+* [https://www.spiegel.de/panorama/bulgarien-explosion-in-ruestungswerk-tote-und-verletzte](https://www.spiegel.de/panorama/bulgarien-explosion-in-ruestungswerk-tote-und-verletzte-a-85067a11-4cce-4b30-b569-ab2a4b8c4279#ref=rss)
+### rüstungswerk
+
+* [https://www.spiegel.de/panorama/bulgarien-explosion-in-ruestungswerk-tote-und-verletzte](https://www.spiegel.de/panorama/bulgarien-explosion-in-ruestungswerk-tote-und-verletzte-a-85067a11-4cce-4b30-b569-ab2a4b8c4279#ref=rss)
+### tote
+
+* [https://www.spiegel.de/panorama/bulgarien-explosion-in-ruestungswerk-tote-und-verletzte](https://www.spiegel.de/panorama/bulgarien-explosion-in-ruestungswerk-tote-und-verletzte-a-85067a11-4cce-4b30-b569-ab2a4b8c4279#ref=rss)
+* [https://www.spiegel.de/sport/fussball/indonesien-stadion-katastrophe-die-meisten-toten-gab-es-an-tor-13-es-war-verschlossen](https://www.spiegel.de/sport/fussball/indonesien-stadion-katastrophe-die-meisten-toten-gab-es-an-tor-13-es-war-verschlossen-a-68333d13-2634-435d-a897-2faecb5aec1d#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/bulgarien-explosion-in-ruestungswerk-tote-und-verletzte](https://www.spiegel.de/panorama/bulgarien-explosion-in-ruestungswerk-tote-und-verletzte-a-85067a11-4cce-4b30-b569-ab2a4b8c4279#ref=rss)
+* [https://www.spiegel.de/psychologie/diskriminierende-sprache-es-ist-kompliziert-und-das-ist-okay](https://www.spiegel.de/psychologie/diskriminierende-sprache-es-ist-kompliziert-und-das-ist-okay-a-b56c5e1d-4e1c-4336-89b5-14c313ce9862#ref=rss)
+### guterres
+
+* [https://www.spiegel.de/wissenschaft/uno-generalsekretaer-antonio-guterres-waehrend-das-klima-chaos-voranschreitet-ist-der-klimaschutz-ins-stocken-geraten](https://www.spiegel.de/wissenschaft/uno-generalsekretaer-antonio-guterres-waehrend-das-klima-chaos-voranschreitet-ist-der-klimaschutz-ins-stocken-geraten-a-4b42bfde-1bee-430b-ad7c-66620d48375e#ref=rss)
+### ehepaar
+
+* [https://www.spiegel.de/wirtschaft/coronavirus-ehepaar-mit-falschem-impfstatus-durfte-von-kreuzfahrt-ausgeschlossen-werden](https://www.spiegel.de/wirtschaft/coronavirus-ehepaar-mit-falschem-impfstatus-durfte-von-kreuzfahrt-ausgeschlossen-werden-a-91c14df4-1235-43af-8cd1-a3009c80b6a6#ref=rss)
+### forderte
+
+* [https://www.spiegel.de/wirtschaft/coronavirus-ehepaar-mit-falschem-impfstatus-durfte-von-kreuzfahrt-ausgeschlossen-werden](https://www.spiegel.de/wirtschaft/coronavirus-ehepaar-mit-falschem-impfstatus-durfte-von-kreuzfahrt-ausgeschlossen-werden-a-91c14df4-1235-43af-8cd1-a3009c80b6a6#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-nansen-fluechtlingspreis-des-unhcr](https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-nansen-fluechtlingspreis-des-unhcr-a-c7ce4912-ab6b-4649-a227-d4643056c509#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-nansen-fluechtlingspreis-des-unhcr](https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-nansen-fluechtlingspreis-des-unhcr-a-c7ce4912-ab6b-4649-a227-d4643056c509#ref=rss)
+### niclas
+
+* [https://www.spiegel.de/sport/fussball/stuermer-niclas-fuellkrug-von-werder-bremen-der-mann-fuer-die-luecke](https://www.spiegel.de/sport/fussball/stuermer-niclas-fuellkrug-von-werder-bremen-der-mann-fuer-die-luecke-a-a52ec9ae-ed33-434f-b0ca-e4cbd6d29f3f#ref=rss)
+### füllkrug
+
+* [https://www.spiegel.de/sport/fussball/stuermer-niclas-fuellkrug-von-werder-bremen-der-mann-fuer-die-luecke](https://www.spiegel.de/sport/fussball/stuermer-niclas-fuellkrug-von-werder-bremen-der-mann-fuer-die-luecke-a-a52ec9ae-ed33-434f-b0ca-e4cbd6d29f3f#ref=rss)
+### indonesien
+
+* [https://www.spiegel.de/sport/fussball/indonesien-stadion-katastrophe-die-meisten-toten-gab-es-an-tor-13-es-war-verschlossen](https://www.spiegel.de/sport/fussball/indonesien-stadion-katastrophe-die-meisten-toten-gab-es-an-tor-13-es-war-verschlossen-a-68333d13-2634-435d-a897-2faecb5aec1d#ref=rss)
+### stadionkatastrophe
+
+* [https://www.spiegel.de/sport/fussball/indonesien-stadion-katastrophe-die-meisten-toten-gab-es-an-tor-13-es-war-verschlossen](https://www.spiegel.de/sport/fussball/indonesien-stadion-katastrophe-die-meisten-toten-gab-es-an-tor-13-es-war-verschlossen-a-68333d13-2634-435d-a897-2faecb5aec1d#ref=rss)
 
