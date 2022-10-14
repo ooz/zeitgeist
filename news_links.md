@@ -4,265 +4,313 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ukraine
+### robert
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-die-ukraine-grundsteuererklaerung-hochschul-ranking](https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-die-ukraine-grundsteuererklaerung-hochschul-ranking-a-b83139d4-a342-405b-a27c-25cfb55ded97#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-swetlana-tichanowskaja-fuerchtet-dass-die-krise-in-ihrem-land-uebersehen-wird](https://www.spiegel.de/ausland/belarus-swetlana-tichanowskaja-fuerchtet-dass-die-krise-in-ihrem-land-uebersehen-wird-a-f681f130-5abd-4575-8342-c6f4e147db5a#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-am-donnerstag-ukraine-meldet-drohnenangriffe-auf-kritische-infrastruktur](https://www.spiegel.de/ausland/ukraine-russland-news-am-donnerstag-ukraine-meldet-drohnenangriffe-auf-kritische-infrastruktur-a-4d220bc7-f54c-42ef-9e10-3fef705d2f3d#ref=rss)
-### laut
+* [https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne](https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne-a-b06b519a-8b1a-44e4-b996-f70060fedd59#ref=rss)
+* [https://www.spiegel.de/panorama/zollitsch-verzoegert-veroeffentlichung](https://www.spiegel.de/panorama/zollitsch-verzoegert-veroeffentlichung-a-3ea3280d-ae6a-4abe-b604-23b13cffd67d#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht](https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht-a-1502f5c4-86e7-4966-a5df-85d056be7853#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-studie-wie-steht-s-um-den-immunschutz-in-deutschland](https://www.spiegel.de/wissenschaft/medizin/corona-studie-wie-steht-s-um-den-immunschutz-in-deutschland-a-fcec59b0-fd79-46ce-9e4a-22d87975dfca#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-am-donnerstag-ukraine-meldet-drohnenangriffe-auf-kritische-infrastruktur](https://www.spiegel.de/ausland/ukraine-russland-news-am-donnerstag-ukraine-meldet-drohnenangriffe-auf-kritische-infrastruktur-a-4d220bc7-f54c-42ef-9e10-3fef705d2f3d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zur-krisenpolitik-irgendwann-explodiert-der-laden](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zur-krisenpolitik-irgendwann-explodiert-der-laden-a-23e0dffe-ed42-41e1-af48-9a94baf25a3e#ref=rss)
-### mehr
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-bis-zu-26-grad-spaetsommerfeeling-im-oktober](https://www.spiegel.de/panorama/wetter-in-deutschland-bis-zu-26-grad-spaetsommerfeeling-im-oktober-a-5a0e9a2e-0fab-4cc4-b6ac-e97f2d7c7724#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage](https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage-a-8c1e7faf-a128-4946-8bcc-01252311f218#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-die-richtung-in-die-wir-unterwegs-sind-ist-keine-gute](https://www.spiegel.de/politik/deutschland/karl-lauterbach-die-richtung-in-die-wir-unterwegs-sind-ist-keine-gute-a-6ef70115-efc7-4a79-be70-4be5e3895683#ref=rss)
+* [https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne](https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne-a-7f253918-a81d-4731-bed9-c2271d02151e#ref=rss)
+### kolumne
 
-* [https://www.spiegel.de/wirtschaft/service/warum-die-schufa-ihren-geheimcode-oeffnet-zumindest-ein-bisschen](https://www.spiegel.de/wirtschaft/service/warum-die-schufa-ihren-geheimcode-oeffnet-zumindest-ein-bisschen-a-ffd1adb8-1ef2-461b-bfa9-7c1571d80251#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/anklage-im-missbrauchskomplex-wermelskirchen-124-erschuetternde-faelle](https://www.spiegel.de/panorama/justiz/anklage-im-missbrauchskomplex-wermelskirchen-124-erschuetternde-faelle-a-9177b5d3-159a-4453-b780-93bdf75b3a90#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-die-ukraine-grundsteuererklaerung-hochschul-ranking](https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-die-ukraine-grundsteuererklaerung-hochschul-ranking-a-b83139d4-a342-405b-a27c-25cfb55ded97#ref=rss)
-* [https://www.spiegel.de/wirtschaft/griechenland-immer-mehr-deutsche-kaufen-immobilien](https://www.spiegel.de/wirtschaft/griechenland-immer-mehr-deutsche-kaufen-immobilien-a-61f90b20-bf34-44ac-8bb3-94abc2e4b68f#ref=rss)
-### selbst
+* [https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne](https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne-a-b06b519a-8b1a-44e4-b996-f70060fedd59#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/blockade-geloest-kompromiss-im-koalitionsstreit-deutet-sich-an](https://www.spiegel.de/politik/deutschland/blockade-geloest-kompromiss-im-koalitionsstreit-deutet-sich-an-a-7099a5a7-8447-46c3-b2f1-5f753f88d6c4#ref=rss)
+* [https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne](https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne-a-7f253918-a81d-4731-bed9-c2271d02151e#ref=rss)
+### ohne
 
-* [https://www.spiegel.de/netzwelt/web/netflix-preis-und-starttermin-fuer-das-neue-abo-mit-werbung-bekannt-gegeben](https://www.spiegel.de/netzwelt/web/netflix-preis-und-starttermin-fuer-das-neue-abo-mit-werbung-bekannt-gegeben-a-2b6f576f-8b1e-4190-af28-49e0914a4e29#ref=rss)
-* [https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht](https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht-a-1502f5c4-86e7-4966-a5df-85d056be7853#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zur-krisenpolitik-irgendwann-explodiert-der-laden](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zur-krisenpolitik-irgendwann-explodiert-der-laden-a-23e0dffe-ed42-41e1-af48-9a94baf25a3e#ref=rss)
-### nord
-
-* [https://www.spiegel.de/ausland/nordstream-alte-munition-in-ostsee-erschwert-ermittlungen-zu-pipeline-lecks](https://www.spiegel.de/ausland/nordstream-alte-munition-in-ostsee-erschwert-ermittlungen-zu-pipeline-lecks-a-bd6ce0d6-d7f6-41cf-9952-b746d93336e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundespolizei-und-bundeswehr-beenden-nord-stream-mission](https://www.spiegel.de/politik/deutschland/bundespolizei-und-bundeswehr-beenden-nord-stream-mission-a-9d1cca58-0909-4106-96b7-3595e6c7f7c8#ref=rss)
-### ermittlungen
-
-* [https://www.spiegel.de/ausland/nordstream-alte-munition-in-ostsee-erschwert-ermittlungen-zu-pipeline-lecks](https://www.spiegel.de/ausland/nordstream-alte-munition-in-ostsee-erschwert-ermittlungen-zu-pipeline-lecks-a-bd6ce0d6-d7f6-41cf-9952-b746d93336e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/durchtrennte-glasfaserkabel-generalbundesanwalt-uebernimmt-ermittlungen-zu-bahn-sabotage](https://www.spiegel.de/politik/deutschland/durchtrennte-glasfaserkabel-generalbundesanwalt-uebernimmt-ermittlungen-zu-bahn-sabotage-a-45273911-f307-40f6-802a-d20b76500a4b#ref=rss)
-### 70
-
-* [https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt](https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt-a-51fd0239-a433-4db9-b296-287fd51f75b6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundespolizei-und-bundeswehr-beenden-nord-stream-mission](https://www.spiegel.de/politik/deutschland/bundespolizei-und-bundeswehr-beenden-nord-stream-mission-a-9d1cca58-0909-4106-96b7-3595e6c7f7c8#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt](https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt-a-51fd0239-a433-4db9-b296-287fd51f75b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ryanair-fliegt-bald-weniger-nach-berlin-und-frankfurt](https://www.spiegel.de/wirtschaft/unternehmen/ryanair-fliegt-bald-weniger-nach-berlin-und-frankfurt-a-d893c528-2334-4078-9111-18c17fc311a7#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-studie-wie-steht-s-um-den-immunschutz-in-deutschland](https://www.spiegel.de/wissenschaft/medizin/corona-studie-wie-steht-s-um-den-immunschutz-in-deutschland-a-fcec59b0-fd79-46ce-9e4a-22d87975dfca#ref=rss)
-* [https://www.spiegel.de/wirtschaft/griechenland-immer-mehr-deutsche-kaufen-immobilien](https://www.spiegel.de/wirtschaft/griechenland-immer-mehr-deutsche-kaufen-immobilien-a-61f90b20-bf34-44ac-8bb3-94abc2e4b68f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne](https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne-a-b06b519a-8b1a-44e4-b996-f70060fedd59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-parlament-die-bizarre-diaeten-posse](https://www.spiegel.de/wirtschaft/eu-parlament-die-bizarre-diaeten-posse-a-250fa816-a91f-4a90-bd72-fcc1c722c91b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-fordert-stopp-der-eu-beitrittsverhandlungen-mit-serbien](https://www.spiegel.de/politik/deutschland/fdp-fordert-stopp-der-eu-beitrittsverhandlungen-mit-serbien-a-125fdf9e-971f-499f-96d6-d3dbaddbad60#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/wissenschaft/medizin/corona-studie-wie-steht-s-um-den-immunschutz-in-deutschland](https://www.spiegel.de/wissenschaft/medizin/corona-studie-wie-steht-s-um-den-immunschutz-in-deutschland-a-fcec59b0-fd79-46ce-9e4a-22d87975dfca#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-nrw-basiert-mona-neubaurs-entscheidung-auf-fragwuerdigen-gutachten](https://www.spiegel.de/panorama/gesellschaft/luetzerath-nrw-basiert-mona-neubaurs-entscheidung-auf-fragwuerdigen-gutachten-a-856d2398-e89d-4c54-ad1e-40bff8c31b27#ref=rss)
-* [https://www.spiegel.de/wirtschaft/griechenland-immer-mehr-deutsche-kaufen-immobilien](https://www.spiegel.de/wirtschaft/griechenland-immer-mehr-deutsche-kaufen-immobilien-a-61f90b20-bf34-44ac-8bb3-94abc2e4b68f#ref=rss)
-### druschbapipeline
+* [https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne](https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne-a-b06b519a-8b1a-44e4-b996-f70060fedd59#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt](https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt-a-86f36b04-23df-431e-8ef5-5b7f2b3e955a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben](https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben-a-75cee149-18c9-4658-b863-b52cf4597271#ref=rss)
+### fast
 
-* [https://www.spiegel.de/wissenschaft/druschba-pipeline-in-polen-wir-sprechen-von-einer-relativ-toten-zone](https://www.spiegel.de/wissenschaft/druschba-pipeline-in-polen-wir-sprechen-von-einer-relativ-toten-zone-a-feef222e-ad6a-40f6-9073-28ea852a7dfc#ref=rss)
-### polen
+* [https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne](https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne-a-b06b519a-8b1a-44e4-b996-f70060fedd59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/eu-parlament-die-bizarre-diaeten-posse](https://www.spiegel.de/wirtschaft/eu-parlament-die-bizarre-diaeten-posse-a-250fa816-a91f-4a90-bd72-fcc1c722c91b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben](https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben-a-75cee149-18c9-4658-b863-b52cf4597271#ref=rss)
+### land
 
-* [https://www.spiegel.de/wissenschaft/druschba-pipeline-in-polen-wir-sprechen-von-einer-relativ-toten-zone](https://www.spiegel.de/wissenschaft/druschba-pipeline-in-polen-wir-sprechen-von-einer-relativ-toten-zone-a-feef222e-ad6a-40f6-9073-28ea852a7dfc#ref=rss)
-* [https://www.spiegel.de/ausland/polen-prozess-um-abtreibungen-zeigt-den-einfluss-rechter-katholischer-kreise](https://www.spiegel.de/ausland/polen-prozess-um-abtreibungen-zeigt-den-einfluss-rechter-katholischer-kreise-a-8ff5583c-fb3f-4dc4-baf4-d5828abda542#ref=rss)
-### bekannt
+* [https://www.spiegel.de/ausland/china-praesident-xi-jinping-der-allmaechtige](https://www.spiegel.de/ausland/china-praesident-xi-jinping-der-allmaechtige-a-0d83eb9b-b4c8-4ecb-b025-16073be18032#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers-a-f7a2abb2-7378-4619-8a0a-aa99bdb6e690#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-diktator-alexander-lukaschenko-erweitert-befugnisse-der-anti-terror-einheiten](https://www.spiegel.de/ausland/belarus-diktator-alexander-lukaschenko-erweitert-befugnisse-der-anti-terror-einheiten-a-b8e3e813-b074-4c7b-a322-ec629fb496ae#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/wissenschaft/druschba-pipeline-in-polen-wir-sprechen-von-einer-relativ-toten-zone](https://www.spiegel.de/wissenschaft/druschba-pipeline-in-polen-wir-sprechen-von-einer-relativ-toten-zone-a-feef222e-ad6a-40f6-9073-28ea852a7dfc#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/netflix-preis-und-starttermin-fuer-das-neue-abo-mit-werbung-bekannt-gegeben](https://www.spiegel.de/netzwelt/web/netflix-preis-und-starttermin-fuer-das-neue-abo-mit-werbung-bekannt-gegeben-a-2b6f576f-8b1e-4190-af28-49e0914a4e29#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/ausland/polen-prozess-um-abtreibungen-zeigt-den-einfluss-rechter-katholischer-kreise](https://www.spiegel.de/ausland/polen-prozess-um-abtreibungen-zeigt-den-einfluss-rechter-katholischer-kreise-a-8ff5583c-fb3f-4dc4-baf4-d5828abda542#ref=rss)
-* [https://www.spiegel.de/ausland/menschenhaendler-in-suedostasien-verkaufe-chinesischen-mann-22-tippt-langsam](https://www.spiegel.de/ausland/menschenhaendler-in-suedostasien-verkaufe-chinesischen-mann-22-tippt-langsam-a-d4d211e9-2756-40df-a9b4-d6d4701f6913#ref=rss)
-### menschenhändler
-
-* [https://www.spiegel.de/ausland/menschenhaendler-in-suedostasien-verkaufe-chinesischen-mann-22-tippt-langsam](https://www.spiegel.de/ausland/menschenhaendler-in-suedostasien-verkaufe-chinesischen-mann-22-tippt-langsam-a-d4d211e9-2756-40df-a9b4-d6d4701f6913#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/ausland/menschenhaendler-in-suedostasien-verkaufe-chinesischen-mann-22-tippt-langsam](https://www.spiegel.de/ausland/menschenhaendler-in-suedostasien-verkaufe-chinesischen-mann-22-tippt-langsam-a-d4d211e9-2756-40df-a9b4-d6d4701f6913#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zur-krisenpolitik-irgendwann-explodiert-der-laden](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zur-krisenpolitik-irgendwann-explodiert-der-laden-a-23e0dffe-ed42-41e1-af48-9a94baf25a3e#ref=rss)
-### nikolas
-
-* [https://www.spiegel.de/panorama/justiz/nikolas-cruz-taeter-des-amoklaufs-von-parkland-entgeht-todesstrafe](https://www.spiegel.de/panorama/justiz/nikolas-cruz-taeter-des-amoklaufs-von-parkland-entgeht-todesstrafe-a-bfcbc268-521d-40ea-bee2-79ec510159ba#ref=rss)
-### cruz
-
-* [https://www.spiegel.de/panorama/justiz/nikolas-cruz-taeter-des-amoklaufs-von-parkland-entgeht-todesstrafe](https://www.spiegel.de/panorama/justiz/nikolas-cruz-taeter-des-amoklaufs-von-parkland-entgeht-todesstrafe-a-bfcbc268-521d-40ea-bee2-79ec510159ba#ref=rss)
-### parkland
-
-* [https://www.spiegel.de/panorama/justiz/nikolas-cruz-taeter-des-amoklaufs-von-parkland-entgeht-todesstrafe](https://www.spiegel.de/panorama/justiz/nikolas-cruz-taeter-des-amoklaufs-von-parkland-entgeht-todesstrafe-a-bfcbc268-521d-40ea-bee2-79ec510159ba#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/nikolas-cruz-taeter-des-amoklaufs-von-parkland-entgeht-todesstrafe](https://www.spiegel.de/panorama/justiz/nikolas-cruz-taeter-des-amoklaufs-von-parkland-entgeht-todesstrafe-a-bfcbc268-521d-40ea-bee2-79ec510159ba#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/corona-studie-wie-steht-s-um-den-immunschutz-in-deutschland](https://www.spiegel.de/wissenschaft/medizin/corona-studie-wie-steht-s-um-den-immunschutz-in-deutschland-a-fcec59b0-fd79-46ce-9e4a-22d87975dfca#ref=rss)
-### netflix
-
-* [https://www.spiegel.de/netzwelt/web/netflix-preis-und-starttermin-fuer-das-neue-abo-mit-werbung-bekannt-gegeben](https://www.spiegel.de/netzwelt/web/netflix-preis-und-starttermin-fuer-das-neue-abo-mit-werbung-bekannt-gegeben-a-2b6f576f-8b1e-4190-af28-49e0914a4e29#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/web/netflix-preis-und-starttermin-fuer-das-neue-abo-mit-werbung-bekannt-gegeben](https://www.spiegel.de/netzwelt/web/netflix-preis-und-starttermin-fuer-das-neue-abo-mit-werbung-bekannt-gegeben-a-2b6f576f-8b1e-4190-af28-49e0914a4e29#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-am-donnerstag-ukraine-meldet-drohnenangriffe-auf-kritische-infrastruktur](https://www.spiegel.de/ausland/ukraine-russland-news-am-donnerstag-ukraine-meldet-drohnenangriffe-auf-kritische-infrastruktur-a-4d220bc7-f54c-42ef-9e10-3fef705d2f3d#ref=rss)
-### angebot
-
-* [https://www.spiegel.de/netzwelt/web/netflix-preis-und-starttermin-fuer-das-neue-abo-mit-werbung-bekannt-gegeben](https://www.spiegel.de/netzwelt/web/netflix-preis-und-starttermin-fuer-das-neue-abo-mit-werbung-bekannt-gegeben-a-2b6f576f-8b1e-4190-af28-49e0914a4e29#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ryanair-fliegt-bald-weniger-nach-berlin-und-frankfurt](https://www.spiegel.de/wirtschaft/unternehmen/ryanair-fliegt-bald-weniger-nach-berlin-und-frankfurt-a-d893c528-2334-4078-9111-18c17fc311a7#ref=rss)
-### alte
-
-* [https://www.spiegel.de/ausland/nordstream-alte-munition-in-ostsee-erschwert-ermittlungen-zu-pipeline-lecks](https://www.spiegel.de/ausland/nordstream-alte-munition-in-ostsee-erschwert-ermittlungen-zu-pipeline-lecks-a-bd6ce0d6-d7f6-41cf-9952-b746d93336e8#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/milliarden-ausgediente-smartphones-werden-unsachgemaess-entsorgt](https://www.spiegel.de/netzwelt/gadgets/milliarden-ausgediente-smartphones-werden-unsachgemaess-entsorgt-a-67b3566d-2561-4101-8fa2-ed40b1a7319a#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt](https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt-a-51fd0239-a433-4db9-b296-287fd51f75b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/warum-die-schufa-ihren-geheimcode-oeffnet-zumindest-ein-bisschen](https://www.spiegel.de/wirtschaft/service/warum-die-schufa-ihren-geheimcode-oeffnet-zumindest-ein-bisschen-a-ffd1adb8-1ef2-461b-bfa9-7c1571d80251#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt](https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt-a-51fd0239-a433-4db9-b296-287fd51f75b6#ref=rss)
-### lage
-
-* [https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt](https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt-a-51fd0239-a433-4db9-b296-287fd51f75b6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-die-ukraine-grundsteuererklaerung-hochschul-ranking](https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-die-ukraine-grundsteuererklaerung-hochschul-ranking-a-b83139d4-a342-405b-a27c-25cfb55ded97#ref=rss)
-### oft
-
-* [https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt](https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt-a-51fd0239-a433-4db9-b296-287fd51f75b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/warum-die-schufa-ihren-geheimcode-oeffnet-zumindest-ein-bisschen](https://www.spiegel.de/wirtschaft/service/warum-die-schufa-ihren-geheimcode-oeffnet-zumindest-ein-bisschen-a-ffd1adb8-1ef2-461b-bfa9-7c1571d80251#ref=rss)
-### gedacht
-
-* [https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt](https://www.spiegel.de/wissenschaft/natur/wwf-und-das-artensterben-was-wirklich-hinter-der-zahl-von-70-prozent-wildtierschwund-steckt-a-51fd0239-a433-4db9-b296-287fd51f75b6#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-nrw-basiert-mona-neubaurs-entscheidung-auf-fragwuerdigen-gutachten](https://www.spiegel.de/panorama/gesellschaft/luetzerath-nrw-basiert-mona-neubaurs-entscheidung-auf-fragwuerdigen-gutachten-a-856d2398-e89d-4c54-ad1e-40bff8c31b27#ref=rss)
-### joachim
-
-* [https://www.spiegel.de/wirtschaft/joachim-nagel-bundesbankpraesident-rechnet-auch-2023-mit-hoher-inflation](https://www.spiegel.de/wirtschaft/joachim-nagel-bundesbankpraesident-rechnet-auch-2023-mit-hoher-inflation-a-8d8ef5e0-d37f-4c23-9b3f-74ee38c81e2b#ref=rss)
-### nagel
-
-* [https://www.spiegel.de/wirtschaft/joachim-nagel-bundesbankpraesident-rechnet-auch-2023-mit-hoher-inflation](https://www.spiegel.de/wirtschaft/joachim-nagel-bundesbankpraesident-rechnet-auch-2023-mit-hoher-inflation-a-8d8ef5e0-d37f-4c23-9b3f-74ee38c81e2b#ref=rss)
-### 2023
-
-* [https://www.spiegel.de/wirtschaft/joachim-nagel-bundesbankpraesident-rechnet-auch-2023-mit-hoher-inflation](https://www.spiegel.de/wirtschaft/joachim-nagel-bundesbankpraesident-rechnet-auch-2023-mit-hoher-inflation-a-8d8ef5e0-d37f-4c23-9b3f-74ee38c81e2b#ref=rss)
-### geschwisterschollpreis
-
-* [https://www.spiegel.de/kultur/literatur/geschwister-scholl-preis-fuer-ukrainischen-schriftsteller-andrej-kurkow](https://www.spiegel.de/kultur/literatur/geschwister-scholl-preis-fuer-ukrainischen-schriftsteller-andrej-kurkow-a-9deedf71-d777-4806-bbd0-894a5f58fc0b#ref=rss)
-### ukrainischen
-
-* [https://www.spiegel.de/kultur/literatur/geschwister-scholl-preis-fuer-ukrainischen-schriftsteller-andrej-kurkow](https://www.spiegel.de/kultur/literatur/geschwister-scholl-preis-fuer-ukrainischen-schriftsteller-andrej-kurkow-a-9deedf71-d777-4806-bbd0-894a5f58fc0b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-am-donnerstag-ukraine-meldet-drohnenangriffe-auf-kritische-infrastruktur](https://www.spiegel.de/ausland/ukraine-russland-news-am-donnerstag-ukraine-meldet-drohnenangriffe-auf-kritische-infrastruktur-a-4d220bc7-f54c-42ef-9e10-3fef705d2f3d#ref=rss)
-### andrej
-
-* [https://www.spiegel.de/kultur/literatur/geschwister-scholl-preis-fuer-ukrainischen-schriftsteller-andrej-kurkow](https://www.spiegel.de/kultur/literatur/geschwister-scholl-preis-fuer-ukrainischen-schriftsteller-andrej-kurkow-a-9deedf71-d777-4806-bbd0-894a5f58fc0b#ref=rss)
-### kurkow
-
-* [https://www.spiegel.de/kultur/literatur/geschwister-scholl-preis-fuer-ukrainischen-schriftsteller-andrej-kurkow](https://www.spiegel.de/kultur/literatur/geschwister-scholl-preis-fuer-ukrainischen-schriftsteller-andrej-kurkow-a-9deedf71-d777-4806-bbd0-894a5f58fc0b#ref=rss)
-### angela
-
-* [https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht](https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht-a-1502f5c4-86e7-4966-a5df-85d056be7853#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht](https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht-a-1502f5c4-86e7-4966-a5df-85d056be7853#ref=rss)
-### entscheidung
-
-* [https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht](https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht-a-1502f5c4-86e7-4966-a5df-85d056be7853#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-nrw-basiert-mona-neubaurs-entscheidung-auf-fragwuerdigen-gutachten](https://www.spiegel.de/panorama/gesellschaft/luetzerath-nrw-basiert-mona-neubaurs-entscheidung-auf-fragwuerdigen-gutachten-a-856d2398-e89d-4c54-ad1e-40bff8c31b27#ref=rss)
-### gas
-
-* [https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht](https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht-a-1502f5c4-86e7-4966-a5df-85d056be7853#ref=rss)
-### russland
-
-* [https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht](https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht-a-1502f5c4-86e7-4966-a5df-85d056be7853#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-am-donnerstag-ukraine-meldet-drohnenangriffe-auf-kritische-infrastruktur](https://www.spiegel.de/ausland/ukraine-russland-news-am-donnerstag-ukraine-meldet-drohnenangriffe-auf-kritische-infrastruktur-a-4d220bc7-f54c-42ef-9e10-3fef705d2f3d#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht](https://www.spiegel.de/wirtschaft/angela-merkel-bereut-entscheidung-fuer-russisches-gas-nicht-a-1502f5c4-86e7-4966-a5df-85d056be7853#ref=rss)
-* [https://www.spiegel.de/ausland/belarus-swetlana-tichanowskaja-fuerchtet-dass-die-krise-in-ihrem-land-uebersehen-wird](https://www.spiegel.de/ausland/belarus-swetlana-tichanowskaja-fuerchtet-dass-die-krise-in-ihrem-land-uebersehen-wird-a-f681f130-5abd-4575-8342-c6f4e147db5a#ref=rss)
-### schufa
-
-* [https://www.spiegel.de/wirtschaft/service/warum-die-schufa-ihren-geheimcode-oeffnet-zumindest-ein-bisschen](https://www.spiegel.de/wirtschaft/service/warum-die-schufa-ihren-geheimcode-oeffnet-zumindest-ein-bisschen-a-ffd1adb8-1ef2-461b-bfa9-7c1571d80251#ref=rss)
-### immunschutz
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-studie-wie-steht-s-um-den-immunschutz-in-deutschland](https://www.spiegel.de/wissenschaft/medizin/corona-studie-wie-steht-s-um-den-immunschutz-in-deutschland-a-fcec59b0-fd79-46ce-9e4a-22d87975dfca#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wissenschaft/medizin/corona-studie-wie-steht-s-um-den-immunschutz-in-deutschland](https://www.spiegel.de/wissenschaft/medizin/corona-studie-wie-steht-s-um-den-immunschutz-in-deutschland-a-fcec59b0-fd79-46ce-9e4a-22d87975dfca#ref=rss)
-* [https://www.spiegel.de/wirtschaft/griechenland-immer-mehr-deutsche-kaufen-immobilien](https://www.spiegel.de/wirtschaft/griechenland-immer-mehr-deutsche-kaufen-immobilien-a-61f90b20-bf34-44ac-8bb3-94abc2e4b68f#ref=rss)
-### bundespolizei
-
-* [https://www.spiegel.de/politik/deutschland/bundespolizei-und-bundeswehr-beenden-nord-stream-mission](https://www.spiegel.de/politik/deutschland/bundespolizei-und-bundeswehr-beenden-nord-stream-mission-a-9d1cca58-0909-4106-96b7-3595e6c7f7c8#ref=rss)
-### wermelskirchen
-
-* [https://www.spiegel.de/panorama/justiz/anklage-im-missbrauchskomplex-wermelskirchen-124-erschuetternde-faelle](https://www.spiegel.de/panorama/justiz/anklage-im-missbrauchskomplex-wermelskirchen-124-erschuetternde-faelle-a-9177b5d3-159a-4453-b780-93bdf75b3a90#ref=rss)
-### anklage
-
-* [https://www.spiegel.de/panorama/justiz/anklage-im-missbrauchskomplex-wermelskirchen-124-erschuetternde-faelle](https://www.spiegel.de/panorama/justiz/anklage-im-missbrauchskomplex-wermelskirchen-124-erschuetternde-faelle-a-9177b5d3-159a-4453-b780-93bdf75b3a90#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-die-ukraine-grundsteuererklaerung-hochschul-ranking](https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-die-ukraine-grundsteuererklaerung-hochschul-ranking-a-b83139d4-a342-405b-a27c-25cfb55ded97#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-am-donnerstag-ukraine-meldet-drohnenangriffe-auf-kritische-infrastruktur](https://www.spiegel.de/ausland/ukraine-russland-news-am-donnerstag-ukraine-meldet-drohnenangriffe-auf-kritische-infrastruktur-a-4d220bc7-f54c-42ef-9e10-3fef705d2f3d#ref=rss)
-### grundsteuererklärung
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-die-ukraine-grundsteuererklaerung-hochschul-ranking](https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-die-ukraine-grundsteuererklaerung-hochschul-ranking-a-b83139d4-a342-405b-a27c-25cfb55ded97#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-die-ukraine-grundsteuererklaerung-hochschul-ranking](https://www.spiegel.de/politik/deutschland/news-des-tages-waffen-fuer-die-ukraine-grundsteuererklaerung-hochschul-ranking-a-b83139d4-a342-405b-a27c-25cfb55ded97#ref=rss)
-* [https://www.spiegel.de/wirtschaft/griechenland-immer-mehr-deutsche-kaufen-immobilien](https://www.spiegel.de/wirtschaft/griechenland-immer-mehr-deutsche-kaufen-immobilien-a-61f90b20-bf34-44ac-8bb3-94abc2e4b68f#ref=rss)
-### lützerath
-
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-nrw-basiert-mona-neubaurs-entscheidung-auf-fragwuerdigen-gutachten](https://www.spiegel.de/panorama/gesellschaft/luetzerath-nrw-basiert-mona-neubaurs-entscheidung-auf-fragwuerdigen-gutachten-a-856d2398-e89d-4c54-ad1e-40bff8c31b27#ref=rss)
-### kurs
-
-* [https://www.spiegel.de/wirtschaft/grossbritannien-pfund-steigt-wieder-an](https://www.spiegel.de/wirtschaft/grossbritannien-pfund-steigt-wieder-an-a-2842c04c-2651-4d66-94ac-105f65579fa6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zur-krisenpolitik-irgendwann-explodiert-der-laden](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zur-krisenpolitik-irgendwann-explodiert-der-laden-a-23e0dffe-ed42-41e1-af48-9a94baf25a3e#ref=rss)
-### camilla
-
-* [https://www.spiegel.de/panorama/leute/kroenung-von-charles-und-camilla-debatte-um-den-koh-i-noor](https://www.spiegel.de/panorama/leute/kroenung-von-charles-und-camilla-debatte-um-den-koh-i-noor-a-b46d0cda-1847-42ae-a71c-5fac1fcc8b1f#ref=rss)
-### kohinoor
-
-* [https://www.spiegel.de/panorama/leute/kroenung-von-charles-und-camilla-debatte-um-den-koh-i-noor](https://www.spiegel.de/panorama/leute/kroenung-von-charles-und-camilla-debatte-um-den-koh-i-noor-a-b46d0cda-1847-42ae-a71c-5fac1fcc8b1f#ref=rss)
-### bsi
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-weist-berichte-ueber-missachtete-bedenken-zurueck](https://www.spiegel.de/netzwelt/netzpolitik/bsi-weist-berichte-ueber-missachtete-bedenken-zurueck-a-da495aa0-817c-4959-9b9e-8f9a9b6eeda1#ref=rss)
-### innenministerium
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/bsi-weist-berichte-ueber-missachtete-bedenken-zurueck](https://www.spiegel.de/netzwelt/netzpolitik/bsi-weist-berichte-ueber-missachtete-bedenken-zurueck-a-da495aa0-817c-4959-9b9e-8f9a9b6eeda1#ref=rss)
-### belarus
-
-* [https://www.spiegel.de/ausland/belarus-swetlana-tichanowskaja-fuerchtet-dass-die-krise-in-ihrem-land-uebersehen-wird](https://www.spiegel.de/ausland/belarus-swetlana-tichanowskaja-fuerchtet-dass-die-krise-in-ihrem-land-uebersehen-wird-a-f681f130-5abd-4575-8342-c6f4e147db5a#ref=rss)
-### swetlana
-
-* [https://www.spiegel.de/ausland/belarus-swetlana-tichanowskaja-fuerchtet-dass-die-krise-in-ihrem-land-uebersehen-wird](https://www.spiegel.de/ausland/belarus-swetlana-tichanowskaja-fuerchtet-dass-die-krise-in-ihrem-land-uebersehen-wird-a-f681f130-5abd-4575-8342-c6f4e147db5a#ref=rss)
-### tichanowskaja
-
-* [https://www.spiegel.de/ausland/belarus-swetlana-tichanowskaja-fuerchtet-dass-die-krise-in-ihrem-land-uebersehen-wird](https://www.spiegel.de/ausland/belarus-swetlana-tichanowskaja-fuerchtet-dass-die-krise-in-ihrem-land-uebersehen-wird-a-f681f130-5abd-4575-8342-c6f4e147db5a#ref=rss)
-### griechenland
-
-* [https://www.spiegel.de/wirtschaft/griechenland-immer-mehr-deutsche-kaufen-immobilien](https://www.spiegel.de/wirtschaft/griechenland-immer-mehr-deutsche-kaufen-immobilien-a-61f90b20-bf34-44ac-8bb3-94abc2e4b68f#ref=rss)
-### elektroschrott
-
-* [https://www.spiegel.de/netzwelt/gadgets/milliarden-ausgediente-smartphones-werden-unsachgemaess-entsorgt](https://www.spiegel.de/netzwelt/gadgets/milliarden-ausgediente-smartphones-werden-unsachgemaess-entsorgt-a-67b3566d-2561-4101-8fa2-ed40b1a7319a#ref=rss)
-### rheinlandpfalz
-
-* [https://www.spiegel.de/politik/deutschland/rheinland-pfalz-michael-ebling-wird-neuer-innenminister](https://www.spiegel.de/politik/deutschland/rheinland-pfalz-michael-ebling-wird-neuer-innenminister-a-c6dd95a2-37f5-4480-83f3-7cf78590a790#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/politik/deutschland/rheinland-pfalz-michael-ebling-wird-neuer-innenminister](https://www.spiegel.de/politik/deutschland/rheinland-pfalz-michael-ebling-wird-neuer-innenminister-a-c6dd95a2-37f5-4480-83f3-7cf78590a790#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-sondiert-kaufoption-neuer-brennstaebe-fuer-uebernaechsten-winter](https://www.spiegel.de/politik/deutschland/fdp-sondiert-kaufoption-neuer-brennstaebe-fuer-uebernaechsten-winter-a-b93d7923-79e6-4b3a-9191-0372385d653b#ref=rss)
-### innenminister
-
-* [https://www.spiegel.de/politik/deutschland/rheinland-pfalz-michael-ebling-wird-neuer-innenminister](https://www.spiegel.de/politik/deutschland/rheinland-pfalz-michael-ebling-wird-neuer-innenminister-a-c6dd95a2-37f5-4480-83f3-7cf78590a790#ref=rss)
-### ryanair
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ryanair-fliegt-bald-weniger-nach-berlin-und-frankfurt](https://www.spiegel.de/wirtschaft/unternehmen/ryanair-fliegt-bald-weniger-nach-berlin-und-frankfurt-a-d893c528-2334-4078-9111-18c17fc311a7#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ryanair-fliegt-bald-weniger-nach-berlin-und-frankfurt](https://www.spiegel.de/wirtschaft/unternehmen/ryanair-fliegt-bald-weniger-nach-berlin-und-frankfurt-a-d893c528-2334-4078-9111-18c17fc311a7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-inflationsrate-in-den-usa-leicht-zurueckgegangen](https://www.spiegel.de/wirtschaft/usa-inflationsrate-in-den-usa-leicht-zurueckgegangen-a-c572dfa6-461d-415a-9276-5446a66cfadd#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ryanair-fliegt-bald-weniger-nach-berlin-und-frankfurt](https://www.spiegel.de/wirtschaft/unternehmen/ryanair-fliegt-bald-weniger-nach-berlin-und-frankfurt-a-d893c528-2334-4078-9111-18c17fc311a7#ref=rss)
+* [https://www.spiegel.de/ausland/china-praesident-xi-jinping-der-allmaechtige](https://www.spiegel.de/ausland/china-praesident-xi-jinping-der-allmaechtige-a-0d83eb9b-b4c8-4ecb-b025-16073be18032#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-bis-zu-26-grad-spaetsommerfeeling-im-oktober](https://www.spiegel.de/panorama/wetter-in-deutschland-bis-zu-26-grad-spaetsommerfeeling-im-oktober-a-5a0e9a2e-0fab-4cc4-b6ac-e97f2d7c7724#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben](https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben-a-75cee149-18c9-4658-b863-b52cf4597271#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wirtschaft/usa-inflationsrate-in-den-usa-leicht-zurueckgegangen](https://www.spiegel.de/wirtschaft/usa-inflationsrate-in-den-usa-leicht-zurueckgegangen-a-c572dfa6-461d-415a-9276-5446a66cfadd#ref=rss)
-### fdp
+* [https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa](https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa-a-42c91ce7-5cca-4fa6-950f-a1bdcac12fd3#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/usa-kalifornien-erlaubt-digitale-nummernschilder](https://www.spiegel.de/netzwelt/gadgets/usa-kalifornien-erlaubt-digitale-nummernschilder-a-45621847-86bb-4c31-a5bf-284688f30f91#ref=rss)
+* [https://www.spiegel.de/panorama/auktion-in-den-usa-in-minenschacht-gefundene-levi-s-jeans-fuer-87-000-dollar-versteigert](https://www.spiegel.de/panorama/auktion-in-den-usa-in-minenschacht-gefundene-levi-s-jeans-fuer-87-000-dollar-versteigert-a-08430fbb-577d-4003-9810-fe81b0dfa9a3#ref=rss)
+### einigen
 
-* [https://www.spiegel.de/politik/deutschland/fdp-sondiert-kaufoption-neuer-brennstaebe-fuer-uebernaechsten-winter](https://www.spiegel.de/politik/deutschland/fdp-sondiert-kaufoption-neuer-brennstaebe-fuer-uebernaechsten-winter-a-b93d7923-79e6-4b3a-9191-0372385d653b#ref=rss)
-### wolfgang
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-bis-zu-26-grad-spaetsommerfeeling-im-oktober](https://www.spiegel.de/panorama/wetter-in-deutschland-bis-zu-26-grad-spaetsommerfeeling-im-oktober-a-5a0e9a2e-0fab-4cc4-b6ac-e97f2d7c7724#ref=rss)
+* [https://www.spiegel.de/panorama/auktion-in-den-usa-in-minenschacht-gefundene-levi-s-jeans-fuer-87-000-dollar-versteigert](https://www.spiegel.de/panorama/auktion-in-den-usa-in-minenschacht-gefundene-levi-s-jeans-fuer-87-000-dollar-versteigert-a-08430fbb-577d-4003-9810-fe81b0dfa9a3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder](https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder-a-53d2a548-9d18-47b0-9e09-c7e3b82d56e4#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zur-krisenpolitik-irgendwann-explodiert-der-laden](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zur-krisenpolitik-irgendwann-explodiert-der-laden-a-23e0dffe-ed42-41e1-af48-9a94baf25a3e#ref=rss)
-### kubicki
+* [https://www.spiegel.de/ausland/iran-koennen-die-proteste-die-geopolitische-ordnung-ins-wanken-bringen](https://www.spiegel.de/ausland/iran-koennen-die-proteste-die-geopolitische-ordnung-ins-wanken-bringen-a-0d7ecdb5-82aa-4377-88cf-b0285d2e36f6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-die-richtung-in-die-wir-unterwegs-sind-ist-keine-gute](https://www.spiegel.de/politik/deutschland/karl-lauterbach-die-richtung-in-die-wir-unterwegs-sind-ist-keine-gute-a-6ef70115-efc7-4a79-be70-4be5e3895683#ref=rss)
+* [https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne](https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne-a-7f253918-a81d-4731-bed9-c2271d02151e#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zur-krisenpolitik-irgendwann-explodiert-der-laden](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zur-krisenpolitik-irgendwann-explodiert-der-laden-a-23e0dffe-ed42-41e1-af48-9a94baf25a3e#ref=rss)
-### 49euroticket
+* [https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage](https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage-a-8c1e7faf-a128-4946-8bcc-01252311f218#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-beantragt-erneut-staatshilfen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-beantragt-erneut-staatshilfen-a-f11931f6-7c83-4dff-b784-864be7cc02f3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-in-hessen-mann-beisst-polizeihund](https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-in-hessen-mann-beisst-polizeihund-a-15619991-2980-4600-9028-7201a698e454#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/auto/verkehrsminister-einigen-sich-auf-49-euro-ticket](https://www.spiegel.de/auto/verkehrsminister-einigen-sich-auf-49-euro-ticket-a-4e8dac99-006f-4a3c-8d9e-4d8087cb57ab#ref=rss)
-### verkehrsminister
+* [https://www.spiegel.de/panorama/justiz/velbert-autofahrer-versteckte-sich-im-kofferraum-vor-der-polizei](https://www.spiegel.de/panorama/justiz/velbert-autofahrer-versteckte-sich-im-kofferraum-vor-der-polizei-a-4f5d1f6b-b5af-4ac0-b2fe-f834dcc98cd3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-in-hessen-mann-beisst-polizeihund](https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-in-hessen-mann-beisst-polizeihund-a-15619991-2980-4600-9028-7201a698e454#ref=rss)
+### schwule
 
-* [https://www.spiegel.de/auto/verkehrsminister-einigen-sich-auf-49-euro-ticket](https://www.spiegel.de/auto/verkehrsminister-einigen-sich-auf-49-euro-ticket-a-4e8dac99-006f-4a3c-8d9e-4d8087cb57ab#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers-a-f7a2abb2-7378-4619-8a0a-aa99bdb6e690#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/auktion-in-den-usa-in-minenschacht-gefundene-levi-s-jeans-fuer-87-000-dollar-versteigert](https://www.spiegel.de/panorama/auktion-in-den-usa-in-minenschacht-gefundene-levi-s-jeans-fuer-87-000-dollar-versteigert-a-08430fbb-577d-4003-9810-fe81b0dfa9a3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-beantragt-erneut-staatshilfen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-beantragt-erneut-staatshilfen-a-f11931f6-7c83-4dff-b784-864be7cc02f3#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ralf-wolter-karl-may-star-ist-tot](https://www.spiegel.de/kultur/kino/ralf-wolter-karl-may-star-ist-tot-a-ec81b2b7-cbbe-4c77-9614-0236d1cf5def#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/netzwelt/konsumverhalten-verbraucher-sparen-nicht-bei-smartphone-und-streaming](https://www.spiegel.de/netzwelt/konsumverhalten-verbraucher-sparen-nicht-bei-smartphone-und-streaming-a-018108d4-01ec-4bc7-9a49-0e1ef21b6f30#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-und-rezession-stehen-wir-vor-einer-neuen-weltfinanzkrise](https://www.spiegel.de/wirtschaft/inflation-und-rezession-stehen-wir-vor-einer-neuen-weltfinanzkrise-a-04cd494b-c94e-4c31-ab67-4ec5a373fae6#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne](https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne-a-b06b519a-8b1a-44e4-b996-f70060fedd59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben](https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben-a-75cee149-18c9-4658-b863-b52cf4597271#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne](https://www.spiegel.de/politik/deutschland/robert-habecks-energiepolitik-robbenbabys-verheizen-warum-eigentlich-nicht-kolumne-a-b06b519a-8b1a-44e4-b996-f70060fedd59#ref=rss)
+* [https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage](https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage-a-8c1e7faf-a128-4946-8bcc-01252311f218#ref=rss)
+### legt
+
+* [https://www.spiegel.de/politik/deutschland/blockade-geloest-kompromiss-im-koalitionsstreit-deutet-sich-an](https://www.spiegel.de/politik/deutschland/blockade-geloest-kompromiss-im-koalitionsstreit-deutet-sich-an-a-7099a5a7-8447-46c3-b2f1-5f753f88d6c4#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder](https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder-a-53d2a548-9d18-47b0-9e09-c7e3b82d56e4#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/china-praesident-xi-jinping-der-allmaechtige](https://www.spiegel.de/ausland/china-praesident-xi-jinping-der-allmaechtige-a-0d83eb9b-b4c8-4ecb-b025-16073be18032#ref=rss)
+### jinping
+
+* [https://www.spiegel.de/ausland/china-praesident-xi-jinping-der-allmaechtige](https://www.spiegel.de/ausland/china-praesident-xi-jinping-der-allmaechtige-a-0d83eb9b-b4c8-4ecb-b025-16073be18032#ref=rss)
+### bürger
+
+* [https://www.spiegel.de/ausland/china-praesident-xi-jinping-der-allmaechtige](https://www.spiegel.de/ausland/china-praesident-xi-jinping-der-allmaechtige-a-0d83eb9b-b4c8-4ecb-b025-16073be18032#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-die-richtung-in-die-wir-unterwegs-sind-ist-keine-gute](https://www.spiegel.de/politik/deutschland/karl-lauterbach-die-richtung-in-die-wir-unterwegs-sind-ist-keine-gute-a-6ef70115-efc7-4a79-be70-4be5e3895683#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/china-praesident-xi-jinping-der-allmaechtige](https://www.spiegel.de/ausland/china-praesident-xi-jinping-der-allmaechtige-a-0d83eb9b-b4c8-4ecb-b025-16073be18032#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers-a-f7a2abb2-7378-4619-8a0a-aa99bdb6e690#ref=rss)
+### ttip
+
+* [https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa](https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa-a-42c91ce7-5cca-4fa6-950f-a1bdcac12fd3#ref=rss)
+### kanzleramt
+
+* [https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa](https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa-a-42c91ce7-5cca-4fa6-950f-a1bdcac12fd3#ref=rss)
+### neue
+
+* [https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa](https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa-a-42c91ce7-5cca-4fa6-950f-a1bdcac12fd3#ref=rss)
+### freihandelsabkommen
+
+* [https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa](https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa-a-42c91ce7-5cca-4fa6-950f-a1bdcac12fd3#ref=rss)
+### verhandlungen
+
+* [https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa](https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa-a-42c91ce7-5cca-4fa6-950f-a1bdcac12fd3#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa](https://www.spiegel.de/panorama/kanzleramt-erwaegt-neuen-anlauf-fuer-freihandelsabkommen-mit-den-usa-a-42c91ce7-5cca-4fa6-950f-a1bdcac12fd3#ref=rss)
+* [https://www.spiegel.de/panorama/zollitsch-verzoegert-veroeffentlichung](https://www.spiegel.de/panorama/zollitsch-verzoegert-veroeffentlichung-a-3ea3280d-ae6a-4abe-b604-23b13cffd67d#ref=rss)
+### 26
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-bis-zu-26-grad-spaetsommerfeeling-im-oktober](https://www.spiegel.de/panorama/wetter-in-deutschland-bis-zu-26-grad-spaetsommerfeeling-im-oktober-a-5a0e9a2e-0fab-4cc4-b6ac-e97f2d7c7724#ref=rss)
+### grad
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-bis-zu-26-grad-spaetsommerfeeling-im-oktober](https://www.spiegel.de/panorama/wetter-in-deutschland-bis-zu-26-grad-spaetsommerfeeling-im-oktober-a-5a0e9a2e-0fab-4cc4-b6ac-e97f2d7c7724#ref=rss)
+### oktober
+
+* [https://www.spiegel.de/panorama/wetter-in-deutschland-bis-zu-26-grad-spaetsommerfeeling-im-oktober](https://www.spiegel.de/panorama/wetter-in-deutschland-bis-zu-26-grad-spaetsommerfeeling-im-oktober-a-5a0e9a2e-0fab-4cc4-b6ac-e97f2d7c7724#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-koennen-die-proteste-die-geopolitische-ordnung-ins-wanken-bringen](https://www.spiegel.de/ausland/iran-koennen-die-proteste-die-geopolitische-ordnung-ins-wanken-bringen-a-0d7ecdb5-82aa-4377-88cf-b0285d2e36f6#ref=rss)
+### experten
+
+* [https://www.spiegel.de/ausland/iran-koennen-die-proteste-die-geopolitische-ordnung-ins-wanken-bringen](https://www.spiegel.de/ausland/iran-koennen-die-proteste-die-geopolitische-ordnung-ins-wanken-bringen-a-0d7ecdb5-82aa-4377-88cf-b0285d2e36f6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben](https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben-a-75cee149-18c9-4658-b863-b52cf4597271#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt](https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt-a-86f36b04-23df-431e-8ef5-5b7f2b3e955a#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt](https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt-a-86f36b04-23df-431e-8ef5-5b7f2b3e955a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ueppig-dotierter-arbeitsvertrag-rbb-justiziarin-war-bestens-abgesichert](https://www.spiegel.de/wirtschaft/ueppig-dotierter-arbeitsvertrag-rbb-justiziarin-war-bestens-abgesichert-a-22a4a6a6-976f-4680-9721-fc4d76fde199#ref=rss)
+### mario
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt](https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt-a-86f36b04-23df-431e-8ef5-5b7f2b3e955a#ref=rss)
+### voigt
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt](https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt-a-86f36b04-23df-431e-8ef5-5b7f2b3e955a#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt](https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt-a-86f36b04-23df-431e-8ef5-5b7f2b3e955a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-und-rezession-stehen-wir-vor-einer-neuen-weltfinanzkrise](https://www.spiegel.de/wirtschaft/inflation-und-rezession-stehen-wir-vor-einer-neuen-weltfinanzkrise-a-04cd494b-c94e-4c31-ab67-4ec5a373fae6#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt](https://www.spiegel.de/politik/deutschland/thueringen-staatsanwaltschaft-erfurt-ermittelt-gegen-cdu-landeschef-mario-voigt-a-86f36b04-23df-431e-8ef5-5b7f2b3e955a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fdp-fordert-stopp-der-eu-beitrittsverhandlungen-mit-serbien](https://www.spiegel.de/politik/deutschland/fdp-fordert-stopp-der-eu-beitrittsverhandlungen-mit-serbien-a-125fdf9e-971f-499f-96d6-d3dbaddbad60#ref=rss)
+### nackte
+
+* [https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage](https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage-a-8c1e7faf-a128-4946-8bcc-01252311f218#ref=rss)
+### kanone
+
+* [https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage](https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage-a-8c1e7faf-a128-4946-8bcc-01252311f218#ref=rss)
+### sister
+
+* [https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage](https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage-a-8c1e7faf-a128-4946-8bcc-01252311f218#ref=rss)
+### act
+
+* [https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage](https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage-a-8c1e7faf-a128-4946-8bcc-01252311f218#ref=rss)
+### bekommen
+
+* [https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage](https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage-a-8c1e7faf-a128-4946-8bcc-01252311f218#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-beantragt-erneut-staatshilfen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-beantragt-erneut-staatshilfen-a-f11931f6-7c83-4dff-b784-864be7cc02f3#ref=rss)
+### kino
+
+* [https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage](https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage-a-8c1e7faf-a128-4946-8bcc-01252311f218#ref=rss)
+* [https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne](https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne-a-7f253918-a81d-4731-bed9-c2271d02151e#ref=rss)
+### geplant
+
+* [https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage](https://www.spiegel.de/kultur/kino/die-nackte-kanone-und-sister-act-bekommen-neuauflage-a-8c1e7faf-a128-4946-8bcc-01252311f218#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder](https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder-a-53d2a548-9d18-47b0-9e09-c7e3b82d56e4#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/velbert-autofahrer-versteckte-sich-im-kofferraum-vor-der-polizei](https://www.spiegel.de/panorama/justiz/velbert-autofahrer-versteckte-sich-im-kofferraum-vor-der-polizei-a-4f5d1f6b-b5af-4ac0-b2fe-f834dcc98cd3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-in-hessen-mann-beisst-polizeihund](https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-in-hessen-mann-beisst-polizeihund-a-15619991-2980-4600-9028-7201a698e454#ref=rss)
+### zensoren
+
+* [https://www.spiegel.de/ausland/china-zensoren-blockieren-hinweise-ueber-protestaktion-in-peking](https://www.spiegel.de/ausland/china-zensoren-blockieren-hinweise-ueber-protestaktion-in-peking-a-7c01d282-91af-4094-842c-5b954f59bfec#ref=rss)
+### protestaktion
+
+* [https://www.spiegel.de/ausland/china-zensoren-blockieren-hinweise-ueber-protestaktion-in-peking](https://www.spiegel.de/ausland/china-zensoren-blockieren-hinweise-ueber-protestaktion-in-peking-a-7c01d282-91af-4094-842c-5b954f59bfec#ref=rss)
+### peking
+
+* [https://www.spiegel.de/ausland/china-zensoren-blockieren-hinweise-ueber-protestaktion-in-peking](https://www.spiegel.de/ausland/china-zensoren-blockieren-hinweise-ueber-protestaktion-in-peking-a-7c01d282-91af-4094-842c-5b954f59bfec#ref=rss)
+### kalifornien
+
+* [https://www.spiegel.de/netzwelt/gadgets/usa-kalifornien-erlaubt-digitale-nummernschilder](https://www.spiegel.de/netzwelt/gadgets/usa-kalifornien-erlaubt-digitale-nummernschilder-a-45621847-86bb-4c31-a5bf-284688f30f91#ref=rss)
+### mehreren
+
+* [https://www.spiegel.de/netzwelt/gadgets/usa-kalifornien-erlaubt-digitale-nummernschilder](https://www.spiegel.de/netzwelt/gadgets/usa-kalifornien-erlaubt-digitale-nummernschilder-a-45621847-86bb-4c31-a5bf-284688f30f91#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ralf-wolter-karl-may-star-ist-tot](https://www.spiegel.de/kultur/kino/ralf-wolter-karl-may-star-ist-tot-a-ec81b2b7-cbbe-4c77-9614-0236d1cf5def#ref=rss)
+### euro
+
+* [https://www.spiegel.de/wirtschaft/eu-parlament-die-bizarre-diaeten-posse](https://www.spiegel.de/wirtschaft/eu-parlament-die-bizarre-diaeten-posse-a-250fa816-a91f-4a90-bd72-fcc1c722c91b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ueppig-dotierter-arbeitsvertrag-rbb-justiziarin-war-bestens-abgesichert](https://www.spiegel.de/wirtschaft/ueppig-dotierter-arbeitsvertrag-rbb-justiziarin-war-bestens-abgesichert-a-22a4a6a6-976f-4680-9721-fc4d76fde199#ref=rss)
+### erzdiözese
+
+* [https://www.spiegel.de/panorama/zollitsch-verzoegert-veroeffentlichung](https://www.spiegel.de/panorama/zollitsch-verzoegert-veroeffentlichung-a-3ea3280d-ae6a-4abe-b604-23b13cffd67d#ref=rss)
+### freiburg
+
+* [https://www.spiegel.de/panorama/zollitsch-verzoegert-veroeffentlichung](https://www.spiegel.de/panorama/zollitsch-verzoegert-veroeffentlichung-a-3ea3280d-ae6a-4abe-b604-23b13cffd67d#ref=rss)
+### zollitsch
+
+* [https://www.spiegel.de/panorama/zollitsch-verzoegert-veroeffentlichung](https://www.spiegel.de/panorama/zollitsch-verzoegert-veroeffentlichung-a-3ea3280d-ae6a-4abe-b604-23b13cffd67d#ref=rss)
+### katar
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers-a-f7a2abb2-7378-4619-8a0a-aa99bdb6e690#ref=rss)
+### gary
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers-a-f7a2abb2-7378-4619-8a0a-aa99bdb6e690#ref=rss)
+### lineker
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers-a-f7a2abb2-7378-4619-8a0a-aa99bdb6e690#ref=rss)
+### fußballer
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers-a-f7a2abb2-7378-4619-8a0a-aa99bdb6e690#ref=rss)
+### comingout
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers-a-f7a2abb2-7378-4619-8a0a-aa99bdb6e690#ref=rss)
+### turniers
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-gary-lineker-ermuntert-schwule-fussballer-zu-coming-out-waehrend-des-turniers-a-f7a2abb2-7378-4619-8a0a-aa99bdb6e690#ref=rss)
+### karl
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-die-richtung-in-die-wir-unterwegs-sind-ist-keine-gute](https://www.spiegel.de/politik/deutschland/karl-lauterbach-die-richtung-in-die-wir-unterwegs-sind-ist-keine-gute-a-6ef70115-efc7-4a79-be70-4be5e3895683#ref=rss)
+* [https://www.spiegel.de/kultur/kino/ralf-wolter-karl-may-star-ist-tot](https://www.spiegel.de/kultur/kino/ralf-wolter-karl-may-star-ist-tot-a-ec81b2b7-cbbe-4c77-9614-0236d1cf5def#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-die-richtung-in-die-wir-unterwegs-sind-ist-keine-gute](https://www.spiegel.de/politik/deutschland/karl-lauterbach-die-richtung-in-die-wir-unterwegs-sind-ist-keine-gute-a-6ef70115-efc7-4a79-be70-4be5e3895683#ref=rss)
+### streaming
+
+* [https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne](https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne-a-7f253918-a81d-4731-bed9-c2271d02151e#ref=rss)
+* [https://www.spiegel.de/netzwelt/konsumverhalten-verbraucher-sparen-nicht-bei-smartphone-und-streaming](https://www.spiegel.de/netzwelt/konsumverhalten-verbraucher-sparen-nicht-bei-smartphone-und-streaming-a-018108d4-01ec-4bc7-9a49-0e1ef21b6f30#ref=rss)
+### mein
+
+* [https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne](https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne-a-7f253918-a81d-4731-bed9-c2271d02151e#ref=rss)
+### kind
+
+* [https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne](https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne-a-7f253918-a81d-4731-bed9-c2271d02151e#ref=rss)
+### fernsehen
+
+* [https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne](https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne-a-7f253918-a81d-4731-bed9-c2271d02151e#ref=rss)
+### besser
+
+* [https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne](https://www.spiegel.de/familie/streaming-games-kino-zum-glueck-muss-mein-kind-nicht-mehr-fernsehen-kolumne-a-7f253918-a81d-4731-bed9-c2271d02151e#ref=rss)
+### galeria
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-beantragt-erneut-staatshilfen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-beantragt-erneut-staatshilfen-a-f11931f6-7c83-4dff-b784-864be7cc02f3#ref=rss)
+### lage
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-beantragt-erneut-staatshilfen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-beantragt-erneut-staatshilfen-a-f11931f6-7c83-4dff-b784-864be7cc02f3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-und-rezession-stehen-wir-vor-einer-neuen-weltfinanzkrise](https://www.spiegel.de/wirtschaft/inflation-und-rezession-stehen-wir-vor-einer-neuen-weltfinanzkrise-a-04cd494b-c94e-4c31-ab67-4ec5a373fae6#ref=rss)
+### verbraucher
+
+* [https://www.spiegel.de/netzwelt/konsumverhalten-verbraucher-sparen-nicht-bei-smartphone-und-streaming](https://www.spiegel.de/netzwelt/konsumverhalten-verbraucher-sparen-nicht-bei-smartphone-und-streaming-a-018108d4-01ec-4bc7-9a49-0e1ef21b6f30#ref=rss)
+### große
+
+* [https://www.spiegel.de/netzwelt/konsumverhalten-verbraucher-sparen-nicht-bei-smartphone-und-streaming](https://www.spiegel.de/netzwelt/konsumverhalten-verbraucher-sparen-nicht-bei-smartphone-und-streaming-a-018108d4-01ec-4bc7-9a49-0e1ef21b6f30#ref=rss)
+* [https://www.spiegel.de/wirtschaft/inflation-und-rezession-stehen-wir-vor-einer-neuen-weltfinanzkrise](https://www.spiegel.de/wirtschaft/inflation-und-rezession-stehen-wir-vor-einer-neuen-weltfinanzkrise-a-04cd494b-c94e-4c31-ab67-4ec5a373fae6#ref=rss)
+### fraunhofergesellschaft
+
+* [https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder](https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder-a-53d2a548-9d18-47b0-9e09-c7e3b82d56e4#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder](https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder-a-53d2a548-9d18-47b0-9e09-c7e3b82d56e4#ref=rss)
+### reimund
+
+* [https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder](https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder-a-53d2a548-9d18-47b0-9e09-c7e3b82d56e4#ref=rss)
+### neugebauer
+
+* [https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder](https://www.spiegel.de/panorama/bildung/fraunhofer-gesellschaft-praesident-reimund-neugebauer-legt-amt-vorzeitig-nieder-a-53d2a548-9d18-47b0-9e09-c7e3b82d56e4#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/politik/deutschland/fdp-fordert-stopp-der-eu-beitrittsverhandlungen-mit-serbien](https://www.spiegel.de/politik/deutschland/fdp-fordert-stopp-der-eu-beitrittsverhandlungen-mit-serbien-a-125fdf9e-971f-499f-96d6-d3dbaddbad60#ref=rss)
+### serbien
+
+* [https://www.spiegel.de/politik/deutschland/fdp-fordert-stopp-der-eu-beitrittsverhandlungen-mit-serbien](https://www.spiegel.de/politik/deutschland/fdp-fordert-stopp-der-eu-beitrittsverhandlungen-mit-serbien-a-125fdf9e-971f-499f-96d6-d3dbaddbad60#ref=rss)
+### belarus
+
+* [https://www.spiegel.de/ausland/belarus-diktator-alexander-lukaschenko-erweitert-befugnisse-der-anti-terror-einheiten](https://www.spiegel.de/ausland/belarus-diktator-alexander-lukaschenko-erweitert-befugnisse-der-anti-terror-einheiten-a-b8e3e813-b074-4c7b-a322-ec629fb496ae#ref=rss)
+### eigenen
+
+* [https://www.spiegel.de/ausland/belarus-diktator-alexander-lukaschenko-erweitert-befugnisse-der-anti-terror-einheiten](https://www.spiegel.de/ausland/belarus-diktator-alexander-lukaschenko-erweitert-befugnisse-der-anti-terror-einheiten-a-b8e3e813-b074-4c7b-a322-ec629fb496ae#ref=rss)
+### ralf
+
+* [https://www.spiegel.de/kultur/kino/ralf-wolter-karl-may-star-ist-tot](https://www.spiegel.de/kultur/kino/ralf-wolter-karl-may-star-ist-tot-a-ec81b2b7-cbbe-4c77-9614-0236d1cf5def#ref=rss)
+### wolter
+
+* [https://www.spiegel.de/kultur/kino/ralf-wolter-karl-may-star-ist-tot](https://www.spiegel.de/kultur/kino/ralf-wolter-karl-may-star-ist-tot-a-ec81b2b7-cbbe-4c77-9614-0236d1cf5def#ref=rss)
+### hessen
+
+* [https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-in-hessen-mann-beisst-polizeihund](https://www.spiegel.de/panorama/justiz/ginsheim-gustavsburg-in-hessen-mann-beisst-polizeihund-a-15619991-2980-4600-9028-7201a698e454#ref=rss)
+### preise
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben](https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben-a-75cee149-18c9-4658-b863-b52cf4597271#ref=rss)
+### getrieben
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben](https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-nachlaessigkeit-beim-gaseinkauf-soll-preise-in-die-hoehe-getrieben-haben-a-75cee149-18c9-4658-b863-b52cf4597271#ref=rss)
 
