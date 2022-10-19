@@ -4,266 +4,271 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zurück
-
-* [https://www.spiegel.de/ausland/hamas-delegation-reist-erstmals-seit-jahrzehnten-nach-syrien](https://www.spiegel.de/ausland/hamas-delegation-reist-erstmals-seit-jahrzehnten-nach-syrien-a-f1caf3b7-238b-46e0-ae0a-9e35fc26b1df#ref=rss)
-* [https://www.spiegel.de/ausland/pakistan-nach-der-flut-das-wasser-schwindet-das-elend-faengt-erst-an](https://www.spiegel.de/ausland/pakistan-nach-der-flut-das-wasser-schwindet-das-elend-faengt-erst-an-a-dc8b8ee7-cb3e-47e9-b6ba-80b1310e8b49#ref=rss)
-* [https://www.spiegel.de/kultur/musik/blaeck-foeoess-die-letzten-gruendungsmitglieder-treten-zurueck](https://www.spiegel.de/kultur/musik/blaeck-foeoess-die-letzten-gruendungsmitglieder-treten-zurueck-a-62d0dc9c-674b-436f-9569-dd2c435d0333#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/chemische-haarglaettung-koennte-gebaermutterkrebsrisiko-erhoehen](https://www.spiegel.de/wissenschaft/medizin/chemische-haarglaettung-koennte-gebaermutterkrebsrisiko-erhoehen-a-5aaec0b1-f3de-443e-b638-9a4f72f096ed#ref=rss)
-### elnaz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fracking-elnaz-rekabi-kita-pflicht](https://www.spiegel.de/politik/deutschland/news-des-tages-fracking-elnaz-rekabi-kita-pflicht-a-316dbb96-0853-45f9-948e-b963312bd901#ref=rss)
-* [https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi](https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi-a-48d62f33-9559-48f2-b2af-f7493bd015c9#ref=rss)
-### rekabi
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fracking-elnaz-rekabi-kita-pflicht](https://www.spiegel.de/politik/deutschland/news-des-tages-fracking-elnaz-rekabi-kita-pflicht-a-316dbb96-0853-45f9-948e-b963312bd901#ref=rss)
-* [https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi](https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi-a-48d62f33-9559-48f2-b2af-f7493bd015c9#ref=rss)
-### apple
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-stellt-neue-ipads-und-ein-schnelleres-apple-tv-vor](https://www.spiegel.de/netzwelt/gadgets/apple-stellt-neue-ipads-und-ein-schnelleres-apple-tv-vor-a-ee74beca-95a2-4e1e-9e1f-177a83827c6c#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-stellt-neue-ipads-und-ein-schnelleres-apple-tv-vor](https://www.spiegel.de/netzwelt/gadgets/apple-stellt-neue-ipads-und-ein-schnelleres-apple-tv-vor-a-ee74beca-95a2-4e1e-9e1f-177a83827c6c#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/gefangenenaustausch-im-russland-ukraine-krieg-ich-moechte-so-gerne-meine-tochter-sehen](https://www.spiegel.de/ausland/gefangenenaustausch-im-russland-ukraine-krieg-ich-moechte-so-gerne-meine-tochter-sehen-a-006d4f67-21d3-41e7-bdc5-7d94a29ee883#ref=rss)
-* [https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi](https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi-a-48d62f33-9559-48f2-b2af-f7493bd015c9#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/chemische-haarglaettung-koennte-gebaermutterkrebsrisiko-erhoehen](https://www.spiegel.de/wissenschaft/medizin/chemische-haarglaettung-koennte-gebaermutterkrebsrisiko-erhoehen-a-5aaec0b1-f3de-443e-b638-9a4f72f096ed#ref=rss)
-### teams
-
-* [https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord](https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord-a-99ebe778-fcca-4983-b735-9be7fc1ef80c#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-2022-23-die-grosse-vorschau-zur-neuen-saison](https://www.spiegel.de/sport/basketball/nba-2022-23-die-grosse-vorschau-zur-neuen-saison-a-b5dfee24-332b-446e-9866-47aff7f12a56#ref=rss)
-### göttingen
-
-* [https://www.spiegel.de/wissenschaft/mensch/goettingen-uni-goettingen-will-schaedelsammlung-zurueckgeben](https://www.spiegel.de/wissenschaft/mensch/goettingen-uni-goettingen-will-schaedelsammlung-zurueckgeben-a-83a601b1-5cbf-4016-aaf6-0aa43baaa20f#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/sport/basketball/nba-2022-23-die-grosse-vorschau-zur-neuen-saison](https://www.spiegel.de/sport/basketball/nba-2022-23-die-grosse-vorschau-zur-neuen-saison-a-b5dfee24-332b-446e-9866-47aff7f12a56#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-rb-leipzig-wirft-hamburger-sv-raus-eintracht-frankfurt-souveraen-weiter](https://www.spiegel.de/sport/fussball/dfb-pokal-rb-leipzig-wirft-hamburger-sv-raus-eintracht-frankfurt-souveraen-weiter-a-69a78c9c-5b05-4e9f-8c2c-6de2a1ba5040#ref=rss)
-### frankfurt
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-rb-leipzig-wirft-hamburger-sv-raus-eintracht-frankfurt-souveraen-weiter](https://www.spiegel.de/sport/fussball/dfb-pokal-rb-leipzig-wirft-hamburger-sv-raus-eintracht-frankfurt-souveraen-weiter-a-69a78c9c-5b05-4e9f-8c2c-6de2a1ba5040#ref=rss)
-* [https://www.spiegel.de/panorama/korruptionsverfahren-gegen-frankfurt-ob-peter-feldmann-dies-fuer-das](https://www.spiegel.de/panorama/korruptionsverfahren-gegen-frankfurt-ob-peter-feldmann-dies-fuer-das-a-5ec7912b-e69d-4bec-b5d4-ccc816295fbd#ref=rss)
-### erst
-
-* [https://www.spiegel.de/sport/fussball/dfb-pokal-rb-leipzig-wirft-hamburger-sv-raus-eintracht-frankfurt-souveraen-weiter](https://www.spiegel.de/sport/fussball/dfb-pokal-rb-leipzig-wirft-hamburger-sv-raus-eintracht-frankfurt-souveraen-weiter-a-69a78c9c-5b05-4e9f-8c2c-6de2a1ba5040#ref=rss)
-* [https://www.spiegel.de/ausland/pakistan-nach-der-flut-das-wasser-schwindet-das-elend-faengt-erst-an](https://www.spiegel.de/ausland/pakistan-nach-der-flut-das-wasser-schwindet-das-elend-faengt-erst-an-a-dc8b8ee7-cb3e-47e9-b6ba-80b1310e8b49#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/ausland/hamas-delegation-reist-erstmals-seit-jahrzehnten-nach-syrien](https://www.spiegel.de/ausland/hamas-delegation-reist-erstmals-seit-jahrzehnten-nach-syrien-a-f1caf3b7-238b-46e0-ae0a-9e35fc26b1df#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/ausland/hamas-delegation-reist-erstmals-seit-jahrzehnten-nach-syrien](https://www.spiegel.de/ausland/hamas-delegation-reist-erstmals-seit-jahrzehnten-nach-syrien-a-f1caf3b7-238b-46e0-ae0a-9e35fc26b1df#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bestechung-der-is-terrormiliz-baustoffkonzern-zahlt-795-millionen-euro-strafe](https://www.spiegel.de/wirtschaft/bestechung-der-is-terrormiliz-baustoffkonzern-zahlt-795-millionen-euro-strafe-a-17be3373-f6b8-45f7-8360-b94ef9f8e7f4#ref=rss)
-### philippinen
-
-* [https://www.spiegel.de/ausland/philippinen-die-hochwasser-taxis-von-hagonoy](https://www.spiegel.de/ausland/philippinen-die-hochwasser-taxis-von-hagonoy-a-97397d21-ff4e-433b-95ab-38cbd4d6ac43#ref=rss)
-### hagonoy
-
-* [https://www.spiegel.de/ausland/philippinen-die-hochwasser-taxis-von-hagonoy](https://www.spiegel.de/ausland/philippinen-die-hochwasser-taxis-von-hagonoy-a-97397d21-ff4e-433b-95ab-38cbd4d6ac43#ref=rss)
-### biotronik
-
-* [https://www.spiegel.de/wirtschaft/biotronik-korruptionsskandal-um-deutschen-vorzeigekonzern](https://www.spiegel.de/wirtschaft/biotronik-korruptionsskandal-um-deutschen-vorzeigekonzern-a-1136aa8b-42e1-4e6c-bd32-e05bc12f9c22#ref=rss)
-### gehört
-
-* [https://www.spiegel.de/wirtschaft/biotronik-korruptionsskandal-um-deutschen-vorzeigekonzern](https://www.spiegel.de/wirtschaft/biotronik-korruptionsskandal-um-deutschen-vorzeigekonzern-a-1136aa8b-42e1-4e6c-bd32-e05bc12f9c22#ref=rss)
-* [https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt](https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt-a-1372e1fa-0002-0001-0000-000207062801#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/wirtschaft/biotronik-korruptionsskandal-um-deutschen-vorzeigekonzern](https://www.spiegel.de/wirtschaft/biotronik-korruptionsskandal-um-deutschen-vorzeigekonzern-a-1136aa8b-42e1-4e6c-bd32-e05bc12f9c22#ref=rss)
-* [https://www.spiegel.de/ausland/gefangenenaustausch-im-russland-ukraine-krieg-ich-moechte-so-gerne-meine-tochter-sehen](https://www.spiegel.de/ausland/gefangenenaustausch-im-russland-ukraine-krieg-ich-moechte-so-gerne-meine-tochter-sehen-a-006d4f67-21d3-41e7-bdc5-7d94a29ee883#ref=rss)
-### eurowings
-
-* [https://www.spiegel.de/wirtschaft/pilotenstreik-eurowings-geht-auf-konfrontationskurs](https://www.spiegel.de/wirtschaft/pilotenstreik-eurowings-geht-auf-konfrontationskurs-a-93949d80-ef03-4ee7-81ac-17c110ab900a#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/panorama/james-bond-daniel-craig-erhaelt-gleichen-koeniglichen-orden-wie-filmfigur](https://www.spiegel.de/panorama/james-bond-daniel-craig-erhaelt-gleichen-koeniglichen-orden-wie-filmfigur-a-5cc2cb35-f857-4e59-b28d-c7d4dd839f92#ref=rss)
-### craig
-
-* [https://www.spiegel.de/panorama/james-bond-daniel-craig-erhaelt-gleichen-koeniglichen-orden-wie-filmfigur](https://www.spiegel.de/panorama/james-bond-daniel-craig-erhaelt-gleichen-koeniglichen-orden-wie-filmfigur-a-5cc2cb35-f857-4e59-b28d-c7d4dd839f92#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/james-bond-daniel-craig-erhaelt-gleichen-koeniglichen-orden-wie-filmfigur](https://www.spiegel.de/panorama/james-bond-daniel-craig-erhaelt-gleichen-koeniglichen-orden-wie-filmfigur-a-5cc2cb35-f857-4e59-b28d-c7d4dd839f92#ref=rss)
-* [https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt](https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt-a-1372e1fa-0002-0001-0000-000207062801#ref=rss)
-### saint
-
-* [https://www.spiegel.de/panorama/james-bond-daniel-craig-erhaelt-gleichen-koeniglichen-orden-wie-filmfigur](https://www.spiegel.de/panorama/james-bond-daniel-craig-erhaelt-gleichen-koeniglichen-orden-wie-filmfigur-a-5cc2cb35-f857-4e59-b28d-c7d4dd839f92#ref=rss)
-### dienstagabend
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-stellt-neue-ipads-und-ein-schnelleres-apple-tv-vor](https://www.spiegel.de/netzwelt/gadgets/apple-stellt-neue-ipads-und-ein-schnelleres-apple-tv-vor-a-ee74beca-95a2-4e1e-9e1f-177a83827c6c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fracking-elnaz-rekabi-kita-pflicht](https://www.spiegel.de/politik/deutschland/news-des-tages-fracking-elnaz-rekabi-kita-pflicht-a-316dbb96-0853-45f9-948e-b963312bd901#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/bestechung-der-is-terrormiliz-baustoffkonzern-zahlt-795-millionen-euro-strafe](https://www.spiegel.de/wirtschaft/bestechung-der-is-terrormiliz-baustoffkonzern-zahlt-795-millionen-euro-strafe-a-17be3373-f6b8-45f7-8360-b94ef9f8e7f4#ref=rss)
-* [https://www.spiegel.de/ausland/somalia-massive-finanzluecken-bei-duerre-hilfsplan](https://www.spiegel.de/ausland/somalia-massive-finanzluecken-bei-duerre-hilfsplan-a-786f0399-04c8-4ab7-8ea5-ab3647d3e9da#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/gefangenenaustausch-im-russland-ukraine-krieg-ich-moechte-so-gerne-meine-tochter-sehen](https://www.spiegel.de/ausland/gefangenenaustausch-im-russland-ukraine-krieg-ich-moechte-so-gerne-meine-tochter-sehen-a-006d4f67-21d3-41e7-bdc5-7d94a29ee883#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-fahrt-durch-die-wiedereroberten-orte-im-osten-des-landes](https://www.spiegel.de/ausland/ukraine-fahrt-durch-die-wiedereroberten-orte-im-osten-des-landes-a-9e2d4240-86d0-4e25-9ed5-4dedf9d4cb0e#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/pakistan-nach-der-flut-das-wasser-schwindet-das-elend-faengt-erst-an](https://www.spiegel.de/ausland/pakistan-nach-der-flut-das-wasser-schwindet-das-elend-faengt-erst-an-a-dc8b8ee7-cb3e-47e9-b6ba-80b1310e8b49#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-2022-23-die-grosse-vorschau-zur-neuen-saison](https://www.spiegel.de/sport/basketball/nba-2022-23-die-grosse-vorschau-zur-neuen-saison-a-b5dfee24-332b-446e-9866-47aff7f12a56#ref=rss)
-### fracking
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fracking-elnaz-rekabi-kita-pflicht](https://www.spiegel.de/politik/deutschland/news-des-tages-fracking-elnaz-rekabi-kita-pflicht-a-316dbb96-0853-45f9-948e-b963312bd901#ref=rss)
-### kletterin
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fracking-elnaz-rekabi-kita-pflicht](https://www.spiegel.de/politik/deutschland/news-des-tages-fracking-elnaz-rekabi-kita-pflicht-a-316dbb96-0853-45f9-948e-b963312bd901#ref=rss)
-* [https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi](https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi-a-48d62f33-9559-48f2-b2af-f7493bd015c9#ref=rss)
-### sicherheit
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-fracking-elnaz-rekabi-kita-pflicht](https://www.spiegel.de/politik/deutschland/news-des-tages-fracking-elnaz-rekabi-kita-pflicht-a-316dbb96-0853-45f9-948e-b963312bd901#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/arne-schoenbohm-abgeordnete-verlangen-schnelle-entscheidung-fuer-bsi-nachfolge](https://www.spiegel.de/netzwelt/netzpolitik/arne-schoenbohm-abgeordnete-verlangen-schnelle-entscheidung-fuer-bsi-nachfolge-a-f764610d-1b01-4e2b-a18b-6fdc6cd13cec#ref=rss)
-### abgeordnete
-
-* [https://www.spiegel.de/politik/deutschland/eu-parlament-linkenabgeordnete-verzichten-auf-diaetenerhoehung](https://www.spiegel.de/politik/deutschland/eu-parlament-linkenabgeordnete-verzichten-auf-diaetenerhoehung-a-61ee04f2-9534-4185-8228-74d395b46d03#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/arne-schoenbohm-abgeordnete-verlangen-schnelle-entscheidung-fuer-bsi-nachfolge](https://www.spiegel.de/netzwelt/netzpolitik/arne-schoenbohm-abgeordnete-verlangen-schnelle-entscheidung-fuer-bsi-nachfolge-a-f764610d-1b01-4e2b-a18b-6fdc6cd13cec#ref=rss)
-### treten
-
-* [https://www.spiegel.de/kultur/musik/blaeck-foeoess-die-letzten-gruendungsmitglieder-treten-zurueck](https://www.spiegel.de/kultur/musik/blaeck-foeoess-die-letzten-gruendungsmitglieder-treten-zurueck-a-62d0dc9c-674b-436f-9569-dd2c435d0333#ref=rss)
-### bye
-
-* [https://www.spiegel.de/kultur/musik/blaeck-foeoess-die-letzten-gruendungsmitglieder-treten-zurueck](https://www.spiegel.de/kultur/musik/blaeck-foeoess-die-letzten-gruendungsmitglieder-treten-zurueck-a-62d0dc9c-674b-436f-9569-dd2c435d0333#ref=rss)
-### kölner
-
-* [https://www.spiegel.de/kultur/musik/blaeck-foeoess-die-letzten-gruendungsmitglieder-treten-zurueck](https://www.spiegel.de/kultur/musik/blaeck-foeoess-die-letzten-gruendungsmitglieder-treten-zurueck-a-62d0dc9c-674b-436f-9569-dd2c435d0333#ref=rss)
-* [https://www.spiegel.de/kultur/tv/fred-fussbroich-aus-der-wdr-dokuserie-die-fussbroichs-ist-tot](https://www.spiegel.de/kultur/tv/fred-fussbroich-aus-der-wdr-dokuserie-die-fussbroichs-ist-tot-a-985c23bd-e422-445f-83f2-95bf15a506dd#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/kultur/musik/blaeck-foeoess-die-letzten-gruendungsmitglieder-treten-zurueck](https://www.spiegel.de/kultur/musik/blaeck-foeoess-die-letzten-gruendungsmitglieder-treten-zurueck-a-62d0dc9c-674b-436f-9569-dd2c435d0333#ref=rss)
-* [https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt](https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt-a-1372e1fa-0002-0001-0000-000207062801#ref=rss)
-### jahren
+* [https://www.spiegel.de/sport/fussball/schalke-04-trennt-sich-von-trainer-frank-kramer](https://www.spiegel.de/sport/fussball/schalke-04-trennt-sich-von-trainer-frank-kramer-a-d798b325-47ea-4d5e-af33-7e3df10f7c31#ref=rss)
+* [https://www.spiegel.de/wirtschaft/teure-nahrungsmittel-britische-inflationsrate-steigt-auf-10-1-prozent](https://www.spiegel.de/wirtschaft/teure-nahrungsmittel-britische-inflationsrate-steigt-auf-10-1-prozent-a-1b50f4fe-0863-4744-b94c-22fd19001c7e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-ukraine-zieht-vor-cherson-laut-russland-zehntausende-soldaten-zusammen](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-ukraine-zieht-vor-cherson-laut-russland-zehntausende-soldaten-zusammen-a-6211ac54-9902-41f9-8504-c0decb3e3404#ref=rss)
+* [https://www.spiegel.de/start/guenther-jauch-ueber-entscheidungen-der-mensch-ist-ein-gefuehlstier](https://www.spiegel.de/start/guenther-jauch-ueber-entscheidungen-der-mensch-ist-ein-gefuehlstier-a-8246ad92-5fa8-4d15-bdb0-6a0a8a8cbdb8#ref=rss)
+### cherson
 
-* [https://www.spiegel.de/kultur/musik/blaeck-foeoess-die-letzten-gruendungsmitglieder-treten-zurueck](https://www.spiegel.de/kultur/musik/blaeck-foeoess-die-letzten-gruendungsmitglieder-treten-zurueck-a-62d0dc9c-674b-436f-9569-dd2c435d0333#ref=rss)
-* [https://www.spiegel.de/kultur/tv/fred-fussbroich-aus-der-wdr-dokuserie-die-fussbroichs-ist-tot](https://www.spiegel.de/kultur/tv/fred-fussbroich-aus-der-wdr-dokuserie-die-fussbroichs-ist-tot-a-985c23bd-e422-445f-83f2-95bf15a506dd#ref=rss)
-### doug
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-ukraine-zieht-vor-cherson-laut-russland-zehntausende-soldaten-zusammen](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-ukraine-zieht-vor-cherson-laut-russland-zehntausende-soldaten-zusammen-a-6211ac54-9902-41f9-8504-c0decb3e3404#ref=rss)
+* [https://www.spiegel.de/ausland/kommandeur-russland-erwartet-massive-ukrainische-offensive-auf-cherson](https://www.spiegel.de/ausland/kommandeur-russland-erwartet-massive-ukrainische-offensive-auf-cherson-a-91af3d84-4ea3-4c79-b40d-04f7f6592bb8#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/ausland/doug-mastriano-in-pennsylvania-die-absurde-wahlkampfveranstaltung-des-trump-juengers](https://www.spiegel.de/ausland/doug-mastriano-in-pennsylvania-die-absurde-wahlkampfveranstaltung-des-trump-juengers-a-6467ea28-3e89-4620-82d8-497b6a9fc9cf#ref=rss)
-### mastriano
+* [https://www.spiegel.de/ausland/grossbritannien-premierministerin-liz-truss-stellt-sich-den-fragen-des-parlaments](https://www.spiegel.de/ausland/grossbritannien-premierministerin-liz-truss-stellt-sich-den-fragen-des-parlaments-a-9572525c-b71c-49c2-a144-b326dcf6a53b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/teure-nahrungsmittel-britische-inflationsrate-steigt-auf-10-1-prozent](https://www.spiegel.de/wirtschaft/teure-nahrungsmittel-britische-inflationsrate-steigt-auf-10-1-prozent-a-1b50f4fe-0863-4744-b94c-22fd19001c7e#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/ausland/doug-mastriano-in-pennsylvania-die-absurde-wahlkampfveranstaltung-des-trump-juengers](https://www.spiegel.de/ausland/doug-mastriano-in-pennsylvania-die-absurde-wahlkampfveranstaltung-des-trump-juengers-a-6467ea28-3e89-4620-82d8-497b6a9fc9cf#ref=rss)
-### pennsylvania
+* [https://www.spiegel.de/ausland/grossbritannien-premierministerin-liz-truss-stellt-sich-den-fragen-des-parlaments](https://www.spiegel.de/ausland/grossbritannien-premierministerin-liz-truss-stellt-sich-den-fragen-des-parlaments-a-9572525c-b71c-49c2-a144-b326dcf6a53b#ref=rss)
+* [https://www.spiegel.de/start/guenther-jauch-ueber-entscheidungen-der-mensch-ist-ein-gefuehlstier](https://www.spiegel.de/start/guenther-jauch-ueber-entscheidungen-der-mensch-ist-ein-gefuehlstier-a-8246ad92-5fa8-4d15-bdb0-6a0a8a8cbdb8#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/doug-mastriano-in-pennsylvania-die-absurde-wahlkampfveranstaltung-des-trump-juengers](https://www.spiegel.de/ausland/doug-mastriano-in-pennsylvania-die-absurde-wahlkampfveranstaltung-des-trump-juengers-a-6467ea28-3e89-4620-82d8-497b6a9fc9cf#ref=rss)
-### arne
+* [https://www.spiegel.de/wirtschaft/fdp-blockiert-gesetz-zur-aufteilung-der-co-kosten](https://www.spiegel.de/wirtschaft/fdp-blockiert-gesetz-zur-aufteilung-der-co-kosten-a-06f820db-b85c-4c52-8a1c-59133f5bf2ad#ref=rss)
+* [https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf](https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf-a-dd91217c-22d6-4de4-8dcd-ffcc247626f9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-wie-gefaehrlich-ist-die-neue-variante-bq-1-1](https://www.spiegel.de/wissenschaft/coronavirus-wie-gefaehrlich-ist-die-neue-variante-bq-1-1-a-9a269cc1-fffd-42f7-8fe7-efb6d65ade79#ref=rss)
+### unter
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/arne-schoenbohm-abgeordnete-verlangen-schnelle-entscheidung-fuer-bsi-nachfolge](https://www.spiegel.de/netzwelt/netzpolitik/arne-schoenbohm-abgeordnete-verlangen-schnelle-entscheidung-fuer-bsi-nachfolge-a-f764610d-1b01-4e2b-a18b-6fdc6cd13cec#ref=rss)
-### schönbohm
+* [https://www.spiegel.de/sport/fussball/hertha-praesident-bernstein-will-pyrotechnik-im-stadion-zulassen](https://www.spiegel.de/sport/fussball/hertha-praesident-bernstein-will-pyrotechnik-im-stadion-zulassen-a-ae0294d3-3c4b-4738-87db-209c73ec8fad#ref=rss)
+* [https://www.spiegel.de/stil/koch-des-jahres-ein-hochklassiges-drei-gaenge-menue-fuer-16-euro-kein-problem](https://www.spiegel.de/stil/koch-des-jahres-ein-hochklassiges-drei-gaenge-menue-fuer-16-euro-kein-problem-a-8e69105a-e5be-46d8-b975-abeddf12da76#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/arne-schoenbohm-abgeordnete-verlangen-schnelle-entscheidung-fuer-bsi-nachfolge](https://www.spiegel.de/netzwelt/netzpolitik/arne-schoenbohm-abgeordnete-verlangen-schnelle-entscheidung-fuer-bsi-nachfolge-a-f764610d-1b01-4e2b-a18b-6fdc6cd13cec#ref=rss)
-### fahrt
+* [https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf](https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf-a-dd91217c-22d6-4de4-8dcd-ffcc247626f9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/coronavirus-wie-gefaehrlich-ist-die-neue-variante-bq-1-1](https://www.spiegel.de/wissenschaft/coronavirus-wie-gefaehrlich-ist-die-neue-variante-bq-1-1-a-9a269cc1-fffd-42f7-8fe7-efb6d65ade79#ref=rss)
+### russland
 
-* [https://www.spiegel.de/ausland/ukraine-fahrt-durch-die-wiedereroberten-orte-im-osten-des-landes](https://www.spiegel.de/ausland/ukraine-fahrt-durch-die-wiedereroberten-orte-im-osten-des-landes-a-9e2d4240-86d0-4e25-9ed5-4dedf9d4cb0e#ref=rss)
-### osten
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-ukraine-zieht-vor-cherson-laut-russland-zehntausende-soldaten-zusammen](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-ukraine-zieht-vor-cherson-laut-russland-zehntausende-soldaten-zusammen-a-6211ac54-9902-41f9-8504-c0decb3e3404#ref=rss)
+* [https://www.spiegel.de/ausland/kommandeur-russland-erwartet-massive-ukrainische-offensive-auf-cherson](https://www.spiegel.de/ausland/kommandeur-russland-erwartet-massive-ukrainische-offensive-auf-cherson-a-91af3d84-4ea3-4c79-b40d-04f7f6592bb8#ref=rss)
+### entscheidungen
 
-* [https://www.spiegel.de/ausland/ukraine-fahrt-durch-die-wiedereroberten-orte-im-osten-des-landes](https://www.spiegel.de/ausland/ukraine-fahrt-durch-die-wiedereroberten-orte-im-osten-des-landes-a-9e2d4240-86d0-4e25-9ed5-4dedf9d4cb0e#ref=rss)
-### landes
+* [https://www.spiegel.de/start/guenther-jauch-ueber-entscheidungen-der-mensch-ist-ein-gefuehlstier](https://www.spiegel.de/start/guenther-jauch-ueber-entscheidungen-der-mensch-ist-ein-gefuehlstier-a-8246ad92-5fa8-4d15-bdb0-6a0a8a8cbdb8#ref=rss)
+* [https://www.spiegel.de/ausland/kommandeur-russland-erwartet-massive-ukrainische-offensive-auf-cherson](https://www.spiegel.de/ausland/kommandeur-russland-erwartet-massive-ukrainische-offensive-auf-cherson-a-91af3d84-4ea3-4c79-b40d-04f7f6592bb8#ref=rss)
+### dortmund
 
-* [https://www.spiegel.de/ausland/ukraine-fahrt-durch-die-wiedereroberten-orte-im-osten-des-landes](https://www.spiegel.de/ausland/ukraine-fahrt-durch-die-wiedereroberten-orte-im-osten-des-landes-a-9e2d4240-86d0-4e25-9ed5-4dedf9d4cb0e#ref=rss)
-### ohne
+* [https://www.spiegel.de/panorama/dortmund-mann-stirbt-nach-polizeieinsatz-beamte-setzten-taser-ein](https://www.spiegel.de/panorama/dortmund-mann-stirbt-nach-polizeieinsatz-beamte-setzten-taser-ein-a-6a2d44ce-1537-4f70-8b01-5d16f2b650d2#ref=rss)
+### mann
 
-* [https://www.spiegel.de/ausland/ukraine-fahrt-durch-die-wiedereroberten-orte-im-osten-des-landes](https://www.spiegel.de/ausland/ukraine-fahrt-durch-die-wiedereroberten-orte-im-osten-des-landes-a-9e2d4240-86d0-4e25-9ed5-4dedf9d4cb0e#ref=rss)
-* [https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi](https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi-a-48d62f33-9559-48f2-b2af-f7493bd015c9#ref=rss)
+* [https://www.spiegel.de/panorama/dortmund-mann-stirbt-nach-polizeieinsatz-beamte-setzten-taser-ein](https://www.spiegel.de/panorama/dortmund-mann-stirbt-nach-polizeieinsatz-beamte-setzten-taser-ein-a-6a2d44ce-1537-4f70-8b01-5d16f2b650d2#ref=rss)
+### polizeieinsatz
+
+* [https://www.spiegel.de/panorama/dortmund-mann-stirbt-nach-polizeieinsatz-beamte-setzten-taser-ein](https://www.spiegel.de/panorama/dortmund-mann-stirbt-nach-polizeieinsatz-beamte-setzten-taser-ein-a-6a2d44ce-1537-4f70-8b01-5d16f2b650d2#ref=rss)
+### taser
+
+* [https://www.spiegel.de/panorama/dortmund-mann-stirbt-nach-polizeieinsatz-beamte-setzten-taser-ein](https://www.spiegel.de/panorama/dortmund-mann-stirbt-nach-polizeieinsatz-beamte-setzten-taser-ein-a-6a2d44ce-1537-4f70-8b01-5d16f2b650d2#ref=rss)
+### liz
+
+* [https://www.spiegel.de/ausland/grossbritannien-premierministerin-liz-truss-stellt-sich-den-fragen-des-parlaments](https://www.spiegel.de/ausland/grossbritannien-premierministerin-liz-truss-stellt-sich-den-fragen-des-parlaments-a-9572525c-b71c-49c2-a144-b326dcf6a53b#ref=rss)
+### truss
+
+* [https://www.spiegel.de/ausland/grossbritannien-premierministerin-liz-truss-stellt-sich-den-fragen-des-parlaments](https://www.spiegel.de/ausland/grossbritannien-premierministerin-liz-truss-stellt-sich-den-fragen-des-parlaments-a-9572525c-b71c-49c2-a144-b326dcf6a53b#ref=rss)
 ### fdp
 
-* [https://www.spiegel.de/politik/deutschland/fdp-nach-kanzler-machtwort-im-april-kommt-die-energiefrage-erneut-auf-die-ampel-zu](https://www.spiegel.de/politik/deutschland/fdp-nach-kanzler-machtwort-im-april-kommt-die-energiefrage-erneut-auf-die-ampel-zu-a-3530a3c2-fcf8-4cf5-82d9-c43d34586d51#ref=rss)
-### herrscht
+* [https://www.spiegel.de/wirtschaft/fdp-blockiert-gesetz-zur-aufteilung-der-co-kosten](https://www.spiegel.de/wirtschaft/fdp-blockiert-gesetz-zur-aufteilung-der-co-kosten-a-06f820db-b85c-4c52-8a1c-59133f5bf2ad#ref=rss)
+### kabinett
 
-* [https://www.spiegel.de/politik/deutschland/fdp-nach-kanzler-machtwort-im-april-kommt-die-energiefrage-erneut-auf-die-ampel-zu](https://www.spiegel.de/politik/deutschland/fdp-nach-kanzler-machtwort-im-april-kommt-die-energiefrage-erneut-auf-die-ampel-zu-a-3530a3c2-fcf8-4cf5-82d9-c43d34586d51#ref=rss)
-* [https://www.spiegel.de/ausland/somalia-massive-finanzluecken-bei-duerre-hilfsplan](https://www.spiegel.de/ausland/somalia-massive-finanzluecken-bei-duerre-hilfsplan-a-786f0399-04c8-4ab7-8ea5-ab3647d3e9da#ref=rss)
-### victor
+* [https://www.spiegel.de/politik/deutschland/kabinett-billigt-akw-laufzeitverlaengerung](https://www.spiegel.de/politik/deutschland/kabinett-billigt-akw-laufzeitverlaengerung-a-c7a3e413-1819-439a-a732-45438914583a#ref=rss)
+### robbie
 
-* [https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord](https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord-a-99ebe778-fcca-4983-b735-9be7fc1ef80c#ref=rss)
-### wembanyama
+* [https://www.spiegel.de/kultur/robbie-williams-kuendigt-konzert-in-der-elbphilharmonie-an](https://www.spiegel.de/kultur/robbie-williams-kuendigt-konzert-in-der-elbphilharmonie-an-a-746ad44e-d55a-4d37-a082-9cb20a21f5d3#ref=rss)
+### williams
 
-* [https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord](https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord-a-99ebe778-fcca-4983-b735-9be7fc1ef80c#ref=rss)
-### werfen
+* [https://www.spiegel.de/kultur/robbie-williams-kuendigt-konzert-in-der-elbphilharmonie-an](https://www.spiegel.de/kultur/robbie-williams-kuendigt-konzert-in-der-elbphilharmonie-an-a-746ad44e-d55a-4d37-a082-9cb20a21f5d3#ref=rss)
+### elbphilharmonie
 
-* [https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord](https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord-a-99ebe778-fcca-4983-b735-9be7fc1ef80c#ref=rss)
-### alles
+* [https://www.spiegel.de/kultur/robbie-williams-kuendigt-konzert-in-der-elbphilharmonie-an](https://www.spiegel.de/kultur/robbie-williams-kuendigt-konzert-in-der-elbphilharmonie-an-a-746ad44e-d55a-4d37-a082-9cb20a21f5d3#ref=rss)
+### feiern
 
-* [https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord](https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord-a-99ebe778-fcca-4983-b735-9be7fc1ef80c#ref=rss)
-### bord
+* [https://www.spiegel.de/kultur/robbie-williams-kuendigt-konzert-in-der-elbphilharmonie-an](https://www.spiegel.de/kultur/robbie-williams-kuendigt-konzert-in-der-elbphilharmonie-an-a-746ad44e-d55a-4d37-a082-9cb20a21f5d3#ref=rss)
+* [https://www.spiegel.de/karriere/allbright-studie-beim-frauenanteil-in-boersenvorstaenden-aendert-sich-wenig](https://www.spiegel.de/karriere/allbright-studie-beim-frauenanteil-in-boersenvorstaenden-aendert-sich-wenig-a-4017f600-fbab-400f-927a-15ed2a7ebb04#ref=rss)
+### bernstein
 
-* [https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord](https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord-a-99ebe778-fcca-4983-b735-9be7fc1ef80c#ref=rss)
-### nba
+* [https://www.spiegel.de/sport/fussball/hertha-praesident-bernstein-will-pyrotechnik-im-stadion-zulassen](https://www.spiegel.de/sport/fussball/hertha-praesident-bernstein-will-pyrotechnik-im-stadion-zulassen-a-ae0294d3-3c4b-4738-87db-209c73ec8fad#ref=rss)
+### pyrotechnik
 
-* [https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord](https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord-a-99ebe778-fcca-4983-b735-9be7fc1ef80c#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-2022-23-die-grosse-vorschau-zur-neuen-saison](https://www.spiegel.de/sport/basketball/nba-2022-23-die-grosse-vorschau-zur-neuen-saison-a-b5dfee24-332b-446e-9866-47aff7f12a56#ref=rss)
-### neuen
+* [https://www.spiegel.de/sport/fussball/hertha-praesident-bernstein-will-pyrotechnik-im-stadion-zulassen](https://www.spiegel.de/sport/fussball/hertha-praesident-bernstein-will-pyrotechnik-im-stadion-zulassen-a-ae0294d3-3c4b-4738-87db-209c73ec8fad#ref=rss)
+### stadion
 
-* [https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord](https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord-a-99ebe778-fcca-4983-b735-9be7fc1ef80c#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-2022-23-die-grosse-vorschau-zur-neuen-saison](https://www.spiegel.de/sport/basketball/nba-2022-23-die-grosse-vorschau-zur-neuen-saison-a-b5dfee24-332b-446e-9866-47aff7f12a56#ref=rss)
-### saison
+* [https://www.spiegel.de/sport/fussball/hertha-praesident-bernstein-will-pyrotechnik-im-stadion-zulassen](https://www.spiegel.de/sport/fussball/hertha-praesident-bernstein-will-pyrotechnik-im-stadion-zulassen-a-ae0294d3-3c4b-4738-87db-209c73ec8fad#ref=rss)
+### gut
 
-* [https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord](https://www.spiegel.de/sport/basketball/nba-start-fuer-victor-wembanyama-werfen-die-teams-alles-ueber-bord-a-99ebe778-fcca-4983-b735-9be7fc1ef80c#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-2022-23-die-grosse-vorschau-zur-neuen-saison](https://www.spiegel.de/sport/basketball/nba-2022-23-die-grosse-vorschau-zur-neuen-saison-a-b5dfee24-332b-446e-9866-47aff7f12a56#ref=rss)
-### fred
+* [https://www.spiegel.de/sport/fussball/hertha-praesident-bernstein-will-pyrotechnik-im-stadion-zulassen](https://www.spiegel.de/sport/fussball/hertha-praesident-bernstein-will-pyrotechnik-im-stadion-zulassen-a-ae0294d3-3c4b-4738-87db-209c73ec8fad#ref=rss)
+* [https://www.spiegel.de/gesundheit/corona-wiederverwendbare-ffp2-masken-fallen-bei-stiftung-warentest-durch](https://www.spiegel.de/gesundheit/corona-wiederverwendbare-ffp2-masken-fallen-bei-stiftung-warentest-durch-a-3ea21d73-eb47-43f5-a51b-e3dd0c81c5de#ref=rss)
+### explosionen
 
-* [https://www.spiegel.de/kultur/tv/fred-fussbroich-aus-der-wdr-dokuserie-die-fussbroichs-ist-tot](https://www.spiegel.de/kultur/tv/fred-fussbroich-aus-der-wdr-dokuserie-die-fussbroichs-ist-tot-a-985c23bd-e422-445f-83f2-95bf15a506dd#ref=rss)
-### fussbroich
+* [https://www.spiegel.de/ausland/mindestens-acht-tote-explosionen-in-myanmarischem-foltergefaengnis](https://www.spiegel.de/ausland/mindestens-acht-tote-explosionen-in-myanmarischem-foltergefaengnis-a-21ec171d-85b7-46de-bdac-f27a0f126382#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/kultur/tv/fred-fussbroich-aus-der-wdr-dokuserie-die-fussbroichs-ist-tot](https://www.spiegel.de/kultur/tv/fred-fussbroich-aus-der-wdr-dokuserie-die-fussbroichs-ist-tot-a-985c23bd-e422-445f-83f2-95bf15a506dd#ref=rss)
-### wdrdokuserie
-
-* [https://www.spiegel.de/kultur/tv/fred-fussbroich-aus-der-wdr-dokuserie-die-fussbroichs-ist-tot](https://www.spiegel.de/kultur/tv/fred-fussbroich-aus-der-wdr-dokuserie-die-fussbroichs-ist-tot-a-985c23bd-e422-445f-83f2-95bf15a506dd#ref=rss)
-### fussbroichs
-
-* [https://www.spiegel.de/kultur/tv/fred-fussbroich-aus-der-wdr-dokuserie-die-fussbroichs-ist-tot](https://www.spiegel.de/kultur/tv/fred-fussbroich-aus-der-wdr-dokuserie-die-fussbroichs-ist-tot-a-985c23bd-e422-445f-83f2-95bf15a506dd#ref=rss)
-### uni
-
-* [https://www.spiegel.de/wissenschaft/mensch/goettingen-uni-goettingen-will-schaedelsammlung-zurueckgeben](https://www.spiegel.de/wissenschaft/mensch/goettingen-uni-goettingen-will-schaedelsammlung-zurueckgeben-a-83a601b1-5cbf-4016-aaf6-0aa43baaa20f#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/wissenschaft/mensch/goettingen-uni-goettingen-will-schaedelsammlung-zurueckgeben](https://www.spiegel.de/wissenschaft/mensch/goettingen-uni-goettingen-will-schaedelsammlung-zurueckgeben-a-83a601b1-5cbf-4016-aaf6-0aa43baaa20f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/chemische-haarglaettung-koennte-gebaermutterkrebsrisiko-erhoehen](https://www.spiegel.de/wissenschaft/medizin/chemische-haarglaettung-koennte-gebaermutterkrebsrisiko-erhoehen-a-5aaec0b1-f3de-443e-b638-9a4f72f096ed#ref=rss)
-### peter
-
-* [https://www.spiegel.de/panorama/korruptionsverfahren-gegen-frankfurt-ob-peter-feldmann-dies-fuer-das](https://www.spiegel.de/panorama/korruptionsverfahren-gegen-frankfurt-ob-peter-feldmann-dies-fuer-das-a-5ec7912b-e69d-4bec-b5d4-ccc816295fbd#ref=rss)
-### feldmann
-
-* [https://www.spiegel.de/panorama/korruptionsverfahren-gegen-frankfurt-ob-peter-feldmann-dies-fuer-das](https://www.spiegel.de/panorama/korruptionsverfahren-gegen-frankfurt-ob-peter-feldmann-dies-fuer-das-a-5ec7912b-e69d-4bec-b5d4-ccc816295fbd#ref=rss)
-### eigene
-
-* [https://www.spiegel.de/panorama/korruptionsverfahren-gegen-frankfurt-ob-peter-feldmann-dies-fuer-das](https://www.spiegel.de/panorama/korruptionsverfahren-gegen-frankfurt-ob-peter-feldmann-dies-fuer-das-a-5ec7912b-e69d-4bec-b5d4-ccc816295fbd#ref=rss)
-* [https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt](https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt-a-1372e1fa-0002-0001-0000-000207062801#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/korruptionsverfahren-gegen-frankfurt-ob-peter-feldmann-dies-fuer-das](https://www.spiegel.de/panorama/korruptionsverfahren-gegen-frankfurt-ob-peter-feldmann-dies-fuer-das-a-5ec7912b-e69d-4bec-b5d4-ccc816295fbd#ref=rss)
-* [https://www.spiegel.de/panorama/griechenland-athener-gericht-feuert-richter-und-staatsanwaelte-wegen-faulheit-und-inkompetenz](https://www.spiegel.de/panorama/griechenland-athener-gericht-feuert-richter-und-staatsanwaelte-wegen-faulheit-und-inkompetenz-a-dd3597c4-48b4-4ed4-894d-065557090d8c#ref=rss)
-### richter
-
-* [https://www.spiegel.de/panorama/griechenland-athener-gericht-feuert-richter-und-staatsanwaelte-wegen-faulheit-und-inkompetenz](https://www.spiegel.de/panorama/griechenland-athener-gericht-feuert-richter-und-staatsanwaelte-wegen-faulheit-und-inkompetenz-a-dd3597c4-48b4-4ed4-894d-065557090d8c#ref=rss)
-### staatsanwälte
-
-* [https://www.spiegel.de/panorama/griechenland-athener-gericht-feuert-richter-und-staatsanwaelte-wegen-faulheit-und-inkompetenz](https://www.spiegel.de/panorama/griechenland-athener-gericht-feuert-richter-und-staatsanwaelte-wegen-faulheit-und-inkompetenz-a-dd3597c4-48b4-4ed4-894d-065557090d8c#ref=rss)
-### iran
-
-* [https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi](https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi-a-48d62f33-9559-48f2-b2af-f7493bd015c9#ref=rss)
-### kopftuch
-
-* [https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi](https://www.spiegel.de/sport/iran-kletterin-ohne-kopftuch-angst-um-elnaz-rekabi-a-48d62f33-9559-48f2-b2af-f7493bd015c9#ref=rss)
-### somalia
-
-* [https://www.spiegel.de/ausland/somalia-massive-finanzluecken-bei-duerre-hilfsplan](https://www.spiegel.de/ausland/somalia-massive-finanzluecken-bei-duerre-hilfsplan-a-786f0399-04c8-4ab7-8ea5-ab3647d3e9da#ref=rss)
+* [https://www.spiegel.de/ausland/mindestens-acht-tote-explosionen-in-myanmarischem-foltergefaengnis](https://www.spiegel.de/ausland/mindestens-acht-tote-explosionen-in-myanmarischem-foltergefaengnis-a-21ec171d-85b7-46de-bdac-f27a0f126382#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/ausland/somalia-massive-finanzluecken-bei-duerre-hilfsplan](https://www.spiegel.de/ausland/somalia-massive-finanzluecken-bei-duerre-hilfsplan-a-786f0399-04c8-4ab7-8ea5-ab3647d3e9da#ref=rss)
-* [https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt](https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt-a-1372e1fa-0002-0001-0000-000207062801#ref=rss)
-### lissabon
+* [https://www.spiegel.de/ausland/mindestens-acht-tote-explosionen-in-myanmarischem-foltergefaengnis](https://www.spiegel.de/ausland/mindestens-acht-tote-explosionen-in-myanmarischem-foltergefaengnis-a-21ec171d-85b7-46de-bdac-f27a0f126382#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-ukraine-zieht-vor-cherson-laut-russland-zehntausende-soldaten-zusammen](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-ukraine-zieht-vor-cherson-laut-russland-zehntausende-soldaten-zusammen-a-6211ac54-9902-41f9-8504-c0decb3e3404#ref=rss)
+### ffp2masken
 
-* [https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt](https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt-a-1372e1fa-0002-0001-0000-000207062801#ref=rss)
-### stadt
+* [https://www.spiegel.de/gesundheit/corona-wiederverwendbare-ffp2-masken-fallen-bei-stiftung-warentest-durch](https://www.spiegel.de/gesundheit/corona-wiederverwendbare-ffp2-masken-fallen-bei-stiftung-warentest-durch-a-3ea21d73-eb47-43f5-a51b-e3dd0c81c5de#ref=rss)
+### stiftung
 
-* [https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt](https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt-a-1372e1fa-0002-0001-0000-000207062801#ref=rss)
-### monat
+* [https://www.spiegel.de/gesundheit/corona-wiederverwendbare-ffp2-masken-fallen-bei-stiftung-warentest-durch](https://www.spiegel.de/gesundheit/corona-wiederverwendbare-ffp2-masken-fallen-bei-stiftung-warentest-durch-a-3ea21d73-eb47-43f5-a51b-e3dd0c81c5de#ref=rss)
+### warentest
 
-* [https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt](https://www.spiegel.de/start/digitale-nomaden-in-lissabon-wem-gehoert-die-stadt-a-1372e1fa-0002-0001-0000-000207062801#ref=rss)
-### tag
+* [https://www.spiegel.de/gesundheit/corona-wiederverwendbare-ffp2-masken-fallen-bei-stiftung-warentest-durch](https://www.spiegel.de/gesundheit/corona-wiederverwendbare-ffp2-masken-fallen-bei-stiftung-warentest-durch-a-3ea21d73-eb47-43f5-a51b-e3dd0c81c5de#ref=rss)
+### anna
 
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/kultur/musik/anna-fedorova-interpretiert-rachmaninow-das-mysterium-der-fliegenden-finger](https://www.spiegel.de/kultur/musik/anna-fedorova-interpretiert-rachmaninow-das-mysterium-der-fliegenden-finger-a-b1d44644-636f-4a08-a514-2e52f3f912c5#ref=rss)
+### fedorova
+
+* [https://www.spiegel.de/kultur/musik/anna-fedorova-interpretiert-rachmaninow-das-mysterium-der-fliegenden-finger](https://www.spiegel.de/kultur/musik/anna-fedorova-interpretiert-rachmaninow-das-mysterium-der-fliegenden-finger-a-b1d44644-636f-4a08-a514-2e52f3f912c5#ref=rss)
+### rachmaninow
+
+* [https://www.spiegel.de/kultur/musik/anna-fedorova-interpretiert-rachmaninow-das-mysterium-der-fliegenden-finger](https://www.spiegel.de/kultur/musik/anna-fedorova-interpretiert-rachmaninow-das-mysterium-der-fliegenden-finger-a-b1d44644-636f-4a08-a514-2e52f3f912c5#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/kultur/musik/anna-fedorova-interpretiert-rachmaninow-das-mysterium-der-fliegenden-finger](https://www.spiegel.de/kultur/musik/anna-fedorova-interpretiert-rachmaninow-das-mysterium-der-fliegenden-finger-a-b1d44644-636f-4a08-a514-2e52f3f912c5#ref=rss)
+* [https://www.spiegel.de/ausland/kommandeur-russland-erwartet-massive-ukrainische-offensive-auf-cherson](https://www.spiegel.de/ausland/kommandeur-russland-erwartet-massive-ukrainische-offensive-auf-cherson-a-91af3d84-4ea3-4c79-b40d-04f7f6592bb8#ref=rss)
+### euro
+
+* [https://www.spiegel.de/stil/koch-des-jahres-ein-hochklassiges-drei-gaenge-menue-fuer-16-euro-kein-problem](https://www.spiegel.de/stil/koch-des-jahres-ein-hochklassiges-drei-gaenge-menue-fuer-16-euro-kein-problem-a-8e69105a-e5be-46d8-b975-abeddf12da76#ref=rss)
+* [https://www.spiegel.de/wirtschaft/maskenpflicht-in-flugzeugen-fast-200-000-euro-bussgelder-wegen-fehlender-masken](https://www.spiegel.de/wirtschaft/maskenpflicht-in-flugzeugen-fast-200-000-euro-bussgelder-wegen-fehlender-masken-a-4bf1110d-f98c-4b1a-8268-0544667eb301#ref=rss)
+### ende
+
+* [https://www.spiegel.de/stil/koch-des-jahres-ein-hochklassiges-drei-gaenge-menue-fuer-16-euro-kein-problem](https://www.spiegel.de/stil/koch-des-jahres-ein-hochklassiges-drei-gaenge-menue-fuer-16-euro-kein-problem-a-8e69105a-e5be-46d8-b975-abeddf12da76#ref=rss)
+* [https://www.spiegel.de/reise/europa/bergsteigen-in-anatolien-am-ende-entscheidet-der-ararat-ob-er-dich-hinauflaesst](https://www.spiegel.de/reise/europa/bergsteigen-in-anatolien-am-ende-entscheidet-der-ararat-ob-er-dich-hinauflaesst-a-2de6d25e-a963-4a6c-8835-ddf6466f943d#ref=rss)
+### georgia
+
+* [https://www.spiegel.de/ausland/us-midterms-in-georgia-wo-wahlhelfer-sich-fuerchten-muessen](https://www.spiegel.de/ausland/us-midterms-in-georgia-wo-wahlhelfer-sich-fuerchten-muessen-a-845c742c-e7f1-4f91-8dae-11b4ce5342e6#ref=rss)
+### wo
+
+* [https://www.spiegel.de/ausland/us-midterms-in-georgia-wo-wahlhelfer-sich-fuerchten-muessen](https://www.spiegel.de/ausland/us-midterms-in-georgia-wo-wahlhelfer-sich-fuerchten-muessen-a-845c742c-e7f1-4f91-8dae-11b4ce5342e6#ref=rss)
+* [https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf](https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf-a-dd91217c-22d6-4de4-8dcd-ffcc247626f9#ref=rss)
+### früher
+
+* [https://www.spiegel.de/ausland/us-midterms-in-georgia-wo-wahlhelfer-sich-fuerchten-muessen](https://www.spiegel.de/ausland/us-midterms-in-georgia-wo-wahlhelfer-sich-fuerchten-muessen-a-845c742c-e7f1-4f91-8dae-11b4ce5342e6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/beitrag-zum-energiesparen-bei-aldi-gehen-die-lichter-abends-frueher-aus](https://www.spiegel.de/wirtschaft/beitrag-zum-energiesparen-bei-aldi-gehen-die-lichter-abends-frueher-aus-a-f4c18452-a713-4ef3-b600-6e08aedbca67#ref=rss)
+### maskenpflicht
+
+* [https://www.spiegel.de/wirtschaft/maskenpflicht-in-flugzeugen-fast-200-000-euro-bussgelder-wegen-fehlender-masken](https://www.spiegel.de/wirtschaft/maskenpflicht-in-flugzeugen-fast-200-000-euro-bussgelder-wegen-fehlender-masken-a-4bf1110d-f98c-4b1a-8268-0544667eb301#ref=rss)
+### fast
+
+* [https://www.spiegel.de/wirtschaft/maskenpflicht-in-flugzeugen-fast-200-000-euro-bussgelder-wegen-fehlender-masken](https://www.spiegel.de/wirtschaft/maskenpflicht-in-flugzeugen-fast-200-000-euro-bussgelder-wegen-fehlender-masken-a-4bf1110d-f98c-4b1a-8268-0544667eb301#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/miss-england-melisa-raouf-ist-die-erste-final-teilnehmerin-ohne-make-up](https://www.spiegel.de/panorama/gesellschaft/miss-england-melisa-raouf-ist-die-erste-final-teilnehmerin-ohne-make-up-a-67bb5977-f7c8-4bc9-9af8-118aebf3fb0d#ref=rss)
+### energiekrise
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-regierung-will-strompreise-teilweise-deckeln](https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-regierung-will-strompreise-teilweise-deckeln-a-943e5275-79d9-4a23-a574-4aa96ab7f317#ref=rss)
+* [https://www.spiegel.de/wirtschaft/beitrag-zum-energiesparen-bei-aldi-gehen-die-lichter-abends-frueher-aus](https://www.spiegel.de/wirtschaft/beitrag-zum-energiesparen-bei-aldi-gehen-die-lichter-abends-frueher-aus-a-f4c18452-a713-4ef3-b600-6e08aedbca67#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-regierung-will-strompreise-teilweise-deckeln](https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-regierung-will-strompreise-teilweise-deckeln-a-943e5275-79d9-4a23-a574-4aa96ab7f317#ref=rss)
+### dürfen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-regierung-will-strompreise-teilweise-deckeln](https://www.spiegel.de/wirtschaft/unternehmen/energiekrise-regierung-will-strompreise-teilweise-deckeln-a-943e5275-79d9-4a23-a574-4aa96ab7f317#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-ukraine-zieht-vor-cherson-laut-russland-zehntausende-soldaten-zusammen](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-ukraine-zieht-vor-cherson-laut-russland-zehntausende-soldaten-zusammen-a-6211ac54-9902-41f9-8504-c0decb3e3404#ref=rss)
+### kevin
+
+* [https://www.spiegel.de/panorama/leute/kevin-kuehnert-ich-habe-einen-partner](https://www.spiegel.de/panorama/leute/kevin-kuehnert-ich-habe-einen-partner-a-d115b76f-e760-4201-b8fc-6d0ce3a26850#ref=rss)
+### kühnert
+
+* [https://www.spiegel.de/panorama/leute/kevin-kuehnert-ich-habe-einen-partner](https://www.spiegel.de/panorama/leute/kevin-kuehnert-ich-habe-einen-partner-a-d115b76f-e760-4201-b8fc-6d0ce3a26850#ref=rss)
+### ich
+
+* [https://www.spiegel.de/panorama/leute/kevin-kuehnert-ich-habe-einen-partner](https://www.spiegel.de/panorama/leute/kevin-kuehnert-ich-habe-einen-partner-a-d115b76f-e760-4201-b8fc-6d0ce3a26850#ref=rss)
+* [https://www.spiegel.de/reise/europa/bergsteigen-in-anatolien-am-ende-entscheidet-der-ararat-ob-er-dich-hinauflaesst](https://www.spiegel.de/reise/europa/bergsteigen-in-anatolien-am-ende-entscheidet-der-ararat-ob-er-dich-hinauflaesst-a-2de6d25e-a963-4a6c-8835-ddf6466f943d#ref=rss)
+### elnaz
+
+* [https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf](https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf-a-dd91217c-22d6-4de4-8dcd-ffcc247626f9#ref=rss)
+### rekabi
+
+* [https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf](https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf-a-dd91217c-22d6-4de4-8dcd-ffcc247626f9#ref=rss)
+### athleten
+
+* [https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf](https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf-a-dd91217c-22d6-4de4-8dcd-ffcc247626f9#ref=rss)
+### iran
+
+* [https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf](https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf-a-dd91217c-22d6-4de4-8dcd-ffcc247626f9#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf](https://www.spiegel.de/sport/olympia/elnaz-rekabi-athleten-deutschland-fordern-ioc-und-fifa-zum-ausschluss-des-iran-auf-a-dd91217c-22d6-4de4-8dcd-ffcc247626f9#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/miss-england-melisa-raouf-ist-die-erste-final-teilnehmerin-ohne-make-up](https://www.spiegel.de/panorama/gesellschaft/miss-england-melisa-raouf-ist-die-erste-final-teilnehmerin-ohne-make-up-a-67bb5977-f7c8-4bc9-9af8-118aebf3fb0d#ref=rss)
+### schalke
+
+* [https://www.spiegel.de/sport/fussball/schalke-04-trennt-sich-von-trainer-frank-kramer](https://www.spiegel.de/sport/fussball/schalke-04-trennt-sich-von-trainer-frank-kramer-a-d798b325-47ea-4d5e-af33-7e3df10f7c31#ref=rss)
+### 04
+
+* [https://www.spiegel.de/sport/fussball/schalke-04-trennt-sich-von-trainer-frank-kramer](https://www.spiegel.de/sport/fussball/schalke-04-trennt-sich-von-trainer-frank-kramer-a-d798b325-47ea-4d5e-af33-7e3df10f7c31#ref=rss)
+### frank
+
+* [https://www.spiegel.de/sport/fussball/schalke-04-trennt-sich-von-trainer-frank-kramer](https://www.spiegel.de/sport/fussball/schalke-04-trennt-sich-von-trainer-frank-kramer-a-d798b325-47ea-4d5e-af33-7e3df10f7c31#ref=rss)
+### kramer
+
+* [https://www.spiegel.de/sport/fussball/schalke-04-trennt-sich-von-trainer-frank-kramer](https://www.spiegel.de/sport/fussball/schalke-04-trennt-sich-von-trainer-frank-kramer-a-d798b325-47ea-4d5e-af33-7e3df10f7c31#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wissenschaft/coronavirus-wie-gefaehrlich-ist-die-neue-variante-bq-1-1](https://www.spiegel.de/wissenschaft/coronavirus-wie-gefaehrlich-ist-die-neue-variante-bq-1-1-a-9a269cc1-fffd-42f7-8fe7-efb6d65ade79#ref=rss)
+* [https://www.spiegel.de/ausland/kommandeur-russland-erwartet-massive-ukrainische-offensive-auf-cherson](https://www.spiegel.de/ausland/kommandeur-russland-erwartet-massive-ukrainische-offensive-auf-cherson-a-91af3d84-4ea3-4c79-b40d-04f7f6592bb8#ref=rss)
+### bq11
+
+* [https://www.spiegel.de/wissenschaft/coronavirus-wie-gefaehrlich-ist-die-neue-variante-bq-1-1](https://www.spiegel.de/wissenschaft/coronavirus-wie-gefaehrlich-ist-die-neue-variante-bq-1-1-a-9a269cc1-fffd-42f7-8fe7-efb6d65ade79#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/karriere/allbright-studie-beim-frauenanteil-in-boersenvorstaenden-aendert-sich-wenig](https://www.spiegel.de/karriere/allbright-studie-beim-frauenanteil-in-boersenvorstaenden-aendert-sich-wenig-a-4017f600-fbab-400f-927a-15ed2a7ebb04#ref=rss)
+* [https://www.spiegel.de/wirtschaft/beitrag-zum-energiesparen-bei-aldi-gehen-die-lichter-abends-frueher-aus](https://www.spiegel.de/wirtschaft/beitrag-zum-energiesparen-bei-aldi-gehen-die-lichter-abends-frueher-aus-a-f4c18452-a713-4ef3-b600-6e08aedbca67#ref=rss)
+### giorgia
+
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-und-der-krach-bei-der-regierungsbildung](https://www.spiegel.de/ausland/italien-giorgia-meloni-und-der-krach-bei-der-regierungsbildung-a-7d014eef-985f-421d-a189-8090d2cb0883#ref=rss)
+### meloni
+
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-und-der-krach-bei-der-regierungsbildung](https://www.spiegel.de/ausland/italien-giorgia-meloni-und-der-krach-bei-der-regierungsbildung-a-7d014eef-985f-421d-a189-8090d2cb0883#ref=rss)
+### erste
+
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-und-der-krach-bei-der-regierungsbildung](https://www.spiegel.de/ausland/italien-giorgia-meloni-und-der-krach-bei-der-regierungsbildung-a-7d014eef-985f-421d-a189-8090d2cb0883#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/miss-england-melisa-raouf-ist-die-erste-final-teilnehmerin-ohne-make-up](https://www.spiegel.de/panorama/gesellschaft/miss-england-melisa-raouf-ist-die-erste-final-teilnehmerin-ohne-make-up-a-67bb5977-f7c8-4bc9-9af8-118aebf3fb0d#ref=rss)
+### stark
+
+* [https://www.spiegel.de/wirtschaft/teure-nahrungsmittel-britische-inflationsrate-steigt-auf-10-1-prozent](https://www.spiegel.de/wirtschaft/teure-nahrungsmittel-britische-inflationsrate-steigt-auf-10-1-prozent-a-1b50f4fe-0863-4744-b94c-22fd19001c7e#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wirtschaft/teure-nahrungsmittel-britische-inflationsrate-steigt-auf-10-1-prozent](https://www.spiegel.de/wirtschaft/teure-nahrungsmittel-britische-inflationsrate-steigt-auf-10-1-prozent-a-1b50f4fe-0863-4744-b94c-22fd19001c7e#ref=rss)
+* [https://www.spiegel.de/start/guenther-jauch-ueber-entscheidungen-der-mensch-ist-ein-gefuehlstier](https://www.spiegel.de/start/guenther-jauch-ueber-entscheidungen-der-mensch-ist-ein-gefuehlstier-a-8246ad92-5fa8-4d15-bdb0-6a0a8a8cbdb8#ref=rss)
+### freiburg
+
+* [https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-streit-um-rein-vegetarisches-menue-in-freiburger-schulen-und-kitas](https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-streit-um-rein-vegetarisches-menue-in-freiburger-schulen-und-kitas-a-896ba6ae-d9b1-43d9-92ec-93159602ed46#ref=rss)
+### menü
+
+* [https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-streit-um-rein-vegetarisches-menue-in-freiburger-schulen-und-kitas](https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-streit-um-rein-vegetarisches-menue-in-freiburger-schulen-und-kitas-a-896ba6ae-d9b1-43d9-92ec-93159602ed46#ref=rss)
+### kitas
+
+* [https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-streit-um-rein-vegetarisches-menue-in-freiburger-schulen-und-kitas](https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-streit-um-rein-vegetarisches-menue-in-freiburger-schulen-und-kitas-a-896ba6ae-d9b1-43d9-92ec-93159602ed46#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-streit-um-rein-vegetarisches-menue-in-freiburger-schulen-und-kitas](https://www.spiegel.de/panorama/bildung/baden-wuerttemberg-streit-um-rein-vegetarisches-menue-in-freiburger-schulen-und-kitas-a-896ba6ae-d9b1-43d9-92ec-93159602ed46#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/finanzminister-christian-lindner-verteidigt-milliardenschweren-rettungsschirm-der-bundesregierung](https://www.spiegel.de/politik/deutschland/finanzminister-christian-lindner-verteidigt-milliardenschweren-rettungsschirm-der-bundesregierung-a-5277c3bc-7814-48cc-be54-c3fd22d04169#ref=rss)
+### ararat
+
+* [https://www.spiegel.de/reise/europa/bergsteigen-in-anatolien-am-ende-entscheidet-der-ararat-ob-er-dich-hinauflaesst](https://www.spiegel.de/reise/europa/bergsteigen-in-anatolien-am-ende-entscheidet-der-ararat-ob-er-dich-hinauflaesst-a-2de6d25e-a963-4a6c-8835-ddf6466f943d#ref=rss)
+### günther
+
+* [https://www.spiegel.de/start/guenther-jauch-ueber-entscheidungen-der-mensch-ist-ein-gefuehlstier](https://www.spiegel.de/start/guenther-jauch-ueber-entscheidungen-der-mensch-ist-ein-gefuehlstier-a-8246ad92-5fa8-4d15-bdb0-6a0a8a8cbdb8#ref=rss)
+### jauch
+
+* [https://www.spiegel.de/start/guenther-jauch-ueber-entscheidungen-der-mensch-ist-ein-gefuehlstier](https://www.spiegel.de/start/guenther-jauch-ueber-entscheidungen-der-mensch-ist-ein-gefuehlstier-a-8246ad92-5fa8-4d15-bdb0-6a0a8a8cbdb8#ref=rss)
+### einfachen
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-iphone-laesst-sich-nicht-einschalten-diese-einfachen-tipps-helfen](https://www.spiegel.de/netzwelt/gadgets/apple-iphone-laesst-sich-nicht-einschalten-diese-einfachen-tipps-helfen-a-5c9a64c5-1614-44b1-8775-ebec4b175462#ref=rss)
+### curry
+
+* [https://www.spiegel.de/sport/basketball/curry-gegen-james-warriors-siegen-im-duell-der-superstars](https://www.spiegel.de/sport/basketball/curry-gegen-james-warriors-siegen-im-duell-der-superstars-a-1a2cabb6-836f-40be-98b1-4ed85273c593#ref=rss)
+### warriors
+
+* [https://www.spiegel.de/sport/basketball/curry-gegen-james-warriors-siegen-im-duell-der-superstars](https://www.spiegel.de/sport/basketball/curry-gegen-james-warriors-siegen-im-duell-der-superstars-a-1a2cabb6-836f-40be-98b1-4ed85273c593#ref=rss)
+### aldi
+
+* [https://www.spiegel.de/wirtschaft/beitrag-zum-energiesparen-bei-aldi-gehen-die-lichter-abends-frueher-aus](https://www.spiegel.de/wirtschaft/beitrag-zum-energiesparen-bei-aldi-gehen-die-lichter-abends-frueher-aus-a-f4c18452-a713-4ef3-b600-6e08aedbca67#ref=rss)
+### miss
+
+* [https://www.spiegel.de/panorama/gesellschaft/miss-england-melisa-raouf-ist-die-erste-final-teilnehmerin-ohne-make-up](https://www.spiegel.de/panorama/gesellschaft/miss-england-melisa-raouf-ist-die-erste-final-teilnehmerin-ohne-make-up-a-67bb5977-f7c8-4bc9-9af8-118aebf3fb0d#ref=rss)
+### finanzminister
+
+* [https://www.spiegel.de/politik/deutschland/finanzminister-christian-lindner-verteidigt-milliardenschweren-rettungsschirm-der-bundesregierung](https://www.spiegel.de/politik/deutschland/finanzminister-christian-lindner-verteidigt-milliardenschweren-rettungsschirm-der-bundesregierung-a-5277c3bc-7814-48cc-be54-c3fd22d04169#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/deutschland/finanzminister-christian-lindner-verteidigt-milliardenschweren-rettungsschirm-der-bundesregierung](https://www.spiegel.de/politik/deutschland/finanzminister-christian-lindner-verteidigt-milliardenschweren-rettungsschirm-der-bundesregierung-a-5277c3bc-7814-48cc-be54-c3fd22d04169#ref=rss)
 
