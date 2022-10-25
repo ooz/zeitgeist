@@ -4,353 +4,279 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### rishi
+### jahre
 
-* [https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte](https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte-a-28b3015c-de9f-4043-9a85-e2016e21b56f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine-a-32916544-f93c-446c-bc20-46b981b03fcb#ref=rss)
-* [https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream](https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream-a-a06b5edd-f8f5-4998-8bb4-2714ed91e7b2#ref=rss)
-### sunak
-
-* [https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte](https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte-a-28b3015c-de9f-4043-9a85-e2016e21b56f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine-a-32916544-f93c-446c-bc20-46b981b03fcb#ref=rss)
-* [https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream](https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream-a-a06b5edd-f8f5-4998-8bb4-2714ed91e7b2#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte](https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte-a-28b3015c-de9f-4043-9a85-e2016e21b56f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine-a-32916544-f93c-446c-bc20-46b981b03fcb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin](https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin-a-094fb280-5e2d-4975-8968-347fe18e2e51#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/panorama/bildung/medizin-studium-an-der-universitaet-frankfurt-am-main-studienplatz-chaos-operation-gelungen-student-in-not](https://www.spiegel.de/panorama/bildung/medizin-studium-an-der-universitaet-frankfurt-am-main-studienplatz-chaos-operation-gelungen-student-in-not-a-7093f107-cf8c-440b-a754-4fd6e4dc2d00#ref=rss)
-* [https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip](https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip-a-25b39e9a-bfb3-49db-8d53-d4988c718fa1#ref=rss)
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-lehrerin-vergisst-drei-kinder-auf-karlsruher-bahnhof](https://www.spiegel.de/panorama/baden-wuerttemberg-lehrerin-vergisst-drei-kinder-auf-karlsruher-bahnhof-a-472b62d2-e335-4e13-98ef-e18702661865#ref=rss)
-* [https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream](https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream-a-a06b5edd-f8f5-4998-8bb4-2714ed91e7b2#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung](https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung-a-544c4851-b52b-4084-9287-b2c4f2b30b65#ref=rss)
-* [https://www.spiegel.de/wissenschaft/deutschland-kauft-sich-von-verfehlten-klimazielen-frei](https://www.spiegel.de/wissenschaft/deutschland-kauft-sich-von-verfehlten-klimazielen-frei-a-5622ae00-2838-46ee-a36f-42ea5173c83d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin](https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin-a-094fb280-5e2d-4975-8968-347fe18e2e51#ref=rss)
-### queen
-
-* [https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip](https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip-a-25b39e9a-bfb3-49db-8d53-d4988c718fa1#ref=rss)
-* [https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen](https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen-a-378c194e-2c7c-4c26-ac43-a0e424f18c5a#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine-a-32916544-f93c-446c-bc20-46b981b03fcb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-100-euro-pro-megawattstunde](https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-100-euro-pro-megawattstunde-a-c80916e0-1715-4b1b-bb6a-d2f7b3d3a2fe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin](https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin-a-094fb280-5e2d-4975-8968-347fe18e2e51#ref=rss)
-### charles
-
-* [https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen](https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen-a-3186f100-54aa-4861-bdbb-01cb3768033e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen](https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen-a-378c194e-2c7c-4c26-ac43-a0e424f18c5a#ref=rss)
-### iii
-
-* [https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen](https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen-a-3186f100-54aa-4861-bdbb-01cb3768033e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen](https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen-a-378c194e-2c7c-4c26-ac43-a0e424f18c5a#ref=rss)
-### nächste
-
-* [https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte](https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte-a-28b3015c-de9f-4043-9a85-e2016e21b56f#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen-a-cb5b021e-759a-4737-a885-f07225c385d4#ref=rss)
-* [https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream](https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream-a-a06b5edd-f8f5-4998-8bb4-2714ed91e7b2#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/prozess-gegen-mutmassliche-neonazis-in-berlin-und-dann-schossen-mir-die-flammen-schon-entgegen](https://www.spiegel.de/panorama/prozess-gegen-mutmassliche-neonazis-in-berlin-und-dann-schossen-mir-die-flammen-schon-entgegen-a-bf8750ef-827d-4b83-984e-676135334235#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine-a-32916544-f93c-446c-bc20-46b981b03fcb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin](https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin-a-094fb280-5e2d-4975-8968-347fe18e2e51#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/prozess-gegen-mutmassliche-neonazis-in-berlin-und-dann-schossen-mir-die-flammen-schon-entgegen](https://www.spiegel.de/panorama/prozess-gegen-mutmassliche-neonazis-in-berlin-und-dann-schossen-mir-die-flammen-schon-entgegen-a-bf8750ef-827d-4b83-984e-676135334235#ref=rss)
-* [https://www.spiegel.de/panorama/flugzeugabsturz-in-costa-rica-mcfit-gruender-schaller-war-an-bord-von-ungluecksmaschine](https://www.spiegel.de/panorama/flugzeugabsturz-in-costa-rica-mcfit-gruender-schaller-war-an-bord-von-ungluecksmaschine-a-4a34b1b4-c071-4ece-882f-8217c660d07c#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen-a-cb5b021e-759a-4737-a885-f07225c385d4#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/panorama/bildung/medizin-studium-an-der-universitaet-frankfurt-am-main-studienplatz-chaos-operation-gelungen-student-in-not](https://www.spiegel.de/panorama/bildung/medizin-studium-an-der-universitaet-frankfurt-am-main-studienplatz-chaos-operation-gelungen-student-in-not-a-7093f107-cf8c-440b-a754-4fd6e4dc2d00#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen-a-cb5b021e-759a-4737-a885-f07225c385d4#ref=rss)
-* [https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream](https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream-a-a06b5edd-f8f5-4998-8bb4-2714ed91e7b2#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/familie/iris-sayram-ueber-ihre-kindheit-in-armut-ich-haette-mir-lieber-einen-nagel-ins-knie-gerammt-als-zuzugeben-wie-wir-leben](https://www.spiegel.de/familie/iris-sayram-ueber-ihre-kindheit-in-armut-ich-haette-mir-lieber-einen-nagel-ins-knie-gerammt-als-zuzugeben-wie-wir-leben-a-7d8adf57-07ee-4179-9abb-6b05dd2b5492#ref=rss)
-* [https://www.spiegel.de/auto/fahrberichte/auto-kaufen-warum-viele-moderne-pkw-massive-qualitaetsprobleme-haben](https://www.spiegel.de/auto/fahrberichte/auto-kaufen-warum-viele-moderne-pkw-massive-qualitaetsprobleme-haben-a-2400bc62-f62d-450e-a9c4-cf3a0a1ef587#ref=rss)
-* [https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen](https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen-a-378c194e-2c7c-4c26-ac43-a0e424f18c5a#ref=rss)
-### london
-
-* [https://www.spiegel.de/kultur/letzte-generation-und-die-anschlaege-auf-museen-in-potsdam-dresden-london-wer-bestimmt-wie-viel-gewalt-okay-ist](https://www.spiegel.de/kultur/letzte-generation-und-die-anschlaege-auf-museen-in-potsdam-dresden-london-wer-bestimmt-wie-viel-gewalt-okay-ist-a-6561b170-d026-4b41-bde4-b11a710fc708#ref=rss)
-* [https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen](https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen-a-3186f100-54aa-4861-bdbb-01cb3768033e#ref=rss)
-### unter
-
-* [https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung](https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung-a-544c4851-b52b-4084-9287-b2c4f2b30b65#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-100-euro-pro-megawattstunde](https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-100-euro-pro-megawattstunde-a-c80916e0-1715-4b1b-bb6a-d2f7b3d3a2fe#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip](https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip-a-25b39e9a-bfb3-49db-8d53-d4988c718fa1#ref=rss)
-* [https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream](https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream-a-a06b5edd-f8f5-4998-8bb4-2714ed91e7b2#ref=rss)
-* [https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen](https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen-a-378c194e-2c7c-4c26-ac43-a0e424f18c5a#ref=rss)
-### botschafter
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine-a-32916544-f93c-446c-bc20-46b981b03fcb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin](https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin-a-094fb280-5e2d-4975-8968-347fe18e2e51#ref=rss)
-### könig
-
-* [https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen](https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen-a-3186f100-54aa-4861-bdbb-01cb3768033e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen](https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen-a-378c194e-2c7c-4c26-ac43-a0e424f18c5a#ref=rss)
+* [https://www.spiegel.de/ausland/ashton-carter-frueherer-us-verteidigungsminister-im-alter-von-68-jahren-gestorben](https://www.spiegel.de/ausland/ashton-carter-frueherer-us-verteidigungsminister-im-alter-von-68-jahren-gestorben-a-f76e1a39-65b7-4df8-9502-e86ea4aa47cf#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/haarige-schnecke-in-99-millionen-jahre-altem-bernstein-entdeckt](https://www.spiegel.de/wissenschaft/natur/haarige-schnecke-in-99-millionen-jahre-altem-bernstein-entdeckt-a-6f8a23a6-7b7a-4391-a8cd-55b617f92e45#ref=rss)
+* [https://www.spiegel.de/ausland/brittney-griner-scheitert-mit-berufung-gegen-haftstrafe-neun-jahre-haft](https://www.spiegel.de/ausland/brittney-griner-scheitert-mit-berufung-gegen-haftstrafe-neun-jahre-haft-a-1cb637b4-2f66-45df-879a-40c0523c326a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ulm-ex-us-soldat-gesteht-vergewaltigung-37-jahre-nach-der-tat](https://www.spiegel.de/panorama/justiz/ulm-ex-us-soldat-gesteht-vergewaltigung-37-jahre-nach-der-tat-a-3ace2f9d-5f3a-4fdd-ada4-2f7af3cfce24#ref=rss)
+* [https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt](https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt-a-aa75d8eb-6328-4e3c-a1bb-4b471b9e0786#ref=rss)
 ### großbritannien
 
-* [https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte](https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte-a-28b3015c-de9f-4043-9a85-e2016e21b56f#ref=rss)
-* [https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream](https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream-a-a06b5edd-f8f5-4998-8bb4-2714ed91e7b2#ref=rss)
-### premierminister
+* [https://www.spiegel.de/panorama/grossbritannien-fussball-profi-paul-mullin-laesst-sich-f-the-tories-auf-die-schuhe-drucken](https://www.spiegel.de/panorama/grossbritannien-fussball-profi-paul-mullin-laesst-sich-f-the-tories-auf-die-schuhe-drucken-a-e29a6205-d4ac-4dad-8817-01cac734ecf5#ref=rss)
+* [https://www.spiegel.de/panorama/grossbritannien-tim-gough-radiomoderator-stirbt-waehrend-livesendung](https://www.spiegel.de/panorama/grossbritannien-tim-gough-radiomoderator-stirbt-waehrend-livesendung-a-ca893719-29a4-4294-a416-dba559f65122#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck](https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck-a-686b3465-4613-4a7f-8bf0-4b7b2373fd6c#ref=rss)
+### hamburger
 
-* [https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte](https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte-a-28b3015c-de9f-4043-9a85-e2016e21b56f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine-a-32916544-f93c-446c-bc20-46b981b03fcb#ref=rss)
-### premier
+* [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-grosse-mehrheit-gegen-cosco-einstieg-beim-hamburger-hafen](https://www.spiegel.de/politik/deutschland/spiegel-umfrage-grosse-mehrheit-gegen-cosco-einstieg-beim-hamburger-hafen-a-bf338254-9563-4622-a091-49780174792f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt](https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt-a-ab6a0816-70b9-4abc-8a6e-7e323290d908#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte](https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte-a-28b3015c-de9f-4043-9a85-e2016e21b56f#ref=rss)
-* [https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream](https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream-a-a06b5edd-f8f5-4998-8bb4-2714ed91e7b2#ref=rss)
-### jahr
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin-a-d5844f55-b7c7-4f48-9916-416853f63065#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/energieversorgung-umweltverbaende-fordern-bekenntnis-zu-fracking-verbot](https://www.spiegel.de/wirtschaft/unternehmen/energieversorgung-umweltverbaende-fordern-bekenntnis-zu-fracking-verbot-a-b9b1f7b5-822a-40c0-9cda-a4924d8f38a8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/sonnenfinsternis-so-erlebte-deutschland-das-himmelsspektakel](https://www.spiegel.de/wissenschaft/sonnenfinsternis-so-erlebte-deutschland-das-himmelsspektakel-a-f906ffe5-86b5-4fe5-b108-a4088ac54272#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-geldvermoegen-schrumpft-pro-kopf-um-4700-euro](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-geldvermoegen-schrumpft-pro-kopf-um-4700-euro-a-f0a7baaf-2c86-41d9-90d7-edeca8151a95#ref=rss)
+### erst
 
-* [https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte](https://www.spiegel.de/ausland/grossbritannien-neuer-premierminister-rishi-sunak-der-naechste-bitte-a-28b3015c-de9f-4043-9a85-e2016e21b56f#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream](https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream-a-cad3c6cf-e9a7-4b7b-976b-107adc7d631d#ref=rss)
-### prozess
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin-a-d5844f55-b7c7-4f48-9916-416853f63065#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/energieverband-haelt-strompreisbremse-ab-januar-fuer-nicht-umsetzbar](https://www.spiegel.de/wirtschaft/service/energieverband-haelt-strompreisbremse-ab-januar-fuer-nicht-umsetzbar-a-8ef8c5c9-c20f-4c21-83fc-4103fa700ccb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/sinkende-gaspreise-sorgen-laut-robert-habeck-erst-mittelfristig-fuer-entlastung](https://www.spiegel.de/wirtschaft/unternehmen/sinkende-gaspreise-sorgen-laut-robert-habeck-erst-mittelfristig-fuer-entlastung-a-87cd61ee-c18e-4629-a853-cd00074d25eb#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kim-petras-und-sam-smith-sind-die-ersten-trans-bzw-non-binaeren-kuenstler-auf-platz-eins-der-us-charts](https://www.spiegel.de/kultur/musik/kim-petras-und-sam-smith-sind-die-ersten-trans-bzw-non-binaeren-kuenstler-auf-platz-eins-der-us-charts-a-f159b033-7fc5-4bf0-865b-d169b2a015f8#ref=rss)
+### hafen
 
-* [https://www.spiegel.de/panorama/prozess-gegen-mutmassliche-neonazis-in-berlin-und-dann-schossen-mir-die-flammen-schon-entgegen](https://www.spiegel.de/panorama/prozess-gegen-mutmassliche-neonazis-in-berlin-und-dann-schossen-mir-die-flammen-schon-entgegen-a-bf8750ef-827d-4b83-984e-676135334235#ref=rss)
-### mir
+* [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-grosse-mehrheit-gegen-cosco-einstieg-beim-hamburger-hafen](https://www.spiegel.de/politik/deutschland/spiegel-umfrage-grosse-mehrheit-gegen-cosco-einstieg-beim-hamburger-hafen-a-bf338254-9563-4622-a091-49780174792f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt](https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt-a-ab6a0816-70b9-4abc-8a6e-7e323290d908#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/prozess-gegen-mutmassliche-neonazis-in-berlin-und-dann-schossen-mir-die-flammen-schon-entgegen](https://www.spiegel.de/panorama/prozess-gegen-mutmassliche-neonazis-in-berlin-und-dann-schossen-mir-die-flammen-schon-entgegen-a-bf8750ef-827d-4b83-984e-676135334235#ref=rss)
-* [https://www.spiegel.de/familie/iris-sayram-ueber-ihre-kindheit-in-armut-ich-haette-mir-lieber-einen-nagel-ins-knie-gerammt-als-zuzugeben-wie-wir-leben](https://www.spiegel.de/familie/iris-sayram-ueber-ihre-kindheit-in-armut-ich-haette-mir-lieber-einen-nagel-ins-knie-gerammt-als-zuzugeben-wie-wir-leben-a-7d8adf57-07ee-4179-9abb-6b05dd2b5492#ref=rss)
-### afghanistan
+* [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-grosse-mehrheit-gegen-cosco-einstieg-beim-hamburger-hafen](https://www.spiegel.de/politik/deutschland/spiegel-umfrage-grosse-mehrheit-gegen-cosco-einstieg-beim-hamburger-hafen-a-bf338254-9563-4622-a091-49780174792f#ref=rss)
+* [https://www.spiegel.de/ausland/ashton-carter-frueherer-us-verteidigungsminister-im-alter-von-68-jahren-gestorben](https://www.spiegel.de/ausland/ashton-carter-frueherer-us-verteidigungsminister-im-alter-von-68-jahren-gestorben-a-f76e1a39-65b7-4df8-9502-e86ea4aa47cf#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/ios-16-1-und-macos-ventura-apple-veroeffentlicht-updates](https://www.spiegel.de/netzwelt/gadgets/ios-16-1-und-macos-ventura-apple-veroeffentlicht-updates-a-d91582ed-584d-45db-a3c3-942e91ce35bd#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream](https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream-a-cad3c6cf-e9a7-4b7b-976b-107adc7d631d#ref=rss)
-### hamid
+* [https://www.spiegel.de/auto/deutsche-bahn-und-andere-europaeische-anbieter-vereinfachen-regeln-fuer-grenzueberschreitende-fahrten](https://www.spiegel.de/auto/deutsche-bahn-und-andere-europaeische-anbieter-vereinfachen-regeln-fuer-grenzueberschreitende-fahrten-a-f151c4d7-50a6-468a-9afd-36c2e51a2bed#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/cyberangriff-hack-fuer-deutsche-presse-agentur-offenbar-gravierender-als-angenommen](https://www.spiegel.de/netzwelt/web/cyberangriff-hack-fuer-deutsche-presse-agentur-offenbar-gravierender-als-angenommen-a-d8a17861-0940-40a7-b583-e3982e62f15a#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kim-petras-und-sam-smith-sind-die-ersten-trans-bzw-non-binaeren-kuenstler-auf-platz-eins-der-us-charts](https://www.spiegel.de/kultur/musik/kim-petras-und-sam-smith-sind-die-ersten-trans-bzw-non-binaeren-kuenstler-auf-platz-eins-der-us-charts-a-f159b033-7fc5-4bf0-865b-d169b2a015f8#ref=rss)
+### bleibt
 
-* [https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream](https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream-a-cad3c6cf-e9a7-4b7b-976b-107adc7d631d#ref=rss)
-### karzai
+* [https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt](https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt-a-ab6a0816-70b9-4abc-8a6e-7e323290d908#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck](https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck-a-686b3465-4613-4a7f-8bf0-4b7b2373fd6c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ulm-ex-us-soldat-gesteht-vergewaltigung-37-jahre-nach-der-tat](https://www.spiegel.de/panorama/justiz/ulm-ex-us-soldat-gesteht-vergewaltigung-37-jahre-nach-der-tat-a-3ace2f9d-5f3a-4fdd-ada4-2f7af3cfce24#ref=rss)
+### anderen
 
-* [https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream](https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream-a-cad3c6cf-e9a7-4b7b-976b-107adc7d631d#ref=rss)
-### lage
+* [https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt](https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt-a-ab6a0816-70b9-4abc-8a6e-7e323290d908#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gaspreisbremse-so-stehen-die-chancen-auf-schnellere-hilfen](https://www.spiegel.de/wirtschaft/soziales/gaspreisbremse-so-stehen-die-chancen-auf-schnellere-hilfen-a-f4c209a5-ae4f-4f34-95dc-468bea2e8c3f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/sonnenfinsternis-so-erlebte-deutschland-das-himmelsspektakel](https://www.spiegel.de/wissenschaft/sonnenfinsternis-so-erlebte-deutschland-das-himmelsspektakel-a-f906ffe5-86b5-4fe5-b108-a4088ac54272#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream](https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream-a-cad3c6cf-e9a7-4b7b-976b-107adc7d631d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine-a-32916544-f93c-446c-bc20-46b981b03fcb#ref=rss)
-### livestream
+* [https://www.spiegel.de/ausland/oesterreich-die-oevp-ist-kaum-zu-retten-inside-austria](https://www.spiegel.de/ausland/oesterreich-die-oevp-ist-kaum-zu-retten-inside-austria-a-bdddc41b-fd42-435f-90d9-b6289dd6c553#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/ios-16-1-und-macos-ventura-apple-veroeffentlicht-updates](https://www.spiegel.de/netzwelt/gadgets/ios-16-1-und-macos-ventura-apple-veroeffentlicht-updates-a-d91582ed-584d-45db-a3c3-942e91ce35bd#ref=rss)
+### wirtschaftsminister
 
-* [https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream](https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream-a-cad3c6cf-e9a7-4b7b-976b-107adc7d631d#ref=rss)
-* [https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream](https://www.spiegel.de/ausland/grossbrtannien-das-sagt-der-naechste-premier-rishi-sunak-livestream-a-a06b5edd-f8f5-4998-8bb4-2714ed91e7b2#ref=rss)
-### armut
+* [https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck](https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck-a-686b3465-4613-4a7f-8bf0-4b7b2373fd6c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/sinkende-gaspreise-sorgen-laut-robert-habeck-erst-mittelfristig-fuer-entlastung](https://www.spiegel.de/wirtschaft/unternehmen/sinkende-gaspreise-sorgen-laut-robert-habeck-erst-mittelfristig-fuer-entlastung-a-87cd61ee-c18e-4629-a853-cd00074d25eb#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream](https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream-a-cad3c6cf-e9a7-4b7b-976b-107adc7d631d#ref=rss)
-* [https://www.spiegel.de/familie/iris-sayram-ueber-ihre-kindheit-in-armut-ich-haette-mir-lieber-einen-nagel-ins-knie-gerammt-als-zuzugeben-wie-wir-leben](https://www.spiegel.de/familie/iris-sayram-ueber-ihre-kindheit-in-armut-ich-haette-mir-lieber-einen-nagel-ins-knie-gerammt-als-zuzugeben-wie-wir-leben-a-7d8adf57-07ee-4179-9abb-6b05dd2b5492#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck](https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck-a-686b3465-4613-4a7f-8bf0-4b7b2373fd6c#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/cyberangriff-hack-fuer-deutsche-presse-agentur-offenbar-gravierender-als-angenommen](https://www.spiegel.de/netzwelt/web/cyberangriff-hack-fuer-deutsche-presse-agentur-offenbar-gravierender-als-angenommen-a-d8a17861-0940-40a7-b583-e3982e62f15a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-mit-dem-z-symbol-in-der-heckscheibe-unterwegs-geldstrafe-fuer-62-jaehrigen](https://www.spiegel.de/panorama/justiz/hamburg-mit-dem-z-symbol-in-der-heckscheibe-unterwegs-geldstrafe-fuer-62-jaehrigen-a-6a41521d-2728-4f0d-a067-57469177e42e#ref=rss)
+### januar
+
+* [https://www.spiegel.de/wirtschaft/service/energieverband-haelt-strompreisbremse-ab-januar-fuer-nicht-umsetzbar](https://www.spiegel.de/wirtschaft/service/energieverband-haelt-strompreisbremse-ab-januar-fuer-nicht-umsetzbar-a-8ef8c5c9-c20f-4c21-83fc-4103fa700ccb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gaspreisbremse-so-stehen-die-chancen-auf-schnellere-hilfen](https://www.spiegel.de/wirtschaft/soziales/gaspreisbremse-so-stehen-die-chancen-auf-schnellere-hilfen-a-f4c209a5-ae4f-4f34-95dc-468bea2e8c3f#ref=rss)
+### gaspreisbremse
+
+* [https://www.spiegel.de/wirtschaft/service/energieverband-haelt-strompreisbremse-ab-januar-fuer-nicht-umsetzbar](https://www.spiegel.de/wirtschaft/service/energieverband-haelt-strompreisbremse-ab-januar-fuer-nicht-umsetzbar-a-8ef8c5c9-c20f-4c21-83fc-4103fa700ccb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gaspreisbremse-so-stehen-die-chancen-auf-schnellere-hilfen](https://www.spiegel.de/wirtschaft/soziales/gaspreisbremse-so-stehen-die-chancen-auf-schnellere-hilfen-a-f4c209a5-ae4f-4f34-95dc-468bea2e8c3f#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/start/ronja-von-roenne-ueber-entscheidungen-die-leute-sollten-viel-frueher-aufgeben](https://www.spiegel.de/start/ronja-von-roenne-ueber-entscheidungen-die-leute-sollten-viel-frueher-aufgeben-a-274f7b74-ad03-47e5-817d-bee4192b2996#ref=rss)
+* [https://www.spiegel.de/kultur/musik/kim-petras-und-sam-smith-sind-die-ersten-trans-bzw-non-binaeren-kuenstler-auf-platz-eins-der-us-charts](https://www.spiegel.de/kultur/musik/kim-petras-und-sam-smith-sind-die-ersten-trans-bzw-non-binaeren-kuenstler-auf-platz-eins-der-us-charts-a-f159b033-7fc5-4bf0-865b-d169b2a015f8#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-mit-dem-z-symbol-in-der-heckscheibe-unterwegs-geldstrafe-fuer-62-jaehrigen](https://www.spiegel.de/panorama/justiz/hamburg-mit-dem-z-symbol-in-der-heckscheibe-unterwegs-geldstrafe-fuer-62-jaehrigen-a-6a41521d-2728-4f0d-a067-57469177e42e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-und-die-evakuierung-von-cherson-russlands-propaganda-bombe](https://www.spiegel.de/ausland/ukraine-krieg-und-die-evakuierung-von-cherson-russlands-propaganda-bombe-a-e7ecd1b7-c54e-478c-ba99-2e959a5b6d50#ref=rss)
+* [https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt](https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt-a-aa75d8eb-6328-4e3c-a1bb-4b471b9e0786#ref=rss)
+### geldvermögen
+
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-geldvermoegen-schrumpft-pro-kopf-um-4700-euro](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-geldvermoegen-schrumpft-pro-kopf-um-4700-euro-a-f0a7baaf-2c86-41d9-90d7-edeca8151a95#ref=rss)
+### platz
+
+* [https://www.spiegel.de/kultur/musik/kim-petras-und-sam-smith-sind-die-ersten-trans-bzw-non-binaeren-kuenstler-auf-platz-eins-der-us-charts](https://www.spiegel.de/kultur/musik/kim-petras-und-sam-smith-sind-die-ersten-trans-bzw-non-binaeren-kuenstler-auf-platz-eins-der-us-charts-a-f159b033-7fc5-4bf0-865b-d169b2a015f8#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-grosse-mehrheit-gegen-cosco-einstieg-beim-hamburger-hafen](https://www.spiegel.de/politik/deutschland/spiegel-umfrage-grosse-mehrheit-gegen-cosco-einstieg-beim-hamburger-hafen-a-bf338254-9563-4622-a091-49780174792f#ref=rss)
+* [https://www.spiegel.de/sport/handball/handballskandal-um-trainer-andre-fuhr-kultur-des-wegsehens-beim-dhb](https://www.spiegel.de/sport/handball/handballskandal-um-trainer-andre-fuhr-kultur-des-wegsehens-beim-dhb-a-f9cde50d-1b52-41cf-b7a0-68cf52805ed1#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/spiegel-umfrage-grosse-mehrheit-gegen-cosco-einstieg-beim-hamburger-hafen](https://www.spiegel.de/politik/deutschland/spiegel-umfrage-grosse-mehrheit-gegen-cosco-einstieg-beim-hamburger-hafen-a-bf338254-9563-4622-a091-49780174792f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-geldvermoegen-schrumpft-pro-kopf-um-4700-euro](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-geldvermoegen-schrumpft-pro-kopf-um-4700-euro-a-f0a7baaf-2c86-41d9-90d7-edeca8151a95#ref=rss)
+### news
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin-a-d5844f55-b7c7-4f48-9916-416853f63065#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-ursula-von-der-leyen-nennt-russische-angriffe-terroristische-handlungen](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-ursula-von-der-leyen-nennt-russische-angriffe-terroristische-handlungen-a-35db6db7-515a-4614-a66d-aa3436d31744#ref=rss)
+### steinmeier
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin-a-d5844f55-b7c7-4f48-9916-416853f63065#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-ursula-von-der-leyen-nennt-russische-angriffe-terroristische-handlungen](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-ursula-von-der-leyen-nennt-russische-angriffe-terroristische-handlungen-a-35db6db7-515a-4614-a66d-aa3436d31744#ref=rss)
+### katastrophenschutz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin-a-d5844f55-b7c7-4f48-9916-416853f63065#ref=rss)
+### adidas
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin-a-d5844f55-b7c7-4f48-9916-416853f63065#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin-a-d5844f55-b7c7-4f48-9916-416853f63065#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-ursula-von-der-leyen-nennt-russische-angriffe-terroristische-handlungen](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-ursula-von-der-leyen-nennt-russische-angriffe-terroristische-handlungen-a-35db6db7-515a-4614-a66d-aa3436d31744#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin](https://www.spiegel.de/politik/deutschland/news-des-tages-frank-walter-steinmeier-katastrophenschutz-ahrtal-kanye-west-adidas-union-berlin-a-d5844f55-b7c7-4f48-9916-416853f63065#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/haarige-schnecke-in-99-millionen-jahre-altem-bernstein-entdeckt](https://www.spiegel.de/wissenschaft/natur/haarige-schnecke-in-99-millionen-jahre-altem-bernstein-entdeckt-a-6f8a23a6-7b7a-4391-a8cd-55b617f92e45#ref=rss)
+### paul
+
+* [https://www.spiegel.de/panorama/grossbritannien-fussball-profi-paul-mullin-laesst-sich-f-the-tories-auf-die-schuhe-drucken](https://www.spiegel.de/panorama/grossbritannien-fussball-profi-paul-mullin-laesst-sich-f-the-tories-auf-die-schuhe-drucken-a-e29a6205-d4ac-4dad-8817-01cac734ecf5#ref=rss)
+### mullin
+
+* [https://www.spiegel.de/panorama/grossbritannien-fussball-profi-paul-mullin-laesst-sich-f-the-tories-auf-die-schuhe-drucken](https://www.spiegel.de/panorama/grossbritannien-fussball-profi-paul-mullin-laesst-sich-f-the-tories-auf-die-schuhe-drucken-a-e29a6205-d4ac-4dad-8817-01cac734ecf5#ref=rss)
 ### darüber
 
-* [https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream](https://www.spiegel.de/ausland/afghanistan-hamid-karzai-schildert-die-lage-im-land-livestream-a-cad3c6cf-e9a7-4b7b-976b-107adc7d631d#ref=rss)
-* [https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip](https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip-a-25b39e9a-bfb3-49db-8d53-d4988c718fa1#ref=rss)
-### frankfurt
+* [https://www.spiegel.de/panorama/grossbritannien-fussball-profi-paul-mullin-laesst-sich-f-the-tories-auf-die-schuhe-drucken](https://www.spiegel.de/panorama/grossbritannien-fussball-profi-paul-mullin-laesst-sich-f-the-tories-auf-die-schuhe-drucken-a-e29a6205-d4ac-4dad-8817-01cac734ecf5#ref=rss)
+* [https://www.spiegel.de/ausland/iran-mahmoud-dowlatabadi-ueber-die-schlaegertruppen-im-einsatz-gegen-demonstranten](https://www.spiegel.de/ausland/iran-mahmoud-dowlatabadi-ueber-die-schlaegertruppen-im-einsatz-gegen-demonstranten-a-6d039ff9-54cf-4177-9d1f-4730ba4bfb78#ref=rss)
+### justizminister
 
-* [https://www.spiegel.de/panorama/bildung/medizin-studium-an-der-universitaet-frankfurt-am-main-studienplatz-chaos-operation-gelungen-student-in-not](https://www.spiegel.de/panorama/bildung/medizin-studium-an-der-universitaet-frankfurt-am-main-studienplatz-chaos-operation-gelungen-student-in-not-a-7093f107-cf8c-440b-a754-4fd6e4dc2d00#ref=rss)
-### sabine
+* [https://www.spiegel.de/netzwelt/netzpolitik/marco-buschmann-justizminister-stellt-nachfolgeregelung-zur-vorratsdatenspeicherung-vor](https://www.spiegel.de/netzwelt/netzpolitik/marco-buschmann-justizminister-stellt-nachfolgeregelung-zur-vorratsdatenspeicherung-vor-a-a444ec06-dd3b-4818-b7dd-464e4ac92c13#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck](https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck-a-686b3465-4613-4a7f-8bf0-4b7b2373fd6c#ref=rss)
+### nichts
 
-* [https://www.spiegel.de/wirtschaft/ndr-anti-korruptionsbeauftragte-entlastet-funkhaus-chefin-sabine-rossbach](https://www.spiegel.de/wirtschaft/ndr-anti-korruptionsbeauftragte-entlastet-funkhaus-chefin-sabine-rossbach-a-f08b3ca2-75e4-4ae7-9007-9549c4fc2ea3#ref=rss)
-### rossbach
+* [https://www.spiegel.de/netzwelt/netzpolitik/marco-buschmann-justizminister-stellt-nachfolgeregelung-zur-vorratsdatenspeicherung-vor](https://www.spiegel.de/netzwelt/netzpolitik/marco-buschmann-justizminister-stellt-nachfolgeregelung-zur-vorratsdatenspeicherung-vor-a-a444ec06-dd3b-4818-b7dd-464e4ac92c13#ref=rss)
+* [https://www.spiegel.de/sport/handball/handballskandal-um-trainer-andre-fuhr-kultur-des-wegsehens-beim-dhb](https://www.spiegel.de/sport/handball/handballskandal-um-trainer-andre-fuhr-kultur-des-wegsehens-beim-dhb-a-f9cde50d-1b52-41cf-b7a0-68cf52805ed1#ref=rss)
+### alle
 
-* [https://www.spiegel.de/wirtschaft/ndr-anti-korruptionsbeauftragte-entlastet-funkhaus-chefin-sabine-rossbach](https://www.spiegel.de/wirtschaft/ndr-anti-korruptionsbeauftragte-entlastet-funkhaus-chefin-sabine-rossbach-a-f08b3ca2-75e4-4ae7-9007-9549c4fc2ea3#ref=rss)
-### iris
+* [https://www.spiegel.de/netzwelt/netzpolitik/marco-buschmann-justizminister-stellt-nachfolgeregelung-zur-vorratsdatenspeicherung-vor](https://www.spiegel.de/netzwelt/netzpolitik/marco-buschmann-justizminister-stellt-nachfolgeregelung-zur-vorratsdatenspeicherung-vor-a-a444ec06-dd3b-4818-b7dd-464e4ac92c13#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt](https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt-a-ab6a0816-70b9-4abc-8a6e-7e323290d908#ref=rss)
+### tim
 
-* [https://www.spiegel.de/familie/iris-sayram-ueber-ihre-kindheit-in-armut-ich-haette-mir-lieber-einen-nagel-ins-knie-gerammt-als-zuzugeben-wie-wir-leben](https://www.spiegel.de/familie/iris-sayram-ueber-ihre-kindheit-in-armut-ich-haette-mir-lieber-einen-nagel-ins-knie-gerammt-als-zuzugeben-wie-wir-leben-a-7d8adf57-07ee-4179-9abb-6b05dd2b5492#ref=rss)
-### sayram
+* [https://www.spiegel.de/panorama/grossbritannien-tim-gough-radiomoderator-stirbt-waehrend-livesendung](https://www.spiegel.de/panorama/grossbritannien-tim-gough-radiomoderator-stirbt-waehrend-livesendung-a-ca893719-29a4-4294-a416-dba559f65122#ref=rss)
+### gough
 
-* [https://www.spiegel.de/familie/iris-sayram-ueber-ihre-kindheit-in-armut-ich-haette-mir-lieber-einen-nagel-ins-knie-gerammt-als-zuzugeben-wie-wir-leben](https://www.spiegel.de/familie/iris-sayram-ueber-ihre-kindheit-in-armut-ich-haette-mir-lieber-einen-nagel-ins-knie-gerammt-als-zuzugeben-wie-wir-leben-a-7d8adf57-07ee-4179-9abb-6b05dd2b5492#ref=rss)
-### bürgergeld
+* [https://www.spiegel.de/panorama/grossbritannien-tim-gough-radiomoderator-stirbt-waehrend-livesendung](https://www.spiegel.de/panorama/grossbritannien-tim-gough-radiomoderator-stirbt-waehrend-livesendung-a-ca893719-29a4-4294-a416-dba559f65122#ref=rss)
+### radiomoderator
 
-* [https://www.spiegel.de/familie/iris-sayram-ueber-ihre-kindheit-in-armut-ich-haette-mir-lieber-einen-nagel-ins-knie-gerammt-als-zuzugeben-wie-wir-leben](https://www.spiegel.de/familie/iris-sayram-ueber-ihre-kindheit-in-armut-ich-haette-mir-lieber-einen-nagel-ins-knie-gerammt-als-zuzugeben-wie-wir-leben-a-7d8adf57-07ee-4179-9abb-6b05dd2b5492#ref=rss)
-* [https://www.spiegel.de/wirtschaft/steuer-christian-lindner-will-grundfreibetrag-fuer-2023-erhoehen](https://www.spiegel.de/wirtschaft/steuer-christian-lindner-will-grundfreibetrag-fuer-2023-erhoehen-a-db89427a-4d05-42db-a9cf-1ed1d62d3d6f#ref=rss)
-### mcfitgründer
-
-* [https://www.spiegel.de/panorama/flugzeugabsturz-in-costa-rica-mcfit-gruender-schaller-war-an-bord-von-ungluecksmaschine](https://www.spiegel.de/panorama/flugzeugabsturz-in-costa-rica-mcfit-gruender-schaller-war-an-bord-von-ungluecksmaschine-a-4a34b1b4-c071-4ece-882f-8217c660d07c#ref=rss)
-### schaller
-
-* [https://www.spiegel.de/panorama/flugzeugabsturz-in-costa-rica-mcfit-gruender-schaller-war-an-bord-von-ungluecksmaschine](https://www.spiegel.de/panorama/flugzeugabsturz-in-costa-rica-mcfit-gruender-schaller-war-an-bord-von-ungluecksmaschine-a-4a34b1b4-c071-4ece-882f-8217c660d07c#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/flugzeugabsturz-in-costa-rica-mcfit-gruender-schaller-war-an-bord-von-ungluecksmaschine](https://www.spiegel.de/panorama/flugzeugabsturz-in-costa-rica-mcfit-gruender-schaller-war-an-bord-von-ungluecksmaschine-a-4a34b1b4-c071-4ece-882f-8217c660d07c#ref=rss)
-* [https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung](https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung-a-544c4851-b52b-4084-9287-b2c4f2b30b65#ref=rss)
-### letzte
-
-* [https://www.spiegel.de/kultur/letzte-generation-und-die-anschlaege-auf-museen-in-potsdam-dresden-london-wer-bestimmt-wie-viel-gewalt-okay-ist](https://www.spiegel.de/kultur/letzte-generation-und-die-anschlaege-auf-museen-in-potsdam-dresden-london-wer-bestimmt-wie-viel-gewalt-okay-ist-a-6561b170-d026-4b41-bde4-b11a710fc708#ref=rss)
-### generation
-
-* [https://www.spiegel.de/kultur/letzte-generation-und-die-anschlaege-auf-museen-in-potsdam-dresden-london-wer-bestimmt-wie-viel-gewalt-okay-ist](https://www.spiegel.de/kultur/letzte-generation-und-die-anschlaege-auf-museen-in-potsdam-dresden-london-wer-bestimmt-wie-viel-gewalt-okay-ist-a-6561b170-d026-4b41-bde4-b11a710fc708#ref=rss)
-### potsdam
-
-* [https://www.spiegel.de/kultur/letzte-generation-und-die-anschlaege-auf-museen-in-potsdam-dresden-london-wer-bestimmt-wie-viel-gewalt-okay-ist](https://www.spiegel.de/kultur/letzte-generation-und-die-anschlaege-auf-museen-in-potsdam-dresden-london-wer-bestimmt-wie-viel-gewalt-okay-ist-a-6561b170-d026-4b41-bde4-b11a710fc708#ref=rss)
-### iran
-
-* [https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung](https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung-a-544c4851-b52b-4084-9287-b2c4f2b30b65#ref=rss)
-### gewichtheberin
-
-* [https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung](https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung-a-544c4851-b52b-4084-9287-b2c4f2b30b65#ref=rss)
-### parisa
-
-* [https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung](https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung-a-544c4851-b52b-4084-9287-b2c4f2b30b65#ref=rss)
-### jahanfekr
-
-* [https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung](https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung-a-544c4851-b52b-4084-9287-b2c4f2b30b65#ref=rss)
-### sportler
-
-* [https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung](https://www.spiegel.de/sport/iran-gewichtheberin-parisa-jahanfekr-ueber-sportler-und-die-protestbewegung-a-544c4851-b52b-4084-9287-b2c4f2b30b65#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip](https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip-a-25b39e9a-bfb3-49db-8d53-d4988c718fa1#ref=rss)
-### imelda
-
-* [https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip](https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip-a-25b39e9a-bfb3-49db-8d53-d4988c718fa1#ref=rss)
-### staunton
-
-* [https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip](https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip-a-25b39e9a-bfb3-49db-8d53-d4988c718fa1#ref=rss)
-### jonathan
-
-* [https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip](https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip-a-25b39e9a-bfb3-49db-8d53-d4988c718fa1#ref=rss)
-### pryce
-
-* [https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip](https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip-a-25b39e9a-bfb3-49db-8d53-d4988c718fa1#ref=rss)
-### philip
-
-* [https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip](https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip-a-25b39e9a-bfb3-49db-8d53-d4988c718fa1#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip](https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip-a-25b39e9a-bfb3-49db-8d53-d4988c718fa1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-100-euro-pro-megawattstunde](https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-100-euro-pro-megawattstunde-a-c80916e0-1715-4b1b-bb6a-d2f7b3d3a2fe#ref=rss)
-### tod
-
-* [https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip](https://www.spiegel.de/kultur/tv/the-crown-darsteller-imelda-staunton-und-jonathan-pryce-ueber-die-queen-und-prinz-philip-a-25b39e9a-bfb3-49db-8d53-d4988c718fa1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-tod-durch-29-stiche-frau-gesteht-mord-an-lebensgefaehrtin](https://www.spiegel.de/panorama/justiz/moenchengladbach-tod-durch-29-stiche-frau-gesteht-mord-an-lebensgefaehrtin-a-29ab5e10-9997-40a4-810b-3186bfa0c8e2#ref=rss)
-### matthew
-
-* [https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden](https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden-a-7eed1e85-7338-4a0c-9f64-a13cf0f0a4bf#ref=rss)
-### michael
-
-* [https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden](https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden-a-7eed1e85-7338-4a0c-9f64-a13cf0f0a4bf#ref=rss)
-### youlden
-
-* [https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden](https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden-a-7eed1e85-7338-4a0c-9f64-a13cf0f0a4bf#ref=rss)
-### alles
-
-* [https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden](https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden-a-7eed1e85-7338-4a0c-9f64-a13cf0f0a4bf#ref=rss)
-### vergessen
-
-* [https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden](https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden-a-7eed1e85-7338-4a0c-9f64-a13cf0f0a4bf#ref=rss)
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-lehrerin-vergisst-drei-kinder-auf-karlsruher-bahnhof](https://www.spiegel.de/panorama/baden-wuerttemberg-lehrerin-vergisst-drei-kinder-auf-karlsruher-bahnhof-a-472b62d2-e335-4e13-98ef-e18702661865#ref=rss)
-### wissen
-
-* [https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden](https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden-a-7eed1e85-7338-4a0c-9f64-a13cf0f0a4bf#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### behalten
-
-* [https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden](https://www.spiegel.de/start/sprachen-lernen-tipps-von-den-superpolyglotbros-matthew-und-michael-youlden-a-7eed1e85-7338-4a0c-9f64-a13cf0f0a4bf#ref=rss)
-* [https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen](https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen-a-378c194e-2c7c-4c26-ac43-a0e424f18c5a#ref=rss)
-### steuer
-
-* [https://www.spiegel.de/wirtschaft/steuer-christian-lindner-will-grundfreibetrag-fuer-2023-erhoehen](https://www.spiegel.de/wirtschaft/steuer-christian-lindner-will-grundfreibetrag-fuer-2023-erhoehen-a-db89427a-4d05-42db-a9cf-1ed1d62d3d6f#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/wirtschaft/steuer-christian-lindner-will-grundfreibetrag-fuer-2023-erhoehen](https://www.spiegel.de/wirtschaft/steuer-christian-lindner-will-grundfreibetrag-fuer-2023-erhoehen-a-db89427a-4d05-42db-a9cf-1ed1d62d3d6f#ref=rss)
-### lehrerin
-
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-lehrerin-vergisst-drei-kinder-auf-karlsruher-bahnhof](https://www.spiegel.de/panorama/baden-wuerttemberg-lehrerin-vergisst-drei-kinder-auf-karlsruher-bahnhof-a-472b62d2-e335-4e13-98ef-e18702661865#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/baden-wuerttemberg-lehrerin-vergisst-drei-kinder-auf-karlsruher-bahnhof](https://www.spiegel.de/panorama/baden-wuerttemberg-lehrerin-vergisst-drei-kinder-auf-karlsruher-bahnhof-a-472b62d2-e335-4e13-98ef-e18702661865#ref=rss)
-### bürgerkrieg
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine-a-32916544-f93c-446c-bc20-46b981b03fcb#ref=rss)
-### äthiopien
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-buergerkrieg-in-aethiopien-rishi-sunak-krieg-in-der-ukraine-a-32916544-f93c-446c-bc20-46b981b03fcb#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen-a-cb5b021e-759a-4737-a885-f07225c385d4#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen-a-cb5b021e-759a-4737-a885-f07225c385d4#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen-a-cb5b021e-759a-4737-a885-f07225c385d4#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen](https://www.spiegel.de/ausland/midterms-in-den-usa-donald-trump-ist-ueberall-joe-biden-ist-kaum-zu-sehen-a-cb5b021e-759a-4737-a885-f07225c385d4#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### pro
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-100-euro-pro-megawattstunde](https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-100-euro-pro-megawattstunde-a-c80916e0-1715-4b1b-bb6a-d2f7b3d3a2fe#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### stockholm
-
-* [https://www.spiegel.de/wissenschaft/stockholm-schweden-kriegsschiff-wrack-aus-dem-17-jahrhundert-entdeckt](https://www.spiegel.de/wissenschaft/stockholm-schweden-kriegsschiff-wrack-aus-dem-17-jahrhundert-entdeckt-a-a6178c10-9446-4fb2-8494-1cca7af8ef79#ref=rss)
-### papst
-
-* [https://www.spiegel.de/panorama/papst-franziskus-empfaengt-macron-zum-krisengespraech](https://www.spiegel.de/panorama/papst-franziskus-empfaengt-macron-zum-krisengespraech-a-52874e95-862f-467d-8fc9-facf0c27293c#ref=rss)
-### emmanuel
-
-* [https://www.spiegel.de/panorama/papst-franziskus-empfaengt-macron-zum-krisengespraech](https://www.spiegel.de/panorama/papst-franziskus-empfaengt-macron-zum-krisengespraech-a-52874e95-862f-467d-8fc9-facf0c27293c#ref=rss)
-### macron
-
-* [https://www.spiegel.de/panorama/papst-franziskus-empfaengt-macron-zum-krisengespraech](https://www.spiegel.de/panorama/papst-franziskus-empfaengt-macron-zum-krisengespraech-a-52874e95-862f-467d-8fc9-facf0c27293c#ref=rss)
+* [https://www.spiegel.de/panorama/grossbritannien-tim-gough-radiomoderator-stirbt-waehrend-livesendung](https://www.spiegel.de/panorama/grossbritannien-tim-gough-radiomoderator-stirbt-waehrend-livesendung-a-ca893719-29a4-4294-a416-dba559f65122#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/papst-franziskus-empfaengt-macron-zum-krisengespraech](https://www.spiegel.de/panorama/papst-franziskus-empfaengt-macron-zum-krisengespraech-a-52874e95-862f-467d-8fc9-facf0c27293c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-tod-durch-29-stiche-frau-gesteht-mord-an-lebensgefaehrtin](https://www.spiegel.de/panorama/justiz/moenchengladbach-tod-durch-29-stiche-frau-gesteht-mord-an-lebensgefaehrtin-a-29ab5e10-9997-40a4-810b-3186bfa0c8e2#ref=rss)
-### eigenen
+* [https://www.spiegel.de/panorama/grossbritannien-tim-gough-radiomoderator-stirbt-waehrend-livesendung](https://www.spiegel.de/panorama/grossbritannien-tim-gough-radiomoderator-stirbt-waehrend-livesendung-a-ca893719-29a4-4294-a416-dba559f65122#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-die-oevp-ist-kaum-zu-retten-inside-austria](https://www.spiegel.de/ausland/oesterreich-die-oevp-ist-kaum-zu-retten-inside-austria-a-bdddc41b-fd42-435f-90d9-b6289dd6c553#ref=rss)
+### ashton
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/versorger-wollen-eigenen-verbrauch-senken](https://www.spiegel.de/wirtschaft/unternehmen/versorger-wollen-eigenen-verbrauch-senken-a-0da68edc-fd5a-4598-b2d6-ac20875ef33c#ref=rss)
-### verbrauch
+* [https://www.spiegel.de/ausland/ashton-carter-frueherer-us-verteidigungsminister-im-alter-von-68-jahren-gestorben](https://www.spiegel.de/ausland/ashton-carter-frueherer-us-verteidigungsminister-im-alter-von-68-jahren-gestorben-a-f76e1a39-65b7-4df8-9502-e86ea4aa47cf#ref=rss)
+### carter
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/versorger-wollen-eigenen-verbrauch-senken](https://www.spiegel.de/wirtschaft/unternehmen/versorger-wollen-eigenen-verbrauch-senken-a-0da68edc-fd5a-4598-b2d6-ac20875ef33c#ref=rss)
-### mönchengladbach
+* [https://www.spiegel.de/ausland/ashton-carter-frueherer-us-verteidigungsminister-im-alter-von-68-jahren-gestorben](https://www.spiegel.de/ausland/ashton-carter-frueherer-us-verteidigungsminister-im-alter-von-68-jahren-gestorben-a-f76e1a39-65b7-4df8-9502-e86ea4aa47cf#ref=rss)
+### 68
 
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-tod-durch-29-stiche-frau-gesteht-mord-an-lebensgefaehrtin](https://www.spiegel.de/panorama/justiz/moenchengladbach-tod-durch-29-stiche-frau-gesteht-mord-an-lebensgefaehrtin-a-29ab5e10-9997-40a4-810b-3186bfa0c8e2#ref=rss)
-### frau
+* [https://www.spiegel.de/ausland/ashton-carter-frueherer-us-verteidigungsminister-im-alter-von-68-jahren-gestorben](https://www.spiegel.de/ausland/ashton-carter-frueherer-us-verteidigungsminister-im-alter-von-68-jahren-gestorben-a-f76e1a39-65b7-4df8-9502-e86ea4aa47cf#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/panorama/justiz/moenchengladbach-tod-durch-29-stiche-frau-gesteht-mord-an-lebensgefaehrtin](https://www.spiegel.de/panorama/justiz/moenchengladbach-tod-durch-29-stiche-frau-gesteht-mord-an-lebensgefaehrtin-a-29ab5e10-9997-40a4-810b-3186bfa0c8e2#ref=rss)
-### euro
+* [https://www.spiegel.de/ausland/ashton-carter-frueherer-us-verteidigungsminister-im-alter-von-68-jahren-gestorben](https://www.spiegel.de/ausland/ashton-carter-frueherer-us-verteidigungsminister-im-alter-von-68-jahren-gestorben-a-f76e1a39-65b7-4df8-9502-e86ea4aa47cf#ref=rss)
+### chinas
 
-* [https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-100-euro-pro-megawattstunde](https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-100-euro-pro-megawattstunde-a-c80916e0-1715-4b1b-bb6a-d2f7b3d3a2fe#ref=rss)
-### megawattstunde
+* [https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt](https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt-a-ab6a0816-70b9-4abc-8a6e-7e323290d908#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-100-euro-pro-megawattstunde](https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-100-euro-pro-megawattstunde-a-c80916e0-1715-4b1b-bb6a-d2f7b3d3a2fe#ref=rss)
-### auto
+* [https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt](https://www.spiegel.de/politik/deutschland/chinas-einstieg-in-hamburger-hafen-was-vom-gruenen-aufstand-uebrig-bleibt-a-ab6a0816-70b9-4abc-8a6e-7e323290d908#ref=rss)
+### umweltverbände
 
-* [https://www.spiegel.de/auto/fahrberichte/auto-kaufen-warum-viele-moderne-pkw-massive-qualitaetsprobleme-haben](https://www.spiegel.de/auto/fahrberichte/auto-kaufen-warum-viele-moderne-pkw-massive-qualitaetsprobleme-haben-a-2400bc62-f62d-450e-a9c4-cf3a0a1ef587#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin](https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin-a-094fb280-5e2d-4975-8968-347fe18e2e51#ref=rss)
-### viele
+* [https://www.spiegel.de/wirtschaft/unternehmen/energieversorgung-umweltverbaende-fordern-bekenntnis-zu-fracking-verbot](https://www.spiegel.de/wirtschaft/unternehmen/energieversorgung-umweltverbaende-fordern-bekenntnis-zu-fracking-verbot-a-b9b1f7b5-822a-40c0-9cda-a4924d8f38a8#ref=rss)
+### reesmogg
 
-* [https://www.spiegel.de/auto/fahrberichte/auto-kaufen-warum-viele-moderne-pkw-massive-qualitaetsprobleme-haben](https://www.spiegel.de/auto/fahrberichte/auto-kaufen-warum-viele-moderne-pkw-massive-qualitaetsprobleme-haben-a-2400bc62-f62d-450e-a9c4-cf3a0a1ef587#ref=rss)
-### macht
+* [https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck](https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck-a-686b3465-4613-4a7f-8bf0-4b7b2373fd6c#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/auto/fahrberichte/auto-kaufen-warum-viele-moderne-pkw-massive-qualitaetsprobleme-haben](https://www.spiegel.de/auto/fahrberichte/auto-kaufen-warum-viele-moderne-pkw-massive-qualitaetsprobleme-haben-a-2400bc62-f62d-450e-a9c4-cf3a0a1ef587#ref=rss)
-* [https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen](https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen-a-378c194e-2c7c-4c26-ac43-a0e424f18c5a#ref=rss)
-### hessen
+* [https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck](https://www.spiegel.de/ausland/grossbritannien-jacob-rees-mogg-tritt-als-wirtschaftsminister-zurueck-a-686b3465-4613-4a7f-8bf0-4b7b2373fd6c#ref=rss)
+### hack
 
-* [https://www.spiegel.de/panorama/razzia-wegen-mutmasslichen-kindesmissbrauchs-haftbefehl-gegen-25-jaehrigen-aus-nordhessen](https://www.spiegel.de/panorama/razzia-wegen-mutmasslichen-kindesmissbrauchs-haftbefehl-gegen-25-jaehrigen-aus-nordhessen-a-d838dc2e-b333-41ac-9563-d0c084aa2811#ref=rss)
-### garzweiler
+* [https://www.spiegel.de/netzwelt/web/cyberangriff-hack-fuer-deutsche-presse-agentur-offenbar-gravierender-als-angenommen](https://www.spiegel.de/netzwelt/web/cyberangriff-hack-fuer-deutsche-presse-agentur-offenbar-gravierender-als-angenommen-a-d8a17861-0940-40a7-b583-e3982e62f15a#ref=rss)
+### umsetzbar
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/garzweiler-windraeder-muessen-der-braunkohle-weichen](https://www.spiegel.de/wirtschaft/unternehmen/garzweiler-windraeder-muessen-der-braunkohle-weichen-a-d9af257d-3e67-4a16-8010-ac0a80ee602d#ref=rss)
-### madame
+* [https://www.spiegel.de/wirtschaft/service/energieverband-haelt-strompreisbremse-ab-januar-fuer-nicht-umsetzbar](https://www.spiegel.de/wirtschaft/service/energieverband-haelt-strompreisbremse-ab-januar-fuer-nicht-umsetzbar-a-8ef8c5c9-c20f-4c21-83fc-4103fa700ccb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gaspreisbremse-so-stehen-die-chancen-auf-schnellere-hilfen](https://www.spiegel.de/wirtschaft/soziales/gaspreisbremse-so-stehen-die-chancen-auf-schnellere-hilfen-a-f4c209a5-ae4f-4f34-95dc-468bea2e8c3f#ref=rss)
+### verbraucher
 
-* [https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen](https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen-a-3186f100-54aa-4861-bdbb-01cb3768033e#ref=rss)
-### tussauds
+* [https://www.spiegel.de/wirtschaft/service/energieverband-haelt-strompreisbremse-ab-januar-fuer-nicht-umsetzbar](https://www.spiegel.de/wirtschaft/service/energieverband-haelt-strompreisbremse-ab-januar-fuer-nicht-umsetzbar-a-8ef8c5c9-c20f-4c21-83fc-4103fa700ccb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/sinkende-gaspreise-sorgen-laut-robert-habeck-erst-mittelfristig-fuer-entlastung](https://www.spiegel.de/wirtschaft/unternehmen/sinkende-gaspreise-sorgen-laut-robert-habeck-erst-mittelfristig-fuer-entlastung-a-87cd61ee-c18e-4629-a853-cd00074d25eb#ref=rss)
+### später
 
-* [https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen](https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen-a-3186f100-54aa-4861-bdbb-01cb3768033e#ref=rss)
-### torte
+* [https://www.spiegel.de/wirtschaft/service/energieverband-haelt-strompreisbremse-ab-januar-fuer-nicht-umsetzbar](https://www.spiegel.de/wirtschaft/service/energieverband-haelt-strompreisbremse-ab-januar-fuer-nicht-umsetzbar-a-8ef8c5c9-c20f-4c21-83fc-4103fa700ccb#ref=rss)
+* [https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt](https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt-a-aa75d8eb-6328-4e3c-a1bb-4b471b9e0786#ref=rss)
+### brittney
 
-* [https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen](https://www.spiegel.de/panorama/leute/wachsfigur-von-koenig-charles-iii-mit-torte-beworfen-a-3186f100-54aa-4861-bdbb-01cb3768033e#ref=rss)
-### rennpferde
+* [https://www.spiegel.de/ausland/brittney-griner-scheitert-mit-berufung-gegen-haftstrafe-neun-jahre-haft](https://www.spiegel.de/ausland/brittney-griner-scheitert-mit-berufung-gegen-haftstrafe-neun-jahre-haft-a-1cb637b4-2f66-45df-879a-40c0523c326a#ref=rss)
+### griner
 
-* [https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen](https://www.spiegel.de/panorama/leute/charles-iii-verkauft-rennpferde-der-queen-a-378c194e-2c7c-4c26-ac43-a0e424f18c5a#ref=rss)
-### oleksij
+* [https://www.spiegel.de/ausland/brittney-griner-scheitert-mit-berufung-gegen-haftstrafe-neun-jahre-haft](https://www.spiegel.de/ausland/brittney-griner-scheitert-mit-berufung-gegen-haftstrafe-neun-jahre-haft-a-1cb637b4-2f66-45df-879a-40c0523c326a#ref=rss)
+### neun
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin](https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin-a-094fb280-5e2d-4975-8968-347fe18e2e51#ref=rss)
-### makejew
+* [https://www.spiegel.de/ausland/brittney-griner-scheitert-mit-berufung-gegen-haftstrafe-neun-jahre-haft](https://www.spiegel.de/ausland/brittney-griner-scheitert-mit-berufung-gegen-haftstrafe-neun-jahre-haft-a-1cb637b4-2f66-45df-879a-40c0523c326a#ref=rss)
+### haft
 
-* [https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin](https://www.spiegel.de/politik/deutschland/ukraine-oleksij-makejew-beginnt-arbeit-als-neuer-botschafter-in-berlin-a-094fb280-5e2d-4975-8968-347fe18e2e51#ref=rss)
+* [https://www.spiegel.de/ausland/brittney-griner-scheitert-mit-berufung-gegen-haftstrafe-neun-jahre-haft](https://www.spiegel.de/ausland/brittney-griner-scheitert-mit-berufung-gegen-haftstrafe-neun-jahre-haft-a-1cb637b4-2f66-45df-879a-40c0523c326a#ref=rss)
+### urteil
+
+* [https://www.spiegel.de/ausland/brittney-griner-scheitert-mit-berufung-gegen-haftstrafe-neun-jahre-haft](https://www.spiegel.de/ausland/brittney-griner-scheitert-mit-berufung-gegen-haftstrafe-neun-jahre-haft-a-1cb637b4-2f66-45df-879a-40c0523c326a#ref=rss)
+### dhb
+
+* [https://www.spiegel.de/sport/handball/handballskandal-um-trainer-andre-fuhr-kultur-des-wegsehens-beim-dhb](https://www.spiegel.de/sport/handball/handballskandal-um-trainer-andre-fuhr-kultur-des-wegsehens-beim-dhb-a-f9cde50d-1b52-41cf-b7a0-68cf52805ed1#ref=rss)
+### hilfen
+
+* [https://www.spiegel.de/wirtschaft/soziales/gaspreisbremse-so-stehen-die-chancen-auf-schnellere-hilfen](https://www.spiegel.de/wirtschaft/soziales/gaspreisbremse-so-stehen-die-chancen-auf-schnellere-hilfen-a-f4c209a5-ae4f-4f34-95dc-468bea2e8c3f#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/sinkende-gaspreise-sorgen-laut-robert-habeck-erst-mittelfristig-fuer-entlastung](https://www.spiegel.de/wirtschaft/unternehmen/sinkende-gaspreise-sorgen-laut-robert-habeck-erst-mittelfristig-fuer-entlastung-a-87cd61ee-c18e-4629-a853-cd00074d25eb#ref=rss)
+### ronja
+
+* [https://www.spiegel.de/start/ronja-von-roenne-ueber-entscheidungen-die-leute-sollten-viel-frueher-aufgeben](https://www.spiegel.de/start/ronja-von-roenne-ueber-entscheidungen-die-leute-sollten-viel-frueher-aufgeben-a-274f7b74-ad03-47e5-817d-bee4192b2996#ref=rss)
+### rönne
+
+* [https://www.spiegel.de/start/ronja-von-roenne-ueber-entscheidungen-die-leute-sollten-viel-frueher-aufgeben](https://www.spiegel.de/start/ronja-von-roenne-ueber-entscheidungen-die-leute-sollten-viel-frueher-aufgeben-a-274f7b74-ad03-47e5-817d-bee4192b2996#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-mahmoud-dowlatabadi-ueber-die-schlaegertruppen-im-einsatz-gegen-demonstranten](https://www.spiegel.de/ausland/iran-mahmoud-dowlatabadi-ueber-die-schlaegertruppen-im-einsatz-gegen-demonstranten-a-6d039ff9-54cf-4177-9d1f-4730ba4bfb78#ref=rss)
+### mahmoud
+
+* [https://www.spiegel.de/ausland/iran-mahmoud-dowlatabadi-ueber-die-schlaegertruppen-im-einsatz-gegen-demonstranten](https://www.spiegel.de/ausland/iran-mahmoud-dowlatabadi-ueber-die-schlaegertruppen-im-einsatz-gegen-demonstranten-a-6d039ff9-54cf-4177-9d1f-4730ba4bfb78#ref=rss)
+### dowlatabadi
+
+* [https://www.spiegel.de/ausland/iran-mahmoud-dowlatabadi-ueber-die-schlaegertruppen-im-einsatz-gegen-demonstranten](https://www.spiegel.de/ausland/iran-mahmoud-dowlatabadi-ueber-die-schlaegertruppen-im-einsatz-gegen-demonstranten-a-6d039ff9-54cf-4177-9d1f-4730ba4bfb78#ref=rss)
+### schlägertruppen
+
+* [https://www.spiegel.de/ausland/iran-mahmoud-dowlatabadi-ueber-die-schlaegertruppen-im-einsatz-gegen-demonstranten](https://www.spiegel.de/ausland/iran-mahmoud-dowlatabadi-ueber-die-schlaegertruppen-im-einsatz-gegen-demonstranten-a-6d039ff9-54cf-4177-9d1f-4730ba4bfb78#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-mit-dem-z-symbol-in-der-heckscheibe-unterwegs-geldstrafe-fuer-62-jaehrigen](https://www.spiegel.de/panorama/justiz/hamburg-mit-dem-z-symbol-in-der-heckscheibe-unterwegs-geldstrafe-fuer-62-jaehrigen-a-6a41521d-2728-4f0d-a067-57469177e42e#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-mit-dem-z-symbol-in-der-heckscheibe-unterwegs-geldstrafe-fuer-62-jaehrigen](https://www.spiegel.de/panorama/justiz/hamburg-mit-dem-z-symbol-in-der-heckscheibe-unterwegs-geldstrafe-fuer-62-jaehrigen-a-6a41521d-2728-4f0d-a067-57469177e42e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-ursula-von-der-leyen-nennt-russische-angriffe-terroristische-handlungen](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-ursula-von-der-leyen-nennt-russische-angriffe-terroristische-handlungen-a-35db6db7-515a-4614-a66d-aa3436d31744#ref=rss)
+### womöglich
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-ursula-von-der-leyen-nennt-russische-angriffe-terroristische-handlungen](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-ursula-von-der-leyen-nennt-russische-angriffe-terroristische-handlungen-a-35db6db7-515a-4614-a66d-aa3436d31744#ref=rss)
+* [https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt](https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt-a-aa75d8eb-6328-4e3c-a1bb-4b471b9e0786#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-geldvermoegen-schrumpft-pro-kopf-um-4700-euro](https://www.spiegel.de/wirtschaft/service/inflation-in-deutschland-geldvermoegen-schrumpft-pro-kopf-um-4700-euro-a-f0a7baaf-2c86-41d9-90d7-edeca8151a95#ref=rss)
+### cherson
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-und-die-evakuierung-von-cherson-russlands-propaganda-bombe](https://www.spiegel.de/ausland/ukraine-krieg-und-die-evakuierung-von-cherson-russlands-propaganda-bombe-a-e7ecd1b7-c54e-478c-ba99-2e959a5b6d50#ref=rss)
+### natalja
+
+* [https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt](https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt-a-aa75d8eb-6328-4e3c-a1bb-4b471b9e0786#ref=rss)
+### antjuch
+
+* [https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt](https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt-a-aa75d8eb-6328-4e3c-a1bb-4b471b9e0786#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt](https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt-a-aa75d8eb-6328-4e3c-a1bb-4b471b9e0786#ref=rss)
+### gold
+
+* [https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt](https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt-a-aa75d8eb-6328-4e3c-a1bb-4b471b9e0786#ref=rss)
+### aberkannt
+
+* [https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt](https://www.spiegel.de/sport/olympia/doping-bei-olympia-2012-huerdenlaeuferin-natalja-antjuch-wird-zehn-jahre-spaeter-gold-aberkannt-a-aa75d8eb-6328-4e3c-a1bb-4b471b9e0786#ref=rss)
+### petras
+
+* [https://www.spiegel.de/kultur/musik/kim-petras-und-sam-smith-sind-die-ersten-trans-bzw-non-binaeren-kuenstler-auf-platz-eins-der-us-charts](https://www.spiegel.de/kultur/musik/kim-petras-und-sam-smith-sind-die-ersten-trans-bzw-non-binaeren-kuenstler-auf-platz-eins-der-us-charts-a-f159b033-7fc5-4bf0-865b-d169b2a015f8#ref=rss)
+### eins
+
+* [https://www.spiegel.de/kultur/musik/kim-petras-und-sam-smith-sind-die-ersten-trans-bzw-non-binaeren-kuenstler-auf-platz-eins-der-us-charts](https://www.spiegel.de/kultur/musik/kim-petras-und-sam-smith-sind-die-ersten-trans-bzw-non-binaeren-kuenstler-auf-platz-eins-der-us-charts-a-f159b033-7fc5-4bf0-865b-d169b2a015f8#ref=rss)
 
