@@ -14,6 +14,12 @@ tags: __no_header__
 * [https://www.spiegel.de/ausland/iran-usa-verhaengen-sanktionen-gegen-14-offizielle](https://www.spiegel.de/ausland/iran-usa-verhaengen-sanktionen-gegen-14-offizielle-a-3fb7a112-90dc-4ec6-9bc1-04c34853bb77#ref=rss)
 * [https://www.spiegel.de/sport/schach-schiedsrichterin-shohreh-bayat-solidarisiert-sich-mit-protesten-in-iran](https://www.spiegel.de/sport/schach-schiedsrichterin-shohreh-bayat-solidarisiert-sich-mit-protesten-in-iran-a-a3e7bb71-1b66-4a2a-aff9-5d7f5148b230#ref=rss)
 * [https://www.spiegel.de/ausland/iran-sicherheitskraefte-sollen-auf-demonstranten-geschossen-haben](https://www.spiegel.de/ausland/iran-sicherheitskraefte-sollen-auf-demonstranten-geschossen-haben-a-7ba0c466-7af4-4404-8691-fe2e20abbe30#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-russlands-kamikazedrohnen-vom-himmel-holt](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-russlands-kamikazedrohnen-vom-himmel-holt-a-498bc40c-7347-44e5-9f41-643677f7a4ae#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-macht-sich-in-den-usa-kriegsmuedigkeit-breit](https://www.spiegel.de/ausland/ukraine-macht-sich-in-den-usa-kriegsmuedigkeit-breit-a-50ff05d2-9308-42df-873f-9382bf76cbec#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-und-die-drohung-in-der-drohung](https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-und-die-drohung-in-der-drohung-a-4230b961-f5a2-41e1-8e0f-f8b3e2ffaa5d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-cannabis-legalisierung-cosco-beteiligung-im-hamburger-hafen-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-cannabis-legalisierung-cosco-beteiligung-im-hamburger-hafen-krieg-in-der-ukraine-a-cfac372b-ebb2-41d9-902c-83a4d83c139c#ref=rss)
 ### olaf
 
 * [https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-emmanuel-macron-in-paris-und-jetzt-bitte-laecheln](https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-emmanuel-macron-in-paris-und-jetzt-bitte-laecheln-a-4858f898-57cf-4787-a8a8-bb9da8fdecfe#ref=rss)
@@ -27,11 +33,10 @@ tags: __no_header__
 
 * [https://www.spiegel.de/wirtschaft/unternehmen/cosco-im-hamburger-hafen-konzern-reagiert-zurueckhaltend-auf-regierungskompromiss](https://www.spiegel.de/wirtschaft/unternehmen/cosco-im-hamburger-hafen-konzern-reagiert-zurueckhaltend-auf-regierungskompromiss-a-6208a64b-f275-4a90-abdc-3c0ccde0ec25#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/news-des-tages-cannabis-legalisierung-cosco-beteiligung-im-hamburger-hafen-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-cannabis-legalisierung-cosco-beteiligung-im-hamburger-hafen-krieg-in-der-ukraine-a-cfac372b-ebb2-41d9-902c-83a4d83c139c#ref=rss)
-### ukraine
+### soldaten
 
-* [https://www.spiegel.de/ausland/ukraine-macht-sich-in-den-usa-kriegsmuedigkeit-breit](https://www.spiegel.de/ausland/ukraine-macht-sich-in-den-usa-kriegsmuedigkeit-breit-a-50ff05d2-9308-42df-873f-9382bf76cbec#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-und-die-drohung-in-der-drohung](https://www.spiegel.de/ausland/russland-ukraine-krieg-wladimir-putin-und-die-drohung-in-der-drohung-a-4230b961-f5a2-41e1-8e0f-f8b3e2ffaa5d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-cannabis-legalisierung-cosco-beteiligung-im-hamburger-hafen-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-cannabis-legalisierung-cosco-beteiligung-im-hamburger-hafen-krieg-in-der-ukraine-a-cfac372b-ebb2-41d9-902c-83a4d83c139c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-russlands-kamikazedrohnen-vom-himmel-holt](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-russlands-kamikazedrohnen-vom-himmel-holt-a-498bc40c-7347-44e5-9f41-643677f7a4ae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-soldaten-verweigern-den-dienst](https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-soldaten-verweigern-den-dienst-a-38a5e165-a2ec-4a34-8bce-01f73ca557b4#ref=rss)
 ### fc
 
 * [https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-folgt-fc-bayern-muenchen-ins-achtelfinale-fc-barcelona-scheidet-aus](https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-folgt-fc-bayern-muenchen-ins-achtelfinale-fc-barcelona-scheidet-aus-a-475331ed-5aaa-4b5c-be03-0516870d1310#ref=rss)
@@ -89,6 +94,14 @@ tags: __no_header__
 
 * [https://www.spiegel.de/wirtschaft/unternehmen/cosco-im-hamburger-hafen-konzern-reagiert-zurueckhaltend-auf-regierungskompromiss](https://www.spiegel.de/wirtschaft/unternehmen/cosco-im-hamburger-hafen-konzern-reagiert-zurueckhaltend-auf-regierungskompromiss-a-6208a64b-f275-4a90-abdc-3c0ccde0ec25#ref=rss)
 * [https://www.spiegel.de/politik/deutschland/news-des-tages-cannabis-legalisierung-cosco-beteiligung-im-hamburger-hafen-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-cannabis-legalisierung-cosco-beteiligung-im-hamburger-hafen-krieg-in-der-ukraine-a-cfac372b-ebb2-41d9-902c-83a4d83c139c#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-russlands-kamikazedrohnen-vom-himmel-holt](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-russlands-kamikazedrohnen-vom-himmel-holt-a-498bc40c-7347-44e5-9f41-643677f7a4ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gas-und-fernwaerme-robert-habeck-bringt-uebernahme-der-dezember-abschlaege-auf-den-weg](https://www.spiegel.de/wirtschaft/service/gas-und-fernwaerme-robert-habeck-bringt-uebernahme-der-dezember-abschlaege-auf-den-weg-a-c3009bc9-49b7-4042-b89a-9705d1c00da5#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-russlands-kamikazedrohnen-vom-himmel-holt](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-russlands-kamikazedrohnen-vom-himmel-holt-a-498bc40c-7347-44e5-9f41-643677f7a4ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/gas-und-fernwaerme-robert-habeck-bringt-uebernahme-der-dezember-abschlaege-auf-den-weg](https://www.spiegel.de/wirtschaft/service/gas-und-fernwaerme-robert-habeck-bringt-uebernahme-der-dezember-abschlaege-auf-den-weg-a-c3009bc9-49b7-4042-b89a-9705d1c00da5#ref=rss)
 ### pierre
 
 * [https://www.spiegel.de/kultur/pierre-soulages-ist-tot](https://www.spiegel.de/kultur/pierre-soulages-ist-tot-a-dcac7709-cab1-4efb-869d-3306373c25af#ref=rss)
@@ -104,9 +117,6 @@ tags: __no_header__
 ### barcelona
 
 * [https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-folgt-fc-bayern-muenchen-ins-achtelfinale-fc-barcelona-scheidet-aus](https://www.spiegel.de/sport/fussball/champions-league-inter-mailand-folgt-fc-bayern-muenchen-ins-achtelfinale-fc-barcelona-scheidet-aus-a-475331ed-5aaa-4b5c-be03-0516870d1310#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-soldaten-verweigern-den-dienst](https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-soldaten-verweigern-den-dienst-a-38a5e165-a2ec-4a34-8bce-01f73ca557b4#ref=rss)
 ### dienst
 
 * [https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-soldaten-verweigern-den-dienst](https://www.spiegel.de/politik/deutschland/bundeswehr-immer-mehr-soldaten-verweigern-den-dienst-a-38a5e165-a2ec-4a34-8bce-01f73ca557b4#ref=rss)
@@ -310,16 +320,4 @@ tags: __no_header__
 ### boeing
 
 * [https://www.spiegel.de/wirtschaft/unternehmen/boeing-ruestungsgeschaeft-brockt-flugzeugbauer-weiteren-milliardenverlust-ein](https://www.spiegel.de/wirtschaft/unternehmen/boeing-ruestungsgeschaeft-brockt-flugzeugbauer-weiteren-milliardenverlust-ein-a-df7ccded-8341-423c-9fb2-e0016905d8e3#ref=rss)
-### ruth
-
-* [https://www.spiegel.de/panorama/ruth-bader-ginsburg-u-s-postal-service-ehrt-verstorbene-verfassungsrichterin](https://www.spiegel.de/panorama/ruth-bader-ginsburg-u-s-postal-service-ehrt-verstorbene-verfassungsrichterin-a-92362bad-862e-45b9-8484-7105839d17dd#ref=rss)
-### bader
-
-* [https://www.spiegel.de/panorama/ruth-bader-ginsburg-u-s-postal-service-ehrt-verstorbene-verfassungsrichterin](https://www.spiegel.de/panorama/ruth-bader-ginsburg-u-s-postal-service-ehrt-verstorbene-verfassungsrichterin-a-92362bad-862e-45b9-8484-7105839d17dd#ref=rss)
-### ginsburg
-
-* [https://www.spiegel.de/panorama/ruth-bader-ginsburg-u-s-postal-service-ehrt-verstorbene-verfassungsrichterin](https://www.spiegel.de/panorama/ruth-bader-ginsburg-u-s-postal-service-ehrt-verstorbene-verfassungsrichterin-a-92362bad-862e-45b9-8484-7105839d17dd#ref=rss)
-### verfassungsrichterin
-
-* [https://www.spiegel.de/panorama/ruth-bader-ginsburg-u-s-postal-service-ehrt-verstorbene-verfassungsrichterin](https://www.spiegel.de/panorama/ruth-bader-ginsburg-u-s-postal-service-ehrt-verstorbene-verfassungsrichterin-a-92362bad-862e-45b9-8484-7105839d17dd#ref=rss)
 
