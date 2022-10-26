@@ -14,7 +14,7 @@ commands:
 jobs:
   track-all:
     docker:
-      - image: circleci/python:3.8.10
+      - image: cimg/python:3.8.10
     steps:
       - checkout
       - add-ssh-key
@@ -24,7 +24,7 @@ jobs:
             make
   track-often:
     docker:
-      - image: circleci/python:3.8.10
+      - image: cimg/python:3.8.10
     steps:
       - checkout
       - add-ssh-key
@@ -34,7 +34,7 @@ jobs:
             make often
   track-rarely:
     docker:
-      - image: circleci/python:3.8.10
+      - image: cimg/python:3.8.10
     steps:
       - checkout
       - add-ssh-key
