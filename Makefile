@@ -27,7 +27,7 @@ install_pipenv:
 
 init:
 	pipenv --python 3
-	pipenv install
+	pipenv install --skip-lock
 
 pull:
 	git pull origin master
