@@ -4,337 +4,352 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### elon
+### viele
 
-* [https://www.spiegel.de/politik/deutschland/jessica-rosenthal-juso-chefin-fordert-elon-musks-twitter-enteignung](https://www.spiegel.de/politik/deutschland/jessica-rosenthal-juso-chefin-fordert-elon-musks-twitter-enteignung-a-a9f7519f-c8d7-4026-99b3-f6cc2b8d4f36#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood](https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood-a-959e50bd-7052-4b37-a168-266c86749e5f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich-a-018d867f-9cc8-49ee-8957-504a0b184dde#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bejubelt-uebernahme-von-twitter-durch-elon-musk](https://www.spiegel.de/ausland/donald-trump-bejubelt-uebernahme-von-twitter-durch-elon-musk-a-bbb0b433-d6af-4b1e-8170-e1c03172df63#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten](https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten-a-7adfe5ac-a064-41f9-92da-27841ddbffb6#ref=rss)
-### musk
-
-* [https://www.spiegel.de/politik/deutschland/jessica-rosenthal-juso-chefin-fordert-elon-musks-twitter-enteignung](https://www.spiegel.de/politik/deutschland/jessica-rosenthal-juso-chefin-fordert-elon-musks-twitter-enteignung-a-a9f7519f-c8d7-4026-99b3-f6cc2b8d4f36#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood](https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood-a-959e50bd-7052-4b37-a168-266c86749e5f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich-a-018d867f-9cc8-49ee-8957-504a0b184dde#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bejubelt-uebernahme-von-twitter-durch-elon-musk](https://www.spiegel.de/ausland/donald-trump-bejubelt-uebernahme-von-twitter-durch-elon-musk-a-bbb0b433-d6af-4b1e-8170-e1c03172df63#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten](https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten-a-7adfe5ac-a064-41f9-92da-27841ddbffb6#ref=rss)
-### twitter
-
-* [https://www.spiegel.de/politik/deutschland/jessica-rosenthal-juso-chefin-fordert-elon-musks-twitter-enteignung](https://www.spiegel.de/politik/deutschland/jessica-rosenthal-juso-chefin-fordert-elon-musks-twitter-enteignung-a-a9f7519f-c8d7-4026-99b3-f6cc2b8d4f36#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood](https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood-a-959e50bd-7052-4b37-a168-266c86749e5f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni](https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni-a-c3de5688-f9ae-46d4-9053-73b3551e6eeb#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bejubelt-uebernahme-von-twitter-durch-elon-musk](https://www.spiegel.de/ausland/donald-trump-bejubelt-uebernahme-von-twitter-durch-elon-musk-a-bbb0b433-d6af-4b1e-8170-e1c03172df63#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten](https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten-a-7adfe5ac-a064-41f9-92da-27841ddbffb6#ref=rss)
-### nancy
-
-* [https://www.spiegel.de/ausland/nach-kritik-von-nancy-faeser-wm-gastgeber-katar-bestellt-deutschen-botschafter-ein](https://www.spiegel.de/ausland/nach-kritik-von-nancy-faeser-wm-gastgeber-katar-bestellt-deutschen-botschafter-ein-a-5d8d998a-a73c-4694-be1a-295922d172e3#ref=rss)
-* [https://www.spiegel.de/ausland/paul-pelosi-einbrecher-verletzt-ehemann-von-nancy-pelosi](https://www.spiegel.de/ausland/paul-pelosi-einbrecher-verletzt-ehemann-von-nancy-pelosi-a-cbf750a0-ac8b-47e8-9d91-494c0903d153#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/ausland/nach-kritik-von-nancy-faeser-wm-gastgeber-katar-bestellt-deutschen-botschafter-ein](https://www.spiegel.de/ausland/nach-kritik-von-nancy-faeser-wm-gastgeber-katar-bestellt-deutschen-botschafter-ein-a-5d8d998a-a73c-4694-be1a-295922d172e3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-kritisiert-bundesregierung-endlos-peinliches-ampel-tiki-taka](https://www.spiegel.de/politik/deutschland/markus-soeder-kritisiert-bundesregierung-endlos-peinliches-ampel-tiki-taka-a-176ea515-dee1-4c08-be2f-929f21059ad7#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten](https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten-a-7adfe5ac-a064-41f9-92da-27841ddbffb6#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/wenn-die-abschreckung-versagt-sind-wir-bereit-zu-kaempfen](https://www.spiegel.de/politik/wenn-die-abschreckung-versagt-sind-wir-bereit-zu-kaempfen-a-f94d6676-de81-4b02-ba78-102f61d9a680#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood](https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood-a-959e50bd-7052-4b37-a168-266c86749e5f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-kritisiert-bundesregierung-endlos-peinliches-ampel-tiki-taka](https://www.spiegel.de/politik/deutschland/markus-soeder-kritisiert-bundesregierung-endlos-peinliches-ampel-tiki-taka-a-176ea515-dee1-4c08-be2f-929f21059ad7#ref=rss)
-### 1
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-in-der-europa-league-ein-fan-berichtet-ueber-das-nebelchaos](https://www.spiegel.de/sport/fussball/1-fc-koeln-in-der-europa-league-ein-fan-berichtet-ueber-das-nebelchaos-a-94bcd4fa-d31b-4d84-8014-47c3053603ca#ref=rss)
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-bekommt-geldstrafe-max-verstappen-darf-aber-seinen-titel-behalten](https://www.spiegel.de/sport/formel1/formel-1-red-bull-bekommt-geldstrafe-max-verstappen-darf-aber-seinen-titel-behalten-a-7693b83a-f867-4137-a0b7-a2cb546ea46a#ref=rss)
-### erst
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-in-der-europa-league-ein-fan-berichtet-ueber-das-nebelchaos](https://www.spiegel.de/sport/fussball/1-fc-koeln-in-der-europa-league-ein-fan-berichtet-ueber-das-nebelchaos-a-94bcd4fa-d31b-4d84-8014-47c3053603ca#ref=rss)
-* [https://www.spiegel.de/gesundheit/stiko-chef-thomas-mertens-haelt-corona-fuer-endemisch](https://www.spiegel.de/gesundheit/stiko-chef-thomas-mertens-haelt-corona-fuer-endemisch-a-5351c5db-a078-4386-8b77-439342448c14#ref=rss)
-* [https://www.spiegel.de/panorama/leute/steuerhinterziehung-alfons-schuhbeck-soll-sich-nach-urteil-mit-kochen-getroestet-haben](https://www.spiegel.de/panorama/leute/steuerhinterziehung-alfons-schuhbeck-soll-sich-nach-urteil-mit-kochen-getroestet-haben-a-f57b3b01-ed3f-4bd4-8727-0a845890a4c6#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/ausland/nach-kritik-von-nancy-faeser-wm-gastgeber-katar-bestellt-deutschen-botschafter-ein](https://www.spiegel.de/ausland/nach-kritik-von-nancy-faeser-wm-gastgeber-katar-bestellt-deutschen-botschafter-ein-a-5d8d998a-a73c-4694-be1a-295922d172e3#ref=rss)
-* [https://www.spiegel.de/gesundheit/stiko-chef-thomas-mertens-haelt-corona-fuer-endemisch](https://www.spiegel.de/gesundheit/stiko-chef-thomas-mertens-haelt-corona-fuer-endemisch-a-5351c5db-a078-4386-8b77-439342448c14#ref=rss)
-### pelosi
-
-* [https://www.spiegel.de/ausland/paul-pelosi-einbrecher-verletzt-ehemann-von-nancy-pelosi](https://www.spiegel.de/ausland/paul-pelosi-einbrecher-verletzt-ehemann-von-nancy-pelosi-a-cbf750a0-ac8b-47e8-9d91-494c0903d153#ref=rss)
-### red
-
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-bekommt-geldstrafe-max-verstappen-darf-aber-seinen-titel-behalten](https://www.spiegel.de/sport/formel1/formel-1-red-bull-bekommt-geldstrafe-max-verstappen-darf-aber-seinen-titel-behalten-a-7693b83a-f867-4137-a0b7-a2cb546ea46a#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-was-nach-dem-tod-von-dietrich-mateschitz-aus-seinem-red-bull-imperium-wird-podcast](https://www.spiegel.de/ausland/oesterreich-was-nach-dem-tod-von-dietrich-mateschitz-aus-seinem-red-bull-imperium-wird-podcast-a-4ac5ddbe-0fde-4527-a5dc-d99af1b41010#ref=rss)
-### bull
-
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-bekommt-geldstrafe-max-verstappen-darf-aber-seinen-titel-behalten](https://www.spiegel.de/sport/formel1/formel-1-red-bull-bekommt-geldstrafe-max-verstappen-darf-aber-seinen-titel-behalten-a-7693b83a-f867-4137-a0b7-a2cb546ea46a#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-was-nach-dem-tod-von-dietrich-mateschitz-aus-seinem-red-bull-imperium-wird-podcast](https://www.spiegel.de/ausland/oesterreich-was-nach-dem-tod-von-dietrich-mateschitz-aus-seinem-red-bull-imperium-wird-podcast-a-4ac5ddbe-0fde-4527-a5dc-d99af1b41010#ref=rss)
-### plattform
-
-* [https://www.spiegel.de/politik/deutschland/jessica-rosenthal-juso-chefin-fordert-elon-musks-twitter-enteignung](https://www.spiegel.de/politik/deutschland/jessica-rosenthal-juso-chefin-fordert-elon-musks-twitter-enteignung-a-a9f7519f-c8d7-4026-99b3-f6cc2b8d4f36#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich-a-018d867f-9cc8-49ee-8957-504a0b184dde#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten](https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten-a-7adfe5ac-a064-41f9-92da-27841ddbffb6#ref=rss)
-### claudia
-
-* [https://www.spiegel.de/kultur/tv/polizeiruf-110-hexen-brennen-mit-claudia-michelsen-schaedelschrauben-raus-halloween-naht](https://www.spiegel.de/kultur/tv/polizeiruf-110-hexen-brennen-mit-claudia-michelsen-schaedelschrauben-raus-halloween-naht-a-7255cac8-34a1-4127-ae32-3a0a0841fefa#ref=rss)
-* [https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert](https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert-a-e801c4d9-4604-4fb1-8004-6db373d4ca79#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-und-die-schlacht-um-cherson-das-koennte-putins-stalingrad-werden](https://www.spiegel.de/ausland/ukraine-und-die-schlacht-um-cherson-das-koennte-putins-stalingrad-werden-a-b5731681-47e9-422e-ad73-40435a0c281e#ref=rss)
-* [https://www.spiegel.de/ausland/die-haubitzen-sind-von-1979-aber-sie-funktionieren](https://www.spiegel.de/ausland/die-haubitzen-sind-von-1979-aber-sie-funktionieren-a-6d8482fc-56b9-44ff-a078-aa22796a24ec#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-kritisiert-bundesregierung-endlos-peinliches-ampel-tiki-taka](https://www.spiegel.de/politik/deutschland/markus-soeder-kritisiert-bundesregierung-endlos-peinliches-ampel-tiki-taka-a-176ea515-dee1-4c08-be2f-929f21059ad7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni](https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni-a-c3de5688-f9ae-46d4-9053-73b3551e6eeb#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-kritisiert-bundesregierung-endlos-peinliches-ampel-tiki-taka](https://www.spiegel.de/politik/deutschland/markus-soeder-kritisiert-bundesregierung-endlos-peinliches-ampel-tiki-taka-a-176ea515-dee1-4c08-be2f-929f21059ad7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni](https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni-a-c3de5688-f9ae-46d4-9053-73b3551e6eeb#ref=rss)
-### badenwürttemberg
-
-* [https://www.spiegel.de/panorama/gesellschaft/corona-schutz-baden-wuerttemberg-kippt-maskenpflicht-fuer-bewohner-von-pflegeheimen](https://www.spiegel.de/panorama/gesellschaft/corona-schutz-baden-wuerttemberg-kippt-maskenpflicht-fuer-bewohner-von-pflegeheimen-a-dcdd22e1-e4d8-4a4a-8b69-624d8fe75ff9#ref=rss)
-### bewohner
-
-* [https://www.spiegel.de/panorama/gesellschaft/corona-schutz-baden-wuerttemberg-kippt-maskenpflicht-fuer-bewohner-von-pflegeheimen](https://www.spiegel.de/panorama/gesellschaft/corona-schutz-baden-wuerttemberg-kippt-maskenpflicht-fuer-bewohner-von-pflegeheimen-a-dcdd22e1-e4d8-4a4a-8b69-624d8fe75ff9#ref=rss)
-### pflegeheimen
-
-* [https://www.spiegel.de/panorama/gesellschaft/corona-schutz-baden-wuerttemberg-kippt-maskenpflicht-fuer-bewohner-von-pflegeheimen](https://www.spiegel.de/panorama/gesellschaft/corona-schutz-baden-wuerttemberg-kippt-maskenpflicht-fuer-bewohner-von-pflegeheimen-a-dcdd22e1-e4d8-4a4a-8b69-624d8fe75ff9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
+* [https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer](https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer-a-dd76933b-df0d-4cfe-b8cf-42833504ac2c#ref=rss)
+* [https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte](https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte-a-b7b16fc5-3b32-4b71-969d-6362f475ea1e#ref=rss)
+* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt](https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt-a-ab43ae10-057e-4a65-a87a-5d198a17dbfa#ref=rss)
+* [https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein](https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein-a-11352c9a-d724-43ae-a8a2-cc5015cb1a72#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/wenn-die-abschreckung-versagt-sind-wir-bereit-zu-kaempfen](https://www.spiegel.de/politik/wenn-die-abschreckung-versagt-sind-wir-bereit-zu-kaempfen-a-f94d6676-de81-4b02-ba78-102f61d9a680#ref=rss)
-* [https://www.spiegel.de/panorama/leute/steuerhinterziehung-alfons-schuhbeck-soll-sich-nach-urteil-mit-kochen-getroestet-haben](https://www.spiegel.de/panorama/leute/steuerhinterziehung-alfons-schuhbeck-soll-sich-nach-urteil-mit-kochen-getroestet-haben-a-f57b3b01-ed3f-4bd4-8727-0a845890a4c6#ref=rss)
-### soldaten
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten-a-e02d612b-b090-4e1c-a975-9e9d8b50126c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-jobcenter-personalraete-fordern-verschiebung](https://www.spiegel.de/wirtschaft/soziales/buergergeld-jobcenter-personalraete-fordern-verschiebung-a-211de9db-5527-4518-b10e-df85c665993e#ref=rss)
+* [https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte](https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte-a-b7b16fc5-3b32-4b71-969d-6362f475ea1e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl](https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl-a-784fb17d-f266-4418-82b1-26ba3a6bee8c#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/wenn-die-abschreckung-versagt-sind-wir-bereit-zu-kaempfen](https://www.spiegel.de/politik/wenn-die-abschreckung-versagt-sind-wir-bereit-zu-kaempfen-a-f94d6676-de81-4b02-ba78-102f61d9a680#ref=rss)
-* [https://www.spiegel.de/ausland/die-haubitzen-sind-von-1979-aber-sie-funktionieren](https://www.spiegel.de/ausland/die-haubitzen-sind-von-1979-aber-sie-funktionieren-a-6d8482fc-56b9-44ff-a078-aa22796a24ec#ref=rss)
-### nahe
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast-a-f6d2bb80-1c69-4dba-a5aa-f1ce127d75d3#ref=rss)
+* [https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an](https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an-a-4e609d25-4f67-4ae2-8ca5-62fcfda874ff#ref=rss)
+### ende
 
-* [https://www.spiegel.de/politik/wenn-die-abschreckung-versagt-sind-wir-bereit-zu-kaempfen](https://www.spiegel.de/politik/wenn-die-abschreckung-versagt-sind-wir-bereit-zu-kaempfen-a-f94d6676-de81-4b02-ba78-102f61d9a680#ref=rss)
-* [https://www.spiegel.de/ausland/die-haubitzen-sind-von-1979-aber-sie-funktionieren](https://www.spiegel.de/ausland/die-haubitzen-sind-von-1979-aber-sie-funktionieren-a-6d8482fc-56b9-44ff-a078-aa22796a24ec#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/wenn-die-abschreckung-versagt-sind-wir-bereit-zu-kaempfen](https://www.spiegel.de/politik/wenn-die-abschreckung-versagt-sind-wir-bereit-zu-kaempfen-a-f94d6676-de81-4b02-ba78-102f61d9a680#ref=rss)
-* [https://www.spiegel.de/ausland/russland-will-mobilmachung-fuer-ukraine-krieg-abgeschlossen-haben](https://www.spiegel.de/ausland/russland-will-mobilmachung-fuer-ukraine-krieg-abgeschlossen-haben-a-8ff3a1e7-33f9-4bc3-a0ec-28ee294089c1#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/wenn-die-abschreckung-versagt-sind-wir-bereit-zu-kaempfen](https://www.spiegel.de/politik/wenn-die-abschreckung-versagt-sind-wir-bereit-zu-kaempfen-a-f94d6676-de81-4b02-ba78-102f61d9a680#ref=rss)
-* [https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert](https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert-a-e801c4d9-4604-4fb1-8004-6db373d4ca79#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-in-der-europa-league-ein-fan-berichtet-ueber-das-nebelchaos](https://www.spiegel.de/sport/fussball/1-fc-koeln-in-der-europa-league-ein-fan-berichtet-ueber-das-nebelchaos-a-94bcd4fa-d31b-4d84-8014-47c3053603ca#ref=rss)
-### köln
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-in-der-europa-league-ein-fan-berichtet-ueber-das-nebelchaos](https://www.spiegel.de/sport/fussball/1-fc-koeln-in-der-europa-league-ein-fan-berichtet-ueber-das-nebelchaos-a-94bcd4fa-d31b-4d84-8014-47c3053603ca#ref=rss)
-### europa
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-in-der-europa-league-ein-fan-berichtet-ueber-das-nebelchaos](https://www.spiegel.de/sport/fussball/1-fc-koeln-in-der-europa-league-ein-fan-berichtet-ueber-das-nebelchaos-a-94bcd4fa-d31b-4d84-8014-47c3053603ca#ref=rss)
-### hinter
-
-* [https://www.spiegel.de/sport/fussball/1-fc-koeln-in-der-europa-league-ein-fan-berichtet-ueber-das-nebelchaos](https://www.spiegel.de/sport/fussball/1-fc-koeln-in-der-europa-league-ein-fan-berichtet-ueber-das-nebelchaos-a-94bcd4fa-d31b-4d84-8014-47c3053603ca#ref=rss)
-* [https://www.spiegel.de/ausland/oesterreich-was-nach-dem-tod-von-dietrich-mateschitz-aus-seinem-red-bull-imperium-wird-podcast](https://www.spiegel.de/ausland/oesterreich-was-nach-dem-tod-von-dietrich-mateschitz-aus-seinem-red-bull-imperium-wird-podcast-a-4ac5ddbe-0fde-4527-a5dc-d99af1b41010#ref=rss)
-### faeser
-
-* [https://www.spiegel.de/ausland/nach-kritik-von-nancy-faeser-wm-gastgeber-katar-bestellt-deutschen-botschafter-ein](https://www.spiegel.de/ausland/nach-kritik-von-nancy-faeser-wm-gastgeber-katar-bestellt-deutschen-botschafter-ein-a-5d8d998a-a73c-4694-be1a-295922d172e3#ref=rss)
-### katar
-
-* [https://www.spiegel.de/ausland/nach-kritik-von-nancy-faeser-wm-gastgeber-katar-bestellt-deutschen-botschafter-ein](https://www.spiegel.de/ausland/nach-kritik-von-nancy-faeser-wm-gastgeber-katar-bestellt-deutschen-botschafter-ein-a-5d8d998a-a73c-4694-be1a-295922d172e3#ref=rss)
-### christina
-
-* [https://www.spiegel.de/panorama/justiz/christina-applegate-ueber-ihre-ms-erkrankung-gehstoecke-sind-teil-meiner-neuen-normalitaet](https://www.spiegel.de/panorama/justiz/christina-applegate-ueber-ihre-ms-erkrankung-gehstoecke-sind-teil-meiner-neuen-normalitaet-a-0b130c35-fb69-4ee6-ac59-5f1281e25842#ref=rss)
-### applegate
-
-* [https://www.spiegel.de/panorama/justiz/christina-applegate-ueber-ihre-ms-erkrankung-gehstoecke-sind-teil-meiner-neuen-normalitaet](https://www.spiegel.de/panorama/justiz/christina-applegate-ueber-ihre-ms-erkrankung-gehstoecke-sind-teil-meiner-neuen-normalitaet-a-0b130c35-fb69-4ee6-ac59-5f1281e25842#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/panorama/justiz/christina-applegate-ueber-ihre-ms-erkrankung-gehstoecke-sind-teil-meiner-neuen-normalitaet](https://www.spiegel.de/panorama/justiz/christina-applegate-ueber-ihre-ms-erkrankung-gehstoecke-sind-teil-meiner-neuen-normalitaet-a-0b130c35-fb69-4ee6-ac59-5f1281e25842#ref=rss)
-* [https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt](https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt-a-e20cf6d4-3f5e-4516-8f3d-597064baa220#ref=rss)
-### familie
-
-* [https://www.spiegel.de/panorama/justiz/christina-applegate-ueber-ihre-ms-erkrankung-gehstoecke-sind-teil-meiner-neuen-normalitaet](https://www.spiegel.de/panorama/justiz/christina-applegate-ueber-ihre-ms-erkrankung-gehstoecke-sind-teil-meiner-neuen-normalitaet-a-0b130c35-fb69-4ee6-ac59-5f1281e25842#ref=rss)
-* [https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert](https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert-a-e801c4d9-4604-4fb1-8004-6db373d4ca79#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/justiz/christina-applegate-ueber-ihre-ms-erkrankung-gehstoecke-sind-teil-meiner-neuen-normalitaet](https://www.spiegel.de/panorama/justiz/christina-applegate-ueber-ihre-ms-erkrankung-gehstoecke-sind-teil-meiner-neuen-normalitaet-a-0b130c35-fb69-4ee6-ac59-5f1281e25842#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/krise-als-chance-fuers-klima](https://www.spiegel.de/wissenschaft/mensch/krise-als-chance-fuers-klima-a-c2a1383f-1c16-48b7-a492-c169324e9177#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/kolumbien-schlag-gegen-gold-raubbau-der-drache-wird-gesprengt](https://www.spiegel.de/ausland/kolumbien-schlag-gegen-gold-raubbau-der-drache-wird-gesprengt-a-a2580fd3-f52e-40bb-a459-8db31ec8946e#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bejubelt-uebernahme-von-twitter-durch-elon-musk](https://www.spiegel.de/ausland/donald-trump-bejubelt-uebernahme-von-twitter-durch-elon-musk-a-bbb0b433-d6af-4b1e-8170-e1c03172df63#ref=rss)
-### reagiert
-
-* [https://www.spiegel.de/ausland/kolumbien-schlag-gegen-gold-raubbau-der-drache-wird-gesprengt](https://www.spiegel.de/ausland/kolumbien-schlag-gegen-gold-raubbau-der-drache-wird-gesprengt-a-a2580fd3-f52e-40bb-a459-8db31ec8946e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr](https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr-a-4712a545-14bc-432a-a6bb-014950819217#ref=rss)
-### paul
-
-* [https://www.spiegel.de/ausland/paul-pelosi-einbrecher-verletzt-ehemann-von-nancy-pelosi](https://www.spiegel.de/ausland/paul-pelosi-einbrecher-verletzt-ehemann-von-nancy-pelosi-a-cbf750a0-ac8b-47e8-9d91-494c0903d153#ref=rss)
-### einbrecher
-
-* [https://www.spiegel.de/ausland/paul-pelosi-einbrecher-verletzt-ehemann-von-nancy-pelosi](https://www.spiegel.de/ausland/paul-pelosi-einbrecher-verletzt-ehemann-von-nancy-pelosi-a-cbf750a0-ac8b-47e8-9d91-494c0903d153#ref=rss)
-### ehemann
-
-* [https://www.spiegel.de/ausland/paul-pelosi-einbrecher-verletzt-ehemann-von-nancy-pelosi](https://www.spiegel.de/ausland/paul-pelosi-einbrecher-verletzt-ehemann-von-nancy-pelosi-a-cbf750a0-ac8b-47e8-9d91-494c0903d153#ref=rss)
-### euro
-
-* [https://www.spiegel.de/sport/formel1/formel-1-red-bull-bekommt-geldstrafe-max-verstappen-darf-aber-seinen-titel-behalten](https://www.spiegel.de/sport/formel1/formel-1-red-bull-bekommt-geldstrafe-max-verstappen-darf-aber-seinen-titel-behalten-a-7693b83a-f867-4137-a0b7-a2cb546ea46a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr](https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr-a-4712a545-14bc-432a-a6bb-014950819217#ref=rss)
-### übernommen
-
-* [https://www.spiegel.de/politik/deutschland/jessica-rosenthal-juso-chefin-fordert-elon-musks-twitter-enteignung](https://www.spiegel.de/politik/deutschland/jessica-rosenthal-juso-chefin-fordert-elon-musks-twitter-enteignung-a-a9f7519f-c8d7-4026-99b3-f6cc2b8d4f36#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-bejubelt-uebernahme-von-twitter-durch-elon-musk](https://www.spiegel.de/ausland/donald-trump-bejubelt-uebernahme-von-twitter-durch-elon-musk-a-bbb0b433-d6af-4b1e-8170-e1c03172df63#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/politik/deutschland/jessica-rosenthal-juso-chefin-fordert-elon-musks-twitter-enteignung](https://www.spiegel.de/politik/deutschland/jessica-rosenthal-juso-chefin-fordert-elon-musks-twitter-enteignung-a-a9f7519f-c8d7-4026-99b3-f6cc2b8d4f36#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich-a-018d867f-9cc8-49ee-8957-504a0b184dde#ref=rss)
-### raus
-
-* [https://www.spiegel.de/kultur/tv/polizeiruf-110-hexen-brennen-mit-claudia-michelsen-schaedelschrauben-raus-halloween-naht](https://www.spiegel.de/kultur/tv/polizeiruf-110-hexen-brennen-mit-claudia-michelsen-schaedelschrauben-raus-halloween-naht-a-7255cac8-34a1-4127-ae32-3a0a0841fefa#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood](https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood-a-959e50bd-7052-4b37-a168-266c86749e5f#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/gesundheit/stiko-chef-thomas-mertens-haelt-corona-fuer-endemisch](https://www.spiegel.de/gesundheit/stiko-chef-thomas-mertens-haelt-corona-fuer-endemisch-a-5351c5db-a078-4386-8b77-439342448c14#ref=rss)
-### mertens
-
-* [https://www.spiegel.de/gesundheit/stiko-chef-thomas-mertens-haelt-corona-fuer-endemisch](https://www.spiegel.de/gesundheit/stiko-chef-thomas-mertens-haelt-corona-fuer-endemisch-a-5351c5db-a078-4386-8b77-439342448c14#ref=rss)
-### neue
-
-* [https://www.spiegel.de/gesundheit/stiko-chef-thomas-mertens-haelt-corona-fuer-endemisch](https://www.spiegel.de/gesundheit/stiko-chef-thomas-mertens-haelt-corona-fuer-endemisch-a-5351c5db-a078-4386-8b77-439342448c14#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni](https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni-a-c3de5688-f9ae-46d4-9053-73b3551e6eeb#ref=rss)
-### cherson
-
-* [https://www.spiegel.de/ausland/ukraine-und-die-schlacht-um-cherson-das-koennte-putins-stalingrad-werden](https://www.spiegel.de/ausland/ukraine-und-die-schlacht-um-cherson-das-koennte-putins-stalingrad-werden-a-b5731681-47e9-422e-ad73-40435a0c281e#ref=rss)
-### atomkrieg
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood](https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood-a-959e50bd-7052-4b37-a168-266c86749e5f#ref=rss)
-### margaret
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood](https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood-a-959e50bd-7052-4b37-a168-266c86749e5f#ref=rss)
-### atwood
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood](https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood-a-959e50bd-7052-4b37-a168-266c86749e5f#ref=rss)
-### welt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood](https://www.spiegel.de/politik/deutschland/news-des-tages-elon-musk-twitter-mastodon-wladimir-putin-atomkrieg-margaret-atwood-a-959e50bd-7052-4b37-a168-266c86749e5f#ref=rss)
-### feldmann
-
-* [https://www.spiegel.de/panorama/leute/peter-feldmann-entschuldigt-sich-nach-abtreibungsaussage-bei-seiner-tochter](https://www.spiegel.de/panorama/leute/peter-feldmann-entschuldigt-sich-nach-abtreibungsaussage-bei-seiner-tochter-a-f6919762-e2bf-4749-aa2a-9c05d8fc6d95#ref=rss)
-### zukunft
-
-* [https://www.spiegel.de/wissenschaft/mensch/krise-als-chance-fuers-klima](https://www.spiegel.de/wissenschaft/mensch/krise-als-chance-fuers-klima-a-c2a1383f-1c16-48b7-a492-c169324e9177#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich-a-018d867f-9cc8-49ee-8957-504a0b184dde#ref=rss)
-### gisele
-
-* [https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt](https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt-a-e20cf6d4-3f5e-4516-8f3d-597064baa220#ref=rss)
-### bündchen
-
-* [https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt](https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt-a-e20cf6d4-3f5e-4516-8f3d-597064baa220#ref=rss)
-### tom
-
-* [https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt](https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt-a-e20cf6d4-3f5e-4516-8f3d-597064baa220#ref=rss)
-### brady
-
-* [https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt](https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt-a-e20cf6d4-3f5e-4516-8f3d-597064baa220#ref=rss)
-### model
-
-* [https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt](https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt-a-e20cf6d4-3f5e-4516-8f3d-597064baa220#ref=rss)
-* [https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert](https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert-a-e801c4d9-4604-4fb1-8004-6db373d4ca79#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt](https://www.spiegel.de/panorama/leute/gisele-buendchen-und-tom-brady-geben-scheidung-bekannt-a-e20cf6d4-3f5e-4516-8f3d-597064baa220#ref=rss)
-* [https://www.spiegel.de/panorama/leute/steuerhinterziehung-alfons-schuhbeck-soll-sich-nach-urteil-mit-kochen-getroestet-haben](https://www.spiegel.de/panorama/leute/steuerhinterziehung-alfons-schuhbeck-soll-sich-nach-urteil-mit-kochen-getroestet-haben-a-f57b3b01-ed3f-4bd4-8727-0a845890a4c6#ref=rss)
+* [https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht](https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht-a-a32fe5ab-2d70-4622-93f1-c4ea8d04b7b8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
+* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
 ### markus
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-kritisiert-bundesregierung-endlos-peinliches-ampel-tiki-taka](https://www.spiegel.de/politik/deutschland/markus-soeder-kritisiert-bundesregierung-endlos-peinliches-ampel-tiki-taka-a-176ea515-dee1-4c08-be2f-929f21059ad7#ref=rss)
-### söder
+* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles](https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles-a-a216f44a-a744-4bec-a40c-8e11e30acae4#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-kritisiert-bundesregierung-endlos-peinliches-ampel-tiki-taka](https://www.spiegel.de/politik/deutschland/markus-soeder-kritisiert-bundesregierung-endlos-peinliches-ampel-tiki-taka-a-176ea515-dee1-4c08-be2f-929f21059ad7#ref=rss)
-### mobilmachung
+* [https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt](https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt-a-ab43ae10-057e-4a65-a87a-5d198a17dbfa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
+* [https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende](https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende-a-5db47d51-9cb0-411c-9b54-5940214bab74#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/ausland/russland-will-mobilmachung-fuer-ukraine-krieg-abgeschlossen-haben](https://www.spiegel.de/ausland/russland-will-mobilmachung-fuer-ukraine-krieg-abgeschlossen-haben-a-8ff3a1e7-33f9-4bc3-a0ec-28ee294089c1#ref=rss)
-### dietrich
+* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
+* [https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein](https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein-a-11352c9a-d724-43ae-a8a2-cc5015cb1a72#ref=rss)
+* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/oesterreich-was-nach-dem-tod-von-dietrich-mateschitz-aus-seinem-red-bull-imperium-wird-podcast](https://www.spiegel.de/ausland/oesterreich-was-nach-dem-tod-von-dietrich-mateschitz-aus-seinem-red-bull-imperium-wird-podcast-a-4ac5ddbe-0fde-4527-a5dc-d99af1b41010#ref=rss)
-### mateschitz
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast-a-f6d2bb80-1c69-4dba-a5aa-f1ce127d75d3#ref=rss)
+* [https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an](https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an-a-4e609d25-4f67-4ae2-8ca5-62fcfda874ff#ref=rss)
+### twitter
 
-* [https://www.spiegel.de/ausland/oesterreich-was-nach-dem-tod-von-dietrich-mateschitz-aus-seinem-red-bull-imperium-wird-podcast](https://www.spiegel.de/ausland/oesterreich-was-nach-dem-tod-von-dietrich-mateschitz-aus-seinem-red-bull-imperium-wird-podcast-a-4ac5ddbe-0fde-4527-a5dc-d99af1b41010#ref=rss)
-### sondern
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
+* [https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an](https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an-a-4e609d25-4f67-4ae2-8ca5-62fcfda874ff#ref=rss)
+### martin
 
-* [https://www.spiegel.de/ausland/oesterreich-was-nach-dem-tod-von-dietrich-mateschitz-aus-seinem-red-bull-imperium-wird-podcast](https://www.spiegel.de/ausland/oesterreich-was-nach-dem-tod-von-dietrich-mateschitz-aus-seinem-red-bull-imperium-wird-podcast-a-4ac5ddbe-0fde-4527-a5dc-d99af1b41010#ref=rss)
-* [https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert](https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert-a-e801c4d9-4604-4fb1-8004-6db373d4ca79#ref=rss)
-### regierungschefin
+* [https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl](https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl-a-784fb17d-f266-4418-82b1-26ba3a6bee8c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
+### huber
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni](https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni-a-c3de5688-f9ae-46d4-9053-73b3551e6eeb#ref=rss)
-### giorgia
+* [https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl](https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl-a-784fb17d-f266-4418-82b1-26ba3a6bee8c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni](https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni-a-c3de5688-f9ae-46d4-9053-73b3551e6eeb#ref=rss)
-### meloni
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten-a-e02d612b-b090-4e1c-a975-9e9d8b50126c#ref=rss)
+* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
+* [https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein](https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein-a-11352c9a-d724-43ae-a8a2-cc5015cb1a72#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni](https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni-a-c3de5688-f9ae-46d4-9053-73b3551e6eeb#ref=rss)
-### groß
+* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles](https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles-a-a216f44a-a744-4bec-a40c-8e11e30acae4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl](https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl-a-784fb17d-f266-4418-82b1-26ba3a6bee8c#ref=rss)
+### britische
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni](https://www.spiegel.de/politik/deutschland/olaf-scholz-telefonierte-mit-italiens-regierungschefin-giorgia-meloni-a-c3de5688-f9ae-46d4-9053-73b3551e6eeb#ref=rss)
-* [https://www.spiegel.de/politik/grundsatzrede-von-bundespraesident-frank-walter-steinmeier-gross-begonnen-klein-geendet](https://www.spiegel.de/politik/grundsatzrede-von-bundespraesident-frank-walter-steinmeier-gross-begonnen-klein-geendet-a-fe975a8d-0309-4213-a12c-782fda312421#ref=rss)
-### ned
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich-a-018d867f-9cc8-49ee-8957-504a0b184dde#ref=rss)
-### segal
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich](https://www.spiegel.de/wirtschaft/unternehmen/elon-musk-feuert-twitter-finanzchef-ned-segal-jetzt-aeussert-der-sich-a-018d867f-9cc8-49ee-8957-504a0b184dde#ref=rss)
-### thüringen
-
-* [https://www.spiegel.de/panorama/justiz/thueringen-hakenkreuz-schmierereien-an-kz-gedenkstaette-buchenwald](https://www.spiegel.de/panorama/justiz/thueringen-hakenkreuz-schmierereien-an-kz-gedenkstaette-buchenwald-a-8728da99-80a2-4f84-b447-c2c080442659#ref=rss)
-### kzgedenkstätte
-
-* [https://www.spiegel.de/panorama/justiz/thueringen-hakenkreuz-schmierereien-an-kz-gedenkstaette-buchenwald](https://www.spiegel.de/panorama/justiz/thueringen-hakenkreuz-schmierereien-an-kz-gedenkstaette-buchenwald-a-8728da99-80a2-4f84-b447-c2c080442659#ref=rss)
-### buchenwald
-
-* [https://www.spiegel.de/panorama/justiz/thueringen-hakenkreuz-schmierereien-an-kz-gedenkstaette-buchenwald](https://www.spiegel.de/panorama/justiz/thueringen-hakenkreuz-schmierereien-an-kz-gedenkstaette-buchenwald-a-8728da99-80a2-4f84-b447-c2c080442659#ref=rss)
-### sehr
-
-* [https://www.spiegel.de/ausland/donald-trump-bejubelt-uebernahme-von-twitter-durch-elon-musk](https://www.spiegel.de/ausland/donald-trump-bejubelt-uebernahme-von-twitter-durch-elon-musk-a-bbb0b433-d6af-4b1e-8170-e1c03172df63#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten](https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten-a-7adfe5ac-a064-41f9-92da-27841ddbffb6#ref=rss)
-### steuerhinterziehung
-
-* [https://www.spiegel.de/panorama/leute/steuerhinterziehung-alfons-schuhbeck-soll-sich-nach-urteil-mit-kochen-getroestet-haben](https://www.spiegel.de/panorama/leute/steuerhinterziehung-alfons-schuhbeck-soll-sich-nach-urteil-mit-kochen-getroestet-haben-a-f57b3b01-ed3f-4bd4-8727-0a845890a4c6#ref=rss)
-### alfons
-
-* [https://www.spiegel.de/panorama/leute/steuerhinterziehung-alfons-schuhbeck-soll-sich-nach-urteil-mit-kochen-getroestet-haben](https://www.spiegel.de/panorama/leute/steuerhinterziehung-alfons-schuhbeck-soll-sich-nach-urteil-mit-kochen-getroestet-haben-a-f57b3b01-ed3f-4bd4-8727-0a845890a4c6#ref=rss)
-### schuhbeck
-
-* [https://www.spiegel.de/panorama/leute/steuerhinterziehung-alfons-schuhbeck-soll-sich-nach-urteil-mit-kochen-getroestet-haben](https://www.spiegel.de/panorama/leute/steuerhinterziehung-alfons-schuhbeck-soll-sich-nach-urteil-mit-kochen-getroestet-haben-a-f57b3b01-ed3f-4bd4-8727-0a845890a4c6#ref=rss)
-### grundsatzrede
-
-* [https://www.spiegel.de/politik/grundsatzrede-von-bundespraesident-frank-walter-steinmeier-gross-begonnen-klein-geendet](https://www.spiegel.de/politik/grundsatzrede-von-bundespraesident-frank-walter-steinmeier-gross-begonnen-klein-geendet-a-fe975a8d-0309-4213-a12c-782fda312421#ref=rss)
-### frankwalter
-
-* [https://www.spiegel.de/politik/grundsatzrede-von-bundespraesident-frank-walter-steinmeier-gross-begonnen-klein-geendet](https://www.spiegel.de/politik/grundsatzrede-von-bundespraesident-frank-walter-steinmeier-gross-begonnen-klein-geendet-a-fe975a8d-0309-4213-a12c-782fda312421#ref=rss)
-### steinmeier
-
-* [https://www.spiegel.de/politik/grundsatzrede-von-bundespraesident-frank-walter-steinmeier-gross-begonnen-klein-geendet](https://www.spiegel.de/politik/grundsatzrede-von-bundespraesident-frank-walter-steinmeier-gross-begonnen-klein-geendet-a-fe975a8d-0309-4213-a12c-782fda312421#ref=rss)
-### dennoch
-
-* [https://www.spiegel.de/politik/grundsatzrede-von-bundespraesident-frank-walter-steinmeier-gross-begonnen-klein-geendet](https://www.spiegel.de/politik/grundsatzrede-von-bundespraesident-frank-walter-steinmeier-gross-begonnen-klein-geendet-a-fe975a8d-0309-4213-a12c-782fda312421#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr](https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr-a-4712a545-14bc-432a-a6bb-014950819217#ref=rss)
-### wdrjournalist
-
-* [https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr](https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr-a-4712a545-14bc-432a-a6bb-014950819217#ref=rss)
-### jürgen
-
-* [https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr](https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr-a-4712a545-14bc-432a-a6bb-014950819217#ref=rss)
-### döschner
-
-* [https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr](https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr-a-4712a545-14bc-432a-a6bb-014950819217#ref=rss)
+* [https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste](https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste-a-7ed610af-c1c7-4f62-a94d-cb26eea9515a#ref=rss)
+* [https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung](https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung-a-575cf10f-4650-40a1-b933-33546f9bdbb9#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr](https://www.spiegel.de/wirtschaft/wdr-journalist-juergen-doeschner-arbeitet-offenbar-fuenf-stunden-im-monat-fuer-100-000-euro-im-jahr-a-4712a545-14bc-432a-a6bb-014950819217#ref=rss)
-* [https://www.spiegel.de/ausland/zypern-ausschreitungen-in-ueberfuelltem-fluechtlingscamp](https://www.spiegel.de/ausland/zypern-ausschreitungen-in-ueberfuelltem-fluechtlingscamp-a-37e4f14c-fe7e-4628-a585-a60c54c07e7a#ref=rss)
-### schiffer
+* [https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste](https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste-a-7ed610af-c1c7-4f62-a94d-cb26eea9515a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt](https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt-a-ab43ae10-057e-4a65-a87a-5d198a17dbfa#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
+### andere
 
-* [https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert](https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert-a-e801c4d9-4604-4fb1-8004-6db373d4ca79#ref=rss)
-### mutter
+* [https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste](https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste-a-7ed610af-c1c7-4f62-a94d-cb26eea9515a#ref=rss)
+* [https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte](https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte-a-b7b16fc5-3b32-4b71-969d-6362f475ea1e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
+### csu
 
-* [https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert](https://www.spiegel.de/panorama/claudia-schiffer-ueber-ihre-familie-mich-als-mutter-zu-haben-ist-ein-zweischneidiges-schwert-a-e801c4d9-4604-4fb1-8004-6db373d4ca79#ref=rss)
-### haubitzen
+* [https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles](https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles-a-a216f44a-a744-4bec-a40c-8e11e30acae4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
+### mann
 
-* [https://www.spiegel.de/ausland/die-haubitzen-sind-von-1979-aber-sie-funktionieren](https://www.spiegel.de/ausland/die-haubitzen-sind-von-1979-aber-sie-funktionieren-a-6d8482fc-56b9-44ff-a078-aa22796a24ec#ref=rss)
-### zypern
+* [https://www.spiegel.de/panorama/kalifornien-unschuldiger-mann-nach-38-jahren-aus-us-gefaengnis-entlassen](https://www.spiegel.de/panorama/kalifornien-unschuldiger-mann-nach-38-jahren-aus-us-gefaengnis-entlassen-a-c3a249b6-bb48-4836-ae21-7897c1720665#ref=rss)
+* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/ausland/zypern-ausschreitungen-in-ueberfuelltem-fluechtlingscamp](https://www.spiegel.de/ausland/zypern-ausschreitungen-in-ueberfuelltem-fluechtlingscamp-a-37e4f14c-fe7e-4628-a585-a60c54c07e7a#ref=rss)
-### unter
+* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
+### putin
 
-* [https://www.spiegel.de/ausland/zypern-ausschreitungen-in-ueberfuelltem-fluechtlingscamp](https://www.spiegel.de/ausland/zypern-ausschreitungen-in-ueberfuelltem-fluechtlingscamp-a-37e4f14c-fe7e-4628-a585-a60c54c07e7a#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten](https://www.spiegel.de/netzwelt/netzpolitik/twitter-uebernahme-durch-elon-musk-bundesregierung-will-kurznachrichtendienst-sehr-genau-beobachten-a-7adfe5ac-a064-41f9-92da-27841ddbffb6#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast-a-f6d2bb80-1c69-4dba-a5aa-f1ce127d75d3#ref=rss)
+### wohnung
+
+* [https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte](https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte-a-b7b16fc5-3b32-4b71-969d-6362f475ea1e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
+* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
+* [https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende](https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende-a-5db47d51-9cb0-411c-9b54-5940214bab74#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
+* [https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an](https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an-a-4e609d25-4f67-4ae2-8ca5-62fcfda874ff#ref=rss)
+### oktober
+
+* [https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht](https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht-a-a32fe5ab-2d70-4622-93f1-c4ea8d04b7b8#ref=rss)
+### warm
+
+* [https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht](https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht-a-a32fe5ab-2d70-4622-93f1-c4ea8d04b7b8#ref=rss)
+### helfen
+
+* [https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht](https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht-a-a32fe5ab-2d70-4622-93f1-c4ea8d04b7b8#ref=rss)
+* [https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission](https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission-a-4ff24740-71e7-4e84-b092-55b92ebc53a0#ref=rss)
+### umweltbilanz
+
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten-a-e02d612b-b090-4e1c-a975-9e9d8b50126c#ref=rss)
+### oecd
+
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten-a-e02d612b-b090-4e1c-a975-9e9d8b50126c#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten-a-e02d612b-b090-4e1c-a975-9e9d8b50126c#ref=rss)
+* [https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung](https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung-a-575cf10f-4650-40a1-b933-33546f9bdbb9#ref=rss)
+### strom
+
+* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt](https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt-a-ab43ae10-057e-4a65-a87a-5d198a17dbfa#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
+* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
+### steilemann
+
+* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
+### laut
+
+* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen](https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen-a-fa1d7e33-3d06-453a-abc0-ee7786907dc7#ref=rss)
+### expertenkommission
+
+* [https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission](https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission-a-4ff24740-71e7-4e84-b092-55b92ebc53a0#ref=rss)
+### ehemalige
+
+* [https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission](https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission-a-4ff24740-71e7-4e84-b092-55b92ebc53a0#ref=rss)
+* [https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste](https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste-a-7ed610af-c1c7-4f62-a94d-cb26eea9515a#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste](https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste-a-7ed610af-c1c7-4f62-a94d-cb26eea9515a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
+### alles
+
+* [https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles](https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles-a-a216f44a-a744-4bec-a40c-8e11e30acae4#ref=rss)
+* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
+### sinne
+
+* [https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer](https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer-a-dd76933b-df0d-4cfe-b8cf-42833504ac2c#ref=rss)
+### wir
+
+* [https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer](https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer-a-dd76933b-df0d-4cfe-b8cf-42833504ac2c#ref=rss)
+### nutzen
+
+* [https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer](https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer-a-dd76933b-df0d-4cfe-b8cf-42833504ac2c#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer](https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer-a-dd76933b-df0d-4cfe-b8cf-42833504ac2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast-a-f6d2bb80-1c69-4dba-a5aa-f1ce127d75d3#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer](https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer-a-dd76933b-df0d-4cfe-b8cf-42833504ac2c#ref=rss)
+* [https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende](https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende-a-5db47d51-9cb0-411c-9b54-5940214bab74#ref=rss)
+### orlando
+
+* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
+### magic
+
+* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
+### franz
+
+* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
+### wagner
+
+* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
+### rookie
+
+* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
+### paolo
+
+* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
+### banchero
+
+* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
+### atomdrohungen
+
+* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
+### bauen
+
+* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/polen-laesst-erstes-akw-von-us-firma-bauen](https://www.spiegel.de/wirtschaft/unternehmen/polen-laesst-erstes-akw-von-us-firma-bauen-a-78c0a96f-4eb9-4717-a431-537a5a8ec3b0#ref=rss)
+### westen
+
+* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
+### abgeordneten
+
+* [https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung](https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung-a-575cf10f-4650-40a1-b933-33546f9bdbb9#ref=rss)
+### nordirland
+
+* [https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung](https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung-a-575cf10f-4650-40a1-b933-33546f9bdbb9#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung](https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung-a-575cf10f-4650-40a1-b933-33546f9bdbb9#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
+### erstes
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/polen-laesst-erstes-akw-von-us-firma-bauen](https://www.spiegel.de/wirtschaft/unternehmen/polen-laesst-erstes-akw-von-us-firma-bauen-a-78c0a96f-4eb9-4717-a431-537a5a8ec3b0#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-jobcenter-personalraete-fordern-verschiebung](https://www.spiegel.de/wirtschaft/soziales/buergergeld-jobcenter-personalraete-fordern-verschiebung-a-211de9db-5527-4518-b10e-df85c665993e#ref=rss)
+### verschiebung
+
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-jobcenter-personalraete-fordern-verschiebung](https://www.spiegel.de/wirtschaft/soziales/buergergeld-jobcenter-personalraete-fordern-verschiebung-a-211de9db-5527-4518-b10e-df85c665993e#ref=rss)
+### braucht
+
+* [https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte](https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte-a-b7b16fc5-3b32-4b71-969d-6362f475ea1e#ref=rss)
+* [https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt](https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt-a-375f903d-471c-4603-9a27-db51b9bca7c4#ref=rss)
+### ukrainenews
+
+* [https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen](https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen-a-fa1d7e33-3d06-453a-abc0-ee7786907dc7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
+### drohnenangriffe
+
+* [https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen](https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen-a-fa1d7e33-3d06-453a-abc0-ee7786907dc7#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen](https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen-a-fa1d7e33-3d06-453a-abc0-ee7786907dc7#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
+### news
+
+* [https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen](https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen-a-fa1d7e33-3d06-453a-abc0-ee7786907dc7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
+### neapel
+
+* [https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt](https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt-a-375f903d-471c-4603-9a27-db51b9bca7c4#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt](https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt-a-375f903d-471c-4603-9a27-db51b9bca7c4#ref=rss)
+* [https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende](https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende-a-5db47d51-9cb0-411c-9b54-5940214bab74#ref=rss)
+### wo
+
+* [https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt](https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt-a-375f903d-471c-4603-9a27-db51b9bca7c4#ref=rss)
+* [https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot](https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot-a-b04d8f4d-af69-4b73-8eb9-7e614aa882cb#ref=rss)
+### pelosi
+
+* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
+* [https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein](https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein-a-11352c9a-d724-43ae-a8a2-cc5015cb1a72#ref=rss)
+### peugeot
+
+* [https://www.spiegel.de/auto/peugeot-e-rifter-vanderer-im-test-kippen-klappen-schieben](https://www.spiegel.de/auto/peugeot-e-rifter-vanderer-im-test-kippen-klappen-schieben-a-9028aa07-3ae8-4491-b89e-a8d30d1c90ce#ref=rss)
+### erifter
+
+* [https://www.spiegel.de/auto/peugeot-e-rifter-vanderer-im-test-kippen-klappen-schieben](https://www.spiegel.de/auto/peugeot-e-rifter-vanderer-im-test-kippen-klappen-schieben-a-9028aa07-3ae8-4491-b89e-a8d30d1c90ce#ref=rss)
+### vanderer
+
+* [https://www.spiegel.de/auto/peugeot-e-rifter-vanderer-im-test-kippen-klappen-schieben](https://www.spiegel.de/auto/peugeot-e-rifter-vanderer-im-test-kippen-klappen-schieben-a-9028aa07-3ae8-4491-b89e-a8d30d1c90ce#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt](https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt-a-ab43ae10-057e-4a65-a87a-5d198a17dbfa#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
+### rentner
+
+* [https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt](https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt-a-ab43ae10-057e-4a65-a87a-5d198a17dbfa#ref=rss)
+### morgen
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
+### hilfe
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
+### obama
+
+* [https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein](https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein-a-11352c9a-d724-43ae-a8a2-cc5015cb1a72#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein](https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein-a-11352c9a-d724-43ae-a8a2-cc5015cb1a72#ref=rss)
+### waren
+
+* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast-a-f6d2bb80-1c69-4dba-a5aa-f1ce127d75d3#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
+* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
+### zurückkehren
+
+* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
+* [https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an](https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an-a-4e609d25-4f67-4ae2-8ca5-62fcfda874ff#ref=rss)
+### patient
+
+* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
+### coronawinter
+
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast-a-f6d2bb80-1c69-4dba-a5aa-f1ce127d75d3#ref=rss)
+### anne
+
+* [https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot](https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot-a-b04d8f4d-af69-4b73-8eb9-7e614aa882cb#ref=rss)
+### beste
+
+* [https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot](https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot-a-b04d8f4d-af69-4b73-8eb9-7e614aa882cb#ref=rss)
+### freundin
+
+* [https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot](https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot-a-b04d8f4d-af69-4b73-8eb9-7e614aa882cb#ref=rss)
+### hannah
+
+* [https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot](https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot-a-b04d8f4d-af69-4b73-8eb9-7e614aa882cb#ref=rss)
+### demonstrierende
+
+* [https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende](https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende-a-5db47d51-9cb0-411c-9b54-5940214bab74#ref=rss)
+### musk
+
+* [https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an](https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an-a-4e609d25-4f67-4ae2-8ca5-62fcfda874ff#ref=rss)
 
