@@ -4,131 +4,331 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### menschen
+
+* [https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand](https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand-a-d286c67e-722c-4015-b5f7-7b5b3d6f6624#ref=rss)
+* [https://www.spiegel.de/stil/kaffeekapseln-stuehle-und-ein-japanisches-cafe-unsere-stil-highlights-der-woche](https://www.spiegel.de/stil/kaffeekapseln-stuehle-und-ein-japanisches-cafe-unsere-stil-highlights-der-woche-a-7da74ae1-56f1-4134-b359-8a1afd49c6c9#ref=rss)
+* [https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt](https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt-a-c5490f24-8598-4600-b49d-3f99641f2b67#ref=rss)
+* [https://www.spiegel.de/panorama/bilder-der-woche-mode-inklusive-botschaft](https://www.spiegel.de/panorama/bilder-der-woche-mode-inklusive-botschaft-a-d5f8fa5f-3c24-4556-bce8-ec70ec38050a#ref=rss)
+* [https://www.spiegel.de/ausland/philippinen-tropensturm-nalgae-mindestens-45-tote](https://www.spiegel.de/ausland/philippinen-tropensturm-nalgae-mindestens-45-tote-a-1ac8d4cb-a326-4279-8293-890123001c72#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/panorama/bilder-der-woche-mode-inklusive-botschaft](https://www.spiegel.de/panorama/bilder-der-woche-mode-inklusive-botschaft-a-d5f8fa5f-3c24-4556-bce8-ec70ec38050a#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-stichwahl-zwischen-jair-bolsonaro-und-luiz-inacio-lula-da-silva](https://www.spiegel.de/ausland/brasilien-stichwahl-zwischen-jair-bolsonaro-und-luiz-inacio-lula-da-silva-a-70639329-2bc7-4eed-b104-9529d42fa42b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/brasilien-warum-neymar-jair-bolsonaro-im-wahlkampf-unterstuetzt](https://www.spiegel.de/sport/fussball/brasilien-warum-neymar-jair-bolsonaro-im-wahlkampf-unterstuetzt-a-3c140106-5a53-4125-b097-45c365337b27#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten-a-e02d612b-b090-4e1c-a975-9e9d8b50126c#ref=rss)
+### bolsonaro
+
+* [https://www.spiegel.de/ausland/brasilien-stichwahl-zwischen-jair-bolsonaro-und-luiz-inacio-lula-da-silva](https://www.spiegel.de/ausland/brasilien-stichwahl-zwischen-jair-bolsonaro-und-luiz-inacio-lula-da-silva-a-70639329-2bc7-4eed-b104-9529d42fa42b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/brasilien-warum-neymar-jair-bolsonaro-im-wahlkampf-unterstuetzt](https://www.spiegel.de/sport/fussball/brasilien-warum-neymar-jair-bolsonaro-im-wahlkampf-unterstuetzt-a-3c140106-5a53-4125-b097-45c365337b27#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten-a-e02d612b-b090-4e1c-a975-9e9d8b50126c#ref=rss)
 ### viele
 
+* [https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf](https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf-a-0400a8ec-18af-41df-83c3-8c1e310cc724#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand](https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand-a-d286c67e-722c-4015-b5f7-7b5b3d6f6624#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/pen-und-paper-rollenspiele-fuer-kinder-im-test-monster-aus-dem-weg-wuerfeln](https://www.spiegel.de/tests/brettspiele/pen-und-paper-rollenspiele-fuer-kinder-im-test-monster-aus-dem-weg-wuerfeln-a-cf459568-8a6b-42fb-9f77-89625a7227fd#ref=rss)
 * [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
-* [https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer](https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer-a-dd76933b-df0d-4cfe-b8cf-42833504ac2c#ref=rss)
-* [https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte](https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte-a-b7b16fc5-3b32-4b71-969d-6362f475ea1e#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt](https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt-a-ab43ae10-057e-4a65-a87a-5d198a17dbfa#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein](https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein-a-11352c9a-d724-43ae-a8a2-cc5015cb1a72#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-verliert-gegen-brighton-1-4](https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-verliert-gegen-brighton-1-4-a-2a836376-9c6e-4e55-8f99-4ebd310e55f6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-schlaegt-den-fsv-mainz-6-2](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-schlaegt-den-fsv-mainz-6-2-a-8ae514e1-e042-4f8c-bef6-0f9c576b5866#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/ausland/ukraine-kugelsichere-westen-fuer-kinder-etwas-schutz-wenn-die-bomben-fallen](https://www.spiegel.de/ausland/ukraine-kugelsichere-westen-fuer-kinder-etwas-schutz-wenn-die-bomben-fallen-a-33ab70be-a136-40b5-892c-006422a1f586#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/pen-und-paper-rollenspiele-fuer-kinder-im-test-monster-aus-dem-weg-wuerfeln](https://www.spiegel.de/tests/brettspiele/pen-und-paper-rollenspiele-fuer-kinder-im-test-monster-aus-dem-weg-wuerfeln-a-cf459568-8a6b-42fb-9f77-89625a7227fd#ref=rss)
 ### mehr
 
+* [https://www.spiegel.de/ausland/ukraine-kugelsichere-westen-fuer-kinder-etwas-schutz-wenn-die-bomben-fallen](https://www.spiegel.de/ausland/ukraine-kugelsichere-westen-fuer-kinder-etwas-schutz-wenn-die-bomben-fallen-a-33ab70be-a136-40b5-892c-006422a1f586#ref=rss)
+* [https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt](https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt-a-c5490f24-8598-4600-b49d-3f99641f2b67#ref=rss)
 * [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten-a-e02d612b-b090-4e1c-a975-9e9d8b50126c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-jobcenter-personalraete-fordern-verschiebung](https://www.spiegel.de/wirtschaft/soziales/buergergeld-jobcenter-personalraete-fordern-verschiebung-a-211de9db-5527-4518-b10e-df85c665993e#ref=rss)
-* [https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte](https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte-a-b7b16fc5-3b32-4b71-969d-6362f475ea1e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl](https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl-a-784fb17d-f266-4418-82b1-26ba3a6bee8c#ref=rss)
-### trump
+### unter
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast-a-f6d2bb80-1c69-4dba-a5aa-f1ce127d75d3#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an](https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an-a-4e609d25-4f67-4ae2-8ca5-62fcfda874ff#ref=rss)
-### ende
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-beendet-getreideabkommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-beendet-getreideabkommen-a-3a9baee5-cb14-4b1a-8be2-e3a2531d2ed0#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-beschaedigtes-kriegsschiff-nach-drohnenangriff](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-beschaedigtes-kriegsschiff-nach-drohnenangriff-a-a4aa213f-f7bd-4dba-b1dd-d19570e3c9e1#ref=rss)
+* [https://www.spiegel.de/kultur/tv/hbo-serie-the-white-lotus-kurz-vor-dem-vulkanausbruch](https://www.spiegel.de/kultur/tv/hbo-serie-the-white-lotus-kurz-vor-dem-vulkanausbruch-a-bcfe7a04-2494-4761-8cd1-b3485e74b468#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/pen-und-paper-rollenspiele-fuer-kinder-im-test-monster-aus-dem-weg-wuerfeln](https://www.spiegel.de/tests/brettspiele/pen-und-paper-rollenspiele-fuer-kinder-im-test-monster-aus-dem-weg-wuerfeln-a-cf459568-8a6b-42fb-9f77-89625a7227fd#ref=rss)
+### woche
 
-* [https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht](https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht-a-a32fe5ab-2d70-4622-93f1-c4ea8d04b7b8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
-* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
+* [https://www.spiegel.de/stil/kaffeekapseln-stuehle-und-ein-japanisches-cafe-unsere-stil-highlights-der-woche](https://www.spiegel.de/stil/kaffeekapseln-stuehle-und-ein-japanisches-cafe-unsere-stil-highlights-der-woche-a-7da74ae1-56f1-4134-b359-8a1afd49c6c9#ref=rss)
+* [https://www.spiegel.de/panorama/bilder-der-woche-mode-inklusive-botschaft](https://www.spiegel.de/panorama/bilder-der-woche-mode-inklusive-botschaft-a-d5f8fa5f-3c24-4556-bce8-ec70ec38050a#ref=rss)
 ### markus
 
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag-a-6383943a-8472-4728-8ee0-cd94b1a37b29#ref=rss)
 * [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles](https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles-a-a216f44a-a744-4bec-a40c-8e11e30acae4#ref=rss)
-### zwei
+### friedrich
 
-* [https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt](https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt-a-ab43ae10-057e-4a65-a87a-5d198a17dbfa#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
-* [https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende](https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende-a-5db47d51-9cb0-411c-9b54-5940214bab74#ref=rss)
-### sieht
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag-a-6383943a-8472-4728-8ee0-cd94b1a37b29#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf-a-f7a45979-edb8-4345-9b05-d8014c455a56#ref=rss)
+### merz
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein](https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein-a-11352c9a-d724-43ae-a8a2-cc5015cb1a72#ref=rss)
-* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
-### donald
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag-a-6383943a-8472-4728-8ee0-cd94b1a37b29#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf-a-f7a45979-edb8-4345-9b05-d8014c455a56#ref=rss)
+### jair
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast-a-f6d2bb80-1c69-4dba-a5aa-f1ce127d75d3#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an](https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an-a-4e609d25-4f67-4ae2-8ca5-62fcfda874ff#ref=rss)
-### twitter
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an](https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an-a-4e609d25-4f67-4ae2-8ca5-62fcfda874ff#ref=rss)
-### martin
-
-* [https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl](https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl-a-784fb17d-f266-4418-82b1-26ba3a6bee8c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
-### huber
-
-* [https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl](https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl-a-784fb17d-f266-4418-82b1-26ba3a6bee8c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
-### zeigt
-
+* [https://www.spiegel.de/ausland/brasilien-stichwahl-zwischen-jair-bolsonaro-und-luiz-inacio-lula-da-silva](https://www.spiegel.de/ausland/brasilien-stichwahl-zwischen-jair-bolsonaro-und-luiz-inacio-lula-da-silva-a-70639329-2bc7-4eed-b104-9529d42fa42b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/brasilien-warum-neymar-jair-bolsonaro-im-wahlkampf-unterstuetzt](https://www.spiegel.de/sport/fussball/brasilien-warum-neymar-jair-bolsonaro-im-wahlkampf-unterstuetzt-a-3c140106-5a53-4125-b097-45c365337b27#ref=rss)
 * [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten-a-e02d612b-b090-4e1c-a975-9e9d8b50126c#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein](https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein-a-11352c9a-d724-43ae-a8a2-cc5015cb1a72#ref=rss)
-### jahr
+### hummels
 
-* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles](https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles-a-a216f44a-a744-4bec-a40c-8e11e30acae4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl](https://www.spiegel.de/politik/deutschland/csu-generalsekretaer-martin-huber-nur-dritte-wahl-a-784fb17d-f266-4418-82b1-26ba3a6bee8c#ref=rss)
-### britische
+* [https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen](https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen-a-6ddd465b-84a6-4dac-ae95-c43eeee63266#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste](https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste-a-7ed610af-c1c7-4f62-a94d-cb26eea9515a#ref=rss)
-* [https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung](https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung-a-575cf10f-4650-40a1-b933-33546f9bdbb9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf-a-f7a45979-edb8-4345-9b05-d8014c455a56#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/europa-und-china-politik-von-bundeskanzler-olaf-scholz-ein-derart-arroganter-satz](https://www.spiegel.de/politik/deutschland/europa-und-china-politik-von-bundeskanzler-olaf-scholz-ein-derart-arroganter-satz-a-3c34873a-ac98-4d7a-9096-cd3f30a8daf1#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf-a-f7a45979-edb8-4345-9b05-d8014c455a56#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/europa-und-china-politik-von-bundeskanzler-olaf-scholz-ein-derart-arroganter-satz](https://www.spiegel.de/politik/deutschland/europa-und-china-politik-von-bundeskanzler-olaf-scholz-ein-derart-arroganter-satz-a-3c34873a-ac98-4d7a-9096-cd3f30a8daf1#ref=rss)
+### zug
+
+* [https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf](https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf-a-0400a8ec-18af-41df-83c3-8c1e310cc724#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/sport/formel1/red-bull-in-der-formel-1-die-budgetgrenze-funktioniert](https://www.spiegel.de/sport/formel1/red-bull-in-der-formel-1-die-budgetgrenze-funktioniert-a-8a63e3eb-94e6-4de7-a54f-6e2ed4090780#ref=rss)
+* [https://www.spiegel.de/geschichte/erinnerungsstuecke-es-erinnerte-meine-mutter-an-die-zeit-als-alles-noch-moeglich-schien](https://www.spiegel.de/geschichte/erinnerungsstuecke-es-erinnerte-meine-mutter-an-die-zeit-als-alles-noch-moeglich-schien-a-fdcc545f-7e04-4fa5-b19f-57be5bc147d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag-a-6383943a-8472-4728-8ee0-cd94b1a37b29#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste](https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste-a-7ed610af-c1c7-4f62-a94d-cb26eea9515a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt](https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt-a-ab43ae10-057e-4a65-a87a-5d198a17dbfa#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
-### andere
-
-* [https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste](https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste-a-7ed610af-c1c7-4f62-a94d-cb26eea9515a#ref=rss)
-* [https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte](https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte-a-b7b16fc5-3b32-4b71-969d-6362f475ea1e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
-### csu
-
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles](https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles-a-a216f44a-a744-4bec-a40c-8e11e30acae4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/kalifornien-unschuldiger-mann-nach-38-jahren-aus-us-gefaengnis-entlassen](https://www.spiegel.de/panorama/kalifornien-unschuldiger-mann-nach-38-jahren-aus-us-gefaengnis-entlassen-a-c3a249b6-bb48-4836-ae21-7897c1720665#ref=rss)
-* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
+* [https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand](https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand-a-d286c67e-722c-4015-b5f7-7b5b3d6f6624#ref=rss)
+* [https://www.spiegel.de/panorama/meppen-niedersachsen-21-jaehrige-soll-sich-stelle-als-aerztin-in-klinik-erschlichen-haben](https://www.spiegel.de/panorama/meppen-niedersachsen-21-jaehrige-soll-sich-stelle-als-aerztin-in-klinik-erschlichen-haben-a-54964b3a-d43c-458d-ab73-8d3a66b9c302#ref=rss)
+* [https://www.spiegel.de/ausland/royal-navy-grossbritannien-britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste](https://www.spiegel.de/ausland/royal-navy-grossbritannien-britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste-a-7ed610af-c1c7-4f62-a94d-cb26eea9515a#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast-a-f6d2bb80-1c69-4dba-a5aa-f1ce127d75d3#ref=rss)
-### wohnung
+* [https://www.spiegel.de/ausland/ukraine-kugelsichere-westen-fuer-kinder-etwas-schutz-wenn-die-bomben-fallen](https://www.spiegel.de/ausland/ukraine-kugelsichere-westen-fuer-kinder-etwas-schutz-wenn-die-bomben-fallen-a-33ab70be-a136-40b5-892c-006422a1f586#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-beendet-getreideabkommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-beendet-getreideabkommen-a-3a9baee5-cb14-4b1a-8be2-e3a2531d2ed0#ref=rss)
+### moskau
 
-* [https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte](https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte-a-b7b16fc5-3b32-4b71-969d-6362f475ea1e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
-* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
-### gewalt
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-beendet-getreideabkommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-beendet-getreideabkommen-a-3a9baee5-cb14-4b1a-8be2-e3a2531d2ed0#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-beschaedigtes-kriegsschiff-nach-drohnenangriff](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-beschaedigtes-kriegsschiff-nach-drohnenangriff-a-a4aa213f-f7bd-4dba-b1dd-d19570e3c9e1#ref=rss)
+### wir
 
-* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
-* [https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende](https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende-a-5db47d51-9cb0-411c-9b54-5940214bab74#ref=rss)
-### elon
+* [https://www.spiegel.de/stil/kaffeekapseln-stuehle-und-ein-japanisches-cafe-unsere-stil-highlights-der-woche](https://www.spiegel.de/stil/kaffeekapseln-stuehle-und-ein-japanisches-cafe-unsere-stil-highlights-der-woche-a-7da74ae1-56f1-4134-b359-8a1afd49c6c9#ref=rss)
+* [https://www.spiegel.de/tests/brettspiele/pen-und-paper-rollenspiele-fuer-kinder-im-test-monster-aus-dem-weg-wuerfeln](https://www.spiegel.de/tests/brettspiele/pen-und-paper-rollenspiele-fuer-kinder-im-test-monster-aus-dem-weg-wuerfeln-a-cf459568-8a6b-42fb-9f77-89625a7227fd#ref=rss)
+### kilometer
 
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an](https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an-a-4e609d25-4f67-4ae2-8ca5-62fcfda874ff#ref=rss)
+* [https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf](https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf-a-0400a8ec-18af-41df-83c3-8c1e310cc724#ref=rss)
+### rhätische
+
+* [https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf](https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf-a-0400a8ec-18af-41df-83c3-8c1e310cc724#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf](https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf-a-0400a8ec-18af-41df-83c3-8c1e310cc724#ref=rss)
+### weltrekord
+
+* [https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf](https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf-a-0400a8ec-18af-41df-83c3-8c1e310cc724#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf](https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf-a-0400a8ec-18af-41df-83c3-8c1e310cc724#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-verliert-gegen-brighton-1-4](https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-verliert-gegen-brighton-1-4-a-2a836376-9c6e-4e55-8f99-4ebd310e55f6#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf](https://www.spiegel.de/panorama/schweiz-2-kilometer-langer-zug-der-rhaetische-bahn-stellt-weltrekord-auf-a-0400a8ec-18af-41df-83c3-8c1e310cc724#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
+### chelsea
+
+* [https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-verliert-gegen-brighton-1-4](https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-verliert-gegen-brighton-1-4-a-2a836376-9c6e-4e55-8f99-4ebd310e55f6#ref=rss)
+### brighton
+
+* [https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-verliert-gegen-brighton-1-4](https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-verliert-gegen-brighton-1-4-a-2a836376-9c6e-4e55-8f99-4ebd310e55f6#ref=rss)
+### 14
+
+* [https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-verliert-gegen-brighton-1-4](https://www.spiegel.de/sport/fussball/premier-league-fc-chelsea-verliert-gegen-brighton-1-4-a-2a836376-9c6e-4e55-8f99-4ebd310e55f6#ref=rss)
+### red
+
+* [https://www.spiegel.de/sport/formel1/red-bull-in-der-formel-1-die-budgetgrenze-funktioniert](https://www.spiegel.de/sport/formel1/red-bull-in-der-formel-1-die-budgetgrenze-funktioniert-a-8a63e3eb-94e6-4de7-a54f-6e2ed4090780#ref=rss)
+### bull
+
+* [https://www.spiegel.de/sport/formel1/red-bull-in-der-formel-1-die-budgetgrenze-funktioniert](https://www.spiegel.de/sport/formel1/red-bull-in-der-formel-1-die-budgetgrenze-funktioniert-a-8a63e3eb-94e6-4de7-a54f-6e2ed4090780#ref=rss)
+### budgetgrenze
+
+* [https://www.spiegel.de/sport/formel1/red-bull-in-der-formel-1-die-budgetgrenze-funktioniert](https://www.spiegel.de/sport/formel1/red-bull-in-der-formel-1-die-budgetgrenze-funktioniert-a-8a63e3eb-94e6-4de7-a54f-6e2ed4090780#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/sport/formel1/red-bull-in-der-formel-1-die-budgetgrenze-funktioniert](https://www.spiegel.de/sport/formel1/red-bull-in-der-formel-1-die-budgetgrenze-funktioniert-a-8a63e3eb-94e6-4de7-a54f-6e2ed4090780#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-stichwahl-zwischen-jair-bolsonaro-und-luiz-inacio-lula-da-silva](https://www.spiegel.de/ausland/brasilien-stichwahl-zwischen-jair-bolsonaro-und-luiz-inacio-lula-da-silva-a-70639329-2bc7-4eed-b104-9529d42fa42b#ref=rss)
+### dutzende
+
+* [https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand](https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand-a-d286c67e-722c-4015-b5f7-7b5b3d6f6624#ref=rss)
+* [https://www.spiegel.de/ausland/philippinen-tropensturm-nalgae-mindestens-45-tote](https://www.spiegel.de/ausland/philippinen-tropensturm-nalgae-mindestens-45-tote-a-1ac8d4cb-a326-4279-8293-890123001c72#ref=rss)
+### seoul
+
+* [https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand](https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand-a-d286c67e-722c-4015-b5f7-7b5b3d6f6624#ref=rss)
+### hauptstadt
+
+* [https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand](https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand-a-d286c67e-722c-4015-b5f7-7b5b3d6f6624#ref=rss)
+* [https://www.spiegel.de/ausland/philippinen-tropensturm-nalgae-mindestens-45-tote](https://www.spiegel.de/ausland/philippinen-tropensturm-nalgae-mindestens-45-tote-a-1ac8d4cb-a326-4279-8293-890123001c72#ref=rss)
+### gekommen
+
+* [https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand](https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand-a-d286c67e-722c-4015-b5f7-7b5b3d6f6624#ref=rss)
+* [https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen](https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen-a-6ddd465b-84a6-4dac-ae95-c43eeee63266#ref=rss)
+### enge
+
+* [https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand](https://www.spiegel.de/ausland/suedkorea-dutzende-menschen-erleiden-herzstillstand-a-d286c67e-722c-4015-b5f7-7b5b3d6f6624#ref=rss)
+* [https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission](https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission-a-4ff24740-71e7-4e84-b092-55b92ebc53a0#ref=rss)
+### russlandukrainekrieg
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-beendet-getreideabkommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-beendet-getreideabkommen-a-3a9baee5-cb14-4b1a-8be2-e3a2531d2ed0#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-beschaedigtes-kriegsschiff-nach-drohnenangriff](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-beschaedigtes-kriegsschiff-nach-drohnenangriff-a-a4aa213f-f7bd-4dba-b1dd-d19570e3c9e1#ref=rss)
+### beendet
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-beendet-getreideabkommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-beendet-getreideabkommen-a-3a9baee5-cb14-4b1a-8be2-e3a2531d2ed0#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-beendet-getreideabkommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-beendet-getreideabkommen-a-3a9baee5-cb14-4b1a-8be2-e3a2531d2ed0#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-beschaedigtes-kriegsschiff-nach-drohnenangriff](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-meldet-beschaedigtes-kriegsschiff-nach-drohnenangriff-a-a4aa213f-f7bd-4dba-b1dd-d19570e3c9e1#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-schlaegt-den-fsv-mainz-6-2](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-schlaegt-den-fsv-mainz-6-2-a-8ae514e1-e042-4f8c-bef6-0f9c576b5866#ref=rss)
+### fsv
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-schlaegt-den-fsv-mainz-6-2](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-schlaegt-den-fsv-mainz-6-2-a-8ae514e1-e042-4f8c-bef6-0f9c576b5866#ref=rss)
+### mainz
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-schlaegt-den-fsv-mainz-6-2](https://www.spiegel.de/sport/fussball/fussball-bundesliga-fc-bayern-muenchen-schlaegt-den-fsv-mainz-6-2-a-8ae514e1-e042-4f8c-bef6-0f9c576b5866#ref=rss)
+### große
+
+* [https://www.spiegel.de/kultur/tv/hbo-serie-the-white-lotus-kurz-vor-dem-vulkanausbruch](https://www.spiegel.de/kultur/tv/hbo-serie-the-white-lotus-kurz-vor-dem-vulkanausbruch-a-bcfe7a04-2494-4761-8cd1-b3485e74b468#ref=rss)
+### kuba
+
+* [https://www.spiegel.de/ausland/pakistaner-aus-guantanamo-entlassen-nach-18-jahren](https://www.spiegel.de/ausland/pakistaner-aus-guantanamo-entlassen-nach-18-jahren-a-24be6a59-8924-496e-81b7-b17633306402#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/ausland/pakistaner-aus-guantanamo-entlassen-nach-18-jahren](https://www.spiegel.de/ausland/pakistaner-aus-guantanamo-entlassen-nach-18-jahren-a-24be6a59-8924-496e-81b7-b17633306402#ref=rss)
+* [https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt](https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt-a-c5490f24-8598-4600-b49d-3f99641f2b67#ref=rss)
+### kam
+
+* [https://www.spiegel.de/ausland/pakistaner-aus-guantanamo-entlassen-nach-18-jahren](https://www.spiegel.de/ausland/pakistaner-aus-guantanamo-entlassen-nach-18-jahren-a-24be6a59-8924-496e-81b7-b17633306402#ref=rss)
+* [https://www.spiegel.de/sport/fussball/brasilien-warum-neymar-jair-bolsonaro-im-wahlkampf-unterstuetzt](https://www.spiegel.de/sport/fussball/brasilien-warum-neymar-jair-bolsonaro-im-wahlkampf-unterstuetzt-a-3c140106-5a53-4125-b097-45c365337b27#ref=rss)
+### kaffeekapseln
+
+* [https://www.spiegel.de/stil/kaffeekapseln-stuehle-und-ein-japanisches-cafe-unsere-stil-highlights-der-woche](https://www.spiegel.de/stil/kaffeekapseln-stuehle-und-ein-japanisches-cafe-unsere-stil-highlights-der-woche-a-7da74ae1-56f1-4134-b359-8a1afd49c6c9#ref=rss)
+### stühle
+
+* [https://www.spiegel.de/stil/kaffeekapseln-stuehle-und-ein-japanisches-cafe-unsere-stil-highlights-der-woche](https://www.spiegel.de/stil/kaffeekapseln-stuehle-und-ein-japanisches-cafe-unsere-stil-highlights-der-woche-a-7da74ae1-56f1-4134-b359-8a1afd49c6c9#ref=rss)
+### besonderen
+
+* [https://www.spiegel.de/stil/kaffeekapseln-stuehle-und-ein-japanisches-cafe-unsere-stil-highlights-der-woche](https://www.spiegel.de/stil/kaffeekapseln-stuehle-und-ein-japanisches-cafe-unsere-stil-highlights-der-woche-a-7da74ae1-56f1-4134-b359-8a1afd49c6c9#ref=rss)
+* [https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen](https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen-a-6ddd465b-84a6-4dac-ae95-c43eeee63266#ref=rss)
+### filmemacher
+
+* [https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt](https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt-a-c5490f24-8598-4600-b49d-3f99641f2b67#ref=rss)
+### vaske
+
+* [https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt](https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt-a-c5490f24-8598-4600-b49d-3f99641f2b67#ref=rss)
+### tausend
+
+* [https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt](https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt-a-c5490f24-8598-4600-b49d-3f99641f2b67#ref=rss)
+### gefragt
+
+* [https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt](https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt-a-c5490f24-8598-4600-b49d-3f99641f2b67#ref=rss)
+### gute
+
+* [https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt](https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt-a-c5490f24-8598-4600-b49d-3f99641f2b67#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag-a-6383943a-8472-4728-8ee0-cd94b1a37b29#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt](https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt-a-c5490f24-8598-4600-b49d-3f99641f2b67#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt](https://www.spiegel.de/karriere/kreativitaet-lernen-filmemacher-herrmann-vaske-hat-mehr-als-tausend-promis-nach-ihrer-inspiration-gefragt-a-c5490f24-8598-4600-b49d-3f99641f2b67#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
+### frau
+
+* [https://www.spiegel.de/geschichte/erinnerungsstuecke-es-erinnerte-meine-mutter-an-die-zeit-als-alles-noch-moeglich-schien](https://www.spiegel.de/geschichte/erinnerungsstuecke-es-erinnerte-meine-mutter-an-die-zeit-als-alles-noch-moeglich-schien-a-fdcc545f-7e04-4fa5-b19f-57be5bc147d7#ref=rss)
+* [https://www.spiegel.de/panorama/meppen-niedersachsen-21-jaehrige-soll-sich-stelle-als-aerztin-in-klinik-erschlichen-haben](https://www.spiegel.de/panorama/meppen-niedersachsen-21-jaehrige-soll-sich-stelle-als-aerztin-in-klinik-erschlichen-haben-a-54964b3a-d43c-458d-ab73-8d3a66b9c302#ref=rss)
+### nie
+
+* [https://www.spiegel.de/geschichte/erinnerungsstuecke-es-erinnerte-meine-mutter-an-die-zeit-als-alles-noch-moeglich-schien](https://www.spiegel.de/geschichte/erinnerungsstuecke-es-erinnerte-meine-mutter-an-die-zeit-als-alles-noch-moeglich-schien-a-fdcc545f-7e04-4fa5-b19f-57be5bc147d7#ref=rss)
+* [https://www.spiegel.de/panorama/freibad-wetter-ende-oktober-das-badewasser-so-warm-wie-die-nacht](https://www.spiegel.de/panorama/freibad-wetter-ende-oktober-das-badewasser-so-warm-wie-die-nacht-a-a32fe5ab-2d70-4622-93f1-c4ea8d04b7b8#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag-a-6383943a-8472-4728-8ee0-cd94b1a37b29#ref=rss)
+### csuparteitag
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag-a-6383943a-8472-4728-8ee0-cd94b1a37b29#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf-a-f7a45979-edb8-4345-9b05-d8014c455a56#ref=rss)
+### parteitag
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag](https://www.spiegel.de/politik/deutschland/friedrich-merz-und-markus-soeder-beim-csu-parteitag-a-6383943a-8472-4728-8ee0-cd94b1a37b29#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf-a-f7a45979-edb8-4345-9b05-d8014c455a56#ref=rss)
+### stichwahl
+
+* [https://www.spiegel.de/ausland/brasilien-stichwahl-zwischen-jair-bolsonaro-und-luiz-inacio-lula-da-silva](https://www.spiegel.de/ausland/brasilien-stichwahl-zwischen-jair-bolsonaro-und-luiz-inacio-lula-da-silva-a-70639329-2bc7-4eed-b104-9529d42fa42b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/brasilien-warum-neymar-jair-bolsonaro-im-wahlkampf-unterstuetzt](https://www.spiegel.de/sport/fussball/brasilien-warum-neymar-jair-bolsonaro-im-wahlkampf-unterstuetzt-a-3c140106-5a53-4125-b097-45c365337b27#ref=rss)
+### lula
+
+* [https://www.spiegel.de/ausland/brasilien-stichwahl-zwischen-jair-bolsonaro-und-luiz-inacio-lula-da-silva](https://www.spiegel.de/ausland/brasilien-stichwahl-zwischen-jair-bolsonaro-und-luiz-inacio-lula-da-silva-a-70639329-2bc7-4eed-b104-9529d42fa42b#ref=rss)
+### neymar
+
+* [https://www.spiegel.de/sport/fussball/brasilien-warum-neymar-jair-bolsonaro-im-wahlkampf-unterstuetzt](https://www.spiegel.de/sport/fussball/brasilien-warum-neymar-jair-bolsonaro-im-wahlkampf-unterstuetzt-a-3c140106-5a53-4125-b097-45c365337b27#ref=rss)
+### cathy
+
+* [https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen](https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen-a-6ddd465b-84a6-4dac-ae95-c43eeee63266#ref=rss)
+### trennung
+
+* [https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen](https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen-a-6ddd465b-84a6-4dac-ae95-c43eeee63266#ref=rss)
+### mats
+
+* [https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen](https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen-a-6ddd465b-84a6-4dac-ae95-c43eeee63266#ref=rss)
+### zeitpunkt
+
+* [https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen](https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen-a-6ddd465b-84a6-4dac-ae95-c43eeee63266#ref=rss)
+### ließ
+
+* [https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen](https://www.spiegel.de/panorama/leute/cathy-hummels-bestaetigt-trennung-von-mats-hummels-zeitpunkt-ist-gekommen-a-6ddd465b-84a6-4dac-ae95-c43eeee63266#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ig-metall-startet-warnstreiks-in-der-metall-und-elektroindustrie-tausende-beschaeftigte-legen-die-arbeit-nieder](https://www.spiegel.de/wirtschaft/ig-metall-startet-warnstreiks-in-der-metall-und-elektroindustrie-tausende-beschaeftigte-legen-die-arbeit-nieder-a-5cf991ee-7f64-4ca2-993b-b8fa1ff13df2#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/panorama/meppen-niedersachsen-21-jaehrige-soll-sich-stelle-als-aerztin-in-klinik-erschlichen-haben](https://www.spiegel.de/panorama/meppen-niedersachsen-21-jaehrige-soll-sich-stelle-als-aerztin-in-klinik-erschlichen-haben-a-54964b3a-d43c-458d-ab73-8d3a66b9c302#ref=rss)
+### 21jährige
+
+* [https://www.spiegel.de/panorama/meppen-niedersachsen-21-jaehrige-soll-sich-stelle-als-aerztin-in-klinik-erschlichen-haben](https://www.spiegel.de/panorama/meppen-niedersachsen-21-jaehrige-soll-sich-stelle-als-aerztin-in-klinik-erschlichen-haben-a-54964b3a-d43c-458d-ab73-8d3a66b9c302#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/meppen-niedersachsen-21-jaehrige-soll-sich-stelle-als-aerztin-in-klinik-erschlichen-haben](https://www.spiegel.de/panorama/meppen-niedersachsen-21-jaehrige-soll-sich-stelle-als-aerztin-in-klinik-erschlichen-haben-a-54964b3a-d43c-458d-ab73-8d3a66b9c302#ref=rss)
+* [https://www.spiegel.de/ausland/philippinen-tropensturm-nalgae-mindestens-45-tote](https://www.spiegel.de/ausland/philippinen-tropensturm-nalgae-mindestens-45-tote-a-1ac8d4cb-a326-4279-8293-890123001c72#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf-a-f7a45979-edb8-4345-9b05-d8014c455a56#ref=rss)
+### expräsident
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf-a-f7a45979-edb8-4345-9b05-d8014c455a56#ref=rss)
+### hu
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf-a-f7a45979-edb8-4345-9b05-d8014c455a56#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf](https://www.spiegel.de/politik/deutschland/friedrich-merz-fordert-olaf-scholz-zu-treffen-mit-chinas-ex-praesident-hu-auf-a-f7a45979-edb8-4345-9b05-d8014c455a56#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/europa-und-china-politik-von-bundeskanzler-olaf-scholz-ein-derart-arroganter-satz](https://www.spiegel.de/politik/deutschland/europa-und-china-politik-von-bundeskanzler-olaf-scholz-ein-derart-arroganter-satz-a-3c34873a-ac98-4d7a-9096-cd3f30a8daf1#ref=rss)
+### warnstreiks
+
+* [https://www.spiegel.de/wirtschaft/ig-metall-startet-warnstreiks-in-der-metall-und-elektroindustrie-tausende-beschaeftigte-legen-die-arbeit-nieder](https://www.spiegel.de/wirtschaft/ig-metall-startet-warnstreiks-in-der-metall-und-elektroindustrie-tausende-beschaeftigte-legen-die-arbeit-nieder-a-5cf991ee-7f64-4ca2-993b-b8fa1ff13df2#ref=rss)
+### metall
+
+* [https://www.spiegel.de/wirtschaft/ig-metall-startet-warnstreiks-in-der-metall-und-elektroindustrie-tausende-beschaeftigte-legen-die-arbeit-nieder](https://www.spiegel.de/wirtschaft/ig-metall-startet-warnstreiks-in-der-metall-und-elektroindustrie-tausende-beschaeftigte-legen-die-arbeit-nieder-a-5cf991ee-7f64-4ca2-993b-b8fa1ff13df2#ref=rss)
+### nacht
+
+* [https://www.spiegel.de/wirtschaft/ig-metall-startet-warnstreiks-in-der-metall-und-elektroindustrie-tausende-beschaeftigte-legen-die-arbeit-nieder](https://www.spiegel.de/wirtschaft/ig-metall-startet-warnstreiks-in-der-metall-und-elektroindustrie-tausende-beschaeftigte-legen-die-arbeit-nieder-a-5cf991ee-7f64-4ca2-993b-b8fa1ff13df2#ref=rss)
+* [https://www.spiegel.de/panorama/freibad-wetter-ende-oktober-das-badewasser-so-warm-wie-die-nacht](https://www.spiegel.de/panorama/freibad-wetter-ende-oktober-das-badewasser-so-warm-wie-die-nacht-a-a32fe5ab-2d70-4622-93f1-c4ea8d04b7b8#ref=rss)
+### jerry
+
+* [https://www.spiegel.de/kultur/jerry-lee-lewis-ist-tot-die-feuerwalze](https://www.spiegel.de/kultur/jerry-lee-lewis-ist-tot-die-feuerwalze-a-14bcb8d1-8c73-4ecb-9221-1aa9325b119d#ref=rss)
+### lee
+
+* [https://www.spiegel.de/kultur/jerry-lee-lewis-ist-tot-die-feuerwalze](https://www.spiegel.de/kultur/jerry-lee-lewis-ist-tot-die-feuerwalze-a-14bcb8d1-8c73-4ecb-9221-1aa9325b119d#ref=rss)
+### lewis
+
+* [https://www.spiegel.de/kultur/jerry-lee-lewis-ist-tot-die-feuerwalze](https://www.spiegel.de/kultur/jerry-lee-lewis-ist-tot-die-feuerwalze-a-14bcb8d1-8c73-4ecb-9221-1aa9325b119d#ref=rss)
 ### oktober
 
-* [https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht](https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht-a-a32fe5ab-2d70-4622-93f1-c4ea8d04b7b8#ref=rss)
+* [https://www.spiegel.de/panorama/freibad-wetter-ende-oktober-das-badewasser-so-warm-wie-die-nacht](https://www.spiegel.de/panorama/freibad-wetter-ende-oktober-das-badewasser-so-warm-wie-die-nacht-a-a32fe5ab-2d70-4622-93f1-c4ea8d04b7b8#ref=rss)
 ### warm
 
-* [https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht](https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht-a-a32fe5ab-2d70-4622-93f1-c4ea8d04b7b8#ref=rss)
+* [https://www.spiegel.de/panorama/freibad-wetter-ende-oktober-das-badewasser-so-warm-wie-die-nacht](https://www.spiegel.de/panorama/freibad-wetter-ende-oktober-das-badewasser-so-warm-wie-die-nacht-a-a32fe5ab-2d70-4622-93f1-c4ea8d04b7b8#ref=rss)
 ### helfen
 
-* [https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht](https://www.spiegel.de/panorama/ab-ins-freibad-ende-oktober-das-badewasser-so-warm-wie-die-nacht-a-a32fe5ab-2d70-4622-93f1-c4ea8d04b7b8#ref=rss)
+* [https://www.spiegel.de/panorama/freibad-wetter-ende-oktober-das-badewasser-so-warm-wie-die-nacht](https://www.spiegel.de/panorama/freibad-wetter-ende-oktober-das-badewasser-so-warm-wie-die-nacht-a-a32fe5ab-2d70-4622-93f1-c4ea8d04b7b8#ref=rss)
 * [https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission](https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission-a-4ff24740-71e7-4e84-b092-55b92ebc53a0#ref=rss)
 ### umweltbilanz
 
@@ -136,220 +336,14 @@ tags: __no_header__
 ### oecd
 
 * [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten-a-e02d612b-b090-4e1c-a975-9e9d8b50126c#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-manipuliert-die-umweltbilanz-um-in-die-oecd-einzutreten-a-e02d612b-b090-4e1c-a975-9e9d8b50126c#ref=rss)
-* [https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung](https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung-a-575cf10f-4650-40a1-b933-33546f9bdbb9#ref=rss)
-### strom
-
-* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt](https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt-a-ab43ae10-057e-4a65-a87a-5d198a17dbfa#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
-* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
 ### steilemann
 
 * [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann](https://www.spiegel.de/wirtschaft/gas-und-strom-energiepreisbremse-soll-schnell-kommen-sagt-chemie-praesident-markus-steilemann-a-2a522bd4-58a4-4c47-9578-5d8f9dda7230#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen](https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen-a-fa1d7e33-3d06-453a-abc0-ee7786907dc7#ref=rss)
 ### expertenkommission
 
 * [https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission](https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission-a-4ff24740-71e7-4e84-b092-55b92ebc53a0#ref=rss)
 ### ehemalige
 
 * [https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission](https://www.spiegel.de/sport/handball/handballverband-in-der-enge-und-nennt-erste-namen-fuer-expertenkommission-a-4ff24740-71e7-4e84-b092-55b92ebc53a0#ref=rss)
-* [https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste](https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste-a-7ed610af-c1c7-4f62-a94d-cb26eea9515a#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste](https://www.spiegel.de/ausland/britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste-a-7ed610af-c1c7-4f62-a94d-cb26eea9515a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
-### alles
-
-* [https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles](https://www.spiegel.de/politik/deutschland/csu-parteitag-markus-soeder-einer-fuer-alles-a-a216f44a-a744-4bec-a40c-8e11e30acae4#ref=rss)
-* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
-### sinne
-
-* [https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer](https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer-a-dd76933b-df0d-4cfe-b8cf-42833504ac2c#ref=rss)
-### wir
-
-* [https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer](https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer-a-dd76933b-df0d-4cfe-b8cf-42833504ac2c#ref=rss)
-### nutzen
-
-* [https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer](https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer-a-dd76933b-df0d-4cfe-b8cf-42833504ac2c#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer](https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer-a-dd76933b-df0d-4cfe-b8cf-42833504ac2c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast-a-f6d2bb80-1c69-4dba-a5aa-f1ce127d75d3#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer](https://www.spiegel.de/gesundheit/sinne-wie-wir-sie-wiederentdecken-und-besser-nutzen-podcast-mit-jan-und-ragnhild-schweitzer-a-dd76933b-df0d-4cfe-b8cf-42833504ac2c#ref=rss)
-* [https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende](https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende-a-5db47d51-9cb0-411c-9b54-5940214bab74#ref=rss)
-### orlando
-
-* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
-### magic
-
-* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
-### franz
-
-* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
-### wagner
-
-* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
-### rookie
-
-* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
-### paolo
-
-* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
-### banchero
-
-* [https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg](https://www.spiegel.de/sport/basketball/nba-orlando-magic-dank-franz-wagner-und-rookie-paolo-banchero-mit-erstem-saisonsieg-a-d9f946b3-1628-400b-bd38-02847d289db2#ref=rss)
-### atomdrohungen
-
-* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
-### bauen
-
-* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/polen-laesst-erstes-akw-von-us-firma-bauen](https://www.spiegel.de/wirtschaft/unternehmen/polen-laesst-erstes-akw-von-us-firma-bauen-a-78c0a96f-4eb9-4717-a431-537a5a8ec3b0#ref=rss)
-### westen
-
-* [https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht](https://www.spiegel.de/ausland/wladimir-putin-und-seine-atom-drohungen-100-sekunden-bis-mitternacht-a-ffaa09c0-fb2a-49f2-baef-d0ca8f3bf7c5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
-### abgeordneten
-
-* [https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung](https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung-a-575cf10f-4650-40a1-b933-33546f9bdbb9#ref=rss)
-### nordirland
-
-* [https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung](https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung-a-575cf10f-4650-40a1-b933-33546f9bdbb9#ref=rss)
-### setzt
-
-* [https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung](https://www.spiegel.de/ausland/london-droht-abgeordneten-in-nordirland-mit-gehaltskuerzung-a-575cf10f-4650-40a1-b933-33546f9bdbb9#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
-### erstes
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/polen-laesst-erstes-akw-von-us-firma-bauen](https://www.spiegel.de/wirtschaft/unternehmen/polen-laesst-erstes-akw-von-us-firma-bauen-a-78c0a96f-4eb9-4717-a431-537a5a8ec3b0#ref=rss)
-### fordern
-
-* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-jobcenter-personalraete-fordern-verschiebung](https://www.spiegel.de/wirtschaft/soziales/buergergeld-jobcenter-personalraete-fordern-verschiebung-a-211de9db-5527-4518-b10e-df85c665993e#ref=rss)
-### verschiebung
-
-* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-jobcenter-personalraete-fordern-verschiebung](https://www.spiegel.de/wirtschaft/soziales/buergergeld-jobcenter-personalraete-fordern-verschiebung-a-211de9db-5527-4518-b10e-df85c665993e#ref=rss)
-### braucht
-
-* [https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte](https://www.spiegel.de/start/wintersemester-wie-die-wohnungsnot-in-deutsche-unistaedte-zurueckkehrte-a-b7b16fc5-3b32-4b71-969d-6362f475ea1e#ref=rss)
-* [https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt](https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt-a-375f903d-471c-4603-9a27-db51b9bca7c4#ref=rss)
-### ukrainenews
-
-* [https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen](https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen-a-fa1d7e33-3d06-453a-abc0-ee7786907dc7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
-### drohnenangriffe
-
-* [https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen](https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen-a-fa1d7e33-3d06-453a-abc0-ee7786907dc7#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen](https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen-a-fa1d7e33-3d06-453a-abc0-ee7786907dc7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
-### news
-
-* [https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen](https://www.spiegel.de/ausland/ukraine-news-iran-will-mit-kiew-ueber-drohnen-vorwuerfe-sprechen-a-fa1d7e33-3d06-453a-abc0-ee7786907dc7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung](https://www.spiegel.de/politik/deutschland/news-ukraine-russland-wladimir-putin-csu-martin-huber-zeitumstellung-a-810e1185-1e90-47b9-9fe5-f5b024f92cf9#ref=rss)
-### neapel
-
-* [https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt](https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt-a-375f903d-471c-4603-9a27-db51b9bca7c4#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt](https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt-a-375f903d-471c-4603-9a27-db51b9bca7c4#ref=rss)
-* [https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende](https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende-a-5db47d51-9cb0-411c-9b54-5940214bab74#ref=rss)
-### wo
-
-* [https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt](https://www.spiegel.de/reise/europa/neapel-das-sind-die-besten-pizzerien-der-stadt-a-375f903d-471c-4603-9a27-db51b9bca7c4#ref=rss)
-* [https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot](https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot-a-b04d8f4d-af69-4b73-8eb9-7e614aa882cb#ref=rss)
-### pelosi
-
-* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
-### verletzt
-
-* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
-### demokraten
-
-* [https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt](https://www.spiegel.de/ausland/nancy-pelosi-attentat-auf-ehemann-paul-pelosi-wenn-politische-gewalt-ins-haus-kommt-a-b16be57c-3b1f-45f5-bedc-81f9682e023c#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein](https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein-a-11352c9a-d724-43ae-a8a2-cc5015cb1a72#ref=rss)
-### peugeot
-
-* [https://www.spiegel.de/auto/peugeot-e-rifter-vanderer-im-test-kippen-klappen-schieben](https://www.spiegel.de/auto/peugeot-e-rifter-vanderer-im-test-kippen-klappen-schieben-a-9028aa07-3ae8-4491-b89e-a8d30d1c90ce#ref=rss)
-### erifter
-
-* [https://www.spiegel.de/auto/peugeot-e-rifter-vanderer-im-test-kippen-klappen-schieben](https://www.spiegel.de/auto/peugeot-e-rifter-vanderer-im-test-kippen-klappen-schieben-a-9028aa07-3ae8-4491-b89e-a8d30d1c90ce#ref=rss)
-### vanderer
-
-* [https://www.spiegel.de/auto/peugeot-e-rifter-vanderer-im-test-kippen-klappen-schieben](https://www.spiegel.de/auto/peugeot-e-rifter-vanderer-im-test-kippen-klappen-schieben-a-9028aa07-3ae8-4491-b89e-a8d30d1c90ce#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt](https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt-a-ab43ae10-057e-4a65-a87a-5d198a17dbfa#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
-### rentner
-
-* [https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt](https://www.spiegel.de/wirtschaft/energiepauschale-zwei-millionen-rentner-kassieren-doppelt-a-ab43ae10-057e-4a65-a87a-5d198a17dbfa#ref=rss)
-### morgen
-
-* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe](https://www.spiegel.de/ausland/ukraine-news-am-morgen-selenskyj-sieht-kein-ende-der-mobilmachung-die-usa-schicken-275-millionen-dollar-hilfe-a-2e426d14-6999-4f89-85af-1eab196448fd#ref=rss)
-### obama
-
-* [https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein](https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein-a-11352c9a-d724-43ae-a8a2-cc5015cb1a72#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein](https://www.spiegel.de/ausland/barack-obama-greift-in-den-midterms-wahlkampf-um-den-us-kongress-ein-a-11352c9a-d724-43ae-a8a2-cc5015cb1a72#ref=rss)
-### waren
-
-* [https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter](https://www.spiegel.de/panorama/justiz/wiesbaden-streit-in-asylunterkunft-ein-toter-a-4f7428c2-830c-4dcd-9fbe-c0c0d1a48551#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast-a-f6d2bb80-1c69-4dba-a5aa-f1ce127d75d3#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
-* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
-### zurückkehren
-
-* [https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter](https://www.spiegel.de/wirtschaft/donald-trump-will-nicht-zurueck-auf-twitter-a-5f12b4c9-d0fa-40d7-8f09-862e40848124#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an](https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an-a-4e609d25-4f67-4ae2-8ca5-62fcfda874ff#ref=rss)
-### patient
-
-* [https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht](https://www.spiegel.de/gesundheit/ein-raetselhafter-patient-wenn-die-eigene-wohnung-krank-macht-a-f0e4dd77-6233-4b6a-9cb9-51a21a4b15a7#ref=rss)
-### coronawinter
-
-* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-russlands-drohnenkrieg-trump-und-die-midterms-coronawinter-podcast-a-f6d2bb80-1c69-4dba-a5aa-f1ce127d75d3#ref=rss)
-### anne
-
-* [https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot](https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot-a-b04d8f4d-af69-4b73-8eb9-7e614aa882cb#ref=rss)
-### beste
-
-* [https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot](https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot-a-b04d8f4d-af69-4b73-8eb9-7e614aa882cb#ref=rss)
-### freundin
-
-* [https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot](https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot-a-b04d8f4d-af69-4b73-8eb9-7e614aa882cb#ref=rss)
-### hannah
-
-* [https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot](https://www.spiegel.de/panorama/anne-franks-beste-freundin-hannah-pick-goslar-ist-tot-a-b04d8f4d-af69-4b73-8eb9-7e614aa882cb#ref=rss)
-### demonstrierende
-
-* [https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende](https://www.spiegel.de/ausland/sicherheitskraefte-in-iran-schiessen-erneut-auf-demonstrierende-a-5db47d51-9cb0-411c-9b54-5940214bab74#ref=rss)
-### musk
-
-* [https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an](https://www.spiegel.de/netzwelt/elon-musk-kuendigt-rat-zur-moderation-von-inhalten-auf-twitter-an-a-4e609d25-4f67-4ae2-8ca5-62fcfda874ff#ref=rss)
+* [https://www.spiegel.de/ausland/royal-navy-grossbritannien-britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste](https://www.spiegel.de/ausland/royal-navy-grossbritannien-britische-u-boot-offiziere-fuehrten-offenbar-vergewaltigungsliste-a-7ed610af-c1c7-4f62-a94d-cb26eea9515a#ref=rss)
 
