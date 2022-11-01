@@ -4,323 +4,298 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### china
+### nancy
 
-* [https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse](https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse-a-9b4a5bb3-705f-475d-b5ec-62c25015ee2d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen-a-417b6f32-654f-4cf7-9cb9-1a5ea9206cf5#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/blitz-corona-lockdown-in-china-besucher-in-disneylang-shanghai-festgehalten](https://www.spiegel.de/panorama/gesellschaft/blitz-corona-lockdown-in-china-besucher-in-disneylang-shanghai-festgehalten-a-742deb1a-0fab-4514-807e-9de8658c0a7b#ref=rss)
-### fast
+* [https://www.spiegel.de/ausland/nancy-pelosi-us-republikanerin-macht-witze-ueber-angriff-auf-paul-pelosi](https://www.spiegel.de/ausland/nancy-pelosi-us-republikanerin-macht-witze-ueber-angriff-auf-paul-pelosi-a-34bb02b4-9b6e-466b-bd25-1e63e093adba#ref=rss)
+* [https://www.spiegel.de/ausland/menschenrechte-und-politik-in-katar-nancy-faesers-zu-spitzer-zeigefinger-kommentar](https://www.spiegel.de/ausland/menschenrechte-und-politik-in-katar-nancy-faesers-zu-spitzer-zeigefinger-kommentar-a-f5e90100-da2a-4df1-a26f-ff086455078b#ref=rss)
+* [https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission](https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission-a-f9d71b52-f4ea-40a9-854c-85d1f23ff048#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben](https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben-a-ef22cac7-50cc-4e72-bcad-b8acba5173b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/lady-of-the-dunes-fbi-identifiziert-mordopfer-48-jahre-nach-ihrer-entdeckung](https://www.spiegel.de/panorama/justiz/lady-of-the-dunes-fbi-identifiziert-mordopfer-48-jahre-nach-ihrer-entdeckung-a-f09141ec-bed4-4d5a-864f-98d4660e52a8#ref=rss)
-### roth
+* [https://www.spiegel.de/panorama/berlin-radfahrerin-hat-klimaprotest-die-rettung-einer-frau-verzoegert](https://www.spiegel.de/panorama/berlin-radfahrerin-hat-klimaprotest-die-rettung-einer-frau-verzoegert-a-e5f6e4f9-d3f1-4f4a-8125-e510ae27b96e#ref=rss)
+* [https://www.spiegel.de/auto/jeder-sechste-berliner-soll-anspruch-auf-9-euro-sozialticket-haben](https://www.spiegel.de/auto/jeder-sechste-berliner-soll-anspruch-auf-9-euro-sozialticket-haben-a-d6e47287-84eb-405b-8934-fa3991c77ec7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-uhren-raeuber-hatte-sich-als-frau-verkleidet-fahndung](https://www.spiegel.de/panorama/justiz/berlin-uhren-raeuber-hatte-sich-als-frau-verkleidet-fahndung-a-af9a0536-d1b9-4868-aa42-bb5e1940b0e0#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
-### gestorben
+* [https://www.spiegel.de/panorama/berlin-radfahrerin-hat-klimaprotest-die-rettung-einer-frau-verzoegert](https://www.spiegel.de/panorama/berlin-radfahrerin-hat-klimaprotest-die-rettung-einer-frau-verzoegert-a-e5f6e4f9-d3f1-4f4a-8125-e510ae27b96e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stadtallendorf-in-hessen-28-jaehrige-erstochen-ex-partner-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/stadtallendorf-in-hessen-28-jaehrige-erstochen-ex-partner-unter-mordverdacht-a-30875c59-cf42-4dcc-8e9e-b5492715b59d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/seoul-nach-dem-massengedraenge-angehoerige-koennen-sachen-von-opfern-abholen](https://www.spiegel.de/panorama/justiz/seoul-nach-dem-massengedraenge-angehoerige-koennen-sachen-von-opfern-abholen-a-092adef0-ae24-406b-aef9-7ca7f5cba4ee#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-uhren-raeuber-hatte-sich-als-frau-verkleidet-fahndung](https://www.spiegel.de/panorama/justiz/berlin-uhren-raeuber-hatte-sich-als-frau-verkleidet-fahndung-a-af9a0536-d1b9-4868-aa42-bb5e1940b0e0#ref=rss)
+### league
 
-* [https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben](https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben-a-ef22cac7-50cc-4e72-bcad-b8acba5173b6#ref=rss)
-* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
-### indien
+* [https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen](https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen-a-7ff58ead-e468-47f4-be5e-474000be75bd#ref=rss)
+### katar
 
-* [https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs](https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs-a-9fc164a9-39cd-47f1-8780-a460f356be02#ref=rss)
-* [https://www.spiegel.de/ausland/indien-im-kampf-gegen-die-plastikmassen-was-bringt-das-verbot-von-einwegverpackungen](https://www.spiegel.de/ausland/indien-im-kampf-gegen-die-plastikmassen-was-bringt-das-verbot-von-einwegverpackungen-a-54b42317-f1e9-4184-9377-f616af0d6f1e#ref=rss)
-### ich
+* [https://www.spiegel.de/ausland/menschenrechte-und-politik-in-katar-nancy-faesers-zu-spitzer-zeigefinger-kommentar](https://www.spiegel.de/ausland/menschenrechte-und-politik-in-katar-nancy-faesers-zu-spitzer-zeigefinger-kommentar-a-f5e90100-da2a-4df1-a26f-ff086455078b#ref=rss)
+* [https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission](https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission-a-f9d71b52-f4ea-40a9-854c-85d1f23ff048#ref=rss)
+### pelosi
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke](https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke-a-5e7a64a8-e1e7-43b2-8ffd-caec92b743e6#ref=rss)
-* [https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald](https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald-a-ef1957bb-9467-41eb-8d66-9adf4f9c1766#ref=rss)
-### mich
+* [https://www.spiegel.de/ausland/nancy-pelosi-us-republikanerin-macht-witze-ueber-angriff-auf-paul-pelosi](https://www.spiegel.de/ausland/nancy-pelosi-us-republikanerin-macht-witze-ueber-angriff-auf-paul-pelosi-a-34bb02b4-9b6e-466b-bd25-1e63e093adba#ref=rss)
+### ehemann
 
-* [https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald](https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald-a-ef1957bb-9467-41eb-8d66-9adf4f9c1766#ref=rss)
-### thriller
-
-* [https://www.spiegel.de/kultur/kino/thriller-rhino-rezension-ueberall-herrschte-gewalt-und-korruption](https://www.spiegel.de/kultur/kino/thriller-rhino-rezension-ueberall-herrschte-gewalt-und-korruption-a-c23a9f50-2ffc-4c3c-b6cf-c73709405a89#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/kultur/kino/thriller-rhino-rezension-ueberall-herrschte-gewalt-und-korruption](https://www.spiegel.de/kultur/kino/thriller-rhino-rezension-ueberall-herrschte-gewalt-und-korruption-a-c23a9f50-2ffc-4c3c-b6cf-c73709405a89#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder-a-e9f47b5e-3bb7-4474-97e2-c064a98e80e4#ref=rss)
-### twitter
-
-* [https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor](https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor-a-3850ef28-54ef-46ac-a675-20e19c6e66c2#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor](https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor-a-3850ef28-54ef-46ac-a675-20e19c6e66c2#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor](https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor-a-3850ef28-54ef-46ac-a675-20e19c6e66c2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke](https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke-a-5e7a64a8-e1e7-43b2-8ffd-caec92b743e6#ref=rss)
-### aktuell
-
-* [https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor](https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor-a-3850ef28-54ef-46ac-a675-20e19c6e66c2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs](https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs-a-9fc164a9-39cd-47f1-8780-a460f356be02#ref=rss)
-### news
-
-* [https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor](https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor-a-3850ef28-54ef-46ac-a675-20e19c6e66c2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder-a-e9f47b5e-3bb7-4474-97e2-c064a98e80e4#ref=rss)
-### astronomen
-
-* [https://www.spiegel.de/wissenschaft/asteroid-2022-ap7-astronomen-entdecken-planeten-killer-nahe-der-erde](https://www.spiegel.de/wissenschaft/asteroid-2022-ap7-astronomen-entdecken-planeten-killer-nahe-der-erde-a-e696e443-da6f-4ceb-b686-7f088f9a4c13#ref=rss)
-### erde
-
-* [https://www.spiegel.de/wissenschaft/asteroid-2022-ap7-astronomen-entdecken-planeten-killer-nahe-der-erde](https://www.spiegel.de/wissenschaft/asteroid-2022-ap7-astronomen-entdecken-planeten-killer-nahe-der-erde-a-e696e443-da6f-4ceb-b686-7f088f9a4c13#ref=rss)
-### allein
-
-* [https://www.spiegel.de/wissenschaft/asteroid-2022-ap7-astronomen-entdecken-planeten-killer-nahe-der-erde](https://www.spiegel.de/wissenschaft/asteroid-2022-ap7-astronomen-entdecken-planeten-killer-nahe-der-erde-a-e696e443-da6f-4ceb-b686-7f088f9a4c13#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/panorama/bildung/die-nachbeben-des-neuen-schocks-bildungsnewsletter](https://www.spiegel.de/panorama/bildung/die-nachbeben-des-neuen-schocks-bildungsnewsletter-a-1b84a06a-2005-426f-8805-cbc7909be56a#ref=rss)
-* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
-### führt
-
-* [https://www.spiegel.de/panorama/bildung/die-nachbeben-des-neuen-schocks-bildungsnewsletter](https://www.spiegel.de/panorama/bildung/die-nachbeben-des-neuen-schocks-bildungsnewsletter-a-1b84a06a-2005-426f-8805-cbc7909be56a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse](https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse-a-9b4a5bb3-705f-475d-b5ec-62c25015ee2d#ref=rss)
-### ende
-
-* [https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse](https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse-a-9b4a5bb3-705f-475d-b5ec-62c25015ee2d#ref=rss)
-### reagieren
-
-* [https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse](https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse-a-9b4a5bb3-705f-475d-b5ec-62c25015ee2d#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/betrueger-nehmen-verifizierte-twitter-konten-ins-visier](https://www.spiegel.de/netzwelt/web/betrueger-nehmen-verifizierte-twitter-konten-ins-visier-a-a110c2b7-b02c-40e6-a9b9-712d7aa2cf23#ref=rss)
-### nehmen
-
-* [https://www.spiegel.de/netzwelt/web/betrueger-nehmen-verifizierte-twitter-konten-ins-visier](https://www.spiegel.de/netzwelt/web/betrueger-nehmen-verifizierte-twitter-konten-ins-visier-a-a110c2b7-b02c-40e6-a9b9-712d7aa2cf23#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin](https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin-a-2f91aca8-2b43-4c50-941c-94e1bcc161b5#ref=rss)
-### promis
-
-* [https://www.spiegel.de/netzwelt/web/betrueger-nehmen-verifizierte-twitter-konten-ins-visier](https://www.spiegel.de/netzwelt/web/betrueger-nehmen-verifizierte-twitter-konten-ins-visier-a-a110c2b7-b02c-40e6-a9b9-712d7aa2cf23#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin](https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin-a-2f91aca8-2b43-4c50-941c-94e1bcc161b5#ref=rss)
-### brasilien
-
-* [https://www.spiegel.de/ausland/brasilien-nach-der-wahl-brennende-autoreifen-fuer-bolsonaro](https://www.spiegel.de/ausland/brasilien-nach-der-wahl-brennende-autoreifen-fuer-bolsonaro-a-a8984a78-ac43-45bf-93ca-977e6b90f437#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte-a-fa23a8f5-0059-4b41-bf1c-92e8acdd48a5#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/ausland/brasilien-nach-der-wahl-brennende-autoreifen-fuer-bolsonaro](https://www.spiegel.de/ausland/brasilien-nach-der-wahl-brennende-autoreifen-fuer-bolsonaro-a-a8984a78-ac43-45bf-93ca-977e6b90f437#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte-a-fa23a8f5-0059-4b41-bf1c-92e8acdd48a5#ref=rss)
-### brennende
-
-* [https://www.spiegel.de/ausland/brasilien-nach-der-wahl-brennende-autoreifen-fuer-bolsonaro](https://www.spiegel.de/ausland/brasilien-nach-der-wahl-brennende-autoreifen-fuer-bolsonaro-a-a8984a78-ac43-45bf-93ca-977e6b90f437#ref=rss)
-### matthew
-
-* [https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben](https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben-a-ef22cac7-50cc-4e72-bcad-b8acba5173b6#ref=rss)
-### perry
-
-* [https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben](https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben-a-ef22cac7-50cc-4e72-bcad-b8acba5173b6#ref=rss)
-### drogensucht
-
-* [https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben](https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben-a-ef22cac7-50cc-4e72-bcad-b8acba5173b6#ref=rss)
-### legt
-
-* [https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben](https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben-a-ef22cac7-50cc-4e72-bcad-b8acba5173b6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich](https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich-a-176ad053-5994-4086-9e0a-7cdc11762a0d#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs](https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs-a-9fc164a9-39cd-47f1-8780-a460f356be02#ref=rss)
-### tuchel
-
-* [https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs](https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs-a-9fc164a9-39cd-47f1-8780-a460f356be02#ref=rss)
-### klubs
-
-* [https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs](https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs-a-9fc164a9-39cd-47f1-8780-a460f356be02#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs](https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs-a-9fc164a9-39cd-47f1-8780-a460f356be02#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-jede-zwoelfte-industriefirma-will-produktion-verlagern](https://www.spiegel.de/wirtschaft/soziales/energiekrise-jede-zwoelfte-industriefirma-will-produktion-verlagern-a-6a1d507b-fc77-4fe1-b0e1-d9029737d3d9#ref=rss)
-### lufthansa
-
-* [https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn-a-bade5270-f28c-48b5-8baf-9c07d48f3563#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn-a-bade5270-f28c-48b5-8baf-9c07d48f3563#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn-a-bade5270-f28c-48b5-8baf-9c07d48f3563#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
-### hoch
-
-* [https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn-a-bade5270-f28c-48b5-8baf-9c07d48f3563#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes](https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes-a-2db73b3b-7b86-436a-9f55-5b47d0a7f632#ref=rss)
-### studierende
-
-* [https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes](https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes-a-2db73b3b-7b86-436a-9f55-5b47d0a7f632#ref=rss)
-### lieblingsmemes
-
-* [https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes](https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes-a-2db73b3b-7b86-436a-9f55-5b47d0a7f632#ref=rss)
-### neue
-
-* [https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes](https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes-a-2db73b3b-7b86-436a-9f55-5b47d0a7f632#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen-a-417b6f32-654f-4cf7-9cb9-1a5ea9206cf5#ref=rss)
+* [https://www.spiegel.de/ausland/nancy-pelosi-us-republikanerin-macht-witze-ueber-angriff-auf-paul-pelosi](https://www.spiegel.de/ausland/nancy-pelosi-us-republikanerin-macht-witze-ueber-angriff-auf-paul-pelosi-a-34bb02b4-9b6e-466b-bd25-1e63e093adba#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stadtallendorf-in-hessen-28-jaehrige-erstochen-ex-partner-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/stadtallendorf-in-hessen-28-jaehrige-erstochen-ex-partner-unter-mordverdacht-a-30875c59-cf42-4dcc-8e9e-b5492715b59d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-harry-musste-bei-fragen-zu-britischem-einbuergerungstest-passen-ich-habe-keine-ahnung](https://www.spiegel.de/panorama/leute/prinz-harry-musste-bei-fragen-zu-britischem-einbuergerungstest-passen-ich-habe-keine-ahnung-a-6b460d19-e194-439b-96b6-7d3a1f3f61d0#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes](https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes-a-2db73b3b-7b86-436a-9f55-5b47d0a7f632#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
-### usa
+* [https://www.spiegel.de/wirtschaft/kapitalmarkt-reform-der-eu-bald-kein-geld-in-der-schweiz-mehr](https://www.spiegel.de/wirtschaft/kapitalmarkt-reform-der-eu-bald-kein-geld-in-der-schweiz-mehr-a-4f5b938a-020e-4ca2-b4a1-3015e932c2be#ref=rss)
+* [https://www.spiegel.de/ausland/russland-trifft-zivile-ziele-in-der-ukraine-sie-wollen-uns-alle-ausloeschen](https://www.spiegel.de/ausland/russland-trifft-zivile-ziele-in-der-ukraine-sie-wollen-uns-alle-ausloeschen-a-7629399d-0fd0-4b98-9eab-99440689c0f5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/seoul-nach-dem-massengedraenge-angehoerige-koennen-sachen-von-opfern-abholen](https://www.spiegel.de/panorama/justiz/seoul-nach-dem-massengedraenge-angehoerige-koennen-sachen-von-opfern-abholen-a-092adef0-ae24-406b-aef9-7ca7f5cba4ee#ref=rss)
+### ziele
 
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
-### inflation
+* [https://www.spiegel.de/ausland/saudi-arabien-und-usa-im-golf-angeblich-in-hoechster-alarmbereitschaft](https://www.spiegel.de/ausland/saudi-arabien-und-usa-im-golf-angeblich-in-hoechster-alarmbereitschaft-a-67c3c975-ce62-4586-89ef-c7a0ff3c5069#ref=rss)
+* [https://www.spiegel.de/ausland/russland-trifft-zivile-ziele-in-der-ukraine-sie-wollen-uns-alle-ausloeschen](https://www.spiegel.de/ausland/russland-trifft-zivile-ziele-in-der-ukraine-sie-wollen-uns-alle-ausloeschen-a-7629399d-0fd0-4b98-9eab-99440689c0f5#ref=rss)
+### radfahrerin
 
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
-### joe
+* [https://www.spiegel.de/panorama/berlin-radfahrerin-hat-klimaprotest-die-rettung-einer-frau-verzoegert](https://www.spiegel.de/panorama/berlin-radfahrerin-hat-klimaprotest-die-rettung-einer-frau-verzoegert-a-e5f6e4f9-d3f1-4f4a-8125-e510ae27b96e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation-a-e4f8cdba-ad98-4393-97d8-c10772924f94#ref=rss)
+### frau
 
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
-### biden
+* [https://www.spiegel.de/panorama/berlin-radfahrerin-hat-klimaprotest-die-rettung-einer-frau-verzoegert](https://www.spiegel.de/panorama/berlin-radfahrerin-hat-klimaprotest-die-rettung-einer-frau-verzoegert-a-e5f6e4f9-d3f1-4f4a-8125-e510ae27b96e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-uhren-raeuber-hatte-sich-als-frau-verkleidet-fahndung](https://www.spiegel.de/panorama/justiz/berlin-uhren-raeuber-hatte-sich-als-frau-verkleidet-fahndung-a-af9a0536-d1b9-4868-aa42-bb5e1940b0e0#ref=rss)
+### lage
 
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
-### menschen
+* [https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen](https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen-a-7ff58ead-e468-47f4-be5e-474000be75bd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation-a-e4f8cdba-ad98-4393-97d8-c10772924f94#ref=rss)
+* [https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission](https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission-a-f9d71b52-f4ea-40a9-854c-85d1f23ff048#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder](https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder-a-81b20a2b-50aa-4df0-9159-777ad28ca9ea#ref=rss)
-### gideon
-
-* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
-### rachman
-
-* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
-### autokraten
-
-* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
-* [https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald](https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald-a-ef1957bb-9467-41eb-8d66-9adf4f9c1766#ref=rss)
-### welt
-
-* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte-a-fa23a8f5-0059-4b41-bf1c-92e8acdd48a5#ref=rss)
-### cormac
-
-* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
-### schauspieler
-
-* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
-### tim
-
-* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte-a-fa23a8f5-0059-4b41-bf1c-92e8acdd48a5#ref=rss)
-### heidi
-
-* [https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin](https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin-a-2f91aca8-2b43-4c50-941c-94e1bcc161b5#ref=rss)
-### klum
-
-* [https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin](https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin-a-2f91aca8-2b43-4c50-941c-94e1bcc161b5#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin](https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin-a-2f91aca8-2b43-4c50-941c-94e1bcc161b5#ref=rss)
-* [https://www.spiegel.de/kultur/musik/komponist-olafur-arnalds-den-widerspruechen-trotzen](https://www.spiegel.de/kultur/musik/komponist-olafur-arnalds-den-widerspruechen-trotzen-a-7d8e9dd5-0002-0001-0000-000207163444#ref=rss)
-### verena
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke](https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke-a-5e7a64a8-e1e7-43b2-8ffd-caec92b743e6#ref=rss)
-### bahlsen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke](https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke-a-5e7a64a8-e1e7-43b2-8ffd-caec92b743e6#ref=rss)
-### ólafur
-
-* [https://www.spiegel.de/kultur/musik/komponist-olafur-arnalds-den-widerspruechen-trotzen](https://www.spiegel.de/kultur/musik/komponist-olafur-arnalds-den-widerspruechen-trotzen-a-7d8e9dd5-0002-0001-0000-000207163444#ref=rss)
-### arnalds
-
-* [https://www.spiegel.de/kultur/musik/komponist-olafur-arnalds-den-widerspruechen-trotzen](https://www.spiegel.de/kultur/musik/komponist-olafur-arnalds-den-widerspruechen-trotzen-a-7d8e9dd5-0002-0001-0000-000207163444#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte-a-fa23a8f5-0059-4b41-bf1c-92e8acdd48a5#ref=rss)
-* [https://www.spiegel.de/ausland/indien-im-kampf-gegen-die-plastikmassen-was-bringt-das-verbot-von-einwegverpackungen](https://www.spiegel.de/ausland/indien-im-kampf-gegen-die-plastikmassen-was-bringt-das-verbot-von-einwegverpackungen-a-54b42317-f1e9-4184-9377-f616af0d6f1e#ref=rss)
-### reise
-
-* [https://www.spiegel.de/reise/europa/luxusurlaub-in-castelfalfi-beim-fruehstueck-schwebt-nebel-zwischen-den-huegeln-der-toskana](https://www.spiegel.de/reise/europa/luxusurlaub-in-castelfalfi-beim-fruehstueck-schwebt-nebel-zwischen-den-huegeln-der-toskana-a-d7a14f94-c9ee-4804-aa97-a9e6260619d4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich](https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich-a-176ad053-5994-4086-9e0a-7cdc11762a0d#ref=rss)
-### du
-
-* [https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald](https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald-a-ef1957bb-9467-41eb-8d66-9adf4f9c1766#ref=rss)
-### juli
-
-* [https://www.spiegel.de/ausland/indien-im-kampf-gegen-die-plastikmassen-was-bringt-das-verbot-von-einwegverpackungen](https://www.spiegel.de/ausland/indien-im-kampf-gegen-die-plastikmassen-was-bringt-das-verbot-von-einwegverpackungen-a-54b42317-f1e9-4184-9377-f616af0d6f1e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen-a-417b6f32-654f-4cf7-9cb9-1a5ea9206cf5#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen-a-417b6f32-654f-4cf7-9cb9-1a5ea9206cf5#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen-a-417b6f32-654f-4cf7-9cb9-1a5ea9206cf5#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen-a-417b6f32-654f-4cf7-9cb9-1a5ea9206cf5#ref=rss)
-### russland
+* [https://www.spiegel.de/ausland/russland-trifft-zivile-ziele-in-der-ukraine-sie-wollen-uns-alle-ausloeschen](https://www.spiegel.de/ausland/russland-trifft-zivile-ziele-in-der-ukraine-sie-wollen-uns-alle-ausloeschen-a-7629399d-0fd0-4b98-9eab-99440689c0f5#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder-a-e9f47b5e-3bb7-4474-97e2-c064a98e80e4#ref=rss)
+### kündigt
 
 * [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder-a-e9f47b5e-3bb7-4474-97e2-c064a98e80e4#ref=rss)
-### chicago
+* [https://www.spiegel.de/kultur/musik/taylor-swift-kuendigt-internationale-tournee-fuer-2023-an](https://www.spiegel.de/kultur/musik/taylor-swift-kuendigt-internationale-tournee-fuer-2023-an-a-5cdc5e7d-a0a9-4f6b-8ca0-82b80ce12e91#ref=rss)
+### jair
 
-* [https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder](https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder-a-81b20a2b-50aa-4df0-9159-777ad28ca9ea#ref=rss)
-### mindestens
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation-a-e4f8cdba-ad98-4393-97d8-c10772924f94#ref=rss)
+* [https://www.spiegel.de/ausland/jair-bolsonaro-will-wahlergebnis-in-brasilien-offenbar-nicht-anfechten](https://www.spiegel.de/ausland/jair-bolsonaro-will-wahlergebnis-in-brasilien-offenbar-nicht-anfechten-a-a9aa62c1-289f-43f9-99b5-337758c6634d#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder](https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder-a-81b20a2b-50aa-4df0-9159-777ad28ca9ea#ref=rss)
-### kinder
+* [https://www.spiegel.de/ausland/nancy-pelosi-us-republikanerin-macht-witze-ueber-angriff-auf-paul-pelosi](https://www.spiegel.de/ausland/nancy-pelosi-us-republikanerin-macht-witze-ueber-angriff-auf-paul-pelosi-a-34bb02b4-9b6e-466b-bd25-1e63e093adba#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-und-usa-im-golf-angeblich-in-hoechster-alarmbereitschaft](https://www.spiegel.de/ausland/saudi-arabien-und-usa-im-golf-angeblich-in-hoechster-alarmbereitschaft-a-67c3c975-ce62-4586-89ef-c7a0ff3c5069#ref=rss)
+### geld
 
-* [https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder](https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder-a-81b20a2b-50aa-4df0-9159-777ad28ca9ea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kapitalmarkt-reform-der-eu-bald-kein-geld-in-der-schweiz-mehr](https://www.spiegel.de/wirtschaft/kapitalmarkt-reform-der-eu-bald-kein-geld-in-der-schweiz-mehr-a-4f5b938a-020e-4ca2-b4a1-3015e932c2be#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/wirtschaft/kapitalmarkt-reform-der-eu-bald-kein-geld-in-der-schweiz-mehr](https://www.spiegel.de/wirtschaft/kapitalmarkt-reform-der-eu-bald-kein-geld-in-der-schweiz-mehr-a-4f5b938a-020e-4ca2-b4a1-3015e932c2be#ref=rss)
+### saudiarabien
+
+* [https://www.spiegel.de/ausland/saudi-arabien-und-usa-im-golf-angeblich-in-hoechster-alarmbereitschaft](https://www.spiegel.de/ausland/saudi-arabien-und-usa-im-golf-angeblich-in-hoechster-alarmbereitschaft-a-67c3c975-ce62-4586-89ef-c7a0ff3c5069#ref=rss)
+### angeblich
+
+* [https://www.spiegel.de/ausland/saudi-arabien-und-usa-im-golf-angeblich-in-hoechster-alarmbereitschaft](https://www.spiegel.de/ausland/saudi-arabien-und-usa-im-golf-angeblich-in-hoechster-alarmbereitschaft-a-67c3c975-ce62-4586-89ef-c7a0ff3c5069#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/thales-hacker-stehlen-angeblich-daten-von-grossem-ruestungskonzern](https://www.spiegel.de/netzwelt/web/thales-hacker-stehlen-angeblich-daten-von-grossem-ruestungskonzern-a-d0b36a93-0307-4c67-8b87-f4f990cd48e6#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/saudi-arabien-und-usa-im-golf-angeblich-in-hoechster-alarmbereitschaft](https://www.spiegel.de/ausland/saudi-arabien-und-usa-im-golf-angeblich-in-hoechster-alarmbereitschaft-a-67c3c975-ce62-4586-89ef-c7a0ff3c5069#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/stadtallendorf-in-hessen-28-jaehrige-erstochen-ex-partner-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/stadtallendorf-in-hessen-28-jaehrige-erstochen-ex-partner-unter-mordverdacht-a-30875c59-cf42-4dcc-8e9e-b5492715b59d#ref=rss)
+### schuld
+
+* [https://www.spiegel.de/panorama/berlin-radfahrerin-hat-klimaprotest-die-rettung-einer-frau-verzoegert](https://www.spiegel.de/panorama/berlin-radfahrerin-hat-klimaprotest-die-rettung-einer-frau-verzoegert-a-e5f6e4f9-d3f1-4f4a-8125-e510ae27b96e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation-a-e4f8cdba-ad98-4393-97d8-c10772924f94#ref=rss)
+### ermittelt
+
+* [https://www.spiegel.de/panorama/berlin-radfahrerin-hat-klimaprotest-die-rettung-einer-frau-verzoegert](https://www.spiegel.de/panorama/berlin-radfahrerin-hat-klimaprotest-die-rettung-einer-frau-verzoegert-a-e5f6e4f9-d3f1-4f4a-8125-e510ae27b96e#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/thales-hacker-stehlen-angeblich-daten-von-grossem-ruestungskonzern](https://www.spiegel.de/netzwelt/web/thales-hacker-stehlen-angeblich-daten-von-grossem-ruestungskonzern-a-d0b36a93-0307-4c67-8b87-f4f990cd48e6#ref=rss)
+### abu
+
+* [https://www.spiegel.de/wirtschaft/energiemesse-in-abu-dhabi-oelindustrie-feiert-sich-selbst-und-will-gross-investieren](https://www.spiegel.de/wirtschaft/energiemesse-in-abu-dhabi-oelindustrie-feiert-sich-selbst-und-will-gross-investieren-a-33dc0a24-9b90-4880-9af1-226105f7a2c1#ref=rss)
+### dhabi
+
+* [https://www.spiegel.de/wirtschaft/energiemesse-in-abu-dhabi-oelindustrie-feiert-sich-selbst-und-will-gross-investieren](https://www.spiegel.de/wirtschaft/energiemesse-in-abu-dhabi-oelindustrie-feiert-sich-selbst-und-will-gross-investieren-a-33dc0a24-9b90-4880-9af1-226105f7a2c1#ref=rss)
+### ende
+
+* [https://www.spiegel.de/wirtschaft/energiemesse-in-abu-dhabi-oelindustrie-feiert-sich-selbst-und-will-gross-investieren](https://www.spiegel.de/wirtschaft/energiemesse-in-abu-dhabi-oelindustrie-feiert-sich-selbst-und-will-gross-investieren-a-33dc0a24-9b90-4880-9af1-226105f7a2c1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen](https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen-a-7ff58ead-e468-47f4-be5e-474000be75bd#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen](https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen-a-7ff58ead-e468-47f4-be5e-474000be75bd#ref=rss)
+### europa
+
+* [https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen](https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen-a-7ff58ead-e468-47f4-be5e-474000be75bd#ref=rss)
+### conference
+
+* [https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen](https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen-a-7ff58ead-e468-47f4-be5e-474000be75bd#ref=rss)
+### gruppenphasen
+
+* [https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen](https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen-a-7ff58ead-e468-47f4-be5e-474000be75bd#ref=rss)
+### wissen
+
+* [https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen](https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen-a-7ff58ead-e468-47f4-be5e-474000be75bd#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-harry-musste-bei-fragen-zu-britischem-einbuergerungstest-passen-ich-habe-keine-ahnung](https://www.spiegel.de/panorama/leute/prinz-harry-musste-bei-fragen-zu-britischem-einbuergerungstest-passen-ich-habe-keine-ahnung-a-6b460d19-e194-439b-96b6-7d3a1f3f61d0#ref=rss)
+### stehen
+
+* [https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen](https://www.spiegel.de/sport/fussball/champions-europa-conference-league-das-muessen-sie-ueber-das-ende-der-gruppenphasen-wissen-a-7ff58ead-e468-47f4-be5e-474000be75bd#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-harry-musste-bei-fragen-zu-britischem-einbuergerungstest-passen-ich-habe-keine-ahnung](https://www.spiegel.de/panorama/leute/prinz-harry-musste-bei-fragen-zu-britischem-einbuergerungstest-passen-ich-habe-keine-ahnung-a-6b460d19-e194-439b-96b6-7d3a1f3f61d0#ref=rss)
+### trifft
+
+* [https://www.spiegel.de/ausland/russland-trifft-zivile-ziele-in-der-ukraine-sie-wollen-uns-alle-ausloeschen](https://www.spiegel.de/ausland/russland-trifft-zivile-ziele-in-der-ukraine-sie-wollen-uns-alle-ausloeschen-a-7629399d-0fd0-4b98-9eab-99440689c0f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation-a-e4f8cdba-ad98-4393-97d8-c10772924f94#ref=rss)
+### zivile
+
+* [https://www.spiegel.de/ausland/russland-trifft-zivile-ziele-in-der-ukraine-sie-wollen-uns-alle-ausloeschen](https://www.spiegel.de/ausland/russland-trifft-zivile-ziele-in-der-ukraine-sie-wollen-uns-alle-ausloeschen-a-7629399d-0fd0-4b98-9eab-99440689c0f5#ref=rss)
+### mein
+
+* [https://www.spiegel.de/psychologie/alter-die-midlife-kolumne-was-ist-groesser-meine-schmerzen-oder-mein-ekel](https://www.spiegel.de/psychologie/alter-die-midlife-kolumne-was-ist-groesser-meine-schmerzen-oder-mein-ekel-a-9b489d69-943d-4879-ba13-1abc561e4425#ref=rss)
+### mittelstreckenraketen
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder-a-e9f47b5e-3bb7-4474-97e2-c064a98e80e4#ref=rss)
+### erst
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder-a-e9f47b5e-3bb7-4474-97e2-c064a98e80e4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energiepreisbremse-robert-habeck-plaediert-fuer-boni-verbot](https://www.spiegel.de/wirtschaft/energiepreisbremse-robert-habeck-plaediert-fuer-boni-verbot-a-865a9163-5378-435d-b17f-0a3b042a17fc#ref=rss)
+### news
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder-a-e9f47b5e-3bb7-4474-97e2-c064a98e80e4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation-a-e4f8cdba-ad98-4393-97d8-c10772924f94#ref=rss)
+### thales
+
+* [https://www.spiegel.de/netzwelt/web/thales-hacker-stehlen-angeblich-daten-von-grossem-ruestungskonzern](https://www.spiegel.de/netzwelt/web/thales-hacker-stehlen-angeblich-daten-von-grossem-ruestungskonzern-a-d0b36a93-0307-4c67-8b87-f4f990cd48e6#ref=rss)
+### daten
+
+* [https://www.spiegel.de/netzwelt/web/thales-hacker-stehlen-angeblich-daten-von-grossem-ruestungskonzern](https://www.spiegel.de/netzwelt/web/thales-hacker-stehlen-angeblich-daten-von-grossem-ruestungskonzern-a-d0b36a93-0307-4c67-8b87-f4f990cd48e6#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/netzwelt/web/thales-hacker-stehlen-angeblich-daten-von-grossem-ruestungskonzern](https://www.spiegel.de/netzwelt/web/thales-hacker-stehlen-angeblich-daten-von-grossem-ruestungskonzern-a-d0b36a93-0307-4c67-8b87-f4f990cd48e6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strompreisdeckel-bei-40-cent-uebergewinne-rueckwirkend-ab-september-herangezogen](https://www.spiegel.de/wirtschaft/strompreisdeckel-bei-40-cent-uebergewinne-rueckwirkend-ab-september-herangezogen-a-005b0570-af90-45fd-9fb5-0dfac436458e#ref=rss)
+### caryl
+
+* [https://www.spiegel.de/kultur/caryl-churchill-dramatikerin-wird-theaterpreis-aberkannt](https://www.spiegel.de/kultur/caryl-churchill-dramatikerin-wird-theaterpreis-aberkannt-a-0f7eeedf-e378-4c24-b026-3961dea5419c#ref=rss)
+### churchill
+
+* [https://www.spiegel.de/kultur/caryl-churchill-dramatikerin-wird-theaterpreis-aberkannt](https://www.spiegel.de/kultur/caryl-churchill-dramatikerin-wird-theaterpreis-aberkannt-a-0f7eeedf-e378-4c24-b026-3961dea5419c#ref=rss)
 ### drei
 
-* [https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder](https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder-a-81b20a2b-50aa-4df0-9159-777ad28ca9ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
-### ermittler
+* [https://www.spiegel.de/kultur/caryl-churchill-dramatikerin-wird-theaterpreis-aberkannt](https://www.spiegel.de/kultur/caryl-churchill-dramatikerin-wird-theaterpreis-aberkannt-a-0f7eeedf-e378-4c24-b026-3961dea5419c#ref=rss)
+* [https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission](https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission-a-f9d71b52-f4ea-40a9-854c-85d1f23ff048#ref=rss)
+### wochen
 
-* [https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder](https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder-a-81b20a2b-50aa-4df0-9159-777ad28ca9ea#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/lady-of-the-dunes-fbi-identifiziert-mordopfer-48-jahre-nach-ihrer-entdeckung](https://www.spiegel.de/panorama/justiz/lady-of-the-dunes-fbi-identifiziert-mordopfer-48-jahre-nach-ihrer-entdeckung-a-f09141ec-bed4-4d5a-864f-98d4660e52a8#ref=rss)
-### saudi
+* [https://www.spiegel.de/kultur/caryl-churchill-dramatikerin-wird-theaterpreis-aberkannt](https://www.spiegel.de/kultur/caryl-churchill-dramatikerin-wird-theaterpreis-aberkannt-a-0f7eeedf-e378-4c24-b026-3961dea5419c#ref=rss)
+* [https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission](https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission-a-f9d71b52-f4ea-40a9-854c-85d1f23ff048#ref=rss)
+### neu
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
-### aramco
+* [https://www.spiegel.de/kultur/caryl-churchill-dramatikerin-wird-theaterpreis-aberkannt](https://www.spiegel.de/kultur/caryl-churchill-dramatikerin-wird-theaterpreis-aberkannt-a-0f7eeedf-e378-4c24-b026-3961dea5419c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/carsharing-miles-uebernimmt-weshare-von-vw](https://www.spiegel.de/wirtschaft/carsharing-miles-uebernimmt-weshare-von-vw-a-157641bb-ca93-437b-b987-d456c7e29ddd#ref=rss)
+### bolsonaro
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
-### milliarden
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation-a-e4f8cdba-ad98-4393-97d8-c10772924f94#ref=rss)
+* [https://www.spiegel.de/ausland/jair-bolsonaro-will-wahlergebnis-in-brasilien-offenbar-nicht-anfechten](https://www.spiegel.de/ausland/jair-bolsonaro-will-wahlergebnis-in-brasilien-offenbar-nicht-anfechten-a-a9aa62c1-289f-43f9-99b5-337758c6634d#ref=rss)
+### klimaaktivisten
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
-### dollar
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation-a-e4f8cdba-ad98-4393-97d8-c10772924f94#ref=rss)
+### letzte
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
-### identifiziert
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-jair-bolsonaro-wladimir-putin-recep-tayyip-erdogan-klimaaktivisten-letzte-generation-a-e4f8cdba-ad98-4393-97d8-c10772924f94#ref=rss)
+* [https://www.spiegel.de/wissenschaft/australien-wie-wissenschaftler-den-ausgerotteten-tasmanischen-tiger-wieder-beleben-wollen](https://www.spiegel.de/wissenschaft/australien-wie-wissenschaftler-den-ausgerotteten-tasmanischen-tiger-wieder-beleben-wollen-a-d9ad3bf1-bf52-41c7-9c9d-7457aad6b510#ref=rss)
+### mikroplastik
 
-* [https://www.spiegel.de/panorama/justiz/lady-of-the-dunes-fbi-identifiziert-mordopfer-48-jahre-nach-ihrer-entdeckung](https://www.spiegel.de/panorama/justiz/lady-of-the-dunes-fbi-identifiziert-mordopfer-48-jahre-nach-ihrer-entdeckung-a-f09141ec-bed4-4d5a-864f-98d4660e52a8#ref=rss)
-### giorgia
+* [https://www.spiegel.de/wissenschaft/mikroplastik-wale-schlucken-bis-zu-zehn-millionen-plastikteilchen-pro-tag](https://www.spiegel.de/wissenschaft/mikroplastik-wale-schlucken-bis-zu-zehn-millionen-plastikteilchen-pro-tag-a-e023deae-1c1e-4db0-b7a5-9567af133aa5#ref=rss)
+### wale
 
-* [https://www.spiegel.de/ausland/italien-giorgia-meloni-ernennt-umstrittenen-vizeminister](https://www.spiegel.de/ausland/italien-giorgia-meloni-ernennt-umstrittenen-vizeminister-a-9c72bbe6-7f0c-443a-a8a8-573b6a7d89aa#ref=rss)
-### meloni
+* [https://www.spiegel.de/wissenschaft/mikroplastik-wale-schlucken-bis-zu-zehn-millionen-plastikteilchen-pro-tag](https://www.spiegel.de/wissenschaft/mikroplastik-wale-schlucken-bis-zu-zehn-millionen-plastikteilchen-pro-tag-a-e023deae-1c1e-4db0-b7a5-9567af133aa5#ref=rss)
+### pro
 
-* [https://www.spiegel.de/ausland/italien-giorgia-meloni-ernennt-umstrittenen-vizeminister](https://www.spiegel.de/ausland/italien-giorgia-meloni-ernennt-umstrittenen-vizeminister-a-9c72bbe6-7f0c-443a-a8a8-573b6a7d89aa#ref=rss)
-### menschenrechtsbeauftragte
+* [https://www.spiegel.de/wissenschaft/mikroplastik-wale-schlucken-bis-zu-zehn-millionen-plastikteilchen-pro-tag](https://www.spiegel.de/wissenschaft/mikroplastik-wale-schlucken-bis-zu-zehn-millionen-plastikteilchen-pro-tag-a-e023deae-1c1e-4db0-b7a5-9567af133aa5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/strompreisdeckel-bei-40-cent-uebergewinne-rueckwirkend-ab-september-herangezogen](https://www.spiegel.de/wirtschaft/strompreisdeckel-bei-40-cent-uebergewinne-rueckwirkend-ab-september-herangezogen-a-005b0570-af90-45fd-9fb5-0dfac436458e#ref=rss)
+### übergewinne
 
-* [https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich](https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich-a-176ad053-5994-4086-9e0a-7cdc11762a0d#ref=rss)
-### luise
+* [https://www.spiegel.de/wirtschaft/strompreisdeckel-bei-40-cent-uebergewinne-rueckwirkend-ab-september-herangezogen](https://www.spiegel.de/wirtschaft/strompreisdeckel-bei-40-cent-uebergewinne-rueckwirkend-ab-september-herangezogen-a-005b0570-af90-45fd-9fb5-0dfac436458e#ref=rss)
+### september
 
-* [https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich](https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich-a-176ad053-5994-4086-9e0a-7cdc11762a0d#ref=rss)
-### amtsberg
+* [https://www.spiegel.de/wirtschaft/strompreisdeckel-bei-40-cent-uebergewinne-rueckwirkend-ab-september-herangezogen](https://www.spiegel.de/wirtschaft/strompreisdeckel-bei-40-cent-uebergewinne-rueckwirkend-ab-september-herangezogen-a-005b0570-af90-45fd-9fb5-0dfac436458e#ref=rss)
+### bund
 
-* [https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich](https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich-a-176ad053-5994-4086-9e0a-7cdc11762a0d#ref=rss)
-### produktion
+* [https://www.spiegel.de/wirtschaft/strompreisdeckel-bei-40-cent-uebergewinne-rueckwirkend-ab-september-herangezogen](https://www.spiegel.de/wirtschaft/strompreisdeckel-bei-40-cent-uebergewinne-rueckwirkend-ab-september-herangezogen-a-005b0570-af90-45fd-9fb5-0dfac436458e#ref=rss)
+* [https://www.spiegel.de/auto/jeder-sechste-berliner-soll-anspruch-auf-9-euro-sozialticket-haben](https://www.spiegel.de/auto/jeder-sechste-berliner-soll-anspruch-auf-9-euro-sozialticket-haben-a-d6e47287-84eb-405b-8934-fa3991c77ec7#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-jede-zwoelfte-industriefirma-will-produktion-verlagern](https://www.spiegel.de/wirtschaft/soziales/energiekrise-jede-zwoelfte-industriefirma-will-produktion-verlagern-a-6a1d507b-fc77-4fe1-b0e1-d9029737d3d9#ref=rss)
-### verlagern
+* [https://www.spiegel.de/wirtschaft/strompreisdeckel-bei-40-cent-uebergewinne-rueckwirkend-ab-september-herangezogen](https://www.spiegel.de/wirtschaft/strompreisdeckel-bei-40-cent-uebergewinne-rueckwirkend-ab-september-herangezogen-a-005b0570-af90-45fd-9fb5-0dfac436458e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energiepreisbremse-robert-habeck-plaediert-fuer-boni-verbot](https://www.spiegel.de/wirtschaft/energiepreisbremse-robert-habeck-plaediert-fuer-boni-verbot-a-865a9163-5378-435d-b17f-0a3b042a17fc#ref=rss)
+### brasilien
 
-* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-jede-zwoelfte-industriefirma-will-produktion-verlagern](https://www.spiegel.de/wirtschaft/soziales/energiekrise-jede-zwoelfte-industriefirma-will-produktion-verlagern-a-6a1d507b-fc77-4fe1-b0e1-d9029737d3d9#ref=rss)
-### blitzcoronalockdown
+* [https://www.spiegel.de/ausland/jair-bolsonaro-will-wahlergebnis-in-brasilien-offenbar-nicht-anfechten](https://www.spiegel.de/ausland/jair-bolsonaro-will-wahlergebnis-in-brasilien-offenbar-nicht-anfechten-a-a9aa62c1-289f-43f9-99b5-337758c6634d#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/gesellschaft/blitz-corona-lockdown-in-china-besucher-in-disneylang-shanghai-festgehalten](https://www.spiegel.de/panorama/gesellschaft/blitz-corona-lockdown-in-china-besucher-in-disneylang-shanghai-festgehalten-a-742deb1a-0fab-4514-807e-9de8658c0a7b#ref=rss)
-### shanghai
+* [https://www.spiegel.de/ausland/jair-bolsonaro-will-wahlergebnis-in-brasilien-offenbar-nicht-anfechten](https://www.spiegel.de/ausland/jair-bolsonaro-will-wahlergebnis-in-brasilien-offenbar-nicht-anfechten-a-a9aa62c1-289f-43f9-99b5-337758c6634d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/prinz-harry-musste-bei-fragen-zu-britischem-einbuergerungstest-passen-ich-habe-keine-ahnung](https://www.spiegel.de/panorama/leute/prinz-harry-musste-bei-fragen-zu-britischem-einbuergerungstest-passen-ich-habe-keine-ahnung-a-6b460d19-e194-439b-96b6-7d3a1f3f61d0#ref=rss)
+### nahverkehr
 
-* [https://www.spiegel.de/panorama/gesellschaft/blitz-corona-lockdown-in-china-besucher-in-disneylang-shanghai-festgehalten](https://www.spiegel.de/panorama/gesellschaft/blitz-corona-lockdown-in-china-besucher-in-disneylang-shanghai-festgehalten-a-742deb1a-0fab-4514-807e-9de8658c0a7b#ref=rss)
+* [https://www.spiegel.de/auto/jeder-sechste-berliner-soll-anspruch-auf-9-euro-sozialticket-haben](https://www.spiegel.de/auto/jeder-sechste-berliner-soll-anspruch-auf-9-euro-sozialticket-haben-a-d6e47287-84eb-405b-8934-fa3991c77ec7#ref=rss)
+### anspruch
+
+* [https://www.spiegel.de/auto/jeder-sechste-berliner-soll-anspruch-auf-9-euro-sozialticket-haben](https://www.spiegel.de/auto/jeder-sechste-berliner-soll-anspruch-auf-9-euro-sozialticket-haben-a-d6e47287-84eb-405b-8934-fa3991c77ec7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/energiepreisbremse-robert-habeck-plaediert-fuer-boni-verbot](https://www.spiegel.de/wirtschaft/energiepreisbremse-robert-habeck-plaediert-fuer-boni-verbot-a-865a9163-5378-435d-b17f-0a3b042a17fc#ref=rss)
+### länder
+
+* [https://www.spiegel.de/auto/jeder-sechste-berliner-soll-anspruch-auf-9-euro-sozialticket-haben](https://www.spiegel.de/auto/jeder-sechste-berliner-soll-anspruch-auf-9-euro-sozialticket-haben-a-d6e47287-84eb-405b-8934-fa3991c77ec7#ref=rss)
+* [https://www.spiegel.de/ausland/menschenrechte-und-politik-in-katar-nancy-faesers-zu-spitzer-zeigefinger-kommentar](https://www.spiegel.de/ausland/menschenrechte-und-politik-in-katar-nancy-faesers-zu-spitzer-zeigefinger-kommentar-a-f5e90100-da2a-4df1-a26f-ff086455078b#ref=rss)
+### stadtallendorf
+
+* [https://www.spiegel.de/panorama/justiz/stadtallendorf-in-hessen-28-jaehrige-erstochen-ex-partner-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/stadtallendorf-in-hessen-28-jaehrige-erstochen-ex-partner-unter-mordverdacht-a-30875c59-cf42-4dcc-8e9e-b5492715b59d#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/panorama/justiz/stadtallendorf-in-hessen-28-jaehrige-erstochen-ex-partner-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/stadtallendorf-in-hessen-28-jaehrige-erstochen-ex-partner-unter-mordverdacht-a-30875c59-cf42-4dcc-8e9e-b5492715b59d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/heide-mann-erschiesst-ehefrau-vor-den-augen-des-sohnes](https://www.spiegel.de/panorama/justiz/heide-mann-erschiesst-ehefrau-vor-den-augen-des-sohnes-a-d8d7b229-70c6-42f3-857e-963a743c11b5#ref=rss)
+### stellte
+
+* [https://www.spiegel.de/panorama/justiz/stadtallendorf-in-hessen-28-jaehrige-erstochen-ex-partner-unter-mordverdacht](https://www.spiegel.de/panorama/justiz/stadtallendorf-in-hessen-28-jaehrige-erstochen-ex-partner-unter-mordverdacht-a-30875c59-cf42-4dcc-8e9e-b5492715b59d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/heide-mann-erschiesst-ehefrau-vor-den-augen-des-sohnes](https://www.spiegel.de/panorama/justiz/heide-mann-erschiesst-ehefrau-vor-den-augen-des-sohnes-a-d8d7b229-70c6-42f3-857e-963a743c11b5#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/heide-mann-erschiesst-ehefrau-vor-den-augen-des-sohnes](https://www.spiegel.de/panorama/justiz/heide-mann-erschiesst-ehefrau-vor-den-augen-des-sohnes-a-d8d7b229-70c6-42f3-857e-963a743c11b5#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-uhren-raeuber-hatte-sich-als-frau-verkleidet-fahndung](https://www.spiegel.de/panorama/justiz/berlin-uhren-raeuber-hatte-sich-als-frau-verkleidet-fahndung-a-af9a0536-d1b9-4868-aa42-bb5e1940b0e0#ref=rss)
+### energiepreisbremse
+
+* [https://www.spiegel.de/wirtschaft/energiepreisbremse-robert-habeck-plaediert-fuer-boni-verbot](https://www.spiegel.de/wirtschaft/energiepreisbremse-robert-habeck-plaediert-fuer-boni-verbot-a-865a9163-5378-435d-b17f-0a3b042a17fc#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/wirtschaft/energiepreisbremse-robert-habeck-plaediert-fuer-boni-verbot](https://www.spiegel.de/wirtschaft/energiepreisbremse-robert-habeck-plaediert-fuer-boni-verbot-a-865a9163-5378-435d-b17f-0a3b042a17fc#ref=rss)
+* [https://www.spiegel.de/kultur/musik/taylor-swift-kuendigt-internationale-tournee-fuer-2023-an](https://www.spiegel.de/kultur/musik/taylor-swift-kuendigt-internationale-tournee-fuer-2023-an-a-5cdc5e7d-a0a9-4f6b-8ca0-82b80ce12e91#ref=rss)
+### taylor
+
+* [https://www.spiegel.de/kultur/musik/taylor-swift-kuendigt-internationale-tournee-fuer-2023-an](https://www.spiegel.de/kultur/musik/taylor-swift-kuendigt-internationale-tournee-fuer-2023-an-a-5cdc5e7d-a0a9-4f6b-8ca0-82b80ce12e91#ref=rss)
+### swift
+
+* [https://www.spiegel.de/kultur/musik/taylor-swift-kuendigt-internationale-tournee-fuer-2023-an](https://www.spiegel.de/kultur/musik/taylor-swift-kuendigt-internationale-tournee-fuer-2023-an-a-5cdc5e7d-a0a9-4f6b-8ca0-82b80ce12e91#ref=rss)
+### tiger
+
+* [https://www.spiegel.de/wissenschaft/australien-wie-wissenschaftler-den-ausgerotteten-tasmanischen-tiger-wieder-beleben-wollen](https://www.spiegel.de/wissenschaft/australien-wie-wissenschaftler-den-ausgerotteten-tasmanischen-tiger-wieder-beleben-wollen-a-d9ad3bf1-bf52-41c7-9c9d-7457aad6b510#ref=rss)
+### fast
+
+* [https://www.spiegel.de/wissenschaft/australien-wie-wissenschaftler-den-ausgerotteten-tasmanischen-tiger-wieder-beleben-wollen](https://www.spiegel.de/wissenschaft/australien-wie-wissenschaftler-den-ausgerotteten-tasmanischen-tiger-wieder-beleben-wollen-a-d9ad3bf1-bf52-41c7-9c9d-7457aad6b510#ref=rss)
+* [https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission](https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission-a-f9d71b52-f4ea-40a9-854c-85d1f23ff048#ref=rss)
+### seoul
+
+* [https://www.spiegel.de/panorama/justiz/seoul-nach-dem-massengedraenge-angehoerige-koennen-sachen-von-opfern-abholen](https://www.spiegel.de/panorama/justiz/seoul-nach-dem-massengedraenge-angehoerige-koennen-sachen-von-opfern-abholen-a-092adef0-ae24-406b-aef9-7ca7f5cba4ee#ref=rss)
+### massengedränge
+
+* [https://www.spiegel.de/panorama/justiz/seoul-nach-dem-massengedraenge-angehoerige-koennen-sachen-von-opfern-abholen](https://www.spiegel.de/panorama/justiz/seoul-nach-dem-massengedraenge-angehoerige-koennen-sachen-von-opfern-abholen-a-092adef0-ae24-406b-aef9-7ca7f5cba4ee#ref=rss)
+### verkleidet
+
+* [https://www.spiegel.de/panorama/justiz/berlin-uhren-raeuber-hatte-sich-als-frau-verkleidet-fahndung](https://www.spiegel.de/panorama/justiz/berlin-uhren-raeuber-hatte-sich-als-frau-verkleidet-fahndung-a-af9a0536-d1b9-4868-aa42-bb5e1940b0e0#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/supreme-court-untersagt-herausgabe-von-trumps-steuererklaerung](https://www.spiegel.de/ausland/supreme-court-untersagt-herausgabe-von-trumps-steuererklaerung-a-f0fe4a0f-8780-4dcd-aa24-989502325f35#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/supreme-court-untersagt-herausgabe-von-trumps-steuererklaerung](https://www.spiegel.de/ausland/supreme-court-untersagt-herausgabe-von-trumps-steuererklaerung-a-f0fe4a0f-8780-4dcd-aa24-989502325f35#ref=rss)
+### prinz
+
+* [https://www.spiegel.de/panorama/leute/prinz-harry-musste-bei-fragen-zu-britischem-einbuergerungstest-passen-ich-habe-keine-ahnung](https://www.spiegel.de/panorama/leute/prinz-harry-musste-bei-fragen-zu-britischem-einbuergerungstest-passen-ich-habe-keine-ahnung-a-6b460d19-e194-439b-96b6-7d3a1f3f61d0#ref=rss)
+### harry
+
+* [https://www.spiegel.de/panorama/leute/prinz-harry-musste-bei-fragen-zu-britischem-einbuergerungstest-passen-ich-habe-keine-ahnung](https://www.spiegel.de/panorama/leute/prinz-harry-musste-bei-fragen-zu-britischem-einbuergerungstest-passen-ich-habe-keine-ahnung-a-6b460d19-e194-439b-96b6-7d3a1f3f61d0#ref=rss)
+### miles
+
+* [https://www.spiegel.de/wirtschaft/carsharing-miles-uebernimmt-weshare-von-vw](https://www.spiegel.de/wirtschaft/carsharing-miles-uebernimmt-weshare-von-vw-a-157641bb-ca93-437b-b987-d456c7e29ddd#ref=rss)
+### weshare
+
+* [https://www.spiegel.de/wirtschaft/carsharing-miles-uebernimmt-weshare-von-vw](https://www.spiegel.de/wirtschaft/carsharing-miles-uebernimmt-weshare-von-vw-a-157641bb-ca93-437b-b987-d456c7e29ddd#ref=rss)
+### faeser
+
+* [https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission](https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission-a-f9d71b52-f4ea-40a9-854c-85d1f23ff048#ref=rss)
+### innenministerin
+
+* [https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission](https://www.spiegel.de/politik/nancy-faeser-innenministerin-vor-der-wm-2022-in-katar-auf-heikler-mission-a-f9d71b52-f4ea-40a9-854c-85d1f23ff048#ref=rss)
 
