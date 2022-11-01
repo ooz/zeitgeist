@@ -4,290 +4,323 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
+### china
 
-* [https://www.spiegel.de/netzwelt/apps/instagram-sperre-nutzer-berichten-ueber-probleme-bei-foto-app](https://www.spiegel.de/netzwelt/apps/instagram-sperre-nutzer-berichten-ueber-probleme-bei-foto-app-a-70a6810c-6d81-4edf-81e1-21a98a57481e#ref=rss)
-* [https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht](https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht-a-cec4d76f-434f-4eda-b5dc-18be3a475e53#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-massengedraenge-in-seoul-itaewon-und-danach](https://www.spiegel.de/ausland/suedkorea-massengedraenge-in-seoul-itaewon-und-danach-a-00d97341-3cab-4091-9902-b4fe8e4732f3#ref=rss)
-* [https://www.spiegel.de/ausland/iran-schriftsteller-amir-hassan-cheheltan-ueber-sein-land-die-bluttriefende-wunde](https://www.spiegel.de/ausland/iran-schriftsteller-amir-hassan-cheheltan-ueber-sein-land-die-bluttriefende-wunde-a-39e78c7e-a785-4446-8199-4e3c3325bba7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe](https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe-a-bf838870-f642-4826-ae21-bde98e45dbd7#ref=rss)
-### land
+* [https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse](https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse-a-9b4a5bb3-705f-475d-b5ec-62c25015ee2d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen-a-417b6f32-654f-4cf7-9cb9-1a5ea9206cf5#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/blitz-corona-lockdown-in-china-besucher-in-disneylang-shanghai-festgehalten](https://www.spiegel.de/panorama/gesellschaft/blitz-corona-lockdown-in-china-besucher-in-disneylang-shanghai-festgehalten-a-742deb1a-0fab-4514-807e-9de8658c0a7b#ref=rss)
+### fast
 
-* [https://www.spiegel.de/ausland/daenemark-vor-der-parlamentswahl-mette-frederiksen-und-lars-lokke-rasmussen-als-systemsprenger](https://www.spiegel.de/ausland/daenemark-vor-der-parlamentswahl-mette-frederiksen-und-lars-lokke-rasmussen-als-systemsprenger-a-97265488-de85-4b18-b8a1-68fb60b7bdc4#ref=rss)
-* [https://www.spiegel.de/ausland/iran-schriftsteller-amir-hassan-cheheltan-ueber-sein-land-die-bluttriefende-wunde](https://www.spiegel.de/ausland/iran-schriftsteller-amir-hassan-cheheltan-ueber-sein-land-die-bluttriefende-wunde-a-39e78c7e-a785-4446-8199-4e3c3325bba7#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-lula-de-silva-gewinnt-praesidentschaftswahlen-vor-jair-bolsonaro](https://www.spiegel.de/ausland/brasilien-lula-de-silva-gewinnt-praesidentschaftswahlen-vor-jair-bolsonaro-a-40d7091d-6ed6-4387-8873-d3879d07189b#ref=rss)
-### lula
+* [https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben](https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben-a-ef22cac7-50cc-4e72-bcad-b8acba5173b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lady-of-the-dunes-fbi-identifiziert-mordopfer-48-jahre-nach-ihrer-entdeckung](https://www.spiegel.de/panorama/justiz/lady-of-the-dunes-fbi-identifiziert-mordopfer-48-jahre-nach-ihrer-entdeckung-a-f09141ec-bed4-4d5a-864f-98d4660e52a8#ref=rss)
+### roth
 
-* [https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird](https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird-a-69718e78-15f4-4e45-8a55-62bfe812d39f#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-lula-de-silva-gewinnt-praesidentschaftswahlen-vor-jair-bolsonaro](https://www.spiegel.de/ausland/brasilien-lula-de-silva-gewinnt-praesidentschaftswahlen-vor-jair-bolsonaro-a-40d7091d-6ed6-4387-8873-d3879d07189b#ref=rss)
-### iran
+* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/ausland/iran-schriftsteller-amir-hassan-cheheltan-ueber-sein-land-die-bluttriefende-wunde](https://www.spiegel.de/ausland/iran-schriftsteller-amir-hassan-cheheltan-ueber-sein-land-die-bluttriefende-wunde-a-39e78c7e-a785-4446-8199-4e3c3325bba7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe](https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe-a-bf838870-f642-4826-ae21-bde98e45dbd7#ref=rss)
-### viele
+* [https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben](https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben-a-ef22cac7-50cc-4e72-bcad-b8acba5173b6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
+### indien
 
-* [https://www.spiegel.de/panorama/gesellschaft/wechseljahre-fuer-anfaengerinnen-freiheit-statt-tabu-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/wechseljahre-fuer-anfaengerinnen-freiheit-statt-tabu-spiegel-tv-reportage-a-6f6f9399-b38b-4f04-af3f-51ca16fde81e#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/instagram-sperre-nutzer-berichten-ueber-probleme-bei-foto-app](https://www.spiegel.de/netzwelt/apps/instagram-sperre-nutzer-berichten-ueber-probleme-bei-foto-app-a-70a6810c-6d81-4edf-81e1-21a98a57481e#ref=rss)
-* [https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht](https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht-a-cec4d76f-434f-4eda-b5dc-18be3a475e53#ref=rss)
-### koalition
+* [https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs](https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs-a-9fc164a9-39cd-47f1-8780-a460f356be02#ref=rss)
+* [https://www.spiegel.de/ausland/indien-im-kampf-gegen-die-plastikmassen-was-bringt-das-verbot-von-einwegverpackungen](https://www.spiegel.de/ausland/indien-im-kampf-gegen-die-plastikmassen-was-bringt-das-verbot-von-einwegverpackungen-a-54b42317-f1e9-4184-9377-f616af0d6f1e#ref=rss)
+### ich
 
-* [https://www.spiegel.de/politik/deutschland/spd-nachwuchs-jusos-ratlose-rebellen](https://www.spiegel.de/politik/deutschland/spd-nachwuchs-jusos-ratlose-rebellen-a-ee69f819-f3c0-4ff5-a2a9-cd4e9c5f595c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-spd-und-gruene-einigen-sich-auf-koalition](https://www.spiegel.de/politik/deutschland/niedersachsen-spd-und-gruene-einigen-sich-auf-koalition-a-12e423d3-9dac-4126-9665-705ff1834d1f#ref=rss)
-### olaf
+* [https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke](https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke-a-5e7a64a8-e1e7-43b2-8ffd-caec92b743e6#ref=rss)
+* [https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald](https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald-a-ef1957bb-9467-41eb-8d66-9adf4f9c1766#ref=rss)
+### mich
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-laestert-ueber-radikale-klimaaktivisten-etwas-kreativitaet-koennte-helfen](https://www.spiegel.de/politik/deutschland/olaf-scholz-laestert-ueber-radikale-klimaaktivisten-etwas-kreativitaet-koennte-helfen-a-cfde653d-f125-4462-ae5e-d1123a697ac3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann-a-442c4fb4-a246-4807-817e-49e7fbd122d3#ref=rss)
-### scholz
+* [https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald](https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald-a-ef1957bb-9467-41eb-8d66-9adf4f9c1766#ref=rss)
+### thriller
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-laestert-ueber-radikale-klimaaktivisten-etwas-kreativitaet-koennte-helfen](https://www.spiegel.de/politik/deutschland/olaf-scholz-laestert-ueber-radikale-klimaaktivisten-etwas-kreativitaet-koennte-helfen-a-cfde653d-f125-4462-ae5e-d1123a697ac3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann-a-442c4fb4-a246-4807-817e-49e7fbd122d3#ref=rss)
-### klimaaktivisten
+* [https://www.spiegel.de/kultur/kino/thriller-rhino-rezension-ueberall-herrschte-gewalt-und-korruption](https://www.spiegel.de/kultur/kino/thriller-rhino-rezension-ueberall-herrschte-gewalt-und-korruption-a-c23a9f50-2ffc-4c3c-b6cf-c73709405a89#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-laestert-ueber-radikale-klimaaktivisten-etwas-kreativitaet-koennte-helfen](https://www.spiegel.de/politik/deutschland/olaf-scholz-laestert-ueber-radikale-klimaaktivisten-etwas-kreativitaet-koennte-helfen-a-cfde653d-f125-4462-ae5e-d1123a697ac3#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-betonmischer-ueberrollt-radfahrerin](https://www.spiegel.de/panorama/berlin-betonmischer-ueberrollt-radfahrerin-a-6bf85adf-7fef-4f0f-bb49-13459fc9258a#ref=rss)
-### kritisiert
+* [https://www.spiegel.de/kultur/kino/thriller-rhino-rezension-ueberall-herrschte-gewalt-und-korruption](https://www.spiegel.de/kultur/kino/thriller-rhino-rezension-ueberall-herrschte-gewalt-und-korruption-a-c23a9f50-2ffc-4c3c-b6cf-c73709405a89#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder-a-e9f47b5e-3bb7-4474-97e2-c064a98e80e4#ref=rss)
+### twitter
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-laestert-ueber-radikale-klimaaktivisten-etwas-kreativitaet-koennte-helfen](https://www.spiegel.de/politik/deutschland/olaf-scholz-laestert-ueber-radikale-klimaaktivisten-etwas-kreativitaet-koennte-helfen-a-cfde653d-f125-4462-ae5e-d1123a697ac3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann-a-442c4fb4-a246-4807-817e-49e7fbd122d3#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-betonmischer-ueberrollt-radfahrerin](https://www.spiegel.de/panorama/berlin-betonmischer-ueberrollt-radfahrerin-a-6bf85adf-7fef-4f0f-bb49-13459fc9258a#ref=rss)
-### neue
+* [https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor](https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor-a-3850ef28-54ef-46ac-a675-20e19c6e66c2#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-spd-und-gruene-einigen-sich-auf-koalition](https://www.spiegel.de/politik/deutschland/niedersachsen-spd-und-gruene-einigen-sich-auf-koalition-a-12e423d3-9dac-4126-9665-705ff1834d1f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-neue-corona-lockdowns-machen-apple-und-disney-zu-schaffen](https://www.spiegel.de/wirtschaft/unternehmen/china-neue-corona-lockdowns-machen-apple-und-disney-zu-schaffen-a-ad42a9a8-a8f6-401e-82c0-14d853c29691#ref=rss)
-### mehr
+* [https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor](https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor-a-3850ef28-54ef-46ac-a675-20e19c6e66c2#ref=rss)
+### vielen
 
-* [https://www.spiegel.de/netzwelt/apps/instagram-sperre-nutzer-berichten-ueber-probleme-bei-foto-app](https://www.spiegel.de/netzwelt/apps/instagram-sperre-nutzer-berichten-ueber-probleme-bei-foto-app-a-70a6810c-6d81-4edf-81e1-21a98a57481e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bdi-brisantes-grundsatzpapier-mehr-politik-weniger-profit](https://www.spiegel.de/wirtschaft/bdi-brisantes-grundsatzpapier-mehr-politik-weniger-profit-a-836f3232-6115-4242-89ac-63b65c2407b4#ref=rss)
-### sport
+* [https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor](https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor-a-3850ef28-54ef-46ac-a675-20e19c6e66c2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke](https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke-a-5e7a64a8-e1e7-43b2-8ffd-caec92b743e6#ref=rss)
+### aktuell
 
-* [https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht](https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht-a-cec4d76f-434f-4eda-b5dc-18be3a475e53#ref=rss)
-### halloween
+* [https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor](https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor-a-3850ef28-54ef-46ac-a675-20e19c6e66c2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs](https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs-a-9fc164a9-39cd-47f1-8780-a460f356be02#ref=rss)
+### news
 
-* [https://www.spiegel.de/ausland/suedkorea-massengedraenge-in-seoul-itaewon-und-danach](https://www.spiegel.de/ausland/suedkorea-massengedraenge-in-seoul-itaewon-und-danach-a-00d97341-3cab-4091-9902-b4fe8e4732f3#ref=rss)
-* [https://www.spiegel.de/stil/halloween-lori-castellon-aus-kalifornien-kreiert-gruseliges-essen](https://www.spiegel.de/stil/halloween-lori-castellon-aus-kalifornien-kreiert-gruseliges-essen-a-aba8f1d9-2b67-4e17-a8a3-47038c426f2d#ref=rss)
-### bundesregierung
+* [https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor](https://www.spiegel.de/netzwelt/web/twitter-geht-offenbar-weniger-gegen-falschinformationen-vor-a-3850ef28-54ef-46ac-a675-20e19c6e66c2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder-a-e9f47b5e-3bb7-4474-97e2-c064a98e80e4#ref=rss)
+### astronomen
 
-* [https://www.spiegel.de/politik/deutschland/gaspreis-entlastungen-sollen-fuer-besserverdiener-teuerpflichtig-sein](https://www.spiegel.de/politik/deutschland/gaspreis-entlastungen-sollen-fuer-besserverdiener-teuerpflichtig-sein-a-5838e947-6b24-4dbe-8310-f29ff8d46b68#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe](https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe-a-bf838870-f642-4826-ae21-bde98e45dbd7#ref=rss)
-### frauen
+* [https://www.spiegel.de/wissenschaft/asteroid-2022-ap7-astronomen-entdecken-planeten-killer-nahe-der-erde](https://www.spiegel.de/wissenschaft/asteroid-2022-ap7-astronomen-entdecken-planeten-killer-nahe-der-erde-a-e696e443-da6f-4ceb-b686-7f088f9a4c13#ref=rss)
+### erde
 
-* [https://www.spiegel.de/panorama/gesellschaft/wechseljahre-fuer-anfaengerinnen-freiheit-statt-tabu-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/wechseljahre-fuer-anfaengerinnen-freiheit-statt-tabu-spiegel-tv-reportage-a-6f6f9399-b38b-4f04-af3f-51ca16fde81e#ref=rss)
-* [https://www.spiegel.de/ausland/iran-schriftsteller-amir-hassan-cheheltan-ueber-sein-land-die-bluttriefende-wunde](https://www.spiegel.de/ausland/iran-schriftsteller-amir-hassan-cheheltan-ueber-sein-land-die-bluttriefende-wunde-a-39e78c7e-a785-4446-8199-4e3c3325bba7#ref=rss)
-### erst
+* [https://www.spiegel.de/wissenschaft/asteroid-2022-ap7-astronomen-entdecken-planeten-killer-nahe-der-erde](https://www.spiegel.de/wissenschaft/asteroid-2022-ap7-astronomen-entdecken-planeten-killer-nahe-der-erde-a-e696e443-da6f-4ceb-b686-7f088f9a4c13#ref=rss)
+### allein
 
-* [https://www.spiegel.de/panorama/gesellschaft/wechseljahre-fuer-anfaengerinnen-freiheit-statt-tabu-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/wechseljahre-fuer-anfaengerinnen-freiheit-statt-tabu-spiegel-tv-reportage-a-6f6f9399-b38b-4f04-af3f-51ca16fde81e#ref=rss)
-* [https://www.spiegel.de/panorama/zermatt-teenager-mit-seilwinde-geborgen](https://www.spiegel.de/panorama/zermatt-teenager-mit-seilwinde-geborgen-a-9eab8d34-3cc0-42f1-8526-4bcd74eb2808#ref=rss)
-### bedeutet
+* [https://www.spiegel.de/wissenschaft/asteroid-2022-ap7-astronomen-entdecken-planeten-killer-nahe-der-erde](https://www.spiegel.de/wissenschaft/asteroid-2022-ap7-astronomen-entdecken-planeten-killer-nahe-der-erde-a-e696e443-da6f-4ceb-b686-7f088f9a4c13#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/gesellschaft/wechseljahre-fuer-anfaengerinnen-freiheit-statt-tabu-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/wechseljahre-fuer-anfaengerinnen-freiheit-statt-tabu-spiegel-tv-reportage-a-6f6f9399-b38b-4f04-af3f-51ca16fde81e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-kiew-energiesparen-apple-barack-obama-us-midterms-pennsylvania](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-kiew-energiesparen-apple-barack-obama-us-midterms-pennsylvania-a-bfc0e849-fb84-427e-aa0b-7cc268308592#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/die-nachbeben-des-neuen-schocks-bildungsnewsletter](https://www.spiegel.de/panorama/bildung/die-nachbeben-des-neuen-schocks-bildungsnewsletter-a-1b84a06a-2005-426f-8805-cbc7909be56a#ref=rss)
+* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
+### führt
+
+* [https://www.spiegel.de/panorama/bildung/die-nachbeben-des-neuen-schocks-bildungsnewsletter](https://www.spiegel.de/panorama/bildung/die-nachbeben-des-neuen-schocks-bildungsnewsletter-a-1b84a06a-2005-426f-8805-cbc7909be56a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse](https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse-a-9b4a5bb3-705f-475d-b5ec-62c25015ee2d#ref=rss)
 ### ende
 
-* [https://www.spiegel.de/panorama/gesellschaft/wechseljahre-fuer-anfaengerinnen-freiheit-statt-tabu-spiegel-tv-reportage](https://www.spiegel.de/panorama/gesellschaft/wechseljahre-fuer-anfaengerinnen-freiheit-statt-tabu-spiegel-tv-reportage-a-6f6f9399-b38b-4f04-af3f-51ca16fde81e#ref=rss)
-### ukrainekrieg
+* [https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse](https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse-a-9b4a5bb3-705f-475d-b5ec-62c25015ee2d#ref=rss)
+### reagieren
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-raketenangriffe-auf-wichtige-ukrainische-infrastruktur](https://www.spiegel.de/ausland/ukraine-krieg-russische-raketenangriffe-auf-wichtige-ukrainische-infrastruktur-a-87d6876b-5b9e-4c92-ab61-c7788e920412#ref=rss)
-* [https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu](https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu-a-99c851ef-5eb8-4d14-9958-e0c2e3032d47#ref=rss)
-### russische
+* [https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse](https://www.spiegel.de/wirtschaft/chinas-boersen-hoffnung-auf-ende-der-null-covid-politik-befluegelt-kurse-a-9b4a5bb3-705f-475d-b5ec-62c25015ee2d#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/betrueger-nehmen-verifizierte-twitter-konten-ins-visier](https://www.spiegel.de/netzwelt/web/betrueger-nehmen-verifizierte-twitter-konten-ins-visier-a-a110c2b7-b02c-40e6-a9b9-712d7aa2cf23#ref=rss)
+### nehmen
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-raketenangriffe-auf-wichtige-ukrainische-infrastruktur](https://www.spiegel.de/ausland/ukraine-krieg-russische-raketenangriffe-auf-wichtige-ukrainische-infrastruktur-a-87d6876b-5b9e-4c92-ab61-c7788e920412#ref=rss)
-### wichtige
+* [https://www.spiegel.de/netzwelt/web/betrueger-nehmen-verifizierte-twitter-konten-ins-visier](https://www.spiegel.de/netzwelt/web/betrueger-nehmen-verifizierte-twitter-konten-ins-visier-a-a110c2b7-b02c-40e6-a9b9-712d7aa2cf23#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin](https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin-a-2f91aca8-2b43-4c50-941c-94e1bcc161b5#ref=rss)
+### promis
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-raketenangriffe-auf-wichtige-ukrainische-infrastruktur](https://www.spiegel.de/ausland/ukraine-krieg-russische-raketenangriffe-auf-wichtige-ukrainische-infrastruktur-a-87d6876b-5b9e-4c92-ab61-c7788e920412#ref=rss)
-### infrastruktur
+* [https://www.spiegel.de/netzwelt/web/betrueger-nehmen-verifizierte-twitter-konten-ins-visier](https://www.spiegel.de/netzwelt/web/betrueger-nehmen-verifizierte-twitter-konten-ins-visier-a-a110c2b7-b02c-40e6-a9b9-712d7aa2cf23#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin](https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin-a-2f91aca8-2b43-4c50-941c-94e1bcc161b5#ref=rss)
+### brasilien
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-raketenangriffe-auf-wichtige-ukrainische-infrastruktur](https://www.spiegel.de/ausland/ukraine-krieg-russische-raketenangriffe-auf-wichtige-ukrainische-infrastruktur-a-87d6876b-5b9e-4c92-ab61-c7788e920412#ref=rss)
-### kiew
+* [https://www.spiegel.de/ausland/brasilien-nach-der-wahl-brennende-autoreifen-fuer-bolsonaro](https://www.spiegel.de/ausland/brasilien-nach-der-wahl-brennende-autoreifen-fuer-bolsonaro-a-a8984a78-ac43-45bf-93ca-977e6b90f437#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte-a-fa23a8f5-0059-4b41-bf1c-92e8acdd48a5#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-raketenangriffe-auf-wichtige-ukrainische-infrastruktur](https://www.spiegel.de/ausland/ukraine-krieg-russische-raketenangriffe-auf-wichtige-ukrainische-infrastruktur-a-87d6876b-5b9e-4c92-ab61-c7788e920412#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-kiew-energiesparen-apple-barack-obama-us-midterms-pennsylvania](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-kiew-energiesparen-apple-barack-obama-us-midterms-pennsylvania-a-bfc0e849-fb84-427e-aa0b-7cc268308592#ref=rss)
-### frederiksen
+* [https://www.spiegel.de/ausland/brasilien-nach-der-wahl-brennende-autoreifen-fuer-bolsonaro](https://www.spiegel.de/ausland/brasilien-nach-der-wahl-brennende-autoreifen-fuer-bolsonaro-a-a8984a78-ac43-45bf-93ca-977e6b90f437#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte-a-fa23a8f5-0059-4b41-bf1c-92e8acdd48a5#ref=rss)
+### brennende
 
-* [https://www.spiegel.de/ausland/daenemark-vor-der-parlamentswahl-mette-frederiksen-und-lars-lokke-rasmussen-als-systemsprenger](https://www.spiegel.de/ausland/daenemark-vor-der-parlamentswahl-mette-frederiksen-und-lars-lokke-rasmussen-als-systemsprenger-a-97265488-de85-4b18-b8a1-68fb60b7bdc4#ref=rss)
-### king
+* [https://www.spiegel.de/ausland/brasilien-nach-der-wahl-brennende-autoreifen-fuer-bolsonaro](https://www.spiegel.de/ausland/brasilien-nach-der-wahl-brennende-autoreifen-fuer-bolsonaro-a-a8984a78-ac43-45bf-93ca-977e6b90f437#ref=rss)
+### matthew
 
-* [https://www.spiegel.de/panorama/leute/martin-luther-king-bezahlte-die-geburt-von-julia-roberts](https://www.spiegel.de/panorama/leute/martin-luther-king-bezahlte-die-geburt-von-julia-roberts-a-fdeaf8c9-16e9-49b9-b8b3-032891295cff#ref=rss)
-### julia
+* [https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben](https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben-a-ef22cac7-50cc-4e72-bcad-b8acba5173b6#ref=rss)
+### perry
 
-* [https://www.spiegel.de/panorama/leute/martin-luther-king-bezahlte-die-geburt-von-julia-roberts](https://www.spiegel.de/panorama/leute/martin-luther-king-bezahlte-die-geburt-von-julia-roberts-a-fdeaf8c9-16e9-49b9-b8b3-032891295cff#ref=rss)
-### roberts
+* [https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben](https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben-a-ef22cac7-50cc-4e72-bcad-b8acba5173b6#ref=rss)
+### drogensucht
 
-* [https://www.spiegel.de/panorama/leute/martin-luther-king-bezahlte-die-geburt-von-julia-roberts](https://www.spiegel.de/panorama/leute/martin-luther-king-bezahlte-die-geburt-von-julia-roberts-a-fdeaf8c9-16e9-49b9-b8b3-032891295cff#ref=rss)
-### jahren
+* [https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben](https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben-a-ef22cac7-50cc-4e72-bcad-b8acba5173b6#ref=rss)
+### legt
 
-* [https://www.spiegel.de/panorama/leute/martin-luther-king-bezahlte-die-geburt-von-julia-roberts](https://www.spiegel.de/panorama/leute/martin-luther-king-bezahlte-die-geburt-von-julia-roberts-a-fdeaf8c9-16e9-49b9-b8b3-032891295cff#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird](https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird-a-69718e78-15f4-4e45-8a55-62bfe812d39f#ref=rss)
-### galeria
+* [https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben](https://www.spiegel.de/kultur/matthew-perry-und-seine-drogensucht-friends-star-waere-fast-gestorben-a-ef22cac7-50cc-4e72-bcad-b8acba5173b6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich](https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich-a-176ad053-5994-4086-9e0a-7cdc11762a0d#ref=rss)
+### thomas
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-beantragt-erneut-schutzschirm-fuer-sanierung](https://www.spiegel.de/wirtschaft/unternehmen/galeria-beantragt-erneut-schutzschirm-fuer-sanierung-a-c7bda6fe-5b25-4a34-be76-af7e9a863f98#ref=rss)
-### unternehmen
+* [https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs](https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs-a-9fc164a9-39cd-47f1-8780-a460f356be02#ref=rss)
+### tuchel
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-beantragt-erneut-schutzschirm-fuer-sanierung](https://www.spiegel.de/wirtschaft/unternehmen/galeria-beantragt-erneut-schutzschirm-fuer-sanierung-a-c7bda6fe-5b25-4a34-be76-af7e9a863f98#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/instagram-sperre-nutzer-berichten-ueber-probleme-bei-foto-app](https://www.spiegel.de/netzwelt/apps/instagram-sperre-nutzer-berichten-ueber-probleme-bei-foto-app-a-70a6810c-6d81-4edf-81e1-21a98a57481e#ref=rss)
-### teenager
+* [https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs](https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs-a-9fc164a9-39cd-47f1-8780-a460f356be02#ref=rss)
+### klubs
 
-* [https://www.spiegel.de/panorama/zermatt-teenager-mit-seilwinde-geborgen](https://www.spiegel.de/panorama/zermatt-teenager-mit-seilwinde-geborgen-a-9eab8d34-3cc0-42f1-8526-4bcd74eb2808#ref=rss)
-### junge
+* [https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs](https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs-a-9fc164a9-39cd-47f1-8780-a460f356be02#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/panorama/zermatt-teenager-mit-seilwinde-geborgen](https://www.spiegel.de/panorama/zermatt-teenager-mit-seilwinde-geborgen-a-9eab8d34-3cc0-42f1-8526-4bcd74eb2808#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-massengedraenge-in-seoul-itaewon-und-danach](https://www.spiegel.de/ausland/suedkorea-massengedraenge-in-seoul-itaewon-und-danach-a-00d97341-3cab-4091-9902-b4fe8e4732f3#ref=rss)
-### katar
+* [https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs](https://www.spiegel.de/sport/fussball/nach-dem-aus-bei-chelsea-thomas-tuchel-bestaetigt-anfragen-grosser-klubs-a-9fc164a9-39cd-47f1-8780-a460f356be02#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-jede-zwoelfte-industriefirma-will-produktion-verlagern](https://www.spiegel.de/wirtschaft/soziales/energiekrise-jede-zwoelfte-industriefirma-will-produktion-verlagern-a-6a1d507b-fc77-4fe1-b0e1-d9029737d3d9#ref=rss)
+### lufthansa
 
-* [https://www.spiegel.de/sport/fussball/fussball-weltmeisterschaft-2022-in-katar-paul-pogba-faellt-verletzt-aus](https://www.spiegel.de/sport/fussball/fussball-weltmeisterschaft-2022-in-katar-paul-pogba-faellt-verletzt-aus-a-2f3cbabe-78a0-4e5b-8dfe-2d22d2fc83c5#ref=rss)
-### paul
+* [https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn-a-bade5270-f28c-48b5-8baf-9c07d48f3563#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/sport/fussball/fussball-weltmeisterschaft-2022-in-katar-paul-pogba-faellt-verletzt-aus](https://www.spiegel.de/sport/fussball/fussball-weltmeisterschaft-2022-in-katar-paul-pogba-faellt-verletzt-aus-a-2f3cbabe-78a0-4e5b-8dfe-2d22d2fc83c5#ref=rss)
-### pogba
+* [https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn-a-bade5270-f28c-48b5-8baf-9c07d48f3563#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/fussball-weltmeisterschaft-2022-in-katar-paul-pogba-faellt-verletzt-aus](https://www.spiegel.de/sport/fussball/fussball-weltmeisterschaft-2022-in-katar-paul-pogba-faellt-verletzt-aus-a-2f3cbabe-78a0-4e5b-8dfe-2d22d2fc83c5#ref=rss)
-### verletzt
+* [https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn-a-bade5270-f28c-48b5-8baf-9c07d48f3563#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
+### hoch
 
-* [https://www.spiegel.de/sport/fussball/fussball-weltmeisterschaft-2022-in-katar-paul-pogba-faellt-verletzt-aus](https://www.spiegel.de/sport/fussball/fussball-weltmeisterschaft-2022-in-katar-paul-pogba-faellt-verletzt-aus-a-2f3cbabe-78a0-4e5b-8dfe-2d22d2fc83c5#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-betonmischer-ueberrollt-radfahrerin](https://www.spiegel.de/panorama/berlin-betonmischer-ueberrollt-radfahrerin-a-6bf85adf-7fef-4f0f-bb49-13459fc9258a#ref=rss)
-### energiesparen
+* [https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn](https://www.spiegel.de/wirtschaft/kabinenpersonal-der-lufthansa-bekommt-bis-zu-17-prozent-mehr-lohn-a-bade5270-f28c-48b5-8baf-9c07d48f3563#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
+### sechs
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-kiew-energiesparen-apple-barack-obama-us-midterms-pennsylvania](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-kiew-energiesparen-apple-barack-obama-us-midterms-pennsylvania-a-bfc0e849-fb84-427e-aa0b-7cc268308592#ref=rss)
-### apple
+* [https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes](https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes-a-2db73b3b-7b86-436a-9f55-5b47d0a7f632#ref=rss)
+### studierende
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-kiew-energiesparen-apple-barack-obama-us-midterms-pennsylvania](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-kiew-energiesparen-apple-barack-obama-us-midterms-pennsylvania-a-bfc0e849-fb84-427e-aa0b-7cc268308592#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/china-neue-corona-lockdowns-machen-apple-und-disney-zu-schaffen](https://www.spiegel.de/wirtschaft/unternehmen/china-neue-corona-lockdowns-machen-apple-und-disney-zu-schaffen-a-ad42a9a8-a8f6-401e-82c0-14d853c29691#ref=rss)
-### pennsylvania
+* [https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes](https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes-a-2db73b3b-7b86-436a-9f55-5b47d0a7f632#ref=rss)
+### lieblingsmemes
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-kiew-energiesparen-apple-barack-obama-us-midterms-pennsylvania](https://www.spiegel.de/politik/deutschland/news-des-tages-ukraine-kiew-energiesparen-apple-barack-obama-us-midterms-pennsylvania-a-bfc0e849-fb84-427e-aa0b-7cc268308592#ref=rss)
-### suella
+* [https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes](https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes-a-2db73b3b-7b86-436a-9f55-5b47d0a7f632#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/grossbritannien-suella-braverman-schickte-sechs-mal-unterlagen-an-privatmailadresse](https://www.spiegel.de/ausland/grossbritannien-suella-braverman-schickte-sechs-mal-unterlagen-an-privatmailadresse-a-e27df43e-b276-497f-970c-49a3a22b9bf9#ref=rss)
-### braverman
+* [https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes](https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes-a-2db73b3b-7b86-436a-9f55-5b47d0a7f632#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen-a-417b6f32-654f-4cf7-9cb9-1a5ea9206cf5#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/grossbritannien-suella-braverman-schickte-sechs-mal-unterlagen-an-privatmailadresse](https://www.spiegel.de/ausland/grossbritannien-suella-braverman-schickte-sechs-mal-unterlagen-an-privatmailadresse-a-e27df43e-b276-497f-970c-49a3a22b9bf9#ref=rss)
-### jusos
+* [https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes](https://www.spiegel.de/start/hochschul-humor-sechs-studierende-ueber-ihre-lieblings-memes-a-2db73b3b-7b86-436a-9f55-5b47d0a7f632#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/spd-nachwuchs-jusos-ratlose-rebellen](https://www.spiegel.de/politik/deutschland/spd-nachwuchs-jusos-ratlose-rebellen-a-ee69f819-f3c0-4ff5-a2a9-cd4e9c5f595c#ref=rss)
-### regierung
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
+### inflation
 
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-sofortprogramm-alle-sind-auf-spur-ausser-der-verkehr](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-sofortprogramm-alle-sind-auf-spur-ausser-der-verkehr-a-d979b5ff-124e-49c4-ac05-23600170e583#ref=rss)
-* [https://www.spiegel.de/panorama/italien-illegale-technoparty-geraeumt-raven-bis-die-polizia-kommt](https://www.spiegel.de/panorama/italien-illegale-technoparty-geraeumt-raven-bis-die-polizia-kommt-a-6ca2e9c1-4df9-4645-aaab-011586db87b7#ref=rss)
-### neuer
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
+### joe
 
-* [https://www.spiegel.de/wissenschaft/mensch/klimaschutz-sofortprogramm-alle-sind-auf-spur-ausser-der-verkehr](https://www.spiegel.de/wissenschaft/mensch/klimaschutz-sofortprogramm-alle-sind-auf-spur-ausser-der-verkehr-a-d979b5ff-124e-49c4-ac05-23600170e583#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-lula-de-silva-gewinnt-praesidentschaftswahlen-vor-jair-bolsonaro](https://www.spiegel.de/ausland/brasilien-lula-de-silva-gewinnt-praesidentschaftswahlen-vor-jair-bolsonaro-a-40d7091d-6ed6-4387-8873-d3879d07189b#ref=rss)
-### kyrie
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
+### biden
 
-* [https://www.spiegel.de/sport/basketball/kyrie-irving-und-die-antisemitismus-kontroverse-der-kanye-west-des-basketballs](https://www.spiegel.de/sport/basketball/kyrie-irving-und-die-antisemitismus-kontroverse-der-kanye-west-des-basketballs-a-84cb7aae-a9ea-46e0-b00f-275575b2038e#ref=rss)
-### irving
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/sport/basketball/kyrie-irving-und-die-antisemitismus-kontroverse-der-kanye-west-des-basketballs](https://www.spiegel.de/sport/basketball/kyrie-irving-und-die-antisemitismus-kontroverse-der-kanye-west-des-basketballs-a-84cb7aae-a9ea-46e0-b00f-275575b2038e#ref=rss)
-### deutlich
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck](https://www.spiegel.de/ausland/midterms-in-den-usa-macht-die-inflation-joe-biden-zur-lame-duck-a-434d2bd9-fc6f-4471-bc19-14d6a2fc78f9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder](https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder-a-81b20a2b-50aa-4df0-9159-777ad28ca9ea#ref=rss)
+### gideon
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-laestert-ueber-radikale-klimaaktivisten-etwas-kreativitaet-koennte-helfen](https://www.spiegel.de/politik/deutschland/olaf-scholz-laestert-ueber-radikale-klimaaktivisten-etwas-kreativitaet-koennte-helfen-a-cfde653d-f125-4462-ae5e-d1123a697ac3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe](https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe-a-bf838870-f642-4826-ae21-bde98e45dbd7#ref=rss)
-### spd
+* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
+### rachman
 
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-spd-und-gruene-einigen-sich-auf-koalition](https://www.spiegel.de/politik/deutschland/niedersachsen-spd-und-gruene-einigen-sich-auf-koalition-a-12e423d3-9dac-4126-9665-705ff1834d1f#ref=rss)
-### grüne
+* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
+### autokraten
 
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-spd-und-gruene-einigen-sich-auf-koalition](https://www.spiegel.de/politik/deutschland/niedersachsen-spd-und-gruene-einigen-sich-auf-koalition-a-12e423d3-9dac-4126-9665-705ff1834d1f#ref=rss)
-### vier
+* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
+### putin
 
-* [https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird](https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird-a-69718e78-15f4-4e45-8a55-62bfe812d39f#ref=rss)
-* [https://www.spiegel.de/ausland/iran-schriftsteller-amir-hassan-cheheltan-ueber-sein-land-die-bluttriefende-wunde](https://www.spiegel.de/ausland/iran-schriftsteller-amir-hassan-cheheltan-ueber-sein-land-die-bluttriefende-wunde-a-39e78c7e-a785-4446-8199-4e3c3325bba7#ref=rss)
-### regieren
+* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
+* [https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald](https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald-a-ef1957bb-9467-41eb-8d66-9adf4f9c1766#ref=rss)
+### welt
 
-* [https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird](https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird-a-69718e78-15f4-4e45-8a55-62bfe812d39f#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-lula-de-silva-gewinnt-praesidentschaftswahlen-vor-jair-bolsonaro](https://www.spiegel.de/ausland/brasilien-lula-de-silva-gewinnt-praesidentschaftswahlen-vor-jair-bolsonaro-a-40d7091d-6ed6-4387-8873-d3879d07189b#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird](https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird-a-69718e78-15f4-4e45-8a55-62bfe812d39f#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-lula-de-silva-gewinnt-praesidentschaftswahlen-vor-jair-bolsonaro](https://www.spiegel.de/ausland/brasilien-lula-de-silva-gewinnt-praesidentschaftswahlen-vor-jair-bolsonaro-a-40d7091d-6ed6-4387-8873-d3879d07189b#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird](https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird-a-69718e78-15f4-4e45-8a55-62bfe812d39f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bdi-brisantes-grundsatzpapier-mehr-politik-weniger-profit](https://www.spiegel.de/wirtschaft/bdi-brisantes-grundsatzpapier-mehr-politik-weniger-profit-a-836f3232-6115-4242-89ac-63b65c2407b4#ref=rss)
-### keinen
-
-* [https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird](https://www.spiegel.de/ausland/brasilien-wie-lula-in-den-kommenden-vier-jahren-regieren-wird-a-69718e78-15f4-4e45-8a55-62bfe812d39f#ref=rss)
-* [https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht](https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht-a-cec4d76f-434f-4eda-b5dc-18be3a475e53#ref=rss)
-### bdi
-
-* [https://www.spiegel.de/wirtschaft/bdi-brisantes-grundsatzpapier-mehr-politik-weniger-profit](https://www.spiegel.de/wirtschaft/bdi-brisantes-grundsatzpapier-mehr-politik-weniger-profit-a-836f3232-6115-4242-89ac-63b65c2407b4#ref=rss)
-### politik
-
-* [https://www.spiegel.de/wirtschaft/bdi-brisantes-grundsatzpapier-mehr-politik-weniger-profit](https://www.spiegel.de/wirtschaft/bdi-brisantes-grundsatzpapier-mehr-politik-weniger-profit-a-836f3232-6115-4242-89ac-63b65c2407b4#ref=rss)
-### rolle
-
-* [https://www.spiegel.de/wirtschaft/bdi-brisantes-grundsatzpapier-mehr-politik-weniger-profit](https://www.spiegel.de/wirtschaft/bdi-brisantes-grundsatzpapier-mehr-politik-weniger-profit-a-836f3232-6115-4242-89ac-63b65c2407b4#ref=rss)
-* [https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu](https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu-a-99c851ef-5eb8-4d14-9958-e0c2e3032d47#ref=rss)
-### israels
-
-* [https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu](https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu-a-99c851ef-5eb8-4d14-9958-e0c2e3032d47#ref=rss)
-### ehud
-
-* [https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu](https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu-a-99c851ef-5eb8-4d14-9958-e0c2e3032d47#ref=rss)
-### olmert
-
-* [https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu](https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu-a-99c851ef-5eb8-4d14-9958-e0c2e3032d47#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu](https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu-a-99c851ef-5eb8-4d14-9958-e0c2e3032d47#ref=rss)
-### benjamin
-
-* [https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu](https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu-a-99c851ef-5eb8-4d14-9958-e0c2e3032d47#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu](https://www.spiegel.de/ausland/israels-ex-premier-ehud-olmert-warnt-vor-seinem-nachfolger-benjamin-netanyahu-a-99c851ef-5eb8-4d14-9958-e0c2e3032d47#ref=rss)
-### übergewicht
-
-* [https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht](https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht-a-cec4d76f-434f-4eda-b5dc-18be3a475e53#ref=rss)
-### rund
-
-* [https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht](https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht-a-cec4d76f-434f-4eda-b5dc-18be3a475e53#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe](https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe-a-bf838870-f642-4826-ae21-bde98e45dbd7#ref=rss)
+* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
 ### sagt
 
-* [https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht](https://www.spiegel.de/fitness/sport-trotz-uebergewicht-viele-haben-traumatische-erfahrungen-gemacht-a-cec4d76f-434f-4eda-b5dc-18be3a475e53#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann-a-442c4fb4-a246-4807-817e-49e7fbd122d3#ref=rss)
-### seoul
+* [https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker](https://www.spiegel.de/ausland/gideon-rachman-ueber-autokraten-schlechte-zeiten-sind-gut-fuer-macho-politiker-a-34d2e2dc-e068-463c-a236-d4882129a16c#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte-a-fa23a8f5-0059-4b41-bf1c-92e8acdd48a5#ref=rss)
+### cormac
 
-* [https://www.spiegel.de/ausland/suedkorea-massengedraenge-in-seoul-itaewon-und-danach](https://www.spiegel.de/ausland/suedkorea-massengedraenge-in-seoul-itaewon-und-danach-a-00d97341-3cab-4091-9902-b4fe8e4732f3#ref=rss)
-### geben
+* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
+### schauspieler
 
-* [https://www.spiegel.de/ausland/suedkorea-massengedraenge-in-seoul-itaewon-und-danach](https://www.spiegel.de/ausland/suedkorea-massengedraenge-in-seoul-itaewon-und-danach-a-00d97341-3cab-4091-9902-b4fe8e4732f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe](https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe-a-bf838870-f642-4826-ae21-bde98e45dbd7#ref=rss)
-### nsuakten
+* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
+### tim
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann-a-442c4fb4-a246-4807-817e-49e7fbd122d3#ref=rss)
-### jan
+* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
+### sohn
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann-a-442c4fb4-a246-4807-817e-49e7fbd122d3#ref=rss)
-### böhmermann
+* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
+### knapp
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann-a-442c4fb4-a246-4807-817e-49e7fbd122d3#ref=rss)
-### vorgehen
+* [https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn](https://www.spiegel.de/panorama/leute/cormac-roth-an-krebs-gestorben-schauspieler-tim-roth-trauert-um-sohn-a-e0a637af-122d-4c15-a5c3-8df6bb03c0b1#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte-a-fa23a8f5-0059-4b41-bf1c-92e8acdd48a5#ref=rss)
+### heidi
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-veroeffentlichung-von-nsu-akten-durch-jan-boehmermann-a-442c4fb4-a246-4807-817e-49e7fbd122d3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe](https://www.spiegel.de/politik/deutschland/bundesregierung-verurteilt-gewalt-in-iran-mit-aller-schaerfe-a-bf838870-f642-4826-ae21-bde98e45dbd7#ref=rss)
-### berlin
+* [https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin](https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin-a-2f91aca8-2b43-4c50-941c-94e1bcc161b5#ref=rss)
+### klum
 
-* [https://www.spiegel.de/panorama/berlin-betonmischer-ueberrollt-radfahrerin](https://www.spiegel.de/panorama/berlin-betonmischer-ueberrollt-radfahrerin-a-6bf85adf-7fef-4f0f-bb49-13459fc9258a#ref=rss)
-### radfahrerin
+* [https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin](https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin-a-2f91aca8-2b43-4c50-941c-94e1bcc161b5#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/panorama/berlin-betonmischer-ueberrollt-radfahrerin](https://www.spiegel.de/panorama/berlin-betonmischer-ueberrollt-radfahrerin-a-6bf85adf-7fef-4f0f-bb49-13459fc9258a#ref=rss)
-### wetter
+* [https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin](https://www.spiegel.de/panorama/gesellschaft/heidi-klum-halloween-party-in-new-york-im-wurm-drin-a-2f91aca8-2b43-4c50-941c-94e1bcc161b5#ref=rss)
+* [https://www.spiegel.de/kultur/musik/komponist-olafur-arnalds-den-widerspruechen-trotzen](https://www.spiegel.de/kultur/musik/komponist-olafur-arnalds-den-widerspruechen-trotzen-a-7d8e9dd5-0002-0001-0000-000207163444#ref=rss)
+### verena
 
-* [https://www.spiegel.de/panorama/wetter-oktober-mit-durchschnittlich-zwoelfeinhalb-grad-extrem-warm](https://www.spiegel.de/panorama/wetter-oktober-mit-durchschnittlich-zwoelfeinhalb-grad-extrem-warm-a-2c9d9f9d-3434-493d-a136-3b358994215b#ref=rss)
-### oktober
+* [https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke](https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke-a-5e7a64a8-e1e7-43b2-8ffd-caec92b743e6#ref=rss)
+### bahlsen
 
-* [https://www.spiegel.de/panorama/wetter-oktober-mit-durchschnittlich-zwoelfeinhalb-grad-extrem-warm](https://www.spiegel.de/panorama/wetter-oktober-mit-durchschnittlich-zwoelfeinhalb-grad-extrem-warm-a-2c9d9f9d-3434-493d-a136-3b358994215b#ref=rss)
-### illegale
+* [https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke](https://www.spiegel.de/wirtschaft/unternehmen/verena-bahlsen-zu-ihrem-ruecktritt-ich-stand-in-einem-weizenfeld-und-hatte-eine-panikattacke-a-5e7a64a8-e1e7-43b2-8ffd-caec92b743e6#ref=rss)
+### ólafur
 
-* [https://www.spiegel.de/panorama/italien-illegale-technoparty-geraeumt-raven-bis-die-polizia-kommt](https://www.spiegel.de/panorama/italien-illegale-technoparty-geraeumt-raven-bis-die-polizia-kommt-a-6ca2e9c1-4df9-4645-aaab-011586db87b7#ref=rss)
-### geräumt
+* [https://www.spiegel.de/kultur/musik/komponist-olafur-arnalds-den-widerspruechen-trotzen](https://www.spiegel.de/kultur/musik/komponist-olafur-arnalds-den-widerspruechen-trotzen-a-7d8e9dd5-0002-0001-0000-000207163444#ref=rss)
+### arnalds
 
-* [https://www.spiegel.de/panorama/italien-illegale-technoparty-geraeumt-raven-bis-die-polizia-kommt](https://www.spiegel.de/panorama/italien-illegale-technoparty-geraeumt-raven-bis-die-polizia-kommt-a-6ca2e9c1-4df9-4645-aaab-011586db87b7#ref=rss)
-### lori
+* [https://www.spiegel.de/kultur/musik/komponist-olafur-arnalds-den-widerspruechen-trotzen](https://www.spiegel.de/kultur/musik/komponist-olafur-arnalds-den-widerspruechen-trotzen-a-7d8e9dd5-0002-0001-0000-000207163444#ref=rss)
+### land
 
-* [https://www.spiegel.de/stil/halloween-lori-castellon-aus-kalifornien-kreiert-gruseliges-essen](https://www.spiegel.de/stil/halloween-lori-castellon-aus-kalifornien-kreiert-gruseliges-essen-a-aba8f1d9-2b67-4e17-a8a3-47038c426f2d#ref=rss)
-### castellon
+* [https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte](https://www.spiegel.de/ausland/brasilien-wahl-wie-es-in-dem-gespaltenen-land-weitergehen-koennte-a-fa23a8f5-0059-4b41-bf1c-92e8acdd48a5#ref=rss)
+* [https://www.spiegel.de/ausland/indien-im-kampf-gegen-die-plastikmassen-was-bringt-das-verbot-von-einwegverpackungen](https://www.spiegel.de/ausland/indien-im-kampf-gegen-die-plastikmassen-was-bringt-das-verbot-von-einwegverpackungen-a-54b42317-f1e9-4184-9377-f616af0d6f1e#ref=rss)
+### reise
 
-* [https://www.spiegel.de/stil/halloween-lori-castellon-aus-kalifornien-kreiert-gruseliges-essen](https://www.spiegel.de/stil/halloween-lori-castellon-aus-kalifornien-kreiert-gruseliges-essen-a-aba8f1d9-2b67-4e17-a8a3-47038c426f2d#ref=rss)
+* [https://www.spiegel.de/reise/europa/luxusurlaub-in-castelfalfi-beim-fruehstueck-schwebt-nebel-zwischen-den-huegeln-der-toskana](https://www.spiegel.de/reise/europa/luxusurlaub-in-castelfalfi-beim-fruehstueck-schwebt-nebel-zwischen-den-huegeln-der-toskana-a-d7a14f94-c9ee-4804-aa97-a9e6260619d4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich](https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich-a-176ad053-5994-4086-9e0a-7cdc11762a0d#ref=rss)
+### du
+
+* [https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald](https://www.spiegel.de/panorama/wir-ostdeutschen-wladimir-putin-und-die-pilze-im-wald-a-ef1957bb-9467-41eb-8d66-9adf4f9c1766#ref=rss)
+### juli
+
+* [https://www.spiegel.de/ausland/indien-im-kampf-gegen-die-plastikmassen-was-bringt-das-verbot-von-einwegverpackungen](https://www.spiegel.de/ausland/indien-im-kampf-gegen-die-plastikmassen-was-bringt-das-verbot-von-einwegverpackungen-a-54b42317-f1e9-4184-9377-f616af0d6f1e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen-a-417b6f32-654f-4cf7-9cb9-1a5ea9206cf5#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen-a-417b6f32-654f-4cf7-9cb9-1a5ea9206cf5#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen-a-417b6f32-654f-4cf7-9cb9-1a5ea9206cf5#ref=rss)
+### deutschlands
+
+* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen](https://www.spiegel.de/politik/deutschland/annalena-baerbock-olaf-scholz-soll-deutschlands-haltung-in-china-deutlich-machen-a-417b6f32-654f-4cf7-9cb9-1a5ea9206cf5#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-wasserversorgung-in-kiew-laeuft-laut-vitali-klitschko-wieder-a-e9f47b5e-3bb7-4474-97e2-c064a98e80e4#ref=rss)
+### chicago
+
+* [https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder](https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder-a-81b20a2b-50aa-4df0-9159-777ad28ca9ea#ref=rss)
+### mindestens
+
+* [https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder](https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder-a-81b20a2b-50aa-4df0-9159-777ad28ca9ea#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder](https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder-a-81b20a2b-50aa-4df0-9159-777ad28ca9ea#ref=rss)
+### drei
+
+* [https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder](https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder-a-81b20a2b-50aa-4df0-9159-777ad28ca9ea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
+### ermittler
+
+* [https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder](https://www.spiegel.de/panorama/justiz/drive-by-shooting-an-halloween-mindestens-14-verletzte-nach-schuessen-in-chicago-darunter-mehrere-kinder-a-81b20a2b-50aa-4df0-9159-777ad28ca9ea#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lady-of-the-dunes-fbi-identifiziert-mordopfer-48-jahre-nach-ihrer-entdeckung](https://www.spiegel.de/panorama/justiz/lady-of-the-dunes-fbi-identifiziert-mordopfer-48-jahre-nach-ihrer-entdeckung-a-f09141ec-bed4-4d5a-864f-98d4660e52a8#ref=rss)
+### saudi
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
+### aramco
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten](https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-verdient-fast-42-milliarden-dollar-in-drei-monaten-a-7a15a5f0-5fe9-4663-9c5b-f1c4fc255c36#ref=rss)
+### identifiziert
+
+* [https://www.spiegel.de/panorama/justiz/lady-of-the-dunes-fbi-identifiziert-mordopfer-48-jahre-nach-ihrer-entdeckung](https://www.spiegel.de/panorama/justiz/lady-of-the-dunes-fbi-identifiziert-mordopfer-48-jahre-nach-ihrer-entdeckung-a-f09141ec-bed4-4d5a-864f-98d4660e52a8#ref=rss)
+### giorgia
+
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-ernennt-umstrittenen-vizeminister](https://www.spiegel.de/ausland/italien-giorgia-meloni-ernennt-umstrittenen-vizeminister-a-9c72bbe6-7f0c-443a-a8a8-573b6a7d89aa#ref=rss)
+### meloni
+
+* [https://www.spiegel.de/ausland/italien-giorgia-meloni-ernennt-umstrittenen-vizeminister](https://www.spiegel.de/ausland/italien-giorgia-meloni-ernennt-umstrittenen-vizeminister-a-9c72bbe6-7f0c-443a-a8a8-573b6a7d89aa#ref=rss)
+### menschenrechtsbeauftragte
+
+* [https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich](https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich-a-176ad053-5994-4086-9e0a-7cdc11762a0d#ref=rss)
+### luise
+
+* [https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich](https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich-a-176ad053-5994-4086-9e0a-7cdc11762a0d#ref=rss)
+### amtsberg
+
+* [https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich](https://www.spiegel.de/politik/deutschland/menschenrechtsbeauftragte-luise-amtsberg-der-regierung-warum-so-zoegerlich-a-176ad053-5994-4086-9e0a-7cdc11762a0d#ref=rss)
+### produktion
+
+* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-jede-zwoelfte-industriefirma-will-produktion-verlagern](https://www.spiegel.de/wirtschaft/soziales/energiekrise-jede-zwoelfte-industriefirma-will-produktion-verlagern-a-6a1d507b-fc77-4fe1-b0e1-d9029737d3d9#ref=rss)
+### verlagern
+
+* [https://www.spiegel.de/wirtschaft/soziales/energiekrise-jede-zwoelfte-industriefirma-will-produktion-verlagern](https://www.spiegel.de/wirtschaft/soziales/energiekrise-jede-zwoelfte-industriefirma-will-produktion-verlagern-a-6a1d507b-fc77-4fe1-b0e1-d9029737d3d9#ref=rss)
+### blitzcoronalockdown
+
+* [https://www.spiegel.de/panorama/gesellschaft/blitz-corona-lockdown-in-china-besucher-in-disneylang-shanghai-festgehalten](https://www.spiegel.de/panorama/gesellschaft/blitz-corona-lockdown-in-china-besucher-in-disneylang-shanghai-festgehalten-a-742deb1a-0fab-4514-807e-9de8658c0a7b#ref=rss)
+### shanghai
+
+* [https://www.spiegel.de/panorama/gesellschaft/blitz-corona-lockdown-in-china-besucher-in-disneylang-shanghai-festgehalten](https://www.spiegel.de/panorama/gesellschaft/blitz-corona-lockdown-in-china-besucher-in-disneylang-shanghai-festgehalten-a-742deb1a-0fab-4514-807e-9de8658c0a7b#ref=rss)
 
