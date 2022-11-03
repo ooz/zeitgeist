@@ -4,279 +4,317 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
+### china
+
+* [https://www.spiegel.de/wirtschaft/hamburger-hafen-china-verbittet-sich-einmischung-der-usa-im-hafen-deal](https://www.spiegel.de/wirtschaft/hamburger-hafen-china-verbittet-sich-einmischung-der-usa-im-hafen-deal-a-927f4162-1eb8-43e4-bb8e-730eb0534d10#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan](https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan-a-64ac009a-cf7b-476a-a022-39fc9f95e00e#ref=rss)
+* [https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-untersagt-auslieferung-nach-china](https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-untersagt-auslieferung-nach-china-a-0b44040a-4a79-4c5a-8c97-695574530dad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/g7-aussenminister-treffen-in-muenster-die-krisen-dieser-welt-in-zwei-tagen](https://www.spiegel.de/politik/deutschland/g7-aussenminister-treffen-in-muenster-die-krisen-dieser-welt-in-zwei-tagen-a-8fb2ca99-99ab-428a-8265-c2f17ac82aa8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-olaf-scholz-reise-autoindustrie-und-mittelstand-warnen-vor-china-aus](https://www.spiegel.de/wirtschaft/unternehmen/vor-olaf-scholz-reise-autoindustrie-und-mittelstand-warnen-vor-china-aus-a-7e9b8620-527d-4c39-9cd0-1634d3524111#ref=rss)
+### ich
+
+* [https://www.spiegel.de/panorama/leute/emily-ratajkowski-ich-bin-niemandem-etwas-schuldig-ausser-meinem-sohn](https://www.spiegel.de/panorama/leute/emily-ratajkowski-ich-bin-niemandem-etwas-schuldig-ausser-meinem-sohn-a-a33c44ca-5116-4539-a669-e480fc131db7#ref=rss)
+* [https://www.spiegel.de/gesundheit/schwangerschaft/sport-in-der-schwangerschaft-sagen-sie-jetzt-nicht-dass-nur-yoga-okay-ist](https://www.spiegel.de/gesundheit/schwangerschaft/sport-in-der-schwangerschaft-sagen-sie-jetzt-nicht-dass-nur-yoga-okay-ist-a-1c67a4c7-752c-407d-95d6-83e0aa83c80e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-ueber-karrieretipp-von-adele-ich-haette-auf-sie-hoeren-sollen](https://www.spiegel.de/panorama/leute/jennifer-lawrence-ueber-karrieretipp-von-adele-ich-haette-auf-sie-hoeren-sollen-a-0f333ac5-79d5-4fa3-8f23-06440eb7072f#ref=rss)
+### 49euroticket
+
+* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer-a-174b90de-8d77-4fae-9fec-d9a0882569c2#ref=rss)
+* [https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif](https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif-a-a5f7ef62-c14a-4372-a1dc-c02bd75e990a#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wissenschaft/medizin/adipositas-zahl-der-kinder-mit-krankhaftem-uebergewicht-nimmt-stark-zu](https://www.spiegel.de/wissenschaft/medizin/adipositas-zahl-der-kinder-mit-krankhaftem-uebergewicht-nimmt-stark-zu-a-98b0af15-5fdb-41f2-9de2-2b0c9445441d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-ueber-85-prozent](https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-ueber-85-prozent-a-caadd21e-0623-4fdd-8fbb-352a42c17c82#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wissenschaft/medizin/adipositas-zahl-der-kinder-mit-krankhaftem-uebergewicht-nimmt-stark-zu](https://www.spiegel.de/wissenschaft/medizin/adipositas-zahl-der-kinder-mit-krankhaftem-uebergewicht-nimmt-stark-zu-a-98b0af15-5fdb-41f2-9de2-2b0c9445441d#ref=rss)
+* [https://www.spiegel.de/panorama/philippinen-mindestens-150-tote-durch-tropensturm-nalgae](https://www.spiegel.de/panorama/philippinen-mindestens-150-tote-durch-tropensturm-nalgae-a-d22ca356-6842-42a8-a71f-9187c94e38e7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer-a-174b90de-8d77-4fae-9fec-d9a0882569c2#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/hamburger-hafen-china-verbittet-sich-einmischung-der-usa-im-hafen-deal](https://www.spiegel.de/wirtschaft/hamburger-hafen-china-verbittet-sich-einmischung-der-usa-im-hafen-deal-a-927f4162-1eb8-43e4-bb8e-730eb0534d10#ref=rss)
+* [https://www.spiegel.de/geschichte/josef-eisinger-wir-haben-hitler-nicht-ernst-genommen-wir-haben-dafuer-bezahlt](https://www.spiegel.de/geschichte/josef-eisinger-wir-haben-hitler-nicht-ernst-genommen-wir-haben-dafuer-bezahlt-a-d97b4699-a70f-4d26-8360-e54588bb90f3#ref=rss)
+### russland
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan](https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan-a-64ac009a-cf7b-476a-a022-39fc9f95e00e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/g7-aussenminister-treffen-in-muenster-die-krisen-dieser-welt-in-zwei-tagen](https://www.spiegel.de/politik/deutschland/g7-aussenminister-treffen-in-muenster-die-krisen-dieser-welt-in-zwei-tagen-a-8fb2ca99-99ab-428a-8265-c2f17ac82aa8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-akw-saporischschja-laut-betreiber-nach-beschuss-erneut-vom-stromnetz-getrennt](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-akw-saporischschja-laut-betreiber-nach-beschuss-erneut-vom-stromnetz-getrennt-a-7e16da83-5377-4114-847f-8a0f4612b68c#ref=rss)
+### whatsapp
+
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-betrug-so-schuetzen-sie-sich-und-andere](https://www.spiegel.de/netzwelt/apps/whatsapp-betrug-so-schuetzen-sie-sich-und-andere-a-003152c6-afb6-4c60-8cae-06b32ef668cd#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-messenger-fuehrt-neue-funktion-communitys-weltweit-ein](https://www.spiegel.de/netzwelt/apps/whatsapp-messenger-fuehrt-neue-funktion-communitys-weltweit-ein-a-2a1be4a6-911c-42ab-88bd-6fac34cb95d9#ref=rss)
+### andere
+
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-betrug-so-schuetzen-sie-sich-und-andere](https://www.spiegel.de/netzwelt/apps/whatsapp-betrug-so-schuetzen-sie-sich-und-andere-a-003152c6-afb6-4c60-8cae-06b32ef668cd#ref=rss)
+* [https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-untersagt-auslieferung-nach-china](https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-untersagt-auslieferung-nach-china-a-0b44040a-4a79-4c5a-8c97-695574530dad#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/g7-aussenminister-treffen-in-muenster-die-krisen-dieser-welt-in-zwei-tagen](https://www.spiegel.de/politik/deutschland/g7-aussenminister-treffen-in-muenster-die-krisen-dieser-welt-in-zwei-tagen-a-8fb2ca99-99ab-428a-8265-c2f17ac82aa8#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken](https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken-a-fc282ad0-5f53-4c50-a99d-d87e060248a1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wmo-temperaturen-in-europa-steigen-doppelt-so-schnell-wie-im-globalen-durchschnitt](https://www.spiegel.de/wissenschaft/wmo-temperaturen-in-europa-steigen-doppelt-so-schnell-wie-im-globalen-durchschnitt-a-34e03dca-2c07-4ffe-9684-b02cf5c2d307#ref=rss)
-* [https://www.spiegel.de/wirtschaft/holzdiebstahl-in-deutschen-waeldern-da-ist-eine-internationale-holzmafia-am-werk](https://www.spiegel.de/wirtschaft/holzdiebstahl-in-deutschen-waeldern-da-ist-eine-internationale-holzmafia-am-werk-a-062f0a4e-80fc-413c-8f26-540258326191#ref=rss)
-* [https://www.spiegel.de/kultur/musik/reggae-kuenstler-gentleman-ueber-kulturelle-aneignung-als-schwarzer-jamaikaner-waere-ich-nicht-so-erfolgreich](https://www.spiegel.de/kultur/musik/reggae-kuenstler-gentleman-ueber-kulturelle-aneignung-als-schwarzer-jamaikaner-waere-ich-nicht-so-erfolgreich-a-e546f4b7-945d-4dd9-b2e8-27dbb5b64735#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/protestaktionen-der-letzten-generation-das-kollektive-vermeiden](https://www.spiegel.de/politik/deutschland/protestaktionen-der-letzten-generation-das-kollektive-vermeiden-a-b8e3eec9-3094-46aa-85b3-a7efbc032c5f#ref=rss)
-* [https://www.spiegel.de/ausland/barack-obama-es-werden-noch-mehr-menschen-verletzt](https://www.spiegel.de/ausland/barack-obama-es-werden-noch-mehr-menschen-verletzt-a-501e3ad5-aec8-4fd5-a7df-ee866c907a22#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-betrug-so-schuetzen-sie-sich-und-andere](https://www.spiegel.de/netzwelt/apps/whatsapp-betrug-so-schuetzen-sie-sich-und-andere-a-003152c6-afb6-4c60-8cae-06b32ef668cd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-immer-mehr-deutsche-glauben-an-russische-propaganda](https://www.spiegel.de/politik/deutschland/ukraine-krieg-immer-mehr-deutsche-glauben-an-russische-propaganda-a-83136dcd-858e-4e5c-a6fc-93163610d8ae#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-ueberfluegelt-michael-jordan-und-stellt-60-jahre-alte-bestmarke-ein](https://www.spiegel.de/sport/basketball/nba-luka-doncic-ueberfluegelt-michael-jordan-und-stellt-60-jahre-alte-bestmarke-ein-a-5908ef39-c2fa-490f-97ae-6df0c2c57b57#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-betrug-so-schuetzen-sie-sich-und-andere](https://www.spiegel.de/netzwelt/apps/whatsapp-betrug-so-schuetzen-sie-sich-und-andere-a-003152c6-afb6-4c60-8cae-06b32ef668cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer-a-174b90de-8d77-4fae-9fec-d9a0882569c2#ref=rss)
+### russische
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-immer-mehr-deutsche-glauben-an-russische-propaganda](https://www.spiegel.de/politik/deutschland/ukraine-krieg-immer-mehr-deutsche-glauben-an-russische-propaganda-a-83136dcd-858e-4e5c-a6fc-93163610d8ae#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-akw-saporischschja-laut-betreiber-nach-beschuss-erneut-vom-stromnetz-getrennt](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-akw-saporischschja-laut-betreiber-nach-beschuss-erneut-vom-stromnetz-getrennt-a-7e16da83-5377-4114-847f-8a0f4612b68c#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/justiz/essen-osnabrueck-fahndern-gelingt-schlag-gegen-illegalen-zigarettenhandel](https://www.spiegel.de/panorama/justiz/essen-osnabrueck-fahndern-gelingt-schlag-gegen-illegalen-zigarettenhandel-a-6cc6b0cd-3e1e-4e88-b8df-ea1bc4c13d67#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/letzte-generation-frank-walter-steinmeier-fuerchtet-schaden-fuer-klimaschutzbewegung](https://www.spiegel.de/politik/deutschland/letzte-generation-frank-walter-steinmeier-fuerchtet-schaden-fuer-klimaschutzbewegung-a-619286f1-5728-4cf4-b7d5-8dbaeb71fe85#ref=rss)
+* [https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif](https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif-a-a5f7ef62-c14a-4372-a1dc-c02bd75e990a#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/wissenschaft/unesco-2050-werden-die-gletscher-in-einem-drittel-der-weltnaturerbestaetten-geschmolzen-sein](https://www.spiegel.de/wissenschaft/unesco-2050-werden-die-gletscher-in-einem-drittel-der-weltnaturerbestaetten-geschmolzen-sein-a-168704f1-dacd-4a77-afe5-dbcb80d29078#ref=rss)
+* [https://www.spiegel.de/geschichte/josef-eisinger-wir-haben-hitler-nicht-ernst-genommen-wir-haben-dafuer-bezahlt](https://www.spiegel.de/geschichte/josef-eisinger-wir-haben-hitler-nicht-ernst-genommen-wir-haben-dafuer-bezahlt-a-d97b4699-a70f-4d26-8360-e54588bb90f3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-verstaatlichung-uniper-erwartet-bis-jahresende-vervierfachung-der-verluste](https://www.spiegel.de/wirtschaft/unternehmen/vor-verstaatlichung-uniper-erwartet-bis-jahresende-vervierfachung-der-verluste-a-7fa6f9ba-68cc-4891-aa7b-93a247fc73da#ref=rss)
+### wichtige
+
+* [https://www.spiegel.de/politik/deutschland/g7-aussenminister-treffen-in-muenster-die-krisen-dieser-welt-in-zwei-tagen](https://www.spiegel.de/politik/deutschland/g7-aussenminister-treffen-in-muenster-die-krisen-dieser-welt-in-zwei-tagen-a-8fb2ca99-99ab-428a-8265-c2f17ac82aa8#ref=rss)
+* [https://www.spiegel.de/ausland/marjorie-taylor-greene-quaelt-joe-biden-republikaner-sprechen-ueber-impeachment-verfahren](https://www.spiegel.de/ausland/marjorie-taylor-greene-quaelt-joe-biden-republikaner-sprechen-ueber-impeachment-verfahren-a-597f02b1-ddb6-4419-b974-f793689df201#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-olaf-scholz-reise-autoindustrie-und-mittelstand-warnen-vor-china-aus](https://www.spiegel.de/wirtschaft/unternehmen/vor-olaf-scholz-reise-autoindustrie-und-mittelstand-warnen-vor-china-aus-a-7e9b8620-527d-4c39-9cd0-1634d3524111#ref=rss)
+### nba
+
+* [https://www.spiegel.de/sport/basketball/antisemitismus-kontroverse-in-der-nba-kyrie-irving-zahlt-500-000-dollar](https://www.spiegel.de/sport/basketball/antisemitismus-kontroverse-in-der-nba-kyrie-irving-zahlt-500-000-dollar-a-8e8522c7-0127-4dc0-88e4-428ee88a52da#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-ueberfluegelt-michael-jordan-und-stellt-60-jahre-alte-bestmarke-ein](https://www.spiegel.de/sport/basketball/nba-luka-doncic-ueberfluegelt-michael-jordan-und-stellt-60-jahre-alte-bestmarke-ein-a-5908ef39-c2fa-490f-97ae-6df0c2c57b57#ref=rss)
+### kyrie
+
+* [https://www.spiegel.de/sport/basketball/antisemitismus-kontroverse-in-der-nba-kyrie-irving-zahlt-500-000-dollar](https://www.spiegel.de/sport/basketball/antisemitismus-kontroverse-in-der-nba-kyrie-irving-zahlt-500-000-dollar-a-8e8522c7-0127-4dc0-88e4-428ee88a52da#ref=rss)
+### irving
+
+* [https://www.spiegel.de/sport/basketball/antisemitismus-kontroverse-in-der-nba-kyrie-irving-zahlt-500-000-dollar](https://www.spiegel.de/sport/basketball/antisemitismus-kontroverse-in-der-nba-kyrie-irving-zahlt-500-000-dollar-a-8e8522c7-0127-4dc0-88e4-428ee88a52da#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/wissenschaft/medizin/adipositas-zahl-der-kinder-mit-krankhaftem-uebergewicht-nimmt-stark-zu](https://www.spiegel.de/wissenschaft/medizin/adipositas-zahl-der-kinder-mit-krankhaftem-uebergewicht-nimmt-stark-zu-a-98b0af15-5fdb-41f2-9de2-2b0c9445441d#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/wissenschaft/medizin/adipositas-zahl-der-kinder-mit-krankhaftem-uebergewicht-nimmt-stark-zu](https://www.spiegel.de/wissenschaft/medizin/adipositas-zahl-der-kinder-mit-krankhaftem-uebergewicht-nimmt-stark-zu-a-98b0af15-5fdb-41f2-9de2-2b0c9445441d#ref=rss)
+### sport
+
+* [https://www.spiegel.de/wissenschaft/medizin/adipositas-zahl-der-kinder-mit-krankhaftem-uebergewicht-nimmt-stark-zu](https://www.spiegel.de/wissenschaft/medizin/adipositas-zahl-der-kinder-mit-krankhaftem-uebergewicht-nimmt-stark-zu-a-98b0af15-5fdb-41f2-9de2-2b0c9445441d#ref=rss)
+* [https://www.spiegel.de/gesundheit/schwangerschaft/sport-in-der-schwangerschaft-sagen-sie-jetzt-nicht-dass-nur-yoga-okay-ist](https://www.spiegel.de/gesundheit/schwangerschaft/sport-in-der-schwangerschaft-sagen-sie-jetzt-nicht-dass-nur-yoga-okay-ist-a-1c67a4c7-752c-407d-95d6-83e0aa83c80e#ref=rss)
+### rund
+
+* [https://www.spiegel.de/wissenschaft/medizin/adipositas-zahl-der-kinder-mit-krankhaftem-uebergewicht-nimmt-stark-zu](https://www.spiegel.de/wissenschaft/medizin/adipositas-zahl-der-kinder-mit-krankhaftem-uebergewicht-nimmt-stark-zu-a-98b0af15-5fdb-41f2-9de2-2b0c9445441d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-osnabrueck-fahndern-gelingt-schlag-gegen-illegalen-zigarettenhandel](https://www.spiegel.de/panorama/justiz/essen-osnabrueck-fahndern-gelingt-schlag-gegen-illegalen-zigarettenhandel-a-6cc6b0cd-3e1e-4e88-b8df-ea1bc4c13d67#ref=rss)
+### hamburger
+
+* [https://www.spiegel.de/wirtschaft/hamburger-hafen-china-verbittet-sich-einmischung-der-usa-im-hafen-deal](https://www.spiegel.de/wirtschaft/hamburger-hafen-china-verbittet-sich-einmischung-der-usa-im-hafen-deal-a-927f4162-1eb8-43e4-bb8e-730eb0534d10#ref=rss)
+### hafen
+
+* [https://www.spiegel.de/wirtschaft/hamburger-hafen-china-verbittet-sich-einmischung-der-usa-im-hafen-deal](https://www.spiegel.de/wirtschaft/hamburger-hafen-china-verbittet-sich-einmischung-der-usa-im-hafen-deal-a-927f4162-1eb8-43e4-bb8e-730eb0534d10#ref=rss)
+### einstieg
+
+* [https://www.spiegel.de/wirtschaft/hamburger-hafen-china-verbittet-sich-einmischung-der-usa-im-hafen-deal](https://www.spiegel.de/wirtschaft/hamburger-hafen-china-verbittet-sich-einmischung-der-usa-im-hafen-deal-a-927f4162-1eb8-43e4-bb8e-730eb0534d10#ref=rss)
+* [https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif](https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif-a-a5f7ef62-c14a-4372-a1dc-c02bd75e990a#ref=rss)
+### kritisch
+
+* [https://www.spiegel.de/wirtschaft/hamburger-hafen-china-verbittet-sich-einmischung-der-usa-im-hafen-deal](https://www.spiegel.de/wirtschaft/hamburger-hafen-china-verbittet-sich-einmischung-der-usa-im-hafen-deal-a-927f4162-1eb8-43e4-bb8e-730eb0534d10#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-olaf-scholz-reise-autoindustrie-und-mittelstand-warnen-vor-china-aus](https://www.spiegel.de/wirtschaft/unternehmen/vor-olaf-scholz-reise-autoindustrie-und-mittelstand-warnen-vor-china-aus-a-7e9b8620-527d-4c39-9cd0-1634d3524111#ref=rss)
 ### scholz
 
-* [https://www.spiegel.de/politik/energiekrise-das-sind-die-ergebnisse-der-minsterpraesidentenkonferenz-livestream](https://www.spiegel.de/politik/energiekrise-das-sind-die-ergebnisse-der-minsterpraesidentenkonferenz-livestream-a-614189b8-24dd-4934-88bc-5a3be5507eee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht-a-7eefcfc7-aeb0-4542-b461-aaa389707fda#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-weist-kritik-an-seiner-china-reise-zurueck](https://www.spiegel.de/politik/deutschland/olaf-scholz-weist-kritik-an-seiner-china-reise-zurueck-a-57d751af-e06a-434d-a915-660aa3e7e098#ref=rss)
-### deutschen
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan](https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan-a-64ac009a-cf7b-476a-a022-39fc9f95e00e#ref=rss)
+### westbalkan
 
-* [https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015](https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015-a-9cd91d8a-a0c8-4a41-9cd2-873e3a37a82f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht-a-7eefcfc7-aeb0-4542-b461-aaa389707fda#ref=rss)
-* [https://www.spiegel.de/wirtschaft/insolvenzverfahren-fuer-galeria-karstadt-kaufhof-rene-benkos-sahnestuecke](https://www.spiegel.de/wirtschaft/insolvenzverfahren-fuer-galeria-karstadt-kaufhof-rene-benkos-sahnestuecke-a-260da886-cc64-4b59-8c7e-74c5db5902a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/holzdiebstahl-in-deutschen-waeldern-da-ist-eine-internationale-holzmafia-am-werk](https://www.spiegel.de/wirtschaft/holzdiebstahl-in-deutschen-waeldern-da-ist-eine-internationale-holzmafia-am-werk-a-062f0a4e-80fc-413c-8f26-540258326191#ref=rss)
-### staatsanwaltschaft
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan](https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan-a-64ac009a-cf7b-476a-a022-39fc9f95e00e#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-fordert-bewaehrungsstrafe-fuer-boateng](https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-fordert-bewaehrungsstrafe-fuer-boateng-a-a62d77b3-4d4e-44c5-9d35-ce23c8624c9d#ref=rss)
-* [https://www.spiegel.de/panorama/toedlicher-unfall-bei-osnabrueck-vierjaehriger-faellt-in-pool-staatsanwaltschaft-ermittelt](https://www.spiegel.de/panorama/toedlicher-unfall-bei-osnabrueck-vierjaehriger-faellt-in-pool-staatsanwaltschaft-ermittelt-a-a54e9c2e-1885-4c76-8bd6-9dfba7923bd5#ref=rss)
-### deutsche
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan](https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan-a-64ac009a-cf7b-476a-a022-39fc9f95e00e#ref=rss)
+### versuchen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb](https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb-a-c91ea702-756c-49d3-8e9f-b226c48f44dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht-a-7eefcfc7-aeb0-4542-b461-aaa389707fda#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-bewerbermangel-corona-spitzenlasten-so-sollen-die-probleme-geloest-werden](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-bewerbermangel-corona-spitzenlasten-so-sollen-die-probleme-geloest-werden-a-ad3f7163-9406-4dab-a012-8c4ed9a5a3f4#ref=rss)
-* [https://www.spiegel.de/kultur/musik/reggae-kuenstler-gentleman-ueber-kulturelle-aneignung-als-schwarzer-jamaikaner-waere-ich-nicht-so-erfolgreich](https://www.spiegel.de/kultur/musik/reggae-kuenstler-gentleman-ueber-kulturelle-aneignung-als-schwarzer-jamaikaner-waere-ich-nicht-so-erfolgreich-a-e546f4b7-945d-4dd9-b2e8-27dbb5b64735#ref=rss)
-### fußballbund
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan](https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan-a-64ac009a-cf7b-476a-a022-39fc9f95e00e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/co-speicher-seegras-wird-es-in-der-ostsee-zu-warm](https://www.spiegel.de/wissenschaft/natur/co-speicher-seegras-wird-es-in-der-ostsee-zu-warm-a-9b7b3f71-ad33-4d0f-9c63-6214eb808321#ref=rss)
+### gegenzusteuern
 
-* [https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015](https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015-a-9cd91d8a-a0c8-4a41-9cd2-873e3a37a82f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb](https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb-a-c91ea702-756c-49d3-8e9f-b226c48f44dd#ref=rss)
-### tv
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan](https://www.spiegel.de/politik/deutschland/olaf-scholz-betont-eu-perspektive-fuer-westbalkan-a-64ac009a-cf7b-476a-a022-39fc9f95e00e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/co-speicher-seegras-wird-es-in-der-ostsee-zu-warm](https://www.spiegel.de/wissenschaft/natur/co-speicher-seegras-wird-es-in-der-ostsee-zu-warm-a-9b7b3f71-ad33-4d0f-9c63-6214eb808321#ref=rss)
+### zunehmend
 
-* [https://www.spiegel.de/panorama/gesellschaft/ukraine-innenansichten-aus-einem-zerstoerten-land-massengraeber-folterkammern-und-vernichtung-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/ukraine-innenansichten-aus-einem-zerstoerten-land-massengraeber-folterkammern-und-vernichtung-spiegel-tv-a-9b9f7541-6238-49ea-96ad-fed89ad05c1e#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-tv-4k-amazon-fire-tv-cube-und-roku-express-4k-drei-streamingboxen-im-test](https://www.spiegel.de/netzwelt/gadgets/apple-tv-4k-amazon-fire-tv-cube-und-roku-express-4k-drei-streamingboxen-im-test-a-68eb80c5-0112-462b-b0a0-4c3b4d238a5d#ref=rss)
-### boateng
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-immer-mehr-deutsche-glauben-an-russische-propaganda](https://www.spiegel.de/politik/deutschland/ukraine-krieg-immer-mehr-deutsche-glauben-an-russische-propaganda-a-83136dcd-858e-4e5c-a6fc-93163610d8ae#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-olaf-scholz-reise-autoindustrie-und-mittelstand-warnen-vor-china-aus](https://www.spiegel.de/wirtschaft/unternehmen/vor-olaf-scholz-reise-autoindustrie-und-mittelstand-warnen-vor-china-aus-a-7e9b8620-527d-4c39-9cd0-1634d3524111#ref=rss)
+### miss
 
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-fordert-bewaehrungsstrafe-fuer-boateng](https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-fordert-bewaehrungsstrafe-fuer-boateng-a-a62d77b3-4d4e-44c5-9d35-ce23c8624c9d#ref=rss)
-### olaf
+* [https://www.spiegel.de/panorama/leute/miss-argentinien-und-miss-puerto-rico-haben-geheiratet](https://www.spiegel.de/panorama/leute/miss-argentinien-und-miss-puerto-rico-haben-geheiratet-a-a9cfd798-a5f1-4d0c-bc28-4efc57844e38#ref=rss)
+### emily
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht-a-7eefcfc7-aeb0-4542-b461-aaa389707fda#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-weist-kritik-an-seiner-china-reise-zurueck](https://www.spiegel.de/politik/deutschland/olaf-scholz-weist-kritik-an-seiner-china-reise-zurueck-a-57d751af-e06a-434d-a915-660aa3e7e098#ref=rss)
-### generation
+* [https://www.spiegel.de/panorama/leute/emily-ratajkowski-ich-bin-niemandem-etwas-schuldig-ausser-meinem-sohn](https://www.spiegel.de/panorama/leute/emily-ratajkowski-ich-bin-niemandem-etwas-schuldig-ausser-meinem-sohn-a-a33c44ca-5116-4539-a669-e480fc131db7#ref=rss)
+### ratajkowski
 
-* [https://www.spiegel.de/politik/deutschland/justizminister-buschmann-haelt-gefaengnisstrafen-fuer-klimaaktivisten-fuer-moeglich](https://www.spiegel.de/politik/deutschland/justizminister-buschmann-haelt-gefaengnisstrafen-fuer-klimaaktivisten-fuer-moeglich-a-f38f1b95-9367-482e-bae3-a22e19d37648#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/protestaktionen-der-letzten-generation-das-kollektive-vermeiden](https://www.spiegel.de/politik/deutschland/protestaktionen-der-letzten-generation-das-kollektive-vermeiden-a-b8e3eec9-3094-46aa-85b3-a7efbc032c5f#ref=rss)
-### pandemie
+* [https://www.spiegel.de/panorama/leute/emily-ratajkowski-ich-bin-niemandem-etwas-schuldig-ausser-meinem-sohn](https://www.spiegel.de/panorama/leute/emily-ratajkowski-ich-bin-niemandem-etwas-schuldig-ausser-meinem-sohn-a-a33c44ca-5116-4539-a669-e480fc131db7#ref=rss)
+### bin
 
-* [https://www.spiegel.de/panorama/bildung/coronakrise-wie-die-pandemie-die-kitas-veraendert-hat](https://www.spiegel.de/panorama/bildung/coronakrise-wie-die-pandemie-die-kitas-veraendert-hat-a-68eb8ef4-0bb3-40de-948c-d1208229871b#ref=rss)
-### regierung
+* [https://www.spiegel.de/panorama/leute/emily-ratajkowski-ich-bin-niemandem-etwas-schuldig-ausser-meinem-sohn](https://www.spiegel.de/panorama/leute/emily-ratajkowski-ich-bin-niemandem-etwas-schuldig-ausser-meinem-sohn-a-a33c44ca-5116-4539-a669-e480fc131db7#ref=rss)
+* [https://www.spiegel.de/gesundheit/schwangerschaft/sport-in-der-schwangerschaft-sagen-sie-jetzt-nicht-dass-nur-yoga-okay-ist](https://www.spiegel.de/gesundheit/schwangerschaft/sport-in-der-schwangerschaft-sagen-sie-jetzt-nicht-dass-nur-yoga-okay-ist-a-1c67a4c7-752c-407d-95d6-83e0aa83c80e#ref=rss)
+### zufolge
 
-* [https://www.spiegel.de/panorama/bildung/coronakrise-wie-die-pandemie-die-kitas-veraendert-hat](https://www.spiegel.de/panorama/bildung/coronakrise-wie-die-pandemie-die-kitas-veraendert-hat-a-68eb8ef4-0bb3-40de-948c-d1208229871b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken](https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken-a-fc282ad0-5f53-4c50-a99d-d87e060248a1#ref=rss)
-### meere
-
-* [https://www.spiegel.de/wissenschaft/technik/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau](https://www.spiegel.de/wissenschaft/technik/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau-a-bd3596ef-eb28-4cfe-a4b3-8a9f5d4d9d6b#ref=rss)
-### tiefseebergbau
-
-* [https://www.spiegel.de/wissenschaft/technik/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau](https://www.spiegel.de/wissenschaft/technik/schutz-der-meere-deutschland-unterstuetzt-bis-auf-weiteres-keinen-tiefseebergbau-a-bd3596ef-eb28-4cfe-a4b3-8a9f5d4d9d6b#ref=rss)
-### verlust
-
-* [https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015](https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015-a-9cd91d8a-a0c8-4a41-9cd2-873e3a37a82f#ref=rss)
-### gemeinnützigkeit
-
-* [https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015](https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015-a-9cd91d8a-a0c8-4a41-9cd2-873e3a37a82f#ref=rss)
-### droht
-
-* [https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015](https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015-a-9cd91d8a-a0c8-4a41-9cd2-873e3a37a82f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/insolvenzverfahren-fuer-galeria-karstadt-kaufhof-rene-benkos-sahnestuecke](https://www.spiegel.de/wirtschaft/insolvenzverfahren-fuer-galeria-karstadt-kaufhof-rene-benkos-sahnestuecke-a-260da886-cc64-4b59-8c7e-74c5db5902a0#ref=rss)
-### fehler
-
-* [https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015](https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015-a-9cd91d8a-a0c8-4a41-9cd2-873e3a37a82f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht-a-7eefcfc7-aeb0-4542-b461-aaa389707fda#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015](https://www.spiegel.de/sport/fussball/deutscher-fussball-bund-bestaetigt-moeglichen-verlust-der-gemeinnuetzigkeit-fuer-2014-und-2015-a-9cd91d8a-a0c8-4a41-9cd2-873e3a37a82f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb](https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb-a-c91ea702-756c-49d3-8e9f-b226c48f44dd#ref=rss)
-### gelegt
-
-* [https://www.spiegel.de/panorama/gesellschaft/ukraine-innenansichten-aus-einem-zerstoerten-land-massengraeber-folterkammern-und-vernichtung-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/ukraine-innenansichten-aus-einem-zerstoerten-land-massengraeber-folterkammern-und-vernichtung-spiegel-tv-a-9b9f7541-6238-49ea-96ad-fed89ad05c1e#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/podcast-ein-raetselhafter-patient-torkelnd-in-der-notaufnahme](https://www.spiegel.de/gesundheit/diagnose/podcast-ein-raetselhafter-patient-torkelnd-in-der-notaufnahme-a-9c9cf5c0-446d-48ed-8272-15871595a576#ref=rss)
-### lage
-
-* [https://www.spiegel.de/panorama/gesellschaft/ukraine-innenansichten-aus-einem-zerstoerten-land-massengraeber-folterkammern-und-vernichtung-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/ukraine-innenansichten-aus-einem-zerstoerten-land-massengraeber-folterkammern-und-vernichtung-spiegel-tv-a-9b9f7541-6238-49ea-96ad-fed89ad05c1e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb](https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb-a-c91ea702-756c-49d3-8e9f-b226c48f44dd#ref=rss)
-### jérôme
-
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-fordert-bewaehrungsstrafe-fuer-boateng](https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-fordert-bewaehrungsstrafe-fuer-boateng-a-a62d77b3-4d4e-44c5-9d35-ce23c8624c9d#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-fordert-bewaehrungsstrafe-fuer-boateng](https://www.spiegel.de/panorama/justiz/jerome-boateng-staatsanwaltschaft-fordert-bewaehrungsstrafe-fuer-boateng-a-a62d77b3-4d4e-44c5-9d35-ce23c8624c9d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht-a-7eefcfc7-aeb0-4542-b461-aaa389707fda#ref=rss)
-### energiekrise
-
-* [https://www.spiegel.de/politik/energiekrise-das-sind-die-ergebnisse-der-minsterpraesidentenkonferenz-livestream](https://www.spiegel.de/politik/energiekrise-das-sind-die-ergebnisse-der-minsterpraesidentenkonferenz-livestream-a-614189b8-24dd-4934-88bc-5a3be5507eee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/holzdiebstahl-in-deutschen-waeldern-da-ist-eine-internationale-holzmafia-am-werk](https://www.spiegel.de/wirtschaft/holzdiebstahl-in-deutschen-waeldern-da-ist-eine-internationale-holzmafia-am-werk-a-062f0a4e-80fc-413c-8f26-540258326191#ref=rss)
-### ergebnisse
-
-* [https://www.spiegel.de/politik/energiekrise-das-sind-die-ergebnisse-der-minsterpraesidentenkonferenz-livestream](https://www.spiegel.de/politik/energiekrise-das-sind-die-ergebnisse-der-minsterpraesidentenkonferenz-livestream-a-614189b8-24dd-4934-88bc-5a3be5507eee#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-was-bei-betrugsvorwuerfen-bei-den-us-kongresswahlen-passiert](https://www.spiegel.de/ausland/midterms-was-bei-betrugsvorwuerfen-bei-den-us-kongresswahlen-passiert-a-cc69d39d-1d40-4d12-979e-03b3060adbbf#ref=rss)
-### länder
-
-* [https://www.spiegel.de/politik/energiekrise-das-sind-die-ergebnisse-der-minsterpraesidentenkonferenz-livestream](https://www.spiegel.de/politik/energiekrise-das-sind-die-ergebnisse-der-minsterpraesidentenkonferenz-livestream-a-614189b8-24dd-4934-88bc-5a3be5507eee#ref=rss)
-* [https://www.spiegel.de/auto/49-euro-ticket-bund-und-laender-einigen-sich-auf-finanzierung](https://www.spiegel.de/auto/49-euro-ticket-bund-und-laender-einigen-sich-auf-finanzierung-a-3110b0f5-e49d-4242-84a5-3e8f5e87c333#ref=rss)
-### bürgerkriegsparteien
-
-* [https://www.spiegel.de/ausland/buergerkriegsparteien-einigen-sich-auf-waffenstillstand](https://www.spiegel.de/ausland/buergerkriegsparteien-einigen-sich-auf-waffenstillstand-a-3eb4979e-782f-44ea-a317-204c2eeafe23#ref=rss)
-### einigen
-
-* [https://www.spiegel.de/ausland/buergerkriegsparteien-einigen-sich-auf-waffenstillstand](https://www.spiegel.de/ausland/buergerkriegsparteien-einigen-sich-auf-waffenstillstand-a-3eb4979e-782f-44ea-a317-204c2eeafe23#ref=rss)
-* [https://www.spiegel.de/auto/49-euro-ticket-bund-und-laender-einigen-sich-auf-finanzierung](https://www.spiegel.de/auto/49-euro-ticket-bund-und-laender-einigen-sich-auf-finanzierung-a-3110b0f5-e49d-4242-84a5-3e8f5e87c333#ref=rss)
-### twitterchef
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb](https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb-a-c91ea702-756c-49d3-8e9f-b226c48f44dd#ref=rss)
-### musk
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb](https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb-a-c91ea702-756c-49d3-8e9f-b226c48f44dd#ref=rss)
-### klimaproteste
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb](https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb-a-c91ea702-756c-49d3-8e9f-b226c48f44dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/protestaktionen-der-letzten-generation-das-kollektive-vermeiden](https://www.spiegel.de/politik/deutschland/protestaktionen-der-letzten-generation-das-kollektive-vermeiden-a-b8e3eec9-3094-46aa-85b3-a7efbc032c5f#ref=rss)
-### klimaaktivisten
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb](https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-chef-musk-klimaproteste-steuerprobleme-beim-dfb-a-c91ea702-756c-49d3-8e9f-b226c48f44dd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/justizminister-buschmann-haelt-gefaengnisstrafen-fuer-klimaaktivisten-fuer-moeglich](https://www.spiegel.de/politik/deutschland/justizminister-buschmann-haelt-gefaengnisstrafen-fuer-klimaaktivisten-fuer-moeglich-a-f38f1b95-9367-482e-bae3-a22e19d37648#ref=rss)
-### eu
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht](https://www.spiegel.de/politik/deutschland/olaf-scholz-in-china-der-bundeskanzler-wird-seiner-fuehrungsrolle-nicht-gerecht-a-7eefcfc7-aeb0-4542-b461-aaa389707fda#ref=rss)
-* [https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken](https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken-a-fc282ad0-5f53-4c50-a99d-d87e060248a1#ref=rss)
-### post
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-bewerbermangel-corona-spitzenlasten-so-sollen-die-probleme-geloest-werden](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-bewerbermangel-corona-spitzenlasten-so-sollen-die-probleme-geloest-werden-a-ad3f7163-9406-4dab-a012-8c4ed9a5a3f4#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-bewerbermangel-corona-spitzenlasten-so-sollen-die-probleme-geloest-werden](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-bewerbermangel-corona-spitzenlasten-so-sollen-die-probleme-geloest-werden-a-ad3f7163-9406-4dab-a012-8c4ed9a5a3f4#ref=rss)
-### räumt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-bewerbermangel-corona-spitzenlasten-so-sollen-die-probleme-geloest-werden](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-bewerbermangel-corona-spitzenlasten-so-sollen-die-probleme-geloest-werden-a-ad3f7163-9406-4dab-a012-8c4ed9a5a3f4#ref=rss)
-* [https://www.spiegel.de/ausland/brasiliens-vizepraesident-raeumt-bolsonaros-wahlniederlage-ein](https://www.spiegel.de/ausland/brasiliens-vizepraesident-raeumt-bolsonaros-wahlniederlage-ein-a-80361b12-3651-4e7c-a6ce-a79755ade19f#ref=rss)
-### betrug
-
-* [https://www.spiegel.de/ausland/ermittlungen-gegen-donald-trump-betrug-aktenklau-und-ein-staatsstreich](https://www.spiegel.de/ausland/ermittlungen-gegen-donald-trump-betrug-aktenklau-und-ein-staatsstreich-a-2fb66a8c-60b5-4203-8e70-f7629e9c1ca3#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-was-bei-betrugsvorwuerfen-bei-den-us-kongresswahlen-passiert](https://www.spiegel.de/ausland/midterms-was-bei-betrugsvorwuerfen-bei-den-us-kongresswahlen-passiert-a-cc69d39d-1d40-4d12-979e-03b3060adbbf#ref=rss)
-### kommenden
-
-* [https://www.spiegel.de/ausland/ermittlungen-gegen-donald-trump-betrug-aktenklau-und-ein-staatsstreich](https://www.spiegel.de/ausland/ermittlungen-gegen-donald-trump-betrug-aktenklau-und-ein-staatsstreich-a-2fb66a8c-60b5-4203-8e70-f7629e9c1ca3#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-was-bei-betrugsvorwuerfen-bei-den-us-kongresswahlen-passiert](https://www.spiegel.de/ausland/midterms-was-bei-betrugsvorwuerfen-bei-den-us-kongresswahlen-passiert-a-cc69d39d-1d40-4d12-979e-03b3060adbbf#ref=rss)
-### finanzierung
-
-* [https://www.spiegel.de/auto/49-euro-ticket-bund-und-laender-einigen-sich-auf-finanzierung](https://www.spiegel.de/auto/49-euro-ticket-bund-und-laender-einigen-sich-auf-finanzierung-a-3110b0f5-e49d-4242-84a5-3e8f5e87c333#ref=rss)
-### polen
-
-* [https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken](https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken-a-fc282ad0-5f53-4c50-a99d-d87e060248a1#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken](https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken-a-fc282ad0-5f53-4c50-a99d-d87e060248a1#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-tv-4k-amazon-fire-tv-cube-und-roku-express-4k-drei-streamingboxen-im-test](https://www.spiegel.de/netzwelt/gadgets/apple-tv-4k-amazon-fire-tv-cube-und-roku-express-4k-drei-streamingboxen-im-test-a-68eb80c5-0112-462b-b0a0-4c3b4d238a5d#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken](https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken-a-fc282ad0-5f53-4c50-a99d-d87e060248a1#ref=rss)
-* [https://www.spiegel.de/ausland/brasiliens-vizepraesident-raeumt-bolsonaros-wahlniederlage-ein](https://www.spiegel.de/ausland/brasiliens-vizepraesident-raeumt-bolsonaros-wahlniederlage-ein-a-80361b12-3651-4e7c-a6ce-a79755ade19f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/emily-ratajkowski-ich-bin-niemandem-etwas-schuldig-ausser-meinem-sohn](https://www.spiegel.de/panorama/leute/emily-ratajkowski-ich-bin-niemandem-etwas-schuldig-ausser-meinem-sohn-a-a33c44ca-5116-4539-a669-e480fc131db7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/unesco-2050-werden-die-gletscher-in-einem-drittel-der-weltnaturerbestaetten-geschmolzen-sein](https://www.spiegel.de/wissenschaft/unesco-2050-werden-die-gletscher-in-einem-drittel-der-weltnaturerbestaetten-geschmolzen-sein-a-168704f1-dacd-4a77-afe5-dbcb80d29078#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken](https://www.spiegel.de/wirtschaft/polen-regierung-beschliesst-bau-von-atomkraftwerken-a-fc282ad0-5f53-4c50-a99d-d87e060248a1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-hamburg-fuehrt-hundertjaehrige-mietpreisbindung-ein](https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-hamburg-fuehrt-hundertjaehrige-mietpreisbindung-ein-a-b30d897f-5cec-4b87-8881-43b0706c4614#ref=rss)
-### dürfen
+* [https://www.spiegel.de/panorama/justiz/essen-osnabrueck-fahndern-gelingt-schlag-gegen-illegalen-zigarettenhandel](https://www.spiegel.de/panorama/justiz/essen-osnabrueck-fahndern-gelingt-schlag-gegen-illegalen-zigarettenhandel-a-6cc6b0cd-3e1e-4e88-b8df-ea1bc4c13d67#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/g7-aussenminister-treffen-in-muenster-die-krisen-dieser-welt-in-zwei-tagen](https://www.spiegel.de/politik/deutschland/g7-aussenminister-treffen-in-muenster-die-krisen-dieser-welt-in-zwei-tagen-a-8fb2ca99-99ab-428a-8265-c2f17ac82aa8#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-beschaeftigte-duerfen-kleidung-unabhaengig-vom-geschlecht-waehlen](https://www.spiegel.de/wirtschaft/unternehmen/bahn-beschaeftigte-duerfen-kleidung-unabhaengig-vom-geschlecht-waehlen-a-b34494e1-8d0e-4082-9e37-ea0a18651553#ref=rss)
-### wählen
+* [https://www.spiegel.de/panorama/justiz/essen-osnabrueck-fahndern-gelingt-schlag-gegen-illegalen-zigarettenhandel](https://www.spiegel.de/panorama/justiz/essen-osnabrueck-fahndern-gelingt-schlag-gegen-illegalen-zigarettenhandel-a-6cc6b0cd-3e1e-4e88-b8df-ea1bc4c13d67#ref=rss)
+* [https://www.spiegel.de/ausland/marjorie-taylor-greene-quaelt-joe-biden-republikaner-sprechen-ueber-impeachment-verfahren](https://www.spiegel.de/ausland/marjorie-taylor-greene-quaelt-joe-biden-republikaner-sprechen-ueber-impeachment-verfahren-a-597f02b1-ddb6-4419-b974-f793689df201#ref=rss)
+### unesco
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-beschaeftigte-duerfen-kleidung-unabhaengig-vom-geschlecht-waehlen](https://www.spiegel.de/wirtschaft/unternehmen/bahn-beschaeftigte-duerfen-kleidung-unabhaengig-vom-geschlecht-waehlen-a-b34494e1-8d0e-4082-9e37-ea0a18651553#ref=rss)
-### künftig
+* [https://www.spiegel.de/wissenschaft/unesco-2050-werden-die-gletscher-in-einem-drittel-der-weltnaturerbestaetten-geschmolzen-sein](https://www.spiegel.de/wissenschaft/unesco-2050-werden-die-gletscher-in-einem-drittel-der-weltnaturerbestaetten-geschmolzen-sein-a-168704f1-dacd-4a77-afe5-dbcb80d29078#ref=rss)
+### 2050
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-beschaeftigte-duerfen-kleidung-unabhaengig-vom-geschlecht-waehlen](https://www.spiegel.de/wirtschaft/unternehmen/bahn-beschaeftigte-duerfen-kleidung-unabhaengig-vom-geschlecht-waehlen-a-b34494e1-8d0e-4082-9e37-ea0a18651553#ref=rss)
-* [https://www.spiegel.de/wirtschaft/holzdiebstahl-in-deutschen-waeldern-da-ist-eine-internationale-holzmafia-am-werk](https://www.spiegel.de/wirtschaft/holzdiebstahl-in-deutschen-waeldern-da-ist-eine-internationale-holzmafia-am-werk-a-062f0a4e-80fc-413c-8f26-540258326191#ref=rss)
-### wahl
+* [https://www.spiegel.de/wissenschaft/unesco-2050-werden-die-gletscher-in-einem-drittel-der-weltnaturerbestaetten-geschmolzen-sein](https://www.spiegel.de/wissenschaft/unesco-2050-werden-die-gletscher-in-einem-drittel-der-weltnaturerbestaetten-geschmolzen-sein-a-168704f1-dacd-4a77-afe5-dbcb80d29078#ref=rss)
+### josef
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bahn-beschaeftigte-duerfen-kleidung-unabhaengig-vom-geschlecht-waehlen](https://www.spiegel.de/wirtschaft/unternehmen/bahn-beschaeftigte-duerfen-kleidung-unabhaengig-vom-geschlecht-waehlen-a-b34494e1-8d0e-4082-9e37-ea0a18651553#ref=rss)
-* [https://www.spiegel.de/ausland/brasiliens-vizepraesident-raeumt-bolsonaros-wahlniederlage-ein](https://www.spiegel.de/ausland/brasiliens-vizepraesident-raeumt-bolsonaros-wahlniederlage-ein-a-80361b12-3651-4e7c-a6ce-a79755ade19f#ref=rss)
-### temperaturen
+* [https://www.spiegel.de/geschichte/josef-eisinger-wir-haben-hitler-nicht-ernst-genommen-wir-haben-dafuer-bezahlt](https://www.spiegel.de/geschichte/josef-eisinger-wir-haben-hitler-nicht-ernst-genommen-wir-haben-dafuer-bezahlt-a-d97b4699-a70f-4d26-8360-e54588bb90f3#ref=rss)
+### eisinger
 
-* [https://www.spiegel.de/wissenschaft/wmo-temperaturen-in-europa-steigen-doppelt-so-schnell-wie-im-globalen-durchschnitt](https://www.spiegel.de/wissenschaft/wmo-temperaturen-in-europa-steigen-doppelt-so-schnell-wie-im-globalen-durchschnitt-a-34e03dca-2c07-4ffe-9684-b02cf5c2d307#ref=rss)
-### europa
+* [https://www.spiegel.de/geschichte/josef-eisinger-wir-haben-hitler-nicht-ernst-genommen-wir-haben-dafuer-bezahlt](https://www.spiegel.de/geschichte/josef-eisinger-wir-haben-hitler-nicht-ernst-genommen-wir-haben-dafuer-bezahlt-a-d97b4699-a70f-4d26-8360-e54588bb90f3#ref=rss)
+### wir
 
-* [https://www.spiegel.de/wissenschaft/wmo-temperaturen-in-europa-steigen-doppelt-so-schnell-wie-im-globalen-durchschnitt](https://www.spiegel.de/wissenschaft/wmo-temperaturen-in-europa-steigen-doppelt-so-schnell-wie-im-globalen-durchschnitt-a-34e03dca-2c07-4ffe-9684-b02cf5c2d307#ref=rss)
-### doppelt
+* [https://www.spiegel.de/geschichte/josef-eisinger-wir-haben-hitler-nicht-ernst-genommen-wir-haben-dafuer-bezahlt](https://www.spiegel.de/geschichte/josef-eisinger-wir-haben-hitler-nicht-ernst-genommen-wir-haben-dafuer-bezahlt-a-d97b4699-a70f-4d26-8360-e54588bb90f3#ref=rss)
+### verfassungsschutz
 
-* [https://www.spiegel.de/wissenschaft/wmo-temperaturen-in-europa-steigen-doppelt-so-schnell-wie-im-globalen-durchschnitt](https://www.spiegel.de/wissenschaft/wmo-temperaturen-in-europa-steigen-doppelt-so-schnell-wie-im-globalen-durchschnitt-a-34e03dca-2c07-4ffe-9684-b02cf5c2d307#ref=rss)
-### durchschnitt
+* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-datenweitergabe-durch-den-verfassungsschutz-muss-eingeschraenkt-werden](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-datenweitergabe-durch-den-verfassungsschutz-muss-eingeschraenkt-werden-a-b8bef77a-dd19-4e97-96e4-6adce1281b1a#ref=rss)
+### ostsee
 
-* [https://www.spiegel.de/wissenschaft/wmo-temperaturen-in-europa-steigen-doppelt-so-schnell-wie-im-globalen-durchschnitt](https://www.spiegel.de/wissenschaft/wmo-temperaturen-in-europa-steigen-doppelt-so-schnell-wie-im-globalen-durchschnitt-a-34e03dca-2c07-4ffe-9684-b02cf5c2d307#ref=rss)
-### kritik
+* [https://www.spiegel.de/wissenschaft/natur/co-speicher-seegras-wird-es-in-der-ostsee-zu-warm](https://www.spiegel.de/wissenschaft/natur/co-speicher-seegras-wird-es-in-der-ostsee-zu-warm-a-9b7b3f71-ad33-4d0f-9c63-6214eb808321#ref=rss)
+### setzt
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-weist-kritik-an-seiner-china-reise-zurueck](https://www.spiegel.de/politik/deutschland/olaf-scholz-weist-kritik-an-seiner-china-reise-zurueck-a-57d751af-e06a-434d-a915-660aa3e7e098#ref=rss)
-* [https://www.spiegel.de/kultur/musik/reggae-kuenstler-gentleman-ueber-kulturelle-aneignung-als-schwarzer-jamaikaner-waere-ich-nicht-so-erfolgreich](https://www.spiegel.de/kultur/musik/reggae-kuenstler-gentleman-ueber-kulturelle-aneignung-als-schwarzer-jamaikaner-waere-ich-nicht-so-erfolgreich-a-e546f4b7-945d-4dd9-b2e8-27dbb5b64735#ref=rss)
-### galeria
+* [https://www.spiegel.de/wissenschaft/natur/co-speicher-seegras-wird-es-in-der-ostsee-zu-warm](https://www.spiegel.de/wissenschaft/natur/co-speicher-seegras-wird-es-in-der-ostsee-zu-warm-a-9b7b3f71-ad33-4d0f-9c63-6214eb808321#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-ueber-85-prozent](https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-ueber-85-prozent-a-caadd21e-0623-4fdd-8fbb-352a42c17c82#ref=rss)
+### länder
 
-* [https://www.spiegel.de/wirtschaft/insolvenzverfahren-fuer-galeria-karstadt-kaufhof-rene-benkos-sahnestuecke](https://www.spiegel.de/wirtschaft/insolvenzverfahren-fuer-galeria-karstadt-kaufhof-rene-benkos-sahnestuecke-a-260da886-cc64-4b59-8c7e-74c5db5902a0#ref=rss)
-### karstadt
+* [https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-untersagt-auslieferung-nach-china](https://www.spiegel.de/ausland/europaeischer-gerichtshof-fuer-menschenrechte-untersagt-auslieferung-nach-china-a-0b44040a-4a79-4c5a-8c97-695574530dad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer-a-174b90de-8d77-4fae-9fec-d9a0882569c2#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/wirtschaft/insolvenzverfahren-fuer-galeria-karstadt-kaufhof-rene-benkos-sahnestuecke](https://www.spiegel.de/wirtschaft/insolvenzverfahren-fuer-galeria-karstadt-kaufhof-rene-benkos-sahnestuecke-a-260da886-cc64-4b59-8c7e-74c5db5902a0#ref=rss)
-### kaufhof
+* [https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-ueber-85-prozent](https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-ueber-85-prozent-a-caadd21e-0623-4fdd-8fbb-352a42c17c82#ref=rss)
+### inflation
 
-* [https://www.spiegel.de/wirtschaft/insolvenzverfahren-fuer-galeria-karstadt-kaufhof-rene-benkos-sahnestuecke](https://www.spiegel.de/wirtschaft/insolvenzverfahren-fuer-galeria-karstadt-kaufhof-rene-benkos-sahnestuecke-a-260da886-cc64-4b59-8c7e-74c5db5902a0#ref=rss)
-### rené
+* [https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-ueber-85-prozent](https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-ueber-85-prozent-a-caadd21e-0623-4fdd-8fbb-352a42c17c82#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer-a-174b90de-8d77-4fae-9fec-d9a0882569c2#ref=rss)
+### steigt
 
-* [https://www.spiegel.de/wirtschaft/insolvenzverfahren-fuer-galeria-karstadt-kaufhof-rene-benkos-sahnestuecke](https://www.spiegel.de/wirtschaft/insolvenzverfahren-fuer-galeria-karstadt-kaufhof-rene-benkos-sahnestuecke-a-260da886-cc64-4b59-8c7e-74c5db5902a0#ref=rss)
-### sagt
+* [https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-ueber-85-prozent](https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-ueber-85-prozent-a-caadd21e-0623-4fdd-8fbb-352a42c17c82#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-verstaatlichung-uniper-erwartet-bis-jahresende-vervierfachung-der-verluste](https://www.spiegel.de/wirtschaft/unternehmen/vor-verstaatlichung-uniper-erwartet-bis-jahresende-vervierfachung-der-verluste-a-7fa6f9ba-68cc-4891-aa7b-93a247fc73da#ref=rss)
+### befeuert
 
-* [https://www.spiegel.de/wirtschaft/holzdiebstahl-in-deutschen-waeldern-da-ist-eine-internationale-holzmafia-am-werk](https://www.spiegel.de/wirtschaft/holzdiebstahl-in-deutschen-waeldern-da-ist-eine-internationale-holzmafia-am-werk-a-062f0a4e-80fc-413c-8f26-540258326191#ref=rss)
-* [https://www.spiegel.de/kultur/musik/reggae-kuenstler-gentleman-ueber-kulturelle-aneignung-als-schwarzer-jamaikaner-waere-ich-nicht-so-erfolgreich](https://www.spiegel.de/kultur/musik/reggae-kuenstler-gentleman-ueber-kulturelle-aneignung-als-schwarzer-jamaikaner-waere-ich-nicht-so-erfolgreich-a-e546f4b7-945d-4dd9-b2e8-27dbb5b64735#ref=rss)
-### mevlüde
+* [https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-ueber-85-prozent](https://www.spiegel.de/wirtschaft/tuerkei-inflation-steigt-auf-ueber-85-prozent-a-caadd21e-0623-4fdd-8fbb-352a42c17c82#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/oeffentlich-rechtlicher-rundfunk-wdr-intendant-tom-buhrow-spricht-ueber-moegliche-fusion-von-ard-und-zdf](https://www.spiegel.de/wirtschaft/unternehmen/oeffentlich-rechtlicher-rundfunk-wdr-intendant-tom-buhrow-spricht-ueber-moegliche-fusion-von-ard-und-zdf-a-157d0f13-462f-40b1-b885-1ebd333e87b9#ref=rss)
+### jennifer
 
-* [https://www.spiegel.de/politik/deutschland/zum-tod-von-mevluede-genc-geht-es-wirklich-um-versoehnung](https://www.spiegel.de/politik/deutschland/zum-tod-von-mevluede-genc-geht-es-wirklich-um-versoehnung-a-414459ec-38ca-4c2b-a154-937ca99172ed#ref=rss)
-### genç
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-ueber-karrieretipp-von-adele-ich-haette-auf-sie-hoeren-sollen](https://www.spiegel.de/panorama/leute/jennifer-lawrence-ueber-karrieretipp-von-adele-ich-haette-auf-sie-hoeren-sollen-a-0f333ac5-79d5-4fa3-8f23-06440eb7072f#ref=rss)
+### lawrence
 
-* [https://www.spiegel.de/politik/deutschland/zum-tod-von-mevluede-genc-geht-es-wirklich-um-versoehnung](https://www.spiegel.de/politik/deutschland/zum-tod-von-mevluede-genc-geht-es-wirklich-um-versoehnung-a-414459ec-38ca-4c2b-a154-937ca99172ed#ref=rss)
-### jahren
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-ueber-karrieretipp-von-adele-ich-haette-auf-sie-hoeren-sollen](https://www.spiegel.de/panorama/leute/jennifer-lawrence-ueber-karrieretipp-von-adele-ich-haette-auf-sie-hoeren-sollen-a-0f333ac5-79d5-4fa3-8f23-06440eb7072f#ref=rss)
+### adele
 
-* [https://www.spiegel.de/politik/deutschland/zum-tod-von-mevluede-genc-geht-es-wirklich-um-versoehnung](https://www.spiegel.de/politik/deutschland/zum-tod-von-mevluede-genc-geht-es-wirklich-um-versoehnung-a-414459ec-38ca-4c2b-a154-937ca99172ed#ref=rss)
-### gentleman
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-ueber-karrieretipp-von-adele-ich-haette-auf-sie-hoeren-sollen](https://www.spiegel.de/panorama/leute/jennifer-lawrence-ueber-karrieretipp-von-adele-ich-haette-auf-sie-hoeren-sollen-a-0f333ac5-79d5-4fa3-8f23-06440eb7072f#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/kultur/musik/reggae-kuenstler-gentleman-ueber-kulturelle-aneignung-als-schwarzer-jamaikaner-waere-ich-nicht-so-erfolgreich](https://www.spiegel.de/kultur/musik/reggae-kuenstler-gentleman-ueber-kulturelle-aneignung-als-schwarzer-jamaikaner-waere-ich-nicht-so-erfolgreich-a-e546f4b7-945d-4dd9-b2e8-27dbb5b64735#ref=rss)
-### pool
+* [https://www.spiegel.de/panorama/leute/jennifer-lawrence-ueber-karrieretipp-von-adele-ich-haette-auf-sie-hoeren-sollen](https://www.spiegel.de/panorama/leute/jennifer-lawrence-ueber-karrieretipp-von-adele-ich-haette-auf-sie-hoeren-sollen-a-0f333ac5-79d5-4fa3-8f23-06440eb7072f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-akw-saporischschja-laut-betreiber-nach-beschuss-erneut-vom-stromnetz-getrennt](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-akw-saporischschja-laut-betreiber-nach-beschuss-erneut-vom-stromnetz-getrennt-a-7e16da83-5377-4114-847f-8a0f4612b68c#ref=rss)
+### uniper
 
-* [https://www.spiegel.de/panorama/toedlicher-unfall-bei-osnabrueck-vierjaehriger-faellt-in-pool-staatsanwaltschaft-ermittelt](https://www.spiegel.de/panorama/toedlicher-unfall-bei-osnabrueck-vierjaehriger-faellt-in-pool-staatsanwaltschaft-ermittelt-a-a54e9c2e-1885-4c76-8bd6-9dfba7923bd5#ref=rss)
-### ermittelt
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-verstaatlichung-uniper-erwartet-bis-jahresende-vervierfachung-der-verluste](https://www.spiegel.de/wirtschaft/unternehmen/vor-verstaatlichung-uniper-erwartet-bis-jahresende-vervierfachung-der-verluste-a-7fa6f9ba-68cc-4891-aa7b-93a247fc73da#ref=rss)
+### erwartet
 
-* [https://www.spiegel.de/panorama/toedlicher-unfall-bei-osnabrueck-vierjaehriger-faellt-in-pool-staatsanwaltschaft-ermittelt](https://www.spiegel.de/panorama/toedlicher-unfall-bei-osnabrueck-vierjaehriger-faellt-in-pool-staatsanwaltschaft-ermittelt-a-a54e9c2e-1885-4c76-8bd6-9dfba7923bd5#ref=rss)
-### brasiliens
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-verstaatlichung-uniper-erwartet-bis-jahresende-vervierfachung-der-verluste](https://www.spiegel.de/wirtschaft/unternehmen/vor-verstaatlichung-uniper-erwartet-bis-jahresende-vervierfachung-der-verluste-a-7fa6f9ba-68cc-4891-aa7b-93a247fc73da#ref=rss)
+* [https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif](https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif-a-a5f7ef62-c14a-4372-a1dc-c02bd75e990a#ref=rss)
+### bund
 
-* [https://www.spiegel.de/ausland/brasiliens-vizepraesident-raeumt-bolsonaros-wahlniederlage-ein](https://www.spiegel.de/ausland/brasiliens-vizepraesident-raeumt-bolsonaros-wahlniederlage-ein-a-80361b12-3651-4e7c-a6ce-a79755ade19f#ref=rss)
-### vizepräsident
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-verstaatlichung-uniper-erwartet-bis-jahresende-vervierfachung-der-verluste](https://www.spiegel.de/wirtschaft/unternehmen/vor-verstaatlichung-uniper-erwartet-bis-jahresende-vervierfachung-der-verluste-a-7fa6f9ba-68cc-4891-aa7b-93a247fc73da#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer-a-174b90de-8d77-4fae-9fec-d9a0882569c2#ref=rss)
+### teuer
 
-* [https://www.spiegel.de/ausland/brasiliens-vizepraesident-raeumt-bolsonaros-wahlniederlage-ein](https://www.spiegel.de/ausland/brasiliens-vizepraesident-raeumt-bolsonaros-wahlniederlage-ein-a-80361b12-3651-4e7c-a6ce-a79755ade19f#ref=rss)
-### hamburg
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-verstaatlichung-uniper-erwartet-bis-jahresende-vervierfachung-der-verluste](https://www.spiegel.de/wirtschaft/unternehmen/vor-verstaatlichung-uniper-erwartet-bis-jahresende-vervierfachung-der-verluste-a-7fa6f9ba-68cc-4891-aa7b-93a247fc73da#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer-a-174b90de-8d77-4fae-9fec-d9a0882569c2#ref=rss)
+### generation
 
-* [https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-hamburg-fuehrt-hundertjaehrige-mietpreisbindung-ein](https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-hamburg-fuehrt-hundertjaehrige-mietpreisbindung-ein-a-b30d897f-5cec-4b87-8881-43b0706c4614#ref=rss)
-### halten
+* [https://www.spiegel.de/politik/deutschland/letzte-generation-frank-walter-steinmeier-fuerchtet-schaden-fuer-klimaschutzbewegung](https://www.spiegel.de/politik/deutschland/letzte-generation-frank-walter-steinmeier-fuerchtet-schaden-fuer-klimaschutzbewegung-a-619286f1-5728-4cf4-b7d5-8dbaeb71fe85#ref=rss)
+### steinmeier
 
-* [https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-hamburg-fuehrt-hundertjaehrige-mietpreisbindung-ein](https://www.spiegel.de/wirtschaft/soziales/sozialwohnungen-hamburg-fuehrt-hundertjaehrige-mietpreisbindung-ein-a-b30d897f-5cec-4b87-8881-43b0706c4614#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/podcast-ein-raetselhafter-patient-torkelnd-in-der-notaufnahme](https://www.spiegel.de/gesundheit/diagnose/podcast-ein-raetselhafter-patient-torkelnd-in-der-notaufnahme-a-9c9cf5c0-446d-48ed-8272-15871595a576#ref=rss)
-### buschmann
+* [https://www.spiegel.de/politik/deutschland/letzte-generation-frank-walter-steinmeier-fuerchtet-schaden-fuer-klimaschutzbewegung](https://www.spiegel.de/politik/deutschland/letzte-generation-frank-walter-steinmeier-fuerchtet-schaden-fuer-klimaschutzbewegung-a-619286f1-5728-4cf4-b7d5-8dbaeb71fe85#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/politik/deutschland/justizminister-buschmann-haelt-gefaengnisstrafen-fuer-klimaaktivisten-fuer-moeglich](https://www.spiegel.de/politik/deutschland/justizminister-buschmann-haelt-gefaengnisstrafen-fuer-klimaaktivisten-fuer-moeglich-a-f38f1b95-9367-482e-bae3-a22e19d37648#ref=rss)
-### letzten
+* [https://www.spiegel.de/politik/deutschland/letzte-generation-frank-walter-steinmeier-fuerchtet-schaden-fuer-klimaschutzbewegung](https://www.spiegel.de/politik/deutschland/letzte-generation-frank-walter-steinmeier-fuerchtet-schaden-fuer-klimaschutzbewegung-a-619286f1-5728-4cf4-b7d5-8dbaeb71fe85#ref=rss)
+* [https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif](https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif-a-a5f7ef62-c14a-4372-a1dc-c02bd75e990a#ref=rss)
+### wdrintendant
 
-* [https://www.spiegel.de/politik/deutschland/justizminister-buschmann-haelt-gefaengnisstrafen-fuer-klimaaktivisten-fuer-moeglich](https://www.spiegel.de/politik/deutschland/justizminister-buschmann-haelt-gefaengnisstrafen-fuer-klimaaktivisten-fuer-moeglich-a-f38f1b95-9367-482e-bae3-a22e19d37648#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/protestaktionen-der-letzten-generation-das-kollektive-vermeiden](https://www.spiegel.de/politik/deutschland/protestaktionen-der-letzten-generation-das-kollektive-vermeiden-a-b8e3eec9-3094-46aa-85b3-a7efbc032c5f#ref=rss)
-### barack
+* [https://www.spiegel.de/wirtschaft/unternehmen/oeffentlich-rechtlicher-rundfunk-wdr-intendant-tom-buhrow-spricht-ueber-moegliche-fusion-von-ard-und-zdf](https://www.spiegel.de/wirtschaft/unternehmen/oeffentlich-rechtlicher-rundfunk-wdr-intendant-tom-buhrow-spricht-ueber-moegliche-fusion-von-ard-und-zdf-a-157d0f13-462f-40b1-b885-1ebd333e87b9#ref=rss)
+### buhrow
 
-* [https://www.spiegel.de/ausland/barack-obama-es-werden-noch-mehr-menschen-verletzt](https://www.spiegel.de/ausland/barack-obama-es-werden-noch-mehr-menschen-verletzt-a-501e3ad5-aec8-4fd5-a7df-ee866c907a22#ref=rss)
-### obama
+* [https://www.spiegel.de/wirtschaft/unternehmen/oeffentlich-rechtlicher-rundfunk-wdr-intendant-tom-buhrow-spricht-ueber-moegliche-fusion-von-ard-und-zdf](https://www.spiegel.de/wirtschaft/unternehmen/oeffentlich-rechtlicher-rundfunk-wdr-intendant-tom-buhrow-spricht-ueber-moegliche-fusion-von-ard-und-zdf-a-157d0f13-462f-40b1-b885-1ebd333e87b9#ref=rss)
+### einige
 
-* [https://www.spiegel.de/ausland/barack-obama-es-werden-noch-mehr-menschen-verletzt](https://www.spiegel.de/ausland/barack-obama-es-werden-noch-mehr-menschen-verletzt-a-501e3ad5-aec8-4fd5-a7df-ee866c907a22#ref=rss)
-### mann
+* [https://www.spiegel.de/wirtschaft/unternehmen/oeffentlich-rechtlicher-rundfunk-wdr-intendant-tom-buhrow-spricht-ueber-moegliche-fusion-von-ard-und-zdf](https://www.spiegel.de/wirtschaft/unternehmen/oeffentlich-rechtlicher-rundfunk-wdr-intendant-tom-buhrow-spricht-ueber-moegliche-fusion-von-ard-und-zdf-a-157d0f13-462f-40b1-b885-1ebd333e87b9#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-messenger-fuehrt-neue-funktion-communitys-weltweit-ein](https://www.spiegel.de/netzwelt/apps/whatsapp-messenger-fuehrt-neue-funktion-communitys-weltweit-ein-a-2a1be4a6-911c-42ab-88bd-6fac34cb95d9#ref=rss)
+### sprechen
 
-* [https://www.spiegel.de/ausland/barack-obama-es-werden-noch-mehr-menschen-verletzt](https://www.spiegel.de/ausland/barack-obama-es-werden-noch-mehr-menschen-verletzt-a-501e3ad5-aec8-4fd5-a7df-ee866c907a22#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/podcast-ein-raetselhafter-patient-torkelnd-in-der-notaufnahme](https://www.spiegel.de/gesundheit/diagnose/podcast-ein-raetselhafter-patient-torkelnd-in-der-notaufnahme-a-9c9cf5c0-446d-48ed-8272-15871595a576#ref=rss)
-### playstation
+* [https://www.spiegel.de/ausland/marjorie-taylor-greene-quaelt-joe-biden-republikaner-sprechen-ueber-impeachment-verfahren](https://www.spiegel.de/ausland/marjorie-taylor-greene-quaelt-joe-biden-republikaner-sprechen-ueber-impeachment-verfahren-a-597f02b1-ddb6-4419-b974-f793689df201#ref=rss)
+### impeachmentverfahren
 
-* [https://www.spiegel.de/netzwelt/games/playstation-vr-2-wird-600-euro-kosten-und-erscheint-im-februar](https://www.spiegel.de/netzwelt/games/playstation-vr-2-wird-600-euro-kosten-und-erscheint-im-februar-a-eb599dc4-58ac-4414-9744-105097c6eaca#ref=rss)
-### passiert
+* [https://www.spiegel.de/ausland/marjorie-taylor-greene-quaelt-joe-biden-republikaner-sprechen-ueber-impeachment-verfahren](https://www.spiegel.de/ausland/marjorie-taylor-greene-quaelt-joe-biden-republikaner-sprechen-ueber-impeachment-verfahren-a-597f02b1-ddb6-4419-b974-f793689df201#ref=rss)
+### laut
 
-* [https://www.spiegel.de/ausland/midterms-was-bei-betrugsvorwuerfen-bei-den-us-kongresswahlen-passiert](https://www.spiegel.de/ausland/midterms-was-bei-betrugsvorwuerfen-bei-den-us-kongresswahlen-passiert-a-cc69d39d-1d40-4d12-979e-03b3060adbbf#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/podcast-ein-raetselhafter-patient-torkelnd-in-der-notaufnahme](https://www.spiegel.de/gesundheit/diagnose/podcast-ein-raetselhafter-patient-torkelnd-in-der-notaufnahme-a-9c9cf5c0-446d-48ed-8272-15871595a576#ref=rss)
-### drei
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-akw-saporischschja-laut-betreiber-nach-beschuss-erneut-vom-stromnetz-getrennt](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-akw-saporischschja-laut-betreiber-nach-beschuss-erneut-vom-stromnetz-getrennt-a-7e16da83-5377-4114-847f-8a0f4612b68c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer-a-174b90de-8d77-4fae-9fec-d9a0882569c2#ref=rss)
+### britischen
 
-* [https://www.spiegel.de/ausland/midterms-was-bei-betrugsvorwuerfen-bei-den-us-kongresswahlen-passiert](https://www.spiegel.de/ausland/midterms-was-bei-betrugsvorwuerfen-bei-den-us-kongresswahlen-passiert-a-cc69d39d-1d40-4d12-979e-03b3060adbbf#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-tv-4k-amazon-fire-tv-cube-und-roku-express-4k-drei-streamingboxen-im-test](https://www.spiegel.de/netzwelt/gadgets/apple-tv-4k-amazon-fire-tv-cube-und-roku-express-4k-drei-streamingboxen-im-test-a-68eb80c5-0112-462b-b0a0-4c3b4d238a5d#ref=rss)
-### 4k
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-akw-saporischschja-laut-betreiber-nach-beschuss-erneut-vom-stromnetz-getrennt](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-akw-saporischschja-laut-betreiber-nach-beschuss-erneut-vom-stromnetz-getrennt-a-7e16da83-5377-4114-847f-8a0f4612b68c#ref=rss)
+### philippinen
 
-* [https://www.spiegel.de/netzwelt/gadgets/apple-tv-4k-amazon-fire-tv-cube-und-roku-express-4k-drei-streamingboxen-im-test](https://www.spiegel.de/netzwelt/gadgets/apple-tv-4k-amazon-fire-tv-cube-und-roku-express-4k-drei-streamingboxen-im-test-a-68eb80c5-0112-462b-b0a0-4c3b4d238a5d#ref=rss)
+* [https://www.spiegel.de/panorama/philippinen-mindestens-150-tote-durch-tropensturm-nalgae](https://www.spiegel.de/panorama/philippinen-mindestens-150-tote-durch-tropensturm-nalgae-a-d22ca356-6842-42a8-a71f-9187c94e38e7#ref=rss)
+### tote
+
+* [https://www.spiegel.de/panorama/philippinen-mindestens-150-tote-durch-tropensturm-nalgae](https://www.spiegel.de/panorama/philippinen-mindestens-150-tote-durch-tropensturm-nalgae-a-d22ca356-6842-42a8-a71f-9187c94e38e7#ref=rss)
+### tropensturm
+
+* [https://www.spiegel.de/panorama/philippinen-mindestens-150-tote-durch-tropensturm-nalgae](https://www.spiegel.de/panorama/philippinen-mindestens-150-tote-durch-tropensturm-nalgae-a-d22ca356-6842-42a8-a71f-9187c94e38e7#ref=rss)
+### nalgae
+
+* [https://www.spiegel.de/panorama/philippinen-mindestens-150-tote-durch-tropensturm-nalgae](https://www.spiegel.de/panorama/philippinen-mindestens-150-tote-durch-tropensturm-nalgae-a-d22ca356-6842-42a8-a71f-9187c94e38e7#ref=rss)
+### messenger
+
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-messenger-fuehrt-neue-funktion-communitys-weltweit-ein](https://www.spiegel.de/netzwelt/apps/whatsapp-messenger-fuehrt-neue-funktion-communitys-weltweit-ein-a-2a1be4a6-911c-42ab-88bd-6fac34cb95d9#ref=rss)
+### communitys
+
+* [https://www.spiegel.de/netzwelt/apps/whatsapp-messenger-fuehrt-neue-funktion-communitys-weltweit-ein](https://www.spiegel.de/netzwelt/apps/whatsapp-messenger-fuehrt-neue-funktion-communitys-weltweit-ein-a-2a1be4a6-911c-42ab-88bd-6fac34cb95d9#ref=rss)
+### sozialverband
+
+* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer-a-174b90de-8d77-4fae-9fec-d9a0882569c2#ref=rss)
+### bus
+
+* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer-a-174b90de-8d77-4fae-9fec-d9a0882569c2#ref=rss)
+* [https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif](https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif-a-a5f7ef62-c14a-4372-a1dc-c02bd75e990a#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-ist-laut-sozialverband-fuer-viele-menschen-zu-teuer-a-174b90de-8d77-4fae-9fec-d9a0882569c2#ref=rss)
+* [https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif](https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif-a-a5f7ef62-c14a-4372-a1dc-c02bd75e990a#ref=rss)
+### zukunftsforscher
+
+* [https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif](https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif-a-a5f7ef62-c14a-4372-a1dc-c02bd75e990a#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif](https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif-a-a5f7ef62-c14a-4372-a1dc-c02bd75e990a#ref=rss)
+### carsten
+
+* [https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif](https://www.spiegel.de/auto/49-euro-ticket-zukunftsforscher-stefan-carsten-sieht-flatrate-als-einstieg-in-nulltarif-a-a5f7ef62-c14a-4372-a1dc-c02bd75e990a#ref=rss)
+### luka
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-ueberfluegelt-michael-jordan-und-stellt-60-jahre-alte-bestmarke-ein](https://www.spiegel.de/sport/basketball/nba-luka-doncic-ueberfluegelt-michael-jordan-und-stellt-60-jahre-alte-bestmarke-ein-a-5908ef39-c2fa-490f-97ae-6df0c2c57b57#ref=rss)
+### dončić
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-ueberfluegelt-michael-jordan-und-stellt-60-jahre-alte-bestmarke-ein](https://www.spiegel.de/sport/basketball/nba-luka-doncic-ueberfluegelt-michael-jordan-und-stellt-60-jahre-alte-bestmarke-ein-a-5908ef39-c2fa-490f-97ae-6df0c2c57b57#ref=rss)
+### michael
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-ueberfluegelt-michael-jordan-und-stellt-60-jahre-alte-bestmarke-ein](https://www.spiegel.de/sport/basketball/nba-luka-doncic-ueberfluegelt-michael-jordan-und-stellt-60-jahre-alte-bestmarke-ein-a-5908ef39-c2fa-490f-97ae-6df0c2c57b57#ref=rss)
+### jordan
+
+* [https://www.spiegel.de/sport/basketball/nba-luka-doncic-ueberfluegelt-michael-jordan-und-stellt-60-jahre-alte-bestmarke-ein](https://www.spiegel.de/sport/basketball/nba-luka-doncic-ueberfluegelt-michael-jordan-und-stellt-60-jahre-alte-bestmarke-ein-a-5908ef39-c2fa-490f-97ae-6df0c2c57b57#ref=rss)
+### warnen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-olaf-scholz-reise-autoindustrie-und-mittelstand-warnen-vor-china-aus](https://www.spiegel.de/wirtschaft/unternehmen/vor-olaf-scholz-reise-autoindustrie-und-mittelstand-warnen-vor-china-aus-a-7e9b8620-527d-4c39-9cd0-1634d3524111#ref=rss)
 
