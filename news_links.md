@@ -4,397 +4,305 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### laut
-
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-testet-neues-atom-u-boot](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-testet-neues-atom-u-boot-a-70321f5c-e464-4b1b-80d9-d0f4b60dc0ed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-wegen-geplanter-massenentlassungen-offenbar-verklagt](https://www.spiegel.de/wirtschaft/unternehmen/twitter-wegen-geplanter-massenentlassungen-offenbar-verklagt-a-51e8bbb5-9501-459e-bad9-567f7d081641#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten](https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten-a-27cc9ed6-9961-4c63-a68c-2733cfc7d59e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china-a-dc899532-7bec-42ba-862e-3f3eae5ded69#ref=rss)
-### gaspreisbremse
-
-* [https://www.spiegel.de/wirtschaft/service/veronika-grimm-ueber-vorziehen-der-preisbremse-gaskunden-nicht-gegenueber-anderen-haushalten-bevorzugen](https://www.spiegel.de/wirtschaft/service/veronika-grimm-ueber-vorziehen-der-preisbremse-gaskunden-nicht-gegenueber-anderen-haushalten-bevorzugen-a-66f37fec-1811-4672-8b2b-0278338d2b85#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gaspreisbremse-koennte-spielraum-fuer-preiserhoehungen-schaffen-zew-studie](https://www.spiegel.de/wirtschaft/gaspreisbremse-koennte-spielraum-fuer-preiserhoehungen-schaffen-zew-studie-a-28227d37-be8e-4a0d-b40c-21d65fcbcc45#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten](https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten-a-27cc9ed6-9961-4c63-a68c-2733cfc7d59e#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/cop27-der-klimawandel-kostet-menschenleben-und-viel-geld-schon-jetzt](https://www.spiegel.de/wissenschaft/cop27-der-klimawandel-kostet-menschenleben-und-viel-geld-schon-jetzt-a-2704f1c0-ae63-4954-b473-a10c5cd66e32#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-deutschland-koennte-klimaziele-bis-2030-deutlich-verfehlen](https://www.spiegel.de/wissenschaft/klimakrise-deutschland-koennte-klimaziele-bis-2030-deutlich-verfehlen-a-3529718a-5c8d-47a7-b4cb-8010547a52c6#ref=rss)
-* [https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest](https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest-a-1cd5bf64-c2a3-4320-8c93-b0111ac59b77#ref=rss)
-* [https://www.spiegel.de/ausland/china-reise-von-olaf-scholz-xi-jinping-will-zusammenarbeit-mit-deutschland-ausbauen](https://www.spiegel.de/ausland/china-reise-von-olaf-scholz-xi-jinping-will-zusammenarbeit-mit-deutschland-ausbauen-a-5db1bb89-ccd1-4090-b43c-2008a68e7236#ref=rss)
-### oliver
-
-* [https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef](https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef-a-73d2ebbb-e058-414b-bd5c-1b6b3a591378#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rb-leipzig-boss-oliver-mintzflaff-wird-neuer-red-bull-chef-und-dietrich-mateschitz-nachfolger](https://www.spiegel.de/wirtschaft/unternehmen/rb-leipzig-boss-oliver-mintzflaff-wird-neuer-red-bull-chef-und-dietrich-mateschitz-nachfolger-a-4560a8d0-a5be-4d23-8219-522ce2df510e#ref=rss)
-### mintzlaff
-
-* [https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef](https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef-a-73d2ebbb-e058-414b-bd5c-1b6b3a591378#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rb-leipzig-boss-oliver-mintzflaff-wird-neuer-red-bull-chef-und-dietrich-mateschitz-nachfolger](https://www.spiegel.de/wirtschaft/unternehmen/rb-leipzig-boss-oliver-mintzflaff-wird-neuer-red-bull-chef-und-dietrich-mateschitz-nachfolger-a-4560a8d0-a5be-4d23-8219-522ce2df510e#ref=rss)
-### chinesische
-
-* [https://www.spiegel.de/panorama/spanien-flughaefen-wegen-abstuerzender-chinesischer-rakete-geschlossen](https://www.spiegel.de/panorama/spanien-flughaefen-wegen-abstuerzender-chinesischer-rakete-geschlossen-a-eed66afe-db57-47bd-aa58-b8db04af5537#ref=rss)
-* [https://www.spiegel.de/ausland/china-und-geheime-polizeistationen-in-europa-wie-chinesische-behoerden-ihre-landsleute-bedraengen](https://www.spiegel.de/ausland/china-und-geheime-polizeistationen-in-europa-wie-chinesische-behoerden-ihre-landsleute-bedraengen-a-7a4cadbb-cba7-46ee-94cd-98fcbf173de8#ref=rss)
-* [https://www.spiegel.de/ausland/china-reise-von-olaf-scholz-xi-jinping-will-zusammenarbeit-mit-deutschland-ausbauen](https://www.spiegel.de/ausland/china-reise-von-olaf-scholz-xi-jinping-will-zusammenarbeit-mit-deutschland-ausbauen-a-5db1bb89-ccd1-4090-b43c-2008a68e7236#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china-a-dc899532-7bec-42ba-862e-3f3eae5ded69#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/china-und-geheime-polizeistationen-in-europa-wie-chinesische-behoerden-ihre-landsleute-bedraengen](https://www.spiegel.de/ausland/china-und-geheime-polizeistationen-in-europa-wie-chinesische-behoerden-ihre-landsleute-bedraengen-a-7a4cadbb-cba7-46ee-94cd-98fcbf173de8#ref=rss)
-* [https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland](https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland-a-f5751c33-6c7c-45d0-9f04-5543f7a3a736#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china-a-dc899532-7bec-42ba-862e-3f3eae5ded69#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich](https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich-a-8925ab40-f296-4827-87c2-1c71372e9af0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit](https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit-a-f381afe7-a580-4940-b8d6-e162bc8f4417#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich](https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich-a-8925ab40-f296-4827-87c2-1c71372e9af0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit](https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit-a-f381afe7-a580-4940-b8d6-e162bc8f4417#ref=rss)
-### kandidatur
-
-* [https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich](https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich-a-8925ab40-f296-4827-87c2-1c71372e9af0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit](https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit-a-f381afe7-a580-4940-b8d6-e162bc8f4417#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland](https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland-a-f5751c33-6c7c-45d0-9f04-5543f7a3a736#ref=rss)
-* [https://www.spiegel.de/ausland/china-reise-von-olaf-scholz-xi-jinping-will-zusammenarbeit-mit-deutschland-ausbauen](https://www.spiegel.de/ausland/china-reise-von-olaf-scholz-xi-jinping-will-zusammenarbeit-mit-deutschland-ausbauen-a-5db1bb89-ccd1-4090-b43c-2008a68e7236#ref=rss)
 ### scholz
 
-* [https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland](https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland-a-f5751c33-6c7c-45d0-9f04-5543f7a3a736#ref=rss)
-* [https://www.spiegel.de/ausland/china-reise-von-olaf-scholz-xi-jinping-will-zusammenarbeit-mit-deutschland-ausbauen](https://www.spiegel.de/ausland/china-reise-von-olaf-scholz-xi-jinping-will-zusammenarbeit-mit-deutschland-ausbauen-a-5db1bb89-ccd1-4090-b43c-2008a68e7236#ref=rss)
-### deutlich
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china-a-ad98c20b-c845-4c44-8169-52f270a23dda#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-xi-jinping-in-china-scholz-laesst-die-kritik-an-sich-abperlen](https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-xi-jinping-in-china-scholz-laesst-die-kritik-an-sich-abperlen-a-af271bed-d491-4bb9-af8c-6807e71f9904#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mehrheit-der-deutschen-lehnt-reise-des-kanzlers-zur-wm-in-katar-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-mehrheit-der-deutschen-lehnt-reise-des-kanzlers-zur-wm-in-katar-ab-a-bd3ed65d-5143-444e-8bce-5c56a7b8898a#ref=rss)
+### generation
 
-* [https://www.spiegel.de/wissenschaft/klimakrise-deutschland-koennte-klimaziele-bis-2030-deutlich-verfehlen](https://www.spiegel.de/wissenschaft/klimakrise-deutschland-koennte-klimaziele-bis-2030-deutlich-verfehlen-a-3529718a-5c8d-47a7-b4cb-8010547a52c6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein-a-a3624a2d-4a3f-4dae-a22a-8bf7fd03800f#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen](https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen-a-35853801-916f-4657-95f0-69726dda83dc#ref=rss)
-### regierung
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china-a-ad98c20b-c845-4c44-8169-52f270a23dda#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle](https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle-a-ada844d0-98e6-44b8-ad4f-ab433d62d9e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung](https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung-a-1f1d0bf6-f021-42d7-97db-4ad7b31d95e7#ref=rss)
+* [https://www.spiegel.de/panorama/rom-umweltaktivisten-werfen-erbsensuppe-gegen-van-gogh-bild](https://www.spiegel.de/panorama/rom-umweltaktivisten-werfen-erbsensuppe-gegen-van-gogh-bild-a-a842789f-20c8-4beb-a3ba-ad07212742b9#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/wissenschaft/klimakrise-deutschland-koennte-klimaziele-bis-2030-deutlich-verfehlen](https://www.spiegel.de/wissenschaft/klimakrise-deutschland-koennte-klimaziele-bis-2030-deutlich-verfehlen-a-3529718a-5c8d-47a7-b4cb-8010547a52c6#ref=rss)
-* [https://www.spiegel.de/ausland/china-und-geheime-polizeistationen-in-europa-wie-chinesische-behoerden-ihre-landsleute-bedraengen](https://www.spiegel.de/ausland/china-und-geheime-polizeistationen-in-europa-wie-chinesische-behoerden-ihre-landsleute-bedraengen-a-7a4cadbb-cba7-46ee-94cd-98fcbf173de8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten](https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten-a-27cc9ed6-9961-4c63-a68c-2733cfc7d59e#ref=rss)
-### europa
-
-* [https://www.spiegel.de/ausland/china-und-geheime-polizeistationen-in-europa-wie-chinesische-behoerden-ihre-landsleute-bedraengen](https://www.spiegel.de/ausland/china-und-geheime-polizeistationen-in-europa-wie-chinesische-behoerden-ihre-landsleute-bedraengen-a-7a4cadbb-cba7-46ee-94cd-98fcbf173de8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china-a-dc899532-7bec-42ba-862e-3f3eae5ded69#ref=rss)
-### 2024
-
-* [https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich](https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich-a-8925ab40-f296-4827-87c2-1c71372e9af0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit](https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit-a-f381afe7-a580-4940-b8d6-e162bc8f4417#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich](https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich-a-8925ab40-f296-4827-87c2-1c71372e9af0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-chef-klaus-mueller-wenn-es-richtig-frostig-wird-werden-die-speicher-schnell-leergesaugt](https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-chef-klaus-mueller-wenn-es-richtig-frostig-wird-werden-die-speicher-schnell-leergesaugt-a-c728807f-9ea1-4c77-b170-fe3df15c0824#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit](https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit-a-f381afe7-a580-4940-b8d6-e162bc8f4417#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-99-jaehriger-ehemaliger-ns-wachmann-muss-nicht-vor-gericht](https://www.spiegel.de/panorama/justiz/berlin-99-jaehriger-ehemaliger-ns-wachmann-muss-nicht-vor-gericht-a-e528bc80-7214-4cf1-b500-1e3d574e8d7a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-radfahrerin-nach-unfall-mit-betonmischer-gestorben](https://www.spiegel.de/panorama/justiz/berlin-radfahrerin-nach-unfall-mit-betonmischer-gestorben-a-8e7d69db-8e31-494a-8d8c-dc7bd37053dd#ref=rss)
-### tutanchamun
-
-* [https://www.spiegel.de/geschichte/tutanchamun-sensationelle-entdeckung-des-pharaonengrabs-vor-100-jahren-wem-gehoert-tutanchamun](https://www.spiegel.de/geschichte/tutanchamun-sensationelle-entdeckung-des-pharaonengrabs-vor-100-jahren-wem-gehoert-tutanchamun-a-fe497134-fe25-49ad-8ad2-aee626ca168c#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/leute/hoehner-saenger-henning-krautmacher-tritt-nicht-mehr-auf-sorge-um-ehefrau](https://www.spiegel.de/panorama/leute/hoehner-saenger-henning-krautmacher-tritt-nicht-mehr-auf-sorge-um-ehefrau-a-d823e596-4d31-474b-b9e2-137cf9789c63#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china-a-dc899532-7bec-42ba-862e-3f3eae5ded69#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/leute/hoehner-saenger-henning-krautmacher-tritt-nicht-mehr-auf-sorge-um-ehefrau](https://www.spiegel.de/panorama/leute/hoehner-saenger-henning-krautmacher-tritt-nicht-mehr-auf-sorge-um-ehefrau-a-d823e596-4d31-474b-b9e2-137cf9789c63#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-radfahrerin-nach-unfall-mit-betonmischer-gestorben](https://www.spiegel.de/panorama/justiz/berlin-radfahrerin-nach-unfall-mit-betonmischer-gestorben-a-8e7d69db-8e31-494a-8d8c-dc7bd37053dd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/enger-mann-durch-polizeischuesse-im-kreis-herford-schwer-verletzt](https://www.spiegel.de/panorama/justiz/enger-mann-durch-polizeischuesse-im-kreis-herford-schwer-verletzt-a-982de3d2-9ce3-4a13-8af4-38fb35a6467a#ref=rss)
-### irving
-
-* [https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen](https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen-a-35853801-916f-4657-95f0-69726dda83dc#ref=rss)
-### veronika
-
-* [https://www.spiegel.de/wirtschaft/service/veronika-grimm-ueber-vorziehen-der-preisbremse-gaskunden-nicht-gegenueber-anderen-haushalten-bevorzugen](https://www.spiegel.de/wirtschaft/service/veronika-grimm-ueber-vorziehen-der-preisbremse-gaskunden-nicht-gegenueber-anderen-haushalten-bevorzugen-a-66f37fec-1811-4672-8b2b-0278338d2b85#ref=rss)
-### grimm
-
-* [https://www.spiegel.de/wirtschaft/service/veronika-grimm-ueber-vorziehen-der-preisbremse-gaskunden-nicht-gegenueber-anderen-haushalten-bevorzugen](https://www.spiegel.de/wirtschaft/service/veronika-grimm-ueber-vorziehen-der-preisbremse-gaskunden-nicht-gegenueber-anderen-haushalten-bevorzugen-a-66f37fec-1811-4672-8b2b-0278338d2b85#ref=rss)
-### geplante
-
-* [https://www.spiegel.de/wirtschaft/service/veronika-grimm-ueber-vorziehen-der-preisbremse-gaskunden-nicht-gegenueber-anderen-haushalten-bevorzugen](https://www.spiegel.de/wirtschaft/service/veronika-grimm-ueber-vorziehen-der-preisbremse-gaskunden-nicht-gegenueber-anderen-haushalten-bevorzugen-a-66f37fec-1811-4672-8b2b-0278338d2b85#ref=rss)
-* [https://www.spiegel.de/wirtschaft/gaspreisbremse-koennte-spielraum-fuer-preiserhoehungen-schaffen-zew-studie](https://www.spiegel.de/wirtschaft/gaspreisbremse-koennte-spielraum-fuer-preiserhoehungen-schaffen-zew-studie-a-28227d37-be8e-4a0d-b40c-21d65fcbcc45#ref=rss)
-### menschenleben
-
-* [https://www.spiegel.de/wissenschaft/cop27-der-klimawandel-kostet-menschenleben-und-viel-geld-schon-jetzt](https://www.spiegel.de/wissenschaft/cop27-der-klimawandel-kostet-menschenleben-und-viel-geld-schon-jetzt-a-2704f1c0-ae63-4954-b473-a10c5cd66e32#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/wissenschaft/cop27-der-klimawandel-kostet-menschenleben-und-viel-geld-schon-jetzt](https://www.spiegel.de/wissenschaft/cop27-der-klimawandel-kostet-menschenleben-und-viel-geld-schon-jetzt-a-2704f1c0-ae63-4954-b473-a10c5cd66e32#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china-a-dc899532-7bec-42ba-862e-3f3eae5ded69#ref=rss)
-### klimakrise
-
-* [https://www.spiegel.de/wissenschaft/cop27-der-klimawandel-kostet-menschenleben-und-viel-geld-schon-jetzt](https://www.spiegel.de/wissenschaft/cop27-der-klimawandel-kostet-menschenleben-und-viel-geld-schon-jetzt-a-2704f1c0-ae63-4954-b473-a10c5cd66e32#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakrise-deutschland-koennte-klimaziele-bis-2030-deutlich-verfehlen](https://www.spiegel.de/wissenschaft/klimakrise-deutschland-koennte-klimaziele-bis-2030-deutlich-verfehlen-a-3529718a-5c8d-47a7-b4cb-8010547a52c6#ref=rss)
-### mindestens
-
-* [https://www.spiegel.de/wissenschaft/cop27-der-klimawandel-kostet-menschenleben-und-viel-geld-schon-jetzt](https://www.spiegel.de/wissenschaft/cop27-der-klimawandel-kostet-menschenleben-und-viel-geld-schon-jetzt-a-2704f1c0-ae63-4954-b473-a10c5cd66e32#ref=rss)
-* [https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen](https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen-a-35853801-916f-4657-95f0-69726dda83dc#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wissenschaft/cop27-der-klimawandel-kostet-menschenleben-und-viel-geld-schon-jetzt](https://www.spiegel.de/wissenschaft/cop27-der-klimawandel-kostet-menschenleben-und-viel-geld-schon-jetzt-a-2704f1c0-ae63-4954-b473-a10c5cd66e32#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten](https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten-a-27cc9ed6-9961-4c63-a68c-2733cfc7d59e#ref=rss)
-### wechselt
-
-* [https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef](https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef-a-73d2ebbb-e058-414b-bd5c-1b6b3a591378#ref=rss)
-### red
-
-* [https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef](https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef-a-73d2ebbb-e058-414b-bd5c-1b6b3a591378#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rb-leipzig-boss-oliver-mintzflaff-wird-neuer-red-bull-chef-und-dietrich-mateschitz-nachfolger](https://www.spiegel.de/wirtschaft/unternehmen/rb-leipzig-boss-oliver-mintzflaff-wird-neuer-red-bull-chef-und-dietrich-mateschitz-nachfolger-a-4560a8d0-a5be-4d23-8219-522ce2df510e#ref=rss)
-### bull
-
-* [https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef](https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef-a-73d2ebbb-e058-414b-bd5c-1b6b3a591378#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rb-leipzig-boss-oliver-mintzflaff-wird-neuer-red-bull-chef-und-dietrich-mateschitz-nachfolger](https://www.spiegel.de/wirtschaft/unternehmen/rb-leipzig-boss-oliver-mintzflaff-wird-neuer-red-bull-chef-und-dietrich-mateschitz-nachfolger-a-4560a8d0-a5be-4d23-8219-522ce2df510e#ref=rss)
-### rb
-
-* [https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef](https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef-a-73d2ebbb-e058-414b-bd5c-1b6b3a591378#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef](https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef-a-73d2ebbb-e058-414b-bd5c-1b6b3a591378#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef](https://www.spiegel.de/sport/fussball/oliver-mintzlaff-wechselt-zu-red-bull-rb-leipzig-verliert-seinen-chef-a-73d2ebbb-e058-414b-bd5c-1b6b3a591378#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rb-leipzig-boss-oliver-mintzflaff-wird-neuer-red-bull-chef-und-dietrich-mateschitz-nachfolger](https://www.spiegel.de/wirtschaft/unternehmen/rb-leipzig-boss-oliver-mintzflaff-wird-neuer-red-bull-chef-und-dietrich-mateschitz-nachfolger-a-4560a8d0-a5be-4d23-8219-522ce2df510e#ref=rss)
-### geben
-
-* [https://www.spiegel.de/netzwelt/web/twitter-angestellte-geben-sich-tipps-hofft-das-beste-aber-bereitet-euch-auf-das-schlimmste-vor](https://www.spiegel.de/netzwelt/web/twitter-angestellte-geben-sich-tipps-hofft-das-beste-aber-bereitet-euch-auf-das-schlimmste-vor-a-cf561905-e794-4b43-bdde-a5e20f5b43a8#ref=rss)
-### tipps
-
-* [https://www.spiegel.de/netzwelt/web/twitter-angestellte-geben-sich-tipps-hofft-das-beste-aber-bereitet-euch-auf-das-schlimmste-vor](https://www.spiegel.de/netzwelt/web/twitter-angestellte-geben-sich-tipps-hofft-das-beste-aber-bereitet-euch-auf-das-schlimmste-vor-a-cf561905-e794-4b43-bdde-a5e20f5b43a8#ref=rss)
-### euch
-
-* [https://www.spiegel.de/netzwelt/web/twitter-angestellte-geben-sich-tipps-hofft-das-beste-aber-bereitet-euch-auf-das-schlimmste-vor](https://www.spiegel.de/netzwelt/web/twitter-angestellte-geben-sich-tipps-hofft-das-beste-aber-bereitet-euch-auf-das-schlimmste-vor-a-cf561905-e794-4b43-bdde-a5e20f5b43a8#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit](https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit-a-f381afe7-a580-4940-b8d6-e162bc8f4417#ref=rss)
-### entlassungen
-
-* [https://www.spiegel.de/netzwelt/web/twitter-angestellte-geben-sich-tipps-hofft-das-beste-aber-bereitet-euch-auf-das-schlimmste-vor](https://www.spiegel.de/netzwelt/web/twitter-angestellte-geben-sich-tipps-hofft-das-beste-aber-bereitet-euch-auf-das-schlimmste-vor-a-cf561905-e794-4b43-bdde-a5e20f5b43a8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-wegen-geplanter-massenentlassungen-offenbar-verklagt](https://www.spiegel.de/wirtschaft/unternehmen/twitter-wegen-geplanter-massenentlassungen-offenbar-verklagt-a-51e8bbb5-9501-459e-bad9-567f7d081641#ref=rss)
-### rechnen
-
-* [https://www.spiegel.de/netzwelt/web/twitter-angestellte-geben-sich-tipps-hofft-das-beste-aber-bereitet-euch-auf-das-schlimmste-vor](https://www.spiegel.de/netzwelt/web/twitter-angestellte-geben-sich-tipps-hofft-das-beste-aber-bereitet-euch-auf-das-schlimmste-vor-a-cf561905-e794-4b43-bdde-a5e20f5b43a8#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-flughaefen-wegen-abstuerzender-chinesischer-rakete-geschlossen](https://www.spiegel.de/panorama/spanien-flughaefen-wegen-abstuerzender-chinesischer-rakete-geschlossen-a-eed66afe-db57-47bd-aa58-b8db04af5537#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/netzwelt/web/twitter-angestellte-geben-sich-tipps-hofft-das-beste-aber-bereitet-euch-auf-das-schlimmste-vor](https://www.spiegel.de/netzwelt/web/twitter-angestellte-geben-sich-tipps-hofft-das-beste-aber-bereitet-euch-auf-das-schlimmste-vor-a-cf561905-e794-4b43-bdde-a5e20f5b43a8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-99-jaehriger-ehemaliger-ns-wachmann-muss-nicht-vor-gericht](https://www.spiegel.de/panorama/justiz/berlin-99-jaehriger-ehemaliger-ns-wachmann-muss-nicht-vor-gericht-a-e528bc80-7214-4cf1-b500-1e3d574e8d7a#ref=rss)
-### klimaziele
-
-* [https://www.spiegel.de/wissenschaft/klimakrise-deutschland-koennte-klimaziele-bis-2030-deutlich-verfehlen](https://www.spiegel.de/wissenschaft/klimakrise-deutschland-koennte-klimaziele-bis-2030-deutlich-verfehlen-a-3529718a-5c8d-47a7-b4cb-8010547a52c6#ref=rss)
-### 2030
-
-* [https://www.spiegel.de/wissenschaft/klimakrise-deutschland-koennte-klimaziele-bis-2030-deutlich-verfehlen](https://www.spiegel.de/wissenschaft/klimakrise-deutschland-koennte-klimaziele-bis-2030-deutlich-verfehlen-a-3529718a-5c8d-47a7-b4cb-8010547a52c6#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein-a-a3624a2d-4a3f-4dae-a22a-8bf7fd03800f#ref=rss)
-### industrie
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein-a-a3624a2d-4a3f-4dae-a22a-8bf7fd03800f#ref=rss)
-### aufträge
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein-a-a3624a2d-4a3f-4dae-a22a-8bf7fd03800f#ref=rss)
-### stark
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein-a-a3624a2d-4a3f-4dae-a22a-8bf7fd03800f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten](https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten-a-27cc9ed6-9961-4c63-a68c-2733cfc7d59e#ref=rss)
-### neue
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein-a-a3624a2d-4a3f-4dae-a22a-8bf7fd03800f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-wegen-geplanter-massenentlassungen-offenbar-verklagt](https://www.spiegel.de/wirtschaft/unternehmen/twitter-wegen-geplanter-massenentlassungen-offenbar-verklagt-a-51e8bbb5-9501-459e-bad9-567f7d081641#ref=rss)
-### erhalten
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein-a-a3624a2d-4a3f-4dae-a22a-8bf7fd03800f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rb-leipzig-boss-oliver-mintzflaff-wird-neuer-red-bull-chef-und-dietrich-mateschitz-nachfolger](https://www.spiegel.de/wirtschaft/unternehmen/rb-leipzig-boss-oliver-mintzflaff-wird-neuer-red-bull-chef-und-dietrich-mateschitz-nachfolger-a-4560a8d0-a5be-4d23-8219-522ce2df510e#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-industrie-auftraege-brechen-unerwartet-stark-ein-a-a3624a2d-4a3f-4dae-a22a-8bf7fd03800f#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/panorama/spanien-flughaefen-wegen-abstuerzender-chinesischer-rakete-geschlossen](https://www.spiegel.de/panorama/spanien-flughaefen-wegen-abstuerzender-chinesischer-rakete-geschlossen-a-eed66afe-db57-47bd-aa58-b8db04af5537#ref=rss)
-### rakete
-
-* [https://www.spiegel.de/panorama/spanien-flughaefen-wegen-abstuerzender-chinesischer-rakete-geschlossen](https://www.spiegel.de/panorama/spanien-flughaefen-wegen-abstuerzender-chinesischer-rakete-geschlossen-a-eed66afe-db57-47bd-aa58-b8db04af5537#ref=rss)
-### polizeistationen
-
-* [https://www.spiegel.de/ausland/china-und-geheime-polizeistationen-in-europa-wie-chinesische-behoerden-ihre-landsleute-bedraengen](https://www.spiegel.de/ausland/china-und-geheime-polizeistationen-in-europa-wie-chinesische-behoerden-ihre-landsleute-bedraengen-a-7a4cadbb-cba7-46ee-94cd-98fcbf173de8#ref=rss)
-### zwischenwahlen
-
-* [https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich](https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich-a-8925ab40-f296-4827-87c2-1c71372e9af0#ref=rss)
-### spekulationen
-
-* [https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich](https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich-a-8925ab40-f296-4827-87c2-1c71372e9af0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit](https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit-a-f381afe7-a580-4940-b8d6-e162bc8f4417#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich](https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich-a-8925ab40-f296-4827-87c2-1c71372e9af0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit](https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit-a-f381afe7-a580-4940-b8d6-e162bc8f4417#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich](https://www.spiegel.de/ausland/donald-trump-kandidatur-bei-us-praesidentschaftswahl-2024-sehr-wahrscheinlich-a-8925ab40-f296-4827-87c2-1c71372e9af0#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit](https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit-a-f381afe7-a580-4940-b8d6-e162bc8f4417#ref=rss)
-### dadurch
-
-* [https://www.spiegel.de/wirtschaft/gaspreisbremse-koennte-spielraum-fuer-preiserhoehungen-schaffen-zew-studie](https://www.spiegel.de/wirtschaft/gaspreisbremse-koennte-spielraum-fuer-preiserhoehungen-schaffen-zew-studie-a-28227d37-be8e-4a0d-b40c-21d65fcbcc45#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china-a-dc899532-7bec-42ba-862e-3f3eae5ded69#ref=rss)
-### star
-
-* [https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest](https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest-a-1cd5bf64-c2a3-4320-8c93-b0111ac59b77#ref=rss)
-### trek
-
-* [https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest](https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest-a-1cd5bf64-c2a3-4320-8c93-b0111ac59b77#ref=rss)
-### staffel
-
-* [https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest](https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest-a-1cd5bf64-c2a3-4320-8c93-b0111ac59b77#ref=rss)
-### amazon
-
-* [https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest](https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest-a-1cd5bf64-c2a3-4320-8c93-b0111ac59b77#ref=rss)
-### prime
-
-* [https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest](https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest-a-1cd5bf64-c2a3-4320-8c93-b0111ac59b77#ref=rss)
-### lange
-
-* [https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest](https://www.spiegel.de/kultur/tv/star-trek-picard-starttermin-fuer-letzte-staffel-bei-amazon-prime-steht-fest-a-1cd5bf64-c2a3-4320-8c93-b0111ac59b77#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-chef-klaus-mueller-wenn-es-richtig-frostig-wird-werden-die-speicher-schnell-leergesaugt](https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-chef-klaus-mueller-wenn-es-richtig-frostig-wird-werden-die-speicher-schnell-leergesaugt-a-c728807f-9ea1-4c77-b170-fe3df15c0824#ref=rss)
-### ausgräber
-
-* [https://www.spiegel.de/geschichte/tutanchamun-sensationelle-entdeckung-des-pharaonengrabs-vor-100-jahren-wem-gehoert-tutanchamun](https://www.spiegel.de/geschichte/tutanchamun-sensationelle-entdeckung-des-pharaonengrabs-vor-100-jahren-wem-gehoert-tutanchamun-a-fe497134-fe25-49ad-8ad2-aee626ca168c#ref=rss)
-### verlangt
-
-* [https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland](https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland-a-f5751c33-6c7c-45d0-9f04-5543f7a3a736#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea](https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea-a-b42dc6d4-c879-4507-8791-2fe53a5fc355#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china-a-ad98c20b-c845-4c44-8169-52f270a23dda#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-xi-jinping-in-china-scholz-laesst-die-kritik-an-sich-abperlen](https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-xi-jinping-in-china-scholz-laesst-die-kritik-an-sich-abperlen-a-af271bed-d491-4bb9-af8c-6807e71f9904#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mehrheit-der-deutschen-lehnt-reise-des-kanzlers-zur-wm-in-katar-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-mehrheit-der-deutschen-lehnt-reise-des-kanzlers-zur-wm-in-katar-ab-a-bd3ed65d-5143-444e-8bce-5c56a7b8898a#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland](https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland-a-f5751c33-6c7c-45d0-9f04-5543f7a3a736#ref=rss)
+* [https://www.spiegel.de/wissenschaft/russland-testet-atom-u-boot-generalissimus-suworow-das-ist-ein-signal](https://www.spiegel.de/wissenschaft/russland-testet-atom-u-boot-generalissimus-suworow-das-ist-ein-signal-a-4ce4c953-3c08-4484-8c5f-2e743f143e49#ref=rss)
 * [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-testet-neues-atom-u-boot](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-testet-neues-atom-u-boot-a-70321f5c-e464-4b1b-80d9-d0f4b60dc0ed#ref=rss)
-### treffen
+### alle
 
-* [https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland](https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland-a-f5751c33-6c7c-45d0-9f04-5543f7a3a736#ref=rss)
-* [https://www.spiegel.de/ausland/china-reise-von-olaf-scholz-xi-jinping-will-zusammenarbeit-mit-deutschland-ausbauen](https://www.spiegel.de/ausland/china-reise-von-olaf-scholz-xi-jinping-will-zusammenarbeit-mit-deutschland-ausbauen-a-5db1bb89-ccd1-4090-b43c-2008a68e7236#ref=rss)
-### kanzler
+* [https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle](https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle-a-ada844d0-98e6-44b8-ad4f-ab433d62d9e0#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/emojis-mit-brillen-13-jaehrige-britin-lowri-moore-fordert-sehhilfen-fuer-alle-gesichter](https://www.spiegel.de/netzwelt/web/emojis-mit-brillen-13-jaehrige-britin-lowri-moore-fordert-sehhilfen-fuer-alle-gesichter-a-48cf394d-caa7-4807-a9ca-f0f0ae7d176c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/mehr-geld-fuer-hochschulen-und-dauerstellen-fuer-wissenschaftlichen-nachwuchs](https://www.spiegel.de/panorama/bildung/mehr-geld-fuer-hochschulen-und-dauerstellen-fuer-wissenschaftlichen-nachwuchs-a-4d9de11b-7d6b-45d6-9f7b-a1cc1123309c#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland](https://www.spiegel.de/politik/olaf-scholz-verlangt-von-china-einfluss-auf-russland-a-f5751c33-6c7c-45d0-9f04-5543f7a3a736#ref=rss)
-* [https://www.spiegel.de/ausland/china-reise-von-olaf-scholz-xi-jinping-will-zusammenarbeit-mit-deutschland-ausbauen](https://www.spiegel.de/ausland/china-reise-von-olaf-scholz-xi-jinping-will-zusammenarbeit-mit-deutschland-ausbauen-a-5db1bb89-ccd1-4090-b43c-2008a68e7236#ref=rss)
-### henning
+* [https://www.spiegel.de/gesundheit/forscher-heilen-mann-nach-411-tagen-corona-infektion](https://www.spiegel.de/gesundheit/forscher-heilen-mann-nach-411-tagen-corona-infektion-a-af940d54-ff0f-4ceb-8f02-fa532851930d#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/emojis-mit-brillen-13-jaehrige-britin-lowri-moore-fordert-sehhilfen-fuer-alle-gesichter](https://www.spiegel.de/netzwelt/web/emojis-mit-brillen-13-jaehrige-britin-lowri-moore-fordert-sehhilfen-fuer-alle-gesichter-a-48cf394d-caa7-4807-a9ca-f0f0ae7d176c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/mehr-geld-fuer-hochschulen-und-dauerstellen-fuer-wissenschaftlichen-nachwuchs](https://www.spiegel.de/panorama/bildung/mehr-geld-fuer-hochschulen-und-dauerstellen-fuer-wissenschaftlichen-nachwuchs-a-4d9de11b-7d6b-45d6-9f7b-a1cc1123309c#ref=rss)
+### grégoire
 
-* [https://www.spiegel.de/panorama/leute/hoehner-saenger-henning-krautmacher-tritt-nicht-mehr-auf-sorge-um-ehefrau](https://www.spiegel.de/panorama/leute/hoehner-saenger-henning-krautmacher-tritt-nicht-mehr-auf-sorge-um-ehefrau-a-d823e596-4d31-474b-b9e2-137cf9789c63#ref=rss)
-### krautmacher
+* [https://www.spiegel.de/ausland/frankreich-sanktion-fuer-abgeordneten-gregoire-de-fournas-nach-rassistischem-zwischenruf](https://www.spiegel.de/ausland/frankreich-sanktion-fuer-abgeordneten-gregoire-de-fournas-nach-rassistischem-zwischenruf-a-f83007d6-24b4-40d4-9b98-9f1ad933c130#ref=rss)
+### de
 
-* [https://www.spiegel.de/panorama/leute/hoehner-saenger-henning-krautmacher-tritt-nicht-mehr-auf-sorge-um-ehefrau](https://www.spiegel.de/panorama/leute/hoehner-saenger-henning-krautmacher-tritt-nicht-mehr-auf-sorge-um-ehefrau-a-d823e596-4d31-474b-b9e2-137cf9789c63#ref=rss)
-### ehefrau
+* [https://www.spiegel.de/ausland/frankreich-sanktion-fuer-abgeordneten-gregoire-de-fournas-nach-rassistischem-zwischenruf](https://www.spiegel.de/ausland/frankreich-sanktion-fuer-abgeordneten-gregoire-de-fournas-nach-rassistischem-zwischenruf-a-f83007d6-24b4-40d4-9b98-9f1ad933c130#ref=rss)
+### fournas
 
-* [https://www.spiegel.de/panorama/leute/hoehner-saenger-henning-krautmacher-tritt-nicht-mehr-auf-sorge-um-ehefrau](https://www.spiegel.de/panorama/leute/hoehner-saenger-henning-krautmacher-tritt-nicht-mehr-auf-sorge-um-ehefrau-a-d823e596-4d31-474b-b9e2-137cf9789c63#ref=rss)
-### unfall
+* [https://www.spiegel.de/ausland/frankreich-sanktion-fuer-abgeordneten-gregoire-de-fournas-nach-rassistischem-zwischenruf](https://www.spiegel.de/ausland/frankreich-sanktion-fuer-abgeordneten-gregoire-de-fournas-nach-rassistischem-zwischenruf-a-f83007d6-24b4-40d4-9b98-9f1ad933c130#ref=rss)
+### 15
 
-* [https://www.spiegel.de/panorama/justiz/berlin-radfahrerin-nach-unfall-mit-betonmischer-gestorben](https://www.spiegel.de/panorama/justiz/berlin-radfahrerin-nach-unfall-mit-betonmischer-gestorben-a-8e7d69db-8e31-494a-8d8c-dc7bd37053dd#ref=rss)
-### gestorben
+* [https://www.spiegel.de/ausland/frankreich-sanktion-fuer-abgeordneten-gregoire-de-fournas-nach-rassistischem-zwischenruf](https://www.spiegel.de/ausland/frankreich-sanktion-fuer-abgeordneten-gregoire-de-fournas-nach-rassistischem-zwischenruf-a-f83007d6-24b4-40d4-9b98-9f1ad933c130#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china-a-ad98c20b-c845-4c44-8169-52f270a23dda#ref=rss)
+### lang
 
-* [https://www.spiegel.de/panorama/justiz/berlin-radfahrerin-nach-unfall-mit-betonmischer-gestorben](https://www.spiegel.de/panorama/justiz/berlin-radfahrerin-nach-unfall-mit-betonmischer-gestorben-a-8e7d69db-8e31-494a-8d8c-dc7bd37053dd#ref=rss)
-### verletzt
+* [https://www.spiegel.de/ausland/frankreich-sanktion-fuer-abgeordneten-gregoire-de-fournas-nach-rassistischem-zwischenruf](https://www.spiegel.de/ausland/frankreich-sanktion-fuer-abgeordneten-gregoire-de-fournas-nach-rassistischem-zwischenruf-a-f83007d6-24b4-40d4-9b98-9f1ad933c130#ref=rss)
+* [https://www.spiegel.de/gesundheit/forscher-heilen-mann-nach-411-tagen-corona-infektion](https://www.spiegel.de/gesundheit/forscher-heilen-mann-nach-411-tagen-corona-infektion-a-af940d54-ff0f-4ceb-8f02-fa532851930d#ref=rss)
+### news
 
-* [https://www.spiegel.de/panorama/justiz/berlin-radfahrerin-nach-unfall-mit-betonmischer-gestorben](https://www.spiegel.de/panorama/justiz/berlin-radfahrerin-nach-unfall-mit-betonmischer-gestorben-a-8e7d69db-8e31-494a-8d8c-dc7bd37053dd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/enger-mann-durch-polizeischuesse-im-kreis-herford-schwer-verletzt](https://www.spiegel.de/panorama/justiz/enger-mann-durch-polizeischuesse-im-kreis-herford-schwer-verletzt-a-982de3d2-9ce3-4a13-8af4-38fb35a6467a#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze](https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze-a-77cbb532-c4ca-4b79-8127-51026e754745#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea](https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea-a-b42dc6d4-c879-4507-8791-2fe53a5fc355#ref=rss)
-### kampfjets
-
-* [https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze](https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze-a-77cbb532-c4ca-4b79-8127-51026e754745#ref=rss)
-### luftwaffe
-
-* [https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze](https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze-a-77cbb532-c4ca-4b79-8127-51026e754745#ref=rss)
-### 180
-
-* [https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze](https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze-a-77cbb532-c4ca-4b79-8127-51026e754745#ref=rss)
-### flugzeuge
-
-* [https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze](https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze-a-77cbb532-c4ca-4b79-8127-51026e754745#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze](https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze-a-77cbb532-c4ca-4b79-8127-51026e754745#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze](https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze-a-77cbb532-c4ca-4b79-8127-51026e754745#ref=rss)
-### seoul
-
-* [https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze](https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze-a-77cbb532-c4ca-4b79-8127-51026e754745#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea](https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea-a-b42dc6d4-c879-4507-8791-2fe53a5fc355#ref=rss)
-### nacht
-
-* [https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze](https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze-a-77cbb532-c4ca-4b79-8127-51026e754745#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea](https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea-a-b42dc6d4-c879-4507-8791-2fe53a5fc355#ref=rss)
-### pjöngjang
-
-* [https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze](https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze-a-77cbb532-c4ca-4b79-8127-51026e754745#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea](https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea-a-b42dc6d4-c879-4507-8791-2fe53a5fc355#ref=rss)
-### artilleriegeschosse
-
-* [https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze](https://www.spiegel.de/ausland/nordkorea-kampfjets-alarmieren-suedkoreas-luftwaffe-180-flugzeuge-nahe-der-grenze-a-77cbb532-c4ca-4b79-8127-51026e754745#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea](https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea-a-b42dc6d4-c879-4507-8791-2fe53a5fc355#ref=rss)
-### freitag
-
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china-a-ad98c20b-c845-4c44-8169-52f270a23dda#ref=rss)
 * [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-testet-neues-atom-u-boot](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-testet-neues-atom-u-boot-a-70321f5c-e464-4b1b-80d9-d0f4b60dc0ed#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea](https://www.spiegel.de/ausland/nordkorea-frank-walter-steinmeier-verlangt-stopp-von-raketenprogramm-bei-besuch-in-suedkorea-a-b42dc6d4-c879-4507-8791-2fe53a5fc355#ref=rss)
-### britischen
+### letzten
 
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china-a-ad98c20b-c845-4c44-8169-52f270a23dda#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung](https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung-a-1f1d0bf6-f021-42d7-97db-4ad7b31d95e7#ref=rss)
+### china
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china-a-ad98c20b-c845-4c44-8169-52f270a23dda#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-xi-jinping-in-china-scholz-laesst-die-kritik-an-sich-abperlen](https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-xi-jinping-in-china-scholz-laesst-die-kritik-an-sich-abperlen-a-af271bed-d491-4bb9-af8c-6807e71f9904#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china-a-ad98c20b-c845-4c44-8169-52f270a23dda#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/schwarzes-loch-in-erdnaehe-entdeckt](https://www.spiegel.de/wissenschaft/weltall/schwarzes-loch-in-erdnaehe-entdeckt-a-4222c1ba-e64b-46c2-863d-9a224a5aed5b#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china-a-ad98c20b-c845-4c44-8169-52f270a23dda#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung](https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung-a-1f1d0bf6-f021-42d7-97db-4ad7b31d95e7#ref=rss)
+### peking
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimakrise-klimaproteste-der-letzten-generation-olaf-scholz-in-china-a-ad98c20b-c845-4c44-8169-52f270a23dda#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-xi-jinping-in-china-scholz-laesst-die-kritik-an-sich-abperlen](https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-xi-jinping-in-china-scholz-laesst-die-kritik-an-sich-abperlen-a-af271bed-d491-4bb9-af8c-6807e71f9904#ref=rss)
+### signal
+
+* [https://www.spiegel.de/wissenschaft/russland-testet-atom-u-boot-generalissimus-suworow-das-ist-ein-signal](https://www.spiegel.de/wissenschaft/russland-testet-atom-u-boot-generalissimus-suworow-das-ist-ein-signal-a-4ce4c953-3c08-4484-8c5f-2e743f143e49#ref=rss)
+* [https://www.spiegel.de/wirtschaft/weltbank-zahlt-suedafrika-500-millionen-dollar-fuer-kohleausstieg](https://www.spiegel.de/wirtschaft/weltbank-zahlt-suedafrika-500-millionen-dollar-fuer-kohleausstieg-a-e8205942-c4c2-49b2-8f02-5d4b63c46464#ref=rss)
+### westen
+
+* [https://www.spiegel.de/wissenschaft/russland-testet-atom-u-boot-generalissimus-suworow-das-ist-ein-signal](https://www.spiegel.de/wissenschaft/russland-testet-atom-u-boot-generalissimus-suworow-das-ist-ein-signal-a-4ce4c953-3c08-4484-8c5f-2e743f143e49#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mehrheit-der-deutschen-lehnt-reise-des-kanzlers-zur-wm-in-katar-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-mehrheit-der-deutschen-lehnt-reise-des-kanzlers-zur-wm-in-katar-ab-a-bd3ed65d-5143-444e-8bce-5c56a7b8898a#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-xi-jinping-in-china-scholz-laesst-die-kritik-an-sich-abperlen](https://www.spiegel.de/politik/deutschland/olaf-scholz-bei-xi-jinping-in-china-scholz-laesst-die-kritik-an-sich-abperlen-a-af271bed-d491-4bb9-af8c-6807e71f9904#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung](https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung-a-1f1d0bf6-f021-42d7-97db-4ad7b31d95e7#ref=rss)
+### olympia
+
+* [https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle](https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle-a-ada844d0-98e6-44b8-ad4f-ab433d62d9e0#ref=rss)
+### paris
+
+* [https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle](https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle-a-ada844d0-98e6-44b8-ad4f-ab433d62d9e0#ref=rss)
+### toiletten
+
+* [https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle](https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle-a-ada844d0-98e6-44b8-ad4f-ab433d62d9e0#ref=rss)
+### französischen
+
+* [https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle](https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle-a-ada844d0-98e6-44b8-ad4f-ab433d62d9e0#ref=rss)
+* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-phoenix-alpha-zulu-nachts-im-museum](https://www.spiegel.de/kultur/musik/album-der-woche-mit-phoenix-alpha-zulu-nachts-im-museum-a-7ca90716-11ae-4668-b943-19729b92465f#ref=rss)
+### hauptstadt
+
+* [https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle](https://www.spiegel.de/wirtschaft/service/olympia-2024-paris-verspricht-kostenlose-toiletten-fuer-alle-a-ada844d0-98e6-44b8-ad4f-ab433d62d9e0#ref=rss)
+* [https://www.spiegel.de/panorama/neu-delhi-schliesst-wegen-starken-smogs-die-grundschulen](https://www.spiegel.de/panorama/neu-delhi-schliesst-wegen-starken-smogs-die-grundschulen-a-85d52c23-d747-42ca-b96c-b3a536bb395c#ref=rss)
+### tatort
+
+* [https://www.spiegel.de/kultur/tv/tatort-aus-dem-schwarzwald-die-blicke-der-anderen-mit-lisa-hagmeister](https://www.spiegel.de/kultur/tv/tatort-aus-dem-schwarzwald-die-blicke-der-anderen-mit-lisa-hagmeister-a-b41bba38-3e1b-4a37-81ce-a029ff099208#ref=rss)
+### lisa
+
+* [https://www.spiegel.de/kultur/tv/tatort-aus-dem-schwarzwald-die-blicke-der-anderen-mit-lisa-hagmeister](https://www.spiegel.de/kultur/tv/tatort-aus-dem-schwarzwald-die-blicke-der-anderen-mit-lisa-hagmeister-a-b41bba38-3e1b-4a37-81ce-a029ff099208#ref=rss)
+### hagmeister
+
+* [https://www.spiegel.de/kultur/tv/tatort-aus-dem-schwarzwald-die-blicke-der-anderen-mit-lisa-hagmeister](https://www.spiegel.de/kultur/tv/tatort-aus-dem-schwarzwald-die-blicke-der-anderen-mit-lisa-hagmeister-a-b41bba38-3e1b-4a37-81ce-a029ff099208#ref=rss)
+### weltbank
+
+* [https://www.spiegel.de/wirtschaft/weltbank-zahlt-suedafrika-500-millionen-dollar-fuer-kohleausstieg](https://www.spiegel.de/wirtschaft/weltbank-zahlt-suedafrika-500-millionen-dollar-fuer-kohleausstieg-a-e8205942-c4c2-49b2-8f02-5d4b63c46464#ref=rss)
+### südafrika
+
+* [https://www.spiegel.de/wirtschaft/weltbank-zahlt-suedafrika-500-millionen-dollar-fuer-kohleausstieg](https://www.spiegel.de/wirtschaft/weltbank-zahlt-suedafrika-500-millionen-dollar-fuer-kohleausstieg-a-e8205942-c4c2-49b2-8f02-5d4b63c46464#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/wirtschaft/weltbank-zahlt-suedafrika-500-millionen-dollar-fuer-kohleausstieg](https://www.spiegel.de/wirtschaft/weltbank-zahlt-suedafrika-500-millionen-dollar-fuer-kohleausstieg-a-e8205942-c4c2-49b2-8f02-5d4b63c46464#ref=rss)
 * [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-testet-neues-atom-u-boot](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-testet-neues-atom-u-boot-a-70321f5c-e464-4b1b-80d9-d0f4b60dc0ed#ref=rss)
-### geheimdiensten
+### dollar
 
+* [https://www.spiegel.de/wirtschaft/weltbank-zahlt-suedafrika-500-millionen-dollar-fuer-kohleausstieg](https://www.spiegel.de/wirtschaft/weltbank-zahlt-suedafrika-500-millionen-dollar-fuer-kohleausstieg-a-e8205942-c4c2-49b2-8f02-5d4b63c46464#ref=rss)
 * [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-testet-neues-atom-u-boot](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-testet-neues-atom-u-boot-a-70321f5c-e464-4b1b-80d9-d0f4b60dc0ed#ref=rss)
-### klaus
+### forscher
 
-* [https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-chef-klaus-mueller-wenn-es-richtig-frostig-wird-werden-die-speicher-schnell-leergesaugt](https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-chef-klaus-mueller-wenn-es-richtig-frostig-wird-werden-die-speicher-schnell-leergesaugt-a-c728807f-9ea1-4c77-b170-fe3df15c0824#ref=rss)
-### müller
-
-* [https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-chef-klaus-mueller-wenn-es-richtig-frostig-wird-werden-die-speicher-schnell-leergesaugt](https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-chef-klaus-mueller-wenn-es-richtig-frostig-wird-werden-die-speicher-schnell-leergesaugt-a-c728807f-9ea1-4c77-b170-fe3df15c0824#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-chef-klaus-mueller-wenn-es-richtig-frostig-wird-werden-die-speicher-schnell-leergesaugt](https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-chef-klaus-mueller-wenn-es-richtig-frostig-wird-werden-die-speicher-schnell-leergesaugt-a-c728807f-9ea1-4c77-b170-fe3df15c0824#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten](https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten-a-27cc9ed6-9961-4c63-a68c-2733cfc7d59e#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-wegen-geplanter-massenentlassungen-offenbar-verklagt](https://www.spiegel.de/wirtschaft/unternehmen/twitter-wegen-geplanter-massenentlassungen-offenbar-verklagt-a-51e8bbb5-9501-459e-bad9-567f7d081641#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten](https://www.spiegel.de/wirtschaft/unternehmen/gaspreisbremse-wuerde-laut-studie-auch-wohlhabende-stark-entlasten-a-27cc9ed6-9961-4c63-a68c-2733cfc7d59e#ref=rss)
-### auftritt
-
-* [https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit](https://www.spiegel.de/ausland/donald-trump-deutet-erneut-kandidatur-an-macht-euch-bereit-a-f381afe7-a580-4940-b8d6-e162bc8f4417#ref=rss)
-* [https://www.spiegel.de/panorama/leute/alfons-schuhbeck-singt-sweet-caroline-bei-dinnershow-in-muenchen](https://www.spiegel.de/panorama/leute/alfons-schuhbeck-singt-sweet-caroline-bei-dinnershow-in-muenchen-a-5614fd9d-e07b-44f2-8dce-1496eb441f7b#ref=rss)
-### aline
-
-* [https://www.spiegel.de/panorama/leute/aline-abboud-tagesthemen-moderatorin-ueber-ihren-migrationshintergrund](https://www.spiegel.de/panorama/leute/aline-abboud-tagesthemen-moderatorin-ueber-ihren-migrationshintergrund-a-3982e948-946a-4b1b-9a3c-292643683b4a#ref=rss)
-### abboud
-
-* [https://www.spiegel.de/panorama/leute/aline-abboud-tagesthemen-moderatorin-ueber-ihren-migrationshintergrund](https://www.spiegel.de/panorama/leute/aline-abboud-tagesthemen-moderatorin-ueber-ihren-migrationshintergrund-a-3982e948-946a-4b1b-9a3c-292643683b4a#ref=rss)
-### tagesthemenmoderatorin
-
-* [https://www.spiegel.de/panorama/leute/aline-abboud-tagesthemen-moderatorin-ueber-ihren-migrationshintergrund](https://www.spiegel.de/panorama/leute/aline-abboud-tagesthemen-moderatorin-ueber-ihren-migrationshintergrund-a-3982e948-946a-4b1b-9a3c-292643683b4a#ref=rss)
-### migrationshintergrund
-
-* [https://www.spiegel.de/panorama/leute/aline-abboud-tagesthemen-moderatorin-ueber-ihren-migrationshintergrund](https://www.spiegel.de/panorama/leute/aline-abboud-tagesthemen-moderatorin-ueber-ihren-migrationshintergrund-a-3982e948-946a-4b1b-9a3c-292643683b4a#ref=rss)
+* [https://www.spiegel.de/gesundheit/forscher-heilen-mann-nach-411-tagen-corona-infektion](https://www.spiegel.de/gesundheit/forscher-heilen-mann-nach-411-tagen-corona-infektion-a-af940d54-ff0f-4ceb-8f02-fa532851930d#ref=rss)
 ### mann
 
-* [https://www.spiegel.de/panorama/justiz/enger-mann-durch-polizeischuesse-im-kreis-herford-schwer-verletzt](https://www.spiegel.de/panorama/justiz/enger-mann-durch-polizeischuesse-im-kreis-herford-schwer-verletzt-a-982de3d2-9ce3-4a13-8af4-38fb35a6467a#ref=rss)
-### kreis
+* [https://www.spiegel.de/gesundheit/forscher-heilen-mann-nach-411-tagen-corona-infektion](https://www.spiegel.de/gesundheit/forscher-heilen-mann-nach-411-tagen-corona-infektion-a-af940d54-ff0f-4ceb-8f02-fa532851930d#ref=rss)
+### konnten
 
-* [https://www.spiegel.de/panorama/justiz/enger-mann-durch-polizeischuesse-im-kreis-herford-schwer-verletzt](https://www.spiegel.de/panorama/justiz/enger-mann-durch-polizeischuesse-im-kreis-herford-schwer-verletzt-a-982de3d2-9ce3-4a13-8af4-38fb35a6467a#ref=rss)
-### herford
+* [https://www.spiegel.de/gesundheit/forscher-heilen-mann-nach-411-tagen-corona-infektion](https://www.spiegel.de/gesundheit/forscher-heilen-mann-nach-411-tagen-corona-infektion-a-af940d54-ff0f-4ceb-8f02-fa532851930d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/schwarzes-loch-in-erdnaehe-entdeckt](https://www.spiegel.de/wissenschaft/weltall/schwarzes-loch-in-erdnaehe-entdeckt-a-4222c1ba-e64b-46c2-863d-9a224a5aed5b#ref=rss)
+### klimaaktivisten
 
-* [https://www.spiegel.de/panorama/justiz/enger-mann-durch-polizeischuesse-im-kreis-herford-schwer-verletzt](https://www.spiegel.de/panorama/justiz/enger-mann-durch-polizeischuesse-im-kreis-herford-schwer-verletzt-a-982de3d2-9ce3-4a13-8af4-38fb35a6467a#ref=rss)
-### brooklyn
+* [https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung](https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung-a-1f1d0bf6-f021-42d7-97db-4ad7b31d95e7#ref=rss)
+### gespräch
 
-* [https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen](https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen-a-35853801-916f-4657-95f0-69726dda83dc#ref=rss)
-### nets
+* [https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung](https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung-a-1f1d0bf6-f021-42d7-97db-4ad7b31d95e7#ref=rss)
+* [https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten](https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten-a-95615234-4c3d-4555-bcdf-4a160011566b#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen](https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen-a-35853801-916f-4657-95f0-69726dda83dc#ref=rss)
-### suspendieren
+* [https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung](https://www.spiegel.de/politik/deutschland/klimaaktivisten-der-letzten-generation-fordern-gespraech-mit-bundesregierung-a-1f1d0bf6-f021-42d7-97db-4ad7b31d95e7#ref=rss)
+### savage
 
-* [https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen](https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen-a-35853801-916f-4657-95f0-69726dda83dc#ref=rss)
-### kyrie
+* [https://www.spiegel.de/kultur/savage-x-fenty-johnny-depp-modelt-fuer-dessous-show-von-rihanna](https://www.spiegel.de/kultur/savage-x-fenty-johnny-depp-modelt-fuer-dessous-show-von-rihanna-a-2ecc2128-93ca-4be2-8cfb-a0dbbf0e74fc#ref=rss)
+### fenty
 
-* [https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen](https://www.spiegel.de/sport/basketball/basketball-brooklyn-nets-suspendieren-nba-star-kyrie-irving-nach-antisemitismus-vorwuerfen-a-35853801-916f-4657-95f0-69726dda83dc#ref=rss)
-### pwcstudie
+* [https://www.spiegel.de/kultur/savage-x-fenty-johnny-depp-modelt-fuer-dessous-show-von-rihanna](https://www.spiegel.de/kultur/savage-x-fenty-johnny-depp-modelt-fuer-dessous-show-von-rihanna-a-2ecc2128-93ca-4be2-8cfb-a0dbbf0e74fc#ref=rss)
+### johnny
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/europa-wird-laut-pwc-studie-2025-zum-autoimporteur-e-fahrzeuge-aus-china-a-dc899532-7bec-42ba-862e-3f3eae5ded69#ref=rss)
-### alfons
+* [https://www.spiegel.de/kultur/savage-x-fenty-johnny-depp-modelt-fuer-dessous-show-von-rihanna](https://www.spiegel.de/kultur/savage-x-fenty-johnny-depp-modelt-fuer-dessous-show-von-rihanna-a-2ecc2128-93ca-4be2-8cfb-a0dbbf0e74fc#ref=rss)
+### depp
 
-* [https://www.spiegel.de/panorama/leute/alfons-schuhbeck-singt-sweet-caroline-bei-dinnershow-in-muenchen](https://www.spiegel.de/panorama/leute/alfons-schuhbeck-singt-sweet-caroline-bei-dinnershow-in-muenchen-a-5614fd9d-e07b-44f2-8dce-1496eb441f7b#ref=rss)
-### schuhbeck
+* [https://www.spiegel.de/kultur/savage-x-fenty-johnny-depp-modelt-fuer-dessous-show-von-rihanna](https://www.spiegel.de/kultur/savage-x-fenty-johnny-depp-modelt-fuer-dessous-show-von-rihanna-a-2ecc2128-93ca-4be2-8cfb-a0dbbf0e74fc#ref=rss)
+### bürgergeld
 
-* [https://www.spiegel.de/panorama/leute/alfons-schuhbeck-singt-sweet-caroline-bei-dinnershow-in-muenchen](https://www.spiegel.de/panorama/leute/alfons-schuhbeck-singt-sweet-caroline-bei-dinnershow-in-muenchen-a-5614fd9d-e07b-44f2-8dce-1496eb441f7b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-ampelfraktionen-legen-kompromiss-vor](https://www.spiegel.de/wirtschaft/soziales/buergergeld-ampelfraktionen-legen-kompromiss-vor-a-f14259c8-f444-41c3-a109-fc17eacb2094#ref=rss)
+### höhe
+
+* [https://www.spiegel.de/wirtschaft/soziales/buergergeld-ampelfraktionen-legen-kompromiss-vor](https://www.spiegel.de/wirtschaft/soziales/buergergeld-ampelfraktionen-legen-kompromiss-vor-a-f14259c8-f444-41c3-a109-fc17eacb2094#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas](https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas-a-eeaf8323-e12a-4205-a83e-4e38ce92792a#ref=rss)
+### emojis
+
+* [https://www.spiegel.de/netzwelt/web/emojis-mit-brillen-13-jaehrige-britin-lowri-moore-fordert-sehhilfen-fuer-alle-gesichter](https://www.spiegel.de/netzwelt/web/emojis-mit-brillen-13-jaehrige-britin-lowri-moore-fordert-sehhilfen-fuer-alle-gesichter-a-48cf394d-caa7-4807-a9ca-f0f0ae7d176c#ref=rss)
+### brillen
+
+* [https://www.spiegel.de/netzwelt/web/emojis-mit-brillen-13-jaehrige-britin-lowri-moore-fordert-sehhilfen-fuer-alle-gesichter](https://www.spiegel.de/netzwelt/web/emojis-mit-brillen-13-jaehrige-britin-lowri-moore-fordert-sehhilfen-fuer-alle-gesichter-a-48cf394d-caa7-4807-a9ca-f0f0ae7d176c#ref=rss)
+### lowri
+
+* [https://www.spiegel.de/netzwelt/web/emojis-mit-brillen-13-jaehrige-britin-lowri-moore-fordert-sehhilfen-fuer-alle-gesichter](https://www.spiegel.de/netzwelt/web/emojis-mit-brillen-13-jaehrige-britin-lowri-moore-fordert-sehhilfen-fuer-alle-gesichter-a-48cf394d-caa7-4807-a9ca-f0f0ae7d176c#ref=rss)
+### moore
+
+* [https://www.spiegel.de/netzwelt/web/emojis-mit-brillen-13-jaehrige-britin-lowri-moore-fordert-sehhilfen-fuer-alle-gesichter](https://www.spiegel.de/netzwelt/web/emojis-mit-brillen-13-jaehrige-britin-lowri-moore-fordert-sehhilfen-fuer-alle-gesichter-a-48cf394d-caa7-4807-a9ca-f0f0ae7d176c#ref=rss)
+### loch
+
+* [https://www.spiegel.de/wissenschaft/weltall/schwarzes-loch-in-erdnaehe-entdeckt](https://www.spiegel.de/wissenschaft/weltall/schwarzes-loch-in-erdnaehe-entdeckt-a-4222c1ba-e64b-46c2-863d-9a224a5aed5b#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-testet-neues-atom-u-boot](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-testet-neues-atom-u-boot-a-70321f5c-e464-4b1b-80d9-d0f4b60dc0ed#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-ukrainische-post-bringt-briefmarke-zum-anschlag-auf-kertsch-bruecke-raus](https://www.spiegel.de/ausland/ukraine-russland-krieg-ukrainische-post-bringt-briefmarke-zum-anschlag-auf-kertsch-bruecke-raus-a-a3ba5f20-8d65-404a-91b9-6fab50c62f4f#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/netzwelt/web/pantone-abo-in-photoshop-designer-wehren-sich-gegen-farbfaecher-aufpreis](https://www.spiegel.de/netzwelt/web/pantone-abo-in-photoshop-designer-wehren-sich-gegen-farbfaecher-aufpreis-a-28e43e33-6dfa-4e4f-b9b8-ef627cccf36b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas](https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas-a-eeaf8323-e12a-4205-a83e-4e38ce92792a#ref=rss)
+### luft
+
+* [https://www.spiegel.de/panorama/neu-delhi-schliesst-wegen-starken-smogs-die-grundschulen](https://www.spiegel.de/panorama/neu-delhi-schliesst-wegen-starken-smogs-die-grundschulen-a-85d52c23-d747-42ca-b96c-b3a536bb395c#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mehrheit-der-deutschen-lehnt-reise-des-kanzlers-zur-wm-in-katar-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-mehrheit-der-deutschen-lehnt-reise-des-kanzlers-zur-wm-in-katar-ab-a-bd3ed65d-5143-444e-8bce-5c56a7b8898a#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mehrheit-der-deutschen-lehnt-reise-des-kanzlers-zur-wm-in-katar-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-mehrheit-der-deutschen-lehnt-reise-des-kanzlers-zur-wm-in-katar-ab-a-bd3ed65d-5143-444e-8bce-5c56a7b8898a#ref=rss)
+### katar
+
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-mehrheit-der-deutschen-lehnt-reise-des-kanzlers-zur-wm-in-katar-ab](https://www.spiegel.de/politik/deutschland/olaf-scholz-mehrheit-der-deutschen-lehnt-reise-des-kanzlers-zur-wm-in-katar-ab-a-bd3ed65d-5143-444e-8bce-5c56a7b8898a#ref=rss)
+### interview
+
+* [https://www.spiegel.de/ausland/iran-journalistin-nach-interview-mit-vater-von-mahsa-amini-festgenommen](https://www.spiegel.de/ausland/iran-journalistin-nach-interview-mit-vater-von-mahsa-amini-festgenommen-a-9185e8bc-8d94-48f5-8aa1-8564fea77102#ref=rss)
+### vater
+
+* [https://www.spiegel.de/ausland/iran-journalistin-nach-interview-mit-vater-von-mahsa-amini-festgenommen](https://www.spiegel.de/ausland/iran-journalistin-nach-interview-mit-vater-von-mahsa-amini-festgenommen-a-9185e8bc-8d94-48f5-8aa1-8564fea77102#ref=rss)
+### mahsa
+
+* [https://www.spiegel.de/ausland/iran-journalistin-nach-interview-mit-vater-von-mahsa-amini-festgenommen](https://www.spiegel.de/ausland/iran-journalistin-nach-interview-mit-vater-von-mahsa-amini-festgenommen-a-9185e8bc-8d94-48f5-8aa1-8564fea77102#ref=rss)
+### amini
+
+* [https://www.spiegel.de/ausland/iran-journalistin-nach-interview-mit-vater-von-mahsa-amini-festgenommen](https://www.spiegel.de/ausland/iran-journalistin-nach-interview-mit-vater-von-mahsa-amini-festgenommen-a-9185e8bc-8d94-48f5-8aa1-8564fea77102#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/ausland/iran-journalistin-nach-interview-mit-vater-von-mahsa-amini-festgenommen](https://www.spiegel.de/ausland/iran-journalistin-nach-interview-mit-vater-von-mahsa-amini-festgenommen-a-9185e8bc-8d94-48f5-8aa1-8564fea77102#ref=rss)
+### diesen
+
+* [https://www.spiegel.de/ausland/iran-journalistin-nach-interview-mit-vater-von-mahsa-amini-festgenommen](https://www.spiegel.de/ausland/iran-journalistin-nach-interview-mit-vater-von-mahsa-amini-festgenommen-a-9185e8bc-8d94-48f5-8aa1-8564fea77102#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/cop27-die-drei-grossen-knackpunkte-des-klimagipfels-in-aegypten](https://www.spiegel.de/wissenschaft/mensch/cop27-die-drei-grossen-knackpunkte-des-klimagipfels-in-aegypten-a-114fdb0f-aeb1-48e1-bdc4-a1377be8ee4e#ref=rss)
+### bjørn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas](https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas-a-eeaf8323-e12a-4205-a83e-4e38ce92792a#ref=rss)
+### gulden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas](https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas-a-eeaf8323-e12a-4205-a83e-4e38ce92792a#ref=rss)
+### pumachef
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas](https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas-a-eeaf8323-e12a-4205-a83e-4e38ce92792a#ref=rss)
+### adidas
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas](https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas-a-eeaf8323-e12a-4205-a83e-4e38ce92792a#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas](https://www.spiegel.de/wirtschaft/unternehmen/bjorn-gulden-puma-chef-wechselt-offenbar-zu-adidas-a-eeaf8323-e12a-4205-a83e-4e38ce92792a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/brasilien-oberstes-gericht-beschliesst-freigabe-des-amazonasfonds](https://www.spiegel.de/wissenschaft/brasilien-oberstes-gericht-beschliesst-freigabe-des-amazonasfonds-a-7b1379c5-55c9-46e4-ad58-eefdf9e63476#ref=rss)
+### harry
+
+* [https://www.spiegel.de/kultur/tv/harry-potter-warner-bros-sieht-potenzial-fuer-weitere-filme](https://www.spiegel.de/kultur/tv/harry-potter-warner-bros-sieht-potenzial-fuer-weitere-filme-a-8df64a2c-f565-4e00-b508-e6a65d1b7684#ref=rss)
+### warner
+
+* [https://www.spiegel.de/kultur/tv/harry-potter-warner-bros-sieht-potenzial-fuer-weitere-filme](https://www.spiegel.de/kultur/tv/harry-potter-warner-bros-sieht-potenzial-fuer-weitere-filme-a-8df64a2c-f565-4e00-b508-e6a65d1b7684#ref=rss)
+### bros
+
+* [https://www.spiegel.de/kultur/tv/harry-potter-warner-bros-sieht-potenzial-fuer-weitere-filme](https://www.spiegel.de/kultur/tv/harry-potter-warner-bros-sieht-potenzial-fuer-weitere-filme-a-8df64a2c-f565-4e00-b508-e6a65d1b7684#ref=rss)
+### erbsensuppe
+
+* [https://www.spiegel.de/panorama/rom-umweltaktivisten-werfen-erbsensuppe-gegen-van-gogh-bild](https://www.spiegel.de/panorama/rom-umweltaktivisten-werfen-erbsensuppe-gegen-van-gogh-bild-a-a842789f-20c8-4beb-a3ba-ad07212742b9#ref=rss)
+### amazonasfonds
+
+* [https://www.spiegel.de/wissenschaft/brasilien-oberstes-gericht-beschliesst-freigabe-des-amazonasfonds](https://www.spiegel.de/wissenschaft/brasilien-oberstes-gericht-beschliesst-freigabe-des-amazonasfonds-a-7b1379c5-55c9-46e4-ad58-eefdf9e63476#ref=rss)
+### post
+
+* [https://www.spiegel.de/ausland/ukraine-russland-krieg-ukrainische-post-bringt-briefmarke-zum-anschlag-auf-kertsch-bruecke-raus](https://www.spiegel.de/ausland/ukraine-russland-krieg-ukrainische-post-bringt-briefmarke-zum-anschlag-auf-kertsch-bruecke-raus-a-a3ba5f20-8d65-404a-91b9-6fab50c62f4f#ref=rss)
+### album
+
+* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-phoenix-alpha-zulu-nachts-im-museum](https://www.spiegel.de/kultur/musik/album-der-woche-mit-phoenix-alpha-zulu-nachts-im-museum-a-7ca90716-11ae-4668-b943-19729b92465f#ref=rss)
+### woche
+
+* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-phoenix-alpha-zulu-nachts-im-museum](https://www.spiegel.de/kultur/musik/album-der-woche-mit-phoenix-alpha-zulu-nachts-im-museum-a-7ca90716-11ae-4668-b943-19729b92465f#ref=rss)
+### phoenix
+
+* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-phoenix-alpha-zulu-nachts-im-museum](https://www.spiegel.de/kultur/musik/album-der-woche-mit-phoenix-alpha-zulu-nachts-im-museum-a-7ca90716-11ae-4668-b943-19729b92465f#ref=rss)
+### alpha
+
+* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-phoenix-alpha-zulu-nachts-im-museum](https://www.spiegel.de/kultur/musik/album-der-woche-mit-phoenix-alpha-zulu-nachts-im-museum-a-7ca90716-11ae-4668-b943-19729b92465f#ref=rss)
+### zulu
+
+* [https://www.spiegel.de/kultur/musik/album-der-woche-mit-phoenix-alpha-zulu-nachts-im-museum](https://www.spiegel.de/kultur/musik/album-der-woche-mit-phoenix-alpha-zulu-nachts-im-museum-a-7ca90716-11ae-4668-b943-19729b92465f#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten](https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten-a-95615234-4c3d-4555-bcdf-4a160011566b#ref=rss)
+### krise
+
+* [https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten](https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten-a-95615234-4c3d-4555-bcdf-4a160011566b#ref=rss)
+### 1923
+
+* [https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten](https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten-a-95615234-4c3d-4555-bcdf-4a160011566b#ref=rss)
+### parallelen
+
+* [https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten](https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten-a-95615234-4c3d-4555-bcdf-4a160011566b#ref=rss)
+### historiker
+
+* [https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten](https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten-a-95615234-4c3d-4555-bcdf-4a160011566b#ref=rss)
+### peter
+
+* [https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten](https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten-a-95615234-4c3d-4555-bcdf-4a160011566b#ref=rss)
+### longerich
+
+* [https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten](https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten-a-95615234-4c3d-4555-bcdf-4a160011566b#ref=rss)
+### spiegelabonnenten
+
+* [https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten](https://www.spiegel.de/geschichte/inflation-und-krise-1923-welche-parallelen-gibt-es-zu-heute-historiker-peter-longerich-im-gespraech-mit-spiegel-abonnenten-a-95615234-4c3d-4555-bcdf-4a160011566b#ref=rss)
+### ägypten
+
+* [https://www.spiegel.de/wissenschaft/mensch/cop27-die-drei-grossen-knackpunkte-des-klimagipfels-in-aegypten](https://www.spiegel.de/wissenschaft/mensch/cop27-die-drei-grossen-knackpunkte-des-klimagipfels-in-aegypten-a-114fdb0f-aeb1-48e1-bdc4-a1377be8ee4e#ref=rss)
+### twitter
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-will-werbung-auf-twitter-aussetzen-uebernahme-durch-elon-musk](https://www.spiegel.de/wirtschaft/unternehmen/vw-will-werbung-auf-twitter-aussetzen-uebernahme-durch-elon-musk-a-daedbd0d-31e9-4cf9-a61a-c1d4447109e6#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-will-werbung-auf-twitter-aussetzen-uebernahme-durch-elon-musk](https://www.spiegel.de/wirtschaft/unternehmen/vw-will-werbung-auf-twitter-aussetzen-uebernahme-durch-elon-musk-a-daedbd0d-31e9-4cf9-a61a-c1d4447109e6#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vw-will-werbung-auf-twitter-aussetzen-uebernahme-durch-elon-musk](https://www.spiegel.de/wirtschaft/unternehmen/vw-will-werbung-auf-twitter-aussetzen-uebernahme-durch-elon-musk-a-daedbd0d-31e9-4cf9-a61a-c1d4447109e6#ref=rss)
 
