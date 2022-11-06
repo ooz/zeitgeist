@@ -4,431 +4,296 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### tor
-
-* [https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches](https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches-a-c78ce32e-d7df-4166-b69e-60e73fe694bb#ref=rss)
-* [https://www.spiegel.de/sport/eishockey/eishockey-alexander-owetschkin-bricht-ueber-50-jahre-alten-nhl-rekord](https://www.spiegel.de/sport/eishockey/eishockey-alexander-owetschkin-bricht-ueber-50-jahre-alten-nhl-rekord-a-bdec5f6c-13b2-48fe-8c30-8c533c0f71ff#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc-a-32f2eb0e-ee20-4bd8-aa24-30d8fca93829#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ex-nationalstuermer-lukas-podolski-erzielt-tor-aus-der-eigenen-haelfte](https://www.spiegel.de/sport/fussball/ex-nationalstuermer-lukas-podolski-erzielt-tor-aus-der-eigenen-haelfte-a-9214e67f-f520-44a5-b7e3-20f030f029b4#ref=rss)
-### twitter
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme](https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme-a-ff58c375-37e1-4177-9b55-4d9c2bcd9a2d#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken](https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken-a-fb3748de-360b-4ba7-929a-92ab7cafd910#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme](https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme-a-ff58c375-37e1-4177-9b55-4d9c2bcd9a2d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/letzten-generation-union-fordert-offenbar-freiheitsstrafen-fuer-strassenblockierer](https://www.spiegel.de/politik/deutschland/letzten-generation-union-fordert-offenbar-freiheitsstrafen-fuer-strassenblockierer-a-0c22fe72-0b40-4971-b8cc-8210bee50b70#ref=rss)
-* [https://www.spiegel.de/politik/die-menschheit-steuert-auf-einen-abgrund-zu](https://www.spiegel.de/politik/die-menschheit-steuert-auf-einen-abgrund-zu-a-4446a852-0c63-491a-bea1-7aef9c153f7c#ref=rss)
-* [https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert](https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert-a-d3da6902-8815-41b9-b04d-f519b0390718#ref=rss)
-### houston
-
-* [https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte](https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte-a-166c5400-3dbe-496e-9fef-73f8d0d2811a#ref=rss)
-* [https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series](https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series-a-ab6287f3-f749-4d6b-94f8-aab038a6bc9c#ref=rss)
-### vier
-
-* [https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land](https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land-a-3bd4969d-b53c-484b-8235-ea403e390117#ref=rss)
-* [https://www.spiegel.de/karriere/eine-bruecke-vier-personen-und-eine-taschenlampe-raetsel-der-woche](https://www.spiegel.de/karriere/eine-bruecke-vier-personen-und-eine-taschenlampe-raetsel-der-woche-a-8fe05238-104c-4cd9-94bf-ff368aaeadc1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc-a-32f2eb0e-ee20-4bd8-aa24-30d8fca93829#ref=rss)
-### partei
-
-* [https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens](https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens-a-192eb3c4-2ae8-43d2-8d81-19f44d2dacad#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-beim-spd-debattenkonvent-zwischenstopp-neukoelln](https://www.spiegel.de/politik/deutschland/olaf-scholz-beim-spd-debattenkonvent-zwischenstopp-neukoelln-a-847243b8-0073-4b4e-ae5a-15b20d83c27b#ref=rss)
-### elon
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme](https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme-a-ff58c375-37e1-4177-9b55-4d9c2bcd9a2d#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken](https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken-a-fb3748de-360b-4ba7-929a-92ab7cafd910#ref=rss)
-### world
-
-* [https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte](https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte-a-166c5400-3dbe-496e-9fef-73f8d0d2811a#ref=rss)
-* [https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series](https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series-a-ab6287f3-f749-4d6b-94f8-aab038a6bc9c#ref=rss)
-### series
-
-* [https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte](https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte-a-166c5400-3dbe-496e-9fef-73f8d0d2811a#ref=rss)
-* [https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series](https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series-a-ab6287f3-f749-4d6b-94f8-aab038a6bc9c#ref=rss)
-### astros
-
-* [https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte](https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte-a-166c5400-3dbe-496e-9fef-73f8d0d2811a#ref=rss)
-* [https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series](https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series-a-ab6287f3-f749-4d6b-94f8-aab038a6bc9c#ref=rss)
-### meisterschaft
-
-* [https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte](https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte-a-166c5400-3dbe-496e-9fef-73f8d0d2811a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft](https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft-a-0fd17456-e8c5-4f16-b523-bc6d3e2696a1#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte](https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte-a-166c5400-3dbe-496e-9fef-73f8d0d2811a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft](https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft-a-0fd17456-e8c5-4f16-b523-bc6d3e2696a1#ref=rss)
-* [https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens](https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens-a-192eb3c4-2ae8-43d2-8d81-19f44d2dacad#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte](https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte-a-166c5400-3dbe-496e-9fef-73f8d0d2811a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ex-nationalstuermer-lukas-podolski-erzielt-tor-aus-der-eigenen-haelfte](https://www.spiegel.de/sport/fussball/ex-nationalstuermer-lukas-podolski-erzielt-tor-aus-der-eigenen-haelfte-a-9214e67f-f520-44a5-b7e3-20f030f029b4#ref=rss)
-* [https://www.spiegel.de/kultur/musik/aaron-carter-us-saenger-stirbt-mit-34-jahren](https://www.spiegel.de/kultur/musik/aaron-carter-us-saenger-stirbt-mit-34-jahren-a-481df3b9-d579-42e5-9a10-0a00bd4b964d#ref=rss)
-### union
-
-* [https://www.spiegel.de/politik/deutschland/letzten-generation-union-fordert-offenbar-freiheitsstrafen-fuer-strassenblockierer](https://www.spiegel.de/politik/deutschland/letzten-generation-union-fordert-offenbar-freiheitsstrafen-fuer-strassenblockierer-a-0c22fe72-0b40-4971-b8cc-8210bee50b70#ref=rss)
-* [https://www.spiegel.de/ausland/serben-im-kosovo-verlassen-staatliche-aemter-autokennzeichen-streit-eskaliert](https://www.spiegel.de/ausland/serben-im-kosovo-verlassen-staatliche-aemter-autokennzeichen-streit-eskaliert-a-3e850ca3-fe03-4258-bcda-5884bdef109d#ref=rss)
-### zweiten
-
-* [https://www.spiegel.de/geschichte/spionin-im-zweiten-weltkrieg-wie-doppelagentin-lily-sergueiew-den-d-day-vorbereitete](https://www.spiegel.de/geschichte/spionin-im-zweiten-weltkrieg-wie-doppelagentin-lily-sergueiew-den-d-day-vorbereitete-a-95927a9a-143c-41b5-852e-45135a1e2394#ref=rss)
-* [https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series](https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series-a-ab6287f3-f749-4d6b-94f8-aab038a6bc9c#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land](https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land-a-3bd4969d-b53c-484b-8235-ea403e390117#ref=rss)
-* [https://www.spiegel.de/karriere/eine-bruecke-vier-personen-und-eine-taschenlampe-raetsel-der-woche](https://www.spiegel.de/karriere/eine-bruecke-vier-personen-und-eine-taschenlampe-raetsel-der-woche-a-8fe05238-104c-4cd9-94bf-ff368aaeadc1#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen](https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen-a-081c431e-d22b-4fa4-a160-33679e8ca076#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft](https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft-a-0fd17456-e8c5-4f16-b523-bc6d3e2696a1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc-a-32f2eb0e-ee20-4bd8-aa24-30d8fca93829#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen](https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen-a-081c431e-d22b-4fa4-a160-33679e8ca076#ref=rss)
-* [https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series](https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series-a-ab6287f3-f749-4d6b-94f8-aab038a6bc9c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc-a-32f2eb0e-ee20-4bd8-aa24-30d8fca93829#ref=rss)
-### angekündigt
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen](https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen-a-081c431e-d22b-4fa4-a160-33679e8ca076#ref=rss)
-* [https://www.spiegel.de/ausland/serben-im-kosovo-verlassen-staatliche-aemter-autokennzeichen-streit-eskaliert](https://www.spiegel.de/ausland/serben-im-kosovo-verlassen-staatliche-aemter-autokennzeichen-streit-eskaliert-a-3e850ca3-fe03-4258-bcda-5884bdef109d#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken](https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken-a-fb3748de-360b-4ba7-929a-92ab7cafd910#ref=rss)
-### weltklimakonferenz
-
-* [https://www.spiegel.de/politik/die-menschheit-steuert-auf-einen-abgrund-zu](https://www.spiegel.de/politik/die-menschheit-steuert-auf-einen-abgrund-zu-a-4446a852-0c63-491a-bea1-7aef9c153f7c#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop27-in-aegypten-was-von-der-weltklimakonferenz-zu-erwarten-ist](https://www.spiegel.de/wissenschaft/cop27-in-aegypten-was-von-der-weltklimakonferenz-zu-erwarten-ist-a-3e8e3eed-244a-457f-9fc9-7c84e36f11f4#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert](https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert-a-d3da6902-8815-41b9-b04d-f519b0390718#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-beim-spd-debattenkonvent-zwischenstopp-neukoelln](https://www.spiegel.de/politik/deutschland/olaf-scholz-beim-spd-debattenkonvent-zwischenstopp-neukoelln-a-847243b8-0073-4b4e-ae5a-15b20d83c27b#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen](https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen-a-6a1861d8-645d-42b1-9396-1ce795f559cb#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert](https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert-a-d3da6902-8815-41b9-b04d-f519b0390718#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-beim-spd-debattenkonvent-zwischenstopp-neukoelln](https://www.spiegel.de/politik/deutschland/olaf-scholz-beim-spd-debattenkonvent-zwischenstopp-neukoelln-a-847243b8-0073-4b4e-ae5a-15b20d83c27b#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-6-november](https://www.spiegel.de/ausland/russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-6-november-a-fc6d5a68-5954-4f00-9f49-f566a1417bf3#ref=rss)
-* [https://www.spiegel.de/ausland/iran-warum-es-noch-nicht-zum-generalstreik-gekommen-ist-und-was-es-dafuer-braucht](https://www.spiegel.de/ausland/iran-warum-es-noch-nicht-zum-generalstreik-gekommen-ist-und-was-es-dafuer-braucht-a-976d1188-f2f3-4aa7-ab92-5dbcd04deeae#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten](https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten-a-2137d953-bda1-4bee-a81e-1009f3ad7fa1#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen](https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen-a-6a1861d8-645d-42b1-9396-1ce795f559cb#ref=rss)
-### vergangenen
-
-* [https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten](https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten-a-2137d953-bda1-4bee-a81e-1009f3ad7fa1#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-zuzug-von-kriegsfluechtlingen-wie-sich-antalya-in-eine-russische-stadt-verwandelt](https://www.spiegel.de/ausland/tuerkei-zuzug-von-kriegsfluechtlingen-wie-sich-antalya-in-eine-russische-stadt-verwandelt-a-aa465e4d-ce7d-4ef5-a08c-38fa41df6067#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten](https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten-a-2137d953-bda1-4bee-a81e-1009f3ad7fa1#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen](https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen-a-6a1861d8-645d-42b1-9396-1ce795f559cb#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten](https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten-a-2137d953-bda1-4bee-a81e-1009f3ad7fa1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/letzten-generation-union-fordert-offenbar-freiheitsstrafen-fuer-strassenblockierer](https://www.spiegel.de/politik/deutschland/letzten-generation-union-fordert-offenbar-freiheitsstrafen-fuer-strassenblockierer-a-0c22fe72-0b40-4971-b8cc-8210bee50b70#ref=rss)
-### alten
-
-* [https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten](https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten-a-2137d953-bda1-4bee-a81e-1009f3ad7fa1#ref=rss)
-* [https://www.spiegel.de/sport/eishockey/eishockey-alexander-owetschkin-bricht-ueber-50-jahre-alten-nhl-rekord](https://www.spiegel.de/sport/eishockey/eishockey-alexander-owetschkin-bricht-ueber-50-jahre-alten-nhl-rekord-a-bdec5f6c-13b2-48fe-8c30-8c533c0f71ff#ref=rss)
-### musk
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme](https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme-a-ff58c375-37e1-4177-9b55-4d9c2bcd9a2d#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken](https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken-a-fb3748de-360b-4ba7-929a-92ab7cafd910#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme](https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme-a-ff58c375-37e1-4177-9b55-4d9c2bcd9a2d#ref=rss)
-### europa
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme](https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme-a-ff58c375-37e1-4177-9b55-4d9c2bcd9a2d#ref=rss)
-* [https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land](https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land-a-3bd4969d-b53c-484b-8235-ea403e390117#ref=rss)
-### extwitterchef
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme](https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme-a-ff58c375-37e1-4177-9b55-4d9c2bcd9a2d#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken](https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken-a-fb3748de-360b-4ba7-929a-92ab7cafd910#ref=rss)
-### dorsey
-
-* [https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme](https://www.spiegel.de/politik/deutschland/elon-musk-spd-erwaegt-strengere-aufsicht-von-twitter-nach-uebernahme-a-ff58c375-37e1-4177-9b55-4d9c2bcd9a2d#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken](https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken-a-fb3748de-360b-4ba7-929a-92ab7cafd910#ref=rss)
-### baseball
-
-* [https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte](https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte-a-166c5400-3dbe-496e-9fef-73f8d0d2811a#ref=rss)
-* [https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series](https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series-a-ab6287f3-f749-4d6b-94f8-aab038a6bc9c#ref=rss)
-### baker
-
-* [https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte](https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte-a-166c5400-3dbe-496e-9fef-73f8d0d2811a#ref=rss)
-### aufzupolieren
-
-* [https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte](https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte-a-166c5400-3dbe-496e-9fef-73f8d0d2811a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop27-in-aegypten-was-von-der-weltklimakonferenz-zu-erwarten-ist](https://www.spiegel.de/wissenschaft/cop27-in-aegypten-was-von-der-weltklimakonferenz-zu-erwarten-ist-a-3e8e3eed-244a-457f-9fc9-7c84e36f11f4#ref=rss)
-### gewonnen
-
-* [https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte](https://www.spiegel.de/sport/baseball-world-series-wie-dusty-baker-die-houston-astros-zum-titel-fuehrte-a-166c5400-3dbe-496e-9fef-73f8d0d2811a#ref=rss)
-* [https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series](https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series-a-ab6287f3-f749-4d6b-94f8-aab038a6bc9c#ref=rss)
-### letzten
-
-* [https://www.spiegel.de/politik/deutschland/letzten-generation-union-fordert-offenbar-freiheitsstrafen-fuer-strassenblockierer](https://www.spiegel.de/politik/deutschland/letzten-generation-union-fordert-offenbar-freiheitsstrafen-fuer-strassenblockierer-a-0c22fe72-0b40-4971-b8cc-8210bee50b70#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen](https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen-a-081c431e-d22b-4fa4-a160-33679e8ca076#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/deutschland/letzten-generation-union-fordert-offenbar-freiheitsstrafen-fuer-strassenblockierer](https://www.spiegel.de/politik/deutschland/letzten-generation-union-fordert-offenbar-freiheitsstrafen-fuer-strassenblockierer-a-0c22fe72-0b40-4971-b8cc-8210bee50b70#ref=rss)
-* [https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches](https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches-a-c78ce32e-d7df-4166-b69e-60e73fe694bb#ref=rss)
-### weltkrieg
-
-* [https://www.spiegel.de/geschichte/spionin-im-zweiten-weltkrieg-wie-doppelagentin-lily-sergueiew-den-d-day-vorbereitete](https://www.spiegel.de/geschichte/spionin-im-zweiten-weltkrieg-wie-doppelagentin-lily-sergueiew-den-d-day-vorbereitete-a-95927a9a-143c-41b5-852e-45135a1e2394#ref=rss)
-### lily
-
-* [https://www.spiegel.de/geschichte/spionin-im-zweiten-weltkrieg-wie-doppelagentin-lily-sergueiew-den-d-day-vorbereitete](https://www.spiegel.de/geschichte/spionin-im-zweiten-weltkrieg-wie-doppelagentin-lily-sergueiew-den-d-day-vorbereitete-a-95927a9a-143c-41b5-852e-45135a1e2394#ref=rss)
-### sergueiew
-
-* [https://www.spiegel.de/geschichte/spionin-im-zweiten-weltkrieg-wie-doppelagentin-lily-sergueiew-den-d-day-vorbereitete](https://www.spiegel.de/geschichte/spionin-im-zweiten-weltkrieg-wie-doppelagentin-lily-sergueiew-den-d-day-vorbereitete-a-95927a9a-143c-41b5-852e-45135a1e2394#ref=rss)
-### neues
-
-* [https://www.spiegel.de/geschichte/spionin-im-zweiten-weltkrieg-wie-doppelagentin-lily-sergueiew-den-d-day-vorbereitete](https://www.spiegel.de/geschichte/spionin-im-zweiten-weltkrieg-wie-doppelagentin-lily-sergueiew-den-d-day-vorbereitete-a-95927a9a-143c-41b5-852e-45135a1e2394#ref=rss)
-* [https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken](https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken-a-fb3748de-360b-4ba7-929a-92ab7cafd910#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/geschichte/spionin-im-zweiten-weltkrieg-wie-doppelagentin-lily-sergueiew-den-d-day-vorbereitete](https://www.spiegel.de/geschichte/spionin-im-zweiten-weltkrieg-wie-doppelagentin-lily-sergueiew-den-d-day-vorbereitete-a-95927a9a-143c-41b5-852e-45135a1e2394#ref=rss)
-* [https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens](https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens-a-192eb3c4-2ae8-43d2-8d81-19f44d2dacad#ref=rss)
-### humanity
-
-* [https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land](https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land-a-3bd4969d-b53c-484b-8235-ea403e390117#ref=rss)
-### 1
-
-* [https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land](https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land-a-3bd4969d-b53c-484b-8235-ea403e390117#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land](https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land-a-3bd4969d-b53c-484b-8235-ea403e390117#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land](https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land-a-3bd4969d-b53c-484b-8235-ea403e390117#ref=rss)
-### bord
-
-* [https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land](https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land-a-3bd4969d-b53c-484b-8235-ea403e390117#ref=rss)
-### darauf
-
-* [https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land](https://www.spiegel.de/ausland/humanity-1-im-hafen-von-catania-sizilien-deutsche-seeretter-bringen-bootsmigranten-an-land-a-3bd4969d-b53c-484b-8235-ea403e390117#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/sprengboot-angriffe-die-russen-muessen-sich-darauf-einstellen-dass-sie-schiffe-verlieren-koennten](https://www.spiegel.de/wissenschaft/technik/sprengboot-angriffe-die-russen-muessen-sich-darauf-einstellen-dass-sie-schiffe-verlieren-koennten-a-3eb81d90-7249-430e-af57-1a72788dd839#ref=rss)
-### russen
-
-* [https://www.spiegel.de/wissenschaft/technik/sprengboot-angriffe-die-russen-muessen-sich-darauf-einstellen-dass-sie-schiffe-verlieren-koennten](https://www.spiegel.de/wissenschaft/technik/sprengboot-angriffe-die-russen-muessen-sich-darauf-einstellen-dass-sie-schiffe-verlieren-koennten-a-3eb81d90-7249-430e-af57-1a72788dd839#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-zuzug-von-kriegsfluechtlingen-wie-sich-antalya-in-eine-russische-stadt-verwandelt](https://www.spiegel.de/ausland/tuerkei-zuzug-von-kriegsfluechtlingen-wie-sich-antalya-in-eine-russische-stadt-verwandelt-a-aa465e4d-ce7d-4ef5-a08c-38fa41df6067#ref=rss)
-### marine
-
-* [https://www.spiegel.de/wissenschaft/technik/sprengboot-angriffe-die-russen-muessen-sich-darauf-einstellen-dass-sie-schiffe-verlieren-koennten](https://www.spiegel.de/wissenschaft/technik/sprengboot-angriffe-die-russen-muessen-sich-darauf-einstellen-dass-sie-schiffe-verlieren-koennten-a-3eb81d90-7249-430e-af57-1a72788dd839#ref=rss)
-* [https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens](https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens-a-192eb3c4-2ae8-43d2-8d81-19f44d2dacad#ref=rss)
-### werder
-
-* [https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches](https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches-a-c78ce32e-d7df-4166-b69e-60e73fe694bb#ref=rss)
-### niclas
-
-* [https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches](https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches-a-c78ce32e-d7df-4166-b69e-60e73fe694bb#ref=rss)
-### füllkrug
-
-* [https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches](https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches-a-c78ce32e-d7df-4166-b69e-60e73fe694bb#ref=rss)
-### entwarnung
-
-* [https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches](https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches-a-c78ce32e-d7df-4166-b69e-60e73fe694bb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc-a-32f2eb0e-ee20-4bd8-aa24-30d8fca93829#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches](https://www.spiegel.de/sport/fussball/werder-bremen-gibt-bei-niclas-fuellkrug-entwarnung-verletzung-nichts-ganz-dramatisches-a-c78ce32e-d7df-4166-b69e-60e73fe694bb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop27-in-aegypten-was-von-der-weltklimakonferenz-zu-erwarten-ist](https://www.spiegel.de/wissenschaft/cop27-in-aegypten-was-von-der-weltklimakonferenz-zu-erwarten-ist-a-3e8e3eed-244a-457f-9fc9-7c84e36f11f4#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/politik/dies-ist-ein-entscheidender-moment-fuer-die-nation](https://www.spiegel.de/politik/dies-ist-ein-entscheidender-moment-fuer-die-nation-a-1b5c938b-1ae9-4d47-b245-da5ce664e3aa#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-6-november](https://www.spiegel.de/ausland/russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-6-november-a-fc6d5a68-5954-4f00-9f49-f566a1417bf3#ref=rss)
-### alexander
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-alexander-owetschkin-bricht-ueber-50-jahre-alten-nhl-rekord](https://www.spiegel.de/sport/eishockey/eishockey-alexander-owetschkin-bricht-ueber-50-jahre-alten-nhl-rekord-a-bdec5f6c-13b2-48fe-8c30-8c533c0f71ff#ref=rss)
-### owetschkin
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-alexander-owetschkin-bricht-ueber-50-jahre-alten-nhl-rekord](https://www.spiegel.de/sport/eishockey/eishockey-alexander-owetschkin-bricht-ueber-50-jahre-alten-nhl-rekord-a-bdec5f6c-13b2-48fe-8c30-8c533c0f71ff#ref=rss)
-### nhlrekord
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-alexander-owetschkin-bricht-ueber-50-jahre-alten-nhl-rekord](https://www.spiegel.de/sport/eishockey/eishockey-alexander-owetschkin-bricht-ueber-50-jahre-alten-nhl-rekord-a-bdec5f6c-13b2-48fe-8c30-8c533c0f71ff#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/sport/eishockey/eishockey-alexander-owetschkin-bricht-ueber-50-jahre-alten-nhl-rekord](https://www.spiegel.de/sport/eishockey/eishockey-alexander-owetschkin-bricht-ueber-50-jahre-alten-nhl-rekord-a-bdec5f6c-13b2-48fe-8c30-8c533c0f71ff#ref=rss)
-* [https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb](https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb-a-74108ec9-0532-42ab-bcef-038c22ebcd4b#ref=rss)
-### brücke
-
-* [https://www.spiegel.de/karriere/eine-bruecke-vier-personen-und-eine-taschenlampe-raetsel-der-woche](https://www.spiegel.de/karriere/eine-bruecke-vier-personen-und-eine-taschenlampe-raetsel-der-woche-a-8fe05238-104c-4cd9-94bf-ff368aaeadc1#ref=rss)
-### schaffen
-
-* [https://www.spiegel.de/karriere/eine-bruecke-vier-personen-und-eine-taschenlampe-raetsel-der-woche](https://www.spiegel.de/karriere/eine-bruecke-vier-personen-und-eine-taschenlampe-raetsel-der-woche-a-8fe05238-104c-4cd9-94bf-ff368aaeadc1#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-6-november](https://www.spiegel.de/ausland/russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-6-november-a-fc6d5a68-5954-4f00-9f49-f566a1417bf3#ref=rss)
-### seite
-
-* [https://www.spiegel.de/karriere/eine-bruecke-vier-personen-und-eine-taschenlampe-raetsel-der-woche](https://www.spiegel.de/karriere/eine-bruecke-vier-personen-und-eine-taschenlampe-raetsel-der-woche-a-8fe05238-104c-4cd9-94bf-ff368aaeadc1#ref=rss)
-* [https://www.spiegel.de/politik/die-menschheit-steuert-auf-einen-abgrund-zu](https://www.spiegel.de/politik/die-menschheit-steuert-auf-einen-abgrund-zu-a-4446a852-0c63-491a-bea1-7aef9c153f7c#ref=rss)
-### barcelona
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen](https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen-a-081c431e-d22b-4fa4-a160-33679e8ca076#ref=rss)
-### gerard
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen](https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen-a-081c431e-d22b-4fa4-a160-33679e8ca076#ref=rss)
-### piqué
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen](https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen-a-081c431e-d22b-4fa4-a160-33679e8ca076#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen](https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen-a-081c431e-d22b-4fa4-a160-33679e8ca076#ref=rss)
-* [https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series](https://www.spiegel.de/sport/major-league-baseball-houston-astros-gewinnt-die-world-series-a-ab6287f3-f749-4d6b-94f8-aab038a6bc9c#ref=rss)
-### abschied
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen](https://www.spiegel.de/sport/fussball/fc-barcelona-gerard-pique-gewinnt-im-letzten-spiel-abschied-unter-traenen-a-081c431e-d22b-4fa4-a160-33679e8ca076#ref=rss)
-### steven
-
-* [https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft](https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft-a-0fd17456-e8c5-4f16-b523-bc6d3e2696a1#ref=rss)
-### cherundolo
-
-* [https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft](https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft-a-0fd17456-e8c5-4f16-b523-bc6d3e2696a1#ref=rss)
-### los
-
-* [https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft](https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft-a-0fd17456-e8c5-4f16-b523-bc6d3e2696a1#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft](https://www.spiegel.de/sport/fussball/fussball-steven-cherundolo-gewinnt-mit-los-angeles-die-us-meisterschaft-a-0fd17456-e8c5-4f16-b523-bc6d3e2696a1#ref=rss)
-### kosovo
-
-* [https://www.spiegel.de/ausland/serben-im-kosovo-verlassen-staatliche-aemter-autokennzeichen-streit-eskaliert](https://www.spiegel.de/ausland/serben-im-kosovo-verlassen-staatliche-aemter-autokennzeichen-streit-eskaliert-a-3e850ca3-fe03-4258-bcda-5884bdef109d#ref=rss)
-### verlassen
-
-* [https://www.spiegel.de/ausland/serben-im-kosovo-verlassen-staatliche-aemter-autokennzeichen-streit-eskaliert](https://www.spiegel.de/ausland/serben-im-kosovo-verlassen-staatliche-aemter-autokennzeichen-streit-eskaliert-a-3e850ca3-fe03-4258-bcda-5884bdef109d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ex-nationalstuermer-lukas-podolski-erzielt-tor-aus-der-eigenen-haelfte](https://www.spiegel.de/sport/fussball/ex-nationalstuermer-lukas-podolski-erzielt-tor-aus-der-eigenen-haelfte-a-9214e67f-f520-44a5-b7e3-20f030f029b4#ref=rss)
-### serbische
-
-* [https://www.spiegel.de/ausland/serben-im-kosovo-verlassen-staatliche-aemter-autokennzeichen-streit-eskaliert](https://www.spiegel.de/ausland/serben-im-kosovo-verlassen-staatliche-aemter-autokennzeichen-streit-eskaliert-a-3e850ca3-fe03-4258-bcda-5884bdef109d#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/politik/die-menschheit-steuert-auf-einen-abgrund-zu](https://www.spiegel.de/politik/die-menschheit-steuert-auf-einen-abgrund-zu-a-4446a852-0c63-491a-bea1-7aef9c153f7c#ref=rss)
-* [https://www.spiegel.de/familie/erziehung-wie-eltern-trotz-kindern-sie-selbst-bleiben-reinhard-k-sprenger-im-gespraech](https://www.spiegel.de/familie/erziehung-wie-eltern-trotz-kindern-sie-selbst-bleiben-reinhard-k-sprenger-im-gespraech-a-e16a61e2-a358-4bf6-a123-5cfc49fefbcb#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/die-menschheit-steuert-auf-einen-abgrund-zu](https://www.spiegel.de/politik/die-menschheit-steuert-auf-einen-abgrund-zu-a-4446a852-0c63-491a-bea1-7aef9c153f7c#ref=rss)
-* [https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert](https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert-a-d3da6902-8815-41b9-b04d-f519b0390718#ref=rss)
-### stellen
-
-* [https://www.spiegel.de/politik/die-menschheit-steuert-auf-einen-abgrund-zu](https://www.spiegel.de/politik/die-menschheit-steuert-auf-einen-abgrund-zu-a-4446a852-0c63-491a-bea1-7aef9c153f7c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-beim-spd-debattenkonvent-zwischenstopp-neukoelln](https://www.spiegel.de/politik/deutschland/olaf-scholz-beim-spd-debattenkonvent-zwischenstopp-neukoelln-a-847243b8-0073-4b4e-ae5a-15b20d83c27b#ref=rss)
-### news
-
-* [https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert](https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert-a-d3da6902-8815-41b9-b04d-f519b0390718#ref=rss)
-### mützenich
-
-* [https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert](https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert-a-d3da6902-8815-41b9-b04d-f519b0390718#ref=rss)
-### terrorliste
-
-* [https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert](https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert-a-d3da6902-8815-41b9-b04d-f519b0390718#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert](https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert-a-d3da6902-8815-41b9-b04d-f519b0390718#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-6-november](https://www.spiegel.de/ausland/russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-6-november-a-fc6d5a68-5954-4f00-9f49-f566a1417bf3#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert](https://www.spiegel.de/ausland/news-zum-ukraine-krieg-rolf-muetzenich-irritiert-ueber-angebliche-aufnahme-auf-terrorliste-kiew-dementiert-a-d3da6902-8815-41b9-b04d-f519b0390718#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-zuzug-von-kriegsfluechtlingen-wie-sich-antalya-in-eine-russische-stadt-verwandelt](https://www.spiegel.de/ausland/tuerkei-zuzug-von-kriegsfluechtlingen-wie-sich-antalya-in-eine-russische-stadt-verwandelt-a-aa465e4d-ce7d-4ef5-a08c-38fa41df6067#ref=rss)
-### stand
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-6-november](https://www.spiegel.de/ausland/russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-6-november-a-fc6d5a68-5954-4f00-9f49-f566a1417bf3#ref=rss)
-* [https://www.spiegel.de/kultur/musik/aaron-carter-us-saenger-stirbt-mit-34-jahren](https://www.spiegel.de/kultur/musik/aaron-carter-us-saenger-stirbt-mit-34-jahren-a-481df3b9-d579-42e5-9a10-0a00bd4b964d#ref=rss)
-### bmw
-
-* [https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb](https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb-a-74108ec9-0532-42ab-bcef-038c22ebcd4b#ref=rss)
-### 7er
-
-* [https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb](https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb-a-74108ec9-0532-42ab-bcef-038c22ebcd4b#ref=rss)
-### extremes
-
-* [https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb](https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb-a-74108ec9-0532-42ab-bcef-038c22ebcd4b#ref=rss)
-### design
-
-* [https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb](https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb-a-74108ec9-0532-42ab-bcef-038c22ebcd4b#ref=rss)
-### entscheidungsschwach
-
-* [https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb](https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb-a-74108ec9-0532-42ab-bcef-038c22ebcd4b#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb](https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb-a-74108ec9-0532-42ab-bcef-038c22ebcd4b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop27-in-aegypten-was-von-der-weltklimakonferenz-zu-erwarten-ist](https://www.spiegel.de/wissenschaft/cop27-in-aegypten-was-von-der-weltklimakonferenz-zu-erwarten-ist-a-3e8e3eed-244a-457f-9fc9-7c84e36f11f4#ref=rss)
-### etwa
-
-* [https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb](https://www.spiegel.de/auto/fahrberichte/bmw-i7-und-7er-extremes-design-entscheidungsschwach-im-antrieb-a-74108ec9-0532-42ab-bcef-038c22ebcd4b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/ex-nationalstuermer-lukas-podolski-erzielt-tor-aus-der-eigenen-haelfte](https://www.spiegel.de/sport/fussball/ex-nationalstuermer-lukas-podolski-erzielt-tor-aus-der-eigenen-haelfte-a-9214e67f-f520-44a5-b7e3-20f030f029b4#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/familie/erziehung-wie-eltern-trotz-kindern-sie-selbst-bleiben-reinhard-k-sprenger-im-gespraech](https://www.spiegel.de/familie/erziehung-wie-eltern-trotz-kindern-sie-selbst-bleiben-reinhard-k-sprenger-im-gespraech-a-e16a61e2-a358-4bf6-a123-5cfc49fefbcb#ref=rss)
-### reinhard
-
-* [https://www.spiegel.de/familie/erziehung-wie-eltern-trotz-kindern-sie-selbst-bleiben-reinhard-k-sprenger-im-gespraech](https://www.spiegel.de/familie/erziehung-wie-eltern-trotz-kindern-sie-selbst-bleiben-reinhard-k-sprenger-im-gespraech-a-e16a61e2-a358-4bf6-a123-5cfc49fefbcb#ref=rss)
-### sprenger
-
-* [https://www.spiegel.de/familie/erziehung-wie-eltern-trotz-kindern-sie-selbst-bleiben-reinhard-k-sprenger-im-gespraech](https://www.spiegel.de/familie/erziehung-wie-eltern-trotz-kindern-sie-selbst-bleiben-reinhard-k-sprenger-im-gespraech-a-e16a61e2-a358-4bf6-a123-5cfc49fefbcb#ref=rss)
-### fast
-
-* [https://www.spiegel.de/wissenschaft/cop27-in-aegypten-was-von-der-weltklimakonferenz-zu-erwarten-ist](https://www.spiegel.de/wissenschaft/cop27-in-aegypten-was-von-der-weltklimakonferenz-zu-erwarten-ist-a-3e8e3eed-244a-457f-9fc9-7c84e36f11f4#ref=rss)
+### katar
+
+* [https://www.spiegel.de/netzwelt/web/fussball-wm-in-katar-hacker-spionierten-michel-platini-aus](https://www.spiegel.de/netzwelt/web/fussball-wm-in-katar-hacker-spionierten-michel-platini-aus-a-280e683a-50bd-4da6-99ab-d09e1ee00a0e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-welches-regierungsmitglied-faehrt-mit-nach-katar](https://www.spiegel.de/politik/deutschland/fussball-wm-welches-regierungsmitglied-faehrt-mit-nach-katar-a-d0bece05-1f4e-4bbc-a724-349db32bd5b0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/antwort-auf-fifa-brief-dfb-will-sich-in-katar-weiter-fuer-offene-themen-einsetzen](https://www.spiegel.de/sport/fussball/antwort-auf-fifa-brief-dfb-will-sich-in-katar-weiter-fuer-offene-themen-einsetzen-a-ec3d01fb-d344-43a7-8cb5-4ddf1fcc41a1#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote](https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote-a-21763992-d404-4fca-869d-9832c2641112#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/konsumenten-wollen-wegen-rezessionssorgen-weniger-kaufen-umfrage](https://www.spiegel.de/wirtschaft/service/konsumenten-wollen-wegen-rezessionssorgen-weniger-kaufen-umfrage-a-b34850ba-a405-462c-92ba-cb3dde8a1a7e#ref=rss)
+* [https://www.spiegel.de/panorama/tansania-passagierflugzeug-mit-43-menschen-an-bord-stuerzt-in-victoriasee](https://www.spiegel.de/panorama/tansania-passagierflugzeug-mit-43-menschen-an-bord-stuerzt-in-victoriasee-a-cbc00f9c-1b5e-4f27-aac9-c2ff68f3cb96#ref=rss)
+### euro
+
+* [https://www.spiegel.de/tests/elektronik/soundbars-bis-500-euro-im-test-guten-tv-ton-koennen-nicht-alle](https://www.spiegel.de/tests/elektronik/soundbars-bis-500-euro-im-test-guten-tv-ton-koennen-nicht-alle-a-d8cb55ac-ae94-4dd6-919d-97dbea0595d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-will-geburtshilfe-mit-240-millionen-euro-staerken](https://www.spiegel.de/politik/deutschland/karl-lauterbach-will-geburtshilfe-mit-240-millionen-euro-staerken-a-fdd197b5-facc-4246-9db2-847d709bc4ee#ref=rss)
+### fußballwm
+
+* [https://www.spiegel.de/netzwelt/web/fussball-wm-in-katar-hacker-spionierten-michel-platini-aus](https://www.spiegel.de/netzwelt/web/fussball-wm-in-katar-hacker-spionierten-michel-platini-aus-a-280e683a-50bd-4da6-99ab-d09e1ee00a0e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-welches-regierungsmitglied-faehrt-mit-nach-katar](https://www.spiegel.de/politik/deutschland/fussball-wm-welches-regierungsmitglied-faehrt-mit-nach-katar-a-d0bece05-1f4e-4bbc-a724-349db32bd5b0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/antwort-auf-fifa-brief-dfb-will-sich-in-katar-weiter-fuer-offene-themen-einsetzen](https://www.spiegel.de/sport/fussball/antwort-auf-fifa-brief-dfb-will-sich-in-katar-weiter-fuer-offene-themen-einsetzen-a-ec3d01fb-d344-43a7-8cb5-4ddf1fcc41a1#ref=rss)
+### laut
+
+* [https://www.spiegel.de/netzwelt/web/fussball-wm-in-katar-hacker-spionierten-michel-platini-aus](https://www.spiegel.de/netzwelt/web/fussball-wm-in-katar-hacker-spionierten-michel-platini-aus-a-280e683a-50bd-4da6-99ab-d09e1ee00a0e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/konsumenten-wollen-wegen-rezessionssorgen-weniger-kaufen-umfrage](https://www.spiegel.de/wirtschaft/service/konsumenten-wollen-wegen-rezessionssorgen-weniger-kaufen-umfrage-a-b34850ba-a405-462c-92ba-cb3dde8a1a7e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-sicherheitskraefte-schiessen-erneut-auf-demonstranten](https://www.spiegel.de/ausland/iran-sicherheitskraefte-schiessen-erneut-auf-demonstranten-a-f6cf61c4-61fe-4407-9133-8663c3f35595#ref=rss)
+### andere
+
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-welches-regierungsmitglied-faehrt-mit-nach-katar](https://www.spiegel.de/politik/deutschland/fussball-wm-welches-regierungsmitglied-faehrt-mit-nach-katar-a-d0bece05-1f4e-4bbc-a724-349db32bd5b0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/antwort-auf-fifa-brief-dfb-will-sich-in-katar-weiter-fuer-offene-themen-einsetzen](https://www.spiegel.de/sport/fussball/antwort-auf-fifa-brief-dfb-will-sich-in-katar-weiter-fuer-offene-themen-einsetzen-a-ec3d01fb-d344-43a7-8cb5-4ddf1fcc41a1#ref=rss)
+* [https://www.spiegel.de/reise/europa/griechenland-reise-mit-dem-bulli-was-passierte-nachdem-das-auto-in-die-werkstatt-musste](https://www.spiegel.de/reise/europa/griechenland-reise-mit-dem-bulli-was-passierte-nachdem-das-auto-in-die-werkstatt-musste-a-c4c21dba-e9ef-4bfd-bce6-bdc17333b624#ref=rss)
+### platz
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-geht-bei-bayer-leverkusen-unter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-geht-bei-bayer-leverkusen-unter-a-051f9a7d-141f-4c79-b19d-65209c9c6839#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/skispringen-zweiter-platz-fuer-katharina-althaus-so-kann-es-gerne-weitergehen](https://www.spiegel.de/sport/wintersport/skispringen-zweiter-platz-fuer-katharina-althaus-so-kann-es-gerne-weitergehen-a-567d441e-b4db-426b-9ba3-834ab7832a12#ref=rss)
+* [https://www.spiegel.de/sport/fussball/tennis-wta-finals-caroline-garcia-sichert-sich-letzten-platz-im-halbfinale](https://www.spiegel.de/sport/fussball/tennis-wta-finals-caroline-garcia-sichert-sich-letzten-platz-im-halbfinale-a-fc0d4399-5da9-48c9-b5ed-29fb92704655#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote](https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote-a-21763992-d404-4fca-869d-9832c2641112#ref=rss)
+* [https://www.spiegel.de/reise/europa/griechenland-reise-mit-dem-bulli-was-passierte-nachdem-das-auto-in-die-werkstatt-musste](https://www.spiegel.de/reise/europa/griechenland-reise-mit-dem-bulli-was-passierte-nachdem-das-auto-in-die-werkstatt-musste-a-c4c21dba-e9ef-4bfd-bce6-bdc17333b624#ref=rss)
+### tote
+
+* [https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote](https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote-a-21763992-d404-4fca-869d-9832c2641112#ref=rss)
+* [https://www.spiegel.de/ausland/iran-sicherheitskraefte-schiessen-erneut-auf-demonstranten](https://www.spiegel.de/ausland/iran-sicherheitskraefte-schiessen-erneut-auf-demonstranten-a-f6cf61c4-61fe-4407-9133-8663c3f35595#ref=rss)
+* [https://www.spiegel.de/panorama/tansania-passagierflugzeug-mit-43-menschen-an-bord-stuerzt-in-victoriasee](https://www.spiegel.de/panorama/tansania-passagierflugzeug-mit-43-menschen-an-bord-stuerzt-in-victoriasee-a-cbc00f9c-1b5e-4f27-aac9-c2ff68f3cb96#ref=rss)
+### cop27
+
+* [https://www.spiegel.de/politik/cop27-erster-erfolg-bei-knackpunkten-der-klimaverhandlungen](https://www.spiegel.de/politik/cop27-erster-erfolg-bei-knackpunkten-der-klimaverhandlungen-a-7525e0ed-6e1a-4d72-bc8c-d73dd6df8573#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt-a-a1f6b8e5-5cb3-4525-b486-2b0b0861596e#ref=rss)
+* [https://www.spiegel.de/politik/cop27-menschenrechtsbeauftragte-der-bundesregierung-kritisiert-aegypten](https://www.spiegel.de/politik/cop27-menschenrechtsbeauftragte-der-bundesregierung-kritisiert-aegypten-a-0c98b08d-9dba-4d76-b7fc-1dd9d896e6b1#ref=rss)
 ### acht
 
-* [https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken](https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken-a-fb3748de-360b-4ba7-929a-92ab7cafd910#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen](https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen-a-6a1861d8-645d-42b1-9396-1ce795f559cb#ref=rss)
-### haken
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt-a-a1f6b8e5-5cb3-4525-b486-2b0b0861596e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/tennis-wta-finals-caroline-garcia-sichert-sich-letzten-platz-im-halbfinale](https://www.spiegel.de/sport/fussball/tennis-wta-finals-caroline-garcia-sichert-sich-letzten-platz-im-halbfinale-a-fc0d4399-5da9-48c9-b5ed-29fb92704655#ref=rss)
+### barack
 
-* [https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken](https://www.spiegel.de/netzwelt/elon-musk-uebernahme-twitter-aktiviert-abo-fuer-acht-dollar-im-monat-inklusive-blauem-haken-a-fb3748de-360b-4ba7-929a-92ab7cafd910#ref=rss)
-### jordan
+* [https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt](https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt-a-62c65ed4-d67d-422e-98fd-cf9ae8752435#ref=rss)
+### obama
 
-* [https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens](https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens-a-192eb3c4-2ae8-43d2-8d81-19f44d2dacad#ref=rss)
-### bardella
+* [https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt](https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt-a-62c65ed4-d67d-422e-98fd-cf9ae8752435#ref=rss)
+### seite
 
-* [https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens](https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens-a-192eb3c4-2ae8-43d2-8d81-19f44d2dacad#ref=rss)
-### le
+* [https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt](https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt-a-62c65ed4-d67d-422e-98fd-cf9ae8752435#ref=rss)
+### biden
 
-* [https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens](https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens-a-192eb3c4-2ae8-43d2-8d81-19f44d2dacad#ref=rss)
-### geben
+* [https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt](https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt-a-62c65ed4-d67d-422e-98fd-cf9ae8752435#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens](https://www.spiegel.de/ausland/jordan-bardella-glatt-smart-radikal-der-neue-vorsitzende-der-partei-marine-le-pens-a-192eb3c4-2ae8-43d2-8d81-19f44d2dacad#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc-a-32f2eb0e-ee20-4bd8-aa24-30d8fca93829#ref=rss)
-### olaf
+* [https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt](https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt-a-62c65ed4-d67d-422e-98fd-cf9ae8752435#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-beim-spd-debattenkonvent-zwischenstopp-neukoelln](https://www.spiegel.de/politik/deutschland/olaf-scholz-beim-spd-debattenkonvent-zwischenstopp-neukoelln-a-847243b8-0073-4b4e-ae5a-15b20d83c27b#ref=rss)
-### frauen
+* [https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt](https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt-a-62c65ed4-d67d-422e-98fd-cf9ae8752435#ref=rss)
+### stichelt
 
-* [https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen](https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen-a-6a1861d8-645d-42b1-9396-1ce795f559cb#ref=rss)
-### polen
+* [https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt](https://www.spiegel.de/ausland/midterms-usa-barack-obama-kaempft-an-der-seite-von-biden-donald-trump-stichelt-a-62c65ed4-d67d-422e-98fd-cf9ae8752435#ref=rss)
+### 500
 
-* [https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen](https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen-a-6a1861d8-645d-42b1-9396-1ce795f559cb#ref=rss)
-### sieg
+* [https://www.spiegel.de/tests/elektronik/soundbars-bis-500-euro-im-test-guten-tv-ton-koennen-nicht-alle](https://www.spiegel.de/tests/elektronik/soundbars-bis-500-euro-im-test-guten-tv-ton-koennen-nicht-alle-a-d8cb55ac-ae94-4dd6-919d-97dbea0595d7#ref=rss)
+### test
 
-* [https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen](https://www.spiegel.de/sport/handball/handball-em-der-frauen-2022-deutschland-mit-zittersieg-gegen-polen-a-6a1861d8-645d-42b1-9396-1ce795f559cb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc-a-32f2eb0e-ee20-4bd8-aa24-30d8fca93829#ref=rss)
-### manuel
+* [https://www.spiegel.de/tests/elektronik/soundbars-bis-500-euro-im-test-guten-tv-ton-koennen-nicht-alle](https://www.spiegel.de/tests/elektronik/soundbars-bis-500-euro-im-test-guten-tv-ton-koennen-nicht-alle-a-d8cb55ac-ae94-4dd6-919d-97dbea0595d7#ref=rss)
+* [https://www.spiegel.de/tests/haushalt/steamer-im-test-so-glaetten-modelle-von-steamery-philips-tefal-binibini-und-grundig](https://www.spiegel.de/tests/haushalt/steamer-im-test-so-glaetten-modelle-von-steamery-philips-tefal-binibini-und-grundig-a-f63fc24d-397c-449e-8032-d3475d4e9690#ref=rss)
+### alle
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc-a-32f2eb0e-ee20-4bd8-aa24-30d8fca93829#ref=rss)
-### neuer
+* [https://www.spiegel.de/tests/elektronik/soundbars-bis-500-euro-im-test-guten-tv-ton-koennen-nicht-alle](https://www.spiegel.de/tests/elektronik/soundbars-bis-500-euro-im-test-guten-tv-ton-koennen-nicht-alle-a-d8cb55ac-ae94-4dd6-919d-97dbea0595d7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt-a-a1f6b8e5-5cb3-4525-b486-2b0b0861596e#ref=rss)
+### hacker
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc-a-32f2eb0e-ee20-4bd8-aa24-30d8fca93829#ref=rss)
-### hertha
+* [https://www.spiegel.de/netzwelt/web/fussball-wm-in-katar-hacker-spionierten-michel-platini-aus](https://www.spiegel.de/netzwelt/web/fussball-wm-in-katar-hacker-spionierten-michel-platini-aus-a-280e683a-50bd-4da6-99ab-d09e1ee00a0e#ref=rss)
+### halten
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc-a-32f2eb0e-ee20-4bd8-aa24-30d8fca93829#ref=rss)
-### bsc
+* [https://www.spiegel.de/politik/deutschland/fussball-wm-welches-regierungsmitglied-faehrt-mit-nach-katar](https://www.spiegel.de/politik/deutschland/fussball-wm-welches-regierungsmitglied-faehrt-mit-nach-katar-a-d0bece05-1f4e-4bbc-a724-349db32bd5b0#ref=rss)
+### union
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc-a-32f2eb0e-ee20-4bd8-aa24-30d8fca93829#ref=rss)
-### wochen
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-geht-bei-bayer-leverkusen-unter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-geht-bei-bayer-leverkusen-unter-a-051f9a7d-141f-4c79-b19d-65209c9c6839#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-manuel-neuer-feiert-comeback-bei-sieg-ueber-hertha-bsc-a-32f2eb0e-ee20-4bd8-aa24-30d8fca93829#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-zuzug-von-kriegsfluechtlingen-wie-sich-antalya-in-eine-russische-stadt-verwandelt](https://www.spiegel.de/ausland/tuerkei-zuzug-von-kriegsfluechtlingen-wie-sich-antalya-in-eine-russische-stadt-verwandelt-a-aa465e4d-ce7d-4ef5-a08c-38fa41df6067#ref=rss)
-### lukas
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-geht-bei-bayer-leverkusen-unter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-geht-bei-bayer-leverkusen-unter-a-051f9a7d-141f-4c79-b19d-65209c9c6839#ref=rss)
+### leverkusen
 
-* [https://www.spiegel.de/sport/fussball/ex-nationalstuermer-lukas-podolski-erzielt-tor-aus-der-eigenen-haelfte](https://www.spiegel.de/sport/fussball/ex-nationalstuermer-lukas-podolski-erzielt-tor-aus-der-eigenen-haelfte-a-9214e67f-f520-44a5-b7e3-20f030f029b4#ref=rss)
-### podolski
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-geht-bei-bayer-leverkusen-unter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-geht-bei-bayer-leverkusen-unter-a-051f9a7d-141f-4c79-b19d-65209c9c6839#ref=rss)
+### unter
 
-* [https://www.spiegel.de/sport/fussball/ex-nationalstuermer-lukas-podolski-erzielt-tor-aus-der-eigenen-haelfte](https://www.spiegel.de/sport/fussball/ex-nationalstuermer-lukas-podolski-erzielt-tor-aus-der-eigenen-haelfte-a-9214e67f-f520-44a5-b7e3-20f030f029b4#ref=rss)
-### aaron
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-geht-bei-bayer-leverkusen-unter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-union-berlin-geht-bei-bayer-leverkusen-unter-a-051f9a7d-141f-4c79-b19d-65209c9c6839#ref=rss)
+* [https://www.spiegel.de/sport/fussball/hsv-siegt-trotz-vergebenem-elfmeter-fuerth-gewinnt-auch-zweites-spiel-unter-zorniger](https://www.spiegel.de/sport/fussball/hsv-siegt-trotz-vergebenem-elfmeter-fuerth-gewinnt-auch-zweites-spiel-unter-zorniger-a-685b90bb-1d5b-4008-85b5-48d7d6bed3bb#ref=rss)
+### niedersachsen
 
-* [https://www.spiegel.de/kultur/musik/aaron-carter-us-saenger-stirbt-mit-34-jahren](https://www.spiegel.de/kultur/musik/aaron-carter-us-saenger-stirbt-mit-34-jahren-a-481df3b9-d579-42e5-9a10-0a00bd4b964d#ref=rss)
-### carter
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-gruene-stimmen-ebenfalls-koalition-mit-spd-zu](https://www.spiegel.de/politik/deutschland/niedersachsen-gruene-stimmen-ebenfalls-koalition-mit-spd-zu-a-bd8bb7c3-0881-4c25-8c34-a0f503f0f92e#ref=rss)
+### stimmen
 
-* [https://www.spiegel.de/kultur/musik/aaron-carter-us-saenger-stirbt-mit-34-jahren](https://www.spiegel.de/kultur/musik/aaron-carter-us-saenger-stirbt-mit-34-jahren-a-481df3b9-d579-42e5-9a10-0a00bd4b964d#ref=rss)
-### türkei
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-gruene-stimmen-ebenfalls-koalition-mit-spd-zu](https://www.spiegel.de/politik/deutschland/niedersachsen-gruene-stimmen-ebenfalls-koalition-mit-spd-zu-a-bd8bb7c3-0881-4c25-8c34-a0f503f0f92e#ref=rss)
+### koalition
 
-* [https://www.spiegel.de/ausland/tuerkei-zuzug-von-kriegsfluechtlingen-wie-sich-antalya-in-eine-russische-stadt-verwandelt](https://www.spiegel.de/ausland/tuerkei-zuzug-von-kriegsfluechtlingen-wie-sich-antalya-in-eine-russische-stadt-verwandelt-a-aa465e4d-ce7d-4ef5-a08c-38fa41df6067#ref=rss)
-### antalya
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-gruene-stimmen-ebenfalls-koalition-mit-spd-zu](https://www.spiegel.de/politik/deutschland/niedersachsen-gruene-stimmen-ebenfalls-koalition-mit-spd-zu-a-bd8bb7c3-0881-4c25-8c34-a0f503f0f92e#ref=rss)
+### spd
 
-* [https://www.spiegel.de/ausland/tuerkei-zuzug-von-kriegsfluechtlingen-wie-sich-antalya-in-eine-russische-stadt-verwandelt](https://www.spiegel.de/ausland/tuerkei-zuzug-von-kriegsfluechtlingen-wie-sich-antalya-in-eine-russische-stadt-verwandelt-a-aa465e4d-ce7d-4ef5-a08c-38fa41df6067#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-gruene-stimmen-ebenfalls-koalition-mit-spd-zu](https://www.spiegel.de/politik/deutschland/niedersachsen-gruene-stimmen-ebenfalls-koalition-mit-spd-zu-a-bd8bb7c3-0881-4c25-8c34-a0f503f0f92e#ref=rss)
+### fürth
+
+* [https://www.spiegel.de/sport/fussball/hsv-siegt-trotz-vergebenem-elfmeter-fuerth-gewinnt-auch-zweites-spiel-unter-zorniger](https://www.spiegel.de/sport/fussball/hsv-siegt-trotz-vergebenem-elfmeter-fuerth-gewinnt-auch-zweites-spiel-unter-zorniger-a-685b90bb-1d5b-4008-85b5-48d7d6bed3bb#ref=rss)
+### überfahren
+
+* [https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote](https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote-a-21763992-d404-4fca-869d-9832c2641112#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote](https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote-a-21763992-d404-4fca-869d-9832c2641112#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote](https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote-a-21763992-d404-4fca-869d-9832c2641112#ref=rss)
+* [https://www.spiegel.de/panorama/prado-in-madrid-klimaaktivisten-kleben-sich-an-goya-gemaelde](https://www.spiegel.de/panorama/prado-in-madrid-klimaaktivisten-kleben-sich-an-goya-gemaelde-a-a06ad4f8-a700-4eb8-9c79-e145cd06b285#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote](https://www.spiegel.de/panorama/justiz/spanien-hochzeitsgaeste-von-auto-ueberfahren-vier-tote-a-21763992-d404-4fca-869d-9832c2641112#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt-a-a1f6b8e5-5cb3-4525-b486-2b0b0861596e#ref=rss)
+### umfrage
+
+* [https://www.spiegel.de/wirtschaft/service/konsumenten-wollen-wegen-rezessionssorgen-weniger-kaufen-umfrage](https://www.spiegel.de/wirtschaft/service/konsumenten-wollen-wegen-rezessionssorgen-weniger-kaufen-umfrage-a-b34850ba-a405-462c-92ba-cb3dde8a1a7e#ref=rss)
+### hohe
+
+* [https://www.spiegel.de/wirtschaft/service/konsumenten-wollen-wegen-rezessionssorgen-weniger-kaufen-umfrage](https://www.spiegel.de/wirtschaft/service/konsumenten-wollen-wegen-rezessionssorgen-weniger-kaufen-umfrage-a-b34850ba-a405-462c-92ba-cb3dde8a1a7e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten](https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten-a-2137d953-bda1-4bee-a81e-1009f3ad7fa1#ref=rss)
+### dfb
+
+* [https://www.spiegel.de/sport/fussball/antwort-auf-fifa-brief-dfb-will-sich-in-katar-weiter-fuer-offene-themen-einsetzen](https://www.spiegel.de/sport/fussball/antwort-auf-fifa-brief-dfb-will-sich-in-katar-weiter-fuer-offene-themen-einsetzen-a-ec3d01fb-d344-43a7-8cb5-4ddf1fcc41a1#ref=rss)
+### wir
+
+* [https://www.spiegel.de/sport/fussball/antwort-auf-fifa-brief-dfb-will-sich-in-katar-weiter-fuer-offene-themen-einsetzen](https://www.spiegel.de/sport/fussball/antwort-auf-fifa-brief-dfb-will-sich-in-katar-weiter-fuer-offene-themen-einsetzen-a-ec3d01fb-d344-43a7-8cb5-4ddf1fcc41a1#ref=rss)
+* [https://www.spiegel.de/tests/haushalt/steamer-im-test-so-glaetten-modelle-von-steamery-philips-tefal-binibini-und-grundig](https://www.spiegel.de/tests/haushalt/steamer-im-test-so-glaetten-modelle-von-steamery-philips-tefal-binibini-und-grundig-a-f63fc24d-397c-449e-8032-d3475d4e9690#ref=rss)
+### liverpool
+
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-juergen-klopp-ist-nicht-das-problem](https://www.spiegel.de/sport/fussball/fc-liverpool-juergen-klopp-ist-nicht-das-problem-a-1105472d-06b2-43a3-a32b-739893c4a6f0#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-juergen-klopp-ist-nicht-das-problem](https://www.spiegel.de/sport/fussball/fc-liverpool-juergen-klopp-ist-nicht-das-problem-a-1105472d-06b2-43a3-a32b-739893c4a6f0#ref=rss)
+### saison
+
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-juergen-klopp-ist-nicht-das-problem](https://www.spiegel.de/sport/fussball/fc-liverpool-juergen-klopp-ist-nicht-das-problem-a-1105472d-06b2-43a3-a32b-739893c4a6f0#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/skispringen-zweiter-platz-fuer-katharina-althaus-so-kann-es-gerne-weitergehen](https://www.spiegel.de/sport/wintersport/skispringen-zweiter-platz-fuer-katharina-althaus-so-kann-es-gerne-weitergehen-a-567d441e-b4db-426b-9ba3-834ab7832a12#ref=rss)
+### sondern
+
+* [https://www.spiegel.de/sport/fussball/fc-liverpool-juergen-klopp-ist-nicht-das-problem](https://www.spiegel.de/sport/fussball/fc-liverpool-juergen-klopp-ist-nicht-das-problem-a-1105472d-06b2-43a3-a32b-739893c4a6f0#ref=rss)
+* [https://www.spiegel.de/tests/haushalt/steamer-im-test-so-glaetten-modelle-von-steamery-philips-tefal-binibini-und-grundig](https://www.spiegel.de/tests/haushalt/steamer-im-test-so-glaetten-modelle-von-steamery-philips-tefal-binibini-und-grundig-a-f63fc24d-397c-449e-8032-d3475d4e9690#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/politik/cop27-erster-erfolg-bei-knackpunkten-der-klimaverhandlungen](https://www.spiegel.de/politik/cop27-erster-erfolg-bei-knackpunkten-der-klimaverhandlungen-a-7525e0ed-6e1a-4d72-bc8c-d73dd6df8573#ref=rss)
+### verkündet
+
+* [https://www.spiegel.de/politik/cop27-erster-erfolg-bei-knackpunkten-der-klimaverhandlungen](https://www.spiegel.de/politik/cop27-erster-erfolg-bei-knackpunkten-der-klimaverhandlungen-a-7525e0ed-6e1a-4d72-bc8c-d73dd6df8573#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt-a-a1f6b8e5-5cb3-4525-b486-2b0b0861596e#ref=rss)
+### katharina
+
+* [https://www.spiegel.de/sport/wintersport/skispringen-zweiter-platz-fuer-katharina-althaus-so-kann-es-gerne-weitergehen](https://www.spiegel.de/sport/wintersport/skispringen-zweiter-platz-fuer-katharina-althaus-so-kann-es-gerne-weitergehen-a-567d441e-b4db-426b-9ba3-834ab7832a12#ref=rss)
+### althaus
+
+* [https://www.spiegel.de/sport/wintersport/skispringen-zweiter-platz-fuer-katharina-althaus-so-kann-es-gerne-weitergehen](https://www.spiegel.de/sport/wintersport/skispringen-zweiter-platz-fuer-katharina-althaus-so-kann-es-gerne-weitergehen-a-567d441e-b4db-426b-9ba3-834ab7832a12#ref=rss)
+### sicherheitskräfte
+
+* [https://www.spiegel.de/ausland/iran-sicherheitskraefte-schiessen-erneut-auf-demonstranten](https://www.spiegel.de/ausland/iran-sicherheitskraefte-schiessen-erneut-auf-demonstranten-a-f6cf61c4-61fe-4407-9133-8663c3f35595#ref=rss)
+### demonstranten
+
+* [https://www.spiegel.de/ausland/iran-sicherheitskraefte-schiessen-erneut-auf-demonstranten](https://www.spiegel.de/ausland/iran-sicherheitskraefte-schiessen-erneut-auf-demonstranten-a-f6cf61c4-61fe-4407-9133-8663c3f35595#ref=rss)
+### unoklimakonferenz
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt-a-a1f6b8e5-5cb3-4525-b486-2b0b0861596e#ref=rss)
+* [https://www.spiegel.de/politik/cop27-menschenrechtsbeauftragte-der-bundesregierung-kritisiert-aegypten](https://www.spiegel.de/politik/cop27-menschenrechtsbeauftragte-der-bundesregierung-kritisiert-aegypten-a-0c98b08d-9dba-4d76-b7fc-1dd9d896e6b1#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt-a-a1f6b8e5-5cb3-4525-b486-2b0b0861596e#ref=rss)
+### vergangenen
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt-a-a1f6b8e5-5cb3-4525-b486-2b0b0861596e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten](https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten-a-2137d953-bda1-4bee-a81e-1009f3ad7fa1#ref=rss)
+### zuvor
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt-a-a1f6b8e5-5cb3-4525-b486-2b0b0861596e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten](https://www.spiegel.de/wirtschaft/service/hohe-diesel-und-benzinpreise-2022-wird-das-teuerste-tankjahr-aller-zeiten-a-2137d953-bda1-4bee-a81e-1009f3ad7fa1#ref=rss)
+### unser
+
+* [https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt](https://www.spiegel.de/wissenschaft/natur/uno-klimakonferenz-cop27-vergangene-acht-jahre-global-offenbar-die-heissesten-ueberhaupt-a-a1f6b8e5-5cb3-4525-b486-2b0b0861596e#ref=rss)
+* [https://www.spiegel.de/politik/briten-bekommen-zusaetzlichen-nationalen-feiertag](https://www.spiegel.de/politik/briten-bekommen-zusaetzlichen-nationalen-feiertag-a-66c51c13-c0c0-4ab1-b32c-51033b23d78f#ref=rss)
+### kiew
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-kiew-dementiert-vorwuerfe-muetzenichs-zu-angeblicher-terrorliste](https://www.spiegel.de/politik/deutschland/ukraine-krieg-kiew-dementiert-vorwuerfe-muetzenichs-zu-angeblicher-terrorliste-a-da20968d-c813-4388-bd76-f7a7670ad7f1#ref=rss)
+### terrorliste
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-kiew-dementiert-vorwuerfe-muetzenichs-zu-angeblicher-terrorliste](https://www.spiegel.de/politik/deutschland/ukraine-krieg-kiew-dementiert-vorwuerfe-muetzenichs-zu-angeblicher-terrorliste-a-da20968d-c813-4388-bd76-f7a7670ad7f1#ref=rss)
+### itamar
+
+* [https://www.spiegel.de/ausland/israel-wer-ist-benjamin-netanyahus-koenigsmacher-itamar-ben-gvir](https://www.spiegel.de/ausland/israel-wer-ist-benjamin-netanyahus-koenigsmacher-itamar-ben-gvir-a-a6e1669a-841a-413b-98ba-a424445602fd#ref=rss)
+### bengvir
+
+* [https://www.spiegel.de/ausland/israel-wer-ist-benjamin-netanyahus-koenigsmacher-itamar-ben-gvir](https://www.spiegel.de/ausland/israel-wer-ist-benjamin-netanyahus-koenigsmacher-itamar-ben-gvir-a-a6e1669a-841a-413b-98ba-a424445602fd#ref=rss)
+### macht
+
+* [https://www.spiegel.de/ausland/israel-wer-ist-benjamin-netanyahus-koenigsmacher-itamar-ben-gvir](https://www.spiegel.de/ausland/israel-wer-ist-benjamin-netanyahus-koenigsmacher-itamar-ben-gvir-a-a6e1669a-841a-413b-98ba-a424445602fd#ref=rss)
+* [https://www.spiegel.de/ausland/kari-lake-arizona-republikanerin-will-mit-rechtsextremen-positionen-gouverneurin-werden](https://www.spiegel.de/ausland/kari-lake-arizona-republikanerin-will-mit-rechtsextremen-positionen-gouverneurin-werden-a-cf7834de-4d18-4a5d-ab41-6f2b30f910c3#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-will-geburtshilfe-mit-240-millionen-euro-staerken](https://www.spiegel.de/politik/deutschland/karl-lauterbach-will-geburtshilfe-mit-240-millionen-euro-staerken-a-fdd197b5-facc-4246-9db2-847d709bc4ee#ref=rss)
+### geburtshilfe
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-will-geburtshilfe-mit-240-millionen-euro-staerken](https://www.spiegel.de/politik/deutschland/karl-lauterbach-will-geburtshilfe-mit-240-millionen-euro-staerken-a-fdd197b5-facc-4246-9db2-847d709bc4ee#ref=rss)
+### bulli
+
+* [https://www.spiegel.de/reise/europa/griechenland-reise-mit-dem-bulli-was-passierte-nachdem-das-auto-in-die-werkstatt-musste](https://www.spiegel.de/reise/europa/griechenland-reise-mit-dem-bulli-was-passierte-nachdem-das-auto-in-die-werkstatt-musste-a-c4c21dba-e9ef-4bfd-bce6-bdc17333b624#ref=rss)
+### alles
+
+* [https://www.spiegel.de/reise/europa/griechenland-reise-mit-dem-bulli-was-passierte-nachdem-das-auto-in-die-werkstatt-musste](https://www.spiegel.de/reise/europa/griechenland-reise-mit-dem-bulli-was-passierte-nachdem-das-auto-in-die-werkstatt-musste-a-c4c21dba-e9ef-4bfd-bce6-bdc17333b624#ref=rss)
+* [https://www.spiegel.de/tests/haushalt/steamer-im-test-so-glaetten-modelle-von-steamery-philips-tefal-binibini-und-grundig](https://www.spiegel.de/tests/haushalt/steamer-im-test-so-glaetten-modelle-von-steamery-philips-tefal-binibini-und-grundig-a-f63fc24d-397c-449e-8032-d3475d4e9690#ref=rss)
+### zweiten
+
+* [https://www.spiegel.de/reise/europa/griechenland-reise-mit-dem-bulli-was-passierte-nachdem-das-auto-in-die-werkstatt-musste](https://www.spiegel.de/reise/europa/griechenland-reise-mit-dem-bulli-was-passierte-nachdem-das-auto-in-die-werkstatt-musste-a-c4c21dba-e9ef-4bfd-bce6-bdc17333b624#ref=rss)
+* [https://www.spiegel.de/sport/schwimmen-katie-ledecky-schwimmt-fabel-weltrekord-ueber-800-meter-freistil](https://www.spiegel.de/sport/schwimmen-katie-ledecky-schwimmt-fabel-weltrekord-ueber-800-meter-freistil-a-cd893904-3332-444c-a15b-de4d43106719#ref=rss)
+### caroline
+
+* [https://www.spiegel.de/sport/fussball/tennis-wta-finals-caroline-garcia-sichert-sich-letzten-platz-im-halbfinale](https://www.spiegel.de/sport/fussball/tennis-wta-finals-caroline-garcia-sichert-sich-letzten-platz-im-halbfinale-a-fc0d4399-5da9-48c9-b5ed-29fb92704655#ref=rss)
+### garcia
+
+* [https://www.spiegel.de/sport/fussball/tennis-wta-finals-caroline-garcia-sichert-sich-letzten-platz-im-halbfinale](https://www.spiegel.de/sport/fussball/tennis-wta-finals-caroline-garcia-sichert-sich-letzten-platz-im-halbfinale-a-fc0d4399-5da9-48c9-b5ed-29fb92704655#ref=rss)
+### halbfinale
+
+* [https://www.spiegel.de/sport/fussball/tennis-wta-finals-caroline-garcia-sichert-sich-letzten-platz-im-halbfinale](https://www.spiegel.de/sport/fussball/tennis-wta-finals-caroline-garcia-sichert-sich-letzten-platz-im-halbfinale-a-fc0d4399-5da9-48c9-b5ed-29fb92704655#ref=rss)
+### ägypten
+
+* [https://www.spiegel.de/politik/cop27-menschenrechtsbeauftragte-der-bundesregierung-kritisiert-aegypten](https://www.spiegel.de/politik/cop27-menschenrechtsbeauftragte-der-bundesregierung-kritisiert-aegypten-a-0c98b08d-9dba-4d76-b7fc-1dd9d896e6b1#ref=rss)
+### land
+
+* [https://www.spiegel.de/politik/cop27-menschenrechtsbeauftragte-der-bundesregierung-kritisiert-aegypten](https://www.spiegel.de/politik/cop27-menschenrechtsbeauftragte-der-bundesregierung-kritisiert-aegypten-a-0c98b08d-9dba-4d76-b7fc-1dd9d896e6b1#ref=rss)
+* [https://www.spiegel.de/politik/briten-bekommen-zusaetzlichen-nationalen-feiertag](https://www.spiegel.de/politik/briten-bekommen-zusaetzlichen-nationalen-feiertag-a-66c51c13-c0c0-4ab1-b32c-51033b23d78f#ref=rss)
+### kari
+
+* [https://www.spiegel.de/ausland/kari-lake-arizona-republikanerin-will-mit-rechtsextremen-positionen-gouverneurin-werden](https://www.spiegel.de/ausland/kari-lake-arizona-republikanerin-will-mit-rechtsextremen-positionen-gouverneurin-werden-a-cf7834de-4d18-4a5d-ab41-6f2b30f910c3#ref=rss)
+### lake
+
+* [https://www.spiegel.de/ausland/kari-lake-arizona-republikanerin-will-mit-rechtsextremen-positionen-gouverneurin-werden](https://www.spiegel.de/ausland/kari-lake-arizona-republikanerin-will-mit-rechtsextremen-positionen-gouverneurin-werden-a-cf7834de-4d18-4a5d-ab41-6f2b30f910c3#ref=rss)
+### gouverneurin
+
+* [https://www.spiegel.de/ausland/kari-lake-arizona-republikanerin-will-mit-rechtsextremen-positionen-gouverneurin-werden](https://www.spiegel.de/ausland/kari-lake-arizona-republikanerin-will-mit-rechtsextremen-positionen-gouverneurin-werden-a-cf7834de-4d18-4a5d-ab41-6f2b30f910c3#ref=rss)
+### tansania
+
+* [https://www.spiegel.de/panorama/tansania-passagierflugzeug-mit-43-menschen-an-bord-stuerzt-in-victoriasee](https://www.spiegel.de/panorama/tansania-passagierflugzeug-mit-43-menschen-an-bord-stuerzt-in-victoriasee-a-cbc00f9c-1b5e-4f27-aac9-c2ff68f3cb96#ref=rss)
+### briten
+
+* [https://www.spiegel.de/politik/briten-bekommen-zusaetzlichen-nationalen-feiertag](https://www.spiegel.de/politik/briten-bekommen-zusaetzlichen-nationalen-feiertag-a-66c51c13-c0c0-4ab1-b32c-51033b23d78f#ref=rss)
+### feiertag
+
+* [https://www.spiegel.de/politik/briten-bekommen-zusaetzlichen-nationalen-feiertag](https://www.spiegel.de/politik/briten-bekommen-zusaetzlichen-nationalen-feiertag-a-66c51c13-c0c0-4ab1-b32c-51033b23d78f#ref=rss)
+### cduchef
+
+* [https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-lehnt-buergergeld-trotz-aenderungen-weiter-ab](https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-lehnt-buergergeld-trotz-aenderungen-weiter-ab-a-eb43b166-b564-42a0-b543-84ae5d60a574#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-lehnt-buergergeld-trotz-aenderungen-weiter-ab](https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-lehnt-buergergeld-trotz-aenderungen-weiter-ab-a-eb43b166-b564-42a0-b543-84ae5d60a574#ref=rss)
+### merz
+
+* [https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-lehnt-buergergeld-trotz-aenderungen-weiter-ab](https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-lehnt-buergergeld-trotz-aenderungen-weiter-ab-a-eb43b166-b564-42a0-b543-84ae5d60a574#ref=rss)
+### bürgergeld
+
+* [https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-lehnt-buergergeld-trotz-aenderungen-weiter-ab](https://www.spiegel.de/politik/deutschland/cdu-chef-friedrich-merz-lehnt-buergergeld-trotz-aenderungen-weiter-ab-a-eb43b166-b564-42a0-b543-84ae5d60a574#ref=rss)
+### katie
+
+* [https://www.spiegel.de/sport/schwimmen-katie-ledecky-schwimmt-fabel-weltrekord-ueber-800-meter-freistil](https://www.spiegel.de/sport/schwimmen-katie-ledecky-schwimmt-fabel-weltrekord-ueber-800-meter-freistil-a-cd893904-3332-444c-a15b-de4d43106719#ref=rss)
+### ledecky
+
+* [https://www.spiegel.de/sport/schwimmen-katie-ledecky-schwimmt-fabel-weltrekord-ueber-800-meter-freistil](https://www.spiegel.de/sport/schwimmen-katie-ledecky-schwimmt-fabel-weltrekord-ueber-800-meter-freistil-a-cd893904-3332-444c-a15b-de4d43106719#ref=rss)
+### schwimmt
+
+* [https://www.spiegel.de/sport/schwimmen-katie-ledecky-schwimmt-fabel-weltrekord-ueber-800-meter-freistil](https://www.spiegel.de/sport/schwimmen-katie-ledecky-schwimmt-fabel-weltrekord-ueber-800-meter-freistil-a-cd893904-3332-444c-a15b-de4d43106719#ref=rss)
+### fabelweltrekord
+
+* [https://www.spiegel.de/sport/schwimmen-katie-ledecky-schwimmt-fabel-weltrekord-ueber-800-meter-freistil](https://www.spiegel.de/sport/schwimmen-katie-ledecky-schwimmt-fabel-weltrekord-ueber-800-meter-freistil-a-cd893904-3332-444c-a15b-de4d43106719#ref=rss)
+### glätten
+
+* [https://www.spiegel.de/tests/haushalt/steamer-im-test-so-glaetten-modelle-von-steamery-philips-tefal-binibini-und-grundig](https://www.spiegel.de/tests/haushalt/steamer-im-test-so-glaetten-modelle-von-steamery-philips-tefal-binibini-und-grundig-a-f63fc24d-397c-449e-8032-d3475d4e9690#ref=rss)
 
