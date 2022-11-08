@@ -4,337 +4,306 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### ich
 
-* [https://www.spiegel.de/wissenschaft/antonio-guterres-die-menschheit-hat-eine-wahl-kooperieren-oder-umkommen](https://www.spiegel.de/wissenschaft/antonio-guterres-die-menschheit-hat-eine-wahl-kooperieren-oder-umkommen-a-7ca31374-6a7c-4f63-bead-5dfcba7fa2bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-toedlicher-unfall-und-letzte-generation-die-falsche-aufregung-kommentar](https://www.spiegel.de/politik/deutschland/berlin-toedlicher-unfall-und-letzte-generation-die-falsche-aufregung-kommentar-a-6fb181d8-bcc2-4bfa-bdb5-d918c69b7637#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutschland-so-viel-kostet-taxifahren-in-den-staedten](https://www.spiegel.de/wirtschaft/service/deutschland-so-viel-kostet-taxifahren-in-den-staedten-a-e9ff1cc7-c5e3-4b02-b097-8782bfb2e281#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kohle-aus-suedafrika-massenhaft-brennstoff-fuer-deutschland](https://www.spiegel.de/wirtschaft/kohle-aus-suedafrika-massenhaft-brennstoff-fuer-deutschland-a-d8e0c081-93c9-493f-b16d-b19c463be139#ref=rss)
-* [https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika](https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika-a-abfc9ed4-0e2c-4d10-93ba-f24af8bf00ca#ref=rss)
-### berlin
+* [https://www.spiegel.de/reise/souvenirs-warum-zur-hoelle-horten-menschen-wie-ich-urlaubs-mitbringsel](https://www.spiegel.de/reise/souvenirs-warum-zur-hoelle-horten-menschen-wie-ich-urlaubs-mitbringsel-a-886df995-f6ed-4878-9cbd-e00fe8dc3ff5#ref=rss)
+* [https://www.spiegel.de/psychologie/falten-im-schlaf-wie-ich-versuchte-mein-gesicht-von-rinnen-und-rillen-zu-befreien](https://www.spiegel.de/psychologie/falten-im-schlaf-wie-ich-versuchte-mein-gesicht-von-rinnen-und-rillen-zu-befreien-a-b978a60d-3dce-41e7-b1ee-943616520a6e#ref=rss)
+### china
 
-* [https://www.spiegel.de/politik/deutschland/berlin-ausschuss-empfiehlt-teilwiederholung-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/berlin-ausschuss-empfiehlt-teilwiederholung-der-bundestagswahl-a-4f9c4eed-839a-4eab-bac4-458856ad52c0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-toedlicher-unfall-und-letzte-generation-die-falsche-aufregung-kommentar](https://www.spiegel.de/politik/deutschland/berlin-toedlicher-unfall-und-letzte-generation-die-falsche-aufregung-kommentar-a-6fb181d8-bcc2-4bfa-bdb5-d918c69b7637#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-als-kokainsuechtig-bezeichnet-geldstrafe](https://www.spiegel.de/politik/deutschland/jens-spahn-als-kokainsuechtig-bezeichnet-geldstrafe-a-9cfaff53-9864-4ee9-9eb9-fd78996852be#ref=rss)
+* [https://www.spiegel.de/ausland/china-droht-dem-westen-aerger-mit-kanada-australien-litauen](https://www.spiegel.de/ausland/china-droht-dem-westen-aerger-mit-kanada-australien-litauen-a-d9d23920-080d-44fb-923d-7843469e7113#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne](https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne-a-7258508e-b3a2-4eeb-9cbf-8b14e6c29c65#ref=rss)
+* [https://www.spiegel.de/ausland/china-handelsmesse-streicht-eroeffnungsvideo-von-charles-michel](https://www.spiegel.de/ausland/china-handelsmesse-streicht-eroeffnungsvideo-von-charles-michel-a-9735df98-ad6a-4648-b07b-ba79e7d856ab#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/fdp-fordert-veto-recht-fuer-ministerien](https://www.spiegel.de/politik/deutschland/fdp-fordert-veto-recht-fuer-ministerien-a-840efdc9-88e5-4210-8a72-55272db05506#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld](https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld-a-d760fce5-a6bf-4f76-aa2c-ed49aa0da258#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/deutschland-so-viel-kostet-taxifahren-in-den-staedten](https://www.spiegel.de/wirtschaft/service/deutschland-so-viel-kostet-taxifahren-in-den-staedten-a-e9ff1cc7-c5e3-4b02-b097-8782bfb2e281#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk](https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk-a-b66627ab-8af3-4bed-9846-d31602e93137#ref=rss)
-### polen
+* [https://www.spiegel.de/netzwelt/web/silk-road-im-darknet-us-ermittler-beschlagnahmen-3-4-milliarden-dollar-in-bitcoin](https://www.spiegel.de/netzwelt/web/silk-road-im-darknet-us-ermittler-beschlagnahmen-3-4-milliarden-dollar-in-bitcoin-a-3daef874-e9be-4bae-a9d0-4e1c03b868fb#ref=rss)
+* [https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch](https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch-a-8dcb2ef7-d3db-4099-a9d8-def5a7082960#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz](https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz-a-a308b36a-de6e-4e00-84d2-581cd6d5eba2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fluechtlingsheime-erstmals-seit-jahren-wieder-mehr-angriffe-auf-unterkuenfte](https://www.spiegel.de/politik/deutschland/fluechtlingsheime-erstmals-seit-jahren-wieder-mehr-angriffe-auf-unterkuenfte-a-0c812320-9683-4122-97ce-f702ee2b183b#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel-a-7c2e97bc-4ad4-41c8-9931-5181ac0f4236#ref=rss)
-* [https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-gibt-trinkenden-frauen-schuld-an-niedriger-geburtenrate](https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-gibt-trinkenden-frauen-schuld-an-niedriger-geburtenrate-a-6d777c3e-c370-4a54-9f46-9518f88ea15d#ref=rss)
-* [https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika](https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika-a-abfc9ed4-0e2c-4d10-93ba-f24af8bf00ca#ref=rss)
-### elon
+* [https://www.spiegel.de/wirtschaft/deutschland-wirtschaftsweise-sagen-milde-rezession-voraus](https://www.spiegel.de/wirtschaft/deutschland-wirtschaftsweise-sagen-milde-rezession-voraus-a-43be427f-5151-4e58-9c19-1b69d9c46394#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne](https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne-a-7258508e-b3a2-4eeb-9cbf-8b14e6c29c65#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/weltklimagipfel-cop27-jetzt-geht-s-um-die-milliarden-podcast](https://www.spiegel.de/wissenschaft/natur/weltklimagipfel-cop27-jetzt-geht-s-um-die-milliarden-podcast-a-5687cb46-c2f7-4998-9a68-4caa3608c04d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/buerger-misstrauen-dem-umweltversprechen-vieler-unternehmen](https://www.spiegel.de/wirtschaft/buerger-misstrauen-dem-umweltversprechen-vieler-unternehmen-a-f9a090f3-3cf6-4932-ae95-a5b9ba1bdbcf#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/ausland/elon-musk-ruft-vor-midterms-zur-wahl-von-republikanern-auf](https://www.spiegel.de/ausland/elon-musk-ruft-vor-midterms-zur-wahl-von-republikanern-auf-a-afeb0881-aea6-47a7-a366-607d958fe48a#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk](https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk-a-b66627ab-8af3-4bed-9846-d31602e93137#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/bildung/vorbereitungsklassen-werden-gefluechtete-kinder-getrennt-unterrichtet-sind-sie-schlechter-in-der-schule](https://www.spiegel.de/panorama/bildung/vorbereitungsklassen-werden-gefluechtete-kinder-getrennt-unterrichtet-sind-sie-schlechter-in-der-schule-a-0e38360d-0a89-45ba-b87b-4286cb73f12d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen](https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen-a-8b0728ee-432e-422a-8835-2e8694f697af#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/hacker-stehlen-offenbar-40-terabyte-von-continental](https://www.spiegel.de/netzwelt/web/hacker-stehlen-offenbar-40-terabyte-von-continental-a-3c1d358a-7c79-48cc-b3cb-77ca82a598e7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grossbritannien-finanzminister-hunt-will-sparen-und-steuern-erhoehen](https://www.spiegel.de/wirtschaft/soziales/grossbritannien-finanzminister-hunt-will-sparen-und-steuern-erhoehen-a-44a7a395-66fc-4012-9ca2-94863ab51aa5#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel-a-7c2e97bc-4ad4-41c8-9931-5181ac0f4236#ref=rss)
-* [https://www.spiegel.de/wissenschaft/antonio-guterres-die-menschheit-hat-eine-wahl-kooperieren-oder-umkommen](https://www.spiegel.de/wissenschaft/antonio-guterres-die-menschheit-hat-eine-wahl-kooperieren-oder-umkommen-a-7ca31374-6a7c-4f63-bead-5dfcba7fa2bc#ref=rss)
-* [https://www.spiegel.de/ausland/news-zum-ukraine-krieg-britischer-geheimdienst-russland-wird-lufthoheit-nicht-mehr-gewinnen](https://www.spiegel.de/ausland/news-zum-ukraine-krieg-britischer-geheimdienst-russland-wird-lufthoheit-nicht-mehr-gewinnen-a-27efc2e8-be91-45db-ae16-5c3418d519d3#ref=rss)
-### klimaaktivisten
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel-a-7c2e97bc-4ad4-41c8-9931-5181ac0f4236#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-toedlicher-unfall-und-letzte-generation-die-falsche-aufregung-kommentar](https://www.spiegel.de/politik/deutschland/berlin-toedlicher-unfall-und-letzte-generation-die-falsche-aufregung-kommentar-a-6fb181d8-bcc2-4bfa-bdb5-d918c69b7637#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/fdp-fordert-veto-recht-fuer-ministerien](https://www.spiegel.de/politik/deutschland/fdp-fordert-veto-recht-fuer-ministerien-a-840efdc9-88e5-4210-8a72-55272db05506#ref=rss)
-* [https://www.spiegel.de/wissenschaft/antonio-guterres-die-menschheit-hat-eine-wahl-kooperieren-oder-umkommen](https://www.spiegel.de/wissenschaft/antonio-guterres-die-menschheit-hat-eine-wahl-kooperieren-oder-umkommen-a-7ca31374-6a7c-4f63-bead-5dfcba7fa2bc#ref=rss)
-### musk
-
-* [https://www.spiegel.de/ausland/elon-musk-ruft-vor-midterms-zur-wahl-von-republikanern-auf](https://www.spiegel.de/ausland/elon-musk-ruft-vor-midterms-zur-wahl-von-republikanern-auf-a-afeb0881-aea6-47a7-a366-607d958fe48a#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk](https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk-a-b66627ab-8af3-4bed-9846-d31602e93137#ref=rss)
-### midterms
-
-* [https://www.spiegel.de/ausland/elon-musk-ruft-vor-midterms-zur-wahl-von-republikanern-auf](https://www.spiegel.de/ausland/elon-musk-ruft-vor-midterms-zur-wahl-von-republikanern-auf-a-afeb0881-aea6-47a7-a366-607d958fe48a#ref=rss)
-* [https://www.spiegel.de/ausland/russland-usa-wladimir-putin-koch-gibt-einmischung-in-us-wahlen-zu](https://www.spiegel.de/ausland/russland-usa-wladimir-putin-koch-gibt-einmischung-in-us-wahlen-zu-a-0246c285-ac9f-4da3-82dd-4aef1faade8a#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-gibt-trinkenden-frauen-schuld-an-niedriger-geburtenrate](https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-gibt-trinkenden-frauen-schuld-an-niedriger-geburtenrate-a-6d777c3e-c370-4a54-9f46-9518f88ea15d#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen](https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen-a-8b0728ee-432e-422a-8835-2e8694f697af#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk](https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk-a-b66627ab-8af3-4bed-9846-d31602e93137#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/hacker-stehlen-offenbar-40-terabyte-von-continental](https://www.spiegel.de/netzwelt/web/hacker-stehlen-offenbar-40-terabyte-von-continental-a-3c1d358a-7c79-48cc-b3cb-77ca82a598e7#ref=rss)
-### 40
-
-* [https://www.spiegel.de/netzwelt/web/hacker-stehlen-offenbar-40-terabyte-von-continental](https://www.spiegel.de/netzwelt/web/hacker-stehlen-offenbar-40-terabyte-von-continental-a-3c1d358a-7c79-48cc-b3cb-77ca82a598e7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/cher-hat-40-jahre-juengeren-freund-und-pfeift-auf-hater-postet-wahlaufruf](https://www.spiegel.de/panorama/leute/cher-hat-40-jahre-juengeren-freund-und-pfeift-auf-hater-postet-wahlaufruf-a-abb63c96-9ecf-443b-b617-bcf1a336abdb#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/ausland/russland-usa-wladimir-putin-koch-gibt-einmischung-in-us-wahlen-zu](https://www.spiegel.de/ausland/russland-usa-wladimir-putin-koch-gibt-einmischung-in-us-wahlen-zu-a-0246c285-ac9f-4da3-82dd-4aef1faade8a#ref=rss)
-* [https://www.spiegel.de/panorama/leute/cher-hat-40-jahre-juengeren-freund-und-pfeift-auf-hater-postet-wahlaufruf](https://www.spiegel.de/panorama/leute/cher-hat-40-jahre-juengeren-freund-und-pfeift-auf-hater-postet-wahlaufruf-a-abb63c96-9ecf-443b-b617-bcf1a336abdb#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst](https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst-a-442b0e12-3463-41de-b0c5-e732fa2c4106#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kohle-aus-suedafrika-massenhaft-brennstoff-fuer-deutschland](https://www.spiegel.de/wirtschaft/kohle-aus-suedafrika-massenhaft-brennstoff-fuer-deutschland-a-d8e0c081-93c9-493f-b16d-b19c463be139#ref=rss)
-* [https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika](https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika-a-abfc9ed4-0e2c-4d10-93ba-f24af8bf00ca#ref=rss)
-### reiche
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-dringen-auf-steuererhoehungen-fuer-reiche](https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-dringen-auf-steuererhoehungen-fuer-reiche-a-1ada0773-e77d-42ad-a52a-3381cc89231b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kohle-aus-suedafrika-massenhaft-brennstoff-fuer-deutschland](https://www.spiegel.de/wirtschaft/kohle-aus-suedafrika-massenhaft-brennstoff-fuer-deutschland-a-d8e0c081-93c9-493f-b16d-b19c463be139#ref=rss)
-### energiekrise
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-dringen-auf-steuererhoehungen-fuer-reiche](https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-dringen-auf-steuererhoehungen-fuer-reiche-a-1ada0773-e77d-42ad-a52a-3381cc89231b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld](https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld-a-d760fce5-a6bf-4f76-aa2c-ed49aa0da258#ref=rss)
-### ampelkoalition
-
-* [https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-dringen-auf-steuererhoehungen-fuer-reiche](https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-dringen-auf-steuererhoehungen-fuer-reiche-a-1ada0773-e77d-42ad-a52a-3381cc89231b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld](https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld-a-d760fce5-a6bf-4f76-aa2c-ed49aa0da258#ref=rss)
-### 25stundenwoche
-
-* [https://www.spiegel.de/politik/deutschland/spd-debattenkonvent-und-25-stunden-woche-wie-die-jusos-der-spitze-die-stimmung-vermiesen](https://www.spiegel.de/politik/deutschland/spd-debattenkonvent-und-25-stunden-woche-wie-die-jusos-der-spitze-die-stimmung-vermiesen-a-8c47f241-60a7-4aa3-8e05-7410bcbe0ebd#ref=rss)
-### jusos
-
-* [https://www.spiegel.de/politik/deutschland/spd-debattenkonvent-und-25-stunden-woche-wie-die-jusos-der-spitze-die-stimmung-vermiesen](https://www.spiegel.de/politik/deutschland/spd-debattenkonvent-und-25-stunden-woche-wie-die-jusos-der-spitze-die-stimmung-vermiesen-a-8c47f241-60a7-4aa3-8e05-7410bcbe0ebd#ref=rss)
-### alles
-
-* [https://www.spiegel.de/politik/deutschland/spd-debattenkonvent-und-25-stunden-woche-wie-die-jusos-der-spitze-die-stimmung-vermiesen](https://www.spiegel.de/politik/deutschland/spd-debattenkonvent-und-25-stunden-woche-wie-die-jusos-der-spitze-die-stimmung-vermiesen-a-8c47f241-60a7-4aa3-8e05-7410bcbe0ebd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/cop27-erster-tag-der-uno-klimaverhandlungen-drahtseilakt-zwischen-fortschritt-und-absturz](https://www.spiegel.de/wissenschaft/cop27-erster-tag-der-uno-klimaverhandlungen-drahtseilakt-zwischen-fortschritt-und-absturz-a-16fce0b5-1c3a-40ce-914d-de58821f219f#ref=rss)
-### plan
-
-* [https://www.spiegel.de/politik/deutschland/spd-debattenkonvent-und-25-stunden-woche-wie-die-jusos-der-spitze-die-stimmung-vermiesen](https://www.spiegel.de/politik/deutschland/spd-debattenkonvent-und-25-stunden-woche-wie-die-jusos-der-spitze-die-stimmung-vermiesen-a-8c47f241-60a7-4aa3-8e05-7410bcbe0ebd#ref=rss)
-* [https://www.spiegel.de/panorama/ludwigslust-stimme-aus-muellcontainer-ruft-polizei-auf-den-plan](https://www.spiegel.de/panorama/ludwigslust-stimme-aus-muellcontainer-ruft-polizei-auf-den-plan-a-eab1961a-8c2c-4fc7-b5b6-caf31892c914#ref=rss)
-### ampel
-
-* [https://www.spiegel.de/politik/deutschland/spd-debattenkonvent-und-25-stunden-woche-wie-die-jusos-der-spitze-die-stimmung-vermiesen](https://www.spiegel.de/politik/deutschland/spd-debattenkonvent-und-25-stunden-woche-wie-die-jusos-der-spitze-die-stimmung-vermiesen-a-8c47f241-60a7-4aa3-8e05-7410bcbe0ebd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld](https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld-a-d760fce5-a6bf-4f76-aa2c-ed49aa0da258#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/spd-debattenkonvent-und-25-stunden-woche-wie-die-jusos-der-spitze-die-stimmung-vermiesen](https://www.spiegel.de/politik/deutschland/spd-debattenkonvent-und-25-stunden-woche-wie-die-jusos-der-spitze-die-stimmung-vermiesen-a-8c47f241-60a7-4aa3-8e05-7410bcbe0ebd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-fordert-veto-recht-fuer-ministerien](https://www.spiegel.de/politik/deutschland/fdp-fordert-veto-recht-fuer-ministerien-a-840efdc9-88e5-4210-8a72-55272db05506#ref=rss)
-### bundestagswahl
-
-* [https://www.spiegel.de/politik/deutschland/berlin-ausschuss-empfiehlt-teilwiederholung-der-bundestagswahl](https://www.spiegel.de/politik/deutschland/berlin-ausschuss-empfiehlt-teilwiederholung-der-bundestagswahl-a-4f9c4eed-839a-4eab-bac4-458856ad52c0#ref=rss)
-### rassistische
-
-* [https://www.spiegel.de/panorama/antisemitische-und-rassistische-posts-behoerden-ermitteln-gegen-50-beschuldigte-auch-polizisten](https://www.spiegel.de/panorama/antisemitische-und-rassistische-posts-behoerden-ermitteln-gegen-50-beschuldigte-auch-polizisten-a-82b1b44e-8d69-4e95-a209-2161075ddda4#ref=rss)
-### beschuldigte
-
-* [https://www.spiegel.de/panorama/antisemitische-und-rassistische-posts-behoerden-ermitteln-gegen-50-beschuldigte-auch-polizisten](https://www.spiegel.de/panorama/antisemitische-und-rassistische-posts-behoerden-ermitteln-gegen-50-beschuldigte-auch-polizisten-a-82b1b44e-8d69-4e95-a209-2161075ddda4#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/antisemitische-und-rassistische-posts-behoerden-ermitteln-gegen-50-beschuldigte-auch-polizisten](https://www.spiegel.de/panorama/antisemitische-und-rassistische-posts-behoerden-ermitteln-gegen-50-beschuldigte-auch-polizisten-a-82b1b44e-8d69-4e95-a209-2161075ddda4#ref=rss)
-### präventivhaft
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel-a-7c2e97bc-4ad4-41c8-9931-5181ac0f4236#ref=rss)
-### weihnachtsgeschäft
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel-a-7c2e97bc-4ad4-41c8-9931-5181ac0f4236#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel-a-7c2e97bc-4ad4-41c8-9931-5181ac0f4236#ref=rss)
-### einzelhandel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel-a-7c2e97bc-4ad4-41c8-9931-5181ac0f4236#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel-a-7c2e97bc-4ad4-41c8-9931-5181ac0f4236#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/chemical-revolution-online-dealer-in-giessen-zu-mehreren-jahren-haft-verurteilt](https://www.spiegel.de/netzwelt/web/chemical-revolution-online-dealer-in-giessen-zu-mehreren-jahren-haft-verurteilt-a-6b800cfe-8f2e-439c-aca7-357e109de7ad#ref=rss)
-### betroffenen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel-a-7c2e97bc-4ad4-41c8-9931-5181ac0f4236#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/im-labor-gezuechtet-forscher-uebertragen-rote-blutkoerperchen-auf-menschen](https://www.spiegel.de/wissenschaft/medizin/im-labor-gezuechtet-forscher-uebertragen-rote-blutkoerperchen-auf-menschen-a-4fbf87fc-dcdd-45fb-9a7a-99c40c6a55c5#ref=rss)
-### ums
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaaktivisten-in-praeventivhaft-lukaschenkos-druck-auf-polen-weihnachtsgeschaeft-sorgt-einzelhandel-a-7c2e97bc-4ad4-41c8-9931-5181ac0f4236#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld](https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld-a-d760fce5-a6bf-4f76-aa2c-ed49aa0da258#ref=rss)
-### verabschiedet
-
-* [https://www.spiegel.de/politik/deutschland/fdp-fordert-veto-recht-fuer-ministerien](https://www.spiegel.de/politik/deutschland/fdp-fordert-veto-recht-fuer-ministerien-a-840efdc9-88e5-4210-8a72-55272db05506#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk](https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk-a-b66627ab-8af3-4bed-9846-d31602e93137#ref=rss)
-### bürgergeld
-
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld](https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld-a-d760fce5-a6bf-4f76-aa2c-ed49aa0da258#ref=rss)
-### führen
-
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld](https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld-a-d760fce5-a6bf-4f76-aa2c-ed49aa0da258#ref=rss)
-* [https://www.spiegel.de/kultur/kino/jimmy-kimmel-kehrt-als-moderator-der-oscars-2023-zurueck](https://www.spiegel.de/kultur/kino/jimmy-kimmel-kehrt-als-moderator-der-oscars-2023-zurueck-a-961f8c39-71f5-43bc-bcd9-3c2d02cbc2be#ref=rss)
-### euro
-
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld](https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld-a-d760fce5-a6bf-4f76-aa2c-ed49aa0da258#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-als-kokainsuechtig-bezeichnet-geldstrafe](https://www.spiegel.de/politik/deutschland/jens-spahn-als-kokainsuechtig-bezeichnet-geldstrafe-a-9cfaff53-9864-4ee9-9eb9-fd78996852be#ref=rss)
-### geld
-
-* [https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld](https://www.spiegel.de/politik/deutschland/ampel-koalition-vs-cdu-csu-so-laeuft-der-streit-ums-buergergeld-a-d760fce5-a6bf-4f76-aa2c-ed49aa0da258#ref=rss)
-* [https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika](https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika-a-abfc9ed4-0e2c-4d10-93ba-f24af8bf00ca#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/wissenschaft/antonio-guterres-die-menschheit-hat-eine-wahl-kooperieren-oder-umkommen](https://www.spiegel.de/wissenschaft/antonio-guterres-die-menschheit-hat-eine-wahl-kooperieren-oder-umkommen-a-7ca31374-6a7c-4f63-bead-5dfcba7fa2bc#ref=rss)
-### klima
-
-* [https://www.spiegel.de/wissenschaft/antonio-guterres-die-menschheit-hat-eine-wahl-kooperieren-oder-umkommen](https://www.spiegel.de/wissenschaft/antonio-guterres-die-menschheit-hat-eine-wahl-kooperieren-oder-umkommen-a-7ca31374-6a7c-4f63-bead-5dfcba7fa2bc#ref=rss)
-* [https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst](https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst-a-442b0e12-3463-41de-b0c5-e732fa2c4106#ref=rss)
-### ruft
-
-* [https://www.spiegel.de/ausland/elon-musk-ruft-vor-midterms-zur-wahl-von-republikanern-auf](https://www.spiegel.de/ausland/elon-musk-ruft-vor-midterms-zur-wahl-von-republikanern-auf-a-afeb0881-aea6-47a7-a366-607d958fe48a#ref=rss)
-* [https://www.spiegel.de/panorama/ludwigslust-stimme-aus-muellcontainer-ruft-polizei-auf-den-plan](https://www.spiegel.de/panorama/ludwigslust-stimme-aus-muellcontainer-ruft-polizei-auf-den-plan-a-eab1961a-8c2c-4fc7-b5b6-caf31892c914#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/elon-musk-ruft-vor-midterms-zur-wahl-von-republikanern-auf](https://www.spiegel.de/ausland/elon-musk-ruft-vor-midterms-zur-wahl-von-republikanern-auf-a-afeb0881-aea6-47a7-a366-607d958fe48a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kohle-aus-suedafrika-massenhaft-brennstoff-fuer-deutschland](https://www.spiegel.de/wirtschaft/kohle-aus-suedafrika-massenhaft-brennstoff-fuer-deutschland-a-d8e0c081-93c9-493f-b16d-b19c463be139#ref=rss)
-### gießen
-
-* [https://www.spiegel.de/netzwelt/web/chemical-revolution-online-dealer-in-giessen-zu-mehreren-jahren-haft-verurteilt](https://www.spiegel.de/netzwelt/web/chemical-revolution-online-dealer-in-giessen-zu-mehreren-jahren-haft-verurteilt-a-6b800cfe-8f2e-439c-aca7-357e109de7ad#ref=rss)
-### mehreren
-
-* [https://www.spiegel.de/netzwelt/web/chemical-revolution-online-dealer-in-giessen-zu-mehreren-jahren-haft-verurteilt](https://www.spiegel.de/netzwelt/web/chemical-revolution-online-dealer-in-giessen-zu-mehreren-jahren-haft-verurteilt-a-6b800cfe-8f2e-439c-aca7-357e109de7ad#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grossbritannien-finanzminister-hunt-will-sparen-und-steuern-erhoehen](https://www.spiegel.de/wirtschaft/soziales/grossbritannien-finanzminister-hunt-will-sparen-und-steuern-erhoehen-a-44a7a395-66fc-4012-9ca2-94863ab51aa5#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/netzwelt/web/chemical-revolution-online-dealer-in-giessen-zu-mehreren-jahren-haft-verurteilt](https://www.spiegel.de/netzwelt/web/chemical-revolution-online-dealer-in-giessen-zu-mehreren-jahren-haft-verurteilt-a-6b800cfe-8f2e-439c-aca7-357e109de7ad#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk](https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk-a-b66627ab-8af3-4bed-9846-d31602e93137#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/netzwelt/web/chemical-revolution-online-dealer-in-giessen-zu-mehreren-jahren-haft-verurteilt](https://www.spiegel.de/netzwelt/web/chemical-revolution-online-dealer-in-giessen-zu-mehreren-jahren-haft-verurteilt-a-6b800cfe-8f2e-439c-aca7-357e109de7ad#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/netzwelt/web/chemical-revolution-online-dealer-in-giessen-zu-mehreren-jahren-haft-verurteilt](https://www.spiegel.de/netzwelt/web/chemical-revolution-online-dealer-in-giessen-zu-mehreren-jahren-haft-verurteilt-a-6b800cfe-8f2e-439c-aca7-357e109de7ad#ref=rss)
-* [https://www.spiegel.de/ausland/news-zum-ukraine-krieg-britischer-geheimdienst-russland-wird-lufthoheit-nicht-mehr-gewinnen](https://www.spiegel.de/ausland/news-zum-ukraine-krieg-britischer-geheimdienst-russland-wird-lufthoheit-nicht-mehr-gewinnen-a-27efc2e8-be91-45db-ae16-5c3418d519d3#ref=rss)
-### jaroslaw
-
-* [https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-gibt-trinkenden-frauen-schuld-an-niedriger-geburtenrate](https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-gibt-trinkenden-frauen-schuld-an-niedriger-geburtenrate-a-6d777c3e-c370-4a54-9f46-9518f88ea15d#ref=rss)
-### kaczynski
-
-* [https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-gibt-trinkenden-frauen-schuld-an-niedriger-geburtenrate](https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-gibt-trinkenden-frauen-schuld-an-niedriger-geburtenrate-a-6d777c3e-c370-4a54-9f46-9518f88ea15d#ref=rss)
-### geburtenrate
-
-* [https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-gibt-trinkenden-frauen-schuld-an-niedriger-geburtenrate](https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-gibt-trinkenden-frauen-schuld-an-niedriger-geburtenrate-a-6d777c3e-c370-4a54-9f46-9518f88ea15d#ref=rss)
-### landes
-
-* [https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-gibt-trinkenden-frauen-schuld-an-niedriger-geburtenrate](https://www.spiegel.de/ausland/polen-jaroslaw-kaczynski-gibt-trinkenden-frauen-schuld-an-niedriger-geburtenrate-a-6d777c3e-c370-4a54-9f46-9518f88ea15d#ref=rss)
-* [https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst](https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst-a-442b0e12-3463-41de-b0c5-e732fa2c4106#ref=rss)
-### stimme
-
-* [https://www.spiegel.de/panorama/ludwigslust-stimme-aus-muellcontainer-ruft-polizei-auf-den-plan](https://www.spiegel.de/panorama/ludwigslust-stimme-aus-muellcontainer-ruft-polizei-auf-den-plan-a-eab1961a-8c2c-4fc7-b5b6-caf31892c914#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/ludwigslust-stimme-aus-muellcontainer-ruft-polizei-auf-den-plan](https://www.spiegel.de/panorama/ludwigslust-stimme-aus-muellcontainer-ruft-polizei-auf-den-plan-a-eab1961a-8c2c-4fc7-b5b6-caf31892c914#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/leichenfund-in-hessen-festnahme-nach-ermordung-von-syrer-an-bahngleisen](https://www.spiegel.de/panorama/justiz/leichenfund-in-hessen-festnahme-nach-ermordung-von-syrer-an-bahngleisen-a-f90a873a-3a15-4fc9-b0dd-9d5cc8a14691#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/bildung/vorbereitungsklassen-werden-gefluechtete-kinder-getrennt-unterrichtet-sind-sie-schlechter-in-der-schule](https://www.spiegel.de/panorama/bildung/vorbereitungsklassen-werden-gefluechtete-kinder-getrennt-unterrichtet-sind-sie-schlechter-in-der-schule-a-0e38360d-0a89-45ba-b87b-4286cb73f12d#ref=rss)
-### schule
-
-* [https://www.spiegel.de/panorama/bildung/vorbereitungsklassen-werden-gefluechtete-kinder-getrennt-unterrichtet-sind-sie-schlechter-in-der-schule](https://www.spiegel.de/panorama/bildung/vorbereitungsklassen-werden-gefluechtete-kinder-getrennt-unterrichtet-sind-sie-schlechter-in-der-schule-a-0e38360d-0a89-45ba-b87b-4286cb73f12d#ref=rss)
-### fenway
-
-* [https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen](https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen-a-8b0728ee-432e-422a-8835-2e8694f697af#ref=rss)
-### sports
-
-* [https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen](https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen-a-8b0728ee-432e-422a-8835-2e8694f697af#ref=rss)
-### group
-
-* [https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen](https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen-a-8b0728ee-432e-422a-8835-2e8694f697af#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen](https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen-a-8b0728ee-432e-422a-8835-2e8694f697af#ref=rss)
-### liverpool
-
-* [https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen](https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen-a-8b0728ee-432e-422a-8835-2e8694f697af#ref=rss)
-### medienbericht
-
-* [https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen](https://www.spiegel.de/sport/fussball/fenway-sports-group-koennte-fc-liverpool-laut-medienbericht-verkaufen-a-8b0728ee-432e-422a-8835-2e8694f697af#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/hacker-stehlen-offenbar-40-terabyte-von-continental](https://www.spiegel.de/netzwelt/web/hacker-stehlen-offenbar-40-terabyte-von-continental-a-3c1d358a-7c79-48cc-b3cb-77ca82a598e7#ref=rss)
-### städten
-
-* [https://www.spiegel.de/wirtschaft/service/deutschland-so-viel-kostet-taxifahren-in-den-staedten](https://www.spiegel.de/wirtschaft/service/deutschland-so-viel-kostet-taxifahren-in-den-staedten-a-e9ff1cc7-c5e3-4b02-b097-8782bfb2e281#ref=rss)
-### zahlen
-
-* [https://www.spiegel.de/wirtschaft/service/deutschland-so-viel-kostet-taxifahren-in-den-staedten](https://www.spiegel.de/wirtschaft/service/deutschland-so-viel-kostet-taxifahren-in-den-staedten-a-e9ff1cc7-c5e3-4b02-b097-8782bfb2e281#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-als-kokainsuechtig-bezeichnet-geldstrafe](https://www.spiegel.de/politik/deutschland/jens-spahn-als-kokainsuechtig-bezeichnet-geldstrafe-a-9cfaff53-9864-4ee9-9eb9-fd78996852be#ref=rss)
+* [https://www.spiegel.de/ausland/china-droht-dem-westen-aerger-mit-kanada-australien-litauen](https://www.spiegel.de/ausland/china-droht-dem-westen-aerger-mit-kanada-australien-litauen-a-d9d23920-080d-44fb-923d-7843469e7113#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne](https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne-a-7258508e-b3a2-4eeb-9cbf-8b14e6c29c65#ref=rss)
+* [https://www.spiegel.de/start/sexuelle-belaestigung-an-der-uni-ein-drittel-der-studierenden-und-mitarbeiter-betroffen](https://www.spiegel.de/start/sexuelle-belaestigung-an-der-uni-ein-drittel-der-studierenden-und-mitarbeiter-betroffen-a-f34da596-1d2a-4e2e-afe9-a61cad93ddb1#ref=rss)
 ### twitter
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk](https://www.spiegel.de/netzwelt/netzpolitik/gigi-hadid-verabschiedet-sich-von-twitter-wegen-elon-musk-a-b66627ab-8af3-4bed-9846-d31602e93137#ref=rss)
-### jens
+* [https://www.spiegel.de/wirtschaft/unternehmen/meta-amazon-twitter-apple-die-misere-der-tech-konzerne](https://www.spiegel.de/wirtschaft/unternehmen/meta-amazon-twitter-apple-die-misere-der-tech-konzerne-a-e2123a6a-1e7e-4a01-9f28-aa31c4eab171#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/twitter-koennte-unter-musk-komplett-kostenpflichtig-werden](https://www.spiegel.de/netzwelt/apps/twitter-koennte-unter-musk-komplett-kostenpflichtig-werden-a-67329a44-f4b2-45de-944c-30b3b6a698b2#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-als-kokainsuechtig-bezeichnet-geldstrafe](https://www.spiegel.de/politik/deutschland/jens-spahn-als-kokainsuechtig-bezeichnet-geldstrafe-a-9cfaff53-9864-4ee9-9eb9-fd78996852be#ref=rss)
-### spahn
+* [https://www.spiegel.de/panorama/leute/dominikanische-republik-ex-freund-von-stephanie-von-monaco-mario-oliver-jutard-ermordet](https://www.spiegel.de/panorama/leute/dominikanische-republik-ex-freund-von-stephanie-von-monaco-mario-oliver-jutard-ermordet-a-9ba8839c-1871-425d-850a-b4eb8fe1b0d1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-russland-baut-panzersperren-bei-mariupol](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-russland-baut-panzersperren-bei-mariupol-a-96eec62a-5056-43ef-be9f-c049f3841899#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/twitter-koennte-unter-musk-komplett-kostenpflichtig-werden](https://www.spiegel.de/netzwelt/apps/twitter-koennte-unter-musk-komplett-kostenpflichtig-werden-a-67329a44-f4b2-45de-944c-30b3b6a698b2#ref=rss)
+### spiegelinformationen
 
-* [https://www.spiegel.de/politik/deutschland/jens-spahn-als-kokainsuechtig-bezeichnet-geldstrafe](https://www.spiegel.de/politik/deutschland/jens-spahn-als-kokainsuechtig-bezeichnet-geldstrafe-a-9cfaff53-9864-4ee9-9eb9-fd78996852be#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/wirtschaft/deutschland-wirtschaftsweise-sagen-milde-rezession-voraus](https://www.spiegel.de/wirtschaft/deutschland-wirtschaftsweise-sagen-milde-rezession-voraus-a-43be427f-5151-4e58-9c19-1b69d9c46394#ref=rss)
+* [https://www.spiegel.de/wirtschaft/ermittler-durchsuchen-grossbank-in-frankfurt-und-muenchen](https://www.spiegel.de/wirtschaft/ermittler-durchsuchen-grossbank-in-frankfurt-und-muenchen-a-0c96602b-cd40-4997-9e90-4e5bbb1fb889#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/renate-kuenast-feiert-sieg-ueber-die-hasser-im-netz](https://www.spiegel.de/politik/deutschland/renate-kuenast-feiert-sieg-ueber-die-hasser-im-netz-a-d0913a79-e56b-44f1-95a0-da40c9e8328e#ref=rss)
+### recht
 
-* [https://www.spiegel.de/wissenschaft/medizin/im-labor-gezuechtet-forscher-uebertragen-rote-blutkoerperchen-auf-menschen](https://www.spiegel.de/wissenschaft/medizin/im-labor-gezuechtet-forscher-uebertragen-rote-blutkoerperchen-auf-menschen-a-4fbf87fc-dcdd-45fb-9a7a-99c40c6a55c5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grossbritannien-finanzminister-hunt-will-sparen-und-steuern-erhoehen](https://www.spiegel.de/wirtschaft/soziales/grossbritannien-finanzminister-hunt-will-sparen-und-steuern-erhoehen-a-44a7a395-66fc-4012-9ca2-94863ab51aa5#ref=rss)
-### zukunft
+* [https://www.spiegel.de/auto/diesel-europaeischer-gerichtshof-gibt-der-umwelthilfe-gegen-thermofenster-recht](https://www.spiegel.de/auto/diesel-europaeischer-gerichtshof-gibt-der-umwelthilfe-gegen-thermofenster-recht-a-2a72a7ab-545d-4b7e-a8b7-6de87d649909#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne](https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne-a-7258508e-b3a2-4eeb-9cbf-8b14e6c29c65#ref=rss)
+### klimakonferenz
 
-* [https://www.spiegel.de/wissenschaft/medizin/im-labor-gezuechtet-forscher-uebertragen-rote-blutkoerperchen-auf-menschen](https://www.spiegel.de/wissenschaft/medizin/im-labor-gezuechtet-forscher-uebertragen-rote-blutkoerperchen-auf-menschen-a-4fbf87fc-dcdd-45fb-9a7a-99c40c6a55c5#ref=rss)
-* [https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst](https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst-a-442b0e12-3463-41de-b0c5-e732fa2c4106#ref=rss)
-### hessen
+* [https://www.spiegel.de/politik/deutschland/menschenrechte-bei-klimakonferenz-kaempfen-sie-fuer-das-richtige-frau-baerbock](https://www.spiegel.de/politik/deutschland/menschenrechte-bei-klimakonferenz-kaempfen-sie-fuer-das-richtige-frau-baerbock-a-31ce7091-9f3d-4594-a935-8fcad3629684#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/weltklimagipfel-cop27-jetzt-geht-s-um-die-milliarden-podcast](https://www.spiegel.de/wissenschaft/natur/weltklimagipfel-cop27-jetzt-geht-s-um-die-milliarden-podcast-a-5687cb46-c2f7-4998-9a68-4caa3608c04d#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/panorama/justiz/leichenfund-in-hessen-festnahme-nach-ermordung-von-syrer-an-bahngleisen](https://www.spiegel.de/panorama/justiz/leichenfund-in-hessen-festnahme-nach-ermordung-von-syrer-an-bahngleisen-a-f90a873a-3a15-4fc9-b0dd-9d5cc8a14691#ref=rss)
-### continental
+* [https://www.spiegel.de/politik/deutschland/menschenrechte-bei-klimakonferenz-kaempfen-sie-fuer-das-richtige-frau-baerbock](https://www.spiegel.de/politik/deutschland/menschenrechte-bei-klimakonferenz-kaempfen-sie-fuer-das-richtige-frau-baerbock-a-31ce7091-9f3d-4594-a935-8fcad3629684#ref=rss)
+* [https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner](https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner-a-1d84c24a-8772-4d79-a4af-8f9da4fc3bf1#ref=rss)
+* [https://www.spiegel.de/psychologie/falten-im-schlaf-wie-ich-versuchte-mein-gesicht-von-rinnen-und-rillen-zu-befreien](https://www.spiegel.de/psychologie/falten-im-schlaf-wie-ich-versuchte-mein-gesicht-von-rinnen-und-rillen-zu-befreien-a-b978a60d-3dce-41e7-b1ee-943616520a6e#ref=rss)
+### engagement
 
-* [https://www.spiegel.de/netzwelt/web/hacker-stehlen-offenbar-40-terabyte-von-continental](https://www.spiegel.de/netzwelt/web/hacker-stehlen-offenbar-40-terabyte-von-continental-a-3c1d358a-7c79-48cc-b3cb-77ca82a598e7#ref=rss)
-### finanzminister
+* [https://www.spiegel.de/wissenschaft/natur/weltklimagipfel-cop27-jetzt-geht-s-um-die-milliarden-podcast](https://www.spiegel.de/wissenschaft/natur/weltklimagipfel-cop27-jetzt-geht-s-um-die-milliarden-podcast-a-5687cb46-c2f7-4998-9a68-4caa3608c04d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz](https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz-a-a308b36a-de6e-4e00-84d2-581cd6d5eba2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/buerger-misstrauen-dem-umweltversprechen-vieler-unternehmen](https://www.spiegel.de/wirtschaft/buerger-misstrauen-dem-umweltversprechen-vieler-unternehmen-a-f9a090f3-3cf6-4932-ae95-a5b9ba1bdbcf#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wirtschaft/soziales/grossbritannien-finanzminister-hunt-will-sparen-und-steuern-erhoehen](https://www.spiegel.de/wirtschaft/soziales/grossbritannien-finanzminister-hunt-will-sparen-und-steuern-erhoehen-a-44a7a395-66fc-4012-9ca2-94863ab51aa5#ref=rss)
-### russische
+* [https://www.spiegel.de/start/sexuelle-belaestigung-an-der-uni-ein-drittel-der-studierenden-und-mitarbeiter-betroffen](https://www.spiegel.de/start/sexuelle-belaestigung-an-der-uni-ein-drittel-der-studierenden-und-mitarbeiter-betroffen-a-f34da596-1d2a-4e2e-afe9-a61cad93ddb1#ref=rss)
+* [https://www.spiegel.de/psychologie/falten-im-schlaf-wie-ich-versuchte-mein-gesicht-von-rinnen-und-rillen-zu-befreien](https://www.spiegel.de/psychologie/falten-im-schlaf-wie-ich-versuchte-mein-gesicht-von-rinnen-und-rillen-zu-befreien-a-b978a60d-3dce-41e7-b1ee-943616520a6e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/us-zeitschrift-people-schauspieler-chris-evans-zum-sexiest-man-alive-gekuert](https://www.spiegel.de/panorama/leute/us-zeitschrift-people-schauspieler-chris-evans-zum-sexiest-man-alive-gekuert-a-563559c4-482b-46b6-8415-59017a40f159#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/ausland/russland-usa-wladimir-putin-koch-gibt-einmischung-in-us-wahlen-zu](https://www.spiegel.de/ausland/russland-usa-wladimir-putin-koch-gibt-einmischung-in-us-wahlen-zu-a-0246c285-ac9f-4da3-82dd-4aef1faade8a#ref=rss)
-### uswahlen
+* [https://www.spiegel.de/ausland/china-droht-dem-westen-aerger-mit-kanada-australien-litauen](https://www.spiegel.de/ausland/china-droht-dem-westen-aerger-mit-kanada-australien-litauen-a-d9d23920-080d-44fb-923d-7843469e7113#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne](https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne-a-7258508e-b3a2-4eeb-9cbf-8b14e6c29c65#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/ausland/russland-usa-wladimir-putin-koch-gibt-einmischung-in-us-wahlen-zu](https://www.spiegel.de/ausland/russland-usa-wladimir-putin-koch-gibt-einmischung-in-us-wahlen-zu-a-0246c285-ac9f-4da3-82dd-4aef1faade8a#ref=rss)
-### etwas
+* [https://www.spiegel.de/ausland/china-droht-dem-westen-aerger-mit-kanada-australien-litauen](https://www.spiegel.de/ausland/china-droht-dem-westen-aerger-mit-kanada-australien-litauen-a-d9d23920-080d-44fb-923d-7843469e7113#ref=rss)
+* [https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne](https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne-a-7258508e-b3a2-4eeb-9cbf-8b14e6c29c65#ref=rss)
+### gesicht
 
-* [https://www.spiegel.de/ausland/russland-usa-wladimir-putin-koch-gibt-einmischung-in-us-wahlen-zu](https://www.spiegel.de/ausland/russland-usa-wladimir-putin-koch-gibt-einmischung-in-us-wahlen-zu-a-0246c285-ac9f-4da3-82dd-4aef1faade8a#ref=rss)
-* [https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika](https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika-a-abfc9ed4-0e2c-4d10-93ba-f24af8bf00ca#ref=rss)
-### 2023
+* [https://www.spiegel.de/ausland/china-droht-dem-westen-aerger-mit-kanada-australien-litauen](https://www.spiegel.de/ausland/china-droht-dem-westen-aerger-mit-kanada-australien-litauen-a-d9d23920-080d-44fb-923d-7843469e7113#ref=rss)
+* [https://www.spiegel.de/psychologie/falten-im-schlaf-wie-ich-versuchte-mein-gesicht-von-rinnen-und-rillen-zu-befreien](https://www.spiegel.de/psychologie/falten-im-schlaf-wie-ich-versuchte-mein-gesicht-von-rinnen-und-rillen-zu-befreien-a-b978a60d-3dce-41e7-b1ee-943616520a6e#ref=rss)
+### kosten
 
-* [https://www.spiegel.de/kultur/kino/jimmy-kimmel-kehrt-als-moderator-der-oscars-2023-zurueck](https://www.spiegel.de/kultur/kino/jimmy-kimmel-kehrt-als-moderator-der-oscars-2023-zurueck-a-961f8c39-71f5-43bc-bcd9-3c2d02cbc2be#ref=rss)
-### jimmy
+* [https://www.spiegel.de/wirtschaft/unternehmen/meta-amazon-twitter-apple-die-misere-der-tech-konzerne](https://www.spiegel.de/wirtschaft/unternehmen/meta-amazon-twitter-apple-die-misere-der-tech-konzerne-a-e2123a6a-1e7e-4a01-9f28-aa31c4eab171#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/twitter-koennte-unter-musk-komplett-kostenpflichtig-werden](https://www.spiegel.de/netzwelt/apps/twitter-koennte-unter-musk-komplett-kostenpflichtig-werden-a-67329a44-f4b2-45de-944c-30b3b6a698b2#ref=rss)
+### folge
 
-* [https://www.spiegel.de/kultur/kino/jimmy-kimmel-kehrt-als-moderator-der-oscars-2023-zurueck](https://www.spiegel.de/kultur/kino/jimmy-kimmel-kehrt-als-moderator-der-oscars-2023-zurueck-a-961f8c39-71f5-43bc-bcd9-3c2d02cbc2be#ref=rss)
-### kimmel
+* [https://www.spiegel.de/wirtschaft/unternehmen/meta-amazon-twitter-apple-die-misere-der-tech-konzerne](https://www.spiegel.de/wirtschaft/unternehmen/meta-amazon-twitter-apple-die-misere-der-tech-konzerne-a-e2123a6a-1e7e-4a01-9f28-aa31c4eab171#ref=rss)
+* [https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch](https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch-a-8dcb2ef7-d3db-4099-a9d8-def5a7082960#ref=rss)
+### republik
 
-* [https://www.spiegel.de/kultur/kino/jimmy-kimmel-kehrt-als-moderator-der-oscars-2023-zurueck](https://www.spiegel.de/kultur/kino/jimmy-kimmel-kehrt-als-moderator-der-oscars-2023-zurueck-a-961f8c39-71f5-43bc-bcd9-3c2d02cbc2be#ref=rss)
-### manal
+* [https://www.spiegel.de/panorama/leute/dominikanische-republik-ex-freund-von-stephanie-von-monaco-mario-oliver-jutard-ermordet](https://www.spiegel.de/panorama/leute/dominikanische-republik-ex-freund-von-stephanie-von-monaco-mario-oliver-jutard-ermordet-a-9ba8839c-1871-425d-850a-b4eb8fe1b0d1#ref=rss)
+### ermordet
 
-* [https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst](https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst-a-442b0e12-3463-41de-b0c5-e732fa2c4106#ref=rss)
-### bidar
+* [https://www.spiegel.de/panorama/leute/dominikanische-republik-ex-freund-von-stephanie-von-monaco-mario-oliver-jutard-ermordet](https://www.spiegel.de/panorama/leute/dominikanische-republik-ex-freund-von-stephanie-von-monaco-mario-oliver-jutard-ermordet-a-9ba8839c-1871-425d-850a-b4eb8fe1b0d1#ref=rss)
+### ende
 
-* [https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst](https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst-a-442b0e12-3463-41de-b0c5-e732fa2c4106#ref=rss)
-### greta
+* [https://www.spiegel.de/panorama/leute/dominikanische-republik-ex-freund-von-stephanie-von-monaco-mario-oliver-jutard-ermordet](https://www.spiegel.de/panorama/leute/dominikanische-republik-ex-freund-von-stephanie-von-monaco-mario-oliver-jutard-ermordet-a-9ba8839c-1871-425d-850a-b4eb8fe1b0d1#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/twitter-koennte-unter-musk-komplett-kostenpflichtig-werden](https://www.spiegel.de/netzwelt/apps/twitter-koennte-unter-musk-komplett-kostenpflichtig-werden-a-67329a44-f4b2-45de-944c-30b3b6a698b2#ref=rss)
+### polizist
 
-* [https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst](https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst-a-442b0e12-3463-41de-b0c5-e732fa2c4106#ref=rss)
-### thunberg
+* [https://www.spiegel.de/ausland/bulgarien-polizist-an-der-grenze-zur-tuerkei-erschossen](https://www.spiegel.de/ausland/bulgarien-polizist-an-der-grenze-zur-tuerkei-erschossen-a-7c98dae7-efe8-4a04-a737-a3f000096119#ref=rss)
+### grenze
 
-* [https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst](https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst-a-442b0e12-3463-41de-b0c5-e732fa2c4106#ref=rss)
-### hoffen
+* [https://www.spiegel.de/ausland/bulgarien-polizist-an-der-grenze-zur-tuerkei-erschossen](https://www.spiegel.de/ausland/bulgarien-polizist-an-der-grenze-zur-tuerkei-erschossen-a-7c98dae7-efe8-4a04-a737-a3f000096119#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst](https://www.spiegel.de/ausland/klima-aktivistin-manal-bidar-was-die-greta-thunberg-marokkos-hoffen-laesst-a-442b0e12-3463-41de-b0c5-e732fa2c4106#ref=rss)
-### cher
+* [https://www.spiegel.de/ausland/bulgarien-polizist-an-der-grenze-zur-tuerkei-erschossen](https://www.spiegel.de/ausland/bulgarien-polizist-an-der-grenze-zur-tuerkei-erschossen-a-7c98dae7-efe8-4a04-a737-a3f000096119#ref=rss)
+### erschossen
 
-* [https://www.spiegel.de/panorama/leute/cher-hat-40-jahre-juengeren-freund-und-pfeift-auf-hater-postet-wahlaufruf](https://www.spiegel.de/panorama/leute/cher-hat-40-jahre-juengeren-freund-und-pfeift-auf-hater-postet-wahlaufruf-a-abb63c96-9ecf-443b-b617-bcf1a336abdb#ref=rss)
-### jüngeren
+* [https://www.spiegel.de/ausland/bulgarien-polizist-an-der-grenze-zur-tuerkei-erschossen](https://www.spiegel.de/ausland/bulgarien-polizist-an-der-grenze-zur-tuerkei-erschossen-a-7c98dae7-efe8-4a04-a737-a3f000096119#ref=rss)
+### kündigt
 
-* [https://www.spiegel.de/panorama/leute/cher-hat-40-jahre-juengeren-freund-und-pfeift-auf-hater-postet-wahlaufruf](https://www.spiegel.de/panorama/leute/cher-hat-40-jahre-juengeren-freund-und-pfeift-auf-hater-postet-wahlaufruf-a-abb63c96-9ecf-443b-b617-bcf1a336abdb#ref=rss)
-### hater
+* [https://www.spiegel.de/ausland/bulgarien-polizist-an-der-grenze-zur-tuerkei-erschossen](https://www.spiegel.de/ausland/bulgarien-polizist-an-der-grenze-zur-tuerkei-erschossen-a-7c98dae7-efe8-4a04-a737-a3f000096119#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-kuendigt-abbau-von-1300-stellen-an](https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-kuendigt-abbau-von-1300-stellen-an-a-d69ca7da-9742-4930-9529-c813f3d8fb5c#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/panorama/leute/cher-hat-40-jahre-juengeren-freund-und-pfeift-auf-hater-postet-wahlaufruf](https://www.spiegel.de/panorama/leute/cher-hat-40-jahre-juengeren-freund-und-pfeift-auf-hater-postet-wahlaufruf-a-abb63c96-9ecf-443b-b617-bcf1a336abdb#ref=rss)
-### kohle
+* [https://www.spiegel.de/netzwelt/web/silk-road-im-darknet-us-ermittler-beschlagnahmen-3-4-milliarden-dollar-in-bitcoin](https://www.spiegel.de/netzwelt/web/silk-road-im-darknet-us-ermittler-beschlagnahmen-3-4-milliarden-dollar-in-bitcoin-a-3daef874-e9be-4bae-a9d0-4e1c03b868fb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/weltklimagipfel-cop27-jetzt-geht-s-um-die-milliarden-podcast](https://www.spiegel.de/wissenschaft/natur/weltklimagipfel-cop27-jetzt-geht-s-um-die-milliarden-podcast-a-5687cb46-c2f7-4998-9a68-4caa3608c04d#ref=rss)
+### bitcoin
 
-* [https://www.spiegel.de/wirtschaft/kohle-aus-suedafrika-massenhaft-brennstoff-fuer-deutschland](https://www.spiegel.de/wirtschaft/kohle-aus-suedafrika-massenhaft-brennstoff-fuer-deutschland-a-d8e0c081-93c9-493f-b16d-b19c463be139#ref=rss)
-### massenhaft
+* [https://www.spiegel.de/netzwelt/web/silk-road-im-darknet-us-ermittler-beschlagnahmen-3-4-milliarden-dollar-in-bitcoin](https://www.spiegel.de/netzwelt/web/silk-road-im-darknet-us-ermittler-beschlagnahmen-3-4-milliarden-dollar-in-bitcoin-a-3daef874-e9be-4bae-a9d0-4e1c03b868fb#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/wirtschaft/kohle-aus-suedafrika-massenhaft-brennstoff-fuer-deutschland](https://www.spiegel.de/wirtschaft/kohle-aus-suedafrika-massenhaft-brennstoff-fuer-deutschland-a-d8e0c081-93c9-493f-b16d-b19c463be139#ref=rss)
-### erdgas
+* [https://www.spiegel.de/wirtschaft/deutschland-wirtschaftsweise-sagen-milde-rezession-voraus](https://www.spiegel.de/wirtschaft/deutschland-wirtschaftsweise-sagen-milde-rezession-voraus-a-43be427f-5151-4e58-9c19-1b69d9c46394#ref=rss)
+* [https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner](https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner-a-1d84c24a-8772-4d79-a4af-8f9da4fc3bf1#ref=rss)
+### schneller
 
-* [https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika](https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika-a-abfc9ed4-0e2c-4d10-93ba-f24af8bf00ca#ref=rss)
-### senegal
+* [https://www.spiegel.de/wirtschaft/deutschland-wirtschaftsweise-sagen-milde-rezession-voraus](https://www.spiegel.de/wirtschaft/deutschland-wirtschaftsweise-sagen-milde-rezession-voraus-a-43be427f-5151-4e58-9c19-1b69d9c46394#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-kuendigt-abbau-von-1300-stellen-an](https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-kuendigt-abbau-von-1300-stellen-an-a-d69ca7da-9742-4930-9529-c813f3d8fb5c#ref=rss)
+### 2022
 
-* [https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika](https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika-a-abfc9ed4-0e2c-4d10-93ba-f24af8bf00ca#ref=rss)
-### afrika
+* [https://www.spiegel.de/wirtschaft/deutschland-wirtschaftsweise-sagen-milde-rezession-voraus](https://www.spiegel.de/wirtschaft/deutschland-wirtschaftsweise-sagen-milde-rezession-voraus-a-43be427f-5151-4e58-9c19-1b69d9c46394#ref=rss)
+* [https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner](https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner-a-1d84c24a-8772-4d79-a4af-8f9da4fc3bf1#ref=rss)
+### gerichtshof
 
-* [https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika](https://www.spiegel.de/ausland/erdgas-im-senegal-fossile-brennstoffe-in-afrika-a-abfc9ed4-0e2c-4d10-93ba-f24af8bf00ca#ref=rss)
+* [https://www.spiegel.de/auto/diesel-europaeischer-gerichtshof-gibt-der-umwelthilfe-gegen-thermofenster-recht](https://www.spiegel.de/auto/diesel-europaeischer-gerichtshof-gibt-der-umwelthilfe-gegen-thermofenster-recht-a-2a72a7ab-545d-4b7e-a8b7-6de87d649909#ref=rss)
+### umwelthilfe
+
+* [https://www.spiegel.de/auto/diesel-europaeischer-gerichtshof-gibt-der-umwelthilfe-gegen-thermofenster-recht](https://www.spiegel.de/auto/diesel-europaeischer-gerichtshof-gibt-der-umwelthilfe-gegen-thermofenster-recht-a-2a72a7ab-545d-4b7e-a8b7-6de87d649909#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/auto/diesel-europaeischer-gerichtshof-gibt-der-umwelthilfe-gegen-thermofenster-recht](https://www.spiegel.de/auto/diesel-europaeischer-gerichtshof-gibt-der-umwelthilfe-gegen-thermofenster-recht-a-2a72a7ab-545d-4b7e-a8b7-6de87d649909#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/reise/souvenirs-warum-zur-hoelle-horten-menschen-wie-ich-urlaubs-mitbringsel](https://www.spiegel.de/reise/souvenirs-warum-zur-hoelle-horten-menschen-wie-ich-urlaubs-mitbringsel-a-886df995-f6ed-4878-9cbd-e00fe8dc3ff5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner](https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner-a-1d84c24a-8772-4d79-a4af-8f9da4fc3bf1#ref=rss)
+### oft
+
+* [https://www.spiegel.de/reise/souvenirs-warum-zur-hoelle-horten-menschen-wie-ich-urlaubs-mitbringsel](https://www.spiegel.de/reise/souvenirs-warum-zur-hoelle-horten-menschen-wie-ich-urlaubs-mitbringsel-a-886df995-f6ed-4878-9cbd-e00fe8dc3ff5#ref=rss)
+* [https://www.spiegel.de/panorama/artenschutz-konferenz-zu-600-wildarten-in-panama](https://www.spiegel.de/panorama/artenschutz-konferenz-zu-600-wildarten-in-panama-a-48410f73-8231-4725-bb34-e1181674c4c4#ref=rss)
+### handel
+
+* [https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne](https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne-a-7258508e-b3a2-4eeb-9cbf-8b14e6c29c65#ref=rss)
+* [https://www.spiegel.de/panorama/artenschutz-konferenz-zu-600-wildarten-in-panama](https://www.spiegel.de/panorama/artenschutz-konferenz-zu-600-wildarten-in-panama-a-48410f73-8231-4725-bb34-e1181674c4c4#ref=rss)
+### wo
+
+* [https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne](https://www.spiegel.de/wirtschaft/handel-mit-china-wo-olaf-scholz-recht-hat-und-joe-biden-irrt-kolumne-a-7258508e-b3a2-4eeb-9cbf-8b14e6c29c65#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz](https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz-a-a308b36a-de6e-4e00-84d2-581cd6d5eba2#ref=rss)
+### usmanow
+
+* [https://www.spiegel.de/wirtschaft/ermittler-durchsuchen-grossbank-in-frankfurt-und-muenchen](https://www.spiegel.de/wirtschaft/ermittler-durchsuchen-grossbank-in-frankfurt-und-muenchen-a-0c96602b-cd40-4997-9e90-4e5bbb1fb889#ref=rss)
+### durchsuchen
+
+* [https://www.spiegel.de/wirtschaft/ermittler-durchsuchen-grossbank-in-frankfurt-und-muenchen](https://www.spiegel.de/wirtschaft/ermittler-durchsuchen-grossbank-in-frankfurt-und-muenchen-a-0c96602b-cd40-4997-9e90-4e5bbb1fb889#ref=rss)
+### fall
+
+* [https://www.spiegel.de/wirtschaft/ermittler-durchsuchen-grossbank-in-frankfurt-und-muenchen](https://www.spiegel.de/wirtschaft/ermittler-durchsuchen-grossbank-in-frankfurt-und-muenchen-a-0c96602b-cd40-4997-9e90-4e5bbb1fb889#ref=rss)
+* [https://www.spiegel.de/ausland/china-handelsmesse-streicht-eroeffnungsvideo-von-charles-michel](https://www.spiegel.de/ausland/china-handelsmesse-streicht-eroeffnungsvideo-von-charles-michel-a-9735df98-ad6a-4648-b07b-ba79e7d856ab#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-russland-baut-panzersperren-bei-mariupol](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-russland-baut-panzersperren-bei-mariupol-a-96eec62a-5056-43ef-be9f-c049f3841899#ref=rss)
+* [https://www.spiegel.de/ausland/china-handelsmesse-streicht-eroeffnungsvideo-von-charles-michel](https://www.spiegel.de/ausland/china-handelsmesse-streicht-eroeffnungsvideo-von-charles-michel-a-9735df98-ad6a-4648-b07b-ba79e7d856ab#ref=rss)
+### mehreren
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-russland-baut-panzersperren-bei-mariupol](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-russland-baut-panzersperren-bei-mariupol-a-96eec62a-5056-43ef-be9f-c049f3841899#ref=rss)
+* [https://www.spiegel.de/start/sexuelle-belaestigung-an-der-uni-ein-drittel-der-studierenden-und-mitarbeiter-betroffen](https://www.spiegel.de/start/sexuelle-belaestigung-an-der-uni-ein-drittel-der-studierenden-und-mitarbeiter-betroffen-a-f34da596-1d2a-4e2e-afe9-a61cad93ddb1#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/politik/deutschland/menschenrechte-bei-klimakonferenz-kaempfen-sie-fuer-das-richtige-frau-baerbock](https://www.spiegel.de/politik/deutschland/menschenrechte-bei-klimakonferenz-kaempfen-sie-fuer-das-richtige-frau-baerbock-a-31ce7091-9f3d-4594-a935-8fcad3629684#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz](https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz-a-a308b36a-de6e-4e00-84d2-581cd6d5eba2#ref=rss)
+### social
+
+* [https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner](https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner-a-1d84c24a-8772-4d79-a4af-8f9da4fc3bf1#ref=rss)
+### design
+
+* [https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner](https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner-a-1d84c24a-8772-4d79-a4af-8f9da4fc3bf1#ref=rss)
+### gruppe
+
+* [https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner](https://www.spiegel.de/wissenschaft/social-design-award-2022-das-sind-die-gewinner-a-1d84c24a-8772-4d79-a4af-8f9da4fc3bf1#ref=rss)
+* [https://www.spiegel.de/start/sexuelle-belaestigung-an-der-uni-ein-drittel-der-studierenden-und-mitarbeiter-betroffen](https://www.spiegel.de/start/sexuelle-belaestigung-an-der-uni-ein-drittel-der-studierenden-und-mitarbeiter-betroffen-a-f34da596-1d2a-4e2e-afe9-a61cad93ddb1#ref=rss)
+### ägypten
+
+* [https://www.spiegel.de/wissenschaft/natur/weltklimagipfel-cop27-jetzt-geht-s-um-die-milliarden-podcast](https://www.spiegel.de/wissenschaft/natur/weltklimagipfel-cop27-jetzt-geht-s-um-die-milliarden-podcast-a-5687cb46-c2f7-4998-9a68-4caa3608c04d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz](https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz-a-a308b36a-de6e-4e00-84d2-581cd6d5eba2#ref=rss)
+### renate
+
+* [https://www.spiegel.de/politik/deutschland/renate-kuenast-feiert-sieg-ueber-die-hasser-im-netz](https://www.spiegel.de/politik/deutschland/renate-kuenast-feiert-sieg-ueber-die-hasser-im-netz-a-d0913a79-e56b-44f1-95a0-da40c9e8328e#ref=rss)
+### künast
+
+* [https://www.spiegel.de/politik/deutschland/renate-kuenast-feiert-sieg-ueber-die-hasser-im-netz](https://www.spiegel.de/politik/deutschland/renate-kuenast-feiert-sieg-ueber-die-hasser-im-netz-a-d0913a79-e56b-44f1-95a0-da40c9e8328e#ref=rss)
+### netz
+
+* [https://www.spiegel.de/politik/deutschland/renate-kuenast-feiert-sieg-ueber-die-hasser-im-netz](https://www.spiegel.de/politik/deutschland/renate-kuenast-feiert-sieg-ueber-die-hasser-im-netz-a-d0913a79-e56b-44f1-95a0-da40c9e8328e#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/politik/deutschland/renate-kuenast-feiert-sieg-ueber-die-hasser-im-netz](https://www.spiegel.de/politik/deutschland/renate-kuenast-feiert-sieg-ueber-die-hasser-im-netz-a-d0913a79-e56b-44f1-95a0-da40c9e8328e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/fluechtlingsheime-erstmals-seit-jahren-wieder-mehr-angriffe-auf-unterkuenfte](https://www.spiegel.de/politik/deutschland/fluechtlingsheime-erstmals-seit-jahren-wieder-mehr-angriffe-auf-unterkuenfte-a-0c812320-9683-4122-97ce-f702ee2b183b#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/politik/deutschland/renate-kuenast-feiert-sieg-ueber-die-hasser-im-netz](https://www.spiegel.de/politik/deutschland/renate-kuenast-feiert-sieg-ueber-die-hasser-im-netz-a-d0913a79-e56b-44f1-95a0-da40c9e8328e#ref=rss)
+* [https://www.spiegel.de/sport/tennis/wta-finals-caroline-garcia-gewinnt-endspiel-gegen-aryna-sabalenka](https://www.spiegel.de/sport/tennis/wta-finals-caroline-garcia-gewinnt-endspiel-gegen-aryna-sabalenka-a-8e518f57-788e-4ec6-8329-38006c6b96ac#ref=rss)
+### carlo
+
+* [https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch](https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch-a-8dcb2ef7-d3db-4099-a9d8-def5a7082960#ref=rss)
+### ancelotti
+
+* [https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch](https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch-a-8dcb2ef7-d3db-4099-a9d8-def5a7082960#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch](https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch-a-8dcb2ef7-d3db-4099-a9d8-def5a7082960#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch](https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch-a-8dcb2ef7-d3db-4099-a9d8-def5a7082960#ref=rss)
+### wir
+
+* [https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch](https://www.spiegel.de/sport/fussball/carlo-ancelotti-nach-pleite-von-real-madrid-wir-sind-nicht-mehr-so-frisch-a-8dcb2ef7-d3db-4099-a9d8-def5a7082960#ref=rss)
+* [https://www.spiegel.de/geschichte/energiekrise-rohstoffhaendler-marc-rich-es-herrschte-ein-mangel-an-oel-und-wir-hatten-oel](https://www.spiegel.de/geschichte/energiekrise-rohstoffhaendler-marc-rich-es-herrschte-ein-mangel-an-oel-und-wir-hatten-oel-a-80728767-d744-4713-aaf7-4627cba6e594#ref=rss)
+### klimaschutz
+
+* [https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz](https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz-a-a308b36a-de6e-4e00-84d2-581cd6d5eba2#ref=rss)
+### staaten
+
+* [https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz](https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz-a-a308b36a-de6e-4e00-84d2-581cd6d5eba2#ref=rss)
+* [https://www.spiegel.de/panorama/artenschutz-konferenz-zu-600-wildarten-in-panama](https://www.spiegel.de/panorama/artenschutz-konferenz-zu-600-wildarten-in-panama-a-48410f73-8231-4725-bb34-e1181674c4c4#ref=rss)
+### besonders
+
+* [https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz](https://www.spiegel.de/politik/deutschland/verschleppter-klimaschutz-deutschlands-fuenf-grosse-baustellen-beim-klimaschutz-a-a308b36a-de6e-4e00-84d2-581cd6d5eba2#ref=rss)
+* [https://www.spiegel.de/start/sexuelle-belaestigung-an-der-uni-ein-drittel-der-studierenden-und-mitarbeiter-betroffen](https://www.spiegel.de/start/sexuelle-belaestigung-an-der-uni-ein-drittel-der-studierenden-und-mitarbeiter-betroffen-a-f34da596-1d2a-4e2e-afe9-a61cad93ddb1#ref=rss)
+### flüchtlingsheime
+
+* [https://www.spiegel.de/politik/deutschland/fluechtlingsheime-erstmals-seit-jahren-wieder-mehr-angriffe-auf-unterkuenfte](https://www.spiegel.de/politik/deutschland/fluechtlingsheime-erstmals-seit-jahren-wieder-mehr-angriffe-auf-unterkuenfte-a-0c812320-9683-4122-97ce-f702ee2b183b#ref=rss)
+### angriffe
+
+* [https://www.spiegel.de/politik/deutschland/fluechtlingsheime-erstmals-seit-jahren-wieder-mehr-angriffe-auf-unterkuenfte](https://www.spiegel.de/politik/deutschland/fluechtlingsheime-erstmals-seit-jahren-wieder-mehr-angriffe-auf-unterkuenfte-a-0c812320-9683-4122-97ce-f702ee2b183b#ref=rss)
+### unterkünfte
+
+* [https://www.spiegel.de/politik/deutschland/fluechtlingsheime-erstmals-seit-jahren-wieder-mehr-angriffe-auf-unterkuenfte](https://www.spiegel.de/politik/deutschland/fluechtlingsheime-erstmals-seit-jahren-wieder-mehr-angriffe-auf-unterkuenfte-a-0c812320-9683-4122-97ce-f702ee2b183b#ref=rss)
+### elon
+
+* [https://www.spiegel.de/netzwelt/apps/twitter-koennte-unter-musk-komplett-kostenpflichtig-werden](https://www.spiegel.de/netzwelt/apps/twitter-koennte-unter-musk-komplett-kostenpflichtig-werden-a-67329a44-f4b2-45de-944c-30b3b6a698b2#ref=rss)
+### musk
+
+* [https://www.spiegel.de/netzwelt/apps/twitter-koennte-unter-musk-komplett-kostenpflichtig-werden](https://www.spiegel.de/netzwelt/apps/twitter-koennte-unter-musk-komplett-kostenpflichtig-werden-a-67329a44-f4b2-45de-944c-30b3b6a698b2#ref=rss)
+### schaeffler
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-kuendigt-abbau-von-1300-stellen-an](https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-kuendigt-abbau-von-1300-stellen-an-a-d69ca7da-9742-4930-9529-c813f3d8fb5c#ref=rss)
+### energiekrise
+
+* [https://www.spiegel.de/geschichte/energiekrise-rohstoffhaendler-marc-rich-es-herrschte-ein-mangel-an-oel-und-wir-hatten-oel](https://www.spiegel.de/geschichte/energiekrise-rohstoffhaendler-marc-rich-es-herrschte-ein-mangel-an-oel-und-wir-hatten-oel-a-80728767-d744-4713-aaf7-4627cba6e594#ref=rss)
+### marc
+
+* [https://www.spiegel.de/geschichte/energiekrise-rohstoffhaendler-marc-rich-es-herrschte-ein-mangel-an-oel-und-wir-hatten-oel](https://www.spiegel.de/geschichte/energiekrise-rohstoffhaendler-marc-rich-es-herrschte-ein-mangel-an-oel-und-wir-hatten-oel-a-80728767-d744-4713-aaf7-4627cba6e594#ref=rss)
+### rich
+
+* [https://www.spiegel.de/geschichte/energiekrise-rohstoffhaendler-marc-rich-es-herrschte-ein-mangel-an-oel-und-wir-hatten-oel](https://www.spiegel.de/geschichte/energiekrise-rohstoffhaendler-marc-rich-es-herrschte-ein-mangel-an-oel-und-wir-hatten-oel-a-80728767-d744-4713-aaf7-4627cba6e594#ref=rss)
+### öl
+
+* [https://www.spiegel.de/geschichte/energiekrise-rohstoffhaendler-marc-rich-es-herrschte-ein-mangel-an-oel-und-wir-hatten-oel](https://www.spiegel.de/geschichte/energiekrise-rohstoffhaendler-marc-rich-es-herrschte-ein-mangel-an-oel-und-wir-hatten-oel-a-80728767-d744-4713-aaf7-4627cba6e594#ref=rss)
+### paul
+
+* [https://www.spiegel.de/politik/deutschland/paul-ziemiak-wird-cdu-generalsekretaer-in-nordrhein-westfalen](https://www.spiegel.de/politik/deutschland/paul-ziemiak-wird-cdu-generalsekretaer-in-nordrhein-westfalen-a-01e516ec-487e-49f5-b592-bc03047020ad#ref=rss)
+### ziemiak
+
+* [https://www.spiegel.de/politik/deutschland/paul-ziemiak-wird-cdu-generalsekretaer-in-nordrhein-westfalen](https://www.spiegel.de/politik/deutschland/paul-ziemiak-wird-cdu-generalsekretaer-in-nordrhein-westfalen-a-01e516ec-487e-49f5-b592-bc03047020ad#ref=rss)
+### nordrheinwestfalen
+
+* [https://www.spiegel.de/politik/deutschland/paul-ziemiak-wird-cdu-generalsekretaer-in-nordrhein-westfalen](https://www.spiegel.de/politik/deutschland/paul-ziemiak-wird-cdu-generalsekretaer-in-nordrhein-westfalen-a-01e516ec-487e-49f5-b592-bc03047020ad#ref=rss)
+### caroline
+
+* [https://www.spiegel.de/sport/tennis/wta-finals-caroline-garcia-gewinnt-endspiel-gegen-aryna-sabalenka](https://www.spiegel.de/sport/tennis/wta-finals-caroline-garcia-gewinnt-endspiel-gegen-aryna-sabalenka-a-8e518f57-788e-4ec6-8329-38006c6b96ac#ref=rss)
+### garcia
+
+* [https://www.spiegel.de/sport/tennis/wta-finals-caroline-garcia-gewinnt-endspiel-gegen-aryna-sabalenka](https://www.spiegel.de/sport/tennis/wta-finals-caroline-garcia-gewinnt-endspiel-gegen-aryna-sabalenka-a-8e518f57-788e-4ec6-8329-38006c6b96ac#ref=rss)
+### handelsmesse
+
+* [https://www.spiegel.de/ausland/china-handelsmesse-streicht-eroeffnungsvideo-von-charles-michel](https://www.spiegel.de/ausland/china-handelsmesse-streicht-eroeffnungsvideo-von-charles-michel-a-9735df98-ad6a-4648-b07b-ba79e7d856ab#ref=rss)
+### charles
+
+* [https://www.spiegel.de/ausland/china-handelsmesse-streicht-eroeffnungsvideo-von-charles-michel](https://www.spiegel.de/ausland/china-handelsmesse-streicht-eroeffnungsvideo-von-charles-michel-a-9735df98-ad6a-4648-b07b-ba79e7d856ab#ref=rss)
+### michel
+
+* [https://www.spiegel.de/ausland/china-handelsmesse-streicht-eroeffnungsvideo-von-charles-michel](https://www.spiegel.de/ausland/china-handelsmesse-streicht-eroeffnungsvideo-von-charles-michel-a-9735df98-ad6a-4648-b07b-ba79e7d856ab#ref=rss)
+### chris
+
+* [https://www.spiegel.de/panorama/leute/us-zeitschrift-people-schauspieler-chris-evans-zum-sexiest-man-alive-gekuert](https://www.spiegel.de/panorama/leute/us-zeitschrift-people-schauspieler-chris-evans-zum-sexiest-man-alive-gekuert-a-563559c4-482b-46b6-8415-59017a40f159#ref=rss)
+### evans
+
+* [https://www.spiegel.de/panorama/leute/us-zeitschrift-people-schauspieler-chris-evans-zum-sexiest-man-alive-gekuert](https://www.spiegel.de/panorama/leute/us-zeitschrift-people-schauspieler-chris-evans-zum-sexiest-man-alive-gekuert-a-563559c4-482b-46b6-8415-59017a40f159#ref=rss)
+### sexiest
+
+* [https://www.spiegel.de/panorama/leute/us-zeitschrift-people-schauspieler-chris-evans-zum-sexiest-man-alive-gekuert](https://www.spiegel.de/panorama/leute/us-zeitschrift-people-schauspieler-chris-evans-zum-sexiest-man-alive-gekuert-a-563559c4-482b-46b6-8415-59017a40f159#ref=rss)
+### alive
+
+* [https://www.spiegel.de/panorama/leute/us-zeitschrift-people-schauspieler-chris-evans-zum-sexiest-man-alive-gekuert](https://www.spiegel.de/panorama/leute/us-zeitschrift-people-schauspieler-chris-evans-zum-sexiest-man-alive-gekuert-a-563559c4-482b-46b6-8415-59017a40f159#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/wirtschaft/buerger-misstrauen-dem-umweltversprechen-vieler-unternehmen](https://www.spiegel.de/wirtschaft/buerger-misstrauen-dem-umweltversprechen-vieler-unternehmen-a-f9a090f3-3cf6-4932-ae95-a5b9ba1bdbcf#ref=rss)
 
