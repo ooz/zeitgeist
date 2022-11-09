@@ -4,299 +4,348 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
+### desantis
 
-* [https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht](https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht-a-28b30599-e70f-45de-ab49-bb125f5f2cc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fussballweltmeisterschaft-spd-bundestagsfraktion-kritisiert-homophobe-aeusserungen-aus-katar](https://www.spiegel.de/politik/deutschland/fussballweltmeisterschaft-spd-bundestagsfraktion-kritisiert-homophobe-aeusserungen-aus-katar-a-6586ffca-d549-40f4-b396-f6dcd4bd66eb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/tansania-ratten-sollen-menschen-nach-katastrophen-aufspueren](https://www.spiegel.de/wissenschaft/natur/tansania-ratten-sollen-menschen-nach-katastrophen-aufspueren-a-59373ff1-efba-497c-b018-013aa9e0e080#ref=rss)
-### klimaaktivisten
+* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
+* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-spruehen-kleben-blockieren-die-action-days-der-klimaaktivisten](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-spruehen-kleben-blockieren-die-action-days-der-klimaaktivisten-a-c9a4273f-d950-4696-8130-89db70846460#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/antrag-der-cdu-csu-fraktion-union-will-nun-doch-auf-praeventivhaft-fuer-klimaaktivisten-verzichten](https://www.spiegel.de/politik/deutschland/antrag-der-cdu-csu-fraktion-union-will-nun-doch-auf-praeventivhaft-fuer-klimaaktivisten-verzichten-a-27edde9a-4d35-4802-9815-18a816f264f1#ref=rss)
-### frühere
+* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma](https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma-a-a5309194-5953-421a-a64f-ea6560b1efb4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer](https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer-a-0f04fa98-a1b6-4a57-9e0c-e5302c345ef7#ref=rss)
+### ron
 
-* [https://www.spiegel.de/panorama/justiz/kz-stutthof-prozess-gegen-fruehere-sekretaerin-so-lief-der-ortstermin](https://www.spiegel.de/panorama/justiz/kz-stutthof-prozess-gegen-fruehere-sekretaerin-so-lief-der-ortstermin-a-be7a4cce-b986-418e-b91a-3bd91f426f01#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/benedikt-xvi-klage-eines-missbrauchsopfer-emeritierter-papst-will-sich-verteidigen](https://www.spiegel.de/panorama/justiz/benedikt-xvi-klage-eines-missbrauchsopfer-emeritierter-papst-will-sich-verteidigen-a-d7953ccc-e046-4304-a1ca-be8a93915410#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
+* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht](https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht-a-28b30599-e70f-45de-ab49-bb125f5f2cc3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-tesla-ruft-40-000-fahrzeuge-wegen-problemen-mit-der-servolenkung-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/usa-tesla-ruft-40-000-fahrzeuge-wegen-problemen-mit-der-servolenkung-zurueck-a-0516e38a-3f3f-4b3a-b052-a5a5435f87c9#ref=rss)
-* [https://www.spiegel.de/ausland/japan-und-grossbritannien-planen-militaerabkommen-allianz-der-absteiger](https://www.spiegel.de/ausland/japan-und-grossbritannien-planen-militaerabkommen-allianz-der-absteiger-a-83ccad09-9cc9-42c1-a7f4-1357635d9b88#ref=rss)
-### kanzler
+* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
+* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
+### land
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimarettung-wladimir-putin-silicon-valley](https://www.spiegel.de/politik/deutschland/news-des-tages-klimarettung-wladimir-putin-silicon-valley-a-e76381f0-def0-49e3-8361-9d1153c30672#ref=rss)
-* [https://www.spiegel.de/ausland/olaf-scholz-und-china-mit-diesem-menschenrechtsanwalt-hat-sich-der-bundeskanzler-ausgetauscht](https://www.spiegel.de/ausland/olaf-scholz-und-china-mit-diesem-menschenrechtsanwalt-hat-sich-der-bundeskanzler-ausgetauscht-a-79da06fd-6582-4259-9a07-c0c01a8c6a2d#ref=rss)
-* [https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah](https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah-a-84d8655a-c7a2-4c64-b867-a6adacd67dd9#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/panorama/justiz/daenemark-kind-nach-toedlichem-messerangriff-auf-schwangere-gestorben](https://www.spiegel.de/panorama/justiz/daenemark-kind-nach-toedlichem-messerangriff-auf-schwangere-gestorben-a-43b16e6f-cac7-4a44-b37b-c0b34c7cf29b#ref=rss)
-* [https://www.spiegel.de/kultur/kino/britischer-schauspieler-leslie-phillips-ist-tot](https://www.spiegel.de/kultur/kino/britischer-schauspieler-leslie-phillips-ist-tot-a-7044a9f4-bfb8-47b0-ba67-5295b6e30ebf#ref=rss)
-### konnte
-
-* [https://www.spiegel.de/panorama/justiz/daenemark-kind-nach-toedlichem-messerangriff-auf-schwangere-gestorben](https://www.spiegel.de/panorama/justiz/daenemark-kind-nach-toedlichem-messerangriff-auf-schwangere-gestorben-a-43b16e6f-cac7-4a44-b37b-c0b34c7cf29b#ref=rss)
-* [https://www.spiegel.de/ausland/olaf-scholz-und-china-mit-diesem-menschenrechtsanwalt-hat-sich-der-bundeskanzler-ausgetauscht](https://www.spiegel.de/ausland/olaf-scholz-und-china-mit-diesem-menschenrechtsanwalt-hat-sich-der-bundeskanzler-ausgetauscht-a-79da06fd-6582-4259-9a07-c0c01a8c6a2d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/muenchen-student-sitzt-mit-waffe-in-uni-vorlesung](https://www.spiegel.de/panorama/justiz/muenchen-student-sitzt-mit-waffe-in-uni-vorlesung-a-9d6a98c7-28ac-47dd-b918-0c44a9463bb6#ref=rss)
-### generation
-
-* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-spruehen-kleben-blockieren-die-action-days-der-klimaaktivisten](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-spruehen-kleben-blockieren-die-action-days-der-klimaaktivisten-a-c9a4273f-d950-4696-8130-89db70846460#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik](https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik-a-e16eb9a6-e748-4b0f-8ce1-941c5d492249#ref=rss)
-### katar
-
-* [https://www.spiegel.de/politik/deutschland/fussballweltmeisterschaft-spd-bundestagsfraktion-kritisiert-homophobe-aeusserungen-aus-katar](https://www.spiegel.de/politik/deutschland/fussballweltmeisterschaft-spd-bundestagsfraktion-kritisiert-homophobe-aeusserungen-aus-katar-a-6586ffca-d549-40f4-b396-f6dcd4bd66eb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-human-rights-watch-warnt-homosexuelle-vor-wm-reise](https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-human-rights-watch-warnt-homosexuelle-vor-wm-reise-a-3583f448-5e8a-4d44-9767-6b29ed17d7b6#ref=rss)
-### ägypten
-
-* [https://www.spiegel.de/wissenschaft/klimakonferenz-in-aegypten-so-verlief-tag-drei](https://www.spiegel.de/wissenschaft/klimakonferenz-in-aegypten-so-verlief-tag-drei-a-ee8c4114-93e7-4a3c-a4ff-c2e8e3d4fec0#ref=rss)
-* [https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah](https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah-a-84d8655a-c7a2-4c64-b867-a6adacd67dd9#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/ausland/olaf-scholz-und-china-mit-diesem-menschenrechtsanwalt-hat-sich-der-bundeskanzler-ausgetauscht](https://www.spiegel.de/ausland/olaf-scholz-und-china-mit-diesem-menschenrechtsanwalt-hat-sich-der-bundeskanzler-ausgetauscht-a-79da06fd-6582-4259-9a07-c0c01a8c6a2d#ref=rss)
-* [https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah](https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah-a-84d8655a-c7a2-4c64-b867-a6adacd67dd9#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/ausland/olaf-scholz-und-china-mit-diesem-menschenrechtsanwalt-hat-sich-der-bundeskanzler-ausgetauscht](https://www.spiegel.de/ausland/olaf-scholz-und-china-mit-diesem-menschenrechtsanwalt-hat-sich-der-bundeskanzler-ausgetauscht-a-79da06fd-6582-4259-9a07-c0c01a8c6a2d#ref=rss)
-* [https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah](https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah-a-84d8655a-c7a2-4c64-b867-a6adacd67dd9#ref=rss)
-### robert
-
-* [https://www.spiegel.de/kultur/kino/britischer-schauspieler-leslie-phillips-ist-tot](https://www.spiegel.de/kultur/kino/britischer-schauspieler-leslie-phillips-ist-tot-a-7044a9f4-bfb8-47b0-ba67-5295b6e30ebf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elmos-warum-robert-habeck-die-uebernahme-einer-chip-fabrik-verhindern-will](https://www.spiegel.de/wirtschaft/unternehmen/elmos-warum-robert-habeck-die-uebernahme-einer-chip-fabrik-verhindern-will-a-2607d946-9da8-44f0-ba75-11f5766f85bf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik](https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik-a-e16eb9a6-e748-4b0f-8ce1-941c5d492249#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/elmos-warum-robert-habeck-die-uebernahme-einer-chip-fabrik-verhindern-will](https://www.spiegel.de/wirtschaft/unternehmen/elmos-warum-robert-habeck-die-uebernahme-einer-chip-fabrik-verhindern-will-a-2607d946-9da8-44f0-ba75-11f5766f85bf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik](https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik-a-e16eb9a6-e748-4b0f-8ce1-941c5d492249#ref=rss)
-### ilkay
-
-* [https://www.spiegel.de/panorama/leute/ilkay-guendogan-fussball-nationalspieler-wird-erstmals-vater](https://www.spiegel.de/panorama/leute/ilkay-guendogan-fussball-nationalspieler-wird-erstmals-vater-a-f3587edd-63bf-45a6-907c-a165ef64113a#ref=rss)
-### gündoğan
-
-* [https://www.spiegel.de/panorama/leute/ilkay-guendogan-fussball-nationalspieler-wird-erstmals-vater](https://www.spiegel.de/panorama/leute/ilkay-guendogan-fussball-nationalspieler-wird-erstmals-vater-a-f3587edd-63bf-45a6-907c-a165ef64113a#ref=rss)
-### fußballnationalspieler
-
-* [https://www.spiegel.de/panorama/leute/ilkay-guendogan-fussball-nationalspieler-wird-erstmals-vater](https://www.spiegel.de/panorama/leute/ilkay-guendogan-fussball-nationalspieler-wird-erstmals-vater-a-f3587edd-63bf-45a6-907c-a165ef64113a#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/leute/ilkay-guendogan-fussball-nationalspieler-wird-erstmals-vater](https://www.spiegel.de/panorama/leute/ilkay-guendogan-fussball-nationalspieler-wird-erstmals-vater-a-f3587edd-63bf-45a6-907c-a165ef64113a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/daenemark-kind-nach-toedlichem-messerangriff-auf-schwangere-gestorben](https://www.spiegel.de/panorama/justiz/daenemark-kind-nach-toedlichem-messerangriff-auf-schwangere-gestorben-a-43b16e6f-cac7-4a44-b37b-c0b34c7cf29b#ref=rss)
-### kryptobörse
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-binance-will-konkurrenten-ftx-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-binance-will-konkurrenten-ftx-uebernehmen-a-5ba9d44a-b0ae-4eda-ac64-9c14dfa618b3#ref=rss)
-### binance
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-binance-will-konkurrenten-ftx-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-binance-will-konkurrenten-ftx-uebernehmen-a-5ba9d44a-b0ae-4eda-ac64-9c14dfa618b3#ref=rss)
-### ftx
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-binance-will-konkurrenten-ftx-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-binance-will-konkurrenten-ftx-uebernehmen-a-5ba9d44a-b0ae-4eda-ac64-9c14dfa618b3#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-binance-will-konkurrenten-ftx-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-binance-will-konkurrenten-ftx-uebernehmen-a-5ba9d44a-b0ae-4eda-ac64-9c14dfa618b3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimakonferenz-in-aegypten-so-verlief-tag-drei](https://www.spiegel.de/wissenschaft/klimakonferenz-in-aegypten-so-verlief-tag-drei-a-ee8c4114-93e7-4a3c-a4ff-c2e8e3d4fec0#ref=rss)
-### übernahme
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-binance-will-konkurrenten-ftx-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-binance-will-konkurrenten-ftx-uebernehmen-a-5ba9d44a-b0ae-4eda-ac64-9c14dfa618b3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elmos-warum-robert-habeck-die-uebernahme-einer-chip-fabrik-verhindern-will](https://www.spiegel.de/wirtschaft/unternehmen/elmos-warum-robert-habeck-die-uebernahme-einer-chip-fabrik-verhindern-will-a-2607d946-9da8-44f0-ba75-11f5766f85bf#ref=rss)
-### kz
-
-* [https://www.spiegel.de/panorama/justiz/kz-stutthof-prozess-gegen-fruehere-sekretaerin-so-lief-der-ortstermin](https://www.spiegel.de/panorama/justiz/kz-stutthof-prozess-gegen-fruehere-sekretaerin-so-lief-der-ortstermin-a-be7a4cce-b986-418e-b91a-3bd91f426f01#ref=rss)
-### stutthof
-
-* [https://www.spiegel.de/panorama/justiz/kz-stutthof-prozess-gegen-fruehere-sekretaerin-so-lief-der-ortstermin](https://www.spiegel.de/panorama/justiz/kz-stutthof-prozess-gegen-fruehere-sekretaerin-so-lief-der-ortstermin-a-be7a4cce-b986-418e-b91a-3bd91f426f01#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/panorama/justiz/kz-stutthof-prozess-gegen-fruehere-sekretaerin-so-lief-der-ortstermin](https://www.spiegel.de/panorama/justiz/kz-stutthof-prozess-gegen-fruehere-sekretaerin-so-lief-der-ortstermin-a-be7a4cce-b986-418e-b91a-3bd91f426f01#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/panorama/justiz/kz-stutthof-prozess-gegen-fruehere-sekretaerin-so-lief-der-ortstermin](https://www.spiegel.de/panorama/justiz/kz-stutthof-prozess-gegen-fruehere-sekretaerin-so-lief-der-ortstermin-a-be7a4cce-b986-418e-b91a-3bd91f426f01#ref=rss)
-* [https://www.spiegel.de/wissenschaft/betrug-mit-co2-rechten-das-ist-betrug-am-klimaschutz-und-am-verbraucher](https://www.spiegel.de/wissenschaft/betrug-mit-co2-rechten-das-ist-betrug-am-klimaschutz-und-am-verbraucher-a-563f8344-62ff-4d9f-8e00-eaf869f5b0a0#ref=rss)
+* [https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel](https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel-a-3ca0b74e-ccfc-42e4-b2a1-fa4bd9ef7878#ref=rss)
+* [https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land](https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land-a-dec0f4cc-30a6-45e4-9e08-018cc67786e2#ref=rss)
 ### midterms
 
-* [https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht](https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht-a-28b30599-e70f-45de-ab49-bb125f5f2cc3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania](https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania-a-a78526c4-4560-497a-9b92-f0b9d14db5f7#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
+* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
+### verhindern
+
+* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma](https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma-a-a5309194-5953-421a-a64f-ea6560b1efb4#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht](https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht-a-28b30599-e70f-45de-ab49-bb125f5f2cc3#ref=rss)
-### gilt
+* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
+* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
+### china
 
-* [https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht](https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht-a-28b30599-e70f-45de-ab49-bb125f5f2cc3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/proteste-in-iran-ampelfraktionen-nehmen-islamisches-zentrum-hamburg-ins-visier](https://www.spiegel.de/politik/deutschland/proteste-in-iran-ampelfraktionen-nehmen-islamisches-zentrum-hamburg-ins-visier-a-7828b8f2-2990-4c18-b8d9-d52a40db1066#ref=rss)
-### stimme
+* [https://www.spiegel.de/wirtschaft/unternehmen/verbraucherpreise-china-meldet-nur-moderate-inflation](https://www.spiegel.de/wirtschaft/unternehmen/verbraucherpreise-china-meldet-nur-moderate-inflation-a-4b4f0ced-1799-4f1b-afdc-559b57f701fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma](https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma-a-a5309194-5953-421a-a64f-ea6560b1efb4#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht](https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht-a-28b30599-e70f-45de-ab49-bb125f5f2cc3#ref=rss)
-* [https://www.spiegel.de/kultur/kino/britischer-schauspieler-leslie-phillips-ist-tot](https://www.spiegel.de/kultur/kino/britischer-schauspieler-leslie-phillips-ist-tot-a-7044a9f4-bfb8-47b0-ba67-5295b6e30ebf#ref=rss)
-### gemacht
+* [https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern](https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern-a-6995839c-68dd-4f2a-93da-4af1f885367d#ref=rss)
+* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis](https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis-a-76d5fc3e-5549-4b60-a919-b2c2d7c89e73#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht](https://www.spiegel.de/ausland/midterms-2022-in-den-usa-was-den-demokraten-und-joe-biden-droht-a-28b30599-e70f-45de-ab49-bb125f5f2cc3#ref=rss)
-* [https://www.spiegel.de/kultur/edition-f-wird-teil-der-funke-mediengruppe](https://www.spiegel.de/kultur/edition-f-wird-teil-der-funke-mediengruppe-a-ba80b762-2278-4f44-a674-74c06e58005f#ref=rss)
+* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania](https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania-a-a78526c4-4560-497a-9b92-f0b9d14db5f7#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
+* [https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor](https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor-a-b550e639-eb74-43ad-b478-c32c9a6b7efb#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-arizona-videoreportage](https://www.spiegel.de/ausland/midterm-wahlen-in-arizona-videoreportage-a-f84c909b-1332-4c65-983c-0ca9ba254658#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
+* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
+### euro
+
+* [https://www.spiegel.de/start/rezept-dreimal-porree-mit-cremiger-pasta-fuer-1-50-euro](https://www.spiegel.de/start/rezept-dreimal-porree-mit-cremiger-pasta-fuer-1-50-euro-a-d910f86d-36f1-4d7e-97b0-f7ebcd459426#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
+### paxlovid
+
+* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
+### fälle
+
+* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
+* [https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer](https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer-a-0f04fa98-a1b6-4a57-9e0c-e5302c345ef7#ref=rss)
+### midtermwahlen
+
+* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-arizona-videoreportage](https://www.spiegel.de/ausland/midterm-wahlen-in-arizona-videoreportage-a-f84c909b-1332-4c65-983c-0ca9ba254658#ref=rss)
+### gouverneur
+
+* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
+* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-wegen-vergewaltigung-in-afghanistan-verurteilt](https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-wegen-vergewaltigung-in-afghanistan-verurteilt-a-69dacf40-7910-42d6-a4b1-386b7ba0f6b7#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-wegen-vergewaltigung-in-afghanistan-verurteilt](https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-wegen-vergewaltigung-in-afghanistan-verurteilt-a-69dacf40-7910-42d6-a4b1-386b7ba0f6b7#ref=rss)
+* [https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht](https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht-a-53687cde-bc4c-4c94-86bf-51d9c6be41c1#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-wegen-vergewaltigung-in-afghanistan-verurteilt](https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-wegen-vergewaltigung-in-afghanistan-verurteilt-a-69dacf40-7910-42d6-a4b1-386b7ba0f6b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma](https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma-a-a5309194-5953-421a-a64f-ea6560b1efb4#ref=rss)
+### angela
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung](https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung-a-07a7be50-19e5-4fe4-9eca-6d5733e8d9c0#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung](https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung-a-07a7be50-19e5-4fe4-9eca-6d5733e8d9c0#ref=rss)
+### exkanzlerin
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung](https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung-a-07a7be50-19e5-4fe4-9eca-6d5733e8d9c0#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung](https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung-a-07a7be50-19e5-4fe4-9eca-6d5733e8d9c0#ref=rss)
+* [https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel](https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel-a-3ca0b74e-ccfc-42e4-b2a1-fa4bd9ef7878#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung](https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung-a-07a7be50-19e5-4fe4-9eca-6d5733e8d9c0#ref=rss)
+* [https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel](https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel-a-3ca0b74e-ccfc-42e4-b2a1-fa4bd9ef7878#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung](https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung-a-07a7be50-19e5-4fe4-9eca-6d5733e8d9c0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma](https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma-a-a5309194-5953-421a-a64f-ea6560b1efb4#ref=rss)
+### gerhard
+
+* [https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht](https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht-a-53687cde-bc4c-4c94-86bf-51d9c6be41c1#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht](https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht-a-53687cde-bc4c-4c94-86bf-51d9c6be41c1#ref=rss)
+### bleibt
+
+* [https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht](https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht-a-53687cde-bc4c-4c94-86bf-51d9c6be41c1#ref=rss)
+* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
 ### migranten
 
-* [https://www.spiegel.de/ausland/italien-migranten-auf-deutschem-seenotrettungsschiff-in-hungerstreik-getreten](https://www.spiegel.de/ausland/italien-migranten-auf-deutschem-seenotrettungsschiff-in-hungerstreik-getreten-a-0580ba4f-848e-4a73-90c4-1e27a060c82f#ref=rss)
-### hungerstreik
+* [https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel](https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel-a-3ca0b74e-ccfc-42e4-b2a1-fa4bd9ef7878#ref=rss)
+### dürfen
 
-* [https://www.spiegel.de/ausland/italien-migranten-auf-deutschem-seenotrettungsschiff-in-hungerstreik-getreten](https://www.spiegel.de/ausland/italien-migranten-auf-deutschem-seenotrettungsschiff-in-hungerstreik-getreten-a-0580ba4f-848e-4a73-90c4-1e27a060c82f#ref=rss)
-* [https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah](https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah-a-84d8655a-c7a2-4c64-b867-a6adacd67dd9#ref=rss)
-### silicon
+* [https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel](https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel-a-3ca0b74e-ccfc-42e4-b2a1-fa4bd9ef7878#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimarettung-wladimir-putin-silicon-valley](https://www.spiegel.de/politik/deutschland/news-des-tages-klimarettung-wladimir-putin-silicon-valley-a-e76381f0-def0-49e3-8361-9d1153c30672#ref=rss)
-### valley
+* [https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel](https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel-a-3ca0b74e-ccfc-42e4-b2a1-fa4bd9ef7878#ref=rss)
+### inflation
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimarettung-wladimir-putin-silicon-valley](https://www.spiegel.de/politik/deutschland/news-des-tages-klimarettung-wladimir-putin-silicon-valley-a-e76381f0-def0-49e3-8361-9d1153c30672#ref=rss)
-### lage
+* [https://www.spiegel.de/wirtschaft/unternehmen/verbraucherpreise-china-meldet-nur-moderate-inflation](https://www.spiegel.de/wirtschaft/unternehmen/verbraucherpreise-china-meldet-nur-moderate-inflation-a-4b4f0ced-1799-4f1b-afdc-559b57f701fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
+### übernahme
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimarettung-wladimir-putin-silicon-valley](https://www.spiegel.de/politik/deutschland/news-des-tages-klimarettung-wladimir-putin-silicon-valley-a-e76381f0-def0-49e3-8361-9d1153c30672#ref=rss)
-* [https://www.spiegel.de/ausland/awdijiwka-in-der-ukraine-die-front-in-hoerweite](https://www.spiegel.de/ausland/awdijiwka-in-der-ukraine-die-front-in-hoerweite-a-425c7f38-9a19-4e20-a81a-9d07641f3e1c#ref=rss)
-### awdijiwka
+* [https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma](https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma-a-a5309194-5953-421a-a64f-ea6560b1efb4#ref=rss)
+### recht
 
-* [https://www.spiegel.de/ausland/awdijiwka-in-der-ukraine-die-front-in-hoerweite](https://www.spiegel.de/ausland/awdijiwka-in-der-ukraine-die-front-in-hoerweite-a-425c7f38-9a19-4e20-a81a-9d07641f3e1c#ref=rss)
-### front
+* [https://www.spiegel.de/geschichte/vergessene-ns-opfer-niemand-sass-zu-recht-im-kz-das-ist-jetzt-amtlich](https://www.spiegel.de/geschichte/vergessene-ns-opfer-niemand-sass-zu-recht-im-kz-das-ist-jetzt-amtlich-a-06ea3a2d-eacb-4019-956f-f97ec0bb7fa7#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
+### kz
 
-* [https://www.spiegel.de/ausland/awdijiwka-in-der-ukraine-die-front-in-hoerweite](https://www.spiegel.de/ausland/awdijiwka-in-der-ukraine-die-front-in-hoerweite-a-425c7f38-9a19-4e20-a81a-9d07641f3e1c#ref=rss)
-### heftiger
+* [https://www.spiegel.de/geschichte/vergessene-ns-opfer-niemand-sass-zu-recht-im-kz-das-ist-jetzt-amtlich](https://www.spiegel.de/geschichte/vergessene-ns-opfer-niemand-sass-zu-recht-im-kz-das-ist-jetzt-amtlich-a-06ea3a2d-eacb-4019-956f-f97ec0bb7fa7#ref=rss)
+### abtreibung
 
-* [https://www.spiegel.de/ausland/awdijiwka-in-der-ukraine-die-front-in-hoerweite](https://www.spiegel.de/ausland/awdijiwka-in-der-ukraine-die-front-in-hoerweite-a-425c7f38-9a19-4e20-a81a-9d07641f3e1c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-spruehen-kleben-blockieren-die-action-days-der-klimaaktivisten](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-spruehen-kleben-blockieren-die-action-days-der-klimaaktivisten-a-c9a4273f-d950-4696-8130-89db70846460#ref=rss)
-### attendorn
+* [https://www.spiegel.de/geschichte/vergessene-ns-opfer-niemand-sass-zu-recht-im-kz-das-ist-jetzt-amtlich](https://www.spiegel.de/geschichte/vergessene-ns-opfer-niemand-sass-zu-recht-im-kz-das-ist-jetzt-amtlich-a-06ea3a2d-eacb-4019-956f-f97ec0bb7fa7#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
+### robert
 
-* [https://www.spiegel.de/panorama/attendorn-in-nordrhein-westfalen-familie-darf-befreites-maedchen-nicht-besuchen](https://www.spiegel.de/panorama/attendorn-in-nordrhein-westfalen-familie-darf-befreites-maedchen-nicht-besuchen-a-d2559023-247d-40a2-9566-7d8cf58de2c3#ref=rss)
-### mädchen
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch-a-f3be3886-4224-466a-a268-a1e259167d9a#ref=rss)
+### lewandowski
 
-* [https://www.spiegel.de/panorama/attendorn-in-nordrhein-westfalen-familie-darf-befreites-maedchen-nicht-besuchen](https://www.spiegel.de/panorama/attendorn-in-nordrhein-westfalen-familie-darf-befreites-maedchen-nicht-besuchen-a-d2559023-247d-40a2-9566-7d8cf58de2c3#ref=rss)
-### kind
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch-a-f3be3886-4224-466a-a268-a1e259167d9a#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/panorama/justiz/daenemark-kind-nach-toedlichem-messerangriff-auf-schwangere-gestorben](https://www.spiegel.de/panorama/justiz/daenemark-kind-nach-toedlichem-messerangriff-auf-schwangere-gestorben-a-43b16e6f-cac7-4a44-b37b-c0b34c7cf29b#ref=rss)
-### schwangere
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch-a-f3be3886-4224-466a-a268-a1e259167d9a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis](https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis-a-76d5fc3e-5549-4b60-a919-b2c2d7c89e73#ref=rss)
+### gerard
 
-* [https://www.spiegel.de/panorama/justiz/daenemark-kind-nach-toedlichem-messerangriff-auf-schwangere-gestorben](https://www.spiegel.de/panorama/justiz/daenemark-kind-nach-toedlichem-messerangriff-auf-schwangere-gestorben-a-43b16e6f-cac7-4a44-b37b-c0b34c7cf29b#ref=rss)
-### gerettet
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch-a-f3be3886-4224-466a-a268-a1e259167d9a#ref=rss)
+### piqué
 
-* [https://www.spiegel.de/panorama/justiz/daenemark-kind-nach-toedlichem-messerangriff-auf-schwangere-gestorben](https://www.spiegel.de/panorama/justiz/daenemark-kind-nach-toedlichem-messerangriff-auf-schwangere-gestorben-a-43b16e6f-cac7-4a44-b37b-c0b34c7cf29b#ref=rss)
-* [https://www.spiegel.de/kultur/edition-f-wird-teil-der-funke-mediengruppe](https://www.spiegel.de/kultur/edition-f-wird-teil-der-funke-mediengruppe-a-ba80b762-2278-4f44-a674-74c06e58005f#ref=rss)
-### letzte
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch-a-f3be3886-4224-466a-a268-a1e259167d9a#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-spruehen-kleben-blockieren-die-action-days-der-klimaaktivisten](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-spruehen-kleben-blockieren-die-action-days-der-klimaaktivisten-a-c9a4273f-d950-4696-8130-89db70846460#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik](https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik-a-e16eb9a6-e748-4b0f-8ce1-941c5d492249#ref=rss)
-### proteste
+* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch-a-f3be3886-4224-466a-a268-a1e259167d9a#ref=rss)
+* [https://www.spiegel.de/kultur/musik/nazareth-saenger-dan-mccafferty-ist-tot](https://www.spiegel.de/kultur/musik/nazareth-saenger-dan-mccafferty-ist-tot-a-fa328164-7166-4a3e-8695-6eab79f80c3c#ref=rss)
+### krankenkasse
 
-* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-spruehen-kleben-blockieren-die-action-days-der-klimaaktivisten](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-spruehen-kleben-blockieren-die-action-days-der-klimaaktivisten-a-c9a4273f-d950-4696-8130-89db70846460#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/proteste-in-iran-ampelfraktionen-nehmen-islamisches-zentrum-hamburg-ins-visier](https://www.spiegel.de/politik/deutschland/proteste-in-iran-ampelfraktionen-nehmen-islamisches-zentrum-hamburg-ins-visier-a-7828b8f2-2990-4c18-b8d9-d52a40db1066#ref=rss)
-### zuletzt
+* [https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern](https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern-a-6995839c-68dd-4f2a-93da-4af1f885367d#ref=rss)
+### medibank
 
-* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-spruehen-kleben-blockieren-die-action-days-der-klimaaktivisten](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-spruehen-kleben-blockieren-die-action-days-der-klimaaktivisten-a-c9a4273f-d950-4696-8130-89db70846460#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-human-rights-watch-warnt-homosexuelle-vor-wm-reise](https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-human-rights-watch-warnt-homosexuelle-vor-wm-reise-a-3583f448-5e8a-4d44-9767-6b29ed17d7b6#ref=rss)
-### spdbundestagsfraktion
+* [https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern](https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern-a-6995839c-68dd-4f2a-93da-4af1f885367d#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/politik/deutschland/fussballweltmeisterschaft-spd-bundestagsfraktion-kritisiert-homophobe-aeusserungen-aus-katar](https://www.spiegel.de/politik/deutschland/fussballweltmeisterschaft-spd-bundestagsfraktion-kritisiert-homophobe-aeusserungen-aus-katar-a-6586ffca-d549-40f4-b396-f6dcd4bd66eb#ref=rss)
-### äußerungen
+* [https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern](https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern-a-6995839c-68dd-4f2a-93da-4af1f885367d#ref=rss)
+* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/politik/deutschland/fussballweltmeisterschaft-spd-bundestagsfraktion-kritisiert-homophobe-aeusserungen-aus-katar](https://www.spiegel.de/politik/deutschland/fussballweltmeisterschaft-spd-bundestagsfraktion-kritisiert-homophobe-aeusserungen-aus-katar-a-6586ffca-d549-40f4-b396-f6dcd4bd66eb#ref=rss)
-### sicherheit
+* [https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern](https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern-a-6995839c-68dd-4f2a-93da-4af1f885367d#ref=rss)
+* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
+### saudiarabien
 
-* [https://www.spiegel.de/politik/deutschland/fussballweltmeisterschaft-spd-bundestagsfraktion-kritisiert-homophobe-aeusserungen-aus-katar](https://www.spiegel.de/politik/deutschland/fussballweltmeisterschaft-spd-bundestagsfraktion-kritisiert-homophobe-aeusserungen-aus-katar-a-6586ffca-d549-40f4-b396-f6dcd4bd66eb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/elmos-warum-robert-habeck-die-uebernahme-einer-chip-fabrik-verhindern-will](https://www.spiegel.de/wirtschaft/unternehmen/elmos-warum-robert-habeck-die-uebernahme-einer-chip-fabrik-verhindern-will-a-2607d946-9da8-44f0-ba75-11f5766f85bf#ref=rss)
-### treffen
+* [https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land](https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land-a-dec0f4cc-30a6-45e4-9e08-018cc67786e2#ref=rss)
+### usbürgerin
 
-* [https://www.spiegel.de/ausland/olaf-scholz-und-china-mit-diesem-menschenrechtsanwalt-hat-sich-der-bundeskanzler-ausgetauscht](https://www.spiegel.de/ausland/olaf-scholz-und-china-mit-diesem-menschenrechtsanwalt-hat-sich-der-bundeskanzler-ausgetauscht-a-79da06fd-6582-4259-9a07-c0c01a8c6a2d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bankenaufseher-warnen-vor-gefahren-fuer-ihre-branche](https://www.spiegel.de/wirtschaft/bankenaufseher-warnen-vor-gefahren-fuer-ihre-branche-a-cef526b2-45fa-4cab-bd4e-55ae6b9c2964#ref=rss)
-### edition
+* [https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land](https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land-a-dec0f4cc-30a6-45e4-9e08-018cc67786e2#ref=rss)
+### warnte
 
-* [https://www.spiegel.de/kultur/edition-f-wird-teil-der-funke-mediengruppe](https://www.spiegel.de/kultur/edition-f-wird-teil-der-funke-mediengruppe-a-ba80b762-2278-4f44-a674-74c06e58005f#ref=rss)
-### f
+* [https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land](https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land-a-dec0f4cc-30a6-45e4-9e08-018cc67786e2#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/kultur/edition-f-wird-teil-der-funke-mediengruppe](https://www.spiegel.de/kultur/edition-f-wird-teil-der-funke-mediengruppe-a-ba80b762-2278-4f44-a674-74c06e58005f#ref=rss)
-### funke
+* [https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land](https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land-a-dec0f4cc-30a6-45e4-9e08-018cc67786e2#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
+### dan
 
-* [https://www.spiegel.de/kultur/edition-f-wird-teil-der-funke-mediengruppe](https://www.spiegel.de/kultur/edition-f-wird-teil-der-funke-mediengruppe-a-ba80b762-2278-4f44-a674-74c06e58005f#ref=rss)
-### mediengruppe
+* [https://www.spiegel.de/kultur/musik/nazareth-saenger-dan-mccafferty-ist-tot](https://www.spiegel.de/kultur/musik/nazareth-saenger-dan-mccafferty-ist-tot-a-fa328164-7166-4a3e-8695-6eab79f80c3c#ref=rss)
+### mccafferty
 
-* [https://www.spiegel.de/kultur/edition-f-wird-teil-der-funke-mediengruppe](https://www.spiegel.de/kultur/edition-f-wird-teil-der-funke-mediengruppe-a-ba80b762-2278-4f44-a674-74c06e58005f#ref=rss)
-### antrag
+* [https://www.spiegel.de/kultur/musik/nazareth-saenger-dan-mccafferty-ist-tot](https://www.spiegel.de/kultur/musik/nazareth-saenger-dan-mccafferty-ist-tot-a-fa328164-7166-4a3e-8695-6eab79f80c3c#ref=rss)
+### gewonnen
 
-* [https://www.spiegel.de/politik/deutschland/antrag-der-cdu-csu-fraktion-union-will-nun-doch-auf-praeventivhaft-fuer-klimaaktivisten-verzichten](https://www.spiegel.de/politik/deutschland/antrag-der-cdu-csu-fraktion-union-will-nun-doch-auf-praeventivhaft-fuer-klimaaktivisten-verzichten-a-27edde9a-4d35-4802-9815-18a816f264f1#ref=rss)
-### ampelfraktionen
+* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
+* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
+### alle
 
-* [https://www.spiegel.de/politik/deutschland/proteste-in-iran-ampelfraktionen-nehmen-islamisches-zentrum-hamburg-ins-visier](https://www.spiegel.de/politik/deutschland/proteste-in-iran-ampelfraktionen-nehmen-islamisches-zentrum-hamburg-ins-visier-a-7828b8f2-2990-4c18-b8d9-d52a40db1066#ref=rss)
-### zentrum
+* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
+* [https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor](https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor-a-b550e639-eb74-43ad-b478-c32c9a6b7efb#ref=rss)
+### demokraten
 
-* [https://www.spiegel.de/politik/deutschland/proteste-in-iran-ampelfraktionen-nehmen-islamisches-zentrum-hamburg-ins-visier](https://www.spiegel.de/politik/deutschland/proteste-in-iran-ampelfraktionen-nehmen-islamisches-zentrum-hamburg-ins-visier-a-7828b8f2-2990-4c18-b8d9-d52a40db1066#ref=rss)
+* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania](https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania-a-a78526c4-4560-497a-9b92-f0b9d14db5f7#ref=rss)
+### arizona
+
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-arizona-videoreportage](https://www.spiegel.de/ausland/midterm-wahlen-in-arizona-videoreportage-a-f84c909b-1332-4c65-983c-0ca9ba254658#ref=rss)
+### julia
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis](https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis-a-76d5fc3e-5549-4b60-a919-b2c2d7c89e73#ref=rss)
+### willie
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis](https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis-a-76d5fc3e-5549-4b60-a919-b2c2d7c89e73#ref=rss)
 ### hamburg
 
-* [https://www.spiegel.de/politik/deutschland/proteste-in-iran-ampelfraktionen-nehmen-islamisches-zentrum-hamburg-ins-visier](https://www.spiegel.de/politik/deutschland/proteste-in-iran-ampelfraktionen-nehmen-islamisches-zentrum-hamburg-ins-visier-a-7828b8f2-2990-4c18-b8d9-d52a40db1066#ref=rss)
-### tansania
+* [https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis](https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis-a-76d5fc3e-5549-4b60-a919-b2c2d7c89e73#ref=rss)
+### euumweltbehörde
 
-* [https://www.spiegel.de/wissenschaft/natur/tansania-ratten-sollen-menschen-nach-katastrophen-aufspueren](https://www.spiegel.de/wissenschaft/natur/tansania-ratten-sollen-menschen-nach-katastrophen-aufspueren-a-59373ff1-efba-497c-b018-013aa9e0e080#ref=rss)
-### aufspüren
+* [https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer](https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer-a-0f04fa98-a1b6-4a57-9e0c-e5302c345ef7#ref=rss)
+### europäer
 
-* [https://www.spiegel.de/wissenschaft/natur/tansania-ratten-sollen-menschen-nach-katastrophen-aufspueren](https://www.spiegel.de/wissenschaft/natur/tansania-ratten-sollen-menschen-nach-katastrophen-aufspueren-a-59373ff1-efba-497c-b018-013aa9e0e080#ref=rss)
-### betrug
+* [https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer](https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer-a-0f04fa98-a1b6-4a57-9e0c-e5302c345ef7#ref=rss)
+### boris
 
-* [https://www.spiegel.de/wissenschaft/betrug-mit-co2-rechten-das-ist-betrug-am-klimaschutz-und-am-verbraucher](https://www.spiegel.de/wissenschaft/betrug-mit-co2-rechten-das-ist-betrug-am-klimaschutz-und-am-verbraucher-a-563f8344-62ff-4d9f-8e00-eaf869f5b0a0#ref=rss)
-### leslie
+* [https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies](https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies-a-71ac061f-c5b7-4ab1-a67a-50bba606b2cd#ref=rss)
+### herrmann
 
-* [https://www.spiegel.de/kultur/kino/britischer-schauspieler-leslie-phillips-ist-tot](https://www.spiegel.de/kultur/kino/britischer-schauspieler-leslie-phillips-ist-tot-a-7044a9f4-bfb8-47b0-ba67-5295b6e30ebf#ref=rss)
-### phillips
+* [https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies](https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies-a-71ac061f-c5b7-4ab1-a67a-50bba606b2cd#ref=rss)
+### route
 
-* [https://www.spiegel.de/kultur/kino/britischer-schauspieler-leslie-phillips-ist-tot](https://www.spiegel.de/kultur/kino/britischer-schauspieler-leslie-phillips-ist-tot-a-7044a9f4-bfb8-47b0-ba67-5295b6e30ebf#ref=rss)
-### lmu
+* [https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies](https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies-a-71ac061f-c5b7-4ab1-a67a-50bba606b2cd#ref=rss)
+### du
 
-* [https://www.spiegel.de/panorama/justiz/muenchen-student-sitzt-mit-waffe-in-uni-vorlesung](https://www.spiegel.de/panorama/justiz/muenchen-student-sitzt-mit-waffe-in-uni-vorlesung-a-9d6a98c7-28ac-47dd-b918-0c44a9463bb6#ref=rss)
-### servolenkung
+* [https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies](https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies-a-71ac061f-c5b7-4ab1-a67a-50bba606b2cd#ref=rss)
+### rhum
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/usa-tesla-ruft-40-000-fahrzeuge-wegen-problemen-mit-der-servolenkung-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/usa-tesla-ruft-40-000-fahrzeuge-wegen-problemen-mit-der-servolenkung-zurueck-a-0516e38a-3f3f-4b3a-b052-a5a5435f87c9#ref=rss)
-### kretschmann
+* [https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies](https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies-a-71ac061f-c5b7-4ab1-a67a-50bba606b2cd#ref=rss)
+### alten
 
-* [https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik](https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik-a-e16eb9a6-e748-4b0f-8ce1-941c5d492249#ref=rss)
-### klimaschützer
+* [https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies](https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies-a-71ac061f-c5b7-4ab1-a67a-50bba606b2cd#ref=rss)
+### brandenburger
 
-* [https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik](https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik-a-e16eb9a6-e748-4b0f-8ce1-941c5d492249#ref=rss)
-### aktivisten
+* [https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor](https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor-a-b550e639-eb74-43ad-b478-c32c9a6b7efb#ref=rss)
+### tor
 
-* [https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik](https://www.spiegel.de/politik/deutschland/klimaschuetzer-robert-habeck-und-winfried-kretschmann-aeussern-kritik-a-e16eb9a6-e748-4b0f-8ce1-941c5d492249#ref=rss)
-* [https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah](https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah-a-84d8655a-c7a2-4c64-b867-a6adacd67dd9#ref=rss)
-### alaa
+* [https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor](https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor-a-b550e639-eb74-43ad-b478-c32c9a6b7efb#ref=rss)
+### überleben
 
-* [https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah](https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah-a-84d8655a-c7a2-4c64-b867-a6adacd67dd9#ref=rss)
-### abd
+* [https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor](https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor-a-b550e639-eb74-43ad-b478-c32c9a6b7efb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
+### adidas
 
-* [https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah](https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah-a-84d8655a-c7a2-4c64-b867-a6adacd67dd9#ref=rss)
-### elfattah
+* [https://www.spiegel.de/wirtschaft/unternehmen/adidas-senkt-prognose-wegen-trennung-von-kanye-west](https://www.spiegel.de/wirtschaft/unternehmen/adidas-senkt-prognose-wegen-trennung-von-kanye-west-a-9d95587a-59b0-416f-8ae9-2d9d9a2a42c4#ref=rss)
+### mutterschutzgesetz
 
-* [https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah](https://www.spiegel.de/ausland/aegypten-olaf-scholz-fordert-freilassung-des-aktivisten-alaa-abd-el-fattah-a-84d8655a-c7a2-4c64-b867-a6adacd67dd9#ref=rss)
-### pandemie
+* [https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht](https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht-a-700f1ba9-f1cc-4cd0-8599-6765ada6d1fb#ref=rss)
+### grundgesetz
 
-* [https://www.spiegel.de/wissenschaft/corona-lebenszufriedenheit-durch-pandemie-deutlich-gesunken](https://www.spiegel.de/wissenschaft/corona-lebenszufriedenheit-durch-pandemie-deutlich-gesunken-a-5d834ceb-bcc5-4056-988a-0f0876223304#ref=rss)
-### deutlich
+* [https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht](https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht-a-700f1ba9-f1cc-4cd0-8599-6765ada6d1fb#ref=rss)
+### beschwerde
 
-* [https://www.spiegel.de/wissenschaft/corona-lebenszufriedenheit-durch-pandemie-deutlich-gesunken](https://www.spiegel.de/wissenschaft/corona-lebenszufriedenheit-durch-pandemie-deutlich-gesunken-a-5d834ceb-bcc5-4056-988a-0f0876223304#ref=rss)
-### gesunken
+* [https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht](https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht-a-700f1ba9-f1cc-4cd0-8599-6765ada6d1fb#ref=rss)
+### bundesverfassungsgericht
 
-* [https://www.spiegel.de/wissenschaft/corona-lebenszufriedenheit-durch-pandemie-deutlich-gesunken](https://www.spiegel.de/wissenschaft/corona-lebenszufriedenheit-durch-pandemie-deutlich-gesunken-a-5d834ceb-bcc5-4056-988a-0f0876223304#ref=rss)
-### zeigt
+* [https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht](https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht-a-700f1ba9-f1cc-4cd0-8599-6765ada6d1fb#ref=rss)
+### erzielt
 
-* [https://www.spiegel.de/wissenschaft/corona-lebenszufriedenheit-durch-pandemie-deutlich-gesunken](https://www.spiegel.de/wissenschaft/corona-lebenszufriedenheit-durch-pandemie-deutlich-gesunken-a-5d834ceb-bcc5-4056-988a-0f0876223304#ref=rss)
-* [https://www.spiegel.de/ausland/japan-und-grossbritannien-planen-militaerabkommen-allianz-der-absteiger](https://www.spiegel.de/ausland/japan-und-grossbritannien-planen-militaerabkommen-allianz-der-absteiger-a-83ccad09-9cc9-42c1-a7f4-1357635d9b88#ref=rss)
-### fußballwm
+* [https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht](https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht-a-700f1ba9-f1cc-4cd0-8599-6765ada6d1fb#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania](https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania-a-a78526c4-4560-497a-9b92-f0b9d14db5f7#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-human-rights-watch-warnt-homosexuelle-vor-wm-reise](https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-human-rights-watch-warnt-homosexuelle-vor-wm-reise-a-3583f448-5e8a-4d44-9767-6b29ed17d7b6#ref=rss)
-### human
+* [https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht](https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht-a-700f1ba9-f1cc-4cd0-8599-6765ada6d1fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
+### michael
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-human-rights-watch-warnt-homosexuelle-vor-wm-reise](https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-human-rights-watch-warnt-homosexuelle-vor-wm-reise-a-3583f448-5e8a-4d44-9767-6b29ed17d7b6#ref=rss)
-### rights
+* [https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein](https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein-a-7cd0f57e-54e9-4456-8e7f-d63b23e992fd#ref=rss)
+### bully
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-human-rights-watch-warnt-homosexuelle-vor-wm-reise](https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-human-rights-watch-warnt-homosexuelle-vor-wm-reise-a-3583f448-5e8a-4d44-9767-6b29ed17d7b6#ref=rss)
-### watch
+* [https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein](https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein-a-7cd0f57e-54e9-4456-8e7f-d63b23e992fd#ref=rss)
+### herbig
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-human-rights-watch-warnt-homosexuelle-vor-wm-reise](https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-human-rights-watch-warnt-homosexuelle-vor-wm-reise-a-3583f448-5e8a-4d44-9767-6b29ed17d7b6#ref=rss)
-### missbrauchsopfer
+* [https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein](https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein-a-7cd0f57e-54e9-4456-8e7f-d63b23e992fd#ref=rss)
+### sebastian
 
-* [https://www.spiegel.de/panorama/justiz/benedikt-xvi-klage-eines-missbrauchsopfer-emeritierter-papst-will-sich-verteidigen](https://www.spiegel.de/panorama/justiz/benedikt-xvi-klage-eines-missbrauchsopfer-emeritierter-papst-will-sich-verteidigen-a-d7953ccc-e046-4304-a1ca-be8a93915410#ref=rss)
-### papst
+* [https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein](https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein-a-7cd0f57e-54e9-4456-8e7f-d63b23e992fd#ref=rss)
+### pufpaff
 
-* [https://www.spiegel.de/panorama/justiz/benedikt-xvi-klage-eines-missbrauchsopfer-emeritierter-papst-will-sich-verteidigen](https://www.spiegel.de/panorama/justiz/benedikt-xvi-klage-eines-missbrauchsopfer-emeritierter-papst-will-sich-verteidigen-a-d7953ccc-e046-4304-a1ca-be8a93915410#ref=rss)
-### geldinstitute
+* [https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein](https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein-a-7cd0f57e-54e9-4456-8e7f-d63b23e992fd#ref=rss)
+### florida
 
-* [https://www.spiegel.de/wirtschaft/bankenaufseher-warnen-vor-gefahren-fuer-ihre-branche](https://www.spiegel.de/wirtschaft/bankenaufseher-warnen-vor-gefahren-fuer-ihre-branche-a-cef526b2-45fa-4cab-bd4e-55ae6b9c2964#ref=rss)
-### bankenaufseher
+* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
+### john
 
-* [https://www.spiegel.de/wirtschaft/bankenaufseher-warnen-vor-gefahren-fuer-ihre-branche](https://www.spiegel.de/wirtschaft/bankenaufseher-warnen-vor-gefahren-fuer-ihre-branche-a-cef526b2-45fa-4cab-bd4e-55ae6b9c2964#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania](https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania-a-a78526c4-4560-497a-9b92-f0b9d14db5f7#ref=rss)
+### fetterman
 
-* [https://www.spiegel.de/ausland/japan-und-grossbritannien-planen-militaerabkommen-allianz-der-absteiger](https://www.spiegel.de/ausland/japan-und-grossbritannien-planen-militaerabkommen-allianz-der-absteiger-a-83ccad09-9cc9-42c1-a7f4-1357635d9b88#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania](https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania-a-a78526c4-4560-497a-9b92-f0b9d14db5f7#ref=rss)
+### frankfurter
+
+* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
+### döner
+
+* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
+### auktion
+
+* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
+### new
+
+* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
+### york
+
+* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
+### versteigert
+
+* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
+### schädel
+
+* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
+### tyrannosaurus
+
+* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
+### rex
+
+* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
 
