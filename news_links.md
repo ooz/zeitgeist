@@ -4,348 +4,326 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### desantis
+### mehr
 
-* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
-* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma](https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma-a-a5309194-5953-421a-a64f-ea6560b1efb4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer](https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer-a-0f04fa98-a1b6-4a57-9e0c-e5302c345ef7#ref=rss)
-### ron
-
-* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
-* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
-* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel](https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel-a-3ca0b74e-ccfc-42e4-b2a1-fa4bd9ef7878#ref=rss)
-* [https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land](https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land-a-dec0f4cc-30a6-45e4-9e08-018cc67786e2#ref=rss)
-### midterms
-
-* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania](https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania-a-a78526c4-4560-497a-9b92-f0b9d14db5f7#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
-* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
-### verhindern
-
-* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma](https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma-a-a5309194-5953-421a-a64f-ea6560b1efb4#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
-* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/verbraucherpreise-china-meldet-nur-moderate-inflation](https://www.spiegel.de/wirtschaft/unternehmen/verbraucherpreise-china-meldet-nur-moderate-inflation-a-4b4f0ced-1799-4f1b-afdc-559b57f701fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma](https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma-a-a5309194-5953-421a-a64f-ea6560b1efb4#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern](https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern-a-6995839c-68dd-4f2a-93da-4af1f885367d#ref=rss)
-* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis](https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis-a-76d5fc3e-5549-4b60-a919-b2c2d7c89e73#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania](https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania-a-a78526c4-4560-497a-9b92-f0b9d14db5f7#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
-* [https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor](https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor-a-b550e639-eb74-43ad-b478-c32c9a6b7efb#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
-### wahl
-
-* [https://www.spiegel.de/ausland/midterm-wahlen-in-arizona-videoreportage](https://www.spiegel.de/ausland/midterm-wahlen-in-arizona-videoreportage-a-f84c909b-1332-4c65-983c-0ca9ba254658#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
-* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
-### euro
-
-* [https://www.spiegel.de/start/rezept-dreimal-porree-mit-cremiger-pasta-fuer-1-50-euro](https://www.spiegel.de/start/rezept-dreimal-porree-mit-cremiger-pasta-fuer-1-50-euro-a-d910f86d-36f1-4d7e-97b0-f7ebcd459426#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
-### paxlovid
-
-* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
-### fälle
-
-* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern](https://www.spiegel.de/wissenschaft/medizin/long-covid-paxlovid-koennte-laut-studie-viele-faelle-verhindern-a-ebcf928b-e670-460e-868a-5eb68b3af619#ref=rss)
-* [https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer](https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer-a-0f04fa98-a1b6-4a57-9e0c-e5302c345ef7#ref=rss)
-### midtermwahlen
-
-* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
-* [https://www.spiegel.de/ausland/midterm-wahlen-in-arizona-videoreportage](https://www.spiegel.de/ausland/midterm-wahlen-in-arizona-videoreportage-a-f84c909b-1332-4c65-983c-0ca9ba254658#ref=rss)
-### gouverneur
-
-* [https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich](https://www.spiegel.de/ausland/midterm-wahlen-ron-desantis-ist-der-wahre-sieger-und-wird-donald-trump-gefaehrlich-a-3a38e49e-1838-40ed-b830-cbcb429c9e19#ref=rss)
-* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-wegen-vergewaltigung-in-afghanistan-verurteilt](https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-wegen-vergewaltigung-in-afghanistan-verurteilt-a-69dacf40-7910-42d6-a4b1-386b7ba0f6b7#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-wegen-vergewaltigung-in-afghanistan-verurteilt](https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-wegen-vergewaltigung-in-afghanistan-verurteilt-a-69dacf40-7910-42d6-a4b1-386b7ba0f6b7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht](https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht-a-53687cde-bc4c-4c94-86bf-51d9c6be41c1#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-wegen-vergewaltigung-in-afghanistan-verurteilt](https://www.spiegel.de/politik/deutschland/bundeswehr-soldat-wegen-vergewaltigung-in-afghanistan-verurteilt-a-69dacf40-7910-42d6-a4b1-386b7ba0f6b7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma](https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma-a-a5309194-5953-421a-a64f-ea6560b1efb4#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung](https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung-a-07a7be50-19e5-4fe4-9eca-6d5733e8d9c0#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung](https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung-a-07a7be50-19e5-4fe4-9eca-6d5733e8d9c0#ref=rss)
-### exkanzlerin
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung](https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung-a-07a7be50-19e5-4fe4-9eca-6d5733e8d9c0#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung](https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung-a-07a7be50-19e5-4fe4-9eca-6d5733e8d9c0#ref=rss)
-* [https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel](https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel-a-3ca0b74e-ccfc-42e4-b2a1-fa4bd9ef7878#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung](https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung-a-07a7be50-19e5-4fe4-9eca-6d5733e8d9c0#ref=rss)
-* [https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel](https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel-a-3ca0b74e-ccfc-42e4-b2a1-fa4bd9ef7878#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung](https://www.spiegel.de/politik/deutschland/angela-merkel-ex-kanzlerin-verteidigt-buero-ausstattung-a-07a7be50-19e5-4fe4-9eca-6d5733e8d9c0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma](https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma-a-a5309194-5953-421a-a64f-ea6560b1efb4#ref=rss)
-### gerhard
-
-* [https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht](https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht-a-53687cde-bc4c-4c94-86bf-51d9c6be41c1#ref=rss)
-### schröder
-
-* [https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht](https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht-a-53687cde-bc4c-4c94-86bf-51d9c6be41c1#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht](https://www.spiegel.de/panorama/leute/gerhard-schroeder-kassiert-naechste-niederlage-vor-gericht-a-53687cde-bc4c-4c94-86bf-51d9c6be41c1#ref=rss)
-* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
-### migranten
-
-* [https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel](https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel-a-3ca0b74e-ccfc-42e4-b2a1-fa4bd9ef7878#ref=rss)
-### dürfen
-
-* [https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel](https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel-a-3ca0b74e-ccfc-42e4-b2a1-fa4bd9ef7878#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel](https://www.spiegel.de/ausland/italien-verbliebene-migranten-duerfen-an-land-frankreich-nennt-abweisungen-inakzeptabel-a-3ca0b74e-ccfc-42e4-b2a1-fa4bd9ef7878#ref=rss)
-### inflation
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/verbraucherpreise-china-meldet-nur-moderate-inflation](https://www.spiegel.de/wirtschaft/unternehmen/verbraucherpreise-china-meldet-nur-moderate-inflation-a-4b4f0ced-1799-4f1b-afdc-559b57f701fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
-### übernahme
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma](https://www.spiegel.de/wirtschaft/unternehmen/ers-electronic-bundesregierung-stoppt-offenbar-weitere-chinesische-uebernahme-von-halbleiterfirma-a-a5309194-5953-421a-a64f-ea6560b1efb4#ref=rss)
-### recht
-
-* [https://www.spiegel.de/geschichte/vergessene-ns-opfer-niemand-sass-zu-recht-im-kz-das-ist-jetzt-amtlich](https://www.spiegel.de/geschichte/vergessene-ns-opfer-niemand-sass-zu-recht-im-kz-das-ist-jetzt-amtlich-a-06ea3a2d-eacb-4019-956f-f97ec0bb7fa7#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
-### kz
-
-* [https://www.spiegel.de/geschichte/vergessene-ns-opfer-niemand-sass-zu-recht-im-kz-das-ist-jetzt-amtlich](https://www.spiegel.de/geschichte/vergessene-ns-opfer-niemand-sass-zu-recht-im-kz-das-ist-jetzt-amtlich-a-06ea3a2d-eacb-4019-956f-f97ec0bb7fa7#ref=rss)
-### abtreibung
-
-* [https://www.spiegel.de/geschichte/vergessene-ns-opfer-niemand-sass-zu-recht-im-kz-das-ist-jetzt-amtlich](https://www.spiegel.de/geschichte/vergessene-ns-opfer-niemand-sass-zu-recht-im-kz-das-ist-jetzt-amtlich-a-06ea3a2d-eacb-4019-956f-f97ec0bb7fa7#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
-### robert
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch-a-f3be3886-4224-466a-a268-a1e259167d9a#ref=rss)
-### lewandowski
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch-a-f3be3886-4224-466a-a268-a1e259167d9a#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch-a-f3be3886-4224-466a-a268-a1e259167d9a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis](https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis-a-76d5fc3e-5549-4b60-a919-b2c2d7c89e73#ref=rss)
-### gerard
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch-a-f3be3886-4224-466a-a268-a1e259167d9a#ref=rss)
-### piqué
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch-a-f3be3886-4224-466a-a268-a1e259167d9a#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch](https://www.spiegel.de/sport/fussball/fc-barcelona-siegt-robert-lewandowski-sieht-gelb-rot-gerard-pique-dreht-durch-a-f3be3886-4224-466a-a268-a1e259167d9a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/nazareth-saenger-dan-mccafferty-ist-tot](https://www.spiegel.de/kultur/musik/nazareth-saenger-dan-mccafferty-ist-tot-a-fa328164-7166-4a3e-8695-6eab79f80c3c#ref=rss)
-### krankenkasse
-
-* [https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern](https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern-a-6995839c-68dd-4f2a-93da-4af1f885367d#ref=rss)
-### medibank
-
-* [https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern](https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern-a-6995839c-68dd-4f2a-93da-4af1f885367d#ref=rss)
+* [https://www.spiegel.de/sport/formel1/schumachers-titel-ferrari-fuer-rekordpreis-von-13-millionen-euro-ersteigert](https://www.spiegel.de/sport/formel1/schumachers-titel-ferrari-fuer-rekordpreis-von-13-millionen-euro-ersteigert-a-2ec00676-a068-4e9b-95f2-c0b3e09288f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reform-bei-der-geburtshilfe-warum-die-hebammen-auf-den-barrikaden-sind](https://www.spiegel.de/politik/deutschland/reform-bei-der-geburtshilfe-warum-die-hebammen-auf-den-barrikaden-sind-a-cc3c5601-34c7-491c-bc9d-5f7dde153110#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation-a-f82f1160-2215-47e4-a409-0d35d1d74a7e#ref=rss)
+* [https://www.spiegel.de/kultur/crimes-of-the-future-von-david-cronenberg-erfuehler-des-schreckens](https://www.spiegel.de/kultur/crimes-of-the-future-von-david-cronenberg-erfuehler-des-schreckens-a-04bbbdae-c57a-4eb0-a628-5f29a9aaaa9c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop27-aegypten-wassermangel-bei-der-klimakonferenz](https://www.spiegel.de/wissenschaft/cop27-aegypten-wassermangel-bei-der-klimakonferenz-a-6e712f5d-6d65-49ab-bd22-a9176333cb0a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-moore-sollen-kuenftig-besser-geschuetzt-werden](https://www.spiegel.de/wissenschaft/klimawandel-moore-sollen-kuenftig-besser-geschuetzt-werden-a-2ce3c74e-446d-4483-8d8e-d40b28676157#ref=rss)
 ### millionen
 
-* [https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern](https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern-a-6995839c-68dd-4f2a-93da-4af1f885367d#ref=rss)
-* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern](https://www.spiegel.de/netzwelt/web/krankenkasse-medibank-gehackt-taeter-veroeffentlichen-gesundheitsdaten-von-millionen-australiern-a-6995839c-68dd-4f2a-93da-4af1f885367d#ref=rss)
-* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land](https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land-a-dec0f4cc-30a6-45e4-9e08-018cc67786e2#ref=rss)
-### usbürgerin
-
-* [https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land](https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land-a-dec0f4cc-30a6-45e4-9e08-018cc67786e2#ref=rss)
-### warnte
-
-* [https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land](https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land-a-dec0f4cc-30a6-45e4-9e08-018cc67786e2#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land](https://www.spiegel.de/ausland/saudi-arabien-us-buergerin-inhaftiert-sie-warnte-vor-reisen-in-das-land-a-dec0f4cc-30a6-45e4-9e08-018cc67786e2#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten](https://www.spiegel.de/ausland/midterms-usa-fuenf-bundesstaaten-staerken-frauen-in-ihren-abtreibungsrechten-a-8b6d405e-d3c6-4b3b-9120-8d4f8f57a94f#ref=rss)
-### dan
-
-* [https://www.spiegel.de/kultur/musik/nazareth-saenger-dan-mccafferty-ist-tot](https://www.spiegel.de/kultur/musik/nazareth-saenger-dan-mccafferty-ist-tot-a-fa328164-7166-4a3e-8695-6eab79f80c3c#ref=rss)
-### mccafferty
-
-* [https://www.spiegel.de/kultur/musik/nazareth-saenger-dan-mccafferty-ist-tot](https://www.spiegel.de/kultur/musik/nazareth-saenger-dan-mccafferty-ist-tot-a-fa328164-7166-4a3e-8695-6eab79f80c3c#ref=rss)
-### gewonnen
-
-* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
-* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
-### alle
-
-* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
-* [https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor](https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor-a-b550e639-eb74-43ad-b478-c32c9a6b7efb#ref=rss)
-### demokraten
-
-* [https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat](https://www.spiegel.de/ausland/usa-midterms-wer-bei-den-gouverneurswahlen-gewonnen-hat-a-531c34b9-43ab-421c-8a97-bf3f8de83f56#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania](https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania-a-a78526c4-4560-497a-9b92-f0b9d14db5f7#ref=rss)
-### arizona
-
-* [https://www.spiegel.de/ausland/midterm-wahlen-in-arizona-videoreportage](https://www.spiegel.de/ausland/midterm-wahlen-in-arizona-videoreportage-a-f84c909b-1332-4c65-983c-0ca9ba254658#ref=rss)
-### julia
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis](https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis-a-76d5fc3e-5549-4b60-a919-b2c2d7c89e73#ref=rss)
-### willie
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis](https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis-a-76d5fc3e-5549-4b60-a919-b2c2d7c89e73#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis](https://www.spiegel.de/wirtschaft/unternehmen/julie-willie-hamburg-neue-aufsichtsraetin-bei-volkswagen-mit-china-skepsis-a-76d5fc3e-5549-4b60-a919-b2c2d7c89e73#ref=rss)
-### euumweltbehörde
-
-* [https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer](https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer-a-0f04fa98-a1b6-4a57-9e0c-e5302c345ef7#ref=rss)
-### europäer
-
-* [https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer](https://www.spiegel.de/wissenschaft/eea-eu-umweltbehoerde-hitzewellen-sind-die-groesste-klimagefahr-fuer-europaeer-a-0f04fa98-a1b6-4a57-9e0c-e5302c345ef7#ref=rss)
-### boris
-
-* [https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies](https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies-a-71ac061f-c5b7-4ab1-a67a-50bba606b2cd#ref=rss)
-### herrmann
-
-* [https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies](https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies-a-71ac061f-c5b7-4ab1-a67a-50bba606b2cd#ref=rss)
-### route
-
-* [https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies](https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies-a-71ac061f-c5b7-4ab1-a67a-50bba606b2cd#ref=rss)
-### du
-
-* [https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies](https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies-a-71ac061f-c5b7-4ab1-a67a-50bba606b2cd#ref=rss)
-### rhum
-
-* [https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies](https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies-a-71ac061f-c5b7-4ab1-a67a-50bba606b2cd#ref=rss)
-### alten
-
-* [https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies](https://www.spiegel.de/sport/boris-herrmann-bei-der-route-du-rhum-durch-die-hoelle-ins-paradies-a-71ac061f-c5b7-4ab1-a67a-50bba606b2cd#ref=rss)
-### brandenburger
-
-* [https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor](https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor-a-b550e639-eb74-43ad-b478-c32c9a6b7efb#ref=rss)
-### tor
-
-* [https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor](https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor-a-b550e639-eb74-43ad-b478-c32c9a6b7efb#ref=rss)
-### überleben
-
-* [https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor](https://www.spiegel.de/panorama/letzte-generation-klimaaktivistinnen-demonstrieren-auf-brandenburger-tor-a-b550e639-eb74-43ad-b478-c32c9a6b7efb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
-### adidas
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/adidas-senkt-prognose-wegen-trennung-von-kanye-west](https://www.spiegel.de/wirtschaft/unternehmen/adidas-senkt-prognose-wegen-trennung-von-kanye-west-a-9d95587a-59b0-416f-8ae9-2d9d9a2a42c4#ref=rss)
-### mutterschutzgesetz
-
-* [https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht](https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht-a-700f1ba9-f1cc-4cd0-8599-6765ada6d1fb#ref=rss)
-### grundgesetz
-
-* [https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht](https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht-a-700f1ba9-f1cc-4cd0-8599-6765ada6d1fb#ref=rss)
-### beschwerde
-
-* [https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht](https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht-a-700f1ba9-f1cc-4cd0-8599-6765ada6d1fb#ref=rss)
-### bundesverfassungsgericht
-
-* [https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht](https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht-a-700f1ba9-f1cc-4cd0-8599-6765ada6d1fb#ref=rss)
-### erzielt
-
-* [https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht](https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht-a-700f1ba9-f1cc-4cd0-8599-6765ada6d1fb#ref=rss)
-* [https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania](https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania-a-a78526c4-4560-497a-9b92-f0b9d14db5f7#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht](https://www.spiegel.de/karriere/verstoesst-das-mutterschutzgesetz-gegen-das-grundgesetz-beschwerde-vor-bundesverfassungsgericht-a-700f1ba9-f1cc-4cd0-8599-6765ada6d1fb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
+* [https://www.spiegel.de/sport/formel1/schumachers-titel-ferrari-fuer-rekordpreis-von-13-millionen-euro-ersteigert](https://www.spiegel.de/sport/formel1/schumachers-titel-ferrari-fuer-rekordpreis-von-13-millionen-euro-ersteigert-a-2ec00676-a068-4e9b-95f2-c0b3e09288f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reform-bei-der-geburtshilfe-warum-die-hebammen-auf-den-barrikaden-sind](https://www.spiegel.de/politik/deutschland/reform-bei-der-geburtshilfe-warum-die-hebammen-auf-den-barrikaden-sind-a-cc3c5601-34c7-491c-bc9d-5f7dde153110#ref=rss)
 ### michael
 
-* [https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein](https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein-a-7cd0f57e-54e9-4456-8e7f-d63b23e992fd#ref=rss)
-### bully
+* [https://www.spiegel.de/sport/formel1/schumachers-titel-ferrari-fuer-rekordpreis-von-13-millionen-euro-ersteigert](https://www.spiegel.de/sport/formel1/schumachers-titel-ferrari-fuer-rekordpreis-von-13-millionen-euro-ersteigert-a-2ec00676-a068-4e9b-95f2-c0b3e09288f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen](https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen-a-1136e361-2ca7-44d2-9e85-5464be5e22c6#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein](https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein-a-7cd0f57e-54e9-4456-8e7f-d63b23e992fd#ref=rss)
-### herbig
+* [https://www.spiegel.de/politik/deutschland/reform-bei-der-geburtshilfe-warum-die-hebammen-auf-den-barrikaden-sind](https://www.spiegel.de/politik/deutschland/reform-bei-der-geburtshilfe-warum-die-hebammen-auf-den-barrikaden-sind-a-cc3c5601-34c7-491c-bc9d-5f7dde153110#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-ordnet-rueckzug-von-truppen-aus-teilen-von-cherson-an](https://www.spiegel.de/ausland/ukraine-russland-ordnet-rueckzug-von-truppen-aus-teilen-von-cherson-an-a-8ca44b92-1529-4f8a-a792-c59ae9d98db3#ref=rss)
+* [https://www.spiegel.de/kultur/tv/orf-tv-news-chefredakteur-matthias-schrom-tritt-zurueck](https://www.spiegel.de/kultur/tv/orf-tv-news-chefredakteur-matthias-schrom-tritt-zurueck-a-116f5bde-4e0d-47e2-a745-61c6b7daa853#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein](https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein-a-7cd0f57e-54e9-4456-8e7f-d63b23e992fd#ref=rss)
-### sebastian
+* [https://www.spiegel.de/wirtschaft/unternehmen/elmos-prueft-rechtliche-schritte-gegen-uebernahmeverbot](https://www.spiegel.de/wirtschaft/unternehmen/elmos-prueft-rechtliche-schritte-gegen-uebernahmeverbot-a-f54cc430-56a2-41c3-8021-ddc7dd2ec9ab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-gegen-vorschlag-der-wirtschaftsweisen-die-bundesregierung-wird-nicht-zusaetzlich-die-steuern-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-gegen-vorschlag-der-wirtschaftsweisen-die-bundesregierung-wird-nicht-zusaetzlich-die-steuern-erhoehen-a-e913a397-0647-4939-be20-e12fc71d3f12#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei](https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei-a-9107fe64-c225-4aaa-968f-3e60c097aa57#ref=rss)
+### 2022
 
-* [https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein](https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein-a-7cd0f57e-54e9-4456-8e7f-d63b23e992fd#ref=rss)
-### pufpaff
+* [https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden](https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden-a-520708a1-777f-452b-a3eb-2eaf60975260#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen](https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen-a-1136e361-2ca7-44d2-9e85-5464be5e22c6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/gewinner-des-social-design-awards-2022-uns-wird-oft-jede-form-von-intelligenz-abgesprochen](https://www.spiegel.de/wissenschaft/gewinner-des-social-design-awards-2022-uns-wird-oft-jede-form-von-intelligenz-abgesprochen-a-db3dbb53-6b7e-449c-86e4-b5ddc7f9cb80#ref=rss)
+### republikaner
 
-* [https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein](https://www.spiegel.de/kultur/tv/michael-bully-herbig-springt-bei-tv-total-fuer-sebastian-pufpaff-ein-a-7cd0f57e-54e9-4456-8e7f-d63b23e992fd#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden](https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden-a-520708a1-777f-452b-a3eb-2eaf60975260#ref=rss)
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-die-donald-trump-apokalypse-faellt-aus](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-die-donald-trump-apokalypse-faellt-aus-a-abbc10ac-2854-4334-9e65-674295a753a5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen](https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen-a-1136e361-2ca7-44d2-9e85-5464be5e22c6#ref=rss)
 ### florida
 
-* [https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump](https://www.spiegel.de/ausland/ron-desantis-in-florida-kampfansage-an-donald-trump-a-3503c0e8-4f37-4676-94b8-1b117776530f#ref=rss)
-### john
+* [https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden](https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden-a-520708a1-777f-452b-a3eb-2eaf60975260#ref=rss)
+* [https://www.spiegel.de/panorama/flughafen-kontrolleure-am-flughafen-finden-waffe-in-huehnchen](https://www.spiegel.de/panorama/flughafen-kontrolleure-am-flughafen-finden-waffe-in-huehnchen-a-a4f87836-d117-4287-9164-7cf9cbe117e9#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania](https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania-a-a78526c4-4560-497a-9b92-f0b9d14db5f7#ref=rss)
-### fetterman
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation-a-f82f1160-2215-47e4-a409-0d35d1d74a7e#ref=rss)
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-die-donald-trump-apokalypse-faellt-aus](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-die-donald-trump-apokalypse-faellt-aus-a-abbc10ac-2854-4334-9e65-674295a753a5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen](https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen-a-1136e361-2ca7-44d2-9e85-5464be5e22c6#ref=rss)
+### cop27
 
-* [https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania](https://www.spiegel.de/ausland/midterms-usa-john-fetterman-gewinnt-im-hart-umkaempften-pennsylvania-a-a78526c4-4560-497a-9b92-f0b9d14db5f7#ref=rss)
-### frankfurter
+* [https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz](https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz-a-88868680-e3d0-4034-80c0-50cefe8261ea#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop27-aegypten-so-viel-wollen-die-laender-fuer-loss-and-damage-ausgeben](https://www.spiegel.de/wissenschaft/cop27-aegypten-so-viel-wollen-die-laender-fuer-loss-and-damage-ausgeben-a-575b32f1-6fac-44b4-8e7f-6c129fb33e53#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop27-aegypten-wassermangel-bei-der-klimakonferenz](https://www.spiegel.de/wissenschaft/cop27-aegypten-wassermangel-bei-der-klimakonferenz-a-6e712f5d-6d65-49ab-bd22-a9176333cb0a#ref=rss)
+### statt
 
-* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
-### döner
+* [https://www.spiegel.de/panorama/flughafen-kontrolleure-am-flughafen-finden-waffe-in-huehnchen](https://www.spiegel.de/panorama/flughafen-kontrolleure-am-flughafen-finden-waffe-in-huehnchen-a-a4f87836-d117-4287-9164-7cf9cbe117e9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/gewinner-des-social-design-awards-2022-uns-wird-oft-jede-form-von-intelligenz-abgesprochen](https://www.spiegel.de/wissenschaft/gewinner-des-social-design-awards-2022-uns-wird-oft-jede-form-von-intelligenz-abgesprochen-a-db3dbb53-6b7e-449c-86e4-b5ddc7f9cb80#ref=rss)
+### fall
 
-* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
-### zehn
+* [https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei](https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei-a-9107fe64-c225-4aaa-968f-3e60c097aa57#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-fall-winfried-pilz-staatsanwaltschaft-ermittelt-gegen-kardinal](https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-fall-winfried-pilz-staatsanwaltschaft-ermittelt-gegen-kardinal-a-977ae730-d7b5-4359-aaf2-9d968ecaab64#ref=rss)
+### 13
 
-* [https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro](https://www.spiegel.de/wirtschaft/service/inflation-frankfurter-imbissbude-verlangt-fuer-einen-doener-zehn-euro-a-92decbd5-7b78-487f-bc88-5a6151eafa52#ref=rss)
-### auktion
+* [https://www.spiegel.de/sport/formel1/schumachers-titel-ferrari-fuer-rekordpreis-von-13-millionen-euro-ersteigert](https://www.spiegel.de/sport/formel1/schumachers-titel-ferrari-fuer-rekordpreis-von-13-millionen-euro-ersteigert-a-2ec00676-a068-4e9b-95f2-c0b3e09288f2#ref=rss)
+### euro
 
-* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
-### new
+* [https://www.spiegel.de/sport/formel1/schumachers-titel-ferrari-fuer-rekordpreis-von-13-millionen-euro-ersteigert](https://www.spiegel.de/sport/formel1/schumachers-titel-ferrari-fuer-rekordpreis-von-13-millionen-euro-ersteigert-a-2ec00676-a068-4e9b-95f2-c0b3e09288f2#ref=rss)
+### pläne
 
-* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reform-bei-der-geburtshilfe-warum-die-hebammen-auf-den-barrikaden-sind](https://www.spiegel.de/politik/deutschland/reform-bei-der-geburtshilfe-warum-die-hebammen-auf-den-barrikaden-sind-a-cc3c5601-34c7-491c-bc9d-5f7dde153110#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz](https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz-a-88868680-e3d0-4034-80c0-50cefe8261ea#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/politik/deutschland/reform-bei-der-geburtshilfe-warum-die-hebammen-auf-den-barrikaden-sind](https://www.spiegel.de/politik/deutschland/reform-bei-der-geburtshilfe-warum-die-hebammen-auf-den-barrikaden-sind-a-cc3c5601-34c7-491c-bc9d-5f7dde153110#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/elmos-prueft-rechtliche-schritte-gegen-uebernahmeverbot](https://www.spiegel.de/wirtschaft/unternehmen/elmos-prueft-rechtliche-schritte-gegen-uebernahmeverbot-a-f54cc430-56a2-41c3-8021-ddc7dd2ec9ab#ref=rss)
+### ordnet
+
+* [https://www.spiegel.de/ausland/frankreich-parlament-ordnet-sakko-zwang-fuer-maennliche-abgeordnete-an](https://www.spiegel.de/ausland/frankreich-parlament-ordnet-sakko-zwang-fuer-maennliche-abgeordnete-an-a-761a781a-9145-4ba6-8304-b807ebffd314#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-ordnet-rueckzug-von-truppen-aus-teilen-von-cherson-an](https://www.spiegel.de/ausland/ukraine-russland-ordnet-rueckzug-von-truppen-aus-teilen-von-cherson-an-a-8ca44b92-1529-4f8a-a792-c59ae9d98db3#ref=rss)
+### abgeordnete
+
+* [https://www.spiegel.de/ausland/frankreich-parlament-ordnet-sakko-zwang-fuer-maennliche-abgeordnete-an](https://www.spiegel.de/ausland/frankreich-parlament-ordnet-sakko-zwang-fuer-maennliche-abgeordnete-an-a-761a781a-9145-4ba6-8304-b807ebffd314#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei](https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei-a-9107fe64-c225-4aaa-968f-3e60c097aa57#ref=rss)
+### elmos
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/elmos-prueft-rechtliche-schritte-gegen-uebernahmeverbot](https://www.spiegel.de/wirtschaft/unternehmen/elmos-prueft-rechtliche-schritte-gegen-uebernahmeverbot-a-f54cc430-56a2-41c3-8021-ddc7dd2ec9ab#ref=rss)
+### unternehmens
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/elmos-prueft-rechtliche-schritte-gegen-uebernahmeverbot](https://www.spiegel.de/wirtschaft/unternehmen/elmos-prueft-rechtliche-schritte-gegen-uebernahmeverbot-a-f54cc430-56a2-41c3-8021-ddc7dd2ec9ab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei](https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei-a-9107fe64-c225-4aaa-968f-3e60c097aa57#ref=rss)
+### midterms
+
+* [https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden](https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden-a-520708a1-777f-452b-a3eb-2eaf60975260#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen](https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen-a-1136e361-2ca7-44d2-9e85-5464be5e22c6#ref=rss)
+### datenanalyse
+
+* [https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden](https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden-a-520708a1-777f-452b-a3eb-2eaf60975260#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden](https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden-a-520708a1-777f-452b-a3eb-2eaf60975260#ref=rss)
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-die-donald-trump-apokalypse-faellt-aus](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-die-donald-trump-apokalypse-faellt-aus-a-abbc10ac-2854-4334-9e65-674295a753a5#ref=rss)
+### streit
+
+* [https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden](https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden-a-520708a1-777f-452b-a3eb-2eaf60975260#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet](https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet-a-c6f8d634-d6e5-4371-a0c3-6a0f56a8750e#ref=rss)
+### ergebnis
+
+* [https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden](https://www.spiegel.de/ausland/midterms-2022-in-der-datenanalyse-wie-die-zwischenwahlen-in-den-usa-entschieden-wurden-a-520708a1-777f-452b-a3eb-2eaf60975260#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen](https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen-a-1136e361-2ca7-44d2-9e85-5464be5e22c6#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-gegen-vorschlag-der-wirtschaftsweisen-die-bundesregierung-wird-nicht-zusaetzlich-die-steuern-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-gegen-vorschlag-der-wirtschaftsweisen-die-bundesregierung-wird-nicht-zusaetzlich-die-steuern-erhoehen-a-e913a397-0647-4939-be20-e12fc71d3f12#ref=rss)
+### wirtschaftsweisen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-gegen-vorschlag-der-wirtschaftsweisen-die-bundesregierung-wird-nicht-zusaetzlich-die-steuern-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-gegen-vorschlag-der-wirtschaftsweisen-die-bundesregierung-wird-nicht-zusaetzlich-die-steuern-erhoehen-a-e913a397-0647-4939-be20-e12fc71d3f12#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-gegen-vorschlag-der-wirtschaftsweisen-die-bundesregierung-wird-nicht-zusaetzlich-die-steuern-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-gegen-vorschlag-der-wirtschaftsweisen-die-bundesregierung-wird-nicht-zusaetzlich-die-steuern-erhoehen-a-e913a397-0647-4939-be20-e12fc71d3f12#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-moore-sollen-kuenftig-besser-geschuetzt-werden](https://www.spiegel.de/wissenschaft/klimawandel-moore-sollen-kuenftig-besser-geschuetzt-werden-a-2ce3c74e-446d-4483-8d8e-d40b28676157#ref=rss)
+### fällt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-gegen-vorschlag-der-wirtschaftsweisen-die-bundesregierung-wird-nicht-zusaetzlich-die-steuern-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/christian-lindner-gegen-vorschlag-der-wirtschaftsweisen-die-bundesregierung-wird-nicht-zusaetzlich-die-steuern-erhoehen-a-e913a397-0647-4939-be20-e12fc71d3f12#ref=rss)
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-die-donald-trump-apokalypse-faellt-aus](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-die-donald-trump-apokalypse-faellt-aus-a-abbc10ac-2854-4334-9e65-674295a753a5#ref=rss)
+### midtermwahlen
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation-a-f82f1160-2215-47e4-a409-0d35d1d74a7e#ref=rss)
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-die-donald-trump-apokalypse-faellt-aus](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-die-donald-trump-apokalypse-faellt-aus-a-abbc10ac-2854-4334-9e65-674295a753a5#ref=rss)
+### ron
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation-a-f82f1160-2215-47e4-a409-0d35d1d74a7e#ref=rss)
+### desantis
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation-a-f82f1160-2215-47e4-a409-0d35d1d74a7e#ref=rss)
+### kindergeld
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation-a-f82f1160-2215-47e4-a409-0d35d1d74a7e#ref=rss)
+### letzte
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation-a-f82f1160-2215-47e4-a409-0d35d1d74a7e#ref=rss)
+* [https://www.spiegel.de/panorama/letzte-generation-in-berlin-blockaden-der-klimaaktivisten-koennten-doch-einfluss-auf-rettungseinsatz-gehabt-haben](https://www.spiegel.de/panorama/letzte-generation-in-berlin-blockaden-der-klimaaktivisten-koennten-doch-einfluss-auf-rettungseinsatz-gehabt-haben-a-6d6d592e-4e55-447e-a04a-cb680aa98505#ref=rss)
+### generation
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation-a-f82f1160-2215-47e4-a409-0d35d1d74a7e#ref=rss)
+* [https://www.spiegel.de/panorama/letzte-generation-in-berlin-blockaden-der-klimaaktivisten-koennten-doch-einfluss-auf-rettungseinsatz-gehabt-haben](https://www.spiegel.de/panorama/letzte-generation-in-berlin-blockaden-der-klimaaktivisten-koennten-doch-einfluss-auf-rettungseinsatz-gehabt-haben-a-6d6d592e-4e55-447e-a04a-cb680aa98505#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation-a-f82f1160-2215-47e4-a409-0d35d1d74a7e#ref=rss)
+* [https://www.spiegel.de/panorama/letzte-generation-in-berlin-blockaden-der-klimaaktivisten-koennten-doch-einfluss-auf-rettungseinsatz-gehabt-haben](https://www.spiegel.de/panorama/letzte-generation-in-berlin-blockaden-der-klimaaktivisten-koennten-doch-einfluss-auf-rettungseinsatz-gehabt-haben-a-6d6d592e-4e55-447e-a04a-cb680aa98505#ref=rss)
+### radfahrerin
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-midterm-wahlen-ron-desantis-kindergeld-letzte-generation-a-f82f1160-2215-47e4-a409-0d35d1d74a7e#ref=rss)
+* [https://www.spiegel.de/panorama/letzte-generation-in-berlin-blockaden-der-klimaaktivisten-koennten-doch-einfluss-auf-rettungseinsatz-gehabt-haben](https://www.spiegel.de/panorama/letzte-generation-in-berlin-blockaden-der-klimaaktivisten-koennten-doch-einfluss-auf-rettungseinsatz-gehabt-haben-a-6d6d592e-4e55-447e-a04a-cb680aa98505#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/energiekrise-auf-der-zugspitze-kalte-hintern-und-laengere-wartezeiten-in-der-skisaison](https://www.spiegel.de/panorama/energiekrise-auf-der-zugspitze-kalte-hintern-und-laengere-wartezeiten-in-der-skisaison-a-75507b33-79d1-470a-83af-0535f4cb65f5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen](https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen-a-1136e361-2ca7-44d2-9e85-5464be5e22c6#ref=rss)
+### werner
+
+* [https://www.spiegel.de/politik/deutschland/reaktionen-zum-tod-von-werner-schulz-ein-ostdeutscher-von-herkunft-ein-gesamtdeutscher-im-herzen](https://www.spiegel.de/politik/deutschland/reaktionen-zum-tod-von-werner-schulz-ein-ostdeutscher-von-herkunft-ein-gesamtdeutscher-im-herzen-a-fb47813a-c829-429d-a66d-b7b2591a1966#ref=rss)
+### schulz
+
+* [https://www.spiegel.de/politik/deutschland/reaktionen-zum-tod-von-werner-schulz-ein-ostdeutscher-von-herkunft-ein-gesamtdeutscher-im-herzen](https://www.spiegel.de/politik/deutschland/reaktionen-zum-tod-von-werner-schulz-ein-ostdeutscher-von-herkunft-ein-gesamtdeutscher-im-herzen-a-fb47813a-c829-429d-a66d-b7b2591a1966#ref=rss)
+### politiker
+
+* [https://www.spiegel.de/politik/deutschland/reaktionen-zum-tod-von-werner-schulz-ein-ostdeutscher-von-herkunft-ein-gesamtdeutscher-im-herzen](https://www.spiegel.de/politik/deutschland/reaktionen-zum-tod-von-werner-schulz-ein-ostdeutscher-von-herkunft-ein-gesamtdeutscher-im-herzen-a-fb47813a-c829-429d-a66d-b7b2591a1966#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz](https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz-a-88868680-e3d0-4034-80c0-50cefe8261ea#ref=rss)
+### stoßen
+
+* [https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz](https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz-a-88868680-e3d0-4034-80c0-50cefe8261ea#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-moore-sollen-kuenftig-besser-geschuetzt-werden](https://www.spiegel.de/wissenschaft/klimawandel-moore-sollen-kuenftig-besser-geschuetzt-werden-a-2ce3c74e-446d-4483-8d8e-d40b28676157#ref=rss)
+### weltklimakonferenz
+
+* [https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz](https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz-a-88868680-e3d0-4034-80c0-50cefe8261ea#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop27-aegypten-wassermangel-bei-der-klimakonferenz](https://www.spiegel.de/wissenschaft/cop27-aegypten-wassermangel-bei-der-klimakonferenz-a-6e712f5d-6d65-49ab-bd22-a9176333cb0a#ref=rss)
+### ganz
+
+* [https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz](https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz-a-88868680-e3d0-4034-80c0-50cefe8261ea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet](https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet-a-c6f8d634-d6e5-4371-a0c3-6a0f56a8750e#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz](https://www.spiegel.de/wissenschaft/natur/cop27-videoanalyse-zu-deutschlands-auftritt-bei-der-weltklimakonferenz-a-88868680-e3d0-4034-80c0-50cefe8261ea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei](https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei-a-9107fe64-c225-4aaa-968f-3e60c097aa57#ref=rss)
+### finden
+
+* [https://www.spiegel.de/panorama/flughafen-kontrolleure-am-flughafen-finden-waffe-in-huehnchen](https://www.spiegel.de/panorama/flughafen-kontrolleure-am-flughafen-finden-waffe-in-huehnchen-a-a4f87836-d117-4287-9164-7cf9cbe117e9#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/podcast-eine-raetselhafte-patientin-ihr-wunder-koerper](https://www.spiegel.de/gesundheit/diagnose/podcast-eine-raetselhafte-patientin-ihr-wunder-koerper-a-47b1e7a3-8f83-4d01-975b-1527a3fbdcd8#ref=rss)
+### waffe
+
+* [https://www.spiegel.de/panorama/flughafen-kontrolleure-am-flughafen-finden-waffe-in-huehnchen](https://www.spiegel.de/panorama/flughafen-kontrolleure-am-flughafen-finden-waffe-in-huehnchen-a-a4f87836-d117-4287-9164-7cf9cbe117e9#ref=rss)
+### zukunft
+
+* [https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-die-donald-trump-apokalypse-faellt-aus](https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-die-donald-trump-apokalypse-faellt-aus-a-abbc10ac-2854-4334-9e65-674295a753a5#ref=rss)
+* [https://www.spiegel.de/kultur/crimes-of-the-future-von-david-cronenberg-erfuehler-des-schreckens](https://www.spiegel.de/kultur/crimes-of-the-future-von-david-cronenberg-erfuehler-des-schreckens-a-04bbbdae-c57a-4eb0-a628-5f29a9aaaa9c#ref=rss)
+### charles
+
+* [https://www.spiegel.de/panorama/leute/king-charles-iii-in-york-mit-eiern-beworfen-koenig-im-kreuzfeuer](https://www.spiegel.de/panorama/leute/king-charles-iii-in-york-mit-eiern-beworfen-koenig-im-kreuzfeuer-a-b7bdfff9-782a-4ffe-8caf-c5c118e27876#ref=rss)
+### iii
+
+* [https://www.spiegel.de/panorama/leute/king-charles-iii-in-york-mit-eiern-beworfen-koenig-im-kreuzfeuer](https://www.spiegel.de/panorama/leute/king-charles-iii-in-york-mit-eiern-beworfen-koenig-im-kreuzfeuer-a-b7bdfff9-782a-4ffe-8caf-c5c118e27876#ref=rss)
 ### york
 
-* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
-### versteigert
+* [https://www.spiegel.de/panorama/leute/king-charles-iii-in-york-mit-eiern-beworfen-koenig-im-kreuzfeuer](https://www.spiegel.de/panorama/leute/king-charles-iii-in-york-mit-eiern-beworfen-koenig-im-kreuzfeuer-a-b7bdfff9-782a-4ffe-8caf-c5c118e27876#ref=rss)
+### eiern
 
-* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
-### schädel
+* [https://www.spiegel.de/panorama/leute/king-charles-iii-in-york-mit-eiern-beworfen-koenig-im-kreuzfeuer](https://www.spiegel.de/panorama/leute/king-charles-iii-in-york-mit-eiern-beworfen-koenig-im-kreuzfeuer-a-b7bdfff9-782a-4ffe-8caf-c5c118e27876#ref=rss)
+### ägypten
 
-* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
-### tyrannosaurus
+* [https://www.spiegel.de/wissenschaft/cop27-aegypten-so-viel-wollen-die-laender-fuer-loss-and-damage-ausgeben](https://www.spiegel.de/wissenschaft/cop27-aegypten-so-viel-wollen-die-laender-fuer-loss-and-damage-ausgeben-a-575b32f1-6fac-44b4-8e7f-6c129fb33e53#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop27-aegypten-wassermangel-bei-der-klimakonferenz](https://www.spiegel.de/wissenschaft/cop27-aegypten-wassermangel-bei-der-klimakonferenz-a-6e712f5d-6d65-49ab-bd22-a9176333cb0a#ref=rss)
+### folgen
 
-* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
-### rex
+* [https://www.spiegel.de/wissenschaft/cop27-aegypten-so-viel-wollen-die-laender-fuer-loss-and-damage-ausgeben](https://www.spiegel.de/wissenschaft/cop27-aegypten-so-viel-wollen-die-laender-fuer-loss-and-damage-ausgeben-a-575b32f1-6fac-44b4-8e7f-6c129fb33e53#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen](https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen-a-1136e361-2ca7-44d2-9e85-5464be5e22c6#ref=rss)
+### länder
 
-* [https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex](https://www.spiegel.de/panorama/auktion-in-new-york-sotheby-s-versteigert-schaedel-eines-tyrannosaurus-rex-a-45506afb-7e53-44f1-8aba-22358dedebc3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop27-aegypten-so-viel-wollen-die-laender-fuer-loss-and-damage-ausgeben](https://www.spiegel.de/wissenschaft/cop27-aegypten-so-viel-wollen-die-laender-fuer-loss-and-damage-ausgeben-a-575b32f1-6fac-44b4-8e7f-6c129fb33e53#ref=rss)
+### teil
+
+* [https://www.spiegel.de/wissenschaft/cop27-aegypten-so-viel-wollen-die-laender-fuer-loss-and-damage-ausgeben](https://www.spiegel.de/wissenschaft/cop27-aegypten-so-viel-wollen-die-laender-fuer-loss-and-damage-ausgeben-a-575b32f1-6fac-44b4-8e7f-6c129fb33e53#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-ordnet-rueckzug-von-truppen-aus-teilen-von-cherson-an](https://www.spiegel.de/ausland/ukraine-russland-ordnet-rueckzug-von-truppen-aus-teilen-von-cherson-an-a-8ca44b92-1529-4f8a-a792-c59ae9d98db3#ref=rss)
+### wintershall
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei](https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei-a-9107fe64-c225-4aaa-968f-3e60c097aa57#ref=rss)
+### dea
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei](https://www.spiegel.de/wirtschaft/unternehmen/druck-auf-wintershall-dea-waechst-boese-mischung-von-gier-und-heuchelei-a-9107fe64-c225-4aaa-968f-3e60c097aa57#ref=rss)
+### co₂abgabe
+
+* [https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet](https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet-a-c6f8d634-d6e5-4371-a0c3-6a0f56a8750e#ref=rss)
+### fürs
+
+* [https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet](https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet-a-c6f8d634-d6e5-4371-a0c3-6a0f56a8750e#ref=rss)
+### heizen
+
+* [https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet](https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet-a-c6f8d634-d6e5-4371-a0c3-6a0f56a8750e#ref=rss)
+### stark
+
+* [https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet](https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet-a-c6f8d634-d6e5-4371-a0c3-6a0f56a8750e#ref=rss)
+* [https://www.spiegel.de/gesundheit/diagnose/podcast-eine-raetselhafte-patientin-ihr-wunder-koerper](https://www.spiegel.de/gesundheit/diagnose/podcast-eine-raetselhafte-patientin-ihr-wunder-koerper-a-47b1e7a3-8f83-4d01-975b-1527a3fbdcd8#ref=rss)
+### mieter
+
+* [https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet](https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet-a-c6f8d634-d6e5-4371-a0c3-6a0f56a8750e#ref=rss)
+### entlastet
+
+* [https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet](https://www.spiegel.de/wirtschaft/service/so-stark-werden-mieter-beim-co-preis-entlastet-a-c6f8d634-d6e5-4371-a0c3-6a0f56a8750e#ref=rss)
+### crimes
+
+* [https://www.spiegel.de/kultur/crimes-of-the-future-von-david-cronenberg-erfuehler-des-schreckens](https://www.spiegel.de/kultur/crimes-of-the-future-von-david-cronenberg-erfuehler-des-schreckens-a-04bbbdae-c57a-4eb0-a628-5f29a9aaaa9c#ref=rss)
+### of
+
+* [https://www.spiegel.de/kultur/crimes-of-the-future-von-david-cronenberg-erfuehler-des-schreckens](https://www.spiegel.de/kultur/crimes-of-the-future-von-david-cronenberg-erfuehler-des-schreckens-a-04bbbdae-c57a-4eb0-a628-5f29a9aaaa9c#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/crimes-of-the-future-von-david-cronenberg-erfuehler-des-schreckens](https://www.spiegel.de/kultur/crimes-of-the-future-von-david-cronenberg-erfuehler-des-schreckens-a-04bbbdae-c57a-4eb0-a628-5f29a9aaaa9c#ref=rss)
+### future
+
+* [https://www.spiegel.de/kultur/crimes-of-the-future-von-david-cronenberg-erfuehler-des-schreckens](https://www.spiegel.de/kultur/crimes-of-the-future-von-david-cronenberg-erfuehler-des-schreckens-a-04bbbdae-c57a-4eb0-a628-5f29a9aaaa9c#ref=rss)
+### evangelische
+
+* [https://www.spiegel.de/auto/im-auftrag-des-herrn-unterwegs-mit-hoechstens-100-stundenkilometern](https://www.spiegel.de/auto/im-auftrag-des-herrn-unterwegs-mit-hoechstens-100-stundenkilometern-a-fb9cd878-d31d-41eb-aa17-4998694db0cf#ref=rss)
+### kirche
+
+* [https://www.spiegel.de/auto/im-auftrag-des-herrn-unterwegs-mit-hoechstens-100-stundenkilometern](https://www.spiegel.de/auto/im-auftrag-des-herrn-unterwegs-mit-hoechstens-100-stundenkilometern-a-fb9cd878-d31d-41eb-aa17-4998694db0cf#ref=rss)
+### 100
+
+* [https://www.spiegel.de/auto/im-auftrag-des-herrn-unterwegs-mit-hoechstens-100-stundenkilometern](https://www.spiegel.de/auto/im-auftrag-des-herrn-unterwegs-mit-hoechstens-100-stundenkilometern-a-fb9cd878-d31d-41eb-aa17-4998694db0cf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ex-wirecard-chef-markus-braun-strafprozess-beginnt-am-8-dezember](https://www.spiegel.de/wirtschaft/unternehmen/ex-wirecard-chef-markus-braun-strafprozess-beginnt-am-8-dezember-a-b770b829-5b91-4e48-9c8b-f831e7c3a86e#ref=rss)
+### hätte
+
+* [https://www.spiegel.de/panorama/letzte-generation-in-berlin-blockaden-der-klimaaktivisten-koennten-doch-einfluss-auf-rettungseinsatz-gehabt-haben](https://www.spiegel.de/panorama/letzte-generation-in-berlin-blockaden-der-klimaaktivisten-koennten-doch-einfluss-auf-rettungseinsatz-gehabt-haben-a-6d6d592e-4e55-447e-a04a-cb680aa98505#ref=rss)
+### link
+
+* [https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen](https://www.spiegel.de/politik/deutschland/deutscher-transatlantik-koordinator-link-zu-folgen-der-us-wahlen-der-druck-auf-deutschland-in-der-panzerfrage-wird-zunehmen-a-1136e361-2ca7-44d2-9e85-5464be5e22c6#ref=rss)
+### truppen
+
+* [https://www.spiegel.de/ausland/ukraine-russland-ordnet-rueckzug-von-truppen-aus-teilen-von-cherson-an](https://www.spiegel.de/ausland/ukraine-russland-ordnet-rueckzug-von-truppen-aus-teilen-von-cherson-an-a-8ca44b92-1529-4f8a-a792-c59ae9d98db3#ref=rss)
+### cherson
+
+* [https://www.spiegel.de/ausland/ukraine-russland-ordnet-rueckzug-von-truppen-aus-teilen-von-cherson-an](https://www.spiegel.de/ausland/ukraine-russland-ordnet-rueckzug-von-truppen-aus-teilen-von-cherson-an-a-8ca44b92-1529-4f8a-a792-c59ae9d98db3#ref=rss)
+### gewinner
+
+* [https://www.spiegel.de/wissenschaft/gewinner-des-social-design-awards-2022-uns-wird-oft-jede-form-von-intelligenz-abgesprochen](https://www.spiegel.de/wissenschaft/gewinner-des-social-design-awards-2022-uns-wird-oft-jede-form-von-intelligenz-abgesprochen-a-db3dbb53-6b7e-449c-86e4-b5ddc7f9cb80#ref=rss)
+### social
+
+* [https://www.spiegel.de/wissenschaft/gewinner-des-social-design-awards-2022-uns-wird-oft-jede-form-von-intelligenz-abgesprochen](https://www.spiegel.de/wissenschaft/gewinner-des-social-design-awards-2022-uns-wird-oft-jede-form-von-intelligenz-abgesprochen-a-db3dbb53-6b7e-449c-86e4-b5ddc7f9cb80#ref=rss)
+### design
+
+* [https://www.spiegel.de/wissenschaft/gewinner-des-social-design-awards-2022-uns-wird-oft-jede-form-von-intelligenz-abgesprochen](https://www.spiegel.de/wissenschaft/gewinner-des-social-design-awards-2022-uns-wird-oft-jede-form-von-intelligenz-abgesprochen-a-db3dbb53-6b7e-449c-86e4-b5ddc7f9cb80#ref=rss)
+### patientin
+
+* [https://www.spiegel.de/gesundheit/diagnose/podcast-eine-raetselhafte-patientin-ihr-wunder-koerper](https://www.spiegel.de/gesundheit/diagnose/podcast-eine-raetselhafte-patientin-ihr-wunder-koerper-a-47b1e7a3-8f83-4d01-975b-1527a3fbdcd8#ref=rss)
+### woelki
+
+* [https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-fall-winfried-pilz-staatsanwaltschaft-ermittelt-gegen-kardinal](https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-fall-winfried-pilz-staatsanwaltschaft-ermittelt-gegen-kardinal-a-977ae730-d7b5-4359-aaf2-9d968ecaab64#ref=rss)
+### pilz
+
+* [https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-fall-winfried-pilz-staatsanwaltschaft-ermittelt-gegen-kardinal](https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-fall-winfried-pilz-staatsanwaltschaft-ermittelt-gegen-kardinal-a-977ae730-d7b5-4359-aaf2-9d968ecaab64#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-fall-winfried-pilz-staatsanwaltschaft-ermittelt-gegen-kardinal](https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-fall-winfried-pilz-staatsanwaltschaft-ermittelt-gegen-kardinal-a-977ae730-d7b5-4359-aaf2-9d968ecaab64#ref=rss)
+### kardinal
+
+* [https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-fall-winfried-pilz-staatsanwaltschaft-ermittelt-gegen-kardinal](https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-fall-winfried-pilz-staatsanwaltschaft-ermittelt-gegen-kardinal-a-977ae730-d7b5-4359-aaf2-9d968ecaab64#ref=rss)
+### ermittlungen
+
+* [https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-fall-winfried-pilz-staatsanwaltschaft-ermittelt-gegen-kardinal](https://www.spiegel.de/panorama/justiz/rainer-maria-woelki-fall-winfried-pilz-staatsanwaltschaft-ermittelt-gegen-kardinal-a-977ae730-d7b5-4359-aaf2-9d968ecaab64#ref=rss)
+* [https://www.spiegel.de/kultur/tv/orf-tv-news-chefredakteur-matthias-schrom-tritt-zurueck](https://www.spiegel.de/kultur/tv/orf-tv-news-chefredakteur-matthias-schrom-tritt-zurueck-a-116f5bde-4e0d-47e2-a745-61c6b7daa853#ref=rss)
+### matthias
+
+* [https://www.spiegel.de/kultur/tv/orf-tv-news-chefredakteur-matthias-schrom-tritt-zurueck](https://www.spiegel.de/kultur/tv/orf-tv-news-chefredakteur-matthias-schrom-tritt-zurueck-a-116f5bde-4e0d-47e2-a745-61c6b7daa853#ref=rss)
+### schrom
+
+* [https://www.spiegel.de/kultur/tv/orf-tv-news-chefredakteur-matthias-schrom-tritt-zurueck](https://www.spiegel.de/kultur/tv/orf-tv-news-chefredakteur-matthias-schrom-tritt-zurueck-a-116f5bde-4e0d-47e2-a745-61c6b7daa853#ref=rss)
+### markus
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ex-wirecard-chef-markus-braun-strafprozess-beginnt-am-8-dezember](https://www.spiegel.de/wirtschaft/unternehmen/ex-wirecard-chef-markus-braun-strafprozess-beginnt-am-8-dezember-a-b770b829-5b91-4e48-9c8b-f831e7c3a86e#ref=rss)
+### braun
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ex-wirecard-chef-markus-braun-strafprozess-beginnt-am-8-dezember](https://www.spiegel.de/wirtschaft/unternehmen/ex-wirecard-chef-markus-braun-strafprozess-beginnt-am-8-dezember-a-b770b829-5b91-4e48-9c8b-f831e7c3a86e#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ex-wirecard-chef-markus-braun-strafprozess-beginnt-am-8-dezember](https://www.spiegel.de/wirtschaft/unternehmen/ex-wirecard-chef-markus-braun-strafprozess-beginnt-am-8-dezember-a-b770b829-5b91-4e48-9c8b-f831e7c3a86e#ref=rss)
+### moore
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-moore-sollen-kuenftig-besser-geschuetzt-werden](https://www.spiegel.de/wissenschaft/klimawandel-moore-sollen-kuenftig-besser-geschuetzt-werden-a-2ce3c74e-446d-4483-8d8e-d40b28676157#ref=rss)
 
