@@ -4,286 +4,291 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### usa
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/basf-siemens-bosch-deutsche-konzern-chefs-warnen-vor-rueckzug-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/basf-siemens-bosch-deutsche-konzern-chefs-warnen-vor-rueckzug-aus-china-a-278aacda-c58b-4641-b73d-fcbc3e2927a0#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen](https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen-a-232cf550-0909-4fed-abec-bd1edc27d4cf#ref=rss)
-* [https://www.spiegel.de/ausland/iranischer-aussenminister-hussein-amirabdollahian-droht-deutschland](https://www.spiegel.de/ausland/iranischer-aussenminister-hussein-amirabdollahian-droht-deutschland-a-865c821a-53b6-4008-aba0-c48f3934d1f8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energie-krise-verfassungsgericht-stoppt-windrad-verbot-in-thueringens-waeldern](https://www.spiegel.de/wirtschaft/energie-krise-verfassungsgericht-stoppt-windrad-verbot-in-thueringens-waeldern-a-e11fc00b-02ef-42f3-a34d-638a5c45d6a5#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/influenza-die-grippewelle-hat-begonnen](https://www.spiegel.de/gesundheit/diagnose/influenza-die-grippewelle-hat-begonnen-a-5d410ac6-f452-401d-8f03-4197f31aed83#ref=rss)
-* [https://www.spiegel.de/karriere/weihnachtsgeld-analyse-tarifbeschaeftigte-bekommen-mehr](https://www.spiegel.de/karriere/weihnachtsgeld-analyse-tarifbeschaeftigte-bekommen-mehr-a-4b0ea699-2f7b-438d-8838-4ec297a19f20#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/energiewende-mit-solarstrom-wie-china-uns-erpressen-kann-podcast](https://www.spiegel.de/politik/deutschland/energiewende-mit-solarstrom-wie-china-uns-erpressen-kann-podcast-a-a5096898-d650-4dd9-beed-2fc817c21d4c#ref=rss)
-### viele
-
-* [https://www.spiegel.de/reise/klima-fussabdruck-des-urlaubs-der-verein-klimalink-will-nachhaltiges-reisen-einfacher-machen](https://www.spiegel.de/reise/klima-fussabdruck-des-urlaubs-der-verein-klimalink-will-nachhaltiges-reisen-einfacher-machen-a-aa828377-5c49-455e-8f50-88dca424af7c#ref=rss)
-* [https://www.spiegel.de/ausland/franzoesische-justiz-ermittelt-wegen-arbeitsbedingungen-in-katar](https://www.spiegel.de/ausland/franzoesische-justiz-ermittelt-wegen-arbeitsbedingungen-in-katar-a-9b9284eb-ff28-44c5-9638-193d81ff9796#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen](https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen-a-232cf550-0909-4fed-abec-bd1edc27d4cf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden](https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden-a-46fd2da3-2442-4020-abbd-741ff3d1b59d#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/influenza-die-grippewelle-hat-begonnen](https://www.spiegel.de/gesundheit/diagnose/influenza-die-grippewelle-hat-begonnen-a-5d410ac6-f452-401d-8f03-4197f31aed83#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-diese-stars-fahren-nicht-zum-turnier](https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-diese-stars-fahren-nicht-zum-turnier-a-2b7cb5cc-72d6-4e97-be76-458ccaa8e3a9#ref=rss)
-* [https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat](https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat-a-4327b190-a6c5-4c2b-aeca-61b227e563b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6](https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6-a-43e5eebc-bba8-4fc2-98d2-5db4db45b585#ref=rss)
-### katar
-
-* [https://www.spiegel.de/ausland/franzoesische-justiz-ermittelt-wegen-arbeitsbedingungen-in-katar](https://www.spiegel.de/ausland/franzoesische-justiz-ermittelt-wegen-arbeitsbedingungen-in-katar-a-9b9284eb-ff28-44c5-9638-193d81ff9796#ref=rss)
-* [https://www.spiegel.de/sport/fussball/katars-wm-botschafter-rechtfertigt-homophobe-aeusserungen](https://www.spiegel.de/sport/fussball/katars-wm-botschafter-rechtfertigt-homophobe-aeusserungen-a-b09f3e42-14ff-4d8e-8eb1-d0e599e0979a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-diese-stars-fahren-nicht-zum-turnier](https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-diese-stars-fahren-nicht-zum-turnier-a-2b7cb5cc-72d6-4e97-be76-458ccaa8e3a9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6](https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6-a-43e5eebc-bba8-4fc2-98d2-5db4db45b585#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/basf-siemens-bosch-deutsche-konzern-chefs-warnen-vor-rueckzug-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/basf-siemens-bosch-deutsche-konzern-chefs-warnen-vor-rueckzug-aus-china-a-278aacda-c58b-4641-b73d-fcbc3e2927a0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/energiewende-mit-solarstrom-wie-china-uns-erpressen-kann-podcast](https://www.spiegel.de/politik/deutschland/energiewende-mit-solarstrom-wie-china-uns-erpressen-kann-podcast-a-a5096898-d650-4dd9-beed-2fc817c21d4c#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/franzoesische-justiz-ermittelt-wegen-arbeitsbedingungen-in-katar](https://www.spiegel.de/ausland/franzoesische-justiz-ermittelt-wegen-arbeitsbedingungen-in-katar-a-9b9284eb-ff28-44c5-9638-193d81ff9796#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen](https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen-a-232cf550-0909-4fed-abec-bd1edc27d4cf#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/influenza-die-grippewelle-hat-begonnen](https://www.spiegel.de/gesundheit/diagnose/influenza-die-grippewelle-hat-begonnen-a-5d410ac6-f452-401d-8f03-4197f31aed83#ref=rss)
-* [https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat](https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat-a-4327b190-a6c5-4c2b-aeca-61b227e563b2#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-einfuehrung-des-buergergelds](https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-einfuehrung-des-buergergelds-a-772ac8ce-3f8c-4e6c-a1b1-88f627a5942d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-fahrgastverband-pro-bahn-fordert-mehr-steuergeld-fuers-deutschlandticket](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-fahrgastverband-pro-bahn-fordert-mehr-steuergeld-fuers-deutschlandticket-a-b8143d1e-82d9-470c-8728-bc79cb4b72b9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/katars-wm-botschafter-rechtfertigt-homophobe-aeusserungen](https://www.spiegel.de/sport/fussball/katars-wm-botschafter-rechtfertigt-homophobe-aeusserungen-a-b09f3e42-14ff-4d8e-8eb1-d0e599e0979a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6](https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6-a-43e5eebc-bba8-4fc2-98d2-5db4db45b585#ref=rss)
+* [https://www.spiegel.de/panorama/leute/michelle-obama-schildert-in-neuem-buch-das-licht-in-uns-bewaeltigungsstrategien](https://www.spiegel.de/panorama/leute/michelle-obama-schildert-in-neuem-buch-das-licht-in-uns-bewaeltigungsstrategien-a-efb6258e-2121-4f72-be7c-bedfc9564030#ref=rss)
+* [https://www.spiegel.de/kultur/midterms-usa-wie-j-d-vance-zum-donald-trump-versteher-wurde](https://www.spiegel.de/kultur/midterms-usa-wie-j-d-vance-zum-donald-trump-versteher-wurde-a-c534c588-3e3c-4221-8733-e2a1bae8b96d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-inflationsrate-in-den-usa-deutlicher-zurueckgegangen-als-erwartet](https://www.spiegel.de/wirtschaft/usa-inflationsrate-in-den-usa-deutlicher-zurueckgegangen-als-erwartet-a-a68069e4-92f1-412b-ae95-536b70c364fb#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/energie-krise-verfassungsgericht-stoppt-windrad-verbot-in-thueringens-waeldern](https://www.spiegel.de/wirtschaft/energie-krise-verfassungsgericht-stoppt-windrad-verbot-in-thueringens-waeldern-a-e11fc00b-02ef-42f3-a34d-638a5c45d6a5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden](https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden-a-46fd2da3-2442-4020-abbd-741ff3d1b59d#ref=rss)
-* [https://www.spiegel.de/karriere/weihnachtsgeld-analyse-tarifbeschaeftigte-bekommen-mehr](https://www.spiegel.de/karriere/weihnachtsgeld-analyse-tarifbeschaeftigte-bekommen-mehr-a-4b0ea699-2f7b-438d-8838-4ec297a19f20#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-fahrgastverband-pro-bahn-fordert-mehr-steuergeld-fuers-deutschlandticket](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-fahrgastverband-pro-bahn-fordert-mehr-steuergeld-fuers-deutschlandticket-a-b8143d1e-82d9-470c-8728-bc79cb4b72b9#ref=rss)
-### verein
+* [https://www.spiegel.de/politik/nach-chaos-bei-der-bundestagswahl-zweite-wahl-in-berlin](https://www.spiegel.de/politik/nach-chaos-bei-der-bundestagswahl-zweite-wahl-in-berlin-a-2faa1600-7805-4e0d-b42c-f8e34de2c699#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-frauen-zugang-zu-parks-fitnessstudios-und-freizeitparks](https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-frauen-zugang-zu-parks-fitnessstudios-und-freizeitparks-a-4e71524c-dc96-4436-80d3-754bd5a38369#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-wohngeld-reform-rund-370-euro-pro-monat](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-wohngeld-reform-rund-370-euro-pro-monat-a-df6930dd-f071-4a69-9b82-9e8e0dc59bb2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rente-arbeitgeber-fordern-pruefung-des-rentenalters](https://www.spiegel.de/wirtschaft/rente-arbeitgeber-fordern-pruefung-des-rentenalters-a-92cc8d97-d043-48a4-814a-786a45c63562#ref=rss)
+### euro
 
-* [https://www.spiegel.de/reise/klima-fussabdruck-des-urlaubs-der-verein-klimalink-will-nachhaltiges-reisen-einfacher-machen](https://www.spiegel.de/reise/klima-fussabdruck-des-urlaubs-der-verein-klimalink-will-nachhaltiges-reisen-einfacher-machen-a-aa828377-5c49-455e-8f50-88dca424af7c#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/twitter-fake-prominente-nutzen-neue-abo-regel-fuer-falschnachrichten](https://www.spiegel.de/netzwelt/apps/twitter-fake-prominente-nutzen-neue-abo-regel-fuer-falschnachrichten-a-fbc96b70-edd7-4e74-acc1-274ca5bc61b5#ref=rss)
-### davon
+* [https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld](https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld-a-d4dc089a-c8a1-4a00-81a0-4eb3b0faea22#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-wohngeld-reform-rund-370-euro-pro-monat](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-wohngeld-reform-rund-370-euro-pro-monat-a-df6930dd-f071-4a69-9b82-9e8e0dc59bb2#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel](https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel-a-51f8933a-2796-4496-ac40-4a8fd61e4bff#ref=rss)
+### streit
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/basf-siemens-bosch-deutsche-konzern-chefs-warnen-vor-rueckzug-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/basf-siemens-bosch-deutsche-konzern-chefs-warnen-vor-rueckzug-aus-china-a-278aacda-c58b-4641-b73d-fcbc3e2927a0#ref=rss)
-* [https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat](https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat-a-4327b190-a6c5-4c2b-aeca-61b227e563b2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6](https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6-a-43e5eebc-bba8-4fc2-98d2-5db4db45b585#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/die-gefaehrliche-zockerei-der-energiefirma-hoyer-fatale-wette-auf-fallende-oder-stabile-preise](https://www.spiegel.de/panorama/justiz/die-gefaehrliche-zockerei-der-energiefirma-hoyer-fatale-wette-auf-fallende-oder-stabile-preise-a-2fe581e1-a14a-4758-ae2c-04906169fe9f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden](https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden-a-46fd2da3-2442-4020-abbd-741ff3d1b59d#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/influenza-die-grippewelle-hat-begonnen](https://www.spiegel.de/gesundheit/diagnose/influenza-die-grippewelle-hat-begonnen-a-5d410ac6-f452-401d-8f03-4197f31aed83#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen](https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen-a-232cf550-0909-4fed-abec-bd1edc27d4cf#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/twitter-fake-prominente-nutzen-neue-abo-regel-fuer-falschnachrichten](https://www.spiegel.de/netzwelt/apps/twitter-fake-prominente-nutzen-neue-abo-regel-fuer-falschnachrichten-a-fbc96b70-edd7-4e74-acc1-274ca5bc61b5#ref=rss)
-* [https://www.spiegel.de/ausland/g20-gipfel-in-indonesien-wladimir-putin-sagt-teilnahme-ab](https://www.spiegel.de/ausland/g20-gipfel-in-indonesien-wladimir-putin-sagt-teilnahme-ab-a-3e5a5c2c-7ecd-45f4-affa-9015e96d7407#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-und-horst-seehofer-duerfen-in-bamf-affaere-nicht-als-zeugen-aussagen](https://www.spiegel.de/politik/deutschland/angela-merkel-und-horst-seehofer-duerfen-in-bamf-affaere-nicht-als-zeugen-aussagen-a-3f929674-ef2d-4b8c-8ff7-aca74dcb9cd5#ref=rss)
-### seehofer
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-und-horst-seehofer-duerfen-in-bamf-affaere-nicht-als-zeugen-aussagen](https://www.spiegel.de/politik/deutschland/angela-merkel-und-horst-seehofer-duerfen-in-bamf-affaere-nicht-als-zeugen-aussagen-a-3f929674-ef2d-4b8c-8ff7-aca74dcb9cd5#ref=rss)
-### aussagen
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-und-horst-seehofer-duerfen-in-bamf-affaere-nicht-als-zeugen-aussagen](https://www.spiegel.de/politik/deutschland/angela-merkel-und-horst-seehofer-duerfen-in-bamf-affaere-nicht-als-zeugen-aussagen-a-3f929674-ef2d-4b8c-8ff7-aca74dcb9cd5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/katars-wm-botschafter-rechtfertigt-homophobe-aeusserungen](https://www.spiegel.de/sport/fussball/katars-wm-botschafter-rechtfertigt-homophobe-aeusserungen-a-b09f3e42-14ff-4d8e-8eb1-d0e599e0979a#ref=rss)
-### reisen
-
-* [https://www.spiegel.de/reise/klima-fussabdruck-des-urlaubs-der-verein-klimalink-will-nachhaltiges-reisen-einfacher-machen](https://www.spiegel.de/reise/klima-fussabdruck-des-urlaubs-der-verein-klimalink-will-nachhaltiges-reisen-einfacher-machen-a-aa828377-5c49-455e-8f50-88dca424af7c#ref=rss)
-* [https://www.spiegel.de/ausland/g20-gipfel-in-indonesien-wladimir-putin-sagt-teilnahme-ab](https://www.spiegel.de/ausland/g20-gipfel-in-indonesien-wladimir-putin-sagt-teilnahme-ab-a-3e5a5c2c-7ecd-45f4-affa-9015e96d7407#ref=rss)
-### einfacher
-
-* [https://www.spiegel.de/reise/klima-fussabdruck-des-urlaubs-der-verein-klimalink-will-nachhaltiges-reisen-einfacher-machen](https://www.spiegel.de/reise/klima-fussabdruck-des-urlaubs-der-verein-klimalink-will-nachhaltiges-reisen-einfacher-machen-a-aa828377-5c49-455e-8f50-88dca424af7c#ref=rss)
-### alle
-
-* [https://www.spiegel.de/reise/klima-fussabdruck-des-urlaubs-der-verein-klimalink-will-nachhaltiges-reisen-einfacher-machen](https://www.spiegel.de/reise/klima-fussabdruck-des-urlaubs-der-verein-klimalink-will-nachhaltiges-reisen-einfacher-machen-a-aa828377-5c49-455e-8f50-88dca424af7c#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen](https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen-a-232cf550-0909-4fed-abec-bd1edc27d4cf#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/basf-siemens-bosch-deutsche-konzern-chefs-warnen-vor-rueckzug-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/basf-siemens-bosch-deutsche-konzern-chefs-warnen-vor-rueckzug-aus-china-a-278aacda-c58b-4641-b73d-fcbc3e2927a0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-diese-stars-fahren-nicht-zum-turnier](https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-diese-stars-fahren-nicht-zum-turnier-a-2b7cb5cc-72d6-4e97-be76-458ccaa8e3a9#ref=rss)
-### rückzug
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/basf-siemens-bosch-deutsche-konzern-chefs-warnen-vor-rueckzug-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/basf-siemens-bosch-deutsche-konzern-chefs-warnen-vor-rueckzug-aus-china-a-278aacda-c58b-4641-b73d-fcbc3e2927a0#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russische-streitkraefte-werden-die-landbruecke-nach-odessa-wohl-nicht-erreichen](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russische-streitkraefte-werden-die-landbruecke-nach-odessa-wohl-nicht-erreichen-a-00391f69-bdd5-47dd-919a-10e5c35d4787#ref=rss)
-### standort
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/basf-siemens-bosch-deutsche-konzern-chefs-warnen-vor-rueckzug-aus-china](https://www.spiegel.de/wirtschaft/unternehmen/basf-siemens-bosch-deutsche-konzern-chefs-warnen-vor-rueckzug-aus-china-a-278aacda-c58b-4641-b73d-fcbc3e2927a0#ref=rss)
-* [https://www.spiegel.de/karriere/weihnachtsgeld-analyse-tarifbeschaeftigte-bekommen-mehr](https://www.spiegel.de/karriere/weihnachtsgeld-analyse-tarifbeschaeftigte-bekommen-mehr-a-4b0ea699-2f7b-438d-8838-4ec297a19f20#ref=rss)
-### ermittelt
-
-* [https://www.spiegel.de/ausland/franzoesische-justiz-ermittelt-wegen-arbeitsbedingungen-in-katar](https://www.spiegel.de/ausland/franzoesische-justiz-ermittelt-wegen-arbeitsbedingungen-in-katar-a-9b9284eb-ff28-44c5-9638-193d81ff9796#ref=rss)
-### bau
-
-* [https://www.spiegel.de/ausland/franzoesische-justiz-ermittelt-wegen-arbeitsbedingungen-in-katar](https://www.spiegel.de/ausland/franzoesische-justiz-ermittelt-wegen-arbeitsbedingungen-in-katar-a-9b9284eb-ff28-44c5-9638-193d81ff9796#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energie-krise-verfassungsgericht-stoppt-windrad-verbot-in-thueringens-waeldern](https://www.spiegel.de/wirtschaft/energie-krise-verfassungsgericht-stoppt-windrad-verbot-in-thueringens-waeldern-a-e11fc00b-02ef-42f3-a34d-638a5c45d6a5#ref=rss)
-### fußballwm
-
-* [https://www.spiegel.de/ausland/franzoesische-justiz-ermittelt-wegen-arbeitsbedingungen-in-katar](https://www.spiegel.de/ausland/franzoesische-justiz-ermittelt-wegen-arbeitsbedingungen-in-katar-a-9b9284eb-ff28-44c5-9638-193d81ff9796#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-diese-stars-fahren-nicht-zum-turnier](https://www.spiegel.de/sport/fussball/fussball-wm-in-katar-diese-stars-fahren-nicht-zum-turnier-a-2b7cb5cc-72d6-4e97-be76-458ccaa8e3a9#ref=rss)
+* [https://www.spiegel.de/ausland/kosovo-balkanexperte-konrad-clewing-ueber-den-streit-um-autokennzeichen](https://www.spiegel.de/ausland/kosovo-balkanexperte-konrad-clewing-ueber-den-streit-um-autokennzeichen-a-1f2e930f-fc7e-407a-93a0-6d7f6e7810fa#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/umstrittene-biologie-doktorandin-vollbrecht-verliert-streit-um-meinungsaeusserung](https://www.spiegel.de/panorama/bildung/umstrittene-biologie-doktorandin-vollbrecht-verliert-streit-um-meinungsaeusserung-a-fabb1812-5a5c-4b52-8982-590f5b0e6f2f#ref=rss)
 ### bundestag
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-einfuehrung-des-buergergelds](https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-einfuehrung-des-buergergelds-a-772ac8ce-3f8c-4e6c-a1b1-88f627a5942d#ref=rss)
-### droht
+* [https://www.spiegel.de/politik/nach-chaos-bei-der-bundestagswahl-zweite-wahl-in-berlin](https://www.spiegel.de/politik/nach-chaos-bei-der-bundestagswahl-zweite-wahl-in-berlin-a-2faa1600-7805-4e0d-b42c-f8e34de2c699#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-wohngeld-reform-rund-370-euro-pro-monat](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-wohngeld-reform-rund-370-euro-pro-monat-a-df6930dd-f071-4a69-9b82-9e8e0dc59bb2#ref=rss)
+### hannover
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-einfuehrung-des-buergergelds](https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-einfuehrung-des-buergergelds-a-772ac8ce-3f8c-4e6c-a1b1-88f627a5942d#ref=rss)
-* [https://www.spiegel.de/ausland/iranischer-aussenminister-hussein-amirabdollahian-droht-deutschland](https://www.spiegel.de/ausland/iranischer-aussenminister-hussein-amirabdollahian-droht-deutschland-a-865c821a-53b6-4008-aba0-c48f3934d1f8#ref=rss)
-### widerstand
+* [https://www.spiegel.de/panorama/justiz/frank-hanebuth-ex-hells-angels-boss-in-hannover-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/frank-hanebuth-ex-hells-angels-boss-in-hannover-zu-geldstrafe-verurteilt-a-665f8141-fb1f-4a60-a662-1c37e397dd64#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hannover-zehnjaehriger-lenkt-auto-vom-beifahrersitz-fahrer-bewusstlos](https://www.spiegel.de/panorama/justiz/hannover-zehnjaehriger-lenkt-auto-vom-beifahrersitz-fahrer-bewusstlos-a-55914ef4-f34c-4996-b2f7-985aa787c290#ref=rss)
+### katar
 
-* [https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-einfuehrung-des-buergergelds](https://www.spiegel.de/politik/deutschland/bundestag-beschliesst-einfuehrung-des-buergergelds-a-772ac8ce-3f8c-4e6c-a1b1-88f627a5942d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6](https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6-a-43e5eebc-bba8-4fc2-98d2-5db4db45b585#ref=rss)
-### markt
+* [https://www.spiegel.de/sport/fussball/mario-goetze-im-wm-kader-wiederauferstehung-eines-gefallenen-helden](https://www.spiegel.de/sport/fussball/mario-goetze-im-wm-kader-wiederauferstehung-eines-gefallenen-helden-a-9ea7d6a8-1303-4572-bc58-243e64c186b8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld](https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld-a-d4dc089a-c8a1-4a00-81a0-4eb3b0faea22#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-kader-von-hansi-flick-sind-das-wirklich-die-besten](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-kader-von-hansi-flick-sind-das-wirklich-die-besten-a-2e274103-9061-4f31-af36-993667b381c2#ref=rss)
+### hansi
 
-* [https://www.spiegel.de/panorama/justiz/die-gefaehrliche-zockerei-der-energiefirma-hoyer-fatale-wette-auf-fallende-oder-stabile-preise](https://www.spiegel.de/panorama/justiz/die-gefaehrliche-zockerei-der-energiefirma-hoyer-fatale-wette-auf-fallende-oder-stabile-preise-a-2fe581e1-a14a-4758-ae2c-04906169fe9f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/binance-krypto-boerse-blaest-ftx-uebernahme-ab](https://www.spiegel.de/wirtschaft/service/binance-krypto-boerse-blaest-ftx-uebernahme-ab-a-1b2969b4-4139-4e67-9544-5c77804838c2#ref=rss)
-### cell
+* [https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld](https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld-a-d4dc089a-c8a1-4a00-81a0-4eb3b0faea22#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-kader-von-hansi-flick-sind-das-wirklich-die-besten](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-kader-von-hansi-flick-sind-das-wirklich-die-besten-a-2e274103-9061-4f31-af36-993667b381c2#ref=rss)
+### flick
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen](https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen-a-232cf550-0909-4fed-abec-bd1edc27d4cf#ref=rss)
-### broadcast
+* [https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld](https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld-a-d4dc089a-c8a1-4a00-81a0-4eb3b0faea22#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-kader-von-hansi-flick-sind-das-wirklich-die-besten](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-kader-von-hansi-flick-sind-das-wirklich-die-besten-a-2e274103-9061-4f31-af36-993667b381c2#ref=rss)
+### xi
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen](https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen-a-232cf550-0909-4fed-abec-bd1edc27d4cf#ref=rss)
-### bekommen
+* [https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel-a-c0ce0332-e8e6-4ebd-99f0-a71af7566a72#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-beschraenkt-das-bei-demonstranten-beliebte-airdrop-in-china](https://www.spiegel.de/netzwelt/gadgets/apple-beschraenkt-das-bei-demonstranten-beliebte-airdrop-in-china-a-134f9a19-a6fc-45a1-92fe-e29abebab817#ref=rss)
+### jinping
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen](https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen-a-232cf550-0909-4fed-abec-bd1edc27d4cf#ref=rss)
-* [https://www.spiegel.de/karriere/weihnachtsgeld-analyse-tarifbeschaeftigte-bekommen-mehr](https://www.spiegel.de/karriere/weihnachtsgeld-analyse-tarifbeschaeftigte-bekommen-mehr-a-4b0ea699-2f7b-438d-8838-4ec297a19f20#ref=rss)
-### erreichen
+* [https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel-a-c0ce0332-e8e6-4ebd-99f0-a71af7566a72#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-beschraenkt-das-bei-demonstranten-beliebte-airdrop-in-china](https://www.spiegel.de/netzwelt/gadgets/apple-beschraenkt-das-bei-demonstranten-beliebte-airdrop-in-china-a-134f9a19-a6fc-45a1-92fe-e29abebab817#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen](https://www.spiegel.de/netzwelt/netzpolitik/cell-broadcast-warum-jetzt-alle-handynutzer-in-deutschland-eine-sms-bekommen-a-232cf550-0909-4fed-abec-bd1edc27d4cf#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russische-streitkraefte-werden-die-landbruecke-nach-odessa-wohl-nicht-erreichen](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russische-streitkraefte-werden-die-landbruecke-nach-odessa-wohl-nicht-erreichen-a-00391f69-bdd5-47dd-919a-10e5c35d4787#ref=rss)
-### außenminister
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-frauen-zugang-zu-parks-fitnessstudios-und-freizeitparks](https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-frauen-zugang-zu-parks-fitnessstudios-und-freizeitparks-a-4e71524c-dc96-4436-80d3-754bd5a38369#ref=rss)
+### november
 
-* [https://www.spiegel.de/ausland/iranischer-aussenminister-hussein-amirabdollahian-droht-deutschland](https://www.spiegel.de/ausland/iranischer-aussenminister-hussein-amirabdollahian-droht-deutschland-a-865c821a-53b6-4008-aba0-c48f3934d1f8#ref=rss)
-* [https://www.spiegel.de/ausland/g20-gipfel-in-indonesien-wladimir-putin-sagt-teilnahme-ab](https://www.spiegel.de/ausland/g20-gipfel-in-indonesien-wladimir-putin-sagt-teilnahme-ab-a-3e5a5c2c-7ecd-45f4-affa-9015e96d7407#ref=rss)
-### protesten
+* [https://www.spiegel.de/panorama/a7-in-hamburg-ab-17-november-fuer-79-stunden-voll-gesperrt](https://www.spiegel.de/panorama/a7-in-hamburg-ab-17-november-fuer-79-stunden-voll-gesperrt-a-228d3230-705c-46c7-895d-3366068ddc7d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-auch-aeltere-faelle-von-impffaelschung-koennen-strafbar-sein](https://www.spiegel.de/politik/deutschland/coronavirus-auch-aeltere-faelle-von-impffaelschung-koennen-strafbar-sein-a-df3a4620-901b-4cca-ad19-2d8bec49b0bd#ref=rss)
+### vance
 
-* [https://www.spiegel.de/ausland/iranischer-aussenminister-hussein-amirabdollahian-droht-deutschland](https://www.spiegel.de/ausland/iranischer-aussenminister-hussein-amirabdollahian-droht-deutschland-a-865c821a-53b6-4008-aba0-c48f3934d1f8#ref=rss)
-* [https://www.spiegel.de/ausland/iran-taraneh-alidoosti-stellt-sich-gegen-das-iranische-regime](https://www.spiegel.de/ausland/iran-taraneh-alidoosti-stellt-sich-gegen-das-iranische-regime-a-3942ed2e-687f-4a1d-9441-9e48eeebec4d#ref=rss)
+* [https://www.spiegel.de/kultur/midterms-usa-wie-j-d-vance-zum-donald-trump-versteher-wurde](https://www.spiegel.de/kultur/midterms-usa-wie-j-d-vance-zum-donald-trump-versteher-wurde-a-c534c588-3e3c-4221-8733-e2a1bae8b96d#ref=rss)
+### russlands
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russlands-truppenrueckzug-aus-cherson](https://www.spiegel.de/ausland/ukraine-krieg-russlands-truppenrueckzug-aus-cherson-a-338f5487-e770-4e5b-953d-0563b13f5873#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-nasams-flugabwehrsystem-kiews-schutzschild-gegen-russlands-luftangriffe-waechst](https://www.spiegel.de/wissenschaft/technik/ukraine-nasams-flugabwehrsystem-kiews-schutzschild-gegen-russlands-luftangriffe-waechst-a-3dd50519-1359-4897-b262-6265f3b72e64#ref=rss)
+### cherson
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-russlands-truppenrueckzug-aus-cherson](https://www.spiegel.de/ausland/ukraine-krieg-russlands-truppenrueckzug-aus-cherson-a-338f5487-e770-4e5b-953d-0563b13f5873#ref=rss)
+### kosovo
+
+* [https://www.spiegel.de/ausland/kosovo-balkanexperte-konrad-clewing-ueber-den-streit-um-autokennzeichen](https://www.spiegel.de/ausland/kosovo-balkanexperte-konrad-clewing-ueber-den-streit-um-autokennzeichen-a-1f2e930f-fc7e-407a-93a0-6d7f6e7810fa#ref=rss)
+### balkanexperte
+
+* [https://www.spiegel.de/ausland/kosovo-balkanexperte-konrad-clewing-ueber-den-streit-um-autokennzeichen](https://www.spiegel.de/ausland/kosovo-balkanexperte-konrad-clewing-ueber-den-streit-um-autokennzeichen-a-1f2e930f-fc7e-407a-93a0-6d7f6e7810fa#ref=rss)
+### konrad
+
+* [https://www.spiegel.de/ausland/kosovo-balkanexperte-konrad-clewing-ueber-den-streit-um-autokennzeichen](https://www.spiegel.de/ausland/kosovo-balkanexperte-konrad-clewing-ueber-den-streit-um-autokennzeichen-a-1f2e930f-fc7e-407a-93a0-6d7f6e7810fa#ref=rss)
+### clewing
+
+* [https://www.spiegel.de/ausland/kosovo-balkanexperte-konrad-clewing-ueber-den-streit-um-autokennzeichen](https://www.spiegel.de/ausland/kosovo-balkanexperte-konrad-clewing-ueber-den-streit-um-autokennzeichen-a-1f2e930f-fc7e-407a-93a0-6d7f6e7810fa#ref=rss)
+### erklärt
+
+* [https://www.spiegel.de/politik/deutschland/akw-streit-erster-gruener-erklaert-sein-nein-zu-atomgesetz-aenderung](https://www.spiegel.de/politik/deutschland/akw-streit-erster-gruener-erklaert-sein-nein-zu-atomgesetz-aenderung-a-84aa2f9b-f8e9-4f1f-8def-c9bcd9a251e9#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel](https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel-a-51f8933a-2796-4496-ac40-4a8fd61e4bff#ref=rss)
+### oktober
+
+* [https://www.spiegel.de/politik/deutschland/akw-streit-erster-gruener-erklaert-sein-nein-zu-atomgesetz-aenderung](https://www.spiegel.de/politik/deutschland/akw-streit-erster-gruener-erklaert-sein-nein-zu-atomgesetz-aenderung-a-84aa2f9b-f8e9-4f1f-8def-c9bcd9a251e9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-inflationsrate-in-den-usa-deutlicher-zurueckgegangen-als-erwartet](https://www.spiegel.de/wirtschaft/usa-inflationsrate-in-den-usa-deutlicher-zurueckgegangen-als-erwartet-a-a68069e4-92f1-412b-ae95-536b70c364fb#ref=rss)
+### machtwort
+
+* [https://www.spiegel.de/politik/deutschland/akw-streit-erster-gruener-erklaert-sein-nein-zu-atomgesetz-aenderung](https://www.spiegel.de/politik/deutschland/akw-streit-erster-gruener-erklaert-sein-nein-zu-atomgesetz-aenderung-a-84aa2f9b-f8e9-4f1f-8def-c9bcd9a251e9#ref=rss)
+### akw
+
+* [https://www.spiegel.de/politik/deutschland/akw-streit-erster-gruener-erklaert-sein-nein-zu-atomgesetz-aenderung](https://www.spiegel.de/politik/deutschland/akw-streit-erster-gruener-erklaert-sein-nein-zu-atomgesetz-aenderung-a-84aa2f9b-f8e9-4f1f-8def-c9bcd9a251e9#ref=rss)
+* [https://www.spiegel.de/auto/christian-lindner-angeblich-offen-fuer-tempolimit-solang-die-akw-weiter-laufen](https://www.spiegel.de/auto/christian-lindner-angeblich-offen-fuer-tempolimit-solang-die-akw-weiter-laufen-a-f8a94ab4-d076-4254-9e9c-d24433bea243#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/politik/deutschland/akw-streit-erster-gruener-erklaert-sein-nein-zu-atomgesetz-aenderung](https://www.spiegel.de/politik/deutschland/akw-streit-erster-gruener-erklaert-sein-nein-zu-atomgesetz-aenderung-a-84aa2f9b-f8e9-4f1f-8def-c9bcd9a251e9#ref=rss)
+* [https://www.spiegel.de/auto/christian-lindner-angeblich-offen-fuer-tempolimit-solang-die-akw-weiter-laufen](https://www.spiegel.de/auto/christian-lindner-angeblich-offen-fuer-tempolimit-solang-die-akw-weiter-laufen-a-f8a94ab4-d076-4254-9e9c-d24433bea243#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/politik/nach-chaos-bei-der-bundestagswahl-zweite-wahl-in-berlin](https://www.spiegel.de/politik/nach-chaos-bei-der-bundestagswahl-zweite-wahl-in-berlin-a-2faa1600-7805-4e0d-b42c-f8e34de2c699#ref=rss)
+### 2021
+
+* [https://www.spiegel.de/politik/nach-chaos-bei-der-bundestagswahl-zweite-wahl-in-berlin](https://www.spiegel.de/politik/nach-chaos-bei-der-bundestagswahl-zweite-wahl-in-berlin-a-2faa1600-7805-4e0d-b42c-f8e34de2c699#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/coronavirus-auch-aeltere-faelle-von-impffaelschung-koennen-strafbar-sein](https://www.spiegel.de/politik/deutschland/coronavirus-auch-aeltere-faelle-von-impffaelschung-koennen-strafbar-sein-a-df3a4620-901b-4cca-ad19-2d8bec49b0bd#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/politik/nach-chaos-bei-der-bundestagswahl-zweite-wahl-in-berlin](https://www.spiegel.de/politik/nach-chaos-bei-der-bundestagswahl-zweite-wahl-in-berlin-a-2faa1600-7805-4e0d-b42c-f8e34de2c699#ref=rss)
+* [https://www.spiegel.de/kultur/modezar-albert-eickhoff-ist-tot](https://www.spiegel.de/kultur/modezar-albert-eickhoff-ist-tot-a-de158130-a9bf-44d5-b551-658cef9dfcc2#ref=rss)
+### frank
+
+* [https://www.spiegel.de/panorama/justiz/frank-hanebuth-ex-hells-angels-boss-in-hannover-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/frank-hanebuth-ex-hells-angels-boss-in-hannover-zu-geldstrafe-verurteilt-a-665f8141-fb1f-4a60-a662-1c37e397dd64#ref=rss)
+### hanebuth
+
+* [https://www.spiegel.de/panorama/justiz/frank-hanebuth-ex-hells-angels-boss-in-hannover-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/frank-hanebuth-ex-hells-angels-boss-in-hannover-zu-geldstrafe-verurteilt-a-665f8141-fb1f-4a60-a662-1c37e397dd64#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/frank-hanebuth-ex-hells-angels-boss-in-hannover-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/frank-hanebuth-ex-hells-angels-boss-in-hannover-zu-geldstrafe-verurteilt-a-665f8141-fb1f-4a60-a662-1c37e397dd64#ref=rss)
+### mario
+
+* [https://www.spiegel.de/sport/fussball/mario-goetze-im-wm-kader-wiederauferstehung-eines-gefallenen-helden](https://www.spiegel.de/sport/fussball/mario-goetze-im-wm-kader-wiederauferstehung-eines-gefallenen-helden-a-9ea7d6a8-1303-4572-bc58-243e64c186b8#ref=rss)
+### götze
+
+* [https://www.spiegel.de/sport/fussball/mario-goetze-im-wm-kader-wiederauferstehung-eines-gefallenen-helden](https://www.spiegel.de/sport/fussball/mario-goetze-im-wm-kader-wiederauferstehung-eines-gefallenen-helden-a-9ea7d6a8-1303-4572-bc58-243e64c186b8#ref=rss)
+### wmaufgebot
+
+* [https://www.spiegel.de/sport/fussball/mario-goetze-im-wm-kader-wiederauferstehung-eines-gefallenen-helden](https://www.spiegel.de/sport/fussball/mario-goetze-im-wm-kader-wiederauferstehung-eines-gefallenen-helden-a-9ea7d6a8-1303-4572-bc58-243e64c186b8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-kader-von-hansi-flick-sind-das-wirklich-die-besten](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-kader-von-hansi-flick-sind-das-wirklich-die-besten-a-2e274103-9061-4f31-af36-993667b381c2#ref=rss)
+### fußballwm
+
+* [https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld](https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld-a-d4dc089a-c8a1-4a00-81a0-4eb3b0faea22#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-kader-von-hansi-flick-sind-das-wirklich-die-besten](https://www.spiegel.de/sport/fussball/fussball-wm-2022-in-katar-kader-von-hansi-flick-sind-das-wirklich-die-besten-a-2e274103-9061-4f31-af36-993667b381c2#ref=rss)
+### zehneurodöner
+
+* [https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld](https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld-a-d4dc089a-c8a1-4a00-81a0-4eb3b0faea22#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel](https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel-a-51f8933a-2796-4496-ac40-4a8fd61e4bff#ref=rss)
+### wo
+
+* [https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld](https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld-a-d4dc089a-c8a1-4a00-81a0-4eb3b0faea22#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel](https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel-a-51f8933a-2796-4496-ac40-4a8fd61e4bff#ref=rss)
+### döner
+
+* [https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld](https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld-a-d4dc089a-c8a1-4a00-81a0-4eb3b0faea22#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel](https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel-a-51f8933a-2796-4496-ac40-4a8fd61e4bff#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld](https://www.spiegel.de/politik/deutschland/news-dfb-kader-fuer-die-fussball-wm-in-katar-zehn-euro-doener-buergergeld-a-d4dc089a-c8a1-4a00-81a0-4eb3b0faea22#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel](https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel-a-51f8933a-2796-4496-ac40-4a8fd61e4bff#ref=rss)
+### entschädigung
+
+* [https://www.spiegel.de/wirtschaft/verbraucherzentrale-fordert-entschaedigung-bei-zugverspaetung-ab-30-minuten](https://www.spiegel.de/wirtschaft/verbraucherzentrale-fordert-entschaedigung-bei-zugverspaetung-ab-30-minuten-a-bee12b69-a749-4f15-8f9a-662d58c7c5a7#ref=rss)
+### 30
+
+* [https://www.spiegel.de/wirtschaft/verbraucherzentrale-fordert-entschaedigung-bei-zugverspaetung-ab-30-minuten](https://www.spiegel.de/wirtschaft/verbraucherzentrale-fordert-entschaedigung-bei-zugverspaetung-ab-30-minuten-a-bee12b69-a749-4f15-8f9a-662d58c7c5a7#ref=rss)
+### minuten
+
+* [https://www.spiegel.de/wirtschaft/verbraucherzentrale-fordert-entschaedigung-bei-zugverspaetung-ab-30-minuten](https://www.spiegel.de/wirtschaft/verbraucherzentrale-fordert-entschaedigung-bei-zugverspaetung-ab-30-minuten-a-bee12b69-a749-4f15-8f9a-662d58c7c5a7#ref=rss)
+### zahlen
+
+* [https://www.spiegel.de/wirtschaft/verbraucherzentrale-fordert-entschaedigung-bei-zugverspaetung-ab-30-minuten](https://www.spiegel.de/wirtschaft/verbraucherzentrale-fordert-entschaedigung-bei-zugverspaetung-ab-30-minuten-a-bee12b69-a749-4f15-8f9a-662d58c7c5a7#ref=rss)
+* [https://www.spiegel.de/auto/christian-lindner-angeblich-offen-fuer-tempolimit-solang-die-akw-weiter-laufen](https://www.spiegel.de/auto/christian-lindner-angeblich-offen-fuer-tempolimit-solang-die-akw-weiter-laufen-a-f8a94ab4-d076-4254-9e9c-d24433bea243#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel-a-c0ce0332-e8e6-4ebd-99f0-a71af7566a72#ref=rss)
+### biden
+
+* [https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel-a-c0ce0332-e8e6-4ebd-99f0-a71af7566a72#ref=rss)
+### g20gipfel
+
+* [https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel-a-c0ce0332-e8e6-4ebd-99f0-a71af7566a72#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel-a-c0ce0332-e8e6-4ebd-99f0-a71af7566a72#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-beschraenkt-das-bei-demonstranten-beliebte-airdrop-in-china](https://www.spiegel.de/netzwelt/gadgets/apple-beschraenkt-das-bei-demonstranten-beliebte-airdrop-in-china-a-134f9a19-a6fc-45a1-92fe-e29abebab817#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel-a-c0ce0332-e8e6-4ebd-99f0-a71af7566a72#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-nasams-flugabwehrsystem-kiews-schutzschild-gegen-russlands-luftangriffe-waechst](https://www.spiegel.de/wissenschaft/technik/ukraine-nasams-flugabwehrsystem-kiews-schutzschild-gegen-russlands-luftangriffe-waechst-a-3dd50519-1359-4897-b262-6265f3b72e64#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel](https://www.spiegel.de/ausland/joe-biden-trifft-xi-jinping-beim-g20-gipfel-a-c0ce0332-e8e6-4ebd-99f0-a71af7566a72#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rente-arbeitgeber-fordern-pruefung-des-rentenalters](https://www.spiegel.de/wirtschaft/rente-arbeitgeber-fordern-pruefung-des-rentenalters-a-92cc8d97-d043-48a4-814a-786a45c63562#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-nasams-flugabwehrsystem-kiews-schutzschild-gegen-russlands-luftangriffe-waechst](https://www.spiegel.de/wissenschaft/technik/ukraine-nasams-flugabwehrsystem-kiews-schutzschild-gegen-russlands-luftangriffe-waechst-a-3dd50519-1359-4897-b262-6265f3b72e64#ref=rss)
+### dürfen
+
+* [https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-frauen-zugang-zu-parks-fitnessstudios-und-freizeitparks](https://www.spiegel.de/ausland/afghanistan-taliban-verbieten-frauen-zugang-zu-parks-fitnessstudios-und-freizeitparks-a-4e71524c-dc96-4436-80d3-754bd5a38369#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/a7-in-hamburg-ab-17-november-fuer-79-stunden-voll-gesperrt](https://www.spiegel.de/panorama/a7-in-hamburg-ab-17-november-fuer-79-stunden-voll-gesperrt-a-228d3230-705c-46c7-895d-3366068ddc7d#ref=rss)
+### 17
+
+* [https://www.spiegel.de/panorama/a7-in-hamburg-ab-17-november-fuer-79-stunden-voll-gesperrt](https://www.spiegel.de/panorama/a7-in-hamburg-ab-17-november-fuer-79-stunden-voll-gesperrt-a-228d3230-705c-46c7-895d-3366068ddc7d#ref=rss)
+### albert
+
+* [https://www.spiegel.de/kultur/modezar-albert-eickhoff-ist-tot](https://www.spiegel.de/kultur/modezar-albert-eickhoff-ist-tot-a-de158130-a9bf-44d5-b551-658cef9dfcc2#ref=rss)
+### eickhoff
+
+* [https://www.spiegel.de/kultur/modezar-albert-eickhoff-ist-tot](https://www.spiegel.de/kultur/modezar-albert-eickhoff-ist-tot-a-de158130-a9bf-44d5-b551-658cef9dfcc2#ref=rss)
+### galt
+
+* [https://www.spiegel.de/kultur/modezar-albert-eickhoff-ist-tot](https://www.spiegel.de/kultur/modezar-albert-eickhoff-ist-tot-a-de158130-a9bf-44d5-b551-658cef9dfcc2#ref=rss)
+* [https://www.spiegel.de/kultur/midterms-usa-wie-j-d-vance-zum-donald-trump-versteher-wurde](https://www.spiegel.de/kultur/midterms-usa-wie-j-d-vance-zum-donald-trump-versteher-wurde-a-c534c588-3e3c-4221-8733-e2a1bae8b96d#ref=rss)
+### auto
+
+* [https://www.spiegel.de/panorama/justiz/hannover-zehnjaehriger-lenkt-auto-vom-beifahrersitz-fahrer-bewusstlos](https://www.spiegel.de/panorama/justiz/hannover-zehnjaehriger-lenkt-auto-vom-beifahrersitz-fahrer-bewusstlos-a-55914ef4-f34c-4996-b2f7-985aa787c290#ref=rss)
+* [https://www.spiegel.de/auto/tuev-jedes-fuenfte-fahrzeug-faellt-bei-hauptuntersuchung-durch](https://www.spiegel.de/auto/tuev-jedes-fuenfte-fahrzeug-faellt-bei-hauptuntersuchung-durch-a-a32e9b5b-fcd5-4fe3-b120-3420bf6cedeb#ref=rss)
+### schnabel
+
+* [https://www.spiegel.de/wirtschaft/isabel-schnabel-laut-ezb-direktorin-ist-erneute-zinserhoehung-noetig](https://www.spiegel.de/wirtschaft/isabel-schnabel-laut-ezb-direktorin-ist-erneute-zinserhoehung-noetig-a-e64d8676-5efd-4dcf-af27-5216cd0c6702#ref=rss)
+### ezbdirektorin
+
+* [https://www.spiegel.de/wirtschaft/isabel-schnabel-laut-ezb-direktorin-ist-erneute-zinserhoehung-noetig](https://www.spiegel.de/wirtschaft/isabel-schnabel-laut-ezb-direktorin-ist-erneute-zinserhoehung-noetig-a-e64d8676-5efd-4dcf-af27-5216cd0c6702#ref=rss)
+### zentralbank
+
+* [https://www.spiegel.de/wirtschaft/isabel-schnabel-laut-ezb-direktorin-ist-erneute-zinserhoehung-noetig](https://www.spiegel.de/wirtschaft/isabel-schnabel-laut-ezb-direktorin-ist-erneute-zinserhoehung-noetig-a-e64d8676-5efd-4dcf-af27-5216cd0c6702#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-inflationsrate-in-den-usa-deutlicher-zurueckgegangen-als-erwartet](https://www.spiegel.de/wirtschaft/usa-inflationsrate-in-den-usa-deutlicher-zurueckgegangen-als-erwartet-a-a68069e4-92f1-412b-ae95-536b70c364fb#ref=rss)
+### reform
+
+* [https://www.spiegel.de/wirtschaft/schuldenregeln-der-eu-kommission-die-regeln-sind-zu-lasch](https://www.spiegel.de/wirtschaft/schuldenregeln-der-eu-kommission-die-regeln-sind-zu-lasch-a-ebf56454-505b-4d33-9176-db56338a2977#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-wohngeld-reform-rund-370-euro-pro-monat](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-wohngeld-reform-rund-370-euro-pro-monat-a-df6930dd-f071-4a69-9b82-9e8e0dc59bb2#ref=rss)
+### tüv
+
+* [https://www.spiegel.de/auto/tuev-jedes-fuenfte-fahrzeug-faellt-bei-hauptuntersuchung-durch](https://www.spiegel.de/auto/tuev-jedes-fuenfte-fahrzeug-faellt-bei-hauptuntersuchung-durch-a-a32e9b5b-fcd5-4fe3-b120-3420bf6cedeb#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/sichtungen-ueber-dem-ministerium-bundeswehr-schafft-stoersysteme-gegen-drohnen-an](https://www.spiegel.de/politik/deutschland/sichtungen-ueber-dem-ministerium-bundeswehr-schafft-stoersysteme-gegen-drohnen-an-a-e40eca73-6f3d-4dc9-a22a-94b2350afb2f#ref=rss)
+### apple
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-beschraenkt-das-bei-demonstranten-beliebte-airdrop-in-china](https://www.spiegel.de/netzwelt/gadgets/apple-beschraenkt-das-bei-demonstranten-beliebte-airdrop-in-china-a-134f9a19-a6fc-45a1-92fe-e29abebab817#ref=rss)
+### demonstranten
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-beschraenkt-das-bei-demonstranten-beliebte-airdrop-in-china](https://www.spiegel.de/netzwelt/gadgets/apple-beschraenkt-das-bei-demonstranten-beliebte-airdrop-in-china-a-134f9a19-a6fc-45a1-92fe-e29abebab817#ref=rss)
+* [https://www.spiegel.de/ausland/iran-protestforscherin-ueber-die-chance-der-demonstranten](https://www.spiegel.de/ausland/iran-protestforscherin-ueber-die-chance-der-demonstranten-a-0305d988-cce4-4e67-9f18-401e4814c080#ref=rss)
+### airdrop
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-beschraenkt-das-bei-demonstranten-beliebte-airdrop-in-china](https://www.spiegel.de/netzwelt/gadgets/apple-beschraenkt-das-bei-demonstranten-beliebte-airdrop-in-china-a-134f9a19-a6fc-45a1-92fe-e29abebab817#ref=rss)
+### rund
+
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-wohngeld-reform-rund-370-euro-pro-monat](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-wohngeld-reform-rund-370-euro-pro-monat-a-df6930dd-f071-4a69-9b82-9e8e0dc59bb2#ref=rss)
+### 370
+
+* [https://www.spiegel.de/wirtschaft/bundestag-beschliesst-wohngeld-reform-rund-370-euro-pro-monat](https://www.spiegel.de/wirtschaft/bundestag-beschliesst-wohngeld-reform-rund-370-euro-pro-monat-a-df6930dd-f071-4a69-9b82-9e8e0dc59bb2#ref=rss)
+### uns
+
+* [https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel](https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel-a-51f8933a-2796-4496-ac40-4a8fd61e4bff#ref=rss)
+* [https://www.spiegel.de/panorama/leute/michelle-obama-schildert-in-neuem-buch-das-licht-in-uns-bewaeltigungsstrategien](https://www.spiegel.de/panorama/leute/michelle-obama-schildert-in-neuem-buch-das-licht-in-uns-bewaeltigungsstrategien-a-efb6258e-2121-4f72-be7c-bedfc9564030#ref=rss)
+### hohen
+
+* [https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel](https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel-a-51f8933a-2796-4496-ac40-4a8fd61e4bff#ref=rss)
+* [https://www.spiegel.de/auto/christian-lindner-angeblich-offen-fuer-tempolimit-solang-die-akw-weiter-laufen](https://www.spiegel.de/auto/christian-lindner-angeblich-offen-fuer-tempolimit-solang-die-akw-weiter-laufen-a-f8a94ab4-d076-4254-9e9c-d24433bea243#ref=rss)
+### preise
+
+* [https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel](https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel-a-51f8933a-2796-4496-ac40-4a8fd61e4bff#ref=rss)
+### seidel
+
+* [https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel](https://www.spiegel.de/panorama/gesellschaft/zehn-euro-doener-muessen-wir-uns-jetzt-an-die-hohen-preise-gewoehnen-herr-seidel-a-51f8933a-2796-4496-ac40-4a8fd61e4bff#ref=rss)
+### strafbar
+
+* [https://www.spiegel.de/politik/deutschland/coronavirus-auch-aeltere-faelle-von-impffaelschung-koennen-strafbar-sein](https://www.spiegel.de/politik/deutschland/coronavirus-auch-aeltere-faelle-von-impffaelschung-koennen-strafbar-sein-a-df3a4620-901b-4cca-ad19-2d8bec49b0bd#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/ausland/iranischer-aussenminister-hussein-amirabdollahian-droht-deutschland](https://www.spiegel.de/ausland/iranischer-aussenminister-hussein-amirabdollahian-droht-deutschland-a-865c821a-53b6-4008-aba0-c48f3934d1f8#ref=rss)
-* [https://www.spiegel.de/ausland/iran-taraneh-alidoosti-stellt-sich-gegen-das-iranische-regime](https://www.spiegel.de/ausland/iran-taraneh-alidoosti-stellt-sich-gegen-das-iranische-regime-a-3942ed2e-687f-4a1d-9441-9e48eeebec4d#ref=rss)
-### usmidterms
+* [https://www.spiegel.de/ausland/iran-protestforscherin-ueber-die-chance-der-demonstranten](https://www.spiegel.de/ausland/iran-protestforscherin-ueber-die-chance-der-demonstranten-a-0305d988-cce4-4e67-9f18-401e4814c080#ref=rss)
+### protestforscherin
 
-* [https://www.spiegel.de/ausland/us-midterms-pannen-und-verzoegerungen-in-arizona-und-nevada](https://www.spiegel.de/ausland/us-midterms-pannen-und-verzoegerungen-in-arizona-und-nevada-a-29842c11-0389-4d9a-b5b7-91ef81104b34#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-nach-den-us-midterms-angezaehlt-aber-nicht-erledigt](https://www.spiegel.de/ausland/donald-trump-nach-den-us-midterms-angezaehlt-aber-nicht-erledigt-a-1d00d86a-3028-4a86-a283-2722fdefdc7f#ref=rss)
-### pannen
+* [https://www.spiegel.de/ausland/iran-protestforscherin-ueber-die-chance-der-demonstranten](https://www.spiegel.de/ausland/iran-protestforscherin-ueber-die-chance-der-demonstranten-a-0305d988-cce4-4e67-9f18-401e4814c080#ref=rss)
+### rente
 
-* [https://www.spiegel.de/ausland/us-midterms-pannen-und-verzoegerungen-in-arizona-und-nevada](https://www.spiegel.de/ausland/us-midterms-pannen-und-verzoegerungen-in-arizona-und-nevada-a-29842c11-0389-4d9a-b5b7-91ef81104b34#ref=rss)
-### twitter
+* [https://www.spiegel.de/wirtschaft/rente-arbeitgeber-fordern-pruefung-des-rentenalters](https://www.spiegel.de/wirtschaft/rente-arbeitgeber-fordern-pruefung-des-rentenalters-a-92cc8d97-d043-48a4-814a-786a45c63562#ref=rss)
+### arbeitgeber
 
-* [https://www.spiegel.de/netzwelt/apps/twitter-fake-prominente-nutzen-neue-abo-regel-fuer-falschnachrichten](https://www.spiegel.de/netzwelt/apps/twitter-fake-prominente-nutzen-neue-abo-regel-fuer-falschnachrichten-a-fbc96b70-edd7-4e74-acc1-274ca5bc61b5#ref=rss)
-### etwa
+* [https://www.spiegel.de/wirtschaft/rente-arbeitgeber-fordern-pruefung-des-rentenalters](https://www.spiegel.de/wirtschaft/rente-arbeitgeber-fordern-pruefung-des-rentenalters-a-92cc8d97-d043-48a4-814a-786a45c63562#ref=rss)
+### jd
 
-* [https://www.spiegel.de/netzwelt/apps/twitter-fake-prominente-nutzen-neue-abo-regel-fuer-falschnachrichten](https://www.spiegel.de/netzwelt/apps/twitter-fake-prominente-nutzen-neue-abo-regel-fuer-falschnachrichten-a-fbc96b70-edd7-4e74-acc1-274ca5bc61b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energie-krise-verfassungsgericht-stoppt-windrad-verbot-in-thueringens-waeldern](https://www.spiegel.de/wirtschaft/energie-krise-verfassungsgericht-stoppt-windrad-verbot-in-thueringens-waeldern-a-e11fc00b-02ef-42f3-a34d-638a5c45d6a5#ref=rss)
-### max
+* [https://www.spiegel.de/kultur/midterms-usa-wie-j-d-vance-zum-donald-trump-versteher-wurde](https://www.spiegel.de/kultur/midterms-usa-wie-j-d-vance-zum-donald-trump-versteher-wurde-a-c534c588-3e3c-4221-8733-e2a1bae8b96d#ref=rss)
+### christian
 
-* [https://www.spiegel.de/panorama/leute/max-kruse-faellt-beim-kicken-aus-und-gewinnt-stattdessen-beim-pokern](https://www.spiegel.de/panorama/leute/max-kruse-faellt-beim-kicken-aus-und-gewinnt-stattdessen-beim-pokern-a-1166fdeb-cfa1-49ef-953e-72baf0994bde#ref=rss)
-### kruse
+* [https://www.spiegel.de/auto/christian-lindner-angeblich-offen-fuer-tempolimit-solang-die-akw-weiter-laufen](https://www.spiegel.de/auto/christian-lindner-angeblich-offen-fuer-tempolimit-solang-die-akw-weiter-laufen-a-f8a94ab4-d076-4254-9e9c-d24433bea243#ref=rss)
+### lindner
 
-* [https://www.spiegel.de/panorama/leute/max-kruse-faellt-beim-kicken-aus-und-gewinnt-stattdessen-beim-pokern](https://www.spiegel.de/panorama/leute/max-kruse-faellt-beim-kicken-aus-und-gewinnt-stattdessen-beim-pokern-a-1166fdeb-cfa1-49ef-953e-72baf0994bde#ref=rss)
-### fällt
+* [https://www.spiegel.de/auto/christian-lindner-angeblich-offen-fuer-tempolimit-solang-die-akw-weiter-laufen](https://www.spiegel.de/auto/christian-lindner-angeblich-offen-fuer-tempolimit-solang-die-akw-weiter-laufen-a-f8a94ab4-d076-4254-9e9c-d24433bea243#ref=rss)
+### zurückgegangen
 
-* [https://www.spiegel.de/panorama/leute/max-kruse-faellt-beim-kicken-aus-und-gewinnt-stattdessen-beim-pokern](https://www.spiegel.de/panorama/leute/max-kruse-faellt-beim-kicken-aus-und-gewinnt-stattdessen-beim-pokern-a-1166fdeb-cfa1-49ef-953e-72baf0994bde#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/das-sind-deutschlands-erfolgreichste-staedte](https://www.spiegel.de/wirtschaft/soziales/das-sind-deutschlands-erfolgreichste-staedte-a-064071a5-8f72-434d-b2f8-a79f35fd4dd6#ref=rss)
-### gemacht
+* [https://www.spiegel.de/wirtschaft/usa-inflationsrate-in-den-usa-deutlicher-zurueckgegangen-als-erwartet](https://www.spiegel.de/wirtschaft/usa-inflationsrate-in-den-usa-deutlicher-zurueckgegangen-als-erwartet-a-a68069e4-92f1-412b-ae95-536b70c364fb#ref=rss)
+### vollbrecht
 
-* [https://www.spiegel.de/panorama/leute/max-kruse-faellt-beim-kicken-aus-und-gewinnt-stattdessen-beim-pokern](https://www.spiegel.de/panorama/leute/max-kruse-faellt-beim-kicken-aus-und-gewinnt-stattdessen-beim-pokern-a-1166fdeb-cfa1-49ef-953e-72baf0994bde#ref=rss)
-* [https://www.spiegel.de/wirtschaft/forbes-steht-offenbar-vor-uebernahme-durch-investoren](https://www.spiegel.de/wirtschaft/forbes-steht-offenbar-vor-uebernahme-durch-investoren-a-db592606-f8fd-409b-b5fa-084eaca2fba0#ref=rss)
-### verfassungsgericht
-
-* [https://www.spiegel.de/wirtschaft/energie-krise-verfassungsgericht-stoppt-windrad-verbot-in-thueringens-waeldern](https://www.spiegel.de/wirtschaft/energie-krise-verfassungsgericht-stoppt-windrad-verbot-in-thueringens-waeldern-a-e11fc00b-02ef-42f3-a34d-638a5c45d6a5#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/wirtschaft/energie-krise-verfassungsgericht-stoppt-windrad-verbot-in-thueringens-waeldern](https://www.spiegel.de/wirtschaft/energie-krise-verfassungsgericht-stoppt-windrad-verbot-in-thueringens-waeldern-a-e11fc00b-02ef-42f3-a34d-638a5c45d6a5#ref=rss)
-* [https://www.spiegel.de/ausland/g20-gipfel-in-indonesien-wladimir-putin-sagt-teilnahme-ab](https://www.spiegel.de/ausland/g20-gipfel-in-indonesien-wladimir-putin-sagt-teilnahme-ab-a-3e5a5c2c-7ecd-45f4-affa-9015e96d7407#ref=rss)
-### familien
-
-* [https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden](https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden-a-46fd2da3-2442-4020-abbd-741ff3d1b59d#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden](https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden-a-46fd2da3-2442-4020-abbd-741ff3d1b59d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/das-sind-deutschlands-erfolgreichste-staedte](https://www.spiegel.de/wirtschaft/soziales/das-sind-deutschlands-erfolgreichste-staedte-a-064071a5-8f72-434d-b2f8-a79f35fd4dd6#ref=rss)
-### kindern
-
-* [https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden](https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden-a-46fd2da3-2442-4020-abbd-741ff3d1b59d#ref=rss)
-### drei
-
-* [https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden](https://www.spiegel.de/wirtschaft/soziales/studie-zu-familien-unter-druck-wenn-kinder-zum-armutsfaktor-werden-a-46fd2da3-2442-4020-abbd-741ff3d1b59d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-fahrgastverband-pro-bahn-fordert-mehr-steuergeld-fuers-deutschlandticket](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-fahrgastverband-pro-bahn-fordert-mehr-steuergeld-fuers-deutschlandticket-a-b8143d1e-82d9-470c-8728-bc79cb4b72b9#ref=rss)
-### große
-
-* [https://www.spiegel.de/karriere/weihnachtsgeld-analyse-tarifbeschaeftigte-bekommen-mehr](https://www.spiegel.de/karriere/weihnachtsgeld-analyse-tarifbeschaeftigte-bekommen-mehr-a-4b0ea699-2f7b-438d-8838-4ec297a19f20#ref=rss)
-* [https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6](https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6-a-43e5eebc-bba8-4fc2-98d2-5db4db45b585#ref=rss)
-### pro
-
-* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-fahrgastverband-pro-bahn-fordert-mehr-steuergeld-fuers-deutschlandticket](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-fahrgastverband-pro-bahn-fordert-mehr-steuergeld-fuers-deutschlandticket-a-b8143d1e-82d9-470c-8728-bc79cb4b72b9#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/service/49-euro-ticket-fahrgastverband-pro-bahn-fordert-mehr-steuergeld-fuers-deutschlandticket](https://www.spiegel.de/wirtschaft/service/49-euro-ticket-fahrgastverband-pro-bahn-fordert-mehr-steuergeld-fuers-deutschlandticket-a-b8143d1e-82d9-470c-8728-bc79cb4b72b9#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/wirtschaft/soziales/das-sind-deutschlands-erfolgreichste-staedte](https://www.spiegel.de/wirtschaft/soziales/das-sind-deutschlands-erfolgreichste-staedte-a-064071a5-8f72-434d-b2f8-a79f35fd4dd6#ref=rss)
-### städte
-
-* [https://www.spiegel.de/wirtschaft/soziales/das-sind-deutschlands-erfolgreichste-staedte](https://www.spiegel.de/wirtschaft/soziales/das-sind-deutschlands-erfolgreichste-staedte-a-064071a5-8f72-434d-b2f8-a79f35fd4dd6#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/donald-trump-nach-den-us-midterms-angezaehlt-aber-nicht-erledigt](https://www.spiegel.de/ausland/donald-trump-nach-den-us-midterms-angezaehlt-aber-nicht-erledigt-a-1d00d86a-3028-4a86-a283-2722fdefdc7f#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/donald-trump-nach-den-us-midterms-angezaehlt-aber-nicht-erledigt](https://www.spiegel.de/ausland/donald-trump-nach-den-us-midterms-angezaehlt-aber-nicht-erledigt-a-1d00d86a-3028-4a86-a283-2722fdefdc7f#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/ausland/donald-trump-nach-den-us-midterms-angezaehlt-aber-nicht-erledigt](https://www.spiegel.de/ausland/donald-trump-nach-den-us-midterms-angezaehlt-aber-nicht-erledigt-a-1d00d86a-3028-4a86-a283-2722fdefdc7f#ref=rss)
-* [https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat](https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat-a-4327b190-a6c5-4c2b-aeca-61b227e563b2#ref=rss)
-### solarstrom
-
-* [https://www.spiegel.de/politik/deutschland/energiewende-mit-solarstrom-wie-china-uns-erpressen-kann-podcast](https://www.spiegel.de/politik/deutschland/energiewende-mit-solarstrom-wie-china-uns-erpressen-kann-podcast-a-a5096898-d650-4dd9-beed-2fc817c21d4c#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/forbes-steht-offenbar-vor-uebernahme-durch-investoren](https://www.spiegel.de/wirtschaft/forbes-steht-offenbar-vor-uebernahme-durch-investoren-a-db592606-f8fd-409b-b5fa-084eaca2fba0#ref=rss)
-### binance
-
-* [https://www.spiegel.de/wirtschaft/service/binance-krypto-boerse-blaest-ftx-uebernahme-ab](https://www.spiegel.de/wirtschaft/service/binance-krypto-boerse-blaest-ftx-uebernahme-ab-a-1b2969b4-4139-4e67-9544-5c77804838c2#ref=rss)
-### wmbotschafter
-
-* [https://www.spiegel.de/sport/fussball/katars-wm-botschafter-rechtfertigt-homophobe-aeusserungen](https://www.spiegel.de/sport/fussball/katars-wm-botschafter-rechtfertigt-homophobe-aeusserungen-a-b09f3e42-14ff-4d8e-8eb1-d0e599e0979a#ref=rss)
-### äußerungen
-
-* [https://www.spiegel.de/sport/fussball/katars-wm-botschafter-rechtfertigt-homophobe-aeusserungen](https://www.spiegel.de/sport/fussball/katars-wm-botschafter-rechtfertigt-homophobe-aeusserungen-a-b09f3e42-14ff-4d8e-8eb1-d0e599e0979a#ref=rss)
-### beklagt
-
-* [https://www.spiegel.de/sport/fussball/katars-wm-botschafter-rechtfertigt-homophobe-aeusserungen](https://www.spiegel.de/sport/fussball/katars-wm-botschafter-rechtfertigt-homophobe-aeusserungen-a-b09f3e42-14ff-4d8e-8eb1-d0e599e0979a#ref=rss)
-* [https://www.spiegel.de/ausland/aegypten-abgeordneter-beklagt-rauswurf-bei-un-weltklimakonferenz](https://www.spiegel.de/ausland/aegypten-abgeordneter-beklagt-rauswurf-bei-un-weltklimakonferenz-a-1ce5631c-171a-4187-9cea-a49fd09f7799#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/g20-gipfel-in-indonesien-wladimir-putin-sagt-teilnahme-ab](https://www.spiegel.de/ausland/g20-gipfel-in-indonesien-wladimir-putin-sagt-teilnahme-ab-a-3e5a5c2c-7ecd-45f4-affa-9015e96d7407#ref=rss)
-### abgeordneter
-
-* [https://www.spiegel.de/ausland/aegypten-abgeordneter-beklagt-rauswurf-bei-un-weltklimakonferenz](https://www.spiegel.de/ausland/aegypten-abgeordneter-beklagt-rauswurf-bei-un-weltklimakonferenz-a-1ce5631c-171a-4187-9cea-a49fd09f7799#ref=rss)
-### schauspielerin
-
-* [https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat](https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat-a-4327b190-a6c5-4c2b-aeca-61b227e563b2#ref=rss)
-* [https://www.spiegel.de/ausland/iran-taraneh-alidoosti-stellt-sich-gegen-das-iranische-regime](https://www.spiegel.de/ausland/iran-taraneh-alidoosti-stellt-sich-gegen-das-iranische-regime-a-3942ed2e-687f-4a1d-9441-9e48eeebec4d#ref=rss)
-### marlene
-
-* [https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat](https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat-a-4327b190-a6c5-4c2b-aeca-61b227e563b2#ref=rss)
-### burow
-
-* [https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat](https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat-a-4327b190-a6c5-4c2b-aeca-61b227e563b2#ref=rss)
-### geschafft
-
-* [https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat](https://www.spiegel.de/start/schauspielerin-werden-marlene-burow-erzaehlt-wie-sie-es-geschafft-hat-a-4327b190-a6c5-4c2b-aeca-61b227e563b2#ref=rss)
-### weihnachten
-
-* [https://www.spiegel.de/wirtschaft/service/weihnachten-buerger-streichen-weihnachtsausgaben-zusammen](https://www.spiegel.de/wirtschaft/service/weihnachten-buerger-streichen-weihnachtsausgaben-zusammen-a-6267e33f-155d-4428-b502-cf4b97206611#ref=rss)
-### bürger
-
-* [https://www.spiegel.de/wirtschaft/service/weihnachten-buerger-streichen-weihnachtsausgaben-zusammen](https://www.spiegel.de/wirtschaft/service/weihnachten-buerger-streichen-weihnachtsausgaben-zusammen-a-6267e33f-155d-4428-b502-cf4b97206611#ref=rss)
-### ausverkauft
-
-* [https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6](https://www.spiegel.de/sport/fussball/spiegel-podcast-ausverkauft-katar-der-fussball-und-das-grosse-geld-der-widerstand-episode-6-a-43e5eebc-bba8-4fc2-98d2-5db4db45b585#ref=rss)
-### taraneh
-
-* [https://www.spiegel.de/ausland/iran-taraneh-alidoosti-stellt-sich-gegen-das-iranische-regime](https://www.spiegel.de/ausland/iran-taraneh-alidoosti-stellt-sich-gegen-das-iranische-regime-a-3942ed2e-687f-4a1d-9441-9e48eeebec4d#ref=rss)
-### alidoosti
-
-* [https://www.spiegel.de/ausland/iran-taraneh-alidoosti-stellt-sich-gegen-das-iranische-regime](https://www.spiegel.de/ausland/iran-taraneh-alidoosti-stellt-sich-gegen-das-iranische-regime-a-3942ed2e-687f-4a1d-9441-9e48eeebec4d#ref=rss)
-### iranische
-
-* [https://www.spiegel.de/ausland/iran-taraneh-alidoosti-stellt-sich-gegen-das-iranische-regime](https://www.spiegel.de/ausland/iran-taraneh-alidoosti-stellt-sich-gegen-das-iranische-regime-a-3942ed2e-687f-4a1d-9441-9e48eeebec4d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/umstrittene-biologie-doktorandin-vollbrecht-verliert-streit-um-meinungsaeusserung](https://www.spiegel.de/panorama/bildung/umstrittene-biologie-doktorandin-vollbrecht-verliert-streit-um-meinungsaeusserung-a-fabb1812-5a5c-4b52-8982-590f5b0e6f2f#ref=rss)
 
