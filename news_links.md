@@ -4,310 +4,362 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### usa
 
-* [https://www.spiegel.de/auto/tesla-elon-musk-verschiebt-das-image-der-elektroauto-marke-nach-rechts](https://www.spiegel.de/auto/tesla-elon-musk-verschiebt-das-image-der-elektroauto-marke-nach-rechts-a-a8fd5d4c-1739-4a39-a5b0-90394cf3dd83#ref=rss)
-* [https://www.spiegel.de/start/hip-hop-produzent-denis-berger-je-mehr-erfolg-ich-hatte-desto-schlimmer-wurde-es](https://www.spiegel.de/start/hip-hop-produzent-denis-berger-je-mehr-erfolg-ich-hatte-desto-schlimmer-wurde-es-a-a563f9c7-6c4d-416a-b6b3-a00cf88cf7a5#ref=rss)
-* [https://www.spiegel.de/ausland/iran-wie-eine-demokratie-nach-der-revolution-aussehen-koennte](https://www.spiegel.de/ausland/iran-wie-eine-demokratie-nach-der-revolution-aussehen-koennte-a-769c4106-103f-4f1a-aee7-a4b2075f02b4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-veraendert-blitzeinschlaege-neue-simulation-fuer-europa](https://www.spiegel.de/wissenschaft/natur/klimawandel-veraendert-blitzeinschlaege-neue-simulation-fuer-europa-a-9d92e87b-7e54-4b77-9537-a362ddac844f#ref=rss)
-* [https://www.spiegel.de/panorama/aegypten-mindestens-18-tote-bei-minibus-unfall](https://www.spiegel.de/panorama/aegypten-mindestens-18-tote-bei-minibus-unfall-a-5e440dd0-0118-4b0a-8e82-8a2e545254dd#ref=rss)
-### cherson
-
-* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine-a-c8d73bf2-511f-427d-afb9-cc2eb6726f1c#ref=rss)
-* [https://www.spiegel.de/ausland/vormarsch-auf-cherson-die-wassermelone-wird-zum-ukrainischen-siegessymbol](https://www.spiegel.de/ausland/vormarsch-auf-cherson-die-wassermelone-wird-zum-ukrainischen-siegessymbol-a-a6aa629a-8f02-46be-810d-1fd172dede1d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier](https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier-a-60ff7ba2-8979-4cd8-b480-d85711b7a198#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/grossbritannien-dominic-raab-mobbingvorwuerfe-auch-gegen-justizminister](https://www.spiegel.de/ausland/grossbritannien-dominic-raab-mobbingvorwuerfe-auch-gegen-justizminister-a-37043f30-d4c3-476d-b2b2-290aa3360486#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/klimawandel-veraendert-blitzeinschlaege-neue-simulation-fuer-europa](https://www.spiegel.de/wissenschaft/natur/klimawandel-veraendert-blitzeinschlaege-neue-simulation-fuer-europa-a-9d92e87b-7e54-4b77-9537-a362ddac844f#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier](https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier-a-60ff7ba2-8979-4cd8-b480-d85711b7a198#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russische-rekruten-an-der-ostfront-sie-stopfen-loecher-mit-menschen](https://www.spiegel.de/ausland/ukraine-russische-rekruten-an-der-ostfront-sie-stopfen-loecher-mit-menschen-a-55db775d-53c2-43d4-ad4a-1ce850419a61#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-stromausfaelle-in-krankenhaeusern-sie-bekommen-nicht-das-was-sie-zum-ueberleben-brauchen](https://www.spiegel.de/ausland/ukraine-stromausfaelle-in-krankenhaeusern-sie-bekommen-nicht-das-was-sie-zum-ueberleben-brauchen-a-857b7285-584a-4f59-a17d-39b34e7de930#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier](https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier-a-60ff7ba2-8979-4cd8-b480-d85711b7a198#ref=rss)
-* [https://www.spiegel.de/panorama/aegypten-mindestens-18-tote-bei-minibus-unfall](https://www.spiegel.de/panorama/aegypten-mindestens-18-tote-bei-minibus-unfall-a-5e440dd0-0118-4b0a-8e82-8a2e545254dd#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russische-rekruten-an-der-ostfront-sie-stopfen-loecher-mit-menschen](https://www.spiegel.de/ausland/ukraine-russische-rekruten-an-der-ostfront-sie-stopfen-loecher-mit-menschen-a-55db775d-53c2-43d4-ad4a-1ce850419a61#ref=rss)
-### wmpause
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp-a-bb10f611-0e25-40c2-8520-266325893589#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter-a-09a2cded-3465-43de-8c3e-633c072485ff#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2-a-ba03ae9c-c1a4-4ced-a6ee-3ca0d5b2ab91#ref=rss)
-### wir
-
-* [https://www.spiegel.de/tests/brettspiele/krimi-und-raetselspiele-im-test-falls-morde-ihr-hobby-sind](https://www.spiegel.de/tests/brettspiele/krimi-und-raetselspiele-im-test-falls-morde-ihr-hobby-sind-a-c8d5934c-a4ef-4c1d-bbec-c5b1dd4a2fcd#ref=rss)
-* [https://www.spiegel.de/gesundheit/unterbewusstsein-wie-wir-uns-aus-negativen-gedankenschleifen-loesen-podcast-mit-stefan-koelsch](https://www.spiegel.de/gesundheit/unterbewusstsein-wie-wir-uns-aus-negativen-gedankenschleifen-loesen-podcast-mit-stefan-koelsch-a-ddc2c0bd-8705-465d-be7c-0d21e45fcd1c#ref=rss)
-* [https://www.spiegel.de/deinspiegel/schoenheitsideale-was-ist-eigentlich-schoen](https://www.spiegel.de/deinspiegel/schoenheitsideale-was-ist-eigentlich-schoen-a-a36f7915-90fd-4873-80ac-b9d246e04170#ref=rss)
-### schön
-
-* [https://www.spiegel.de/start/hip-hop-produzent-denis-berger-je-mehr-erfolg-ich-hatte-desto-schlimmer-wurde-es](https://www.spiegel.de/start/hip-hop-produzent-denis-berger-je-mehr-erfolg-ich-hatte-desto-schlimmer-wurde-es-a-a563f9c7-6c4d-416a-b6b3-a00cf88cf7a5#ref=rss)
-* [https://www.spiegel.de/deinspiegel/schoenheitsideale-was-ist-eigentlich-schoen](https://www.spiegel.de/deinspiegel/schoenheitsideale-was-ist-eigentlich-schoen-a-a36f7915-90fd-4873-80ac-b9d246e04170#ref=rss)
+* [https://www.spiegel.de/ausland/asean-gipfel-sergej-lawrow-wirft-usa-und-nato-vor-suedostasien-zu-militarisieren](https://www.spiegel.de/ausland/asean-gipfel-sergej-lawrow-wirft-usa-und-nato-vor-suedostasien-zu-militarisieren-a-2eba7a78-bf04-4aa3-a3ed-99f5928910c9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen](https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen-a-a75777f0-4dec-4f1b-a57e-314194f991ce#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy](https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy-a-dd2bb203-03c5-4a27-b03f-7ec7dc9bda33#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat](https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat-a-968a1b85-dfa5-4f7f-81b9-196b28e80cc2#ref=rss)
+* [https://www.spiegel.de/panorama/dallas-zwei-flugzeuge-stossen-bei-show-in-den-usa-zusammen](https://www.spiegel.de/panorama/dallas-zwei-flugzeuge-stossen-bei-show-in-den-usa-zusammen-a-b96d7fcd-bbc9-4847-b8a3-8b60d1af82e8#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/ausland/iran-wie-eine-demokratie-nach-der-revolution-aussehen-koennte](https://www.spiegel.de/ausland/iran-wie-eine-demokratie-nach-der-revolution-aussehen-koennte-a-769c4106-103f-4f1a-aee7-a4b2075f02b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-fuehrung-in-iran-scharf](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-fuehrung-in-iran-scharf-a-e4d509b5-4039-4ba0-b8b0-908c67b06a45#ref=rss)
-### letzten
+* [https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch](https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch-a-cb943b62-ed61-4096-bcc1-bd342a2abf00#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen](https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen-a-a75777f0-4dec-4f1b-a57e-314194f991ce#ref=rss)
+### katar
 
-* [https://www.spiegel.de/panorama/klima-protest-der-letzten-generation-wie-weit-darf-aktivismus-gehen](https://www.spiegel.de/panorama/klima-protest-der-letzten-generation-wie-weit-darf-aktivismus-gehen-a-2f436c92-626a-49da-9026-fa4ab69b5f8f#ref=rss)
-* [https://www.spiegel.de/ausland/vormarsch-auf-cherson-die-wassermelone-wird-zum-ukrainischen-siegessymbol](https://www.spiegel.de/ausland/vormarsch-auf-cherson-die-wassermelone-wird-zum-ukrainischen-siegessymbol-a-a6aa629a-8f02-46be-810d-1fd172dede1d#ref=rss)
-### weit
+* [https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann](https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann-a-b5be0f6c-5e13-4a0a-bfc7-5a89c73adfee#ref=rss)
+* [https://www.spiegel.de/ausland/fussball-wm-2022-in-katar-wie-ein-zwergstaat-zur-grossmacht-werden-konnte](https://www.spiegel.de/ausland/fussball-wm-2022-in-katar-wie-ein-zwergstaat-zur-grossmacht-werden-konnte-a-fd800795-5b0e-41da-b6c7-5ade746be1ab#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/panorama/klima-protest-der-letzten-generation-wie-weit-darf-aktivismus-gehen](https://www.spiegel.de/panorama/klima-protest-der-letzten-generation-wie-weit-darf-aktivismus-gehen-a-2f436c92-626a-49da-9026-fa4ab69b5f8f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form](https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form-a-379acd0e-3db0-4685-b449-145c65fd8c4d#ref=rss)
-### gehen
+* [https://www.spiegel.de/kultur/musik/keith-levene-clash-mitgruender-im-alter-von-65-jahren-gestorben](https://www.spiegel.de/kultur/musik/keith-levene-clash-mitgruender-im-alter-von-65-jahren-gestorben-a-88f385c0-8e99-4840-8f2b-8c2e9db32a7a#ref=rss)
+* [https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben](https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben-a-5449065b-8097-4e71-9e39-583998ac6839#ref=rss)
+### putin
 
-* [https://www.spiegel.de/panorama/klima-protest-der-letzten-generation-wie-weit-darf-aktivismus-gehen](https://www.spiegel.de/panorama/klima-protest-der-letzten-generation-wie-weit-darf-aktivismus-gehen-a-2f436c92-626a-49da-9026-fa4ab69b5f8f#ref=rss)
-* [https://www.spiegel.de/kultur/tv/die-discounter-bei-amazon-prime-video-ein-glaeschen-urin-gefaellig](https://www.spiegel.de/kultur/tv/die-discounter-bei-amazon-prime-video-ein-glaeschen-urin-gefaellig-a-246e1775-ef64-49e9-bb70-1fc068c43acd#ref=rss)
-### ukrainischen
-
-* [https://www.spiegel.de/ausland/vormarsch-auf-cherson-die-wassermelone-wird-zum-ukrainischen-siegessymbol](https://www.spiegel.de/ausland/vormarsch-auf-cherson-die-wassermelone-wird-zum-ukrainischen-siegessymbol-a-a6aa629a-8f02-46be-810d-1fd172dede1d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier](https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier-a-60ff7ba2-8979-4cd8-b480-d85711b7a198#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-stromausfaelle-in-krankenhaeusern-sie-bekommen-nicht-das-was-sie-zum-ueberleben-brauchen](https://www.spiegel.de/ausland/ukraine-stromausfaelle-in-krankenhaeusern-sie-bekommen-nicht-das-was-sie-zum-ueberleben-brauchen-a-857b7285-584a-4f59-a17d-39b34e7de930#ref=rss)
-### borussia
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form](https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form-a-379acd0e-3db0-4685-b449-145c65fd8c4d#ref=rss)
-### uns
-
-* [https://www.spiegel.de/gesundheit/unterbewusstsein-wie-wir-uns-aus-negativen-gedankenschleifen-loesen-podcast-mit-stefan-koelsch](https://www.spiegel.de/gesundheit/unterbewusstsein-wie-wir-uns-aus-negativen-gedankenschleifen-loesen-podcast-mit-stefan-koelsch-a-ddc2c0bd-8705-465d-be7c-0d21e45fcd1c#ref=rss)
-### essen
-
-* [https://www.spiegel.de/panorama/essen-katze-durch-feuerwehrleute-aus-radkasten-von-auto-befreit](https://www.spiegel.de/panorama/essen-katze-durch-feuerwehrleute-aus-radkasten-von-auto-befreit-a-4386ff31-a112-4ced-b8b5-d7821300ebac#ref=rss)
-### katze
-
-* [https://www.spiegel.de/panorama/essen-katze-durch-feuerwehrleute-aus-radkasten-von-auto-befreit](https://www.spiegel.de/panorama/essen-katze-durch-feuerwehrleute-aus-radkasten-von-auto-befreit-a-4386ff31-a112-4ced-b8b5-d7821300ebac#ref=rss)
-### feuerwehrleute
-
-* [https://www.spiegel.de/panorama/essen-katze-durch-feuerwehrleute-aus-radkasten-von-auto-befreit](https://www.spiegel.de/panorama/essen-katze-durch-feuerwehrleute-aus-radkasten-von-auto-befreit-a-4386ff31-a112-4ced-b8b5-d7821300ebac#ref=rss)
-### radkasten
-
-* [https://www.spiegel.de/panorama/essen-katze-durch-feuerwehrleute-aus-radkasten-von-auto-befreit](https://www.spiegel.de/panorama/essen-katze-durch-feuerwehrleute-aus-radkasten-von-auto-befreit-a-4386ff31-a112-4ced-b8b5-d7821300ebac#ref=rss)
-### premier
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp-a-bb10f611-0e25-40c2-8520-266325893589#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-dominic-raab-mobbingvorwuerfe-auch-gegen-justizminister](https://www.spiegel.de/ausland/grossbritannien-dominic-raab-mobbingvorwuerfe-auch-gegen-justizminister-a-37043f30-d4c3-476d-b2b2-290aa3360486#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp-a-bb10f611-0e25-40c2-8520-266325893589#ref=rss)
-### city
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp-a-bb10f611-0e25-40c2-8520-266325893589#ref=rss)
-### verliert
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp-a-bb10f611-0e25-40c2-8520-266325893589#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form](https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form-a-379acd0e-3db0-4685-b449-145c65fd8c4d#ref=rss)
-### siegt
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp-a-bb10f611-0e25-40c2-8520-266325893589#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter-a-09a2cded-3465-43de-8c3e-633c072485ff#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp-a-bb10f611-0e25-40c2-8520-266325893589#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russische-rekruten-an-der-ostfront-sie-stopfen-loecher-mit-menschen](https://www.spiegel.de/ausland/ukraine-russische-rekruten-an-der-ostfront-sie-stopfen-loecher-mit-menschen-a-55db775d-53c2-43d4-ad4a-1ce850419a61#ref=rss)
-### klopp
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp-a-bb10f611-0e25-40c2-8520-266325893589#ref=rss)
-### überraschend
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp-a-bb10f611-0e25-40c2-8520-266325893589#ref=rss)
-* [https://www.spiegel.de/sport/tennis/billie-jean-king-cups-deutsche-tennisspielerinnen-verhindern-abstieg-aus-der-weltgruppe](https://www.spiegel.de/sport/tennis/billie-jean-king-cups-deutsche-tennisspielerinnen-verhindern-abstieg-aus-der-weltgruppe-a-ecb95d3d-a049-4e15-8d64-27ce94203eb9#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp-a-bb10f611-0e25-40c2-8520-266325893589#ref=rss)
-### verlor
-
-* [https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp](https://www.spiegel.de/sport/fussball/premier-league-manchester-city-verliert-in-der-nachspielzeit-liverpool-siegt-ohne-klopp-a-bb10f611-0e25-40c2-8520-266325893589#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter-a-09a2cded-3465-43de-8c3e-633c072485ff#ref=rss)
-### elon
-
-* [https://www.spiegel.de/auto/tesla-elon-musk-verschiebt-das-image-der-elektroauto-marke-nach-rechts](https://www.spiegel.de/auto/tesla-elon-musk-verschiebt-das-image-der-elektroauto-marke-nach-rechts-a-a8fd5d4c-1739-4a39-a5b0-90394cf3dd83#ref=rss)
-### musk
-
-* [https://www.spiegel.de/auto/tesla-elon-musk-verschiebt-das-image-der-elektroauto-marke-nach-rechts](https://www.spiegel.de/auto/tesla-elon-musk-verschiebt-das-image-der-elektroauto-marke-nach-rechts-a-a8fd5d4c-1739-4a39-a5b0-90394cf3dd83#ref=rss)
-### waren
-
-* [https://www.spiegel.de/auto/tesla-elon-musk-verschiebt-das-image-der-elektroauto-marke-nach-rechts](https://www.spiegel.de/auto/tesla-elon-musk-verschiebt-das-image-der-elektroauto-marke-nach-rechts-a-a8fd5d4c-1739-4a39-a5b0-90394cf3dd83#ref=rss)
-* [https://www.spiegel.de/ausland/vormarsch-auf-cherson-die-wassermelone-wird-zum-ukrainischen-siegessymbol](https://www.spiegel.de/ausland/vormarsch-auf-cherson-die-wassermelone-wird-zum-ukrainischen-siegessymbol-a-a6aa629a-8f02-46be-810d-1fd172dede1d#ref=rss)
-### lange
-
-* [https://www.spiegel.de/auto/tesla-elon-musk-verschiebt-das-image-der-elektroauto-marke-nach-rechts](https://www.spiegel.de/auto/tesla-elon-musk-verschiebt-das-image-der-elektroauto-marke-nach-rechts-a-a8fd5d4c-1739-4a39-a5b0-90394cf3dd83#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2-a-ba03ae9c-c1a4-4ced-a6ee-3ca0d5b2ab91#ref=rss)
-### kryptobörse
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-ftx-geht-gegen-nicht-autorisierte-transaktionen-vor](https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-ftx-geht-gegen-nicht-autorisierte-transaktionen-vor-a-053c4e49-e821-4508-af4e-6ce98fe12100#ref=rss)
-### ftx
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-ftx-geht-gegen-nicht-autorisierte-transaktionen-vor](https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-ftx-geht-gegen-nicht-autorisierte-transaktionen-vor-a-053c4e49-e821-4508-af4e-6ce98fe12100#ref=rss)
-### britische
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-ftx-geht-gegen-nicht-autorisierte-transaktionen-vor](https://www.spiegel.de/wirtschaft/unternehmen/kryptoboerse-ftx-geht-gegen-nicht-autorisierte-transaktionen-vor-a-053c4e49-e821-4508-af4e-6ce98fe12100#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-dominic-raab-mobbingvorwuerfe-auch-gegen-justizminister](https://www.spiegel.de/ausland/grossbritannien-dominic-raab-mobbingvorwuerfe-auch-gegen-justizminister-a-37043f30-d4c3-476d-b2b2-290aa3360486#ref=rss)
-### weltgruppe
-
-* [https://www.spiegel.de/sport/tennis/billie-jean-king-cups-deutsche-tennisspielerinnen-verhindern-abstieg-aus-der-weltgruppe](https://www.spiegel.de/sport/tennis/billie-jean-king-cups-deutsche-tennisspielerinnen-verhindern-abstieg-aus-der-weltgruppe-a-ecb95d3d-a049-4e15-8d64-27ce94203eb9#ref=rss)
-### samstag
-
+* [https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren](https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren-a-a1b87608-f498-4eae-a5bb-59a4e9b3aa1c#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy](https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy-a-dd2bb203-03c5-4a27-b03f-7ec7dc9bda33#ref=rss)
 * [https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine-a-c8d73bf2-511f-427d-afb9-cc2eb6726f1c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2-a-ba03ae9c-c1a4-4ced-a6ee-3ca0d5b2ab91#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine-a-c8d73bf2-511f-427d-afb9-cc2eb6726f1c#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine-a-c8d73bf2-511f-427d-afb9-cc2eb6726f1c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier](https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier-a-60ff7ba2-8979-4cd8-b480-d85711b7a198#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter-a-09a2cded-3465-43de-8c3e-633c072485ff#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2-a-ba03ae9c-c1a4-4ced-a6ee-3ca0d5b2ab91#ref=rss)
-### rb
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter-a-09a2cded-3465-43de-8c3e-633c072485ff#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter-a-09a2cded-3465-43de-8c3e-633c072485ff#ref=rss)
-### durfte
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter-a-09a2cded-3465-43de-8c3e-633c072485ff#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2-a-ba03ae9c-c1a4-4ced-a6ee-3ca0d5b2ab91#ref=rss)
-### jubeln
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter-a-09a2cded-3465-43de-8c3e-633c072485ff#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier](https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier-a-60ff7ba2-8979-4cd8-b480-d85711b7a198#ref=rss)
-### team
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter-a-09a2cded-3465-43de-8c3e-633c072485ff#ref=rss)
-* [https://www.spiegel.de/panorama/klima-protest-der-letzten-generation-wie-weit-darf-aktivismus-gehen](https://www.spiegel.de/panorama/klima-protest-der-letzten-generation-wie-weit-darf-aktivismus-gehen-a-2f436c92-626a-49da-9026-fa4ab69b5f8f#ref=rss)
-### trainer
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter](https://www.spiegel.de/sport/fussball/fussball-bundesliga-rb-leipzig-siegt-bei-werder-bremen-und-ist-vorerst-zweiter-a-09a2cded-3465-43de-8c3e-633c072485ff#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form](https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form-a-379acd0e-3db0-4685-b449-145c65fd8c4d#ref=rss)
-### schottland
-
-* [https://www.spiegel.de/panorama/leute/schottland-kate-winslet-zahlt-energierechnung-fuer-mutter-von-pflegebeduerftigem-kind](https://www.spiegel.de/panorama/leute/schottland-kate-winslet-zahlt-energierechnung-fuer-mutter-von-pflegebeduerftigem-kind-a-bb7a32a0-5952-4872-852b-833364497e04#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/leute/schottland-kate-winslet-zahlt-energierechnung-fuer-mutter-von-pflegebeduerftigem-kind](https://www.spiegel.de/panorama/leute/schottland-kate-winslet-zahlt-energierechnung-fuer-mutter-von-pflegebeduerftigem-kind-a-bb7a32a0-5952-4872-852b-833364497e04#ref=rss)
-### raab
-
-* [https://www.spiegel.de/ausland/grossbritannien-dominic-raab-mobbingvorwuerfe-auch-gegen-justizminister](https://www.spiegel.de/ausland/grossbritannien-dominic-raab-mobbingvorwuerfe-auch-gegen-justizminister-a-37043f30-d4c3-476d-b2b2-290aa3360486#ref=rss)
-### justizminister
-
-* [https://www.spiegel.de/ausland/grossbritannien-dominic-raab-mobbingvorwuerfe-auch-gegen-justizminister](https://www.spiegel.de/ausland/grossbritannien-dominic-raab-mobbingvorwuerfe-auch-gegen-justizminister-a-37043f30-d4c3-476d-b2b2-290aa3360486#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/ausland/grossbritannien-dominic-raab-mobbingvorwuerfe-auch-gegen-justizminister](https://www.spiegel.de/ausland/grossbritannien-dominic-raab-mobbingvorwuerfe-auch-gegen-justizminister-a-37043f30-d4c3-476d-b2b2-290aa3360486#ref=rss)
-* [https://www.spiegel.de/gesundheit/unterbewusstsein-wie-wir-uns-aus-negativen-gedankenschleifen-loesen-podcast-mit-stefan-koelsch](https://www.spiegel.de/gesundheit/unterbewusstsein-wie-wir-uns-aus-negativen-gedankenschleifen-loesen-podcast-mit-stefan-koelsch-a-ddc2c0bd-8705-465d-be7c-0d21e45fcd1c#ref=rss)
-### denis
-
-* [https://www.spiegel.de/start/hip-hop-produzent-denis-berger-je-mehr-erfolg-ich-hatte-desto-schlimmer-wurde-es](https://www.spiegel.de/start/hip-hop-produzent-denis-berger-je-mehr-erfolg-ich-hatte-desto-schlimmer-wurde-es-a-a563f9c7-6c4d-416a-b6b3-a00cf88cf7a5#ref=rss)
-### berger
-
-* [https://www.spiegel.de/start/hip-hop-produzent-denis-berger-je-mehr-erfolg-ich-hatte-desto-schlimmer-wurde-es](https://www.spiegel.de/start/hip-hop-produzent-denis-berger-je-mehr-erfolg-ich-hatte-desto-schlimmer-wurde-es-a-a563f9c7-6c4d-416a-b6b3-a00cf88cf7a5#ref=rss)
-### erfolg
-
-* [https://www.spiegel.de/start/hip-hop-produzent-denis-berger-je-mehr-erfolg-ich-hatte-desto-schlimmer-wurde-es](https://www.spiegel.de/start/hip-hop-produzent-denis-berger-je-mehr-erfolg-ich-hatte-desto-schlimmer-wurde-es-a-a563f9c7-6c4d-416a-b6b3-a00cf88cf7a5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2-a-ba03ae9c-c1a4-4ced-a6ee-3ca0d5b2ab91#ref=rss)
-### podcast
-
-* [https://www.spiegel.de/ausland/oesterreich-red-bull-und-der-rechtspopulismus-podcast](https://www.spiegel.de/ausland/oesterreich-red-bull-und-der-rechtspopulismus-podcast-a-8fc24360-ef42-421e-ad4c-afe4d5d0b7af#ref=rss)
-* [https://www.spiegel.de/gesundheit/unterbewusstsein-wie-wir-uns-aus-negativen-gedankenschleifen-loesen-podcast-mit-stefan-koelsch](https://www.spiegel.de/gesundheit/unterbewusstsein-wie-wir-uns-aus-negativen-gedankenschleifen-loesen-podcast-mit-stefan-koelsch-a-ddc2c0bd-8705-465d-be7c-0d21e45fcd1c#ref=rss)
-### südostasien
-
-* [https://www.spiegel.de/ausland/asean-g20-apec-in-suedostasien-trifft-sich-die-welt](https://www.spiegel.de/ausland/asean-g20-apec-in-suedostasien-trifft-sich-die-welt-a-d5396252-563b-4b8b-83a2-f1bcbffba948#ref=rss)
-### vorgehen
-
-* [https://www.spiegel.de/ausland/iran-wie-eine-demokratie-nach-der-revolution-aussehen-koennte](https://www.spiegel.de/ausland/iran-wie-eine-demokratie-nach-der-revolution-aussehen-koennte-a-769c4106-103f-4f1a-aee7-a4b2075f02b4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-fuehrung-in-iran-scharf](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-fuehrung-in-iran-scharf-a-e4d509b5-4039-4ba0-b8b0-908c67b06a45#ref=rss)
-### generation
-
-* [https://www.spiegel.de/panorama/klima-protest-der-letzten-generation-wie-weit-darf-aktivismus-gehen](https://www.spiegel.de/panorama/klima-protest-der-letzten-generation-wie-weit-darf-aktivismus-gehen-a-2f436c92-626a-49da-9026-fa4ab69b5f8f#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2-a-ba03ae9c-c1a4-4ced-a6ee-3ca0d5b2ab91#ref=rss)
-### 42
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-schlaegt-den-sv-sandhausen-4-2-a-ba03ae9c-c1a4-4ced-a6ee-3ca0d5b2ab91#ref=rss)
-### region
-
-* [https://www.spiegel.de/ausland/vormarsch-auf-cherson-die-wassermelone-wird-zum-ukrainischen-siegessymbol](https://www.spiegel.de/ausland/vormarsch-auf-cherson-die-wassermelone-wird-zum-ukrainischen-siegessymbol-a-a6aa629a-8f02-46be-810d-1fd172dede1d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier](https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier-a-60ff7ba2-8979-4cd8-b480-d85711b7a198#ref=rss)
-### russischen
-
-* [https://www.spiegel.de/ausland/vormarsch-auf-cherson-die-wassermelone-wird-zum-ukrainischen-siegessymbol](https://www.spiegel.de/ausland/vormarsch-auf-cherson-die-wassermelone-wird-zum-ukrainischen-siegessymbol-a-a6aa629a-8f02-46be-810d-1fd172dede1d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-stromausfaelle-in-krankenhaeusern-sie-bekommen-nicht-das-was-sie-zum-ueberleben-brauchen](https://www.spiegel.de/ausland/ukraine-stromausfaelle-in-krankenhaeusern-sie-bekommen-nicht-das-was-sie-zum-ueberleben-brauchen-a-857b7285-584a-4f59-a17d-39b34e7de930#ref=rss)
-### video
-
-* [https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier](https://www.spiegel.de/ausland/ukraine-so-begruessen-die-menschen-in-cherson-ihre-befreier-a-60ff7ba2-8979-4cd8-b480-d85711b7a198#ref=rss)
-* [https://www.spiegel.de/kultur/tv/die-discounter-bei-amazon-prime-video-ein-glaeschen-urin-gefaellig](https://www.spiegel.de/kultur/tv/die-discounter-bei-amazon-prime-video-ein-glaeschen-urin-gefaellig-a-246e1775-ef64-49e9-bb70-1fc068c43acd#ref=rss)
-### alec
-
-* [https://www.spiegel.de/kultur/kino/alec-baldwin-hollywood-schauspieler-verklagt-western-filmcrew](https://www.spiegel.de/kultur/kino/alec-baldwin-hollywood-schauspieler-verklagt-western-filmcrew-a-b52a1275-8237-4bd3-86ee-7b106f1e9a55#ref=rss)
-### baldwin
-
-* [https://www.spiegel.de/kultur/kino/alec-baldwin-hollywood-schauspieler-verklagt-western-filmcrew](https://www.spiegel.de/kultur/kino/alec-baldwin-hollywood-schauspieler-verklagt-western-filmcrew-a-b52a1275-8237-4bd3-86ee-7b106f1e9a55#ref=rss)
-### schuld
-
-* [https://www.spiegel.de/kultur/kino/alec-baldwin-hollywood-schauspieler-verklagt-western-filmcrew](https://www.spiegel.de/kultur/kino/alec-baldwin-hollywood-schauspieler-verklagt-western-filmcrew-a-b52a1275-8237-4bd3-86ee-7b106f1e9a55#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-stromausfaelle-in-krankenhaeusern-sie-bekommen-nicht-das-was-sie-zum-ueberleben-brauchen](https://www.spiegel.de/ausland/ukraine-stromausfaelle-in-krankenhaeusern-sie-bekommen-nicht-das-was-sie-zum-ueberleben-brauchen-a-857b7285-584a-4f59-a17d-39b34e7de930#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/kultur/kino/alec-baldwin-hollywood-schauspieler-verklagt-western-filmcrew](https://www.spiegel.de/kultur/kino/alec-baldwin-hollywood-schauspieler-verklagt-western-filmcrew-a-b52a1275-8237-4bd3-86ee-7b106f1e9a55#ref=rss)
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form](https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form-a-379acd0e-3db0-4685-b449-145c65fd8c4d#ref=rss)
-### bürgergeld
-
-* [https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-sieht-wenig-einigungspotenzial](https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-sieht-wenig-einigungspotenzial-a-14be407b-bacd-4d24-87a3-597f4d86bb4a#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-sieht-wenig-einigungspotenzial](https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-sieht-wenig-einigungspotenzial-a-14be407b-bacd-4d24-87a3-597f4d86bb4a#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-sieht-wenig-einigungspotenzial](https://www.spiegel.de/politik/deutschland/buergergeld-friedrich-merz-sieht-wenig-einigungspotenzial-a-14be407b-bacd-4d24-87a3-597f4d86bb4a#ref=rss)
-### ägypten
-
-* [https://www.spiegel.de/panorama/aegypten-mindestens-18-tote-bei-minibus-unfall](https://www.spiegel.de/panorama/aegypten-mindestens-18-tote-bei-minibus-unfall-a-5e440dd0-0118-4b0a-8e82-8a2e545254dd#ref=rss)
-### employer
-
-* [https://www.spiegel.de/karriere/employer-of-record-mit-diesem-trick-arbeiten-sie-dauerhaft-legal-aus-der-sonne](https://www.spiegel.de/karriere/employer-of-record-mit-diesem-trick-arbeiten-sie-dauerhaft-legal-aus-der-sonne-a-c86f353c-82ea-4e5f-8f54-0c563c8d457f#ref=rss)
-### of
-
-* [https://www.spiegel.de/karriere/employer-of-record-mit-diesem-trick-arbeiten-sie-dauerhaft-legal-aus-der-sonne](https://www.spiegel.de/karriere/employer-of-record-mit-diesem-trick-arbeiten-sie-dauerhaft-legal-aus-der-sonne-a-c86f353c-82ea-4e5f-8f54-0c563c8d457f#ref=rss)
-### record
-
-* [https://www.spiegel.de/karriere/employer-of-record-mit-diesem-trick-arbeiten-sie-dauerhaft-legal-aus-der-sonne](https://www.spiegel.de/karriere/employer-of-record-mit-diesem-trick-arbeiten-sie-dauerhaft-legal-aus-der-sonne-a-c86f353c-82ea-4e5f-8f54-0c563c8d457f#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/karriere/employer-of-record-mit-diesem-trick-arbeiten-sie-dauerhaft-legal-aus-der-sonne](https://www.spiegel.de/karriere/employer-of-record-mit-diesem-trick-arbeiten-sie-dauerhaft-legal-aus-der-sonne-a-c86f353c-82ea-4e5f-8f54-0c563c8d457f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-fuehrung-in-iran-scharf](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-fuehrung-in-iran-scharf-a-e4d509b5-4039-4ba0-b8b0-908c67b06a45#ref=rss)
-### viele
+* [https://www.spiegel.de/politik/cop27-klimakonferenz-deutschland-beschwert-sich-wegen-moeglicher-beschattung-bei-aegypten](https://www.spiegel.de/politik/cop27-klimakonferenz-deutschland-beschwert-sich-wegen-moeglicher-beschattung-bei-aegypten-a-d8f8f21f-e0e6-4eeb-97c4-985d2584bd45#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch](https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch-a-cb943b62-ed61-4096-bcc1-bd342a2abf00#ref=rss)
+* [https://www.spiegel.de/ausland/un-weltklimakonferenz-ex-praesident-der-malediven-fordert-schuldenerlass](https://www.spiegel.de/ausland/un-weltklimakonferenz-ex-praesident-der-malediven-fordert-schuldenerlass-a-1474b18e-370d-4a3a-947c-dfe6db979259#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/karriere/employer-of-record-mit-diesem-trick-arbeiten-sie-dauerhaft-legal-aus-der-sonne](https://www.spiegel.de/karriere/employer-of-record-mit-diesem-trick-arbeiten-sie-dauerhaft-legal-aus-der-sonne-a-c86f353c-82ea-4e5f-8f54-0c563c8d457f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russische-rekruten-an-der-ostfront-sie-stopfen-loecher-mit-menschen](https://www.spiegel.de/ausland/ukraine-russische-rekruten-an-der-ostfront-sie-stopfen-loecher-mit-menschen-a-55db775d-53c2-43d4-ad4a-1ce850419a61#ref=rss)
-### dortmund
+* [https://www.spiegel.de/politik/cop27-klimakonferenz-deutschland-beschwert-sich-wegen-moeglicher-beschattung-bei-aegypten](https://www.spiegel.de/politik/cop27-klimakonferenz-deutschland-beschwert-sich-wegen-moeglicher-beschattung-bei-aegypten-a-d8f8f21f-e0e6-4eeb-97c4-985d2584bd45#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/umfrage-zum-thema-inflation-deutsche-gehen-wegen-preissteigerungen-seltener-ins-restaurant](https://www.spiegel.de/wirtschaft/service/umfrage-zum-thema-inflation-deutsche-gehen-wegen-preissteigerungen-seltener-ins-restaurant-a-a4cc18ee-015a-40ca-9a24-a99d78c02757#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-karine-tuil-diese-eine-entscheidung](https://www.spiegel.de/kultur/literatur/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-karine-tuil-diese-eine-entscheidung-a-3f190a03-7067-4a6d-aa50-26a94d918c02#ref=rss)
+### gut
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form](https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form-a-379acd0e-3db0-4685-b449-145c65fd8c4d#ref=rss)
-### wirkt
+* [https://www.spiegel.de/politik/cop27-klimakonferenz-deutschland-beschwert-sich-wegen-moeglicher-beschattung-bei-aegypten](https://www.spiegel.de/politik/cop27-klimakonferenz-deutschland-beschwert-sich-wegen-moeglicher-beschattung-bei-aegypten-a-d8f8f21f-e0e6-4eeb-97c4-985d2584bd45#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich](https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich-a-b3febf08-dcd0-4adc-8064-08c161dc23b8#ref=rss)
+### deshalb
 
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form](https://www.spiegel.de/sport/fussball/borussia-dortmund-verliert-gegen-borussia-moenchengladbach-weit-entfernt-von-der-wm-form-a-379acd0e-3db0-4685-b449-145c65fd8c4d#ref=rss)
-* [https://www.spiegel.de/kultur/tv/die-discounter-bei-amazon-prime-video-ein-glaeschen-urin-gefaellig](https://www.spiegel.de/kultur/tv/die-discounter-bei-amazon-prime-video-ein-glaeschen-urin-gefaellig-a-246e1775-ef64-49e9-bb70-1fc068c43acd#ref=rss)
-### führung
+* [https://www.spiegel.de/politik/cop27-klimakonferenz-deutschland-beschwert-sich-wegen-moeglicher-beschattung-bei-aegypten](https://www.spiegel.de/politik/cop27-klimakonferenz-deutschland-beschwert-sich-wegen-moeglicher-beschattung-bei-aegypten-a-d8f8f21f-e0e6-4eeb-97c4-985d2584bd45#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen](https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen-a-a75777f0-4dec-4f1b-a57e-314194f991ce#ref=rss)
+* [https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren](https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren-a-a1b87608-f498-4eae-a5bb-59a4e9b3aa1c#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-fuehrung-in-iran-scharf](https://www.spiegel.de/politik/deutschland/olaf-scholz-kritisiert-fuehrung-in-iran-scharf-a-e4d509b5-4039-4ba0-b8b0-908c67b06a45#ref=rss)
-### stefan
+* [https://www.spiegel.de/wissenschaft/technik/luftfahrt-wie-gefaehrlich-sind-enge-flugzeugsitze](https://www.spiegel.de/wissenschaft/technik/luftfahrt-wie-gefaehrlich-sind-enge-flugzeugsitze-a-568d63a9-29ed-41b2-a377-db19e451a035#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/umfrage-zum-thema-inflation-deutsche-gehen-wegen-preissteigerungen-seltener-ins-restaurant](https://www.spiegel.de/wirtschaft/service/umfrage-zum-thema-inflation-deutsche-gehen-wegen-preissteigerungen-seltener-ins-restaurant-a-a4cc18ee-015a-40ca-9a24-a99d78c02757#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-karine-tuil-diese-eine-entscheidung](https://www.spiegel.de/kultur/literatur/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-karine-tuil-diese-eine-entscheidung-a-3f190a03-7067-4a6d-aa50-26a94d918c02#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/gesundheit/unterbewusstsein-wie-wir-uns-aus-negativen-gedankenschleifen-loesen-podcast-mit-stefan-koelsch](https://www.spiegel.de/gesundheit/unterbewusstsein-wie-wir-uns-aus-negativen-gedankenschleifen-loesen-podcast-mit-stefan-koelsch-a-ddc2c0bd-8705-465d-be7c-0d21e45fcd1c#ref=rss)
-### kölsch
+* [https://www.spiegel.de/karriere/der-verschwundene-spielstein-raetsel-der-woche](https://www.spiegel.de/karriere/der-verschwundene-spielstein-raetsel-der-woche-a-f0ec373a-0da1-49c6-a376-f6198b979bb9#ref=rss)
+* [https://www.spiegel.de/panorama/dallas-zwei-flugzeuge-stossen-bei-show-in-den-usa-zusammen](https://www.spiegel.de/panorama/dallas-zwei-flugzeuge-stossen-bei-show-in-den-usa-zusammen-a-b96d7fcd-bbc9-4847-b8a3-8b60d1af82e8#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-serie-lamia-in-zwei-kulturen-gesandwicht](https://www.spiegel.de/kultur/tv/ard-serie-lamia-in-zwei-kulturen-gesandwicht-a-2cb8a87f-e4cf-4ac6-8ee8-31309543b685#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/gesundheit/unterbewusstsein-wie-wir-uns-aus-negativen-gedankenschleifen-loesen-podcast-mit-stefan-koelsch](https://www.spiegel.de/gesundheit/unterbewusstsein-wie-wir-uns-aus-negativen-gedankenschleifen-loesen-podcast-mit-stefan-koelsch-a-ddc2c0bd-8705-465d-be7c-0d21e45fcd1c#ref=rss)
-### krankenhäusern
+* [https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch](https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch-a-cb943b62-ed61-4096-bcc1-bd342a2abf00#ref=rss)
+* [https://www.spiegel.de/ausland/aethiopien-regierung-und-rebellen-wollen-hilfslieferungen-fuer-tigray-gewaehren](https://www.spiegel.de/ausland/aethiopien-regierung-und-rebellen-wollen-hilfslieferungen-fuer-tigray-gewaehren-a-8445f0e6-dbf0-48f4-b41b-530451fc062b#ref=rss)
+### land
 
-* [https://www.spiegel.de/ausland/ukraine-stromausfaelle-in-krankenhaeusern-sie-bekommen-nicht-das-was-sie-zum-ueberleben-brauchen](https://www.spiegel.de/ausland/ukraine-stromausfaelle-in-krankenhaeusern-sie-bekommen-nicht-das-was-sie-zum-ueberleben-brauchen-a-857b7285-584a-4f59-a17d-39b34e7de930#ref=rss)
-### fehlt
+* [https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch](https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch-a-cb943b62-ed61-4096-bcc1-bd342a2abf00#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy](https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy-a-dd2bb203-03c5-4a27-b03f-7ec7dc9bda33#ref=rss)
+* [https://www.spiegel.de/ausland/un-weltklimakonferenz-ex-praesident-der-malediven-fordert-schuldenerlass](https://www.spiegel.de/ausland/un-weltklimakonferenz-ex-praesident-der-malediven-fordert-schuldenerlass-a-1474b18e-370d-4a3a-947c-dfe6db979259#ref=rss)
+### biden
 
-* [https://www.spiegel.de/ausland/ukraine-stromausfaelle-in-krankenhaeusern-sie-bekommen-nicht-das-was-sie-zum-ueberleben-brauchen](https://www.spiegel.de/ausland/ukraine-stromausfaelle-in-krankenhaeusern-sie-bekommen-nicht-das-was-sie-zum-ueberleben-brauchen-a-857b7285-584a-4f59-a17d-39b34e7de930#ref=rss)
-* [https://www.spiegel.de/kultur/tv/die-discounter-bei-amazon-prime-video-ein-glaeschen-urin-gefaellig](https://www.spiegel.de/kultur/tv/die-discounter-bei-amazon-prime-video-ein-glaeschen-urin-gefaellig-a-246e1775-ef64-49e9-bb70-1fc068c43acd#ref=rss)
-### discounter
+* [https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich](https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich-a-b3febf08-dcd0-4adc-8064-08c161dc23b8#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat](https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat-a-968a1b85-dfa5-4f7f-81b9-196b28e80cc2#ref=rss)
+### cherson
 
-* [https://www.spiegel.de/kultur/tv/die-discounter-bei-amazon-prime-video-ein-glaeschen-urin-gefaellig](https://www.spiegel.de/kultur/tv/die-discounter-bei-amazon-prime-video-ein-glaeschen-urin-gefaellig-a-246e1775-ef64-49e9-bb70-1fc068c43acd#ref=rss)
+* [https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren](https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren-a-a1b87608-f498-4eae-a5bb-59a4e9b3aa1c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine-a-c8d73bf2-511f-427d-afb9-cc2eb6726f1c#ref=rss)
+### midterms
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy](https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy-a-dd2bb203-03c5-4a27-b03f-7ec7dc9bda33#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat](https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat-a-968a1b85-dfa5-4f7f-81b9-196b28e80cc2#ref=rss)
+### november
+
+* [https://www.spiegel.de/ausland/aethiopien-regierung-und-rebellen-wollen-hilfslieferungen-fuer-tigray-gewaehren](https://www.spiegel.de/ausland/aethiopien-regierung-und-rebellen-wollen-hilfslieferungen-fuer-tigray-gewaehren-a-8445f0e6-dbf0-48f4-b41b-530451fc062b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine-a-c8d73bf2-511f-427d-afb9-cc2eb6726f1c#ref=rss)
+### terminal
+
+* [https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben](https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben-a-5449065b-8097-4e71-9e39-583998ac6839#ref=rss)
+### weilheim
+
+* [https://www.spiegel.de/panorama/justiz/weilheim-polizei-bestaetigt-nach-mutmasslichem-dreifachmord-waffenfund](https://www.spiegel.de/panorama/justiz/weilheim-polizei-bestaetigt-nach-mutmasslichem-dreifachmord-waffenfund-a-e8c54d54-4f1f-4085-a6c6-b5f2d18d5e46#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/weilheim-polizei-bestaetigt-nach-mutmasslichem-dreifachmord-waffenfund](https://www.spiegel.de/panorama/justiz/weilheim-polizei-bestaetigt-nach-mutmasslichem-dreifachmord-waffenfund-a-e8c54d54-4f1f-4085-a6c6-b5f2d18d5e46#ref=rss)
+### vier
+
+* [https://www.spiegel.de/panorama/justiz/weilheim-polizei-bestaetigt-nach-mutmasslichem-dreifachmord-waffenfund](https://www.spiegel.de/panorama/justiz/weilheim-polizei-bestaetigt-nach-mutmasslichem-dreifachmord-waffenfund-a-e8c54d54-4f1f-4085-a6c6-b5f2d18d5e46#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/umfrage-zum-thema-inflation-deutsche-gehen-wegen-preissteigerungen-seltener-ins-restaurant](https://www.spiegel.de/wirtschaft/service/umfrage-zum-thema-inflation-deutsche-gehen-wegen-preissteigerungen-seltener-ins-restaurant-a-a4cc18ee-015a-40ca-9a24-a99d78c02757#ref=rss)
+### zunächst
+
+* [https://www.spiegel.de/panorama/justiz/weilheim-polizei-bestaetigt-nach-mutmasslichem-dreifachmord-waffenfund](https://www.spiegel.de/panorama/justiz/weilheim-polizei-bestaetigt-nach-mutmasslichem-dreifachmord-waffenfund-a-e8c54d54-4f1f-4085-a6c6-b5f2d18d5e46#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-musiala-show-auf-schalke-bayern-beendet-das-jahr-als-erster](https://www.spiegel.de/sport/fussball/fussball-bundesliga-musiala-show-auf-schalke-bayern-beendet-das-jahr-als-erster-a-6923af34-914f-4df8-9529-7c94abcd8277#ref=rss)
+### werde
+
+* [https://www.spiegel.de/panorama/justiz/weilheim-polizei-bestaetigt-nach-mutmasslichem-dreifachmord-waffenfund](https://www.spiegel.de/panorama/justiz/weilheim-polizei-bestaetigt-nach-mutmasslichem-dreifachmord-waffenfund-a-e8c54d54-4f1f-4085-a6c6-b5f2d18d5e46#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaproteste-marco-buschmann-prueft-strafrahmen-fuer-angriffe-auf-kunstwerke](https://www.spiegel.de/politik/deutschland/klimaproteste-marco-buschmann-prueft-strafrahmen-fuer-angriffe-auf-kunstwerke-a-6bd3207d-c277-4053-8ca9-82bc2bb5fd38#ref=rss)
+### themen
+
+* [https://www.spiegel.de/politik/cop27-klimakonferenz-deutschland-beschwert-sich-wegen-moeglicher-beschattung-bei-aegypten](https://www.spiegel.de/politik/cop27-klimakonferenz-deutschland-beschwert-sich-wegen-moeglicher-beschattung-bei-aegypten-a-d8f8f21f-e0e6-4eeb-97c4-985d2584bd45#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich](https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich-a-b3febf08-dcd0-4adc-8064-08c161dc23b8#ref=rss)
+### aussehen
+
+* [https://www.spiegel.de/politik/cop27-klimakonferenz-deutschland-beschwert-sich-wegen-moeglicher-beschattung-bei-aegypten](https://www.spiegel.de/politik/cop27-klimakonferenz-deutschland-beschwert-sich-wegen-moeglicher-beschattung-bei-aegypten-a-d8f8f21f-e0e6-4eeb-97c4-985d2584bd45#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann](https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann-a-b5be0f6c-5e13-4a0a-bfc7-5a89c73adfee#ref=rss)
+### nato
+
+* [https://www.spiegel.de/ausland/asean-gipfel-sergej-lawrow-wirft-usa-und-nato-vor-suedostasien-zu-militarisieren](https://www.spiegel.de/ausland/asean-gipfel-sergej-lawrow-wirft-usa-und-nato-vor-suedostasien-zu-militarisieren-a-2eba7a78-bf04-4aa3-a3ed-99f5928910c9#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/ausland/asean-gipfel-sergej-lawrow-wirft-usa-und-nato-vor-suedostasien-zu-militarisieren](https://www.spiegel.de/ausland/asean-gipfel-sergej-lawrow-wirft-usa-und-nato-vor-suedostasien-zu-militarisieren-a-2eba7a78-bf04-4aa3-a3ed-99f5928910c9#ref=rss)
+* [https://www.spiegel.de/stil/wie-sich-das-leben-ohne-bundesstrasse-anfuehlt-fuer-menschen-und-pflanzen](https://www.spiegel.de/stil/wie-sich-das-leben-ohne-bundesstrasse-anfuehlt-fuer-menschen-und-pflanzen-a-ab21114b-1ab1-4b70-9643-5690e472d959#ref=rss)
+### gemeinsame
+
+* [https://www.spiegel.de/ausland/asean-gipfel-sergej-lawrow-wirft-usa-und-nato-vor-suedostasien-zu-militarisieren](https://www.spiegel.de/ausland/asean-gipfel-sergej-lawrow-wirft-usa-und-nato-vor-suedostasien-zu-militarisieren-a-2eba7a78-bf04-4aa3-a3ed-99f5928910c9#ref=rss)
+* [https://www.spiegel.de/panorama/daenemark-koenigin-margrethe-ii-feiert-ihr-50-thronjubilaeum](https://www.spiegel.de/panorama/daenemark-koenigin-margrethe-ii-feiert-ihr-50-thronjubilaeum-a-bd578d36-8058-4cac-8ed2-7059e84fcfb5#ref=rss)
+### flugzeugsitze
+
+* [https://www.spiegel.de/wissenschaft/technik/luftfahrt-wie-gefaehrlich-sind-enge-flugzeugsitze](https://www.spiegel.de/wissenschaft/technik/luftfahrt-wie-gefaehrlich-sind-enge-flugzeugsitze-a-568d63a9-29ed-41b2-a377-db19e451a035#ref=rss)
+### platz
+
+* [https://www.spiegel.de/wissenschaft/technik/luftfahrt-wie-gefaehrlich-sind-enge-flugzeugsitze](https://www.spiegel.de/wissenschaft/technik/luftfahrt-wie-gefaehrlich-sind-enge-flugzeugsitze-a-568d63a9-29ed-41b2-a377-db19e451a035#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-serie-lamia-in-zwei-kulturen-gesandwicht](https://www.spiegel.de/kultur/tv/ard-serie-lamia-in-zwei-kulturen-gesandwicht-a-2cb8a87f-e4cf-4ac6-8ee8-31309543b685#ref=rss)
+### große
+
+* [https://www.spiegel.de/ausland/us-midterms-maga-proteste-in-phoenix-mit-kari-gott-und-megafon](https://www.spiegel.de/ausland/us-midterms-maga-proteste-in-phoenix-mit-kari-gott-und-megafon-a-2da0a623-7bca-496c-ae3f-f07a412600d6#ref=rss)
+* [https://www.spiegel.de/stil/wie-sich-das-leben-ohne-bundesstrasse-anfuehlt-fuer-menschen-und-pflanzen](https://www.spiegel.de/stil/wie-sich-das-leben-ohne-bundesstrasse-anfuehlt-fuer-menschen-und-pflanzen-a-ab21114b-1ab1-4b70-9643-5690e472d959#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/wirtschaft/service/umfrage-zum-thema-inflation-deutsche-gehen-wegen-preissteigerungen-seltener-ins-restaurant](https://www.spiegel.de/wirtschaft/service/umfrage-zum-thema-inflation-deutsche-gehen-wegen-preissteigerungen-seltener-ins-restaurant-a-a4cc18ee-015a-40ca-9a24-a99d78c02757#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann](https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann-a-b5be0f6c-5e13-4a0a-bfc7-5a89c73adfee#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/service/umfrage-zum-thema-inflation-deutsche-gehen-wegen-preissteigerungen-seltener-ins-restaurant](https://www.spiegel.de/wirtschaft/service/umfrage-zum-thema-inflation-deutsche-gehen-wegen-preissteigerungen-seltener-ins-restaurant-a-a4cc18ee-015a-40ca-9a24-a99d78c02757#ref=rss)
+### ergebnis
+
+* [https://www.spiegel.de/wirtschaft/service/umfrage-zum-thema-inflation-deutsche-gehen-wegen-preissteigerungen-seltener-ins-restaurant](https://www.spiegel.de/wirtschaft/service/umfrage-zum-thema-inflation-deutsche-gehen-wegen-preissteigerungen-seltener-ins-restaurant-a-a4cc18ee-015a-40ca-9a24-a99d78c02757#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy](https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy-a-dd2bb203-03c5-4a27-b03f-7ec7dc9bda33#ref=rss)
+### leben
+
+* [https://www.spiegel.de/stil/wie-sich-das-leben-ohne-bundesstrasse-anfuehlt-fuer-menschen-und-pflanzen](https://www.spiegel.de/stil/wie-sich-das-leben-ohne-bundesstrasse-anfuehlt-fuer-menschen-und-pflanzen-a-ab21114b-1ab1-4b70-9643-5690e472d959#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-serie-lamia-in-zwei-kulturen-gesandwicht](https://www.spiegel.de/kultur/tv/ard-serie-lamia-in-zwei-kulturen-gesandwicht-a-2cb8a87f-e4cf-4ac6-8ee8-31309543b685#ref=rss)
+### woche
+
+* [https://www.spiegel.de/karriere/der-verschwundene-spielstein-raetsel-der-woche](https://www.spiegel.de/karriere/der-verschwundene-spielstein-raetsel-der-woche-a-f0ec373a-0da1-49c6-a376-f6198b979bb9#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-karine-tuil-diese-eine-entscheidung](https://www.spiegel.de/kultur/literatur/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-karine-tuil-diese-eine-entscheidung-a-3f190a03-7067-4a6d-aa50-26a94d918c02#ref=rss)
+### weiß
+
+* [https://www.spiegel.de/karriere/der-verschwundene-spielstein-raetsel-der-woche](https://www.spiegel.de/karriere/der-verschwundene-spielstein-raetsel-der-woche-a-f0ec373a-0da1-49c6-a376-f6198b979bb9#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch](https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch-a-cb943b62-ed61-4096-bcc1-bd342a2abf00#ref=rss)
+### iranischen
+
+* [https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch](https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch-a-cb943b62-ed61-4096-bcc1-bd342a2abf00#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine-a-c8d73bf2-511f-427d-afb9-cc2eb6726f1c#ref=rss)
+### proteste
+
+* [https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch](https://www.spiegel.de/politik/deutschland/iran-kritisiert-olaf-scholz-und-warnt-berlin-provokativ-einmischend-und-undiplomatisch-a-cb943b62-ed61-4096-bcc1-bd342a2abf00#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann](https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann-a-b5be0f6c-5e13-4a0a-bfc7-5a89c73adfee#ref=rss)
+### nouripour
+
+* [https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen](https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen-a-a75777f0-4dec-4f1b-a57e-314194f991ce#ref=rss)
+### revolutionsgarden
+
+* [https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen](https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen-a-a75777f0-4dec-4f1b-a57e-314194f991ce#ref=rss)
+### terrorliste
+
+* [https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen](https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen-a-a75777f0-4dec-4f1b-a57e-314194f991ce#ref=rss)
+### eu
+
+* [https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen](https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen-a-a75777f0-4dec-4f1b-a57e-314194f991ce#ref=rss)
+### laut
+
+* [https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen](https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen-a-a75777f0-4dec-4f1b-a57e-314194f991ce#ref=rss)
+* [https://www.spiegel.de/panorama/dallas-zwei-flugzeuge-stossen-bei-show-in-den-usa-zusammen](https://www.spiegel.de/panorama/dallas-zwei-flugzeuge-stossen-bei-show-in-den-usa-zusammen-a-b96d7fcd-bbc9-4847-b8a3-8b60d1af82e8#ref=rss)
+### sollte
+
+* [https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen](https://www.spiegel.de/politik/deutschland/iran-omid-nouripour-will-irans-revolutionsgarden-auf-die-terrorliste-der-eu-setzen-a-a75777f0-4dec-4f1b-a57e-314194f991ce#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaproteste-marco-buschmann-prueft-strafrahmen-fuer-angriffe-auf-kunstwerke](https://www.spiegel.de/politik/deutschland/klimaproteste-marco-buschmann-prueft-strafrahmen-fuer-angriffe-auf-kunstwerke-a-6bd3207d-c277-4053-8ca9-82bc2bb5fd38#ref=rss)
+### dfbkapitän
+
+* [https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann](https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann-a-b5be0f6c-5e13-4a0a-bfc7-5a89c73adfee#ref=rss)
+### manuel
+
+* [https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann](https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann-a-b5be0f6c-5e13-4a0a-bfc7-5a89c73adfee#ref=rss)
+### neuer
+
+* [https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann](https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann-a-b5be0f6c-5e13-4a0a-bfc7-5a89c73adfee#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann](https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann-a-b5be0f6c-5e13-4a0a-bfc7-5a89c73adfee#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-musiala-show-auf-schalke-bayern-beendet-das-jahr-als-erster](https://www.spiegel.de/sport/fussball/fussball-bundesliga-musiala-show-auf-schalke-bayern-beendet-das-jahr-als-erster-a-6923af34-914f-4df8-9529-7c94abcd8277#ref=rss)
+### fußballwm
+
+* [https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann](https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann-a-b5be0f6c-5e13-4a0a-bfc7-5a89c73adfee#ref=rss)
+* [https://www.spiegel.de/ausland/fussball-wm-2022-in-katar-wie-ein-zwergstaat-zur-grossmacht-werden-konnte](https://www.spiegel.de/ausland/fussball-wm-2022-in-katar-wie-ein-zwergstaat-zur-grossmacht-werden-konnte-a-fd800795-5b0e-41da-b6c7-5ade746be1ab#ref=rss)
+### aktionen
+
+* [https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann](https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann-a-b5be0f6c-5e13-4a0a-bfc7-5a89c73adfee#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klimaproteste-marco-buschmann-prueft-strafrahmen-fuer-angriffe-auf-kunstwerke](https://www.spiegel.de/politik/deutschland/klimaproteste-marco-buschmann-prueft-strafrahmen-fuer-angriffe-auf-kunstwerke-a-6bd3207d-c277-4053-8ca9-82bc2bb5fd38#ref=rss)
+### offen
+
+* [https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann](https://www.spiegel.de/sport/fussball/dfb-kapitaen-manuel-neuer-ueber-proteste-bei-der-wm-in-katar-wir-werden-sehen-wie-weit-man-gehen-kann-a-b5be0f6c-5e13-4a0a-bfc7-5a89c73adfee#ref=rss)
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat](https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat-a-968a1b85-dfa5-4f7f-81b9-196b28e80cc2#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/politik/deutschland/klimaproteste-marco-buschmann-prueft-strafrahmen-fuer-angriffe-auf-kunstwerke](https://www.spiegel.de/politik/deutschland/klimaproteste-marco-buschmann-prueft-strafrahmen-fuer-angriffe-auf-kunstwerke-a-6bd3207d-c277-4053-8ca9-82bc2bb5fd38#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich](https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich-a-b3febf08-dcd0-4adc-8064-08c161dc23b8#ref=rss)
+### keith
+
+* [https://www.spiegel.de/kultur/musik/keith-levene-clash-mitgruender-im-alter-von-65-jahren-gestorben](https://www.spiegel.de/kultur/musik/keith-levene-clash-mitgruender-im-alter-von-65-jahren-gestorben-a-88f385c0-8e99-4840-8f2b-8c2e9db32a7a#ref=rss)
+### levene
+
+* [https://www.spiegel.de/kultur/musik/keith-levene-clash-mitgruender-im-alter-von-65-jahren-gestorben](https://www.spiegel.de/kultur/musik/keith-levene-clash-mitgruender-im-alter-von-65-jahren-gestorben-a-88f385c0-8e99-4840-8f2b-8c2e9db32a7a#ref=rss)
+### 65
+
+* [https://www.spiegel.de/kultur/musik/keith-levene-clash-mitgruender-im-alter-von-65-jahren-gestorben](https://www.spiegel.de/kultur/musik/keith-levene-clash-mitgruender-im-alter-von-65-jahren-gestorben-a-88f385c0-8e99-4840-8f2b-8c2e9db32a7a#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/musik/keith-levene-clash-mitgruender-im-alter-von-65-jahren-gestorben](https://www.spiegel.de/kultur/musik/keith-levene-clash-mitgruender-im-alter-von-65-jahren-gestorben-a-88f385c0-8e99-4840-8f2b-8c2e9db32a7a#ref=rss)
+* [https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben](https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben-a-5449065b-8097-4e71-9e39-583998ac6839#ref=rss)
+### zusammen
+
+* [https://www.spiegel.de/kultur/musik/keith-levene-clash-mitgruender-im-alter-von-65-jahren-gestorben](https://www.spiegel.de/kultur/musik/keith-levene-clash-mitgruender-im-alter-von-65-jahren-gestorben-a-88f385c0-8e99-4840-8f2b-8c2e9db32a7a#ref=rss)
+* [https://www.spiegel.de/panorama/dallas-zwei-flugzeuge-stossen-bei-show-in-den-usa-zusammen](https://www.spiegel.de/panorama/dallas-zwei-flugzeuge-stossen-bei-show-in-den-usa-zusammen-a-b96d7fcd-bbc9-4847-b8a3-8b60d1af82e8#ref=rss)
+### fünfkampf
+
+* [https://www.spiegel.de/sport/olympia/olympische-spiele-hindernisparcours-ersetzt-das-reiten](https://www.spiegel.de/sport/olympia/olympische-spiele-hindernisparcours-ersetzt-das-reiten-a-a7542820-f21c-4d20-a11e-cf38a8aa8b67#ref=rss)
+### xi
+
+* [https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich](https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich-a-b3febf08-dcd0-4adc-8064-08c161dc23b8#ref=rss)
+### jinping
+
+* [https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich](https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich-a-b3febf08-dcd0-4adc-8064-08c161dc23b8#ref=rss)
+### ich
+
+* [https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich](https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich-a-b3febf08-dcd0-4adc-8064-08c161dc23b8#ref=rss)
+### kenne
+
+* [https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich](https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich-a-b3febf08-dcd0-4adc-8064-08c161dc23b8#ref=rss)
+### kennt
+
+* [https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich](https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich-a-b3febf08-dcd0-4adc-8064-08c161dc23b8#ref=rss)
+### mich
+
+* [https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich](https://www.spiegel.de/ausland/joe-biden-will-mit-xi-jinping-rote-linien-ausloten-ich-kenne-ihn-gut-er-kennt-mich-a-b3febf08-dcd0-4adc-8064-08c161dc23b8#ref=rss)
+### chris
+
+* [https://www.spiegel.de/ausland/chris-magnus-chef-der-us-grenzschutzbehoerde-tritt-zurueck-streit-ueber-migrationspolitik](https://www.spiegel.de/ausland/chris-magnus-chef-der-us-grenzschutzbehoerde-tritt-zurueck-streit-ueber-migrationspolitik-a-603e5c1c-c22f-438e-a5ab-d13036aa70b3#ref=rss)
+### magnus
+
+* [https://www.spiegel.de/ausland/chris-magnus-chef-der-us-grenzschutzbehoerde-tritt-zurueck-streit-ueber-migrationspolitik](https://www.spiegel.de/ausland/chris-magnus-chef-der-us-grenzschutzbehoerde-tritt-zurueck-streit-ueber-migrationspolitik-a-603e5c1c-c22f-438e-a5ab-d13036aa70b3#ref=rss)
+### usgrenzschutzbehörde
+
+* [https://www.spiegel.de/ausland/chris-magnus-chef-der-us-grenzschutzbehoerde-tritt-zurueck-streit-ueber-migrationspolitik](https://www.spiegel.de/ausland/chris-magnus-chef-der-us-grenzschutzbehoerde-tritt-zurueck-streit-ueber-migrationspolitik-a-603e5c1c-c22f-438e-a5ab-d13036aa70b3#ref=rss)
+### streit
+
+* [https://www.spiegel.de/ausland/chris-magnus-chef-der-us-grenzschutzbehoerde-tritt-zurueck-streit-ueber-migrationspolitik](https://www.spiegel.de/ausland/chris-magnus-chef-der-us-grenzschutzbehoerde-tritt-zurueck-streit-ueber-migrationspolitik-a-603e5c1c-c22f-438e-a5ab-d13036aa70b3#ref=rss)
+* [https://www.spiegel.de/panorama/daenemark-koenigin-margrethe-ii-feiert-ihr-50-thronjubilaeum](https://www.spiegel.de/panorama/daenemark-koenigin-margrethe-ii-feiert-ihr-50-thronjubilaeum-a-bd578d36-8058-4cac-8ed2-7059e84fcfb5#ref=rss)
+### karine
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-karine-tuil-diese-eine-entscheidung](https://www.spiegel.de/kultur/literatur/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-karine-tuil-diese-eine-entscheidung-a-3f190a03-7067-4a6d-aa50-26a94d918c02#ref=rss)
+### tuil
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-karine-tuil-diese-eine-entscheidung](https://www.spiegel.de/kultur/literatur/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-karine-tuil-diese-eine-entscheidung-a-3f190a03-7067-4a6d-aa50-26a94d918c02#ref=rss)
+### entscheidung
+
+* [https://www.spiegel.de/kultur/literatur/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-karine-tuil-diese-eine-entscheidung](https://www.spiegel.de/kultur/literatur/spiegel-bestseller-mehr-lesen-mit-elke-heidenreich-karine-tuil-diese-eine-entscheidung-a-3f190a03-7067-4a6d-aa50-26a94d918c02#ref=rss)
+### fürsten
+
+* [https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren](https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren-a-a1b87608-f498-4eae-a5bb-59a4e9b3aa1c#ref=rss)
+### potemkin
+
+* [https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren](https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren-a-a1b87608-f498-4eae-a5bb-59a4e9b3aa1c#ref=rss)
+### krim
+
+* [https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren](https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren-a-a1b87608-f498-4eae-a5bb-59a4e9b3aa1c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine-a-c8d73bf2-511f-427d-afb9-cc2eb6726f1c#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren](https://www.spiegel.de/geschichte/russlands-rueckzug-aus-cherson-deshalb-liess-putin-einen-toten-fuersten-nach-russland-entfuehren-a-a1b87608-f498-4eae-a5bb-59a4e9b3aa1c#ref=rss)
+* [https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben](https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben-a-5449065b-8097-4e71-9e39-583998ac6839#ref=rss)
+### team
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy](https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy-a-dd2bb203-03c5-4a27-b03f-7ec7dc9bda33#ref=rss)
+### westlichen
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy](https://www.spiegel.de/ausland/midterms-in-den-usa-team-normal-besiegt-team-crazy-a-dd2bb203-03c5-4a27-b03f-7ec7dc9bda33#ref=rss)
+* [https://www.spiegel.de/kultur/tv/ard-serie-lamia-in-zwei-kulturen-gesandwicht](https://www.spiegel.de/kultur/tv/ard-serie-lamia-in-zwei-kulturen-gesandwicht-a-2cb8a87f-e4cf-4ac6-8ee8-31309543b685#ref=rss)
+### 50
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat](https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat-a-968a1b85-dfa5-4f7f-81b9-196b28e80cc2#ref=rss)
+* [https://www.spiegel.de/panorama/daenemark-koenigin-margrethe-ii-feiert-ihr-50-thronjubilaeum](https://www.spiegel.de/panorama/daenemark-koenigin-margrethe-ii-feiert-ihr-50-thronjubilaeum-a-bd578d36-8058-4cac-8ed2-7059e84fcfb5#ref=rss)
+### demokraten
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat](https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat-a-968a1b85-dfa5-4f7f-81b9-196b28e80cc2#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat](https://www.spiegel.de/ausland/midterms-in-den-usa-50-zu-49-demokraten-gewinnen-den-senat-a-968a1b85-dfa5-4f7f-81b9-196b28e80cc2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine-a-c8d73bf2-511f-427d-afb9-cc2eb6726f1c#ref=rss)
+### konnte
+
+* [https://www.spiegel.de/ausland/fussball-wm-2022-in-katar-wie-ein-zwergstaat-zur-grossmacht-werden-konnte](https://www.spiegel.de/ausland/fussball-wm-2022-in-katar-wie-ein-zwergstaat-zur-grossmacht-werden-konnte-a-fd800795-5b0e-41da-b6c7-5ade746be1ab#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-musiala-show-auf-schalke-bayern-beendet-das-jahr-als-erster](https://www.spiegel.de/sport/fussball/fussball-bundesliga-musiala-show-auf-schalke-bayern-beendet-das-jahr-als-erster-a-6923af34-914f-4df8-9529-7c94abcd8277#ref=rss)
+### george
+
+* [https://www.spiegel.de/sport/formel1/formel-1-sprintrennen-in-brasilien-george-russell-gewinnt-max-verstappen-nur-vierter](https://www.spiegel.de/sport/formel1/formel-1-sprintrennen-in-brasilien-george-russell-gewinnt-max-verstappen-nur-vierter-a-6e14e861-38bf-4300-b916-c43b77f93e61#ref=rss)
+### russell
+
+* [https://www.spiegel.de/sport/formel1/formel-1-sprintrennen-in-brasilien-george-russell-gewinnt-max-verstappen-nur-vierter](https://www.spiegel.de/sport/formel1/formel-1-sprintrennen-in-brasilien-george-russell-gewinnt-max-verstappen-nur-vierter-a-6e14e861-38bf-4300-b916-c43b77f93e61#ref=rss)
+### max
+
+* [https://www.spiegel.de/sport/formel1/formel-1-sprintrennen-in-brasilien-george-russell-gewinnt-max-verstappen-nur-vierter](https://www.spiegel.de/sport/formel1/formel-1-sprintrennen-in-brasilien-george-russell-gewinnt-max-verstappen-nur-vierter-a-6e14e861-38bf-4300-b916-c43b77f93e61#ref=rss)
+### verstappen
+
+* [https://www.spiegel.de/sport/formel1/formel-1-sprintrennen-in-brasilien-george-russell-gewinnt-max-verstappen-nur-vierter](https://www.spiegel.de/sport/formel1/formel-1-sprintrennen-in-brasilien-george-russell-gewinnt-max-verstappen-nur-vierter-a-6e14e861-38bf-4300-b916-c43b77f93e61#ref=rss)
+### 12
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine-a-c8d73bf2-511f-427d-afb9-cc2eb6726f1c#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine-a-c8d73bf2-511f-427d-afb9-cc2eb6726f1c#ref=rss)
+### gebiete
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine](https://www.spiegel.de/ausland/ukraine-news-am-samstag-usa-sprechen-von-aussergewoehnlichem-sieg-fuer-die-ukraine-a-c8d73bf2-511f-427d-afb9-cc2eb6726f1c#ref=rss)
+### mehran
+
+* [https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben](https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben-a-5449065b-8097-4e71-9e39-583998ac6839#ref=rss)
+### karimi
+
+* [https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben](https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben-a-5449065b-8097-4e71-9e39-583998ac6839#ref=rss)
+### nasseri
+
+* [https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben](https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben-a-5449065b-8097-4e71-9e39-583998ac6839#ref=rss)
+### pariser
+
+* [https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben](https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben-a-5449065b-8097-4e71-9e39-583998ac6839#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben](https://www.spiegel.de/panorama/merhan-karimi-nasseri-ist-tot-der-mann-der-im-pariser-flughafen-lebte-ist-gestorben-a-5449065b-8097-4e71-9e39-583998ac6839#ref=rss)
+### schalke
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-musiala-show-auf-schalke-bayern-beendet-das-jahr-als-erster](https://www.spiegel.de/sport/fussball/fussball-bundesliga-musiala-show-auf-schalke-bayern-beendet-das-jahr-als-erster-a-6923af34-914f-4df8-9529-7c94abcd8277#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-musiala-show-auf-schalke-bayern-beendet-das-jahr-als-erster](https://www.spiegel.de/sport/fussball/fussball-bundesliga-musiala-show-auf-schalke-bayern-beendet-das-jahr-als-erster-a-6923af34-914f-4df8-9529-7c94abcd8277#ref=rss)
+### expräsident
+
+* [https://www.spiegel.de/ausland/un-weltklimakonferenz-ex-praesident-der-malediven-fordert-schuldenerlass](https://www.spiegel.de/ausland/un-weltklimakonferenz-ex-praesident-der-malediven-fordert-schuldenerlass-a-1474b18e-370d-4a3a-947c-dfe6db979259#ref=rss)
+### malediven
+
+* [https://www.spiegel.de/ausland/un-weltklimakonferenz-ex-praesident-der-malediven-fordert-schuldenerlass](https://www.spiegel.de/ausland/un-weltklimakonferenz-ex-praesident-der-malediven-fordert-schuldenerlass-a-1474b18e-370d-4a3a-947c-dfe6db979259#ref=rss)
+### lamia
+
+* [https://www.spiegel.de/kultur/tv/ard-serie-lamia-in-zwei-kulturen-gesandwicht](https://www.spiegel.de/kultur/tv/ard-serie-lamia-in-zwei-kulturen-gesandwicht-a-2cb8a87f-e4cf-4ac6-8ee8-31309543b685#ref=rss)
 
