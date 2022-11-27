@@ -6,307 +6,356 @@ tags: __no_header__
 
 ### wm
 
-* [https://www.spiegel.de/sport/fussball/wm-2022-deutschland-v-spanien-warum-das-dfb-team-gute-erfolgschancen-hat](https://www.spiegel.de/sport/fussball/wm-2022-deutschland-v-spanien-warum-das-dfb-team-gute-erfolgschancen-hat-a-a9958d81-9167-45c5-bfae-d816b44da404#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-iran-coach-carlos-queiroz-fordert-ruecktritt-von-juergen-klinsmann-aus-fifa-gruppe](https://www.spiegel.de/sport/fussball/wm-2022-iran-coach-carlos-queiroz-fordert-ruecktritt-von-juergen-klinsmann-aus-fifa-gruppe-a-88bcb7fc-680e-4ba6-876c-864d10d23ae0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-auswahl-bei-der-wm-in-katar-vor-dem-aus-keiner-erwartet-mehr-viel](https://www.spiegel.de/sport/fussball/dfb-auswahl-bei-der-wm-in-katar-vor-dem-aus-keiner-erwartet-mehr-viel-a-8eb31a2a-d86c-49ab-a7e5-0bd893b42ef2#ref=rss)
-* [https://www.spiegel.de/sport/wm-2022-mario-goetze-ikone-des-durchhaltens](https://www.spiegel.de/sport/wm-2022-mario-goetze-ikone-des-durchhaltens-a-21775097-6f50-4676-a514-17573d7527f8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-kylian-mbappe-ueberragt-fuer-frankreich-gegen-daenemark-wie-gott-in-frankreich](https://www.spiegel.de/sport/fussball/wm-2022-kylian-mbappe-ueberragt-fuer-frankreich-gegen-daenemark-wie-gott-in-frankreich-a-0379b389-bae3-4dd0-a2b8-1cfc6dcc7502#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko](https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko-a-c9538722-e5de-46e5-93e8-91cdb2efdb4f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln-a-878453e1-0c8f-41b8-8a4b-4c634584f09f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale-a-6b15c578-e88e-4767-bbed-596fd861de70#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-israelische-journalisten-berichten-von-anfeindungen-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-israelische-journalisten-berichten-von-anfeindungen-in-katar-a-b1745a0d-86cc-4f8d-9d36-d062d1340cf3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten](https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten-a-2c612dd0-565e-46de-b451-c53bdcade55e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-belgien-verliert-0-2-gegen-marokko](https://www.spiegel.de/sport/fussball/wm-2022-belgien-verliert-0-2-gegen-marokko-a-b572d437-e0d3-4892-b610-a5607d979cc5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen](https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen-a-ac24fb51-c54c-4a6b-a501-fa3c22cb73f5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung](https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung-a-e7f0c058-7c26-4be7-90cc-b4e9487de5a7#ref=rss)
 ### 2022
 
-* [https://www.spiegel.de/sport/fussball/wm-2022-deutschland-v-spanien-warum-das-dfb-team-gute-erfolgschancen-hat](https://www.spiegel.de/sport/fussball/wm-2022-deutschland-v-spanien-warum-das-dfb-team-gute-erfolgschancen-hat-a-a9958d81-9167-45c5-bfae-d816b44da404#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-iran-coach-carlos-queiroz-fordert-ruecktritt-von-juergen-klinsmann-aus-fifa-gruppe](https://www.spiegel.de/sport/fussball/wm-2022-iran-coach-carlos-queiroz-fordert-ruecktritt-von-juergen-klinsmann-aus-fifa-gruppe-a-88bcb7fc-680e-4ba6-876c-864d10d23ae0#ref=rss)
-* [https://www.spiegel.de/sport/wm-2022-mario-goetze-ikone-des-durchhaltens](https://www.spiegel.de/sport/wm-2022-mario-goetze-ikone-des-durchhaltens-a-21775097-6f50-4676-a514-17573d7527f8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-kylian-mbappe-ueberragt-fuer-frankreich-gegen-daenemark-wie-gott-in-frankreich](https://www.spiegel.de/sport/fussball/wm-2022-kylian-mbappe-ueberragt-fuer-frankreich-gegen-daenemark-wie-gott-in-frankreich-a-0379b389-bae3-4dd0-a2b8-1cfc6dcc7502#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko](https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko-a-c9538722-e5de-46e5-93e8-91cdb2efdb4f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln-a-878453e1-0c8f-41b8-8a4b-4c634584f09f#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-deutschland-v-spanien-warum-das-dfb-team-gute-erfolgschancen-hat](https://www.spiegel.de/sport/fussball/wm-2022-deutschland-v-spanien-warum-das-dfb-team-gute-erfolgschancen-hat-a-a9958d81-9167-45c5-bfae-d816b44da404#ref=rss)
-* [https://www.spiegel.de/wissenschaft/spanien-fast-die-haelfte-des-landes-ist-von-anhaltender-duerre-betroffen](https://www.spiegel.de/wissenschaft/spanien-fast-die-haelfte-des-landes-ist-von-anhaltender-duerre-betroffen-a-357695c9-d033-4152-b86a-acb948f627a8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/dfb-auswahl-bei-der-wm-in-katar-vor-dem-aus-keiner-erwartet-mehr-viel](https://www.spiegel.de/sport/fussball/dfb-auswahl-bei-der-wm-in-katar-vor-dem-aus-keiner-erwartet-mehr-viel-a-8eb31a2a-d86c-49ab-a7e5-0bd893b42ef2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-news-heute-englands-mason-mount-trifft-in-katar-erstmals-seine-dreijaehrige-nichte](https://www.spiegel.de/sport/fussball/wm-news-heute-englands-mason-mount-trifft-in-katar-erstmals-seine-dreijaehrige-nichte-a-061ab2cc-2d8a-4800-8be5-47f6d165f840#ref=rss)
-### wir
-
-* [https://www.spiegel.de/reise/fernweh/urlaub-oder-workation-die-zehn-besten-reiseziele-zum-ueberwintern](https://www.spiegel.de/reise/fernweh/urlaub-oder-workation-die-zehn-besten-reiseziele-zum-ueberwintern-a-7c44068e-807e-4035-809f-946108f7071d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-news-heute-englands-mason-mount-trifft-in-katar-erstmals-seine-dreijaehrige-nichte](https://www.spiegel.de/sport/fussball/wm-news-heute-englands-mason-mount-trifft-in-katar-erstmals-seine-dreijaehrige-nichte-a-061ab2cc-2d8a-4800-8be5-47f6d165f840#ref=rss)
-* [https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel](https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel-a-38d8552e-a50e-4b54-8a2b-0342cb70ca46#ref=rss)
-* [https://www.spiegel.de/ausland/protestierende-in-iran-wir-leben-in-einem-horror-film](https://www.spiegel.de/ausland/protestierende-in-iran-wir-leben-in-einem-horror-film-a-9896e912-12b0-448b-b1f2-752e6103ce46#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/china-spendet-kuba-100-millionen-dollar-fuer-kampf-gegen-wirtschaftskrise](https://www.spiegel.de/ausland/china-spendet-kuba-100-millionen-dollar-fuer-kampf-gegen-wirtschaftskrise-a-0ef86508-bbfd-4629-a118-b3b6fb5730c8#ref=rss)
-* [https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping](https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping-a-de3ace05-70eb-4bc9-8a86-d6e666f58778#ref=rss)
-* [https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel](https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel-a-38d8552e-a50e-4b54-8a2b-0342cb70ca46#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/reise/fernweh/urlaub-oder-workation-die-zehn-besten-reiseziele-zum-ueberwintern](https://www.spiegel.de/reise/fernweh/urlaub-oder-workation-die-zehn-besten-reiseziele-zum-ueberwintern-a-7c44068e-807e-4035-809f-946108f7071d#ref=rss)
-* [https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping](https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping-a-de3ace05-70eb-4bc9-8a86-d6e666f58778#ref=rss)
-* [https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot](https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot-a-fd1dd503-ec53-4e1e-989d-a234f316868e#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/kinder-in-der-ukraine-jetzt-habe-ich-mich-ein-bisschen-an-den-krieg-gewoehnt](https://www.spiegel.de/ausland/kinder-in-der-ukraine-jetzt-habe-ich-mich-ein-bisschen-an-den-krieg-gewoehnt-a-19c7a26f-49e8-438b-97a8-2d998d44322a#ref=rss)
-* [https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel](https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel-a-38d8552e-a50e-4b54-8a2b-0342cb70ca46#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/auto/fahrkultur/toyota-publica-sports-concept-totale-schiebung](https://www.spiegel.de/auto/fahrkultur/toyota-publica-sports-concept-totale-schiebung-a-894f8206-9078-48cb-94e1-ff18ec2a0b9f#ref=rss)
-* [https://www.spiegel.de/karriere/jeder-strich-ein-punkt-raetsel-der-woche](https://www.spiegel.de/karriere/jeder-strich-ein-punkt-raetsel-der-woche-a-48249d0f-72ee-42e4-af4f-7ca8414d4da2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-kylian-mbappe-ueberragt-fuer-frankreich-gegen-daenemark-wie-gott-in-frankreich](https://www.spiegel.de/sport/fussball/wm-2022-kylian-mbappe-ueberragt-fuer-frankreich-gegen-daenemark-wie-gott-in-frankreich-a-0379b389-bae3-4dd0-a2b8-1cfc6dcc7502#ref=rss)
-* [https://www.spiegel.de/panorama/afrika-grossfeuer-am-kilimandscharo-zerstoert-zwei-prozent-des-naturparks](https://www.spiegel.de/panorama/afrika-grossfeuer-am-kilimandscharo-zerstoert-zwei-prozent-des-naturparks-a-9cc08965-abe0-4645-819a-1992ed59fdde#ref=rss)
-### messi
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko](https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko-a-c9538722-e5de-46e5-93e8-91cdb2efdb4f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln-a-878453e1-0c8f-41b8-8a4b-4c634584f09f#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko](https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko-a-c9538722-e5de-46e5-93e8-91cdb2efdb4f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln-a-878453e1-0c8f-41b8-8a4b-4c634584f09f#ref=rss)
-### landes
-
-* [https://www.spiegel.de/wissenschaft/spanien-fast-die-haelfte-des-landes-ist-von-anhaltender-duerre-betroffen](https://www.spiegel.de/wissenschaft/spanien-fast-die-haelfte-des-landes-ist-von-anhaltender-duerre-betroffen-a-357695c9-d033-4152-b86a-acb948f627a8#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen-a-36cb26f9-6bc2-4e21-8f97-81de1f6983a4#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wissenschaft/spanien-fast-die-haelfte-des-landes-ist-von-anhaltender-duerre-betroffen](https://www.spiegel.de/wissenschaft/spanien-fast-die-haelfte-des-landes-ist-von-anhaltender-duerre-betroffen-a-357695c9-d033-4152-b86a-acb948f627a8#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-regierung-und-opposition-vereinbaren-humanitaere-zusammenarbeit](https://www.spiegel.de/ausland/venezuela-regierung-und-opposition-vereinbaren-humanitaere-zusammenarbeit-a-815c7ead-b0f8-4219-8bd7-d0a5b77a5b5c#ref=rss)
-* [https://www.spiegel.de/ausland/kinder-in-der-ukraine-jetzt-habe-ich-mich-ein-bisschen-an-den-krieg-gewoehnt](https://www.spiegel.de/ausland/kinder-in-der-ukraine-jetzt-habe-ich-mich-ein-bisschen-an-den-krieg-gewoehnt-a-19c7a26f-49e8-438b-97a8-2d998d44322a#ref=rss)
-### region
-
-* [https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk](https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk-a-35b0277b-ea6a-4559-8a11-06298ed99183#ref=rss)
-* [https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping](https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping-a-de3ace05-70eb-4bc9-8a86-d6e666f58778#ref=rss)
-* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november-a-e41f9783-c6f5-4838-99ad-9cfbd7cf115d#ref=rss)
-### news
-
-* [https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk](https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk-a-35b0277b-ea6a-4559-8a11-06298ed99183#ref=rss)
-* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november-a-e41f9783-c6f5-4838-99ad-9cfbd7cf115d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-news-heute-englands-mason-mount-trifft-in-katar-erstmals-seine-dreijaehrige-nichte](https://www.spiegel.de/sport/fussball/wm-news-heute-englands-mason-mount-trifft-in-katar-erstmals-seine-dreijaehrige-nichte-a-061ab2cc-2d8a-4800-8be5-47f6d165f840#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping](https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping-a-de3ace05-70eb-4bc9-8a86-d6e666f58778#ref=rss)
-* [https://www.spiegel.de/politik/italien-frau-stirbt-bei-erdrutsch-auf-mittelmeerinsel-ischia](https://www.spiegel.de/politik/italien-frau-stirbt-bei-erdrutsch-auf-mittelmeerinsel-ischia-a-bd3da612-b4a0-4d32-a263-e3a0888909ed#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping](https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping-a-de3ace05-70eb-4bc9-8a86-d6e666f58778#ref=rss)
-* [https://www.spiegel.de/ausland/kinder-in-der-ukraine-jetzt-habe-ich-mich-ein-bisschen-an-den-krieg-gewoehnt](https://www.spiegel.de/ausland/kinder-in-der-ukraine-jetzt-habe-ich-mich-ein-bisschen-an-den-krieg-gewoehnt-a-19c7a26f-49e8-438b-97a8-2d998d44322a#ref=rss)
-* [https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel](https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel-a-38d8552e-a50e-4b54-8a2b-0342cb70ca46#ref=rss)
-### spiel
-
-* [https://www.spiegel.de/sport/fussball/wm-news-heute-englands-mason-mount-trifft-in-katar-erstmals-seine-dreijaehrige-nichte](https://www.spiegel.de/sport/fussball/wm-news-heute-englands-mason-mount-trifft-in-katar-erstmals-seine-dreijaehrige-nichte-a-061ab2cc-2d8a-4800-8be5-47f6d165f840#ref=rss)
-* [https://www.spiegel.de/sport/wm-2022-mario-goetze-ikone-des-durchhaltens](https://www.spiegel.de/sport/wm-2022-mario-goetze-ikone-des-durchhaltens-a-21775097-6f50-4676-a514-17573d7527f8#ref=rss)
-* [https://www.spiegel.de/karriere/jeder-strich-ein-punkt-raetsel-der-woche](https://www.spiegel.de/karriere/jeder-strich-ein-punkt-raetsel-der-woche-a-48249d0f-72ee-42e4-af4f-7ca8414d4da2#ref=rss)
-### welt
-
-* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen-a-36cb26f9-6bc2-4e21-8f97-81de1f6983a4#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko](https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko-a-c9538722-e5de-46e5-93e8-91cdb2efdb4f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln-a-878453e1-0c8f-41b8-8a4b-4c634584f09f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale-a-6b15c578-e88e-4767-bbed-596fd861de70#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-israelische-journalisten-berichten-von-anfeindungen-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-israelische-journalisten-berichten-von-anfeindungen-in-katar-a-b1745a0d-86cc-4f8d-9d36-d062d1340cf3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-belgien-verliert-0-2-gegen-marokko](https://www.spiegel.de/sport/fussball/wm-2022-belgien-verliert-0-2-gegen-marokko-a-b572d437-e0d3-4892-b610-a5607d979cc5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik](https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik-a-4a2b54f1-c769-41c4-8d79-bed7fa36b475#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen](https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen-a-ac24fb51-c54c-4a6b-a501-fa3c22cb73f5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung](https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung-a-e7f0c058-7c26-4be7-90cc-b4e9487de5a7#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/sport/fussball/wm-2022-deutschland-v-spanien-warum-das-dfb-team-gute-erfolgschancen-hat](https://www.spiegel.de/sport/fussball/wm-2022-deutschland-v-spanien-warum-das-dfb-team-gute-erfolgschancen-hat-a-a9958d81-9167-45c5-bfae-d816b44da404#ref=rss)
-### team
+* [https://www.spiegel.de/wirtschaft/warnstreik-oesterreichs-bahnverkehr-steht-am-montag-still](https://www.spiegel.de/wirtschaft/warnstreik-oesterreichs-bahnverkehr-steht-am-montag-still-a-fcdff1be-3293-4bcd-afc1-2a08d9045641#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/staatsangehoerigkeitsrecht-innenministerin-nancy-faeser-warnt-vor-stimmungsmache](https://www.spiegel.de/politik/deutschland/staatsangehoerigkeitsrecht-innenministerin-nancy-faeser-warnt-vor-stimmungsmache-a-2a054088-b37b-44ba-a15e-d7a1a244d0d2#ref=rss)
+* [https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde](https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde-a-c2120927-6064-4b9a-8553-df2f08f9322c#ref=rss)
+* [https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit](https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit-a-90f4bc37-0950-4154-9fea-91d585e72605#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen](https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen-a-ac24fb51-c54c-4a6b-a501-fa3c22cb73f5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung](https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung-a-e7f0c058-7c26-4be7-90cc-b4e9487de5a7#ref=rss)
+### kanada
 
-* [https://www.spiegel.de/sport/fussball/wm-2022-deutschland-v-spanien-warum-das-dfb-team-gute-erfolgschancen-hat](https://www.spiegel.de/sport/fussball/wm-2022-deutschland-v-spanien-warum-das-dfb-team-gute-erfolgschancen-hat-a-a9958d81-9167-45c5-bfae-d816b44da404#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-iran-coach-carlos-queiroz-fordert-ruecktritt-von-juergen-klinsmann-aus-fifa-gruppe](https://www.spiegel.de/sport/fussball/wm-2022-iran-coach-carlos-queiroz-fordert-ruecktritt-von-juergen-klinsmann-aus-fifa-gruppe-a-88bcb7fc-680e-4ba6-876c-864d10d23ae0#ref=rss)
-### trainer
+* [https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale-a-6b15c578-e88e-4767-bbed-596fd861de70#ref=rss)
+* [https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien](https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien-a-84210fa9-f389-46b3-bfe2-81abc85b2422#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-belgien-verliert-0-2-gegen-marokko](https://www.spiegel.de/sport/fussball/wm-2022-belgien-verliert-0-2-gegen-marokko-a-b572d437-e0d3-4892-b610-a5607d979cc5#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/sport/fussball/wm-2022-deutschland-v-spanien-warum-das-dfb-team-gute-erfolgschancen-hat](https://www.spiegel.de/sport/fussball/wm-2022-deutschland-v-spanien-warum-das-dfb-team-gute-erfolgschancen-hat-a-a9958d81-9167-45c5-bfae-d816b44da404#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-news-heute-englands-mason-mount-trifft-in-katar-erstmals-seine-dreijaehrige-nichte](https://www.spiegel.de/sport/fussball/wm-news-heute-englands-mason-mount-trifft-in-katar-erstmals-seine-dreijaehrige-nichte-a-061ab2cc-2d8a-4800-8be5-47f6d165f840#ref=rss)
-### sollten
+* [https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale-a-6b15c578-e88e-4767-bbed-596fd861de70#ref=rss)
+* [https://www.spiegel.de/kultur/filme-der-woche-bones-and-all-merkel-macht-der-freiheit-nelly-und-nadine](https://www.spiegel.de/kultur/filme-der-woche-bones-and-all-merkel-macht-der-freiheit-nelly-und-nadine-a-37748673-a000-4a41-8569-33fc018e9d72#ref=rss)
+* [https://www.spiegel.de/panorama/luebbecke-in-nordrhein-westfalen-zwei-leichen-in-ausgebranntem-haus-gefunden](https://www.spiegel.de/panorama/luebbecke-in-nordrhein-westfalen-zwei-leichen-in-ausgebranntem-haus-gefunden-a-80a0ce7e-5ad3-4d5c-861d-e67efe63bf06#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/wirtschaft/service/worauf-sie-bei-lichterketten-achten-sollten](https://www.spiegel.de/wirtschaft/service/worauf-sie-bei-lichterketten-achten-sollten-a-34bb6e51-827e-4434-8199-ed9b45d6765a#ref=rss)
-* [https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel](https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel-a-38d8552e-a50e-4b54-8a2b-0342cb70ca46#ref=rss)
-### fast
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik-a-f84580eb-de88-4255-ba46-8dbcf69f10fe#ref=rss)
+* [https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten](https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten-a-2c612dd0-565e-46de-b451-c53bdcade55e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik](https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik-a-4a2b54f1-c769-41c4-8d79-bed7fa36b475#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/new-york-coronavirus-in-ratten-nachgewiesen](https://www.spiegel.de/wissenschaft/natur/new-york-coronavirus-in-ratten-nachgewiesen-a-bfb7185b-29b7-4cf0-b5d2-181489039487#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wissenschaft/spanien-fast-die-haelfte-des-landes-ist-von-anhaltender-duerre-betroffen](https://www.spiegel.de/wissenschaft/spanien-fast-die-haelfte-des-landes-ist-von-anhaltender-duerre-betroffen-a-357695c9-d033-4152-b86a-acb948f627a8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk](https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk-a-35b0277b-ea6a-4559-8a11-06298ed99183#ref=rss)
-### betroffen
+* [https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten](https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten-a-2c612dd0-565e-46de-b451-c53bdcade55e#ref=rss)
+* [https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde](https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde-a-c2120927-6064-4b9a-8553-df2f08f9322c#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-zahl-der-erdbebentoten-steigt-auf-mehr-als-300](https://www.spiegel.de/panorama/indonesien-zahl-der-erdbebentoten-steigt-auf-mehr-als-300-a-bc0c3568-8abb-45ee-be53-c56ecd85fbc1#ref=rss)
+* [https://www.spiegel.de/panorama/luebbecke-in-nordrhein-westfalen-zwei-leichen-in-ausgebranntem-haus-gefunden](https://www.spiegel.de/panorama/luebbecke-in-nordrhein-westfalen-zwei-leichen-in-ausgebranntem-haus-gefunden-a-80a0ce7e-5ad3-4d5c-861d-e67efe63bf06#ref=rss)
+### gehen
 
-* [https://www.spiegel.de/wissenschaft/spanien-fast-die-haelfte-des-landes-ist-von-anhaltender-duerre-betroffen](https://www.spiegel.de/wissenschaft/spanien-fast-die-haelfte-des-landes-ist-von-anhaltender-duerre-betroffen-a-357695c9-d033-4152-b86a-acb948f627a8#ref=rss)
-### leidet
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbeleuchtung-trotz-energiekrise-advent-advent-ihr-lichtlein-brennt](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbeleuchtung-trotz-energiekrise-advent-advent-ihr-lichtlein-brennt-a-08fb4783-659a-4c55-9cf4-29f00bbc8b87#ref=rss)
+* [https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten](https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten-a-2c612dd0-565e-46de-b451-c53bdcade55e#ref=rss)
+* [https://www.spiegel.de/ausland/china-proteste-gegen-coronapolitik-in-shanghai-und-anderen-staedten](https://www.spiegel.de/ausland/china-proteste-gegen-coronapolitik-in-shanghai-und-anderen-staedten-a-ef1f2650-c015-456b-a3f7-025cf8635344#ref=rss)
+### australien
 
-* [https://www.spiegel.de/wissenschaft/spanien-fast-die-haelfte-des-landes-ist-von-anhaltender-duerre-betroffen](https://www.spiegel.de/wissenschaft/spanien-fast-die-haelfte-des-landes-ist-von-anhaltender-duerre-betroffen-a-357695c9-d033-4152-b86a-acb948f627a8#ref=rss)
-* [https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot](https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot-a-fd1dd503-ec53-4e1e-989d-a234f316868e#ref=rss)
-### sonntag
+* [https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien](https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien-a-84210fa9-f389-46b3-bfe2-81abc85b2422#ref=rss)
+* [https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit](https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit-a-90f4bc37-0950-4154-9fea-91d585e72605#ref=rss)
+### wir
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk](https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk-a-35b0277b-ea6a-4559-8a11-06298ed99183#ref=rss)
-* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november-a-e41f9783-c6f5-4838-99ad-9cfbd7cf115d#ref=rss)
-### offenbar
+* [https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht](https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht-a-ce311489-be96-416a-bb74-64121a953977#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/forscher-finden-aeltesten-hinweis-auf-fressende-lebewesen](https://www.spiegel.de/wissenschaft/natur/forscher-finden-aeltesten-hinweis-auf-fressende-lebewesen-a-3cf18b24-4628-4e1f-9cde-6d2f41b36731#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk](https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk-a-35b0277b-ea6a-4559-8a11-06298ed99183#ref=rss)
-* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november-a-e41f9783-c6f5-4838-99ad-9cfbd7cf115d#ref=rss)
-### russische
+* [https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht](https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht-a-ce311489-be96-416a-bb74-64121a953977#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### woche
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk](https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk-a-35b0277b-ea6a-4559-8a11-06298ed99183#ref=rss)
-* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november-a-e41f9783-c6f5-4838-99ad-9cfbd7cf115d#ref=rss)
-### schweren
+* [https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht](https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht-a-ce311489-be96-416a-bb74-64121a953977#ref=rss)
+* [https://www.spiegel.de/kultur/filme-der-woche-bones-and-all-merkel-macht-der-freiheit-nelly-und-nadine](https://www.spiegel.de/kultur/filme-der-woche-bones-and-all-merkel-macht-der-freiheit-nelly-und-nadine-a-37748673-a000-4a41-8569-33fc018e9d72#ref=rss)
+### fußballwm
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk](https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk-a-35b0277b-ea6a-4559-8a11-06298ed99183#ref=rss)
-* [https://www.spiegel.de/ausland/china-spendet-kuba-100-millionen-dollar-fuer-kampf-gegen-wirtschaftskrise](https://www.spiegel.de/ausland/china-spendet-kuba-100-millionen-dollar-fuer-kampf-gegen-wirtschaftskrise-a-0ef86508-bbfd-4629-a118-b3b6fb5730c8#ref=rss)
-### moskau
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-israelische-journalisten-berichten-von-anfeindungen-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-israelische-journalisten-berichten-von-anfeindungen-in-katar-a-b1745a0d-86cc-4f8d-9d36-d062d1340cf3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten](https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten-a-2c612dd0-565e-46de-b451-c53bdcade55e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik](https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik-a-4a2b54f1-c769-41c4-8d79-bed7fa36b475#ref=rss)
+### katar
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk](https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk-a-35b0277b-ea6a-4559-8a11-06298ed99183#ref=rss)
-* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november-a-e41f9783-c6f5-4838-99ad-9cfbd7cf115d#ref=rss)
-### überall
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-israelische-journalisten-berichten-von-anfeindungen-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-israelische-journalisten-berichten-von-anfeindungen-in-katar-a-b1745a0d-86cc-4f8d-9d36-d062d1340cf3#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik](https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik-a-4a2b54f1-c769-41c4-8d79-bed7fa36b475#ref=rss)
+### ich
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk](https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk-a-35b0277b-ea6a-4559-8a11-06298ed99183#ref=rss)
-* [https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping](https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping-a-de3ace05-70eb-4bc9-8a86-d6e666f58778#ref=rss)
-### kiew
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-geschmolzenen-loeffel-sind-fuer-mich-ein-sinnbild-fuer-krieg-und-gewalt](https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-geschmolzenen-loeffel-sind-fuer-mich-ein-sinnbild-fuer-krieg-und-gewalt-a-656c8c0b-837b-4913-b1c4-791e40a8c717#ref=rss)
+### new
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk](https://www.spiegel.de/ausland/ukraine-news-am-sonntag-offenbar-zahlreiche-russische-gefallene-in-region-donezk-a-35b0277b-ea6a-4559-8a11-06298ed99183#ref=rss)
-* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november-a-e41f9783-c6f5-4838-99ad-9cfbd7cf115d#ref=rss)
-### kuba
-
-* [https://www.spiegel.de/ausland/china-spendet-kuba-100-millionen-dollar-fuer-kampf-gegen-wirtschaftskrise](https://www.spiegel.de/ausland/china-spendet-kuba-100-millionen-dollar-fuer-kampf-gegen-wirtschaftskrise-a-0ef86508-bbfd-4629-a118-b3b6fb5730c8#ref=rss)
-### steckt
-
-* [https://www.spiegel.de/ausland/china-spendet-kuba-100-millionen-dollar-fuer-kampf-gegen-wirtschaftskrise](https://www.spiegel.de/ausland/china-spendet-kuba-100-millionen-dollar-fuer-kampf-gegen-wirtschaftskrise-a-0ef86508-bbfd-4629-a118-b3b6fb5730c8#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-regierung-und-opposition-vereinbaren-humanitaere-zusammenarbeit](https://www.spiegel.de/ausland/venezuela-regierung-und-opposition-vereinbaren-humanitaere-zusammenarbeit-a-815c7ead-b0f8-4219-8bd7-d0a5b77a5b5c#ref=rss)
-### krise
-
-* [https://www.spiegel.de/ausland/china-spendet-kuba-100-millionen-dollar-fuer-kampf-gegen-wirtschaftskrise](https://www.spiegel.de/ausland/china-spendet-kuba-100-millionen-dollar-fuer-kampf-gegen-wirtschaftskrise-a-0ef86508-bbfd-4629-a118-b3b6fb5730c8#ref=rss)
-* [https://www.spiegel.de/ausland/venezuela-regierung-und-opposition-vereinbaren-humanitaere-zusammenarbeit](https://www.spiegel.de/ausland/venezuela-regierung-und-opposition-vereinbaren-humanitaere-zusammenarbeit-a-815c7ead-b0f8-4219-8bd7-d0a5b77a5b5c#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/ausland/china-spendet-kuba-100-millionen-dollar-fuer-kampf-gegen-wirtschaftskrise](https://www.spiegel.de/ausland/china-spendet-kuba-100-millionen-dollar-fuer-kampf-gegen-wirtschaftskrise-a-0ef86508-bbfd-4629-a118-b3b6fb5730c8#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-abfahrer-thomas-dressen-erfuellt-bei-comeback-die-wm-norm](https://www.spiegel.de/sport/wintersport/ski-alpin-abfahrer-thomas-dressen-erfuellt-bei-comeback-die-wm-norm-a-69abdad0-7375-423b-8354-272a770a4de1#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/spritztour-mit-lotto-millionaer-chico-hoemma-im-ferrari-durch-mcdrive](https://www.spiegel.de/panorama/spritztour-mit-lotto-millionaer-chico-hoemma-im-ferrari-durch-mcdrive-a-ca57108c-428c-4722-af1f-c3d0cc5a82f1#ref=rss)
-* [https://www.spiegel.de/ausland/protestierende-in-iran-wir-leben-in-einem-horror-film](https://www.spiegel.de/ausland/protestierende-in-iran-wir-leben-in-einem-horror-film-a-9896e912-12b0-448b-b1f2-752e6103ce46#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/reise/fernweh/urlaub-oder-workation-die-zehn-besten-reiseziele-zum-ueberwintern](https://www.spiegel.de/reise/fernweh/urlaub-oder-workation-die-zehn-besten-reiseziele-zum-ueberwintern-a-7c44068e-807e-4035-809f-946108f7071d#ref=rss)
-* [https://www.spiegel.de/sport/wm-2022-mario-goetze-ikone-des-durchhaltens](https://www.spiegel.de/sport/wm-2022-mario-goetze-ikone-des-durchhaltens-a-21775097-6f50-4676-a514-17573d7527f8#ref=rss)
-### jürgen
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-iran-coach-carlos-queiroz-fordert-ruecktritt-von-juergen-klinsmann-aus-fifa-gruppe](https://www.spiegel.de/sport/fussball/wm-2022-iran-coach-carlos-queiroz-fordert-ruecktritt-von-juergen-klinsmann-aus-fifa-gruppe-a-88bcb7fc-680e-4ba6-876c-864d10d23ae0#ref=rss)
-### klinsmann
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-iran-coach-carlos-queiroz-fordert-ruecktritt-von-juergen-klinsmann-aus-fifa-gruppe](https://www.spiegel.de/sport/fussball/wm-2022-iran-coach-carlos-queiroz-fordert-ruecktritt-von-juergen-klinsmann-aus-fifa-gruppe-a-88bcb7fc-680e-4ba6-876c-864d10d23ae0#ref=rss)
-### kultur
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-iran-coach-carlos-queiroz-fordert-ruecktritt-von-juergen-klinsmann-aus-fifa-gruppe](https://www.spiegel.de/sport/fussball/wm-2022-iran-coach-carlos-queiroz-fordert-ruecktritt-von-juergen-klinsmann-aus-fifa-gruppe-a-88bcb7fc-680e-4ba6-876c-864d10d23ae0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-benotet-ampel-koalition-mit-3](https://www.spiegel.de/politik/deutschland/lars-klingbeil-benotet-ampel-koalition-mit-3-a-685ac7c2-e49e-431e-b8b1-b93ebb12bc28#ref=rss)
-### ampelkoalition
-
-* [https://www.spiegel.de/politik/deutschland/lars-klingbeil-benotet-ampel-koalition-mit-3](https://www.spiegel.de/politik/deutschland/lars-klingbeil-benotet-ampel-koalition-mit-3-a-685ac7c2-e49e-431e-b8b1-b93ebb12bc28#ref=rss)
-### demonstrationen
-
-* [https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping](https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping-a-de3ace05-70eb-4bc9-8a86-d6e666f58778#ref=rss)
-* [https://www.spiegel.de/ausland/usa-waffenkult-mit-dem-sturmgewehr-zur-demo](https://www.spiegel.de/ausland/usa-waffenkult-mit-dem-sturmgewehr-zur-demo-a-fc2293e8-954d-4de1-b927-84b80530ac36#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping](https://www.spiegel.de/ausland/demonstrationen-in-china-sie-rufen-nieder-mit-xi-jinping-a-de3ace05-70eb-4bc9-8a86-d6e666f58778#ref=rss)
-* [https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot](https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot-a-fd1dd503-ec53-4e1e-989d-a234f316868e#ref=rss)
-### ausscheiden
-
-* [https://www.spiegel.de/sport/fussball/dfb-auswahl-bei-der-wm-in-katar-vor-dem-aus-keiner-erwartet-mehr-viel](https://www.spiegel.de/sport/fussball/dfb-auswahl-bei-der-wm-in-katar-vor-dem-aus-keiner-erwartet-mehr-viel-a-8eb31a2a-d86c-49ab-a7e5-0bd893b42ef2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko](https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko-a-c9538722-e5de-46e5-93e8-91cdb2efdb4f#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/venezuela-regierung-und-opposition-vereinbaren-humanitaere-zusammenarbeit](https://www.spiegel.de/ausland/venezuela-regierung-und-opposition-vereinbaren-humanitaere-zusammenarbeit-a-815c7ead-b0f8-4219-8bd7-d0a5b77a5b5c#ref=rss)
-### opposition
-
-* [https://www.spiegel.de/ausland/venezuela-regierung-und-opposition-vereinbaren-humanitaere-zusammenarbeit](https://www.spiegel.de/ausland/venezuela-regierung-und-opposition-vereinbaren-humanitaere-zusammenarbeit-a-815c7ead-b0f8-4219-8bd7-d0a5b77a5b5c#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/venezuela-regierung-und-opposition-vereinbaren-humanitaere-zusammenarbeit](https://www.spiegel.de/ausland/venezuela-regierung-und-opposition-vereinbaren-humanitaere-zusammenarbeit-a-815c7ead-b0f8-4219-8bd7-d0a5b77a5b5c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-waffenkult-mit-dem-sturmgewehr-zur-demo](https://www.spiegel.de/ausland/usa-waffenkult-mit-dem-sturmgewehr-zur-demo-a-fc2293e8-954d-4de1-b927-84b80530ac36#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-sonntag-27-november-a-e41f9783-c6f5-4838-99ad-9cfbd7cf115d#ref=rss)
-* [https://www.spiegel.de/ausland/kinder-in-der-ukraine-jetzt-habe-ich-mich-ein-bisschen-an-den-krieg-gewoehnt](https://www.spiegel.de/ausland/kinder-in-der-ukraine-jetzt-habe-ich-mich-ein-bisschen-an-den-krieg-gewoehnt-a-19c7a26f-49e8-438b-97a8-2d998d44322a#ref=rss)
-### insel
-
-* [https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel](https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel-a-38d8552e-a50e-4b54-8a2b-0342cb70ca46#ref=rss)
-### drohungen
-
-* [https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel](https://www.spiegel.de/ausland/taiwans-angst-vor-krieg-mit-china-wohin-sollten-wir-denn-gehen-wir-sind-eine-insel-a-38d8552e-a50e-4b54-8a2b-0342cb70ca46#ref=rss)
-* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen-a-36cb26f9-6bc2-4e21-8f97-81de1f6983a4#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/karriere/jeder-strich-ein-punkt-raetsel-der-woche](https://www.spiegel.de/karriere/jeder-strich-ein-punkt-raetsel-der-woche-a-48249d0f-72ee-42e4-af4f-7ca8414d4da2#ref=rss)
-* [https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot](https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot-a-fd1dd503-ec53-4e1e-989d-a234f316868e#ref=rss)
-### grünenpolitikerin
-
-* [https://www.spiegel.de/politik/deutschland/gruenen-politikerin-sarah-lee-heinrich-es-wird-kaum-etwas-besser-und-vieles-schlimmer](https://www.spiegel.de/politik/deutschland/gruenen-politikerin-sarah-lee-heinrich-es-wird-kaum-etwas-besser-und-vieles-schlimmer-a-6c8b67c3-dd7d-4a2d-a6ec-cc8edb9a6136#ref=rss)
-### sarahlee
-
-* [https://www.spiegel.de/politik/deutschland/gruenen-politikerin-sarah-lee-heinrich-es-wird-kaum-etwas-besser-und-vieles-schlimmer](https://www.spiegel.de/politik/deutschland/gruenen-politikerin-sarah-lee-heinrich-es-wird-kaum-etwas-besser-und-vieles-schlimmer-a-6c8b67c3-dd7d-4a2d-a6ec-cc8edb9a6136#ref=rss)
-### heinrich
-
-* [https://www.spiegel.de/politik/deutschland/gruenen-politikerin-sarah-lee-heinrich-es-wird-kaum-etwas-besser-und-vieles-schlimmer](https://www.spiegel.de/politik/deutschland/gruenen-politikerin-sarah-lee-heinrich-es-wird-kaum-etwas-besser-und-vieles-schlimmer-a-6c8b67c3-dd7d-4a2d-a6ec-cc8edb9a6136#ref=rss)
-### kylian
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-kylian-mbappe-ueberragt-fuer-frankreich-gegen-daenemark-wie-gott-in-frankreich](https://www.spiegel.de/sport/fussball/wm-2022-kylian-mbappe-ueberragt-fuer-frankreich-gegen-daenemark-wie-gott-in-frankreich-a-0379b389-bae3-4dd0-a2b8-1cfc6dcc7502#ref=rss)
-### mbappé
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-kylian-mbappe-ueberragt-fuer-frankreich-gegen-daenemark-wie-gott-in-frankreich](https://www.spiegel.de/sport/fussball/wm-2022-kylian-mbappe-ueberragt-fuer-frankreich-gegen-daenemark-wie-gott-in-frankreich-a-0379b389-bae3-4dd0-a2b8-1cfc6dcc7502#ref=rss)
-### dänemark
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-kylian-mbappe-ueberragt-fuer-frankreich-gegen-daenemark-wie-gott-in-frankreich](https://www.spiegel.de/sport/fussball/wm-2022-kylian-mbappe-ueberragt-fuer-frankreich-gegen-daenemark-wie-gott-in-frankreich-a-0379b389-bae3-4dd0-a2b8-1cfc6dcc7502#ref=rss)
-### abfahrer
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-abfahrer-thomas-dressen-erfuellt-bei-comeback-die-wm-norm](https://www.spiegel.de/sport/wintersport/ski-alpin-abfahrer-thomas-dressen-erfuellt-bei-comeback-die-wm-norm-a-69abdad0-7375-423b-8354-272a770a4de1#ref=rss)
-### thomas
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-abfahrer-thomas-dressen-erfuellt-bei-comeback-die-wm-norm](https://www.spiegel.de/sport/wintersport/ski-alpin-abfahrer-thomas-dressen-erfuellt-bei-comeback-die-wm-norm-a-69abdad0-7375-423b-8354-272a770a4de1#ref=rss)
-### dreßen
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-abfahrer-thomas-dressen-erfuellt-bei-comeback-die-wm-norm](https://www.spiegel.de/sport/wintersport/ski-alpin-abfahrer-thomas-dressen-erfuellt-bei-comeback-die-wm-norm-a-69abdad0-7375-423b-8354-272a770a4de1#ref=rss)
-### wmnorm
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-abfahrer-thomas-dressen-erfuellt-bei-comeback-die-wm-norm](https://www.spiegel.de/sport/wintersport/ski-alpin-abfahrer-thomas-dressen-erfuellt-bei-comeback-die-wm-norm-a-69abdad0-7375-423b-8354-272a770a4de1#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot](https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot-a-fd1dd503-ec53-4e1e-989d-a234f316868e#ref=rss)
-### jens
-
-* [https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot](https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot-a-fd1dd503-ec53-4e1e-989d-a234f316868e#ref=rss)
-### bullerjahn
-
-* [https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot](https://www.spiegel.de/politik/sachsen-anhalt-ex-finanzminister-jens-bullerjahn-ist-tot-a-fd1dd503-ec53-4e1e-989d-a234f316868e#ref=rss)
-### kim
-
-* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen-a-36cb26f9-6bc2-4e21-8f97-81de1f6983a4#ref=rss)
-### jong
-
-* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen-a-36cb26f9-6bc2-4e21-8f97-81de1f6983a4#ref=rss)
-### un
-
-* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen-a-36cb26f9-6bc2-4e21-8f97-81de1f6983a4#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen-a-36cb26f9-6bc2-4e21-8f97-81de1f6983a4#ref=rss)
-### stärksten
-
-* [https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen](https://www.spiegel.de/ausland/nordkorea-kim-jong-un-will-nordkorea-zur-staerksten-atommacht-der-welt-machen-a-36cb26f9-6bc2-4e21-8f97-81de1f6983a4#ref=rss)
-### argentinier
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko](https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko-a-c9538722-e5de-46e5-93e8-91cdb2efdb4f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln-a-878453e1-0c8f-41b8-8a4b-4c634584f09f#ref=rss)
-### sieg
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko](https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko-a-c9538722-e5de-46e5-93e8-91cdb2efdb4f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln-a-878453e1-0c8f-41b8-8a4b-4c634584f09f#ref=rss)
-### argentinien
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko](https://www.spiegel.de/sport/fussball/wm-2022-messi-fuehrt-enttaeuschende-argentinier-zum-sieg-gegen-mexiko-a-c9538722-e5de-46e5-93e8-91cdb2efdb4f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln-a-878453e1-0c8f-41b8-8a4b-4c634584f09f#ref=rss)
-### jubeln
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-laesst-argentinien-gegen-mexiko-jubeln-a-878453e1-0c8f-41b8-8a4b-4c634584f09f#ref=rss)
-### frau
-
-* [https://www.spiegel.de/politik/italien-frau-stirbt-bei-erdrutsch-auf-mittelmeerinsel-ischia](https://www.spiegel.de/politik/italien-frau-stirbt-bei-erdrutsch-auf-mittelmeerinsel-ischia-a-bd3da612-b4a0-4d32-a263-e3a0888909ed#ref=rss)
-### mittelmeerinsel
-
-* [https://www.spiegel.de/politik/italien-frau-stirbt-bei-erdrutsch-auf-mittelmeerinsel-ischia](https://www.spiegel.de/politik/italien-frau-stirbt-bei-erdrutsch-auf-mittelmeerinsel-ischia-a-bd3da612-b4a0-4d32-a263-e3a0888909ed#ref=rss)
-### ischia
-
-* [https://www.spiegel.de/politik/italien-frau-stirbt-bei-erdrutsch-auf-mittelmeerinsel-ischia](https://www.spiegel.de/politik/italien-frau-stirbt-bei-erdrutsch-auf-mittelmeerinsel-ischia-a-bd3da612-b4a0-4d32-a263-e3a0888909ed#ref=rss)
+* [https://www.spiegel.de/kultur/filme-der-woche-bones-and-all-merkel-macht-der-freiheit-nelly-und-nadine](https://www.spiegel.de/kultur/filme-der-woche-bones-and-all-merkel-macht-der-freiheit-nelly-und-nadine-a-37748673-a000-4a41-8569-33fc018e9d72#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/new-york-coronavirus-in-ratten-nachgewiesen](https://www.spiegel.de/wissenschaft/natur/new-york-coronavirus-in-ratten-nachgewiesen-a-bfb7185b-29b7-4cf0-b5d2-181489039487#ref=rss)
 ### iran
 
-* [https://www.spiegel.de/ausland/protestierende-in-iran-wir-leben-in-einem-horror-film](https://www.spiegel.de/ausland/protestierende-in-iran-wir-leben-in-einem-horror-film-a-9896e912-12b0-448b-b1f2-752e6103ce46#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik](https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik-a-4a2b54f1-c769-41c4-8d79-bed7fa36b475#ref=rss)
+* [https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde](https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde-a-c2120927-6064-4b9a-8553-df2f08f9322c#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit](https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit-a-90f4bc37-0950-4154-9fea-91d585e72605#ref=rss)
+* [https://www.spiegel.de/ausland/china-proteste-gegen-coronapolitik-in-shanghai-und-anderen-staedten](https://www.spiegel.de/ausland/china-proteste-gegen-coronapolitik-in-shanghai-und-anderen-staedten-a-ef1f2650-c015-456b-a3f7-025cf8635344#ref=rss)
+### costa
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen](https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen-a-ac24fb51-c54c-4a6b-a501-fa3c22cb73f5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung](https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung-a-e7f0c058-7c26-4be7-90cc-b4e9487de5a7#ref=rss)
+### ricas
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen](https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen-a-ac24fb51-c54c-4a6b-a501-fa3c22cb73f5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung](https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung-a-e7f0c058-7c26-4be7-90cc-b4e9487de5a7#ref=rss)
+### japan
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen](https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen-a-ac24fb51-c54c-4a6b-a501-fa3c22cb73f5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung](https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung-a-e7f0c058-7c26-4be7-90cc-b4e9487de5a7#ref=rss)
+### haus
+
+* [https://www.spiegel.de/ausland/china-proteste-gegen-coronapolitik-in-shanghai-und-anderen-staedten](https://www.spiegel.de/ausland/china-proteste-gegen-coronapolitik-in-shanghai-und-anderen-staedten-a-ef1f2650-c015-456b-a3f7-025cf8635344#ref=rss)
+* [https://www.spiegel.de/panorama/luebbecke-in-nordrhein-westfalen-zwei-leichen-in-ausgebranntem-haus-gefunden](https://www.spiegel.de/panorama/luebbecke-in-nordrhein-westfalen-zwei-leichen-in-ausgebranntem-haus-gefunden-a-80a0ce7e-5ad3-4d5c-861d-e67efe63bf06#ref=rss)
+### kroatien
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale-a-6b15c578-e88e-4767-bbed-596fd861de70#ref=rss)
+### achtelfinale
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale-a-6b15c578-e88e-4767-bbed-596fd861de70#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen](https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen-a-ac24fb51-c54c-4a6b-a501-fa3c22cb73f5#ref=rss)
+### nordamerikaner
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale-a-6b15c578-e88e-4767-bbed-596fd861de70#ref=rss)
+* [https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien](https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien-a-84210fa9-f389-46b3-bfe2-81abc85b2422#ref=rss)
+### zweiten
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale-a-6b15c578-e88e-4767-bbed-596fd861de70#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-geschmolzenen-loeffel-sind-fuer-mich-ein-sinnbild-fuer-krieg-und-gewalt](https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-geschmolzenen-loeffel-sind-fuer-mich-ein-sinnbild-fuer-krieg-und-gewalt-a-656c8c0b-837b-4913-b1c4-791e40a8c717#ref=rss)
+### geschichte
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-kroatien-dreht-das-spiel-gegen-kanada-und-wahrt-chance-aufs-achtelfinale-a-6b15c578-e88e-4767-bbed-596fd861de70#ref=rss)
+* [https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde](https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde-a-c2120927-6064-4b9a-8553-df2f08f9322c#ref=rss)
+### albanische
+
+* [https://www.spiegel.de/kultur/musik/britischer-popstar-dua-lipa-bekommt-albanische-staatsbuergerschaft](https://www.spiegel.de/kultur/musik/britischer-popstar-dua-lipa-bekommt-albanische-staatsbuergerschaft-a-26a8a176-ccf6-4849-9056-58919b548102#ref=rss)
+### weihnachtsbeleuchtung
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbeleuchtung-trotz-energiekrise-advent-advent-ihr-lichtlein-brennt](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbeleuchtung-trotz-energiekrise-advent-advent-ihr-lichtlein-brennt-a-08fb4783-659a-4c55-9cf4-29f00bbc8b87#ref=rss)
+### energiekrise
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbeleuchtung-trotz-energiekrise-advent-advent-ihr-lichtlein-brennt](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbeleuchtung-trotz-energiekrise-advent-advent-ihr-lichtlein-brennt-a-08fb4783-659a-4c55-9cf4-29f00bbc8b87#ref=rss)
+### advent
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbeleuchtung-trotz-energiekrise-advent-advent-ihr-lichtlein-brennt](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbeleuchtung-trotz-energiekrise-advent-advent-ihr-lichtlein-brennt-a-08fb4783-659a-4c55-9cf4-29f00bbc8b87#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbeleuchtung-trotz-energiekrise-advent-advent-ihr-lichtlein-brennt](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbeleuchtung-trotz-energiekrise-advent-advent-ihr-lichtlein-brennt-a-08fb4783-659a-4c55-9cf4-29f00bbc8b87#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/staatsangehoerigkeitsrecht-innenministerin-nancy-faeser-warnt-vor-stimmungsmache](https://www.spiegel.de/politik/deutschland/staatsangehoerigkeitsrecht-innenministerin-nancy-faeser-warnt-vor-stimmungsmache-a-2a054088-b37b-44ba-a15e-d7a1a244d0d2#ref=rss)
+### sehr
+
+* [https://www.spiegel.de/panorama/gesellschaft/weihnachtsbeleuchtung-trotz-energiekrise-advent-advent-ihr-lichtlein-brennt](https://www.spiegel.de/panorama/gesellschaft/weihnachtsbeleuchtung-trotz-energiekrise-advent-advent-ihr-lichtlein-brennt-a-08fb4783-659a-4c55-9cf4-29f00bbc8b87#ref=rss)
+* [https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit](https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit-a-90f4bc37-0950-4154-9fea-91d585e72605#ref=rss)
+### davis
+
+* [https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien](https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien-a-84210fa9-f389-46b3-bfe2-81abc85b2422#ref=rss)
+### cup
+
+* [https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien](https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien-a-84210fa9-f389-46b3-bfe2-81abc85b2422#ref=rss)
+### finale
+
+* [https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien](https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien-a-84210fa9-f389-46b3-bfe2-81abc85b2422#ref=rss)
+### land
+
+* [https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien](https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien-a-84210fa9-f389-46b3-bfe2-81abc85b2422#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik-a-f84580eb-de88-4255-ba46-8dbcf69f10fe#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien](https://www.spiegel.de/sport/tennis/davis-cup-deutschland-bezwinger-kanada-gewinnt-finale-gegen-australien-a-84210fa9-f389-46b3-bfe2-81abc85b2422#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung](https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung-a-e7f0c058-7c26-4be7-90cc-b4e9487de5a7#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht](https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht-a-ce311489-be96-416a-bb74-64121a953977#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-zahl-der-erdbebentoten-steigt-auf-mehr-als-300](https://www.spiegel.de/panorama/indonesien-zahl-der-erdbebentoten-steigt-auf-mehr-als-300-a-bc0c3568-8abb-45ee-be53-c56ecd85fbc1#ref=rss)
+### elke
+
+* [https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht](https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht-a-ce311489-be96-416a-bb74-64121a953977#ref=rss)
+### heidenreich
+
+* [https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht](https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht-a-ce311489-be96-416a-bb74-64121a953977#ref=rss)
+### patti
+
+* [https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht](https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht-a-ce311489-be96-416a-bb74-64121a953977#ref=rss)
+### smith
+
+* [https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht](https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht-a-ce311489-be96-416a-bb74-64121a953977#ref=rss)
+### bedeutet
+
+* [https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht](https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht-a-ce311489-be96-416a-bb74-64121a953977#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-geschmolzenen-loeffel-sind-fuer-mich-ein-sinnbild-fuer-krieg-und-gewalt](https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-geschmolzenen-loeffel-sind-fuer-mich-ein-sinnbild-fuer-krieg-und-gewalt-a-656c8c0b-837b-4913-b1c4-791e40a8c717#ref=rss)
+### alles
+
+* [https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht](https://www.spiegel.de/kultur/literatur/mehr-lesen-mit-elke-heidenreich-patti-smith-buch-der-tage-und-gespraeche-ueber-das-gesicht-a-ce311489-be96-416a-bb74-64121a953977#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-geschmolzenen-loeffel-sind-fuer-mich-ein-sinnbild-fuer-krieg-und-gewalt](https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-geschmolzenen-loeffel-sind-fuer-mich-ein-sinnbild-fuer-krieg-und-gewalt-a-656c8c0b-837b-4913-b1c4-791e40a8c717#ref=rss)
+### montag
+
+* [https://www.spiegel.de/wirtschaft/warnstreik-oesterreichs-bahnverkehr-steht-am-montag-still](https://www.spiegel.de/wirtschaft/warnstreik-oesterreichs-bahnverkehr-steht-am-montag-still-a-fcdff1be-3293-4bcd-afc1-2a08d9045641#ref=rss)
+### sonntag
+
+* [https://www.spiegel.de/wirtschaft/warnstreik-oesterreichs-bahnverkehr-steht-am-montag-still](https://www.spiegel.de/wirtschaft/warnstreik-oesterreichs-bahnverkehr-steht-am-montag-still-a-fcdff1be-3293-4bcd-afc1-2a08d9045641#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-mehrere-verletzte-bei-auseinandersetzung-in-disco](https://www.spiegel.de/panorama/justiz/essen-mehrere-verletzte-bei-auseinandersetzung-in-disco-a-504f0f5c-6866-406c-a9ca-b15b2e1498fb#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/netzwelt/web/ukraine-warum-russische-hacker-das-ukrainische-finanzministerium-angreifen](https://www.spiegel.de/netzwelt/web/ukraine-warum-russische-hacker-das-ukrainische-finanzministerium-angreifen-a-935fa96d-6785-4539-9afa-1139cf798de6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik-a-f84580eb-de88-4255-ba46-8dbcf69f10fe#ref=rss)
+### ischia
+
+* [https://www.spiegel.de/panorama/ischia-nach-der-erdrutsch-katastrophe-suche-nach-vermissten-geht-weiter](https://www.spiegel.de/panorama/ischia-nach-der-erdrutsch-katastrophe-suche-nach-vermissten-geht-weiter-a-c590b9b8-e12a-4d3a-bd21-c4f99747aae3#ref=rss)
+### fanden
+
+* [https://www.spiegel.de/panorama/ischia-nach-der-erdrutsch-katastrophe-suche-nach-vermissten-geht-weiter](https://www.spiegel.de/panorama/ischia-nach-der-erdrutsch-katastrophe-suche-nach-vermissten-geht-weiter-a-c590b9b8-e12a-4d3a-bd21-c4f99747aae3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik-a-f84580eb-de88-4255-ba46-8dbcf69f10fe#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/ischia-nach-der-erdrutsch-katastrophe-suche-nach-vermissten-geht-weiter](https://www.spiegel.de/panorama/ischia-nach-der-erdrutsch-katastrophe-suche-nach-vermissten-geht-weiter-a-c590b9b8-e12a-4d3a-bd21-c4f99747aae3#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/essen-mehrere-verletzte-bei-auseinandersetzung-in-disco](https://www.spiegel.de/panorama/justiz/essen-mehrere-verletzte-bei-auseinandersetzung-in-disco-a-504f0f5c-6866-406c-a9ca-b15b2e1498fb#ref=rss)
+### orte
+
+* [https://www.spiegel.de/panorama/ischia-nach-der-erdrutsch-katastrophe-suche-nach-vermissten-geht-weiter](https://www.spiegel.de/panorama/ischia-nach-der-erdrutsch-katastrophe-suche-nach-vermissten-geht-weiter-a-c590b9b8-e12a-4d3a-bd21-c4f99747aae3#ref=rss)
+* [https://www.spiegel.de/panorama/indonesien-zahl-der-erdbebentoten-steigt-auf-mehr-als-300](https://www.spiegel.de/panorama/indonesien-zahl-der-erdbebentoten-steigt-auf-mehr-als-300-a-bc0c3568-8abb-45ee-be53-c56ecd85fbc1#ref=rss)
+### jeden
+
+* [https://www.spiegel.de/panorama/justiz/ermittler-nach-muenzraub-von-manching-das-wochenende-war-auf-jeden-fall-interessant](https://www.spiegel.de/panorama/justiz/ermittler-nach-muenzraub-von-manching-das-wochenende-war-auf-jeden-fall-interessant-a-08423680-971f-4389-9b8f-29a736c26cec#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/justiz/ermittler-nach-muenzraub-von-manching-das-wochenende-war-auf-jeden-fall-interessant](https://www.spiegel.de/panorama/justiz/ermittler-nach-muenzraub-von-manching-das-wochenende-war-auf-jeden-fall-interessant-a-08423680-971f-4389-9b8f-29a736c26cec#ref=rss)
+* [https://www.spiegel.de/karriere/frankreich-mann-wird-gekuendigt-weil-er-nicht-an-exzessen-teilnimmt-gericht-kassiert-kuendigung](https://www.spiegel.de/karriere/frankreich-mann-wird-gekuendigt-weil-er-nicht-an-exzessen-teilnimmt-gericht-kassiert-kuendigung-a-cd45bbee-3755-413a-aeee-f7d84f88cc6e#ref=rss)
+### alten
+
+* [https://www.spiegel.de/panorama/justiz/ermittler-nach-muenzraub-von-manching-das-wochenende-war-auf-jeden-fall-interessant](https://www.spiegel.de/panorama/justiz/ermittler-nach-muenzraub-von-manching-das-wochenende-war-auf-jeden-fall-interessant-a-08423680-971f-4389-9b8f-29a736c26cec#ref=rss)
+* [https://www.spiegel.de/ausland/queen-camilla-tauscht-hofdamen-gegen-informelle-begleitung](https://www.spiegel.de/ausland/queen-camilla-tauscht-hofdamen-gegen-informelle-begleitung-a-920f7fe2-6818-4901-872f-fa3cb613e701#ref=rss)
+### mann
+
+* [https://www.spiegel.de/karriere/frankreich-mann-wird-gekuendigt-weil-er-nicht-an-exzessen-teilnimmt-gericht-kassiert-kuendigung](https://www.spiegel.de/karriere/frankreich-mann-wird-gekuendigt-weil-er-nicht-an-exzessen-teilnimmt-gericht-kassiert-kuendigung-a-cd45bbee-3755-413a-aeee-f7d84f88cc6e#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/karriere/frankreich-mann-wird-gekuendigt-weil-er-nicht-an-exzessen-teilnimmt-gericht-kassiert-kuendigung](https://www.spiegel.de/karriere/frankreich-mann-wird-gekuendigt-weil-er-nicht-an-exzessen-teilnimmt-gericht-kassiert-kuendigung-a-cd45bbee-3755-413a-aeee-f7d84f88cc6e#ref=rss)
+### sieben
+
+* [https://www.spiegel.de/karriere/frankreich-mann-wird-gekuendigt-weil-er-nicht-an-exzessen-teilnimmt-gericht-kassiert-kuendigung](https://www.spiegel.de/karriere/frankreich-mann-wird-gekuendigt-weil-er-nicht-an-exzessen-teilnimmt-gericht-kassiert-kuendigung-a-cd45bbee-3755-413a-aeee-f7d84f88cc6e#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-israelische-journalisten-berichten-von-anfeindungen-in-katar](https://www.spiegel.de/sport/fussball/fussball-wm-2022-israelische-journalisten-berichten-von-anfeindungen-in-katar-a-b1745a0d-86cc-4f8d-9d36-d062d1340cf3#ref=rss)
+* [https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde](https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde-a-c2120927-6064-4b9a-8553-df2f08f9322c#ref=rss)
+### irans
+
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik-a-f84580eb-de88-4255-ba46-8dbcf69f10fe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik](https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik-a-4a2b54f1-c769-41c4-8d79-bed7fa36b475#ref=rss)
+### drohnen
+
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik-a-f84580eb-de88-4255-ba46-8dbcf69f10fe#ref=rss)
+### russland
+
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-irans-drohnen-fliegen-mit-westtechnik-a-f84580eb-de88-4255-ba46-8dbcf69f10fe#ref=rss)
+* [https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit](https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit-a-90f4bc37-0950-4154-9fea-91d585e72605#ref=rss)
+### argentinien
+
+* [https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten](https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten-a-2c612dd0-565e-46de-b451-c53bdcade55e#ref=rss)
+### lage
+
+* [https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten](https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten-a-2c612dd0-565e-46de-b451-c53bdcade55e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung](https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung-a-e7f0c058-7c26-4be7-90cc-b4e9487de5a7#ref=rss)
+### hoffnung
+
+* [https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten](https://www.spiegel.de/wissenschaft/studie-zur-fussball-wm-in-argentinien-1978-weltmeisterschaften-schaden-menschenrechten-a-2c612dd0-565e-46de-b451-c53bdcade55e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung](https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung-a-e7f0c058-7c26-4be7-90cc-b4e9487de5a7#ref=rss)
+### camilla
+
+* [https://www.spiegel.de/ausland/queen-camilla-tauscht-hofdamen-gegen-informelle-begleitung](https://www.spiegel.de/ausland/queen-camilla-tauscht-hofdamen-gegen-informelle-begleitung-a-920f7fe2-6818-4901-872f-fa3cb613e701#ref=rss)
+### hofdamen
+
+* [https://www.spiegel.de/ausland/queen-camilla-tauscht-hofdamen-gegen-informelle-begleitung](https://www.spiegel.de/ausland/queen-camilla-tauscht-hofdamen-gegen-informelle-begleitung-a-920f7fe2-6818-4901-872f-fa3cb613e701#ref=rss)
+### weltkrieg
+
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-geschmolzenen-loeffel-sind-fuer-mich-ein-sinnbild-fuer-krieg-und-gewalt](https://www.spiegel.de/geschichte/zweiter-weltkrieg-die-geschmolzenen-loeffel-sind-fuer-mich-ein-sinnbild-fuer-krieg-und-gewalt-a-656c8c0b-837b-4913-b1c4-791e40a8c717#ref=rss)
+### belgien
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-belgien-verliert-0-2-gegen-marokko](https://www.spiegel.de/sport/fussball/wm-2022-belgien-verliert-0-2-gegen-marokko-a-b572d437-e0d3-4892-b610-a5607d979cc5#ref=rss)
+### marokko
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-belgien-verliert-0-2-gegen-marokko](https://www.spiegel.de/sport/fussball/wm-2022-belgien-verliert-0-2-gegen-marokko-a-b572d437-e0d3-4892-b610-a5607d979cc5#ref=rss)
+### filme
+
+* [https://www.spiegel.de/kultur/filme-der-woche-bones-and-all-merkel-macht-der-freiheit-nelly-und-nadine](https://www.spiegel.de/kultur/filme-der-woche-bones-and-all-merkel-macht-der-freiheit-nelly-und-nadine-a-37748673-a000-4a41-8569-33fc018e9d72#ref=rss)
+### merkel
+
+* [https://www.spiegel.de/kultur/filme-der-woche-bones-and-all-merkel-macht-der-freiheit-nelly-und-nadine](https://www.spiegel.de/kultur/filme-der-woche-bones-and-all-merkel-macht-der-freiheit-nelly-und-nadine-a-37748673-a000-4a41-8569-33fc018e9d72#ref=rss)
+### york
+
+* [https://www.spiegel.de/kultur/filme-der-woche-bones-and-all-merkel-macht-der-freiheit-nelly-und-nadine](https://www.spiegel.de/kultur/filme-der-woche-bones-and-all-merkel-macht-der-freiheit-nelly-und-nadine-a-37748673-a000-4a41-8569-33fc018e9d72#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/new-york-coronavirus-in-ratten-nachgewiesen](https://www.spiegel.de/wissenschaft/natur/new-york-coronavirus-in-ratten-nachgewiesen-a-bfb7185b-29b7-4cf0-b5d2-181489039487#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik](https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik-a-4a2b54f1-c769-41c4-8d79-bed7fa36b475#ref=rss)
+### usa
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik](https://www.spiegel.de/sport/fussball/fussball-wm-2022-us-verband-zeigt-irans-flagge-ohne-zeichen-der-islamischen-republik-a-4a2b54f1-c769-41c4-8d79-bed7fa36b475#ref=rss)
+* [https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit](https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit-a-90f4bc37-0950-4154-9fea-91d585e72605#ref=rss)
+### tag
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### lebewesen
+
+* [https://www.spiegel.de/wissenschaft/natur/forscher-finden-aeltesten-hinweis-auf-fressende-lebewesen](https://www.spiegel.de/wissenschaft/natur/forscher-finden-aeltesten-hinweis-auf-fressende-lebewesen-a-3cf18b24-4628-4e1f-9cde-6d2f41b36731#ref=rss)
+### hunderten
+
+* [https://www.spiegel.de/wissenschaft/natur/forscher-finden-aeltesten-hinweis-auf-fressende-lebewesen](https://www.spiegel.de/wissenschaft/natur/forscher-finden-aeltesten-hinweis-auf-fressende-lebewesen-a-3cf18b24-4628-4e1f-9cde-6d2f41b36731#ref=rss)
+* [https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde](https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde-a-c2120927-6064-4b9a-8553-df2f08f9322c#ref=rss)
+### fachleute
+
+* [https://www.spiegel.de/wissenschaft/natur/forscher-finden-aeltesten-hinweis-auf-fressende-lebewesen](https://www.spiegel.de/wissenschaft/natur/forscher-finden-aeltesten-hinweis-auf-fressende-lebewesen-a-3cf18b24-4628-4e1f-9cde-6d2f41b36731#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/new-york-coronavirus-in-ratten-nachgewiesen](https://www.spiegel.de/wissenschaft/natur/new-york-coronavirus-in-ratten-nachgewiesen-a-bfb7185b-29b7-4cf0-b5d2-181489039487#ref=rss)
+### massenproteste
+
+* [https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde](https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde-a-c2120927-6064-4b9a-8553-df2f08f9322c#ref=rss)
+### familie
+
+* [https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde](https://www.spiegel.de/ausland/massenproteste-im-iran-wie-der-verwandte-einer-familie-aus-giessen-brutal-getoetet-wurde-a-c2120927-6064-4b9a-8553-df2f08f9322c#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/panorama/indonesien-zahl-der-erdbebentoten-steigt-auf-mehr-als-300](https://www.spiegel.de/panorama/indonesien-zahl-der-erdbebentoten-steigt-auf-mehr-als-300-a-bc0c3568-8abb-45ee-be53-c56ecd85fbc1#ref=rss)
+### hatten
+
+* [https://www.spiegel.de/panorama/indonesien-zahl-der-erdbebentoten-steigt-auf-mehr-als-300](https://www.spiegel.de/panorama/indonesien-zahl-der-erdbebentoten-steigt-auf-mehr-als-300-a-bc0c3568-8abb-45ee-be53-c56ecd85fbc1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/new-york-coronavirus-in-ratten-nachgewiesen](https://www.spiegel.de/wissenschaft/natur/new-york-coronavirus-in-ratten-nachgewiesen-a-bfb7185b-29b7-4cf0-b5d2-181489039487#ref=rss)
+### erreichen
+
+* [https://www.spiegel.de/panorama/indonesien-zahl-der-erdbebentoten-steigt-auf-mehr-als-300](https://www.spiegel.de/panorama/indonesien-zahl-der-erdbebentoten-steigt-auf-mehr-als-300-a-bc0c3568-8abb-45ee-be53-c56ecd85fbc1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen](https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen-a-ac24fb51-c54c-4a6b-a501-fa3c22cb73f5#ref=rss)
+### europa
+
+* [https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit](https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit-a-90f4bc37-0950-4154-9fea-91d585e72605#ref=rss)
+### hugh
+
+* [https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit](https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit-a-90f4bc37-0950-4154-9fea-91d585e72605#ref=rss)
+### white
+
+* [https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit](https://www.spiegel.de/ausland/europa-australischer-stratege-hugh-white-ueber-europas-sicherheit-a-90f4bc37-0950-4154-9fea-91d585e72605#ref=rss)
+### gruppe
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen](https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen-a-ac24fb51-c54c-4a6b-a501-fa3c22cb73f5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung](https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung-a-e7f0c058-7c26-4be7-90cc-b4e9487de5a7#ref=rss)
+### e
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen](https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen-a-ac24fb51-c54c-4a6b-a501-fa3c22cb73f5#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung](https://www.spiegel.de/sport/fussball/wm-2022-costa-ricas-sieg-gegen-japan-schenkt-dfb-team-hoffnung-a-e7f0c058-7c26-4be7-90cc-b4e9487de5a7#ref=rss)
+### erst
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen](https://www.spiegel.de/sport/fussball/wm-2022-gruppe-e-so-kann-deutschland-das-wm-achtelfinale-erreichen-a-ac24fb51-c54c-4a6b-a501-fa3c22cb73f5#ref=rss)
+* [https://www.spiegel.de/panorama/luebbecke-in-nordrhein-westfalen-zwei-leichen-in-ausgebranntem-haus-gefunden](https://www.spiegel.de/panorama/luebbecke-in-nordrhein-westfalen-zwei-leichen-in-ausgebranntem-haus-gefunden-a-80a0ce7e-5ad3-4d5c-861d-e67efe63bf06#ref=rss)
+### lübbecke
+
+* [https://www.spiegel.de/panorama/luebbecke-in-nordrhein-westfalen-zwei-leichen-in-ausgebranntem-haus-gefunden](https://www.spiegel.de/panorama/luebbecke-in-nordrhein-westfalen-zwei-leichen-in-ausgebranntem-haus-gefunden-a-80a0ce7e-5ad3-4d5c-861d-e67efe63bf06#ref=rss)
+### essen
+
+* [https://www.spiegel.de/panorama/justiz/essen-mehrere-verletzte-bei-auseinandersetzung-in-disco](https://www.spiegel.de/panorama/justiz/essen-mehrere-verletzte-bei-auseinandersetzung-in-disco-a-504f0f5c-6866-406c-a9ca-b15b2e1498fb#ref=rss)
+### ratten
+
+* [https://www.spiegel.de/wissenschaft/natur/new-york-coronavirus-in-ratten-nachgewiesen](https://www.spiegel.de/wissenschaft/natur/new-york-coronavirus-in-ratten-nachgewiesen-a-bfb7185b-29b7-4cf0-b5d2-181489039487#ref=rss)
 
