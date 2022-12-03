@@ -4,314 +4,350 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ukraine
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/russlands-krieg-gegen-die-ukraine-europaeische-union-will-haftstrafen-fuer-sanktionsumgehung](https://www.spiegel.de/wirtschaft/unternehmen/russlands-krieg-gegen-die-ukraine-europaeische-union-will-haftstrafen-fuer-sanktionsumgehung-a-79830331-3d67-440c-a728-17ac8bd4c2f3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein](https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein-a-3a8d93cc-f1b3-42f2-bfc9-8867b79f0152#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht-a-21e552c4-4312-4d6c-a854-96fdfd806150#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-die-lebensgefaehrliche-arbeit-von-instandsetzungstrupps](https://www.spiegel.de/ausland/ukraine-die-lebensgefaehrliche-arbeit-von-instandsetzungstrupps-a-b7474653-dcd8-4fe1-a56b-a3a348c852db#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/wirtschaft/eu-beschliesst-60-dollar-deckel-fuer-russisches-oel](https://www.spiegel.de/wirtschaft/eu-beschliesst-60-dollar-deckel-fuer-russisches-oel-a-dcf70301-6de9-42e9-a2fb-bc02b278b983#ref=rss)
-* [https://www.spiegel.de/ausland/edward-snowden-us-whistleblower-erhaelt-offenbar-russischen-pass](https://www.spiegel.de/ausland/edward-snowden-us-whistleblower-erhaelt-offenbar-russischen-pass-a-e9139345-20aa-4c8f-baf4-edbbe5572cf5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/deutscher-lkw-fahrer-ueberfuhr-radprofi-davide-rebellin-und-fluechtete-offenbar-vom-unfallort](https://www.spiegel.de/panorama/justiz/deutscher-lkw-fahrer-ueberfuhr-radprofi-davide-rebellin-und-fluechtete-offenbar-vom-unfallort-a-0c1964c3-2734-48a5-82f4-04491fb38b5a#ref=rss)
-* [https://www.spiegel.de/ausland/alex-jones-us-verschwoerungsideologe-meldet-privatinsolvenz-an](https://www.spiegel.de/ausland/alex-jones-us-verschwoerungsideologe-meldet-privatinsolvenz-an-a-b7fc6b86-6c2a-4611-a1b4-ce53aeb5435a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gemuenden-am-main-gericht-verurteilt-mutmassliche-querdenker-zu-haftstrafen](https://www.spiegel.de/panorama/justiz/gemuenden-am-main-gericht-verurteilt-mutmassliche-querdenker-zu-haftstrafen-a-e5fb9f25-95de-443a-81c5-bdcef743717a#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze](https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze-a-88f18eb4-0d2f-44ef-913f-92297524fb4e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus-a-ba03debb-4394-4629-80e7-ac96d8aba068#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/gesetzliche-rentenversicherung-macht-milliarden-ueberschuss](https://www.spiegel.de/wirtschaft/soziales/gesetzliche-rentenversicherung-macht-milliarden-ueberschuss-a-fd04f8e8-f4b1-4a63-9097-a462be96199f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig](https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig-a-0a28fe88-8c3a-4e8a-b073-67d99fc15f23#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/wagner-gruppe-wie-die-russische-soeldnergruppen-mit-diamanten-aus-afrika-geschaefte-macht](https://www.spiegel.de/ausland/wagner-gruppe-wie-die-russische-soeldnergruppen-mit-diamanten-aus-afrika-geschaefte-macht-a-18c4f0ea-d74d-43c4-a121-9132d6347f2a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-beschliesst-60-dollar-deckel-fuer-russisches-oel](https://www.spiegel.de/wirtschaft/eu-beschliesst-60-dollar-deckel-fuer-russisches-oel-a-dcf70301-6de9-42e9-a2fb-bc02b278b983#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein](https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein-a-3a8d93cc-f1b3-42f2-bfc9-8867b79f0152#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht-a-21e552c4-4312-4d6c-a854-96fdfd806150#ref=rss)
 ### wm
 
-* [https://www.spiegel.de/sport/fussball/wm-2022-suedkorea-schlaegt-portugal-und-steht-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-suedkorea-schlaegt-portugal-und-steht-im-achtelfinale-a-a8adea0f-7965-42f2-81b4-f1e1a61b7e9a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus-a-ba03debb-4394-4629-80e7-ac96d8aba068#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig](https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig-a-0a28fe88-8c3a-4e8a-b073-67d99fc15f23#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien](https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien-a-a580d821-7df0-4974-a10a-1e25e7cab543#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-suedkorea-schlaegt-portugal-und-steht-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-suedkorea-schlaegt-portugal-und-steht-im-achtelfinale-a-a8adea0f-7965-42f2-81b4-f1e1a61b7e9a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus-a-ba03debb-4394-4629-80e7-ac96d8aba068#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-oliver-bierhoff-zieht-den-oeffentlichen-unmut-auf-sich](https://www.spiegel.de/sport/fussball/fussball-wm-2022-oliver-bierhoff-zieht-den-oeffentlichen-unmut-auf-sich-a-58b63d1f-281f-4507-9109-aa1414fe6bb7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig](https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig-a-0a28fe88-8c3a-4e8a-b073-67d99fc15f23#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien](https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien-a-a580d821-7df0-4974-a10a-1e25e7cab543#ref=rss)
+* [https://www.spiegel.de/sport/wm-berichterstattung-habt-ihr-ein-frauenproblem-liebes-zdf](https://www.spiegel.de/sport/wm-berichterstattung-habt-ihr-ein-frauenproblem-liebes-zdf-a-909f6220-4175-4e99-be08-b94ffa22f50c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-luis-suarez-scheidet-mit-uruguay-tragisch-aus](https://www.spiegel.de/sport/fussball/wm-2022-luis-suarez-scheidet-mit-uruguay-tragisch-aus-a-9b1d0a15-cabc-4f35-84b9-e51c291ece2d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-in-katar-auf-der-suche-nach-dem-geist-des-fussballs](https://www.spiegel.de/sport/fussball/wm-2022-in-katar-auf-der-suche-nach-dem-geist-des-fussballs-a-240da139-1a6f-41ad-b776-1b765bb5bcdc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler-a-e8c1b5c1-5294-4cd7-ab5c-32cccdf57fd0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger](https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger-a-38fe59af-2fd2-4c20-8b4a-232897e2cc89#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen](https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen-a-6e5f8394-9ef5-4a2b-917f-d571f6f7a1a6#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht-a-21e552c4-4312-4d6c-a854-96fdfd806150#ref=rss)
-* [https://www.spiegel.de/ausland/alex-jones-us-verschwoerungsideologe-meldet-privatinsolvenz-an](https://www.spiegel.de/ausland/alex-jones-us-verschwoerungsideologe-meldet-privatinsolvenz-an-a-b7fc6b86-6c2a-4611-a1b4-ce53aeb5435a#ref=rss)
-* [https://www.spiegel.de/kultur/filme-der-woche-sonne-mehr-denn-je-die-stillen-trabanten-the-wonder](https://www.spiegel.de/kultur/filme-der-woche-sonne-mehr-denn-je-die-stillen-trabanten-the-wonder-a-bd08ba76-63fe-4eb5-a514-0284a891bca1#ref=rss)
-### deutschland
+* [https://www.spiegel.de/sport/wm-berichterstattung-habt-ihr-ein-frauenproblem-liebes-zdf](https://www.spiegel.de/sport/wm-berichterstattung-habt-ihr-ein-frauenproblem-liebes-zdf-a-909f6220-4175-4e99-be08-b94ffa22f50c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen](https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen-a-e9515885-4cb4-4fb5-af46-02334162fb04#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler-a-e8c1b5c1-5294-4cd7-ab5c-32cccdf57fd0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab](https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab-a-f6225a7b-dd47-424c-8cca-56c93e245c64#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main-a-d93a9b60-44b2-4fc5-85ec-8f2c84442f27#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen](https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen-a-6e5f8394-9ef5-4a2b-917f-d571f6f7a1a6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze](https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze-a-88f18eb4-0d2f-44ef-913f-92297524fb4e#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht-a-21e552c4-4312-4d6c-a854-96fdfd806150#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien](https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien-a-a580d821-7df0-4974-a10a-1e25e7cab543#ref=rss)
-### woche
+* [https://www.spiegel.de/panorama/justiz/ukraine-kriminelle-versuchen-banksy-bild-zu-stehlen](https://www.spiegel.de/panorama/justiz/ukraine-kriminelle-versuchen-banksy-bild-zu-stehlen-a-889700ff-14a8-4099-885d-0c41ca95cbae#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin](https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin-a-ca2403ac-3715-4f4f-963d-c3c0176bd1ac#ref=rss)
+* [https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine](https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine-a-f4785a21-e307-482c-baac-0118b0187267#ref=rss)
+* [https://www.spiegel.de/wissenschaft/neue-us-artillerieraketen-glsdb-fuer-die-ukraine-doppelte-reichweite-halber-preis](https://www.spiegel.de/wissenschaft/neue-us-artillerieraketen-glsdb-fuer-die-ukraine-doppelte-reichweite-halber-preis-a-f0b98210-a1bf-4d36-97fd-ba0b091d9bd8#ref=rss)
+### olaf
 
-* [https://www.spiegel.de/ausland/corona-in-china-die-dynamische-null-covid-politik-ist-vielleicht-nicht-realistisch](https://www.spiegel.de/ausland/corona-in-china-die-dynamische-null-covid-politik-ist-vielleicht-nicht-realistisch-a-c5021630-21a7-4cd6-a982-e07fb43c78c1#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/gasimporte-aus-katar-und-senegal-fossile-deals-vor-und-hinter-den-kulissen](https://www.spiegel.de/wissenschaft/mensch/gasimporte-aus-katar-und-senegal-fossile-deals-vor-und-hinter-den-kulissen-a-b7dc0885-401a-4f5e-b7af-6f73b4380019#ref=rss)
-* [https://www.spiegel.de/kultur/filme-der-woche-sonne-mehr-denn-je-die-stillen-trabanten-the-wonder](https://www.spiegel.de/kultur/filme-der-woche-sonne-mehr-denn-je-die-stillen-trabanten-the-wonder-a-bd08ba76-63fe-4eb5-a514-0284a891bca1#ref=rss)
-### japans
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus-a-ba03debb-4394-4629-80e7-ac96d8aba068#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien](https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien-a-a580d821-7df0-4974-a10a-1e25e7cab543#ref=rss)
-### russische
-
-* [https://www.spiegel.de/ausland/wagner-gruppe-wie-die-russische-soeldnergruppen-mit-diamanten-aus-afrika-geschaefte-macht](https://www.spiegel.de/ausland/wagner-gruppe-wie-die-russische-soeldnergruppen-mit-diamanten-aus-afrika-geschaefte-macht-a-18c4f0ea-d74d-43c4-a121-9132d6347f2a#ref=rss)
-* [https://www.spiegel.de/ausland/edward-snowden-us-whistleblower-erhaelt-offenbar-russischen-pass](https://www.spiegel.de/ausland/edward-snowden-us-whistleblower-erhaelt-offenbar-russischen-pass-a-e9139345-20aa-4c8f-baf4-edbbe5572cf5#ref=rss)
-### macht
-
-* [https://www.spiegel.de/ausland/wagner-gruppe-wie-die-russische-soeldnergruppen-mit-diamanten-aus-afrika-geschaefte-macht](https://www.spiegel.de/ausland/wagner-gruppe-wie-die-russische-soeldnergruppen-mit-diamanten-aus-afrika-geschaefte-macht-a-18c4f0ea-d74d-43c4-a121-9132d6347f2a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/gesetzliche-rentenversicherung-macht-milliarden-ueberschuss](https://www.spiegel.de/wirtschaft/soziales/gesetzliche-rentenversicherung-macht-milliarden-ueberschuss-a-fd04f8e8-f4b1-4a63-9097-a462be96199f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig](https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig-a-0a28fe88-8c3a-4e8a-b073-67d99fc15f23#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-suedkorea-schlaegt-portugal-und-steht-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-suedkorea-schlaegt-portugal-und-steht-im-achtelfinale-a-a8adea0f-7965-42f2-81b4-f1e1a61b7e9a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze](https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze-a-88f18eb4-0d2f-44ef-913f-92297524fb4e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kita-qualitaetsgesetz-bundestag-beschliesst-verbesserungen-in-kitas](https://www.spiegel.de/politik/deutschland/kita-qualitaetsgesetz-bundestag-beschliesst-verbesserungen-in-kitas-a-7635570a-452d-48d5-a79f-57416c172185#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/edward-snowden-us-whistleblower-erhaelt-offenbar-russischen-pass](https://www.spiegel.de/ausland/edward-snowden-us-whistleblower-erhaelt-offenbar-russischen-pass-a-e9139345-20aa-4c8f-baf4-edbbe5572cf5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze](https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze-a-88f18eb4-0d2f-44ef-913f-92297524fb4e#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze](https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze-a-88f18eb4-0d2f-44ef-913f-92297524fb4e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus-a-ba03debb-4394-4629-80e7-ac96d8aba068#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht-a-21e552c4-4312-4d6c-a854-96fdfd806150#ref=rss)
-### wmaus
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze](https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze-a-88f18eb4-0d2f-44ef-913f-92297524fb4e#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig](https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig-a-0a28fe88-8c3a-4e8a-b073-67d99fc15f23#ref=rss)
-### fifa
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus-a-ba03debb-4394-4629-80e7-ac96d8aba068#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien](https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien-a-a580d821-7df0-4974-a10a-1e25e7cab543#ref=rss)
-### jones
-
-* [https://www.spiegel.de/ausland/alex-jones-us-verschwoerungsideologe-meldet-privatinsolvenz-an](https://www.spiegel.de/ausland/alex-jones-us-verschwoerungsideologe-meldet-privatinsolvenz-an-a-b7fc6b86-6c2a-4611-a1b4-ce53aeb5435a#ref=rss)
-### russlands
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/russlands-krieg-gegen-die-ukraine-europaeische-union-will-haftstrafen-fuer-sanktionsumgehung](https://www.spiegel.de/wirtschaft/unternehmen/russlands-krieg-gegen-die-ukraine-europaeische-union-will-haftstrafen-fuer-sanktionsumgehung-a-79830331-3d67-440c-a728-17ac8bd4c2f3#ref=rss)
-### haftstrafen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/russlands-krieg-gegen-die-ukraine-europaeische-union-will-haftstrafen-fuer-sanktionsumgehung](https://www.spiegel.de/wirtschaft/unternehmen/russlands-krieg-gegen-die-ukraine-europaeische-union-will-haftstrafen-fuer-sanktionsumgehung-a-79830331-3d67-440c-a728-17ac8bd4c2f3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/gemuenden-am-main-gericht-verurteilt-mutmassliche-querdenker-zu-haftstrafen](https://www.spiegel.de/panorama/justiz/gemuenden-am-main-gericht-verurteilt-mutmassliche-querdenker-zu-haftstrafen-a-e5fb9f25-95de-443a-81c5-bdcef743717a#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/russlands-krieg-gegen-die-ukraine-europaeische-union-will-haftstrafen-fuer-sanktionsumgehung](https://www.spiegel.de/wirtschaft/unternehmen/russlands-krieg-gegen-die-ukraine-europaeische-union-will-haftstrafen-fuer-sanktionsumgehung-a-79830331-3d67-440c-a728-17ac8bd4c2f3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-beschliesst-60-dollar-deckel-fuer-russisches-oel](https://www.spiegel.de/wirtschaft/eu-beschliesst-60-dollar-deckel-fuer-russisches-oel-a-dcf70301-6de9-42e9-a2fb-bc02b278b983#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen](https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen-a-6e5f8394-9ef5-4a2b-917f-d571f6f7a1a6#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen](https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen-a-6e5f8394-9ef5-4a2b-917f-d571f6f7a1a6#ref=rss)
-### leben
-
-* [https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen](https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen-a-6e5f8394-9ef5-4a2b-917f-d571f6f7a1a6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/antarktis-riesenwelle-soll-passagier-einer-kreuzfahrt-getoetet-haben-stimmt-das](https://www.spiegel.de/wissenschaft/antarktis-riesenwelle-soll-passagier-einer-kreuzfahrt-getoetet-haben-stimmt-das-a-2601cd2b-1ec3-4ce6-b04d-345909177874#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen](https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen-a-6e5f8394-9ef5-4a2b-917f-d571f6f7a1a6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/gesetzliche-rentenversicherung-macht-milliarden-ueberschuss](https://www.spiegel.de/wirtschaft/soziales/gesetzliche-rentenversicherung-macht-milliarden-ueberschuss-a-fd04f8e8-f4b1-4a63-9097-a462be96199f#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen](https://www.spiegel.de/wirtschaft/soziales/demografischer-wandel-zahl-der-rentner-steigt-2035-auf-mehr-als-20-millionen-a-6e5f8394-9ef5-4a2b-917f-d571f6f7a1a6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kita-qualitaetsgesetz-bundestag-beschliesst-verbesserungen-in-kitas](https://www.spiegel.de/politik/deutschland/kita-qualitaetsgesetz-bundestag-beschliesst-verbesserungen-in-kitas-a-7635570a-452d-48d5-a79f-57416c172185#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/ausland/corona-in-china-die-dynamische-null-covid-politik-ist-vielleicht-nicht-realistisch](https://www.spiegel.de/ausland/corona-in-china-die-dynamische-null-covid-politik-ist-vielleicht-nicht-realistisch-a-c5021630-21a7-4cd6-a982-e07fb43c78c1#ref=rss)
-* [https://www.spiegel.de/ausland/wagner-gruppe-wie-die-russische-soeldnergruppen-mit-diamanten-aus-afrika-geschaefte-macht](https://www.spiegel.de/ausland/wagner-gruppe-wie-die-russische-soeldnergruppen-mit-diamanten-aus-afrika-geschaefte-macht-a-18c4f0ea-d74d-43c4-a121-9132d6347f2a#ref=rss)
-### diamanten
-
-* [https://www.spiegel.de/ausland/wagner-gruppe-wie-die-russische-soeldnergruppen-mit-diamanten-aus-afrika-geschaefte-macht](https://www.spiegel.de/ausland/wagner-gruppe-wie-die-russische-soeldnergruppen-mit-diamanten-aus-afrika-geschaefte-macht-a-18c4f0ea-d74d-43c4-a121-9132d6347f2a#ref=rss)
-### afrika
-
-* [https://www.spiegel.de/ausland/wagner-gruppe-wie-die-russische-soeldnergruppen-mit-diamanten-aus-afrika-geschaefte-macht](https://www.spiegel.de/ausland/wagner-gruppe-wie-die-russische-soeldnergruppen-mit-diamanten-aus-afrika-geschaefte-macht-a-18c4f0ea-d74d-43c4-a121-9132d6347f2a#ref=rss)
-### beschließt
-
-* [https://www.spiegel.de/wirtschaft/eu-beschliesst-60-dollar-deckel-fuer-russisches-oel](https://www.spiegel.de/wirtschaft/eu-beschliesst-60-dollar-deckel-fuer-russisches-oel-a-dcf70301-6de9-42e9-a2fb-bc02b278b983#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kita-qualitaetsgesetz-bundestag-beschliesst-verbesserungen-in-kitas](https://www.spiegel.de/politik/deutschland/kita-qualitaetsgesetz-bundestag-beschliesst-verbesserungen-in-kitas-a-7635570a-452d-48d5-a79f-57416c172185#ref=rss)
-### öl
-
-* [https://www.spiegel.de/wirtschaft/eu-beschliesst-60-dollar-deckel-fuer-russisches-oel](https://www.spiegel.de/wirtschaft/eu-beschliesst-60-dollar-deckel-fuer-russisches-oel-a-dcf70301-6de9-42e9-a2fb-bc02b278b983#ref=rss)
-### einigung
-
-* [https://www.spiegel.de/wirtschaft/eu-beschliesst-60-dollar-deckel-fuer-russisches-oel](https://www.spiegel.de/wirtschaft/eu-beschliesst-60-dollar-deckel-fuer-russisches-oel-a-dcf70301-6de9-42e9-a2fb-bc02b278b983#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kita-qualitaetsgesetz-bundestag-beschliesst-verbesserungen-in-kitas](https://www.spiegel.de/politik/deutschland/kita-qualitaetsgesetz-bundestag-beschliesst-verbesserungen-in-kitas-a-7635570a-452d-48d5-a79f-57416c172185#ref=rss)
-### südkorea
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-suedkorea-schlaegt-portugal-und-steht-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-suedkorea-schlaegt-portugal-und-steht-im-achtelfinale-a-a8adea0f-7965-42f2-81b4-f1e1a61b7e9a#ref=rss)
-### achtelfinale
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-suedkorea-schlaegt-portugal-und-steht-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-suedkorea-schlaegt-portugal-und-steht-im-achtelfinale-a-a8adea0f-7965-42f2-81b4-f1e1a61b7e9a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus-a-ba03debb-4394-4629-80e7-ac96d8aba068#ref=rss)
-### tor
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-suedkorea-schlaegt-portugal-und-steht-im-achtelfinale](https://www.spiegel.de/sport/fussball/wm-2022-suedkorea-schlaegt-portugal-und-steht-im-achtelfinale-a-a8adea0f-7965-42f2-81b4-f1e1a61b7e9a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien](https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien-a-a580d821-7df0-4974-a10a-1e25e7cab543#ref=rss)
-### edward
-
-* [https://www.spiegel.de/ausland/edward-snowden-us-whistleblower-erhaelt-offenbar-russischen-pass](https://www.spiegel.de/ausland/edward-snowden-us-whistleblower-erhaelt-offenbar-russischen-pass-a-e9139345-20aa-4c8f-baf4-edbbe5572cf5#ref=rss)
-### snowden
-
-* [https://www.spiegel.de/ausland/edward-snowden-us-whistleblower-erhaelt-offenbar-russischen-pass](https://www.spiegel.de/ausland/edward-snowden-us-whistleblower-erhaelt-offenbar-russischen-pass-a-e9139345-20aa-4c8f-baf4-edbbe5572cf5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bilanz-von-olaf-scholz-kanzler-redet-sich-das-erste-ampel-jahr-schoen](https://www.spiegel.de/politik/deutschland/bilanz-von-olaf-scholz-kanzler-redet-sich-das-erste-ampel-jahr-schoen-a-d5f7024c-3643-4a15-ae6d-b31b22d3f970#ref=rss)
+* [https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine](https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine-a-f4785a21-e307-482c-baac-0118b0187267#ref=rss)
 ### scholz
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze](https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze-a-88f18eb4-0d2f-44ef-913f-92297524fb4e#ref=rss)
-### kampf
+* [https://www.spiegel.de/politik/deutschland/bilanz-von-olaf-scholz-kanzler-redet-sich-das-erste-ampel-jahr-schoen](https://www.spiegel.de/politik/deutschland/bilanz-von-olaf-scholz-kanzler-redet-sich-das-erste-ampel-jahr-schoen-a-d5f7024c-3643-4a15-ae6d-b31b22d3f970#ref=rss)
+* [https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine](https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine-a-f4785a21-e307-482c-baac-0118b0187267#ref=rss)
+### sucht
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze](https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze-a-88f18eb4-0d2f-44ef-913f-92297524fb4e#ref=rss)
-### parkplätze
+* [https://www.spiegel.de/panorama/gesellschaft/new-york-sucht-obersten-rattenfaenger-bewerber-mit-killer-instinkt-gesucht](https://www.spiegel.de/panorama/gesellschaft/new-york-sucht-obersten-rattenfaenger-bewerber-mit-killer-instinkt-gesucht-a-1afeb009-4426-49ee-a1c7-c1339038f983#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wie-berlin-43-000-wahlhelfer-fuer-die-wiederholungs-wahl-im-februar-sucht](https://www.spiegel.de/politik/deutschland/wie-berlin-43-000-wahlhelfer-fuer-die-wiederholungs-wahl-im-februar-sucht-a-449b5c8c-74e8-4121-8154-3d734019b761#ref=rss)
+* [https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine](https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine-a-f4785a21-e307-482c-baac-0118b0187267#ref=rss)
+### 2022
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze](https://www.spiegel.de/politik/deutschland/news-des-tages-deutschlands-wm-aus-olaf-scholz-und-wladimir-putin-kampf-um-parkplaetze-a-88f18eb4-0d2f-44ef-913f-92297524fb4e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/bettina-jarasch-ueber-fahrraeder-auf-berliner-parkplaetzen-es-wird-immer-autos-geben-aber-es-muessen-weniger-werden](https://www.spiegel.de/panorama/gesellschaft/bettina-jarasch-ueber-fahrraeder-auf-berliner-parkplaetzen-es-wird-immer-autos-geben-aber-es-muessen-weniger-werden-a-d0d43c05-be8f-4d8c-8184-7cf2ee32f5c3#ref=rss)
-### bettina
+* [https://www.spiegel.de/sport/fussball/wm-2022-luis-suarez-scheidet-mit-uruguay-tragisch-aus](https://www.spiegel.de/sport/fussball/wm-2022-luis-suarez-scheidet-mit-uruguay-tragisch-aus-a-9b1d0a15-cabc-4f35-84b9-e51c291ece2d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-in-katar-auf-der-suche-nach-dem-geist-des-fussballs](https://www.spiegel.de/sport/fussball/wm-2022-in-katar-auf-der-suche-nach-dem-geist-des-fussballs-a-240da139-1a6f-41ad-b776-1b765bb5bcdc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler-a-e8c1b5c1-5294-4cd7-ab5c-32cccdf57fd0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger](https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger-a-38fe59af-2fd2-4c20-8b4a-232897e2cc89#ref=rss)
+### usa
 
-* [https://www.spiegel.de/panorama/gesellschaft/bettina-jarasch-ueber-fahrraeder-auf-berliner-parkplaetzen-es-wird-immer-autos-geben-aber-es-muessen-weniger-werden](https://www.spiegel.de/panorama/gesellschaft/bettina-jarasch-ueber-fahrraeder-auf-berliner-parkplaetzen-es-wird-immer-autos-geben-aber-es-muessen-weniger-werden-a-d0d43c05-be8f-4d8c-8184-7cf2ee32f5c3#ref=rss)
-### jarasch
+* [https://www.spiegel.de/wissenschaft/technik/us-luftwaffe-stellt-neuen-tarnkappenbomber-b-21-vor](https://www.spiegel.de/wissenschaft/technik/us-luftwaffe-stellt-neuen-tarnkappenbomber-b-21-vor-a-40622ce3-6df5-4a11-a75b-1421ce22dfa0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz](https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz-a-52e64df0-d918-4281-ab6f-53912e3c29b8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/neue-us-artillerieraketen-glsdb-fuer-die-ukraine-doppelte-reichweite-halber-preis](https://www.spiegel.de/wissenschaft/neue-us-artillerieraketen-glsdb-fuer-die-ukraine-doppelte-reichweite-halber-preis-a-f0b98210-a1bf-4d36-97fd-ba0b091d9bd8#ref=rss)
+### china
 
-* [https://www.spiegel.de/panorama/gesellschaft/bettina-jarasch-ueber-fahrraeder-auf-berliner-parkplaetzen-es-wird-immer-autos-geben-aber-es-muessen-weniger-werden](https://www.spiegel.de/panorama/gesellschaft/bettina-jarasch-ueber-fahrraeder-auf-berliner-parkplaetzen-es-wird-immer-autos-geben-aber-es-muessen-weniger-werden-a-d0d43c05-be8f-4d8c-8184-7cf2ee32f5c3#ref=rss)
-### fahrräder
+* [https://www.spiegel.de/ausland/china-xis-regime-lockert-corona-auflagen](https://www.spiegel.de/ausland/china-xis-regime-lockert-corona-auflagen-a-252b3338-fcc1-4828-b5a0-bf525eab9f6b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-inflation-china-fussball-wm-angela-merkel-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-inflation-china-fussball-wm-angela-merkel-podcast-a-9b11b2c7-4fce-4bcb-b12d-94980640c8c6#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/panorama/gesellschaft/bettina-jarasch-ueber-fahrraeder-auf-berliner-parkplaetzen-es-wird-immer-autos-geben-aber-es-muessen-weniger-werden](https://www.spiegel.de/panorama/gesellschaft/bettina-jarasch-ueber-fahrraeder-auf-berliner-parkplaetzen-es-wird-immer-autos-geben-aber-es-muessen-weniger-werden-a-d0d43c05-be8f-4d8c-8184-7cf2ee32f5c3#ref=rss)
-### genozid
+* [https://www.spiegel.de/politik/deutschland/bilanz-von-olaf-scholz-kanzler-redet-sich-das-erste-ampel-jahr-schoen](https://www.spiegel.de/politik/deutschland/bilanz-von-olaf-scholz-kanzler-redet-sich-das-erste-ampel-jahr-schoen-a-d5f7024c-3643-4a15-ae6d-b31b22d3f970#ref=rss)
+* [https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine](https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine-a-f4785a21-e307-482c-baac-0118b0187267#ref=rss)
+### häuser
 
-* [https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein](https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein-a-3a8d93cc-f1b3-42f2-bfc9-8867b79f0152#ref=rss)
-### völkerrechtler
+* [https://www.spiegel.de/politik/bundesanwaltschaft-ermittelt-wegen-anschlagsserie-auf-juedische-haeuser](https://www.spiegel.de/politik/bundesanwaltschaft-ermittelt-wegen-anschlagsserie-auf-juedische-haeuser-a-8701eed4-a7f8-4344-aced-0a5589532220#ref=rss)
+* [https://www.spiegel.de/ausland/angkor-wat-in-kambodscha-wenn-wir-weg-sind-sind-die-tempel-nur-noch-tote-steine](https://www.spiegel.de/ausland/angkor-wat-in-kambodscha-wenn-wir-weg-sind-sind-die-tempel-nur-noch-tote-steine-a-2c95510c-8c99-4c51-a18d-353bbe85fa39#ref=rss)
+### laut
 
-* [https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein](https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein-a-3a8d93cc-f1b3-42f2-bfc9-8867b79f0152#ref=rss)
-### ukrainischen
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-entstehung-von-omikron-wurde-laut-charite-studie-wohl-schlicht-uebersehen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-entstehung-von-omikron-wurde-laut-charite-studie-wohl-schlicht-uebersehen-a-7a33b007-5e89-49c2-bfbc-19c4ca7af3a4#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/tinder-junge-singles-daten-zunehmend-ohne-alkohol](https://www.spiegel.de/netzwelt/apps/tinder-junge-singles-daten-zunehmend-ohne-alkohol-a-e2445cf3-7128-49e9-acbb-1eee331d36aa#ref=rss)
+### news
 
-* [https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein](https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein-a-3a8d93cc-f1b3-42f2-bfc9-8867b79f0152#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht-a-21e552c4-4312-4d6c-a854-96fdfd806150#ref=rss)
-### antworten
+* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler-a-e8c1b5c1-5294-4cd7-ab5c-32cccdf57fd0#ref=rss)
+* [https://www.spiegel.de/ausland/news-zum-ukraine-russland-krieg-was-in-der-nacht-geschah-03-12](https://www.spiegel.de/ausland/news-zum-ukraine-russland-krieg-was-in-der-nacht-geschah-03-12-a-91b2d0c1-de89-4db0-bb72-9afa0995f334#ref=rss)
+* [https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine](https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine-a-f4785a21-e307-482c-baac-0118b0187267#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein](https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein-a-3a8d93cc-f1b3-42f2-bfc9-8867b79f0152#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien](https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien-a-a580d821-7df0-4974-a10a-1e25e7cab543#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/banken-und-sparkassen-halten-an-girocard-trotz-maestro-aus-fest](https://www.spiegel.de/wirtschaft/service/banken-und-sparkassen-halten-an-girocard-trotz-maestro-aus-fest-a-f222555e-9954-43fe-8e26-4a6d85e4a3aa#ref=rss)
+* [https://www.spiegel.de/wissenschaft/neue-us-artillerieraketen-glsdb-fuer-die-ukraine-doppelte-reichweite-halber-preis](https://www.spiegel.de/wissenschaft/neue-us-artillerieraketen-glsdb-fuer-die-ukraine-doppelte-reichweite-halber-preis-a-f0b98210-a1bf-4d36-97fd-ba0b091d9bd8#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin](https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin-a-ca2403ac-3715-4f4f-963d-c3c0176bd1ac#ref=rss)
+* [https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine](https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine-a-f4785a21-e307-482c-baac-0118b0187267#ref=rss)
+### regime
+
+* [https://www.spiegel.de/ausland/china-xis-regime-lockert-corona-auflagen](https://www.spiegel.de/ausland/china-xis-regime-lockert-corona-auflagen-a-252b3338-fcc1-4828-b5a0-bf525eab9f6b#ref=rss)
+* [https://www.spiegel.de/politik/bundesanwaltschaft-ermittelt-wegen-anschlagsserie-auf-juedische-haeuser](https://www.spiegel.de/politik/bundesanwaltschaft-ermittelt-wegen-anschlagsserie-auf-juedische-haeuser-a-8701eed4-a7f8-4344-aced-0a5589532220#ref=rss)
+### setzen
+
+* [https://www.spiegel.de/ausland/china-xis-regime-lockert-corona-auflagen](https://www.spiegel.de/ausland/china-xis-regime-lockert-corona-auflagen-a-252b3338-fcc1-4828-b5a0-bf525eab9f6b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab](https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab-a-f6225a7b-dd47-424c-8cca-56c93e245c64#ref=rss)
+### einige
+
+* [https://www.spiegel.de/ausland/china-xis-regime-lockert-corona-auflagen](https://www.spiegel.de/ausland/china-xis-regime-lockert-corona-auflagen-a-252b3338-fcc1-4828-b5a0-bf525eab9f6b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main-a-d93a9b60-44b2-4fc5-85ec-8f2c84442f27#ref=rss)
+### bisher
+
+* [https://www.spiegel.de/politik/deutschland/bilanz-von-olaf-scholz-kanzler-redet-sich-das-erste-ampel-jahr-schoen](https://www.spiegel.de/politik/deutschland/bilanz-von-olaf-scholz-kanzler-redet-sich-das-erste-ampel-jahr-schoen-a-d5f7024c-3643-4a15-ae6d-b31b22d3f970#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-entstehung-von-omikron-wurde-laut-charite-studie-wohl-schlicht-uebersehen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-entstehung-von-omikron-wurde-laut-charite-studie-wohl-schlicht-uebersehen-a-7a33b007-5e89-49c2-bfbc-19c4ca7af3a4#ref=rss)
+### bundesanwaltschaft
+
+* [https://www.spiegel.de/politik/bundesanwaltschaft-ermittelt-wegen-anschlagsserie-auf-juedische-haeuser](https://www.spiegel.de/politik/bundesanwaltschaft-ermittelt-wegen-anschlagsserie-auf-juedische-haeuser-a-8701eed4-a7f8-4344-aced-0a5589532220#ref=rss)
+### jüdische
+
+* [https://www.spiegel.de/politik/bundesanwaltschaft-ermittelt-wegen-anschlagsserie-auf-juedische-haeuser](https://www.spiegel.de/politik/bundesanwaltschaft-ermittelt-wegen-anschlagsserie-auf-juedische-haeuser-a-8701eed4-a7f8-4344-aced-0a5589532220#ref=rss)
+### visier
+
+* [https://www.spiegel.de/politik/bundesanwaltschaft-ermittelt-wegen-anschlagsserie-auf-juedische-haeuser](https://www.spiegel.de/politik/bundesanwaltschaft-ermittelt-wegen-anschlagsserie-auf-juedische-haeuser-a-8701eed4-a7f8-4344-aced-0a5589532220#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ukraine-kriminelle-versuchen-banksy-bild-zu-stehlen](https://www.spiegel.de/panorama/justiz/ukraine-kriminelle-versuchen-banksy-bild-zu-stehlen-a-889700ff-14a8-4099-885d-0c41ca95cbae#ref=rss)
+### sender
+
+* [https://www.spiegel.de/sport/wm-berichterstattung-habt-ihr-ein-frauenproblem-liebes-zdf](https://www.spiegel.de/sport/wm-berichterstattung-habt-ihr-ein-frauenproblem-liebes-zdf-a-909f6220-4175-4e99-be08-b94ffa22f50c#ref=rss)
+* [https://www.spiegel.de/ausland/news-zum-ukraine-russland-krieg-was-in-der-nacht-geschah-03-12](https://www.spiegel.de/ausland/news-zum-ukraine-russland-krieg-was-in-der-nacht-geschah-03-12-a-91b2d0c1-de89-4db0-bb72-9afa0995f334#ref=rss)
+### macht
+
+* [https://www.spiegel.de/sport/wm-berichterstattung-habt-ihr-ein-frauenproblem-liebes-zdf](https://www.spiegel.de/sport/wm-berichterstattung-habt-ihr-ein-frauenproblem-liebes-zdf-a-909f6220-4175-4e99-be08-b94ffa22f50c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler-a-e8c1b5c1-5294-4cd7-ab5c-32cccdf57fd0#ref=rss)
+### new
+
+* [https://www.spiegel.de/panorama/gesellschaft/new-york-sucht-obersten-rattenfaenger-bewerber-mit-killer-instinkt-gesucht](https://www.spiegel.de/panorama/gesellschaft/new-york-sucht-obersten-rattenfaenger-bewerber-mit-killer-instinkt-gesucht-a-1afeb009-4426-49ee-a1c7-c1339038f983#ref=rss)
+### york
+
+* [https://www.spiegel.de/panorama/gesellschaft/new-york-sucht-obersten-rattenfaenger-bewerber-mit-killer-instinkt-gesucht](https://www.spiegel.de/panorama/gesellschaft/new-york-sucht-obersten-rattenfaenger-bewerber-mit-killer-instinkt-gesucht-a-1afeb009-4426-49ee-a1c7-c1339038f983#ref=rss)
+### gesucht
+
+* [https://www.spiegel.de/panorama/gesellschaft/new-york-sucht-obersten-rattenfaenger-bewerber-mit-killer-instinkt-gesucht](https://www.spiegel.de/panorama/gesellschaft/new-york-sucht-obersten-rattenfaenger-bewerber-mit-killer-instinkt-gesucht-a-1afeb009-4426-49ee-a1c7-c1339038f983#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/banken-und-sparkassen-halten-an-girocard-trotz-maestro-aus-fest](https://www.spiegel.de/wirtschaft/service/banken-und-sparkassen-halten-an-girocard-trotz-maestro-aus-fest-a-f222555e-9954-43fe-8e26-4a6d85e4a3aa#ref=rss)
+### per
+
+* [https://www.spiegel.de/panorama/gesellschaft/new-york-sucht-obersten-rattenfaenger-bewerber-mit-killer-instinkt-gesucht](https://www.spiegel.de/panorama/gesellschaft/new-york-sucht-obersten-rattenfaenger-bewerber-mit-killer-instinkt-gesucht-a-1afeb009-4426-49ee-a1c7-c1339038f983#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten](https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten-a-37d4b53d-876a-4b18-b690-8efd00c34093#ref=rss)
+### omikron
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-entstehung-von-omikron-wurde-laut-charite-studie-wohl-schlicht-uebersehen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-entstehung-von-omikron-wurde-laut-charite-studie-wohl-schlicht-uebersehen-a-7a33b007-5e89-49c2-bfbc-19c4ca7af3a4#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-entstehung-von-omikron-wurde-laut-charite-studie-wohl-schlicht-uebersehen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-entstehung-von-omikron-wurde-laut-charite-studie-wohl-schlicht-uebersehen-a-7a33b007-5e89-49c2-bfbc-19c4ca7af3a4#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/us-luftwaffe-stellt-neuen-tarnkappenbomber-b-21-vor](https://www.spiegel.de/wissenschaft/technik/us-luftwaffe-stellt-neuen-tarnkappenbomber-b-21-vor-a-40622ce3-6df5-4a11-a75b-1421ce22dfa0#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-entstehung-von-omikron-wurde-laut-charite-studie-wohl-schlicht-uebersehen](https://www.spiegel.de/wissenschaft/medizin/coronavirus-entstehung-von-omikron-wurde-laut-charite-studie-wohl-schlicht-uebersehen-a-7a33b007-5e89-49c2-bfbc-19c4ca7af3a4#ref=rss)
+* [https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen](https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen-a-e9515885-4cb4-4fb5-af46-02334162fb04#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/netzwelt/apps/tinder-junge-singles-daten-zunehmend-ohne-alkohol](https://www.spiegel.de/netzwelt/apps/tinder-junge-singles-daten-zunehmend-ohne-alkohol-a-e2445cf3-7128-49e9-acbb-1eee331d36aa#ref=rss)
+### luis
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-luis-suarez-scheidet-mit-uruguay-tragisch-aus](https://www.spiegel.de/sport/fussball/wm-2022-luis-suarez-scheidet-mit-uruguay-tragisch-aus-a-9b1d0a15-cabc-4f35-84b9-e51c291ece2d#ref=rss)
+### suárez
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-luis-suarez-scheidet-mit-uruguay-tragisch-aus](https://www.spiegel.de/sport/fussball/wm-2022-luis-suarez-scheidet-mit-uruguay-tragisch-aus-a-9b1d0a15-cabc-4f35-84b9-e51c291ece2d#ref=rss)
+### uruguay
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-luis-suarez-scheidet-mit-uruguay-tragisch-aus](https://www.spiegel.de/sport/fussball/wm-2022-luis-suarez-scheidet-mit-uruguay-tragisch-aus-a-9b1d0a15-cabc-4f35-84b9-e51c291ece2d#ref=rss)
+### katar
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-in-katar-auf-der-suche-nach-dem-geist-des-fussballs](https://www.spiegel.de/sport/fussball/wm-2022-in-katar-auf-der-suche-nach-dem-geist-des-fussballs-a-240da139-1a6f-41ad-b776-1b765bb5bcdc#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-in-katar-auf-der-suche-nach-dem-geist-des-fussballs](https://www.spiegel.de/sport/fussball/wm-2022-in-katar-auf-der-suche-nach-dem-geist-des-fussballs-a-240da139-1a6f-41ad-b776-1b765bb5bcdc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main-a-d93a9b60-44b2-4fc5-85ec-8f2c84442f27#ref=rss)
+### netflixserie
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen](https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen-a-e9515885-4cb4-4fb5-af46-02334162fb04#ref=rss)
+### wednesday
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen](https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen-a-e9515885-4cb4-4fb5-af46-02334162fb04#ref=rss)
+### würde
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen](https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen-a-e9515885-4cb4-4fb5-af46-02334162fb04#ref=rss)
+* [https://www.spiegel.de/wissenschaft/neue-us-artillerieraketen-glsdb-fuer-die-ukraine-doppelte-reichweite-halber-preis](https://www.spiegel.de/wissenschaft/neue-us-artillerieraketen-glsdb-fuer-die-ukraine-doppelte-reichweite-halber-preis-a-f0b98210-a1bf-4d36-97fd-ba0b091d9bd8#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen](https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen-a-e9515885-4cb4-4fb5-af46-02334162fb04#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz](https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz-a-52e64df0-d918-4281-ab6f-53912e3c29b8#ref=rss)
+### wir
+
+* [https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen](https://www.spiegel.de/kultur/tv/netflix-serie-wednesday-menschen-mit-schwachen-nerven-wuerde-ich-das-nicht-empfehlen-a-e9515885-4cb4-4fb5-af46-02334162fb04#ref=rss)
+* [https://www.spiegel.de/ausland/angkor-wat-in-kambodscha-wenn-wir-weg-sind-sind-die-tempel-nur-noch-tote-steine](https://www.spiegel.de/ausland/angkor-wat-in-kambodscha-wenn-wir-weg-sind-sind-die-tempel-nur-noch-tote-steine-a-2c95510c-8c99-4c51-a18d-353bbe85fa39#ref=rss)
+### guns
+
+* [https://www.spiegel.de/wirtschaft/guns-n-roses-verklagen-texas-guns-and-roses](https://www.spiegel.de/wirtschaft/guns-n-roses-verklagen-texas-guns-and-roses-a-339588f2-bca3-45d5-b52b-2e3f3e0c9a01#ref=rss)
+### roses
+
+* [https://www.spiegel.de/wirtschaft/guns-n-roses-verklagen-texas-guns-and-roses](https://www.spiegel.de/wirtschaft/guns-n-roses-verklagen-texas-guns-and-roses-a-339588f2-bca3-45d5-b52b-2e3f3e0c9a01#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/wirtschaft/guns-n-roses-verklagen-texas-guns-and-roses](https://www.spiegel.de/wirtschaft/guns-n-roses-verklagen-texas-guns-and-roses-a-339588f2-bca3-45d5-b52b-2e3f3e0c9a01#ref=rss)
+* [https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine](https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine-a-f4785a21-e307-482c-baac-0118b0187267#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler-a-e8c1b5c1-5294-4cd7-ab5c-32cccdf57fd0#ref=rss)
+### lahm
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler-a-e8c1b5c1-5294-4cd7-ab5c-32cccdf57fd0#ref=rss)
+### sorgen
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-abschaffen-des-sportdirektors-beim-dfb-war-laut-matthias-sammer-ein-fehler-a-e8c1b5c1-5294-4cd7-ab5c-32cccdf57fd0#ref=rss)
+### macron
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab](https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab-a-f6225a7b-dd47-424c-8cca-56c93e245c64#ref=rss)
+### twitterchef
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab](https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab-a-f6225a7b-dd47-424c-8cca-56c93e245c64#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab](https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab-a-f6225a7b-dd47-424c-8cca-56c93e245c64#ref=rss)
+### musk
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab](https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab-a-f6225a7b-dd47-424c-8cca-56c93e245c64#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab](https://www.spiegel.de/wirtschaft/unternehmen/emmanuel-macron-ringt-twitter-chef-elon-musk-ein-versprechen-ab-a-f6225a7b-dd47-424c-8cca-56c93e245c64#ref=rss)
+* [https://www.spiegel.de/ausland/news-zum-ukraine-russland-krieg-was-in-der-nacht-geschah-03-12](https://www.spiegel.de/ausland/news-zum-ukraine-russland-krieg-was-in-der-nacht-geschah-03-12-a-91b2d0c1-de89-4db0-bb72-9afa0995f334#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/politik/deutschland/wie-berlin-43-000-wahlhelfer-fuer-die-wiederholungs-wahl-im-februar-sucht](https://www.spiegel.de/politik/deutschland/wie-berlin-43-000-wahlhelfer-fuer-die-wiederholungs-wahl-im-februar-sucht-a-449b5c8c-74e8-4121-8154-3d734019b761#ref=rss)
+### girocard
+
+* [https://www.spiegel.de/wirtschaft/service/banken-und-sparkassen-halten-an-girocard-trotz-maestro-aus-fest](https://www.spiegel.de/wirtschaft/service/banken-und-sparkassen-halten-an-girocard-trotz-maestro-aus-fest-a-f222555e-9954-43fe-8e26-4a6d85e4a3aa#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/wirtschaft/service/banken-und-sparkassen-halten-an-girocard-trotz-maestro-aus-fest](https://www.spiegel.de/wirtschaft/service/banken-und-sparkassen-halten-an-girocard-trotz-maestro-aus-fest-a-f222555e-9954-43fe-8e26-4a6d85e4a3aa#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten](https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten-a-37d4b53d-876a-4b18-b690-8efd00c34093#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/service/banken-und-sparkassen-halten-an-girocard-trotz-maestro-aus-fest](https://www.spiegel.de/wirtschaft/service/banken-und-sparkassen-halten-an-girocard-trotz-maestro-aus-fest-a-f222555e-9954-43fe-8e26-4a6d85e4a3aa#ref=rss)
+* [https://www.spiegel.de/geschichte/alice-schwarzer-wird-80-herzhaftes-ja-entsetztes-nein](https://www.spiegel.de/geschichte/alice-schwarzer-wird-80-herzhaftes-ja-entsetztes-nein-a-b0ae0643-8dd0-4832-b7f3-d1c08547c0cf#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/news-zum-ukraine-russland-krieg-was-in-der-nacht-geschah-03-12](https://www.spiegel.de/ausland/news-zum-ukraine-russland-krieg-was-in-der-nacht-geschah-03-12-a-91b2d0c1-de89-4db0-bb72-9afa0995f334#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin](https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin-a-ca2403ac-3715-4f4f-963d-c3c0176bd1ac#ref=rss)
 ### wichtigsten
 
-* [https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein](https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein-a-3a8d93cc-f1b3-42f2-bfc9-8867b79f0152#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien](https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien-a-a580d821-7df0-4974-a10a-1e25e7cab543#ref=rss)
-### fragen
+* [https://www.spiegel.de/ausland/news-zum-ukraine-russland-krieg-was-in-der-nacht-geschah-03-12](https://www.spiegel.de/ausland/news-zum-ukraine-russland-krieg-was-in-der-nacht-geschah-03-12-a-91b2d0c1-de89-4db0-bb72-9afa0995f334#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-inflation-china-fussball-wm-angela-merkel-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-inflation-china-fussball-wm-angela-merkel-podcast-a-9b11b2c7-4fce-4bcb-b12d-94980640c8c6#ref=rss)
+### sönke
 
-* [https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein](https://www.spiegel.de/panorama/justiz/genozid-in-der-ukraine-begeht-russland-in-der-ukraine-voelkermord-voelkerrechtler-ordnen-im-faq-ein-a-3a8d93cc-f1b3-42f2-bfc9-8867b79f0152#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien](https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien-a-a580d821-7df0-4974-a10a-1e25e7cab543#ref=rss)
-### davide
+* [https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin](https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin-a-ca2403ac-3715-4f4f-963d-c3c0176bd1ac#ref=rss)
+### neitzel
 
-* [https://www.spiegel.de/panorama/justiz/deutscher-lkw-fahrer-ueberfuhr-radprofi-davide-rebellin-und-fluechtete-offenbar-vom-unfallort](https://www.spiegel.de/panorama/justiz/deutscher-lkw-fahrer-ueberfuhr-radprofi-davide-rebellin-und-fluechtete-offenbar-vom-unfallort-a-0c1964c3-2734-48a5-82f4-04491fb38b5a#ref=rss)
-### rebellin
+* [https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin](https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin-a-ca2403ac-3715-4f4f-963d-c3c0176bd1ac#ref=rss)
+### ersten
 
-* [https://www.spiegel.de/panorama/justiz/deutscher-lkw-fahrer-ueberfuhr-radprofi-davide-rebellin-und-fluechtete-offenbar-vom-unfallort](https://www.spiegel.de/panorama/justiz/deutscher-lkw-fahrer-ueberfuhr-radprofi-davide-rebellin-und-fluechtete-offenbar-vom-unfallort-a-0c1964c3-2734-48a5-82f4-04491fb38b5a#ref=rss)
-### unfall
+* [https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin](https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin-a-ca2403ac-3715-4f4f-963d-c3c0176bd1ac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main-a-d93a9b60-44b2-4fc5-85ec-8f2c84442f27#ref=rss)
+### strategie
 
-* [https://www.spiegel.de/panorama/justiz/deutscher-lkw-fahrer-ueberfuhr-radprofi-davide-rebellin-und-fluechtete-offenbar-vom-unfallort](https://www.spiegel.de/panorama/justiz/deutscher-lkw-fahrer-ueberfuhr-radprofi-davide-rebellin-und-fluechtete-offenbar-vom-unfallort-a-0c1964c3-2734-48a5-82f4-04491fb38b5a#ref=rss)
-* [https://www.spiegel.de/wissenschaft/antarktis-riesenwelle-soll-passagier-einer-kreuzfahrt-getoetet-haben-stimmt-das](https://www.spiegel.de/wissenschaft/antarktis-riesenwelle-soll-passagier-einer-kreuzfahrt-getoetet-haben-stimmt-das-a-2601cd2b-1ec3-4ce6-b04d-345909177874#ref=rss)
-### sajid
+* [https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin](https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin-a-ca2403ac-3715-4f4f-963d-c3c0176bd1ac#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/ausland/sajid-javid-frueherer-britischer-minister-will-nicht-erneut-fuers-unterhaus-kandidieren](https://www.spiegel.de/ausland/sajid-javid-frueherer-britischer-minister-will-nicht-erneut-fuers-unterhaus-kandidieren-a-9561d25c-5846-43b4-a684-a5801c232fba#ref=rss)
-### javid
+* [https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin](https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin-a-ca2403ac-3715-4f4f-963d-c3c0176bd1ac#ref=rss)
+* [https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine](https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine-a-f4785a21-e307-482c-baac-0118b0187267#ref=rss)
+### lange
 
-* [https://www.spiegel.de/ausland/sajid-javid-frueherer-britischer-minister-will-nicht-erneut-fuers-unterhaus-kandidieren](https://www.spiegel.de/ausland/sajid-javid-frueherer-britischer-minister-will-nicht-erneut-fuers-unterhaus-kandidieren-a-9561d25c-5846-43b4-a684-a5801c232fba#ref=rss)
-### minister
+* [https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin](https://www.spiegel.de/ausland/ukraine-soenke-neitzel-ueber-den-ersten-kriegswinter-und-die-strategie-von-wladimir-putin-a-ca2403ac-3715-4f4f-963d-c3c0176bd1ac#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/ausland/sajid-javid-frueherer-britischer-minister-will-nicht-erneut-fuers-unterhaus-kandidieren](https://www.spiegel.de/ausland/sajid-javid-frueherer-britischer-minister-will-nicht-erneut-fuers-unterhaus-kandidieren-a-9561d25c-5846-43b4-a684-a5801c232fba#ref=rss)
-### unterhaus
+* [https://www.spiegel.de/wissenschaft/technik/us-luftwaffe-stellt-neuen-tarnkappenbomber-b-21-vor](https://www.spiegel.de/wissenschaft/technik/us-luftwaffe-stellt-neuen-tarnkappenbomber-b-21-vor-a-40622ce3-6df5-4a11-a75b-1421ce22dfa0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz](https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz-a-52e64df0-d918-4281-ab6f-53912e3c29b8#ref=rss)
+### annalena
 
-* [https://www.spiegel.de/ausland/sajid-javid-frueherer-britischer-minister-will-nicht-erneut-fuers-unterhaus-kandidieren](https://www.spiegel.de/ausland/sajid-javid-frueherer-britischer-minister-will-nicht-erneut-fuers-unterhaus-kandidieren-a-9561d25c-5846-43b4-a684-a5801c232fba#ref=rss)
-### siegtor
+* [https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine](https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine-a-f4785a21-e307-482c-baac-0118b0187267#ref=rss)
+### baerbock
 
-* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus-a-ba03debb-4394-4629-80e7-ac96d8aba068#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien](https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien-a-a580d821-7df0-4974-a10a-1e25e7cab543#ref=rss)
-### spanien
+* [https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine](https://www.spiegel.de/ausland/news-olaf-scholz-annalena-baerbock-cyril-ramaphosa-wladimir-putin-ukraine-a-f4785a21-e307-482c-baac-0118b0187267#ref=rss)
+### alice
 
-* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus-a-ba03debb-4394-4629-80e7-ac96d8aba068#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien](https://www.spiegel.de/sport/fussball/wm-2022-aufregung-um-japans-siegtor-gegen-spanien-a-a580d821-7df0-4974-a10a-1e25e7cab543#ref=rss)
-### wohl
+* [https://www.spiegel.de/geschichte/alice-schwarzer-wird-80-herzhaftes-ja-entsetztes-nein](https://www.spiegel.de/geschichte/alice-schwarzer-wird-80-herzhaftes-ja-entsetztes-nein-a-b0ae0643-8dd0-4832-b7f3-d1c08547c0cf#ref=rss)
+### schwarzer
 
-* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-spaniens-trainer-luis-enrique-empfindet-keine-freude-ueber-deutschlands-aus-a-ba03debb-4394-4629-80e7-ac96d8aba068#ref=rss)
-* [https://www.spiegel.de/wissenschaft/antarktis-riesenwelle-soll-passagier-einer-kreuzfahrt-getoetet-haben-stimmt-das](https://www.spiegel.de/wissenschaft/antarktis-riesenwelle-soll-passagier-einer-kreuzfahrt-getoetet-haben-stimmt-das-a-2601cd2b-1ec3-4ce6-b04d-345909177874#ref=rss)
-### antarktis
+* [https://www.spiegel.de/geschichte/alice-schwarzer-wird-80-herzhaftes-ja-entsetztes-nein](https://www.spiegel.de/geschichte/alice-schwarzer-wird-80-herzhaftes-ja-entsetztes-nein-a-b0ae0643-8dd0-4832-b7f3-d1c08547c0cf#ref=rss)
+### 80
 
-* [https://www.spiegel.de/wissenschaft/antarktis-riesenwelle-soll-passagier-einer-kreuzfahrt-getoetet-haben-stimmt-das](https://www.spiegel.de/wissenschaft/antarktis-riesenwelle-soll-passagier-einer-kreuzfahrt-getoetet-haben-stimmt-das-a-2601cd2b-1ec3-4ce6-b04d-345909177874#ref=rss)
-### passagier
+* [https://www.spiegel.de/geschichte/alice-schwarzer-wird-80-herzhaftes-ja-entsetztes-nein](https://www.spiegel.de/geschichte/alice-schwarzer-wird-80-herzhaftes-ja-entsetztes-nein-a-b0ae0643-8dd0-4832-b7f3-d1c08547c0cf#ref=rss)
+### eu
 
-* [https://www.spiegel.de/wissenschaft/antarktis-riesenwelle-soll-passagier-einer-kreuzfahrt-getoetet-haben-stimmt-das](https://www.spiegel.de/wissenschaft/antarktis-riesenwelle-soll-passagier-einer-kreuzfahrt-getoetet-haben-stimmt-das-a-2601cd2b-1ec3-4ce6-b04d-345909177874#ref=rss)
-### gleich
+* [https://www.spiegel.de/politik/deutschland/eu-plant-verbot-von-mini-shampoos-in-hotels-endlich-flaeschchen-leer-kommentar](https://www.spiegel.de/politik/deutschland/eu-plant-verbot-von-mini-shampoos-in-hotels-endlich-flaeschchen-leer-kommentar-a-e10d673a-4916-41fd-baad-d2c44d626677#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz](https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz-a-52e64df0-d918-4281-ab6f-53912e3c29b8#ref=rss)
+### plant
 
-* [https://www.spiegel.de/wissenschaft/antarktis-riesenwelle-soll-passagier-einer-kreuzfahrt-getoetet-haben-stimmt-das](https://www.spiegel.de/wissenschaft/antarktis-riesenwelle-soll-passagier-einer-kreuzfahrt-getoetet-haben-stimmt-das-a-2601cd2b-1ec3-4ce6-b04d-345909177874#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/gasimporte-aus-katar-und-senegal-fossile-deals-vor-und-hinter-den-kulissen](https://www.spiegel.de/wissenschaft/mensch/gasimporte-aus-katar-und-senegal-fossile-deals-vor-und-hinter-den-kulissen-a-b7dc0885-401a-4f5e-b7af-6f73b4380019#ref=rss)
-### eukommission
+* [https://www.spiegel.de/politik/deutschland/eu-plant-verbot-von-mini-shampoos-in-hotels-endlich-flaeschchen-leer-kommentar](https://www.spiegel.de/politik/deutschland/eu-plant-verbot-von-mini-shampoos-in-hotels-endlich-flaeschchen-leer-kommentar-a-e10d673a-4916-41fd-baad-d2c44d626677#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz](https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz-a-52e64df0-d918-4281-ab6f-53912e3c29b8#ref=rss)
+### hotels
 
-* [https://www.spiegel.de/wirtschaft/service/eu-kommission-erlaubt-franzoesisches-verbot-von-kurzen-kurzstreckenfluegen](https://www.spiegel.de/wirtschaft/service/eu-kommission-erlaubt-franzoesisches-verbot-von-kurzen-kurzstreckenfluegen-a-f056edc2-713f-4919-bea9-a9c8725261be#ref=rss)
-### weit
+* [https://www.spiegel.de/politik/deutschland/eu-plant-verbot-von-mini-shampoos-in-hotels-endlich-flaeschchen-leer-kommentar](https://www.spiegel.de/politik/deutschland/eu-plant-verbot-von-mini-shampoos-in-hotels-endlich-flaeschchen-leer-kommentar-a-e10d673a-4916-41fd-baad-d2c44d626677#ref=rss)
+### verbieten
 
-* [https://www.spiegel.de/wirtschaft/service/eu-kommission-erlaubt-franzoesisches-verbot-von-kurzen-kurzstreckenfluegen](https://www.spiegel.de/wirtschaft/service/eu-kommission-erlaubt-franzoesisches-verbot-von-kurzen-kurzstreckenfluegen-a-f056edc2-713f-4919-bea9-a9c8725261be#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/gasimporte-aus-katar-und-senegal-fossile-deals-vor-und-hinter-den-kulissen](https://www.spiegel.de/wissenschaft/mensch/gasimporte-aus-katar-und-senegal-fossile-deals-vor-und-hinter-den-kulissen-a-b7dc0885-401a-4f5e-b7af-6f73b4380019#ref=rss)
-### gesetzliche
+* [https://www.spiegel.de/politik/deutschland/eu-plant-verbot-von-mini-shampoos-in-hotels-endlich-flaeschchen-leer-kommentar](https://www.spiegel.de/politik/deutschland/eu-plant-verbot-von-mini-shampoos-in-hotels-endlich-flaeschchen-leer-kommentar-a-e10d673a-4916-41fd-baad-d2c44d626677#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten](https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten-a-37d4b53d-876a-4b18-b690-8efd00c34093#ref=rss)
+### sieg
 
-* [https://www.spiegel.de/wirtschaft/soziales/gesetzliche-rentenversicherung-macht-milliarden-ueberschuss](https://www.spiegel.de/wirtschaft/soziales/gesetzliche-rentenversicherung-macht-milliarden-ueberschuss-a-fd04f8e8-f4b1-4a63-9097-a462be96199f#ref=rss)
-### lobt
+* [https://www.spiegel.de/politik/deutschland/eu-plant-verbot-von-mini-shampoos-in-hotels-endlich-flaeschchen-leer-kommentar](https://www.spiegel.de/politik/deutschland/eu-plant-verbot-von-mini-shampoos-in-hotels-endlich-flaeschchen-leer-kommentar-a-e10d673a-4916-41fd-baad-d2c44d626677#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger](https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger-a-38fe59af-2fd2-4c20-8b4a-232897e2cc89#ref=rss)
+### angela
 
-* [https://www.spiegel.de/wirtschaft/soziales/gesetzliche-rentenversicherung-macht-milliarden-ueberschuss](https://www.spiegel.de/wirtschaft/soziales/gesetzliche-rentenversicherung-macht-milliarden-ueberschuss-a-fd04f8e8-f4b1-4a63-9097-a462be96199f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht-a-21e552c4-4312-4d6c-a854-96fdfd806150#ref=rss)
-### deutsche
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-inflation-china-fussball-wm-angela-merkel-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-inflation-china-fussball-wm-angela-merkel-podcast-a-9b11b2c7-4fce-4bcb-b12d-94980640c8c6#ref=rss)
+### merkel
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht](https://www.spiegel.de/ausland/ukraine-news-am-freitag-russland-offenbar-durch-logistische-umstrukturierung-geschwaecht-a-21e552c4-4312-4d6c-a854-96fdfd806150#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-oliver-bierhoff-zieht-den-oeffentlichen-unmut-auf-sich](https://www.spiegel.de/sport/fussball/fussball-wm-2022-oliver-bierhoff-zieht-den-oeffentlichen-unmut-auf-sich-a-58b63d1f-281f-4507-9109-aa1414fe6bb7#ref=rss)
-### alex
+* [https://www.spiegel.de/politik/deutschland/wochenrueckblick-inflation-china-fussball-wm-angela-merkel-podcast](https://www.spiegel.de/politik/deutschland/wochenrueckblick-inflation-china-fussball-wm-angela-merkel-podcast-a-9b11b2c7-4fce-4bcb-b12d-94980640c8c6#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/ausland/alex-jones-us-verschwoerungsideologe-meldet-privatinsolvenz-an](https://www.spiegel.de/ausland/alex-jones-us-verschwoerungsideologe-meldet-privatinsolvenz-an-a-b7fc6b86-6c2a-4611-a1b4-ce53aeb5435a#ref=rss)
-### fußballwm
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten](https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten-a-37d4b53d-876a-4b18-b690-8efd00c34093#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-oliver-bierhoff-zieht-den-oeffentlichen-unmut-auf-sich](https://www.spiegel.de/sport/fussball/fussball-wm-2022-oliver-bierhoff-zieht-den-oeffentlichen-unmut-auf-sich-a-58b63d1f-281f-4507-9109-aa1414fe6bb7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig](https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig-a-0a28fe88-8c3a-4e8a-b073-67d99fc15f23#ref=rss)
-### bierhoff
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten](https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten-a-37d4b53d-876a-4b18-b690-8efd00c34093#ref=rss)
+### strom
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-oliver-bierhoff-zieht-den-oeffentlichen-unmut-auf-sich](https://www.spiegel.de/sport/fussball/fussball-wm-2022-oliver-bierhoff-zieht-den-oeffentlichen-unmut-auf-sich-a-58b63d1f-281f-4507-9109-aa1414fe6bb7#ref=rss)
-### team
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten](https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten-a-37d4b53d-876a-4b18-b690-8efd00c34093#ref=rss)
+### gesetz
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-2022-oliver-bierhoff-zieht-den-oeffentlichen-unmut-auf-sich](https://www.spiegel.de/sport/fussball/fussball-wm-2022-oliver-bierhoff-zieht-den-oeffentlichen-unmut-auf-sich-a-58b63d1f-281f-4507-9109-aa1414fe6bb7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig](https://www.spiegel.de/sport/fussball/wm-2022-katarische-sportsendung-macht-sich-ueber-deutschlands-wm-aus-lustig-a-0a28fe88-8c3a-4e8a-b073-67d99fc15f23#ref=rss)
-### letzte
+* [https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten](https://www.spiegel.de/politik/deutschland/bundesregierung-will-offenbar-weitere-strom-und-gaspreiserhoehungen-fuer-2023-verbieten-a-37d4b53d-876a-4b18-b690-8efd00c34093#ref=rss)
+* [https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz](https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz-a-52e64df0-d918-4281-ab6f-53912e3c29b8#ref=rss)
+### takeoff
 
-* [https://www.spiegel.de/politik/deutschland/letzte-generation-innenministerien-wollen-klimaaktivisten-genauer-beobachten](https://www.spiegel.de/politik/deutschland/letzte-generation-innenministerien-wollen-klimaaktivisten-genauer-beobachten-a-bc821640-788b-41ee-97e9-27452638a7e1#ref=rss)
-### generation
+* [https://www.spiegel.de/kultur/musik/takeoff-kirsnick-khari-ball-tatverdaechtiger-wegen-mordes-angeklagt](https://www.spiegel.de/kultur/musik/takeoff-kirsnick-khari-ball-tatverdaechtiger-wegen-mordes-angeklagt-a-33ac8ec1-3f35-4b2c-9de9-53d7a5b1b23f#ref=rss)
+### festgenommen
 
-* [https://www.spiegel.de/politik/deutschland/letzte-generation-innenministerien-wollen-klimaaktivisten-genauer-beobachten](https://www.spiegel.de/politik/deutschland/letzte-generation-innenministerien-wollen-klimaaktivisten-genauer-beobachten-a-bc821640-788b-41ee-97e9-27452638a7e1#ref=rss)
-### innenministerien
+* [https://www.spiegel.de/kultur/musik/takeoff-kirsnick-khari-ball-tatverdaechtiger-wegen-mordes-angeklagt](https://www.spiegel.de/kultur/musik/takeoff-kirsnick-khari-ball-tatverdaechtiger-wegen-mordes-angeklagt-a-33ac8ec1-3f35-4b2c-9de9-53d7a5b1b23f#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/politik/deutschland/letzte-generation-innenministerien-wollen-klimaaktivisten-genauer-beobachten](https://www.spiegel.de/politik/deutschland/letzte-generation-innenministerien-wollen-klimaaktivisten-genauer-beobachten-a-bc821640-788b-41ee-97e9-27452638a7e1#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz](https://www.spiegel.de/wirtschaft/usa-regierung-plant-keine-nachtraeglichen-aenderungen-an-subventionsgesetz-a-52e64df0-d918-4281-ab6f-53912e3c29b8#ref=rss)
+* [https://www.spiegel.de/ausland/angkor-wat-in-kambodscha-wenn-wir-weg-sind-sind-die-tempel-nur-noch-tote-steine](https://www.spiegel.de/ausland/angkor-wat-in-kambodscha-wenn-wir-weg-sind-sind-die-tempel-nur-noch-tote-steine-a-2c95510c-8c99-4c51-a18d-353bbe85fa39#ref=rss)
+### schweiz
 
-* [https://www.spiegel.de/panorama/justiz/gemuenden-am-main-gericht-verurteilt-mutmassliche-querdenker-zu-haftstrafen](https://www.spiegel.de/panorama/justiz/gemuenden-am-main-gericht-verurteilt-mutmassliche-querdenker-zu-haftstrafen-a-e5fb9f25-95de-443a-81c5-bdcef743717a#ref=rss)
-### sat1
+* [https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger](https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger-a-38fe59af-2fd2-4c20-8b4a-232897e2cc89#ref=rss)
+### serbien
 
-* [https://www.spiegel.de/kultur/tv/sat-1-holt-luke-mockridge-kurzfristig-in-die-primetime-zurueck](https://www.spiegel.de/kultur/tv/sat-1-holt-luke-mockridge-kurzfristig-in-die-primetime-zurueck-a-481fe83c-24d8-466a-bd38-43688f686f52#ref=rss)
-### luke
+* [https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger](https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger-a-38fe59af-2fd2-4c20-8b4a-232897e2cc89#ref=rss)
+### achtelfinale
 
-* [https://www.spiegel.de/kultur/tv/sat-1-holt-luke-mockridge-kurzfristig-in-die-primetime-zurueck](https://www.spiegel.de/kultur/tv/sat-1-holt-luke-mockridge-kurzfristig-in-die-primetime-zurueck-a-481fe83c-24d8-466a-bd38-43688f686f52#ref=rss)
-### mockridge
+* [https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger](https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger-a-38fe59af-2fd2-4c20-8b4a-232897e2cc89#ref=rss)
+### niederlage
 
-* [https://www.spiegel.de/kultur/tv/sat-1-holt-luke-mockridge-kurzfristig-in-die-primetime-zurueck](https://www.spiegel.de/kultur/tv/sat-1-holt-luke-mockridge-kurzfristig-in-die-primetime-zurueck-a-481fe83c-24d8-466a-bd38-43688f686f52#ref=rss)
-### hinter
+* [https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger](https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger-a-38fe59af-2fd2-4c20-8b4a-232897e2cc89#ref=rss)
+### kamerun
 
-* [https://www.spiegel.de/wissenschaft/mensch/gasimporte-aus-katar-und-senegal-fossile-deals-vor-und-hinter-den-kulissen](https://www.spiegel.de/wissenschaft/mensch/gasimporte-aus-katar-und-senegal-fossile-deals-vor-und-hinter-den-kulissen-a-b7dc0885-401a-4f5e-b7af-6f73b4380019#ref=rss)
-### kulissen
+* [https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger](https://www.spiegel.de/sport/fussball/wm-2022-schweiz-nach-sieg-gegen-serbien-im-achtelfinale-brasilien-trotz-niederlage-gegen-kamerun-gruppensieger-a-38fe59af-2fd2-4c20-8b4a-232897e2cc89#ref=rss)
+### lufthansa
 
-* [https://www.spiegel.de/wissenschaft/mensch/gasimporte-aus-katar-und-senegal-fossile-deals-vor-und-hinter-den-kulissen](https://www.spiegel.de/wissenschaft/mensch/gasimporte-aus-katar-und-senegal-fossile-deals-vor-und-hinter-den-kulissen-a-b7dc0885-401a-4f5e-b7af-6f73b4380019#ref=rss)
-### fossile
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main-a-d93a9b60-44b2-4fc5-85ec-8f2c84442f27#ref=rss)
+### a380
 
-* [https://www.spiegel.de/wissenschaft/mensch/gasimporte-aus-katar-und-senegal-fossile-deals-vor-und-hinter-den-kulissen](https://www.spiegel.de/wissenschaft/mensch/gasimporte-aus-katar-und-senegal-fossile-deals-vor-und-hinter-den-kulissen-a-b7dc0885-401a-4f5e-b7af-6f73b4380019#ref=rss)
-### filme
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main-a-d93a9b60-44b2-4fc5-85ec-8f2c84442f27#ref=rss)
+### frankfurt
 
-* [https://www.spiegel.de/kultur/filme-der-woche-sonne-mehr-denn-je-die-stillen-trabanten-the-wonder](https://www.spiegel.de/kultur/filme-der-woche-sonne-mehr-denn-je-die-stillen-trabanten-the-wonder-a-bd08ba76-63fe-4eb5-a514-0284a891bca1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main-a-d93a9b60-44b2-4fc5-85ec-8f2c84442f27#ref=rss)
+### reaktiviert
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-holt-ersten-a380-zurueck-nach-frankfurt-am-main-a-d93a9b60-44b2-4fc5-85ec-8f2c84442f27#ref=rss)
+### angkor
+
+* [https://www.spiegel.de/ausland/angkor-wat-in-kambodscha-wenn-wir-weg-sind-sind-die-tempel-nur-noch-tote-steine](https://www.spiegel.de/ausland/angkor-wat-in-kambodscha-wenn-wir-weg-sind-sind-die-tempel-nur-noch-tote-steine-a-2c95510c-8c99-4c51-a18d-353bbe85fa39#ref=rss)
+### wat
+
+* [https://www.spiegel.de/ausland/angkor-wat-in-kambodscha-wenn-wir-weg-sind-sind-die-tempel-nur-noch-tote-steine](https://www.spiegel.de/ausland/angkor-wat-in-kambodscha-wenn-wir-weg-sind-sind-die-tempel-nur-noch-tote-steine-a-2c95510c-8c99-4c51-a18d-353bbe85fa39#ref=rss)
 
