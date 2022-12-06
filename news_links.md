@@ -4,304 +4,274 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### kinder
-
-* [https://www.spiegel.de/netzwelt/web/kindesmissbrauch-boystown-betreiber-muessen-sieben-bis-zwoelf-jahre-in-haft](https://www.spiegel.de/netzwelt/web/kindesmissbrauch-boystown-betreiber-muessen-sieben-bis-zwoelf-jahre-in-haft-a-020415b5-6e61-4b42-92e8-7b9fee92d78d#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/digitalversagen-schon-wieder-faellt-die-schule-aus-kommentar](https://www.spiegel.de/panorama/bildung/digitalversagen-schon-wieder-faellt-die-schule-aus-kommentar-a-db685942-5d03-4989-b863-d99ea700dbf2#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/briefe-an-den-nikolaus-was-wuenschen-sich-die-kinder-in-diesem-jahr-herr-weddehage](https://www.spiegel.de/panorama/gesellschaft/briefe-an-den-nikolaus-was-wuenschen-sich-die-kinder-in-diesem-jahr-herr-weddehage-a-22fa2252-4a09-45a1-9678-e15d443dd0d4#ref=rss)
-### lauterbach
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen-a-e91fe59b-909b-4e23-8d76-f6825542306c#ref=rss)
-* [https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream](https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream-a-2a98db32-4a60-4594-b3d6-b6fb12a1204f#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/netzwelt/web/kindesmissbrauch-boystown-betreiber-muessen-sieben-bis-zwoelf-jahre-in-haft](https://www.spiegel.de/netzwelt/web/kindesmissbrauch-boystown-betreiber-muessen-sieben-bis-zwoelf-jahre-in-haft-a-020415b5-6e61-4b42-92e8-7b9fee92d78d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-nur-zwei-monaten-wieder-neue-chefin-bei-fresenius-medical-care](https://www.spiegel.de/wirtschaft/unternehmen/nach-nur-zwei-monaten-wieder-neue-chefin-bei-fresenius-medical-care-a-17ea70da-26ed-4d1f-9760-a5c28956899f#ref=rss)
-### karl
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen-a-e91fe59b-909b-4e23-8d76-f6825542306c#ref=rss)
-* [https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream](https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream-a-2a98db32-4a60-4594-b3d6-b6fb12a1204f#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen-a-e91fe59b-909b-4e23-8d76-f6825542306c#ref=rss)
-* [https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream](https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream-a-2a98db32-4a60-4594-b3d6-b6fb12a1204f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritisiert-olaf-scholz-und-nennt-gerhard-schroeder-mutiger-und-zupackender](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritisiert-olaf-scholz-und-nennt-gerhard-schroeder-mutiger-und-zupackender-a-6be5ca53-5f92-4b4c-a6f8-fdcc91262a3e#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen-a-e91fe59b-909b-4e23-8d76-f6825542306c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/oliver-bierhoff-verlaesst-den-deutschen-fussball-bund-der-blitzableiter-kommentar](https://www.spiegel.de/sport/fussball/oliver-bierhoff-verlaesst-den-deutschen-fussball-bund-der-blitzableiter-kommentar-a-44999522-ae5c-4aab-9967-02d4ff49e0bf#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-avenatti-zu-14-jahren-haft-verurteilt-ex-anwalt-von-stormy-daniels](https://www.spiegel.de/panorama/justiz/michael-avenatti-zu-14-jahren-haft-verurteilt-ex-anwalt-von-stormy-daniels-a-41deb61d-306b-4575-93dd-5933b96101de#ref=rss)
-### gesundheitsminister
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen-a-e91fe59b-909b-4e23-8d76-f6825542306c#ref=rss)
-* [https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream](https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream-a-2a98db32-4a60-4594-b3d6-b6fb12a1204f#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/wirtschaft/black-friday-datenanalyse-draufgezahlt-am-rabatt-tag](https://www.spiegel.de/wirtschaft/black-friday-datenanalyse-draufgezahlt-am-rabatt-tag-a-baafcee9-9ef4-42b9-94d7-d231fbdf231b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/reichensteuer-volkswirte-plaedieren-fuer-hoehere-abgabe](https://www.spiegel.de/wirtschaft/soziales/reichensteuer-volkswirte-plaedieren-fuer-hoehere-abgabe-a-7994b9b8-b6f7-4702-8677-7d957ae98944#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-amazon-haelt-an-geplanter-doku-ueber-nationalmannschaft-fest](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-amazon-haelt-an-geplanter-doku-ueber-nationalmannschaft-fest-a-a5b54e26-71f3-407a-a174-93bdcb3421cd#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/panorama/leute/hilary-duff-ueber-essstoerung-als-jugendliche-es-war-entsetzlich](https://www.spiegel.de/panorama/leute/hilary-duff-ueber-essstoerung-als-jugendliche-es-war-entsetzlich-a-87016e81-484a-4fbf-b182-a077370772e1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritisiert-olaf-scholz-und-nennt-gerhard-schroeder-mutiger-und-zupackender](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritisiert-olaf-scholz-und-nennt-gerhard-schroeder-mutiger-und-zupackender-a-6be5ca53-5f92-4b4c-a6f8-fdcc91262a3e#ref=rss)
-* [https://www.spiegel.de/panorama/leute/billie-eilish-ueber-frauen-an-der-spitze-das-ist-voellig-unglaublich-fuer-mich-zu-sehen](https://www.spiegel.de/panorama/leute/billie-eilish-ueber-frauen-an-der-spitze-das-ist-voellig-unglaublich-fuer-mich-zu-sehen-a-32c2d1e2-f058-42e0-951a-0395b42dfa14#ref=rss)
-### news
-
-* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-besatzer-in-cherson-fordern-zum-geldumtausch-in-rubel-auf](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-besatzer-in-cherson-fordern-zum-geldumtausch-in-rubel-auf-a-c7e9c964-86ab-42fa-bfbc-a9d1cf2bba91#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-amazon-haelt-an-geplanter-doku-ueber-nationalmannschaft-fest](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-amazon-haelt-an-geplanter-doku-ueber-nationalmannschaft-fest-a-a5b54e26-71f3-407a-a174-93bdcb3421cd#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/leute/billie-eilish-ueber-frauen-an-der-spitze-das-ist-voellig-unglaublich-fuer-mich-zu-sehen](https://www.spiegel.de/panorama/leute/billie-eilish-ueber-frauen-an-der-spitze-das-ist-voellig-unglaublich-fuer-mich-zu-sehen-a-32c2d1e2-f058-42e0-951a-0395b42dfa14#ref=rss)
-### teurer
-
-* [https://www.spiegel.de/wirtschaft/service/immobilien-erbe-fuer-wen-es-jetzt-teurer-wird](https://www.spiegel.de/wirtschaft/service/immobilien-erbe-fuer-wen-es-jetzt-teurer-wird-a-f350b66c-1bb3-40d7-a027-d815e3d3b15e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/black-friday-datenanalyse-draufgezahlt-am-rabatt-tag](https://www.spiegel.de/wirtschaft/black-friday-datenanalyse-draufgezahlt-am-rabatt-tag-a-baafcee9-9ef4-42b9-94d7-d231fbdf231b#ref=rss)
-### teuer
-
-* [https://www.spiegel.de/wirtschaft/service/immobilien-erbe-fuer-wen-es-jetzt-teurer-wird](https://www.spiegel.de/wirtschaft/service/immobilien-erbe-fuer-wen-es-jetzt-teurer-wird-a-f350b66c-1bb3-40d7-a027-d815e3d3b15e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gaskrise-rwe-fordert-schadensersatz-von-gazprom](https://www.spiegel.de/wirtschaft/unternehmen/gaskrise-rwe-fordert-schadensersatz-von-gazprom-a-dc6fc820-7644-46e7-b86d-87e58243cb6c#ref=rss)
-### haft
-
-* [https://www.spiegel.de/netzwelt/web/kindesmissbrauch-boystown-betreiber-muessen-sieben-bis-zwoelf-jahre-in-haft](https://www.spiegel.de/netzwelt/web/kindesmissbrauch-boystown-betreiber-muessen-sieben-bis-zwoelf-jahre-in-haft-a-020415b5-6e61-4b42-92e8-7b9fee92d78d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-avenatti-zu-14-jahren-haft-verurteilt-ex-anwalt-von-stormy-daniels](https://www.spiegel.de/panorama/justiz/michael-avenatti-zu-14-jahren-haft-verurteilt-ex-anwalt-von-stormy-daniels-a-41deb61d-306b-4575-93dd-5933b96101de#ref=rss)
-### rund
-
-* [https://www.spiegel.de/netzwelt/web/kindesmissbrauch-boystown-betreiber-muessen-sieben-bis-zwoelf-jahre-in-haft](https://www.spiegel.de/netzwelt/web/kindesmissbrauch-boystown-betreiber-muessen-sieben-bis-zwoelf-jahre-in-haft-a-020415b5-6e61-4b42-92e8-7b9fee92d78d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/briefe-an-den-nikolaus-was-wuenschen-sich-die-kinder-in-diesem-jahr-herr-weddehage](https://www.spiegel.de/panorama/gesellschaft/briefe-an-den-nikolaus-was-wuenschen-sich-die-kinder-in-diesem-jahr-herr-weddehage-a-22fa2252-4a09-45a1-9678-e15d443dd0d4#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/netzwelt/web/kindesmissbrauch-boystown-betreiber-muessen-sieben-bis-zwoelf-jahre-in-haft](https://www.spiegel.de/netzwelt/web/kindesmissbrauch-boystown-betreiber-muessen-sieben-bis-zwoelf-jahre-in-haft-a-020415b5-6e61-4b42-92e8-7b9fee92d78d#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-startet-self-service-reparatur-in-deutschland](https://www.spiegel.de/netzwelt/gadgets/apple-startet-self-service-reparatur-in-deutschland-a-a7a9b58b-7aa1-4f16-b35a-e6ac0ba4fa23#ref=rss)
-### revolution
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen-a-e91fe59b-909b-4e23-8d76-f6825542306c#ref=rss)
-* [https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream](https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream-a-2a98db32-4a60-4594-b3d6-b6fb12a1204f#ref=rss)
-### wir
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen-a-e91fe59b-909b-4e23-8d76-f6825542306c#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/digitalversagen-schon-wieder-faellt-die-schule-aus-kommentar](https://www.spiegel.de/panorama/bildung/digitalversagen-schon-wieder-faellt-die-schule-aus-kommentar-a-db685942-5d03-4989-b863-d99ea700dbf2#ref=rss)
-### bekannt
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen-a-e91fe59b-909b-4e23-8d76-f6825542306c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-avenatti-zu-14-jahren-haft-verurteilt-ex-anwalt-von-stormy-daniels](https://www.spiegel.de/panorama/justiz/michael-avenatti-zu-14-jahren-haft-verurteilt-ex-anwalt-von-stormy-daniels-a-41deb61d-306b-4575-93dd-5933b96101de#ref=rss)
-### reform
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen](https://www.spiegel.de/politik/deutschland/karl-lauterbach-stellt-krankenhausreform-vor-eine-revolution-die-wir-unbedingt-benoetigen-a-e91fe59b-909b-4e23-8d76-f6825542306c#ref=rss)
-* [https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream](https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream-a-2a98db32-4a60-4594-b3d6-b6fb12a1204f#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-71-jaehriger-schiesst-offenbar-auf-ex-partnerin-und-fluechtet](https://www.spiegel.de/panorama/justiz/berlin-71-jaehriger-schiesst-offenbar-auf-ex-partnerin-und-fluechtet-a-901c9d3b-988a-4d0b-b474-55186caaebac#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/justiz/berlin-71-jaehriger-schiesst-offenbar-auf-ex-partnerin-und-fluechtet](https://www.spiegel.de/panorama/justiz/berlin-71-jaehriger-schiesst-offenbar-auf-ex-partnerin-und-fluechtet-a-901c9d3b-988a-4d0b-b474-55186caaebac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/lng-importe-aus-russland-steigen-auf-rekordhoch](https://www.spiegel.de/wirtschaft/soziales/lng-importe-aus-russland-steigen-auf-rekordhoch-a-0acf1b83-0b99-47ce-96a6-002503ffe8b6#ref=rss)
-### fällt
-
-* [https://www.spiegel.de/panorama/bildung/digitalversagen-schon-wieder-faellt-die-schule-aus-kommentar](https://www.spiegel.de/panorama/bildung/digitalversagen-schon-wieder-faellt-die-schule-aus-kommentar-a-db685942-5d03-4989-b863-d99ea700dbf2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-bayern-schafft-maskenpflicht-in-bus-und-bahn-ab](https://www.spiegel.de/politik/deutschland/coronavirus-bayern-schafft-maskenpflicht-in-bus-und-bahn-ab-a-9b385790-7d36-4026-bb43-21e4384db602#ref=rss)
-### kommentar
-
-* [https://www.spiegel.de/panorama/bildung/digitalversagen-schon-wieder-faellt-die-schule-aus-kommentar](https://www.spiegel.de/panorama/bildung/digitalversagen-schon-wieder-faellt-die-schule-aus-kommentar-a-db685942-5d03-4989-b863-d99ea700dbf2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/oliver-bierhoff-verlaesst-den-deutschen-fussball-bund-der-blitzableiter-kommentar](https://www.spiegel.de/sport/fussball/oliver-bierhoff-verlaesst-den-deutschen-fussball-bund-der-blitzableiter-kommentar-a-44999522-ae5c-4aab-9967-02d4ff49e0bf#ref=rss)
-### bleiben
-
-* [https://www.spiegel.de/panorama/bildung/digitalversagen-schon-wieder-faellt-die-schule-aus-kommentar](https://www.spiegel.de/panorama/bildung/digitalversagen-schon-wieder-faellt-die-schule-aus-kommentar-a-db685942-5d03-4989-b863-d99ea700dbf2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/black-friday-datenanalyse-draufgezahlt-am-rabatt-tag](https://www.spiegel.de/wirtschaft/black-friday-datenanalyse-draufgezahlt-am-rabatt-tag-a-baafcee9-9ef4-42b9-94d7-d231fbdf231b#ref=rss)
-### black
-
-* [https://www.spiegel.de/wirtschaft/black-friday-datenanalyse-draufgezahlt-am-rabatt-tag](https://www.spiegel.de/wirtschaft/black-friday-datenanalyse-draufgezahlt-am-rabatt-tag-a-baafcee9-9ef4-42b9-94d7-d231fbdf231b#ref=rss)
-### friday
-
-* [https://www.spiegel.de/wirtschaft/black-friday-datenanalyse-draufgezahlt-am-rabatt-tag](https://www.spiegel.de/wirtschaft/black-friday-datenanalyse-draufgezahlt-am-rabatt-tag-a-baafcee9-9ef4-42b9-94d7-d231fbdf231b#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/wirtschaft/black-friday-datenanalyse-draufgezahlt-am-rabatt-tag](https://www.spiegel.de/wirtschaft/black-friday-datenanalyse-draufgezahlt-am-rabatt-tag-a-baafcee9-9ef4-42b9-94d7-d231fbdf231b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/christian-lindner-will-kapital-fuer-aktienrente-deutlich-aufstocken](https://www.spiegel.de/wirtschaft/soziales/christian-lindner-will-kapital-fuer-aktienrente-deutlich-aufstocken-a-4d61af14-8f29-4be2-b182-d18be9669b3c#ref=rss)
-### briefe
-
-* [https://www.spiegel.de/panorama/gesellschaft/briefe-an-den-nikolaus-was-wuenschen-sich-die-kinder-in-diesem-jahr-herr-weddehage](https://www.spiegel.de/panorama/gesellschaft/briefe-an-den-nikolaus-was-wuenschen-sich-die-kinder-in-diesem-jahr-herr-weddehage-a-22fa2252-4a09-45a1-9678-e15d443dd0d4#ref=rss)
-### weddehage
-
-* [https://www.spiegel.de/panorama/gesellschaft/briefe-an-den-nikolaus-was-wuenschen-sich-die-kinder-in-diesem-jahr-herr-weddehage](https://www.spiegel.de/panorama/gesellschaft/briefe-an-den-nikolaus-was-wuenschen-sich-die-kinder-in-diesem-jahr-herr-weddehage-a-22fa2252-4a09-45a1-9678-e15d443dd0d4#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/gesellschaft/briefe-an-den-nikolaus-was-wuenschen-sich-die-kinder-in-diesem-jahr-herr-weddehage](https://www.spiegel.de/panorama/gesellschaft/briefe-an-den-nikolaus-was-wuenschen-sich-die-kinder-in-diesem-jahr-herr-weddehage-a-22fa2252-4a09-45a1-9678-e15d443dd0d4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/billie-eilish-ueber-frauen-an-der-spitze-das-ist-voellig-unglaublich-fuer-mich-zu-sehen](https://www.spiegel.de/panorama/leute/billie-eilish-ueber-frauen-an-der-spitze-das-ist-voellig-unglaublich-fuer-mich-zu-sehen-a-32c2d1e2-f058-42e0-951a-0395b42dfa14#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-bayern-schafft-maskenpflicht-in-bus-und-bahn-ab](https://www.spiegel.de/politik/deutschland/coronavirus-bayern-schafft-maskenpflicht-in-bus-und-bahn-ab-a-9b385790-7d36-4026-bb43-21e4384db602#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-bayern-schafft-maskenpflicht-in-bus-und-bahn-ab](https://www.spiegel.de/politik/deutschland/coronavirus-bayern-schafft-maskenpflicht-in-bus-und-bahn-ab-a-9b385790-7d36-4026-bb43-21e4384db602#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/regenwald-eu-plant-importverbot-fuer-waren-aus-abgeholzten-gebieten](https://www.spiegel.de/wirtschaft/soziales/regenwald-eu-plant-importverbot-fuer-waren-aus-abgeholzten-gebieten-a-1605bdb1-919b-47ff-af91-d84c060a2ca6#ref=rss)
-### andere
-
-* [https://www.spiegel.de/politik/deutschland/coronavirus-bayern-schafft-maskenpflicht-in-bus-und-bahn-ab](https://www.spiegel.de/politik/deutschland/coronavirus-bayern-schafft-maskenpflicht-in-bus-und-bahn-ab-a-9b385790-7d36-4026-bb43-21e4384db602#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-startet-self-service-reparatur-in-deutschland](https://www.spiegel.de/netzwelt/gadgets/apple-startet-self-service-reparatur-in-deutschland-a-a7a9b58b-7aa1-4f16-b35a-e6ac0ba4fa23#ref=rss)
-### usa
-
-* [https://www.spiegel.de/geschichte/schraege-geschichte-warum-es-in-kentucky-fleisch-vom-himmel-regnete](https://www.spiegel.de/geschichte/schraege-geschichte-warum-es-in-kentucky-fleisch-vom-himmel-regnete-a-c1acd03e-2726-4b68-ae93-556b79adedd8#ref=rss)
-* [https://www.spiegel.de/ausland/usa-fbi-ermittelt-nach-angriffen-auf-umspannwerke-in-north-carolina](https://www.spiegel.de/ausland/usa-fbi-ermittelt-nach-angriffen-auf-umspannwerke-in-north-carolina-a-e0921bcb-90d2-473a-be2d-5bfe982bde85#ref=rss)
-### kentucky
-
-* [https://www.spiegel.de/geschichte/schraege-geschichte-warum-es-in-kentucky-fleisch-vom-himmel-regnete](https://www.spiegel.de/geschichte/schraege-geschichte-warum-es-in-kentucky-fleisch-vom-himmel-regnete-a-c1acd03e-2726-4b68-ae93-556b79adedd8#ref=rss)
-### fachleuten
-
-* [https://www.spiegel.de/geschichte/schraege-geschichte-warum-es-in-kentucky-fleisch-vom-himmel-regnete](https://www.spiegel.de/geschichte/schraege-geschichte-warum-es-in-kentucky-fleisch-vom-himmel-regnete-a-c1acd03e-2726-4b68-ae93-556b79adedd8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/reichensteuer-volkswirte-plaedieren-fuer-hoehere-abgabe](https://www.spiegel.de/wirtschaft/soziales/reichensteuer-volkswirte-plaedieren-fuer-hoehere-abgabe-a-7994b9b8-b6f7-4702-8677-7d957ae98944#ref=rss)
-### russland
-
-* [https://www.spiegel.de/wirtschaft/soziales/lng-importe-aus-russland-steigen-auf-rekordhoch](https://www.spiegel.de/wirtschaft/soziales/lng-importe-aus-russland-steigen-auf-rekordhoch-a-0acf1b83-0b99-47ce-96a6-002503ffe8b6#ref=rss)
-### europa
-
-* [https://www.spiegel.de/wirtschaft/soziales/lng-importe-aus-russland-steigen-auf-rekordhoch](https://www.spiegel.de/wirtschaft/soziales/lng-importe-aus-russland-steigen-auf-rekordhoch-a-0acf1b83-0b99-47ce-96a6-002503ffe8b6#ref=rss)
-### gedrosselt
-
-* [https://www.spiegel.de/wirtschaft/soziales/lng-importe-aus-russland-steigen-auf-rekordhoch](https://www.spiegel.de/wirtschaft/soziales/lng-importe-aus-russland-steigen-auf-rekordhoch-a-0acf1b83-0b99-47ce-96a6-002503ffe8b6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gaskrise-rwe-fordert-schadensersatz-von-gazprom](https://www.spiegel.de/wirtschaft/unternehmen/gaskrise-rwe-fordert-schadensersatz-von-gazprom-a-dc6fc820-7644-46e7-b86d-87e58243cb6c#ref=rss)
-### reichensteuer
-
-* [https://www.spiegel.de/wirtschaft/soziales/reichensteuer-volkswirte-plaedieren-fuer-hoehere-abgabe](https://www.spiegel.de/wirtschaft/soziales/reichensteuer-volkswirte-plaedieren-fuer-hoehere-abgabe-a-7994b9b8-b6f7-4702-8677-7d957ae98944#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/soziales/reichensteuer-volkswirte-plaedieren-fuer-hoehere-abgabe](https://www.spiegel.de/wirtschaft/soziales/reichensteuer-volkswirte-plaedieren-fuer-hoehere-abgabe-a-7994b9b8-b6f7-4702-8677-7d957ae98944#ref=rss)
-* [https://www.spiegel.de/netzwelt/gadgets/apple-startet-self-service-reparatur-in-deutschland](https://www.spiegel.de/netzwelt/gadgets/apple-startet-self-service-reparatur-in-deutschland-a-a7a9b58b-7aa1-4f16-b35a-e6ac0ba4fa23#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/soziales/reichensteuer-volkswirte-plaedieren-fuer-hoehere-abgabe](https://www.spiegel.de/wirtschaft/soziales/reichensteuer-volkswirte-plaedieren-fuer-hoehere-abgabe-a-7994b9b8-b6f7-4702-8677-7d957ae98944#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-besatzer-in-cherson-fordern-zum-geldumtausch-in-rubel-auf](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-besatzer-in-cherson-fordern-zum-geldumtausch-in-rubel-auf-a-c7e9c964-86ab-42fa-bfbc-a9d1cf2bba91#ref=rss)
-### fresenius
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-nur-zwei-monaten-wieder-neue-chefin-bei-fresenius-medical-care](https://www.spiegel.de/wirtschaft/unternehmen/nach-nur-zwei-monaten-wieder-neue-chefin-bei-fresenius-medical-care-a-17ea70da-26ed-4d1f-9760-a5c28956899f#ref=rss)
-### medical
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-nur-zwei-monaten-wieder-neue-chefin-bei-fresenius-medical-care](https://www.spiegel.de/wirtschaft/unternehmen/nach-nur-zwei-monaten-wieder-neue-chefin-bei-fresenius-medical-care-a-17ea70da-26ed-4d1f-9760-a5c28956899f#ref=rss)
-### care
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-nur-zwei-monaten-wieder-neue-chefin-bei-fresenius-medical-care](https://www.spiegel.de/wirtschaft/unternehmen/nach-nur-zwei-monaten-wieder-neue-chefin-bei-fresenius-medical-care-a-17ea70da-26ed-4d1f-9760-a5c28956899f#ref=rss)
-### chefin
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/nach-nur-zwei-monaten-wieder-neue-chefin-bei-fresenius-medical-care](https://www.spiegel.de/wirtschaft/unternehmen/nach-nur-zwei-monaten-wieder-neue-chefin-bei-fresenius-medical-care-a-17ea70da-26ed-4d1f-9760-a5c28956899f#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/soziales/coronahilfen-verfassungsgericht-erlaubt-deutsche-teilnahme-an-eu-fonds](https://www.spiegel.de/wirtschaft/soziales/coronahilfen-verfassungsgericht-erlaubt-deutsche-teilnahme-an-eu-fonds-a-dde81352-55cd-4bb8-8ac4-a40ca50f09ed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gaskrise-rwe-fordert-schadensersatz-von-gazprom](https://www.spiegel.de/wirtschaft/unternehmen/gaskrise-rwe-fordert-schadensersatz-von-gazprom-a-dc6fc820-7644-46e7-b86d-87e58243cb6c#ref=rss)
-### teilnahme
-
-* [https://www.spiegel.de/wirtschaft/soziales/coronahilfen-verfassungsgericht-erlaubt-deutsche-teilnahme-an-eu-fonds](https://www.spiegel.de/wirtschaft/soziales/coronahilfen-verfassungsgericht-erlaubt-deutsche-teilnahme-an-eu-fonds-a-dde81352-55cd-4bb8-8ac4-a40ca50f09ed#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wirtschaft/soziales/coronahilfen-verfassungsgericht-erlaubt-deutsche-teilnahme-an-eu-fonds](https://www.spiegel.de/wirtschaft/soziales/coronahilfen-verfassungsgericht-erlaubt-deutsche-teilnahme-an-eu-fonds-a-dde81352-55cd-4bb8-8ac4-a40ca50f09ed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-bundeswehrverband-mahnt-verteidigungsministerin-zu-schnellem-handeln](https://www.spiegel.de/politik/deutschland/christine-lambrecht-bundeswehrverband-mahnt-verteidigungsministerin-zu-schnellem-handeln-a-f1db681b-e6b3-44d6-991a-b88f1614961c#ref=rss)
-### startet
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-startet-self-service-reparatur-in-deutschland](https://www.spiegel.de/netzwelt/gadgets/apple-startet-self-service-reparatur-in-deutschland-a-a7a9b58b-7aa1-4f16-b35a-e6ac0ba4fa23#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-patent-biontech-startet-gegenangriff-gegen-moderna](https://www.spiegel.de/wirtschaft/unternehmen/corona-patent-biontech-startet-gegenangriff-gegen-moderna-a-8062368d-a28d-4bf7-83bd-201a1698af47#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/netzwelt/gadgets/apple-startet-self-service-reparatur-in-deutschland](https://www.spiegel.de/netzwelt/gadgets/apple-startet-self-service-reparatur-in-deutschland-a-a7a9b58b-7aa1-4f16-b35a-e6ac0ba4fa23#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/michael-avenatti-zu-14-jahren-haft-verurteilt-ex-anwalt-von-stormy-daniels](https://www.spiegel.de/panorama/justiz/michael-avenatti-zu-14-jahren-haft-verurteilt-ex-anwalt-von-stormy-daniels-a-41deb61d-306b-4575-93dd-5933b96101de#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream](https://www.spiegel.de/politik/karl-lauterbach-gesundheitsminister-stellt-reform-fuer-krankenhaeuser-vor-livestream-a-2a98db32-4a60-4594-b3d6-b6fb12a1204f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/christian-lindner-will-kapital-fuer-aktienrente-deutlich-aufstocken](https://www.spiegel.de/wirtschaft/soziales/christian-lindner-will-kapital-fuer-aktienrente-deutlich-aufstocken-a-4d61af14-8f29-4be2-b182-d18be9669b3c#ref=rss)
-### hilary
-
-* [https://www.spiegel.de/panorama/leute/hilary-duff-ueber-essstoerung-als-jugendliche-es-war-entsetzlich](https://www.spiegel.de/panorama/leute/hilary-duff-ueber-essstoerung-als-jugendliche-es-war-entsetzlich-a-87016e81-484a-4fbf-b182-a077370772e1#ref=rss)
-### duff
-
-* [https://www.spiegel.de/panorama/leute/hilary-duff-ueber-essstoerung-als-jugendliche-es-war-entsetzlich](https://www.spiegel.de/panorama/leute/hilary-duff-ueber-essstoerung-als-jugendliche-es-war-entsetzlich-a-87016e81-484a-4fbf-b182-a077370772e1#ref=rss)
-### essstörung
-
-* [https://www.spiegel.de/panorama/leute/hilary-duff-ueber-essstoerung-als-jugendliche-es-war-entsetzlich](https://www.spiegel.de/panorama/leute/hilary-duff-ueber-essstoerung-als-jugendliche-es-war-entsetzlich-a-87016e81-484a-4fbf-b182-a077370772e1#ref=rss)
-### jugendliche
-
-* [https://www.spiegel.de/panorama/leute/hilary-duff-ueber-essstoerung-als-jugendliche-es-war-entsetzlich](https://www.spiegel.de/panorama/leute/hilary-duff-ueber-essstoerung-als-jugendliche-es-war-entsetzlich-a-87016e81-484a-4fbf-b182-a077370772e1#ref=rss)
-### cherson
-
-* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-besatzer-in-cherson-fordern-zum-geldumtausch-in-rubel-auf](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-besatzer-in-cherson-fordern-zum-geldumtausch-in-rubel-auf-a-c7e9c964-86ab-42fa-bfbc-a9d1cf2bba91#ref=rss)
-### plant
-
-* [https://www.spiegel.de/wirtschaft/soziales/regenwald-eu-plant-importverbot-fuer-waren-aus-abgeholzten-gebieten](https://www.spiegel.de/wirtschaft/soziales/regenwald-eu-plant-importverbot-fuer-waren-aus-abgeholzten-gebieten-a-1605bdb1-919b-47ff-af91-d84c060a2ca6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/christian-lindner-will-kapital-fuer-aktienrente-deutlich-aufstocken](https://www.spiegel.de/wirtschaft/soziales/christian-lindner-will-kapital-fuer-aktienrente-deutlich-aufstocken-a-4d61af14-8f29-4be2-b182-d18be9669b3c#ref=rss)
-### importverbot
-
-* [https://www.spiegel.de/wirtschaft/soziales/regenwald-eu-plant-importverbot-fuer-waren-aus-abgeholzten-gebieten](https://www.spiegel.de/wirtschaft/soziales/regenwald-eu-plant-importverbot-fuer-waren-aus-abgeholzten-gebieten-a-1605bdb1-919b-47ff-af91-d84c060a2ca6#ref=rss)
-### waren
-
-* [https://www.spiegel.de/wirtschaft/soziales/regenwald-eu-plant-importverbot-fuer-waren-aus-abgeholzten-gebieten](https://www.spiegel.de/wirtschaft/soziales/regenwald-eu-plant-importverbot-fuer-waren-aus-abgeholzten-gebieten-a-1605bdb1-919b-47ff-af91-d84c060a2ca6#ref=rss)
-### gebieten
-
-* [https://www.spiegel.de/wirtschaft/soziales/regenwald-eu-plant-importverbot-fuer-waren-aus-abgeholzten-gebieten](https://www.spiegel.de/wirtschaft/soziales/regenwald-eu-plant-importverbot-fuer-waren-aus-abgeholzten-gebieten-a-1605bdb1-919b-47ff-af91-d84c060a2ca6#ref=rss)
-### haus
-
-* [https://www.spiegel.de/ausland/weisses-haus-nennt-offenlegung-von-twitter-dokumenten-ablenkungsmanoever](https://www.spiegel.de/ausland/weisses-haus-nennt-offenlegung-von-twitter-dokumenten-ablenkungsmanoever-a-af18204b-6e0a-47a3-ba9d-fd46ecda8e81#ref=rss)
-### nennt
-
-* [https://www.spiegel.de/ausland/weisses-haus-nennt-offenlegung-von-twitter-dokumenten-ablenkungsmanoever](https://www.spiegel.de/ausland/weisses-haus-nennt-offenlegung-von-twitter-dokumenten-ablenkungsmanoever-a-af18204b-6e0a-47a3-ba9d-fd46ecda8e81#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritisiert-olaf-scholz-und-nennt-gerhard-schroeder-mutiger-und-zupackender](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritisiert-olaf-scholz-und-nennt-gerhard-schroeder-mutiger-und-zupackender-a-6be5ca53-5f92-4b4c-a6f8-fdcc91262a3e#ref=rss)
 ### oliver
 
-* [https://www.spiegel.de/sport/fussball/oliver-bierhoff-verlaesst-den-deutschen-fussball-bund-der-blitzableiter-kommentar](https://www.spiegel.de/sport/fussball/oliver-bierhoff-verlaesst-den-deutschen-fussball-bund-der-blitzableiter-kommentar-a-44999522-ae5c-4aab-9967-02d4ff49e0bf#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-das-steckt-hinter-dem-abgang-von-oliver-bierhoff-beim-dfb-und-das-sind-die-folgen](https://www.spiegel.de/sport/fussball/wm-2022-das-steckt-hinter-dem-abgang-von-oliver-bierhoff-beim-dfb-und-das-sind-die-folgen-a-cb1e9d9c-215c-42e4-8499-5e0af87f8c75#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff](https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff-a-9f671937-5e6b-4ac9-a9ac-f2b899674792#ref=rss)
+* [https://www.spiegel.de/sport/fussball/oliver-bierhoff-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/oliver-bierhoff-seine-karriere-in-bildern-a-043bdef9-3005-4fc2-84e6-14cbc39acb2b#ref=rss)
 ### bierhoff
 
-* [https://www.spiegel.de/sport/fussball/oliver-bierhoff-verlaesst-den-deutschen-fussball-bund-der-blitzableiter-kommentar](https://www.spiegel.de/sport/fussball/oliver-bierhoff-verlaesst-den-deutschen-fussball-bund-der-blitzableiter-kommentar-a-44999522-ae5c-4aab-9967-02d4ff49e0bf#ref=rss)
-### rwe
+* [https://www.spiegel.de/sport/fussball/wm-2022-das-steckt-hinter-dem-abgang-von-oliver-bierhoff-beim-dfb-und-das-sind-die-folgen](https://www.spiegel.de/sport/fussball/wm-2022-das-steckt-hinter-dem-abgang-von-oliver-bierhoff-beim-dfb-und-das-sind-die-folgen-a-cb1e9d9c-215c-42e4-8499-5e0af87f8c75#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff](https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff-a-9f671937-5e6b-4ac9-a9ac-f2b899674792#ref=rss)
+* [https://www.spiegel.de/sport/fussball/oliver-bierhoff-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/oliver-bierhoff-seine-karriere-in-bildern-a-043bdef9-3005-4fc2-84e6-14cbc39acb2b#ref=rss)
+### illerkirchberg
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/gaskrise-rwe-fordert-schadensersatz-von-gazprom](https://www.spiegel.de/wirtschaft/unternehmen/gaskrise-rwe-fordert-schadensersatz-von-gazprom-a-dc6fc820-7644-46e7-b86d-87e58243cb6c#ref=rss)
-### gazprom
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff](https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff-a-9f671937-5e6b-4ac9-a9ac-f2b899674792#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-ein-dorf-steht-nach-dem-angriff-auf-zwei-schulmaedchen-unter-schock](https://www.spiegel.de/panorama/justiz/illerkirchberg-ein-dorf-steht-nach-dem-angriff-auf-zwei-schulmaedchen-unter-schock-a-a66b8a91-b524-463d-86cb-ab109879a7de#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-attacke-auf-schuelerinnen-tatverdaechtiger-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/illerkirchberg-attacke-auf-schuelerinnen-tatverdaechtiger-in-untersuchungshaft-a-09dcdc43-1718-48fb-adc9-11bd5d491294#ref=rss)
+### lauterbach
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/gaskrise-rwe-fordert-schadensersatz-von-gazprom](https://www.spiegel.de/wirtschaft/unternehmen/gaskrise-rwe-fordert-schadensersatz-von-gazprom-a-dc6fc820-7644-46e7-b86d-87e58243cb6c#ref=rss)
-### nachdem
+* [https://www.spiegel.de/wirtschaft/krankenhaus-reform-was-bringt-der-plan-von-karl-lauterbach](https://www.spiegel.de/wirtschaft/krankenhaus-reform-was-bringt-der-plan-von-karl-lauterbach-a-4a2a0115-7ae4-47d9-8033-f226c0a47e8e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff](https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff-a-9f671937-5e6b-4ac9-a9ac-f2b899674792#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-linke-uebt-kritik-an-plaenen-des-gesundheitsministers-fuer-krankenhausreform](https://www.spiegel.de/politik/deutschland/karl-lauterbach-linke-uebt-kritik-an-plaenen-des-gesundheitsministers-fuer-krankenhausreform-a-046ad246-6ae7-47aa-868f-e98716f443fc#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/gaskrise-rwe-fordert-schadensersatz-von-gazprom](https://www.spiegel.de/wirtschaft/unternehmen/gaskrise-rwe-fordert-schadensersatz-von-gazprom-a-dc6fc820-7644-46e7-b86d-87e58243cb6c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-patent-biontech-startet-gegenangriff-gegen-moderna](https://www.spiegel.de/wirtschaft/unternehmen/corona-patent-biontech-startet-gegenangriff-gegen-moderna-a-8062368d-a28d-4bf7-83bd-201a1698af47#ref=rss)
-### wissing
+* [https://www.spiegel.de/panorama/justiz/stutthof-prozess-verteidigung-fordert-freispruch](https://www.spiegel.de/panorama/justiz/stutthof-prozess-verteidigung-fordert-freispruch-a-d866c5b1-239c-4df7-97be-228a7583224d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/verwaltungsgerichtshof-mannheim-eltern-haben-anspruch-auf-kita-platz-auch-bei-personalmangel](https://www.spiegel.de/panorama/bildung/verwaltungsgerichtshof-mannheim-eltern-haben-anspruch-auf-kita-platz-auch-bei-personalmangel-a-a10f4a95-3e10-40ae-b90a-f13acaef7fd1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-regeln-in-deutschland-im-ueberblick-wo-noch-die-maskenpflicht-gilt](https://www.spiegel.de/politik/deutschland/corona-regeln-in-deutschland-im-ueberblick-wo-noch-die-maskenpflicht-gilt-a-54794768-cafc-4334-b73b-b22e25d7bd0e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rund-20-oeltanker-stauen-sich-offenbar-in-tuerkischen-gewaessern](https://www.spiegel.de/wirtschaft/rund-20-oeltanker-stauen-sich-offenbar-in-tuerkischen-gewaessern-a-f65912b1-e727-4b81-9556-eeefe879f8bf#ref=rss)
+### mann
 
-* [https://www.spiegel.de/politik/deutschland/volker-wissing-gruene-stellen-sich-gegen-autobahn-plaene-des-verkehrsministeriums](https://www.spiegel.de/politik/deutschland/volker-wissing-gruene-stellen-sich-gegen-autobahn-plaene-des-verkehrsministeriums-a-2e02b440-6ff9-4d87-b150-69988efdda72#ref=rss)
-### michael
+* [https://www.spiegel.de/panorama/justiz/koenig-charles-in-grossbritannien-mit-ei-beworfen-mann-festgenommen](https://www.spiegel.de/panorama/justiz/koenig-charles-in-grossbritannien-mit-ei-beworfen-mann-festgenommen-a-67b7d003-5827-449f-acd1-bbbe94257b14#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-abgeordnete-liefern-sich-schlaegerei](https://www.spiegel.de/ausland/tuerkei-abgeordnete-liefern-sich-schlaegerei-a-728c5d08-0cb4-4918-9bb6-1f36dab926a1#ref=rss)
+* [https://www.spiegel.de/ausland/europa-fluechtender-syrer-an-eu-aussengrenze-angeschossen](https://www.spiegel.de/ausland/europa-fluechtender-syrer-an-eu-aussengrenze-angeschossen-a-cff26758-e3f7-47bd-a274-277dc40c21e2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bgh-fragwuerdige-symbole-auf-uniform-polizist-muss-foto-veroeffentlichung-dulden](https://www.spiegel.de/panorama/justiz/bgh-fragwuerdige-symbole-auf-uniform-polizist-muss-foto-veroeffentlichung-dulden-a-63f7f10a-1363-485e-95e1-201ebd4aeafc#ref=rss)
+### krankenhausreform
 
-* [https://www.spiegel.de/panorama/justiz/michael-avenatti-zu-14-jahren-haft-verurteilt-ex-anwalt-von-stormy-daniels](https://www.spiegel.de/panorama/justiz/michael-avenatti-zu-14-jahren-haft-verurteilt-ex-anwalt-von-stormy-daniels-a-41deb61d-306b-4575-93dd-5933b96101de#ref=rss)
-### avenatti
+* [https://www.spiegel.de/wirtschaft/krankenhaus-reform-was-bringt-der-plan-von-karl-lauterbach](https://www.spiegel.de/wirtschaft/krankenhaus-reform-was-bringt-der-plan-von-karl-lauterbach-a-4a2a0115-7ae4-47d9-8033-f226c0a47e8e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-linke-uebt-kritik-an-plaenen-des-gesundheitsministers-fuer-krankenhausreform](https://www.spiegel.de/politik/deutschland/karl-lauterbach-linke-uebt-kritik-an-plaenen-des-gesundheitsministers-fuer-krankenhausreform-a-046ad246-6ae7-47aa-868f-e98716f443fc#ref=rss)
+### karl
 
-* [https://www.spiegel.de/panorama/justiz/michael-avenatti-zu-14-jahren-haft-verurteilt-ex-anwalt-von-stormy-daniels](https://www.spiegel.de/panorama/justiz/michael-avenatti-zu-14-jahren-haft-verurteilt-ex-anwalt-von-stormy-daniels-a-41deb61d-306b-4575-93dd-5933b96101de#ref=rss)
-### biontech
+* [https://www.spiegel.de/wirtschaft/krankenhaus-reform-was-bringt-der-plan-von-karl-lauterbach](https://www.spiegel.de/wirtschaft/krankenhaus-reform-was-bringt-der-plan-von-karl-lauterbach-a-4a2a0115-7ae4-47d9-8033-f226c0a47e8e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff](https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff-a-9f671937-5e6b-4ac9-a9ac-f2b899674792#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-linke-uebt-kritik-an-plaenen-des-gesundheitsministers-fuer-krankenhausreform](https://www.spiegel.de/politik/deutschland/karl-lauterbach-linke-uebt-kritik-an-plaenen-des-gesundheitsministers-fuer-krankenhausreform-a-046ad246-6ae7-47aa-868f-e98716f443fc#ref=rss)
+### wm
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-patent-biontech-startet-gegenangriff-gegen-moderna](https://www.spiegel.de/wirtschaft/unternehmen/corona-patent-biontech-startet-gegenangriff-gegen-moderna-a-8062368d-a28d-4bf7-83bd-201a1698af47#ref=rss)
-### moderna
+* [https://www.spiegel.de/sport/fussball/wm-2022-marokko-besiegt-spanien-im-elfmeterschiessen-und-steht-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2022-marokko-besiegt-spanien-im-elfmeterschiessen-und-steht-im-viertelfinale-a-75119a3b-ccbd-4857-8f6c-8a7d45c153ab#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-das-steckt-hinter-dem-abgang-von-oliver-bierhoff-beim-dfb-und-das-sind-die-folgen](https://www.spiegel.de/sport/fussball/wm-2022-das-steckt-hinter-dem-abgang-von-oliver-bierhoff-beim-dfb-und-das-sind-die-folgen-a-cb1e9d9c-215c-42e4-8499-5e0af87f8c75#ref=rss)
+### dfb
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-patent-biontech-startet-gegenangriff-gegen-moderna](https://www.spiegel.de/wirtschaft/unternehmen/corona-patent-biontech-startet-gegenangriff-gegen-moderna-a-8062368d-a28d-4bf7-83bd-201a1698af47#ref=rss)
-### firmen
+* [https://www.spiegel.de/sport/fussball/wm-2022-das-steckt-hinter-dem-abgang-von-oliver-bierhoff-beim-dfb-und-das-sind-die-folgen](https://www.spiegel.de/sport/fussball/wm-2022-das-steckt-hinter-dem-abgang-von-oliver-bierhoff-beim-dfb-und-das-sind-die-folgen-a-cb1e9d9c-215c-42e4-8499-5e0af87f8c75#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff](https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff-a-9f671937-5e6b-4ac9-a9ac-f2b899674792#ref=rss)
+### news
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/corona-patent-biontech-startet-gegenangriff-gegen-moderna](https://www.spiegel.de/wirtschaft/unternehmen/corona-patent-biontech-startet-gegenangriff-gegen-moderna-a-8062368d-a28d-4bf7-83bd-201a1698af47#ref=rss)
-### north
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff](https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff-a-9f671937-5e6b-4ac9-a9ac-f2b899674792#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rupert-murdoch-muss-wegen-fox-news-vor-gericht-aussagen](https://www.spiegel.de/wirtschaft/unternehmen/rupert-murdoch-muss-wegen-fox-news-vor-gericht-aussagen-a-7b83affc-911e-480e-bfa2-3918035a355f#ref=rss)
+### maskenpflicht
 
-* [https://www.spiegel.de/ausland/usa-fbi-ermittelt-nach-angriffen-auf-umspannwerke-in-north-carolina](https://www.spiegel.de/ausland/usa-fbi-ermittelt-nach-angriffen-auf-umspannwerke-in-north-carolina-a-e0921bcb-90d2-473a-be2d-5bfe982bde85#ref=rss)
-### carolina
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff](https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff-a-9f671937-5e6b-4ac9-a9ac-f2b899674792#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/corona-regeln-in-deutschland-im-ueberblick-wo-noch-die-maskenpflicht-gilt](https://www.spiegel.de/politik/deutschland/corona-regeln-in-deutschland-im-ueberblick-wo-noch-die-maskenpflicht-gilt-a-54794768-cafc-4334-b73b-b22e25d7bd0e#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/usa-fbi-ermittelt-nach-angriffen-auf-umspannwerke-in-north-carolina](https://www.spiegel.de/ausland/usa-fbi-ermittelt-nach-angriffen-auf-umspannwerke-in-north-carolina-a-e0921bcb-90d2-473a-be2d-5bfe982bde85#ref=rss)
-### merz
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff](https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff-a-9f671937-5e6b-4ac9-a9ac-f2b899674792#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-ein-dorf-steht-nach-dem-angriff-auf-zwei-schulmaedchen-unter-schock](https://www.spiegel.de/panorama/justiz/illerkirchberg-ein-dorf-steht-nach-dem-angriff-auf-zwei-schulmaedchen-unter-schock-a-a66b8a91-b524-463d-86cb-ab109879a7de#ref=rss)
+### eltern
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritisiert-olaf-scholz-und-nennt-gerhard-schroeder-mutiger-und-zupackender](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritisiert-olaf-scholz-und-nennt-gerhard-schroeder-mutiger-und-zupackender-a-6be5ca53-5f92-4b4c-a6f8-fdcc91262a3e#ref=rss)
-### schröder
+* [https://www.spiegel.de/panorama/bildung/verwaltungsgerichtshof-mannheim-eltern-haben-anspruch-auf-kita-platz-auch-bei-personalmangel](https://www.spiegel.de/panorama/bildung/verwaltungsgerichtshof-mannheim-eltern-haben-anspruch-auf-kita-platz-auch-bei-personalmangel-a-a10f4a95-3e10-40ae-b90a-f13acaef7fd1#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/garbsen-kleinkind-von-umstuerzendem-einkaufswagen-toedlich-verletzt-ermittlungen-gegen-die-eltern](https://www.spiegel.de/panorama/justiz/garbsen-kleinkind-von-umstuerzendem-einkaufswagen-toedlich-verletzt-ermittlungen-gegen-die-eltern-a-7ad2c0a0-029b-4063-8f81-b89d1e8e9a12#ref=rss)
+### angriff
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-kritisiert-olaf-scholz-und-nennt-gerhard-schroeder-mutiger-und-zupackender](https://www.spiegel.de/politik/deutschland/friedrich-merz-kritisiert-olaf-scholz-und-nennt-gerhard-schroeder-mutiger-und-zupackender-a-6be5ca53-5f92-4b4c-a6f8-fdcc91262a3e#ref=rss)
-### eto'o
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-ein-dorf-steht-nach-dem-angriff-auf-zwei-schulmaedchen-unter-schock](https://www.spiegel.de/panorama/justiz/illerkirchberg-ein-dorf-steht-nach-dem-angriff-auf-zwei-schulmaedchen-unter-schock-a-a66b8a91-b524-463d-86cb-ab109879a7de#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken](https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken-a-3042819c-85a0-4801-8506-926fe5998567#ref=rss)
+### unter
 
-* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-amazon-haelt-an-geplanter-doku-ueber-nationalmannschaft-fest](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-amazon-haelt-an-geplanter-doku-ueber-nationalmannschaft-fest-a-a5b54e26-71f3-407a-a174-93bdcb3421cd#ref=rss)
-### billie
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-ein-dorf-steht-nach-dem-angriff-auf-zwei-schulmaedchen-unter-schock](https://www.spiegel.de/panorama/justiz/illerkirchberg-ein-dorf-steht-nach-dem-angriff-auf-zwei-schulmaedchen-unter-schock-a-a66b8a91-b524-463d-86cb-ab109879a7de#ref=rss)
+* [https://www.spiegel.de/wissenschaft/daenemark-erste-zulassung-fuer-co2-speicher-im-kampf-gegen-klimakrise](https://www.spiegel.de/wissenschaft/daenemark-erste-zulassung-fuer-co2-speicher-im-kampf-gegen-klimakrise-a-c8397142-d9f1-4a19-91cc-b46cdca9862f#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/leute/billie-eilish-ueber-frauen-an-der-spitze-das-ist-voellig-unglaublich-fuer-mich-zu-sehen](https://www.spiegel.de/panorama/leute/billie-eilish-ueber-frauen-an-der-spitze-das-ist-voellig-unglaublich-fuer-mich-zu-sehen-a-32c2d1e2-f058-42e0-951a-0395b42dfa14#ref=rss)
-### eilish
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-angriffe-auf-militaerbasen-in-russland-wunderdrohne-oder-museumsstueck](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-angriffe-auf-militaerbasen-in-russland-wunderdrohne-oder-museumsstueck-a-6eec8b96-fb56-43fc-bf7e-8b4dc060eda5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken](https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken-a-3042819c-85a0-4801-8506-926fe5998567#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/leute/billie-eilish-ueber-frauen-an-der-spitze-das-ist-voellig-unglaublich-fuer-mich-zu-sehen](https://www.spiegel.de/panorama/leute/billie-eilish-ueber-frauen-an-der-spitze-das-ist-voellig-unglaublich-fuer-mich-zu-sehen-a-32c2d1e2-f058-42e0-951a-0395b42dfa14#ref=rss)
-### christine
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-angriffe-auf-militaerbasen-in-russland-wunderdrohne-oder-museumsstueck](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-angriffe-auf-militaerbasen-in-russland-wunderdrohne-oder-museumsstueck-a-6eec8b96-fb56-43fc-bf7e-8b4dc060eda5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rund-20-oeltanker-stauen-sich-offenbar-in-tuerkischen-gewaessern](https://www.spiegel.de/wirtschaft/rund-20-oeltanker-stauen-sich-offenbar-in-tuerkischen-gewaessern-a-f65912b1-e727-4b81-9556-eeefe879f8bf#ref=rss)
+### gesundheitsminister
 
-* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-bundeswehrverband-mahnt-verteidigungsministerin-zu-schnellem-handeln](https://www.spiegel.de/politik/deutschland/christine-lambrecht-bundeswehrverband-mahnt-verteidigungsministerin-zu-schnellem-handeln-a-f1db681b-e6b3-44d6-991a-b88f1614961c#ref=rss)
-### lambrecht
+* [https://www.spiegel.de/wirtschaft/krankenhaus-reform-was-bringt-der-plan-von-karl-lauterbach](https://www.spiegel.de/wirtschaft/krankenhaus-reform-was-bringt-der-plan-von-karl-lauterbach-a-4a2a0115-7ae4-47d9-8033-f226c0a47e8e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-linke-uebt-kritik-an-plaenen-des-gesundheitsministers-fuer-krankenhausreform](https://www.spiegel.de/politik/deutschland/karl-lauterbach-linke-uebt-kritik-an-plaenen-des-gesundheitsministers-fuer-krankenhausreform-a-046ad246-6ae7-47aa-868f-e98716f443fc#ref=rss)
+### 2022
 
-* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-bundeswehrverband-mahnt-verteidigungsministerin-zu-schnellem-handeln](https://www.spiegel.de/politik/deutschland/christine-lambrecht-bundeswehrverband-mahnt-verteidigungsministerin-zu-schnellem-handeln-a-f1db681b-e6b3-44d6-991a-b88f1614961c#ref=rss)
-### bundeswehrverband
+* [https://www.spiegel.de/sport/fussball/wm-2022-marokko-besiegt-spanien-im-elfmeterschiessen-und-steht-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2022-marokko-besiegt-spanien-im-elfmeterschiessen-und-steht-im-viertelfinale-a-75119a3b-ccbd-4857-8f6c-8a7d45c153ab#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-das-steckt-hinter-dem-abgang-von-oliver-bierhoff-beim-dfb-und-das-sind-die-folgen](https://www.spiegel.de/sport/fussball/wm-2022-das-steckt-hinter-dem-abgang-von-oliver-bierhoff-beim-dfb-und-das-sind-die-folgen-a-cb1e9d9c-215c-42e4-8499-5e0af87f8c75#ref=rss)
+### marokko
 
-* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-bundeswehrverband-mahnt-verteidigungsministerin-zu-schnellem-handeln](https://www.spiegel.de/politik/deutschland/christine-lambrecht-bundeswehrverband-mahnt-verteidigungsministerin-zu-schnellem-handeln-a-f1db681b-e6b3-44d6-991a-b88f1614961c#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-marokko-besiegt-spanien-im-elfmeterschiessen-und-steht-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2022-marokko-besiegt-spanien-im-elfmeterschiessen-und-steht-im-viertelfinale-a-75119a3b-ccbd-4857-8f6c-8a7d45c153ab#ref=rss)
+### spanien
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-marokko-besiegt-spanien-im-elfmeterschiessen-und-steht-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2022-marokko-besiegt-spanien-im-elfmeterschiessen-und-steht-im-viertelfinale-a-75119a3b-ccbd-4857-8f6c-8a7d45c153ab#ref=rss)
+### elfmeterschießen
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-marokko-besiegt-spanien-im-elfmeterschiessen-und-steht-im-viertelfinale](https://www.spiegel.de/sport/fussball/wm-2022-marokko-besiegt-spanien-im-elfmeterschiessen-und-steht-im-viertelfinale-a-75119a3b-ccbd-4857-8f6c-8a7d45c153ab#ref=rss)
+### prozess
+
+* [https://www.spiegel.de/panorama/justiz/stutthof-prozess-verteidigung-fordert-freispruch](https://www.spiegel.de/panorama/justiz/stutthof-prozess-verteidigung-fordert-freispruch-a-d866c5b1-239c-4df7-97be-228a7583224d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rupert-murdoch-muss-wegen-fox-news-vor-gericht-aussagen](https://www.spiegel.de/wirtschaft/unternehmen/rupert-murdoch-muss-wegen-fox-news-vor-gericht-aussagen-a-7b83affc-911e-480e-bfa2-3918035a355f#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/panorama/justiz/stutthof-prozess-verteidigung-fordert-freispruch](https://www.spiegel.de/panorama/justiz/stutthof-prozess-verteidigung-fordert-freispruch-a-d866c5b1-239c-4df7-97be-228a7583224d#ref=rss)
+* [https://www.spiegel.de/ausland/sali-berisha-angreifer-schlaegt-albaniens-oppositionsfuehrer-ins-gesicht](https://www.spiegel.de/ausland/sali-berisha-angreifer-schlaegt-albaniens-oppositionsfuehrer-ins-gesicht-a-75996cd2-0b49-446b-bbb1-d790aae469ab#ref=rss)
+### ayad
+
+* [https://www.spiegel.de/kultur/literatur/ayad-akhtar-us-autor-und-pen-praesident-im-interview](https://www.spiegel.de/kultur/literatur/ayad-akhtar-us-autor-und-pen-praesident-im-interview-a-30aac1c7-4909-4702-82d0-91fae68be45c#ref=rss)
+### akhtar
+
+* [https://www.spiegel.de/kultur/literatur/ayad-akhtar-us-autor-und-pen-praesident-im-interview](https://www.spiegel.de/kultur/literatur/ayad-akhtar-us-autor-und-pen-praesident-im-interview-a-30aac1c7-4909-4702-82d0-91fae68be45c#ref=rss)
+### sorgte
+
+* [https://www.spiegel.de/kultur/literatur/ayad-akhtar-us-autor-und-pen-praesident-im-interview](https://www.spiegel.de/kultur/literatur/ayad-akhtar-us-autor-und-pen-praesident-im-interview-a-30aac1c7-4909-4702-82d0-91fae68be45c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken](https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken-a-3042819c-85a0-4801-8506-926fe5998567#ref=rss)
+### verhältnis
+
+* [https://www.spiegel.de/kultur/literatur/ayad-akhtar-us-autor-und-pen-praesident-im-interview](https://www.spiegel.de/kultur/literatur/ayad-akhtar-us-autor-und-pen-praesident-im-interview-a-30aac1c7-4909-4702-82d0-91fae68be45c#ref=rss)
+* [https://www.spiegel.de/ausland/kosovo-will-antrag-auf-eu-beitritt-stellen](https://www.spiegel.de/ausland/kosovo-will-antrag-auf-eu-beitritt-stellen-a-00e78d74-08c4-49bf-a426-a4c74e84f1c0#ref=rss)
+### sali
+
+* [https://www.spiegel.de/ausland/sali-berisha-angreifer-schlaegt-albaniens-oppositionsfuehrer-ins-gesicht](https://www.spiegel.de/ausland/sali-berisha-angreifer-schlaegt-albaniens-oppositionsfuehrer-ins-gesicht-a-75996cd2-0b49-446b-bbb1-d790aae469ab#ref=rss)
+### berisha
+
+* [https://www.spiegel.de/ausland/sali-berisha-angreifer-schlaegt-albaniens-oppositionsfuehrer-ins-gesicht](https://www.spiegel.de/ausland/sali-berisha-angreifer-schlaegt-albaniens-oppositionsfuehrer-ins-gesicht-a-75996cd2-0b49-446b-bbb1-d790aae469ab#ref=rss)
+### oppositionsführer
+
+* [https://www.spiegel.de/ausland/sali-berisha-angreifer-schlaegt-albaniens-oppositionsfuehrer-ins-gesicht](https://www.spiegel.de/ausland/sali-berisha-angreifer-schlaegt-albaniens-oppositionsfuehrer-ins-gesicht-a-75996cd2-0b49-446b-bbb1-d790aae469ab#ref=rss)
+### täter
+
+* [https://www.spiegel.de/ausland/sali-berisha-angreifer-schlaegt-albaniens-oppositionsfuehrer-ins-gesicht](https://www.spiegel.de/ausland/sali-berisha-angreifer-schlaegt-albaniens-oppositionsfuehrer-ins-gesicht-a-75996cd2-0b49-446b-bbb1-d790aae469ab#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff](https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff-a-9f671937-5e6b-4ac9-a9ac-f2b899674792#ref=rss)
+### charles
+
+* [https://www.spiegel.de/panorama/justiz/koenig-charles-in-grossbritannien-mit-ei-beworfen-mann-festgenommen](https://www.spiegel.de/panorama/justiz/koenig-charles-in-grossbritannien-mit-ei-beworfen-mann-festgenommen-a-67b7d003-5827-449f-acd1-bbbe94257b14#ref=rss)
+### ei
+
+* [https://www.spiegel.de/panorama/justiz/koenig-charles-in-grossbritannien-mit-ei-beworfen-mann-festgenommen](https://www.spiegel.de/panorama/justiz/koenig-charles-in-grossbritannien-mit-ei-beworfen-mann-festgenommen-a-67b7d003-5827-449f-acd1-bbbe94257b14#ref=rss)
+### erste
+
+* [https://www.spiegel.de/panorama/justiz/koenig-charles-in-grossbritannien-mit-ei-beworfen-mann-festgenommen](https://www.spiegel.de/panorama/justiz/koenig-charles-in-grossbritannien-mit-ei-beworfen-mann-festgenommen-a-67b7d003-5827-449f-acd1-bbbe94257b14#ref=rss)
+* [https://www.spiegel.de/wissenschaft/daenemark-erste-zulassung-fuer-co2-speicher-im-kampf-gegen-klimakrise](https://www.spiegel.de/wissenschaft/daenemark-erste-zulassung-fuer-co2-speicher-im-kampf-gegen-klimakrise-a-c8397142-d9f1-4a19-91cc-b46cdca9862f#ref=rss)
+### attacke
+
+* [https://www.spiegel.de/panorama/justiz/koenig-charles-in-grossbritannien-mit-ei-beworfen-mann-festgenommen](https://www.spiegel.de/panorama/justiz/koenig-charles-in-grossbritannien-mit-ei-beworfen-mann-festgenommen-a-67b7d003-5827-449f-acd1-bbbe94257b14#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-attacke-auf-schuelerinnen-tatverdaechtiger-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/illerkirchberg-attacke-auf-schuelerinnen-tatverdaechtiger-in-untersuchungshaft-a-09dcdc43-1718-48fb-adc9-11bd5d491294#ref=rss)
+### ich
+
+* [https://www.spiegel.de/psychologie/energiesparen-fuer-fortgeschrittene-die-eigentuemliche-erotik-der-heizkurvensteilheit](https://www.spiegel.de/psychologie/energiesparen-fuer-fortgeschrittene-die-eigentuemliche-erotik-der-heizkurvensteilheit-a-6e459bf2-7584-42b2-8d85-bd3c53a23761#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/psychologie/energiesparen-fuer-fortgeschrittene-die-eigentuemliche-erotik-der-heizkurvensteilheit](https://www.spiegel.de/psychologie/energiesparen-fuer-fortgeschrittene-die-eigentuemliche-erotik-der-heizkurvensteilheit-a-6e459bf2-7584-42b2-8d85-bd3c53a23761#ref=rss)
+### krebsarten
+
+* [https://www.spiegel.de/wissenschaft/medizin/forscher-entwickeln-methode-zur-frueherkennung-von-14-krebsarten](https://www.spiegel.de/wissenschaft/medizin/forscher-entwickeln-methode-zur-frueherkennung-von-14-krebsarten-a-cf0597cc-bcf0-4c35-ba70-2f62068d9604#ref=rss)
+### markus
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff](https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff-a-9f671937-5e6b-4ac9-a9ac-f2b899674792#ref=rss)
+### söder
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff](https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff-a-9f671937-5e6b-4ac9-a9ac-f2b899674792#ref=rss)
+### bekannt
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff](https://www.spiegel.de/politik/deutschland/news-des-tages-illerkirchberg-markus-soeder-maskenpflicht-oliver-bierhoff-a-9f671937-5e6b-4ac9-a9ac-f2b899674792#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-angriffe-auf-militaerbasen-in-russland-wunderdrohne-oder-museumsstueck](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-angriffe-auf-militaerbasen-in-russland-wunderdrohne-oder-museumsstueck-a-6eec8b96-fb56-43fc-bf7e-8b4dc060eda5#ref=rss)
+### verwaltungsgerichtshof
+
+* [https://www.spiegel.de/panorama/bildung/verwaltungsgerichtshof-mannheim-eltern-haben-anspruch-auf-kita-platz-auch-bei-personalmangel](https://www.spiegel.de/panorama/bildung/verwaltungsgerichtshof-mannheim-eltern-haben-anspruch-auf-kita-platz-auch-bei-personalmangel-a-a10f4a95-3e10-40ae-b90a-f13acaef7fd1#ref=rss)
+### mannheim
+
+* [https://www.spiegel.de/panorama/bildung/verwaltungsgerichtshof-mannheim-eltern-haben-anspruch-auf-kita-platz-auch-bei-personalmangel](https://www.spiegel.de/panorama/bildung/verwaltungsgerichtshof-mannheim-eltern-haben-anspruch-auf-kita-platz-auch-bei-personalmangel-a-a10f4a95-3e10-40ae-b90a-f13acaef7fd1#ref=rss)
+### kitaplatz
+
+* [https://www.spiegel.de/panorama/bildung/verwaltungsgerichtshof-mannheim-eltern-haben-anspruch-auf-kita-platz-auch-bei-personalmangel](https://www.spiegel.de/panorama/bildung/verwaltungsgerichtshof-mannheim-eltern-haben-anspruch-auf-kita-platz-auch-bei-personalmangel-a-a10f4a95-3e10-40ae-b90a-f13acaef7fd1#ref=rss)
+### schulmädchen
+
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-ein-dorf-steht-nach-dem-angriff-auf-zwei-schulmaedchen-unter-schock](https://www.spiegel.de/panorama/justiz/illerkirchberg-ein-dorf-steht-nach-dem-angriff-auf-zwei-schulmaedchen-unter-schock-a-a66b8a91-b524-463d-86cb-ab109879a7de#ref=rss)
+### schock
+
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-ein-dorf-steht-nach-dem-angriff-auf-zwei-schulmaedchen-unter-schock](https://www.spiegel.de/panorama/justiz/illerkirchberg-ein-dorf-steht-nach-dem-angriff-auf-zwei-schulmaedchen-unter-schock-a-a66b8a91-b524-463d-86cb-ab109879a7de#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/politik/deutschland/corona-regeln-in-deutschland-im-ueberblick-wo-noch-die-maskenpflicht-gilt](https://www.spiegel.de/politik/deutschland/corona-regeln-in-deutschland-im-ueberblick-wo-noch-die-maskenpflicht-gilt-a-54794768-cafc-4334-b73b-b22e25d7bd0e#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-tigray-dies-ist-aethiopiens-letzte-chance](https://www.spiegel.de/ausland/krieg-in-tigray-dies-ist-aethiopiens-letzte-chance-a-72abe658-0721-4324-8ba4-0109dd9da384#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/politik/deutschland/corona-regeln-in-deutschland-im-ueberblick-wo-noch-die-maskenpflicht-gilt](https://www.spiegel.de/politik/deutschland/corona-regeln-in-deutschland-im-ueberblick-wo-noch-die-maskenpflicht-gilt-a-54794768-cafc-4334-b73b-b22e25d7bd0e#ref=rss)
+* [https://www.spiegel.de/ausland/europa-fluechtender-syrer-an-eu-aussengrenze-angeschossen](https://www.spiegel.de/ausland/europa-fluechtender-syrer-an-eu-aussengrenze-angeschossen-a-cff26758-e3f7-47bd-a274-277dc40c21e2#ref=rss)
+### vorsichtig
+
+* [https://www.spiegel.de/politik/deutschland/corona-regeln-in-deutschland-im-ueberblick-wo-noch-die-maskenpflicht-gilt](https://www.spiegel.de/politik/deutschland/corona-regeln-in-deutschland-im-ueberblick-wo-noch-die-maskenpflicht-gilt-a-54794768-cafc-4334-b73b-b22e25d7bd0e#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-tigray-dies-ist-aethiopiens-letzte-chance](https://www.spiegel.de/ausland/krieg-in-tigray-dies-ist-aethiopiens-letzte-chance-a-72abe658-0721-4324-8ba4-0109dd9da384#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/ausland/tuerkei-abgeordnete-liefern-sich-schlaegerei](https://www.spiegel.de/ausland/tuerkei-abgeordnete-liefern-sich-schlaegerei-a-728c5d08-0cb4-4918-9bb6-1f36dab926a1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rund-20-oeltanker-stauen-sich-offenbar-in-tuerkischen-gewaessern](https://www.spiegel.de/wirtschaft/rund-20-oeltanker-stauen-sich-offenbar-in-tuerkischen-gewaessern-a-f65912b1-e727-4b81-9556-eeefe879f8bf#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/justiz/illerkirchberg-attacke-auf-schuelerinnen-tatverdaechtiger-in-untersuchungshaft](https://www.spiegel.de/panorama/justiz/illerkirchberg-attacke-auf-schuelerinnen-tatverdaechtiger-in-untersuchungshaft-a-09dcdc43-1718-48fb-adc9-11bd5d491294#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/garbsen-kleinkind-von-umstuerzendem-einkaufswagen-toedlich-verletzt-ermittlungen-gegen-die-eltern](https://www.spiegel.de/panorama/justiz/garbsen-kleinkind-von-umstuerzendem-einkaufswagen-toedlich-verletzt-ermittlungen-gegen-die-eltern-a-7ad2c0a0-029b-4063-8f81-b89d1e8e9a12#ref=rss)
+### rupert
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rupert-murdoch-muss-wegen-fox-news-vor-gericht-aussagen](https://www.spiegel.de/wirtschaft/unternehmen/rupert-murdoch-muss-wegen-fox-news-vor-gericht-aussagen-a-7b83affc-911e-480e-bfa2-3918035a355f#ref=rss)
+### murdoch
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rupert-murdoch-muss-wegen-fox-news-vor-gericht-aussagen](https://www.spiegel.de/wirtschaft/unternehmen/rupert-murdoch-muss-wegen-fox-news-vor-gericht-aussagen-a-7b83affc-911e-480e-bfa2-3918035a355f#ref=rss)
+### fox
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rupert-murdoch-muss-wegen-fox-news-vor-gericht-aussagen](https://www.spiegel.de/wirtschaft/unternehmen/rupert-murdoch-muss-wegen-fox-news-vor-gericht-aussagen-a-7b83affc-911e-480e-bfa2-3918035a355f#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rupert-murdoch-muss-wegen-fox-news-vor-gericht-aussagen](https://www.spiegel.de/wirtschaft/unternehmen/rupert-murdoch-muss-wegen-fox-news-vor-gericht-aussagen-a-7b83affc-911e-480e-bfa2-3918035a355f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-ungarn-blockiert-18-milliarden-hilfe-der-eu](https://www.spiegel.de/ausland/ukraine-krieg-ungarn-blockiert-18-milliarden-hilfe-der-eu-a-8c9a7762-c342-412d-86c1-583b62c6efea#ref=rss)
+### mongolei
+
+* [https://www.spiegel.de/ausland/mongolei-videos-zeigen-sturm-auf-regierungspalast](https://www.spiegel.de/ausland/mongolei-videos-zeigen-sturm-auf-regierungspalast-a-8a3e1469-4649-45d8-a244-1978186c2b64#ref=rss)
+### zeigen
+
+* [https://www.spiegel.de/ausland/mongolei-videos-zeigen-sturm-auf-regierungspalast](https://www.spiegel.de/ausland/mongolei-videos-zeigen-sturm-auf-regierungspalast-a-8a3e1469-4649-45d8-a244-1978186c2b64#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken](https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken-a-3042819c-85a0-4801-8506-926fe5998567#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/mongolei-videos-zeigen-sturm-auf-regierungspalast](https://www.spiegel.de/ausland/mongolei-videos-zeigen-sturm-auf-regierungspalast-a-8a3e1469-4649-45d8-a244-1978186c2b64#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken](https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken-a-3042819c-85a0-4801-8506-926fe5998567#ref=rss)
+### antrag
+
+* [https://www.spiegel.de/ausland/kosovo-will-antrag-auf-eu-beitritt-stellen](https://www.spiegel.de/ausland/kosovo-will-antrag-auf-eu-beitritt-stellen-a-00e78d74-08c4-49bf-a426-a4c74e84f1c0#ref=rss)
+### karriere
+
+* [https://www.spiegel.de/sport/fussball/oliver-bierhoff-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/oliver-bierhoff-seine-karriere-in-bildern-a-043bdef9-3005-4fc2-84e6-14cbc39acb2b#ref=rss)
+### bildern
+
+* [https://www.spiegel.de/sport/fussball/oliver-bierhoff-seine-karriere-in-bildern](https://www.spiegel.de/sport/fussball/oliver-bierhoff-seine-karriere-in-bildern-a-043bdef9-3005-4fc2-84e6-14cbc39acb2b#ref=rss)
+### russland
+
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-angriffe-auf-militaerbasen-in-russland-wunderdrohne-oder-museumsstueck](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-angriffe-auf-militaerbasen-in-russland-wunderdrohne-oder-museumsstueck-a-6eec8b96-fb56-43fc-bf7e-8b4dc060eda5#ref=rss)
+### tödlich
+
+* [https://www.spiegel.de/panorama/justiz/garbsen-kleinkind-von-umstuerzendem-einkaufswagen-toedlich-verletzt-ermittlungen-gegen-die-eltern](https://www.spiegel.de/panorama/justiz/garbsen-kleinkind-von-umstuerzendem-einkaufswagen-toedlich-verletzt-ermittlungen-gegen-die-eltern-a-7ad2c0a0-029b-4063-8f81-b89d1e8e9a12#ref=rss)
+### verletzten
+
+* [https://www.spiegel.de/panorama/justiz/garbsen-kleinkind-von-umstuerzendem-einkaufswagen-toedlich-verletzt-ermittlungen-gegen-die-eltern](https://www.spiegel.de/panorama/justiz/garbsen-kleinkind-von-umstuerzendem-einkaufswagen-toedlich-verletzt-ermittlungen-gegen-die-eltern-a-7ad2c0a0-029b-4063-8f81-b89d1e8e9a12#ref=rss)
+### kirstie
+
+* [https://www.spiegel.de/kultur/kirstie-alley-diese-fuenf-filme-und-serien-muessen-sie-kennen](https://www.spiegel.de/kultur/kirstie-alley-diese-fuenf-filme-und-serien-muessen-sie-kennen-a-e96d01db-f193-45fe-8303-572db0604fec#ref=rss)
+### alley
+
+* [https://www.spiegel.de/kultur/kirstie-alley-diese-fuenf-filme-und-serien-muessen-sie-kennen](https://www.spiegel.de/kultur/kirstie-alley-diese-fuenf-filme-und-serien-muessen-sie-kennen-a-e96d01db-f193-45fe-8303-572db0604fec#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/kultur/kirstie-alley-diese-fuenf-filme-und-serien-muessen-sie-kennen](https://www.spiegel.de/kultur/kirstie-alley-diese-fuenf-filme-und-serien-muessen-sie-kennen-a-e96d01db-f193-45fe-8303-572db0604fec#ref=rss)
+### tigray
+
+* [https://www.spiegel.de/ausland/krieg-in-tigray-dies-ist-aethiopiens-letzte-chance](https://www.spiegel.de/ausland/krieg-in-tigray-dies-ist-aethiopiens-letzte-chance-a-72abe658-0721-4324-8ba4-0109dd9da384#ref=rss)
+### mariupol
+
+* [https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken](https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken-a-3042819c-85a0-4801-8506-926fe5998567#ref=rss)
+### theater
+
+* [https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken](https://www.spiegel.de/wissenschaft/mensch/mariupol-in-der-ukraine-satellit-zeigt-wie-russen-das-zerstoerte-theater-verstecken-a-3042819c-85a0-4801-8506-926fe5998567#ref=rss)
+### uniform
+
+* [https://www.spiegel.de/panorama/justiz/bgh-fragwuerdige-symbole-auf-uniform-polizist-muss-foto-veroeffentlichung-dulden](https://www.spiegel.de/panorama/justiz/bgh-fragwuerdige-symbole-auf-uniform-polizist-muss-foto-veroeffentlichung-dulden-a-63f7f10a-1363-485e-95e1-201ebd4aeafc#ref=rss)
+### dänemark
+
+* [https://www.spiegel.de/wissenschaft/daenemark-erste-zulassung-fuer-co2-speicher-im-kampf-gegen-klimakrise](https://www.spiegel.de/wissenschaft/daenemark-erste-zulassung-fuer-co2-speicher-im-kampf-gegen-klimakrise-a-c8397142-d9f1-4a19-91cc-b46cdca9862f#ref=rss)
+### ungarn
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-ungarn-blockiert-18-milliarden-hilfe-der-eu](https://www.spiegel.de/ausland/ukraine-krieg-ungarn-blockiert-18-milliarden-hilfe-der-eu-a-8c9a7762-c342-412d-86c1-583b62c6efea#ref=rss)
 
