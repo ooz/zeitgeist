@@ -4,324 +4,297 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### griner
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022](https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022-a-bbae2f74-5ff2-4f2b-9f38-007d455797cf#ref=rss)
-* [https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler](https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler-a-b609e511-c1d7-4306-be5e-dcb890048c3a#ref=rss)
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-statement-zur-freilassung-von-brittney-griner](https://www.spiegel.de/ausland/us-praesident-joe-biden-statement-zur-freilassung-von-brittney-griner-a-8e4a5310-12bf-459c-b810-d81c8640990d#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/ausland/interview-mit-uno-koordinatorin-fuer-die-ukraine-ein-kompletter-stromausfall-waere-eine-katastrophe](https://www.spiegel.de/ausland/interview-mit-uno-koordinatorin-fuer-die-ukraine-ein-kompletter-stromausfall-waere-eine-katastrophe-a-f9ec3942-c054-4bd0-b358-2a6358f81110#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/obdachlosigkeit-263-000-menschen-in-deutschland-haben-keine-wohnung](https://www.spiegel.de/wirtschaft/soziales/obdachlosigkeit-263-000-menschen-in-deutschland-haben-keine-wohnung-a-e1737d2c-d622-4469-930f-981fa3d8a37c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/einwanderung-von-fachkraeften-wie-ersetzen-wir-die-boomer-podcast](https://www.spiegel.de/politik/deutschland/einwanderung-von-fachkraeften-wie-ersetzen-wir-die-boomer-podcast-a-68d71fa9-0327-43b4-991c-8649995ffe57#ref=rss)
-* [https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel](https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel-a-dc6ff57f-27c9-41ff-8b73-6c7717b1b1eb#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-viertelfinale-wer-hat-jetzt-die-besten-chancen-der-favoritencheck](https://www.spiegel.de/sport/fussball/wm-2022-viertelfinale-wer-hat-jetzt-die-besten-chancen-der-favoritencheck-a-c8dd0cad-9d61-49b9-919e-dfc296444ac5#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/politik/deutschland/prozess-is-rueckkehrerin-zu-dreijaehriger-jugendstrafe-verurteilt](https://www.spiegel.de/politik/deutschland/prozess-is-rueckkehrerin-zu-dreijaehriger-jugendstrafe-verurteilt-a-e57063a0-1636-4ce3-802f-d81b64483799#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirecard-prozess-gegen-markus-braun-in-stadelheim-ihre-derzeitige-anschrift-ist-die-jva-stadelheim-absolut-korrekt](https://www.spiegel.de/wirtschaft/wirecard-prozess-gegen-markus-braun-in-stadelheim-ihre-derzeitige-anschrift-ist-die-jva-stadelheim-absolut-korrekt-a-5fea2f92-e20f-421f-89c9-d04306cf6c1e#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-weltcup-herrmann-wick-holt-ersten-saisonsieg-im-sprint-von-hochfilzen](https://www.spiegel.de/sport/wintersport/biathlon-weltcup-herrmann-wick-holt-ersten-saisonsieg-im-sprint-von-hochfilzen-a-eaf8d918-0eb0-4f14-b627-284d2997414e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/einwanderung-von-fachkraeften-wie-ersetzen-wir-die-boomer-podcast](https://www.spiegel.de/politik/deutschland/einwanderung-von-fachkraeften-wie-ersetzen-wir-die-boomer-podcast-a-68d71fa9-0327-43b4-991c-8649995ffe57#ref=rss)
-* [https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel](https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel-a-dc6ff57f-27c9-41ff-8b73-6c7717b1b1eb#ref=rss)
-### brittney
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022](https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022-a-bbae2f74-5ff2-4f2b-9f38-007d455797cf#ref=rss)
-* [https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler](https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler-a-b609e511-c1d7-4306-be5e-dcb890048c3a#ref=rss)
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-statement-zur-freilassung-von-brittney-griner](https://www.spiegel.de/ausland/us-praesident-joe-biden-statement-zur-freilassung-von-brittney-griner-a-8e4a5310-12bf-459c-b810-d81c8640990d#ref=rss)
-### polizisten
-
-* [https://www.spiegel.de/panorama/justiz/ulm-polizist-soll-hitler-bilder-in-chatgruppen-verbreitet-haben](https://www.spiegel.de/panorama/justiz/ulm-polizist-soll-hitler-bilder-in-chatgruppen-verbreitet-haben-a-999b9df6-6bb4-4355-a66f-2d21a0214915#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai](https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai-a-140cd880-9689-42f6-bb3d-9b3656316de2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher](https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher-a-eb292982-1748-472c-a6c5-c64ded1fb12b#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/interview-mit-uno-koordinatorin-fuer-die-ukraine-ein-kompletter-stromausfall-waere-eine-katastrophe](https://www.spiegel.de/ausland/interview-mit-uno-koordinatorin-fuer-die-ukraine-ein-kompletter-stromausfall-waere-eine-katastrophe-a-f9ec3942-c054-4bd0-b358-2a6358f81110#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/interview-mit-uno-koordinatorin-fuer-die-ukraine-ein-kompletter-stromausfall-waere-eine-katastrophe](https://www.spiegel.de/ausland/interview-mit-uno-koordinatorin-fuer-die-ukraine-ein-kompletter-stromausfall-waere-eine-katastrophe-a-f9ec3942-c054-4bd0-b358-2a6358f81110#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/obdachlosigkeit-263-000-menschen-in-deutschland-haben-keine-wohnung](https://www.spiegel.de/wirtschaft/soziales/obdachlosigkeit-263-000-menschen-in-deutschland-haben-keine-wohnung-a-e1737d2c-d622-4469-930f-981fa3d8a37c#ref=rss)
-### robert
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/robert-habeck-in-afrika-kontinent-der-ewigen-chancen](https://www.spiegel.de/wirtschaft/unternehmen/robert-habeck-in-afrika-kontinent-der-ewigen-chancen-a-f854f092-f73c-4b80-831c-b7ab699409fc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/robert-schneider-kuenftiger-bild-chefredakteur-soll-zum-drogentest](https://www.spiegel.de/wirtschaft/robert-schneider-kuenftiger-bild-chefredakteur-soll-zum-drogentest-a-ade1feda-24d1-4e4d-9775-30b7e07e9d1d#ref=rss)
-### mann
-
-* [https://www.spiegel.de/politik/deutschland/prozess-is-rueckkehrerin-zu-dreijaehriger-jugendstrafe-verurteilt](https://www.spiegel.de/politik/deutschland/prozess-is-rueckkehrerin-zu-dreijaehriger-jugendstrafe-verurteilt-a-e57063a0-1636-4ce3-802f-d81b64483799#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai](https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai-a-140cd880-9689-42f6-bb3d-9b3656316de2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/darknet-der-mann-der-einen-auftragskiller-suchte-muss-viereinhalb-jahre-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/darknet-der-mann-der-einen-auftragskiller-suchte-muss-viereinhalb-jahre-ins-gefaengnis-a-01dcea4c-d7c6-410f-8941-290034817bf2#ref=rss)
-### wm
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022](https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022-a-bbae2f74-5ff2-4f2b-9f38-007d455797cf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-wm-cheforganisator-nach-toedlichem-unglueck-der-tod-ist-ein-natuerlicher-teil-des-lebens](https://www.spiegel.de/sport/fussball/wm-2022-wm-cheforganisator-nach-toedlichem-unglueck-der-tod-ist-ein-natuerlicher-teil-des-lebens-a-f2047985-5ed0-4b28-8273-8f1f590b5bfe#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-viertelfinale-wer-hat-jetzt-die-besten-chancen-der-favoritencheck](https://www.spiegel.de/sport/fussball/wm-2022-viertelfinale-wer-hat-jetzt-die-besten-chancen-der-favoritencheck-a-c8dd0cad-9d61-49b9-919e-dfc296444ac5#ref=rss)
 ### 2022
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022](https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022-a-bbae2f74-5ff2-4f2b-9f38-007d455797cf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-wm-cheforganisator-nach-toedlichem-unglueck-der-tod-ist-ein-natuerlicher-teil-des-lebens](https://www.spiegel.de/sport/fussball/wm-2022-wm-cheforganisator-nach-toedlichem-unglueck-der-tod-ist-ein-natuerlicher-teil-des-lebens-a-f2047985-5ed0-4b28-8273-8f1f590b5bfe#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-viertelfinale-wer-hat-jetzt-die-besten-chancen-der-favoritencheck](https://www.spiegel.de/sport/fussball/wm-2022-viertelfinale-wer-hat-jetzt-die-besten-chancen-der-favoritencheck-a-c8dd0cad-9d61-49b9-919e-dfc296444ac5#ref=rss)
-### wiktor
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022](https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022-a-bbae2f74-5ff2-4f2b-9f38-007d455797cf#ref=rss)
-* [https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler](https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler-a-b609e511-c1d7-4306-be5e-dcb890048c3a#ref=rss)
-### but
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022](https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022-a-bbae2f74-5ff2-4f2b-9f38-007d455797cf#ref=rss)
-* [https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler](https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler-a-b609e511-c1d7-4306-be5e-dcb890048c3a#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai](https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai-a-140cd880-9689-42f6-bb3d-9b3656316de2#ref=rss)
-* [https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei](https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei-a-725a816e-8178-4983-9368-6ca8762a4dac#ref=rss)
-### lange
-
-* [https://www.spiegel.de/ausland/interview-mit-uno-koordinatorin-fuer-die-ukraine-ein-kompletter-stromausfall-waere-eine-katastrophe](https://www.spiegel.de/ausland/interview-mit-uno-koordinatorin-fuer-die-ukraine-ein-kompletter-stromausfall-waere-eine-katastrophe-a-f9ec3942-c054-4bd0-b358-2a6358f81110#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/ukrainische-drohnenangriffe-russlands-loch-im-schutzschirm](https://www.spiegel.de/wissenschaft/technik/ukrainische-drohnenangriffe-russlands-loch-im-schutzschirm-a-a48f4137-d3e3-423c-9831-dfd267d734d4#ref=rss)
-### denise
-
-* [https://www.spiegel.de/ausland/interview-mit-uno-koordinatorin-fuer-die-ukraine-ein-kompletter-stromausfall-waere-eine-katastrophe](https://www.spiegel.de/ausland/interview-mit-uno-koordinatorin-fuer-die-ukraine-ein-kompletter-stromausfall-waere-eine-katastrophe-a-f9ec3942-c054-4bd0-b358-2a6358f81110#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-weltcup-herrmann-wick-holt-ersten-saisonsieg-im-sprint-von-hochfilzen](https://www.spiegel.de/sport/wintersport/biathlon-weltcup-herrmann-wick-holt-ersten-saisonsieg-im-sprint-von-hochfilzen-a-eaf8d918-0eb0-4f14-b627-284d2997414e#ref=rss)
-### russlands
-
-* [https://www.spiegel.de/wissenschaft/technik/ukrainische-drohnenangriffe-russlands-loch-im-schutzschirm](https://www.spiegel.de/wissenschaft/technik/ukrainische-drohnenangriffe-russlands-loch-im-schutzschirm-a-a48f4137-d3e3-423c-9831-dfd267d734d4#ref=rss)
-### strecken
-
-* [https://www.spiegel.de/wissenschaft/technik/ukrainische-drohnenangriffe-russlands-loch-im-schutzschirm](https://www.spiegel.de/wissenschaft/technik/ukrainische-drohnenangriffe-russlands-loch-im-schutzschirm-a-a48f4137-d3e3-423c-9831-dfd267d734d4#ref=rss)
-* [https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel](https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel-a-dc6ff57f-27c9-41ff-8b73-6c7717b1b1eb#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/robert-habeck-in-afrika-kontinent-der-ewigen-chancen](https://www.spiegel.de/wirtschaft/unternehmen/robert-habeck-in-afrika-kontinent-der-ewigen-chancen-a-f854f092-f73c-4b80-831c-b7ab699409fc#ref=rss)
-### afrika
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/robert-habeck-in-afrika-kontinent-der-ewigen-chancen](https://www.spiegel.de/wirtschaft/unternehmen/robert-habeck-in-afrika-kontinent-der-ewigen-chancen-a-f854f092-f73c-4b80-831c-b7ab699409fc#ref=rss)
-### chancen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/robert-habeck-in-afrika-kontinent-der-ewigen-chancen](https://www.spiegel.de/wirtschaft/unternehmen/robert-habeck-in-afrika-kontinent-der-ewigen-chancen-a-f854f092-f73c-4b80-831c-b7ab699409fc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-viertelfinale-wer-hat-jetzt-die-besten-chancen-der-favoritencheck](https://www.spiegel.de/sport/fussball/wm-2022-viertelfinale-wer-hat-jetzt-die-besten-chancen-der-favoritencheck-a-c8dd0cad-9d61-49b9-919e-dfc296444ac5#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/robert-habeck-in-afrika-kontinent-der-ewigen-chancen](https://www.spiegel.de/wirtschaft/unternehmen/robert-habeck-in-afrika-kontinent-der-ewigen-chancen-a-f854f092-f73c-4b80-831c-b7ab699409fc#ref=rss)
-* [https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel](https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel-a-dc6ff57f-27c9-41ff-8b73-6c7717b1b1eb#ref=rss)
-### läuft
-
-* [https://www.spiegel.de/kultur/was-laeuft-im-kino-she-said-weisses-rauschen-an-einem-schoenen-morgen-irrlicht-guillermo-del-toros-pinocchio](https://www.spiegel.de/kultur/was-laeuft-im-kino-she-said-weisses-rauschen-an-einem-schoenen-morgen-irrlicht-guillermo-del-toros-pinocchio-a-1981920d-87d9-4a36-a8a1-306b48704a5d#ref=rss)
-### kino
-
-* [https://www.spiegel.de/kultur/was-laeuft-im-kino-she-said-weisses-rauschen-an-einem-schoenen-morgen-irrlicht-guillermo-del-toros-pinocchio](https://www.spiegel.de/kultur/was-laeuft-im-kino-she-said-weisses-rauschen-an-einem-schoenen-morgen-irrlicht-guillermo-del-toros-pinocchio-a-1981920d-87d9-4a36-a8a1-306b48704a5d#ref=rss)
-### weißes
-
-* [https://www.spiegel.de/kultur/was-laeuft-im-kino-she-said-weisses-rauschen-an-einem-schoenen-morgen-irrlicht-guillermo-del-toros-pinocchio](https://www.spiegel.de/kultur/was-laeuft-im-kino-she-said-weisses-rauschen-an-einem-schoenen-morgen-irrlicht-guillermo-del-toros-pinocchio-a-1981920d-87d9-4a36-a8a1-306b48704a5d#ref=rss)
-### rauschen
-
-* [https://www.spiegel.de/kultur/was-laeuft-im-kino-she-said-weisses-rauschen-an-einem-schoenen-morgen-irrlicht-guillermo-del-toros-pinocchio](https://www.spiegel.de/kultur/was-laeuft-im-kino-she-said-weisses-rauschen-an-einem-schoenen-morgen-irrlicht-guillermo-del-toros-pinocchio-a-1981920d-87d9-4a36-a8a1-306b48704a5d#ref=rss)
-### pinocchio
-
-* [https://www.spiegel.de/kultur/was-laeuft-im-kino-she-said-weisses-rauschen-an-einem-schoenen-morgen-irrlicht-guillermo-del-toros-pinocchio](https://www.spiegel.de/kultur/was-laeuft-im-kino-she-said-weisses-rauschen-an-einem-schoenen-morgen-irrlicht-guillermo-del-toros-pinocchio-a-1981920d-87d9-4a36-a8a1-306b48704a5d#ref=rss)
-### netflix
-
-* [https://www.spiegel.de/kultur/was-laeuft-im-kino-she-said-weisses-rauschen-an-einem-schoenen-morgen-irrlicht-guillermo-del-toros-pinocchio](https://www.spiegel.de/kultur/was-laeuft-im-kino-she-said-weisses-rauschen-an-einem-schoenen-morgen-irrlicht-guillermo-del-toros-pinocchio-a-1981920d-87d9-4a36-a8a1-306b48704a5d#ref=rss)
-* [https://www.spiegel.de/kultur/harry-und-meghan-bei-netflix-ausgestellte-kuschelseligkeit](https://www.spiegel.de/kultur/harry-und-meghan-bei-netflix-ausgestellte-kuschelseligkeit-a-ad8dbb9a-8f33-4f26-b095-5591ab04d320#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/soziales/obdachlosigkeit-263-000-menschen-in-deutschland-haben-keine-wohnung](https://www.spiegel.de/wirtschaft/soziales/obdachlosigkeit-263-000-menschen-in-deutschland-haben-keine-wohnung-a-e1737d2c-d622-4469-930f-981fa3d8a37c#ref=rss)
-### leben
-
-* [https://www.spiegel.de/wirtschaft/soziales/obdachlosigkeit-263-000-menschen-in-deutschland-haben-keine-wohnung](https://www.spiegel.de/wirtschaft/soziales/obdachlosigkeit-263-000-menschen-in-deutschland-haben-keine-wohnung-a-e1737d2c-d622-4469-930f-981fa3d8a37c#ref=rss)
-* [https://www.spiegel.de/kultur/harry-und-meghan-bei-netflix-ausgestellte-kuschelseligkeit](https://www.spiegel.de/kultur/harry-und-meghan-bei-netflix-ausgestellte-kuschelseligkeit-a-ad8dbb9a-8f33-4f26-b095-5591ab04d320#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/wirtschaft/soziales/obdachlosigkeit-263-000-menschen-in-deutschland-haben-keine-wohnung](https://www.spiegel.de/wirtschaft/soziales/obdachlosigkeit-263-000-menschen-in-deutschland-haben-keine-wohnung-a-e1737d2c-d622-4469-930f-981fa3d8a37c#ref=rss)
-* [https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei](https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei-a-725a816e-8178-4983-9368-6ca8762a4dac#ref=rss)
-### geben
-
-* [https://www.spiegel.de/wirtschaft/soziales/obdachlosigkeit-263-000-menschen-in-deutschland-haben-keine-wohnung](https://www.spiegel.de/wirtschaft/soziales/obdachlosigkeit-263-000-menschen-in-deutschland-haben-keine-wohnung-a-e1737d2c-d622-4469-930f-981fa3d8a37c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/darknet-der-mann-der-einen-auftragskiller-suchte-muss-viereinhalb-jahre-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/darknet-der-mann-der-einen-auftragskiller-suchte-muss-viereinhalb-jahre-ins-gefaengnis-a-01dcea4c-d7c6-410f-8941-290034817bf2#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wissenschaft/eu-droht-beim-aktionsplan-null-schadstoffe-eigene-ziele-zu-verfehlen](https://www.spiegel.de/wissenschaft/eu-droht-beim-aktionsplan-null-schadstoffe-eigene-ziele-zu-verfehlen-a-aa2dcf46-248b-4b92-90db-14974d1ac7a7#ref=rss)
-### droht
-
-* [https://www.spiegel.de/wissenschaft/eu-droht-beim-aktionsplan-null-schadstoffe-eigene-ziele-zu-verfehlen](https://www.spiegel.de/wissenschaft/eu-droht-beim-aktionsplan-null-schadstoffe-eigene-ziele-zu-verfehlen-a-aa2dcf46-248b-4b92-90db-14974d1ac7a7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/sono-motors-geht-geld-fuer-solarauto-projekt-aus](https://www.spiegel.de/wirtschaft/unternehmen/sono-motors-geht-geld-fuer-solarauto-projekt-aus-a-6a9eb3b0-f3ba-4aac-be2b-c12f27fa4065#ref=rss)
-### schadstoffe
-
-* [https://www.spiegel.de/wissenschaft/eu-droht-beim-aktionsplan-null-schadstoffe-eigene-ziele-zu-verfehlen](https://www.spiegel.de/wissenschaft/eu-droht-beim-aktionsplan-null-schadstoffe-eigene-ziele-zu-verfehlen-a-aa2dcf46-248b-4b92-90db-14974d1ac7a7#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/wissenschaft/eu-droht-beim-aktionsplan-null-schadstoffe-eigene-ziele-zu-verfehlen](https://www.spiegel.de/wissenschaft/eu-droht-beim-aktionsplan-null-schadstoffe-eigene-ziele-zu-verfehlen-a-aa2dcf46-248b-4b92-90db-14974d1ac7a7#ref=rss)
-* [https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel](https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel-a-dc6ff57f-27c9-41ff-8b73-6c7717b1b1eb#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/politik/deutschland/prozess-is-rueckkehrerin-zu-dreijaehriger-jugendstrafe-verurteilt](https://www.spiegel.de/politik/deutschland/prozess-is-rueckkehrerin-zu-dreijaehriger-jugendstrafe-verurteilt-a-e57063a0-1636-4ce3-802f-d81b64483799#ref=rss)
-### geworben
-
-* [https://www.spiegel.de/politik/deutschland/prozess-is-rueckkehrerin-zu-dreijaehriger-jugendstrafe-verurteilt](https://www.spiegel.de/politik/deutschland/prozess-is-rueckkehrerin-zu-dreijaehriger-jugendstrafe-verurteilt-a-e57063a0-1636-4ce3-802f-d81b64483799#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher](https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher-a-eb292982-1748-472c-a6c5-c64ded1fb12b#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/politik/deutschland/prozess-is-rueckkehrerin-zu-dreijaehriger-jugendstrafe-verurteilt](https://www.spiegel.de/politik/deutschland/prozess-is-rueckkehrerin-zu-dreijaehriger-jugendstrafe-verurteilt-a-e57063a0-1636-4ce3-802f-d81b64483799#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/darknet-der-mann-der-einen-auftragskiller-suchte-muss-viereinhalb-jahre-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/darknet-der-mann-der-einen-auftragskiller-suchte-muss-viereinhalb-jahre-ins-gefaengnis-a-01dcea4c-d7c6-410f-8941-290034817bf2#ref=rss)
-### maskenpflicht
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022](https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022-a-bbae2f74-5ff2-4f2b-9f38-007d455797cf#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022](https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022-a-bbae2f74-5ff2-4f2b-9f38-007d455797cf#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/darknet-der-mann-der-einen-auftragskiller-suchte-muss-viereinhalb-jahre-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/darknet-der-mann-der-einen-auftragskiller-suchte-muss-viereinhalb-jahre-ins-gefaengnis-a-01dcea4c-d7c6-410f-8941-290034817bf2#ref=rss)
-### katar
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022](https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022-a-bbae2f74-5ff2-4f2b-9f38-007d455797cf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-wm-cheforganisator-nach-toedlichem-unglueck-der-tod-ist-ein-natuerlicher-teil-des-lebens](https://www.spiegel.de/sport/fussball/wm-2022-wm-cheforganisator-nach-toedlichem-unglueck-der-tod-ist-ein-natuerlicher-teil-des-lebens-a-f2047985-5ed0-4b28-8273-8f1f590b5bfe#ref=rss)
-### weiterer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022](https://www.spiegel.de/politik/deutschland/news-des-tages-brittney-griner-maskenpflicht-wm-2022-a-bbae2f74-5ff2-4f2b-9f38-007d455797cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher](https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher-a-eb292982-1748-472c-a6c5-c64ded1fb12b#ref=rss)
-### ulm
-
-* [https://www.spiegel.de/panorama/justiz/ulm-polizist-soll-hitler-bilder-in-chatgruppen-verbreitet-haben](https://www.spiegel.de/panorama/justiz/ulm-polizist-soll-hitler-bilder-in-chatgruppen-verbreitet-haben-a-999b9df6-6bb4-4355-a66f-2d21a0214915#ref=rss)
-### beamte
-
-* [https://www.spiegel.de/panorama/justiz/ulm-polizist-soll-hitler-bilder-in-chatgruppen-verbreitet-haben](https://www.spiegel.de/panorama/justiz/ulm-polizist-soll-hitler-bilder-in-chatgruppen-verbreitet-haben-a-999b9df6-6bb4-4355-a66f-2d21a0214915#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai](https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai-a-140cd880-9689-42f6-bb3d-9b3656316de2#ref=rss)
-### schneider
-
-* [https://www.spiegel.de/wirtschaft/robert-schneider-kuenftiger-bild-chefredakteur-soll-zum-drogentest](https://www.spiegel.de/wirtschaft/robert-schneider-kuenftiger-bild-chefredakteur-soll-zum-drogentest-a-ade1feda-24d1-4e4d-9775-30b7e07e9d1d#ref=rss)
-### spiegelinformationen
-
-* [https://www.spiegel.de/wirtschaft/robert-schneider-kuenftiger-bild-chefredakteur-soll-zum-drogentest](https://www.spiegel.de/wirtschaft/robert-schneider-kuenftiger-bild-chefredakteur-soll-zum-drogentest-a-ade1feda-24d1-4e4d-9775-30b7e07e9d1d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher](https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher-a-eb292982-1748-472c-a6c5-c64ded1fb12b#ref=rss)
-### harry
-
-* [https://www.spiegel.de/kultur/harry-und-meghan-bei-netflix-ausgestellte-kuschelseligkeit](https://www.spiegel.de/kultur/harry-und-meghan-bei-netflix-ausgestellte-kuschelseligkeit-a-ad8dbb9a-8f33-4f26-b095-5591ab04d320#ref=rss)
-### meghan
-
-* [https://www.spiegel.de/kultur/harry-und-meghan-bei-netflix-ausgestellte-kuschelseligkeit](https://www.spiegel.de/kultur/harry-und-meghan-bei-netflix-ausgestellte-kuschelseligkeit-a-ad8dbb9a-8f33-4f26-b095-5591ab04d320#ref=rss)
-### mannheim
-
-* [https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai](https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai-a-140cd880-9689-42f6-bb3d-9b3656316de2#ref=rss)
-### anklage
-
-* [https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai](https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai-a-140cd880-9689-42f6-bb3d-9b3656316de2#ref=rss)
-### tod
-
-* [https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai](https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai-a-140cd880-9689-42f6-bb3d-9b3656316de2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-wm-cheforganisator-nach-toedlichem-unglueck-der-tod-ist-ein-natuerlicher-teil-des-lebens](https://www.spiegel.de/sport/fussball/wm-2022-wm-cheforganisator-nach-toedlichem-unglueck-der-tod-ist-ein-natuerlicher-teil-des-lebens-a-f2047985-5ed0-4b28-8273-8f1f590b5bfe#ref=rss)
-### mai
-
-* [https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai](https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai-a-140cd880-9689-42f6-bb3d-9b3656316de2#ref=rss)
-### anfang
-
-* [https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai](https://www.spiegel.de/panorama/justiz/mannheim-anklage-gegen-zwei-polizisten-nach-tod-eines-mannes-bei-einsatz-im-mai-a-140cd880-9689-42f6-bb3d-9b3656316de2#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fehlende-genehmigungen-start-von-lng-terminal-lubmins-verzoegert-sich](https://www.spiegel.de/wirtschaft/fehlende-genehmigungen-start-von-lng-terminal-lubmins-verzoegert-sich-a-1e139a3e-cc8f-43cc-99df-bb9906e457b7#ref=rss)
-### markus
-
-* [https://www.spiegel.de/wirtschaft/wirecard-prozess-gegen-markus-braun-in-stadelheim-ihre-derzeitige-anschrift-ist-die-jva-stadelheim-absolut-korrekt](https://www.spiegel.de/wirtschaft/wirecard-prozess-gegen-markus-braun-in-stadelheim-ihre-derzeitige-anschrift-ist-die-jva-stadelheim-absolut-korrekt-a-5fea2f92-e20f-421f-89c9-d04306cf6c1e#ref=rss)
-### braun
-
-* [https://www.spiegel.de/wirtschaft/wirecard-prozess-gegen-markus-braun-in-stadelheim-ihre-derzeitige-anschrift-ist-die-jva-stadelheim-absolut-korrekt](https://www.spiegel.de/wirtschaft/wirecard-prozess-gegen-markus-braun-in-stadelheim-ihre-derzeitige-anschrift-ist-die-jva-stadelheim-absolut-korrekt-a-5fea2f92-e20f-421f-89c9-d04306cf6c1e#ref=rss)
-### stadelheim
-
-* [https://www.spiegel.de/wirtschaft/wirecard-prozess-gegen-markus-braun-in-stadelheim-ihre-derzeitige-anschrift-ist-die-jva-stadelheim-absolut-korrekt](https://www.spiegel.de/wirtschaft/wirecard-prozess-gegen-markus-braun-in-stadelheim-ihre-derzeitige-anschrift-ist-die-jva-stadelheim-absolut-korrekt-a-5fea2f92-e20f-421f-89c9-d04306cf6c1e#ref=rss)
-### austausch
-
-* [https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler](https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler-a-b609e511-c1d7-4306-be5e-dcb890048c3a#ref=rss)
-### waffenhändler
-
-* [https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler](https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler-a-b609e511-c1d7-4306-be5e-dcb890048c3a#ref=rss)
-### haft
-
-* [https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler](https://www.spiegel.de/ausland/wiktor-but-wer-ist-der-im-austausch-fuer-brittney-griner-freigelassene-waffenhaendler-a-b609e511-c1d7-4306-be5e-dcb890048c3a#ref=rss)
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-statement-zur-freilassung-von-brittney-griner](https://www.spiegel.de/ausland/us-praesident-joe-biden-statement-zur-freilassung-von-brittney-griner-a-8e4a5310-12bf-459c-b810-d81c8640990d#ref=rss)
-### start
-
-* [https://www.spiegel.de/wirtschaft/fehlende-genehmigungen-start-von-lng-terminal-lubmins-verzoegert-sich](https://www.spiegel.de/wirtschaft/fehlende-genehmigungen-start-von-lng-terminal-lubmins-verzoegert-sich-a-1e139a3e-cc8f-43cc-99df-bb9906e457b7#ref=rss)
-### lubmin
-
-* [https://www.spiegel.de/wirtschaft/fehlende-genehmigungen-start-von-lng-terminal-lubmins-verzoegert-sich](https://www.spiegel.de/wirtschaft/fehlende-genehmigungen-start-von-lng-terminal-lubmins-verzoegert-sich-a-1e139a3e-cc8f-43cc-99df-bb9906e457b7#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/wirtschaft/fehlende-genehmigungen-start-von-lng-terminal-lubmins-verzoegert-sich](https://www.spiegel.de/wirtschaft/fehlende-genehmigungen-start-von-lng-terminal-lubmins-verzoegert-sich-a-1e139a3e-cc8f-43cc-99df-bb9906e457b7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/sono-motors-geht-geld-fuer-solarauto-projekt-aus](https://www.spiegel.de/wirtschaft/unternehmen/sono-motors-geht-geld-fuer-solarauto-projekt-aus-a-6a9eb3b0-f3ba-4aac-be2b-c12f27fa4065#ref=rss)
-### mutmaßliche
-
-* [https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher](https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher-a-eb292982-1748-472c-a6c5-c64ded1fb12b#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher](https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher-a-eb292982-1748-472c-a6c5-c64ded1fb12b#ref=rss)
-### unterstützung
-
-* [https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher](https://www.spiegel.de/politik/deutschland/schlag-gegen-mutmassliche-reichsbuerger-terrortruppe-ermittler-stellen-waffen-und-viel-bargeld-sicher-a-eb292982-1748-472c-a6c5-c64ded1fb12b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-viertelfinale-wer-hat-jetzt-die-besten-chancen-der-favoritencheck](https://www.spiegel.de/sport/fussball/wm-2022-viertelfinale-wer-hat-jetzt-die-besten-chancen-der-favoritencheck-a-c8dd0cad-9d61-49b9-919e-dfc296444ac5#ref=rss)
-### herrmannwick
-
-* [https://www.spiegel.de/sport/wintersport/biathlon-weltcup-herrmann-wick-holt-ersten-saisonsieg-im-sprint-von-hochfilzen](https://www.spiegel.de/sport/wintersport/biathlon-weltcup-herrmann-wick-holt-ersten-saisonsieg-im-sprint-von-hochfilzen-a-eaf8d918-0eb0-4f14-b627-284d2997414e#ref=rss)
-### sprint
-
-* [https://www.spiegel.de/sport/wintersport/biathlon-weltcup-herrmann-wick-holt-ersten-saisonsieg-im-sprint-von-hochfilzen](https://www.spiegel.de/sport/wintersport/biathlon-weltcup-herrmann-wick-holt-ersten-saisonsieg-im-sprint-von-hochfilzen-a-eaf8d918-0eb0-4f14-b627-284d2997414e#ref=rss)
-### sono
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sono-motors-geht-geld-fuer-solarauto-projekt-aus](https://www.spiegel.de/wirtschaft/unternehmen/sono-motors-geht-geld-fuer-solarauto-projekt-aus-a-6a9eb3b0-f3ba-4aac-be2b-c12f27fa4065#ref=rss)
-### motors
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sono-motors-geht-geld-fuer-solarauto-projekt-aus](https://www.spiegel.de/wirtschaft/unternehmen/sono-motors-geht-geld-fuer-solarauto-projekt-aus-a-6a9eb3b0-f3ba-4aac-be2b-c12f27fa4065#ref=rss)
-### kraft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/sono-motors-geht-geld-fuer-solarauto-projekt-aus](https://www.spiegel.de/wirtschaft/unternehmen/sono-motors-geht-geld-fuer-solarauto-projekt-aus-a-6a9eb3b0-f3ba-4aac-be2b-c12f27fa4065#ref=rss)
-* [https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel](https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel-a-dc6ff57f-27c9-41ff-8b73-6c7717b1b1eb#ref=rss)
-### darknet
-
-* [https://www.spiegel.de/panorama/justiz/darknet-der-mann-der-einen-auftragskiller-suchte-muss-viereinhalb-jahre-ins-gefaengnis](https://www.spiegel.de/panorama/justiz/darknet-der-mann-der-einen-auftragskiller-suchte-muss-viereinhalb-jahre-ins-gefaengnis-a-01dcea4c-d7c6-410f-8941-290034817bf2#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/christian-lindner-will-koalitions-image-aufpolieren-der-bundeshaushalt-wird-woke](https://www.spiegel.de/politik/christian-lindner-will-koalitions-image-aufpolieren-der-bundeshaushalt-wird-woke-a-bca1b5d2-a631-4aae-aff8-3e5d68f6a482#ref=rss)
-### darauf
-
-* [https://www.spiegel.de/politik/christian-lindner-will-koalitions-image-aufpolieren-der-bundeshaushalt-wird-woke](https://www.spiegel.de/politik/christian-lindner-will-koalitions-image-aufpolieren-der-bundeshaushalt-wird-woke-a-bca1b5d2-a631-4aae-aff8-3e5d68f6a482#ref=rss)
-* [https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei](https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei-a-725a816e-8178-4983-9368-6ca8762a4dac#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel](https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel-a-dc6ff57f-27c9-41ff-8b73-6c7717b1b1eb#ref=rss)
-### tritt
-
-* [https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel](https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel-a-dc6ff57f-27c9-41ff-8b73-6c7717b1b1eb#ref=rss)
-* [https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei](https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei-a-725a816e-8178-4983-9368-6ca8762a4dac#ref=rss)
-### neue
-
-* [https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel](https://www.spiegel.de/reise/deutsche-bahn-hoehere-preise-mehr-zuege-das-aendert-sich-zum-fahrplanwechsel-a-dc6ff57f-27c9-41ff-8b73-6c7717b1b1eb#ref=rss)
-### länder
-
-* [https://www.spiegel.de/politik/deutschland/laender-sehen-klaerungsbedarf-beim-deutschlandticket](https://www.spiegel.de/politik/deutschland/laender-sehen-klaerungsbedarf-beim-deutschlandticket-a-2713492d-d08d-48bf-a04c-83f303977038#ref=rss)
-* [https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei](https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei-a-725a816e-8178-4983-9368-6ca8762a4dac#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-cristiano-ronaldo-darum-ist-er-kein-weltklassestuermer-mehr](https://www.spiegel.de/sport/fussball/wm-2022-cristiano-ronaldo-darum-ist-er-kein-weltklassestuermer-mehr-a-d199e141-e0d2-4479-befe-39fb9b907e6a#ref=rss)
+* [https://www.spiegel.de/kultur/zeitenwende-ist-das-wort-des-jahres-2022](https://www.spiegel.de/kultur/zeitenwende-ist-das-wort-des-jahres-2022-a-f1135c68-93d5-46c1-b055-fd9262c689e0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-te-amo-kolumne](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-te-amo-kolumne-a-8505d7ec-bac1-4a17-9e8f-64d658cceb64#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-marokkos-ex-wm-held-abderrazak-khairi-haelt-finaleinzug-fuer-moeglich](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-marokkos-ex-wm-held-abderrazak-khairi-haelt-finaleinzug-fuer-moeglich-a-8b60dd35-ae87-41fe-af3e-35355c9a9764#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-cristiano-ronaldo-darum-ist-er-kein-weltklassestuermer-mehr](https://www.spiegel.de/sport/fussball/wm-2022-cristiano-ronaldo-darum-ist-er-kein-weltklassestuermer-mehr-a-d199e141-e0d2-4479-befe-39fb9b907e6a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/jeder-vierte-bleibt-im-homeoffice](https://www.spiegel.de/wirtschaft/service/jeder-vierte-bleibt-im-homeoffice-a-3b034966-3027-457e-8fd6-6139327b4b3d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-csu-fordert-von-gruenen-mehr-tempo-bei-der-einwanderung](https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-csu-fordert-von-gruenen-mehr-tempo-bei-der-einwanderung-a-8372242d-5dc1-4296-8a53-1626615a0b83#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-der-staat-wird-seinem-bildungsauftrag-nicht-mehr-fuer-alle-kinder-gerecht](https://www.spiegel.de/panorama/bildung/bildung-der-staat-wird-seinem-bildungsauftrag-nicht-mehr-fuer-alle-kinder-gerecht-a-90b118fe-b3b2-4e53-956d-340aa270e7cb#ref=rss)
+* [https://www.spiegel.de/panorama/pennsylvania-identitaet-des-boy-in-the-box-aus-philadelphia-nach-mehr-als-60-jahren-geklaert](https://www.spiegel.de/panorama/pennsylvania-identitaet-des-boy-in-the-box-aus-philadelphia-nach-mehr-als-60-jahren-geklaert-a-5e7cb7d4-b5d1-4763-bccf-c8f3b69b7952#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-cristiano-ronaldo-darum-ist-er-kein-weltklassestuermer-mehr](https://www.spiegel.de/sport/fussball/wm-2022-cristiano-ronaldo-darum-ist-er-kein-weltklassestuermer-mehr-a-d199e141-e0d2-4479-befe-39fb9b907e6a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-te-amo-kolumne](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-te-amo-kolumne-a-8505d7ec-bac1-4a17-9e8f-64d658cceb64#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-marokkos-ex-wm-held-abderrazak-khairi-haelt-finaleinzug-fuer-moeglich](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-marokkos-ex-wm-held-abderrazak-khairi-haelt-finaleinzug-fuer-moeglich-a-8b60dd35-ae87-41fe-af3e-35355c9a9764#ref=rss)
+### usa
+
+* [https://www.spiegel.de/panorama/kalifornien-maedchen-aus-den-usa-bekommt-permanente-einhorn-lizenz](https://www.spiegel.de/panorama/kalifornien-maedchen-aus-den-usa-bekommt-permanente-einhorn-lizenz-a-c6f7b7b9-5b6a-49f6-95c4-2f787b6168d3#ref=rss)
+* [https://www.spiegel.de/panorama/pennsylvania-identitaet-des-boy-in-the-box-aus-philadelphia-nach-mehr-als-60-jahren-geklaert](https://www.spiegel.de/panorama/pennsylvania-identitaet-des-boy-in-the-box-aus-philadelphia-nach-mehr-als-60-jahren-geklaert-a-5e7cb7d4-b5d1-4763-bccf-c8f3b69b7952#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nick-carter-frau-beschuldigt-saenger-der-backstreet-boys-der-vergewaltigung](https://www.spiegel.de/panorama/justiz/nick-carter-frau-beschuldigt-saenger-der-backstreet-boys-der-vergewaltigung-a-abbdc55f-6ec6-4c05-9722-01e55193d246#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/brittney-griner-freigelassen-kalter-krieg-in-abu-dhabi](https://www.spiegel.de/ausland/brittney-griner-freigelassen-kalter-krieg-in-abu-dhabi-a-8449aad3-630a-469a-97ff-3c9ad794a810#ref=rss)
+* [https://www.spiegel.de/kultur/zeitenwende-ist-das-wort-des-jahres-2022](https://www.spiegel.de/kultur/zeitenwende-ist-das-wort-des-jahres-2022-a-f1135c68-93d5-46c1-b055-fd9262c689e0#ref=rss)
+### kam
+
+* [https://www.spiegel.de/ausland/athen-schwere-ausschreitungen-von-roma-in-griechenland](https://www.spiegel.de/ausland/athen-schwere-ausschreitungen-von-roma-in-griechenland-a-70fdffa7-40f1-4a98-8e3a-6a66ef1e805d#ref=rss)
+* [https://www.spiegel.de/ausland/us-diplomatengattin-wegen-toedlichen-autounfalls-verurteilt](https://www.spiegel.de/ausland/us-diplomatengattin-wegen-toedlichen-autounfalls-verurteilt-a-d47fdbbf-6130-4ef2-a156-1349c96bc4de#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/125-000-haushalte-betroffen-grossflaechiger-stromausfall-in-paris](https://www.spiegel.de/wirtschaft/service/125-000-haushalte-betroffen-grossflaechiger-stromausfall-in-paris-a-a8efe4a5-f1fe-4055-8676-802120a4f0cd#ref=rss)
+### kommen
+
+* [https://www.spiegel.de/wissenschaft/weltall/geminiden-und-ursiden-die-weihnachts-sternschnuppen-kommen](https://www.spiegel.de/wissenschaft/weltall/geminiden-und-ursiden-die-weihnachts-sternschnuppen-kommen-a-0354acf1-eddc-427b-b8e2-3beca9f8f4f6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/jeder-vierte-bleibt-im-homeoffice](https://www.spiegel.de/wirtschaft/service/jeder-vierte-bleibt-im-homeoffice-a-3b034966-3027-457e-8fd6-6139327b4b3d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-der-staat-wird-seinem-bildungsauftrag-nicht-mehr-fuer-alle-kinder-gerecht](https://www.spiegel.de/panorama/bildung/bildung-der-staat-wird-seinem-bildungsauftrag-nicht-mehr-fuer-alle-kinder-gerecht-a-90b118fe-b3b2-4e53-956d-340aa270e7cb#ref=rss)
+### viele
+
+* [https://www.spiegel.de/wissenschaft/weltall/geminiden-und-ursiden-die-weihnachts-sternschnuppen-kommen](https://www.spiegel.de/wissenschaft/weltall/geminiden-und-ursiden-die-weihnachts-sternschnuppen-kommen-a-0354acf1-eddc-427b-b8e2-3beca9f8f4f6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/pilot-projekt-in-dueren-koelner-verlag-wirft-zeitungen-per-drohne-ab](https://www.spiegel.de/wirtschaft/service/pilot-projekt-in-dueren-koelner-verlag-wirft-zeitungen-per-drohne-ab-a-11ed9386-29a8-424d-b18d-99c8c1e69020#ref=rss)
+* [https://www.spiegel.de/auto/smart-1-im-fahrtest-ploetzlich-suv-statt-zweisitzer-kann-das-funktionieren](https://www.spiegel.de/auto/smart-1-im-fahrtest-ploetzlich-suv-statt-zweisitzer-kann-das-funktionieren-a-aa303be4-8307-4f32-9fc9-bfff6746a1d7#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/wissenschaft/weltall/geminiden-und-ursiden-die-weihnachts-sternschnuppen-kommen](https://www.spiegel.de/wissenschaft/weltall/geminiden-und-ursiden-die-weihnachts-sternschnuppen-kommen-a-0354acf1-eddc-427b-b8e2-3beca9f8f4f6#ref=rss)
+* [https://www.spiegel.de/kultur/zeitenwende-ist-das-wort-des-jahres-2022](https://www.spiegel.de/kultur/zeitenwende-ist-das-wort-des-jahres-2022-a-f1135c68-93d5-46c1-b055-fd9262c689e0#ref=rss)
+### euro
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro](https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro-a-bd24ba0d-1e57-423a-9c0a-7bc96b15d827#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro](https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro-a-2855ca1c-5c71-4e1a-939a-69c828e5b3c2#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk](https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk-a-28b3537e-769d-40d8-aa95-39f3dda3bc10#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/staedte-und-gemeinden-fordern-schnelle-einfuehrung-des-49-euro-tickets](https://www.spiegel.de/wirtschaft/service/staedte-und-gemeinden-fordern-schnelle-einfuehrung-des-49-euro-tickets-a-f407b528-fbf8-42f5-9cb4-0ee48014b1f2#ref=rss)
+* [https://www.spiegel.de/auto/smart-1-im-fahrtest-ploetzlich-suv-statt-zweisitzer-kann-das-funktionieren](https://www.spiegel.de/auto/smart-1-im-fahrtest-ploetzlich-suv-statt-zweisitzer-kann-das-funktionieren-a-aa303be4-8307-4f32-9fc9-bfff6746a1d7#ref=rss)
 ### sehen
 
-* [https://www.spiegel.de/politik/deutschland/laender-sehen-klaerungsbedarf-beim-deutschlandticket](https://www.spiegel.de/politik/deutschland/laender-sehen-klaerungsbedarf-beim-deutschlandticket-a-2713492d-d08d-48bf-a04c-83f303977038#ref=rss)
-* [https://www.spiegel.de/wissenschaft/polarlichter-bunte-naechte](https://www.spiegel.de/wissenschaft/polarlichter-bunte-naechte-a-ef36a234-88e0-49eb-be8b-7fdc047d329e#ref=rss)
-### wmcheforganisator
+* [https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro](https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro-a-2855ca1c-5c71-4e1a-939a-69c828e5b3c2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fdp-scheitert-verfassungsgericht-macht-weg-fuer-deutsche-zustimmung-zu-esm-reform-frei](https://www.spiegel.de/wirtschaft/fdp-scheitert-verfassungsgericht-macht-weg-fuer-deutsche-zustimmung-zu-esm-reform-frei-a-b2901d39-13b0-423d-a14d-598b16ff8e4b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-te-amo-kolumne](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-te-amo-kolumne-a-8505d7ec-bac1-4a17-9e8f-64d658cceb64#ref=rss)
+### ich
 
-* [https://www.spiegel.de/sport/fussball/wm-2022-wm-cheforganisator-nach-toedlichem-unglueck-der-tod-ist-ein-natuerlicher-teil-des-lebens](https://www.spiegel.de/sport/fussball/wm-2022-wm-cheforganisator-nach-toedlichem-unglueck-der-tod-ist-ein-natuerlicher-teil-des-lebens-a-f2047985-5ed0-4b28-8273-8f1f590b5bfe#ref=rss)
-### polarlichter
+* [https://www.spiegel.de/panorama/kalifornien-maedchen-aus-den-usa-bekommt-permanente-einhorn-lizenz](https://www.spiegel.de/panorama/kalifornien-maedchen-aus-den-usa-bekommt-permanente-einhorn-lizenz-a-c6f7b7b9-5b6a-49f6-95c4-2f787b6168d3#ref=rss)
+### brittney
 
-* [https://www.spiegel.de/wissenschaft/polarlichter-bunte-naechte](https://www.spiegel.de/wissenschaft/polarlichter-bunte-naechte-a-ef36a234-88e0-49eb-be8b-7fdc047d329e#ref=rss)
-### joe
+* [https://www.spiegel.de/ausland/brittney-griner-freigelassen-kalter-krieg-in-abu-dhabi](https://www.spiegel.de/ausland/brittney-griner-freigelassen-kalter-krieg-in-abu-dhabi-a-8449aad3-630a-469a-97ff-3c9ad794a810#ref=rss)
+### griner
 
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-statement-zur-freilassung-von-brittney-griner](https://www.spiegel.de/ausland/us-praesident-joe-biden-statement-zur-freilassung-von-brittney-griner-a-8e4a5310-12bf-459c-b810-d81c8640990d#ref=rss)
-### biden
+* [https://www.spiegel.de/ausland/brittney-griner-freigelassen-kalter-krieg-in-abu-dhabi](https://www.spiegel.de/ausland/brittney-griner-freigelassen-kalter-krieg-in-abu-dhabi-a-8449aad3-630a-469a-97ff-3c9ad794a810#ref=rss)
+### abu
 
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-statement-zur-freilassung-von-brittney-griner](https://www.spiegel.de/ausland/us-praesident-joe-biden-statement-zur-freilassung-von-brittney-griner-a-8e4a5310-12bf-459c-b810-d81c8640990d#ref=rss)
-### freilassung
+* [https://www.spiegel.de/ausland/brittney-griner-freigelassen-kalter-krieg-in-abu-dhabi](https://www.spiegel.de/ausland/brittney-griner-freigelassen-kalter-krieg-in-abu-dhabi-a-8449aad3-630a-469a-97ff-3c9ad794a810#ref=rss)
+### dhabi
 
-* [https://www.spiegel.de/ausland/us-praesident-joe-biden-statement-zur-freilassung-von-brittney-griner](https://www.spiegel.de/ausland/us-praesident-joe-biden-statement-zur-freilassung-von-brittney-griner-a-8e4a5310-12bf-459c-b810-d81c8640990d#ref=rss)
-### soldatin
+* [https://www.spiegel.de/ausland/brittney-griner-freigelassen-kalter-krieg-in-abu-dhabi](https://www.spiegel.de/ausland/brittney-griner-freigelassen-kalter-krieg-in-abu-dhabi-a-8449aad3-630a-469a-97ff-3c9ad794a810#ref=rss)
+### kuhle
 
-* [https://www.spiegel.de/panorama/justiz/berlin-soldatin-soll-als-dj-gearbeitet-haben-trotz-verbot-und-krankschreibung](https://www.spiegel.de/panorama/justiz/berlin-soldatin-soll-als-dj-gearbeitet-haben-trotz-verbot-und-krankschreibung-a-9a865771-b7d3-474b-b639-179ebb08f9dc#ref=rss)
-### dj
+* [https://www.spiegel.de/politik/deutschland/konstantin-kuhle-fdp-fordert-pruefung-des-bundestagszugangs-fuer-ex-afd-abgeordnete](https://www.spiegel.de/politik/deutschland/konstantin-kuhle-fdp-fordert-pruefung-des-bundestagszugangs-fuer-ex-afd-abgeordnete-a-cafc91e1-6635-41b1-942b-3c9d100908ec#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/panorama/justiz/berlin-soldatin-soll-als-dj-gearbeitet-haben-trotz-verbot-und-krankschreibung](https://www.spiegel.de/panorama/justiz/berlin-soldatin-soll-als-dj-gearbeitet-haben-trotz-verbot-und-krankschreibung-a-9a865771-b7d3-474b-b639-179ebb08f9dc#ref=rss)
-### kroatien
+* [https://www.spiegel.de/politik/deutschland/konstantin-kuhle-fdp-fordert-pruefung-des-bundestagszugangs-fuer-ex-afd-abgeordnete](https://www.spiegel.de/politik/deutschland/konstantin-kuhle-fdp-fordert-pruefung-des-bundestagszugangs-fuer-ex-afd-abgeordnete-a-cafc91e1-6635-41b1-942b-3c9d100908ec#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fdp-scheitert-verfassungsgericht-macht-weg-fuer-deutsche-zustimmung-zu-esm-reform-frei](https://www.spiegel.de/wirtschaft/fdp-scheitert-verfassungsgericht-macht-weg-fuer-deutsche-zustimmung-zu-esm-reform-frei-a-b2901d39-13b0-423d-a14d-598b16ff8e4b#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei](https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei-a-725a816e-8178-4983-9368-6ca8762a4dac#ref=rss)
-### 1
+* [https://www.spiegel.de/politik/deutschland/konstantin-kuhle-fdp-fordert-pruefung-des-bundestagszugangs-fuer-ex-afd-abgeordnete](https://www.spiegel.de/politik/deutschland/konstantin-kuhle-fdp-fordert-pruefung-des-bundestagszugangs-fuer-ex-afd-abgeordnete-a-cafc91e1-6635-41b1-942b-3c9d100908ec#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-csu-fordert-von-gruenen-mehr-tempo-bei-der-einwanderung](https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-csu-fordert-von-gruenen-mehr-tempo-bei-der-einwanderung-a-8372242d-5dc1-4296-8a53-1626615a0b83#ref=rss)
+### botschafter
 
-* [https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei](https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei-a-725a816e-8178-4983-9368-6ca8762a4dac#ref=rss)
-### januar
+* [https://www.spiegel.de/ausland/iran-und-proteste-bundesregierung-bestellt-iranischen-botschafter-ein](https://www.spiegel.de/ausland/iran-und-proteste-bundesregierung-bestellt-iranischen-botschafter-ein-a-d0e6792d-c407-41e5-92b5-971c5d7eb6ef#ref=rss)
+### iranische
 
-* [https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei](https://www.spiegel.de/ausland/kroatien-tritt-schengenraum-zum-1-januar-bei-a-725a816e-8178-4983-9368-6ca8762a4dac#ref=rss)
+* [https://www.spiegel.de/ausland/iran-und-proteste-bundesregierung-bestellt-iranischen-botschafter-ein](https://www.spiegel.de/ausland/iran-und-proteste-bundesregierung-bestellt-iranischen-botschafter-ein-a-d0e6792d-c407-41e5-92b5-971c5d7eb6ef#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk](https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk-a-28b3537e-769d-40d8-aa95-39f3dda3bc10#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/ausland/iran-und-proteste-bundesregierung-bestellt-iranischen-botschafter-ein](https://www.spiegel.de/ausland/iran-und-proteste-bundesregierung-bestellt-iranischen-botschafter-ein-a-d0e6792d-c407-41e5-92b5-971c5d7eb6ef#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-csu-fordert-von-gruenen-mehr-tempo-bei-der-einwanderung](https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-csu-fordert-von-gruenen-mehr-tempo-bei-der-einwanderung-a-8372242d-5dc1-4296-8a53-1626615a0b83#ref=rss)
+### schwere
+
+* [https://www.spiegel.de/ausland/athen-schwere-ausschreitungen-von-roma-in-griechenland](https://www.spiegel.de/ausland/athen-schwere-ausschreitungen-von-roma-in-griechenland-a-70fdffa7-40f1-4a98-8e3a-6a66ef1e805d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nick-carter-frau-beschuldigt-saenger-der-backstreet-boys-der-vergewaltigung](https://www.spiegel.de/panorama/justiz/nick-carter-frau-beschuldigt-saenger-der-backstreet-boys-der-vergewaltigung-a-abbdc55f-6ec6-4c05-9722-01e55193d246#ref=rss)
+### heidelberg
+
+* [https://www.spiegel.de/panorama/heidelberg-weltkriegsbombe-wird-entschaerft-4000-anwohner-evakuiert](https://www.spiegel.de/panorama/heidelberg-weltkriegsbombe-wird-entschaerft-4000-anwohner-evakuiert-a-08cd93ee-6784-44af-8838-9d5ecfae7985#ref=rss)
+### weltkriegsbombe
+
+* [https://www.spiegel.de/panorama/heidelberg-weltkriegsbombe-wird-entschaerft-4000-anwohner-evakuiert](https://www.spiegel.de/panorama/heidelberg-weltkriegsbombe-wird-entschaerft-4000-anwohner-evakuiert-a-08cd93ee-6784-44af-8838-9d5ecfae7985#ref=rss)
+### entdeckt
+
+* [https://www.spiegel.de/panorama/heidelberg-weltkriegsbombe-wird-entschaerft-4000-anwohner-evakuiert](https://www.spiegel.de/panorama/heidelberg-weltkriegsbombe-wird-entschaerft-4000-anwohner-evakuiert-a-08cd93ee-6784-44af-8838-9d5ecfae7985#ref=rss)
+* [https://www.spiegel.de/panorama/pennsylvania-identitaet-des-boy-in-the-box-aus-philadelphia-nach-mehr-als-60-jahren-geklaert](https://www.spiegel.de/panorama/pennsylvania-identitaet-des-boy-in-the-box-aus-philadelphia-nach-mehr-als-60-jahren-geklaert-a-5e7cb7d4-b5d1-4763-bccf-c8f3b69b7952#ref=rss)
+### betroffen
+
+* [https://www.spiegel.de/panorama/heidelberg-weltkriegsbombe-wird-entschaerft-4000-anwohner-evakuiert](https://www.spiegel.de/panorama/heidelberg-weltkriegsbombe-wird-entschaerft-4000-anwohner-evakuiert-a-08cd93ee-6784-44af-8838-9d5ecfae7985#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/125-000-haushalte-betroffen-grossflaechiger-stromausfall-in-paris](https://www.spiegel.de/wirtschaft/service/125-000-haushalte-betroffen-grossflaechiger-stromausfall-in-paris-a-a8efe4a5-f1fe-4055-8676-802120a4f0cd#ref=rss)
+### cristiano
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-cristiano-ronaldo-darum-ist-er-kein-weltklassestuermer-mehr](https://www.spiegel.de/sport/fussball/wm-2022-cristiano-ronaldo-darum-ist-er-kein-weltklassestuermer-mehr-a-d199e141-e0d2-4479-befe-39fb9b907e6a#ref=rss)
+### ronaldo
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-cristiano-ronaldo-darum-ist-er-kein-weltklassestuermer-mehr](https://www.spiegel.de/sport/fussball/wm-2022-cristiano-ronaldo-darum-ist-er-kein-weltklassestuermer-mehr-a-d199e141-e0d2-4479-befe-39fb9b907e6a#ref=rss)
+### plötzlich
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-cristiano-ronaldo-darum-ist-er-kein-weltklassestuermer-mehr](https://www.spiegel.de/sport/fussball/wm-2022-cristiano-ronaldo-darum-ist-er-kein-weltklassestuermer-mehr-a-d199e141-e0d2-4479-befe-39fb9b907e6a#ref=rss)
+* [https://www.spiegel.de/auto/smart-1-im-fahrtest-ploetzlich-suv-statt-zweisitzer-kann-das-funktionieren](https://www.spiegel.de/auto/smart-1-im-fahrtest-ploetzlich-suv-statt-zweisitzer-kann-das-funktionieren-a-aa303be4-8307-4f32-9fc9-bfff6746a1d7#ref=rss)
+### zeitenwende
+
+* [https://www.spiegel.de/kultur/zeitenwende-ist-das-wort-des-jahres-2022](https://www.spiegel.de/kultur/zeitenwende-ist-das-wort-des-jahres-2022-a-f1135c68-93d5-46c1-b055-fd9262c689e0#ref=rss)
+### wort
+
+* [https://www.spiegel.de/kultur/zeitenwende-ist-das-wort-des-jahres-2022](https://www.spiegel.de/kultur/zeitenwende-ist-das-wort-des-jahres-2022-a-f1135c68-93d5-46c1-b055-fd9262c689e0#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/kultur/zeitenwende-ist-das-wort-des-jahres-2022](https://www.spiegel.de/kultur/zeitenwende-ist-das-wort-des-jahres-2022-a-f1135c68-93d5-46c1-b055-fd9262c689e0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fdp-scheitert-verfassungsgericht-macht-weg-fuer-deutsche-zustimmung-zu-esm-reform-frei](https://www.spiegel.de/wirtschaft/fdp-scheitert-verfassungsgericht-macht-weg-fuer-deutsche-zustimmung-zu-esm-reform-frei-a-b2901d39-13b0-423d-a14d-598b16ff8e4b#ref=rss)
+### einige
+
+* [https://www.spiegel.de/wirtschaft/service/jeder-vierte-bleibt-im-homeoffice](https://www.spiegel.de/wirtschaft/service/jeder-vierte-bleibt-im-homeoffice-a-3b034966-3027-457e-8fd6-6139327b4b3d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/pilot-projekt-in-dueren-koelner-verlag-wirft-zeitungen-per-drohne-ab](https://www.spiegel.de/wirtschaft/service/pilot-projekt-in-dueren-koelner-verlag-wirft-zeitungen-per-drohne-ab-a-11ed9386-29a8-424d-b18d-99c8c1e69020#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/wirtschaft/service/jeder-vierte-bleibt-im-homeoffice](https://www.spiegel.de/wirtschaft/service/jeder-vierte-bleibt-im-homeoffice-a-3b034966-3027-457e-8fd6-6139327b4b3d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/125-000-haushalte-betroffen-grossflaechiger-stromausfall-in-paris](https://www.spiegel.de/wirtschaft/service/125-000-haushalte-betroffen-grossflaechiger-stromausfall-in-paris-a-a8efe4a5-f1fe-4055-8676-802120a4f0cd#ref=rss)
+### real
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro](https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro-a-bd24ba0d-1e57-423a-9c0a-7bc96b15d827#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro](https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro-a-bd24ba0d-1e57-423a-9c0a-7bc96b15d827#ref=rss)
+### kurz
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro](https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro-a-bd24ba0d-1e57-423a-9c0a-7bc96b15d827#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/125-000-haushalte-betroffen-grossflaechiger-stromausfall-in-paris](https://www.spiegel.de/wirtschaft/service/125-000-haushalte-betroffen-grossflaechiger-stromausfall-in-paris-a-a8efe4a5-f1fe-4055-8676-802120a4f0cd#ref=rss)
+### endrick
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro](https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro-a-bd24ba0d-1e57-423a-9c0a-7bc96b15d827#ref=rss)
+### 72
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro](https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro-a-bd24ba0d-1e57-423a-9c0a-7bc96b15d827#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro](https://www.spiegel.de/sport/fussball/real-madrid-kurz-vor-verpflichtung-von-brasilianischem-wunderkind-endrick-fuer-72-millionen-euro-a-bd24ba0d-1e57-423a-9c0a-7bc96b15d827#ref=rss)
+### jörg
+
+* [https://www.spiegel.de/politik/deutschland/joerg-lange-deutscher-entwicklungshelfer-kommt-nach-jahrelanger-geiselhaft-in-mali-frei](https://www.spiegel.de/politik/deutschland/joerg-lange-deutscher-entwicklungshelfer-kommt-nach-jahrelanger-geiselhaft-in-mali-frei-a-fb53a000-0790-4f90-aafd-5e82c885e079#ref=rss)
+### lange
+
+* [https://www.spiegel.de/politik/deutschland/joerg-lange-deutscher-entwicklungshelfer-kommt-nach-jahrelanger-geiselhaft-in-mali-frei](https://www.spiegel.de/politik/deutschland/joerg-lange-deutscher-entwicklungshelfer-kommt-nach-jahrelanger-geiselhaft-in-mali-frei-a-fb53a000-0790-4f90-aafd-5e82c885e079#ref=rss)
+### mali
+
+* [https://www.spiegel.de/politik/deutschland/joerg-lange-deutscher-entwicklungshelfer-kommt-nach-jahrelanger-geiselhaft-in-mali-frei](https://www.spiegel.de/politik/deutschland/joerg-lange-deutscher-entwicklungshelfer-kommt-nach-jahrelanger-geiselhaft-in-mali-frei-a-fb53a000-0790-4f90-aafd-5e82c885e079#ref=rss)
+### frei
+
+* [https://www.spiegel.de/politik/deutschland/joerg-lange-deutscher-entwicklungshelfer-kommt-nach-jahrelanger-geiselhaft-in-mali-frei](https://www.spiegel.de/politik/deutschland/joerg-lange-deutscher-entwicklungshelfer-kommt-nach-jahrelanger-geiselhaft-in-mali-frei-a-fb53a000-0790-4f90-aafd-5e82c885e079#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fdp-scheitert-verfassungsgericht-macht-weg-fuer-deutsche-zustimmung-zu-esm-reform-frei](https://www.spiegel.de/wirtschaft/fdp-scheitert-verfassungsgericht-macht-weg-fuer-deutsche-zustimmung-zu-esm-reform-frei-a-b2901d39-13b0-423d-a14d-598b16ff8e4b#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/politik/deutschland/joerg-lange-deutscher-entwicklungshelfer-kommt-nach-jahrelanger-geiselhaft-in-mali-frei](https://www.spiegel.de/politik/deutschland/joerg-lange-deutscher-entwicklungshelfer-kommt-nach-jahrelanger-geiselhaft-in-mali-frei-a-fb53a000-0790-4f90-aafd-5e82c885e079#ref=rss)
+* [https://www.spiegel.de/panorama/pennsylvania-identitaet-des-boy-in-the-box-aus-philadelphia-nach-mehr-als-60-jahren-geklaert](https://www.spiegel.de/panorama/pennsylvania-identitaet-des-boy-in-the-box-aus-philadelphia-nach-mehr-als-60-jahren-geklaert-a-5e7cb7d4-b5d1-4763-bccf-c8f3b69b7952#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk](https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk-a-28b3537e-769d-40d8-aa95-39f3dda3bc10#ref=rss)
+* [https://www.spiegel.de/wirtschaft/sehr-reale-sorge-dass-grossbritannien-von-wettbewerbern-abgehaengt-wird](https://www.spiegel.de/wirtschaft/sehr-reale-sorge-dass-grossbritannien-von-wettbewerbern-abgehaengt-wird-a-32d38199-a9c0-44db-81e7-cdff11e3d67a#ref=rss)
+### donezk
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk](https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk-a-28b3537e-769d-40d8-aa95-39f3dda3bc10#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk](https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk-a-28b3537e-769d-40d8-aa95-39f3dda3bc10#ref=rss)
+* [https://www.spiegel.de/ausland/moskau-wachmann-stirbt-bei-grossbrand-im-obi-markt-in-chimki](https://www.spiegel.de/ausland/moskau-wachmann-stirbt-bei-grossbrand-im-obi-markt-in-chimki-a-3650219a-6c55-4109-9239-25c3dc5df670#ref=rss)
+### städte
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk](https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk-a-28b3537e-769d-40d8-aa95-39f3dda3bc10#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/staedte-und-gemeinden-fordern-schnelle-einfuehrung-des-49-euro-tickets](https://www.spiegel.de/wirtschaft/service/staedte-und-gemeinden-fordern-schnelle-einfuehrung-des-49-euro-tickets-a-f407b528-fbf8-42f5-9cb4-0ee48014b1f2#ref=rss)
+### london
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk](https://www.spiegel.de/ausland/ukraine-news-am-freitag-ukraine-berichtet-von-neuen-russischen-angriffen-in-donezk-a-28b3537e-769d-40d8-aa95-39f3dda3bc10#ref=rss)
+* [https://www.spiegel.de/ausland/us-diplomatengattin-wegen-toedlichen-autounfalls-verurteilt](https://www.spiegel.de/ausland/us-diplomatengattin-wegen-toedlichen-autounfalls-verurteilt-a-d47fdbbf-6130-4ef2-a156-1349c96bc4de#ref=rss)
+### verlage
+
+* [https://www.spiegel.de/wirtschaft/service/pilot-projekt-in-dueren-koelner-verlag-wirft-zeitungen-per-drohne-ab](https://www.spiegel.de/wirtschaft/service/pilot-projekt-in-dueren-koelner-verlag-wirft-zeitungen-per-drohne-ab-a-11ed9386-29a8-424d-b18d-99c8c1e69020#ref=rss)
+### bildung
+
+* [https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro](https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro-a-2855ca1c-5c71-4e1a-939a-69c828e5b3c2#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-der-staat-wird-seinem-bildungsauftrag-nicht-mehr-fuer-alle-kinder-gerecht](https://www.spiegel.de/panorama/bildung/bildung-der-staat-wird-seinem-bildungsauftrag-nicht-mehr-fuer-alle-kinder-gerecht-a-90b118fe-b3b2-4e53-956d-340aa270e7cb#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro](https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro-a-2855ca1c-5c71-4e1a-939a-69c828e5b3c2#ref=rss)
+### fachschüler
+
+* [https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro](https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro-a-2855ca1c-5c71-4e1a-939a-69c828e5b3c2#ref=rss)
+### streit
+
+* [https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro](https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro-a-2855ca1c-5c71-4e1a-939a-69c828e5b3c2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/staedte-und-gemeinden-fordern-schnelle-einfuehrung-des-49-euro-tickets](https://www.spiegel.de/wirtschaft/service/staedte-und-gemeinden-fordern-schnelle-einfuehrung-des-49-euro-tickets-a-f407b528-fbf8-42f5-9cb4-0ee48014b1f2#ref=rss)
+### unklar
+
+* [https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro](https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro-a-2855ca1c-5c71-4e1a-939a-69c828e5b3c2#ref=rss)
+* [https://www.spiegel.de/panorama/pennsylvania-identitaet-des-boy-in-the-box-aus-philadelphia-nach-mehr-als-60-jahren-geklaert](https://www.spiegel.de/panorama/pennsylvania-identitaet-des-boy-in-the-box-aus-philadelphia-nach-mehr-als-60-jahren-geklaert-a-5e7cb7d4-b5d1-4763-bccf-c8f3b69b7952#ref=rss)
+### bund
+
+* [https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro](https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro-a-2855ca1c-5c71-4e1a-939a-69c828e5b3c2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/staedte-und-gemeinden-fordern-schnelle-einfuehrung-des-49-euro-tickets](https://www.spiegel.de/wirtschaft/service/staedte-und-gemeinden-fordern-schnelle-einfuehrung-des-49-euro-tickets-a-f407b528-fbf8-42f5-9cb4-0ee48014b1f2#ref=rss)
+### länder
+
+* [https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro](https://www.spiegel.de/panorama/bildung/bildung-entlastung-fuer-studierende-und-fachschueler-streit-wegen-auszahlung-der-200-euro-a-2855ca1c-5c71-4e1a-939a-69c828e5b3c2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/staedte-und-gemeinden-fordern-schnelle-einfuehrung-des-49-euro-tickets](https://www.spiegel.de/wirtschaft/service/staedte-und-gemeinden-fordern-schnelle-einfuehrung-des-49-euro-tickets-a-f407b528-fbf8-42f5-9cb4-0ee48014b1f2#ref=rss)
+### mädchen
+
+* [https://www.spiegel.de/panorama/kalifornien-maedchen-aus-den-usa-bekommt-permanente-einhorn-lizenz](https://www.spiegel.de/panorama/kalifornien-maedchen-aus-den-usa-bekommt-permanente-einhorn-lizenz-a-c6f7b7b9-5b6a-49f6-95c4-2f787b6168d3#ref=rss)
+### zustimmung
+
+* [https://www.spiegel.de/panorama/kalifornien-maedchen-aus-den-usa-bekommt-permanente-einhorn-lizenz](https://www.spiegel.de/panorama/kalifornien-maedchen-aus-den-usa-bekommt-permanente-einhorn-lizenz-a-c6f7b7b9-5b6a-49f6-95c4-2f787b6168d3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/fdp-scheitert-verfassungsgericht-macht-weg-fuer-deutsche-zustimmung-zu-esm-reform-frei](https://www.spiegel.de/wirtschaft/fdp-scheitert-verfassungsgericht-macht-weg-fuer-deutsche-zustimmung-zu-esm-reform-frei-a-b2901d39-13b0-423d-a14d-598b16ff8e4b#ref=rss)
+### macht
+
+* [https://www.spiegel.de/wirtschaft/fdp-scheitert-verfassungsgericht-macht-weg-fuer-deutsche-zustimmung-zu-esm-reform-frei](https://www.spiegel.de/wirtschaft/fdp-scheitert-verfassungsgericht-macht-weg-fuer-deutsche-zustimmung-zu-esm-reform-frei-a-b2901d39-13b0-423d-a14d-598b16ff8e4b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-csu-fordert-von-gruenen-mehr-tempo-bei-der-einwanderung](https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-csu-fordert-von-gruenen-mehr-tempo-bei-der-einwanderung-a-8372242d-5dc1-4296-8a53-1626615a0b83#ref=rss)
+### einführung
+
+* [https://www.spiegel.de/wirtschaft/service/staedte-und-gemeinden-fordern-schnelle-einfuehrung-des-49-euro-tickets](https://www.spiegel.de/wirtschaft/service/staedte-und-gemeinden-fordern-schnelle-einfuehrung-des-49-euro-tickets-a-f407b528-fbf8-42f5-9cb4-0ee48014b1f2#ref=rss)
+### lage
+
+* [https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-csu-fordert-von-gruenen-mehr-tempo-bei-der-einwanderung](https://www.spiegel.de/wirtschaft/soziales/fachkraeftemangel-csu-fordert-von-gruenen-mehr-tempo-bei-der-einwanderung-a-8372242d-5dc1-4296-8a53-1626615a0b83#ref=rss)
+* [https://www.spiegel.de/wirtschaft/sehr-reale-sorge-dass-grossbritannien-von-wettbewerbern-abgehaengt-wird](https://www.spiegel.de/wirtschaft/sehr-reale-sorge-dass-grossbritannien-von-wettbewerbern-abgehaengt-wird-a-32d38199-a9c0-44db-81e7-cdff11e3d67a#ref=rss)
+### smart
+
+* [https://www.spiegel.de/auto/smart-1-im-fahrtest-ploetzlich-suv-statt-zweisitzer-kann-das-funktionieren](https://www.spiegel.de/auto/smart-1-im-fahrtest-ploetzlich-suv-statt-zweisitzer-kann-das-funktionieren-a-aa303be4-8307-4f32-9fc9-bfff6746a1d7#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/bildung/bildung-der-staat-wird-seinem-bildungsauftrag-nicht-mehr-fuer-alle-kinder-gerecht](https://www.spiegel.de/panorama/bildung/bildung-der-staat-wird-seinem-bildungsauftrag-nicht-mehr-fuer-alle-kinder-gerecht-a-90b118fe-b3b2-4e53-956d-340aa270e7cb#ref=rss)
+### philadelphia
+
+* [https://www.spiegel.de/panorama/pennsylvania-identitaet-des-boy-in-the-box-aus-philadelphia-nach-mehr-als-60-jahren-geklaert](https://www.spiegel.de/panorama/pennsylvania-identitaet-des-boy-in-the-box-aus-philadelphia-nach-mehr-als-60-jahren-geklaert-a-5e7cb7d4-b5d1-4763-bccf-c8f3b69b7952#ref=rss)
+### brexit
+
+* [https://www.spiegel.de/wirtschaft/sehr-reale-sorge-dass-grossbritannien-von-wettbewerbern-abgehaengt-wird](https://www.spiegel.de/wirtschaft/sehr-reale-sorge-dass-grossbritannien-von-wettbewerbern-abgehaengt-wird-a-32d38199-a9c0-44db-81e7-cdff11e3d67a#ref=rss)
+### covid
+
+* [https://www.spiegel.de/wirtschaft/sehr-reale-sorge-dass-grossbritannien-von-wettbewerbern-abgehaengt-wird](https://www.spiegel.de/wirtschaft/sehr-reale-sorge-dass-grossbritannien-von-wettbewerbern-abgehaengt-wird-a-32d38199-a9c0-44db-81e7-cdff11e3d67a#ref=rss)
+### lionel
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-te-amo-kolumne](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-te-amo-kolumne-a-8505d7ec-bac1-4a17-9e8f-64d658cceb64#ref=rss)
+### messi
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-te-amo-kolumne](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-te-amo-kolumne-a-8505d7ec-bac1-4a17-9e8f-64d658cceb64#ref=rss)
+### wir
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-te-amo-kolumne](https://www.spiegel.de/sport/fussball/wm-2022-lionel-messi-te-amo-kolumne-a-8505d7ec-bac1-4a17-9e8f-64d658cceb64#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/moskau-wachmann-stirbt-bei-grossbrand-im-obi-markt-in-chimki](https://www.spiegel.de/ausland/moskau-wachmann-stirbt-bei-grossbrand-im-obi-markt-in-chimki-a-3650219a-6c55-4109-9239-25c3dc5df670#ref=rss)
+### news
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-marokkos-ex-wm-held-abderrazak-khairi-haelt-finaleinzug-fuer-moeglich](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-marokkos-ex-wm-held-abderrazak-khairi-haelt-finaleinzug-fuer-moeglich-a-8b60dd35-ae87-41fe-af3e-35355c9a9764#ref=rss)
+### christian
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-marokkos-ex-wm-held-abderrazak-khairi-haelt-finaleinzug-fuer-moeglich](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-marokkos-ex-wm-held-abderrazak-khairi-haelt-finaleinzug-fuer-moeglich-a-8b60dd35-ae87-41fe-af3e-35355c9a9764#ref=rss)
+### streich
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-news-heute-marokkos-ex-wm-held-abderrazak-khairi-haelt-finaleinzug-fuer-moeglich](https://www.spiegel.de/sport/fussball/wm-2022-news-heute-marokkos-ex-wm-held-abderrazak-khairi-haelt-finaleinzug-fuer-moeglich-a-8b60dd35-ae87-41fe-af3e-35355c9a9764#ref=rss)
+### nick
+
+* [https://www.spiegel.de/panorama/justiz/nick-carter-frau-beschuldigt-saenger-der-backstreet-boys-der-vergewaltigung](https://www.spiegel.de/panorama/justiz/nick-carter-frau-beschuldigt-saenger-der-backstreet-boys-der-vergewaltigung-a-abbdc55f-6ec6-4c05-9722-01e55193d246#ref=rss)
+### carter
+
+* [https://www.spiegel.de/panorama/justiz/nick-carter-frau-beschuldigt-saenger-der-backstreet-boys-der-vergewaltigung](https://www.spiegel.de/panorama/justiz/nick-carter-frau-beschuldigt-saenger-der-backstreet-boys-der-vergewaltigung-a-abbdc55f-6ec6-4c05-9722-01e55193d246#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/panorama/justiz/nick-carter-frau-beschuldigt-saenger-der-backstreet-boys-der-vergewaltigung](https://www.spiegel.de/panorama/justiz/nick-carter-frau-beschuldigt-saenger-der-backstreet-boys-der-vergewaltigung-a-abbdc55f-6ec6-4c05-9722-01e55193d246#ref=rss)
+### sänger
+
+* [https://www.spiegel.de/panorama/justiz/nick-carter-frau-beschuldigt-saenger-der-backstreet-boys-der-vergewaltigung](https://www.spiegel.de/panorama/justiz/nick-carter-frau-beschuldigt-saenger-der-backstreet-boys-der-vergewaltigung-a-abbdc55f-6ec6-4c05-9722-01e55193d246#ref=rss)
 
