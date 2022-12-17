@@ -4,247 +4,303 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/russland-verschifft-offenbar-rohoel-an-g7-staaten-trotz-angekuendigter-blockade](https://www.spiegel.de/wirtschaft/russland-verschifft-offenbar-rohoel-an-g7-staaten-trotz-angekuendigter-blockade-a-942a68d9-d935-41aa-b94d-eb27322b5d50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe](https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe-a-07d9b0cb-6702-47aa-a78a-7166bb8ef9ea#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/razzia-reichsbuerger-besassen-mehr-als-100-waffen-die-meisten-legal](https://www.spiegel.de/politik/deutschland/razzia-reichsbuerger-besassen-mehr-als-100-waffen-die-meisten-legal-a-bdf6150b-00df-45ee-940e-d02e53b50534#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesrat-billigt-zahlreiche-gesetze-das-sind-die-wichtigsten](https://www.spiegel.de/politik/deutschland/bundesrat-billigt-zahlreiche-gesetze-das-sind-die-wichtigsten-a-a179e01c-62cd-420e-80da-8be5f85b316c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-proteste-zahl-iranischer-gefluechteter-in-deutschland-deutlich-gestiegen](https://www.spiegel.de/politik/deutschland/iran-proteste-zahl-iranischer-gefluechteter-in-deutschland-deutlich-gestiegen-a-4aec5b75-1def-47f8-a3fd-3c4ad2802340#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bund-wollte-trotz-voller-lager-millionen-zusaetzliche-schutzmasken-kaufen](https://www.spiegel.de/politik/deutschland/corona-bund-wollte-trotz-voller-lager-millionen-zusaetzliche-schutzmasken-kaufen-a-c7b9557d-159f-4bd0-8dbf-b87ad5884af2#ref=rss)
-### wm
-
-* [https://www.spiegel.de/ausland/wm-2022-in-katar-kampfjet-einsatz-ueber-den-fussballstadien](https://www.spiegel.de/ausland/wm-2022-in-katar-kampfjet-einsatz-ueber-den-fussballstadien-a-a5f5710e-aacb-44cc-baee-098381120baf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft](https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft-a-d7676552-da16-4ae6-a55d-33affcc3c353#ref=rss)
-### katar
-
-* [https://www.spiegel.de/ausland/wm-2022-in-katar-kampfjet-einsatz-ueber-den-fussballstadien](https://www.spiegel.de/ausland/wm-2022-in-katar-kampfjet-einsatz-ueber-den-fussballstadien-a-a5f5710e-aacb-44cc-baee-098381120baf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft](https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft-a-d7676552-da16-4ae6-a55d-33affcc3c353#ref=rss)
-### spiegelinformationen
-
-* [https://www.spiegel.de/politik/deutschland/razzia-reichsbuerger-besassen-mehr-als-100-waffen-die-meisten-legal](https://www.spiegel.de/politik/deutschland/razzia-reichsbuerger-besassen-mehr-als-100-waffen-die-meisten-legal-a-bdf6150b-00df-45ee-940e-d02e53b50534#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-wirtschaftsministerium-ueberlegt-briefzustellung-an-packstationen-zu-ermoeglichen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-wirtschaftsministerium-ueberlegt-briefzustellung-an-packstationen-zu-ermoeglichen-a-62df1956-dc88-43a4-8099-ee770441c011#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-proteste-zahl-iranischer-gefluechteter-in-deutschland-deutlich-gestiegen](https://www.spiegel.de/politik/deutschland/iran-proteste-zahl-iranischer-gefluechteter-in-deutschland-deutlich-gestiegen-a-4aec5b75-1def-47f8-a3fd-3c4ad2802340#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/corona-bund-wollte-trotz-voller-lager-millionen-zusaetzliche-schutzmasken-kaufen](https://www.spiegel.de/politik/deutschland/corona-bund-wollte-trotz-voller-lager-millionen-zusaetzliche-schutzmasken-kaufen-a-c7b9557d-159f-4bd0-8dbf-b87ad5884af2#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/leute/angelina-jolie-tritt-als-unhcr-sondergesandte-zurueck](https://www.spiegel.de/panorama/leute/angelina-jolie-tritt-als-unhcr-sondergesandte-zurueck-a-2b4644c7-d94b-4c96-8280-0b7a3bb9da1b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-ehemaliger-jugoslawischer-nationalspieler-sinisa-mihajlovic-nach-krebserkrankung-gestorben](https://www.spiegel.de/sport/fussball/fussball-ehemaliger-jugoslawischer-nationalspieler-sinisa-mihajlovic-nach-krebserkrankung-gestorben-a-ae6a9edd-b37e-4cb0-b59c-d68f0239b327#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe](https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe-a-07d9b0cb-6702-47aa-a78a-7166bb8ef9ea#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/spanischer-staat-foerdert-verkuerzte-arbeitszeiten](https://www.spiegel.de/wirtschaft/spanischer-staat-foerdert-verkuerzte-arbeitszeiten-a-ec3f13b0-10ad-4efa-b0a1-04bb8419a172#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/energiehilfen-fuer-unternehmen-werden-nur-zu-einem-bruchteil-ausgeschoepft](https://www.spiegel.de/wirtschaft/unternehmen/energiehilfen-fuer-unternehmen-werden-nur-zu-einem-bruchteil-ausgeschoepft-a-b7d7597e-beed-499e-9259-6a626073ea48#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/politik/deutschland/joachim-stamp-fdp-politiker-soll-sonderbevollmaechtigter-fuer-migration-werden](https://www.spiegel.de/politik/deutschland/joachim-stamp-fdp-politiker-soll-sonderbevollmaechtigter-fuer-migration-werden-a-e0892fdf-9c79-4559-99bc-3543965cac5b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russland-verschifft-offenbar-rohoel-an-g7-staaten-trotz-angekuendigter-blockade](https://www.spiegel.de/wirtschaft/russland-verschifft-offenbar-rohoel-an-g7-staaten-trotz-angekuendigter-blockade-a-942a68d9-d935-41aa-b94d-eb27322b5d50#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-brandenburg-soll-saal-im-landtag-in-inakzeptablem-zustand-hinterlassen-haben](https://www.spiegel.de/politik/deutschland/afd-in-brandenburg-soll-saal-im-landtag-in-inakzeptablem-zustand-hinterlassen-haben-a-1251e5df-6861-4097-b3ab-cf90199358f0#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe](https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe-a-07d9b0cb-6702-47aa-a78a-7166bb8ef9ea#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-opfer-aus-berlin-ueber-clan-kriminalitaet-wer-traut-sich-diesen-pitbull-zu-streicheln](https://www.spiegel.de/kultur/tv/tatort-opfer-aus-berlin-ueber-clan-kriminalitaet-wer-traut-sich-diesen-pitbull-zu-streicheln-a-22c8a860-d99a-4f4a-8859-9ea86b2be5ca#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-und-die-corona-maskenaffaere-in-bayern-sully-soeder-und-die-notlandung](https://www.spiegel.de/politik/deutschland/markus-soeder-und-die-corona-maskenaffaere-in-bayern-sully-soeder-und-die-notlandung-a-6dcc5207-a337-4a54-8b55-85010372eb42#ref=rss)
-### bilder
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft](https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft-a-d7676552-da16-4ae6-a55d-33affcc3c353#ref=rss)
-### angelina
-
-* [https://www.spiegel.de/panorama/leute/angelina-jolie-tritt-als-unhcr-sondergesandte-zurueck](https://www.spiegel.de/panorama/leute/angelina-jolie-tritt-als-unhcr-sondergesandte-zurueck-a-2b4644c7-d94b-4c96-8280-0b7a3bb9da1b#ref=rss)
-### jolie
-
-* [https://www.spiegel.de/panorama/leute/angelina-jolie-tritt-als-unhcr-sondergesandte-zurueck](https://www.spiegel.de/panorama/leute/angelina-jolie-tritt-als-unhcr-sondergesandte-zurueck-a-2b4644c7-d94b-4c96-8280-0b7a3bb9da1b#ref=rss)
-### unhcrsondergesandte
-
-* [https://www.spiegel.de/panorama/leute/angelina-jolie-tritt-als-unhcr-sondergesandte-zurueck](https://www.spiegel.de/panorama/leute/angelina-jolie-tritt-als-unhcr-sondergesandte-zurueck-a-2b4644c7-d94b-4c96-8280-0b7a3bb9da1b#ref=rss)
-### engagement
-
-* [https://www.spiegel.de/panorama/leute/angelina-jolie-tritt-als-unhcr-sondergesandte-zurueck](https://www.spiegel.de/panorama/leute/angelina-jolie-tritt-als-unhcr-sondergesandte-zurueck-a-2b4644c7-d94b-4c96-8280-0b7a3bb9da1b#ref=rss)
-### arbeitszeiten
-
-* [https://www.spiegel.de/wirtschaft/spanischer-staat-foerdert-verkuerzte-arbeitszeiten](https://www.spiegel.de/wirtschaft/spanischer-staat-foerdert-verkuerzte-arbeitszeiten-a-ec3f13b0-10ad-4efa-b0a1-04bb8419a172#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wirtschaft/spanischer-staat-foerdert-verkuerzte-arbeitszeiten](https://www.spiegel.de/wirtschaft/spanischer-staat-foerdert-verkuerzte-arbeitszeiten-a-ec3f13b0-10ad-4efa-b0a1-04bb8419a172#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/energiehilfen-fuer-unternehmen-werden-nur-zu-einem-bruchteil-ausgeschoepft](https://www.spiegel.de/wirtschaft/unternehmen/energiehilfen-fuer-unternehmen-werden-nur-zu-einem-bruchteil-ausgeschoepft-a-b7d7597e-beed-499e-9259-6a626073ea48#ref=rss)
-### größte
-
-* [https://www.spiegel.de/deinspiegel/artenschutz-experte-beim-wwf-die-groesste-herausforderung-ist-das-zusammenleben-von-mensch-und-tier](https://www.spiegel.de/deinspiegel/artenschutz-experte-beim-wwf-die-groesste-herausforderung-ist-das-zusammenleben-von-mensch-und-tier-a-8c7b349a-63d6-427b-ae1c-4ccf292b173e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe](https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe-a-07d9b0cb-6702-47aa-a78a-7166bb8ef9ea#ref=rss)
-### tier
-
-* [https://www.spiegel.de/deinspiegel/artenschutz-experte-beim-wwf-die-groesste-herausforderung-ist-das-zusammenleben-von-mensch-und-tier](https://www.spiegel.de/deinspiegel/artenschutz-experte-beim-wwf-die-groesste-herausforderung-ist-das-zusammenleben-von-mensch-und-tier-a-8c7b349a-63d6-427b-ae1c-4ccf292b173e#ref=rss)
-* [https://www.spiegel.de/panorama/p-22-in-los-angeles-muss-hollywoods-star-puma-sterben](https://www.spiegel.de/panorama/p-22-in-los-angeles-muss-hollywoods-star-puma-sterben-a-bf2ee480-0d0e-4917-865d-9bb6d03217e4#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/deinspiegel/artenschutz-experte-beim-wwf-die-groesste-herausforderung-ist-das-zusammenleben-von-mensch-und-tier](https://www.spiegel.de/deinspiegel/artenschutz-experte-beim-wwf-die-groesste-herausforderung-ist-das-zusammenleben-von-mensch-und-tier-a-8c7b349a-63d6-427b-ae1c-4ccf292b173e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-proteste-zahl-iranischer-gefluechteter-in-deutschland-deutlich-gestiegen](https://www.spiegel.de/politik/deutschland/iran-proteste-zahl-iranischer-gefluechteter-in-deutschland-deutlich-gestiegen-a-4aec5b75-1def-47f8-a3fd-3c4ad2802340#ref=rss)
-### fast
-
-* [https://www.spiegel.de/deinspiegel/artenschutz-experte-beim-wwf-die-groesste-herausforderung-ist-das-zusammenleben-von-mensch-und-tier](https://www.spiegel.de/deinspiegel/artenschutz-experte-beim-wwf-die-groesste-herausforderung-ist-das-zusammenleben-von-mensch-und-tier-a-8c7b349a-63d6-427b-ae1c-4ccf292b173e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oeko-energie-deckt-fast-die-haelfte-des-bedarfs](https://www.spiegel.de/wirtschaft/oeko-energie-deckt-fast-die-haelfte-des-bedarfs-a-6521ea8a-8eaf-4e20-b379-b0f1eb1d7cdc#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/ausland/wm-2022-in-katar-kampfjet-einsatz-ueber-den-fussballstadien](https://www.spiegel.de/ausland/wm-2022-in-katar-kampfjet-einsatz-ueber-den-fussballstadien-a-a5f5710e-aacb-44cc-baee-098381120baf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft](https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft-a-d7676552-da16-4ae6-a55d-33affcc3c353#ref=rss)
-### buckinghampalast
-
-* [https://www.spiegel.de/panorama/grossbritannien-rassismus-im-buckingham-palast-hofdame-bittet-aktivistin-um-entschuldigung](https://www.spiegel.de/panorama/grossbritannien-rassismus-im-buckingham-palast-hofdame-bittet-aktivistin-um-entschuldigung-a-1628cdb2-858d-4e58-aa38-337e219c152d#ref=rss)
-### hofdame
-
-* [https://www.spiegel.de/panorama/grossbritannien-rassismus-im-buckingham-palast-hofdame-bittet-aktivistin-um-entschuldigung](https://www.spiegel.de/panorama/grossbritannien-rassismus-im-buckingham-palast-hofdame-bittet-aktivistin-um-entschuldigung-a-1628cdb2-858d-4e58-aa38-337e219c152d#ref=rss)
-### aktivistin
-
-* [https://www.spiegel.de/panorama/grossbritannien-rassismus-im-buckingham-palast-hofdame-bittet-aktivistin-um-entschuldigung](https://www.spiegel.de/panorama/grossbritannien-rassismus-im-buckingham-palast-hofdame-bittet-aktivistin-um-entschuldigung-a-1628cdb2-858d-4e58-aa38-337e219c152d#ref=rss)
-### joachim
-
-* [https://www.spiegel.de/politik/deutschland/joachim-stamp-fdp-politiker-soll-sonderbevollmaechtigter-fuer-migration-werden](https://www.spiegel.de/politik/deutschland/joachim-stamp-fdp-politiker-soll-sonderbevollmaechtigter-fuer-migration-werden-a-e0892fdf-9c79-4559-99bc-3543965cac5b#ref=rss)
-### stamp
-
-* [https://www.spiegel.de/politik/deutschland/joachim-stamp-fdp-politiker-soll-sonderbevollmaechtigter-fuer-migration-werden](https://www.spiegel.de/politik/deutschland/joachim-stamp-fdp-politiker-soll-sonderbevollmaechtigter-fuer-migration-werden-a-e0892fdf-9c79-4559-99bc-3543965cac5b#ref=rss)
-### sonderbevollmächtigter
-
-* [https://www.spiegel.de/politik/deutschland/joachim-stamp-fdp-politiker-soll-sonderbevollmaechtigter-fuer-migration-werden](https://www.spiegel.de/politik/deutschland/joachim-stamp-fdp-politiker-soll-sonderbevollmaechtigter-fuer-migration-werden-a-e0892fdf-9c79-4559-99bc-3543965cac5b#ref=rss)
-### unterstützen
-
-* [https://www.spiegel.de/politik/deutschland/joachim-stamp-fdp-politiker-soll-sonderbevollmaechtigter-fuer-migration-werden](https://www.spiegel.de/politik/deutschland/joachim-stamp-fdp-politiker-soll-sonderbevollmaechtigter-fuer-migration-werden-a-e0892fdf-9c79-4559-99bc-3543965cac5b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/energiehilfen-fuer-unternehmen-werden-nur-zu-einem-bruchteil-ausgeschoepft](https://www.spiegel.de/wirtschaft/unternehmen/energiehilfen-fuer-unternehmen-werden-nur-zu-einem-bruchteil-ausgeschoepft-a-b7d7597e-beed-499e-9259-6a626073ea48#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/politik/deutschland/klage-in-karlsruhe-wegen-komplettwiederholung-der-berlin-wahl](https://www.spiegel.de/politik/deutschland/klage-in-karlsruhe-wegen-komplettwiederholung-der-berlin-wahl-a-2145e837-40e8-40f0-95fe-dd00f63aecf6#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-opfer-aus-berlin-ueber-clan-kriminalitaet-wer-traut-sich-diesen-pitbull-zu-streicheln](https://www.spiegel.de/kultur/tv/tatort-opfer-aus-berlin-ueber-clan-kriminalitaet-wer-traut-sich-diesen-pitbull-zu-streicheln-a-22c8a860-d99a-4f4a-8859-9ea86b2be5ca#ref=rss)
-### p22
-
-* [https://www.spiegel.de/panorama/p-22-in-los-angeles-muss-hollywoods-star-puma-sterben](https://www.spiegel.de/panorama/p-22-in-los-angeles-muss-hollywoods-star-puma-sterben-a-bf2ee480-0d0e-4917-865d-9bb6d03217e4#ref=rss)
-### los
-
-* [https://www.spiegel.de/panorama/p-22-in-los-angeles-muss-hollywoods-star-puma-sterben](https://www.spiegel.de/panorama/p-22-in-los-angeles-muss-hollywoods-star-puma-sterben-a-bf2ee480-0d0e-4917-865d-9bb6d03217e4#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/panorama/p-22-in-los-angeles-muss-hollywoods-star-puma-sterben](https://www.spiegel.de/panorama/p-22-in-los-angeles-muss-hollywoods-star-puma-sterben-a-bf2ee480-0d0e-4917-865d-9bb6d03217e4#ref=rss)
-### andere
-
-* [https://www.spiegel.de/panorama/p-22-in-los-angeles-muss-hollywoods-star-puma-sterben](https://www.spiegel.de/panorama/p-22-in-los-angeles-muss-hollywoods-star-puma-sterben-a-bf2ee480-0d0e-4917-865d-9bb6d03217e4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft](https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft-a-d7676552-da16-4ae6-a55d-33affcc3c353#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### pro
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/russland-verschifft-offenbar-rohoel-an-g7-staaten-trotz-angekuendigter-blockade](https://www.spiegel.de/wirtschaft/russland-verschifft-offenbar-rohoel-an-g7-staaten-trotz-angekuendigter-blockade-a-942a68d9-d935-41aa-b94d-eb27322b5d50#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesrat-billigt-zahlreiche-gesetze-das-sind-die-wichtigsten](https://www.spiegel.de/politik/deutschland/bundesrat-billigt-zahlreiche-gesetze-das-sind-die-wichtigsten-a-a179e01c-62cd-420e-80da-8be5f85b316c#ref=rss)
-### kubicki
-
-* [https://www.spiegel.de/panorama/justiz/staatsanwaltschaft-will-nach-erdogan-anzeige-nicht-gegen-kubicki-ermitteln](https://www.spiegel.de/panorama/justiz/staatsanwaltschaft-will-nach-erdogan-anzeige-nicht-gegen-kubicki-ermitteln-a-0aae57c0-1b41-4ab4-b581-632a7ae0eab1#ref=rss)
-### russland
-
-* [https://www.spiegel.de/wirtschaft/russland-verschifft-offenbar-rohoel-an-g7-staaten-trotz-angekuendigter-blockade](https://www.spiegel.de/wirtschaft/russland-verschifft-offenbar-rohoel-an-g7-staaten-trotz-angekuendigter-blockade-a-942a68d9-d935-41aa-b94d-eb27322b5d50#ref=rss)
-### g7staaten
-
-* [https://www.spiegel.de/wirtschaft/russland-verschifft-offenbar-rohoel-an-g7-staaten-trotz-angekuendigter-blockade](https://www.spiegel.de/wirtschaft/russland-verschifft-offenbar-rohoel-an-g7-staaten-trotz-angekuendigter-blockade-a-942a68d9-d935-41aa-b94d-eb27322b5d50#ref=rss)
-### gestiegen
-
-* [https://www.spiegel.de/wirtschaft/oeko-energie-deckt-fast-die-haelfte-des-bedarfs](https://www.spiegel.de/wirtschaft/oeko-energie-deckt-fast-die-haelfte-des-bedarfs-a-6521ea8a-8eaf-4e20-b379-b0f1eb1d7cdc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-proteste-zahl-iranischer-gefluechteter-in-deutschland-deutlich-gestiegen](https://www.spiegel.de/politik/deutschland/iran-proteste-zahl-iranischer-gefluechteter-in-deutschland-deutlich-gestiegen-a-4aec5b75-1def-47f8-a3fd-3c4ad2802340#ref=rss)
-### siniša
-
-* [https://www.spiegel.de/sport/fussball/fussball-ehemaliger-jugoslawischer-nationalspieler-sinisa-mihajlovic-nach-krebserkrankung-gestorben](https://www.spiegel.de/sport/fussball/fussball-ehemaliger-jugoslawischer-nationalspieler-sinisa-mihajlovic-nach-krebserkrankung-gestorben-a-ae6a9edd-b37e-4cb0-b59c-d68f0239b327#ref=rss)
-### mihajlović
-
-* [https://www.spiegel.de/sport/fussball/fussball-ehemaliger-jugoslawischer-nationalspieler-sinisa-mihajlovic-nach-krebserkrankung-gestorben](https://www.spiegel.de/sport/fussball/fussball-ehemaliger-jugoslawischer-nationalspieler-sinisa-mihajlovic-nach-krebserkrankung-gestorben-a-ae6a9edd-b37e-4cb0-b59c-d68f0239b327#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/sport/fussball/fussball-ehemaliger-jugoslawischer-nationalspieler-sinisa-mihajlovic-nach-krebserkrankung-gestorben](https://www.spiegel.de/sport/fussball/fussball-ehemaliger-jugoslawischer-nationalspieler-sinisa-mihajlovic-nach-krebserkrankung-gestorben-a-ae6a9edd-b37e-4cb0-b59c-d68f0239b327#ref=rss)
-### melanie
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe](https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe-a-07d9b0cb-6702-47aa-a78a-7166bb8ef9ea#ref=rss)
-### müller
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe](https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe-a-07d9b0cb-6702-47aa-a78a-7166bb8ef9ea#ref=rss)
-### lionel
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe](https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe-a-07d9b0cb-6702-47aa-a78a-7166bb8ef9ea#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft](https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft-a-d7676552-da16-4ae6-a55d-33affcc3c353#ref=rss)
-### messi
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe](https://www.spiegel.de/politik/deutschland/news-des-tages-zerborstener-aquadom-in-berlin-melanie-mueller-lionel-messi-kylian-mbappe-a-07d9b0cb-6702-47aa-a78a-7166bb8ef9ea#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft](https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft-a-d7676552-da16-4ae6-a55d-33affcc3c353#ref=rss)
-### kohleausstieg
-
-* [https://www.spiegel.de/politik/deutschland/ost-ministerpraesidenten-warnen-vor-vorzeitigem-kohleausstieg](https://www.spiegel.de/politik/deutschland/ost-ministerpraesidenten-warnen-vor-vorzeitigem-kohleausstieg-a-fb4251d7-2eeb-48a9-bbe3-1a05413c2547#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesrat-billigt-zahlreiche-gesetze-das-sind-die-wichtigsten](https://www.spiegel.de/politik/deutschland/bundesrat-billigt-zahlreiche-gesetze-das-sind-die-wichtigsten-a-a179e01c-62cd-420e-80da-8be5f85b316c#ref=rss)
-### brandenburg
-
-* [https://www.spiegel.de/politik/deutschland/ost-ministerpraesidenten-warnen-vor-vorzeitigem-kohleausstieg](https://www.spiegel.de/politik/deutschland/ost-ministerpraesidenten-warnen-vor-vorzeitigem-kohleausstieg-a-fb4251d7-2eeb-48a9-bbe3-1a05413c2547#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-in-brandenburg-soll-saal-im-landtag-in-inakzeptablem-zustand-hinterlassen-haben](https://www.spiegel.de/politik/deutschland/afd-in-brandenburg-soll-saal-im-landtag-in-inakzeptablem-zustand-hinterlassen-haben-a-1251e5df-6861-4097-b3ab-cf90199358f0#ref=rss)
-### produziert
-
-* [https://www.spiegel.de/politik/deutschland/ost-ministerpraesidenten-warnen-vor-vorzeitigem-kohleausstieg](https://www.spiegel.de/politik/deutschland/ost-ministerpraesidenten-warnen-vor-vorzeitigem-kohleausstieg-a-fb4251d7-2eeb-48a9-bbe3-1a05413c2547#ref=rss)
-* [https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft](https://www.spiegel.de/sport/fussball/wm-2022-in-katar-diese-bilder-bleiben-von-der-fussball-weltmeisterschaft-a-d7676552-da16-4ae6-a55d-33affcc3c353#ref=rss)
-### landtag
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-brandenburg-soll-saal-im-landtag-in-inakzeptablem-zustand-hinterlassen-haben](https://www.spiegel.de/politik/deutschland/afd-in-brandenburg-soll-saal-im-landtag-in-inakzeptablem-zustand-hinterlassen-haben-a-1251e5df-6861-4097-b3ab-cf90199358f0#ref=rss)
-### hinterlassen
-
-* [https://www.spiegel.de/politik/deutschland/afd-in-brandenburg-soll-saal-im-landtag-in-inakzeptablem-zustand-hinterlassen-haben](https://www.spiegel.de/politik/deutschland/afd-in-brandenburg-soll-saal-im-landtag-in-inakzeptablem-zustand-hinterlassen-haben-a-1251e5df-6861-4097-b3ab-cf90199358f0#ref=rss)
-### razzia
-
-* [https://www.spiegel.de/politik/deutschland/razzia-reichsbuerger-besassen-mehr-als-100-waffen-die-meisten-legal](https://www.spiegel.de/politik/deutschland/razzia-reichsbuerger-besassen-mehr-als-100-waffen-die-meisten-legal-a-bdf6150b-00df-45ee-940e-d02e53b50534#ref=rss)
-### reichsbürger
-
-* [https://www.spiegel.de/politik/deutschland/razzia-reichsbuerger-besassen-mehr-als-100-waffen-die-meisten-legal](https://www.spiegel.de/politik/deutschland/razzia-reichsbuerger-besassen-mehr-als-100-waffen-die-meisten-legal-a-bdf6150b-00df-45ee-940e-d02e53b50534#ref=rss)
-### besaßen
-
-* [https://www.spiegel.de/politik/deutschland/razzia-reichsbuerger-besassen-mehr-als-100-waffen-die-meisten-legal](https://www.spiegel.de/politik/deutschland/razzia-reichsbuerger-besassen-mehr-als-100-waffen-die-meisten-legal-a-bdf6150b-00df-45ee-940e-d02e53b50534#ref=rss)
-### legal
-
-* [https://www.spiegel.de/politik/deutschland/razzia-reichsbuerger-besassen-mehr-als-100-waffen-die-meisten-legal](https://www.spiegel.de/politik/deutschland/razzia-reichsbuerger-besassen-mehr-als-100-waffen-die-meisten-legal-a-bdf6150b-00df-45ee-940e-d02e53b50534#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-und-die-corona-maskenaffaere-in-bayern-sully-soeder-und-die-notlandung](https://www.spiegel.de/politik/deutschland/markus-soeder-und-die-corona-maskenaffaere-in-bayern-sully-soeder-und-die-notlandung-a-6dcc5207-a337-4a54-8b55-85010372eb42#ref=rss)
-### bundesrat
-
-* [https://www.spiegel.de/politik/deutschland/bundesrat-billigt-zahlreiche-gesetze-das-sind-die-wichtigsten](https://www.spiegel.de/politik/deutschland/bundesrat-billigt-zahlreiche-gesetze-das-sind-die-wichtigsten-a-a179e01c-62cd-420e-80da-8be5f85b316c#ref=rss)
-### bgh
-
-* [https://www.spiegel.de/wirtschaft/bgh-grundstueck-nicht-bebaut-gemeinde-kann-es-zurueckfordern](https://www.spiegel.de/wirtschaft/bgh-grundstueck-nicht-bebaut-gemeinde-kann-es-zurueckfordern-a-fb16c611-c164-46e5-9f69-347a34389ff3#ref=rss)
-### grundstück
-
-* [https://www.spiegel.de/wirtschaft/bgh-grundstueck-nicht-bebaut-gemeinde-kann-es-zurueckfordern](https://www.spiegel.de/wirtschaft/bgh-grundstueck-nicht-bebaut-gemeinde-kann-es-zurueckfordern-a-fb16c611-c164-46e5-9f69-347a34389ff3#ref=rss)
-### gemeinde
-
-* [https://www.spiegel.de/wirtschaft/bgh-grundstueck-nicht-bebaut-gemeinde-kann-es-zurueckfordern](https://www.spiegel.de/wirtschaft/bgh-grundstueck-nicht-bebaut-gemeinde-kann-es-zurueckfordern-a-fb16c611-c164-46e5-9f69-347a34389ff3#ref=rss)
-### zurückfordern
-
-* [https://www.spiegel.de/wirtschaft/bgh-grundstueck-nicht-bebaut-gemeinde-kann-es-zurueckfordern](https://www.spiegel.de/wirtschaft/bgh-grundstueck-nicht-bebaut-gemeinde-kann-es-zurueckfordern-a-fb16c611-c164-46e5-9f69-347a34389ff3#ref=rss)
-### karlspreis
-
-* [https://www.spiegel.de/politik/deutschland/aachener-karlspreis-2023-fuer-wolodymyr-selenskyj-und-die-ukrainer](https://www.spiegel.de/politik/deutschland/aachener-karlspreis-2023-fuer-wolodymyr-selenskyj-und-die-ukrainer-a-c09844e8-4cf9-4d7d-9efa-2e6d0bf85714#ref=rss)
-### wolodymyr
-
-* [https://www.spiegel.de/politik/deutschland/aachener-karlspreis-2023-fuer-wolodymyr-selenskyj-und-die-ukrainer](https://www.spiegel.de/politik/deutschland/aachener-karlspreis-2023-fuer-wolodymyr-selenskyj-und-die-ukrainer-a-c09844e8-4cf9-4d7d-9efa-2e6d0bf85714#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/politik/deutschland/aachener-karlspreis-2023-fuer-wolodymyr-selenskyj-und-die-ukrainer](https://www.spiegel.de/politik/deutschland/aachener-karlspreis-2023-fuer-wolodymyr-selenskyj-und-die-ukrainer-a-c09844e8-4cf9-4d7d-9efa-2e6d0bf85714#ref=rss)
-### briefzustellung
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-wirtschaftsministerium-ueberlegt-briefzustellung-an-packstationen-zu-ermoeglichen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-wirtschaftsministerium-ueberlegt-briefzustellung-an-packstationen-zu-ermoeglichen-a-62df1956-dc88-43a4-8099-ee770441c011#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/politik/deutschland/iran-proteste-zahl-iranischer-gefluechteter-in-deutschland-deutlich-gestiegen](https://www.spiegel.de/politik/deutschland/iran-proteste-zahl-iranischer-gefluechteter-in-deutschland-deutlich-gestiegen-a-4aec5b75-1def-47f8-a3fd-3c4ad2802340#ref=rss)
-### tatort
+* [https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt](https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt-a-3ecf58b0-2f66-4551-b7e2-248f3b93dc59#ref=rss)
+* [https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter](https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter-a-d7db9375-765f-445f-a677-6ef86a7e2041#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist](https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist-a-ec2c684b-a381-415d-a42c-bbe6d9e50d03#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/rueckenschmerzen-ueberfluessige-ops-was-wirklich-gegen-das-volksleiden-hilft](https://www.spiegel.de/wissenschaft/medizin/rueckenschmerzen-ueberfluessige-ops-was-wirklich-gegen-das-volksleiden-hilft-a-a790a0e3-a64d-48e9-bd13-a44e1460906f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/robert-habeck-verteidigt-lng-terminal-in-wilhelmshaven](https://www.spiegel.de/wirtschaft/robert-habeck-verteidigt-lng-terminal-in-wilhelmshaven-a-1e0516ec-db4d-4eae-928a-d4f5ca9a3c7b#ref=rss)
+### samstag
 
-* [https://www.spiegel.de/kultur/tv/tatort-opfer-aus-berlin-ueber-clan-kriminalitaet-wer-traut-sich-diesen-pitbull-zu-streicheln](https://www.spiegel.de/kultur/tv/tatort-opfer-aus-berlin-ueber-clan-kriminalitaet-wer-traut-sich-diesen-pitbull-zu-streicheln-a-22c8a860-d99a-4f4a-8859-9ea86b2be5ca#ref=rss)
-### millionen
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt](https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt-a-38276c95-c331-4d0c-809c-b41e6abd98ea#ref=rss)
+* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zum-samstag-17-12](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zum-samstag-17-12-a-7f201787-1b06-445e-82af-31f7b6e7a4f2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht](https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht-a-e5d5f3b9-cd80-4f3b-9f54-63c7ee2f49f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk-a-cb551ae7-769a-47d3-876e-14dfb586f7fc#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/corona-bund-wollte-trotz-voller-lager-millionen-zusaetzliche-schutzmasken-kaufen](https://www.spiegel.de/politik/deutschland/corona-bund-wollte-trotz-voller-lager-millionen-zusaetzliche-schutzmasken-kaufen-a-c7b9557d-159f-4bd0-8dbf-b87ad5884af2#ref=rss)
+* [https://www.spiegel.de/ausland/usa-ein-drittel-der-hinrichtungen-mit-komplikationen-und-problemen](https://www.spiegel.de/ausland/usa-ein-drittel-der-hinrichtungen-mit-komplikationen-und-problemen-a-73a2b934-c3ec-4479-98ae-c8e47c2c0614#ref=rss)
+* [https://www.spiegel.de/ausland/obdachlosigkeit-in-thailand-wie-eine-suppenkueche-bangkoks-aermste-versorgt](https://www.spiegel.de/ausland/obdachlosigkeit-in-thailand-wie-eine-suppenkueche-bangkoks-aermste-versorgt-a-173730ef-89ad-47d1-89fc-3668a1b136ff#ref=rss)
+* [https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit](https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit-a-99a32226-931c-40ac-a2d8-05bbe1a95429#ref=rss)
+* [https://www.spiegel.de/ausland/wochenrueckblick-russlands-armee-eva-kaili-erkaeltungswelle-podcast](https://www.spiegel.de/ausland/wochenrueckblick-russlands-armee-eva-kaili-erkaeltungswelle-podcast-a-d0259207-be3f-4d3a-a9a9-b959c3885eb4#ref=rss)
+### musk
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-laesst-gesperrte-journalisten-zurueck-auf-twitter](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-laesst-gesperrte-journalisten-zurueck-auf-twitter-a-bdf67560-29f2-4b1f-bd97-3263133919d2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben](https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben-a-198c94d3-8517-401a-b521-f80807954588#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk-a-cb551ae7-769a-47d3-876e-14dfb586f7fc#ref=rss)
+### twitter
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-laesst-gesperrte-journalisten-zurueck-auf-twitter](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-laesst-gesperrte-journalisten-zurueck-auf-twitter-a-bdf67560-29f2-4b1f-bd97-3263133919d2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben](https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben-a-198c94d3-8517-401a-b521-f80807954588#ref=rss)
+### uns
+
+* [https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter](https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter-a-d7db9375-765f-445f-a677-6ef86a7e2041#ref=rss)
+* [https://www.spiegel.de/psychologie/persoenliches-wohlbefinden-wie-es-gelingen-kann-zufriedener-zu-sein](https://www.spiegel.de/psychologie/persoenliches-wohlbefinden-wie-es-gelingen-kann-zufriedener-zu-sein-a-979e1997-3974-4d57-b62b-8b920921d443#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist](https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist-a-ec2c684b-a381-415d-a42c-bbe6d9e50d03#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/panorama/silvester-bundesaerztekammer-fordert-dauerhaftes-boellerverbot](https://www.spiegel.de/panorama/silvester-bundesaerztekammer-fordert-dauerhaftes-boellerverbot-a-5205ff6d-ceb2-4093-9856-c118b9081ac4#ref=rss)
+* [https://www.spiegel.de/ausland/obdachlosigkeit-in-thailand-wie-eine-suppenkueche-bangkoks-aermste-versorgt](https://www.spiegel.de/ausland/obdachlosigkeit-in-thailand-wie-eine-suppenkueche-bangkoks-aermste-versorgt-a-173730ef-89ad-47d1-89fc-3668a1b136ff#ref=rss)
+* [https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter](https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter-a-d7db9375-765f-445f-a677-6ef86a7e2041#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/panorama/geplatztes-aquarium-aquadom-am-bau-beteiligte-firma-schickt-team-nach-berlin](https://www.spiegel.de/panorama/geplatztes-aquarium-aquadom-am-bau-beteiligte-firma-schickt-team-nach-berlin-a-68cc1bdb-66c1-43fd-956d-eba25cf4974d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben](https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben-a-198c94d3-8517-401a-b521-f80807954588#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht](https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht-a-e5d5f3b9-cd80-4f3b-9f54-63c7ee2f49f7#ref=rss)
+### erstes
+
+* [https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur](https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur-a-b49f4d08-a917-41e8-ac22-70e7618ec956#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht](https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht-a-e5d5f3b9-cd80-4f3b-9f54-63c7ee2f49f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk-a-cb551ae7-769a-47d3-876e-14dfb586f7fc#ref=rss)
+### elon
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-laesst-gesperrte-journalisten-zurueck-auf-twitter](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-laesst-gesperrte-journalisten-zurueck-auf-twitter-a-bdf67560-29f2-4b1f-bd97-3263133919d2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben](https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben-a-198c94d3-8517-401a-b521-f80807954588#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk-a-cb551ae7-769a-47d3-876e-14dfb586f7fc#ref=rss)
+### viele
+
+* [https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben](https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben-a-198c94d3-8517-401a-b521-f80807954588#ref=rss)
+* [https://www.spiegel.de/ausland/wochenrueckblick-russlands-armee-eva-kaili-erkaeltungswelle-podcast](https://www.spiegel.de/ausland/wochenrueckblick-russlands-armee-eva-kaili-erkaeltungswelle-podcast-a-d0259207-be3f-4d3a-a9a9-b959c3885eb4#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt](https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt-a-3ecf58b0-2f66-4551-b7e2-248f3b93dc59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/robert-habeck-verteidigt-lng-terminal-in-wilhelmshaven](https://www.spiegel.de/wirtschaft/robert-habeck-verteidigt-lng-terminal-in-wilhelmshaven-a-1e0516ec-db4d-4eae-928a-d4f5ca9a3c7b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht](https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht-a-e5d5f3b9-cd80-4f3b-9f54-63c7ee2f49f7#ref=rss)
+### wir
+
+* [https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter](https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter-a-d7db9375-765f-445f-a677-6ef86a7e2041#ref=rss)
+* [https://www.spiegel.de/psychologie/persoenliches-wohlbefinden-wie-es-gelingen-kann-zufriedener-zu-sein](https://www.spiegel.de/psychologie/persoenliches-wohlbefinden-wie-es-gelingen-kann-zufriedener-zu-sein-a-979e1997-3974-4d57-b62b-8b920921d443#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist](https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist-a-ec2c684b-a381-415d-a42c-bbe6d9e50d03#ref=rss)
+### lngterminal
+
+* [https://www.spiegel.de/wirtschaft/robert-habeck-verteidigt-lng-terminal-in-wilhelmshaven](https://www.spiegel.de/wirtschaft/robert-habeck-verteidigt-lng-terminal-in-wilhelmshaven-a-1e0516ec-db4d-4eae-928a-d4f5ca9a3c7b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht](https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht-a-e5d5f3b9-cd80-4f3b-9f54-63c7ee2f49f7#ref=rss)
+### wilhelmshaven
+
+* [https://www.spiegel.de/wirtschaft/robert-habeck-verteidigt-lng-terminal-in-wilhelmshaven](https://www.spiegel.de/wirtschaft/robert-habeck-verteidigt-lng-terminal-in-wilhelmshaven-a-1e0516ec-db4d-4eae-928a-d4f5ca9a3c7b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht](https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht-a-e5d5f3b9-cd80-4f3b-9f54-63c7ee2f49f7#ref=rss)
+### news
+
+* [https://www.spiegel.de/sport/fussball/wm-news-von-heute-kevin-kuranyi-verletzt-sich-schwer-bei-legendenspiel](https://www.spiegel.de/sport/fussball/wm-news-von-heute-kevin-kuranyi-verletzt-sich-schwer-bei-legendenspiel-a-04371836-17cb-460f-8122-9b180728d082#ref=rss)
+* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zum-samstag-17-12](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zum-samstag-17-12-a-7f201787-1b06-445e-82af-31f7b6e7a4f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk-a-cb551ae7-769a-47d3-876e-14dfb586f7fc#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zum-samstag-17-12](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zum-samstag-17-12-a-7f201787-1b06-445e-82af-31f7b6e7a4f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk-a-cb551ae7-769a-47d3-876e-14dfb586f7fc#ref=rss)
+* [https://www.spiegel.de/ausland/wochenrueckblick-russlands-armee-eva-kaili-erkaeltungswelle-podcast](https://www.spiegel.de/ausland/wochenrueckblick-russlands-armee-eva-kaili-erkaeltungswelle-podcast-a-d0259207-be3f-4d3a-a9a9-b959c3885eb4#ref=rss)
+### bundesärztekammer
+
+* [https://www.spiegel.de/panorama/silvester-bundesaerztekammer-fordert-dauerhaftes-boellerverbot](https://www.spiegel.de/panorama/silvester-bundesaerztekammer-fordert-dauerhaftes-boellerverbot-a-5205ff6d-ceb2-4093-9856-c118b9081ac4#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/panorama/silvester-bundesaerztekammer-fordert-dauerhaftes-boellerverbot](https://www.spiegel.de/panorama/silvester-bundesaerztekammer-fordert-dauerhaftes-boellerverbot-a-5205ff6d-ceb2-4093-9856-c118b9081ac4#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt](https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt-a-38276c95-c331-4d0c-809c-b41e6abd98ea#ref=rss)
+### schickt
+
+* [https://www.spiegel.de/panorama/geplatztes-aquarium-aquadom-am-bau-beteiligte-firma-schickt-team-nach-berlin](https://www.spiegel.de/panorama/geplatztes-aquarium-aquadom-am-bau-beteiligte-firma-schickt-team-nach-berlin-a-68cc1bdb-66c1-43fd-956d-eba25cf4974d#ref=rss)
+### team
+
+* [https://www.spiegel.de/panorama/geplatztes-aquarium-aquadom-am-bau-beteiligte-firma-schickt-team-nach-berlin](https://www.spiegel.de/panorama/geplatztes-aquarium-aquadom-am-bau-beteiligte-firma-schickt-team-nach-berlin-a-68cc1bdb-66c1-43fd-956d-eba25cf4974d#ref=rss)
+### hauptstadt
+
+* [https://www.spiegel.de/panorama/geplatztes-aquarium-aquadom-am-bau-beteiligte-firma-schickt-team-nach-berlin](https://www.spiegel.de/panorama/geplatztes-aquarium-aquadom-am-bau-beteiligte-firma-schickt-team-nach-berlin-a-68cc1bdb-66c1-43fd-956d-eba25cf4974d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt](https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt-a-38276c95-c331-4d0c-809c-b41e6abd98ea#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-kapitolausschuss-koennte-weitere-ermittlungen-empfehlen](https://www.spiegel.de/ausland/donald-trump-kapitolausschuss-koennte-weitere-ermittlungen-empfehlen-a-2c5e25cc-8538-42cb-9b67-a0380685f6f9#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-kapitolausschuss-koennte-weitere-ermittlungen-empfehlen](https://www.spiegel.de/ausland/donald-trump-kapitolausschuss-koennte-weitere-ermittlungen-empfehlen-a-2c5e25cc-8538-42cb-9b67-a0380685f6f9#ref=rss)
+### empfehlen
+
+* [https://www.spiegel.de/ausland/donald-trump-kapitolausschuss-koennte-weitere-ermittlungen-empfehlen](https://www.spiegel.de/ausland/donald-trump-kapitolausschuss-koennte-weitere-ermittlungen-empfehlen-a-2c5e25cc-8538-42cb-9b67-a0380685f6f9#ref=rss)
+### bundeswehr
+
+* [https://www.spiegel.de/politik/deutschland/zeitenwende-bei-der-bundeswehr-vier-schritte-aus-dem-ruestungsdschungel-gastkommentar](https://www.spiegel.de/politik/deutschland/zeitenwende-bei-der-bundeswehr-vier-schritte-aus-dem-ruestungsdschungel-gastkommentar-a-3a25de23-e0c5-46ae-9eef-50ad6b5a7f15#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/politik/deutschland/zeitenwende-bei-der-bundeswehr-vier-schritte-aus-dem-ruestungsdschungel-gastkommentar](https://www.spiegel.de/politik/deutschland/zeitenwende-bei-der-bundeswehr-vier-schritte-aus-dem-ruestungsdschungel-gastkommentar-a-3a25de23-e0c5-46ae-9eef-50ad6b5a7f15#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/kinderschutzbund-ueber-lieferengpaesse-armutszeugnis-fuer-die-politik-dass-jetzt-nicht-einmal-genug-medikamente-vorhanden-sind](https://www.spiegel.de/wirtschaft/service/kinderschutzbund-ueber-lieferengpaesse-armutszeugnis-fuer-die-politik-dass-jetzt-nicht-einmal-genug-medikamente-vorhanden-sind-a-c17856a1-35ce-4476-a241-6aeac76c285d#ref=rss)
+### hilft
+
+* [https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur](https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur-a-b49f4d08-a917-41e8-ac22-70e7618ec956#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/rueckenschmerzen-ueberfluessige-ops-was-wirklich-gegen-das-volksleiden-hilft](https://www.spiegel.de/wissenschaft/medizin/rueckenschmerzen-ueberfluessige-ops-was-wirklich-gegen-das-volksleiden-hilft-a-a790a0e3-a64d-48e9-bd13-a44e1460906f#ref=rss)
+### wirklich
+
+* [https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur](https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur-a-b49f4d08-a917-41e8-ac22-70e7618ec956#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/rueckenschmerzen-ueberfluessige-ops-was-wirklich-gegen-das-volksleiden-hilft](https://www.spiegel.de/wissenschaft/medizin/rueckenschmerzen-ueberfluessige-ops-was-wirklich-gegen-das-volksleiden-hilft-a-a790a0e3-a64d-48e9-bd13-a44e1460906f#ref=rss)
+### natur
+
+* [https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur](https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur-a-b49f4d08-a917-41e8-ac22-70e7618ec956#ref=rss)
+### land
+
+* [https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur](https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur-a-b49f4d08-a917-41e8-ac22-70e7618ec956#ref=rss)
+* [https://www.spiegel.de/geschichte/familienstuecke-aus-kriegszeiten-ich-bin-vor-heimweh-beinahe-zugrunde-gegangen](https://www.spiegel.de/geschichte/familienstuecke-aus-kriegszeiten-ich-bin-vor-heimweh-beinahe-zugrunde-gegangen-a-63e86618-52c7-4d01-9c4b-49ef27189ab1#ref=rss)
+### überhaupt
+
+* [https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur](https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur-a-b49f4d08-a917-41e8-ac22-70e7618ec956#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jane-fonda-ueber-ihre-krebstherapie-bestes-geburtstagsgeschenk-ueberhaupt](https://www.spiegel.de/panorama/leute/jane-fonda-ueber-ihre-krebstherapie-bestes-geburtstagsgeschenk-ueberhaupt-a-b8f6eee1-e32c-4b1b-8eb3-4cd5062e3c0d#ref=rss)
+### rest
+
+* [https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur](https://www.spiegel.de/wissenschaft/natur/naturgipfel-cop15-in-montreal-was-hilft-wirklich-gegen-die-krise-der-natur-a-b49f4d08-a917-41e8-ac22-70e7618ec956#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/rueckenschmerzen-ueberfluessige-ops-was-wirklich-gegen-das-volksleiden-hilft](https://www.spiegel.de/wissenschaft/medizin/rueckenschmerzen-ueberfluessige-ops-was-wirklich-gegen-das-volksleiden-hilft-a-a790a0e3-a64d-48e9-bd13-a44e1460906f#ref=rss)
+### jane
+
+* [https://www.spiegel.de/panorama/leute/jane-fonda-ueber-ihre-krebstherapie-bestes-geburtstagsgeschenk-ueberhaupt](https://www.spiegel.de/panorama/leute/jane-fonda-ueber-ihre-krebstherapie-bestes-geburtstagsgeschenk-ueberhaupt-a-b8f6eee1-e32c-4b1b-8eb3-4cd5062e3c0d#ref=rss)
+### fonda
+
+* [https://www.spiegel.de/panorama/leute/jane-fonda-ueber-ihre-krebstherapie-bestes-geburtstagsgeschenk-ueberhaupt](https://www.spiegel.de/panorama/leute/jane-fonda-ueber-ihre-krebstherapie-bestes-geburtstagsgeschenk-ueberhaupt-a-b8f6eee1-e32c-4b1b-8eb3-4cd5062e3c0d#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/leute/jane-fonda-ueber-ihre-krebstherapie-bestes-geburtstagsgeschenk-ueberhaupt](https://www.spiegel.de/panorama/leute/jane-fonda-ueber-ihre-krebstherapie-bestes-geburtstagsgeschenk-ueberhaupt-a-b8f6eee1-e32c-4b1b-8eb3-4cd5062e3c0d#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-laesst-gesperrte-journalisten-zurueck-auf-twitter](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-laesst-gesperrte-journalisten-zurueck-auf-twitter-a-bdf67560-29f2-4b1f-bd97-3263133919d2#ref=rss)
+### uni
+
+* [https://www.spiegel.de/panorama/bildung/uni-koeln-belaestigungsvorwuerfe-professor-in-unterhosen](https://www.spiegel.de/panorama/bildung/uni-koeln-belaestigungsvorwuerfe-professor-in-unterhosen-a-2bdb1cd7-f9b1-4e97-994f-40f076ee3974#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/bildung/uni-koeln-belaestigungsvorwuerfe-professor-in-unterhosen](https://www.spiegel.de/panorama/bildung/uni-koeln-belaestigungsvorwuerfe-professor-in-unterhosen-a-2bdb1cd7-f9b1-4e97-994f-40f076ee3974#ref=rss)
+### allem
+
+* [https://www.spiegel.de/wirtschaft/service/kinderschutzbund-ueber-lieferengpaesse-armutszeugnis-fuer-die-politik-dass-jetzt-nicht-einmal-genug-medikamente-vorhanden-sind](https://www.spiegel.de/wirtschaft/service/kinderschutzbund-ueber-lieferengpaesse-armutszeugnis-fuer-die-politik-dass-jetzt-nicht-einmal-genug-medikamente-vorhanden-sind-a-c17856a1-35ce-4476-a241-6aeac76c285d#ref=rss)
+* [https://www.spiegel.de/ausland/obdachlosigkeit-in-thailand-wie-eine-suppenkueche-bangkoks-aermste-versorgt](https://www.spiegel.de/ausland/obdachlosigkeit-in-thailand-wie-eine-suppenkueche-bangkoks-aermste-versorgt-a-173730ef-89ad-47d1-89fc-3668a1b136ff#ref=rss)
+### derzeit
+
+* [https://www.spiegel.de/wirtschaft/service/kinderschutzbund-ueber-lieferengpaesse-armutszeugnis-fuer-die-politik-dass-jetzt-nicht-einmal-genug-medikamente-vorhanden-sind](https://www.spiegel.de/wirtschaft/service/kinderschutzbund-ueber-lieferengpaesse-armutszeugnis-fuer-die-politik-dass-jetzt-nicht-einmal-genug-medikamente-vorhanden-sind-a-c17856a1-35ce-4476-a241-6aeac76c285d#ref=rss)
+* [https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt](https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt-a-3ecf58b0-2f66-4551-b7e2-248f3b93dc59#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/service/kinderschutzbund-ueber-lieferengpaesse-armutszeugnis-fuer-die-politik-dass-jetzt-nicht-einmal-genug-medikamente-vorhanden-sind](https://www.spiegel.de/wirtschaft/service/kinderschutzbund-ueber-lieferengpaesse-armutszeugnis-fuer-die-politik-dass-jetzt-nicht-einmal-genug-medikamente-vorhanden-sind-a-c17856a1-35ce-4476-a241-6aeac76c285d#ref=rss)
+* [https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit](https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit-a-99a32226-931c-40ac-a2d8-05bbe1a95429#ref=rss)
+### kliniken
+
+* [https://www.spiegel.de/wirtschaft/service/kinderschutzbund-ueber-lieferengpaesse-armutszeugnis-fuer-die-politik-dass-jetzt-nicht-einmal-genug-medikamente-vorhanden-sind](https://www.spiegel.de/wirtschaft/service/kinderschutzbund-ueber-lieferengpaesse-armutszeugnis-fuer-die-politik-dass-jetzt-nicht-einmal-genug-medikamente-vorhanden-sind-a-c17856a1-35ce-4476-a241-6aeac76c285d#ref=rss)
+* [https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt](https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt-a-3ecf58b0-2f66-4551-b7e2-248f3b93dc59#ref=rss)
+### wiederhergestellt
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt](https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt-a-38276c95-c331-4d0c-809c-b41e6abd98ea#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-laesst-gesperrte-journalisten-zurueck-auf-twitter](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-laesst-gesperrte-journalisten-zurueck-auf-twitter-a-bdf67560-29f2-4b1f-bd97-3263133919d2#ref=rss)
+### wasser
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt](https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt-a-38276c95-c331-4d0c-809c-b41e6abd98ea#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht](https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht-a-e5d5f3b9-cd80-4f3b-9f54-63c7ee2f49f7#ref=rss)
+### ukrainischen
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt](https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt-a-38276c95-c331-4d0c-809c-b41e6abd98ea#ref=rss)
+* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zum-samstag-17-12](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zum-samstag-17-12-a-7f201787-1b06-445e-82af-31f7b6e7a4f2#ref=rss)
+### weiterhin
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt](https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt-a-38276c95-c331-4d0c-809c-b41e6abd98ea#ref=rss)
+* [https://www.spiegel.de/politik/reichsbuerger-razzia-baerbel-bas-rechnet-mit-schaerferen-zutrittsregeln-fuer-bundestag](https://www.spiegel.de/politik/reichsbuerger-razzia-baerbel-bas-rechnet-mit-schaerferen-zutrittsregeln-fuer-bundestag-a-9c3e831d-dad4-46e0-a3b2-7a5bad9b00f6#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt](https://www.spiegel.de/ausland/ukraine-news-am-samstag-wasserversorgung-in-kiew-ist-wieder-hergestellt-a-38276c95-c331-4d0c-809c-b41e6abd98ea#ref=rss)
+* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zum-samstag-17-12](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zum-samstag-17-12-a-7f201787-1b06-445e-82af-31f7b6e7a4f2#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-ein-drittel-der-hinrichtungen-mit-komplikationen-und-problemen](https://www.spiegel.de/ausland/usa-ein-drittel-der-hinrichtungen-mit-komplikationen-und-problemen-a-73a2b934-c3ec-4479-98ae-c8e47c2c0614#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-laesst-gesperrte-journalisten-zurueck-auf-twitter](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-laesst-gesperrte-journalisten-zurueck-auf-twitter-a-bdf67560-29f2-4b1f-bd97-3263133919d2#ref=rss)
+* [https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit](https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit-a-99a32226-931c-40ac-a2d8-05bbe1a95429#ref=rss)
+### christian
+
+* [https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben](https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben-a-198c94d3-8517-401a-b521-f80807954588#ref=rss)
+* [https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt](https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt-a-3ecf58b0-2f66-4551-b7e2-248f3b93dc59#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben](https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben-a-198c94d3-8517-401a-b521-f80807954588#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist](https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist-a-ec2c684b-a381-415d-a42c-bbe6d9e50d03#ref=rss)
+### gehen
+
+* [https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben](https://www.spiegel.de/politik/deutschland/twitter-christian-lindner-und-marco-buschmann-von-der-fdp-wollen-vorerst-bleiben-a-198c94d3-8517-401a-b521-f80807954588#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht](https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht-a-e5d5f3b9-cd80-4f3b-9f54-63c7ee2f49f7#ref=rss)
+### familien
+
+* [https://www.spiegel.de/ausland/obdachlosigkeit-in-thailand-wie-eine-suppenkueche-bangkoks-aermste-versorgt](https://www.spiegel.de/ausland/obdachlosigkeit-in-thailand-wie-eine-suppenkueche-bangkoks-aermste-versorgt-a-173730ef-89ad-47d1-89fc-3668a1b136ff#ref=rss)
+* [https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter](https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter-a-d7db9375-765f-445f-a677-6ef86a7e2041#ref=rss)
+### ältere
+
+* [https://www.spiegel.de/ausland/obdachlosigkeit-in-thailand-wie-eine-suppenkueche-bangkoks-aermste-versorgt](https://www.spiegel.de/ausland/obdachlosigkeit-in-thailand-wie-eine-suppenkueche-bangkoks-aermste-versorgt-a-173730ef-89ad-47d1-89fc-3668a1b136ff#ref=rss)
+* [https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit](https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit-a-99a32226-931c-40ac-a2d8-05bbe1a95429#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/stil/vegane-rezepte-fuer-weihnachten-so-lecker-kann-ein-fleischloses-festtagsmenue-sein](https://www.spiegel.de/stil/vegane-rezepte-fuer-weihnachten-so-lecker-kann-ein-fleischloses-festtagsmenue-sein-a-5c3e8336-f877-460c-af53-2afe924ec066#ref=rss)
+* [https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter](https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter-a-d7db9375-765f-445f-a677-6ef86a7e2041#ref=rss)
+### bas
+
+* [https://www.spiegel.de/politik/reichsbuerger-razzia-baerbel-bas-rechnet-mit-schaerferen-zutrittsregeln-fuer-bundestag](https://www.spiegel.de/politik/reichsbuerger-razzia-baerbel-bas-rechnet-mit-schaerferen-zutrittsregeln-fuer-bundestag-a-9c3e831d-dad4-46e0-a3b2-7a5bad9b00f6#ref=rss)
+### karagiannidis
+
+* [https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt](https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt-a-3ecf58b0-2f66-4551-b7e2-248f3b93dc59#ref=rss)
+### sorgen
+
+* [https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt](https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt-a-3ecf58b0-2f66-4551-b7e2-248f3b93dc59#ref=rss)
+* [https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit](https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit-a-99a32226-931c-40ac-a2d8-05bbe1a95429#ref=rss)
+### gut
+
+* [https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt](https://www.spiegel.de/panorama/intensivmediziner-christian-karagiannidis-so-hohen-krankenstand-noch-nicht-erlebt-a-3ecf58b0-2f66-4551-b7e2-248f3b93dc59#ref=rss)
+* [https://www.spiegel.de/psychologie/persoenliches-wohlbefinden-wie-es-gelingen-kann-zufriedener-zu-sein](https://www.spiegel.de/psychologie/persoenliches-wohlbefinden-wie-es-gelingen-kann-zufriedener-zu-sein-a-979e1997-3974-4d57-b62b-8b920921d443#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter](https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter-a-d7db9375-765f-445f-a677-6ef86a7e2041#ref=rss)
+* [https://www.spiegel.de/geschichte/familienstuecke-aus-kriegszeiten-ich-bin-vor-heimweh-beinahe-zugrunde-gegangen](https://www.spiegel.de/geschichte/familienstuecke-aus-kriegszeiten-ich-bin-vor-heimweh-beinahe-zugrunde-gegangen-a-63e86618-52c7-4d01-9c4b-49ef27189ab1#ref=rss)
+### gerade
+
+* [https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter](https://www.spiegel.de/familie/wie-wir-uns-als-familien-unterscheiden-und-was-uns-trotzdem-eint-newsletter-a-d7db9375-765f-445f-a677-6ef86a7e2041#ref=rss)
+* [https://www.spiegel.de/ausland/wochenrueckblick-russlands-armee-eva-kaili-erkaeltungswelle-podcast](https://www.spiegel.de/ausland/wochenrueckblick-russlands-armee-eva-kaili-erkaeltungswelle-podcast-a-d0259207-be3f-4d3a-a9a9-b959c3885eb4#ref=rss)
+### ich
+
+* [https://www.spiegel.de/geschichte/familienstuecke-aus-kriegszeiten-ich-bin-vor-heimweh-beinahe-zugrunde-gegangen](https://www.spiegel.de/geschichte/familienstuecke-aus-kriegszeiten-ich-bin-vor-heimweh-beinahe-zugrunde-gegangen-a-63e86618-52c7-4d01-9c4b-49ef27189ab1#ref=rss)
+### mich
+
+* [https://www.spiegel.de/geschichte/familienstuecke-aus-kriegszeiten-ich-bin-vor-heimweh-beinahe-zugrunde-gegangen](https://www.spiegel.de/geschichte/familienstuecke-aus-kriegszeiten-ich-bin-vor-heimweh-beinahe-zugrunde-gegangen-a-63e86618-52c7-4d01-9c4b-49ef27189ab1#ref=rss)
+### franziska
+
+* [https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist](https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist-a-ec2c684b-a381-415d-a42c-bbe6d9e50d03#ref=rss)
+### brantner
+
+* [https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist](https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist-a-ec2c684b-a381-415d-a42c-bbe6d9e50d03#ref=rss)
+### china
+
+* [https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist](https://www.spiegel.de/politik/deutschland/es-sollte-uns-respekt-abverlangen-wie-strategisch-china-vorgegangen-ist-a-ec2c684b-a381-415d-a42c-bbe6d9e50d03#ref=rss)
+### elke
+
+* [https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit](https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit-a-99a32226-931c-40ac-a2d8-05bbe1a95429#ref=rss)
+### schilling
+
+* [https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit](https://www.spiegel.de/psychologie/elke-schilling-vom-silbernetz-kaempferin-gegen-die-einsamkeit-a-99a32226-931c-40ac-a2d8-05bbe1a95429#ref=rss)
+### wmfinale
+
+* [https://www.spiegel.de/sport/vor-dem-wm-finale-gegen-argentinien-scheitert-frankreich-an-der-klimaanlage-kolumne](https://www.spiegel.de/sport/vor-dem-wm-finale-gegen-argentinien-scheitert-frankreich-an-der-klimaanlage-kolumne-a-d441727d-63d3-474a-b3b0-78501fe4111e#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-news-von-heute-kevin-kuranyi-verletzt-sich-schwer-bei-legendenspiel](https://www.spiegel.de/sport/fussball/wm-news-von-heute-kevin-kuranyi-verletzt-sich-schwer-bei-legendenspiel-a-04371836-17cb-460f-8122-9b180728d082#ref=rss)
+### sondern
+
+* [https://www.spiegel.de/sport/vor-dem-wm-finale-gegen-argentinien-scheitert-frankreich-an-der-klimaanlage-kolumne](https://www.spiegel.de/sport/vor-dem-wm-finale-gegen-argentinien-scheitert-frankreich-an-der-klimaanlage-kolumne-a-d441727d-63d3-474a-b3b0-78501fe4111e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht](https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht-a-e5d5f3b9-cd80-4f3b-9f54-63c7ee2f49f7#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/wirtschaft/robert-habeck-verteidigt-lng-terminal-in-wilhelmshaven](https://www.spiegel.de/wirtschaft/robert-habeck-verteidigt-lng-terminal-in-wilhelmshaven-a-1e0516ec-db4d-4eae-928a-d4f5ca9a3c7b#ref=rss)
+### kevin
+
+* [https://www.spiegel.de/sport/fussball/wm-news-von-heute-kevin-kuranyi-verletzt-sich-schwer-bei-legendenspiel](https://www.spiegel.de/sport/fussball/wm-news-von-heute-kevin-kuranyi-verletzt-sich-schwer-bei-legendenspiel-a-04371836-17cb-460f-8122-9b180728d082#ref=rss)
+### kuranyi
+
+* [https://www.spiegel.de/sport/fussball/wm-news-von-heute-kevin-kuranyi-verletzt-sich-schwer-bei-legendenspiel](https://www.spiegel.de/sport/fussball/wm-news-von-heute-kevin-kuranyi-verletzt-sich-schwer-bei-legendenspiel-a-04371836-17cb-460f-8122-9b180728d082#ref=rss)
+### legendenspiel
+
+* [https://www.spiegel.de/sport/fussball/wm-news-von-heute-kevin-kuranyi-verletzt-sich-schwer-bei-legendenspiel](https://www.spiegel.de/sport/fussball/wm-news-von-heute-kevin-kuranyi-verletzt-sich-schwer-bei-legendenspiel-a-04371836-17cb-460f-8122-9b180728d082#ref=rss)
+### katar
+
+* [https://www.spiegel.de/sport/fussball/wm-news-von-heute-kevin-kuranyi-verletzt-sich-schwer-bei-legendenspiel](https://www.spiegel.de/sport/fussball/wm-news-von-heute-kevin-kuranyi-verletzt-sich-schwer-bei-legendenspiel-a-04371836-17cb-460f-8122-9b180728d082#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk-a-cb551ae7-769a-47d3-876e-14dfb586f7fc#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zum-samstag-17-12](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zum-samstag-17-12-a-7f201787-1b06-445e-82af-31f7b6e7a4f2#ref=rss)
+* [https://www.spiegel.de/ausland/wochenrueckblick-russlands-armee-eva-kaili-erkaeltungswelle-podcast](https://www.spiegel.de/ausland/wochenrueckblick-russlands-armee-eva-kaili-erkaeltungswelle-podcast-a-d0259207-be3f-4d3a-a9a9-b959c3885eb4#ref=rss)
+### betrieb
+
+* [https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht](https://www.spiegel.de/wirtschaft/lng-terminal-in-wilhelmshaven-da-weiss-man-teilweise-nicht-was-im-wasser-geschieht-a-e5d5f3b9-cd80-4f3b-9f54-63c7ee2f49f7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk](https://www.spiegel.de/politik/deutschland/news-wladimir-putin-wm-2022-katar-elon-musk-a-cb551ae7-769a-47d3-876e-14dfb586f7fc#ref=rss)
 
