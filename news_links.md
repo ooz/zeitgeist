@@ -4,281 +4,348 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt-a-51e75641-5ce4-47fe-b347-2f548d841a24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck](https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck-a-fd854792-5985-4b1c-bf74-ea2c78373c68#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen](https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen-a-f7c39219-5081-4c57-a4e2-6251bb99dc0b#ref=rss)
-### selenskyj
-
-* [https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet](https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet-a-af1f83a5-9229-4612-96a0-36f38be924cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china-a-230ff45a-1118-4998-b1f0-fe643f4c42c0#ref=rss)
-### haft
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-ersatzfreiheitsstrafen-sollen-kuerzer-werden](https://www.spiegel.de/politik/deutschland/bundesregierung-ersatzfreiheitsstrafen-sollen-kuerzer-werden-a-ee86c4e2-8d18-4ba2-87be-d843a22478e5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt-a-51e75641-5ce4-47fe-b347-2f548d841a24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck](https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck-a-fd854792-5985-4b1c-bf74-ea2c78373c68#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-und-kampfmoral-die-psychologie-des-krieges](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-und-kampfmoral-die-psychologie-des-krieges-a-face33f8-3c7e-43e8-8251-66bd8654b17f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ukraine-was-bringt-das-luftabwehrsystem-patriot-im-krieg-gegen-russland](https://www.spiegel.de/wissenschaft/ukraine-was-bringt-das-luftabwehrsystem-patriot-im-krieg-gegen-russland-a-6dce8c2b-eddf-4d40-8224-089fa556309f#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen](https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen-a-f7c39219-5081-4c57-a4e2-6251bb99dc0b#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-kreml-truppen-fassen-laut-london-fuss-in-umkaempfter-stadt-bachmut](https://www.spiegel.de/ausland/ukraine-russland-news-kreml-truppen-fassen-laut-london-fuss-in-umkaempfter-stadt-bachmut-a-06e1fe0d-1387-4b26-a4b7-c1f85690e49a#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen](https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen-a-f7c39219-5081-4c57-a4e2-6251bb99dc0b#ref=rss)
 ### wolodymyr
 
-* [https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet](https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet-a-af1f83a5-9229-4612-96a0-36f38be924cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china-a-230ff45a-1118-4998-b1f0-fe643f4c42c0#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen-a-2d485e6d-b70c-483c-8602-73f2f7d13f20#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern-a-7c47b9e0-8940-4080-8551-e18748502c88#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-wie-der-ukrainische-praesident-in-washington-um-neue-waffen-bittet](https://www.spiegel.de/ausland/wolodymyr-selenskyj-wie-der-ukrainische-praesident-in-washington-um-neue-waffen-bittet-a-814b688e-7352-4acb-a2c4-43da411993c0#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/bildung/gewalt-gegen-kita-kinder-buendnis-fordert-schutz-auch-vor-anschreien-oder-grob-am-arm-packen](https://www.spiegel.de/panorama/bildung/gewalt-gegen-kita-kinder-buendnis-fordert-schutz-auch-vor-anschreien-oder-grob-am-arm-packen-a-83e9ee79-09da-4d8a-9729-a5339a830663#ref=rss)
+* [https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder](https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder-a-1bc298ad-d870-4262-b53f-4008a2b5bc84#ref=rss)
+* [https://www.spiegel.de/panorama/weihnachten-warum-kinder-an-den-weihnachtsmann-glauben](https://www.spiegel.de/panorama/weihnachten-warum-kinder-an-den-weihnachtsmann-glauben-a-bdac2116-34e1-4c3b-b739-d42eee396a3d#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-mutter-geht-in-waermestube-weil-sie-ihre-heizkosten-nicht-zahlen-kann](https://www.spiegel.de/ausland/grossbritannien-mutter-geht-in-waermestube-weil-sie-ihre-heizkosten-nicht-zahlen-kann-a-d36c4f30-e8f0-4548-93ce-bdf7e88ba97c#ref=rss)
+### weihnachten
+
+* [https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder](https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder-a-1bc298ad-d870-4262-b53f-4008a2b5bc84#ref=rss)
+* [https://www.spiegel.de/panorama/weihnachten-warum-kinder-an-den-weihnachtsmann-glauben](https://www.spiegel.de/panorama/weihnachten-warum-kinder-an-den-weihnachtsmann-glauben-a-bdac2116-34e1-4c3b-b739-d42eee396a3d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-weihnachten-spielwarenhaendler-melden-weniger-lieferengpaesse](https://www.spiegel.de/wirtschaft/unternehmen/vor-weihnachten-spielwarenhaendler-melden-weniger-lieferengpaesse-a-75987dfd-8c1e-48e4-aaaa-574397c052e5#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen-a-2d485e6d-b70c-483c-8602-73f2f7d13f20#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern-a-7c47b9e0-8940-4080-8551-e18748502c88#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-wie-der-ukrainische-praesident-in-washington-um-neue-waffen-bittet](https://www.spiegel.de/ausland/wolodymyr-selenskyj-wie-der-ukrainische-praesident-in-washington-um-neue-waffen-bittet-a-814b688e-7352-4acb-a2c4-43da411993c0#ref=rss)
 ### washington
 
-* [https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet](https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet-a-af1f83a5-9229-4612-96a0-36f38be924cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china-a-230ff45a-1118-4998-b1f0-fe643f4c42c0#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-ersatzfreiheitsstrafen-sollen-kuerzer-werden](https://www.spiegel.de/politik/deutschland/bundesregierung-ersatzfreiheitsstrafen-sollen-kuerzer-werden-a-ee86c4e2-8d18-4ba2-87be-d843a22478e5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-bundesregierung-lehnt-millionen-boni-fuer-vorstand-ab](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-bundesregierung-lehnt-millionen-boni-fuer-vorstand-ab-a-d697b5a8-de17-4a4c-8909-f276538c6e55#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt-a-51e75641-5ce4-47fe-b347-2f548d841a24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck](https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck-a-fd854792-5985-4b1c-bf74-ea2c78373c68#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-schuelerrat-lobt-kultusministerin-fuer-erschreckende-prognose](https://www.spiegel.de/panorama/bildung/niedersachsen-schuelerrat-lobt-kultusministerin-fuer-erschreckende-prognose-a-05a2cd0e-f6ee-498f-a05a-8d3855f9af62#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-cdu-verteidigt-landrat-nach-aussagen-ueber-fluechtlinge](https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-cdu-verteidigt-landrat-nach-aussagen-ueber-fluechtlinge-a-7985bef9-f04d-4575-bc88-1da30300b5b6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-verliert-kommunikationschefin](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-verliert-kommunikationschefin-a-fb81eaf8-bfb5-4836-8d88-0f07022b5217#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-und-kampfmoral-die-psychologie-des-krieges](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-und-kampfmoral-die-psychologie-des-krieges-a-face33f8-3c7e-43e8-8251-66bd8654b17f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ukraine-was-bringt-das-luftabwehrsystem-patriot-im-krieg-gegen-russland](https://www.spiegel.de/wissenschaft/ukraine-was-bringt-das-luftabwehrsystem-patriot-im-krieg-gegen-russland-a-6dce8c2b-eddf-4d40-8224-089fa556309f#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen](https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen-a-f7c39219-5081-4c57-a4e2-6251bb99dc0b#ref=rss)
-### staat
-
-* [https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck](https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck-a-fd854792-5985-4b1c-bf74-ea2c78373c68#ref=rss)
-* [https://www.spiegel.de/auto/rekordjahr-fuer-elektroauto-kaufpraemie](https://www.spiegel.de/auto/rekordjahr-fuer-elektroauto-kaufpraemie-a-c5666052-d94e-4128-94c9-0b904e6c3476#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-kreml-truppen-fassen-laut-london-fuss-in-umkaempfter-stadt-bachmut](https://www.spiegel.de/ausland/ukraine-russland-news-kreml-truppen-fassen-laut-london-fuss-in-umkaempfter-stadt-bachmut-a-06e1fe0d-1387-4b26-a4b7-c1f85690e49a#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen](https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen-a-f7c39219-5081-4c57-a4e2-6251bb99dc0b#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-bundesregierung-lehnt-millionen-boni-fuer-vorstand-ab](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-bundesregierung-lehnt-millionen-boni-fuer-vorstand-ab-a-d697b5a8-de17-4a4c-8909-f276538c6e55#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet](https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet-a-af1f83a5-9229-4612-96a0-36f38be924cf#ref=rss)
-### ukrainische
-
-* [https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet](https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet-a-af1f83a5-9229-4612-96a0-36f38be924cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china-a-230ff45a-1118-4998-b1f0-fe643f4c42c0#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet](https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet-a-af1f83a5-9229-4612-96a0-36f38be924cf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china-a-230ff45a-1118-4998-b1f0-fe643f4c42c0#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen-a-2d485e6d-b70c-483c-8602-73f2f7d13f20#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern-a-7c47b9e0-8940-4080-8551-e18748502c88#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-wie-der-ukrainische-praesident-in-washington-um-neue-waffen-bittet](https://www.spiegel.de/ausland/wolodymyr-selenskyj-wie-der-ukrainische-praesident-in-washington-um-neue-waffen-bittet-a-814b688e-7352-4acb-a2c4-43da411993c0#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet](https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet-a-af1f83a5-9229-4612-96a0-36f38be924cf#ref=rss)
-* [https://www.spiegel.de/wissenschaft/ukraine-was-bringt-das-luftabwehrsystem-patriot-im-krieg-gegen-russland](https://www.spiegel.de/wissenschaft/ukraine-was-bringt-das-luftabwehrsystem-patriot-im-krieg-gegen-russland-a-6dce8c2b-eddf-4d40-8224-089fa556309f#ref=rss)
-### zufolge
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen-a-2d485e6d-b70c-483c-8602-73f2f7d13f20#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren-a-c6eeaaa7-35d0-4a70-a120-eec31779a11a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/pleite-von-kryptoboerse-ftx-zwei-topmanager-bekennen-sich-wegen-betrugs-schuldig](https://www.spiegel.de/wirtschaft/unternehmen/pleite-von-kryptoboerse-ftx-zwei-topmanager-bekennen-sich-wegen-betrugs-schuldig-a-95e24959-3b57-4763-a03e-030d7e21c46f#ref=rss)
+* [https://www.spiegel.de/sport/steve-kerr-kabinenpredigt-fuer-die-usa-nach-dem-amoklauf-von-uvalde](https://www.spiegel.de/sport/steve-kerr-kabinenpredigt-fuer-die-usa-nach-dem-amoklauf-von-uvalde-a-697a9e92-82db-4e3f-b43e-c72da91bb509#ref=rss)
+### fc
 
-* [https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet](https://www.spiegel.de/wirtschaft/usa-besuch-wolodymyr-selenskyj-nahe-washington-gelandet-a-af1f83a5-9229-4612-96a0-36f38be924cf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-fifa-praesident-gianni-infantino-will-alle-drei-jahre-eine-wm-spielen-lassen](https://www.spiegel.de/sport/fussball/fussball-wm-fifa-praesident-gianni-infantino-will-alle-drei-jahre-eine-wm-spielen-lassen-a-57b897ad-944c-4176-b46b-9a98bb93f641#ref=rss)
-### zahlen
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-nach-sieg-gegen-benfica-lissabon-gruppenzweiter](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-nach-sieg-gegen-benfica-lissabon-gruppenzweiter-a-2f5caefb-96bf-429b-b50b-728c4d802cdd#ref=rss)
+### daniel
 
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-ersatzfreiheitsstrafen-sollen-kuerzer-werden](https://www.spiegel.de/politik/deutschland/bundesregierung-ersatzfreiheitsstrafen-sollen-kuerzer-werden-a-ee86c4e2-8d18-4ba2-87be-d843a22478e5#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ludwigshafen-frau-streichelt-hund-und-wird-gebissen-laut-landgericht-frankenthal-keine-mitschuld-an-verletzung](https://www.spiegel.de/panorama/justiz/ludwigshafen-frau-streichelt-hund-und-wird-gebissen-laut-landgericht-frankenthal-keine-mitschuld-an-verletzung-a-37ad386a-8263-48ff-a02c-ff7b106cebf1#ref=rss)
-### lange
-
-* [https://www.spiegel.de/politik/deutschland/bundesregierung-ersatzfreiheitsstrafen-sollen-kuerzer-werden](https://www.spiegel.de/politik/deutschland/bundesregierung-ersatzfreiheitsstrafen-sollen-kuerzer-werden-a-ee86c4e2-8d18-4ba2-87be-d843a22478e5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck](https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck-a-fd854792-5985-4b1c-bf74-ea2c78373c68#ref=rss)
-### neumünster
-
-* [https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt-a-51e75641-5ce4-47fe-b347-2f548d841a24#ref=rss)
-### vier
-
-* [https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt-a-51e75641-5ce4-47fe-b347-2f548d841a24#ref=rss)
-* [https://www.spiegel.de/ausland/corona-pandemie-in-china-rueckkehr-nach-covid-city-peking](https://www.spiegel.de/ausland/corona-pandemie-in-china-rueckkehr-nach-covid-city-peking-a-a910dfd1-d7d5-4d60-b887-f4a8bf859a4f#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt-a-51e75641-5ce4-47fe-b347-2f548d841a24#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt-a-51e75641-5ce4-47fe-b347-2f548d841a24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-cdu-verteidigt-landrat-nach-aussagen-ueber-fluechtlinge](https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-cdu-verteidigt-landrat-nach-aussagen-ueber-fluechtlinge-a-7985bef9-f04d-4575-bc88-1da30300b5b6#ref=rss)
-### opfer
-
-* [https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/neumuenster-26-jaehriger-nach-todesfahrt-zu-mehr-als-vier-jahren-haft-verurteilt-a-51e75641-5ce4-47fe-b347-2f548d841a24#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/britisches-medienhaus-the-guardian-wird-opfer-eines-hackerangriffs](https://www.spiegel.de/netzwelt/web/britisches-medienhaus-the-guardian-wird-opfer-eines-hackerangriffs-a-51c609bb-de3d-4f26-a790-49533121baa6#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/sport/schweiz-foerderte-jahrelang-aus-versehen-deutsche-sportvereine-der-gemeinde-buesingen](https://www.spiegel.de/sport/schweiz-foerderte-jahrelang-aus-versehen-deutsche-sportvereine-der-gemeinde-buesingen-a-ddd9d332-02bd-423c-b19b-fc59aaa7738d#ref=rss)
-### gemeinde
-
-* [https://www.spiegel.de/sport/schweiz-foerderte-jahrelang-aus-versehen-deutsche-sportvereine-der-gemeinde-buesingen](https://www.spiegel.de/sport/schweiz-foerderte-jahrelang-aus-versehen-deutsche-sportvereine-der-gemeinde-buesingen-a-ddd9d332-02bd-423c-b19b-fc59aaa7738d#ref=rss)
-### büsingen
-
-* [https://www.spiegel.de/sport/schweiz-foerderte-jahrelang-aus-versehen-deutsche-sportvereine-der-gemeinde-buesingen](https://www.spiegel.de/sport/schweiz-foerderte-jahrelang-aus-versehen-deutsche-sportvereine-der-gemeinde-buesingen-a-ddd9d332-02bd-423c-b19b-fc59aaa7738d#ref=rss)
-### schweizer
-
-* [https://www.spiegel.de/sport/schweiz-foerderte-jahrelang-aus-versehen-deutsche-sportvereine-der-gemeinde-buesingen](https://www.spiegel.de/sport/schweiz-foerderte-jahrelang-aus-versehen-deutsche-sportvereine-der-gemeinde-buesingen-a-ddd9d332-02bd-423c-b19b-fc59aaa7738d#ref=rss)
-### sorgte
-
-* [https://www.spiegel.de/sport/schweiz-foerderte-jahrelang-aus-versehen-deutsche-sportvereine-der-gemeinde-buesingen](https://www.spiegel.de/sport/schweiz-foerderte-jahrelang-aus-versehen-deutsche-sportvereine-der-gemeinde-buesingen-a-ddd9d332-02bd-423c-b19b-fc59aaa7738d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-kreml-truppen-fassen-laut-london-fuss-in-umkaempfter-stadt-bachmut](https://www.spiegel.de/ausland/ukraine-russland-news-kreml-truppen-fassen-laut-london-fuss-in-umkaempfter-stadt-bachmut-a-06e1fe0d-1387-4b26-a4b7-c1f85690e49a#ref=rss)
-### ort
-
-* [https://www.spiegel.de/sport/schweiz-foerderte-jahrelang-aus-versehen-deutsche-sportvereine-der-gemeinde-buesingen](https://www.spiegel.de/sport/schweiz-foerderte-jahrelang-aus-versehen-deutsche-sportvereine-der-gemeinde-buesingen-a-ddd9d332-02bd-423c-b19b-fc59aaa7738d#ref=rss)
-* [https://www.spiegel.de/panorama/letzte-generation-mit-hebebuehne-und-handsaege-gegen-den-berliner-weihnachtsbaum](https://www.spiegel.de/panorama/letzte-generation-mit-hebebuehne-und-handsaege-gegen-den-berliner-weihnachtsbaum-a-53aa2d22-4ac6-49d4-bc93-675119784f97#ref=rss)
-### heißt
-
-* [https://www.spiegel.de/wissenschaft/spanien-so-heiss-wie-2022-war-es-noch-nie](https://www.spiegel.de/wissenschaft/spanien-so-heiss-wie-2022-war-es-noch-nie-a-4e95e55a-a3df-4749-804f-89c837011ce0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-verliert-kommunikationschefin](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-verliert-kommunikationschefin-a-fb81eaf8-bfb5-4836-8d88-0f07022b5217#ref=rss)
-### sachsen
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-cdu-verteidigt-landrat-nach-aussagen-ueber-fluechtlinge](https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-cdu-verteidigt-landrat-nach-aussagen-ueber-fluechtlinge-a-7985bef9-f04d-4575-bc88-1da30300b5b6#ref=rss)
-### kretschmer
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-cdu-verteidigt-landrat-nach-aussagen-ueber-fluechtlinge](https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-cdu-verteidigt-landrat-nach-aussagen-ueber-fluechtlinge-a-7985bef9-f04d-4575-bc88-1da30300b5b6#ref=rss)
-### flüchtlinge
-
-* [https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-cdu-verteidigt-landrat-nach-aussagen-ueber-fluechtlinge](https://www.spiegel.de/politik/deutschland/sachsen-michael-kretschmer-cdu-verteidigt-landrat-nach-aussagen-ueber-fluechtlinge-a-7985bef9-f04d-4575-bc88-1da30300b5b6#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-verliert-kommunikationschefin](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-verliert-kommunikationschefin-a-fb81eaf8-bfb5-4836-8d88-0f07022b5217#ref=rss)
-### kommunikationschefin
-
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-verliert-kommunikationschefin](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-verliert-kommunikationschefin-a-fb81eaf8-bfb5-4836-8d88-0f07022b5217#ref=rss)
-### probleme
-
-* [https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-verliert-kommunikationschefin](https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-verliert-kommunikationschefin-a-fb81eaf8-bfb5-4836-8d88-0f07022b5217#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen](https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen-a-f7c39219-5081-4c57-a4e2-6251bb99dc0b#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china-a-230ff45a-1118-4998-b1f0-fe643f4c42c0#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-kreml-truppen-fassen-laut-london-fuss-in-umkaempfter-stadt-bachmut](https://www.spiegel.de/ausland/ukraine-russland-news-kreml-truppen-fassen-laut-london-fuss-in-umkaempfter-stadt-bachmut-a-06e1fe0d-1387-4b26-a4b7-c1f85690e49a#ref=rss)
-### china
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china-a-230ff45a-1118-4998-b1f0-fe643f4c42c0#ref=rss)
-* [https://www.spiegel.de/ausland/corona-pandemie-in-china-rueckkehr-nach-covid-city-peking](https://www.spiegel.de/ausland/corona-pandemie-in-china-rueckkehr-nach-covid-city-peking-a-a910dfd1-d7d5-4d60-b887-f4a8bf859a4f#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china](https://www.spiegel.de/politik/deutschland/news-des-tages-klimaprotest-wolodymyr-selenskyj-wildtiere-in-china-a-230ff45a-1118-4998-b1f0-fe643f4c42c0#ref=rss)
-* [https://www.spiegel.de/panorama/letzte-generation-mit-hebebuehne-und-handsaege-gegen-den-berliner-weihnachtsbaum](https://www.spiegel.de/panorama/letzte-generation-mit-hebebuehne-und-handsaege-gegen-den-berliner-weihnachtsbaum-a-53aa2d22-4ac6-49d4-bc93-675119784f97#ref=rss)
-### generation
-
-* [https://www.spiegel.de/panorama/letzte-generation-mit-hebebuehne-und-handsaege-gegen-den-berliner-weihnachtsbaum](https://www.spiegel.de/panorama/letzte-generation-mit-hebebuehne-und-handsaege-gegen-den-berliner-weihnachtsbaum-a-53aa2d22-4ac6-49d4-bc93-675119784f97#ref=rss)
-### soldaten
-
-* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-und-kampfmoral-die-psychologie-des-krieges](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-und-kampfmoral-die-psychologie-des-krieges-a-face33f8-3c7e-43e8-8251-66bd8654b17f#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen](https://www.spiegel.de/ausland/wladimir-putin-spricht-vor-militaerfuehrung-mehr-geld-mehr-soldaten-mehr-raketen-a-f7c39219-5081-4c57-a4e2-6251bb99dc0b#ref=rss)
-### terrormiliz
-
-* [https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck](https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck-a-fd854792-5985-4b1c-bf74-ea2c78373c68#ref=rss)
-### islamischer
-
-* [https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck](https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck-a-fd854792-5985-4b1c-bf74-ea2c78373c68#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck](https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck-a-fd854792-5985-4b1c-bf74-ea2c78373c68#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck](https://www.spiegel.de/politik/deutschland/terrormiliz-islamischer-staat-deutschland-holt-is-anhaenger-aus-irak-zurueck-a-fd854792-5985-4b1c-bf74-ea2c78373c68#ref=rss)
-* [https://www.spiegel.de/ausland/corona-pandemie-in-china-rueckkehr-nach-covid-city-peking](https://www.spiegel.de/ausland/corona-pandemie-in-china-rueckkehr-nach-covid-city-peking-a-a910dfd1-d7d5-4d60-b887-f4a8bf859a4f#ref=rss)
-### russland
-
-* [https://www.spiegel.de/wissenschaft/ukraine-was-bringt-das-luftabwehrsystem-patriot-im-krieg-gegen-russland](https://www.spiegel.de/wissenschaft/ukraine-was-bringt-das-luftabwehrsystem-patriot-im-krieg-gegen-russland-a-6dce8c2b-eddf-4d40-8224-089fa556309f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-kreml-truppen-fassen-laut-london-fuss-in-umkaempfter-stadt-bachmut](https://www.spiegel.de/ausland/ukraine-russland-news-kreml-truppen-fassen-laut-london-fuss-in-umkaempfter-stadt-bachmut-a-06e1fe0d-1387-4b26-a4b7-c1f85690e49a#ref=rss)
-### theater
-
-* [https://www.spiegel.de/kultur/deutsches-theater-bundesarbeitsgericht-stuetzt-die-rechte-von-kuenstlern](https://www.spiegel.de/kultur/deutsches-theater-bundesarbeitsgericht-stuetzt-die-rechte-von-kuenstlern-a-ef938834-b88d-4455-9654-f1b745902574#ref=rss)
-### bundesarbeitsgericht
-
-* [https://www.spiegel.de/kultur/deutsches-theater-bundesarbeitsgericht-stuetzt-die-rechte-von-kuenstlern](https://www.spiegel.de/kultur/deutsches-theater-bundesarbeitsgericht-stuetzt-die-rechte-von-kuenstlern-a-ef938834-b88d-4455-9654-f1b745902574#ref=rss)
-### künstlern
-
-* [https://www.spiegel.de/kultur/deutsches-theater-bundesarbeitsgericht-stuetzt-die-rechte-von-kuenstlern](https://www.spiegel.de/kultur/deutsches-theater-bundesarbeitsgericht-stuetzt-die-rechte-von-kuenstlern-a-ef938834-b88d-4455-9654-f1b745902574#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/kultur/deutsches-theater-bundesarbeitsgericht-stuetzt-die-rechte-von-kuenstlern](https://www.spiegel.de/kultur/deutsches-theater-bundesarbeitsgericht-stuetzt-die-rechte-von-kuenstlern-a-ef938834-b88d-4455-9654-f1b745902574#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-wm-fifa-praesident-gianni-infantino-will-alle-drei-jahre-eine-wm-spielen-lassen](https://www.spiegel.de/sport/fussball/fussball-wm-fifa-praesident-gianni-infantino-will-alle-drei-jahre-eine-wm-spielen-lassen-a-57b897ad-944c-4176-b46b-9a98bb93f641#ref=rss)
-### kultusministerin
-
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-schuelerrat-lobt-kultusministerin-fuer-erschreckende-prognose](https://www.spiegel.de/panorama/bildung/niedersachsen-schuelerrat-lobt-kultusministerin-fuer-erschreckende-prognose-a-05a2cd0e-f6ee-498f-a05a-8d3855f9af62#ref=rss)
-### prognose
-
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-schuelerrat-lobt-kultusministerin-fuer-erschreckende-prognose](https://www.spiegel.de/panorama/bildung/niedersachsen-schuelerrat-lobt-kultusministerin-fuer-erschreckende-prognose-a-05a2cd0e-f6ee-498f-a05a-8d3855f9af62#ref=rss)
-### neue
-
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-schuelerrat-lobt-kultusministerin-fuer-erschreckende-prognose](https://www.spiegel.de/panorama/bildung/niedersachsen-schuelerrat-lobt-kultusministerin-fuer-erschreckende-prognose-a-05a2cd0e-f6ee-498f-a05a-8d3855f9af62#ref=rss)
-* [https://www.spiegel.de/auto/emissionshandel-was-die-co2-boerse-im-verkehr-bedeutet](https://www.spiegel.de/auto/emissionshandel-was-die-co2-boerse-im-verkehr-bedeutet-a-74b16ea9-6ec9-4d94-ac88-36b93b64e875#ref=rss)
+* [https://www.spiegel.de/start/lampenfieber-bekaempfen-daniel-sebastian-scholz-erklaert-was-gegen-auftrittsangst-hilft](https://www.spiegel.de/start/lampenfieber-bekaempfen-daniel-sebastian-scholz-erklaert-was-gegen-auftrittsangst-hilft-a-09bea1de-ff1b-4d4f-8750-48192c436df9#ref=rss)
+* [https://www.spiegel.de/panorama/leute/daniel-craig-ex-james-bond-darsteller-bezeichnet-die-meisten-drehbuecher-als-mist](https://www.spiegel.de/panorama/leute/daniel-craig-ex-james-bond-darsteller-bezeichnet-die-meisten-drehbuecher-als-mist-a-c3fbb470-7ab3-4466-9c58-ee0999994d9d#ref=rss)
 ### fordert
 
-* [https://www.spiegel.de/panorama/bildung/niedersachsen-schuelerrat-lobt-kultusministerin-fuer-erschreckende-prognose](https://www.spiegel.de/panorama/bildung/niedersachsen-schuelerrat-lobt-kultusministerin-fuer-erschreckende-prognose-a-05a2cd0e-f6ee-498f-a05a-8d3855f9af62#ref=rss)
-* [https://www.spiegel.de/ausland/viktor-orban-fordert-aufloesung-des-europaeischen-parlaments](https://www.spiegel.de/ausland/viktor-orban-fordert-aufloesung-des-europaeischen-parlaments-a-9b10947b-292a-40bd-914a-abeef39e2fcc#ref=rss)
-### viktor
+* [https://www.spiegel.de/panorama/bildung/gewalt-gegen-kita-kinder-buendnis-fordert-schutz-auch-vor-anschreien-oder-grob-am-arm-packen](https://www.spiegel.de/panorama/bildung/gewalt-gegen-kita-kinder-buendnis-fordert-schutz-auch-vor-anschreien-oder-grob-am-arm-packen-a-83e9ee79-09da-4d8a-9729-a5339a830663#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-willkuer-von-elon-musk-wirtschaftsministerium-will-strengere-auflagen](https://www.spiegel.de/wirtschaft/unternehmen/twitter-willkuer-von-elon-musk-wirtschaftsministerium-will-strengere-auflagen-a-be37d7d3-574a-48f3-a93b-ec4c7acd3557#ref=rss)
+### euro
 
-* [https://www.spiegel.de/ausland/viktor-orban-fordert-aufloesung-des-europaeischen-parlaments](https://www.spiegel.de/ausland/viktor-orban-fordert-aufloesung-des-europaeischen-parlaments-a-9b10947b-292a-40bd-914a-abeef39e2fcc#ref=rss)
-### orbán
+* [https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder](https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder-a-1bc298ad-d870-4262-b53f-4008a2b5bc84#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/eugh-urteil-staaten-muessen-buerger-wegen-schlechter-luft-nicht-entschaedigen](https://www.spiegel.de/wissenschaft/mensch/eugh-urteil-staaten-muessen-buerger-wegen-schlechter-luft-nicht-entschaedigen-a-7853ae1c-409b-4ae6-a4ad-70bdfc2332b0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden](https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden-a-191b067f-b4c8-414c-9279-f35a2dfd1273#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/ausland/viktor-orban-fordert-aufloesung-des-europaeischen-parlaments](https://www.spiegel.de/ausland/viktor-orban-fordert-aufloesung-des-europaeischen-parlaments-a-9b10947b-292a-40bd-914a-abeef39e2fcc#ref=rss)
-### guardian
+* [https://www.spiegel.de/wirtschaft/unternehmen/uniper-ist-jetzt-verstaatlicht-einstieg-des-bundes-vollzogen](https://www.spiegel.de/wirtschaft/unternehmen/uniper-ist-jetzt-verstaatlicht-einstieg-des-bundes-vollzogen-a-efb4312e-a6d1-46a5-8196-c1ca8bdc5212#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt](https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt-a-7cd40d62-2650-4c02-88e5-4b432ba12351#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-willkuer-von-elon-musk-wirtschaftsministerium-will-strengere-auflagen](https://www.spiegel.de/wirtschaft/unternehmen/twitter-willkuer-von-elon-musk-wirtschaftsministerium-will-strengere-auflagen-a-be37d7d3-574a-48f3-a93b-ec4c7acd3557#ref=rss)
+### neue
 
-* [https://www.spiegel.de/netzwelt/web/britisches-medienhaus-the-guardian-wird-opfer-eines-hackerangriffs](https://www.spiegel.de/netzwelt/web/britisches-medienhaus-the-guardian-wird-opfer-eines-hackerangriffs-a-51c609bb-de3d-4f26-a790-49533121baa6#ref=rss)
-### elektroautos
+* [https://www.spiegel.de/panorama/camilla-und-kate-zu-offizierinnen-von-garderegimentern-ernannt](https://www.spiegel.de/panorama/camilla-und-kate-zu-offizierinnen-von-garderegimentern-ernannt-a-e9f82b77-e2da-4a87-8997-f3840ef80dd0#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen-a-2d485e6d-b70c-483c-8602-73f2f7d13f20#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-wie-der-ukrainische-praesident-in-washington-um-neue-waffen-bittet](https://www.spiegel.de/ausland/wolodymyr-selenskyj-wie-der-ukrainische-praesident-in-washington-um-neue-waffen-bittet-a-814b688e-7352-4acb-a2c4-43da411993c0#ref=rss)
+### laut
 
-* [https://www.spiegel.de/auto/rekordjahr-fuer-elektroauto-kaufpraemie](https://www.spiegel.de/auto/rekordjahr-fuer-elektroauto-kaufpraemie-a-c5666052-d94e-4128-94c9-0b904e6c3476#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt](https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt-a-7cd40d62-2650-4c02-88e5-4b432ba12351#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren-a-c6eeaaa7-35d0-4a70-a120-eec31779a11a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-weihnachten-spielwarenhaendler-melden-weniger-lieferengpaesse](https://www.spiegel.de/wirtschaft/unternehmen/vor-weihnachten-spielwarenhaendler-melden-weniger-lieferengpaesse-a-75987dfd-8c1e-48e4-aaaa-574397c052e5#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist-a-b983e569-b8fb-4206-a2a5-86c37c1cc3bc#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal-a-153e32bf-83c0-4789-830b-ecba06d2e0fb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-willkuer-von-elon-musk-wirtschaftsministerium-will-strengere-auflagen](https://www.spiegel.de/wirtschaft/unternehmen/twitter-willkuer-von-elon-musk-wirtschaftsministerium-will-strengere-auflagen-a-be37d7d3-574a-48f3-a93b-ec4c7acd3557#ref=rss)
+### rund
+
+* [https://www.spiegel.de/panorama/weihnachten-warum-kinder-an-den-weihnachtsmann-glauben](https://www.spiegel.de/panorama/weihnachten-warum-kinder-an-den-weihnachtsmann-glauben-a-bdac2116-34e1-4c3b-b739-d42eee396a3d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-weihnachten-spielwarenhaendler-melden-weniger-lieferengpaesse](https://www.spiegel.de/wirtschaft/unternehmen/vor-weihnachten-spielwarenhaendler-melden-weniger-lieferengpaesse-a-75987dfd-8c1e-48e4-aaaa-574397c052e5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden](https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden-a-191b067f-b4c8-414c-9279-f35a2dfd1273#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren-a-c6eeaaa7-35d0-4a70-a120-eec31779a11a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-martin-schirdewan-will-bei-russischem-rueckzug-sanktionen-aufheben](https://www.spiegel.de/politik/deutschland/ukraine-krieg-martin-schirdewan-will-bei-russischem-rueckzug-sanktionen-aufheben-a-1bece21f-3fe0-40a2-b99e-bd84213cb9c5#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern-a-7c47b9e0-8940-4080-8551-e18748502c88#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-martin-schirdewan-will-bei-russischem-rueckzug-sanktionen-aufheben](https://www.spiegel.de/politik/deutschland/ukraine-krieg-martin-schirdewan-will-bei-russischem-rueckzug-sanktionen-aufheben-a-1bece21f-3fe0-40a2-b99e-bd84213cb9c5#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-wie-der-ukrainische-praesident-in-washington-um-neue-waffen-bittet](https://www.spiegel.de/ausland/wolodymyr-selenskyj-wie-der-ukrainische-praesident-in-washington-um-neue-waffen-bittet-a-814b688e-7352-4acb-a2c4-43da411993c0#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/corona-in-china-warum-das-land-jetzt-die-durchseuchung-erlebt-podcast](https://www.spiegel.de/ausland/corona-in-china-warum-das-land-jetzt-die-durchseuchung-erlebt-podcast-a-abc17219-ecf8-4723-856d-6d542efc50f3#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/panorama/bildung/gewalt-gegen-kita-kinder-buendnis-fordert-schutz-auch-vor-anschreien-oder-grob-am-arm-packen](https://www.spiegel.de/panorama/bildung/gewalt-gegen-kita-kinder-buendnis-fordert-schutz-auch-vor-anschreien-oder-grob-am-arm-packen-a-83e9ee79-09da-4d8a-9729-a5339a830663#ref=rss)
+### bündnis
+
+* [https://www.spiegel.de/panorama/bildung/gewalt-gegen-kita-kinder-buendnis-fordert-schutz-auch-vor-anschreien-oder-grob-am-arm-packen](https://www.spiegel.de/panorama/bildung/gewalt-gegen-kita-kinder-buendnis-fordert-schutz-auch-vor-anschreien-oder-grob-am-arm-packen-a-83e9ee79-09da-4d8a-9729-a5339a830663#ref=rss)
+### dinslaken
+
+* [https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder](https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder-a-1bc298ad-d870-4262-b53f-4008a2b5bc84#ref=rss)
+### einbruch
+
+* [https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder](https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder-a-1bc298ad-d870-4262-b53f-4008a2b5bc84#ref=rss)
+### tafel
+
+* [https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder](https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder-a-1bc298ad-d870-4262-b53f-4008a2b5bc84#ref=rss)
+### unbekannte
+
+* [https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder](https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder-a-1bc298ad-d870-4262-b53f-4008a2b5bc84#ref=rss)
+### spielzeug
+
+* [https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder](https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder-a-1bc298ad-d870-4262-b53f-4008a2b5bc84#ref=rss)
+### erste
+
+* [https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder](https://www.spiegel.de/panorama/dinslaken-einbruch-bei-der-tafel-unbekannte-stehlen-spielzeug-fuer-beduerftige-kinder-a-1bc298ad-d870-4262-b53f-4008a2b5bc84#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-proteste-in-kabul-gegen-universitaetsverbot-fuer-frauen](https://www.spiegel.de/ausland/afghanistan-proteste-in-kabul-gegen-universitaetsverbot-fuer-frauen-a-acc730f0-bab5-4725-938e-4d51324145af#ref=rss)
+### uniper
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/uniper-ist-jetzt-verstaatlicht-einstieg-des-bundes-vollzogen](https://www.spiegel.de/wirtschaft/unternehmen/uniper-ist-jetzt-verstaatlicht-einstieg-des-bundes-vollzogen-a-efb4312e-a6d1-46a5-8196-c1ca8bdc5212#ref=rss)
+### staat
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/uniper-ist-jetzt-verstaatlicht-einstieg-des-bundes-vollzogen](https://www.spiegel.de/wirtschaft/unternehmen/uniper-ist-jetzt-verstaatlicht-einstieg-des-bundes-vollzogen-a-efb4312e-a6d1-46a5-8196-c1ca8bdc5212#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/eugh-urteil-staaten-muessen-buerger-wegen-schlechter-luft-nicht-entschaedigen](https://www.spiegel.de/wissenschaft/mensch/eugh-urteil-staaten-muessen-buerger-wegen-schlechter-luft-nicht-entschaedigen-a-7853ae1c-409b-4ae6-a4ad-70bdfc2332b0#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/ausland/afghanistan-proteste-in-kabul-gegen-universitaetsverbot-fuer-frauen](https://www.spiegel.de/ausland/afghanistan-proteste-in-kabul-gegen-universitaetsverbot-fuer-frauen-a-acc730f0-bab5-4725-938e-4d51324145af#ref=rss)
+### kabul
+
+* [https://www.spiegel.de/ausland/afghanistan-proteste-in-kabul-gegen-universitaetsverbot-fuer-frauen](https://www.spiegel.de/ausland/afghanistan-proteste-in-kabul-gegen-universitaetsverbot-fuer-frauen-a-acc730f0-bab5-4725-938e-4d51324145af#ref=rss)
+### universitätsverbot
+
+* [https://www.spiegel.de/ausland/afghanistan-proteste-in-kabul-gegen-universitaetsverbot-fuer-frauen](https://www.spiegel.de/ausland/afghanistan-proteste-in-kabul-gegen-universitaetsverbot-fuer-frauen-a-acc730f0-bab5-4725-938e-4d51324145af#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/ausland/afghanistan-proteste-in-kabul-gegen-universitaetsverbot-fuer-frauen](https://www.spiegel.de/ausland/afghanistan-proteste-in-kabul-gegen-universitaetsverbot-fuer-frauen-a-acc730f0-bab5-4725-938e-4d51324145af#ref=rss)
+### camilla
+
+* [https://www.spiegel.de/panorama/camilla-und-kate-zu-offizierinnen-von-garderegimentern-ernannt](https://www.spiegel.de/panorama/camilla-und-kate-zu-offizierinnen-von-garderegimentern-ernannt-a-e9f82b77-e2da-4a87-8997-f3840ef80dd0#ref=rss)
+### alle
+
+* [https://www.spiegel.de/panorama/camilla-und-kate-zu-offizierinnen-von-garderegimentern-ernannt](https://www.spiegel.de/panorama/camilla-und-kate-zu-offizierinnen-von-garderegimentern-ernannt-a-e9f82b77-e2da-4a87-8997-f3840ef80dd0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/kein-strom-nasa-beendet-einsatz-von-mars-lander-insight](https://www.spiegel.de/wissenschaft/weltall/kein-strom-nasa-beendet-einsatz-von-mars-lander-insight-a-32885d0d-e731-4d52-83d0-8cc352c468c8#ref=rss)
+### schufa
+
+* [https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt](https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt-a-7cd40d62-2650-4c02-88e5-4b432ba12351#ref=rss)
+### zahl
+
+* [https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt](https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt-a-7cd40d62-2650-4c02-88e5-4b432ba12351#ref=rss)
+### negativen
+
+* [https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt](https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt-a-7cd40d62-2650-4c02-88e5-4b432ba12351#ref=rss)
+### einträge
+
+* [https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt](https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt-a-7cd40d62-2650-4c02-88e5-4b432ba12351#ref=rss)
+### steigt
+
+* [https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt](https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt-a-7cd40d62-2650-4c02-88e5-4b432ba12351#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt](https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt-a-7cd40d62-2650-4c02-88e5-4b432ba12351#ref=rss)
+* [https://www.spiegel.de/panorama/leute/daniel-craig-ex-james-bond-darsteller-bezeichnet-die-meisten-drehbuecher-als-mist](https://www.spiegel.de/panorama/leute/daniel-craig-ex-james-bond-darsteller-bezeichnet-die-meisten-drehbuecher-als-mist-a-c3fbb470-7ab3-4466-9c58-ee0999994d9d#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt](https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt-a-7cd40d62-2650-4c02-88e5-4b432ba12351#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden](https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden-a-191b067f-b4c8-414c-9279-f35a2dfd1273#ref=rss)
+### politik
+
+* [https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt](https://www.spiegel.de/wirtschaft/service/schufa-zahl-der-negativen-eintraege-steigt-a-7cd40d62-2650-4c02-88e5-4b432ba12351#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-willkuer-von-elon-musk-wirtschaftsministerium-will-strengere-auflagen](https://www.spiegel.de/wirtschaft/unternehmen/twitter-willkuer-von-elon-musk-wirtschaftsministerium-will-strengere-auflagen-a-be37d7d3-574a-48f3-a93b-ec4c7acd3557#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/fifa-weltrangliste-nach-wm-2022-weltmeister-argentinien-nun-zweiter-deutschland-rutscht-ab](https://www.spiegel.de/sport/fussball/fifa-weltrangliste-nach-wm-2022-weltmeister-argentinien-nun-zweiter-deutschland-rutscht-ab-a-38e57be5-1fbb-4704-8f5b-f49663b9c37e#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal-a-153e32bf-83c0-4789-830b-ecba06d2e0fb#ref=rss)
+### gewonnen
+
+* [https://www.spiegel.de/sport/fussball/fifa-weltrangliste-nach-wm-2022-weltmeister-argentinien-nun-zweiter-deutschland-rutscht-ab](https://www.spiegel.de/sport/fussball/fifa-weltrangliste-nach-wm-2022-weltmeister-argentinien-nun-zweiter-deutschland-rutscht-ab-a-38e57be5-1fbb-4704-8f5b-f49663b9c37e#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal-a-153e32bf-83c0-4789-830b-ecba06d2e0fb#ref=rss)
+### anderes
+
+* [https://www.spiegel.de/sport/fussball/fifa-weltrangliste-nach-wm-2022-weltmeister-argentinien-nun-zweiter-deutschland-rutscht-ab](https://www.spiegel.de/sport/fussball/fifa-weltrangliste-nach-wm-2022-weltmeister-argentinien-nun-zweiter-deutschland-rutscht-ab-a-38e57be5-1fbb-4704-8f5b-f49663b9c37e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern-a-7c47b9e0-8940-4080-8551-e18748502c88#ref=rss)
+### meisten
+
+* [https://www.spiegel.de/sport/fussball/fifa-weltrangliste-nach-wm-2022-weltmeister-argentinien-nun-zweiter-deutschland-rutscht-ab](https://www.spiegel.de/sport/fussball/fifa-weltrangliste-nach-wm-2022-weltmeister-argentinien-nun-zweiter-deutschland-rutscht-ab-a-38e57be5-1fbb-4704-8f5b-f49663b9c37e#ref=rss)
+* [https://www.spiegel.de/panorama/leute/daniel-craig-ex-james-bond-darsteller-bezeichnet-die-meisten-drehbuecher-als-mist](https://www.spiegel.de/panorama/leute/daniel-craig-ex-james-bond-darsteller-bezeichnet-die-meisten-drehbuecher-als-mist-a-c3fbb470-7ab3-4466-9c58-ee0999994d9d#ref=rss)
+### symbolik
+
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen-a-2d485e6d-b70c-483c-8602-73f2f7d13f20#ref=rss)
+### waffen
+
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen-a-2d485e6d-b70c-483c-8602-73f2f7d13f20#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-wie-der-ukrainische-praesident-in-washington-um-neue-waffen-bittet](https://www.spiegel.de/ausland/wolodymyr-selenskyj-wie-der-ukrainische-praesident-in-washington-um-neue-waffen-bittet-a-814b688e-7352-4acb-a2c4-43da411993c0#ref=rss)
+### ukrainische
+
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen-a-2d485e6d-b70c-483c-8602-73f2f7d13f20#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern-a-7c47b9e0-8940-4080-8551-e18748502c88#ref=rss)
+### besuch
+
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-washington-viel-symbolik-und-neue-waffen-a-2d485e6d-b70c-483c-8602-73f2f7d13f20#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern-a-7c47b9e0-8940-4080-8551-e18748502c88#ref=rss)
+### sat1jahresrückblick
+
+* [https://www.spiegel.de/kultur/tv/sat-1-jahresrueckblick-mit-joerg-pilawa-rezension-von-anja-ruetzel](https://www.spiegel.de/kultur/tv/sat-1-jahresrueckblick-mit-joerg-pilawa-rezension-von-anja-ruetzel-a-98ffb2ee-3124-4106-b26e-194775581ee6#ref=rss)
+### jörg
+
+* [https://www.spiegel.de/kultur/tv/sat-1-jahresrueckblick-mit-joerg-pilawa-rezension-von-anja-ruetzel](https://www.spiegel.de/kultur/tv/sat-1-jahresrueckblick-mit-joerg-pilawa-rezension-von-anja-ruetzel-a-98ffb2ee-3124-4106-b26e-194775581ee6#ref=rss)
+### pilawa
+
+* [https://www.spiegel.de/kultur/tv/sat-1-jahresrueckblick-mit-joerg-pilawa-rezension-von-anja-ruetzel](https://www.spiegel.de/kultur/tv/sat-1-jahresrueckblick-mit-joerg-pilawa-rezension-von-anja-ruetzel-a-98ffb2ee-3124-4106-b26e-194775581ee6#ref=rss)
+### souverän
+
+* [https://www.spiegel.de/kultur/tv/sat-1-jahresrueckblick-mit-joerg-pilawa-rezension-von-anja-ruetzel](https://www.spiegel.de/kultur/tv/sat-1-jahresrueckblick-mit-joerg-pilawa-rezension-von-anja-ruetzel-a-98ffb2ee-3124-4106-b26e-194775581ee6#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal-a-153e32bf-83c0-4789-830b-ecba06d2e0fb#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist-a-b983e569-b8fb-4206-a2a5-86c37c1cc3bc#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal-a-153e32bf-83c0-4789-830b-ecba06d2e0fb#ref=rss)
+### westen
+
+* [https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist-a-b983e569-b8fb-4206-a2a5-86c37c1cc3bc#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist-a-b983e569-b8fb-4206-a2a5-86c37c1cc3bc#ref=rss)
+### neues
+
+* [https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist-a-b983e569-b8fb-4206-a2a5-86c37c1cc3bc#ref=rss)
+### fünfmal
+
+* [https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist-a-b983e569-b8fb-4206-a2a5-86c37c1cc3bc#ref=rss)
+* [https://www.spiegel.de/panorama/leute/daniel-craig-ex-james-bond-darsteller-bezeichnet-die-meisten-drehbuecher-als-mist](https://www.spiegel.de/panorama/leute/daniel-craig-ex-james-bond-darsteller-bezeichnet-die-meisten-drehbuecher-als-mist-a-c3fbb470-7ab3-4466-9c58-ee0999994d9d#ref=rss)
+### film
+
+* [https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist](https://www.spiegel.de/kultur/kino/oscars-2023-im-westen-nichts-neues-landet-fuenfmal-auf-der-shortlist-a-b983e569-b8fb-4206-a2a5-86c37c1cc3bc#ref=rss)
+* [https://www.spiegel.de/kultur/whitney-houston-film-i-wanna-dance-with-somebody-eine-letzte-powerballade](https://www.spiegel.de/kultur/whitney-houston-film-i-wanna-dance-with-somebody-eine-letzte-powerballade-a-10176418-1ea8-4ab5-ae4f-668ae80fa0da#ref=rss)
+### i
+
+* [https://www.spiegel.de/kultur/whitney-houston-film-i-wanna-dance-with-somebody-eine-letzte-powerballade](https://www.spiegel.de/kultur/whitney-houston-film-i-wanna-dance-with-somebody-eine-letzte-powerballade-a-10176418-1ea8-4ab5-ae4f-668ae80fa0da#ref=rss)
+### wanna
+
+* [https://www.spiegel.de/kultur/whitney-houston-film-i-wanna-dance-with-somebody-eine-letzte-powerballade](https://www.spiegel.de/kultur/whitney-houston-film-i-wanna-dance-with-somebody-eine-letzte-powerballade-a-10176418-1ea8-4ab5-ae4f-668ae80fa0da#ref=rss)
+### dance
+
+* [https://www.spiegel.de/kultur/whitney-houston-film-i-wanna-dance-with-somebody-eine-letzte-powerballade](https://www.spiegel.de/kultur/whitney-houston-film-i-wanna-dance-with-somebody-eine-letzte-powerballade-a-10176418-1ea8-4ab5-ae4f-668ae80fa0da#ref=rss)
+### with
+
+* [https://www.spiegel.de/kultur/whitney-houston-film-i-wanna-dance-with-somebody-eine-letzte-powerballade](https://www.spiegel.de/kultur/whitney-houston-film-i-wanna-dance-with-somebody-eine-letzte-powerballade-a-10176418-1ea8-4ab5-ae4f-668ae80fa0da#ref=rss)
+### somebody
+
+* [https://www.spiegel.de/kultur/whitney-houston-film-i-wanna-dance-with-somebody-eine-letzte-powerballade](https://www.spiegel.de/kultur/whitney-houston-film-i-wanna-dance-with-somebody-eine-letzte-powerballade-a-10176418-1ea8-4ab5-ae4f-668ae80fa0da#ref=rss)
+### london
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren-a-c6eeaaa7-35d0-4a70-a120-eec31779a11a#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal-a-153e32bf-83c0-4789-830b-ecba06d2e0fb#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren-a-c6eeaaa7-35d0-4a70-a120-eec31779a11a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-martin-schirdewan-will-bei-russischem-rueckzug-sanktionen-aufheben](https://www.spiegel.de/politik/deutschland/ukraine-krieg-martin-schirdewan-will-bei-russischem-rueckzug-sanktionen-aufheben-a-1bece21f-3fe0-40a2-b99e-bd84213cb9c5#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren-a-c6eeaaa7-35d0-4a70-a120-eec31779a11a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-martin-schirdewan-will-bei-russischem-rueckzug-sanktionen-aufheben](https://www.spiegel.de/politik/deutschland/ukraine-krieg-martin-schirdewan-will-bei-russischem-rueckzug-sanktionen-aufheben-a-1bece21f-3fe0-40a2-b99e-bd84213cb9c5#ref=rss)
+### deshalb
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-russland-laesst-rekruten-laut-london-von-belarussischen-ausbildern-trainieren-a-c6eeaaa7-35d0-4a70-a120-eec31779a11a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden](https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden-a-191b067f-b4c8-414c-9279-f35a2dfd1273#ref=rss)
+### gabriel
+
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal-a-153e32bf-83c0-4789-830b-ecba06d2e0fb#ref=rss)
+### clemens
+
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal-a-153e32bf-83c0-4789-830b-ecba06d2e0fb#ref=rss)
+### runde
+
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-in-runde-drei-der-naechste-gegner-ist-mir-vollkommen-egal-a-153e32bf-83c0-4789-830b-ecba06d2e0fb#ref=rss)
+### melden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/vor-weihnachten-spielwarenhaendler-melden-weniger-lieferengpaesse](https://www.spiegel.de/wirtschaft/unternehmen/vor-weihnachten-spielwarenhaendler-melden-weniger-lieferengpaesse-a-75987dfd-8c1e-48e4-aaaa-574397c052e5#ref=rss)
+### bildern
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern](https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyjs-besuch-in-washington-in-bildern-a-7c47b9e0-8940-4080-8551-e18748502c88#ref=rss)
+### insight
+
+* [https://www.spiegel.de/wissenschaft/weltall/kein-strom-nasa-beendet-einsatz-von-mars-lander-insight](https://www.spiegel.de/wissenschaft/weltall/kein-strom-nasa-beendet-einsatz-von-mars-lander-insight-a-32885d0d-e731-4d52-83d0-8cc352c468c8#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-nach-sieg-gegen-benfica-lissabon-gruppenzweiter](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-nach-sieg-gegen-benfica-lissabon-gruppenzweiter-a-2f5caefb-96bf-429b-b50b-728c4d802cdd#ref=rss)
+### sieg
+
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-nach-sieg-gegen-benfica-lissabon-gruppenzweiter](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-nach-sieg-gegen-benfica-lissabon-gruppenzweiter-a-2f5caefb-96bf-429b-b50b-728c4d802cdd#ref=rss)
+### benfica
+
+* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-nach-sieg-gegen-benfica-lissabon-gruppenzweiter](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-fc-bayern-muenchen-nach-sieg-gegen-benfica-lissabon-gruppenzweiter-a-2f5caefb-96bf-429b-b50b-728c4d802cdd#ref=rss)
+### sebastian
+
+* [https://www.spiegel.de/start/lampenfieber-bekaempfen-daniel-sebastian-scholz-erklaert-was-gegen-auftrittsangst-hilft](https://www.spiegel.de/start/lampenfieber-bekaempfen-daniel-sebastian-scholz-erklaert-was-gegen-auftrittsangst-hilft-a-09bea1de-ff1b-4d4f-8750-48192c436df9#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/start/lampenfieber-bekaempfen-daniel-sebastian-scholz-erklaert-was-gegen-auftrittsangst-hilft](https://www.spiegel.de/start/lampenfieber-bekaempfen-daniel-sebastian-scholz-erklaert-was-gegen-auftrittsangst-hilft-a-09bea1de-ff1b-4d4f-8750-48192c436df9#ref=rss)
+### auftrittsangst
+
+* [https://www.spiegel.de/start/lampenfieber-bekaempfen-daniel-sebastian-scholz-erklaert-was-gegen-auftrittsangst-hilft](https://www.spiegel.de/start/lampenfieber-bekaempfen-daniel-sebastian-scholz-erklaert-was-gegen-auftrittsangst-hilft-a-09bea1de-ff1b-4d4f-8750-48192c436df9#ref=rss)
+### craig
+
+* [https://www.spiegel.de/panorama/leute/daniel-craig-ex-james-bond-darsteller-bezeichnet-die-meisten-drehbuecher-als-mist](https://www.spiegel.de/panorama/leute/daniel-craig-ex-james-bond-darsteller-bezeichnet-die-meisten-drehbuecher-als-mist-a-c3fbb470-7ab3-4466-9c58-ee0999994d9d#ref=rss)
+### schirdewan
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-martin-schirdewan-will-bei-russischem-rueckzug-sanktionen-aufheben](https://www.spiegel.de/politik/deutschland/ukraine-krieg-martin-schirdewan-will-bei-russischem-rueckzug-sanktionen-aufheben-a-1bece21f-3fe0-40a2-b99e-bd84213cb9c5#ref=rss)
+### land
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-martin-schirdewan-will-bei-russischem-rueckzug-sanktionen-aufheben](https://www.spiegel.de/politik/deutschland/ukraine-krieg-martin-schirdewan-will-bei-russischem-rueckzug-sanktionen-aufheben-a-1bece21f-3fe0-40a2-b99e-bd84213cb9c5#ref=rss)
+* [https://www.spiegel.de/ausland/corona-in-china-warum-das-land-jetzt-die-durchseuchung-erlebt-podcast](https://www.spiegel.de/ausland/corona-in-china-warum-das-land-jetzt-die-durchseuchung-erlebt-podcast-a-abc17219-ecf8-4723-856d-6d542efc50f3#ref=rss)
+### elon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-willkuer-von-elon-musk-wirtschaftsministerium-will-strengere-auflagen](https://www.spiegel.de/wirtschaft/unternehmen/twitter-willkuer-von-elon-musk-wirtschaftsministerium-will-strengere-auflagen-a-be37d7d3-574a-48f3-a93b-ec4c7acd3557#ref=rss)
+### auflagen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/twitter-willkuer-von-elon-musk-wirtschaftsministerium-will-strengere-auflagen](https://www.spiegel.de/wirtschaft/unternehmen/twitter-willkuer-von-elon-musk-wirtschaftsministerium-will-strengere-auflagen-a-be37d7d3-574a-48f3-a93b-ec4c7acd3557#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden](https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden-a-191b067f-b4c8-414c-9279-f35a2dfd1273#ref=rss)
+### schulden
+
+* [https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden](https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden-a-191b067f-b4c8-414c-9279-f35a2dfd1273#ref=rss)
 ### jahr
 
-* [https://www.spiegel.de/auto/rekordjahr-fuer-elektroauto-kaufpraemie](https://www.spiegel.de/auto/rekordjahr-fuer-elektroauto-kaufpraemie-a-c5666052-d94e-4128-94c9-0b904e6c3476#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall-planet-in-der-todesspirale](https://www.spiegel.de/wissenschaft/weltall-planet-in-der-todesspirale-a-280ddde8-0498-4016-b4a8-5ebfa6257bcb#ref=rss)
-### fifapräsident
+* [https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden](https://www.spiegel.de/politik/deutschland/haushalt-christian-lindner-verteidigt-hohe-schulden-a-191b067f-b4c8-414c-9279-f35a2dfd1273#ref=rss)
+### mutter
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-fifa-praesident-gianni-infantino-will-alle-drei-jahre-eine-wm-spielen-lassen](https://www.spiegel.de/sport/fussball/fussball-wm-fifa-praesident-gianni-infantino-will-alle-drei-jahre-eine-wm-spielen-lassen-a-57b897ad-944c-4176-b46b-9a98bb93f641#ref=rss)
-### gianni
+* [https://www.spiegel.de/ausland/grossbritannien-mutter-geht-in-waermestube-weil-sie-ihre-heizkosten-nicht-zahlen-kann](https://www.spiegel.de/ausland/grossbritannien-mutter-geht-in-waermestube-weil-sie-ihre-heizkosten-nicht-zahlen-kann-a-d36c4f30-e8f0-4548-93ce-bdf7e88ba97c#ref=rss)
+### wärmestube
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-fifa-praesident-gianni-infantino-will-alle-drei-jahre-eine-wm-spielen-lassen](https://www.spiegel.de/sport/fussball/fussball-wm-fifa-praesident-gianni-infantino-will-alle-drei-jahre-eine-wm-spielen-lassen-a-57b897ad-944c-4176-b46b-9a98bb93f641#ref=rss)
-### infantino
+* [https://www.spiegel.de/ausland/grossbritannien-mutter-geht-in-waermestube-weil-sie-ihre-heizkosten-nicht-zahlen-kann](https://www.spiegel.de/ausland/grossbritannien-mutter-geht-in-waermestube-weil-sie-ihre-heizkosten-nicht-zahlen-kann-a-d36c4f30-e8f0-4548-93ce-bdf7e88ba97c#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-fifa-praesident-gianni-infantino-will-alle-drei-jahre-eine-wm-spielen-lassen](https://www.spiegel.de/sport/fussball/fussball-wm-fifa-praesident-gianni-infantino-will-alle-drei-jahre-eine-wm-spielen-lassen-a-57b897ad-944c-4176-b46b-9a98bb93f641#ref=rss)
-### plant
+* [https://www.spiegel.de/wirtschaft/unternehmen/pleite-von-kryptoboerse-ftx-zwei-topmanager-bekennen-sich-wegen-betrugs-schuldig](https://www.spiegel.de/wirtschaft/unternehmen/pleite-von-kryptoboerse-ftx-zwei-topmanager-bekennen-sich-wegen-betrugs-schuldig-a-95e24959-3b57-4763-a03e-030d7e21c46f#ref=rss)
+### topmanager
 
-* [https://www.spiegel.de/sport/fussball/fussball-wm-fifa-praesident-gianni-infantino-will-alle-drei-jahre-eine-wm-spielen-lassen](https://www.spiegel.de/sport/fussball/fussball-wm-fifa-praesident-gianni-infantino-will-alle-drei-jahre-eine-wm-spielen-lassen-a-57b897ad-944c-4176-b46b-9a98bb93f641#ref=rss)
-* [https://www.spiegel.de/auto/emissionshandel-was-die-co2-boerse-im-verkehr-bedeutet](https://www.spiegel.de/auto/emissionshandel-was-die-co2-boerse-im-verkehr-bedeutet-a-74b16ea9-6ec9-4d94-ac88-36b93b64e875#ref=rss)
-### verkehr
+* [https://www.spiegel.de/wirtschaft/unternehmen/pleite-von-kryptoboerse-ftx-zwei-topmanager-bekennen-sich-wegen-betrugs-schuldig](https://www.spiegel.de/wirtschaft/unternehmen/pleite-von-kryptoboerse-ftx-zwei-topmanager-bekennen-sich-wegen-betrugs-schuldig-a-95e24959-3b57-4763-a03e-030d7e21c46f#ref=rss)
+### steve
 
-* [https://www.spiegel.de/auto/emissionshandel-was-die-co2-boerse-im-verkehr-bedeutet](https://www.spiegel.de/auto/emissionshandel-was-die-co2-boerse-im-verkehr-bedeutet-a-74b16ea9-6ec9-4d94-ac88-36b93b64e875#ref=rss)
-### frau
+* [https://www.spiegel.de/sport/steve-kerr-kabinenpredigt-fuer-die-usa-nach-dem-amoklauf-von-uvalde](https://www.spiegel.de/sport/steve-kerr-kabinenpredigt-fuer-die-usa-nach-dem-amoklauf-von-uvalde-a-697a9e92-82db-4e3f-b43e-c72da91bb509#ref=rss)
+### kerr
 
-* [https://www.spiegel.de/panorama/justiz/ludwigshafen-frau-streichelt-hund-und-wird-gebissen-laut-landgericht-frankenthal-keine-mitschuld-an-verletzung](https://www.spiegel.de/panorama/justiz/ludwigshafen-frau-streichelt-hund-und-wird-gebissen-laut-landgericht-frankenthal-keine-mitschuld-an-verletzung-a-37ad386a-8263-48ff-a02c-ff7b106cebf1#ref=rss)
-### kepler1658b
+* [https://www.spiegel.de/sport/steve-kerr-kabinenpredigt-fuer-die-usa-nach-dem-amoklauf-von-uvalde](https://www.spiegel.de/sport/steve-kerr-kabinenpredigt-fuer-die-usa-nach-dem-amoklauf-von-uvalde-a-697a9e92-82db-4e3f-b43e-c72da91bb509#ref=rss)
+### amoklauf
 
-* [https://www.spiegel.de/wissenschaft/weltall-planet-in-der-todesspirale](https://www.spiegel.de/wissenschaft/weltall-planet-in-der-todesspirale-a-280ddde8-0498-4016-b4a8-5ebfa6257bcb#ref=rss)
-### lufthansa
+* [https://www.spiegel.de/sport/steve-kerr-kabinenpredigt-fuer-die-usa-nach-dem-amoklauf-von-uvalde](https://www.spiegel.de/sport/steve-kerr-kabinenpredigt-fuer-die-usa-nach-dem-amoklauf-von-uvalde-a-697a9e92-82db-4e3f-b43e-c72da91bb509#ref=rss)
+### uvalde
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-bundesregierung-lehnt-millionen-boni-fuer-vorstand-ab](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-bundesregierung-lehnt-millionen-boni-fuer-vorstand-ab-a-d697b5a8-de17-4a4c-8909-f276538c6e55#ref=rss)
-### peking
-
-* [https://www.spiegel.de/ausland/corona-pandemie-in-china-rueckkehr-nach-covid-city-peking](https://www.spiegel.de/ausland/corona-pandemie-in-china-rueckkehr-nach-covid-city-peking-a-a910dfd1-d7d5-4d60-b887-f4a8bf859a4f#ref=rss)
-### habeck
-
-* [https://www.spiegel.de/wirtschaft/robert-habeck-will-gesetz-fuer-co-speicherung-auf-den-weg-bringen](https://www.spiegel.de/wirtschaft/robert-habeck-will-gesetz-fuer-co-speicherung-auf-den-weg-bringen-a-e1dc9fd9-4322-4885-829d-7c6e622cb4d6#ref=rss)
-### gesetz
-
-* [https://www.spiegel.de/wirtschaft/robert-habeck-will-gesetz-fuer-co-speicherung-auf-den-weg-bringen](https://www.spiegel.de/wirtschaft/robert-habeck-will-gesetz-fuer-co-speicherung-auf-den-weg-bringen-a-e1dc9fd9-4322-4885-829d-7c6e622cb4d6#ref=rss)
-### weg
-
-* [https://www.spiegel.de/wirtschaft/robert-habeck-will-gesetz-fuer-co-speicherung-auf-den-weg-bringen](https://www.spiegel.de/wirtschaft/robert-habeck-will-gesetz-fuer-co-speicherung-auf-den-weg-bringen-a-e1dc9fd9-4322-4885-829d-7c6e622cb4d6#ref=rss)
-### bringen
-
-* [https://www.spiegel.de/wirtschaft/robert-habeck-will-gesetz-fuer-co-speicherung-auf-den-weg-bringen](https://www.spiegel.de/wirtschaft/robert-habeck-will-gesetz-fuer-co-speicherung-auf-den-weg-bringen-a-e1dc9fd9-4322-4885-829d-7c6e622cb4d6#ref=rss)
-### stefan
-
-* [https://www.spiegel.de/kultur/stefan-bachmann-wird-neuer-burgtheater-intendant](https://www.spiegel.de/kultur/stefan-bachmann-wird-neuer-burgtheater-intendant-a-6e6fe529-7346-47fc-b79d-ce075972566d#ref=rss)
-### bachmann
-
-* [https://www.spiegel.de/kultur/stefan-bachmann-wird-neuer-burgtheater-intendant](https://www.spiegel.de/kultur/stefan-bachmann-wird-neuer-burgtheater-intendant-a-6e6fe529-7346-47fc-b79d-ce075972566d#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/sport/steve-kerr-kabinenpredigt-fuer-die-usa-nach-dem-amoklauf-von-uvalde](https://www.spiegel.de/sport/steve-kerr-kabinenpredigt-fuer-die-usa-nach-dem-amoklauf-von-uvalde-a-697a9e92-82db-4e3f-b43e-c72da91bb509#ref=rss)
 
