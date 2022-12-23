@@ -4,301 +4,287 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### musk
-
-* [https://www.spiegel.de/kultur/elon-musk-was-ist-los-mit-dem-twitter-chef](https://www.spiegel.de/kultur/elon-musk-was-ist-los-mit-dem-twitter-chef-a-1735042c-713b-4956-b8d4-08f4181da3bd#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/twitter-umstrittener-privatjet-tracker-elonjet-ist-zurueck-mit-einer-aenderung](https://www.spiegel.de/netzwelt/web/twitter-umstrittener-privatjet-tracker-elonjet-ist-zurueck-mit-einer-aenderung-a-ac2be756-c4b1-461d-bd64-d6ad48c04541#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen-a-10f45891-3ae4-483d-904c-11b5c32fb68d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk](https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk-a-ba034bdb-4bf2-4f4e-93f6-f7dbb0c9cafe#ref=rss)
-### elon
-
-* [https://www.spiegel.de/kultur/elon-musk-was-ist-los-mit-dem-twitter-chef](https://www.spiegel.de/kultur/elon-musk-was-ist-los-mit-dem-twitter-chef-a-1735042c-713b-4956-b8d4-08f4181da3bd#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/twitter-umstrittener-privatjet-tracker-elonjet-ist-zurueck-mit-einer-aenderung](https://www.spiegel.de/netzwelt/web/twitter-umstrittener-privatjet-tracker-elonjet-ist-zurueck-mit-einer-aenderung-a-ac2be756-c4b1-461d-bd64-d6ad48c04541#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen-a-10f45891-3ae4-483d-904c-11b5c32fb68d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk](https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk-a-ba034bdb-4bf2-4f4e-93f6-f7dbb0c9cafe#ref=rss)
-### viele
-
-* [https://www.spiegel.de/gesundheit/post-vac-syndrom-bundesregierung-plant-keine-hilfen-fuer-mutmasslich-betroffene](https://www.spiegel.de/gesundheit/post-vac-syndrom-bundesregierung-plant-keine-hilfen-fuer-mutmasslich-betroffene-a-0979e2dd-3705-4973-8cdb-0b78ac632443#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-jeder-dritte-betrieb-will-im-kommenden-halbjahr-einstellen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-jeder-dritte-betrieb-will-im-kommenden-halbjahr-einstellen-a-eeaef16a-304d-4be6-b3de-b58bb6f780bc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk](https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk-a-ba034bdb-4bf2-4f4e-93f6-f7dbb0c9cafe#ref=rss)
-* [https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr](https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr-a-7a293185-7a95-42b6-9396-677a7d5bddb5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets](https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets-a-9b95090d-b448-47db-b112-682fb5a0129b#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wissenschaft/mensch/coronawelle-china-will-entwicklung-neuer-virusvarianten-in-echtzeit-beobachten](https://www.spiegel.de/wissenschaft/mensch/coronawelle-china-will-entwicklung-neuer-virusvarianten-in-echtzeit-beobachten-a-3c4ab3c8-d542-4d49-ba90-29356d09d229#ref=rss)
-* [https://www.spiegel.de/wirtschaft/blackrock-wird-zerrieben-zwischen-klimaschuetzern-und-donald-trump-freunden](https://www.spiegel.de/wirtschaft/blackrock-wird-zerrieben-zwischen-klimaschuetzern-und-donald-trump-freunden-a-a6ee380b-ee54-42d6-b8a7-d3d76bddb8e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-jeder-dritte-betrieb-will-im-kommenden-halbjahr-einstellen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-jeder-dritte-betrieb-will-im-kommenden-halbjahr-einstellen-a-eeaef16a-304d-4be6-b3de-b58bb6f780bc#ref=rss)
-* [https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr](https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr-a-7a293185-7a95-42b6-9396-677a7d5bddb5#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/rki-berichte-streptokokken-und-pneumokokken-auf-dem-vormarsch](https://www.spiegel.de/wissenschaft/rki-berichte-streptokokken-und-pneumokokken-auf-dem-vormarsch-a-7234e5a2-157f-4290-95c7-bb813932fa34#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/umfrage-deutliche-mehrheit-der-eltern-haelt-deutschland-nicht-fuer-kinderfreundlich](https://www.spiegel.de/panorama/bildung/umfrage-deutliche-mehrheit-der-eltern-haelt-deutschland-nicht-fuer-kinderfreundlich-a-5d6677f4-c219-47f5-ac80-ed476444183e#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/grippe-rsv-und-medikamentenengpass-so-kommen-sie-gesund-durch-die-feiertage](https://www.spiegel.de/gesundheit/diagnose/grippe-rsv-und-medikamentenengpass-so-kommen-sie-gesund-durch-die-feiertage-a-53f595f6-3420-4f07-9820-16c522840097#ref=rss)
-* [https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast](https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast-a-0dc9fae1-41ac-40ed-9440-2d705a628a09#ref=rss)
-### buschmann
-
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-zu-bnd-fall-ein-wichtiger-schlag-gegen-russische-spionage](https://www.spiegel.de/politik/deutschland/marco-buschmann-zu-bnd-fall-ein-wichtiger-schlag-gegen-russische-spionage-a-a6ecfb5f-4a88-43d5-ad28-a02fe3b96615#ref=rss)
-* [https://www.spiegel.de/wirtschaft/spd-forderung-marco-buschmann-haelt-reform-von-indexmieten-fuer-kontraproduktiv](https://www.spiegel.de/wirtschaft/spd-forderung-marco-buschmann-haelt-reform-von-indexmieten-fuer-kontraproduktiv-a-3f5eb312-ff4a-449d-84ef-7964e64d3737#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/gesundheit/post-vac-syndrom-bundesregierung-plant-keine-hilfen-fuer-mutmasslich-betroffene](https://www.spiegel.de/gesundheit/post-vac-syndrom-bundesregierung-plant-keine-hilfen-fuer-mutmasslich-betroffene-a-0979e2dd-3705-4973-8cdb-0b78ac632443#ref=rss)
-* [https://www.spiegel.de/wissenschaft/rki-berichte-streptokokken-und-pneumokokken-auf-dem-vormarsch](https://www.spiegel.de/wissenschaft/rki-berichte-streptokokken-und-pneumokokken-auf-dem-vormarsch-a-7234e5a2-157f-4290-95c7-bb813932fa34#ref=rss)
-* [https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr](https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr-a-7a293185-7a95-42b6-9396-677a7d5bddb5#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/oberlandesgericht-muenchen-ice-messerangreifer-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/oberlandesgericht-muenchen-ice-messerangreifer-zu-14-jahren-haft-verurteilt-a-b41b180d-4b79-44f5-a059-35210a71e0b4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankfurts-ex-oberbuergermeister-feldmann-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurts-ex-oberbuergermeister-feldmann-zu-geldstrafe-verurteilt-a-0cb18a04-cbc8-4d79-b9c0-6f65cd3181d6#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/wissenschaft/mensch/coronawelle-china-will-entwicklung-neuer-virusvarianten-in-echtzeit-beobachten](https://www.spiegel.de/wissenschaft/mensch/coronawelle-china-will-entwicklung-neuer-virusvarianten-in-echtzeit-beobachten-a-3c4ab3c8-d542-4d49-ba90-29356d09d229#ref=rss)
-* [https://www.spiegel.de/panorama/usa-wintersturm-bringt-rekordkaelte-die-bilder](https://www.spiegel.de/panorama/usa-wintersturm-bringt-rekordkaelte-die-bilder-a-93271d1b-5b2a-453a-a42a-3b542bf290de#ref=rss)
-### weihnachten
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los](https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los-a-970b734a-e096-4125-b7bd-6389c26e4528#ref=rss)
+### ungarn
 
-* [https://www.spiegel.de/panorama/guiness-buch-rekorde-zu-weihnachten-von-riesigen-baeumen-und-winzigen-karten](https://www.spiegel.de/panorama/guiness-buch-rekorde-zu-weihnachten-von-riesigen-baeumen-und-winzigen-karten-a-f6714e4e-05c8-41dd-8cb3-ab249ac686c3#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/grippe-rsv-und-medikamentenengpass-so-kommen-sie-gesund-durch-die-feiertage](https://www.spiegel.de/gesundheit/diagnose/grippe-rsv-und-medikamentenengpass-so-kommen-sie-gesund-durch-die-feiertage-a-53f595f6-3420-4f07-9820-16c522840097#ref=rss)
-### twitter
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein](https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein-a-739da28a-243a-4fe1-af8c-a515fb8bf967#ref=rss)
+### george
 
-* [https://www.spiegel.de/netzwelt/web/twitter-umstrittener-privatjet-tracker-elonjet-ist-zurueck-mit-einer-aenderung](https://www.spiegel.de/netzwelt/web/twitter-umstrittener-privatjet-tracker-elonjet-ist-zurueck-mit-einer-aenderung-a-ac2be756-c4b1-461d-bd64-d6ad48c04541#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen-a-10f45891-3ae4-483d-904c-11b5c32fb68d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk](https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk-a-ba034bdb-4bf2-4f4e-93f6-f7dbb0c9cafe#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-weltmeister-george-cohen-der-arbeiter](https://www.spiegel.de/sport/fussball/nachruf-auf-weltmeister-george-cohen-der-arbeiter-a-dc1723bf-81f7-47a9-bf16-5afb1f85d943#ref=rss)
+* [https://www.spiegel.de/sport/fussball/george-cohen-englands-fussball-weltmeister-von-1966-ist-tot](https://www.spiegel.de/sport/fussball/george-cohen-englands-fussball-weltmeister-von-1966-ist-tot-a-e6b2de9b-3b03-4b30-ba9c-fac4ad753fde#ref=rss)
+### cohen
+
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-weltmeister-george-cohen-der-arbeiter](https://www.spiegel.de/sport/fussball/nachruf-auf-weltmeister-george-cohen-der-arbeiter-a-dc1723bf-81f7-47a9-bf16-5afb1f85d943#ref=rss)
+* [https://www.spiegel.de/sport/fussball/george-cohen-englands-fussball-weltmeister-von-1966-ist-tot](https://www.spiegel.de/sport/fussball/george-cohen-englands-fussball-weltmeister-von-1966-ist-tot-a-e6b2de9b-3b03-4b30-ba9c-fac4ad753fde#ref=rss)
+### 1966
+
+* [https://www.spiegel.de/sport/fussball/nachruf-auf-weltmeister-george-cohen-der-arbeiter](https://www.spiegel.de/sport/fussball/nachruf-auf-weltmeister-george-cohen-der-arbeiter-a-dc1723bf-81f7-47a9-bf16-5afb1f85d943#ref=rss)
+* [https://www.spiegel.de/sport/fussball/george-cohen-englands-fussball-weltmeister-von-1966-ist-tot](https://www.spiegel.de/sport/fussball/george-cohen-englands-fussball-weltmeister-von-1966-ist-tot-a-e6b2de9b-3b03-4b30-ba9c-fac4ad753fde#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-washington-erwaegt-ausbildung-von-ukrainern-an-patriot-flugabwehrsystem-in-den-usa](https://www.spiegel.de/ausland/ukraine-news-am-freitag-washington-erwaegt-ausbildung-von-ukrainern-an-patriot-flugabwehrsystem-in-den-usa-a-916011ff-f5d9-4ea4-8354-c677abc471fe#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-offenbar-erneut-rakete](https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-offenbar-erneut-rakete-a-a63f0a3d-9312-4837-a5db-afe3039b2bd5#ref=rss)
-* [https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr](https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr-a-7a293185-7a95-42b6-9396-677a7d5bddb5#ref=rss)
-### jürgen
+* [https://www.spiegel.de/panorama/bund-will-professor-der-bundespolizei-weiter-von-der-lehre-ausschliessen](https://www.spiegel.de/panorama/bund-will-professor-der-bundespolizei-weiter-von-der-lehre-ausschliessen-a-00487311-0a4d-4d1a-a532-2d914ed97175#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant](https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant-a-39d6df30-c2fc-4bce-af14-7f260a9e5140#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/karl-may-verlag-winnetou-debatte-hat-verkauf-der-buecher-stark-angekurbelt](https://www.spiegel.de/kultur/literatur/karl-may-verlag-winnetou-debatte-hat-verkauf-der-buecher-stark-angekurbelt-a-dfaef5b6-4e0d-4a26-9a93-677e617f30c8#ref=rss)
+### euro
 
-* [https://www.spiegel.de/kultur/tipps-fuer-hobbykoeche-10-fehler-die-sie-vermeiden-koennen-und-sollten](https://www.spiegel.de/kultur/tipps-fuer-hobbykoeche-10-fehler-die-sie-vermeiden-koennen-und-sollten-a-aa41abba-7b9f-4cb4-9633-73cb266d22df#ref=rss)
-* [https://www.spiegel.de/kultur/juergen-dollase-die-deutsche-kueche-hat-das-gleiche-potenzial-wie-die-italienische](https://www.spiegel.de/kultur/juergen-dollase-die-deutsche-kueche-hat-das-gleiche-potenzial-wie-die-italienische-a-80c027b4-afb0-45a5-9d04-69dad088edac#ref=rss)
-### dollase
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/peter-feldmann-urteil-gegen-frankfurter-oberbuergermeister-tiefer-sturz](https://www.spiegel.de/panorama/justiz/peter-feldmann-urteil-gegen-frankfurter-oberbuergermeister-tiefer-sturz-a-44f559ca-d30c-4b8b-aa9e-f0ea3706d715#ref=rss)
+* [https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein](https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein-a-739da28a-243a-4fe1-af8c-a515fb8bf967#ref=rss)
+### ermittelt
 
-* [https://www.spiegel.de/kultur/tipps-fuer-hobbykoeche-10-fehler-die-sie-vermeiden-koennen-und-sollten](https://www.spiegel.de/kultur/tipps-fuer-hobbykoeche-10-fehler-die-sie-vermeiden-koennen-und-sollten-a-aa41abba-7b9f-4cb4-9633-73cb266d22df#ref=rss)
-* [https://www.spiegel.de/kultur/juergen-dollase-die-deutsche-kueche-hat-das-gleiche-potenzial-wie-die-italienische](https://www.spiegel.de/kultur/juergen-dollase-die-deutsche-kueche-hat-das-gleiche-potenzial-wie-die-italienische-a-80c027b4-afb0-45a5-9d04-69dad088edac#ref=rss)
-### weihnachtsessen
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-blackfacing-vorwuerfe-staatsschutz-ermittelt-wegen-drohungen-gegen-buergermeister](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-blackfacing-vorwuerfe-staatsschutz-ermittelt-wegen-drohungen-gegen-buergermeister-a-df8e7102-0b3c-4fa4-bd3e-b0ab336d7311#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci](https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci-a-01d95038-ec99-4053-888d-f71a2767dc10#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant](https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant-a-39d6df30-c2fc-4bce-af14-7f260a9e5140#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/kultur/juergen-dollase-die-deutsche-kueche-hat-das-gleiche-potenzial-wie-die-italienische](https://www.spiegel.de/kultur/juergen-dollase-die-deutsche-kueche-hat-das-gleiche-potenzial-wie-die-italienische-a-80c027b4-afb0-45a5-9d04-69dad088edac#ref=rss)
-* [https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast](https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast-a-0dc9fae1-41ac-40ed-9440-2d705a628a09#ref=rss)
-### nordkorea
+* [https://www.spiegel.de/ausland/paris-anne-hidalgo-bezeichnet-mutmasslichen-taeter-als-rechtsextremisten](https://www.spiegel.de/ausland/paris-anne-hidalgo-bezeichnet-mutmasslichen-taeter-als-rechtsextremisten-a-aa6121cb-78df-4843-8acf-3b0b3a5a6c77#ref=rss)
+* [https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los](https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los-a-970b734a-e096-4125-b7bd-6389c26e4528#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant](https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant-a-39d6df30-c2fc-4bce-af14-7f260a9e5140#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-offenbar-erneut-rakete](https://www.spiegel.de/ausland/suedkorea-nordkorea-testet-offenbar-erneut-rakete-a-a63f0a3d-9312-4837-a5db-afe3039b2bd5#ref=rss)
-* [https://www.spiegel.de/ausland/50-000-soeldner-der-wagner-privatarmee-kaempfen-angeblich-in-der-ukraine](https://www.spiegel.de/ausland/50-000-soeldner-der-wagner-privatarmee-kaempfen-angeblich-in-der-ukraine-a-b85adc0d-1b6b-4ad9-9fed-706d759edcf2#ref=rss)
-### marco
+* [https://www.spiegel.de/netzwelt/web/lastpass-hacker-haben-passwort-tresore-von-kunden-gestohlen](https://www.spiegel.de/netzwelt/web/lastpass-hacker-haben-passwort-tresore-von-kunden-gestohlen-a-f0b45135-ebe6-4204-bc56-6ce3d8aa5cfb#ref=rss)
+* [https://www.spiegel.de/kultur/tv/daniel-craig-in-glass-onion-a-knives-out-mystery-der-perfekte-film-zum-fest](https://www.spiegel.de/kultur/tv/daniel-craig-in-glass-onion-a-knives-out-mystery-der-perfekte-film-zum-fest-a-0014447f-c7d9-4005-b44e-a7ce2cdcb362#ref=rss)
+* [https://www.spiegel.de/kultur/musik/die-groessten-weihnachtssongs-aller-zeiten-stimmen-sie-ab](https://www.spiegel.de/kultur/musik/die-groessten-weihnachtssongs-aller-zeiten-stimmen-sie-ab-a-8cb5a709-bb66-4a36-a88b-d5b71b5bfc3b#ref=rss)
+### millionen
 
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-zu-bnd-fall-ein-wichtiger-schlag-gegen-russische-spionage](https://www.spiegel.de/politik/deutschland/marco-buschmann-zu-bnd-fall-ein-wichtiger-schlag-gegen-russische-spionage-a-a6ecfb5f-4a88-43d5-ad28-a02fe3b96615#ref=rss)
-* [https://www.spiegel.de/wirtschaft/spd-forderung-marco-buschmann-haelt-reform-von-indexmieten-fuer-kontraproduktiv](https://www.spiegel.de/wirtschaft/spd-forderung-marco-buschmann-haelt-reform-von-indexmieten-fuer-kontraproduktiv-a-3f5eb312-ff4a-449d-84ef-7964e64d3737#ref=rss)
-### kirche
-
-* [https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr](https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr-a-7a293185-7a95-42b6-9396-677a7d5bddb5#ref=rss)
-### kartoffelsalat
-
-* [https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast](https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast-a-0dc9fae1-41ac-40ed-9440-2d705a628a09#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/gesundheit/post-vac-syndrom-bundesregierung-plant-keine-hilfen-fuer-mutmasslich-betroffene](https://www.spiegel.de/gesundheit/post-vac-syndrom-bundesregierung-plant-keine-hilfen-fuer-mutmasslich-betroffene-a-0979e2dd-3705-4973-8cdb-0b78ac632443#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger](https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger-a-9febd084-0e3b-419d-b2fb-e01b1f1f60e8#ref=rss)
-### unter
-
-* [https://www.spiegel.de/gesundheit/post-vac-syndrom-bundesregierung-plant-keine-hilfen-fuer-mutmasslich-betroffene](https://www.spiegel.de/gesundheit/post-vac-syndrom-bundesregierung-plant-keine-hilfen-fuer-mutmasslich-betroffene-a-0979e2dd-3705-4973-8cdb-0b78ac632443#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets](https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets-a-9b95090d-b448-47db-b112-682fb5a0129b#ref=rss)
-### antworten
-
-* [https://www.spiegel.de/gesundheit/post-vac-syndrom-bundesregierung-plant-keine-hilfen-fuer-mutmasslich-betroffene](https://www.spiegel.de/gesundheit/post-vac-syndrom-bundesregierung-plant-keine-hilfen-fuer-mutmasslich-betroffene-a-0979e2dd-3705-4973-8cdb-0b78ac632443#ref=rss)
-* [https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast](https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast-a-0dc9fae1-41ac-40ed-9440-2d705a628a09#ref=rss)
+* [https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los](https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los-a-970b734a-e096-4125-b7bd-6389c26e4528#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/meta-zahlt-wegen-cambridge-analytica-skandal-725-millionen-dollar](https://www.spiegel.de/netzwelt/web/meta-zahlt-wegen-cambridge-analytica-skandal-725-millionen-dollar-a-f7a4fbe4-a457-495a-9371-675bc10a4eb1#ref=rss)
 ### jahren
 
-* [https://www.spiegel.de/panorama/justiz/oberlandesgericht-muenchen-ice-messerangreifer-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/oberlandesgericht-muenchen-ice-messerangreifer-zu-14-jahren-haft-verurteilt-a-b41b180d-4b79-44f5-a059-35210a71e0b4#ref=rss)
-* [https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast](https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast-a-0dc9fae1-41ac-40ed-9440-2d705a628a09#ref=rss)
-### männer
+* [https://www.spiegel.de/wirtschaft/soziales/online-handel-was-beschaeftige-wirklich-verdienen](https://www.spiegel.de/wirtschaft/soziales/online-handel-was-beschaeftige-wirklich-verdienen-a-3fbaec1f-dfc2-4ef5-8f47-185956f9820a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/george-cohen-englands-fussball-weltmeister-von-1966-ist-tot](https://www.spiegel.de/sport/fussball/george-cohen-englands-fussball-weltmeister-von-1966-ist-tot-a-e6b2de9b-3b03-4b30-ba9c-fac4ad753fde#ref=rss)
+* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-erich-honeckers-gestiefelte-grenzer-und-ein-ddr-besuch](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-erich-honeckers-gestiefelte-grenzer-und-ein-ddr-besuch-a-66c7e366-bedc-4167-945a-acb191cc5a16#ref=rss)
+### professor
 
-* [https://www.spiegel.de/panorama/justiz/oberlandesgericht-muenchen-ice-messerangreifer-zu-14-jahren-haft-verurteilt](https://www.spiegel.de/panorama/justiz/oberlandesgericht-muenchen-ice-messerangreifer-zu-14-jahren-haft-verurteilt-a-b41b180d-4b79-44f5-a059-35210a71e0b4#ref=rss)
-* [https://www.spiegel.de/ausland/50-000-soeldner-der-wagner-privatarmee-kaempfen-angeblich-in-der-ukraine](https://www.spiegel.de/ausland/50-000-soeldner-der-wagner-privatarmee-kaempfen-angeblich-in-der-ukraine-a-b85adc0d-1b6b-4ad9-9fed-706d759edcf2#ref=rss)
-### china
+* [https://www.spiegel.de/panorama/bund-will-professor-der-bundespolizei-weiter-von-der-lehre-ausschliessen](https://www.spiegel.de/panorama/bund-will-professor-der-bundespolizei-weiter-von-der-lehre-ausschliessen-a-00487311-0a4d-4d1a-a532-2d914ed97175#ref=rss)
+### lehre
 
-* [https://www.spiegel.de/wissenschaft/mensch/coronawelle-china-will-entwicklung-neuer-virusvarianten-in-echtzeit-beobachten](https://www.spiegel.de/wissenschaft/mensch/coronawelle-china-will-entwicklung-neuer-virusvarianten-in-echtzeit-beobachten-a-3c4ab3c8-d542-4d49-ba90-29356d09d229#ref=rss)
-### erklärt
+* [https://www.spiegel.de/panorama/bund-will-professor-der-bundespolizei-weiter-von-der-lehre-ausschliessen](https://www.spiegel.de/panorama/bund-will-professor-der-bundespolizei-weiter-von-der-lehre-ausschliessen-a-00487311-0a4d-4d1a-a532-2d914ed97175#ref=rss)
+### mariupol
 
-* [https://www.spiegel.de/wissenschaft/mensch/coronawelle-china-will-entwicklung-neuer-virusvarianten-in-echtzeit-beobachten](https://www.spiegel.de/wissenschaft/mensch/coronawelle-china-will-entwicklung-neuer-virusvarianten-in-echtzeit-beobachten-a-3c4ab3c8-d542-4d49-ba90-29356d09d229#ref=rss)
-* [https://www.spiegel.de/kultur/juergen-dollase-die-deutsche-kueche-hat-das-gleiche-potenzial-wie-die-italienische](https://www.spiegel.de/kultur/juergen-dollase-die-deutsche-kueche-hat-das-gleiche-potenzial-wie-die-italienische-a-80c027b4-afb0-45a5-9d04-69dad088edac#ref=rss)
-### neuen
+* [https://www.spiegel.de/ausland/mariupol-russische-besatzer-beginnen-mit-abriss-des-theaters](https://www.spiegel.de/ausland/mariupol-russische-besatzer-beginnen-mit-abriss-des-theaters-a-d6da8cba-2153-4e4d-8c87-50f107cda82f#ref=rss)
+### besatzer
 
-* [https://www.spiegel.de/wissenschaft/mensch/coronawelle-china-will-entwicklung-neuer-virusvarianten-in-echtzeit-beobachten](https://www.spiegel.de/wissenschaft/mensch/coronawelle-china-will-entwicklung-neuer-virusvarianten-in-echtzeit-beobachten-a-3c4ab3c8-d542-4d49-ba90-29356d09d229#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk](https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk-a-ba034bdb-4bf2-4f4e-93f6-f7dbb0c9cafe#ref=rss)
-### grippe
+* [https://www.spiegel.de/ausland/mariupol-russische-besatzer-beginnen-mit-abriss-des-theaters](https://www.spiegel.de/ausland/mariupol-russische-besatzer-beginnen-mit-abriss-des-theaters-a-d6da8cba-2153-4e4d-8c87-50f107cda82f#ref=rss)
+### russischer
 
-* [https://www.spiegel.de/wissenschaft/rki-berichte-streptokokken-und-pneumokokken-auf-dem-vormarsch](https://www.spiegel.de/wissenschaft/rki-berichte-streptokokken-und-pneumokokken-auf-dem-vormarsch-a-7234e5a2-157f-4290-95c7-bb813932fa34#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/grippe-rsv-und-medikamentenengpass-so-kommen-sie-gesund-durch-die-feiertage](https://www.spiegel.de/gesundheit/diagnose/grippe-rsv-und-medikamentenengpass-so-kommen-sie-gesund-durch-die-feiertage-a-53f595f6-3420-4f07-9820-16c522840097#ref=rss)
-### rsv
+* [https://www.spiegel.de/ausland/mariupol-russische-besatzer-beginnen-mit-abriss-des-theaters](https://www.spiegel.de/ausland/mariupol-russische-besatzer-beginnen-mit-abriss-des-theaters-a-d6da8cba-2153-4e4d-8c87-50f107cda82f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+### politiker
 
-* [https://www.spiegel.de/wissenschaft/rki-berichte-streptokokken-und-pneumokokken-auf-dem-vormarsch](https://www.spiegel.de/wissenschaft/rki-berichte-streptokokken-und-pneumokokken-auf-dem-vormarsch-a-7234e5a2-157f-4290-95c7-bb813932fa34#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/grippe-rsv-und-medikamentenengpass-so-kommen-sie-gesund-durch-die-feiertage](https://www.spiegel.de/gesundheit/diagnose/grippe-rsv-und-medikamentenengpass-so-kommen-sie-gesund-durch-die-feiertage-a-53f595f6-3420-4f07-9820-16c522840097#ref=rss)
-### rund
+* [https://www.spiegel.de/ausland/mariupol-russische-besatzer-beginnen-mit-abriss-des-theaters](https://www.spiegel.de/ausland/mariupol-russische-besatzer-beginnen-mit-abriss-des-theaters-a-d6da8cba-2153-4e4d-8c87-50f107cda82f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion](https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion-a-8f9aa67e-a74e-4916-9f72-88cac457b531#ref=rss)
+### schlimm
 
-* [https://www.spiegel.de/wissenschaft/rki-berichte-streptokokken-und-pneumokokken-auf-dem-vormarsch](https://www.spiegel.de/wissenschaft/rki-berichte-streptokokken-und-pneumokokken-auf-dem-vormarsch-a-7234e5a2-157f-4290-95c7-bb813932fa34#ref=rss)
-* [https://www.spiegel.de/ausland/50-000-soeldner-der-wagner-privatarmee-kaempfen-angeblich-in-der-ukraine](https://www.spiegel.de/ausland/50-000-soeldner-der-wagner-privatarmee-kaempfen-angeblich-in-der-ukraine-a-b85adc0d-1b6b-4ad9-9fed-706d759edcf2#ref=rss)
-### laut
+* [https://www.spiegel.de/familie/zoff-ums-erbe-zoff-um-liebe](https://www.spiegel.de/familie/zoff-ums-erbe-zoff-um-liebe-a-f032618c-0002-0001-0000-000207390124#ref=rss)
+### news
 
-* [https://www.spiegel.de/wissenschaft/rki-berichte-streptokokken-und-pneumokokken-auf-dem-vormarsch](https://www.spiegel.de/wissenschaft/rki-berichte-streptokokken-und-pneumokokken-auf-dem-vormarsch-a-7234e5a2-157f-4290-95c7-bb813932fa34#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger](https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger-a-9febd084-0e3b-419d-b2fb-e01b1f1f60e8#ref=rss)
-### letzte
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-washington-erwaegt-ausbildung-von-ukrainern-an-patriot-flugabwehrsystem-in-den-usa](https://www.spiegel.de/ausland/ukraine-news-am-freitag-washington-erwaegt-ausbildung-von-ukrainern-an-patriot-flugabwehrsystem-in-den-usa-a-916011ff-f5d9-4ea4-8354-c677abc471fe#ref=rss)
+### spion
 
-* [https://www.spiegel.de/politik/deutschland/letzte-generation-ruft-unterstuetzer-zur-selbstanzeige-auf](https://www.spiegel.de/politik/deutschland/letzte-generation-ruft-unterstuetzer-zur-selbstanzeige-auf-a-8ecda0b4-302f-411f-ae36-3ab4e0df2ea0#ref=rss)
-* [https://www.spiegel.de/ausland/50-000-soeldner-der-wagner-privatarmee-kaempfen-angeblich-in-der-ukraine](https://www.spiegel.de/ausland/50-000-soeldner-der-wagner-privatarmee-kaempfen-angeblich-in-der-ukraine-a-b85adc0d-1b6b-4ad9-9fed-706d759edcf2#ref=rss)
-### generation
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion](https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion-a-8f9aa67e-a74e-4916-9f72-88cac457b531#ref=rss)
+### bundesnachrichtendienst
 
-* [https://www.spiegel.de/politik/deutschland/letzte-generation-ruft-unterstuetzer-zur-selbstanzeige-auf](https://www.spiegel.de/politik/deutschland/letzte-generation-ruft-unterstuetzer-zur-selbstanzeige-auf-a-8ecda0b4-302f-411f-ae36-3ab4e0df2ea0#ref=rss)
-### ruft
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion](https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion-a-8f9aa67e-a74e-4916-9f72-88cac457b531#ref=rss)
+### wintersturm
 
-* [https://www.spiegel.de/politik/deutschland/letzte-generation-ruft-unterstuetzer-zur-selbstanzeige-auf](https://www.spiegel.de/politik/deutschland/letzte-generation-ruft-unterstuetzer-zur-selbstanzeige-auf-a-8ecda0b4-302f-411f-ae36-3ab4e0df2ea0#ref=rss)
-### twitterchef
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los](https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los-a-970b734a-e096-4125-b7bd-6389c26e4528#ref=rss)
+### eukommission
 
-* [https://www.spiegel.de/kultur/elon-musk-was-ist-los-mit-dem-twitter-chef](https://www.spiegel.de/kultur/elon-musk-was-ist-los-mit-dem-twitter-chef-a-1735042c-713b-4956-b8d4-08f4181da3bd#ref=rss)
-### juristisch
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein](https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein-a-739da28a-243a-4fe1-af8c-a515fb8bf967#ref=rss)
+### erhöht
 
-* [https://www.spiegel.de/netzwelt/web/twitter-umstrittener-privatjet-tracker-elonjet-ist-zurueck-mit-einer-aenderung](https://www.spiegel.de/netzwelt/web/twitter-umstrittener-privatjet-tracker-elonjet-ist-zurueck-mit-einer-aenderung-a-ac2be756-c4b1-461d-bd64-d6ad48c04541#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankfurts-ex-oberbuergermeister-feldmann-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurts-ex-oberbuergermeister-feldmann-zu-geldstrafe-verurteilt-a-0cb18a04-cbc8-4d79-b9c0-6f65cd3181d6#ref=rss)
-### sweeney
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein](https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein-a-739da28a-243a-4fe1-af8c-a515fb8bf967#ref=rss)
+### druck
 
-* [https://www.spiegel.de/netzwelt/web/twitter-umstrittener-privatjet-tracker-elonjet-ist-zurueck-mit-einer-aenderung](https://www.spiegel.de/netzwelt/web/twitter-umstrittener-privatjet-tracker-elonjet-ist-zurueck-mit-einer-aenderung-a-ac2be756-c4b1-461d-bd64-d6ad48c04541#ref=rss)
-### bilder
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein](https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein-a-739da28a-243a-4fe1-af8c-a515fb8bf967#ref=rss)
+### winterchaos
 
-* [https://www.spiegel.de/panorama/usa-wintersturm-bringt-rekordkaelte-die-bilder](https://www.spiegel.de/panorama/usa-wintersturm-bringt-rekordkaelte-die-bilder-a-93271d1b-5b2a-453a-a42a-3b542bf290de#ref=rss)
-### wladimir
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los](https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los-a-970b734a-e096-4125-b7bd-6389c26e4528#ref=rss)
+### fest
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/kultur/tv/daniel-craig-in-glass-onion-a-knives-out-mystery-der-perfekte-film-zum-fest](https://www.spiegel.de/kultur/tv/daniel-craig-in-glass-onion-a-knives-out-mystery-der-perfekte-film-zum-fest-a-0014447f-c7d9-4005-b44e-a7ce2cdcb362#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci](https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci-a-01d95038-ec99-4053-888d-f71a2767dc10#ref=rss)
+### eu
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein](https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein-a-739da28a-243a-4fe1-af8c-a515fb8bf967#ref=rss)
+### friert
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein](https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein-a-739da28a-243a-4fe1-af8c-a515fb8bf967#ref=rss)
+### 22
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein](https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein-a-739da28a-243a-4fe1-af8c-a515fb8bf967#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn](https://www.spiegel.de/politik/deutschland/news-des-tages-spion-beim-bundesnachrichtendienst-wintersturm-in-den-usa-eu-kommission-erhoeht-den-druck-auf-ungarn-a-9d56fe3b-8d9f-46c3-a7dd-f681ee5d55ec#ref=rss)
+* [https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein](https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein-a-739da28a-243a-4fe1-af8c-a515fb8bf967#ref=rss)
+### drohen
+
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-das-sind-die-gefaehrlichsten-kipppunkte-des-klimas](https://www.spiegel.de/wissenschaft/natur/klimawandel-das-sind-die-gefaehrlichsten-kipppunkte-des-klimas-a-ce62231c-6520-4166-9267-8d5b3045f432#ref=rss)
+* [https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los](https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los-a-970b734a-e096-4125-b7bd-6389c26e4528#ref=rss)
+### bundesverkehrswegeplan
+
+* [https://www.spiegel.de/auto/autobahnen-wie-der-bundesverkehrswegeplan-ums-klimaziel-herumrechnet](https://www.spiegel.de/auto/autobahnen-wie-der-bundesverkehrswegeplan-ums-klimaziel-herumrechnet-a-3b56c34e-0523-4d45-81a6-bcbd8a69a0a0#ref=rss)
+### nordkorea
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-waffen-nach-russland-liefern-achse-der-aussenseiter](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-waffen-nach-russland-liefern-achse-der-aussenseiter-a-9dadbece-f908-44c2-81ca-1ddee08a2eac#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-waffen-nach-russland-liefern-achse-der-aussenseiter](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-waffen-nach-russland-liefern-achse-der-aussenseiter-a-9dadbece-f908-44c2-81ca-1ddee08a2eac#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion](https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion-a-8f9aa67e-a74e-4916-9f72-88cac457b531#ref=rss)
+### dürfte
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-waffen-nach-russland-liefern-achse-der-aussenseiter](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-waffen-nach-russland-liefern-achse-der-aussenseiter-a-9dadbece-f908-44c2-81ca-1ddee08a2eac#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/meta-zahlt-wegen-cambridge-analytica-skandal-725-millionen-dollar](https://www.spiegel.de/netzwelt/web/meta-zahlt-wegen-cambridge-analytica-skandal-725-millionen-dollar-a-f7a4fbe4-a457-495a-9371-675bc10a4eb1#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-waffen-nach-russland-liefern-achse-der-aussenseiter](https://www.spiegel.de/ausland/ukraine-krieg-nordkorea-soll-waffen-nach-russland-liefern-achse-der-aussenseiter-a-9dadbece-f908-44c2-81ca-1ddee08a2eac#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/online-handel-was-beschaeftige-wirklich-verdienen](https://www.spiegel.de/wirtschaft/soziales/online-handel-was-beschaeftige-wirklich-verdienen-a-3fbaec1f-dfc2-4ef5-8f47-185956f9820a#ref=rss)
+### bürgermeister
+
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-blackfacing-vorwuerfe-staatsschutz-ermittelt-wegen-drohungen-gegen-buergermeister](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-blackfacing-vorwuerfe-staatsschutz-ermittelt-wegen-drohungen-gegen-buergermeister-a-df8e7102-0b3c-4fa4-bd3e-b0ab336d7311#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci](https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci-a-01d95038-ec99-4053-888d-f71a2767dc10#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion](https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion-a-8f9aa67e-a74e-4916-9f72-88cac457b531#ref=rss)
+### ehemalige
+
+* [https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci](https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci-a-01d95038-ec99-4053-888d-f71a2767dc10#ref=rss)
+* [https://www.spiegel.de/sport/fussball/george-cohen-englands-fussball-weltmeister-von-1966-ist-tot](https://www.spiegel.de/sport/fussball/george-cohen-englands-fussball-weltmeister-von-1966-ist-tot-a-e6b2de9b-3b03-4b30-ba9c-fac4ad753fde#ref=rss)
+### dilek
+
+* [https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci](https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci-a-01d95038-ec99-4053-888d-f71a2767dc10#ref=rss)
+### kalayci
+
+* [https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci](https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci-a-01d95038-ec99-4053-888d-f71a2767dc10#ref=rss)
+### vorteilsannahme
+
+* [https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci](https://www.spiegel.de/panorama/justiz/berlin-korruptionsvorwuerfe-gegen-ehemalige-gesundheitssenatorin-dilek-kalayci-a-01d95038-ec99-4053-888d-f71a2767dc10#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/peter-feldmann-urteil-gegen-frankfurter-oberbuergermeister-tiefer-sturz](https://www.spiegel.de/panorama/justiz/peter-feldmann-urteil-gegen-frankfurter-oberbuergermeister-tiefer-sturz-a-44f559ca-d30c-4b8b-aa9e-f0ea3706d715#ref=rss)
+### paris
+
+* [https://www.spiegel.de/ausland/paris-anne-hidalgo-bezeichnet-mutmasslichen-taeter-als-rechtsextremisten](https://www.spiegel.de/ausland/paris-anne-hidalgo-bezeichnet-mutmasslichen-taeter-als-rechtsextremisten-a-aa6121cb-78df-4843-8acf-3b0b3a5a6c77#ref=rss)
+### anne
+
+* [https://www.spiegel.de/ausland/paris-anne-hidalgo-bezeichnet-mutmasslichen-taeter-als-rechtsextremisten](https://www.spiegel.de/ausland/paris-anne-hidalgo-bezeichnet-mutmasslichen-taeter-als-rechtsextremisten-a-aa6121cb-78df-4843-8acf-3b0b3a5a6c77#ref=rss)
+### hidalgo
+
+* [https://www.spiegel.de/ausland/paris-anne-hidalgo-bezeichnet-mutmasslichen-taeter-als-rechtsextremisten](https://www.spiegel.de/ausland/paris-anne-hidalgo-bezeichnet-mutmasslichen-taeter-als-rechtsextremisten-a-aa6121cb-78df-4843-8acf-3b0b3a5a6c77#ref=rss)
+### christine
+
+* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-chefin-verspricht-erfolg-im-kampf-gegen-die-inflation](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-chefin-verspricht-erfolg-im-kampf-gegen-die-inflation-a-81c9cb37-3d97-40c1-bfb4-9a2ed6f3d9e1#ref=rss)
+### lagarde
+
+* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-chefin-verspricht-erfolg-im-kampf-gegen-die-inflation](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-chefin-verspricht-erfolg-im-kampf-gegen-die-inflation-a-81c9cb37-3d97-40c1-bfb4-9a2ed6f3d9e1#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-chefin-verspricht-erfolg-im-kampf-gegen-die-inflation](https://www.spiegel.de/wirtschaft/christine-lagarde-ezb-chefin-verspricht-erfolg-im-kampf-gegen-die-inflation-a-81c9cb37-3d97-40c1-bfb4-9a2ed6f3d9e1#ref=rss)
+### besorgt
+
+* [https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion](https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion-a-8f9aa67e-a74e-4916-9f72-88cac457b531#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-washington-erwaegt-ausbildung-von-ukrainern-an-patriot-flugabwehrsystem-in-den-usa](https://www.spiegel.de/ausland/ukraine-news-am-freitag-washington-erwaegt-ausbildung-von-ukrainern-an-patriot-flugabwehrsystem-in-den-usa-a-916011ff-f5d9-4ea4-8354-c677abc471fe#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion](https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion-a-8f9aa67e-a74e-4916-9f72-88cac457b531#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-washington-erwaegt-ausbildung-von-ukrainern-an-patriot-flugabwehrsystem-in-den-usa](https://www.spiegel.de/ausland/ukraine-news-am-freitag-washington-erwaegt-ausbildung-von-ukrainern-an-patriot-flugabwehrsystem-in-den-usa-a-916011ff-f5d9-4ea4-8354-c677abc471fe#ref=rss)
+### zeiten
+
+* [https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion](https://www.spiegel.de/politik/deutschland/bundesnachrichtendienst-bnd-berlin-besorgt-nach-festnahme-von-moeglichem-russischen-spion-a-8f9aa67e-a74e-4916-9f72-88cac457b531#ref=rss)
+* [https://www.spiegel.de/kultur/musik/die-groessten-weihnachtssongs-aller-zeiten-stimmen-sie-ab](https://www.spiegel.de/kultur/musik/die-groessten-weihnachtssongs-aller-zeiten-stimmen-sie-ab-a-8cb5a709-bb66-4a36-a88b-d5b71b5bfc3b#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/auto/bremen-muss-beschwerden-gegen-falschparker-auf-gehwegen-nachgehen](https://www.spiegel.de/auto/bremen-muss-beschwerden-gegen-falschparker-auf-gehwegen-nachgehen-a-8b8e7d05-653f-4531-9be4-392f179a98fe#ref=rss)
+### lastpass
+
+* [https://www.spiegel.de/netzwelt/web/lastpass-hacker-haben-passwort-tresore-von-kunden-gestohlen](https://www.spiegel.de/netzwelt/web/lastpass-hacker-haben-passwort-tresore-von-kunden-gestohlen-a-f0b45135-ebe6-4204-bc56-6ce3d8aa5cfb#ref=rss)
+### kunden
+
+* [https://www.spiegel.de/netzwelt/web/lastpass-hacker-haben-passwort-tresore-von-kunden-gestohlen](https://www.spiegel.de/netzwelt/web/lastpass-hacker-haben-passwort-tresore-von-kunden-gestohlen-a-f0b45135-ebe6-4204-bc56-6ce3d8aa5cfb#ref=rss)
+### feiertage
+
+* [https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los](https://www.spiegel.de/panorama/usa-winterchaos-bedroht-die-feiertage-fahren-sie-besser-jetzt-los-a-970b734a-e096-4125-b7bd-6389c26e4528#ref=rss)
+### oberbürgermeister
+
+* [https://www.spiegel.de/panorama/justiz/peter-feldmann-urteil-gegen-frankfurter-oberbuergermeister-tiefer-sturz](https://www.spiegel.de/panorama/justiz/peter-feldmann-urteil-gegen-frankfurter-oberbuergermeister-tiefer-sturz-a-44f559ca-d30c-4b8b-aa9e-f0ea3706d715#ref=rss)
+### niedersachsen
+
+* [https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant](https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant-a-39d6df30-c2fc-4bce-af14-7f260a9e5140#ref=rss)
+### 26
+
+* [https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant](https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant-a-39d6df30-c2fc-4bce-af14-7f260a9e5140#ref=rss)
+### pfefferspray
+
+* [https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant](https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant-a-39d6df30-c2fc-4bce-af14-7f260a9e5140#ref=rss)
+### schnellrestaurant
+
+* [https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant](https://www.spiegel.de/panorama/justiz/niedersachsen-26-leichtverletzte-durch-pfefferspray-in-schnellrestaurant-a-39d6df30-c2fc-4bce-af14-7f260a9e5140#ref=rss)
+### weihnachtszeit
+
+* [https://www.spiegel.de/wirtschaft/soziales/online-handel-was-beschaeftige-wirklich-verdienen](https://www.spiegel.de/wirtschaft/soziales/online-handel-was-beschaeftige-wirklich-verdienen-a-3fbaec1f-dfc2-4ef5-8f47-185956f9820a#ref=rss)
+* [https://www.spiegel.de/kultur/musik/die-groessten-weihnachtssongs-aller-zeiten-stimmen-sie-ab](https://www.spiegel.de/kultur/musik/die-groessten-weihnachtssongs-aller-zeiten-stimmen-sie-ab-a-8cb5a709-bb66-4a36-a88b-d5b71b5bfc3b#ref=rss)
+### karlmayverlag
+
+* [https://www.spiegel.de/kultur/literatur/karl-may-verlag-winnetou-debatte-hat-verkauf-der-buecher-stark-angekurbelt](https://www.spiegel.de/kultur/literatur/karl-may-verlag-winnetou-debatte-hat-verkauf-der-buecher-stark-angekurbelt-a-dfaef5b6-4e0d-4a26-9a93-677e617f30c8#ref=rss)
+### winnetou
+
+* [https://www.spiegel.de/kultur/literatur/karl-may-verlag-winnetou-debatte-hat-verkauf-der-buecher-stark-angekurbelt](https://www.spiegel.de/kultur/literatur/karl-may-verlag-winnetou-debatte-hat-verkauf-der-buecher-stark-angekurbelt-a-dfaef5b6-4e0d-4a26-9a93-677e617f30c8#ref=rss)
+### land
+
+* [https://www.spiegel.de/sport/fussball/george-cohen-englands-fussball-weltmeister-von-1966-ist-tot](https://www.spiegel.de/sport/fussball/george-cohen-englands-fussball-weltmeister-von-1966-ist-tot-a-e6b2de9b-3b03-4b30-ba9c-fac4ad753fde#ref=rss)
+* [https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein](https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein-a-739da28a-243a-4fe1-af8c-a515fb8bf967#ref=rss)
+### westen
 
 * [https://www.spiegel.de/ausland/ukraine-news-am-freitag-washington-erwaegt-ausbildung-von-ukrainern-an-patriot-flugabwehrsystem-in-den-usa](https://www.spiegel.de/ausland/ukraine-news-am-freitag-washington-erwaegt-ausbildung-von-ukrainern-an-patriot-flugabwehrsystem-in-den-usa-a-916011ff-f5d9-4ea4-8354-c677abc471fe#ref=rss)
-### tipps
+### krieg
 
-* [https://www.spiegel.de/kultur/tipps-fuer-hobbykoeche-10-fehler-die-sie-vermeiden-koennen-und-sollten](https://www.spiegel.de/kultur/tipps-fuer-hobbykoeche-10-fehler-die-sie-vermeiden-koennen-und-sollten-a-aa41abba-7b9f-4cb4-9633-73cb266d22df#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/grippe-rsv-und-medikamentenengpass-so-kommen-sie-gesund-durch-die-feiertage](https://www.spiegel.de/gesundheit/diagnose/grippe-rsv-und-medikamentenengpass-so-kommen-sie-gesund-durch-die-feiertage-a-53f595f6-3420-4f07-9820-16c522840097#ref=rss)
-### nie
+* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-washington-erwaegt-ausbildung-von-ukrainern-an-patriot-flugabwehrsystem-in-den-usa](https://www.spiegel.de/ausland/ukraine-news-am-freitag-washington-erwaegt-ausbildung-von-ukrainern-an-patriot-flugabwehrsystem-in-den-usa-a-916011ff-f5d9-4ea4-8354-c677abc471fe#ref=rss)
+### daniel
 
-* [https://www.spiegel.de/kultur/tipps-fuer-hobbykoeche-10-fehler-die-sie-vermeiden-koennen-und-sollten](https://www.spiegel.de/kultur/tipps-fuer-hobbykoeche-10-fehler-die-sie-vermeiden-koennen-und-sollten-a-aa41abba-7b9f-4cb4-9633-73cb266d22df#ref=rss)
-* [https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr](https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr-a-7a293185-7a95-42b6-9396-677a7d5bddb5#ref=rss)
-### restaurantkritiker
+* [https://www.spiegel.de/kultur/tv/daniel-craig-in-glass-onion-a-knives-out-mystery-der-perfekte-film-zum-fest](https://www.spiegel.de/kultur/tv/daniel-craig-in-glass-onion-a-knives-out-mystery-der-perfekte-film-zum-fest-a-0014447f-c7d9-4005-b44e-a7ce2cdcb362#ref=rss)
+### film
 
-* [https://www.spiegel.de/kultur/tipps-fuer-hobbykoeche-10-fehler-die-sie-vermeiden-koennen-und-sollten](https://www.spiegel.de/kultur/tipps-fuer-hobbykoeche-10-fehler-die-sie-vermeiden-koennen-und-sollten-a-aa41abba-7b9f-4cb4-9633-73cb266d22df#ref=rss)
-* [https://www.spiegel.de/kultur/juergen-dollase-die-deutsche-kueche-hat-das-gleiche-potenzial-wie-die-italienische](https://www.spiegel.de/kultur/juergen-dollase-die-deutsche-kueche-hat-das-gleiche-potenzial-wie-die-italienische-a-80c027b4-afb0-45a5-9d04-69dad088edac#ref=rss)
-### gilt
+* [https://www.spiegel.de/kultur/tv/daniel-craig-in-glass-onion-a-knives-out-mystery-der-perfekte-film-zum-fest](https://www.spiegel.de/kultur/tv/daniel-craig-in-glass-onion-a-knives-out-mystery-der-perfekte-film-zum-fest-a-0014447f-c7d9-4005-b44e-a7ce2cdcb362#ref=rss)
+### wissen
 
-* [https://www.spiegel.de/kultur/juergen-dollase-die-deutsche-kueche-hat-das-gleiche-potenzial-wie-die-italienische](https://www.spiegel.de/kultur/juergen-dollase-die-deutsche-kueche-hat-das-gleiche-potenzial-wie-die-italienische-a-80c027b4-afb0-45a5-9d04-69dad088edac#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets](https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets-a-9b95090d-b448-47db-b112-682fb5a0129b#ref=rss)
-### peter
+* [https://www.spiegel.de/kultur/tv/daniel-craig-in-glass-onion-a-knives-out-mystery-der-perfekte-film-zum-fest](https://www.spiegel.de/kultur/tv/daniel-craig-in-glass-onion-a-knives-out-mystery-der-perfekte-film-zum-fest-a-0014447f-c7d9-4005-b44e-a7ce2cdcb362#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### all
 
-* [https://www.spiegel.de/panorama/justiz/frankfurts-ex-oberbuergermeister-feldmann-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurts-ex-oberbuergermeister-feldmann-zu-geldstrafe-verurteilt-a-0cb18a04-cbc8-4d79-b9c0-6f65cd3181d6#ref=rss)
-### feldmann
+* [https://www.spiegel.de/kultur/tv/daniel-craig-in-glass-onion-a-knives-out-mystery-der-perfekte-film-zum-fest](https://www.spiegel.de/kultur/tv/daniel-craig-in-glass-onion-a-knives-out-mystery-der-perfekte-film-zum-fest-a-0014447f-c7d9-4005-b44e-a7ce2cdcb362#ref=rss)
+* [https://www.spiegel.de/kultur/musik/die-groessten-weihnachtssongs-aller-zeiten-stimmen-sie-ab](https://www.spiegel.de/kultur/musik/die-groessten-weihnachtssongs-aller-zeiten-stimmen-sie-ab-a-8cb5a709-bb66-4a36-a88b-d5b71b5bfc3b#ref=rss)
+### spiegel
 
-* [https://www.spiegel.de/panorama/justiz/frankfurts-ex-oberbuergermeister-feldmann-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurts-ex-oberbuergermeister-feldmann-zu-geldstrafe-verurteilt-a-0cb18a04-cbc8-4d79-b9c0-6f65cd3181d6#ref=rss)
-### zwei
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-erich-honeckers-gestiefelte-grenzer-und-ein-ddr-besuch](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-erich-honeckers-gestiefelte-grenzer-und-ein-ddr-besuch-a-66c7e366-bedc-4167-945a-acb191cc5a16#ref=rss)
+### fragen
 
-* [https://www.spiegel.de/panorama/justiz/frankfurts-ex-oberbuergermeister-feldmann-zu-geldstrafe-verurteilt](https://www.spiegel.de/panorama/justiz/frankfurts-ex-oberbuergermeister-feldmann-zu-geldstrafe-verurteilt-a-0cb18a04-cbc8-4d79-b9c0-6f65cd3181d6#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen-a-10f45891-3ae4-483d-904c-11b5c32fb68d#ref=rss)
-### mehrheit
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/panorama/bildung/umfrage-deutliche-mehrheit-der-eltern-haelt-deutschland-nicht-fuer-kinderfreundlich](https://www.spiegel.de/panorama/bildung/umfrage-deutliche-mehrheit-der-eltern-haelt-deutschland-nicht-fuer-kinderfreundlich-a-5d6677f4-c219-47f5-ac80-ed476444183e#ref=rss)
-### kinderfreundlich
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### honeckers
 
-* [https://www.spiegel.de/panorama/bildung/umfrage-deutliche-mehrheit-der-eltern-haelt-deutschland-nicht-fuer-kinderfreundlich](https://www.spiegel.de/panorama/bildung/umfrage-deutliche-mehrheit-der-eltern-haelt-deutschland-nicht-fuer-kinderfreundlich-a-5d6677f4-c219-47f5-ac80-ed476444183e#ref=rss)
-### keinen
+* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-erich-honeckers-gestiefelte-grenzer-und-ein-ddr-besuch](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-erich-honeckers-gestiefelte-grenzer-und-ein-ddr-besuch-a-66c7e366-bedc-4167-945a-acb191cc5a16#ref=rss)
+### strukturfördermittel
 
-* [https://www.spiegel.de/panorama/bildung/umfrage-deutliche-mehrheit-der-eltern-haelt-deutschland-nicht-fuer-kinderfreundlich](https://www.spiegel.de/panorama/bildung/umfrage-deutliche-mehrheit-der-eltern-haelt-deutschland-nicht-fuer-kinderfreundlich-a-5d6677f4-c219-47f5-ac80-ed476444183e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger](https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger-a-9febd084-0e3b-419d-b2fb-e01b1f1f60e8#ref=rss)
-### meisten
-
-* [https://www.spiegel.de/panorama/bildung/umfrage-deutliche-mehrheit-der-eltern-haelt-deutschland-nicht-fuer-kinderfreundlich](https://www.spiegel.de/panorama/bildung/umfrage-deutliche-mehrheit-der-eltern-haelt-deutschland-nicht-fuer-kinderfreundlich-a-5d6677f4-c219-47f5-ac80-ed476444183e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/arbeitsmarkt-jeder-dritte-betrieb-will-im-kommenden-halbjahr-einstellen](https://www.spiegel.de/wirtschaft/arbeitsmarkt-jeder-dritte-betrieb-will-im-kommenden-halbjahr-einstellen-a-eeaef16a-304d-4be6-b3de-b58bb6f780bc#ref=rss)
-### justizminister
-
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-zu-bnd-fall-ein-wichtiger-schlag-gegen-russische-spionage](https://www.spiegel.de/politik/deutschland/marco-buschmann-zu-bnd-fall-ein-wichtiger-schlag-gegen-russische-spionage-a-a6ecfb5f-4a88-43d5-ad28-a02fe3b96615#ref=rss)
-* [https://www.spiegel.de/wirtschaft/spd-forderung-marco-buschmann-haelt-reform-von-indexmieten-fuer-kontraproduktiv](https://www.spiegel.de/wirtschaft/spd-forderung-marco-buschmann-haelt-reform-von-indexmieten-fuer-kontraproduktiv-a-3f5eb312-ff4a-449d-84ef-7964e64d3737#ref=rss)
-### blackrock
-
-* [https://www.spiegel.de/wirtschaft/blackrock-wird-zerrieben-zwischen-klimaschuetzern-und-donald-trump-freunden](https://www.spiegel.de/wirtschaft/blackrock-wird-zerrieben-zwischen-klimaschuetzern-und-donald-trump-freunden-a-a6ee380b-ee54-42d6-b8a7-d3d76bddb8e8#ref=rss)
-### versprechen
-
-* [https://www.spiegel.de/wirtschaft/blackrock-wird-zerrieben-zwischen-klimaschuetzern-und-donald-trump-freunden](https://www.spiegel.de/wirtschaft/blackrock-wird-zerrieben-zwischen-klimaschuetzern-und-donald-trump-freunden-a-a6ee380b-ee54-42d6-b8a7-d3d76bddb8e8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen-a-10f45891-3ae4-483d-904c-11b5c32fb68d#ref=rss)
-### dartswm
-
-* [https://www.spiegel.de/sport/darts-wm-florian-hempel-scheidet-als-erster-deutscher-aus](https://www.spiegel.de/sport/darts-wm-florian-hempel-scheidet-als-erster-deutscher-aus-a-5072a16c-fd0f-4ff6-af67-f197cd1caf15#ref=rss)
-### florian
-
-* [https://www.spiegel.de/sport/darts-wm-florian-hempel-scheidet-als-erster-deutscher-aus](https://www.spiegel.de/sport/darts-wm-florian-hempel-scheidet-als-erster-deutscher-aus-a-5072a16c-fd0f-4ff6-af67-f197cd1caf15#ref=rss)
-### hempel
-
-* [https://www.spiegel.de/sport/darts-wm-florian-hempel-scheidet-als-erster-deutscher-aus](https://www.spiegel.de/sport/darts-wm-florian-hempel-scheidet-als-erster-deutscher-aus-a-5072a16c-fd0f-4ff6-af67-f197cd1caf15#ref=rss)
-### erste
-
-* [https://www.spiegel.de/sport/darts-wm-florian-hempel-scheidet-als-erster-deutscher-aus](https://www.spiegel.de/sport/darts-wm-florian-hempel-scheidet-als-erster-deutscher-aus-a-5072a16c-fd0f-4ff6-af67-f197cd1caf15#ref=rss)
-* [https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr](https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr-a-7a293185-7a95-42b6-9396-677a7d5bddb5#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/buerokratischer-alptraum-wirtschaft-fordert-vereinfachung-des-lieferkettengesetzes](https://www.spiegel.de/wirtschaft/buerokratischer-alptraum-wirtschaft-fordert-vereinfachung-des-lieferkettengesetzes-a-4bcce7df-e26d-446c-8a7e-81ee0f66635c#ref=rss)
-### kongo
-
-* [https://www.spiegel.de/ausland/uno-bericht-ruandas-armee-im-osten-der-demokratischen-republik-kongo-im-einsatz](https://www.spiegel.de/ausland/uno-bericht-ruandas-armee-im-osten-der-demokratischen-republik-kongo-im-einsatz-a-750bb398-cea1-4ada-91ab-01b36516c64a#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/ausland/uno-bericht-ruandas-armee-im-osten-der-demokratischen-republik-kongo-im-einsatz](https://www.spiegel.de/ausland/uno-bericht-ruandas-armee-im-osten-der-demokratischen-republik-kongo-im-einsatz-a-750bb398-cea1-4ada-91ab-01b36516c64a#ref=rss)
-* [https://www.spiegel.de/ausland/50-000-soeldner-der-wagner-privatarmee-kaempfen-angeblich-in-der-ukraine](https://www.spiegel.de/ausland/50-000-soeldner-der-wagner-privatarmee-kaempfen-angeblich-in-der-ukraine-a-b85adc0d-1b6b-4ad9-9fed-706d759edcf2#ref=rss)
-### unterstützen
-
-* [https://www.spiegel.de/ausland/uno-bericht-ruandas-armee-im-osten-der-demokratischen-republik-kongo-im-einsatz](https://www.spiegel.de/ausland/uno-bericht-ruandas-armee-im-osten-der-demokratischen-republik-kongo-im-einsatz-a-750bb398-cea1-4ada-91ab-01b36516c64a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger](https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger-a-9febd084-0e3b-419d-b2fb-e01b1f1f60e8#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/ausland/uno-bericht-ruandas-armee-im-osten-der-demokratischen-republik-kongo-im-einsatz](https://www.spiegel.de/ausland/uno-bericht-ruandas-armee-im-osten-der-demokratischen-republik-kongo-im-einsatz-a-750bb398-cea1-4ada-91ab-01b36516c64a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk](https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk-a-ba034bdb-4bf2-4f4e-93f6-f7dbb0c9cafe#ref=rss)
-### weiteren
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen-a-10f45891-3ae4-483d-904c-11b5c32fb68d#ref=rss)
-### wert
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen](https://www.spiegel.de/wirtschaft/unternehmen/musk-verspricht-fuer-zwei-jahre-keine-weiteren-tesla-aktien-zu-verkaufen-a-10f45891-3ae4-483d-904c-11b5c32fb68d#ref=rss)
-### afdchefin
-
-* [https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk](https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk-a-ba034bdb-4bf2-4f4e-93f6-f7dbb0c9cafe#ref=rss)
-### alice
-
-* [https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk](https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk-a-ba034bdb-4bf2-4f4e-93f6-f7dbb0c9cafe#ref=rss)
-### weidel
-
-* [https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk](https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk-a-ba034bdb-4bf2-4f4e-93f6-f7dbb0c9cafe#ref=rss)
-### fürchten
-
-* [https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk](https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk-a-ba034bdb-4bf2-4f4e-93f6-f7dbb0c9cafe#ref=rss)
-* [https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets](https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets-a-9b95090d-b448-47db-b112-682fb5a0129b#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk](https://www.spiegel.de/politik/deutschland/twitter-afd-chefin-alice-weidel-lobt-kurs-von-elon-musk-a-ba034bdb-4bf2-4f4e-93f6-f7dbb0c9cafe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger](https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger-a-9febd084-0e3b-419d-b2fb-e01b1f1f60e8#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr](https://www.spiegel.de/panorama/kirche-2022-offenbar-noch-mehr-austritte-als-im-vorjahr-a-7a293185-7a95-42b6-9396-677a7d5bddb5#ref=rss)
-### 49euroticket
-
-* [https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets](https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets-a-9b95090d-b448-47db-b112-682fb5a0129b#ref=rss)
-### verbraucherschützer
-
-* [https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets](https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets-a-9b95090d-b448-47db-b112-682fb5a0129b#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets](https://www.spiegel.de/wirtschaft/nahverkehr-verbraucherschuetzer-warnten-vor-schmalspurvariante-des-49-euro-tickets-a-9b95090d-b448-47db-b112-682fb5a0129b#ref=rss)
-* [https://www.spiegel.de/gesundheit/diagnose/grippe-rsv-und-medikamentenengpass-so-kommen-sie-gesund-durch-die-feiertage](https://www.spiegel.de/gesundheit/diagnose/grippe-rsv-und-medikamentenengpass-so-kommen-sie-gesund-durch-die-feiertage-a-53f595f6-3420-4f07-9820-16c522840097#ref=rss)
-### wagnersöldner
-
-* [https://www.spiegel.de/ausland/50-000-soeldner-der-wagner-privatarmee-kaempfen-angeblich-in-der-ukraine](https://www.spiegel.de/ausland/50-000-soeldner-der-wagner-privatarmee-kaempfen-angeblich-in-der-ukraine-a-b85adc0d-1b6b-4ad9-9fed-706d759edcf2#ref=rss)
-### lindner
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger](https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger-a-9febd084-0e3b-419d-b2fb-e01b1f1f60e8#ref=rss)
-### bürger
-
-* [https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger](https://www.spiegel.de/politik/deutschland/christian-lindner-sieht-keinen-spielraum-fuer-weitere-entlastungen-der-buerger-a-9febd084-0e3b-419d-b2fb-e01b1f1f60e8#ref=rss)
-### reform
-
-* [https://www.spiegel.de/wirtschaft/spd-forderung-marco-buschmann-haelt-reform-von-indexmieten-fuer-kontraproduktiv](https://www.spiegel.de/wirtschaft/spd-forderung-marco-buschmann-haelt-reform-von-indexmieten-fuer-kontraproduktiv-a-3f5eb312-ff4a-449d-84ef-7964e64d3737#ref=rss)
-### gans
-
-* [https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast](https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast-a-0dc9fae1-41ac-40ed-9440-2d705a628a09#ref=rss)
-### fondue
-
-* [https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast](https://www.spiegel.de/panorama/weihnachtsessen-woher-kommt-die-tradition-fuer-gans-kartoffelsalat-fondue-podcast-a-0dc9fae1-41ac-40ed-9440-2d705a628a09#ref=rss)
+* [https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein](https://www.spiegel.de/ausland/eu-friert-saemtliche-strukturfoerdermittel-fuer-ungarn-ein-a-739da28a-243a-4fe1-af8c-a515fb8bf967#ref=rss)
 
