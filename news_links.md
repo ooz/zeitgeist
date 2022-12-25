@@ -4,294 +4,324 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/medizin/china-coronavirus-breitet-sich-rasant-weiter-aus](https://www.spiegel.de/wissenschaft/medizin/china-coronavirus-breitet-sich-rasant-weiter-aus-a-0b86b668-9eaf-4d0b-b7db-66d22962f5c4#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/marokko-klimakrise-bedroht-oasen](https://www.spiegel.de/wissenschaft/natur/marokko-klimakrise-bedroht-oasen-a-59449aa2-68e2-4f39-b213-893748125f4e#ref=rss)
-* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-zahl-der-toten-steigt-auf-17](https://www.spiegel.de/panorama/wintersturm-in-den-usa-zahl-der-toten-steigt-auf-17-a-a5bb1c98-673f-4f6b-ac88-f8830de5495d#ref=rss)
-* [https://www.spiegel.de/reise/deutschland/weihnachten-am-flughafen-wenn-menschen-sich-endlich-wiedersehen](https://www.spiegel.de/reise/deutschland/weihnachten-am-flughafen-wenn-menschen-sich-endlich-wiedersehen-a-e9e294a6-3881-4456-8412-7a05802c0173#ref=rss)
-* [https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg](https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg-a-d688e414-00f2-4f20-8efd-09dbea32be37#ref=rss)
-* [https://www.spiegel.de/panorama/sibirien-20-menschen-sterben-bei-brand-in-russischem-pflegeheim](https://www.spiegel.de/panorama/sibirien-20-menschen-sterben-bei-brand-in-russischem-pflegeheim-a-f1e74e44-d8e2-455e-8a4c-cc5d20a61b31#ref=rss)
 ### weihnachten
 
-* [https://www.spiegel.de/gesundheit/weihnachten-deutschen-sollen-nicht-mit-bagatellerkrankungen-in-die-notaufnahme](https://www.spiegel.de/gesundheit/weihnachten-deutschen-sollen-nicht-mit-bagatellerkrankungen-in-die-notaufnahme-a-6ddafad1-912d-4de3-bdf0-8666a71e6f59#ref=rss)
-* [https://www.spiegel.de/reise/deutschland/weihnachten-am-flughafen-wenn-menschen-sich-endlich-wiedersehen](https://www.spiegel.de/reise/deutschland/weihnachten-am-flughafen-wenn-menschen-sich-endlich-wiedersehen-a-e9e294a6-3881-4456-8412-7a05802c0173#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten-a-7ae11761-a835-4b55-95c9-fe443edce624#ref=rss)
-* [https://www.spiegel.de/sport/fussball/pele-tochter-postet-bei-instagram-noch-eine-nacht-zusammen](https://www.spiegel.de/sport/fussball/pele-tochter-postet-bei-instagram-noch-eine-nacht-zusammen-a-8a6476ba-a663-40da-806c-cb7cd10a04d3#ref=rss)
-### viele
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-weihnachten-1942-stille-nacht-in-stalingrad](https://www.spiegel.de/geschichte/zweiter-weltkrieg-weihnachten-1942-stille-nacht-in-stalingrad-a-782c317e-8b38-473f-a126-84c25a80bcc4#ref=rss)
+* [https://www.spiegel.de/familie/spiegel-familiennewsletter-fuerchtet-euch-nicht](https://www.spiegel.de/familie/spiegel-familiennewsletter-fuerchtet-euch-nicht-a-5a55cd01-4de6-4d85-87a7-0c857e172eeb#ref=rss)
+* [https://www.spiegel.de/ausland/jesus-maria-und-die-weihnachtsgeschichte-aus-feministischer-sicht-gott-ist-queer](https://www.spiegel.de/ausland/jesus-maria-und-die-weihnachtsgeschichte-aus-feministischer-sicht-gott-ist-queer-a-4ff82b5a-88ed-414e-832b-2ac2375443ce#ref=rss)
+* [https://www.spiegel.de/psychologie/stress-an-weihnachten-wie-man-es-schafft-nicht-in-alte-muster-zu-verfallen](https://www.spiegel.de/psychologie/stress-an-weihnachten-wie-man-es-schafft-nicht-in-alte-muster-zu-verfallen-a-fe4cb1e4-1414-4899-93d4-b8366be7e53f#ref=rss)
+* [https://www.spiegel.de/karriere/hund-jagt-modelleisenbahn-raetsel-der-woche](https://www.spiegel.de/karriere/hund-jagt-modelleisenbahn-raetsel-der-woche-a-5743c3e5-1d62-4091-9763-00512c4f5e49#ref=rss)
+* [https://www.spiegel.de/panorama/weihnachten-in-rom-papst-franziskus-geisselt-krieg-machthunger-und-materialismus](https://www.spiegel.de/panorama/weihnachten-in-rom-papst-franziskus-geisselt-krieg-machthunger-und-materialismus-a-8c87bb44-63ef-4e31-a509-100b65aaafdb#ref=rss)
+### 16
 
-* [https://www.spiegel.de/sport/fussball/wm-2022-schiedsrichter-szymon-marciniak-kontert-vorwuerfe-aus-frankreich](https://www.spiegel.de/sport/fussball/wm-2022-schiedsrichter-szymon-marciniak-kontert-vorwuerfe-aus-frankreich-a-a14303d1-2845-4676-ba0a-34139392078e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/china-coronavirus-breitet-sich-rasant-weiter-aus](https://www.spiegel.de/wissenschaft/medizin/china-coronavirus-breitet-sich-rasant-weiter-aus-a-0b86b668-9eaf-4d0b-b7db-66d22962f5c4#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/entweihung-von-kirchen-warum-es-so-schwer-ist-gotteshaeuser-anders-zu-nutzen](https://www.spiegel.de/panorama/gesellschaft/entweihung-von-kirchen-warum-es-so-schwer-ist-gotteshaeuser-anders-zu-nutzen-a-adc8202d-a2dc-4436-aec9-d3be79effb69#ref=rss)
-* [https://www.spiegel.de/reise/deutschland/weihnachten-am-flughafen-wenn-menschen-sich-endlich-wiedersehen](https://www.spiegel.de/reise/deutschland/weihnachten-am-flughafen-wenn-menschen-sich-endlich-wiedersehen-a-e9e294a6-3881-4456-8412-7a05802c0173#ref=rss)
-* [https://www.spiegel.de/familie/hausgeburt-erfahrungsbericht-was-man-braucht-wie-es-ablaeuft](https://www.spiegel.de/familie/hausgeburt-erfahrungsbericht-was-man-braucht-wie-es-ablaeuft-a-a84d2e3e-9589-4a94-9cac-32abaf2fe97c#ref=rss)
-### unter
-
-* [https://www.spiegel.de/sport/fussball/christoph-daum-ex-trainer-nach-krebserkrankung-auf-dem-weg-der-besserung](https://www.spiegel.de/sport/fussball/christoph-daum-ex-trainer-nach-krebserkrankung-auf-dem-weg-der-besserung-a-fc233b89-a1bb-4f04-9aa5-2f1efe9df697#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/marokko-klimakrise-bedroht-oasen](https://www.spiegel.de/wissenschaft/natur/marokko-klimakrise-bedroht-oasen-a-59449aa2-68e2-4f39-b213-893748125f4e#ref=rss)
-* [https://www.spiegel.de/ausland/migration-bisher-255-asylsuchende-zur-halbzeit-von-eu-mechanismus-umgesiedelt](https://www.spiegel.de/ausland/migration-bisher-255-asylsuchende-zur-halbzeit-von-eu-mechanismus-umgesiedelt-a-291706db-6786-491d-b023-b84cdd7ba44a#ref=rss)
-* [https://www.spiegel.de/familie/putzen-am-wochenende-mit-diesen-tipps-ersparen-sie-sich-den-stress](https://www.spiegel.de/familie/putzen-am-wochenende-mit-diesen-tipps-ersparen-sie-sich-den-stress-a-e83a2a40-9080-4dff-8e1b-eccd23fd855e#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/sportreporter-muss-ueber-us-wetterchaos-berichten-die-gute-nachricht-ich-fuehle-mein-gesicht-noch](https://www.spiegel.de/panorama/sportreporter-muss-ueber-us-wetterchaos-berichten-die-gute-nachricht-ich-fuehle-mein-gesicht-noch-a-f969f435-193c-4fc0-86ad-1c884586b36a#ref=rss)
-* [https://www.spiegel.de/familie/hausgeburt-erfahrungsbericht-was-man-braucht-wie-es-ablaeuft](https://www.spiegel.de/familie/hausgeburt-erfahrungsbericht-was-man-braucht-wie-es-ablaeuft-a-a84d2e3e-9589-4a94-9cac-32abaf2fe97c#ref=rss)
-### familie
-
-* [https://www.spiegel.de/panorama/bayern-dieb-stiehlt-einer-familie-die-weihnachtsgeschenke](https://www.spiegel.de/panorama/bayern-dieb-stiehlt-einer-familie-die-weihnachtsgeschenke-a-9fc1ee78-9ad0-4b72-8756-912897d6b9f2#ref=rss)
-* [https://www.spiegel.de/geschichte/radiosendung-gruss-an-bord-fuer-seeleute-gemeinsam-einsam](https://www.spiegel.de/geschichte/radiosendung-gruss-an-bord-fuer-seeleute-gemeinsam-einsam-a-a1cecdba-2edc-4dc1-859d-98a1a21045dd#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/maui-hawaii-schnorchlerin-nach-haibegegnung-vermisst](https://www.spiegel.de/panorama/maui-hawaii-schnorchlerin-nach-haibegegnung-vermisst-a-506cff4f-5427-49c2-96f4-dc2f9d3779a3#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren](https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren-a-90898586-a589-4fef-8fa2-cefc13c952c4#ref=rss)
-* [https://www.spiegel.de/panorama/sibirien-20-menschen-sterben-bei-brand-in-russischem-pflegeheim](https://www.spiegel.de/panorama/sibirien-20-menschen-sterben-bei-brand-in-russischem-pflegeheim-a-f1e74e44-d8e2-455e-8a4c-cc5d20a61b31#ref=rss)
-### arbeit
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit](https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit-a-368a8fdc-6ecc-41fc-bc35-29cb5ac985b3#ref=rss)
-* [https://www.spiegel.de/panorama/oelbekaempfung-nord-ostsee-kanal-bleibt-laenger-gesperrt](https://www.spiegel.de/panorama/oelbekaempfung-nord-ostsee-kanal-bleibt-laenger-gesperrt-a-f9e8549f-07b3-402d-9231-74ce8aabc25d#ref=rss)
-### größte
-
-* [https://www.spiegel.de/wirtschaft/prognose-pkw-absatz-koennte-2023-weltweit-um-3-1-prozent-steigen](https://www.spiegel.de/wirtschaft/prognose-pkw-absatz-koennte-2023-weltweit-um-3-1-prozent-steigen-a-95663063-7cc6-4320-9ea6-9e4f3d466050#ref=rss)
-* [https://www.spiegel.de/gesundheit/einsamkeit-in-deutschland-groesste-volkskrankheit-mahnt-patientenschuetzer](https://www.spiegel.de/gesundheit/einsamkeit-in-deutschland-groesste-volkskrankheit-mahnt-patientenschuetzer-a-2336dbd5-c8a6-4b6e-a73c-bafacdfd6bc5#ref=rss)
-* [https://www.spiegel.de/sport/fussball/pele-tochter-postet-bei-instagram-noch-eine-nacht-zusammen](https://www.spiegel.de/sport/fussball/pele-tochter-postet-bei-instagram-noch-eine-nacht-zusammen-a-8a6476ba-a663-40da-806c-cb7cd10a04d3#ref=rss)
-### china
-
-* [https://www.spiegel.de/wirtschaft/prognose-pkw-absatz-koennte-2023-weltweit-um-3-1-prozent-steigen](https://www.spiegel.de/wirtschaft/prognose-pkw-absatz-koennte-2023-weltweit-um-3-1-prozent-steigen-a-95663063-7cc6-4320-9ea6-9e4f3d466050#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/china-coronavirus-breitet-sich-rasant-weiter-aus](https://www.spiegel.de/wissenschaft/medizin/china-coronavirus-breitet-sich-rasant-weiter-aus-a-0b86b668-9eaf-4d0b-b7db-66d22962f5c4#ref=rss)
-### bisher
-
-* [https://www.spiegel.de/panorama/maui-hawaii-schnorchlerin-nach-haibegegnung-vermisst](https://www.spiegel.de/panorama/maui-hawaii-schnorchlerin-nach-haibegegnung-vermisst-a-506cff4f-5427-49c2-96f4-dc2f9d3779a3#ref=rss)
-* [https://www.spiegel.de/ausland/migration-bisher-255-asylsuchende-zur-halbzeit-von-eu-mechanismus-umgesiedelt](https://www.spiegel.de/ausland/migration-bisher-255-asylsuchende-zur-halbzeit-von-eu-mechanismus-umgesiedelt-a-291706db-6786-491d-b023-b84cdd7ba44a#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/panorama/gesellschaft/entweihung-von-kirchen-warum-es-so-schwer-ist-gotteshaeuser-anders-zu-nutzen](https://www.spiegel.de/panorama/gesellschaft/entweihung-von-kirchen-warum-es-so-schwer-ist-gotteshaeuser-anders-zu-nutzen-a-adc8202d-a2dc-4436-aec9-d3be79effb69#ref=rss)
-* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-zahl-der-toten-steigt-auf-17](https://www.spiegel.de/panorama/wintersturm-in-den-usa-zahl-der-toten-steigt-auf-17-a-a5bb1c98-673f-4f6b-ac88-f8830de5495d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten-a-7ae11761-a835-4b55-95c9-fe443edce624#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren](https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren-a-90898586-a589-4fef-8fa2-cefc13c952c4#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-russland-mangelt-es-laut-geheimdienstbericht-an-munition-und-raketen](https://www.spiegel.de/ausland/ukraine-news-russland-mangelt-es-laut-geheimdienstbericht-an-munition-und-raketen-a-4a08a978-c5f9-4c61-a1e3-bbf4116a5ae9#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren](https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren-a-90898586-a589-4fef-8fa2-cefc13c952c4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten-a-7ae11761-a835-4b55-95c9-fe443edce624#ref=rss)
-* [https://www.spiegel.de/panorama/sibirien-20-menschen-sterben-bei-brand-in-russischem-pflegeheim](https://www.spiegel.de/panorama/sibirien-20-menschen-sterben-bei-brand-in-russischem-pflegeheim-a-f1e74e44-d8e2-455e-8a4c-cc5d20a61b31#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren](https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren-a-90898586-a589-4fef-8fa2-cefc13c952c4#ref=rss)
-* [https://www.spiegel.de/ausland/pussy-riot-video-zum-ukraine-krieg-mama-schau-kein-fernsehen](https://www.spiegel.de/ausland/pussy-riot-video-zum-ukraine-krieg-mama-schau-kein-fernsehen-a-7d0457a1-3c5c-4bca-94ee-6fd551442cec#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-russland-mangelt-es-laut-geheimdienstbericht-an-munition-und-raketen](https://www.spiegel.de/ausland/ukraine-news-russland-mangelt-es-laut-geheimdienstbericht-an-munition-und-raketen-a-4a08a978-c5f9-4c61-a1e3-bbf4116a5ae9#ref=rss)
-### krankenhaus
-
-* [https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg](https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg-a-d688e414-00f2-4f20-8efd-09dbea32be37#ref=rss)
-* [https://www.spiegel.de/familie/hausgeburt-erfahrungsbericht-was-man-braucht-wie-es-ablaeuft](https://www.spiegel.de/familie/hausgeburt-erfahrungsbericht-was-man-braucht-wie-es-ablaeuft-a-a84d2e3e-9589-4a94-9cac-32abaf2fe97c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/pele-tochter-postet-bei-instagram-noch-eine-nacht-zusammen](https://www.spiegel.de/sport/fussball/pele-tochter-postet-bei-instagram-noch-eine-nacht-zusammen-a-8a6476ba-a663-40da-806c-cb7cd10a04d3#ref=rss)
-### afghanistan
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit](https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit-a-368a8fdc-6ecc-41fc-bc35-29cb5ac985b3#ref=rss)
-### taliban
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit](https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit-a-368a8fdc-6ecc-41fc-bc35-29cb5ac985b3#ref=rss)
-### untersagen
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit](https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit-a-368a8fdc-6ecc-41fc-bc35-29cb5ac985b3#ref=rss)
-### alle
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit](https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit-a-368a8fdc-6ecc-41fc-bc35-29cb5ac985b3#ref=rss)
-* [https://www.spiegel.de/gesundheit/weihnachten-deutschen-sollen-nicht-mit-bagatellerkrankungen-in-die-notaufnahme](https://www.spiegel.de/gesundheit/weihnachten-deutschen-sollen-nicht-mit-bagatellerkrankungen-in-die-notaufnahme-a-6ddafad1-912d-4de3-bdf0-8666a71e6f59#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit](https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit-a-368a8fdc-6ecc-41fc-bc35-29cb5ac985b3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/china-coronavirus-breitet-sich-rasant-weiter-aus](https://www.spiegel.de/wissenschaft/medizin/china-coronavirus-breitet-sich-rasant-weiter-aus-a-0b86b668-9eaf-4d0b-b7db-66d22962f5c4#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit](https://www.spiegel.de/ausland/afghanistan-taliban-untersagen-ngo-mitarbeiterinnen-die-arbeit-a-368a8fdc-6ecc-41fc-bc35-29cb5ac985b3#ref=rss)
-* [https://www.spiegel.de/reise/deutschland/weihnachten-am-flughafen-wenn-menschen-sich-endlich-wiedersehen](https://www.spiegel.de/reise/deutschland/weihnachten-am-flughafen-wenn-menschen-sich-endlich-wiedersehen-a-e9e294a6-3881-4456-8412-7a05802c0173#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/gesundheit/weihnachten-deutschen-sollen-nicht-mit-bagatellerkrankungen-in-die-notaufnahme](https://www.spiegel.de/gesundheit/weihnachten-deutschen-sollen-nicht-mit-bagatellerkrankungen-in-die-notaufnahme-a-6ddafad1-912d-4de3-bdf0-8666a71e6f59#ref=rss)
-### frei
-
-* [https://www.spiegel.de/gesundheit/weihnachten-deutschen-sollen-nicht-mit-bagatellerkrankungen-in-die-notaufnahme](https://www.spiegel.de/gesundheit/weihnachten-deutschen-sollen-nicht-mit-bagatellerkrankungen-in-die-notaufnahme-a-6ddafad1-912d-4de3-bdf0-8666a71e6f59#ref=rss)
-* [https://www.spiegel.de/panorama/oelbekaempfung-nord-ostsee-kanal-bleibt-laenger-gesperrt](https://www.spiegel.de/panorama/oelbekaempfung-nord-ostsee-kanal-bleibt-laenger-gesperrt-a-f9e8549f-07b3-402d-9231-74ce8aabc25d#ref=rss)
-### halten
-
-* [https://www.spiegel.de/gesundheit/weihnachten-deutschen-sollen-nicht-mit-bagatellerkrankungen-in-die-notaufnahme](https://www.spiegel.de/gesundheit/weihnachten-deutschen-sollen-nicht-mit-bagatellerkrankungen-in-die-notaufnahme-a-6ddafad1-912d-4de3-bdf0-8666a71e6f59#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-russland-mangelt-es-laut-geheimdienstbericht-an-munition-und-raketen](https://www.spiegel.de/ausland/ukraine-news-russland-mangelt-es-laut-geheimdienstbericht-an-munition-und-raketen-a-4a08a978-c5f9-4c61-a1e3-bbf4116a5ae9#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/gesundheit/weihnachten-deutschen-sollen-nicht-mit-bagatellerkrankungen-in-die-notaufnahme](https://www.spiegel.de/gesundheit/weihnachten-deutschen-sollen-nicht-mit-bagatellerkrankungen-in-die-notaufnahme-a-6ddafad1-912d-4de3-bdf0-8666a71e6f59#ref=rss)
-* [https://www.spiegel.de/familie/putzen-am-wochenende-mit-diesen-tipps-ersparen-sie-sich-den-stress](https://www.spiegel.de/familie/putzen-am-wochenende-mit-diesen-tipps-ersparen-sie-sich-den-stress-a-e83a2a40-9080-4dff-8e1b-eccd23fd855e#ref=rss)
-### christoph
-
-* [https://www.spiegel.de/sport/fussball/christoph-daum-ex-trainer-nach-krebserkrankung-auf-dem-weg-der-besserung](https://www.spiegel.de/sport/fussball/christoph-daum-ex-trainer-nach-krebserkrankung-auf-dem-weg-der-besserung-a-fc233b89-a1bb-4f04-9aa5-2f1efe9df697#ref=rss)
-### daum
-
-* [https://www.spiegel.de/sport/fussball/christoph-daum-ex-trainer-nach-krebserkrankung-auf-dem-weg-der-besserung](https://www.spiegel.de/sport/fussball/christoph-daum-ex-trainer-nach-krebserkrankung-auf-dem-weg-der-besserung-a-fc233b89-a1bb-4f04-9aa5-2f1efe9df697#ref=rss)
-### krebs
-
-* [https://www.spiegel.de/sport/fussball/christoph-daum-ex-trainer-nach-krebserkrankung-auf-dem-weg-der-besserung](https://www.spiegel.de/sport/fussball/christoph-daum-ex-trainer-nach-krebserkrankung-auf-dem-weg-der-besserung-a-fc233b89-a1bb-4f04-9aa5-2f1efe9df697#ref=rss)
-### weg
-
-* [https://www.spiegel.de/sport/fussball/christoph-daum-ex-trainer-nach-krebserkrankung-auf-dem-weg-der-besserung](https://www.spiegel.de/sport/fussball/christoph-daum-ex-trainer-nach-krebserkrankung-auf-dem-weg-der-besserung-a-fc233b89-a1bb-4f04-9aa5-2f1efe9df697#ref=rss)
-* [https://www.spiegel.de/familie/hausgeburt-erfahrungsbericht-was-man-braucht-wie-es-ablaeuft](https://www.spiegel.de/familie/hausgeburt-erfahrungsbericht-was-man-braucht-wie-es-ablaeuft-a-a84d2e3e-9589-4a94-9cac-32abaf2fe97c#ref=rss)
-### erkrankt
-
-* [https://www.spiegel.de/sport/fussball/christoph-daum-ex-trainer-nach-krebserkrankung-auf-dem-weg-der-besserung](https://www.spiegel.de/sport/fussball/christoph-daum-ex-trainer-nach-krebserkrankung-auf-dem-weg-der-besserung-a-fc233b89-a1bb-4f04-9aa5-2f1efe9df697#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/china-coronavirus-breitet-sich-rasant-weiter-aus](https://www.spiegel.de/wissenschaft/medizin/china-coronavirus-breitet-sich-rasant-weiter-aus-a-0b86b668-9eaf-4d0b-b7db-66d22962f5c4#ref=rss)
-### prognose
-
-* [https://www.spiegel.de/wirtschaft/prognose-pkw-absatz-koennte-2023-weltweit-um-3-1-prozent-steigen](https://www.spiegel.de/wirtschaft/prognose-pkw-absatz-koennte-2023-weltweit-um-3-1-prozent-steigen-a-95663063-7cc6-4320-9ea6-9e4f3d466050#ref=rss)
-### weltweit
-
-* [https://www.spiegel.de/wirtschaft/prognose-pkw-absatz-koennte-2023-weltweit-um-3-1-prozent-steigen](https://www.spiegel.de/wirtschaft/prognose-pkw-absatz-koennte-2023-weltweit-um-3-1-prozent-steigen-a-95663063-7cc6-4320-9ea6-9e4f3d466050#ref=rss)
-### steigen
-
-* [https://www.spiegel.de/wirtschaft/prognose-pkw-absatz-koennte-2023-weltweit-um-3-1-prozent-steigen](https://www.spiegel.de/wirtschaft/prognose-pkw-absatz-koennte-2023-weltweit-um-3-1-prozent-steigen-a-95663063-7cc6-4320-9ea6-9e4f3d466050#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten-a-7ae11761-a835-4b55-95c9-fe443edce624#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/prognose-pkw-absatz-koennte-2023-weltweit-um-3-1-prozent-steigen](https://www.spiegel.de/wirtschaft/prognose-pkw-absatz-koennte-2023-weltweit-um-3-1-prozent-steigen-a-95663063-7cc6-4320-9ea6-9e4f3d466050#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten-a-7ae11761-a835-4b55-95c9-fe443edce624#ref=rss)
-### schiedsrichter
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-schiedsrichter-szymon-marciniak-kontert-vorwuerfe-aus-frankreich](https://www.spiegel.de/sport/fussball/wm-2022-schiedsrichter-szymon-marciniak-kontert-vorwuerfe-aus-frankreich-a-a14303d1-2845-4676-ba0a-34139392078e#ref=rss)
-### kontert
-
-* [https://www.spiegel.de/sport/fussball/wm-2022-schiedsrichter-szymon-marciniak-kontert-vorwuerfe-aus-frankreich](https://www.spiegel.de/sport/fussball/wm-2022-schiedsrichter-szymon-marciniak-kontert-vorwuerfe-aus-frankreich-a-a14303d1-2845-4676-ba0a-34139392078e#ref=rss)
-### täglich
-
-* [https://www.spiegel.de/wissenschaft/medizin/china-coronavirus-breitet-sich-rasant-weiter-aus](https://www.spiegel.de/wissenschaft/medizin/china-coronavirus-breitet-sich-rasant-weiter-aus-a-0b86b668-9eaf-4d0b-b7db-66d22962f5c4#ref=rss)
-* [https://www.spiegel.de/panorama/leute/brocken-benno-schmidt-rekord-wanderer-ist-tot](https://www.spiegel.de/panorama/leute/brocken-benno-schmidt-rekord-wanderer-ist-tot-a-8d8b1815-bf17-46e0-9a78-763724bb6f82#ref=rss)
-### leiden
-
-* [https://www.spiegel.de/wissenschaft/natur/marokko-klimakrise-bedroht-oasen](https://www.spiegel.de/wissenschaft/natur/marokko-klimakrise-bedroht-oasen-a-59449aa2-68e2-4f39-b213-893748125f4e#ref=rss)
-* [https://www.spiegel.de/gesundheit/einsamkeit-in-deutschland-groesste-volkskrankheit-mahnt-patientenschuetzer](https://www.spiegel.de/gesundheit/einsamkeit-in-deutschland-groesste-volkskrankheit-mahnt-patientenschuetzer-a-2336dbd5-c8a6-4b6e-a73c-bafacdfd6bc5#ref=rss)
-### nordostseekanal
-
-* [https://www.spiegel.de/panorama/oelbekaempfung-nord-ostsee-kanal-bleibt-laenger-gesperrt](https://www.spiegel.de/panorama/oelbekaempfung-nord-ostsee-kanal-bleibt-laenger-gesperrt-a-f9e8549f-07b3-402d-9231-74ce8aabc25d#ref=rss)
-### heiligabend
-
-* [https://www.spiegel.de/panorama/oelbekaempfung-nord-ostsee-kanal-bleibt-laenger-gesperrt](https://www.spiegel.de/panorama/oelbekaempfung-nord-ostsee-kanal-bleibt-laenger-gesperrt-a-f9e8549f-07b3-402d-9231-74ce8aabc25d#ref=rss)
-* [https://www.spiegel.de/geschichte/radiosendung-gruss-an-bord-fuer-seeleute-gemeinsam-einsam](https://www.spiegel.de/geschichte/radiosendung-gruss-an-bord-fuer-seeleute-gemeinsam-einsam-a-a1cecdba-2edc-4dc1-859d-98a1a21045dd#ref=rss)
-### sportreporter
-
-* [https://www.spiegel.de/panorama/sportreporter-muss-ueber-us-wetterchaos-berichten-die-gute-nachricht-ich-fuehle-mein-gesicht-noch](https://www.spiegel.de/panorama/sportreporter-muss-ueber-us-wetterchaos-berichten-die-gute-nachricht-ich-fuehle-mein-gesicht-noch-a-f969f435-193c-4fc0-86ad-1c884586b36a#ref=rss)
-### gute
-
-* [https://www.spiegel.de/panorama/sportreporter-muss-ueber-us-wetterchaos-berichten-die-gute-nachricht-ich-fuehle-mein-gesicht-noch](https://www.spiegel.de/panorama/sportreporter-muss-ueber-us-wetterchaos-berichten-die-gute-nachricht-ich-fuehle-mein-gesicht-noch-a-f969f435-193c-4fc0-86ad-1c884586b36a#ref=rss)
-* [https://www.spiegel.de/familie/hausgeburt-erfahrungsbericht-was-man-braucht-wie-es-ablaeuft](https://www.spiegel.de/familie/hausgeburt-erfahrungsbericht-was-man-braucht-wie-es-ablaeuft-a-a84d2e3e-9589-4a94-9cac-32abaf2fe97c#ref=rss)
-### weihnachtsgeschenke
-
-* [https://www.spiegel.de/panorama/bayern-dieb-stiehlt-einer-familie-die-weihnachtsgeschenke](https://www.spiegel.de/panorama/bayern-dieb-stiehlt-einer-familie-die-weihnachtsgeschenke-a-9fc1ee78-9ad0-4b72-8756-912897d6b9f2#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/gesellschaft/entweihung-von-kirchen-warum-es-so-schwer-ist-gotteshaeuser-anders-zu-nutzen](https://www.spiegel.de/panorama/gesellschaft/entweihung-von-kirchen-warum-es-so-schwer-ist-gotteshaeuser-anders-zu-nutzen-a-adc8202d-a2dc-4436-aec9-d3be79effb69#ref=rss)
-* [https://www.spiegel.de/sport/fussball/pele-tochter-postet-bei-instagram-noch-eine-nacht-zusammen](https://www.spiegel.de/sport/fussball/pele-tochter-postet-bei-instagram-noch-eine-nacht-zusammen-a-8a6476ba-a663-40da-806c-cb7cd10a04d3#ref=rss)
-### gotteshäuser
-
-* [https://www.spiegel.de/panorama/gesellschaft/entweihung-von-kirchen-warum-es-so-schwer-ist-gotteshaeuser-anders-zu-nutzen](https://www.spiegel.de/panorama/gesellschaft/entweihung-von-kirchen-warum-es-so-schwer-ist-gotteshaeuser-anders-zu-nutzen-a-adc8202d-a2dc-4436-aec9-d3be79effb69#ref=rss)
-### rishi
-
-* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ernennt-engen-freund-zum-politischen-berater](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ernennt-engen-freund-zum-politischen-berater-a-d53a46da-8458-4706-8223-ba6354510a0e#ref=rss)
-### sunak
-
-* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ernennt-engen-freund-zum-politischen-berater](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ernennt-engen-freund-zum-politischen-berater-a-d53a46da-8458-4706-8223-ba6354510a0e#ref=rss)
-### berater
-
-* [https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ernennt-engen-freund-zum-politischen-berater](https://www.spiegel.de/ausland/grossbritannien-rishi-sunak-ernennt-engen-freund-zum-politischen-berater-a-d53a46da-8458-4706-8223-ba6354510a0e#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren](https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren-a-90898586-a589-4fef-8fa2-cefc13c952c4#ref=rss)
-### mariah
-
-* [https://www.spiegel.de/kultur/musik/co-songwriter-bezeichnet-mythos-um-mariah-careys-weihnachtshit-als-luegenmaerchen](https://www.spiegel.de/kultur/musik/co-songwriter-bezeichnet-mythos-um-mariah-careys-weihnachtshit-als-luegenmaerchen-a-a73470e9-95c2-48cf-821c-61a7bba455c0#ref=rss)
-### carey
-
-* [https://www.spiegel.de/kultur/musik/co-songwriter-bezeichnet-mythos-um-mariah-careys-weihnachtshit-als-luegenmaerchen](https://www.spiegel.de/kultur/musik/co-songwriter-bezeichnet-mythos-um-mariah-careys-weihnachtshit-als-luegenmaerchen-a-a73470e9-95c2-48cf-821c-61a7bba455c0#ref=rss)
-### meinung
-
-* [https://www.spiegel.de/kultur/musik/co-songwriter-bezeichnet-mythos-um-mariah-careys-weihnachtshit-als-luegenmaerchen](https://www.spiegel.de/kultur/musik/co-songwriter-bezeichnet-mythos-um-mariah-careys-weihnachtshit-als-luegenmaerchen-a-a73470e9-95c2-48cf-821c-61a7bba455c0#ref=rss)
-* [https://www.spiegel.de/gesundheit/einsamkeit-in-deutschland-groesste-volkskrankheit-mahnt-patientenschuetzer](https://www.spiegel.de/gesundheit/einsamkeit-in-deutschland-groesste-volkskrankheit-mahnt-patientenschuetzer-a-2336dbd5-c8a6-4b6e-a73c-bafacdfd6bc5#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-news-am-sonntag-luftalarm-in-der-gesamten-ukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-news-am-sonntag-luftalarm-in-der-gesamten-ukraine-a-48931356-69ae-466f-bf8d-4f3e40e15ce8#ref=rss)
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16](https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16-a-47bc1a6d-31b3-4ade-8c77-2af37431327f#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-zahl-der-toten-steigt-auf-17](https://www.spiegel.de/panorama/wintersturm-in-den-usa-zahl-der-toten-steigt-auf-17-a-a5bb1c98-673f-4f6b-ac88-f8830de5495d#ref=rss)
-### 17
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-fotos-aus-dem-whiteout](https://www.spiegel.de/panorama/wintersturm-in-den-usa-fotos-aus-dem-whiteout-a-0d5f4b0e-777f-4c7a-8ff2-34e155d138d9#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-zahl-der-toten-steigt-auf-17](https://www.spiegel.de/panorama/wintersturm-in-den-usa-zahl-der-toten-steigt-auf-17-a-a5bb1c98-673f-4f6b-ac88-f8830de5495d#ref=rss)
-### 40
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-weihnachten-1942-stille-nacht-in-stalingrad](https://www.spiegel.de/geschichte/zweiter-weltkrieg-weihnachten-1942-stille-nacht-in-stalingrad-a-782c317e-8b38-473f-a126-84c25a80bcc4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16](https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16-a-47bc1a6d-31b3-4ade-8c77-2af37431327f#ref=rss)
+* [https://www.spiegel.de/panorama/weihnachten-in-rom-papst-franziskus-geisselt-krieg-machthunger-und-materialismus](https://www.spiegel.de/panorama/weihnachten-in-rom-papst-franziskus-geisselt-krieg-machthunger-und-materialismus-a-8c87bb44-63ef-4e31-a509-100b65aaafdb#ref=rss)
+### 2022
 
-* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-zahl-der-toten-steigt-auf-17](https://www.spiegel.de/panorama/wintersturm-in-den-usa-zahl-der-toten-steigt-auf-17-a-a5bb1c98-673f-4f6b-ac88-f8830de5495d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten-a-7ae11761-a835-4b55-95c9-fe443edce624#ref=rss)
+* [https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor](https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor-a-9b4a9ecc-2114-4649-a088-cdcd4aca2ae7#ref=rss)
+* [https://www.spiegel.de/kultur/unwort-des-jahres-2022-diese-begriffe-kommen-in-die-engere-auswahl](https://www.spiegel.de/kultur/unwort-des-jahres-2022-diese-begriffe-kommen-in-die-engere-auswahl-a-a23a47cd-0f5e-4aa2-8280-091479ef817b#ref=rss)
+* [https://www.spiegel.de/ausland/jewgeni-prigoschin-das-ist-russlands-furchterregendste-figur-2022-kolumne](https://www.spiegel.de/ausland/jewgeni-prigoschin-das-ist-russlands-furchterregendste-figur-2022-kolumne-a-7bd45571-5504-4321-ace8-70b0fca31235#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor](https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor-a-9b4a9ecc-2114-4649-a088-cdcd4aca2ae7#ref=rss)
+* [https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur](https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur-a-9c0d67da-126e-42e9-aa0b-5dc1aeccb2e3#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-weihnachtsansprache-wir-werden-nicht-auf-ein-wunder-warten-wir-schaffen-es-selbst](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-weihnachtsansprache-wir-werden-nicht-auf-ein-wunder-warten-wir-schaffen-es-selbst-a-0f285068-3a3c-4f12-bb49-f3a988967b5c#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/panorama/karl-lauterbach-mit-mir-am-herd-waere-das-essen-im-besten-fall-ungeniessbar](https://www.spiegel.de/panorama/karl-lauterbach-mit-mir-am-herd-waere-das-essen-im-besten-fall-ungeniessbar-a-13d37e2d-7966-40b9-bc34-235ac19182ad#ref=rss)
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+* [https://www.spiegel.de/panorama/weihnachten-in-rom-papst-franziskus-geisselt-krieg-machthunger-und-materialismus](https://www.spiegel.de/panorama/weihnachten-in-rom-papst-franziskus-geisselt-krieg-machthunger-und-materialismus-a-8c87bb44-63ef-4e31-a509-100b65aaafdb#ref=rss)
 ### mindestens
 
-* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-zahl-der-toten-steigt-auf-17](https://www.spiegel.de/panorama/wintersturm-in-den-usa-zahl-der-toten-steigt-auf-17-a-a5bb1c98-673f-4f6b-ac88-f8830de5495d#ref=rss)
-* [https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg](https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg-a-d688e414-00f2-4f20-8efd-09dbea32be37#ref=rss)
-### wladimir
+* [https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur](https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur-a-9c0d67da-126e-42e9-aa0b-5dc1aeccb2e3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+### china
 
-* [https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren](https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren-a-90898586-a589-4fef-8fa2-cefc13c952c4#ref=rss)
-### ukrainekrieg
+* [https://www.spiegel.de/panorama/china-18-bergleute-in-goldmine-verschuettet](https://www.spiegel.de/panorama/china-18-bergleute-in-goldmine-verschuettet-a-626e4c66-563a-4fa0-8667-843b39313011#ref=rss)
+* [https://www.spiegel.de/ausland/corona-china-stoppt-veroeffentlichung-taeglicher-zahlen](https://www.spiegel.de/ausland/corona-china-stoppt-veroeffentlichung-taeglicher-zahlen-a-59d543f4-6326-453f-a22c-aa9eb2cd3050#ref=rss)
+### heiligabend
 
-* [https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren](https://www.spiegel.de/ausland/wladimir-putin-seine-berater-sollen-den-praesidenten-unzureichend-ueber-den-ukraine-krieg-informieren-a-90898586-a589-4fef-8fa2-cefc13c952c4#ref=rss)
-* [https://www.spiegel.de/ausland/pussy-riot-video-zum-ukraine-krieg-mama-schau-kein-fernsehen](https://www.spiegel.de/ausland/pussy-riot-video-zum-ukraine-krieg-mama-schau-kein-fernsehen-a-7d0457a1-3c5c-4bca-94ee-6fd551442cec#ref=rss)
-### asylsuchende
-
-* [https://www.spiegel.de/ausland/migration-bisher-255-asylsuchende-zur-halbzeit-von-eu-mechanismus-umgesiedelt](https://www.spiegel.de/ausland/migration-bisher-255-asylsuchende-zur-halbzeit-von-eu-mechanismus-umgesiedelt-a-291706db-6786-491d-b023-b84cdd7ba44a#ref=rss)
+* [https://www.spiegel.de/panorama/china-18-bergleute-in-goldmine-verschuettet](https://www.spiegel.de/panorama/china-18-bergleute-in-goldmine-verschuettet-a-626e4c66-563a-4fa0-8667-843b39313011#ref=rss)
+* [https://www.spiegel.de/psychologie/stress-an-weihnachten-wie-man-es-schafft-nicht-in-alte-muster-zu-verfallen](https://www.spiegel.de/psychologie/stress-an-weihnachten-wie-man-es-schafft-nicht-in-alte-muster-zu-verfallen-a-fe4cb1e4-1414-4899-93d4-b8366be7e53f#ref=rss)
+* [https://www.spiegel.de/geschichte/kriegserinnerungen-und-dann-ist-dieses-leben-ploetzlich-ausgeloescht-einfach-so](https://www.spiegel.de/geschichte/kriegserinnerungen-und-dann-ist-dieses-leben-ploetzlich-ausgeloescht-einfach-so-a-e9b5a33e-f31f-4577-971f-b31b6639c8af#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/migration-bisher-255-asylsuchende-zur-halbzeit-von-eu-mechanismus-umgesiedelt](https://www.spiegel.de/ausland/migration-bisher-255-asylsuchende-zur-halbzeit-von-eu-mechanismus-umgesiedelt-a-291706db-6786-491d-b023-b84cdd7ba44a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten-a-7ae11761-a835-4b55-95c9-fe443edce624#ref=rss)
-### gruß
+* [https://www.spiegel.de/auto/trabi-und-wartburg-wieder-mehr-autos-ostdeutscher-fabrikate-auf-den-strassen](https://www.spiegel.de/auto/trabi-und-wartburg-wieder-mehr-autos-ostdeutscher-fabrikate-auf-den-strassen-a-69103e37-48ce-4f14-9f65-ee096a9768a7#ref=rss)
+* [https://www.spiegel.de/ausland/corona-china-stoppt-veroeffentlichung-taeglicher-zahlen](https://www.spiegel.de/ausland/corona-china-stoppt-veroeffentlichung-taeglicher-zahlen-a-59d543f4-6326-453f-a22c-aa9eb2cd3050#ref=rss)
+* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-fotos-aus-dem-whiteout](https://www.spiegel.de/panorama/wintersturm-in-den-usa-fotos-aus-dem-whiteout-a-0d5f4b0e-777f-4c7a-8ff2-34e155d138d9#ref=rss)
+### mann
 
-* [https://www.spiegel.de/geschichte/radiosendung-gruss-an-bord-fuer-seeleute-gemeinsam-einsam](https://www.spiegel.de/geschichte/radiosendung-gruss-an-bord-fuer-seeleute-gemeinsam-einsam-a-a1cecdba-2edc-4dc1-859d-98a1a21045dd#ref=rss)
-### bord
+* [https://www.spiegel.de/sport/fussball/lionel-messi-anwalt-aus-oman-bietet-eine-million-dollar-fuer-wm-gewand](https://www.spiegel.de/sport/fussball/lionel-messi-anwalt-aus-oman-bietet-eine-million-dollar-fuer-wm-gewand-a-5e7a0929-f76d-4494-8a29-b6b7442427b3#ref=rss)
+* [https://www.spiegel.de/psychologie/stress-an-weihnachten-wie-man-es-schafft-nicht-in-alte-muster-zu-verfallen](https://www.spiegel.de/psychologie/stress-an-weihnachten-wie-man-es-schafft-nicht-in-alte-muster-zu-verfallen-a-fe4cb1e4-1414-4899-93d4-b8366be7e53f#ref=rss)
+* [https://www.spiegel.de/panorama/leute/meghan-harry-und-die-jeremy-clarkson-kolumne-sussexes-akzeptieren-entschuldigung-der-sun-nicht](https://www.spiegel.de/panorama/leute/meghan-harry-und-die-jeremy-clarkson-kolumne-sussexes-akzeptieren-entschuldigung-der-sun-nicht-a-8d3014d2-a19d-4747-9017-a0693a7b94fa#ref=rss)
+### täter
 
-* [https://www.spiegel.de/geschichte/radiosendung-gruss-an-bord-fuer-seeleute-gemeinsam-einsam](https://www.spiegel.de/geschichte/radiosendung-gruss-an-bord-fuer-seeleute-gemeinsam-einsam-a-a1cecdba-2edc-4dc1-859d-98a1a21045dd#ref=rss)
-### seeleute
+* [https://www.spiegel.de/netzwelt/barmer-jugendstudie-jugendliche-erleben-immer-haeufiger-cybermobbing](https://www.spiegel.de/netzwelt/barmer-jugendstudie-jugendliche-erleben-immer-haeufiger-cybermobbing-a-28f02619-dec7-4afb-bad6-eea321664e2e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hannover-drei-verletzte-nach-schuessen-in-tanzlokal-taeter-fluechtig](https://www.spiegel.de/panorama/justiz/hannover-drei-verletzte-nach-schuessen-in-tanzlokal-taeter-fluechtig-a-b6c7e1d7-313a-4729-9353-008b48d865e9#ref=rss)
+* [https://www.spiegel.de/ausland/paris-angriff-auf-kurdenzentrum-mutmasslicher-taeter-kommt-in-psychiatrie](https://www.spiegel.de/ausland/paris-angriff-auf-kurdenzentrum-mutmasslicher-taeter-kommt-in-psychiatrie-a-bbc782c7-1678-4724-bb4a-55aa23f752d9#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/geschichte/radiosendung-gruss-an-bord-fuer-seeleute-gemeinsam-einsam](https://www.spiegel.de/geschichte/radiosendung-gruss-an-bord-fuer-seeleute-gemeinsam-einsam-a-a1cecdba-2edc-4dc1-859d-98a1a21045dd#ref=rss)
-### schmidt
+* [https://www.spiegel.de/ausland/afghanistan-arbeitsverbot-fuer-frauen-koennte-verheerend-fuer-die-afghanische-bevoelkerung-sein](https://www.spiegel.de/ausland/afghanistan-arbeitsverbot-fuer-frauen-koennte-verheerend-fuer-die-afghanische-bevoelkerung-sein-a-50d4aac9-01b3-48f6-965f-0c7780460998#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/panorama/leute/brocken-benno-schmidt-rekord-wanderer-ist-tot](https://www.spiegel.de/panorama/leute/brocken-benno-schmidt-rekord-wanderer-ist-tot-a-8d8b1815-bf17-46e0-9a78-763724bb6f82#ref=rss)
-### einsamkeit
+* [https://www.spiegel.de/ausland/afghanistan-arbeitsverbot-fuer-frauen-koennte-verheerend-fuer-die-afghanische-bevoelkerung-sein](https://www.spiegel.de/ausland/afghanistan-arbeitsverbot-fuer-frauen-koennte-verheerend-fuer-die-afghanische-bevoelkerung-sein-a-50d4aac9-01b3-48f6-965f-0c7780460998#ref=rss)
+### letzten
 
-* [https://www.spiegel.de/gesundheit/einsamkeit-in-deutschland-groesste-volkskrankheit-mahnt-patientenschuetzer](https://www.spiegel.de/gesundheit/einsamkeit-in-deutschland-groesste-volkskrankheit-mahnt-patientenschuetzer-a-2336dbd5-c8a6-4b6e-a73c-bafacdfd6bc5#ref=rss)
-### flughafen
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-weihnachten-1942-stille-nacht-in-stalingrad](https://www.spiegel.de/geschichte/zweiter-weltkrieg-weihnachten-1942-stille-nacht-in-stalingrad-a-782c317e-8b38-473f-a126-84c25a80bcc4#ref=rss)
+* [https://www.spiegel.de/panorama/letzte-generation-aktivisten-scheitern-mit-stoerversuch-bei-tv-weihnachtsgottesdienst](https://www.spiegel.de/panorama/letzte-generation-aktivisten-scheitern-mit-stoerversuch-bei-tv-weihnachtsgottesdienst-a-5f6e2282-bef7-462b-9786-81022d06e4d3#ref=rss)
+### minus
 
-* [https://www.spiegel.de/reise/deutschland/weihnachten-am-flughafen-wenn-menschen-sich-endlich-wiedersehen](https://www.spiegel.de/reise/deutschland/weihnachten-am-flughafen-wenn-menschen-sich-endlich-wiedersehen-a-e9e294a6-3881-4456-8412-7a05802c0173#ref=rss)
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-weihnachten-1942-stille-nacht-in-stalingrad](https://www.spiegel.de/geschichte/zweiter-weltkrieg-weihnachten-1942-stille-nacht-in-stalingrad-a-782c317e-8b38-473f-a126-84c25a80bcc4#ref=rss)
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+### grad
+
+* [https://www.spiegel.de/geschichte/zweiter-weltkrieg-weihnachten-1942-stille-nacht-in-stalingrad](https://www.spiegel.de/geschichte/zweiter-weltkrieg-weihnachten-1942-stille-nacht-in-stalingrad-a-782c317e-8b38-473f-a126-84c25a80bcc4#ref=rss)
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+### wm
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor](https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor-a-9b4a9ecc-2114-4649-a088-cdcd4aca2ae7#ref=rss)
+### toni
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor](https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor-a-9b4a9ecc-2114-4649-a088-cdcd4aca2ae7#ref=rss)
+### kroos
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor](https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor-a-9b4a9ecc-2114-4649-a088-cdcd4aca2ae7#ref=rss)
+### nimmt
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor](https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor-a-9b4a9ecc-2114-4649-a088-cdcd4aca2ae7#ref=rss)
+### verwechslung
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor](https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor-a-9b4a9ecc-2114-4649-a088-cdcd4aca2ae7#ref=rss)
+### humor
+
+* [https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor](https://www.spiegel.de/sport/fussball/wm-2022-toni-kroos-wird-fuer-wm-aus-beschuldigt-nimmt-die-verwechslung-aber-mit-humor-a-9b4a9ecc-2114-4649-a088-cdcd4aca2ae7#ref=rss)
+### russlandukrainekrieg
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-news-am-sonntag-luftalarm-in-der-gesamten-ukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-news-am-sonntag-luftalarm-in-der-gesamten-ukraine-a-48931356-69ae-466f-bf8d-4f3e40e15ce8#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-alexander-buzakov-generaldirektor-von-wichtiger-russischer-werft-ploetzlich-verstorben](https://www.spiegel.de/ausland/russland-ukraine-krieg-alexander-buzakov-generaldirektor-von-wichtiger-russischer-werft-ploetzlich-verstorben-a-74acab66-26e9-4993-a83f-999fa428b94b#ref=rss)
+### news
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-news-am-sonntag-luftalarm-in-der-gesamten-ukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-news-am-sonntag-luftalarm-in-der-gesamten-ukraine-a-48931356-69ae-466f-bf8d-4f3e40e15ce8#ref=rss)
+### cherson
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-news-am-sonntag-luftalarm-in-der-gesamten-ukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-news-am-sonntag-luftalarm-in-der-gesamten-ukraine-a-48931356-69ae-466f-bf8d-4f3e40e15ce8#ref=rss)
+### angriffe
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-news-am-sonntag-luftalarm-in-der-gesamten-ukraine](https://www.spiegel.de/ausland/russland-ukraine-krieg-news-am-sonntag-luftalarm-in-der-gesamten-ukraine-a-48931356-69ae-466f-bf8d-4f3e40e15ce8#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-weihnachtsansprache-wir-werden-nicht-auf-ein-wunder-warten-wir-schaffen-es-selbst](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-weihnachtsansprache-wir-werden-nicht-auf-ein-wunder-warten-wir-schaffen-es-selbst-a-0f285068-3a3c-4f12-bb49-f3a988967b5c#ref=rss)
+### karl
+
+* [https://www.spiegel.de/panorama/karl-lauterbach-mit-mir-am-herd-waere-das-essen-im-besten-fall-ungeniessbar](https://www.spiegel.de/panorama/karl-lauterbach-mit-mir-am-herd-waere-das-essen-im-besten-fall-ungeniessbar-a-13d37e2d-7966-40b9-bc34-235ac19182ad#ref=rss)
+* [https://www.spiegel.de/karriere/hund-jagt-modelleisenbahn-raetsel-der-woche](https://www.spiegel.de/karriere/hund-jagt-modelleisenbahn-raetsel-der-woche-a-5743c3e5-1d62-4091-9763-00512c4f5e49#ref=rss)
+### essen
+
+* [https://www.spiegel.de/panorama/karl-lauterbach-mit-mir-am-herd-waere-das-essen-im-besten-fall-ungeniessbar](https://www.spiegel.de/panorama/karl-lauterbach-mit-mir-am-herd-waere-das-essen-im-besten-fall-ungeniessbar-a-13d37e2d-7966-40b9-bc34-235ac19182ad#ref=rss)
+### wir
+
+* [https://www.spiegel.de/familie/spiegel-familiennewsletter-fuerchtet-euch-nicht](https://www.spiegel.de/familie/spiegel-familiennewsletter-fuerchtet-euch-nicht-a-5a55cd01-4de6-4d85-87a7-0c857e172eeb#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-weihnachtsansprache-wir-werden-nicht-auf-ein-wunder-warten-wir-schaffen-es-selbst](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-weihnachtsansprache-wir-werden-nicht-auf-ein-wunder-warten-wir-schaffen-es-selbst-a-0f285068-3a3c-4f12-bb49-f3a988967b5c#ref=rss)
+### plötzlich
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-alexander-buzakov-generaldirektor-von-wichtiger-russischer-werft-ploetzlich-verstorben](https://www.spiegel.de/ausland/russland-ukraine-krieg-alexander-buzakov-generaldirektor-von-wichtiger-russischer-werft-ploetzlich-verstorben-a-74acab66-26e9-4993-a83f-999fa428b94b#ref=rss)
+* [https://www.spiegel.de/geschichte/kriegserinnerungen-und-dann-ist-dieses-leben-ploetzlich-ausgeloescht-einfach-so](https://www.spiegel.de/geschichte/kriegserinnerungen-und-dann-ist-dieses-leben-ploetzlich-ausgeloescht-einfach-so-a-e9b5a33e-f31f-4577-971f-b31b6639c8af#ref=rss)
+### unter
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-alexander-buzakov-generaldirektor-von-wichtiger-russischer-werft-ploetzlich-verstorben](https://www.spiegel.de/ausland/russland-ukraine-krieg-alexander-buzakov-generaldirektor-von-wichtiger-russischer-werft-ploetzlich-verstorben-a-74acab66-26e9-4993-a83f-999fa428b94b#ref=rss)
+* [https://www.spiegel.de/kultur/unwort-des-jahres-2022-diese-begriffe-kommen-in-die-engere-auswahl](https://www.spiegel.de/kultur/unwort-des-jahres-2022-diese-begriffe-kommen-in-die-engere-auswahl-a-a23a47cd-0f5e-4aa2-8280-091479ef817b#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-alexander-buzakov-generaldirektor-von-wichtiger-russischer-werft-ploetzlich-verstorben](https://www.spiegel.de/ausland/russland-ukraine-krieg-alexander-buzakov-generaldirektor-von-wichtiger-russischer-werft-ploetzlich-verstorben-a-74acab66-26e9-4993-a83f-999fa428b94b#ref=rss)
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-weihnachtsansprache-wir-werden-nicht-auf-ein-wunder-warten-wir-schaffen-es-selbst](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-weihnachtsansprache-wir-werden-nicht-auf-ein-wunder-warten-wir-schaffen-es-selbst-a-0f285068-3a3c-4f12-bb49-f3a988967b5c#ref=rss)
+### 31
+
+* [https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur](https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur-a-9c0d67da-126e-42e9-aa0b-5dc1aeccb2e3#ref=rss)
 ### tote
 
-* [https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg](https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg-a-d688e414-00f2-4f20-8efd-09dbea32be37#ref=rss)
-* [https://www.spiegel.de/panorama/sibirien-20-menschen-sterben-bei-brand-in-russischem-pflegeheim](https://www.spiegel.de/panorama/sibirien-20-menschen-sterben-bei-brand-in-russischem-pflegeheim-a-f1e74e44-d8e2-455e-8a4c-cc5d20a61b31#ref=rss)
-### verletzte
+* [https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur](https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur-a-9c0d67da-126e-42e9-aa0b-5dc1aeccb2e3#ref=rss)
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+### erdrutsch
 
-* [https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg](https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg-a-d688e414-00f2-4f20-8efd-09dbea32be37#ref=rss)
-* [https://www.spiegel.de/panorama/sibirien-20-menschen-sterben-bei-brand-in-russischem-pflegeheim](https://www.spiegel.de/panorama/sibirien-20-menschen-sterben-bei-brand-in-russischem-pflegeheim-a-f1e74e44-d8e2-455e-8a4c-cc5d20a61b31#ref=rss)
-### nahe
+* [https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur](https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur-a-9c0d67da-126e-42e9-aa0b-5dc1aeccb2e3#ref=rss)
+### kuala
 
-* [https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg](https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg-a-d688e414-00f2-4f20-8efd-09dbea32be37#ref=rss)
-### johannesburg
+* [https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur](https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur-a-9c0d67da-126e-42e9-aa0b-5dc1aeccb2e3#ref=rss)
+### lumpur
 
-* [https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg](https://www.spiegel.de/panorama/suedafrika-tote-und-verletzte-bei-tankwagen-explosion-nahe-johannesburg-a-d688e414-00f2-4f20-8efd-09dbea32be37#ref=rss)
-### grippewelle
+* [https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur](https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur-a-9c0d67da-126e-42e9-aa0b-5dc1aeccb2e3#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten](https://www.spiegel.de/wirtschaft/grippewelle-koennte-volkswirtschaft-laut-ifw-prognose-mehr-als-40-milliarden-euro-kosten-a-7ae11761-a835-4b55-95c9-fe443edce624#ref=rss)
-### hausgeburt
+* [https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur](https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur-a-9c0d67da-126e-42e9-aa0b-5dc1aeccb2e3#ref=rss)
+* [https://www.spiegel.de/panorama/weihnachten-in-rom-papst-franziskus-geisselt-krieg-machthunger-und-materialismus](https://www.spiegel.de/panorama/weihnachten-in-rom-papst-franziskus-geisselt-krieg-machthunger-und-materialismus-a-8c87bb44-63ef-4e31-a509-100b65aaafdb#ref=rss)
+### leben
 
-* [https://www.spiegel.de/familie/hausgeburt-erfahrungsbericht-was-man-braucht-wie-es-ablaeuft](https://www.spiegel.de/familie/hausgeburt-erfahrungsbericht-was-man-braucht-wie-es-ablaeuft-a-a84d2e3e-9589-4a94-9cac-32abaf2fe97c#ref=rss)
-### pelé
+* [https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur](https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur-a-9c0d67da-126e-42e9-aa0b-5dc1aeccb2e3#ref=rss)
+* [https://www.spiegel.de/geschichte/kriegserinnerungen-und-dann-ist-dieses-leben-ploetzlich-ausgeloescht-einfach-so](https://www.spiegel.de/geschichte/kriegserinnerungen-und-dann-ist-dieses-leben-ploetzlich-ausgeloescht-einfach-so-a-e9b5a33e-f31f-4577-971f-b31b6639c8af#ref=rss)
+### gekommen
 
-* [https://www.spiegel.de/sport/fussball/pele-tochter-postet-bei-instagram-noch-eine-nacht-zusammen](https://www.spiegel.de/sport/fussball/pele-tochter-postet-bei-instagram-noch-eine-nacht-zusammen-a-8a6476ba-a663-40da-806c-cb7cd10a04d3#ref=rss)
-### tochter
+* [https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur](https://www.spiegel.de/panorama/malaysia-mindestens-31-tote-nach-erdrutsch-in-kuala-lumpur-a-9c0d67da-126e-42e9-aa0b-5dc1aeccb2e3#ref=rss)
+* [https://www.spiegel.de/ausland/paris-angriff-auf-kurdenzentrum-mutmasslicher-taeter-kommt-in-psychiatrie](https://www.spiegel.de/ausland/paris-angriff-auf-kurdenzentrum-mutmasslicher-taeter-kommt-in-psychiatrie-a-bbc782c7-1678-4724-bb4a-55aa23f752d9#ref=rss)
+### 18
 
-* [https://www.spiegel.de/sport/fussball/pele-tochter-postet-bei-instagram-noch-eine-nacht-zusammen](https://www.spiegel.de/sport/fussball/pele-tochter-postet-bei-instagram-noch-eine-nacht-zusammen-a-8a6476ba-a663-40da-806c-cb7cd10a04d3#ref=rss)
-### schweden
+* [https://www.spiegel.de/panorama/china-18-bergleute-in-goldmine-verschuettet](https://www.spiegel.de/panorama/china-18-bergleute-in-goldmine-verschuettet-a-626e4c66-563a-4fa0-8667-843b39313011#ref=rss)
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+### westen
 
-* [https://www.spiegel.de/ausland/sozialsupermaerkte-in-schweden-armut-ist-ein-tabu](https://www.spiegel.de/ausland/sozialsupermaerkte-in-schweden-armut-ist-ein-tabu-a-74bef431-4feb-497a-a4ec-1beb34814f8e#ref=rss)
-### angriff
+* [https://www.spiegel.de/panorama/china-18-bergleute-in-goldmine-verschuettet](https://www.spiegel.de/panorama/china-18-bergleute-in-goldmine-verschuettet-a-626e4c66-563a-4fa0-8667-843b39313011#ref=rss)
+* [https://www.spiegel.de/sport/fussball/lionel-messi-anwalt-aus-oman-bietet-eine-million-dollar-fuer-wm-gewand](https://www.spiegel.de/sport/fussball/lionel-messi-anwalt-aus-oman-bietet-eine-million-dollar-fuer-wm-gewand-a-5e7a0929-f76d-4494-8a29-b6b7442427b3#ref=rss)
+### kam
 
-* [https://www.spiegel.de/ausland/ukraine-news-russland-mangelt-es-laut-geheimdienstbericht-an-munition-und-raketen](https://www.spiegel.de/ausland/ukraine-news-russland-mangelt-es-laut-geheimdienstbericht-an-munition-und-raketen-a-4a08a978-c5f9-4c61-a1e3-bbf4116a5ae9#ref=rss)
-### belarus
+* [https://www.spiegel.de/panorama/china-18-bergleute-in-goldmine-verschuettet](https://www.spiegel.de/panorama/china-18-bergleute-in-goldmine-verschuettet-a-626e4c66-563a-4fa0-8667-843b39313011#ref=rss)
+* [https://www.spiegel.de/panorama/letzte-generation-aktivisten-scheitern-mit-stoerversuch-bei-tv-weihnachtsgottesdienst](https://www.spiegel.de/panorama/letzte-generation-aktivisten-scheitern-mit-stoerversuch-bei-tv-weihnachtsgottesdienst-a-5f6e2282-bef7-462b-9786-81022d06e4d3#ref=rss)
+### jesus
 
-* [https://www.spiegel.de/ausland/ukraine-news-russland-mangelt-es-laut-geheimdienstbericht-an-munition-und-raketen](https://www.spiegel.de/ausland/ukraine-news-russland-mangelt-es-laut-geheimdienstbericht-an-munition-und-raketen-a-4a08a978-c5f9-4c61-a1e3-bbf4116a5ae9#ref=rss)
-### 20
+* [https://www.spiegel.de/ausland/jesus-maria-und-die-weihnachtsgeschichte-aus-feministischer-sicht-gott-ist-queer](https://www.spiegel.de/ausland/jesus-maria-und-die-weihnachtsgeschichte-aus-feministischer-sicht-gott-ist-queer-a-4ff82b5a-88ed-414e-832b-2ac2375443ce#ref=rss)
+### maria
 
-* [https://www.spiegel.de/panorama/sibirien-20-menschen-sterben-bei-brand-in-russischem-pflegeheim](https://www.spiegel.de/panorama/sibirien-20-menschen-sterben-bei-brand-in-russischem-pflegeheim-a-f1e74e44-d8e2-455e-8a4c-cc5d20a61b31#ref=rss)
+* [https://www.spiegel.de/ausland/jesus-maria-und-die-weihnachtsgeschichte-aus-feministischer-sicht-gott-ist-queer](https://www.spiegel.de/ausland/jesus-maria-und-die-weihnachtsgeschichte-aus-feministischer-sicht-gott-ist-queer-a-4ff82b5a-88ed-414e-832b-2ac2375443ce#ref=rss)
+### lionel
+
+* [https://www.spiegel.de/sport/fussball/lionel-messi-anwalt-aus-oman-bietet-eine-million-dollar-fuer-wm-gewand](https://www.spiegel.de/sport/fussball/lionel-messi-anwalt-aus-oman-bietet-eine-million-dollar-fuer-wm-gewand-a-5e7a0929-f76d-4494-8a29-b6b7442427b3#ref=rss)
+### messi
+
+* [https://www.spiegel.de/sport/fussball/lionel-messi-anwalt-aus-oman-bietet-eine-million-dollar-fuer-wm-gewand](https://www.spiegel.de/sport/fussball/lionel-messi-anwalt-aus-oman-bietet-eine-million-dollar-fuer-wm-gewand-a-5e7a0929-f76d-4494-8a29-b6b7442427b3#ref=rss)
+### oman
+
+* [https://www.spiegel.de/sport/fussball/lionel-messi-anwalt-aus-oman-bietet-eine-million-dollar-fuer-wm-gewand](https://www.spiegel.de/sport/fussball/lionel-messi-anwalt-aus-oman-bietet-eine-million-dollar-fuer-wm-gewand-a-5e7a0929-f76d-4494-8a29-b6b7442427b3#ref=rss)
+### generation
+
+* [https://www.spiegel.de/panorama/letzte-generation-aktivisten-scheitern-mit-stoerversuch-bei-tv-weihnachtsgottesdienst](https://www.spiegel.de/panorama/letzte-generation-aktivisten-scheitern-mit-stoerversuch-bei-tv-weihnachtsgottesdienst-a-5f6e2282-bef7-462b-9786-81022d06e4d3#ref=rss)
+### cybermobbing
+
+* [https://www.spiegel.de/netzwelt/barmer-jugendstudie-jugendliche-erleben-immer-haeufiger-cybermobbing](https://www.spiegel.de/netzwelt/barmer-jugendstudie-jugendliche-erleben-immer-haeufiger-cybermobbing-a-28f02619-dec7-4afb-bad6-eea321664e2e#ref=rss)
+### jugendliche
+
+* [https://www.spiegel.de/netzwelt/barmer-jugendstudie-jugendliche-erleben-immer-haeufiger-cybermobbing](https://www.spiegel.de/netzwelt/barmer-jugendstudie-jugendliche-erleben-immer-haeufiger-cybermobbing-a-28f02619-dec7-4afb-bad6-eea321664e2e#ref=rss)
+### infektionszahlen
+
+* [https://www.spiegel.de/ausland/corona-china-stoppt-veroeffentlichung-taeglicher-zahlen](https://www.spiegel.de/ausland/corona-china-stoppt-veroeffentlichung-taeglicher-zahlen-a-59d543f4-6326-453f-a22c-aa9eb2cd3050#ref=rss)
+### wintersturm
+
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+* [https://www.spiegel.de/panorama/wintersturm-in-den-usa-fotos-aus-dem-whiteout](https://www.spiegel.de/panorama/wintersturm-in-den-usa-fotos-aus-dem-whiteout-a-0d5f4b0e-777f-4c7a-8ff2-34e155d138d9#ref=rss)
+### new
+
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+### york
+
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+### nationalgarde
+
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+### rund
+
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+* [https://www.spiegel.de/kultur/unwort-des-jahres-2022-diese-begriffe-kommen-in-die-engere-auswahl](https://www.spiegel.de/kultur/unwort-des-jahres-2022-diese-begriffe-kommen-in-die-engere-auswahl-a-a23a47cd-0f5e-4aa2-8280-091479ef817b#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo](https://www.spiegel.de/ausland/usa-schneesturm-elliott-new-york-entsendet-nationalgarde-nach-buffalo-a-d4217bb0-c4b4-4208-b2e1-3d915f70cdcb#ref=rss)
+* [https://www.spiegel.de/panorama/weihnachten-in-rom-papst-franziskus-geisselt-krieg-machthunger-und-materialismus](https://www.spiegel.de/panorama/weihnachten-in-rom-papst-franziskus-geisselt-krieg-machthunger-und-materialismus-a-8c87bb44-63ef-4e31-a509-100b65aaafdb#ref=rss)
+### unwort
+
+* [https://www.spiegel.de/kultur/unwort-des-jahres-2022-diese-begriffe-kommen-in-die-engere-auswahl](https://www.spiegel.de/kultur/unwort-des-jahres-2022-diese-begriffe-kommen-in-die-engere-auswahl-a-a23a47cd-0f5e-4aa2-8280-091479ef817b#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/kultur/unwort-des-jahres-2022-diese-begriffe-kommen-in-die-engere-auswahl](https://www.spiegel.de/kultur/unwort-des-jahres-2022-diese-begriffe-kommen-in-die-engere-auswahl-a-a23a47cd-0f5e-4aa2-8280-091479ef817b#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/kultur/unwort-des-jahres-2022-diese-begriffe-kommen-in-die-engere-auswahl](https://www.spiegel.de/kultur/unwort-des-jahres-2022-diese-begriffe-kommen-in-die-engere-auswahl-a-a23a47cd-0f5e-4aa2-8280-091479ef817b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-maler-wladimir-owtschinnikow-und-seine-friedensbotschaften-auf-haeuserwaenden-in-borowsk](https://www.spiegel.de/ausland/ukraine-maler-wladimir-owtschinnikow-und-seine-friedensbotschaften-auf-haeuserwaenden-in-borowsk-a-0fc40a5a-24d6-4cfc-9341-b589ae117b69#ref=rss)
+### jewgeni
+
+* [https://www.spiegel.de/ausland/jewgeni-prigoschin-das-ist-russlands-furchterregendste-figur-2022-kolumne](https://www.spiegel.de/ausland/jewgeni-prigoschin-das-ist-russlands-furchterregendste-figur-2022-kolumne-a-7bd45571-5504-4321-ace8-70b0fca31235#ref=rss)
+### prigoschin
+
+* [https://www.spiegel.de/ausland/jewgeni-prigoschin-das-ist-russlands-furchterregendste-figur-2022-kolumne](https://www.spiegel.de/ausland/jewgeni-prigoschin-das-ist-russlands-furchterregendste-figur-2022-kolumne-a-7bd45571-5504-4321-ace8-70b0fca31235#ref=rss)
+### kolumne
+
+* [https://www.spiegel.de/ausland/jewgeni-prigoschin-das-ist-russlands-furchterregendste-figur-2022-kolumne](https://www.spiegel.de/ausland/jewgeni-prigoschin-das-ist-russlands-furchterregendste-figur-2022-kolumne-a-7bd45571-5504-4321-ace8-70b0fca31235#ref=rss)
+* [https://www.spiegel.de/panorama/leute/meghan-harry-und-die-jeremy-clarkson-kolumne-sussexes-akzeptieren-entschuldigung-der-sun-nicht](https://www.spiegel.de/panorama/leute/meghan-harry-und-die-jeremy-clarkson-kolumne-sussexes-akzeptieren-entschuldigung-der-sun-nicht-a-8d3014d2-a19d-4747-9017-a0693a7b94fa#ref=rss)
+### hund
+
+* [https://www.spiegel.de/karriere/hund-jagt-modelleisenbahn-raetsel-der-woche](https://www.spiegel.de/karriere/hund-jagt-modelleisenbahn-raetsel-der-woche-a-5743c3e5-1d62-4091-9763-00512c4f5e49#ref=rss)
+### modelleisenbahn
+
+* [https://www.spiegel.de/karriere/hund-jagt-modelleisenbahn-raetsel-der-woche](https://www.spiegel.de/karriere/hund-jagt-modelleisenbahn-raetsel-der-woche-a-5743c3e5-1d62-4091-9763-00512c4f5e49#ref=rss)
+### lisa
+
+* [https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16](https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16-a-47bc1a6d-31b3-4ade-8c77-2af37431327f#ref=rss)
+### paus
+
+* [https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16](https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16-a-47bc1a6d-31b3-4ade-8c77-2af37431327f#ref=rss)
+### grüne
+
+* [https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16](https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16-a-47bc1a6d-31b3-4ade-8c77-2af37431327f#ref=rss)
+### familienministerin
+
+* [https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16](https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16-a-47bc1a6d-31b3-4ade-8c77-2af37431327f#ref=rss)
+### junge
+
+* [https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16](https://www.spiegel.de/politik/deutschland/lisa-paus-gruene-familienministerin-fuer-wahlrecht-ab-16-a-47bc1a6d-31b3-4ade-8c77-2af37431327f#ref=rss)
+* [https://www.spiegel.de/geschichte/kriegserinnerungen-und-dann-ist-dieses-leben-ploetzlich-ausgeloescht-einfach-so](https://www.spiegel.de/geschichte/kriegserinnerungen-und-dann-ist-dieses-leben-ploetzlich-ausgeloescht-einfach-so-a-e9b5a33e-f31f-4577-971f-b31b6639c8af#ref=rss)
+### hannover
+
+* [https://www.spiegel.de/panorama/justiz/hannover-drei-verletzte-nach-schuessen-in-tanzlokal-taeter-fluechtig](https://www.spiegel.de/panorama/justiz/hannover-drei-verletzte-nach-schuessen-in-tanzlokal-taeter-fluechtig-a-b6c7e1d7-313a-4729-9353-008b48d865e9#ref=rss)
+### schüssen
+
+* [https://www.spiegel.de/panorama/justiz/hannover-drei-verletzte-nach-schuessen-in-tanzlokal-taeter-fluechtig](https://www.spiegel.de/panorama/justiz/hannover-drei-verletzte-nach-schuessen-in-tanzlokal-taeter-fluechtig-a-b6c7e1d7-313a-4729-9353-008b48d865e9#ref=rss)
+* [https://www.spiegel.de/ausland/paris-angriff-auf-kurdenzentrum-mutmasslicher-taeter-kommt-in-psychiatrie](https://www.spiegel.de/ausland/paris-angriff-auf-kurdenzentrum-mutmasslicher-taeter-kommt-in-psychiatrie-a-bbc782c7-1678-4724-bb4a-55aa23f752d9#ref=rss)
+### tanzlokal
+
+* [https://www.spiegel.de/panorama/justiz/hannover-drei-verletzte-nach-schuessen-in-tanzlokal-taeter-fluechtig](https://www.spiegel.de/panorama/justiz/hannover-drei-verletzte-nach-schuessen-in-tanzlokal-taeter-fluechtig-a-b6c7e1d7-313a-4729-9353-008b48d865e9#ref=rss)
+### wladimir
+
+* [https://www.spiegel.de/ausland/ukraine-maler-wladimir-owtschinnikow-und-seine-friedensbotschaften-auf-haeuserwaenden-in-borowsk](https://www.spiegel.de/ausland/ukraine-maler-wladimir-owtschinnikow-und-seine-friedensbotschaften-auf-haeuserwaenden-in-borowsk-a-0fc40a5a-24d6-4cfc-9341-b589ae117b69#ref=rss)
+### owtschinnikow
+
+* [https://www.spiegel.de/ausland/ukraine-maler-wladimir-owtschinnikow-und-seine-friedensbotschaften-auf-haeuserwaenden-in-borowsk](https://www.spiegel.de/ausland/ukraine-maler-wladimir-owtschinnikow-und-seine-friedensbotschaften-auf-haeuserwaenden-in-borowsk-a-0fc40a5a-24d6-4cfc-9341-b589ae117b69#ref=rss)
+### borowsk
+
+* [https://www.spiegel.de/ausland/ukraine-maler-wladimir-owtschinnikow-und-seine-friedensbotschaften-auf-haeuserwaenden-in-borowsk](https://www.spiegel.de/ausland/ukraine-maler-wladimir-owtschinnikow-und-seine-friedensbotschaften-auf-haeuserwaenden-in-borowsk-a-0fc40a5a-24d6-4cfc-9341-b589ae117b69#ref=rss)
+### kari
+
+* [https://www.spiegel.de/ausland/kari-lake-gericht-weist-klage-gegen-niederlage-bei-gouverneurswahl-ab](https://www.spiegel.de/ausland/kari-lake-gericht-weist-klage-gegen-niederlage-bei-gouverneurswahl-ab-a-df49a6ff-8605-4d93-8053-25ec0330f6dd#ref=rss)
+### lake
+
+* [https://www.spiegel.de/ausland/kari-lake-gericht-weist-klage-gegen-niederlage-bei-gouverneurswahl-ab](https://www.spiegel.de/ausland/kari-lake-gericht-weist-klage-gegen-niederlage-bei-gouverneurswahl-ab-a-df49a6ff-8605-4d93-8053-25ec0330f6dd#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/ausland/kari-lake-gericht-weist-klage-gegen-niederlage-bei-gouverneurswahl-ab](https://www.spiegel.de/ausland/kari-lake-gericht-weist-klage-gegen-niederlage-bei-gouverneurswahl-ab-a-df49a6ff-8605-4d93-8053-25ec0330f6dd#ref=rss)
+### niederlage
+
+* [https://www.spiegel.de/ausland/kari-lake-gericht-weist-klage-gegen-niederlage-bei-gouverneurswahl-ab](https://www.spiegel.de/ausland/kari-lake-gericht-weist-klage-gegen-niederlage-bei-gouverneurswahl-ab-a-df49a6ff-8605-4d93-8053-25ec0330f6dd#ref=rss)
+### paris
+
+* [https://www.spiegel.de/ausland/paris-angriff-auf-kurdenzentrum-mutmasslicher-taeter-kommt-in-psychiatrie](https://www.spiegel.de/ausland/paris-angriff-auf-kurdenzentrum-mutmasslicher-taeter-kommt-in-psychiatrie-a-bbc782c7-1678-4724-bb4a-55aa23f752d9#ref=rss)
+### papst
+
+* [https://www.spiegel.de/panorama/weihnachten-in-rom-papst-franziskus-geisselt-krieg-machthunger-und-materialismus](https://www.spiegel.de/panorama/weihnachten-in-rom-papst-franziskus-geisselt-krieg-machthunger-und-materialismus-a-8c87bb44-63ef-4e31-a509-100b65aaafdb#ref=rss)
+### wolodymyr
+
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-weihnachtsansprache-wir-werden-nicht-auf-ein-wunder-warten-wir-schaffen-es-selbst](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-weihnachtsansprache-wir-werden-nicht-auf-ein-wunder-warten-wir-schaffen-es-selbst-a-0f285068-3a3c-4f12-bb49-f3a988967b5c#ref=rss)
+### selenskyj
+
+* [https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-weihnachtsansprache-wir-werden-nicht-auf-ein-wunder-warten-wir-schaffen-es-selbst](https://www.spiegel.de/ausland/wolodymyr-selenskyj-in-weihnachtsansprache-wir-werden-nicht-auf-ein-wunder-warten-wir-schaffen-es-selbst-a-0f285068-3a3c-4f12-bb49-f3a988967b5c#ref=rss)
+### meghan
+
+* [https://www.spiegel.de/panorama/leute/meghan-harry-und-die-jeremy-clarkson-kolumne-sussexes-akzeptieren-entschuldigung-der-sun-nicht](https://www.spiegel.de/panorama/leute/meghan-harry-und-die-jeremy-clarkson-kolumne-sussexes-akzeptieren-entschuldigung-der-sun-nicht-a-8d3014d2-a19d-4747-9017-a0693a7b94fa#ref=rss)
+### entschuldigung
+
+* [https://www.spiegel.de/panorama/leute/meghan-harry-und-die-jeremy-clarkson-kolumne-sussexes-akzeptieren-entschuldigung-der-sun-nicht](https://www.spiegel.de/panorama/leute/meghan-harry-und-die-jeremy-clarkson-kolumne-sussexes-akzeptieren-entschuldigung-der-sun-nicht-a-8d3014d2-a19d-4747-9017-a0693a7b94fa#ref=rss)
+### sun
+
+* [https://www.spiegel.de/panorama/leute/meghan-harry-und-die-jeremy-clarkson-kolumne-sussexes-akzeptieren-entschuldigung-der-sun-nicht](https://www.spiegel.de/panorama/leute/meghan-harry-und-die-jeremy-clarkson-kolumne-sussexes-akzeptieren-entschuldigung-der-sun-nicht-a-8d3014d2-a19d-4747-9017-a0693a7b94fa#ref=rss)
 
