@@ -4,371 +4,302 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
-
-* [https://www.spiegel.de/ausland/soziale-medien-in-china-die-neuen-hipster-omas-aus-peking](https://www.spiegel.de/ausland/soziale-medien-in-china-die-neuen-hipster-omas-aus-peking-a-97c98484-f7aa-4395-af03-b84e23e65602#ref=rss)
-* [https://www.spiegel.de/panorama/japan-17-menschen-sterben-durch-extreme-schneefaelle](https://www.spiegel.de/panorama/japan-17-menschen-sterben-durch-extreme-schneefaelle-a-6d2d2432-09cc-4d2b-8379-1ef3240a0bde#ref=rss)
-* [https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben](https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben-a-51ab20fe-6bf2-49cf-a15c-1374f1336d17#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet](https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet-a-731be514-e439-4244-8002-78fb42588d25#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit](https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit-a-c1a12649-8f4c-439a-9b90-08059cdbc8e2#ref=rss)
-* [https://www.spiegel.de/ausland/kroatien-fuehrt-den-euro-ein-und-wird-schengen-land](https://www.spiegel.de/ausland/kroatien-fuehrt-den-euro-ein-und-wird-schengen-land-a-ed2212d2-8ea7-4041-a9f0-63de776733c0#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-registriert-2022-mehr-vermisstenfaelle-als-im-vorjahr](https://www.spiegel.de/panorama/polizei-registriert-2022-mehr-vermisstenfaelle-als-im-vorjahr-a-6a2fdab4-431e-4802-9633-63f746daa19e#ref=rss)
-### israel
-
-* [https://www.spiegel.de/ausland/israel-vor-der-naechsten-benjamin-netanyahu-regierung-eine-massiver-demokratieumbau](https://www.spiegel.de/ausland/israel-vor-der-naechsten-benjamin-netanyahu-regierung-eine-massiver-demokratieumbau-a-2c306f30-34d7-4f1d-8424-53a964a63a17#ref=rss)
-* [https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung](https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung-a-005bd54c-24a6-4119-a6f8-0143c8c86e18#ref=rss)
-* [https://www.spiegel.de/ausland/netanyahu-distanziert-sich-von-radikalen-aeusserungen-seines-sohnes](https://www.spiegel.de/ausland/netanyahu-distanziert-sich-von-radikalen-aeusserungen-seines-sohnes-a-a3d815de-7436-406b-a7d6-9c544e17bd46#ref=rss)
-* [https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu-a-e25a0b4c-c3bc-4771-9be6-7254aa4cece7#ref=rss)
-### medien
-
-* [https://www.spiegel.de/ausland/soziale-medien-in-china-die-neuen-hipster-omas-aus-peking](https://www.spiegel.de/ausland/soziale-medien-in-china-die-neuen-hipster-omas-aus-peking-a-97c98484-f7aa-4395-af03-b84e23e65602#ref=rss)
-* [https://www.spiegel.de/ausland/schuesse-nahe-nato-patrouille-serbien-schickt-armeechef-an-grenze-zum-kosovo](https://www.spiegel.de/ausland/schuesse-nahe-nato-patrouille-serbien-schickt-armeechef-an-grenze-zum-kosovo-a-40c953ce-77fe-47a8-b7bd-94482498028c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden](https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden-a-feb5d635-5439-4057-87df-f99370dfa98d#ref=rss)
 ### weihnachten
 
-* [https://www.spiegel.de/panorama/leute/william-und-kate-wie-die-royal-family-weihnachten-feiert](https://www.spiegel.de/panorama/leute/william-und-kate-wie-die-royal-family-weihnachten-feiert-a-40473359-3454-421c-a071-419e01b99940#ref=rss)
-* [https://www.spiegel.de/panorama/leute/weihnachtsfotos-von-robert-lewandowski-manuel-neuer-zlatan-ibrahimovic-bastian-schweinsteiger](https://www.spiegel.de/panorama/leute/weihnachtsfotos-von-robert-lewandowski-manuel-neuer-zlatan-ibrahimovic-bastian-schweinsteiger-a-88c06378-c19c-41e1-a2c0-f5c0b58c8ff7#ref=rss)
-* [https://www.spiegel.de/geschichte/leere-kirchen-zu-weihnachten-das-ist-ein-kultureller-erdrutsch](https://www.spiegel.de/geschichte/leere-kirchen-zu-weihnachten-das-ist-ein-kultureller-erdrutsch-a-e44f0aa6-a062-42ba-ae68-585fad0967fe#ref=rss)
-### benjamin
-
-* [https://www.spiegel.de/ausland/israel-vor-der-naechsten-benjamin-netanyahu-regierung-eine-massiver-demokratieumbau](https://www.spiegel.de/ausland/israel-vor-der-naechsten-benjamin-netanyahu-regierung-eine-massiver-demokratieumbau-a-2c306f30-34d7-4f1d-8424-53a964a63a17#ref=rss)
-* [https://www.spiegel.de/ausland/netanyahu-distanziert-sich-von-radikalen-aeusserungen-seines-sohnes](https://www.spiegel.de/ausland/netanyahu-distanziert-sich-von-radikalen-aeusserungen-seines-sohnes-a-a3d815de-7436-406b-a7d6-9c544e17bd46#ref=rss)
-* [https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu-a-e25a0b4c-c3bc-4771-9be6-7254aa4cece7#ref=rss)
-### netanyahu
-
-* [https://www.spiegel.de/ausland/israel-vor-der-naechsten-benjamin-netanyahu-regierung-eine-massiver-demokratieumbau](https://www.spiegel.de/ausland/israel-vor-der-naechsten-benjamin-netanyahu-regierung-eine-massiver-demokratieumbau-a-2c306f30-34d7-4f1d-8424-53a964a63a17#ref=rss)
-* [https://www.spiegel.de/ausland/netanyahu-distanziert-sich-von-radikalen-aeusserungen-seines-sohnes](https://www.spiegel.de/ausland/netanyahu-distanziert-sich-von-radikalen-aeusserungen-seines-sohnes-a-a3d815de-7436-406b-a7d6-9c544e17bd46#ref=rss)
-* [https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu-a-e25a0b4c-c3bc-4771-9be6-7254aa4cece7#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten](https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten-a-55a047e4-96bf-4a39-8407-27581ef5d656#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden](https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden-a-feb5d635-5439-4057-87df-f99370dfa98d#ref=rss)
-### tod
-
-* [https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten](https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten-a-55a047e4-96bf-4a39-8407-27581ef5d656#ref=rss)
-* [https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen](https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen-a-8878dc84-ea6d-4b3a-b33f-2490082219d7#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten](https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten-a-55a047e4-96bf-4a39-8407-27581ef5d656#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden](https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden-a-feb5d635-5439-4057-87df-f99370dfa98d#ref=rss)
-* [https://www.spiegel.de/ausland/kroatien-fuehrt-den-euro-ein-und-wird-schengen-land](https://www.spiegel.de/ausland/kroatien-fuehrt-den-euro-ein-und-wird-schengen-land-a-ed2212d2-8ea7-4041-a9f0-63de776733c0#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten](https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten-a-55a047e4-96bf-4a39-8407-27581ef5d656#ref=rss)
-* [https://www.spiegel.de/geschichte/leere-kirchen-zu-weihnachten-das-ist-ein-kultureller-erdrutsch](https://www.spiegel.de/geschichte/leere-kirchen-zu-weihnachten-das-ist-ein-kultureller-erdrutsch-a-e44f0aa6-a062-42ba-ae68-585fad0967fe#ref=rss)
-* [https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf](https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf-a-3fdcbe45-b9d7-466a-bee0-acd449f4b1e0#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers](https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers-a-553ee09f-4d5c-47dc-af4d-414e79d04422#ref=rss)
-* [https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf](https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf-a-3fdcbe45-b9d7-466a-bee0-acd449f4b1e0#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-registriert-2022-mehr-vermisstenfaelle-als-im-vorjahr](https://www.spiegel.de/panorama/polizei-registriert-2022-mehr-vermisstenfaelle-als-im-vorjahr-a-6a2fdab4-431e-4802-9633-63f746daa19e#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/soziale-medien-in-china-die-neuen-hipster-omas-aus-peking](https://www.spiegel.de/ausland/soziale-medien-in-china-die-neuen-hipster-omas-aus-peking-a-97c98484-f7aa-4395-af03-b84e23e65602#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aerztegewerkschaft-ruft-lauterbach-und-habeck-zum-umsteuern-auf](https://www.spiegel.de/politik/deutschland/aerztegewerkschaft-ruft-lauterbach-und-habeck-zum-umsteuern-auf-a-d10b9d40-8b55-40bd-9989-91531bc32ae8#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/soziale-medien-in-china-die-neuen-hipster-omas-aus-peking](https://www.spiegel.de/ausland/soziale-medien-in-china-die-neuen-hipster-omas-aus-peking-a-97c98484-f7aa-4395-af03-b84e23e65602#ref=rss)
-* [https://www.spiegel.de/karriere/ich-kann-mich-nicht-aufraffen-mich-zu-bewerben-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/ich-kann-mich-nicht-aufraffen-mich-zu-bewerben-tipps-von-der-karriereberaterin-a-e907b435-6d60-4b67-885c-f3a79d103293#ref=rss)
-* [https://www.spiegel.de/ausland/kroatien-fuehrt-den-euro-ein-und-wird-schengen-land](https://www.spiegel.de/ausland/kroatien-fuehrt-den-euro-ein-und-wird-schengen-land-a-ed2212d2-8ea7-4041-a9f0-63de776733c0#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-montag-putin-hat-offenbar-nicht-genug-soldaten-zur-ueberwachung-von-minenfeldern](https://www.spiegel.de/ausland/russland-ukraine-news-am-montag-putin-hat-offenbar-nicht-genug-soldaten-zur-ueberwachung-von-minenfeldern-a-1fb33984-10b6-43c5-aee9-d79654d0dc12#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/aerztegewerkschaft-ruft-lauterbach-und-habeck-zum-umsteuern-auf](https://www.spiegel.de/politik/deutschland/aerztegewerkschaft-ruft-lauterbach-und-habeck-zum-umsteuern-auf-a-d10b9d40-8b55-40bd-9989-91531bc32ae8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-will-schnelles-ende-der-maskenpflicht-im-fernverkehr](https://www.spiegel.de/politik/deutschland/markus-soeder-will-schnelles-ende-der-maskenpflicht-im-fernverkehr-a-403d13e3-10f5-4f69-9d2d-83fac8141155#ref=rss)
-### pandemie
-
-* [https://www.spiegel.de/panorama/leute/william-und-kate-wie-die-royal-family-weihnachten-feiert](https://www.spiegel.de/panorama/leute/william-und-kate-wie-die-royal-family-weihnachten-feiert-a-40473359-3454-421c-a071-419e01b99940#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet](https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet-a-731be514-e439-4244-8002-78fb42588d25#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/ausland/schuesse-nahe-nato-patrouille-serbien-schickt-armeechef-an-grenze-zum-kosovo](https://www.spiegel.de/ausland/schuesse-nahe-nato-patrouille-serbien-schickt-armeechef-an-grenze-zum-kosovo-a-40c953ce-77fe-47a8-b7bd-94482498028c#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-offenbar-erneut-tote-und-verletzte-auf-militaerflugplatz-in-suedrussland](https://www.spiegel.de/ausland/russland-ukraine-krieg-offenbar-erneut-tote-und-verletzte-auf-militaerflugplatz-in-suedrussland-a-221e5ca8-5939-4280-b405-5467551aca33#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-migrantinnen-und-migranten-in-der-naehe-des-hauses-der-us-vizepraesidentin-abgesetzt](https://www.spiegel.de/ausland/kamala-harris-migrantinnen-und-migranten-in-der-naehe-des-hauses-der-us-vizepraesidentin-abgesetzt-a-d2e457ea-f4d5-4a57-9946-c44e273a236f#ref=rss)
-### heiligabend
-
-* [https://www.spiegel.de/panorama/justiz/hannover-84-jaehrige-stirbt-nach-angriff-an-heiligabend](https://www.spiegel.de/panorama/justiz/hannover-84-jaehrige-stirbt-nach-angriff-an-heiligabend-a-29caba3e-31fe-440d-b70a-963e1d015819#ref=rss)
-* [https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf](https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf-a-3fdcbe45-b9d7-466a-bee0-acd449f4b1e0#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/hannover-84-jaehrige-stirbt-nach-angriff-an-heiligabend](https://www.spiegel.de/panorama/justiz/hannover-84-jaehrige-stirbt-nach-angriff-an-heiligabend-a-29caba3e-31fe-440d-b70a-963e1d015819#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-registriert-2022-mehr-vermisstenfaelle-als-im-vorjahr](https://www.spiegel.de/panorama/polizei-registriert-2022-mehr-vermisstenfaelle-als-im-vorjahr-a-6a2fdab4-431e-4802-9633-63f746daa19e#ref=rss)
-### mich
-
-* [https://www.spiegel.de/start/tupoka-ogette-ueber-entscheidungen-fuer-mich-war-es-ein-lernprozess-bei-mir-zu-bleiben](https://www.spiegel.de/start/tupoka-ogette-ueber-entscheidungen-fuer-mich-war-es-ein-lernprozess-bei-mir-zu-bleiben-a-e0546f1c-e143-4c6a-b31e-e24bb7b37d04#ref=rss)
-* [https://www.spiegel.de/karriere/ich-kann-mich-nicht-aufraffen-mich-zu-bewerben-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/ich-kann-mich-nicht-aufraffen-mich-zu-bewerben-tipps-von-der-karriereberaterin-a-e907b435-6d60-4b67-885c-f3a79d103293#ref=rss)
-### nächsten
-
-* [https://www.spiegel.de/ausland/israel-vor-der-naechsten-benjamin-netanyahu-regierung-eine-massiver-demokratieumbau](https://www.spiegel.de/ausland/israel-vor-der-naechsten-benjamin-netanyahu-regierung-eine-massiver-demokratieumbau-a-2c306f30-34d7-4f1d-8424-53a964a63a17#ref=rss)
-* [https://www.spiegel.de/ausland/netanyahu-distanziert-sich-von-radikalen-aeusserungen-seines-sohnes](https://www.spiegel.de/ausland/netanyahu-distanziert-sich-von-radikalen-aeusserungen-seines-sohnes-a-a3d815de-7436-406b-a7d6-9c544e17bd46#ref=rss)
-* [https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu-a-e25a0b4c-c3bc-4771-9be6-7254aa4cece7#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/israel-vor-der-naechsten-benjamin-netanyahu-regierung-eine-massiver-demokratieumbau](https://www.spiegel.de/ausland/israel-vor-der-naechsten-benjamin-netanyahu-regierung-eine-massiver-demokratieumbau-a-2c306f30-34d7-4f1d-8424-53a964a63a17#ref=rss)
-* [https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu-a-e25a0b4c-c3bc-4771-9be6-7254aa4cece7#ref=rss)
-### sterben
-
-* [https://www.spiegel.de/panorama/japan-17-menschen-sterben-durch-extreme-schneefaelle](https://www.spiegel.de/panorama/japan-17-menschen-sterben-durch-extreme-schneefaelle-a-6d2d2432-09cc-4d2b-8379-1ef3240a0bde#ref=rss)
-* [https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben](https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben-a-51ab20fe-6bf2-49cf-a15c-1374f1336d17#ref=rss)
-* [https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen](https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen-a-8878dc84-ea6d-4b3a-b33f-2490082219d7#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/panorama/japan-17-menschen-sterben-durch-extreme-schneefaelle](https://www.spiegel.de/panorama/japan-17-menschen-sterben-durch-extreme-schneefaelle-a-6d2d2432-09cc-4d2b-8379-1ef3240a0bde#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden](https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden-a-feb5d635-5439-4057-87df-f99370dfa98d#ref=rss)
-### diesem
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-offenbar-erneut-tote-und-verletzte-auf-militaerflugplatz-in-suedrussland](https://www.spiegel.de/ausland/russland-ukraine-krieg-offenbar-erneut-tote-und-verletzte-auf-militaerflugplatz-in-suedrussland-a-221e5ca8-5939-4280-b405-5467551aca33#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet](https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet-a-731be514-e439-4244-8002-78fb42588d25#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit](https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit-a-c1a12649-8f4c-439a-9b90-08059cdbc8e2#ref=rss)
-### ich
-
-* [https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf](https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf-a-3fdcbe45-b9d7-466a-bee0-acd449f4b1e0#ref=rss)
-* [https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen](https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen-a-8878dc84-ea6d-4b3a-b33f-2490082219d7#ref=rss)
-* [https://www.spiegel.de/karriere/ich-kann-mich-nicht-aufraffen-mich-zu-bewerben-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/ich-kann-mich-nicht-aufraffen-mich-zu-bewerben-tipps-von-der-karriereberaterin-a-e907b435-6d60-4b67-885c-f3a79d103293#ref=rss)
-### patientenverfügung
-
-* [https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten](https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten-a-55a047e4-96bf-4a39-8407-27581ef5d656#ref=rss)
-### beachten
-
-* [https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten](https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten-a-55a047e4-96bf-4a39-8407-27581ef5d656#ref=rss)
-### große
-
-* [https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten](https://www.spiegel.de/wirtschaft/patientenverfuegung-was-sie-beachten-sollten-a-55a047e4-96bf-4a39-8407-27581ef5d656#ref=rss)
-* [https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf](https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf-a-3fdcbe45-b9d7-466a-bee0-acd449f4b1e0#ref=rss)
-### nottingham
-
-* [https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers](https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers-a-553ee09f-4d5c-47dc-af4d-414e79d04422#ref=rss)
-### premier
-
-* [https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers](https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers-a-553ee09f-4d5c-47dc-af4d-414e79d04422#ref=rss)
-### league
-
-* [https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers](https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers-a-553ee09f-4d5c-47dc-af4d-414e79d04422#ref=rss)
-### george
-
-* [https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers](https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers-a-553ee09f-4d5c-47dc-af4d-414e79d04422#ref=rss)
-### syrianos
-
-* [https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers](https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers-a-553ee09f-4d5c-47dc-af4d-414e79d04422#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers](https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers-a-553ee09f-4d5c-47dc-af4d-414e79d04422#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit](https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit-a-c1a12649-8f4c-439a-9b90-08059cdbc8e2#ref=rss)
-### euro
-
-* [https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers](https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers-a-553ee09f-4d5c-47dc-af4d-414e79d04422#ref=rss)
-* [https://www.spiegel.de/ausland/kroatien-fuehrt-den-euro-ein-und-wird-schengen-land](https://www.spiegel.de/ausland/kroatien-fuehrt-den-euro-ein-und-wird-schengen-land-a-ed2212d2-8ea7-4041-a9f0-63de776733c0#ref=rss)
-### transfers
-
-* [https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers](https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers-a-553ee09f-4d5c-47dc-af4d-414e79d04422#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers](https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers-a-553ee09f-4d5c-47dc-af4d-414e79d04422#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-will-schnelles-ende-der-maskenpflicht-im-fernverkehr](https://www.spiegel.de/politik/deutschland/markus-soeder-will-schnelles-ende-der-maskenpflicht-im-fernverkehr-a-403d13e3-10f5-4f69-9d2d-83fac8141155#ref=rss)
-### per
-
-* [https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers](https://www.spiegel.de/sport/fussball/nottingham-forest-in-der-premier-league-george-syrianos-ueber-160-millionen-euro-fuer-transfers-a-553ee09f-4d5c-47dc-af4d-414e79d04422#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit](https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit-a-c1a12649-8f4c-439a-9b90-08059cdbc8e2#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-montag-putin-hat-offenbar-nicht-genug-soldaten-zur-ueberwachung-von-minenfeldern](https://www.spiegel.de/ausland/russland-ukraine-news-am-montag-putin-hat-offenbar-nicht-genug-soldaten-zur-ueberwachung-von-minenfeldern-a-1fb33984-10b6-43c5-aee9-d79654d0dc12#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-offenbar-erneut-tote-und-verletzte-auf-militaerflugplatz-in-suedrussland](https://www.spiegel.de/ausland/russland-ukraine-krieg-offenbar-erneut-tote-und-verletzte-auf-militaerflugplatz-in-suedrussland-a-221e5ca8-5939-4280-b405-5467551aca33#ref=rss)
-### william
-
-* [https://www.spiegel.de/panorama/leute/william-und-kate-wie-die-royal-family-weihnachten-feiert](https://www.spiegel.de/panorama/leute/william-und-kate-wie-die-royal-family-weihnachten-feiert-a-40473359-3454-421c-a071-419e01b99940#ref=rss)
-### alles
-
-* [https://www.spiegel.de/panorama/leute/william-und-kate-wie-die-royal-family-weihnachten-feiert](https://www.spiegel.de/panorama/leute/william-und-kate-wie-die-royal-family-weihnachten-feiert-a-40473359-3454-421c-a071-419e01b99940#ref=rss)
-* [https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben](https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben-a-51ab20fe-6bf2-49cf-a15c-1374f1336d17#ref=rss)
-### robert
-
-* [https://www.spiegel.de/politik/deutschland/aerztegewerkschaft-ruft-lauterbach-und-habeck-zum-umsteuern-auf](https://www.spiegel.de/politik/deutschland/aerztegewerkschaft-ruft-lauterbach-und-habeck-zum-umsteuern-auf-a-d10b9d40-8b55-40bd-9989-91531bc32ae8#ref=rss)
-* [https://www.spiegel.de/panorama/leute/weihnachtsfotos-von-robert-lewandowski-manuel-neuer-zlatan-ibrahimovic-bastian-schweinsteiger](https://www.spiegel.de/panorama/leute/weihnachtsfotos-von-robert-lewandowski-manuel-neuer-zlatan-ibrahimovic-bastian-schweinsteiger-a-88c06378-c19c-41e1-a2c0-f5c0b58c8ff7#ref=rss)
-### bund
-
-* [https://www.spiegel.de/politik/deutschland/aerztegewerkschaft-ruft-lauterbach-und-habeck-zum-umsteuern-auf](https://www.spiegel.de/politik/deutschland/aerztegewerkschaft-ruft-lauterbach-und-habeck-zum-umsteuern-auf-a-d10b9d40-8b55-40bd-9989-91531bc32ae8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-will-schnelles-ende-der-maskenpflicht-im-fernverkehr](https://www.spiegel.de/politik/deutschland/markus-soeder-will-schnelles-ende-der-maskenpflicht-im-fernverkehr-a-403d13e3-10f5-4f69-9d2d-83fac8141155#ref=rss)
-### serbien
-
-* [https://www.spiegel.de/ausland/schuesse-nahe-nato-patrouille-serbien-schickt-armeechef-an-grenze-zum-kosovo](https://www.spiegel.de/ausland/schuesse-nahe-nato-patrouille-serbien-schickt-armeechef-an-grenze-zum-kosovo-a-40c953ce-77fe-47a8-b7bd-94482498028c#ref=rss)
-### grenze
-
-* [https://www.spiegel.de/ausland/schuesse-nahe-nato-patrouille-serbien-schickt-armeechef-an-grenze-zum-kosovo](https://www.spiegel.de/ausland/schuesse-nahe-nato-patrouille-serbien-schickt-armeechef-an-grenze-zum-kosovo-a-40c953ce-77fe-47a8-b7bd-94482498028c#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-migrantinnen-und-migranten-in-der-naehe-des-hauses-der-us-vizepraesidentin-abgesetzt](https://www.spiegel.de/ausland/kamala-harris-migrantinnen-und-migranten-in-der-naehe-des-hauses-der-us-vizepraesidentin-abgesetzt-a-d2e457ea-f4d5-4a57-9946-c44e273a236f#ref=rss)
-### kosovo
-
-* [https://www.spiegel.de/ausland/schuesse-nahe-nato-patrouille-serbien-schickt-armeechef-an-grenze-zum-kosovo](https://www.spiegel.de/ausland/schuesse-nahe-nato-patrouille-serbien-schickt-armeechef-an-grenze-zum-kosovo-a-40c953ce-77fe-47a8-b7bd-94482498028c#ref=rss)
-### hannover
-
-* [https://www.spiegel.de/panorama/justiz/hannover-84-jaehrige-stirbt-nach-angriff-an-heiligabend](https://www.spiegel.de/panorama/justiz/hannover-84-jaehrige-stirbt-nach-angriff-an-heiligabend-a-29caba3e-31fe-440d-b70a-963e1d015819#ref=rss)
-### 84jährige
-
-* [https://www.spiegel.de/panorama/justiz/hannover-84-jaehrige-stirbt-nach-angriff-an-heiligabend](https://www.spiegel.de/panorama/justiz/hannover-84-jaehrige-stirbt-nach-angriff-an-heiligabend-a-29caba3e-31fe-440d-b70a-963e1d015819#ref=rss)
-### tupoka
-
-* [https://www.spiegel.de/start/tupoka-ogette-ueber-entscheidungen-fuer-mich-war-es-ein-lernprozess-bei-mir-zu-bleiben](https://www.spiegel.de/start/tupoka-ogette-ueber-entscheidungen-fuer-mich-war-es-ein-lernprozess-bei-mir-zu-bleiben-a-e0546f1c-e143-4c6a-b31e-e24bb7b37d04#ref=rss)
-### ogette
-
-* [https://www.spiegel.de/start/tupoka-ogette-ueber-entscheidungen-fuer-mich-war-es-ein-lernprozess-bei-mir-zu-bleiben](https://www.spiegel.de/start/tupoka-ogette-ueber-entscheidungen-fuer-mich-war-es-ein-lernprozess-bei-mir-zu-bleiben-a-e0546f1c-e143-4c6a-b31e-e24bb7b37d04#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/start/tupoka-ogette-ueber-entscheidungen-fuer-mich-war-es-ein-lernprozess-bei-mir-zu-bleiben](https://www.spiegel.de/start/tupoka-ogette-ueber-entscheidungen-fuer-mich-war-es-ein-lernprozess-bei-mir-zu-bleiben-a-e0546f1c-e143-4c6a-b31e-e24bb7b37d04#ref=rss)
-* [https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben](https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben-a-51ab20fe-6bf2-49cf-a15c-1374f1336d17#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/start/tupoka-ogette-ueber-entscheidungen-fuer-mich-war-es-ein-lernprozess-bei-mir-zu-bleiben](https://www.spiegel.de/start/tupoka-ogette-ueber-entscheidungen-fuer-mich-war-es-ein-lernprozess-bei-mir-zu-bleiben-a-e0546f1c-e143-4c6a-b31e-e24bb7b37d04#ref=rss)
-* [https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben](https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben-a-51ab20fe-6bf2-49cf-a15c-1374f1336d17#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/start/tupoka-ogette-ueber-entscheidungen-fuer-mich-war-es-ein-lernprozess-bei-mir-zu-bleiben](https://www.spiegel.de/start/tupoka-ogette-ueber-entscheidungen-fuer-mich-war-es-ein-lernprozess-bei-mir-zu-bleiben-a-e0546f1c-e143-4c6a-b31e-e24bb7b37d04#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden](https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden-a-feb5d635-5439-4057-87df-f99370dfa98d#ref=rss)
-### japan
-
-* [https://www.spiegel.de/panorama/japan-17-menschen-sterben-durch-extreme-schneefaelle](https://www.spiegel.de/panorama/japan-17-menschen-sterben-durch-extreme-schneefaelle-a-6d2d2432-09cc-4d2b-8379-1ef3240a0bde#ref=rss)
-### extreme
-
-* [https://www.spiegel.de/panorama/japan-17-menschen-sterben-durch-extreme-schneefaelle](https://www.spiegel.de/panorama/japan-17-menschen-sterben-durch-extreme-schneefaelle-a-6d2d2432-09cc-4d2b-8379-1ef3240a0bde#ref=rss)
-* [https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben](https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben-a-51ab20fe-6bf2-49cf-a15c-1374f1336d17#ref=rss)
-### stunden
-
-* [https://www.spiegel.de/panorama/japan-17-menschen-sterben-durch-extreme-schneefaelle](https://www.spiegel.de/panorama/japan-17-menschen-sterben-durch-extreme-schneefaelle-a-6d2d2432-09cc-4d2b-8379-1ef3240a0bde#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-registriert-2022-mehr-vermisstenfaelle-als-im-vorjahr](https://www.spiegel.de/panorama/polizei-registriert-2022-mehr-vermisstenfaelle-als-im-vorjahr-a-6a2fdab4-431e-4802-9633-63f746daa19e#ref=rss)
-### kirchen
-
-* [https://www.spiegel.de/geschichte/leere-kirchen-zu-weihnachten-das-ist-ein-kultureller-erdrutsch](https://www.spiegel.de/geschichte/leere-kirchen-zu-weihnachten-das-ist-ein-kultureller-erdrutsch-a-e44f0aa6-a062-42ba-ae68-585fad0967fe#ref=rss)
-### reichsbürgerrazzia
-
-* [https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden](https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden-a-feb5d635-5439-4057-87df-f99370dfa98d#ref=rss)
-### tippgeber
-
-* [https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden](https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden-a-feb5d635-5439-4057-87df-f99370dfa98d#ref=rss)
-### strafrechtlich
-
-* [https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden](https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden-a-feb5d635-5439-4057-87df-f99370dfa98d#ref=rss)
-### verfolgt
-
-* [https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden](https://www.spiegel.de/politik/deutschland/reichsbuerger-razzia-medien-und-behoerden-sollten-tippgeber-strafrechtlich-verfolgt-werden-a-feb5d635-5439-4057-87df-f99370dfa98d#ref=rss)
-### kreuzbandrisse
-
-* [https://www.spiegel.de/sport/fussball/fussball-risiko-fuer-kreuzbandrisse-bei-fussballerinnen-deutlich-hoeher-als-bei-maennern](https://www.spiegel.de/sport/fussball/fussball-risiko-fuer-kreuzbandrisse-bei-fussballerinnen-deutlich-hoeher-als-bei-maennern-a-400ce543-d34f-43fc-bfff-d8001f9cc6b3#ref=rss)
-### fußballerinnen
-
-* [https://www.spiegel.de/sport/fussball/fussball-risiko-fuer-kreuzbandrisse-bei-fussballerinnen-deutlich-hoeher-als-bei-maennern](https://www.spiegel.de/sport/fussball/fussball-risiko-fuer-kreuzbandrisse-bei-fussballerinnen-deutlich-hoeher-als-bei-maennern-a-400ce543-d34f-43fc-bfff-d8001f9cc6b3#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben](https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben-a-51ab20fe-6bf2-49cf-a15c-1374f1336d17#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben](https://www.spiegel.de/panorama/kaeltewelle-in-den-usa-und-kanada-dutzende-menschen-sterben-a-51ab20fe-6bf2-49cf-a15c-1374f1336d17#ref=rss)
-### markus
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-will-schnelles-ende-der-maskenpflicht-im-fernverkehr](https://www.spiegel.de/politik/deutschland/markus-soeder-will-schnelles-ende-der-maskenpflicht-im-fernverkehr-a-403d13e3-10f5-4f69-9d2d-83fac8141155#ref=rss)
-### söder
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-will-schnelles-ende-der-maskenpflicht-im-fernverkehr](https://www.spiegel.de/politik/deutschland/markus-soeder-will-schnelles-ende-der-maskenpflicht-im-fernverkehr-a-403d13e3-10f5-4f69-9d2d-83fac8141155#ref=rss)
-### maskenpflicht
-
-* [https://www.spiegel.de/politik/deutschland/markus-soeder-will-schnelles-ende-der-maskenpflicht-im-fernverkehr](https://www.spiegel.de/politik/deutschland/markus-soeder-will-schnelles-ende-der-maskenpflicht-im-fernverkehr-a-403d13e3-10f5-4f69-9d2d-83fac8141155#ref=rss)
-### chaim
-
-* [https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung](https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung-a-005bd54c-24a6-4119-a6f8-0143c8c86e18#ref=rss)
-### druckman
-
-* [https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung](https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung-a-005bd54c-24a6-4119-a6f8-0143c8c86e18#ref=rss)
-### siedlerbewegung
-
-* [https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung](https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung-a-005bd54c-24a6-4119-a6f8-0143c8c86e18#ref=rss)
-### corona
-
-* [https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung](https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung-a-005bd54c-24a6-4119-a6f8-0143c8c86e18#ref=rss)
-* [https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet](https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet-a-731be514-e439-4244-8002-78fb42588d25#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-nach-weihnachten-mild-windig-wechselhaft](https://www.spiegel.de/panorama/wetter-nach-weihnachten-mild-windig-wechselhaft-a-ffae1cbb-f416-48ec-87d7-2bfefc4c77e8#ref=rss)
+* [https://www.spiegel.de/ausland/gespraeche-zu-weihnachten-ueber-den-krieg-oma-was-ist-krieg-und-muessen-wir-jetzt-alle-sterben](https://www.spiegel.de/ausland/gespraeche-zu-weihnachten-ueber-den-krieg-oma-was-ist-krieg-und-muessen-wir-jetzt-alle-sterben-a-387e5027-ddaa-4606-b7d4-b5eab545afcf#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-saebelrasseln-an-der-grenze](https://www.spiegel.de/ausland/ukraine-krieg-saebelrasseln-an-der-grenze-a-d5ab4e2b-3fee-4e6c-b494-22c84b960c69#ref=rss)
+* [https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur](https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur-a-429ea87e-eea7-4ae1-9a9f-6c0dd7fc486c#ref=rss)
+* [https://www.spiegel.de/sport/segeln-zehntausende-fans-und-sommerwetter-bei-start-der-sydney-hobart-regatta](https://www.spiegel.de/sport/segeln-zehntausende-fans-und-sommerwetter-bei-start-der-sydney-hobart-regatta-a-ec2f40a3-b664-4aaf-9103-8868f1a18f61#ref=rss)
+### wir
+
+* [https://www.spiegel.de/ausland/neujahrsglueckwuensche-putin-streicht-biden-von-seiner-liste](https://www.spiegel.de/ausland/neujahrsglueckwuensche-putin-streicht-biden-von-seiner-liste-a-c64571cf-c16d-403e-81f9-ded8f514f9d9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind](https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind-a-6dc658c4-906d-4511-9d47-b65872bbe1dc#ref=rss)
+* [https://www.spiegel.de/ausland/gespraeche-zu-weihnachten-ueber-den-krieg-oma-was-ist-krieg-und-muessen-wir-jetzt-alle-sterben](https://www.spiegel.de/ausland/gespraeche-zu-weihnachten-ueber-den-krieg-oma-was-ist-krieg-und-muessen-wir-jetzt-alle-sterben-a-387e5027-ddaa-4606-b7d4-b5eab545afcf#ref=rss)
+* [https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu](https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu-a-dee28892-e9c5-46fc-81c4-2cd0df3a9c71#ref=rss)
+* [https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur](https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur-a-429ea87e-eea7-4ae1-9a9f-6c0dd7fc486c#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/neujahrsglueckwuensche-putin-streicht-biden-von-seiner-liste](https://www.spiegel.de/ausland/neujahrsglueckwuensche-putin-streicht-biden-von-seiner-liste-a-c64571cf-c16d-403e-81f9-ded8f514f9d9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie](https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie-a-c9a4eb47-54b9-4b18-b044-57ef6c4fdce8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-saebelrasseln-an-der-grenze](https://www.spiegel.de/ausland/ukraine-krieg-saebelrasseln-an-der-grenze-a-d5ab4e2b-3fee-4e6c-b494-22c84b960c69#ref=rss)
+* [https://www.spiegel.de/ausland/russland-putin-gegner-nawalny-klagt-ueber-rueckenschmerzen](https://www.spiegel.de/ausland/russland-putin-gegner-nawalny-klagt-ueber-rueckenschmerzen-a-df87b858-9cb2-4160-805f-a9e1ba6cf4e6#ref=rss)
 ### gestorben
 
-* [https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung](https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung-a-005bd54c-24a6-4119-a6f8-0143c8c86e18#ref=rss)
-* [https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf](https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf-a-3fdcbe45-b9d7-466a-bee0-acd449f4b1e0#ref=rss)
-### vater
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-23-jaehrige-bei-unfall-mit-fahrerflucht-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-23-jaehrige-bei-unfall-mit-fahrerflucht-toedlich-verletzt-a-2aa4bb4a-69a8-4bd3-a0ea-1c290c9c3002#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/langjaehriger-abgeordneter-cdu-politiker-michael-fuchs-ist-gestorben](https://www.spiegel.de/politik/deutschland/langjaehriger-abgeordneter-cdu-politiker-michael-fuchs-ist-gestorben-a-0d85ea95-d0ba-4027-9d72-fc2095338178#ref=rss)
+* [https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur](https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur-a-429ea87e-eea7-4ae1-9a9f-6c0dd7fc486c#ref=rss)
+* [https://www.spiegel.de/panorama/philippinen-tote-vermisste-und-vertriebene-nach-ueberschwemmungen](https://www.spiegel.de/panorama/philippinen-tote-vermisste-und-vertriebene-nach-ueberschwemmungen-a-6b4270a3-ce9f-49e9-bc0c-164d1b4f66e9#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung](https://www.spiegel.de/ausland/israel-chaim-druckman-ist-tot-spiritus-rector-der-siedlerbewegung-a-005bd54c-24a6-4119-a6f8-0143c8c86e18#ref=rss)
-* [https://www.spiegel.de/ausland/netanyahu-distanziert-sich-von-radikalen-aeusserungen-seines-sohnes](https://www.spiegel.de/ausland/netanyahu-distanziert-sich-von-radikalen-aeusserungen-seines-sohnes-a-a3d815de-7436-406b-a7d6-9c544e17bd46#ref=rss)
-### jair
+* [https://www.spiegel.de/ausland/neujahrsglueckwuensche-putin-streicht-biden-von-seiner-liste](https://www.spiegel.de/ausland/neujahrsglueckwuensche-putin-streicht-biden-von-seiner-liste-a-c64571cf-c16d-403e-81f9-ded8f514f9d9#ref=rss)
+* [https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur](https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur-a-429ea87e-eea7-4ae1-9a9f-6c0dd7fc486c#ref=rss)
+* [https://www.spiegel.de/sport/segeln-zehntausende-fans-und-sommerwetter-bei-start-der-sydney-hobart-regatta](https://www.spiegel.de/sport/segeln-zehntausende-fans-und-sommerwetter-bei-start-der-sydney-hobart-regatta-a-ec2f40a3-b664-4aaf-9103-8868f1a18f61#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/netanyahu-distanziert-sich-von-radikalen-aeusserungen-seines-sohnes](https://www.spiegel.de/ausland/netanyahu-distanziert-sich-von-radikalen-aeusserungen-seines-sohnes-a-a3d815de-7436-406b-a7d6-9c544e17bd46#ref=rss)
-### tote
+* [https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-der-praesident-von-hannover-podcast-im-verhoer-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-der-praesident-von-hannover-podcast-im-verhoer-spiegel-tv-a-2f38a2dd-29a7-4eb7-8d06-ce6753323833#ref=rss)
+* [https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu](https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu-a-dee28892-e9c5-46fc-81c4-2cd0df3a9c71#ref=rss)
+* [https://www.spiegel.de/gesundheit/arzneimittelwerbung-fachverbaende-wollen-geschlechtsneutrale-formulierung](https://www.spiegel.de/gesundheit/arzneimittelwerbung-fachverbaende-wollen-geschlechtsneutrale-formulierung-a-6842f87d-c98c-426d-9695-61e5bd864bbc#ref=rss)
+### krieg
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-offenbar-erneut-tote-und-verletzte-auf-militaerflugplatz-in-suedrussland](https://www.spiegel.de/ausland/russland-ukraine-krieg-offenbar-erneut-tote-und-verletzte-auf-militaerflugplatz-in-suedrussland-a-221e5ca8-5939-4280-b405-5467551aca33#ref=rss)
-### verletzte
+* [https://www.spiegel.de/ausland/gespraeche-zu-weihnachten-ueber-den-krieg-oma-was-ist-krieg-und-muessen-wir-jetzt-alle-sterben](https://www.spiegel.de/ausland/gespraeche-zu-weihnachten-ueber-den-krieg-oma-was-ist-krieg-und-muessen-wir-jetzt-alle-sterben-a-387e5027-ddaa-4606-b7d4-b5eab545afcf#ref=rss)
+* [https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur](https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur-a-429ea87e-eea7-4ae1-9a9f-6c0dd7fc486c#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-offenbar-erneut-tote-und-verletzte-auf-militaerflugplatz-in-suedrussland](https://www.spiegel.de/ausland/russland-ukraine-krieg-offenbar-erneut-tote-und-verletzte-auf-militaerflugplatz-in-suedrussland-a-221e5ca8-5939-4280-b405-5467551aca33#ref=rss)
+* [https://www.spiegel.de/ausland/neujahrsglueckwuensche-putin-streicht-biden-von-seiner-liste](https://www.spiegel.de/ausland/neujahrsglueckwuensche-putin-streicht-biden-von-seiner-liste-a-c64571cf-c16d-403e-81f9-ded8f514f9d9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie](https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie-a-c9a4eb47-54b9-4b18-b044-57ef6c4fdce8#ref=rss)
+* [https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu](https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu-a-dee28892-e9c5-46fc-81c4-2cd0df3a9c71#ref=rss)
+### vorbei
+
+* [https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind](https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind-a-6dc658c4-906d-4511-9d47-b65872bbe1dc#ref=rss)
+* [https://www.spiegel.de/panorama/philippinen-tote-vermisste-und-vertriebene-nach-ueberschwemmungen](https://www.spiegel.de/panorama/philippinen-tote-vermisste-und-vertriebene-nach-ueberschwemmungen-a-6b4270a3-ce9f-49e9-bc0c-164d1b4f66e9#ref=rss)
+* [https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei](https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei-a-10a8d5a0-0aa5-4cd4-a16b-006b986dcc3d#ref=rss)
+### januar
+
+* [https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-der-praesident-von-hannover-podcast-im-verhoer-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-der-praesident-von-hannover-podcast-im-verhoer-spiegel-tv-a-2f38a2dd-29a7-4eb7-8d06-ce6753323833#ref=rss)
+* [https://www.spiegel.de/ausland/china-hebt-quarantaeneregeln-fuer-einreisende-aus-dem-ausland-ab-8-januar-auf](https://www.spiegel.de/ausland/china-hebt-quarantaeneregeln-fuer-einreisende-aus-dem-ausland-ab-8-januar-auf-a-279b4e64-ed2f-4fc6-8fdd-7ad86d00a290#ref=rss)
+### 2022
+
+* [https://www.spiegel.de/kultur/musik/abgehoert-2022-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/abgehoert-2022-das-ist-die-beste-musik-des-jahres-a-723f1eef-0eb3-4475-8f30-d5eb65204d5f#ref=rss)
+* [https://www.spiegel.de/kultur/barack-obama-seine-liebsten-songs-filme-und-buecher-des-jahres-2022](https://www.spiegel.de/kultur/barack-obama-seine-liebsten-songs-filme-und-buecher-des-jahres-2022-a-b457f4d0-8c3e-4fe4-8b57-84f0b369ca4d#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/kultur/musik/abgehoert-2022-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/abgehoert-2022-das-ist-die-beste-musik-des-jahres-a-723f1eef-0eb3-4475-8f30-d5eb65204d5f#ref=rss)
+* [https://www.spiegel.de/kultur/barack-obama-seine-liebsten-songs-filme-und-buecher-des-jahres-2022](https://www.spiegel.de/kultur/barack-obama-seine-liebsten-songs-filme-und-buecher-des-jahres-2022-a-b457f4d0-8c3e-4fe4-8b57-84f0b369ca4d#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/sport/fussball/iran-familie-von-ali-daei-offenbar-an-der-ausreise-gehindert](https://www.spiegel.de/sport/fussball/iran-familie-von-ali-daei-offenbar-an-der-ausreise-gehindert-a-adab29e0-24ff-465a-a76a-7cfc593cc17b#ref=rss)
+* [https://www.spiegel.de/ausland/russland-putin-gegner-nawalny-klagt-ueber-rueckenschmerzen](https://www.spiegel.de/ausland/russland-putin-gegner-nawalny-klagt-ueber-rueckenschmerzen-a-df87b858-9cb2-4160-805f-a9e1ba6cf4e6#ref=rss)
+### land
+
+* [https://www.spiegel.de/sport/fussball/iran-familie-von-ali-daei-offenbar-an-der-ausreise-gehindert](https://www.spiegel.de/sport/fussball/iran-familie-von-ali-daei-offenbar-an-der-ausreise-gehindert-a-adab29e0-24ff-465a-a76a-7cfc593cc17b#ref=rss)
+* [https://www.spiegel.de/panorama/suedkorea-laesst-sexpuppen-ins-land](https://www.spiegel.de/panorama/suedkorea-laesst-sexpuppen-ins-land-a-c52c605b-5c3a-46d3-8e70-37c50ede3e9f#ref=rss)
+* [https://www.spiegel.de/panorama/philippinen-tote-vermisste-und-vertriebene-nach-ueberschwemmungen](https://www.spiegel.de/panorama/philippinen-tote-vermisste-und-vertriebene-nach-ueberschwemmungen-a-6b4270a3-ce9f-49e9-bc0c-164d1b4f66e9#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/wetter-nach-weihnachten-mild-windig-wechselhaft](https://www.spiegel.de/panorama/wetter-nach-weihnachten-mild-windig-wechselhaft-a-ffae1cbb-f416-48ec-87d7-2bfefc4c77e8#ref=rss)
+* [https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu](https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu-a-dee28892-e9c5-46fc-81c4-2cd0df3a9c71#ref=rss)
+* [https://www.spiegel.de/sport/segeln-zehntausende-fans-und-sommerwetter-bei-start-der-sydney-hobart-regatta](https://www.spiegel.de/sport/segeln-zehntausende-fans-und-sommerwetter-bei-start-der-sydney-hobart-regatta-a-ec2f40a3-b664-4aaf-9103-8868f1a18f61#ref=rss)
+### bereitet
+
+* [https://www.spiegel.de/ausland/gebrauchte-smartphones-in-afrika-ein-iphone-fuer-50-euro](https://www.spiegel.de/ausland/gebrauchte-smartphones-in-afrika-ein-iphone-fuer-50-euro-a-731b20de-bc7d-4cca-93d0-f86942272b25#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-saebelrasseln-an-der-grenze](https://www.spiegel.de/ausland/ukraine-krieg-saebelrasseln-an-der-grenze-a-d5ab4e2b-3fee-4e6c-b494-22c84b960c69#ref=rss)
+* [https://www.spiegel.de/ausland/brexit-chaos-in-grossbritannien-jetzt-klopft-london-sanft-in-bruessel-an](https://www.spiegel.de/ausland/brexit-chaos-in-grossbritannien-jetzt-klopft-london-sanft-in-bruessel-an-a-ceab3654-da69-4364-9a82-e6abcedcd9a1#ref=rss)
+### neue
+
+* [https://www.spiegel.de/politik/deutschland/bnd-enttarnter-spion-koennte-lageberichte-zu-ukraine-verraten-haben](https://www.spiegel.de/politik/deutschland/bnd-enttarnter-spion-koennte-lageberichte-zu-ukraine-verraten-haben-a-253788ce-2840-4c29-84aa-849cf210ea34#ref=rss)
+* [https://www.spiegel.de/ausland/brexit-chaos-in-grossbritannien-jetzt-klopft-london-sanft-in-bruessel-an](https://www.spiegel.de/ausland/brexit-chaos-in-grossbritannien-jetzt-klopft-london-sanft-in-bruessel-an-a-ceab3654-da69-4364-9a82-e6abcedcd9a1#ref=rss)
+* [https://www.spiegel.de/gesundheit/arzneimittelwerbung-fachverbaende-wollen-geschlechtsneutrale-formulierung](https://www.spiegel.de/gesundheit/arzneimittelwerbung-fachverbaende-wollen-geschlechtsneutrale-formulierung-a-6842f87d-c98c-426d-9695-61e5bd864bbc#ref=rss)
+### cristiano
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-wechsel-nach-saudi-arabien-rueckt-naeher](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-wechsel-nach-saudi-arabien-rueckt-naeher-a-f2af41a9-0d85-4681-8364-2be10d8b317b#ref=rss)
+### ronaldo
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-wechsel-nach-saudi-arabien-rueckt-naeher](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-wechsel-nach-saudi-arabien-rueckt-naeher-a-f2af41a9-0d85-4681-8364-2be10d8b317b#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/cristiano-ronaldo-wechsel-nach-saudi-arabien-rueckt-naeher](https://www.spiegel.de/sport/fussball/cristiano-ronaldo-wechsel-nach-saudi-arabien-rueckt-naeher-a-f2af41a9-0d85-4681-8364-2be10d8b317b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf-a-2193ff54-244e-4b21-8c69-cd4a2c872610#ref=rss)
+### klimakrise
+
+* [https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind](https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind-a-6dc658c4-906d-4511-9d47-b65872bbe1dc#ref=rss)
+### besten
+
+* [https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind](https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind-a-6dc658c4-906d-4511-9d47-b65872bbe1dc#ref=rss)
+* [https://www.spiegel.de/kultur/musik/abgehoert-2022-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/abgehoert-2022-das-ist-die-beste-musik-des-jahres-a-723f1eef-0eb3-4475-8f30-d5eb65204d5f#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind](https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind-a-6dc658c4-906d-4511-9d47-b65872bbe1dc#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-der-praesident-von-hannover-podcast-im-verhoer-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-der-praesident-von-hannover-podcast-im-verhoer-spiegel-tv-a-2f38a2dd-29a7-4eb7-8d06-ce6753323833#ref=rss)
+### uns
+
+* [https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind](https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind-a-6dc658c4-906d-4511-9d47-b65872bbe1dc#ref=rss)
+* [https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur](https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur-a-429ea87e-eea7-4ae1-9a9f-6c0dd7fc486c#ref=rss)
+### verloren
+
+* [https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind](https://www.spiegel.de/politik/deutschland/klima-krise-was-wenn-die-besten-jahre-vorbei-sind-a-6dc658c4-906d-4511-9d47-b65872bbe1dc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schottischer-nationaltorwart-gordon-erleidet-doppelten-beinbruch](https://www.spiegel.de/sport/fussball/schottischer-nationaltorwart-gordon-erleidet-doppelten-beinbruch-a-170778e3-dc51-4ec6-a3cd-b6cf6cd1c8b3#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-23-jaehrige-bei-unfall-mit-fahrerflucht-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-23-jaehrige-bei-unfall-mit-fahrerflucht-toedlich-verletzt-a-2aa4bb4a-69a8-4bd3-a0ea-1c290c9c3002#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schottischer-nationaltorwart-gordon-erleidet-doppelten-beinbruch](https://www.spiegel.de/sport/fussball/schottischer-nationaltorwart-gordon-erleidet-doppelten-beinbruch-a-170778e3-dc51-4ec6-a3cd-b6cf6cd1c8b3#ref=rss)
+### nächsten
+
+* [https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-23-jaehrige-bei-unfall-mit-fahrerflucht-toedlich-verletzt](https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-23-jaehrige-bei-unfall-mit-fahrerflucht-toedlich-verletzt-a-2aa4bb4a-69a8-4bd3-a0ea-1c290c9c3002#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-nach-weihnachten-mild-windig-wechselhaft](https://www.spiegel.de/panorama/wetter-nach-weihnachten-mild-windig-wechselhaft-a-ffae1cbb-f416-48ec-87d7-2bfefc4c77e8#ref=rss)
+### hannover
+
+* [https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-der-praesident-von-hannover-podcast-im-verhoer-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-der-praesident-von-hannover-podcast-im-verhoer-spiegel-tv-a-2f38a2dd-29a7-4eb7-8d06-ce6753323833#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/china-hebt-quarantaeneregeln-fuer-einreisende-aus-dem-ausland-ab-8-januar-auf](https://www.spiegel.de/ausland/china-hebt-quarantaeneregeln-fuer-einreisende-aus-dem-ausland-ab-8-januar-auf-a-279b4e64-ed2f-4fc6-8fdd-7ad86d00a290#ref=rss)
+### ausland
+
+* [https://www.spiegel.de/ausland/china-hebt-quarantaeneregeln-fuer-einreisende-aus-dem-ausland-ab-8-januar-auf](https://www.spiegel.de/ausland/china-hebt-quarantaeneregeln-fuer-einreisende-aus-dem-ausland-ab-8-januar-auf-a-279b4e64-ed2f-4fc6-8fdd-7ad86d00a290#ref=rss)
+### 8
+
+* [https://www.spiegel.de/ausland/china-hebt-quarantaeneregeln-fuer-einreisende-aus-dem-ausland-ab-8-januar-auf](https://www.spiegel.de/ausland/china-hebt-quarantaeneregeln-fuer-einreisende-aus-dem-ausland-ab-8-januar-auf-a-279b4e64-ed2f-4fc6-8fdd-7ad86d00a290#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/kultur/musik/abgehoert-2022-das-ist-die-beste-musik-des-jahres](https://www.spiegel.de/kultur/musik/abgehoert-2022-das-ist-die-beste-musik-des-jahres-a-723f1eef-0eb3-4475-8f30-d5eb65204d5f#ref=rss)
+* [https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei](https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei-a-10a8d5a0-0aa5-4cd4-a16b-006b986dcc3d#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/fondue-brand-loeschversuch-in-kueche-fuehrt-zu-fettexplosion](https://www.spiegel.de/panorama/fondue-brand-loeschversuch-in-kueche-fuehrt-zu-fettexplosion-a-95a851fd-6c2c-4726-973d-8471b0211e4f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf-a-2193ff54-244e-4b21-8c69-cd4a2c872610#ref=rss)
+### gebracht
+
+* [https://www.spiegel.de/panorama/fondue-brand-loeschversuch-in-kueche-fuehrt-zu-fettexplosion](https://www.spiegel.de/panorama/fondue-brand-loeschversuch-in-kueche-fuehrt-zu-fettexplosion-a-95a851fd-6c2c-4726-973d-8471b0211e4f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf-a-2193ff54-244e-4b21-8c69-cd4a2c872610#ref=rss)
+### ali
+
+* [https://www.spiegel.de/sport/fussball/iran-familie-von-ali-daei-offenbar-an-der-ausreise-gehindert](https://www.spiegel.de/sport/fussball/iran-familie-von-ali-daei-offenbar-an-der-ausreise-gehindert-a-adab29e0-24ff-465a-a76a-7cfc593cc17b#ref=rss)
+### daei
+
+* [https://www.spiegel.de/sport/fussball/iran-familie-von-ali-daei-offenbar-an-der-ausreise-gehindert](https://www.spiegel.de/sport/fussball/iran-familie-von-ali-daei-offenbar-an-der-ausreise-gehindert-a-adab29e0-24ff-465a-a76a-7cfc593cc17b#ref=rss)
+### schnee
+
+* [https://www.spiegel.de/panorama/wetter-nach-weihnachten-mild-windig-wechselhaft](https://www.spiegel.de/panorama/wetter-nach-weihnachten-mild-windig-wechselhaft-a-ffae1cbb-f416-48ec-87d7-2bfefc4c77e8#ref=rss)
+* [https://www.spiegel.de/sport/segeln-zehntausende-fans-und-sommerwetter-bei-start-der-sydney-hobart-regatta](https://www.spiegel.de/sport/segeln-zehntausende-fans-und-sommerwetter-bei-start-der-sydney-hobart-regatta-a-ec2f40a3-b664-4aaf-9103-8868f1a18f61#ref=rss)
+### mützenich
+
+* [https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie](https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie-a-c9a4eb47-54b9-4b18-b044-57ef6c4fdce8#ref=rss)
+### baerbock
+
+* [https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie](https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie-a-c9a4eb47-54b9-4b18-b044-57ef6c4fdce8#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie](https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie-a-c9a4eb47-54b9-4b18-b044-57ef6c4fdce8#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-saebelrasseln-an-der-grenze](https://www.spiegel.de/ausland/ukraine-krieg-saebelrasseln-an-der-grenze-a-d5ab4e2b-3fee-4e6c-b494-22c84b960c69#ref=rss)
+### gespräche
+
+* [https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie](https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie-a-c9a4eb47-54b9-4b18-b044-57ef6c4fdce8#ref=rss)
+* [https://www.spiegel.de/ausland/gespraeche-zu-weihnachten-ueber-den-krieg-oma-was-ist-krieg-und-muessen-wir-jetzt-alle-sterben](https://www.spiegel.de/ausland/gespraeche-zu-weihnachten-ueber-den-krieg-oma-was-ist-krieg-und-muessen-wir-jetzt-alle-sterben-a-387e5027-ddaa-4606-b7d4-b5eab545afcf#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie](https://www.spiegel.de/politik/deutschland/muetzenich-baerbock-und-der-ukrainekrieg-die-grenzen-der-diplomatie-a-c9a4eb47-54b9-4b18-b044-57ef6c4fdce8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bnd-enttarnter-spion-koennte-lageberichte-zu-ukraine-verraten-haben](https://www.spiegel.de/politik/deutschland/bnd-enttarnter-spion-koennte-lageberichte-zu-ukraine-verraten-haben-a-253788ce-2840-4c29-84aa-849cf210ea34#ref=rss)
+### michael
+
+* [https://www.spiegel.de/politik/deutschland/langjaehriger-abgeordneter-cdu-politiker-michael-fuchs-ist-gestorben](https://www.spiegel.de/politik/deutschland/langjaehriger-abgeordneter-cdu-politiker-michael-fuchs-ist-gestorben-a-0d85ea95-d0ba-4027-9d72-fc2095338178#ref=rss)
+### fuchs
+
+* [https://www.spiegel.de/politik/deutschland/langjaehriger-abgeordneter-cdu-politiker-michael-fuchs-ist-gestorben](https://www.spiegel.de/politik/deutschland/langjaehriger-abgeordneter-cdu-politiker-michael-fuchs-ist-gestorben-a-0d85ea95-d0ba-4027-9d72-fc2095338178#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/politik/deutschland/langjaehriger-abgeordneter-cdu-politiker-michael-fuchs-ist-gestorben](https://www.spiegel.de/politik/deutschland/langjaehriger-abgeordneter-cdu-politiker-michael-fuchs-ist-gestorben-a-0d85ea95-d0ba-4027-9d72-fc2095338178#ref=rss)
+* [https://www.spiegel.de/panorama/suedkorea-laesst-sexpuppen-ins-land](https://www.spiegel.de/panorama/suedkorea-laesst-sexpuppen-ins-land-a-c52c605b-5c3a-46d3-8e70-37c50ede3e9f#ref=rss)
+### corona
+
+* [https://www.spiegel.de/ausland/gespraeche-zu-weihnachten-ueber-den-krieg-oma-was-ist-krieg-und-muessen-wir-jetzt-alle-sterben](https://www.spiegel.de/ausland/gespraeche-zu-weihnachten-ueber-den-krieg-oma-was-ist-krieg-und-muessen-wir-jetzt-alle-sterben-a-387e5027-ddaa-4606-b7d4-b5eab545afcf#ref=rss)
+* [https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei](https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei-a-10a8d5a0-0aa5-4cd4-a16b-006b986dcc3d#ref=rss)
+### tod
+
+* [https://www.spiegel.de/ausland/gespraeche-zu-weihnachten-ueber-den-krieg-oma-was-ist-krieg-und-muessen-wir-jetzt-alle-sterben](https://www.spiegel.de/ausland/gespraeche-zu-weihnachten-ueber-den-krieg-oma-was-ist-krieg-und-muessen-wir-jetzt-alle-sterben-a-387e5027-ddaa-4606-b7d4-b5eab545afcf#ref=rss)
+* [https://www.spiegel.de/ausland/rohingya-tod-von-rund-180-gefluechteten-befuerchtet](https://www.spiegel.de/ausland/rohingya-tod-von-rund-180-gefluechteten-befuerchtet-a-906f8150-1ea4-4b91-8833-e3762ba0a0f4#ref=rss)
+### gebrauchte
+
+* [https://www.spiegel.de/ausland/gebrauchte-smartphones-in-afrika-ein-iphone-fuer-50-euro](https://www.spiegel.de/ausland/gebrauchte-smartphones-in-afrika-ein-iphone-fuer-50-euro-a-731b20de-bc7d-4cca-93d0-f86942272b25#ref=rss)
+### smartphones
+
+* [https://www.spiegel.de/ausland/gebrauchte-smartphones-in-afrika-ein-iphone-fuer-50-euro](https://www.spiegel.de/ausland/gebrauchte-smartphones-in-afrika-ein-iphone-fuer-50-euro-a-731b20de-bc7d-4cca-93d0-f86942272b25#ref=rss)
+### afrika
+
+* [https://www.spiegel.de/ausland/gebrauchte-smartphones-in-afrika-ein-iphone-fuer-50-euro](https://www.spiegel.de/ausland/gebrauchte-smartphones-in-afrika-ein-iphone-fuer-50-euro-a-731b20de-bc7d-4cca-93d0-f86942272b25#ref=rss)
+### gordon
+
+* [https://www.spiegel.de/sport/fussball/schottischer-nationaltorwart-gordon-erleidet-doppelten-beinbruch](https://www.spiegel.de/sport/fussball/schottischer-nationaltorwart-gordon-erleidet-doppelten-beinbruch-a-170778e3-dc51-4ec6-a3cd-b6cf6cd1c8b3#ref=rss)
+### führung
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-saebelrasseln-an-der-grenze](https://www.spiegel.de/ausland/ukraine-krieg-saebelrasseln-an-der-grenze-a-d5ab4e2b-3fee-4e6c-b494-22c84b960c69#ref=rss)
+* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf-a-2193ff54-244e-4b21-8c69-cd4a2c872610#ref=rss)
+### südkorea
+
+* [https://www.spiegel.de/panorama/suedkorea-laesst-sexpuppen-ins-land](https://www.spiegel.de/panorama/suedkorea-laesst-sexpuppen-ins-land-a-c52c605b-5c3a-46d3-8e70-37c50ede3e9f#ref=rss)
+### sexpuppen
+
+* [https://www.spiegel.de/panorama/suedkorea-laesst-sexpuppen-ins-land](https://www.spiegel.de/panorama/suedkorea-laesst-sexpuppen-ins-land-a-c52c605b-5c3a-46d3-8e70-37c50ede3e9f#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu](https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu-a-dee28892-e9c5-46fc-81c4-2cd0df3a9c71#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu](https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu-a-dee28892-e9c5-46fc-81c4-2cd0df3a9c71#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bnd-enttarnter-spion-koennte-lageberichte-zu-ukraine-verraten-haben](https://www.spiegel.de/politik/deutschland/bnd-enttarnter-spion-koennte-lageberichte-zu-ukraine-verraten-haben-a-253788ce-2840-4c29-84aa-849cf210ea34#ref=rss)
+### ring
+
+* [https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu](https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu-a-dee28892-e9c5-46fc-81c4-2cd0df3a9c71#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu](https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu-a-dee28892-e9c5-46fc-81c4-2cd0df3a9c71#ref=rss)
+* [https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei](https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei-a-10a8d5a0-0aa5-4cd4-a16b-006b986dcc3d#ref=rss)
+### pandemie
+
+* [https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu](https://www.spiegel.de/panorama/weisser-ring-haeuslicher-gewalt-in-deutschland-nimmt-wieder-zu-a-dee28892-e9c5-46fc-81c4-2cd0df3a9c71#ref=rss)
+* [https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei](https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei-a-10a8d5a0-0aa5-4cd4-a16b-006b986dcc3d#ref=rss)
+### tottenham
+
+* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf-a-2193ff54-244e-4b21-8c69-cd4a2c872610#ref=rss)
+### brentford
+
+* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf-a-2193ff54-244e-4b21-8c69-cd4a2c872610#ref=rss)
+### harry
+
+* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf-a-2193ff54-244e-4b21-8c69-cd4a2c872610#ref=rss)
+### kane
+
+* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf-a-2193ff54-244e-4b21-8c69-cd4a2c872610#ref=rss)
+### rekord
+
+* [https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf](https://www.spiegel.de/sport/fussball/premier-league-tottenham-hotspur-punktet-beim-fc-brentford-harry-kane-stellt-rekord-auf-a-2193ff54-244e-4b21-8c69-cd4a2c872610#ref=rss)
+### ausgerechnet
+
+* [https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur](https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur-a-429ea87e-eea7-4ae1-9a9f-6c0dd7fc486c#ref=rss)
+* [https://www.spiegel.de/ausland/brexit-chaos-in-grossbritannien-jetzt-klopft-london-sanft-in-bruessel-an](https://www.spiegel.de/ausland/brexit-chaos-in-grossbritannien-jetzt-klopft-london-sanft-in-bruessel-an-a-ceab3654-da69-4364-9a82-e6abcedcd9a1#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur](https://www.spiegel.de/panorama/schneesturm-in-den-usa-wir-befinden-uns-im-krieg-mit-mutter-natur-a-429ea87e-eea7-4ae1-9a9f-6c0dd7fc486c#ref=rss)
+* [https://www.spiegel.de/panorama/philippinen-tote-vermisste-und-vertriebene-nach-ueberschwemmungen](https://www.spiegel.de/panorama/philippinen-tote-vermisste-und-vertriebene-nach-ueberschwemmungen-a-6b4270a3-ce9f-49e9-bc0c-164d1b4f66e9#ref=rss)
+### indischen
+
+* [https://www.spiegel.de/ausland/rohingya-tod-von-rund-180-gefluechteten-befuerchtet](https://www.spiegel.de/ausland/rohingya-tod-von-rund-180-gefluechteten-befuerchtet-a-906f8150-1ea4-4b91-8833-e3762ba0a0f4#ref=rss)
+### ozean
+
+* [https://www.spiegel.de/ausland/rohingya-tod-von-rund-180-gefluechteten-befuerchtet](https://www.spiegel.de/ausland/rohingya-tod-von-rund-180-gefluechteten-befuerchtet-a-906f8150-1ea4-4b91-8833-e3762ba0a0f4#ref=rss)
+### brüssel
+
+* [https://www.spiegel.de/ausland/brexit-chaos-in-grossbritannien-jetzt-klopft-london-sanft-in-bruessel-an](https://www.spiegel.de/ausland/brexit-chaos-in-grossbritannien-jetzt-klopft-london-sanft-in-bruessel-an-a-ceab3654-da69-4364-9a82-e6abcedcd9a1#ref=rss)
+### alexej
+
+* [https://www.spiegel.de/ausland/russland-putin-gegner-nawalny-klagt-ueber-rueckenschmerzen](https://www.spiegel.de/ausland/russland-putin-gegner-nawalny-klagt-ueber-rueckenschmerzen-a-df87b858-9cb2-4160-805f-a9e1ba6cf4e6#ref=rss)
+### nawalny
+
+* [https://www.spiegel.de/ausland/russland-putin-gegner-nawalny-klagt-ueber-rueckenschmerzen](https://www.spiegel.de/ausland/russland-putin-gegner-nawalny-klagt-ueber-rueckenschmerzen-a-df87b858-9cb2-4160-805f-a9e1ba6cf4e6#ref=rss)
+### philippinen
+
+* [https://www.spiegel.de/panorama/philippinen-tote-vermisste-und-vertriebene-nach-ueberschwemmungen](https://www.spiegel.de/panorama/philippinen-tote-vermisste-und-vertriebene-nach-ueberschwemmungen-a-6b4270a3-ce9f-49e9-bc0c-164d1b4f66e9#ref=rss)
+### überschwemmungen
+
+* [https://www.spiegel.de/panorama/philippinen-tote-vermisste-und-vertriebene-nach-ueberschwemmungen](https://www.spiegel.de/panorama/philippinen-tote-vermisste-und-vertriebene-nach-ueberschwemmungen-a-6b4270a3-ce9f-49e9-bc0c-164d1b4f66e9#ref=rss)
 ### christian
 
-* [https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet](https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet-a-731be514-e439-4244-8002-78fb42588d25#ref=rss)
-### karagiannidis
+* [https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei](https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei-a-10a8d5a0-0aa5-4cd4-a16b-006b986dcc3d#ref=rss)
+### drosten
 
-* [https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet](https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet-a-731be514-e439-4244-8002-78fb42588d25#ref=rss)
-### gut
+* [https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei](https://www.spiegel.de/gesundheit/virologe-christian-drosten-nach-meiner-einschaetzung-ist-die-pandemie-vorbei-a-10a8d5a0-0aa5-4cd4-a16b-006b986dcc3d#ref=rss)
+### werbung
 
-* [https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet](https://www.spiegel.de/wissenschaft/mensch/intensivmediziner-karagiannidis-sieht-coronapandemie-nach-diesem-winter-beendet-a-731be514-e439-4244-8002-78fb42588d25#ref=rss)
-### kathy
+* [https://www.spiegel.de/gesundheit/arzneimittelwerbung-fachverbaende-wollen-geschlechtsneutrale-formulierung](https://www.spiegel.de/gesundheit/arzneimittelwerbung-fachverbaende-wollen-geschlechtsneutrale-formulierung-a-6842f87d-c98c-426d-9695-61e5bd864bbc#ref=rss)
+### arzneimittel
 
-* [https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf](https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf-a-3fdcbe45-b9d7-466a-bee0-acd449f4b1e0#ref=rss)
-### whitworth
+* [https://www.spiegel.de/gesundheit/arzneimittelwerbung-fachverbaende-wollen-geschlechtsneutrale-formulierung](https://www.spiegel.de/gesundheit/arzneimittelwerbung-fachverbaende-wollen-geschlechtsneutrale-formulierung-a-6842f87d-c98c-426d-9695-61e5bd864bbc#ref=rss)
+### fachverbände
 
-* [https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf](https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf-a-3fdcbe45-b9d7-466a-bee0-acd449f4b1e0#ref=rss)
-### niemand
+* [https://www.spiegel.de/gesundheit/arzneimittelwerbung-fachverbaende-wollen-geschlechtsneutrale-formulierung](https://www.spiegel.de/gesundheit/arzneimittelwerbung-fachverbaende-wollen-geschlechtsneutrale-formulierung-a-6842f87d-c98c-426d-9695-61e5bd864bbc#ref=rss)
+### formulierung
 
-* [https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf](https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf-a-3fdcbe45-b9d7-466a-bee0-acd449f4b1e0#ref=rss)
-* [https://www.spiegel.de/ausland/kamala-harris-migrantinnen-und-migranten-in-der-naehe-des-hauses-der-us-vizepraesidentin-abgesetzt](https://www.spiegel.de/ausland/kamala-harris-migrantinnen-und-migranten-in-der-naehe-des-hauses-der-us-vizepraesidentin-abgesetzt-a-d2e457ea-f4d5-4a57-9946-c44e273a236f#ref=rss)
-### einmal
+* [https://www.spiegel.de/gesundheit/arzneimittelwerbung-fachverbaende-wollen-geschlechtsneutrale-formulierung](https://www.spiegel.de/gesundheit/arzneimittelwerbung-fachverbaende-wollen-geschlechtsneutrale-formulierung-a-6842f87d-c98c-426d-9695-61e5bd864bbc#ref=rss)
+### tatort
 
-* [https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf](https://www.spiegel.de/sport/golf/golf-kathy-whitworth-an-heiligabend-gestorben-rekordsiegerin-im-profi-golf-a-3fdcbe45-b9d7-466a-bee0-acd449f4b1e0#ref=rss)
-### jeder
-
-* [https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit](https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit-a-c1a12649-8f4c-439a-9b90-08059cdbc8e2#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-registriert-2022-mehr-vermisstenfaelle-als-im-vorjahr](https://www.spiegel.de/panorama/polizei-registriert-2022-mehr-vermisstenfaelle-als-im-vorjahr-a-6a2fdab4-431e-4802-9633-63f746daa19e#ref=rss)
-### anruf
-
-* [https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit](https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit-a-c1a12649-8f4c-439a-9b90-08059cdbc8e2#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit](https://www.spiegel.de/panorama/gesellschaft/telefonseelsorge-jeder-vierte-anruf-zum-thema-einsamkeit-a-c1a12649-8f4c-439a-9b90-08059cdbc8e2#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-registriert-2022-mehr-vermisstenfaelle-als-im-vorjahr](https://www.spiegel.de/panorama/polizei-registriert-2022-mehr-vermisstenfaelle-als-im-vorjahr-a-6a2fdab4-431e-4802-9633-63f746daa19e#ref=rss)
-### harris
-
-* [https://www.spiegel.de/ausland/kamala-harris-migrantinnen-und-migranten-in-der-naehe-des-hauses-der-us-vizepraesidentin-abgesetzt](https://www.spiegel.de/ausland/kamala-harris-migrantinnen-und-migranten-in-der-naehe-des-hauses-der-us-vizepraesidentin-abgesetzt-a-d2e457ea-f4d5-4a57-9946-c44e273a236f#ref=rss)
-### washington
-
-* [https://www.spiegel.de/ausland/kamala-harris-migrantinnen-und-migranten-in-der-naehe-des-hauses-der-us-vizepraesidentin-abgesetzt](https://www.spiegel.de/ausland/kamala-harris-migrantinnen-und-migranten-in-der-naehe-des-hauses-der-us-vizepraesidentin-abgesetzt-a-d2e457ea-f4d5-4a57-9946-c44e273a236f#ref=rss)
-### somalia
-
-* [https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen](https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen-a-8878dc84-ea6d-4b3a-b33f-2490082219d7#ref=rss)
-### oft
-
-* [https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen](https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen-a-8878dc84-ea6d-4b3a-b33f-2490082219d7#ref=rss)
-### teil
-
-* [https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen](https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen-a-8878dc84-ea6d-4b3a-b33f-2490082219d7#ref=rss)
-### meiner
-
-* [https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen](https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen-a-8878dc84-ea6d-4b3a-b33f-2490082219d7#ref=rss)
-### recherchen
-
-* [https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen](https://www.spiegel.de/ausland/hunger-in-somalia-der-tod-ist-oft-teil-meiner-recherchen-a-8878dc84-ea6d-4b3a-b33f-2490082219d7#ref=rss)
-### kroatien
-
-* [https://www.spiegel.de/ausland/kroatien-fuehrt-den-euro-ein-und-wird-schengen-land](https://www.spiegel.de/ausland/kroatien-fuehrt-den-euro-ein-und-wird-schengen-land-a-ed2212d2-8ea7-4041-a9f0-63de776733c0#ref=rss)
-### jitzchak
-
-* [https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu-a-e25a0b4c-c3bc-4771-9be6-7254aa4cece7#ref=rss)
-### herzog
-
-* [https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu](https://www.spiegel.de/ausland/israel-jitzchak-herzog-in-sorge-wegen-regierung-von-benjamin-netanyahu-a-e25a0b4c-c3bc-4771-9be6-7254aa4cece7#ref=rss)
-### arlberg
-
-* [https://www.spiegel.de/panorama/oesterreich-lawine-am-arlberg-einsatzkraefte-retten-alle-vermissten](https://www.spiegel.de/panorama/oesterreich-lawine-am-arlberg-einsatzkraefte-retten-alle-vermissten-a-76ebe8ed-ee71-4675-8cb7-3a85bfe54c13#ref=rss)
-### alle
-
-* [https://www.spiegel.de/panorama/oesterreich-lawine-am-arlberg-einsatzkraefte-retten-alle-vermissten](https://www.spiegel.de/panorama/oesterreich-lawine-am-arlberg-einsatzkraefte-retten-alle-vermissten-a-76ebe8ed-ee71-4675-8cb7-3a85bfe54c13#ref=rss)
-### vermissten
-
-* [https://www.spiegel.de/panorama/oesterreich-lawine-am-arlberg-einsatzkraefte-retten-alle-vermissten](https://www.spiegel.de/panorama/oesterreich-lawine-am-arlberg-einsatzkraefte-retten-alle-vermissten-a-76ebe8ed-ee71-4675-8cb7-3a85bfe54c13#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-mord-unter-misteln-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-mord-unter-misteln-im-schnellcheck-a-ef90ff50-3bee-4c08-9d62-bf507e0acfa4#ref=rss)
 
