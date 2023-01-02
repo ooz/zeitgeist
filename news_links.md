@@ -4,354 +4,354 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### benedikt
-
-* [https://www.spiegel.de/panorama/tod-des-emeritierten-papstes-leichnam-von-benedikt-xvi-aufgebahrt](https://www.spiegel.de/panorama/tod-des-emeritierten-papstes-leichnam-von-benedikt-xvi-aufgebahrt-a-ad4eaaa3-0138-4133-a3a1-5997f333a810#ref=rss)
-* [https://www.spiegel.de/panorama/testament-von-benedikt-xvi-allen-denen-ich-irgendwie-unrecht-getan-habe](https://www.spiegel.de/panorama/testament-von-benedikt-xvi-allen-denen-ich-irgendwie-unrecht-getan-habe-a-38a8e1bd-b016-4855-9703-e3f05ebda64c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/papst-franziskus-betet-in-neujahrsmesse-fuer-benedikt-xvi](https://www.spiegel.de/panorama/leute/papst-franziskus-betet-in-neujahrsmesse-fuer-benedikt-xvi-a-1cd32180-be95-4eef-8080-fa3ddbc9931e#ref=rss)
-### xvi
-
-* [https://www.spiegel.de/panorama/tod-des-emeritierten-papstes-leichnam-von-benedikt-xvi-aufgebahrt](https://www.spiegel.de/panorama/tod-des-emeritierten-papstes-leichnam-von-benedikt-xvi-aufgebahrt-a-ad4eaaa3-0138-4133-a3a1-5997f333a810#ref=rss)
-* [https://www.spiegel.de/panorama/testament-von-benedikt-xvi-allen-denen-ich-irgendwie-unrecht-getan-habe](https://www.spiegel.de/panorama/testament-von-benedikt-xvi-allen-denen-ich-irgendwie-unrecht-getan-habe-a-38a8e1bd-b016-4855-9703-e3f05ebda64c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/papst-franziskus-betet-in-neujahrsmesse-fuer-benedikt-xvi](https://www.spiegel.de/panorama/leute/papst-franziskus-betet-in-neujahrsmesse-fuer-benedikt-xvi-a-1cd32180-be95-4eef-8080-fa3ddbc9931e#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen-a-7e159f94-d993-4302-9fe1-e8664744a529#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-verzichtet-auf-rohoel-aus-russland](https://www.spiegel.de/wirtschaft/deutschland-verzichtet-auf-rohoel-aus-russland-a-16389431-7125-4fc5-af0e-4ec8124f2fee#ref=rss)
-* [https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land](https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land-a-8ccec8e6-283e-4848-96fc-c557c7714e1d#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen](https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen-a-63af05a0-5843-45e6-9ec6-4dccab31556f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/alkohol-warum-menschen-trinken-und-wie-das-der-gesundheit-schadet](https://www.spiegel.de/wissenschaft/alkohol-warum-menschen-trinken-und-wie-das-der-gesundheit-schadet-a-c5e72ad8-beea-4e07-8f1a-88e501e2c1ea#ref=rss)
-* [https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht](https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht-a-83259917-75ff-4fe4-a07d-a34b51708006#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/wirtschaft/deutschland-verzichtet-auf-rohoel-aus-russland](https://www.spiegel.de/wirtschaft/deutschland-verzichtet-auf-rohoel-aus-russland-a-16389431-7125-4fc5-af0e-4ec8124f2fee#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato](https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato-a-3eb39fb0-f37f-47f0-b0c1-676dae1cb33c#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-klitschko-fordert-leopard-2-panzer-aus-deutschland](https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-klitschko-fordert-leopard-2-panzer-aus-deutschland-a-ba8587ac-e0aa-44d1-8f2a-bfbe3e2a7ea3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-will-solidaritaetszuschlags-abschaffen](https://www.spiegel.de/politik/deutschland/christian-lindner-will-solidaritaetszuschlags-abschaffen-a-f059a650-0d26-48e6-95ac-ca5a5cbedaa0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bundesbank-praesident-erwartet-lediglich-milden-abschwung](https://www.spiegel.de/wirtschaft/bundesbank-praesident-erwartet-lediglich-milden-abschwung-a-50b058cf-e496-48ac-baf0-f2638c0a7f23#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot](https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot-a-33a062bf-00af-4b24-bdb9-d8807feea0a9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-steigt-auf-rekordniveau](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-steigt-auf-rekordniveau-a-a71bff86-d1a7-4cc3-a0cf-c06d22eb28f0#ref=rss)
+* [https://www.spiegel.de/ausland/kanada-schraenkt-kauf-von-immobilien-durch-auslaender-weitgehend-ein](https://www.spiegel.de/ausland/kanada-schraenkt-kauf-von-immobilien-durch-auslaender-weitgehend-ein-a-e571f3de-edaf-4030-8fbe-e25363eeaba9#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen](https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen-a-7a6dd7f0-bf64-41c4-b334-1ae8cd2abdc6#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese-a-976b211d-688e-4ac1-97ab-78d47290208e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-vier-gruende-weshalb-2023-ein-gutes-jahr-werden-koennte](https://www.spiegel.de/wirtschaft/service/geldanlage-vier-gruende-weshalb-2023-ein-gutes-jahr-werden-koennte-a-a4f2236c-f13d-4a5e-b589-ff0ec9f9de5a#ref=rss)
+* [https://www.spiegel.de/politik/russlands-krieg-trumps-zukunft-soeders-plan-was-2023-wichtig-wird-podcast](https://www.spiegel.de/politik/russlands-krieg-trumps-zukunft-soeders-plan-was-2023-wichtig-wird-podcast-a-020fbd8c-0248-453d-94c8-7964c1725551#ref=rss)
 ### jahr
 
-* [https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck](https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck-a-bc7d947f-5449-443f-b2a0-51953cdb5c2e#ref=rss)
-* [https://www.spiegel.de/panorama/waermster-silvestertag-seit-beginn-der-wetteraufzeichnungen-temperaturen-ueber-20-grad](https://www.spiegel.de/panorama/waermster-silvestertag-seit-beginn-der-wetteraufzeichnungen-temperaturen-ueber-20-grad-a-23761901-feaf-4095-8da2-b6def286af82#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato](https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato-a-3eb39fb0-f37f-47f0-b0c1-676dae1cb33c#ref=rss)
-### brasilien
+* [https://www.spiegel.de/stil/rezept-fuer-chicoreesalat-mit-mandarinen](https://www.spiegel.de/stil/rezept-fuer-chicoreesalat-mit-mandarinen-a-f3d8ab8c-c0b2-428e-9fa0-2a7a36c35821#ref=rss)
+* [https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin](https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin-a-9d879a9c-3591-48f6-8f73-6aa2e270ca76#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-vier-gruende-weshalb-2023-ein-gutes-jahr-werden-koennte](https://www.spiegel.de/wirtschaft/service/geldanlage-vier-gruende-weshalb-2023-ein-gutes-jahr-werden-koennte-a-a4f2236c-f13d-4a5e-b589-ff0ec9f9de5a#ref=rss)
+* [https://www.spiegel.de/politik/russlands-krieg-trumps-zukunft-soeders-plan-was-2023-wichtig-wird-podcast](https://www.spiegel.de/politik/russlands-krieg-trumps-zukunft-soeders-plan-was-2023-wichtig-wird-podcast-a-020fbd8c-0248-453d-94c8-7964c1725551#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck](https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck-a-bc7d947f-5449-443f-b2a0-51953cdb5c2e#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-amtsantritt-von-lula-da-silva-die-rueckkehr-des-versoehners](https://www.spiegel.de/ausland/brasilien-amtsantritt-von-lula-da-silva-die-rueckkehr-des-versoehners-a-4885e09e-8bf5-4388-bde4-2058f61b131f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-luis-suarez-wechselt-nach-brasilien-vfb-verlaengert-mit-silas](https://www.spiegel.de/sport/fussball/fussball-transferticker-luis-suarez-wechselt-nach-brasilien-vfb-verlaengert-mit-silas-a-3d267ac7-aef2-43ce-9f0e-4fa7b008980f#ref=rss)
-### silvesternacht
+* [https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin](https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin-a-9d879a9c-3591-48f6-8f73-6aa2e270ca76#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-steigt-auf-rekordniveau](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-steigt-auf-rekordniveau-a-a71bff86-d1a7-4cc3-a0cf-c06d22eb28f0#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese-a-976b211d-688e-4ac1-97ab-78d47290208e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-weshalb-russland-in-der-ukraine-scheitern-muss](https://www.spiegel.de/ausland/ukraine-krieg-weshalb-russland-in-der-ukraine-scheitern-muss-a-8fa97051-f117-44d6-a8ad-2be6447516f4#ref=rss)
+### of
 
-* [https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht](https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht-a-83259917-75ff-4fe4-a07d-a34b51708006#ref=rss)
-* [https://www.spiegel.de/panorama/boellern-silvester-pyroshow-und-angriffe-auf-einsatzkraefte](https://www.spiegel.de/panorama/boellern-silvester-pyroshow-und-angriffe-auf-einsatzkraefte-a-76df2d4c-3a39-46a7-bd89-4ca3488c799a#ref=rss)
-* [https://www.spiegel.de/panorama/attacken-auf-rettungskraefte-in-der-silvesternacht-loeschen-unter-polizeischutz](https://www.spiegel.de/panorama/attacken-auf-rettungskraefte-in-der-silvesternacht-loeschen-unter-polizeischutz-a-d31489a0-d8ac-43c6-a546-86250729c69a#ref=rss)
-### karl
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen-a-7e159f94-d993-4302-9fe1-e8664744a529#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen-a-213af37e-aa2e-4345-b949-31c5d37bebbb#ref=rss)
-### geiger
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen-a-7e159f94-d993-4302-9fe1-e8664744a529#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen-a-213af37e-aa2e-4345-b949-31c5d37bebbb#ref=rss)
-### halvor
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen-a-7e159f94-d993-4302-9fe1-e8664744a529#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen-a-213af37e-aa2e-4345-b949-31c5d37bebbb#ref=rss)
-### egner
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen-a-7e159f94-d993-4302-9fe1-e8664744a529#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen-a-213af37e-aa2e-4345-b949-31c5d37bebbb#ref=rss)
-### granerud
-
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen-a-7e159f94-d993-4302-9fe1-e8664744a529#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen-a-213af37e-aa2e-4345-b949-31c5d37bebbb#ref=rss)
-### aufgebahrt
-
-* [https://www.spiegel.de/panorama/tod-des-emeritierten-papstes-leichnam-von-benedikt-xvi-aufgebahrt](https://www.spiegel.de/panorama/tod-des-emeritierten-papstes-leichnam-von-benedikt-xvi-aufgebahrt-a-ad4eaaa3-0138-4133-a3a1-5997f333a810#ref=rss)
-* [https://www.spiegel.de/panorama/leute/papst-franziskus-betet-in-neujahrsmesse-fuer-benedikt-xvi](https://www.spiegel.de/panorama/leute/papst-franziskus-betet-in-neujahrsmesse-fuer-benedikt-xvi-a-1cd32180-be95-4eef-8080-fa3ddbc9931e#ref=rss)
-### sonntag
-
-* [https://www.spiegel.de/panorama/tod-des-emeritierten-papstes-leichnam-von-benedikt-xvi-aufgebahrt](https://www.spiegel.de/panorama/tod-des-emeritierten-papstes-leichnam-von-benedikt-xvi-aufgebahrt-a-ad4eaaa3-0138-4133-a3a1-5997f333a810#ref=rss)
-* [https://www.spiegel.de/ausland/brasilien-amtsantritt-von-lula-da-silva-die-rueckkehr-des-versoehners](https://www.spiegel.de/ausland/brasilien-amtsantritt-von-lula-da-silva-die-rueckkehr-des-versoehners-a-4885e09e-8bf5-4388-bde4-2058f61b131f#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-klitschko-fordert-leopard-2-panzer-aus-deutschland](https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-klitschko-fordert-leopard-2-panzer-aus-deutschland-a-ba8587ac-e0aa-44d1-8f2a-bfbe3e2a7ea3#ref=rss)
-### erst
-
-* [https://www.spiegel.de/wirtschaft/deutschland-verzichtet-auf-rohoel-aus-russland](https://www.spiegel.de/wirtschaft/deutschland-verzichtet-auf-rohoel-aus-russland-a-16389431-7125-4fc5-af0e-4ec8124f2fee#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bundeswirtschaftsminister-robert-habeck-wirbt-fuer-frueheren-kohleausstieg-auch-im-osten](https://www.spiegel.de/wirtschaft/bundeswirtschaftsminister-robert-habeck-wirbt-fuer-frueheren-kohleausstieg-auch-im-osten-a-b36e50fc-1056-44a6-a25a-e6053e778206#ref=rss)
-* [https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden](https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden-a-b444ea66-1114-4b7b-8a94-032587b741ac#ref=rss)
+* [https://www.spiegel.de/kultur/musik/gangsta-boo-ist-tot-three-6-mafia-rapperin-mit-43-jahren-gestorben](https://www.spiegel.de/kultur/musik/gangsta-boo-ist-tot-three-6-mafia-rapperin-mit-43-jahren-gestorben-a-14e62242-8588-4ccb-a907-8600028e775e#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder](https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder-a-13e91d12-25ca-46eb-81e4-c4a721bb1e53#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub](https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub-a-1badbb75-a80e-41c7-8775-b7b6f273a916#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-klitschko-fordert-leopard-2-panzer-aus-deutschland](https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-klitschko-fordert-leopard-2-panzer-aus-deutschland-a-ba8587ac-e0aa-44d1-8f2a-bfbe3e2a7ea3#ref=rss)
-* [https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land](https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land-a-8ccec8e6-283e-4848-96fc-c557c7714e1d#ref=rss)
-### mehrere
+* [https://www.spiegel.de/reise/ethihad-vor-emirates-lufthansa-leicht-verbessert-arabische-fluglinien-sind-laut-jacdec-risikoanalyse-die-sichersten](https://www.spiegel.de/reise/ethihad-vor-emirates-lufthansa-leicht-verbessert-arabische-fluglinien-sind-laut-jacdec-risikoanalyse-die-sichersten-a-83f46798-8f4e-456d-ae8c-c2a2db7465b3#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen](https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen-a-7a6dd7f0-bf64-41c4-b334-1ae8cd2abdc6#ref=rss)
+### welt
 
-* [https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen](https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen-a-63af05a0-5843-45e6-9ec6-4dccab31556f#ref=rss)
-* [https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht](https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht-a-83259917-75ff-4fe4-a07d-a34b51708006#ref=rss)
-### verantwortlich
+* [https://www.spiegel.de/reise/ethihad-vor-emirates-lufthansa-leicht-verbessert-arabische-fluglinien-sind-laut-jacdec-risikoanalyse-die-sichersten](https://www.spiegel.de/reise/ethihad-vor-emirates-lufthansa-leicht-verbessert-arabische-fluglinien-sind-laut-jacdec-risikoanalyse-die-sichersten-a-83f46798-8f4e-456d-ae8c-c2a2db7465b3#ref=rss)
+* [https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder](https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder-a-13e91d12-25ca-46eb-81e4-c4a721bb1e53#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese-a-976b211d-688e-4ac1-97ab-78d47290208e#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen](https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen-a-63af05a0-5843-45e6-9ec6-4dccab31556f#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/ransomware-erpresser-entschuldigen-sich-bei-kinderkrankenhaus](https://www.spiegel.de/netzwelt/web/ransomware-erpresser-entschuldigen-sich-bei-kinderkrankenhaus-a-c679f746-7c88-4bbb-9b96-aee7dd4c22cc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato](https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato-a-3eb39fb0-f37f-47f0-b0c1-676dae1cb33c#ref=rss)
-### jahreswechsel
+* [https://www.spiegel.de/politik/deutschland/silvester-boeller-nancy-faeser-pocht-auf-empfindliche-freiheitsstrafen-fuer-gewalttaeter](https://www.spiegel.de/politik/deutschland/silvester-boeller-nancy-faeser-pocht-auf-empfindliche-freiheitsstrafen-fuer-gewalttaeter-a-e4ed69f7-fe65-4f9b-ad5d-408619a24ad8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-drohungen-weihnachtsmaerkte-ermittler-verdaechtigen-minderjaehrigen](https://www.spiegel.de/panorama/justiz/duesseldorf-drohungen-weihnachtsmaerkte-ermittler-verdaechtigen-minderjaehrigen-a-c2046816-9b6f-4b36-ace1-aa8be8c333cd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot](https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot-a-33a062bf-00af-4b24-bdb9-d8807feea0a9#ref=rss)
+### steuer
 
-* [https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht](https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht-a-83259917-75ff-4fe4-a07d-a34b51708006#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/grossbritannien-wegen-walross-sagt-scarborough-kurzfristig-feuerwerk-ab](https://www.spiegel.de/panorama/gesellschaft/grossbritannien-wegen-walross-sagt-scarborough-kurzfristig-feuerwerk-ab-a-775dc0b0-2f8f-4f46-8058-1ebf0af289e6#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato](https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato-a-3eb39fb0-f37f-47f0-b0c1-676dae1cb33c#ref=rss)
-### vierschanzentournee
+* [https://www.spiegel.de/panorama/justiz/bielefeld-autofahrer-haelt-mitten-auf-der-a2-und-schlaeft-ein](https://www.spiegel.de/panorama/justiz/bielefeld-autofahrer-haelt-mitten-auf-der-a2-und-schlaeft-ein-a-871063a8-68af-476d-89c8-2fcc71afb8aa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/dubai-streicht-30-prozentige-steuer-auf-alkohol](https://www.spiegel.de/wirtschaft/dubai-streicht-30-prozentige-steuer-auf-alkohol-a-59f98099-216d-4fc0-8ef5-4bf3a45e0582#ref=rss)
+### inflation
 
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen-a-7e159f94-d993-4302-9fe1-e8664744a529#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen-a-213af37e-aa2e-4345-b949-31c5d37bebbb#ref=rss)
-### großen
+* [https://www.spiegel.de/wirtschaft/bundesbank-praesident-erwartet-lediglich-milden-abschwung](https://www.spiegel.de/wirtschaft/bundesbank-praesident-erwartet-lediglich-milden-abschwung-a-50b058cf-e496-48ac-baf0-f2638c0a7f23#ref=rss)
+* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-steigt-auf-rekordniveau](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-steigt-auf-rekordniveau-a-a71bff86-d1a7-4cc3-a0cf-c06d22eb28f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-vier-gruende-weshalb-2023-ein-gutes-jahr-werden-koennte](https://www.spiegel.de/wirtschaft/service/geldanlage-vier-gruende-weshalb-2023-ein-gutes-jahr-werden-koennte-a-a4f2236c-f13d-4a5e-b589-ff0ec9f9de5a#ref=rss)
+### nacht
 
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-karl-geiger-verspielt-in-garmisch-alle-chancen-a-7e159f94-d993-4302-9fe1-e8664744a529#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen-a-213af37e-aa2e-4345-b949-31c5d37bebbb#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/kultur/gute-vorsaetze-froehlicher-rauchen](https://www.spiegel.de/kultur/gute-vorsaetze-froehlicher-rauchen-a-0b44db4a-2822-49ff-89e4-5aee89309243#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato](https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato-a-3eb39fb0-f37f-47f0-b0c1-676dae1cb33c#ref=rss)
-### tod
-
-* [https://www.spiegel.de/panorama/tod-des-emeritierten-papstes-leichnam-von-benedikt-xvi-aufgebahrt](https://www.spiegel.de/panorama/tod-des-emeritierten-papstes-leichnam-von-benedikt-xvi-aufgebahrt-a-ad4eaaa3-0138-4133-a3a1-5997f333a810#ref=rss)
-* [https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden](https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden-a-b444ea66-1114-4b7b-8a94-032587b741ac#ref=rss)
-### leichnam
-
-* [https://www.spiegel.de/panorama/tod-des-emeritierten-papstes-leichnam-von-benedikt-xvi-aufgebahrt](https://www.spiegel.de/panorama/tod-des-emeritierten-papstes-leichnam-von-benedikt-xvi-aufgebahrt-a-ad4eaaa3-0138-4133-a3a1-5997f333a810#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-glaeubige-stehen-stundenlang-fuer-aufgebahrten-ex-papst-an](https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-glaeubige-stehen-stundenlang-fuer-aufgebahrten-ex-papst-an-a-45bde9d8-96a1-4b53-9b9d-a8c7a6c550fb#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen](https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen-a-7a6dd7f0-bf64-41c4-b334-1ae8cd2abdc6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/silvester-feuerwehr-gewerkschaft-fordert-kameras-in-einsatzfahrzeugen](https://www.spiegel.de/panorama/justiz/silvester-feuerwehr-gewerkschaft-fordert-kameras-in-einsatzfahrzeugen-a-89bcba86-4a48-4681-a963-a35e6ad857ae#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/wirtschaft/deutschland-verzichtet-auf-rohoel-aus-russland](https://www.spiegel.de/wirtschaft/deutschland-verzichtet-auf-rohoel-aus-russland-a-16389431-7125-4fc5-af0e-4ec8124f2fee#ref=rss)
-### per
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen](https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen-a-7a6dd7f0-bf64-41c4-b334-1ae8cd2abdc6#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-weshalb-russland-in-der-ukraine-scheitern-muss](https://www.spiegel.de/ausland/ukraine-krieg-weshalb-russland-in-der-ukraine-scheitern-muss-a-8fa97051-f117-44d6-a8ad-2be6447516f4#ref=rss)
+* [https://www.spiegel.de/politik/russlands-krieg-trumps-zukunft-soeders-plan-was-2023-wichtig-wird-podcast](https://www.spiegel.de/politik/russlands-krieg-trumps-zukunft-soeders-plan-was-2023-wichtig-wird-podcast-a-020fbd8c-0248-453d-94c8-7964c1725551#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/wirtschaft/deutschland-verzichtet-auf-rohoel-aus-russland](https://www.spiegel.de/wirtschaft/deutschland-verzichtet-auf-rohoel-aus-russland-a-16389431-7125-4fc5-af0e-4ec8124f2fee#ref=rss)
-### gary
+* [https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts](https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts-a-9fed77a8-abf0-4840-b622-45157142653c#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese-a-976b211d-688e-4ac1-97ab-78d47290208e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/silvester-feuerwehr-gewerkschaft-fordert-kameras-in-einsatzfahrzeugen](https://www.spiegel.de/panorama/justiz/silvester-feuerwehr-gewerkschaft-fordert-kameras-in-einsatzfahrzeugen-a-89bcba86-4a48-4681-a963-a35e6ad857ae#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck](https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck-a-bc7d947f-5449-443f-b2a0-51953cdb5c2e#ref=rss)
-### mckee
+* [https://www.spiegel.de/stil/rezept-fuer-chicoreesalat-mit-mandarinen](https://www.spiegel.de/stil/rezept-fuer-chicoreesalat-mit-mandarinen-a-f3d8ab8c-c0b2-428e-9fa0-2a7a36c35821#ref=rss)
+* [https://www.spiegel.de/auto/mercedes-bmw-polestar-und-co-recycling-hype-im-fahrzeugbau-die-neuen-muell-wagen](https://www.spiegel.de/auto/mercedes-bmw-polestar-und-co-recycling-hype-im-fahrzeugbau-die-neuen-muell-wagen-a-b4cf61fd-f3e2-4fbb-8980-06504825543e#ref=rss)
+* [https://www.spiegel.de/politik/russlands-krieg-trumps-zukunft-soeders-plan-was-2023-wichtig-wird-podcast](https://www.spiegel.de/politik/russlands-krieg-trumps-zukunft-soeders-plan-was-2023-wichtig-wird-podcast-a-020fbd8c-0248-453d-94c8-7964c1725551#ref=rss)
+### energiekrise
 
-* [https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck](https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck-a-bc7d947f-5449-443f-b2a0-51953cdb5c2e#ref=rss)
-### guten
+* [https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-steigt-auf-rekordniveau](https://www.spiegel.de/wirtschaft/zahl-der-erwerbstaetigen-in-deutschland-steigt-auf-rekordniveau-a-a71bff86-d1a7-4cc3-a0cf-c06d22eb28f0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-vier-gruende-weshalb-2023-ein-gutes-jahr-werden-koennte](https://www.spiegel.de/wirtschaft/service/geldanlage-vier-gruende-weshalb-2023-ein-gutes-jahr-werden-koennte-a-a4f2236c-f13d-4a5e-b589-ff0ec9f9de5a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/aerzteverbaende-draengen-auf-zusaetzliche-finanzhilfen-fuer-krankenhaeuser](https://www.spiegel.de/wirtschaft/aerzteverbaende-draengen-auf-zusaetzliche-finanzhilfen-fuer-krankenhaeuser-a-297d77f8-60c7-46c5-9339-72c9cb39f0d1#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck](https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck-a-bc7d947f-5449-443f-b2a0-51953cdb5c2e#ref=rss)
-### zweck
+* [https://www.spiegel.de/wirtschaft/aerzteverbaende-draengen-auf-zusaetzliche-finanzhilfen-fuer-krankenhaeuser](https://www.spiegel.de/wirtschaft/aerzteverbaende-draengen-auf-zusaetzliche-finanzhilfen-fuer-krankenhaeuser-a-297d77f8-60c7-46c5-9339-72c9cb39f0d1#ref=rss)
+* [https://www.spiegel.de/ausland/kanada-schraenkt-kauf-von-immobilien-durch-auslaender-weitgehend-ein](https://www.spiegel.de/ausland/kanada-schraenkt-kauf-von-immobilien-durch-auslaender-weitgehend-ein-a-e571f3de-edaf-4030-8fbe-e25363eeaba9#ref=rss)
+### gangsta
 
-* [https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck](https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck-a-bc7d947f-5449-443f-b2a0-51953cdb5c2e#ref=rss)
-### lief
+* [https://www.spiegel.de/kultur/musik/gangsta-boo-ist-tot-three-6-mafia-rapperin-mit-43-jahren-gestorben](https://www.spiegel.de/kultur/musik/gangsta-boo-ist-tot-three-6-mafia-rapperin-mit-43-jahren-gestorben-a-14e62242-8588-4ccb-a907-8600028e775e#ref=rss)
+### boo
 
-* [https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck](https://www.spiegel.de/panorama/gary-mckee-brite-laeuft-365-marathons-in-einem-jahr-fuer-den-guten-zweck-a-bc7d947f-5449-443f-b2a0-51953cdb5c2e#ref=rss)
-* [https://www.spiegel.de/panorama/boellern-silvester-pyroshow-und-angriffe-auf-einsatzkraefte](https://www.spiegel.de/panorama/boellern-silvester-pyroshow-und-angriffe-auf-einsatzkraefte-a-76df2d4c-3a39-46a7-bd89-4ca3488c799a#ref=rss)
-### cancel
+* [https://www.spiegel.de/kultur/musik/gangsta-boo-ist-tot-three-6-mafia-rapperin-mit-43-jahren-gestorben](https://www.spiegel.de/kultur/musik/gangsta-boo-ist-tot-three-6-mafia-rapperin-mit-43-jahren-gestorben-a-14e62242-8588-4ccb-a907-8600028e775e#ref=rss)
+### 43
 
-* [https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub](https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub-a-1badbb75-a80e-41c7-8775-b7b6f273a916#ref=rss)
-### culture
+* [https://www.spiegel.de/kultur/musik/gangsta-boo-ist-tot-three-6-mafia-rapperin-mit-43-jahren-gestorben](https://www.spiegel.de/kultur/musik/gangsta-boo-ist-tot-three-6-mafia-rapperin-mit-43-jahren-gestorben-a-14e62242-8588-4ccb-a907-8600028e775e#ref=rss)
+### gestorben
 
-* [https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub](https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub-a-1badbb75-a80e-41c7-8775-b7b6f273a916#ref=rss)
-### aufpassen
+* [https://www.spiegel.de/kultur/musik/gangsta-boo-ist-tot-three-6-mafia-rapperin-mit-43-jahren-gestorben](https://www.spiegel.de/kultur/musik/gangsta-boo-ist-tot-three-6-mafia-rapperin-mit-43-jahren-gestorben-a-14e62242-8588-4ccb-a907-8600028e775e#ref=rss)
+### emirates
 
-* [https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub](https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub-a-1badbb75-a80e-41c7-8775-b7b6f273a916#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/handwerk-zentralverband-rechnet-mit-weiter-steigenden-kosten-fuer-leistungen](https://www.spiegel.de/wirtschaft/service/handwerk-zentralverband-rechnet-mit-weiter-steigenden-kosten-fuer-leistungen-a-a7b90804-d57c-47a3-83ea-95f7a94d0c6e#ref=rss)
-### sagt
+* [https://www.spiegel.de/reise/ethihad-vor-emirates-lufthansa-leicht-verbessert-arabische-fluglinien-sind-laut-jacdec-risikoanalyse-die-sichersten](https://www.spiegel.de/reise/ethihad-vor-emirates-lufthansa-leicht-verbessert-arabische-fluglinien-sind-laut-jacdec-risikoanalyse-die-sichersten-a-83f46798-8f4e-456d-ae8c-c2a2db7465b3#ref=rss)
+### lufthansa
 
-* [https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub](https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub-a-1badbb75-a80e-41c7-8775-b7b6f273a916#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/grossbritannien-wegen-walross-sagt-scarborough-kurzfristig-feuerwerk-ab](https://www.spiegel.de/panorama/gesellschaft/grossbritannien-wegen-walross-sagt-scarborough-kurzfristig-feuerwerk-ab-a-775dc0b0-2f8f-4f46-8058-1ebf0af289e6#ref=rss)
-### adrian
+* [https://www.spiegel.de/reise/ethihad-vor-emirates-lufthansa-leicht-verbessert-arabische-fluglinien-sind-laut-jacdec-risikoanalyse-die-sichersten](https://www.spiegel.de/reise/ethihad-vor-emirates-lufthansa-leicht-verbessert-arabische-fluglinien-sind-laut-jacdec-risikoanalyse-die-sichersten-a-83f46798-8f4e-456d-ae8c-c2a2db7465b3#ref=rss)
+### leicht
 
-* [https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub](https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub-a-1badbb75-a80e-41c7-8775-b7b6f273a916#ref=rss)
-### daub
+* [https://www.spiegel.de/reise/ethihad-vor-emirates-lufthansa-leicht-verbessert-arabische-fluglinien-sind-laut-jacdec-risikoanalyse-die-sichersten](https://www.spiegel.de/reise/ethihad-vor-emirates-lufthansa-leicht-verbessert-arabische-fluglinien-sind-laut-jacdec-risikoanalyse-die-sichersten-a-83f46798-8f4e-456d-ae8c-c2a2db7465b3#ref=rss)
+### verbessert
 
-* [https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub](https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub-a-1badbb75-a80e-41c7-8775-b7b6f273a916#ref=rss)
+* [https://www.spiegel.de/reise/ethihad-vor-emirates-lufthansa-leicht-verbessert-arabische-fluglinien-sind-laut-jacdec-risikoanalyse-die-sichersten](https://www.spiegel.de/reise/ethihad-vor-emirates-lufthansa-leicht-verbessert-arabische-fluglinien-sind-laut-jacdec-risikoanalyse-die-sichersten-a-83f46798-8f4e-456d-ae8c-c2a2db7465b3#ref=rss)
+### vierschanzentournee
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab-a-fe028787-9128-4d83-9700-4d397b3efb6d#ref=rss)
+### trainer
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab-a-fe028787-9128-4d83-9700-4d397b3efb6d#ref=rss)
+### stefan
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab-a-fe028787-9128-4d83-9700-4d397b3efb6d#ref=rss)
+### horngacher
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab-a-fe028787-9128-4d83-9700-4d397b3efb6d#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub](https://www.spiegel.de/ausland/cancel-culture-natuerlich-muss-man-aufpassen-was-man-sagt-interview-mit-adrian-daub-a-1badbb75-a80e-41c7-8775-b7b6f273a916#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/handwerk-zentralverband-rechnet-mit-weiter-steigenden-kosten-fuer-leistungen](https://www.spiegel.de/wirtschaft/service/handwerk-zentralverband-rechnet-mit-weiter-steigenden-kosten-fuer-leistungen-a-a7b90804-d57c-47a3-83ea-95f7a94d0c6e#ref=rss)
-### tote
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab-a-fe028787-9128-4d83-9700-4d397b3efb6d#ref=rss)
+### vorzeitig
 
-* [https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen](https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen-a-63af05a0-5843-45e6-9ec6-4dccab31556f#ref=rss)
-* [https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht](https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht-a-83259917-75ff-4fe4-a07d-a34b51708006#ref=rss)
-### verletzte
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab-a-fe028787-9128-4d83-9700-4d397b3efb6d#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-superstar-tom-brady-steht-zum-14-mal-in-folge-in-den-playoffs](https://www.spiegel.de/sport/american-football/nfl-superstar-tom-brady-steht-zum-14-mal-in-folge-in-den-playoffs-a-6a54afd0-3349-402b-b675-ede3181990b5#ref=rss)
+### bisher
 
-* [https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen](https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen-a-63af05a0-5843-45e6-9ec6-4dccab31556f#ref=rss)
-* [https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht](https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht-a-83259917-75ff-4fe4-a07d-a34b51708006#ref=rss)
-### explosion
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-trainer-stefan-horngacher-hakt-deutschen-gesamtsieg-vorzeitig-ab-a-fe028787-9128-4d83-9700-4d397b3efb6d#ref=rss)
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-ist-nach-seiner-langen-verletzung-noch-nicht-wieder-topfit](https://www.spiegel.de/sport/tennis/alexander-zverev-ist-nach-seiner-langen-verletzung-noch-nicht-wieder-topfit-a-34c35c43-9cd7-438b-8c72-934a04b3baba#ref=rss)
+### international
 
-* [https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen](https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen-a-63af05a0-5843-45e6-9ec6-4dccab31556f#ref=rss)
-### kabuler
+* [https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder](https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder-a-13e91d12-25ca-46eb-81e4-c4a721bb1e53#ref=rss)
+### landscape
 
-* [https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen](https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen-a-63af05a0-5843-45e6-9ec6-4dccab31556f#ref=rss)
-### militärflughafen
+* [https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder](https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder-a-13e91d12-25ca-46eb-81e4-c4a721bb1e53#ref=rss)
+### photographer
 
-* [https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen](https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen-a-63af05a0-5843-45e6-9ec6-4dccab31556f#ref=rss)
-### starben
+* [https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder](https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder-a-13e91d12-25ca-46eb-81e4-c4a721bb1e53#ref=rss)
+### the
 
-* [https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen](https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen-a-63af05a0-5843-45e6-9ec6-4dccab31556f#ref=rss)
-* [https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht](https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht-a-83259917-75ff-4fe4-a07d-a34b51708006#ref=rss)
-### verletzt
+* [https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder](https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder-a-13e91d12-25ca-46eb-81e4-c4a721bb1e53#ref=rss)
+### year
 
-* [https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen](https://www.spiegel.de/ausland/kabul-tote-und-verletzte-nach-explosion-am-kabuler-militaerflughafen-a-63af05a0-5843-45e6-9ec6-4dccab31556f#ref=rss)
-* [https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht](https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht-a-83259917-75ff-4fe4-a07d-a34b51708006#ref=rss)
-### maskenpflicht
+* [https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder](https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder-a-13e91d12-25ca-46eb-81e4-c4a721bb1e53#ref=rss)
+### awards
 
-* [https://www.spiegel.de/politik/deutschland/corona-und-maskenpflicht-ampel-ringt-um-ende-des-infektionsschutzgesetzes](https://www.spiegel.de/politik/deutschland/corona-und-maskenpflicht-ampel-ringt-um-ende-des-infektionsschutzgesetzes-a-fa747d6e-47b1-4746-bc0f-5c7901954ab0#ref=rss)
-### infektionsschutzgesetzes
+* [https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder](https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder-a-13e91d12-25ca-46eb-81e4-c4a721bb1e53#ref=rss)
+### besten
 
-* [https://www.spiegel.de/politik/deutschland/corona-und-maskenpflicht-ampel-ringt-um-ende-des-infektionsschutzgesetzes](https://www.spiegel.de/politik/deutschland/corona-und-maskenpflicht-ampel-ringt-um-ende-des-infektionsschutzgesetzes-a-fa747d6e-47b1-4746-bc0f-5c7901954ab0#ref=rss)
-### entschuldigen
+* [https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder](https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder-a-13e91d12-25ca-46eb-81e4-c4a721bb1e53#ref=rss)
+### bilder
 
-* [https://www.spiegel.de/netzwelt/web/ransomware-erpresser-entschuldigen-sich-bei-kinderkrankenhaus](https://www.spiegel.de/netzwelt/web/ransomware-erpresser-entschuldigen-sich-bei-kinderkrankenhaus-a-c679f746-7c88-4bbb-9b96-aee7dd4c22cc#ref=rss)
-### kinderkrankenhaus
+* [https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder](https://www.spiegel.de/reise/fernweh/international-landscape-photographer-of-the-year-awards-die-besten-bilder-a-13e91d12-25ca-46eb-81e4-c4a721bb1e53#ref=rss)
+### faeser
 
-* [https://www.spiegel.de/netzwelt/web/ransomware-erpresser-entschuldigen-sich-bei-kinderkrankenhaus](https://www.spiegel.de/netzwelt/web/ransomware-erpresser-entschuldigen-sich-bei-kinderkrankenhaus-a-c679f746-7c88-4bbb-9b96-aee7dd4c22cc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/silvester-boeller-nancy-faeser-pocht-auf-empfindliche-freiheitsstrafen-fuer-gewalttaeter](https://www.spiegel.de/politik/deutschland/silvester-boeller-nancy-faeser-pocht-auf-empfindliche-freiheitsstrafen-fuer-gewalttaeter-a-e4ed69f7-fe65-4f9b-ad5d-408619a24ad8#ref=rss)
+### drängt
+
+* [https://www.spiegel.de/politik/deutschland/silvester-boeller-nancy-faeser-pocht-auf-empfindliche-freiheitsstrafen-fuer-gewalttaeter](https://www.spiegel.de/politik/deutschland/silvester-boeller-nancy-faeser-pocht-auf-empfindliche-freiheitsstrafen-fuer-gewalttaeter-a-e4ed69f7-fe65-4f9b-ad5d-408619a24ad8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot](https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot-a-33a062bf-00af-4b24-bdb9-d8807feea0a9#ref=rss)
+### silvester
+
+* [https://www.spiegel.de/politik/deutschland/silvester-boeller-nancy-faeser-pocht-auf-empfindliche-freiheitsstrafen-fuer-gewalttaeter](https://www.spiegel.de/politik/deutschland/silvester-boeller-nancy-faeser-pocht-auf-empfindliche-freiheitsstrafen-fuer-gewalttaeter-a-e4ed69f7-fe65-4f9b-ad5d-408619a24ad8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/silvester-feuerwehr-gewerkschaft-fordert-kameras-in-einsatzfahrzeugen](https://www.spiegel.de/panorama/justiz/silvester-feuerwehr-gewerkschaft-fordert-kameras-in-einsatzfahrzeugen-a-89bcba86-4a48-4681-a963-a35e6ad857ae#ref=rss)
+### feuerwehr
+
+* [https://www.spiegel.de/politik/deutschland/silvester-boeller-nancy-faeser-pocht-auf-empfindliche-freiheitsstrafen-fuer-gewalttaeter](https://www.spiegel.de/politik/deutschland/silvester-boeller-nancy-faeser-pocht-auf-empfindliche-freiheitsstrafen-fuer-gewalttaeter-a-e4ed69f7-fe65-4f9b-ad5d-408619a24ad8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot](https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot-a-33a062bf-00af-4b24-bdb9-d8807feea0a9#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-will-solidaritaetszuschlags-abschaffen](https://www.spiegel.de/politik/deutschland/christian-lindner-will-solidaritaetszuschlags-abschaffen-a-f059a650-0d26-48e6-95ac-ca5a5cbedaa0#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/politik/deutschland/christian-lindner-will-solidaritaetszuschlags-abschaffen](https://www.spiegel.de/politik/deutschland/christian-lindner-will-solidaritaetszuschlags-abschaffen-a-f059a650-0d26-48e6-95ac-ca5a5cbedaa0#ref=rss)
+* [https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts](https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts-a-9fed77a8-abf0-4840-b622-45157142653c#ref=rss)
+### a2
+
+* [https://www.spiegel.de/panorama/justiz/bielefeld-autofahrer-haelt-mitten-auf-der-a2-und-schlaeft-ein](https://www.spiegel.de/panorama/justiz/bielefeld-autofahrer-haelt-mitten-auf-der-a2-und-schlaeft-ein-a-871063a8-68af-476d-89c8-2fcc71afb8aa#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/bielefeld-autofahrer-haelt-mitten-auf-der-a2-und-schlaeft-ein](https://www.spiegel.de/panorama/justiz/bielefeld-autofahrer-haelt-mitten-auf-der-a2-und-schlaeft-ein-a-871063a8-68af-476d-89c8-2fcc71afb8aa#ref=rss)
+* [https://www.spiegel.de/panorama/leute/jeremy-renner-in-kritischem-aber-stabilem-zustand-unfall-beim-schneeraeumen](https://www.spiegel.de/panorama/leute/jeremy-renner-in-kritischem-aber-stabilem-zustand-unfall-beim-schneeraeumen-a-3d8f444f-e5b2-4680-90a4-f3c8cc8f2434#ref=rss)
+### vielen
+
+* [https://www.spiegel.de/wirtschaft/bundesbank-praesident-erwartet-lediglich-milden-abschwung](https://www.spiegel.de/wirtschaft/bundesbank-praesident-erwartet-lediglich-milden-abschwung-a-50b058cf-e496-48ac-baf0-f2638c0a7f23#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot](https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot-a-33a062bf-00af-4b24-bdb9-d8807feea0a9#ref=rss)
+### benedikt
+
+* [https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-glaeubige-stehen-stundenlang-fuer-aufgebahrten-ex-papst-an](https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-glaeubige-stehen-stundenlang-fuer-aufgebahrten-ex-papst-an-a-45bde9d8-96a1-4b53-9b9d-a8c7a6c550fb#ref=rss)
+### xvi
+
+* [https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-glaeubige-stehen-stundenlang-fuer-aufgebahrten-ex-papst-an](https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-glaeubige-stehen-stundenlang-fuer-aufgebahrten-ex-papst-an-a-45bde9d8-96a1-4b53-9b9d-a8c7a6c550fb#ref=rss)
+### viele
+
+* [https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-glaeubige-stehen-stundenlang-fuer-aufgebahrten-ex-papst-an](https://www.spiegel.de/panorama/gesellschaft/benedikt-xvi-glaeubige-stehen-stundenlang-fuer-aufgebahrten-ex-papst-an-a-45bde9d8-96a1-4b53-9b9d-a8c7a6c550fb#ref=rss)
+* [https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts](https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts-a-9fed77a8-abf0-4840-b622-45157142653c#ref=rss)
+### dubai
+
+* [https://www.spiegel.de/wirtschaft/dubai-streicht-30-prozentige-steuer-auf-alkohol](https://www.spiegel.de/wirtschaft/dubai-streicht-30-prozentige-steuer-auf-alkohol-a-59f98099-216d-4fc0-8ef5-4bf3a45e0582#ref=rss)
 ### alkohol
 
-* [https://www.spiegel.de/wissenschaft/alkohol-warum-menschen-trinken-und-wie-das-der-gesundheit-schadet](https://www.spiegel.de/wissenschaft/alkohol-warum-menschen-trinken-und-wie-das-der-gesundheit-schadet-a-c5e72ad8-beea-4e07-8f1a-88e501e2c1ea#ref=rss)
-### alten
+* [https://www.spiegel.de/wirtschaft/dubai-streicht-30-prozentige-steuer-auf-alkohol](https://www.spiegel.de/wirtschaft/dubai-streicht-30-prozentige-steuer-auf-alkohol-a-59f98099-216d-4fc0-8ef5-4bf3a45e0582#ref=rss)
+### ausländer
 
-* [https://www.spiegel.de/wissenschaft/alkohol-warum-menschen-trinken-und-wie-das-der-gesundheit-schadet](https://www.spiegel.de/wissenschaft/alkohol-warum-menschen-trinken-und-wie-das-der-gesundheit-schadet-a-c5e72ad8-beea-4e07-8f1a-88e501e2c1ea#ref=rss)
-* [https://www.spiegel.de/panorama/testament-von-benedikt-xvi-allen-denen-ich-irgendwie-unrecht-getan-habe](https://www.spiegel.de/panorama/testament-von-benedikt-xvi-allen-denen-ich-irgendwie-unrecht-getan-habe-a-38a8e1bd-b016-4855-9703-e3f05ebda64c#ref=rss)
-### ebenso
+* [https://www.spiegel.de/wirtschaft/dubai-streicht-30-prozentige-steuer-auf-alkohol](https://www.spiegel.de/wirtschaft/dubai-streicht-30-prozentige-steuer-auf-alkohol-a-59f98099-216d-4fc0-8ef5-4bf3a45e0582#ref=rss)
+* [https://www.spiegel.de/ausland/kanada-schraenkt-kauf-von-immobilien-durch-auslaender-weitgehend-ein](https://www.spiegel.de/ausland/kanada-schraenkt-kauf-von-immobilien-durch-auslaender-weitgehend-ein-a-e571f3de-edaf-4030-8fbe-e25363eeaba9#ref=rss)
+### schafft
 
-* [https://www.spiegel.de/wissenschaft/alkohol-warum-menschen-trinken-und-wie-das-der-gesundheit-schadet](https://www.spiegel.de/wissenschaft/alkohol-warum-menschen-trinken-und-wie-das-der-gesundheit-schadet-a-c5e72ad8-beea-4e07-8f1a-88e501e2c1ea#ref=rss)
-* [https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land](https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land-a-8ccec8e6-283e-4848-96fc-c557c7714e1d#ref=rss)
-### lula
+* [https://www.spiegel.de/wirtschaft/dubai-streicht-30-prozentige-steuer-auf-alkohol](https://www.spiegel.de/wirtschaft/dubai-streicht-30-prozentige-steuer-auf-alkohol-a-59f98099-216d-4fc0-8ef5-4bf3a45e0582#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese-a-976b211d-688e-4ac1-97ab-78d47290208e#ref=rss)
+### drohnen
 
-* [https://www.spiegel.de/ausland/brasilien-amtsantritt-von-lula-da-silva-die-rueckkehr-des-versoehners](https://www.spiegel.de/ausland/brasilien-amtsantritt-von-lula-da-silva-die-rueckkehr-des-versoehners-a-4885e09e-8bf5-4388-bde4-2058f61b131f#ref=rss)
-### präsident
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen](https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen-a-7a6dd7f0-bf64-41c4-b334-1ae8cd2abdc6#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/brasilien-amtsantritt-von-lula-da-silva-die-rueckkehr-des-versoehners](https://www.spiegel.de/ausland/brasilien-amtsantritt-von-lula-da-silva-die-rueckkehr-des-versoehners-a-4885e09e-8bf5-4388-bde4-2058f61b131f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/handwerk-zentralverband-rechnet-mit-weiter-steigenden-kosten-fuer-leistungen](https://www.spiegel.de/wirtschaft/service/handwerk-zentralverband-rechnet-mit-weiter-steigenden-kosten-fuer-leistungen-a-a7b90804-d57c-47a3-83ea-95f7a94d0c6e#ref=rss)
-### diesem
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen](https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen-a-7a6dd7f0-bf64-41c4-b334-1ae8cd2abdc6#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-weshalb-russland-in-der-ukraine-scheitern-muss](https://www.spiegel.de/ausland/ukraine-krieg-weshalb-russland-in-der-ukraine-scheitern-muss-a-8fa97051-f117-44d6-a8ad-2be6447516f4#ref=rss)
+### folge
 
-* [https://www.spiegel.de/ausland/brasilien-amtsantritt-von-lula-da-silva-die-rueckkehr-des-versoehners](https://www.spiegel.de/ausland/brasilien-amtsantritt-von-lula-da-silva-die-rueckkehr-des-versoehners-a-4885e09e-8bf5-4388-bde4-2058f61b131f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato](https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato-a-3eb39fb0-f37f-47f0-b0c1-676dae1cb33c#ref=rss)
-### alte
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen](https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen-a-7a6dd7f0-bf64-41c4-b334-1ae8cd2abdc6#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-superstar-tom-brady-steht-zum-14-mal-in-folge-in-den-playoffs](https://www.spiegel.de/sport/american-football/nfl-superstar-tom-brady-steht-zum-14-mal-in-folge-in-den-playoffs-a-6a54afd0-3349-402b-b675-ede3181990b5#ref=rss)
+### konnte
 
-* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen](https://www.spiegel.de/sport/wintersport/vierschanzentournee-halvor-egner-granerud-gewinnt-das-neujahrsspringen-a-213af37e-aa2e-4345-b949-31c5d37bebbb#ref=rss)
-* [https://www.spiegel.de/panorama/waermster-silvestertag-seit-beginn-der-wetteraufzeichnungen-temperaturen-ueber-20-grad](https://www.spiegel.de/panorama/waermster-silvestertag-seit-beginn-der-wetteraufzeichnungen-temperaturen-ueber-20-grad-a-23761901-feaf-4095-8da2-b6def286af82#ref=rss)
-### zwei
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen](https://www.spiegel.de/ausland/ukraine-news-am-montag-kiews-militaer-meldet-abschuss-von-39-iranischen-drohnen-a-7a6dd7f0-bf64-41c4-b334-1ae8cd2abdc6#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/australien-polizist-rettet-seinen-sohn-aus-dem-meer-und-ertrinkt](https://www.spiegel.de/panorama/justiz/australien-polizist-rettet-seinen-sohn-aus-dem-meer-und-ertrinkt-a-d68cd535-16db-47c6-bace-d952722220af#ref=rss)
+### städte
 
-* [https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht](https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht-a-83259917-75ff-4fe4-a07d-a34b51708006#ref=rss)
-### knallern
+* [https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts](https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts-a-9fed77a8-abf0-4840-b622-45157142653c#ref=rss)
+### tempo
 
-* [https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht](https://www.spiegel.de/panorama/mehrere-verletzte-und-zwei-tote-in-der-silvesternacht-a-83259917-75ff-4fe4-a07d-a34b51708006#ref=rss)
-* [https://www.spiegel.de/panorama/attacken-auf-rettungskraefte-in-der-silvesternacht-loeschen-unter-polizeischutz](https://www.spiegel.de/panorama/attacken-auf-rettungskraefte-in-der-silvesternacht-loeschen-unter-polizeischutz-a-d31489a0-d8ac-43c6-a546-86250729c69a#ref=rss)
+* [https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts](https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts-a-9fed77a8-abf0-4840-b622-45157142653c#ref=rss)
+### innerorts
+
+* [https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts](https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts-a-9fed77a8-abf0-4840-b622-45157142653c#ref=rss)
+### ändern
+
+* [https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts](https://www.spiegel.de/auto/tempolimit-360-deutsche-staedte-und-gemeinden-unterstuetzen-tempo-30-innerorts-a-9fed77a8-abf0-4840-b622-45157142653c#ref=rss)
+* [https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin](https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin-a-9d879a9c-3591-48f6-8f73-6aa2e270ca76#ref=rss)
+### düsseldorf
+
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-drohungen-weihnachtsmaerkte-ermittler-verdaechtigen-minderjaehrigen](https://www.spiegel.de/panorama/justiz/duesseldorf-drohungen-weihnachtsmaerkte-ermittler-verdaechtigen-minderjaehrigen-a-c2046816-9b6f-4b36-ace1-aa8be8c333cd#ref=rss)
+### weihnachtsmärkte
+
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-drohungen-weihnachtsmaerkte-ermittler-verdaechtigen-minderjaehrigen](https://www.spiegel.de/panorama/justiz/duesseldorf-drohungen-weihnachtsmaerkte-ermittler-verdaechtigen-minderjaehrigen-a-c2046816-9b6f-4b36-ace1-aa8be8c333cd#ref=rss)
+### verdächtigen
+
+* [https://www.spiegel.de/panorama/justiz/duesseldorf-drohungen-weihnachtsmaerkte-ermittler-verdaechtigen-minderjaehrigen](https://www.spiegel.de/panorama/justiz/duesseldorf-drohungen-weihnachtsmaerkte-ermittler-verdaechtigen-minderjaehrigen-a-c2046816-9b6f-4b36-ace1-aa8be8c333cd#ref=rss)
+### chicoréesalat
+
+* [https://www.spiegel.de/stil/rezept-fuer-chicoreesalat-mit-mandarinen](https://www.spiegel.de/stil/rezept-fuer-chicoreesalat-mit-mandarinen-a-f3d8ab8c-c0b2-428e-9fa0-2a7a36c35821#ref=rss)
+### mandarinen
+
+* [https://www.spiegel.de/stil/rezept-fuer-chicoreesalat-mit-mandarinen](https://www.spiegel.de/stil/rezept-fuer-chicoreesalat-mit-mandarinen-a-f3d8ab8c-c0b2-428e-9fa0-2a7a36c35821#ref=rss)
+### wenig
+
+* [https://www.spiegel.de/stil/rezept-fuer-chicoreesalat-mit-mandarinen](https://www.spiegel.de/stil/rezept-fuer-chicoreesalat-mit-mandarinen-a-f3d8ab8c-c0b2-428e-9fa0-2a7a36c35821#ref=rss)
+* [https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin](https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin-a-9d879a9c-3591-48f6-8f73-6aa2e270ca76#ref=rss)
+### einmal
+
+* [https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin](https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin-a-9d879a9c-3591-48f6-8f73-6aa2e270ca76#ref=rss)
+* [https://www.spiegel.de/sport/american-football/nfl-superstar-tom-brady-steht-zum-14-mal-in-folge-in-den-playoffs](https://www.spiegel.de/sport/american-football/nfl-superstar-tom-brady-steht-zum-14-mal-in-folge-in-den-playoffs-a-6a54afd0-3349-402b-b675-ede3181990b5#ref=rss)
+### gute
+
+* [https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin](https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin-a-9d879a9c-3591-48f6-8f73-6aa2e270ca76#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-vier-gruende-weshalb-2023-ein-gutes-jahr-werden-koennte](https://www.spiegel.de/wirtschaft/service/geldanlage-vier-gruende-weshalb-2023-ein-gutes-jahr-werden-koennte-a-a4f2236c-f13d-4a5e-b589-ff0ec9f9de5a#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin](https://www.spiegel.de/karriere/was-muesste-sich-aendern-damit-ich-im-job-zufrieden-bin-a-9d879a9c-3591-48f6-8f73-6aa2e270ca76#ref=rss)
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese-a-976b211d-688e-4ac1-97ab-78d47290208e#ref=rss)
+### böllerverbot
+
+* [https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot](https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot-a-33a062bf-00af-4b24-bdb9-d8807feea0a9#ref=rss)
+### klaus
+
+* [https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot](https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot-a-33a062bf-00af-4b24-bdb9-d8807feea0a9#ref=rss)
+### lederer
+
+* [https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot](https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot-a-33a062bf-00af-4b24-bdb9-d8807feea0a9#ref=rss)
 ### angriffe
 
-* [https://www.spiegel.de/panorama/boellern-silvester-pyroshow-und-angriffe-auf-einsatzkraefte](https://www.spiegel.de/panorama/boellern-silvester-pyroshow-und-angriffe-auf-einsatzkraefte-a-76df2d4c-3a39-46a7-bd89-4ca3488c799a#ref=rss)
-* [https://www.spiegel.de/sport/fussball/real-madrid-vinicius-junior-kritisiert-la-liga-nach-rassismusvorfaellen](https://www.spiegel.de/sport/fussball/real-madrid-vinicius-junior-kritisiert-la-liga-nach-rassismusvorfaellen-a-f6aba432-524d-4a2b-a2f8-be87fd43b1a8#ref=rss)
-### feuerwerk
+* [https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot](https://www.spiegel.de/politik/deutschland/boellerverbot-klaus-lederer-draengt-auf-bundesweites-verkaufsverbot-a-33a062bf-00af-4b24-bdb9-d8807feea0a9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/silvester-feuerwehr-gewerkschaft-fordert-kameras-in-einsatzfahrzeugen](https://www.spiegel.de/panorama/justiz/silvester-feuerwehr-gewerkschaft-fordert-kameras-in-einsatzfahrzeugen-a-89bcba86-4a48-4681-a963-a35e6ad857ae#ref=rss)
+### jeremy
 
-* [https://www.spiegel.de/panorama/boellern-silvester-pyroshow-und-angriffe-auf-einsatzkraefte](https://www.spiegel.de/panorama/boellern-silvester-pyroshow-und-angriffe-auf-einsatzkraefte-a-76df2d4c-3a39-46a7-bd89-4ca3488c799a#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/grossbritannien-wegen-walross-sagt-scarborough-kurzfristig-feuerwerk-ab](https://www.spiegel.de/panorama/gesellschaft/grossbritannien-wegen-walross-sagt-scarborough-kurzfristig-feuerwerk-ab-a-775dc0b0-2f8f-4f46-8058-1ebf0af289e6#ref=rss)
-### real
+* [https://www.spiegel.de/panorama/leute/jeremy-renner-in-kritischem-aber-stabilem-zustand-unfall-beim-schneeraeumen](https://www.spiegel.de/panorama/leute/jeremy-renner-in-kritischem-aber-stabilem-zustand-unfall-beim-schneeraeumen-a-3d8f444f-e5b2-4680-90a4-f3c8cc8f2434#ref=rss)
+### renner
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-vinicius-junior-kritisiert-la-liga-nach-rassismusvorfaellen](https://www.spiegel.de/sport/fussball/real-madrid-vinicius-junior-kritisiert-la-liga-nach-rassismusvorfaellen-a-f6aba432-524d-4a2b-a2f8-be87fd43b1a8#ref=rss)
-### vinícius
+* [https://www.spiegel.de/panorama/leute/jeremy-renner-in-kritischem-aber-stabilem-zustand-unfall-beim-schneeraeumen](https://www.spiegel.de/panorama/leute/jeremy-renner-in-kritischem-aber-stabilem-zustand-unfall-beim-schneeraeumen-a-3d8f444f-e5b2-4680-90a4-f3c8cc8f2434#ref=rss)
+### schauspieler
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-vinicius-junior-kritisiert-la-liga-nach-rassismusvorfaellen](https://www.spiegel.de/sport/fussball/real-madrid-vinicius-junior-kritisiert-la-liga-nach-rassismusvorfaellen-a-f6aba432-524d-4a2b-a2f8-be87fd43b1a8#ref=rss)
-### júnior
+* [https://www.spiegel.de/panorama/leute/jeremy-renner-in-kritischem-aber-stabilem-zustand-unfall-beim-schneeraeumen](https://www.spiegel.de/panorama/leute/jeremy-renner-in-kritischem-aber-stabilem-zustand-unfall-beim-schneeraeumen-a-3d8f444f-e5b2-4680-90a4-f3c8cc8f2434#ref=rss)
+### unfall
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-vinicius-junior-kritisiert-la-liga-nach-rassismusvorfaellen](https://www.spiegel.de/sport/fussball/real-madrid-vinicius-junior-kritisiert-la-liga-nach-rassismusvorfaellen-a-f6aba432-524d-4a2b-a2f8-be87fd43b1a8#ref=rss)
-### liga
+* [https://www.spiegel.de/panorama/leute/jeremy-renner-in-kritischem-aber-stabilem-zustand-unfall-beim-schneeraeumen](https://www.spiegel.de/panorama/leute/jeremy-renner-in-kritischem-aber-stabilem-zustand-unfall-beim-schneeraeumen-a-3d8f444f-e5b2-4680-90a4-f3c8cc8f2434#ref=rss)
+### gabriel
 
-* [https://www.spiegel.de/sport/fussball/real-madrid-vinicius-junior-kritisiert-la-liga-nach-rassismusvorfaellen](https://www.spiegel.de/sport/fussball/real-madrid-vinicius-junior-kritisiert-la-liga-nach-rassismusvorfaellen-a-f6aba432-524d-4a2b-a2f8-be87fd43b1a8#ref=rss)
-### tatort
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese-a-976b211d-688e-4ac1-97ab-78d47290208e#ref=rss)
+### clemens
 
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-schutzmassnahmen-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-schutzmassnahmen-im-schnellcheck-a-caf27312-e797-4ae2-8a9f-3a5471f915db#ref=rss)
-### bundeswirtschaftsminister
+* [https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese](https://www.spiegel.de/sport/darts-wm-2023-gabriel-clemens-nach-sieg-gegen-gerwyn-price-jetzt-ist-er-wirklich-ein-riese-a-976b211d-688e-4ac1-97ab-78d47290208e#ref=rss)
+### tom
 
-* [https://www.spiegel.de/wirtschaft/bundeswirtschaftsminister-robert-habeck-wirbt-fuer-frueheren-kohleausstieg-auch-im-osten](https://www.spiegel.de/wirtschaft/bundeswirtschaftsminister-robert-habeck-wirbt-fuer-frueheren-kohleausstieg-auch-im-osten-a-b36e50fc-1056-44a6-a25a-e6053e778206#ref=rss)
-### werde
+* [https://www.spiegel.de/sport/american-football/nfl-superstar-tom-brady-steht-zum-14-mal-in-folge-in-den-playoffs](https://www.spiegel.de/sport/american-football/nfl-superstar-tom-brady-steht-zum-14-mal-in-folge-in-den-playoffs-a-6a54afd0-3349-402b-b675-ede3181990b5#ref=rss)
+### brady
 
-* [https://www.spiegel.de/wirtschaft/bundeswirtschaftsminister-robert-habeck-wirbt-fuer-frueheren-kohleausstieg-auch-im-osten](https://www.spiegel.de/wirtschaft/bundeswirtschaftsminister-robert-habeck-wirbt-fuer-frueheren-kohleausstieg-auch-im-osten-a-b36e50fc-1056-44a6-a25a-e6053e778206#ref=rss)
-* [https://www.spiegel.de/kultur/negativ-auszeichnung-sprachkritiker-waehlen-freiheit-zur-floskel-des-jahres](https://www.spiegel.de/kultur/negativ-auszeichnung-sprachkritiker-waehlen-freiheit-zur-floskel-des-jahres-a-706e5dff-88b9-4ba6-88aa-bb6e7707dcab#ref=rss)
-### idaho
+* [https://www.spiegel.de/sport/american-football/nfl-superstar-tom-brady-steht-zum-14-mal-in-folge-in-den-playoffs](https://www.spiegel.de/sport/american-football/nfl-superstar-tom-brady-steht-zum-14-mal-in-folge-in-den-playoffs-a-6a54afd0-3349-402b-b675-ede3181990b5#ref=rss)
+### christine
 
-* [https://www.spiegel.de/panorama/idaho-fbi-soll-festgenommenen-doktoranden-tagelang-beschattet-haben](https://www.spiegel.de/panorama/idaho-fbi-soll-festgenommenen-doktoranden-tagelang-beschattet-haben-a-c644dd46-8180-43e2-aadf-697fbf95e0bf#ref=rss)
-### vier
+* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-cdu-politiker-laestern-ueber-neujahrsbotschaft-der-bundesministerin](https://www.spiegel.de/politik/deutschland/christine-lambrecht-cdu-politiker-laestern-ueber-neujahrsbotschaft-der-bundesministerin-a-24c1f86f-feaa-40d6-a664-c223e95e3bf2#ref=rss)
+### lambrecht
 
-* [https://www.spiegel.de/panorama/idaho-fbi-soll-festgenommenen-doktoranden-tagelang-beschattet-haben](https://www.spiegel.de/panorama/idaho-fbi-soll-festgenommenen-doktoranden-tagelang-beschattet-haben-a-c644dd46-8180-43e2-aadf-697fbf95e0bf#ref=rss)
-* [https://www.spiegel.de/panorama/waermster-silvestertag-seit-beginn-der-wetteraufzeichnungen-temperaturen-ueber-20-grad](https://www.spiegel.de/panorama/waermster-silvestertag-seit-beginn-der-wetteraufzeichnungen-temperaturen-ueber-20-grad-a-23761901-feaf-4095-8da2-b6def286af82#ref=rss)
-### erste
+* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-cdu-politiker-laestern-ueber-neujahrsbotschaft-der-bundesministerin](https://www.spiegel.de/politik/deutschland/christine-lambrecht-cdu-politiker-laestern-ueber-neujahrsbotschaft-der-bundesministerin-a-24c1f86f-feaa-40d6-a664-c223e95e3bf2#ref=rss)
+### verteidigungsministerin
 
-* [https://www.spiegel.de/panorama/idaho-fbi-soll-festgenommenen-doktoranden-tagelang-beschattet-haben](https://www.spiegel.de/panorama/idaho-fbi-soll-festgenommenen-doktoranden-tagelang-beschattet-haben-a-c644dd46-8180-43e2-aadf-697fbf95e0bf#ref=rss)
-* [https://www.spiegel.de/panorama/attacken-auf-rettungskraefte-in-der-silvesternacht-loeschen-unter-polizeischutz](https://www.spiegel.de/panorama/attacken-auf-rettungskraefte-in-der-silvesternacht-loeschen-unter-polizeischutz-a-d31489a0-d8ac-43c6-a546-86250729c69a#ref=rss)
-### bekannt
+* [https://www.spiegel.de/politik/deutschland/christine-lambrecht-cdu-politiker-laestern-ueber-neujahrsbotschaft-der-bundesministerin](https://www.spiegel.de/politik/deutschland/christine-lambrecht-cdu-politiker-laestern-ueber-neujahrsbotschaft-der-bundesministerin-a-24c1f86f-feaa-40d6-a664-c223e95e3bf2#ref=rss)
+### weshalb
 
-* [https://www.spiegel.de/panorama/idaho-fbi-soll-festgenommenen-doktoranden-tagelang-beschattet-haben](https://www.spiegel.de/panorama/idaho-fbi-soll-festgenommenen-doktoranden-tagelang-beschattet-haben-a-c644dd46-8180-43e2-aadf-697fbf95e0bf#ref=rss)
-* [https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden](https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden-a-b444ea66-1114-4b7b-8a94-032587b741ac#ref=rss)
-### walross
+* [https://www.spiegel.de/wirtschaft/service/geldanlage-vier-gruende-weshalb-2023-ein-gutes-jahr-werden-koennte](https://www.spiegel.de/wirtschaft/service/geldanlage-vier-gruende-weshalb-2023-ein-gutes-jahr-werden-koennte-a-a4f2236c-f13d-4a5e-b589-ff0ec9f9de5a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-weshalb-russland-in-der-ukraine-scheitern-muss](https://www.spiegel.de/ausland/ukraine-krieg-weshalb-russland-in-der-ukraine-scheitern-muss-a-8fa97051-f117-44d6-a8ad-2be6447516f4#ref=rss)
+### alten
 
-* [https://www.spiegel.de/panorama/gesellschaft/grossbritannien-wegen-walross-sagt-scarborough-kurzfristig-feuerwerk-ab](https://www.spiegel.de/panorama/gesellschaft/grossbritannien-wegen-walross-sagt-scarborough-kurzfristig-feuerwerk-ab-a-775dc0b0-2f8f-4f46-8058-1ebf0af289e6#ref=rss)
-### scarborough
+* [https://www.spiegel.de/auto/mercedes-bmw-polestar-und-co-recycling-hype-im-fahrzeugbau-die-neuen-muell-wagen](https://www.spiegel.de/auto/mercedes-bmw-polestar-und-co-recycling-hype-im-fahrzeugbau-die-neuen-muell-wagen-a-b4cf61fd-f3e2-4fbb-8980-06504825543e#ref=rss)
+* [https://www.spiegel.de/politik/russlands-krieg-trumps-zukunft-soeders-plan-was-2023-wichtig-wird-podcast](https://www.spiegel.de/politik/russlands-krieg-trumps-zukunft-soeders-plan-was-2023-wichtig-wird-podcast-a-020fbd8c-0248-453d-94c8-7964c1725551#ref=rss)
+### australien
 
-* [https://www.spiegel.de/panorama/gesellschaft/grossbritannien-wegen-walross-sagt-scarborough-kurzfristig-feuerwerk-ab](https://www.spiegel.de/panorama/gesellschaft/grossbritannien-wegen-walross-sagt-scarborough-kurzfristig-feuerwerk-ab-a-775dc0b0-2f8f-4f46-8058-1ebf0af289e6#ref=rss)
-### luis
+* [https://www.spiegel.de/panorama/justiz/australien-polizist-rettet-seinen-sohn-aus-dem-meer-und-ertrinkt](https://www.spiegel.de/panorama/justiz/australien-polizist-rettet-seinen-sohn-aus-dem-meer-und-ertrinkt-a-d68cd535-16db-47c6-bace-d952722220af#ref=rss)
+### meer
 
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-luis-suarez-wechselt-nach-brasilien-vfb-verlaengert-mit-silas](https://www.spiegel.de/sport/fussball/fussball-transferticker-luis-suarez-wechselt-nach-brasilien-vfb-verlaengert-mit-silas-a-3d267ac7-aef2-43ce-9f0e-4fa7b008980f#ref=rss)
-### suárez
+* [https://www.spiegel.de/panorama/justiz/australien-polizist-rettet-seinen-sohn-aus-dem-meer-und-ertrinkt](https://www.spiegel.de/panorama/justiz/australien-polizist-rettet-seinen-sohn-aus-dem-meer-und-ertrinkt-a-d68cd535-16db-47c6-bace-d952722220af#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-luis-suarez-wechselt-nach-brasilien-vfb-verlaengert-mit-silas](https://www.spiegel.de/sport/fussball/fussball-transferticker-luis-suarez-wechselt-nach-brasilien-vfb-verlaengert-mit-silas-a-3d267ac7-aef2-43ce-9f0e-4fa7b008980f#ref=rss)
-### vfb
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-ist-nach-seiner-langen-verletzung-noch-nicht-wieder-topfit](https://www.spiegel.de/sport/tennis/alexander-zverev-ist-nach-seiner-langen-verletzung-noch-nicht-wieder-topfit-a-34c35c43-9cd7-438b-8c72-934a04b3baba#ref=rss)
+### zverev
 
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-luis-suarez-wechselt-nach-brasilien-vfb-verlaengert-mit-silas](https://www.spiegel.de/sport/fussball/fussball-transferticker-luis-suarez-wechselt-nach-brasilien-vfb-verlaengert-mit-silas-a-3d267ac7-aef2-43ce-9f0e-4fa7b008980f#ref=rss)
-### silas
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-ist-nach-seiner-langen-verletzung-noch-nicht-wieder-topfit](https://www.spiegel.de/sport/tennis/alexander-zverev-ist-nach-seiner-langen-verletzung-noch-nicht-wieder-topfit-a-34c35c43-9cd7-438b-8c72-934a04b3baba#ref=rss)
+### feuerwehrgewerkschaft
 
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-luis-suarez-wechselt-nach-brasilien-vfb-verlaengert-mit-silas](https://www.spiegel.de/sport/fussball/fussball-transferticker-luis-suarez-wechselt-nach-brasilien-vfb-verlaengert-mit-silas-a-3d267ac7-aef2-43ce-9f0e-4fa7b008980f#ref=rss)
-### silvestertag
+* [https://www.spiegel.de/panorama/justiz/silvester-feuerwehr-gewerkschaft-fordert-kameras-in-einsatzfahrzeugen](https://www.spiegel.de/panorama/justiz/silvester-feuerwehr-gewerkschaft-fordert-kameras-in-einsatzfahrzeugen-a-89bcba86-4a48-4681-a963-a35e6ad857ae#ref=rss)
+### kanada
 
-* [https://www.spiegel.de/panorama/waermster-silvestertag-seit-beginn-der-wetteraufzeichnungen-temperaturen-ueber-20-grad](https://www.spiegel.de/panorama/waermster-silvestertag-seit-beginn-der-wetteraufzeichnungen-temperaturen-ueber-20-grad-a-23761901-feaf-4095-8da2-b6def286af82#ref=rss)
-### fast
+* [https://www.spiegel.de/ausland/kanada-schraenkt-kauf-von-immobilien-durch-auslaender-weitgehend-ein](https://www.spiegel.de/ausland/kanada-schraenkt-kauf-von-immobilien-durch-auslaender-weitgehend-ein-a-e571f3de-edaf-4030-8fbe-e25363eeaba9#ref=rss)
+### immobilien
 
-* [https://www.spiegel.de/panorama/waermster-silvestertag-seit-beginn-der-wetteraufzeichnungen-temperaturen-ueber-20-grad](https://www.spiegel.de/panorama/waermster-silvestertag-seit-beginn-der-wetteraufzeichnungen-temperaturen-ueber-20-grad-a-23761901-feaf-4095-8da2-b6def286af82#ref=rss)
-* [https://www.spiegel.de/panorama/attacken-auf-rettungskraefte-in-der-silvesternacht-loeschen-unter-polizeischutz](https://www.spiegel.de/panorama/attacken-auf-rettungskraefte-in-der-silvesternacht-loeschen-unter-polizeischutz-a-d31489a0-d8ac-43c6-a546-86250729c69a#ref=rss)
-### nato
+* [https://www.spiegel.de/ausland/kanada-schraenkt-kauf-von-immobilien-durch-auslaender-weitgehend-ein](https://www.spiegel.de/ausland/kanada-schraenkt-kauf-von-immobilien-durch-auslaender-weitgehend-ein-a-e571f3de-edaf-4030-8fbe-e25363eeaba9#ref=rss)
+### ukrainekrieg
 
-* [https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato](https://www.spiegel.de/politik/deutschland/deutschland-fuehrt-schnelle-eingreiftruppe-der-nato-a-3eb39fb0-f37f-47f0-b0c1-676dae1cb33c#ref=rss)
-### foo
+* [https://www.spiegel.de/ausland/ukraine-krieg-weshalb-russland-in-der-ukraine-scheitern-muss](https://www.spiegel.de/ausland/ukraine-krieg-weshalb-russland-in-der-ukraine-scheitern-muss-a-8fa97051-f117-44d6-a8ad-2be6447516f4#ref=rss)
+### russlands
 
-* [https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden](https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden-a-b444ea66-1114-4b7b-8a94-032587b741ac#ref=rss)
-### fighters
-
-* [https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden](https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden-a-b444ea66-1114-4b7b-8a94-032587b741ac#ref=rss)
-### wir
-
-* [https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden](https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden-a-b444ea66-1114-4b7b-8a94-032587b741ac#ref=rss)
-### taylor
-
-* [https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden](https://www.spiegel.de/kultur/foo-fighters-wir-wissen-dass-wir-ohne-taylor-eine-andere-band-sein-werden-a-b444ea66-1114-4b7b-8a94-032587b741ac#ref=rss)
-### testament
-
-* [https://www.spiegel.de/panorama/testament-von-benedikt-xvi-allen-denen-ich-irgendwie-unrecht-getan-habe](https://www.spiegel.de/panorama/testament-von-benedikt-xvi-allen-denen-ich-irgendwie-unrecht-getan-habe-a-38a8e1bd-b016-4855-9703-e3f05ebda64c#ref=rss)
-### freiheit
-
-* [https://www.spiegel.de/kultur/negativ-auszeichnung-sprachkritiker-waehlen-freiheit-zur-floskel-des-jahres](https://www.spiegel.de/kultur/negativ-auszeichnung-sprachkritiker-waehlen-freiheit-zur-floskel-des-jahres-a-706e5dff-88b9-4ba6-88aa-bb6e7707dcab#ref=rss)
-### papst
-
-* [https://www.spiegel.de/panorama/leute/papst-franziskus-betet-in-neujahrsmesse-fuer-benedikt-xvi](https://www.spiegel.de/panorama/leute/papst-franziskus-betet-in-neujahrsmesse-fuer-benedikt-xvi-a-1cd32180-be95-4eef-8080-fa3ddbc9931e#ref=rss)
-### franziskus
-
-* [https://www.spiegel.de/panorama/leute/papst-franziskus-betet-in-neujahrsmesse-fuer-benedikt-xvi](https://www.spiegel.de/panorama/leute/papst-franziskus-betet-in-neujahrsmesse-fuer-benedikt-xvi-a-1cd32180-be95-4eef-8080-fa3ddbc9931e#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/attacken-auf-rettungskraefte-in-der-silvesternacht-loeschen-unter-polizeischutz](https://www.spiegel.de/panorama/attacken-auf-rettungskraefte-in-der-silvesternacht-loeschen-unter-polizeischutz-a-d31489a0-d8ac-43c6-a546-86250729c69a#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/panorama/attacken-auf-rettungskraefte-in-der-silvesternacht-loeschen-unter-polizeischutz](https://www.spiegel.de/panorama/attacken-auf-rettungskraefte-in-der-silvesternacht-loeschen-unter-polizeischutz-a-d31489a0-d8ac-43c6-a546-86250729c69a#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-klitschko-fordert-leopard-2-panzer-aus-deutschland](https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-klitschko-fordert-leopard-2-panzer-aus-deutschland-a-ba8587ac-e0aa-44d1-8f2a-bfbe3e2a7ea3#ref=rss)
-### verfassungsschutz
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-klitschko-fordert-leopard-2-panzer-aus-deutschland](https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-klitschko-fordert-leopard-2-panzer-aus-deutschland-a-ba8587ac-e0aa-44d1-8f2a-bfbe3e2a7ea3#ref=rss)
-### russischer
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-klitschko-fordert-leopard-2-panzer-aus-deutschland](https://www.spiegel.de/ausland/russland-ukraine-news-am-sonntag-klitschko-fordert-leopard-2-panzer-aus-deutschland-a-ba8587ac-e0aa-44d1-8f2a-bfbe3e2a7ea3#ref=rss)
-### regierungschef
-
-* [https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land](https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land-a-8ccec8e6-283e-4848-96fc-c557c7714e1d#ref=rss)
-### albin
-
-* [https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land](https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land-a-8ccec8e6-283e-4848-96fc-c557c7714e1d#ref=rss)
-### kurti
-
-* [https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land](https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land-a-8ccec8e6-283e-4848-96fc-c557c7714e1d#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land](https://www.spiegel.de/ausland/konflikt-mit-serbien-kosovos-regierungschef-albin-kurti-verlangt-mehr-nato-soldaten-in-seinem-land-a-8ccec8e6-283e-4848-96fc-c557c7714e1d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-weshalb-russland-in-der-ukraine-scheitern-muss](https://www.spiegel.de/ausland/ukraine-krieg-weshalb-russland-in-der-ukraine-scheitern-muss-a-8fa97051-f117-44d6-a8ad-2be6447516f4#ref=rss)
+* [https://www.spiegel.de/politik/russlands-krieg-trumps-zukunft-soeders-plan-was-2023-wichtig-wird-podcast](https://www.spiegel.de/politik/russlands-krieg-trumps-zukunft-soeders-plan-was-2023-wichtig-wird-podcast-a-020fbd8c-0248-453d-94c8-7964c1725551#ref=rss)
 
