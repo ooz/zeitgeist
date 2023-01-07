@@ -4,322 +4,381 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### ukraine
+### mccarthy
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard](https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard-a-139ccb41-79b6-40de-9edf-ac53b19af226#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vor-dem-russischen-angriff-auf-die-ukraine-abramowitch-soll-ein-vermoegen-auf-seine-kinder-uebertragen-haben](https://www.spiegel.de/wirtschaft/vor-dem-russischen-angriff-auf-die-ukraine-abramowitch-soll-ein-vermoegen-auf-seine-kinder-uebertragen-haben-a-c9144137-3f7b-4b2e-b29f-4d946cdbe327#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/panzer-trio-fuer-die-ukraine-was-marder-bradley-und-amx-koennen](https://www.spiegel.de/wissenschaft/technik/panzer-trio-fuer-die-ukraine-was-marder-bradley-und-amx-koennen-a-67f3ac42-4e6a-4df2-8d52-10557e737a82#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutsche-panzer-fuer-die-ukraine-und-jetzt-der-leopard](https://www.spiegel.de/politik/deutschland/deutsche-panzer-fuer-die-ukraine-und-jetzt-der-leopard-a-4366fdbe-4925-4620-8189-4f2b90b04351#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/panorama/gesellschaft/hier-sollen-zehn-junge-gefluechtete-unterkommen-aber-die-mehrheit-ist-dagegen](https://www.spiegel.de/panorama/gesellschaft/hier-sollen-zehn-junge-gefluechtete-unterkommen-aber-die-mehrheit-ist-dagegen-a-cbc14b1b-2f7b-40e7-960c-c501034e797b#ref=rss)
-* [https://www.spiegel.de/panorama/cloppenburg-beurlaubter-pfarrer-darf-unter-auflagen-zurueck-in-seine-gemeinde](https://www.spiegel.de/panorama/cloppenburg-beurlaubter-pfarrer-darf-unter-auflagen-zurueck-in-seine-gemeinde-a-346b270b-ecb1-4261-9b74-d93c1514cc7d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern](https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern-a-8e4e0e28-886d-44a1-8f25-4781e05cd86f#ref=rss)
-### ohne
-
-* [https://www.spiegel.de/panorama/gesellschaft/hier-sollen-zehn-junge-gefluechtete-unterkommen-aber-die-mehrheit-ist-dagegen](https://www.spiegel.de/panorama/gesellschaft/hier-sollen-zehn-junge-gefluechtete-unterkommen-aber-die-mehrheit-ist-dagegen-a-cbc14b1b-2f7b-40e7-960c-c501034e797b#ref=rss)
-* [https://www.spiegel.de/ausland/us-kongress-scheitert-kevin-mccarth-im-machtkampf-um-den-sprecherposten-wieder](https://www.spiegel.de/ausland/us-kongress-scheitert-kevin-mccarth-im-machtkampf-um-den-sprecherposten-wieder-a-ba77c936-1827-4dd0-8471-0e76b5a9e9b5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-arbeitslosenquote-faellt-auf-auf-vor-cororna-niveau](https://www.spiegel.de/wirtschaft/usa-arbeitslosenquote-faellt-auf-auf-vor-cororna-niveau-a-a34c4a18-a257-4679-82cc-a5605cf8f9f0#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/mexiko-festnahme-von-el-chapo-sohn-ovidio-guzman-fuehrt-zu-gewaltausbruch](https://www.spiegel.de/panorama/mexiko-festnahme-von-el-chapo-sohn-ovidio-guzman-fuehrt-zu-gewaltausbruch-a-950eb2a6-02e9-41bd-9936-b97087ada2f8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/vor-dem-russischen-angriff-auf-die-ukraine-abramowitch-soll-ein-vermoegen-auf-seine-kinder-uebertragen-haben](https://www.spiegel.de/wirtschaft/vor-dem-russischen-angriff-auf-die-ukraine-abramowitch-soll-ein-vermoegen-auf-seine-kinder-uebertragen-haben-a-c9144137-3f7b-4b2e-b29f-4d946cdbe327#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/kultur/filmtipps-operation-fortune-the-banshees-of-inisherin-passagiere-der-nacht-unruh-pale-blue-eyes](https://www.spiegel.de/kultur/filmtipps-operation-fortune-the-banshees-of-inisherin-passagiere-der-nacht-unruh-pale-blue-eyes-a-68f39736-d3db-408f-9e07-fe6f9297d0c9#ref=rss)
-* [https://www.spiegel.de/panorama/bombenzyklon-wuetet-an-kalifornischer-kueste](https://www.spiegel.de/panorama/bombenzyklon-wuetet-an-kalifornischer-kueste-a-769d79d5-3ca2-48b7-ac57-aa1649cab10a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/dreikoenigstreffen-der-fdp-wie-christian-lindner-die-wiederwahlchance-der-ampel-wahren-will](https://www.spiegel.de/politik/deutschland/dreikoenigstreffen-der-fdp-wie-christian-lindner-die-wiederwahlchance-der-ampel-wahren-will-a-5e2c3e16-6c1f-466d-aec6-ff3e6023c3c2#ref=rss)
-### woche
-
-* [https://www.spiegel.de/kultur/filmtipps-operation-fortune-the-banshees-of-inisherin-passagiere-der-nacht-unruh-pale-blue-eyes](https://www.spiegel.de/kultur/filmtipps-operation-fortune-the-banshees-of-inisherin-passagiere-der-nacht-unruh-pale-blue-eyes-a-68f39736-d3db-408f-9e07-fe6f9297d0c9#ref=rss)
-* [https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert](https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert-a-81edf318-dd58-40cc-892e-8e8dd18284a0#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/sport/fussball/vierschanzentournee-halvor-egner-granerud-holt-gesamtsieg-und-tagessieg-in-bischofshofen](https://www.spiegel.de/sport/fussball/vierschanzentournee-halvor-egner-granerud-holt-gesamtsieg-und-tagessieg-in-bischofshofen-a-3629919a-f45a-4954-aadf-f0427e870da5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutsche-panzer-fuer-die-ukraine-und-jetzt-der-leopard](https://www.spiegel.de/politik/deutschland/deutsche-panzer-fuer-die-ukraine-und-jetzt-der-leopard-a-4366fdbe-4925-4620-8189-4f2b90b04351#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten-a-3ebf2afd-ad04-4012-91f7-b35b0ff3373a#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/bombenzyklon-wuetet-an-kalifornischer-kueste](https://www.spiegel.de/panorama/bombenzyklon-wuetet-an-kalifornischer-kueste-a-769d79d5-3ca2-48b7-ac57-aa1649cab10a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-arbeitslosenquote-faellt-auf-auf-vor-cororna-niveau](https://www.spiegel.de/wirtschaft/usa-arbeitslosenquote-faellt-auf-auf-vor-cororna-niveau-a-a34c4a18-a257-4679-82cc-a5605cf8f9f0#ref=rss)
-### drei
-
-* [https://www.spiegel.de/ausland/us-kongress-scheitert-kevin-mccarth-im-machtkampf-um-den-sprecherposten-wieder](https://www.spiegel.de/ausland/us-kongress-scheitert-kevin-mccarth-im-machtkampf-um-den-sprecherposten-wieder-a-ba77c936-1827-4dd0-8471-0e76b5a9e9b5#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/pirmasens-sagt-verleihung-von-hugo-ball-preis-wegn-wegen-antisemitischer-klischeesab](https://www.spiegel.de/kultur/literatur/pirmasens-sagt-verleihung-von-hugo-ball-preis-wegn-wegen-antisemitischer-klischeesab-a-4ded7b49-0347-4c9a-ae8d-e963db4dbd65#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie](https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie-a-f6e91af0-7cec-4c09-bf3e-89967b3d2d33#ref=rss)
-### marder
-
-* [https://www.spiegel.de/wissenschaft/technik/panzer-trio-fuer-die-ukraine-was-marder-bradley-und-amx-koennen](https://www.spiegel.de/wissenschaft/technik/panzer-trio-fuer-die-ukraine-was-marder-bradley-und-amx-koennen-a-67f3ac42-4e6a-4df2-8d52-10557e737a82#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutsche-panzer-fuer-die-ukraine-und-jetzt-der-leopard](https://www.spiegel.de/politik/deutschland/deutsche-panzer-fuer-die-ukraine-und-jetzt-der-leopard-a-4366fdbe-4925-4620-8189-4f2b90b04351#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/politik/deutschland/deutsche-panzer-fuer-die-ukraine-und-jetzt-der-leopard](https://www.spiegel.de/politik/deutschland/deutsche-panzer-fuer-die-ukraine-und-jetzt-der-leopard-a-4366fdbe-4925-4620-8189-4f2b90b04351#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern](https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern-a-8e4e0e28-886d-44a1-8f25-4781e05cd86f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten-a-3ebf2afd-ad04-4012-91f7-b35b0ff3373a#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/panorama/gesellschaft/hier-sollen-zehn-junge-gefluechtete-unterkommen-aber-die-mehrheit-ist-dagegen](https://www.spiegel.de/panorama/gesellschaft/hier-sollen-zehn-junge-gefluechtete-unterkommen-aber-die-mehrheit-ist-dagegen-a-cbc14b1b-2f7b-40e7-960c-c501034e797b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten-a-3ebf2afd-ad04-4012-91f7-b35b0ff3373a#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/gesellschaft/hier-sollen-zehn-junge-gefluechtete-unterkommen-aber-die-mehrheit-ist-dagegen](https://www.spiegel.de/panorama/gesellschaft/hier-sollen-zehn-junge-gefluechtete-unterkommen-aber-die-mehrheit-ist-dagegen-a-cbc14b1b-2f7b-40e7-960c-c501034e797b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern](https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern-a-8e4e0e28-886d-44a1-8f25-4781e05cd86f#ref=rss)
-### alles
-
-* [https://www.spiegel.de/reise/schneemangel-in-den-bayerischen-voralpen-der-regen-hat-alles-kaputt-gemacht-jetzt-ist-alles-gruen](https://www.spiegel.de/reise/schneemangel-in-den-bayerischen-voralpen-der-regen-hat-alles-kaputt-gemacht-jetzt-ist-alles-gruen-a-28e4f60c-7eb9-4d4d-bebb-41443f5880e1#ref=rss)
-### letzte
-
-* [https://www.spiegel.de/reise/schneemangel-in-den-bayerischen-voralpen-der-regen-hat-alles-kaputt-gemacht-jetzt-ist-alles-gruen](https://www.spiegel.de/reise/schneemangel-in-den-bayerischen-voralpen-der-regen-hat-alles-kaputt-gemacht-jetzt-ist-alles-gruen-a-28e4f60c-7eb9-4d4d-bebb-41443f5880e1#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-bis-der-letzte-russische-eindringling-getoetet-ist](https://www.spiegel.de/ausland/ukraine-krieg-bis-der-letzte-russische-eindringling-getoetet-ist-a-5433d31e-ea88-45e3-93b5-4e93b502a989#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/panorama/mexiko-festnahme-von-el-chapo-sohn-ovidio-guzman-fuehrt-zu-gewaltausbruch](https://www.spiegel.de/panorama/mexiko-festnahme-von-el-chapo-sohn-ovidio-guzman-fuehrt-zu-gewaltausbruch-a-950eb2a6-02e9-41bd-9936-b97087ada2f8#ref=rss)
-### festnahme
-
-* [https://www.spiegel.de/panorama/mexiko-festnahme-von-el-chapo-sohn-ovidio-guzman-fuehrt-zu-gewaltausbruch](https://www.spiegel.de/panorama/mexiko-festnahme-von-el-chapo-sohn-ovidio-guzman-fuehrt-zu-gewaltausbruch-a-950eb2a6-02e9-41bd-9936-b97087ada2f8#ref=rss)
-### el
-
-* [https://www.spiegel.de/panorama/mexiko-festnahme-von-el-chapo-sohn-ovidio-guzman-fuehrt-zu-gewaltausbruch](https://www.spiegel.de/panorama/mexiko-festnahme-von-el-chapo-sohn-ovidio-guzman-fuehrt-zu-gewaltausbruch-a-950eb2a6-02e9-41bd-9936-b97087ada2f8#ref=rss)
-### gewaltausbruch
-
-* [https://www.spiegel.de/panorama/mexiko-festnahme-von-el-chapo-sohn-ovidio-guzman-fuehrt-zu-gewaltausbruch](https://www.spiegel.de/panorama/mexiko-festnahme-von-el-chapo-sohn-ovidio-guzman-fuehrt-zu-gewaltausbruch-a-950eb2a6-02e9-41bd-9936-b97087ada2f8#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/panorama/mexiko-festnahme-von-el-chapo-sohn-ovidio-guzman-fuehrt-zu-gewaltausbruch](https://www.spiegel.de/panorama/mexiko-festnahme-von-el-chapo-sohn-ovidio-guzman-fuehrt-zu-gewaltausbruch-a-950eb2a6-02e9-41bd-9936-b97087ada2f8#ref=rss)
-* [https://www.spiegel.de/panorama/corona-in-china-volle-krankenhaeuser-und-womoeglich-eine-million-tote](https://www.spiegel.de/panorama/corona-in-china-volle-krankenhaeuser-und-womoeglich-eine-million-tote-a-b0afc177-c89c-4164-804e-c360bb55676a#ref=rss)
-### junger
-
-* [https://www.spiegel.de/kultur/filmtipps-operation-fortune-the-banshees-of-inisherin-passagiere-der-nacht-unruh-pale-blue-eyes](https://www.spiegel.de/kultur/filmtipps-operation-fortune-the-banshees-of-inisherin-passagiere-der-nacht-unruh-pale-blue-eyes-a-68f39736-d3db-408f-9e07-fe6f9297d0c9#ref=rss)
-* [https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert](https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert-a-81edf318-dd58-40cc-892e-8e8dd18284a0#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard](https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard-a-139ccb41-79b6-40de-9edf-ac53b19af226#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern](https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern-a-8e4e0e28-886d-44a1-8f25-4781e05cd86f#ref=rss)
-### harry
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard](https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard-a-139ccb41-79b6-40de-9edf-ac53b19af226#ref=rss)
-### waffen
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard](https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard-a-139ccb41-79b6-40de-9edf-ac53b19af226#ref=rss)
-### endlich
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard](https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard-a-139ccb41-79b6-40de-9edf-ac53b19af226#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutsche-panzer-fuer-die-ukraine-und-jetzt-der-leopard](https://www.spiegel.de/politik/deutschland/deutsche-panzer-fuer-die-ukraine-und-jetzt-der-leopard-a-4366fdbe-4925-4620-8189-4f2b90b04351#ref=rss)
-### ende
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard](https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard-a-139ccb41-79b6-40de-9edf-ac53b19af226#ref=rss)
-* [https://www.spiegel.de/panorama/corona-in-china-volle-krankenhaeuser-und-womoeglich-eine-million-tote](https://www.spiegel.de/panorama/corona-in-china-volle-krankenhaeuser-und-womoeglich-eine-million-tote-a-b0afc177-c89c-4164-804e-c360bb55676a#ref=rss)
-### lage
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard](https://www.spiegel.de/politik/deutschland/news-des-tages-prinz-harry-waffen-fuer-die-ukraine-ard-a-139ccb41-79b6-40de-9edf-ac53b19af226#ref=rss)
-* [https://www.spiegel.de/panorama/corona-in-china-volle-krankenhaeuser-und-womoeglich-eine-million-tote](https://www.spiegel.de/panorama/corona-in-china-volle-krankenhaeuser-und-womoeglich-eine-million-tote-a-b0afc177-c89c-4164-804e-c360bb55676a#ref=rss)
-### halvor
-
-* [https://www.spiegel.de/sport/fussball/vierschanzentournee-halvor-egner-granerud-holt-gesamtsieg-und-tagessieg-in-bischofshofen](https://www.spiegel.de/sport/fussball/vierschanzentournee-halvor-egner-granerud-holt-gesamtsieg-und-tagessieg-in-bischofshofen-a-3629919a-f45a-4954-aadf-f0427e870da5#ref=rss)
-### egner
-
-* [https://www.spiegel.de/sport/fussball/vierschanzentournee-halvor-egner-granerud-holt-gesamtsieg-und-tagessieg-in-bischofshofen](https://www.spiegel.de/sport/fussball/vierschanzentournee-halvor-egner-granerud-holt-gesamtsieg-und-tagessieg-in-bischofshofen-a-3629919a-f45a-4954-aadf-f0427e870da5#ref=rss)
-### granerud
-
-* [https://www.spiegel.de/sport/fussball/vierschanzentournee-halvor-egner-granerud-holt-gesamtsieg-und-tagessieg-in-bischofshofen](https://www.spiegel.de/sport/fussball/vierschanzentournee-halvor-egner-granerud-holt-gesamtsieg-und-tagessieg-in-bischofshofen-a-3629919a-f45a-4954-aadf-f0427e870da5#ref=rss)
-### bischofshofen
-
-* [https://www.spiegel.de/sport/fussball/vierschanzentournee-halvor-egner-granerud-holt-gesamtsieg-und-tagessieg-in-bischofshofen](https://www.spiegel.de/sport/fussball/vierschanzentournee-halvor-egner-granerud-holt-gesamtsieg-und-tagessieg-in-bischofshofen-a-3629919a-f45a-4954-aadf-f0427e870da5#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/sport/fussball/vierschanzentournee-halvor-egner-granerud-holt-gesamtsieg-und-tagessieg-in-bischofshofen](https://www.spiegel.de/sport/fussball/vierschanzentournee-halvor-egner-granerud-holt-gesamtsieg-und-tagessieg-in-bischofshofen-a-3629919a-f45a-4954-aadf-f0427e870da5#ref=rss)
-* [https://www.spiegel.de/ausland/us-kongress-scheitert-kevin-mccarth-im-machtkampf-um-den-sprecherposten-wieder](https://www.spiegel.de/ausland/us-kongress-scheitert-kevin-mccarth-im-machtkampf-um-den-sprecherposten-wieder-a-ba77c936-1827-4dd0-8471-0e76b5a9e9b5#ref=rss)
-### abramowitsch
-
-* [https://www.spiegel.de/wirtschaft/vor-dem-russischen-angriff-auf-die-ukraine-abramowitch-soll-ein-vermoegen-auf-seine-kinder-uebertragen-haben](https://www.spiegel.de/wirtschaft/vor-dem-russischen-angriff-auf-die-ukraine-abramowitch-soll-ein-vermoegen-auf-seine-kinder-uebertragen-haben-a-c9144137-3f7b-4b2e-b29f-4d946cdbe327#ref=rss)
-### russische
-
-* [https://www.spiegel.de/wirtschaft/vor-dem-russischen-angriff-auf-die-ukraine-abramowitch-soll-ein-vermoegen-auf-seine-kinder-uebertragen-haben](https://www.spiegel.de/wirtschaft/vor-dem-russischen-angriff-auf-die-ukraine-abramowitch-soll-ein-vermoegen-auf-seine-kinder-uebertragen-haben-a-c9144137-3f7b-4b2e-b29f-4d946cdbe327#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-bis-der-letzte-russische-eindringling-getoetet-ist](https://www.spiegel.de/ausland/ukraine-krieg-bis-der-letzte-russische-eindringling-getoetet-ist-a-5433d31e-ea88-45e3-93b5-4e93b502a989#ref=rss)
-### zufolge
-
-* [https://www.spiegel.de/wirtschaft/vor-dem-russischen-angriff-auf-die-ukraine-abramowitch-soll-ein-vermoegen-auf-seine-kinder-uebertragen-haben](https://www.spiegel.de/wirtschaft/vor-dem-russischen-angriff-auf-die-ukraine-abramowitch-soll-ein-vermoegen-auf-seine-kinder-uebertragen-haben-a-c9144137-3f7b-4b2e-b29f-4d946cdbe327#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie](https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie-a-f6e91af0-7cec-4c09-bf3e-89967b3d2d33#ref=rss)
-### sanktionen
-
-* [https://www.spiegel.de/wirtschaft/vor-dem-russischen-angriff-auf-die-ukraine-abramowitch-soll-ein-vermoegen-auf-seine-kinder-uebertragen-haben](https://www.spiegel.de/wirtschaft/vor-dem-russischen-angriff-auf-die-ukraine-abramowitch-soll-ein-vermoegen-auf-seine-kinder-uebertragen-haben-a-c9144137-3f7b-4b2e-b29f-4d946cdbe327#ref=rss)
-* [https://www.spiegel.de/ausland/israel-beschliesst-nach-uno-entscheidung-einen-stopp-fuer-palaestinensische-bauprojekte](https://www.spiegel.de/ausland/israel-beschliesst-nach-uno-entscheidung-einen-stopp-fuer-palaestinensische-bauprojekte-a-d9c720aa-81ec-4b13-ae15-365a9526aa73#ref=rss)
-### michel
-
-* [https://www.spiegel.de/kultur/literatur/michel-houellebecq-und-die-umgekehrten-bataclans-redet-er-gewalt-herbei](https://www.spiegel.de/kultur/literatur/michel-houellebecq-und-die-umgekehrten-bataclans-redet-er-gewalt-herbei-a-8a7d541b-9a1a-4748-b5e2-57cc7d1a3b0b#ref=rss)
-### houellebecq
-
-* [https://www.spiegel.de/kultur/literatur/michel-houellebecq-und-die-umgekehrten-bataclans-redet-er-gewalt-herbei](https://www.spiegel.de/kultur/literatur/michel-houellebecq-und-die-umgekehrten-bataclans-redet-er-gewalt-herbei-a-8a7d541b-9a1a-4748-b5e2-57cc7d1a3b0b#ref=rss)
-### umgekehrten
-
-* [https://www.spiegel.de/kultur/literatur/michel-houellebecq-und-die-umgekehrten-bataclans-redet-er-gewalt-herbei](https://www.spiegel.de/kultur/literatur/michel-houellebecq-und-die-umgekehrten-bataclans-redet-er-gewalt-herbei-a-8a7d541b-9a1a-4748-b5e2-57cc7d1a3b0b#ref=rss)
-### bataclans
-
-* [https://www.spiegel.de/kultur/literatur/michel-houellebecq-und-die-umgekehrten-bataclans-redet-er-gewalt-herbei](https://www.spiegel.de/kultur/literatur/michel-houellebecq-und-die-umgekehrten-bataclans-redet-er-gewalt-herbei-a-8a7d541b-9a1a-4748-b5e2-57cc7d1a3b0b#ref=rss)
-### kam
-
-* [https://www.spiegel.de/kultur/literatur/michel-houellebecq-und-die-umgekehrten-bataclans-redet-er-gewalt-herbei](https://www.spiegel.de/kultur/literatur/michel-houellebecq-und-die-umgekehrten-bataclans-redet-er-gewalt-herbei-a-8a7d541b-9a1a-4748-b5e2-57cc7d1a3b0b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie](https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie-a-f6e91af0-7cec-4c09-bf3e-89967b3d2d33#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/bombenzyklon-wuetet-an-kalifornischer-kueste](https://www.spiegel.de/panorama/bombenzyklon-wuetet-an-kalifornischer-kueste-a-769d79d5-3ca2-48b7-ac57-aa1649cab10a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-arbeitslosenquote-faellt-auf-auf-vor-cororna-niveau](https://www.spiegel.de/wirtschaft/usa-arbeitslosenquote-faellt-auf-auf-vor-cororna-niveau-a-a34c4a18-a257-4679-82cc-a5605cf8f9f0#ref=rss)
-### weiteren
-
-* [https://www.spiegel.de/panorama/bombenzyklon-wuetet-an-kalifornischer-kueste](https://www.spiegel.de/panorama/bombenzyklon-wuetet-an-kalifornischer-kueste-a-769d79d5-3ca2-48b7-ac57-aa1649cab10a#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern](https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern-a-8e4e0e28-886d-44a1-8f25-4781e05cd86f#ref=rss)
+* [https://www.spiegel.de/ausland/kevin-mccarthy-nach-seiner-wahl-ich-bin-froh-dass-es-vorbei-ist](https://www.spiegel.de/ausland/kevin-mccarthy-nach-seiner-wahl-ich-bin-froh-dass-es-vorbei-ist-a-094fd965-857c-4ede-a400-40e37c882b20#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit](https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit-a-c18c2ad8-8e59-4067-a109-8595ddce9082#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig](https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig-a-8e13f1eb-7478-4837-82b8-620ae068f54e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+* [https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt-a-f4b78132-daef-4329-bdb4-d1a537bd426f#ref=rss)
+* [https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt-a-55933f20-3ef1-4c9b-b1fc-096870197586#ref=rss)
 ### kevin
 
-* [https://www.spiegel.de/ausland/us-kongress-scheitert-kevin-mccarth-im-machtkampf-um-den-sprecherposten-wieder](https://www.spiegel.de/ausland/us-kongress-scheitert-kevin-mccarth-im-machtkampf-um-den-sprecherposten-wieder-a-ba77c936-1827-4dd0-8471-0e76b5a9e9b5#ref=rss)
-### dreikönigstreffen
+* [https://www.spiegel.de/ausland/kevin-mccarthy-nach-seiner-wahl-ich-bin-froh-dass-es-vorbei-ist](https://www.spiegel.de/ausland/kevin-mccarthy-nach-seiner-wahl-ich-bin-froh-dass-es-vorbei-ist-a-094fd965-857c-4ede-a400-40e37c882b20#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit](https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit-a-c18c2ad8-8e59-4067-a109-8595ddce9082#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig](https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig-a-8e13f1eb-7478-4837-82b8-620ae068f54e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+* [https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt-a-f4b78132-daef-4329-bdb4-d1a537bd426f#ref=rss)
+* [https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt-a-55933f20-3ef1-4c9b-b1fc-096870197586#ref=rss)
+### sprecher
 
-* [https://www.spiegel.de/politik/deutschland/dreikoenigstreffen-der-fdp-wie-christian-lindner-die-wiederwahlchance-der-ampel-wahren-will](https://www.spiegel.de/politik/deutschland/dreikoenigstreffen-der-fdp-wie-christian-lindner-die-wiederwahlchance-der-ampel-wahren-will-a-5e2c3e16-6c1f-466d-aec6-ff3e6023c3c2#ref=rss)
-### fdp
+* [https://www.spiegel.de/ausland/kevin-mccarthy-nach-seiner-wahl-ich-bin-froh-dass-es-vorbei-ist](https://www.spiegel.de/ausland/kevin-mccarthy-nach-seiner-wahl-ich-bin-froh-dass-es-vorbei-ist-a-094fd965-857c-4ede-a400-40e37c882b20#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit](https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit-a-c18c2ad8-8e59-4067-a109-8595ddce9082#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig](https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig-a-8e13f1eb-7478-4837-82b8-620ae068f54e#ref=rss)
+* [https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt-a-f4b78132-daef-4329-bdb4-d1a537bd426f#ref=rss)
+* [https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt-a-55933f20-3ef1-4c9b-b1fc-096870197586#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/politik/deutschland/dreikoenigstreffen-der-fdp-wie-christian-lindner-die-wiederwahlchance-der-ampel-wahren-will](https://www.spiegel.de/politik/deutschland/dreikoenigstreffen-der-fdp-wie-christian-lindner-die-wiederwahlchance-der-ampel-wahren-will-a-5e2c3e16-6c1f-466d-aec6-ff3e6023c3c2#ref=rss)
-### lindner
+* [https://www.spiegel.de/ausland/ukraine-weihnachts-waffenruhe-haelt-nicht-london-meldet-kaempfe-auf-routine-level](https://www.spiegel.de/ausland/ukraine-weihnachts-waffenruhe-haelt-nicht-london-meldet-kaempfe-auf-routine-level-a-da84c6b0-55f0-40d2-8de7-aaaaec096a0e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+* [https://www.spiegel.de/ausland/gemeinsame-militaereinheiten-lukaschenko-inspiziert-russisch-belarussische-truppe-im-land](https://www.spiegel.de/ausland/gemeinsame-militaereinheiten-lukaschenko-inspiziert-russisch-belarussische-truppe-im-land-a-cca69f96-3ef4-40cb-ac58-0778defded06#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-was-bringt-die-neueste-panzer-zusage-der-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-was-bringt-die-neueste-panzer-zusage-der-ukraine-a-07013f17-5f99-4ce4-bf75-42bcbd4b7878#ref=rss)
+### wir
 
-* [https://www.spiegel.de/politik/deutschland/dreikoenigstreffen-der-fdp-wie-christian-lindner-die-wiederwahlchance-der-ampel-wahren-will](https://www.spiegel.de/politik/deutschland/dreikoenigstreffen-der-fdp-wie-christian-lindner-die-wiederwahlchance-der-ampel-wahren-will-a-5e2c3e16-6c1f-466d-aec6-ff3e6023c3c2#ref=rss)
-### parteichef
+* [https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter](https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter-a-1660e47a-2013-4058-9245-156255b521d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sechs-finanztipps-wie-familien-jetzt-an-mehr-geld-kommen](https://www.spiegel.de/wirtschaft/service/sechs-finanztipps-wie-familien-jetzt-an-mehr-geld-kommen-a-3547e1be-c716-4461-b1c1-1fa72c4133d6#ref=rss)
+### sohn
 
-* [https://www.spiegel.de/politik/deutschland/dreikoenigstreffen-der-fdp-wie-christian-lindner-die-wiederwahlchance-der-ampel-wahren-will](https://www.spiegel.de/politik/deutschland/dreikoenigstreffen-der-fdp-wie-christian-lindner-die-wiederwahlchance-der-ampel-wahren-will-a-5e2c3e16-6c1f-466d-aec6-ff3e6023c3c2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nach-krawallen-an-silvester-csu-fordert-finanzielle-konsequenzen-fuer-berlin](https://www.spiegel.de/politik/deutschland/nach-krawallen-an-silvester-csu-fordert-finanzielle-konsequenzen-fuer-berlin-a-ef101479-6094-4cc3-b32d-843ceb2527bf#ref=rss)
-### bringt
+* [https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter](https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter-a-1660e47a-2013-4058-9245-156255b521d7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mexiko-liefert-sohn-von-drogenboss-el-chapo-nicht-an-die-usa-aus](https://www.spiegel.de/panorama/justiz/mexiko-liefert-sohn-von-drogenboss-el-chapo-nicht-an-die-usa-aus-a-256b534b-8af9-4597-9dc7-c9294c087281#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b](https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b-a-28eb15be-fc95-451a-8c2b-f1828afd33fb#ref=rss)
+### iran
 
-* [https://www.spiegel.de/politik/deutschland/dreikoenigstreffen-der-fdp-wie-christian-lindner-die-wiederwahlchance-der-ampel-wahren-will](https://www.spiegel.de/politik/deutschland/dreikoenigstreffen-der-fdp-wie-christian-lindner-die-wiederwahlchance-der-ampel-wahren-will-a-5e2c3e16-6c1f-466d-aec6-ff3e6023c3c2#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayern-zugang-daley-blind-muenchen-ist-das-neue-amsterdam](https://www.spiegel.de/sport/fussball/bayern-zugang-daley-blind-muenchen-ist-das-neue-amsterdam-a-180e9ccc-1fed-4dfc-9584-81fac850f9d4#ref=rss)
-### cloppenburg
+* [https://www.spiegel.de/ausland/iran-richtet-zwei-teilnehmer-der-protestbewegung-hin](https://www.spiegel.de/ausland/iran-richtet-zwei-teilnehmer-der-protestbewegung-hin-a-8ffa33c9-3d0a-4804-a9c0-923dccbae947#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hacker-und-attentaeter-greifen-regime-an](https://www.spiegel.de/ausland/iran-hacker-und-attentaeter-greifen-regime-an-a-7c857bd2-91ba-447c-953c-42efba37e7b4#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/cloppenburg-beurlaubter-pfarrer-darf-unter-auflagen-zurueck-in-seine-gemeinde](https://www.spiegel.de/panorama/cloppenburg-beurlaubter-pfarrer-darf-unter-auflagen-zurueck-in-seine-gemeinde-a-346b270b-ecb1-4261-9b74-d93c1514cc7d#ref=rss)
-### pfarrer
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-sieger-halvor-egner-granerud-gruebelt-nicht-mehr](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-sieger-halvor-egner-granerud-gruebelt-nicht-mehr-a-166235cd-8bdc-4bd3-a376-66dc28bb2981#ref=rss)
+* [https://www.spiegel.de/gesundheit/kinderkrankengeld-2022-deutlich-mehr-antraege-eingegangen](https://www.spiegel.de/gesundheit/kinderkrankengeld-2022-deutlich-mehr-antraege-eingegangen-a-16f653be-6af0-46c0-9b4d-930d2428e641#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sechs-finanztipps-wie-familien-jetzt-an-mehr-geld-kommen](https://www.spiegel.de/wirtschaft/service/sechs-finanztipps-wie-familien-jetzt-an-mehr-geld-kommen-a-3547e1be-c716-4461-b1c1-1fa72c4133d6#ref=rss)
+### viele
 
-* [https://www.spiegel.de/panorama/cloppenburg-beurlaubter-pfarrer-darf-unter-auflagen-zurueck-in-seine-gemeinde](https://www.spiegel.de/panorama/cloppenburg-beurlaubter-pfarrer-darf-unter-auflagen-zurueck-in-seine-gemeinde-a-346b270b-ecb1-4261-9b74-d93c1514cc7d#ref=rss)
-### auflagen
-
-* [https://www.spiegel.de/panorama/cloppenburg-beurlaubter-pfarrer-darf-unter-auflagen-zurueck-in-seine-gemeinde](https://www.spiegel.de/panorama/cloppenburg-beurlaubter-pfarrer-darf-unter-auflagen-zurueck-in-seine-gemeinde-a-346b270b-ecb1-4261-9b74-d93c1514cc7d#ref=rss)
+* [https://www.spiegel.de/gesundheit/kinderkrankengeld-2022-deutlich-mehr-antraege-eingegangen](https://www.spiegel.de/gesundheit/kinderkrankengeld-2022-deutlich-mehr-antraege-eingegangen-a-16f653be-6af0-46c0-9b4d-930d2428e641#ref=rss)
+* [https://www.spiegel.de/panorama/kaum-schnee-in-den-alpen-warum-skipisten-in-der-schweiz-gruen-bleiben](https://www.spiegel.de/panorama/kaum-schnee-in-den-alpen-warum-skipisten-in-der-schweiz-gruen-bleiben-a-0abc5000-79fc-4055-96e3-42597615646a#ref=rss)
+* [https://www.spiegel.de/politik/wochenrueckblick-spionageverdacht-beim-bnd-medikamentenmangel-alternativen-zu-gas-aus-russland-podcast](https://www.spiegel.de/politik/wochenrueckblick-spionageverdacht-beim-bnd-medikamentenmangel-alternativen-zu-gas-aus-russland-podcast-a-3417e177-c5fe-4c7f-9e82-4e9b36ee41b2#ref=rss)
 ### zurück
 
-* [https://www.spiegel.de/panorama/cloppenburg-beurlaubter-pfarrer-darf-unter-auflagen-zurueck-in-seine-gemeinde](https://www.spiegel.de/panorama/cloppenburg-beurlaubter-pfarrer-darf-unter-auflagen-zurueck-in-seine-gemeinde-a-346b270b-ecb1-4261-9b74-d93c1514cc7d#ref=rss)
-### gemeinde
+* [https://www.spiegel.de/wirtschaft/jack-ma-gibt-kontrolle-ueber-die-ant-group-ab](https://www.spiegel.de/wirtschaft/jack-ma-gibt-kontrolle-ueber-die-ant-group-ab-a-d08320aa-e552-4a5f-a2f6-436d99ca8be5#ref=rss)
+* [https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik](https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik-a-2efaf22c-d670-4c08-8c89-6df8bdc997f7#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b](https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b-a-28eb15be-fc95-451a-8c2b-f1828afd33fb#ref=rss)
+### mexiko
 
-* [https://www.spiegel.de/panorama/cloppenburg-beurlaubter-pfarrer-darf-unter-auflagen-zurueck-in-seine-gemeinde](https://www.spiegel.de/panorama/cloppenburg-beurlaubter-pfarrer-darf-unter-auflagen-zurueck-in-seine-gemeinde-a-346b270b-ecb1-4261-9b74-d93c1514cc7d#ref=rss)
-### getötet
+* [https://www.spiegel.de/panorama/justiz/mexiko-liefert-sohn-von-drogenboss-el-chapo-nicht-an-die-usa-aus](https://www.spiegel.de/panorama/justiz/mexiko-liefert-sohn-von-drogenboss-el-chapo-nicht-an-die-usa-aus-a-256b534b-8af9-4597-9dc7-c9294c087281#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-bis-der-letzte-russische-eindringling-getoetet-ist](https://www.spiegel.de/ausland/ukraine-krieg-bis-der-letzte-russische-eindringling-getoetet-ist-a-5433d31e-ea88-45e3-93b5-4e93b502a989#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie](https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie-a-f6e91af0-7cec-4c09-bf3e-89967b3d2d33#ref=rss)
-### kiew
+* [https://www.spiegel.de/panorama/justiz/mexiko-liefert-sohn-von-drogenboss-el-chapo-nicht-an-die-usa-aus](https://www.spiegel.de/panorama/justiz/mexiko-liefert-sohn-von-drogenboss-el-chapo-nicht-an-die-usa-aus-a-256b534b-8af9-4597-9dc7-c9294c087281#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-ehrt-polizisten-fuer-einsatz-bei-kapitol-sturm](https://www.spiegel.de/ausland/usa-joe-biden-ehrt-polizisten-fuer-einsatz-bei-kapitol-sturm-a-be03797b-f086-4062-a27a-4e4731b581e1#ref=rss)
+### repräsentantenhauses
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-bis-der-letzte-russische-eindringling-getoetet-ist](https://www.spiegel.de/ausland/ukraine-krieg-bis-der-letzte-russische-eindringling-getoetet-ist-a-5433d31e-ea88-45e3-93b5-4e93b502a989#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern](https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern-a-8e4e0e28-886d-44a1-8f25-4781e05cd86f#ref=rss)
-### csu
+* [https://www.spiegel.de/ausland/kevin-mccarthy-nach-seiner-wahl-ich-bin-froh-dass-es-vorbei-ist](https://www.spiegel.de/ausland/kevin-mccarthy-nach-seiner-wahl-ich-bin-froh-dass-es-vorbei-ist-a-094fd965-857c-4ede-a400-40e37c882b20#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit](https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit-a-c18c2ad8-8e59-4067-a109-8595ddce9082#ref=rss)
+* [https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt-a-55933f20-3ef1-4c9b-b1fc-096870197586#ref=rss)
+### biden
 
-* [https://www.spiegel.de/politik/deutschland/nach-krawallen-an-silvester-csu-fordert-finanzielle-konsequenzen-fuer-berlin](https://www.spiegel.de/politik/deutschland/nach-krawallen-an-silvester-csu-fordert-finanzielle-konsequenzen-fuer-berlin-a-ef101479-6094-4cc3-b32d-843ceb2527bf#ref=rss)
-### berlin
+* [https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit](https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit-a-c18c2ad8-8e59-4067-a109-8595ddce9082#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-ehrt-polizisten-fuer-einsatz-bei-kapitol-sturm](https://www.spiegel.de/ausland/usa-joe-biden-ehrt-polizisten-fuer-einsatz-bei-kapitol-sturm-a-be03797b-f086-4062-a27a-4e4731b581e1#ref=rss)
+### gewählt
 
-* [https://www.spiegel.de/politik/deutschland/nach-krawallen-an-silvester-csu-fordert-finanzielle-konsequenzen-fuer-berlin](https://www.spiegel.de/politik/deutschland/nach-krawallen-an-silvester-csu-fordert-finanzielle-konsequenzen-fuer-berlin-a-ef101479-6094-4cc3-b32d-843ceb2527bf#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern](https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern-a-8e4e0e28-886d-44a1-8f25-4781e05cd86f#ref=rss)
-### bayern
+* [https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig](https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig-a-8e13f1eb-7478-4837-82b8-620ae068f54e#ref=rss)
+* [https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt-a-f4b78132-daef-4329-bdb4-d1a537bd426f#ref=rss)
+* [https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt-a-55933f20-3ef1-4c9b-b1fc-096870197586#ref=rss)
+### news
 
-* [https://www.spiegel.de/politik/deutschland/nach-krawallen-an-silvester-csu-fordert-finanzielle-konsequenzen-fuer-berlin](https://www.spiegel.de/politik/deutschland/nach-krawallen-an-silvester-csu-fordert-finanzielle-konsequenzen-fuer-berlin-a-ef101479-6094-4cc3-b32d-843ceb2527bf#ref=rss)
-* [https://www.spiegel.de/sport/fussball/bayern-zugang-daley-blind-muenchen-ist-das-neue-amsterdam](https://www.spiegel.de/sport/fussball/bayern-zugang-daley-blind-muenchen-ist-das-neue-amsterdam-a-180e9ccc-1fed-4dfc-9584-81fac850f9d4#ref=rss)
-### gericht
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-samstag-07-januar](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-samstag-07-januar-a-e960d943-1a27-4f4c-b97a-f7152ada1115#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/virginia-sechsjaehriger-soll-in-newport-news-auf-lehrerin-geschossen-haben](https://www.spiegel.de/panorama/justiz/virginia-sechsjaehriger-soll-in-newport-news-auf-lehrerin-geschossen-haben-a-5b1113ea-04c0-45ea-93d8-e5c2f94cee25#ref=rss)
+### walter
 
-* [https://www.spiegel.de/politik/deutschland/nach-krawallen-an-silvester-csu-fordert-finanzielle-konsequenzen-fuer-berlin](https://www.spiegel.de/politik/deutschland/nach-krawallen-an-silvester-csu-fordert-finanzielle-konsequenzen-fuer-berlin-a-ef101479-6094-4cc3-b32d-843ceb2527bf#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie](https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie-a-f6e91af0-7cec-4c09-bf3e-89967b3d2d33#ref=rss)
-### mann
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+* [https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik](https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik-a-2efaf22c-d670-4c08-8c89-6df8bdc997f7#ref=rss)
+### lübcke
 
-* [https://www.spiegel.de/panorama/justiz/koelner-wegen-kindesmissbrauchs-angeklagt](https://www.spiegel.de/panorama/justiz/koelner-wegen-kindesmissbrauchs-angeklagt-a-9e3b95e7-f889-4587-928b-92200c3c394e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie](https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie-a-f6e91af0-7cec-4c09-bf3e-89967b3d2d33#ref=rss)
-### pirmasens
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+* [https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik](https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik-a-2efaf22c-d670-4c08-8c89-6df8bdc997f7#ref=rss)
+### usrepräsentantenhauses
 
-* [https://www.spiegel.de/kultur/literatur/pirmasens-sagt-verleihung-von-hugo-ball-preis-wegn-wegen-antisemitischer-klischeesab](https://www.spiegel.de/kultur/literatur/pirmasens-sagt-verleihung-von-hugo-ball-preis-wegn-wegen-antisemitischer-klischeesab-a-4ded7b49-0347-4c9a-ae8d-e963db4dbd65#ref=rss)
+* [https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt-a-f4b78132-daef-4329-bdb4-d1a537bd426f#ref=rss)
+* [https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt-a-55933f20-3ef1-4c9b-b1fc-096870197586#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-samstag-07-januar](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-samstag-07-januar-a-e960d943-1a27-4f4c-b97a-f7152ada1115#ref=rss)
+* [https://www.spiegel.de/politik/wochenrueckblick-spionageverdacht-beim-bnd-medikamentenmangel-alternativen-zu-gas-aus-russland-podcast](https://www.spiegel.de/politik/wochenrueckblick-spionageverdacht-beim-bnd-medikamentenmangel-alternativen-zu-gas-aus-russland-podcast-a-3417e177-c5fe-4c7f-9e82-4e9b36ee41b2#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b](https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b-a-28eb15be-fc95-451a-8c2b-f1828afd33fb#ref=rss)
+### kam
+
+* [https://www.spiegel.de/panorama/justiz/virginia-sechsjaehriger-soll-in-newport-news-auf-lehrerin-geschossen-haben](https://www.spiegel.de/panorama/justiz/virginia-sechsjaehriger-soll-in-newport-news-auf-lehrerin-geschossen-haben-a-5b1113ea-04c0-45ea-93d8-e5c2f94cee25#ref=rss)
+* [https://www.spiegel.de/wissenschaft/us-arzneibehoerde-vergibt-zulassung-fuer-alzheimer-medikament](https://www.spiegel.de/wissenschaft/us-arzneibehoerde-vergibt-zulassung-fuer-alzheimer-medikament-a-ece261d4-9c24-413b-9581-cdd0a14f45c2#ref=rss)
+### alcaraz
+
+* [https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab-a-4b552e87-4387-47de-9c53-1ad34c2a5384#ref=rss)
+### halvor
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-sieger-halvor-egner-granerud-gruebelt-nicht-mehr](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-sieger-halvor-egner-granerud-gruebelt-nicht-mehr-a-166235cd-8bdc-4bd3-a376-66dc28bb2981#ref=rss)
+### egner
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-sieger-halvor-egner-granerud-gruebelt-nicht-mehr](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-sieger-halvor-egner-granerud-gruebelt-nicht-mehr-a-166235cd-8bdc-4bd3-a376-66dc28bb2981#ref=rss)
+### granerud
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-sieger-halvor-egner-granerud-gruebelt-nicht-mehr](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-sieger-halvor-egner-granerud-gruebelt-nicht-mehr-a-166235cd-8bdc-4bd3-a376-66dc28bb2981#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-sieger-halvor-egner-granerud-gruebelt-nicht-mehr](https://www.spiegel.de/sport/wintersport/vierschanzentournee-2022-23-sieger-halvor-egner-granerud-gruebelt-nicht-mehr-a-166235cd-8bdc-4bd3-a376-66dc28bb2981#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab-a-4b552e87-4387-47de-9c53-1ad34c2a5384#ref=rss)
+### 2022
+
+* [https://www.spiegel.de/gesundheit/kinderkrankengeld-2022-deutlich-mehr-antraege-eingegangen](https://www.spiegel.de/gesundheit/kinderkrankengeld-2022-deutlich-mehr-antraege-eingegangen-a-16f653be-6af0-46c0-9b4d-930d2428e641#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab-a-4b552e87-4387-47de-9c53-1ad34c2a5384#ref=rss)
+### unter
+
+* [https://www.spiegel.de/gesundheit/kinderkrankengeld-2022-deutlich-mehr-antraege-eingegangen](https://www.spiegel.de/gesundheit/kinderkrankengeld-2022-deutlich-mehr-antraege-eingegangen-a-16f653be-6af0-46c0-9b4d-930d2428e641#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit](https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit-a-c18c2ad8-8e59-4067-a109-8595ddce9082#ref=rss)
+### kindern
+
+* [https://www.spiegel.de/gesundheit/kinderkrankengeld-2022-deutlich-mehr-antraege-eingegangen](https://www.spiegel.de/gesundheit/kinderkrankengeld-2022-deutlich-mehr-antraege-eingegangen-a-16f653be-6af0-46c0-9b4d-930d2428e641#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sechs-finanztipps-wie-familien-jetzt-an-mehr-geld-kommen](https://www.spiegel.de/wirtschaft/service/sechs-finanztipps-wie-familien-jetzt-an-mehr-geld-kommen-a-3547e1be-c716-4461-b1c1-1fa72c4133d6#ref=rss)
+### todesurteil
+
+* [https://www.spiegel.de/ausland/iran-proteste-todesurteil-gegen-bekannten-arzt-aufgehoben](https://www.spiegel.de/ausland/iran-proteste-todesurteil-gegen-bekannten-arzt-aufgehoben-a-e7bee783-f885-4af5-a1cc-2e80be786597#ref=rss)
+### aufgehoben
+
+* [https://www.spiegel.de/ausland/iran-proteste-todesurteil-gegen-bekannten-arzt-aufgehoben](https://www.spiegel.de/ausland/iran-proteste-todesurteil-gegen-bekannten-arzt-aufgehoben-a-e7bee783-f885-4af5-a1cc-2e80be786597#ref=rss)
+### waffe
+
+* [https://www.spiegel.de/ausland/iran-proteste-todesurteil-gegen-bekannten-arzt-aufgehoben](https://www.spiegel.de/ausland/iran-proteste-todesurteil-gegen-bekannten-arzt-aufgehoben-a-e7bee783-f885-4af5-a1cc-2e80be786597#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/virginia-sechsjaehriger-soll-in-newport-news-auf-lehrerin-geschossen-haben](https://www.spiegel.de/panorama/justiz/virginia-sechsjaehriger-soll-in-newport-news-auf-lehrerin-geschossen-haben-a-5b1113ea-04c0-45ea-93d8-e5c2f94cee25#ref=rss)
+### venus
+
+* [https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab-a-8dbc8a5b-fff1-40da-b83c-22806fcd1c4e#ref=rss)
+### williams
+
+* [https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab-a-8dbc8a5b-fff1-40da-b83c-22806fcd1c4e#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab-a-8dbc8a5b-fff1-40da-b83c-22806fcd1c4e#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab-a-4b552e87-4387-47de-9c53-1ad34c2a5384#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab-a-8dbc8a5b-fff1-40da-b83c-22806fcd1c4e#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab-a-4b552e87-4387-47de-9c53-1ad34c2a5384#ref=rss)
+### verletzungsbedingt
+
+* [https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab-a-8dbc8a5b-fff1-40da-b83c-22806fcd1c4e#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab-a-4b552e87-4387-47de-9c53-1ad34c2a5384#ref=rss)
+### erste
+
+* [https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab-a-8dbc8a5b-fff1-40da-b83c-22806fcd1c4e#ref=rss)
+* [https://www.spiegel.de/auto/auto-visionen-von-der-ces-bits-statt-benzingeruch](https://www.spiegel.de/auto/auto-visionen-von-der-ces-bits-statt-benzingeruch-a-f7020dea-4a3d-4055-a502-55b369b24bad#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab-a-8dbc8a5b-fff1-40da-b83c-22806fcd1c4e#ref=rss)
+* [https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab-a-4b552e87-4387-47de-9c53-1ad34c2a5384#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/tennis-venus-williams-sagt-australien-open-verletzungsbedingt-ab-a-8dbc8a5b-fff1-40da-b83c-22806fcd1c4e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/virginia-sechsjaehriger-soll-in-newport-news-auf-lehrerin-geschossen-haben](https://www.spiegel.de/panorama/justiz/virginia-sechsjaehriger-soll-in-newport-news-auf-lehrerin-geschossen-haben-a-5b1113ea-04c0-45ea-93d8-e5c2f94cee25#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/panorama/kaum-schnee-in-den-alpen-warum-skipisten-in-der-schweiz-gruen-bleiben](https://www.spiegel.de/panorama/kaum-schnee-in-den-alpen-warum-skipisten-in-der-schweiz-gruen-bleiben-a-0abc5000-79fc-4055-96e3-42597615646a#ref=rss)
+### bleiben
+
+* [https://www.spiegel.de/panorama/kaum-schnee-in-den-alpen-warum-skipisten-in-der-schweiz-gruen-bleiben](https://www.spiegel.de/panorama/kaum-schnee-in-den-alpen-warum-skipisten-in-der-schweiz-gruen-bleiben-a-0abc5000-79fc-4055-96e3-42597615646a#ref=rss)
+### läuft
+
+* [https://www.spiegel.de/panorama/kaum-schnee-in-den-alpen-warum-skipisten-in-der-schweiz-gruen-bleiben](https://www.spiegel.de/panorama/kaum-schnee-in-den-alpen-warum-skipisten-in-der-schweiz-gruen-bleiben-a-0abc5000-79fc-4055-96e3-42597615646a#ref=rss)
+* [https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt-a-55933f20-3ef1-4c9b-b1fc-096870197586#ref=rss)
+### mitten
+
+* [https://www.spiegel.de/panorama/kaum-schnee-in-den-alpen-warum-skipisten-in-der-schweiz-gruen-bleiben](https://www.spiegel.de/panorama/kaum-schnee-in-den-alpen-warum-skipisten-in-der-schweiz-gruen-bleiben-a-0abc5000-79fc-4055-96e3-42597615646a#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hacker-und-attentaeter-greifen-regime-an](https://www.spiegel.de/ausland/iran-hacker-und-attentaeter-greifen-regime-an-a-7c857bd2-91ba-447c-953c-42efba37e7b4#ref=rss)
+### kämpfe
+
+* [https://www.spiegel.de/ausland/ukraine-weihnachts-waffenruhe-haelt-nicht-london-meldet-kaempfe-auf-routine-level](https://www.spiegel.de/ausland/ukraine-weihnachts-waffenruhe-haelt-nicht-london-meldet-kaempfe-auf-routine-level-a-da84c6b0-55f0-40d2-8de7-aaaaec096a0e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mexiko-liefert-sohn-von-drogenboss-el-chapo-nicht-an-die-usa-aus](https://www.spiegel.de/panorama/justiz/mexiko-liefert-sohn-von-drogenboss-el-chapo-nicht-an-die-usa-aus-a-256b534b-8af9-4597-9dc7-c9294c087281#ref=rss)
+### eigentlich
+
+* [https://www.spiegel.de/ausland/ukraine-weihnachts-waffenruhe-haelt-nicht-london-meldet-kaempfe-auf-routine-level](https://www.spiegel.de/ausland/ukraine-weihnachts-waffenruhe-haelt-nicht-london-meldet-kaempfe-auf-routine-level-a-da84c6b0-55f0-40d2-8de7-aaaaec096a0e#ref=rss)
+* [https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter](https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter-a-1660e47a-2013-4058-9245-156255b521d7#ref=rss)
+### putin
+
+* [https://www.spiegel.de/ausland/ukraine-weihnachts-waffenruhe-haelt-nicht-london-meldet-kaempfe-auf-routine-level](https://www.spiegel.de/ausland/ukraine-weihnachts-waffenruhe-haelt-nicht-london-meldet-kaempfe-auf-routine-level-a-da84c6b0-55f0-40d2-8de7-aaaaec096a0e#ref=rss)
+* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-samstag-07-januar](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-samstag-07-januar-a-e960d943-1a27-4f4c-b97a-f7152ada1115#ref=rss)
+### angaben
+
+* [https://www.spiegel.de/ausland/ukraine-weihnachts-waffenruhe-haelt-nicht-london-meldet-kaempfe-auf-routine-level](https://www.spiegel.de/ausland/ukraine-weihnachts-waffenruhe-haelt-nicht-london-meldet-kaempfe-auf-routine-level-a-da84c6b0-55f0-40d2-8de7-aaaaec096a0e#ref=rss)
+* [https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit](https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit-a-c18c2ad8-8e59-4067-a109-8595ddce9082#ref=rss)
+### jack
+
+* [https://www.spiegel.de/wirtschaft/jack-ma-gibt-kontrolle-ueber-die-ant-group-ab](https://www.spiegel.de/wirtschaft/jack-ma-gibt-kontrolle-ueber-die-ant-group-ab-a-d08320aa-e552-4a5f-a2f6-436d99ca8be5#ref=rss)
+### ma
+
+* [https://www.spiegel.de/wirtschaft/jack-ma-gibt-kontrolle-ueber-die-ant-group-ab](https://www.spiegel.de/wirtschaft/jack-ma-gibt-kontrolle-ueber-die-ant-group-ab-a-d08320aa-e552-4a5f-a2f6-436d99ca8be5#ref=rss)
+### weg
+
+* [https://www.spiegel.de/wirtschaft/jack-ma-gibt-kontrolle-ueber-die-ant-group-ab](https://www.spiegel.de/wirtschaft/jack-ma-gibt-kontrolle-ueber-die-ant-group-ab-a-d08320aa-e552-4a5f-a2f6-436d99ca8be5#ref=rss)
+* [https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter](https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter-a-1660e47a-2013-4058-9245-156255b521d7#ref=rss)
+### neue
+
+* [https://www.spiegel.de/auto/auto-visionen-von-der-ces-bits-statt-benzingeruch](https://www.spiegel.de/auto/auto-visionen-von-der-ces-bits-statt-benzingeruch-a-f7020dea-4a3d-4055-a502-55b369b24bad#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hacker-und-attentaeter-greifen-regime-an](https://www.spiegel.de/ausland/iran-hacker-und-attentaeter-greifen-regime-an-a-7c857bd2-91ba-447c-953c-42efba37e7b4#ref=rss)
 ### alle
 
-* [https://www.spiegel.de/kultur/literatur/pirmasens-sagt-verleihung-von-hugo-ball-preis-wegn-wegen-antisemitischer-klischeesab](https://www.spiegel.de/kultur/literatur/pirmasens-sagt-verleihung-von-hugo-ball-preis-wegn-wegen-antisemitischer-klischeesab-a-4ded7b49-0347-4c9a-ae8d-e963db4dbd65#ref=rss)
-* [https://www.spiegel.de/sport/fussball/gianluca-vialli-ganz-in-eleganz-nachruf-auf-den-italien-star](https://www.spiegel.de/sport/fussball/gianluca-vialli-ganz-in-eleganz-nachruf-auf-den-italien-star-a-d1773070-3d25-4719-80da-1d5237b418e1#ref=rss)
-### ball
+* [https://www.spiegel.de/auto/auto-visionen-von-der-ces-bits-statt-benzingeruch](https://www.spiegel.de/auto/auto-visionen-von-der-ces-bits-statt-benzingeruch-a-f7020dea-4a3d-4055-a502-55b369b24bad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/sechs-finanztipps-wie-familien-jetzt-an-mehr-geld-kommen](https://www.spiegel.de/wirtschaft/service/sechs-finanztipps-wie-familien-jetzt-an-mehr-geld-kommen-a-3547e1be-c716-4461-b1c1-1fa72c4133d6#ref=rss)
+### sesamstraße
 
-* [https://www.spiegel.de/kultur/literatur/pirmasens-sagt-verleihung-von-hugo-ball-preis-wegn-wegen-antisemitischer-klischeesab](https://www.spiegel.de/kultur/literatur/pirmasens-sagt-verleihung-von-hugo-ball-preis-wegn-wegen-antisemitischer-klischeesab-a-4ded7b49-0347-4c9a-ae8d-e963db4dbd65#ref=rss)
-### israel
+* [https://www.spiegel.de/kultur/tv/die-sesamstrasse-wird-50-keeeekse](https://www.spiegel.de/kultur/tv/die-sesamstrasse-wird-50-keeeekse-a-4c292508-dc0f-4a0f-9b44-20fc9861ba39#ref=rss)
+### 50
 
-* [https://www.spiegel.de/ausland/israel-beschliesst-nach-uno-entscheidung-einen-stopp-fuer-palaestinensische-bauprojekte](https://www.spiegel.de/ausland/israel-beschliesst-nach-uno-entscheidung-einen-stopp-fuer-palaestinensische-bauprojekte-a-d9c720aa-81ec-4b13-ae15-365a9526aa73#ref=rss)
-### bradley
+* [https://www.spiegel.de/kultur/tv/die-sesamstrasse-wird-50-keeeekse](https://www.spiegel.de/kultur/tv/die-sesamstrasse-wird-50-keeeekse-a-4c292508-dc0f-4a0f-9b44-20fc9861ba39#ref=rss)
+### diesem
 
-* [https://www.spiegel.de/wissenschaft/technik/panzer-trio-fuer-die-ukraine-was-marder-bradley-und-amx-koennen](https://www.spiegel.de/wissenschaft/technik/panzer-trio-fuer-die-ukraine-was-marder-bradley-und-amx-koennen-a-67f3ac42-4e6a-4df2-8d52-10557e737a82#ref=rss)
-### amx
+* [https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter](https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter-a-1660e47a-2013-4058-9245-156255b521d7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/us-arzneibehoerde-vergibt-zulassung-fuer-alzheimer-medikament](https://www.spiegel.de/wissenschaft/us-arzneibehoerde-vergibt-zulassung-fuer-alzheimer-medikament-a-ece261d4-9c24-413b-9581-cdd0a14f45c2#ref=rss)
+### uns
 
-* [https://www.spiegel.de/wissenschaft/technik/panzer-trio-fuer-die-ukraine-was-marder-bradley-und-amx-koennen](https://www.spiegel.de/wissenschaft/technik/panzer-trio-fuer-die-ukraine-was-marder-bradley-und-amx-koennen-a-67f3ac42-4e6a-4df2-8d52-10557e737a82#ref=rss)
+* [https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter](https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter-a-1660e47a-2013-4058-9245-156255b521d7#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter](https://www.spiegel.de/familie/einschulung-wie-finden-wir-die-richtige-grundschule-fuer-unseren-sohn-familiennewsletter-a-1660e47a-2013-4058-9245-156255b521d7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+### drogenboss
+
+* [https://www.spiegel.de/panorama/justiz/mexiko-liefert-sohn-von-drogenboss-el-chapo-nicht-an-die-usa-aus](https://www.spiegel.de/panorama/justiz/mexiko-liefert-sohn-von-drogenboss-el-chapo-nicht-an-die-usa-aus-a-256b534b-8af9-4597-9dc7-c9294c087281#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/panorama/justiz/mexiko-liefert-sohn-von-drogenboss-el-chapo-nicht-an-die-usa-aus](https://www.spiegel.de/panorama/justiz/mexiko-liefert-sohn-von-drogenboss-el-chapo-nicht-an-die-usa-aus-a-256b534b-8af9-4597-9dc7-c9294c087281#ref=rss)
+* [https://www.spiegel.de/ausland/iran-richtet-zwei-teilnehmer-der-protestbewegung-hin](https://www.spiegel.de/ausland/iran-richtet-zwei-teilnehmer-der-protestbewegung-hin-a-8ffa33c9-3d0a-4804-a9c0-923dccbae947#ref=rss)
+### wahl
+
+* [https://www.spiegel.de/ausland/kevin-mccarthy-nach-seiner-wahl-ich-bin-froh-dass-es-vorbei-ist](https://www.spiegel.de/ausland/kevin-mccarthy-nach-seiner-wahl-ich-bin-froh-dass-es-vorbei-ist-a-094fd965-857c-4ede-a400-40e37c882b20#ref=rss)
+* [https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig](https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig-a-8e13f1eb-7478-4837-82b8-620ae068f54e#ref=rss)
+### 15
+
+* [https://www.spiegel.de/ausland/kevin-mccarthy-nach-seiner-wahl-ich-bin-froh-dass-es-vorbei-ist](https://www.spiegel.de/ausland/kevin-mccarthy-nach-seiner-wahl-ich-bin-froh-dass-es-vorbei-ist-a-094fd965-857c-4ede-a400-40e37c882b20#ref=rss)
+* [https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt-a-55933f20-3ef1-4c9b-b1fc-096870197586#ref=rss)
+### joe
+
+* [https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit](https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit-a-c18c2ad8-8e59-4067-a109-8595ddce9082#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-ehrt-polizisten-fuer-einsatz-bei-kapitol-sturm](https://www.spiegel.de/ausland/usa-joe-biden-ehrt-polizisten-fuer-einsatz-bei-kapitol-sturm-a-be03797b-f086-4062-a27a-4e4731b581e1#ref=rss)
+### uspräsident
+
+* [https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit](https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit-a-c18c2ad8-8e59-4067-a109-8595ddce9082#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-ehrt-polizisten-fuer-einsatz-bei-kapitol-sturm](https://www.spiegel.de/ausland/usa-joe-biden-ehrt-polizisten-fuer-einsatz-bei-kapitol-sturm-a-be03797b-f086-4062-a27a-4e4731b581e1#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit](https://www.spiegel.de/ausland/joe-biden-signalisiert-kevin-mccarthy-bereitschaft-zur-zusammenarbeit-a-c18c2ad8-8e59-4067-a109-8595ddce9082#ref=rss)
+* [https://www.spiegel.de/ausland/gemeinsame-militaereinheiten-lukaschenko-inspiziert-russisch-belarussische-truppe-im-land](https://www.spiegel.de/ausland/gemeinsame-militaereinheiten-lukaschenko-inspiziert-russisch-belarussische-truppe-im-land-a-cca69f96-3ef4-40cb-ac58-0778defded06#ref=rss)
+### uskongress
+
+* [https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig](https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig-a-8e13f1eb-7478-4837-82b8-620ae068f54e#ref=rss)
+* [https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt-a-55933f20-3ef1-4c9b-b1fc-096870197586#ref=rss)
+### repräsentantenhaus
+
+* [https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig](https://www.spiegel.de/ausland/wahl-von-kevin-mccarthy-im-us-kongress-heute-ein-koenig-a-8e13f1eb-7478-4837-82b8-620ae068f54e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
 ### panzer
 
-* [https://www.spiegel.de/wissenschaft/technik/panzer-trio-fuer-die-ukraine-was-marder-bradley-und-amx-koennen](https://www.spiegel.de/wissenschaft/technik/panzer-trio-fuer-die-ukraine-was-marder-bradley-und-amx-koennen-a-67f3ac42-4e6a-4df2-8d52-10557e737a82#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutsche-panzer-fuer-die-ukraine-und-jetzt-der-leopard](https://www.spiegel.de/politik/deutschland/deutsche-panzer-fuer-die-ukraine-und-jetzt-der-leopard-a-4366fdbe-4925-4620-8189-4f2b90b04351#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-was-bringt-die-neueste-panzer-zusage-der-ukraine](https://www.spiegel.de/ausland/ukraine-krieg-was-bringt-die-neueste-panzer-zusage-der-ukraine-a-07013f17-5f99-4ce4-bf75-42bcbd4b7878#ref=rss)
+### spd
+
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+* [https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik](https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik-a-2efaf22c-d670-4c08-8c89-6df8bdc997f7#ref=rss)
+### hessen
+
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+* [https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik](https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik-a-2efaf22c-d670-4c08-8c89-6df8bdc997f7#ref=rss)
+### christian
+
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+### wirft
+
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+* [https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik](https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik-a-2efaf22c-d670-4c08-8c89-6df8bdc997f7#ref=rss)
+### hessenspd
+
+* [https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner](https://www.spiegel.de/politik/deutschland/news-kevin-mccarthy-panzer-ukraine-spd-in-hessen-walter-luebcke-christian-lindner-a-fc957527-2809-4cce-81a5-c869d3b72af6#ref=rss)
+* [https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik](https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik-a-2efaf22c-d670-4c08-8c89-6df8bdc997f7#ref=rss)
+### ende
+
+* [https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt-a-f4b78132-daef-4329-bdb4-d1a537bd426f#ref=rss)
+* [https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt-a-55933f20-3ef1-4c9b-b1fc-096870197586#ref=rss)
+### erforderliche
+
+* [https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt-a-f4b78132-daef-4329-bdb4-d1a537bd426f#ref=rss)
+* [https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt-a-55933f20-3ef1-4c9b-b1fc-096870197586#ref=rss)
+### mehrheit
+
+* [https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt-a-f4b78132-daef-4329-bdb4-d1a537bd426f#ref=rss)
+* [https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt-a-55933f20-3ef1-4c9b-b1fc-096870197586#ref=rss)
+### erhalten
+
+* [https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/kevin-mccarthy-zum-sprecher-des-us-repraesentantenhauses-gewaehlt-a-f4b78132-daef-4329-bdb4-d1a537bd426f#ref=rss)
+* [https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt](https://www.spiegel.de/ausland/us-kongress-kevin-mccarthy-im-14-anlauf-erneut-nicht-zum-sprecher-des-repraesentantenhauses-gewaehlt-a-55933f20-3ef1-4c9b-b1fc-096870197586#ref=rss)
+### januar
+
+* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-samstag-07-januar](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-samstag-07-januar-a-e960d943-1a27-4f4c-b97a-f7152ada1115#ref=rss)
+* [https://www.spiegel.de/ausland/usa-joe-biden-ehrt-polizisten-fuer-einsatz-bei-kapitol-sturm](https://www.spiegel.de/ausland/usa-joe-biden-ehrt-polizisten-fuer-einsatz-bei-kapitol-sturm-a-be03797b-f086-4062-a27a-4e4731b581e1#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-samstag-07-januar](https://www.spiegel.de/ausland/news-zum-russland-ukraine-krieg-das-geschah-in-der-nacht-zu-samstag-07-januar-a-e960d943-1a27-4f4c-b97a-f7152ada1115#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/virginia-sechsjaehriger-soll-in-newport-news-auf-lehrerin-geschossen-haben](https://www.spiegel.de/panorama/justiz/virginia-sechsjaehriger-soll-in-newport-news-auf-lehrerin-geschossen-haben-a-5b1113ea-04c0-45ea-93d8-e5c2f94cee25#ref=rss)
+### bnd
+
+* [https://www.spiegel.de/politik/wochenrueckblick-spionageverdacht-beim-bnd-medikamentenmangel-alternativen-zu-gas-aus-russland-podcast](https://www.spiegel.de/politik/wochenrueckblick-spionageverdacht-beim-bnd-medikamentenmangel-alternativen-zu-gas-aus-russland-podcast-a-3417e177-c5fe-4c7f-9e82-4e9b36ee41b2#ref=rss)
+### alternativen
+
+* [https://www.spiegel.de/politik/wochenrueckblick-spionageverdacht-beim-bnd-medikamentenmangel-alternativen-zu-gas-aus-russland-podcast](https://www.spiegel.de/politik/wochenrueckblick-spionageverdacht-beim-bnd-medikamentenmangel-alternativen-zu-gas-aus-russland-podcast-a-3417e177-c5fe-4c7f-9e82-4e9b36ee41b2#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/wissenschaft/technik/panzer-trio-fuer-die-ukraine-was-marder-bradley-und-amx-koennen](https://www.spiegel.de/wissenschaft/technik/panzer-trio-fuer-die-ukraine-was-marder-bradley-und-amx-koennen-a-67f3ac42-4e6a-4df2-8d52-10557e737a82#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern](https://www.spiegel.de/ausland/ukraine-news-am-freitag-anton-hofreiter-draengt-auf-lieferung-von-kampfpanzern-a-8e4e0e28-886d-44a1-8f25-4781e05cd86f#ref=rss)
-### gianluca
+* [https://www.spiegel.de/politik/wochenrueckblick-spionageverdacht-beim-bnd-medikamentenmangel-alternativen-zu-gas-aus-russland-podcast](https://www.spiegel.de/politik/wochenrueckblick-spionageverdacht-beim-bnd-medikamentenmangel-alternativen-zu-gas-aus-russland-podcast-a-3417e177-c5fe-4c7f-9e82-4e9b36ee41b2#ref=rss)
+### woche
 
-* [https://www.spiegel.de/sport/fussball/gianluca-vialli-ganz-in-eleganz-nachruf-auf-den-italien-star](https://www.spiegel.de/sport/fussball/gianluca-vialli-ganz-in-eleganz-nachruf-auf-den-italien-star-a-d1773070-3d25-4719-80da-1d5237b418e1#ref=rss)
-### vialli
+* [https://www.spiegel.de/politik/wochenrueckblick-spionageverdacht-beim-bnd-medikamentenmangel-alternativen-zu-gas-aus-russland-podcast](https://www.spiegel.de/politik/wochenrueckblick-spionageverdacht-beim-bnd-medikamentenmangel-alternativen-zu-gas-aus-russland-podcast-a-3417e177-c5fe-4c7f-9e82-4e9b36ee41b2#ref=rss)
+* [https://www.spiegel.de/ausland/iran-hacker-und-attentaeter-greifen-regime-an](https://www.spiegel.de/ausland/iran-hacker-und-attentaeter-greifen-regime-an-a-7c857bd2-91ba-447c-953c-42efba37e7b4#ref=rss)
+### lehrerin
 
-* [https://www.spiegel.de/sport/fussball/gianluca-vialli-ganz-in-eleganz-nachruf-auf-den-italien-star](https://www.spiegel.de/sport/fussball/gianluca-vialli-ganz-in-eleganz-nachruf-auf-den-italien-star-a-d1773070-3d25-4719-80da-1d5237b418e1#ref=rss)
-### hamm
+* [https://www.spiegel.de/panorama/justiz/virginia-sechsjaehriger-soll-in-newport-news-auf-lehrerin-geschossen-haben](https://www.spiegel.de/panorama/justiz/virginia-sechsjaehriger-soll-in-newport-news-auf-lehrerin-geschossen-haben-a-5b1113ea-04c0-45ea-93d8-e5c2f94cee25#ref=rss)
+### schritt
 
-* [https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie](https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie-a-f6e91af0-7cec-4c09-bf3e-89967b3d2d33#ref=rss)
-### psychiatrie
+* [https://www.spiegel.de/wirtschaft/service/sechs-finanztipps-wie-familien-jetzt-an-mehr-geld-kommen](https://www.spiegel.de/wirtschaft/service/sechs-finanztipps-wie-familien-jetzt-an-mehr-geld-kommen-a-3547e1be-c716-4461-b1c1-1fa72c4133d6#ref=rss)
+### polizisten
 
-* [https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie](https://www.spiegel.de/panorama/justiz/hamm-taeter-muss-nach-toedlichem-messerangriff-auf-eine-dozentin-in-die-geschlossene-psychiatrie-a-f6e91af0-7cec-4c09-bf3e-89967b3d2d33#ref=rss)
-### krankenhäuser
+* [https://www.spiegel.de/ausland/usa-joe-biden-ehrt-polizisten-fuer-einsatz-bei-kapitol-sturm](https://www.spiegel.de/ausland/usa-joe-biden-ehrt-polizisten-fuer-einsatz-bei-kapitol-sturm-a-be03797b-f086-4062-a27a-4e4731b581e1#ref=rss)
+### carlos
 
-* [https://www.spiegel.de/panorama/corona-in-china-volle-krankenhaeuser-und-womoeglich-eine-million-tote](https://www.spiegel.de/panorama/corona-in-china-volle-krankenhaeuser-und-womoeglich-eine-million-tote-a-b0afc177-c89c-4164-804e-c360bb55676a#ref=rss)
-### iggy
+* [https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab](https://www.spiegel.de/sport/tennis/australian-open-carlos-alcaraz-sagt-verletzungsbedingt-ab-a-4b552e87-4387-47de-9c53-1ad34c2a5384#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert](https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert-a-81edf318-dd58-40cc-892e-8e8dd18284a0#ref=rss)
-### pop
+* [https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik](https://www.spiegel.de/politik/hessen-spd-nach-tweet-zu-walter-luebcke-massiv-in-der-kritik-a-2efaf22c-d670-4c08-8c89-6df8bdc997f7#ref=rss)
+### zulassung
 
-* [https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert](https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert-a-81edf318-dd58-40cc-892e-8e8dd18284a0#ref=rss)
-### every
+* [https://www.spiegel.de/wissenschaft/us-arzneibehoerde-vergibt-zulassung-fuer-alzheimer-medikament](https://www.spiegel.de/wissenschaft/us-arzneibehoerde-vergibt-zulassung-fuer-alzheimer-medikament-a-ece261d4-9c24-413b-9581-cdd0a14f45c2#ref=rss)
+### lukaschenko
 
-* [https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert](https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert-a-81edf318-dd58-40cc-892e-8e8dd18284a0#ref=rss)
-### loser
+* [https://www.spiegel.de/ausland/gemeinsame-militaereinheiten-lukaschenko-inspiziert-russisch-belarussische-truppe-im-land](https://www.spiegel.de/ausland/gemeinsame-militaereinheiten-lukaschenko-inspiziert-russisch-belarussische-truppe-im-land-a-cca69f96-3ef4-40cb-ac58-0778defded06#ref=rss)
+### russischbelarussische
 
-* [https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert](https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert-a-81edf318-dd58-40cc-892e-8e8dd18284a0#ref=rss)
-### unser
+* [https://www.spiegel.de/ausland/gemeinsame-militaereinheiten-lukaschenko-inspiziert-russisch-belarussische-truppe-im-land](https://www.spiegel.de/ausland/gemeinsame-militaereinheiten-lukaschenko-inspiziert-russisch-belarussische-truppe-im-land-a-cca69f96-3ef4-40cb-ac58-0778defded06#ref=rss)
+### truppe
 
-* [https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert](https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert-a-81edf318-dd58-40cc-892e-8e8dd18284a0#ref=rss)
-### album
+* [https://www.spiegel.de/ausland/gemeinsame-militaereinheiten-lukaschenko-inspiziert-russisch-belarussische-truppe-im-land](https://www.spiegel.de/ausland/gemeinsame-militaereinheiten-lukaschenko-inspiziert-russisch-belarussische-truppe-im-land-a-cca69f96-3ef4-40cb-ac58-0778defded06#ref=rss)
+### regime
 
-* [https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert](https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert-a-81edf318-dd58-40cc-892e-8e8dd18284a0#ref=rss)
-### einmal
+* [https://www.spiegel.de/ausland/iran-hacker-und-attentaeter-greifen-regime-an](https://www.spiegel.de/ausland/iran-hacker-und-attentaeter-greifen-regime-an-a-7c857bd2-91ba-447c-953c-42efba37e7b4#ref=rss)
+### david
 
-* [https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert](https://www.spiegel.de/kultur/musik/iggy-pop-every-loser-ist-unser-album-der-woche-abgehoert-a-81edf318-dd58-40cc-892e-8e8dd18284a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten-a-3ebf2afd-ad04-4012-91f7-b35b0ff3373a#ref=rss)
-### zdf
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b](https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b-a-28eb15be-fc95-451a-8c2b-f1828afd33fb#ref=rss)
+### trainer
 
-* [https://www.spiegel.de/kultur/tv/zdf-magazin-royale-sendung-mit-fdp-fahndungsplakat-aus-mediathek-entfernt](https://www.spiegel.de/kultur/tv/zdf-magazin-royale-sendung-mit-fdp-fahndungsplakat-aus-mediathek-entfernt-a-aaa7963e-4099-4ec6-9c8d-de109a982552#ref=rss)
-### magazin
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b](https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b-a-28eb15be-fc95-451a-8c2b-f1828afd33fb#ref=rss)
+### norwich
 
-* [https://www.spiegel.de/kultur/tv/zdf-magazin-royale-sendung-mit-fdp-fahndungsplakat-aus-mediathek-entfernt](https://www.spiegel.de/kultur/tv/zdf-magazin-royale-sendung-mit-fdp-fahndungsplakat-aus-mediathek-entfernt-a-aaa7963e-4099-4ec6-9c8d-de109a982552#ref=rss)
-### royale
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b](https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b-a-28eb15be-fc95-451a-8c2b-f1828afd33fb#ref=rss)
+### beckham
 
-* [https://www.spiegel.de/kultur/tv/zdf-magazin-royale-sendung-mit-fdp-fahndungsplakat-aus-mediathek-entfernt](https://www.spiegel.de/kultur/tv/zdf-magazin-royale-sendung-mit-fdp-fahndungsplakat-aus-mediathek-entfernt-a-aaa7963e-4099-4ec6-9c8d-de109a982552#ref=rss)
-### entfernt
-
-* [https://www.spiegel.de/kultur/tv/zdf-magazin-royale-sendung-mit-fdp-fahndungsplakat-aus-mediathek-entfernt](https://www.spiegel.de/kultur/tv/zdf-magazin-royale-sendung-mit-fdp-fahndungsplakat-aus-mediathek-entfernt-a-aaa7963e-4099-4ec6-9c8d-de109a982552#ref=rss)
-### folge
-
-* [https://www.spiegel.de/kultur/tv/zdf-magazin-royale-sendung-mit-fdp-fahndungsplakat-aus-mediathek-entfernt](https://www.spiegel.de/kultur/tv/zdf-magazin-royale-sendung-mit-fdp-fahndungsplakat-aus-mediathek-entfernt-a-aaa7963e-4099-4ec6-9c8d-de109a982552#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten-a-3ebf2afd-ad04-4012-91f7-b35b0ff3373a#ref=rss)
-### daley
-
-* [https://www.spiegel.de/sport/fussball/bayern-zugang-daley-blind-muenchen-ist-das-neue-amsterdam](https://www.spiegel.de/sport/fussball/bayern-zugang-daley-blind-muenchen-ist-das-neue-amsterdam-a-180e9ccc-1fed-4dfc-9584-81fac850f9d4#ref=rss)
-### blind
-
-* [https://www.spiegel.de/sport/fussball/bayern-zugang-daley-blind-muenchen-ist-das-neue-amsterdam](https://www.spiegel.de/sport/fussball/bayern-zugang-daley-blind-muenchen-ist-das-neue-amsterdam-a-180e9ccc-1fed-4dfc-9584-81fac850f9d4#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten-a-3ebf2afd-ad04-4012-91f7-b35b0ff3373a#ref=rss)
-### stellwerken
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-personalmangel-in-stellwerken-375-000-minuten-verspaetung-in-zehn-monaten-a-3ebf2afd-ad04-4012-91f7-b35b0ff3373a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b](https://www.spiegel.de/sport/fussball/fussball-transfers-david-wagner-wird-trainer-in-norwich-romeo-beckham-leihweise-zu-brentford-b-a-28eb15be-fc95-451a-8c2b-f1828afd33fb#ref=rss)
 
