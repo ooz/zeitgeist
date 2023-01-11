@@ -4,296 +4,303 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### polizei
-
-* [https://www.spiegel.de/panorama/luetzerath-in-nrw-der-kampf-in-bildern](https://www.spiegel.de/panorama/luetzerath-in-nrw-der-kampf-in-bildern-a-5fe6a60d-d86a-4ffe-ae60-7139c606d37d#ref=rss)
-* [https://www.spiegel.de/ausland/london-heathrow-britische-polizei-startet-nach-uranfund-terrorermittlungen](https://www.spiegel.de/ausland/london-heathrow-britische-polizei-startet-nach-uranfund-terrorermittlungen-a-81fe8819-d1b7-47bc-a80c-7a70477bb512#ref=rss)
-* [https://www.spiegel.de/panorama/luetzerath-news-polizei-startet-raeumung-des-dorfes](https://www.spiegel.de/panorama/luetzerath-news-polizei-startet-raeumung-des-dorfes-a-d24d0202-db67-463c-8a1f-104751c6806c#ref=rss)
-* [https://www.spiegel.de/panorama/japan-polizei-warnt-vor-u-bahn-grapschern](https://www.spiegel.de/panorama/japan-polizei-warnt-vor-u-bahn-grapschern-a-a6034cef-8f13-4388-a966-952f01f92aab#ref=rss)
 ### lützerath
 
-* [https://www.spiegel.de/panorama/luetzerath-in-nrw-der-kampf-in-bildern](https://www.spiegel.de/panorama/luetzerath-in-nrw-der-kampf-in-bildern-a-5fe6a60d-d86a-4ffe-ae60-7139c606d37d#ref=rss)
-* [https://www.spiegel.de/panorama/luetzerath-news-polizei-startet-raeumung-des-dorfes](https://www.spiegel.de/panorama/luetzerath-news-polizei-startet-raeumung-des-dorfes-a-d24d0202-db67-463c-8a1f-104751c6806c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-als-symbol-des-scheiterns-der-energiepolitik-podcast](https://www.spiegel.de/panorama/gesellschaft/luetzerath-als-symbol-des-scheiterns-der-energiepolitik-podcast-a-c5eb25d1-5a27-4428-a4a5-c5d7ad84b081#ref=rss)
-### mehr
+* [https://www.spiegel.de/wissenschaft/luetzerath-wird-die-kohle-fuer-den-klimaschutz-und-die-energiesicherheit-benoetigt](https://www.spiegel.de/wissenschaft/luetzerath-wird-die-kohle-fuer-den-klimaschutz-und-die-energiesicherheit-benoetigt-a-2dfa9a9c-030d-4ecb-afe2-559ec8dcfe65#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds](https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds-a-6e855e8e-7896-41ae-969b-48f4e8012481#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-so-lief-der-erste-tag-der-raeumung](https://www.spiegel.de/panorama/gesellschaft/luetzerath-so-lief-der-erste-tag-der-raeumung-a-9e90748d-4884-423d-8a21-ce64de28e434#ref=rss)
+### tag
 
-* [https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie](https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie-a-0d4b3802-0f70-426d-8985-6a8a41d7936e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht](https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht-a-1b3ac522-0693-4873-bb39-dbaed200e9c0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-kanada-und-mexiko-wollen-produktion-nach-nordamerika-zurueckholen](https://www.spiegel.de/wirtschaft/usa-kanada-und-mexiko-wollen-produktion-nach-nordamerika-zurueckholen-a-fe6cb545-cc2f-4a16-94bf-5e897b6f13eb#ref=rss)
-* [https://www.spiegel.de/ausland/corona-satellitenbilder-chinesischer-krematorien-deuten-auf-deutlich-mehr-tote-hin](https://www.spiegel.de/ausland/corona-satellitenbilder-chinesischer-krematorien-deuten-auf-deutlich-mehr-tote-hin-a-c4305852-d092-4e54-a210-c88b820d564c#ref=rss)
-### golden
+* [https://www.spiegel.de/wirtschaft/forscher-oelsanktionen-kosten-russland-160-millionen-euro-am-tag](https://www.spiegel.de/wirtschaft/forscher-oelsanktionen-kosten-russland-160-millionen-euro-am-tag-a-17d90c79-541d-49c8-88f0-cfe929581e4d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-so-lief-der-erste-tag-der-raeumung](https://www.spiegel.de/panorama/gesellschaft/luetzerath-so-lief-der-erste-tag-der-raeumung-a-9e90748d-4884-423d-8a21-ce64de28e434#ref=rss)
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### lothar
 
-* [https://www.spiegel.de/kultur/tv/golden-globes-perfekte-pr-und-eine-ganze-elefantenherde-im-saal](https://www.spiegel.de/kultur/tv/golden-globes-perfekte-pr-und-eine-ganze-elefantenherde-im-saal-a-f37a9e7e-23cd-4d65-a737-ca17ea60225f#ref=rss)
-* [https://www.spiegel.de/kultur/golden-globe-awards-2023-diese-filme-und-serien-haben-gewonnen](https://www.spiegel.de/kultur/golden-globe-awards-2023-diese-filme-und-serien-haben-gewonnen-a-4a0e9ad0-11a6-474e-9436-da309949d644#ref=rss)
-### jahr
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds](https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds-a-6e855e8e-7896-41ae-969b-48f4e8012481#ref=rss)
+* [https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut](https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut-a-46128d5f-35a3-4db8-ab11-f14938fa5bc5#ref=rss)
+### wieler
 
-* [https://www.spiegel.de/kultur/tv/golden-globes-perfekte-pr-und-eine-ganze-elefantenherde-im-saal](https://www.spiegel.de/kultur/tv/golden-globes-perfekte-pr-und-eine-ganze-elefantenherde-im-saal-a-f37a9e7e-23cd-4d65-a737-ca17ea60225f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie](https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie-a-0d4b3802-0f70-426d-8985-6a8a41d7936e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/horst-von-buttlar-wird-neuer-chefredakteur-der-wirtschaftswoche](https://www.spiegel.de/wirtschaft/horst-von-buttlar-wird-neuer-chefredakteur-der-wirtschaftswoche-a-000cafb5-9053-4ead-8a95-36ce5f9c8fd5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein-a-63c33d94-2d58-4dcd-a02e-a573f25af81d#ref=rss)
-### klimaaktivisten
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds](https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds-a-6e855e8e-7896-41ae-969b-48f4e8012481#ref=rss)
+* [https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut](https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut-a-46128d5f-35a3-4db8-ab11-f14938fa5bc5#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/panorama/luetzerath-in-nrw-der-kampf-in-bildern](https://www.spiegel.de/panorama/luetzerath-in-nrw-der-kampf-in-bildern-a-5fe6a60d-d86a-4ffe-ae60-7139c606d37d#ref=rss)
-* [https://www.spiegel.de/panorama/luetzerath-news-polizei-startet-raeumung-des-dorfes](https://www.spiegel.de/panorama/luetzerath-news-polizei-startet-raeumung-des-dorfes-a-d24d0202-db67-463c-8a1f-104751c6806c#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-als-symbol-des-scheiterns-der-energiepolitik-podcast](https://www.spiegel.de/panorama/gesellschaft/luetzerath-als-symbol-des-scheiterns-der-energiepolitik-podcast-a-c5eb25d1-5a27-4428-a4a5-c5d7ad84b081#ref=rss)
-### bleibt
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko](https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko-a-be437a26-53b8-4647-b734-57ed65cd8a00#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/containern-lebensmittelbranche-lehnt-straffreiheit-strikt-ab](https://www.spiegel.de/wirtschaft/service/containern-lebensmittelbranche-lehnt-straffreiheit-strikt-ab-a-62a73f21-06be-4e1b-aaaa-5d776c115b73#ref=rss)
-### globes
-
-* [https://www.spiegel.de/kultur/tv/golden-globes-perfekte-pr-und-eine-ganze-elefantenherde-im-saal](https://www.spiegel.de/kultur/tv/golden-globes-perfekte-pr-und-eine-ganze-elefantenherde-im-saal-a-f37a9e7e-23cd-4d65-a737-ca17ea60225f#ref=rss)
-* [https://www.spiegel.de/kultur/golden-globe-awards-2023-diese-filme-und-serien-haben-gewonnen](https://www.spiegel.de/kultur/golden-globe-awards-2023-diese-filme-und-serien-haben-gewonnen-a-4a0e9ad0-11a6-474e-9436-da309949d644#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie](https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie-a-0d4b3802-0f70-426d-8985-6a8a41d7936e#ref=rss)
-* [https://www.spiegel.de/panorama/paris-mehrere-verletzte-bei-messerangriff](https://www.spiegel.de/panorama/paris-mehrere-verletzte-bei-messerangriff-a-c2054046-ff65-496c-bbef-8a83cfd44abc#ref=rss)
-* [https://www.spiegel.de/ausland/corona-satellitenbilder-chinesischer-krematorien-deuten-auf-deutlich-mehr-tote-hin](https://www.spiegel.de/ausland/corona-satellitenbilder-chinesischer-krematorien-deuten-auf-deutlich-mehr-tote-hin-a-c4305852-d092-4e54-a210-c88b820d564c#ref=rss)
-### nrw
-
-* [https://www.spiegel.de/panorama/luetzerath-in-nrw-der-kampf-in-bildern](https://www.spiegel.de/panorama/luetzerath-in-nrw-der-kampf-in-bildern-a-5fe6a60d-d86a-4ffe-ae60-7139c606d37d#ref=rss)
-### symbol
-
-* [https://www.spiegel.de/panorama/luetzerath-in-nrw-der-kampf-in-bildern](https://www.spiegel.de/panorama/luetzerath-in-nrw-der-kampf-in-bildern-a-5fe6a60d-d86a-4ffe-ae60-7139c606d37d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-als-symbol-des-scheiterns-der-energiepolitik-podcast](https://www.spiegel.de/panorama/gesellschaft/luetzerath-als-symbol-des-scheiterns-der-energiepolitik-podcast-a-c5eb25d1-5a27-4428-a4a5-c5d7ad84b081#ref=rss)
-### newcastle
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko](https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko-a-be437a26-53b8-4647-b734-57ed65cd8a00#ref=rss)
-### united
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko](https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko-a-be437a26-53b8-4647-b734-57ed65cd8a00#ref=rss)
-### youssoufa
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko](https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko-a-be437a26-53b8-4647-b734-57ed65cd8a00#ref=rss)
-### moukoko
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko](https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko-a-be437a26-53b8-4647-b734-57ed65cd8a00#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko](https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko-a-be437a26-53b8-4647-b734-57ed65cd8a00#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/steigende-zinsen-so-kalkulieren-sie-jetzt-ihre-immobilienfinanzierung](https://www.spiegel.de/wirtschaft/service/steigende-zinsen-so-kalkulieren-sie-jetzt-ihre-immobilienfinanzierung-a-54a18f5b-0057-4f7b-9c48-e6828fded43c#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko](https://www.spiegel.de/sport/fussball/fussball-transfer-tim-walter-bleibt-bis-2024-beim-hamburger-sv-newcastle-united-wirbt-um-youssoufa-moukoko-a-be437a26-53b8-4647-b734-57ed65cd8a00#ref=rss)
-* [https://www.spiegel.de/panorama/japan-polizei-warnt-vor-u-bahn-grapschern](https://www.spiegel.de/panorama/japan-polizei-warnt-vor-u-bahn-grapschern-a-a6034cef-8f13-4388-a966-952f01f92aab#ref=rss)
-### übersterblichkeit
-
-* [https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie](https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie-a-0d4b3802-0f70-426d-8985-6a8a41d7936e#ref=rss)
-### dezember
-
-* [https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie](https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie-a-0d4b3802-0f70-426d-8985-6a8a41d7936e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht](https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht-a-1b3ac522-0693-4873-bb39-dbaed200e9c0#ref=rss)
-### deutlich
-
-* [https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie](https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie-a-0d4b3802-0f70-426d-8985-6a8a41d7936e#ref=rss)
-* [https://www.spiegel.de/ausland/corona-satellitenbilder-chinesischer-krematorien-deuten-auf-deutlich-mehr-tote-hin](https://www.spiegel.de/ausland/corona-satellitenbilder-chinesischer-krematorien-deuten-auf-deutlich-mehr-tote-hin-a-c4305852-d092-4e54-a210-c88b820d564c#ref=rss)
-### pandemie
-
-* [https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie](https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie-a-0d4b3802-0f70-426d-8985-6a8a41d7936e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein-a-63c33d94-2d58-4dcd-a02e-a573f25af81d#ref=rss)
-### jahresende
-
-* [https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie](https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie-a-0d4b3802-0f70-426d-8985-6a8a41d7936e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht](https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht-a-1b3ac522-0693-4873-bb39-dbaed200e9c0#ref=rss)
-### hin
-
-* [https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie](https://www.spiegel.de/wissenschaft/medizin/uebersterblichkeit-sterbefallzahlen-im-dezember-deutlich-hoeher-als-vor-der-pandemie-a-0d4b3802-0f70-426d-8985-6a8a41d7936e#ref=rss)
-* [https://www.spiegel.de/ausland/corona-satellitenbilder-chinesischer-krematorien-deuten-auf-deutlich-mehr-tote-hin](https://www.spiegel.de/ausland/corona-satellitenbilder-chinesischer-krematorien-deuten-auf-deutlich-mehr-tote-hin-a-c4305852-d092-4e54-a210-c88b820d564c#ref=rss)
-### london
-
-* [https://www.spiegel.de/ausland/london-heathrow-britische-polizei-startet-nach-uranfund-terrorermittlungen](https://www.spiegel.de/ausland/london-heathrow-britische-polizei-startet-nach-uranfund-terrorermittlungen-a-81fe8819-d1b7-47bc-a80c-7a70477bb512#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-lagebericht-aus-kiew-deutet-auf-verlust-von-soledar-hin](https://www.spiegel.de/ausland/russland-ukraine-news-heute-lagebericht-aus-kiew-deutet-auf-verlust-von-soledar-hin-a-7aa5664e-6525-4c3b-9072-25489a8827eb#ref=rss)
-### heathrow
-
-* [https://www.spiegel.de/ausland/london-heathrow-britische-polizei-startet-nach-uranfund-terrorermittlungen](https://www.spiegel.de/ausland/london-heathrow-britische-polizei-startet-nach-uranfund-terrorermittlungen-a-81fe8819-d1b7-47bc-a80c-7a70477bb512#ref=rss)
-### kleine
-
-* [https://www.spiegel.de/ausland/london-heathrow-britische-polizei-startet-nach-uranfund-terrorermittlungen](https://www.spiegel.de/ausland/london-heathrow-britische-polizei-startet-nach-uranfund-terrorermittlungen-a-81fe8819-d1b7-47bc-a80c-7a70477bb512#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-soehne-von-migranten-bei-markus-lanz-kleine-paschas-und-erntet-kritik](https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-soehne-von-migranten-bei-markus-lanz-kleine-paschas-und-erntet-kritik-a-c0844cf6-8ca8-4f14-b3d6-8746942978c4#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-soehne-von-migranten-bei-markus-lanz-kleine-paschas-und-erntet-kritik](https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-soehne-von-migranten-bei-markus-lanz-kleine-paschas-und-erntet-kritik-a-c0844cf6-8ca8-4f14-b3d6-8746942978c4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds](https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds-a-6e855e8e-7896-41ae-969b-48f4e8012481#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-so-lief-der-erste-tag-der-raeumung](https://www.spiegel.de/panorama/gesellschaft/luetzerath-so-lief-der-erste-tag-der-raeumung-a-9e90748d-4884-423d-8a21-ce64de28e434#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/catl-polizei-und-zoll-durchsuchen-batteriewerk-in-arnstadt](https://www.spiegel.de/wirtschaft/unternehmen/catl-polizei-und-zoll-durchsuchen-batteriewerk-in-arnstadt-a-c5c44b6e-472f-42d6-b4b7-2a2dc6f93d09#ref=rss)
 ### merz
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-soehne-von-migranten-bei-markus-lanz-kleine-paschas-und-erntet-kritik](https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-soehne-von-migranten-bei-markus-lanz-kleine-paschas-und-erntet-kritik-a-c0844cf6-8ca8-4f14-b3d6-8746942978c4#ref=rss)
-### kritik
+* [https://www.spiegel.de/politik/deutschland/selber-pascha-friedrich-merz-schadet-mit-seinen-fremdenfeindlichen-parolen-der-gesamten-union](https://www.spiegel.de/politik/deutschland/selber-pascha-friedrich-merz-schadet-mit-seinen-fremdenfeindlichen-parolen-der-gesamten-union-a-46e89425-0546-4b2e-925f-7372ed050e46#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reem-alabali-radovan-integrationsbeauftragte-draengt-auf-diskriminierungs-beschwerdestellen-in-jedem-bundesland](https://www.spiegel.de/politik/deutschland/reem-alabali-radovan-integrationsbeauftragte-draengt-auf-diskriminierungs-beschwerdestellen-in-jedem-bundesland-a-2d782012-2d7f-4820-b105-efe2b989598f#ref=rss)
+### unter
 
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-soehne-von-migranten-bei-markus-lanz-kleine-paschas-und-erntet-kritik](https://www.spiegel.de/politik/deutschland/friedrich-merz-nennt-soehne-von-migranten-bei-markus-lanz-kleine-paschas-und-erntet-kritik-a-c0844cf6-8ca8-4f14-b3d6-8746942978c4#ref=rss)
-* [https://www.spiegel.de/kultur/golden-globe-awards-2023-diese-filme-und-serien-haben-gewonnen](https://www.spiegel.de/kultur/golden-globe-awards-2023-diese-filme-und-serien-haben-gewonnen-a-4a0e9ad0-11a6-474e-9436-da309949d644#ref=rss)
-### global
+* [https://www.spiegel.de/wissenschaft/luetzerath-wird-die-kohle-fuer-den-klimaschutz-und-die-energiesicherheit-benoetigt](https://www.spiegel.de/wissenschaft/luetzerath-wird-die-kohle-fuer-den-klimaschutz-und-die-energiesicherheit-benoetigt-a-2dfa9a9c-030d-4ecb-afe2-559ec8dcfe65#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds](https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds-a-6e855e8e-7896-41ae-969b-48f4e8012481#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/wintersport-beim-biathlon-weltcup-in-ruhpolding-faellt-der-strom-aus](https://www.spiegel.de/sport/wintersport/wintersport-beim-biathlon-weltcup-in-ruhpolding-faellt-der-strom-aus-a-5e940c5c-092a-49d6-a287-4897fde528c6#ref=rss)
+### lage
 
-* [https://www.spiegel.de/wirtschaft/experten-fuerchten-ersten-rueckschritt-in-der-menschlichen-entwicklung-seit-jahrzehnten](https://www.spiegel.de/wirtschaft/experten-fuerchten-ersten-rueckschritt-in-der-menschlichen-entwicklung-seit-jahrzehnten-a-4bd87e14-4538-4664-a792-3694c369d610#ref=rss)
-### risk
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds](https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds-a-6e855e8e-7896-41ae-969b-48f4e8012481#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-so-lief-der-erste-tag-der-raeumung](https://www.spiegel.de/panorama/gesellschaft/luetzerath-so-lief-der-erste-tag-der-raeumung-a-9e90748d-4884-423d-8a21-ce64de28e434#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig](https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig-a-cdb5fdbb-6cda-470d-a3cc-0d923e420002#ref=rss)
+### harry
 
-* [https://www.spiegel.de/wirtschaft/experten-fuerchten-ersten-rueckschritt-in-der-menschlichen-entwicklung-seit-jahrzehnten](https://www.spiegel.de/wirtschaft/experten-fuerchten-ersten-rueckschritt-in-der-menschlichen-entwicklung-seit-jahrzehnten-a-4bd87e14-4538-4664-a792-3694c369d610#ref=rss)
-### report
+* [https://www.spiegel.de/panorama/leute/reserve-von-von-prinz-harry-harry-knotter-und-das-gejammer-des-schreckens](https://www.spiegel.de/panorama/leute/reserve-von-von-prinz-harry-harry-knotter-und-das-gejammer-des-schreckens-a-9e9361eb-b023-4a75-9aea-618176037b3c#ref=rss)
+### maskenpflicht
 
-* [https://www.spiegel.de/wirtschaft/experten-fuerchten-ersten-rueckschritt-in-der-menschlichen-entwicklung-seit-jahrzehnten](https://www.spiegel.de/wirtschaft/experten-fuerchten-ersten-rueckschritt-in-der-menschlichen-entwicklung-seit-jahrzehnten-a-4bd87e14-4538-4664-a792-3694c369d610#ref=rss)
-### fürchten
+* [https://www.spiegel.de/wirtschaft/unternehmen/maskenpflicht-bahn-spricht-sich-fuer-ende-der-maskenpflicht-in-fernzuegen-aus](https://www.spiegel.de/wirtschaft/unternehmen/maskenpflicht-bahn-spricht-sich-fuer-ende-der-maskenpflicht-in-fernzuegen-aus-a-4b24d81b-df56-4f6c-8bee-4e46bbc76697#ref=rss)
+### le
 
-* [https://www.spiegel.de/wirtschaft/experten-fuerchten-ersten-rueckschritt-in-der-menschlichen-entwicklung-seit-jahrzehnten](https://www.spiegel.de/wirtschaft/experten-fuerchten-ersten-rueckschritt-in-der-menschlichen-entwicklung-seit-jahrzehnten-a-4bd87e14-4538-4664-a792-3694c369d610#ref=rss)
-* [https://www.spiegel.de/panorama/nicaragua-regierungskritischer-bischof-vor-gericht](https://www.spiegel.de/panorama/nicaragua-regierungskritischer-bischof-vor-gericht-a-f6c2ef74-d0c7-4aa4-945f-3542f305a3f7#ref=rss)
-### inflation
+* [https://www.spiegel.de/sport/fussball/franzoesischer-fussball-verbandspraesident-noel-le-graet-suspendiert](https://www.spiegel.de/sport/fussball/franzoesischer-fussball-verbandspraesident-noel-le-graet-suspendiert-a-51c33d33-c5a2-44d7-9475-96c5026912fe#ref=rss)
+### graët
 
-* [https://www.spiegel.de/wirtschaft/experten-fuerchten-ersten-rueckschritt-in-der-menschlichen-entwicklung-seit-jahrzehnten](https://www.spiegel.de/wirtschaft/experten-fuerchten-ersten-rueckschritt-in-der-menschlichen-entwicklung-seit-jahrzehnten-a-4bd87e14-4538-4664-a792-3694c369d610#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht](https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht-a-1b3ac522-0693-4873-bb39-dbaed200e9c0#ref=rss)
-### welt
+* [https://www.spiegel.de/sport/fussball/franzoesischer-fussball-verbandspraesident-noel-le-graet-suspendiert](https://www.spiegel.de/sport/fussball/franzoesischer-fussball-verbandspraesident-noel-le-graet-suspendiert-a-51c33d33-c5a2-44d7-9475-96c5026912fe#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/wirtschaft/experten-fuerchten-ersten-rueckschritt-in-der-menschlichen-entwicklung-seit-jahrzehnten](https://www.spiegel.de/wirtschaft/experten-fuerchten-ersten-rueckschritt-in-der-menschlichen-entwicklung-seit-jahrzehnten-a-4bd87e14-4538-4664-a792-3694c369d610#ref=rss)
-* [https://www.spiegel.de/wirtschaft/usa-kanada-und-mexiko-wollen-produktion-nach-nordamerika-zurueckholen](https://www.spiegel.de/wirtschaft/usa-kanada-und-mexiko-wollen-produktion-nach-nordamerika-zurueckholen-a-fe6cb545-cc2f-4a16-94bf-5e897b6f13eb#ref=rss)
+* [https://www.spiegel.de/ausland/kabul-mehr-als-20-opfer-bei-selbstmordanschlag](https://www.spiegel.de/ausland/kabul-mehr-als-20-opfer-bei-selbstmordanschlag-a-dc4e0876-eed2-4d39-8310-7df6f03e7285#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reem-alabali-radovan-integrationsbeauftragte-draengt-auf-diskriminierungs-beschwerdestellen-in-jedem-bundesland](https://www.spiegel.de/politik/deutschland/reem-alabali-radovan-integrationsbeauftragte-draengt-auf-diskriminierungs-beschwerdestellen-in-jedem-bundesland-a-2d782012-2d7f-4820-b105-efe2b989598f#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-wm-2023-der-favoritencheck-wo-steht-deutschland-und-wer-wird-weltmeister](https://www.spiegel.de/sport/handball/handball-wm-2023-der-favoritencheck-wo-steht-deutschland-und-wer-wird-weltmeister-a-a9b48a92-c61b-493c-a66e-dfd6046883fc#ref=rss)
+### friedrich
+
+* [https://www.spiegel.de/politik/deutschland/selber-pascha-friedrich-merz-schadet-mit-seinen-fremdenfeindlichen-parolen-der-gesamten-union](https://www.spiegel.de/politik/deutschland/selber-pascha-friedrich-merz-schadet-mit-seinen-fremdenfeindlichen-parolen-der-gesamten-union-a-46e89425-0546-4b2e-925f-7372ed050e46#ref=rss)
+### schadet
+
+* [https://www.spiegel.de/politik/deutschland/selber-pascha-friedrich-merz-schadet-mit-seinen-fremdenfeindlichen-parolen-der-gesamten-union](https://www.spiegel.de/politik/deutschland/selber-pascha-friedrich-merz-schadet-mit-seinen-fremdenfeindlichen-parolen-der-gesamten-union-a-46e89425-0546-4b2e-925f-7372ed050e46#ref=rss)
+### gesamten
+
+* [https://www.spiegel.de/politik/deutschland/selber-pascha-friedrich-merz-schadet-mit-seinen-fremdenfeindlichen-parolen-der-gesamten-union](https://www.spiegel.de/politik/deutschland/selber-pascha-friedrich-merz-schadet-mit-seinen-fremdenfeindlichen-parolen-der-gesamten-union-a-46e89425-0546-4b2e-925f-7372ed050e46#ref=rss)
+### union
+
+* [https://www.spiegel.de/politik/deutschland/selber-pascha-friedrich-merz-schadet-mit-seinen-fremdenfeindlichen-parolen-der-gesamten-union](https://www.spiegel.de/politik/deutschland/selber-pascha-friedrich-merz-schadet-mit-seinen-fremdenfeindlichen-parolen-der-gesamten-union-a-46e89425-0546-4b2e-925f-7372ed050e46#ref=rss)
+### aussagen
+
+* [https://www.spiegel.de/politik/deutschland/selber-pascha-friedrich-merz-schadet-mit-seinen-fremdenfeindlichen-parolen-der-gesamten-union](https://www.spiegel.de/politik/deutschland/selber-pascha-friedrich-merz-schadet-mit-seinen-fremdenfeindlichen-parolen-der-gesamten-union-a-46e89425-0546-4b2e-925f-7372ed050e46#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reem-alabali-radovan-integrationsbeauftragte-draengt-auf-diskriminierungs-beschwerdestellen-in-jedem-bundesland](https://www.spiegel.de/politik/deutschland/reem-alabali-radovan-integrationsbeauftragte-draengt-auf-diskriminierungs-beschwerdestellen-in-jedem-bundesland-a-2d782012-2d7f-4820-b105-efe2b989598f#ref=rss)
+### belästigungsvorwürfe
+
+* [https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-uni-koeln-verteidigt-sich-studierende-demonstrieren](https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-uni-koeln-verteidigt-sich-studierende-demonstrieren-a-913a8f97-7510-4df8-bff7-e680668ccea8#ref=rss)
+### uni
+
+* [https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-uni-koeln-verteidigt-sich-studierende-demonstrieren](https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-uni-koeln-verteidigt-sich-studierende-demonstrieren-a-913a8f97-7510-4df8-bff7-e680668ccea8#ref=rss)
+### köln
+
+* [https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-uni-koeln-verteidigt-sich-studierende-demonstrieren](https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-uni-koeln-verteidigt-sich-studierende-demonstrieren-a-913a8f97-7510-4df8-bff7-e680668ccea8#ref=rss)
+### verteidigt
+
+* [https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-uni-koeln-verteidigt-sich-studierende-demonstrieren](https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-uni-koeln-verteidigt-sich-studierende-demonstrieren-a-913a8f97-7510-4df8-bff7-e680668ccea8#ref=rss)
+* [https://www.spiegel.de/kultur/musik/pantera-bei-rock-im-park-veranstalter-verteidigt-auftritt](https://www.spiegel.de/kultur/musik/pantera-bei-rock-im-park-veranstalter-verteidigt-auftritt-a-790de7d8-aa4b-4fb2-bfc3-93cd186576c9#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-uni-koeln-verteidigt-sich-studierende-demonstrieren](https://www.spiegel.de/panorama/bildung/belaestigungsvorwuerfe-uni-koeln-verteidigt-sich-studierende-demonstrieren-a-913a8f97-7510-4df8-bff7-e680668ccea8#ref=rss)
+### tatjana
+
+* [https://www.spiegel.de/panorama/tatjana-patitz-ist-tot](https://www.spiegel.de/panorama/tatjana-patitz-ist-tot-a-10ad9843-3005-4ffd-8c78-73400059e677#ref=rss)
+### patitz
+
+* [https://www.spiegel.de/panorama/tatjana-patitz-ist-tot](https://www.spiegel.de/panorama/tatjana-patitz-ist-tot-a-10ad9843-3005-4ffd-8c78-73400059e677#ref=rss)
+### tot
+
+* [https://www.spiegel.de/panorama/tatjana-patitz-ist-tot](https://www.spiegel.de/panorama/tatjana-patitz-ist-tot-a-10ad9843-3005-4ffd-8c78-73400059e677#ref=rss)
+* [https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum](https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum-a-f3ff7cd6-c07b-49ad-bc63-5e0a794d1057#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/panorama/tatjana-patitz-ist-tot](https://www.spiegel.de/panorama/tatjana-patitz-ist-tot-a-10ad9843-3005-4ffd-8c78-73400059e677#ref=rss)
+* [https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum](https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum-a-f3ff7cd6-c07b-49ad-bc63-5e0a794d1057#ref=rss)
+### russland
+
+* [https://www.spiegel.de/wirtschaft/forscher-oelsanktionen-kosten-russland-160-millionen-euro-am-tag](https://www.spiegel.de/wirtschaft/forscher-oelsanktionen-kosten-russland-160-millionen-euro-am-tag-a-17d90c79-541d-49c8-88f0-cfe929581e4d#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig](https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig-a-cdb5fdbb-6cda-470d-a3cc-0d923e420002#ref=rss)
 ### laut
 
-* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-lagebericht-aus-kiew-deutet-auf-verlust-von-soledar-hin](https://www.spiegel.de/ausland/russland-ukraine-news-heute-lagebericht-aus-kiew-deutet-auf-verlust-von-soledar-hin-a-7aa5664e-6525-4c3b-9072-25489a8827eb#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fdp-erhoeht-bei-cannabis-legalisierung-druck](https://www.spiegel.de/politik/deutschland/fdp-erhoeht-bei-cannabis-legalisierung-druck-a-5bbc21f1-aab9-44cf-9c33-5c5e829a57cf#ref=rss)
-### soledar
+* [https://www.spiegel.de/wirtschaft/forscher-oelsanktionen-kosten-russland-160-millionen-euro-am-tag](https://www.spiegel.de/wirtschaft/forscher-oelsanktionen-kosten-russland-160-millionen-euro-am-tag-a-17d90c79-541d-49c8-88f0-cfe929581e4d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/reem-alabali-radovan-integrationsbeauftragte-draengt-auf-diskriminierungs-beschwerdestellen-in-jedem-bundesland](https://www.spiegel.de/politik/deutschland/reem-alabali-radovan-integrationsbeauftragte-draengt-auf-diskriminierungs-beschwerdestellen-in-jedem-bundesland-a-2d782012-2d7f-4820-b105-efe2b989598f#ref=rss)
+### wichtigste
 
-* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-lagebericht-aus-kiew-deutet-auf-verlust-von-soledar-hin](https://www.spiegel.de/ausland/russland-ukraine-news-heute-lagebericht-aus-kiew-deutet-auf-verlust-von-soledar-hin-a-7aa5664e-6525-4c3b-9072-25489a8827eb#ref=rss)
-### zurück
+* [https://www.spiegel.de/wirtschaft/forscher-oelsanktionen-kosten-russland-160-millionen-euro-am-tag](https://www.spiegel.de/wirtschaft/forscher-oelsanktionen-kosten-russland-160-millionen-euro-am-tag-a-17d90c79-541d-49c8-88f0-cfe929581e4d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kronzeuge-im-wirecard-prozess-wirecard-soll-dokumente-fuer-wirtschaftspruefer-gebastelt-haben](https://www.spiegel.de/wirtschaft/unternehmen/kronzeuge-im-wirecard-prozess-wirecard-soll-dokumente-fuer-wirtschaftspruefer-gebastelt-haben-a-166d2431-ab81-4803-b173-360eade227a2#ref=rss)
+### berlin
 
+* [https://www.spiegel.de/politik/deutschland/berlin-wie-franziska-giffey-die-silvesterausschreitungen-fuer-sich-zu-nutzen-versucht](https://www.spiegel.de/politik/deutschland/berlin-wie-franziska-giffey-die-silvesterausschreitungen-fuer-sich-zu-nutzen-versucht-a-d235472a-da42-4abd-a911-2328b6813775#ref=rss)
+### treffen
+
+* [https://www.spiegel.de/politik/deutschland/berlin-wie-franziska-giffey-die-silvesterausschreitungen-fuer-sich-zu-nutzen-versucht](https://www.spiegel.de/politik/deutschland/berlin-wie-franziska-giffey-die-silvesterausschreitungen-fuer-sich-zu-nutzen-versucht-a-d235472a-da42-4abd-a911-2328b6813775#ref=rss)
 * [https://www.spiegel.de/ausland/russland-ukraine-news-heute-lagebericht-aus-kiew-deutet-auf-verlust-von-soledar-hin](https://www.spiegel.de/ausland/russland-ukraine-news-heute-lagebericht-aus-kiew-deutet-auf-verlust-von-soledar-hin-a-7aa5664e-6525-4c3b-9072-25489a8827eb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein-a-63c33d94-2d58-4dcd-a02e-a573f25af81d#ref=rss)
+### kalifornien
+
+* [https://www.spiegel.de/wissenschaft/kalifornien-arkstorm-warum-die-ueberschwemmungen-an-der-westkueste-ein-vorgeschmack-sind](https://www.spiegel.de/wissenschaft/kalifornien-arkstorm-warum-die-ueberschwemmungen-an-der-westkueste-ein-vorgeschmack-sind-a-1a2cf3ce-8c0c-400f-ae60-a67895417785#ref=rss)
+### westküste
+
+* [https://www.spiegel.de/wissenschaft/kalifornien-arkstorm-warum-die-ueberschwemmungen-an-der-westkueste-ein-vorgeschmack-sind](https://www.spiegel.de/wissenschaft/kalifornien-arkstorm-warum-die-ueberschwemmungen-an-der-westkueste-ein-vorgeschmack-sind-a-1a2cf3ce-8c0c-400f-ae60-a67895417785#ref=rss)
+### vorgeschmack
+
+* [https://www.spiegel.de/wissenschaft/kalifornien-arkstorm-warum-die-ueberschwemmungen-an-der-westkueste-ein-vorgeschmack-sind](https://www.spiegel.de/wissenschaft/kalifornien-arkstorm-warum-die-ueberschwemmungen-an-der-westkueste-ein-vorgeschmack-sind-a-1a2cf3ce-8c0c-400f-ae60-a67895417785#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wissenschaft/kalifornien-arkstorm-warum-die-ueberschwemmungen-an-der-westkueste-ein-vorgeschmack-sind](https://www.spiegel.de/wissenschaft/kalifornien-arkstorm-warum-die-ueberschwemmungen-an-der-westkueste-ein-vorgeschmack-sind-a-1a2cf3ce-8c0c-400f-ae60-a67895417785#ref=rss)
+* [https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum](https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum-a-f3ff7cd6-c07b-49ad-bc63-5e0a794d1057#ref=rss)
+### energiesicherheit
+
+* [https://www.spiegel.de/wissenschaft/luetzerath-wird-die-kohle-fuer-den-klimaschutz-und-die-energiesicherheit-benoetigt](https://www.spiegel.de/wissenschaft/luetzerath-wird-die-kohle-fuer-den-klimaschutz-und-die-energiesicherheit-benoetigt-a-2dfa9a9c-030d-4ecb-afe2-559ec8dcfe65#ref=rss)
+### sagen
+
+* [https://www.spiegel.de/wissenschaft/luetzerath-wird-die-kohle-fuer-den-klimaschutz-und-die-energiesicherheit-benoetigt](https://www.spiegel.de/wissenschaft/luetzerath-wird-die-kohle-fuer-den-klimaschutz-und-die-energiesicherheit-benoetigt-a-2dfa9a9c-030d-4ecb-afe2-559ec8dcfe65#ref=rss)
+### anderen
+
+* [https://www.spiegel.de/wissenschaft/luetzerath-wird-die-kohle-fuer-den-klimaschutz-und-die-energiesicherheit-benoetigt](https://www.spiegel.de/wissenschaft/luetzerath-wird-die-kohle-fuer-den-klimaschutz-und-die-energiesicherheit-benoetigt-a-2dfa9a9c-030d-4ecb-afe2-559ec8dcfe65#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/maskenpflicht-bahn-spricht-sich-fuer-ende-der-maskenpflicht-in-fernzuegen-aus](https://www.spiegel.de/wirtschaft/unternehmen/maskenpflicht-bahn-spricht-sich-fuer-ende-der-maskenpflicht-in-fernzuegen-aus-a-4b24d81b-df56-4f6c-8bee-4e46bbc76697#ref=rss)
 ### news
 
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds](https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds-a-6e855e8e-7896-41ae-969b-48f4e8012481#ref=rss)
 * [https://www.spiegel.de/ausland/russland-ukraine-news-heute-lagebericht-aus-kiew-deutet-auf-verlust-von-soledar-hin](https://www.spiegel.de/ausland/russland-ukraine-news-heute-lagebericht-aus-kiew-deutet-auf-verlust-von-soledar-hin-a-7aa5664e-6525-4c3b-9072-25489a8827eb#ref=rss)
-* [https://www.spiegel.de/panorama/luetzerath-news-polizei-startet-raeumung-des-dorfes](https://www.spiegel.de/panorama/luetzerath-news-polizei-startet-raeumung-des-dorfes-a-d24d0202-db67-463c-8a1f-104751c6806c#ref=rss)
-### borussia
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastien-haller-nach-hodenkrebs-op-mit-debuet-im-testspiel](https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastien-haller-nach-hodenkrebs-op-mit-debuet-im-testspiel-a-99a63a38-1c95-4cd5-9ff7-91e9292e10f2#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastien-haller-nach-hodenkrebs-op-mit-debuet-im-testspiel](https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastien-haller-nach-hodenkrebs-op-mit-debuet-im-testspiel-a-99a63a38-1c95-4cd5-9ff7-91e9292e10f2#ref=rss)
-### sébastien
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastien-haller-nach-hodenkrebs-op-mit-debuet-im-testspiel](https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastien-haller-nach-hodenkrebs-op-mit-debuet-im-testspiel-a-99a63a38-1c95-4cd5-9ff7-91e9292e10f2#ref=rss)
-### haller
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastien-haller-nach-hodenkrebs-op-mit-debuet-im-testspiel](https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastien-haller-nach-hodenkrebs-op-mit-debuet-im-testspiel-a-99a63a38-1c95-4cd5-9ff7-91e9292e10f2#ref=rss)
-### debüt
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastien-haller-nach-hodenkrebs-op-mit-debuet-im-testspiel](https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastien-haller-nach-hodenkrebs-op-mit-debuet-im-testspiel-a-99a63a38-1c95-4cd5-9ff7-91e9292e10f2#ref=rss)
-### testspiel
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastien-haller-nach-hodenkrebs-op-mit-debuet-im-testspiel](https://www.spiegel.de/sport/fussball/borussia-dortmund-sebastien-haller-nach-hodenkrebs-op-mit-debuet-im-testspiel-a-99a63a38-1c95-4cd5-9ff7-91e9292e10f2#ref=rss)
-### viele
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht](https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht-a-1b3ac522-0693-4873-bb39-dbaed200e9c0#ref=rss)
-* [https://www.spiegel.de/partnerschaft/eheaehnliche-lebensgemeinschaft-worauf-unverheiratete-paare-achten-sollten](https://www.spiegel.de/partnerschaft/eheaehnliche-lebensgemeinschaft-worauf-unverheiratete-paare-achten-sollten-a-55960589-5f02-4da0-bfc2-894af36585cc#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht](https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht-a-1b3ac522-0693-4873-bb39-dbaed200e9c0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein-a-63c33d94-2d58-4dcd-a02e-a573f25af81d#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht](https://www.spiegel.de/wirtschaft/unternehmen/zahl-der-firmenpleiten-steigt-zum-jahresende-leicht-a-1b3ac522-0693-4873-bb39-dbaed200e9c0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein-a-63c33d94-2d58-4dcd-a02e-a573f25af81d#ref=rss)
-### volker
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/digitalminister-volker-wissing-moechte-strenge-ki-regulierung-verhindern](https://www.spiegel.de/netzwelt/netzpolitik/digitalminister-volker-wissing-moechte-strenge-ki-regulierung-verhindern-a-cda82bbf-4821-4a0d-8f39-32325f2553fc#ref=rss)
-### wissing
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/digitalminister-volker-wissing-moechte-strenge-ki-regulierung-verhindern](https://www.spiegel.de/netzwelt/netzpolitik/digitalminister-volker-wissing-moechte-strenge-ki-regulierung-verhindern-a-cda82bbf-4821-4a0d-8f39-32325f2553fc#ref=rss)
-### digitalminister
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/digitalminister-volker-wissing-moechte-strenge-ki-regulierung-verhindern](https://www.spiegel.de/netzwelt/netzpolitik/digitalminister-volker-wissing-moechte-strenge-ki-regulierung-verhindern-a-cda82bbf-4821-4a0d-8f39-32325f2553fc#ref=rss)
-### neue
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/digitalminister-volker-wissing-moechte-strenge-ki-regulierung-verhindern](https://www.spiegel.de/netzwelt/netzpolitik/digitalminister-volker-wissing-moechte-strenge-ki-regulierung-verhindern-a-cda82bbf-4821-4a0d-8f39-32325f2553fc#ref=rss)
-* [https://www.spiegel.de/ausland/corona-satellitenbilder-chinesischer-krematorien-deuten-auf-deutlich-mehr-tote-hin](https://www.spiegel.de/ausland/corona-satellitenbilder-chinesischer-krematorien-deuten-auf-deutlich-mehr-tote-hin-a-c4305852-d092-4e54-a210-c88b820d564c#ref=rss)
-### unser
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/digitalminister-volker-wissing-moechte-strenge-ki-regulierung-verhindern](https://www.spiegel.de/netzwelt/netzpolitik/digitalminister-volker-wissing-moechte-strenge-ki-regulierung-verhindern-a-cda82bbf-4821-4a0d-8f39-32325f2553fc#ref=rss)
-* [https://www.spiegel.de/start/lerngruppe-fuers-studium-gruenden-so-klappt-s](https://www.spiegel.de/start/lerngruppe-fuers-studium-gruenden-so-klappt-s-a-6419586e-6110-42b0-8ecd-3f2e7b28daeb#ref=rss)
-### neuer
-
-* [https://www.spiegel.de/wirtschaft/horst-von-buttlar-wird-neuer-chefredakteur-der-wirtschaftswoche](https://www.spiegel.de/wirtschaft/horst-von-buttlar-wird-neuer-chefredakteur-der-wirtschaftswoche-a-000cafb5-9053-4ead-8a95-36ce5f9c8fd5#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/die-liebe-an-miesen-tagen-von-ewald-arenz-die-alltaegliche-beschissenheit-der-dinge](https://www.spiegel.de/kultur/literatur/die-liebe-an-miesen-tagen-von-ewald-arenz-die-alltaegliche-beschissenheit-der-dinge-a-dd9d8257-1abc-4bfb-914f-5d04dec1ed9e#ref=rss)
-### chefredakteur
-
-* [https://www.spiegel.de/wirtschaft/horst-von-buttlar-wird-neuer-chefredakteur-der-wirtschaftswoche](https://www.spiegel.de/wirtschaft/horst-von-buttlar-wird-neuer-chefredakteur-der-wirtschaftswoche-a-000cafb5-9053-4ead-8a95-36ce5f9c8fd5#ref=rss)
-### grund
-
-* [https://www.spiegel.de/wirtschaft/horst-von-buttlar-wird-neuer-chefredakteur-der-wirtschaftswoche](https://www.spiegel.de/wirtschaft/horst-von-buttlar-wird-neuer-chefredakteur-der-wirtschaftswoche-a-000cafb5-9053-4ead-8a95-36ce5f9c8fd5#ref=rss)
-* [https://www.spiegel.de/kultur/golden-globe-awards-2023-diese-filme-und-serien-haben-gewonnen](https://www.spiegel.de/kultur/golden-globe-awards-2023-diese-filme-und-serien-haben-gewonnen-a-4a0e9ad0-11a6-474e-9436-da309949d644#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/panorama/paris-mehrere-verletzte-bei-messerangriff](https://www.spiegel.de/panorama/paris-mehrere-verletzte-bei-messerangriff-a-c2054046-ff65-496c-bbef-8a83cfd44abc#ref=rss)
-### junge
-
-* [https://www.spiegel.de/panorama/japan-polizei-warnt-vor-u-bahn-grapschern](https://www.spiegel.de/panorama/japan-polizei-warnt-vor-u-bahn-grapschern-a-a6034cef-8f13-4388-a966-952f01f92aab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein-a-63c33d94-2d58-4dcd-a02e-a573f25af81d#ref=rss)
-### achten
-
-* [https://www.spiegel.de/wirtschaft/service/steigende-zinsen-so-kalkulieren-sie-jetzt-ihre-immobilienfinanzierung](https://www.spiegel.de/wirtschaft/service/steigende-zinsen-so-kalkulieren-sie-jetzt-ihre-immobilienfinanzierung-a-54a18f5b-0057-4f7b-9c48-e6828fded43c#ref=rss)
-* [https://www.spiegel.de/partnerschaft/eheaehnliche-lebensgemeinschaft-worauf-unverheiratete-paare-achten-sollten](https://www.spiegel.de/partnerschaft/eheaehnliche-lebensgemeinschaft-worauf-unverheiratete-paare-achten-sollten-a-55960589-5f02-4da0-bfc2-894af36585cc#ref=rss)
-### sollten
-
-* [https://www.spiegel.de/wirtschaft/service/steigende-zinsen-so-kalkulieren-sie-jetzt-ihre-immobilienfinanzierung](https://www.spiegel.de/wirtschaft/service/steigende-zinsen-so-kalkulieren-sie-jetzt-ihre-immobilienfinanzierung-a-54a18f5b-0057-4f7b-9c48-e6828fded43c#ref=rss)
-* [https://www.spiegel.de/partnerschaft/eheaehnliche-lebensgemeinschaft-worauf-unverheiratete-paare-achten-sollten](https://www.spiegel.de/partnerschaft/eheaehnliche-lebensgemeinschaft-worauf-unverheiratete-paare-achten-sollten-a-55960589-5f02-4da0-bfc2-894af36585cc#ref=rss)
 ### handballwm
 
-* [https://www.spiegel.de/sport/handball/handball-wm-2023-spielplan-gruppen-und-ergebnisse](https://www.spiegel.de/sport/handball/handball-wm-2023-spielplan-gruppen-und-ergebnisse-a-1cc68e60-5f22-47ca-b764-da87c93e6b35#ref=rss)
-### 2023
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds](https://www.spiegel.de/politik/deutschland/news-des-tages-luetzerath-lothar-wieler-handball-weltmeisterschaft-dieter-bohlen-und-dsds-a-6e855e8e-7896-41ae-969b-48f4e8012481#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-wm-2023-der-favoritencheck-wo-steht-deutschland-und-wer-wird-weltmeister](https://www.spiegel.de/sport/handball/handball-wm-2023-der-favoritencheck-wo-steht-deutschland-und-wer-wird-weltmeister-a-a9b48a92-c61b-493c-a66e-dfd6046883fc#ref=rss)
+### prinz
 
-* [https://www.spiegel.de/sport/handball/handball-wm-2023-spielplan-gruppen-und-ergebnisse](https://www.spiegel.de/sport/handball/handball-wm-2023-spielplan-gruppen-und-ergebnisse-a-1cc68e60-5f22-47ca-b764-da87c93e6b35#ref=rss)
-* [https://www.spiegel.de/kultur/golden-globe-awards-2023-diese-filme-und-serien-haben-gewonnen](https://www.spiegel.de/kultur/golden-globe-awards-2023-diese-filme-und-serien-haben-gewonnen-a-4a0e9ad0-11a6-474e-9436-da309949d644#ref=rss)
+* [https://www.spiegel.de/panorama/leute/reserve-von-von-prinz-harry-harry-knotter-und-das-gejammer-des-schreckens](https://www.spiegel.de/panorama/leute/reserve-von-von-prinz-harry-harry-knotter-und-das-gejammer-des-schreckens-a-9e9361eb-b023-4a75-9aea-618176037b3c#ref=rss)
+### räumung
+
+* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-so-lief-der-erste-tag-der-raeumung](https://www.spiegel.de/panorama/gesellschaft/luetzerath-so-lief-der-erste-tag-der-raeumung-a-9e90748d-4884-423d-8a21-ce64de28e434#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-so-lief-der-erste-tag-der-raeumung](https://www.spiegel.de/panorama/gesellschaft/luetzerath-so-lief-der-erste-tag-der-raeumung-a-9e90748d-4884-423d-8a21-ce64de28e434#ref=rss)
+* [https://www.spiegel.de/sport/fussball/franzoesischer-fussball-verbandspraesident-noel-le-graet-suspendiert](https://www.spiegel.de/sport/fussball/franzoesischer-fussball-verbandspraesident-noel-le-graet-suspendiert-a-51c33d33-c5a2-44d7-9475-96c5026912fe#ref=rss)
+### christoph
+
+* [https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum](https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum-a-f3ff7cd6-c07b-49ad-bc63-5e0a794d1057#ref=rss)
+### stölzl
+
+* [https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum](https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum-a-f3ff7cd6-c07b-49ad-bc63-5e0a794d1057#ref=rss)
+### berliner
+
+* [https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum](https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum-a-f3ff7cd6-c07b-49ad-bc63-5e0a794d1057#ref=rss)
+### leitete
+
+* [https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum](https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum-a-f3ff7cd6-c07b-49ad-bc63-5e0a794d1057#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/sport/handball/handball-wm-2023-spielplan-gruppen-und-ergebnisse](https://www.spiegel.de/sport/handball/handball-wm-2023-spielplan-gruppen-und-ergebnisse-a-1cc68e60-5f22-47ca-b764-da87c93e6b35#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-start-ups-investitionen-brechen-ein-a-63c33d94-2d58-4dcd-a02e-a573f25af81d#ref=rss)
-### auswahl
+* [https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum](https://www.spiegel.de/kultur/christoph-stoelzl-ist-tot-berliner-kultursenator-leitete-das-deutsche-historische-museum-a-f3ff7cd6-c07b-49ad-bc63-5e0a794d1057#ref=rss)
+* [https://www.spiegel.de/sport/handball/handball-wm-2023-der-favoritencheck-wo-steht-deutschland-und-wer-wird-weltmeister](https://www.spiegel.de/sport/handball/handball-wm-2023-der-favoritencheck-wo-steht-deutschland-und-wer-wird-weltmeister-a-a9b48a92-c61b-493c-a66e-dfd6046883fc#ref=rss)
+### solidaritätszuschlag
 
-* [https://www.spiegel.de/sport/handball/handball-wm-2023-spielplan-gruppen-und-ergebnisse](https://www.spiegel.de/sport/handball/handball-wm-2023-spielplan-gruppen-und-ergebnisse-a-1cc68e60-5f22-47ca-b764-da87c93e6b35#ref=rss)
-* [https://www.spiegel.de/start/lerngruppe-fuers-studium-gruenden-so-klappt-s](https://www.spiegel.de/start/lerngruppe-fuers-studium-gruenden-so-klappt-s-a-6419586e-6110-42b0-8ecd-3f2e7b28daeb#ref=rss)
-### gilt
-
-* [https://www.spiegel.de/sport/handball/handball-wm-2023-spielplan-gruppen-und-ergebnisse](https://www.spiegel.de/sport/handball/handball-wm-2023-spielplan-gruppen-und-ergebnisse-a-1cc68e60-5f22-47ca-b764-da87c93e6b35#ref=rss)
-* [https://www.spiegel.de/start/lerngruppe-fuers-studium-gruenden-so-klappt-s](https://www.spiegel.de/start/lerngruppe-fuers-studium-gruenden-so-klappt-s-a-6419586e-6110-42b0-8ecd-3f2e7b28daeb#ref=rss)
-### krematorien
-
-* [https://www.spiegel.de/ausland/corona-satellitenbilder-chinesischer-krematorien-deuten-auf-deutlich-mehr-tote-hin](https://www.spiegel.de/ausland/corona-satellitenbilder-chinesischer-krematorien-deuten-auf-deutlich-mehr-tote-hin-a-c4305852-d092-4e54-a210-c88b820d564c#ref=rss)
-### nicaragua
-
-* [https://www.spiegel.de/panorama/nicaragua-regierungskritischer-bischof-vor-gericht](https://www.spiegel.de/panorama/nicaragua-regierungskritischer-bischof-vor-gericht-a-f6c2ef74-d0c7-4aa4-945f-3542f305a3f7#ref=rss)
-### bischof
-
-* [https://www.spiegel.de/panorama/nicaragua-regierungskritischer-bischof-vor-gericht](https://www.spiegel.de/panorama/nicaragua-regierungskritischer-bischof-vor-gericht-a-f6c2ef74-d0c7-4aa4-945f-3542f305a3f7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzministerium-will-solidaritaetszuschlag-nicht-vor-gericht-verteidigen](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzministerium-will-solidaritaetszuschlag-nicht-vor-gericht-verteidigen-a-506ad94a-c53d-423b-83f7-dd101d9ce628#ref=rss)
 ### gericht
 
-* [https://www.spiegel.de/panorama/nicaragua-regierungskritischer-bischof-vor-gericht](https://www.spiegel.de/panorama/nicaragua-regierungskritischer-bischof-vor-gericht-a-f6c2ef74-d0c7-4aa4-945f-3542f305a3f7#ref=rss)
-### fürs
+* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzministerium-will-solidaritaetszuschlag-nicht-vor-gericht-verteidigen](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzministerium-will-solidaritaetszuschlag-nicht-vor-gericht-verteidigen-a-506ad94a-c53d-423b-83f7-dd101d9ce628#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/george-pell-papst-franziskus-wuerdigt-verstorbenen-kardinal](https://www.spiegel.de/panorama/gesellschaft/george-pell-papst-franziskus-wuerdigt-verstorbenen-kardinal-a-0693ba3f-dbed-4b58-a2c1-d01af1e5a556#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/start/lerngruppe-fuers-studium-gruenden-so-klappt-s](https://www.spiegel.de/start/lerngruppe-fuers-studium-gruenden-so-klappt-s-a-6419586e-6110-42b0-8ecd-3f2e7b28daeb#ref=rss)
-### studium
+* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzministerium-will-solidaritaetszuschlag-nicht-vor-gericht-verteidigen](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzministerium-will-solidaritaetszuschlag-nicht-vor-gericht-verteidigen-a-506ad94a-c53d-423b-83f7-dd101d9ce628#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/catl-polizei-und-zoll-durchsuchen-batteriewerk-in-arnstadt](https://www.spiegel.de/wirtschaft/unternehmen/catl-polizei-und-zoll-durchsuchen-batteriewerk-in-arnstadt-a-c5c44b6e-472f-42d6-b4b7-2a2dc6f93d09#ref=rss)
+### ukrainekrieg
 
-* [https://www.spiegel.de/start/lerngruppe-fuers-studium-gruenden-so-klappt-s](https://www.spiegel.de/start/lerngruppe-fuers-studium-gruenden-so-klappt-s-a-6419586e-6110-42b0-8ecd-3f2e7b28daeb#ref=rss)
-### worauf
+* [https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig](https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig-a-cdb5fdbb-6cda-470d-a3cc-0d923e420002#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-die-raiffeisenbank-und-der-ukraine-krieg](https://www.spiegel.de/ausland/oesterreich-die-raiffeisenbank-und-der-ukraine-krieg-a-7b321efd-128b-421f-bb1c-2c913c7897da#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/start/lerngruppe-fuers-studium-gruenden-so-klappt-s](https://www.spiegel.de/start/lerngruppe-fuers-studium-gruenden-so-klappt-s-a-6419586e-6110-42b0-8ecd-3f2e7b28daeb#ref=rss)
-* [https://www.spiegel.de/partnerschaft/eheaehnliche-lebensgemeinschaft-worauf-unverheiratete-paare-achten-sollten](https://www.spiegel.de/partnerschaft/eheaehnliche-lebensgemeinschaft-worauf-unverheiratete-paare-achten-sollten-a-55960589-5f02-4da0-bfc2-894af36585cc#ref=rss)
-### gefährlich
+* [https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig](https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig-a-cdb5fdbb-6cda-470d-a3cc-0d923e420002#ref=rss)
+### putin
 
-* [https://www.spiegel.de/wirtschaft/service/containern-lebensmittelbranche-lehnt-straffreiheit-strikt-ab](https://www.spiegel.de/wirtschaft/service/containern-lebensmittelbranche-lehnt-straffreiheit-strikt-ab-a-62a73f21-06be-4e1b-aaaa-5d776c115b73#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-affaere-um-staatsakten-im-privatschrank](https://www.spiegel.de/ausland/joe-biden-affaere-um-staatsakten-im-privatschrank-a-600c3b74-fc9b-4e52-aa26-2fd8f3217a53#ref=rss)
-### fdp
+* [https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig](https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig-a-cdb5fdbb-6cda-470d-a3cc-0d923e420002#ref=rss)
+### gebieten
 
-* [https://www.spiegel.de/politik/deutschland/fdp-erhoeht-bei-cannabis-legalisierung-druck](https://www.spiegel.de/politik/deutschland/fdp-erhoeht-bei-cannabis-legalisierung-druck-a-5bbc21f1-aab9-44cf-9c33-5c5e829a57cf#ref=rss)
-### paare
+* [https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig](https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig-a-cdb5fdbb-6cda-470d-a3cc-0d923e420002#ref=rss)
+### schwierig
 
-* [https://www.spiegel.de/partnerschaft/eheaehnliche-lebensgemeinschaft-worauf-unverheiratete-paare-achten-sollten](https://www.spiegel.de/partnerschaft/eheaehnliche-lebensgemeinschaft-worauf-unverheiratete-paare-achten-sollten-a-55960589-5f02-4da0-bfc2-894af36585cc#ref=rss)
-### ewald
+* [https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig](https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig-a-cdb5fdbb-6cda-470d-a3cc-0d923e420002#ref=rss)
+### ukrainischen
 
-* [https://www.spiegel.de/kultur/literatur/die-liebe-an-miesen-tagen-von-ewald-arenz-die-alltaegliche-beschissenheit-der-dinge](https://www.spiegel.de/kultur/literatur/die-liebe-an-miesen-tagen-von-ewald-arenz-die-alltaegliche-beschissenheit-der-dinge-a-dd9d8257-1abc-4bfb-914f-5d04dec1ed9e#ref=rss)
-### arenz
+* [https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig](https://www.spiegel.de/ausland/ukrainekrieg-wladimir-putin-bezeichnet-situation-in-annektierten-gebieten-als-schwierig-a-cdb5fdbb-6cda-470d-a3cc-0d923e420002#ref=rss)
+* [https://www.spiegel.de/ausland/oesterreich-die-raiffeisenbank-und-der-ukraine-krieg](https://www.spiegel.de/ausland/oesterreich-die-raiffeisenbank-und-der-ukraine-krieg-a-7b321efd-128b-421f-bb1c-2c913c7897da#ref=rss)
+### raiffeisenbank
 
-* [https://www.spiegel.de/kultur/literatur/die-liebe-an-miesen-tagen-von-ewald-arenz-die-alltaegliche-beschissenheit-der-dinge](https://www.spiegel.de/kultur/literatur/die-liebe-an-miesen-tagen-von-ewald-arenz-die-alltaegliche-beschissenheit-der-dinge-a-dd9d8257-1abc-4bfb-914f-5d04dec1ed9e#ref=rss)
-### fall
+* [https://www.spiegel.de/ausland/oesterreich-die-raiffeisenbank-und-der-ukraine-krieg](https://www.spiegel.de/ausland/oesterreich-die-raiffeisenbank-und-der-ukraine-krieg-a-7b321efd-128b-421f-bb1c-2c913c7897da#ref=rss)
+### pantera
 
-* [https://www.spiegel.de/panorama/gesellschaft/luetzerath-als-symbol-des-scheiterns-der-energiepolitik-podcast](https://www.spiegel.de/panorama/gesellschaft/luetzerath-als-symbol-des-scheiterns-der-energiepolitik-podcast-a-c5eb25d1-5a27-4428-a4a5-c5d7ad84b081#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-affaere-um-staatsakten-im-privatschrank](https://www.spiegel.de/ausland/joe-biden-affaere-um-staatsakten-im-privatschrank-a-600c3b74-fc9b-4e52-aa26-2fd8f3217a53#ref=rss)
-### joe
+* [https://www.spiegel.de/kultur/musik/pantera-bei-rock-im-park-veranstalter-verteidigt-auftritt](https://www.spiegel.de/kultur/musik/pantera-bei-rock-im-park-veranstalter-verteidigt-auftritt-a-790de7d8-aa4b-4fb2-bfc3-93cd186576c9#ref=rss)
+### veranstalter
 
-* [https://www.spiegel.de/ausland/joe-biden-affaere-um-staatsakten-im-privatschrank](https://www.spiegel.de/ausland/joe-biden-affaere-um-staatsakten-im-privatschrank-a-600c3b74-fc9b-4e52-aa26-2fd8f3217a53#ref=rss)
-### uspräsidenten
+* [https://www.spiegel.de/kultur/musik/pantera-bei-rock-im-park-veranstalter-verteidigt-auftritt](https://www.spiegel.de/kultur/musik/pantera-bei-rock-im-park-veranstalter-verteidigt-auftritt-a-790de7d8-aa4b-4fb2-bfc3-93cd186576c9#ref=rss)
+### frage
 
-* [https://www.spiegel.de/ausland/joe-biden-affaere-um-staatsakten-im-privatschrank](https://www.spiegel.de/ausland/joe-biden-affaere-um-staatsakten-im-privatschrank-a-600c3b74-fc9b-4e52-aa26-2fd8f3217a53#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-lagebericht-aus-kiew-deutet-auf-verlust-von-soledar-hin](https://www.spiegel.de/ausland/russland-ukraine-news-heute-lagebericht-aus-kiew-deutet-auf-verlust-von-soledar-hin-a-7aa5664e-6525-4c3b-9072-25489a8827eb#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kronzeuge-im-wirecard-prozess-wirecard-soll-dokumente-fuer-wirtschaftspruefer-gebastelt-haben](https://www.spiegel.de/wirtschaft/unternehmen/kronzeuge-im-wirecard-prozess-wirecard-soll-dokumente-fuer-wirtschaftspruefer-gebastelt-haben-a-166d2431-ab81-4803-b173-360eade227a2#ref=rss)
+### biathlonweltcup
+
+* [https://www.spiegel.de/sport/wintersport/wintersport-beim-biathlon-weltcup-in-ruhpolding-faellt-der-strom-aus](https://www.spiegel.de/sport/wintersport/wintersport-beim-biathlon-weltcup-in-ruhpolding-faellt-der-strom-aus-a-5e940c5c-092a-49d6-a287-4897fde528c6#ref=rss)
+### ruhpolding
+
+* [https://www.spiegel.de/sport/wintersport/wintersport-beim-biathlon-weltcup-in-ruhpolding-faellt-der-strom-aus](https://www.spiegel.de/sport/wintersport/wintersport-beim-biathlon-weltcup-in-ruhpolding-faellt-der-strom-aus-a-5e940c5c-092a-49d6-a287-4897fde528c6#ref=rss)
+### erst
+
+* [https://www.spiegel.de/sport/wintersport/wintersport-beim-biathlon-weltcup-in-ruhpolding-faellt-der-strom-aus](https://www.spiegel.de/sport/wintersport/wintersport-beim-biathlon-weltcup-in-ruhpolding-faellt-der-strom-aus-a-5e940c5c-092a-49d6-a287-4897fde528c6#ref=rss)
+* [https://www.spiegel.de/sport/fussball/franzoesischer-fussball-verbandspraesident-noel-le-graet-suspendiert](https://www.spiegel.de/sport/fussball/franzoesischer-fussball-verbandspraesident-noel-le-graet-suspendiert-a-51c33d33-c5a2-44d7-9475-96c5026912fe#ref=rss)
+### bahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/maskenpflicht-bahn-spricht-sich-fuer-ende-der-maskenpflicht-in-fernzuegen-aus](https://www.spiegel.de/wirtschaft/unternehmen/maskenpflicht-bahn-spricht-sich-fuer-ende-der-maskenpflicht-in-fernzuegen-aus-a-4b24d81b-df56-4f6c-8bee-4e46bbc76697#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### wichtigsten
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut](https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut-a-46128d5f-35a3-4db8-ab11-f14938fa5bc5#ref=rss)
+### noël
+
+* [https://www.spiegel.de/sport/fussball/franzoesischer-fussball-verbandspraesident-noel-le-graet-suspendiert](https://www.spiegel.de/sport/fussball/franzoesischer-fussball-verbandspraesident-noel-le-graet-suspendiert-a-51c33d33-c5a2-44d7-9475-96c5026912fe#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/sport/fussball/franzoesischer-fussball-verbandspraesident-noel-le-graet-suspendiert](https://www.spiegel.de/sport/fussball/franzoesischer-fussball-verbandspraesident-noel-le-graet-suspendiert-a-51c33d33-c5a2-44d7-9475-96c5026912fe#ref=rss)
+* [https://www.spiegel.de/sport/handball/steffen-birkner-von-hsg-blomberg-lippe-zwischenmenschlich-eine-katastrophe](https://www.spiegel.de/sport/handball/steffen-birkner-von-hsg-blomberg-lippe-zwischenmenschlich-eine-katastrophe-a-905f289d-67bc-4919-a018-f591bed1d1be#ref=rss)
+### george
+
+* [https://www.spiegel.de/panorama/gesellschaft/george-pell-papst-franziskus-wuerdigt-verstorbenen-kardinal](https://www.spiegel.de/panorama/gesellschaft/george-pell-papst-franziskus-wuerdigt-verstorbenen-kardinal-a-0693ba3f-dbed-4b58-a2c1-d01af1e5a556#ref=rss)
+### pell
+
+* [https://www.spiegel.de/panorama/gesellschaft/george-pell-papst-franziskus-wuerdigt-verstorbenen-kardinal](https://www.spiegel.de/panorama/gesellschaft/george-pell-papst-franziskus-wuerdigt-verstorbenen-kardinal-a-0693ba3f-dbed-4b58-a2c1-d01af1e5a556#ref=rss)
+### afghanistan
+
+* [https://www.spiegel.de/ausland/kabul-mehr-als-20-opfer-bei-selbstmordanschlag](https://www.spiegel.de/ausland/kabul-mehr-als-20-opfer-bei-selbstmordanschlag-a-dc4e0876-eed2-4d39-8310-7df6f03e7285#ref=rss)
+### kabul
+
+* [https://www.spiegel.de/ausland/kabul-mehr-als-20-opfer-bei-selbstmordanschlag](https://www.spiegel.de/ausland/kabul-mehr-als-20-opfer-bei-selbstmordanschlag-a-dc4e0876-eed2-4d39-8310-7df6f03e7285#ref=rss)
+### saskia
+
+* [https://www.spiegel.de/politik/deutschland/spd-chefin-saskia-esken-wuenschen-sie-sich-dass-die-ukraine-diesen-krieg-gewinnt-ja](https://www.spiegel.de/politik/deutschland/spd-chefin-saskia-esken-wuenschen-sie-sich-dass-die-ukraine-diesen-krieg-gewinnt-ja-a-4f5a1cc5-e25c-496e-af3f-edfe1f0f32aa#ref=rss)
+### esken
+
+* [https://www.spiegel.de/politik/deutschland/spd-chefin-saskia-esken-wuenschen-sie-sich-dass-die-ukraine-diesen-krieg-gewinnt-ja](https://www.spiegel.de/politik/deutschland/spd-chefin-saskia-esken-wuenschen-sie-sich-dass-die-ukraine-diesen-krieg-gewinnt-ja-a-4f5a1cc5-e25c-496e-af3f-edfe1f0f32aa#ref=rss)
+### zoll
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/catl-polizei-und-zoll-durchsuchen-batteriewerk-in-arnstadt](https://www.spiegel.de/wirtschaft/unternehmen/catl-polizei-und-zoll-durchsuchen-batteriewerk-in-arnstadt-a-c5c44b6e-472f-42d6-b4b7-2a2dc6f93d09#ref=rss)
+### wirecardprozess
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kronzeuge-im-wirecard-prozess-wirecard-soll-dokumente-fuer-wirtschaftspruefer-gebastelt-haben](https://www.spiegel.de/wirtschaft/unternehmen/kronzeuge-im-wirecard-prozess-wirecard-soll-dokumente-fuer-wirtschaftspruefer-gebastelt-haben-a-166d2431-ab81-4803-b173-360eade227a2#ref=rss)
+### wirtschaftsprüfer
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/kronzeuge-im-wirecard-prozess-wirecard-soll-dokumente-fuer-wirtschaftspruefer-gebastelt-haben](https://www.spiegel.de/wirtschaft/unternehmen/kronzeuge-im-wirecard-prozess-wirecard-soll-dokumente-fuer-wirtschaftspruefer-gebastelt-haben-a-166d2431-ab81-4803-b173-360eade227a2#ref=rss)
+### reem
+
+* [https://www.spiegel.de/politik/deutschland/reem-alabali-radovan-integrationsbeauftragte-draengt-auf-diskriminierungs-beschwerdestellen-in-jedem-bundesland](https://www.spiegel.de/politik/deutschland/reem-alabali-radovan-integrationsbeauftragte-draengt-auf-diskriminierungs-beschwerdestellen-in-jedem-bundesland-a-2d782012-2d7f-4820-b105-efe2b989598f#ref=rss)
+### alabaliradovan
+
+* [https://www.spiegel.de/politik/deutschland/reem-alabali-radovan-integrationsbeauftragte-draengt-auf-diskriminierungs-beschwerdestellen-in-jedem-bundesland](https://www.spiegel.de/politik/deutschland/reem-alabali-radovan-integrationsbeauftragte-draengt-auf-diskriminierungs-beschwerdestellen-in-jedem-bundesland-a-2d782012-2d7f-4820-b105-efe2b989598f#ref=rss)
+### hsg
+
+* [https://www.spiegel.de/sport/handball/steffen-birkner-von-hsg-blomberg-lippe-zwischenmenschlich-eine-katastrophe](https://www.spiegel.de/sport/handball/steffen-birkner-von-hsg-blomberg-lippe-zwischenmenschlich-eine-katastrophe-a-905f289d-67bc-4919-a018-f591bed1d1be#ref=rss)
+### blomberglippe
+
+* [https://www.spiegel.de/sport/handball/steffen-birkner-von-hsg-blomberg-lippe-zwischenmenschlich-eine-katastrophe](https://www.spiegel.de/sport/handball/steffen-birkner-von-hsg-blomberg-lippe-zwischenmenschlich-eine-katastrophe-a-905f289d-67bc-4919-a018-f591bed1d1be#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/sport/handball/handball-wm-2023-der-favoritencheck-wo-steht-deutschland-und-wer-wird-weltmeister](https://www.spiegel.de/sport/handball/handball-wm-2023-der-favoritencheck-wo-steht-deutschland-und-wer-wird-weltmeister-a-a9b48a92-c61b-493c-a66e-dfd6046883fc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut](https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut-a-46128d5f-35a3-4db8-ab11-f14938fa5bc5#ref=rss)
+### verlässt
+
+* [https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut](https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut-a-46128d5f-35a3-4db8-ab11-f14938fa5bc5#ref=rss)
+### robert
+
+* [https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut](https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut-a-46128d5f-35a3-4db8-ab11-f14938fa5bc5#ref=rss)
+### kochinstitut
+
+* [https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut](https://www.spiegel.de/wissenschaft/rki-lothar-wieler-verlaesst-das-robert-koch-institut-a-46128d5f-35a3-4db8-ab11-f14938fa5bc5#ref=rss)
 
