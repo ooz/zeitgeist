@@ -4,352 +4,346 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
+### gericht
 
-* [https://www.spiegel.de/wissenschaft/weltall/chinas-erster-mars-rover-meldet-sich-nicht-mehr](https://www.spiegel.de/wissenschaft/weltall/chinas-erster-mars-rover-meldet-sich-nicht-mehr-a-b2220291-011e-4c68-9373-d790f099377a#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-koennte-laut-krankenkasse-70-000-leben-retten](https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-koennte-laut-krankenkasse-70-000-leben-retten-a-fd098554-6352-4af8-ac11-3d65b84c87f7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/handwerk-stimmt-kunden-auf-hoehere-preise-ein](https://www.spiegel.de/wirtschaft/service/handwerk-stimmt-kunden-auf-hoehere-preise-ein-a-7d937071-f116-4043-8360-dc2261d95bc5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten-a-cf47cf2a-419e-45a2-af74-852cdc2ce2c8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-aerztevertreter-draengen-auf-ende-der-maskenpflicht-in-praxen](https://www.spiegel.de/politik/deutschland/coronavirus-aerztevertreter-draengen-auf-ende-der-maskenpflicht-in-praxen-a-f137bd13-e30b-40c0-a13e-782af25db54c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar](https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar-a-f8ba0d08-468c-4add-849c-e30f5df8e11f#ref=rss)
-### baerbock
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-ueber-iran-die-revolutionswaechter-terrorisieren-ihre-eigene-bevoelkerung-tag-fuer-tag](https://www.spiegel.de/ausland/annalena-baerbock-ueber-iran-die-revolutionswaechter-terrorisieren-ihre-eigene-bevoelkerung-tag-fuer-tag-a-69e063bf-2a32-4668-aa96-016a4a21b738#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht](https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht-a-25f7762d-e3ce-4ee4-bbdf-5b262684693b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber-a-ac8bed41-a02f-440d-ba14-5cb45786ba73#ref=rss)
-### tag
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-ueber-iran-die-revolutionswaechter-terrorisieren-ihre-eigene-bevoelkerung-tag-fuer-tag](https://www.spiegel.de/ausland/annalena-baerbock-ueber-iran-die-revolutionswaechter-terrorisieren-ihre-eigene-bevoelkerung-tag-fuer-tag-a-69e063bf-2a32-4668-aa96-016a4a21b738#ref=rss)
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-tag-10-fabelhafte-fladenverzehrer-und-eine-geilgeilgeile-pruefung](https://www.spiegel.de/kultur/tv/dschungelcamp-tag-10-fabelhafte-fladenverzehrer-und-eine-geilgeilgeile-pruefung-a-debe079c-c4c2-48dd-83fe-fb3a68d9d052#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-zwei-milliarden-dollar-umsatz-fuer-james-camerons-film](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-zwei-milliarden-dollar-umsatz-fuer-james-camerons-film-a-228cbc37-1214-477d-affa-5c34c4c65f3b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber-a-ac8bed41-a02f-440d-ba14-5cb45786ba73#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten-a-cf47cf2a-419e-45a2-af74-852cdc2ce2c8#ref=rss)
-### außenministerin
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-ueber-iran-die-revolutionswaechter-terrorisieren-ihre-eigene-bevoelkerung-tag-fuer-tag](https://www.spiegel.de/ausland/annalena-baerbock-ueber-iran-die-revolutionswaechter-terrorisieren-ihre-eigene-bevoelkerung-tag-fuer-tag-a-69e063bf-2a32-4668-aa96-016a4a21b738#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht](https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht-a-25f7762d-e3ce-4ee4-bbdf-5b262684693b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber-a-ac8bed41-a02f-440d-ba14-5cb45786ba73#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-zwei-milliarden-dollar-umsatz-fuer-james-camerons-film](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-zwei-milliarden-dollar-umsatz-fuer-james-camerons-film-a-228cbc37-1214-477d-affa-5c34c4c65f3b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/eltville-am-rhein-maenner-bei-streit-auf-bundesstrasse-angefahren-ein-toter](https://www.spiegel.de/panorama/justiz/eltville-am-rhein-maenner-bei-streit-auf-bundesstrasse-angefahren-ein-toter-a-2babc130-10ce-4d6c-8a57-be4fd8ac0db2#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen-a-3bba6098-03c9-40cb-99cf-fdf6ecb78a15#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht](https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht-a-25f7762d-e3ce-4ee4-bbdf-5b262684693b#ref=rss)
-### landes
-
-* [https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur](https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur-a-bccc415e-23f1-435d-812e-3115852746d5#ref=rss)
-* [https://www.spiegel.de/panorama/pakistan-ohne-strom-landesweiter-ausfall](https://www.spiegel.de/panorama/pakistan-ohne-strom-landesweiter-ausfall-a-498f70a1-1230-4934-9515-9314e9b0c7da#ref=rss)
-### tom
-
-* [https://www.spiegel.de/kultur/kino/goldene-himbeeren-tom-hanks-dreimal-nominiert](https://www.spiegel.de/kultur/kino/goldene-himbeeren-tom-hanks-dreimal-nominiert-a-f9d79836-f497-4213-8fc0-42192ee3f5a0#ref=rss)
-### hanks
-
-* [https://www.spiegel.de/kultur/kino/goldene-himbeeren-tom-hanks-dreimal-nominiert](https://www.spiegel.de/kultur/kino/goldene-himbeeren-tom-hanks-dreimal-nominiert-a-f9d79836-f497-4213-8fc0-42192ee3f5a0#ref=rss)
-### noflycsv
-
-* [https://www.spiegel.de/netzwelt/web/nofly-csv-schweizer-hackerin-entdeckt-no-fly-liste-der-usa-im-netz](https://www.spiegel.de/netzwelt/web/nofly-csv-schweizer-hackerin-entdeckt-no-fly-liste-der-usa-im-netz-a-3fcd0e23-522d-480e-98dd-e0da34767fcb#ref=rss)
-### stehen
-
-* [https://www.spiegel.de/netzwelt/web/nofly-csv-schweizer-hackerin-entdeckt-no-fly-liste-der-usa-im-netz](https://www.spiegel.de/netzwelt/web/nofly-csv-schweizer-hackerin-entdeckt-no-fly-liste-der-usa-im-netz-a-3fcd0e23-522d-480e-98dd-e0da34767fcb#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-koennte-laut-krankenkasse-70-000-leben-retten](https://www.spiegel.de/netzwelt/netzpolitik/digitalisierung-koennte-laut-krankenkasse-70-000-leben-retten-a-fd098554-6352-4af8-ac11-3d65b84c87f7#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/netzwelt/web/nofly-csv-schweizer-hackerin-entdeckt-no-fly-liste-der-usa-im-netz](https://www.spiegel.de/netzwelt/web/nofly-csv-schweizer-hackerin-entdeckt-no-fly-liste-der-usa-im-netz-a-3fcd0e23-522d-480e-98dd-e0da34767fcb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/eltville-am-rhein-maenner-bei-streit-auf-bundesstrasse-angefahren-ein-toter](https://www.spiegel.de/panorama/justiz/eltville-am-rhein-maenner-bei-streit-auf-bundesstrasse-angefahren-ein-toter-a-2babc130-10ce-4d6c-8a57-be4fd8ac0db2#ref=rss)
-### meldet
-
-* [https://www.spiegel.de/wissenschaft/weltall/chinas-erster-mars-rover-meldet-sich-nicht-mehr](https://www.spiegel.de/wissenschaft/weltall/chinas-erster-mars-rover-meldet-sich-nicht-mehr-a-b2220291-011e-4c68-9373-d790f099377a#ref=rss)
-* [https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur](https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur-a-bccc415e-23f1-435d-812e-3115852746d5#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wissenschaft/weltall/chinas-erster-mars-rover-meldet-sich-nicht-mehr](https://www.spiegel.de/wissenschaft/weltall/chinas-erster-mars-rover-meldet-sich-nicht-mehr-a-b2220291-011e-4c68-9373-d790f099377a#ref=rss)
-* [https://www.spiegel.de/psychologie/ritzen-schneiden-verbrennen-verbruehen-warum-verletzen-sich-so-viele-jugendliche-selbst](https://www.spiegel.de/psychologie/ritzen-schneiden-verbrennen-verbruehen-warum-verletzen-sich-so-viele-jugendliche-selbst-a-f373bdbb-adc2-413c-8249-61bafcf4682c#ref=rss)
-### margarine
-
-* [https://www.spiegel.de/wirtschaft/service/margarine-verbraucher-waehlen-rama-zur-mogelpackung-des-jahres](https://www.spiegel.de/wirtschaft/service/margarine-verbraucher-waehlen-rama-zur-mogelpackung-des-jahres-a-a6b2fd9f-6f0b-43a4-a36e-4adda8291523#ref=rss)
-### verbraucher
-
-* [https://www.spiegel.de/wirtschaft/service/margarine-verbraucher-waehlen-rama-zur-mogelpackung-des-jahres](https://www.spiegel.de/wirtschaft/service/margarine-verbraucher-waehlen-rama-zur-mogelpackung-des-jahres-a-a6b2fd9f-6f0b-43a4-a36e-4adda8291523#ref=rss)
-### häufig
-
-* [https://www.spiegel.de/wirtschaft/service/margarine-verbraucher-waehlen-rama-zur-mogelpackung-des-jahres](https://www.spiegel.de/wirtschaft/service/margarine-verbraucher-waehlen-rama-zur-mogelpackung-des-jahres-a-a6b2fd9f-6f0b-43a4-a36e-4adda8291523#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck](https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck-a-40cf25c9-d1aa-49e9-9683-509c3ccf32c4#ref=rss)
-### verhängt
-
-* [https://www.spiegel.de/panorama/justiz/bayreuth-doppelmord-von-mistelbach-lange-freiheitsstrafen-verhaengt](https://www.spiegel.de/panorama/justiz/bayreuth-doppelmord-von-mistelbach-lange-freiheitsstrafen-verhaengt-a-a64d0a55-d343-4564-a285-3a86b9b58ed8#ref=rss)
-### sechs
-
-* [https://www.spiegel.de/panorama/justiz/bayreuth-doppelmord-von-mistelbach-lange-freiheitsstrafen-verhaengt](https://www.spiegel.de/panorama/justiz/bayreuth-doppelmord-von-mistelbach-lange-freiheitsstrafen-verhaengt-a-a64d0a55-d343-4564-a285-3a86b9b58ed8#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/panorama/justiz/bayreuth-doppelmord-von-mistelbach-lange-freiheitsstrafen-verhaengt](https://www.spiegel.de/panorama/justiz/bayreuth-doppelmord-von-mistelbach-lange-freiheitsstrafen-verhaengt-a-a64d0a55-d343-4564-a285-3a86b9b58ed8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen-a-3bba6098-03c9-40cb-99cf-fdf6ecb78a15#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-ueber-iran-die-revolutionswaechter-terrorisieren-ihre-eigene-bevoelkerung-tag-fuer-tag](https://www.spiegel.de/ausland/annalena-baerbock-ueber-iran-die-revolutionswaechter-terrorisieren-ihre-eigene-bevoelkerung-tag-fuer-tag-a-69e063bf-2a32-4668-aa96-016a4a21b738#ref=rss)
-### revolutionswächter
-
-* [https://www.spiegel.de/ausland/annalena-baerbock-ueber-iran-die-revolutionswaechter-terrorisieren-ihre-eigene-bevoelkerung-tag-fuer-tag](https://www.spiegel.de/ausland/annalena-baerbock-ueber-iran-die-revolutionswaechter-terrorisieren-ihre-eigene-bevoelkerung-tag-fuer-tag-a-69e063bf-2a32-4668-aa96-016a4a21b738#ref=rss)
-### the
-
-* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-zwei-milliarden-dollar-umsatz-fuer-james-camerons-film](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-zwei-milliarden-dollar-umsatz-fuer-james-camerons-film-a-228cbc37-1214-477d-affa-5c34c4c65f3b#ref=rss)
-* [https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe](https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe-a-914d4b8b-c98c-4af6-b382-83a7d29ce231#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-zwei-milliarden-dollar-umsatz-fuer-james-camerons-film](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-zwei-milliarden-dollar-umsatz-fuer-james-camerons-film-a-228cbc37-1214-477d-affa-5c34c4c65f3b#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-zwei-milliarden-dollar-umsatz-fuer-james-camerons-film](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-zwei-milliarden-dollar-umsatz-fuer-james-camerons-film-a-228cbc37-1214-477d-affa-5c34c4c65f3b#ref=rss)
-### james
-
-* [https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-zwei-milliarden-dollar-umsatz-fuer-james-camerons-film](https://www.spiegel.de/kultur/kino/avatar-the-way-of-water-zwei-milliarden-dollar-umsatz-fuer-james-camerons-film-a-228cbc37-1214-477d-affa-5c34c4c65f3b#ref=rss)
-### teeeier
-
-* [https://www.spiegel.de/stil/rezept-fuer-chinesische-tee-eier](https://www.spiegel.de/stil/rezept-fuer-chinesische-tee-eier-a-062133c9-d541-467a-94b6-cda9b7681a6a#ref=rss)
-### gern
-
-* [https://www.spiegel.de/stil/rezept-fuer-chinesische-tee-eier](https://www.spiegel.de/stil/rezept-fuer-chinesische-tee-eier-a-062133c9-d541-467a-94b6-cda9b7681a6a#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber-a-ac8bed41-a02f-440d-ba14-5cb45786ba73#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/stil/rezept-fuer-chinesische-tee-eier](https://www.spiegel.de/stil/rezept-fuer-chinesische-tee-eier-a-062133c9-d541-467a-94b6-cda9b7681a6a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar](https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar-a-f8ba0d08-468c-4add-849c-e30f5df8e11f#ref=rss)
-### macron
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen-a-3bba6098-03c9-40cb-99cf-fdf6ecb78a15#ref=rss)
-### selfie
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen-a-3bba6098-03c9-40cb-99cf-fdf6ecb78a15#ref=rss)
-### kanzler
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen-a-3bba6098-03c9-40cb-99cf-fdf6ecb78a15#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht](https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht-a-25f7762d-e3ce-4ee4-bbdf-5b262684693b#ref=rss)
-### freundschaft
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen-a-3bba6098-03c9-40cb-99cf-fdf6ecb78a15#ref=rss)
-### gut
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen-a-3bba6098-03c9-40cb-99cf-fdf6ecb78a15#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/arved-fuchs-ueber-klimapolitik-ich-kann-den-zorn-der-jungen-leute-verstehen](https://www.spiegel.de/panorama/gesellschaft/arved-fuchs-ueber-klimapolitik-ich-kann-den-zorn-der-jungen-leute-verstehen-a-5731fe91-8a25-4554-ae6c-25d45d2a0886#ref=rss)
-### ende
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-emmanuel-macron-selfie-vom-elysee-treffen-a-3bba6098-03c9-40cb-99cf-fdf6ecb78a15#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-aerztevertreter-draengen-auf-ende-der-maskenpflicht-in-praxen](https://www.spiegel.de/politik/deutschland/coronavirus-aerztevertreter-draengen-auf-ende-der-maskenpflicht-in-praxen-a-f137bd13-e30b-40c0-a13e-782af25db54c#ref=rss)
-### china
-
-* [https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur](https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur-a-bccc415e-23f1-435d-812e-3115852746d5#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur](https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur-a-bccc415e-23f1-435d-812e-3115852746d5#ref=rss)
-### minus
-
-* [https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur](https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur-a-bccc415e-23f1-435d-812e-3115852746d5#ref=rss)
-### 53
-
-* [https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur](https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur-a-bccc415e-23f1-435d-812e-3115852746d5#ref=rss)
-### grad
-
-* [https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur](https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur-a-bccc415e-23f1-435d-812e-3115852746d5#ref=rss)
-### celsius
-
-* [https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur](https://www.spiegel.de/panorama/china-meldet-minus-53-grad-celsius-historische-tiefsttemperatur-a-bccc415e-23f1-435d-812e-3115852746d5#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht](https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht-a-25f7762d-e3ce-4ee4-bbdf-5b262684693b#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht](https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht-a-25f7762d-e3ce-4ee4-bbdf-5b262684693b#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber-a-ac8bed41-a02f-440d-ba14-5cb45786ba73#ref=rss)
-### video
-
-* [https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht](https://www.spiegel.de/politik/deutschland/debatte-um-leopard-panzerlieferung-ja-nein-vielleicht-a-25f7762d-e3ce-4ee4-bbdf-5b262684693b#ref=rss)
-* [https://www.spiegel.de/politik/der-spiegel-im-gespraech-mit-manuela-schwesig-ich-habe-die-aggressivitaet-von-putin-unterschaetzt](https://www.spiegel.de/politik/der-spiegel-im-gespraech-mit-manuela-schwesig-ich-habe-die-aggressivitaet-von-putin-unterschaetzt-a-8689f485-3554-4dff-bf83-3582a23d1616#ref=rss)
-### eltville
-
-* [https://www.spiegel.de/panorama/justiz/eltville-am-rhein-maenner-bei-streit-auf-bundesstrasse-angefahren-ein-toter](https://www.spiegel.de/panorama/justiz/eltville-am-rhein-maenner-bei-streit-auf-bundesstrasse-angefahren-ein-toter-a-2babc130-10ce-4d6c-8a57-be4fd8ac0db2#ref=rss)
-### männer
-
-* [https://www.spiegel.de/panorama/justiz/eltville-am-rhein-maenner-bei-streit-auf-bundesstrasse-angefahren-ein-toter](https://www.spiegel.de/panorama/justiz/eltville-am-rhein-maenner-bei-streit-auf-bundesstrasse-angefahren-ein-toter-a-2babc130-10ce-4d6c-8a57-be4fd8ac0db2#ref=rss)
-### karl
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck](https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck-a-40cf25c9-d1aa-49e9-9683-509c3ccf32c4#ref=rss)
-### lauterbach
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck](https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck-a-40cf25c9-d1aa-49e9-9683-509c3ccf32c4#ref=rss)
-### aussage
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck](https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck-a-40cf25c9-d1aa-49e9-9683-509c3ccf32c4#ref=rss)
-### corona
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck](https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck-a-40cf25c9-d1aa-49e9-9683-509c3ccf32c4#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-aerztevertreter-draengen-auf-ende-der-maskenpflicht-in-praxen](https://www.spiegel.de/politik/deutschland/coronavirus-aerztevertreter-draengen-auf-ende-der-maskenpflicht-in-praxen-a-f137bd13-e30b-40c0-a13e-782af25db54c#ref=rss)
-### zurück
-
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck](https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck-a-40cf25c9-d1aa-49e9-9683-509c3ccf32c4#ref=rss)
-* [https://www.spiegel.de/sport/american-football/nfl-american-football-profi-damar-hamlin-nach-herzstillstand-zurueck-im-stadion-der-buffalo-bills](https://www.spiegel.de/sport/american-football/nfl-american-football-profi-damar-hamlin-nach-herzstillstand-zurueck-im-stadion-der-buffalo-bills-a-bb01b1df-8a56-49c5-b873-382ce9b111c2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein](https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein-a-2bc3a7af-a91a-4dc2-9215-c197c5655c58#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wien-rene-benko-in-korruptionsprozess-freigesprochen](https://www.spiegel.de/wirtschaft/wien-rene-benko-in-korruptionsprozess-freigesprochen-a-3327c5f2-e51f-4059-a3a2-0521c7084708#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid](https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid-a-c7d0b060-0738-42d9-9826-1b8ca4e5578a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/shiny-flakes-kinderzimmer-dealer-maximilian-s-wieder-vor-gericht](https://www.spiegel.de/panorama/justiz/shiny-flakes-kinderzimmer-dealer-maximilian-s-wieder-vor-gericht-a-0b22700b-aaa7-4ac8-91af-ffb51cc8d64b#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck](https://www.spiegel.de/politik/deutschland/karl-lauterbach-zieht-aussage-zu-corona-mit-verweis-auf-technischen-fehler-zurueck-a-40cf25c9-d1aa-49e9-9683-509c3ccf32c4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar](https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar-a-f8ba0d08-468c-4add-849c-e30f5df8e11f#ref=rss)
-### dschungelcamp
+* [https://www.spiegel.de/panorama/gesellschaft/judensau-in-regensburg-nach-jahrelangem-streit-neue-infotafel-am-dom-enthuellt](https://www.spiegel.de/panorama/gesellschaft/judensau-in-regensburg-nach-jahrelangem-streit-neue-infotafel-am-dom-enthuellt-a-397dc3e5-cbc3-4702-96c1-024d8b6a2942#ref=rss)
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-warum-der-osten-des-landes-nicht-zur-ruhe-kommt](https://www.spiegel.de/ausland/demokratische-republik-kongo-warum-der-osten-des-landes-nicht-zur-ruhe-kommt-a-3b5b1040-6e9a-4d32-b2b2-9c83c07cf85e#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser](https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser-a-d4d0d3d8-98ad-4003-9dee-6f097ba287e3#ref=rss)
+* [https://www.spiegel.de/politik/roberta-metsola-das-geschenke-problem-der-eu-parlamentspraesidentin](https://www.spiegel.de/politik/roberta-metsola-das-geschenke-problem-der-eu-parlamentspraesidentin-a-fdce9cc1-9ae0-49ff-9c1d-414449770bc2#ref=rss)
+### chatgpt
 
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-tag-10-fabelhafte-fladenverzehrer-und-eine-geilgeilgeile-pruefung](https://www.spiegel.de/kultur/tv/dschungelcamp-tag-10-fabelhafte-fladenverzehrer-und-eine-geilgeilgeile-pruefung-a-debe079c-c4c2-48dd-83fe-fb3a68d9d052#ref=rss)
-### spiegel
+* [https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai](https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai-a-731a7ab3-b051-4bf3-beda-0ce3041581d5#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e](https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e-a-d19697d2-6bbf-4203-986c-5b5c3bc71903#ref=rss)
+### dalle
 
-* [https://www.spiegel.de/politik/der-spiegel-im-gespraech-mit-manuela-schwesig-ich-habe-die-aggressivitaet-von-putin-unterschaetzt](https://www.spiegel.de/politik/der-spiegel-im-gespraech-mit-manuela-schwesig-ich-habe-die-aggressivitaet-von-putin-unterschaetzt-a-8689f485-3554-4dff-bf83-3582a23d1616#ref=rss)
-### gespräch
+* [https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai](https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai-a-731a7ab3-b051-4bf3-beda-0ce3041581d5#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e](https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e-a-d19697d2-6bbf-4203-986c-5b5c3bc71903#ref=rss)
+### microsoft
 
-* [https://www.spiegel.de/politik/der-spiegel-im-gespraech-mit-manuela-schwesig-ich-habe-die-aggressivitaet-von-putin-unterschaetzt](https://www.spiegel.de/politik/der-spiegel-im-gespraech-mit-manuela-schwesig-ich-habe-die-aggressivitaet-von-putin-unterschaetzt-a-8689f485-3554-4dff-bf83-3582a23d1616#ref=rss)
-### manuela
+* [https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai](https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai-a-731a7ab3-b051-4bf3-beda-0ce3041581d5#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e](https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e-a-d19697d2-6bbf-4203-986c-5b5c3bc71903#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/politik/der-spiegel-im-gespraech-mit-manuela-schwesig-ich-habe-die-aggressivitaet-von-putin-unterschaetzt](https://www.spiegel.de/politik/der-spiegel-im-gespraech-mit-manuela-schwesig-ich-habe-die-aggressivitaet-von-putin-unterschaetzt-a-8689f485-3554-4dff-bf83-3582a23d1616#ref=rss)
-### schwesig
+* [https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai](https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai-a-731a7ab3-b051-4bf3-beda-0ce3041581d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/studie-oeko-landbau-spart-milliarden-an-folgekosten](https://www.spiegel.de/wirtschaft/studie-oeko-landbau-spart-milliarden-an-folgekosten-a-a36ceb98-c098-4fd0-b657-0c3f7c64d944#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e](https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e-a-d19697d2-6bbf-4203-986c-5b5c3bc71903#ref=rss)
+### openai
 
-* [https://www.spiegel.de/politik/der-spiegel-im-gespraech-mit-manuela-schwesig-ich-habe-die-aggressivitaet-von-putin-unterschaetzt](https://www.spiegel.de/politik/der-spiegel-im-gespraech-mit-manuela-schwesig-ich-habe-die-aggressivitaet-von-putin-unterschaetzt-a-8689f485-3554-4dff-bf83-3582a23d1616#ref=rss)
-### ich
+* [https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai](https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai-a-731a7ab3-b051-4bf3-beda-0ce3041581d5#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e](https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e-a-d19697d2-6bbf-4203-986c-5b5c3bc71903#ref=rss)
+### hells
 
-* [https://www.spiegel.de/politik/der-spiegel-im-gespraech-mit-manuela-schwesig-ich-habe-die-aggressivitaet-von-putin-unterschaetzt](https://www.spiegel.de/politik/der-spiegel-im-gespraech-mit-manuela-schwesig-ich-habe-die-aggressivitaet-von-putin-unterschaetzt-a-8689f485-3554-4dff-bf83-3582a23d1616#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/arved-fuchs-ueber-klimapolitik-ich-kann-den-zorn-der-jungen-leute-verstehen](https://www.spiegel.de/panorama/gesellschaft/arved-fuchs-ueber-klimapolitik-ich-kann-den-zorn-der-jungen-leute-verstehen-a-5731fe91-8a25-4554-ae6c-25d45d2a0886#ref=rss)
-### ritzen
+* [https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid](https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid-a-c7d0b060-0738-42d9-9826-1b8ca4e5578a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-ayguen-mucuk-gegen-schnitzel-walter-podcast-im-verhoer-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-ayguen-mucuk-gegen-schnitzel-walter-podcast-im-verhoer-spiegel-tv-a-00a38ef7-957c-454e-b7b5-aa927c845723#ref=rss)
+### regensburg
 
-* [https://www.spiegel.de/psychologie/ritzen-schneiden-verbrennen-verbruehen-warum-verletzen-sich-so-viele-jugendliche-selbst](https://www.spiegel.de/psychologie/ritzen-schneiden-verbrennen-verbruehen-warum-verletzen-sich-so-viele-jugendliche-selbst-a-f373bdbb-adc2-413c-8249-61bafcf4682c#ref=rss)
-### viele
+* [https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein](https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein-a-2bc3a7af-a91a-4dc2-9215-c197c5655c58#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/judensau-in-regensburg-nach-jahrelangem-streit-neue-infotafel-am-dom-enthuellt](https://www.spiegel.de/panorama/gesellschaft/judensau-in-regensburg-nach-jahrelangem-streit-neue-infotafel-am-dom-enthuellt-a-397dc3e5-cbc3-4702-96c1-024d8b6a2942#ref=rss)
+### angels
 
-* [https://www.spiegel.de/psychologie/ritzen-schneiden-verbrennen-verbruehen-warum-verletzen-sich-so-viele-jugendliche-selbst](https://www.spiegel.de/psychologie/ritzen-schneiden-verbrennen-verbruehen-warum-verletzen-sich-so-viele-jugendliche-selbst-a-f373bdbb-adc2-413c-8249-61bafcf4682c#ref=rss)
-### erklärt
+* [https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid](https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid-a-c7d0b060-0738-42d9-9826-1b8ca4e5578a#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-ayguen-mucuk-gegen-schnitzel-walter-podcast-im-verhoer-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-ayguen-mucuk-gegen-schnitzel-walter-podcast-im-verhoer-spiegel-tv-a-00a38ef7-957c-454e-b7b5-aa927c845723#ref=rss)
+### droht
 
-* [https://www.spiegel.de/psychologie/ritzen-schneiden-verbrennen-verbruehen-warum-verletzen-sich-so-viele-jugendliche-selbst](https://www.spiegel.de/psychologie/ritzen-schneiden-verbrennen-verbruehen-warum-verletzen-sich-so-viele-jugendliche-selbst-a-f373bdbb-adc2-413c-8249-61bafcf4682c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid](https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid-a-c7d0b060-0738-42d9-9826-1b8ca4e5578a#ref=rss)
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-warum-der-osten-des-landes-nicht-zur-ruhe-kommt](https://www.spiegel.de/ausland/demokratische-republik-kongo-warum-der-osten-des-landes-nicht-zur-ruhe-kommt-a-3b5b1040-6e9a-4d32-b2b2-9c83c07cf85e#ref=rss)
+* [https://www.spiegel.de/ausland/recep-tayyip-erdogan-droht-schweden-keine-unterstuetzung-in-der-nato-frage](https://www.spiegel.de/ausland/recep-tayyip-erdogan-droht-schweden-keine-unterstuetzung-in-der-nato-frage-a-547b0997-e23d-4087-a180-61b0c055354a#ref=rss)
+### osten
+
+* [https://www.spiegel.de/politik/deutschland/ostquote-streit-wer-ist-ostdeutsch-und-wenn-ja-wie-viele](https://www.spiegel.de/politik/deutschland/ostquote-streit-wer-ist-ostdeutsch-und-wenn-ja-wie-viele-a-20ea0b74-81ef-4abd-94d0-88553c02d7b7#ref=rss)
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-warum-der-osten-des-landes-nicht-zur-ruhe-kommt](https://www.spiegel.de/ausland/demokratische-republik-kongo-warum-der-osten-des-landes-nicht-zur-ruhe-kommt-a-3b5b1040-6e9a-4d32-b2b2-9c83c07cf85e#ref=rss)
+### macht
+
+* [https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-ayguen-mucuk-gegen-schnitzel-walter-podcast-im-verhoer-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-ayguen-mucuk-gegen-schnitzel-walter-podcast-im-verhoer-spiegel-tv-a-00a38ef7-957c-454e-b7b5-aa927c845723#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/margot-friedlaender-holocaustueberlebende-mit-bundesverdienstkreuz-1-klasse-ausgezeichnet](https://www.spiegel.de/panorama/gesellschaft/margot-friedlaender-holocaustueberlebende-mit-bundesverdienstkreuz-1-klasse-ausgezeichnet-a-86e7731e-80d9-48bf-8309-0d7c175eee73#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e](https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e-a-d19697d2-6bbf-4203-986c-5b5c3bc71903#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-warum-der-osten-des-landes-nicht-zur-ruhe-kommt](https://www.spiegel.de/ausland/demokratische-republik-kongo-warum-der-osten-des-landes-nicht-zur-ruhe-kommt-a-3b5b1040-6e9a-4d32-b2b2-9c83c07cf85e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung](https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung-a-1259bebf-2ba6-48e5-84e7-38ebcdfcfe4a#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-in-grundschulen-laender-haben-nicht-alle-foerdermittel-abgerufen](https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-in-grundschulen-laender-haben-nicht-alle-foerdermittel-abgerufen-a-c13d474c-bf5d-45e7-bab4-39da5bc90087#ref=rss)
+### karl
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-panzerlieferung-klimaprotest-karl-lauterbach](https://www.spiegel.de/politik/deutschland/news-des-tages-panzerlieferung-klimaprotest-karl-lauterbach-a-a00b1e7b-59b3-485b-869a-d4d69069ed5f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-spd-mutmassliche-terrorgruppe-wegen-geplanter-entfuehrung-angeklagt](https://www.spiegel.de/politik/deutschland/karl-lauterbach-spd-mutmassliche-terrorgruppe-wegen-geplanter-entfuehrung-angeklagt-a-19c4aa70-e182-448b-89ee-d52cdb995229#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-panzerlieferung-klimaprotest-karl-lauterbach](https://www.spiegel.de/politik/deutschland/news-des-tages-panzerlieferung-klimaprotest-karl-lauterbach-a-a00b1e7b-59b3-485b-869a-d4d69069ed5f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-spd-mutmassliche-terrorgruppe-wegen-geplanter-entfuehrung-angeklagt](https://www.spiegel.de/politik/deutschland/karl-lauterbach-spd-mutmassliche-terrorgruppe-wegen-geplanter-entfuehrung-angeklagt-a-19c4aa70-e182-448b-89ee-d52cdb995229#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-panzerlieferung-klimaprotest-karl-lauterbach](https://www.spiegel.de/politik/deutschland/news-des-tages-panzerlieferung-klimaprotest-karl-lauterbach-a-a00b1e7b-59b3-485b-869a-d4d69069ed5f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-leopard-kampfpanzer-so-sieht-es-der-kanzler](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-leopard-kampfpanzer-so-sieht-es-der-kanzler-a-9f641626-5e95-4e2b-8b78-2d19ed5982bb#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-panzerlieferung-klimaprotest-karl-lauterbach](https://www.spiegel.de/politik/deutschland/news-des-tages-panzerlieferung-klimaprotest-karl-lauterbach-a-a00b1e7b-59b3-485b-869a-d4d69069ed5f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-leopard-kampfpanzer-so-sieht-es-der-kanzler](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-leopard-kampfpanzer-so-sieht-es-der-kanzler-a-9f641626-5e95-4e2b-8b78-2d19ed5982bb#ref=rss)
+### flucht
+
+* [https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein](https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein-a-2bc3a7af-a91a-4dc2-9215-c197c5655c58#ref=rss)
+### mörders
+
+* [https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein](https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein-a-2bc3a7af-a91a-4dc2-9215-c197c5655c58#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein](https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein-a-2bc3a7af-a91a-4dc2-9215-c197c5655c58#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ebersdorf-bei-coburg-mann-ohne-fuehrerschein-gibt-sich-als-sein-zwillingsbruder-aus](https://www.spiegel.de/panorama/justiz/ebersdorf-bei-coburg-mann-ohne-fuehrerschein-gibt-sich-als-sein-zwillingsbruder-aus-a-3e7340f4-c907-425c-b4f3-e9f1b65e7130#ref=rss)
+### fall
+
+* [https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein](https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein-a-2bc3a7af-a91a-4dc2-9215-c197c5655c58#ref=rss)
+* [https://www.spiegel.de/ausland/beirut-libanon-richter-nimmt-ermittlungen-zur-explosionskatastrophe-wieder-auf-und-plant-anklagen](https://www.spiegel.de/ausland/beirut-libanon-richter-nimmt-ermittlungen-zur-explosionskatastrophe-wieder-auf-und-plant-anklagen-a-913d90bd-2b3f-4d99-94aa-8b25eb84acf7#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein](https://www.spiegel.de/panorama/justiz/regensburg-nach-flucht-eines-moerders-aus-einem-gericht-polizei-und-justiz-raeumen-fehler-ein-a-2bc3a7af-a91a-4dc2-9215-c197c5655c58#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ostquote-streit-wer-ist-ostdeutsch-und-wenn-ja-wie-viele](https://www.spiegel.de/politik/deutschland/ostquote-streit-wer-ist-ostdeutsch-und-wenn-ja-wie-viele-a-20ea0b74-81ef-4abd-94d0-88553c02d7b7#ref=rss)
+### streit
+
+* [https://www.spiegel.de/panorama/gesellschaft/judensau-in-regensburg-nach-jahrelangem-streit-neue-infotafel-am-dom-enthuellt](https://www.spiegel.de/panorama/gesellschaft/judensau-in-regensburg-nach-jahrelangem-streit-neue-infotafel-am-dom-enthuellt-a-397dc3e5-cbc3-4702-96c1-024d8b6a2942#ref=rss)
+### dom
+
+* [https://www.spiegel.de/panorama/gesellschaft/judensau-in-regensburg-nach-jahrelangem-streit-neue-infotafel-am-dom-enthuellt](https://www.spiegel.de/panorama/gesellschaft/judensau-in-regensburg-nach-jahrelangem-streit-neue-infotafel-am-dom-enthuellt-a-397dc3e5-cbc3-4702-96c1-024d8b6a2942#ref=rss)
+### enthüllt
+
+* [https://www.spiegel.de/panorama/gesellschaft/judensau-in-regensburg-nach-jahrelangem-streit-neue-infotafel-am-dom-enthuellt](https://www.spiegel.de/panorama/gesellschaft/judensau-in-regensburg-nach-jahrelangem-streit-neue-infotafel-am-dom-enthuellt-a-397dc3e5-cbc3-4702-96c1-024d8b6a2942#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/margot-friedlaender-holocaustueberlebende-mit-bundesverdienstkreuz-1-klasse-ausgezeichnet](https://www.spiegel.de/panorama/gesellschaft/margot-friedlaender-holocaustueberlebende-mit-bundesverdienstkreuz-1-klasse-ausgezeichnet-a-86e7731e-80d9-48bf-8309-0d7c175eee73#ref=rss)
+### wien
+
+* [https://www.spiegel.de/wirtschaft/wien-rene-benko-in-korruptionsprozess-freigesprochen](https://www.spiegel.de/wirtschaft/wien-rene-benko-in-korruptionsprozess-freigesprochen-a-3327c5f2-e51f-4059-a3a2-0521c7084708#ref=rss)
+### rené
+
+* [https://www.spiegel.de/wirtschaft/wien-rene-benko-in-korruptionsprozess-freigesprochen](https://www.spiegel.de/wirtschaft/wien-rene-benko-in-korruptionsprozess-freigesprochen-a-3327c5f2-e51f-4059-a3a2-0521c7084708#ref=rss)
+### benko
+
+* [https://www.spiegel.de/wirtschaft/wien-rene-benko-in-korruptionsprozess-freigesprochen](https://www.spiegel.de/wirtschaft/wien-rene-benko-in-korruptionsprozess-freigesprochen-a-3327c5f2-e51f-4059-a3a2-0521c7084708#ref=rss)
+### investiert
+
+* [https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai](https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai-a-731a7ab3-b051-4bf3-beda-0ce3041581d5#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e](https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e-a-d19697d2-6bbf-4203-986c-5b5c3bc71903#ref=rss)
+### unternehmen
+
+* [https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai](https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai-a-731a7ab3-b051-4bf3-beda-0ce3041581d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung](https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung-a-1259bebf-2ba6-48e5-84e7-38ebcdfcfe4a#ref=rss)
+### gilt
+
+* [https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai](https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai-a-731a7ab3-b051-4bf3-beda-0ce3041581d5#ref=rss)
+* [https://www.spiegel.de/wirtschaft/studie-oeko-landbau-spart-milliarden-an-folgekosten](https://www.spiegel.de/wirtschaft/studie-oeko-landbau-spart-milliarden-an-folgekosten-a-a36ceb98-c098-4fd0-b657-0c3f7c64d944#ref=rss)
+### künstlichen
+
+* [https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai](https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai-a-731a7ab3-b051-4bf3-beda-0ce3041581d5#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e](https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e-a-d19697d2-6bbf-4203-986c-5b5c3bc71903#ref=rss)
+### steckt
+
+* [https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai](https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai-a-731a7ab3-b051-4bf3-beda-0ce3041581d5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-leopard-kampfpanzer-so-sieht-es-der-kanzler](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-leopard-kampfpanzer-so-sieht-es-der-kanzler-a-9f641626-5e95-4e2b-8b78-2d19ed5982bb#ref=rss)
+### firma
+
+* [https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai](https://www.spiegel.de/netzwelt/web/chatgpt-und-dall-e-darum-investiert-microsoft-milliarden-in-openai-a-731a7ab3-b051-4bf3-beda-0ce3041581d5#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e](https://www.spiegel.de/netzwelt/web/microsoft-investiert-weitere-milliarden-in-openai-supercomputer-fuer-chatgpt-und-dall-e-a-d19697d2-6bbf-4203-986c-5b5c3bc71903#ref=rss)
+### usa
+
+* [https://www.spiegel.de/ausland/usa-ehemaliger-fbi-agent-soll-fuer-russischen-oligarchen-gearbeitet-haben](https://www.spiegel.de/ausland/usa-ehemaliger-fbi-agent-soll-fuer-russischen-oligarchen-gearbeitet-haben-a-02654ef7-f948-4eec-946e-46665bba15b7#ref=rss)
+* [https://www.spiegel.de/ausland/wagner-chef-jewgeni-prigoschin-beschwert-sich-ueber-us-sanktionen](https://www.spiegel.de/ausland/wagner-chef-jewgeni-prigoschin-beschwert-sich-ueber-us-sanktionen-a-39b1f42b-426d-44e5-9599-aae1f9d83630#ref=rss)
+### russischen
+
+* [https://www.spiegel.de/ausland/usa-ehemaliger-fbi-agent-soll-fuer-russischen-oligarchen-gearbeitet-haben](https://www.spiegel.de/ausland/usa-ehemaliger-fbi-agent-soll-fuer-russischen-oligarchen-gearbeitet-haben-a-02654ef7-f948-4eec-946e-46665bba15b7#ref=rss)
 * [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber-a-ac8bed41-a02f-440d-ba14-5cb45786ba73#ref=rss)
-### kündigt
+### gearbeitet
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber-a-ac8bed41-a02f-440d-ba14-5cb45786ba73#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/matthias-doepfner-kuendigt-weitere-sparmassnahmen-bei-bild-an](https://www.spiegel.de/wirtschaft/unternehmen/matthias-doepfner-kuendigt-weitere-sparmassnahmen-bei-bild-an-a-0e69f60c-b7a3-4b60-b4bf-7793e178072d#ref=rss)
-### biden
+* [https://www.spiegel.de/ausland/usa-ehemaliger-fbi-agent-soll-fuer-russischen-oligarchen-gearbeitet-haben](https://www.spiegel.de/ausland/usa-ehemaliger-fbi-agent-soll-fuer-russischen-oligarchen-gearbeitet-haben-a-02654ef7-f948-4eec-946e-46665bba15b7#ref=rss)
+### ussanktionen
 
-* [https://www.spiegel.de/ausland/joe-biden-hochrangige-demokraten-kritisieren-us-praesidenten-wegen-aktenaffaere](https://www.spiegel.de/ausland/joe-biden-hochrangige-demokraten-kritisieren-us-praesidenten-wegen-aktenaffaere-a-8ffa2cf5-f7e1-4f3e-bf16-c138bea077cf#ref=rss)
+* [https://www.spiegel.de/ausland/usa-ehemaliger-fbi-agent-soll-fuer-russischen-oligarchen-gearbeitet-haben](https://www.spiegel.de/ausland/usa-ehemaliger-fbi-agent-soll-fuer-russischen-oligarchen-gearbeitet-haben-a-02654ef7-f948-4eec-946e-46665bba15b7#ref=rss)
+* [https://www.spiegel.de/ausland/wagner-chef-jewgeni-prigoschin-beschwert-sich-ueber-us-sanktionen](https://www.spiegel.de/ausland/wagner-chef-jewgeni-prigoschin-beschwert-sich-ueber-us-sanktionen-a-39b1f42b-426d-44e5-9599-aae1f9d83630#ref=rss)
+### dennoch
+
+* [https://www.spiegel.de/ausland/usa-ehemaliger-fbi-agent-soll-fuer-russischen-oligarchen-gearbeitet-haben](https://www.spiegel.de/ausland/usa-ehemaliger-fbi-agent-soll-fuer-russischen-oligarchen-gearbeitet-haben-a-02654ef7-f948-4eec-946e-46665bba15b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ford-ig-metall-fuerchtet-massiven-job-abbau](https://www.spiegel.de/wirtschaft/unternehmen/ford-ig-metall-fuerchtet-massiven-job-abbau-a-9d4b936f-7866-4dad-9762-0a4dd46d57e8#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/ausland/usa-ehemaliger-fbi-agent-soll-fuer-russischen-oligarchen-gearbeitet-haben](https://www.spiegel.de/ausland/usa-ehemaliger-fbi-agent-soll-fuer-russischen-oligarchen-gearbeitet-haben-a-02654ef7-f948-4eec-946e-46665bba15b7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung](https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung-a-1259bebf-2ba6-48e5-84e7-38ebcdfcfe4a#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wirtschaft/studie-oeko-landbau-spart-milliarden-an-folgekosten](https://www.spiegel.de/wirtschaft/studie-oeko-landbau-spart-milliarden-an-folgekosten-a-a36ceb98-c098-4fd0-b657-0c3f7c64d944#ref=rss)
+### ökolandbau
+
+* [https://www.spiegel.de/wirtschaft/studie-oeko-landbau-spart-milliarden-an-folgekosten](https://www.spiegel.de/wirtschaft/studie-oeko-landbau-spart-milliarden-an-folgekosten-a-a36ceb98-c098-4fd0-b657-0c3f7c64d944#ref=rss)
 ### geld
 
-* [https://www.spiegel.de/wirtschaft/service/handwerk-stimmt-kunden-auf-hoehere-preise-ein](https://www.spiegel.de/wirtschaft/service/handwerk-stimmt-kunden-auf-hoehere-preise-ein-a-7d937071-f116-4043-8360-dc2261d95bc5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten-a-cf47cf2a-419e-45a2-af74-852cdc2ce2c8#ref=rss)
-### pakistan
+* [https://www.spiegel.de/wirtschaft/studie-oeko-landbau-spart-milliarden-an-folgekosten](https://www.spiegel.de/wirtschaft/studie-oeko-landbau-spart-milliarden-an-folgekosten-a-a36ceb98-c098-4fd0-b657-0c3f7c64d944#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung](https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung-a-1259bebf-2ba6-48e5-84e7-38ebcdfcfe4a#ref=rss)
+### frank
 
-* [https://www.spiegel.de/panorama/pakistan-ohne-strom-landesweiter-ausfall](https://www.spiegel.de/panorama/pakistan-ohne-strom-landesweiter-ausfall-a-498f70a1-1230-4934-9515-9314e9b0c7da#ref=rss)
-### betroffen
+* [https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid](https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid-a-c7d0b060-0738-42d9-9826-1b8ca4e5578a#ref=rss)
+### hanebuth
 
-* [https://www.spiegel.de/panorama/pakistan-ohne-strom-landesweiter-ausfall](https://www.spiegel.de/panorama/pakistan-ohne-strom-landesweiter-ausfall-a-498f70a1-1230-4934-9515-9314e9b0c7da#ref=rss)
-### dennis
+* [https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid](https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid-a-c7d0b060-0738-42d9-9826-1b8ca4e5578a#ref=rss)
+### mallorca
 
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand-a-eb63517d-f3de-4d7a-be0d-93e58784b941#ref=rss)
-### schröder
+* [https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid](https://www.spiegel.de/panorama/justiz/frank-hanebuth-hells-angels-der-koenig-von-mallorca-vor-gericht-in-madrid-a-c7d0b060-0738-42d9-9826-1b8ca4e5578a#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand-a-eb63517d-f3de-4d7a-be0d-93e58784b941#ref=rss)
-### los
+* [https://www.spiegel.de/politik/deutschland/ostquote-streit-wer-ist-ostdeutsch-und-wenn-ja-wie-viele](https://www.spiegel.de/politik/deutschland/ostquote-streit-wer-ist-ostdeutsch-und-wenn-ja-wie-viele-a-20ea0b74-81ef-4abd-94d0-88553c02d7b7#ref=rss)
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst](https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst-a-5522fcf3-4f67-443e-a60a-2472a17ba778#ref=rss)
+### aygün
 
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand-a-eb63517d-f3de-4d7a-be0d-93e58784b941#ref=rss)
-### angeles
+* [https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-ayguen-mucuk-gegen-schnitzel-walter-podcast-im-verhoer-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-ayguen-mucuk-gegen-schnitzel-walter-podcast-im-verhoer-spiegel-tv-a-00a38ef7-957c-454e-b7b5-aa927c845723#ref=rss)
+### mucuk
 
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand-a-eb63517d-f3de-4d7a-be0d-93e58784b941#ref=rss)
-### lakers
+* [https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-ayguen-mucuk-gegen-schnitzel-walter-podcast-im-verhoer-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/inside-hells-angels-ayguen-mucuk-gegen-schnitzel-walter-podcast-im-verhoer-spiegel-tv-a-00a38ef7-957c-454e-b7b5-aa927c845723#ref=rss)
+### republik
 
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand-a-eb63517d-f3de-4d7a-be0d-93e58784b941#ref=rss)
-### punkten
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-warum-der-osten-des-landes-nicht-zur-ruhe-kommt](https://www.spiegel.de/ausland/demokratische-republik-kongo-warum-der-osten-des-landes-nicht-zur-ruhe-kommt-a-3b5b1040-6e9a-4d32-b2b2-9c83c07cf85e#ref=rss)
+### kongo
 
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand-a-eb63517d-f3de-4d7a-be0d-93e58784b941#ref=rss)
-### zweiten
+* [https://www.spiegel.de/ausland/demokratische-republik-kongo-warum-der-osten-des-landes-nicht-zur-ruhe-kommt](https://www.spiegel.de/ausland/demokratische-republik-kongo-warum-der-osten-des-landes-nicht-zur-ruhe-kommt-a-3b5b1040-6e9a-4d32-b2b2-9c83c07cf85e#ref=rss)
+### schweden
 
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand-a-eb63517d-f3de-4d7a-be0d-93e58784b941#ref=rss)
-* [https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe](https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe-a-914d4b8b-c98c-4af6-b382-83a7d29ce231#ref=rss)
-### großen
+* [https://www.spiegel.de/ausland/recep-tayyip-erdogan-droht-schweden-keine-unterstuetzung-in-der-nato-frage](https://www.spiegel.de/ausland/recep-tayyip-erdogan-droht-schweden-keine-unterstuetzung-in-der-nato-frage-a-547b0997-e23d-4087-a180-61b0c055354a#ref=rss)
+### natofrage
 
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand-a-eb63517d-f3de-4d7a-be0d-93e58784b941#ref=rss)
-* [https://www.spiegel.de/auto/volker-wissing-fdp-nun-hat-der-verkehrsminister-auch-noch-ein-oekosprit-problem](https://www.spiegel.de/auto/volker-wissing-fdp-nun-hat-der-verkehrsminister-auch-noch-ein-oekosprit-problem-a-e62de119-1361-4cb0-81bd-700f00087e58#ref=rss)
-### team
+* [https://www.spiegel.de/ausland/recep-tayyip-erdogan-droht-schweden-keine-unterstuetzung-in-der-nato-frage](https://www.spiegel.de/ausland/recep-tayyip-erdogan-droht-schweden-keine-unterstuetzung-in-der-nato-frage-a-547b0997-e23d-4087-a180-61b0c055354a#ref=rss)
+### gründen
 
-* [https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand](https://www.spiegel.de/sport/basketball/nba-dennis-schroeder-und-los-angeles-lakers-drehen-25-punkte-rueckstand-a-eb63517d-f3de-4d7a-be0d-93e58784b941#ref=rss)
-* [https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe](https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe-a-914d4b8b-c98c-4af6-b382-83a7d29ce231#ref=rss)
-### dienst
+* [https://www.spiegel.de/ausland/recep-tayyip-erdogan-droht-schweden-keine-unterstuetzung-in-der-nato-frage](https://www.spiegel.de/ausland/recep-tayyip-erdogan-droht-schweden-keine-unterstuetzung-in-der-nato-frage-a-547b0997-e23d-4087-a180-61b0c055354a#ref=rss)
+* [https://www.spiegel.de/ausland/beirut-libanon-richter-nimmt-ermittlungen-zur-explosionskatastrophe-wieder-auf-und-plant-anklagen](https://www.spiegel.de/ausland/beirut-libanon-richter-nimmt-ermittlungen-zur-explosionskatastrophe-wieder-auf-und-plant-anklagen-a-913d90bd-2b3f-4d99-94aa-8b25eb84acf7#ref=rss)
+### maximilian
 
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten-a-cf47cf2a-419e-45a2-af74-852cdc2ce2c8#ref=rss)
-### tarifrunde
+* [https://www.spiegel.de/panorama/justiz/shiny-flakes-kinderzimmer-dealer-maximilian-s-wieder-vor-gericht](https://www.spiegel.de/panorama/justiz/shiny-flakes-kinderzimmer-dealer-maximilian-s-wieder-vor-gericht-a-0b22700b-aaa7-4ac8-91af-ffb51cc8d64b#ref=rss)
+### s
 
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten-a-cf47cf2a-419e-45a2-af74-852cdc2ce2c8#ref=rss)
-### harte
+* [https://www.spiegel.de/panorama/justiz/shiny-flakes-kinderzimmer-dealer-maximilian-s-wieder-vor-gericht](https://www.spiegel.de/panorama/justiz/shiny-flakes-kinderzimmer-dealer-maximilian-s-wieder-vor-gericht-a-0b22700b-aaa7-4ac8-91af-ffb51cc8d64b#ref=rss)
+### wetterdienst
 
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten-a-cf47cf2a-419e-45a2-af74-852cdc2ce2c8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/matthias-doepfner-kuendigt-weitere-sparmassnahmen-bei-bild-an](https://www.spiegel.de/wirtschaft/unternehmen/matthias-doepfner-kuendigt-weitere-sparmassnahmen-bei-bild-an-a-0e69f60c-b7a3-4b60-b4bf-7793e178072d#ref=rss)
-### fordern
+* [https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-wir-erleben-hitzeperioden-die-wir-eigentlich-erst-in-ein-paar-jahrzehnten-erwartet-haetten](https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-wir-erleben-hitzeperioden-die-wir-eigentlich-erst-in-ein-paar-jahrzehnten-erwartet-haetten-a-cdb5e695-3418-4fc4-ba36-475d8a94ac7b#ref=rss)
+### wir
 
-* [https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten](https://www.spiegel.de/wirtschaft/oeffentlicher-dienst-vor-tarifrunde-das-koennen-wir-so-nicht-leisten-a-cf47cf2a-419e-45a2-af74-852cdc2ce2c8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/coronavirus-aerztevertreter-draengen-auf-ende-der-maskenpflicht-in-praxen](https://www.spiegel.de/politik/deutschland/coronavirus-aerztevertreter-draengen-auf-ende-der-maskenpflicht-in-praxen-a-f137bd13-e30b-40c0-a13e-782af25db54c#ref=rss)
-### arved
+* [https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-wir-erleben-hitzeperioden-die-wir-eigentlich-erst-in-ein-paar-jahrzehnten-erwartet-haetten](https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-wir-erleben-hitzeperioden-die-wir-eigentlich-erst-in-ein-paar-jahrzehnten-erwartet-haetten-a-cdb5e695-3418-4fc4-ba36-475d8a94ac7b#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser](https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser-a-d4d0d3d8-98ad-4003-9dee-6f097ba287e3#ref=rss)
+### eigentlich
 
-* [https://www.spiegel.de/panorama/gesellschaft/arved-fuchs-ueber-klimapolitik-ich-kann-den-zorn-der-jungen-leute-verstehen](https://www.spiegel.de/panorama/gesellschaft/arved-fuchs-ueber-klimapolitik-ich-kann-den-zorn-der-jungen-leute-verstehen-a-5731fe91-8a25-4554-ae6c-25d45d2a0886#ref=rss)
-### fuchs
+* [https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-wir-erleben-hitzeperioden-die-wir-eigentlich-erst-in-ein-paar-jahrzehnten-erwartet-haetten](https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-wir-erleben-hitzeperioden-die-wir-eigentlich-erst-in-ein-paar-jahrzehnten-erwartet-haetten-a-cdb5e695-3418-4fc4-ba36-475d8a94ac7b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ford-ig-metall-fuerchtet-massiven-job-abbau](https://www.spiegel.de/wirtschaft/unternehmen/ford-ig-metall-fuerchtet-massiven-job-abbau-a-9d4b936f-7866-4dad-9762-0a4dd46d57e8#ref=rss)
+### jahrzehnten
 
-* [https://www.spiegel.de/panorama/gesellschaft/arved-fuchs-ueber-klimapolitik-ich-kann-den-zorn-der-jungen-leute-verstehen](https://www.spiegel.de/panorama/gesellschaft/arved-fuchs-ueber-klimapolitik-ich-kann-den-zorn-der-jungen-leute-verstehen-a-5731fe91-8a25-4554-ae6c-25d45d2a0886#ref=rss)
-### klimapolitik
+* [https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-wir-erleben-hitzeperioden-die-wir-eigentlich-erst-in-ein-paar-jahrzehnten-erwartet-haetten](https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-wir-erleben-hitzeperioden-die-wir-eigentlich-erst-in-ein-paar-jahrzehnten-erwartet-haetten-a-cdb5e695-3418-4fc4-ba36-475d8a94ac7b#ref=rss)
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst](https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst-a-5522fcf3-4f67-443e-a60a-2472a17ba778#ref=rss)
+### nimmt
 
-* [https://www.spiegel.de/panorama/gesellschaft/arved-fuchs-ueber-klimapolitik-ich-kann-den-zorn-der-jungen-leute-verstehen](https://www.spiegel.de/panorama/gesellschaft/arved-fuchs-ueber-klimapolitik-ich-kann-den-zorn-der-jungen-leute-verstehen-a-5731fe91-8a25-4554-ae6c-25d45d2a0886#ref=rss)
-### damar
+* [https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-wir-erleben-hitzeperioden-die-wir-eigentlich-erst-in-ein-paar-jahrzehnten-erwartet-haetten](https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-wir-erleben-hitzeperioden-die-wir-eigentlich-erst-in-ein-paar-jahrzehnten-erwartet-haetten-a-cdb5e695-3418-4fc4-ba36-475d8a94ac7b#ref=rss)
+* [https://www.spiegel.de/ausland/beirut-libanon-richter-nimmt-ermittlungen-zur-explosionskatastrophe-wieder-auf-und-plant-anklagen](https://www.spiegel.de/ausland/beirut-libanon-richter-nimmt-ermittlungen-zur-explosionskatastrophe-wieder-auf-und-plant-anklagen-a-913d90bd-2b3f-4d99-94aa-8b25eb84acf7#ref=rss)
+### besser
 
-* [https://www.spiegel.de/sport/american-football/nfl-american-football-profi-damar-hamlin-nach-herzstillstand-zurueck-im-stadion-der-buffalo-bills](https://www.spiegel.de/sport/american-football/nfl-american-football-profi-damar-hamlin-nach-herzstillstand-zurueck-im-stadion-der-buffalo-bills-a-bb01b1df-8a56-49c5-b873-382ce9b111c2#ref=rss)
-### hamlin
+* [https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-wir-erleben-hitzeperioden-die-wir-eigentlich-erst-in-ein-paar-jahrzehnten-erwartet-haetten](https://www.spiegel.de/wissenschaft/natur/deutscher-wetterdienst-wir-erleben-hitzeperioden-die-wir-eigentlich-erst-in-ein-paar-jahrzehnten-erwartet-haetten-a-cdb5e695-3418-4fc4-ba36-475d8a94ac7b#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser](https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser-a-d4d0d3d8-98ad-4003-9dee-6f097ba287e3#ref=rss)
+### news
 
-* [https://www.spiegel.de/sport/american-football/nfl-american-football-profi-damar-hamlin-nach-herzstillstand-zurueck-im-stadion-der-buffalo-bills](https://www.spiegel.de/sport/american-football/nfl-american-football-profi-damar-hamlin-nach-herzstillstand-zurueck-im-stadion-der-buffalo-bills-a-bb01b1df-8a56-49c5-b873-382ce9b111c2#ref=rss)
-### herzstillstand
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-panzerlieferung-klimaprotest-karl-lauterbach](https://www.spiegel.de/politik/deutschland/news-des-tages-panzerlieferung-klimaprotest-karl-lauterbach-a-a00b1e7b-59b3-485b-869a-d4d69069ed5f#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber-a-ac8bed41-a02f-440d-ba14-5cb45786ba73#ref=rss)
+### angeblich
 
-* [https://www.spiegel.de/sport/american-football/nfl-american-football-profi-damar-hamlin-nach-herzstillstand-zurueck-im-stadion-der-buffalo-bills](https://www.spiegel.de/sport/american-football/nfl-american-football-profi-damar-hamlin-nach-herzstillstand-zurueck-im-stadion-der-buffalo-bills-a-bb01b1df-8a56-49c5-b873-382ce9b111c2#ref=rss)
-### buffalo
+* [https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber](https://www.spiegel.de/ausland/ukraine-news-am-montag-london-sieht-bei-russischen-militaers-skepsis-gegen-neuen-oberbefehlshaber-a-ac8bed41-a02f-440d-ba14-5cb45786ba73#ref=rss)
+* [https://www.spiegel.de/ausland/wagner-chef-jewgeni-prigoschin-beschwert-sich-ueber-us-sanktionen](https://www.spiegel.de/ausland/wagner-chef-jewgeni-prigoschin-beschwert-sich-ueber-us-sanktionen-a-39b1f42b-426d-44e5-9599-aae1f9d83630#ref=rss)
+### madonna
 
-* [https://www.spiegel.de/sport/american-football/nfl-american-football-profi-damar-hamlin-nach-herzstillstand-zurueck-im-stadion-der-buffalo-bills](https://www.spiegel.de/sport/american-football/nfl-american-football-profi-damar-hamlin-nach-herzstillstand-zurueck-im-stadion-der-buffalo-bills-a-bb01b1df-8a56-49c5-b873-382ce9b111c2#ref=rss)
-### bills
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst](https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst-a-5522fcf3-4f67-443e-a60a-2472a17ba778#ref=rss)
+### kündigt
 
-* [https://www.spiegel.de/sport/american-football/nfl-american-football-profi-damar-hamlin-nach-herzstillstand-zurueck-im-stadion-der-buffalo-bills](https://www.spiegel.de/sport/american-football/nfl-american-football-profi-damar-hamlin-nach-herzstillstand-zurueck-im-stadion-der-buffalo-bills-a-bb01b1df-8a56-49c5-b873-382ce9b111c2#ref=rss)
-### ocean
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst](https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst-a-5522fcf3-4f67-443e-a60a-2472a17ba778#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe](https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe-a-914d4b8b-c98c-4af6-b382-83a7d29ce231#ref=rss)
-### race
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst](https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst-a-5522fcf3-4f67-443e-a60a-2472a17ba778#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung](https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung-a-1259bebf-2ba6-48e5-84e7-38ebcdfcfe4a#ref=rss)
+### köln
 
-* [https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe](https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe-a-914d4b8b-c98c-4af6-b382-83a7d29ce231#ref=rss)
-### segler
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst](https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst-a-5522fcf3-4f67-443e-a60a-2472a17ba778#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ford-ig-metall-fuerchtet-massiven-job-abbau](https://www.spiegel.de/wirtschaft/unternehmen/ford-ig-metall-fuerchtet-massiven-job-abbau-a-9d4b936f-7866-4dad-9762-0a4dd46d57e8#ref=rss)
+### celebrationtour
 
-* [https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe](https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe-a-914d4b8b-c98c-4af6-b382-83a7d29ce231#ref=rss)
-### boris
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst](https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst-a-5522fcf3-4f67-443e-a60a-2472a17ba778#ref=rss)
+### vier
 
-* [https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe](https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe-a-914d4b8b-c98c-4af6-b382-83a7d29ce231#ref=rss)
-### herrmann
+* [https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst](https://www.spiegel.de/kultur/musik/madonna-kuendigt-zusatzkonzerte-in-berlin-und-koeln-an-celebration-tour-im-herbst-a-5522fcf3-4f67-443e-a60a-2472a17ba778#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-spd-mutmassliche-terrorgruppe-wegen-geplanter-entfuehrung-angeklagt](https://www.spiegel.de/politik/deutschland/karl-lauterbach-spd-mutmassliche-terrorgruppe-wegen-geplanter-entfuehrung-angeklagt-a-19c4aa70-e182-448b-89ee-d52cdb995229#ref=rss)
+### margot
 
-* [https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe](https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe-a-914d4b8b-c98c-4af6-b382-83a7d29ce231#ref=rss)
-### etappe
+* [https://www.spiegel.de/panorama/gesellschaft/margot-friedlaender-holocaustueberlebende-mit-bundesverdienstkreuz-1-klasse-ausgezeichnet](https://www.spiegel.de/panorama/gesellschaft/margot-friedlaender-holocaustueberlebende-mit-bundesverdienstkreuz-1-klasse-ausgezeichnet-a-86e7731e-80d9-48bf-8309-0d7c175eee73#ref=rss)
+### friedländer
 
-* [https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe](https://www.spiegel.de/sport/kochendes-wasser-uebergekippt-segler-herrmann-verpasst-zweite-etappe-a-914d4b8b-c98c-4af6-b382-83a7d29ce231#ref=rss)
-### döpfner
+* [https://www.spiegel.de/panorama/gesellschaft/margot-friedlaender-holocaustueberlebende-mit-bundesverdienstkreuz-1-klasse-ausgezeichnet](https://www.spiegel.de/panorama/gesellschaft/margot-friedlaender-holocaustueberlebende-mit-bundesverdienstkreuz-1-klasse-ausgezeichnet-a-86e7731e-80d9-48bf-8309-0d7c175eee73#ref=rss)
+### holocaustüberlebende
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/matthias-doepfner-kuendigt-weitere-sparmassnahmen-bei-bild-an](https://www.spiegel.de/wirtschaft/unternehmen/matthias-doepfner-kuendigt-weitere-sparmassnahmen-bei-bild-an-a-0e69f60c-b7a3-4b60-b4bf-7793e178072d#ref=rss)
-### praxen
+* [https://www.spiegel.de/panorama/gesellschaft/margot-friedlaender-holocaustueberlebende-mit-bundesverdienstkreuz-1-klasse-ausgezeichnet](https://www.spiegel.de/panorama/gesellschaft/margot-friedlaender-holocaustueberlebende-mit-bundesverdienstkreuz-1-klasse-ausgezeichnet-a-86e7731e-80d9-48bf-8309-0d7c175eee73#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/politik/deutschland/coronavirus-aerztevertreter-draengen-auf-ende-der-maskenpflicht-in-praxen](https://www.spiegel.de/politik/deutschland/coronavirus-aerztevertreter-draengen-auf-ende-der-maskenpflicht-in-praxen-a-f137bd13-e30b-40c0-a13e-782af25db54c#ref=rss)
-### weniger
+* [https://www.spiegel.de/panorama/gesellschaft/margot-friedlaender-holocaustueberlebende-mit-bundesverdienstkreuz-1-klasse-ausgezeichnet](https://www.spiegel.de/panorama/gesellschaft/margot-friedlaender-holocaustueberlebende-mit-bundesverdienstkreuz-1-klasse-ausgezeichnet-a-86e7731e-80d9-48bf-8309-0d7c175eee73#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser](https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser-a-d4d0d3d8-98ad-4003-9dee-6f097ba287e3#ref=rss)
+### sieht
 
-* [https://www.spiegel.de/politik/deutschland/coronavirus-aerztevertreter-draengen-auf-ende-der-maskenpflicht-in-praxen](https://www.spiegel.de/politik/deutschland/coronavirus-aerztevertreter-draengen-auf-ende-der-maskenpflicht-in-praxen-a-f137bd13-e30b-40c0-a13e-782af25db54c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar](https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar-a-f8ba0d08-468c-4add-849c-e30f5df8e11f#ref=rss)
-### geywitz
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-leopard-kampfpanzer-so-sieht-es-der-kanzler](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-leopard-kampfpanzer-so-sieht-es-der-kanzler-a-9f641626-5e95-4e2b-8b78-2d19ed5982bb#ref=rss)
+* [https://www.spiegel.de/ausland/wagner-chef-jewgeni-prigoschin-beschwert-sich-ueber-us-sanktionen](https://www.spiegel.de/ausland/wagner-chef-jewgeni-prigoschin-beschwert-sich-ueber-us-sanktionen-a-39b1f42b-426d-44e5-9599-aae1f9d83630#ref=rss)
+### täglich
 
-* [https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar](https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar-a-f8ba0d08-468c-4add-849c-e30f5df8e11f#ref=rss)
-### ziel
+* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-leopard-kampfpanzer-so-sieht-es-der-kanzler](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-die-leopard-kampfpanzer-so-sieht-es-der-kanzler-a-9f641626-5e95-4e2b-8b78-2d19ed5982bb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/alkohol-empfehlungen-in-kanada-kein-tropfen-ist-gesund](https://www.spiegel.de/wissenschaft/medizin/alkohol-empfehlungen-in-kanada-kein-tropfen-ist-gesund-a-de38a1ff-27fb-467e-9b59-ee2d525b615e#ref=rss)
+### kanada
 
-* [https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar](https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar-a-f8ba0d08-468c-4add-849c-e30f5df8e11f#ref=rss)
-### wohnungen
+* [https://www.spiegel.de/wissenschaft/medizin/alkohol-empfehlungen-in-kanada-kein-tropfen-ist-gesund](https://www.spiegel.de/wissenschaft/medizin/alkohol-empfehlungen-in-kanada-kein-tropfen-ist-gesund-a-de38a1ff-27fb-467e-9b59-ee2d525b615e#ref=rss)
+### miliz
 
-* [https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar](https://www.spiegel.de/wirtschaft/klara-geywitz-haelt-ziel-von-400-000-wohnungen-fruehestens-2024-fuer-erreichbar-a-f8ba0d08-468c-4add-849c-e30f5df8e11f#ref=rss)
-### volker
+* [https://www.spiegel.de/ausland/grossbritannien-sanktioniert-iranische-miliz](https://www.spiegel.de/ausland/grossbritannien-sanktioniert-iranische-miliz-a-98abd26c-de04-4545-8ae6-c7a61e8d8cb6#ref=rss)
+### ermittlungen
 
-* [https://www.spiegel.de/auto/volker-wissing-fdp-nun-hat-der-verkehrsminister-auch-noch-ein-oekosprit-problem](https://www.spiegel.de/auto/volker-wissing-fdp-nun-hat-der-verkehrsminister-auch-noch-ein-oekosprit-problem-a-e62de119-1361-4cb0-81bd-700f00087e58#ref=rss)
-### wissing
+* [https://www.spiegel.de/ausland/beirut-libanon-richter-nimmt-ermittlungen-zur-explosionskatastrophe-wieder-auf-und-plant-anklagen](https://www.spiegel.de/ausland/beirut-libanon-richter-nimmt-ermittlungen-zur-explosionskatastrophe-wieder-auf-und-plant-anklagen-a-913d90bd-2b3f-4d99-94aa-8b25eb84acf7#ref=rss)
+### lebensmittel
 
-* [https://www.spiegel.de/auto/volker-wissing-fdp-nun-hat-der-verkehrsminister-auch-noch-ein-oekosprit-problem](https://www.spiegel.de/auto/volker-wissing-fdp-nun-hat-der-verkehrsminister-auch-noch-ein-oekosprit-problem-a-e62de119-1361-4cb0-81bd-700f00087e58#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung](https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung-a-1259bebf-2ba6-48e5-84e7-38ebcdfcfe4a#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung](https://www.spiegel.de/wirtschaft/service/lebensmittel-retten-mit-ki-und-lastenrad-gegen-verschwendung-a-1259bebf-2ba6-48e5-84e7-38ebcdfcfe4a#ref=rss)
+### fürchtet
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ford-ig-metall-fuerchtet-massiven-job-abbau](https://www.spiegel.de/wirtschaft/unternehmen/ford-ig-metall-fuerchtet-massiven-job-abbau-a-9d4b936f-7866-4dad-9762-0a4dd46d57e8#ref=rss)
+### ganztagsbetreuung
+
+* [https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-in-grundschulen-laender-haben-nicht-alle-foerdermittel-abgerufen](https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-in-grundschulen-laender-haben-nicht-alle-foerdermittel-abgerufen-a-c13d474c-bf5d-45e7-bab4-39da5bc90087#ref=rss)
+### grundschulen
+
+* [https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-in-grundschulen-laender-haben-nicht-alle-foerdermittel-abgerufen](https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-in-grundschulen-laender-haben-nicht-alle-foerdermittel-abgerufen-a-c13d474c-bf5d-45e7-bab4-39da5bc90087#ref=rss)
+### länder
+
+* [https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-in-grundschulen-laender-haben-nicht-alle-foerdermittel-abgerufen](https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-in-grundschulen-laender-haben-nicht-alle-foerdermittel-abgerufen-a-c13d474c-bf5d-45e7-bab4-39da5bc90087#ref=rss)
+### alle
+
+* [https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-in-grundschulen-laender-haben-nicht-alle-foerdermittel-abgerufen](https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-in-grundschulen-laender-haben-nicht-alle-foerdermittel-abgerufen-a-c13d474c-bf5d-45e7-bab4-39da5bc90087#ref=rss)
+### abgerufen
+
+* [https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-in-grundschulen-laender-haben-nicht-alle-foerdermittel-abgerufen](https://www.spiegel.de/panorama/bildung/ganztagsbetreuung-in-grundschulen-laender-haben-nicht-alle-foerdermittel-abgerufen-a-c13d474c-bf5d-45e7-bab4-39da5bc90087#ref=rss)
+### jewgeni
+
+* [https://www.spiegel.de/ausland/wagner-chef-jewgeni-prigoschin-beschwert-sich-ueber-us-sanktionen](https://www.spiegel.de/ausland/wagner-chef-jewgeni-prigoschin-beschwert-sich-ueber-us-sanktionen-a-39b1f42b-426d-44e5-9599-aae1f9d83630#ref=rss)
+### prigoschin
+
+* [https://www.spiegel.de/ausland/wagner-chef-jewgeni-prigoschin-beschwert-sich-ueber-us-sanktionen](https://www.spiegel.de/ausland/wagner-chef-jewgeni-prigoschin-beschwert-sich-ueber-us-sanktionen-a-39b1f42b-426d-44e5-9599-aae1f9d83630#ref=rss)
+### apple
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser](https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser-a-d4d0d3d8-98ad-4003-9dee-6f097ba287e3#ref=rss)
+### mac
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser](https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser-a-d4d0d3d8-98ad-4003-9dee-6f097ba287e3#ref=rss)
+### mini
+
+* [https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser](https://www.spiegel.de/netzwelt/gadgets/apple-mac-mini-m2-pro-im-test-billiger-ist-besser-a-d4d0d3d8-98ad-4003-9dee-6f097ba287e3#ref=rss)
+### entführung
+
+* [https://www.spiegel.de/politik/deutschland/karl-lauterbach-spd-mutmassliche-terrorgruppe-wegen-geplanter-entfuehrung-angeklagt](https://www.spiegel.de/politik/deutschland/karl-lauterbach-spd-mutmassliche-terrorgruppe-wegen-geplanter-entfuehrung-angeklagt-a-19c4aa70-e182-448b-89ee-d52cdb995229#ref=rss)
+### metsola
+
+* [https://www.spiegel.de/politik/roberta-metsola-das-geschenke-problem-der-eu-parlamentspraesidentin](https://www.spiegel.de/politik/roberta-metsola-das-geschenke-problem-der-eu-parlamentspraesidentin-a-fdce9cc1-9ae0-49ff-9c1d-414449770bc2#ref=rss)
 
