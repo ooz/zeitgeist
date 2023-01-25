@@ -4,258 +4,317 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/pflegeheimbetreiber-convivo-beantragt-insolvenz](https://www.spiegel.de/wirtschaft/unternehmen/pflegeheimbetreiber-convivo-beantragt-insolvenz-a-94a8f176-b38f-4b91-ab99-57be7a9a0c4a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-medikamentenmangel-insektennahrung](https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-medikamentenmangel-insektennahrung-a-367fcc97-00d0-42fb-8db5-469011b3cd6b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/leopard-2-diskussion-ueber-panzerlieferungen-die-mutter-aller-panzerkanonen](https://www.spiegel.de/wissenschaft/technik/leopard-2-diskussion-ueber-panzerlieferungen-die-mutter-aller-panzerkanonen-a-ce0d4d3c-69bf-4029-aed5-a627cc54f28c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/luetzerath-proteste-mehr-als-400-strafanzeigen-gegen-aktivisten](https://www.spiegel.de/panorama/justiz/luetzerath-proteste-mehr-als-400-strafanzeigen-gegen-aktivisten-a-55b5d5b5-56da-49ef-a2b1-dcfced075d20#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/kultur/tv/doku-meisterwerk-berlin-1933-diktatur-und-alltag](https://www.spiegel.de/kultur/tv/doku-meisterwerk-berlin-1933-diktatur-und-alltag-a-c19fd7f2-0be8-41ca-9516-e83c5bb00d80#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung](https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung-a-d028f858-9dc2-465e-89ea-0ab93186ef5d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros-a-8eec7685-27e8-4087-ae91-4395674c6175#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/ausland/nato-beitritt-finnlands-und-schwedens-tuerkei-sagt-trilaterales-treffen-ab](https://www.spiegel.de/ausland/nato-beitritt-finnlands-und-schwedens-tuerkei-sagt-trilaterales-treffen-ab-a-6c643bf0-56f9-4719-89ba-49301fbcbe90#ref=rss)
-* [https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein](https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein-a-a9986582-7b65-4473-9d3d-cdbbebea9066#ref=rss)
-### laut
-
-* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros-a-8eec7685-27e8-4087-ae91-4395674c6175#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/luetzerath-proteste-mehr-als-400-strafanzeigen-gegen-aktivisten](https://www.spiegel.de/panorama/justiz/luetzerath-proteste-mehr-als-400-strafanzeigen-gegen-aktivisten-a-55b5d5b5-56da-49ef-a2b1-dcfced075d20#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-deutschland-schickt-leopard-panzer](https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-deutschland-schickt-leopard-panzer-a-e2dde871-88d0-4cf5-8aae-482d58fd850f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/leopard-2-diskussion-ueber-panzerlieferungen-die-mutter-aller-panzerkanonen](https://www.spiegel.de/wissenschaft/technik/leopard-2-diskussion-ueber-panzerlieferungen-die-mutter-aller-panzerkanonen-a-ce0d4d3c-69bf-4029-aed5-a627cc54f28c#ref=rss)
-### kampfpanzer
-
-* [https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-deutschland-schickt-leopard-panzer](https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-deutschland-schickt-leopard-panzer-a-e2dde871-88d0-4cf5-8aae-482d58fd850f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung](https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung-a-d028f858-9dc2-465e-89ea-0ab93186ef5d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/leopard-2-diskussion-ueber-panzerlieferungen-die-mutter-aller-panzerkanonen](https://www.spiegel.de/wissenschaft/technik/leopard-2-diskussion-ueber-panzerlieferungen-die-mutter-aller-panzerkanonen-a-ce0d4d3c-69bf-4029-aed5-a627cc54f28c#ref=rss)
-### usa
-
-* [https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-deutschland-schickt-leopard-panzer](https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-deutschland-schickt-leopard-panzer-a-e2dde871-88d0-4cf5-8aae-482d58fd850f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros-a-8eec7685-27e8-4087-ae91-4395674c6175#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/kultur/tv/doku-meisterwerk-berlin-1933-diktatur-und-alltag](https://www.spiegel.de/kultur/tv/doku-meisterwerk-berlin-1933-diktatur-und-alltag-a-c19fd7f2-0be8-41ca-9516-e83c5bb00d80#ref=rss)
-* [https://www.spiegel.de/gesundheit/achtsamkeit-wie-meditieren-die-gesundheit-verbessert](https://www.spiegel.de/gesundheit/achtsamkeit-wie-meditieren-die-gesundheit-verbessert-a-a70d2399-29d3-4c02-8d18-2ef5bbb32df8#ref=rss)
-* [https://www.spiegel.de/geschichte/pardon-satiremagazin-wird-60-sex-und-politik](https://www.spiegel.de/geschichte/pardon-satiremagazin-wird-60-sex-und-politik-a-0de26b21-52c2-4b69-9eca-131b82597a70#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/pflegeheimbetreiber-convivo-beantragt-insolvenz](https://www.spiegel.de/wirtschaft/unternehmen/pflegeheimbetreiber-convivo-beantragt-insolvenz-a-94a8f176-b38f-4b91-ab99-57be7a9a0c4a#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-wie-baut-wolodymyr-selenskyj-seine-regierung-um-und-warum](https://www.spiegel.de/ausland/ukraine-news-wie-baut-wolodymyr-selenskyj-seine-regierung-um-und-warum-a-44351db3-f2a4-4093-8af0-85b2d0ccd628#ref=rss)
-### parteien
-
-* [https://www.spiegel.de/politik/deutschland/urteil-zur-parteienfinanzierung-warum-die-parteien-ihr-millionenplus-womoeglich-doch-behalten-koennen](https://www.spiegel.de/politik/deutschland/urteil-zur-parteienfinanzierung-warum-die-parteien-ihr-millionenplus-womoeglich-doch-behalten-koennen-a-452d7602-4536-4cfa-8c9c-8e79511d8fc8#ref=rss)
-### leopard
-
-* [https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung](https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung-a-d028f858-9dc2-465e-89ea-0ab93186ef5d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/leopard-2-diskussion-ueber-panzerlieferungen-die-mutter-aller-panzerkanonen](https://www.spiegel.de/wissenschaft/technik/leopard-2-diskussion-ueber-panzerlieferungen-die-mutter-aller-panzerkanonen-a-ce0d4d3c-69bf-4029-aed5-a627cc54f28c#ref=rss)
-### 2
-
-* [https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung](https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung-a-d028f858-9dc2-465e-89ea-0ab93186ef5d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/leopard-2-diskussion-ueber-panzerlieferungen-die-mutter-aller-panzerkanonen](https://www.spiegel.de/wissenschaft/technik/leopard-2-diskussion-ueber-panzerlieferungen-die-mutter-aller-panzerkanonen-a-ce0d4d3c-69bf-4029-aed5-a627cc54f28c#ref=rss)
-### koran
-
-* [https://www.spiegel.de/ausland/nato-beitritt-finnlands-und-schwedens-tuerkei-sagt-trilaterales-treffen-ab](https://www.spiegel.de/ausland/nato-beitritt-finnlands-und-schwedens-tuerkei-sagt-trilaterales-treffen-ab-a-6c643bf0-56f9-4719-89ba-49301fbcbe90#ref=rss)
-* [https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein](https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein-a-a9986582-7b65-4473-9d3d-cdbbebea9066#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/ausland/wahl-in-niederoesterreich-warum-sie-so-spannend-und-bedrohlich-ist-inside-austria](https://www.spiegel.de/ausland/wahl-in-niederoesterreich-warum-sie-so-spannend-und-bedrohlich-ist-inside-austria-a-9eb7a156-3c22-4c6e-87bc-3d181df79878#ref=rss)
-* [https://www.spiegel.de/sport/olympia/initiative-der-bundesregierung-wer-in-den-sportverein-geht-bekommt-40-euro](https://www.spiegel.de/sport/olympia/initiative-der-bundesregierung-wer-in-den-sportverein-geht-bekommt-40-euro-a-6506127a-aa3a-46d2-9f11-7b35d3e28a4a#ref=rss)
-### mike
-
-* [https://www.spiegel.de/ausland/mike-pence-geheime-dokumente-in-wohnung-von-trumps-frueherem-vizepraesidenten-gefunden](https://www.spiegel.de/ausland/mike-pence-geheime-dokumente-in-wohnung-von-trumps-frueherem-vizepraesidenten-gefunden-a-0407da63-8dc2-425c-8bef-454d1e2ef110#ref=rss)
-### pence
-
-* [https://www.spiegel.de/ausland/mike-pence-geheime-dokumente-in-wohnung-von-trumps-frueherem-vizepraesidenten-gefunden](https://www.spiegel.de/ausland/mike-pence-geheime-dokumente-in-wohnung-von-trumps-frueherem-vizepraesidenten-gefunden-a-0407da63-8dc2-425c-8bef-454d1e2ef110#ref=rss)
-### geheime
-
-* [https://www.spiegel.de/ausland/mike-pence-geheime-dokumente-in-wohnung-von-trumps-frueherem-vizepraesidenten-gefunden](https://www.spiegel.de/ausland/mike-pence-geheime-dokumente-in-wohnung-von-trumps-frueherem-vizepraesidenten-gefunden-a-0407da63-8dc2-425c-8bef-454d1e2ef110#ref=rss)
-### dokumente
-
-* [https://www.spiegel.de/ausland/mike-pence-geheime-dokumente-in-wohnung-von-trumps-frueherem-vizepraesidenten-gefunden](https://www.spiegel.de/ausland/mike-pence-geheime-dokumente-in-wohnung-von-trumps-frueherem-vizepraesidenten-gefunden-a-0407da63-8dc2-425c-8bef-454d1e2ef110#ref=rss)
-### wohnung
-
-* [https://www.spiegel.de/ausland/mike-pence-geheime-dokumente-in-wohnung-von-trumps-frueherem-vizepraesidenten-gefunden](https://www.spiegel.de/ausland/mike-pence-geheime-dokumente-in-wohnung-von-trumps-frueherem-vizepraesidenten-gefunden-a-0407da63-8dc2-425c-8bef-454d1e2ef110#ref=rss)
-### leopardpanzer
-
-* [https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-deutschland-schickt-leopard-panzer](https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-deutschland-schickt-leopard-panzer-a-e2dde871-88d0-4cf5-8aae-482d58fd850f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros-a-8eec7685-27e8-4087-ae91-4395674c6175#ref=rss)
-### ben
-
-* [https://www.spiegel.de/sport/tennis/ben-shelton-steht-bei-den-australian-open-im-viertelfinale](https://www.spiegel.de/sport/tennis/ben-shelton-steht-bei-den-australian-open-im-viertelfinale-a-060267d4-1125-45c9-ae98-2e8bdd2e3558#ref=rss)
-### shelton
-
-* [https://www.spiegel.de/sport/tennis/ben-shelton-steht-bei-den-australian-open-im-viertelfinale](https://www.spiegel.de/sport/tennis/ben-shelton-steht-bei-den-australian-open-im-viertelfinale-a-060267d4-1125-45c9-ae98-2e8bdd2e3558#ref=rss)
-### australian
-
-* [https://www.spiegel.de/sport/tennis/ben-shelton-steht-bei-den-australian-open-im-viertelfinale](https://www.spiegel.de/sport/tennis/ben-shelton-steht-bei-den-australian-open-im-viertelfinale-a-060267d4-1125-45c9-ae98-2e8bdd2e3558#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/ben-shelton-steht-bei-den-australian-open-im-viertelfinale](https://www.spiegel.de/sport/tennis/ben-shelton-steht-bei-den-australian-open-im-viertelfinale-a-060267d4-1125-45c9-ae98-2e8bdd2e3558#ref=rss)
-### erst
-
-* [https://www.spiegel.de/sport/tennis/ben-shelton-steht-bei-den-australian-open-im-viertelfinale](https://www.spiegel.de/sport/tennis/ben-shelton-steht-bei-den-australian-open-im-viertelfinale-a-060267d4-1125-45c9-ae98-2e8bdd2e3558#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kalifornien-trauert-18-tote-bei-zwei-schiessereien-eine-tragoedie-jagt-die-naechste](https://www.spiegel.de/panorama/justiz/kalifornien-trauert-18-tote-bei-zwei-schiessereien-eine-tragoedie-jagt-die-naechste-a-116ac058-7782-4bda-9e58-21889fae157b#ref=rss)
-### 1933
-
-* [https://www.spiegel.de/kultur/tv/doku-meisterwerk-berlin-1933-diktatur-und-alltag](https://www.spiegel.de/kultur/tv/doku-meisterwerk-berlin-1933-diktatur-und-alltag-a-c19fd7f2-0be8-41ca-9516-e83c5bb00d80#ref=rss)
-### convivo
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/pflegeheimbetreiber-convivo-beantragt-insolvenz](https://www.spiegel.de/wirtschaft/unternehmen/pflegeheimbetreiber-convivo-beantragt-insolvenz-a-94a8f176-b38f-4b91-ab99-57be7a9a0c4a#ref=rss)
-### beantragt
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/pflegeheimbetreiber-convivo-beantragt-insolvenz](https://www.spiegel.de/wirtschaft/unternehmen/pflegeheimbetreiber-convivo-beantragt-insolvenz-a-94a8f176-b38f-4b91-ab99-57be7a9a0c4a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung](https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung-a-d028f858-9dc2-465e-89ea-0ab93186ef5d#ref=rss)
-### insolvenz
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/pflegeheimbetreiber-convivo-beantragt-insolvenz](https://www.spiegel.de/wirtschaft/unternehmen/pflegeheimbetreiber-convivo-beantragt-insolvenz-a-94a8f176-b38f-4b91-ab99-57be7a9a0c4a#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/pflegeheimbetreiber-convivo-beantragt-insolvenz](https://www.spiegel.de/wirtschaft/unternehmen/pflegeheimbetreiber-convivo-beantragt-insolvenz-a-94a8f176-b38f-4b91-ab99-57be7a9a0c4a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kalifornien-trauert-18-tote-bei-zwei-schiessereien-eine-tragoedie-jagt-die-naechste](https://www.spiegel.de/panorama/justiz/kalifornien-trauert-18-tote-bei-zwei-schiessereien-eine-tragoedie-jagt-die-naechste-a-116ac058-7782-4bda-9e58-21889fae157b#ref=rss)
-### urteil
+* [https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen](https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen-a-8051128b-69e9-418d-a5bc-9bb9ee342efc#ref=rss)
+* [https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang](https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang-a-6706b94f-924a-42a6-bc62-d8420fdf7cd8#ref=rss)
+* [https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang](https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang-a-1c25351b-4839-4d9f-9e3a-46885e7feb4d#ref=rss)
+* [https://www.spiegel.de/panorama/a3-in-mittelfranken-bus-mit-schulkindern-faehrt-auf-anhaenger-auf-vollsperrung](https://www.spiegel.de/panorama/a3-in-mittelfranken-bus-mit-schulkindern-faehrt-auf-anhaenger-auf-vollsperrung-a-745f5fb8-6841-44f7-80d0-780e9f778df0#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/politik/deutschland/urteil-zur-parteienfinanzierung-warum-die-parteien-ihr-millionenplus-womoeglich-doch-behalten-koennen](https://www.spiegel.de/politik/deutschland/urteil-zur-parteienfinanzierung-warum-die-parteien-ihr-millionenplus-womoeglich-doch-behalten-koennen-a-452d7602-4536-4cfa-8c9c-8e79511d8fc8#ref=rss)
-### lindner
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen-a-0f4413ff-1aa4-4d6a-b9b4-e2f7c38acb28#ref=rss)
+* [https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei](https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei-a-127a9ba0-b5cb-4766-acab-e03b4dbb2671#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+### microsoft
 
-* [https://www.spiegel.de/wirtschaft/service/christian-lindner-kuendigt-ambitioniertes-steuerprogramm-an](https://www.spiegel.de/wirtschaft/service/christian-lindner-kuendigt-ambitioniertes-steuerprogramm-an-a-c324c5a9-ce83-49fb-bfe3-9e431412b46a#ref=rss)
-### polen
+* [https://www.spiegel.de/wirtschaft/unternehmen/microsoft-gewinneinbruch-durch-schwaches-pc-geschaeft](https://www.spiegel.de/wirtschaft/unternehmen/microsoft-gewinneinbruch-durch-schwaches-pc-geschaeft-a-1d3be73f-9aff-43c6-9a1d-b3c423cf0a78#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert](https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert-a-6e0f6844-acad-4f8d-bece-6591d58ccec9#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung](https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung-a-d028f858-9dc2-465e-89ea-0ab93186ef5d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros-a-8eec7685-27e8-4087-ae91-4395674c6175#ref=rss)
-### regierung
+* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung](https://www.spiegel.de/politik/deutschland/kampfpanzer-leopard-2-fuer-polen-jetzt-kommt-die-top-secret-entscheidung-a-d028f858-9dc2-465e-89ea-0ab93186ef5d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-wie-baut-wolodymyr-selenskyj-seine-regierung-um-und-warum](https://www.spiegel.de/ausland/ukraine-news-wie-baut-wolodymyr-selenskyj-seine-regierung-um-und-warum-a-44351db3-f2a4-4093-8af0-85b2d0ccd628#ref=rss)
-### neue
+* [https://www.spiegel.de/wirtschaft/unternehmen/microsoft-gewinneinbruch-durch-schwaches-pc-geschaeft](https://www.spiegel.de/wirtschaft/unternehmen/microsoft-gewinneinbruch-durch-schwaches-pc-geschaeft-a-1d3be73f-9aff-43c6-9a1d-b3c423cf0a78#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher-a-d8f3c028-6ffa-401e-a0b7-ecbfbfbf6332#ref=rss)
+* [https://www.spiegel.de/wissenschaft/nasa-us-raumfahrtbehoerde-plant-mars-raketen-mit-nuklearem-antrieb](https://www.spiegel.de/wissenschaft/nasa-us-raumfahrtbehoerde-plant-mars-raketen-mit-nuklearem-antrieb-a-12e11f4c-46b9-4f22-917f-4191d0dde21b#ref=rss)
+### liefert
 
-* [https://www.spiegel.de/wissenschaft/bamberg-ungewoehnliche-flugsaurierart-in-oberfranken-entdeckt](https://www.spiegel.de/wissenschaft/bamberg-ungewoehnliche-flugsaurierart-in-oberfranken-entdeckt-a-4e3d5961-3fb0-44fe-b05d-d18deab5bd31#ref=rss)
-* [https://www.spiegel.de/gesundheit/achtsamkeit-wie-meditieren-die-gesundheit-verbessert](https://www.spiegel.de/gesundheit/achtsamkeit-wie-meditieren-die-gesundheit-verbessert-a-a70d2399-29d3-4c02-8d18-2ef5bbb32df8#ref=rss)
-### bekannt
+* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+### kiew
 
-* [https://www.spiegel.de/wissenschaft/bamberg-ungewoehnliche-flugsaurierart-in-oberfranken-entdeckt](https://www.spiegel.de/wissenschaft/bamberg-ungewoehnliche-flugsaurierart-in-oberfranken-entdeckt-a-4e3d5961-3fb0-44fe-b05d-d18deab5bd31#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-wie-baut-wolodymyr-selenskyj-seine-regierung-um-und-warum](https://www.spiegel.de/ausland/ukraine-news-wie-baut-wolodymyr-selenskyj-seine-regierung-um-und-warum-a-44351db3-f2a4-4093-8af0-85b2d0ccd628#ref=rss)
-### trilaterales
+* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/nato-beitritt-finnlands-und-schwedens-tuerkei-sagt-trilaterales-treffen-ab](https://www.spiegel.de/ausland/nato-beitritt-finnlands-und-schwedens-tuerkei-sagt-trilaterales-treffen-ab-a-6c643bf0-56f9-4719-89ba-49301fbcbe90#ref=rss)
-### treffen
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gleichberechtigung-wie-die-ampel-regierung-ostdeutsche-in-topjobs-bringen-will](https://www.spiegel.de/wirtschaft/soziales/gleichberechtigung-wie-die-ampel-regierung-ostdeutsche-in-topjobs-bringen-will-a-6bd86f24-4e0d-461f-adbc-065d485e1a9d#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/nato-beitritt-finnlands-und-schwedens-tuerkei-sagt-trilaterales-treffen-ab](https://www.spiegel.de/ausland/nato-beitritt-finnlands-und-schwedens-tuerkei-sagt-trilaterales-treffen-ab-a-6c643bf0-56f9-4719-89ba-49301fbcbe90#ref=rss)
-### stockholm
+* [https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert](https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert-a-6e0f6844-acad-4f8d-bece-6591d58ccec9#ref=rss)
+* [https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang](https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang-a-1c25351b-4839-4d9f-9e3a-46885e7feb4d#ref=rss)
+### oft
 
-* [https://www.spiegel.de/ausland/nato-beitritt-finnlands-und-schwedens-tuerkei-sagt-trilaterales-treffen-ab](https://www.spiegel.de/ausland/nato-beitritt-finnlands-und-schwedens-tuerkei-sagt-trilaterales-treffen-ab-a-6c643bf0-56f9-4719-89ba-49301fbcbe90#ref=rss)
-* [https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein](https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein-a-a9986582-7b65-4473-9d3d-cdbbebea9066#ref=rss)
-### ankara
+* [https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert](https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert-a-6e0f6844-acad-4f8d-bece-6591d58ccec9#ref=rss)
+* [https://www.spiegel.de/auto/assistenzsysteme-im-auto-warum-sie-so-oft-nerven](https://www.spiegel.de/auto/assistenzsysteme-im-auto-warum-sie-so-oft-nerven-a-f32d480a-9f91-4ffa-825a-1211ad87294f#ref=rss)
+### tag
 
-* [https://www.spiegel.de/ausland/nato-beitritt-finnlands-und-schwedens-tuerkei-sagt-trilaterales-treffen-ab](https://www.spiegel.de/ausland/nato-beitritt-finnlands-und-schwedens-tuerkei-sagt-trilaterales-treffen-ab-a-6c643bf0-56f9-4719-89ba-49301fbcbe90#ref=rss)
-* [https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein](https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein-a-a9986582-7b65-4473-9d3d-cdbbebea9066#ref=rss)
-### hansgeorg
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade](https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade-a-3c3362bc-ab9c-415b-975c-2bcf784ed92d#ref=rss)
+### 12
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-medikamentenmangel-insektennahrung](https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-medikamentenmangel-insektennahrung-a-367fcc97-00d0-42fb-8db5-469011b3cd6b#ref=rss)
-### maaßen
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade](https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade-a-3c3362bc-ab9c-415b-975c-2bcf784ed92d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen-a-0f4413ff-1aa4-4d6a-b9b4-e2f7c38acb28#ref=rss)
+### früher
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-medikamentenmangel-insektennahrung](https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-medikamentenmangel-insektennahrung-a-367fcc97-00d0-42fb-8db5-469011b3cd6b#ref=rss)
-### mutter
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade](https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade-a-3c3362bc-ab9c-415b-975c-2bcf784ed92d#ref=rss)
+* [https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang](https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang-a-6706b94f-924a-42a6-bc62-d8420fdf7cd8#ref=rss)
+### besseren
 
-* [https://www.spiegel.de/wissenschaft/technik/leopard-2-diskussion-ueber-panzerlieferungen-die-mutter-aller-panzerkanonen](https://www.spiegel.de/wissenschaft/technik/leopard-2-diskussion-ueber-panzerlieferungen-die-mutter-aller-panzerkanonen-a-ce0d4d3c-69bf-4029-aed5-a627cc54f28c#ref=rss)
-* [https://www.spiegel.de/panorama/leute/prinzessin-eugenie-und-jack-brooksbank-erwarten-zweites-kind-und-sind-entzueckt](https://www.spiegel.de/panorama/leute/prinzessin-eugenie-und-jack-brooksbank-erwarten-zweites-kind-und-sind-entzueckt-a-965003a6-51e1-45f5-b5ad-47cdcaef9867#ref=rss)
-### klimakrise
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade](https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade-a-3c3362bc-ab9c-415b-975c-2bcf784ed92d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/gleichberechtigung-wie-die-ampel-regierung-ostdeutsche-in-topjobs-bringen-will](https://www.spiegel.de/wirtschaft/soziales/gleichberechtigung-wie-die-ampel-regierung-ostdeutsche-in-topjobs-bringen-will-a-6bd86f24-4e0d-461f-adbc-065d485e1a9d#ref=rss)
+### genug
 
-* [https://www.spiegel.de/wissenschaft/natur/exxon-und-die-klimakrise-die-schmutzigen-klimaluegen-der-oelindustrie](https://www.spiegel.de/wissenschaft/natur/exxon-und-die-klimakrise-die-schmutzigen-klimaluegen-der-oelindustrie-a-596adfb8-ad05-4ed1-ae25-47d360b653f8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-irans-atomprogramm-klimawandel-forscher-stellen-die-doomsday-clock-neu](https://www.spiegel.de/ausland/ukraine-krieg-irans-atomprogramm-klimawandel-forscher-stellen-die-doomsday-clock-neu-a-4a7fa381-9aab-4717-82f5-e1f8fd838028#ref=rss)
-### klimawandel
+* [https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade](https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade-a-3c3362bc-ab9c-415b-975c-2bcf784ed92d#ref=rss)
+* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
+### frau
 
-* [https://www.spiegel.de/wissenschaft/natur/exxon-und-die-klimakrise-die-schmutzigen-klimaluegen-der-oelindustrie](https://www.spiegel.de/wissenschaft/natur/exxon-und-die-klimakrise-die-schmutzigen-klimaluegen-der-oelindustrie-a-596adfb8-ad05-4ed1-ae25-47d360b653f8#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-irans-atomprogramm-klimawandel-forscher-stellen-die-doomsday-clock-neu](https://www.spiegel.de/ausland/ukraine-krieg-irans-atomprogramm-klimawandel-forscher-stellen-die-doomsday-clock-neu-a-4a7fa381-9aab-4717-82f5-e1f8fd838028#ref=rss)
-### ukrainenews
+* [https://www.spiegel.de/panorama/leute/new-york-frau-verklagt-tyson-nach-mutmasslicher-vergewaltigung-in-den-neunzigern](https://www.spiegel.de/panorama/leute/new-york-frau-verklagt-tyson-nach-mutmasslicher-vergewaltigung-in-den-neunzigern-a-c0296e63-bb8b-45e8-b1dd-b1a1b650b5af#ref=rss)
+* [https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80](https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80-a-8e8179c2-d114-479d-b162-60f74d54aef4#ref=rss)
+### verklagt
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros-a-8eec7685-27e8-4087-ae91-4395674c6175#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-wie-baut-wolodymyr-selenskyj-seine-regierung-um-und-warum](https://www.spiegel.de/ausland/ukraine-news-wie-baut-wolodymyr-selenskyj-seine-regierung-um-und-warum-a-44351db3-f2a4-4093-8af0-85b2d0ccd628#ref=rss)
-### lieferung
+* [https://www.spiegel.de/panorama/leute/new-york-frau-verklagt-tyson-nach-mutmasslicher-vergewaltigung-in-den-neunzigern](https://www.spiegel.de/panorama/leute/new-york-frau-verklagt-tyson-nach-mutmasslicher-vergewaltigung-in-den-neunzigern-a-c0296e63-bb8b-45e8-b1dd-b1a1b650b5af#ref=rss)
+### tyson
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros-a-8eec7685-27e8-4087-ae91-4395674c6175#ref=rss)
-### deutscher
+* [https://www.spiegel.de/panorama/leute/new-york-frau-verklagt-tyson-nach-mutmasslicher-vergewaltigung-in-den-neunzigern](https://www.spiegel.de/panorama/leute/new-york-frau-verklagt-tyson-nach-mutmasslicher-vergewaltigung-in-den-neunzigern-a-c0296e63-bb8b-45e8-b1dd-b1a1b650b5af#ref=rss)
+### studie
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros](https://www.spiegel.de/ausland/ukraine-news-am-dienstag-selenskyj-entlaesst-vizechef-seines-praesidentenbueros-a-8eec7685-27e8-4087-ae91-4395674c6175#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscar-nominierungen-2023-im-westen-nichts-neues-als-bester-film-nominiert](https://www.spiegel.de/kultur/kino/oscar-nominierungen-2023-im-westen-nichts-neues-als-bester-film-nominiert-a-9775b40c-12c2-4a25-977a-a48fa466da64#ref=rss)
-### niederösterreich
+* [https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen](https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen-a-8051128b-69e9-418d-a5bc-9bb9ee342efc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden](https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden-a-ca275898-048f-4364-b352-aa08120b2079#ref=rss)
+### meinung
 
-* [https://www.spiegel.de/ausland/wahl-in-niederoesterreich-warum-sie-so-spannend-und-bedrohlich-ist-inside-austria](https://www.spiegel.de/ausland/wahl-in-niederoesterreich-warum-sie-so-spannend-und-bedrohlich-ist-inside-austria-a-9eb7a156-3c22-4c6e-87bc-3d181df79878#ref=rss)
-### zwei
+* [https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen](https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen-a-8051128b-69e9-418d-a5bc-9bb9ee342efc#ref=rss)
+### führt
 
-* [https://www.spiegel.de/sport/fussball/ligacup-warum-nur-brauchen-die-englaender-zwei-pokalwettbewerbe](https://www.spiegel.de/sport/fussball/ligacup-warum-nur-brauchen-die-englaender-zwei-pokalwettbewerbe-a-f2fba313-42b3-4b29-984b-5ce001586dad#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/kalifornien-trauert-18-tote-bei-zwei-schiessereien-eine-tragoedie-jagt-die-naechste](https://www.spiegel.de/panorama/justiz/kalifornien-trauert-18-tote-bei-zwei-schiessereien-eine-tragoedie-jagt-die-naechste-a-116ac058-7782-4bda-9e58-21889fae157b#ref=rss)
-### sportverein
+* [https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen](https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen-a-8051128b-69e9-418d-a5bc-9bb9ee342efc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
+### wahlomat
 
-* [https://www.spiegel.de/sport/olympia/initiative-der-bundesregierung-wer-in-den-sportverein-geht-bekommt-40-euro](https://www.spiegel.de/sport/olympia/initiative-der-bundesregierung-wer-in-den-sportverein-geht-bekommt-40-euro-a-6506127a-aa3a-46d2-9f11-7b35d3e28a4a#ref=rss)
-### euro
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen-a-0f4413ff-1aa4-4d6a-b9b4-e2f7c38acb28#ref=rss)
+### 2023
 
-* [https://www.spiegel.de/sport/olympia/initiative-der-bundesregierung-wer-in-den-sportverein-geht-bekommt-40-euro](https://www.spiegel.de/sport/olympia/initiative-der-bundesregierung-wer-in-den-sportverein-geht-bekommt-40-euro-a-6506127a-aa3a-46d2-9f11-7b35d3e28a4a#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/stuttgart-mutmassliche-millionendiebin-am-flughafen-festgenommen](https://www.spiegel.de/panorama/justiz/stuttgart-mutmassliche-millionendiebin-am-flughafen-festgenommen-a-448c929e-617a-4c77-91ce-4f888273ba7a#ref=rss)
-### 400
+* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen-a-0f4413ff-1aa4-4d6a-b9b4-e2f7c38acb28#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher-a-d8f3c028-6ffa-401e-a0b7-ecbfbfbf6332#ref=rss)
+### justin
 
-* [https://www.spiegel.de/panorama/justiz/luetzerath-proteste-mehr-als-400-strafanzeigen-gegen-aktivisten](https://www.spiegel.de/panorama/justiz/luetzerath-proteste-mehr-als-400-strafanzeigen-gegen-aktivisten-a-55b5d5b5-56da-49ef-a2b1-dcfced075d20#ref=rss)
-### aktivisten
+* [https://www.spiegel.de/kultur/musik/justin-bieber-popstar-verkauft-musikrechte-fuer-200-millionen-dollar](https://www.spiegel.de/kultur/musik/justin-bieber-popstar-verkauft-musikrechte-fuer-200-millionen-dollar-a-927c0a5a-e5e0-4650-8cb3-57d280e9402d#ref=rss)
+### bieber
 
-* [https://www.spiegel.de/panorama/justiz/luetzerath-proteste-mehr-als-400-strafanzeigen-gegen-aktivisten](https://www.spiegel.de/panorama/justiz/luetzerath-proteste-mehr-als-400-strafanzeigen-gegen-aktivisten-a-55b5d5b5-56da-49ef-a2b1-dcfced075d20#ref=rss)
-### kalifornien
+* [https://www.spiegel.de/kultur/musik/justin-bieber-popstar-verkauft-musikrechte-fuer-200-millionen-dollar](https://www.spiegel.de/kultur/musik/justin-bieber-popstar-verkauft-musikrechte-fuer-200-millionen-dollar-a-927c0a5a-e5e0-4650-8cb3-57d280e9402d#ref=rss)
+### geschäft
 
-* [https://www.spiegel.de/panorama/justiz/kalifornien-trauert-18-tote-bei-zwei-schiessereien-eine-tragoedie-jagt-die-naechste](https://www.spiegel.de/panorama/justiz/kalifornien-trauert-18-tote-bei-zwei-schiessereien-eine-tragoedie-jagt-die-naechste-a-116ac058-7782-4bda-9e58-21889fae157b#ref=rss)
-### 18
-
-* [https://www.spiegel.de/panorama/justiz/kalifornien-trauert-18-tote-bei-zwei-schiessereien-eine-tragoedie-jagt-die-naechste](https://www.spiegel.de/panorama/justiz/kalifornien-trauert-18-tote-bei-zwei-schiessereien-eine-tragoedie-jagt-die-naechste-a-116ac058-7782-4bda-9e58-21889fae157b#ref=rss)
-### pardon
-
-* [https://www.spiegel.de/geschichte/pardon-satiremagazin-wird-60-sex-und-politik](https://www.spiegel.de/geschichte/pardon-satiremagazin-wird-60-sex-und-politik-a-0de26b21-52c2-4b69-9eca-131b82597a70#ref=rss)
-### prinzessin
-
-* [https://www.spiegel.de/panorama/leute/prinzessin-eugenie-und-jack-brooksbank-erwarten-zweites-kind-und-sind-entzueckt](https://www.spiegel.de/panorama/leute/prinzessin-eugenie-und-jack-brooksbank-erwarten-zweites-kind-und-sind-entzueckt-a-965003a6-51e1-45f5-b5ad-47cdcaef9867#ref=rss)
-### eugenie
-
-* [https://www.spiegel.de/panorama/leute/prinzessin-eugenie-und-jack-brooksbank-erwarten-zweites-kind-und-sind-entzueckt](https://www.spiegel.de/panorama/leute/prinzessin-eugenie-und-jack-brooksbank-erwarten-zweites-kind-und-sind-entzueckt-a-965003a6-51e1-45f5-b5ad-47cdcaef9867#ref=rss)
-### jack
-
-* [https://www.spiegel.de/panorama/leute/prinzessin-eugenie-und-jack-brooksbank-erwarten-zweites-kind-und-sind-entzueckt](https://www.spiegel.de/panorama/leute/prinzessin-eugenie-und-jack-brooksbank-erwarten-zweites-kind-und-sind-entzueckt-a-965003a6-51e1-45f5-b5ad-47cdcaef9867#ref=rss)
-### brooksbank
-
-* [https://www.spiegel.de/panorama/leute/prinzessin-eugenie-und-jack-brooksbank-erwarten-zweites-kind-und-sind-entzueckt](https://www.spiegel.de/panorama/leute/prinzessin-eugenie-und-jack-brooksbank-erwarten-zweites-kind-und-sind-entzueckt-a-965003a6-51e1-45f5-b5ad-47cdcaef9867#ref=rss)
-### entzückt
-
-* [https://www.spiegel.de/panorama/leute/prinzessin-eugenie-und-jack-brooksbank-erwarten-zweites-kind-und-sind-entzueckt](https://www.spiegel.de/panorama/leute/prinzessin-eugenie-und-jack-brooksbank-erwarten-zweites-kind-und-sind-entzueckt-a-965003a6-51e1-45f5-b5ad-47cdcaef9867#ref=rss)
-### irans
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-irans-atomprogramm-klimawandel-forscher-stellen-die-doomsday-clock-neu](https://www.spiegel.de/ausland/ukraine-krieg-irans-atomprogramm-klimawandel-forscher-stellen-die-doomsday-clock-neu-a-4a7fa381-9aab-4717-82f5-e1f8fd838028#ref=rss)
-### atomprogramm
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-irans-atomprogramm-klimawandel-forscher-stellen-die-doomsday-clock-neu](https://www.spiegel.de/ausland/ukraine-krieg-irans-atomprogramm-klimawandel-forscher-stellen-die-doomsday-clock-neu-a-4a7fa381-9aab-4717-82f5-e1f8fd838028#ref=rss)
-### mikaela
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-schreibt-erneut-ski-geschichte](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-schreibt-erneut-ski-geschichte-a-5a626ea3-631f-465f-afcf-5db90e03c2f6#ref=rss)
-### shiffrin
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-schreibt-erneut-ski-geschichte](https://www.spiegel.de/sport/wintersport/ski-alpin-mikaela-shiffrin-schreibt-erneut-ski-geschichte-a-5a626ea3-631f-465f-afcf-5db90e03c2f6#ref=rss)
+* [https://www.spiegel.de/kultur/musik/justin-bieber-popstar-verkauft-musikrechte-fuer-200-millionen-dollar](https://www.spiegel.de/kultur/musik/justin-bieber-popstar-verkauft-musikrechte-fuer-200-millionen-dollar-a-927c0a5a-e5e0-4650-8cb3-57d280e9402d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher-a-d8f3c028-6ffa-401e-a0b7-ecbfbfbf6332#ref=rss)
 ### westen
 
-* [https://www.spiegel.de/kultur/kino/oscar-nominierungen-2023-im-westen-nichts-neues-als-bester-film-nominiert](https://www.spiegel.de/kultur/kino/oscar-nominierungen-2023-im-westen-nichts-neues-als-bester-film-nominiert-a-9775b40c-12c2-4a25-977a-a48fa466da64#ref=rss)
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat-a-302db194-2ea7-4c6f-9b65-82d4a17c9438#ref=rss)
 ### nichts
 
-* [https://www.spiegel.de/kultur/kino/oscar-nominierungen-2023-im-westen-nichts-neues-als-bester-film-nominiert](https://www.spiegel.de/kultur/kino/oscar-nominierungen-2023-im-westen-nichts-neues-als-bester-film-nominiert-a-9775b40c-12c2-4a25-977a-a48fa466da64#ref=rss)
-### neues
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat-a-302db194-2ea7-4c6f-9b65-82d4a17c9438#ref=rss)
+### edward
 
-* [https://www.spiegel.de/kultur/kino/oscar-nominierungen-2023-im-westen-nichts-neues-als-bester-film-nominiert](https://www.spiegel.de/kultur/kino/oscar-nominierungen-2023-im-westen-nichts-neues-als-bester-film-nominiert-a-9775b40c-12c2-4a25-977a-a48fa466da64#ref=rss)
-### film
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat-a-302db194-2ea7-4c6f-9b65-82d4a17c9438#ref=rss)
+### berger
 
-* [https://www.spiegel.de/kultur/kino/oscar-nominierungen-2023-im-westen-nichts-neues-als-bester-film-nominiert](https://www.spiegel.de/kultur/kino/oscar-nominierungen-2023-im-westen-nichts-neues-als-bester-film-nominiert-a-9775b40c-12c2-4a25-977a-a48fa466da64#ref=rss)
-### haag
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat-a-302db194-2ea7-4c6f-9b65-82d4a17c9438#ref=rss)
+### leben
 
-* [https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein](https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein-a-a9986582-7b65-4473-9d3d-cdbbebea9066#ref=rss)
-### zerrissen
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat-a-302db194-2ea7-4c6f-9b65-82d4a17c9438#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden](https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden-a-ca275898-048f-4364-b352-aa08120b2079#ref=rss)
+### vielen
 
-* [https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein](https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein-a-a9986582-7b65-4473-9d3d-cdbbebea9066#ref=rss)
-### botschafter
+* [https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang](https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang-a-6706b94f-924a-42a6-bc62-d8420fdf7cd8#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert](https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert-a-6e0f6844-acad-4f8d-bece-6591d58ccec9#ref=rss)
+### dürfen
 
-* [https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein](https://www.spiegel.de/ausland/koran-in-den-haag-zerrissen-tuerkei-bestellt-niederlaendischen-botschafter-ein-a-a9986582-7b65-4473-9d3d-cdbbebea9066#ref=rss)
+* [https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang](https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang-a-6706b94f-924a-42a6-bc62-d8420fdf7cd8#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess-a-0515cb4f-81e4-4fea-90b8-76edc4e06211#ref=rss)
+### zuversichtlicher
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher-a-d8f3c028-6ffa-401e-a0b7-ecbfbfbf6332#ref=rss)
+### allerdings
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher-a-d8f3c028-6ffa-401e-a0b7-ecbfbfbf6332#ref=rss)
+* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
+### panzerlieferungen
+
+* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
+### kampfpanzer
+
+* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
+* [https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei](https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei-a-127a9ba0-b5cb-4766-acab-e03b4dbb2671#ref=rss)
+### 14jähriger
+
+* [https://www.spiegel.de/panorama/justiz/wunstorf-vermisster-jugendlicher-14-jaehriger-als-tatverdaechtiger-in-gewahrsam](https://www.spiegel.de/panorama/justiz/wunstorf-vermisster-jugendlicher-14-jaehriger-als-tatverdaechtiger-in-gewahrsam-a-cbd95a66-6a5e-4336-aea8-37d796541899#ref=rss)
+### friedrichstraße
+
+* [https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei](https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei-a-127a9ba0-b5cb-4766-acab-e03b4dbb2671#ref=rss)
+### entscheidung
+
+* [https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei](https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei-a-127a9ba0-b5cb-4766-acab-e03b4dbb2671#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
+### mittwoch
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess-a-0515cb4f-81e4-4fea-90b8-76edc4e06211#ref=rss)
+### 14
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+### leopardpanzer
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
+### melnyk
+
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
+### usraumfahrtbehörde
+
+* [https://www.spiegel.de/wissenschaft/nasa-us-raumfahrtbehoerde-plant-mars-raketen-mit-nuklearem-antrieb](https://www.spiegel.de/wissenschaft/nasa-us-raumfahrtbehoerde-plant-mars-raketen-mit-nuklearem-antrieb-a-12e11f4c-46b9-4f22-917f-4191d0dde21b#ref=rss)
+### manuel
+
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess-a-0515cb4f-81e4-4fea-90b8-76edc4e06211#ref=rss)
+### gräfe
+
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess-a-0515cb4f-81e4-4fea-90b8-76edc4e06211#ref=rss)
+### dfb
+
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess-a-0515cb4f-81e4-4fea-90b8-76edc4e06211#ref=rss)
+### lloyd
+
+* [https://www.spiegel.de/kultur/tv/sesamstrasse-initiator-lloyd-morrisett-ist-tot](https://www.spiegel.de/kultur/tv/sesamstrasse-initiator-lloyd-morrisett-ist-tot-a-383e942d-73ac-4aeb-b8eb-39392dd620b7#ref=rss)
+### morrisett
+
+* [https://www.spiegel.de/kultur/tv/sesamstrasse-initiator-lloyd-morrisett-ist-tot](https://www.spiegel.de/kultur/tv/sesamstrasse-initiator-lloyd-morrisett-ist-tot-a-383e942d-73ac-4aeb-b8eb-39392dd620b7#ref=rss)
+### itexperten
+
+* [https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden](https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden-a-ca275898-048f-4364-b352-aa08120b2079#ref=rss)
+### digitalisierung
+
+* [https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden](https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden-a-ca275898-048f-4364-b352-aa08120b2079#ref=rss)
+### behörden
+
+* [https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden](https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden-a-ca275898-048f-4364-b352-aa08120b2079#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
+### bundeswehrverband
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
+### sorgt
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
+### einsatzbereitschaft
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
+### punkte
+
+* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
+### lebron
+
+* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
+### james
+
+* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
+### los
+
+* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
+### angeles
+
+* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
+### lakers
+
+* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
+### coronavirus
+
+* [https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang](https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang-a-1c25351b-4839-4d9f-9e3a-46885e7feb4d#ref=rss)
+### nordkorea
+
+* [https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang](https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang-a-1c25351b-4839-4d9f-9e3a-46885e7feb4d#ref=rss)
+### pjöngjang
+
+* [https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang](https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang-a-1c25351b-4839-4d9f-9e3a-46885e7feb4d#ref=rss)
+### paris
+
+* [https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn](https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn-a-06ed3f28-078f-41b9-af56-528615bf4154#ref=rss)
+### hilton
+
+* [https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn](https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn-a-06ed3f28-078f-41b9-af56-528615bf4154#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn](https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn-a-06ed3f28-078f-41b9-af56-528615bf4154#ref=rss)
+### alle
+
+* [https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn](https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn-a-06ed3f28-078f-41b9-af56-528615bf4154#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm](https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm-a-f7924a64-76bf-433a-be76-9472073e9f5b#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry-a-59b3e8e9-734c-4775-8442-9094638ae967#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry-a-59b3e8e9-734c-4775-8442-9094638ae967#ref=rss)
+### serge
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry-a-59b3e8e9-734c-4775-8442-9094638ae967#ref=rss)
+### gnabry
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry-a-59b3e8e9-734c-4775-8442-9094638ae967#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry-a-59b3e8e9-734c-4775-8442-9094638ae967#ref=rss)
+* [https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open](https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open-a-85eb05e3-5578-4fcd-918a-89ec9be92837#ref=rss)
+### magda
+
+* [https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open](https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open-a-85eb05e3-5578-4fcd-918a-89ec9be92837#ref=rss)
+### linette
+
+* [https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open](https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open-a-85eb05e3-5578-4fcd-918a-89ec9be92837#ref=rss)
+### halbfinale
+
+* [https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open](https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open-a-85eb05e3-5578-4fcd-918a-89ec9be92837#ref=rss)
+### australian
+
+* [https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open](https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open-a-85eb05e3-5578-4fcd-918a-89ec9be92837#ref=rss)
+### open
+
+* [https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open](https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open-a-85eb05e3-5578-4fcd-918a-89ec9be92837#ref=rss)
+### kritisiert
+
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm](https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm-a-f7924a64-76bf-433a-be76-9472073e9f5b#ref=rss)
+### a3
+
+* [https://www.spiegel.de/panorama/a3-in-mittelfranken-bus-mit-schulkindern-faehrt-auf-anhaenger-auf-vollsperrung](https://www.spiegel.de/panorama/a3-in-mittelfranken-bus-mit-schulkindern-faehrt-auf-anhaenger-auf-vollsperrung-a-745f5fb8-6841-44f7-80d0-780e9f778df0#ref=rss)
+### bundespräsident
+
+* [https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80](https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80-a-8e8179c2-d114-479d-b162-60f74d54aef4#ref=rss)
+### dagmar
+
+* [https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80](https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80-a-8e8179c2-d114-479d-b162-60f74d54aef4#ref=rss)
+### berghoff
+
+* [https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80](https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80-a-8e8179c2-d114-479d-b162-60f74d54aef4#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm](https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm-a-f7924a64-76bf-433a-be76-9472073e9f5b#ref=rss)
+### warnstreik
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm](https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm-a-f7924a64-76bf-433a-be76-9472073e9f5b#ref=rss)
 
