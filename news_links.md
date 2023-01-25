@@ -4,317 +4,324 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen](https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen-a-8051128b-69e9-418d-a5bc-9bb9ee342efc#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang](https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang-a-6706b94f-924a-42a6-bc62-d8420fdf7cd8#ref=rss)
-* [https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang](https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang-a-1c25351b-4839-4d9f-9e3a-46885e7feb4d#ref=rss)
-* [https://www.spiegel.de/panorama/a3-in-mittelfranken-bus-mit-schulkindern-faehrt-auf-anhaenger-auf-vollsperrung](https://www.spiegel.de/panorama/a3-in-mittelfranken-bus-mit-schulkindern-faehrt-auf-anhaenger-auf-vollsperrung-a-745f5fb8-6841-44f7-80d0-780e9f778df0#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen-a-0f4413ff-1aa4-4d6a-b9b4-e2f7c38acb28#ref=rss)
-* [https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei](https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei-a-127a9ba0-b5cb-4766-acab-e03b4dbb2671#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
-### microsoft
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/microsoft-gewinneinbruch-durch-schwaches-pc-geschaeft](https://www.spiegel.de/wirtschaft/unternehmen/microsoft-gewinneinbruch-durch-schwaches-pc-geschaeft-a-1d3be73f-9aff-43c6-9a1d-b3c423cf0a78#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert](https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert-a-6e0f6844-acad-4f8d-bece-6591d58ccec9#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
-### deutlich
+* [https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern](https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern-a-1c3ccdeb-7ca5-4040-bf70-a2bbccb1ad95#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-die-neuen-waffenlieferungen-an-kiew-im-ueberblick](https://www.spiegel.de/ausland/russland-ukraine-krieg-die-neuen-waffenlieferungen-an-kiew-im-ueberblick-a-a7a09ca1-7d46-477b-ad35-a7989abb7a7d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt](https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt-a-13a5d1ce-75ae-4399-8522-0f4e2b5f6310#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-panzerentscheidung-von-olaf-scholz-videoanalyse-zur-kehrtwende](https://www.spiegel.de/politik/deutschland/die-panzerentscheidung-von-olaf-scholz-videoanalyse-zur-kehrtwende-a-0ecb0dff-92d2-43e8-a1b5-6d1a29d5dfc1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt-a-417b8f0a-8dd4-44b7-bf19-83c123437731#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/microsoft-gewinneinbruch-durch-schwaches-pc-geschaeft](https://www.spiegel.de/wirtschaft/unternehmen/microsoft-gewinneinbruch-durch-schwaches-pc-geschaeft-a-1d3be73f-9aff-43c6-9a1d-b3c423cf0a78#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher-a-d8f3c028-6ffa-401e-a0b7-ecbfbfbf6332#ref=rss)
-* [https://www.spiegel.de/wissenschaft/nasa-us-raumfahrtbehoerde-plant-mars-raketen-mit-nuklearem-antrieb](https://www.spiegel.de/wissenschaft/nasa-us-raumfahrtbehoerde-plant-mars-raketen-mit-nuklearem-antrieb-a-12e11f4c-46b9-4f22-917f-4191d0dde21b#ref=rss)
-### liefert
+* [https://www.spiegel.de/ausland/aerzte-ohne-grenzen-mehr-als-230-menschen-aus-dem-mittelmeer-gerettet](https://www.spiegel.de/ausland/aerzte-ohne-grenzen-mehr-als-230-menschen-aus-dem-mittelmeer-gerettet-a-5b7ec5d9-fa5a-4583-a807-d22ae87c0105#ref=rss)
+* [https://www.spiegel.de/wissenschaft/menschen-koennen-affen-gesten-besser-verstehen-als-erwartet](https://www.spiegel.de/wissenschaft/menschen-koennen-affen-gesten-besser-verstehen-als-erwartet-a-58dd4c99-7fe4-4d09-a701-9dfbbe05c335#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer](https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer-a-7db80fbc-3558-4786-b0e0-33d6a82f4a16#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
-### kiew
-
-* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/gleichberechtigung-wie-die-ampel-regierung-ostdeutsche-in-topjobs-bringen-will](https://www.spiegel.de/wirtschaft/soziales/gleichberechtigung-wie-die-ampel-regierung-ostdeutsche-in-topjobs-bringen-will-a-6bd86f24-4e0d-461f-adbc-065d485e1a9d#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert](https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert-a-6e0f6844-acad-4f8d-bece-6591d58ccec9#ref=rss)
-* [https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang](https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang-a-1c25351b-4839-4d9f-9e3a-46885e7feb4d#ref=rss)
-### oft
-
-* [https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert](https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert-a-6e0f6844-acad-4f8d-bece-6591d58ccec9#ref=rss)
-* [https://www.spiegel.de/auto/assistenzsysteme-im-auto-warum-sie-so-oft-nerven](https://www.spiegel.de/auto/assistenzsysteme-im-auto-warum-sie-so-oft-nerven-a-f32d480a-9f91-4ffa-825a-1211ad87294f#ref=rss)
-### tag
-
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade](https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade-a-3c3362bc-ab9c-415b-975c-2bcf784ed92d#ref=rss)
-### 12
-
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade](https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade-a-3c3362bc-ab9c-415b-975c-2bcf784ed92d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen-a-0f4413ff-1aa4-4d6a-b9b4-e2f7c38acb28#ref=rss)
-### früher
-
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade](https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade-a-3c3362bc-ab9c-415b-975c-2bcf784ed92d#ref=rss)
-* [https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang](https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang-a-6706b94f-924a-42a6-bc62-d8420fdf7cd8#ref=rss)
-### besseren
-
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade](https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade-a-3c3362bc-ab9c-415b-975c-2bcf784ed92d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/gleichberechtigung-wie-die-ampel-regierung-ostdeutsche-in-topjobs-bringen-will](https://www.spiegel.de/wirtschaft/soziales/gleichberechtigung-wie-die-ampel-regierung-ostdeutsche-in-topjobs-bringen-will-a-6bd86f24-4e0d-461f-adbc-065d485e1a9d#ref=rss)
-### genug
-
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade](https://www.spiegel.de/kultur/tv/dschungelcamp-2013-tag-12-hit-oder-made-so-klaenge-die-dschungelhitparade-a-3c3362bc-ab9c-415b-975c-2bcf784ed92d#ref=rss)
-* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/leute/new-york-frau-verklagt-tyson-nach-mutmasslicher-vergewaltigung-in-den-neunzigern](https://www.spiegel.de/panorama/leute/new-york-frau-verklagt-tyson-nach-mutmasslicher-vergewaltigung-in-den-neunzigern-a-c0296e63-bb8b-45e8-b1dd-b1a1b650b5af#ref=rss)
-* [https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80](https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80-a-8e8179c2-d114-479d-b162-60f74d54aef4#ref=rss)
-### verklagt
-
-* [https://www.spiegel.de/panorama/leute/new-york-frau-verklagt-tyson-nach-mutmasslicher-vergewaltigung-in-den-neunzigern](https://www.spiegel.de/panorama/leute/new-york-frau-verklagt-tyson-nach-mutmasslicher-vergewaltigung-in-den-neunzigern-a-c0296e63-bb8b-45e8-b1dd-b1a1b650b5af#ref=rss)
-### tyson
-
-* [https://www.spiegel.de/panorama/leute/new-york-frau-verklagt-tyson-nach-mutmasslicher-vergewaltigung-in-den-neunzigern](https://www.spiegel.de/panorama/leute/new-york-frau-verklagt-tyson-nach-mutmasslicher-vergewaltigung-in-den-neunzigern-a-c0296e63-bb8b-45e8-b1dd-b1a1b650b5af#ref=rss)
-### studie
-
-* [https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen](https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen-a-8051128b-69e9-418d-a5bc-9bb9ee342efc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden](https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden-a-ca275898-048f-4364-b352-aa08120b2079#ref=rss)
-### meinung
-
-* [https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen](https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen-a-8051128b-69e9-418d-a5bc-9bb9ee342efc#ref=rss)
-### führt
-
-* [https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen](https://www.spiegel.de/wissenschaft/grossbritannien-studie-starke-meinung-fuehrt-zu-selbstueberschaetzung-beim-wissen-a-8051128b-69e9-418d-a5bc-9bb9ee342efc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
-### wahlomat
-
-* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen-a-0f4413ff-1aa4-4d6a-b9b4-e2f7c38acb28#ref=rss)
-### 2023
-
-* [https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen](https://www.spiegel.de/politik/deutschland/wahl-o-mat-fuer-berlin-wen-sie-bei-der-abgeordnetenhauswahl-2023-waehlen-wollen-a-0f4413ff-1aa4-4d6a-b9b4-e2f7c38acb28#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher-a-d8f3c028-6ffa-401e-a0b7-ecbfbfbf6332#ref=rss)
-### justin
-
-* [https://www.spiegel.de/kultur/musik/justin-bieber-popstar-verkauft-musikrechte-fuer-200-millionen-dollar](https://www.spiegel.de/kultur/musik/justin-bieber-popstar-verkauft-musikrechte-fuer-200-millionen-dollar-a-927c0a5a-e5e0-4650-8cb3-57d280e9402d#ref=rss)
-### bieber
-
-* [https://www.spiegel.de/kultur/musik/justin-bieber-popstar-verkauft-musikrechte-fuer-200-millionen-dollar](https://www.spiegel.de/kultur/musik/justin-bieber-popstar-verkauft-musikrechte-fuer-200-millionen-dollar-a-927c0a5a-e5e0-4650-8cb3-57d280e9402d#ref=rss)
-### geschäft
-
-* [https://www.spiegel.de/kultur/musik/justin-bieber-popstar-verkauft-musikrechte-fuer-200-millionen-dollar](https://www.spiegel.de/kultur/musik/justin-bieber-popstar-verkauft-musikrechte-fuer-200-millionen-dollar-a-927c0a5a-e5e0-4650-8cb3-57d280e9402d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher-a-d8f3c028-6ffa-401e-a0b7-ecbfbfbf6332#ref=rss)
-### westen
-
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat-a-302db194-2ea7-4c6f-9b65-82d4a17c9438#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat-a-302db194-2ea7-4c6f-9b65-82d4a17c9438#ref=rss)
-### edward
-
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat-a-302db194-2ea7-4c6f-9b65-82d4a17c9438#ref=rss)
-### berger
-
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat-a-302db194-2ea7-4c6f-9b65-82d4a17c9438#ref=rss)
-### leben
-
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-regisseur-edward-berger-das-passiert-nur-einmal-im-leben-wenn-man-glueck-hat-a-302db194-2ea7-4c6f-9b65-82d4a17c9438#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden](https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden-a-ca275898-048f-4364-b352-aa08120b2079#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang](https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang-a-6706b94f-924a-42a6-bc62-d8420fdf7cd8#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert](https://www.spiegel.de/netzwelt/web/microsoft-teams-und-outlook-offenbar-weltweit-gestoert-a-6e0f6844-acad-4f8d-bece-6591d58ccec9#ref=rss)
-### dürfen
-
-* [https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang](https://www.spiegel.de/panorama/polizei-polizeibehoerden-kaempfen-mit-bewerberrueckgang-a-6706b94f-924a-42a6-bc62-d8420fdf7cd8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess-a-0515cb4f-81e4-4fea-90b8-76edc4e06211#ref=rss)
-### zuversichtlicher
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher-a-d8f3c028-6ffa-401e-a0b7-ecbfbfbf6332#ref=rss)
-### allerdings
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher](https://www.spiegel.de/wirtschaft/unternehmen/ifo-index-steigt-im-januar-firmen-sind-zuversichtlicher-a-d8f3c028-6ffa-401e-a0b7-ecbfbfbf6332#ref=rss)
-* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
-### panzerlieferungen
-
-* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
-### kampfpanzer
-
-* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
-### fordert
-
-* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer](https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer-a-7a4a919e-5701-458f-b538-880d125baa6c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern](https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern-a-1c3ccdeb-7ca5-4040-bf70-a2bbccb1ad95#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug](https://www.spiegel.de/ausland/panzerlieferungen-fuer-die-ukraine-wie-viele-leoparden-sind-genug-a-1d76b8dc-27fd-4c90-9b2a-54fc1352c060#ref=rss)
-* [https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei](https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei-a-127a9ba0-b5cb-4766-acab-e03b4dbb2671#ref=rss)
-### 14jähriger
+* [https://www.spiegel.de/ausland/aerzte-ohne-grenzen-mehr-als-230-menschen-aus-dem-mittelmeer-gerettet](https://www.spiegel.de/ausland/aerzte-ohne-grenzen-mehr-als-230-menschen-aus-dem-mittelmeer-gerettet-a-5b7ec5d9-fa5a-4583-a807-d22ae87c0105#ref=rss)
+* [https://www.spiegel.de/ausland/frankreich-zieht-soldaten-binnen-eines-monats-aus-burkina-faso-ab](https://www.spiegel.de/ausland/frankreich-zieht-soldaten-binnen-eines-monats-aus-burkina-faso-ab-a-48b3c5f2-d89c-4d58-89c2-610ed46075b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt-a-417b8f0a-8dd4-44b7-bf19-83c123437731#ref=rss)
+### erst
 
-* [https://www.spiegel.de/panorama/justiz/wunstorf-vermisster-jugendlicher-14-jaehriger-als-tatverdaechtiger-in-gewahrsam](https://www.spiegel.de/panorama/justiz/wunstorf-vermisster-jugendlicher-14-jaehriger-als-tatverdaechtiger-in-gewahrsam-a-cbd95a66-6a5e-4336-aea8-37d796541899#ref=rss)
-### friedrichstraße
+* [https://www.spiegel.de/ausland/aerzte-ohne-grenzen-mehr-als-230-menschen-aus-dem-mittelmeer-gerettet](https://www.spiegel.de/ausland/aerzte-ohne-grenzen-mehr-als-230-menschen-aus-dem-mittelmeer-gerettet-a-5b7ec5d9-fa5a-4583-a807-d22ae87c0105#ref=rss)
+* [https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern](https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern-a-1c3ccdeb-7ca5-4040-bf70-a2bbccb1ad95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-panzerentscheidung-von-olaf-scholz-videoanalyse-zur-kehrtwende](https://www.spiegel.de/politik/deutschland/die-panzerentscheidung-von-olaf-scholz-videoanalyse-zur-kehrtwende-a-0ecb0dff-92d2-43e8-a1b5-6d1a29d5dfc1#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/nick-fuentes-twitter-gibt-notorischem-holocaust-leugner-sein-konto-zurueck](https://www.spiegel.de/netzwelt/netzpolitik/nick-fuentes-twitter-gibt-notorischem-holocaust-leugner-sein-konto-zurueck-a-7a62bbf3-7c55-4f5e-b0df-cad0ad28070f#ref=rss)
+### liefern
 
-* [https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei](https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei-a-127a9ba0-b5cb-4766-acab-e03b4dbb2671#ref=rss)
-### entscheidung
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer](https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer-a-7a4a919e-5701-458f-b538-880d125baa6c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern](https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern-a-1c3ccdeb-7ca5-4040-bf70-a2bbccb1ad95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau-a-e2df91d5-9c2b-44f3-93aa-33aae7bf8016#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt-a-417b8f0a-8dd4-44b7-bf19-83c123437731#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei](https://www.spiegel.de/auto/berlin-friedrichstrasse-ab-montag-wieder-autofrei-a-127a9ba0-b5cb-4766-acab-e03b4dbb2671#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
-### mittwoch
+* [https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug](https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug-a-18c434c5-0128-4d98-85d3-f8974a93e9c0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/nrw-bei-vorgetaeuschtem-sextreffen-zwei-maenner-sollen-56-jaehrigen-ermordet-haben](https://www.spiegel.de/panorama/justiz/nrw-bei-vorgetaeuschtem-sextreffen-zwei-maenner-sollen-56-jaehrigen-ermordet-haben-a-5e8f940e-f6e1-4c21-a5f9-4fd4ab7fc34b#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
-* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess-a-0515cb4f-81e4-4fea-90b8-76edc4e06211#ref=rss)
-### 14
+* [https://www.spiegel.de/wirtschaft/wirecard-markus-braun-fordert-verfahrensstopp-und-scheitert](https://www.spiegel.de/wirtschaft/wirecard-markus-braun-fordert-verfahrensstopp-und-scheitert-a-06ca95ec-6380-4488-93eb-639a33c9fe55#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt](https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt-a-13a5d1ce-75ae-4399-8522-0f4e2b5f6310#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt-a-417b8f0a-8dd4-44b7-bf19-83c123437731#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer](https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer-a-7a4a919e-5701-458f-b538-880d125baa6c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern](https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern-a-1c3ccdeb-7ca5-4040-bf70-a2bbccb1ad95#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt](https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt-a-13a5d1ce-75ae-4399-8522-0f4e2b5f6310#ref=rss)
 ### leopardpanzer
 
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer](https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer-a-7a4a919e-5701-458f-b538-880d125baa6c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt](https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt-a-13a5d1ce-75ae-4399-8522-0f4e2b5f6310#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt-a-417b8f0a-8dd4-44b7-bf19-83c123437731#ref=rss)
+### eltern
+
+* [https://www.spiegel.de/familie/wenn-die-eltern-psychisch-krank-sind-beschwerte-kindheit](https://www.spiegel.de/familie/wenn-die-eltern-psychisch-krank-sind-beschwerte-kindheit-a-9943a442-0002-0001-0000-000207390131#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/lehrermangel-ja-zu-quereinsteigern-nein-zu-grossen-klassen-mehrheit-der-eltern-erlebt-unterrichtsausfall](https://www.spiegel.de/panorama/bildung/lehrermangel-ja-zu-quereinsteigern-nein-zu-grossen-klassen-mehrheit-der-eltern-erlebt-unterrichtsausfall-a-ce9d747c-1636-4c61-b576-33a3bb8408a4#ref=rss)
+### moskau
+
+* [https://www.spiegel.de/ausland/frankreich-zieht-soldaten-binnen-eines-monats-aus-burkina-faso-ab](https://www.spiegel.de/ausland/frankreich-zieht-soldaten-binnen-eines-monats-aus-burkina-faso-ab-a-48b3c5f2-d89c-4d58-89c2-610ed46075b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau-a-e2df91d5-9c2b-44f3-93aa-33aae7bf8016#ref=rss)
+### olaf
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau-a-e2df91d5-9c2b-44f3-93aa-33aae7bf8016#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-panzerentscheidung-von-olaf-scholz-videoanalyse-zur-kehrtwende](https://www.spiegel.de/politik/deutschland/die-panzerentscheidung-von-olaf-scholz-videoanalyse-zur-kehrtwende-a-0ecb0dff-92d2-43e8-a1b5-6d1a29d5dfc1#ref=rss)
+### scholz
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau-a-e2df91d5-9c2b-44f3-93aa-33aae7bf8016#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-panzerentscheidung-von-olaf-scholz-videoanalyse-zur-kehrtwende](https://www.spiegel.de/politik/deutschland/die-panzerentscheidung-von-olaf-scholz-videoanalyse-zur-kehrtwende-a-0ecb0dff-92d2-43e8-a1b5-6d1a29d5dfc1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt-a-417b8f0a-8dd4-44b7-bf19-83c123437731#ref=rss)
+### kiew
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau-a-e2df91d5-9c2b-44f3-93aa-33aae7bf8016#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-die-neuen-waffenlieferungen-an-kiew-im-ueberblick](https://www.spiegel.de/ausland/russland-ukraine-krieg-die-neuen-waffenlieferungen-an-kiew-im-ueberblick-a-a7a09ca1-7d46-477b-ad35-a7989abb7a7d#ref=rss)
+### kanzler
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau-a-e2df91d5-9c2b-44f3-93aa-33aae7bf8016#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-panzerentscheidung-von-olaf-scholz-videoanalyse-zur-kehrtwende](https://www.spiegel.de/politik/deutschland/die-panzerentscheidung-von-olaf-scholz-videoanalyse-zur-kehrtwende-a-0ecb0dff-92d2-43e8-a1b5-6d1a29d5dfc1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt-a-417b8f0a-8dd4-44b7-bf19-83c123437731#ref=rss)
+### brokstedt
+
+* [https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug](https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug-a-18c434c5-0128-4d98-85d3-f8974a93e9c0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer](https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer-a-7db80fbc-3558-4786-b0e0-33d6a82f4a16#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug](https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug-a-18c434c5-0128-4d98-85d3-f8974a93e9c0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer](https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer-a-7db80fbc-3558-4786-b0e0-33d6a82f4a16#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug](https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug-a-18c434c5-0128-4d98-85d3-f8974a93e9c0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer](https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer-a-7db80fbc-3558-4786-b0e0-33d6a82f4a16#ref=rss)
+### jahreswirtschaftsbericht
+
+* [https://www.spiegel.de/wirtschaft/jahreswirtschaftsbericht-so-truebe-ist-deutschlands-wirtschaftliche-zukunft-wirklich](https://www.spiegel.de/wirtschaft/jahreswirtschaftsbericht-so-truebe-ist-deutschlands-wirtschaftliche-zukunft-wirklich-a-9ec80833-796a-46a1-8987-5f8193fa1127#ref=rss)
+* [https://www.spiegel.de/wirtschaft/robert-habeck-erwartet-konjunkturaufhellung-ab-fruehjahr](https://www.spiegel.de/wirtschaft/robert-habeck-erwartet-konjunkturaufhellung-ab-fruehjahr-a-6e5b75f1-c038-4e09-98d7-18fa4068cb65#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/wirtschaft/jahreswirtschaftsbericht-so-truebe-ist-deutschlands-wirtschaftliche-zukunft-wirklich](https://www.spiegel.de/wirtschaft/jahreswirtschaftsbericht-so-truebe-ist-deutschlands-wirtschaftliche-zukunft-wirklich-a-9ec80833-796a-46a1-8987-5f8193fa1127#ref=rss)
 * [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
-### melnyk
+### lange
+
+* [https://www.spiegel.de/wirtschaft/jahreswirtschaftsbericht-so-truebe-ist-deutschlands-wirtschaftliche-zukunft-wirklich](https://www.spiegel.de/wirtschaft/jahreswirtschaftsbericht-so-truebe-ist-deutschlands-wirtschaftliche-zukunft-wirklich-a-9ec80833-796a-46a1-8987-5f8193fa1127#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt-a-417b8f0a-8dd4-44b7-bf19-83c123437731#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/ausland/aerzte-ohne-grenzen-mehr-als-230-menschen-aus-dem-mittelmeer-gerettet](https://www.spiegel.de/ausland/aerzte-ohne-grenzen-mehr-als-230-menschen-aus-dem-mittelmeer-gerettet-a-5b7ec5d9-fa5a-4583-a807-d22ae87c0105#ref=rss)
+* [https://www.spiegel.de/kultur/tv/rick-und-morty-adult-swim-trennt-sich-von-justin-roiland-serie-geht-weiter](https://www.spiegel.de/kultur/tv/rick-und-morty-adult-swim-trennt-sich-von-justin-roiland-serie-geht-weiter-a-ca4b0fb3-84ca-4b78-8b12-bbf4db3e6fb0#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/ausland/aerzte-ohne-grenzen-mehr-als-230-menschen-aus-dem-mittelmeer-gerettet](https://www.spiegel.de/ausland/aerzte-ohne-grenzen-mehr-als-230-menschen-aus-dem-mittelmeer-gerettet-a-5b7ec5d9-fa5a-4583-a807-d22ae87c0105#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer](https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer-a-7db80fbc-3558-4786-b0e0-33d6a82f4a16#ref=rss)
+### gut
+
+* [https://www.spiegel.de/wirtschaft/griff-zu-handelsmarken-der-supermaerkte-kann-sich-lohnen](https://www.spiegel.de/wirtschaft/griff-zu-handelsmarken-der-supermaerkte-kann-sich-lohnen-a-682812e9-0ead-4f88-9ea5-5c8e7cc04865#ref=rss)
+* [https://www.spiegel.de/wirtschaft/geschaeftszahlen-2022-rwe-mit-ueberraschend-starkem-gewinn](https://www.spiegel.de/wirtschaft/geschaeftszahlen-2022-rwe-mit-ueberraschend-starkem-gewinn-a-a6675be4-4a59-478c-a3bd-01d0a6c4e738#ref=rss)
+### markus
+
+* [https://www.spiegel.de/wirtschaft/wirecard-markus-braun-fordert-verfahrensstopp-und-scheitert](https://www.spiegel.de/wirtschaft/wirecard-markus-braun-fordert-verfahrensstopp-und-scheitert-a-06ca95ec-6380-4488-93eb-639a33c9fe55#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/markus-soeder-csu-loescht-umstrittenen-clip-auf-tiktok](https://www.spiegel.de/politik/deutschland/markus-soeder-csu-loescht-umstrittenen-clip-auf-tiktok-a-a0220fc8-0d1f-4401-a84a-48e02f9d648c#ref=rss)
+### verteidigung
+
+* [https://www.spiegel.de/wirtschaft/wirecard-markus-braun-fordert-verfahrensstopp-und-scheitert](https://www.spiegel.de/wirtschaft/wirecard-markus-braun-fordert-verfahrensstopp-und-scheitert-a-06ca95ec-6380-4488-93eb-639a33c9fe55#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-die-neuen-waffenlieferungen-an-kiew-im-ueberblick](https://www.spiegel.de/ausland/russland-ukraine-krieg-die-neuen-waffenlieferungen-an-kiew-im-ueberblick-a-a7a09ca1-7d46-477b-ad35-a7989abb7a7d#ref=rss)
+### 31
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer](https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer-a-7a4a919e-5701-458f-b538-880d125baa6c#ref=rss)
+### abramskampfpanzer
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer](https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer-a-7a4a919e-5701-458f-b538-880d125baa6c#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer](https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer-a-7a4a919e-5701-458f-b538-880d125baa6c#ref=rss)
+* [https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern](https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern-a-1c3ccdeb-7ca5-4040-bf70-a2bbccb1ad95#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer](https://www.spiegel.de/ausland/ukraine-krieg-usa-liefern-31-abrams-kampfpanzer-a-7a4a919e-5701-458f-b538-880d125baa6c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer](https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer-a-7db80fbc-3558-4786-b0e0-33d6a82f4a16#ref=rss)
+### burkina
+
+* [https://www.spiegel.de/ausland/frankreich-zieht-soldaten-binnen-eines-monats-aus-burkina-faso-ab](https://www.spiegel.de/ausland/frankreich-zieht-soldaten-binnen-eines-monats-aus-burkina-faso-ab-a-48b3c5f2-d89c-4d58-89c2-610ed46075b1#ref=rss)
+### faso
+
+* [https://www.spiegel.de/ausland/frankreich-zieht-soldaten-binnen-eines-monats-aus-burkina-faso-ab](https://www.spiegel.de/ausland/frankreich-zieht-soldaten-binnen-eines-monats-aus-burkina-faso-ab-a-48b3c5f2-d89c-4d58-89c2-610ed46075b1#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern](https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern-a-1c3ccdeb-7ca5-4040-bf70-a2bbccb1ad95#ref=rss)
+* [https://www.spiegel.de/sport/fussball/krawalle-in-nizza-fan-des-1-fc-koeln-erhaelt-18-monate-freiheitsstrafe](https://www.spiegel.de/sport/fussball/krawalle-in-nizza-fan-des-1-fc-koeln-erhaelt-18-monate-freiheitsstrafe-a-e6a19530-1f18-48db-83a8-695344258f7c#ref=rss)
+### zufolge
+
+* [https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern](https://www.spiegel.de/ausland/usa-bericht-ueber-abrams-panzer-aus-den-usa-lieferung-an-die-ukraine-koennte-jahre-dauern-a-1c3ccdeb-7ca5-4040-bf70-a2bbccb1ad95#ref=rss)
+* [https://www.spiegel.de/wissenschaft/menschen-koennen-affen-gesten-besser-verstehen-als-erwartet](https://www.spiegel.de/wissenschaft/menschen-koennen-affen-gesten-besser-verstehen-als-erwartet-a-58dd4c99-7fe4-4d09-a701-9dfbbe05c335#ref=rss)
+### news
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau-a-e2df91d5-9c2b-44f3-93aa-33aae7bf8016#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+### verteidigt
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau-a-e2df91d5-9c2b-44f3-93aa-33aae7bf8016#ref=rss)
+### reaktionen
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau-a-e2df91d5-9c2b-44f3-93aa-33aae7bf8016#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+### panzerentscheidung
+
+* [https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau](https://www.spiegel.de/politik/deutschland/news-olaf-scholz-verteidigt-panzerlieferungen-panzermodelle-reaktionen-in-kiew-und-moskau-a-e2df91d5-9c2b-44f3-93aa-33aae7bf8016#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-panzerentscheidung-von-olaf-scholz-videoanalyse-zur-kehrtwende](https://www.spiegel.de/politik/deutschland/die-panzerentscheidung-von-olaf-scholz-videoanalyse-zur-kehrtwende-a-0ecb0dff-92d2-43e8-a1b5-6d1a29d5dfc1#ref=rss)
+### rwe
+
+* [https://www.spiegel.de/wirtschaft/geschaeftszahlen-2022-rwe-mit-ueberraschend-starkem-gewinn](https://www.spiegel.de/wirtschaft/geschaeftszahlen-2022-rwe-mit-ueberraschend-starkem-gewinn-a-a6675be4-4a59-478c-a3bd-01d0a6c4e738#ref=rss)
+### gewinn
+
+* [https://www.spiegel.de/wirtschaft/geschaeftszahlen-2022-rwe-mit-ueberraschend-starkem-gewinn](https://www.spiegel.de/wirtschaft/geschaeftszahlen-2022-rwe-mit-ueberraschend-starkem-gewinn-a-a6675be4-4a59-478c-a3bd-01d0a6c4e738#ref=rss)
+### hoch
+
+* [https://www.spiegel.de/wirtschaft/geschaeftszahlen-2022-rwe-mit-ueberraschend-starkem-gewinn](https://www.spiegel.de/wirtschaft/geschaeftszahlen-2022-rwe-mit-ueberraschend-starkem-gewinn-a-a6675be4-4a59-478c-a3bd-01d0a6c4e738#ref=rss)
+* [https://www.spiegel.de/wirtschaft/robert-habeck-erwartet-konjunkturaufhellung-ab-fruehjahr](https://www.spiegel.de/wirtschaft/robert-habeck-erwartet-konjunkturaufhellung-ab-fruehjahr-a-6e5b75f1-c038-4e09-98d7-18fa4068cb65#ref=rss)
+### rick
+
+* [https://www.spiegel.de/kultur/tv/rick-und-morty-adult-swim-trennt-sich-von-justin-roiland-serie-geht-weiter](https://www.spiegel.de/kultur/tv/rick-und-morty-adult-swim-trennt-sich-von-justin-roiland-serie-geht-weiter-a-ca4b0fb3-84ca-4b78-8b12-bbf4db3e6fb0#ref=rss)
+### morty
+
+* [https://www.spiegel.de/kultur/tv/rick-und-morty-adult-swim-trennt-sich-von-justin-roiland-serie-geht-weiter](https://www.spiegel.de/kultur/tv/rick-und-morty-adult-swim-trennt-sich-von-justin-roiland-serie-geht-weiter-a-ca4b0fb3-84ca-4b78-8b12-bbf4db3e6fb0#ref=rss)
+### justin
+
+* [https://www.spiegel.de/kultur/tv/rick-und-morty-adult-swim-trennt-sich-von-justin-roiland-serie-geht-weiter](https://www.spiegel.de/kultur/tv/rick-und-morty-adult-swim-trennt-sich-von-justin-roiland-serie-geht-weiter-a-ca4b0fb3-84ca-4b78-8b12-bbf4db3e6fb0#ref=rss)
+### roiland
+
+* [https://www.spiegel.de/kultur/tv/rick-und-morty-adult-swim-trennt-sich-von-justin-roiland-serie-geht-weiter](https://www.spiegel.de/kultur/tv/rick-und-morty-adult-swim-trennt-sich-von-justin-roiland-serie-geht-weiter-a-ca4b0fb3-84ca-4b78-8b12-bbf4db3e6fb0#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/kultur/tv/rick-und-morty-adult-swim-trennt-sich-von-justin-roiland-serie-geht-weiter](https://www.spiegel.de/kultur/tv/rick-und-morty-adult-swim-trennt-sich-von-justin-roiland-serie-geht-weiter-a-ca4b0fb3-84ca-4b78-8b12-bbf4db3e6fb0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-erhaelt-vom-dfb-48-500-euro-entschaedigung-wegen-altersdiskriminierung](https://www.spiegel.de/sport/fussball/manuel-graefe-erhaelt-vom-dfb-48-500-euro-entschaedigung-wegen-altersdiskriminierung-a-ae2f93c1-36b1-4311-8888-0cfb45f9d72d#ref=rss)
+### überblick
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-die-neuen-waffenlieferungen-an-kiew-im-ueberblick](https://www.spiegel.de/ausland/russland-ukraine-krieg-die-neuen-waffenlieferungen-an-kiew-im-ueberblick-a-a7a09ca1-7d46-477b-ad35-a7989abb7a7d#ref=rss)
+### russland
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-die-neuen-waffenlieferungen-an-kiew-im-ueberblick](https://www.spiegel.de/ausland/russland-ukraine-krieg-die-neuen-waffenlieferungen-an-kiew-im-ueberblick-a-a7a09ca1-7d46-477b-ad35-a7989abb7a7d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt](https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt-a-13a5d1ce-75ae-4399-8522-0f4e2b5f6310#ref=rss)
+### länder
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-die-neuen-waffenlieferungen-an-kiew-im-ueberblick](https://www.spiegel.de/ausland/russland-ukraine-krieg-die-neuen-waffenlieferungen-an-kiew-im-ueberblick-a-a7a09ca1-7d46-477b-ad35-a7989abb7a7d#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/netzwelt/web/dhl-warnt-vor-betruegerischen-sms](https://www.spiegel.de/netzwelt/web/dhl-warnt-vor-betruegerischen-sms-a-da3efce0-d047-4845-b9bb-ed7526916618#ref=rss)
+### verstehen
+
+* [https://www.spiegel.de/wissenschaft/menschen-koennen-affen-gesten-besser-verstehen-als-erwartet](https://www.spiegel.de/wissenschaft/menschen-koennen-affen-gesten-besser-verstehen-als-erwartet-a-58dd4c99-7fe4-4d09-a701-9dfbbe05c335#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/wissenschaft/menschen-koennen-affen-gesten-besser-verstehen-als-erwartet](https://www.spiegel.de/wissenschaft/menschen-koennen-affen-gesten-besser-verstehen-als-erwartet-a-58dd4c99-7fe4-4d09-a701-9dfbbe05c335#ref=rss)
+* [https://www.spiegel.de/wirtschaft/robert-habeck-erwartet-konjunkturaufhellung-ab-fruehjahr](https://www.spiegel.de/wirtschaft/robert-habeck-erwartet-konjunkturaufhellung-ab-fruehjahr-a-6e5b75f1-c038-4e09-98d7-18fa4068cb65#ref=rss)
+### jürgen
+
+* [https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt](https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt-a-13a5d1ce-75ae-4399-8522-0f4e2b5f6310#ref=rss)
+### trittin
+
+* [https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt](https://www.spiegel.de/politik/deutschland/juergen-trittin-zu-leopard-lieferungen-wir-wollen-ernsthaft-verhindern-dass-russland-die-ukraine-ueberrennt-a-13a5d1ce-75ae-4399-8522-0f4e2b5f6310#ref=rss)
+### tote
+
+* [https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug](https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug-a-18c434c5-0128-4d98-85d3-f8974a93e9c0#ref=rss)
+### regionalzug
+
+* [https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug](https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug-a-18c434c5-0128-4d98-85d3-f8974a93e9c0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer](https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer-a-7db80fbc-3558-4786-b0e0-33d6a82f4a16#ref=rss)
+### festgenommen
+
+* [https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug](https://www.spiegel.de/panorama/justiz/brokstedt-zwei-tote-und-mehrere-verletzte-bei-messerangriff-in-regionalzug-a-18c434c5-0128-4d98-85d3-f8974a93e9c0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wunstorf-leiche-des-vermissten-14-jaehrigen-gefunden-gleichaltriger-festgenommen](https://www.spiegel.de/panorama/justiz/wunstorf-leiche-des-vermissten-14-jaehrigen-gefunden-gleichaltriger-festgenommen-a-51cff3f0-e077-4c0e-865e-f68edac2462b#ref=rss)
+### messer
+
+* [https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer](https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer-a-7db80fbc-3558-4786-b0e0-33d6a82f4a16#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer](https://www.spiegel.de/panorama/justiz/brokstedt-mann-verletzt-mehrere-reisende-mit-messer-a-7db80fbc-3558-4786-b0e0-33d6a82f4a16#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wunstorf-leiche-des-vermissten-14-jaehrigen-gefunden-gleichaltriger-festgenommen](https://www.spiegel.de/panorama/justiz/wunstorf-leiche-des-vermissten-14-jaehrigen-gefunden-gleichaltriger-festgenommen-a-51cff3f0-e077-4c0e-865e-f68edac2462b#ref=rss)
+### kuleba
 
 * [https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew](https://www.spiegel.de/ausland/ukraine-news-am-mittwoch-melnyk-fordert-kampfjets-und-u-boote-fuer-kiew-a-60c6c630-fb3d-442d-935c-998ee72b4d95#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
-### usraumfahrtbehörde
+### landshut
 
-* [https://www.spiegel.de/wissenschaft/nasa-us-raumfahrtbehoerde-plant-mars-raketen-mit-nuklearem-antrieb](https://www.spiegel.de/wissenschaft/nasa-us-raumfahrtbehoerde-plant-mars-raketen-mit-nuklearem-antrieb-a-12e11f4c-46b9-4f22-917f-4191d0dde21b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/landshut-freundin-nach-trennung-mit-hammer-erschlagen-lebenslange-haft](https://www.spiegel.de/panorama/justiz/landshut-freundin-nach-trennung-mit-hammer-erschlagen-lebenslange-haft-a-4038fec6-a9b6-43c5-b5fb-6843ecb1e511#ref=rss)
+### nick
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/nick-fuentes-twitter-gibt-notorischem-holocaust-leugner-sein-konto-zurueck](https://www.spiegel.de/netzwelt/netzpolitik/nick-fuentes-twitter-gibt-notorischem-holocaust-leugner-sein-konto-zurueck-a-7a62bbf3-7c55-4f5e-b0df-cad0ad28070f#ref=rss)
+### fuentes
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/nick-fuentes-twitter-gibt-notorischem-holocaust-leugner-sein-konto-zurueck](https://www.spiegel.de/netzwelt/netzpolitik/nick-fuentes-twitter-gibt-notorischem-holocaust-leugner-sein-konto-zurueck-a-7a62bbf3-7c55-4f5e-b0df-cad0ad28070f#ref=rss)
+### twitter
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/nick-fuentes-twitter-gibt-notorischem-holocaust-leugner-sein-konto-zurueck](https://www.spiegel.de/netzwelt/netzpolitik/nick-fuentes-twitter-gibt-notorischem-holocaust-leugner-sein-konto-zurueck-a-7a62bbf3-7c55-4f5e-b0df-cad0ad28070f#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/nick-fuentes-twitter-gibt-notorischem-holocaust-leugner-sein-konto-zurueck](https://www.spiegel.de/netzwelt/netzpolitik/nick-fuentes-twitter-gibt-notorischem-holocaust-leugner-sein-konto-zurueck-a-7a62bbf3-7c55-4f5e-b0df-cad0ad28070f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/robert-habeck-erwartet-konjunkturaufhellung-ab-fruehjahr](https://www.spiegel.de/wirtschaft/robert-habeck-erwartet-konjunkturaufhellung-ab-fruehjahr-a-6e5b75f1-c038-4e09-98d7-18fa4068cb65#ref=rss)
+### nrw
+
+* [https://www.spiegel.de/panorama/justiz/nrw-bei-vorgetaeuschtem-sextreffen-zwei-maenner-sollen-56-jaehrigen-ermordet-haben](https://www.spiegel.de/panorama/justiz/nrw-bei-vorgetaeuschtem-sextreffen-zwei-maenner-sollen-56-jaehrigen-ermordet-haben-a-5e8f940e-f6e1-4c21-a5f9-4fd4ab7fc34b#ref=rss)
+### 56jährigen
+
+* [https://www.spiegel.de/panorama/justiz/nrw-bei-vorgetaeuschtem-sextreffen-zwei-maenner-sollen-56-jaehrigen-ermordet-haben](https://www.spiegel.de/panorama/justiz/nrw-bei-vorgetaeuschtem-sextreffen-zwei-maenner-sollen-56-jaehrigen-ermordet-haben-a-5e8f940e-f6e1-4c21-a5f9-4fd4ab7fc34b#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/panorama/justiz/nrw-bei-vorgetaeuschtem-sextreffen-zwei-maenner-sollen-56-jaehrigen-ermordet-haben](https://www.spiegel.de/panorama/justiz/nrw-bei-vorgetaeuschtem-sextreffen-zwei-maenner-sollen-56-jaehrigen-ermordet-haben-a-5e8f940e-f6e1-4c21-a5f9-4fd4ab7fc34b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/wunstorf-leiche-des-vermissten-14-jaehrigen-gefunden-gleichaltriger-festgenommen](https://www.spiegel.de/panorama/justiz/wunstorf-leiche-des-vermissten-14-jaehrigen-gefunden-gleichaltriger-festgenommen-a-51cff3f0-e077-4c0e-865e-f68edac2462b#ref=rss)
+### lehrermangel
+
+* [https://www.spiegel.de/panorama/bildung/lehrermangel-ja-zu-quereinsteigern-nein-zu-grossen-klassen-mehrheit-der-eltern-erlebt-unterrichtsausfall](https://www.spiegel.de/panorama/bildung/lehrermangel-ja-zu-quereinsteigern-nein-zu-grossen-klassen-mehrheit-der-eltern-erlebt-unterrichtsausfall-a-ce9d747c-1636-4c61-b576-33a3bb8408a4#ref=rss)
+### unterrichtsausfall
+
+* [https://www.spiegel.de/panorama/bildung/lehrermangel-ja-zu-quereinsteigern-nein-zu-grossen-klassen-mehrheit-der-eltern-erlebt-unterrichtsausfall](https://www.spiegel.de/panorama/bildung/lehrermangel-ja-zu-quereinsteigern-nein-zu-grossen-klassen-mehrheit-der-eltern-erlebt-unterrichtsausfall-a-ce9d747c-1636-4c61-b576-33a3bb8408a4#ref=rss)
+### robert
+
+* [https://www.spiegel.de/wirtschaft/robert-habeck-erwartet-konjunkturaufhellung-ab-fruehjahr](https://www.spiegel.de/wirtschaft/robert-habeck-erwartet-konjunkturaufhellung-ab-fruehjahr-a-6e5b75f1-c038-4e09-98d7-18fa4068cb65#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/wirtschaft/robert-habeck-erwartet-konjunkturaufhellung-ab-fruehjahr](https://www.spiegel.de/wirtschaft/robert-habeck-erwartet-konjunkturaufhellung-ab-fruehjahr-a-6e5b75f1-c038-4e09-98d7-18fa4068cb65#ref=rss)
+### rolf
+
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt-a-417b8f0a-8dd4-44b7-bf19-83c123437731#ref=rss)
+### mützenich
+
+* [https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt](https://www.spiegel.de/politik/deutschland/rolf-muetzenich-zur-panzer-debatte-die-staendigen-querschuesse-haben-mehr-geschadet-als-genutzt-a-417b8f0a-8dd4-44b7-bf19-83c123437731#ref=rss)
+### leiche
+
+* [https://www.spiegel.de/panorama/justiz/wunstorf-leiche-des-vermissten-14-jaehrigen-gefunden-gleichaltriger-festgenommen](https://www.spiegel.de/panorama/justiz/wunstorf-leiche-des-vermissten-14-jaehrigen-gefunden-gleichaltriger-festgenommen-a-51cff3f0-e077-4c0e-865e-f68edac2462b#ref=rss)
+### vermissten
+
+* [https://www.spiegel.de/panorama/justiz/wunstorf-leiche-des-vermissten-14-jaehrigen-gefunden-gleichaltriger-festgenommen](https://www.spiegel.de/panorama/justiz/wunstorf-leiche-des-vermissten-14-jaehrigen-gefunden-gleichaltriger-festgenommen-a-51cff3f0-e077-4c0e-865e-f68edac2462b#ref=rss)
+### gefunden
+
+* [https://www.spiegel.de/panorama/justiz/wunstorf-leiche-des-vermissten-14-jaehrigen-gefunden-gleichaltriger-festgenommen](https://www.spiegel.de/panorama/justiz/wunstorf-leiche-des-vermissten-14-jaehrigen-gefunden-gleichaltriger-festgenommen-a-51cff3f0-e077-4c0e-865e-f68edac2462b#ref=rss)
 ### manuel
 
-* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess-a-0515cb4f-81e4-4fea-90b8-76edc4e06211#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-erhaelt-vom-dfb-48-500-euro-entschaedigung-wegen-altersdiskriminierung](https://www.spiegel.de/sport/fussball/manuel-graefe-erhaelt-vom-dfb-48-500-euro-entschaedigung-wegen-altersdiskriminierung-a-ae2f93c1-36b1-4311-8888-0cfb45f9d72d#ref=rss)
 ### gräfe
 
-* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess-a-0515cb4f-81e4-4fea-90b8-76edc4e06211#ref=rss)
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-erhaelt-vom-dfb-48-500-euro-entschaedigung-wegen-altersdiskriminierung](https://www.spiegel.de/sport/fussball/manuel-graefe-erhaelt-vom-dfb-48-500-euro-entschaedigung-wegen-altersdiskriminierung-a-ae2f93c1-36b1-4311-8888-0cfb45f9d72d#ref=rss)
+### erhält
+
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-erhaelt-vom-dfb-48-500-euro-entschaedigung-wegen-altersdiskriminierung](https://www.spiegel.de/sport/fussball/manuel-graefe-erhaelt-vom-dfb-48-500-euro-entschaedigung-wegen-altersdiskriminierung-a-ae2f93c1-36b1-4311-8888-0cfb45f9d72d#ref=rss)
+* [https://www.spiegel.de/sport/fussball/krawalle-in-nizza-fan-des-1-fc-koeln-erhaelt-18-monate-freiheitsstrafe](https://www.spiegel.de/sport/fussball/krawalle-in-nizza-fan-des-1-fc-koeln-erhaelt-18-monate-freiheitsstrafe-a-e6a19530-1f18-48db-83a8-695344258f7c#ref=rss)
 ### dfb
 
-* [https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess](https://www.spiegel.de/sport/fussball/manuel-graefe-gegen-dfb-darum-geht-es-in-dem-schiedsrichterprozess-a-0515cb4f-81e4-4fea-90b8-76edc4e06211#ref=rss)
-### lloyd
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-erhaelt-vom-dfb-48-500-euro-entschaedigung-wegen-altersdiskriminierung](https://www.spiegel.de/sport/fussball/manuel-graefe-erhaelt-vom-dfb-48-500-euro-entschaedigung-wegen-altersdiskriminierung-a-ae2f93c1-36b1-4311-8888-0cfb45f9d72d#ref=rss)
+### altersdiskriminierung
 
-* [https://www.spiegel.de/kultur/tv/sesamstrasse-initiator-lloyd-morrisett-ist-tot](https://www.spiegel.de/kultur/tv/sesamstrasse-initiator-lloyd-morrisett-ist-tot-a-383e942d-73ac-4aeb-b8eb-39392dd620b7#ref=rss)
-### morrisett
+* [https://www.spiegel.de/sport/fussball/manuel-graefe-erhaelt-vom-dfb-48-500-euro-entschaedigung-wegen-altersdiskriminierung](https://www.spiegel.de/sport/fussball/manuel-graefe-erhaelt-vom-dfb-48-500-euro-entschaedigung-wegen-altersdiskriminierung-a-ae2f93c1-36b1-4311-8888-0cfb45f9d72d#ref=rss)
+### fan
 
-* [https://www.spiegel.de/kultur/tv/sesamstrasse-initiator-lloyd-morrisett-ist-tot](https://www.spiegel.de/kultur/tv/sesamstrasse-initiator-lloyd-morrisett-ist-tot-a-383e942d-73ac-4aeb-b8eb-39392dd620b7#ref=rss)
-### itexperten
+* [https://www.spiegel.de/sport/fussball/krawalle-in-nizza-fan-des-1-fc-koeln-erhaelt-18-monate-freiheitsstrafe](https://www.spiegel.de/sport/fussball/krawalle-in-nizza-fan-des-1-fc-koeln-erhaelt-18-monate-freiheitsstrafe-a-e6a19530-1f18-48db-83a8-695344258f7c#ref=rss)
+### 1
 
-* [https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden](https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden-a-ca275898-048f-4364-b352-aa08120b2079#ref=rss)
-### digitalisierung
-
-* [https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden](https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden-a-ca275898-048f-4364-b352-aa08120b2079#ref=rss)
-### behörden
-
-* [https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden](https://www.spiegel.de/wirtschaft/soziales/studie-mangel-an-it-experten-gefaehrdet-digitalisierung-in-behoerden-a-ca275898-048f-4364-b352-aa08120b2079#ref=rss)
-### ukrainekrieg
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
-### bundeswehrverband
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
-### einsatzbereitschaft
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft](https://www.spiegel.de/politik/deutschland/ukraine-krieg-panzerlieferungen-bundeswehrverband-sorgt-sich-um-einsatzbereitschaft-a-4ff7ebcf-acc4-4c12-a2fc-36cc4eed5630#ref=rss)
-### punkte
-
-* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
-### lebron
-
-* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
-### james
-
-* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
-### los
-
-* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
-### angeles
-
-* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
-### lakers
-
-* [https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg](https://www.spiegel.de/sport/basketball/nba-46-punkte-von-basketball-star-lebron-james-reichen-los-angeles-lakers-nicht-zum-sieg-a-6be92b05-cb3c-4922-859a-d0c4a7fe612f#ref=rss)
-### coronavirus
-
-* [https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang](https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang-a-1c25351b-4839-4d9f-9e3a-46885e7feb4d#ref=rss)
-### nordkorea
-
-* [https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang](https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang-a-1c25351b-4839-4d9f-9e3a-46885e7feb4d#ref=rss)
-### pjöngjang
-
-* [https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang](https://www.spiegel.de/ausland/coronavirus-nordkorea-verhaengt-offenbar-lockdown-ueber-pjoengjang-a-1c25351b-4839-4d9f-9e3a-46885e7feb4d#ref=rss)
-### paris
-
-* [https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn](https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn-a-06ed3f28-078f-41b9-af56-528615bf4154#ref=rss)
-### hilton
-
-* [https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn](https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn-a-06ed3f28-078f-41b9-af56-528615bf4154#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn](https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn-a-06ed3f28-078f-41b9-af56-528615bf4154#ref=rss)
-### alle
-
-* [https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn](https://www.spiegel.de/panorama/leute/per-leihmutterschaft-paris-hilton-hat-einen-kleinen-sohn-a-06ed3f28-078f-41b9-af56-528615bf4154#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm](https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm-a-f7924a64-76bf-433a-be76-9472073e9f5b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/krawalle-in-nizza-fan-des-1-fc-koeln-erhaelt-18-monate-freiheitsstrafe](https://www.spiegel.de/sport/fussball/krawalle-in-nizza-fan-des-1-fc-koeln-erhaelt-18-monate-freiheitsstrafe-a-e6a19530-1f18-48db-83a8-695344258f7c#ref=rss)
 ### fc
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry-a-59b3e8e9-734c-4775-8442-9094638ae967#ref=rss)
-### bayern
+* [https://www.spiegel.de/sport/fussball/krawalle-in-nizza-fan-des-1-fc-koeln-erhaelt-18-monate-freiheitsstrafe](https://www.spiegel.de/sport/fussball/krawalle-in-nizza-fan-des-1-fc-koeln-erhaelt-18-monate-freiheitsstrafe-a-e6a19530-1f18-48db-83a8-695344258f7c#ref=rss)
+### köln
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry-a-59b3e8e9-734c-4775-8442-9094638ae967#ref=rss)
-### serge
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry-a-59b3e8e9-734c-4775-8442-9094638ae967#ref=rss)
-### gnabry
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry-a-59b3e8e9-734c-4775-8442-9094638ae967#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-zaehlt-das-team-an-und-tobt-ueber-amateurhaften-serge-gnabry-a-59b3e8e9-734c-4775-8442-9094638ae967#ref=rss)
-* [https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open](https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open-a-85eb05e3-5578-4fcd-918a-89ec9be92837#ref=rss)
-### magda
-
-* [https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open](https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open-a-85eb05e3-5578-4fcd-918a-89ec9be92837#ref=rss)
-### linette
-
-* [https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open](https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open-a-85eb05e3-5578-4fcd-918a-89ec9be92837#ref=rss)
-### halbfinale
-
-* [https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open](https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open-a-85eb05e3-5578-4fcd-918a-89ec9be92837#ref=rss)
-### australian
-
-* [https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open](https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open-a-85eb05e3-5578-4fcd-918a-89ec9be92837#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open](https://www.spiegel.de/sport/tennis/aussenseiterin-magda-linette-im-halbfinale-der-australian-open-a-85eb05e3-5578-4fcd-918a-89ec9be92837#ref=rss)
-### kritisiert
-
-* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin](https://www.spiegel.de/politik/deutschland/ukraine-krieg-ralf-stegner-kritisiert-andrij-melnyk-wo-fuehrt-das-alles-hin-a-735f17a1-0aa9-4ff6-8bad-7feef628a29b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm](https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm-a-f7924a64-76bf-433a-be76-9472073e9f5b#ref=rss)
-### a3
-
-* [https://www.spiegel.de/panorama/a3-in-mittelfranken-bus-mit-schulkindern-faehrt-auf-anhaenger-auf-vollsperrung](https://www.spiegel.de/panorama/a3-in-mittelfranken-bus-mit-schulkindern-faehrt-auf-anhaenger-auf-vollsperrung-a-745f5fb8-6841-44f7-80d0-780e9f778df0#ref=rss)
-### bundespräsident
-
-* [https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80](https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80-a-8e8179c2-d114-479d-b162-60f74d54aef4#ref=rss)
-### dagmar
-
-* [https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80](https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80-a-8e8179c2-d114-479d-b162-60f74d54aef4#ref=rss)
-### berghoff
-
-* [https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80](https://www.spiegel.de/panorama/leute/bundespraesident-frank-walter-steinmeier-gratuliert-tagesschau-sprecherin-dagmar-berghoff-zum-80-a-8e8179c2-d114-479d-b162-60f74d54aef4#ref=rss)
-### flughafen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm](https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm-a-f7924a64-76bf-433a-be76-9472073e9f5b#ref=rss)
-### warnstreik
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm](https://www.spiegel.de/wirtschaft/unternehmen/flughafen-ber-warnstreik-legt-hauptstadtflughafen-lahm-a-f7924a64-76bf-433a-be76-9472073e9f5b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/krawalle-in-nizza-fan-des-1-fc-koeln-erhaelt-18-monate-freiheitsstrafe](https://www.spiegel.de/sport/fussball/krawalle-in-nizza-fan-des-1-fc-koeln-erhaelt-18-monate-freiheitsstrafe-a-e6a19530-1f18-48db-83a8-695344258f7c#ref=rss)
 
