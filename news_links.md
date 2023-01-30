@@ -4,372 +4,306 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-mit-remis-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-mit-remis-gegen-1-fc-koeln-a-84352938-9a11-4345-a358-9f601f0f6a83#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal](https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal-a-26e3e104-a1dc-40f4-88f5-1ec6cb810dab#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest](https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest-a-fa52e79a-877a-4935-b911-bc79fcec10f1#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/ausland/suedkorea-kriegsdienstverweigerer-aus-russland-lebt-auf-dem-flughafen-seoul](https://www.spiegel.de/ausland/suedkorea-kriegsdienstverweigerer-aus-russland-lebt-auf-dem-flughafen-seoul-a-08008f6e-13f2-4240-9331-5a7e20b1885b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest](https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest-a-fa52e79a-877a-4935-b911-bc79fcec10f1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic](https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic-a-af540b68-2423-4d91-b912-137cb8bb5354#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/tv/zdf-stellt-people-magazin-leute-heute-ein](https://www.spiegel.de/kultur/tv/zdf-stellt-people-magazin-leute-heute-ein-a-f0687678-a34e-44bc-a3e6-00cefd8c5326#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-und-die-taliban-extreme-kaelte-mit-mehr-als-160-toten](https://www.spiegel.de/ausland/afghanistan-und-die-taliban-extreme-kaelte-mit-mehr-als-160-toten-a-75cf0eae-ba95-4ec2-aee0-97bfb453545d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an](https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an-a-054b672a-f96f-4739-8780-de824d9b2633#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/sport/tennis/novak-djokovic-hat-noch-lange-nicht-genug-von-seinen-siegen](https://www.spiegel.de/sport/tennis/novak-djokovic-hat-noch-lange-nicht-genug-von-seinen-siegen-a-f7425ce9-2dc9-4320-9f34-726d67030144#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/missbrauch-opfer-und-taeter-treffen-50-jahre-spaeter-aufeinander](https://www.spiegel.de/panorama/gesellschaft/missbrauch-opfer-und-taeter-treffen-50-jahre-spaeter-aufeinander-a-a7eb09c5-c8da-4e28-bb6a-ac1f08489d44#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-steckt-israel-hinter-den-explosionen-in-der-naehe-von-isfahan](https://www.spiegel.de/ausland/iran-steckt-israel-hinter-den-explosionen-in-der-naehe-von-isfahan-a-510b8b18-927c-48bf-b43e-9384b3ef9574#ref=rss)
-* [https://www.spiegel.de/ausland/nazanin-boniadi-ueber-iran-ich-protestierte-schon-im-bauch-meiner-mutter](https://www.spiegel.de/ausland/nazanin-boniadi-ueber-iran-ich-protestierte-schon-im-bauch-meiner-mutter-a-1183f181-d92a-4870-b346-2b58e2242368#ref=rss)
-### erfolg
-
-* [https://www.spiegel.de/ausland/iran-steckt-israel-hinter-den-explosionen-in-der-naehe-von-isfahan](https://www.spiegel.de/ausland/iran-steckt-israel-hinter-den-explosionen-in-der-naehe-von-isfahan-a-510b8b18-927c-48bf-b43e-9384b3ef9574#ref=rss)
-* [https://www.spiegel.de/kultur/gerhard-polt-premiere-in-muenchen-ein-prosit-der-vergaenglichkeit](https://www.spiegel.de/kultur/gerhard-polt-premiere-in-muenchen-ein-prosit-der-vergaenglichkeit-a-f5c4b275-11b1-409f-8b2d-a07d4d99ea88#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord-a-afbbde29-426d-47da-b791-4b338811fa8e#ref=rss)
-### gewinnt
-
-* [https://www.spiegel.de/ausland/oesterreich-fpoe-gewinnt-wahl-in-niederoesterreich-kanzlerpartei-oevp-verliert-massiv](https://www.spiegel.de/ausland/oesterreich-fpoe-gewinnt-wahl-in-niederoesterreich-kanzlerpartei-oevp-verliert-massiv-a-6051393c-96f9-4f05-8c18-ddbca2569ca8#ref=rss)
-* [https://www.spiegel.de/sport/hockey-wm-deutschland-gewinnt-das-finale-gegen-belgien-im-penaltyschiessen](https://www.spiegel.de/sport/hockey-wm-deutschland-gewinnt-das-finale-gegen-belgien-im-penaltyschiessen-a-dfa58224-1ed3-472b-8ca6-62065e0aa7ea#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest](https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest-a-fa52e79a-877a-4935-b911-bc79fcec10f1#ref=rss)
-### liga
-
-* [https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal](https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal-a-26e3e104-a1dc-40f4-88f5-1ec6cb810dab#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest](https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest-a-fa52e79a-877a-4935-b911-bc79fcec10f1#ref=rss)
-### platz
-
-* [https://www.spiegel.de/auto/verkehrspolitik-in-den-niederlanden-amsterdams-riesige-fahrradgarage](https://www.spiegel.de/auto/verkehrspolitik-in-den-niederlanden-amsterdams-riesige-fahrradgarage-a-ac4310ce-0719-4fe0-8962-b69563ff22d3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest](https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest-a-fa52e79a-877a-4935-b911-bc79fcec10f1#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-wm-deutschland-beendet-turnier-auf-platz-fuenf](https://www.spiegel.de/sport/handball/handball-wm-deutschland-beendet-turnier-auf-platz-fuenf-a-aaaaf46d-cc03-4648-a197-e45d9bafba55#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/sport/hockey-wm-deutschland-gewinnt-das-finale-gegen-belgien-im-penaltyschiessen](https://www.spiegel.de/sport/hockey-wm-deutschland-gewinnt-das-finale-gegen-belgien-im-penaltyschiessen-a-dfa58224-1ed3-472b-8ca6-62065e0aa7ea#ref=rss)
-* [https://www.spiegel.de/sport/handball/handball-wm-deutschland-beendet-turnier-auf-platz-fuenf](https://www.spiegel.de/sport/handball/handball-wm-deutschland-beendet-turnier-auf-platz-fuenf-a-aaaaf46d-cc03-4648-a197-e45d9bafba55#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/ukrainekrieg-sicherheitskonferenzchef-heusgen-befuerwortet-lieferung-von-kampfjets](https://www.spiegel.de/ausland/ukrainekrieg-sicherheitskonferenzchef-heusgen-befuerwortet-lieferung-von-kampfjets-a-d6989403-a138-4510-b463-0ba839fff609#ref=rss)
-* [https://www.spiegel.de/ausland/suedkorea-kriegsdienstverweigerer-aus-russland-lebt-auf-dem-flughafen-seoul](https://www.spiegel.de/ausland/suedkorea-kriegsdienstverweigerer-aus-russland-lebt-auf-dem-flughafen-seoul-a-08008f6e-13f2-4240-9331-5a7e20b1885b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-militaerunterricht-an-schulen-soll-laut-london-auf-sowjetzeiten-anspielen](https://www.spiegel.de/ausland/russland-militaerunterricht-an-schulen-soll-laut-london-auf-sowjetzeiten-anspielen-a-7277f95e-0351-408a-a60e-9cce96bab439#ref=rss)
-### harz
-
-* [https://www.spiegel.de/panorama/harz-neuschnee-lockt-wintersportler-nach-braunlage-und-torfhaus](https://www.spiegel.de/panorama/harz-neuschnee-lockt-wintersportler-nach-braunlage-und-torfhaus-a-6526173d-4465-4ef7-b601-117e15946016#ref=rss)
-### braunlage
-
-* [https://www.spiegel.de/panorama/harz-neuschnee-lockt-wintersportler-nach-braunlage-und-torfhaus](https://www.spiegel.de/panorama/harz-neuschnee-lockt-wintersportler-nach-braunlage-und-torfhaus-a-6526173d-4465-4ef7-b601-117e15946016#ref=rss)
-### zdf
-
-* [https://www.spiegel.de/kultur/tv/zdf-stellt-people-magazin-leute-heute-ein](https://www.spiegel.de/kultur/tv/zdf-stellt-people-magazin-leute-heute-ein-a-f0687678-a34e-44bc-a3e6-00cefd8c5326#ref=rss)
-### peoplemagazin
-
-* [https://www.spiegel.de/kultur/tv/zdf-stellt-people-magazin-leute-heute-ein](https://www.spiegel.de/kultur/tv/zdf-stellt-people-magazin-leute-heute-ein-a-f0687678-a34e-44bc-a3e6-00cefd8c5326#ref=rss)
-### leute
-
-* [https://www.spiegel.de/kultur/tv/zdf-stellt-people-magazin-leute-heute-ein](https://www.spiegel.de/kultur/tv/zdf-stellt-people-magazin-leute-heute-ein-a-f0687678-a34e-44bc-a3e6-00cefd8c5326#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
+* [https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast](https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast-a-dc943b9a-dd50-4269-b963-66b4712f50fd#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildungsmisere-in-deutschland-der-grosse-wunsch-nach-kleinen-klassen](https://www.spiegel.de/panorama/bildung/bildungsmisere-in-deutschland-der-grosse-wunsch-nach-kleinen-klassen-a-0078a790-334e-426d-bbe6-5da7e2c45232#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen](https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen-a-fac944a9-1716-403a-abe2-5f50fc48ef90#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus](https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus-a-04caeffa-dc00-4153-83c8-0b711e27aa7b#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/kultur/tv/zdf-stellt-people-magazin-leute-heute-ein](https://www.spiegel.de/kultur/tv/zdf-stellt-people-magazin-leute-heute-ein-a-f0687678-a34e-44bc-a3e6-00cefd8c5326#ref=rss)
-* [https://www.spiegel.de/wissenschaft/spanien-nerze-erkranken-an-vogelgrippe-experten-alarmiert](https://www.spiegel.de/wissenschaft/spanien-nerze-erkranken-an-vogelgrippe-experten-alarmiert-a-6449c54a-0990-476c-97a0-80728c0d368d#ref=rss)
-### afghanistan
+* [https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft](https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft-a-76a76014-c3e4-4a1b-b14e-460e9f457e80#ref=rss)
+* [https://www.spiegel.de/panorama/suedafrika-acht-menschen-bei-geburtstagsfeier-erschossen](https://www.spiegel.de/panorama/suedafrika-acht-menschen-bei-geburtstagsfeier-erschossen-a-63578449-c815-4ce0-a6ec-bfdce7048b17#ref=rss)
+* [https://www.spiegel.de/wissenschaft/neugeborene-mikroorganismen-besiedeln-menschen-erst-nach-der-geburt](https://www.spiegel.de/wissenschaft/neugeborene-mikroorganismen-besiedeln-menschen-erst-nach-der-geburt-a-a13e479f-2735-4a89-b3cd-82c2b75fb42f#ref=rss)
+* [https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast](https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast-a-dc943b9a-dd50-4269-b963-66b4712f50fd#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/afghanistan-und-die-taliban-extreme-kaelte-mit-mehr-als-160-toten](https://www.spiegel.de/ausland/afghanistan-und-die-taliban-extreme-kaelte-mit-mehr-als-160-toten-a-75cf0eae-ba95-4ec2-aee0-97bfb453545d#ref=rss)
-### taliban
+* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
+* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen](https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen-a-fac944a9-1716-403a-abe2-5f50fc48ef90#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/ausland/afghanistan-und-die-taliban-extreme-kaelte-mit-mehr-als-160-toten](https://www.spiegel.de/ausland/afghanistan-und-die-taliban-extreme-kaelte-mit-mehr-als-160-toten-a-75cf0eae-ba95-4ec2-aee0-97bfb453545d#ref=rss)
-### kinder
+* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen](https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen-a-fac944a9-1716-403a-abe2-5f50fc48ef90#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus](https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus-a-04caeffa-dc00-4153-83c8-0b711e27aa7b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/ausland/afghanistan-und-die-taliban-extreme-kaelte-mit-mehr-als-160-toten](https://www.spiegel.de/ausland/afghanistan-und-die-taliban-extreme-kaelte-mit-mehr-als-160-toten-a-75cf0eae-ba95-4ec2-aee0-97bfb453545d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-unterricht-im-selbstgebauten-zelt](https://www.spiegel.de/ausland/ukraine-krieg-unterricht-im-selbstgebauten-zelt-a-6df0013a-00e2-4712-a688-88c2ee22355c#ref=rss)
-### jahren
+* [https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt](https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt-a-f983d21b-0004-488c-acc6-5e1be83255ca#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion](https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion-a-fc1ab1de-7017-4f76-9744-49a9bb5e2839#ref=rss)
+### stellen
 
-* [https://www.spiegel.de/ausland/afghanistan-und-die-taliban-extreme-kaelte-mit-mehr-als-160-toten](https://www.spiegel.de/ausland/afghanistan-und-die-taliban-extreme-kaelte-mit-mehr-als-160-toten-a-75cf0eae-ba95-4ec2-aee0-97bfb453545d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an](https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an-a-054b672a-f96f-4739-8780-de824d9b2633#ref=rss)
-### ukrainekrieg
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-pinguin-kolonie-entdeckt-satellitenbild-der-woche](https://www.spiegel.de/wissenschaft/natur/antarktis-pinguin-kolonie-entdeckt-satellitenbild-der-woche-a-daf510a0-1fa6-40cc-906d-8d5920ff3e18#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
+### ende
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-unterricht-im-selbstgebauten-zelt](https://www.spiegel.de/ausland/ukraine-krieg-unterricht-im-selbstgebauten-zelt-a-6df0013a-00e2-4712-a688-88c2ee22355c#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainekrieg-sicherheitskonferenzchef-heusgen-befuerwortet-lieferung-von-kampfjets](https://www.spiegel.de/ausland/ukrainekrieg-sicherheitskonferenzchef-heusgen-befuerwortet-lieferung-von-kampfjets-a-d6989403-a138-4510-b463-0ba839fff609#ref=rss)
-### zelt
+* [https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft](https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft-a-76a76014-c3e4-4a1b-b14e-460e9f457e80#ref=rss)
+* [https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus](https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus-a-04caeffa-dc00-4153-83c8-0b711e27aa7b#ref=rss)
+* [https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa](https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa-a-82a12683-c2df-4795-9b4b-023c77b75dbd#ref=rss)
+### tote
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-unterricht-im-selbstgebauten-zelt](https://www.spiegel.de/ausland/ukraine-krieg-unterricht-im-selbstgebauten-zelt-a-6df0013a-00e2-4712-a688-88c2ee22355c#ref=rss)
-### lernen
+* [https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar](https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar-a-9a7bca9c-3b24-478a-a3dd-c4bde1750c4d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben](https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben-a-1c343196-e055-402c-8a6e-d091af35c4ef#ref=rss)
+### verbände
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-unterricht-im-selbstgebauten-zelt](https://www.spiegel.de/ausland/ukraine-krieg-unterricht-im-selbstgebauten-zelt-a-6df0013a-00e2-4712-a688-88c2ee22355c#ref=rss)
-* [https://www.spiegel.de/ausland/russland-militaerunterricht-an-schulen-soll-laut-london-auf-sowjetzeiten-anspielen](https://www.spiegel.de/ausland/russland-militaerunterricht-an-schulen-soll-laut-london-auf-sowjetzeiten-anspielen-a-7277f95e-0351-408a-a60e-9cce96bab439#ref=rss)
-### gut
+* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide](https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide-a-5b8c875a-8b27-417f-88a5-7e2684664e18#ref=rss)
+### dazu
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-unterricht-im-selbstgebauten-zelt](https://www.spiegel.de/ausland/ukraine-krieg-unterricht-im-selbstgebauten-zelt-a-6df0013a-00e2-4712-a688-88c2ee22355c#ref=rss)
-* [https://www.spiegel.de/kultur/tatort-heute-aus-saarbruecken-der-ard-sonntagskrimi-im-schnellcheck](https://www.spiegel.de/kultur/tatort-heute-aus-saarbruecken-der-ard-sonntagskrimi-im-schnellcheck-a-e481e713-ae7e-4f63-a911-d5b8d3c31abf#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tatort-heute-aus-saarbruecken-der-ard-sonntagskrimi-im-schnellcheck](https://www.spiegel.de/kultur/tatort-heute-aus-saarbruecken-der-ard-sonntagskrimi-im-schnellcheck-a-e481e713-ae7e-4f63-a911-d5b8d3c31abf#ref=rss)
-### saarbrücken
-
-* [https://www.spiegel.de/kultur/tatort-heute-aus-saarbruecken-der-ard-sonntagskrimi-im-schnellcheck](https://www.spiegel.de/kultur/tatort-heute-aus-saarbruecken-der-ard-sonntagskrimi-im-schnellcheck-a-e481e713-ae7e-4f63-a911-d5b8d3c31abf#ref=rss)
-### tut
-
-* [https://www.spiegel.de/kultur/tatort-heute-aus-saarbruecken-der-ard-sonntagskrimi-im-schnellcheck](https://www.spiegel.de/kultur/tatort-heute-aus-saarbruecken-der-ard-sonntagskrimi-im-schnellcheck-a-e481e713-ae7e-4f63-a911-d5b8d3c31abf#ref=rss)
-### novak
-
-* [https://www.spiegel.de/sport/tennis/novak-djokovic-hat-noch-lange-nicht-genug-von-seinen-siegen](https://www.spiegel.de/sport/tennis/novak-djokovic-hat-noch-lange-nicht-genug-von-seinen-siegen-a-f7425ce9-2dc9-4320-9f34-726d67030144#ref=rss)
-### djoković
-
-* [https://www.spiegel.de/sport/tennis/novak-djokovic-hat-noch-lange-nicht-genug-von-seinen-siegen](https://www.spiegel.de/sport/tennis/novak-djokovic-hat-noch-lange-nicht-genug-von-seinen-siegen-a-f7425ce9-2dc9-4320-9f34-726d67030144#ref=rss)
-### hansgeorg
-
-* [https://www.spiegel.de/politik/deutschland/nach-wahl-von-hans-georg-maassen-zum-vorsitzenden-der-werteunion-ich-moechte-alle-cdu-mitglieder-auffordern-aus-der-werteunion-auszutreten](https://www.spiegel.de/politik/deutschland/nach-wahl-von-hans-georg-maassen-zum-vorsitzenden-der-werteunion-ich-moechte-alle-cdu-mitglieder-auffordern-aus-der-werteunion-auszutreten-a-8eff6f24-a67f-441e-ad11-fabd366076fe#ref=rss)
+* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt](https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt-a-f983d21b-0004-488c-acc6-5e1be83255ca#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
 ### maaßen
 
-* [https://www.spiegel.de/politik/deutschland/nach-wahl-von-hans-georg-maassen-zum-vorsitzenden-der-werteunion-ich-moechte-alle-cdu-mitglieder-auffordern-aus-der-werteunion-auszutreten](https://www.spiegel.de/politik/deutschland/nach-wahl-von-hans-georg-maassen-zum-vorsitzenden-der-werteunion-ich-moechte-alle-cdu-mitglieder-auffordern-aus-der-werteunion-auszutreten-a-8eff6f24-a67f-441e-ad11-fabd366076fe#ref=rss)
-### werteunion
+* [https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt](https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt-a-f983d21b-0004-488c-acc6-5e1be83255ca#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion](https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion-a-fc1ab1de-7017-4f76-9744-49a9bb5e2839#ref=rss)
+### unfall
 
-* [https://www.spiegel.de/politik/deutschland/nach-wahl-von-hans-georg-maassen-zum-vorsitzenden-der-werteunion-ich-moechte-alle-cdu-mitglieder-auffordern-aus-der-werteunion-auszutreten](https://www.spiegel.de/politik/deutschland/nach-wahl-von-hans-georg-maassen-zum-vorsitzenden-der-werteunion-ich-moechte-alle-cdu-mitglieder-auffordern-aus-der-werteunion-auszutreten-a-8eff6f24-a67f-441e-ad11-fabd366076fe#ref=rss)
-### fpö
+* [https://www.spiegel.de/panorama/unfall-in-norddeutschland-supermarkt-mitarbeiter-tot-aus-muellpresse-geborgen](https://www.spiegel.de/panorama/unfall-in-norddeutschland-supermarkt-mitarbeiter-tot-aus-muellpresse-geborgen-a-58d6bb2a-b6f6-4117-acba-159ce1386716#ref=rss)
+### tot
 
-* [https://www.spiegel.de/ausland/oesterreich-fpoe-gewinnt-wahl-in-niederoesterreich-kanzlerpartei-oevp-verliert-massiv](https://www.spiegel.de/ausland/oesterreich-fpoe-gewinnt-wahl-in-niederoesterreich-kanzlerpartei-oevp-verliert-massiv-a-6051393c-96f9-4f05-8c18-ddbca2569ca8#ref=rss)
-### niederösterreich
+* [https://www.spiegel.de/panorama/unfall-in-norddeutschland-supermarkt-mitarbeiter-tot-aus-muellpresse-geborgen](https://www.spiegel.de/panorama/unfall-in-norddeutschland-supermarkt-mitarbeiter-tot-aus-muellpresse-geborgen-a-58d6bb2a-b6f6-4117-acba-159ce1386716#ref=rss)
+* [https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie](https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie-a-46f3a63b-458d-40df-9ad7-f04baf8479c4#ref=rss)
+### müllpresse
 
-* [https://www.spiegel.de/ausland/oesterreich-fpoe-gewinnt-wahl-in-niederoesterreich-kanzlerpartei-oevp-verliert-massiv](https://www.spiegel.de/ausland/oesterreich-fpoe-gewinnt-wahl-in-niederoesterreich-kanzlerpartei-oevp-verliert-massiv-a-6051393c-96f9-4f05-8c18-ddbca2569ca8#ref=rss)
-### övp
+* [https://www.spiegel.de/panorama/unfall-in-norddeutschland-supermarkt-mitarbeiter-tot-aus-muellpresse-geborgen](https://www.spiegel.de/panorama/unfall-in-norddeutschland-supermarkt-mitarbeiter-tot-aus-muellpresse-geborgen-a-58d6bb2a-b6f6-4117-acba-159ce1386716#ref=rss)
+### bundesbank
 
-* [https://www.spiegel.de/ausland/oesterreich-fpoe-gewinnt-wahl-in-niederoesterreich-kanzlerpartei-oevp-verliert-massiv](https://www.spiegel.de/ausland/oesterreich-fpoe-gewinnt-wahl-in-niederoesterreich-kanzlerpartei-oevp-verliert-massiv-a-6051393c-96f9-4f05-8c18-ddbca2569ca8#ref=rss)
-### rund
+* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
+### falschgeld
 
-* [https://www.spiegel.de/ausland/oesterreich-fpoe-gewinnt-wahl-in-niederoesterreich-kanzlerpartei-oevp-verliert-massiv](https://www.spiegel.de/ausland/oesterreich-fpoe-gewinnt-wahl-in-niederoesterreich-kanzlerpartei-oevp-verliert-massiv-a-6051393c-96f9-4f05-8c18-ddbca2569ca8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal](https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal-a-26e3e104-a1dc-40f4-88f5-1ec6cb810dab#ref=rss)
-### kanzler
+* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
+### 20
 
-* [https://www.spiegel.de/ausland/oesterreich-fpoe-gewinnt-wahl-in-niederoesterreich-kanzlerpartei-oevp-verliert-massiv](https://www.spiegel.de/ausland/oesterreich-fpoe-gewinnt-wahl-in-niederoesterreich-kanzlerpartei-oevp-verliert-massiv-a-6051393c-96f9-4f05-8c18-ddbca2569ca8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an](https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an-a-054b672a-f96f-4739-8780-de824d9b2633#ref=rss)
-### schalke
+* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
+### beliebt
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-mit-remis-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-mit-remis-gegen-1-fc-koeln-a-84352938-9a11-4345-a358-9f601f0f6a83#ref=rss)
-### 04
+* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-mit-remis-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-mit-remis-gegen-1-fc-koeln-a-84352938-9a11-4345-a358-9f601f0f6a83#ref=rss)
-### remis
+* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
+### besonders
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-mit-remis-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-mit-remis-gegen-1-fc-koeln-a-84352938-9a11-4345-a358-9f601f0f6a83#ref=rss)
-### köln
+* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
+* [https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast](https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast-a-dc943b9a-dd50-4269-b963-66b4712f50fd#ref=rss)
+### antarktis
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-mit-remis-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-mit-remis-gegen-1-fc-koeln-a-84352938-9a11-4345-a358-9f601f0f6a83#ref=rss)
-### pause
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-pinguin-kolonie-entdeckt-satellitenbild-der-woche](https://www.spiegel.de/wissenschaft/natur/antarktis-pinguin-kolonie-entdeckt-satellitenbild-der-woche-a-daf510a0-1fa6-40cc-906d-8d5920ff3e18#ref=rss)
+### djamila
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-mit-remis-gegen-1-fc-koeln](https://www.spiegel.de/sport/fussball/fussball-bundesliga-schalke-04-mit-remis-gegen-1-fc-koeln-a-84352938-9a11-4345-a358-9f601f0f6a83#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest](https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest-a-fa52e79a-877a-4935-b911-bc79fcec10f1#ref=rss)
-### fa
+* [https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft](https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft-a-76a76014-c3e4-4a1b-b14e-460e9f457e80#ref=rss)
+### rowe
 
-* [https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal](https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal-a-26e3e104-a1dc-40f4-88f5-1ec6cb810dab#ref=rss)
-### cup
+* [https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft](https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft-a-76a76014-c3e4-4a1b-b14e-460e9f457e80#ref=rss)
+### südafrika
 
-* [https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal](https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal-a-26e3e104-a1dc-40f4-88f5-1ec6cb810dab#ref=rss)
-### jürgen
+* [https://www.spiegel.de/panorama/suedafrika-acht-menschen-bei-geburtstagsfeier-erschossen](https://www.spiegel.de/panorama/suedafrika-acht-menschen-bei-geburtstagsfeier-erschossen-a-63578449-c815-4ce0-a6ec-bfdce7048b17#ref=rss)
+### acht
 
-* [https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal](https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal-a-26e3e104-a1dc-40f4-88f5-1ec6cb810dab#ref=rss)
-### klopp
+* [https://www.spiegel.de/panorama/suedafrika-acht-menschen-bei-geburtstagsfeier-erschossen](https://www.spiegel.de/panorama/suedafrika-acht-menschen-bei-geburtstagsfeier-erschossen-a-63578449-c815-4ce0-a6ec-bfdce7048b17#ref=rss)
+### moskau
 
-* [https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal](https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal-a-26e3e104-a1dc-40f4-88f5-1ec6cb810dab#ref=rss)
-### liverpool
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem-a-b38b864f-6164-4232-883c-8257091a4102#ref=rss)
+* [https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa](https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa-a-82a12683-c2df-4795-9b4b-023c77b75dbd#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal](https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal-a-26e3e104-a1dc-40f4-88f5-1ec6cb810dab#ref=rss)
-### brighton
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem-a-b38b864f-6164-4232-883c-8257091a4102#ref=rss)
+* [https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa](https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa-a-82a12683-c2df-4795-9b4b-023c77b75dbd#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal](https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal-a-26e3e104-a1dc-40f4-88f5-1ec6cb810dab#ref=rss)
-### hove
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem-a-b38b864f-6164-4232-883c-8257091a4102#ref=rss)
+* [https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa](https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa-a-82a12683-c2df-4795-9b4b-023c77b75dbd#ref=rss)
+### russland
 
-* [https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal](https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal-a-26e3e104-a1dc-40f4-88f5-1ec6cb810dab#ref=rss)
-### albion
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem-a-b38b864f-6164-4232-883c-8257091a4102#ref=rss)
+* [https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa](https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa-a-82a12683-c2df-4795-9b4b-023c77b75dbd#ref=rss)
+### dschungelcamp
 
-* [https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal](https://www.spiegel.de/sport/fussball/fa-cup-juergen-klopp-und-liverpool-fliegen-gegen-brighton-und-hove-albion-aus-dem-pokal-a-26e3e104-a1dc-40f4-88f5-1ec6cb810dab#ref=rss)
-### emsland
+* [https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten](https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten-a-aa0873aa-181c-4592-9ebf-92248089310e#ref=rss)
+### bringt
 
-* [https://www.spiegel.de/panorama/brand-im-emsland-2000-ferkel-in-niedersachsen-verendet](https://www.spiegel.de/panorama/brand-im-emsland-2000-ferkel-in-niedersachsen-verendet-a-3ef2ab79-ec9f-425e-bf29-05c11c7dcb4b#ref=rss)
-### 2000
+* [https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten](https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten-a-aa0873aa-181c-4592-9ebf-92248089310e#ref=rss)
+* [https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa](https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa-a-82a12683-c2df-4795-9b4b-023c77b75dbd#ref=rss)
+### rtl
 
-* [https://www.spiegel.de/panorama/brand-im-emsland-2000-ferkel-in-niedersachsen-verendet](https://www.spiegel.de/panorama/brand-im-emsland-2000-ferkel-in-niedersachsen-verendet-a-3ef2ab79-ec9f-425e-bf29-05c11c7dcb4b#ref=rss)
-### ferkel
+* [https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten](https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten-a-aa0873aa-181c-4592-9ebf-92248089310e#ref=rss)
+### einschaltquoten
 
-* [https://www.spiegel.de/panorama/brand-im-emsland-2000-ferkel-in-niedersachsen-verendet](https://www.spiegel.de/panorama/brand-im-emsland-2000-ferkel-in-niedersachsen-verendet-a-3ef2ab79-ec9f-425e-bf29-05c11c7dcb4b#ref=rss)
-### niederlanden
+* [https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten](https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten-a-aa0873aa-181c-4592-9ebf-92248089310e#ref=rss)
+### pakistan
 
-* [https://www.spiegel.de/auto/verkehrspolitik-in-den-niederlanden-amsterdams-riesige-fahrradgarage](https://www.spiegel.de/auto/verkehrspolitik-in-den-niederlanden-amsterdams-riesige-fahrradgarage-a-ac4310ce-0719-4fe0-8962-b69563ff22d3#ref=rss)
-### riesige
+* [https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar](https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar-a-9a7bca9c-3b24-478a-a3dd-c4bde1750c4d#ref=rss)
+### verletzte
 
-* [https://www.spiegel.de/auto/verkehrspolitik-in-den-niederlanden-amsterdams-riesige-fahrradgarage](https://www.spiegel.de/auto/verkehrspolitik-in-den-niederlanden-amsterdams-riesige-fahrradgarage-a-ac4310ce-0719-4fe0-8962-b69563ff22d3#ref=rss)
-### fahrradgarage
+* [https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar](https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar-a-9a7bca9c-3b24-478a-a3dd-c4bde1750c4d#ref=rss)
+### mutmaßlichen
 
-* [https://www.spiegel.de/auto/verkehrspolitik-in-den-niederlanden-amsterdams-riesige-fahrradgarage](https://www.spiegel.de/auto/verkehrspolitik-in-den-niederlanden-amsterdams-riesige-fahrradgarage-a-ac4310ce-0719-4fe0-8962-b69563ff22d3#ref=rss)
-### hockeywm
+* [https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar](https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar-a-9a7bca9c-3b24-478a-a3dd-c4bde1750c4d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben](https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben-a-1c343196-e055-402c-8a6e-d091af35c4ef#ref=rss)
+### dortmund
 
-* [https://www.spiegel.de/sport/hockey-wm-deutschland-gewinnt-das-finale-gegen-belgien-im-penaltyschiessen](https://www.spiegel.de/sport/hockey-wm-deutschland-gewinnt-das-finale-gegen-belgien-im-penaltyschiessen-a-dfa58224-1ed3-472b-8ca6-62065e0aa7ea#ref=rss)
-### finale
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte](https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte-a-e884ba76-77dc-4292-8872-8cda5683fb16#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/sport/hockey-wm-deutschland-gewinnt-das-finale-gegen-belgien-im-penaltyschiessen](https://www.spiegel.de/sport/hockey-wm-deutschland-gewinnt-das-finale-gegen-belgien-im-penaltyschiessen-a-dfa58224-1ed3-472b-8ca6-62065e0aa7ea#ref=rss)
-### belgien
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte](https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte-a-e884ba76-77dc-4292-8872-8cda5683fb16#ref=rss)
+* [https://www.spiegel.de/ausland/olaf-scholz-in-brasilien-lulas-comeback-in-der-weltpolitik](https://www.spiegel.de/ausland/olaf-scholz-in-brasilien-lulas-comeback-in-der-weltpolitik-a-b5374c43-1fdb-4770-87ad-f33dadd6c991#ref=rss)
+### bank
 
-* [https://www.spiegel.de/sport/hockey-wm-deutschland-gewinnt-das-finale-gegen-belgien-im-penaltyschiessen](https://www.spiegel.de/sport/hockey-wm-deutschland-gewinnt-das-finale-gegen-belgien-im-penaltyschiessen-a-dfa58224-1ed3-472b-8ca6-62065e0aa7ea#ref=rss)
-### penaltyschießen
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte](https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte-a-e884ba76-77dc-4292-8872-8cda5683fb16#ref=rss)
+### bvb
 
-* [https://www.spiegel.de/sport/hockey-wm-deutschland-gewinnt-das-finale-gegen-belgien-im-penaltyschiessen](https://www.spiegel.de/sport/hockey-wm-deutschland-gewinnt-das-finale-gegen-belgien-im-penaltyschiessen-a-dfa58224-1ed3-472b-8ca6-62065e0aa7ea#ref=rss)
-### christoph
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte](https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte-a-e884ba76-77dc-4292-8872-8cda5683fb16#ref=rss)
+### macht
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-sicherheitskonferenzchef-heusgen-befuerwortet-lieferung-von-kampfjets](https://www.spiegel.de/ausland/ukrainekrieg-sicherheitskonferenzchef-heusgen-befuerwortet-lieferung-von-kampfjets-a-d6989403-a138-4510-b463-0ba839fff609#ref=rss)
-### heusgen
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte](https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte-a-e884ba76-77dc-4292-8872-8cda5683fb16#ref=rss)
+* [https://www.spiegel.de/stil/rezept-fuer-rosenkohl-mit-pangrattato](https://www.spiegel.de/stil/rezept-fuer-rosenkohl-mit-pangrattato-a-5c8c0b92-a641-454f-9b41-43782158c43b#ref=rss)
+### fast
 
-* [https://www.spiegel.de/ausland/ukrainekrieg-sicherheitskonferenzchef-heusgen-befuerwortet-lieferung-von-kampfjets](https://www.spiegel.de/ausland/ukrainekrieg-sicherheitskonferenzchef-heusgen-befuerwortet-lieferung-von-kampfjets-a-d6989403-a138-4510-b463-0ba839fff609#ref=rss)
-### dschungelcampfinale
+* [https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte](https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte-a-e884ba76-77dc-4292-8872-8cda5683fb16#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide](https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide-a-5b8c875a-8b27-417f-88a5-7e2684664e18#ref=rss)
+### besiedeln
 
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-finale-verpasster-einzug-von-cosimo-citiolo-skandal-um-cosi](https://www.spiegel.de/kultur/tv/dschungelcamp-finale-verpasster-einzug-von-cosimo-citiolo-skandal-um-cosi-a-c6268512-aba1-4fad-83bb-0f86f9006ee3#ref=rss)
-### einzug
+* [https://www.spiegel.de/wissenschaft/neugeborene-mikroorganismen-besiedeln-menschen-erst-nach-der-geburt](https://www.spiegel.de/wissenschaft/neugeborene-mikroorganismen-besiedeln-menschen-erst-nach-der-geburt-a-a13e479f-2735-4a89-b3cd-82c2b75fb42f#ref=rss)
+### wichtig
 
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-finale-verpasster-einzug-von-cosimo-citiolo-skandal-um-cosi](https://www.spiegel.de/kultur/tv/dschungelcamp-finale-verpasster-einzug-von-cosimo-citiolo-skandal-um-cosi-a-c6268512-aba1-4fad-83bb-0f86f9006ee3#ref=rss)
-### cosimo
+* [https://www.spiegel.de/wissenschaft/neugeborene-mikroorganismen-besiedeln-menschen-erst-nach-der-geburt](https://www.spiegel.de/wissenschaft/neugeborene-mikroorganismen-besiedeln-menschen-erst-nach-der-geburt-a-a13e479f-2735-4a89-b3cd-82c2b75fb42f#ref=rss)
+* [https://www.spiegel.de/start/berufseinstieg-das-hilft-bei-ueber-und-unterforderung-kolumne](https://www.spiegel.de/start/berufseinstieg-das-hilft-bei-ueber-und-unterforderung-kolumne-a-ffe7f5bc-be20-4683-bb81-95e22fc8b463#ref=rss)
+### hnoärzte
 
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-finale-verpasster-einzug-von-cosimo-citiolo-skandal-um-cosi](https://www.spiegel.de/kultur/tv/dschungelcamp-finale-verpasster-einzug-von-cosimo-citiolo-skandal-um-cosi-a-c6268512-aba1-4fad-83bb-0f86f9006ee3#ref=rss)
-### citiolo
+* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
+### mandelops
 
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-finale-verpasster-einzug-von-cosimo-citiolo-skandal-um-cosi](https://www.spiegel.de/kultur/tv/dschungelcamp-finale-verpasster-einzug-von-cosimo-citiolo-skandal-um-cosi-a-c6268512-aba1-4fad-83bb-0f86f9006ee3#ref=rss)
-### verpasst
+* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
+### streit
 
-* [https://www.spiegel.de/kultur/tv/dschungelcamp-finale-verpasster-einzug-von-cosimo-citiolo-skandal-um-cosi](https://www.spiegel.de/kultur/tv/dschungelcamp-finale-verpasster-einzug-von-cosimo-citiolo-skandal-um-cosi-a-c6268512-aba1-4fad-83bb-0f86f9006ee3#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord-a-afbbde29-426d-47da-b791-4b338811fa8e#ref=rss)
-### monaten
+* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
+### kindern
 
-* [https://www.spiegel.de/ausland/suedkorea-kriegsdienstverweigerer-aus-russland-lebt-auf-dem-flughafen-seoul](https://www.spiegel.de/ausland/suedkorea-kriegsdienstverweigerer-aus-russland-lebt-auf-dem-flughafen-seoul-a-08008f6e-13f2-4240-9331-5a7e20b1885b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest](https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest-a-fa52e79a-877a-4935-b911-bc79fcec10f1#ref=rss)
-### missbrauch
+* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildungsmisere-in-deutschland-der-grosse-wunsch-nach-kleinen-klassen](https://www.spiegel.de/panorama/bildung/bildungsmisere-in-deutschland-der-grosse-wunsch-nach-kleinen-klassen-a-0078a790-334e-426d-bbe6-5da7e2c45232#ref=rss)
+### toyota
 
-* [https://www.spiegel.de/panorama/gesellschaft/missbrauch-opfer-und-taeter-treffen-50-jahre-spaeter-aufeinander](https://www.spiegel.de/panorama/gesellschaft/missbrauch-opfer-und-taeter-treffen-50-jahre-spaeter-aufeinander-a-a7eb09c5-c8da-4e28-bb6a-ac1f08489d44#ref=rss)
-### 50
+* [https://www.spiegel.de/wirtschaft/unternehmen/toyota-bleibt-vor-volkswagen-weltweit-groesster-autobauer](https://www.spiegel.de/wirtschaft/unternehmen/toyota-bleibt-vor-volkswagen-weltweit-groesster-autobauer-a-e8217022-cc14-4d90-8e9c-aa633c0d090f#ref=rss)
+### volkswagen
 
-* [https://www.spiegel.de/panorama/gesellschaft/missbrauch-opfer-und-taeter-treffen-50-jahre-spaeter-aufeinander](https://www.spiegel.de/panorama/gesellschaft/missbrauch-opfer-und-taeter-treffen-50-jahre-spaeter-aufeinander-a-a7eb09c5-c8da-4e28-bb6a-ac1f08489d44#ref=rss)
-### später
+* [https://www.spiegel.de/wirtschaft/unternehmen/toyota-bleibt-vor-volkswagen-weltweit-groesster-autobauer](https://www.spiegel.de/wirtschaft/unternehmen/toyota-bleibt-vor-volkswagen-weltweit-groesster-autobauer-a-e8217022-cc14-4d90-8e9c-aa633c0d090f#ref=rss)
+### konzern
 
-* [https://www.spiegel.de/panorama/gesellschaft/missbrauch-opfer-und-taeter-treffen-50-jahre-spaeter-aufeinander](https://www.spiegel.de/panorama/gesellschaft/missbrauch-opfer-und-taeter-treffen-50-jahre-spaeter-aufeinander-a-a7eb09c5-c8da-4e28-bb6a-ac1f08489d44#ref=rss)
-### fall
+* [https://www.spiegel.de/wirtschaft/unternehmen/toyota-bleibt-vor-volkswagen-weltweit-groesster-autobauer](https://www.spiegel.de/wirtschaft/unternehmen/toyota-bleibt-vor-volkswagen-weltweit-groesster-autobauer-a-e8217022-cc14-4d90-8e9c-aa633c0d090f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
+### arm
 
-* [https://www.spiegel.de/panorama/gesellschaft/missbrauch-opfer-und-taeter-treffen-50-jahre-spaeter-aufeinander](https://www.spiegel.de/panorama/gesellschaft/missbrauch-opfer-und-taeter-treffen-50-jahre-spaeter-aufeinander-a-a7eb09c5-c8da-4e28-bb6a-ac1f08489d44#ref=rss)
-* [https://www.spiegel.de/ausland/schottland-neue-debatte-ueber-transfer-einer-transsexuellen-in-frauengefaengnis](https://www.spiegel.de/ausland/schottland-neue-debatte-ueber-transfer-einer-transsexuellen-in-frauengefaengnis-a-47a1a64a-c38d-4ef2-9e2f-b913d831527d#ref=rss)
-### männer
+* [https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast](https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast-a-dc943b9a-dd50-4269-b963-66b4712f50fd#ref=rss)
+### reich
 
-* [https://www.spiegel.de/panorama/gesellschaft/missbrauch-opfer-und-taeter-treffen-50-jahre-spaeter-aufeinander](https://www.spiegel.de/panorama/gesellschaft/missbrauch-opfer-und-taeter-treffen-50-jahre-spaeter-aufeinander-a-a7eb09c5-c8da-4e28-bb6a-ac1f08489d44#ref=rss)
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic](https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic-a-af540b68-2423-4d91-b912-137cb8bb5354#ref=rss)
-### laut
+* [https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast](https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast-a-dc943b9a-dd50-4269-b963-66b4712f50fd#ref=rss)
+### hansgeorg
 
-* [https://www.spiegel.de/ausland/russland-militaerunterricht-an-schulen-soll-laut-london-auf-sowjetzeiten-anspielen](https://www.spiegel.de/ausland/russland-militaerunterricht-an-schulen-soll-laut-london-auf-sowjetzeiten-anspielen-a-7277f95e-0351-408a-a60e-9cce96bab439#ref=rss)
-### london
+* [https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt](https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt-a-f983d21b-0004-488c-acc6-5e1be83255ca#ref=rss)
+### partei
 
-* [https://www.spiegel.de/ausland/russland-militaerunterricht-an-schulen-soll-laut-london-auf-sowjetzeiten-anspielen](https://www.spiegel.de/ausland/russland-militaerunterricht-an-schulen-soll-laut-london-auf-sowjetzeiten-anspielen-a-7277f95e-0351-408a-a60e-9cce96bab439#ref=rss)
-### offenbar
+* [https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt](https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt-a-f983d21b-0004-488c-acc6-5e1be83255ca#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion](https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion-a-fc1ab1de-7017-4f76-9744-49a9bb5e2839#ref=rss)
+### zahl
 
-* [https://www.spiegel.de/ausland/russland-militaerunterricht-an-schulen-soll-laut-london-auf-sowjetzeiten-anspielen](https://www.spiegel.de/ausland/russland-militaerunterricht-an-schulen-soll-laut-london-auf-sowjetzeiten-anspielen-a-7277f95e-0351-408a-a60e-9cce96bab439#ref=rss)
-* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an](https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an-a-054b672a-f96f-4739-8780-de824d9b2633#ref=rss)
-### hamburger
+* [https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen](https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen-a-fac944a9-1716-403a-abe2-5f50fc48ef90#ref=rss)
+### gestiegen
 
-* [https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest](https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest-a-fa52e79a-877a-4935-b911-bc79fcec10f1#ref=rss)
-### sv
-
-* [https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest](https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest-a-fa52e79a-877a-4935-b911-bc79fcec10f1#ref=rss)
-### neue
-
-* [https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest](https://www.spiegel.de/sport/fussball/zweite-liga-hamburger-sv-gewinnt-und-setzt-sich-auf-platz-zwei-fest-a-fa52e79a-877a-4935-b911-bc79fcec10f1#ref=rss)
-* [https://www.spiegel.de/ausland/schottland-neue-debatte-ueber-transfer-einer-transsexuellen-in-frauengefaengnis](https://www.spiegel.de/ausland/schottland-neue-debatte-ueber-transfer-einer-transsexuellen-in-frauengefaengnis-a-47a1a64a-c38d-4ef2-9e2f-b913d831527d#ref=rss)
-### rolle
-
-* [https://www.spiegel.de/ausland/grossbritannien-hunderte-wollen-rolle-bei-kroenung-von-charles-iii-uebernehmen](https://www.spiegel.de/ausland/grossbritannien-hunderte-wollen-rolle-bei-kroenung-von-charles-iii-uebernehmen-a-ee1e5896-6e6b-4f4d-8d91-b23d91452c42#ref=rss)
-* [https://www.spiegel.de/ausland/nazanin-boniadi-ueber-iran-ich-protestierte-schon-im-bauch-meiner-mutter](https://www.spiegel.de/ausland/nazanin-boniadi-ueber-iran-ich-protestierte-schon-im-bauch-meiner-mutter-a-1183f181-d92a-4870-b346-2b58e2242368#ref=rss)
-### charles
-
-* [https://www.spiegel.de/ausland/grossbritannien-hunderte-wollen-rolle-bei-kroenung-von-charles-iii-uebernehmen](https://www.spiegel.de/ausland/grossbritannien-hunderte-wollen-rolle-bei-kroenung-von-charles-iii-uebernehmen-a-ee1e5896-6e6b-4f4d-8d91-b23d91452c42#ref=rss)
-### iii
-
-* [https://www.spiegel.de/ausland/grossbritannien-hunderte-wollen-rolle-bei-kroenung-von-charles-iii-uebernehmen](https://www.spiegel.de/ausland/grossbritannien-hunderte-wollen-rolle-bei-kroenung-von-charles-iii-uebernehmen-a-ee1e5896-6e6b-4f4d-8d91-b23d91452c42#ref=rss)
-### könig
-
-* [https://www.spiegel.de/ausland/grossbritannien-hunderte-wollen-rolle-bei-kroenung-von-charles-iii-uebernehmen](https://www.spiegel.de/ausland/grossbritannien-hunderte-wollen-rolle-bei-kroenung-von-charles-iii-uebernehmen-a-ee1e5896-6e6b-4f4d-8d91-b23d91452c42#ref=rss)
-### schottland
-
-* [https://www.spiegel.de/ausland/schottland-neue-debatte-ueber-transfer-einer-transsexuellen-in-frauengefaengnis](https://www.spiegel.de/ausland/schottland-neue-debatte-ueber-transfer-einer-transsexuellen-in-frauengefaengnis-a-47a1a64a-c38d-4ef2-9e2f-b913d831527d#ref=rss)
-### debatte
-
-* [https://www.spiegel.de/ausland/schottland-neue-debatte-ueber-transfer-einer-transsexuellen-in-frauengefaengnis](https://www.spiegel.de/ausland/schottland-neue-debatte-ueber-transfer-einer-transsexuellen-in-frauengefaengnis-a-47a1a64a-c38d-4ef2-9e2f-b913d831527d#ref=rss)
-### frauengefängnis
-
-* [https://www.spiegel.de/ausland/schottland-neue-debatte-ueber-transfer-einer-transsexuellen-in-frauengefaengnis](https://www.spiegel.de/ausland/schottland-neue-debatte-ueber-transfer-einer-transsexuellen-in-frauengefaengnis-a-47a1a64a-c38d-4ef2-9e2f-b913d831527d#ref=rss)
-### woche
-
-* [https://www.spiegel.de/ausland/schottland-neue-debatte-ueber-transfer-einer-transsexuellen-in-frauengefaengnis](https://www.spiegel.de/ausland/schottland-neue-debatte-ueber-transfer-einer-transsexuellen-in-frauengefaengnis-a-47a1a64a-c38d-4ef2-9e2f-b913d831527d#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord-a-afbbde29-426d-47da-b791-4b338811fa8e#ref=rss)
-### gerhard
-
-* [https://www.spiegel.de/kultur/gerhard-polt-premiere-in-muenchen-ein-prosit-der-vergaenglichkeit](https://www.spiegel.de/kultur/gerhard-polt-premiere-in-muenchen-ein-prosit-der-vergaenglichkeit-a-f5c4b275-11b1-409f-8b2d-a07d4d99ea88#ref=rss)
-### polt
-
-* [https://www.spiegel.de/kultur/gerhard-polt-premiere-in-muenchen-ein-prosit-der-vergaenglichkeit](https://www.spiegel.de/kultur/gerhard-polt-premiere-in-muenchen-ein-prosit-der-vergaenglichkeit-a-f5c4b275-11b1-409f-8b2d-a07d4d99ea88#ref=rss)
-### treten
-
-* [https://www.spiegel.de/kultur/gerhard-polt-premiere-in-muenchen-ein-prosit-der-vergaenglichkeit](https://www.spiegel.de/kultur/gerhard-polt-premiere-in-muenchen-ein-prosit-der-vergaenglichkeit-a-f5c4b275-11b1-409f-8b2d-a07d4d99ea88#ref=rss)
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic](https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic-a-af540b68-2423-4d91-b912-137cb8bb5354#ref=rss)
-### weltmeisterschaft
-
-* [https://www.spiegel.de/sport/handball/handball-wm-deutschland-beendet-turnier-auf-platz-fuenf](https://www.spiegel.de/sport/handball/handball-wm-deutschland-beendet-turnier-auf-platz-fuenf-a-aaaaf46d-cc03-4648-a197-e45d9bafba55#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord-a-afbbde29-426d-47da-b791-4b338811fa8e#ref=rss)
-### nazanin
-
-* [https://www.spiegel.de/ausland/nazanin-boniadi-ueber-iran-ich-protestierte-schon-im-bauch-meiner-mutter](https://www.spiegel.de/ausland/nazanin-boniadi-ueber-iran-ich-protestierte-schon-im-bauch-meiner-mutter-a-1183f181-d92a-4870-b346-2b58e2242368#ref=rss)
-### boniadi
-
-* [https://www.spiegel.de/ausland/nazanin-boniadi-ueber-iran-ich-protestierte-schon-im-bauch-meiner-mutter](https://www.spiegel.de/ausland/nazanin-boniadi-ueber-iran-ich-protestierte-schon-im-bauch-meiner-mutter-a-1183f181-d92a-4870-b346-2b58e2242368#ref=rss)
-### hertha
-
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic](https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic-a-af540b68-2423-4d91-b912-137cb8bb5354#ref=rss)
-### bsc
-
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic](https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic-a-af540b68-2423-4d91-b912-137cb8bb5354#ref=rss)
-### andreas
-
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic](https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic-a-af540b68-2423-4d91-b912-137cb8bb5354#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord-a-afbbde29-426d-47da-b791-4b338811fa8e#ref=rss)
-### fredi
-
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic](https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic-a-af540b68-2423-4d91-b912-137cb8bb5354#ref=rss)
-### bobic
-
-* [https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic](https://www.spiegel.de/sport/fussball/hertha-bsc-benjamin-weber-und-andreas-neuendorf-werden-nachfolger-von-fredi-bobic-a-af540b68-2423-4d91-b912-137cb8bb5354#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an](https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an-a-054b672a-f96f-4739-8780-de824d9b2633#ref=rss)
-### fernández
-
-* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an](https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an-a-054b672a-f96f-4739-8780-de824d9b2633#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an](https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an-a-054b672a-f96f-4739-8780-de824d9b2633#ref=rss)
-### freihandelsabkommen
-
-* [https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an](https://www.spiegel.de/wirtschaft/olaf-scholz-und-alberto-angel-fernandez-praesident-streben-rasche-einigung-an-bei-freihandelsabkommen-an-a-054b672a-f96f-4739-8780-de824d9b2633#ref=rss)
-### nerze
-
-* [https://www.spiegel.de/wissenschaft/spanien-nerze-erkranken-an-vogelgrippe-experten-alarmiert](https://www.spiegel.de/wissenschaft/spanien-nerze-erkranken-an-vogelgrippe-experten-alarmiert-a-6449c54a-0990-476c-97a0-80728c0d368d#ref=rss)
-### vogelgrippe
-
-* [https://www.spiegel.de/wissenschaft/spanien-nerze-erkranken-an-vogelgrippe-experten-alarmiert](https://www.spiegel.de/wissenschaft/spanien-nerze-erkranken-an-vogelgrippe-experten-alarmiert-a-6449c54a-0990-476c-97a0-80728c0d368d#ref=rss)
-### lena
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord-a-afbbde29-426d-47da-b791-4b338811fa8e#ref=rss)
-### dürr
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord-a-afbbde29-426d-47da-b791-4b338811fa8e#ref=rss)
-### mikaela
-
-* [https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord](https://www.spiegel.de/sport/wintersport/ski-alpin-lena-duerr-feiert-ersten-weltcupsieg-und-verhindert-mikaela-shiffrins-rekord-a-afbbde29-426d-47da-b791-4b338811fa8e#ref=rss)
-### badenwürttemberg
-
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-neunjaehriger-beisst-frau-nach-erfolglosen-suessigkeitendiebstahl](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-neunjaehriger-beisst-frau-nach-erfolglosen-suessigkeitendiebstahl-a-fa8a7096-e2c0-450c-ae62-b6811004bc3f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen](https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen-a-fac944a9-1716-403a-abe2-5f50fc48ef90#ref=rss)
 ### frau
 
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-neunjaehriger-beisst-frau-nach-erfolglosen-suessigkeitendiebstahl](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-neunjaehriger-beisst-frau-nach-erfolglosen-suessigkeitendiebstahl-a-fa8a7096-e2c0-450c-ae62-b6811004bc3f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben](https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben-a-1c343196-e055-402c-8a6e-d091af35c4ef#ref=rss)
+### ermordet
+
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben](https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben-a-1c343196-e055-402c-8a6e-d091af35c4ef#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben](https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben-a-1c343196-e055-402c-8a6e-d091af35c4ef#ref=rss)
+* [https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie](https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie-a-46f3a63b-458d-40df-9ad7-f04baf8479c4#ref=rss)
+### pangrattato
+
+* [https://www.spiegel.de/stil/rezept-fuer-rosenkohl-mit-pangrattato](https://www.spiegel.de/stil/rezept-fuer-rosenkohl-mit-pangrattato-a-5c8c0b92-a641-454f-9b41-43782158c43b#ref=rss)
+### bundesfinanzhof
+
+* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-weist-klage-gegen-solidaritaetszuschlag-ab](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-weist-klage-gegen-solidaritaetszuschlag-ab-a-dc4ac167-4405-4496-a8fe-7b655936b539#ref=rss)
+### klage
+
+* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-weist-klage-gegen-solidaritaetszuschlag-ab](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-weist-klage-gegen-solidaritaetszuschlag-ab-a-dc4ac167-4405-4496-a8fe-7b655936b539#ref=rss)
+### solidaritätszuschlag
+
+* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-weist-klage-gegen-solidaritaetszuschlag-ab](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-weist-klage-gegen-solidaritaetszuschlag-ab-a-dc4ac167-4405-4496-a8fe-7b655936b539#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus](https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus-a-04caeffa-dc00-4153-83c8-0b711e27aa7b#ref=rss)
+### lisa
+
+* [https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie](https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie-a-46f3a63b-458d-40df-9ad7-f04baf8479c4#ref=rss)
+### loring
+
+* [https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie](https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie-a-46f3a63b-458d-40df-9ad7-f04baf8479c4#ref=rss)
+### wednesday
+
+* [https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie](https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie-a-46f3a63b-458d-40df-9ad7-f04baf8479c4#ref=rss)
+### addams
+
+* [https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie](https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie-a-46f3a63b-458d-40df-9ad7-f04baf8479c4#ref=rss)
+### lauterbach
+
+* [https://www.spiegel.de/panorama/bildung/lauterbach-sieht-schulschliessungen-im-rueckblick-kritisch](https://www.spiegel.de/panorama/bildung/lauterbach-sieht-schulschliessungen-im-rueckblick-kritisch-a-74fdfc14-57eb-4770-81b6-074a74bb5de8#ref=rss)
+### schulschließungen
+
+* [https://www.spiegel.de/panorama/bildung/lauterbach-sieht-schulschliessungen-im-rueckblick-kritisch](https://www.spiegel.de/panorama/bildung/lauterbach-sieht-schulschliessungen-im-rueckblick-kritisch-a-74fdfc14-57eb-4770-81b6-074a74bb5de8#ref=rss)
+### rückblick
+
+* [https://www.spiegel.de/panorama/bildung/lauterbach-sieht-schulschliessungen-im-rueckblick-kritisch](https://www.spiegel.de/panorama/bildung/lauterbach-sieht-schulschliessungen-im-rueckblick-kritisch-a-74fdfc14-57eb-4770-81b6-074a74bb5de8#ref=rss)
+### prien
+
+* [https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion](https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion-a-fc1ab1de-7017-4f76-9744-49a9bb5e2839#ref=rss)
+### werteunion
+
+* [https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion](https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion-a-fc1ab1de-7017-4f76-9744-49a9bb5e2839#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/panorama/bei-hamburg-lastwagen-reisst-leitplanke-mit-sich-a7-teilweise-gesperrt](https://www.spiegel.de/panorama/bei-hamburg-lastwagen-reisst-leitplanke-mit-sich-a7-teilweise-gesperrt-a-15a390cc-fe52-4361-882e-7355162e06b7#ref=rss)
+### leitplanke
+
+* [https://www.spiegel.de/panorama/bei-hamburg-lastwagen-reisst-leitplanke-mit-sich-a7-teilweise-gesperrt](https://www.spiegel.de/panorama/bei-hamburg-lastwagen-reisst-leitplanke-mit-sich-a7-teilweise-gesperrt-a-15a390cc-fe52-4361-882e-7355162e06b7#ref=rss)
+### gesperrt
+
+* [https://www.spiegel.de/panorama/bei-hamburg-lastwagen-reisst-leitplanke-mit-sich-a7-teilweise-gesperrt](https://www.spiegel.de/panorama/bei-hamburg-lastwagen-reisst-leitplanke-mit-sich-a7-teilweise-gesperrt-a-15a390cc-fe52-4361-882e-7355162e06b7#ref=rss)
+### philips
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
+### medizintechnikhersteller
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
+### 6000
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide](https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide-a-5b8c875a-8b27-417f-88a5-7e2684664e18#ref=rss)
+### bescheide
+
+* [https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide](https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide-a-5b8c875a-8b27-417f-88a5-7e2684664e18#ref=rss)
+### brasilien
+
+* [https://www.spiegel.de/ausland/olaf-scholz-in-brasilien-lulas-comeback-in-der-weltpolitik](https://www.spiegel.de/ausland/olaf-scholz-in-brasilien-lulas-comeback-in-der-weltpolitik-a-b5374c43-1fdb-4770-87ad-f33dadd6c991#ref=rss)
+### philadelphia
+
+* [https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl](https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl-a-13ecbf27-baef-4a84-b4bc-fcbfdab18b5e#ref=rss)
+### eagles
+
+* [https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl](https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl-a-13ecbf27-baef-4a84-b4bc-fcbfdab18b5e#ref=rss)
+### kansas
+
+* [https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl](https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl-a-13ecbf27-baef-4a84-b4bc-fcbfdab18b5e#ref=rss)
+### city
+
+* [https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl](https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl-a-13ecbf27-baef-4a84-b4bc-fcbfdab18b5e#ref=rss)
+### chiefs
+
+* [https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl](https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl-a-13ecbf27-baef-4a84-b4bc-fcbfdab18b5e#ref=rss)
 
