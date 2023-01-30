@@ -4,306 +4,301 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
+### israel
 
-* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast](https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast-a-dc943b9a-dd50-4269-b963-66b4712f50fd#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungsmisere-in-deutschland-der-grosse-wunsch-nach-kleinen-klassen](https://www.spiegel.de/panorama/bildung/bildungsmisere-in-deutschland-der-grosse-wunsch-nach-kleinen-klassen-a-0078a790-334e-426d-bbe6-5da7e2c45232#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen](https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen-a-fac944a9-1716-403a-abe2-5f50fc48ef90#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus](https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus-a-04caeffa-dc00-4153-83c8-0b711e27aa7b#ref=rss)
-### menschen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust](https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust-a-897e6e85-3e3a-4373-bc9f-73f5af13915a#ref=rss)
+* [https://www.spiegel.de/wissenschaft/israel-schafft-steuer-auf-einweggeschirr-ab](https://www.spiegel.de/wissenschaft/israel-schafft-steuer-auf-einweggeschirr-ab-a-606faf4c-bcd2-4a3f-a6b8-e84fb3b040fb#ref=rss)
+* [https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf](https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf-a-04e6c53b-1e56-4710-89fe-48e7e2b59501#ref=rss)
+* [https://www.spiegel.de/ausland/israel-nach-den-anschlaegen-die-anheizer-des-terrors](https://www.spiegel.de/ausland/israel-nach-den-anschlaegen-die-anheizer-des-terrors-a-854622f4-b46a-4bc8-8be7-0e9d85c2a6c2#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft](https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft-a-76a76014-c3e4-4a1b-b14e-460e9f457e80#ref=rss)
-* [https://www.spiegel.de/panorama/suedafrika-acht-menschen-bei-geburtstagsfeier-erschossen](https://www.spiegel.de/panorama/suedafrika-acht-menschen-bei-geburtstagsfeier-erschossen-a-63578449-c815-4ce0-a6ec-bfdce7048b17#ref=rss)
-* [https://www.spiegel.de/wissenschaft/neugeborene-mikroorganismen-besiedeln-menschen-erst-nach-der-geburt](https://www.spiegel.de/wissenschaft/neugeborene-mikroorganismen-besiedeln-menschen-erst-nach-der-geburt-a-a13e479f-2735-4a89-b3cd-82c2b75fb42f#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast](https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast-a-dc943b9a-dd50-4269-b963-66b4712f50fd#ref=rss)
+* [https://www.spiegel.de/panorama/hamburger-hafencity-lkw-fahrer-ueberfaehrt-radfahrerin-beim-abbiegen-tot](https://www.spiegel.de/panorama/hamburger-hafencity-lkw-fahrer-ueberfaehrt-radfahrerin-beim-abbiegen-tot-a-2d9bae90-eacc-4d9d-93aa-7c4b87b1935e#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/roboterhunde-bei-der-polizei-in-nordrhein-westfalen-was-taugen-sie-wirklich](https://www.spiegel.de/netzwelt/gadgets/roboterhunde-bei-der-polizei-in-nordrhein-westfalen-was-taugen-sie-wirklich-a-19edd679-fae8-4971-8d7e-71119af4fda0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/roetha-polizei-erwischt-mutmassliche-baerlauch-diebe-mit-140-kilo-beute](https://www.spiegel.de/panorama/justiz/roetha-polizei-erwischt-mutmassliche-baerlauch-diebe-mit-140-kilo-beute-a-178ef84c-d19b-495b-8c07-5021f0b211e6#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
-* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen](https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen-a-fac944a9-1716-403a-abe2-5f50fc48ef90#ref=rss)
-### vergangenen
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-mit-diversen-panzer-typen-jonglieren-muss](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-mit-diversen-panzer-typen-jonglieren-muss-a-3c262b60-d81c-457f-b69b-fcdd1e663cc4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rolls-royce-mtu-in-friedrichshafen-wenn-wir-nicht-mehr-liefern-koennen-gibt-es-keine-panzer-mehr](https://www.spiegel.de/wirtschaft/unternehmen/rolls-royce-mtu-in-friedrichshafen-wenn-wir-nicht-mehr-liefern-koennen-gibt-es-keine-panzer-mehr-a-266bc07c-1d8b-4bc3-8a2d-2a747fd8279b#ref=rss)
+* [https://www.spiegel.de/ausland/aserbaidschan-armenien-konflikt-jerewan-ruft-uno-gericht-an](https://www.spiegel.de/ausland/aserbaidschan-armenien-konflikt-jerewan-ruft-uno-gericht-an-a-9ff68539-c2c7-41b9-b5ff-488a18dbb63c#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen](https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen-a-fac944a9-1716-403a-abe2-5f50fc48ef90#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus](https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus-a-04caeffa-dc00-4153-83c8-0b711e27aa7b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
-### cdu
+* [https://www.spiegel.de/wirtschaft/nachhaltige-maerkte-wie-sich-mit-gruenen-produkten-geld-verdienen-laesst](https://www.spiegel.de/wirtschaft/nachhaltige-maerkte-wie-sich-mit-gruenen-produkten-geld-verdienen-laesst-a-cd074bbf-99b6-44ed-a9d6-6c4c6c53f895#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/coronavirus-internationale-studie-zeigt-35-prozent-weniger-lernfortschritte](https://www.spiegel.de/panorama/bildung/coronavirus-internationale-studie-zeigt-35-prozent-weniger-lernfortschritte-a-4be1a14b-9205-47f1-a594-954c55f99610#ref=rss)
+* [https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf](https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf-a-04e6c53b-1e56-4710-89fe-48e7e2b59501#ref=rss)
+* [https://www.spiegel.de/ausland/israel-nach-den-anschlaegen-die-anheizer-des-terrors](https://www.spiegel.de/ausland/israel-nach-den-anschlaegen-die-anheizer-des-terrors-a-854622f4-b46a-4bc8-8be7-0e9d85c2a6c2#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt](https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt-a-f983d21b-0004-488c-acc6-5e1be83255ca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion](https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion-a-fc1ab1de-7017-4f76-9744-49a9bb5e2839#ref=rss)
-### stellen
+* [https://www.spiegel.de/wirtschaft/unternehmen/caritas-in-thueringen-heimbetreiber-schwatzte-seinen-bewohnern-staatliche-energiehilfe-ab](https://www.spiegel.de/wirtschaft/unternehmen/caritas-in-thueringen-heimbetreiber-schwatzte-seinen-bewohnern-staatliche-energiehilfe-ab-a-d4fef9c1-ac87-4a01-93c7-deaabc28af00#ref=rss)
+* [https://www.spiegel.de/wissenschaft/israel-schafft-steuer-auf-einweggeschirr-ab](https://www.spiegel.de/wissenschaft/israel-schafft-steuer-auf-einweggeschirr-ab-a-606faf4c-bcd2-4a3f-a6b8-e84fb3b040fb#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/roetha-polizei-erwischt-mutmassliche-baerlauch-diebe-mit-140-kilo-beute](https://www.spiegel.de/panorama/justiz/roetha-polizei-erwischt-mutmassliche-baerlauch-diebe-mit-140-kilo-beute-a-178ef84c-d19b-495b-8c07-5021f0b211e6#ref=rss)
+* [https://www.spiegel.de/ausland/aserbaidschan-armenien-konflikt-jerewan-ruft-uno-gericht-an](https://www.spiegel.de/ausland/aserbaidschan-armenien-konflikt-jerewan-ruft-uno-gericht-an-a-9ff68539-c2c7-41b9-b5ff-488a18dbb63c#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/wissenschaft/natur/antarktis-pinguin-kolonie-entdeckt-satellitenbild-der-woche](https://www.spiegel.de/wissenschaft/natur/antarktis-pinguin-kolonie-entdeckt-satellitenbild-der-woche-a-daf510a0-1fa6-40cc-906d-8d5920ff3e18#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
-### ende
+* [https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an](https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an-a-af36b3db-eead-4b07-b635-3863048c8d9b#ref=rss)
+* [https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt](https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt-a-a992d65d-e514-49d1-93f0-4c5c53cdfd5e#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft](https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft-a-76a76014-c3e4-4a1b-b14e-460e9f457e80#ref=rss)
-* [https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus](https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus-a-04caeffa-dc00-4153-83c8-0b711e27aa7b#ref=rss)
-* [https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa](https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa-a-82a12683-c2df-4795-9b4b-023c77b75dbd#ref=rss)
-### tote
+* [https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an](https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an-a-af36b3db-eead-4b07-b635-3863048c8d9b#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-china-macht-usa-verantwortlich](https://www.spiegel.de/ausland/ukrainekrieg-china-macht-usa-verantwortlich-a-0030f50e-789d-45af-ad98-1c7aaf01f91e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/konstanz-schwester-eingesperrt-und-vergewaltigt-haftstrafe](https://www.spiegel.de/panorama/justiz/konstanz-schwester-eingesperrt-und-vergewaltigt-haftstrafe-a-8fc0c931-2e3e-4811-8e7f-c8a8af7b51ce#ref=rss)
+* [https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt](https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt-a-a992d65d-e514-49d1-93f0-4c5c53cdfd5e#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar](https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar-a-9a7bca9c-3b24-478a-a3dd-c4bde1750c4d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben](https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben-a-1c343196-e055-402c-8a6e-d091af35c4ef#ref=rss)
-### verbände
-
-* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide](https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide-a-5b8c875a-8b27-417f-88a5-7e2684664e18#ref=rss)
-### dazu
-
-* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt](https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt-a-f983d21b-0004-488c-acc6-5e1be83255ca#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
-### maaßen
-
-* [https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt](https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt-a-f983d21b-0004-488c-acc6-5e1be83255ca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion](https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion-a-fc1ab1de-7017-4f76-9744-49a9bb5e2839#ref=rss)
-### unfall
-
-* [https://www.spiegel.de/panorama/unfall-in-norddeutschland-supermarkt-mitarbeiter-tot-aus-muellpresse-geborgen](https://www.spiegel.de/panorama/unfall-in-norddeutschland-supermarkt-mitarbeiter-tot-aus-muellpresse-geborgen-a-58d6bb2a-b6f6-4117-acba-159ce1386716#ref=rss)
-### tot
-
-* [https://www.spiegel.de/panorama/unfall-in-norddeutschland-supermarkt-mitarbeiter-tot-aus-muellpresse-geborgen](https://www.spiegel.de/panorama/unfall-in-norddeutschland-supermarkt-mitarbeiter-tot-aus-muellpresse-geborgen-a-58d6bb2a-b6f6-4117-acba-159ce1386716#ref=rss)
-* [https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie](https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie-a-46f3a63b-458d-40df-9ad7-f04baf8479c4#ref=rss)
-### müllpresse
-
-* [https://www.spiegel.de/panorama/unfall-in-norddeutschland-supermarkt-mitarbeiter-tot-aus-muellpresse-geborgen](https://www.spiegel.de/panorama/unfall-in-norddeutschland-supermarkt-mitarbeiter-tot-aus-muellpresse-geborgen-a-58d6bb2a-b6f6-4117-acba-159ce1386716#ref=rss)
-### bundesbank
-
-* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
-### falschgeld
-
-* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
-### 20
-
-* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
-### beliebt
-
-* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt](https://www.spiegel.de/wirtschaft/service/bundesbank-registriert-mehr-falschgeld-20-und-50-euro-scheine-beliebt-a-855f2718-2d84-47c4-9b9f-a17ae50ec57e#ref=rss)
-* [https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast](https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast-a-dc943b9a-dd50-4269-b963-66b4712f50fd#ref=rss)
-### antarktis
-
-* [https://www.spiegel.de/wissenschaft/natur/antarktis-pinguin-kolonie-entdeckt-satellitenbild-der-woche](https://www.spiegel.de/wissenschaft/natur/antarktis-pinguin-kolonie-entdeckt-satellitenbild-der-woche-a-daf510a0-1fa6-40cc-906d-8d5920ff3e18#ref=rss)
-### djamila
-
-* [https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft](https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft-a-76a76014-c3e4-4a1b-b14e-460e9f457e80#ref=rss)
-### rowe
-
-* [https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft](https://www.spiegel.de/kultur/tv/djamila-rowe-ist-dschungelkoenigin-regentin-einer-parallelgesellschaft-a-76a76014-c3e4-4a1b-b14e-460e9f457e80#ref=rss)
-### südafrika
-
-* [https://www.spiegel.de/panorama/suedafrika-acht-menschen-bei-geburtstagsfeier-erschossen](https://www.spiegel.de/panorama/suedafrika-acht-menschen-bei-geburtstagsfeier-erschossen-a-63578449-c815-4ce0-a6ec-bfdce7048b17#ref=rss)
-### acht
-
-* [https://www.spiegel.de/panorama/suedafrika-acht-menschen-bei-geburtstagsfeier-erschossen](https://www.spiegel.de/panorama/suedafrika-acht-menschen-bei-geburtstagsfeier-erschossen-a-63578449-c815-4ce0-a6ec-bfdce7048b17#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem-a-b38b864f-6164-4232-883c-8257091a4102#ref=rss)
-* [https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa](https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa-a-82a12683-c2df-4795-9b4b-023c77b75dbd#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem-a-b38b864f-6164-4232-883c-8257091a4102#ref=rss)
-* [https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa](https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa-a-82a12683-c2df-4795-9b4b-023c77b75dbd#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-china-macht-usa-verantwortlich](https://www.spiegel.de/ausland/ukrainekrieg-china-macht-usa-verantwortlich-a-0030f50e-789d-45af-ad98-1c7aaf01f91e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/israel-schafft-steuer-auf-einweggeschirr-ab](https://www.spiegel.de/wissenschaft/israel-schafft-steuer-auf-einweggeschirr-ab-a-606faf4c-bcd2-4a3f-a6b8-e84fb3b040fb#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/frankreich-gedenkstaettenbesuch-soll-fuer-schueler-zum-standard-werden](https://www.spiegel.de/panorama/bildung/frankreich-gedenkstaettenbesuch-soll-fuer-schueler-zum-standard-werden-a-9aafc5d8-e703-46f3-8771-41dece52589b#ref=rss)
+* [https://www.spiegel.de/ausland/israel-nach-den-anschlaegen-die-anheizer-des-terrors](https://www.spiegel.de/ausland/israel-nach-den-anschlaegen-die-anheizer-des-terrors-a-854622f4-b46a-4bc8-8be7-0e9d85c2a6c2#ref=rss)
 ### ukraine
 
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-mit-diversen-panzer-typen-jonglieren-muss](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-mit-diversen-panzer-typen-jonglieren-muss-a-3c262b60-d81c-457f-b69b-fcdd1e663cc4#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-china-macht-usa-verantwortlich](https://www.spiegel.de/ausland/ukrainekrieg-china-macht-usa-verantwortlich-a-0030f50e-789d-45af-ad98-1c7aaf01f91e#ref=rss)
 * [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem-a-b38b864f-6164-4232-883c-8257091a4102#ref=rss)
-* [https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa](https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa-a-82a12683-c2df-4795-9b4b-023c77b75dbd#ref=rss)
-### russland
+### zeigt
 
+* [https://www.spiegel.de/wirtschaft/nachhaltige-maerkte-wie-sich-mit-gruenen-produkten-geld-verdienen-laesst](https://www.spiegel.de/wirtschaft/nachhaltige-maerkte-wie-sich-mit-gruenen-produkten-geld-verdienen-laesst-a-cd074bbf-99b6-44ed-a9d6-6c4c6c53f895#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/coronavirus-internationale-studie-zeigt-35-prozent-weniger-lernfortschritte](https://www.spiegel.de/panorama/bildung/coronavirus-internationale-studie-zeigt-35-prozent-weniger-lernfortschritte-a-4be1a14b-9205-47f1-a594-954c55f99610#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/terrorverdacht-in-castrop-rauxel-einer-von-zwei-verdaechtigen-aus-untersuchungshaft-entlassen](https://www.spiegel.de/panorama/terrorverdacht-in-castrop-rauxel-einer-von-zwei-verdaechtigen-aus-untersuchungshaft-entlassen-a-52fc2144-4ba9-4701-bb31-2d4cd088cdbc#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/kyle-smaine-lawine-toetet-ex-halfpipe-weltmeister](https://www.spiegel.de/sport/wintersport/kyle-smaine-lawine-toetet-ex-halfpipe-weltmeister-a-5245b901-ee15-4ca0-9c29-2c5738a46ba4#ref=rss)
+### blinken
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust](https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust-a-897e6e85-3e3a-4373-bc9f-73f5af13915a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf](https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf-a-04e6c53b-1e56-4710-89fe-48e7e2b59501#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/windeln-de-abverkauf-insolventer-onlinehandel-wird-abgewickelt](https://www.spiegel.de/wirtschaft/unternehmen/windeln-de-abverkauf-insolventer-onlinehandel-wird-abgewickelt-a-307ac5e0-774a-460c-a4d2-57b9886675de#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an](https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an-a-af36b3db-eead-4b07-b635-3863048c8d9b#ref=rss)
+* [https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt](https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt-a-a992d65d-e514-49d1-93f0-4c5c53cdfd5e#ref=rss)
+### januar
+
+* [https://www.spiegel.de/wirtschaft/service/verbraucherpreise-erneut-hohe-teuerungsrate-erwartet-statistikamt-verschiebt-inflationsdaten](https://www.spiegel.de/wirtschaft/service/verbraucherpreise-erneut-hohe-teuerungsrate-erwartet-statistikamt-verschiebt-inflationsdaten-a-dc9e9346-da17-4895-9577-3b5e741ada88#ref=rss)
+* [https://www.spiegel.de/panorama/winterwetter-2023-der-januar-war-wie-ein-maerz-und-endet-stuermisch](https://www.spiegel.de/panorama/winterwetter-2023-der-januar-war-wie-ein-maerz-und-endet-stuermisch-a-3b1e003b-f7a6-491f-8f89-dfd091df9af5#ref=rss)
+### unter
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/rolls-royce-mtu-in-friedrichshafen-wenn-wir-nicht-mehr-liefern-koennen-gibt-es-keine-panzer-mehr](https://www.spiegel.de/wirtschaft/unternehmen/rolls-royce-mtu-in-friedrichshafen-wenn-wir-nicht-mehr-liefern-koennen-gibt-es-keine-panzer-mehr-a-266bc07c-1d8b-4bc3-8a2d-2a747fd8279b#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/kyle-smaine-lawine-toetet-ex-halfpipe-weltmeister](https://www.spiegel.de/sport/wintersport/kyle-smaine-lawine-toetet-ex-halfpipe-weltmeister-a-5245b901-ee15-4ca0-9c29-2c5738a46ba4#ref=rss)
+* [https://www.spiegel.de/ausland/iran-will-meinungsfreiheit-weiter-beschneiden](https://www.spiegel.de/ausland/iran-will-meinungsfreiheit-weiter-beschneiden-a-173338d8-1a88-4e5a-afbd-2eae0b8a8d84#ref=rss)
+### ukrainekrieg
+
+* [https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-mit-diversen-panzer-typen-jonglieren-muss](https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-wie-kiew-mit-diversen-panzer-typen-jonglieren-muss-a-3c262b60-d81c-457f-b69b-fcdd1e663cc4#ref=rss)
+* [https://www.spiegel.de/ausland/ukrainekrieg-china-macht-usa-verantwortlich](https://www.spiegel.de/ausland/ukrainekrieg-china-macht-usa-verantwortlich-a-0030f50e-789d-45af-ad98-1c7aaf01f91e#ref=rss)
+### nachhaltige
+
+* [https://www.spiegel.de/wirtschaft/nachhaltige-maerkte-wie-sich-mit-gruenen-produkten-geld-verdienen-laesst](https://www.spiegel.de/wirtschaft/nachhaltige-maerkte-wie-sich-mit-gruenen-produkten-geld-verdienen-laesst-a-cd074bbf-99b6-44ed-a9d6-6c4c6c53f895#ref=rss)
+### märkte
+
+* [https://www.spiegel.de/wirtschaft/nachhaltige-maerkte-wie-sich-mit-gruenen-produkten-geld-verdienen-laesst](https://www.spiegel.de/wirtschaft/nachhaltige-maerkte-wie-sich-mit-gruenen-produkten-geld-verdienen-laesst-a-cd074bbf-99b6-44ed-a9d6-6c4c6c53f895#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wirtschaft/nachhaltige-maerkte-wie-sich-mit-gruenen-produkten-geld-verdienen-laesst](https://www.spiegel.de/wirtschaft/nachhaltige-maerkte-wie-sich-mit-gruenen-produkten-geld-verdienen-laesst-a-cd074bbf-99b6-44ed-a9d6-6c4c6c53f895#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/coronavirus-internationale-studie-zeigt-35-prozent-weniger-lernfortschritte](https://www.spiegel.de/panorama/bildung/coronavirus-internationale-studie-zeigt-35-prozent-weniger-lernfortschritte-a-4be1a14b-9205-47f1-a594-954c55f99610#ref=rss)
+### castroprauxel
+
+* [https://www.spiegel.de/panorama/terrorverdacht-in-castrop-rauxel-einer-von-zwei-verdaechtigen-aus-untersuchungshaft-entlassen](https://www.spiegel.de/panorama/terrorverdacht-in-castrop-rauxel-einer-von-zwei-verdaechtigen-aus-untersuchungshaft-entlassen-a-52fc2144-4ba9-4701-bb31-2d4cd088cdbc#ref=rss)
+### untersuchungshaft
+
+* [https://www.spiegel.de/panorama/terrorverdacht-in-castrop-rauxel-einer-von-zwei-verdaechtigen-aus-untersuchungshaft-entlassen](https://www.spiegel.de/panorama/terrorverdacht-in-castrop-rauxel-einer-von-zwei-verdaechtigen-aus-untersuchungshaft-entlassen-a-52fc2144-4ba9-4701-bb31-2d4cd088cdbc#ref=rss)
+### thüringen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/caritas-in-thueringen-heimbetreiber-schwatzte-seinen-bewohnern-staatliche-energiehilfe-ab](https://www.spiegel.de/wirtschaft/unternehmen/caritas-in-thueringen-heimbetreiber-schwatzte-seinen-bewohnern-staatliche-energiehilfe-ab-a-d4fef9c1-ac87-4a01-93c7-deaabc28af00#ref=rss)
+### heimbetreiber
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/caritas-in-thueringen-heimbetreiber-schwatzte-seinen-bewohnern-staatliche-energiehilfe-ab](https://www.spiegel.de/wirtschaft/unternehmen/caritas-in-thueringen-heimbetreiber-schwatzte-seinen-bewohnern-staatliche-energiehilfe-ab-a-d4fef9c1-ac87-4a01-93c7-deaabc28af00#ref=rss)
+### news
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust](https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust-a-897e6e85-3e3a-4373-bc9f-73f5af13915a#ref=rss)
 * [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem-a-b38b864f-6164-4232-883c-8257091a4102#ref=rss)
-* [https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa](https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa-a-82a12683-c2df-4795-9b4b-023c77b75dbd#ref=rss)
-### dschungelcamp
-
-* [https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten](https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten-a-aa0873aa-181c-4592-9ebf-92248089310e#ref=rss)
-### bringt
-
-* [https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten](https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten-a-aa0873aa-181c-4592-9ebf-92248089310e#ref=rss)
-* [https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa](https://www.spiegel.de/ausland/russland-erwaegt-aufkuendigung-von-atomwaffenvertrag-mit-den-usa-a-82a12683-c2df-4795-9b4b-023c77b75dbd#ref=rss)
-### rtl
-
-* [https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten](https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten-a-aa0873aa-181c-4592-9ebf-92248089310e#ref=rss)
-### einschaltquoten
-
-* [https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten](https://www.spiegel.de/kultur/tv/dschungelcampfinale-bringt-rtl-hohe-einschaltquoten-a-aa0873aa-181c-4592-9ebf-92248089310e#ref=rss)
-### pakistan
-
-* [https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar](https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar-a-9a7bca9c-3b24-478a-a3dd-c4bde1750c4d#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar](https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar-a-9a7bca9c-3b24-478a-a3dd-c4bde1750c4d#ref=rss)
-### mutmaßlichen
-
-* [https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar](https://www.spiegel.de/ausland/pakistan-tote-und-verletzte-nach-schwerer-explosion-in-peschawar-a-9a7bca9c-3b24-478a-a3dd-c4bde1750c4d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben](https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben-a-1c343196-e055-402c-8a6e-d091af35c4ef#ref=rss)
-### dortmund
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte](https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte-a-e884ba76-77dc-4292-8872-8cda5683fb16#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte](https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte-a-e884ba76-77dc-4292-8872-8cda5683fb16#ref=rss)
-* [https://www.spiegel.de/ausland/olaf-scholz-in-brasilien-lulas-comeback-in-der-weltpolitik](https://www.spiegel.de/ausland/olaf-scholz-in-brasilien-lulas-comeback-in-der-weltpolitik-a-b5374c43-1fdb-4770-87ad-f33dadd6c991#ref=rss)
-### bank
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte](https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte-a-e884ba76-77dc-4292-8872-8cda5683fb16#ref=rss)
-### bvb
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte](https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte-a-e884ba76-77dc-4292-8872-8cda5683fb16#ref=rss)
-### macht
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte](https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte-a-e884ba76-77dc-4292-8872-8cda5683fb16#ref=rss)
-* [https://www.spiegel.de/stil/rezept-fuer-rosenkohl-mit-pangrattato](https://www.spiegel.de/stil/rezept-fuer-rosenkohl-mit-pangrattato-a-5c8c0b92-a641-454f-9b41-43782158c43b#ref=rss)
-### fast
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte](https://www.spiegel.de/sport/fussball/borussia-dortmund-im-neuen-bundesliga-jahr-die-beste-bank-die-der-bvb-je-hatte-a-e884ba76-77dc-4292-8872-8cda5683fb16#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide](https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide-a-5b8c875a-8b27-417f-88a5-7e2684664e18#ref=rss)
-### besiedeln
-
-* [https://www.spiegel.de/wissenschaft/neugeborene-mikroorganismen-besiedeln-menschen-erst-nach-der-geburt](https://www.spiegel.de/wissenschaft/neugeborene-mikroorganismen-besiedeln-menschen-erst-nach-der-geburt-a-a13e479f-2735-4a89-b3cd-82c2b75fb42f#ref=rss)
-### wichtig
-
-* [https://www.spiegel.de/wissenschaft/neugeborene-mikroorganismen-besiedeln-menschen-erst-nach-der-geburt](https://www.spiegel.de/wissenschaft/neugeborene-mikroorganismen-besiedeln-menschen-erst-nach-der-geburt-a-a13e479f-2735-4a89-b3cd-82c2b75fb42f#ref=rss)
-* [https://www.spiegel.de/start/berufseinstieg-das-hilft-bei-ueber-und-unterforderung-kolumne](https://www.spiegel.de/start/berufseinstieg-das-hilft-bei-ueber-und-unterforderung-kolumne-a-ffe7f5bc-be20-4683-bb81-95e22fc8b463#ref=rss)
-### hnoärzte
-
-* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
-### mandelops
-
-* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
-### streit
-
-* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
-### kindern
-
-* [https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat](https://www.spiegel.de/gesundheit/hno-aerzte-ueber-mandel-ops-was-es-mit-dem-streit-auf-sich-hat-a-64d8bc21-b00b-4ac5-a15c-c7731d649576#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/bildungsmisere-in-deutschland-der-grosse-wunsch-nach-kleinen-klassen](https://www.spiegel.de/panorama/bildung/bildungsmisere-in-deutschland-der-grosse-wunsch-nach-kleinen-klassen-a-0078a790-334e-426d-bbe6-5da7e2c45232#ref=rss)
-### toyota
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/toyota-bleibt-vor-volkswagen-weltweit-groesster-autobauer](https://www.spiegel.de/wirtschaft/unternehmen/toyota-bleibt-vor-volkswagen-weltweit-groesster-autobauer-a-e8217022-cc14-4d90-8e9c-aa633c0d090f#ref=rss)
-### volkswagen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/toyota-bleibt-vor-volkswagen-weltweit-groesster-autobauer](https://www.spiegel.de/wirtschaft/unternehmen/toyota-bleibt-vor-volkswagen-weltweit-groesster-autobauer-a-e8217022-cc14-4d90-8e9c-aa633c0d090f#ref=rss)
-### konzern
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/toyota-bleibt-vor-volkswagen-weltweit-groesster-autobauer](https://www.spiegel.de/wirtschaft/unternehmen/toyota-bleibt-vor-volkswagen-weltweit-groesster-autobauer-a-e8217022-cc14-4d90-8e9c-aa633c0d090f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
-### arm
-
-* [https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast](https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast-a-dc943b9a-dd50-4269-b963-66b4712f50fd#ref=rss)
-### reich
-
-* [https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast](https://www.spiegel.de/deinspiegel/wann-ist-man-arm-dein-spiegel-podcast-a-dc943b9a-dd50-4269-b963-66b4712f50fd#ref=rss)
 ### hansgeorg
 
-* [https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt](https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt-a-f983d21b-0004-488c-acc6-5e1be83255ca#ref=rss)
-### partei
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust](https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust-a-897e6e85-3e3a-4373-bc9f-73f5af13915a#ref=rss)
+### maaßen
 
-* [https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt](https://www.spiegel.de/politik/deutschland/cdu-setzt-hans-georg-maassen-frist-fuer-parteiaustritt-a-f983d21b-0004-488c-acc6-5e1be83255ca#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion](https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion-a-fc1ab1de-7017-4f76-9744-49a9bb5e2839#ref=rss)
-### zahl
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust](https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust-a-897e6e85-3e3a-4373-bc9f-73f5af13915a#ref=rss)
+### usaußenminister
 
-* [https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen](https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen-a-fac944a9-1716-403a-abe2-5f50fc48ef90#ref=rss)
-### gestiegen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust](https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust-a-897e6e85-3e3a-4373-bc9f-73f5af13915a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf](https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf-a-04e6c53b-1e56-4710-89fe-48e7e2b59501#ref=rss)
+### antony
 
-* [https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen](https://www.spiegel.de/panorama/bildung/schuljahr-2021-22-zahl-der-sitzenbleiber-um-67-prozent-gestiegen-a-fac944a9-1716-403a-abe2-5f50fc48ef90#ref=rss)
-### frau
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust](https://www.spiegel.de/politik/deutschland/news-des-tages-hans-georg-maassen-hardliner-in-israel-radioaktiver-verlust-a-897e6e85-3e3a-4373-bc9f-73f5af13915a#ref=rss)
+* [https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf](https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf-a-04e6c53b-1e56-4710-89fe-48e7e2b59501#ref=rss)
+### hafencity
 
-* [https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben](https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben-a-1c343196-e055-402c-8a6e-d091af35c4ef#ref=rss)
-### ermordet
-
-* [https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben](https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben-a-1c343196-e055-402c-8a6e-d091af35c4ef#ref=rss)
-### tochter
-
-* [https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben](https://www.spiegel.de/panorama/justiz/ingolstadt-junge-frau-soll-ihre-doppelgaengerin-ermordet-haben-a-1c343196-e055-402c-8a6e-d091af35c4ef#ref=rss)
-* [https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie](https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie-a-46f3a63b-458d-40df-9ad7-f04baf8479c4#ref=rss)
-### pangrattato
-
-* [https://www.spiegel.de/stil/rezept-fuer-rosenkohl-mit-pangrattato](https://www.spiegel.de/stil/rezept-fuer-rosenkohl-mit-pangrattato-a-5c8c0b92-a641-454f-9b41-43782158c43b#ref=rss)
-### bundesfinanzhof
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-weist-klage-gegen-solidaritaetszuschlag-ab](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-weist-klage-gegen-solidaritaetszuschlag-ab-a-dc4ac167-4405-4496-a8fe-7b655936b539#ref=rss)
-### klage
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-weist-klage-gegen-solidaritaetszuschlag-ab](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-weist-klage-gegen-solidaritaetszuschlag-ab-a-dc4ac167-4405-4496-a8fe-7b655936b539#ref=rss)
-### solidaritätszuschlag
-
-* [https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-weist-klage-gegen-solidaritaetszuschlag-ab](https://www.spiegel.de/wirtschaft/soziales/bundesfinanzhof-weist-klage-gegen-solidaritaetszuschlag-ab-a-dc4ac167-4405-4496-a8fe-7b655936b539#ref=rss)
-### wirtschaft
-
-* [https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus](https://www.spiegel.de/wirtschaft/bip-deutsche-wirtschaft-schafft-2022-mini-plus-a-04caeffa-dc00-4153-83c8-0b711e27aa7b#ref=rss)
-### lisa
-
-* [https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie](https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie-a-46f3a63b-458d-40df-9ad7-f04baf8479c4#ref=rss)
-### loring
-
-* [https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie](https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie-a-46f3a63b-458d-40df-9ad7-f04baf8479c4#ref=rss)
-### wednesday
-
-* [https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie](https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie-a-46f3a63b-458d-40df-9ad7-f04baf8479c4#ref=rss)
-### addams
-
-* [https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie](https://www.spiegel.de/kultur/tv/lisa-loring-ist-tot-wednesday-in-der-addams-family-originalserie-a-46f3a63b-458d-40df-9ad7-f04baf8479c4#ref=rss)
-### lauterbach
-
-* [https://www.spiegel.de/panorama/bildung/lauterbach-sieht-schulschliessungen-im-rueckblick-kritisch](https://www.spiegel.de/panorama/bildung/lauterbach-sieht-schulschliessungen-im-rueckblick-kritisch-a-74fdfc14-57eb-4770-81b6-074a74bb5de8#ref=rss)
-### schulschließungen
-
-* [https://www.spiegel.de/panorama/bildung/lauterbach-sieht-schulschliessungen-im-rueckblick-kritisch](https://www.spiegel.de/panorama/bildung/lauterbach-sieht-schulschliessungen-im-rueckblick-kritisch-a-74fdfc14-57eb-4770-81b6-074a74bb5de8#ref=rss)
-### rückblick
-
-* [https://www.spiegel.de/panorama/bildung/lauterbach-sieht-schulschliessungen-im-rueckblick-kritisch](https://www.spiegel.de/panorama/bildung/lauterbach-sieht-schulschliessungen-im-rueckblick-kritisch-a-74fdfc14-57eb-4770-81b6-074a74bb5de8#ref=rss)
-### prien
-
-* [https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion](https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion-a-fc1ab1de-7017-4f76-9744-49a9bb5e2839#ref=rss)
-### werteunion
-
-* [https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion](https://www.spiegel.de/politik/deutschland/cdu-karin-prien-draengt-auf-unvereinbarkeitsbeschluss-ihrer-partei-mit-werteunion-a-fc1ab1de-7017-4f76-9744-49a9bb5e2839#ref=rss)
+* [https://www.spiegel.de/panorama/hamburger-hafencity-lkw-fahrer-ueberfaehrt-radfahrerin-beim-abbiegen-tot](https://www.spiegel.de/panorama/hamburger-hafencity-lkw-fahrer-ueberfaehrt-radfahrerin-beim-abbiegen-tot-a-2d9bae90-eacc-4d9d-93aa-7c4b87b1935e#ref=rss)
 ### hamburg
 
-* [https://www.spiegel.de/panorama/bei-hamburg-lastwagen-reisst-leitplanke-mit-sich-a7-teilweise-gesperrt](https://www.spiegel.de/panorama/bei-hamburg-lastwagen-reisst-leitplanke-mit-sich-a7-teilweise-gesperrt-a-15a390cc-fe52-4361-882e-7355162e06b7#ref=rss)
-### leitplanke
+* [https://www.spiegel.de/panorama/hamburger-hafencity-lkw-fahrer-ueberfaehrt-radfahrerin-beim-abbiegen-tot](https://www.spiegel.de/panorama/hamburger-hafencity-lkw-fahrer-ueberfaehrt-radfahrerin-beim-abbiegen-tot-a-2d9bae90-eacc-4d9d-93aa-7c4b87b1935e#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hells-angels-gegen-mongols-als-in-hamburg-der-rockerkrieg-tobte-podcast-im-verhoer](https://www.spiegel.de/panorama/gesellschaft/hells-angels-gegen-mongols-als-in-hamburg-der-rockerkrieg-tobte-podcast-im-verhoer-a-9b42699c-3479-4ee4-b197-f176a243ab87#ref=rss)
+### getötet
 
-* [https://www.spiegel.de/panorama/bei-hamburg-lastwagen-reisst-leitplanke-mit-sich-a7-teilweise-gesperrt](https://www.spiegel.de/panorama/bei-hamburg-lastwagen-reisst-leitplanke-mit-sich-a7-teilweise-gesperrt-a-15a390cc-fe52-4361-882e-7355162e06b7#ref=rss)
-### gesperrt
+* [https://www.spiegel.de/panorama/hamburger-hafencity-lkw-fahrer-ueberfaehrt-radfahrerin-beim-abbiegen-tot](https://www.spiegel.de/panorama/hamburger-hafencity-lkw-fahrer-ueberfaehrt-radfahrerin-beim-abbiegen-tot-a-2d9bae90-eacc-4d9d-93aa-7c4b87b1935e#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/kyle-smaine-lawine-toetet-ex-halfpipe-weltmeister](https://www.spiegel.de/sport/wintersport/kyle-smaine-lawine-toetet-ex-halfpipe-weltmeister-a-5245b901-ee15-4ca0-9c29-2c5738a46ba4#ref=rss)
+### hells
 
-* [https://www.spiegel.de/panorama/bei-hamburg-lastwagen-reisst-leitplanke-mit-sich-a7-teilweise-gesperrt](https://www.spiegel.de/panorama/bei-hamburg-lastwagen-reisst-leitplanke-mit-sich-a7-teilweise-gesperrt-a-15a390cc-fe52-4361-882e-7355162e06b7#ref=rss)
-### philips
+* [https://www.spiegel.de/panorama/gesellschaft/hells-angels-gegen-mongols-als-in-hamburg-der-rockerkrieg-tobte-podcast-im-verhoer](https://www.spiegel.de/panorama/gesellschaft/hells-angels-gegen-mongols-als-in-hamburg-der-rockerkrieg-tobte-podcast-im-verhoer-a-9b42699c-3479-4ee4-b197-f176a243ab87#ref=rss)
+### angels
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
-### medizintechnikhersteller
+* [https://www.spiegel.de/panorama/gesellschaft/hells-angels-gegen-mongols-als-in-hamburg-der-rockerkrieg-tobte-podcast-im-verhoer](https://www.spiegel.de/panorama/gesellschaft/hells-angels-gegen-mongols-als-in-hamburg-der-rockerkrieg-tobte-podcast-im-verhoer-a-9b42699c-3479-4ee4-b197-f176a243ab87#ref=rss)
+### mongols
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
-### 6000
+* [https://www.spiegel.de/panorama/gesellschaft/hells-angels-gegen-mongols-als-in-hamburg-der-rockerkrieg-tobte-podcast-im-verhoer](https://www.spiegel.de/panorama/gesellschaft/hells-angels-gegen-mongols-als-in-hamburg-der-rockerkrieg-tobte-podcast-im-verhoer-a-9b42699c-3479-4ee4-b197-f176a243ab87#ref=rss)
+### waren
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/philips-medizintechnikhersteller-streicht-weitere-6000-stellen-a-30ae465c-5a94-4cae-900a-778acf401da7#ref=rss)
-### fordern
+* [https://www.spiegel.de/panorama/gesellschaft/hells-angels-gegen-mongols-als-in-hamburg-der-rockerkrieg-tobte-podcast-im-verhoer](https://www.spiegel.de/panorama/gesellschaft/hells-angels-gegen-mongols-als-in-hamburg-der-rockerkrieg-tobte-podcast-im-verhoer-a-9b42699c-3479-4ee4-b197-f176a243ab87#ref=rss)
+* [https://www.spiegel.de/ausland/israel-nach-den-anschlaegen-die-anheizer-des-terrors](https://www.spiegel.de/ausland/israel-nach-den-anschlaegen-die-anheizer-des-terrors-a-854622f4-b46a-4bc8-8be7-0e9d85c2a6c2#ref=rss)
+### große
 
-* [https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide](https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide-a-5b8c875a-8b27-417f-88a5-7e2684664e18#ref=rss)
-### bescheide
+* [https://www.spiegel.de/panorama/gesellschaft/hells-angels-gegen-mongols-als-in-hamburg-der-rockerkrieg-tobte-podcast-im-verhoer](https://www.spiegel.de/panorama/gesellschaft/hells-angels-gegen-mongols-als-in-hamburg-der-rockerkrieg-tobte-podcast-im-verhoer-a-9b42699c-3479-4ee4-b197-f176a243ab87#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/roetha-polizei-erwischt-mutmassliche-baerlauch-diebe-mit-140-kilo-beute](https://www.spiegel.de/panorama/justiz/roetha-polizei-erwischt-mutmassliche-baerlauch-diebe-mit-140-kilo-beute-a-178ef84c-d19b-495b-8c07-5021f0b211e6#ref=rss)
+### abgewickelt
 
-* [https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide](https://www.spiegel.de/wirtschaft/service/grundsteuer-reform-verbaende-fordern-erlass-nur-vorlaeufiger-bescheide-a-5b8c875a-8b27-417f-88a5-7e2684664e18#ref=rss)
-### brasilien
+* [https://www.spiegel.de/wirtschaft/unternehmen/windeln-de-abverkauf-insolventer-onlinehandel-wird-abgewickelt](https://www.spiegel.de/wirtschaft/unternehmen/windeln-de-abverkauf-insolventer-onlinehandel-wird-abgewickelt-a-307ac5e0-774a-460c-a4d2-57b9886675de#ref=rss)
+### zahlen
 
-* [https://www.spiegel.de/ausland/olaf-scholz-in-brasilien-lulas-comeback-in-der-weltpolitik](https://www.spiegel.de/ausland/olaf-scholz-in-brasilien-lulas-comeback-in-der-weltpolitik-a-b5374c43-1fdb-4770-87ad-f33dadd6c991#ref=rss)
-### philadelphia
+* [https://www.spiegel.de/wirtschaft/unternehmen/windeln-de-abverkauf-insolventer-onlinehandel-wird-abgewickelt](https://www.spiegel.de/wirtschaft/unternehmen/windeln-de-abverkauf-insolventer-onlinehandel-wird-abgewickelt-a-307ac5e0-774a-460c-a4d2-57b9886675de#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/verbraucherpreise-erneut-hohe-teuerungsrate-erwartet-statistikamt-verschiebt-inflationsdaten](https://www.spiegel.de/wirtschaft/service/verbraucherpreise-erneut-hohe-teuerungsrate-erwartet-statistikamt-verschiebt-inflationsdaten-a-dc9e9346-da17-4895-9577-3b5e741ada88#ref=rss)
+### monaten
 
-* [https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl](https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl-a-13ecbf27-baef-4a84-b4bc-fcbfdab18b5e#ref=rss)
-### eagles
+* [https://www.spiegel.de/wirtschaft/unternehmen/windeln-de-abverkauf-insolventer-onlinehandel-wird-abgewickelt](https://www.spiegel.de/wirtschaft/unternehmen/windeln-de-abverkauf-insolventer-onlinehandel-wird-abgewickelt-a-307ac5e0-774a-460c-a4d2-57b9886675de#ref=rss)
+* [https://www.spiegel.de/ausland/iran-will-meinungsfreiheit-weiter-beschneiden](https://www.spiegel.de/ausland/iran-will-meinungsfreiheit-weiter-beschneiden-a-173338d8-1a88-4e5a-afbd-2eae0b8a8d84#ref=rss)
+### erwartet
 
-* [https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl](https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl-a-13ecbf27-baef-4a84-b4bc-fcbfdab18b5e#ref=rss)
-### kansas
+* [https://www.spiegel.de/wirtschaft/service/verbraucherpreise-erneut-hohe-teuerungsrate-erwartet-statistikamt-verschiebt-inflationsdaten](https://www.spiegel.de/wirtschaft/service/verbraucherpreise-erneut-hohe-teuerungsrate-erwartet-statistikamt-verschiebt-inflationsdaten-a-dc9e9346-da17-4895-9577-3b5e741ada88#ref=rss)
+* [https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt](https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt-a-a992d65d-e514-49d1-93f0-4c5c53cdfd5e#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl](https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl-a-13ecbf27-baef-4a84-b4bc-fcbfdab18b5e#ref=rss)
-### city
+* [https://www.spiegel.de/wirtschaft/service/verbraucherpreise-erneut-hohe-teuerungsrate-erwartet-statistikamt-verschiebt-inflationsdaten](https://www.spiegel.de/wirtschaft/service/verbraucherpreise-erneut-hohe-teuerungsrate-erwartet-statistikamt-verschiebt-inflationsdaten-a-dc9e9346-da17-4895-9577-3b5e741ada88#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/coronavirus-internationale-studie-zeigt-35-prozent-weniger-lernfortschritte](https://www.spiegel.de/panorama/bildung/coronavirus-internationale-studie-zeigt-35-prozent-weniger-lernfortschritte-a-4be1a14b-9205-47f1-a594-954c55f99610#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl](https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl-a-13ecbf27-baef-4a84-b4bc-fcbfdab18b5e#ref=rss)
-### chiefs
+* [https://www.spiegel.de/wirtschaft/service/verbraucherpreise-erneut-hohe-teuerungsrate-erwartet-statistikamt-verschiebt-inflationsdaten](https://www.spiegel.de/wirtschaft/service/verbraucherpreise-erneut-hohe-teuerungsrate-erwartet-statistikamt-verschiebt-inflationsdaten-a-dc9e9346-da17-4895-9577-3b5e741ada88#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/rolls-royce-mtu-in-friedrichshafen-wenn-wir-nicht-mehr-liefern-koennen-gibt-es-keine-panzer-mehr](https://www.spiegel.de/wirtschaft/unternehmen/rolls-royce-mtu-in-friedrichshafen-wenn-wir-nicht-mehr-liefern-koennen-gibt-es-keine-panzer-mehr-a-266bc07c-1d8b-4bc3-8a2d-2a747fd8279b#ref=rss)
+### vietnamese
 
-* [https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl](https://www.spiegel.de/sport/american-football/nfl-philadelphia-eagles-und-kansas-city-chiefs-im-superbowl-a-13ecbf27-baef-4a84-b4bc-fcbfdab18b5e#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an](https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an-a-af36b3db-eead-4b07-b635-3863048c8d9b#ref=rss)
+* [https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt](https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt-a-a992d65d-e514-49d1-93f0-4c5c53cdfd5e#ref=rss)
+### vietnamesische
+
+* [https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an](https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an-a-af36b3db-eead-4b07-b635-3863048c8d9b#ref=rss)
+* [https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt](https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt-a-a992d65d-e514-49d1-93f0-4c5c53cdfd5e#ref=rss)
+### geheimdienst
+
+* [https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an](https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an-a-af36b3db-eead-4b07-b635-3863048c8d9b#ref=rss)
+* [https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt](https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt-a-a992d65d-e514-49d1-93f0-4c5c53cdfd5e#ref=rss)
+### geschäftsmann
+
+* [https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an](https://www.spiegel.de/panorama/justiz/vietnamese-in-berlin-entfuehrt-das-martyrium-des-tatopfers-dauert-an-a-af36b3db-eead-4b07-b635-3863048c8d9b#ref=rss)
+* [https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt](https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt-a-a992d65d-e514-49d1-93f0-4c5c53cdfd5e#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/panorama/bildung/coronavirus-internationale-studie-zeigt-35-prozent-weniger-lernfortschritte](https://www.spiegel.de/panorama/bildung/coronavirus-internationale-studie-zeigt-35-prozent-weniger-lernfortschritte-a-4be1a14b-9205-47f1-a594-954c55f99610#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/bildung/coronavirus-internationale-studie-zeigt-35-prozent-weniger-lernfortschritte](https://www.spiegel.de/panorama/bildung/coronavirus-internationale-studie-zeigt-35-prozent-weniger-lernfortschritte-a-4be1a14b-9205-47f1-a594-954c55f99610#ref=rss)
+### nie
+
+* [https://www.spiegel.de/ausland/ukrainekrieg-china-macht-usa-verantwortlich](https://www.spiegel.de/ausland/ukrainekrieg-china-macht-usa-verantwortlich-a-0030f50e-789d-45af-ad98-1c7aaf01f91e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ryanair-billigflieger-will-nach-rekordgewinn-weiterhin-preise-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/ryanair-billigflieger-will-nach-rekordgewinn-weiterhin-preise-erhoehen-a-29e414d0-be82-48a1-a973-78eaa02e973c#ref=rss)
+### allem
+
+* [https://www.spiegel.de/wissenschaft/israel-schafft-steuer-auf-einweggeschirr-ab](https://www.spiegel.de/wissenschaft/israel-schafft-steuer-auf-einweggeschirr-ab-a-606faf4c-bcd2-4a3f-a6b8-e84fb3b040fb#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/roboterhunde-bei-der-polizei-in-nordrhein-westfalen-was-taugen-sie-wirklich](https://www.spiegel.de/netzwelt/gadgets/roboterhunde-bei-der-polizei-in-nordrhein-westfalen-was-taugen-sie-wirklich-a-19edd679-fae8-4971-8d7e-71119af4fda0#ref=rss)
+### soli
+
+* [https://www.spiegel.de/wirtschaft/service/urteil-zum-solidaritaetszuschlag-soli-denkt-euch-was-neues-aus](https://www.spiegel.de/wirtschaft/service/urteil-zum-solidaritaetszuschlag-soli-denkt-euch-was-neues-aus-a-e186d90c-7895-439f-8960-cec4c58b2a12#ref=rss)
+### neues
+
+* [https://www.spiegel.de/wirtschaft/service/urteil-zum-solidaritaetszuschlag-soli-denkt-euch-was-neues-aus](https://www.spiegel.de/wirtschaft/service/urteil-zum-solidaritaetszuschlag-soli-denkt-euch-was-neues-aus-a-e186d90c-7895-439f-8960-cec4c58b2a12#ref=rss)
+* [https://www.spiegel.de/ausland/iran-will-meinungsfreiheit-weiter-beschneiden](https://www.spiegel.de/ausland/iran-will-meinungsfreiheit-weiter-beschneiden-a-173338d8-1a88-4e5a-afbd-2eae0b8a8d84#ref=rss)
+### billigflieger
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ryanair-billigflieger-will-nach-rekordgewinn-weiterhin-preise-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/ryanair-billigflieger-will-nach-rekordgewinn-weiterhin-preise-erhoehen-a-29e414d0-be82-48a1-a973-78eaa02e973c#ref=rss)
+### jahresende
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ryanair-billigflieger-will-nach-rekordgewinn-weiterhin-preise-erhoehen](https://www.spiegel.de/wirtschaft/unternehmen/ryanair-billigflieger-will-nach-rekordgewinn-weiterhin-preise-erhoehen-a-29e414d0-be82-48a1-a973-78eaa02e973c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tiertransporte-cem-oezdemir-fuerchtet-verzoegerung-strengerer-eu-regeln](https://www.spiegel.de/wirtschaft/tiertransporte-cem-oezdemir-fuerchtet-verzoegerung-strengerer-eu-regeln-a-4673a56b-4f46-4ab9-bda6-df2bbfd6289f#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/winterwetter-2023-der-januar-war-wie-ein-maerz-und-endet-stuermisch](https://www.spiegel.de/panorama/winterwetter-2023-der-januar-war-wie-ein-maerz-und-endet-stuermisch-a-3b1e003b-f7a6-491f-8f89-dfd091df9af5#ref=rss)
+* [https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt](https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt-a-a992d65d-e514-49d1-93f0-4c5c53cdfd5e#ref=rss)
+### pistorius
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem-a-b38b864f-6164-4232-883c-8257091a4102#ref=rss)
+### stellt
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem](https://www.spiegel.de/ausland/russland-ukraine-krieg-heute-fuer-moskau-und-peking-sind-die-usa-schuldig-an-allem-a-b38b864f-6164-4232-883c-8257091a4102#ref=rss)
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsbuendnis-stellt-programm-gegen-recep-tayyip-erdogan-vor](https://www.spiegel.de/ausland/tuerkei-oppositionsbuendnis-stellt-programm-gegen-recep-tayyip-erdogan-vor-a-ff1842c8-a620-4dee-ac40-013f9abb7be4#ref=rss)
+### ruft
+
+* [https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf](https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf-a-04e6c53b-1e56-4710-89fe-48e7e2b59501#ref=rss)
+* [https://www.spiegel.de/ausland/aserbaidschan-armenien-konflikt-jerewan-ruft-uno-gericht-an](https://www.spiegel.de/ausland/aserbaidschan-armenien-konflikt-jerewan-ruft-uno-gericht-an-a-9ff68539-c2c7-41b9-b5ff-488a18dbb63c#ref=rss)
+### gewalt
+
+* [https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf](https://www.spiegel.de/ausland/israel-antony-blinken-ruft-bei-ankunft-zur-deeskalation-auf-a-04e6c53b-1e56-4710-89fe-48e7e2b59501#ref=rss)
+* [https://www.spiegel.de/ausland/israel-nach-den-anschlaegen-die-anheizer-des-terrors](https://www.spiegel.de/ausland/israel-nach-den-anschlaegen-die-anheizer-des-terrors-a-854622f4-b46a-4bc8-8be7-0e9d85c2a6c2#ref=rss)
+### schüler
+
+* [https://www.spiegel.de/panorama/bildung/frankreich-gedenkstaettenbesuch-soll-fuer-schueler-zum-standard-werden](https://www.spiegel.de/panorama/bildung/frankreich-gedenkstaettenbesuch-soll-fuer-schueler-zum-standard-werden-a-9aafc5d8-e703-46f3-8771-41dece52589b#ref=rss)
+### pläne
+
+* [https://www.spiegel.de/panorama/bildung/frankreich-gedenkstaettenbesuch-soll-fuer-schueler-zum-standard-werden](https://www.spiegel.de/panorama/bildung/frankreich-gedenkstaettenbesuch-soll-fuer-schueler-zum-standard-werden-a-9aafc5d8-e703-46f3-8771-41dece52589b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tiertransporte-cem-oezdemir-fuerchtet-verzoegerung-strengerer-eu-regeln](https://www.spiegel.de/wirtschaft/tiertransporte-cem-oezdemir-fuerchtet-verzoegerung-strengerer-eu-regeln-a-4673a56b-4f46-4ab9-bda6-df2bbfd6289f#ref=rss)
+### özdemir
+
+* [https://www.spiegel.de/wirtschaft/tiertransporte-cem-oezdemir-fuerchtet-verzoegerung-strengerer-eu-regeln](https://www.spiegel.de/wirtschaft/tiertransporte-cem-oezdemir-fuerchtet-verzoegerung-strengerer-eu-regeln-a-4673a56b-4f46-4ab9-bda6-df2bbfd6289f#ref=rss)
+### tiertransporte
+
+* [https://www.spiegel.de/wirtschaft/tiertransporte-cem-oezdemir-fuerchtet-verzoegerung-strengerer-eu-regeln](https://www.spiegel.de/wirtschaft/tiertransporte-cem-oezdemir-fuerchtet-verzoegerung-strengerer-eu-regeln-a-4673a56b-4f46-4ab9-bda6-df2bbfd6289f#ref=rss)
+### konstanz
+
+* [https://www.spiegel.de/panorama/justiz/konstanz-schwester-eingesperrt-und-vergewaltigt-haftstrafe](https://www.spiegel.de/panorama/justiz/konstanz-schwester-eingesperrt-und-vergewaltigt-haftstrafe-a-8fc0c931-2e3e-4811-8e7f-c8a8af7b51ce#ref=rss)
+### schwester
+
+* [https://www.spiegel.de/panorama/justiz/konstanz-schwester-eingesperrt-und-vergewaltigt-haftstrafe](https://www.spiegel.de/panorama/justiz/konstanz-schwester-eingesperrt-und-vergewaltigt-haftstrafe-a-8fc0c931-2e3e-4811-8e7f-c8a8af7b51ce#ref=rss)
+### eingesperrt
+
+* [https://www.spiegel.de/panorama/justiz/konstanz-schwester-eingesperrt-und-vergewaltigt-haftstrafe](https://www.spiegel.de/panorama/justiz/konstanz-schwester-eingesperrt-und-vergewaltigt-haftstrafe-a-8fc0c931-2e3e-4811-8e7f-c8a8af7b51ce#ref=rss)
+### mehrjährige
+
+* [https://www.spiegel.de/panorama/justiz/konstanz-schwester-eingesperrt-und-vergewaltigt-haftstrafe](https://www.spiegel.de/panorama/justiz/konstanz-schwester-eingesperrt-und-vergewaltigt-haftstrafe-a-8fc0c931-2e3e-4811-8e7f-c8a8af7b51ce#ref=rss)
+* [https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt](https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt-a-a992d65d-e514-49d1-93f0-4c5c53cdfd5e#ref=rss)
+### freiheitsstrafe
+
+* [https://www.spiegel.de/panorama/justiz/konstanz-schwester-eingesperrt-und-vergewaltigt-haftstrafe](https://www.spiegel.de/panorama/justiz/konstanz-schwester-eingesperrt-und-vergewaltigt-haftstrafe-a-8fc0c931-2e3e-4811-8e7f-c8a8af7b51ce#ref=rss)
+### kyle
+
+* [https://www.spiegel.de/sport/wintersport/kyle-smaine-lawine-toetet-ex-halfpipe-weltmeister](https://www.spiegel.de/sport/wintersport/kyle-smaine-lawine-toetet-ex-halfpipe-weltmeister-a-5245b901-ee15-4ca0-9c29-2c5738a46ba4#ref=rss)
+### smaine
+
+* [https://www.spiegel.de/sport/wintersport/kyle-smaine-lawine-toetet-ex-halfpipe-weltmeister](https://www.spiegel.de/sport/wintersport/kyle-smaine-lawine-toetet-ex-halfpipe-weltmeister-a-5245b901-ee15-4ca0-9c29-2c5738a46ba4#ref=rss)
+### japan
+
+* [https://www.spiegel.de/sport/wintersport/kyle-smaine-lawine-toetet-ex-halfpipe-weltmeister](https://www.spiegel.de/sport/wintersport/kyle-smaine-lawine-toetet-ex-halfpipe-weltmeister-a-5245b901-ee15-4ca0-9c29-2c5738a46ba4#ref=rss)
+### programm
+
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsbuendnis-stellt-programm-gegen-recep-tayyip-erdogan-vor](https://www.spiegel.de/ausland/tuerkei-oppositionsbuendnis-stellt-programm-gegen-recep-tayyip-erdogan-vor-a-ff1842c8-a620-4dee-ac40-013f9abb7be4#ref=rss)
+### erdoğan
+
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsbuendnis-stellt-programm-gegen-recep-tayyip-erdogan-vor](https://www.spiegel.de/ausland/tuerkei-oppositionsbuendnis-stellt-programm-gegen-recep-tayyip-erdogan-vor-a-ff1842c8-a620-4dee-ac40-013f9abb7be4#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/ausland/tuerkei-oppositionsbuendnis-stellt-programm-gegen-recep-tayyip-erdogan-vor](https://www.spiegel.de/ausland/tuerkei-oppositionsbuendnis-stellt-programm-gegen-recep-tayyip-erdogan-vor-a-ff1842c8-a620-4dee-ac40-013f9abb7be4#ref=rss)
+* [https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt](https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt-a-a992d65d-e514-49d1-93f0-4c5c53cdfd5e#ref=rss)
+### tathelfer
+
+* [https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt](https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt-a-a992d65d-e514-49d1-93f0-4c5c53cdfd5e#ref=rss)
+### haft
+
+* [https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt](https://www.spiegel.de/ausland/berlin-verschleppter-vietnamese-tathelfer-zu-haft-verurteilt-a-a992d65d-e514-49d1-93f0-4c5c53cdfd5e#ref=rss)
+* [https://www.spiegel.de/ausland/iran-will-meinungsfreiheit-weiter-beschneiden](https://www.spiegel.de/ausland/iran-will-meinungsfreiheit-weiter-beschneiden-a-173338d8-1a88-4e5a-afbd-2eae0b8a8d84#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-will-meinungsfreiheit-weiter-beschneiden](https://www.spiegel.de/ausland/iran-will-meinungsfreiheit-weiter-beschneiden-a-173338d8-1a88-4e5a-afbd-2eae0b8a8d84#ref=rss)
+### regime
+
+* [https://www.spiegel.de/ausland/iran-will-meinungsfreiheit-weiter-beschneiden](https://www.spiegel.de/ausland/iran-will-meinungsfreiheit-weiter-beschneiden-a-173338d8-1a88-4e5a-afbd-2eae0b8a8d84#ref=rss)
+### rötha
+
+* [https://www.spiegel.de/panorama/justiz/roetha-polizei-erwischt-mutmassliche-baerlauch-diebe-mit-140-kilo-beute](https://www.spiegel.de/panorama/justiz/roetha-polizei-erwischt-mutmassliche-baerlauch-diebe-mit-140-kilo-beute-a-178ef84c-d19b-495b-8c07-5021f0b211e6#ref=rss)
 
