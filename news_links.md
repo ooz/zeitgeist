@@ -4,330 +4,300 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### faeser
-
-* [https://www.spiegel.de/politik/deutschland/nany-faeser-im-hessen-wahlkampf-in-solchen-zeiten-darf-man-politisch-nicht-auf-zwei-hochzeiten-gleichzeitig-tanzen](https://www.spiegel.de/politik/deutschland/nany-faeser-im-hessen-wahlkampf-in-solchen-zeiten-darf-man-politisch-nicht-auf-zwei-hochzeiten-gleichzeitig-tanzen-a-e0e0c361-83b2-4f3e-bda5-7e4668bdb558#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine-a-fc755db5-f52d-4031-b101-3936ec321bd7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie](https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie-a-c435852a-e20b-4511-ad63-47f5ccb0df2f#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/politik/deutschland/nany-faeser-im-hessen-wahlkampf-in-solchen-zeiten-darf-man-politisch-nicht-auf-zwei-hochzeiten-gleichzeitig-tanzen](https://www.spiegel.de/politik/deutschland/nany-faeser-im-hessen-wahlkampf-in-solchen-zeiten-darf-man-politisch-nicht-auf-zwei-hochzeiten-gleichzeitig-tanzen-a-e0e0c361-83b2-4f3e-bda5-7e4668bdb558#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/candylove-prozess-in-leipzig-1500-euro-lohn-im-monat-fuer-den-versand-von-drogen](https://www.spiegel.de/panorama/justiz/candylove-prozess-in-leipzig-1500-euro-lohn-im-monat-fuer-den-versand-von-drogen-a-aa6e7235-bcc4-4097-aacf-2693460f1d31#ref=rss)
-* [https://www.spiegel.de/panorama/vlotho-im-kreis-herford-zehnjaehriger-verjagt-einbrecher-durch-lautes-anschreien](https://www.spiegel.de/panorama/vlotho-im-kreis-herford-zehnjaehriger-verjagt-einbrecher-durch-lautes-anschreien-a-c77ecce5-6ef1-468d-8033-03d3060f5509#ref=rss)
-* [https://www.spiegel.de/ausland/peru-gesetzesvorlage-fuer-neuwahlen-scheitert-erneut-im-kongress](https://www.spiegel.de/ausland/peru-gesetzesvorlage-fuer-neuwahlen-scheitert-erneut-im-kongress-a-3dffa086-d424-4d04-97e7-4626477ed837#ref=rss)
-### nancy
-
-* [https://www.spiegel.de/politik/deutschland/nany-faeser-im-hessen-wahlkampf-in-solchen-zeiten-darf-man-politisch-nicht-auf-zwei-hochzeiten-gleichzeitig-tanzen](https://www.spiegel.de/politik/deutschland/nany-faeser-im-hessen-wahlkampf-in-solchen-zeiten-darf-man-politisch-nicht-auf-zwei-hochzeiten-gleichzeitig-tanzen-a-e0e0c361-83b2-4f3e-bda5-7e4668bdb558#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine-a-fc755db5-f52d-4031-b101-3936ec321bd7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie](https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie-a-c435852a-e20b-4511-ad63-47f5ccb0df2f#ref=rss)
-### hessen
-
-* [https://www.spiegel.de/politik/deutschland/nany-faeser-im-hessen-wahlkampf-in-solchen-zeiten-darf-man-politisch-nicht-auf-zwei-hochzeiten-gleichzeitig-tanzen](https://www.spiegel.de/politik/deutschland/nany-faeser-im-hessen-wahlkampf-in-solchen-zeiten-darf-man-politisch-nicht-auf-zwei-hochzeiten-gleichzeitig-tanzen-a-e0e0c361-83b2-4f3e-bda5-7e4668bdb558#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine-a-fc755db5-f52d-4031-b101-3936ec321bd7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie](https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie-a-c435852a-e20b-4511-ad63-47f5ccb0df2f#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/wirtschaft/bayern-verliert-prozess-um-namen-neuschwanstein](https://www.spiegel.de/wirtschaft/bayern-verliert-prozess-um-namen-neuschwanstein-a-c496bea6-f5f8-4d0f-b16b-d97316a22838#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soeder-kretschmann-und-weil-fordern-vom-kanzler-nachverhandlung-bei-euro-7-norm](https://www.spiegel.de/wirtschaft/soeder-kretschmann-und-weil-fordern-vom-kanzler-nachverhandlung-bei-euro-7-norm-a-5f720c07-105c-4f14-aa25-28eb724bb56b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern](https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern-a-77edae2d-c568-420e-a6f9-b9cb71b7a481#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine-a-fc755db5-f52d-4031-b101-3936ec321bd7#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-so-bereitet-das-ioc-russlands-rueckkehr-vor](https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-so-bereitet-das-ioc-russlands-rueckkehr-vor-a-32ae1f8a-f4ac-40b1-9f70-f5e8408a8538#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an](https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an-a-7689e009-1fa7-4b84-a582-0219987112c1#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-von-der-leyen-in-kiew-angekommen](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-von-der-leyen-in-kiew-angekommen-a-bbd4cdf7-cd50-46ea-8e8d-34b06595d1e5#ref=rss)
 ### neue
 
-* [https://www.spiegel.de/kultur/tv/anja-reschke-in-reschke-fernsehen-sonderlich-unterhaltsam-ist-das-nicht](https://www.spiegel.de/kultur/tv/anja-reschke-in-reschke-fernsehen-sonderlich-unterhaltsam-ist-das-nicht-a-903062ac-d5a2-43dc-95f9-d0ddd635b4e4#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an](https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an-a-7689e009-1fa7-4b84-a582-0219987112c1#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/massiver-einbruch-der-besucherzahlen-hongkong-verschenkt-500-000-flugtickets](https://www.spiegel.de/reise/fernweh/massiver-einbruch-der-besucherzahlen-hongkong-verschenkt-500-000-flugtickets-a-7aa43131-3aaf-43c3-84da-c05bcf1ba17e#ref=rss)
-### neuschwanstein
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundesregierung-verhandelt-mit-schweden-ueber-luftverteidigungssystem](https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundesregierung-verhandelt-mit-schweden-ueber-luftverteidigungssystem-a-8f1305ce-46bc-4f7a-b6fa-7740c056fd55#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-eu-beitritt-der-ukraine-fuer-anton-hofreiter-in-fuenf-sechs-jahren-erstrebenswert](https://www.spiegel.de/ausland/ukraine-russland-news-heute-eu-beitritt-der-ukraine-fuer-anton-hofreiter-in-fuenf-sechs-jahren-erstrebenswert-a-2c6ffb58-23f4-41d0-99e2-810314a5c240#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/konkurrenz-fuer-chatgpt-google-stellt-naechste-woche-neue-ki-werkzeuge-vor](https://www.spiegel.de/netzwelt/apps/konkurrenz-fuer-chatgpt-google-stellt-naechste-woche-neue-ki-werkzeuge-vor-a-dd919eb3-5483-4fd5-8828-7d79513a3f2d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni-a-06f27197-140d-4f66-88ed-026f457b6c59#ref=rss)
+### usa
 
-* [https://www.spiegel.de/wirtschaft/bayern-verliert-prozess-um-namen-neuschwanstein](https://www.spiegel.de/wirtschaft/bayern-verliert-prozess-um-namen-neuschwanstein-a-c496bea6-f5f8-4d0f-b16b-d97316a22838#ref=rss)
-### wert
+* [https://www.spiegel.de/ausland/eine-unglueckliche-provokation](https://www.spiegel.de/ausland/eine-unglueckliche-provokation-a-ee1a9b3f-e080-428f-877f-4dfe6f287cab#ref=rss)
+* [https://www.spiegel.de/sport/fussball/almuth-schult-ist-erneut-schwanger-und-verpasst-die-wm-2023-der-fussballerinnen](https://www.spiegel.de/sport/fussball/almuth-schult-ist-erneut-schwanger-und-verpasst-die-wm-2023-der-fussballerinnen-a-07e22476-0e97-429a-9c44-5d290e1f6a45#ref=rss)
+* [https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden](https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden-a-a71ffb2b-1425-4ff5-8b87-2b420d279978#ref=rss)
+* [https://www.spiegel.de/ausland/usa-fast-1000-kinder-von-migranten-warten-immer-noch-auf-familienzusammenfuehrung](https://www.spiegel.de/ausland/usa-fast-1000-kinder-von-migranten-warten-immer-noch-auf-familienzusammenfuehrung-a-2e4e3734-5303-45fb-baab-cc12b7423f21#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/start/chatgpt-an-schulen-und-hochschulen-welchen-platz-hat-ki-in-unterricht-und-lehre](https://www.spiegel.de/start/chatgpt-an-schulen-und-hochschulen-welchen-platz-hat-ki-in-unterricht-und-lehre-a-94329b65-8214-40f6-86e7-03eda44dce5f#ref=rss)
-* [https://www.spiegel.de/ausland/belgien-im-panzerdepot-des-herrn-versluys](https://www.spiegel.de/ausland/belgien-im-panzerdepot-des-herrn-versluys-a-36cf2d24-7bca-4c9d-a59f-b32196007f47#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/massiver-einbruch-der-besucherzahlen-hongkong-verschenkt-500-000-flugtickets](https://www.spiegel.de/reise/fernweh/massiver-einbruch-der-besucherzahlen-hongkong-verschenkt-500-000-flugtickets-a-7aa43131-3aaf-43c3-84da-c05bcf1ba17e#ref=rss)
-### kanzler
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-eu-beitritt-der-ukraine-fuer-anton-hofreiter-in-fuenf-sechs-jahren-erstrebenswert](https://www.spiegel.de/ausland/ukraine-russland-news-heute-eu-beitritt-der-ukraine-fuer-anton-hofreiter-in-fuenf-sechs-jahren-erstrebenswert-a-2c6ffb58-23f4-41d0-99e2-810314a5c240#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rbb-zahlte-offenbar-15-000-euro-an-schlesinger-berater-ohne-vertrag](https://www.spiegel.de/wirtschaft/rbb-zahlte-offenbar-15-000-euro-an-schlesinger-berater-ohne-vertrag-a-20d86ff0-a138-43e2-9ae1-7160c25ba8c1#ref=rss)
+* [https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden](https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden-a-a71ffb2b-1425-4ff5-8b87-2b420d279978#ref=rss)
+### meloni
 
-* [https://www.spiegel.de/wirtschaft/soeder-kretschmann-und-weil-fordern-vom-kanzler-nachverhandlung-bei-euro-7-norm](https://www.spiegel.de/wirtschaft/soeder-kretschmann-und-weil-fordern-vom-kanzler-nachverhandlung-bei-euro-7-norm-a-5f720c07-105c-4f14-aa25-28eb724bb56b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-er-der-bessere-kanzler-als-olaf-scholz-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-er-der-bessere-kanzler-als-olaf-scholz-podcast-a-bea73bdb-b133-4259-acc0-3044dbf1a99e#ref=rss)
-### geld
+* [https://www.spiegel.de/ausland/lampedusa-buergermeister-filippo-mannino-appelliert-nach-fluechtlings-tragoedie-an-giorgia-meloni](https://www.spiegel.de/ausland/lampedusa-buergermeister-filippo-mannino-appelliert-nach-fluechtlings-tragoedie-an-giorgia-meloni-a-24f89275-9bee-40f8-9506-7b0e5b36224a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni-a-06f27197-140d-4f66-88ed-026f457b6c59#ref=rss)
+### new
 
-* [https://www.spiegel.de/wirtschaft/soeder-kretschmann-und-weil-fordern-vom-kanzler-nachverhandlung-bei-euro-7-norm](https://www.spiegel.de/wirtschaft/soeder-kretschmann-und-weil-fordern-vom-kanzler-nachverhandlung-bei-euro-7-norm-a-5f720c07-105c-4f14-aa25-28eb724bb56b#ref=rss)
-* [https://www.spiegel.de/ausland/belgien-im-panzerdepot-des-herrn-versluys](https://www.spiegel.de/ausland/belgien-im-panzerdepot-des-herrn-versluys-a-36cf2d24-7bca-4c9d-a59f-b32196007f47#ref=rss)
-* [https://www.spiegel.de/wirtschaft/warnstreik-bei-coca-cola-beschaeftigte-fordern-mehr-geld](https://www.spiegel.de/wirtschaft/warnstreik-bei-coca-cola-beschaeftigte-fordern-mehr-geld-a-b68c0067-7a63-4bb9-a5d9-e76bc7f8d068#ref=rss)
-### laut
+* [https://www.spiegel.de/sport/american-football/american-football-new-england-patriots-wollen-tom-brady-fuer-einen-tag-zurueckholen](https://www.spiegel.de/sport/american-football/american-football-new-england-patriots-wollen-tom-brady-fuer-einen-tag-zurueckholen-a-a1f35446-ac2a-4317-8830-2718e16fb4f8#ref=rss)
+* [https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden](https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden-a-a71ffb2b-1425-4ff5-8b87-2b420d279978#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-brandanschlag-auf-obdachlosen-viereinhalb-jahre-haft](https://www.spiegel.de/panorama/gesellschaft/hamburg-brandanschlag-auf-obdachlosen-viereinhalb-jahre-haft-a-7427fd4a-3f36-48c9-bc68-1d361ad43b24#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-hat-die-maskenpflicht-nichts-gebracht](https://www.spiegel.de/wissenschaft/medizin/coronavirus-hat-die-maskenpflicht-nichts-gebracht-a-294ba879-11b7-4313-bad2-3acdbd3868ad#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an](https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an-a-7689e009-1fa7-4b84-a582-0219987112c1#ref=rss)
-### paris
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundesregierung-verhandelt-mit-schweden-ueber-luftverteidigungssystem](https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundesregierung-verhandelt-mit-schweden-ueber-luftverteidigungssystem-a-8f1305ce-46bc-4f7a-b6fa-7740c056fd55#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/lehrermangel-ukrainische-paedagogen-sollen-regulaer-in-sachsen-unterrichten](https://www.spiegel.de/panorama/bildung/lehrermangel-ukrainische-paedagogen-sollen-regulaer-in-sachsen-unterrichten-a-728a6569-1843-4e8e-8af9-1ddc450fc113#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni-a-06f27197-140d-4f66-88ed-026f457b6c59#ref=rss)
+### zeigen
 
-* [https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern](https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern-a-77edae2d-c568-420e-a6f9-b9cb71b7a481#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-so-bereitet-das-ioc-russlands-rueckkehr-vor](https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-so-bereitet-das-ioc-russlands-rueckkehr-vor-a-32ae1f8a-f4ac-40b1-9f70-f5e8408a8538#ref=rss)
-### wohl
+* [https://www.spiegel.de/ausland/eine-unglueckliche-provokation](https://www.spiegel.de/ausland/eine-unglueckliche-provokation-a-ee1a9b3f-e080-428f-877f-4dfe6f287cab#ref=rss)
+* [https://www.spiegel.de/wissenschaft/irak-5000-jahre-alte-kneipe-entdeckt](https://www.spiegel.de/wissenschaft/irak-5000-jahre-alte-kneipe-entdeckt-a-25ace46f-daf1-4c95-b013-f670cf739826#ref=rss)
+* [https://www.spiegel.de/kultur/tv/the-family-stallone-sylvester-stallone-will-sich-in-neuer-reality-serie-als-vater-zeigen](https://www.spiegel.de/kultur/tv/the-family-stallone-sylvester-stallone-will-sich-in-neuer-reality-serie-als-vater-zeigen-a-b3f79cab-bc2f-4fee-8a13-5bfbbd3f714b#ref=rss)
+### giorgia
 
-* [https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern](https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern-a-77edae2d-c568-420e-a6f9-b9cb71b7a481#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/kenia-lehrkraefte-lassen-schueler-sexszenen-nachstellen-und-werden-festgenommen](https://www.spiegel.de/panorama/bildung/kenia-lehrkraefte-lassen-schueler-sexszenen-nachstellen-und-werden-festgenommen-a-33fc061c-45de-4289-9f6f-708eacd52b72#ref=rss)
-### merz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-er-der-bessere-kanzler-als-olaf-scholz-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-er-der-bessere-kanzler-als-olaf-scholz-podcast-a-bea73bdb-b133-4259-acc0-3044dbf1a99e#ref=rss)
-### leyen
-
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an](https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an-a-7689e009-1fa7-4b84-a582-0219987112c1#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-von-der-leyen-in-kiew-angekommen](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-von-der-leyen-in-kiew-angekommen-a-bbd4cdf7-cd50-46ea-8e8d-34b06595d1e5#ref=rss)
-### claudia
-
-* [https://www.spiegel.de/politik/deutschland/claudia-roth-was-hinter-dem-neuen-zoff-zwischen-ihr-und-dem-zentralrat-der-juden-steckt](https://www.spiegel.de/politik/deutschland/claudia-roth-was-hinter-dem-neuen-zoff-zwischen-ihr-und-dem-zentralrat-der-juden-steckt-a-6bb66b51-62df-4346-887f-8750bef379cd#ref=rss)
-### roth
-
-* [https://www.spiegel.de/politik/deutschland/claudia-roth-was-hinter-dem-neuen-zoff-zwischen-ihr-und-dem-zentralrat-der-juden-steckt](https://www.spiegel.de/politik/deutschland/claudia-roth-was-hinter-dem-neuen-zoff-zwischen-ihr-und-dem-zentralrat-der-juden-steckt-a-6bb66b51-62df-4346-887f-8750bef379cd#ref=rss)
-### recht
-
-* [https://www.spiegel.de/politik/deutschland/claudia-roth-was-hinter-dem-neuen-zoff-zwischen-ihr-und-dem-zentralrat-der-juden-steckt](https://www.spiegel.de/politik/deutschland/claudia-roth-was-hinter-dem-neuen-zoff-zwischen-ihr-und-dem-zentralrat-der-juden-steckt-a-6bb66b51-62df-4346-887f-8750bef379cd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-hat-die-maskenpflicht-nichts-gebracht](https://www.spiegel.de/wissenschaft/medizin/coronavirus-hat-die-maskenpflicht-nichts-gebracht-a-294ba879-11b7-4313-bad2-3acdbd3868ad#ref=rss)
-### hannover
-
-* [https://www.spiegel.de/panorama/hannover-eichhoernchen-klettert-in-oberleitung-und-reisst-10-000-volt-leitung-ab](https://www.spiegel.de/panorama/hannover-eichhoernchen-klettert-in-oberleitung-und-reisst-10-000-volt-leitung-ab-a-b8bae6fa-e3a2-4c51-a6ca-8b182530d546#ref=rss)
-### eichhörnchen
-
-* [https://www.spiegel.de/panorama/hannover-eichhoernchen-klettert-in-oberleitung-und-reisst-10-000-volt-leitung-ab](https://www.spiegel.de/panorama/hannover-eichhoernchen-klettert-in-oberleitung-und-reisst-10-000-volt-leitung-ab-a-b8bae6fa-e3a2-4c51-a6ca-8b182530d546#ref=rss)
-### löste
-
-* [https://www.spiegel.de/panorama/hannover-eichhoernchen-klettert-in-oberleitung-und-reisst-10-000-volt-leitung-ab](https://www.spiegel.de/panorama/hannover-eichhoernchen-klettert-in-oberleitung-und-reisst-10-000-volt-leitung-ab-a-b8bae6fa-e3a2-4c51-a6ca-8b182530d546#ref=rss)
-* [https://www.spiegel.de/ausland/peru-gesetzesvorlage-fuer-neuwahlen-scheitert-erneut-im-kongress](https://www.spiegel.de/ausland/peru-gesetzesvorlage-fuer-neuwahlen-scheitert-erneut-im-kongress-a-3dffa086-d424-4d04-97e7-4626477ed837#ref=rss)
-### psychiatrien
-
-* [https://www.spiegel.de/wirtschaft/psychiatrien-43-prozent-mit-personalluecken](https://www.spiegel.de/wirtschaft/psychiatrien-43-prozent-mit-personalluecken-a-4ddb75d3-a525-4d9b-b8b7-9f2659de2a2d#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/psychiatrien-43-prozent-mit-personalluecken](https://www.spiegel.de/wirtschaft/psychiatrien-43-prozent-mit-personalluecken-a-4ddb75d3-a525-4d9b-b8b7-9f2659de2a2d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/warnstreik-bei-coca-cola-beschaeftigte-fordern-mehr-geld](https://www.spiegel.de/wirtschaft/warnstreik-bei-coca-cola-beschaeftigte-fordern-mehr-geld-a-b68c0067-7a63-4bb9-a5d9-e76bc7f8d068#ref=rss)
-### arbeiten
-
-* [https://www.spiegel.de/wirtschaft/psychiatrien-43-prozent-mit-personalluecken](https://www.spiegel.de/wirtschaft/psychiatrien-43-prozent-mit-personalluecken-a-4ddb75d3-a525-4d9b-b8b7-9f2659de2a2d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/warnstreik-bei-coca-cola-beschaeftigte-fordern-mehr-geld](https://www.spiegel.de/wirtschaft/warnstreik-bei-coca-cola-beschaeftigte-fordern-mehr-geld-a-b68c0067-7a63-4bb9-a5d9-e76bc7f8d068#ref=rss)
-### dfbpokalspiel
-
-* [https://www.spiegel.de/sport/fussball/nach-notarzteinsatz-bei-dfb-pokalspiel-rb-leipzig-fan-im-krankenhaus-verstorben](https://www.spiegel.de/sport/fussball/nach-notarzteinsatz-bei-dfb-pokalspiel-rb-leipzig-fan-im-krankenhaus-verstorben-a-4eb80888-5c5f-4ccb-9f55-e1f5c2afaaf4#ref=rss)
-### verstorben
-
-* [https://www.spiegel.de/sport/fussball/nach-notarzteinsatz-bei-dfb-pokalspiel-rb-leipzig-fan-im-krankenhaus-verstorben](https://www.spiegel.de/sport/fussball/nach-notarzteinsatz-bei-dfb-pokalspiel-rb-leipzig-fan-im-krankenhaus-verstorben-a-4eb80888-5c5f-4ccb-9f55-e1f5c2afaaf4#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/sport/fussball/nach-notarzteinsatz-bei-dfb-pokalspiel-rb-leipzig-fan-im-krankenhaus-verstorben](https://www.spiegel.de/sport/fussball/nach-notarzteinsatz-bei-dfb-pokalspiel-rb-leipzig-fan-im-krankenhaus-verstorben-a-4eb80888-5c5f-4ccb-9f55-e1f5c2afaaf4#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/candylove-prozess-in-leipzig-1500-euro-lohn-im-monat-fuer-den-versand-von-drogen](https://www.spiegel.de/panorama/justiz/candylove-prozess-in-leipzig-1500-euro-lohn-im-monat-fuer-den-versand-von-drogen-a-aa6e7235-bcc4-4097-aacf-2693460f1d31#ref=rss)
-### herrschte
-
-* [https://www.spiegel.de/sport/fussball/nach-notarzteinsatz-bei-dfb-pokalspiel-rb-leipzig-fan-im-krankenhaus-verstorben](https://www.spiegel.de/sport/fussball/nach-notarzteinsatz-bei-dfb-pokalspiel-rb-leipzig-fan-im-krankenhaus-verstorben-a-4eb80888-5c5f-4ccb-9f55-e1f5c2afaaf4#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern](https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern-a-77edae2d-c568-420e-a6f9-b9cb71b7a481#ref=rss)
-### ministerpräsidentin
-
-* [https://www.spiegel.de/politik/deutschland/nany-faeser-im-hessen-wahlkampf-in-solchen-zeiten-darf-man-politisch-nicht-auf-zwei-hochzeiten-gleichzeitig-tanzen](https://www.spiegel.de/politik/deutschland/nany-faeser-im-hessen-wahlkampf-in-solchen-zeiten-darf-man-politisch-nicht-auf-zwei-hochzeiten-gleichzeitig-tanzen-a-e0e0c361-83b2-4f3e-bda5-7e4668bdb558#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie](https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie-a-c435852a-e20b-4511-ad63-47f5ccb0df2f#ref=rss)
-### bundesinnenministerin
-
-* [https://www.spiegel.de/politik/deutschland/nany-faeser-im-hessen-wahlkampf-in-solchen-zeiten-darf-man-politisch-nicht-auf-zwei-hochzeiten-gleichzeitig-tanzen](https://www.spiegel.de/politik/deutschland/nany-faeser-im-hessen-wahlkampf-in-solchen-zeiten-darf-man-politisch-nicht-auf-zwei-hochzeiten-gleichzeitig-tanzen-a-e0e0c361-83b2-4f3e-bda5-7e4668bdb558#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie](https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie-a-c435852a-e20b-4511-ad63-47f5ccb0df2f#ref=rss)
-### anja
-
-* [https://www.spiegel.de/kultur/tv/anja-reschke-in-reschke-fernsehen-sonderlich-unterhaltsam-ist-das-nicht](https://www.spiegel.de/kultur/tv/anja-reschke-in-reschke-fernsehen-sonderlich-unterhaltsam-ist-das-nicht-a-903062ac-d5a2-43dc-95f9-d0ddd635b4e4#ref=rss)
-### reschke
-
-* [https://www.spiegel.de/kultur/tv/anja-reschke-in-reschke-fernsehen-sonderlich-unterhaltsam-ist-das-nicht](https://www.spiegel.de/kultur/tv/anja-reschke-in-reschke-fernsehen-sonderlich-unterhaltsam-ist-das-nicht-a-903062ac-d5a2-43dc-95f9-d0ddd635b4e4#ref=rss)
-### verliert
-
-* [https://www.spiegel.de/wirtschaft/bayern-verliert-prozess-um-namen-neuschwanstein](https://www.spiegel.de/wirtschaft/bayern-verliert-prozess-um-namen-neuschwanstein-a-c496bea6-f5f8-4d0f-b16b-d97316a22838#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie](https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie-a-c435852a-e20b-4511-ad63-47f5ccb0df2f#ref=rss)
-### prozess
-
-* [https://www.spiegel.de/wirtschaft/bayern-verliert-prozess-um-namen-neuschwanstein](https://www.spiegel.de/wirtschaft/bayern-verliert-prozess-um-namen-neuschwanstein-a-c496bea6-f5f8-4d0f-b16b-d97316a22838#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/candylove-prozess-in-leipzig-1500-euro-lohn-im-monat-fuer-den-versand-von-drogen](https://www.spiegel.de/panorama/justiz/candylove-prozess-in-leipzig-1500-euro-lohn-im-monat-fuer-den-versand-von-drogen-a-aa6e7235-bcc4-4097-aacf-2693460f1d31#ref=rss)
-### namen
-
-* [https://www.spiegel.de/wirtschaft/bayern-verliert-prozess-um-namen-neuschwanstein](https://www.spiegel.de/wirtschaft/bayern-verliert-prozess-um-namen-neuschwanstein-a-c496bea6-f5f8-4d0f-b16b-d97316a22838#ref=rss)
-### euro
-
-* [https://www.spiegel.de/panorama/justiz/candylove-prozess-in-leipzig-1500-euro-lohn-im-monat-fuer-den-versand-von-drogen](https://www.spiegel.de/panorama/justiz/candylove-prozess-in-leipzig-1500-euro-lohn-im-monat-fuer-den-versand-von-drogen-a-aa6e7235-bcc4-4097-aacf-2693460f1d31#ref=rss)
-* [https://www.spiegel.de/reise/fernweh/massiver-einbruch-der-besucherzahlen-hongkong-verschenkt-500-000-flugtickets](https://www.spiegel.de/reise/fernweh/massiver-einbruch-der-besucherzahlen-hongkong-verschenkt-500-000-flugtickets-a-7aa43131-3aaf-43c3-84da-c05bcf1ba17e#ref=rss)
-### kündigt
-
-* [https://www.spiegel.de/panorama/justiz/candylove-prozess-in-leipzig-1500-euro-lohn-im-monat-fuer-den-versand-von-drogen](https://www.spiegel.de/panorama/justiz/candylove-prozess-in-leipzig-1500-euro-lohn-im-monat-fuer-den-versand-von-drogen-a-aa6e7235-bcc4-4097-aacf-2693460f1d31#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an](https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an-a-7689e009-1fa7-4b84-a582-0219987112c1#ref=rss)
-### chatgpt
-
-* [https://www.spiegel.de/start/chatgpt-an-schulen-und-hochschulen-welchen-platz-hat-ki-in-unterricht-und-lehre](https://www.spiegel.de/start/chatgpt-an-schulen-und-hochschulen-welchen-platz-hat-ki-in-unterricht-und-lehre-a-94329b65-8214-40f6-86e7-03eda44dce5f#ref=rss)
+* [https://www.spiegel.de/ausland/lampedusa-buergermeister-filippo-mannino-appelliert-nach-fluechtlings-tragoedie-an-giorgia-meloni](https://www.spiegel.de/ausland/lampedusa-buergermeister-filippo-mannino-appelliert-nach-fluechtlings-tragoedie-an-giorgia-meloni-a-24f89275-9bee-40f8-9506-7b0e5b36224a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni-a-06f27197-140d-4f66-88ed-026f457b6c59#ref=rss)
 ### schulen
 
-* [https://www.spiegel.de/start/chatgpt-an-schulen-und-hochschulen-welchen-platz-hat-ki-in-unterricht-und-lehre](https://www.spiegel.de/start/chatgpt-an-schulen-und-hochschulen-welchen-platz-hat-ki-in-unterricht-und-lehre-a-94329b65-8214-40f6-86e7-03eda44dce5f#ref=rss)
-### hochschulen
+* [https://www.spiegel.de/panorama/gesellschaft/winter-mit-schnee-schulen-in-ost-bayern-bleiben-dicht](https://www.spiegel.de/panorama/gesellschaft/winter-mit-schnee-schulen-in-ost-bayern-bleiben-dicht-a-0ab23e12-d342-4d5f-b762-b14ae9ea3dc2#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/lehrermangel-ukrainische-paedagogen-sollen-regulaer-in-sachsen-unterrichten](https://www.spiegel.de/panorama/bildung/lehrermangel-ukrainische-paedagogen-sollen-regulaer-in-sachsen-unterrichten-a-728a6569-1843-4e8e-8af9-1ddc450fc113#ref=rss)
+### euro
 
-* [https://www.spiegel.de/start/chatgpt-an-schulen-und-hochschulen-welchen-platz-hat-ki-in-unterricht-und-lehre](https://www.spiegel.de/start/chatgpt-an-schulen-und-hochschulen-welchen-platz-hat-ki-in-unterricht-und-lehre-a-94329b65-8214-40f6-86e7-03eda44dce5f#ref=rss)
-### platz
+* [https://www.spiegel.de/wirtschaft/rbb-zahlte-offenbar-15-000-euro-an-schlesinger-berater-ohne-vertrag](https://www.spiegel.de/wirtschaft/rbb-zahlte-offenbar-15-000-euro-an-schlesinger-berater-ohne-vertrag-a-20d86ff0-a138-43e2-9ae1-7160c25ba8c1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/europaeische-zentralbank-deutsche-banken-kassieren-milliarden-von-der-ezb](https://www.spiegel.de/wirtschaft/service/europaeische-zentralbank-deutsche-banken-kassieren-milliarden-von-der-ezb-a-77bf7b37-3ccb-4c93-8f0a-75abd21c9b17#ref=rss)
+### laut
 
-* [https://www.spiegel.de/start/chatgpt-an-schulen-und-hochschulen-welchen-platz-hat-ki-in-unterricht-und-lehre](https://www.spiegel.de/start/chatgpt-an-schulen-und-hochschulen-welchen-platz-hat-ki-in-unterricht-und-lehre-a-94329b65-8214-40f6-86e7-03eda44dce5f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern](https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern-a-77edae2d-c568-420e-a6f9-b9cb71b7a481#ref=rss)
-### argumentieren
+* [https://www.spiegel.de/wirtschaft/rbb-zahlte-offenbar-15-000-euro-an-schlesinger-berater-ohne-vertrag](https://www.spiegel.de/wirtschaft/rbb-zahlte-offenbar-15-000-euro-an-schlesinger-berater-ohne-vertrag-a-20d86ff0-a138-43e2-9ae1-7160c25ba8c1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/europaeische-zentralbank-deutsche-banken-kassieren-milliarden-von-der-ezb](https://www.spiegel.de/wirtschaft/service/europaeische-zentralbank-deutsche-banken-kassieren-milliarden-von-der-ezb-a-77bf7b37-3ccb-4c93-8f0a-75abd21c9b17#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-soll-laut-senator-an-verschwoerungstreffen-teilgenommen-haben](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-soll-laut-senator-an-verschwoerungstreffen-teilgenommen-haben-a-9a4a7c85-23ad-4621-b540-1198c1acfdec#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/start/chatgpt-an-schulen-und-hochschulen-welchen-platz-hat-ki-in-unterricht-und-lehre](https://www.spiegel.de/start/chatgpt-an-schulen-und-hochschulen-welchen-platz-hat-ki-in-unterricht-und-lehre-a-94329b65-8214-40f6-86e7-03eda44dce5f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soeder-kretschmann-und-weil-fordern-vom-kanzler-nachverhandlung-bei-euro-7-norm](https://www.spiegel.de/wirtschaft/soeder-kretschmann-und-weil-fordern-vom-kanzler-nachverhandlung-bei-euro-7-norm-a-5f720c07-105c-4f14-aa25-28eb724bb56b#ref=rss)
-### ocean
+* [https://www.spiegel.de/wirtschaft/rbb-zahlte-offenbar-15-000-euro-an-schlesinger-berater-ohne-vertrag](https://www.spiegel.de/wirtschaft/rbb-zahlte-offenbar-15-000-euro-an-schlesinger-berater-ohne-vertrag-a-20d86ff0-a138-43e2-9ae1-7160c25ba8c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-streitet-ueber-aussenpolitik-der-graf-die-gruenen-und-das-f-wort](https://www.spiegel.de/politik/deutschland/ampelkoalition-streitet-ueber-aussenpolitik-der-graf-die-gruenen-und-das-f-wort-a-2d3155ad-52f1-4bd3-92fd-9ffbaf78040b#ref=rss)
+### stallone
 
-* [https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden](https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden-a-55e225e2-cdce-4fa7-90f5-2cb947831110#ref=rss)
-### race
+* [https://www.spiegel.de/kultur/tv/the-family-stallone-sylvester-stallone-will-sich-in-neuer-reality-serie-als-vater-zeigen](https://www.spiegel.de/kultur/tv/the-family-stallone-sylvester-stallone-will-sich-in-neuer-reality-serie-als-vater-zeigen-a-b3f79cab-bc2f-4fee-8a13-5bfbbd3f714b#ref=rss)
+### bundesregierung
 
-* [https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden](https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden-a-55e225e2-cdce-4fa7-90f5-2cb947831110#ref=rss)
-### boris
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundesregierung-verhandelt-mit-schweden-ueber-luftverteidigungssystem](https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundesregierung-verhandelt-mit-schweden-ueber-luftverteidigungssystem-a-8f1305ce-46bc-4f7a-b6fa-7740c056fd55#ref=rss)
+### schweden
 
-* [https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden](https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden-a-55e225e2-cdce-4fa7-90f5-2cb947831110#ref=rss)
-### team
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundesregierung-verhandelt-mit-schweden-ueber-luftverteidigungssystem](https://www.spiegel.de/politik/deutschland/ukraine-krieg-bundesregierung-verhandelt-mit-schweden-ueber-luftverteidigungssystem-a-8f1305ce-46bc-4f7a-b6fa-7740c056fd55#ref=rss)
+### ermittler
 
-* [https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden](https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden-a-55e225e2-cdce-4fa7-90f5-2cb947831110#ref=rss)
-### malizia
+* [https://www.spiegel.de/panorama/justiz/schwaebisch-hall-mutmasslicher-serienmoerder-ermittler-ueberpruefen-weiteren-todesfall](https://www.spiegel.de/panorama/justiz/schwaebisch-hall-mutmasslicher-serienmoerder-ermittler-ueberpruefen-weiteren-todesfall-a-f26f81c2-a031-4442-9822-bea5ae1cdc32#ref=rss)
+### tod
 
-* [https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden](https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden-a-55e225e2-cdce-4fa7-90f5-2cb947831110#ref=rss)
-### verletzt
+* [https://www.spiegel.de/panorama/justiz/schwaebisch-hall-mutmasslicher-serienmoerder-ermittler-ueberpruefen-weiteren-todesfall](https://www.spiegel.de/panorama/justiz/schwaebisch-hall-mutmasslicher-serienmoerder-ermittler-ueberpruefen-weiteren-todesfall-a-f26f81c2-a031-4442-9822-bea5ae1cdc32#ref=rss)
+* [https://www.spiegel.de/ausland/lampedusa-buergermeister-filippo-mannino-appelliert-nach-fluechtlings-tragoedie-an-giorgia-meloni](https://www.spiegel.de/ausland/lampedusa-buergermeister-filippo-mannino-appelliert-nach-fluechtlings-tragoedie-an-giorgia-meloni-a-24f89275-9bee-40f8-9506-7b0e5b36224a#ref=rss)
+### frau
 
-* [https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden](https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden-a-55e225e2-cdce-4fa7-90f5-2cb947831110#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern](https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern-a-77edae2d-c568-420e-a6f9-b9cb71b7a481#ref=rss)
-### kämpfen
+* [https://www.spiegel.de/panorama/justiz/schwaebisch-hall-mutmasslicher-serienmoerder-ermittler-ueberpruefen-weiteren-todesfall](https://www.spiegel.de/panorama/justiz/schwaebisch-hall-mutmasslicher-serienmoerder-ermittler-ueberpruefen-weiteren-todesfall-a-f26f81c2-a031-4442-9822-bea5ae1cdc32#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-polizei-klaert-wohl-verbrechen-von-2013-auf](https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-polizei-klaert-wohl-verbrechen-von-2013-auf-a-f38d0845-5ae6-43b0-9261-56b722112786#ref=rss)
+### zufolge
 
-* [https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden](https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-kaempft-mit-weiterem-foil-schaden-a-55e225e2-cdce-4fa7-90f5-2cb947831110#ref=rss)
-* [https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-so-bereitet-das-ioc-russlands-rueckkehr-vor](https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-so-bereitet-das-ioc-russlands-rueckkehr-vor-a-32ae1f8a-f4ac-40b1-9f70-f5e8408a8538#ref=rss)
-### hamburg
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-eu-beitritt-der-ukraine-fuer-anton-hofreiter-in-fuenf-sechs-jahren-erstrebenswert](https://www.spiegel.de/ausland/ukraine-russland-news-heute-eu-beitritt-der-ukraine-fuer-anton-hofreiter-in-fuenf-sechs-jahren-erstrebenswert-a-2c6ffb58-23f4-41d0-99e2-810314a5c240#ref=rss)
+* [https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden](https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden-a-a71ffb2b-1425-4ff5-8b87-2b420d279978#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-brandanschlag-auf-obdachlosen-viereinhalb-jahre-haft](https://www.spiegel.de/panorama/gesellschaft/hamburg-brandanschlag-auf-obdachlosen-viereinhalb-jahre-haft-a-7427fd4a-3f36-48c9-bc68-1d361ad43b24#ref=rss)
-### obdachlosen
-
-* [https://www.spiegel.de/panorama/gesellschaft/hamburg-brandanschlag-auf-obdachlosen-viereinhalb-jahre-haft](https://www.spiegel.de/panorama/gesellschaft/hamburg-brandanschlag-auf-obdachlosen-viereinhalb-jahre-haft-a-7427fd4a-3f36-48c9-bc68-1d361ad43b24#ref=rss)
-### kylian
-
-* [https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern](https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern-a-77edae2d-c568-420e-a6f9-b9cb71b7a481#ref=rss)
-### mbappé
-
-* [https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern](https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern-a-77edae2d-c568-420e-a6f9-b9cb71b7a481#ref=rss)
-### fehlt
-
-* [https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern](https://www.spiegel.de/sport/fussball/champions-league-kylian-mbappe-fehlt-paris-saint-germain-wohl-im-hinspiel-gegen-den-fc-bayern-a-77edae2d-c568-420e-a6f9-b9cb71b7a481#ref=rss)
-### kenia
-
-* [https://www.spiegel.de/panorama/bildung/kenia-lehrkraefte-lassen-schueler-sexszenen-nachstellen-und-werden-festgenommen](https://www.spiegel.de/panorama/bildung/kenia-lehrkraefte-lassen-schueler-sexszenen-nachstellen-und-werden-festgenommen-a-33fc061c-45de-4289-9f6f-708eacd52b72#ref=rss)
-### lehrkräfte
-
-* [https://www.spiegel.de/panorama/bildung/kenia-lehrkraefte-lassen-schueler-sexszenen-nachstellen-und-werden-festgenommen](https://www.spiegel.de/panorama/bildung/kenia-lehrkraefte-lassen-schueler-sexszenen-nachstellen-und-werden-festgenommen-a-33fc061c-45de-4289-9f6f-708eacd52b72#ref=rss)
-### schüler
-
-* [https://www.spiegel.de/panorama/bildung/kenia-lehrkraefte-lassen-schueler-sexszenen-nachstellen-und-werden-festgenommen](https://www.spiegel.de/panorama/bildung/kenia-lehrkraefte-lassen-schueler-sexszenen-nachstellen-und-werden-festgenommen-a-33fc061c-45de-4289-9f6f-708eacd52b72#ref=rss)
-### nachstellen
-
-* [https://www.spiegel.de/panorama/bildung/kenia-lehrkraefte-lassen-schueler-sexszenen-nachstellen-und-werden-festgenommen](https://www.spiegel.de/panorama/bildung/kenia-lehrkraefte-lassen-schueler-sexszenen-nachstellen-und-werden-festgenommen-a-33fc061c-45de-4289-9f6f-708eacd52b72#ref=rss)
-### friedrich
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-er-der-bessere-kanzler-als-olaf-scholz-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-er-der-bessere-kanzler-als-olaf-scholz-podcast-a-bea73bdb-b133-4259-acc0-3044dbf1a99e#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-er-der-bessere-kanzler-als-olaf-scholz-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-er-der-bessere-kanzler-als-olaf-scholz-podcast-a-bea73bdb-b133-4259-acc0-3044dbf1a99e#ref=rss)
-### macht
-
-* [https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-er-der-bessere-kanzler-als-olaf-scholz-podcast](https://www.spiegel.de/politik/deutschland/friedrich-merz-ist-er-der-bessere-kanzler-als-olaf-scholz-podcast-a-bea73bdb-b133-4259-acc0-3044dbf1a99e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie](https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie-a-c435852a-e20b-4511-ad63-47f5ccb0df2f#ref=rss)
-### zehnjähriger
-
-* [https://www.spiegel.de/panorama/vlotho-im-kreis-herford-zehnjaehriger-verjagt-einbrecher-durch-lautes-anschreien](https://www.spiegel.de/panorama/vlotho-im-kreis-herford-zehnjaehriger-verjagt-einbrecher-durch-lautes-anschreien-a-c77ecce5-6ef1-468d-8033-03d3060f5509#ref=rss)
-### einbrecher
-
-* [https://www.spiegel.de/panorama/vlotho-im-kreis-herford-zehnjaehriger-verjagt-einbrecher-durch-lautes-anschreien](https://www.spiegel.de/panorama/vlotho-im-kreis-herford-zehnjaehriger-verjagt-einbrecher-durch-lautes-anschreien-a-c77ecce5-6ef1-468d-8033-03d3060f5509#ref=rss)
-### postautomaten
-
-* [https://www.spiegel.de/wirtschaft/postautomaten-schlecht-fuer-rollstuhlfahrer-oder-kleinwuechsige](https://www.spiegel.de/wirtschaft/postautomaten-schlecht-fuer-rollstuhlfahrer-oder-kleinwuechsige-a-66231fc0-3b0b-44bd-8268-cec1df59f744#ref=rss)
-### rollstuhlfahrer
-
-* [https://www.spiegel.de/wirtschaft/postautomaten-schlecht-fuer-rollstuhlfahrer-oder-kleinwuechsige](https://www.spiegel.de/wirtschaft/postautomaten-schlecht-fuer-rollstuhlfahrer-oder-kleinwuechsige-a-66231fc0-3b0b-44bd-8268-cec1df59f744#ref=rss)
-### kleinwüchsige
-
-* [https://www.spiegel.de/wirtschaft/postautomaten-schlecht-fuer-rollstuhlfahrer-oder-kleinwuechsige](https://www.spiegel.de/wirtschaft/postautomaten-schlecht-fuer-rollstuhlfahrer-oder-kleinwuechsige-a-66231fc0-3b0b-44bd-8268-cec1df59f744#ref=rss)
-### peru
-
-* [https://www.spiegel.de/ausland/peru-gesetzesvorlage-fuer-neuwahlen-scheitert-erneut-im-kongress](https://www.spiegel.de/ausland/peru-gesetzesvorlage-fuer-neuwahlen-scheitert-erneut-im-kongress-a-3dffa086-d424-4d04-97e7-4626477ed837#ref=rss)
-### neuwahlen
-
-* [https://www.spiegel.de/ausland/peru-gesetzesvorlage-fuer-neuwahlen-scheitert-erneut-im-kongress](https://www.spiegel.de/ausland/peru-gesetzesvorlage-fuer-neuwahlen-scheitert-erneut-im-kongress-a-3dffa086-d424-4d04-97e7-4626477ed837#ref=rss)
-### kongress
-
-* [https://www.spiegel.de/ausland/peru-gesetzesvorlage-fuer-neuwahlen-scheitert-erneut-im-kongress](https://www.spiegel.de/ausland/peru-gesetzesvorlage-fuer-neuwahlen-scheitert-erneut-im-kongress-a-3dffa086-d424-4d04-97e7-4626477ed837#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/peru-gesetzesvorlage-fuer-neuwahlen-scheitert-erneut-im-kongress](https://www.spiegel.de/ausland/peru-gesetzesvorlage-fuer-neuwahlen-scheitert-erneut-im-kongress-a-3dffa086-d424-4d04-97e7-4626477ed837#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-von-der-leyen-in-kiew-angekommen](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-von-der-leyen-in-kiew-angekommen-a-bbd4cdf7-cd50-46ea-8e8d-34b06595d1e5#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-eu-beitritt-der-ukraine-fuer-anton-hofreiter-in-fuenf-sechs-jahren-erstrebenswert](https://www.spiegel.de/ausland/ukraine-russland-news-heute-eu-beitritt-der-ukraine-fuer-anton-hofreiter-in-fuenf-sechs-jahren-erstrebenswert-a-2c6ffb58-23f4-41d0-99e2-810314a5c240#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/winter-mit-schnee-schulen-in-ost-bayern-bleiben-dicht](https://www.spiegel.de/panorama/gesellschaft/winter-mit-schnee-schulen-in-ost-bayern-bleiben-dicht-a-0ab23e12-d342-4d5f-b762-b14ae9ea3dc2#ref=rss)
 ### news
 
-* [https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine-a-fc755db5-f52d-4031-b101-3936ec321bd7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-von-der-leyen-in-kiew-angekommen](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-von-der-leyen-in-kiew-angekommen-a-bbd4cdf7-cd50-46ea-8e8d-34b06595d1e5#ref=rss)
-### maskenpflicht
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-eu-beitritt-der-ukraine-fuer-anton-hofreiter-in-fuenf-sechs-jahren-erstrebenswert](https://www.spiegel.de/ausland/ukraine-russland-news-heute-eu-beitritt-der-ukraine-fuer-anton-hofreiter-in-fuenf-sechs-jahren-erstrebenswert-a-2c6ffb58-23f4-41d0-99e2-810314a5c240#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni-a-06f27197-140d-4f66-88ed-026f457b6c59#ref=rss)
+### bürgermeister
 
-* [https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine-a-fc755db5-f52d-4031-b101-3936ec321bd7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-hat-die-maskenpflicht-nichts-gebracht](https://www.spiegel.de/wissenschaft/medizin/coronavirus-hat-die-maskenpflicht-nichts-gebracht-a-294ba879-11b7-4313-bad2-3acdbd3868ad#ref=rss)
-### coronavirus
+* [https://www.spiegel.de/ausland/lampedusa-buergermeister-filippo-mannino-appelliert-nach-fluechtlings-tragoedie-an-giorgia-meloni](https://www.spiegel.de/ausland/lampedusa-buergermeister-filippo-mannino-appelliert-nach-fluechtlings-tragoedie-an-giorgia-meloni-a-24f89275-9bee-40f8-9506-7b0e5b36224a#ref=rss)
+### italiens
 
-* [https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/news-nancy-faeser-tritt-an-in-hessen-maskenpflicht-faellt-krieg-in-der-ukraine-a-fc755db5-f52d-4031-b101-3936ec321bd7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/coronavirus-hat-die-maskenpflicht-nichts-gebracht](https://www.spiegel.de/wissenschaft/medizin/coronavirus-hat-die-maskenpflicht-nichts-gebracht-a-294ba879-11b7-4313-bad2-3acdbd3868ad#ref=rss)
-### 2024
+* [https://www.spiegel.de/ausland/lampedusa-buergermeister-filippo-mannino-appelliert-nach-fluechtlings-tragoedie-an-giorgia-meloni](https://www.spiegel.de/ausland/lampedusa-buergermeister-filippo-mannino-appelliert-nach-fluechtlings-tragoedie-an-giorgia-meloni-a-24f89275-9bee-40f8-9506-7b0e5b36224a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni-a-06f27197-140d-4f66-88ed-026f457b6c59#ref=rss)
+### scholz
 
-* [https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-so-bereitet-das-ioc-russlands-rueckkehr-vor](https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-so-bereitet-das-ioc-russlands-rueckkehr-vor-a-32ae1f8a-f4ac-40b1-9f70-f5e8408a8538#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schoeffe-ich-soll-ehrenamtlicher-richter-werden-und-jetzt](https://www.spiegel.de/panorama/justiz/schoeffe-ich-soll-ehrenamtlicher-richter-werden-und-jetzt-a-5483ce31-93ba-4f23-a6b6-4342e3dfe57e#ref=rss)
-### russische
+* [https://www.spiegel.de/ausland/lampedusa-buergermeister-filippo-mannino-appelliert-nach-fluechtlings-tragoedie-an-giorgia-meloni](https://www.spiegel.de/ausland/lampedusa-buergermeister-filippo-mannino-appelliert-nach-fluechtlings-tragoedie-an-giorgia-meloni-a-24f89275-9bee-40f8-9506-7b0e5b36224a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni-a-06f27197-140d-4f66-88ed-026f457b6c59#ref=rss)
+### steffen
 
-* [https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-so-bereitet-das-ioc-russlands-rueckkehr-vor](https://www.spiegel.de/sport/olympia/olympia-2024-in-paris-so-bereitet-das-ioc-russlands-rueckkehr-vor-a-32ae1f8a-f4ac-40b1-9f70-f5e8408a8538#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an](https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an-a-7689e009-1fa7-4b84-a582-0219987112c1#ref=rss)
-### beweise
+* [https://www.spiegel.de/politik/deutschland/steffen-kotre-afd-abgeordneter-verteidigt-auftritt-in-russischer-propaganda-talkshow](https://www.spiegel.de/politik/deutschland/steffen-kotre-afd-abgeordneter-verteidigt-auftritt-in-russischer-propaganda-talkshow-a-93935f54-17f3-4e3d-98c2-ac26cfe37826#ref=rss)
+### kotré
 
-* [https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an](https://www.spiegel.de/ausland/ukraine-russland-krieg-ursula-von-der-leyen-kuendigt-neues-zentrum-fuer-beweise-an-a-7689e009-1fa7-4b84-a582-0219987112c1#ref=rss)
-### cocacola
+* [https://www.spiegel.de/politik/deutschland/steffen-kotre-afd-abgeordneter-verteidigt-auftritt-in-russischer-propaganda-talkshow](https://www.spiegel.de/politik/deutschland/steffen-kotre-afd-abgeordneter-verteidigt-auftritt-in-russischer-propaganda-talkshow-a-93935f54-17f3-4e3d-98c2-ac26cfe37826#ref=rss)
+### deutscher
 
-* [https://www.spiegel.de/wirtschaft/warnstreik-bei-coca-cola-beschaeftigte-fordern-mehr-geld](https://www.spiegel.de/wirtschaft/warnstreik-bei-coca-cola-beschaeftigte-fordern-mehr-geld-a-b68c0067-7a63-4bb9-a5d9-e76bc7f8d068#ref=rss)
-### fordern
+* [https://www.spiegel.de/politik/deutschland/steffen-kotre-afd-abgeordneter-verteidigt-auftritt-in-russischer-propaganda-talkshow](https://www.spiegel.de/politik/deutschland/steffen-kotre-afd-abgeordneter-verteidigt-auftritt-in-russischer-propaganda-talkshow-a-93935f54-17f3-4e3d-98c2-ac26cfe37826#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/kinderpornografie-habt-kranken-spass-hier-ermittlern-gelingt-schlag-gegen-darknet-plattformen](https://www.spiegel.de/panorama/justiz/kinderpornografie-habt-kranken-spass-hier-ermittlern-gelingt-schlag-gegen-darknet-plattformen-a-9e60b59f-536e-4362-bc1d-78fda9838153#ref=rss)
+### england
 
-* [https://www.spiegel.de/wirtschaft/warnstreik-bei-coca-cola-beschaeftigte-fordern-mehr-geld](https://www.spiegel.de/wirtschaft/warnstreik-bei-coca-cola-beschaeftigte-fordern-mehr-geld-a-b68c0067-7a63-4bb9-a5d9-e76bc7f8d068#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/sport/american-football/american-football-new-england-patriots-wollen-tom-brady-fuer-einen-tag-zurueckholen](https://www.spiegel.de/sport/american-football/american-football-new-england-patriots-wollen-tom-brady-fuer-einen-tag-zurueckholen-a-a1f35446-ac2a-4317-8830-2718e16fb4f8#ref=rss)
+### patriots
 
-* [https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-von-der-leyen-in-kiew-angekommen](https://www.spiegel.de/ausland/ukraine-news-am-donnerstag-von-der-leyen-in-kiew-angekommen-a-bbd4cdf7-cd50-46ea-8e8d-34b06595d1e5#ref=rss)
-### hongkong
+* [https://www.spiegel.de/sport/american-football/american-football-new-england-patriots-wollen-tom-brady-fuer-einen-tag-zurueckholen](https://www.spiegel.de/sport/american-football/american-football-new-england-patriots-wollen-tom-brady-fuer-einen-tag-zurueckholen-a-a1f35446-ac2a-4317-8830-2718e16fb4f8#ref=rss)
+### tom
 
-* [https://www.spiegel.de/reise/fernweh/massiver-einbruch-der-besucherzahlen-hongkong-verschenkt-500-000-flugtickets](https://www.spiegel.de/reise/fernweh/massiver-einbruch-der-besucherzahlen-hongkong-verschenkt-500-000-flugtickets-a-7aa43131-3aaf-43c3-84da-c05bcf1ba17e#ref=rss)
-### ungarn
+* [https://www.spiegel.de/sport/american-football/american-football-new-england-patriots-wollen-tom-brady-fuer-einen-tag-zurueckholen](https://www.spiegel.de/sport/american-football/american-football-new-england-patriots-wollen-tom-brady-fuer-einen-tag-zurueckholen-a-a1f35446-ac2a-4317-8830-2718e16fb4f8#ref=rss)
+### tag
 
-* [https://www.spiegel.de/politik/deutschland/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-ungarn-wegen-tod-eines-gefluechteten](https://www.spiegel.de/politik/deutschland/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-ungarn-wegen-tod-eines-gefluechteten-a-81338d44-1480-4662-868d-13052ecfd11c#ref=rss)
-### verurteilt
+* [https://www.spiegel.de/sport/american-football/american-football-new-england-patriots-wollen-tom-brady-fuer-einen-tag-zurueckholen](https://www.spiegel.de/sport/american-football/american-football-new-england-patriots-wollen-tom-brady-fuer-einen-tag-zurueckholen-a-a1f35446-ac2a-4317-8830-2718e16fb4f8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rbb-zahlte-offenbar-15-000-euro-an-schlesinger-berater-ohne-vertrag](https://www.spiegel.de/wirtschaft/rbb-zahlte-offenbar-15-000-euro-an-schlesinger-berater-ohne-vertrag-a-20d86ff0-a138-43e2-9ae1-7160c25ba8c1#ref=rss)
+### almuth
 
-* [https://www.spiegel.de/politik/deutschland/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-ungarn-wegen-tod-eines-gefluechteten](https://www.spiegel.de/politik/deutschland/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-ungarn-wegen-tod-eines-gefluechteten-a-81338d44-1480-4662-868d-13052ecfd11c#ref=rss)
-### arbeit
+* [https://www.spiegel.de/sport/fussball/almuth-schult-ist-erneut-schwanger-und-verpasst-die-wm-2023-der-fussballerinnen](https://www.spiegel.de/sport/fussball/almuth-schult-ist-erneut-schwanger-und-verpasst-die-wm-2023-der-fussballerinnen-a-07e22476-0e97-429a-9c44-5d290e1f6a45#ref=rss)
+### schult
 
-* [https://www.spiegel.de/politik/deutschland/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-ungarn-wegen-tod-eines-gefluechteten](https://www.spiegel.de/politik/deutschland/europaeischer-gerichtshof-fuer-menschenrechte-verurteilt-ungarn-wegen-tod-eines-gefluechteten-a-81338d44-1480-4662-868d-13052ecfd11c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-personalmangel-ohne-fluechtlinge-frueher-zutage-getreten](https://www.spiegel.de/wirtschaft/andrea-nahles-personalmangel-ohne-fluechtlinge-frueher-zutage-getreten-a-42fae904-a0bc-48d3-8009-e20cab58f254#ref=rss)
-### berlin
+* [https://www.spiegel.de/sport/fussball/almuth-schult-ist-erneut-schwanger-und-verpasst-die-wm-2023-der-fussballerinnen](https://www.spiegel.de/sport/fussball/almuth-schult-ist-erneut-schwanger-und-verpasst-die-wm-2023-der-fussballerinnen-a-07e22476-0e97-429a-9c44-5d290e1f6a45#ref=rss)
+### 2023
 
-* [https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie](https://www.spiegel.de/politik/deutschland/nancy-faeser-im-spiegel-gespraech-berlin-und-hessen-hier-erklaert-sie-ihre-riskante-doppelstrategie-a-c435852a-e20b-4511-ad63-47f5ccb0df2f#ref=rss)
-### andrea
+* [https://www.spiegel.de/sport/fussball/almuth-schult-ist-erneut-schwanger-und-verpasst-die-wm-2023-der-fussballerinnen](https://www.spiegel.de/sport/fussball/almuth-schult-ist-erneut-schwanger-und-verpasst-die-wm-2023-der-fussballerinnen-a-07e22476-0e97-429a-9c44-5d290e1f6a45#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/europaeische-zentralbank-deutsche-banken-kassieren-milliarden-von-der-ezb](https://www.spiegel.de/wirtschaft/service/europaeische-zentralbank-deutsche-banken-kassieren-milliarden-von-der-ezb-a-77bf7b37-3ccb-4c93-8f0a-75abd21c9b17#ref=rss)
+### irak
 
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-personalmangel-ohne-fluechtlinge-frueher-zutage-getreten](https://www.spiegel.de/wirtschaft/andrea-nahles-personalmangel-ohne-fluechtlinge-frueher-zutage-getreten-a-42fae904-a0bc-48d3-8009-e20cab58f254#ref=rss)
-### nahles
+* [https://www.spiegel.de/wissenschaft/irak-5000-jahre-alte-kneipe-entdeckt](https://www.spiegel.de/wissenschaft/irak-5000-jahre-alte-kneipe-entdeckt-a-25ace46f-daf1-4c95-b013-f670cf739826#ref=rss)
+### stellt
 
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-personalmangel-ohne-fluechtlinge-frueher-zutage-getreten](https://www.spiegel.de/wirtschaft/andrea-nahles-personalmangel-ohne-fluechtlinge-frueher-zutage-getreten-a-42fae904-a0bc-48d3-8009-e20cab58f254#ref=rss)
-### ohne
+* [https://www.spiegel.de/wissenschaft/irak-5000-jahre-alte-kneipe-entdeckt](https://www.spiegel.de/wissenschaft/irak-5000-jahre-alte-kneipe-entdeckt-a-25ace46f-daf1-4c95-b013-f670cf739826#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/konkurrenz-fuer-chatgpt-google-stellt-naechste-woche-neue-ki-werkzeuge-vor](https://www.spiegel.de/netzwelt/apps/konkurrenz-fuer-chatgpt-google-stellt-naechste-woche-neue-ki-werkzeuge-vor-a-dd919eb3-5483-4fd5-8828-7d79513a3f2d#ref=rss)
+### joshua
 
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-personalmangel-ohne-fluechtlinge-frueher-zutage-getreten](https://www.spiegel.de/wirtschaft/andrea-nahles-personalmangel-ohne-fluechtlinge-frueher-zutage-getreten-a-42fae904-a0bc-48d3-8009-e20cab58f254#ref=rss)
-### flüchtlinge
+* [https://www.spiegel.de/kultur/tv/joshua-kimmich-hat-gastauftritt-in-muenchner-tatort-folge-hackl](https://www.spiegel.de/kultur/tv/joshua-kimmich-hat-gastauftritt-in-muenchner-tatort-folge-hackl-a-37f62e3b-4f94-407a-a03c-7e34810432a2#ref=rss)
+### kimmich
 
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-personalmangel-ohne-fluechtlinge-frueher-zutage-getreten](https://www.spiegel.de/wirtschaft/andrea-nahles-personalmangel-ohne-fluechtlinge-frueher-zutage-getreten-a-42fae904-a0bc-48d3-8009-e20cab58f254#ref=rss)
-### früher
+* [https://www.spiegel.de/kultur/tv/joshua-kimmich-hat-gastauftritt-in-muenchner-tatort-folge-hackl](https://www.spiegel.de/kultur/tv/joshua-kimmich-hat-gastauftritt-in-muenchner-tatort-folge-hackl-a-37f62e3b-4f94-407a-a03c-7e34810432a2#ref=rss)
+### tritt
 
-* [https://www.spiegel.de/wirtschaft/andrea-nahles-personalmangel-ohne-fluechtlinge-frueher-zutage-getreten](https://www.spiegel.de/wirtschaft/andrea-nahles-personalmangel-ohne-fluechtlinge-frueher-zutage-getreten-a-42fae904-a0bc-48d3-8009-e20cab58f254#ref=rss)
-### ich
+* [https://www.spiegel.de/kultur/tv/joshua-kimmich-hat-gastauftritt-in-muenchner-tatort-folge-hackl](https://www.spiegel.de/kultur/tv/joshua-kimmich-hat-gastauftritt-in-muenchner-tatort-folge-hackl-a-37f62e3b-4f94-407a-a03c-7e34810432a2#ref=rss)
+### chatgpt
 
-* [https://www.spiegel.de/panorama/justiz/schoeffe-ich-soll-ehrenamtlicher-richter-werden-und-jetzt](https://www.spiegel.de/panorama/justiz/schoeffe-ich-soll-ehrenamtlicher-richter-werden-und-jetzt-a-5483ce31-93ba-4f23-a6b6-4342e3dfe57e#ref=rss)
-### richter
+* [https://www.spiegel.de/netzwelt/apps/konkurrenz-fuer-chatgpt-google-stellt-naechste-woche-neue-ki-werkzeuge-vor](https://www.spiegel.de/netzwelt/apps/konkurrenz-fuer-chatgpt-google-stellt-naechste-woche-neue-ki-werkzeuge-vor-a-dd919eb3-5483-4fd5-8828-7d79513a3f2d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni](https://www.spiegel.de/politik/deutschland/news-eu-ukraine-gipfel-chatgpt-giorgia-meloni-a-06f27197-140d-4f66-88ed-026f457b6c59#ref=rss)
+### google
 
-* [https://www.spiegel.de/panorama/justiz/schoeffe-ich-soll-ehrenamtlicher-richter-werden-und-jetzt](https://www.spiegel.de/panorama/justiz/schoeffe-ich-soll-ehrenamtlicher-richter-werden-und-jetzt-a-5483ce31-93ba-4f23-a6b6-4342e3dfe57e#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/konkurrenz-fuer-chatgpt-google-stellt-naechste-woche-neue-ki-werkzeuge-vor](https://www.spiegel.de/netzwelt/apps/konkurrenz-fuer-chatgpt-google-stellt-naechste-woche-neue-ki-werkzeuge-vor-a-dd919eb3-5483-4fd5-8828-7d79513a3f2d#ref=rss)
+### techkonzerne
+
+* [https://www.spiegel.de/netzwelt/apps/konkurrenz-fuer-chatgpt-google-stellt-naechste-woche-neue-ki-werkzeuge-vor](https://www.spiegel.de/netzwelt/apps/konkurrenz-fuer-chatgpt-google-stellt-naechste-woche-neue-ki-werkzeuge-vor-a-dd919eb3-5483-4fd5-8828-7d79513a3f2d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/apple-amazon-alphabet-tech-konzerne-enttaeuschen-an-der-boerse](https://www.spiegel.de/wirtschaft/apple-amazon-alphabet-tech-konzerne-enttaeuschen-an-der-boerse-a-b9dfa888-d07b-4ea2-930d-a766f2457a8f#ref=rss)
+### michael
+
+* [https://www.spiegel.de/panorama/gesellschaft/michael-ballweg-in-stuttgart-stammheim-ein-knastbesuch-beim-querdenken-gruender](https://www.spiegel.de/panorama/gesellschaft/michael-ballweg-in-stuttgart-stammheim-ein-knastbesuch-beim-querdenken-gruender-a-52268879-231d-402c-ad7e-cc078e522a15#ref=rss)
+### ballweg
+
+* [https://www.spiegel.de/panorama/gesellschaft/michael-ballweg-in-stuttgart-stammheim-ein-knastbesuch-beim-querdenken-gruender](https://www.spiegel.de/panorama/gesellschaft/michael-ballweg-in-stuttgart-stammheim-ein-knastbesuch-beim-querdenken-gruender-a-52268879-231d-402c-ad7e-cc078e522a15#ref=rss)
+### polizei
+
+* [https://www.spiegel.de/panorama/gesellschaft/winter-mit-schnee-schulen-in-ost-bayern-bleiben-dicht](https://www.spiegel.de/panorama/gesellschaft/winter-mit-schnee-schulen-in-ost-bayern-bleiben-dicht-a-0ab23e12-d342-4d5f-b762-b14ae9ea3dc2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-polizei-klaert-wohl-verbrechen-von-2013-auf](https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-polizei-klaert-wohl-verbrechen-von-2013-auf-a-f38d0845-5ae6-43b0-9261-56b722112786#ref=rss)
+### meldete
+
+* [https://www.spiegel.de/panorama/gesellschaft/winter-mit-schnee-schulen-in-ost-bayern-bleiben-dicht](https://www.spiegel.de/panorama/gesellschaft/winter-mit-schnee-schulen-in-ost-bayern-bleiben-dicht-a-0ab23e12-d342-4d5f-b762-b14ae9ea3dc2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rekordgewinne-wie-gut-energiekonzerne-im-kriegsjahr-verdient-haben-podcast](https://www.spiegel.de/wirtschaft/rekordgewinne-wie-gut-energiekonzerne-im-kriegsjahr-verdient-haben-podcast-a-fe7ec8c7-6d37-4f22-971c-b6a768f76991#ref=rss)
+### hunderte
+
+* [https://www.spiegel.de/panorama/gesellschaft/winter-mit-schnee-schulen-in-ost-bayern-bleiben-dicht](https://www.spiegel.de/panorama/gesellschaft/winter-mit-schnee-schulen-in-ost-bayern-bleiben-dicht-a-0ab23e12-d342-4d5f-b762-b14ae9ea3dc2#ref=rss)
+* [https://www.spiegel.de/ausland/usa-fast-1000-kinder-von-migranten-warten-immer-noch-auf-familienzusammenfuehrung](https://www.spiegel.de/ausland/usa-fast-1000-kinder-von-migranten-warten-immer-noch-auf-familienzusammenfuehrung-a-2e4e3734-5303-45fb-baab-cc12b7423f21#ref=rss)
+### 1000
+
+* [https://www.spiegel.de/wirtschaft/rbb-zahlte-offenbar-15-000-euro-an-schlesinger-berater-ohne-vertrag](https://www.spiegel.de/wirtschaft/rbb-zahlte-offenbar-15-000-euro-an-schlesinger-berater-ohne-vertrag-a-20d86ff0-a138-43e2-9ae1-7160c25ba8c1#ref=rss)
+* [https://www.spiegel.de/ausland/usa-fast-1000-kinder-von-migranten-warten-immer-noch-auf-familienzusammenfuehrung](https://www.spiegel.de/ausland/usa-fast-1000-kinder-von-migranten-warten-immer-noch-auf-familienzusammenfuehrung-a-2e4e3734-5303-45fb-baab-cc12b7423f21#ref=rss)
+### zentralbank
+
+* [https://www.spiegel.de/wirtschaft/service/europaeische-zentralbank-deutsche-banken-kassieren-milliarden-von-der-ezb](https://www.spiegel.de/wirtschaft/service/europaeische-zentralbank-deutsche-banken-kassieren-milliarden-von-der-ezb-a-77bf7b37-3ccb-4c93-8f0a-75abd21c9b17#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/service/europaeische-zentralbank-deutsche-banken-kassieren-milliarden-von-der-ezb](https://www.spiegel.de/wirtschaft/service/europaeische-zentralbank-deutsche-banken-kassieren-milliarden-von-der-ezb-a-77bf7b37-3ccb-4c93-8f0a-75abd21c9b17#ref=rss)
+### gut
+
+* [https://www.spiegel.de/wirtschaft/service/europaeische-zentralbank-deutsche-banken-kassieren-milliarden-von-der-ezb](https://www.spiegel.de/wirtschaft/service/europaeische-zentralbank-deutsche-banken-kassieren-milliarden-von-der-ezb-a-77bf7b37-3ccb-4c93-8f0a-75abd21c9b17#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rekordgewinne-wie-gut-energiekonzerne-im-kriegsjahr-verdient-haben-podcast](https://www.spiegel.de/wirtschaft/rekordgewinne-wie-gut-energiekonzerne-im-kriegsjahr-verdient-haben-podcast-a-fe7ec8c7-6d37-4f22-971c-b6a768f76991#ref=rss)
+### republikanische
+
+* [https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden](https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden-a-a71ffb2b-1425-4ff5-8b87-2b420d279978#ref=rss)
+### bezirksrätin
+
+* [https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden](https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden-a-a71ffb2b-1425-4ff5-8b87-2b420d279978#ref=rss)
+### jersey
+
+* [https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden](https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden-a-a71ffb2b-1425-4ff5-8b87-2b420d279978#ref=rss)
+### tot
+
+* [https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden](https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden-a-a71ffb2b-1425-4ff5-8b87-2b420d279978#ref=rss)
+### aufgefunden
+
+* [https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden](https://www.spiegel.de/ausland/eunice-dwumfour-republikanische-bezirksraetin-in-new-jersey-nach-schuessen-tot-aufgefunden-a-a71ffb2b-1425-4ff5-8b87-2b420d279978#ref=rss)
+### galeria
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-siechtum-statt-rettung](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-siechtum-statt-rettung-a-e9b6766f-77aa-48b1-992f-21b89c273150#ref=rss)
+### karstadt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-siechtum-statt-rettung](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-siechtum-statt-rettung-a-e9b6766f-77aa-48b1-992f-21b89c273150#ref=rss)
+### kaufhof
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-siechtum-statt-rettung](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-siechtum-statt-rettung-a-e9b6766f-77aa-48b1-992f-21b89c273150#ref=rss)
+### pädagogen
+
+* [https://www.spiegel.de/panorama/bildung/lehrermangel-ukrainische-paedagogen-sollen-regulaer-in-sachsen-unterrichten](https://www.spiegel.de/panorama/bildung/lehrermangel-ukrainische-paedagogen-sollen-regulaer-in-sachsen-unterrichten-a-728a6569-1843-4e8e-8af9-1ddc450fc113#ref=rss)
+### apple
+
+* [https://www.spiegel.de/wirtschaft/apple-amazon-alphabet-tech-konzerne-enttaeuschen-an-der-boerse](https://www.spiegel.de/wirtschaft/apple-amazon-alphabet-tech-konzerne-enttaeuschen-an-der-boerse-a-b9dfa888-d07b-4ea2-930d-a766f2457a8f#ref=rss)
+### amazon
+
+* [https://www.spiegel.de/wirtschaft/apple-amazon-alphabet-tech-konzerne-enttaeuschen-an-der-boerse](https://www.spiegel.de/wirtschaft/apple-amazon-alphabet-tech-konzerne-enttaeuschen-an-der-boerse-a-b9dfa888-d07b-4ea2-930d-a766f2457a8f#ref=rss)
+### alphabet
+
+* [https://www.spiegel.de/wirtschaft/apple-amazon-alphabet-tech-konzerne-enttaeuschen-an-der-boerse](https://www.spiegel.de/wirtschaft/apple-amazon-alphabet-tech-konzerne-enttaeuschen-an-der-boerse-a-b9dfa888-d07b-4ea2-930d-a766f2457a8f#ref=rss)
+### gewinne
+
+* [https://www.spiegel.de/wirtschaft/apple-amazon-alphabet-tech-konzerne-enttaeuschen-an-der-boerse](https://www.spiegel.de/wirtschaft/apple-amazon-alphabet-tech-konzerne-enttaeuschen-an-der-boerse-a-b9dfa888-d07b-4ea2-930d-a766f2457a8f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rekordgewinne-wie-gut-energiekonzerne-im-kriegsjahr-verdient-haben-podcast](https://www.spiegel.de/wirtschaft/rekordgewinne-wie-gut-energiekonzerne-im-kriegsjahr-verdient-haben-podcast-a-fe7ec8c7-6d37-4f22-971c-b6a768f76991#ref=rss)
+### schlag
+
+* [https://www.spiegel.de/panorama/justiz/kinderpornografie-habt-kranken-spass-hier-ermittlern-gelingt-schlag-gegen-darknet-plattformen](https://www.spiegel.de/panorama/justiz/kinderpornografie-habt-kranken-spass-hier-ermittlern-gelingt-schlag-gegen-darknet-plattformen-a-9e60b59f-536e-4362-bc1d-78fda9838153#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/justiz/kinderpornografie-habt-kranken-spass-hier-ermittlern-gelingt-schlag-gegen-darknet-plattformen](https://www.spiegel.de/panorama/justiz/kinderpornografie-habt-kranken-spass-hier-ermittlern-gelingt-schlag-gegen-darknet-plattformen-a-9e60b59f-536e-4362-bc1d-78fda9838153#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-polizei-klaert-wohl-verbrechen-von-2013-auf](https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-polizei-klaert-wohl-verbrechen-von-2013-auf-a-f38d0845-5ae6-43b0-9261-56b722112786#ref=rss)
+### murmeltier
+
+* [https://www.spiegel.de/panorama/gesellschaft/val-d-espoir-in-kanada-murmeltier-fred-la-marmotte-stirbt-vor-murmeltier-tag](https://www.spiegel.de/panorama/gesellschaft/val-d-espoir-in-kanada-murmeltier-fred-la-marmotte-stirbt-vor-murmeltier-tag-a-85f7473a-57d5-48dc-8de7-2805be656aa7#ref=rss)
+### fred
+
+* [https://www.spiegel.de/panorama/gesellschaft/val-d-espoir-in-kanada-murmeltier-fred-la-marmotte-stirbt-vor-murmeltier-tag](https://www.spiegel.de/panorama/gesellschaft/val-d-espoir-in-kanada-murmeltier-fred-la-marmotte-stirbt-vor-murmeltier-tag-a-85f7473a-57d5-48dc-8de7-2805be656aa7#ref=rss)
+### außenpolitik
+
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-streitet-ueber-aussenpolitik-der-graf-die-gruenen-und-das-f-wort](https://www.spiegel.de/politik/deutschland/ampelkoalition-streitet-ueber-aussenpolitik-der-graf-die-gruenen-und-das-f-wort-a-2d3155ad-52f1-4bd3-92fd-9ffbaf78040b#ref=rss)
+### sylvester
+
+* [https://www.spiegel.de/kultur/tv/the-family-stallone-sylvester-stallone-will-sich-in-neuer-reality-serie-als-vater-zeigen](https://www.spiegel.de/kultur/tv/the-family-stallone-sylvester-stallone-will-sich-in-neuer-reality-serie-als-vater-zeigen-a-b3f79cab-bc2f-4fee-8a13-5bfbbd3f714b#ref=rss)
+### realityserie
+
+* [https://www.spiegel.de/kultur/tv/the-family-stallone-sylvester-stallone-will-sich-in-neuer-reality-serie-als-vater-zeigen](https://www.spiegel.de/kultur/tv/the-family-stallone-sylvester-stallone-will-sich-in-neuer-reality-serie-als-vater-zeigen-a-b3f79cab-bc2f-4fee-8a13-5bfbbd3f714b#ref=rss)
+### migranten
+
+* [https://www.spiegel.de/ausland/usa-fast-1000-kinder-von-migranten-warten-immer-noch-auf-familienzusammenfuehrung](https://www.spiegel.de/ausland/usa-fast-1000-kinder-von-migranten-warten-immer-noch-auf-familienzusammenfuehrung-a-2e4e3734-5303-45fb-baab-cc12b7423f21#ref=rss)
+### nick
+
+* [https://www.spiegel.de/sport/tennis/nick-kyrgios-raeumt-vor-gericht-ein-seine-ex-freundin-gestossen-zu-haben-klage-abgewiesen](https://www.spiegel.de/sport/tennis/nick-kyrgios-raeumt-vor-gericht-ein-seine-ex-freundin-gestossen-zu-haben-klage-abgewiesen-a-1868ac47-2117-4340-b5b3-4f9c7be02ea8#ref=rss)
+### kyrgios
+
+* [https://www.spiegel.de/sport/tennis/nick-kyrgios-raeumt-vor-gericht-ein-seine-ex-freundin-gestossen-zu-haben-klage-abgewiesen](https://www.spiegel.de/sport/tennis/nick-kyrgios-raeumt-vor-gericht-ein-seine-ex-freundin-gestossen-zu-haben-klage-abgewiesen-a-1868ac47-2117-4340-b5b3-4f9c7be02ea8#ref=rss)
+### gericht
+
+* [https://www.spiegel.de/sport/tennis/nick-kyrgios-raeumt-vor-gericht-ein-seine-ex-freundin-gestossen-zu-haben-klage-abgewiesen](https://www.spiegel.de/sport/tennis/nick-kyrgios-raeumt-vor-gericht-ein-seine-ex-freundin-gestossen-zu-haben-klage-abgewiesen-a-1868ac47-2117-4340-b5b3-4f9c7be02ea8#ref=rss)
+### audi
+
+* [https://www.spiegel.de/auto/fahrberichte/audi-q8-e-tron-im-test-schneller-weiter-teurer](https://www.spiegel.de/auto/fahrberichte/audi-q8-e-tron-im-test-schneller-weiter-teurer-a-8aba737b-5a4f-474f-989d-4a11bbf5d000#ref=rss)
+### ersten
+
+* [https://www.spiegel.de/auto/fahrberichte/audi-q8-e-tron-im-test-schneller-weiter-teurer](https://www.spiegel.de/auto/fahrberichte/audi-q8-e-tron-im-test-schneller-weiter-teurer-a-8aba737b-5a4f-474f-989d-4a11bbf5d000#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-polizei-klaert-wohl-verbrechen-von-2013-auf](https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-polizei-klaert-wohl-verbrechen-von-2013-auf-a-f38d0845-5ae6-43b0-9261-56b722112786#ref=rss)
+### hamburgwilhelmsburg
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-polizei-klaert-wohl-verbrechen-von-2013-auf](https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-polizei-klaert-wohl-verbrechen-von-2013-auf-a-f38d0845-5ae6-43b0-9261-56b722112786#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-polizei-klaert-wohl-verbrechen-von-2013-auf](https://www.spiegel.de/panorama/justiz/hamburg-wilhelmsburg-polizei-klaert-wohl-verbrechen-von-2013-auf-a-f38d0845-5ae6-43b0-9261-56b722112786#ref=rss)
+### exxonmobil
+
+* [https://www.spiegel.de/wirtschaft/rekordgewinne-wie-gut-energiekonzerne-im-kriegsjahr-verdient-haben-podcast](https://www.spiegel.de/wirtschaft/rekordgewinne-wie-gut-energiekonzerne-im-kriegsjahr-verdient-haben-podcast-a-fe7ec8c7-6d37-4f22-971c-b6a768f76991#ref=rss)
+### chevron
+
+* [https://www.spiegel.de/wirtschaft/rekordgewinne-wie-gut-energiekonzerne-im-kriegsjahr-verdient-haben-podcast](https://www.spiegel.de/wirtschaft/rekordgewinne-wie-gut-energiekonzerne-im-kriegsjahr-verdient-haben-podcast-a-fe7ec8c7-6d37-4f22-971c-b6a768f76991#ref=rss)
+### jair
+
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-soll-laut-senator-an-verschwoerungstreffen-teilgenommen-haben](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-soll-laut-senator-an-verschwoerungstreffen-teilgenommen-haben-a-9a4a7c85-23ad-4621-b540-1198c1acfdec#ref=rss)
+### bolsonaro
+
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-soll-laut-senator-an-verschwoerungstreffen-teilgenommen-haben](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-soll-laut-senator-an-verschwoerungstreffen-teilgenommen-haben-a-9a4a7c85-23ad-4621-b540-1198c1acfdec#ref=rss)
+### expräsident
+
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-soll-laut-senator-an-verschwoerungstreffen-teilgenommen-haben](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-soll-laut-senator-an-verschwoerungstreffen-teilgenommen-haben-a-9a4a7c85-23ad-4621-b540-1198c1acfdec#ref=rss)
+### senator
+
+* [https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-soll-laut-senator-an-verschwoerungstreffen-teilgenommen-haben](https://www.spiegel.de/ausland/brasilien-jair-bolsonaro-soll-laut-senator-an-verschwoerungstreffen-teilgenommen-haben-a-9a4a7c85-23ad-4621-b540-1198c1acfdec#ref=rss)
 
