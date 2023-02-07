@@ -4,308 +4,344 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### türkei
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung](https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung-a-6370b5dd-a3f4-4cb5-b829-dcf27adacfd1#ref=rss)
-* [https://www.spiegel.de/panorama/tuerkei-und-syrien-retter-und-reporter-fluechten-vor-nachbeben](https://www.spiegel.de/panorama/tuerkei-und-syrien-retter-und-reporter-fluechten-vor-nachbeben-a-fdcf2503-4523-456c-bc55-d9f196a4253f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erdbeben-in-der-tuerkei-und-syrien-janine-wissler-uebersteht-katastrophe-in-diyarbakir](https://www.spiegel.de/politik/deutschland/erdbeben-in-der-tuerkei-und-syrien-janine-wissler-uebersteht-katastrophe-in-diyarbakir-a-9d2a75c3-e1f5-4877-966c-8d8730683c8f#ref=rss)
-* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet-a-1f0fec12-718a-498d-abf5-22ee4ddca9ea#ref=rss)
-### unter
-
-* [https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging](https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging-a-eef07026-9bef-4e27-a46f-9b40c8fd6fa3#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/daenemark-erlaubt-co-einlagerung-unter-der-nordsee](https://www.spiegel.de/wirtschaft/unternehmen/daenemark-erlaubt-co-einlagerung-unter-der-nordsee-a-5735002c-fbd2-4a89-89b4-3d4788ac6a07#ref=rss)
-* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet-a-1f0fec12-718a-498d-abf5-22ee4ddca9ea#ref=rss)
-### erdbeben
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung](https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung-a-6370b5dd-a3f4-4cb5-b829-dcf27adacfd1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/erdbeben-in-der-tuerkei-und-syrien-janine-wissler-uebersteht-katastrophe-in-diyarbakir](https://www.spiegel.de/politik/deutschland/erdbeben-in-der-tuerkei-und-syrien-janine-wissler-uebersteht-katastrophe-in-diyarbakir-a-9d2a75c3-e1f5-4877-966c-8d8730683c8f#ref=rss)
-* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet-a-1f0fec12-718a-498d-abf5-22ee4ddca9ea#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung](https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung-a-6370b5dd-a3f4-4cb5-b829-dcf27adacfd1#ref=rss)
-* [https://www.spiegel.de/panorama/tuerkei-und-syrien-retter-und-reporter-fluechten-vor-nachbeben](https://www.spiegel.de/panorama/tuerkei-und-syrien-retter-und-reporter-fluechten-vor-nachbeben-a-fdcf2503-4523-456c-bc55-d9f196a4253f#ref=rss)
-* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet-a-1f0fec12-718a-498d-abf5-22ee4ddca9ea#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/china-peking-bestaetigt-zweiten-spionageballon-ueber-lateinamerika](https://www.spiegel.de/ausland/china-peking-bestaetigt-zweiten-spionageballon-ueber-lateinamerika-a-110987ee-aa17-4246-bbc7-f70f795acf5d#ref=rss)
-* [https://www.spiegel.de/kultur/tv/disney-entfernt-in-hongkong-eine-simpsons-folge-aus-dem-programm](https://www.spiegel.de/kultur/tv/disney-entfernt-in-hongkong-eine-simpsons-folge-aus-dem-programm-a-503c5c71-875f-45d2-9ced-29e439c716cb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten](https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten-a-a3941985-3130-4dbf-867a-3d3bb17ea084#ref=rss)
-### eu
-
-* [https://www.spiegel.de/wissenschaft/italien-rueckhaltegebiete-effizientester-schutz-bei-ueberschwemmungen](https://www.spiegel.de/wissenschaft/italien-rueckhaltegebiete-effizientester-schutz-bei-ueberschwemmungen-a-1f570a4a-0f2c-426e-a9db-36e8a1258033#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-europaeische-union-laedt-wolodmymr-selenskyj-zu-gipfel-ein](https://www.spiegel.de/ausland/ukraine-europaeische-union-laedt-wolodmymr-selenskyj-zu-gipfel-ein-a-4d5038a6-929c-4022-9102-c80de6847282#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten](https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten-a-a3941985-3130-4dbf-867a-3d3bb17ea084#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/ohio-explosionsgefahr-nach-zugentgleisung-in-den-usa](https://www.spiegel.de/panorama/ohio-explosionsgefahr-nach-zugentgleisung-in-den-usa-a-cd28c038-75b3-458b-b71a-ae94bcfaee41#ref=rss)
-* [https://www.spiegel.de/ausland/china-peking-bestaetigt-zweiten-spionageballon-ueber-lateinamerika](https://www.spiegel.de/ausland/china-peking-bestaetigt-zweiten-spionageballon-ueber-lateinamerika-a-110987ee-aa17-4246-bbc7-f70f795acf5d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten](https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten-a-a3941985-3130-4dbf-867a-3d3bb17ea084#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-unesco-friedenspreis-in-der-elfenbeinkueste](https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-unesco-friedenspreis-in-der-elfenbeinkueste-a-beb1d19d-a67f-4c26-874b-ea9c45644dcd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/rothschild-familie-will-investmentbank-von-der-boerse-nehmen](https://www.spiegel.de/wirtschaft/unternehmen/rothschild-familie-will-investmentbank-von-der-boerse-nehmen-a-767ce379-cdff-4bb2-a87c-f20d2abf5f33#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/daenemark-erlaubt-co-einlagerung-unter-der-nordsee](https://www.spiegel.de/wirtschaft/unternehmen/daenemark-erlaubt-co-einlagerung-unter-der-nordsee-a-5735002c-fbd2-4a89-89b4-3d4788ac6a07#ref=rss)
-### peking
-
-* [https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus](https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus-a-2c791d41-0709-4ed8-a98a-c10ac7bf9a99#ref=rss)
-* [https://www.spiegel.de/ausland/china-peking-bestaetigt-zweiten-spionageballon-ueber-lateinamerika](https://www.spiegel.de/ausland/china-peking-bestaetigt-zweiten-spionageballon-ueber-lateinamerika-a-110987ee-aa17-4246-bbc7-f70f795acf5d#ref=rss)
-### letzte
-
-* [https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus](https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus-a-2c791d41-0709-4ed8-a98a-c10ac7bf9a99#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung](https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung-a-6370b5dd-a3f4-4cb5-b829-dcf27adacfd1#ref=rss)
-### the
-
-* [https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-geht-in-fuehrung](https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-geht-in-fuehrung-a-cb7b9771-a4c0-40aa-941c-0e688de4775a#ref=rss)
-* [https://www.spiegel.de/kultur/tv/disney-entfernt-in-hongkong-eine-simpsons-folge-aus-dem-programm](https://www.spiegel.de/kultur/tv/disney-entfernt-in-hongkong-eine-simpsons-folge-aus-dem-programm-a-503c5c71-875f-45d2-9ced-29e439c716cb#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung](https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung-a-6370b5dd-a3f4-4cb5-b829-dcf27adacfd1#ref=rss)
-* [https://www.spiegel.de/panorama/tuerkei-und-syrien-retter-und-reporter-fluechten-vor-nachbeben](https://www.spiegel.de/panorama/tuerkei-und-syrien-retter-und-reporter-fluechten-vor-nachbeben-a-fdcf2503-4523-456c-bc55-d9f196a4253f#ref=rss)
-* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet-a-1f0fec12-718a-498d-abf5-22ee4ddca9ea#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/panorama/schockanrufe-bei-senioren-betrueger-ergaunern-1-5-millionen-schweizer-franken](https://www.spiegel.de/panorama/schockanrufe-bei-senioren-betrueger-ergaunern-1-5-millionen-schweizer-franken-a-256860b1-2e0b-46c9-9899-f5e020fd46ea#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/daenemark-erlaubt-co-einlagerung-unter-der-nordsee](https://www.spiegel.de/wirtschaft/unternehmen/daenemark-erlaubt-co-einlagerung-unter-der-nordsee-a-5735002c-fbd2-4a89-89b4-3d4788ac6a07#ref=rss)
-* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet-a-1f0fec12-718a-498d-abf5-22ee4ddca9ea#ref=rss)
-### russische
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-verkauft-gold-zur-deckung-von-haushaltsluecke](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-verkauft-gold-zur-deckung-von-haushaltsluecke-a-b499514c-2617-48b6-b06d-ca392e80255c#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-kampf-um-bachmut-die-russischen-truppen-schiessen-mit-allem-was-sie-haben](https://www.spiegel.de/ausland/ukraine-krieg-kampf-um-bachmut-die-russischen-truppen-schiessen-mit-allem-was-sie-haben-a-08aa22a1-6d40-4c51-b53b-bef9b0ae1f1c#ref=rss)
-### eigenen
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-verkauft-gold-zur-deckung-von-haushaltsluecke](https://www.spiegel.de/ausland/russland-ukraine-krieg-moskau-verkauft-gold-zur-deckung-von-haushaltsluecke-a-b499514c-2617-48b6-b06d-ca392e80255c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/real-madrid-star-vinicius-junior-immer-aerger-um-vini](https://www.spiegel.de/sport/fussball/real-madrid-star-vinicius-junior-immer-aerger-um-vini-a-ef7aecf0-d0b4-4ec2-85c5-c5cfe1c587f9#ref=rss)
-### ohio
-
-* [https://www.spiegel.de/panorama/ohio-explosionsgefahr-nach-zugentgleisung-in-den-usa](https://www.spiegel.de/panorama/ohio-explosionsgefahr-nach-zugentgleisung-in-den-usa-a-cd28c038-75b3-458b-b71a-ae94bcfaee41#ref=rss)
-### usbundesstaat
-
-* [https://www.spiegel.de/panorama/ohio-explosionsgefahr-nach-zugentgleisung-in-den-usa](https://www.spiegel.de/panorama/ohio-explosionsgefahr-nach-zugentgleisung-in-den-usa-a-cd28c038-75b3-458b-b71a-ae94bcfaee41#ref=rss)
-* [https://www.spiegel.de/panorama/us-altenheim-bestatter-oeffnen-leichensack-66-jaehrige-ringt-nach-atem](https://www.spiegel.de/panorama/us-altenheim-bestatter-oeffnen-leichensack-66-jaehrige-ringt-nach-atem-a-7e11b52a-c80c-4494-9a4a-ade81fb4c663#ref=rss)
-### vinicíus
-
-* [https://www.spiegel.de/sport/fussball/real-madrid-star-vinicius-junior-immer-aerger-um-vini](https://www.spiegel.de/sport/fussball/real-madrid-star-vinicius-junior-immer-aerger-um-vini-a-ef7aecf0-d0b4-4ec2-85c5-c5cfe1c587f9#ref=rss)
-### júnior
-
-* [https://www.spiegel.de/sport/fussball/real-madrid-star-vinicius-junior-immer-aerger-um-vini](https://www.spiegel.de/sport/fussball/real-madrid-star-vinicius-junior-immer-aerger-um-vini-a-ef7aecf0-d0b4-4ec2-85c5-c5cfe1c587f9#ref=rss)
-### verdi
-
-* [https://www.spiegel.de/wirtschaft/ver-di-und-binnenschiffer-klagen-ueber-marode-wasserstrassen](https://www.spiegel.de/wirtschaft/ver-di-und-binnenschiffer-klagen-ueber-marode-wasserstrassen-a-7e3f9c61-6c16-4c9f-a286-64f652239ea9#ref=rss)
-### binnenschiffer
-
-* [https://www.spiegel.de/wirtschaft/ver-di-und-binnenschiffer-klagen-ueber-marode-wasserstrassen](https://www.spiegel.de/wirtschaft/ver-di-und-binnenschiffer-klagen-ueber-marode-wasserstrassen-a-7e3f9c61-6c16-4c9f-a286-64f652239ea9#ref=rss)
-### angela
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-unesco-friedenspreis-in-der-elfenbeinkueste](https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-unesco-friedenspreis-in-der-elfenbeinkueste-a-beb1d19d-a67f-4c26-874b-ea9c45644dcd#ref=rss)
-### merkel
-
-* [https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-unesco-friedenspreis-in-der-elfenbeinkueste](https://www.spiegel.de/politik/deutschland/angela-merkel-erhaelt-unesco-friedenspreis-in-der-elfenbeinkueste-a-beb1d19d-a67f-4c26-874b-ea9c45644dcd#ref=rss)
-### dj
-
-* [https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet](https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet-a-47a98f17-f1cc-45aa-ad89-3d9b956b595a#ref=rss)
-### purple
-
-* [https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet](https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet-a-47a98f17-f1cc-45aa-ad89-3d9b956b595a#ref=rss)
-### disco
-
-* [https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet](https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet-a-47a98f17-f1cc-45aa-ad89-3d9b956b595a#ref=rss)
-### machine
-
-* [https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet](https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet-a-47a98f17-f1cc-45aa-ad89-3d9b956b595a#ref=rss)
-### grammy
-
-* [https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet](https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet-a-47a98f17-f1cc-45aa-ad89-3d9b956b595a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/kim-petras-was-sie-ueber-die-grammy-gewinnerin-wissen-muessen](https://www.spiegel.de/kultur/musik/kim-petras-was-sie-ueber-die-grammy-gewinnerin-wissen-muessen-a-ea9b9a23-9a02-4cb0-8d51-313b25b4b6fc#ref=rss)
-### ausgezeichnet
-
-* [https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet](https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet-a-47a98f17-f1cc-45aa-ad89-3d9b956b595a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/kim-petras-was-sie-ueber-die-grammy-gewinnerin-wissen-muessen](https://www.spiegel.de/kultur/musik/kim-petras-was-sie-ueber-die-grammy-gewinnerin-wissen-muessen-a-ea9b9a23-9a02-4cb0-8d51-313b25b4b6fc#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet](https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet-a-47a98f17-f1cc-45aa-ad89-3d9b956b595a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/kim-petras-was-sie-ueber-die-grammy-gewinnerin-wissen-muessen](https://www.spiegel.de/kultur/musik/kim-petras-was-sie-ueber-die-grammy-gewinnerin-wissen-muessen-a-ea9b9a23-9a02-4cb0-8d51-313b25b4b6fc#ref=rss)
-### musikpreise
-
-* [https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet](https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet-a-47a98f17-f1cc-45aa-ad89-3d9b956b595a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/kim-petras-was-sie-ueber-die-grammy-gewinnerin-wissen-muessen](https://www.spiegel.de/kultur/musik/kim-petras-was-sie-ueber-die-grammy-gewinnerin-wissen-muessen-a-ea9b9a23-9a02-4cb0-8d51-313b25b4b6fc#ref=rss)
-### welt
-
-* [https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet](https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet-a-47a98f17-f1cc-45aa-ad89-3d9b956b595a#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung](https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung-a-6370b5dd-a3f4-4cb5-b829-dcf27adacfd1#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet](https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet-a-47a98f17-f1cc-45aa-ad89-3d9b956b595a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten](https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten-a-a3941985-3130-4dbf-867a-3d3bb17ea084#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet](https://www.spiegel.de/kultur/musik/dj-purple-disco-machine-mit-grammy-ausgezeichnet-a-47a98f17-f1cc-45aa-ad89-3d9b956b595a#ref=rss)
-* [https://www.spiegel.de/panorama/schockanrufe-bei-senioren-betrueger-ergaunern-1-5-millionen-schweizer-franken](https://www.spiegel.de/panorama/schockanrufe-bei-senioren-betrueger-ergaunern-1-5-millionen-schweizer-franken-a-256860b1-2e0b-46c9-9899-f5e020fd46ea#ref=rss)
-### federica
-
-* [https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus](https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus-a-2c791d41-0709-4ed8-a98a-c10ac7bf9a99#ref=rss)
-### brignone
-
-* [https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus](https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus-a-2c791d41-0709-4ed8-a98a-c10ac7bf9a99#ref=rss)
-### mikaela
-
-* [https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus](https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus-a-2c791d41-0709-4ed8-a98a-c10ac7bf9a99#ref=rss)
-### shiffrin
-
-* [https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus](https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus-a-2c791d41-0709-4ed8-a98a-c10ac7bf9a99#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus](https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-frederica-brignone-gewinnt-kombi-gold-mikaela-shiffrin-scheidet-aus-a-2c791d41-0709-4ed8-a98a-c10ac7bf9a99#ref=rss)
-* [https://www.spiegel.de/wissenschaft/forschende-zaehlen-weniger-haibisse](https://www.spiegel.de/wissenschaft/forschende-zaehlen-weniger-haibisse-a-9d75d90b-2278-4fd3-ab1d-66c82721730e#ref=rss)
-### 66jährige
-
-* [https://www.spiegel.de/panorama/us-altenheim-bestatter-oeffnen-leichensack-66-jaehrige-ringt-nach-atem](https://www.spiegel.de/panorama/us-altenheim-bestatter-oeffnen-leichensack-66-jaehrige-ringt-nach-atem-a-7e11b52a-c80c-4494-9a4a-ade81fb4c663#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/us-altenheim-bestatter-oeffnen-leichensack-66-jaehrige-ringt-nach-atem](https://www.spiegel.de/panorama/us-altenheim-bestatter-oeffnen-leichensack-66-jaehrige-ringt-nach-atem-a-7e11b52a-c80c-4494-9a4a-ade81fb4c663#ref=rss)
-* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet-a-1f0fec12-718a-498d-abf5-22ee4ddca9ea#ref=rss)
-### bachmut
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-kampf-um-bachmut-die-russischen-truppen-schiessen-mit-allem-was-sie-haben](https://www.spiegel.de/ausland/ukraine-krieg-kampf-um-bachmut-die-russischen-truppen-schiessen-mit-allem-was-sie-haben-a-08aa22a1-6d40-4c51-b53b-bef9b0ae1f1c#ref=rss)
-### truppen
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-kampf-um-bachmut-die-russischen-truppen-schiessen-mit-allem-was-sie-haben](https://www.spiegel.de/ausland/ukraine-krieg-kampf-um-bachmut-die-russischen-truppen-schiessen-mit-allem-was-sie-haben-a-08aa22a1-6d40-4c51-b53b-bef9b0ae1f1c#ref=rss)
-### ocean
-
-* [https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-geht-in-fuehrung](https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-geht-in-fuehrung-a-cb7b9771-a4c0-40aa-941c-0e688de4775a#ref=rss)
-### race
-
-* [https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-geht-in-fuehrung](https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-geht-in-fuehrung-a-cb7b9771-a4c0-40aa-941c-0e688de4775a#ref=rss)
-### boris
-
-* [https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-geht-in-fuehrung](https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-geht-in-fuehrung-a-cb7b9771-a4c0-40aa-941c-0e688de4775a#ref=rss)
-### team
-
-* [https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-geht-in-fuehrung](https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-geht-in-fuehrung-a-cb7b9771-a4c0-40aa-941c-0e688de4775a#ref=rss)
-### malizia
-
-* [https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-geht-in-fuehrung](https://www.spiegel.de/sport/the-ocean-race-boris-herrmanns-team-malizia-geht-in-fuehrung-a-cb7b9771-a4c0-40aa-941c-0e688de4775a#ref=rss)
-### investmentbank
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rothschild-familie-will-investmentbank-von-der-boerse-nehmen](https://www.spiegel.de/wirtschaft/unternehmen/rothschild-familie-will-investmentbank-von-der-boerse-nehmen-a-767ce379-cdff-4bb2-a87c-f20d2abf5f33#ref=rss)
-### ludwig
-
-* [https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging](https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging-a-eef07026-9bef-4e27-a46f-9b40c8fd6fa3#ref=rss)
-### christian
-
-* [https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging](https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging-a-eef07026-9bef-4e27-a46f-9b40c8fd6fa3#ref=rss)
-### haeusser
-
-* [https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging](https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging-a-eef07026-9bef-4e27-a46f-9b40c8fd6fa3#ref=rss)
-### hitler
-
-* [https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging](https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging-a-eef07026-9bef-4e27-a46f-9b40c8fd6fa3#ref=rss)
-### ich
-
-* [https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging](https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging-a-eef07026-9bef-4e27-a46f-9b40c8fd6fa3#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-faellt-noch-immer-nach-messerattacke-das-schreiben-schwer](https://www.spiegel.de/kultur/literatur/salman-rushdie-faellt-noch-immer-nach-messerattacke-das-schreiben-schwer-a-a244ba81-00b5-4273-8fd0-15aa2ac676b0#ref=rss)
-### bin
-
-* [https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging](https://www.spiegel.de/geschichte/inflationsheiliger-ludwig-christian-haeusser-der-sex-apostel-der-hitler-voranging-a-eef07026-9bef-4e27-a46f-9b40c8fd6fa3#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-faellt-noch-immer-nach-messerattacke-das-schreiben-schwer](https://www.spiegel.de/kultur/literatur/salman-rushdie-faellt-noch-immer-nach-messerattacke-das-schreiben-schwer-a-a244ba81-00b5-4273-8fd0-15aa2ac676b0#ref=rss)
-### salman
-
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-faellt-noch-immer-nach-messerattacke-das-schreiben-schwer](https://www.spiegel.de/kultur/literatur/salman-rushdie-faellt-noch-immer-nach-messerattacke-das-schreiben-schwer-a-a244ba81-00b5-4273-8fd0-15aa2ac676b0#ref=rss)
-### rushdie
-
-* [https://www.spiegel.de/kultur/literatur/salman-rushdie-faellt-noch-immer-nach-messerattacke-das-schreiben-schwer](https://www.spiegel.de/kultur/literatur/salman-rushdie-faellt-noch-immer-nach-messerattacke-das-schreiben-schwer-a-a244ba81-00b5-4273-8fd0-15aa2ac676b0#ref=rss)
-### generation
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung](https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung-a-6370b5dd-a3f4-4cb5-b829-dcf27adacfd1#ref=rss)
-### 2000
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung](https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung-a-6370b5dd-a3f4-4cb5-b829-dcf27adacfd1#ref=rss)
-* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet-a-1f0fec12-718a-498d-abf5-22ee4ddca9ea#ref=rss)
-### toten
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung](https://www.spiegel.de/politik/deutschland/news-des-tages-erdbeben-in-der-tuerkei-letzte-generation-maskenentsorgung-a-6370b5dd-a3f4-4cb5-b829-dcf27adacfd1#ref=rss)
-* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet-a-1f0fec12-718a-498d-abf5-22ee4ddca9ea#ref=rss)
-### spionageballon
-
-* [https://www.spiegel.de/ausland/china-peking-bestaetigt-zweiten-spionageballon-ueber-lateinamerika](https://www.spiegel.de/ausland/china-peking-bestaetigt-zweiten-spionageballon-ueber-lateinamerika-a-110987ee-aa17-4246-bbc7-f70f795acf5d#ref=rss)
-### lateinamerika
-
-* [https://www.spiegel.de/ausland/china-peking-bestaetigt-zweiten-spionageballon-ueber-lateinamerika](https://www.spiegel.de/ausland/china-peking-bestaetigt-zweiten-spionageballon-ueber-lateinamerika-a-110987ee-aa17-4246-bbc7-f70f795acf5d#ref=rss)
-### asylverfahren
-
-* [https://www.spiegel.de/politik/asylverfahren-in-afrika-fdp-unterstuetzt-vorstoss-zur-pruefung-von-joachim-stamp](https://www.spiegel.de/politik/asylverfahren-in-afrika-fdp-unterstuetzt-vorstoss-zur-pruefung-von-joachim-stamp-a-eb6cee2a-7f43-46d2-b5bf-04fa3bd3627b#ref=rss)
-### joachim
-
-* [https://www.spiegel.de/politik/asylverfahren-in-afrika-fdp-unterstuetzt-vorstoss-zur-pruefung-von-joachim-stamp](https://www.spiegel.de/politik/asylverfahren-in-afrika-fdp-unterstuetzt-vorstoss-zur-pruefung-von-joachim-stamp-a-eb6cee2a-7f43-46d2-b5bf-04fa3bd3627b#ref=rss)
-### stamp
-
-* [https://www.spiegel.de/politik/asylverfahren-in-afrika-fdp-unterstuetzt-vorstoss-zur-pruefung-von-joachim-stamp](https://www.spiegel.de/politik/asylverfahren-in-afrika-fdp-unterstuetzt-vorstoss-zur-pruefung-von-joachim-stamp-a-eb6cee2a-7f43-46d2-b5bf-04fa3bd3627b#ref=rss)
-### mützenich
-
-* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-irritiert-gruene-mit-aeusserungen-zum-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-irritiert-gruene-mit-aeusserungen-zum-krieg-in-der-ukraine-a-16df7729-f7a5-442a-b40d-d3636a727d86#ref=rss)
-### irritiert
-
-* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-irritiert-gruene-mit-aeusserungen-zum-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-irritiert-gruene-mit-aeusserungen-zum-krieg-in-der-ukraine-a-16df7729-f7a5-442a-b40d-d3636a727d86#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-irritiert-gruene-mit-aeusserungen-zum-krieg-in-der-ukraine](https://www.spiegel.de/politik/deutschland/spd-rolf-muetzenich-irritiert-gruene-mit-aeusserungen-zum-krieg-in-der-ukraine-a-16df7729-f7a5-442a-b40d-d3636a727d86#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-europaeische-union-laedt-wolodmymr-selenskyj-zu-gipfel-ein](https://www.spiegel.de/ausland/ukraine-europaeische-union-laedt-wolodmymr-selenskyj-zu-gipfel-ein-a-4d5038a6-929c-4022-9102-c80de6847282#ref=rss)
 ### menschen
 
-* [https://www.spiegel.de/panorama/tuerkei-und-syrien-retter-und-reporter-fluechten-vor-nachbeben](https://www.spiegel.de/panorama/tuerkei-und-syrien-retter-und-reporter-fluechten-vor-nachbeben-a-fdcf2503-4523-456c-bc55-d9f196a4253f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/forschende-zaehlen-weniger-haibisse](https://www.spiegel.de/wissenschaft/forschende-zaehlen-weniger-haibisse-a-9d75d90b-2278-4fd3-ab1d-66c82721730e#ref=rss)
-### janine
+* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende-a-7e551284-c50b-40cc-a6d6-4999ca06384e#ref=rss)
+* [https://www.spiegel.de/ausland/aegaeis-erneut-tote-und-vermisste-nach-schiffsunglueck](https://www.spiegel.de/ausland/aegaeis-erneut-tote-und-vermisste-nach-schiffsunglueck-a-68c91ad3-c6e1-43d4-93a6-1c011e3f826f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs](https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs-a-ac560d1c-149b-4f0e-95cc-c11bf1475384#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer-a-a9108848-e304-4f9f-b8f1-485269a028dd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/marco-buschmann-fall-brokstedt-zeigt-maengel-in-verwaltung-auf](https://www.spiegel.de/panorama/justiz/marco-buschmann-fall-brokstedt-zeigt-maengel-in-verwaltung-auf-a-94029f3d-e9b1-447d-beb0-3c945618a589#ref=rss)
+* [https://www.spiegel.de/partnerschaft/hochzeitsfotos-des-jahres-ja-ich-will-diese-bilder-sehen](https://www.spiegel.de/partnerschaft/hochzeitsfotos-des-jahres-ja-ich-will-diese-bilder-sehen-a-83e6b1f5-ca77-48df-b0dc-62c4bcf9424c#ref=rss)
+### erdbeben
 
-* [https://www.spiegel.de/politik/deutschland/erdbeben-in-der-tuerkei-und-syrien-janine-wissler-uebersteht-katastrophe-in-diyarbakir](https://www.spiegel.de/politik/deutschland/erdbeben-in-der-tuerkei-und-syrien-janine-wissler-uebersteht-katastrophe-in-diyarbakir-a-9d2a75c3-e1f5-4877-966c-8d8730683c8f#ref=rss)
-### wissler
+* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende-a-7e551284-c50b-40cc-a6d6-4999ca06384e#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-unter-tonen-von-schutt](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-unter-tonen-von-schutt-a-dce4440c-0d30-4ae8-8204-2ac992245923#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer-a-a9108848-e304-4f9f-b8f1-485269a028dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin](https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin-a-8818ad45-a969-47f2-94af-8964ffcdda87#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/politik/deutschland/erdbeben-in-der-tuerkei-und-syrien-janine-wissler-uebersteht-katastrophe-in-diyarbakir](https://www.spiegel.de/politik/deutschland/erdbeben-in-der-tuerkei-und-syrien-janine-wissler-uebersteht-katastrophe-in-diyarbakir-a-9d2a75c3-e1f5-4877-966c-8d8730683c8f#ref=rss)
-### treffen
+* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende-a-7e551284-c50b-40cc-a6d6-4999ca06384e#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-unter-tonen-von-schutt](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-unter-tonen-von-schutt-a-dce4440c-0d30-4ae8-8204-2ac992245923#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer-a-a9108848-e304-4f9f-b8f1-485269a028dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin](https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin-a-8818ad45-a969-47f2-94af-8964ffcdda87#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/erdbeben-in-der-tuerkei-und-syrien-janine-wissler-uebersteht-katastrophe-in-diyarbakir](https://www.spiegel.de/politik/deutschland/erdbeben-in-der-tuerkei-und-syrien-janine-wissler-uebersteht-katastrophe-in-diyarbakir-a-9d2a75c3-e1f5-4877-966c-8d8730683c8f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-europaeische-union-laedt-wolodmymr-selenskyj-zu-gipfel-ein](https://www.spiegel.de/ausland/ukraine-europaeische-union-laedt-wolodmymr-selenskyj-zu-gipfel-ein-a-4d5038a6-929c-4022-9102-c80de6847282#ref=rss)
-### forschende
+* [https://www.spiegel.de/politik/deutschland/eu-staaten-rufen-corona-zuschuesse-kaum-ab](https://www.spiegel.de/politik/deutschland/eu-staaten-rufen-corona-zuschuesse-kaum-ab-a-acb742bc-59f7-405d-942a-cb8bfe05de30#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf](https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf-a-e7ec1099-53fa-48c3-aa16-f417efbff92c#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer-a-a9108848-e304-4f9f-b8f1-485269a028dd#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/marco-buschmann-fall-brokstedt-zeigt-maengel-in-verwaltung-auf](https://www.spiegel.de/panorama/justiz/marco-buschmann-fall-brokstedt-zeigt-maengel-in-verwaltung-auf-a-94029f3d-e9b1-447d-beb0-3c945618a589#ref=rss)
+* [https://www.spiegel.de/partnerschaft/hochzeitsfotos-des-jahres-ja-ich-will-diese-bilder-sehen](https://www.spiegel.de/partnerschaft/hochzeitsfotos-des-jahres-ja-ich-will-diese-bilder-sehen-a-83e6b1f5-ca77-48df-b0dc-62c4bcf9424c#ref=rss)
+### ich
 
-* [https://www.spiegel.de/wissenschaft/forschende-zaehlen-weniger-haibisse](https://www.spiegel.de/wissenschaft/forschende-zaehlen-weniger-haibisse-a-9d75d90b-2278-4fd3-ab1d-66c82721730e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/italien-rueckhaltegebiete-effizientester-schutz-bei-ueberschwemmungen](https://www.spiegel.de/wissenschaft/italien-rueckhaltegebiete-effizientester-schutz-bei-ueberschwemmungen-a-1f570a4a-0f2c-426e-a9db-36e8a1258033#ref=rss)
+* [https://www.spiegel.de/psychologie/selbstgespraeche-im-supermarkt-bin-ich-nur-gestoert-oder-schon-dement](https://www.spiegel.de/psychologie/selbstgespraeche-im-supermarkt-bin-ich-nur-gestoert-oder-schon-dement-a-9ed7b045-d3a2-4053-83be-6806aa4b21f9#ref=rss)
+* [https://www.spiegel.de/partnerschaft/hochzeitsfotos-des-jahres-ja-ich-will-diese-bilder-sehen](https://www.spiegel.de/partnerschaft/hochzeitsfotos-des-jahres-ja-ich-will-diese-bilder-sehen-a-83e6b1f5-ca77-48df-b0dc-62c4bcf9424c#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende-a-7e551284-c50b-40cc-a6d6-4999ca06384e#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-unter-tonen-von-schutt](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-unter-tonen-von-schutt-a-dce4440c-0d30-4ae8-8204-2ac992245923#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer-a-a9108848-e304-4f9f-b8f1-485269a028dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin](https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin-a-8818ad45-a969-47f2-94af-8964ffcdda87#ref=rss)
+### andere
+
+* [https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs](https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs-a-ac560d1c-149b-4f0e-95cc-c11bf1475384#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf](https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf-a-e7ec1099-53fa-48c3-aa16-f417efbff92c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gruner-jahr-bertelsmann-will-bis-zu-700-stellen-abbauen-und-23-magazine-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/gruner-jahr-bertelsmann-will-bis-zu-700-stellen-abbauen-und-23-magazine-einstellen-a-8ec960db-4d20-44ad-ab63-f30331b95f9a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin](https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin-a-8818ad45-a969-47f2-94af-8964ffcdda87#ref=rss)
+### unter
+
+* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende-a-7e551284-c50b-40cc-a6d6-4999ca06384e#ref=rss)
+* [https://www.spiegel.de/ausland/waehrend-donald-trumps-praesidentschaft-laut-pentagon-schon-frueher-spionageballons-ueber-usa-gesichtet](https://www.spiegel.de/ausland/waehrend-donald-trumps-praesidentschaft-laut-pentagon-schon-frueher-spionageballons-ueber-usa-gesichtet-a-db66cc32-47af-4a3b-9bf2-af928f263500#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien](https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien-a-e69b1d94-4681-41eb-aeaf-8c59cb782cf3#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/allmendingen-im-alb-donau-kreis-grossbrand-bei-automobilzulieferer-vier-feuerwehrleute-verletzt](https://www.spiegel.de/panorama/allmendingen-im-alb-donau-kreis-grossbrand-bei-automobilzulieferer-vier-feuerwehrleute-verletzt-a-6d84cf97-3353-4006-8712-b6e70fdd93a4#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer-a-a9108848-e304-4f9f-b8f1-485269a028dd#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/wirtschaft/welthandel-kommt-wieder-in-schwung-schiffsstaus-loesen-sich-auf](https://www.spiegel.de/wirtschaft/welthandel-kommt-wieder-in-schwung-schiffsstaus-loesen-sich-auf-a-ca1f5141-40ae-473a-adc1-ecf8af000161#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-zeitplan-ergebnisse-favoriten](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-zeitplan-ergebnisse-favoriten-a-4710cb61-08b0-4fa8-b4d5-4f629e4c268e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin](https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin-a-8818ad45-a969-47f2-94af-8964ffcdda87#ref=rss)
+### eu
+
+* [https://www.spiegel.de/wirtschaft/welthandel-kommt-wieder-in-schwung-schiffsstaus-loesen-sich-auf](https://www.spiegel.de/wirtschaft/welthandel-kommt-wieder-in-schwung-schiffsstaus-loesen-sich-auf-a-ca1f5141-40ae-473a-adc1-ecf8af000161#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eu-staaten-rufen-corona-zuschuesse-kaum-ab](https://www.spiegel.de/politik/deutschland/eu-staaten-rufen-corona-zuschuesse-kaum-ab-a-acb742bc-59f7-405d-942a-cb8bfe05de30#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/norge-mining-wie-ein-schweizer-gruender-europas-rohstoffprobleme-loesen-will](https://www.spiegel.de/wirtschaft/unternehmen/norge-mining-wie-ein-schweizer-gruender-europas-rohstoffprobleme-loesen-will-a-7028b2e9-0436-43f3-98c2-9153192a71e0#ref=rss)
+### beschäftigte
+
+* [https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs](https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs-a-ac560d1c-149b-4f0e-95cc-c11bf1475384#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf](https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf-a-e7ec1099-53fa-48c3-aa16-f417efbff92c#ref=rss)
+### studie
+
+* [https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk](https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk-a-315768d5-8d27-434d-8445-dd19a7e6c783#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin](https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin-a-8818ad45-a969-47f2-94af-8964ffcdda87#ref=rss)
+### ländern
+
+* [https://www.spiegel.de/politik/deutschland/eu-staaten-rufen-corona-zuschuesse-kaum-ab](https://www.spiegel.de/politik/deutschland/eu-staaten-rufen-corona-zuschuesse-kaum-ab-a-acb742bc-59f7-405d-942a-cb8bfe05de30#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kreml-vertraute-besitzen-tausende-immobilien-in-grossbritannien](https://www.spiegel.de/wirtschaft/kreml-vertraute-besitzen-tausende-immobilien-in-grossbritannien-a-16a79cc8-68c8-4f86-9146-8f9732ccadce#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer-a-a9108848-e304-4f9f-b8f1-485269a028dd#ref=rss)
+### frau
+
+* [https://www.spiegel.de/panorama/justiz/epsom-college-leiterin-von-englischer-privatschule-tochter-und-mann-tot-aufgefunden](https://www.spiegel.de/panorama/justiz/epsom-college-leiterin-von-englischer-privatschule-tochter-und-mann-tot-aufgefunden-a-83e794e7-f797-4f9c-ae35-b77641fa4f02#ref=rss)
+* [https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger](https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger-a-447de810-89ff-4fa9-99ab-f5d9ce3cf688#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin](https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin-a-c3273f4d-dc2d-43f3-b111-1ef03a0f510b#ref=rss)
+### graf
+
+* [https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger](https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger-a-447de810-89ff-4fa9-99ab-f5d9ce3cf688#ref=rss)
+* [https://www.spiegel.de/wirtschaft/abhaengigkeit-von-peking-alexander-graf-lambsdorff-fordert-china-stresstest](https://www.spiegel.de/wirtschaft/abhaengigkeit-von-peking-alexander-graf-lambsdorff-fordert-china-stresstest-a-a433dba4-4728-4893-aaf1-807f8fa51802#ref=rss)
+### bachmut
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-warum-bachmut-fuer-russlands-armee-wichtig-ist-podcast](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-warum-bachmut-fuer-russlands-armee-wichtig-ist-podcast-a-dd940787-ffde-4eac-ac42-22e380cef0c1#ref=rss)
+### wir
+
+* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende-a-7e551284-c50b-40cc-a6d6-4999ca06384e#ref=rss)
+* [https://www.spiegel.de/panorama/warum-wir-mehr-hunde-im-buero-brauchen](https://www.spiegel.de/panorama/warum-wir-mehr-hunde-im-buero-brauchen-a-944d4bd9-f08a-47e8-a01a-cb5a225be597#ref=rss)
+### erdbebengebiet
+
+* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende-a-7e551284-c50b-40cc-a6d6-4999ca06384e#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-unter-tonen-von-schutt](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-unter-tonen-von-schutt-a-dce4440c-0d30-4ae8-8204-2ac992245923#ref=rss)
+### versuchen
+
+* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende-a-7e551284-c50b-40cc-a6d6-4999ca06384e#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-warum-bachmut-fuer-russlands-armee-wichtig-ist-podcast](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-warum-bachmut-fuer-russlands-armee-wichtig-ist-podcast-a-dd940787-ffde-4eac-ac42-22e380cef0c1#ref=rss)
+### hilfe
+
+* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende-a-7e551284-c50b-40cc-a6d6-4999ca06384e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin](https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin-a-8818ad45-a969-47f2-94af-8964ffcdda87#ref=rss)
+### türkischen
+
+* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-sie-leben-aber-niemand-kommt-wir-sind-am-ende-a-7e551284-c50b-40cc-a6d6-4999ca06384e#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer-a-a9108848-e304-4f9f-b8f1-485269a028dd#ref=rss)
+### großbrand
+
+* [https://www.spiegel.de/panorama/allmendingen-im-alb-donau-kreis-grossbrand-bei-automobilzulieferer-vier-feuerwehrleute-verletzt](https://www.spiegel.de/panorama/allmendingen-im-alb-donau-kreis-grossbrand-bei-automobilzulieferer-vier-feuerwehrleute-verletzt-a-6d84cf97-3353-4006-8712-b6e70fdd93a4#ref=rss)
+### mehrere
+
+* [https://www.spiegel.de/panorama/allmendingen-im-alb-donau-kreis-grossbrand-bei-automobilzulieferer-vier-feuerwehrleute-verletzt](https://www.spiegel.de/panorama/allmendingen-im-alb-donau-kreis-grossbrand-bei-automobilzulieferer-vier-feuerwehrleute-verletzt-a-6d84cf97-3353-4006-8712-b6e70fdd93a4#ref=rss)
+### zerstört
+
+* [https://www.spiegel.de/panorama/allmendingen-im-alb-donau-kreis-grossbrand-bei-automobilzulieferer-vier-feuerwehrleute-verletzt](https://www.spiegel.de/panorama/allmendingen-im-alb-donau-kreis-grossbrand-bei-automobilzulieferer-vier-feuerwehrleute-verletzt-a-6d84cf97-3353-4006-8712-b6e70fdd93a4#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin](https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin-a-8818ad45-a969-47f2-94af-8964ffcdda87#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/waehrend-donald-trumps-praesidentschaft-laut-pentagon-schon-frueher-spionageballons-ueber-usa-gesichtet](https://www.spiegel.de/ausland/waehrend-donald-trumps-praesidentschaft-laut-pentagon-schon-frueher-spionageballons-ueber-usa-gesichtet-a-db66cc32-47af-4a3b-9bf2-af928f263500#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer-a-a9108848-e304-4f9f-b8f1-485269a028dd#ref=rss)
+### pentagon
+
+* [https://www.spiegel.de/ausland/waehrend-donald-trumps-praesidentschaft-laut-pentagon-schon-frueher-spionageballons-ueber-usa-gesichtet](https://www.spiegel.de/ausland/waehrend-donald-trumps-praesidentschaft-laut-pentagon-schon-frueher-spionageballons-ueber-usa-gesichtet-a-db66cc32-47af-4a3b-9bf2-af928f263500#ref=rss)
+### ägäis
+
+* [https://www.spiegel.de/ausland/aegaeis-erneut-tote-und-vermisste-nach-schiffsunglueck](https://www.spiegel.de/ausland/aegaeis-erneut-tote-und-vermisste-nach-schiffsunglueck-a-68c91ad3-c6e1-43d4-93a6-1c011e3f826f#ref=rss)
 ### weniger
 
-* [https://www.spiegel.de/wissenschaft/forschende-zaehlen-weniger-haibisse](https://www.spiegel.de/wissenschaft/forschende-zaehlen-weniger-haibisse-a-9d75d90b-2278-4fd3-ab1d-66c82721730e#ref=rss)
-### haie
+* [https://www.spiegel.de/ausland/aegaeis-erneut-tote-und-vermisste-nach-schiffsunglueck](https://www.spiegel.de/ausland/aegaeis-erneut-tote-und-vermisste-nach-schiffsunglueck-a-68c91ad3-c6e1-43d4-93a6-1c011e3f826f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eu-staaten-rufen-corona-zuschuesse-kaum-ab](https://www.spiegel.de/politik/deutschland/eu-staaten-rufen-corona-zuschuesse-kaum-ab-a-acb742bc-59f7-405d-942a-cb8bfe05de30#ref=rss)
+### tage
 
-* [https://www.spiegel.de/wissenschaft/forschende-zaehlen-weniger-haibisse](https://www.spiegel.de/wissenschaft/forschende-zaehlen-weniger-haibisse-a-9d75d90b-2278-4fd3-ab1d-66c82721730e#ref=rss)
-### zahl
+* [https://www.spiegel.de/ausland/aegaeis-erneut-tote-und-vermisste-nach-schiffsunglueck](https://www.spiegel.de/ausland/aegaeis-erneut-tote-und-vermisste-nach-schiffsunglueck-a-68c91ad3-c6e1-43d4-93a6-1c011e3f826f#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf](https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf-a-e7ec1099-53fa-48c3-aa16-f417efbff92c#ref=rss)
+### lösen
 
-* [https://www.spiegel.de/wissenschaft/forschende-zaehlen-weniger-haibisse](https://www.spiegel.de/wissenschaft/forschende-zaehlen-weniger-haibisse-a-9d75d90b-2278-4fd3-ab1d-66c82721730e#ref=rss)
-* [https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet](https://www.spiegel.de/panorama/erdbeben-in-der-tuerkei-und-syrien-zahl-der-toten-steigt-weitere-opfer-unter-truemmern-vermutet-a-1f0fec12-718a-498d-abf5-22ee4ddca9ea#ref=rss)
-### schutz
+* [https://www.spiegel.de/wirtschaft/welthandel-kommt-wieder-in-schwung-schiffsstaus-loesen-sich-auf](https://www.spiegel.de/wirtschaft/welthandel-kommt-wieder-in-schwung-schiffsstaus-loesen-sich-auf-a-ca1f5141-40ae-473a-adc1-ecf8af000161#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/norge-mining-wie-ein-schweizer-gruender-europas-rohstoffprobleme-loesen-will](https://www.spiegel.de/wirtschaft/unternehmen/norge-mining-wie-ein-schweizer-gruender-europas-rohstoffprobleme-loesen-will-a-7028b2e9-0436-43f3-98c2-9153192a71e0#ref=rss)
+### insgesamt
 
-* [https://www.spiegel.de/wissenschaft/italien-rueckhaltegebiete-effizientester-schutz-bei-ueberschwemmungen](https://www.spiegel.de/wissenschaft/italien-rueckhaltegebiete-effizientester-schutz-bei-ueberschwemmungen-a-1f570a4a-0f2c-426e-a9db-36e8a1258033#ref=rss)
-### kim
+* [https://www.spiegel.de/wirtschaft/welthandel-kommt-wieder-in-schwung-schiffsstaus-loesen-sich-auf](https://www.spiegel.de/wirtschaft/welthandel-kommt-wieder-in-schwung-schiffsstaus-loesen-sich-auf-a-ca1f5141-40ae-473a-adc1-ecf8af000161#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer-a-a9108848-e304-4f9f-b8f1-485269a028dd#ref=rss)
+### schnitt
 
-* [https://www.spiegel.de/kultur/musik/kim-petras-was-sie-ueber-die-grammy-gewinnerin-wissen-muessen](https://www.spiegel.de/kultur/musik/kim-petras-was-sie-ueber-die-grammy-gewinnerin-wissen-muessen-a-ea9b9a23-9a02-4cb0-8d51-313b25b4b6fc#ref=rss)
-### petras
+* [https://www.spiegel.de/wirtschaft/welthandel-kommt-wieder-in-schwung-schiffsstaus-loesen-sich-auf](https://www.spiegel.de/wirtschaft/welthandel-kommt-wieder-in-schwung-schiffsstaus-loesen-sich-auf-a-ca1f5141-40ae-473a-adc1-ecf8af000161#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/eu-staaten-rufen-corona-zuschuesse-kaum-ab](https://www.spiegel.de/politik/deutschland/eu-staaten-rufen-corona-zuschuesse-kaum-ab-a-acb742bc-59f7-405d-942a-cb8bfe05de30#ref=rss)
+### chatgpt
 
-* [https://www.spiegel.de/kultur/musik/kim-petras-was-sie-ueber-die-grammy-gewinnerin-wissen-muessen](https://www.spiegel.de/kultur/musik/kim-petras-was-sie-ueber-die-grammy-gewinnerin-wissen-muessen-a-ea9b9a23-9a02-4cb0-8d51-313b25b4b6fc#ref=rss)
-### franken
+* [https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs](https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs-a-ac560d1c-149b-4f0e-95cc-c11bf1475384#ref=rss)
+### drängt
 
-* [https://www.spiegel.de/panorama/schockanrufe-bei-senioren-betrueger-ergaunern-1-5-millionen-schweizer-franken](https://www.spiegel.de/panorama/schockanrufe-bei-senioren-betrueger-ergaunern-1-5-millionen-schweizer-franken-a-256860b1-2e0b-46c9-9899-f5e020fd46ea#ref=rss)
-### brüssel
+* [https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs](https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs-a-ac560d1c-149b-4f0e-95cc-c11bf1475384#ref=rss)
+### künstliche
 
-* [https://www.spiegel.de/ausland/ukraine-europaeische-union-laedt-wolodmymr-selenskyj-zu-gipfel-ein](https://www.spiegel.de/ausland/ukraine-europaeische-union-laedt-wolodmymr-selenskyj-zu-gipfel-ein-a-4d5038a6-929c-4022-9102-c80de6847282#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/alternative-fuer-deutschland-rechtsnationale-eu-fraktion-beraten-ueber-ausschluss-von-maximilian-krah](https://www.spiegel.de/politik/deutschland/alternative-fuer-deutschland-rechtsnationale-eu-fraktion-beraten-ueber-ausschluss-von-maximilian-krah-a-0ee28962-0559-4927-bffe-e67416363598#ref=rss)
-### afd
+* [https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs](https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs-a-ac560d1c-149b-4f0e-95cc-c11bf1475384#ref=rss)
+### intelligenz
 
-* [https://www.spiegel.de/politik/deutschland/alternative-fuer-deutschland-rechtsnationale-eu-fraktion-beraten-ueber-ausschluss-von-maximilian-krah](https://www.spiegel.de/politik/deutschland/alternative-fuer-deutschland-rechtsnationale-eu-fraktion-beraten-ueber-ausschluss-von-maximilian-krah-a-0ee28962-0559-4927-bffe-e67416363598#ref=rss)
-### hongkong
+* [https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs](https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs-a-ac560d1c-149b-4f0e-95cc-c11bf1475384#ref=rss)
+### jobs
 
-* [https://www.spiegel.de/kultur/tv/disney-entfernt-in-hongkong-eine-simpsons-folge-aus-dem-programm](https://www.spiegel.de/kultur/tv/disney-entfernt-in-hongkong-eine-simpsons-folge-aus-dem-programm-a-503c5c71-875f-45d2-9ced-29e439c716cb#ref=rss)
-### thierry
+* [https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs](https://www.spiegel.de/wirtschaft/chatgpt-draengt-kuenstliche-intelligenz-beschaeftigte-aus-ihren-jobs-a-ac560d1c-149b-4f0e-95cc-c11bf1475384#ref=rss)
+### wenige
 
-* [https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten](https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten-a-a3941985-3130-4dbf-867a-3d3bb17ea084#ref=rss)
-### breton
+* [https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk](https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk-a-315768d5-8d27-434d-8445-dd19a7e6c783#ref=rss)
+* [https://www.spiegel.de/wirtschaft/kreml-vertraute-besitzen-tausende-immobilien-in-grossbritannien](https://www.spiegel.de/wirtschaft/kreml-vertraute-besitzen-tausende-immobilien-in-grossbritannien-a-16a79cc8-68c8-4f86-9146-8f9732ccadce#ref=rss)
+### abiturienten
 
-* [https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten](https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten-a-a3941985-3130-4dbf-867a-3d3bb17ea084#ref=rss)
-### notfalls
+* [https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk](https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk-a-315768d5-8d27-434d-8445-dd19a7e6c783#ref=rss)
+### handwerk
 
-* [https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten](https://www.spiegel.de/wirtschaft/eu-kommissar-thierry-breton-notfalls-werden-twitter-und-tiktok-in-der-eu-verboten-a-a3941985-3130-4dbf-867a-3d3bb17ea084#ref=rss)
+* [https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk](https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk-a-315768d5-8d27-434d-8445-dd19a7e6c783#ref=rss)
+### mehr
+
+* [https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk](https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk-a-315768d5-8d27-434d-8445-dd19a7e6c783#ref=rss)
+* [https://www.spiegel.de/panorama/warum-wir-mehr-hunde-im-buero-brauchen](https://www.spiegel.de/panorama/warum-wir-mehr-hunde-im-buero-brauchen-a-944d4bd9-f08a-47e8-a01a-cb5a225be597#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk](https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk-a-315768d5-8d27-434d-8445-dd19a7e6c783#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/marco-buschmann-fall-brokstedt-zeigt-maengel-in-verwaltung-auf](https://www.spiegel.de/panorama/justiz/marco-buschmann-fall-brokstedt-zeigt-maengel-in-verwaltung-auf-a-94029f3d-e9b1-447d-beb0-3c945618a589#ref=rss)
+### neue
+
+* [https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk](https://www.spiegel.de/start/ruhrgebiet-nur-wenige-abiturienten-machen-ausbildungen-im-handwerk-a-315768d5-8d27-434d-8445-dd19a7e6c783#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin](https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin-a-c3273f4d-dc2d-43f3-b111-1ef03a0f510b#ref=rss)
+### abschiebungen
+
+* [https://www.spiegel.de/politik/deutschland/migrationspolitik-spd-und-fdp-wollen-abschiebungen-forcieren](https://www.spiegel.de/politik/deutschland/migrationspolitik-spd-und-fdp-wollen-abschiebungen-forcieren-a-2bba9ad9-6fc3-4c2c-9c10-53855ce8b6f0#ref=rss)
+### epsom
+
+* [https://www.spiegel.de/panorama/justiz/epsom-college-leiterin-von-englischer-privatschule-tochter-und-mann-tot-aufgefunden](https://www.spiegel.de/panorama/justiz/epsom-college-leiterin-von-englischer-privatschule-tochter-und-mann-tot-aufgefunden-a-83e794e7-f797-4f9c-ae35-b77641fa4f02#ref=rss)
+### leiterin
+
+* [https://www.spiegel.de/panorama/justiz/epsom-college-leiterin-von-englischer-privatschule-tochter-und-mann-tot-aufgefunden](https://www.spiegel.de/panorama/justiz/epsom-college-leiterin-von-englischer-privatschule-tochter-und-mann-tot-aufgefunden-a-83e794e7-f797-4f9c-ae35-b77641fa4f02#ref=rss)
+### tochter
+
+* [https://www.spiegel.de/panorama/justiz/epsom-college-leiterin-von-englischer-privatschule-tochter-und-mann-tot-aufgefunden](https://www.spiegel.de/panorama/justiz/epsom-college-leiterin-von-englischer-privatschule-tochter-und-mann-tot-aufgefunden-a-83e794e7-f797-4f9c-ae35-b77641fa4f02#ref=rss)
+### tot
+
+* [https://www.spiegel.de/panorama/justiz/epsom-college-leiterin-von-englischer-privatschule-tochter-und-mann-tot-aufgefunden](https://www.spiegel.de/panorama/justiz/epsom-college-leiterin-von-englischer-privatschule-tochter-und-mann-tot-aufgefunden-a-83e794e7-f797-4f9c-ae35-b77641fa4f02#ref=rss)
+### spitze
+
+* [https://www.spiegel.de/panorama/justiz/epsom-college-leiterin-von-englischer-privatschule-tochter-und-mann-tot-aufgefunden](https://www.spiegel.de/panorama/justiz/epsom-college-leiterin-von-englischer-privatschule-tochter-und-mann-tot-aufgefunden-a-83e794e7-f797-4f9c-ae35-b77641fa4f02#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin](https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin-a-c3273f4d-dc2d-43f3-b111-1ef03a0f510b#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien](https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien-a-e69b1d94-4681-41eb-aeaf-8c59cb782cf3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/deutschland-hinkt-eigenen-zielen-bei-energiespar-sanierung-hinterher](https://www.spiegel.de/wirtschaft/deutschland-hinkt-eigenen-zielen-bei-energiespar-sanierung-hinterher-a-b0fe9f77-0b90-40c9-9fb4-9b7a7421e308#ref=rss)
+### genehmigt
+
+* [https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien](https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien-a-e69b1d94-4681-41eb-aeaf-8c59cb782cf3#ref=rss)
+### waffenlieferungen
+
+* [https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien](https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien-a-e69b1d94-4681-41eb-aeaf-8c59cb782cf3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin](https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin-a-8818ad45-a969-47f2-94af-8964ffcdda87#ref=rss)
+### niger
+
+* [https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien](https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien-a-e69b1d94-4681-41eb-aeaf-8c59cb782cf3#ref=rss)
+### indien
+
+* [https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien](https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien-a-e69b1d94-4681-41eb-aeaf-8c59cb782cf3#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien](https://www.spiegel.de/politik/deutschland/regierung-genehmigt-waffenlieferungen-nach-niger-und-indien-a-e69b1d94-4681-41eb-aeaf-8c59cb782cf3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin](https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin-a-c3273f4d-dc2d-43f3-b111-1ef03a0f510b#ref=rss)
+### immobilien
+
+* [https://www.spiegel.de/wirtschaft/kreml-vertraute-besitzen-tausende-immobilien-in-grossbritannien](https://www.spiegel.de/wirtschaft/kreml-vertraute-besitzen-tausende-immobilien-in-grossbritannien-a-16a79cc8-68c8-4f86-9146-8f9732ccadce#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/wirtschaft/kreml-vertraute-besitzen-tausende-immobilien-in-grossbritannien](https://www.spiegel.de/wirtschaft/kreml-vertraute-besitzen-tausende-immobilien-in-grossbritannien-a-16a79cc8-68c8-4f86-9146-8f9732ccadce#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf](https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf-a-e7ec1099-53fa-48c3-aa16-f417efbff92c#ref=rss)
+### bildungsgewerkschaft
+
+* [https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf](https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf-a-e7ec1099-53fa-48c3-aa16-f417efbff92c#ref=rss)
+### gew
+
+* [https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf](https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf-a-e7ec1099-53fa-48c3-aa16-f417efbff92c#ref=rss)
+### schulen
+
+* [https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf](https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf-a-e7ec1099-53fa-48c3-aa16-f417efbff92c#ref=rss)
+### krank
+
+* [https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf](https://www.spiegel.de/panorama/bildung/berlin-bildungsgewerkschaft-gew-ruft-zu-zweitaegigem-warnstreik-an-schulen-auf-a-e7ec1099-53fa-48c3-aa16-f417efbff92c#ref=rss)
+* [https://www.spiegel.de/psychologie/selbstgespraeche-im-supermarkt-bin-ich-nur-gestoert-oder-schon-dement](https://www.spiegel.de/psychologie/selbstgespraeche-im-supermarkt-bin-ich-nur-gestoert-oder-schon-dement-a-9ed7b045-d3a2-4053-83be-6806aa4b21f9#ref=rss)
+### biathlonwm
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-zeitplan-ergebnisse-favoriten](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-zeitplan-ergebnisse-favoriten-a-4710cb61-08b0-4fa8-b4d5-4f629e4c268e#ref=rss)
+### gesicht
+
+* [https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger](https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger-a-447de810-89ff-4fa9-99ab-f5d9ce3cf688#ref=rss)
+### erinnerung
+
+* [https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger](https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger-a-447de810-89ff-4fa9-99ab-f5d9ce3cf688#ref=rss)
+### liebe
+
+* [https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger](https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger-a-447de810-89ff-4fa9-99ab-f5d9ce3cf688#ref=rss)
+### tod
+
+* [https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger](https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger-a-447de810-89ff-4fa9-99ab-f5d9ce3cf688#ref=rss)
+### begehren
+
+* [https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger](https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger-a-447de810-89ff-4fa9-99ab-f5d9ce3cf688#ref=rss)
+### verena
+
+* [https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger](https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger-a-447de810-89ff-4fa9-99ab-f5d9ce3cf688#ref=rss)
+### altenberger
+
+* [https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger](https://www.spiegel.de/kultur/tv/gesicht-der-erinnerung-von-dominik-graf-liebe-tod-begehren-mit-verena-altenberger-a-447de810-89ff-4fa9-99ab-f5d9ce3cf688#ref=rss)
+### 23
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/gruner-jahr-bertelsmann-will-bis-zu-700-stellen-abbauen-und-23-magazine-einstellen](https://www.spiegel.de/wirtschaft/unternehmen/gruner-jahr-bertelsmann-will-bis-zu-700-stellen-abbauen-und-23-magazine-einstellen-a-8ec960db-4d20-44ad-ab63-f30331b95f9a#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer-a-a9108848-e304-4f9f-b8f1-485269a028dd#ref=rss)
+### news
+
+* [https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer](https://www.spiegel.de/ausland/erdbeben-in-tuerkei-und-syrien-katastrophe-trifft-viele-ohnehin-schon-schutzlose-syrer-a-a9108848-e304-4f9f-b8f1-485269a028dd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin](https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin-a-8818ad45-a969-47f2-94af-8964ffcdda87#ref=rss)
+### kyrie
+
+* [https://www.spiegel.de/sport/basketball/nba-wechsel-von-skandalprofi-kyrie-irving-zu-den-dallas-mavericks-perfekt](https://www.spiegel.de/sport/basketball/nba-wechsel-von-skandalprofi-kyrie-irving-zu-den-dallas-mavericks-perfekt-a-f9da3e3f-32a8-4afd-a6ea-df62ab4eb18e#ref=rss)
+### irving
+
+* [https://www.spiegel.de/sport/basketball/nba-wechsel-von-skandalprofi-kyrie-irving-zu-den-dallas-mavericks-perfekt](https://www.spiegel.de/sport/basketball/nba-wechsel-von-skandalprofi-kyrie-irving-zu-den-dallas-mavericks-perfekt-a-f9da3e3f-32a8-4afd-a6ea-df62ab4eb18e#ref=rss)
+### dallas
+
+* [https://www.spiegel.de/sport/basketball/nba-wechsel-von-skandalprofi-kyrie-irving-zu-den-dallas-mavericks-perfekt](https://www.spiegel.de/sport/basketball/nba-wechsel-von-skandalprofi-kyrie-irving-zu-den-dallas-mavericks-perfekt-a-f9da3e3f-32a8-4afd-a6ea-df62ab4eb18e#ref=rss)
+### mavericks
+
+* [https://www.spiegel.de/sport/basketball/nba-wechsel-von-skandalprofi-kyrie-irving-zu-den-dallas-mavericks-perfekt](https://www.spiegel.de/sport/basketball/nba-wechsel-von-skandalprofi-kyrie-irving-zu-den-dallas-mavericks-perfekt-a-f9da3e3f-32a8-4afd-a6ea-df62ab4eb18e#ref=rss)
+### neues
+
+* [https://www.spiegel.de/sport/basketball/nba-wechsel-von-skandalprofi-kyrie-irving-zu-den-dallas-mavericks-perfekt](https://www.spiegel.de/sport/basketball/nba-wechsel-von-skandalprofi-kyrie-irving-zu-den-dallas-mavericks-perfekt-a-f9da3e3f-32a8-4afd-a6ea-df62ab4eb18e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin](https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin-a-8818ad45-a969-47f2-94af-8964ffcdda87#ref=rss)
+### easa
+
+* [https://www.spiegel.de/wirtschaft/luftfahrt-luftfahrtaufsicht-schliesst-ein-personen-besatzung-im-cockpit-vorerst-aus](https://www.spiegel.de/wirtschaft/luftfahrt-luftfahrtaufsicht-schliesst-ein-personen-besatzung-im-cockpit-vorerst-aus-a-13c1f671-df86-41f8-93a2-247a062c6186#ref=rss)
+### claudia
+
+* [https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin](https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin-a-c3273f4d-dc2d-43f3-b111-1ef03a0f510b#ref=rss)
+### plattner
+
+* [https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin](https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin-a-c3273f4d-dc2d-43f3-b111-1ef03a0f510b#ref=rss)
+### itsicherheitsbehörde
+
+* [https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin](https://www.spiegel.de/politik/deutschland/claudia-plattner-wird-neue-bsi-praesidentin-it-sicherheitsbehoerde-bekommt-erstmals-chefin-a-c3273f4d-dc2d-43f3-b111-1ef03a0f510b#ref=rss)
+### hunde
+
+* [https://www.spiegel.de/panorama/warum-wir-mehr-hunde-im-buero-brauchen](https://www.spiegel.de/panorama/warum-wir-mehr-hunde-im-buero-brauchen-a-944d4bd9-f08a-47e8-a01a-cb5a225be597#ref=rss)
+### büro
+
+* [https://www.spiegel.de/panorama/warum-wir-mehr-hunde-im-buero-brauchen](https://www.spiegel.de/panorama/warum-wir-mehr-hunde-im-buero-brauchen-a-944d4bd9-f08a-47e8-a01a-cb5a225be597#ref=rss)
+### lambsdorff
+
+* [https://www.spiegel.de/wirtschaft/abhaengigkeit-von-peking-alexander-graf-lambsdorff-fordert-china-stresstest](https://www.spiegel.de/wirtschaft/abhaengigkeit-von-peking-alexander-graf-lambsdorff-fordert-china-stresstest-a-a433dba4-4728-4893-aaf1-807f8fa51802#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wirtschaft/abhaengigkeit-von-peking-alexander-graf-lambsdorff-fordert-china-stresstest](https://www.spiegel.de/wirtschaft/abhaengigkeit-von-peking-alexander-graf-lambsdorff-fordert-china-stresstest-a-a433dba4-4728-4893-aaf1-807f8fa51802#ref=rss)
+### bin
+
+* [https://www.spiegel.de/psychologie/selbstgespraeche-im-supermarkt-bin-ich-nur-gestoert-oder-schon-dement](https://www.spiegel.de/psychologie/selbstgespraeche-im-supermarkt-bin-ich-nur-gestoert-oder-schon-dement-a-9ed7b045-d3a2-4053-83be-6806aa4b21f9#ref=rss)
+### hochzeitsfotos
+
+* [https://www.spiegel.de/partnerschaft/hochzeitsfotos-des-jahres-ja-ich-will-diese-bilder-sehen](https://www.spiegel.de/partnerschaft/hochzeitsfotos-des-jahres-ja-ich-will-diese-bilder-sehen-a-83e6b1f5-ca77-48df-b0dc-62c4bcf9424c#ref=rss)
+### jahres
+
+* [https://www.spiegel.de/partnerschaft/hochzeitsfotos-des-jahres-ja-ich-will-diese-bilder-sehen](https://www.spiegel.de/partnerschaft/hochzeitsfotos-des-jahres-ja-ich-will-diese-bilder-sehen-a-83e6b1f5-ca77-48df-b0dc-62c4bcf9424c#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/partnerschaft/hochzeitsfotos-des-jahres-ja-ich-will-diese-bilder-sehen](https://www.spiegel.de/partnerschaft/hochzeitsfotos-des-jahres-ja-ich-will-diese-bilder-sehen-a-83e6b1f5-ca77-48df-b0dc-62c4bcf9424c#ref=rss)
+### russlands
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-warum-bachmut-fuer-russlands-armee-wichtig-ist-podcast](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-warum-bachmut-fuer-russlands-armee-wichtig-ist-podcast-a-dd940787-ffde-4eac-ac42-22e380cef0c1#ref=rss)
+### wichtig
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-warum-bachmut-fuer-russlands-armee-wichtig-ist-podcast](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-warum-bachmut-fuer-russlands-armee-wichtig-ist-podcast-a-dd940787-ffde-4eac-ac42-22e380cef0c1#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-warum-bachmut-fuer-russlands-armee-wichtig-ist-podcast](https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-warum-bachmut-fuer-russlands-armee-wichtig-ist-podcast-a-dd940787-ffde-4eac-ac42-22e380cef0c1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin](https://www.spiegel.de/politik/deutschland/news-erdbeben-tuerkei-syrien-waffenlieferungen-ukraine-russland-olaf-scholz-annalena-baerbock-afd-neuwahl-berlin-a-8818ad45-a969-47f2-94af-8964ffcdda87#ref=rss)
 
