@@ -4,364 +4,320 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/abschied-vom-mythos-kaufhaus](https://www.spiegel.de/wirtschaft/unternehmen/abschied-vom-mythos-kaufhaus-a-8a6ff9ae-21cb-4c03-adb4-950d9e547139#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung](https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung-a-a6334cb8-42bf-4f18-a569-d466c2b93be6#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht](https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht-a-1290c144-a45b-4a1c-aa82-64128f6fcc62#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-bis-2030-fehlen-87-000-busfahrer-verband-warnt](https://www.spiegel.de/wirtschaft/deutschland-bis-2030-fehlen-87-000-busfahrer-verband-warnt-a-0c5f7d44-773c-404f-873f-65e83cd92368#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen-a-1f9f400d-c589-4582-a877-15c68932b09f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen-a-23573572-b0d0-47bb-abb4-9d7d008d830d#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen-a-1f9f400d-c589-4582-a877-15c68932b09f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen-a-23573572-b0d0-47bb-abb4-9d7d008d830d#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen-a-1f9f400d-c589-4582-a877-15c68932b09f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen-a-23573572-b0d0-47bb-abb4-9d7d008d830d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wahlen-in-berlin-ich-kann-melden-bislang-keine-wahlzettelknappheit-in-wahllokal-818](https://www.spiegel.de/panorama/gesellschaft/wahlen-in-berlin-ich-kann-melden-bislang-keine-wahlzettelknappheit-in-wahllokal-818-a-a0fd79d4-12c1-4e1d-8eda-cf850e8cdff9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-alle-daten-grafiken-und-karten-der-abgeordnetenhauswahl-im-ueberblick](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-alle-daten-grafiken-und-karten-der-abgeordnetenhauswahl-im-ueberblick-a-aaed0946-b97f-49c0-be8f-f2cb0850c810#ref=rss)
-### fast
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen-a-1f9f400d-c589-4582-a877-15c68932b09f#ref=rss)
-* [https://www.spiegel.de/partnerschaft/grossbritannien-wie-graham-mansfield-seine-kranke-frau-toetete-und-fast-auch-sich-selbst](https://www.spiegel.de/partnerschaft/grossbritannien-wie-graham-mansfield-seine-kranke-frau-toetete-und-fast-auch-sich-selbst-a-e80848d9-659b-44d2-a066-bd2830a27996#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wahlen-in-berlin-ich-kann-melden-bislang-keine-wahlzettelknappheit-in-wahllokal-818](https://www.spiegel.de/panorama/gesellschaft/wahlen-in-berlin-ich-kann-melden-bislang-keine-wahlzettelknappheit-in-wahllokal-818-a-a0fd79d4-12c1-4e1d-8eda-cf850e8cdff9#ref=rss)
-* [https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte](https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte-a-3cbf3c0a-dd66-4a69-950c-e74944fbf3a7#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen-a-1f9f400d-c589-4582-a877-15c68932b09f#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung](https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung-a-a6334cb8-42bf-4f18-a569-d466c2b93be6#ref=rss)
-* [https://www.spiegel.de/panorama/schulen-iqb-bildungstrend-arbeitgeber-legen-plan-fuer-bessere-schulqualitaet-vor](https://www.spiegel.de/panorama/schulen-iqb-bildungstrend-arbeitgeber-legen-plan-fuer-bessere-schulqualitaet-vor-a-85fe5390-16b4-41f1-ab5a-4bf03102c0b9#ref=rss)
-* [https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte](https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte-a-3cbf3c0a-dd66-4a69-950c-e74944fbf3a7#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette](https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette-a-a3ae6c95-3fc8-4b44-b230-2067abc87bd2#ref=rss)
-* [https://www.spiegel.de/ausland/jahrhundertbeben-in-tuerkei-und-syrien-uno-raeumt-versaeumnisse-ein](https://www.spiegel.de/ausland/jahrhundertbeben-in-tuerkei-und-syrien-uno-raeumt-versaeumnisse-ein-a-3f3b5d42-af91-4791-b23d-57c57f05495c#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-die-erde-bebte-und-dann-war-nouh-geboren](https://www.spiegel.de/ausland/tuerkei-die-erde-bebte-und-dann-war-nouh-geboren-a-58316404-71ff-4d0e-afcd-098ed2edd2c8#ref=rss)
-### frau
-
-* [https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette](https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette-a-a3ae6c95-3fc8-4b44-b230-2067abc87bd2#ref=rss)
-* [https://www.spiegel.de/partnerschaft/grossbritannien-wie-graham-mansfield-seine-kranke-frau-toetete-und-fast-auch-sich-selbst](https://www.spiegel.de/partnerschaft/grossbritannien-wie-graham-mansfield-seine-kranke-frau-toetete-und-fast-auch-sich-selbst-a-e80848d9-659b-44d2-a066-bd2830a27996#ref=rss)
-### 2023
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres-a-0a5e555c-42c3-4905-84aa-a71e741af673#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-marco-odermatt-faehrt-ueberlegen-zu-gold-in-der-abfahrt](https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-marco-odermatt-faehrt-ueberlegen-zu-gold-in-der-abfahrt-a-1353960e-b411-468b-b4f6-4d78518557bc#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe-a-1e4a27dc-494b-41af-9c79-ebfd4d3d7285#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-alle-daten-grafiken-und-karten-der-abgeordnetenhauswahl-im-ueberblick](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-alle-daten-grafiken-und-karten-der-abgeordnetenhauswahl-im-ueberblick-a-aaed0946-b97f-49c0-be8f-f2cb0850c810#ref=rss)
-### super
-
-* [https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung](https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung-a-a6334cb8-42bf-4f18-a569-d466c2b93be6#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-lvii-zehn-legendaere-geschichten-tom-bradys-aufholjagd-und-ein-fang-mit-dem-helm](https://www.spiegel.de/sport/american-football/super-bowl-lvii-zehn-legendaere-geschichten-tom-bradys-aufholjagd-und-ein-fang-mit-dem-helm-a-e7c021fd-4530-4338-b3bd-254d8a5d335b#ref=rss)
-### bowl
-
-* [https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung](https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung-a-a6334cb8-42bf-4f18-a569-d466c2b93be6#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-lvii-zehn-legendaere-geschichten-tom-bradys-aufholjagd-und-ein-fang-mit-dem-helm](https://www.spiegel.de/sport/american-football/super-bowl-lvii-zehn-legendaere-geschichten-tom-bradys-aufholjagd-und-ein-fang-mit-dem-helm-a-e7c021fd-4530-4338-b3bd-254d8a5d335b#ref=rss)
-### ich
-
-* [https://www.spiegel.de/kultur/generation-selbstmitleid-ich-das-arme-opfer-kolumne](https://www.spiegel.de/kultur/generation-selbstmitleid-ich-das-arme-opfer-kolumne-a-8573ee72-8cd4-4c4d-8617-402bfd3da0de#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wahlen-in-berlin-ich-kann-melden-bislang-keine-wahlzettelknappheit-in-wahllokal-818](https://www.spiegel.de/panorama/gesellschaft/wahlen-in-berlin-ich-kann-melden-bislang-keine-wahlzettelknappheit-in-wahllokal-818-a-a0fd79d4-12c1-4e1d-8eda-cf850e8cdff9#ref=rss)
 ### berlinwahl
 
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen-a-1f9f400d-c589-4582-a877-15c68932b09f#ref=rss)
-* [https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte](https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte-a-3cbf3c0a-dd66-4a69-950c-e74944fbf3a7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-alle-daten-grafiken-und-karten-der-abgeordnetenhauswahl-im-ueberblick](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-alle-daten-grafiken-und-karten-der-abgeordnetenhauswahl-im-ueberblick-a-aaed0946-b97f-49c0-be8f-f2cb0850c810#ref=rss)
-### grünen
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-knapper-spd-vorsprung-landeswahlleiter-prueft-neuauszaehlung](https://www.spiegel.de/politik/deutschland/berlin-wahl-knapper-spd-vorsprung-landeswahlleiter-prueft-neuauszaehlung-a-5ddda45a-acac-48d5-adc0-2c08496648cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-kai-wegner-kuendigt-baldige-sondierungsgespraeche-an](https://www.spiegel.de/politik/deutschland/berlin-wahl-kai-wegner-kuendigt-baldige-sondierungsgespraeche-an-a-710a7f05-96ec-4d65-80f4-99760b74d67b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau-a-b570502f-8931-4bfe-9b4f-80cb9cc94ef2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner](https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner-a-61194d91-ade8-4c65-a22b-64588656648f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich](https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich-a-1c660696-fe54-4b5d-b57d-03cf7de326e2#ref=rss)
+### berlin
 
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen-a-1f9f400d-c589-4582-a877-15c68932b09f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen-a-23573572-b0d0-47bb-abb4-9d7d008d830d#ref=rss)
-### erstmals
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd-a-538b8f74-6709-4730-81fd-ea99e230f2d3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-kai-wegner-kuendigt-baldige-sondierungsgespraeche-an](https://www.spiegel.de/politik/deutschland/berlin-wahl-kai-wegner-kuendigt-baldige-sondierungsgespraeche-an-a-710a7f05-96ec-4d65-80f4-99760b74d67b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau-a-b570502f-8931-4bfe-9b4f-80cb9cc94ef2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten-a-50f49c45-271c-498f-ac08-22175da800f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-cdu-kritisiert-kulturell-vermittelte-toxische-maennlichkeit](https://www.spiegel.de/politik/deutschland/jens-spahn-cdu-kritisiert-kulturell-vermittelte-toxische-maennlichkeit-a-f15ea5b4-b2ba-4248-b7f6-467fc54873a3#ref=rss)
+### wahl
 
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen-a-1f9f400d-c589-4582-a877-15c68932b09f#ref=rss)
-* [https://www.spiegel.de/ausland/jahrhundertbeben-in-tuerkei-und-syrien-uno-raeumt-versaeumnisse-ein](https://www.spiegel.de/ausland/jahrhundertbeben-in-tuerkei-und-syrien-uno-raeumt-versaeumnisse-ein-a-3f3b5d42-af91-4791-b23d-57c57f05495c#ref=rss)
-* [https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte](https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte-a-3cbf3c0a-dd66-4a69-950c-e74944fbf3a7#ref=rss)
-### abgeordnetenhaus
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd-a-538b8f74-6709-4730-81fd-ea99e230f2d3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten-a-50f49c45-271c-498f-ac08-22175da800f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner](https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner-a-61194d91-ade8-4c65-a22b-64588656648f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-cdu-kritisiert-kulturell-vermittelte-toxische-maennlichkeit](https://www.spiegel.de/politik/deutschland/jens-spahn-cdu-kritisiert-kulturell-vermittelte-toxische-maennlichkeit-a-f15ea5b4-b2ba-4248-b7f6-467fc54873a3#ref=rss)
+### spd
 
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen-a-1f9f400d-c589-4582-a877-15c68932b09f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen-a-23573572-b0d0-47bb-abb4-9d7d008d830d#ref=rss)
-* [https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte](https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte-a-3cbf3c0a-dd66-4a69-950c-e74944fbf3a7#ref=rss)
-### berliner
-
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen-a-23573572-b0d0-47bb-abb4-9d7d008d830d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/wahlen-in-berlin-ich-kann-melden-bislang-keine-wahlzettelknappheit-in-wahllokal-818](https://www.spiegel.de/panorama/gesellschaft/wahlen-in-berlin-ich-kann-melden-bislang-keine-wahlzettelknappheit-in-wahllokal-818-a-a0fd79d4-12c1-4e1d-8eda-cf850e8cdff9#ref=rss)
-* [https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte](https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte-a-3cbf3c0a-dd66-4a69-950c-e74944fbf3a7#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette](https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette-a-a3ae6c95-3fc8-4b44-b230-2067abc87bd2#ref=rss)
-* [https://www.spiegel.de/ausland/jahrhundertbeben-in-tuerkei-und-syrien-uno-raeumt-versaeumnisse-ein](https://www.spiegel.de/ausland/jahrhundertbeben-in-tuerkei-und-syrien-uno-raeumt-versaeumnisse-ein-a-3f3b5d42-af91-4791-b23d-57c57f05495c#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-die-erde-bebte-und-dann-war-nouh-geboren](https://www.spiegel.de/ausland/tuerkei-die-erde-bebte-und-dann-war-nouh-geboren-a-58316404-71ff-4d0e-afcd-098ed2edd2c8#ref=rss)
-### kam
-
-* [https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette](https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette-a-a3ae6c95-3fc8-4b44-b230-2067abc87bd2#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-die-erde-bebte-und-dann-war-nouh-geboren](https://www.spiegel.de/ausland/tuerkei-die-erde-bebte-und-dann-war-nouh-geboren-a-58316404-71ff-4d0e-afcd-098ed2edd2c8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern-a-fae58f53-7b8f-44e5-a6f6-cc4f947be6c0#ref=rss)
-### hertha
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres-a-0a5e555c-42c3-4905-84aa-a71e741af673#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/jahrhundertbeben-in-tuerkei-und-syrien-uno-raeumt-versaeumnisse-ein](https://www.spiegel.de/ausland/jahrhundertbeben-in-tuerkei-und-syrien-uno-raeumt-versaeumnisse-ein-a-3f3b5d42-af91-4791-b23d-57c57f05495c#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung](https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung-a-a6334cb8-42bf-4f18-a569-d466c2b93be6#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-unten-im-tal-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-unten-im-tal-im-schnellcheck-a-b8fcd5ce-1274-44be-8876-32d485701908#ref=rss)
-### leben
-
-* [https://www.spiegel.de/partnerschaft/grossbritannien-wie-graham-mansfield-seine-kranke-frau-toetete-und-fast-auch-sich-selbst](https://www.spiegel.de/partnerschaft/grossbritannien-wie-graham-mansfield-seine-kranke-frau-toetete-und-fast-auch-sich-selbst-a-e80848d9-659b-44d2-a066-bd2830a27996#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/abschied-vom-mythos-kaufhaus](https://www.spiegel.de/wirtschaft/unternehmen/abschied-vom-mythos-kaufhaus-a-8a6ff9ae-21cb-4c03-adb4-950d9e547139#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht](https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht-a-1290c144-a45b-4a1c-aa82-64128f6fcc62#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung](https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung-a-a6334cb8-42bf-4f18-a569-d466c2b93be6#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-lvii-zehn-legendaere-geschichten-tom-bradys-aufholjagd-und-ein-fang-mit-dem-helm](https://www.spiegel.de/sport/american-football/super-bowl-lvii-zehn-legendaere-geschichten-tom-bradys-aufholjagd-und-ein-fang-mit-dem-helm-a-e7c021fd-4530-4338-b3bd-254d8a5d335b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-alle-daten-grafiken-und-karten-der-abgeordnetenhauswahl-im-ueberblick](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-alle-daten-grafiken-und-karten-der-abgeordnetenhauswahl-im-ueberblick-a-aaed0946-b97f-49c0-be8f-f2cb0850c810#ref=rss)
-### aufholjagd
-
-* [https://www.spiegel.de/sport/american-football/super-bowl-lvii-zehn-legendaere-geschichten-tom-bradys-aufholjagd-und-ein-fang-mit-dem-helm](https://www.spiegel.de/sport/american-football/super-bowl-lvii-zehn-legendaere-geschichten-tom-bradys-aufholjagd-und-ein-fang-mit-dem-helm-a-e7c021fd-4530-4338-b3bd-254d8a5d335b#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe-a-1e4a27dc-494b-41af-9c79-ebfd4d3d7285#ref=rss)
-### steigt
-
-* [https://www.spiegel.de/sport/american-football/super-bowl-lvii-zehn-legendaere-geschichten-tom-bradys-aufholjagd-und-ein-fang-mit-dem-helm](https://www.spiegel.de/sport/american-football/super-bowl-lvii-zehn-legendaere-geschichten-tom-bradys-aufholjagd-und-ein-fang-mit-dem-helm-a-e7c021fd-4530-4338-b3bd-254d8a5d335b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-bis-2030-fehlen-87-000-busfahrer-verband-warnt](https://www.spiegel.de/wirtschaft/deutschland-bis-2030-fehlen-87-000-busfahrer-verband-warnt-a-0c5f7d44-773c-404f-873f-65e83cd92368#ref=rss)
-### alle
-
-* [https://www.spiegel.de/panorama/gesellschaft/wahlen-in-berlin-ich-kann-melden-bislang-keine-wahlzettelknappheit-in-wahllokal-818](https://www.spiegel.de/panorama/gesellschaft/wahlen-in-berlin-ich-kann-melden-bislang-keine-wahlzettelknappheit-in-wahllokal-818-a-a0fd79d4-12c1-4e1d-8eda-cf850e8cdff9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-alle-daten-grafiken-und-karten-der-abgeordnetenhauswahl-im-ueberblick](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-alle-daten-grafiken-und-karten-der-abgeordnetenhauswahl-im-ueberblick-a-aaed0946-b97f-49c0-be8f-f2cb0850c810#ref=rss)
-### hochrechnungen
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen-a-1f9f400d-c589-4582-a877-15c68932b09f#ref=rss)
-### klar
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen-a-1f9f400d-c589-4582-a877-15c68932b09f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen-a-23573572-b0d0-47bb-abb4-9d7d008d830d#ref=rss)
-### erste
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen-a-1f9f400d-c589-4582-a877-15c68932b09f#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres-a-0a5e555c-42c3-4905-84aa-a71e741af673#ref=rss)
-### wiederholungswahl
-
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/berlin-wahl-hochrechnungen-cdu-liegt-klar-vor-spd-und-gruenen-a-1f9f400d-c589-4582-a877-15c68932b09f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen-a-23573572-b0d0-47bb-abb4-9d7d008d830d#ref=rss)
-### abgeordnetenhauswahl
-
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen-a-23573572-b0d0-47bb-abb4-9d7d008d830d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-alle-daten-grafiken-und-karten-der-abgeordnetenhauswahl-im-ueberblick](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-alle-daten-grafiken-und-karten-der-abgeordnetenhauswahl-im-ueberblick-a-aaed0946-b97f-49c0-be8f-f2cb0850c810#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen-a-23573572-b0d0-47bb-abb4-9d7d008d830d#ref=rss)
-### prognosen
-
-* [https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen](https://www.spiegel.de/politik/deutschland/abgeordnetenhauswahl-in-berlin-cdu-laut-ersten-prognosen-klar-vor-spd-und-gruenen-a-23573572-b0d0-47bb-abb4-9d7d008d830d#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette](https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette-a-a3ae6c95-3fc8-4b44-b230-2067abc87bd2#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette](https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette-a-a3ae6c95-3fc8-4b44-b230-2067abc87bd2#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-die-erde-bebte-und-dann-war-nouh-geboren](https://www.spiegel.de/ausland/tuerkei-die-erde-bebte-und-dann-war-nouh-geboren-a-58316404-71ff-4d0e-afcd-098ed2edd2c8#ref=rss)
-### hilfe
-
-* [https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette](https://www.spiegel.de/panorama/erdbeben-tuerkei-syrien-frau-erreicht-totgeglaubten-sohn-als-ob-man-mir-die-welt-geschenkt-haette-a-a3ae6c95-3fc8-4b44-b230-2067abc87bd2#ref=rss)
-* [https://www.spiegel.de/ausland/jahrhundertbeben-in-tuerkei-und-syrien-uno-raeumt-versaeumnisse-ein](https://www.spiegel.de/ausland/jahrhundertbeben-in-tuerkei-und-syrien-uno-raeumt-versaeumnisse-ein-a-3f3b5d42-af91-4791-b23d-57c57f05495c#ref=rss)
-### schön
-
-* [https://www.spiegel.de/deinspiegel/schoenheitsideale-was-ist-eigentlich-schoen-dein-spiegel-podcast](https://www.spiegel.de/deinspiegel/schoenheitsideale-was-ist-eigentlich-schoen-dein-spiegel-podcast-a-13ffbab6-e0b0-4ea4-8eca-3cae9dadbc9f#ref=rss)
-### wir
-
-* [https://www.spiegel.de/deinspiegel/schoenheitsideale-was-ist-eigentlich-schoen-dein-spiegel-podcast](https://www.spiegel.de/deinspiegel/schoenheitsideale-was-ist-eigentlich-schoen-dein-spiegel-podcast-a-13ffbab6-e0b0-4ea4-8eca-3cae9dadbc9f#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht](https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht-a-1290c144-a45b-4a1c-aa82-64128f6fcc62#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/deinspiegel/schoenheitsideale-was-ist-eigentlich-schoen-dein-spiegel-podcast](https://www.spiegel.de/deinspiegel/schoenheitsideale-was-ist-eigentlich-schoen-dein-spiegel-podcast-a-13ffbab6-e0b0-4ea4-8eca-3cae9dadbc9f#ref=rss)
-* [https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung](https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung-a-a6334cb8-42bf-4f18-a569-d466c2b93be6#ref=rss)
-### hannover
-
-* [https://www.spiegel.de/kultur/hannover-balletchef-bewirft-kritikerin-mit-hundekot](https://www.spiegel.de/kultur/hannover-balletchef-bewirft-kritikerin-mit-hundekot-a-12c7f068-36d0-456c-830c-66b9a8c630ed#ref=rss)
-### kritikerin
-
-* [https://www.spiegel.de/kultur/hannover-balletchef-bewirft-kritikerin-mit-hundekot](https://www.spiegel.de/kultur/hannover-balletchef-bewirft-kritikerin-mit-hundekot-a-12c7f068-36d0-456c-830c-66b9a8c630ed#ref=rss)
-### hundekot
-
-* [https://www.spiegel.de/kultur/hannover-balletchef-bewirft-kritikerin-mit-hundekot](https://www.spiegel.de/kultur/hannover-balletchef-bewirft-kritikerin-mit-hundekot-a-12c7f068-36d0-456c-830c-66b9a8c630ed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-knapper-spd-vorsprung-landeswahlleiter-prueft-neuauszaehlung](https://www.spiegel.de/politik/deutschland/berlin-wahl-knapper-spd-vorsprung-landeswahlleiter-prueft-neuauszaehlung-a-5ddda45a-acac-48d5-adc0-2c08496648cb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd-a-538b8f74-6709-4730-81fd-ea99e230f2d3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich](https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich-a-1c660696-fe54-4b5d-b57d-03cf7de326e2#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/kultur/hannover-balletchef-bewirft-kritikerin-mit-hundekot](https://www.spiegel.de/kultur/hannover-balletchef-bewirft-kritikerin-mit-hundekot-a-12c7f068-36d0-456c-830c-66b9a8c630ed#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-bis-2030-fehlen-87-000-busfahrer-verband-warnt](https://www.spiegel.de/wirtschaft/deutschland-bis-2030-fehlen-87-000-busfahrer-verband-warnt-a-0c5f7d44-773c-404f-873f-65e83cd92368#ref=rss)
-### bisher
+* [https://www.spiegel.de/netzwelt/gadgets/gross-salitz-unbekannte-stehlen-computer-im-wert-von-135-000-euro-aus-traktoren](https://www.spiegel.de/netzwelt/gadgets/gross-salitz-unbekannte-stehlen-computer-im-wert-von-135-000-euro-aus-traktoren-a-623fb0e4-0630-4881-8147-a18ba540fd1a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftsprognose-der-kommission-eu-entgeht-offenbar-einer-rezession](https://www.spiegel.de/wirtschaft/wirtschaftsprognose-der-kommission-eu-entgeht-offenbar-einer-rezession-a-6a2c89a7-7373-46c4-bd74-e84717094e1e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/konjunktur-experten-rechnen-mit-deutlichem-wachstum-der-weltwirtschaft](https://www.spiegel.de/wirtschaft/konjunktur-experten-rechnen-mit-deutlichem-wachstum-der-weltwirtschaft-a-44a76c54-7d14-4207-b55e-7a82d6133426#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-usa-fordern-buerger-zur-sofortigen-ausreise-aus-russland-auf](https://www.spiegel.de/ausland/ukraine-russland-news-heute-usa-fordern-buerger-zur-sofortigen-ausreise-aus-russland-auf-a-8438bd7a-82c3-45e7-a8cd-64da31bcba2e#ref=rss)
+### china
 
-* [https://www.spiegel.de/kultur/hannover-balletchef-bewirft-kritikerin-mit-hundekot](https://www.spiegel.de/kultur/hannover-balletchef-bewirft-kritikerin-mit-hundekot-a-12c7f068-36d0-456c-830c-66b9a8c630ed#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres-a-0a5e555c-42c3-4905-84aa-a71e741af673#ref=rss)
-### fußballbundesliga
+* [https://www.spiegel.de/ausland/china-beschuldigt-usa-ebenfalls-der-spionagefluege-mit-ballons](https://www.spiegel.de/ausland/china-beschuldigt-usa-ebenfalls-der-spionagefluege-mit-ballons-a-e0cb4020-1859-4845-83d1-87ed52ffd2e5#ref=rss)
+* [https://www.spiegel.de/ausland/china-schiff-soll-laut-philippinischer-kuestenwache-mit-laser-auf-boot-gezielt-haben](https://www.spiegel.de/ausland/china-schiff-soll-laut-philippinischer-kuestenwache-mit-laser-auf-boot-gezielt-haben-a-350ed590-0186-4c80-beab-f774c5e52f99#ref=rss)
+### usa
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres-a-0a5e555c-42c3-4905-84aa-a71e741af673#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern-a-fae58f53-7b8f-44e5-a6f6-cc4f947be6c0#ref=rss)
-### gelingt
+* [https://www.spiegel.de/ausland/china-beschuldigt-usa-ebenfalls-der-spionagefluege-mit-ballons](https://www.spiegel.de/ausland/china-beschuldigt-usa-ebenfalls-der-spionagefluege-mit-ballons-a-e0cb4020-1859-4845-83d1-87ed52ffd2e5#ref=rss)
+* [https://www.spiegel.de/ausland/china-schiff-soll-laut-philippinischer-kuestenwache-mit-laser-auf-boot-gezielt-haben](https://www.spiegel.de/ausland/china-schiff-soll-laut-philippinischer-kuestenwache-mit-laser-auf-boot-gezielt-haben-a-350ed590-0186-4c80-beab-f774c5e52f99#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-usa-fordern-buerger-zur-sofortigen-ausreise-aus-russland-auf](https://www.spiegel.de/ausland/ukraine-russland-news-heute-usa-fordern-buerger-zur-sofortigen-ausreise-aus-russland-auf-a-8438bd7a-82c3-45e7-a8cd-64da31bcba2e#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres-a-0a5e555c-42c3-4905-84aa-a71e741af673#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe-a-1e4a27dc-494b-41af-9c79-ebfd4d3d7285#ref=rss)
-### sieg
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd-a-538b8f74-6709-4730-81fd-ea99e230f2d3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/dialekte-in-den-schulen-schueler-sollen-in-baden-wuerttemberg-mehr-schwaetze](https://www.spiegel.de/panorama/bildung/dialekte-in-den-schulen-schueler-sollen-in-baden-wuerttemberg-mehr-schwaetze-a-d01e5f5f-656d-4925-86d0-51897d811bab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/energie-krise-befeuert-pub-sterben](https://www.spiegel.de/wirtschaft/soziales/energie-krise-befeuert-pub-sterben-a-6a75f19f-6f4e-4d6d-903c-35f9cae97bed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten-a-50f49c45-271c-498f-ac08-22175da800f2#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres-a-0a5e555c-42c3-4905-84aa-a71e741af673#ref=rss)
-* [https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg](https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg-a-98ae9e3d-db5a-4fa0-84d5-a5f52365c48e#ref=rss)
-### berlinern
+* [https://www.spiegel.de/panorama/gesellschaft/wiesbaden-blackfacing-karnevalsgesellschaft-bittet-um-entschuldigung](https://www.spiegel.de/panorama/gesellschaft/wiesbaden-blackfacing-karnevalsgesellschaft-bittet-um-entschuldigung-a-ff39e0b5-71be-4fc7-b617-b9fb8e2137e0#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/dialekte-in-den-schulen-schueler-sollen-in-baden-wuerttemberg-mehr-schwaetze](https://www.spiegel.de/panorama/bildung/dialekte-in-den-schulen-schueler-sollen-in-baden-wuerttemberg-mehr-schwaetze-a-d01e5f5f-656d-4925-86d0-51897d811bab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/madrid-hunderttausende-protestieren-in-spanien-gegen-gesundheitsreform](https://www.spiegel.de/wirtschaft/soziales/madrid-hunderttausende-protestieren-in-spanien-gegen-gesundheitsreform-a-dbbb1e4b-dabd-48d3-ae61-015187a380c6#ref=rss)
+### cdu
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres-a-0a5e555c-42c3-4905-84aa-a71e741af673#ref=rss)
-* [https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte](https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte-a-3cbf3c0a-dd66-4a69-950c-e74944fbf3a7#ref=rss)
-### gelungen
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-kai-wegner-kuendigt-baldige-sondierungsgespraeche-an](https://www.spiegel.de/politik/deutschland/berlin-wahl-kai-wegner-kuendigt-baldige-sondierungsgespraeche-an-a-710a7f05-96ec-4d65-80f4-99760b74d67b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich](https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich-a-1c660696-fe54-4b5d-b57d-03cf7de326e2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-cdu-kritisiert-kulturell-vermittelte-toxische-maennlichkeit](https://www.spiegel.de/politik/deutschland/jens-spahn-cdu-kritisiert-kulturell-vermittelte-toxische-maennlichkeit-a-f15ea5b4-b2ba-4248-b7f6-467fc54873a3#ref=rss)
+### bürger
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres-a-0a5e555c-42c3-4905-84aa-a71e741af673#ref=rss)
-* [https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte](https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte-a-3cbf3c0a-dd66-4a69-950c-e74944fbf3a7#ref=rss)
-### verlassen
+* [https://www.spiegel.de/wirtschaft/soziales/madrid-hunderttausende-protestieren-in-spanien-gegen-gesundheitsreform](https://www.spiegel.de/wirtschaft/soziales/madrid-hunderttausende-protestieren-in-spanien-gegen-gesundheitsreform-a-dbbb1e4b-dabd-48d3-ae61-015187a380c6#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-usa-fordern-buerger-zur-sofortigen-ausreise-aus-russland-auf](https://www.spiegel.de/ausland/ukraine-russland-news-heute-usa-fordern-buerger-zur-sofortigen-ausreise-aus-russland-auf-a-8438bd7a-82c3-45e7-a8cd-64da31bcba2e#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres](https://www.spiegel.de/sport/fussball/fussball-bundesliga-hertha-gelingt-der-erste-sieg-des-jahres-a-0a5e555c-42c3-4905-84aa-a71e741af673#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutschland-bis-2030-fehlen-87-000-busfahrer-verband-warnt](https://www.spiegel.de/wirtschaft/deutschland-bis-2030-fehlen-87-000-busfahrer-verband-warnt-a-0c5f7d44-773c-404f-873f-65e83cd92368#ref=rss)
-### marco
+* [https://www.spiegel.de/wirtschaft/wirtschaftsprognose-der-kommission-eu-entgeht-offenbar-einer-rezession](https://www.spiegel.de/wirtschaft/wirtschaftsprognose-der-kommission-eu-entgeht-offenbar-einer-rezession-a-6a2c89a7-7373-46c4-bd74-e84717094e1e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten-a-50f49c45-271c-498f-ac08-22175da800f2#ref=rss)
+### giffey
 
-* [https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-marco-odermatt-faehrt-ueberlegen-zu-gold-in-der-abfahrt](https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-marco-odermatt-faehrt-ueberlegen-zu-gold-in-der-abfahrt-a-1353960e-b411-468b-b4f6-4d78518557bc#ref=rss)
-### odermatt
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd-a-538b8f74-6709-4730-81fd-ea99e230f2d3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau-a-b570502f-8931-4bfe-9b4f-80cb9cc94ef2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich](https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich-a-1c660696-fe54-4b5d-b57d-03cf7de326e2#ref=rss)
+### 2023
 
-* [https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-marco-odermatt-faehrt-ueberlegen-zu-gold-in-der-abfahrt](https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-marco-odermatt-faehrt-ueberlegen-zu-gold-in-der-abfahrt-a-1353960e-b411-468b-b4f6-4d78518557bc#ref=rss)
-### fährt
+* [https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles-a-1a3ee836-6bcc-439b-81a2-d3f58cc0a3b6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau-a-b570502f-8931-4bfe-9b4f-80cb9cc94ef2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner](https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner-a-61194d91-ade8-4c65-a22b-64588656648f#ref=rss)
+### protestieren
 
-* [https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-marco-odermatt-faehrt-ueberlegen-zu-gold-in-der-abfahrt](https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-marco-odermatt-faehrt-ueberlegen-zu-gold-in-der-abfahrt-a-1353960e-b411-468b-b4f6-4d78518557bc#ref=rss)
-### gold
+* [https://www.spiegel.de/wirtschaft/soziales/madrid-hunderttausende-protestieren-in-spanien-gegen-gesundheitsreform](https://www.spiegel.de/wirtschaft/soziales/madrid-hunderttausende-protestieren-in-spanien-gegen-gesundheitsreform-a-dbbb1e4b-dabd-48d3-ae61-015187a380c6#ref=rss)
+* [https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal](https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal-a-25aa1928-29cb-4ba3-b42c-4d4b4880dea9#ref=rss)
+* [https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-verfassungsrechtlichem-zusammenbruch-und-gewalt](https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-verfassungsrechtlichem-zusammenbruch-und-gewalt-a-f3a7bc03-f48c-4fab-af79-937135de05b2#ref=rss)
+### charitonin
 
-* [https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-marco-odermatt-faehrt-ueberlegen-zu-gold-in-der-abfahrt](https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-marco-odermatt-faehrt-ueberlegen-zu-gold-in-der-abfahrt-a-1353960e-b411-468b-b4f6-4d78518557bc#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe-a-1e4a27dc-494b-41af-9c79-ebfd4d3d7285#ref=rss)
-### starke
+* [https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen-a-3b9f32fe-d817-4352-ac1f-56c3bc22f053#ref=rss)
+### landeswahlleiter
 
-* [https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-marco-odermatt-faehrt-ueberlegen-zu-gold-in-der-abfahrt](https://www.spiegel.de/sport/wintersport/alpine-ski-wm-2023-marco-odermatt-faehrt-ueberlegen-zu-gold-in-der-abfahrt-a-1353960e-b411-468b-b4f6-4d78518557bc#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern-a-fae58f53-7b8f-44e5-a6f6-cc4f947be6c0#ref=rss)
-### versäumnisse
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-knapper-spd-vorsprung-landeswahlleiter-prueft-neuauszaehlung](https://www.spiegel.de/politik/deutschland/berlin-wahl-knapper-spd-vorsprung-landeswahlleiter-prueft-neuauszaehlung-a-5ddda45a-acac-48d5-adc0-2c08496648cb#ref=rss)
+### neuauszählung
 
-* [https://www.spiegel.de/ausland/jahrhundertbeben-in-tuerkei-und-syrien-uno-raeumt-versaeumnisse-ein](https://www.spiegel.de/ausland/jahrhundertbeben-in-tuerkei-und-syrien-uno-raeumt-versaeumnisse-ein-a-3f3b5d42-af91-4791-b23d-57c57f05495c#ref=rss)
-### graham
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-knapper-spd-vorsprung-landeswahlleiter-prueft-neuauszaehlung](https://www.spiegel.de/politik/deutschland/berlin-wahl-knapper-spd-vorsprung-landeswahlleiter-prueft-neuauszaehlung-a-5ddda45a-acac-48d5-adc0-2c08496648cb#ref=rss)
+### stimmen
 
-* [https://www.spiegel.de/partnerschaft/grossbritannien-wie-graham-mansfield-seine-kranke-frau-toetete-und-fast-auch-sich-selbst](https://www.spiegel.de/partnerschaft/grossbritannien-wie-graham-mansfield-seine-kranke-frau-toetete-und-fast-auch-sich-selbst-a-e80848d9-659b-44d2-a066-bd2830a27996#ref=rss)
-### mansfield
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-knapper-spd-vorsprung-landeswahlleiter-prueft-neuauszaehlung](https://www.spiegel.de/politik/deutschland/berlin-wahl-knapper-spd-vorsprung-landeswahlleiter-prueft-neuauszaehlung-a-5ddda45a-acac-48d5-adc0-2c08496648cb#ref=rss)
+* [https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal](https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal-a-25aa1928-29cb-4ba3-b42c-4d4b4880dea9#ref=rss)
+### gut
 
-* [https://www.spiegel.de/partnerschaft/grossbritannien-wie-graham-mansfield-seine-kranke-frau-toetete-und-fast-auch-sich-selbst](https://www.spiegel.de/partnerschaft/grossbritannien-wie-graham-mansfield-seine-kranke-frau-toetete-und-fast-auch-sich-selbst-a-e80848d9-659b-44d2-a066-bd2830a27996#ref=rss)
-### galeria
+* [https://www.spiegel.de/netzwelt/gadgets/gross-salitz-unbekannte-stehlen-computer-im-wert-von-135-000-euro-aus-traktoren](https://www.spiegel.de/netzwelt/gadgets/gross-salitz-unbekannte-stehlen-computer-im-wert-von-135-000-euro-aus-traktoren-a-623fb0e4-0630-4881-8147-a18ba540fd1a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/wirtschaftsprognose-der-kommission-eu-entgeht-offenbar-einer-rezession](https://www.spiegel.de/wirtschaft/wirtschaftsprognose-der-kommission-eu-entgeht-offenbar-einer-rezession-a-6a2c89a7-7373-46c4-bd74-e84717094e1e#ref=rss)
+### cdupräsidium
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/abschied-vom-mythos-kaufhaus](https://www.spiegel.de/wirtschaft/unternehmen/abschied-vom-mythos-kaufhaus-a-8a6ff9ae-21cb-4c03-adb4-950d9e547139#ref=rss)
-### karstadt
+* [https://www.spiegel.de/politik/deutschland/cdu-praesidium-bekraeftigt-parteiausschlussverfahren-gegen-hans-georg-maassen](https://www.spiegel.de/politik/deutschland/cdu-praesidium-bekraeftigt-parteiausschlussverfahren-gegen-hans-georg-maassen-a-8e543d83-b5f0-4a6b-940a-cc8e468d3354#ref=rss)
+### parteiausschlussverfahren
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/abschied-vom-mythos-kaufhaus](https://www.spiegel.de/wirtschaft/unternehmen/abschied-vom-mythos-kaufhaus-a-8a6ff9ae-21cb-4c03-adb4-950d9e547139#ref=rss)
-### kaufhof
+* [https://www.spiegel.de/politik/deutschland/cdu-praesidium-bekraeftigt-parteiausschlussverfahren-gegen-hans-georg-maassen](https://www.spiegel.de/politik/deutschland/cdu-praesidium-bekraeftigt-parteiausschlussverfahren-gegen-hans-georg-maassen-a-8e543d83-b5f0-4a6b-940a-cc8e468d3354#ref=rss)
+### hansgeorg
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/abschied-vom-mythos-kaufhaus](https://www.spiegel.de/wirtschaft/unternehmen/abschied-vom-mythos-kaufhaus-a-8a6ff9ae-21cb-4c03-adb4-950d9e547139#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-praesidium-bekraeftigt-parteiausschlussverfahren-gegen-hans-georg-maassen](https://www.spiegel.de/politik/deutschland/cdu-praesidium-bekraeftigt-parteiausschlussverfahren-gegen-hans-georg-maassen-a-8e543d83-b5f0-4a6b-940a-cc8e468d3354#ref=rss)
+### folgen
+
+* [https://www.spiegel.de/politik/deutschland/cdu-praesidium-bekraeftigt-parteiausschlussverfahren-gegen-hans-georg-maassen](https://www.spiegel.de/politik/deutschland/cdu-praesidium-bekraeftigt-parteiausschlussverfahren-gegen-hans-georg-maassen-a-8e543d83-b5f0-4a6b-940a-cc8e468d3354#ref=rss)
+* [https://www.spiegel.de/ausland/china-beschuldigt-usa-ebenfalls-der-spionagefluege-mit-ballons](https://www.spiegel.de/ausland/china-beschuldigt-usa-ebenfalls-der-spionagefluege-mit-ballons-a-e0cb4020-1859-4845-83d1-87ed52ffd2e5#ref=rss)
+### kommission
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftsprognose-der-kommission-eu-entgeht-offenbar-einer-rezession](https://www.spiegel.de/wirtschaft/wirtschaftsprognose-der-kommission-eu-entgeht-offenbar-einer-rezession-a-6a2c89a7-7373-46c4-bd74-e84717094e1e#ref=rss)
+### rezession
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftsprognose-der-kommission-eu-entgeht-offenbar-einer-rezession](https://www.spiegel.de/wirtschaft/wirtschaftsprognose-der-kommission-eu-entgeht-offenbar-einer-rezession-a-6a2c89a7-7373-46c4-bd74-e84717094e1e#ref=rss)
+### energiekrise
+
+* [https://www.spiegel.de/wirtschaft/wirtschaftsprognose-der-kommission-eu-entgeht-offenbar-einer-rezession](https://www.spiegel.de/wirtschaft/wirtschaftsprognose-der-kommission-eu-entgeht-offenbar-einer-rezession-a-6a2c89a7-7373-46c4-bd74-e84717094e1e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/energie-krise-befeuert-pub-sterben](https://www.spiegel.de/wirtschaft/soziales/energie-krise-befeuert-pub-sterben-a-6a75f19f-6f4e-4d6d-903c-35f9cae97bed#ref=rss)
+### rechnen
+
+* [https://www.spiegel.de/wirtschaft/konjunktur-experten-rechnen-mit-deutlichem-wachstum-der-weltwirtschaft](https://www.spiegel.de/wirtschaft/konjunktur-experten-rechnen-mit-deutlichem-wachstum-der-weltwirtschaft-a-44a76c54-7d14-4207-b55e-7a82d6133426#ref=rss)
+### deutlichem
+
+* [https://www.spiegel.de/wirtschaft/konjunktur-experten-rechnen-mit-deutlichem-wachstum-der-weltwirtschaft](https://www.spiegel.de/wirtschaft/konjunktur-experten-rechnen-mit-deutlichem-wachstum-der-weltwirtschaft-a-44a76c54-7d14-4207-b55e-7a82d6133426#ref=rss)
+### wachstum
+
+* [https://www.spiegel.de/wirtschaft/konjunktur-experten-rechnen-mit-deutlichem-wachstum-der-weltwirtschaft](https://www.spiegel.de/wirtschaft/konjunktur-experten-rechnen-mit-deutlichem-wachstum-der-weltwirtschaft-a-44a76c54-7d14-4207-b55e-7a82d6133426#ref=rss)
+### weltwirtschaft
+
+* [https://www.spiegel.de/wirtschaft/konjunktur-experten-rechnen-mit-deutlichem-wachstum-der-weltwirtschaft](https://www.spiegel.de/wirtschaft/konjunktur-experten-rechnen-mit-deutlichem-wachstum-der-weltwirtschaft-a-44a76c54-7d14-4207-b55e-7a82d6133426#ref=rss)
+### besser
+
+* [https://www.spiegel.de/wirtschaft/konjunktur-experten-rechnen-mit-deutlichem-wachstum-der-weltwirtschaft](https://www.spiegel.de/wirtschaft/konjunktur-experten-rechnen-mit-deutlichem-wachstum-der-weltwirtschaft-a-44a76c54-7d14-4207-b55e-7a82d6133426#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner](https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner-a-61194d91-ade8-4c65-a22b-64588656648f#ref=rss)
+### ebenfalls
+
+* [https://www.spiegel.de/ausland/china-beschuldigt-usa-ebenfalls-der-spionagefluege-mit-ballons](https://www.spiegel.de/ausland/china-beschuldigt-usa-ebenfalls-der-spionagefluege-mit-ballons-a-e0cb4020-1859-4845-83d1-87ed52ffd2e5#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich](https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich-a-1c660696-fe54-4b5d-b57d-03cf7de326e2#ref=rss)
+### mutmaßlicher
+
+* [https://www.spiegel.de/ausland/china-beschuldigt-usa-ebenfalls-der-spionagefluege-mit-ballons](https://www.spiegel.de/ausland/china-beschuldigt-usa-ebenfalls-der-spionagefluege-mit-ballons-a-e0cb4020-1859-4845-83d1-87ed52ffd2e5#ref=rss)
+* [https://www.spiegel.de/ausland/chinesische-militaerballons-fliegen-haeufig-auch-ueber-taiwan](https://www.spiegel.de/ausland/chinesische-militaerballons-fliegen-haeufig-auch-ueber-taiwan-a-0f9cf665-eb3d-4d48-8902-0d2fcb3f0aeb#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/china-schiff-soll-laut-philippinischer-kuestenwache-mit-laser-auf-boot-gezielt-haben](https://www.spiegel.de/ausland/china-schiff-soll-laut-philippinischer-kuestenwache-mit-laser-auf-boot-gezielt-haben-a-350ed590-0186-4c80-beab-f774c5e52f99#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/energie-krise-befeuert-pub-sterben](https://www.spiegel.de/wirtschaft/soziales/energie-krise-befeuert-pub-sterben-a-6a75f19f-6f4e-4d6d-903c-35f9cae97bed#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/ausland/chinesische-militaerballons-fliegen-haeufig-auch-ueber-taiwan](https://www.spiegel.de/ausland/chinesische-militaerballons-fliegen-haeufig-auch-ueber-taiwan-a-0f9cf665-eb3d-4d48-8902-0d2fcb3f0aeb#ref=rss)
+### franziska
+
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd-a-538b8f74-6709-4730-81fd-ea99e230f2d3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau-a-b570502f-8931-4bfe-9b4f-80cb9cc94ef2#ref=rss)
+### unter
+
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-giffey-vize-fordert-neuanfang-in-der-spd-a-538b8f74-6709-4730-81fd-ea99e230f2d3#ref=rss)
+* [https://www.spiegel.de/ausland/erdbeben-in-der-tuerkei-frau-nach-170-stunden-unter-truemmern-gerettet](https://www.spiegel.de/ausland/erdbeben-in-der-tuerkei-frau-nach-170-stunden-unter-truemmern-gerettet-a-4a2847f0-bc92-4e81-be44-6724f7ecdf04#ref=rss)
+### super
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles-a-1a3ee836-6bcc-439b-81a2-d3f58cc0a3b6#ref=rss)
+### bowl
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles-a-1a3ee836-6bcc-439b-81a2-d3f58cc0a3b6#ref=rss)
+### jalen
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles-a-1a3ee836-6bcc-439b-81a2-d3f58cc0a3b6#ref=rss)
+### hurts
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles-a-1a3ee836-6bcc-439b-81a2-d3f58cc0a3b6#ref=rss)
+### niederlage
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles-a-1a3ee836-6bcc-439b-81a2-d3f58cc0a3b6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten-a-50f49c45-271c-498f-ac08-22175da800f2#ref=rss)
+### philadelphia
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles-a-1a3ee836-6bcc-439b-81a2-d3f58cc0a3b6#ref=rss)
+### eagles
+
+* [https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles-a-1a3ee836-6bcc-439b-81a2-d3f58cc0a3b6#ref=rss)
 ### ende
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/abschied-vom-mythos-kaufhaus](https://www.spiegel.de/wirtschaft/unternehmen/abschied-vom-mythos-kaufhaus-a-8a6ff9ae-21cb-4c03-adb4-950d9e547139#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern-a-fae58f53-7b8f-44e5-a6f6-cc4f947be6c0#ref=rss)
-### angeberwissen
+* [https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles](https://www.spiegel.de/sport/american-football/super-bowl-2023-jalen-hurts-ueberragt-und-leidet-nach-der-niederlage-der-philadelphia-eagles-a-1a3ee836-6bcc-439b-81a2-d3f58cc0a3b6#ref=rss)
+* [https://www.spiegel.de/kultur/musik/de-la-soul-rapper-trugoy-the-dove-ist-tot](https://www.spiegel.de/kultur/musik/de-la-soul-rapper-trugoy-the-dove-ist-tot-a-d636b7b9-727c-4824-a770-27eec293473c#ref=rss)
+### entschuldigung
 
-* [https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung](https://www.spiegel.de/sport/american-football/super-bowl-nfl-mit-diesem-angeberwissen-glaenzen-sie-auch-ohne-ahnung-a-a6334cb8-42bf-4f18-a569-d466c2b93be6#ref=rss)
-### geschichten
+* [https://www.spiegel.de/panorama/gesellschaft/wiesbaden-blackfacing-karnevalsgesellschaft-bittet-um-entschuldigung](https://www.spiegel.de/panorama/gesellschaft/wiesbaden-blackfacing-karnevalsgesellschaft-bittet-um-entschuldigung-a-ff39e0b5-71be-4fc7-b617-b9fb8e2137e0#ref=rss)
+### kam
 
-* [https://www.spiegel.de/sport/american-football/super-bowl-lvii-zehn-legendaere-geschichten-tom-bradys-aufholjagd-und-ein-fang-mit-dem-helm](https://www.spiegel.de/sport/american-football/super-bowl-lvii-zehn-legendaere-geschichten-tom-bradys-aufholjagd-und-ein-fang-mit-dem-helm-a-e7c021fd-4530-4338-b3bd-254d8a5d335b#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht](https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht-a-1290c144-a45b-4a1c-aa82-64128f6fcc62#ref=rss)
-### jahr
+* [https://www.spiegel.de/panorama/gesellschaft/wiesbaden-blackfacing-karnevalsgesellschaft-bittet-um-entschuldigung](https://www.spiegel.de/panorama/gesellschaft/wiesbaden-blackfacing-karnevalsgesellschaft-bittet-um-entschuldigung-a-ff39e0b5-71be-4fc7-b617-b9fb8e2137e0#ref=rss)
+* [https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal](https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal-a-25aa1928-29cb-4ba3-b42c-4d4b4880dea9#ref=rss)
+### auftreten
 
-* [https://www.spiegel.de/ausland/ein-jahr-ukraine-krieg-plant-wladimir-putin-einen-erneuten-sturm-auf-kiew](https://www.spiegel.de/ausland/ein-jahr-ukraine-krieg-plant-wladimir-putin-einen-erneuten-sturm-auf-kiew-a-92600bce-42be-4fff-97aa-8d6833869bd7#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht](https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht-a-1290c144-a45b-4a1c-aa82-64128f6fcc62#ref=rss)
-### fpö
+* [https://www.spiegel.de/panorama/gesellschaft/wiesbaden-blackfacing-karnevalsgesellschaft-bittet-um-entschuldigung](https://www.spiegel.de/panorama/gesellschaft/wiesbaden-blackfacing-karnevalsgesellschaft-bittet-um-entschuldigung-a-ff39e0b5-71be-4fc7-b617-b9fb8e2137e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten-a-50f49c45-271c-498f-ac08-22175da800f2#ref=rss)
+### türkei
 
-* [https://www.spiegel.de/ausland/oesterreich-warum-die-fpoe-ein-comeback-feiert-podcast](https://www.spiegel.de/ausland/oesterreich-warum-die-fpoe-ein-comeback-feiert-podcast-a-3b9bcf5c-a569-4b57-b6d2-bda258f96d0e#ref=rss)
-### comeback
+* [https://www.spiegel.de/ausland/erdbeben-in-der-tuerkei-frau-nach-170-stunden-unter-truemmern-gerettet](https://www.spiegel.de/ausland/erdbeben-in-der-tuerkei-frau-nach-170-stunden-unter-truemmern-gerettet-a-4a2847f0-bc92-4e81-be44-6724f7ecdf04#ref=rss)
+### trümmern
 
-* [https://www.spiegel.de/ausland/oesterreich-warum-die-fpoe-ein-comeback-feiert-podcast](https://www.spiegel.de/ausland/oesterreich-warum-die-fpoe-ein-comeback-feiert-podcast-a-3b9bcf5c-a569-4b57-b6d2-bda258f96d0e#ref=rss)
-* [https://www.spiegel.de/ausland/donald-trump-im-exil-in-florida-wuetend-einsam-aber-nicht-erledigt](https://www.spiegel.de/ausland/donald-trump-im-exil-in-florida-wuetend-einsam-aber-nicht-erledigt-a-36fc2869-750b-4f7d-8ab8-d951e8234b00#ref=rss)
-### einmal
+* [https://www.spiegel.de/ausland/erdbeben-in-der-tuerkei-frau-nach-170-stunden-unter-truemmern-gerettet](https://www.spiegel.de/ausland/erdbeben-in-der-tuerkei-frau-nach-170-stunden-unter-truemmern-gerettet-a-4a2847f0-bc92-4e81-be44-6724f7ecdf04#ref=rss)
+### seltener
 
-* [https://www.spiegel.de/ausland/oesterreich-warum-die-fpoe-ein-comeback-feiert-podcast](https://www.spiegel.de/ausland/oesterreich-warum-die-fpoe-ein-comeback-feiert-podcast-a-3b9bcf5c-a569-4b57-b6d2-bda258f96d0e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht](https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht-a-1290c144-a45b-4a1c-aa82-64128f6fcc62#ref=rss)
-### vier
+* [https://www.spiegel.de/ausland/erdbeben-in-der-tuerkei-frau-nach-170-stunden-unter-truemmern-gerettet](https://www.spiegel.de/ausland/erdbeben-in-der-tuerkei-frau-nach-170-stunden-unter-truemmern-gerettet-a-4a2847f0-bc92-4e81-be44-6724f7ecdf04#ref=rss)
+* [https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal](https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal-a-25aa1928-29cb-4ba3-b42c-4d4b4880dea9#ref=rss)
+### vehement
 
-* [https://www.spiegel.de/ausland/oesterreich-warum-die-fpoe-ein-comeback-feiert-podcast](https://www.spiegel.de/ausland/oesterreich-warum-die-fpoe-ein-comeback-feiert-podcast-a-3b9bcf5c-a569-4b57-b6d2-bda258f96d0e#ref=rss)
-* [https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg](https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg-a-98ae9e3d-db5a-4fa0-84d5-a5f52365c48e#ref=rss)
-### tal
+* [https://www.spiegel.de/panorama/bildung/dialekte-in-den-schulen-schueler-sollen-in-baden-wuerttemberg-mehr-schwaetze](https://www.spiegel.de/panorama/bildung/dialekte-in-den-schulen-schueler-sollen-in-baden-wuerttemberg-mehr-schwaetze-a-d01e5f5f-656d-4925-86d0-51897d811bab#ref=rss)
+* [https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal](https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal-a-25aa1928-29cb-4ba3-b42c-4d4b4880dea9#ref=rss)
+### vergangenen
 
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-unten-im-tal-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-dem-schwarzwald-unten-im-tal-im-schnellcheck-a-b8fcd5ce-1274-44be-8876-32d485701908#ref=rss)
-### darmstadt
+* [https://www.spiegel.de/wirtschaft/soziales/energie-krise-befeuert-pub-sterben](https://www.spiegel.de/wirtschaft/soziales/energie-krise-befeuert-pub-sterben-a-6a75f19f-6f4e-4d6d-903c-35f9cae97bed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner](https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner-a-61194d91-ade8-4c65-a22b-64588656648f#ref=rss)
+### de
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern-a-fae58f53-7b8f-44e5-a6f6-cc4f947be6c0#ref=rss)
-### st
+* [https://www.spiegel.de/kultur/musik/de-la-soul-rapper-trugoy-the-dove-ist-tot](https://www.spiegel.de/kultur/musik/de-la-soul-rapper-trugoy-the-dove-ist-tot-a-d636b7b9-727c-4824-a770-27eec293473c#ref=rss)
+### la
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern-a-fae58f53-7b8f-44e5-a6f6-cc4f947be6c0#ref=rss)
-### pauli
+* [https://www.spiegel.de/kultur/musik/de-la-soul-rapper-trugoy-the-dove-ist-tot](https://www.spiegel.de/kultur/musik/de-la-soul-rapper-trugoy-the-dove-ist-tot-a-d636b7b9-727c-4824-a770-27eec293473c#ref=rss)
+### soul
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern-a-fae58f53-7b8f-44e5-a6f6-cc4f947be6c0#ref=rss)
-### schlägt
+* [https://www.spiegel.de/kultur/musik/de-la-soul-rapper-trugoy-the-dove-ist-tot](https://www.spiegel.de/kultur/musik/de-la-soul-rapper-trugoy-the-dove-ist-tot-a-d636b7b9-727c-4824-a770-27eec293473c#ref=rss)
+### trugoy
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern-a-fae58f53-7b8f-44e5-a6f6-cc4f947be6c0#ref=rss)
-* [https://www.spiegel.de/panorama/schulen-iqb-bildungstrend-arbeitgeber-legen-plan-fuer-bessere-schulqualitaet-vor](https://www.spiegel.de/panorama/schulen-iqb-bildungstrend-arbeitgeber-legen-plan-fuer-bessere-schulqualitaet-vor-a-85fe5390-16b4-41f1-ab5a-4bf03102c0b9#ref=rss)
-### kaiserslautern
+* [https://www.spiegel.de/kultur/musik/de-la-soul-rapper-trugoy-the-dove-ist-tot](https://www.spiegel.de/kultur/musik/de-la-soul-rapper-trugoy-the-dove-ist-tot-a-d636b7b9-727c-4824-a770-27eec293473c#ref=rss)
+### deutsch
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern-a-fae58f53-7b8f-44e5-a6f6-cc4f947be6c0#ref=rss)
-### zurück
+* [https://www.spiegel.de/karriere/karriere-tipps-sollte-ich-das-gebrochene-deutsch-meines-kollegen-verbessern](https://www.spiegel.de/karriere/karriere-tipps-sollte-ich-das-gebrochene-deutsch-meines-kollegen-verbessern-a-75ce3d05-b24a-4b09-8c47-b24e47873044#ref=rss)
+### nichts
 
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-darmstadt-baut-tabellenfuehrung-aus-fc-st-pauli-schlaegt-kaiserslautern-a-fae58f53-7b8f-44e5-a6f6-cc4f947be6c0#ref=rss)
-* [https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg](https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg-a-98ae9e3d-db5a-4fa0-84d5-a5f52365c48e#ref=rss)
-### biathlonwm
+* [https://www.spiegel.de/karriere/karriere-tipps-sollte-ich-das-gebrochene-deutsch-meines-kollegen-verbessern](https://www.spiegel.de/karriere/karriere-tipps-sollte-ich-das-gebrochene-deutsch-meines-kollegen-verbessern-a-75ce3d05-b24a-4b09-8c47-b24e47873044#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen-a-3b9f32fe-d817-4352-ac1f-56c3bc22f053#ref=rss)
+### sagen
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe-a-1e4a27dc-494b-41af-9c79-ebfd4d3d7285#ref=rss)
-### johannes
+* [https://www.spiegel.de/karriere/karriere-tipps-sollte-ich-das-gebrochene-deutsch-meines-kollegen-verbessern](https://www.spiegel.de/karriere/karriere-tipps-sollte-ich-das-gebrochene-deutsch-meines-kollegen-verbessern-a-75ce3d05-b24a-4b09-8c47-b24e47873044#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen-a-3b9f32fe-d817-4352-ac1f-56c3bc22f053#ref=rss)
+### presseschau
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe-a-1e4a27dc-494b-41af-9c79-ebfd4d3d7285#ref=rss)
-### benedikt
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau-a-b570502f-8931-4bfe-9b4f-80cb9cc94ef2#ref=rss)
+### koalition
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe-a-1e4a27dc-494b-41af-9c79-ebfd4d3d7285#ref=rss)
-### doll
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau-a-b570502f-8931-4bfe-9b4f-80cb9cc94ef2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich](https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich-a-1c660696-fe54-4b5d-b57d-03cf7de326e2#ref=rss)
+### viele
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe-a-1e4a27dc-494b-41af-9c79-ebfd4d3d7285#ref=rss)
-### platz
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau](https://www.spiegel.de/politik/deutschland/berlin-wahl-2023-weiterwursteln-wie-bisher-presseschau-a-b570502f-8931-4bfe-9b4f-80cb9cc94ef2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/madrid-hunderttausende-protestieren-in-spanien-gegen-gesundheitsreform](https://www.spiegel.de/wirtschaft/soziales/madrid-hunderttausende-protestieren-in-spanien-gegen-gesundheitsreform-a-dbbb1e4b-dabd-48d3-ae61-015187a380c6#ref=rss)
+### russland
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-dritter-start-drittes-gold-fuer-johannes-boe-a-1e4a27dc-494b-41af-9c79-ebfd4d3d7285#ref=rss)
-* [https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg](https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg-a-98ae9e3d-db5a-4fa0-84d5-a5f52365c48e#ref=rss)
-### ocean
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-usa-fordern-buerger-zur-sofortigen-ausreise-aus-russland-auf](https://www.spiegel.de/ausland/ukraine-russland-news-heute-usa-fordern-buerger-zur-sofortigen-ausreise-aus-russland-auf-a-8438bd7a-82c3-45e7-a8cd-64da31bcba2e#ref=rss)
+* [https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal](https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal-a-25aa1928-29cb-4ba3-b42c-4d4b4880dea9#ref=rss)
+### moskau
 
-* [https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg](https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg-a-98ae9e3d-db5a-4fa0-84d5-a5f52365c48e#ref=rss)
-### race
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-usa-fordern-buerger-zur-sofortigen-ausreise-aus-russland-auf](https://www.spiegel.de/ausland/ukraine-russland-news-heute-usa-fordern-buerger-zur-sofortigen-ausreise-aus-russland-auf-a-8438bd7a-82c3-45e7-a8cd-64da31bcba2e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen-a-3b9f32fe-d817-4352-ac1f-56c3bc22f053#ref=rss)
+### ampel
 
-* [https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg](https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg-a-98ae9e3d-db5a-4fa0-84d5-a5f52365c48e#ref=rss)
-### boris
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten-a-50f49c45-271c-498f-ac08-22175da800f2#ref=rss)
+### debatte
 
-* [https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg](https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg-a-98ae9e3d-db5a-4fa0-84d5-a5f52365c48e#ref=rss)
-### herrmanns
+* [https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten](https://www.spiegel.de/politik/deutschland/wahl-in-berlin-fdp-will-nach-niederlage-haerter-in-der-ampel-auftreten-a-50f49c45-271c-498f-ac08-22175da800f2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner](https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner-a-61194d91-ade8-4c65-a22b-64588656648f#ref=rss)
+### afd
 
-* [https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg](https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg-a-98ae9e3d-db5a-4fa0-84d5-a5f52365c48e#ref=rss)
-### team
+* [https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner](https://www.spiegel.de/politik/deutschland/afd-bei-der-berlin-wahl-2023-die-moechtegern-gewinner-a-61194d91-ade8-4c65-a22b-64588656648f#ref=rss)
+### sergej
 
-* [https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg](https://www.spiegel.de/sport/segeln-ocean-race-falscher-kurs-bringt-boris-herrmanns-team-um-den-sieg-a-98ae9e3d-db5a-4fa0-84d5-a5f52365c48e#ref=rss)
-### schulen
+* [https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal](https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal-a-25aa1928-29cb-4ba3-b42c-4d4b4880dea9#ref=rss)
+### furgal
 
-* [https://www.spiegel.de/panorama/schulen-iqb-bildungstrend-arbeitgeber-legen-plan-fuer-bessere-schulqualitaet-vor](https://www.spiegel.de/panorama/schulen-iqb-bildungstrend-arbeitgeber-legen-plan-fuer-bessere-schulqualitaet-vor-a-85fe5390-16b4-41f1-ab5a-4bf03102c0b9#ref=rss)
-### zehnpunkteplan
+* [https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal](https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal-a-25aa1928-29cb-4ba3-b42c-4d4b4880dea9#ref=rss)
+### protest
 
-* [https://www.spiegel.de/panorama/schulen-iqb-bildungstrend-arbeitgeber-legen-plan-fuer-bessere-schulqualitaet-vor](https://www.spiegel.de/panorama/schulen-iqb-bildungstrend-arbeitgeber-legen-plan-fuer-bessere-schulqualitaet-vor-a-85fe5390-16b4-41f1-ab5a-4bf03102c0b9#ref=rss)
-### berichten
+* [https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal](https://www.spiegel.de/ausland/russland-chabarowsk-einwohner-protestieren-gegen-verurteilung-von-ex-gouverneur-sergej-furgal-a-25aa1928-29cb-4ba3-b42c-4d4b4880dea9#ref=rss)
+### mars
 
-* [https://www.spiegel.de/panorama/gesellschaft/wahlen-in-berlin-ich-kann-melden-bislang-keine-wahlzettelknappheit-in-wahllokal-818](https://www.spiegel.de/panorama/gesellschaft/wahlen-in-berlin-ich-kann-melden-bislang-keine-wahlzettelknappheit-in-wahllokal-818-a-a0fd79d4-12c1-4e1d-8eda-cf850e8cdff9#ref=rss)
-### donald
+* [https://www.spiegel.de/wirtschaft/pennsylvania-unfall-in-m-und-m-fabrik-mitarbeiter-fallen-in-schokotank-mars-soll-strafe-zahlen](https://www.spiegel.de/wirtschaft/pennsylvania-unfall-in-m-und-m-fabrik-mitarbeiter-fallen-in-schokotank-mars-soll-strafe-zahlen-a-a365a781-6668-4cd7-9217-808d0230ad9e#ref=rss)
+### anwerbung
 
-* [https://www.spiegel.de/ausland/donald-trump-im-exil-in-florida-wuetend-einsam-aber-nicht-erledigt](https://www.spiegel.de/ausland/donald-trump-im-exil-in-florida-wuetend-einsam-aber-nicht-erledigt-a-36fc2869-750b-4f7d-8ab8-d951e8234b00#ref=rss)
-### trump
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-scheitert-mit-anwerbung-von-pflegekraeften-im-ausland](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-scheitert-mit-anwerbung-von-pflegekraeften-im-ausland-a-82aaa96f-bba7-4e35-addf-aa6b416be74e#ref=rss)
+### ausland
 
-* [https://www.spiegel.de/ausland/donald-trump-im-exil-in-florida-wuetend-einsam-aber-nicht-erledigt](https://www.spiegel.de/ausland/donald-trump-im-exil-in-florida-wuetend-einsam-aber-nicht-erledigt-a-36fc2869-750b-4f7d-8ab8-d951e8234b00#ref=rss)
-### ukrainerinnen
+* [https://www.spiegel.de/wirtschaft/soziales/bundesagentur-scheitert-mit-anwerbung-von-pflegekraeften-im-ausland](https://www.spiegel.de/wirtschaft/soziales/bundesagentur-scheitert-mit-anwerbung-von-pflegekraeften-im-ausland-a-82aaa96f-bba7-4e35-addf-aa6b416be74e#ref=rss)
+### bettina
 
-* [https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht](https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht-a-1290c144-a45b-4a1c-aa82-64128f6fcc62#ref=rss)
-### flucht
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich](https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich-a-1c660696-fe54-4b5d-b57d-03cf7de326e2#ref=rss)
+### jarasch
 
-* [https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht](https://www.spiegel.de/panorama/gesellschaft/ukrainerinnen-in-deutschland-das-leben-nach-der-flucht-a-1290c144-a45b-4a1c-aa82-64128f6fcc62#ref=rss)
-### 2030
+* [https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich](https://www.spiegel.de/politik/deutschland/berlin-wahl-bettina-jarasch-haelt-schwarz-gruene-koalition-nur-bei-grossen-zugestaendnissen-der-cdu-fuer-moeglich-a-1c660696-fe54-4b5d-b57d-03cf7de326e2#ref=rss)
+### jens
 
-* [https://www.spiegel.de/wirtschaft/deutschland-bis-2030-fehlen-87-000-busfahrer-verband-warnt](https://www.spiegel.de/wirtschaft/deutschland-bis-2030-fehlen-87-000-busfahrer-verband-warnt-a-0c5f7d44-773c-404f-873f-65e83cd92368#ref=rss)
-### hugo
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-cdu-kritisiert-kulturell-vermittelte-toxische-maennlichkeit](https://www.spiegel.de/politik/deutschland/jens-spahn-cdu-kritisiert-kulturell-vermittelte-toxische-maennlichkeit-a-f15ea5b4-b2ba-4248-b7f6-467fc54873a3#ref=rss)
+### spahn
 
-* [https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte](https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte-a-3cbf3c0a-dd66-4a69-950c-e74944fbf3a7#ref=rss)
-### heimann
+* [https://www.spiegel.de/politik/deutschland/jens-spahn-cdu-kritisiert-kulturell-vermittelte-toxische-maennlichkeit](https://www.spiegel.de/politik/deutschland/jens-spahn-cdu-kritisiert-kulturell-vermittelte-toxische-maennlichkeit-a-f15ea5b4-b2ba-4248-b7f6-467fc54873a3#ref=rss)
+### herzog
 
-* [https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte](https://www.spiegel.de/geschichte/berlin-wahl-zum-abgeordnetenhaus-wie-hugo-heimann-den-berlinern-mehr-demokratie-beibrachte-a-3cbf3c0a-dd66-4a69-950c-e74944fbf3a7#ref=rss)
+* [https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-verfassungsrechtlichem-zusammenbruch-und-gewalt](https://www.spiegel.de/ausland/israel-praesident-yitzhak-herzog-warnt-vor-verfassungsrechtlichem-zusammenbruch-und-gewalt-a-f3a7bc03-f48c-4fab-af79-937135de05b2#ref=rss)
+### flughafen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen-a-3b9f32fe-d817-4352-ac1f-56c3bc22f053#ref=rss)
+### frankfurthahn
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen-a-3b9f32fe-d817-4352-ac1f-56c3bc22f053#ref=rss)
+### milliardär
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen-a-3b9f32fe-d817-4352-ac1f-56c3bc22f053#ref=rss)
+### wiktor
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen-a-3b9f32fe-d817-4352-ac1f-56c3bc22f053#ref=rss)
+### 25
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen-a-3b9f32fe-d817-4352-ac1f-56c3bc22f053#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen](https://www.spiegel.de/wirtschaft/unternehmen/airport-frankfurt-hahn-russischer-milliardaer-charitonin-soll-25-prozent-uebernehmen-a-3b9f32fe-d817-4352-ac1f-56c3bc22f053#ref=rss)
 
