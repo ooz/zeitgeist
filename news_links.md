@@ -4,303 +4,365 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### syrien
-
-* [https://www.spiegel.de/ausland/syrien-erster-eu-hilfskonvois-erreichen-grenze-nach-ueber-einer-woche](https://www.spiegel.de/ausland/syrien-erster-eu-hilfskonvois-erreichen-grenze-nach-ueber-einer-woche-a-ee77da9c-05eb-4a1f-8dea-8be642dd6d61#ref=rss)
-* [https://www.spiegel.de/panorama/tuerkei-und-syrien-katastrophenschutz-erwartet-starke-nachbeben-in-den-kommenden-tagen](https://www.spiegel.de/panorama/tuerkei-und-syrien-katastrophenschutz-erwartet-starke-nachbeben-in-den-kommenden-tagen-a-81f84fbf-1305-4d25-9152-20300a9c8bf3#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/russland-startet-marinemanoever-vor-suedafrika-zusammen-mit-china](https://www.spiegel.de/ausland/russland-startet-marinemanoever-vor-suedafrika-zusammen-mit-china-a-e9d4a5a4-2bae-480a-96fd-c4754e085ad8#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024](https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024-a-3b2b23bb-65cd-4fb7-a3f2-c0215af58ef2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine](https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine-a-32b275bb-2eb7-4d5f-a23d-999ab044688d#ref=rss)
-### münchner
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024](https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024-a-3b2b23bb-65cd-4fb7-a3f2-c0215af58ef2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer-a-21e58ec9-64a3-41c5-bb1a-9fea99506b56#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz-a-7567de60-edb1-4d43-882b-2c82cf5f1198#ref=rss)
 ### sicherheitskonferenz
 
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024](https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024-a-3b2b23bb-65cd-4fb7-a3f2-c0215af58ef2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer-a-21e58ec9-64a3-41c5-bb1a-9fea99506b56#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz-a-7567de60-edb1-4d43-882b-2c82cf5f1198#ref=rss)
-### spanien
+* [https://www.spiegel.de/politik/muenchener-sicherheitskonferenz-chinas-top-diplomat-kuendigt-friedensinitiative-fuer-ukraine-an](https://www.spiegel.de/politik/muenchener-sicherheitskonferenz-chinas-top-diplomat-kuendigt-friedensinitiative-fuer-ukraine-an-a-22f5126b-2d9c-414b-baaa-a3895c099980#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger](https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger-a-5def09ac-d2c9-48e2-9855-8d2e2546cce4#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/ukrainische-rekrutinnen-in-spanien-ich-hatte-noch-nie-eine-waffe-in-der-hand](https://www.spiegel.de/ausland/ukrainische-rekrutinnen-in-spanien-ich-hatte-noch-nie-eine-waffe-in-der-hand-a-7c82eb33-a8ec-477c-a981-afd91f2e4c03#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/italien-frankreich-spanien-in-vielen-regionen-europas-ist-es-noch-immer-zu-trocken](https://www.spiegel.de/wissenschaft/natur/italien-frankreich-spanien-in-vielen-regionen-europas-ist-es-noch-immer-zu-trocken-a-14be587e-72cf-426b-8dc6-2dc1df14be23#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-menstruationsurlaub-neues-abtreibungsrecht-und-selbstbestimmungsgesetz](https://www.spiegel.de/ausland/spanien-menstruationsurlaub-neues-abtreibungsrecht-und-selbstbestimmungsgesetz-a-708b3acf-7115-417d-919e-e6ba519e0882#ref=rss)
-### ich
+* [https://www.spiegel.de/politik/muenchener-sicherheitskonferenz-chinas-top-diplomat-kuendigt-friedensinitiative-fuer-ukraine-an](https://www.spiegel.de/politik/muenchener-sicherheitskonferenz-chinas-top-diplomat-kuendigt-friedensinitiative-fuer-ukraine-an-a-22f5126b-2d9c-414b-baaa-a3895c099980#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet-a-c785dc43-b080-431e-a93e-42d4e742ef77#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger](https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger-a-5def09ac-d2c9-48e2-9855-8d2e2546cce4#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-ben-wallace-es-wird-keine-schnellen-kampfjet-lieferungen-geben](https://www.spiegel.de/ausland/ukraine-krieg-ben-wallace-es-wird-keine-schnellen-kampfjet-lieferungen-geben-a-d2da5907-fb66-4a6d-ad97-099050bf8bf3#ref=rss)
+### ukrainekrieg
 
-* [https://www.spiegel.de/ausland/ukrainische-rekrutinnen-in-spanien-ich-hatte-noch-nie-eine-waffe-in-der-hand](https://www.spiegel.de/ausland/ukrainische-rekrutinnen-in-spanien-ich-hatte-noch-nie-eine-waffe-in-der-hand-a-7c82eb33-a8ec-477c-a981-afd91f2e4c03#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht](https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht-a-58546aec-2e60-432d-8b4d-056fc6c3db23#ref=rss)
-* [https://www.spiegel.de/kultur/tv/polizeiruf-110-daniel-a-aus-rostock-ich-bin-autoschrauber-und-ich-bin-trans-mann](https://www.spiegel.de/kultur/tv/polizeiruf-110-daniel-a-aus-rostock-ich-bin-autoschrauber-und-ich-bin-trans-mann-a-244ca9e4-06ce-46f9-8b0b-ff190b886793#ref=rss)
-### woche
-
-* [https://www.spiegel.de/ausland/syrien-erster-eu-hilfskonvois-erreichen-grenze-nach-ueber-einer-woche](https://www.spiegel.de/ausland/syrien-erster-eu-hilfskonvois-erreichen-grenze-nach-ueber-einer-woche-a-ee77da9c-05eb-4a1f-8dea-8be642dd6d61#ref=rss)
-* [https://www.spiegel.de/kultur/musik/caroline-polachek-jaegerin-des-verlorenen-schatzes-album-der-woche](https://www.spiegel.de/kultur/musik/caroline-polachek-jaegerin-des-verlorenen-schatzes-album-der-woche-a-5214bace-da8e-44c2-920c-a86af66079eb#ref=rss)
-### pro
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-50-euro-pro-megawattstunde](https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-50-euro-pro-megawattstunde-a-73d87a87-54d3-4b31-8824-599dfab546f3#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-menstruationsurlaub-neues-abtreibungsrecht-und-selbstbestimmungsgesetz](https://www.spiegel.de/ausland/spanien-menstruationsurlaub-neues-abtreibungsrecht-und-selbstbestimmungsgesetz-a-708b3acf-7115-417d-919e-e6ba519e0882#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht](https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht-a-58546aec-2e60-432d-8b4d-056fc6c3db23#ref=rss)
-### dienst
-
-* [https://www.spiegel.de/panorama/justiz/recklinghausen-staatsanwaltschaft-ermittelt-gegen-priester-wegen-besitzes-von-kinderpornografie](https://www.spiegel.de/panorama/justiz/recklinghausen-staatsanwaltschaft-ermittelt-gegen-priester-wegen-besitzes-von-kinderpornografie-a-ea0516a6-9eb1-491f-80e6-d0f59c371759#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/oeffentlicher-dienst-ver-di-chef-droht-mit-streiks-in-anderer-dimension](https://www.spiegel.de/wirtschaft/soziales/oeffentlicher-dienst-ver-di-chef-droht-mit-streiks-in-anderer-dimension-a-fe8d9f11-c474-47ca-910a-743488883d91#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/musik/caroline-polachek-jaegerin-des-verlorenen-schatzes-album-der-woche](https://www.spiegel.de/kultur/musik/caroline-polachek-jaegerin-des-verlorenen-schatzes-album-der-woche-a-5214bace-da8e-44c2-920c-a86af66079eb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-50-euro-pro-megawattstunde](https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-50-euro-pro-megawattstunde-a-73d87a87-54d3-4b31-8824-599dfab546f3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine](https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine-a-32b275bb-2eb7-4d5f-a23d-999ab044688d#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/sondierungen-in-berlin-cdu-und-spd-sehen-schnittmengen](https://www.spiegel.de/politik/deutschland/sondierungen-in-berlin-cdu-und-spd-sehen-schnittmengen-a-d0948213-87de-48e8-98f3-4c09f6e74388#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht](https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht-a-58546aec-2e60-432d-8b4d-056fc6c3db23#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/usa-tod-von-tyre-nichols-ex-polizisten-plaedieren-vor-gericht-auf-nicht-schuldig](https://www.spiegel.de/panorama/justiz/usa-tod-von-tyre-nichols-ex-polizisten-plaedieren-vor-gericht-auf-nicht-schuldig-a-51cf93ce-04e9-4350-8523-8252fba83e5b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht](https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht-a-58546aec-2e60-432d-8b4d-056fc6c3db23#ref=rss)
-### unter
-
-* [https://www.spiegel.de/panorama/justiz/usa-tod-von-tyre-nichols-ex-polizisten-plaedieren-vor-gericht-auf-nicht-schuldig](https://www.spiegel.de/panorama/justiz/usa-tod-von-tyre-nichols-ex-polizisten-plaedieren-vor-gericht-auf-nicht-schuldig-a-51cf93ce-04e9-4350-8523-8252fba83e5b#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainische-rekrutinnen-in-spanien-ich-hatte-noch-nie-eine-waffe-in-der-hand](https://www.spiegel.de/ausland/ukrainische-rekrutinnen-in-spanien-ich-hatte-noch-nie-eine-waffe-in-der-hand-a-7c82eb33-a8ec-477c-a981-afd91f2e4c03#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-50-euro-pro-megawattstunde](https://www.spiegel.de/wirtschaft/service/gaspreis-sinkt-unter-50-euro-pro-megawattstunde-a-73d87a87-54d3-4b31-8824-599dfab546f3#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024](https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024-a-3b2b23bb-65cd-4fb7-a3f2-c0215af58ef2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz-a-7567de60-edb1-4d43-882b-2c82cf5f1198#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer-a-21e58ec9-64a3-41c5-bb1a-9fea99506b56#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz-a-7567de60-edb1-4d43-882b-2c82cf5f1198#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer-a-21e58ec9-64a3-41c5-bb1a-9fea99506b56#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz-a-7567de60-edb1-4d43-882b-2c82cf5f1198#ref=rss)
-### boris
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer-a-21e58ec9-64a3-41c5-bb1a-9fea99506b56#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine](https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine-a-32b275bb-2eb7-4d5f-a23d-999ab044688d#ref=rss)
-### bin
-
-* [https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht](https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht-a-58546aec-2e60-432d-8b4d-056fc6c3db23#ref=rss)
-* [https://www.spiegel.de/kultur/tv/polizeiruf-110-daniel-a-aus-rostock-ich-bin-autoschrauber-und-ich-bin-trans-mann](https://www.spiegel.de/kultur/tv/polizeiruf-110-daniel-a-aus-rostock-ich-bin-autoschrauber-und-ich-bin-trans-mann-a-244ca9e4-06ce-46f9-8b0b-ff190b886793#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht](https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht-a-58546aec-2e60-432d-8b4d-056fc6c3db23#ref=rss)
-* [https://www.spiegel.de/kultur/tv/polizeiruf-110-daniel-a-aus-rostock-ich-bin-autoschrauber-und-ich-bin-trans-mann](https://www.spiegel.de/kultur/tv/polizeiruf-110-daniel-a-aus-rostock-ich-bin-autoschrauber-und-ich-bin-trans-mann-a-244ca9e4-06ce-46f9-8b0b-ff190b886793#ref=rss)
-### trans
-
-* [https://www.spiegel.de/kultur/tv/polizeiruf-110-daniel-a-aus-rostock-ich-bin-autoschrauber-und-ich-bin-trans-mann](https://www.spiegel.de/kultur/tv/polizeiruf-110-daniel-a-aus-rostock-ich-bin-autoschrauber-und-ich-bin-trans-mann-a-244ca9e4-06ce-46f9-8b0b-ff190b886793#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-menstruationsurlaub-neues-abtreibungsrecht-und-selbstbestimmungsgesetz](https://www.spiegel.de/ausland/spanien-menstruationsurlaub-neues-abtreibungsrecht-und-selbstbestimmungsgesetz-a-708b3acf-7115-417d-919e-e6ba519e0882#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/bulgarien-polizei-findet-mindestens-18-tote-in-lkw](https://www.spiegel.de/ausland/bulgarien-polizei-findet-mindestens-18-tote-in-lkw-a-afc9b45c-badf-4a02-af39-5ab45e2e336b#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-menstruationsurlaub-neues-abtreibungsrecht-und-selbstbestimmungsgesetz](https://www.spiegel.de/ausland/spanien-menstruationsurlaub-neues-abtreibungsrecht-und-selbstbestimmungsgesetz-a-708b3acf-7115-417d-919e-e6ba519e0882#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/syrien-erster-eu-hilfskonvois-erreichen-grenze-nach-ueber-einer-woche](https://www.spiegel.de/ausland/syrien-erster-eu-hilfskonvois-erreichen-grenze-nach-ueber-einer-woche-a-ee77da9c-05eb-4a1f-8dea-8be642dd6d61#ref=rss)
-* [https://www.spiegel.de/ausland/ukrainische-rekrutinnen-in-spanien-ich-hatte-noch-nie-eine-waffe-in-der-hand](https://www.spiegel.de/ausland/ukrainische-rekrutinnen-in-spanien-ich-hatte-noch-nie-eine-waffe-in-der-hand-a-7c82eb33-a8ec-477c-a981-afd91f2e4c03#ref=rss)
-### unterstützung
-
-* [https://www.spiegel.de/ausland/syrien-erster-eu-hilfskonvois-erreichen-grenze-nach-ueber-einer-woche](https://www.spiegel.de/ausland/syrien-erster-eu-hilfskonvois-erreichen-grenze-nach-ueber-einer-woche-a-ee77da9c-05eb-4a1f-8dea-8be642dd6d61#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine](https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine-a-32b275bb-2eb7-4d5f-a23d-999ab044688d#ref=rss)
-### spiegel
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie](https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie-a-5667202e-314c-4015-8c59-2bc1df7b385a#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### staatsanwaltschaft
-
-* [https://www.spiegel.de/panorama/justiz/recklinghausen-staatsanwaltschaft-ermittelt-gegen-priester-wegen-besitzes-von-kinderpornografie](https://www.spiegel.de/panorama/justiz/recklinghausen-staatsanwaltschaft-ermittelt-gegen-priester-wegen-besitzes-von-kinderpornografie-a-ea0516a6-9eb1-491f-80e6-d0f59c371759#ref=rss)
-### east
-
-* [https://www.spiegel.de/wissenschaft/east-palestine-ohio-was-ueber-das-zugunglueck-und-dessen-folgen-bekannt-ist](https://www.spiegel.de/wissenschaft/east-palestine-ohio-was-ueber-das-zugunglueck-und-dessen-folgen-bekannt-ist-a-c9e5c969-4f44-4712-a5d8-a9c972ffb982#ref=rss)
-### palestine
-
-* [https://www.spiegel.de/wissenschaft/east-palestine-ohio-was-ueber-das-zugunglueck-und-dessen-folgen-bekannt-ist](https://www.spiegel.de/wissenschaft/east-palestine-ohio-was-ueber-das-zugunglueck-und-dessen-folgen-bekannt-ist-a-c9e5c969-4f44-4712-a5d8-a9c972ffb982#ref=rss)
-### ohio
-
-* [https://www.spiegel.de/wissenschaft/east-palestine-ohio-was-ueber-das-zugunglueck-und-dessen-folgen-bekannt-ist](https://www.spiegel.de/wissenschaft/east-palestine-ohio-was-ueber-das-zugunglueck-und-dessen-folgen-bekannt-ist-a-c9e5c969-4f44-4712-a5d8-a9c972ffb982#ref=rss)
-### dessen
-
-* [https://www.spiegel.de/wissenschaft/east-palestine-ohio-was-ueber-das-zugunglueck-und-dessen-folgen-bekannt-ist](https://www.spiegel.de/wissenschaft/east-palestine-ohio-was-ueber-das-zugunglueck-und-dessen-folgen-bekannt-ist-a-c9e5c969-4f44-4712-a5d8-a9c972ffb982#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie](https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie-a-5667202e-314c-4015-8c59-2bc1df7b385a#ref=rss)
-### wirklich
-
-* [https://www.spiegel.de/wissenschaft/east-palestine-ohio-was-ueber-das-zugunglueck-und-dessen-folgen-bekannt-ist](https://www.spiegel.de/wissenschaft/east-palestine-ohio-was-ueber-das-zugunglueck-und-dessen-folgen-bekannt-ist-a-c9e5c969-4f44-4712-a5d8-a9c972ffb982#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/frank-schaetzings-der-schwarm-im-wissenschafts-check-all-das-gibt-es-wirklich](https://www.spiegel.de/wissenschaft/natur/frank-schaetzings-der-schwarm-im-wissenschafts-check-all-das-gibt-es-wirklich-a-f5ee0dc7-febc-42ba-a082-75699c20ab0c#ref=rss)
-### caroline
-
-* [https://www.spiegel.de/kultur/musik/caroline-polachek-jaegerin-des-verlorenen-schatzes-album-der-woche](https://www.spiegel.de/kultur/musik/caroline-polachek-jaegerin-des-verlorenen-schatzes-album-der-woche-a-5214bace-da8e-44c2-920c-a86af66079eb#ref=rss)
-### polachek
-
-* [https://www.spiegel.de/kultur/musik/caroline-polachek-jaegerin-des-verlorenen-schatzes-album-der-woche](https://www.spiegel.de/kultur/musik/caroline-polachek-jaegerin-des-verlorenen-schatzes-album-der-woche-a-5214bace-da8e-44c2-920c-a86af66079eb#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/caroline-polachek-jaegerin-des-verlorenen-schatzes-album-der-woche](https://www.spiegel.de/kultur/musik/caroline-polachek-jaegerin-des-verlorenen-schatzes-album-der-woche-a-5214bace-da8e-44c2-920c-a86af66079eb#ref=rss)
-### alles
-
-* [https://www.spiegel.de/kultur/musik/caroline-polachek-jaegerin-des-verlorenen-schatzes-album-der-woche](https://www.spiegel.de/kultur/musik/caroline-polachek-jaegerin-des-verlorenen-schatzes-album-der-woche-a-5214bace-da8e-44c2-920c-a86af66079eb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht](https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht-a-58546aec-2e60-432d-8b4d-056fc6c3db23#ref=rss)
-### streiks
-
-* [https://www.spiegel.de/wirtschaft/soziales/oeffentlicher-dienst-ver-di-chef-droht-mit-streiks-in-anderer-dimension](https://www.spiegel.de/wirtschaft/soziales/oeffentlicher-dienst-ver-di-chef-droht-mit-streiks-in-anderer-dimension-a-fe8d9f11-c474-47ca-910a-743488883d91#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/sondierungen-in-berlin-cdu-und-spd-sehen-schnittmengen](https://www.spiegel.de/politik/deutschland/sondierungen-in-berlin-cdu-und-spd-sehen-schnittmengen-a-d0948213-87de-48e8-98f3-4c09f6e74388#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie](https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie-a-5667202e-314c-4015-8c59-2bc1df7b385a#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/politik/deutschland/sondierungen-in-berlin-cdu-und-spd-sehen-schnittmengen](https://www.spiegel.de/politik/deutschland/sondierungen-in-berlin-cdu-und-spd-sehen-schnittmengen-a-d0948213-87de-48e8-98f3-4c09f6e74388#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/frankreich-klimawandel-an-der-kueste-sie-muessen-gehen-weil-das-meer-kommt](https://www.spiegel.de/wissenschaft/natur/frankreich-klimawandel-an-der-kueste-sie-muessen-gehen-weil-das-meer-kommt-a-ca54167d-4bb7-4bd3-abc5-5e74dd822c8b#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-startet-marinemanoever-vor-suedafrika-zusammen-mit-china](https://www.spiegel.de/ausland/russland-startet-marinemanoever-vor-suedafrika-zusammen-mit-china-a-e9d4a5a4-2bae-480a-96fd-c4754e085ad8#ref=rss)
-### südafrika
-
-* [https://www.spiegel.de/ausland/russland-startet-marinemanoever-vor-suedafrika-zusammen-mit-china](https://www.spiegel.de/ausland/russland-startet-marinemanoever-vor-suedafrika-zusammen-mit-china-a-e9d4a5a4-2bae-480a-96fd-c4754e085ad8#ref=rss)
-### zusammen
-
-* [https://www.spiegel.de/ausland/russland-startet-marinemanoever-vor-suedafrika-zusammen-mit-china](https://www.spiegel.de/ausland/russland-startet-marinemanoever-vor-suedafrika-zusammen-mit-china-a-e9d4a5a4-2bae-480a-96fd-c4754e085ad8#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-menstruationsurlaub-neues-abtreibungsrecht-und-selbstbestimmungsgesetz](https://www.spiegel.de/ausland/spanien-menstruationsurlaub-neues-abtreibungsrecht-und-selbstbestimmungsgesetz-a-708b3acf-7115-417d-919e-e6ba519e0882#ref=rss)
-### neue
-
-* [https://www.spiegel.de/ausland/russland-startet-marinemanoever-vor-suedafrika-zusammen-mit-china](https://www.spiegel.de/ausland/russland-startet-marinemanoever-vor-suedafrika-zusammen-mit-china-a-e9d4a5a4-2bae-480a-96fd-c4754e085ad8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer-a-21e58ec9-64a3-41c5-bb1a-9fea99506b56#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/justiz/usa-tod-von-tyre-nichols-ex-polizisten-plaedieren-vor-gericht-auf-nicht-schuldig](https://www.spiegel.de/panorama/justiz/usa-tod-von-tyre-nichols-ex-polizisten-plaedieren-vor-gericht-auf-nicht-schuldig-a-51cf93ce-04e9-4350-8523-8252fba83e5b#ref=rss)
-### tyre
-
-* [https://www.spiegel.de/panorama/justiz/usa-tod-von-tyre-nichols-ex-polizisten-plaedieren-vor-gericht-auf-nicht-schuldig](https://www.spiegel.de/panorama/justiz/usa-tod-von-tyre-nichols-ex-polizisten-plaedieren-vor-gericht-auf-nicht-schuldig-a-51cf93ce-04e9-4350-8523-8252fba83e5b#ref=rss)
-### nichols
-
-* [https://www.spiegel.de/panorama/justiz/usa-tod-von-tyre-nichols-ex-polizisten-plaedieren-vor-gericht-auf-nicht-schuldig](https://www.spiegel.de/panorama/justiz/usa-tod-von-tyre-nichols-ex-polizisten-plaedieren-vor-gericht-auf-nicht-schuldig-a-51cf93ce-04e9-4350-8523-8252fba83e5b#ref=rss)
-### politiker
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024](https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024-a-3b2b23bb-65cd-4fb7-a3f2-c0215af58ef2#ref=rss)
-### fordern
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024](https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024-a-3b2b23bb-65cd-4fb7-a3f2-c0215af58ef2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer-a-21e58ec9-64a3-41c5-bb1a-9fea99506b56#ref=rss)
-### news
-
-* [https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024](https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-kiew-droht-mit-boykott-der-olympischen-spiele-2024-a-3b2b23bb-65cd-4fb7-a3f2-c0215af58ef2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer-a-21e58ec9-64a3-41c5-bb1a-9fea99506b56#ref=rss)
-### wir
-
-* [https://www.spiegel.de/panorama/gesellschaft/koelsche-kippa-koepp-wenn-wir-den-karneval-in-koeln-feiern-wollen-muessen-wir-wagnisse-eingehen](https://www.spiegel.de/panorama/gesellschaft/koelsche-kippa-koepp-wenn-wir-den-karneval-in-koeln-feiern-wollen-muessen-wir-wagnisse-eingehen-a-7ae776d0-fa52-4833-8d30-0aa0d65efacb#ref=rss)
-### köln
-
-* [https://www.spiegel.de/panorama/gesellschaft/koelsche-kippa-koepp-wenn-wir-den-karneval-in-koeln-feiern-wollen-muessen-wir-wagnisse-eingehen](https://www.spiegel.de/panorama/gesellschaft/koelsche-kippa-koepp-wenn-wir-den-karneval-in-koeln-feiern-wollen-muessen-wir-wagnisse-eingehen-a-7ae776d0-fa52-4833-8d30-0aa0d65efacb#ref=rss)
-### stadt
-
-* [https://www.spiegel.de/panorama/gesellschaft/koelsche-kippa-koepp-wenn-wir-den-karneval-in-koeln-feiern-wollen-muessen-wir-wagnisse-eingehen](https://www.spiegel.de/panorama/gesellschaft/koelsche-kippa-koepp-wenn-wir-den-karneval-in-koeln-feiern-wollen-muessen-wir-wagnisse-eingehen-a-7ae776d0-fa52-4833-8d30-0aa0d65efacb#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/chemnitz-will-vietnamesische-familie-vorerst-nicht-abschieben-seit-1987-in-deutschland](https://www.spiegel.de/panorama/justiz/chemnitz-will-vietnamesische-familie-vorerst-nicht-abschieben-seit-1987-in-deutschland-a-023798be-b9d7-487d-bf23-dfcaeebefd6b#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/ausland/ukrainische-rekrutinnen-in-spanien-ich-hatte-noch-nie-eine-waffe-in-der-hand](https://www.spiegel.de/ausland/ukrainische-rekrutinnen-in-spanien-ich-hatte-noch-nie-eine-waffe-in-der-hand-a-7c82eb33-a8ec-477c-a981-afd91f2e4c03#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz-a-7567de60-edb1-4d43-882b-2c82cf5f1198#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/ukrainische-rekrutinnen-in-spanien-ich-hatte-noch-nie-eine-waffe-in-der-hand](https://www.spiegel.de/ausland/ukrainische-rekrutinnen-in-spanien-ich-hatte-noch-nie-eine-waffe-in-der-hand-a-7c82eb33-a8ec-477c-a981-afd91f2e4c03#ref=rss)
-* [https://www.spiegel.de/ausland/spanien-menstruationsurlaub-neues-abtreibungsrecht-und-selbstbestimmungsgesetz](https://www.spiegel.de/ausland/spanien-menstruationsurlaub-neues-abtreibungsrecht-und-selbstbestimmungsgesetz-a-708b3acf-7115-417d-919e-e6ba519e0882#ref=rss)
-### migrationspolitik
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer-a-21e58ec9-64a3-41c5-bb1a-9fea99506b56#ref=rss)
-### palmer
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer](https://www.spiegel.de/politik/deutschland/news-des-tages-olaf-scholz-annalena-baerbock-projekt-storykillers-realo-gruppierung-gruenen-migrationspolitik-boris-palmer-a-21e58ec9-64a3-41c5-bb1a-9fea99506b56#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht](https://www.spiegel.de/panorama/justiz/berlin-toedliche-amokfahrt-es-ist-einfach-ein-zufall-dass-ich-noch-da-bin-und-sie-eben-nicht-a-58546aec-2e60-432d-8b4d-056fc6c3db23#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/italien-frankreich-spanien-in-vielen-regionen-europas-ist-es-noch-immer-zu-trocken](https://www.spiegel.de/wissenschaft/natur/italien-frankreich-spanien-in-vielen-regionen-europas-ist-es-noch-immer-zu-trocken-a-14be587e-72cf-426b-8dc6-2dc1df14be23#ref=rss)
+* [https://www.spiegel.de/ausland/david-petraeus-zum-ukraine-krieg-wir-haben-bei-den-panzern-zu-lange-gezoegert](https://www.spiegel.de/ausland/david-petraeus-zum-ukraine-krieg-wir-haben-bei-den-panzern-zu-lange-gezoegert-a-9fb14687-4b20-49f3-aa8b-4b05ab3dafa4#ref=rss)
+* [https://www.spiegel.de/ausland/ein-jahr-ukraine-krieg-von-rueckkehr-zur-normalitaet-kann-keine-rede-sein](https://www.spiegel.de/ausland/ein-jahr-ukraine-krieg-von-rueckkehr-zur-normalitaet-kann-keine-rede-sein-a-996f4544-d3be-4d99-af8b-ce9e835f7480#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet-a-c785dc43-b080-431e-a93e-42d4e742ef77#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-ben-wallace-es-wird-keine-schnellen-kampfjet-lieferungen-geben](https://www.spiegel.de/ausland/ukraine-krieg-ben-wallace-es-wird-keine-schnellen-kampfjet-lieferungen-geben-a-d2da5907-fb66-4a6d-ad97-099050bf8bf3#ref=rss)
 ### türkei
 
-* [https://www.spiegel.de/panorama/tuerkei-und-syrien-katastrophenschutz-erwartet-starke-nachbeben-in-den-kommenden-tagen](https://www.spiegel.de/panorama/tuerkei-und-syrien-katastrophenschutz-erwartet-starke-nachbeben-in-den-kommenden-tagen-a-81f84fbf-1305-4d25-9152-20300a9c8bf3#ref=rss)
-### regionen
+* [https://www.spiegel.de/sport/fussball/erdbeben-in-der-tuerkei-fussballprofi-christian-atsu-tot-aufgefunden](https://www.spiegel.de/sport/fussball/erdbeben-in-der-tuerkei-fussballprofi-christian-atsu-tot-aufgefunden-a-db29f498-fc15-4df6-85a2-9f9733fe1d11#ref=rss)
+* [https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast](https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast-a-e527f4f2-f64a-40a2-92f6-431994bd3d3c#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/panorama/tuerkei-und-syrien-katastrophenschutz-erwartet-starke-nachbeben-in-den-kommenden-tagen](https://www.spiegel.de/panorama/tuerkei-und-syrien-katastrophenschutz-erwartet-starke-nachbeben-in-den-kommenden-tagen-a-81f84fbf-1305-4d25-9152-20300a9c8bf3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/italien-frankreich-spanien-in-vielen-regionen-europas-ist-es-noch-immer-zu-trocken](https://www.spiegel.de/wissenschaft/natur/italien-frankreich-spanien-in-vielen-regionen-europas-ist-es-noch-immer-zu-trocken-a-14be587e-72cf-426b-8dc6-2dc1df14be23#ref=rss)
-### stark
+* [https://www.spiegel.de/panorama/crimmitschau-in-zwickau-88-jaehrige-gerat-offenbar-wegen-niesanfall-in-den-gegenverkehr](https://www.spiegel.de/panorama/crimmitschau-in-zwickau-88-jaehrige-gerat-offenbar-wegen-niesanfall-in-den-gegenverkehr-a-a5fb2428-fa21-494c-a6dc-18e377e0ffa1#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-staffeln-sollen-trotz-warnung-vor-sturmboeen-stattfinden](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-staffeln-sollen-trotz-warnung-vor-sturmboeen-stattfinden-a-98b5fa00-7b72-43bb-ae08-79466636ce5c#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet-a-c785dc43-b080-431e-a93e-42d4e742ef77#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/kultur/tv/polizeiruf-110-daniel-a-aus-rostock-ich-bin-autoschrauber-und-ich-bin-trans-mann](https://www.spiegel.de/kultur/tv/polizeiruf-110-daniel-a-aus-rostock-ich-bin-autoschrauber-und-ich-bin-trans-mann-a-244ca9e4-06ce-46f9-8b0b-ff190b886793#ref=rss)
-### frankreich
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-tarifstreit-konzern-droht-mit-staerkerer-einbindung-von-fremdfirmen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-tarifstreit-konzern-droht-mit-staerkerer-einbindung-von-fremdfirmen-a-572357a9-f4fe-497a-b6fc-a83166efb607#ref=rss)
+* [https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln](https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln-a-2a255e7a-cfe4-4537-beff-0d2da6ddc53e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet-a-c785dc43-b080-431e-a93e-42d4e742ef77#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger](https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger-a-5def09ac-d2c9-48e2-9855-8d2e2546cce4#ref=rss)
+### biathlonwm
 
-* [https://www.spiegel.de/wissenschaft/natur/frankreich-klimawandel-an-der-kueste-sie-muessen-gehen-weil-das-meer-kommt](https://www.spiegel.de/wissenschaft/natur/frankreich-klimawandel-an-der-kueste-sie-muessen-gehen-weil-das-meer-kommt-a-ca54167d-4bb7-4bd3-abc5-5e74dd822c8b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/italien-frankreich-spanien-in-vielen-regionen-europas-ist-es-noch-immer-zu-trocken](https://www.spiegel.de/wissenschaft/natur/italien-frankreich-spanien-in-vielen-regionen-europas-ist-es-noch-immer-zu-trocken-a-14be587e-72cf-426b-8dc6-2dc1df14be23#ref=rss)
-### jüngste
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-staffeln-sollen-trotz-warnung-vor-sturmboeen-stattfinden](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-staffeln-sollen-trotz-warnung-vor-sturmboeen-stattfinden-a-98b5fa00-7b72-43bb-ae08-79466636ce5c#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen-a-ce5276eb-ce62-47da-994f-aad61e703373#ref=rss)
+### chinas
 
-* [https://www.spiegel.de/ausland/kambodscha-was-der-juengste-angriff-auf-die-meinungsfreiheit-bedeutet](https://www.spiegel.de/ausland/kambodscha-was-der-juengste-angriff-auf-die-meinungsfreiheit-bedeutet-a-09a84d2c-5eec-42bd-9b53-9d559d92b9cb#ref=rss)
-### mindestens
+* [https://www.spiegel.de/politik/muenchener-sicherheitskonferenz-chinas-top-diplomat-kuendigt-friedensinitiative-fuer-ukraine-an](https://www.spiegel.de/politik/muenchener-sicherheitskonferenz-chinas-top-diplomat-kuendigt-friedensinitiative-fuer-ukraine-an-a-22f5126b-2d9c-414b-baaa-a3895c099980#ref=rss)
+* [https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast](https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast-a-e527f4f2-f64a-40a2-92f6-431994bd3d3c#ref=rss)
+### münchner
 
-* [https://www.spiegel.de/ausland/bulgarien-polizei-findet-mindestens-18-tote-in-lkw](https://www.spiegel.de/ausland/bulgarien-polizei-findet-mindestens-18-tote-in-lkw-a-afc9b45c-badf-4a02-af39-5ab45e2e336b#ref=rss)
-### 18
+* [https://www.spiegel.de/politik/muenchener-sicherheitskonferenz-chinas-top-diplomat-kuendigt-friedensinitiative-fuer-ukraine-an](https://www.spiegel.de/politik/muenchener-sicherheitskonferenz-chinas-top-diplomat-kuendigt-friedensinitiative-fuer-ukraine-an-a-22f5126b-2d9c-414b-baaa-a3895c099980#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger](https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger-a-5def09ac-d2c9-48e2-9855-8d2e2546cce4#ref=rss)
+### viele
 
-* [https://www.spiegel.de/ausland/bulgarien-polizei-findet-mindestens-18-tote-in-lkw](https://www.spiegel.de/ausland/bulgarien-polizei-findet-mindestens-18-tote-in-lkw-a-afc9b45c-badf-4a02-af39-5ab45e2e336b#ref=rss)
-### lkw
+* [https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos](https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos-a-e6a66800-1d2f-48c6-b530-f6432cdbf76f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger](https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger-a-5def09ac-d2c9-48e2-9855-8d2e2546cce4#ref=rss)
+* [https://www.spiegel.de/fitness/laufen-trotz-knieproblemen-das-kann-helfen-newsletter](https://www.spiegel.de/fitness/laufen-trotz-knieproblemen-das-kann-helfen-newsletter-a-867da9ce-e14e-4b24-904a-cfff9e347a58#ref=rss)
+### erdbeben
 
-* [https://www.spiegel.de/ausland/bulgarien-polizei-findet-mindestens-18-tote-in-lkw](https://www.spiegel.de/ausland/bulgarien-polizei-findet-mindestens-18-tote-in-lkw-a-afc9b45c-badf-4a02-af39-5ab45e2e336b#ref=rss)
-### rede
+* [https://www.spiegel.de/sport/fussball/erdbeben-in-der-tuerkei-fussballprofi-christian-atsu-tot-aufgefunden](https://www.spiegel.de/sport/fussball/erdbeben-in-der-tuerkei-fussballprofi-christian-atsu-tot-aufgefunden-a-db29f498-fc15-4df6-85a2-9f9733fe1d11#ref=rss)
+* [https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast](https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast-a-e527f4f2-f64a-40a2-92f6-431994bd3d3c#ref=rss)
+### erklärt
 
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz-a-7567de60-edb1-4d43-882b-2c82cf5f1198#ref=rss)
-### video
+* [https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas](https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas-a-ec38bcfb-77c5-4766-baf7-eab52e7cb017#ref=rss)
+* [https://www.spiegel.de/start/neidisch-auf-freunde-psychologe-erklaert-warum-neid-normal-ist-und-was-dagegen-hilft](https://www.spiegel.de/start/neidisch-auf-freunde-psychologe-erklaert-warum-neid-normal-ist-und-was-dagegen-hilft-a-2a8ef25d-4bed-4763-a608-a3f55a515611#ref=rss)
+### psychologe
 
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz-a-7567de60-edb1-4d43-882b-2c82cf5f1198#ref=rss)
-### waffenlieferungen
+* [https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas](https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas-a-ec38bcfb-77c5-4766-baf7-eab52e7cb017#ref=rss)
+* [https://www.spiegel.de/start/neidisch-auf-freunde-psychologe-erklaert-warum-neid-normal-ist-und-was-dagegen-hilft](https://www.spiegel.de/start/neidisch-auf-freunde-psychologe-erklaert-warum-neid-normal-ist-und-was-dagegen-hilft-a-2a8ef25d-4bed-4763-a608-a3f55a515611#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz](https://www.spiegel.de/politik/deutschland/bundeskanzler-olaf-scholz-auf-der-muenchner-sicherheitskonferenz-a-7567de60-edb1-4d43-882b-2c82cf5f1198#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine](https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine-a-32b275bb-2eb7-4d5f-a23d-999ab044688d#ref=rss)
-### berlinale
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-tarifstreit-konzern-droht-mit-staerkerer-einbindung-von-fremdfirmen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-tarifstreit-konzern-droht-mit-staerkerer-einbindung-von-fremdfirmen-a-572357a9-f4fe-497a-b6fc-a83166efb607#ref=rss)
+* [https://www.spiegel.de/karriere/gewalt-und-belaestigung-im-einzelhandel-sie-haben-doch-eh-keine-ahnung-sie-bloede-sau](https://www.spiegel.de/karriere/gewalt-und-belaestigung-im-einzelhandel-sie-haben-doch-eh-keine-ahnung-sie-bloede-sau-a-631053f7-4166-4fe3-87d6-f615857f661c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-commerzbank-ersetzt-linde](https://www.spiegel.de/wirtschaft/unternehmen/dax-commerzbank-ersetzt-linde-a-0639f78f-41dd-407d-8453-0983ed3246b0#ref=rss)
+### woche
 
-* [https://www.spiegel.de/kultur/kino/berlinale-2023-gestartet-mit-wolodymyr-selenskyj-kristen-stewart-auf-sparflamme](https://www.spiegel.de/kultur/kino/berlinale-2023-gestartet-mit-wolodymyr-selenskyj-kristen-stewart-auf-sparflamme-a-c65eb601-a189-4d79-9331-c226809032ea#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/panorama/bildung/200-euro-energiepauschale-fuer-studierende-von-stark-watzinger-gibt-es-nur-warme-worte-und-heisse-luft-kommentar](https://www.spiegel.de/panorama/bildung/200-euro-energiepauschale-fuer-studierende-von-stark-watzinger-gibt-es-nur-warme-worte-und-heisse-luft-kommentar-a-2496d9eb-0fc2-4907-bc07-f6ad6d4ce1ed#ref=rss)
+* [https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast](https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast-a-e527f4f2-f64a-40a2-92f6-431994bd3d3c#ref=rss)
+### tony
 
-* [https://www.spiegel.de/kultur/kino/berlinale-2023-gestartet-mit-wolodymyr-selenskyj-kristen-stewart-auf-sparflamme](https://www.spiegel.de/kultur/kino/berlinale-2023-gestartet-mit-wolodymyr-selenskyj-kristen-stewart-auf-sparflamme-a-c65eb601-a189-4d79-9331-c226809032ea#ref=rss)
-### chemnitz
+* [https://www.spiegel.de/kultur/tony-marshall-nachruf-auf-den-schlagerstar](https://www.spiegel.de/kultur/tony-marshall-nachruf-auf-den-schlagerstar-a-a64da874-5a79-48c6-ac3d-3c7c40fdd399#ref=rss)
+### marshall
 
-* [https://www.spiegel.de/panorama/justiz/chemnitz-will-vietnamesische-familie-vorerst-nicht-abschieben-seit-1987-in-deutschland](https://www.spiegel.de/panorama/justiz/chemnitz-will-vietnamesische-familie-vorerst-nicht-abschieben-seit-1987-in-deutschland-a-023798be-b9d7-487d-bf23-dfcaeebefd6b#ref=rss)
-### familie
+* [https://www.spiegel.de/kultur/tony-marshall-nachruf-auf-den-schlagerstar](https://www.spiegel.de/kultur/tony-marshall-nachruf-auf-den-schlagerstar-a-a64da874-5a79-48c6-ac3d-3c7c40fdd399#ref=rss)
+### gestellt
 
-* [https://www.spiegel.de/panorama/justiz/chemnitz-will-vietnamesische-familie-vorerst-nicht-abschieben-seit-1987-in-deutschland](https://www.spiegel.de/panorama/justiz/chemnitz-will-vietnamesische-familie-vorerst-nicht-abschieben-seit-1987-in-deutschland-a-023798be-b9d7-487d-bf23-dfcaeebefd6b#ref=rss)
-### deutschland
+* [https://www.spiegel.de/politik/muenchener-sicherheitskonferenz-chinas-top-diplomat-kuendigt-friedensinitiative-fuer-ukraine-an](https://www.spiegel.de/politik/muenchener-sicherheitskonferenz-chinas-top-diplomat-kuendigt-friedensinitiative-fuer-ukraine-an-a-22f5126b-2d9c-414b-baaa-a3895c099980#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-tarifstreit-konzern-droht-mit-staerkerer-einbindung-von-fremdfirmen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-tarifstreit-konzern-droht-mit-staerkerer-einbindung-von-fremdfirmen-a-572357a9-f4fe-497a-b6fc-a83166efb607#ref=rss)
+### nigeria
 
-* [https://www.spiegel.de/panorama/justiz/chemnitz-will-vietnamesische-familie-vorerst-nicht-abschieben-seit-1987-in-deutschland](https://www.spiegel.de/panorama/justiz/chemnitz-will-vietnamesische-familie-vorerst-nicht-abschieben-seit-1987-in-deutschland-a-023798be-b9d7-487d-bf23-dfcaeebefd6b#ref=rss)
-### frank
+* [https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos](https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos-a-e6a66800-1d2f-48c6-b530-f6432cdbf76f#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wissenschaft/natur/frank-schaetzings-der-schwarm-im-wissenschafts-check-all-das-gibt-es-wirklich](https://www.spiegel.de/wissenschaft/natur/frank-schaetzings-der-schwarm-im-wissenschafts-check-all-das-gibt-es-wirklich-a-f5ee0dc7-febc-42ba-a082-75699c20ab0c#ref=rss)
-### schätzings
+* [https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos](https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos-a-e6a66800-1d2f-48c6-b530-f6432cdbf76f#ref=rss)
+* [https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast](https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast-a-e527f4f2-f64a-40a2-92f6-431994bd3d3c#ref=rss)
+### kurz
 
-* [https://www.spiegel.de/wissenschaft/natur/frank-schaetzings-der-schwarm-im-wissenschafts-check-all-das-gibt-es-wirklich](https://www.spiegel.de/wissenschaft/natur/frank-schaetzings-der-schwarm-im-wissenschafts-check-all-das-gibt-es-wirklich-a-f5ee0dc7-febc-42ba-a082-75699c20ab0c#ref=rss)
-### bruce
+* [https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos](https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos-a-e6a66800-1d2f-48c6-b530-f6432cdbf76f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern](https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern-a-549e8cca-04f2-47ce-9ecb-51b5a8051e30#ref=rss)
+### wahlen
 
-* [https://www.spiegel.de/kultur/kino/bruce-willis-hat-demenz-das-ende-der-feinrippigen-maennlichkeit](https://www.spiegel.de/kultur/kino/bruce-willis-hat-demenz-das-ende-der-feinrippigen-maennlichkeit-a-5b059c8a-18c4-4511-aa94-fe3f8eb41f98#ref=rss)
-### willis
+* [https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos](https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos-a-e6a66800-1d2f-48c6-b530-f6432cdbf76f#ref=rss)
+* [https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast](https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast-a-e527f4f2-f64a-40a2-92f6-431994bd3d3c#ref=rss)
+### news
 
-* [https://www.spiegel.de/kultur/kino/bruce-willis-hat-demenz-das-ende-der-feinrippigen-maennlichkeit](https://www.spiegel.de/kultur/kino/bruce-willis-hat-demenz-das-ende-der-feinrippigen-maennlichkeit-a-5b059c8a-18c4-4511-aa94-fe3f8eb41f98#ref=rss)
-### deshalb
+* [https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos](https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos-a-e6a66800-1d2f-48c6-b530-f6432cdbf76f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger](https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger-a-5def09ac-d2c9-48e2-9855-8d2e2546cce4#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/kultur/kino/bruce-willis-hat-demenz-das-ende-der-feinrippigen-maennlichkeit](https://www.spiegel.de/kultur/kino/bruce-willis-hat-demenz-das-ende-der-feinrippigen-maennlichkeit-a-5b059c8a-18c4-4511-aa94-fe3f8eb41f98#ref=rss)
-### geld
+* [https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos](https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos-a-e6a66800-1d2f-48c6-b530-f6432cdbf76f#ref=rss)
+* [https://www.spiegel.de/fitness/laufen-trotz-knieproblemen-das-kann-helfen-newsletter](https://www.spiegel.de/fitness/laufen-trotz-knieproblemen-das-kann-helfen-newsletter-a-867da9ce-e14e-4b24-904a-cfff9e347a58#ref=rss)
+### plötzlich
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine](https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine-a-32b275bb-2eb7-4d5f-a23d-999ab044688d#ref=rss)
-### fordert
+* [https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos](https://www.spiegel.de/ausland/nigeria-neue-waehrung-stuerzt-das-land-kurz-vor-wahlen-ins-chaos-a-e6a66800-1d2f-48c6-b530-f6432cdbf76f#ref=rss)
+* [https://www.spiegel.de/panorama/crimmitschau-in-zwickau-88-jaehrige-gerat-offenbar-wegen-niesanfall-in-den-gegenverkehr](https://www.spiegel.de/panorama/crimmitschau-in-zwickau-88-jaehrige-gerat-offenbar-wegen-niesanfall-in-den-gegenverkehr-a-a5fb2428-fa21-494c-a6dc-18e377e0ffa1#ref=rss)
+### david
 
-* [https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine](https://www.spiegel.de/politik/deutschland/boris-pistorius-verlangt-mehr-geld-wegen-waffenlieferungen-an-ukraine-a-32b275bb-2eb7-4d5f-a23d-999ab044688d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie](https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie-a-5667202e-314c-4015-8c59-2bc1df7b385a#ref=rss)
-### hubertus
+* [https://www.spiegel.de/ausland/david-petraeus-zum-ukraine-krieg-wir-haben-bei-den-panzern-zu-lange-gezoegert](https://www.spiegel.de/ausland/david-petraeus-zum-ukraine-krieg-wir-haben-bei-den-panzern-zu-lange-gezoegert-a-9fb14687-4b20-49f3-aa8b-4b05ab3dafa4#ref=rss)
+### petraeus
 
-* [https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie](https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie-a-5667202e-314c-4015-8c59-2bc1df7b385a#ref=rss)
-### heil
+* [https://www.spiegel.de/ausland/david-petraeus-zum-ukraine-krieg-wir-haben-bei-den-panzern-zu-lange-gezoegert](https://www.spiegel.de/ausland/david-petraeus-zum-ukraine-krieg-wir-haben-bei-den-panzern-zu-lange-gezoegert-a-9fb14687-4b20-49f3-aa8b-4b05ab3dafa4#ref=rss)
+### wir
 
-* [https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie](https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie-a-5667202e-314c-4015-8c59-2bc1df7b385a#ref=rss)
-### ausbildungsgarantie
+* [https://www.spiegel.de/ausland/david-petraeus-zum-ukraine-krieg-wir-haben-bei-den-panzern-zu-lange-gezoegert](https://www.spiegel.de/ausland/david-petraeus-zum-ukraine-krieg-wir-haben-bei-den-panzern-zu-lange-gezoegert-a-9fb14687-4b20-49f3-aa8b-4b05ab3dafa4#ref=rss)
+* [https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas](https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas-a-ec38bcfb-77c5-4766-baf7-eab52e7cb017#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie](https://www.spiegel.de/politik/deutschland/spd-jusos-kritisieren-hubertus-heil-wegen-ausbildungsgarantie-a-5667202e-314c-4015-8c59-2bc1df7b385a#ref=rss)
+* [https://www.spiegel.de/ausland/david-petraeus-zum-ukraine-krieg-wir-haben-bei-den-panzern-zu-lange-gezoegert](https://www.spiegel.de/ausland/david-petraeus-zum-ukraine-krieg-wir-haben-bei-den-panzern-zu-lange-gezoegert-a-9fb14687-4b20-49f3-aa8b-4b05ab3dafa4#ref=rss)
+* [https://www.spiegel.de/kultur/tv/cnn-moderator-don-lemon-empoert-mit-sexistischem-kommentar-beste-jahre-vorbei](https://www.spiegel.de/kultur/tv/cnn-moderator-don-lemon-empoert-mit-sexistischem-kommentar-beste-jahre-vorbei-a-334eb1db-49ca-4dea-9d86-e08f5cd79dc8#ref=rss)
+### bringen
+
+* [https://www.spiegel.de/ausland/david-petraeus-zum-ukraine-krieg-wir-haben-bei-den-panzern-zu-lange-gezoegert](https://www.spiegel.de/ausland/david-petraeus-zum-ukraine-krieg-wir-haben-bei-den-panzern-zu-lange-gezoegert-a-9fb14687-4b20-49f3-aa8b-4b05ab3dafa4#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet-a-c785dc43-b080-431e-a93e-42d4e742ef77#ref=rss)
+### betroffenen
+
+* [https://www.spiegel.de/wirtschaft/schlesinger-affaere-ehemaliger-rbb-verwaltungsdirektor-klagt-gegen-kuendigung](https://www.spiegel.de/wirtschaft/schlesinger-affaere-ehemaliger-rbb-verwaltungsdirektor-klagt-gegen-kuendigung-a-e3893c78-d7ec-4aad-ba31-0c9a87448bea#ref=rss)
+* [https://www.spiegel.de/netzwelt/twitter-bietet-kontosicherung-per-sms-nur-noch-zahlenden-kunden-an](https://www.spiegel.de/netzwelt/twitter-bietet-kontosicherung-per-sms-nur-noch-zahlenden-kunden-an-a-a19e4e18-eb6c-4a86-83e1-dc14790cf1ef#ref=rss)
+### fc
+
+* [https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern](https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern-a-549e8cca-04f2-47ce-9ecb-51b5a8051e30#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-spaetes-augsburger-tor-verschaerft-hoffenheimer-krise](https://www.spiegel.de/sport/fussball/fussball-bundesliga-spaetes-augsburger-tor-verschaerft-hoffenheimer-krise-a-9f6dd650-9b47-4417-a9c5-53b5981ae45d#ref=rss)
+### kaiserslautern
+
+* [https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern](https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern-a-549e8cca-04f2-47ce-9ecb-51b5a8051e30#ref=rss)
+### tim
+
+* [https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern](https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern-a-549e8cca-04f2-47ce-9ecb-51b5a8051e30#ref=rss)
+### sohn
+
+* [https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern](https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern-a-549e8cca-04f2-47ce-9ecb-51b5a8051e30#ref=rss)
+### erhält
+
+* [https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern](https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern-a-549e8cca-04f2-47ce-9ecb-51b5a8051e30#ref=rss)
+### tod
+
+* [https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern](https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern-a-549e8cca-04f2-47ce-9ecb-51b5a8051e30#ref=rss)
+### zuspruch
+
+* [https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern](https://www.spiegel.de/sport/fussball/1-fc-kaiserslautern-tim-lobingers-sohn-erhaelt-nach-tod-des-vaters-zuspruch-von-fans-und-mitspielern-a-549e8cca-04f2-47ce-9ecb-51b5a8051e30#ref=rss)
+### christian
+
+* [https://www.spiegel.de/sport/fussball/erdbeben-in-der-tuerkei-fussballprofi-christian-atsu-tot-aufgefunden](https://www.spiegel.de/sport/fussball/erdbeben-in-der-tuerkei-fussballprofi-christian-atsu-tot-aufgefunden-a-db29f498-fc15-4df6-85a2-9f9733fe1d11#ref=rss)
+### atsu
+
+* [https://www.spiegel.de/sport/fussball/erdbeben-in-der-tuerkei-fussballprofi-christian-atsu-tot-aufgefunden](https://www.spiegel.de/sport/fussball/erdbeben-in-der-tuerkei-fussballprofi-christian-atsu-tot-aufgefunden-a-db29f498-fc15-4df6-85a2-9f9733fe1d11#ref=rss)
+### schlimmsten
+
+* [https://www.spiegel.de/sport/fussball/erdbeben-in-der-tuerkei-fussballprofi-christian-atsu-tot-aufgefunden](https://www.spiegel.de/sport/fussball/erdbeben-in-der-tuerkei-fussballprofi-christian-atsu-tot-aufgefunden-a-db29f498-fc15-4df6-85a2-9f9733fe1d11#ref=rss)
+* [https://www.spiegel.de/karriere/gewalt-und-belaestigung-im-einzelhandel-sie-haben-doch-eh-keine-ahnung-sie-bloede-sau](https://www.spiegel.de/karriere/gewalt-und-belaestigung-im-einzelhandel-sie-haben-doch-eh-keine-ahnung-sie-bloede-sau-a-631053f7-4166-4fe3-87d6-f615857f661c#ref=rss)
+### zwickau
+
+* [https://www.spiegel.de/panorama/crimmitschau-in-zwickau-88-jaehrige-gerat-offenbar-wegen-niesanfall-in-den-gegenverkehr](https://www.spiegel.de/panorama/crimmitschau-in-zwickau-88-jaehrige-gerat-offenbar-wegen-niesanfall-in-den-gegenverkehr-a-a5fb2428-fa21-494c-a6dc-18e377e0ffa1#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/crimmitschau-in-zwickau-88-jaehrige-gerat-offenbar-wegen-niesanfall-in-den-gegenverkehr](https://www.spiegel.de/panorama/crimmitschau-in-zwickau-88-jaehrige-gerat-offenbar-wegen-niesanfall-in-den-gegenverkehr-a-a5fb2428-fa21-494c-a6dc-18e377e0ffa1#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet-a-c785dc43-b080-431e-a93e-42d4e742ef77#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/ausland/ein-jahr-ukraine-krieg-von-rueckkehr-zur-normalitaet-kann-keine-rede-sein](https://www.spiegel.de/ausland/ein-jahr-ukraine-krieg-von-rueckkehr-zur-normalitaet-kann-keine-rede-sein-a-996f4544-d3be-4d99-af8b-ce9e835f7480#ref=rss)
+### stadt
+
+* [https://www.spiegel.de/ausland/ein-jahr-ukraine-krieg-von-rueckkehr-zur-normalitaet-kann-keine-rede-sein](https://www.spiegel.de/ausland/ein-jahr-ukraine-krieg-von-rueckkehr-zur-normalitaet-kann-keine-rede-sein-a-996f4544-d3be-4d99-af8b-ce9e835f7480#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet-a-c785dc43-b080-431e-a93e-42d4e742ef77#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas](https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas-a-ec38bcfb-77c5-4766-baf7-eab52e7cb017#ref=rss)
+### sprechen
+
+* [https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas](https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas-a-ec38bcfb-77c5-4766-baf7-eab52e7cb017#ref=rss)
+* [https://www.spiegel.de/karriere/gewalt-und-belaestigung-im-einzelhandel-sie-haben-doch-eh-keine-ahnung-sie-bloede-sau](https://www.spiegel.de/karriere/gewalt-und-belaestigung-im-einzelhandel-sie-haben-doch-eh-keine-ahnung-sie-bloede-sau-a-631053f7-4166-4fe3-87d6-f615857f661c#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas](https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas-a-ec38bcfb-77c5-4766-baf7-eab52e7cb017#ref=rss)
+* [https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast](https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast-a-e527f4f2-f64a-40a2-92f6-431994bd3d3c#ref=rss)
+### rüdiger
+
+* [https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas](https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas-a-ec38bcfb-77c5-4766-baf7-eab52e7cb017#ref=rss)
+### maas
+
+* [https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas](https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas-a-ec38bcfb-77c5-4766-baf7-eab52e7cb017#ref=rss)
+### worte
+
+* [https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas](https://www.spiegel.de/familie/wie-koennen-wir-mit-kindern-ueber-krieg-und-krisen-sprechen-podcast-mit-ruediger-maas-a-ec38bcfb-77c5-4766-baf7-eab52e7cb017#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/200-euro-energiepauschale-fuer-studierende-von-stark-watzinger-gibt-es-nur-warme-worte-und-heisse-luft-kommentar](https://www.spiegel.de/panorama/bildung/200-euro-energiepauschale-fuer-studierende-von-stark-watzinger-gibt-es-nur-warme-worte-und-heisse-luft-kommentar-a-2496d9eb-0fc2-4907-bc07-f6ad6d4ce1ed#ref=rss)
+### twitter
+
+* [https://www.spiegel.de/netzwelt/twitter-bietet-kontosicherung-per-sms-nur-noch-zahlenden-kunden-an](https://www.spiegel.de/netzwelt/twitter-bietet-kontosicherung-per-sms-nur-noch-zahlenden-kunden-an-a-a19e4e18-eb6c-4a86-83e1-dc14790cf1ef#ref=rss)
+### kontosicherung
+
+* [https://www.spiegel.de/netzwelt/twitter-bietet-kontosicherung-per-sms-nur-noch-zahlenden-kunden-an](https://www.spiegel.de/netzwelt/twitter-bietet-kontosicherung-per-sms-nur-noch-zahlenden-kunden-an-a-a19e4e18-eb6c-4a86-83e1-dc14790cf1ef#ref=rss)
+### zahlenden
+
+* [https://www.spiegel.de/netzwelt/twitter-bietet-kontosicherung-per-sms-nur-noch-zahlenden-kunden-an](https://www.spiegel.de/netzwelt/twitter-bietet-kontosicherung-per-sms-nur-noch-zahlenden-kunden-an-a-a19e4e18-eb6c-4a86-83e1-dc14790cf1ef#ref=rss)
+### kunden
+
+* [https://www.spiegel.de/netzwelt/twitter-bietet-kontosicherung-per-sms-nur-noch-zahlenden-kunden-an](https://www.spiegel.de/netzwelt/twitter-bietet-kontosicherung-per-sms-nur-noch-zahlenden-kunden-an-a-a19e4e18-eb6c-4a86-83e1-dc14790cf1ef#ref=rss)
+* [https://www.spiegel.de/karriere/gewalt-und-belaestigung-im-einzelhandel-sie-haben-doch-eh-keine-ahnung-sie-bloede-sau](https://www.spiegel.de/karriere/gewalt-und-belaestigung-im-einzelhandel-sie-haben-doch-eh-keine-ahnung-sie-bloede-sau-a-631053f7-4166-4fe3-87d6-f615857f661c#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-tarifstreit-konzern-droht-mit-staerkerer-einbindung-von-fremdfirmen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-tarifstreit-konzern-droht-mit-staerkerer-einbindung-von-fremdfirmen-a-572357a9-f4fe-497a-b6fc-a83166efb607#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-commerzbank-ersetzt-linde](https://www.spiegel.de/wirtschaft/unternehmen/dax-commerzbank-ersetzt-linde-a-0639f78f-41dd-407d-8453-0983ed3246b0#ref=rss)
+### post
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-tarifstreit-konzern-droht-mit-staerkerer-einbindung-von-fremdfirmen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-tarifstreit-konzern-droht-mit-staerkerer-einbindung-von-fremdfirmen-a-572357a9-f4fe-497a-b6fc-a83166efb607#ref=rss)
+### droht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-tarifstreit-konzern-droht-mit-staerkerer-einbindung-von-fremdfirmen](https://www.spiegel.de/wirtschaft/unternehmen/deutsche-post-tarifstreit-konzern-droht-mit-staerkerer-einbindung-von-fremdfirmen-a-572357a9-f4fe-497a-b6fc-a83166efb607#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-staffeln-sollen-trotz-warnung-vor-sturmboeen-stattfinden](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-staffeln-sollen-trotz-warnung-vor-sturmboeen-stattfinden-a-98b5fa00-7b72-43bb-ae08-79466636ce5c#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen-a-ce5276eb-ce62-47da-994f-aad61e703373#ref=rss)
+### staffeln
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-staffeln-sollen-trotz-warnung-vor-sturmboeen-stattfinden](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-staffeln-sollen-trotz-warnung-vor-sturmboeen-stattfinden-a-98b5fa00-7b72-43bb-ae08-79466636ce5c#ref=rss)
+### erwartet
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-staffeln-sollen-trotz-warnung-vor-sturmboeen-stattfinden](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-staffeln-sollen-trotz-warnung-vor-sturmboeen-stattfinden-a-98b5fa00-7b72-43bb-ae08-79466636ce5c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger](https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger-a-5def09ac-d2c9-48e2-9855-8d2e2546cce4#ref=rss)
+### oliver
+
+* [https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln](https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln-a-2a255e7a-cfe4-4537-beff-0d2da6ddc53e#ref=rss)
+### schaffer
+
+* [https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln](https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln-a-2a255e7a-cfe4-4537-beff-0d2da6ddc53e#ref=rss)
+### fast
+
+* [https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln](https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln-a-2a255e7a-cfe4-4537-beff-0d2da6ddc53e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-commerzbank-ersetzt-linde](https://www.spiegel.de/wirtschaft/unternehmen/dax-commerzbank-ersetzt-linde-a-0639f78f-41dd-407d-8453-0983ed3246b0#ref=rss)
+### alle
+
+* [https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln](https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln-a-2a255e7a-cfe4-4537-beff-0d2da6ddc53e#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen-a-ce5276eb-ce62-47da-994f-aad61e703373#ref=rss)
+### million
+
+* [https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln](https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln-a-2a255e7a-cfe4-4537-beff-0d2da6ddc53e#ref=rss)
+* [https://www.spiegel.de/fitness/laufen-trotz-knieproblemen-das-kann-helfen-newsletter](https://www.spiegel.de/fitness/laufen-trotz-knieproblemen-das-kann-helfen-newsletter-a-867da9ce-e14e-4b24-904a-cfff9e347a58#ref=rss)
+### sagt
+
+* [https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln](https://www.spiegel.de/familie/spielzeug-aussteller-oliver-schaffer-ich-liebe-playmobil-weil-fast-alle-figuren-laecheln-a-2a255e7a-cfe4-4537-beff-0d2da6ddc53e#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-ben-wallace-es-wird-keine-schnellen-kampfjet-lieferungen-geben](https://www.spiegel.de/ausland/ukraine-krieg-ben-wallace-es-wird-keine-schnellen-kampfjet-lieferungen-geben-a-d2da5907-fb66-4a6d-ad97-099050bf8bf3#ref=rss)
+### studierende
+
+* [https://www.spiegel.de/panorama/bildung/200-euro-energiepauschale-fuer-studierende-von-stark-watzinger-gibt-es-nur-warme-worte-und-heisse-luft-kommentar](https://www.spiegel.de/panorama/bildung/200-euro-energiepauschale-fuer-studierende-von-stark-watzinger-gibt-es-nur-warme-worte-und-heisse-luft-kommentar-a-2496d9eb-0fc2-4907-bc07-f6ad6d4ce1ed#ref=rss)
+### starkwatzinger
+
+* [https://www.spiegel.de/panorama/bildung/200-euro-energiepauschale-fuer-studierende-von-stark-watzinger-gibt-es-nur-warme-worte-und-heisse-luft-kommentar](https://www.spiegel.de/panorama/bildung/200-euro-energiepauschale-fuer-studierende-von-stark-watzinger-gibt-es-nur-warme-worte-und-heisse-luft-kommentar-a-2496d9eb-0fc2-4907-bc07-f6ad6d4ce1ed#ref=rss)
+### kommentar
+
+* [https://www.spiegel.de/panorama/bildung/200-euro-energiepauschale-fuer-studierende-von-stark-watzinger-gibt-es-nur-warme-worte-und-heisse-luft-kommentar](https://www.spiegel.de/panorama/bildung/200-euro-energiepauschale-fuer-studierende-von-stark-watzinger-gibt-es-nur-warme-worte-und-heisse-luft-kommentar-a-2496d9eb-0fc2-4907-bc07-f6ad6d4ce1ed#ref=rss)
+* [https://www.spiegel.de/kultur/tv/cnn-moderator-don-lemon-empoert-mit-sexistischem-kommentar-beste-jahre-vorbei](https://www.spiegel.de/kultur/tv/cnn-moderator-don-lemon-empoert-mit-sexistischem-kommentar-beste-jahre-vorbei-a-334eb1db-49ca-4dea-9d86-e08f5cd79dc8#ref=rss)
+### 200
+
+* [https://www.spiegel.de/panorama/bildung/200-euro-energiepauschale-fuer-studierende-von-stark-watzinger-gibt-es-nur-warme-worte-und-heisse-luft-kommentar](https://www.spiegel.de/panorama/bildung/200-euro-energiepauschale-fuer-studierende-von-stark-watzinger-gibt-es-nur-warme-worte-und-heisse-luft-kommentar-a-2496d9eb-0fc2-4907-bc07-f6ad6d4ce1ed#ref=rss)
+* [https://www.spiegel.de/sport/katar-will-manchester-united-kaufen](https://www.spiegel.de/sport/katar-will-manchester-united-kaufen-a-11c35892-8ad3-4e60-b100-bc719f4b86a2#ref=rss)
+### russische
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet-a-c785dc43-b080-431e-a93e-42d4e742ef77#ref=rss)
+### getötet
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet](https://www.spiegel.de/ausland/ukraine-krieg-offenbar-mehr-als-30-000-russische-wagner-soeldner-verletzt-oder-getoetet-a-c785dc43-b080-431e-a93e-42d4e742ef77#ref=rss)
+* [https://www.spiegel.de/ausland/syrien-mindestens-53-tote-nach-anschlag-der-terrororganisation-islamischer-staat](https://www.spiegel.de/ausland/syrien-mindestens-53-tote-nach-anschlag-der-terrororganisation-islamischer-staat-a-3b8f7940-4fb9-428d-b0db-db30f7de1334#ref=rss)
+### einzelhandel
+
+* [https://www.spiegel.de/karriere/gewalt-und-belaestigung-im-einzelhandel-sie-haben-doch-eh-keine-ahnung-sie-bloede-sau](https://www.spiegel.de/karriere/gewalt-und-belaestigung-im-einzelhandel-sie-haben-doch-eh-keine-ahnung-sie-bloede-sau-a-631053f7-4166-4fe3-87d6-f615857f661c#ref=rss)
+### gut
+
+* [https://www.spiegel.de/karriere/gewalt-und-belaestigung-im-einzelhandel-sie-haben-doch-eh-keine-ahnung-sie-bloede-sau](https://www.spiegel.de/karriere/gewalt-und-belaestigung-im-einzelhandel-sie-haben-doch-eh-keine-ahnung-sie-bloede-sau-a-631053f7-4166-4fe3-87d6-f615857f661c#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen-a-ce5276eb-ce62-47da-994f-aad61e703373#ref=rss)
+### hubert
+
+* [https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger](https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger-a-5def09ac-d2c9-48e2-9855-8d2e2546cce4#ref=rss)
+### aiwanger
+
+* [https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger](https://www.spiegel.de/politik/deutschland/news-waffenfrage-auf-muenchner-sicherheitskonferenz-demos-von-querdenkern-und-ukraine-unterstuetzern-soeders-existenzsicherung-hubert-aiwanger-a-5def09ac-d2c9-48e2-9855-8d2e2546cce4#ref=rss)
+### leiden
+
+* [https://www.spiegel.de/reise/staedte/leiden-in-suedholland-ein-gefuehl-wie-in-amsterdam-nur-entspannter](https://www.spiegel.de/reise/staedte/leiden-in-suedholland-ein-gefuehl-wie-in-amsterdam-nur-entspannter-a-cd855b22-b2d9-416b-95cd-f8bfe16eabbc#ref=rss)
+### amsterdam
+
+* [https://www.spiegel.de/reise/staedte/leiden-in-suedholland-ein-gefuehl-wie-in-amsterdam-nur-entspannter](https://www.spiegel.de/reise/staedte/leiden-in-suedholland-ein-gefuehl-wie-in-amsterdam-nur-entspannter-a-cd855b22-b2d9-416b-95cd-f8bfe16eabbc#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/reise/staedte/leiden-in-suedholland-ein-gefuehl-wie-in-amsterdam-nur-entspannter](https://www.spiegel.de/reise/staedte/leiden-in-suedholland-ein-gefuehl-wie-in-amsterdam-nur-entspannter-a-cd855b22-b2d9-416b-95cd-f8bfe16eabbc#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-commerzbank-ersetzt-linde](https://www.spiegel.de/wirtschaft/unternehmen/dax-commerzbank-ersetzt-linde-a-0639f78f-41dd-407d-8453-0983ed3246b0#ref=rss)
+### neid
+
+* [https://www.spiegel.de/start/neidisch-auf-freunde-psychologe-erklaert-warum-neid-normal-ist-und-was-dagegen-hilft](https://www.spiegel.de/start/neidisch-auf-freunde-psychologe-erklaert-warum-neid-normal-ist-und-was-dagegen-hilft-a-2a8ef25d-4bed-4763-a608-a3f55a515611#ref=rss)
+### dagegen
+
+* [https://www.spiegel.de/start/neidisch-auf-freunde-psychologe-erklaert-warum-neid-normal-ist-und-was-dagegen-hilft](https://www.spiegel.de/start/neidisch-auf-freunde-psychologe-erklaert-warum-neid-normal-ist-und-was-dagegen-hilft-a-2a8ef25d-4bed-4763-a608-a3f55a515611#ref=rss)
+* [https://www.spiegel.de/fitness/laufen-trotz-knieproblemen-das-kann-helfen-newsletter](https://www.spiegel.de/fitness/laufen-trotz-knieproblemen-das-kann-helfen-newsletter-a-867da9ce-e14e-4b24-904a-cfff9e347a58#ref=rss)
+### beste
+
+* [https://www.spiegel.de/start/neidisch-auf-freunde-psychologe-erklaert-warum-neid-normal-ist-und-was-dagegen-hilft](https://www.spiegel.de/start/neidisch-auf-freunde-psychologe-erklaert-warum-neid-normal-ist-und-was-dagegen-hilft-a-2a8ef25d-4bed-4763-a608-a3f55a515611#ref=rss)
+* [https://www.spiegel.de/kultur/tv/cnn-moderator-don-lemon-empoert-mit-sexistischem-kommentar-beste-jahre-vorbei](https://www.spiegel.de/kultur/tv/cnn-moderator-don-lemon-empoert-mit-sexistischem-kommentar-beste-jahre-vorbei-a-334eb1db-49ca-4dea-9d86-e08f5cd79dc8#ref=rss)
+### ben
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-ben-wallace-es-wird-keine-schnellen-kampfjet-lieferungen-geben](https://www.spiegel.de/ausland/ukraine-krieg-ben-wallace-es-wird-keine-schnellen-kampfjet-lieferungen-geben-a-d2da5907-fb66-4a6d-ad97-099050bf8bf3#ref=rss)
+### wallace
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-ben-wallace-es-wird-keine-schnellen-kampfjet-lieferungen-geben](https://www.spiegel.de/ausland/ukraine-krieg-ben-wallace-es-wird-keine-schnellen-kampfjet-lieferungen-geben-a-d2da5907-fb66-4a6d-ad97-099050bf8bf3#ref=rss)
+### knieproblemen
+
+* [https://www.spiegel.de/fitness/laufen-trotz-knieproblemen-das-kann-helfen-newsletter](https://www.spiegel.de/fitness/laufen-trotz-knieproblemen-das-kann-helfen-newsletter-a-867da9ce-e14e-4b24-904a-cfff9e347a58#ref=rss)
+### johannes
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen-a-ce5276eb-ce62-47da-994f-aad61e703373#ref=rss)
+### thingnes
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen-a-ce5276eb-ce62-47da-994f-aad61e703373#ref=rss)
+### macht
+
+* [https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen](https://www.spiegel.de/sport/wintersport/biathlon-wm-2023-warum-johannes-boe-sogar-noch-besser-ist-als-ole-einar-bjoerndalen-a-ce5276eb-ce62-47da-994f-aad61e703373#ref=rss)
+* [https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast](https://www.spiegel.de/politik/wochenrueckblick-storykillers-erdbeben-in-der-tuerkei-chinas-neue-seidenstrasse-podcast-a-e527f4f2-f64a-40a2-92f6-431994bd3d3c#ref=rss)
+### cnnmoderator
+
+* [https://www.spiegel.de/kultur/tv/cnn-moderator-don-lemon-empoert-mit-sexistischem-kommentar-beste-jahre-vorbei](https://www.spiegel.de/kultur/tv/cnn-moderator-don-lemon-empoert-mit-sexistischem-kommentar-beste-jahre-vorbei-a-334eb1db-49ca-4dea-9d86-e08f5cd79dc8#ref=rss)
+### don
+
+* [https://www.spiegel.de/kultur/tv/cnn-moderator-don-lemon-empoert-mit-sexistischem-kommentar-beste-jahre-vorbei](https://www.spiegel.de/kultur/tv/cnn-moderator-don-lemon-empoert-mit-sexistischem-kommentar-beste-jahre-vorbei-a-334eb1db-49ca-4dea-9d86-e08f5cd79dc8#ref=rss)
+### lemon
+
+* [https://www.spiegel.de/kultur/tv/cnn-moderator-don-lemon-empoert-mit-sexistischem-kommentar-beste-jahre-vorbei](https://www.spiegel.de/kultur/tv/cnn-moderator-don-lemon-empoert-mit-sexistischem-kommentar-beste-jahre-vorbei-a-334eb1db-49ca-4dea-9d86-e08f5cd79dc8#ref=rss)
+### dax
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-commerzbank-ersetzt-linde](https://www.spiegel.de/wirtschaft/unternehmen/dax-commerzbank-ersetzt-linde-a-0639f78f-41dd-407d-8453-0983ed3246b0#ref=rss)
+### commerzbank
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/dax-commerzbank-ersetzt-linde](https://www.spiegel.de/wirtschaft/unternehmen/dax-commerzbank-ersetzt-linde-a-0639f78f-41dd-407d-8453-0983ed3246b0#ref=rss)
+### syrien
+
+* [https://www.spiegel.de/ausland/syrien-mindestens-53-tote-nach-anschlag-der-terrororganisation-islamischer-staat](https://www.spiegel.de/ausland/syrien-mindestens-53-tote-nach-anschlag-der-terrororganisation-islamischer-staat-a-3b8f7940-4fb9-428d-b0db-db30f7de1334#ref=rss)
+### anschlag
+
+* [https://www.spiegel.de/ausland/syrien-mindestens-53-tote-nach-anschlag-der-terrororganisation-islamischer-staat](https://www.spiegel.de/ausland/syrien-mindestens-53-tote-nach-anschlag-der-terrororganisation-islamischer-staat-a-3b8f7940-4fb9-428d-b0db-db30f7de1334#ref=rss)
+### terrororganisation
+
+* [https://www.spiegel.de/ausland/syrien-mindestens-53-tote-nach-anschlag-der-terrororganisation-islamischer-staat](https://www.spiegel.de/ausland/syrien-mindestens-53-tote-nach-anschlag-der-terrororganisation-islamischer-staat-a-3b8f7940-4fb9-428d-b0db-db30f7de1334#ref=rss)
+### katar
+
+* [https://www.spiegel.de/sport/katar-will-manchester-united-kaufen](https://www.spiegel.de/sport/katar-will-manchester-united-kaufen-a-11c35892-8ad3-4e60-b100-bc719f4b86a2#ref=rss)
+### manchester
+
+* [https://www.spiegel.de/sport/katar-will-manchester-united-kaufen](https://www.spiegel.de/sport/katar-will-manchester-united-kaufen-a-11c35892-8ad3-4e60-b100-bc719f4b86a2#ref=rss)
+### united
+
+* [https://www.spiegel.de/sport/katar-will-manchester-united-kaufen](https://www.spiegel.de/sport/katar-will-manchester-united-kaufen-a-11c35892-8ad3-4e60-b100-bc719f4b86a2#ref=rss)
+### kaufen
+
+* [https://www.spiegel.de/sport/katar-will-manchester-united-kaufen](https://www.spiegel.de/sport/katar-will-manchester-united-kaufen-a-11c35892-8ad3-4e60-b100-bc719f4b86a2#ref=rss)
 
