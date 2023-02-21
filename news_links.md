@@ -4,317 +4,351 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### joe
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln-a-468212ac-d7ff-48cb-b53a-e03697c7137d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte](https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte-a-8d03dfaf-0e95-4678-9499-943fdddb3e63#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen](https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen-a-1321d32b-b900-4d0a-9154-6e56229ea653#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-zu-besuch-bei-wolodymyr-selenskyj-in-kiew-die-bilder-des-besuchs](https://www.spiegel.de/ausland/joe-biden-zu-besuch-bei-wolodymyr-selenskyj-in-kiew-die-bilder-des-besuchs-a-27bba310-31ba-437c-a22d-03a05dcd3d8f#ref=rss)
-### biden
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln-a-468212ac-d7ff-48cb-b53a-e03697c7137d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte](https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte-a-8d03dfaf-0e95-4678-9499-943fdddb3e63#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen](https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen-a-1321d32b-b900-4d0a-9154-6e56229ea653#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-zu-besuch-bei-wolodymyr-selenskyj-in-kiew-die-bilder-des-besuchs](https://www.spiegel.de/ausland/joe-biden-zu-besuch-bei-wolodymyr-selenskyj-in-kiew-die-bilder-des-besuchs-a-27bba310-31ba-437c-a22d-03a05dcd3d8f#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/cloppenburg-zwei-alpakas-in-niedersachsen-gestohlen](https://www.spiegel.de/panorama/justiz/cloppenburg-zwei-alpakas-in-niedersachsen-gestohlen-a-fe3650a0-91a1-4feb-8558-9e115075e738#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/karneval-warum-zwei-traditionskneipen-in-koeln-den-strassenkarneval-auslassen](https://www.spiegel.de/panorama/gesellschaft/karneval-warum-zwei-traditionskneipen-in-koeln-den-strassenkarneval-auslassen-a-3a2efb7e-9efb-4d33-8ffe-255e1f76f5a0#ref=rss)
-* [https://www.spiegel.de/panorama/bremen-jugendliche-pruegeln-auf-strassenbahnfahrer-ein](https://www.spiegel.de/panorama/bremen-jugendliche-pruegeln-auf-strassenbahnfahrer-ein-a-2af47c78-6791-4534-b9db-3b8982544d21#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-tochter-keba-wird-von-ver-di-bestreikt-beschaeftigte-zweiter-klasse](https://www.spiegel.de/wirtschaft/deutsche-bank-tochter-keba-wird-von-ver-di-bestreikt-beschaeftigte-zweiter-klasse-a-30dc3b5c-fbf0-4cc7-b2a4-dc135e350989#ref=rss)
-### kiew
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln-a-468212ac-d7ff-48cb-b53a-e03697c7137d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte](https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte-a-8d03dfaf-0e95-4678-9499-943fdddb3e63#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen](https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen-a-1321d32b-b900-4d0a-9154-6e56229ea653#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-zu-besuch-bei-wolodymyr-selenskyj-in-kiew-die-bilder-des-besuchs](https://www.spiegel.de/ausland/joe-biden-zu-besuch-bei-wolodymyr-selenskyj-in-kiew-die-bilder-des-besuchs-a-27bba310-31ba-437c-a22d-03a05dcd3d8f#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte](https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte-a-8d03dfaf-0e95-4678-9499-943fdddb3e63#ref=rss)
-* [https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben](https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben-a-6586e40d-6ca7-4006-951f-be5e5d844373#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jena-bundesanwaltschaft-klagt-mutmassliche-is-rueckkehrerin-an](https://www.spiegel.de/panorama/justiz/jena-bundesanwaltschaft-klagt-mutmassliche-is-rueckkehrerin-an-a-a7c9d18d-2edb-40e0-b14d-7e2d198105c5#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aeussert-sich-zurueckhaltend-zu-macron-vorschlag-fuer-atomare-abschreckung](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aeussert-sich-zurueckhaltend-zu-macron-vorschlag-fuer-atomare-abschreckung-a-078e1d0e-1904-451f-b081-496a05de5273#ref=rss)
-### erdbeben
-
-* [https://www.spiegel.de/panorama/gesellschaft/erdbeben-grenzgebiet-zwischen-syrien-und-der-tuerkei-erneut-getroffen-staerke-von-6-3](https://www.spiegel.de/panorama/gesellschaft/erdbeben-grenzgebiet-zwischen-syrien-und-der-tuerkei-erneut-getroffen-staerke-von-6-3-a-f94982e7-68fe-4970-9283-cdd80006bf74#ref=rss)
-* [https://www.spiegel.de/ausland/istanbuls-buergermeister-ekrem-imamoglu-diese-katastrophe-kann-zu-einem-wendepunkt-werden](https://www.spiegel.de/ausland/istanbuls-buergermeister-ekrem-imamoglu-diese-katastrophe-kann-zu-einem-wendepunkt-werden-a-ef6b870c-ada3-4864-95f2-b45336e12bf6#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/erdbeben-in-der-tuerkei-kurdische-funktionaere-fuehlen-sich-bei-trauerfeier-in-berlin-ausgeschlossen](https://www.spiegel.de/panorama/gesellschaft/erdbeben-in-der-tuerkei-kurdische-funktionaere-fuehlen-sich-bei-trauerfeier-in-berlin-ausgeschlossen-a-9e29f8f4-e651-43d4-942f-83b4ca7e9658#ref=rss)
-### syrien
-
-* [https://www.spiegel.de/panorama/gesellschaft/erdbeben-grenzgebiet-zwischen-syrien-und-der-tuerkei-erneut-getroffen-staerke-von-6-3](https://www.spiegel.de/panorama/gesellschaft/erdbeben-grenzgebiet-zwischen-syrien-und-der-tuerkei-erneut-getroffen-staerke-von-6-3-a-f94982e7-68fe-4970-9283-cdd80006bf74#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jena-bundesanwaltschaft-klagt-mutmassliche-is-rueckkehrerin-an](https://www.spiegel.de/panorama/justiz/jena-bundesanwaltschaft-klagt-mutmassliche-is-rueckkehrerin-an-a-a7c9d18d-2edb-40e0-b14d-7e2d198105c5#ref=rss)
-### türkei
-
-* [https://www.spiegel.de/panorama/gesellschaft/erdbeben-grenzgebiet-zwischen-syrien-und-der-tuerkei-erneut-getroffen-staerke-von-6-3](https://www.spiegel.de/panorama/gesellschaft/erdbeben-grenzgebiet-zwischen-syrien-und-der-tuerkei-erneut-getroffen-staerke-von-6-3-a-f94982e7-68fe-4970-9283-cdd80006bf74#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/erdbeben-in-der-tuerkei-kurdische-funktionaere-fuehlen-sich-bei-trauerfeier-in-berlin-ausgeschlossen](https://www.spiegel.de/panorama/gesellschaft/erdbeben-in-der-tuerkei-kurdische-funktionaere-fuehlen-sich-bei-trauerfeier-in-berlin-ausgeschlossen-a-9e29f8f4-e651-43d4-942f-83b4ca7e9658#ref=rss)
-### schwer
-
-* [https://www.spiegel.de/panorama/gesellschaft/erdbeben-grenzgebiet-zwischen-syrien-und-der-tuerkei-erneut-getroffen-staerke-von-6-3](https://www.spiegel.de/panorama/gesellschaft/erdbeben-grenzgebiet-zwischen-syrien-und-der-tuerkei-erneut-getroffen-staerke-von-6-3-a-f94982e7-68fe-4970-9283-cdd80006bf74#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen](https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen-a-7837cde6-11ad-4c5e-9de9-438e0b2be755#ref=rss)
-### bürgermeister
-
-* [https://www.spiegel.de/ausland/istanbuls-buergermeister-ekrem-imamoglu-diese-katastrophe-kann-zu-einem-wendepunkt-werden](https://www.spiegel.de/ausland/istanbuls-buergermeister-ekrem-imamoglu-diese-katastrophe-kann-zu-einem-wendepunkt-werden-a-ef6b870c-ada3-4864-95f2-b45336e12bf6#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen](https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen-a-1321d32b-b900-4d0a-9154-6e56229ea653#ref=rss)
-### köln
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln-a-468212ac-d7ff-48cb-b53a-e03697c7137d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/karneval-warum-zwei-traditionskneipen-in-koeln-den-strassenkarneval-auslassen](https://www.spiegel.de/panorama/gesellschaft/karneval-warum-zwei-traditionskneipen-in-koeln-den-strassenkarneval-auslassen-a-3a2efb7e-9efb-4d33-8ffe-255e1f76f5a0#ref=rss)
-### uspräsident
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln-a-468212ac-d7ff-48cb-b53a-e03697c7137d#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen](https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen-a-1321d32b-b900-4d0a-9154-6e56229ea653#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-zu-besuch-bei-wolodymyr-selenskyj-in-kiew-die-bilder-des-besuchs](https://www.spiegel.de/ausland/joe-biden-zu-besuch-bei-wolodymyr-selenskyj-in-kiew-die-bilder-des-besuchs-a-27bba310-31ba-437c-a22d-03a05dcd3d8f#ref=rss)
-### karneval
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln-a-468212ac-d7ff-48cb-b53a-e03697c7137d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/karneval-warum-zwei-traditionskneipen-in-koeln-den-strassenkarneval-auslassen](https://www.spiegel.de/panorama/gesellschaft/karneval-warum-zwei-traditionskneipen-in-koeln-den-strassenkarneval-auslassen-a-3a2efb7e-9efb-4d33-8ffe-255e1f76f5a0#ref=rss)
-### besuch
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte](https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte-a-8d03dfaf-0e95-4678-9499-943fdddb3e63#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-zu-besuch-bei-wolodymyr-selenskyj-in-kiew-die-bilder-des-besuchs](https://www.spiegel.de/ausland/joe-biden-zu-besuch-bei-wolodymyr-selenskyj-in-kiew-die-bilder-des-besuchs-a-27bba310-31ba-437c-a22d-03a05dcd3d8f#ref=rss)
-### mutter
-
-* [https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben](https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben-a-6586e40d-6ca7-4006-951f-be5e5d844373#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schweinfurt-stiefvater-missbrauchte-minderjaehrige-und-zwang-sie-zur-prostitution](https://www.spiegel.de/panorama/justiz/schweinfurt-stiefvater-missbrauchte-minderjaehrige-und-zwang-sie-zur-prostitution-a-f0e49899-12c8-42d2-b043-7e10b6063015#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht](https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht-a-f953d084-59cd-4bc6-9171-f9ea8fbf2dab#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aeussert-sich-zurueckhaltend-zu-macron-vorschlag-fuer-atomare-abschreckung](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aeussert-sich-zurueckhaltend-zu-macron-vorschlag-fuer-atomare-abschreckung-a-078e1d0e-1904-451f-b081-496a05de5273#ref=rss)
-### tag
-
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fledermauskoettel-auf-terrasse-kein-grund-fuer-mietminderung](https://www.spiegel.de/wirtschaft/fledermauskoettel-auf-terrasse-kein-grund-fuer-mietminderung-a-6372540b-1625-4c60-ba03-cd762958662f#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie](https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie-a-0fcac0e0-5204-4dcb-8d40-cac9c654a0dc#ref=rss)
-* [https://www.spiegel.de/ausland/niederlaendische-geheimdienste-russisches-schiff-nahm-windparks-in-der-nordsee-ins-visier](https://www.spiegel.de/ausland/niederlaendische-geheimdienste-russisches-schiff-nahm-windparks-in-der-nordsee-ins-visier-a-8b13da7b-998f-4e80-92e1-b0ab3f64e724#ref=rss)
-### großen
-
-* [https://www.spiegel.de/politik/deutschland/atom-abkommen-plan-b-gesucht](https://www.spiegel.de/politik/deutschland/atom-abkommen-plan-b-gesucht-a-c9d5a3ba-ae80-4387-aac6-03c260f31e7a#ref=rss)
-* [https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht](https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht-a-f953d084-59cd-4bc6-9171-f9ea8fbf2dab#ref=rss)
-### grenzgebiet
-
-* [https://www.spiegel.de/panorama/gesellschaft/erdbeben-grenzgebiet-zwischen-syrien-und-der-tuerkei-erneut-getroffen-staerke-von-6-3](https://www.spiegel.de/panorama/gesellschaft/erdbeben-grenzgebiet-zwischen-syrien-und-der-tuerkei-erneut-getroffen-staerke-von-6-3-a-f94982e7-68fe-4970-9283-cdd80006bf74#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/wirtschaft/hamburger-hafen-schlechte-geschaefte-2022](https://www.spiegel.de/wirtschaft/hamburger-hafen-schlechte-geschaefte-2022-a-e967ea4b-6cef-426b-82c8-e971b70f3ef2#ref=rss)
-### hafen
-
-* [https://www.spiegel.de/wirtschaft/hamburger-hafen-schlechte-geschaefte-2022](https://www.spiegel.de/wirtschaft/hamburger-hafen-schlechte-geschaefte-2022-a-e967ea4b-6cef-426b-82c8-e971b70f3ef2#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/wirtschaft/hamburger-hafen-schlechte-geschaefte-2022](https://www.spiegel.de/wirtschaft/hamburger-hafen-schlechte-geschaefte-2022-a-e967ea4b-6cef-426b-82c8-e971b70f3ef2#ref=rss)
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### klagt
-
-* [https://www.spiegel.de/wirtschaft/hamburger-hafen-schlechte-geschaefte-2022](https://www.spiegel.de/wirtschaft/hamburger-hafen-schlechte-geschaefte-2022-a-e967ea4b-6cef-426b-82c8-e971b70f3ef2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/jena-bundesanwaltschaft-klagt-mutmassliche-is-rueckkehrerin-an](https://www.spiegel.de/panorama/justiz/jena-bundesanwaltschaft-klagt-mutmassliche-is-rueckkehrerin-an-a-a7c9d18d-2edb-40e0-b14d-7e2d198105c5#ref=rss)
-### istanbuls
-
-* [https://www.spiegel.de/ausland/istanbuls-buergermeister-ekrem-imamoglu-diese-katastrophe-kann-zu-einem-wendepunkt-werden](https://www.spiegel.de/ausland/istanbuls-buergermeister-ekrem-imamoglu-diese-katastrophe-kann-zu-einem-wendepunkt-werden-a-ef6b870c-ada3-4864-95f2-b45336e12bf6#ref=rss)
-### ekrem
-
-* [https://www.spiegel.de/ausland/istanbuls-buergermeister-ekrem-imamoglu-diese-katastrophe-kann-zu-einem-wendepunkt-werden](https://www.spiegel.de/ausland/istanbuls-buergermeister-ekrem-imamoglu-diese-katastrophe-kann-zu-einem-wendepunkt-werden-a-ef6b870c-ada3-4864-95f2-b45336e12bf6#ref=rss)
-### i̇mamoğlu
-
-* [https://www.spiegel.de/ausland/istanbuls-buergermeister-ekrem-imamoglu-diese-katastrophe-kann-zu-einem-wendepunkt-werden](https://www.spiegel.de/ausland/istanbuls-buergermeister-ekrem-imamoglu-diese-katastrophe-kann-zu-einem-wendepunkt-werden-a-ef6b870c-ada3-4864-95f2-b45336e12bf6#ref=rss)
-### news
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln-a-468212ac-d7ff-48cb-b53a-e03697c7137d#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen](https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen-a-1321d32b-b900-4d0a-9154-6e56229ea653#ref=rss)
-### tesla
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln-a-468212ac-d7ff-48cb-b53a-e03697c7137d#ref=rss)
-### rosenmontag
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln-a-468212ac-d7ff-48cb-b53a-e03697c7137d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen](https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen-a-7837cde6-11ad-4c5e-9de9-438e0b2be755#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln-a-468212ac-d7ff-48cb-b53a-e03697c7137d#ref=rss)
-* [https://www.spiegel.de/ausland/joe-biden-zu-besuch-bei-wolodymyr-selenskyj-in-kiew-die-bilder-des-besuchs](https://www.spiegel.de/ausland/joe-biden-zu-besuch-bei-wolodymyr-selenskyj-in-kiew-die-bilder-des-besuchs-a-27bba310-31ba-437c-a22d-03a05dcd3d8f#ref=rss)
-### versucht
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln](https://www.spiegel.de/politik/deutschland/news-des-tages-joe-biden-in-kiew-tesla-und-elon-musk-rosenmontag-in-koeln-a-468212ac-d7ff-48cb-b53a-e03697c7137d#ref=rss)
-* [https://www.spiegel.de/ausland/niederlaendische-geheimdienste-russisches-schiff-nahm-windparks-in-der-nordsee-ins-visier](https://www.spiegel.de/ausland/niederlaendische-geheimdienste-russisches-schiff-nahm-windparks-in-der-nordsee-ins-visier-a-8b13da7b-998f-4e80-92e1-b0ab3f64e724#ref=rss)
-### reise
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte](https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte-a-8d03dfaf-0e95-4678-9499-943fdddb3e63#ref=rss)
-### mitarbeiter
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte](https://www.spiegel.de/ausland/ukraine-krieg-wie-joe-biden-unbemerkt-nach-kiew-gelangte-a-8d03dfaf-0e95-4678-9499-943fdddb3e63#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-tochter-keba-wird-von-ver-di-bestreikt-beschaeftigte-zweiter-klasse](https://www.spiegel.de/wirtschaft/deutsche-bank-tochter-keba-wird-von-ver-di-bestreikt-beschaeftigte-zweiter-klasse-a-30dc3b5c-fbf0-4cc7-b2a4-dc135e350989#ref=rss)
-### cloppenburg
-
-* [https://www.spiegel.de/panorama/justiz/cloppenburg-zwei-alpakas-in-niedersachsen-gestohlen](https://www.spiegel.de/panorama/justiz/cloppenburg-zwei-alpakas-in-niedersachsen-gestohlen-a-fe3650a0-91a1-4feb-8558-9e115075e738#ref=rss)
-### gestohlen
-
-* [https://www.spiegel.de/panorama/justiz/cloppenburg-zwei-alpakas-in-niedersachsen-gestohlen](https://www.spiegel.de/panorama/justiz/cloppenburg-zwei-alpakas-in-niedersachsen-gestohlen-a-fe3650a0-91a1-4feb-8558-9e115075e738#ref=rss)
-### hessen
-
-* [https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben](https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben-a-6586e40d-6ca7-4006-951f-be5e5d844373#ref=rss)
-### ich
-
-* [https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben](https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben-a-6586e40d-6ca7-4006-951f-be5e5d844373#ref=rss)
-* [https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht](https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht-a-f953d084-59cd-4bc6-9171-f9ea8fbf2dab#ref=rss)
-### leben
-
-* [https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben](https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben-a-6586e40d-6ca7-4006-951f-be5e5d844373#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen](https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen-a-1321d32b-b900-4d0a-9154-6e56229ea653#ref=rss)
-### schule
-
-* [https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben](https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben-a-6586e40d-6ca7-4006-951f-be5e5d844373#ref=rss)
-* [https://www.spiegel.de/ausland/afghanistan-streit-ueber-frauenrechte-taliban-gegen-taliban](https://www.spiegel.de/ausland/afghanistan-streit-ueber-frauenrechte-taliban-gegen-taliban-a-87b60fad-7b2f-48d2-a277-0aade549cab7#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben](https://www.spiegel.de/panorama/leute/migration-ukrainischer-schueler-in-hessen-ich-will-mein-ganzes-leben-in-deutschland-bleiben-a-6586e40d-6ca7-4006-951f-be5e5d844373#ref=rss)
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-in-der-kritik-uebersteht-der-trainer-das-jahr-beim-fc-bayern](https://www.spiegel.de/sport/fussball/julian-nagelsmann-in-der-kritik-uebersteht-der-trainer-das-jahr-beim-fc-bayern-a-02cad5fa-966d-4a73-a2f1-813fe52341dd#ref=rss)
-### netflixfilm
-
-* [https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht](https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht-a-f953d084-59cd-4bc6-9171-f9ea8fbf2dab#ref=rss)
-### westen
-
-* [https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht](https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht-a-f953d084-59cd-4bc6-9171-f9ea8fbf2dab#ref=rss)
-### neues
-
-* [https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht](https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht-a-f953d084-59cd-4bc6-9171-f9ea8fbf2dab#ref=rss)
 ### deutsche
 
-* [https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht](https://www.spiegel.de/kultur/netflix-film-im-westen-nichts-neues-warum-interessiert-mich-das-nicht-a-f953d084-59cd-4bc6-9171-f9ea8fbf2dab#ref=rss)
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-tochter-keba-wird-von-ver-di-bestreikt-beschaeftigte-zweiter-klasse](https://www.spiegel.de/wirtschaft/deutsche-bank-tochter-keba-wird-von-ver-di-bestreikt-beschaeftigte-zweiter-klasse-a-30dc3b5c-fbf0-4cc7-b2a4-dc135e350989#ref=rss)
-### traditionskneipen
+* [https://www.spiegel.de/wirtschaft/start-ups-wie-drei-deutsche-vom-wasserstoff-boom-in-oman-profitieren-wollen](https://www.spiegel.de/wirtschaft/start-ups-wie-drei-deutsche-vom-wasserstoff-boom-in-oman-profitieren-wollen-a-860995fd-80d2-4ac5-a65c-833a60141d02#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-2023-skispringen-langlauf-kombination-zeitplan-und-ergebnisse](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-2023-skispringen-langlauf-kombination-zeitplan-und-ergebnisse-a-047cb600-4096-4c36-86ac-2b3dfb34b168#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/eu-zerfall-wuerde-deutsche-wirtschaft-massiv-schwaechen](https://www.spiegel.de/wirtschaft/soziales/eu-zerfall-wuerde-deutsche-wirtschaft-massiv-schwaechen-a-91a3f0f2-42c0-4959-a371-a0ad52e14711#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft-a-a787636e-c738-4584-85c1-f0d35d94289c#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/panorama/gesellschaft/karneval-warum-zwei-traditionskneipen-in-koeln-den-strassenkarneval-auslassen](https://www.spiegel.de/panorama/gesellschaft/karneval-warum-zwei-traditionskneipen-in-koeln-den-strassenkarneval-auslassen-a-3a2efb7e-9efb-4d33-8ffe-255e1f76f5a0#ref=rss)
-### schweren
+* [https://www.spiegel.de/panorama/justiz/los-angeles-erschossener-weihbischof-polizei-nimmt-ehemann-der-haushaelterin-fest](https://www.spiegel.de/panorama/justiz/los-angeles-erschossener-weihbischof-polizei-nimmt-ehemann-der-haushaelterin-fest-a-54eeef44-526c-4cbc-afff-16db8fc059e8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/suedafrika-suche-nach-deutschem-touristen-in-kapstadt-geht-weiter](https://www.spiegel.de/panorama/justiz/suedafrika-suche-nach-deutschem-touristen-in-kapstadt-geht-weiter-a-4865ec19-0a07-4e85-bfe6-088a0a567613#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fulda-vier-verletzte-bei-messerattacken-nach-rosenmontagszug](https://www.spiegel.de/panorama/justiz/fulda-vier-verletzte-bei-messerattacken-nach-rosenmontagszug-a-7f984632-d357-45d8-a9c3-11fcaa43f948#ref=rss)
+### putin
 
-* [https://www.spiegel.de/panorama/gesellschaft/karneval-warum-zwei-traditionskneipen-in-koeln-den-strassenkarneval-auslassen](https://www.spiegel.de/panorama/gesellschaft/karneval-warum-zwei-traditionskneipen-in-koeln-den-strassenkarneval-auslassen-a-3a2efb7e-9efb-4d33-8ffe-255e1f76f5a0#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen](https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen-a-7837cde6-11ad-4c5e-9de9-438e0b2be755#ref=rss)
-### jena
+* [https://www.spiegel.de/ausland/russland-will-belarus-angeblich-bis-2030-schrittweise-unterwandern](https://www.spiegel.de/ausland/russland-will-belarus-angeblich-bis-2030-schrittweise-unterwandern-a-63541861-04d0-496b-bfb1-d6e788498fdf#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-gibt-erneut-dem-westen-die-schuld-am-krieg-in-der-ukraine](https://www.spiegel.de/ausland/wladimir-putin-gibt-erneut-dem-westen-die-schuld-am-krieg-in-der-ukraine-a-3f22808a-d37e-4c4f-ab38-512bc732a33e#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-zerstoerung-von-krankenhaeusern-und-schulen-nimmt-offenbar-zu](https://www.spiegel.de/ausland/russland-ukraine-news-heute-zerstoerung-von-krankenhaeusern-und-schulen-nimmt-offenbar-zu-a-0b030762-ddab-41d3-876a-f06032126517#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/panorama/justiz/jena-bundesanwaltschaft-klagt-mutmassliche-is-rueckkehrerin-an](https://www.spiegel.de/panorama/justiz/jena-bundesanwaltschaft-klagt-mutmassliche-is-rueckkehrerin-an-a-a7c9d18d-2edb-40e0-b14d-7e2d198105c5#ref=rss)
-### bundesanwaltschaft
+* [https://www.spiegel.de/ausland/wladimir-putin-gibt-erneut-dem-westen-die-schuld-am-krieg-in-der-ukraine](https://www.spiegel.de/ausland/wladimir-putin-gibt-erneut-dem-westen-die-schuld-am-krieg-in-der-ukraine-a-3f22808a-d37e-4c4f-ab38-512bc732a33e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar](https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar-a-44fa2c2e-82b1-4f86-be98-205c758838c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen](https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen-a-a8ab12f6-1392-4770-a3c5-1d4ca56e6150#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/justiz/jena-bundesanwaltschaft-klagt-mutmassliche-is-rueckkehrerin-an](https://www.spiegel.de/panorama/justiz/jena-bundesanwaltschaft-klagt-mutmassliche-is-rueckkehrerin-an-a-a7c9d18d-2edb-40e0-b14d-7e2d198105c5#ref=rss)
-### funktionäre
+* [https://www.spiegel.de/panorama/justiz/suedafrika-suche-nach-deutschem-touristen-in-kapstadt-geht-weiter](https://www.spiegel.de/panorama/justiz/suedafrika-suche-nach-deutschem-touristen-in-kapstadt-geht-weiter-a-4865ec19-0a07-4e85-bfe6-088a0a567613#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen](https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen-a-a8ab12f6-1392-4770-a3c5-1d4ca56e6150#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft-a-a787636e-c738-4584-85c1-f0d35d94289c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/immer-mehr-pflegebeduerftige-rutschen-in-die-sozialhilfe](https://www.spiegel.de/wirtschaft/soziales/immer-mehr-pflegebeduerftige-rutschen-in-die-sozialhilfe-a-c218be0b-e78e-4456-9574-e824544410b6#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/gesellschaft/erdbeben-in-der-tuerkei-kurdische-funktionaere-fuehlen-sich-bei-trauerfeier-in-berlin-ausgeschlossen](https://www.spiegel.de/panorama/gesellschaft/erdbeben-in-der-tuerkei-kurdische-funktionaere-fuehlen-sich-bei-trauerfeier-in-berlin-ausgeschlossen-a-9e29f8f4-e651-43d4-942f-83b4ca7e9658#ref=rss)
-### fühlen
+* [https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch](https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch-a-d176e9fc-9f5c-4fce-9975-1cd802824aee#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/tuerkei-bilder-nach-dem-erneuten-erdbeben](https://www.spiegel.de/panorama/gesellschaft/tuerkei-bilder-nach-dem-erneuten-erdbeben-a-9086b784-0179-4d7f-80f8-9a6a0343eb5d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fulda-vier-verletzte-bei-messerattacken-nach-rosenmontagszug](https://www.spiegel.de/panorama/justiz/fulda-vier-verletzte-bei-messerattacken-nach-rosenmontagszug-a-7f984632-d357-45d8-a9c3-11fcaa43f948#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/immer-mehr-pflegebeduerftige-rutschen-in-die-sozialhilfe](https://www.spiegel.de/wirtschaft/soziales/immer-mehr-pflegebeduerftige-rutschen-in-die-sozialhilfe-a-c218be0b-e78e-4456-9574-e824544410b6#ref=rss)
+### festgenommen
 
-* [https://www.spiegel.de/panorama/gesellschaft/erdbeben-in-der-tuerkei-kurdische-funktionaere-fuehlen-sich-bei-trauerfeier-in-berlin-ausgeschlossen](https://www.spiegel.de/panorama/gesellschaft/erdbeben-in-der-tuerkei-kurdische-funktionaere-fuehlen-sich-bei-trauerfeier-in-berlin-ausgeschlossen-a-9e29f8f4-e651-43d4-942f-83b4ca7e9658#ref=rss)
-### ausgeschlossen
+* [https://www.spiegel.de/panorama/justiz/los-angeles-erschossener-weihbischof-polizei-nimmt-ehemann-der-haushaelterin-fest](https://www.spiegel.de/panorama/justiz/los-angeles-erschossener-weihbischof-polizei-nimmt-ehemann-der-haushaelterin-fest-a-54eeef44-526c-4cbc-afff-16db8fc059e8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/simbabwe-robert-mugabe-junior-festgenommen](https://www.spiegel.de/panorama/justiz/simbabwe-robert-mugabe-junior-festgenommen-a-c45ec4c1-2f59-4bb4-bd40-c3cfc879a784#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fulda-vier-verletzte-bei-messerattacken-nach-rosenmontagszug](https://www.spiegel.de/panorama/justiz/fulda-vier-verletzte-bei-messerattacken-nach-rosenmontagszug-a-7f984632-d357-45d8-a9c3-11fcaa43f948#ref=rss)
+### studie
 
-* [https://www.spiegel.de/panorama/gesellschaft/erdbeben-in-der-tuerkei-kurdische-funktionaere-fuehlen-sich-bei-trauerfeier-in-berlin-ausgeschlossen](https://www.spiegel.de/panorama/gesellschaft/erdbeben-in-der-tuerkei-kurdische-funktionaere-fuehlen-sich-bei-trauerfeier-in-berlin-ausgeschlossen-a-9e29f8f4-e651-43d4-942f-83b4ca7e9658#ref=rss)
-### düsseldorfer
+* [https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt](https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt-a-ebb77ab7-ea66-4a38-8751-472826dc5e3c#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/zucker-in-limonade-so-schaedlich-sind-softdrinks-fuer-kinder-und-erwachsene](https://www.spiegel.de/gesundheit/ernaehrung/zucker-in-limonade-so-schaedlich-sind-softdrinks-fuer-kinder-und-erwachsene-a-adef6001-9d38-40b0-8d35-d1680eb523cf#ref=rss)
+### großbritannien
 
-* [https://www.spiegel.de/wissenschaft/medizin/wie-der-duesseldorfer-patient-von-hiv-geheilt-wurde](https://www.spiegel.de/wissenschaft/medizin/wie-der-duesseldorfer-patient-von-hiv-geheilt-wurde-a-3d788745-ef7b-457e-ba7c-e1370b87f23f#ref=rss)
-### hiv
+* [https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt](https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt-a-ebb77ab7-ea66-4a38-8751-472826dc5e3c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen](https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen-a-cd6296ed-4d41-4849-b1a8-be80615e7cb3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder](https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder-a-65fc21de-5ef9-4992-ba3b-adad2d398a59#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/wissenschaft/medizin/wie-der-duesseldorfer-patient-von-hiv-geheilt-wurde](https://www.spiegel.de/wissenschaft/medizin/wie-der-duesseldorfer-patient-von-hiv-geheilt-wurde-a-3d788745-ef7b-457e-ba7c-e1370b87f23f#ref=rss)
-### sichern
+* [https://www.spiegel.de/panorama/justiz/fall-anastasia-in-braunschweig-mitschueler-wegen-mordes-an-15-jaehriger-in-salzgitter-verurteilt](https://www.spiegel.de/panorama/justiz/fall-anastasia-in-braunschweig-mitschueler-wegen-mordes-an-15-jaehriger-in-salzgitter-verurteilt-a-34b647b8-1d4e-4820-ab8d-ea48b492a0b4#ref=rss)
+* [https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt](https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt-a-6b6aae60-3423-4ade-aaac-e1e5fd85fc2b#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/netzwelt/apps/so-sichern-sie-ihr-twitter-konto-mit-der-zwei-faktor-authentifizierung-ab](https://www.spiegel.de/netzwelt/apps/so-sichern-sie-ihr-twitter-konto-mit-der-zwei-faktor-authentifizierung-ab-a-39c2c164-9e32-4aa8-9fca-8a5cdc511336#ref=rss)
-### nawalny
+* [https://www.spiegel.de/panorama/justiz/fall-anastasia-in-braunschweig-mitschueler-wegen-mordes-an-15-jaehriger-in-salzgitter-verurteilt](https://www.spiegel.de/panorama/justiz/fall-anastasia-in-braunschweig-mitschueler-wegen-mordes-an-15-jaehriger-in-salzgitter-verurteilt-a-34b647b8-1d4e-4820-ab8d-ea48b492a0b4#ref=rss)
+* [https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis](https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis-a-e7f04b20-0eaf-4a23-b1ea-14d13e563091#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fulda-vier-verletzte-bei-messerattacken-nach-rosenmontagszug](https://www.spiegel.de/panorama/justiz/fulda-vier-verletzte-bei-messerattacken-nach-rosenmontagszug-a-7f984632-d357-45d8-a9c3-11fcaa43f948#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen](https://www.spiegel.de/ausland/russland-ukraine-news-heute-misserfolg-in-bachmut-koennte-spannungen-in-moskau-erhoehen-a-1321d32b-b900-4d0a-9154-6e56229ea653#ref=rss)
-### fragen
+* [https://www.spiegel.de/ausland/russland-will-belarus-angeblich-bis-2030-schrittweise-unterwandern](https://www.spiegel.de/ausland/russland-will-belarus-angeblich-bis-2030-schrittweise-unterwandern-a-63541861-04d0-496b-bfb1-d6e788498fdf#ref=rss)
+* [https://www.spiegel.de/ausland/wladimir-putin-gibt-erneut-dem-westen-die-schuld-am-krieg-in-der-ukraine](https://www.spiegel.de/ausland/wladimir-putin-gibt-erneut-dem-westen-die-schuld-am-krieg-in-der-ukraine-a-3f22808a-d37e-4c4f-ab38-512bc732a33e#ref=rss)
+### bald
 
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-### pro
+* [https://www.spiegel.de/ausland/russland-will-belarus-angeblich-bis-2030-schrittweise-unterwandern](https://www.spiegel.de/ausland/russland-will-belarus-angeblich-bis-2030-schrittweise-unterwandern-a-63541861-04d0-496b-bfb1-d6e788498fdf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft-a-a787636e-c738-4584-85c1-f0d35d94289c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/immer-mehr-pflegebeduerftige-rutschen-in-die-sozialhilfe](https://www.spiegel.de/wirtschaft/soziales/immer-mehr-pflegebeduerftige-rutschen-in-die-sozialhilfe-a-c218be0b-e78e-4456-9574-e824544410b6#ref=rss)
+### london
 
-* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/fledermauskoettel-auf-terrasse-kein-grund-fuer-mietminderung](https://www.spiegel.de/wirtschaft/fledermauskoettel-auf-terrasse-kein-grund-fuer-mietminderung-a-6372540b-1625-4c60-ba03-cd762958662f#ref=rss)
-### afghanistan
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen](https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen-a-cd6296ed-4d41-4849-b1a8-be80615e7cb3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder](https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder-a-65fc21de-5ef9-4992-ba3b-adad2d398a59#ref=rss)
+### profitieren
 
-* [https://www.spiegel.de/ausland/afghanistan-streit-ueber-frauenrechte-taliban-gegen-taliban](https://www.spiegel.de/ausland/afghanistan-streit-ueber-frauenrechte-taliban-gegen-taliban-a-87b60fad-7b2f-48d2-a277-0aade549cab7#ref=rss)
-### taliban
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen](https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen-a-cd6296ed-4d41-4849-b1a8-be80615e7cb3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/start-ups-wie-drei-deutsche-vom-wasserstoff-boom-in-oman-profitieren-wollen](https://www.spiegel.de/wirtschaft/start-ups-wie-drei-deutsche-vom-wasserstoff-boom-in-oman-profitieren-wollen-a-860995fd-80d2-4ac5-a65c-833a60141d02#ref=rss)
+### westen
 
-* [https://www.spiegel.de/ausland/afghanistan-streit-ueber-frauenrechte-taliban-gegen-taliban](https://www.spiegel.de/ausland/afghanistan-streit-ueber-frauenrechte-taliban-gegen-taliban-a-87b60fad-7b2f-48d2-a277-0aade549cab7#ref=rss)
-### bremen
+* [https://www.spiegel.de/ausland/wladimir-putin-gibt-erneut-dem-westen-die-schuld-am-krieg-in-der-ukraine](https://www.spiegel.de/ausland/wladimir-putin-gibt-erneut-dem-westen-die-schuld-am-krieg-in-der-ukraine-a-3f22808a-d37e-4c4f-ab38-512bc732a33e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen](https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen-a-a8ab12f6-1392-4770-a3c5-1d4ca56e6150#ref=rss)
+### wirtschaft
 
-* [https://www.spiegel.de/panorama/bremen-jugendliche-pruegeln-auf-strassenbahnfahrer-ein](https://www.spiegel.de/panorama/bremen-jugendliche-pruegeln-auf-strassenbahnfahrer-ein-a-2af47c78-6791-4534-b9db-3b8982544d21#ref=rss)
-### jugendliche
+* [https://www.spiegel.de/wirtschaft/soziales/eu-zerfall-wuerde-deutsche-wirtschaft-massiv-schwaechen](https://www.spiegel.de/wirtschaft/soziales/eu-zerfall-wuerde-deutsche-wirtschaft-massiv-schwaechen-a-91a3f0f2-42c0-4959-a371-a0ad52e14711#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft-a-a787636e-c738-4584-85c1-f0d35d94289c#ref=rss)
+### los
 
-* [https://www.spiegel.de/panorama/bremen-jugendliche-pruegeln-auf-strassenbahnfahrer-ein](https://www.spiegel.de/panorama/bremen-jugendliche-pruegeln-auf-strassenbahnfahrer-ein-a-2af47c78-6791-4534-b9db-3b8982544d21#ref=rss)
-### straßenbahnfahrer
+* [https://www.spiegel.de/panorama/justiz/los-angeles-erschossener-weihbischof-polizei-nimmt-ehemann-der-haushaelterin-fest](https://www.spiegel.de/panorama/justiz/los-angeles-erschossener-weihbischof-polizei-nimmt-ehemann-der-haushaelterin-fest-a-54eeef44-526c-4cbc-afff-16db8fc059e8#ref=rss)
+### angeles
 
-* [https://www.spiegel.de/panorama/bremen-jugendliche-pruegeln-auf-strassenbahnfahrer-ein](https://www.spiegel.de/panorama/bremen-jugendliche-pruegeln-auf-strassenbahnfahrer-ein-a-2af47c78-6791-4534-b9db-3b8982544d21#ref=rss)
-### borrell
+* [https://www.spiegel.de/panorama/justiz/los-angeles-erschossener-weihbischof-polizei-nimmt-ehemann-der-haushaelterin-fest](https://www.spiegel.de/panorama/justiz/los-angeles-erschossener-weihbischof-polizei-nimmt-ehemann-der-haushaelterin-fest-a-54eeef44-526c-4cbc-afff-16db8fc059e8#ref=rss)
+### fall
 
-* [https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie](https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie-a-0fcac0e0-5204-4dcb-8d40-cac9c654a0dc#ref=rss)
-### waffenlieferungen
+* [https://www.spiegel.de/panorama/justiz/los-angeles-erschossener-weihbischof-polizei-nimmt-ehemann-der-haushaelterin-fest](https://www.spiegel.de/panorama/justiz/los-angeles-erschossener-weihbischof-polizei-nimmt-ehemann-der-haushaelterin-fest-a-54eeef44-526c-4cbc-afff-16db8fc059e8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/fall-anastasia-in-braunschweig-mitschueler-wegen-mordes-an-15-jaehriger-in-salzgitter-verurteilt](https://www.spiegel.de/panorama/justiz/fall-anastasia-in-braunschweig-mitschueler-wegen-mordes-an-15-jaehriger-in-salzgitter-verurteilt-a-34b647b8-1d4e-4820-ab8d-ea48b492a0b4#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie](https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie-a-0fcac0e0-5204-4dcb-8d40-cac9c654a0dc#ref=rss)
-### rote
+* [https://www.spiegel.de/wissenschaft/roemisches-militaerlager-vindolanda-gab-es-vor-2000-jahren-dildos-aus-holz](https://www.spiegel.de/wissenschaft/roemisches-militaerlager-vindolanda-gab-es-vor-2000-jahren-dildos-aus-holz-a-51fae280-a75e-4059-a016-2797b5c7c2cd#ref=rss)
+* [https://www.spiegel.de/sport/greg-foster-ex-leichtathlet-ist-tot](https://www.spiegel.de/sport/greg-foster-ex-leichtathlet-ist-tot-a-3bbf28f3-a9da-4270-bf4b-4389deed3676#ref=rss)
+### wissenschaftler
 
-* [https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie](https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie-a-0fcac0e0-5204-4dcb-8d40-cac9c654a0dc#ref=rss)
-### linie
+* [https://www.spiegel.de/wissenschaft/roemisches-militaerlager-vindolanda-gab-es-vor-2000-jahren-dildos-aus-holz](https://www.spiegel.de/wissenschaft/roemisches-militaerlager-vindolanda-gab-es-vor-2000-jahren-dildos-aus-holz-a-51fae280-a75e-4059-a016-2797b5c7c2cd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/alice-schwarzer-und-sahra-wagenknecht-politiker-und-wissenschaftler-starten-gegenpetition](https://www.spiegel.de/politik/deutschland/alice-schwarzer-und-sahra-wagenknecht-politiker-und-wissenschaftler-starten-gegenpetition-a-0b3f4f0d-8eb3-4df5-a759-8bc0f25ff240#ref=rss)
+### einmal
 
-* [https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie](https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie-a-0fcac0e0-5204-4dcb-8d40-cac9c654a0dc#ref=rss)
-### eu
+* [https://www.spiegel.de/wissenschaft/roemisches-militaerlager-vindolanda-gab-es-vor-2000-jahren-dildos-aus-holz](https://www.spiegel.de/wissenschaft/roemisches-militaerlager-vindolanda-gab-es-vor-2000-jahren-dildos-aus-holz-a-51fae280-a75e-4059-a016-2797b5c7c2cd#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/iphone-versteigerung-apple-handy-der-ersten-generation-bringt-63-000-dollar](https://www.spiegel.de/netzwelt/web/iphone-versteigerung-apple-handy-der-ersten-generation-bringt-63-000-dollar-a-836f4972-716c-4be5-9b31-af4f1ca69aaa#ref=rss)
+### amazons
 
-* [https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie](https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie-a-0fcac0e0-5204-4dcb-8d40-cac9c654a0dc#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aeussert-sich-zurueckhaltend-zu-macron-vorschlag-fuer-atomare-abschreckung](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aeussert-sich-zurueckhaltend-zu-macron-vorschlag-fuer-atomare-abschreckung-a-078e1d0e-1904-451f-b081-496a05de5273#ref=rss)
-### laut
+* [https://www.spiegel.de/netzwelt/apps/amazon-music-unlimited-amazons-musikstreaming-dienst-wird-teurer](https://www.spiegel.de/netzwelt/apps/amazon-music-unlimited-amazons-musikstreaming-dienst-wird-teurer-a-c146fe50-61df-4278-b4d2-d7a45a59a841#ref=rss)
+### musikstreamingdienst
 
-* [https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie](https://www.spiegel.de/ausland/josep-borrell-nennt-chinesische-waffenlieferungen-an-russland-rote-linie-a-0fcac0e0-5204-4dcb-8d40-cac9c654a0dc#ref=rss)
-* [https://www.spiegel.de/ausland/niederlaendische-geheimdienste-russisches-schiff-nahm-windparks-in-der-nordsee-ins-visier](https://www.spiegel.de/ausland/niederlaendische-geheimdienste-russisches-schiff-nahm-windparks-in-der-nordsee-ins-visier-a-8b13da7b-998f-4e80-92e1-b0ab3f64e724#ref=rss)
-### keba
+* [https://www.spiegel.de/netzwelt/apps/amazon-music-unlimited-amazons-musikstreaming-dienst-wird-teurer](https://www.spiegel.de/netzwelt/apps/amazon-music-unlimited-amazons-musikstreaming-dienst-wird-teurer-a-c146fe50-61df-4278-b4d2-d7a45a59a841#ref=rss)
+### preise
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-tochter-keba-wird-von-ver-di-bestreikt-beschaeftigte-zweiter-klasse](https://www.spiegel.de/wirtschaft/deutsche-bank-tochter-keba-wird-von-ver-di-bestreikt-beschaeftigte-zweiter-klasse-a-30dc3b5c-fbf0-4cc7-b2a4-dc135e350989#ref=rss)
-### unter
+* [https://www.spiegel.de/netzwelt/apps/amazon-music-unlimited-amazons-musikstreaming-dienst-wird-teurer](https://www.spiegel.de/netzwelt/apps/amazon-music-unlimited-amazons-musikstreaming-dienst-wird-teurer-a-c146fe50-61df-4278-b4d2-d7a45a59a841#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder](https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder-a-65fc21de-5ef9-4992-ba3b-adad2d398a59#ref=rss)
+### beschäftigte
 
-* [https://www.spiegel.de/wirtschaft/deutsche-bank-tochter-keba-wird-von-ver-di-bestreikt-beschaeftigte-zweiter-klasse](https://www.spiegel.de/wirtschaft/deutsche-bank-tochter-keba-wird-von-ver-di-bestreikt-beschaeftigte-zweiter-klasse-a-30dc3b5c-fbf0-4cc7-b2a4-dc135e350989#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen](https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen-a-7837cde6-11ad-4c5e-9de9-438e0b2be755#ref=rss)
-### leiji
+* [https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt](https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt-a-ebb77ab7-ea66-4a38-8751-472826dc5e3c#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/kultur/tv/manga-autor-leiji-matsumoto-ist-tot](https://www.spiegel.de/kultur/tv/manga-autor-leiji-matsumoto-ist-tot-a-063dc7b7-a2e0-43d7-9b7b-981d696070b1#ref=rss)
-### matsumoto
+* [https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt](https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt-a-ebb77ab7-ea66-4a38-8751-472826dc5e3c#ref=rss)
+### tag
 
-* [https://www.spiegel.de/kultur/tv/manga-autor-leiji-matsumoto-ist-tot](https://www.spiegel.de/kultur/tv/manga-autor-leiji-matsumoto-ist-tot-a-063dc7b7-a2e0-43d7-9b7b-981d696070b1#ref=rss)
-### jahre
+* [https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt](https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt-a-ebb77ab7-ea66-4a38-8751-472826dc5e3c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch](https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch-a-d176e9fc-9f5c-4fce-9975-1cd802824aee#ref=rss)
+### ergebnisse
 
-* [https://www.spiegel.de/kultur/tv/manga-autor-leiji-matsumoto-ist-tot](https://www.spiegel.de/kultur/tv/manga-autor-leiji-matsumoto-ist-tot-a-063dc7b7-a2e0-43d7-9b7b-981d696070b1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/schweinfurt-stiefvater-missbrauchte-minderjaehrige-und-zwang-sie-zur-prostitution](https://www.spiegel.de/panorama/justiz/schweinfurt-stiefvater-missbrauchte-minderjaehrige-und-zwang-sie-zur-prostitution-a-f0e49899-12c8-42d2-b043-7e10b6063015#ref=rss)
-### julian
+* [https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt](https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt-a-ebb77ab7-ea66-4a38-8751-472826dc5e3c#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-2023-skispringen-langlauf-kombination-zeitplan-und-ergebnisse](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-2023-skispringen-langlauf-kombination-zeitplan-und-ergebnisse-a-047cb600-4096-4c36-86ac-2b3dfb34b168#ref=rss)
+### dürften
 
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-in-der-kritik-uebersteht-der-trainer-das-jahr-beim-fc-bayern](https://www.spiegel.de/sport/fussball/julian-nagelsmann-in-der-kritik-uebersteht-der-trainer-das-jahr-beim-fc-bayern-a-02cad5fa-966d-4a73-a2f1-813fe52341dd#ref=rss)
-### nagelsmann
+* [https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt](https://www.spiegel.de/wissenschaft/mensch/studie-zur-viertagewoche-warum-sie-sich-fuer-beschaeftigte-und-unternehmen-lohnt-a-ebb77ab7-ea66-4a38-8751-472826dc5e3c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar](https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar-a-44fa2c2e-82b1-4f86-be98-205c758838c7#ref=rss)
+### anastasia
 
-* [https://www.spiegel.de/sport/fussball/julian-nagelsmann-in-der-kritik-uebersteht-der-trainer-das-jahr-beim-fc-bayern](https://www.spiegel.de/sport/fussball/julian-nagelsmann-in-der-kritik-uebersteht-der-trainer-das-jahr-beim-fc-bayern-a-02cad5fa-966d-4a73-a2f1-813fe52341dd#ref=rss)
-### russisches
+* [https://www.spiegel.de/panorama/justiz/fall-anastasia-in-braunschweig-mitschueler-wegen-mordes-an-15-jaehriger-in-salzgitter-verurteilt](https://www.spiegel.de/panorama/justiz/fall-anastasia-in-braunschweig-mitschueler-wegen-mordes-an-15-jaehriger-in-salzgitter-verurteilt-a-34b647b8-1d4e-4820-ab8d-ea48b492a0b4#ref=rss)
+### mitschüler
 
-* [https://www.spiegel.de/ausland/niederlaendische-geheimdienste-russisches-schiff-nahm-windparks-in-der-nordsee-ins-visier](https://www.spiegel.de/ausland/niederlaendische-geheimdienste-russisches-schiff-nahm-windparks-in-der-nordsee-ins-visier-a-8b13da7b-998f-4e80-92e1-b0ab3f64e724#ref=rss)
-### schiff
+* [https://www.spiegel.de/panorama/justiz/fall-anastasia-in-braunschweig-mitschueler-wegen-mordes-an-15-jaehriger-in-salzgitter-verurteilt](https://www.spiegel.de/panorama/justiz/fall-anastasia-in-braunschweig-mitschueler-wegen-mordes-an-15-jaehriger-in-salzgitter-verurteilt-a-34b647b8-1d4e-4820-ab8d-ea48b492a0b4#ref=rss)
+### gestellt
 
-* [https://www.spiegel.de/ausland/niederlaendische-geheimdienste-russisches-schiff-nahm-windparks-in-der-nordsee-ins-visier](https://www.spiegel.de/ausland/niederlaendische-geheimdienste-russisches-schiff-nahm-windparks-in-der-nordsee-ins-visier-a-8b13da7b-998f-4e80-92e1-b0ab3f64e724#ref=rss)
-### nordsee
+* [https://www.spiegel.de/panorama/justiz/fall-anastasia-in-braunschweig-mitschueler-wegen-mordes-an-15-jaehriger-in-salzgitter-verurteilt](https://www.spiegel.de/panorama/justiz/fall-anastasia-in-braunschweig-mitschueler-wegen-mordes-an-15-jaehriger-in-salzgitter-verurteilt-a-34b647b8-1d4e-4820-ab8d-ea48b492a0b4#ref=rss)
+* [https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt](https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt-a-6b6aae60-3423-4ade-aaac-e1e5fd85fc2b#ref=rss)
+### belarus
 
-* [https://www.spiegel.de/ausland/niederlaendische-geheimdienste-russisches-schiff-nahm-windparks-in-der-nordsee-ins-visier](https://www.spiegel.de/ausland/niederlaendische-geheimdienste-russisches-schiff-nahm-windparks-in-der-nordsee-ins-visier-a-8b13da7b-998f-4e80-92e1-b0ab3f64e724#ref=rss)
-### halle
+* [https://www.spiegel.de/ausland/russland-will-belarus-angeblich-bis-2030-schrittweise-unterwandern](https://www.spiegel.de/ausland/russland-will-belarus-angeblich-bis-2030-schrittweise-unterwandern-a-63541861-04d0-496b-bfb1-d6e788498fdf#ref=rss)
+### nutzt
 
-* [https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen](https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen-a-7837cde6-11ad-4c5e-9de9-438e0b2be755#ref=rss)
-### frau
+* [https://www.spiegel.de/ausland/russland-will-belarus-angeblich-bis-2030-schrittweise-unterwandern](https://www.spiegel.de/ausland/russland-will-belarus-angeblich-bis-2030-schrittweise-unterwandern-a-63541861-04d0-496b-bfb1-d6e788498fdf#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch](https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch-a-d176e9fc-9f5c-4fce-9975-1cd802824aee#ref=rss)
+### kremlchef
 
-* [https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen](https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen-a-7837cde6-11ad-4c5e-9de9-438e0b2be755#ref=rss)
-### verletzt
+* [https://www.spiegel.de/ausland/russland-will-belarus-angeblich-bis-2030-schrittweise-unterwandern](https://www.spiegel.de/ausland/russland-will-belarus-angeblich-bis-2030-schrittweise-unterwandern-a-63541861-04d0-496b-bfb1-d6e788498fdf#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-zerstoerung-von-krankenhaeusern-und-schulen-nimmt-offenbar-zu](https://www.spiegel.de/ausland/russland-ukraine-news-heute-zerstoerung-von-krankenhaeusern-und-schulen-nimmt-offenbar-zu-a-0b030762-ddab-41d3-876a-f06032126517#ref=rss)
+### bárbara
 
-* [https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen](https://www.spiegel.de/panorama/gesellschaft/halle-saale-frau-an-rosenmontag-schwer-verletzt-karnevalsumzug-abgebrochen-a-7837cde6-11ad-4c5e-9de9-438e0b2be755#ref=rss)
-### nordhessen
+* [https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis](https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis-a-e7f04b20-0eaf-4a23-b1ea-14d13e563091#ref=rss)
+### hernández
 
-* [https://www.spiegel.de/wirtschaft/nordhessen-ahle-wurscht-ist-jetzt-als-g-g-a-geschuetzt](https://www.spiegel.de/wirtschaft/nordhessen-ahle-wurscht-ist-jetzt-als-g-g-a-geschuetzt-a-c921cc79-8641-42a6-8ff8-eaf195cc384f#ref=rss)
-### ahle
+* [https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis](https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis-a-e7f04b20-0eaf-4a23-b1ea-14d13e563091#ref=rss)
+### zweieinhalb
 
-* [https://www.spiegel.de/wirtschaft/nordhessen-ahle-wurscht-ist-jetzt-als-g-g-a-geschuetzt](https://www.spiegel.de/wirtschaft/nordhessen-ahle-wurscht-ist-jetzt-als-g-g-a-geschuetzt-a-c921cc79-8641-42a6-8ff8-eaf195cc384f#ref=rss)
-### wurscht
+* [https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis](https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis-a-e7f04b20-0eaf-4a23-b1ea-14d13e563091#ref=rss)
+### kilometer
 
-* [https://www.spiegel.de/wirtschaft/nordhessen-ahle-wurscht-ist-jetzt-als-g-g-a-geschuetzt](https://www.spiegel.de/wirtschaft/nordhessen-ahle-wurscht-ist-jetzt-als-g-g-a-geschuetzt-a-c921cc79-8641-42a6-8ff8-eaf195cc384f#ref=rss)
-### missbrauchte
+* [https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis](https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis-a-e7f04b20-0eaf-4a23-b1ea-14d13e563091#ref=rss)
+### antarktis
 
-* [https://www.spiegel.de/panorama/justiz/schweinfurt-stiefvater-missbrauchte-minderjaehrige-und-zwang-sie-zur-prostitution](https://www.spiegel.de/panorama/justiz/schweinfurt-stiefvater-missbrauchte-minderjaehrige-und-zwang-sie-zur-prostitution-a-f0e49899-12c8-42d2-b043-7e10b6063015#ref=rss)
-### baerbock
+* [https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis](https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis-a-e7f04b20-0eaf-4a23-b1ea-14d13e563091#ref=rss)
+### grad
 
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aeussert-sich-zurueckhaltend-zu-macron-vorschlag-fuer-atomare-abschreckung](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aeussert-sich-zurueckhaltend-zu-macron-vorschlag-fuer-atomare-abschreckung-a-078e1d0e-1904-451f-b081-496a05de5273#ref=rss)
-### abschreckung
+* [https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis](https://www.spiegel.de/sport/chilenin-barbara-hernandez-schwimmt-zweieinhalb-kilometer-durch-die-antarktis-a-e7f04b20-0eaf-4a23-b1ea-14d13e563091#ref=rss)
+### aldi
 
-* [https://www.spiegel.de/politik/deutschland/annalena-baerbock-aeussert-sich-zurueckhaltend-zu-macron-vorschlag-fuer-atomare-abschreckung](https://www.spiegel.de/politik/deutschland/annalena-baerbock-aeussert-sich-zurueckhaltend-zu-macron-vorschlag-fuer-atomare-abschreckung-a-078e1d0e-1904-451f-b081-496a05de5273#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen](https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen-a-cd6296ed-4d41-4849-b1a8-be80615e7cb3#ref=rss)
+### präsenz
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen](https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen-a-cd6296ed-4d41-4849-b1a8-be80615e7cb3#ref=rss)
+### stark
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen](https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen-a-cd6296ed-4d41-4849-b1a8-be80615e7cb3#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder](https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder-a-65fc21de-5ef9-4992-ba3b-adad2d398a59#ref=rss)
+### davon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen](https://www.spiegel.de/wirtschaft/unternehmen/aldi-will-praesenz-in-london-stark-ausbauen-a-cd6296ed-4d41-4849-b1a8-be80615e7cb3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen](https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen-a-a8ab12f6-1392-4770-a3c5-1d4ca56e6150#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/ausland/wladimir-putin-gibt-erneut-dem-westen-die-schuld-am-krieg-in-der-ukraine](https://www.spiegel.de/ausland/wladimir-putin-gibt-erneut-dem-westen-die-schuld-am-krieg-in-der-ukraine-a-3f22808a-d37e-4c4f-ab38-512bc732a33e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar](https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar-a-44fa2c2e-82b1-4f86-be98-205c758838c7#ref=rss)
+### startups
+
+* [https://www.spiegel.de/wirtschaft/start-ups-wie-drei-deutsche-vom-wasserstoff-boom-in-oman-profitieren-wollen](https://www.spiegel.de/wirtschaft/start-ups-wie-drei-deutsche-vom-wasserstoff-boom-in-oman-profitieren-wollen-a-860995fd-80d2-4ac5-a65c-833a60141d02#ref=rss)
+### drei
+
+* [https://www.spiegel.de/wirtschaft/start-ups-wie-drei-deutsche-vom-wasserstoff-boom-in-oman-profitieren-wollen](https://www.spiegel.de/wirtschaft/start-ups-wie-drei-deutsche-vom-wasserstoff-boom-in-oman-profitieren-wollen-a-860995fd-80d2-4ac5-a65c-833a60141d02#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft-a-a787636e-c738-4584-85c1-f0d35d94289c#ref=rss)
+### oman
+
+* [https://www.spiegel.de/wirtschaft/start-ups-wie-drei-deutsche-vom-wasserstoff-boom-in-oman-profitieren-wollen](https://www.spiegel.de/wirtschaft/start-ups-wie-drei-deutsche-vom-wasserstoff-boom-in-oman-profitieren-wollen-a-860995fd-80d2-4ac5-a65c-833a60141d02#ref=rss)
+### würde
+
+* [https://www.spiegel.de/wirtschaft/start-ups-wie-drei-deutsche-vom-wasserstoff-boom-in-oman-profitieren-wollen](https://www.spiegel.de/wirtschaft/start-ups-wie-drei-deutsche-vom-wasserstoff-boom-in-oman-profitieren-wollen-a-860995fd-80d2-4ac5-a65c-833a60141d02#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/eu-zerfall-wuerde-deutsche-wirtschaft-massiv-schwaechen](https://www.spiegel.de/wirtschaft/soziales/eu-zerfall-wuerde-deutsche-wirtschaft-massiv-schwaechen-a-91a3f0f2-42c0-4959-a371-a0ad52e14711#ref=rss)
+### kapstadt
+
+* [https://www.spiegel.de/panorama/justiz/suedafrika-suche-nach-deutschem-touristen-in-kapstadt-geht-weiter](https://www.spiegel.de/panorama/justiz/suedafrika-suche-nach-deutschem-touristen-in-kapstadt-geht-weiter-a-4865ec19-0a07-4e85-bfe6-088a0a567613#ref=rss)
+### februar
+
+* [https://www.spiegel.de/panorama/justiz/suedafrika-suche-nach-deutschem-touristen-in-kapstadt-geht-weiter](https://www.spiegel.de/panorama/justiz/suedafrika-suche-nach-deutschem-touristen-in-kapstadt-geht-weiter-a-4865ec19-0a07-4e85-bfe6-088a0a567613#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/nordische-ski-wm-2023-skispringen-langlauf-kombination-zeitplan-und-ergebnisse](https://www.spiegel.de/sport/wintersport/nordische-ski-wm-2023-skispringen-langlauf-kombination-zeitplan-und-ergebnisse-a-047cb600-4096-4c36-86ac-2b3dfb34b168#ref=rss)
+### iran
+
+* [https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt](https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt-a-6b6aae60-3423-4ade-aaac-e1e5fd85fc2b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/iranische-waehrung-stuerzt-ab](https://www.spiegel.de/wirtschaft/soziales/iranische-waehrung-stuerzt-ab-a-fb330021-0808-4a31-8d37-c07746cdcf6a#ref=rss)
+### deutschiraner
+
+* [https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt](https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt-a-6b6aae60-3423-4ade-aaac-e1e5fd85fc2b#ref=rss)
+### jamshid
+
+* [https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt](https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt-a-6b6aae60-3423-4ade-aaac-e1e5fd85fc2b#ref=rss)
+### sharmahd
+
+* [https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt](https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt-a-6b6aae60-3423-4ade-aaac-e1e5fd85fc2b#ref=rss)
+### tod
+
+* [https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt](https://www.spiegel.de/ausland/iran-deutsch-iraner-zum-tod-verurteilt-a-6b6aae60-3423-4ade-aaac-e1e5fd85fc2b#ref=rss)
+### hause
+
+* [https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch](https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch-a-d176e9fc-9f5c-4fce-9975-1cd802824aee#ref=rss)
+### deutsch
+
+* [https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch](https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch-a-d176e9fc-9f5c-4fce-9975-1cd802824aee#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch](https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch-a-d176e9fc-9f5c-4fce-9975-1cd802824aee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/eu-zerfall-wuerde-deutsche-wirtschaft-massiv-schwaechen](https://www.spiegel.de/wirtschaft/soziales/eu-zerfall-wuerde-deutsche-wirtschaft-massiv-schwaechen-a-91a3f0f2-42c0-4959-a371-a0ad52e14711#ref=rss)
+### etwa
+
+* [https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch](https://www.spiegel.de/panorama/bildung/internationaler-tag-der-muttersprache-80-prozent-der-bevoelkerung-sprechen-zu-hause-immer-deutsch-a-d176e9fc-9f5c-4fce-9975-1cd802824aee#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/iranische-waehrung-stuerzt-ab](https://www.spiegel.de/wirtschaft/soziales/iranische-waehrung-stuerzt-ab-a-fb330021-0808-4a31-8d37-c07746cdcf6a#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/panorama/gesellschaft/tuerkei-bilder-nach-dem-erneuten-erdbeben](https://www.spiegel.de/panorama/gesellschaft/tuerkei-bilder-nach-dem-erneuten-erdbeben-a-9086b784-0179-4d7f-80f8-9a6a0343eb5d#ref=rss)
+### bilder
+
+* [https://www.spiegel.de/panorama/gesellschaft/tuerkei-bilder-nach-dem-erneuten-erdbeben](https://www.spiegel.de/panorama/gesellschaft/tuerkei-bilder-nach-dem-erneuten-erdbeben-a-9086b784-0179-4d7f-80f8-9a6a0343eb5d#ref=rss)
+### ökonomen
+
+* [https://www.spiegel.de/wirtschaft/soziales/eu-zerfall-wuerde-deutsche-wirtschaft-massiv-schwaechen](https://www.spiegel.de/wirtschaft/soziales/eu-zerfall-wuerde-deutsche-wirtschaft-massiv-schwaechen-a-91a3f0f2-42c0-4959-a371-a0ad52e14711#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen](https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen-a-a8ab12f6-1392-4770-a3c5-1d4ca56e6150#ref=rss)
+### verschärft
+
+* [https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder](https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder-a-65fc21de-5ef9-4992-ba3b-adad2d398a59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/iranische-waehrung-stuerzt-ab](https://www.spiegel.de/wirtschaft/soziales/iranische-waehrung-stuerzt-ab-a-fb330021-0808-4a31-8d37-c07746cdcf6a#ref=rss)
+### armut
+
+* [https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder](https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder-a-65fc21de-5ef9-4992-ba3b-adad2d398a59#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/armut-kinderzuschlag-erreicht-nur-ein-drittel-der-beduerftigen](https://www.spiegel.de/wirtschaft/soziales/armut-kinderzuschlag-erreicht-nur-ein-drittel-der-beduerftigen-a-99305dc0-186f-46b3-b86c-7e88bfc8ffaf#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder](https://www.spiegel.de/panorama/bildung/london-verteilt-kostenloses-essen-an-grundschulkinder-a-65fc21de-5ef9-4992-ba3b-adad2d398a59#ref=rss)
+* [https://www.spiegel.de/gesundheit/ernaehrung/zucker-in-limonade-so-schaedlich-sind-softdrinks-fuer-kinder-und-erwachsene](https://www.spiegel.de/gesundheit/ernaehrung/zucker-in-limonade-so-schaedlich-sind-softdrinks-fuer-kinder-und-erwachsene-a-adef6001-9d38-40b0-8d35-d1680eb523cf#ref=rss)
+### alice
+
+* [https://www.spiegel.de/politik/deutschland/alice-schwarzer-und-sahra-wagenknecht-politiker-und-wissenschaftler-starten-gegenpetition](https://www.spiegel.de/politik/deutschland/alice-schwarzer-und-sahra-wagenknecht-politiker-und-wissenschaftler-starten-gegenpetition-a-0b3f4f0d-8eb3-4df5-a759-8bc0f25ff240#ref=rss)
+### schwarzer
+
+* [https://www.spiegel.de/politik/deutschland/alice-schwarzer-und-sahra-wagenknecht-politiker-und-wissenschaftler-starten-gegenpetition](https://www.spiegel.de/politik/deutschland/alice-schwarzer-und-sahra-wagenknecht-politiker-und-wissenschaftler-starten-gegenpetition-a-0b3f4f0d-8eb3-4df5-a759-8bc0f25ff240#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/alice-schwarzer-und-sahra-wagenknecht-politiker-und-wissenschaftler-starten-gegenpetition](https://www.spiegel.de/politik/deutschland/alice-schwarzer-und-sahra-wagenknecht-politiker-und-wissenschaftler-starten-gegenpetition-a-0b3f4f0d-8eb3-4df5-a759-8bc0f25ff240#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/alice-schwarzer-und-sahra-wagenknecht-politiker-und-wissenschaftler-starten-gegenpetition](https://www.spiegel.de/politik/deutschland/alice-schwarzer-und-sahra-wagenknecht-politiker-und-wissenschaftler-starten-gegenpetition-a-0b3f4f0d-8eb3-4df5-a759-8bc0f25ff240#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/zucker-in-limonade-so-schaedlich-sind-softdrinks-fuer-kinder-und-erwachsene](https://www.spiegel.de/gesundheit/ernaehrung/zucker-in-limonade-so-schaedlich-sind-softdrinks-fuer-kinder-und-erwachsene-a-adef6001-9d38-40b0-8d35-d1680eb523cf#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/iphone-versteigerung-apple-handy-der-ersten-generation-bringt-63-000-dollar](https://www.spiegel.de/netzwelt/web/iphone-versteigerung-apple-handy-der-ersten-generation-bringt-63-000-dollar-a-836f4972-716c-4be5-9b31-af4f1ca69aaa#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/gesundheit/ernaehrung/zucker-in-limonade-so-schaedlich-sind-softdrinks-fuer-kinder-und-erwachsene](https://www.spiegel.de/gesundheit/ernaehrung/zucker-in-limonade-so-schaedlich-sind-softdrinks-fuer-kinder-und-erwachsene-a-adef6001-9d38-40b0-8d35-d1680eb523cf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft-a-a787636e-c738-4584-85c1-f0d35d94289c#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/netzwelt/web/iphone-versteigerung-apple-handy-der-ersten-generation-bringt-63-000-dollar](https://www.spiegel.de/netzwelt/web/iphone-versteigerung-apple-handy-der-ersten-generation-bringt-63-000-dollar-a-836f4972-716c-4be5-9b31-af4f1ca69aaa#ref=rss)
+* [https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar](https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar-a-44fa2c2e-82b1-4f86-be98-205c758838c7#ref=rss)
+### masala
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-zerstoerung-von-krankenhaeusern-und-schulen-nimmt-offenbar-zu](https://www.spiegel.de/ausland/russland-ukraine-news-heute-zerstoerung-von-krankenhaeusern-und-schulen-nimmt-offenbar-zu-a-0b030762-ddab-41d3-876a-f06032126517#ref=rss)
+### kiew
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-heute-zerstoerung-von-krankenhaeusern-und-schulen-nimmt-offenbar-zu](https://www.spiegel.de/ausland/russland-ukraine-news-heute-zerstoerung-von-krankenhaeusern-und-schulen-nimmt-offenbar-zu-a-0b030762-ddab-41d3-876a-f06032126517#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen](https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen-a-a8ab12f6-1392-4770-a3c5-1d4ca56e6150#ref=rss)
+### russlands
+
+* [https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar](https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar-a-44fa2c2e-82b1-4f86-be98-205c758838c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen](https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen-a-a8ab12f6-1392-4770-a3c5-1d4ca56e6150#ref=rss)
+### weltwirtschaft
+
+* [https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar](https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar-a-44fa2c2e-82b1-4f86-be98-205c758838c7#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar](https://www.spiegel.de/wirtschaft/russlands-krieg-in-der-ukraine-putins-ueberfall-kostet-die-weltwirtschaft-1600-milliarden-dollar-a-44fa2c2e-82b1-4f86-be98-205c758838c7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen](https://www.spiegel.de/wirtschaft/soziales/ukraine-hilfe-die-zoegerlichkeit-der-europaeer-ist-ein-bemerkenswertes-phaenomen-a-a8ab12f6-1392-4770-a3c5-1d4ca56e6150#ref=rss)
+### simbabwe
+
+* [https://www.spiegel.de/panorama/justiz/simbabwe-robert-mugabe-junior-festgenommen](https://www.spiegel.de/panorama/justiz/simbabwe-robert-mugabe-junior-festgenommen-a-c45ec4c1-2f59-4bb4-bd40-c3cfc879a784#ref=rss)
+### robert
+
+* [https://www.spiegel.de/panorama/justiz/simbabwe-robert-mugabe-junior-festgenommen](https://www.spiegel.de/panorama/justiz/simbabwe-robert-mugabe-junior-festgenommen-a-c45ec4c1-2f59-4bb4-bd40-c3cfc879a784#ref=rss)
+### mugabe
+
+* [https://www.spiegel.de/panorama/justiz/simbabwe-robert-mugabe-junior-festgenommen](https://www.spiegel.de/panorama/justiz/simbabwe-robert-mugabe-junior-festgenommen-a-c45ec4c1-2f59-4bb4-bd40-c3cfc879a784#ref=rss)
+### junior
+
+* [https://www.spiegel.de/panorama/justiz/simbabwe-robert-mugabe-junior-festgenommen](https://www.spiegel.de/panorama/justiz/simbabwe-robert-mugabe-junior-festgenommen-a-c45ec4c1-2f59-4bb4-bd40-c3cfc879a784#ref=rss)
+### greg
+
+* [https://www.spiegel.de/sport/greg-foster-ex-leichtathlet-ist-tot](https://www.spiegel.de/sport/greg-foster-ex-leichtathlet-ist-tot-a-3bbf28f3-a9da-4270-bf4b-4389deed3676#ref=rss)
+### foster
+
+* [https://www.spiegel.de/sport/greg-foster-ex-leichtathlet-ist-tot](https://www.spiegel.de/sport/greg-foster-ex-leichtathlet-ist-tot-a-3bbf28f3-a9da-4270-bf4b-4389deed3676#ref=rss)
+### digitalisierung
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft-a-a787636e-c738-4584-85c1-f0d35d94289c#ref=rss)
+### fachkräfte
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft-a-a787636e-c738-4584-85c1-f0d35d94289c#ref=rss)
+### fehlen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft-a-a787636e-c738-4584-85c1-f0d35d94289c#ref=rss)
+### zunehmend
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft](https://www.spiegel.de/wirtschaft/unternehmen/berufe-in-der-digitalisierung-diese-fachkraefte-fehlen-der-deutschen-wirtschaft-a-a787636e-c738-4584-85c1-f0d35d94289c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/iranische-waehrung-stuerzt-ab](https://www.spiegel.de/wirtschaft/soziales/iranische-waehrung-stuerzt-ab-a-fb330021-0808-4a31-8d37-c07746cdcf6a#ref=rss)
+### fulda
+
+* [https://www.spiegel.de/panorama/justiz/fulda-vier-verletzte-bei-messerattacken-nach-rosenmontagszug](https://www.spiegel.de/panorama/justiz/fulda-vier-verletzte-bei-messerattacken-nach-rosenmontagszug-a-7f984632-d357-45d8-a9c3-11fcaa43f948#ref=rss)
+### sozialhilfe
+
+* [https://www.spiegel.de/wirtschaft/soziales/immer-mehr-pflegebeduerftige-rutschen-in-die-sozialhilfe](https://www.spiegel.de/wirtschaft/soziales/immer-mehr-pflegebeduerftige-rutschen-in-die-sozialhilfe-a-c218be0b-e78e-4456-9574-e824544410b6#ref=rss)
+### drittel
+
+* [https://www.spiegel.de/wirtschaft/soziales/immer-mehr-pflegebeduerftige-rutschen-in-die-sozialhilfe](https://www.spiegel.de/wirtschaft/soziales/immer-mehr-pflegebeduerftige-rutschen-in-die-sozialhilfe-a-c218be0b-e78e-4456-9574-e824544410b6#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/armut-kinderzuschlag-erreicht-nur-ein-drittel-der-beduerftigen](https://www.spiegel.de/wirtschaft/soziales/armut-kinderzuschlag-erreicht-nur-ein-drittel-der-beduerftigen-a-99305dc0-186f-46b3-b86c-7e88bfc8ffaf#ref=rss)
+### kinderzuschlag
+
+* [https://www.spiegel.de/wirtschaft/soziales/armut-kinderzuschlag-erreicht-nur-ein-drittel-der-beduerftigen](https://www.spiegel.de/wirtschaft/soziales/armut-kinderzuschlag-erreicht-nur-ein-drittel-der-beduerftigen-a-99305dc0-186f-46b3-b86c-7e88bfc8ffaf#ref=rss)
 
