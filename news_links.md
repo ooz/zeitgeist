@@ -4,370 +4,347 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### oscars
-
-* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
-* [https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala](https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala-a-61811901-873a-4fc3-a4c8-707778057061#ref=rss)
-* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
-### westen
-
-* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
-### nichts
-
-* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
-### neues
-
-* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
-### 2023
-
-* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
-* [https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala](https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala-a-61811901-873a-4fc3-a4c8-707778057061#ref=rss)
-* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab](https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab-a-516d322e-700e-4541-886a-fd8e9291078d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
-* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
-### erfolg
-
-* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
-* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
-* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/philippinen-oelteppich-breitet-sich-aus-es-ist-ein-albtraum](https://www.spiegel.de/panorama/philippinen-oelteppich-breitet-sich-aus-es-ist-ein-albtraum-a-3a3c5119-ca6d-4190-a1e7-d9ef820195f6#ref=rss)
-* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
-### team
-
-* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
-* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
-### gary
-
-* [https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung](https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung-a-f215ed65-7e86-48b0-a355-43876b5ac305#ref=rss)
-### lineker
-
-* [https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung](https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung-a-f215ed65-7e86-48b0-a355-43876b5ac305#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung](https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung-a-f215ed65-7e86-48b0-a355-43876b5ac305#ref=rss)
-* [https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus](https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus-a-b92651f7-d842-4106-881d-f8cc474af55f#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
-### kehrtwende
-
-* [https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung](https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung-a-f215ed65-7e86-48b0-a355-43876b5ac305#ref=rss)
-* [https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik](https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik-a-6b3bd4a4-2da2-419a-a3f1-9211bc9c3dba#ref=rss)
-### beiden
-
-* [https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen](https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen-a-a2801bd5-9875-4567-897c-011a790c3be5#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten](https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten-a-fc5640bd-736e-4943-acc1-9749a14a0448#ref=rss)
-* [https://www.spiegel.de/wissenschaft/thailand-wieder-tiger-in-naturreservat-entdeckt](https://www.spiegel.de/wissenschaft/thailand-wieder-tiger-in-naturreservat-entdeckt-a-05a30d49-21e1-4671-ba65-1f6a6251a556#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
-* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/freudenberg-zwoelfjaehrige-soll-obduziert-werden-trauer-nach-leichenfund](https://www.spiegel.de/panorama/justiz/freudenberg-zwoelfjaehrige-soll-obduziert-werden-trauer-nach-leichenfund-a-eac27c1d-e80d-457f-8205-092145259c29#ref=rss)
-* [https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden](https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden-a-f219be53-8f99-446f-a26d-d44a5bb1f917#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben-a-0d55b84a-0b7f-4fa1-9897-670c191fcca0#ref=rss)
-### regisseur
-
-* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
-### berger
-
-* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
-### h5n1
-
-* [https://www.spiegel.de/wissenschaft/medizin/h5n1-passt-sich-die-vogelgrippe-an-den-menschen-an](https://www.spiegel.de/wissenschaft/medizin/h5n1-passt-sich-die-vogelgrippe-an-den-menschen-an-a-32c12e1a-04a9-4c1d-a151-6ee1e9007d7f#ref=rss)
-### passt
-
-* [https://www.spiegel.de/wissenschaft/medizin/h5n1-passt-sich-die-vogelgrippe-an-den-menschen-an](https://www.spiegel.de/wissenschaft/medizin/h5n1-passt-sich-die-vogelgrippe-an-den-menschen-an-a-32c12e1a-04a9-4c1d-a151-6ee1e9007d7f#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/medizin/h5n1-passt-sich-die-vogelgrippe-an-den-menschen-an](https://www.spiegel.de/wissenschaft/medizin/h5n1-passt-sich-die-vogelgrippe-an-den-menschen-an-a-32c12e1a-04a9-4c1d-a151-6ee1e9007d7f#ref=rss)
-### fußballmoderator
-
-* [https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung](https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung-a-f215ed65-7e86-48b0-a355-43876b5ac305#ref=rss)
-### macht
-
-* [https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung](https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung-a-f215ed65-7e86-48b0-a355-43876b5ac305#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
-### henriette
-
-* [https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab](https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab-a-516d322e-700e-4541-886a-fd8e9291078d#ref=rss)
-### reker
-
-* [https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab](https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab-a-516d322e-700e-4541-886a-fd8e9291078d#ref=rss)
-### unterstützen
-
-* [https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab](https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab-a-516d322e-700e-4541-886a-fd8e9291078d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen](https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen-a-a2801bd5-9875-4567-897c-011a790c3be5#ref=rss)
-### hätten
-
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern](https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern-a-8ab4bc97-9d8c-4660-a0a3-013bba1467bf#ref=rss)
-### wir
-
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
-* [https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus](https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus-a-b92651f7-d842-4106-881d-f8cc474af55f#ref=rss)
-### viermal
-
-* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
-### strom
-
-* [https://www.spiegel.de/wirtschaft/energiepreisbremsen-bei-strom-und-gas-wo-der-staat-das-meiste-geld-zuschiesst](https://www.spiegel.de/wirtschaft/energiepreisbremsen-bei-strom-und-gas-wo-der-staat-das-meiste-geld-zuschiesst-a-ac99528f-f676-498e-9e66-e22422ccbe9d#ref=rss)
-### gas
-
-* [https://www.spiegel.de/wirtschaft/energiepreisbremsen-bei-strom-und-gas-wo-der-staat-das-meiste-geld-zuschiesst](https://www.spiegel.de/wirtschaft/energiepreisbremsen-bei-strom-und-gas-wo-der-staat-das-meiste-geld-zuschiesst-a-ac99528f-f676-498e-9e66-e22422ccbe9d#ref=rss)
-### gezielt
-
-* [https://www.spiegel.de/wirtschaft/energiepreisbremsen-bei-strom-und-gas-wo-der-staat-das-meiste-geld-zuschiesst](https://www.spiegel.de/wirtschaft/energiepreisbremsen-bei-strom-und-gas-wo-der-staat-das-meiste-geld-zuschiesst-a-ac99528f-f676-498e-9e66-e22422ccbe9d#ref=rss)
-* [https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik](https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik-a-6b3bd4a4-2da2-419a-a3f1-9211bc9c3dba#ref=rss)
-### streichen
-
-* [https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig](https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig-a-b249d456-5a95-4f72-b3d0-09b1ed47f38b#ref=rss)
-### juristinnen
-
-* [https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig](https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig-a-b249d456-5a95-4f72-b3d0-09b1ed47f38b#ref=rss)
-### halten
-
-* [https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig](https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig-a-b249d456-5a95-4f72-b3d0-09b1ed47f38b#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
-### rechtswidrig
-
-* [https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig](https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig-a-b249d456-5a95-4f72-b3d0-09b1ed47f38b#ref=rss)
-### iran
-
-* [https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen](https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen-a-a2801bd5-9875-4567-897c-011a790c3be5#ref=rss)
-### belarus
-
-* [https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen](https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen-a-a2801bd5-9875-4567-897c-011a790c3be5#ref=rss)
-### beziehungen
-
-* [https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen](https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen-a-a2801bd5-9875-4567-897c-011a790c3be5#ref=rss)
-* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen](https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen-a-a2801bd5-9875-4567-897c-011a790c3be5#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern](https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern-a-8ab4bc97-9d8c-4660-a0a3-013bba1467bf#ref=rss)
-### porsche
-
-* [https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn](https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn-a-160b7f17-abed-46af-ac0d-a9c05e0b68a8#ref=rss)
-### etwas
-
-* [https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn](https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn-a-160b7f17-abed-46af-ac0d-a9c05e0b68a8#ref=rss)
-* [https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik](https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik-a-6b3bd4a4-2da2-419a-a3f1-9211bc9c3dba#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn](https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn-a-160b7f17-abed-46af-ac0d-a9c05e0b68a8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/coronakrise-und-die-folgen-gastronomie-hat-deutlich-weniger-beschaeftigte](https://www.spiegel.de/wirtschaft/coronakrise-und-die-folgen-gastronomie-hat-deutlich-weniger-beschaeftigte-a-438ad81e-87cc-49c4-9af1-96ffe249ab3f#ref=rss)
-### beste
-
-* [https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn](https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn-a-160b7f17-abed-46af-ac0d-a9c05e0b68a8#ref=rss)
-* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus](https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus-a-b92651f7-d842-4106-881d-f8cc474af55f#ref=rss)
-### demnach
-
-* [https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus](https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus-a-b92651f7-d842-4106-881d-f8cc474af55f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/thailand-wieder-tiger-in-naturreservat-entdeckt](https://www.spiegel.de/wissenschaft/thailand-wieder-tiger-in-naturreservat-entdeckt-a-05a30d49-21e1-4671-ba65-1f6a6251a556#ref=rss)
-### bafin
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
 ### silicon
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende-a-9c545227-e5c1-454f-ba62-65332fed16d9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars](https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars-a-9181af89-17d2-4ceb-b34c-cc6922c0f9ba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden-a-f27d48cb-b251-4dc0-9ce0-cc7b70587547#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise](https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise-a-a3d0def1-a500-4b84-aa21-f71b8d63406d#ref=rss)
 ### valley
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende-a-9c545227-e5c1-454f-ba62-65332fed16d9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars](https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars-a-9181af89-17d2-4ceb-b34c-cc6922c0f9ba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden-a-f27d48cb-b251-4dc0-9ce0-cc7b70587547#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise](https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise-a-a3d0def1-a500-4b84-aa21-f71b8d63406d#ref=rss)
 ### bank
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
-### waren
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende-a-9c545227-e5c1-454f-ba62-65332fed16d9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars](https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars-a-9181af89-17d2-4ceb-b34c-cc6922c0f9ba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden-a-f27d48cb-b251-4dc0-9ce0-cc7b70587547#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise](https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise-a-a3d0def1-a500-4b84-aa21-f71b8d63406d#ref=rss)
+### rostock
 
-* [https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala](https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala-a-61811901-873a-4fc3-a4c8-707778057061#ref=rss)
-* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
-### besten
+* [https://www.spiegel.de/panorama/justiz/rostock-eltern-und-schwester-ermordet-lebenslange-haft-fuer-27-jaehrigen-aus-roevershagen](https://www.spiegel.de/panorama/justiz/rostock-eltern-und-schwester-ermordet-lebenslange-haft-fuer-27-jaehrigen-aus-roevershagen-a-f0ab66fb-0c1f-4791-974f-f0ba05a753b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hansa-rostock-fans-stehlen-in-tankstelle-in-buechen](https://www.spiegel.de/panorama/justiz/hansa-rostock-fans-stehlen-in-tankstelle-in-buechen-a-204ff178-3fcf-4a8a-aa85-f8ceed0621ee#ref=rss)
+### oscars
 
-* [https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala](https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala-a-61811901-873a-4fc3-a4c8-707778057061#ref=rss)
-### freudenberg
+* [https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege](https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege-a-568b771b-2f1c-4f92-b013-7f07522c5abb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars](https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars-a-9181af89-17d2-4ceb-b34c-cc6922c0f9ba#ref=rss)
+* [https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist](https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist-a-b78845e7-d715-4230-979d-b72d06f39de5#ref=rss)
+* [https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte](https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte-a-80caab57-071e-45ee-82ee-ad02fd3a5105#ref=rss)
+### neues
 
-* [https://www.spiegel.de/panorama/justiz/freudenberg-zwoelfjaehrige-soll-obduziert-werden-trauer-nach-leichenfund](https://www.spiegel.de/panorama/justiz/freudenberg-zwoelfjaehrige-soll-obduziert-werden-trauer-nach-leichenfund-a-eac27c1d-e80d-457f-8205-092145259c29#ref=rss)
-### laut
+* [https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege](https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege-a-568b771b-2f1c-4f92-b013-7f07522c5abb#ref=rss)
+* [https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist](https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist-a-b78845e7-d715-4230-979d-b72d06f39de5#ref=rss)
+* [https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen](https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen-a-2dcb83dd-dec9-4585-992c-495f035ea658#ref=rss)
+### alle
 
-* [https://www.spiegel.de/panorama/justiz/freudenberg-zwoelfjaehrige-soll-obduziert-werden-trauer-nach-leichenfund](https://www.spiegel.de/panorama/justiz/freudenberg-zwoelfjaehrige-soll-obduziert-werden-trauer-nach-leichenfund-a-eac27c1d-e80d-457f-8205-092145259c29#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten](https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten-a-fc5640bd-736e-4943-acc1-9749a14a0448#ref=rss)
-### erfurt
+* [https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren](https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren-a-931428c2-b436-443f-a1fd-743d425ae21b#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/amoklauf-in-hamburg-panne-beim-handyalarm](https://www.spiegel.de/netzwelt/netzpolitik/amoklauf-in-hamburg-panne-beim-handyalarm-a-e581763f-cb2e-4aac-ba32-586aab401dc2#ref=rss)
+* [https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte](https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte-a-80caab57-071e-45ee-82ee-ad02fd3a5105#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden](https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden-a-f219be53-8f99-446f-a26d-d44a5bb1f917#ref=rss)
-### euro
+* [https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren](https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren-a-931428c2-b436-443f-a1fd-743d425ae21b#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/galaxy-s23-ultra-streit-um-samsungs-mondfotos-sind-sie-fake](https://www.spiegel.de/netzwelt/gadgets/galaxy-s23-ultra-streit-um-samsungs-mondfotos-sind-sie-fake-a-bab8e9c9-53c8-4932-9613-ba65d9658ce0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/schweiz-rinderwahn-bse-bei-einer-kuh-entdeckt](https://www.spiegel.de/wissenschaft/natur/schweiz-rinderwahn-bse-bei-einer-kuh-entdeckt-a-5e79134a-1f88-47fc-989c-3d5e8776d6ee#ref=rss)
+* [https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte](https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte-a-80caab57-071e-45ee-82ee-ad02fd3a5105#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden](https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden-a-f219be53-8f99-446f-a26d-d44a5bb1f917#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
-### sachschaden
+* [https://www.spiegel.de/wirtschaft/service/eu-staaten-melden-mehr-als-2000-gefaehrliche-produkte](https://www.spiegel.de/wirtschaft/service/eu-staaten-melden-mehr-als-2000-gefaehrliche-produkte-a-db163208-ec25-44f6-83b7-198f4b9f9c7f#ref=rss)
+* [https://www.spiegel.de/ausland/die-bbc-und-gary-lineker-auf-dem-rechten-weg](https://www.spiegel.de/ausland/die-bbc-und-gary-lineker-auf-dem-rechten-weg-a-0badf6a9-683b-4c8f-9461-2710a5d032d7#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen](https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen-a-7f98fd80-d8e0-464c-b316-5cb743dbecf5#ref=rss)
+### wir
 
-* [https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden](https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden-a-f219be53-8f99-446f-a26d-d44a5bb1f917#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende-a-9c545227-e5c1-454f-ba62-65332fed16d9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars](https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars-a-9181af89-17d2-4ceb-b34c-cc6922c0f9ba#ref=rss)
+* [https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren](https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren-a-931428c2-b436-443f-a1fd-743d425ae21b#ref=rss)
+### usa
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende-a-9c545227-e5c1-454f-ba62-65332fed16d9#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-konservative-katholiken-sollen-priester-mit-internetdaten-geoutet-haben](https://www.spiegel.de/netzwelt/netzpolitik/usa-konservative-katholiken-sollen-priester-mit-internetdaten-geoutet-haben-a-d79a2f9f-6cc2-48cf-ab0b-d0af1503b4ce#ref=rss)
+* [https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen](https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen-a-2dcb83dd-dec9-4585-992c-495f035ea658#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende-a-9c545227-e5c1-454f-ba62-65332fed16d9#ref=rss)
+* [https://www.spiegel.de/kultur/musik/apache-207-vor-wham-roller-bricht-last-christmas-rekord](https://www.spiegel.de/kultur/musik/apache-207-vor-wham-roller-bricht-last-christmas-rekord-a-9d8ccd00-cc0e-45c4-b798-4795298e7808#ref=rss)
+* [https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren](https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren-a-931428c2-b436-443f-a1fd-743d425ae21b#ref=rss)
+### fast
+
+* [https://www.spiegel.de/panorama/justiz/doppelmord-von-koblenz-sohn-von-ermordeten-rentnern-verklagt-ehefrau-auf-schmerzensgeld](https://www.spiegel.de/panorama/justiz/doppelmord-von-koblenz-sohn-von-ermordeten-rentnern-verklagt-ehefrau-auf-schmerzensgeld-a-934f547c-b080-4141-afd0-00077476203d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linken-spitzenpolitiker-jan-korte-zieht-sich-zurueck](https://www.spiegel.de/politik/deutschland/linken-spitzenpolitiker-jan-korte-zieht-sich-zurueck-a-16ae3d68-972f-4f23-a918-65aa6baac02c#ref=rss)
+* [https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte](https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte-a-80caab57-071e-45ee-82ee-ad02fd3a5105#ref=rss)
+### westen
+
+* [https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege](https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege-a-568b771b-2f1c-4f92-b013-7f07522c5abb#ref=rss)
+* [https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist](https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist-a-b78845e7-d715-4230-979d-b72d06f39de5#ref=rss)
+### nichts
+
+* [https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege](https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege-a-568b771b-2f1c-4f92-b013-7f07522c5abb#ref=rss)
+* [https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist](https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist-a-b78845e7-d715-4230-979d-b72d06f39de5#ref=rss)
+### mordes
+
+* [https://www.spiegel.de/panorama/justiz/rostock-eltern-und-schwester-ermordet-lebenslange-haft-fuer-27-jaehrigen-aus-roevershagen](https://www.spiegel.de/panorama/justiz/rostock-eltern-und-schwester-ermordet-lebenslange-haft-fuer-27-jaehrigen-aus-roevershagen-a-f0ab66fb-0c1f-4791-974f-f0ba05a753b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/doppelmord-von-koblenz-sohn-von-ermordeten-rentnern-verklagt-ehefrau-auf-schmerzensgeld](https://www.spiegel.de/panorama/justiz/doppelmord-von-koblenz-sohn-von-ermordeten-rentnern-verklagt-ehefrau-auf-schmerzensgeld-a-934f547c-b080-4141-afd0-00077476203d#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/panorama/justiz/rostock-eltern-und-schwester-ermordet-lebenslange-haft-fuer-27-jaehrigen-aus-roevershagen](https://www.spiegel.de/panorama/justiz/rostock-eltern-und-schwester-ermordet-lebenslange-haft-fuer-27-jaehrigen-aus-roevershagen-a-f0ab66fb-0c1f-4791-974f-f0ba05a753b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/doppelmord-von-koblenz-sohn-von-ermordeten-rentnern-verklagt-ehefrau-auf-schmerzensgeld](https://www.spiegel.de/panorama/justiz/doppelmord-von-koblenz-sohn-von-ermordeten-rentnern-verklagt-ehefrau-auf-schmerzensgeld-a-934f547c-b080-4141-afd0-00077476203d#ref=rss)
+### pleite
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende-a-9c545227-e5c1-454f-ba62-65332fed16d9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden-a-f27d48cb-b251-4dc0-9ce0-cc7b70587547#ref=rss)
+### kunden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende-a-9c545227-e5c1-454f-ba62-65332fed16d9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden-a-f27d48cb-b251-4dc0-9ce0-cc7b70587547#ref=rss)
+### uns
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende-a-9c545227-e5c1-454f-ba62-65332fed16d9#ref=rss)
+* [https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren](https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren-a-931428c2-b436-443f-a1fd-743d425ae21b#ref=rss)
+### droht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende-a-9c545227-e5c1-454f-ba62-65332fed16d9#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-will-im-stormy-daniels-fall-nicht-vor-grand-jury-aussagen](https://www.spiegel.de/ausland/donald-trump-will-im-stormy-daniels-fall-nicht-vor-grand-jury-aussagen-a-1d63e43c-2a16-415b-acab-ac19c9dddc24#ref=rss)
+### finanzkrise
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-ist-pleite-wir-erleben-die-schattenseiten-der-zinswende-a-9c545227-e5c1-454f-ba62-65332fed16d9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise](https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise-a-a3d0def1-a500-4b84-aa21-f71b8d63406d#ref=rss)
+### verklagt
+
+* [https://www.spiegel.de/panorama/justiz/doppelmord-von-koblenz-sohn-von-ermordeten-rentnern-verklagt-ehefrau-auf-schmerzensgeld](https://www.spiegel.de/panorama/justiz/doppelmord-von-koblenz-sohn-von-ermordeten-rentnern-verklagt-ehefrau-auf-schmerzensgeld-a-934f547c-b080-4141-afd0-00077476203d#ref=rss)
+### schmerzensgeld
+
+* [https://www.spiegel.de/panorama/justiz/doppelmord-von-koblenz-sohn-von-ermordeten-rentnern-verklagt-ehefrau-auf-schmerzensgeld](https://www.spiegel.de/panorama/justiz/doppelmord-von-koblenz-sohn-von-ermordeten-rentnern-verklagt-ehefrau-auf-schmerzensgeld-a-934f547c-b080-4141-afd0-00077476203d#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/justiz/doppelmord-von-koblenz-sohn-von-ermordeten-rentnern-verklagt-ehefrau-auf-schmerzensgeld](https://www.spiegel.de/panorama/justiz/doppelmord-von-koblenz-sohn-von-ermordeten-rentnern-verklagt-ehefrau-auf-schmerzensgeld-a-934f547c-b080-4141-afd0-00077476203d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/niederlaender-findet-tausend-jahre-alten-goldschatz](https://www.spiegel.de/wissenschaft/mensch/niederlaender-findet-tausend-jahre-alten-goldschatz-a-c776afd1-78ce-4c41-9efa-4088bcaf51a3#ref=rss)
+### kriege
+
+* [https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege](https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege-a-568b771b-2f1c-4f92-b013-7f07522c5abb#ref=rss)
+### gute
+
+* [https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege](https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege-a-568b771b-2f1c-4f92-b013-7f07522c5abb#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen](https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen-a-7f98fd80-d8e0-464c-b316-5cb743dbecf5#ref=rss)
+### allem
+
+* [https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege](https://www.spiegel.de/kultur/oscars-2023-fuer-im-westen-nichts-neues-boese-kriege-gute-kriege-a-568b771b-2f1c-4f92-b013-7f07522c5abb#ref=rss)
+* [https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen](https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen-a-2dcb83dd-dec9-4585-992c-495f035ea658#ref=rss)
 ### bachmut
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten](https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten-a-fc5640bd-736e-4943-acc1-9749a14a0448#ref=rss)
-### verluste
+* [https://www.spiegel.de/ausland/ukraine-krieg-schlacht-um-bachmut-jeder-meter-kostet-menschenleben](https://www.spiegel.de/ausland/ukraine-krieg-schlacht-um-bachmut-jeder-meter-kostet-menschenleben-a-e6780eaf-f69f-497f-86d8-9e08119b5134#ref=rss)
+### russischen
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten](https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten-a-fc5640bd-736e-4943-acc1-9749a14a0448#ref=rss)
-### britische
+* [https://www.spiegel.de/ausland/ukraine-krieg-schlacht-um-bachmut-jeder-meter-kostet-menschenleben](https://www.spiegel.de/ausland/ukraine-krieg-schlacht-um-bachmut-jeder-meter-kostet-menschenleben-a-e6780eaf-f69f-497f-86d8-9e08119b5134#ref=rss)
+* [https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist](https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist-a-b78845e7-d715-4230-979d-b72d06f39de5#ref=rss)
+### kommen
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten](https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten-a-fc5640bd-736e-4943-acc1-9749a14a0448#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
-### zusätzlich
+* [https://www.spiegel.de/ausland/ukraine-krieg-schlacht-um-bachmut-jeder-meter-kostet-menschenleben](https://www.spiegel.de/ausland/ukraine-krieg-schlacht-um-bachmut-jeder-meter-kostet-menschenleben-a-e6780eaf-f69f-497f-86d8-9e08119b5134#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen-a-ada9dce1-fd2d-4da7-934e-59d2de63f77f#ref=rss)
+### apache
 
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten](https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten-a-fc5640bd-736e-4943-acc1-9749a14a0448#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
-### ocean
+* [https://www.spiegel.de/kultur/musik/apache-207-vor-wham-roller-bricht-last-christmas-rekord](https://www.spiegel.de/kultur/musik/apache-207-vor-wham-roller-bricht-last-christmas-rekord-a-9d8ccd00-cc0e-45c4-b798-4795298e7808#ref=rss)
+### 207
 
-* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
-### race
+* [https://www.spiegel.de/kultur/musik/apache-207-vor-wham-roller-bricht-last-christmas-rekord](https://www.spiegel.de/kultur/musik/apache-207-vor-wham-roller-bricht-last-christmas-rekord-a-9d8ccd00-cc0e-45c4-b798-4795298e7808#ref=rss)
+### last
 
-* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
+* [https://www.spiegel.de/kultur/musik/apache-207-vor-wham-roller-bricht-last-christmas-rekord](https://www.spiegel.de/kultur/musik/apache-207-vor-wham-roller-bricht-last-christmas-rekord-a-9d8ccd00-cc0e-45c4-b798-4795298e7808#ref=rss)
+### jan
+
+* [https://www.spiegel.de/politik/deutschland/linken-spitzenpolitiker-jan-korte-zieht-sich-zurueck](https://www.spiegel.de/politik/deutschland/linken-spitzenpolitiker-jan-korte-zieht-sich-zurueck-a-16ae3d68-972f-4f23-a918-65aa6baac02c#ref=rss)
+### korte
+
+* [https://www.spiegel.de/politik/deutschland/linken-spitzenpolitiker-jan-korte-zieht-sich-zurueck](https://www.spiegel.de/politik/deutschland/linken-spitzenpolitiker-jan-korte-zieht-sich-zurueck-a-16ae3d68-972f-4f23-a918-65aa6baac02c#ref=rss)
+### künftig
+
+* [https://www.spiegel.de/politik/deutschland/linken-spitzenpolitiker-jan-korte-zieht-sich-zurueck](https://www.spiegel.de/politik/deutschland/linken-spitzenpolitiker-jan-korte-zieht-sich-zurueck-a-16ae3d68-972f-4f23-a918-65aa6baac02c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden-a-f27d48cb-b251-4dc0-9ce0-cc7b70587547#ref=rss)
+### wale
+
+* [https://www.spiegel.de/wissenschaft/natur/maul-auf-und-warten-fressende-wale-inspirierten-offenbar-seefahrermythen](https://www.spiegel.de/wissenschaft/natur/maul-auf-und-warten-fressende-wale-inspirierten-offenbar-seefahrermythen-a-31d06df8-6d6f-4c09-a1d9-3dfeefd4d341#ref=rss)
+### studie
+
+* [https://www.spiegel.de/wissenschaft/natur/maul-auf-und-warten-fressende-wale-inspirierten-offenbar-seefahrermythen](https://www.spiegel.de/wissenschaft/natur/maul-auf-und-warten-fressende-wale-inspirierten-offenbar-seefahrermythen-a-31d06df8-6d6f-4c09-a1d9-3dfeefd4d341#ref=rss)
+* [https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen](https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen-a-2dcb83dd-dec9-4585-992c-495f035ea658#ref=rss)
+### davon
+
+* [https://www.spiegel.de/wissenschaft/natur/maul-auf-und-warten-fressende-wale-inspirierten-offenbar-seefahrermythen](https://www.spiegel.de/wissenschaft/natur/maul-auf-und-warten-fressende-wale-inspirierten-offenbar-seefahrermythen-a-31d06df8-6d6f-4c09-a1d9-3dfeefd4d341#ref=rss)
+* [https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen](https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen-a-2dcb83dd-dec9-4585-992c-495f035ea658#ref=rss)
+### anleger
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars](https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars-a-9181af89-17d2-4ceb-b34c-cc6922c0f9ba#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden-a-f27d48cb-b251-4dc0-9ce0-cc7b70587547#ref=rss)
+### lage
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars](https://www.spiegel.de/politik/deutschland/news-des-tages-silicon-valley-bank-wahlrechtsreform-oscars-a-9181af89-17d2-4ceb-b34c-cc6922c0f9ba#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bildung-wie-ein-geplanter-gipfel-zur-farce-verkommt](https://www.spiegel.de/panorama/bildung/bildung-wie-ein-geplanter-gipfel-zur-farce-verkommt-a-db0b0058-6f22-48e6-a831-825d04c6e0a5#ref=rss)
+### hansa
+
+* [https://www.spiegel.de/panorama/justiz/hansa-rostock-fans-stehlen-in-tankstelle-in-buechen](https://www.spiegel.de/panorama/justiz/hansa-rostock-fans-stehlen-in-tankstelle-in-buechen-a-204ff178-3fcf-4a8a-aa85-f8ceed0621ee#ref=rss)
+### tankstelle
+
+* [https://www.spiegel.de/panorama/justiz/hansa-rostock-fans-stehlen-in-tankstelle-in-buechen](https://www.spiegel.de/panorama/justiz/hansa-rostock-fans-stehlen-in-tankstelle-in-buechen-a-204ff178-3fcf-4a8a-aa85-f8ceed0621ee#ref=rss)
+### betreuung
+
+* [https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren](https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren-a-931428c2-b436-443f-a1fd-743d425ae21b#ref=rss)
+### wann
+
+* [https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren](https://www.spiegel.de/familie/gesetzliche-betreuung-wir-empfehlen-eine-vorsorgevollmacht-fuer-alle-ab-18-jahren-a-931428c2-b436-443f-a1fd-743d425ae21b#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen-a-ada9dce1-fd2d-4da7-934e-59d2de63f77f#ref=rss)
+### eustaaten
+
+* [https://www.spiegel.de/wirtschaft/service/eu-staaten-melden-mehr-als-2000-gefaehrliche-produkte](https://www.spiegel.de/wirtschaft/service/eu-staaten-melden-mehr-als-2000-gefaehrliche-produkte-a-db163208-ec25-44f6-83b7-198f4b9f9c7f#ref=rss)
+### hamburg
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/amoklauf-in-hamburg-panne-beim-handyalarm](https://www.spiegel.de/netzwelt/netzpolitik/amoklauf-in-hamburg-panne-beim-handyalarm-a-e581763f-cb2e-4aac-ba32-586aab401dc2#ref=rss)
+### fake
+
+* [https://www.spiegel.de/netzwelt/gadgets/galaxy-s23-ultra-streit-um-samsungs-mondfotos-sind-sie-fake](https://www.spiegel.de/netzwelt/gadgets/galaxy-s23-ultra-streit-um-samsungs-mondfotos-sind-sie-fake-a-bab8e9c9-53c8-4932-9613-ba65d9658ce0#ref=rss)
+### dzsenifer
+
+* [https://www.spiegel.de/sport/fussball/dzsenifer-marozsan-beendet-dfb-karriere-rio-wird-ihr-immer-bleiben](https://www.spiegel.de/sport/fussball/dzsenifer-marozsan-beendet-dfb-karriere-rio-wird-ihr-immer-bleiben-a-448c92f0-3fd7-4d86-a4ee-4e5267be7555#ref=rss)
+### marozsán
+
+* [https://www.spiegel.de/sport/fussball/dzsenifer-marozsan-beendet-dfb-karriere-rio-wird-ihr-immer-bleiben](https://www.spiegel.de/sport/fussball/dzsenifer-marozsan-beendet-dfb-karriere-rio-wird-ihr-immer-bleiben-a-448c92f0-3fd7-4d86-a4ee-4e5267be7555#ref=rss)
+### beendet
+
+* [https://www.spiegel.de/sport/fussball/dzsenifer-marozsan-beendet-dfb-karriere-rio-wird-ihr-immer-bleiben](https://www.spiegel.de/sport/fussball/dzsenifer-marozsan-beendet-dfb-karriere-rio-wird-ihr-immer-bleiben-a-448c92f0-3fd7-4d86-a4ee-4e5267be7555#ref=rss)
+### dfbkarriere
+
+* [https://www.spiegel.de/sport/fussball/dzsenifer-marozsan-beendet-dfb-karriere-rio-wird-ihr-immer-bleiben](https://www.spiegel.de/sport/fussball/dzsenifer-marozsan-beendet-dfb-karriere-rio-wird-ihr-immer-bleiben-a-448c92f0-3fd7-4d86-a4ee-4e5267be7555#ref=rss)
+### rio
+
+* [https://www.spiegel.de/sport/fussball/dzsenifer-marozsan-beendet-dfb-karriere-rio-wird-ihr-immer-bleiben](https://www.spiegel.de/sport/fussball/dzsenifer-marozsan-beendet-dfb-karriere-rio-wird-ihr-immer-bleiben-a-448c92f0-3fd7-4d86-a4ee-4e5267be7555#ref=rss)
+### galeria
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen-a-ada9dce1-fd2d-4da7-934e-59d2de63f77f#ref=rss)
+### karstadt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen-a-ada9dce1-fd2d-4da7-934e-59d2de63f77f#ref=rss)
+### kaufhof
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen-a-ada9dce1-fd2d-4da7-934e-59d2de63f77f#ref=rss)
+### 52
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen-a-ada9dce1-fd2d-4da7-934e-59d2de63f77f#ref=rss)
+### krise
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-diese-52-filialen-muessen-schliessen-a-ada9dce1-fd2d-4da7-934e-59d2de63f77f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise](https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise-a-a3d0def1-a500-4b84-aa21-f71b8d63406d#ref=rss)
+### donald
+
+* [https://www.spiegel.de/ausland/donald-trump-will-im-stormy-daniels-fall-nicht-vor-grand-jury-aussagen](https://www.spiegel.de/ausland/donald-trump-will-im-stormy-daniels-fall-nicht-vor-grand-jury-aussagen-a-1d63e43c-2a16-415b-acab-ac19c9dddc24#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-will-im-stormy-daniels-fall-nicht-vor-grand-jury-aussagen](https://www.spiegel.de/ausland/donald-trump-will-im-stormy-daniels-fall-nicht-vor-grand-jury-aussagen-a-1d63e43c-2a16-415b-acab-ac19c9dddc24#ref=rss)
+### fall
+
+* [https://www.spiegel.de/ausland/donald-trump-will-im-stormy-daniels-fall-nicht-vor-grand-jury-aussagen](https://www.spiegel.de/ausland/donald-trump-will-im-stormy-daniels-fall-nicht-vor-grand-jury-aussagen-a-1d63e43c-2a16-415b-acab-ac19c9dddc24#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-konservative-katholiken-sollen-priester-mit-internetdaten-geoutet-haben](https://www.spiegel.de/netzwelt/netzpolitik/usa-konservative-katholiken-sollen-priester-mit-internetdaten-geoutet-haben-a-d79a2f9f-6cc2-48cf-ab0b-d0af1503b4ce#ref=rss)
+### schweiz
+
+* [https://www.spiegel.de/wissenschaft/natur/schweiz-rinderwahn-bse-bei-einer-kuh-entdeckt](https://www.spiegel.de/wissenschaft/natur/schweiz-rinderwahn-bse-bei-einer-kuh-entdeckt-a-5e79134a-1f88-47fc-989c-3d5e8776d6ee#ref=rss)
+### bse
+
+* [https://www.spiegel.de/wissenschaft/natur/schweiz-rinderwahn-bse-bei-einer-kuh-entdeckt](https://www.spiegel.de/wissenschaft/natur/schweiz-rinderwahn-bse-bei-einer-kuh-entdeckt-a-5e79134a-1f88-47fc-989c-3d5e8776d6ee#ref=rss)
+### kuh
+
+* [https://www.spiegel.de/wissenschaft/natur/schweiz-rinderwahn-bse-bei-einer-kuh-entdeckt](https://www.spiegel.de/wissenschaft/natur/schweiz-rinderwahn-bse-bei-einer-kuh-entdeckt-a-5e79134a-1f88-47fc-989c-3d5e8776d6ee#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wissenschaft/natur/schweiz-rinderwahn-bse-bei-einer-kuh-entdeckt](https://www.spiegel.de/wissenschaft/natur/schweiz-rinderwahn-bse-bei-einer-kuh-entdeckt-a-5e79134a-1f88-47fc-989c-3d5e8776d6ee#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen](https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen-a-7f98fd80-d8e0-464c-b316-5cb743dbecf5#ref=rss)
+### priester
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/usa-konservative-katholiken-sollen-priester-mit-internetdaten-geoutet-haben](https://www.spiegel.de/netzwelt/netzpolitik/usa-konservative-katholiken-sollen-priester-mit-internetdaten-geoutet-haben-a-d79a2f9f-6cc2-48cf-ab0b-d0af1503b4ce#ref=rss)
+### erich
+
+* [https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist](https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist-a-b78845e7-d715-4230-979d-b72d06f39de5#ref=rss)
+### maria
+
+* [https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist](https://www.spiegel.de/geschichte/oscars-fuer-im-westen-nichts-neues-warum-erich-maria-remarque-der-gewinner-ist-a-b78845e7-d715-4230-979d-b72d06f39de5#ref=rss)
+### mister
+
+* [https://www.spiegel.de/panorama/gruenes-gewoelbe-prozess-um-einbruch-die-erzaehlung-von-mister-x-und-mister-y](https://www.spiegel.de/panorama/gruenes-gewoelbe-prozess-um-einbruch-die-erzaehlung-von-mister-x-und-mister-y-a-0fe90a67-9c21-4b07-b463-a8eadf7e548a#ref=rss)
+### carsten
+
+* [https://www.spiegel.de/politik/deutschland/carsten-breuer-boris-pistorius-ernennt-neuen-generalinspekteur-der-bundeswehr](https://www.spiegel.de/politik/deutschland/carsten-breuer-boris-pistorius-ernennt-neuen-generalinspekteur-der-bundeswehr-a-eb369eaa-2622-4a18-b47e-d91f1cef0ac0#ref=rss)
+### breuer
+
+* [https://www.spiegel.de/politik/deutschland/carsten-breuer-boris-pistorius-ernennt-neuen-generalinspekteur-der-bundeswehr](https://www.spiegel.de/politik/deutschland/carsten-breuer-boris-pistorius-ernennt-neuen-generalinspekteur-der-bundeswehr-a-eb369eaa-2622-4a18-b47e-d91f1cef0ac0#ref=rss)
 ### boris
 
-* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
-### herrmann
+* [https://www.spiegel.de/politik/deutschland/carsten-breuer-boris-pistorius-ernennt-neuen-generalinspekteur-der-bundeswehr](https://www.spiegel.de/politik/deutschland/carsten-breuer-boris-pistorius-ernennt-neuen-generalinspekteur-der-bundeswehr-a-eb369eaa-2622-4a18-b47e-d91f1cef0ac0#ref=rss)
+### pistorius
 
-* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
-### malizia
+* [https://www.spiegel.de/politik/deutschland/carsten-breuer-boris-pistorius-ernennt-neuen-generalinspekteur-der-bundeswehr](https://www.spiegel.de/politik/deutschland/carsten-breuer-boris-pistorius-ernennt-neuen-generalinspekteur-der-bundeswehr-a-eb369eaa-2622-4a18-b47e-d91f1cef0ac0#ref=rss)
+### generalinspekteur
 
-* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
-### platz
+* [https://www.spiegel.de/politik/deutschland/carsten-breuer-boris-pistorius-ernennt-neuen-generalinspekteur-der-bundeswehr](https://www.spiegel.de/politik/deutschland/carsten-breuer-boris-pistorius-ernennt-neuen-generalinspekteur-der-bundeswehr-a-eb369eaa-2622-4a18-b47e-d91f1cef0ac0#ref=rss)
+### migräne
 
-* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
-### großer
+* [https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen](https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen-a-2dcb83dd-dec9-4585-992c-495f035ea658#ref=rss)
+### pfizer
 
-* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben-a-0d55b84a-0b7f-4fa1-9897-670c191fcca0#ref=rss)
-### london
+* [https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen](https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen-a-2dcb83dd-dec9-4585-992c-495f035ea658#ref=rss)
+### zugelassen
 
-* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
-### fünf
+* [https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen](https://www.spiegel.de/gesundheit/migraene-neues-nasenspray-von-pfizer-in-den-usa-zugelassen-a-2dcb83dd-dec9-4585-992c-495f035ea658#ref=rss)
+### joe
 
-* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
-### pfund
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden-a-f27d48cb-b251-4dc0-9ce0-cc7b70587547#ref=rss)
+### biden
 
-* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
-### marode
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden-a-f27d48cb-b251-4dc0-9ce0-cc7b70587547#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
-### menschenrechtler
+* [https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden](https://www.spiegel.de/wirtschaft/unternehmen/silicon-valley-bank-joe-biden-verspricht-einlagensicherheit-fuer-kunden-a-f27d48cb-b251-4dc0-9ce0-cc7b70587547#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/niederlaender-findet-tausend-jahre-alten-goldschatz](https://www.spiegel.de/wissenschaft/mensch/niederlaender-findet-tausend-jahre-alten-goldschatz-a-c776afd1-78ce-4c41-9efa-4088bcaf51a3#ref=rss)
+### bbc
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern](https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern-a-8ab4bc97-9d8c-4660-a0a3-013bba1467bf#ref=rss)
-### ohne
+* [https://www.spiegel.de/ausland/die-bbc-und-gary-lineker-auf-dem-rechten-weg](https://www.spiegel.de/ausland/die-bbc-und-gary-lineker-auf-dem-rechten-weg-a-0badf6a9-683b-4c8f-9461-2710a5d032d7#ref=rss)
+### gary
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern](https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern-a-8ab4bc97-9d8c-4660-a0a3-013bba1467bf#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
-### abitur
+* [https://www.spiegel.de/ausland/die-bbc-und-gary-lineker-auf-dem-rechten-weg](https://www.spiegel.de/ausland/die-bbc-und-gary-lineker-auf-dem-rechten-weg-a-0badf6a9-683b-4c8f-9461-2710a5d032d7#ref=rss)
+### lineker
 
-* [https://www.spiegel.de/panorama/bildung/abitur-bildungsoekonom-warnt-vor-entwertung-der-abiturnoten](https://www.spiegel.de/panorama/bildung/abitur-bildungsoekonom-warnt-vor-entwertung-der-abiturnoten-a-1b9e4c7d-691e-4e97-a660-f255694b4fa6#ref=rss)
-### warnt
+* [https://www.spiegel.de/ausland/die-bbc-und-gary-lineker-auf-dem-rechten-weg](https://www.spiegel.de/ausland/die-bbc-und-gary-lineker-auf-dem-rechten-weg-a-0badf6a9-683b-4c8f-9461-2710a5d032d7#ref=rss)
+### zeigen
 
-* [https://www.spiegel.de/panorama/bildung/abitur-bildungsoekonom-warnt-vor-entwertung-der-abiturnoten](https://www.spiegel.de/panorama/bildung/abitur-bildungsoekonom-warnt-vor-entwertung-der-abiturnoten-a-1b9e4c7d-691e-4e97-a660-f255694b4fa6#ref=rss)
-* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
-### hagen
+* [https://www.spiegel.de/ausland/die-bbc-und-gary-lineker-auf-dem-rechten-weg](https://www.spiegel.de/ausland/die-bbc-und-gary-lineker-auf-dem-rechten-weg-a-0badf6a9-683b-4c8f-9461-2710a5d032d7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise](https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise-a-a3d0def1-a500-4b84-aa21-f71b8d63406d#ref=rss)
+### forstbiologe
 
-* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
-### mutmaßlicher
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen](https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen-a-7f98fd80-d8e0-464c-b316-5cb743dbecf5#ref=rss)
+### andreas
 
-* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
-### einbrecher
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen](https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen-a-7f98fd80-d8e0-464c-b316-5cb743dbecf5#ref=rss)
+### roloff
 
-* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
-### lenne
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen](https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen-a-7f98fd80-d8e0-464c-b316-5cb743dbecf5#ref=rss)
+### städte
 
-* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
-### afrika
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen](https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen-a-7f98fd80-d8e0-464c-b316-5cb743dbecf5#ref=rss)
+### bäume
 
-* [https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik](https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik-a-6b3bd4a4-2da2-419a-a3f1-9211bc9c3dba#ref=rss)
-### deutschen
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen](https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen-a-7f98fd80-d8e0-464c-b316-5cb743dbecf5#ref=rss)
+### pflanzen
 
-* [https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik](https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik-a-6b3bd4a4-2da2-419a-a3f1-9211bc9c3dba#ref=rss)
-### china
+* [https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen](https://www.spiegel.de/wissenschaft/natur/klimawandel-forstbiologe-andreas-roloff-fordert-die-staedte-auf-mehr-baeume-zu-pflanzen-a-7f98fd80-d8e0-464c-b316-5cb743dbecf5#ref=rss)
+### kollaps
 
-* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
-### regierungschef
+* [https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise](https://www.spiegel.de/wirtschaft/unternehmen/kollaps-der-silicon-valley-bank-ein-hauch-von-finanzkrise-a-a3d0def1-a500-4b84-aa21-f71b8d63406d#ref=rss)
+### goldschatz
 
-* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
-### li
+* [https://www.spiegel.de/wissenschaft/mensch/niederlaender-findet-tausend-jahre-alten-goldschatz](https://www.spiegel.de/wissenschaft/mensch/niederlaender-findet-tausend-jahre-alten-goldschatz-a-c776afd1-78ce-4c41-9efa-4088bcaf51a3#ref=rss)
+### pate
 
-* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
-### qiang
-
-* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
-### everything
-
-* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
-### everywhere
-
-* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
-### all
-
-* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
-### at
-
-* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
-### once
-
-* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
-### großen
-
-* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
+* [https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte](https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte-a-80caab57-071e-45ee-82ee-ad02fd3a5105#ref=rss)
 ### film
 
-* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
-### kenzaburo
+* [https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte](https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte-a-80caab57-071e-45ee-82ee-ad02fd3a5105#ref=rss)
+### mafia
 
-* [https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben-a-0d55b84a-0b7f-4fa1-9897-670c191fcca0#ref=rss)
-### oe
-
-* [https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben-a-0d55b84a-0b7f-4fa1-9897-670c191fcca0#ref=rss)
-### 88
-
-* [https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben-a-0d55b84a-0b7f-4fa1-9897-670c191fcca0#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben-a-0d55b84a-0b7f-4fa1-9897-670c191fcca0#ref=rss)
-### esken
-
-* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
+* [https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte](https://www.spiegel.de/geschichte/der-pate-der-film-der-die-mafia-zum-mythos-machte-a-80caab57-071e-45ee-82ee-ad02fd3a5105#ref=rss)
 
