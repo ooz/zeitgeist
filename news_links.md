@@ -6,338 +6,368 @@ tags: __no_header__
 
 ### oscars
 
-* [https://www.spiegel.de/kultur/oscars-2023-geschichte-der-skandal-awards](https://www.spiegel.de/kultur/oscars-2023-geschichte-der-skandal-awards-a-34b5cc5e-0c04-4893-b1e9-73dfe9ec4121#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-alle-nominierten-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2023-alle-nominierten-in-der-uebersicht-a-71c5218d-be8f-4dc1-aebd-6d4ad4bc503f#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick](https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick-a-1086056c-7e99-458c-9292-3eaf40bf3561#ref=rss)
-### polizei
+* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
+* [https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala](https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala-a-61811901-873a-4fc3-a4c8-707778057061#ref=rss)
+* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
+### westen
 
-* [https://www.spiegel.de/ausland/moldau-polizei-enttarnt-pro-russisches-netzwerk-im-land](https://www.spiegel.de/ausland/moldau-polizei-enttarnt-pro-russisches-netzwerk-im-land-a-1710a8c8-b2c8-4a88-a940-8d7133c7c725#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-polizei-holt-einbrecher-mit-drehleiter-vom-regal](https://www.spiegel.de/panorama/berlin-polizei-holt-einbrecher-mit-drehleiter-vom-regal-a-705cd715-7768-4707-908f-3a976332811c#ref=rss)
-* [https://www.spiegel.de/panorama/freudenberg-in-suedwestfalen-polizei-findet-bei-suche-nach-maedchen-weiblichen-leichnam](https://www.spiegel.de/panorama/freudenberg-in-suedwestfalen-polizei-findet-bei-suche-nach-maedchen-weiblichen-leichnam-a-a3d2e3f3-146d-4964-a544-03bfe5652eb8#ref=rss)
-* [https://www.spiegel.de/panorama/niederkassel-luelsdorf-leiche-steckt-kopfueber-in-kanalschacht](https://www.spiegel.de/panorama/niederkassel-luelsdorf-leiche-steckt-kopfueber-in-kanalschacht-a-515abd8d-3a96-472a-acde-c450d6b89378#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/deinspiegel/chatgpt-in-der-schule-ki-ersetzt-nicht-den-gemeinsamen-unterricht](https://www.spiegel.de/deinspiegel/chatgpt-in-der-schule-ki-ersetzt-nicht-den-gemeinsamen-unterricht-a-416fae9d-c377-41cb-94b5-d642c69da133#ref=rss)
-* [https://www.spiegel.de/panorama/holocaust-ueberlebende-eva-umlauf-ich-kann-diese-alten-deutschen-immer-weniger-ertragen](https://www.spiegel.de/panorama/holocaust-ueberlebende-eva-umlauf-ich-kann-diese-alten-deutschen-immer-weniger-ertragen-a-c496ec5c-51fa-4151-8b32-ef435a31c287#ref=rss)
-* [https://www.spiegel.de/wirtschaft/flugverkehr-wegen-warnstreiks-fallen-hunderte-fluege-aus](https://www.spiegel.de/wirtschaft/flugverkehr-wegen-warnstreiks-fallen-hunderte-fluege-aus-a-a5a62c32-1600-4c97-b93b-9646c61d29ef#ref=rss)
-### trump
-
-* [https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen](https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen-a-26e9cb54-fc2d-4755-86a7-069a225547e9#ref=rss)
-### sturm
-
-* [https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen](https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen-a-26e9cb54-fc2d-4755-86a7-069a225547e9#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-auf-schneefall-folgt-fruehsommer-folgt-sturm](https://www.spiegel.de/panorama/wetter-in-deutschland-auf-schneefall-folgt-fruehsommer-folgt-sturm-a-121fda9f-a51a-441f-be3e-bdce9312f818#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus](https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus-a-fb32e8ea-0ad1-4d02-b4a9-59317d7ae395#ref=rss)
-* [https://www.spiegel.de/panorama/suedafrika-orca-paar-toetet-17-haie-frisst-aber-nur-die-leber](https://www.spiegel.de/panorama/suedafrika-orca-paar-toetet-17-haie-frisst-aber-nur-die-leber-a-c4658301-73f4-49e9-83b3-55b3ba74bc92#ref=rss)
-### 2023
-
-* [https://www.spiegel.de/kultur/oscars-2023-geschichte-der-skandal-awards](https://www.spiegel.de/kultur/oscars-2023-geschichte-der-skandal-awards-a-34b5cc5e-0c04-4893-b1e9-73dfe9ec4121#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-alle-nominierten-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2023-alle-nominierten-in-der-uebersicht-a-71c5218d-be8f-4dc1-aebd-6d4ad4bc503f#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick](https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick-a-1086056c-7e99-458c-9292-3eaf40bf3561#ref=rss)
-### überblick
-
-* [https://www.spiegel.de/kultur/kino/oscars-2023-alle-nominierten-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2023-alle-nominierten-in-der-uebersicht-a-71c5218d-be8f-4dc1-aebd-6d4ad4bc503f#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick](https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick-a-1086056c-7e99-458c-9292-3eaf40bf3561#ref=rss)
-### sc
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-besiegt-die-tsg-hoffenheim-knapp](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-besiegt-die-tsg-hoffenheim-knapp-a-087eb8c9-7978-401f-951b-592d05ed7903#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verliert-beim-karlsruher-sc-und-verpasst-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verliert-beim-karlsruher-sc-und-verpasst-die-tabellenfuehrung-a-fc37abb8-3024-4d96-986e-a48a7699538c#ref=rss)
-### land
-
-* [https://www.spiegel.de/panorama/holocaust-ueberlebende-eva-umlauf-ich-kann-diese-alten-deutschen-immer-weniger-ertragen](https://www.spiegel.de/panorama/holocaust-ueberlebende-eva-umlauf-ich-kann-diese-alten-deutschen-immer-weniger-ertragen-a-c496ec5c-51fa-4151-8b32-ef435a31c287#ref=rss)
-* [https://www.spiegel.de/ausland/moldau-polizei-enttarnt-pro-russisches-netzwerk-im-land](https://www.spiegel.de/ausland/moldau-polizei-enttarnt-pro-russisches-netzwerk-im-land-a-1710a8c8-b2c8-4a88-a940-8d7133c7c725#ref=rss)
-* [https://www.spiegel.de/ausland/usa-behoerde-warnt-wegen-kartell-gewalt-vor-reisen-nach-mexiko-waehrend-spring-break](https://www.spiegel.de/ausland/usa-behoerde-warnt-wegen-kartell-gewalt-vor-reisen-nach-mexiko-waehrend-spring-break-a-c67c4ee3-c750-40ff-a54c-709062168b77#ref=rss)
-### liebe
-
-* [https://www.spiegel.de/kultur/literatur/helga-schubert-ueber-stundenbuch-der-liebe-liebe-ist-kein-zustand-sondern-eine-aufgabe](https://www.spiegel.de/kultur/literatur/helga-schubert-ueber-stundenbuch-der-liebe-liebe-ist-kein-zustand-sondern-eine-aufgabe-a-2abc6c44-3616-449b-a9f1-d53506c903be#ref=rss)
-### sorgt
-
-* [https://www.spiegel.de/panorama/lawinenabgang-in-schruns-in-oesterreich-14-deutsche-skiwanderer-mitgerissen](https://www.spiegel.de/panorama/lawinenabgang-in-schruns-in-oesterreich-14-deutsche-skiwanderer-mitgerissen-a-9d4c4e54-c010-4387-91ff-625090ba54bd#ref=rss)
-* [https://www.spiegel.de/ausland/usa-behoerde-warnt-wegen-kartell-gewalt-vor-reisen-nach-mexiko-waehrend-spring-break](https://www.spiegel.de/ausland/usa-behoerde-warnt-wegen-kartell-gewalt-vor-reisen-nach-mexiko-waehrend-spring-break-a-c67c4ee3-c750-40ff-a54c-709062168b77#ref=rss)
-* [https://www.spiegel.de/ausland/schwangere-russinnen-in-argentinien-warum-so-viele-dort-ihre-kinder-bekommen](https://www.spiegel.de/ausland/schwangere-russinnen-in-argentinien-warum-so-viele-dort-ihre-kinder-bekommen-a-81c8f2af-aada-49a6-97b0-865a676b8409#ref=rss)
-### mädchen
-
-* [https://www.spiegel.de/panorama/freudenberg-in-suedwestfalen-polizei-findet-bei-suche-nach-maedchen-weiblichen-leichnam](https://www.spiegel.de/panorama/freudenberg-in-suedwestfalen-polizei-findet-bei-suche-nach-maedchen-weiblichen-leichnam-a-a3d2e3f3-146d-4964-a544-03bfe5652eb8#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar](https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar-a-083dc0ea-e812-4695-be65-2cd5c8f25c19#ref=rss)
-* [https://www.spiegel.de/ausland/schwangere-russinnen-in-argentinien-warum-so-viele-dort-ihre-kinder-bekommen](https://www.spiegel.de/ausland/schwangere-russinnen-in-argentinien-warum-so-viele-dort-ihre-kinder-bekommen-a-81c8f2af-aada-49a6-97b0-865a676b8409#ref=rss)
-### pence
-
-* [https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen](https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen-a-26e9cb54-fc2d-4755-86a7-069a225547e9#ref=rss)
-### donald
-
-* [https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen](https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen-a-26e9cb54-fc2d-4755-86a7-069a225547e9#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen](https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen-a-26e9cb54-fc2d-4755-86a7-069a225547e9#ref=rss)
-* [https://www.spiegel.de/kultur/oscars-2023-geschichte-der-skandal-awards](https://www.spiegel.de/kultur/oscars-2023-geschichte-der-skandal-awards-a-34b5cc5e-0c04-4893-b1e9-73dfe9ec4121#ref=rss)
-### viele
-
-* [https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen](https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen-a-26e9cb54-fc2d-4755-86a7-069a225547e9#ref=rss)
-* [https://www.spiegel.de/ausland/schwangere-russinnen-in-argentinien-warum-so-viele-dort-ihre-kinder-bekommen](https://www.spiegel.de/ausland/schwangere-russinnen-in-argentinien-warum-so-viele-dort-ihre-kinder-bekommen-a-81c8f2af-aada-49a6-97b0-865a676b8409#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen](https://www.spiegel.de/ausland/mike-pence-ueber-donald-trump-die-geschichte-wird-trump-zur-rechenschaft-ziehen-a-26e9cb54-fc2d-4755-86a7-069a225547e9#ref=rss)
-* [https://www.spiegel.de/ausland/usa-behoerde-warnt-wegen-kartell-gewalt-vor-reisen-nach-mexiko-waehrend-spring-break](https://www.spiegel.de/ausland/usa-behoerde-warnt-wegen-kartell-gewalt-vor-reisen-nach-mexiko-waehrend-spring-break-a-c67c4ee3-c750-40ff-a54c-709062168b77#ref=rss)
-### physikerin
-
-* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-physikerin-sabine-hossenfelder-ueber-die-entstehung-des-universums](https://www.spiegel.de/wissenschaft/weltall/kosmologie-physikerin-sabine-hossenfelder-ueber-die-entstehung-des-universums-a-0f045f82-dcfc-455b-afaf-0cb077ad1e33#ref=rss)
-### sabine
-
-* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-physikerin-sabine-hossenfelder-ueber-die-entstehung-des-universums](https://www.spiegel.de/wissenschaft/weltall/kosmologie-physikerin-sabine-hossenfelder-ueber-die-entstehung-des-universums-a-0f045f82-dcfc-455b-afaf-0cb077ad1e33#ref=rss)
-### hossenfelder
-
-* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-physikerin-sabine-hossenfelder-ueber-die-entstehung-des-universums](https://www.spiegel.de/wissenschaft/weltall/kosmologie-physikerin-sabine-hossenfelder-ueber-die-entstehung-des-universums-a-0f045f82-dcfc-455b-afaf-0cb077ad1e33#ref=rss)
-### alles
-
-* [https://www.spiegel.de/wissenschaft/weltall/kosmologie-physikerin-sabine-hossenfelder-ueber-die-entstehung-des-universums](https://www.spiegel.de/wissenschaft/weltall/kosmologie-physikerin-sabine-hossenfelder-ueber-die-entstehung-des-universums-a-0f045f82-dcfc-455b-afaf-0cb077ad1e33#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick](https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick-a-1086056c-7e99-458c-9292-3eaf40bf3561#ref=rss)
-### silicon
-
-* [https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus](https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus-a-fb32e8ea-0ad1-4d02-b4a9-59317d7ae395#ref=rss)
-### valley
-
-* [https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus](https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus-a-fb32e8ea-0ad1-4d02-b4a9-59317d7ae395#ref=rss)
-### bank
-
-* [https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus](https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus-a-fb32e8ea-0ad1-4d02-b4a9-59317d7ae395#ref=rss)
-### usfinanzministerin
-
-* [https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus](https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus-a-fb32e8ea-0ad1-4d02-b4a9-59317d7ae395#ref=rss)
-### janet
-
-* [https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus](https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus-a-fb32e8ea-0ad1-4d02-b4a9-59317d7ae395#ref=rss)
-### yellen
-
-* [https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus](https://www.spiegel.de/wirtschaft/silicon-valley-bank-us-finanzministerin-janet-yellen-schliesst-staatliche-rettung-aus-a-fb32e8ea-0ad1-4d02-b4a9-59317d7ae395#ref=rss)
-### alle
-
-* [https://www.spiegel.de/kultur/kino/oscars-2023-alle-nominierten-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2023-alle-nominierten-in-der-uebersicht-a-71c5218d-be8f-4dc1-aebd-6d4ad4bc503f#ref=rss)
+* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
 ### nichts
 
-* [https://www.spiegel.de/kultur/kino/oscars-2023-alle-nominierten-in-der-uebersicht](https://www.spiegel.de/kultur/kino/oscars-2023-alle-nominierten-in-der-uebersicht-a-71c5218d-be8f-4dc1-aebd-6d4ad4bc503f#ref=rss)
-* [https://www.spiegel.de/deinspiegel/chatgpt-in-der-schule-ki-ersetzt-nicht-den-gemeinsamen-unterricht](https://www.spiegel.de/deinspiegel/chatgpt-in-der-schule-ki-ersetzt-nicht-den-gemeinsamen-unterricht-a-416fae9d-c377-41cb-94b5-d642c69da133#ref=rss)
-### indien
+* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
+### neues
 
-* [https://www.spiegel.de/wissenschaft/natur/indien-nach-ausrottung-vor-70-jahren-erstes-gepardenpaerchen-lebt-wieder-in-freier-wildbahn](https://www.spiegel.de/wissenschaft/natur/indien-nach-ausrottung-vor-70-jahren-erstes-gepardenpaerchen-lebt-wieder-in-freier-wildbahn-a-aab53f12-34ad-402d-b978-0b181ff2e304#ref=rss)
-### 70
+* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
+### 2023
 
-* [https://www.spiegel.de/wissenschaft/natur/indien-nach-ausrottung-vor-70-jahren-erstes-gepardenpaerchen-lebt-wieder-in-freier-wildbahn](https://www.spiegel.de/wissenschaft/natur/indien-nach-ausrottung-vor-70-jahren-erstes-gepardenpaerchen-lebt-wieder-in-freier-wildbahn-a-aab53f12-34ad-402d-b978-0b181ff2e304#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/wissenschaft/natur/indien-nach-ausrottung-vor-70-jahren-erstes-gepardenpaerchen-lebt-wieder-in-freier-wildbahn](https://www.spiegel.de/wissenschaft/natur/indien-nach-ausrottung-vor-70-jahren-erstes-gepardenpaerchen-lebt-wieder-in-freier-wildbahn-a-aab53f12-34ad-402d-b978-0b181ff2e304#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/wissenschaft/natur/indien-nach-ausrottung-vor-70-jahren-erstes-gepardenpaerchen-lebt-wieder-in-freier-wildbahn](https://www.spiegel.de/wissenschaft/natur/indien-nach-ausrottung-vor-70-jahren-erstes-gepardenpaerchen-lebt-wieder-in-freier-wildbahn-a-aab53f12-34ad-402d-b978-0b181ff2e304#ref=rss)
-* [https://www.spiegel.de/deinspiegel/chatgpt-in-der-schule-ki-ersetzt-nicht-den-gemeinsamen-unterricht](https://www.spiegel.de/deinspiegel/chatgpt-in-der-schule-ki-ersetzt-nicht-den-gemeinsamen-unterricht-a-416fae9d-c377-41cb-94b5-d642c69da133#ref=rss)
-### fußballbundesliga
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-besiegt-die-tsg-hoffenheim-knapp](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-besiegt-die-tsg-hoffenheim-knapp-a-087eb8c9-7978-401f-951b-592d05ed7903#ref=rss)
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verliert-beim-karlsruher-sc-und-verpasst-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verliert-beim-karlsruher-sc-und-verpasst-die-tabellenfuehrung-a-fc37abb8-3024-4d96-986e-a48a7699538c#ref=rss)
-### freiburg
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-besiegt-die-tsg-hoffenheim-knapp](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-besiegt-die-tsg-hoffenheim-knapp-a-087eb8c9-7978-401f-951b-592d05ed7903#ref=rss)
-### hoffenheim
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-besiegt-die-tsg-hoffenheim-knapp](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-besiegt-die-tsg-hoffenheim-knapp-a-087eb8c9-7978-401f-951b-592d05ed7903#ref=rss)
-### knapp
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-besiegt-die-tsg-hoffenheim-knapp](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-besiegt-die-tsg-hoffenheim-knapp-a-087eb8c9-7978-401f-951b-592d05ed7903#ref=rss)
-* [https://www.spiegel.de/wirtschaft/flugverkehr-wegen-warnstreiks-fallen-hunderte-fluege-aus](https://www.spiegel.de/wirtschaft/flugverkehr-wegen-warnstreiks-fallen-hunderte-fluege-aus-a-a5a62c32-1600-4c97-b93b-9646c61d29ef#ref=rss)
-### monaten
-
-* [https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-besiegt-die-tsg-hoffenheim-knapp](https://www.spiegel.de/sport/fussball/fussball-bundesliga-sc-freiburg-besiegt-die-tsg-hoffenheim-knapp-a-087eb8c9-7978-401f-951b-592d05ed7903#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-droht-der-abgeordneten-sevim-dagdelen-jetzt-der-parteiausschluss](https://www.spiegel.de/politik/deutschland/linke-droht-der-abgeordneten-sevim-dagdelen-jetzt-der-parteiausschluss-a-889912ec-cb17-4b3d-9e66-b4a5e84e9345#ref=rss)
-### tadej
-
-* [https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-paris-nizza-rivale-jonas-vingegaard-dritter](https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-paris-nizza-rivale-jonas-vingegaard-dritter-a-d5e28485-aee0-4a6a-b638-416c7fc12e3c#ref=rss)
-### pogačar
-
-* [https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-paris-nizza-rivale-jonas-vingegaard-dritter](https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-paris-nizza-rivale-jonas-vingegaard-dritter-a-d5e28485-aee0-4a6a-b638-416c7fc12e3c#ref=rss)
-### jonas
-
-* [https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-paris-nizza-rivale-jonas-vingegaard-dritter](https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-paris-nizza-rivale-jonas-vingegaard-dritter-a-d5e28485-aee0-4a6a-b638-416c7fc12e3c#ref=rss)
-### vingegaard
-
-* [https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-paris-nizza-rivale-jonas-vingegaard-dritter](https://www.spiegel.de/sport/radsport-tadej-pogacar-gewinnt-paris-nizza-rivale-jonas-vingegaard-dritter-a-d5e28485-aee0-4a6a-b638-416c7fc12e3c#ref=rss)
-### sevim
-
-* [https://www.spiegel.de/politik/deutschland/linke-droht-der-abgeordneten-sevim-dagdelen-jetzt-der-parteiausschluss](https://www.spiegel.de/politik/deutschland/linke-droht-der-abgeordneten-sevim-dagdelen-jetzt-der-parteiausschluss-a-889912ec-cb17-4b3d-9e66-b4a5e84e9345#ref=rss)
-### dağdelen
-
-* [https://www.spiegel.de/politik/deutschland/linke-droht-der-abgeordneten-sevim-dagdelen-jetzt-der-parteiausschluss](https://www.spiegel.de/politik/deutschland/linke-droht-der-abgeordneten-sevim-dagdelen-jetzt-der-parteiausschluss-a-889912ec-cb17-4b3d-9e66-b4a5e84e9345#ref=rss)
-### chatgpt
-
-* [https://www.spiegel.de/deinspiegel/chatgpt-in-der-schule-ki-ersetzt-nicht-den-gemeinsamen-unterricht](https://www.spiegel.de/deinspiegel/chatgpt-in-der-schule-ki-ersetzt-nicht-den-gemeinsamen-unterricht-a-416fae9d-c377-41cb-94b5-d642c69da133#ref=rss)
-### unterricht
-
-* [https://www.spiegel.de/deinspiegel/chatgpt-in-der-schule-ki-ersetzt-nicht-den-gemeinsamen-unterricht](https://www.spiegel.de/deinspiegel/chatgpt-in-der-schule-ki-ersetzt-nicht-den-gemeinsamen-unterricht-a-416fae9d-c377-41cb-94b5-d642c69da133#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-hackl-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-muenchen-hackl-im-schnellcheck-a-b6377686-9907-4f94-96fc-a7a7e92355f7#ref=rss)
-### vulkan
-
-* [https://www.spiegel.de/panorama/indonesien-vulkan-merapi-auf-der-insel-java-ausgebrochen](https://www.spiegel.de/panorama/indonesien-vulkan-merapi-auf-der-insel-java-ausgebrochen-a-d7d7ac99-4652-46bb-bcbf-8edca470ce28#ref=rss)
-### merapi
-
-* [https://www.spiegel.de/panorama/indonesien-vulkan-merapi-auf-der-insel-java-ausgebrochen](https://www.spiegel.de/panorama/indonesien-vulkan-merapi-auf-der-insel-java-ausgebrochen-a-d7d7ac99-4652-46bb-bcbf-8edca470ce28#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/indonesien-vulkan-merapi-auf-der-insel-java-ausgebrochen](https://www.spiegel.de/panorama/indonesien-vulkan-merapi-auf-der-insel-java-ausgebrochen-a-d7d7ac99-4652-46bb-bcbf-8edca470ce28#ref=rss)
-* [https://www.spiegel.de/panorama/lawinenabgang-in-schruns-in-oesterreich-14-deutsche-skiwanderer-mitgerissen](https://www.spiegel.de/panorama/lawinenabgang-in-schruns-in-oesterreich-14-deutsche-skiwanderer-mitgerissen-a-9d4c4e54-c010-4387-91ff-625090ba54bd#ref=rss)
-### welt
-
-* [https://www.spiegel.de/panorama/indonesien-vulkan-merapi-auf-der-insel-java-ausgebrochen](https://www.spiegel.de/panorama/indonesien-vulkan-merapi-auf-der-insel-java-ausgebrochen-a-d7d7ac99-4652-46bb-bcbf-8edca470ce28#ref=rss)
-* [https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar](https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar-a-083dc0ea-e812-4695-be65-2cd5c8f25c19#ref=rss)
-### pro
-
-* [https://www.spiegel.de/wirtschaft/49-euro-ticket-pro-bahn-befuerchtet-flickenteppich-beim-deutschlandticket](https://www.spiegel.de/wirtschaft/49-euro-ticket-pro-bahn-befuerchtet-flickenteppich-beim-deutschlandticket-a-93bbf2d2-0940-46ae-a284-dfbb5c45fc18#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/49-euro-ticket-pro-bahn-befuerchtet-flickenteppich-beim-deutschlandticket](https://www.spiegel.de/wirtschaft/49-euro-ticket-pro-bahn-befuerchtet-flickenteppich-beim-deutschlandticket-a-93bbf2d2-0940-46ae-a284-dfbb5c45fc18#ref=rss)
-### deutschlandticket
-
-* [https://www.spiegel.de/wirtschaft/49-euro-ticket-pro-bahn-befuerchtet-flickenteppich-beim-deutschlandticket](https://www.spiegel.de/wirtschaft/49-euro-ticket-pro-bahn-befuerchtet-flickenteppich-beim-deutschlandticket-a-93bbf2d2-0940-46ae-a284-dfbb5c45fc18#ref=rss)
-### eva
-
-* [https://www.spiegel.de/panorama/holocaust-ueberlebende-eva-umlauf-ich-kann-diese-alten-deutschen-immer-weniger-ertragen](https://www.spiegel.de/panorama/holocaust-ueberlebende-eva-umlauf-ich-kann-diese-alten-deutschen-immer-weniger-ertragen-a-c496ec5c-51fa-4151-8b32-ef435a31c287#ref=rss)
-### umlauf
-
-* [https://www.spiegel.de/panorama/holocaust-ueberlebende-eva-umlauf-ich-kann-diese-alten-deutschen-immer-weniger-ertragen](https://www.spiegel.de/panorama/holocaust-ueberlebende-eva-umlauf-ich-kann-diese-alten-deutschen-immer-weniger-ertragen-a-c496ec5c-51fa-4151-8b32-ef435a31c287#ref=rss)
-### verliehen
-
-* [https://www.spiegel.de/panorama/holocaust-ueberlebende-eva-umlauf-ich-kann-diese-alten-deutschen-immer-weniger-ertragen](https://www.spiegel.de/panorama/holocaust-ueberlebende-eva-umlauf-ich-kann-diese-alten-deutschen-immer-weniger-ertragen-a-c496ec5c-51fa-4151-8b32-ef435a31c287#ref=rss)
-* [https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick](https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick-a-1086056c-7e99-458c-9292-3eaf40bf3561#ref=rss)
-### moldau
-
-* [https://www.spiegel.de/ausland/moldau-polizei-enttarnt-pro-russisches-netzwerk-im-land](https://www.spiegel.de/ausland/moldau-polizei-enttarnt-pro-russisches-netzwerk-im-land-a-1710a8c8-b2c8-4a88-a940-8d7133c7c725#ref=rss)
-### versucht
-
-* [https://www.spiegel.de/ausland/moldau-polizei-enttarnt-pro-russisches-netzwerk-im-land](https://www.spiegel.de/ausland/moldau-polizei-enttarnt-pro-russisches-netzwerk-im-land-a-1710a8c8-b2c8-4a88-a940-8d7133c7c725#ref=rss)
-* [https://www.spiegel.de/ausland/usa-behoerde-warnt-wegen-kartell-gewalt-vor-reisen-nach-mexiko-waehrend-spring-break](https://www.spiegel.de/ausland/usa-behoerde-warnt-wegen-kartell-gewalt-vor-reisen-nach-mexiko-waehrend-spring-break-a-c67c4ee3-c750-40ff-a54c-709062168b77#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verliert-beim-karlsruher-sc-und-verpasst-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verliert-beim-karlsruher-sc-und-verpasst-die-tabellenfuehrung-a-fc37abb8-3024-4d96-986e-a48a7699538c#ref=rss)
-### karlsruher
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verliert-beim-karlsruher-sc-und-verpasst-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verliert-beim-karlsruher-sc-und-verpasst-die-tabellenfuehrung-a-fc37abb8-3024-4d96-986e-a48a7699538c#ref=rss)
-### tabellenführung
-
-* [https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verliert-beim-karlsruher-sc-und-verpasst-die-tabellenfuehrung](https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-hamburger-sv-verliert-beim-karlsruher-sc-und-verpasst-die-tabellenfuehrung-a-fc37abb8-3024-4d96-986e-a48a7699538c#ref=rss)
-### wochen
-
-* [https://www.spiegel.de/wirtschaft/donauschleuse-geisling-in-woerth-bergung-von-havariertem-frachter-koennte-wochen-dauern](https://www.spiegel.de/wirtschaft/donauschleuse-geisling-in-woerth-bergung-von-havariertem-frachter-koennte-wochen-dauern-a-bb2b14d0-17cc-4d97-932c-41a2ff9c69e6#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-erst-schnee-nun-hitzerekord-in-sicht](https://www.spiegel.de/panorama/spanien-erst-schnee-nun-hitzerekord-in-sicht-a-0e1c076e-6eb1-4895-9a5a-f3c320db9d85#ref=rss)
-### aufgabe
-
-* [https://www.spiegel.de/wirtschaft/donauschleuse-geisling-in-woerth-bergung-von-havariertem-frachter-koennte-wochen-dauern](https://www.spiegel.de/wirtschaft/donauschleuse-geisling-in-woerth-bergung-von-havariertem-frachter-koennte-wochen-dauern-a-bb2b14d0-17cc-4d97-932c-41a2ff9c69e6#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/helga-schubert-ueber-stundenbuch-der-liebe-liebe-ist-kein-zustand-sondern-eine-aufgabe](https://www.spiegel.de/kultur/literatur/helga-schubert-ueber-stundenbuch-der-liebe-liebe-ist-kein-zustand-sondern-eine-aufgabe-a-2abc6c44-3616-449b-a9f1-d53506c903be#ref=rss)
-### erst
-
-* [https://www.spiegel.de/wirtschaft/donauschleuse-geisling-in-woerth-bergung-von-havariertem-frachter-koennte-wochen-dauern](https://www.spiegel.de/wirtschaft/donauschleuse-geisling-in-woerth-bergung-von-havariertem-frachter-koennte-wochen-dauern-a-bb2b14d0-17cc-4d97-932c-41a2ff9c69e6#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-erst-schnee-nun-hitzerekord-in-sicht](https://www.spiegel.de/panorama/spanien-erst-schnee-nun-hitzerekord-in-sicht-a-0e1c076e-6eb1-4895-9a5a-f3c320db9d85#ref=rss)
-### warnstreiks
-
-* [https://www.spiegel.de/wirtschaft/flugverkehr-wegen-warnstreiks-fallen-hunderte-fluege-aus](https://www.spiegel.de/wirtschaft/flugverkehr-wegen-warnstreiks-fallen-hunderte-fluege-aus-a-a5a62c32-1600-4c97-b93b-9646c61d29ef#ref=rss)
-### helga
-
-* [https://www.spiegel.de/kultur/literatur/helga-schubert-ueber-stundenbuch-der-liebe-liebe-ist-kein-zustand-sondern-eine-aufgabe](https://www.spiegel.de/kultur/literatur/helga-schubert-ueber-stundenbuch-der-liebe-liebe-ist-kein-zustand-sondern-eine-aufgabe-a-2abc6c44-3616-449b-a9f1-d53506c903be#ref=rss)
-### schubert
-
-* [https://www.spiegel.de/kultur/literatur/helga-schubert-ueber-stundenbuch-der-liebe-liebe-ist-kein-zustand-sondern-eine-aufgabe](https://www.spiegel.de/kultur/literatur/helga-schubert-ueber-stundenbuch-der-liebe-liebe-ist-kein-zustand-sondern-eine-aufgabe-a-2abc6c44-3616-449b-a9f1-d53506c903be#ref=rss)
-### hohen
-
-* [https://www.spiegel.de/kultur/literatur/helga-schubert-ueber-stundenbuch-der-liebe-liebe-ist-kein-zustand-sondern-eine-aufgabe](https://www.spiegel.de/kultur/literatur/helga-schubert-ueber-stundenbuch-der-liebe-liebe-ist-kein-zustand-sondern-eine-aufgabe-a-2abc6c44-3616-449b-a9f1-d53506c903be#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-polizei-holt-einbrecher-mit-drehleiter-vom-regal](https://www.spiegel.de/panorama/berlin-polizei-holt-einbrecher-mit-drehleiter-vom-regal-a-705cd715-7768-4707-908f-3a976332811c#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/kultur/literatur/helga-schubert-ueber-stundenbuch-der-liebe-liebe-ist-kein-zustand-sondern-eine-aufgabe](https://www.spiegel.de/kultur/literatur/helga-schubert-ueber-stundenbuch-der-liebe-liebe-ist-kein-zustand-sondern-eine-aufgabe-a-2abc6c44-3616-449b-a9f1-d53506c903be#ref=rss)
-* [https://www.spiegel.de/panorama/spanien-erst-schnee-nun-hitzerekord-in-sicht](https://www.spiegel.de/panorama/spanien-erst-schnee-nun-hitzerekord-in-sicht-a-0e1c076e-6eb1-4895-9a5a-f3c320db9d85#ref=rss)
-### einbrecher
-
-* [https://www.spiegel.de/panorama/berlin-polizei-holt-einbrecher-mit-drehleiter-vom-regal](https://www.spiegel.de/panorama/berlin-polizei-holt-einbrecher-mit-drehleiter-vom-regal-a-705cd715-7768-4707-908f-3a976332811c#ref=rss)
-### samstagabend
-
-* [https://www.spiegel.de/panorama/berlin-polizei-holt-einbrecher-mit-drehleiter-vom-regal](https://www.spiegel.de/panorama/berlin-polizei-holt-einbrecher-mit-drehleiter-vom-regal-a-705cd715-7768-4707-908f-3a976332811c#ref=rss)
-* [https://www.spiegel.de/panorama/freudenberg-in-suedwestfalen-polizei-findet-bei-suche-nach-maedchen-weiblichen-leichnam](https://www.spiegel.de/panorama/freudenberg-in-suedwestfalen-polizei-findet-bei-suche-nach-maedchen-weiblichen-leichnam-a-a3d2e3f3-146d-4964-a544-03bfe5652eb8#ref=rss)
-### spanien
-
-* [https://www.spiegel.de/panorama/spanien-erst-schnee-nun-hitzerekord-in-sicht](https://www.spiegel.de/panorama/spanien-erst-schnee-nun-hitzerekord-in-sicht-a-0e1c076e-6eb1-4895-9a5a-f3c320db9d85#ref=rss)
-### hitzerekord
-
-* [https://www.spiegel.de/panorama/spanien-erst-schnee-nun-hitzerekord-in-sicht](https://www.spiegel.de/panorama/spanien-erst-schnee-nun-hitzerekord-in-sicht-a-0e1c076e-6eb1-4895-9a5a-f3c320db9d85#ref=rss)
-### österreich
-
-* [https://www.spiegel.de/panorama/lawinenabgang-in-schruns-in-oesterreich-14-deutsche-skiwanderer-mitgerissen](https://www.spiegel.de/panorama/lawinenabgang-in-schruns-in-oesterreich-14-deutsche-skiwanderer-mitgerissen-a-9d4c4e54-c010-4387-91ff-625090ba54bd#ref=rss)
-### 14
-
-* [https://www.spiegel.de/panorama/lawinenabgang-in-schruns-in-oesterreich-14-deutsche-skiwanderer-mitgerissen](https://www.spiegel.de/panorama/lawinenabgang-in-schruns-in-oesterreich-14-deutsche-skiwanderer-mitgerissen-a-9d4c4e54-c010-4387-91ff-625090ba54bd#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/panorama/lawinenabgang-in-schruns-in-oesterreich-14-deutsche-skiwanderer-mitgerissen](https://www.spiegel.de/panorama/lawinenabgang-in-schruns-in-oesterreich-14-deutsche-skiwanderer-mitgerissen-a-9d4c4e54-c010-4387-91ff-625090ba54bd#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-auf-schneefall-folgt-fruehsommer-folgt-sturm](https://www.spiegel.de/panorama/wetter-in-deutschland-auf-schneefall-folgt-fruehsommer-folgt-sturm-a-121fda9f-a51a-441f-be3e-bdce9312f818#ref=rss)
-### freudenberg
-
-* [https://www.spiegel.de/panorama/freudenberg-in-suedwestfalen-polizei-findet-bei-suche-nach-maedchen-weiblichen-leichnam](https://www.spiegel.de/panorama/freudenberg-in-suedwestfalen-polizei-findet-bei-suche-nach-maedchen-weiblichen-leichnam-a-a3d2e3f3-146d-4964-a544-03bfe5652eb8#ref=rss)
-### südafrika
-
-* [https://www.spiegel.de/panorama/suedafrika-orca-paar-toetet-17-haie-frisst-aber-nur-die-leber](https://www.spiegel.de/panorama/suedafrika-orca-paar-toetet-17-haie-frisst-aber-nur-die-leber-a-c4658301-73f4-49e9-83b3-55b3ba74bc92#ref=rss)
-### 17
-
-* [https://www.spiegel.de/panorama/suedafrika-orca-paar-toetet-17-haie-frisst-aber-nur-die-leber](https://www.spiegel.de/panorama/suedafrika-orca-paar-toetet-17-haie-frisst-aber-nur-die-leber-a-c4658301-73f4-49e9-83b3-55b3ba74bc92#ref=rss)
-### haie
-
-* [https://www.spiegel.de/panorama/suedafrika-orca-paar-toetet-17-haie-frisst-aber-nur-die-leber](https://www.spiegel.de/panorama/suedafrika-orca-paar-toetet-17-haie-frisst-aber-nur-die-leber-a-c4658301-73f4-49e9-83b3-55b3ba74bc92#ref=rss)
-### leber
-
-* [https://www.spiegel.de/panorama/suedafrika-orca-paar-toetet-17-haie-frisst-aber-nur-die-leber](https://www.spiegel.de/panorama/suedafrika-orca-paar-toetet-17-haie-frisst-aber-nur-die-leber-a-c4658301-73f4-49e9-83b3-55b3ba74bc92#ref=rss)
-### wetter
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-auf-schneefall-folgt-fruehsommer-folgt-sturm](https://www.spiegel.de/panorama/wetter-in-deutschland-auf-schneefall-folgt-fruehsommer-folgt-sturm-a-121fda9f-a51a-441f-be3e-bdce9312f818#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-auf-schneefall-folgt-fruehsommer-folgt-sturm](https://www.spiegel.de/panorama/wetter-in-deutschland-auf-schneefall-folgt-fruehsommer-folgt-sturm-a-121fda9f-a51a-441f-be3e-bdce9312f818#ref=rss)
-### schneefall
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-auf-schneefall-folgt-fruehsommer-folgt-sturm](https://www.spiegel.de/panorama/wetter-in-deutschland-auf-schneefall-folgt-fruehsommer-folgt-sturm-a-121fda9f-a51a-441f-be3e-bdce9312f818#ref=rss)
-### folgt
-
-* [https://www.spiegel.de/panorama/wetter-in-deutschland-auf-schneefall-folgt-fruehsommer-folgt-sturm](https://www.spiegel.de/panorama/wetter-in-deutschland-auf-schneefall-folgt-fruehsommer-folgt-sturm-a-121fda9f-a51a-441f-be3e-bdce9312f818#ref=rss)
-### aramco
-
-* [https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar](https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar-a-083dc0ea-e812-4695-be65-2cd5c8f25c19#ref=rss)
-### macht
-
-* [https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar](https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar-a-083dc0ea-e812-4695-be65-2cd5c8f25c19#ref=rss)
-### 161
-
-* [https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar](https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar-a-083dc0ea-e812-4695-be65-2cd5c8f25c19#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar](https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar-a-083dc0ea-e812-4695-be65-2cd5c8f25c19#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar](https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar-a-083dc0ea-e812-4695-be65-2cd5c8f25c19#ref=rss)
+* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
+* [https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala](https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala-a-61811901-873a-4fc3-a4c8-707778057061#ref=rss)
+* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar](https://www.spiegel.de/wirtschaft/energiepreise-oelriese-saudi-aramco-macht-2022-161-milliarden-dollar-a-083dc0ea-e812-4695-be65-2cd5c8f25c19#ref=rss)
-* [https://www.spiegel.de/ausland/schwangere-russinnen-in-argentinien-warum-so-viele-dort-ihre-kinder-bekommen](https://www.spiegel.de/ausland/schwangere-russinnen-in-argentinien-warum-so-viele-dort-ihre-kinder-bekommen-a-81c8f2af-aada-49a6-97b0-865a676b8409#ref=rss)
+* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab](https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab-a-516d322e-700e-4541-886a-fd8e9291078d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
+* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
+### erfolg
+
+* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
+* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
+* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/panorama/philippinen-oelteppich-breitet-sich-aus-es-ist-ein-albtraum](https://www.spiegel.de/panorama/philippinen-oelteppich-breitet-sich-aus-es-ist-ein-albtraum-a-3a3c5119-ca6d-4190-a1e7-d9ef820195f6#ref=rss)
+* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
+### team
+
+* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
+* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
+### gary
+
+* [https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung](https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung-a-f215ed65-7e86-48b0-a355-43876b5ac305#ref=rss)
+### lineker
+
+* [https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung](https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung-a-f215ed65-7e86-48b0-a355-43876b5ac305#ref=rss)
+### regierung
+
+* [https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung](https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung-a-f215ed65-7e86-48b0-a355-43876b5ac305#ref=rss)
+* [https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus](https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus-a-b92651f7-d842-4106-881d-f8cc474af55f#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
+### kehrtwende
+
+* [https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung](https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung-a-f215ed65-7e86-48b0-a355-43876b5ac305#ref=rss)
+* [https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik](https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik-a-6b3bd4a4-2da2-419a-a3f1-9211bc9c3dba#ref=rss)
+### beiden
+
+* [https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen](https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen-a-a2801bd5-9875-4567-897c-011a790c3be5#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten](https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten-a-fc5640bd-736e-4943-acc1-9749a14a0448#ref=rss)
+* [https://www.spiegel.de/wissenschaft/thailand-wieder-tiger-in-naturreservat-entdeckt](https://www.spiegel.de/wissenschaft/thailand-wieder-tiger-in-naturreservat-entdeckt-a-05a30d49-21e1-4671-ba65-1f6a6251a556#ref=rss)
 ### usa
 
-* [https://www.spiegel.de/ausland/usa-behoerde-warnt-wegen-kartell-gewalt-vor-reisen-nach-mexiko-waehrend-spring-break](https://www.spiegel.de/ausland/usa-behoerde-warnt-wegen-kartell-gewalt-vor-reisen-nach-mexiko-waehrend-spring-break-a-c67c4ee3-c750-40ff-a54c-709062168b77#ref=rss)
-### trophäe
+* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
+* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick](https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick-a-1086056c-7e99-458c-9292-3eaf40bf3561#ref=rss)
-### favoriten
+* [https://www.spiegel.de/panorama/justiz/freudenberg-zwoelfjaehrige-soll-obduziert-werden-trauer-nach-leichenfund](https://www.spiegel.de/panorama/justiz/freudenberg-zwoelfjaehrige-soll-obduziert-werden-trauer-nach-leichenfund-a-eac27c1d-e80d-457f-8205-092145259c29#ref=rss)
+* [https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden](https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden-a-f219be53-8f99-446f-a26d-d44a5bb1f917#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
+### milliarden
 
-* [https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick](https://www.spiegel.de/kultur/kino/oscars-2023-und-die-trophaee-geht-an-wen-die-favoriten-im-ueberblick-a-1086056c-7e99-458c-9292-3eaf40bf3561#ref=rss)
-### schwangere
+* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/ausland/schwangere-russinnen-in-argentinien-warum-so-viele-dort-ihre-kinder-bekommen](https://www.spiegel.de/ausland/schwangere-russinnen-in-argentinien-warum-so-viele-dort-ihre-kinder-bekommen-a-81c8f2af-aada-49a6-97b0-865a676b8409#ref=rss)
-### russinnen
+* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben-a-0d55b84a-0b7f-4fa1-9897-670c191fcca0#ref=rss)
+### regisseur
 
-* [https://www.spiegel.de/ausland/schwangere-russinnen-in-argentinien-warum-so-viele-dort-ihre-kinder-bekommen](https://www.spiegel.de/ausland/schwangere-russinnen-in-argentinien-warum-so-viele-dort-ihre-kinder-bekommen-a-81c8f2af-aada-49a6-97b0-865a676b8409#ref=rss)
+* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
+### berger
+
+* [https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten](https://www.spiegel.de/kultur/oscars-2023-wie-die-macher-von-im-westen-nichts-neues-vier-oscars-feierten-a-648b9e23-8860-4143-82c8-994d8d80fdb4#ref=rss)
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
+### h5n1
+
+* [https://www.spiegel.de/wissenschaft/medizin/h5n1-passt-sich-die-vogelgrippe-an-den-menschen-an](https://www.spiegel.de/wissenschaft/medizin/h5n1-passt-sich-die-vogelgrippe-an-den-menschen-an-a-32c12e1a-04a9-4c1d-a151-6ee1e9007d7f#ref=rss)
+### passt
+
+* [https://www.spiegel.de/wissenschaft/medizin/h5n1-passt-sich-die-vogelgrippe-an-den-menschen-an](https://www.spiegel.de/wissenschaft/medizin/h5n1-passt-sich-die-vogelgrippe-an-den-menschen-an-a-32c12e1a-04a9-4c1d-a151-6ee1e9007d7f#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/wissenschaft/medizin/h5n1-passt-sich-die-vogelgrippe-an-den-menschen-an](https://www.spiegel.de/wissenschaft/medizin/h5n1-passt-sich-die-vogelgrippe-an-den-menschen-an-a-32c12e1a-04a9-4c1d-a151-6ee1e9007d7f#ref=rss)
+### fußballmoderator
+
+* [https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung](https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung-a-f215ed65-7e86-48b0-a355-43876b5ac305#ref=rss)
+### macht
+
+* [https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung](https://www.spiegel.de/sport/fussball/gary-lineker-bbc-hebt-suspendierung-auf-fussball-moderator-gary-lineker-geht-wieder-auf-sendung-a-f215ed65-7e86-48b0-a355-43876b5ac305#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
+### henriette
+
+* [https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab](https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab-a-516d322e-700e-4541-886a-fd8e9291078d#ref=rss)
+### reker
+
+* [https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab](https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab-a-516d322e-700e-4541-886a-fd8e9291078d#ref=rss)
+### unterstützen
+
+* [https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab](https://www.spiegel.de/panorama/gesellschaft/henriette-reker-oberbuergermeisterin-von-koeln-lehnt-deal-mit-letzter-generation-ab-a-516d322e-700e-4541-886a-fd8e9291078d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen](https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen-a-a2801bd5-9875-4567-897c-011a790c3be5#ref=rss)
+### hätten
+
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern](https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern-a-8ab4bc97-9d8c-4660-a0a3-013bba1467bf#ref=rss)
+### wir
+
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
+* [https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus](https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus-a-b92651f7-d842-4106-881d-f8cc474af55f#ref=rss)
+### viermal
+
+* [https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt](https://www.spiegel.de/kultur/kino/im-westen-nichts-neues-bei-den-oscars-2023-als-haetten-wir-die-ganze-arbeit-umarmt-a-83d62a07-3456-4283-92b7-4dc9130abd09#ref=rss)
+* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
+### strom
+
+* [https://www.spiegel.de/wirtschaft/energiepreisbremsen-bei-strom-und-gas-wo-der-staat-das-meiste-geld-zuschiesst](https://www.spiegel.de/wirtschaft/energiepreisbremsen-bei-strom-und-gas-wo-der-staat-das-meiste-geld-zuschiesst-a-ac99528f-f676-498e-9e66-e22422ccbe9d#ref=rss)
+### gas
+
+* [https://www.spiegel.de/wirtschaft/energiepreisbremsen-bei-strom-und-gas-wo-der-staat-das-meiste-geld-zuschiesst](https://www.spiegel.de/wirtschaft/energiepreisbremsen-bei-strom-und-gas-wo-der-staat-das-meiste-geld-zuschiesst-a-ac99528f-f676-498e-9e66-e22422ccbe9d#ref=rss)
+### gezielt
+
+* [https://www.spiegel.de/wirtschaft/energiepreisbremsen-bei-strom-und-gas-wo-der-staat-das-meiste-geld-zuschiesst](https://www.spiegel.de/wirtschaft/energiepreisbremsen-bei-strom-und-gas-wo-der-staat-das-meiste-geld-zuschiesst-a-ac99528f-f676-498e-9e66-e22422ccbe9d#ref=rss)
+* [https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik](https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik-a-6b3bd4a4-2da2-419a-a3f1-9211bc9c3dba#ref=rss)
+### streichen
+
+* [https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig](https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig-a-b249d456-5a95-4f72-b3d0-09b1ed47f38b#ref=rss)
+### juristinnen
+
+* [https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig](https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig-a-b249d456-5a95-4f72-b3d0-09b1ed47f38b#ref=rss)
+### halten
+
+* [https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig](https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig-a-b249d456-5a95-4f72-b3d0-09b1ed47f38b#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
+### rechtswidrig
+
+* [https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig](https://www.spiegel.de/wissenschaft/natur/fdp-will-klimaziele-ersatzlos-streichen-juristinnen-halten-forderung-fuer-rechtswidrig-a-b249d456-5a95-4f72-b3d0-09b1ed47f38b#ref=rss)
+### iran
+
+* [https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen](https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen-a-a2801bd5-9875-4567-897c-011a790c3be5#ref=rss)
+### belarus
+
+* [https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen](https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen-a-a2801bd5-9875-4567-897c-011a790c3be5#ref=rss)
+### beziehungen
+
+* [https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen](https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen-a-a2801bd5-9875-4567-897c-011a790c3be5#ref=rss)
+* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
+### ukraine
+
+* [https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen](https://www.spiegel.de/politik/deutschland/iran-und-belarus-wollen-diplomatische-beziehungen-ausbauen-a-a2801bd5-9875-4567-897c-011a790c3be5#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern](https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern-a-8ab4bc97-9d8c-4660-a0a3-013bba1467bf#ref=rss)
+### porsche
+
+* [https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn](https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn-a-160b7f17-abed-46af-ac0d-a9c05e0b68a8#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn](https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn-a-160b7f17-abed-46af-ac0d-a9c05e0b68a8#ref=rss)
+* [https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik](https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik-a-6b3bd4a4-2da2-419a-a3f1-9211bc9c3dba#ref=rss)
+### weniger
+
+* [https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn](https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn-a-160b7f17-abed-46af-ac0d-a9c05e0b68a8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/coronakrise-und-die-folgen-gastronomie-hat-deutlich-weniger-beschaeftigte](https://www.spiegel.de/wirtschaft/coronakrise-und-die-folgen-gastronomie-hat-deutlich-weniger-beschaeftigte-a-438ad81e-87cc-49c4-9af1-96ffe249ab3f#ref=rss)
+### beste
+
+* [https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn](https://www.spiegel.de/wirtschaft/porsche-vermeldet-trotz-lieferschwierigkeiten-rekordgewinn-a-160b7f17-abed-46af-ac0d-a9c05e0b68a8#ref=rss)
+* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
+### frauen
+
+* [https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus](https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus-a-b92651f7-d842-4106-881d-f8cc474af55f#ref=rss)
+### demnach
+
+* [https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus](https://www.spiegel.de/ausland/tadschikistan-gibt-neue-kleiderempfehlung-fuer-frauen-heraus-a-b92651f7-d842-4106-881d-f8cc474af55f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/thailand-wieder-tiger-in-naturreservat-entdeckt](https://www.spiegel.de/wissenschaft/thailand-wieder-tiger-in-naturreservat-entdeckt-a-05a30d49-21e1-4671-ba65-1f6a6251a556#ref=rss)
+### bafin
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
+### silicon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
+### valley
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
+### bank
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland](https://www.spiegel.de/wirtschaft/unternehmen/bafin-erteilt-zahlungsverbot-fuer-silicon-valley-bank-in-deutschland-a-60b73d30-b0f9-4e3a-a268-a636ca17cbca#ref=rss)
+### waren
+
+* [https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala](https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala-a-61811901-873a-4fc3-a4c8-707778057061#ref=rss)
+* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
+### besten
+
+* [https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala](https://www.spiegel.de/panorama/leute/oscars-2023-das-waren-die-besten-looks-und-outfits-bei-der-gala-a-61811901-873a-4fc3-a4c8-707778057061#ref=rss)
+### freudenberg
+
+* [https://www.spiegel.de/panorama/justiz/freudenberg-zwoelfjaehrige-soll-obduziert-werden-trauer-nach-leichenfund](https://www.spiegel.de/panorama/justiz/freudenberg-zwoelfjaehrige-soll-obduziert-werden-trauer-nach-leichenfund-a-eac27c1d-e80d-457f-8205-092145259c29#ref=rss)
+### laut
+
+* [https://www.spiegel.de/panorama/justiz/freudenberg-zwoelfjaehrige-soll-obduziert-werden-trauer-nach-leichenfund](https://www.spiegel.de/panorama/justiz/freudenberg-zwoelfjaehrige-soll-obduziert-werden-trauer-nach-leichenfund-a-eac27c1d-e80d-457f-8205-092145259c29#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten](https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten-a-fc5640bd-736e-4943-acc1-9749a14a0448#ref=rss)
+### erfurt
+
+* [https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden](https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden-a-f219be53-8f99-446f-a26d-d44a5bb1f917#ref=rss)
+### euro
+
+* [https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden](https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden-a-f219be53-8f99-446f-a26d-d44a5bb1f917#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
+### sachschaden
+
+* [https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden](https://www.spiegel.de/panorama/erfurt-verfolgungsfahrt-durch-innenstadt-100-000-euro-sachschaden-a-f219be53-8f99-446f-a26d-d44a5bb1f917#ref=rss)
+### bachmut
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten](https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten-a-fc5640bd-736e-4943-acc1-9749a14a0448#ref=rss)
+### verluste
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten](https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten-a-fc5640bd-736e-4943-acc1-9749a14a0448#ref=rss)
+### britische
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten](https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten-a-fc5640bd-736e-4943-acc1-9749a14a0448#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
+### zusätzlich
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten](https://www.spiegel.de/ausland/russland-ukraine-krieg-in-bachmut-gibt-es-grosse-verluste-auf-beiden-seiten-a-fc5640bd-736e-4943-acc1-9749a14a0448#ref=rss)
+* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
+### ocean
+
+* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
+### race
+
+* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
+### boris
+
+* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
+### herrmann
+
+* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
+### malizia
+
+* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
+### platz
+
+* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
+### großer
+
+* [https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor](https://www.spiegel.de/sport/ocean-race-boris-herrmann-und-sein-team-malizia-ruecken-bei-monster-etappe-auf-platz-zwei-vor-a-374eaf32-3f39-4fa1-b3dc-7f28d2036187#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben-a-0d55b84a-0b7f-4fa1-9897-670c191fcca0#ref=rss)
+### london
+
+* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
+### pfund
+
+* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
+### marode
+
+* [https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben](https://www.spiegel.de/ausland/grossbritannien-london-will-fuenf-milliarden-pfund-mehr-fuer-militaer-ausgeben-a-41f340b0-099d-41ab-bd20-24e3bed34edd#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
+### menschenrechtler
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern](https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern-a-8ab4bc97-9d8c-4660-a0a3-013bba1467bf#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern](https://www.spiegel.de/ausland/ukraine-krieg-menschenrechtler-alarmiert-ueber-lage-von-ukrainischen-heimkindern-a-8ab4bc97-9d8c-4660-a0a3-013bba1467bf#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
+### abitur
+
+* [https://www.spiegel.de/panorama/bildung/abitur-bildungsoekonom-warnt-vor-entwertung-der-abiturnoten](https://www.spiegel.de/panorama/bildung/abitur-bildungsoekonom-warnt-vor-entwertung-der-abiturnoten-a-1b9e4c7d-691e-4e97-a660-f255694b4fa6#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/panorama/bildung/abitur-bildungsoekonom-warnt-vor-entwertung-der-abiturnoten](https://www.spiegel.de/panorama/bildung/abitur-bildungsoekonom-warnt-vor-entwertung-der-abiturnoten-a-1b9e4c7d-691e-4e97-a660-f255694b4fa6#ref=rss)
+* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
+### hagen
+
+* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
+### mutmaßlicher
+
+* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
+### einbrecher
+
+* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
+### lenne
+
+* [https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet](https://www.spiegel.de/panorama/justiz/hagen-mutmasslicher-einbrecher-springt-in-lenne-und-verschwindet-a-983fde87-6ae8-45c7-8a16-5c8f36440e5e#ref=rss)
+### afrika
+
+* [https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik](https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik-a-6b3bd4a4-2da2-419a-a3f1-9211bc9c3dba#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik](https://www.spiegel.de/ausland/migration-aus-afrika-kehrtwende-der-deutschen-migrationspolitik-a-6b3bd4a4-2da2-419a-a3f1-9211bc9c3dba#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
+### regierungschef
+
+* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
+### li
+
+* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
+### qiang
+
+* [https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa](https://www.spiegel.de/ausland/china-neuer-regierungschef-li-qiang-plaediert-fuer-kooperation-mit-usa-a-cef20ba5-aec6-4a7d-b8f8-1f7e5d4f386d#ref=rss)
+### everything
+
+* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
+### everywhere
+
+* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
+### all
+
+* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
+### at
+
+* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
+### once
+
+* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
+### großen
+
+* [https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once](https://www.spiegel.de/kultur/kino/bilanz-der-oscars-2023-beste-aussichten-dank-everything-everywhere-all-at-once-a-411ac84f-1bdc-4dc3-91ba-67754b3ab4ae#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
+### film
+
+* [https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam](https://www.spiegel.de/kultur/kino/oscars-2023-wie-der-triumph-von-im-westen-nichts-neues-zustande-kam-a-bba0cae9-39bf-48e8-8db7-267449f5b6b3#ref=rss)
+### kenzaburo
+
+* [https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben-a-0d55b84a-0b7f-4fa1-9897-670c191fcca0#ref=rss)
+### oe
+
+* [https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben-a-0d55b84a-0b7f-4fa1-9897-670c191fcca0#ref=rss)
+### 88
+
+* [https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben-a-0d55b84a-0b7f-4fa1-9897-670c191fcca0#ref=rss)
+### gestorben
+
+* [https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben](https://www.spiegel.de/kultur/literatur/kenzaburo-oe-ist-tot-japanischer-nobelpreistraeger-mit-88-jahren-gestorben-a-0d55b84a-0b7f-4fa1-9897-670c191fcca0#ref=rss)
+### esken
+
+* [https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein](https://www.spiegel.de/politik/deutschland/spd-saskia-esken-setzt-sich-fuer-sondervermoegen-fuer-die-bildung-ein-a-2b195da2-97d6-4c24-a39d-cfdc2a247e7d#ref=rss)
 
