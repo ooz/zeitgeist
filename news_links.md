@@ -4,325 +4,316 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### eva
+### bettina
 
-* [https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand](https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand-a-be87b6bc-3497-441a-9e79-139d85569974#ref=rss)
-* [https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe](https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe-a-0051a6ba-3b44-4f5e-9c35-d8a619cc7372#ref=rss)
-### högl
+* [https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse](https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse-a-de606423-4f34-4bbd-af79-559bd6e91434#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bettina-stark-watzinger-und-ihr-bildungsgipfel-erst-kammerspiel-dann-trauerspiel](https://www.spiegel.de/panorama/bildung/bettina-stark-watzinger-und-ihr-bildungsgipfel-erst-kammerspiel-dann-trauerspiel-a-3e43d909-2bde-4207-9fec-f8be5ebd553b#ref=rss)
+### starkwatzinger
 
-* [https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand](https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand-a-be87b6bc-3497-441a-9e79-139d85569974#ref=rss)
-* [https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe](https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe-a-0051a6ba-3b44-4f5e-9c35-d8a619cc7372#ref=rss)
-### sieht
+* [https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse](https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse-a-de606423-4f34-4bbd-af79-559bd6e91434#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bettina-stark-watzinger-und-ihr-bildungsgipfel-erst-kammerspiel-dann-trauerspiel](https://www.spiegel.de/panorama/bildung/bettina-stark-watzinger-und-ihr-bildungsgipfel-erst-kammerspiel-dann-trauerspiel-a-3e43d909-2bde-4207-9fec-f8be5ebd553b#ref=rss)
+### nachricht
 
-* [https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand](https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand-a-be87b6bc-3497-441a-9e79-139d85569974#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-umstrittenes-britisches-asylgesetz-nimmt-erste-huerde](https://www.spiegel.de/ausland/grossbritannien-umstrittenes-britisches-asylgesetz-nimmt-erste-huerde-a-ec9b4c66-ad4c-4577-a3c6-1337edbb1d75#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-sieht-sehr-kleine-moeglichkeit-fuer-einschlag-eines-asteroiden-2046](https://www.spiegel.de/wissenschaft/weltall/nasa-sieht-sehr-kleine-moeglichkeit-fuer-einschlag-eines-asteroiden-2046-a-a12be553-677f-45a2-a61e-234feb3fa6f3#ref=rss)
-### drei
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste-a-e20bf6fa-b376-4561-a9bc-8bdbcf46c644#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-brentford-profi-ivan-toney-bekommt-rassistische-nachricht-stadionverbot-fuer-absender](https://www.spiegel.de/sport/fussball/fussball-brentford-profi-ivan-toney-bekommt-rassistische-nachricht-stadionverbot-fuer-absender-a-8c3fee83-4914-4dde-b3c9-15101cb4430f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte-a-a628b22b-70e2-4240-95be-a1b4adb63683#ref=rss)
+### usa
 
-* [https://www.spiegel.de/reise/fernweh/per-anhalter-ueber-den-atlantik-wie-man-mit-segelboot-trampt](https://www.spiegel.de/reise/fernweh/per-anhalter-ueber-den-atlantik-wie-man-mit-segelboot-trampt-a-ce40e3d3-a5e4-4930-aa58-f54ee227039e#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-marte-olsbu-roeiseland-beendet-karriere-als-rekordweltmeisterin](https://www.spiegel.de/sport/wintersport/biathlon-marte-olsbu-roeiseland-beendet-karriere-als-rekordweltmeisterin-a-11890b18-e128-4e19-ac1d-77b979b3d0a8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-flieht-vor-polizei-und-faehrt-mit-auto-in-holocaust-mahnmal](https://www.spiegel.de/panorama/justiz/berlin-mann-flieht-vor-polizei-und-faehrt-mit-auto-in-holocaust-mahnmal-a-d0e99de8-ebae-4a7b-a109-dd43def9df1f#ref=rss)
-* [https://www.spiegel.de/ausland/china-oeffnet-erstmals-seit-2020-seine-grenzen-ende-der-corona-restriktionen](https://www.spiegel.de/ausland/china-oeffnet-erstmals-seit-2020-seine-grenzen-ende-der-corona-restriktionen-a-80f1dfcb-6613-4e04-90af-ad77799880bb#ref=rss)
-### jahren
+* [https://www.spiegel.de/wirtschaft/service/verbraucherpreise-in-den-usa-inflation-sinkt-auf-6-0-prozent](https://www.spiegel.de/wirtschaft/service/verbraucherpreise-in-den-usa-inflation-sinkt-auf-6-0-prozent-a-387d7121-1c12-4a4b-8eda-1af726feb350#ref=rss)
+* [https://www.spiegel.de/ausland/usa-melden-zusammenstoss-eigener-reaper-drohne-mit-russischem-kampfjet](https://www.spiegel.de/ausland/usa-melden-zusammenstoss-eigener-reaper-drohne-mit-russischem-kampfjet-a-26b9b7e1-232d-41d9-88b6-414cff1ddb83#ref=rss)
+* [https://www.spiegel.de/ausland/china-und-der-diplomatische-coup-mit-iran-und-saudi-arabien-handshake-mit-sprengkraft](https://www.spiegel.de/ausland/china-und-der-diplomatische-coup-mit-iran-und-saudi-arabien-handshake-mit-sprengkraft-a-719c7a6f-2fee-4e13-b392-edd6fd72479c#ref=rss)
+### spielen
 
-* [https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche](https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche-a-0f1c332d-1b62-45ba-83e1-31fd34d401cd#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/facebook-und-instagram-stoppen-unterstuetzung-fuer-nfts](https://www.spiegel.de/netzwelt/apps/facebook-und-instagram-stoppen-unterstuetzung-fuer-nfts-a-8e6a1888-b2f4-428c-becd-b64c190387a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren-a-944d50de-041a-4d2e-b4bf-da960e62a05a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sanierung-der-bundesfinanzen-wirtschaftsweise-will-subventionen-streichen](https://www.spiegel.de/wirtschaft/sanierung-der-bundesfinanzen-wirtschaftsweise-will-subventionen-streichen-a-c3b7cb4e-5f2b-464b-bcfe-88463d1a5a8f#ref=rss)
-### china
+* [https://www.spiegel.de/sport/wintersport/biathlon-olympiasiegerin-und-weltmeisterin-denise-herrmann-wick-beendet-karriere](https://www.spiegel.de/sport/wintersport/biathlon-olympiasiegerin-und-weltmeisterin-denise-herrmann-wick-beendet-karriere-a-d9828142-93dc-4f51-ab84-f6e5462ac21c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruenenchef-nouripour-fordert-ausschluss-russischer-athleten](https://www.spiegel.de/politik/deutschland/gruenenchef-nouripour-fordert-ausschluss-russischer-athleten-a-84fd986c-6c1e-43cb-80aa-20ed4acda3d0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fifa-wm-2026-mit-104-spielen-und-einer-runde-mehr](https://www.spiegel.de/sport/fussball/fifa-wm-2026-mit-104-spielen-und-einer-runde-mehr-a-b6c750a5-43a7-418d-a0ac-3b73b573db94#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/wirtschaft/soziales/china-sondiert-erhoehung-des-rentenalters](https://www.spiegel.de/wirtschaft/soziales/china-sondiert-erhoehung-des-rentenalters-a-5c2d4c47-3553-4ddd-b7a8-16c1f72af157#ref=rss)
-* [https://www.spiegel.de/ausland/china-oeffnet-erstmals-seit-2020-seine-grenzen-ende-der-corona-restriktionen](https://www.spiegel.de/ausland/china-oeffnet-erstmals-seit-2020-seine-grenzen-ende-der-corona-restriktionen-a-80f1dfcb-6613-4e04-90af-ad77799880bb#ref=rss)
-### euro
+* [https://www.spiegel.de/panorama/justiz/irlbach-tiere-offenbar-mit-pfeil-und-bogen-getoetet-ermittlungen-wegen-wilderei](https://www.spiegel.de/panorama/justiz/irlbach-tiere-offenbar-mit-pfeil-und-bogen-getoetet-ermittlungen-wegen-wilderei-a-88fbfed0-3cdb-482d-b2a4-8b7c673bf9f9#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-frau-mehrere-kilometer-von-zug-mitgeschleift-schwer-verletzt](https://www.spiegel.de/panorama/bayern-frau-mehrere-kilometer-von-zug-mitgeschleift-schwer-verletzt-a-3bfbd7f8-4ccd-40a0-89b4-4f8a1ba46231#ref=rss)
+### russischer
 
-* [https://www.spiegel.de/politik/deutschland/warnstreiks-beschaeftigte-im-gesundheitswesen-draengen-auf-mehr-lohn](https://www.spiegel.de/politik/deutschland/warnstreiks-beschaeftigte-im-gesundheitswesen-draengen-auf-mehr-lohn-a-070f4e51-72f2-4d4f-b54a-a09156ce3259#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren-a-944d50de-041a-4d2e-b4bf-da960e62a05a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grippe-corona-bronchitis-rekordkrankenstand-kostet-deutschland-bis-zu-42-milliarden-euro](https://www.spiegel.de/wirtschaft/soziales/grippe-corona-bronchitis-rekordkrankenstand-kostet-deutschland-bis-zu-42-milliarden-euro-a-e159761f-aae4-4d71-a701-c8c8f5512e85#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/energiepauschale-fachschueler-studenten-portal-startet-diese-woche](https://www.spiegel.de/wirtschaft/service/energiepauschale-fachschueler-studenten-portal-startet-diese-woche-a-198c6ba3-f0df-4a87-a8e3-16eae1675401#ref=rss)
-### bundeswehr
+* [https://www.spiegel.de/ausland/usa-melden-zusammenstoss-eigener-reaper-drohne-mit-russischem-kampfjet](https://www.spiegel.de/ausland/usa-melden-zusammenstoss-eigener-reaper-drohne-mit-russischem-kampfjet-a-26b9b7e1-232d-41d9-88b6-414cff1ddb83#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruenenchef-nouripour-fordert-ausschluss-russischer-athleten](https://www.spiegel.de/politik/deutschland/gruenenchef-nouripour-fordert-ausschluss-russischer-athleten-a-84fd986c-6c1e-43cb-80aa-20ed4acda3d0#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-jewgeni-prigoschin-koennte-durch-gesetzeserweiterung-selbst-probleme-bekommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-jewgeni-prigoschin-koennte-durch-gesetzeserweiterung-selbst-probleme-bekommen-a-f81b885b-9194-449f-8497-81be14acf5f2#ref=rss)
+### frau
 
-* [https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand](https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand-a-be87b6bc-3497-441a-9e79-139d85569974#ref=rss)
-* [https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe](https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe-a-0051a6ba-3b44-4f5e-9c35-d8a619cc7372#ref=rss)
-### jahre
+* [https://www.spiegel.de/ausland/polen-aktivistin-wegen-beihilfe-zur-beschaffung-von-abtreibungspillen-verurteilt](https://www.spiegel.de/ausland/polen-aktivistin-wegen-beihilfe-zur-beschaffung-von-abtreibungspillen-verurteilt-a-12ab5ab0-76a9-483d-aa69-ccf11ece67f1#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-frau-mehrere-kilometer-von-zug-mitgeschleift-schwer-verletzt](https://www.spiegel.de/panorama/bayern-frau-mehrere-kilometer-von-zug-mitgeschleift-schwer-verletzt-a-3bfbd7f8-4ccd-40a0-89b4-4f8a1ba46231#ref=rss)
+### bildungsgipfel
 
-* [https://www.spiegel.de/panorama/justiz/freudenberg-fall-luisa-tatverdaechtige-sollen-zwoelf-und-13-jahre-alt-sein](https://www.spiegel.de/panorama/justiz/freudenberg-fall-luisa-tatverdaechtige-sollen-zwoelf-und-13-jahre-alt-sein-a-3b4f5ccf-7185-411e-bfc5-f6f99d4584a2#ref=rss)
-* [https://www.spiegel.de/sport/wintersport/biathlon-marte-olsbu-roeiseland-beendet-karriere-als-rekordweltmeisterin](https://www.spiegel.de/sport/wintersport/biathlon-marte-olsbu-roeiseland-beendet-karriere-als-rekordweltmeisterin-a-11890b18-e128-4e19-ac1d-77b979b3d0a8#ref=rss)
-* [https://www.spiegel.de/ausland/china-oeffnet-erstmals-seit-2020-seine-grenzen-ende-der-corona-restriktionen](https://www.spiegel.de/ausland/china-oeffnet-erstmals-seit-2020-seine-grenzen-ende-der-corona-restriktionen-a-80f1dfcb-6613-4e04-90af-ad77799880bb#ref=rss)
-### zwei
+* [https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse](https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse-a-de606423-4f34-4bbd-af79-559bd6e91434#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bettina-stark-watzinger-und-ihr-bildungsgipfel-erst-kammerspiel-dann-trauerspiel](https://www.spiegel.de/panorama/bildung/bettina-stark-watzinger-und-ihr-bildungsgipfel-erst-kammerspiel-dann-trauerspiel-a-3e43d909-2bde-4207-9fec-f8be5ebd553b#ref=rss)
+### probleme
 
-* [https://www.spiegel.de/panorama/justiz/freudenberg-fall-luisa-tatverdaechtige-sollen-zwoelf-und-13-jahre-alt-sein](https://www.spiegel.de/panorama/justiz/freudenberg-fall-luisa-tatverdaechtige-sollen-zwoelf-und-13-jahre-alt-sein-a-3b4f5ccf-7185-411e-bfc5-f6f99d4584a2#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/facebook-und-instagram-stoppen-unterstuetzung-fuer-nfts](https://www.spiegel.de/netzwelt/apps/facebook-und-instagram-stoppen-unterstuetzung-fuer-nfts-a-8e6a1888-b2f4-428c-becd-b64c190387a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren-a-944d50de-041a-4d2e-b4bf-da960e62a05a#ref=rss)
-### polizei
+* [https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse](https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse-a-de606423-4f34-4bbd-af79-559bd6e91434#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bettina-stark-watzinger-und-ihr-bildungsgipfel-erst-kammerspiel-dann-trauerspiel](https://www.spiegel.de/panorama/bildung/bettina-stark-watzinger-und-ihr-bildungsgipfel-erst-kammerspiel-dann-trauerspiel-a-3e43d909-2bde-4207-9fec-f8be5ebd553b#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-jewgeni-prigoschin-koennte-durch-gesetzeserweiterung-selbst-probleme-bekommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-jewgeni-prigoschin-koennte-durch-gesetzeserweiterung-selbst-probleme-bekommen-a-f81b885b-9194-449f-8497-81be14acf5f2#ref=rss)
+### saudiarabien
 
-* [https://www.spiegel.de/panorama/justiz/freudenberg-fall-luisa-tatverdaechtige-sollen-zwoelf-und-13-jahre-alt-sein](https://www.spiegel.de/panorama/justiz/freudenberg-fall-luisa-tatverdaechtige-sollen-zwoelf-und-13-jahre-alt-sein-a-3b4f5ccf-7185-411e-bfc5-f6f99d4584a2#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-flieht-vor-polizei-und-faehrt-mit-auto-in-holocaust-mahnmal](https://www.spiegel.de/panorama/justiz/berlin-mann-flieht-vor-polizei-und-faehrt-mit-auto-in-holocaust-mahnmal-a-d0e99de8-ebae-4a7b-a109-dd43def9df1f#ref=rss)
-### sagt
+* [https://www.spiegel.de/sport/wintersport/wintersport-fis-praesident-johan-eliasch-bleibt-im-amt-und-mit-ihm-viele-fragen](https://www.spiegel.de/sport/wintersport/wintersport-fis-praesident-johan-eliasch-bleibt-im-amt-und-mit-ihm-viele-fragen-a-40221e54-7621-4e58-9e7f-098817b2a3e6#ref=rss)
+* [https://www.spiegel.de/ausland/china-und-der-diplomatische-coup-mit-iran-und-saudi-arabien-handshake-mit-sprengkraft](https://www.spiegel.de/ausland/china-und-der-diplomatische-coup-mit-iran-und-saudi-arabien-handshake-mit-sprengkraft-a-719c7a6f-2fee-4e13-b392-edd6fd72479c#ref=rss)
+### karstadt
 
-* [https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe](https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe-a-0051a6ba-3b44-4f5e-9c35-d8a619cc7372#ref=rss)
-* [https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein](https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein-a-fa3e3c0d-ae21-476e-9593-1f6863051f65#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/china-sondiert-erhoehung-des-rentenalters](https://www.spiegel.de/wirtschaft/soziales/china-sondiert-erhoehung-des-rentenalters-a-5c2d4c47-3553-4ddd-b7a8-16c1f72af157#ref=rss)
-### unterstützung
+* [https://www.spiegel.de/kultur/karstadt-und-kaufhof-ein-ort-an-dem-sich-tatsaechlich-noch-alle-begegnen](https://www.spiegel.de/kultur/karstadt-und-kaufhof-ein-ort-an-dem-sich-tatsaechlich-noch-alle-begegnen-a-5364eef4-c938-4a91-ac4a-56aa01007333#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste-a-e20bf6fa-b376-4561-a9bc-8bdbcf46c644#ref=rss)
+### kaufhof
 
-* [https://www.spiegel.de/netzwelt/apps/facebook-und-instagram-stoppen-unterstuetzung-fuer-nfts](https://www.spiegel.de/netzwelt/apps/facebook-und-instagram-stoppen-unterstuetzung-fuer-nfts-a-8e6a1888-b2f4-428c-becd-b64c190387a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sanierung-der-bundesfinanzen-wirtschaftsweise-will-subventionen-streichen](https://www.spiegel.de/wirtschaft/sanierung-der-bundesfinanzen-wirtschaftsweise-will-subventionen-streichen-a-c3b7cb4e-5f2b-464b-bcfe-88463d1a5a8f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/krankenhaeuser-andreas-gassen-deutlich-zu-viele-krankenhaeuser](https://www.spiegel.de/politik/deutschland/krankenhaeuser-andreas-gassen-deutlich-zu-viele-krankenhaeuser-a-a7fbdeed-743e-4274-a65a-02025ae034ab#ref=rss)
-### mehr
+* [https://www.spiegel.de/kultur/karstadt-und-kaufhof-ein-ort-an-dem-sich-tatsaechlich-noch-alle-begegnen](https://www.spiegel.de/kultur/karstadt-und-kaufhof-ein-ort-an-dem-sich-tatsaechlich-noch-alle-begegnen-a-5364eef4-c938-4a91-ac4a-56aa01007333#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste-a-e20bf6fa-b376-4561-a9bc-8bdbcf46c644#ref=rss)
+### filialen
 
-* [https://www.spiegel.de/netzwelt/apps/facebook-und-instagram-stoppen-unterstuetzung-fuer-nfts](https://www.spiegel.de/netzwelt/apps/facebook-und-instagram-stoppen-unterstuetzung-fuer-nfts-a-8e6a1888-b2f4-428c-becd-b64c190387a0#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/warnstreiks-beschaeftigte-im-gesundheitswesen-draengen-auf-mehr-lohn](https://www.spiegel.de/politik/deutschland/warnstreiks-beschaeftigte-im-gesundheitswesen-draengen-auf-mehr-lohn-a-070f4e51-72f2-4d4f-b54a-a09156ce3259#ref=rss)
-### gaga
+* [https://www.spiegel.de/kultur/karstadt-und-kaufhof-ein-ort-an-dem-sich-tatsaechlich-noch-alle-begegnen](https://www.spiegel.de/kultur/karstadt-und-kaufhof-ein-ort-an-dem-sich-tatsaechlich-noch-alle-begegnen-a-5364eef4-c938-4a91-ac4a-56aa01007333#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste-a-e20bf6fa-b376-4561-a9bc-8bdbcf46c644#ref=rss)
+### galeria
 
-* [https://www.spiegel.de/panorama/leute/oscars-2023-lady-gaga-ungeschminkter-auftritt-man-sollte-die-wahre-gaga-sehen](https://www.spiegel.de/panorama/leute/oscars-2023-lady-gaga-ungeschminkter-auftritt-man-sollte-die-wahre-gaga-sehen-a-8d44afd4-cdf9-4c34-996f-3a3bd0b4bfb8#ref=rss)
-### prozent
+* [https://www.spiegel.de/kultur/karstadt-und-kaufhof-ein-ort-an-dem-sich-tatsaechlich-noch-alle-begegnen](https://www.spiegel.de/kultur/karstadt-und-kaufhof-ein-ort-an-dem-sich-tatsaechlich-noch-alle-begegnen-a-5364eef4-c938-4a91-ac4a-56aa01007333#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste-a-e20bf6fa-b376-4561-a9bc-8bdbcf46c644#ref=rss)
+### neue
 
-* [https://www.spiegel.de/wirtschaft/soziales/grippe-corona-bronchitis-rekordkrankenstand-kostet-deutschland-bis-zu-42-milliarden-euro](https://www.spiegel.de/wirtschaft/soziales/grippe-corona-bronchitis-rekordkrankenstand-kostet-deutschland-bis-zu-42-milliarden-euro-a-e159761f-aae4-4d71-a701-c8c8f5512e85#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-bauzinsen-steigen-ueber-vier-prozent](https://www.spiegel.de/wirtschaft/service/immobilien-bauzinsen-steigen-ueber-vier-prozent-a-0007ff9a-513a-4e85-9523-ed8e17110fb6#ref=rss)
-### grünen
+* [https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode](https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode-a-030f6c3f-6c1b-4049-a8db-8c47bd3fa6ee#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/wettlauf-mit-microsoft-google-kuendigt-neue-ki-dienste-an](https://www.spiegel.de/netzwelt/apps/wettlauf-mit-microsoft-google-kuendigt-neue-ki-dienste-an-a-c6830ee2-94f9-4b46-9b65-50cb4a155c08#ref=rss)
+### generation
 
-* [https://www.spiegel.de/wissenschaft/verkehrswende-wie-die-gruenen-an-der-fdp-scheitern-podcast](https://www.spiegel.de/wissenschaft/verkehrswende-wie-die-gruenen-an-der-fdp-scheitern-podcast-a-dca97428-04ab-4f5b-b9ff-c8d1b20af97d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/krankenhaeuser-andreas-gassen-deutlich-zu-viele-krankenhaeuser](https://www.spiegel.de/politik/deutschland/krankenhaeuser-andreas-gassen-deutlich-zu-viele-krankenhaeuser-a-a7fbdeed-743e-4274-a65a-02025ae034ab#ref=rss)
-### israel
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-staedte-und-gemeindebund-kritisiert-vereinbarungen-mit-klimaaktivisten](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-staedte-und-gemeindebund-kritisiert-vereinbarungen-mit-klimaaktivisten-a-17c950d1-3c48-4cb4-b8ca-d17345b812cb#ref=rss)
+### städte
 
-* [https://www.spiegel.de/ausland/israel-knesset-stimmt-fuer-rueckkehr-erlaubnis-in-vier-siedlungen](https://www.spiegel.de/ausland/israel-knesset-stimmt-fuer-rueckkehr-erlaubnis-in-vier-siedlungen-a-a92a0e1b-12eb-4258-ad60-e48bd1715fbc#ref=rss)
-### vier
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-staedte-und-gemeindebund-kritisiert-vereinbarungen-mit-klimaaktivisten](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-staedte-und-gemeindebund-kritisiert-vereinbarungen-mit-klimaaktivisten-a-17c950d1-3c48-4cb4-b8ca-d17345b812cb#ref=rss)
+### gemeindebund
 
-* [https://www.spiegel.de/ausland/israel-knesset-stimmt-fuer-rueckkehr-erlaubnis-in-vier-siedlungen](https://www.spiegel.de/ausland/israel-knesset-stimmt-fuer-rueckkehr-erlaubnis-in-vier-siedlungen-a-a92a0e1b-12eb-4258-ad60-e48bd1715fbc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-bauzinsen-steigen-ueber-vier-prozent](https://www.spiegel.de/wirtschaft/service/immobilien-bauzinsen-steigen-ueber-vier-prozent-a-0007ff9a-513a-4e85-9523-ed8e17110fb6#ref=rss)
-### menschen
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-staedte-und-gemeindebund-kritisiert-vereinbarungen-mit-klimaaktivisten](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-staedte-und-gemeindebund-kritisiert-vereinbarungen-mit-klimaaktivisten-a-17c950d1-3c48-4cb4-b8ca-d17345b812cb#ref=rss)
+### kritisiert
 
-* [https://www.spiegel.de/ausland/israel-knesset-stimmt-fuer-rueckkehr-erlaubnis-in-vier-siedlungen](https://www.spiegel.de/ausland/israel-knesset-stimmt-fuer-rueckkehr-erlaubnis-in-vier-siedlungen-a-a92a0e1b-12eb-4258-ad60-e48bd1715fbc#ref=rss)
-* [https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch](https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch-a-c76f1dcc-cdd0-4f4a-a293-91efdecb7df1#ref=rss)
-### teils
+* [https://www.spiegel.de/panorama/gesellschaft/letzte-generation-staedte-und-gemeindebund-kritisiert-vereinbarungen-mit-klimaaktivisten](https://www.spiegel.de/panorama/gesellschaft/letzte-generation-staedte-und-gemeindebund-kritisiert-vereinbarungen-mit-klimaaktivisten-a-17c950d1-3c48-4cb4-b8ca-d17345b812cb#ref=rss)
+* [https://www.spiegel.de/ausland/usa-melden-zusammenstoss-eigener-reaper-drohne-mit-russischem-kampfjet](https://www.spiegel.de/ausland/usa-melden-zusammenstoss-eigener-reaper-drohne-mit-russischem-kampfjet-a-26b9b7e1-232d-41d9-88b6-414cff1ddb83#ref=rss)
+### inflation
 
-* [https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand](https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand-a-be87b6bc-3497-441a-9e79-139d85569974#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/warnstreiks-beschaeftigte-im-gesundheitswesen-draengen-auf-mehr-lohn](https://www.spiegel.de/politik/deutschland/warnstreiks-beschaeftigte-im-gesundheitswesen-draengen-auf-mehr-lohn-a-070f4e51-72f2-4d4f-b54a-a09156ce3259#ref=rss)
-### zustand
+* [https://www.spiegel.de/wirtschaft/service/verbraucherpreise-in-den-usa-inflation-sinkt-auf-6-0-prozent](https://www.spiegel.de/wirtschaft/service/verbraucherpreise-in-den-usa-inflation-sinkt-auf-6-0-prozent-a-387d7121-1c12-4a4b-8eda-1af726feb350#ref=rss)
+### weckt
 
-* [https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand](https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand-a-be87b6bc-3497-441a-9e79-139d85569974#ref=rss)
-* [https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe](https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe-a-0051a6ba-3b44-4f5e-9c35-d8a619cc7372#ref=rss)
-### führt
+* [https://www.spiegel.de/wirtschaft/service/verbraucherpreise-in-den-usa-inflation-sinkt-auf-6-0-prozent](https://www.spiegel.de/wirtschaft/service/verbraucherpreise-in-den-usa-inflation-sinkt-auf-6-0-prozent-a-387d7121-1c12-4a4b-8eda-1af726feb350#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste-a-e20bf6fa-b376-4561-a9bc-8bdbcf46c644#ref=rss)
+### denise
 
-* [https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand](https://www.spiegel.de/politik/deutschland/bericht-der-wehrbeauftragten-eva-hoegl-sieht-bundeswehr-teils-in-erbaermlichem-zustand-a-be87b6bc-3497-441a-9e79-139d85569974#ref=rss)
-* [https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein](https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein-a-fa3e3c0d-ae21-476e-9593-1f6863051f65#ref=rss)
-### komplimente
+* [https://www.spiegel.de/sport/wintersport/biathlon-olympiasiegerin-und-weltmeisterin-denise-herrmann-wick-beendet-karriere](https://www.spiegel.de/sport/wintersport/biathlon-olympiasiegerin-und-weltmeisterin-denise-herrmann-wick-beendet-karriere-a-d9828142-93dc-4f51-ab84-f6e5462ac21c#ref=rss)
+### herrmannwick
 
-* [https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch](https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch-a-c76f1dcc-cdd0-4f4a-a293-91efdecb7df1#ref=rss)
-### lob
+* [https://www.spiegel.de/sport/wintersport/biathlon-olympiasiegerin-und-weltmeisterin-denise-herrmann-wick-beendet-karriere](https://www.spiegel.de/sport/wintersport/biathlon-olympiasiegerin-und-weltmeisterin-denise-herrmann-wick-beendet-karriere-a-d9828142-93dc-4f51-ab84-f6e5462ac21c#ref=rss)
+### credit
 
-* [https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch](https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch-a-c76f1dcc-cdd0-4f4a-a293-91efdecb7df1#ref=rss)
-### positives
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-raeumt-erhebliche-schwaechen-bei-finanzberichten-ein](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-raeumt-erhebliche-schwaechen-bei-finanzberichten-ein-a-394cbf01-d286-4fa3-85ae-6ffd078a3918#ref=rss)
+### suisse
 
-* [https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch](https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch-a-c76f1dcc-cdd0-4f4a-a293-91efdecb7df1#ref=rss)
-### feedback
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-raeumt-erhebliche-schwaechen-bei-finanzberichten-ein](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-raeumt-erhebliche-schwaechen-bei-finanzberichten-ein-a-394cbf01-d286-4fa3-85ae-6ffd078a3918#ref=rss)
+### erhebliche
 
-* [https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch](https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch-a-c76f1dcc-cdd0-4f4a-a293-91efdecb7df1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-raeumt-erhebliche-schwaechen-bei-finanzberichten-ein](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-raeumt-erhebliche-schwaechen-bei-finanzberichten-ein-a-394cbf01-d286-4fa3-85ae-6ffd078a3918#ref=rss)
+### schwächen
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-raeumt-erhebliche-schwaechen-bei-finanzberichten-ein](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-raeumt-erhebliche-schwaechen-bei-finanzberichten-ein-a-394cbf01-d286-4fa3-85ae-6ffd078a3918#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch](https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch-a-c76f1dcc-cdd0-4f4a-a293-91efdecb7df1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/krankenhaeuser-andreas-gassen-deutlich-zu-viele-krankenhaeuser](https://www.spiegel.de/politik/deutschland/krankenhaeuser-andreas-gassen-deutlich-zu-viele-krankenhaeuser-a-a7fbdeed-743e-4274-a65a-02025ae034ab#ref=rss)
-### männer
-
-* [https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch](https://www.spiegel.de/psychologie/komplimente-lob-positives-feedback-so-viele-wohlwollende-worte-braucht-der-mensch-a-c76f1dcc-cdd0-4f4a-a293-91efdecb7df1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-flieht-vor-polizei-und-faehrt-mit-auto-in-holocaust-mahnmal](https://www.spiegel.de/panorama/justiz/berlin-mann-flieht-vor-polizei-und-faehrt-mit-auto-in-holocaust-mahnmal-a-d0e99de8-ebae-4a7b-a109-dd43def9df1f#ref=rss)
-### segelboot
-
-* [https://www.spiegel.de/reise/fernweh/per-anhalter-ueber-den-atlantik-wie-man-mit-segelboot-trampt](https://www.spiegel.de/reise/fernweh/per-anhalter-ueber-den-atlantik-wie-man-mit-segelboot-trampt-a-ce40e3d3-a5e4-4930-aa58-f54ee227039e#ref=rss)
-### gehen
-
-* [https://www.spiegel.de/reise/fernweh/per-anhalter-ueber-den-atlantik-wie-man-mit-segelboot-trampt](https://www.spiegel.de/reise/fernweh/per-anhalter-ueber-den-atlantik-wie-man-mit-segelboot-trampt-a-ce40e3d3-a5e4-4930-aa58-f54ee227039e#ref=rss)
-* [https://www.spiegel.de/panorama/militaerattrappen-aufblasbare-panzer-fuer-den-krieg](https://www.spiegel.de/panorama/militaerattrappen-aufblasbare-panzer-fuer-den-krieg-a-c2e14274-a52d-44ce-a584-d8bc880d22b8#ref=rss)
-### freudenberg
-
-* [https://www.spiegel.de/panorama/justiz/freudenberg-fall-luisa-tatverdaechtige-sollen-zwoelf-und-13-jahre-alt-sein](https://www.spiegel.de/panorama/justiz/freudenberg-fall-luisa-tatverdaechtige-sollen-zwoelf-und-13-jahre-alt-sein-a-3b4f5ccf-7185-411e-bfc5-f6f99d4584a2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-raeumt-erhebliche-schwaechen-bei-finanzberichten-ein](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-raeumt-erhebliche-schwaechen-bei-finanzberichten-ein-a-394cbf01-d286-4fa3-85ae-6ffd078a3918#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/wintersport-fis-praesident-johan-eliasch-bleibt-im-amt-und-mit-ihm-viele-fragen](https://www.spiegel.de/sport/wintersport/wintersport-fis-praesident-johan-eliasch-bleibt-im-amt-und-mit-ihm-viele-fragen-a-40221e54-7621-4e58-9e7f-098817b2a3e6#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/justiz/freudenberg-fall-luisa-tatverdaechtige-sollen-zwoelf-und-13-jahre-alt-sein](https://www.spiegel.de/panorama/justiz/freudenberg-fall-luisa-tatverdaechtige-sollen-zwoelf-und-13-jahre-alt-sein-a-3b4f5ccf-7185-411e-bfc5-f6f99d4584a2#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-sollen-offenbar-ausgemusterte-munition-einsetzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-sollen-offenbar-ausgemusterte-munition-einsetzen-a-3d07fab3-5f24-42e4-9613-cf2ce5ac2fed#ref=rss)
-### unter
+* [https://www.spiegel.de/panorama/justiz/irlbach-tiere-offenbar-mit-pfeil-und-bogen-getoetet-ermittlungen-wegen-wilderei](https://www.spiegel.de/panorama/justiz/irlbach-tiere-offenbar-mit-pfeil-und-bogen-getoetet-ermittlungen-wegen-wilderei-a-88fbfed0-3cdb-482d-b2a4-8b7c673bf9f9#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-ministerpraesident-ulf-kristersson-sieht-chance-auf-gemeinsamen-nato-beitritt-mit-finnland-schwinden](https://www.spiegel.de/ausland/schweden-ministerpraesident-ulf-kristersson-sieht-chance-auf-gemeinsamen-nato-beitritt-mit-finnland-schwinden-a-d9121159-179b-41fa-a413-e44510f5617c#ref=rss)
+### wilderei
 
-* [https://www.spiegel.de/panorama/justiz/freudenberg-fall-luisa-tatverdaechtige-sollen-zwoelf-und-13-jahre-alt-sein](https://www.spiegel.de/panorama/justiz/freudenberg-fall-luisa-tatverdaechtige-sollen-zwoelf-und-13-jahre-alt-sein-a-3b4f5ccf-7185-411e-bfc5-f6f99d4584a2#ref=rss)
-* [https://www.spiegel.de/panorama/donau-schleuse-geisling-in-woerth-bergung-des-havarierten-erzfrachters-wird-vorbereitet](https://www.spiegel.de/panorama/donau-schleuse-geisling-in-woerth-bergung-des-havarierten-erzfrachters-wird-vorbereitet-a-8b8360be-be45-481e-b9dd-56e059d926c1#ref=rss)
-### elon
+* [https://www.spiegel.de/panorama/justiz/irlbach-tiere-offenbar-mit-pfeil-und-bogen-getoetet-ermittlungen-wegen-wilderei](https://www.spiegel.de/panorama/justiz/irlbach-tiere-offenbar-mit-pfeil-und-bogen-getoetet-ermittlungen-wegen-wilderei-a-88fbfed0-3cdb-482d-b2a4-8b7c673bf9f9#ref=rss)
+### mehrere
 
-* [https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche](https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche-a-0f1c332d-1b62-45ba-83e1-31fd34d401cd#ref=rss)
-### musk
+* [https://www.spiegel.de/panorama/justiz/irlbach-tiere-offenbar-mit-pfeil-und-bogen-getoetet-ermittlungen-wegen-wilderei](https://www.spiegel.de/panorama/justiz/irlbach-tiere-offenbar-mit-pfeil-und-bogen-getoetet-ermittlungen-wegen-wilderei-a-88fbfed0-3cdb-482d-b2a4-8b7c673bf9f9#ref=rss)
+* [https://www.spiegel.de/panorama/bayern-frau-mehrere-kilometer-von-zug-mitgeschleift-schwer-verletzt](https://www.spiegel.de/panorama/bayern-frau-mehrere-kilometer-von-zug-mitgeschleift-schwer-verletzt-a-3bfbd7f8-4ccd-40a0-89b4-4f8a1ba46231#ref=rss)
+### gefunden
 
-* [https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche](https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche-a-0f1c332d-1b62-45ba-83e1-31fd34d401cd#ref=rss)
-### fordern
+* [https://www.spiegel.de/panorama/justiz/irlbach-tiere-offenbar-mit-pfeil-und-bogen-getoetet-ermittlungen-wegen-wilderei](https://www.spiegel.de/panorama/justiz/irlbach-tiere-offenbar-mit-pfeil-und-bogen-getoetet-ermittlungen-wegen-wilderei-a-88fbfed0-3cdb-482d-b2a4-8b7c673bf9f9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-extreme-schneestuerme-fuehren-zu-brutausfaellen-bei-seevoegeln](https://www.spiegel.de/wissenschaft/natur/antarktis-extreme-schneestuerme-fuehren-zu-brutausfaellen-bei-seevoegeln-a-0ee8640b-09aa-4df9-89ac-b6741d26cff3#ref=rss)
+### kampfjet
 
-* [https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche](https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche-a-0f1c332d-1b62-45ba-83e1-31fd34d401cd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/warnstreiks-beschaeftigte-im-gesundheitswesen-draengen-auf-mehr-lohn](https://www.spiegel.de/politik/deutschland/warnstreiks-beschaeftigte-im-gesundheitswesen-draengen-auf-mehr-lohn-a-070f4e51-72f2-4d4f-b54a-a09156ce3259#ref=rss)
-### globale
+* [https://www.spiegel.de/ausland/usa-melden-zusammenstoss-eigener-reaper-drohne-mit-russischem-kampfjet](https://www.spiegel.de/ausland/usa-melden-zusammenstoss-eigener-reaper-drohne-mit-russischem-kampfjet-a-26b9b7e1-232d-41d9-88b6-414cff1ddb83#ref=rss)
+### thailand
 
-* [https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche](https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche-a-0f1c332d-1b62-45ba-83e1-31fd34d401cd#ref=rss)
-### superreiche
+* [https://www.spiegel.de/panorama/caesium-137-zylinder-mit-hochradioaktivem-inhalt-in-thailand-verschwunden](https://www.spiegel.de/panorama/caesium-137-zylinder-mit-hochradioaktivem-inhalt-in-thailand-verschwunden-a-e3402dd1-650b-4895-8ac3-21014c184307#ref=rss)
+### polen
 
-* [https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche](https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche-a-0f1c332d-1b62-45ba-83e1-31fd34d401cd#ref=rss)
-### ändern
+* [https://www.spiegel.de/ausland/polen-aktivistin-wegen-beihilfe-zur-beschaffung-von-abtreibungspillen-verurteilt](https://www.spiegel.de/ausland/polen-aktivistin-wegen-beihilfe-zur-beschaffung-von-abtreibungspillen-verurteilt-a-12ab5ab0-76a9-483d-aa69-ccf11ece67f1#ref=rss)
+### verurteilt
 
-* [https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche](https://www.spiegel.de/wirtschaft/soziales/wegen-elon-musk-eu-parlamentarier-fordern-globale-steuer-fuer-superreiche-a-0f1c332d-1b62-45ba-83e1-31fd34d401cd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/energiepauschale-fachschueler-studenten-portal-startet-diese-woche](https://www.spiegel.de/wirtschaft/service/energiepauschale-fachschueler-studenten-portal-startet-diese-woche-a-198c6ba3-f0df-4a87-a8e3-16eae1675401#ref=rss)
-### truppe
+* [https://www.spiegel.de/ausland/polen-aktivistin-wegen-beihilfe-zur-beschaffung-von-abtreibungspillen-verurteilt](https://www.spiegel.de/ausland/polen-aktivistin-wegen-beihilfe-zur-beschaffung-von-abtreibungspillen-verurteilt-a-12ab5ab0-76a9-483d-aa69-ccf11ece67f1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-brentford-profi-ivan-toney-bekommt-rassistische-nachricht-stadionverbot-fuer-absender](https://www.spiegel.de/sport/fussball/fussball-brentford-profi-ivan-toney-bekommt-rassistische-nachricht-stadionverbot-fuer-absender-a-8c3fee83-4914-4dde-b3c9-15101cb4430f#ref=rss)
+### helfen
 
-* [https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe](https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe-a-0051a6ba-3b44-4f5e-9c35-d8a619cc7372#ref=rss)
-### lange
+* [https://www.spiegel.de/ausland/polen-aktivistin-wegen-beihilfe-zur-beschaffung-von-abtreibungspillen-verurteilt](https://www.spiegel.de/ausland/polen-aktivistin-wegen-beihilfe-zur-beschaffung-von-abtreibungspillen-verurteilt-a-12ab5ab0-76a9-483d-aa69-ccf11ece67f1#ref=rss)
+* [https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode](https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode-a-030f6c3f-6c1b-4049-a8db-8c47bd3fa6ee#ref=rss)
+### grünenchef
 
-* [https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe](https://www.spiegel.de/politik/livestream-bundeswehr-das-sagt-die-wehrbeauftragte-eva-hoegl-ueber-den-zustand-der-truppe-a-0051a6ba-3b44-4f5e-9c35-d8a619cc7372#ref=rss)
-* [https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein](https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein-a-fa3e3c0d-ae21-476e-9593-1f6863051f65#ref=rss)
-### marte
+* [https://www.spiegel.de/politik/deutschland/gruenenchef-nouripour-fordert-ausschluss-russischer-athleten](https://www.spiegel.de/politik/deutschland/gruenenchef-nouripour-fordert-ausschluss-russischer-athleten-a-84fd986c-6c1e-43cb-80aa-20ed4acda3d0#ref=rss)
+### nouripour
 
-* [https://www.spiegel.de/sport/wintersport/biathlon-marte-olsbu-roeiseland-beendet-karriere-als-rekordweltmeisterin](https://www.spiegel.de/sport/wintersport/biathlon-marte-olsbu-roeiseland-beendet-karriere-als-rekordweltmeisterin-a-11890b18-e128-4e19-ac1d-77b979b3d0a8#ref=rss)
-### olsbu
-
-* [https://www.spiegel.de/sport/wintersport/biathlon-marte-olsbu-roeiseland-beendet-karriere-als-rekordweltmeisterin](https://www.spiegel.de/sport/wintersport/biathlon-marte-olsbu-roeiseland-beendet-karriere-als-rekordweltmeisterin-a-11890b18-e128-4e19-ac1d-77b979b3d0a8#ref=rss)
-### röiseland
-
-* [https://www.spiegel.de/sport/wintersport/biathlon-marte-olsbu-roeiseland-beendet-karriere-als-rekordweltmeisterin](https://www.spiegel.de/sport/wintersport/biathlon-marte-olsbu-roeiseland-beendet-karriere-als-rekordweltmeisterin-a-11890b18-e128-4e19-ac1d-77b979b3d0a8#ref=rss)
-### holocaustmahnmal
-
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-flieht-vor-polizei-und-faehrt-mit-auto-in-holocaust-mahnmal](https://www.spiegel.de/panorama/justiz/berlin-mann-flieht-vor-polizei-und-faehrt-mit-auto-in-holocaust-mahnmal-a-d0e99de8-ebae-4a7b-a109-dd43def9df1f#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-flieht-vor-polizei-und-faehrt-mit-auto-in-holocaust-mahnmal](https://www.spiegel.de/panorama/justiz/berlin-mann-flieht-vor-polizei-und-faehrt-mit-auto-in-holocaust-mahnmal-a-d0e99de8-ebae-4a7b-a109-dd43def9df1f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-sollen-offenbar-ausgemusterte-munition-einsetzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-sollen-offenbar-ausgemusterte-munition-einsetzen-a-3d07fab3-5f24-42e4-9613-cf2ce5ac2fed#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gruenenchef-nouripour-fordert-ausschluss-russischer-athleten](https://www.spiegel.de/politik/deutschland/gruenenchef-nouripour-fordert-ausschluss-russischer-athleten-a-84fd986c-6c1e-43cb-80aa-20ed4acda3d0#ref=rss)
 ### waren
 
-* [https://www.spiegel.de/panorama/justiz/berlin-mann-flieht-vor-polizei-und-faehrt-mit-auto-in-holocaust-mahnmal](https://www.spiegel.de/panorama/justiz/berlin-mann-flieht-vor-polizei-und-faehrt-mit-auto-in-holocaust-mahnmal-a-d0e99de8-ebae-4a7b-a109-dd43def9df1f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-einsatz-in-estland-luftwaffe-stieg-zu-27-alarmstarts-ueber-baltikum-auf](https://www.spiegel.de/politik/deutschland/nato-einsatz-in-estland-luftwaffe-stieg-zu-27-alarmstarts-ueber-baltikum-auf-a-ff577aa4-6856-4ebb-9643-8e516da3c869#ref=rss)
-### digitale
+* [https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse](https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse-a-de606423-4f34-4bbd-af79-559bd6e91434#ref=rss)
+* [https://www.spiegel.de/ausland/china-und-der-diplomatische-coup-mit-iran-und-saudi-arabien-handshake-mit-sprengkraft](https://www.spiegel.de/ausland/china-und-der-diplomatische-coup-mit-iran-und-saudi-arabien-handshake-mit-sprengkraft-a-719c7a6f-2fee-4e13-b392-edd6fd72479c#ref=rss)
+### kultusminister
 
-* [https://www.spiegel.de/netzwelt/apps/facebook-und-instagram-stoppen-unterstuetzung-fuer-nfts](https://www.spiegel.de/netzwelt/apps/facebook-und-instagram-stoppen-unterstuetzung-fuer-nfts-a-8e6a1888-b2f4-428c-becd-b64c190387a0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren-a-944d50de-041a-4d2e-b4bf-da960e62a05a#ref=rss)
-### zeugen
+* [https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse](https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse-a-de606423-4f34-4bbd-af79-559bd6e91434#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/bettina-stark-watzinger-und-ihr-bildungsgipfel-erst-kammerspiel-dann-trauerspiel](https://www.spiegel.de/panorama/bildung/bettina-stark-watzinger-und-ihr-bildungsgipfel-erst-kammerspiel-dann-trauerspiel-a-3e43d909-2bde-4207-9fec-f8be5ebd553b#ref=rss)
+### kritik
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-amoklauf-bei-den-zeugen-jehovas-die-wirre-welt-des-philipp-f](https://www.spiegel.de/panorama/justiz/hamburg-amoklauf-bei-den-zeugen-jehovas-die-wirre-welt-des-philipp-f-a-81f49083-f897-4863-bd16-67ffc09a02a2#ref=rss)
-### jehovas
+* [https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse](https://www.spiegel.de/panorama/bildung/bildungsgipfel-von-bettina-stark-watzinger-diskussion-ohne-beschluesse-a-de606423-4f34-4bbd-af79-559bd6e91434#ref=rss)
+* [https://www.spiegel.de/sport/wintersport/wintersport-fis-praesident-johan-eliasch-bleibt-im-amt-und-mit-ihm-viele-fragen](https://www.spiegel.de/sport/wintersport/wintersport-fis-praesident-johan-eliasch-bleibt-im-amt-und-mit-ihm-viele-fragen-a-40221e54-7621-4e58-9e7f-098817b2a3e6#ref=rss)
+### amokläufer
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-amoklauf-bei-den-zeugen-jehovas-die-wirre-welt-des-philipp-f](https://www.spiegel.de/panorama/justiz/hamburg-amoklauf-bei-den-zeugen-jehovas-die-wirre-welt-des-philipp-f-a-81f49083-f897-4863-bd16-67ffc09a02a2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-amoklaeufer-philipp-f-zustand-der-bundeswehr-studierendenpauschale](https://www.spiegel.de/politik/deutschland/news-des-tages-amoklaeufer-philipp-f-zustand-der-bundeswehr-studierendenpauschale-a-fc1a6a84-9b7a-47d5-9dc5-764629366d80#ref=rss)
 ### philipp
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-amoklauf-bei-den-zeugen-jehovas-die-wirre-welt-des-philipp-f](https://www.spiegel.de/panorama/justiz/hamburg-amoklauf-bei-den-zeugen-jehovas-die-wirre-welt-des-philipp-f-a-81f49083-f897-4863-bd16-67ffc09a02a2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-amoklaeufer-philipp-f-zustand-der-bundeswehr-studierendenpauschale](https://www.spiegel.de/politik/deutschland/news-des-tages-amoklaeufer-philipp-f-zustand-der-bundeswehr-studierendenpauschale-a-fc1a6a84-9b7a-47d5-9dc5-764629366d80#ref=rss)
 ### f
 
-* [https://www.spiegel.de/panorama/justiz/hamburg-amoklauf-bei-den-zeugen-jehovas-die-wirre-welt-des-philipp-f](https://www.spiegel.de/panorama/justiz/hamburg-amoklauf-bei-den-zeugen-jehovas-die-wirre-welt-des-philipp-f-a-81f49083-f897-4863-bd16-67ffc09a02a2#ref=rss)
-### norwegen
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-amoklaeufer-philipp-f-zustand-der-bundeswehr-studierendenpauschale](https://www.spiegel.de/politik/deutschland/news-des-tages-amoklaeufer-philipp-f-zustand-der-bundeswehr-studierendenpauschale-a-fc1a6a84-9b7a-47d5-9dc5-764629366d80#ref=rss)
+### zustand
 
-* [https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein](https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein-a-fa3e3c0d-ae21-476e-9593-1f6863051f65#ref=rss)
-### außenpolitik
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-amoklaeufer-philipp-f-zustand-der-bundeswehr-studierendenpauschale](https://www.spiegel.de/politik/deutschland/news-des-tages-amoklaeufer-philipp-f-zustand-der-bundeswehr-studierendenpauschale-a-fc1a6a84-9b7a-47d5-9dc5-764629366d80#ref=rss)
+### langeweile
 
-* [https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein](https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein-a-fa3e3c0d-ae21-476e-9593-1f6863051f65#ref=rss)
-### deutschland
+* [https://www.spiegel.de/karriere/tristesse-im-job-langeweile-ist-ein-grosses-tabu](https://www.spiegel.de/karriere/tristesse-im-job-langeweile-ist-ein-grosses-tabu-a-73e3ba14-9cae-409a-b9cd-48a95d7c3870#ref=rss)
+### fispräsident
 
-* [https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein](https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein-a-fa3e3c0d-ae21-476e-9593-1f6863051f65#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grippe-corona-bronchitis-rekordkrankenstand-kostet-deutschland-bis-zu-42-milliarden-euro](https://www.spiegel.de/wirtschaft/soziales/grippe-corona-bronchitis-rekordkrankenstand-kostet-deutschland-bis-zu-42-milliarden-euro-a-e159761f-aae4-4d71-a701-c8c8f5512e85#ref=rss)
-### legt
+* [https://www.spiegel.de/sport/wintersport/wintersport-fis-praesident-johan-eliasch-bleibt-im-amt-und-mit-ihm-viele-fragen](https://www.spiegel.de/sport/wintersport/wintersport-fis-praesident-johan-eliasch-bleibt-im-amt-und-mit-ihm-viele-fragen-a-40221e54-7621-4e58-9e7f-098817b2a3e6#ref=rss)
+### johan
 
-* [https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein](https://www.spiegel.de/ausland/norwegen-feministische-aussenpolitik-muss-nicht-pazifistisch-sein-a-fa3e3c0d-ae21-476e-9593-1f6863051f65#ref=rss)
-* [https://www.spiegel.de/wissenschaft/verkehrswende-wie-die-gruenen-an-der-fdp-scheitern-podcast](https://www.spiegel.de/wissenschaft/verkehrswende-wie-die-gruenen-an-der-fdp-scheitern-podcast-a-dca97428-04ab-4f5b-b9ff-c8d1b20af97d#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/sport/wintersport/wintersport-fis-praesident-johan-eliasch-bleibt-im-amt-und-mit-ihm-viele-fragen](https://www.spiegel.de/sport/wintersport/wintersport-fis-praesident-johan-eliasch-bleibt-im-amt-und-mit-ihm-viele-fragen-a-40221e54-7621-4e58-9e7f-098817b2a3e6#ref=rss)
+### eliasch
 
-* [https://www.spiegel.de/ausland/grossbritannien-umstrittenes-britisches-asylgesetz-nimmt-erste-huerde](https://www.spiegel.de/ausland/grossbritannien-umstrittenes-britisches-asylgesetz-nimmt-erste-huerde-a-ec9b4c66-ad4c-4577-a3c6-1337edbb1d75#ref=rss)
-### nimmt
+* [https://www.spiegel.de/sport/wintersport/wintersport-fis-praesident-johan-eliasch-bleibt-im-amt-und-mit-ihm-viele-fragen](https://www.spiegel.de/sport/wintersport/wintersport-fis-praesident-johan-eliasch-bleibt-im-amt-und-mit-ihm-viele-fragen-a-40221e54-7621-4e58-9e7f-098817b2a3e6#ref=rss)
+### 2026
 
-* [https://www.spiegel.de/ausland/grossbritannien-umstrittenes-britisches-asylgesetz-nimmt-erste-huerde](https://www.spiegel.de/ausland/grossbritannien-umstrittenes-britisches-asylgesetz-nimmt-erste-huerde-a-ec9b4c66-ad4c-4577-a3c6-1337edbb1d75#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren-a-944d50de-041a-4d2e-b4bf-da960e62a05a#ref=rss)
-### ukrainekrieg
+* [https://www.spiegel.de/sport/fussball/fifa-wm-2026-mit-104-spielen-und-einer-runde-mehr](https://www.spiegel.de/sport/fussball/fifa-wm-2026-mit-104-spielen-und-einer-runde-mehr-a-b6c750a5-43a7-418d-a0ac-3b73b573db94#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-sollen-offenbar-ausgemusterte-munition-einsetzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-sollen-offenbar-ausgemusterte-munition-einsetzen-a-3d07fab3-5f24-42e4-9613-cf2ce5ac2fed#ref=rss)
-### russische
+* [https://www.spiegel.de/sport/fussball/fifa-wm-2026-mit-104-spielen-und-einer-runde-mehr](https://www.spiegel.de/sport/fussball/fifa-wm-2026-mit-104-spielen-und-einer-runde-mehr-a-b6c750a5-43a7-418d-a0ac-3b73b573db94#ref=rss)
+### drei
 
-* [https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-sollen-offenbar-ausgemusterte-munition-einsetzen](https://www.spiegel.de/ausland/ukraine-krieg-russische-truppen-sollen-offenbar-ausgemusterte-munition-einsetzen-a-3d07fab3-5f24-42e4-9613-cf2ce5ac2fed#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-einsatz-in-estland-luftwaffe-stieg-zu-27-alarmstarts-ueber-baltikum-auf](https://www.spiegel.de/politik/deutschland/nato-einsatz-in-estland-luftwaffe-stieg-zu-27-alarmstarts-ueber-baltikum-auf-a-ff577aa4-6856-4ebb-9643-8e516da3c869#ref=rss)
-### oscars
+* [https://www.spiegel.de/sport/fussball/fifa-wm-2026-mit-104-spielen-und-einer-runde-mehr](https://www.spiegel.de/sport/fussball/fifa-wm-2026-mit-104-spielen-und-einer-runde-mehr-a-b6c750a5-43a7-418d-a0ac-3b73b573db94#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-brentford-profi-ivan-toney-bekommt-rassistische-nachricht-stadionverbot-fuer-absender](https://www.spiegel.de/sport/fussball/fussball-brentford-profi-ivan-toney-bekommt-rassistische-nachricht-stadionverbot-fuer-absender-a-8c3fee83-4914-4dde-b3c9-15101cb4430f#ref=rss)
+### antarktis
 
-* [https://www.spiegel.de/panorama/leute/oscars-2023-lady-gaga-ungeschminkter-auftritt-man-sollte-die-wahre-gaga-sehen](https://www.spiegel.de/panorama/leute/oscars-2023-lady-gaga-ungeschminkter-auftritt-man-sollte-die-wahre-gaga-sehen-a-8d44afd4-cdf9-4c34-996f-3a3bd0b4bfb8#ref=rss)
-### 2023
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-extreme-schneestuerme-fuehren-zu-brutausfaellen-bei-seevoegeln](https://www.spiegel.de/wissenschaft/natur/antarktis-extreme-schneestuerme-fuehren-zu-brutausfaellen-bei-seevoegeln-a-0ee8640b-09aa-4df9-89ac-b6741d26cff3#ref=rss)
+### schneestürme
 
-* [https://www.spiegel.de/panorama/leute/oscars-2023-lady-gaga-ungeschminkter-auftritt-man-sollte-die-wahre-gaga-sehen](https://www.spiegel.de/panorama/leute/oscars-2023-lady-gaga-ungeschminkter-auftritt-man-sollte-die-wahre-gaga-sehen-a-8d44afd4-cdf9-4c34-996f-3a3bd0b4bfb8#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-sieht-sehr-kleine-moeglichkeit-fuer-einschlag-eines-asteroiden-2046](https://www.spiegel.de/wissenschaft/weltall/nasa-sieht-sehr-kleine-moeglichkeit-fuer-einschlag-eines-asteroiden-2046-a-a12be553-677f-45a2-a61e-234feb3fa6f3#ref=rss)
-### lady
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-extreme-schneestuerme-fuehren-zu-brutausfaellen-bei-seevoegeln](https://www.spiegel.de/wissenschaft/natur/antarktis-extreme-schneestuerme-fuehren-zu-brutausfaellen-bei-seevoegeln-a-0ee8640b-09aa-4df9-89ac-b6741d26cff3#ref=rss)
+### bekommen
 
-* [https://www.spiegel.de/panorama/leute/oscars-2023-lady-gaga-ungeschminkter-auftritt-man-sollte-die-wahre-gaga-sehen](https://www.spiegel.de/panorama/leute/oscars-2023-lady-gaga-ungeschminkter-auftritt-man-sollte-die-wahre-gaga-sehen-a-8d44afd4-cdf9-4c34-996f-3a3bd0b4bfb8#ref=rss)
-### auftritt
+* [https://www.spiegel.de/wissenschaft/natur/antarktis-extreme-schneestuerme-fuehren-zu-brutausfaellen-bei-seevoegeln](https://www.spiegel.de/wissenschaft/natur/antarktis-extreme-schneestuerme-fuehren-zu-brutausfaellen-bei-seevoegeln-a-0ee8640b-09aa-4df9-89ac-b6741d26cff3#ref=rss)
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-jewgeni-prigoschin-koennte-durch-gesetzeserweiterung-selbst-probleme-bekommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-jewgeni-prigoschin-koennte-durch-gesetzeserweiterung-selbst-probleme-bekommen-a-f81b885b-9194-449f-8497-81be14acf5f2#ref=rss)
+### iran
 
-* [https://www.spiegel.de/panorama/leute/oscars-2023-lady-gaga-ungeschminkter-auftritt-man-sollte-die-wahre-gaga-sehen](https://www.spiegel.de/panorama/leute/oscars-2023-lady-gaga-ungeschminkter-auftritt-man-sollte-die-wahre-gaga-sehen-a-8d44afd4-cdf9-4c34-996f-3a3bd0b4bfb8#ref=rss)
-### erklärt
+* [https://www.spiegel.de/ausland/china-und-der-diplomatische-coup-mit-iran-und-saudi-arabien-handshake-mit-sprengkraft](https://www.spiegel.de/ausland/china-und-der-diplomatische-coup-mit-iran-und-saudi-arabien-handshake-mit-sprengkraft-a-719c7a6f-2fee-4e13-b392-edd6fd72479c#ref=rss)
+### michael
 
-* [https://www.spiegel.de/panorama/leute/oscars-2023-lady-gaga-ungeschminkter-auftritt-man-sollte-die-wahre-gaga-sehen](https://www.spiegel.de/panorama/leute/oscars-2023-lady-gaga-ungeschminkter-auftritt-man-sollte-die-wahre-gaga-sehen-a-8d44afd4-cdf9-4c34-996f-3a3bd0b4bfb8#ref=rss)
-* [https://www.spiegel.de/panorama/militaerattrappen-aufblasbare-panzer-fuer-den-krieg](https://www.spiegel.de/panorama/militaerattrappen-aufblasbare-panzer-fuer-den-krieg-a-c2e14274-a52d-44ce-a584-d8bc880d22b8#ref=rss)
+* [https://www.spiegel.de/kultur/michael-wendler-wieder-im-tv-baby-nach-dem-naechsten-cliffhanger](https://www.spiegel.de/kultur/michael-wendler-wieder-im-tv-baby-nach-dem-naechsten-cliffhanger-a-f7113eb5-e435-480a-9a53-27b016214933#ref=rss)
+### wendler
+
+* [https://www.spiegel.de/kultur/michael-wendler-wieder-im-tv-baby-nach-dem-naechsten-cliffhanger](https://www.spiegel.de/kultur/michael-wendler-wieder-im-tv-baby-nach-dem-naechsten-cliffhanger-a-f7113eb5-e435-480a-9a53-27b016214933#ref=rss)
+### 52
+
+* [https://www.spiegel.de/kultur/karstadt-und-kaufhof-ein-ort-an-dem-sich-tatsaechlich-noch-alle-begegnen](https://www.spiegel.de/kultur/karstadt-und-kaufhof-ein-ort-an-dem-sich-tatsaechlich-noch-alle-begegnen-a-5364eef4-c938-4a91-ac4a-56aa01007333#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste](https://www.spiegel.de/wirtschaft/unternehmen/galeria-karstadt-kaufhof-weckt-hoffnung-auf-erhalt-einzelner-filialen-von-schliessungsliste-a-e20bf6fa-b376-4561-a9bc-8bdbcf46c644#ref=rss)
+### schwer
+
+* [https://www.spiegel.de/panorama/bayern-frau-mehrere-kilometer-von-zug-mitgeschleift-schwer-verletzt](https://www.spiegel.de/panorama/bayern-frau-mehrere-kilometer-von-zug-mitgeschleift-schwer-verletzt-a-3bfbd7f8-4ccd-40a0-89b4-4f8a1ba46231#ref=rss)
+### verletzt
+
+* [https://www.spiegel.de/panorama/bayern-frau-mehrere-kilometer-von-zug-mitgeschleift-schwer-verletzt](https://www.spiegel.de/panorama/bayern-frau-mehrere-kilometer-von-zug-mitgeschleift-schwer-verletzt-a-3bfbd7f8-4ccd-40a0-89b4-4f8a1ba46231#ref=rss)
+### botox
+
+* [https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode](https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode-a-030f6c3f-6c1b-4049-a8db-8c47bd3fa6ee#ref=rss)
+### magenwand
+
+* [https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode](https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode-a-030f6c3f-6c1b-4049-a8db-8c47bd3fa6ee#ref=rss)
+### vergiftungsfälle
+
+* [https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode](https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode-a-030f6c3f-6c1b-4049-a8db-8c47bd3fa6ee#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode](https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode-a-030f6c3f-6c1b-4049-a8db-8c47bd3fa6ee#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-ministerpraesident-ulf-kristersson-sieht-chance-auf-gemeinsamen-nato-beitritt-mit-finnland-schwinden](https://www.spiegel.de/ausland/schweden-ministerpraesident-ulf-kristersson-sieht-chance-auf-gemeinsamen-nato-beitritt-mit-finnland-schwinden-a-d9121159-179b-41fa-a413-e44510f5617c#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode](https://www.spiegel.de/gesundheit/botox-in-die-magenwand-vergiftungsfaelle-nach-umstrittener-abnehm-methode-a-030f6c3f-6c1b-4049-a8db-8c47bd3fa6ee#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-ministerpraesident-ulf-kristersson-sieht-chance-auf-gemeinsamen-nato-beitritt-mit-finnland-schwinden](https://www.spiegel.de/ausland/schweden-ministerpraesident-ulf-kristersson-sieht-chance-auf-gemeinsamen-nato-beitritt-mit-finnland-schwinden-a-d9121159-179b-41fa-a413-e44510f5617c#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-jewgeni-prigoschin-koennte-durch-gesetzeserweiterung-selbst-probleme-bekommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-jewgeni-prigoschin-koennte-durch-gesetzeserweiterung-selbst-probleme-bekommen-a-f81b885b-9194-449f-8497-81be14acf5f2#ref=rss)
+### zudem
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-jewgeni-prigoschin-koennte-durch-gesetzeserweiterung-selbst-probleme-bekommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-jewgeni-prigoschin-koennte-durch-gesetzeserweiterung-selbst-probleme-bekommen-a-f81b885b-9194-449f-8497-81be14acf5f2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/facebook-mutter-meta-will-weitere-10-000-beschaeftigte-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/facebook-mutter-meta-will-weitere-10-000-beschaeftigte-entlassen-a-84eb7194-c710-4ce7-b82d-ecda48988585#ref=rss)
+### aussagen
+
+* [https://www.spiegel.de/ausland/russland-ukraine-krieg-jewgeni-prigoschin-koennte-durch-gesetzeserweiterung-selbst-probleme-bekommen](https://www.spiegel.de/ausland/russland-ukraine-krieg-jewgeni-prigoschin-koennte-durch-gesetzeserweiterung-selbst-probleme-bekommen-a-f81b885b-9194-449f-8497-81be14acf5f2#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/hilfe-des-nrw-landtags-fuer-erdbebenopfer-tuerkische-regierung-mischt-sich-in-antrag-ein](https://www.spiegel.de/panorama/gesellschaft/hilfe-des-nrw-landtags-fuer-erdbebenopfer-tuerkische-regierung-mischt-sich-in-antrag-ein-a-84b81acf-9697-4bd3-a746-6f9d79c4b672#ref=rss)
+### google
+
+* [https://www.spiegel.de/netzwelt/apps/wettlauf-mit-microsoft-google-kuendigt-neue-ki-dienste-an](https://www.spiegel.de/netzwelt/apps/wettlauf-mit-microsoft-google-kuendigt-neue-ki-dienste-an-a-c6830ee2-94f9-4b46-9b65-50cb4a155c08#ref=rss)
+### meta
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/facebook-mutter-meta-will-weitere-10-000-beschaeftigte-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/facebook-mutter-meta-will-weitere-10-000-beschaeftigte-entlassen-a-84eb7194-c710-4ce7-b82d-ecda48988585#ref=rss)
+### 10000
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/facebook-mutter-meta-will-weitere-10-000-beschaeftigte-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/facebook-mutter-meta-will-weitere-10-000-beschaeftigte-entlassen-a-84eb7194-c710-4ce7-b82d-ecda48988585#ref=rss)
 ### beschäftigte
 
-* [https://www.spiegel.de/politik/deutschland/warnstreiks-beschaeftigte-im-gesundheitswesen-draengen-auf-mehr-lohn](https://www.spiegel.de/politik/deutschland/warnstreiks-beschaeftigte-im-gesundheitswesen-draengen-auf-mehr-lohn-a-070f4e51-72f2-4d4f-b54a-a09156ce3259#ref=rss)
-### lohn
+* [https://www.spiegel.de/wirtschaft/unternehmen/facebook-mutter-meta-will-weitere-10-000-beschaeftigte-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/facebook-mutter-meta-will-weitere-10-000-beschaeftigte-entlassen-a-84eb7194-c710-4ce7-b82d-ecda48988585#ref=rss)
+### entlassen
 
-* [https://www.spiegel.de/politik/deutschland/warnstreiks-beschaeftigte-im-gesundheitswesen-draengen-auf-mehr-lohn](https://www.spiegel.de/politik/deutschland/warnstreiks-beschaeftigte-im-gesundheitswesen-draengen-auf-mehr-lohn-a-070f4e51-72f2-4d4f-b54a-a09156ce3259#ref=rss)
-### öffnet
+* [https://www.spiegel.de/wirtschaft/unternehmen/facebook-mutter-meta-will-weitere-10-000-beschaeftigte-entlassen](https://www.spiegel.de/wirtschaft/unternehmen/facebook-mutter-meta-will-weitere-10-000-beschaeftigte-entlassen-a-84eb7194-c710-4ce7-b82d-ecda48988585#ref=rss)
+### ivan
 
-* [https://www.spiegel.de/ausland/china-oeffnet-erstmals-seit-2020-seine-grenzen-ende-der-corona-restriktionen](https://www.spiegel.de/ausland/china-oeffnet-erstmals-seit-2020-seine-grenzen-ende-der-corona-restriktionen-a-80f1dfcb-6613-4e04-90af-ad77799880bb#ref=rss)
-### wirtschaft
+* [https://www.spiegel.de/sport/fussball/fussball-brentford-profi-ivan-toney-bekommt-rassistische-nachricht-stadionverbot-fuer-absender](https://www.spiegel.de/sport/fussball/fussball-brentford-profi-ivan-toney-bekommt-rassistische-nachricht-stadionverbot-fuer-absender-a-8c3fee83-4914-4dde-b3c9-15101cb4430f#ref=rss)
+### toney
 
-* [https://www.spiegel.de/ausland/china-oeffnet-erstmals-seit-2020-seine-grenzen-ende-der-corona-restriktionen](https://www.spiegel.de/ausland/china-oeffnet-erstmals-seit-2020-seine-grenzen-ende-der-corona-restriktionen-a-80f1dfcb-6613-4e04-90af-ad77799880bb#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grippe-corona-bronchitis-rekordkrankenstand-kostet-deutschland-bis-zu-42-milliarden-euro](https://www.spiegel.de/wirtschaft/soziales/grippe-corona-bronchitis-rekordkrankenstand-kostet-deutschland-bis-zu-42-milliarden-euro-a-e159761f-aae4-4d71-a701-c8c8f5512e85#ref=rss)
-### milliarden
+* [https://www.spiegel.de/sport/fussball/fussball-brentford-profi-ivan-toney-bekommt-rassistische-nachricht-stadionverbot-fuer-absender](https://www.spiegel.de/sport/fussball/fussball-brentford-profi-ivan-toney-bekommt-rassistische-nachricht-stadionverbot-fuer-absender-a-8c3fee83-4914-4dde-b3c9-15101cb4430f#ref=rss)
+### stadionverbot
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren-a-944d50de-041a-4d2e-b4bf-da960e62a05a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/grippe-corona-bronchitis-rekordkrankenstand-kostet-deutschland-bis-zu-42-milliarden-euro](https://www.spiegel.de/wirtschaft/soziales/grippe-corona-bronchitis-rekordkrankenstand-kostet-deutschland-bis-zu-42-milliarden-euro-a-e159761f-aae4-4d71-a701-c8c8f5512e85#ref=rss)
-### investieren
+* [https://www.spiegel.de/sport/fussball/fussball-brentford-profi-ivan-toney-bekommt-rassistische-nachricht-stadionverbot-fuer-absender](https://www.spiegel.de/sport/fussball/fussball-brentford-profi-ivan-toney-bekommt-rassistische-nachricht-stadionverbot-fuer-absender-a-8c3fee83-4914-4dde-b3c9-15101cb4430f#ref=rss)
+### türkische
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-will-122-milliarden-euro-in-e-mobilitaet-und-digitalisierung-investieren-a-944d50de-041a-4d2e-b4bf-da960e62a05a#ref=rss)
-### donauschleuse
+* [https://www.spiegel.de/panorama/gesellschaft/hilfe-des-nrw-landtags-fuer-erdbebenopfer-tuerkische-regierung-mischt-sich-in-antrag-ein](https://www.spiegel.de/panorama/gesellschaft/hilfe-des-nrw-landtags-fuer-erdbebenopfer-tuerkische-regierung-mischt-sich-in-antrag-ein-a-84b81acf-9697-4bd3-a746-6f9d79c4b672#ref=rss)
+### antrag
 
-* [https://www.spiegel.de/panorama/donau-schleuse-geisling-in-woerth-bergung-des-havarierten-erzfrachters-wird-vorbereitet](https://www.spiegel.de/panorama/donau-schleuse-geisling-in-woerth-bergung-des-havarierten-erzfrachters-wird-vorbereitet-a-8b8360be-be45-481e-b9dd-56e059d926c1#ref=rss)
-### bergung
+* [https://www.spiegel.de/panorama/gesellschaft/hilfe-des-nrw-landtags-fuer-erdbebenopfer-tuerkische-regierung-mischt-sich-in-antrag-ein](https://www.spiegel.de/panorama/gesellschaft/hilfe-des-nrw-landtags-fuer-erdbebenopfer-tuerkische-regierung-mischt-sich-in-antrag-ein-a-84b81acf-9697-4bd3-a746-6f9d79c4b672#ref=rss)
+### ulf
 
-* [https://www.spiegel.de/panorama/donau-schleuse-geisling-in-woerth-bergung-des-havarierten-erzfrachters-wird-vorbereitet](https://www.spiegel.de/panorama/donau-schleuse-geisling-in-woerth-bergung-des-havarierten-erzfrachters-wird-vorbereitet-a-8b8360be-be45-481e-b9dd-56e059d926c1#ref=rss)
-### einsatz
+* [https://www.spiegel.de/ausland/schweden-ministerpraesident-ulf-kristersson-sieht-chance-auf-gemeinsamen-nato-beitritt-mit-finnland-schwinden](https://www.spiegel.de/ausland/schweden-ministerpraesident-ulf-kristersson-sieht-chance-auf-gemeinsamen-nato-beitritt-mit-finnland-schwinden-a-d9121159-179b-41fa-a413-e44510f5617c#ref=rss)
+### kristersson
 
-* [https://www.spiegel.de/panorama/donau-schleuse-geisling-in-woerth-bergung-des-havarierten-erzfrachters-wird-vorbereitet](https://www.spiegel.de/panorama/donau-schleuse-geisling-in-woerth-bergung-des-havarierten-erzfrachters-wird-vorbereitet-a-8b8360be-be45-481e-b9dd-56e059d926c1#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nato-einsatz-in-estland-luftwaffe-stieg-zu-27-alarmstarts-ueber-baltikum-auf](https://www.spiegel.de/politik/deutschland/nato-einsatz-in-estland-luftwaffe-stieg-zu-27-alarmstarts-ueber-baltikum-auf-a-ff577aa4-6856-4ebb-9643-8e516da3c869#ref=rss)
-### fachschüler
+* [https://www.spiegel.de/ausland/schweden-ministerpraesident-ulf-kristersson-sieht-chance-auf-gemeinsamen-nato-beitritt-mit-finnland-schwinden](https://www.spiegel.de/ausland/schweden-ministerpraesident-ulf-kristersson-sieht-chance-auf-gemeinsamen-nato-beitritt-mit-finnland-schwinden-a-d9121159-179b-41fa-a413-e44510f5617c#ref=rss)
+### finnland
 
-* [https://www.spiegel.de/wirtschaft/service/energiepauschale-fachschueler-studenten-portal-startet-diese-woche](https://www.spiegel.de/wirtschaft/service/energiepauschale-fachschueler-studenten-portal-startet-diese-woche-a-198c6ba3-f0df-4a87-a8e3-16eae1675401#ref=rss)
-### konnten
+* [https://www.spiegel.de/ausland/schweden-ministerpraesident-ulf-kristersson-sieht-chance-auf-gemeinsamen-nato-beitritt-mit-finnland-schwinden](https://www.spiegel.de/ausland/schweden-ministerpraesident-ulf-kristersson-sieht-chance-auf-gemeinsamen-nato-beitritt-mit-finnland-schwinden-a-d9121159-179b-41fa-a413-e44510f5617c#ref=rss)
+### eintracht
 
-* [https://www.spiegel.de/wirtschaft/service/energiepauschale-fachschueler-studenten-portal-startet-diese-woche](https://www.spiegel.de/wirtschaft/service/energiepauschale-fachschueler-studenten-portal-startet-diese-woche-a-198c6ba3-f0df-4a87-a8e3-16eae1675401#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/immobilien-bauzinsen-steigen-ueber-vier-prozent](https://www.spiegel.de/wirtschaft/service/immobilien-bauzinsen-steigen-ueber-vier-prozent-a-0007ff9a-513a-4e85-9523-ed8e17110fb6#ref=rss)
-### militärattrappen
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte-a-a628b22b-70e2-4240-95be-a1b4adb63683#ref=rss)
+### frankfurt
 
-* [https://www.spiegel.de/panorama/militaerattrappen-aufblasbare-panzer-fuer-den-krieg](https://www.spiegel.de/panorama/militaerattrappen-aufblasbare-panzer-fuer-den-krieg-a-c2e14274-a52d-44ce-a584-d8bc880d22b8#ref=rss)
-### aufblasbare
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte-a-a628b22b-70e2-4240-95be-a1b4adb63683#ref=rss)
+### champions
 
-* [https://www.spiegel.de/panorama/militaerattrappen-aufblasbare-panzer-fuer-den-krieg](https://www.spiegel.de/panorama/militaerattrappen-aufblasbare-panzer-fuer-den-krieg-a-c2e14274-a52d-44ce-a584-d8bc880d22b8#ref=rss)
-### krieg
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte-a-a628b22b-70e2-4240-95be-a1b4adb63683#ref=rss)
+### league
 
-* [https://www.spiegel.de/panorama/militaerattrappen-aufblasbare-panzer-fuer-den-krieg](https://www.spiegel.de/panorama/militaerattrappen-aufblasbare-panzer-fuer-den-krieg-a-c2e14274-a52d-44ce-a584-d8bc880d22b8#ref=rss)
-### ukraine
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte-a-a628b22b-70e2-4240-95be-a1b4adb63683#ref=rss)
+### neapel
 
-* [https://www.spiegel.de/panorama/militaerattrappen-aufblasbare-panzer-fuer-den-krieg](https://www.spiegel.de/panorama/militaerattrappen-aufblasbare-panzer-fuer-den-krieg-a-c2e14274-a52d-44ce-a584-d8bc880d22b8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/sanierung-der-bundesfinanzen-wirtschaftsweise-will-subventionen-streichen](https://www.spiegel.de/wirtschaft/sanierung-der-bundesfinanzen-wirtschaftsweise-will-subventionen-streichen-a-c3b7cb4e-5f2b-464b-bcfe-88463d1a5a8f#ref=rss)
-### häuser
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte-a-a628b22b-70e2-4240-95be-a1b4adb63683#ref=rss)
+### fußballfans
 
-* [https://www.spiegel.de/panorama/wales-schwere-explosion-zerstoert-haeuser-in-morriston-ein-toter-mehrere-verletzte](https://www.spiegel.de/panorama/wales-schwere-explosion-zerstoert-haeuser-in-morriston-ein-toter-mehrere-verletzte-a-ebd6227a-47b1-46d5-86d7-f7710c1549d6#ref=rss)
-### nasa
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte-a-a628b22b-70e2-4240-95be-a1b4adb63683#ref=rss)
+### stehen
 
-* [https://www.spiegel.de/wissenschaft/weltall/nasa-sieht-sehr-kleine-moeglichkeit-fuer-einschlag-eines-asteroiden-2046](https://www.spiegel.de/wissenschaft/weltall/nasa-sieht-sehr-kleine-moeglichkeit-fuer-einschlag-eines-asteroiden-2046-a-a12be553-677f-45a2-a61e-234feb3fa6f3#ref=rss)
-### wirtschaftsweise
-
-* [https://www.spiegel.de/wirtschaft/sanierung-der-bundesfinanzen-wirtschaftsweise-will-subventionen-streichen](https://www.spiegel.de/wirtschaft/sanierung-der-bundesfinanzen-wirtschaftsweise-will-subventionen-streichen-a-c3b7cb4e-5f2b-464b-bcfe-88463d1a5a8f#ref=rss)
-### subventionen
-
-* [https://www.spiegel.de/wirtschaft/sanierung-der-bundesfinanzen-wirtschaftsweise-will-subventionen-streichen](https://www.spiegel.de/wirtschaft/sanierung-der-bundesfinanzen-wirtschaftsweise-will-subventionen-streichen-a-c3b7cb4e-5f2b-464b-bcfe-88463d1a5a8f#ref=rss)
-### estland
-
-* [https://www.spiegel.de/politik/deutschland/nato-einsatz-in-estland-luftwaffe-stieg-zu-27-alarmstarts-ueber-baltikum-auf](https://www.spiegel.de/politik/deutschland/nato-einsatz-in-estland-luftwaffe-stieg-zu-27-alarmstarts-ueber-baltikum-auf-a-ff577aa4-6856-4ebb-9643-8e516da3c869#ref=rss)
-### krankenhäuser
-
-* [https://www.spiegel.de/politik/deutschland/krankenhaeuser-andreas-gassen-deutlich-zu-viele-krankenhaeuser](https://www.spiegel.de/politik/deutschland/krankenhaeuser-andreas-gassen-deutlich-zu-viele-krankenhaeuser-a-a7fbdeed-743e-4274-a65a-02025ae034ab#ref=rss)
-### gassen
-
-* [https://www.spiegel.de/politik/deutschland/krankenhaeuser-andreas-gassen-deutlich-zu-viele-krankenhaeuser](https://www.spiegel.de/politik/deutschland/krankenhaeuser-andreas-gassen-deutlich-zu-viele-krankenhaeuser-a-a7fbdeed-743e-4274-a65a-02025ae034ab#ref=rss)
-### länder
-
-* [https://www.spiegel.de/politik/deutschland/krankenhaeuser-andreas-gassen-deutlich-zu-viele-krankenhaeuser](https://www.spiegel.de/politik/deutschland/krankenhaeuser-andreas-gassen-deutlich-zu-viele-krankenhaeuser-a-a7fbdeed-743e-4274-a65a-02025ae034ab#ref=rss)
+* [https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte](https://www.spiegel.de/sport/fussball/eintracht-frankfurt-in-der-champions-league-bei-der-ssc-neapel-fussballfans-haben-buergerrechte-a-a628b22b-70e2-4240-95be-a1b4adb63683#ref=rss)
 
