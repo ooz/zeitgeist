@@ -4,273 +4,278 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### problem
-
-* [https://www.spiegel.de/sport/fussball/problem-kopfball-profifussballer-haben-laut-studie-erhoehtes-risiko-fuer-demenzerkrankungen](https://www.spiegel.de/sport/fussball/problem-kopfball-profifussballer-haben-laut-studie-erhoehtes-risiko-fuer-demenzerkrankungen-a-dd05a3ed-b11c-47c0-bae7-9497dc8e39ae#ref=rss)
-* [https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-dockingstationen-fuers-homeoffice](https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-dockingstationen-fuers-homeoffice-a-881c50bb-180a-4131-a2ef-9b57434079c4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-grosse-mehrheit-spricht-sich-in-einer-umfrage-gegen-verbrenner-verbot-aus](https://www.spiegel.de/wirtschaft/verbrenner-aus-grosse-mehrheit-spricht-sich-in-einer-umfrage-gegen-verbrenner-verbot-aus-a-b652b459-f769-4e40-949d-6f8474fc7460#ref=rss)
-* [https://www.spiegel.de/wirtschaft/knappe-mehrheit-befuerwortet-lohnforderung-im-oeffentlichen-dienst](https://www.spiegel.de/wirtschaft/knappe-mehrheit-befuerwortet-lohnforderung-im-oeffentlichen-dienst-a-17521a13-1085-4597-b42d-76dd222ea8c1#ref=rss)
-### stunden
-
-* [https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf](https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf-a-5b65cd0e-3382-4289-9302-c88a9b798717#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf](https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf-a-5b65cd0e-3382-4289-9302-c88a9b798717#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/schockwellen-im-finanzsystem-warum-die-banken-beben](https://www.spiegel.de/wirtschaft/unternehmen/schockwellen-im-finanzsystem-warum-die-banken-beben-a-eb3fda22-a2b5-47e0-b8e5-b582c4273c18#ref=rss)
-* [https://www.spiegel.de/wirtschaft/volkswagen-steigt-ins-bergbaugeschaeft-ein-rohstoffe-fuer-batterien](https://www.spiegel.de/wirtschaft/volkswagen-steigt-ins-bergbaugeschaeft-ein-rohstoffe-fuer-batterien-a-6b82f774-2c2f-4bc7-a656-730470d20841#ref=rss)
-### zehn
-
-* [https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf](https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf-a-5b65cd0e-3382-4289-9302-c88a9b798717#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt](https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt-a-2b7e9abf-8481-44bb-a686-d1491ac32489#ref=rss)
 ### ukraine
 
-* [https://www.spiegel.de/ausland/slowakei-kuendigt-lieferung-von-kampfjets-an-ukraine-an](https://www.spiegel.de/ausland/slowakei-kuendigt-lieferung-von-kampfjets-an-ukraine-an-a-3d83eeb6-c050-4707-9058-d7b5ca48b484#ref=rss)
-* [https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau](https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau-a-727dc5e3-3a21-4ac0-abf3-58841c847327#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-und-die-rentenreform-das-demokratiedefizit-kommentar](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-und-die-rentenreform-das-demokratiedefizit-kommentar-a-6f0f2f6a-5a19-409c-a463-458a1e579286#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-mehr-als-200-festnahmen-bei-protesten-gegen-rentenreform-in-paris](https://www.spiegel.de/ausland/frankreich-mehr-als-200-festnahmen-bei-protesten-gegen-rentenreform-in-paris-a-ea1395ee-ed49-409d-ba41-ae8b59a29c08#ref=rss)
-### macron
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-und-die-rentenreform-das-demokratiedefizit-kommentar](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-und-die-rentenreform-das-demokratiedefizit-kommentar-a-6f0f2f6a-5a19-409c-a463-458a1e579286#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-mehr-als-200-festnahmen-bei-protesten-gegen-rentenreform-in-paris](https://www.spiegel.de/ausland/frankreich-mehr-als-200-festnahmen-bei-protesten-gegen-rentenreform-in-paris-a-ea1395ee-ed49-409d-ba41-ae8b59a29c08#ref=rss)
-### rentenreform
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-und-die-rentenreform-das-demokratiedefizit-kommentar](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-und-die-rentenreform-das-demokratiedefizit-kommentar-a-6f0f2f6a-5a19-409c-a463-458a1e579286#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-mehr-als-200-festnahmen-bei-protesten-gegen-rentenreform-in-paris](https://www.spiegel.de/ausland/frankreich-mehr-als-200-festnahmen-bei-protesten-gegen-rentenreform-in-paris-a-ea1395ee-ed49-409d-ba41-ae8b59a29c08#ref=rss)
-### studie
-
-* [https://www.spiegel.de/sport/fussball/problem-kopfball-profifussballer-haben-laut-studie-erhoehtes-risiko-fuer-demenzerkrankungen](https://www.spiegel.de/sport/fussball/problem-kopfball-profifussballer-haben-laut-studie-erhoehtes-risiko-fuer-demenzerkrankungen-a-dd05a3ed-b11c-47c0-bae7-9497dc8e39ae#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-mehrheit-wuenscht-sich-erstmals-annaeherung-an-nato](https://www.spiegel.de/ausland/schweiz-mehrheit-wuenscht-sich-erstmals-annaeherung-an-nato-a-c03ab725-ddef-4bb0-9cfc-7280b92f07ed#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/julija-nawalnaja-ueber-ihren-ehemann-alexej-er-wird-von-putin-persoenlich-gefangen-gehalten](https://www.spiegel.de/ausland/julija-nawalnaja-ueber-ihren-ehemann-alexej-er-wird-von-putin-persoenlich-gefangen-gehalten-a-624643aa-7b98-44d9-b12b-8e06ba5dd582#ref=rss)
-* [https://www.spiegel.de/panorama/innsbruck-in-oesterreich-wanderer-aus-bayern-tot-in-tirol-gefunden](https://www.spiegel.de/panorama/innsbruck-in-oesterreich-wanderer-aus-bayern-tot-in-tirol-gefunden-a-bc295e18-d644-4785-9ca2-295261c652f8#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mexiko-14-jaehriger-soll-mehrere-menschen-getoetet-haben](https://www.spiegel.de/panorama/justiz/mexiko-14-jaehriger-soll-mehrere-menschen-getoetet-haben-a-1c939949-ce44-42c5-8d3e-c7aa188ffaab#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/panorama/justiz/mexiko-14-jaehriger-soll-mehrere-menschen-getoetet-haben](https://www.spiegel.de/panorama/justiz/mexiko-14-jaehriger-soll-mehrere-menschen-getoetet-haben-a-1c939949-ce44-42c5-8d3e-c7aa188ffaab#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-mehr-als-200-festnahmen-bei-protesten-gegen-rentenreform-in-paris](https://www.spiegel.de/ausland/frankreich-mehr-als-200-festnahmen-bei-protesten-gegen-rentenreform-in-paris-a-ea1395ee-ed49-409d-ba41-ae8b59a29c08#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt](https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt-a-2b7e9abf-8481-44bb-a686-d1491ac32489#ref=rss)
-### usa
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/schockwellen-im-finanzsystem-warum-die-banken-beben](https://www.spiegel.de/wirtschaft/unternehmen/schockwellen-im-finanzsystem-warum-die-banken-beben-a-eb3fda22-a2b5-47e0-b8e5-b582c4273c18#ref=rss)
-* [https://www.spiegel.de/netzwelt/neuseeland-verbietet-tiktok-auf-allen-regierungsgeraeten-nach-usa-und-grossbritannien](https://www.spiegel.de/netzwelt/neuseeland-verbietet-tiktok-auf-allen-regierungsgeraeten-nach-usa-und-grossbritannien-a-6b193d5b-c1dc-42e7-b3e3-20ff9f75b286#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt](https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt-a-2b7e9abf-8481-44bb-a686-d1491ac32489#ref=rss)
-### mehrheit
-
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-grosse-mehrheit-spricht-sich-in-einer-umfrage-gegen-verbrenner-verbot-aus](https://www.spiegel.de/wirtschaft/verbrenner-aus-grosse-mehrheit-spricht-sich-in-einer-umfrage-gegen-verbrenner-verbot-aus-a-b652b459-f769-4e40-949d-6f8474fc7460#ref=rss)
-* [https://www.spiegel.de/wirtschaft/knappe-mehrheit-befuerwortet-lohnforderung-im-oeffentlichen-dienst](https://www.spiegel.de/wirtschaft/knappe-mehrheit-befuerwortet-lohnforderung-im-oeffentlichen-dienst-a-17521a13-1085-4597-b42d-76dd222ea8c1#ref=rss)
-* [https://www.spiegel.de/ausland/schweiz-mehrheit-wuenscht-sich-erstmals-annaeherung-an-nato](https://www.spiegel.de/ausland/schweiz-mehrheit-wuenscht-sich-erstmals-annaeherung-an-nato-a-c03ab725-ddef-4bb0-9cfc-7280b92f07ed#ref=rss)
-### bundestag
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-umstrittene-wahlrechtsreform](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-umstrittene-wahlrechtsreform-a-5c05ff7e-ea42-4be7-8cf5-67e7a7402342#ref=rss)
-### opposition
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-umstrittene-wahlrechtsreform](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-umstrittene-wahlrechtsreform-a-5c05ff7e-ea42-4be7-8cf5-67e7a7402342#ref=rss)
-* [https://www.spiegel.de/netzwelt/digitalbudget-sondertopf-der-bundesregierung-fuer-digitalprojekte-wird-womoeglich-gestrichen](https://www.spiegel.de/netzwelt/digitalbudget-sondertopf-der-bundesregierung-fuer-digitalprojekte-wird-womoeglich-gestrichen-a-02360398-3f0c-4a22-8d3c-b5cb6f5f1318#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-umstrittene-wahlrechtsreform](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-umstrittene-wahlrechtsreform-a-5c05ff7e-ea42-4be7-8cf5-67e7a7402342#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-grosse-mehrheit-spricht-sich-in-einer-umfrage-gegen-verbrenner-verbot-aus](https://www.spiegel.de/wirtschaft/verbrenner-aus-grosse-mehrheit-spricht-sich-in-einer-umfrage-gegen-verbrenner-verbot-aus-a-b652b459-f769-4e40-949d-6f8474fc7460#ref=rss)
-### vorgehen
-
-* [https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-umstrittene-wahlrechtsreform](https://www.spiegel.de/politik/deutschland/bundestag-stimmt-fuer-umstrittene-wahlrechtsreform-a-5c05ff7e-ea42-4be7-8cf5-67e7a7402342#ref=rss)
-* [https://www.spiegel.de/wirtschaft/knappe-mehrheit-befuerwortet-lohnforderung-im-oeffentlichen-dienst](https://www.spiegel.de/wirtschaft/knappe-mehrheit-befuerwortet-lohnforderung-im-oeffentlichen-dienst-a-17521a13-1085-4597-b42d-76dd222ea8c1#ref=rss)
-### blake
-
-* [https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf](https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf-a-5b65cd0e-3382-4289-9302-c88a9b798717#ref=rss)
-### johnston
-
-* [https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf](https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf-a-5b65cd0e-3382-4289-9302-c88a9b798717#ref=rss)
-### rekord
-
-* [https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf](https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf-a-5b65cd0e-3382-4289-9302-c88a9b798717#ref=rss)
-### gut
-
-* [https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf](https://www.spiegel.de/panorama/australier-blake-johnston-stellt-mit-ueber-40-stunden-neuen-rekord-im-dauersurfen-auf-a-5b65cd0e-3382-4289-9302-c88a9b798717#ref=rss)
-* [https://www.spiegel.de/wirtschaft/baugenehmigungen-brechen-zu-jahresbeginn-um-gut-ein-viertel-ein](https://www.spiegel.de/wirtschaft/baugenehmigungen-brechen-zu-jahresbeginn-um-gut-ein-viertel-ein-a-963e6bbe-8d55-4182-82e0-93b1cb3fcab1#ref=rss)
-### sollte
-
-* [https://www.spiegel.de/netzwelt/gadgets/deshalb-benoetigen-smartphones-von-samsung-und-google-ein-update](https://www.spiegel.de/netzwelt/gadgets/deshalb-benoetigen-smartphones-von-samsung-und-google-ein-update-a-6264f225-fef7-4a62-aba3-e14bb2f2a962#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-am-wochenende-temperaturen-von-bis-zu-20-grad-moeglich](https://www.spiegel.de/panorama/wetter-am-wochenende-temperaturen-von-bis-zu-20-grad-moeglich-a-f62e5be3-17a1-4200-b064-8af9b0d7bb11#ref=rss)
-### polizeischüler
-
-* [https://www.spiegel.de/panorama/justiz/aschersleben-polizeischueler-sollen-gewaltverherrlichende-inhalte-verbreitet-haben](https://www.spiegel.de/panorama/justiz/aschersleben-polizeischueler-sollen-gewaltverherrlichende-inhalte-verbreitet-haben-a-24fb1943-ee8f-4ea9-94d8-888c6ce33cac#ref=rss)
-### möglicherweise
-
-* [https://www.spiegel.de/panorama/justiz/aschersleben-polizeischueler-sollen-gewaltverherrlichende-inhalte-verbreitet-haben](https://www.spiegel.de/panorama/justiz/aschersleben-polizeischueler-sollen-gewaltverherrlichende-inhalte-verbreitet-haben-a-24fb1943-ee8f-4ea9-94d8-888c6ce33cac#ref=rss)
-* [https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau](https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau-a-727dc5e3-3a21-4ac0-abf3-58841c847327#ref=rss)
-### slowakei
-
-* [https://www.spiegel.de/ausland/slowakei-kuendigt-lieferung-von-kampfjets-an-ukraine-an](https://www.spiegel.de/ausland/slowakei-kuendigt-lieferung-von-kampfjets-an-ukraine-an-a-3d83eeb6-c050-4707-9058-d7b5ca48b484#ref=rss)
-### kampfjets
-
-* [https://www.spiegel.de/ausland/slowakei-kuendigt-lieferung-von-kampfjets-an-ukraine-an](https://www.spiegel.de/ausland/slowakei-kuendigt-lieferung-von-kampfjets-an-ukraine-an-a-3d83eeb6-c050-4707-9058-d7b5ca48b484#ref=rss)
-### vergangenen
-
-* [https://www.spiegel.de/ausland/slowakei-kuendigt-lieferung-von-kampfjets-an-ukraine-an](https://www.spiegel.de/ausland/slowakei-kuendigt-lieferung-von-kampfjets-an-ukraine-an-a-3d83eeb6-c050-4707-9058-d7b5ca48b484#ref=rss)
-* [https://www.spiegel.de/wirtschaft/baugenehmigungen-brechen-zu-jahresbeginn-um-gut-ein-viertel-ein](https://www.spiegel.de/wirtschaft/baugenehmigungen-brechen-zu-jahresbeginn-um-gut-ein-viertel-ein-a-963e6bbe-8d55-4182-82e0-93b1cb3fcab1#ref=rss)
-### angekündigt
-
-* [https://www.spiegel.de/ausland/slowakei-kuendigt-lieferung-von-kampfjets-an-ukraine-an](https://www.spiegel.de/ausland/slowakei-kuendigt-lieferung-von-kampfjets-an-ukraine-an-a-3d83eeb6-c050-4707-9058-d7b5ca48b484#ref=rss)
-* [https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau](https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau-a-727dc5e3-3a21-4ac0-abf3-58841c847327#ref=rss)
-### emmanuel
-
-* [https://www.spiegel.de/ausland/frankreich-emmanuel-macron-und-die-rentenreform-das-demokratiedefizit-kommentar](https://www.spiegel.de/ausland/frankreich-emmanuel-macron-und-die-rentenreform-das-demokratiedefizit-kommentar-a-6f0f2f6a-5a19-409c-a463-458a1e579286#ref=rss)
-### risiko
-
-* [https://www.spiegel.de/sport/fussball/problem-kopfball-profifussballer-haben-laut-studie-erhoehtes-risiko-fuer-demenzerkrankungen](https://www.spiegel.de/sport/fussball/problem-kopfball-profifussballer-haben-laut-studie-erhoehtes-risiko-fuer-demenzerkrankungen-a-dd05a3ed-b11c-47c0-bae7-9497dc8e39ae#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/panorama/justiz/dierdorf-in-rheinland-pfalz-wohl-jugendlicher-auf-den-gleisen-ice-muss-bei-300-km-h-bremsen](https://www.spiegel.de/panorama/justiz/dierdorf-in-rheinland-pfalz-wohl-jugendlicher-auf-den-gleisen-ice-muss-bei-300-km-h-bremsen-a-3e1c8258-e80a-4c0a-ac0b-997f765b9363#ref=rss)
-* [https://www.spiegel.de/panorama/wetter-am-wochenende-temperaturen-von-bis-zu-20-grad-moeglich](https://www.spiegel.de/panorama/wetter-am-wochenende-temperaturen-von-bis-zu-20-grad-moeglich-a-f62e5be3-17a1-4200-b064-8af9b0d7bb11#ref=rss)
-### jugendlicher
-
-* [https://www.spiegel.de/panorama/justiz/dierdorf-in-rheinland-pfalz-wohl-jugendlicher-auf-den-gleisen-ice-muss-bei-300-km-h-bremsen](https://www.spiegel.de/panorama/justiz/dierdorf-in-rheinland-pfalz-wohl-jugendlicher-auf-den-gleisen-ice-muss-bei-300-km-h-bremsen-a-3e1c8258-e80a-4c0a-ac0b-997f765b9363#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mexiko-14-jaehriger-soll-mehrere-menschen-getoetet-haben](https://www.spiegel.de/panorama/justiz/mexiko-14-jaehriger-soll-mehrere-menschen-getoetet-haben-a-1c939949-ce44-42c5-8d3e-c7aa188ffaab#ref=rss)
-### gleisen
-
-* [https://www.spiegel.de/panorama/justiz/dierdorf-in-rheinland-pfalz-wohl-jugendlicher-auf-den-gleisen-ice-muss-bei-300-km-h-bremsen](https://www.spiegel.de/panorama/justiz/dierdorf-in-rheinland-pfalz-wohl-jugendlicher-auf-den-gleisen-ice-muss-bei-300-km-h-bremsen-a-3e1c8258-e80a-4c0a-ac0b-997f765b9363#ref=rss)
-### ice
-
-* [https://www.spiegel.de/panorama/justiz/dierdorf-in-rheinland-pfalz-wohl-jugendlicher-auf-den-gleisen-ice-muss-bei-300-km-h-bremsen](https://www.spiegel.de/panorama/justiz/dierdorf-in-rheinland-pfalz-wohl-jugendlicher-auf-den-gleisen-ice-muss-bei-300-km-h-bremsen-a-3e1c8258-e80a-4c0a-ac0b-997f765b9363#ref=rss)
-### erst
-
-* [https://www.spiegel.de/panorama/justiz/dierdorf-in-rheinland-pfalz-wohl-jugendlicher-auf-den-gleisen-ice-muss-bei-300-km-h-bremsen](https://www.spiegel.de/panorama/justiz/dierdorf-in-rheinland-pfalz-wohl-jugendlicher-auf-den-gleisen-ice-muss-bei-300-km-h-bremsen-a-3e1c8258-e80a-4c0a-ac0b-997f765b9363#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/mexiko-14-jaehriger-soll-mehrere-menschen-getoetet-haben](https://www.spiegel.de/panorama/justiz/mexiko-14-jaehriger-soll-mehrere-menschen-getoetet-haben-a-1c939949-ce44-42c5-8d3e-c7aa188ffaab#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/panorama/lehrernotstand-erzieherchaos-wie-sehr-leiden-unsere-kinder](https://www.spiegel.de/panorama/lehrernotstand-erzieherchaos-wie-sehr-leiden-unsere-kinder-a-0bcb1c3c-fe23-43b2-976d-32d263dcd216#ref=rss)
-### vielen
-
-* [https://www.spiegel.de/panorama/lehrernotstand-erzieherchaos-wie-sehr-leiden-unsere-kinder](https://www.spiegel.de/panorama/lehrernotstand-erzieherchaos-wie-sehr-leiden-unsere-kinder-a-0bcb1c3c-fe23-43b2-976d-32d263dcd216#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-mehr-als-200-festnahmen-bei-protesten-gegen-rentenreform-in-paris](https://www.spiegel.de/ausland/frankreich-mehr-als-200-festnahmen-bei-protesten-gegen-rentenreform-in-paris-a-ea1395ee-ed49-409d-ba41-ae8b59a29c08#ref=rss)
-### putin
-
-* [https://www.spiegel.de/ausland/julija-nawalnaja-ueber-ihren-ehemann-alexej-er-wird-von-putin-persoenlich-gefangen-gehalten](https://www.spiegel.de/ausland/julija-nawalnaja-ueber-ihren-ehemann-alexej-er-wird-von-putin-persoenlich-gefangen-gehalten-a-624643aa-7b98-44d9-b12b-8e06ba5dd582#ref=rss)
-* [https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau](https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau-a-727dc5e3-3a21-4ac0-abf3-58841c847327#ref=rss)
-### gehalten
-
-* [https://www.spiegel.de/ausland/julija-nawalnaja-ueber-ihren-ehemann-alexej-er-wird-von-putin-persoenlich-gefangen-gehalten](https://www.spiegel.de/ausland/julija-nawalnaja-ueber-ihren-ehemann-alexej-er-wird-von-putin-persoenlich-gefangen-gehalten-a-624643aa-7b98-44d9-b12b-8e06ba5dd582#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt](https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt-a-2b7e9abf-8481-44bb-a686-d1491ac32489#ref=rss)
-### hause
-
-* [https://www.spiegel.de/panorama/wetter-am-wochenende-temperaturen-von-bis-zu-20-grad-moeglich](https://www.spiegel.de/panorama/wetter-am-wochenende-temperaturen-von-bis-zu-20-grad-moeglich-a-f62e5be3-17a1-4200-b064-8af9b0d7bb11#ref=rss)
-* [https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-dockingstationen-fuers-homeoffice](https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-dockingstationen-fuers-homeoffice-a-881c50bb-180a-4131-a2ef-9b57434079c4#ref=rss)
-### baugenehmigungen
-
-* [https://www.spiegel.de/wirtschaft/baugenehmigungen-brechen-zu-jahresbeginn-um-gut-ein-viertel-ein](https://www.spiegel.de/wirtschaft/baugenehmigungen-brechen-zu-jahresbeginn-um-gut-ein-viertel-ein-a-963e6bbe-8d55-4182-82e0-93b1cb3fcab1#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/wirtschaft/baugenehmigungen-brechen-zu-jahresbeginn-um-gut-ein-viertel-ein](https://www.spiegel.de/wirtschaft/baugenehmigungen-brechen-zu-jahresbeginn-um-gut-ein-viertel-ein-a-963e6bbe-8d55-4182-82e0-93b1cb3fcab1#ref=rss)
-* [https://www.spiegel.de/wirtschaft/knappe-mehrheit-befuerwortet-lohnforderung-im-oeffentlichen-dienst](https://www.spiegel.de/wirtschaft/knappe-mehrheit-befuerwortet-lohnforderung-im-oeffentlichen-dienst-a-17521a13-1085-4597-b42d-76dd222ea8c1#ref=rss)
-### thüringen
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-empoert-sich-ueber-angebliche-abstimmung-von-rot-rot-gruen-mit-afd-stimmen](https://www.spiegel.de/politik/deutschland/thueringen-cdu-empoert-sich-ueber-angebliche-abstimmung-von-rot-rot-gruen-mit-afd-stimmen-a-0c3b833d-d26d-4151-9e2b-01d8cd720dd2#ref=rss)
-### cdu
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-empoert-sich-ueber-angebliche-abstimmung-von-rot-rot-gruen-mit-afd-stimmen](https://www.spiegel.de/politik/deutschland/thueringen-cdu-empoert-sich-ueber-angebliche-abstimmung-von-rot-rot-gruen-mit-afd-stimmen-a-0c3b833d-d26d-4151-9e2b-01d8cd720dd2#ref=rss)
-### afdstimmen
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-cdu-empoert-sich-ueber-angebliche-abstimmung-von-rot-rot-gruen-mit-afd-stimmen](https://www.spiegel.de/politik/deutschland/thueringen-cdu-empoert-sich-ueber-angebliche-abstimmung-von-rot-rot-gruen-mit-afd-stimmen-a-0c3b833d-d26d-4151-9e2b-01d8cd720dd2#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau](https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau-a-727dc5e3-3a21-4ac0-abf3-58841c847327#ref=rss)
-* [https://www.spiegel.de/netzwelt/neuseeland-verbietet-tiktok-auf-allen-regierungsgeraeten-nach-usa-und-grossbritannien](https://www.spiegel.de/netzwelt/neuseeland-verbietet-tiktok-auf-allen-regierungsgeraeten-nach-usa-und-grossbritannien-a-6b193d5b-c1dc-42e7-b3e3-20ff9f75b286#ref=rss)
-### reist
-
-* [https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau](https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau-a-727dc5e3-3a21-4ac0-abf3-58841c847327#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau](https://www.spiegel.de/ausland/china-xi-jinping-reist-zu-treffen-mit-wladimir-putin-nach-moskau-a-727dc5e3-3a21-4ac0-abf3-58841c847327#ref=rss)
-### tot
-
-* [https://www.spiegel.de/panorama/innsbruck-in-oesterreich-wanderer-aus-bayern-tot-in-tirol-gefunden](https://www.spiegel.de/panorama/innsbruck-in-oesterreich-wanderer-aus-bayern-tot-in-tirol-gefunden-a-bc295e18-d644-4785-9ca2-295261c652f8#ref=rss)
-### tirol
-
-* [https://www.spiegel.de/panorama/innsbruck-in-oesterreich-wanderer-aus-bayern-tot-in-tirol-gefunden](https://www.spiegel.de/panorama/innsbruck-in-oesterreich-wanderer-aus-bayern-tot-in-tirol-gefunden-a-bc295e18-d644-4785-9ca2-295261c652f8#ref=rss)
-### digitalbudget
-
-* [https://www.spiegel.de/netzwelt/digitalbudget-sondertopf-der-bundesregierung-fuer-digitalprojekte-wird-womoeglich-gestrichen](https://www.spiegel.de/netzwelt/digitalbudget-sondertopf-der-bundesregierung-fuer-digitalprojekte-wird-womoeglich-gestrichen-a-02360398-3f0c-4a22-8d3c-b5cb6f5f1318#ref=rss)
-### bundesregierung
-
-* [https://www.spiegel.de/netzwelt/digitalbudget-sondertopf-der-bundesregierung-fuer-digitalprojekte-wird-womoeglich-gestrichen](https://www.spiegel.de/netzwelt/digitalbudget-sondertopf-der-bundesregierung-fuer-digitalprojekte-wird-womoeglich-gestrichen-a-02360398-3f0c-4a22-8d3c-b5cb6f5f1318#ref=rss)
-### digitalprojekte
-
-* [https://www.spiegel.de/netzwelt/digitalbudget-sondertopf-der-bundesregierung-fuer-digitalprojekte-wird-womoeglich-gestrichen](https://www.spiegel.de/netzwelt/digitalbudget-sondertopf-der-bundesregierung-fuer-digitalprojekte-wird-womoeglich-gestrichen-a-02360398-3f0c-4a22-8d3c-b5cb6f5f1318#ref=rss)
-### womöglich
-
-* [https://www.spiegel.de/netzwelt/digitalbudget-sondertopf-der-bundesregierung-fuer-digitalprojekte-wird-womoeglich-gestrichen](https://www.spiegel.de/netzwelt/digitalbudget-sondertopf-der-bundesregierung-fuer-digitalprojekte-wird-womoeglich-gestrichen-a-02360398-3f0c-4a22-8d3c-b5cb6f5f1318#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/afd-kann-in-bremen-womoeglich-nicht-zur-wahl-antreten-stoerkraft-der-zwei-listen](https://www.spiegel.de/politik/deutschland/afd-kann-in-bremen-womoeglich-nicht-zur-wahl-antreten-stoerkraft-der-zwei-listen-a-a9b69dce-e743-4a3d-b452-2564694a958d#ref=rss)
-### mexiko
-
-* [https://www.spiegel.de/panorama/justiz/mexiko-14-jaehriger-soll-mehrere-menschen-getoetet-haben](https://www.spiegel.de/panorama/justiz/mexiko-14-jaehriger-soll-mehrere-menschen-getoetet-haben-a-1c939949-ce44-42c5-8d3e-c7aa188ffaab#ref=rss)
-### stiftung
-
-* [https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-dockingstationen-fuers-homeoffice](https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-dockingstationen-fuers-homeoffice-a-881c50bb-180a-4131-a2ef-9b57434079c4#ref=rss)
-### warentest
-
-* [https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-dockingstationen-fuers-homeoffice](https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-dockingstationen-fuers-homeoffice-a-881c50bb-180a-4131-a2ef-9b57434079c4#ref=rss)
-### dockingstationen
-
-* [https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-dockingstationen-fuers-homeoffice](https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-dockingstationen-fuers-homeoffice-a-881c50bb-180a-4131-a2ef-9b57434079c4#ref=rss)
-### viele
-
-* [https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-dockingstationen-fuers-homeoffice](https://www.spiegel.de/tests/elektronik/stiftung-warentest-das-sind-die-besten-dockingstationen-fuers-homeoffice-a-881c50bb-180a-4131-a2ef-9b57434079c4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/knappe-mehrheit-befuerwortet-lohnforderung-im-oeffentlichen-dienst](https://www.spiegel.de/wirtschaft/knappe-mehrheit-befuerwortet-lohnforderung-im-oeffentlichen-dienst-a-17521a13-1085-4597-b42d-76dd222ea8c1#ref=rss)
-### credit
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/schockwellen-im-finanzsystem-warum-die-banken-beben](https://www.spiegel.de/wirtschaft/unternehmen/schockwellen-im-finanzsystem-warum-die-banken-beben-a-eb3fda22-a2b5-47e0-b8e5-b582c4273c18#ref=rss)
-### suisse
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/schockwellen-im-finanzsystem-warum-die-banken-beben](https://www.spiegel.de/wirtschaft/unternehmen/schockwellen-im-finanzsystem-warum-die-banken-beben-a-eb3fda22-a2b5-47e0-b8e5-b582c4273c18#ref=rss)
-### afd
-
-* [https://www.spiegel.de/politik/deutschland/afd-kann-in-bremen-womoeglich-nicht-zur-wahl-antreten-stoerkraft-der-zwei-listen](https://www.spiegel.de/politik/deutschland/afd-kann-in-bremen-womoeglich-nicht-zur-wahl-antreten-stoerkraft-der-zwei-listen-a-a9b69dce-e743-4a3d-b452-2564694a958d#ref=rss)
+* [https://www.spiegel.de/ausland/droht-der-ukrainischen-armee-ein-kulturkampf](https://www.spiegel.de/ausland/droht-der-ukrainischen-armee-ein-kulturkampf-a-da89d99e-be91-4425-a094-e40deb4a5f8c#ref=rss)
+* [https://www.spiegel.de/politik/krieg-in-der-ukraine-die-doppelmoral-des-westens](https://www.spiegel.de/politik/krieg-in-der-ukraine-die-doppelmoral-des-westens-a-93c9d93c-fca7-4af7-88a9-750c5b73155f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine-a-d232d30e-0e1b-40be-8ec3-1c33b09ca5d1#ref=rss)
+* [https://www.spiegel.de/ausland/polen-liefert-mig-29-wie-aufgemotzte-sowjet-jets-der-ukraine-helfen-sollen](https://www.spiegel.de/ausland/polen-liefert-mig-29-wie-aufgemotzte-sowjet-jets-der-ukraine-helfen-sollen-a-18ec8e62-4171-478c-8621-9d3d9aa69e2f#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin](https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin-a-e2730ce2-930b-432c-bc57-11542001f61e#ref=rss)
 ### zwei
 
-* [https://www.spiegel.de/politik/deutschland/afd-kann-in-bremen-womoeglich-nicht-zur-wahl-antreten-stoerkraft-der-zwei-listen](https://www.spiegel.de/politik/deutschland/afd-kann-in-bremen-womoeglich-nicht-zur-wahl-antreten-stoerkraft-der-zwei-listen-a-a9b69dce-e743-4a3d-b452-2564694a958d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbrenner-aus-grosse-mehrheit-spricht-sich-in-einer-umfrage-gegen-verbrenner-verbot-aus](https://www.spiegel.de/wirtschaft/verbrenner-aus-grosse-mehrheit-spricht-sich-in-einer-umfrage-gegen-verbrenner-verbot-aus-a-b652b459-f769-4e40-949d-6f8474fc7460#ref=rss)
-### neuseeland
+* [https://www.spiegel.de/panorama/unicef-zehn-millionen-kinder-in-der-zentralen-sahelzone-brauchen-dringend-hilfe](https://www.spiegel.de/panorama/unicef-zehn-millionen-kinder-in-der-zentralen-sahelzone-brauchen-dringend-hilfe-a-24aa06de-eea1-4da7-814e-1b1dfabb8f98#ref=rss)
+* [https://www.spiegel.de/ausland/belarus-zwoelf-jahre-straflager-fuer-zwei-kritikerinnen-lukaschenkos](https://www.spiegel.de/ausland/belarus-zwoelf-jahre-straflager-fuer-zwei-kritikerinnen-lukaschenkos-a-a64a4ee0-fee6-4e4b-bbcd-b467b4f476b1#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-youtube-hebt-sperre-gegen-ex-us-praesident-auf](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-youtube-hebt-sperre-gegen-ex-us-praesident-auf-a-9c77252a-08e9-4c6a-9725-5b71fc9f4c5e#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/netzwelt/neuseeland-verbietet-tiktok-auf-allen-regierungsgeraeten-nach-usa-und-grossbritannien](https://www.spiegel.de/netzwelt/neuseeland-verbietet-tiktok-auf-allen-regierungsgeraeten-nach-usa-und-grossbritannien-a-6b193d5b-c1dc-42e7-b3e3-20ff9f75b286#ref=rss)
-### tiktok
+* [https://www.spiegel.de/politik/krieg-in-der-ukraine-die-doppelmoral-des-westens](https://www.spiegel.de/politik/krieg-in-der-ukraine-die-doppelmoral-des-westens-a-93c9d93c-fca7-4af7-88a9-750c5b73155f#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin](https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin-a-e2730ce2-930b-432c-bc57-11542001f61e#ref=rss)
+### putin
 
-* [https://www.spiegel.de/netzwelt/neuseeland-verbietet-tiktok-auf-allen-regierungsgeraeten-nach-usa-und-grossbritannien](https://www.spiegel.de/netzwelt/neuseeland-verbietet-tiktok-auf-allen-regierungsgeraeten-nach-usa-und-grossbritannien-a-6b193d5b-c1dc-42e7-b3e3-20ff9f75b286#ref=rss)
-### mehr
+* [https://www.spiegel.de/politik/krieg-in-der-ukraine-die-doppelmoral-des-westens](https://www.spiegel.de/politik/krieg-in-der-ukraine-die-doppelmoral-des-westens-a-93c9d93c-fca7-4af7-88a9-750c5b73155f#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin](https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin-a-e2730ce2-930b-432c-bc57-11542001f61e#ref=rss)
+### wahlrechtsreform
 
-* [https://www.spiegel.de/ausland/frankreich-mehr-als-200-festnahmen-bei-protesten-gegen-rentenreform-in-paris](https://www.spiegel.de/ausland/frankreich-mehr-als-200-festnahmen-bei-protesten-gegen-rentenreform-in-paris-a-ea1395ee-ed49-409d-ba41-ae8b59a29c08#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt](https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt-a-2b7e9abf-8481-44bb-a686-d1491ac32489#ref=rss)
-### irvo
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine-a-d232d30e-0e1b-40be-8ec3-1c33b09ca5d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/abstimmung-im-bundestag-was-die-wahlrechtsreform-bedeutet](https://www.spiegel.de/politik/deutschland/abstimmung-im-bundestag-was-die-wahlrechtsreform-bedeutet-a-f3e8bb22-17f6-4847-8b5e-1d5bb65f977f#ref=rss)
+### wahlrecht
 
-* [https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt](https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt-a-2b7e9abf-8481-44bb-a686-d1491ac32489#ref=rss)
-### otieno
+* [https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition](https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition-a-35a0f699-2279-41b5-9756-04724498e0de#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/abstimmung-im-bundestag-was-die-wahlrechtsreform-bedeutet](https://www.spiegel.de/politik/deutschland/abstimmung-im-bundestag-was-die-wahlrechtsreform-bedeutet-a-f3e8bb22-17f6-4847-8b5e-1d5bb65f977f#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt](https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt-a-2b7e9abf-8481-44bb-a686-d1491ac32489#ref=rss)
-### polizisten
+* [https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition](https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition-a-35a0f699-2279-41b5-9756-04724498e0de#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/abstimmung-im-bundestag-was-die-wahlrechtsreform-bedeutet](https://www.spiegel.de/politik/deutschland/abstimmung-im-bundestag-was-die-wahlrechtsreform-bedeutet-a-f3e8bb22-17f6-4847-8b5e-1d5bb65f977f#ref=rss)
+### neue
 
-* [https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt](https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt-a-2b7e9abf-8481-44bb-a686-d1491ac32489#ref=rss)
-### angeklagt
+* [https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition](https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition-a-35a0f699-2279-41b5-9756-04724498e0de#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch-a-417e7c41-8127-46e3-be39-63557c8a05dc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue-a-3878294a-b9a9-401e-88e9-3991d106b973#ref=rss)
+### fünf
 
-* [https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt](https://www.spiegel.de/panorama/justiz/usa-schwarzer-irvo-otieno-in-klinik-erstickt-sieben-polizisten-angeklagt-a-2b7e9abf-8481-44bb-a686-d1491ac32489#ref=rss)
-### einmal
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch-a-417e7c41-8127-46e3-be39-63557c8a05dc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue-a-3878294a-b9a9-401e-88e9-3991d106b973#ref=rss)
+### hansi
 
-* [https://www.spiegel.de/wirtschaft/knappe-mehrheit-befuerwortet-lohnforderung-im-oeffentlichen-dienst](https://www.spiegel.de/wirtschaft/knappe-mehrheit-befuerwortet-lohnforderung-im-oeffentlichen-dienst-a-17521a13-1085-4597-b42d-76dd222ea8c1#ref=rss)
-* [https://www.spiegel.de/ausland/mike-pence-verteidigt-homophoben-witz-ueber-verkehrsminister-pete-buttigieg](https://www.spiegel.de/ausland/mike-pence-verteidigt-homophoben-witz-ueber-verkehrsminister-pete-buttigieg-a-e2527344-a670-4543-b95a-d7d9274312d9#ref=rss)
-### mike
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch-a-417e7c41-8127-46e3-be39-63557c8a05dc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue-a-3878294a-b9a9-401e-88e9-3991d106b973#ref=rss)
+### flick
 
-* [https://www.spiegel.de/ausland/mike-pence-verteidigt-homophoben-witz-ueber-verkehrsminister-pete-buttigieg](https://www.spiegel.de/ausland/mike-pence-verteidigt-homophoben-witz-ueber-verkehrsminister-pete-buttigieg-a-e2527344-a670-4543-b95a-d7d9274312d9#ref=rss)
-### pence
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch-a-417e7c41-8127-46e3-be39-63557c8a05dc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue-a-3878294a-b9a9-401e-88e9-3991d106b973#ref=rss)
+### nato
 
-* [https://www.spiegel.de/ausland/mike-pence-verteidigt-homophoben-witz-ueber-verkehrsminister-pete-buttigieg](https://www.spiegel.de/ausland/mike-pence-verteidigt-homophoben-witz-ueber-verkehrsminister-pete-buttigieg-a-e2527344-a670-4543-b95a-d7d9274312d9#ref=rss)
-### pete
+* [https://www.spiegel.de/ausland/droht-der-ukrainischen-armee-ein-kulturkampf](https://www.spiegel.de/ausland/droht-der-ukrainischen-armee-ein-kulturkampf-a-da89d99e-be91-4425-a094-e40deb4a5f8c#ref=rss)
+* [https://www.spiegel.de/ausland/recep-tayyip-erdogan-will-nato-beitritt-finnlands-zustimmen](https://www.spiegel.de/ausland/recep-tayyip-erdogan-will-nato-beitritt-finnlands-zustimmen-a-41ff0c05-9bb6-46e2-a520-5ceeb3dc9304#ref=rss)
+### zustimmung
 
-* [https://www.spiegel.de/ausland/mike-pence-verteidigt-homophoben-witz-ueber-verkehrsminister-pete-buttigieg](https://www.spiegel.de/ausland/mike-pence-verteidigt-homophoben-witz-ueber-verkehrsminister-pete-buttigieg-a-e2527344-a670-4543-b95a-d7d9274312d9#ref=rss)
-### buttigieg
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-pool-nur-mit-zustimmung-der-nachbarn](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-pool-nur-mit-zustimmung-der-nachbarn-a-260e8da0-ca3b-430b-a53e-cf18da0e12ad#ref=rss)
+* [https://www.spiegel.de/ausland/recep-tayyip-erdogan-will-nato-beitritt-finnlands-zustimmen](https://www.spiegel.de/ausland/recep-tayyip-erdogan-will-nato-beitritt-finnlands-zustimmen-a-41ff0c05-9bb6-46e2-a520-5ceeb3dc9304#ref=rss)
+### teil
 
-* [https://www.spiegel.de/ausland/mike-pence-verteidigt-homophoben-witz-ueber-verkehrsminister-pete-buttigieg](https://www.spiegel.de/ausland/mike-pence-verteidigt-homophoben-witz-ueber-verkehrsminister-pete-buttigieg-a-e2527344-a670-4543-b95a-d7d9274312d9#ref=rss)
-### erstmals
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-pool-nur-mit-zustimmung-der-nachbarn](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-pool-nur-mit-zustimmung-der-nachbarn-a-260e8da0-ca3b-430b-a53e-cf18da0e12ad#ref=rss)
+* [https://www.spiegel.de/wirtschaft/udo-foht-mdr-ehemaliger-unterhaltungschef-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/wirtschaft/udo-foht-mdr-ehemaliger-unterhaltungschef-zu-bewaehrungsstrafe-verurteilt-a-629c10ff-bb18-41a6-b363-7d2a322cce58#ref=rss)
+### recht
 
-* [https://www.spiegel.de/ausland/schweiz-mehrheit-wuenscht-sich-erstmals-annaeherung-an-nato](https://www.spiegel.de/ausland/schweiz-mehrheit-wuenscht-sich-erstmals-annaeherung-an-nato-a-c03ab725-ddef-4bb0-9cfc-7280b92f07ed#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bundesgerichtshof-pool-nur-mit-zustimmung-der-nachbarn](https://www.spiegel.de/panorama/justiz/bundesgerichtshof-pool-nur-mit-zustimmung-der-nachbarn-a-260e8da0-ca3b-430b-a53e-cf18da0e12ad#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/emissionsdaten-des-umweltbundesamtes-warum-das-einhalten-der-deutschen-klimaziele-kein-erfolg-ist](https://www.spiegel.de/wissenschaft/mensch/emissionsdaten-des-umweltbundesamtes-warum-das-einhalten-der-deutschen-klimaziele-kein-erfolg-ist-a-9aa68999-3131-4b66-be86-7a6a7293bf1f#ref=rss)
+### polizeiruf
+
+* [https://www.spiegel.de/kultur/tv/polizeiruf-aus-magdeburg-ronny-mit-claudia-michelsen](https://www.spiegel.de/kultur/tv/polizeiruf-aus-magdeburg-ronny-mit-claudia-michelsen-a-d99eb448-edbd-42db-bf82-b4fe9f4e55a9#ref=rss)
+### claudia
+
+* [https://www.spiegel.de/kultur/tv/polizeiruf-aus-magdeburg-ronny-mit-claudia-michelsen](https://www.spiegel.de/kultur/tv/polizeiruf-aus-magdeburg-ronny-mit-claudia-michelsen-a-d99eb448-edbd-42db-bf82-b4fe9f4e55a9#ref=rss)
+### michelsen
+
+* [https://www.spiegel.de/kultur/tv/polizeiruf-aus-magdeburg-ronny-mit-claudia-michelsen](https://www.spiegel.de/kultur/tv/polizeiruf-aus-magdeburg-ronny-mit-claudia-michelsen-a-d99eb448-edbd-42db-bf82-b4fe9f4e55a9#ref=rss)
+### krieg
+
+* [https://www.spiegel.de/politik/krieg-in-der-ukraine-die-doppelmoral-des-westens](https://www.spiegel.de/politik/krieg-in-der-ukraine-die-doppelmoral-des-westens-a-93c9d93c-fca7-4af7-88a9-750c5b73155f#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin](https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin-a-e2730ce2-930b-432c-bc57-11542001f61e#ref=rss)
+### verantwortung
+
+* [https://www.spiegel.de/politik/krieg-in-der-ukraine-die-doppelmoral-des-westens](https://www.spiegel.de/politik/krieg-in-der-ukraine-die-doppelmoral-des-westens-a-93c9d93c-fca7-4af7-88a9-750c5b73155f#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin](https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin-a-e2730ce2-930b-432c-bc57-11542001f61e#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/politik/krieg-in-der-ukraine-die-doppelmoral-des-westens](https://www.spiegel.de/politik/krieg-in-der-ukraine-die-doppelmoral-des-westens-a-93c9d93c-fca7-4af7-88a9-750c5b73155f#ref=rss)
+* [https://www.spiegel.de/ausland/katalonien-stausee-wird-leergefischt-um-trinkwasserversorgung-zu-retten](https://www.spiegel.de/ausland/katalonien-stausee-wird-leergefischt-um-trinkwasserversorgung-zu-retten-a-8234ae16-1283-4a00-a38c-f582a6497832#ref=rss)
+### waffenrecht
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine-a-d232d30e-0e1b-40be-8ec3-1c33b09ca5d1#ref=rss)
+### kampfjets
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine-a-d232d30e-0e1b-40be-8ec3-1c33b09ca5d1#ref=rss)
+* [https://www.spiegel.de/ausland/polen-liefert-mig-29-wie-aufgemotzte-sowjet-jets-der-ukraine-helfen-sollen](https://www.spiegel.de/ausland/polen-liefert-mig-29-wie-aufgemotzte-sowjet-jets-der-ukraine-helfen-sollen-a-18ec8e62-4171-478c-8621-9d3d9aa69e2f#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine-a-d232d30e-0e1b-40be-8ec3-1c33b09ca5d1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/emissionsdaten-des-umweltbundesamtes-warum-das-einhalten-der-deutschen-klimaziele-kein-erfolg-ist](https://www.spiegel.de/wissenschaft/mensch/emissionsdaten-des-umweltbundesamtes-warum-das-einhalten-der-deutschen-klimaziele-kein-erfolg-ist-a-9aa68999-3131-4b66-be86-7a6a7293bf1f#ref=rss)
+### tut
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine-a-d232d30e-0e1b-40be-8ec3-1c33b09ca5d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition](https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition-a-35a0f699-2279-41b5-9756-04724498e0de#ref=rss)
+### csu
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine-a-d232d30e-0e1b-40be-8ec3-1c33b09ca5d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition](https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition-a-35a0f699-2279-41b5-9756-04724498e0de#ref=rss)
+### linke
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine](https://www.spiegel.de/politik/deutschland/news-des-tages-bildungsmisere-wahlrechtsreform-waffenrecht-kampfjets-fuer-die-ukraine-a-d232d30e-0e1b-40be-8ec3-1c33b09ca5d1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition](https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition-a-35a0f699-2279-41b5-9756-04724498e0de#ref=rss)
+### retten
+
+* [https://www.spiegel.de/ausland/katalonien-stausee-wird-leergefischt-um-trinkwasserversorgung-zu-retten](https://www.spiegel.de/ausland/katalonien-stausee-wird-leergefischt-um-trinkwasserversorgung-zu-retten-a-8234ae16-1283-4a00-a38c-f582a6497832#ref=rss)
+### märz
+
+* [https://www.spiegel.de/ausland/katalonien-stausee-wird-leergefischt-um-trinkwasserversorgung-zu-retten](https://www.spiegel.de/ausland/katalonien-stausee-wird-leergefischt-um-trinkwasserversorgung-zu-retten-a-8234ae16-1283-4a00-a38c-f582a6497832#ref=rss)
+* [https://www.spiegel.de/panorama/irland-zum-st-patrick-s-day-alles-auf-gruen](https://www.spiegel.de/panorama/irland-zum-st-patrick-s-day-alles-auf-gruen-a-b900fe13-99d7-4f28-a190-4e888c8edf8e#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/panorama/grossbritannien-dominic-raab-will-hochzeiten-von-lebenslang-verurteilten-verhindern](https://www.spiegel.de/panorama/grossbritannien-dominic-raab-will-hochzeiten-von-lebenslang-verurteilten-verhindern-a-ed302d9c-3195-4910-bc29-6e7a2466a705#ref=rss)
+### dominic
+
+* [https://www.spiegel.de/panorama/grossbritannien-dominic-raab-will-hochzeiten-von-lebenslang-verurteilten-verhindern](https://www.spiegel.de/panorama/grossbritannien-dominic-raab-will-hochzeiten-von-lebenslang-verurteilten-verhindern-a-ed302d9c-3195-4910-bc29-6e7a2466a705#ref=rss)
+### raab
+
+* [https://www.spiegel.de/panorama/grossbritannien-dominic-raab-will-hochzeiten-von-lebenslang-verurteilten-verhindern](https://www.spiegel.de/panorama/grossbritannien-dominic-raab-will-hochzeiten-von-lebenslang-verurteilten-verhindern-a-ed302d9c-3195-4910-bc29-6e7a2466a705#ref=rss)
+### verhindern
+
+* [https://www.spiegel.de/panorama/grossbritannien-dominic-raab-will-hochzeiten-von-lebenslang-verurteilten-verhindern](https://www.spiegel.de/panorama/grossbritannien-dominic-raab-will-hochzeiten-von-lebenslang-verurteilten-verhindern-a-ed302d9c-3195-4910-bc29-6e7a2466a705#ref=rss)
+### neues
+
+* [https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition](https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition-a-35a0f699-2279-41b5-9756-04724498e0de#ref=rss)
+### parlament
+
+* [https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition](https://www.spiegel.de/politik/deutschland/aerger-ueber-neues-wahlrecht-christlich-sozialistische-opposition-a-35a0f699-2279-41b5-9756-04724498e0de#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/abstimmung-im-bundestag-was-die-wahlrechtsreform-bedeutet](https://www.spiegel.de/politik/deutschland/abstimmung-im-bundestag-was-die-wahlrechtsreform-bedeutet-a-f3e8bb22-17f6-4847-8b5e-1d5bb65f977f#ref=rss)
+### irland
+
+* [https://www.spiegel.de/panorama/irland-zum-st-patrick-s-day-alles-auf-gruen](https://www.spiegel.de/panorama/irland-zum-st-patrick-s-day-alles-auf-gruen-a-b900fe13-99d7-4f28-a190-4e888c8edf8e#ref=rss)
+### dfbnationalmannschaft
+
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch-a-417e7c41-8127-46e3-be39-63557c8a05dc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue-a-3878294a-b9a9-401e-88e9-3991d106b973#ref=rss)
+### keinen
+
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch-a-417e7c41-8127-46e3-be39-63557c8a05dc#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/emissionsdaten-des-umweltbundesamtes-warum-das-einhalten-der-deutschen-klimaziele-kein-erfolg-ist](https://www.spiegel.de/wissenschaft/mensch/emissionsdaten-des-umweltbundesamtes-warum-das-einhalten-der-deutschen-klimaziele-kein-erfolg-ist-a-9aa68999-3131-4b66-be86-7a6a7293bf1f#ref=rss)
+### bundestrainer
+
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch-a-417e7c41-8127-46e3-be39-63557c8a05dc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue-a-3878294a-b9a9-401e-88e9-3991d106b973#ref=rss)
+### wmdebakel
+
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-nach-der-wm-fuenf-neue-machen-noch-keinen-umbruch-a-417e7c41-8127-46e3-be39-63557c8a05dc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue-a-3878294a-b9a9-401e-88e9-3991d106b973#ref=rss)
+### friederike
+
+* [https://www.spiegel.de/wirtschaft/friederike-von-kirchbach-fruehere-vorsitzende-des-rbb-rundfunkrats-haelt-boni-im-ard-vergleich-unauffaellig](https://www.spiegel.de/wirtschaft/friederike-von-kirchbach-fruehere-vorsitzende-des-rbb-rundfunkrats-haelt-boni-im-ard-vergleich-unauffaellig-a-af81abb3-efa9-4240-8a25-96c7b8dbec89#ref=rss)
+### kirchbach
+
+* [https://www.spiegel.de/wirtschaft/friederike-von-kirchbach-fruehere-vorsitzende-des-rbb-rundfunkrats-haelt-boni-im-ard-vergleich-unauffaellig](https://www.spiegel.de/wirtschaft/friederike-von-kirchbach-fruehere-vorsitzende-des-rbb-rundfunkrats-haelt-boni-im-ard-vergleich-unauffaellig-a-af81abb3-efa9-4240-8a25-96c7b8dbec89#ref=rss)
+### bundesregierung
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/bundesregierung-klagt-gegen-verbot-ihrer-facebook-seiten](https://www.spiegel.de/netzwelt/netzpolitik/bundesregierung-klagt-gegen-verbot-ihrer-facebook-seiten-a-e2459c19-355f-45fe-a672-45e557481068#ref=rss)
+### facebookseiten
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/bundesregierung-klagt-gegen-verbot-ihrer-facebook-seiten](https://www.spiegel.de/netzwelt/netzpolitik/bundesregierung-klagt-gegen-verbot-ihrer-facebook-seiten-a-e2459c19-355f-45fe-a672-45e557481068#ref=rss)
+### millionen
+
+* [https://www.spiegel.de/panorama/unicef-zehn-millionen-kinder-in-der-zentralen-sahelzone-brauchen-dringend-hilfe](https://www.spiegel.de/panorama/unicef-zehn-millionen-kinder-in-der-zentralen-sahelzone-brauchen-dringend-hilfe-a-24aa06de-eea1-4da7-814e-1b1dfabb8f98#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/unicef-zehn-millionen-kinder-in-der-zentralen-sahelzone-brauchen-dringend-hilfe](https://www.spiegel.de/panorama/unicef-zehn-millionen-kinder-in-der-zentralen-sahelzone-brauchen-dringend-hilfe-a-24aa06de-eea1-4da7-814e-1b1dfabb8f98#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/panorama/unicef-zehn-millionen-kinder-in-der-zentralen-sahelzone-brauchen-dringend-hilfe](https://www.spiegel.de/panorama/unicef-zehn-millionen-kinder-in-der-zentralen-sahelzone-brauchen-dringend-hilfe-a-24aa06de-eea1-4da7-814e-1b1dfabb8f98#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-youtube-hebt-sperre-gegen-ex-us-praesident-auf](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-youtube-hebt-sperre-gegen-ex-us-praesident-auf-a-9c77252a-08e9-4c6a-9725-5b71fc9f4c5e#ref=rss)
+### belarus
+
+* [https://www.spiegel.de/ausland/belarus-zwoelf-jahre-straflager-fuer-zwei-kritikerinnen-lukaschenkos](https://www.spiegel.de/ausland/belarus-zwoelf-jahre-straflager-fuer-zwei-kritikerinnen-lukaschenkos-a-a64a4ee0-fee6-4e4b-bbcd-b467b4f476b1#ref=rss)
+### lukaschenkos
+
+* [https://www.spiegel.de/ausland/belarus-zwoelf-jahre-straflager-fuer-zwei-kritikerinnen-lukaschenkos](https://www.spiegel.de/ausland/belarus-zwoelf-jahre-straflager-fuer-zwei-kritikerinnen-lukaschenkos-a-a64a4ee0-fee6-4e4b-bbcd-b467b4f476b1#ref=rss)
+### verurteilt
+
+* [https://www.spiegel.de/ausland/belarus-zwoelf-jahre-straflager-fuer-zwei-kritikerinnen-lukaschenkos](https://www.spiegel.de/ausland/belarus-zwoelf-jahre-straflager-fuer-zwei-kritikerinnen-lukaschenkos-a-a64a4ee0-fee6-4e4b-bbcd-b467b4f476b1#ref=rss)
+* [https://www.spiegel.de/wirtschaft/udo-foht-mdr-ehemaliger-unterhaltungschef-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/wirtschaft/udo-foht-mdr-ehemaliger-unterhaltungschef-zu-bewaehrungsstrafe-verurteilt-a-629c10ff-bb18-41a6-b363-7d2a322cce58#ref=rss)
+### sprechen
+
+* [https://www.spiegel.de/ausland/belarus-zwoelf-jahre-straflager-fuer-zwei-kritikerinnen-lukaschenkos](https://www.spiegel.de/ausland/belarus-zwoelf-jahre-straflager-fuer-zwei-kritikerinnen-lukaschenkos-a-a64a4ee0-fee6-4e4b-bbcd-b467b4f476b1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stark-watzinger-fliegt-nach-taiwan](https://www.spiegel.de/politik/deutschland/stark-watzinger-fliegt-nach-taiwan-a-fd91ce2c-a0f7-4258-95f3-6e4169a18c9c#ref=rss)
+### polen
+
+* [https://www.spiegel.de/ausland/polen-liefert-mig-29-wie-aufgemotzte-sowjet-jets-der-ukraine-helfen-sollen](https://www.spiegel.de/ausland/polen-liefert-mig-29-wie-aufgemotzte-sowjet-jets-der-ukraine-helfen-sollen-a-18ec8e62-4171-478c-8621-9d3d9aa69e2f#ref=rss)
+### liefern
+
+* [https://www.spiegel.de/ausland/polen-liefert-mig-29-wie-aufgemotzte-sowjet-jets-der-ukraine-helfen-sollen](https://www.spiegel.de/ausland/polen-liefert-mig-29-wie-aufgemotzte-sowjet-jets-der-ukraine-helfen-sollen-a-18ec8e62-4171-478c-8621-9d3d9aa69e2f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-wer-fuer-kernenergie-e-fuels-und-gasheizungen-ist-sollte-diesen-bericht-lesen](https://www.spiegel.de/wissenschaft/natur/klimaschutz-wer-fuer-kernenergie-e-fuels-und-gasheizungen-ist-sollte-diesen-bericht-lesen-a-d3ca3ad0-7450-4e97-bd5f-49e729db0b02#ref=rss)
+### klimaziele
+
+* [https://www.spiegel.de/wissenschaft/mensch/emissionsdaten-des-umweltbundesamtes-warum-das-einhalten-der-deutschen-klimaziele-kein-erfolg-ist](https://www.spiegel.de/wissenschaft/mensch/emissionsdaten-des-umweltbundesamtes-warum-das-einhalten-der-deutschen-klimaziele-kein-erfolg-ist-a-9aa68999-3131-4b66-be86-7a6a7293bf1f#ref=rss)
+### strafgerichtshof
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin](https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin-a-e2730ce2-930b-432c-bc57-11542001f61e#ref=rss)
+### haftbefehl
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin](https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin-a-e2730ce2-930b-432c-bc57-11542001f61e#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin](https://www.spiegel.de/ausland/krieg-in-der-ukraine-internationaler-strafgerichtshof-erlaesst-haftbefehl-gegen-wladimir-putin-a-e2730ce2-930b-432c-bc57-11542001f61e#ref=rss)
+* [https://www.spiegel.de/ausland/recep-tayyip-erdogan-will-nato-beitritt-finnlands-zustimmen](https://www.spiegel.de/ausland/recep-tayyip-erdogan-will-nato-beitritt-finnlands-zustimmen-a-41ff0c05-9bb6-46e2-a520-5ceeb3dc9304#ref=rss)
+### kanzleramt
+
+* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-kanzleramt-verteidigt-neubau-gegen-christian-lindners-vorstoss](https://www.spiegel.de/politik/deutschland/haushaltsstreit-kanzleramt-verteidigt-neubau-gegen-christian-lindners-vorstoss-a-d03ac1b3-5e23-4e70-9b5e-c2009f180a2c#ref=rss)
+### lehnt
+
+* [https://www.spiegel.de/politik/deutschland/haushaltsstreit-kanzleramt-verteidigt-neubau-gegen-christian-lindners-vorstoss](https://www.spiegel.de/politik/deutschland/haushaltsstreit-kanzleramt-verteidigt-neubau-gegen-christian-lindners-vorstoss-a-d03ac1b3-5e23-4e70-9b5e-c2009f180a2c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/stark-watzinger-fliegt-nach-taiwan](https://www.spiegel.de/politik/deutschland/stark-watzinger-fliegt-nach-taiwan-a-fd91ce2c-a0f7-4258-95f3-6e4169a18c9c#ref=rss)
+### donald
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-youtube-hebt-sperre-gegen-ex-us-praesident-auf](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-youtube-hebt-sperre-gegen-ex-us-praesident-auf-a-9c77252a-08e9-4c6a-9725-5b71fc9f4c5e#ref=rss)
+### trump
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-youtube-hebt-sperre-gegen-ex-us-praesident-auf](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-youtube-hebt-sperre-gegen-ex-us-praesident-auf-a-9c77252a-08e9-4c6a-9725-5b71fc9f4c5e#ref=rss)
+### youtube
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-youtube-hebt-sperre-gegen-ex-us-praesident-auf](https://www.spiegel.de/netzwelt/netzpolitik/donald-trump-youtube-hebt-sperre-gegen-ex-us-praesident-auf-a-9c77252a-08e9-4c6a-9725-5b71fc9f4c5e#ref=rss)
+### udo
+
+* [https://www.spiegel.de/wirtschaft/udo-foht-mdr-ehemaliger-unterhaltungschef-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/wirtschaft/udo-foht-mdr-ehemaliger-unterhaltungschef-zu-bewaehrungsstrafe-verurteilt-a-629c10ff-bb18-41a6-b363-7d2a322cce58#ref=rss)
+### foht
+
+* [https://www.spiegel.de/wirtschaft/udo-foht-mdr-ehemaliger-unterhaltungschef-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/wirtschaft/udo-foht-mdr-ehemaliger-unterhaltungschef-zu-bewaehrungsstrafe-verurteilt-a-629c10ff-bb18-41a6-b363-7d2a322cce58#ref=rss)
+### exmdrunterhaltungschef
+
+* [https://www.spiegel.de/wirtschaft/udo-foht-mdr-ehemaliger-unterhaltungschef-zu-bewaehrungsstrafe-verurteilt](https://www.spiegel.de/wirtschaft/udo-foht-mdr-ehemaliger-unterhaltungschef-zu-bewaehrungsstrafe-verurteilt-a-629c10ff-bb18-41a6-b363-7d2a322cce58#ref=rss)
+### erdoğan
+
+* [https://www.spiegel.de/ausland/recep-tayyip-erdogan-will-nato-beitritt-finnlands-zustimmen](https://www.spiegel.de/ausland/recep-tayyip-erdogan-will-nato-beitritt-finnlands-zustimmen-a-41ff0c05-9bb6-46e2-a520-5ceeb3dc9304#ref=rss)
+### finnland
+
+* [https://www.spiegel.de/ausland/recep-tayyip-erdogan-will-nato-beitritt-finnlands-zustimmen](https://www.spiegel.de/ausland/recep-tayyip-erdogan-will-nato-beitritt-finnlands-zustimmen-a-41ff0c05-9bb6-46e2-a520-5ceeb3dc9304#ref=rss)
+### geändert
+
+* [https://www.spiegel.de/ausland/recep-tayyip-erdogan-will-nato-beitritt-finnlands-zustimmen](https://www.spiegel.de/ausland/recep-tayyip-erdogan-will-nato-beitritt-finnlands-zustimmen-a-41ff0c05-9bb6-46e2-a520-5ceeb3dc9304#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/abstimmung-im-bundestag-was-die-wahlrechtsreform-bedeutet](https://www.spiegel.de/politik/deutschland/abstimmung-im-bundestag-was-die-wahlrechtsreform-bedeutet-a-f3e8bb22-17f6-4847-8b5e-1d5bb65f977f#ref=rss)
+### schnee
+
+* [https://www.spiegel.de/panorama/usa-rekordverdaechtig-viel-schnee-in-kalifornien](https://www.spiegel.de/panorama/usa-rekordverdaechtig-viel-schnee-in-kalifornien-a-5442d582-dafc-42c0-bf16-adaedc276a81#ref=rss)
+### kalifornien
+
+* [https://www.spiegel.de/panorama/usa-rekordverdaechtig-viel-schnee-in-kalifornien](https://www.spiegel.de/panorama/usa-rekordverdaechtig-viel-schnee-in-kalifornien-a-5442d582-dafc-42c0-bf16-adaedc276a81#ref=rss)
+### drohen
+
+* [https://www.spiegel.de/panorama/usa-rekordverdaechtig-viel-schnee-in-kalifornien](https://www.spiegel.de/panorama/usa-rekordverdaechtig-viel-schnee-in-kalifornien-a-5442d582-dafc-42c0-bf16-adaedc276a81#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unzulaessige-corona-zuschlaege-fuer-bundeswehr-soldaten-wehrbeauftragte-fordert-verzicht-auf-rueckzahlungen](https://www.spiegel.de/politik/deutschland/unzulaessige-corona-zuschlaege-fuer-bundeswehr-soldaten-wehrbeauftragte-fordert-verzicht-auf-rueckzahlungen-a-f84606e3-30d2-4a29-8418-845766cf71e8#ref=rss)
+### verzichtet
+
+* [https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue](https://www.spiegel.de/sport/fussball/dfb-nationalmannschaft-hansi-flick-verzichtet-auf-leroy-sane-und-nominiert-fuenf-neue-a-3878294a-b9a9-401e-88e9-3991d106b973#ref=rss)
+### taiwan
+
+* [https://www.spiegel.de/politik/deutschland/stark-watzinger-fliegt-nach-taiwan](https://www.spiegel.de/politik/deutschland/stark-watzinger-fliegt-nach-taiwan-a-fd91ce2c-a0f7-4258-95f3-6e4169a18c9c#ref=rss)
+### sieht
+
+* [https://www.spiegel.de/politik/deutschland/stark-watzinger-fliegt-nach-taiwan](https://www.spiegel.de/politik/deutschland/stark-watzinger-fliegt-nach-taiwan-a-fd91ce2c-a0f7-4258-95f3-6e4169a18c9c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/unzulaessige-corona-zuschlaege-fuer-bundeswehr-soldaten-wehrbeauftragte-fordert-verzicht-auf-rueckzahlungen](https://www.spiegel.de/politik/deutschland/unzulaessige-corona-zuschlaege-fuer-bundeswehr-soldaten-wehrbeauftragte-fordert-verzicht-auf-rueckzahlungen-a-f84606e3-30d2-4a29-8418-845766cf71e8#ref=rss)
+### bundeswehrsoldaten
+
+* [https://www.spiegel.de/politik/deutschland/unzulaessige-corona-zuschlaege-fuer-bundeswehr-soldaten-wehrbeauftragte-fordert-verzicht-auf-rueckzahlungen](https://www.spiegel.de/politik/deutschland/unzulaessige-corona-zuschlaege-fuer-bundeswehr-soldaten-wehrbeauftragte-fordert-verzicht-auf-rueckzahlungen-a-f84606e3-30d2-4a29-8418-845766cf71e8#ref=rss)
+### wehrbeauftragte
+
+* [https://www.spiegel.de/politik/deutschland/unzulaessige-corona-zuschlaege-fuer-bundeswehr-soldaten-wehrbeauftragte-fordert-verzicht-auf-rueckzahlungen](https://www.spiegel.de/politik/deutschland/unzulaessige-corona-zuschlaege-fuer-bundeswehr-soldaten-wehrbeauftragte-fordert-verzicht-auf-rueckzahlungen-a-f84606e3-30d2-4a29-8418-845766cf71e8#ref=rss)
+### rückzahlungen
+
+* [https://www.spiegel.de/politik/deutschland/unzulaessige-corona-zuschlaege-fuer-bundeswehr-soldaten-wehrbeauftragte-fordert-verzicht-auf-rueckzahlungen](https://www.spiegel.de/politik/deutschland/unzulaessige-corona-zuschlaege-fuer-bundeswehr-soldaten-wehrbeauftragte-fordert-verzicht-auf-rueckzahlungen-a-f84606e3-30d2-4a29-8418-845766cf71e8#ref=rss)
 
