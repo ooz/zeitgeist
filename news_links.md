@@ -4,310 +4,302 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### 20
+### jahr
 
-* [https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris](https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris-a-b6bc0b4d-2ee5-4362-9989-603a8f935626#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim](https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim-a-11a6c50b-a826-42a6-ac25-9a0c98645709#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse](https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse-a-776b2067-83a2-4652-ad02-138b3baeea11#ref=rss)
-### irakkrieg
+* [https://www.spiegel.de/kultur/literatur/pen-case-list-115-uebergriffe-auf-autorinnen-und-autoren-in-2022](https://www.spiegel.de/kultur/literatur/pen-case-list-115-uebergriffe-auf-autorinnen-und-autoren-in-2022-a-5369bd9f-ca60-4c93-a4fa-66fd831f145a#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/energiepreispauschale-mehr-als-eine-million-studierende-haben-einmalzahlung-erhalten](https://www.spiegel.de/panorama/bildung/energiepreispauschale-mehr-als-eine-million-studierende-haben-einmalzahlung-erhalten-a-25516aca-92a1-4723-b867-50922fee8c14#ref=rss)
+* [https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts](https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts-a-365b6c14-bf35-43ee-9548-26c46184bdd1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/waldzustandserhebung-so-schlecht-geht-es-deutschlands-baeumen](https://www.spiegel.de/wissenschaft/natur/waldzustandserhebung-so-schlecht-geht-es-deutschlands-baeumen-a-018125ca-720f-41b6-b604-de468042a662#ref=rss)
+### taiwan
 
-* [https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris](https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris-a-b6bc0b4d-2ee5-4362-9989-603a8f935626#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim](https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim-a-11a6c50b-a826-42a6-ac25-9a0c98645709#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse](https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse-a-776b2067-83a2-4652-ad02-138b3baeea11#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-regierung-uebersteht-misstrauensvotum](https://www.spiegel.de/ausland/frankreich-regierung-uebersteht-misstrauensvotum-a-ba3118e1-1b6f-4505-b6e3-c856a161b2f2#ref=rss)
-* [https://www.spiegel.de/ausland/westafrika-geiseln-aus-frankreich-und-den-usa-freigelassen](https://www.spiegel.de/ausland/westafrika-geiseln-aus-frankreich-und-den-usa-freigelassen-a-0b5a9d8b-e1a7-4c02-802e-1f97c56b7947#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/frankreich-regierung-uebersteht-misstrauensvotum](https://www.spiegel.de/ausland/frankreich-regierung-uebersteht-misstrauensvotum-a-ba3118e1-1b6f-4505-b6e3-c856a161b2f2#ref=rss)
-* [https://www.spiegel.de/ausland/kenia-wie-ein-chinesischer-megamarkt-in-nairobi-zum-social-media-hype-wurde](https://www.spiegel.de/ausland/kenia-wie-ein-chinesischer-megamarkt-in-nairobi-zum-social-media-hype-wurde-a-17666ec5-a8f1-40cc-961d-0886f83ab0df#ref=rss)
-### deutsche
-
-* [https://www.spiegel.de/ausland/kroatien-rijeka-hier-wird-eine-deutsche-seemine-gesprengt](https://www.spiegel.de/ausland/kroatien-rijeka-hier-wird-eine-deutsche-seemine-gesprengt-a-ac39e2aa-ac6b-4c0f-9019-28aac0e1c64a#ref=rss)
-* [https://www.spiegel.de/reise/deutschland/sylt-time-magazin-waehlt-nordseeinsel-unter-die-world-s-greatest-places-2023](https://www.spiegel.de/reise/deutschland/sylt-time-magazin-waehlt-nordseeinsel-unter-die-world-s-greatest-places-2023-a-2dcda2ac-674f-4040-9b7b-80eae6019e21#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltklimabericht-wir-werden-die-klimafolgen-deutlich-spueren](https://www.spiegel.de/wissenschaft/weltklimabericht-wir-werden-die-klimafolgen-deutlich-spueren-a-23138a52-2d3b-4d32-ad10-6aaf9341f460#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro](https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro-a-e7b22ecb-a1d2-4869-a06a-c136c0273eee#ref=rss)
-* [https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media](https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media-a-60dfb0f0-bfb2-4aef-860b-af759e5a059b#ref=rss)
-### folgen
-
-* [https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro](https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro-a-e7b22ecb-a1d2-4869-a06a-c136c0273eee#ref=rss)
-* [https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris](https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris-a-b6bc0b4d-2ee5-4362-9989-603a8f935626#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim](https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim-a-11a6c50b-a826-42a6-ac25-9a0c98645709#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris](https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris-a-b6bc0b4d-2ee5-4362-9989-603a8f935626#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim](https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim-a-11a6c50b-a826-42a6-ac25-9a0c98645709#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse](https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse-a-776b2067-83a2-4652-ad02-138b3baeea11#ref=rss)
-### credit
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-rettung-finanzmaerkte-stabilisieren-sich-vorerst](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-rettung-finanzmaerkte-stabilisieren-sich-vorerst-a-0c300991-82fd-45bd-81cf-372f0562df9b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse](https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse-a-776b2067-83a2-4652-ad02-138b3baeea11#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-uebernahme-pensionskasse-droht-mit-klage](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-uebernahme-pensionskasse-droht-mit-klage-a-4cec87e5-9f3c-49a7-b77b-05c19918ff61#ref=rss)
-### suisse
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-rettung-finanzmaerkte-stabilisieren-sich-vorerst](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-rettung-finanzmaerkte-stabilisieren-sich-vorerst-a-0c300991-82fd-45bd-81cf-372f0562df9b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse](https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse-a-776b2067-83a2-4652-ad02-138b3baeea11#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-uebernahme-pensionskasse-droht-mit-klage](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-uebernahme-pensionskasse-droht-mit-klage-a-4cec87e5-9f3c-49a7-b77b-05c19918ff61#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/politik/deutschland/kohleausstieg-leag-betriebsrat-sagt-gruenen-klausur-ab](https://www.spiegel.de/politik/deutschland/kohleausstieg-leag-betriebsrat-sagt-gruenen-klausur-ab-a-768b3adb-d815-42fe-b7c1-3fcf9751a05b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltklimabericht-wir-werden-die-klimafolgen-deutlich-spueren](https://www.spiegel.de/wissenschaft/weltklimabericht-wir-werden-die-klimafolgen-deutlich-spueren-a-23138a52-2d3b-4d32-ad10-6aaf9341f460#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/peer-steinbrueck-zur-bankenkrise-da-bin-ich-fast-vom-stuhl-gefallen](https://www.spiegel.de/politik/deutschland/peer-steinbrueck-zur-bankenkrise-da-bin-ich-fast-vom-stuhl-gefallen-a-2ae41aef-ce22-4f10-b99b-7e0cb24ecba9#ref=rss)
-### los
-
-* [https://www.spiegel.de/sport/fussball/miroslav-klose-scr-altach-trennt-sich-von-seinem-trainer](https://www.spiegel.de/sport/fussball/miroslav-klose-scr-altach-trennt-sich-von-seinem-trainer-a-b36f35c0-0386-4200-bc43-4f3b50f2c704#ref=rss)
-* [https://www.spiegel.de/kultur/das-ist-los-von-herbert-groenemeyer-wie-das-land-so-der-herbert](https://www.spiegel.de/kultur/das-ist-los-von-herbert-groenemeyer-wie-das-land-so-der-herbert-a-1fc039c1-c663-49f4-b957-f290a4a3ee60#ref=rss)
-### herbert
-
-* [https://www.spiegel.de/kultur/das-ist-los-von-herbert-groenemeyer-wie-das-land-so-der-herbert](https://www.spiegel.de/kultur/das-ist-los-von-herbert-groenemeyer-wie-das-land-so-der-herbert-a-1fc039c1-c663-49f4-b957-f290a4a3ee60#ref=rss)
-### misstrauensvotum
-
-* [https://www.spiegel.de/ausland/frankreich-regierung-uebersteht-misstrauensvotum](https://www.spiegel.de/ausland/frankreich-regierung-uebersteht-misstrauensvotum-a-ba3118e1-1b6f-4505-b6e3-c856a161b2f2#ref=rss)
-### präsident
-
-* [https://www.spiegel.de/ausland/frankreich-regierung-uebersteht-misstrauensvotum](https://www.spiegel.de/ausland/frankreich-regierung-uebersteht-misstrauensvotum-a-ba3118e1-1b6f-4505-b6e3-c856a161b2f2#ref=rss)
-* [https://www.spiegel.de/ausland/wladimir-putin-trifft-xi-jiping-weisslachs-oder-rentier-sechs-gaenge-menue-fuer-staatsbesuch](https://www.spiegel.de/ausland/wladimir-putin-trifft-xi-jiping-weisslachs-oder-rentier-sechs-gaenge-menue-fuer-staatsbesuch-a-84e0d091-86fe-4e19-930c-6a9d3b6e894b#ref=rss)
-### rheinmetall
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-startet-mit-kurssprung-in-den-dax](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-startet-mit-kurssprung-in-den-dax-a-166607da-4d57-4545-ab5c-2f1d98364f1f#ref=rss)
-### zehntausende
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-startet-mit-kurssprung-in-den-dax](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-startet-mit-kurssprung-in-den-dax-a-166607da-4d57-4545-ab5c-2f1d98364f1f#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro](https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro-a-e7b22ecb-a1d2-4869-a06a-c136c0273eee#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-startet-mit-kurssprung-in-den-dax](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-startet-mit-kurssprung-in-den-dax-a-166607da-4d57-4545-ab5c-2f1d98364f1f#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro](https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro-a-e7b22ecb-a1d2-4869-a06a-c136c0273eee#ref=rss)
+* [https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan](https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan-a-6f826a55-fa15-4234-aedb-24f270a2e5bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china-a-7f0476eb-ddeb-4601-8443-586eb9530978#ref=rss)
 ### millionen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-startet-mit-kurssprung-in-den-dax](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-startet-mit-kurssprung-in-den-dax-a-166607da-4d57-4545-ab5c-2f1d98364f1f#ref=rss)
-* [https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro](https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro-a-e7b22ecb-a1d2-4869-a06a-c136c0273eee#ref=rss)
-### deutschen
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-importiert-millionen-barrel-diesel-aus-russland](https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-importiert-millionen-barrel-diesel-aus-russland-a-ee3f593a-d733-4e74-86a5-ef6abdad741c#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-schulverbot-fuer-siebtklaesslerinnen-die-hoffnung-fuer-drei-millionen-maedchen-ist-verbaut](https://www.spiegel.de/ausland/afghanistan-schulverbot-fuer-siebtklaesslerinnen-die-hoffnung-fuer-drei-millionen-maedchen-ist-verbaut-a-04a0b1d6-a685-4d46-9fc5-b51f83f4e54a#ref=rss)
+### russland
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-startet-mit-kurssprung-in-den-dax](https://www.spiegel.de/wirtschaft/unternehmen/rheinmetall-startet-mit-kurssprung-in-den-dax-a-166607da-4d57-4545-ab5c-2f1d98364f1f#ref=rss)
-* [https://www.spiegel.de/kultur/das-ist-los-von-herbert-groenemeyer-wie-das-land-so-der-herbert](https://www.spiegel.de/kultur/das-ist-los-von-herbert-groenemeyer-wie-das-land-so-der-herbert-a-1fc039c1-c663-49f4-b957-f290a4a3ee60#ref=rss)
-### rijeka
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-importiert-millionen-barrel-diesel-aus-russland](https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-importiert-millionen-barrel-diesel-aus-russland-a-ee3f593a-d733-4e74-86a5-ef6abdad741c#ref=rss)
+* [https://www.spiegel.de/sport/olympia/fechten-ukrainer-treten-nicht-gegen-russen-und-belarussen-an](https://www.spiegel.de/sport/olympia/fechten-ukrainer-treten-nicht-gegen-russen-und-belarussen-an-a-a9009713-0ad1-4d74-a29e-5f5570afafbd#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/ausland/kroatien-rijeka-hier-wird-eine-deutsche-seemine-gesprengt](https://www.spiegel.de/ausland/kroatien-rijeka-hier-wird-eine-deutsche-seemine-gesprengt-a-ac39e2aa-ac6b-4c0f-9019-28aac0e1c64a#ref=rss)
-### gesprengt
+* [https://www.spiegel.de/politik/deutschland/verbrenner-streit-bundesregierung-geht-von-rascher-einigung-aus](https://www.spiegel.de/politik/deutschland/verbrenner-streit-bundesregierung-geht-von-rascher-einigung-aus-a-77691830-deb6-44e4-b9ed-37c62973df4d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rwe-setzt-auf-gruenen-strom](https://www.spiegel.de/wirtschaft/rwe-setzt-auf-gruenen-strom-a-da025851-04fb-4142-b726-4d5959c7124f#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mercosur-scheinheilig-und-neokolonial-greenpeace-greift-cem-oezdemir-an](https://www.spiegel.de/politik/deutschland/mercosur-scheinheilig-und-neokolonial-greenpeace-greift-cem-oezdemir-an-a-2c4169d7-fe6e-47a1-891d-435618b28597#ref=rss)
+### intelligenz
 
-* [https://www.spiegel.de/ausland/kroatien-rijeka-hier-wird-eine-deutsche-seemine-gesprengt](https://www.spiegel.de/ausland/kroatien-rijeka-hier-wird-eine-deutsche-seemine-gesprengt-a-ac39e2aa-ac6b-4c0f-9019-28aac0e1c64a#ref=rss)
-### erdbeben
+* [https://www.spiegel.de/wirtschaft/service/wie-sie-vom-roboter-boom-in-der-pflege-profitieren](https://www.spiegel.de/wirtschaft/service/wie-sie-vom-roboter-boom-in-der-pflege-profitieren-a-56697ca0-6bbc-4c41-abb0-9dc4ba7c34db#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kuenstliche-intelligenz-in-der-schule-mein-lehrer-der-roboter](https://www.spiegel.de/panorama/bildung/kuenstliche-intelligenz-in-der-schule-mein-lehrer-der-roboter-a-faf2ed10-d301-42a9-8827-94b76aac7251#ref=rss)
+### erhalten
 
-* [https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro](https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro-a-e7b22ecb-a1d2-4869-a06a-c136c0273eee#ref=rss)
-### syrien
+* [https://www.spiegel.de/panorama/bildung/energiepreispauschale-mehr-als-eine-million-studierende-haben-einmalzahlung-erhalten](https://www.spiegel.de/panorama/bildung/energiepreispauschale-mehr-als-eine-million-studierende-haben-einmalzahlung-erhalten-a-25516aca-92a1-4723-b867-50922fee8c14#ref=rss)
+* [https://www.spiegel.de/kultur/tv/grimme-preise-fuer-boehmermann-kleo-und-die-wannseekonferenz](https://www.spiegel.de/kultur/tv/grimme-preise-fuer-boehmermann-kleo-und-die-wannseekonferenz-a-d69cf063-41ac-4b95-af26-c192d81d6eef#ref=rss)
+### joe
 
-* [https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro](https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro-a-e7b22ecb-a1d2-4869-a06a-c136c0273eee#ref=rss)
-### türkei
+* [https://www.spiegel.de/wirtschaft/gruene-ausgabenprogramme-joe-biden-setzt-auf-umverteilung-europa-auf-voodoo-kolumne](https://www.spiegel.de/wirtschaft/gruene-ausgabenprogramme-joe-biden-setzt-auf-umverteilung-europa-auf-voodoo-kolumne-a-a496889c-da18-49fc-b6a9-dd12ce9d8829#ref=rss)
+* [https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts](https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts-a-365b6c14-bf35-43ee-9548-26c46184bdd1#ref=rss)
+### biden
 
-* [https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro](https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro-a-e7b22ecb-a1d2-4869-a06a-c136c0273eee#ref=rss)
-### sieben
+* [https://www.spiegel.de/wirtschaft/gruene-ausgabenprogramme-joe-biden-setzt-auf-umverteilung-europa-auf-voodoo-kolumne](https://www.spiegel.de/wirtschaft/gruene-ausgabenprogramme-joe-biden-setzt-auf-umverteilung-europa-auf-voodoo-kolumne-a-a496889c-da18-49fc-b6a9-dd12ce9d8829#ref=rss)
+* [https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts](https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts-a-365b6c14-bf35-43ee-9548-26c46184bdd1#ref=rss)
+### gar
 
-* [https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro](https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro-a-e7b22ecb-a1d2-4869-a06a-c136c0273eee#ref=rss)
-### euro
+* [https://www.spiegel.de/kultur/e-volkswagen-id-2-all-vorstellung-des-ersten-vollelektrischen-volkswagens-ok-stromer](https://www.spiegel.de/kultur/e-volkswagen-id-2-all-vorstellung-des-ersten-vollelektrischen-volkswagens-ok-stromer-a-f2907d1c-ca3d-4461-953d-e03cc060fe75#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china-a-7f0476eb-ddeb-4601-8443-586eb9530978#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mercosur-scheinheilig-und-neokolonial-greenpeace-greift-cem-oezdemir-an](https://www.spiegel.de/politik/deutschland/mercosur-scheinheilig-und-neokolonial-greenpeace-greift-cem-oezdemir-an-a-2c4169d7-fe6e-47a1-891d-435618b28597#ref=rss)
+### saudiarabien
 
-* [https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro](https://www.spiegel.de/ausland/erdbeben-in-syrien-und-der-tuerkei-geberkonferenz-sammelt-sieben-milliarden-euro-a-e7b22ecb-a1d2-4869-a06a-c136c0273eee#ref=rss)
-### rupert
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-importiert-millionen-barrel-diesel-aus-russland](https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-importiert-millionen-barrel-diesel-aus-russland-a-ee3f593a-d733-4e74-86a5-ef6abdad741c#ref=rss)
+### barrel
 
-* [https://www.spiegel.de/panorama/leute/rupert-murdoch-will-ann-lesley-smith-heiraten](https://www.spiegel.de/panorama/leute/rupert-murdoch-will-ann-lesley-smith-heiraten-a-ac577fe3-056b-4b37-b9e7-aa9f5e9f9b82#ref=rss)
-### murdoch
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-importiert-millionen-barrel-diesel-aus-russland](https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-importiert-millionen-barrel-diesel-aus-russland-a-ee3f593a-d733-4e74-86a5-ef6abdad741c#ref=rss)
+### diesel
 
-* [https://www.spiegel.de/panorama/leute/rupert-murdoch-will-ann-lesley-smith-heiraten](https://www.spiegel.de/panorama/leute/rupert-murdoch-will-ann-lesley-smith-heiraten-a-ac577fe3-056b-4b37-b9e7-aa9f5e9f9b82#ref=rss)
-### ann
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-importiert-millionen-barrel-diesel-aus-russland](https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-importiert-millionen-barrel-diesel-aus-russland-a-ee3f593a-d733-4e74-86a5-ef6abdad741c#ref=rss)
+### europa
 
-* [https://www.spiegel.de/panorama/leute/rupert-murdoch-will-ann-lesley-smith-heiraten](https://www.spiegel.de/panorama/leute/rupert-murdoch-will-ann-lesley-smith-heiraten-a-ac577fe3-056b-4b37-b9e7-aa9f5e9f9b82#ref=rss)
-### lesley
+* [https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-importiert-millionen-barrel-diesel-aus-russland](https://www.spiegel.de/wirtschaft/unternehmen/saudi-arabien-importiert-millionen-barrel-diesel-aus-russland-a-ee3f593a-d733-4e74-86a5-ef6abdad741c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/gruene-ausgabenprogramme-joe-biden-setzt-auf-umverteilung-europa-auf-voodoo-kolumne](https://www.spiegel.de/wirtschaft/gruene-ausgabenprogramme-joe-biden-setzt-auf-umverteilung-europa-auf-voodoo-kolumne-a-a496889c-da18-49fc-b6a9-dd12ce9d8829#ref=rss)
+### ukrainer
 
-* [https://www.spiegel.de/panorama/leute/rupert-murdoch-will-ann-lesley-smith-heiraten](https://www.spiegel.de/panorama/leute/rupert-murdoch-will-ann-lesley-smith-heiraten-a-ac577fe3-056b-4b37-b9e7-aa9f5e9f9b82#ref=rss)
-### smith
+* [https://www.spiegel.de/sport/olympia/fechten-ukrainer-treten-nicht-gegen-russen-und-belarussen-an](https://www.spiegel.de/sport/olympia/fechten-ukrainer-treten-nicht-gegen-russen-und-belarussen-an-a-a9009713-0ad1-4d74-a29e-5f5570afafbd#ref=rss)
+### alle
 
-* [https://www.spiegel.de/panorama/leute/rupert-murdoch-will-ann-lesley-smith-heiraten](https://www.spiegel.de/panorama/leute/rupert-murdoch-will-ann-lesley-smith-heiraten-a-ac577fe3-056b-4b37-b9e7-aa9f5e9f9b82#ref=rss)
-### monaten
+* [https://www.spiegel.de/sport/olympia/fechten-ukrainer-treten-nicht-gegen-russen-und-belarussen-an](https://www.spiegel.de/sport/olympia/fechten-ukrainer-treten-nicht-gegen-russen-und-belarussen-an-a-a9009713-0ad1-4d74-a29e-5f5570afafbd#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-schulverbot-fuer-siebtklaesslerinnen-die-hoffnung-fuer-drei-millionen-maedchen-ist-verbaut](https://www.spiegel.de/ausland/afghanistan-schulverbot-fuer-siebtklaesslerinnen-die-hoffnung-fuer-drei-millionen-maedchen-ist-verbaut-a-04a0b1d6-a685-4d46-9fc5-b51f83f4e54a#ref=rss)
+### einigung
 
-* [https://www.spiegel.de/panorama/leute/rupert-murdoch-will-ann-lesley-smith-heiraten](https://www.spiegel.de/panorama/leute/rupert-murdoch-will-ann-lesley-smith-heiraten-a-ac577fe3-056b-4b37-b9e7-aa9f5e9f9b82#ref=rss)
-* [https://www.spiegel.de/sport/fussball/miroslav-klose-scr-altach-trennt-sich-von-seinem-trainer](https://www.spiegel.de/sport/fussball/miroslav-klose-scr-altach-trennt-sich-von-seinem-trainer-a-b36f35c0-0386-4200-bc43-4f3b50f2c704#ref=rss)
-### kindergrundsicherung
+* [https://www.spiegel.de/politik/deutschland/verbrenner-streit-bundesregierung-geht-von-rascher-einigung-aus](https://www.spiegel.de/politik/deutschland/verbrenner-streit-bundesregierung-geht-von-rascher-einigung-aus-a-77691830-deb6-44e4-b9ed-37c62973df4d#ref=rss)
+### neue
 
-* [https://www.spiegel.de/politik/deutschland/streit-um-kindergrundsicherung-jessica-rosenthal-sebastian-roloff-und-erik-von-malottki-unterstuetzen-lisa-paus](https://www.spiegel.de/politik/deutschland/streit-um-kindergrundsicherung-jessica-rosenthal-sebastian-roloff-und-erik-von-malottki-unterstuetzen-lisa-paus-a-350c937f-b0ca-4469-a7cf-d28ceae941f9#ref=rss)
-### paus
+* [https://www.spiegel.de/politik/deutschland/verbrenner-streit-bundesregierung-geht-von-rascher-einigung-aus](https://www.spiegel.de/politik/deutschland/verbrenner-streit-bundesregierung-geht-von-rascher-einigung-aus-a-77691830-deb6-44e4-b9ed-37c62973df4d#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-schulverbot-fuer-siebtklaesslerinnen-die-hoffnung-fuer-drei-millionen-maedchen-ist-verbaut](https://www.spiegel.de/ausland/afghanistan-schulverbot-fuer-siebtklaesslerinnen-die-hoffnung-fuer-drei-millionen-maedchen-ist-verbaut-a-04a0b1d6-a685-4d46-9fc5-b51f83f4e54a#ref=rss)
+### woche
 
-* [https://www.spiegel.de/politik/deutschland/streit-um-kindergrundsicherung-jessica-rosenthal-sebastian-roloff-und-erik-von-malottki-unterstuetzen-lisa-paus](https://www.spiegel.de/politik/deutschland/streit-um-kindergrundsicherung-jessica-rosenthal-sebastian-roloff-und-erik-von-malottki-unterstuetzen-lisa-paus-a-350c937f-b0ca-4469-a7cf-d28ceae941f9#ref=rss)
-### stammzellspende
+* [https://www.spiegel.de/politik/deutschland/verbrenner-streit-bundesregierung-geht-von-rascher-einigung-aus](https://www.spiegel.de/politik/deutschland/verbrenner-streit-bundesregierung-geht-von-rascher-einigung-aus-a-77691830-deb6-44e4-b9ed-37c62973df4d#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/energiepreispauschale-mehr-als-eine-million-studierende-haben-einmalzahlung-erhalten](https://www.spiegel.de/panorama/bildung/energiepreispauschale-mehr-als-eine-million-studierende-haben-einmalzahlung-erhalten-a-25516aca-92a1-4723-b867-50922fee8c14#ref=rss)
+### anleger
 
-* [https://www.spiegel.de/gesundheit/stammzelltransplantation-wie-laeuft-eine-stammzellspende-ab](https://www.spiegel.de/gesundheit/stammzelltransplantation-wie-laeuft-eine-stammzellspende-ab-a-6bfa0aae-d16e-4c11-b9bb-e2e862b00c46#ref=rss)
-### jahre
+* [https://www.spiegel.de/wirtschaft/service/wie-sie-vom-roboter-boom-in-der-pflege-profitieren](https://www.spiegel.de/wirtschaft/service/wie-sie-vom-roboter-boom-in-der-pflege-profitieren-a-56697ca0-6bbc-4c41-abb0-9dc4ba7c34db#ref=rss)
+### künstliche
 
-* [https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris](https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris-a-b6bc0b4d-2ee5-4362-9989-603a8f935626#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kohleausstieg-leag-betriebsrat-sagt-gruenen-klausur-ab](https://www.spiegel.de/politik/deutschland/kohleausstieg-leag-betriebsrat-sagt-gruenen-klausur-ab-a-768b3adb-d815-42fe-b7c1-3fcf9751a05b#ref=rss)
-### begann
+* [https://www.spiegel.de/wirtschaft/service/wie-sie-vom-roboter-boom-in-der-pflege-profitieren](https://www.spiegel.de/wirtschaft/service/wie-sie-vom-roboter-boom-in-der-pflege-profitieren-a-56697ca0-6bbc-4c41-abb0-9dc4ba7c34db#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/kuenstliche-intelligenz-in-der-schule-mein-lehrer-der-roboter](https://www.spiegel.de/panorama/bildung/kuenstliche-intelligenz-in-der-schule-mein-lehrer-der-roboter-a-faf2ed10-d301-42a9-8827-94b76aac7251#ref=rss)
+### pen
 
-* [https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris](https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris-a-b6bc0b4d-2ee5-4362-9989-603a8f935626#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse](https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse-a-776b2067-83a2-4652-ad02-138b3baeea11#ref=rss)
-### irak
+* [https://www.spiegel.de/kultur/literatur/pen-case-list-115-uebergriffe-auf-autorinnen-und-autoren-in-2022](https://www.spiegel.de/kultur/literatur/pen-case-list-115-uebergriffe-auf-autorinnen-und-autoren-in-2022-a-5369bd9f-ca60-4c93-a4fa-66fd831f145a#ref=rss)
+### 115
 
-* [https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris](https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris-a-b6bc0b4d-2ee5-4362-9989-603a8f935626#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim](https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim-a-11a6c50b-a826-42a6-ac25-9a0c98645709#ref=rss)
-### lügen
+* [https://www.spiegel.de/kultur/literatur/pen-case-list-115-uebergriffe-auf-autorinnen-und-autoren-in-2022](https://www.spiegel.de/kultur/literatur/pen-case-list-115-uebergriffe-auf-autorinnen-und-autoren-in-2022-a-5369bd9f-ca60-4c93-a4fa-66fd831f145a#ref=rss)
+### autorinnen
 
-* [https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris](https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris-a-b6bc0b4d-2ee5-4362-9989-603a8f935626#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim](https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim-a-11a6c50b-a826-42a6-ac25-9a0c98645709#ref=rss)
-### ziehen
+* [https://www.spiegel.de/kultur/literatur/pen-case-list-115-uebergriffe-auf-autorinnen-und-autoren-in-2022](https://www.spiegel.de/kultur/literatur/pen-case-list-115-uebergriffe-auf-autorinnen-und-autoren-in-2022-a-5369bd9f-ca60-4c93-a4fa-66fd831f145a#ref=rss)
+### autoren
 
-* [https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris](https://www.spiegel.de/ausland/20-jahre-irak-krieg-die-folgen-der-hybris-a-b6bc0b4d-2ee5-4362-9989-603a8f935626#ref=rss)
-* [https://www.spiegel.de/ausland/kenia-wie-ein-chinesischer-megamarkt-in-nairobi-zum-social-media-hype-wurde](https://www.spiegel.de/ausland/kenia-wie-ein-chinesischer-megamarkt-in-nairobi-zum-social-media-hype-wurde-a-17666ec5-a8f1-40cc-961d-0886f83ab0df#ref=rss)
-### zwei
+* [https://www.spiegel.de/kultur/literatur/pen-case-list-115-uebergriffe-auf-autorinnen-und-autoren-in-2022](https://www.spiegel.de/kultur/literatur/pen-case-list-115-uebergriffe-auf-autorinnen-und-autoren-in-2022-a-5369bd9f-ca60-4c93-a4fa-66fd831f145a#ref=rss)
+### 2022
 
-* [https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim](https://www.spiegel.de/politik/deutschland/irakkrieg-und-die-folgen-zwei-luegen-eine-lehre-gastbeitrag-von-markus-kaim-a-11a6c50b-a826-42a6-ac25-9a0c98645709#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/weiden-frau-attackierte-passanten-mit-degen-unterbringung-in-der-psychiatrie-angeordnet](https://www.spiegel.de/panorama/justiz/weiden-frau-attackierte-passanten-mit-degen-unterbringung-in-der-psychiatrie-angeordnet-a-e618ab28-9f36-47b0-90d7-4bda3ccba213#ref=rss)
-### xi
+* [https://www.spiegel.de/kultur/literatur/pen-case-list-115-uebergriffe-auf-autorinnen-und-autoren-in-2022](https://www.spiegel.de/kultur/literatur/pen-case-list-115-uebergriffe-auf-autorinnen-und-autoren-in-2022-a-5369bd9f-ca60-4c93-a4fa-66fd831f145a#ref=rss)
+### afghanistan
 
-* [https://www.spiegel.de/ausland/wladimir-putin-trifft-xi-jiping-weisslachs-oder-rentier-sechs-gaenge-menue-fuer-staatsbesuch](https://www.spiegel.de/ausland/wladimir-putin-trifft-xi-jiping-weisslachs-oder-rentier-sechs-gaenge-menue-fuer-staatsbesuch-a-84e0d091-86fe-4e19-930c-6a9d3b6e894b#ref=rss)
-### staatsbesuch
+* [https://www.spiegel.de/ausland/afghanistan-schulverbot-fuer-siebtklaesslerinnen-die-hoffnung-fuer-drei-millionen-maedchen-ist-verbaut](https://www.spiegel.de/ausland/afghanistan-schulverbot-fuer-siebtklaesslerinnen-die-hoffnung-fuer-drei-millionen-maedchen-ist-verbaut-a-04a0b1d6-a685-4d46-9fc5-b51f83f4e54a#ref=rss)
+### mädchen
 
-* [https://www.spiegel.de/ausland/wladimir-putin-trifft-xi-jiping-weisslachs-oder-rentier-sechs-gaenge-menue-fuer-staatsbesuch](https://www.spiegel.de/ausland/wladimir-putin-trifft-xi-jiping-weisslachs-oder-rentier-sechs-gaenge-menue-fuer-staatsbesuch-a-84e0d091-86fe-4e19-930c-6a9d3b6e894b#ref=rss)
-### warme
-
-* [https://www.spiegel.de/ausland/wladimir-putin-trifft-xi-jiping-weisslachs-oder-rentier-sechs-gaenge-menue-fuer-staatsbesuch](https://www.spiegel.de/ausland/wladimir-putin-trifft-xi-jiping-weisslachs-oder-rentier-sechs-gaenge-menue-fuer-staatsbesuch-a-84e0d091-86fe-4e19-930c-6a9d3b6e894b#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/westafrika-geiseln-aus-frankreich-und-den-usa-freigelassen](https://www.spiegel.de/ausland/westafrika-geiseln-aus-frankreich-und-den-usa-freigelassen-a-0b5a9d8b-e1a7-4c02-802e-1f97c56b7947#ref=rss)
-* [https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media](https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media-a-60dfb0f0-bfb2-4aef-860b-af759e5a059b#ref=rss)
-### creditsuisserettung
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-rettung-finanzmaerkte-stabilisieren-sich-vorerst](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-rettung-finanzmaerkte-stabilisieren-sich-vorerst-a-0c300991-82fd-45bd-81cf-372f0562df9b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse](https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse-a-776b2067-83a2-4652-ad02-138b3baeea11#ref=rss)
-### sorgen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-rettung-finanzmaerkte-stabilisieren-sich-vorerst](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-rettung-finanzmaerkte-stabilisieren-sich-vorerst-a-0c300991-82fd-45bd-81cf-372f0562df9b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/peer-steinbrueck-zur-bankenkrise-da-bin-ich-fast-vom-stuhl-gefallen](https://www.spiegel.de/politik/deutschland/peer-steinbrueck-zur-bankenkrise-da-bin-ich-fast-vom-stuhl-gefallen-a-2ae41aef-ce22-4f10-b99b-7e0cb24ecba9#ref=rss)
-### weltklimarat
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse](https://www.spiegel.de/politik/deutschland/news-des-tages-irak-krieg-weltklimarat-credit-suisse-a-776b2067-83a2-4652-ad02-138b3baeea11#ref=rss)
-### klage
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-uebernahme-pensionskasse-droht-mit-klage](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-uebernahme-pensionskasse-droht-mit-klage-a-4cec87e5-9f3c-49a7-b77b-05c19918ff61#ref=rss)
-### dürfte
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-uebernahme-pensionskasse-droht-mit-klage](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-uebernahme-pensionskasse-droht-mit-klage-a-4cec87e5-9f3c-49a7-b77b-05c19918ff61#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/ver-di-weitet-warnstreiks-am-dienstag-in-nordrhein-westfalen-massiv-aus](https://www.spiegel.de/wirtschaft/soziales/ver-di-weitet-warnstreiks-am-dienstag-in-nordrhein-westfalen-massiv-aus-a-cd80f2e8-a8f6-49fa-9099-66d18a68752c#ref=rss)
-### einzige
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-uebernahme-pensionskasse-droht-mit-klage](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-uebernahme-pensionskasse-droht-mit-klage-a-4cec87e5-9f3c-49a7-b77b-05c19918ff61#ref=rss)
-* [https://www.spiegel.de/reise/deutschland/sylt-time-magazin-waehlt-nordseeinsel-unter-die-world-s-greatest-places-2023](https://www.spiegel.de/reise/deutschland/sylt-time-magazin-waehlt-nordseeinsel-unter-die-world-s-greatest-places-2023-a-2dcda2ac-674f-4040-9b7b-80eae6019e21#ref=rss)
+* [https://www.spiegel.de/ausland/afghanistan-schulverbot-fuer-siebtklaesslerinnen-die-hoffnung-fuer-drei-millionen-maedchen-ist-verbaut](https://www.spiegel.de/ausland/afghanistan-schulverbot-fuer-siebtklaesslerinnen-die-hoffnung-fuer-drei-millionen-maedchen-ist-verbaut-a-04a0b1d6-a685-4d46-9fc5-b51f83f4e54a#ref=rss)
 ### bleiben
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-uebernahme-pensionskasse-droht-mit-klage](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-uebernahme-pensionskasse-droht-mit-klage-a-4cec87e5-9f3c-49a7-b77b-05c19918ff61#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/weiden-frau-attackierte-passanten-mit-degen-unterbringung-in-der-psychiatrie-angeordnet](https://www.spiegel.de/panorama/justiz/weiden-frau-attackierte-passanten-mit-degen-unterbringung-in-der-psychiatrie-angeordnet-a-e618ab28-9f36-47b0-90d7-4bda3ccba213#ref=rss)
-### satelliten
+* [https://www.spiegel.de/ausland/afghanistan-schulverbot-fuer-siebtklaesslerinnen-die-hoffnung-fuer-drei-millionen-maedchen-ist-verbaut](https://www.spiegel.de/ausland/afghanistan-schulverbot-fuer-siebtklaesslerinnen-die-hoffnung-fuer-drei-millionen-maedchen-ist-verbaut-a-04a0b1d6-a685-4d46-9fc5-b51f83f4e54a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/first-republic-befreiungsschlag-gescheitert-kurssturz-trotz-milliardenhilfen](https://www.spiegel.de/wirtschaft/first-republic-befreiungsschlag-gescheitert-kurssturz-trotz-milliardenhilfen-a-480f75d6-c250-467d-a4b2-71cee2b2e9e2#ref=rss)
+### energiepreispauschale
 
-* [https://www.spiegel.de/wissenschaft/weltall/wie-lichtverschmutzung-und-satelliten-die-astronomie-behindern](https://www.spiegel.de/wissenschaft/weltall/wie-lichtverschmutzung-und-satelliten-die-astronomie-behindern-a-4428f036-9ff5-475e-8136-f334acc5f8f9#ref=rss)
-### kohleausstieg
+* [https://www.spiegel.de/panorama/bildung/energiepreispauschale-mehr-als-eine-million-studierende-haben-einmalzahlung-erhalten](https://www.spiegel.de/panorama/bildung/energiepreispauschale-mehr-als-eine-million-studierende-haben-einmalzahlung-erhalten-a-25516aca-92a1-4723-b867-50922fee8c14#ref=rss)
+### einmalzahlung
 
-* [https://www.spiegel.de/politik/deutschland/kohleausstieg-leag-betriebsrat-sagt-gruenen-klausur-ab](https://www.spiegel.de/politik/deutschland/kohleausstieg-leag-betriebsrat-sagt-gruenen-klausur-ab-a-768b3adb-d815-42fe-b7c1-3fcf9751a05b#ref=rss)
-### leagbetriebsrat
+* [https://www.spiegel.de/panorama/bildung/energiepreispauschale-mehr-als-eine-million-studierende-haben-einmalzahlung-erhalten](https://www.spiegel.de/panorama/bildung/energiepreispauschale-mehr-als-eine-million-studierende-haben-einmalzahlung-erhalten-a-25516aca-92a1-4723-b867-50922fee8c14#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/kohleausstieg-leag-betriebsrat-sagt-gruenen-klausur-ab](https://www.spiegel.de/politik/deutschland/kohleausstieg-leag-betriebsrat-sagt-gruenen-klausur-ab-a-768b3adb-d815-42fe-b7c1-3fcf9751a05b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/bramsche-zwei-frauen-werfen-tatverdaechtigen-sexuelle-gewalt-vor](https://www.spiegel.de/panorama/justiz/bramsche-zwei-frauen-werfen-tatverdaechtigen-sexuelle-gewalt-vor-a-426013ff-2fce-4f3e-96d2-dc593d6f10b8#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig](https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig-a-d4e93300-dd5c-4e9e-a2fd-31b50b6aaa76#ref=rss)
+### klimaklagen
+
+* [https://www.spiegel.de/wissenschaft/volkswagen-vor-gericht-was-bringen-klimaklagen-podcast](https://www.spiegel.de/wissenschaft/volkswagen-vor-gericht-was-bringen-klimaklagen-podcast-a-c7a55b77-0287-4c93-a4a4-99b382917c3e#ref=rss)
+### podcast
+
+* [https://www.spiegel.de/wissenschaft/volkswagen-vor-gericht-was-bringen-klimaklagen-podcast](https://www.spiegel.de/wissenschaft/volkswagen-vor-gericht-was-bringen-klimaklagen-podcast-a-c7a55b77-0287-4c93-a4a4-99b382917c3e#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/wirtschaft/gruene-ausgabenprogramme-joe-biden-setzt-auf-umverteilung-europa-auf-voodoo-kolumne](https://www.spiegel.de/wirtschaft/gruene-ausgabenprogramme-joe-biden-setzt-auf-umverteilung-europa-auf-voodoo-kolumne-a-a496889c-da18-49fc-b6a9-dd12ce9d8829#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rwe-setzt-auf-gruenen-strom](https://www.spiegel.de/wirtschaft/rwe-setzt-auf-gruenen-strom-a-da025851-04fb-4142-b726-4d5959c7124f#ref=rss)
+### dusky
+
+* [https://www.spiegel.de/reise/fernweh/tourismus-im-dusky-sound-in-neuseeland-warum-ich-im-urlaub-ratten-jagte](https://www.spiegel.de/reise/fernweh/tourismus-im-dusky-sound-in-neuseeland-warum-ich-im-urlaub-ratten-jagte-a-db44b8a3-c6e3-497d-88fa-107de0c73c1a#ref=rss)
+### sound
+
+* [https://www.spiegel.de/reise/fernweh/tourismus-im-dusky-sound-in-neuseeland-warum-ich-im-urlaub-ratten-jagte](https://www.spiegel.de/reise/fernweh/tourismus-im-dusky-sound-in-neuseeland-warum-ich-im-urlaub-ratten-jagte-a-db44b8a3-c6e3-497d-88fa-107de0c73c1a#ref=rss)
+### grimmepreise
+
+* [https://www.spiegel.de/kultur/tv/grimme-preise-fuer-boehmermann-kleo-und-die-wannseekonferenz](https://www.spiegel.de/kultur/tv/grimme-preise-fuer-boehmermann-kleo-und-die-wannseekonferenz-a-d69cf063-41ac-4b95-af26-c192d81d6eef#ref=rss)
+### wannseekonferenz
+
+* [https://www.spiegel.de/kultur/tv/grimme-preise-fuer-boehmermann-kleo-und-die-wannseekonferenz](https://www.spiegel.de/kultur/tv/grimme-preise-fuer-boehmermann-kleo-und-die-wannseekonferenz-a-d69cf063-41ac-4b95-af26-c192d81d6eef#ref=rss)
+### philipp
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-philipp-f-toetete-offenbar-als-religioeser-fanatiker](https://www.spiegel.de/panorama/justiz/hamburg-philipp-f-toetete-offenbar-als-religioeser-fanatiker-a-bbe981bb-4610-44ed-aa79-450bd3458dd4#ref=rss)
+### f
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-philipp-f-toetete-offenbar-als-religioeser-fanatiker](https://www.spiegel.de/panorama/justiz/hamburg-philipp-f-toetete-offenbar-als-religioeser-fanatiker-a-bbe981bb-4610-44ed-aa79-450bd3458dd4#ref=rss)
+### offenbar
+
+* [https://www.spiegel.de/panorama/justiz/hamburg-philipp-f-toetete-offenbar-als-religioeser-fanatiker](https://www.spiegel.de/panorama/justiz/hamburg-philipp-f-toetete-offenbar-als-religioeser-fanatiker-a-bbe981bb-4610-44ed-aa79-450bd3458dd4#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig](https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig-a-d4e93300-dd5c-4e9e-a2fd-31b50b6aaa76#ref=rss)
 ### acht
 
-* [https://www.spiegel.de/politik/deutschland/kohleausstieg-leag-betriebsrat-sagt-gruenen-klausur-ab](https://www.spiegel.de/politik/deutschland/kohleausstieg-leag-betriebsrat-sagt-gruenen-klausur-ab-a-768b3adb-d815-42fe-b7c1-3fcf9751a05b#ref=rss)
-* [https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media](https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media-a-60dfb0f0-bfb2-4aef-860b-af759e5a059b#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-philipp-f-toetete-offenbar-als-religioeser-fanatiker](https://www.spiegel.de/panorama/justiz/hamburg-philipp-f-toetete-offenbar-als-religioeser-fanatiker-a-bbe981bb-4610-44ed-aa79-450bd3458dd4#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig](https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig-a-d4e93300-dd5c-4e9e-a2fd-31b50b6aaa76#ref=rss)
+### bruce
+
+* [https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts](https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts-a-365b6c14-bf35-43ee-9548-26c46184bdd1#ref=rss)
+### springsteen
+
+* [https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts](https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts-a-365b6c14-bf35-43ee-9548-26c46184bdd1#ref=rss)
+### vera
+
+* [https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts](https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts-a-365b6c14-bf35-43ee-9548-26c46184bdd1#ref=rss)
+### wang
+
+* [https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts](https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts-a-365b6c14-bf35-43ee-9548-26c46184bdd1#ref=rss)
+### national
+
+* [https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts](https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts-a-365b6c14-bf35-43ee-9548-26c46184bdd1#ref=rss)
+### medal
+
+* [https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts](https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts-a-365b6c14-bf35-43ee-9548-26c46184bdd1#ref=rss)
+### of
+
+* [https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts](https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts-a-365b6c14-bf35-43ee-9548-26c46184bdd1#ref=rss)
+### arts
+
+* [https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts](https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts-a-365b6c14-bf35-43ee-9548-26c46184bdd1#ref=rss)
+### unter
+
+* [https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts](https://www.spiegel.de/kultur/bruce-springsteen-und-vera-wang-joe-biden-verleiht-ihnen-national-medal-of-arts-a-365b6c14-bf35-43ee-9548-26c46184bdd1#ref=rss)
+* [https://www.spiegel.de/karriere/internations-umfrage-was-expats-von-deutschland-halten](https://www.spiegel.de/karriere/internations-umfrage-was-expats-von-deutschland-halten-a-fcf8dfc4-7f83-45af-a518-c64ad59efefe#ref=rss)
+### first
+
+* [https://www.spiegel.de/wirtschaft/first-republic-befreiungsschlag-gescheitert-kurssturz-trotz-milliardenhilfen](https://www.spiegel.de/wirtschaft/first-republic-befreiungsschlag-gescheitert-kurssturz-trotz-milliardenhilfen-a-480f75d6-c250-467d-a4b2-71cee2b2e9e2#ref=rss)
+### republic
+
+* [https://www.spiegel.de/wirtschaft/first-republic-befreiungsschlag-gescheitert-kurssturz-trotz-milliardenhilfen](https://www.spiegel.de/wirtschaft/first-republic-befreiungsschlag-gescheitert-kurssturz-trotz-milliardenhilfen-a-480f75d6-c250-467d-a4b2-71cee2b2e9e2#ref=rss)
+### großer
+
+* [https://www.spiegel.de/wirtschaft/first-republic-befreiungsschlag-gescheitert-kurssturz-trotz-milliardenhilfen](https://www.spiegel.de/wirtschaft/first-republic-befreiungsschlag-gescheitert-kurssturz-trotz-milliardenhilfen-a-480f75d6-c250-467d-a4b2-71cee2b2e9e2#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rwe-setzt-auf-gruenen-strom](https://www.spiegel.de/wirtschaft/rwe-setzt-auf-gruenen-strom-a-da025851-04fb-4142-b726-4d5959c7124f#ref=rss)
+### id
+
+* [https://www.spiegel.de/kultur/e-volkswagen-id-2-all-vorstellung-des-ersten-vollelektrischen-volkswagens-ok-stromer](https://www.spiegel.de/kultur/e-volkswagen-id-2-all-vorstellung-des-ersten-vollelektrischen-volkswagens-ok-stromer-a-f2907d1c-ca3d-4461-953d-e03cc060fe75#ref=rss)
+### 2all
+
+* [https://www.spiegel.de/kultur/e-volkswagen-id-2-all-vorstellung-des-ersten-vollelektrischen-volkswagens-ok-stromer](https://www.spiegel.de/kultur/e-volkswagen-id-2-all-vorstellung-des-ersten-vollelektrischen-volkswagens-ok-stromer-a-f2907d1c-ca3d-4461-953d-e03cc060fe75#ref=rss)
+### ferrari
+
+* [https://www.spiegel.de/netzwelt/web/ransomware-angriff-ferrari-wird-nach-datendiebstahl-erpresst](https://www.spiegel.de/netzwelt/web/ransomware-angriff-ferrari-wird-nach-datendiebstahl-erpresst-a-e7780fa3-9749-4955-b369-6132e8bbb1d4#ref=rss)
+### waldzustandserhebung
+
+* [https://www.spiegel.de/wissenschaft/natur/waldzustandserhebung-so-schlecht-geht-es-deutschlands-baeumen](https://www.spiegel.de/wissenschaft/natur/waldzustandserhebung-so-schlecht-geht-es-deutschlands-baeumen-a-018125ca-720f-41b6-b604-de468042a662#ref=rss)
+### schadensersatz
+
+* [https://www.spiegel.de/auto/dieselskandal-eugh-urteil-zu-sogenanntem-thermofenster-autokaeufer-koennen-auf-schadensersatz-hoffen](https://www.spiegel.de/auto/dieselskandal-eugh-urteil-zu-sogenanntem-thermofenster-autokaeufer-koennen-auf-schadensersatz-hoffen-a-47f23a64-76ab-49d0-beb2-18d54ff6d2bc#ref=rss)
+### china
+
+* [https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan](https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan-a-6f826a55-fa15-4234-aedb-24f270a2e5bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china-a-7f0476eb-ddeb-4601-8443-586eb9530978#ref=rss)
+### bettina
+
+* [https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan](https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan-a-6f826a55-fa15-4234-aedb-24f270a2e5bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china-a-7f0476eb-ddeb-4601-8443-586eb9530978#ref=rss)
 ### sorgt
 
-* [https://www.spiegel.de/politik/deutschland/kohleausstieg-leag-betriebsrat-sagt-gruenen-klausur-ab](https://www.spiegel.de/politik/deutschland/kohleausstieg-leag-betriebsrat-sagt-gruenen-klausur-ab-a-768b3adb-d815-42fe-b7c1-3fcf9751a05b#ref=rss)
-* [https://www.spiegel.de/ausland/kenia-wie-ein-chinesischer-megamarkt-in-nairobi-zum-social-media-hype-wurde](https://www.spiegel.de/ausland/kenia-wie-ein-chinesischer-megamarkt-in-nairobi-zum-social-media-hype-wurde-a-17666ec5-a8f1-40cc-961d-0886f83ab0df#ref=rss)
-### sylt
+* [https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan](https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan-a-6f826a55-fa15-4234-aedb-24f270a2e5bb#ref=rss)
+* [https://www.spiegel.de/ausland/ron-desantis-stichelt-gegen-donald-trump-stormy-daniels-fall](https://www.spiegel.de/ausland/ron-desantis-stichelt-gegen-donald-trump-stormy-daniels-fall-a-3ccb6a7f-967c-48c7-9d87-10e2a3490f30#ref=rss)
+### peking
 
-* [https://www.spiegel.de/reise/deutschland/sylt-time-magazin-waehlt-nordseeinsel-unter-die-world-s-greatest-places-2023](https://www.spiegel.de/reise/deutschland/sylt-time-magazin-waehlt-nordseeinsel-unter-die-world-s-greatest-places-2023-a-2dcda2ac-674f-4040-9b7b-80eae6019e21#ref=rss)
-### timemagazin
+* [https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan](https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan-a-6f826a55-fa15-4234-aedb-24f270a2e5bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china-a-7f0476eb-ddeb-4601-8443-586eb9530978#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/reise/deutschland/sylt-time-magazin-waehlt-nordseeinsel-unter-die-world-s-greatest-places-2023](https://www.spiegel.de/reise/deutschland/sylt-time-magazin-waehlt-nordseeinsel-unter-die-world-s-greatest-places-2023-a-2dcda2ac-674f-4040-9b7b-80eae6019e21#ref=rss)
-### chinesischer
+* [https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan](https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan-a-6f826a55-fa15-4234-aedb-24f270a2e5bb#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig](https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig-a-d4e93300-dd5c-4e9e-a2fd-31b50b6aaa76#ref=rss)
+### scharfe
 
-* [https://www.spiegel.de/ausland/kenia-wie-ein-chinesischer-megamarkt-in-nairobi-zum-social-media-hype-wurde](https://www.spiegel.de/ausland/kenia-wie-ein-chinesischer-megamarkt-in-nairobi-zum-social-media-hype-wurde-a-17666ec5-a8f1-40cc-961d-0886f83ab0df#ref=rss)
-### tausende
+* [https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan](https://www.spiegel.de/ausland/china-protestiert-gegen-bettina-stark-watzingers-besuch-in-taiwan-a-6f826a55-fa15-4234-aedb-24f270a2e5bb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/luisa-neubauer-klimaaktivistin-verlangt-ruecktritt-von-fdp-verkehrsminister-volker-wissing](https://www.spiegel.de/politik/deutschland/luisa-neubauer-klimaaktivistin-verlangt-ruecktritt-von-fdp-verkehrsminister-volker-wissing-a-8e21afb4-5a6e-4d7c-be5c-99761e133d28#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/kenia-wie-ein-chinesischer-megamarkt-in-nairobi-zum-social-media-hype-wurde](https://www.spiegel.de/ausland/kenia-wie-ein-chinesischer-megamarkt-in-nairobi-zum-social-media-hype-wurde-a-17666ec5-a8f1-40cc-961d-0886f83ab0df#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-streicht-weitere-9000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/amazon-streicht-weitere-9000-stellen-a-6ea38633-28ab-449c-be45-1c369b06072d#ref=rss)
-### länger
+* [https://www.spiegel.de/karriere/internations-umfrage-was-expats-von-deutschland-halten](https://www.spiegel.de/karriere/internations-umfrage-was-expats-von-deutschland-halten-a-fcf8dfc4-7f83-45af-a518-c64ad59efefe#ref=rss)
+### umfrage
 
-* [https://www.spiegel.de/wissenschaft/weltklimabericht-wir-werden-die-klimafolgen-deutlich-spueren](https://www.spiegel.de/wissenschaft/weltklimabericht-wir-werden-die-klimafolgen-deutlich-spueren-a-23138a52-2d3b-4d32-ad10-6aaf9341f460#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/gas-notfallplan-eu-kommission-will-verlaengerung-durchsetzen](https://www.spiegel.de/wirtschaft/soziales/gas-notfallplan-eu-kommission-will-verlaengerung-durchsetzen-a-f6017cdb-7a5e-49b3-bcaa-662d653032d5#ref=rss)
-### miroslav
+* [https://www.spiegel.de/karriere/internations-umfrage-was-expats-von-deutschland-halten](https://www.spiegel.de/karriere/internations-umfrage-was-expats-von-deutschland-halten-a-fcf8dfc4-7f83-45af-a518-c64ad59efefe#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig](https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig-a-d4e93300-dd5c-4e9e-a2fd-31b50b6aaa76#ref=rss)
+### donald
 
-* [https://www.spiegel.de/sport/fussball/miroslav-klose-scr-altach-trennt-sich-von-seinem-trainer](https://www.spiegel.de/sport/fussball/miroslav-klose-scr-altach-trennt-sich-von-seinem-trainer-a-b36f35c0-0386-4200-bc43-4f3b50f2c704#ref=rss)
-### klose
+* [https://www.spiegel.de/ausland/ron-desantis-stichelt-gegen-donald-trump-stormy-daniels-fall](https://www.spiegel.de/ausland/ron-desantis-stichelt-gegen-donald-trump-stormy-daniels-fall-a-3ccb6a7f-967c-48c7-9d87-10e2a3490f30#ref=rss)
+### ron
 
-* [https://www.spiegel.de/sport/fussball/miroslav-klose-scr-altach-trennt-sich-von-seinem-trainer](https://www.spiegel.de/sport/fussball/miroslav-klose-scr-altach-trennt-sich-von-seinem-trainer-a-b36f35c0-0386-4200-bc43-4f3b50f2c704#ref=rss)
-### altach
+* [https://www.spiegel.de/ausland/ron-desantis-stichelt-gegen-donald-trump-stormy-daniels-fall](https://www.spiegel.de/ausland/ron-desantis-stichelt-gegen-donald-trump-stormy-daniels-fall-a-3ccb6a7f-967c-48c7-9d87-10e2a3490f30#ref=rss)
+### desantis
 
-* [https://www.spiegel.de/sport/fussball/miroslav-klose-scr-altach-trennt-sich-von-seinem-trainer](https://www.spiegel.de/sport/fussball/miroslav-klose-scr-altach-trennt-sich-von-seinem-trainer-a-b36f35c0-0386-4200-bc43-4f3b50f2c704#ref=rss)
-### trainer
+* [https://www.spiegel.de/ausland/ron-desantis-stichelt-gegen-donald-trump-stormy-daniels-fall](https://www.spiegel.de/ausland/ron-desantis-stichelt-gegen-donald-trump-stormy-daniels-fall-a-3ccb6a7f-967c-48c7-9d87-10e2a3490f30#ref=rss)
+### monarchie
 
-* [https://www.spiegel.de/sport/fussball/miroslav-klose-scr-altach-trennt-sich-von-seinem-trainer](https://www.spiegel.de/sport/fussball/miroslav-klose-scr-altach-trennt-sich-von-seinem-trainer-a-b36f35c0-0386-4200-bc43-4f3b50f2c704#ref=rss)
-### alaska
+* [https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig](https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig-a-d4e93300-dd5c-4e9e-a2fd-31b50b6aaa76#ref=rss)
+### teil
 
-* [https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media](https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media-a-60dfb0f0-bfb2-4aef-860b-af759e5a059b#ref=rss)
-### willow
+* [https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig](https://www.spiegel.de/panorama/gesellschaft/monarchie-acht-prozent-der-deutschen-wuenschen-sich-einen-koenig-a-d4e93300-dd5c-4e9e-a2fd-31b50b6aaa76#ref=rss)
+* [https://www.spiegel.de/wirtschaft/rwe-setzt-auf-gruenen-strom](https://www.spiegel.de/wirtschaft/rwe-setzt-auf-gruenen-strom-a-da025851-04fb-4142-b726-4d5959c7124f#ref=rss)
+### ubs
 
-* [https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media](https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media-a-60dfb0f0-bfb2-4aef-860b-af759e5a059b#ref=rss)
-### project
+* [https://www.spiegel.de/wirtschaft/ratingagenturen-stufen-ubs-herab-kritik-am-credit-suisse-kauf](https://www.spiegel.de/wirtschaft/ratingagenturen-stufen-ubs-herab-kritik-am-credit-suisse-kauf-a-0d4fdb72-4b04-4cec-ad23-aa9aef5d3106#ref=rss)
+### ratingagenturen
 
-* [https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media](https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media-a-60dfb0f0-bfb2-4aef-860b-af759e5a059b#ref=rss)
-### sturm
+* [https://www.spiegel.de/wirtschaft/ratingagenturen-stufen-ubs-herab-kritik-am-credit-suisse-kauf](https://www.spiegel.de/wirtschaft/ratingagenturen-stufen-ubs-herab-kritik-am-credit-suisse-kauf-a-0d4fdb72-4b04-4cec-ad23-aa9aef5d3106#ref=rss)
+### großbank
 
-* [https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media](https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media-a-60dfb0f0-bfb2-4aef-860b-af759e5a059b#ref=rss)
-### entrüstung
+* [https://www.spiegel.de/wirtschaft/ratingagenturen-stufen-ubs-herab-kritik-am-credit-suisse-kauf](https://www.spiegel.de/wirtschaft/ratingagenturen-stufen-ubs-herab-kritik-am-credit-suisse-kauf-a-0d4fdb72-4b04-4cec-ad23-aa9aef5d3106#ref=rss)
+### luisa
 
-* [https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media](https://www.spiegel.de/ausland/usa-alaska-willow-project-und-der-sturm-der-entruestung-bei-social-media-a-60dfb0f0-bfb2-4aef-860b-af759e5a059b#ref=rss)
-### grönemeyer
+* [https://www.spiegel.de/politik/deutschland/luisa-neubauer-klimaaktivistin-verlangt-ruecktritt-von-fdp-verkehrsminister-volker-wissing](https://www.spiegel.de/politik/deutschland/luisa-neubauer-klimaaktivistin-verlangt-ruecktritt-von-fdp-verkehrsminister-volker-wissing-a-8e21afb4-5a6e-4d7c-be5c-99761e133d28#ref=rss)
+### neubauer
 
-* [https://www.spiegel.de/kultur/das-ist-los-von-herbert-groenemeyer-wie-das-land-so-der-herbert](https://www.spiegel.de/kultur/das-ist-los-von-herbert-groenemeyer-wie-das-land-so-der-herbert-a-1fc039c1-c663-49f4-b957-f290a4a3ee60#ref=rss)
-### hessen
+* [https://www.spiegel.de/politik/deutschland/luisa-neubauer-klimaaktivistin-verlangt-ruecktritt-von-fdp-verkehrsminister-volker-wissing](https://www.spiegel.de/politik/deutschland/luisa-neubauer-klimaaktivistin-verlangt-ruecktritt-von-fdp-verkehrsminister-volker-wissing-a-8e21afb4-5a6e-4d7c-be5c-99761e133d28#ref=rss)
+### fdpverkehrsminister
 
-* [https://www.spiegel.de/panorama/justiz/a66-in-hessen-unbekannter-wirft-katze-auf-autobahn-aus-fahrendem-wagen](https://www.spiegel.de/panorama/justiz/a66-in-hessen-unbekannter-wirft-katze-auf-autobahn-aus-fahrendem-wagen-a-39f82bc2-b2d3-44df-b3b5-477caccfe768#ref=rss)
-### katze
+* [https://www.spiegel.de/politik/deutschland/luisa-neubauer-klimaaktivistin-verlangt-ruecktritt-von-fdp-verkehrsminister-volker-wissing](https://www.spiegel.de/politik/deutschland/luisa-neubauer-klimaaktivistin-verlangt-ruecktritt-von-fdp-verkehrsminister-volker-wissing-a-8e21afb4-5a6e-4d7c-be5c-99761e133d28#ref=rss)
+### volker
 
-* [https://www.spiegel.de/panorama/justiz/a66-in-hessen-unbekannter-wirft-katze-auf-autobahn-aus-fahrendem-wagen](https://www.spiegel.de/panorama/justiz/a66-in-hessen-unbekannter-wirft-katze-auf-autobahn-aus-fahrendem-wagen-a-39f82bc2-b2d3-44df-b3b5-477caccfe768#ref=rss)
-### degen
+* [https://www.spiegel.de/politik/deutschland/luisa-neubauer-klimaaktivistin-verlangt-ruecktritt-von-fdp-verkehrsminister-volker-wissing](https://www.spiegel.de/politik/deutschland/luisa-neubauer-klimaaktivistin-verlangt-ruecktritt-von-fdp-verkehrsminister-volker-wissing-a-8e21afb4-5a6e-4d7c-be5c-99761e133d28#ref=rss)
+### wissing
 
-* [https://www.spiegel.de/panorama/justiz/weiden-frau-attackierte-passanten-mit-degen-unterbringung-in-der-psychiatrie-angeordnet](https://www.spiegel.de/panorama/justiz/weiden-frau-attackierte-passanten-mit-degen-unterbringung-in-der-psychiatrie-angeordnet-a-e618ab28-9f36-47b0-90d7-4bda3ccba213#ref=rss)
-### laut
+* [https://www.spiegel.de/politik/deutschland/luisa-neubauer-klimaaktivistin-verlangt-ruecktritt-von-fdp-verkehrsminister-volker-wissing](https://www.spiegel.de/politik/deutschland/luisa-neubauer-klimaaktivistin-verlangt-ruecktritt-von-fdp-verkehrsminister-volker-wissing-a-8e21afb4-5a6e-4d7c-be5c-99761e133d28#ref=rss)
+### wolfgang
 
-* [https://www.spiegel.de/panorama/justiz/weiden-frau-attackierte-passanten-mit-degen-unterbringung-in-der-psychiatrie-angeordnet](https://www.spiegel.de/panorama/justiz/weiden-frau-attackierte-passanten-mit-degen-unterbringung-in-der-psychiatrie-angeordnet-a-e618ab28-9f36-47b0-90d7-4bda3ccba213#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/gas-notfallplan-eu-kommission-will-verlaengerung-durchsetzen](https://www.spiegel.de/wirtschaft/soziales/gas-notfallplan-eu-kommission-will-verlaengerung-durchsetzen-a-f6017cdb-7a5e-49b3-bcaa-662d653032d5#ref=rss)
-### durchsetzen
+* [https://www.spiegel.de/panorama/leute/wolfgang-porsche-reicht-scheidung-von-ehefrau-claudia-ein](https://www.spiegel.de/panorama/leute/wolfgang-porsche-reicht-scheidung-von-ehefrau-claudia-ein-a-e7be1be8-7b05-44ac-a93d-fff0795828ee#ref=rss)
+### porsche
 
-* [https://www.spiegel.de/wirtschaft/soziales/gas-notfallplan-eu-kommission-will-verlaengerung-durchsetzen](https://www.spiegel.de/wirtschaft/soziales/gas-notfallplan-eu-kommission-will-verlaengerung-durchsetzen-a-f6017cdb-7a5e-49b3-bcaa-662d653032d5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/ver-di-weitet-warnstreiks-am-dienstag-in-nordrhein-westfalen-massiv-aus](https://www.spiegel.de/wirtschaft/soziales/ver-di-weitet-warnstreiks-am-dienstag-in-nordrhein-westfalen-massiv-aus-a-cd80f2e8-a8f6-49fa-9099-66d18a68752c#ref=rss)
-### geplant
+* [https://www.spiegel.de/panorama/leute/wolfgang-porsche-reicht-scheidung-von-ehefrau-claudia-ein](https://www.spiegel.de/panorama/leute/wolfgang-porsche-reicht-scheidung-von-ehefrau-claudia-ein-a-e7be1be8-7b05-44ac-a93d-fff0795828ee#ref=rss)
+### ehefrau
 
-* [https://www.spiegel.de/wirtschaft/soziales/gas-notfallplan-eu-kommission-will-verlaengerung-durchsetzen](https://www.spiegel.de/wirtschaft/soziales/gas-notfallplan-eu-kommission-will-verlaengerung-durchsetzen-a-f6017cdb-7a5e-49b3-bcaa-662d653032d5#ref=rss)
-### amazon
+* [https://www.spiegel.de/panorama/leute/wolfgang-porsche-reicht-scheidung-von-ehefrau-claudia-ein](https://www.spiegel.de/panorama/leute/wolfgang-porsche-reicht-scheidung-von-ehefrau-claudia-ein-a-e7be1be8-7b05-44ac-a93d-fff0795828ee#ref=rss)
+### claudia
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-streicht-weitere-9000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/amazon-streicht-weitere-9000-stellen-a-6ea38633-28ab-449c-be45-1c369b06072d#ref=rss)
-### beschäftigte
+* [https://www.spiegel.de/panorama/leute/wolfgang-porsche-reicht-scheidung-von-ehefrau-claudia-ein](https://www.spiegel.de/panorama/leute/wolfgang-porsche-reicht-scheidung-von-ehefrau-claudia-ein-a-e7be1be8-7b05-44ac-a93d-fff0795828ee#ref=rss)
+### starkwatzinger
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/amazon-streicht-weitere-9000-stellen](https://www.spiegel.de/wirtschaft/unternehmen/amazon-streicht-weitere-9000-stellen-a-6ea38633-28ab-449c-be45-1c369b06072d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/ver-di-weitet-warnstreiks-am-dienstag-in-nordrhein-westfalen-massiv-aus](https://www.spiegel.de/wirtschaft/soziales/ver-di-weitet-warnstreiks-am-dienstag-in-nordrhein-westfalen-massiv-aus-a-cd80f2e8-a8f6-49fa-9099-66d18a68752c#ref=rss)
-### verdi
+* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china-a-7f0476eb-ddeb-4601-8443-586eb9530978#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/wirtschaft/soziales/ver-di-weitet-warnstreiks-am-dienstag-in-nordrhein-westfalen-massiv-aus](https://www.spiegel.de/wirtschaft/soziales/ver-di-weitet-warnstreiks-am-dienstag-in-nordrhein-westfalen-massiv-aus-a-cd80f2e8-a8f6-49fa-9099-66d18a68752c#ref=rss)
-### dienstag
+* [https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china](https://www.spiegel.de/politik/deutschland/bettina-stark-watzinger-deutsche-ministerin-in-taiwan-was-sagt-china-a-7f0476eb-ddeb-4601-8443-586eb9530978#ref=rss)
+### özdemir
 
-* [https://www.spiegel.de/wirtschaft/soziales/ver-di-weitet-warnstreiks-am-dienstag-in-nordrhein-westfalen-massiv-aus](https://www.spiegel.de/wirtschaft/soziales/ver-di-weitet-warnstreiks-am-dienstag-in-nordrhein-westfalen-massiv-aus-a-cd80f2e8-a8f6-49fa-9099-66d18a68752c#ref=rss)
-### nordrheinwestfalen
-
-* [https://www.spiegel.de/wirtschaft/soziales/ver-di-weitet-warnstreiks-am-dienstag-in-nordrhein-westfalen-massiv-aus](https://www.spiegel.de/wirtschaft/soziales/ver-di-weitet-warnstreiks-am-dienstag-in-nordrhein-westfalen-massiv-aus-a-cd80f2e8-a8f6-49fa-9099-66d18a68752c#ref=rss)
-### peer
-
-* [https://www.spiegel.de/politik/deutschland/peer-steinbrueck-zur-bankenkrise-da-bin-ich-fast-vom-stuhl-gefallen](https://www.spiegel.de/politik/deutschland/peer-steinbrueck-zur-bankenkrise-da-bin-ich-fast-vom-stuhl-gefallen-a-2ae41aef-ce22-4f10-b99b-7e0cb24ecba9#ref=rss)
-### steinbrück
-
-* [https://www.spiegel.de/politik/deutschland/peer-steinbrueck-zur-bankenkrise-da-bin-ich-fast-vom-stuhl-gefallen](https://www.spiegel.de/politik/deutschland/peer-steinbrueck-zur-bankenkrise-da-bin-ich-fast-vom-stuhl-gefallen-a-2ae41aef-ce22-4f10-b99b-7e0cb24ecba9#ref=rss)
-### bankenkrise
-
-* [https://www.spiegel.de/politik/deutschland/peer-steinbrueck-zur-bankenkrise-da-bin-ich-fast-vom-stuhl-gefallen](https://www.spiegel.de/politik/deutschland/peer-steinbrueck-zur-bankenkrise-da-bin-ich-fast-vom-stuhl-gefallen-a-2ae41aef-ce22-4f10-b99b-7e0cb24ecba9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/mercosur-scheinheilig-und-neokolonial-greenpeace-greift-cem-oezdemir-an](https://www.spiegel.de/politik/deutschland/mercosur-scheinheilig-und-neokolonial-greenpeace-greift-cem-oezdemir-an-a-2c4169d7-fe6e-47a1-891d-435618b28597#ref=rss)
 
