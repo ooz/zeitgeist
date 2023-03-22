@@ -4,309 +4,315 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### putin
+### zwei
 
-* [https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera](https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera-a-124c5d8e-0b00-450d-93ff-7b374467852d#ref=rss)
-* [https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine](https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine-a-a53e4408-067a-4f01-8eca-56d1860cedbf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zieht-parallelen-zwischen-robert-habeck-und-wladimir-putin](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zieht-parallelen-zwischen-robert-habeck-und-wladimir-putin-a-e4d0f8d5-f8b9-43e6-9d95-b5b9c1b35919#ref=rss)
-### xi
-
-* [https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera](https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera-a-124c5d8e-0b00-450d-93ff-7b374467852d#ref=rss)
-* [https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine](https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine-a-a53e4408-067a-4f01-8eca-56d1860cedbf#ref=rss)
-* [https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an](https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an-a-af7013ea-a4cd-400b-baae-4be785dbd2c2#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera](https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera-a-124c5d8e-0b00-450d-93ff-7b374467852d#ref=rss)
-* [https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine](https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine-a-a53e4408-067a-4f01-8eca-56d1860cedbf#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zieht-parallelen-zwischen-robert-habeck-und-wladimir-putin](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zieht-parallelen-zwischen-robert-habeck-und-wladimir-putin-a-e4d0f8d5-f8b9-43e6-9d95-b5b9c1b35919#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/reise/europa/skytrax-ranking-2023-hier-fuehlen-sich-die-reisenden-am-wohlsten](https://www.spiegel.de/reise/europa/skytrax-ranking-2023-hier-fuehlen-sich-die-reisenden-am-wohlsten-a-141f1772-6a46-40b1-bb82-01c53edf7a29#ref=rss)
-* [https://www.spiegel.de/karriere/studie-zum-deutschen-arbeitsmarkt-nur-ein-viertel-ist-mit-dem-chef-zufrieden](https://www.spiegel.de/karriere/studie-zum-deutschen-arbeitsmarkt-nur-ein-viertel-ist-mit-dem-chef-zufrieden-a-aba700ad-06ca-48af-a38d-dab7df4ac6d9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/uno-wasserkonferenz-wasserknappheit-bedroht-zehn-prozent-der-menschheit](https://www.spiegel.de/wirtschaft/uno-wasserkonferenz-wasserknappheit-bedroht-zehn-prozent-der-menschheit-a-638cfa96-c08a-4ed3-a0cf-e8d00a6554e0#ref=rss)
-* [https://www.spiegel.de/kultur/zeit-der-schuld-von-deepti-kapoor-zwischen-wellblechhuetten-und-penthaeusern](https://www.spiegel.de/kultur/zeit-der-schuld-von-deepti-kapoor-zwischen-wellblechhuetten-und-penthaeusern-a-42818078-2f67-40ee-be4a-3f59d978bae5#ref=rss)
+* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/virginia-gefaengnisausbrecher-gehen-pfannkuchen-essen](https://www.spiegel.de/panorama/justiz/virginia-gefaengnisausbrecher-gehen-pfannkuchen-essen-a-e4999ad1-cad9-45b0-8903-144709c2726e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gamestop-aktien-gewinnen-deutlich-um-mehr-als-40-prozent](https://www.spiegel.de/wirtschaft/unternehmen/gamestop-aktien-gewinnen-deutlich-um-mehr-als-40-prozent-a-75d527c5-4b50-4633-8eea-bc63bbee545d#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt](https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt-a-68dedccb-7ade-4cd0-8904-c64c9a44696d#ref=rss)
 ### robert
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zieht-parallelen-zwischen-robert-habeck-und-wladimir-putin](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zieht-parallelen-zwischen-robert-habeck-und-wladimir-putin-a-e4d0f8d5-f8b9-43e6-9d95-b5b9c1b35919#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-banken-donald-trump-robert-habeck-windkraft](https://www.spiegel.de/politik/deutschland/news-banken-donald-trump-robert-habeck-windkraft-a-278c33dc-e832-44c0-845c-bb377498c3e7#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
 ### habeck
 
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zieht-parallelen-zwischen-robert-habeck-und-wladimir-putin](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zieht-parallelen-zwischen-robert-habeck-und-wladimir-putin-a-e4d0f8d5-f8b9-43e6-9d95-b5b9c1b35919#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-banken-donald-trump-robert-habeck-windkraft](https://www.spiegel.de/politik/deutschland/news-banken-donald-trump-robert-habeck-windkraft-a-278c33dc-e832-44c0-845c-bb377498c3e7#ref=rss)
-### prozent
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
+### männer
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023](https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023-a-2575e7e3-0503-46ba-aec3-fb98f23cb592#ref=rss)
-* [https://www.spiegel.de/wirtschaft/uno-wasserkonferenz-wasserknappheit-bedroht-zehn-prozent-der-menschheit](https://www.spiegel.de/wirtschaft/uno-wasserkonferenz-wasserknappheit-bedroht-zehn-prozent-der-menschheit-a-638cfa96-c08a-4ed3-a0cf-e8d00a6554e0#ref=rss)
-### macht
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
+### mehrheit
 
-* [https://www.spiegel.de/sport/owen-wright-beendet-karriere-und-will-bewusstsein-fuer-schaedelverletzungen-im-surfen-schaffen](https://www.spiegel.de/sport/owen-wright-beendet-karriere-und-will-bewusstsein-fuer-schaedelverletzungen-im-surfen-schaffen-a-3cd96f7d-1660-4329-a463-0ea6eed8c78e#ref=rss)
-* [https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine](https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine-a-a53e4408-067a-4f01-8eca-56d1860cedbf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/credit-suisse-das-ende-der-zuerich-mafia](https://www.spiegel.de/wirtschaft/credit-suisse-das-ende-der-zuerich-mafia-a-749b96b6-7305-46e7-b1c1-daf8bd3a77b9#ref=rss)
-### jinping
+* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
+* [https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren](https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren-a-9828c2f0-0851-449a-98cc-94b85e208598#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
+### drei
 
-* [https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera](https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera-a-124c5d8e-0b00-450d-93ff-7b374467852d#ref=rss)
-* [https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine](https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine-a-a53e4408-067a-4f01-8eca-56d1860cedbf#ref=rss)
-* [https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an](https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an-a-af7013ea-a4cd-400b-baae-4be785dbd2c2#ref=rss)
-### chinas
+* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt](https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt-a-68dedccb-7ade-4cd0-8904-c64c9a44696d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht-a-5dff9308-37c2-45af-a4ac-3ffbe1779a7d#ref=rss)
+### ampel
 
-* [https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera](https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera-a-124c5d8e-0b00-450d-93ff-7b374467852d#ref=rss)
-* [https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine](https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine-a-a53e4408-067a-4f01-8eca-56d1860cedbf#ref=rss)
-* [https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an](https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an-a-af7013ea-a4cd-400b-baae-4be785dbd2c2#ref=rss)
+* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
+### essen
+
+* [https://www.spiegel.de/panorama/justiz/virginia-gefaengnisausbrecher-gehen-pfannkuchen-essen](https://www.spiegel.de/panorama/justiz/virginia-gefaengnisausbrecher-gehen-pfannkuchen-essen-a-e4999ad1-cad9-45b0-8903-144709c2726e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn](https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn-a-db5c007d-d367-4fbc-b64c-81075a351c95#ref=rss)
 ### russland
 
-* [https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera](https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera-a-124c5d8e-0b00-450d-93ff-7b374467852d#ref=rss)
-* [https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine](https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine-a-a53e4408-067a-4f01-8eca-56d1860cedbf#ref=rss)
-* [https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an](https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an-a-af7013ea-a4cd-400b-baae-4be785dbd2c2#ref=rss)
-### ukraine
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar](https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar-a-dbe606ab-9cff-4fa5-981c-731ed1c2f4a2#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
+### bringt
 
-* [https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine](https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine-a-a53e4408-067a-4f01-8eca-56d1860cedbf#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russischer-angriff-auf-bachmut-koennte-laut-britischem-geheimdienst-schwung-verlieren](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russischer-angriff-auf-bachmut-koennte-laut-britischem-geheimdienst-schwung-verlieren-a-795acf2a-ae22-40dd-a024-f2d8ca41e361#ref=rss)
-* [https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an](https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an-a-af7013ea-a4cd-400b-baae-4be785dbd2c2#ref=rss)
-### 2023
+* [https://www.spiegel.de/netzwelt/gadgets/amazon-bringt-fire-tvs-nach-deutschland](https://www.spiegel.de/netzwelt/gadgets/amazon-bringt-fire-tvs-nach-deutschland-a-913eec9c-2a78-46ba-ba42-69bbc7bf1c15#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
+### grüne
 
-* [https://www.spiegel.de/reise/europa/skytrax-ranking-2023-hier-fuehlen-sich-die-reisenden-am-wohlsten](https://www.spiegel.de/reise/europa/skytrax-ranking-2023-hier-fuehlen-sich-die-reisenden-am-wohlsten-a-141f1772-6a46-40b1-bb82-01c53edf7a29#ref=rss)
-* [https://www.spiegel.de/kultur/tv/esc-peter-urban-kommentiert-2023-letztmals-den-eurovision-song-contest](https://www.spiegel.de/kultur/tv/esc-peter-urban-kommentiert-2023-letztmals-den-eurovision-song-contest-a-31d24102-4097-434e-985d-582632124d6e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023](https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023-a-2575e7e3-0503-46ba-aec3-fb98f23cb592#ref=rss)
-### zeit
-
-* [https://www.spiegel.de/politik/deutschland/belit-onay-hannovers-oberbuergermeister-geht-im-sommer-in-elternzeit](https://www.spiegel.de/politik/deutschland/belit-onay-hannovers-oberbuergermeister-geht-im-sommer-in-elternzeit-a-22bdc338-71af-4cf9-98fe-5b5b784ce8f8#ref=rss)
-* [https://www.spiegel.de/kultur/zeit-der-schuld-von-deepti-kapoor-zwischen-wellblechhuetten-und-penthaeusern](https://www.spiegel.de/kultur/zeit-der-schuld-von-deepti-kapoor-zwischen-wellblechhuetten-und-penthaeusern-a-42818078-2f67-40ee-be4a-3f59d978bae5#ref=rss)
-### schuld
-
-* [https://www.spiegel.de/kultur/zeit-der-schuld-von-deepti-kapoor-zwischen-wellblechhuetten-und-penthaeusern](https://www.spiegel.de/kultur/zeit-der-schuld-von-deepti-kapoor-zwischen-wellblechhuetten-und-penthaeusern-a-42818078-2f67-40ee-be4a-3f59d978bae5#ref=rss)
-* [https://www.spiegel.de/wirtschaft/credit-suisse-das-ende-der-zuerich-mafia](https://www.spiegel.de/wirtschaft/credit-suisse-das-ende-der-zuerich-mafia-a-749b96b6-7305-46e7-b1c1-daf8bd3a77b9#ref=rss)
-### owen
-
-* [https://www.spiegel.de/sport/owen-wright-beendet-karriere-und-will-bewusstsein-fuer-schaedelverletzungen-im-surfen-schaffen](https://www.spiegel.de/sport/owen-wright-beendet-karriere-und-will-bewusstsein-fuer-schaedelverletzungen-im-surfen-schaffen-a-3cd96f7d-1660-4329-a463-0ea6eed8c78e#ref=rss)
-### wright
-
-* [https://www.spiegel.de/sport/owen-wright-beendet-karriere-und-will-bewusstsein-fuer-schaedelverletzungen-im-surfen-schaffen](https://www.spiegel.de/sport/owen-wright-beendet-karriere-und-will-bewusstsein-fuer-schaedelverletzungen-im-surfen-schaffen-a-3cd96f7d-1660-4329-a463-0ea6eed8c78e#ref=rss)
-### schluss
-
-* [https://www.spiegel.de/sport/owen-wright-beendet-karriere-und-will-bewusstsein-fuer-schaedelverletzungen-im-surfen-schaffen](https://www.spiegel.de/sport/owen-wright-beendet-karriere-und-will-bewusstsein-fuer-schaedelverletzungen-im-surfen-schaffen-a-3cd96f7d-1660-4329-a463-0ea6eed8c78e#ref=rss)
-* [https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera](https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera-a-124c5d8e-0b00-450d-93ff-7b374467852d#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera](https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera-a-124c5d8e-0b00-450d-93ff-7b374467852d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023](https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023-a-2575e7e3-0503-46ba-aec3-fb98f23cb592#ref=rss)
-### seines
-
-* [https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera](https://www.spiegel.de/ausland/strategische-partnerschaft-in-der-neuen-aera-a-124c5d8e-0b00-450d-93ff-7b374467852d#ref=rss)
-* [https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine](https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine-a-a53e4408-067a-4f01-8eca-56d1860cedbf#ref=rss)
-### besuch
-
-* [https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine](https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine-a-a53e4408-067a-4f01-8eca-56d1860cedbf#ref=rss)
-* [https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an](https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an-a-af7013ea-a4cd-400b-baae-4be785dbd2c2#ref=rss)
-### allem
-
-* [https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine](https://www.spiegel.de/ausland/xi-jinping-besucht-wladimir-putin-pomp-fuer-den-lieben-freund-aber-kein-friedenssignal-fuer-die-ukraine-a-a53e4408-067a-4f01-8eca-56d1860cedbf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-in-grossbritannien-steigt-wieder](https://www.spiegel.de/wirtschaft/inflation-in-grossbritannien-steigt-wieder-a-58c4f80e-3395-487e-8341-c61aab005686#ref=rss)
-### ramelow
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-bodo-ramelow-trauert-um-verstorbenen-promi-hund-attila](https://www.spiegel.de/politik/deutschland/thueringen-bodo-ramelow-trauert-um-verstorbenen-promi-hund-attila-a-7b1364f5-785b-409e-b8c4-11a20754ea52#ref=rss)
-### attila
-
-* [https://www.spiegel.de/politik/deutschland/thueringen-bodo-ramelow-trauert-um-verstorbenen-promi-hund-attila](https://www.spiegel.de/politik/deutschland/thueringen-bodo-ramelow-trauert-um-verstorbenen-promi-hund-attila-a-7b1364f5-785b-409e-b8c4-11a20754ea52#ref=rss)
-### münster
-
-* [https://www.spiegel.de/panorama/muenster-toedlicher-messerangriff-auf-kirmes-21-jaehriger-stellt-sich](https://www.spiegel.de/panorama/muenster-toedlicher-messerangriff-auf-kirmes-21-jaehriger-stellt-sich-a-83a26bdb-888d-4d09-8e0d-44b0b308f7c9#ref=rss)
-### messerangriff
-
-* [https://www.spiegel.de/panorama/muenster-toedlicher-messerangriff-auf-kirmes-21-jaehriger-stellt-sich](https://www.spiegel.de/panorama/muenster-toedlicher-messerangriff-auf-kirmes-21-jaehriger-stellt-sich-a-83a26bdb-888d-4d09-8e0d-44b0b308f7c9#ref=rss)
-### kirmes
-
-* [https://www.spiegel.de/panorama/muenster-toedlicher-messerangriff-auf-kirmes-21-jaehriger-stellt-sich](https://www.spiegel.de/panorama/muenster-toedlicher-messerangriff-auf-kirmes-21-jaehriger-stellt-sich-a-83a26bdb-888d-4d09-8e0d-44b0b308f7c9#ref=rss)
-### stellt
-
-* [https://www.spiegel.de/panorama/muenster-toedlicher-messerangriff-auf-kirmes-21-jaehriger-stellt-sich](https://www.spiegel.de/panorama/muenster-toedlicher-messerangriff-auf-kirmes-21-jaehriger-stellt-sich-a-83a26bdb-888d-4d09-8e0d-44b0b308f7c9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbraucherschutz-eu-kommission-stellt-gesetz-gegen-greenwashing-vor](https://www.spiegel.de/wirtschaft/verbraucherschutz-eu-kommission-stellt-gesetz-gegen-greenwashing-vor-a-8e9c9268-f6ac-43f2-8d5d-bd8cd5d58607#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/muenster-toedlicher-messerangriff-auf-kirmes-21-jaehriger-stellt-sich](https://www.spiegel.de/panorama/muenster-toedlicher-messerangriff-auf-kirmes-21-jaehriger-stellt-sich-a-83a26bdb-888d-4d09-8e0d-44b0b308f7c9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/staatliche-unterstuetzung-fuer-first-republic-im-gespraech](https://www.spiegel.de/wirtschaft/staatliche-unterstuetzung-fuer-first-republic-im-gespraech-a-fabebf67-dfd6-4eaf-9861-dfee506dd30c#ref=rss)
-### tekashi
-
-* [https://www.spiegel.de/panorama/leute/florida-us-rapper-tekashi-6ix9ine-in-fitnessstudio-angegriffen](https://www.spiegel.de/panorama/leute/florida-us-rapper-tekashi-6ix9ine-in-fitnessstudio-angegriffen-a-6725c4ca-69e4-4886-a6b7-45a6778d139f#ref=rss)
-### 6ix9ine
-
-* [https://www.spiegel.de/panorama/leute/florida-us-rapper-tekashi-6ix9ine-in-fitnessstudio-angegriffen](https://www.spiegel.de/panorama/leute/florida-us-rapper-tekashi-6ix9ine-in-fitnessstudio-angegriffen-a-6725c4ca-69e4-4886-a6b7-45a6778d139f#ref=rss)
-### fitnessstudio
-
-* [https://www.spiegel.de/panorama/leute/florida-us-rapper-tekashi-6ix9ine-in-fitnessstudio-angegriffen](https://www.spiegel.de/panorama/leute/florida-us-rapper-tekashi-6ix9ine-in-fitnessstudio-angegriffen-a-6725c4ca-69e4-4886-a6b7-45a6778d139f#ref=rss)
-### welt
-
-* [https://www.spiegel.de/reise/europa/skytrax-ranking-2023-hier-fuehlen-sich-die-reisenden-am-wohlsten](https://www.spiegel.de/reise/europa/skytrax-ranking-2023-hier-fuehlen-sich-die-reisenden-am-wohlsten-a-141f1772-6a46-40b1-bb82-01c53edf7a29#ref=rss)
-* [https://www.spiegel.de/wirtschaft/uno-wasserkonferenz-wasserknappheit-bedroht-zehn-prozent-der-menschheit](https://www.spiegel.de/wirtschaft/uno-wasserkonferenz-wasserknappheit-bedroht-zehn-prozent-der-menschheit-a-638cfa96-c08a-4ed3-a0cf-e8d00a6554e0#ref=rss)
-### esc
-
-* [https://www.spiegel.de/kultur/tv/esc-peter-urban-kommentiert-2023-letztmals-den-eurovision-song-contest](https://www.spiegel.de/kultur/tv/esc-peter-urban-kommentiert-2023-letztmals-den-eurovision-song-contest-a-31d24102-4097-434e-985d-582632124d6e#ref=rss)
-### peter
-
-* [https://www.spiegel.de/kultur/tv/esc-peter-urban-kommentiert-2023-letztmals-den-eurovision-song-contest](https://www.spiegel.de/kultur/tv/esc-peter-urban-kommentiert-2023-letztmals-den-eurovision-song-contest-a-31d24102-4097-434e-985d-582632124d6e#ref=rss)
-### eurovision
-
-* [https://www.spiegel.de/kultur/tv/esc-peter-urban-kommentiert-2023-letztmals-den-eurovision-song-contest](https://www.spiegel.de/kultur/tv/esc-peter-urban-kommentiert-2023-letztmals-den-eurovision-song-contest-a-31d24102-4097-434e-985d-582632124d6e#ref=rss)
-### song
-
-* [https://www.spiegel.de/kultur/tv/esc-peter-urban-kommentiert-2023-letztmals-den-eurovision-song-contest](https://www.spiegel.de/kultur/tv/esc-peter-urban-kommentiert-2023-letztmals-den-eurovision-song-contest-a-31d24102-4097-434e-985d-582632124d6e#ref=rss)
-### contest
-
-* [https://www.spiegel.de/kultur/tv/esc-peter-urban-kommentiert-2023-letztmals-den-eurovision-song-contest](https://www.spiegel.de/kultur/tv/esc-peter-urban-kommentiert-2023-letztmals-den-eurovision-song-contest-a-31d24102-4097-434e-985d-582632124d6e#ref=rss)
-### kubicki
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zieht-parallelen-zwischen-robert-habeck-und-wladimir-putin](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zieht-parallelen-zwischen-robert-habeck-und-wladimir-putin-a-e4d0f8d5-f8b9-43e6-9d95-b5b9c1b35919#ref=rss)
-### grünen
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zieht-parallelen-zwischen-robert-habeck-und-wladimir-putin](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-zieht-parallelen-zwischen-robert-habeck-und-wladimir-putin-a-e4d0f8d5-f8b9-43e6-9d95-b5b9c1b35919#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/prozess-um-einbruch-ins-gruene-gewoelbe-ach-remmo-du-bist-immer-unschuldig](https://www.spiegel.de/panorama/justiz/prozess-um-einbruch-ins-gruene-gewoelbe-ach-remmo-du-bist-immer-unschuldig-a-85f71404-e888-4e1b-8763-bfaa3e756ddf#ref=rss)
-### oberbürgermeister
-
-* [https://www.spiegel.de/politik/deutschland/belit-onay-hannovers-oberbuergermeister-geht-im-sommer-in-elternzeit](https://www.spiegel.de/politik/deutschland/belit-onay-hannovers-oberbuergermeister-geht-im-sommer-in-elternzeit-a-22bdc338-71af-4cf9-98fe-5b5b784ce8f8#ref=rss)
-### belit
-
-* [https://www.spiegel.de/politik/deutschland/belit-onay-hannovers-oberbuergermeister-geht-im-sommer-in-elternzeit](https://www.spiegel.de/politik/deutschland/belit-onay-hannovers-oberbuergermeister-geht-im-sommer-in-elternzeit-a-22bdc338-71af-4cf9-98fe-5b5b784ce8f8#ref=rss)
-### onay
-
-* [https://www.spiegel.de/politik/deutschland/belit-onay-hannovers-oberbuergermeister-geht-im-sommer-in-elternzeit](https://www.spiegel.de/politik/deutschland/belit-onay-hannovers-oberbuergermeister-geht-im-sommer-in-elternzeit-a-22bdc338-71af-4cf9-98fe-5b5b784ce8f8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/politik/deutschland/belit-onay-hannovers-oberbuergermeister-geht-im-sommer-in-elternzeit](https://www.spiegel.de/politik/deutschland/belit-onay-hannovers-oberbuergermeister-geht-im-sommer-in-elternzeit-a-22bdc338-71af-4cf9-98fe-5b5b784ce8f8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/verbraucherschutz-eu-kommission-stellt-gesetz-gegen-greenwashing-vor](https://www.spiegel.de/wirtschaft/verbraucherschutz-eu-kommission-stellt-gesetz-gegen-greenwashing-vor-a-8e9c9268-f6ac-43f2-8d5d-bd8cd5d58607#ref=rss)
-### andere
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gamestop-aktien-gewinnen-deutlich-um-mehr-als-40-prozent](https://www.spiegel.de/wirtschaft/unternehmen/gamestop-aktien-gewinnen-deutlich-um-mehr-als-40-prozent-a-75d527c5-4b50-4633-8eea-bc63bbee545d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn](https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn-a-db5c007d-d367-4fbc-b64c-81075a351c95#ref=rss)
+### parlament
 
-* [https://www.spiegel.de/politik/deutschland/belit-onay-hannovers-oberbuergermeister-geht-im-sommer-in-elternzeit](https://www.spiegel.de/politik/deutschland/belit-onay-hannovers-oberbuergermeister-geht-im-sommer-in-elternzeit-a-22bdc338-71af-4cf9-98fe-5b5b784ce8f8#ref=rss)
-* [https://www.spiegel.de/gesundheit/kommunikation-zwischen-arzt-und-patient-wie-sie-besser-werden-kann](https://www.spiegel.de/gesundheit/kommunikation-zwischen-arzt-und-patient-wie-sie-besser-werden-kann-a-d2718dab-971e-4394-b25a-20833f1ee2e0#ref=rss)
-### usa
+* [https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren](https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren-a-9828c2f0-0851-449a-98cc-94b85e208598#ref=rss)
+* [https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit](https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit-a-c2879d1b-486f-4c4a-b45b-3901a4598eda#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russischer-angriff-auf-bachmut-koennte-laut-britischem-geheimdienst-schwung-verlieren](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russischer-angriff-auf-bachmut-koennte-laut-britischem-geheimdienst-schwung-verlieren-a-795acf2a-ae22-40dd-a024-f2d8ca41e361#ref=rss)
-* [https://www.spiegel.de/wirtschaft/staatliche-unterstuetzung-fuer-first-republic-im-gespraech](https://www.spiegel.de/wirtschaft/staatliche-unterstuetzung-fuer-first-republic-im-gespraech-a-fabebf67-dfd6-4eaf-9861-dfee506dd30c#ref=rss)
-### slowakei
+* [https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt](https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt-a-68dedccb-7ade-4cd0-8904-c64c9a44696d#ref=rss)
+* [https://www.spiegel.de/panorama/edinburgh-schiff-liegt-schraeg-im-dock-25-verletzte](https://www.spiegel.de/panorama/edinburgh-schiff-liegt-schraeg-im-dock-25-verletzte-a-7c1b4968-6dea-4cdc-9b0c-fc4650166f6f#ref=rss)
+* [https://www.spiegel.de/panorama/one-vanderbilt-in-new-york-wolkenkratzer-schwankt-ein-externer-lift-war-schuld](https://www.spiegel.de/panorama/one-vanderbilt-in-new-york-wolkenkratzer-schwankt-ein-externer-lift-war-schuld-a-4842cd8b-e613-4cd4-929d-fb190133c7b8#ref=rss)
+### europapolitik
 
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russischer-angriff-auf-bachmut-koennte-laut-britischem-geheimdienst-schwung-verlieren](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russischer-angriff-auf-bachmut-koennte-laut-britischem-geheimdienst-schwung-verlieren-a-795acf2a-ae22-40dd-a024-f2d8ca41e361#ref=rss)
-### news
+* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
+### viertel
 
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-russischer-angriff-auf-bachmut-koennte-laut-britischem-geheimdienst-schwung-verlieren](https://www.spiegel.de/ausland/ukraine-russland-news-heute-russischer-angriff-auf-bachmut-koennte-laut-britischem-geheimdienst-schwung-verlieren-a-795acf2a-ae22-40dd-a024-f2d8ca41e361#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-banken-donald-trump-robert-habeck-windkraft](https://www.spiegel.de/politik/deutschland/news-banken-donald-trump-robert-habeck-windkraft-a-278c33dc-e832-44c0-845c-bb377498c3e7#ref=rss)
-### 02
-
-* [https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023](https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023-a-2575e7e3-0503-46ba-aec3-fb98f23cb592#ref=rss)
-### jahr
-
-* [https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023](https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023-a-2575e7e3-0503-46ba-aec3-fb98f23cb592#ref=rss)
-* [https://www.spiegel.de/wirtschaft/uno-wasserkonferenz-wasserknappheit-bedroht-zehn-prozent-der-menschheit](https://www.spiegel.de/wirtschaft/uno-wasserkonferenz-wasserknappheit-bedroht-zehn-prozent-der-menschheit-a-638cfa96-c08a-4ed3-a0cf-e8d00a6554e0#ref=rss)
+* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023](https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023-a-2575e7e3-0503-46ba-aec3-fb98f23cb592#ref=rss)
-* [https://www.spiegel.de/karriere/studie-zum-deutschen-arbeitsmarkt-nur-ein-viertel-ist-mit-dem-chef-zufrieden](https://www.spiegel.de/karriere/studie-zum-deutschen-arbeitsmarkt-nur-ein-viertel-ist-mit-dem-chef-zufrieden-a-aba700ad-06ca-48af-a38d-dab7df4ac6d9#ref=rss)
-### inflation
+* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
+### finden
 
-* [https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023](https://www.spiegel.de/wirtschaft/wirtschaftsweise-wirtschaftswachstum-von-0-2-prozent-fuer-2023-a-2575e7e3-0503-46ba-aec3-fb98f23cb592#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-in-grossbritannien-steigt-wieder](https://www.spiegel.de/wirtschaft/inflation-in-grossbritannien-steigt-wieder-a-58c4f80e-3395-487e-8341-c61aab005686#ref=rss)
-### polizist
+* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
+### hinter
 
-* [https://www.spiegel.de/politik/deutschland/generalbundesanwalt-polizist-bei-reichsbuerger-razzia-angeschossen](https://www.spiegel.de/politik/deutschland/generalbundesanwalt-polizist-bei-reichsbuerger-razzia-angeschossen-a-f61c2303-a77f-445c-81a9-df8add585515#ref=rss)
-* [https://www.spiegel.de/panorama/belgien-psychiatriepatient-bei-polizeieinsatz-erschossen](https://www.spiegel.de/panorama/belgien-psychiatriepatient-bei-polizeieinsatz-erschossen-a-47d7b9bc-6f75-49c5-893b-14706d64db03#ref=rss)
-### großbritannien
+* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
+### eigenen
 
-* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-will-gegen-nordirland-vereinbarung-mit-der-eu-stimmen](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-will-gegen-nordirland-vereinbarung-mit-der-eu-stimmen-a-fd328ceb-5fe6-4208-9895-e6319dde5c0a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/inflation-in-grossbritannien-steigt-wieder](https://www.spiegel.de/wirtschaft/inflation-in-grossbritannien-steigt-wieder-a-58c4f80e-3395-487e-8341-c61aab005686#ref=rss)
-### boris
+* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
+* [https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit](https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit-a-c2879d1b-486f-4c4a-b45b-3901a4598eda#ref=rss)
+### selbst
 
-* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-will-gegen-nordirland-vereinbarung-mit-der-eu-stimmen](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-will-gegen-nordirland-vereinbarung-mit-der-eu-stimmen-a-fd328ceb-5fe6-4208-9895-e6319dde5c0a#ref=rss)
-### johnson
+* [https://www.spiegel.de/panorama/justiz/virginia-gefaengnisausbrecher-gehen-pfannkuchen-essen](https://www.spiegel.de/panorama/justiz/virginia-gefaengnisausbrecher-gehen-pfannkuchen-essen-a-e4999ad1-cad9-45b0-8903-144709c2726e#ref=rss)
+* [https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter](https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter-a-796d88c1-1649-475c-9cf1-c3f1eaff512e#ref=rss)
+### friedensverhandlungen
 
-* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-will-gegen-nordirland-vereinbarung-mit-der-eu-stimmen](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-will-gegen-nordirland-vereinbarung-mit-der-eu-stimmen-a-fd328ceb-5fe6-4208-9895-e6319dde5c0a#ref=rss)
-### eu
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar](https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar-a-dbe606ab-9cff-4fa5-981c-731ed1c2f4a2#ref=rss)
+### chance
 
-* [https://www.spiegel.de/ausland/grossbritannien-boris-johnson-will-gegen-nordirland-vereinbarung-mit-der-eu-stimmen](https://www.spiegel.de/ausland/grossbritannien-boris-johnson-will-gegen-nordirland-vereinbarung-mit-der-eu-stimmen-a-fd328ceb-5fe6-4208-9895-e6319dde5c0a#ref=rss)
-### steigt
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar](https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar-a-dbe606ab-9cff-4fa5-981c-731ed1c2f4a2#ref=rss)
+### putin
 
-* [https://www.spiegel.de/wirtschaft/inflation-in-grossbritannien-steigt-wieder](https://www.spiegel.de/wirtschaft/inflation-in-grossbritannien-steigt-wieder-a-58c4f80e-3395-487e-8341-c61aab005686#ref=rss)
-* [https://www.spiegel.de/wirtschaft/uno-wasserkonferenz-wasserknappheit-bedroht-zehn-prozent-der-menschheit](https://www.spiegel.de/wirtschaft/uno-wasserkonferenz-wasserknappheit-bedroht-zehn-prozent-der-menschheit-a-638cfa96-c08a-4ed3-a0cf-e8d00a6554e0#ref=rss)
-### spitze
+* [https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar](https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar-a-dbe606ab-9cff-4fa5-981c-731ed1c2f4a2#ref=rss)
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
+### kalifornien
 
-* [https://www.spiegel.de/wirtschaft/inflation-in-grossbritannien-steigt-wieder](https://www.spiegel.de/wirtschaft/inflation-in-grossbritannien-steigt-wieder-a-58c4f80e-3395-487e-8341-c61aab005686#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-ist-der-fc-bayern-muenchen-nach-dem-sieg-gegen-arsenal-wfc-bereit-fuer-europas-spitze](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-ist-der-fc-bayern-muenchen-nach-dem-sieg-gegen-arsenal-wfc-bereit-fuer-europas-spitze-a-81494032-5751-453b-8086-4c4dc83c85a3#ref=rss)
-### fc
+* [https://www.spiegel.de/ausland/ueberschwemmungen-in-kalifornien-dauersturm-dauerflut](https://www.spiegel.de/ausland/ueberschwemmungen-in-kalifornien-dauersturm-dauerflut-a-e817ac58-0922-4d08-9271-fbea54899a0a#ref=rss)
+### amazon
 
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-ist-der-fc-bayern-muenchen-nach-dem-sieg-gegen-arsenal-wfc-bereit-fuer-europas-spitze](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-ist-der-fc-bayern-muenchen-nach-dem-sieg-gegen-arsenal-wfc-bereit-fuer-europas-spitze-a-81494032-5751-453b-8086-4c4dc83c85a3#ref=rss)
-### bayern
+* [https://www.spiegel.de/netzwelt/gadgets/amazon-bringt-fire-tvs-nach-deutschland](https://www.spiegel.de/netzwelt/gadgets/amazon-bringt-fire-tvs-nach-deutschland-a-913eec9c-2a78-46ba-ba42-69bbc7bf1c15#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-ist-der-fc-bayern-muenchen-nach-dem-sieg-gegen-arsenal-wfc-bereit-fuer-europas-spitze](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-ist-der-fc-bayern-muenchen-nach-dem-sieg-gegen-arsenal-wfc-bereit-fuer-europas-spitze-a-81494032-5751-453b-8086-4c4dc83c85a3#ref=rss)
-### münchen
+* [https://www.spiegel.de/netzwelt/gadgets/amazon-bringt-fire-tvs-nach-deutschland](https://www.spiegel.de/netzwelt/gadgets/amazon-bringt-fire-tvs-nach-deutschland-a-913eec9c-2a78-46ba-ba42-69bbc7bf1c15#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
+### spd
 
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-ist-der-fc-bayern-muenchen-nach-dem-sieg-gegen-arsenal-wfc-bereit-fuer-europas-spitze](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-ist-der-fc-bayern-muenchen-nach-dem-sieg-gegen-arsenal-wfc-bereit-fuer-europas-spitze-a-81494032-5751-453b-8086-4c4dc83c85a3#ref=rss)
-### besser
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
+### fdp
 
-* [https://www.spiegel.de/sport/fussball/champions-league-der-frauen-ist-der-fc-bayern-muenchen-nach-dem-sieg-gegen-arsenal-wfc-bereit-fuer-europas-spitze](https://www.spiegel.de/sport/fussball/champions-league-der-frauen-ist-der-fc-bayern-muenchen-nach-dem-sieg-gegen-arsenal-wfc-bereit-fuer-europas-spitze-a-81494032-5751-453b-8086-4c4dc83c85a3#ref=rss)
-* [https://www.spiegel.de/gesundheit/kommunikation-zwischen-arzt-und-patient-wie-sie-besser-werden-kann](https://www.spiegel.de/gesundheit/kommunikation-zwischen-arzt-und-patient-wie-sie-besser-werden-kann-a-d2718dab-971e-4394-b25a-20833f1ee2e0#ref=rss)
-### bericht
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
+### wladimir
 
-* [https://www.spiegel.de/wirtschaft/uno-wasserkonferenz-wasserknappheit-bedroht-zehn-prozent-der-menschheit](https://www.spiegel.de/wirtschaft/uno-wasserkonferenz-wasserknappheit-bedroht-zehn-prozent-der-menschheit-a-638cfa96-c08a-4ed3-a0cf-e8d00a6554e0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/staatliche-unterstuetzung-fuer-first-republic-im-gespraech](https://www.spiegel.de/wirtschaft/staatliche-unterstuetzung-fuer-first-republic-im-gespraech-a-fabebf67-dfd6-4eaf-9861-dfee506dd30c#ref=rss)
-### deepti
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
+### körpersprache
 
-* [https://www.spiegel.de/kultur/zeit-der-schuld-von-deepti-kapoor-zwischen-wellblechhuetten-und-penthaeusern](https://www.spiegel.de/kultur/zeit-der-schuld-von-deepti-kapoor-zwischen-wellblechhuetten-und-penthaeusern-a-42818078-2f67-40ee-be4a-3f59d978bae5#ref=rss)
-### patienten
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
+### xi
 
-* [https://www.spiegel.de/gesundheit/kommunikation-zwischen-arzt-und-patient-wie-sie-besser-werden-kann](https://www.spiegel.de/gesundheit/kommunikation-zwischen-arzt-und-patient-wie-sie-besser-werden-kann-a-d2718dab-971e-4394-b25a-20833f1ee2e0#ref=rss)
-* [https://www.spiegel.de/panorama/belgien-psychiatriepatient-bei-polizeieinsatz-erschossen](https://www.spiegel.de/panorama/belgien-psychiatriepatient-bei-polizeieinsatz-erschossen-a-47d7b9bc-6f75-49c5-893b-14706d64db03#ref=rss)
-### bagdad
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
+### jinping
 
-* [https://www.spiegel.de/ausland/irak-krieg-mein-herz-ist-in-bagdad-geblieben](https://www.spiegel.de/ausland/irak-krieg-mein-herz-ist-in-bagdad-geblieben-a-912cdc5c-6590-4dc8-86ff-d95b42b2d3c0#ref=rss)
-### brüssel
+* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
+### prozent
 
-* [https://www.spiegel.de/panorama/belgien-psychiatriepatient-bei-polizeieinsatz-erschossen](https://www.spiegel.de/panorama/belgien-psychiatriepatient-bei-polizeieinsatz-erschossen-a-47d7b9bc-6f75-49c5-893b-14706d64db03#ref=rss)
-### erschossen
+* [https://www.spiegel.de/wirtschaft/unternehmen/gamestop-aktien-gewinnen-deutlich-um-mehr-als-40-prozent](https://www.spiegel.de/wirtschaft/unternehmen/gamestop-aktien-gewinnen-deutlich-um-mehr-als-40-prozent-a-75d527c5-4b50-4633-8eea-bc63bbee545d#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
+### schweden
 
-* [https://www.spiegel.de/panorama/belgien-psychiatriepatient-bei-polizeieinsatz-erschossen](https://www.spiegel.de/panorama/belgien-psychiatriepatient-bei-polizeieinsatz-erschossen-a-47d7b9bc-6f75-49c5-893b-14706d64db03#ref=rss)
-### frankreich
+* [https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren](https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren-a-9828c2f0-0851-449a-98cc-94b85e208598#ref=rss)
+### stimmt
 
-* [https://www.spiegel.de/ausland/dutzende-festnahmen-nach-krawallen-in-frankreich-marine-le-pen-spricht-von-sozialer-explosion](https://www.spiegel.de/ausland/dutzende-festnahmen-nach-krawallen-in-frankreich-marine-le-pen-spricht-von-sozialer-explosion-a-dee4a8ff-b41e-480d-b6f6-ac87ce51436a#ref=rss)
-### marine
+* [https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren](https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren-a-9828c2f0-0851-449a-98cc-94b85e208598#ref=rss)
+* [https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit](https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit-a-c2879d1b-486f-4c4a-b45b-3901a4598eda#ref=rss)
+### hamburger
 
-* [https://www.spiegel.de/ausland/dutzende-festnahmen-nach-krawallen-in-frankreich-marine-le-pen-spricht-von-sozialer-explosion](https://www.spiegel.de/ausland/dutzende-festnahmen-nach-krawallen-in-frankreich-marine-le-pen-spricht-von-sozialer-explosion-a-dee4a8ff-b41e-480d-b6f6-ac87ce51436a#ref=rss)
-### le
+* [https://www.spiegel.de/panorama/hamburger-linke-verlangt-ruecktritt-von-polizeipraesident](https://www.spiegel.de/panorama/hamburger-linke-verlangt-ruecktritt-von-polizeipraesident-a-9cb3d215-f304-48d8-a581-88804bed839c#ref=rss)
+### linke
 
-* [https://www.spiegel.de/ausland/dutzende-festnahmen-nach-krawallen-in-frankreich-marine-le-pen-spricht-von-sozialer-explosion](https://www.spiegel.de/ausland/dutzende-festnahmen-nach-krawallen-in-frankreich-marine-le-pen-spricht-von-sozialer-explosion-a-dee4a8ff-b41e-480d-b6f6-ac87ce51436a#ref=rss)
-### pen
+* [https://www.spiegel.de/panorama/hamburger-linke-verlangt-ruecktritt-von-polizeipraesident](https://www.spiegel.de/panorama/hamburger-linke-verlangt-ruecktritt-von-polizeipraesident-a-9cb3d215-f304-48d8-a581-88804bed839c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt](https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt-a-8c26611f-fd37-4e24-ab90-0ae00ef1cccf#ref=rss)
+### verlangt
 
-* [https://www.spiegel.de/ausland/dutzende-festnahmen-nach-krawallen-in-frankreich-marine-le-pen-spricht-von-sozialer-explosion](https://www.spiegel.de/ausland/dutzende-festnahmen-nach-krawallen-in-frankreich-marine-le-pen-spricht-von-sozialer-explosion-a-dee4a8ff-b41e-480d-b6f6-ac87ce51436a#ref=rss)
-### nächste
+* [https://www.spiegel.de/panorama/hamburger-linke-verlangt-ruecktritt-von-polizeipraesident](https://www.spiegel.de/panorama/hamburger-linke-verlangt-ruecktritt-von-polizeipraesident-a-9cb3d215-f304-48d8-a581-88804bed839c#ref=rss)
+### iran
 
-* [https://www.spiegel.de/ausland/dutzende-festnahmen-nach-krawallen-in-frankreich-marine-le-pen-spricht-von-sozialer-explosion](https://www.spiegel.de/ausland/dutzende-festnahmen-nach-krawallen-in-frankreich-marine-le-pen-spricht-von-sozialer-explosion-a-dee4a8ff-b41e-480d-b6f6-ac87ce51436a#ref=rss)
-* [https://www.spiegel.de/wirtschaft/staatliche-unterstuetzung-fuer-first-republic-im-gespraech](https://www.spiegel.de/wirtschaft/staatliche-unterstuetzung-fuer-first-republic-im-gespraech-a-fabebf67-dfd6-4eaf-9861-dfee506dd30c#ref=rss)
-### köln
+* [https://www.spiegel.de/ausland/iran-die-bombe-und-der-deal-mit-saudi-arabien-podcast](https://www.spiegel.de/ausland/iran-die-bombe-und-der-deal-mit-saudi-arabien-podcast-a-c25ed990-6d68-465f-a5cd-b19443d191e3#ref=rss)
+### saudiarabien
 
-* [https://www.spiegel.de/panorama/koelner-altstadt-einbrecher-sprengen-juweliergeschaeft-taeter-fluechtig](https://www.spiegel.de/panorama/koelner-altstadt-einbrecher-sprengen-juweliergeschaeft-taeter-fluechtig-a-49dd8de2-4492-4a41-9279-e0e9f69bd2e4#ref=rss)
-### credit
+* [https://www.spiegel.de/ausland/iran-die-bombe-und-der-deal-mit-saudi-arabien-podcast](https://www.spiegel.de/ausland/iran-die-bombe-und-der-deal-mit-saudi-arabien-podcast-a-c25ed990-6d68-465f-a5cd-b19443d191e3#ref=rss)
+### wermelskirchen
 
-* [https://www.spiegel.de/wirtschaft/credit-suisse-das-ende-der-zuerich-mafia](https://www.spiegel.de/wirtschaft/credit-suisse-das-ende-der-zuerich-mafia-a-749b96b6-7305-46e7-b1c1-daf8bd3a77b9#ref=rss)
-### suisse
+* [https://www.spiegel.de/panorama/bildung/wermelskirchen-schule-schickt-schueler-in-jogginghose-nach-hause](https://www.spiegel.de/panorama/bildung/wermelskirchen-schule-schickt-schueler-in-jogginghose-nach-hause-a-904ee8b7-48dd-4717-9f2c-de31dd027302#ref=rss)
+### schule
 
-* [https://www.spiegel.de/wirtschaft/credit-suisse-das-ende-der-zuerich-mafia](https://www.spiegel.de/wirtschaft/credit-suisse-das-ende-der-zuerich-mafia-a-749b96b6-7305-46e7-b1c1-daf8bd3a77b9#ref=rss)
-### ende
+* [https://www.spiegel.de/panorama/bildung/wermelskirchen-schule-schickt-schueler-in-jogginghose-nach-hause](https://www.spiegel.de/panorama/bildung/wermelskirchen-schule-schickt-schueler-in-jogginghose-nach-hause-a-904ee8b7-48dd-4717-9f2c-de31dd027302#ref=rss)
+### ron
 
-* [https://www.spiegel.de/wirtschaft/credit-suisse-das-ende-der-zuerich-mafia](https://www.spiegel.de/wirtschaft/credit-suisse-das-ende-der-zuerich-mafia-a-749b96b6-7305-46e7-b1c1-daf8bd3a77b9#ref=rss)
-### first
+* [https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter](https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter-a-796d88c1-1649-475c-9cf1-c3f1eaff512e#ref=rss)
+### desantis
 
-* [https://www.spiegel.de/wirtschaft/staatliche-unterstuetzung-fuer-first-republic-im-gespraech](https://www.spiegel.de/wirtschaft/staatliche-unterstuetzung-fuer-first-republic-im-gespraech-a-fabebf67-dfd6-4eaf-9861-dfee506dd30c#ref=rss)
-### republic
-
-* [https://www.spiegel.de/wirtschaft/staatliche-unterstuetzung-fuer-first-republic-im-gespraech](https://www.spiegel.de/wirtschaft/staatliche-unterstuetzung-fuer-first-republic-im-gespraech-a-fabebf67-dfd6-4eaf-9861-dfee506dd30c#ref=rss)
-### peking
-
-* [https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an](https://www.spiegel.de/ausland/besuch-bei-wladimir-putin-in-moskau-xi-jinping-tritt-heimreise-nach-china-an-a-af7013ea-a4cd-400b-baae-4be785dbd2c2#ref=rss)
-### gewölbe
-
-* [https://www.spiegel.de/panorama/justiz/prozess-um-einbruch-ins-gruene-gewoelbe-ach-remmo-du-bist-immer-unschuldig](https://www.spiegel.de/panorama/justiz/prozess-um-einbruch-ins-gruene-gewoelbe-ach-remmo-du-bist-immer-unschuldig-a-85f71404-e888-4e1b-8763-bfaa3e756ddf#ref=rss)
-### remmo
-
-* [https://www.spiegel.de/panorama/justiz/prozess-um-einbruch-ins-gruene-gewoelbe-ach-remmo-du-bist-immer-unschuldig](https://www.spiegel.de/panorama/justiz/prozess-um-einbruch-ins-gruene-gewoelbe-ach-remmo-du-bist-immer-unschuldig-a-85f71404-e888-4e1b-8763-bfaa3e756ddf#ref=rss)
+* [https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter](https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter-a-796d88c1-1649-475c-9cf1-c3f1eaff512e#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/politik/deutschland/news-banken-donald-trump-robert-habeck-windkraft](https://www.spiegel.de/politik/deutschland/news-banken-donald-trump-robert-habeck-windkraft-a-278c33dc-e832-44c0-845c-bb377498c3e7#ref=rss)
+* [https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter](https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter-a-796d88c1-1649-475c-9cf1-c3f1eaff512e#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/politik/deutschland/news-banken-donald-trump-robert-habeck-windkraft](https://www.spiegel.de/politik/deutschland/news-banken-donald-trump-robert-habeck-windkraft-a-278c33dc-e832-44c0-845c-bb377498c3e7#ref=rss)
+* [https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter](https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter-a-796d88c1-1649-475c-9cf1-c3f1eaff512e#ref=rss)
+### erst
+
+* [https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter](https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter-a-796d88c1-1649-475c-9cf1-c3f1eaff512e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
+### einigung
+
+* [https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit](https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit-a-c2879d1b-486f-4c4a-b45b-3901a4598eda#ref=rss)
+### eu
+
+* [https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit](https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit-a-c2879d1b-486f-4c4a-b45b-3901a4598eda#ref=rss)
+* [https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das-a-2ac69cca-ade2-469c-b568-60cbf2feef2c#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
+### kemmerich
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
+### bundespartei
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
+### tag
+
+* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
+### objekt
+
+* [https://www.spiegel.de/wissenschaft/weltall-erstes-interstellares-objekt-oumuamua-ist-kein-ausserirdisches-raumschiff](https://www.spiegel.de/wissenschaft/weltall-erstes-interstellares-objekt-oumuamua-ist-kein-ausserirdisches-raumschiff-a-e1c4505f-770d-4d30-afa3-d6cc8b937e31#ref=rss)
+### oumuamua
+
+* [https://www.spiegel.de/wissenschaft/weltall-erstes-interstellares-objekt-oumuamua-ist-kein-ausserirdisches-raumschiff](https://www.spiegel.de/wissenschaft/weltall-erstes-interstellares-objekt-oumuamua-ist-kein-ausserirdisches-raumschiff-a-e1c4505f-770d-4d30-afa3-d6cc8b937e31#ref=rss)
+### unser
+
+* [https://www.spiegel.de/wissenschaft/weltall-erstes-interstellares-objekt-oumuamua-ist-kein-ausserirdisches-raumschiff](https://www.spiegel.de/wissenschaft/weltall-erstes-interstellares-objekt-oumuamua-ist-kein-ausserirdisches-raumschiff-a-e1c4505f-770d-4d30-afa3-d6cc8b937e31#ref=rss)
+* [https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn](https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn-a-db5c007d-d367-4fbc-b64c-81075a351c95#ref=rss)
+### umfrage
+
+* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
+### täglich
+
+* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
+### länger
+
+* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
+### google
+
+* [https://www.spiegel.de/netzwelt/apps/google-und-microsoft-vermeintlich-anonymisierte-screenshots-verraten-privates](https://www.spiegel.de/netzwelt/apps/google-und-microsoft-vermeintlich-anonymisierte-screenshots-verraten-privates-a-9043bda0-d586-43fa-af5b-c181b6e208ee#ref=rss)
+### microsoft
+
+* [https://www.spiegel.de/netzwelt/apps/google-und-microsoft-vermeintlich-anonymisierte-screenshots-verraten-privates](https://www.spiegel.de/netzwelt/apps/google-und-microsoft-vermeintlich-anonymisierte-screenshots-verraten-privates-a-9043bda0-d586-43fa-af5b-c181b6e208ee#ref=rss)
+### kevin
+
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
+### kühnert
+
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
+### gesetzentwurfleak
+
+* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
+### titandioxid
+
+* [https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das-a-2ac69cca-ade2-469c-b568-60cbf2feef2c#ref=rss)
+### kosmetika
+
+* [https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das-a-2ac69cca-ade2-469c-b568-60cbf2feef2c#ref=rss)
+### zahnpasta
+
+* [https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das-a-2ac69cca-ade2-469c-b568-60cbf2feef2c#ref=rss)
+### gefährlich
+
+* [https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das-a-2ac69cca-ade2-469c-b568-60cbf2feef2c#ref=rss)
+### mutmaßlichen
+
+* [https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt](https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt-a-68dedccb-7ade-4cd0-8904-c64c9a44696d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht-a-5dff9308-37c2-45af-a4ac-3ffbe1779a7d#ref=rss)
+### mesut
+
+* [https://www.spiegel.de/sport/fussball/mesut-oezil-hoert-auf-der-polarisierer](https://www.spiegel.de/sport/fussball/mesut-oezil-hoert-auf-der-polarisierer-a-c07cde2d-57eb-4033-9949-bed45b84e577#ref=rss)
+### özil
+
+* [https://www.spiegel.de/sport/fussball/mesut-oezil-hoert-auf-der-polarisierer](https://www.spiegel.de/sport/fussball/mesut-oezil-hoert-auf-der-polarisierer-a-c07cde2d-57eb-4033-9949-bed45b84e577#ref=rss)
+### deutsche
+
+* [https://www.spiegel.de/sport/fussball/mesut-oezil-hoert-auf-der-polarisierer](https://www.spiegel.de/sport/fussball/mesut-oezil-hoert-auf-der-polarisierer-a-c07cde2d-57eb-4033-9949-bed45b84e577#ref=rss)
+* [https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert](https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert-a-19aa32e9-7f32-4269-99ce-21428358216d#ref=rss)
+### verändern
+
+* [https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn](https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn-a-db5c007d-d367-4fbc-b64c-81075a351c95#ref=rss)
+### gehirn
+
+* [https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn](https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn-a-db5c007d-d367-4fbc-b64c-81075a351c95#ref=rss)
+### dna
+
+* [https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert](https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert-a-19aa32e9-7f32-4269-99ce-21428358216d#ref=rss)
+### ludwig
+
+* [https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert](https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert-a-19aa32e9-7f32-4269-99ce-21428358216d#ref=rss)
+### van
+
+* [https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert](https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert-a-19aa32e9-7f32-4269-99ce-21428358216d#ref=rss)
+### beethovens
+
+* [https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert](https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert-a-19aa32e9-7f32-4269-99ce-21428358216d#ref=rss)
+### analysiert
+
+* [https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert](https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert-a-19aa32e9-7f32-4269-99ce-21428358216d#ref=rss)
+### razzia
+
+* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht-a-5dff9308-37c2-45af-a4ac-3ffbe1779a7d#ref=rss)
+### polizisten
+
+* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht-a-5dff9308-37c2-45af-a4ac-3ffbe1779a7d#ref=rss)
+### spiegelinformationen
+
+* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht-a-5dff9308-37c2-45af-a4ac-3ffbe1779a7d#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt](https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt-a-8c26611f-fd37-4e24-ab90-0ae00ef1cccf#ref=rss)
+### kuhle
+
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
+### habecks
+
+* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
+### new
+
+* [https://www.spiegel.de/panorama/one-vanderbilt-in-new-york-wolkenkratzer-schwankt-ein-externer-lift-war-schuld](https://www.spiegel.de/panorama/one-vanderbilt-in-new-york-wolkenkratzer-schwankt-ein-externer-lift-war-schuld-a-4842cd8b-e613-4cd4-929d-fb190133c7b8#ref=rss)
+### sahra
+
+* [https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt](https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt-a-8c26611f-fd37-4e24-ab90-0ae00ef1cccf#ref=rss)
+### wagenknecht
+
+* [https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt](https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt-a-8c26611f-fd37-4e24-ab90-0ae00ef1cccf#ref=rss)
 
