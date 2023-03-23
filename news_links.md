@@ -4,315 +4,263 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zwei
+### polizei
 
-* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/virginia-gefaengnisausbrecher-gehen-pfannkuchen-essen](https://www.spiegel.de/panorama/justiz/virginia-gefaengnisausbrecher-gehen-pfannkuchen-essen-a-e4999ad1-cad9-45b0-8903-144709c2726e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gamestop-aktien-gewinnen-deutlich-um-mehr-als-40-prozent](https://www.spiegel.de/wirtschaft/unternehmen/gamestop-aktien-gewinnen-deutlich-um-mehr-als-40-prozent-a-75d527c5-4b50-4633-8eea-bc63bbee545d#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt](https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt-a-68dedccb-7ade-4cd0-8904-c64c9a44696d#ref=rss)
-### robert
+* [https://www.spiegel.de/panorama/hilders-bei-fulda-91-jaehrige-stirbt-bei-sturz-in-bach](https://www.spiegel.de/panorama/hilders-bei-fulda-91-jaehrige-stirbt-bei-sturz-in-bach-a-966a5d22-bf82-4513-bff6-218ba1cf3003#ref=rss)
+* [https://www.spiegel.de/panorama/neuseeland-polizei-warnt-bevoelkerung-vor-methamphetamin-in-bierdosen](https://www.spiegel.de/panorama/neuseeland-polizei-warnt-bevoelkerung-vor-methamphetamin-in-bierdosen-a-507cba34-ae3a-4db0-81f5-a744ce7e00da#ref=rss)
+### schulen
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
-### habeck
+* [https://www.spiegel.de/familie/warnstreiks-an-schulen-und-kitas-schueler-an-die-macht-elternkolumne](https://www.spiegel.de/familie/warnstreiks-an-schulen-und-kitas-schueler-an-die-macht-elternkolumne-a-2ddbc27f-684e-4f20-ab1b-710302634800#ref=rss)
+* [https://www.spiegel.de/ausland/ron-desantis-will-don-t-say-gay-gesetz-in-florida-offenbar-auf-alle-schulen-ausweiten](https://www.spiegel.de/ausland/ron-desantis-will-don-t-say-gay-gesetz-in-florida-offenbar-auf-alle-schulen-ausweiten-a-42788609-18b2-45ed-a759-89cc5b983a63#ref=rss)
+### macht
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
-### männer
+* [https://www.spiegel.de/familie/warnstreiks-an-schulen-und-kitas-schueler-an-die-macht-elternkolumne](https://www.spiegel.de/familie/warnstreiks-an-schulen-und-kitas-schueler-an-die-macht-elternkolumne-a-2ddbc27f-684e-4f20-ab1b-710302634800#ref=rss)
+* [https://www.spiegel.de/netzwelt/games/counter-strike-2-neuer-teil-der-shooter-reihe-erscheint-diesen-sommer](https://www.spiegel.de/netzwelt/games/counter-strike-2-neuer-teil-der-shooter-reihe-erscheint-diesen-sommer-a-d6c59e8c-752d-4707-a37d-056bdae08b55#ref=rss)
+* [https://www.spiegel.de/wirtschaft/schweizer-notenbank-erhoeht-leitzins-auf-1-5-prozent](https://www.spiegel.de/wirtschaft/schweizer-notenbank-erhoeht-leitzins-auf-1-5-prozent-a-445eb840-7ebb-4f6c-ba7e-fdd0cfaae592#ref=rss)
+### woche
 
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
-### mehrheit
+* [https://www.spiegel.de/familie/warnstreiks-an-schulen-und-kitas-schueler-an-die-macht-elternkolumne](https://www.spiegel.de/familie/warnstreiks-an-schulen-und-kitas-schueler-an-die-macht-elternkolumne-a-2ddbc27f-684e-4f20-ab1b-710302634800#ref=rss)
+* [https://www.spiegel.de/start/studium-warum-kooperieren-universitaeten-nicht-staerker-mit-influencern-newsletter](https://www.spiegel.de/start/studium-warum-kooperieren-universitaeten-nicht-staerker-mit-influencern-newsletter-a-a2e67213-1f92-4c8d-91fa-b9cd03dad850#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-kommt-jetzt-der-superstreiktag](https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-kommt-jetzt-der-superstreiktag-a-f31a0132-67f9-49e4-a6fc-1a82d49d2a72#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
-* [https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren](https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren-a-9828c2f0-0851-449a-98cc-94b85e208598#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
-### drei
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-donnerstag-medwedew-droht-dem-westen-putin-festnahme-waere-kriegserklaerung](https://www.spiegel.de/ausland/russland-ukraine-news-am-donnerstag-medwedew-droht-dem-westen-putin-festnahme-waere-kriegserklaerung-a-411987af-899f-4e6c-8168-a42daf5a5597#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/waelder-in-deutschland-die-wahre-situation-ist-sogar-noch-deutlich-schlechter](https://www.spiegel.de/wissenschaft/natur/waelder-in-deutschland-die-wahre-situation-ist-sogar-noch-deutlich-schlechter-a-2bd75e29-56d0-4711-9d89-d1df484934e0#ref=rss)
+* [https://www.spiegel.de/ausland/china-will-usa-zerstoerer-vertrieben-haben-die-navy-weiss-davon-nichts](https://www.spiegel.de/ausland/china-will-usa-zerstoerer-vertrieben-haben-die-navy-weiss-davon-nichts-a-9946ed13-9310-4e26-9050-cf83371989a4#ref=rss)
+### zeit
 
-* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt](https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt-a-68dedccb-7ade-4cd0-8904-c64c9a44696d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht-a-5dff9308-37c2-45af-a4ac-3ffbe1779a7d#ref=rss)
-### ampel
+* [https://www.spiegel.de/ausland/donald-trump-anwalt-muss-ermittlern-vorerst-unterlagen-im-zusammenhang-mit-geheimdokument-affaere-bereitstellen](https://www.spiegel.de/ausland/donald-trump-anwalt-muss-ermittlern-vorerst-unterlagen-im-zusammenhang-mit-geheimdokument-affaere-bereitstellen-a-70e00035-73de-4fd2-83c3-d0c4841b4617#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-und-zeitenwende-warum-die-bundeswehr-schlechter-aussieht-statt-besser](https://www.spiegel.de/politik/deutschland/ukraine-krieg-und-zeitenwende-warum-die-bundeswehr-schlechter-aussieht-statt-besser-a-64ac1798-0ba9-4b34-b01e-26fc4ec6e03f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/warnstreik-hamburger-hafen-sperrt-elbe-fuer-lotsenpflichtige-schiffe](https://www.spiegel.de/wirtschaft/warnstreik-hamburger-hafen-sperrt-elbe-fuer-lotsenpflichtige-schiffe-a-cdaf855d-807a-4339-9c9f-28ba08cd83ef#ref=rss)
+### schlechter
 
-* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
-### essen
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-und-zeitenwende-warum-die-bundeswehr-schlechter-aussieht-statt-besser](https://www.spiegel.de/politik/deutschland/ukraine-krieg-und-zeitenwende-warum-die-bundeswehr-schlechter-aussieht-statt-besser-a-64ac1798-0ba9-4b34-b01e-26fc4ec6e03f#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/waelder-in-deutschland-die-wahre-situation-ist-sogar-noch-deutlich-schlechter](https://www.spiegel.de/wissenschaft/natur/waelder-in-deutschland-die-wahre-situation-ist-sogar-noch-deutlich-schlechter-a-2bd75e29-56d0-4711-9d89-d1df484934e0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/warnstreik-hamburger-hafen-sperrt-elbe-fuer-lotsenpflichtige-schiffe](https://www.spiegel.de/wirtschaft/warnstreik-hamburger-hafen-sperrt-elbe-fuer-lotsenpflichtige-schiffe-a-cdaf855d-807a-4339-9c9f-28ba08cd83ef#ref=rss)
+### inflation
 
-* [https://www.spiegel.de/panorama/justiz/virginia-gefaengnisausbrecher-gehen-pfannkuchen-essen](https://www.spiegel.de/panorama/justiz/virginia-gefaengnisausbrecher-gehen-pfannkuchen-essen-a-e4999ad1-cad9-45b0-8903-144709c2726e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn](https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn-a-db5c007d-d367-4fbc-b64c-81075a351c95#ref=rss)
-### russland
+* [https://www.spiegel.de/wirtschaft/schweizer-notenbank-erhoeht-leitzins-auf-1-5-prozent](https://www.spiegel.de/wirtschaft/schweizer-notenbank-erhoeht-leitzins-auf-1-5-prozent-a-445eb840-7ebb-4f6c-ba7e-fdd0cfaae592#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen](https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen-a-cad051c2-f261-486e-94c5-c06c7d98dd7b#ref=rss)
+### usa
 
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar](https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar-a-dbe606ab-9cff-4fa5-981c-731ed1c2f4a2#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
-### bringt
+* [https://www.spiegel.de/ausland/china-will-usa-zerstoerer-vertrieben-haben-die-navy-weiss-davon-nichts](https://www.spiegel.de/ausland/china-will-usa-zerstoerer-vertrieben-haben-die-navy-weiss-davon-nichts-a-9946ed13-9310-4e26-9050-cf83371989a4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen](https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen-a-cad051c2-f261-486e-94c5-c06c7d98dd7b#ref=rss)
+### alle
 
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-bringt-fire-tvs-nach-deutschland](https://www.spiegel.de/netzwelt/gadgets/amazon-bringt-fire-tvs-nach-deutschland-a-913eec9c-2a78-46ba-ba42-69bbc7bf1c15#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
-### grüne
+* [https://www.spiegel.de/ausland/ron-desantis-will-don-t-say-gay-gesetz-in-florida-offenbar-auf-alle-schulen-ausweiten](https://www.spiegel.de/ausland/ron-desantis-will-don-t-say-gay-gesetz-in-florida-offenbar-auf-alle-schulen-ausweiten-a-42788609-18b2-45ed-a759-89cc5b983a63#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/habecks-frontalangriff-auf-die-ampel-und-die-folgen-gruen-und-grimmig](https://www.spiegel.de/politik/deutschland/habecks-frontalangriff-auf-die-ampel-und-die-folgen-gruen-und-grimmig-a-1b851303-bdaf-4c19-955a-ce92323e4838#ref=rss)
+### ajax
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
-### mehr
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-warum-wurde-ajax-ein-jahr-aus-dem-europacup-geworfen](https://www.spiegel.de/sport/fussball/fussball-quiz-warum-wurde-ajax-ein-jahr-aus-dem-europacup-geworfen-a-4edfbca9-e140-40ef-97be-3358609ef049#ref=rss)
+### frau
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/gamestop-aktien-gewinnen-deutlich-um-mehr-als-40-prozent](https://www.spiegel.de/wirtschaft/unternehmen/gamestop-aktien-gewinnen-deutlich-um-mehr-als-40-prozent-a-75d527c5-4b50-4633-8eea-bc63bbee545d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn](https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn-a-db5c007d-d367-4fbc-b64c-81075a351c95#ref=rss)
-### parlament
+* [https://www.spiegel.de/panorama/hilders-bei-fulda-91-jaehrige-stirbt-bei-sturz-in-bach](https://www.spiegel.de/panorama/hilders-bei-fulda-91-jaehrige-stirbt-bei-sturz-in-bach-a-966a5d22-bf82-4513-bff6-218ba1cf3003#ref=rss)
+* [https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer](https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer-a-77fc1f01-b212-4aaf-984b-b0adf5f1aa63#ref=rss)
+### fall
 
-* [https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren](https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren-a-9828c2f0-0851-449a-98cc-94b85e208598#ref=rss)
-* [https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit](https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit-a-c2879d1b-486f-4c4a-b45b-3901a4598eda#ref=rss)
-### offenbar
+* [https://www.spiegel.de/panorama/hilders-bei-fulda-91-jaehrige-stirbt-bei-sturz-in-bach](https://www.spiegel.de/panorama/hilders-bei-fulda-91-jaehrige-stirbt-bei-sturz-in-bach-a-966a5d22-bf82-4513-bff6-218ba1cf3003#ref=rss)
+* [https://www.spiegel.de/panorama/freudenberg-abschied-von-getoeteter-luise-in-kirche-und-schule](https://www.spiegel.de/panorama/freudenberg-abschied-von-getoeteter-luise-in-kirche-und-schule-a-8f1a9e33-6b30-440b-a034-73949ee1420e#ref=rss)
+### warnstreiks
 
-* [https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt](https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt-a-68dedccb-7ade-4cd0-8904-c64c9a44696d#ref=rss)
-* [https://www.spiegel.de/panorama/edinburgh-schiff-liegt-schraeg-im-dock-25-verletzte](https://www.spiegel.de/panorama/edinburgh-schiff-liegt-schraeg-im-dock-25-verletzte-a-7c1b4968-6dea-4cdc-9b0c-fc4650166f6f#ref=rss)
-* [https://www.spiegel.de/panorama/one-vanderbilt-in-new-york-wolkenkratzer-schwankt-ein-externer-lift-war-schuld](https://www.spiegel.de/panorama/one-vanderbilt-in-new-york-wolkenkratzer-schwankt-ein-externer-lift-war-schuld-a-4842cd8b-e613-4cd4-929d-fb190133c7b8#ref=rss)
-### europapolitik
+* [https://www.spiegel.de/familie/warnstreiks-an-schulen-und-kitas-schueler-an-die-macht-elternkolumne](https://www.spiegel.de/familie/warnstreiks-an-schulen-und-kitas-schueler-an-die-macht-elternkolumne-a-2ddbc27f-684e-4f20-ab1b-710302634800#ref=rss)
+### kitas
 
-* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
-### viertel
+* [https://www.spiegel.de/familie/warnstreiks-an-schulen-und-kitas-schueler-an-die-macht-elternkolumne](https://www.spiegel.de/familie/warnstreiks-an-schulen-und-kitas-schueler-an-die-macht-elternkolumne-a-2ddbc27f-684e-4f20-ab1b-710302634800#ref=rss)
+### kämpfen
 
-* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
-### deutschen
+* [https://www.spiegel.de/familie/warnstreiks-an-schulen-und-kitas-schueler-an-die-macht-elternkolumne](https://www.spiegel.de/familie/warnstreiks-an-schulen-und-kitas-schueler-an-die-macht-elternkolumne-a-2ddbc27f-684e-4f20-ab1b-710302634800#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen](https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen-a-cad051c2-f261-486e-94c5-c06c7d98dd7b#ref=rss)
+### freudenberg
 
-* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
-### finden
+* [https://www.spiegel.de/panorama/freudenberg-abschied-von-getoeteter-luise-in-kirche-und-schule](https://www.spiegel.de/panorama/freudenberg-abschied-von-getoeteter-luise-in-kirche-und-schule-a-8f1a9e33-6b30-440b-a034-73949ee1420e#ref=rss)
+### abschied
 
-* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
-### hinter
+* [https://www.spiegel.de/panorama/freudenberg-abschied-von-getoeteter-luise-in-kirche-und-schule](https://www.spiegel.de/panorama/freudenberg-abschied-von-getoeteter-luise-in-kirche-und-schule-a-8f1a9e33-6b30-440b-a034-73949ee1420e#ref=rss)
+### luise
 
-* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
-### eigenen
+* [https://www.spiegel.de/panorama/freudenberg-abschied-von-getoeteter-luise-in-kirche-und-schule](https://www.spiegel.de/panorama/freudenberg-abschied-von-getoeteter-luise-in-kirche-und-schule-a-8f1a9e33-6b30-440b-a034-73949ee1420e#ref=rss)
+### medien
 
-* [https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt](https://www.spiegel.de/politik/europapolitik-mehrheit-sieht-versprechen-der-bundesregierung-nicht-erfuellt-a-c93bac3b-89bc-42aa-aeff-65f740b05ca9#ref=rss)
-* [https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit](https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit-a-c2879d1b-486f-4c4a-b45b-3901a4598eda#ref=rss)
-### selbst
+* [https://www.spiegel.de/panorama/freudenberg-abschied-von-getoeteter-luise-in-kirche-und-schule](https://www.spiegel.de/panorama/freudenberg-abschied-von-getoeteter-luise-in-kirche-und-schule-a-8f1a9e33-6b30-440b-a034-73949ee1420e#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/lindsay-lohan-und-jake-paul-us-boersenaufsicht-geht-gegen-prominente-vor](https://www.spiegel.de/netzwelt/netzpolitik/lindsay-lohan-und-jake-paul-us-boersenaufsicht-geht-gegen-prominente-vor-a-899c0aea-30fa-4edd-a645-6eaa3d36f916#ref=rss)
+### rick
 
-* [https://www.spiegel.de/panorama/justiz/virginia-gefaengnisausbrecher-gehen-pfannkuchen-essen](https://www.spiegel.de/panorama/justiz/virginia-gefaengnisausbrecher-gehen-pfannkuchen-essen-a-e4999ad1-cad9-45b0-8903-144709c2726e#ref=rss)
-* [https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter](https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter-a-796d88c1-1649-475c-9cf1-c3f1eaff512e#ref=rss)
-### friedensverhandlungen
+* [https://www.spiegel.de/kultur/tv/haeusliche-gewalt-anklage-gegen-rick-and-morty-macher-fallengelassen](https://www.spiegel.de/kultur/tv/haeusliche-gewalt-anklage-gegen-rick-and-morty-macher-fallengelassen-a-d7c9af2b-6d7c-48dc-b734-8f7deb2cb087#ref=rss)
+### and
 
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar](https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar-a-dbe606ab-9cff-4fa5-981c-731ed1c2f4a2#ref=rss)
-### chance
+* [https://www.spiegel.de/kultur/tv/haeusliche-gewalt-anklage-gegen-rick-and-morty-macher-fallengelassen](https://www.spiegel.de/kultur/tv/haeusliche-gewalt-anklage-gegen-rick-and-morty-macher-fallengelassen-a-d7c9af2b-6d7c-48dc-b734-8f7deb2cb087#ref=rss)
+### studium
 
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar](https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar-a-dbe606ab-9cff-4fa5-981c-731ed1c2f4a2#ref=rss)
-### putin
+* [https://www.spiegel.de/start/studium-warum-kooperieren-universitaeten-nicht-staerker-mit-influencern-newsletter](https://www.spiegel.de/start/studium-warum-kooperieren-universitaeten-nicht-staerker-mit-influencern-newsletter-a-a2e67213-1f92-4c8d-91fa-b9cd03dad850#ref=rss)
+### rund
 
-* [https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar](https://www.spiegel.de/politik/deutschland/russland-ukraine-damit-friedensverhandlungen-eine-chance-haben-putin-realistisch-betrachtet-gastkommentar-a-dbe606ab-9cff-4fa5-981c-731ed1c2f4a2#ref=rss)
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
-### kalifornien
-
-* [https://www.spiegel.de/ausland/ueberschwemmungen-in-kalifornien-dauersturm-dauerflut](https://www.spiegel.de/ausland/ueberschwemmungen-in-kalifornien-dauersturm-dauerflut-a-e817ac58-0922-4d08-9271-fbea54899a0a#ref=rss)
-### amazon
-
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-bringt-fire-tvs-nach-deutschland](https://www.spiegel.de/netzwelt/gadgets/amazon-bringt-fire-tvs-nach-deutschland-a-913eec9c-2a78-46ba-ba42-69bbc7bf1c15#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/netzwelt/gadgets/amazon-bringt-fire-tvs-nach-deutschland](https://www.spiegel.de/netzwelt/gadgets/amazon-bringt-fire-tvs-nach-deutschland-a-913eec9c-2a78-46ba-ba42-69bbc7bf1c15#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
-### spd
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
-### fdp
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance](https://www.spiegel.de/politik/deutschland/news-des-tages-robert-habeck-ampelkoalition-reichsbuerger-work-life-balance-a-05afb36b-bd0f-4c14-b173-c475d2414811#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
-### wladimir
-
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
-### körpersprache
-
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
-### xi
-
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
-### jinping
-
-* [https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping](https://www.spiegel.de/ausland/russland-wladimir-putins-koerpersprache-beim-besuch-von-xi-jinping-a-8b37c75d-e1ba-4fb0-be6f-355361760c38#ref=rss)
-### prozent
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/gamestop-aktien-gewinnen-deutlich-um-mehr-als-40-prozent](https://www.spiegel.de/wirtschaft/unternehmen/gamestop-aktien-gewinnen-deutlich-um-mehr-als-40-prozent-a-75d527c5-4b50-4633-8eea-bc63bbee545d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
-### schweden
-
-* [https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren](https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren-a-9828c2f0-0851-449a-98cc-94b85e208598#ref=rss)
-### stimmt
-
-* [https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren](https://www.spiegel.de/ausland/schweden-parlament-stimmt-fuer-nato-beitritt-doch-tuerkei-und-ungarn-blockieren-a-9828c2f0-0851-449a-98cc-94b85e208598#ref=rss)
-* [https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit](https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit-a-c2879d1b-486f-4c4a-b45b-3901a4598eda#ref=rss)
-### hamburger
-
-* [https://www.spiegel.de/panorama/hamburger-linke-verlangt-ruecktritt-von-polizeipraesident](https://www.spiegel.de/panorama/hamburger-linke-verlangt-ruecktritt-von-polizeipraesident-a-9cb3d215-f304-48d8-a581-88804bed839c#ref=rss)
-### linke
-
-* [https://www.spiegel.de/panorama/hamburger-linke-verlangt-ruecktritt-von-polizeipraesident](https://www.spiegel.de/panorama/hamburger-linke-verlangt-ruecktritt-von-polizeipraesident-a-9cb3d215-f304-48d8-a581-88804bed839c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt](https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt-a-8c26611f-fd37-4e24-ab90-0ae00ef1cccf#ref=rss)
-### verlangt
-
-* [https://www.spiegel.de/panorama/hamburger-linke-verlangt-ruecktritt-von-polizeipraesident](https://www.spiegel.de/panorama/hamburger-linke-verlangt-ruecktritt-von-polizeipraesident-a-9cb3d215-f304-48d8-a581-88804bed839c#ref=rss)
-### iran
-
-* [https://www.spiegel.de/ausland/iran-die-bombe-und-der-deal-mit-saudi-arabien-podcast](https://www.spiegel.de/ausland/iran-die-bombe-und-der-deal-mit-saudi-arabien-podcast-a-c25ed990-6d68-465f-a5cd-b19443d191e3#ref=rss)
-### saudiarabien
-
-* [https://www.spiegel.de/ausland/iran-die-bombe-und-der-deal-mit-saudi-arabien-podcast](https://www.spiegel.de/ausland/iran-die-bombe-und-der-deal-mit-saudi-arabien-podcast-a-c25ed990-6d68-465f-a5cd-b19443d191e3#ref=rss)
-### wermelskirchen
-
-* [https://www.spiegel.de/panorama/bildung/wermelskirchen-schule-schickt-schueler-in-jogginghose-nach-hause](https://www.spiegel.de/panorama/bildung/wermelskirchen-schule-schickt-schueler-in-jogginghose-nach-hause-a-904ee8b7-48dd-4717-9f2c-de31dd027302#ref=rss)
-### schule
-
-* [https://www.spiegel.de/panorama/bildung/wermelskirchen-schule-schickt-schueler-in-jogginghose-nach-hause](https://www.spiegel.de/panorama/bildung/wermelskirchen-schule-schickt-schueler-in-jogginghose-nach-hause-a-904ee8b7-48dd-4717-9f2c-de31dd027302#ref=rss)
-### ron
-
-* [https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter](https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter-a-796d88c1-1649-475c-9cf1-c3f1eaff512e#ref=rss)
-### desantis
-
-* [https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter](https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter-a-796d88c1-1649-475c-9cf1-c3f1eaff512e#ref=rss)
+* [https://www.spiegel.de/start/studium-warum-kooperieren-universitaeten-nicht-staerker-mit-influencern-newsletter](https://www.spiegel.de/start/studium-warum-kooperieren-universitaeten-nicht-staerker-mit-influencern-newsletter-a-a2e67213-1f92-4c8d-91fa-b9cd03dad850#ref=rss)
+* [https://www.spiegel.de/ausland/china-will-usa-zerstoerer-vertrieben-haben-die-navy-weiss-davon-nichts](https://www.spiegel.de/ausland/china-will-usa-zerstoerer-vertrieben-haben-die-navy-weiss-davon-nichts-a-9946ed13-9310-4e26-9050-cf83371989a4#ref=rss)
 ### donald
 
-* [https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter](https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter-a-796d88c1-1649-475c-9cf1-c3f1eaff512e#ref=rss)
+* [https://www.spiegel.de/ausland/donald-trump-anwalt-muss-ermittlern-vorerst-unterlagen-im-zusammenhang-mit-geheimdokument-affaere-bereitstellen](https://www.spiegel.de/ausland/donald-trump-anwalt-muss-ermittlern-vorerst-unterlagen-im-zusammenhang-mit-geheimdokument-affaere-bereitstellen-a-70e00035-73de-4fd2-83c3-d0c4841b4617#ref=rss)
 ### trump
 
-* [https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter](https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter-a-796d88c1-1649-475c-9cf1-c3f1eaff512e#ref=rss)
-### erst
+* [https://www.spiegel.de/ausland/donald-trump-anwalt-muss-ermittlern-vorerst-unterlagen-im-zusammenhang-mit-geheimdokument-affaere-bereitstellen](https://www.spiegel.de/ausland/donald-trump-anwalt-muss-ermittlern-vorerst-unterlagen-im-zusammenhang-mit-geheimdokument-affaere-bereitstellen-a-70e00035-73de-4fd2-83c3-d0c4841b4617#ref=rss)
+### unterlagen
 
-* [https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter](https://www.spiegel.de/ausland/usa-ron-desantis-wirft-donald-trump-taeglichen-dramen-vor-und-stichelt-selbst-immer-weiter-a-796d88c1-1649-475c-9cf1-c3f1eaff512e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
-### einigung
+* [https://www.spiegel.de/ausland/donald-trump-anwalt-muss-ermittlern-vorerst-unterlagen-im-zusammenhang-mit-geheimdokument-affaere-bereitstellen](https://www.spiegel.de/ausland/donald-trump-anwalt-muss-ermittlern-vorerst-unterlagen-im-zusammenhang-mit-geheimdokument-affaere-bereitstellen-a-70e00035-73de-4fd2-83c3-d0c4841b4617#ref=rss)
+### djirsarai
 
-* [https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit](https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit-a-c2879d1b-486f-4c4a-b45b-3901a4598eda#ref=rss)
-### eu
+* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-sieht-in-der-ampelkoalition-kein-gemeinsames-grundverstaendnis-bei-finanzen](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-sieht-in-der-ampelkoalition-kein-gemeinsames-grundverstaendnis-bei-finanzen-a-de924e8d-82b5-4660-8c00-22b4d38ddaae#ref=rss)
+### realität
 
-* [https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit](https://www.spiegel.de/ausland/brexit-britisches-unterhaus-stimmt-fuer-einigung-im-nordirland-streit-a-c2879d1b-486f-4c4a-b45b-3901a4598eda#ref=rss)
-* [https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das-a-2ac69cca-ade2-469c-b568-60cbf2feef2c#ref=rss)
-### thomas
+* [https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-sieht-in-der-ampelkoalition-kein-gemeinsames-grundverstaendnis-bei-finanzen](https://www.spiegel.de/politik/deutschland/bijan-djir-sarai-fdp-sieht-in-der-ampelkoalition-kein-gemeinsames-grundverstaendnis-bei-finanzen-a-de924e8d-82b5-4660-8c00-22b4d38ddaae#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/waelder-in-deutschland-die-wahre-situation-ist-sogar-noch-deutlich-schlechter](https://www.spiegel.de/wissenschaft/natur/waelder-in-deutschland-die-wahre-situation-ist-sogar-noch-deutlich-schlechter-a-2bd75e29-56d0-4711-9d89-d1df484934e0#ref=rss)
+### bundeswehr
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
-### kemmerich
+* [https://www.spiegel.de/politik/deutschland/ukraine-krieg-und-zeitenwende-warum-die-bundeswehr-schlechter-aussieht-statt-besser](https://www.spiegel.de/politik/deutschland/ukraine-krieg-und-zeitenwende-warum-die-bundeswehr-schlechter-aussieht-statt-besser-a-64ac1798-0ba9-4b34-b01e-26fc4ec6e03f#ref=rss)
+### counterstrike
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
-### afd
+* [https://www.spiegel.de/netzwelt/games/counter-strike-2-neuer-teil-der-shooter-reihe-erscheint-diesen-sommer](https://www.spiegel.de/netzwelt/games/counter-strike-2-neuer-teil-der-shooter-reihe-erscheint-diesen-sommer-a-d6c59e8c-752d-4707-a37d-056bdae08b55#ref=rss)
+### 2
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
-### bundespartei
+* [https://www.spiegel.de/netzwelt/games/counter-strike-2-neuer-teil-der-shooter-reihe-erscheint-diesen-sommer](https://www.spiegel.de/netzwelt/games/counter-strike-2-neuer-teil-der-shooter-reihe-erscheint-diesen-sommer-a-d6c59e8c-752d-4707-a37d-056bdae08b55#ref=rss)
+### neuer
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
-### tag
+* [https://www.spiegel.de/netzwelt/games/counter-strike-2-neuer-teil-der-shooter-reihe-erscheint-diesen-sommer](https://www.spiegel.de/netzwelt/games/counter-strike-2-neuer-teil-der-shooter-reihe-erscheint-diesen-sommer-a-d6c59e8c-752d-4707-a37d-056bdae08b55#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-torhueter-marc-andre-ter-stegen-der-mann-der-manuel-neuer-vom-thron-stossen-will](https://www.spiegel.de/sport/fussball/dfb-torhueter-marc-andre-ter-stegen-der-mann-der-manuel-neuer-vom-thron-stossen-will-a-9320c970-69cc-4671-9506-7c0edaa79f68#ref=rss)
+### diesen
 
-* [https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht](https://www.spiegel.de/politik/deutschland/thueringen-thomas-kemmerich-will-mehrheit-mit-der-afd-finden-bundespartei-widerspricht-a-5713d750-c8e0-41fb-9dfb-c1d4ca072795#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
-### objekt
+* [https://www.spiegel.de/netzwelt/games/counter-strike-2-neuer-teil-der-shooter-reihe-erscheint-diesen-sommer](https://www.spiegel.de/netzwelt/games/counter-strike-2-neuer-teil-der-shooter-reihe-erscheint-diesen-sommer-a-d6c59e8c-752d-4707-a37d-056bdae08b55#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/waelder-in-deutschland-die-wahre-situation-ist-sogar-noch-deutlich-schlechter](https://www.spiegel.de/wissenschaft/natur/waelder-in-deutschland-die-wahre-situation-ist-sogar-noch-deutlich-schlechter-a-2bd75e29-56d0-4711-9d89-d1df484934e0#ref=rss)
+### marcandré
 
-* [https://www.spiegel.de/wissenschaft/weltall-erstes-interstellares-objekt-oumuamua-ist-kein-ausserirdisches-raumschiff](https://www.spiegel.de/wissenschaft/weltall-erstes-interstellares-objekt-oumuamua-ist-kein-ausserirdisches-raumschiff-a-e1c4505f-770d-4d30-afa3-d6cc8b937e31#ref=rss)
-### oumuamua
+* [https://www.spiegel.de/sport/fussball/dfb-torhueter-marc-andre-ter-stegen-der-mann-der-manuel-neuer-vom-thron-stossen-will](https://www.spiegel.de/sport/fussball/dfb-torhueter-marc-andre-ter-stegen-der-mann-der-manuel-neuer-vom-thron-stossen-will-a-9320c970-69cc-4671-9506-7c0edaa79f68#ref=rss)
+### ter
 
-* [https://www.spiegel.de/wissenschaft/weltall-erstes-interstellares-objekt-oumuamua-ist-kein-ausserirdisches-raumschiff](https://www.spiegel.de/wissenschaft/weltall-erstes-interstellares-objekt-oumuamua-ist-kein-ausserirdisches-raumschiff-a-e1c4505f-770d-4d30-afa3-d6cc8b937e31#ref=rss)
-### unser
+* [https://www.spiegel.de/sport/fussball/dfb-torhueter-marc-andre-ter-stegen-der-mann-der-manuel-neuer-vom-thron-stossen-will](https://www.spiegel.de/sport/fussball/dfb-torhueter-marc-andre-ter-stegen-der-mann-der-manuel-neuer-vom-thron-stossen-will-a-9320c970-69cc-4671-9506-7c0edaa79f68#ref=rss)
+### stegen
 
-* [https://www.spiegel.de/wissenschaft/weltall-erstes-interstellares-objekt-oumuamua-ist-kein-ausserirdisches-raumschiff](https://www.spiegel.de/wissenschaft/weltall-erstes-interstellares-objekt-oumuamua-ist-kein-ausserirdisches-raumschiff-a-e1c4505f-770d-4d30-afa3-d6cc8b937e31#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn](https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn-a-db5c007d-d367-4fbc-b64c-81075a351c95#ref=rss)
-### umfrage
+* [https://www.spiegel.de/sport/fussball/dfb-torhueter-marc-andre-ter-stegen-der-mann-der-manuel-neuer-vom-thron-stossen-will](https://www.spiegel.de/sport/fussball/dfb-torhueter-marc-andre-ter-stegen-der-mann-der-manuel-neuer-vom-thron-stossen-will-a-9320c970-69cc-4671-9506-7c0edaa79f68#ref=rss)
+### manuel
 
-* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
-### täglich
+* [https://www.spiegel.de/sport/fussball/dfb-torhueter-marc-andre-ter-stegen-der-mann-der-manuel-neuer-vom-thron-stossen-will](https://www.spiegel.de/sport/fussball/dfb-torhueter-marc-andre-ter-stegen-der-mann-der-manuel-neuer-vom-thron-stossen-will-a-9320c970-69cc-4671-9506-7c0edaa79f68#ref=rss)
+### extreme
 
-* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
-### länger
+* [https://www.spiegel.de/auto/autos-in-europa-mehrheit-der-diesel-brachten-verdaechtige-abgaswerte](https://www.spiegel.de/auto/autos-in-europa-mehrheit-der-diesel-brachten-verdaechtige-abgaswerte-a-e5840e53-cabe-45f5-8d0f-dd6d85d7b869#ref=rss)
+* [https://www.spiegel.de/wissenschaft/das-lebensgefaehrliche-sexleben-der-see-elefanten](https://www.spiegel.de/wissenschaft/das-lebensgefaehrliche-sexleben-der-see-elefanten-a-8f8bd671-d7bd-4357-a35d-f28101a616c5#ref=rss)
+### finden
 
-* [https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich](https://www.spiegel.de/panorama/gesellschaft/umfrage-ein-viertel-der-deutschen-maenner-wechselt-unterhose-nicht-taeglich-a-9b9473a3-b29c-4841-9345-74fc6e1ef350#ref=rss)
-### google
+* [https://www.spiegel.de/auto/autos-in-europa-mehrheit-der-diesel-brachten-verdaechtige-abgaswerte](https://www.spiegel.de/auto/autos-in-europa-mehrheit-der-diesel-brachten-verdaechtige-abgaswerte-a-e5840e53-cabe-45f5-8d0f-dd6d85d7b869#ref=rss)
+* [https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer](https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer-a-77fc1f01-b212-4aaf-984b-b0adf5f1aa63#ref=rss)
+### neue
 
-* [https://www.spiegel.de/netzwelt/apps/google-und-microsoft-vermeintlich-anonymisierte-screenshots-verraten-privates](https://www.spiegel.de/netzwelt/apps/google-und-microsoft-vermeintlich-anonymisierte-screenshots-verraten-privates-a-9043bda0-d586-43fa-af5b-c181b6e208ee#ref=rss)
-### microsoft
+* [https://www.spiegel.de/auto/autos-in-europa-mehrheit-der-diesel-brachten-verdaechtige-abgaswerte](https://www.spiegel.de/auto/autos-in-europa-mehrheit-der-diesel-brachten-verdaechtige-abgaswerte-a-e5840e53-cabe-45f5-8d0f-dd6d85d7b869#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/habecks-frontalangriff-auf-die-ampel-und-die-folgen-gruen-und-grimmig](https://www.spiegel.de/politik/deutschland/habecks-frontalangriff-auf-die-ampel-und-die-folgen-gruen-und-grimmig-a-1b851303-bdaf-4c19-955a-ce92323e4838#ref=rss)
+### deutlich
 
-* [https://www.spiegel.de/netzwelt/apps/google-und-microsoft-vermeintlich-anonymisierte-screenshots-verraten-privates](https://www.spiegel.de/netzwelt/apps/google-und-microsoft-vermeintlich-anonymisierte-screenshots-verraten-privates-a-9043bda0-d586-43fa-af5b-c181b6e208ee#ref=rss)
-### kevin
+* [https://www.spiegel.de/wirtschaft/service/lebensmittelpreise-zockt-der-einzelhandel-die-verbraucher-ab](https://www.spiegel.de/wirtschaft/service/lebensmittelpreise-zockt-der-einzelhandel-die-verbraucher-ab-a-a1234d36-ac88-4067-be5b-64cc85b8f8e1#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/waelder-in-deutschland-die-wahre-situation-ist-sogar-noch-deutlich-schlechter](https://www.spiegel.de/wissenschaft/natur/waelder-in-deutschland-die-wahre-situation-ist-sogar-noch-deutlich-schlechter-a-2bd75e29-56d0-4711-9d89-d1df484934e0#ref=rss)
+### john
 
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
-### kühnert
+* [https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer](https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer-a-77fc1f01-b212-4aaf-984b-b0adf5f1aa63#ref=rss)
+### legend
 
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
-### gesetzentwurfleak
+* [https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer](https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer-a-77fc1f01-b212-4aaf-984b-b0adf5f1aa63#ref=rss)
+### sexleben
 
-* [https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak](https://www.spiegel.de/politik/deutschland/kevin-kuehnert-ruegt-robert-habeck-fuer-umgang-mit-gesetzentwurf-leak-a-bb0fe9e1-6b2f-4802-a1dc-8e69ae187d92#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
-### titandioxid
+* [https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer](https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer-a-77fc1f01-b212-4aaf-984b-b0adf5f1aa63#ref=rss)
+* [https://www.spiegel.de/wissenschaft/das-lebensgefaehrliche-sexleben-der-see-elefanten](https://www.spiegel.de/wissenschaft/das-lebensgefaehrliche-sexleben-der-see-elefanten-a-8f8bd671-d7bd-4357-a35d-f28101a616c5#ref=rss)
+### weg
 
-* [https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das-a-2ac69cca-ade2-469c-b568-60cbf2feef2c#ref=rss)
-### kosmetika
+* [https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer](https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer-a-77fc1f01-b212-4aaf-984b-b0adf5f1aa63#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/waelder-in-deutschland-die-wahre-situation-ist-sogar-noch-deutlich-schlechter](https://www.spiegel.de/wissenschaft/natur/waelder-in-deutschland-die-wahre-situation-ist-sogar-noch-deutlich-schlechter-a-2bd75e29-56d0-4711-9d89-d1df484934e0#ref=rss)
+### sänger
 
-* [https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das-a-2ac69cca-ade2-469c-b568-60cbf2feef2c#ref=rss)
-### zahnpasta
+* [https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer](https://www.spiegel.de/panorama/leute/john-legend-ueber-schwierigkeiten-im-sexleben-unsere-kinder-finden-immer-einen-weg-in-unser-zimmer-a-77fc1f01-b212-4aaf-984b-b0adf5f1aa63#ref=rss)
+### lars
 
-* [https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das-a-2ac69cca-ade2-469c-b568-60cbf2feef2c#ref=rss)
-### gefährlich
+* [https://www.spiegel.de/kultur/doku-ueber-lars-eidinger-metamorphose-einer-raupe](https://www.spiegel.de/kultur/doku-ueber-lars-eidinger-metamorphose-einer-raupe-a-090b6763-8185-4269-b34b-5d9cdc75fe63#ref=rss)
+### eidinger
 
-* [https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das](https://www.spiegel.de/wissenschaft/titandioxid-in-kosmetika-wie-zahnpasta-wie-gefaehrlich-ist-das-a-2ac69cca-ade2-469c-b568-60cbf2feef2c#ref=rss)
-### mutmaßlichen
+* [https://www.spiegel.de/kultur/doku-ueber-lars-eidinger-metamorphose-einer-raupe](https://www.spiegel.de/kultur/doku-ueber-lars-eidinger-metamorphose-einer-raupe-a-090b6763-8185-4269-b34b-5d9cdc75fe63#ref=rss)
+### usbörsenaufsicht
 
-* [https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt](https://www.spiegel.de/panorama/justiz/heide-13-jaehrige-von-jugendlichen-misshandelt-a-68dedccb-7ade-4cd0-8904-c64c9a44696d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht-a-5dff9308-37c2-45af-a4ac-3ffbe1779a7d#ref=rss)
-### mesut
+* [https://www.spiegel.de/netzwelt/netzpolitik/lindsay-lohan-und-jake-paul-us-boersenaufsicht-geht-gegen-prominente-vor](https://www.spiegel.de/netzwelt/netzpolitik/lindsay-lohan-und-jake-paul-us-boersenaufsicht-geht-gegen-prominente-vor-a-899c0aea-30fa-4edd-a645-6eaa3d36f916#ref=rss)
+### hamburg
 
-* [https://www.spiegel.de/sport/fussball/mesut-oezil-hoert-auf-der-polarisierer](https://www.spiegel.de/sport/fussball/mesut-oezil-hoert-auf-der-polarisierer-a-c07cde2d-57eb-4033-9949-bed45b84e577#ref=rss)
-### özil
+* [https://www.spiegel.de/wirtschaft/warnstreik-hamburger-hafen-sperrt-elbe-fuer-lotsenpflichtige-schiffe](https://www.spiegel.de/wirtschaft/warnstreik-hamburger-hafen-sperrt-elbe-fuer-lotsenpflichtige-schiffe-a-cdaf855d-807a-4339-9c9f-28ba08cd83ef#ref=rss)
+### hafen
 
-* [https://www.spiegel.de/sport/fussball/mesut-oezil-hoert-auf-der-polarisierer](https://www.spiegel.de/sport/fussball/mesut-oezil-hoert-auf-der-polarisierer-a-c07cde2d-57eb-4033-9949-bed45b84e577#ref=rss)
-### deutsche
+* [https://www.spiegel.de/wirtschaft/warnstreik-hamburger-hafen-sperrt-elbe-fuer-lotsenpflichtige-schiffe](https://www.spiegel.de/wirtschaft/warnstreik-hamburger-hafen-sperrt-elbe-fuer-lotsenpflichtige-schiffe-a-cdaf855d-807a-4339-9c9f-28ba08cd83ef#ref=rss)
+### schiffe
 
-* [https://www.spiegel.de/sport/fussball/mesut-oezil-hoert-auf-der-polarisierer](https://www.spiegel.de/sport/fussball/mesut-oezil-hoert-auf-der-polarisierer-a-c07cde2d-57eb-4033-9949-bed45b84e577#ref=rss)
-* [https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert](https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert-a-19aa32e9-7f32-4269-99ce-21428358216d#ref=rss)
-### verändern
+* [https://www.spiegel.de/wirtschaft/warnstreik-hamburger-hafen-sperrt-elbe-fuer-lotsenpflichtige-schiffe](https://www.spiegel.de/wirtschaft/warnstreik-hamburger-hafen-sperrt-elbe-fuer-lotsenpflichtige-schiffe-a-cdaf855d-807a-4339-9c9f-28ba08cd83ef#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-kommt-jetzt-der-superstreiktag](https://www.spiegel.de/wirtschaft/tarifstreit-im-oeffentlichen-dienst-kommt-jetzt-der-superstreiktag-a-f31a0132-67f9-49e4-a6fc-1a82d49d2a72#ref=rss)
+### notenbank
 
-* [https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn](https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn-a-db5c007d-d367-4fbc-b64c-81075a351c95#ref=rss)
-### gehirn
+* [https://www.spiegel.de/wirtschaft/schweizer-notenbank-erhoeht-leitzins-auf-1-5-prozent](https://www.spiegel.de/wirtschaft/schweizer-notenbank-erhoeht-leitzins-auf-1-5-prozent-a-445eb840-7ebb-4f6c-ba7e-fdd0cfaae592#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen](https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen-a-cad051c2-f261-486e-94c5-c06c7d98dd7b#ref=rss)
+### leitzins
 
-* [https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn](https://www.spiegel.de/wissenschaft/medizin/neurowissenschaft-sucht-nach-fett-und-zucker-suessigkeiten-veraendern-das-gehirn-a-db5c007d-d367-4fbc-b64c-81075a351c95#ref=rss)
-### dna
+* [https://www.spiegel.de/wirtschaft/schweizer-notenbank-erhoeht-leitzins-auf-1-5-prozent](https://www.spiegel.de/wirtschaft/schweizer-notenbank-erhoeht-leitzins-auf-1-5-prozent-a-445eb840-7ebb-4f6c-ba7e-fdd0cfaae592#ref=rss)
+### china
 
-* [https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert](https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert-a-19aa32e9-7f32-4269-99ce-21428358216d#ref=rss)
-### ludwig
+* [https://www.spiegel.de/ausland/china-will-usa-zerstoerer-vertrieben-haben-die-navy-weiss-davon-nichts](https://www.spiegel.de/ausland/china-will-usa-zerstoerer-vertrieben-haben-die-navy-weiss-davon-nichts-a-9946ed13-9310-4e26-9050-cf83371989a4#ref=rss)
+### peking
 
-* [https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert](https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert-a-19aa32e9-7f32-4269-99ce-21428358216d#ref=rss)
-### van
+* [https://www.spiegel.de/ausland/china-will-usa-zerstoerer-vertrieben-haben-die-navy-weiss-davon-nichts](https://www.spiegel.de/ausland/china-will-usa-zerstoerer-vertrieben-haben-die-navy-weiss-davon-nichts-a-9946ed13-9310-4e26-9050-cf83371989a4#ref=rss)
+### länder
 
-* [https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert](https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert-a-19aa32e9-7f32-4269-99ce-21428358216d#ref=rss)
-### beethovens
+* [https://www.spiegel.de/ausland/china-will-usa-zerstoerer-vertrieben-haben-die-navy-weiss-davon-nichts](https://www.spiegel.de/ausland/china-will-usa-zerstoerer-vertrieben-haben-die-navy-weiss-davon-nichts-a-9946ed13-9310-4e26-9050-cf83371989a4#ref=rss)
+* [https://www.spiegel.de/netzwelt/kontrollwahn-von-diktatoren-icann-warnt-vor-nationalisierung-des-internet](https://www.spiegel.de/netzwelt/kontrollwahn-von-diktatoren-icann-warnt-vor-nationalisierung-des-internet-a-4d0f1415-8381-424e-a646-4282a4f72aae#ref=rss)
+### gesetz
 
-* [https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert](https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert-a-19aa32e9-7f32-4269-99ce-21428358216d#ref=rss)
-### analysiert
+* [https://www.spiegel.de/ausland/israel-parlament-beschliesst-gesetz-ministerpraesidenten-nun-umfassend-vor-amtsenthebung-geschuetzt](https://www.spiegel.de/ausland/israel-parlament-beschliesst-gesetz-ministerpraesidenten-nun-umfassend-vor-amtsenthebung-geschuetzt-a-35b2d01b-bc42-4730-81e5-0c10645109a0#ref=rss)
+### seeelefanten
 
-* [https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert](https://www.spiegel.de/wissenschaft/genforschung-wissenschaftler-haben-anhand-von-haarstraehnen-die-dna-ludwig-van-beethovens-analysiert-a-19aa32e9-7f32-4269-99ce-21428358216d#ref=rss)
-### razzia
+* [https://www.spiegel.de/wissenschaft/das-lebensgefaehrliche-sexleben-der-see-elefanten](https://www.spiegel.de/wissenschaft/das-lebensgefaehrliche-sexleben-der-see-elefanten-a-8f8bd671-d7bd-4357-a35d-f28101a616c5#ref=rss)
+### ron
 
-* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht-a-5dff9308-37c2-45af-a4ac-3ffbe1779a7d#ref=rss)
-### polizisten
+* [https://www.spiegel.de/ausland/ron-desantis-will-don-t-say-gay-gesetz-in-florida-offenbar-auf-alle-schulen-ausweiten](https://www.spiegel.de/ausland/ron-desantis-will-don-t-say-gay-gesetz-in-florida-offenbar-auf-alle-schulen-ausweiten-a-42788609-18b2-45ed-a759-89cc5b983a63#ref=rss)
+### desantis
 
-* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht-a-5dff9308-37c2-45af-a4ac-3ffbe1779a7d#ref=rss)
-### spiegelinformationen
+* [https://www.spiegel.de/ausland/ron-desantis-will-don-t-say-gay-gesetz-in-florida-offenbar-auf-alle-schulen-ausweiten](https://www.spiegel.de/ausland/ron-desantis-will-don-t-say-gay-gesetz-in-florida-offenbar-auf-alle-schulen-ausweiten-a-42788609-18b2-45ed-a759-89cc5b983a63#ref=rss)
+### ausweiten
 
-* [https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht](https://www.spiegel.de/politik/deutschland/razzia-gegen-reichsbuergerszene-wohnungen-von-polizisten-und-einem-soldaten-durchsucht-a-5dff9308-37c2-45af-a4ac-3ffbe1779a7d#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt](https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt-a-8c26611f-fd37-4e24-ab90-0ae00ef1cccf#ref=rss)
-### kuhle
+* [https://www.spiegel.de/ausland/ron-desantis-will-don-t-say-gay-gesetz-in-florida-offenbar-auf-alle-schulen-ausweiten](https://www.spiegel.de/ausland/ron-desantis-will-don-t-say-gay-gesetz-in-florida-offenbar-auf-alle-schulen-ausweiten-a-42788609-18b2-45ed-a759-89cc5b983a63#ref=rss)
+### robert
 
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
-### habecks
+* [https://www.spiegel.de/politik/deutschland/habecks-frontalangriff-auf-die-ampel-und-die-folgen-gruen-und-grimmig](https://www.spiegel.de/politik/deutschland/habecks-frontalangriff-auf-die-ampel-und-die-folgen-gruen-und-grimmig-a-1b851303-bdaf-4c19-955a-ce92323e4838#ref=rss)
+### habeck
 
-* [https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel](https://www.spiegel.de/politik/deutschland/niedersachsen-konstantin-kuhle-bringt-ministerium-von-robert-habeck-bei-gesetzentwurf-leak-ins-spiel-a-5569a479-167c-468d-9e2d-5769aac087e3#ref=rss)
-### new
+* [https://www.spiegel.de/politik/deutschland/habecks-frontalangriff-auf-die-ampel-und-die-folgen-gruen-und-grimmig](https://www.spiegel.de/politik/deutschland/habecks-frontalangriff-auf-die-ampel-und-die-folgen-gruen-und-grimmig-a-1b851303-bdaf-4c19-955a-ce92323e4838#ref=rss)
+### setzt
 
-* [https://www.spiegel.de/panorama/one-vanderbilt-in-new-york-wolkenkratzer-schwankt-ein-externer-lift-war-schuld](https://www.spiegel.de/panorama/one-vanderbilt-in-new-york-wolkenkratzer-schwankt-ein-externer-lift-war-schuld-a-4842cd8b-e613-4cd4-929d-fb190133c7b8#ref=rss)
-### sahra
+* [https://www.spiegel.de/politik/deutschland/habecks-frontalangriff-auf-die-ampel-und-die-folgen-gruen-und-grimmig](https://www.spiegel.de/politik/deutschland/habecks-frontalangriff-auf-die-ampel-und-die-folgen-gruen-und-grimmig-a-1b851303-bdaf-4c19-955a-ce92323e4838#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen](https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen-a-cad051c2-f261-486e-94c5-c06c7d98dd7b#ref=rss)
+### fedchef
 
-* [https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt](https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt-a-8c26611f-fd37-4e24-ab90-0ae00ef1cccf#ref=rss)
-### wagenknecht
+* [https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen](https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen-a-cad051c2-f261-486e-94c5-c06c7d98dd7b#ref=rss)
+### jerome
 
-* [https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt](https://www.spiegel.de/politik/deutschland/linke-wie-die-partei-sich-gegen-sahra-wagenknecht-wehrt-a-8c26611f-fd37-4e24-ab90-0ae00ef1cccf#ref=rss)
+* [https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen](https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen-a-cad051c2-f261-486e-94c5-c06c7d98dd7b#ref=rss)
+### powell
+
+* [https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen](https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen-a-cad051c2-f261-486e-94c5-c06c7d98dd7b#ref=rss)
+### finanzministerin
+
+* [https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen](https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen-a-cad051c2-f261-486e-94c5-c06c7d98dd7b#ref=rss)
+### janet
+
+* [https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen](https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen-a-cad051c2-f261-486e-94c5-c06c7d98dd7b#ref=rss)
+### yellen
+
+* [https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen](https://www.spiegel.de/wirtschaft/us-finanzmaechtige-kaempfen-gegen-die-bankenkrise-die-getriebenen-a-cad051c2-f261-486e-94c5-c06c7d98dd7b#ref=rss)
+### warnt
+
+* [https://www.spiegel.de/netzwelt/kontrollwahn-von-diktatoren-icann-warnt-vor-nationalisierung-des-internet](https://www.spiegel.de/netzwelt/kontrollwahn-von-diktatoren-icann-warnt-vor-nationalisierung-des-internet-a-4d0f1415-8381-424e-a646-4282a4f72aae#ref=rss)
+* [https://www.spiegel.de/panorama/neuseeland-polizei-warnt-bevoelkerung-vor-methamphetamin-in-bierdosen](https://www.spiegel.de/panorama/neuseeland-polizei-warnt-bevoelkerung-vor-methamphetamin-in-bierdosen-a-507cba34-ae3a-4db0-81f5-a744ce7e00da#ref=rss)
+### internet
+
+* [https://www.spiegel.de/netzwelt/kontrollwahn-von-diktatoren-icann-warnt-vor-nationalisierung-des-internet](https://www.spiegel.de/netzwelt/kontrollwahn-von-diktatoren-icann-warnt-vor-nationalisierung-des-internet-a-4d0f1415-8381-424e-a646-4282a4f72aae#ref=rss)
+### neuseeland
+
+* [https://www.spiegel.de/panorama/neuseeland-polizei-warnt-bevoelkerung-vor-methamphetamin-in-bierdosen](https://www.spiegel.de/panorama/neuseeland-polizei-warnt-bevoelkerung-vor-methamphetamin-in-bierdosen-a-507cba34-ae3a-4db0-81f5-a744ce7e00da#ref=rss)
 
