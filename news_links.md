@@ -4,308 +4,340 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### zwei
+### bank
 
-* [https://www.spiegel.de/panorama/autobahn-5-streit-auf-der-ueberholspur](https://www.spiegel.de/panorama/autobahn-5-streit-auf-der-ueberholspur-a-28ef3830-6f13-439d-8fba-c797bbdd40ec#ref=rss)
-* [https://www.spiegel.de/ausland/winter-und-sommerzeit-libanon-hat-jetzt-zwei-uhrzeiten](https://www.spiegel.de/ausland/winter-und-sommerzeit-libanon-hat-jetzt-zwei-uhrzeiten-a-2bb45825-6dac-4b04-ada1-41cf95b9dbfa#ref=rss)
-* [https://www.spiegel.de/stil/weinbau-in-der-ukraine-wie-weingueter-und-winzer-im-krieg-weiter-arbeiten](https://www.spiegel.de/stil/weinbau-in-der-ukraine-wie-weingueter-und-winzer-im-krieg-weiter-arbeiten-a-df4c8511-defa-48c5-835d-708cb86da995#ref=rss)
-* [https://www.spiegel.de/ausland/das-glas-flog-in-diese-richtung-und-ich-stand-mit-dem-ruecken-an-der-tuer](https://www.spiegel.de/ausland/das-glas-flog-in-diese-richtung-und-ich-stand-mit-dem-ruecken-an-der-tuer-a-d3dcdbe2-ba1f-4778-92fd-f96d8cc2dd79#ref=rss)
-### jan
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck-a-a59c3d95-d99c-4ddd-8ba3-63e16068596e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank](https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank-a-86406a6d-0b0a-49f3-8b14-214463f84295#ref=rss)
+### ringe
 
-* [https://www.spiegel.de/kultur/tv/jan-boehmermann-versus-dieter-nuhr-der-oeffentlich-rechtliche-comedy-krieg](https://www.spiegel.de/kultur/tv/jan-boehmermann-versus-dieter-nuhr-der-oeffentlich-rechtliche-comedy-krieg-a-c0c1156d-4ca4-4898-b1de-811cabdcf8f2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr](https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr-a-628dffd8-8f75-4390-aeca-afc469b4cfb1#ref=rss)
-### böhmermann
+* [https://www.spiegel.de/kultur/kino/der-herr-der-ringe-ringe-der-macht-pferd-stirbt-peta-fordert-cgi-tiere](https://www.spiegel.de/kultur/kino/der-herr-der-ringe-ringe-der-macht-pferd-stirbt-peta-fordert-cgi-tiere-a-fef37705-2e84-4f2a-bb4f-7f757740ef18#ref=rss)
+### verdi
 
-* [https://www.spiegel.de/kultur/tv/jan-boehmermann-versus-dieter-nuhr-der-oeffentlich-rechtliche-comedy-krieg](https://www.spiegel.de/kultur/tv/jan-boehmermann-versus-dieter-nuhr-der-oeffentlich-rechtliche-comedy-krieg-a-c0c1156d-4ca4-4898-b1de-811cabdcf8f2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr](https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr-a-628dffd8-8f75-4390-aeca-afc469b4cfb1#ref=rss)
-### dieter
+* [https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler](https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler-a-a4e31560-0f26-4464-9294-a535930ab20e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/streiks-die-gewerkschaften-ver-di-und-evg-wollen-stark-wirken](https://www.spiegel.de/wirtschaft/soziales/streiks-die-gewerkschaften-ver-di-und-evg-wollen-stark-wirken-a-16bf8f40-3671-4b6a-bc8e-ca913be1c713#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel](https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel-a-926e6424-5a85-43b0-807b-2b3a78916bcc#ref=rss)
+### justizreform
 
-* [https://www.spiegel.de/kultur/tv/jan-boehmermann-versus-dieter-nuhr-der-oeffentlich-rechtliche-comedy-krieg](https://www.spiegel.de/kultur/tv/jan-boehmermann-versus-dieter-nuhr-der-oeffentlich-rechtliche-comedy-krieg-a-c0c1156d-4ca4-4898-b1de-811cabdcf8f2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr](https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr-a-628dffd8-8f75-4390-aeca-afc469b4cfb1#ref=rss)
-### nuhr
-
-* [https://www.spiegel.de/kultur/tv/jan-boehmermann-versus-dieter-nuhr-der-oeffentlich-rechtliche-comedy-krieg](https://www.spiegel.de/kultur/tv/jan-boehmermann-versus-dieter-nuhr-der-oeffentlich-rechtliche-comedy-krieg-a-c0c1156d-4ca4-4898-b1de-811cabdcf8f2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr](https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr-a-628dffd8-8f75-4390-aeca-afc469b4cfb1#ref=rss)
-### kritik
-
-* [https://www.spiegel.de/wirtschaft/soziales/kritik-am-warnstreik-das-streikrecht-wird-inflationaer-ausgereizt](https://www.spiegel.de/wirtschaft/soziales/kritik-am-warnstreik-das-streikrecht-wird-inflationaer-ausgereizt-a-19b0ce4f-3e65-4463-8be7-efeb487f028c#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann-a-a8697d7f-29cb-46b2-8c58-561860e01a9c#ref=rss)
-### kilometer
-
-* [https://www.spiegel.de/panorama/saarland-falschfahrer-faehrt-17-kilometer-auf-der-autobahn-mit-tempo-100](https://www.spiegel.de/panorama/saarland-falschfahrer-faehrt-17-kilometer-auf-der-autobahn-mit-tempo-100-a-b0f805cf-41f1-470c-8849-9cfb9b26c307#ref=rss)
-* [https://www.spiegel.de/ausland/das-glas-flog-in-diese-richtung-und-ich-stand-mit-dem-ruecken-an-der-tuer](https://www.spiegel.de/ausland/das-glas-flog-in-diese-richtung-und-ich-stand-mit-dem-ruecken-an-der-tuer-a-d3dcdbe2-ba1f-4778-92fd-f96d8cc2dd79#ref=rss)
-### autobahn
-
-* [https://www.spiegel.de/panorama/saarland-falschfahrer-faehrt-17-kilometer-auf-der-autobahn-mit-tempo-100](https://www.spiegel.de/panorama/saarland-falschfahrer-faehrt-17-kilometer-auf-der-autobahn-mit-tempo-100-a-b0f805cf-41f1-470c-8849-9cfb9b26c307#ref=rss)
-* [https://www.spiegel.de/panorama/autobahn-5-streit-auf-der-ueberholspur](https://www.spiegel.de/panorama/autobahn-5-streit-auf-der-ueberholspur-a-28ef3830-6f13-439d-8fba-c797bbdd40ec#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/panorama/frankreich-weltrekord-bei-schlumpfversammlung-knapp-verpasst](https://www.spiegel.de/panorama/frankreich-weltrekord-bei-schlumpfversammlung-knapp-verpasst-a-5cc94d4b-b0d8-4c8b-bdaf-affae158b1bc#ref=rss)
-* [https://www.spiegel.de/ausland/italien-mehr-als-3000-gefluechtete-erreichen-insel-lampedusa](https://www.spiegel.de/ausland/italien-mehr-als-3000-gefluechtete-erreichen-insel-lampedusa-a-ea14da26-3881-419d-ad4f-a7c9e9ba1637#ref=rss)
-* [https://www.spiegel.de/sport/boxen-tina-rupprecht-verliert-wm-titel-im-minimumgewicht-vor-mehr-als-10-000-zuschauern](https://www.spiegel.de/sport/boxen-tina-rupprecht-verliert-wm-titel-im-minimumgewicht-vor-mehr-als-10-000-zuschauern-a-dc62dec6-1523-40d8-95f0-4e2ac9694441#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/winter-und-sommerzeit-libanon-hat-jetzt-zwei-uhrzeiten](https://www.spiegel.de/ausland/winter-und-sommerzeit-libanon-hat-jetzt-zwei-uhrzeiten-a-2bb45825-6dac-4b04-ada1-41cf95b9dbfa#ref=rss)
-* [https://www.spiegel.de/ausland/italien-mehr-als-3000-gefluechtete-erreichen-insel-lampedusa](https://www.spiegel.de/ausland/italien-mehr-als-3000-gefluechtete-erreichen-insel-lampedusa-a-ea14da26-3881-419d-ad4f-a7c9e9ba1637#ref=rss)
-* [https://www.spiegel.de/ausland/das-glas-flog-in-diese-richtung-und-ich-stand-mit-dem-ruecken-an-der-tuer](https://www.spiegel.de/ausland/das-glas-flog-in-diese-richtung-und-ich-stand-mit-dem-ruecken-an-der-tuer-a-d3dcdbe2-ba1f-4778-92fd-f96d8cc2dd79#ref=rss)
+* [https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform-a-d826e0a1-33be-419a-a4c6-5532d65d82e0#ref=rss)
+* [https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform-a-7714cfba-a08f-4d53-a877-8dc3e477349d#ref=rss)
 ### regierung
 
-* [https://www.spiegel.de/auto/reaktionen-auf-den-e-fuel-kompromiss-nichts-weiter-als-wahlkampf-klimbim](https://www.spiegel.de/auto/reaktionen-auf-den-e-fuel-kompromiss-nichts-weiter-als-wahlkampf-klimbim-a-75151e90-d3df-48a3-9212-99c3e21fd146#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-will-haerter-gegen-vandalismus-vorgehen](https://www.spiegel.de/ausland/grossbritannien-regierung-will-haerter-gegen-vandalismus-vorgehen-a-eb9e6a13-5838-48a7-80b6-c3ac6d9e0cb3#ref=rss)
-### warnstreik
+* [https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform-a-d826e0a1-33be-419a-a4c6-5532d65d82e0#ref=rss)
+* [https://www.spiegel.de/wissenschaft/juristin-ueber-die-klimapolitik-der-ampel-ich-bin-ehrlich-gesagt-entsetzt-wie-wenig-bisher-passiert-ist](https://www.spiegel.de/wissenschaft/juristin-ueber-die-klimapolitik-der-ampel-ich-bin-ehrlich-gesagt-entsetzt-wie-wenig-bisher-passiert-ist-a-464d850b-1d27-497a-b793-555fdaec9e24#ref=rss)
+* [https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform-a-7714cfba-a08f-4d53-a877-8dc3e477349d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kritik-an-habeck-forscher-beklagen-grosse-luecken-in-der-klimapolitik](https://www.spiegel.de/wissenschaft/kritik-an-habeck-forscher-beklagen-grosse-luecken-in-der-klimapolitik-a-afd6792e-ca4e-4cd9-a7fb-14bf006b3f8e#ref=rss)
+### kurz
 
-* [https://www.spiegel.de/wirtschaft/soziales/kritik-am-warnstreik-das-streikrecht-wird-inflationaer-ausgereizt](https://www.spiegel.de/wirtschaft/soziales/kritik-am-warnstreik-das-streikrecht-wird-inflationaer-ausgereizt-a-19b0ce4f-3e65-4463-8be7-efeb487f028c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/frankfurter-flughafen-verspaetungen-und-ausfaelle-bei-lufthansa](https://www.spiegel.de/wirtschaft/service/frankfurter-flughafen-verspaetungen-und-ausfaelle-bei-lufthansa-a-14d7a845-e155-49aa-ad6f-a345c00bdd42#ref=rss)
-### sturgeon
-
-* [https://www.spiegel.de/ausland/schottland-nicola-sturgeon-fahrstunden-als-erstes-anzeichen-ihres-rueckzugs](https://www.spiegel.de/ausland/schottland-nicola-sturgeon-fahrstunden-als-erstes-anzeichen-ihres-rueckzugs-a-f9c5c9b9-85b3-4d23-b0a8-2a9af718d796#ref=rss)
-### u20wmauslosung
-
-* [https://www.spiegel.de/sport/fussball/u20-wm-auslosung-verschoben-konflikt-um-israel-fifa-verschiebt-u20-wm-auslosung-in-indonesien](https://www.spiegel.de/sport/fussball/u20-wm-auslosung-verschoben-konflikt-um-israel-fifa-verschiebt-u20-wm-auslosung-in-indonesien-a-eacdd967-9288-4d6f-b26d-43f9cccd4be1#ref=rss)
-### indonesien
-
-* [https://www.spiegel.de/sport/fussball/u20-wm-auslosung-verschoben-konflikt-um-israel-fifa-verschiebt-u20-wm-auslosung-in-indonesien](https://www.spiegel.de/sport/fussball/u20-wm-auslosung-verschoben-konflikt-um-israel-fifa-verschiebt-u20-wm-auslosung-in-indonesien-a-eacdd967-9288-4d6f-b26d-43f9cccd4be1#ref=rss)
-### überall
-
-* [https://www.spiegel.de/sport/fussball/u20-wm-auslosung-verschoben-konflikt-um-israel-fifa-verschiebt-u20-wm-auslosung-in-indonesien](https://www.spiegel.de/sport/fussball/u20-wm-auslosung-verschoben-konflikt-um-israel-fifa-verschiebt-u20-wm-auslosung-in-indonesien-a-eacdd967-9288-4d6f-b26d-43f9cccd4be1#ref=rss)
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-abbruchkante-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-abbruchkante-im-schnellcheck-a-5fcccf19-cf69-4091-b75b-eb17f37a07d1#ref=rss)
-### gescheitert
-
-* [https://www.spiegel.de/panorama/gesellschaft/klima-volksentscheid-in-berlin-droht-zu-scheitern](https://www.spiegel.de/panorama/gesellschaft/klima-volksentscheid-in-berlin-droht-zu-scheitern-a-b333feb4-247c-4dd9-9621-07857d50ec3f#ref=rss)
-### tempo
-
-* [https://www.spiegel.de/panorama/saarland-falschfahrer-faehrt-17-kilometer-auf-der-autobahn-mit-tempo-100](https://www.spiegel.de/panorama/saarland-falschfahrer-faehrt-17-kilometer-auf-der-autobahn-mit-tempo-100-a-b0f805cf-41f1-470c-8849-9cfb9b26c307#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/saarland-falschfahrer-faehrt-17-kilometer-auf-der-autobahn-mit-tempo-100](https://www.spiegel.de/panorama/saarland-falschfahrer-faehrt-17-kilometer-auf-der-autobahn-mit-tempo-100-a-b0f805cf-41f1-470c-8849-9cfb9b26c307#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-ermittlungen-nach-uebergriff-auf-klimaaktivisten](https://www.spiegel.de/panorama/justiz/hamburg-ermittlungen-nach-uebergriff-auf-klimaaktivisten-a-1c3f622b-bc62-447b-8a44-1a8cc09caa54#ref=rss)
-### ließ
-
-* [https://www.spiegel.de/panorama/saarland-falschfahrer-faehrt-17-kilometer-auf-der-autobahn-mit-tempo-100](https://www.spiegel.de/panorama/saarland-falschfahrer-faehrt-17-kilometer-auf-der-autobahn-mit-tempo-100-a-b0f805cf-41f1-470c-8849-9cfb9b26c307#ref=rss)
-* [https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr](https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr-a-628dffd8-8f75-4390-aeca-afc469b4cfb1#ref=rss)
-### musks
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/twitters-firmenwert-hat-sich-seit-musks-einstieg-offenbar-halbiert](https://www.spiegel.de/wirtschaft/unternehmen/twitters-firmenwert-hat-sich-seit-musks-einstieg-offenbar-halbiert-a-4c3d3ca7-4847-4387-b110-bb7f252ca82f#ref=rss)
-### einstieg
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/twitters-firmenwert-hat-sich-seit-musks-einstieg-offenbar-halbiert](https://www.spiegel.de/wirtschaft/unternehmen/twitters-firmenwert-hat-sich-seit-musks-einstieg-offenbar-halbiert-a-4c3d3ca7-4847-4387-b110-bb7f252ca82f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/frankfurter-flughafen-verspaetungen-und-ausfaelle-bei-lufthansa](https://www.spiegel.de/wirtschaft/service/frankfurter-flughafen-verspaetungen-und-ausfaelle-bei-lufthansa-a-14d7a845-e155-49aa-ad6f-a345c00bdd42#ref=rss)
-### twitter
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/twitters-firmenwert-hat-sich-seit-musks-einstieg-offenbar-halbiert](https://www.spiegel.de/wirtschaft/unternehmen/twitters-firmenwert-hat-sich-seit-musks-einstieg-offenbar-halbiert-a-4c3d3ca7-4847-4387-b110-bb7f252ca82f#ref=rss)
-* [https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr](https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr-a-628dffd8-8f75-4390-aeca-afc469b4cfb1#ref=rss)
-### parodiert
-
-* [https://www.spiegel.de/kultur/tv/jan-boehmermann-versus-dieter-nuhr-der-oeffentlich-rechtliche-comedy-krieg](https://www.spiegel.de/kultur/tv/jan-boehmermann-versus-dieter-nuhr-der-oeffentlich-rechtliche-comedy-krieg-a-c0c1156d-4ca4-4898-b1de-811cabdcf8f2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr](https://www.spiegel.de/kultur/tv/jan-boehmermann-parodiert-dieter-nuhr-a-628dffd8-8f75-4390-aeca-afc469b4cfb1#ref=rss)
-### kollegen
-
-* [https://www.spiegel.de/kultur/tv/jan-boehmermann-versus-dieter-nuhr-der-oeffentlich-rechtliche-comedy-krieg](https://www.spiegel.de/kultur/tv/jan-boehmermann-versus-dieter-nuhr-der-oeffentlich-rechtliche-comedy-krieg-a-c0c1156d-4ca4-4898-b1de-811cabdcf8f2#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/florida-schulleiterin-zum-ruecktritt-gezwungen-nachdem-sie-michelangelos-david-zeigte](https://www.spiegel.de/panorama/bildung/florida-schulleiterin-zum-ruecktritt-gezwungen-nachdem-sie-michelangelos-david-zeigte-a-5a7bf58c-5e1a-4575-8c0f-c9cd8730e8d9#ref=rss)
-### krieg
-
-* [https://www.spiegel.de/wissenschaft/mensch/weltuntergangsstimmung-von-fossiler-energie-abhaengig-zu-sein-ist-unsere-groesste-schwachstelle](https://www.spiegel.de/wissenschaft/mensch/weltuntergangsstimmung-von-fossiler-energie-abhaengig-zu-sein-ist-unsere-groesste-schwachstelle-a-15c4e9bc-32ba-46bc-9017-32a54faedf87#ref=rss)
-* [https://www.spiegel.de/stil/weinbau-in-der-ukraine-wie-weingueter-und-winzer-im-krieg-weiter-arbeiten](https://www.spiegel.de/stil/weinbau-in-der-ukraine-wie-weingueter-und-winzer-im-krieg-weiter-arbeiten-a-df4c8511-defa-48c5-835d-708cb86da995#ref=rss)
-### bald
-
-* [https://www.spiegel.de/wissenschaft/mensch/weltuntergangsstimmung-von-fossiler-energie-abhaengig-zu-sein-ist-unsere-groesste-schwachstelle](https://www.spiegel.de/wissenschaft/mensch/weltuntergangsstimmung-von-fossiler-energie-abhaengig-zu-sein-ist-unsere-groesste-schwachstelle-a-15c4e9bc-32ba-46bc-9017-32a54faedf87#ref=rss)
-* [https://www.spiegel.de/ausland/schottland-nicola-sturgeon-fahrstunden-als-erstes-anzeichen-ihres-rueckzugs](https://www.spiegel.de/ausland/schottland-nicola-sturgeon-fahrstunden-als-erstes-anzeichen-ihres-rueckzugs-a-f9c5c9b9-85b3-4d23-b0a8-2a9af718d796#ref=rss)
-### sagt
-
-* [https://www.spiegel.de/wissenschaft/mensch/weltuntergangsstimmung-von-fossiler-energie-abhaengig-zu-sein-ist-unsere-groesste-schwachstelle](https://www.spiegel.de/wissenschaft/mensch/weltuntergangsstimmung-von-fossiler-energie-abhaengig-zu-sein-ist-unsere-groesste-schwachstelle-a-15c4e9bc-32ba-46bc-9017-32a54faedf87#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/kritik-am-warnstreik-das-streikrecht-wird-inflationaer-ausgereizt](https://www.spiegel.de/wirtschaft/soziales/kritik-am-warnstreik-das-streikrecht-wird-inflationaer-ausgereizt-a-19b0ce4f-3e65-4463-8be7-efeb487f028c#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/panorama/frankreich-weltrekord-bei-schlumpfversammlung-knapp-verpasst](https://www.spiegel.de/panorama/frankreich-weltrekord-bei-schlumpfversammlung-knapp-verpasst-a-5cc94d4b-b0d8-4c8b-bdaf-affae158b1bc#ref=rss)
-### weltrekord
-
-* [https://www.spiegel.de/panorama/frankreich-weltrekord-bei-schlumpfversammlung-knapp-verpasst](https://www.spiegel.de/panorama/frankreich-weltrekord-bei-schlumpfversammlung-knapp-verpasst-a-5cc94d4b-b0d8-4c8b-bdaf-affae158b1bc#ref=rss)
-### gute
-
-* [https://www.spiegel.de/panorama/frankreich-weltrekord-bei-schlumpfversammlung-knapp-verpasst](https://www.spiegel.de/panorama/frankreich-weltrekord-bei-schlumpfversammlung-knapp-verpasst-a-5cc94d4b-b0d8-4c8b-bdaf-affae158b1bc#ref=rss)
-### streit
-
-* [https://www.spiegel.de/panorama/autobahn-5-streit-auf-der-ueberholspur](https://www.spiegel.de/panorama/autobahn-5-streit-auf-der-ueberholspur-a-28ef3830-6f13-439d-8fba-c797bbdd40ec#ref=rss)
-* [https://www.spiegel.de/auto/reaktionen-auf-den-e-fuel-kompromiss-nichts-weiter-als-wahlkampf-klimbim](https://www.spiegel.de/auto/reaktionen-auf-den-e-fuel-kompromiss-nichts-weiter-als-wahlkampf-klimbim-a-75151e90-d3df-48a3-9212-99c3e21fd146#ref=rss)
-### auseinandersetzung
-
-* [https://www.spiegel.de/panorama/autobahn-5-streit-auf-der-ueberholspur](https://www.spiegel.de/panorama/autobahn-5-streit-auf-der-ueberholspur-a-28ef3830-6f13-439d-8fba-c797bbdd40ec#ref=rss)
-* [https://www.spiegel.de/kultur/literatur/toxic-man-von-frederic-schwilden-nur-ein-toxisches-maennlein](https://www.spiegel.de/kultur/literatur/toxic-man-von-frederic-schwilden-nur-ein-toxisches-maennlein-a-f78beb83-66b8-437d-99da-80929d8010e0#ref=rss)
-### toxic
-
-* [https://www.spiegel.de/kultur/literatur/toxic-man-von-frederic-schwilden-nur-ein-toxisches-maennlein](https://www.spiegel.de/kultur/literatur/toxic-man-von-frederic-schwilden-nur-ein-toxisches-maennlein-a-f78beb83-66b8-437d-99da-80929d8010e0#ref=rss)
-### frédéric
-
-* [https://www.spiegel.de/kultur/literatur/toxic-man-von-frederic-schwilden-nur-ein-toxisches-maennlein](https://www.spiegel.de/kultur/literatur/toxic-man-von-frederic-schwilden-nur-ein-toxisches-maennlein-a-f78beb83-66b8-437d-99da-80929d8010e0#ref=rss)
-### mann
-
-* [https://www.spiegel.de/kultur/literatur/toxic-man-von-frederic-schwilden-nur-ein-toxisches-maennlein](https://www.spiegel.de/kultur/literatur/toxic-man-von-frederic-schwilden-nur-ein-toxisches-maennlein-a-f78beb83-66b8-437d-99da-80929d8010e0#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-ermittlungen-nach-uebergriff-auf-klimaaktivisten](https://www.spiegel.de/panorama/justiz/hamburg-ermittlungen-nach-uebergriff-auf-klimaaktivisten-a-1c3f622b-bc62-447b-8a44-1a8cc09caa54#ref=rss)
-### zeigt
-
-* [https://www.spiegel.de/kultur/ein-unordentliches-genie-und-eine-rede-fuer-die-ewigkeit-deutsch-kolumne](https://www.spiegel.de/kultur/ein-unordentliches-genie-und-eine-rede-fuer-die-ewigkeit-deutsch-kolumne-a-b8c97a5c-f77e-45c1-9d0d-aab0feb3a199#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/hamburg-ermittlungen-nach-uebergriff-auf-klimaaktivisten](https://www.spiegel.de/panorama/justiz/hamburg-ermittlungen-nach-uebergriff-auf-klimaaktivisten-a-1c3f622b-bc62-447b-8a44-1a8cc09caa54#ref=rss)
-### hamburg
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-ermittlungen-nach-uebergriff-auf-klimaaktivisten](https://www.spiegel.de/panorama/justiz/hamburg-ermittlungen-nach-uebergriff-auf-klimaaktivisten-a-1c3f622b-bc62-447b-8a44-1a8cc09caa54#ref=rss)
-### libanon
-
-* [https://www.spiegel.de/ausland/winter-und-sommerzeit-libanon-hat-jetzt-zwei-uhrzeiten](https://www.spiegel.de/ausland/winter-und-sommerzeit-libanon-hat-jetzt-zwei-uhrzeiten-a-2bb45825-6dac-4b04-ada1-41cf95b9dbfa#ref=rss)
-### uhrzeiten
-
-* [https://www.spiegel.de/ausland/winter-und-sommerzeit-libanon-hat-jetzt-zwei-uhrzeiten](https://www.spiegel.de/ausland/winter-und-sommerzeit-libanon-hat-jetzt-zwei-uhrzeiten-a-2bb45825-6dac-4b04-ada1-41cf95b9dbfa#ref=rss)
-### politische
-
-* [https://www.spiegel.de/ausland/winter-und-sommerzeit-libanon-hat-jetzt-zwei-uhrzeiten](https://www.spiegel.de/ausland/winter-und-sommerzeit-libanon-hat-jetzt-zwei-uhrzeiten-a-2bb45825-6dac-4b04-ada1-41cf95b9dbfa#ref=rss)
-* [https://www.spiegel.de/ausland/schottland-nicola-sturgeon-fahrstunden-als-erstes-anzeichen-ihres-rueckzugs](https://www.spiegel.de/ausland/schottland-nicola-sturgeon-fahrstunden-als-erstes-anzeichen-ihres-rueckzugs-a-f9c5c9b9-85b3-4d23-b0a8-2a9af718d796#ref=rss)
-### tatort
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-abbruchkante-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-abbruchkante-im-schnellcheck-a-5fcccf19-cf69-4091-b75b-eb17f37a07d1#ref=rss)
-### tot
-
-* [https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-abbruchkante-im-schnellcheck](https://www.spiegel.de/kultur/tv/tatort-heute-aus-koeln-abbruchkante-im-schnellcheck-a-5fcccf19-cf69-4091-b75b-eb17f37a07d1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fussball-hans-richter-ist-tot](https://www.spiegel.de/sport/fussball/fussball-hans-richter-ist-tot-a-ba694988-cc00-41a6-aa3a-85cce072eded#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/stil/weinbau-in-der-ukraine-wie-weingueter-und-winzer-im-krieg-weiter-arbeiten](https://www.spiegel.de/stil/weinbau-in-der-ukraine-wie-weingueter-und-winzer-im-krieg-weiter-arbeiten-a-df4c8511-defa-48c5-835d-708cb86da995#ref=rss)
-### unter
-
-* [https://www.spiegel.de/stil/weinbau-in-der-ukraine-wie-weingueter-und-winzer-im-krieg-weiter-arbeiten](https://www.spiegel.de/stil/weinbau-in-der-ukraine-wie-weingueter-und-winzer-im-krieg-weiter-arbeiten-a-df4c8511-defa-48c5-835d-708cb86da995#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/stil/weinbau-in-der-ukraine-wie-weingueter-und-winzer-im-krieg-weiter-arbeiten](https://www.spiegel.de/stil/weinbau-in-der-ukraine-wie-weingueter-und-winzer-im-krieg-weiter-arbeiten-a-df4c8511-defa-48c5-835d-708cb86da995#ref=rss)
-* [https://www.spiegel.de/ausland/das-glas-flog-in-diese-richtung-und-ich-stand-mit-dem-ruecken-an-der-tuer](https://www.spiegel.de/ausland/das-glas-flog-in-diese-richtung-und-ich-stand-mit-dem-ruecken-an-der-tuer-a-d3dcdbe2-ba1f-4778-92fd-f96d8cc2dd79#ref=rss)
-### fukushima
-
-* [https://www.spiegel.de/ausland/japan-fukushima-zwoelf-jahre-nach-dem-atomunfall-plastikherstellung-aus-reis](https://www.spiegel.de/ausland/japan-fukushima-zwoelf-jahre-nach-dem-atomunfall-plastikherstellung-aus-reis-a-8b12ceb6-610f-4d23-a5ef-9c36c10230a8#ref=rss)
-### zwölf
-
-* [https://www.spiegel.de/ausland/japan-fukushima-zwoelf-jahre-nach-dem-atomunfall-plastikherstellung-aus-reis](https://www.spiegel.de/ausland/japan-fukushima-zwoelf-jahre-nach-dem-atomunfall-plastikherstellung-aus-reis-a-8b12ceb6-610f-4d23-a5ef-9c36c10230a8#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/ausland/japan-fukushima-zwoelf-jahre-nach-dem-atomunfall-plastikherstellung-aus-reis](https://www.spiegel.de/ausland/japan-fukushima-zwoelf-jahre-nach-dem-atomunfall-plastikherstellung-aus-reis-a-8b12ceb6-610f-4d23-a5ef-9c36c10230a8#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/auto/reaktionen-auf-den-e-fuel-kompromiss-nichts-weiter-als-wahlkampf-klimbim](https://www.spiegel.de/auto/reaktionen-auf-den-e-fuel-kompromiss-nichts-weiter-als-wahlkampf-klimbim-a-75151e90-d3df-48a3-9212-99c3e21fd146#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/florida-schulleiterin-zum-ruecktritt-gezwungen-nachdem-sie-michelangelos-david-zeigte](https://www.spiegel.de/panorama/bildung/florida-schulleiterin-zum-ruecktritt-gezwungen-nachdem-sie-michelangelos-david-zeigte-a-5a7bf58c-5e1a-4575-8c0f-c9cd8730e8d9#ref=rss)
-### sahra
-
-* [https://www.spiegel.de/politik/deutschland/linken-chefin-wissler-fordert-schnelle-klarheit-von-wagenknecht](https://www.spiegel.de/politik/deutschland/linken-chefin-wissler-fordert-schnelle-klarheit-von-wagenknecht-a-73a2cd6e-5e3b-4264-a136-72eaf16e6928#ref=rss)
-### wagenknecht
-
-* [https://www.spiegel.de/politik/deutschland/linken-chefin-wissler-fordert-schnelle-klarheit-von-wagenknecht](https://www.spiegel.de/politik/deutschland/linken-chefin-wissler-fordert-schnelle-klarheit-von-wagenknecht-a-73a2cd6e-5e3b-4264-a136-72eaf16e6928#ref=rss)
+* [https://www.spiegel.de/panorama/leute/daniel-radcliffe-harry-potter-darsteller-wird-vater](https://www.spiegel.de/panorama/leute/daniel-radcliffe-harry-potter-darsteller-wird-vater-a-281aaf86-3d56-479d-a9de-202e67c9b91c#ref=rss)
+* [https://www.spiegel.de/panorama/los-angeles-passagier-rutscht-kurz-vor-abflug-aus-dem-flugzeug](https://www.spiegel.de/panorama/los-angeles-passagier-rutscht-kurz-vor-abflug-aus-dem-flugzeug-a-639e53f6-07b0-4979-8c9e-8d51a4327929#ref=rss)
 ### fordert
 
-* [https://www.spiegel.de/politik/deutschland/linken-chefin-wissler-fordert-schnelle-klarheit-von-wagenknecht](https://www.spiegel.de/politik/deutschland/linken-chefin-wissler-fordert-schnelle-klarheit-von-wagenknecht-a-73a2cd6e-5e3b-4264-a136-72eaf16e6928#ref=rss)
-### italien
+* [https://www.spiegel.de/politik/deutschland/bernd-riexinger-ehemaliger-linken-chef-fordert-neue-fraktionsspitze](https://www.spiegel.de/politik/deutschland/bernd-riexinger-ehemaliger-linken-chef-fordert-neue-fraktionsspitze-a-6d6ca687-645b-42f6-b946-4f10e7677945#ref=rss)
+* [https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform-a-7714cfba-a08f-4d53-a877-8dc3e477349d#ref=rss)
+### neue
 
-* [https://www.spiegel.de/ausland/italien-mehr-als-3000-gefluechtete-erreichen-insel-lampedusa](https://www.spiegel.de/ausland/italien-mehr-als-3000-gefluechtete-erreichen-insel-lampedusa-a-ea14da26-3881-419d-ad4f-a7c9e9ba1637#ref=rss)
-### geflüchtete
+* [https://www.spiegel.de/politik/deutschland/bernd-riexinger-ehemaliger-linken-chef-fordert-neue-fraktionsspitze](https://www.spiegel.de/politik/deutschland/bernd-riexinger-ehemaliger-linken-chef-fordert-neue-fraktionsspitze-a-6d6ca687-645b-42f6-b946-4f10e7677945#ref=rss)
+* [https://www.spiegel.de/karriere/mitarbeiter-vergrault-staendig-neue-mitarbeiter-was-tun-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/mitarbeiter-vergrault-staendig-neue-mitarbeiter-was-tun-tipps-von-der-karriereberaterin-a-2223036f-aa90-42d8-b4e6-2c4eb7e85e1c#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kritik-an-habeck-forscher-beklagen-grosse-luecken-in-der-klimapolitik](https://www.spiegel.de/wissenschaft/kritik-an-habeck-forscher-beklagen-grosse-luecken-in-der-klimapolitik-a-afd6792e-ca4e-4cd9-a7fb-14bf006b3f8e#ref=rss)
+### flüge
 
-* [https://www.spiegel.de/ausland/italien-mehr-als-3000-gefluechtete-erreichen-insel-lampedusa](https://www.spiegel.de/ausland/italien-mehr-als-3000-gefluechtete-erreichen-insel-lampedusa-a-ea14da26-3881-419d-ad4f-a7c9e9ba1637#ref=rss)
-### vergangenen
+* [https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an](https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an-a-41305941-5ad8-4801-ade2-0636ff34e93c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler](https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler-a-a4e31560-0f26-4464-9294-a535930ab20e#ref=rss)
+### gewerkschaften
 
-* [https://www.spiegel.de/ausland/italien-mehr-als-3000-gefluechtete-erreichen-insel-lampedusa](https://www.spiegel.de/ausland/italien-mehr-als-3000-gefluechtete-erreichen-insel-lampedusa-a-ea14da26-3881-419d-ad4f-a7c9e9ba1637#ref=rss)
-* [https://www.spiegel.de/netzwelt/games/gaming-tipps-sechs-grandiose-games-zum-fruehlingsbeginn](https://www.spiegel.de/netzwelt/games/gaming-tipps-sechs-grandiose-games-zum-fruehlingsbeginn-a-d2dabce6-79e5-4bcd-b86b-27b7eebe19c5#ref=rss)
-### leben
+* [https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an](https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an-a-41305941-5ad8-4801-ade2-0636ff34e93c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform-a-d826e0a1-33be-419a-a4c6-5532d65d82e0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/streiks-die-gewerkschaften-ver-di-und-evg-wollen-stark-wirken](https://www.spiegel.de/wirtschaft/soziales/streiks-die-gewerkschaften-ver-di-und-evg-wollen-stark-wirken-a-16bf8f40-3671-4b6a-bc8e-ca913be1c713#ref=rss)
+### news
 
-* [https://www.spiegel.de/ausland/italien-mehr-als-3000-gefluechtete-erreichen-insel-lampedusa](https://www.spiegel.de/ausland/italien-mehr-als-3000-gefluechtete-erreichen-insel-lampedusa-a-ea14da26-3881-419d-ad4f-a7c9e9ba1637#ref=rss)
-* [https://www.spiegel.de/ausland/das-glas-flog-in-diese-richtung-und-ich-stand-mit-dem-ruecken-an-der-tuer](https://www.spiegel.de/ausland/das-glas-flog-in-diese-richtung-und-ich-stand-mit-dem-ruecken-an-der-tuer-a-d3dcdbe2-ba1f-4778-92fd-f96d8cc2dd79#ref=rss)
-### tina
+* [https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an](https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an-a-41305941-5ad8-4801-ade2-0636ff34e93c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler](https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler-a-a4e31560-0f26-4464-9294-a535930ab20e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel](https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel-a-926e6424-5a85-43b0-807b-2b3a78916bcc#ref=rss)
+### macht
 
-* [https://www.spiegel.de/sport/boxen-tina-rupprecht-verliert-wm-titel-im-minimumgewicht-vor-mehr-als-10-000-zuschauern](https://www.spiegel.de/sport/boxen-tina-rupprecht-verliert-wm-titel-im-minimumgewicht-vor-mehr-als-10-000-zuschauern-a-dc62dec6-1523-40d8-95f0-4e2ac9694441#ref=rss)
-### rupprecht
+* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-fake-franziskus-geht-viral](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-fake-franziskus-geht-viral-a-d85bf901-2bd8-4e02-a900-3951995b49d4#ref=rss)
+* [https://www.spiegel.de/kultur/kino/der-herr-der-ringe-ringe-der-macht-pferd-stirbt-peta-fordert-cgi-tiere](https://www.spiegel.de/kultur/kino/der-herr-der-ringe-ringe-der-macht-pferd-stirbt-peta-fordert-cgi-tiere-a-fef37705-2e84-4f2a-bb4f-7f757740ef18#ref=rss)
+### evg
 
-* [https://www.spiegel.de/sport/boxen-tina-rupprecht-verliert-wm-titel-im-minimumgewicht-vor-mehr-als-10-000-zuschauern](https://www.spiegel.de/sport/boxen-tina-rupprecht-verliert-wm-titel-im-minimumgewicht-vor-mehr-als-10-000-zuschauern-a-dc62dec6-1523-40d8-95f0-4e2ac9694441#ref=rss)
-### wmtitel
+* [https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler](https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler-a-a4e31560-0f26-4464-9294-a535930ab20e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/streiks-die-gewerkschaften-ver-di-und-evg-wollen-stark-wirken](https://www.spiegel.de/wirtschaft/soziales/streiks-die-gewerkschaften-ver-di-und-evg-wollen-stark-wirken-a-16bf8f40-3671-4b6a-bc8e-ca913be1c713#ref=rss)
+### dazu
 
-* [https://www.spiegel.de/sport/boxen-tina-rupprecht-verliert-wm-titel-im-minimumgewicht-vor-mehr-als-10-000-zuschauern](https://www.spiegel.de/sport/boxen-tina-rupprecht-verliert-wm-titel-im-minimumgewicht-vor-mehr-als-10-000-zuschauern-a-dc62dec6-1523-40d8-95f0-4e2ac9694441#ref=rss)
-### minimumgewicht
+* [https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler](https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler-a-a4e31560-0f26-4464-9294-a535930ab20e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck-a-a59c3d95-d99c-4ddd-8ba3-63e16068596e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/streiks-die-gewerkschaften-ver-di-und-evg-wollen-stark-wirken](https://www.spiegel.de/wirtschaft/soziales/streiks-die-gewerkschaften-ver-di-und-evg-wollen-stark-wirken-a-16bf8f40-3671-4b6a-bc8e-ca913be1c713#ref=rss)
+### israel
 
-* [https://www.spiegel.de/sport/boxen-tina-rupprecht-verliert-wm-titel-im-minimumgewicht-vor-mehr-als-10-000-zuschauern](https://www.spiegel.de/sport/boxen-tina-rupprecht-verliert-wm-titel-im-minimumgewicht-vor-mehr-als-10-000-zuschauern-a-dc62dec6-1523-40d8-95f0-4e2ac9694441#ref=rss)
-### verlor
+* [https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform-a-d826e0a1-33be-419a-a4c6-5532d65d82e0#ref=rss)
+* [https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform-a-7714cfba-a08f-4d53-a877-8dc3e477349d#ref=rss)
+### stopp
 
-* [https://www.spiegel.de/sport/boxen-tina-rupprecht-verliert-wm-titel-im-minimumgewicht-vor-mehr-als-10-000-zuschauern](https://www.spiegel.de/sport/boxen-tina-rupprecht-verliert-wm-titel-im-minimumgewicht-vor-mehr-als-10-000-zuschauern-a-dc62dec6-1523-40d8-95f0-4e2ac9694441#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/florida-schulleiterin-zum-ruecktritt-gezwungen-nachdem-sie-michelangelos-david-zeigte](https://www.spiegel.de/panorama/bildung/florida-schulleiterin-zum-ruecktritt-gezwungen-nachdem-sie-michelangelos-david-zeigte-a-5a7bf58c-5e1a-4575-8c0f-c9cd8730e8d9#ref=rss)
-### florida
+* [https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform-a-d826e0a1-33be-419a-a4c6-5532d65d82e0#ref=rss)
+* [https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform-a-7714cfba-a08f-4d53-a877-8dc3e477349d#ref=rss)
+### präsident
 
-* [https://www.spiegel.de/panorama/bildung/florida-schulleiterin-zum-ruecktritt-gezwungen-nachdem-sie-michelangelos-david-zeigte](https://www.spiegel.de/panorama/bildung/florida-schulleiterin-zum-ruecktritt-gezwungen-nachdem-sie-michelangelos-david-zeigte-a-5a7bf58c-5e1a-4575-8c0f-c9cd8730e8d9#ref=rss)
-### schulleiterin
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck-a-a59c3d95-d99c-4ddd-8ba3-63e16068596e#ref=rss)
+* [https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform-a-7714cfba-a08f-4d53-a877-8dc3e477349d#ref=rss)
+### klimapolitik
 
-* [https://www.spiegel.de/panorama/bildung/florida-schulleiterin-zum-ruecktritt-gezwungen-nachdem-sie-michelangelos-david-zeigte](https://www.spiegel.de/panorama/bildung/florida-schulleiterin-zum-ruecktritt-gezwungen-nachdem-sie-michelangelos-david-zeigte-a-5a7bf58c-5e1a-4575-8c0f-c9cd8730e8d9#ref=rss)
-### zeigte
+* [https://www.spiegel.de/wissenschaft/juristin-ueber-die-klimapolitik-der-ampel-ich-bin-ehrlich-gesagt-entsetzt-wie-wenig-bisher-passiert-ist](https://www.spiegel.de/wissenschaft/juristin-ueber-die-klimapolitik-der-ampel-ich-bin-ehrlich-gesagt-entsetzt-wie-wenig-bisher-passiert-ist-a-464d850b-1d27-497a-b793-555fdaec9e24#ref=rss)
+* [https://www.spiegel.de/wissenschaft/kritik-an-habeck-forscher-beklagen-grosse-luecken-in-der-klimapolitik](https://www.spiegel.de/wissenschaft/kritik-an-habeck-forscher-beklagen-grosse-luecken-in-der-klimapolitik-a-afd6792e-ca4e-4cd9-a7fb-14bf006b3f8e#ref=rss)
+### mitarbeiter
 
-* [https://www.spiegel.de/panorama/bildung/florida-schulleiterin-zum-ruecktritt-gezwungen-nachdem-sie-michelangelos-david-zeigte](https://www.spiegel.de/panorama/bildung/florida-schulleiterin-zum-ruecktritt-gezwungen-nachdem-sie-michelangelos-david-zeigte-a-5a7bf58c-5e1a-4575-8c0f-c9cd8730e8d9#ref=rss)
-### alle
+* [https://www.spiegel.de/karriere/mitarbeiter-vergrault-staendig-neue-mitarbeiter-was-tun-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/mitarbeiter-vergrault-staendig-neue-mitarbeiter-was-tun-tipps-von-der-karriereberaterin-a-2223036f-aa90-42d8-b4e6-2c4eb7e85e1c#ref=rss)
+### alibabagründer
 
-* [https://www.spiegel.de/wirtschaft/soziales/kritik-am-warnstreik-das-streikrecht-wird-inflationaer-ausgereizt](https://www.spiegel.de/wirtschaft/soziales/kritik-am-warnstreik-das-streikrecht-wird-inflationaer-ausgereizt-a-19b0ce4f-3e65-4463-8be7-efeb487f028c#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-will-haerter-gegen-vandalismus-vorgehen](https://www.spiegel.de/ausland/grossbritannien-regierung-will-haerter-gegen-vandalismus-vorgehen-a-eb9e6a13-5838-48a7-80b6-c3ac6d9e0cb3#ref=rss)
-### sechs
+* [https://www.spiegel.de/wirtschaft/unternehmen/alibaba-gruender-jack-ma-verschwundener-techmilliardaer-wieder-zurueck-in-china](https://www.spiegel.de/wirtschaft/unternehmen/alibaba-gruender-jack-ma-verschwundener-techmilliardaer-wieder-zurueck-in-china-a-2af4f447-a0a1-474c-b55f-edd179cafe8f#ref=rss)
+### jack
 
-* [https://www.spiegel.de/netzwelt/games/gaming-tipps-sechs-grandiose-games-zum-fruehlingsbeginn](https://www.spiegel.de/netzwelt/games/gaming-tipps-sechs-grandiose-games-zum-fruehlingsbeginn-a-d2dabce6-79e5-4bcd-b86b-27b7eebe19c5#ref=rss)
-### frankfurter
+* [https://www.spiegel.de/wirtschaft/unternehmen/alibaba-gruender-jack-ma-verschwundener-techmilliardaer-wieder-zurueck-in-china](https://www.spiegel.de/wirtschaft/unternehmen/alibaba-gruender-jack-ma-verschwundener-techmilliardaer-wieder-zurueck-in-china-a-2af4f447-a0a1-474c-b55f-edd179cafe8f#ref=rss)
+### ma
 
-* [https://www.spiegel.de/wirtschaft/service/frankfurter-flughafen-verspaetungen-und-ausfaelle-bei-lufthansa](https://www.spiegel.de/wirtschaft/service/frankfurter-flughafen-verspaetungen-und-ausfaelle-bei-lufthansa-a-14d7a845-e155-49aa-ad6f-a345c00bdd42#ref=rss)
-### flughafen
+* [https://www.spiegel.de/wirtschaft/unternehmen/alibaba-gruender-jack-ma-verschwundener-techmilliardaer-wieder-zurueck-in-china](https://www.spiegel.de/wirtschaft/unternehmen/alibaba-gruender-jack-ma-verschwundener-techmilliardaer-wieder-zurueck-in-china-a-2af4f447-a0a1-474c-b55f-edd179cafe8f#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/wirtschaft/service/frankfurter-flughafen-verspaetungen-und-ausfaelle-bei-lufthansa](https://www.spiegel.de/wirtschaft/service/frankfurter-flughafen-verspaetungen-und-ausfaelle-bei-lufthansa-a-14d7a845-e155-49aa-ad6f-a345c00bdd42#ref=rss)
-### lufthansa
+* [https://www.spiegel.de/wirtschaft/unternehmen/alibaba-gruender-jack-ma-verschwundener-techmilliardaer-wieder-zurueck-in-china](https://www.spiegel.de/wirtschaft/unternehmen/alibaba-gruender-jack-ma-verschwundener-techmilliardaer-wieder-zurueck-in-china-a-2af4f447-a0a1-474c-b55f-edd179cafe8f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck-a-a59c3d95-d99c-4ddd-8ba3-63e16068596e#ref=rss)
+### china
 
-* [https://www.spiegel.de/wirtschaft/service/frankfurter-flughafen-verspaetungen-und-ausfaelle-bei-lufthansa](https://www.spiegel.de/wirtschaft/service/frankfurter-flughafen-verspaetungen-und-ausfaelle-bei-lufthansa-a-14d7a845-e155-49aa-ad6f-a345c00bdd42#ref=rss)
-### mississippi
+* [https://www.spiegel.de/wirtschaft/unternehmen/alibaba-gruender-jack-ma-verschwundener-techmilliardaer-wieder-zurueck-in-china](https://www.spiegel.de/wirtschaft/unternehmen/alibaba-gruender-jack-ma-verschwundener-techmilliardaer-wieder-zurueck-in-china-a-2af4f447-a0a1-474c-b55f-edd179cafe8f#ref=rss)
+### donald
 
-* [https://www.spiegel.de/ausland/das-glas-flog-in-diese-richtung-und-ich-stand-mit-dem-ruecken-an-der-tuer](https://www.spiegel.de/ausland/das-glas-flog-in-diese-richtung-und-ich-stand-mit-dem-ruecken-an-der-tuer-a-d3dcdbe2-ba1f-4778-92fd-f96d8cc2dd79#ref=rss)
-### vorgehen
+* [https://www.spiegel.de/ausland/donald-trump-taktische-tiraden-zum-wahlkampfauftakt-in-texas](https://www.spiegel.de/ausland/donald-trump-taktische-tiraden-zum-wahlkampfauftakt-in-texas-a-23fa8f5d-9e5e-4cf7-915e-3b5affdc75ea#ref=rss)
+### trump
 
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-will-haerter-gegen-vandalismus-vorgehen](https://www.spiegel.de/ausland/grossbritannien-regierung-will-haerter-gegen-vandalismus-vorgehen-a-eb9e6a13-5838-48a7-80b6-c3ac6d9e0cb3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann-a-a8697d7f-29cb-46b2-8c58-561860e01a9c#ref=rss)
-### selbst
+* [https://www.spiegel.de/ausland/donald-trump-taktische-tiraden-zum-wahlkampfauftakt-in-texas](https://www.spiegel.de/ausland/donald-trump-taktische-tiraden-zum-wahlkampfauftakt-in-texas-a-23fa8f5d-9e5e-4cf7-915e-3b5affdc75ea#ref=rss)
+### texas
 
-* [https://www.spiegel.de/ausland/grossbritannien-regierung-will-haerter-gegen-vandalismus-vorgehen](https://www.spiegel.de/ausland/grossbritannien-regierung-will-haerter-gegen-vandalismus-vorgehen-a-eb9e6a13-5838-48a7-80b6-c3ac6d9e0cb3#ref=rss)
-* [https://www.spiegel.de/ausland/schottland-nicola-sturgeon-fahrstunden-als-erstes-anzeichen-ihres-rueckzugs](https://www.spiegel.de/ausland/schottland-nicola-sturgeon-fahrstunden-als-erstes-anzeichen-ihres-rueckzugs-a-f9c5c9b9-85b3-4d23-b0a8-2a9af718d796#ref=rss)
-### schrieb
+* [https://www.spiegel.de/ausland/donald-trump-taktische-tiraden-zum-wahlkampfauftakt-in-texas](https://www.spiegel.de/ausland/donald-trump-taktische-tiraden-zum-wahlkampfauftakt-in-texas-a-23fa8f5d-9e5e-4cf7-915e-3b5affdc75ea#ref=rss)
+### radcliffe
 
-* [https://www.spiegel.de/ausland/protest-in-russland-sie-schrieb-an-putins-eltern-jetzt-steht-irina-tsybanjewa-vor-gericht](https://www.spiegel.de/ausland/protest-in-russland-sie-schrieb-an-putins-eltern-jetzt-steht-irina-tsybanjewa-vor-gericht-a-152231be-0e54-4e2a-8b3e-adcbb5de24bd#ref=rss)
-### irina
+* [https://www.spiegel.de/panorama/leute/daniel-radcliffe-harry-potter-darsteller-wird-vater](https://www.spiegel.de/panorama/leute/daniel-radcliffe-harry-potter-darsteller-wird-vater-a-281aaf86-3d56-479d-a9de-202e67c9b91c#ref=rss)
+### möchte
 
-* [https://www.spiegel.de/ausland/protest-in-russland-sie-schrieb-an-putins-eltern-jetzt-steht-irina-tsybanjewa-vor-gericht](https://www.spiegel.de/ausland/protest-in-russland-sie-schrieb-an-putins-eltern-jetzt-steht-irina-tsybanjewa-vor-gericht-a-152231be-0e54-4e2a-8b3e-adcbb5de24bd#ref=rss)
-### tsybanjewa
+* [https://www.spiegel.de/panorama/leute/daniel-radcliffe-harry-potter-darsteller-wird-vater](https://www.spiegel.de/panorama/leute/daniel-radcliffe-harry-potter-darsteller-wird-vater-a-281aaf86-3d56-479d-a9de-202e67c9b91c#ref=rss)
+* [https://www.spiegel.de/psychologie/ziele-erreichen-warum-eigentlich-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/ziele-erreichen-warum-eigentlich-spiegel-coaching-podcast-a-504dab5f-d2fe-45b7-840f-5d3071b0db7a#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/ausland/protest-in-russland-sie-schrieb-an-putins-eltern-jetzt-steht-irina-tsybanjewa-vor-gericht](https://www.spiegel.de/ausland/protest-in-russland-sie-schrieb-an-putins-eltern-jetzt-steht-irina-tsybanjewa-vor-gericht-a-152231be-0e54-4e2a-8b3e-adcbb5de24bd#ref=rss)
-### gericht
+* [https://www.spiegel.de/politik/deutschland/bernd-riexinger-ehemaliger-linken-chef-fordert-neue-fraktionsspitze](https://www.spiegel.de/politik/deutschland/bernd-riexinger-ehemaliger-linken-chef-fordert-neue-fraktionsspitze-a-6d6ca687-645b-42f6-b946-4f10e7677945#ref=rss)
+* [https://www.spiegel.de/panorama/schwangerschaftsabbrueche-sind-2022-um-fast-zehn-prozent-gestiegen](https://www.spiegel.de/panorama/schwangerschaftsabbrueche-sind-2022-um-fast-zehn-prozent-gestiegen-a-c15a2494-4f22-4bf1-9797-2ab15fcbe6e2#ref=rss)
+### streit
 
-* [https://www.spiegel.de/ausland/protest-in-russland-sie-schrieb-an-putins-eltern-jetzt-steht-irina-tsybanjewa-vor-gericht](https://www.spiegel.de/ausland/protest-in-russland-sie-schrieb-an-putins-eltern-jetzt-steht-irina-tsybanjewa-vor-gericht-a-152231be-0e54-4e2a-8b3e-adcbb5de24bd#ref=rss)
-### putin
+* [https://www.spiegel.de/politik/deutschland/bernd-riexinger-ehemaliger-linken-chef-fordert-neue-fraktionsspitze](https://www.spiegel.de/politik/deutschland/bernd-riexinger-ehemaliger-linken-chef-fordert-neue-fraktionsspitze-a-6d6ca687-645b-42f6-b946-4f10e7677945#ref=rss)
+* [https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform-a-d826e0a1-33be-419a-a4c6-5532d65d82e0#ref=rss)
+### generalstreik
 
-* [https://www.spiegel.de/ausland/protest-in-russland-sie-schrieb-an-putins-eltern-jetzt-steht-irina-tsybanjewa-vor-gericht](https://www.spiegel.de/ausland/protest-in-russland-sie-schrieb-an-putins-eltern-jetzt-steht-irina-tsybanjewa-vor-gericht-a-152231be-0e54-4e2a-8b3e-adcbb5de24bd#ref=rss)
-### fc
+* [https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an](https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an-a-41305941-5ad8-4801-ade2-0636ff34e93c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform-a-d826e0a1-33be-419a-a4c6-5532d65d82e0#ref=rss)
+### gestrichen
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann-a-a8697d7f-29cb-46b2-8c58-561860e01a9c#ref=rss)
-### bayern
+* [https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an](https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an-a-41305941-5ad8-4801-ade2-0636ff34e93c#ref=rss)
+### straßen
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann-a-a8697d7f-29cb-46b2-8c58-561860e01a9c#ref=rss)
-### hasan
+* [https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an](https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an-a-41305941-5ad8-4801-ade2-0636ff34e93c#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler](https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler-a-a4e31560-0f26-4464-9294-a535930ab20e#ref=rss)
+### rufen
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann-a-a8697d7f-29cb-46b2-8c58-561860e01a9c#ref=rss)
-### salihamidžić
+* [https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an](https://www.spiegel.de/ausland/israel-historischer-generalstreik-gegen-justizreform-laeuft-an-a-41305941-5ad8-4801-ade2-0636ff34e93c#ref=rss)
+* [https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform-a-d826e0a1-33be-419a-a4c6-5532d65d82e0#ref=rss)
+### künstliche
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann-a-a8697d7f-29cb-46b2-8c58-561860e01a9c#ref=rss)
-### julian
+* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-fake-franziskus-geht-viral](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-fake-franziskus-geht-viral-a-d85bf901-2bd8-4e02-a900-3951995b49d4#ref=rss)
+### intelligenz
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann-a-a8697d7f-29cb-46b2-8c58-561860e01a9c#ref=rss)
-### nagelsmann
+* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-fake-franziskus-geht-viral](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-fake-franziskus-geht-viral-a-d85bf901-2bd8-4e02-a900-3951995b49d4#ref=rss)
+### motive
 
-* [https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann](https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-hasan-salihamidzic-verteidigt-vorgehen-bei-julian-nagelsmann-a-a8697d7f-29cb-46b2-8c58-561860e01a9c#ref=rss)
-### hans
+* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-fake-franziskus-geht-viral](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-fake-franziskus-geht-viral-a-d85bf901-2bd8-4e02-a900-3951995b49d4#ref=rss)
+* [https://www.spiegel.de/psychologie/ziele-erreichen-warum-eigentlich-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/ziele-erreichen-warum-eigentlich-spiegel-coaching-podcast-a-504dab5f-d2fe-45b7-840f-5d3071b0db7a#ref=rss)
+### gut
 
-* [https://www.spiegel.de/sport/fussball/fussball-hans-richter-ist-tot](https://www.spiegel.de/sport/fussball/fussball-hans-richter-ist-tot-a-ba694988-cc00-41a6-aa3a-85cce072eded#ref=rss)
-### richter
+* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-fake-franziskus-geht-viral](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-fake-franziskus-geht-viral-a-d85bf901-2bd8-4e02-a900-3951995b49d4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/stimmung-in-deutschen-unternehmen-hellt-sich-auf](https://www.spiegel.de/wirtschaft/unternehmen/stimmung-in-deutschen-unternehmen-hellt-sich-auf-a-dd97297c-af99-474e-9562-153cb9e9d1ca#ref=rss)
+### wirtschaft
 
-* [https://www.spiegel.de/sport/fussball/fussball-hans-richter-ist-tot](https://www.spiegel.de/sport/fussball/fussball-hans-richter-ist-tot-a-ba694988-cc00-41a6-aa3a-85cce072eded#ref=rss)
-### schottland
+* [https://www.spiegel.de/wirtschaft/unternehmen/stimmung-in-deutschen-unternehmen-hellt-sich-auf](https://www.spiegel.de/wirtschaft/unternehmen/stimmung-in-deutschen-unternehmen-hellt-sich-auf-a-dd97297c-af99-474e-9562-153cb9e9d1ca#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/ausland/schottland-nicola-sturgeon-fahrstunden-als-erstes-anzeichen-ihres-rueckzugs](https://www.spiegel.de/ausland/schottland-nicola-sturgeon-fahrstunden-als-erstes-anzeichen-ihres-rueckzugs-a-f9c5c9b9-85b3-4d23-b0a8-2a9af718d796#ref=rss)
-### nicola
+* [https://www.spiegel.de/wirtschaft/unternehmen/stimmung-in-deutschen-unternehmen-hellt-sich-auf](https://www.spiegel.de/wirtschaft/unternehmen/stimmung-in-deutschen-unternehmen-hellt-sich-auf-a-dd97297c-af99-474e-9562-153cb9e9d1ca#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel](https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel-a-926e6424-5a85-43b0-807b-2b3a78916bcc#ref=rss)
+### allen
 
-* [https://www.spiegel.de/ausland/schottland-nicola-sturgeon-fahrstunden-als-erstes-anzeichen-ihres-rueckzugs](https://www.spiegel.de/ausland/schottland-nicola-sturgeon-fahrstunden-als-erstes-anzeichen-ihres-rueckzugs-a-f9c5c9b9-85b3-4d23-b0a8-2a9af718d796#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/stimmung-in-deutschen-unternehmen-hellt-sich-auf](https://www.spiegel.de/wirtschaft/unternehmen/stimmung-in-deutschen-unternehmen-hellt-sich-auf-a-dd97297c-af99-474e-9562-153cb9e9d1ca#ref=rss)
+* [https://www.spiegel.de/start/tiermedizin-studieren-voraussetzungen-inhalte-berufsaussichten](https://www.spiegel.de/start/tiermedizin-studieren-voraussetzungen-inhalte-berufsaussichten-a-5fa87bf0-0d74-49d6-8919-08676cdb8453#ref=rss)
+### herr
+
+* [https://www.spiegel.de/kultur/kino/der-herr-der-ringe-ringe-der-macht-pferd-stirbt-peta-fordert-cgi-tiere](https://www.spiegel.de/kultur/kino/der-herr-der-ringe-ringe-der-macht-pferd-stirbt-peta-fordert-cgi-tiere-a-fef37705-2e84-4f2a-bb4f-7f757740ef18#ref=rss)
+### pferd
+
+* [https://www.spiegel.de/kultur/kino/der-herr-der-ringe-ringe-der-macht-pferd-stirbt-peta-fordert-cgi-tiere](https://www.spiegel.de/kultur/kino/der-herr-der-ringe-ringe-der-macht-pferd-stirbt-peta-fordert-cgi-tiere-a-fef37705-2e84-4f2a-bb4f-7f757740ef18#ref=rss)
+### warnstreik
+
+* [https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler](https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler-a-a4e31560-0f26-4464-9294-a535930ab20e#ref=rss)
+### fast
+
+* [https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler](https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler-a-a4e31560-0f26-4464-9294-a535930ab20e#ref=rss)
+* [https://www.spiegel.de/panorama/schwangerschaftsabbrueche-sind-2022-um-fast-zehn-prozent-gestiegen](https://www.spiegel.de/panorama/schwangerschaftsabbrueche-sind-2022-um-fast-zehn-prozent-gestiegen-a-c15a2494-4f22-4bf1-9797-2ab15fcbe6e2#ref=rss)
+### lahm
+
+* [https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler](https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler-a-a4e31560-0f26-4464-9294-a535930ab20e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/streiks-die-gewerkschaften-ver-di-und-evg-wollen-stark-wirken](https://www.spiegel.de/wirtschaft/soziales/streiks-die-gewerkschaften-ver-di-und-evg-wollen-stark-wirken-a-16bf8f40-3671-4b6a-bc8e-ca913be1c713#ref=rss)
+### diesem
+
+* [https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler](https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler-a-a4e31560-0f26-4464-9294-a535930ab20e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/streiks-die-gewerkschaften-ver-di-und-evg-wollen-stark-wirken](https://www.spiegel.de/wirtschaft/soziales/streiks-die-gewerkschaften-ver-di-und-evg-wollen-stark-wirken-a-16bf8f40-3671-4b6a-bc8e-ca913be1c713#ref=rss)
+### montag
+
+* [https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler](https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler-a-a4e31560-0f26-4464-9294-a535930ab20e#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel](https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel-a-926e6424-5a85-43b0-807b-2b3a78916bcc#ref=rss)
+### besser
+
+* [https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler](https://www.spiegel.de/wirtschaft/service/liveblog-zum-warnstreik-bahnverkehr-fast-vollstaendig-lahmgelegt-herausforderungen-fuer-pendler-a-a4e31560-0f26-4464-9294-a535930ab20e#ref=rss)
+* [https://www.spiegel.de/psychologie/ziele-erreichen-warum-eigentlich-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/ziele-erreichen-warum-eigentlich-spiegel-coaching-podcast-a-504dab5f-d2fe-45b7-840f-5d3071b0db7a#ref=rss)
+### los
+
+* [https://www.spiegel.de/panorama/los-angeles-passagier-rutscht-kurz-vor-abflug-aus-dem-flugzeug](https://www.spiegel.de/panorama/los-angeles-passagier-rutscht-kurz-vor-abflug-aus-dem-flugzeug-a-639e53f6-07b0-4979-8c9e-8d51a4327929#ref=rss)
+### angeles
+
+* [https://www.spiegel.de/panorama/los-angeles-passagier-rutscht-kurz-vor-abflug-aus-dem-flugzeug](https://www.spiegel.de/panorama/los-angeles-passagier-rutscht-kurz-vor-abflug-aus-dem-flugzeug-a-639e53f6-07b0-4979-8c9e-8d51a4327929#ref=rss)
+### passagier
+
+* [https://www.spiegel.de/panorama/los-angeles-passagier-rutscht-kurz-vor-abflug-aus-dem-flugzeug](https://www.spiegel.de/panorama/los-angeles-passagier-rutscht-kurz-vor-abflug-aus-dem-flugzeug-a-639e53f6-07b0-4979-8c9e-8d51a4327929#ref=rss)
+### abflug
+
+* [https://www.spiegel.de/panorama/los-angeles-passagier-rutscht-kurz-vor-abflug-aus-dem-flugzeug](https://www.spiegel.de/panorama/los-angeles-passagier-rutscht-kurz-vor-abflug-aus-dem-flugzeug-a-639e53f6-07b0-4979-8c9e-8d51a4327929#ref=rss)
+### ocean
+
+* [https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf](https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf-a-70fd5b58-6947-4001-9e7d-94c2b295b3a7#ref=rss)
+### race
+
+* [https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf](https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf-a-70fd5b58-6947-4001-9e7d-94c2b295b3a7#ref=rss)
+### boris
+
+* [https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf](https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf-a-70fd5b58-6947-4001-9e7d-94c2b295b3a7#ref=rss)
+### herrmann
+
+* [https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf](https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf-a-70fd5b58-6947-4001-9e7d-94c2b295b3a7#ref=rss)
+### seglerin
+
+* [https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf](https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf-a-70fd5b58-6947-4001-9e7d-94c2b295b3a7#ref=rss)
+### rosalin
+
+* [https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf](https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf-a-70fd5b58-6947-4001-9e7d-94c2b295b3a7#ref=rss)
+### kuiper
+
+* [https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf](https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf-a-70fd5b58-6947-4001-9e7d-94c2b295b3a7#ref=rss)
+### sturz
+
+* [https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf](https://www.spiegel.de/sport/ocean-race-mit-boris-herrmann-seglerin-rosalin-kuiper-verletzt-sich-bei-sturz-aus-koje-am-kopf-a-70fd5b58-6947-4001-9e7d-94c2b295b3a7#ref=rss)
+### eskaliert
+
+* [https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform-a-d826e0a1-33be-419a-a4c6-5532d65d82e0#ref=rss)
+* [https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform-a-7714cfba-a08f-4d53-a877-8dc3e477349d#ref=rss)
+### geplante
+
+* [https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform-a-d826e0a1-33be-419a-a4c6-5532d65d82e0#ref=rss)
+* [https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform-a-7714cfba-a08f-4d53-a877-8dc3e477349d#ref=rss)
+### möglichen
+
+* [https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform-a-d826e0a1-33be-419a-a4c6-5532d65d82e0#ref=rss)
+* [https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-praesident-herzog-fordert-stopp-der-justizreform-a-7714cfba-a08f-4d53-a877-8dc3e477349d#ref=rss)
+### streik
+
+* [https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform](https://www.spiegel.de/ausland/israel-generalstreik-angekuendigt-koalition-diskutiert-stopp-der-justizreform-a-d826e0a1-33be-419a-a4c6-5532d65d82e0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel](https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel-a-926e6424-5a85-43b0-807b-2b3a78916bcc#ref=rss)
+### credit
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck-a-a59c3d95-d99c-4ddd-8ba3-63e16068596e#ref=rss)
+### suisse
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck-a-a59c3d95-d99c-4ddd-8ba3-63e16068596e#ref=rss)
+### saudi
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck-a-a59c3d95-d99c-4ddd-8ba3-63e16068596e#ref=rss)
+### national
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck-a-a59c3d95-d99c-4ddd-8ba3-63e16068596e#ref=rss)
+### ammar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck-a-a59c3d95-d99c-4ddd-8ba3-63e16068596e#ref=rss)
+### al
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck-a-a59c3d95-d99c-4ddd-8ba3-63e16068596e#ref=rss)
+### khudairy
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck](https://www.spiegel.de/wirtschaft/unternehmen/credit-suisse-praesident-der-saudi-national-bank-ammar-al-khudairy-tritt-zurueck-a-a59c3d95-d99c-4ddd-8ba3-63e16068596e#ref=rss)
+### schwangerschaftsabbrüche
+
+* [https://www.spiegel.de/panorama/schwangerschaftsabbrueche-sind-2022-um-fast-zehn-prozent-gestiegen](https://www.spiegel.de/panorama/schwangerschaftsabbrueche-sind-2022-um-fast-zehn-prozent-gestiegen-a-c15a2494-4f22-4bf1-9797-2ab15fcbe6e2#ref=rss)
+### prozent
+
+* [https://www.spiegel.de/panorama/schwangerschaftsabbrueche-sind-2022-um-fast-zehn-prozent-gestiegen](https://www.spiegel.de/panorama/schwangerschaftsabbrueche-sind-2022-um-fast-zehn-prozent-gestiegen-a-c15a2494-4f22-4bf1-9797-2ab15fcbe6e2#ref=rss)
+### ohne
+
+* [https://www.spiegel.de/wissenschaft/juristin-ueber-die-klimapolitik-der-ampel-ich-bin-ehrlich-gesagt-entsetzt-wie-wenig-bisher-passiert-ist](https://www.spiegel.de/wissenschaft/juristin-ueber-die-klimapolitik-der-ampel-ich-bin-ehrlich-gesagt-entsetzt-wie-wenig-bisher-passiert-ist-a-464d850b-1d27-497a-b793-555fdaec9e24#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-bislang-ohne-einigung-ampelkoalition-verhandelt-ueber-streitthemen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-bislang-ohne-einigung-ampelkoalition-verhandelt-ueber-streitthemen-a-d1c38361-247a-468e-ac9d-339817b3bbde#ref=rss)
+### coronawarnapp
+
+* [https://www.spiegel.de/netzwelt/apps/corona-warn-app-wird-in-den-schlafmodus-versetzt](https://www.spiegel.de/netzwelt/apps/corona-warn-app-wird-in-den-schlafmodus-versetzt-a-8a1d4813-b6f8-410e-9c9b-924b0647b4e4#ref=rss)
+### zeigt
+
+* [https://www.spiegel.de/netzwelt/apps/corona-warn-app-wird-in-den-schlafmodus-versetzt](https://www.spiegel.de/netzwelt/apps/corona-warn-app-wird-in-den-schlafmodus-versetzt-a-8a1d4813-b6f8-410e-9c9b-924b0647b4e4#ref=rss)
+* [https://www.spiegel.de/panorama/jeremy-renner-postet-video-von-sich-auf-laufband-nach-schwerem-unfall-im-januar](https://www.spiegel.de/panorama/jeremy-renner-postet-video-von-sich-auf-laufband-nach-schwerem-unfall-im-januar-a-a6428a71-4761-4e59-b3de-c3039e6df7a1#ref=rss)
+### karl
+
+* [https://www.spiegel.de/karriere/mitarbeiter-vergrault-staendig-neue-mitarbeiter-was-tun-tipps-von-der-karriereberaterin](https://www.spiegel.de/karriere/mitarbeiter-vergrault-staendig-neue-mitarbeiter-was-tun-tipps-von-der-karriereberaterin-a-2223036f-aa90-42d8-b4e6-2c4eb7e85e1c#ref=rss)
+### jeremy
+
+* [https://www.spiegel.de/panorama/jeremy-renner-postet-video-von-sich-auf-laufband-nach-schwerem-unfall-im-januar](https://www.spiegel.de/panorama/jeremy-renner-postet-video-von-sich-auf-laufband-nach-schwerem-unfall-im-januar-a-a6428a71-4761-4e59-b3de-c3039e6df7a1#ref=rss)
+### renner
+
+* [https://www.spiegel.de/panorama/jeremy-renner-postet-video-von-sich-auf-laufband-nach-schwerem-unfall-im-januar](https://www.spiegel.de/panorama/jeremy-renner-postet-video-von-sich-auf-laufband-nach-schwerem-unfall-im-januar-a-a6428a71-4761-4e59-b3de-c3039e6df7a1#ref=rss)
+### avengersstar
+
+* [https://www.spiegel.de/panorama/jeremy-renner-postet-video-von-sich-auf-laufband-nach-schwerem-unfall-im-januar](https://www.spiegel.de/panorama/jeremy-renner-postet-video-von-sich-auf-laufband-nach-schwerem-unfall-im-januar-a-a6428a71-4761-4e59-b3de-c3039e6df7a1#ref=rss)
+### video
+
+* [https://www.spiegel.de/panorama/jeremy-renner-postet-video-von-sich-auf-laufband-nach-schwerem-unfall-im-januar](https://www.spiegel.de/panorama/jeremy-renner-postet-video-von-sich-auf-laufband-nach-schwerem-unfall-im-januar-a-a6428a71-4761-4e59-b3de-c3039e6df7a1#ref=rss)
+### weg
+
+* [https://www.spiegel.de/panorama/jeremy-renner-postet-video-von-sich-auf-laufband-nach-schwerem-unfall-im-januar](https://www.spiegel.de/panorama/jeremy-renner-postet-video-von-sich-auf-laufband-nach-schwerem-unfall-im-januar-a-a6428a71-4761-4e59-b3de-c3039e6df7a1#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/koalitionsausschuss-bislang-ohne-einigung-ampelkoalition-verhandelt-ueber-streitthemen](https://www.spiegel.de/politik/deutschland/koalitionsausschuss-bislang-ohne-einigung-ampelkoalition-verhandelt-ueber-streitthemen-a-d1c38361-247a-468e-ac9d-339817b3bbde#ref=rss)
+### first
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank](https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank-a-86406a6d-0b0a-49f3-8b14-214463f84295#ref=rss)
+### citizens
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank](https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank-a-86406a6d-0b0a-49f3-8b14-214463f84295#ref=rss)
+### übernimmt
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank](https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank-a-86406a6d-0b0a-49f3-8b14-214463f84295#ref=rss)
+### silicon
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank](https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank-a-86406a6d-0b0a-49f3-8b14-214463f84295#ref=rss)
+### valley
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank](https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank-a-86406a6d-0b0a-49f3-8b14-214463f84295#ref=rss)
+### milliarden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank](https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank-a-86406a6d-0b0a-49f3-8b14-214463f84295#ref=rss)
+### dollar
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank](https://www.spiegel.de/wirtschaft/unternehmen/first-citizens-bank-uebernimmt-insolvente-silicon-valley-bank-a-86406a6d-0b0a-49f3-8b14-214463f84295#ref=rss)
+### schwarze
+
+* [https://www.spiegel.de/panorama/england-und-wales-schwarze-kinder-sechsmal-haeufiger-einer-leibesvisitation-unterzogen-als-weisse-gleichaltrige](https://www.spiegel.de/panorama/england-und-wales-schwarze-kinder-sechsmal-haeufiger-einer-leibesvisitation-unterzogen-als-weisse-gleichaltrige-a-6b2d197b-9295-419c-8571-95ca10532896#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/panorama/england-und-wales-schwarze-kinder-sechsmal-haeufiger-einer-leibesvisitation-unterzogen-als-weisse-gleichaltrige](https://www.spiegel.de/panorama/england-und-wales-schwarze-kinder-sechsmal-haeufiger-einer-leibesvisitation-unterzogen-als-weisse-gleichaltrige-a-6b2d197b-9295-419c-8571-95ca10532896#ref=rss)
+### etwas
+
+* [https://www.spiegel.de/psychologie/ziele-erreichen-warum-eigentlich-spiegel-coaching-podcast](https://www.spiegel.de/psychologie/ziele-erreichen-warum-eigentlich-spiegel-coaching-podcast-a-504dab5f-d2fe-45b7-840f-5d3071b0db7a#ref=rss)
+* [https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-abbruchkante-mit-ballauf-und-schenk](https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-abbruchkante-mit-ballauf-und-schenk-a-0ae0d270-3d46-4be3-b497-985f6a17c1db#ref=rss)
+### verkehr
+
+* [https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel](https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel-a-926e6424-5a85-43b0-807b-2b3a78916bcc#ref=rss)
+### münchen
+
+* [https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel](https://www.spiegel.de/politik/deutschland/news-streik-verkehr-bahn-ver-di-letzte-generation-fc-bayern-muenchen-thomas-tuchel-a-926e6424-5a85-43b0-807b-2b3a78916bcc#ref=rss)
 
