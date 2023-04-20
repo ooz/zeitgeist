@@ -4,293 +4,254 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### deutschland
-
-* [https://www.spiegel.de/wirtschaft/spanien-1-49-euro-fuer-ein-halbes-kilo-erdbeeren-das-ist-zu-billig-interview-mit-teresa-ribera](https://www.spiegel.de/wirtschaft/spanien-1-49-euro-fuer-ein-halbes-kilo-erdbeeren-das-ist-zu-billig-interview-mit-teresa-ribera-a-a9eafe90-8e09-4926-bba6-486970a7c561#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-ist-laut-rechtsgutachten-verfassungswidrig](https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-ist-laut-rechtsgutachten-verfassungswidrig-a-63708fc2-674f-46cc-a498-9de40bdac118#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-in-deutschland-mit-52-milliarden-euro-co2-neutral](https://www.spiegel.de/wirtschaft/unternehmen/industrie-in-deutschland-mit-52-milliarden-euro-co2-neutral-a-f820cdd9-c771-4e33-b536-e504c536b29f#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutschland-und-frankreich-vorsicht-macron-gastkommentar](https://www.spiegel.de/politik/deutschland/deutschland-und-frankreich-vorsicht-macron-gastkommentar-a-06383039-570d-4960-995f-d46d55a90161#ref=rss)
-### elon
-
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-droht-microsoft-mit-klage](https://www.spiegel.de/netzwelt/apps/elon-musk-droht-microsoft-mit-klage-a-5ae0296c-02bb-406a-972b-5b4cac6a111b#ref=rss)
-* [https://www.spiegel.de/wissenschaft/spacex-rakete-zweiter-startversuch-fuer-elon-musks-starship](https://www.spiegel.de/wissenschaft/spacex-rakete-zweiter-startversuch-fuer-elon-musks-starship-a-f0bfd2cc-775c-440c-be22-972905c65b45#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt](https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt-a-5569b25c-acc4-4d59-9270-5e5bdfececdb#ref=rss)
-### aktivisten
-
-* [https://www.spiegel.de/panorama/berlin-letzte-generation-blockiert-verkehr-autofahrer-zerren-aktivisten-von-der-strasse](https://www.spiegel.de/panorama/berlin-letzte-generation-blockiert-verkehr-autofahrer-zerren-aktivisten-von-der-strasse-a-d4978001-87eb-44f1-85cf-b257e57071fe#ref=rss)
-* [https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab](https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab-a-e96ca2fb-e1ae-4c85-9583-392bd5463be9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-klimaaktivisten-wer-sich-festklebt-versuendigt-sich-an-unserer-demokratie](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-klimaaktivisten-wer-sich-festklebt-versuendigt-sich-an-unserer-demokratie-a-3babb462-80da-41e1-9530-bec145e49ff1#ref=rss)
-### musk
-
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-droht-microsoft-mit-klage](https://www.spiegel.de/netzwelt/apps/elon-musk-droht-microsoft-mit-klage-a-5ae0296c-02bb-406a-972b-5b4cac6a111b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt](https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt-a-5569b25c-acc4-4d59-9270-5e5bdfececdb#ref=rss)
-### city
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen-a-42ab8062-f886-4a77-9dc7-908940f5f067#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-aus-des-fc-bayern-muenchen-gegen-manchester-city-kein-wunder](https://www.spiegel.de/sport/fussball/champions-league-aus-des-fc-bayern-muenchen-gegen-manchester-city-kein-wunder-a-5a49d726-183a-4458-ad7c-9e4d3759eb46#ref=rss)
-### kiew
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-wehrt-russische-drohnenangriffe-ab](https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-wehrt-russische-drohnenangriffe-ab-a-90e7ee40-13f3-4851-80dd-dda5113c099a#ref=rss)
-### schritte
-
-* [https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten](https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten-a-e3c02c97-9698-43ba-95f8-bf5b4e4bc517#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-droht-microsoft-mit-klage](https://www.spiegel.de/netzwelt/apps/elon-musk-droht-microsoft-mit-klage-a-5ae0296c-02bb-406a-972b-5b4cac6a111b#ref=rss)
-### milliarden
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/dax-milliarden-fuer-aktionaere-unternehmen-zahlen-rekord-dividende](https://www.spiegel.de/wirtschaft/unternehmen/dax-milliarden-fuer-aktionaere-unternehmen-zahlen-rekord-dividende-a-7cfdd653-d5a5-4c83-972c-0cc5a60d02cd#ref=rss)
-* [https://www.spiegel.de/panorama/leute/king-charles-iii-soll-vermoegen-im-wert-von-zwei-milliarden-pfund-besitzen](https://www.spiegel.de/panorama/leute/king-charles-iii-soll-vermoegen-im-wert-von-zwei-milliarden-pfund-besitzen-a-a645e72c-0de9-4c33-b114-e0ee24b9fa08#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-in-deutschland-mit-52-milliarden-euro-co2-neutral](https://www.spiegel.de/wirtschaft/unternehmen/industrie-in-deutschland-mit-52-milliarden-euro-co2-neutral-a-f820cdd9-c771-4e33-b536-e504c536b29f#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/dax-milliarden-fuer-aktionaere-unternehmen-zahlen-rekord-dividende](https://www.spiegel.de/wirtschaft/unternehmen/dax-milliarden-fuer-aktionaere-unternehmen-zahlen-rekord-dividende-a-7cfdd653-d5a5-4c83-972c-0cc5a60d02cd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/spacex-rakete-zweiter-startversuch-fuer-elon-musks-starship](https://www.spiegel.de/wissenschaft/spacex-rakete-zweiter-startversuch-fuer-elon-musks-starship-a-f0bfd2cc-775c-440c-be22-972905c65b45#ref=rss)
-### inflation
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/dax-milliarden-fuer-aktionaere-unternehmen-zahlen-rekord-dividende](https://www.spiegel.de/wirtschaft/unternehmen/dax-milliarden-fuer-aktionaere-unternehmen-zahlen-rekord-dividende-a-7cfdd653-d5a5-4c83-972c-0cc5a60d02cd#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/erzeugerpreise-anstieg-schwaecht-sich-weiter-ab-indikator-fuer-inflation](https://www.spiegel.de/wirtschaft/unternehmen/erzeugerpreise-anstieg-schwaecht-sich-weiter-ab-indikator-fuer-inflation-a-06563085-57bf-4766-b1c1-57c1bbd92860#ref=rss)
-* [https://www.spiegel.de/ausland/miguel-diaz-canel-kubas-praesident-bleibt-fuenf-weitere-jahre-im-amt](https://www.spiegel.de/ausland/miguel-diaz-canel-kubas-praesident-bleibt-fuenf-weitere-jahre-im-amt-a-03a5f926-9481-4950-81b3-af953ec1c916#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/berlin-letzte-generation-blockiert-verkehr-autofahrer-zerren-aktivisten-von-der-strasse](https://www.spiegel.de/panorama/berlin-letzte-generation-blockiert-verkehr-autofahrer-zerren-aktivisten-von-der-strasse-a-d4978001-87eb-44f1-85cf-b257e57071fe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-klimaaktivisten-wer-sich-festklebt-versuendigt-sich-an-unserer-demokratie](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-klimaaktivisten-wer-sich-festklebt-versuendigt-sich-an-unserer-demokratie-a-3babb462-80da-41e1-9530-bec145e49ff1#ref=rss)
-### waren
-
-* [https://www.spiegel.de/wissenschaft/mensch/maya-archaeologie-dutzende-menschenopfer-unter-pyramide-entdeckt](https://www.spiegel.de/wissenschaft/mensch/maya-archaeologie-dutzende-menschenopfer-unter-pyramide-entdeckt-a-557c4eaa-06c7-475f-950a-df75d931337d#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-kaempfe-gehen-weiter-lage-fuer-deutsche-ungewiss](https://www.spiegel.de/ausland/sudan-kaempfe-gehen-weiter-lage-fuer-deutsche-ungewiss-a-d5d40dff-58ff-4aca-9383-eec48c3030ac#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/copernicus-bericht-klimawandel-der-sommer-2022-war-so-heiss-wie-keiner-davor](https://www.spiegel.de/wissenschaft/natur/copernicus-bericht-klimawandel-der-sommer-2022-war-so-heiss-wie-keiner-davor-a-758d178d-cd77-4a72-a584-b799d84a2a8c#ref=rss)
-### andere
-
-* [https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab](https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab-a-e96ca2fb-e1ae-4c85-9583-392bd5463be9#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt](https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt-a-5569b25c-acc4-4d59-9270-5e5bdfececdb#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/copernicus-bericht-klimawandel-der-sommer-2022-war-so-heiss-wie-keiner-davor](https://www.spiegel.de/wissenschaft/natur/copernicus-bericht-klimawandel-der-sommer-2022-war-so-heiss-wie-keiner-davor-a-758d178d-cd77-4a72-a584-b799d84a2a8c#ref=rss)
-### laut
-
-* [https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-ist-laut-rechtsgutachten-verfassungswidrig](https://www.spiegel.de/politik/deutschland/krankenhausreform-von-karl-lauterbach-ist-laut-rechtsgutachten-verfassungswidrig-a-63708fc2-674f-46cc-a498-9de40bdac118#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-in-deutschland-mit-52-milliarden-euro-co2-neutral](https://www.spiegel.de/wirtschaft/unternehmen/industrie-in-deutschland-mit-52-milliarden-euro-co2-neutral-a-f820cdd9-c771-4e33-b536-e504c536b29f#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr](https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr-a-d494cfae-ff32-4298-8228-fb46f26610bf#ref=rss)
-* [https://www.spiegel.de/ausland/miguel-diaz-canel-kubas-praesident-bleibt-fuenf-weitere-jahre-im-amt](https://www.spiegel.de/ausland/miguel-diaz-canel-kubas-praesident-bleibt-fuenf-weitere-jahre-im-amt-a-03a5f926-9481-4950-81b3-af953ec1c916#ref=rss)
-### zuletzt
-
-* [https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr](https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr-a-d494cfae-ff32-4298-8228-fb46f26610bf#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/erzeugerpreise-anstieg-schwaecht-sich-weiter-ab-indikator-fuer-inflation](https://www.spiegel.de/wirtschaft/unternehmen/erzeugerpreise-anstieg-schwaecht-sich-weiter-ab-indikator-fuer-inflation-a-06563085-57bf-4766-b1c1-57c1bbd92860#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt](https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt-a-5569b25c-acc4-4d59-9270-5e5bdfececdb#ref=rss)
-### raststätte
-
-* [https://www.spiegel.de/panorama/lkw-fahrer-streik-an-der-a5-an-der-raststaette-graefenhausen-die-fahrer-werden-ausgebeutet](https://www.spiegel.de/panorama/lkw-fahrer-streik-an-der-a5-an-der-raststaette-graefenhausen-die-fahrer-werden-ausgebeutet-a-97188810-3db2-4929-b4b9-e46252b7ce96#ref=rss)
-### studium
-
-* [https://www.spiegel.de/panorama/duales-studium-wird-immer-beliebter-ausbildung-in-theorie-und-praxis](https://www.spiegel.de/panorama/duales-studium-wird-immer-beliebter-ausbildung-in-theorie-und-praxis-a-755a1f43-e13f-4c9f-85a9-b9037a7d183c#ref=rss)
-* [https://www.spiegel.de/kultur/klassik-shootingstar-pene-pati-der-tenor-mit-der-goettlichen-stimme](https://www.spiegel.de/kultur/klassik-shootingstar-pene-pati-der-tenor-mit-der-goettlichen-stimme-a-9d43a2d7-5e2d-4b70-9469-9d976e786da7#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen-a-42ab8062-f886-4a77-9dc7-908940f5f067#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-aus-des-fc-bayern-muenchen-gegen-manchester-city-kein-wunder](https://www.spiegel.de/sport/fussball/champions-league-aus-des-fc-bayern-muenchen-gegen-manchester-city-kein-wunder-a-5a49d726-183a-4458-ad7c-9e4d3759eb46#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen-a-42ab8062-f886-4a77-9dc7-908940f5f067#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-aus-des-fc-bayern-muenchen-gegen-manchester-city-kein-wunder](https://www.spiegel.de/sport/fussball/champions-league-aus-des-fc-bayern-muenchen-gegen-manchester-city-kein-wunder-a-5a49d726-183a-4458-ad7c-9e4d3759eb46#ref=rss)
-### manchester
-
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen-a-42ab8062-f886-4a77-9dc7-908940f5f067#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-aus-des-fc-bayern-muenchen-gegen-manchester-city-kein-wunder](https://www.spiegel.de/sport/fussball/champions-league-aus-des-fc-bayern-muenchen-gegen-manchester-city-kein-wunder-a-5a49d726-183a-4458-ad7c-9e4d3759eb46#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/spanien-1-49-euro-fuer-ein-halbes-kilo-erdbeeren-das-ist-zu-billig-interview-mit-teresa-ribera](https://www.spiegel.de/wirtschaft/spanien-1-49-euro-fuer-ein-halbes-kilo-erdbeeren-das-ist-zu-billig-interview-mit-teresa-ribera-a-a9eafe90-8e09-4926-bba6-486970a7c561#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/industrie-in-deutschland-mit-52-milliarden-euro-co2-neutral](https://www.spiegel.de/wirtschaft/unternehmen/industrie-in-deutschland-mit-52-milliarden-euro-co2-neutral-a-f820cdd9-c771-4e33-b536-e504c536b29f#ref=rss)
-### interview
-
-* [https://www.spiegel.de/wirtschaft/spanien-1-49-euro-fuer-ein-halbes-kilo-erdbeeren-das-ist-zu-billig-interview-mit-teresa-ribera](https://www.spiegel.de/wirtschaft/spanien-1-49-euro-fuer-ein-halbes-kilo-erdbeeren-das-ist-zu-billig-interview-mit-teresa-ribera-a-a9eafe90-8e09-4926-bba6-486970a7c561#ref=rss)
-* [https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten](https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten-a-e3c02c97-9698-43ba-95f8-bf5b4e4bc517#ref=rss)
-### teresa
-
-* [https://www.spiegel.de/wirtschaft/spanien-1-49-euro-fuer-ein-halbes-kilo-erdbeeren-das-ist-zu-billig-interview-mit-teresa-ribera](https://www.spiegel.de/wirtschaft/spanien-1-49-euro-fuer-ein-halbes-kilo-erdbeeren-das-ist-zu-billig-interview-mit-teresa-ribera-a-a9eafe90-8e09-4926-bba6-486970a7c561#ref=rss)
-### ribera
-
-* [https://www.spiegel.de/wirtschaft/spanien-1-49-euro-fuer-ein-halbes-kilo-erdbeeren-das-ist-zu-billig-interview-mit-teresa-ribera](https://www.spiegel.de/wirtschaft/spanien-1-49-euro-fuer-ein-halbes-kilo-erdbeeren-das-ist-zu-billig-interview-mit-teresa-ribera-a-a9eafe90-8e09-4926-bba6-486970a7c561#ref=rss)
-### dürre
-
-* [https://www.spiegel.de/wirtschaft/spanien-1-49-euro-fuer-ein-halbes-kilo-erdbeeren-das-ist-zu-billig-interview-mit-teresa-ribera](https://www.spiegel.de/wirtschaft/spanien-1-49-euro-fuer-ein-halbes-kilo-erdbeeren-das-ist-zu-billig-interview-mit-teresa-ribera-a-a9eafe90-8e09-4926-bba6-486970a7c561#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/copernicus-bericht-klimawandel-der-sommer-2022-war-so-heiss-wie-keiner-davor](https://www.spiegel.de/wissenschaft/natur/copernicus-bericht-klimawandel-der-sommer-2022-war-so-heiss-wie-keiner-davor-a-758d178d-cd77-4a72-a584-b799d84a2a8c#ref=rss)
-### rached
-
-* [https://www.spiegel.de/ausland/rached-ghannouchi-gericht-erlaesst-haftbefehl-gegen-ennahda-parteichef](https://www.spiegel.de/ausland/rached-ghannouchi-gericht-erlaesst-haftbefehl-gegen-ennahda-parteichef-a-0acb8a01-3866-480c-8311-d9e81dae0d28#ref=rss)
-### ghannouchi
-
-* [https://www.spiegel.de/ausland/rached-ghannouchi-gericht-erlaesst-haftbefehl-gegen-ennahda-parteichef](https://www.spiegel.de/ausland/rached-ghannouchi-gericht-erlaesst-haftbefehl-gegen-ennahda-parteichef-a-0acb8a01-3866-480c-8311-d9e81dae0d28#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/ausland/rached-ghannouchi-gericht-erlaesst-haftbefehl-gegen-ennahda-parteichef](https://www.spiegel.de/ausland/rached-ghannouchi-gericht-erlaesst-haftbefehl-gegen-ennahda-parteichef-a-0acb8a01-3866-480c-8311-d9e81dae0d28#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen-a-42ab8062-f886-4a77-9dc7-908940f5f067#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/rached-ghannouchi-gericht-erlaesst-haftbefehl-gegen-ennahda-parteichef](https://www.spiegel.de/ausland/rached-ghannouchi-gericht-erlaesst-haftbefehl-gegen-ennahda-parteichef-a-0acb8a01-3866-480c-8311-d9e81dae0d28#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-kaempfe-gehen-weiter-lage-fuer-deutsche-ungewiss](https://www.spiegel.de/ausland/sudan-kaempfe-gehen-weiter-lage-fuer-deutsche-ungewiss-a-d5d40dff-58ff-4aca-9383-eec48c3030ac#ref=rss)
-### michael
-
-* [https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten](https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten-a-e3c02c97-9698-43ba-95f8-bf5b4e4bc517#ref=rss)
-### schumacher
-
-* [https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten](https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten-a-e3c02c97-9698-43ba-95f8-bf5b4e4bc517#ref=rss)
-### familie
-
-* [https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten](https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten-a-e3c02c97-9698-43ba-95f8-bf5b4e4bc517#ref=rss)
-### einleiten
-
-* [https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten](https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten-a-e3c02c97-9698-43ba-95f8-bf5b4e4bc517#ref=rss)
-### rechtliche
-
-* [https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten](https://www.spiegel.de/panorama/michael-schumacher-familie-will-juristische-schritte-gegen-die-aktuelle-einleiten-a-e3c02c97-9698-43ba-95f8-bf5b4e4bc517#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-droht-microsoft-mit-klage](https://www.spiegel.de/netzwelt/apps/elon-musk-droht-microsoft-mit-klage-a-5ae0296c-02bb-406a-972b-5b4cac6a111b#ref=rss)
 ### viele
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/dax-milliarden-fuer-aktionaere-unternehmen-zahlen-rekord-dividende](https://www.spiegel.de/wirtschaft/unternehmen/dax-milliarden-fuer-aktionaere-unternehmen-zahlen-rekord-dividende-a-7cfdd653-d5a5-4c83-972c-0cc5a60d02cd#ref=rss)
-* [https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr](https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr-a-d494cfae-ff32-4298-8228-fb46f26610bf#ref=rss)
-### autofahrer
+* [https://www.spiegel.de/netzwelt/netzpolitik/haustuergeschaefte-das-sind-die-tricks-der-glasfaser-druecker](https://www.spiegel.de/netzwelt/netzpolitik/haustuergeschaefte-das-sind-die-tricks-der-glasfaser-druecker-a-f9ee9b86-e508-44b4-8125-3fa3bb1a71fb#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter](https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter-a-2bed5fb1-be42-43f0-ad74-8e71112c4126#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/tierschutz-regierung-will-bau-groesserer-staelle-erleichtern](https://www.spiegel.de/wirtschaft/soziales/tierschutz-regierung-will-bau-groesserer-staelle-erleichtern-a-f6b15e57-6e07-4ddd-87fc-d1dbfdfe8701#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nach-regel-aerger-in-der-champions-league-haende-weg-vom-fussball](https://www.spiegel.de/sport/fussball/nach-regel-aerger-in-der-champions-league-haende-weg-vom-fussball-a-b2f9d23f-e523-43f5-9a06-9ea36c789c45#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-das-sind-dealermengen](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-das-sind-dealermengen-a-dfa632f1-d7d5-4db7-a02a-c44d806ebd47#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/berlin-letzte-generation-blockiert-verkehr-autofahrer-zerren-aktivisten-von-der-strasse](https://www.spiegel.de/panorama/berlin-letzte-generation-blockiert-verkehr-autofahrer-zerren-aktivisten-von-der-strasse-a-d4978001-87eb-44f1-85cf-b257e57071fe#ref=rss)
-### klimaaktivisten
+* [https://www.spiegel.de/ausland/sudan-krebskranke-kinder-harren-in-umkaempfter-hauptstadt-khartum-aus](https://www.spiegel.de/ausland/sudan-krebskranke-kinder-harren-in-umkaempfter-hauptstadt-khartum-aus-a-0b8df5bd-dfa9-4049-b679-13529d51b5e3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees](https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees-a-42c34003-44e6-4af4-99f3-f09f68a782a0#ref=rss)
+* [https://www.spiegel.de/panorama/manfred-genditzki-ein-mann-sass-13-jahre-im-gefaengnis-vermutlich-unschuldig](https://www.spiegel.de/panorama/manfred-genditzki-ein-mann-sass-13-jahre-im-gefaengnis-vermutlich-unschuldig-a-e72b336d-840e-4e8f-b316-363fdc8839be#ref=rss)
+* [https://www.spiegel.de/geschichte/neues-von-gestern-der-geschichte-newsletter-der-unbekannte-widerstand](https://www.spiegel.de/geschichte/neues-von-gestern-der-geschichte-newsletter-der-unbekannte-widerstand-a-be57247e-8471-4f8d-85b3-16a8d32692f8#ref=rss)
+### schulen
 
-* [https://www.spiegel.de/panorama/berlin-letzte-generation-blockiert-verkehr-autofahrer-zerren-aktivisten-von-der-strasse](https://www.spiegel.de/panorama/berlin-letzte-generation-blockiert-verkehr-autofahrer-zerren-aktivisten-von-der-strasse-a-d4978001-87eb-44f1-85cf-b257e57071fe#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-klimaaktivisten-wer-sich-festklebt-versuendigt-sich-an-unserer-demokratie](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-klimaaktivisten-wer-sich-festklebt-versuendigt-sich-an-unserer-demokratie-a-3babb462-80da-41e1-9530-bec145e49ff1#ref=rss)
-### unter
+* [https://www.spiegel.de/ausland/brasilien-was-hinter-den-angriffen-auf-schulen-und-kitas-steckt](https://www.spiegel.de/ausland/brasilien-was-hinter-den-angriffen-auf-schulen-und-kitas-steckt-a-2a4e728b-1fa2-4e37-95c5-312d96e30834#ref=rss)
+* [https://www.spiegel.de/sport/us-repraesentantenhaus-republikaner-stimmen-fuer-transgender-verbot-im-frauensport](https://www.spiegel.de/sport/us-repraesentantenhaus-republikaner-stimmen-fuer-transgender-verbot-im-frauensport-a-71c75ade-f9e7-4e38-90b0-62b2794db660#ref=rss)
+### eltern
 
-* [https://www.spiegel.de/wissenschaft/mensch/maya-archaeologie-dutzende-menschenopfer-unter-pyramide-entdeckt](https://www.spiegel.de/wissenschaft/mensch/maya-archaeologie-dutzende-menschenopfer-unter-pyramide-entdeckt-a-557c4eaa-06c7-475f-950a-df75d931337d#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-wehrt-russische-drohnenangriffe-ab](https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-wehrt-russische-drohnenangriffe-ab-a-90e7ee40-13f3-4851-80dd-dda5113c099a#ref=rss)
-### marathon
+* [https://www.spiegel.de/ausland/brasilien-was-hinter-den-angriffen-auf-schulen-und-kitas-steckt](https://www.spiegel.de/ausland/brasilien-was-hinter-den-angriffen-auf-schulen-und-kitas-steckt-a-2a4e728b-1fa2-4e37-95c5-312d96e30834#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter](https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter-a-2bed5fb1-be42-43f0-ad74-8e71112c4126#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab](https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab-a-e96ca2fb-e1ae-4c85-9583-392bd5463be9#ref=rss)
-### extinction
+* [https://www.spiegel.de/ausland/brasilien-was-hinter-den-angriffen-auf-schulen-und-kitas-steckt](https://www.spiegel.de/ausland/brasilien-was-hinter-den-angriffen-auf-schulen-und-kitas-steckt-a-2a4e728b-1fa2-4e37-95c5-312d96e30834#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-krebskranke-kinder-harren-in-umkaempfter-hauptstadt-khartum-aus](https://www.spiegel.de/ausland/sudan-krebskranke-kinder-harren-in-umkaempfter-hauptstadt-khartum-aus-a-0b8df5bd-dfa9-4049-b679-13529d51b5e3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees](https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees-a-42c34003-44e6-4af4-99f3-f09f68a782a0#ref=rss)
+### vorerst
 
-* [https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab](https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab-a-e96ca2fb-e1ae-4c85-9583-392bd5463be9#ref=rss)
-### rebellion
+* [https://www.spiegel.de/sport/fussball/juventus-15-punkte-strafe-vorerst-aufgehoben-turin-springt-auf-platz-drei](https://www.spiegel.de/sport/fussball/juventus-15-punkte-strafe-vorerst-aufgehoben-turin-springt-auf-platz-drei-a-4b771c05-bb1e-4ad7-809d-bdd06df0d8cd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst](https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst-a-73d0c656-af5e-4243-81d8-d3e4f3599a24#ref=rss)
+### hummels
 
-* [https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab](https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab-a-e96ca2fb-e1ae-4c85-9583-392bd5463be9#ref=rss)
-### große
-
-* [https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab](https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab-a-e96ca2fb-e1ae-4c85-9583-392bd5463be9#ref=rss)
-* [https://www.spiegel.de/kultur/klassik-shootingstar-pene-pati-der-tenor-mit-der-goettlichen-stimme](https://www.spiegel.de/kultur/klassik-shootingstar-pene-pati-der-tenor-mit-der-goettlichen-stimme-a-9d43a2d7-5e2d-4b70-9469-9d976e786da7#ref=rss)
-### klimaproteste
-
-* [https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab](https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab-a-e96ca2fb-e1ae-4c85-9583-392bd5463be9#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-klimaaktivisten-wer-sich-festklebt-versuendigt-sich-an-unserer-demokratie](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-klimaaktivisten-wer-sich-festklebt-versuendigt-sich-an-unserer-demokratie-a-3babb462-80da-41e1-9530-bec145e49ff1#ref=rss)
-### gruppe
-
-* [https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab](https://www.spiegel.de/sport/londoner-marathon-spricht-sich-mit-extinction-rebellion-ab-a-e96ca2fb-e1ae-4c85-9583-392bd5463be9#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-kaempfe-gehen-weiter-lage-fuer-deutsche-ungewiss](https://www.spiegel.de/ausland/sudan-kaempfe-gehen-weiter-lage-fuer-deutsche-ungewiss-a-d5d40dff-58ff-4aca-9383-eec48c3030ac#ref=rss)
-### evgeniy
-
-* [https://www.spiegel.de/kultur/world-press-photo-evgeniy-maloletka-zeigt-den-schrecken-in-mariupol](https://www.spiegel.de/kultur/world-press-photo-evgeniy-maloletka-zeigt-den-schrecken-in-mariupol-a-99b694a1-e3b6-49c8-994c-10fb796f6be9#ref=rss)
-### heinz
-
-* [https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr](https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr-a-d494cfae-ff32-4298-8228-fb46f26610bf#ref=rss)
-### florian
-
-* [https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr](https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr-a-d494cfae-ff32-4298-8228-fb46f26610bf#ref=rss)
-### oertel
-
-* [https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr](https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr-a-d494cfae-ff32-4298-8228-fb46f26610bf#ref=rss)
-### stimme
-
-* [https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr](https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr-a-d494cfae-ff32-4298-8228-fb46f26610bf#ref=rss)
-* [https://www.spiegel.de/kultur/klassik-shootingstar-pene-pati-der-tenor-mit-der-goettlichen-stimme](https://www.spiegel.de/kultur/klassik-shootingstar-pene-pati-der-tenor-mit-der-goettlichen-stimme-a-9d43a2d7-5e2d-4b70-9469-9d976e786da7#ref=rss)
-### ddr
-
-* [https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr](https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr-a-d494cfae-ff32-4298-8228-fb46f26610bf#ref=rss)
-### fast
-
-* [https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr](https://www.spiegel.de/sport/olympia/nachruf-auf-sportreporter-heinz-florian-oertel-stimme-der-ddr-a-d494cfae-ff32-4298-8228-fb46f26610bf#ref=rss)
-* [https://www.spiegel.de/panorama/duales-studium-wird-immer-beliebter-ausbildung-in-theorie-und-praxis](https://www.spiegel.de/panorama/duales-studium-wird-immer-beliebter-ausbildung-in-theorie-und-praxis-a-755a1f43-e13f-4c9f-85a9-b9037a7d183c#ref=rss)
-### charles
-
-* [https://www.spiegel.de/panorama/leute/king-charles-iii-soll-vermoegen-im-wert-von-zwei-milliarden-pfund-besitzen](https://www.spiegel.de/panorama/leute/king-charles-iii-soll-vermoegen-im-wert-von-zwei-milliarden-pfund-besitzen-a-a645e72c-0de9-4c33-b114-e0ee24b9fa08#ref=rss)
-### könig
-
-* [https://www.spiegel.de/panorama/leute/king-charles-iii-soll-vermoegen-im-wert-von-zwei-milliarden-pfund-besitzen](https://www.spiegel.de/panorama/leute/king-charles-iii-soll-vermoegen-im-wert-von-zwei-milliarden-pfund-besitzen-a-a645e72c-0de9-4c33-b114-e0ee24b9fa08#ref=rss)
-### vermögen
-
-* [https://www.spiegel.de/panorama/leute/king-charles-iii-soll-vermoegen-im-wert-von-zwei-milliarden-pfund-besitzen](https://www.spiegel.de/panorama/leute/king-charles-iii-soll-vermoegen-im-wert-von-zwei-milliarden-pfund-besitzen-a-a645e72c-0de9-4c33-b114-e0ee24b9fa08#ref=rss)
-### pfund
-
-* [https://www.spiegel.de/panorama/leute/king-charles-iii-soll-vermoegen-im-wert-von-zwei-milliarden-pfund-besitzen](https://www.spiegel.de/panorama/leute/king-charles-iii-soll-vermoegen-im-wert-von-zwei-milliarden-pfund-besitzen-a-a645e72c-0de9-4c33-b114-e0ee24b9fa08#ref=rss)
-### allein
-
-* [https://www.spiegel.de/panorama/leute/king-charles-iii-soll-vermoegen-im-wert-von-zwei-milliarden-pfund-besitzen](https://www.spiegel.de/panorama/leute/king-charles-iii-soll-vermoegen-im-wert-von-zwei-milliarden-pfund-besitzen-a-a645e72c-0de9-4c33-b114-e0ee24b9fa08#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt](https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt-a-5569b25c-acc4-4d59-9270-5e5bdfececdb#ref=rss)
-### kubicki
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-klimaaktivisten-wer-sich-festklebt-versuendigt-sich-an-unserer-demokratie](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-klimaaktivisten-wer-sich-festklebt-versuendigt-sich-an-unserer-demokratie-a-3babb462-80da-41e1-9530-bec145e49ff1#ref=rss)
-### hart
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-klimaaktivisten-wer-sich-festklebt-versuendigt-sich-an-unserer-demokratie](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-ueber-klimaaktivisten-wer-sich-festklebt-versuendigt-sich-an-unserer-demokratie-a-3babb462-80da-41e1-9530-bec145e49ff1#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen-a-42ab8062-f886-4a77-9dc7-908940f5f067#ref=rss)
-### reservierungsgebühr
-
-* [https://www.spiegel.de/wirtschaft/service/immobilien-bgh-beanstandet-reservierungsgebuehr-von-maklern](https://www.spiegel.de/wirtschaft/service/immobilien-bgh-beanstandet-reservierungsgebuehr-von-maklern-a-55c5c74e-0c4f-43ea-815c-7307a84f5541#ref=rss)
-### microsoft
-
-* [https://www.spiegel.de/netzwelt/apps/elon-musk-droht-microsoft-mit-klage](https://www.spiegel.de/netzwelt/apps/elon-musk-droht-microsoft-mit-klage-a-5ae0296c-02bb-406a-972b-5b4cac6a111b#ref=rss)
-### imgur
-
-* [https://www.spiegel.de/netzwelt/apps/imgur-bekannte-bilderplattform-will-nacktfotos-loeschen](https://www.spiegel.de/netzwelt/apps/imgur-bekannte-bilderplattform-will-nacktfotos-loeschen-a-d46cb15e-54ce-4a28-bd61-01edb80470dc#ref=rss)
-### musks
-
-* [https://www.spiegel.de/wissenschaft/spacex-rakete-zweiter-startversuch-fuer-elon-musks-starship](https://www.spiegel.de/wissenschaft/spacex-rakete-zweiter-startversuch-fuer-elon-musks-starship-a-f0bfd2cc-775c-440c-be22-972905c65b45#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/wissenschaft/spacex-rakete-zweiter-startversuch-fuer-elon-musks-starship](https://www.spiegel.de/wissenschaft/spacex-rakete-zweiter-startversuch-fuer-elon-musks-starship-a-f0bfd2cc-775c-440c-be22-972905c65b45#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-wehrt-russische-drohnenangriffe-ab](https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-wehrt-russische-drohnenangriffe-ab-a-90e7ee40-13f3-4851-80dd-dda5113c099a#ref=rss)
-### zeigen
-
-* [https://www.spiegel.de/wissenschaft/spacex-rakete-zweiter-startversuch-fuer-elon-musks-starship](https://www.spiegel.de/wissenschaft/spacex-rakete-zweiter-startversuch-fuer-elon-musks-starship-a-f0bfd2cc-775c-440c-be22-972905c65b45#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/copernicus-bericht-klimawandel-der-sommer-2022-war-so-heiss-wie-keiner-davor](https://www.spiegel.de/wissenschaft/natur/copernicus-bericht-klimawandel-der-sommer-2022-war-so-heiss-wie-keiner-davor-a-758d178d-cd77-4a72-a584-b799d84a2a8c#ref=rss)
-### zahl
-
-* [https://www.spiegel.de/panorama/duales-studium-wird-immer-beliebter-ausbildung-in-theorie-und-praxis](https://www.spiegel.de/panorama/duales-studium-wird-immer-beliebter-ausbildung-in-theorie-und-praxis-a-755a1f43-e13f-4c9f-85a9-b9037a7d183c#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-kaempfe-gehen-weiter-lage-fuer-deutsche-ungewiss](https://www.spiegel.de/ausland/sudan-kaempfe-gehen-weiter-lage-fuer-deutsche-ungewiss-a-d5d40dff-58ff-4aca-9383-eec48c3030ac#ref=rss)
-### pene
-
-* [https://www.spiegel.de/kultur/klassik-shootingstar-pene-pati-der-tenor-mit-der-goettlichen-stimme](https://www.spiegel.de/kultur/klassik-shootingstar-pene-pati-der-tenor-mit-der-goettlichen-stimme-a-9d43a2d7-5e2d-4b70-9469-9d976e786da7#ref=rss)
-### pati
-
-* [https://www.spiegel.de/kultur/klassik-shootingstar-pene-pati-der-tenor-mit-der-goettlichen-stimme](https://www.spiegel.de/kultur/klassik-shootingstar-pene-pati-der-tenor-mit-der-goettlichen-stimme-a-9d43a2d7-5e2d-4b70-9469-9d976e786da7#ref=rss)
-### tenor
-
-* [https://www.spiegel.de/kultur/klassik-shootingstar-pene-pati-der-tenor-mit-der-goettlichen-stimme](https://www.spiegel.de/kultur/klassik-shootingstar-pene-pati-der-tenor-mit-der-goettlichen-stimme-a-9d43a2d7-5e2d-4b70-9469-9d976e786da7#ref=rss)
-### preise
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/erzeugerpreise-anstieg-schwaecht-sich-weiter-ab-indikator-fuer-inflation](https://www.spiegel.de/wirtschaft/unternehmen/erzeugerpreise-anstieg-schwaecht-sich-weiter-ab-indikator-fuer-inflation-a-06563085-57bf-4766-b1c1-57c1bbd92860#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt](https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt-a-5569b25c-acc4-4d59-9270-5e5bdfececdb#ref=rss)
+* [https://www.spiegel.de/panorama/cathy-hummels-versteigert-hochzeitsanzug-von-ex-mann-mats-hummels](https://www.spiegel.de/panorama/cathy-hummels-versteigert-hochzeitsanzug-von-ex-mann-mats-hummels-a-7a7ce695-529c-4ab5-a15d-86808c136820#ref=rss)
 ### münchen
 
-* [https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen](https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-scheidet-gegen-manchester-city-aus-pressestimmen-a-42ab8062-f886-4a77-9dc7-908940f5f067#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-aus-des-fc-bayern-muenchen-gegen-manchester-city-kein-wunder](https://www.spiegel.de/sport/fussball/champions-league-aus-des-fc-bayern-muenchen-gegen-manchester-city-kein-wunder-a-5a49d726-183a-4458-ad7c-9e4d3759eb46#ref=rss)
-### jens
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen](https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen-a-3b20d441-052b-4039-a371-65239494cb96#ref=rss)
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-scheitert-in-muenchen-zum-auftakt-und-hadert-mit-der-kaelte](https://www.spiegel.de/sport/tennis/alexander-zverev-scheitert-in-muenchen-zum-auftakt-und-hadert-mit-der-kaelte-a-e550d41a-59ad-4908-8b99-42204f0ce793#ref=rss)
+### leben
 
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-wehrt-russische-drohnenangriffe-ab](https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-wehrt-russische-drohnenangriffe-ab-a-90e7ee40-13f3-4851-80dd-dda5113c099a#ref=rss)
-### stoltenberg
+* [https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees](https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees-a-42c34003-44e6-4af4-99f3-f09f68a782a0#ref=rss)
+* [https://www.spiegel.de/panorama/manfred-genditzki-ein-mann-sass-13-jahre-im-gefaengnis-vermutlich-unschuldig](https://www.spiegel.de/panorama/manfred-genditzki-ein-mann-sass-13-jahre-im-gefaengnis-vermutlich-unschuldig-a-e72b336d-840e-4e8f-b316-363fdc8839be#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/warnstreiks-wirbeln-flug-und-bahnverkehr-durcheinander](https://www.spiegel.de/wirtschaft/soziales/warnstreiks-wirbeln-flug-und-bahnverkehr-durcheinander-a-0d3f031e-fc0d-4b26-aafa-c41b087f386d#ref=rss)
+### cannabis
 
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-wehrt-russische-drohnenangriffe-ab](https://www.spiegel.de/ausland/ukraine-russland-news-heute-ukraine-wehrt-russische-drohnenangriffe-ab-a-90e7ee40-13f3-4851-80dd-dda5113c099a#ref=rss)
-### tesla
+* [https://www.spiegel.de/wissenschaft/natur/cannabis-auch-wuermer-haben-nach-konsum-heisshunger](https://www.spiegel.de/wissenschaft/natur/cannabis-auch-wuermer-haben-nach-konsum-heisshunger-a-21a095d3-71cf-42aa-9a63-994623dfb6e2#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-das-sind-dealermengen](https://www.spiegel.de/politik/deutschland/cannabis-legalisierung-das-sind-dealermengen-a-dfa632f1-d7d5-4db7-a02a-c44d806ebd47#ref=rss)
+### kitas
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt](https://www.spiegel.de/wirtschaft/unternehmen/tesla-preiskrieg-laesst-quartalszahlen-einbrechen-elon-musk-gibt-sich-unbeeindruckt-a-5569b25c-acc4-4d59-9270-5e5bdfececdb#ref=rss)
-### sudan
+* [https://www.spiegel.de/ausland/brasilien-was-hinter-den-angriffen-auf-schulen-und-kitas-steckt](https://www.spiegel.de/ausland/brasilien-was-hinter-den-angriffen-auf-schulen-und-kitas-steckt-a-2a4e728b-1fa2-4e37-95c5-312d96e30834#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/ausland/sudan-kaempfe-gehen-weiter-lage-fuer-deutsche-ungewiss](https://www.spiegel.de/ausland/sudan-kaempfe-gehen-weiter-lage-fuer-deutsche-ungewiss-a-d5d40dff-58ff-4aca-9383-eec48c3030ac#ref=rss)
-### sommer
+* [https://www.spiegel.de/ausland/brasilien-was-hinter-den-angriffen-auf-schulen-und-kitas-steckt](https://www.spiegel.de/ausland/brasilien-was-hinter-den-angriffen-auf-schulen-und-kitas-steckt-a-2a4e728b-1fa2-4e37-95c5-312d96e30834#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/tierschutz-regierung-will-bau-groesserer-staelle-erleichtern](https://www.spiegel.de/wirtschaft/soziales/tierschutz-regierung-will-bau-groesserer-staelle-erleichtern-a-f6b15e57-6e07-4ddd-87fc-d1dbfdfe8701#ref=rss)
+### juventus
 
-* [https://www.spiegel.de/wissenschaft/natur/copernicus-bericht-klimawandel-der-sommer-2022-war-so-heiss-wie-keiner-davor](https://www.spiegel.de/wissenschaft/natur/copernicus-bericht-klimawandel-der-sommer-2022-war-so-heiss-wie-keiner-davor-a-758d178d-cd77-4a72-a584-b799d84a2a8c#ref=rss)
-### miguel
+* [https://www.spiegel.de/sport/fussball/juventus-15-punkte-strafe-vorerst-aufgehoben-turin-springt-auf-platz-drei](https://www.spiegel.de/sport/fussball/juventus-15-punkte-strafe-vorerst-aufgehoben-turin-springt-auf-platz-drei-a-4b771c05-bb1e-4ad7-809d-bdd06df0d8cd#ref=rss)
+### platz
 
-* [https://www.spiegel.de/ausland/miguel-diaz-canel-kubas-praesident-bleibt-fuenf-weitere-jahre-im-amt](https://www.spiegel.de/ausland/miguel-diaz-canel-kubas-praesident-bleibt-fuenf-weitere-jahre-im-amt-a-03a5f926-9481-4950-81b3-af953ec1c916#ref=rss)
-### díazcanel
+* [https://www.spiegel.de/sport/fussball/juventus-15-punkte-strafe-vorerst-aufgehoben-turin-springt-auf-platz-drei](https://www.spiegel.de/sport/fussball/juventus-15-punkte-strafe-vorerst-aufgehoben-turin-springt-auf-platz-drei-a-4b771c05-bb1e-4ad7-809d-bdd06df0d8cd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/tierschutz-regierung-will-bau-groesserer-staelle-erleichtern](https://www.spiegel.de/wirtschaft/soziales/tierschutz-regierung-will-bau-groesserer-staelle-erleichtern-a-f6b15e57-6e07-4ddd-87fc-d1dbfdfe8701#ref=rss)
+### setzt
 
-* [https://www.spiegel.de/ausland/miguel-diaz-canel-kubas-praesident-bleibt-fuenf-weitere-jahre-im-amt](https://www.spiegel.de/ausland/miguel-diaz-canel-kubas-praesident-bleibt-fuenf-weitere-jahre-im-amt-a-03a5f926-9481-4950-81b3-af953ec1c916#ref=rss)
+* [https://www.spiegel.de/sport/fussball/juventus-15-punkte-strafe-vorerst-aufgehoben-turin-springt-auf-platz-drei](https://www.spiegel.de/sport/fussball/juventus-15-punkte-strafe-vorerst-aufgehoben-turin-springt-auf-platz-drei-a-4b771c05-bb1e-4ad7-809d-bdd06df0d8cd#ref=rss)
+* [https://www.spiegel.de/wissenschaft/umweltfreundliche-heizungen-im-realitaetscheck-das-grosse-wasserstoffmaerchen](https://www.spiegel.de/wissenschaft/umweltfreundliche-heizungen-im-realitaetscheck-das-grosse-wasserstoffmaerchen-a-b2a37f19-6914-45b7-bb24-94d193d42478#ref=rss)
+### champions
+
+* [https://www.spiegel.de/sport/fussball/juventus-15-punkte-strafe-vorerst-aufgehoben-turin-springt-auf-platz-drei](https://www.spiegel.de/sport/fussball/juventus-15-punkte-strafe-vorerst-aufgehoben-turin-springt-auf-platz-drei-a-4b771c05-bb1e-4ad7-809d-bdd06df0d8cd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nach-regel-aerger-in-der-champions-league-haende-weg-vom-fussball](https://www.spiegel.de/sport/fussball/nach-regel-aerger-in-der-champions-league-haende-weg-vom-fussball-a-b2f9d23f-e523-43f5-9a06-9ea36c789c45#ref=rss)
+### league
+
+* [https://www.spiegel.de/sport/fussball/juventus-15-punkte-strafe-vorerst-aufgehoben-turin-springt-auf-platz-drei](https://www.spiegel.de/sport/fussball/juventus-15-punkte-strafe-vorerst-aufgehoben-turin-springt-auf-platz-drei-a-4b771c05-bb1e-4ad7-809d-bdd06df0d8cd#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nach-regel-aerger-in-der-champions-league-haende-weg-vom-fussball](https://www.spiegel.de/sport/fussball/nach-regel-aerger-in-der-champions-league-haende-weg-vom-fussball-a-b2f9d23f-e523-43f5-9a06-9ea36c789c45#ref=rss)
+### mats
+
+* [https://www.spiegel.de/panorama/cathy-hummels-versteigert-hochzeitsanzug-von-ex-mann-mats-hummels](https://www.spiegel.de/panorama/cathy-hummels-versteigert-hochzeitsanzug-von-ex-mann-mats-hummels-a-7a7ce695-529c-4ab5-a15d-86808c136820#ref=rss)
+### henkel
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/henkel-verkauft-russlandgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/henkel-verkauft-russlandgeschaeft-a-cce7bf4a-156b-4506-b4e3-c45b425e04a1#ref=rss)
+### weg
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/henkel-verkauft-russlandgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/henkel-verkauft-russlandgeschaeft-a-cce7bf4a-156b-4506-b4e3-c45b425e04a1#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nach-regel-aerger-in-der-champions-league-haende-weg-vom-fussball](https://www.spiegel.de/sport/fussball/nach-regel-aerger-in-der-champions-league-haende-weg-vom-fussball-a-b2f9d23f-e523-43f5-9a06-9ea36c789c45#ref=rss)
+### gefunden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/henkel-verkauft-russlandgeschaeft](https://www.spiegel.de/wirtschaft/unternehmen/henkel-verkauft-russlandgeschaeft-a-cce7bf4a-156b-4506-b4e3-c45b425e04a1#ref=rss)
+* [https://www.spiegel.de/kultur/staatsoper-hannover-hat-neuen-ballettchef-christian-blossfeld-uebernimmt-nach-hundekot-eklat](https://www.spiegel.de/kultur/staatsoper-hannover-hat-neuen-ballettchef-christian-blossfeld-uebernimmt-nach-hundekot-eklat-a-b2d5ea57-5410-49ad-ac1f-a1e64212b939#ref=rss)
+### buzzfeed
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/buzzfeed-schliesst-preisgekroente-news-redaktion](https://www.spiegel.de/wirtschaft/unternehmen/buzzfeed-schliesst-preisgekroente-news-redaktion-a-99989b43-2d87-4770-bf7c-b67543024a39#ref=rss)
+### news
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/buzzfeed-schliesst-preisgekroente-news-redaktion](https://www.spiegel.de/wirtschaft/unternehmen/buzzfeed-schliesst-preisgekroente-news-redaktion-a-99989b43-2d87-4770-bf7c-b67543024a39#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hitzesommer-wolfgang-kubicki-und-die-klimakleber-notstand-in-der-baubranche](https://www.spiegel.de/politik/deutschland/news-des-tages-hitzesommer-wolfgang-kubicki-und-die-klimakleber-notstand-in-der-baubranche-a-3f722bbf-cb34-445e-9876-07ceed37b5f4#ref=rss)
+### usrepräsentantenhaus
+
+* [https://www.spiegel.de/sport/us-repraesentantenhaus-republikaner-stimmen-fuer-transgender-verbot-im-frauensport](https://www.spiegel.de/sport/us-repraesentantenhaus-republikaner-stimmen-fuer-transgender-verbot-im-frauensport-a-71c75ade-f9e7-4e38-90b0-62b2794db660#ref=rss)
+### bayern
+
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen](https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen-a-3b20d441-052b-4039-a371-65239494cb96#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nach-regel-aerger-in-der-champions-league-haende-weg-vom-fussball](https://www.spiegel.de/sport/fussball/nach-regel-aerger-in-der-champions-league-haende-weg-vom-fussball-a-b2f9d23f-e523-43f5-9a06-9ea36c789c45#ref=rss)
+### thomas
+
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen](https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen-a-3b20d441-052b-4039-a371-65239494cb96#ref=rss)
+### tuchel
+
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen](https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen-a-3b20d441-052b-4039-a371-65239494cb96#ref=rss)
+### cotrainer
+
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen](https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen-a-3b20d441-052b-4039-a371-65239494cb96#ref=rss)
+### anthony
+
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen](https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen-a-3b20d441-052b-4039-a371-65239494cb96#ref=rss)
+### barry
+
+* [https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen](https://www.spiegel.de/sport/fussball/bayern-muenchen-thomas-tuchel-soll-co-trainer-anthony-barry-nun-doch-bekommen-a-3b20d441-052b-4039-a371-65239494cb96#ref=rss)
+### spacex
+
+* [https://www.spiegel.de/wissenschaft/spacex-starship-rakete-explodiert-musk-unternehmen-spricht-trotzdem-von-erfolg](https://www.spiegel.de/wissenschaft/spacex-starship-rakete-explodiert-musk-unternehmen-spricht-trotzdem-von-erfolg-a-75338995-c653-4652-8196-92495016ea18#ref=rss)
+### flug
+
+* [https://www.spiegel.de/wissenschaft/spacex-starship-rakete-explodiert-musk-unternehmen-spricht-trotzdem-von-erfolg](https://www.spiegel.de/wissenschaft/spacex-starship-rakete-explodiert-musk-unternehmen-spricht-trotzdem-von-erfolg-a-75338995-c653-4652-8196-92495016ea18#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/warnstreiks-wirbeln-flug-und-bahnverkehr-durcheinander](https://www.spiegel.de/wirtschaft/soziales/warnstreiks-wirbeln-flug-und-bahnverkehr-durcheinander-a-0d3f031e-fc0d-4b26-aafa-c41b087f386d#ref=rss)
+### tausende
+
+* [https://www.spiegel.de/ausland/sudan-krebskranke-kinder-harren-in-umkaempfter-hauptstadt-khartum-aus](https://www.spiegel.de/ausland/sudan-krebskranke-kinder-harren-in-umkaempfter-hauptstadt-khartum-aus-a-0b8df5bd-dfa9-4049-b679-13529d51b5e3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/australien-totale-sonnenfinsternis-do-look-up](https://www.spiegel.de/wissenschaft/australien-totale-sonnenfinsternis-do-look-up-a-ce851cef-bf42-4051-ab63-7f9ee9922db9#ref=rss)
+### menschen
+
+* [https://www.spiegel.de/ausland/sudan-krebskranke-kinder-harren-in-umkaempfter-hauptstadt-khartum-aus](https://www.spiegel.de/ausland/sudan-krebskranke-kinder-harren-in-umkaempfter-hauptstadt-khartum-aus-a-0b8df5bd-dfa9-4049-b679-13529d51b5e3#ref=rss)
+* [https://www.spiegel.de/wissenschaft/australien-totale-sonnenfinsternis-do-look-up](https://www.spiegel.de/wissenschaft/australien-totale-sonnenfinsternis-do-look-up-a-ce851cef-bf42-4051-ab63-7f9ee9922db9#ref=rss)
+### and
+
+* [https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter](https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter-a-2bed5fb1-be42-43f0-ad74-8e71112c4126#ref=rss)
+### selbst
+
+* [https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter](https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter-a-2bed5fb1-be42-43f0-ad74-8e71112c4126#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/cannabis-auch-wuermer-haben-nach-konsum-heisshunger](https://www.spiegel.de/wissenschaft/natur/cannabis-auch-wuermer-haben-nach-konsum-heisshunger-a-21a095d3-71cf-42aa-9a63-994623dfb6e2#ref=rss)
 ### fünf
 
-* [https://www.spiegel.de/ausland/miguel-diaz-canel-kubas-praesident-bleibt-fuenf-weitere-jahre-im-amt](https://www.spiegel.de/ausland/miguel-diaz-canel-kubas-praesident-bleibt-fuenf-weitere-jahre-im-amt-a-03a5f926-9481-4950-81b3-af953ec1c916#ref=rss)
-### amt
+* [https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter](https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter-a-2bed5fb1-be42-43f0-ad74-8e71112c4126#ref=rss)
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-scheitert-in-muenchen-zum-auftakt-und-hadert-mit-der-kaelte](https://www.spiegel.de/sport/tennis/alexander-zverev-scheitert-in-muenchen-zum-auftakt-und-hadert-mit-der-kaelte-a-e550d41a-59ad-4908-8b99-42204f0ce793#ref=rss)
+### zeigt
 
-* [https://www.spiegel.de/ausland/miguel-diaz-canel-kubas-praesident-bleibt-fuenf-weitere-jahre-im-amt](https://www.spiegel.de/ausland/miguel-diaz-canel-kubas-praesident-bleibt-fuenf-weitere-jahre-im-amt-a-03a5f926-9481-4950-81b3-af953ec1c916#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter](https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter-a-2bed5fb1-be42-43f0-ad74-8e71112c4126#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hitzesommer-wolfgang-kubicki-und-die-klimakleber-notstand-in-der-baubranche](https://www.spiegel.de/politik/deutschland/news-des-tages-hitzesommer-wolfgang-kubicki-und-die-klimakleber-notstand-in-der-baubranche-a-3f722bbf-cb34-445e-9876-07ceed37b5f4#ref=rss)
+### rollenklischees
+
+* [https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter](https://www.spiegel.de/panorama/bildung/girls-and-boys-day-viele-eltern-haben-stereotype-berufsvorstellungen-fuer-soehne-und-toechter-a-2bed5fb1-be42-43f0-ad74-8e71112c4126#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees](https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees-a-42c34003-44e6-4af4-99f3-f09f68a782a0#ref=rss)
+### väter
+
+* [https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees](https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees-a-42c34003-44e6-4af4-99f3-f09f68a782a0#ref=rss)
+### psychologin
+
+* [https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees](https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees-a-42c34003-44e6-4af4-99f3-f09f68a782a0#ref=rss)
+### lieselotte
+
+* [https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees](https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees-a-42c34003-44e6-4af4-99f3-f09f68a782a0#ref=rss)
+### ahnert
+
+* [https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees](https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees-a-42c34003-44e6-4af4-99f3-f09f68a782a0#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees](https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees-a-42c34003-44e6-4af4-99f3-f09f68a782a0#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst](https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst-a-73d0c656-af5e-4243-81d8-d3e4f3599a24#ref=rss)
+### dazu
+
+* [https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees](https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees-a-42c34003-44e6-4af4-99f3-f09f68a782a0#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/warnstreiks-wirbeln-flug-und-bahnverkehr-durcheinander](https://www.spiegel.de/wirtschaft/soziales/warnstreiks-wirbeln-flug-und-bahnverkehr-durcheinander-a-0d3f031e-fc0d-4b26-aafa-c41b087f386d#ref=rss)
+### rolle
+
+* [https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees](https://www.spiegel.de/wissenschaft/mensch/vaeter-in-der-kinder-erziehung-psychologin-lieselotte-ahnert-ueber-rollen-klischees-a-42c34003-44e6-4af4-99f3-f09f68a782a0#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-will-cum-ex-untersuchungsausschuss-eingrenzen](https://www.spiegel.de/politik/deutschland/ampelkoalition-will-cum-ex-untersuchungsausschuss-eingrenzen-a-e5c4d330-a8c3-453a-8833-7dd3c0f0f367#ref=rss)
+### manfred
+
+* [https://www.spiegel.de/panorama/manfred-genditzki-ein-mann-sass-13-jahre-im-gefaengnis-vermutlich-unschuldig](https://www.spiegel.de/panorama/manfred-genditzki-ein-mann-sass-13-jahre-im-gefaengnis-vermutlich-unschuldig-a-e72b336d-840e-4e8f-b316-363fdc8839be#ref=rss)
+### genditzki
+
+* [https://www.spiegel.de/panorama/manfred-genditzki-ein-mann-sass-13-jahre-im-gefaengnis-vermutlich-unschuldig](https://www.spiegel.de/panorama/manfred-genditzki-ein-mann-sass-13-jahre-im-gefaengnis-vermutlich-unschuldig-a-e72b336d-840e-4e8f-b316-363fdc8839be#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/panorama/manfred-genditzki-ein-mann-sass-13-jahre-im-gefaengnis-vermutlich-unschuldig](https://www.spiegel.de/panorama/manfred-genditzki-ein-mann-sass-13-jahre-im-gefaengnis-vermutlich-unschuldig-a-e72b336d-840e-4e8f-b316-363fdc8839be#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst](https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst-a-73d0c656-af5e-4243-81d8-d3e4f3599a24#ref=rss)
+### verfahren
+
+* [https://www.spiegel.de/panorama/manfred-genditzki-ein-mann-sass-13-jahre-im-gefaengnis-vermutlich-unschuldig](https://www.spiegel.de/panorama/manfred-genditzki-ein-mann-sass-13-jahre-im-gefaengnis-vermutlich-unschuldig-a-e72b336d-840e-4e8f-b316-363fdc8839be#ref=rss)
+* [https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst](https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst-a-73d0c656-af5e-4243-81d8-d3e4f3599a24#ref=rss)
+### kubicki
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hitzesommer-wolfgang-kubicki-und-die-klimakleber-notstand-in-der-baubranche](https://www.spiegel.de/politik/deutschland/news-des-tages-hitzesommer-wolfgang-kubicki-und-die-klimakleber-notstand-in-der-baubranche-a-3f722bbf-cb34-445e-9876-07ceed37b5f4#ref=rss)
+### notstand
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-hitzesommer-wolfgang-kubicki-und-die-klimakleber-notstand-in-der-baubranche](https://www.spiegel.de/politik/deutschland/news-des-tages-hitzesommer-wolfgang-kubicki-und-die-klimakleber-notstand-in-der-baubranche-a-3f722bbf-cb34-445e-9876-07ceed37b5f4#ref=rss)
+### ampelkoalition
+
+* [https://www.spiegel.de/wirtschaft/soziales/tierschutz-regierung-will-bau-groesserer-staelle-erleichtern](https://www.spiegel.de/wirtschaft/soziales/tierschutz-regierung-will-bau-groesserer-staelle-erleichtern-a-f6b15e57-6e07-4ddd-87fc-d1dbfdfe8701#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ampelkoalition-will-cum-ex-untersuchungsausschuss-eingrenzen](https://www.spiegel.de/politik/deutschland/ampelkoalition-will-cum-ex-untersuchungsausschuss-eingrenzen-a-e5c4d330-a8c3-453a-8833-7dd3c0f0f367#ref=rss)
+### sonnenfinsternis
+
+* [https://www.spiegel.de/wissenschaft/australien-totale-sonnenfinsternis-do-look-up](https://www.spiegel.de/wissenschaft/australien-totale-sonnenfinsternis-do-look-up-a-ce851cef-bf42-4051-ab63-7f9ee9922db9#ref=rss)
+### bahnverkehr
+
+* [https://www.spiegel.de/wirtschaft/soziales/warnstreiks-wirbeln-flug-und-bahnverkehr-durcheinander](https://www.spiegel.de/wirtschaft/soziales/warnstreiks-wirbeln-flug-und-bahnverkehr-durcheinander-a-0d3f031e-fc0d-4b26-aafa-c41b087f386d#ref=rss)
+### mario
+
+* [https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst](https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst-a-73d0c656-af5e-4243-81d8-d3e4f3599a24#ref=rss)
+### vušković
+
+* [https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst](https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst-a-73d0c656-af5e-4243-81d8-d3e4f3599a24#ref=rss)
+### berufungsverfahren
+
+* [https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst](https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst-a-73d0c656-af5e-4243-81d8-d3e4f3599a24#ref=rss)
+### dfb
+
+* [https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst](https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst-a-73d0c656-af5e-4243-81d8-d3e4f3599a24#ref=rss)
+### legt
+
+* [https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst](https://www.spiegel.de/sport/fussball/mario-vuskovic-hsv-berufungsverfahren-beim-dfb-ruht-vorerst-a-73d0c656-af5e-4243-81d8-d3e4f3599a24#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-womit-ki-wirklich-trainiert-wird](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-womit-ki-wirklich-trainiert-wird-a-980420ae-3cad-4280-8333-414ead351f2f#ref=rss)
+### widerstand
+
+* [https://www.spiegel.de/geschichte/neues-von-gestern-der-geschichte-newsletter-der-unbekannte-widerstand](https://www.spiegel.de/geschichte/neues-von-gestern-der-geschichte-newsletter-der-unbekannte-widerstand-a-be57247e-8471-4f8d-85b3-16a8d32692f8#ref=rss)
+### regel
+
+* [https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-womit-ki-wirklich-trainiert-wird](https://www.spiegel.de/netzwelt/web/kuenstliche-intelligenz-womit-ki-wirklich-trainiert-wird-a-980420ae-3cad-4280-8333-414ead351f2f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/nach-regel-aerger-in-der-champions-league-haende-weg-vom-fussball](https://www.spiegel.de/sport/fussball/nach-regel-aerger-in-der-champions-league-haende-weg-vom-fussball-a-b2f9d23f-e523-43f5-9a06-9ea36c789c45#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-scheitert-in-muenchen-zum-auftakt-und-hadert-mit-der-kaelte](https://www.spiegel.de/sport/tennis/alexander-zverev-scheitert-in-muenchen-zum-auftakt-und-hadert-mit-der-kaelte-a-e550d41a-59ad-4908-8b99-42204f0ce793#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/alexander-zverev-scheitert-in-muenchen-zum-auftakt-und-hadert-mit-der-kaelte](https://www.spiegel.de/sport/tennis/alexander-zverev-scheitert-in-muenchen-zum-auftakt-und-hadert-mit-der-kaelte-a-e550d41a-59ad-4908-8b99-42204f0ce793#ref=rss)
+### liberalen
+
+* [https://www.spiegel.de/politik/deutschland/fdp-jeder-zweite-beurteilt-das-verhalten-der-liberalen-als-destruktiv](https://www.spiegel.de/politik/deutschland/fdp-jeder-zweite-beurteilt-das-verhalten-der-liberalen-als-destruktiv-a-d1ef8586-2281-4bd0-9ffa-2d6c2f7137e3#ref=rss)
+### studierendenwerk
+
+* [https://www.spiegel.de/panorama/bildung/studierendenwerk-kritisiert-hohen-zinssatz](https://www.spiegel.de/panorama/bildung/studierendenwerk-kritisiert-hohen-zinssatz-a-cc1a855f-6031-44ba-971d-b683073a0a46#ref=rss)
+### zinssatz
+
+* [https://www.spiegel.de/panorama/bildung/studierendenwerk-kritisiert-hohen-zinssatz](https://www.spiegel.de/panorama/bildung/studierendenwerk-kritisiert-hohen-zinssatz-a-cc1a855f-6031-44ba-971d-b683073a0a46#ref=rss)
+### attila
+
+* [https://www.spiegel.de/panorama/justiz/attila-hildmann-tuerkei-liefert-frueheren-kochbuchautor-nicht-aus](https://www.spiegel.de/panorama/justiz/attila-hildmann-tuerkei-liefert-frueheren-kochbuchautor-nicht-aus-a-2e3e7cd4-b492-415e-a080-7b8898fa952b#ref=rss)
+### hildmann
+
+* [https://www.spiegel.de/panorama/justiz/attila-hildmann-tuerkei-liefert-frueheren-kochbuchautor-nicht-aus](https://www.spiegel.de/panorama/justiz/attila-hildmann-tuerkei-liefert-frueheren-kochbuchautor-nicht-aus-a-2e3e7cd4-b492-415e-a080-7b8898fa952b#ref=rss)
+### türkei
+
+* [https://www.spiegel.de/panorama/justiz/attila-hildmann-tuerkei-liefert-frueheren-kochbuchautor-nicht-aus](https://www.spiegel.de/panorama/justiz/attila-hildmann-tuerkei-liefert-frueheren-kochbuchautor-nicht-aus-a-2e3e7cd4-b492-415e-a080-7b8898fa952b#ref=rss)
 
