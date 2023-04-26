@@ -5,11 +5,11 @@
 
 ```
 date, investment, buy price, sell price
-2023-04-19 10:10:01, 1-EUR, 1.09 USD, 1.09 USD
-2023-04-19 10:10:01, 1-EUR, 7.54 CNY, 7.54 CNY
-2023-04-19 10:10:02, crude-oil-brent-barrel, 83.12 USD, 83.12 USD
-2023-04-19 10:10:02, gold-10g, 603.83 EUR, 569.28 EUR
-2023-04-19 10:10:07, lego-2019-30365-1-satellit, 5.0 USD, 5.0 USD
-2023-04-19 10:10:08, lego-2019-60224-1-satellitenwartung, 13.0 USD, 13.0 USD
-2023-04-19 10:10:09, lego-2019-60225-1-rovertestfahrt, 27.0 USD, 27.0 USD
+2023-04-26 10:09:57, 1-EUR, 1.1 USD, 1.1 USD
+2023-04-26 10:09:57, 1-EUR, 7.62 CNY, 7.62 CNY
+2023-04-26 10:09:57, crude-oil-brent-barrel, 80.79 USD, 80.79 USD
+2023-04-26 10:09:58, gold-10g, 604.9 EUR, 570.26 EUR
+2023-04-26 10:10:01, lego-2019-30365-1-satellit, 5.0 USD, 5.0 USD
+2023-04-26 10:10:03, lego-2019-60224-1-satellitenwartung, 13.0 USD, 13.0 USD
+2023-04-26 10:10:04, lego-2019-60225-1-rovertestfahrt, 27.0 USD, 27.0 USD
 ```
