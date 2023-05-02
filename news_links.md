@@ -4,357 +4,280 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### mehr
-
-* [https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es](https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es-a-ef87b883-b3fa-4d92-88c9-e90f84df78ea#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/geoffrey-hinton-pionier-der-kuenstlichen-intelligenz-warnt-vor-seiner-eigenen-schoepfung](https://www.spiegel.de/netzwelt/web/geoffrey-hinton-pionier-der-kuenstlichen-intelligenz-warnt-vor-seiner-eigenen-schoepfung-a-b80cb149-c8cf-4319-917e-03afae6ae557#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/inflation-verbraucher-sparen-bei-lebensmitteln](https://www.spiegel.de/wirtschaft/soziales/inflation-verbraucher-sparen-bei-lebensmitteln-a-9146fa8d-d584-4223-aa01-35e35c54988f#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern-a-faa37261-e15d-40ac-a64a-b22b646e3fd9#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunderttausende-wegen-schwerer-kaempfe-auf-der-flucht](https://www.spiegel.de/ausland/sudan-hunderttausende-wegen-schwerer-kaempfe-auf-der-flucht-a-a65ba04a-2c0f-4f35-b0af-305aac772727#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/rechtsextreme-umtriebe-so-reagiert-die-politik-auf-den-lehrer-brandbrief-aus-brandenburg](https://www.spiegel.de/panorama/bildung/rechtsextreme-umtriebe-so-reagiert-die-politik-auf-den-lehrer-brandbrief-aus-brandenburg-a-a2ba170a-a2d8-4401-bdfb-bd934bc394a1#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-weist-deutschen-wegen-angeblicher-lgbt-propaganda-aus](https://www.spiegel.de/ausland/russland-weist-deutschen-wegen-angeblicher-lgbt-propaganda-aus-a-13de5a0e-8fed-449a-ae00-d1ecc5e19f88#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern-a-faa37261-e15d-40ac-a64a-b22b646e3fd9#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/russland-weist-deutschen-wegen-angeblicher-lgbt-propaganda-aus](https://www.spiegel.de/ausland/russland-weist-deutschen-wegen-angeblicher-lgbt-propaganda-aus-a-13de5a0e-8fed-449a-ae00-d1ecc5e19f88#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern-a-faa37261-e15d-40ac-a64a-b22b646e3fd9#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunderttausende-wegen-schwerer-kaempfe-auf-der-flucht](https://www.spiegel.de/ausland/sudan-hunderttausende-wegen-schwerer-kaempfe-auf-der-flucht-a-a65ba04a-2c0f-4f35-b0af-305aac772727#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-wieso-menschen-angst-vor-der-polizei-haben](https://www.spiegel.de/ausland/frankreich-wieso-menschen-angst-vor-der-polizei-haben-a-4fe4b697-a9da-43cf-a457-18b5fdf1d84d#ref=rss)
-### jack
-
-* [https://www.spiegel.de/wirtschaft/alibaba-gruender-jack-ma-wird-gastdozent-in-tokio](https://www.spiegel.de/wirtschaft/alibaba-gruender-jack-ma-wird-gastdozent-in-tokio-a-9cabc1c7-bb16-4193-9b45-6a4ca8eee10d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind](https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind-a-e906adff-c398-43fe-8095-53db91b8e8a7#ref=rss)
-### polizei
-
-* [https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen](https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen-a-530ac3e5-dddd-4b21-8516-fc430538ebf8#ref=rss)
-* [https://www.spiegel.de/ausland/frankreich-wieso-menschen-angst-vor-der-polizei-haben](https://www.spiegel.de/ausland/frankreich-wieso-menschen-angst-vor-der-polizei-haben-a-4fe4b697-a9da-43cf-a457-18b5fdf1d84d#ref=rss)
-* [https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas](https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas-a-a6c46960-8223-4f2b-84b7-82562ba95c36#ref=rss)
-### land
-
-* [https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es](https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es-a-ef87b883-b3fa-4d92-88c9-e90f84df78ea#ref=rss)
-* [https://www.spiegel.de/ausland/russland-weist-deutschen-wegen-angeblicher-lgbt-propaganda-aus](https://www.spiegel.de/ausland/russland-weist-deutschen-wegen-angeblicher-lgbt-propaganda-aus-a-13de5a0e-8fed-449a-ae00-d1ecc5e19f88#ref=rss)
-* [https://www.spiegel.de/ausland/sudan-hunderttausende-wegen-schwerer-kaempfe-auf-der-flucht](https://www.spiegel.de/ausland/sudan-hunderttausende-wegen-schwerer-kaempfe-auf-der-flucht-a-a65ba04a-2c0f-4f35-b0af-305aac772727#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen](https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen-a-b9e27919-765a-4b44-a577-2655037091e7#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern-a-faa37261-e15d-40ac-a64a-b22b646e3fd9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/streit-um-uebertragungsrechte-gianni-infantino-droht-wm-der-frauen-werde-womoeglich-nicht-im-tv-gezeigt](https://www.spiegel.de/sport/fussball/streit-um-uebertragungsrechte-gianni-infantino-droht-wm-der-frauen-werde-womoeglich-nicht-im-tv-gezeigt-a-76086efe-d17f-4ce5-8f0f-2ca181694a23#ref=rss)
-### besonders
-
-* [https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen](https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen-a-b9e27919-765a-4b44-a577-2655037091e7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/china-und-afrika-chinesische-und-private-kredite-fuer-afrika-besonders-teuer](https://www.spiegel.de/wirtschaft/china-und-afrika-chinesische-und-private-kredite-fuer-afrika-besonders-teuer-a-2a357798-9a99-497c-8c0c-5bc64019fe4b#ref=rss)
-### viele
-
-* [https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen](https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen-a-b9e27919-765a-4b44-a577-2655037091e7#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/geoffrey-hinton-pionier-der-kuenstlichen-intelligenz-warnt-vor-seiner-eigenen-schoepfung](https://www.spiegel.de/netzwelt/web/geoffrey-hinton-pionier-der-kuenstlichen-intelligenz-warnt-vor-seiner-eigenen-schoepfung-a-b80cb149-c8cf-4319-917e-03afae6ae557#ref=rss)
-* [https://www.spiegel.de/wissenschaft/wales-fossile-miniatur-welt-gefunden](https://www.spiegel.de/wissenschaft/wales-fossile-miniatur-welt-gefunden-a-8622459e-0ede-4db8-82ad-71dcd0cf2dd3#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen](https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen-a-b9e27919-765a-4b44-a577-2655037091e7#ref=rss)
-* [https://www.spiegel.de/panorama/australien-angler-vermisst-behoerden-in-queensland-wollen-krokodile-obduzieren](https://www.spiegel.de/panorama/australien-angler-vermisst-behoerden-in-queensland-wollen-krokodile-obduzieren-a-b5acddb3-ff77-4f83-b617-adadec477acf#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen](https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen-a-530ac3e5-dddd-4b21-8516-fc430538ebf8#ref=rss)
-### alles
-
-* [https://www.spiegel.de/netzwelt/gadgets/ios-16-4-1-ipados-16-4-1-macos-ventura-13-3-1-weshalb-apples-highspeed-update-fuer-iphones-ipads-und-macs-wichtig-ist](https://www.spiegel.de/netzwelt/gadgets/ios-16-4-1-ipados-16-4-1-macos-ventura-13-3-1-weshalb-apples-highspeed-update-fuer-iphones-ipads-und-macs-wichtig-ist-a-2b1f1b2d-ab32-4693-bcd3-e47f50171afa#ref=rss)
-* [https://www.spiegel.de/wissenschaft/starship-selbstzerstoerung-mit-verzoegerung-ausgeloest](https://www.spiegel.de/wissenschaft/starship-selbstzerstoerung-mit-verzoegerung-ausgeloest-a-7e28071c-bf9a-4a69-9912-8b379dee5f9b#ref=rss)
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-im-champions-league-finale-wir-wollen-definitiv-alles-gewinnen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-im-champions-league-finale-wir-wollen-definitiv-alles-gewinnen-a-27bfff7b-a5dc-4336-b034-2df97ea3f161#ref=rss)
-### intelligenz
-
-* [https://www.spiegel.de/netzwelt/web/geoffrey-hinton-pionier-der-kuenstlichen-intelligenz-warnt-vor-seiner-eigenen-schoepfung](https://www.spiegel.de/netzwelt/web/geoffrey-hinton-pionier-der-kuenstlichen-intelligenz-warnt-vor-seiner-eigenen-schoepfung-a-b80cb149-c8cf-4319-917e-03afae6ae557#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-verein-laion-warnt-eu-vor-ueberregulierung](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-verein-laion-warnt-eu-vor-ueberregulierung-a-3c4d54b9-8814-40b5-871b-5e106c223116#ref=rss)
-### erstmals
-
-* [https://www.spiegel.de/wissenschaft/starship-selbstzerstoerung-mit-verzoegerung-ausgeloest](https://www.spiegel.de/wissenschaft/starship-selbstzerstoerung-mit-verzoegerung-ausgeloest-a-7e28071c-bf9a-4a69-9912-8b379dee5f9b#ref=rss)
-* [https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister](https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister-a-ff7549ec-88af-4c3b-92e1-bbb36747ea34#ref=rss)
-### kam
-
-* [https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind](https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind-a-e906adff-c398-43fe-8095-53db91b8e8a7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas](https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas-a-a6c46960-8223-4f2b-84b7-82562ba95c36#ref=rss)
-### sieben
-
-* [https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind](https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind-a-e906adff-c398-43fe-8095-53db91b8e8a7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen](https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen-a-530ac3e5-dddd-4b21-8516-fc430538ebf8#ref=rss)
-### afrika
-
-* [https://www.spiegel.de/wirtschaft/china-und-afrika-chinesische-und-private-kredite-fuer-afrika-besonders-teuer](https://www.spiegel.de/wirtschaft/china-und-afrika-chinesische-und-private-kredite-fuer-afrika-besonders-teuer-a-2a357798-9a99-497c-8c0c-5bc64019fe4b#ref=rss)
-### niederlande
-
-* [https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es](https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es-a-ef87b883-b3fa-4d92-88c9-e90f84df78ea#ref=rss)
-### stickstoffkrise
-
-* [https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es](https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es-a-ef87b883-b3fa-4d92-88c9-e90f84df78ea#ref=rss)
-### johan
-
-* [https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es](https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es-a-ef87b883-b3fa-4d92-88c9-e90f84df78ea#ref=rss)
-### vollenbroek
-
-* [https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es](https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es-a-ef87b883-b3fa-4d92-88c9-e90f84df78ea#ref=rss)
-### weit
-
-* [https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es](https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es-a-ef87b883-b3fa-4d92-88c9-e90f84df78ea#ref=rss)
-* [https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas](https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas-a-a6c46960-8223-4f2b-84b7-82562ba95c36#ref=rss)
-### kommen
-
-* [https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es](https://www.spiegel.de/ausland/niederlande-und-die-stickstoffkrise-ruiniert-johan-vollenbroek-das-land-oder-rettet-er-es-a-ef87b883-b3fa-4d92-88c9-e90f84df78ea#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen](https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen-a-b9e27919-765a-4b44-a577-2655037091e7#ref=rss)
-### tyrannosaurusrexskelett
-
-* [https://www.spiegel.de/panorama/tyrannosaurus-rex-skelett-in-zuerich-warum-sind-dinos-deko](https://www.spiegel.de/panorama/tyrannosaurus-rex-skelett-in-zuerich-warum-sind-dinos-deko-a-433817ae-2a67-473f-a7a1-5d81e355a944#ref=rss)
-### zürich
-
-* [https://www.spiegel.de/panorama/tyrannosaurus-rex-skelett-in-zuerich-warum-sind-dinos-deko](https://www.spiegel.de/panorama/tyrannosaurus-rex-skelett-in-zuerich-warum-sind-dinos-deko-a-433817ae-2a67-473f-a7a1-5d81e355a944#ref=rss)
-### studie
-
-* [https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen](https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen-a-b9e27919-765a-4b44-a577-2655037091e7#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen](https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen-a-b9e27919-765a-4b44-a577-2655037091e7#ref=rss)
-* [https://www.spiegel.de/sport/fussball/streit-um-uebertragungsrechte-gianni-infantino-droht-wm-der-frauen-werde-womoeglich-nicht-im-tv-gezeigt](https://www.spiegel.de/sport/fussball/streit-um-uebertragungsrechte-gianni-infantino-droht-wm-der-frauen-werde-womoeglich-nicht-im-tv-gezeigt-a-76086efe-d17f-4ce5-8f0f-2ca181694a23#ref=rss)
-### hochschulen
-
-* [https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen](https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen-a-b9e27919-765a-4b44-a577-2655037091e7#ref=rss)
-### deutschlands
-
-* [https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen](https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen-a-b9e27919-765a-4b44-a577-2655037091e7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimaprotest-der-letzten-generation-was-bedroht-die-demokratie-wirklich](https://www.spiegel.de/wissenschaft/klimaprotest-der-letzten-generation-was-bedroht-die-demokratie-wirklich-a-97a9df9c-10f4-475d-80cf-cc5e65166ace#ref=rss)
-### allem
-
-* [https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen](https://www.spiegel.de/panorama/bildung/studie-anteil-der-frauen-an-der-spitze-von-hochschulen-leicht-angestiegen-a-b9e27919-765a-4b44-a577-2655037091e7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/inflation-verbraucher-sparen-bei-lebensmitteln](https://www.spiegel.de/wirtschaft/soziales/inflation-verbraucher-sparen-bei-lebensmitteln-a-9146fa8d-d584-4223-aa01-35e35c54988f#ref=rss)
-### 1641
-
-* [https://www.spiegel.de/netzwelt/gadgets/ios-16-4-1-ipados-16-4-1-macos-ventura-13-3-1-weshalb-apples-highspeed-update-fuer-iphones-ipads-und-macs-wichtig-ist](https://www.spiegel.de/netzwelt/gadgets/ios-16-4-1-ipados-16-4-1-macos-ventura-13-3-1-weshalb-apples-highspeed-update-fuer-iphones-ipads-und-macs-wichtig-ist-a-2b1f1b2d-ab32-4693-bcd3-e47f50171afa#ref=rss)
-### wichtig
-
-* [https://www.spiegel.de/netzwelt/gadgets/ios-16-4-1-ipados-16-4-1-macos-ventura-13-3-1-weshalb-apples-highspeed-update-fuer-iphones-ipads-und-macs-wichtig-ist](https://www.spiegel.de/netzwelt/gadgets/ios-16-4-1-ipados-16-4-1-macos-ventura-13-3-1-weshalb-apples-highspeed-update-fuer-iphones-ipads-und-macs-wichtig-ist-a-2b1f1b2d-ab32-4693-bcd3-e47f50171afa#ref=rss)
-### update
-
-* [https://www.spiegel.de/netzwelt/gadgets/ios-16-4-1-ipados-16-4-1-macos-ventura-13-3-1-weshalb-apples-highspeed-update-fuer-iphones-ipads-und-macs-wichtig-ist](https://www.spiegel.de/netzwelt/gadgets/ios-16-4-1-ipados-16-4-1-macos-ventura-13-3-1-weshalb-apples-highspeed-update-fuer-iphones-ipads-und-macs-wichtig-ist-a-2b1f1b2d-ab32-4693-bcd3-e47f50171afa#ref=rss)
-### zwar
-
-* [https://www.spiegel.de/netzwelt/gadgets/ios-16-4-1-ipados-16-4-1-macos-ventura-13-3-1-weshalb-apples-highspeed-update-fuer-iphones-ipads-und-macs-wichtig-ist](https://www.spiegel.de/netzwelt/gadgets/ios-16-4-1-ipados-16-4-1-macos-ventura-13-3-1-weshalb-apples-highspeed-update-fuer-iphones-ipads-und-macs-wichtig-ist-a-2b1f1b2d-ab32-4693-bcd3-e47f50171afa#ref=rss)
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-im-champions-league-finale-wir-wollen-definitiv-alles-gewinnen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-im-champions-league-finale-wir-wollen-definitiv-alles-gewinnen-a-27bfff7b-a5dc-4336-b034-2df97ea3f161#ref=rss)
-### deutschen
-
-* [https://www.spiegel.de/ausland/russland-weist-deutschen-wegen-angeblicher-lgbt-propaganda-aus](https://www.spiegel.de/ausland/russland-weist-deutschen-wegen-angeblicher-lgbt-propaganda-aus-a-13de5a0e-8fed-449a-ae00-d1ecc5e19f88#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/inflation-verbraucher-sparen-bei-lebensmitteln](https://www.spiegel.de/wirtschaft/soziales/inflation-verbraucher-sparen-bei-lebensmitteln-a-9146fa8d-d584-4223-aa01-35e35c54988f#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/russland-weist-deutschen-wegen-angeblicher-lgbt-propaganda-aus](https://www.spiegel.de/ausland/russland-weist-deutschen-wegen-angeblicher-lgbt-propaganda-aus-a-13de5a0e-8fed-449a-ae00-d1ecc5e19f88#ref=rss)
-* [https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas](https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas-a-a6c46960-8223-4f2b-84b7-82562ba95c36#ref=rss)
-### geoffrey
-
-* [https://www.spiegel.de/netzwelt/web/geoffrey-hinton-pionier-der-kuenstlichen-intelligenz-warnt-vor-seiner-eigenen-schoepfung](https://www.spiegel.de/netzwelt/web/geoffrey-hinton-pionier-der-kuenstlichen-intelligenz-warnt-vor-seiner-eigenen-schoepfung-a-b80cb149-c8cf-4319-917e-03afae6ae557#ref=rss)
-### hinton
-
-* [https://www.spiegel.de/netzwelt/web/geoffrey-hinton-pionier-der-kuenstlichen-intelligenz-warnt-vor-seiner-eigenen-schoepfung](https://www.spiegel.de/netzwelt/web/geoffrey-hinton-pionier-der-kuenstlichen-intelligenz-warnt-vor-seiner-eigenen-schoepfung-a-b80cb149-c8cf-4319-917e-03afae6ae557#ref=rss)
-### warnt
-
-* [https://www.spiegel.de/netzwelt/web/geoffrey-hinton-pionier-der-kuenstlichen-intelligenz-warnt-vor-seiner-eigenen-schoepfung](https://www.spiegel.de/netzwelt/web/geoffrey-hinton-pionier-der-kuenstlichen-intelligenz-warnt-vor-seiner-eigenen-schoepfung-a-b80cb149-c8cf-4319-917e-03afae6ae557#ref=rss)
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-verein-laion-warnt-eu-vor-ueberregulierung](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-verein-laion-warnt-eu-vor-ueberregulierung-a-3c4d54b9-8814-40b5-871b-5e106c223116#ref=rss)
-### inflation
-
-* [https://www.spiegel.de/wirtschaft/soziales/inflation-verbraucher-sparen-bei-lebensmitteln](https://www.spiegel.de/wirtschaft/soziales/inflation-verbraucher-sparen-bei-lebensmitteln-a-9146fa8d-d584-4223-aa01-35e35c54988f#ref=rss)
-### lebensmitteln
-
-* [https://www.spiegel.de/wirtschaft/soziales/inflation-verbraucher-sparen-bei-lebensmitteln](https://www.spiegel.de/wirtschaft/soziales/inflation-verbraucher-sparen-bei-lebensmitteln-a-9146fa8d-d584-4223-aa01-35e35c54988f#ref=rss)
-### schaffen
-
-* [https://www.spiegel.de/wirtschaft/soziales/inflation-verbraucher-sparen-bei-lebensmitteln](https://www.spiegel.de/wirtschaft/soziales/inflation-verbraucher-sparen-bei-lebensmitteln-a-9146fa8d-d584-4223-aa01-35e35c54988f#ref=rss)
-* [https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister](https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister-a-ff7549ec-88af-4c3b-92e1-bbb36747ea34#ref=rss)
-### kiew
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern-a-faa37261-e15d-40ac-a64a-b22b646e3fd9#ref=rss)
-### 20
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern-a-faa37261-e15d-40ac-a64a-b22b646e3fd9#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/linkedin-so-gelingt-der-einstieg-in-das-karrierenetzwerk](https://www.spiegel.de/netzwelt/web/linkedin-so-gelingt-der-einstieg-in-das-karrierenetzwerk-a-30576a22-a73a-4f61-9fe6-ec60a219d8f3#ref=rss)
-### fossile
-
-* [https://www.spiegel.de/wissenschaft/wales-fossile-miniatur-welt-gefunden](https://www.spiegel.de/wissenschaft/wales-fossile-miniatur-welt-gefunden-a-8622459e-0ede-4db8-82ad-71dcd0cf2dd3#ref=rss)
-### miniaturwelt
-
-* [https://www.spiegel.de/wissenschaft/wales-fossile-miniatur-welt-gefunden](https://www.spiegel.de/wissenschaft/wales-fossile-miniatur-welt-gefunden-a-8622459e-0ede-4db8-82ad-71dcd0cf2dd3#ref=rss)
-### gefunden
-
-* [https://www.spiegel.de/wissenschaft/wales-fossile-miniatur-welt-gefunden](https://www.spiegel.de/wissenschaft/wales-fossile-miniatur-welt-gefunden-a-8622459e-0ede-4db8-82ad-71dcd0cf2dd3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen](https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen-a-530ac3e5-dddd-4b21-8516-fc430538ebf8#ref=rss)
-### sudan
-
-* [https://www.spiegel.de/ausland/sudan-hunderttausende-wegen-schwerer-kaempfe-auf-der-flucht](https://www.spiegel.de/ausland/sudan-hunderttausende-wegen-schwerer-kaempfe-auf-der-flucht-a-a65ba04a-2c0f-4f35-b0af-305aac772727#ref=rss)
-### flucht
-
-* [https://www.spiegel.de/ausland/sudan-hunderttausende-wegen-schwerer-kaempfe-auf-der-flucht](https://www.spiegel.de/ausland/sudan-hunderttausende-wegen-schwerer-kaempfe-auf-der-flucht-a-a65ba04a-2c0f-4f35-b0af-305aac772727#ref=rss)
-### gianni
-
-* [https://www.spiegel.de/sport/fussball/streit-um-uebertragungsrechte-gianni-infantino-droht-wm-der-frauen-werde-womoeglich-nicht-im-tv-gezeigt](https://www.spiegel.de/sport/fussball/streit-um-uebertragungsrechte-gianni-infantino-droht-wm-der-frauen-werde-womoeglich-nicht-im-tv-gezeigt-a-76086efe-d17f-4ce5-8f0f-2ca181694a23#ref=rss)
-### infantino
-
-* [https://www.spiegel.de/sport/fussball/streit-um-uebertragungsrechte-gianni-infantino-droht-wm-der-frauen-werde-womoeglich-nicht-im-tv-gezeigt](https://www.spiegel.de/sport/fussball/streit-um-uebertragungsrechte-gianni-infantino-droht-wm-der-frauen-werde-womoeglich-nicht-im-tv-gezeigt-a-76086efe-d17f-4ce5-8f0f-2ca181694a23#ref=rss)
-### wm
-
-* [https://www.spiegel.de/sport/fussball/streit-um-uebertragungsrechte-gianni-infantino-droht-wm-der-frauen-werde-womoeglich-nicht-im-tv-gezeigt](https://www.spiegel.de/sport/fussball/streit-um-uebertragungsrechte-gianni-infantino-droht-wm-der-frauen-werde-womoeglich-nicht-im-tv-gezeigt-a-76086efe-d17f-4ce5-8f0f-2ca181694a23#ref=rss)
-### unter
-
-* [https://www.spiegel.de/sport/fussball/streit-um-uebertragungsrechte-gianni-infantino-droht-wm-der-frauen-werde-womoeglich-nicht-im-tv-gezeigt](https://www.spiegel.de/sport/fussball/streit-um-uebertragungsrechte-gianni-infantino-droht-wm-der-frauen-werde-womoeglich-nicht-im-tv-gezeigt-a-76086efe-d17f-4ce5-8f0f-2ca181694a23#ref=rss)
-* [https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister](https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister-a-ff7549ec-88af-4c3b-92e1-bbb36747ea34#ref=rss)
-### welt
-
-* [https://www.spiegel.de/wissenschaft/starship-selbstzerstoerung-mit-verzoegerung-ausgeloest](https://www.spiegel.de/wissenschaft/starship-selbstzerstoerung-mit-verzoegerung-ausgeloest-a-7e28071c-bf9a-4a69-9912-8b379dee5f9b#ref=rss)
-* [https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind](https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind-a-e906adff-c398-43fe-8095-53db91b8e8a7#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/wissenschaft/starship-selbstzerstoerung-mit-verzoegerung-ausgeloest](https://www.spiegel.de/wissenschaft/starship-selbstzerstoerung-mit-verzoegerung-ausgeloest-a-7e28071c-bf9a-4a69-9912-8b379dee5f9b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/volker-wissing-fdp-vor-treffen-mit-klimagruppe-null-toleranz-fuer-straftaeter](https://www.spiegel.de/politik/deutschland/volker-wissing-fdp-vor-treffen-mit-klimagruppe-null-toleranz-fuer-straftaeter-a-883ef888-6d8a-419f-b890-a2ad180afcea#ref=rss)
-### start
-
-* [https://www.spiegel.de/wissenschaft/starship-selbstzerstoerung-mit-verzoegerung-ausgeloest](https://www.spiegel.de/wissenschaft/starship-selbstzerstoerung-mit-verzoegerung-ausgeloest-a-7e28071c-bf9a-4a69-9912-8b379dee5f9b#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/linkedin-so-gelingt-der-einstieg-in-das-karrierenetzwerk](https://www.spiegel.de/netzwelt/web/linkedin-so-gelingt-der-einstieg-in-das-karrierenetzwerk-a-30576a22-a73a-4f61-9fe6-ec60a219d8f3#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/wissenschaft/starship-selbstzerstoerung-mit-verzoegerung-ausgeloest](https://www.spiegel.de/wissenschaft/starship-selbstzerstoerung-mit-verzoegerung-ausgeloest-a-7e28071c-bf9a-4a69-9912-8b379dee5f9b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen](https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen-a-530ac3e5-dddd-4b21-8516-fc430538ebf8#ref=rss)
-### angler
-
-* [https://www.spiegel.de/panorama/australien-angler-vermisst-behoerden-in-queensland-wollen-krokodile-obduzieren](https://www.spiegel.de/panorama/australien-angler-vermisst-behoerden-in-queensland-wollen-krokodile-obduzieren-a-b5acddb3-ff77-4f83-b617-adadec477acf#ref=rss)
-### vermisst
-
-* [https://www.spiegel.de/panorama/australien-angler-vermisst-behoerden-in-queensland-wollen-krokodile-obduzieren](https://www.spiegel.de/panorama/australien-angler-vermisst-behoerden-in-queensland-wollen-krokodile-obduzieren-a-b5acddb3-ff77-4f83-b617-adadec477acf#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen](https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen-a-530ac3e5-dddd-4b21-8516-fc430538ebf8#ref=rss)
-### queensland
-
-* [https://www.spiegel.de/panorama/australien-angler-vermisst-behoerden-in-queensland-wollen-krokodile-obduzieren](https://www.spiegel.de/panorama/australien-angler-vermisst-behoerden-in-queensland-wollen-krokodile-obduzieren-a-b5acddb3-ff77-4f83-b617-adadec477acf#ref=rss)
-### krokodile
-
-* [https://www.spiegel.de/panorama/australien-angler-vermisst-behoerden-in-queensland-wollen-krokodile-obduzieren](https://www.spiegel.de/panorama/australien-angler-vermisst-behoerden-in-queensland-wollen-krokodile-obduzieren-a-b5acddb3-ff77-4f83-b617-adadec477acf#ref=rss)
-### gehört
-
-* [https://www.spiegel.de/panorama/australien-angler-vermisst-behoerden-in-queensland-wollen-krokodile-obduzieren](https://www.spiegel.de/panorama/australien-angler-vermisst-behoerden-in-queensland-wollen-krokodile-obduzieren-a-b5acddb3-ff77-4f83-b617-adadec477acf#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/linkedin-so-gelingt-der-einstieg-in-das-karrierenetzwerk](https://www.spiegel.de/netzwelt/web/linkedin-so-gelingt-der-einstieg-in-das-karrierenetzwerk-a-30576a22-a73a-4f61-9fe6-ec60a219d8f3#ref=rss)
-### wissing
-
-* [https://www.spiegel.de/politik/deutschland/volker-wissing-fdp-vor-treffen-mit-klimagruppe-null-toleranz-fuer-straftaeter](https://www.spiegel.de/politik/deutschland/volker-wissing-fdp-vor-treffen-mit-klimagruppe-null-toleranz-fuer-straftaeter-a-883ef888-6d8a-419f-b890-a2ad180afcea#ref=rss)
-### treffen
-
-* [https://www.spiegel.de/politik/deutschland/volker-wissing-fdp-vor-treffen-mit-klimagruppe-null-toleranz-fuer-straftaeter](https://www.spiegel.de/politik/deutschland/volker-wissing-fdp-vor-treffen-mit-klimagruppe-null-toleranz-fuer-straftaeter-a-883ef888-6d8a-419f-b890-a2ad180afcea#ref=rss)
-### generation
-
-* [https://www.spiegel.de/politik/deutschland/volker-wissing-fdp-vor-treffen-mit-klimagruppe-null-toleranz-fuer-straftaeter](https://www.spiegel.de/politik/deutschland/volker-wissing-fdp-vor-treffen-mit-klimagruppe-null-toleranz-fuer-straftaeter-a-883ef888-6d8a-419f-b890-a2ad180afcea#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimaprotest-der-letzten-generation-was-bedroht-die-demokratie-wirklich](https://www.spiegel.de/wissenschaft/klimaprotest-der-letzten-generation-was-bedroht-die-demokratie-wirklich-a-97a9df9c-10f4-475d-80cf-cc5e65166ace#ref=rss)
-### straßen
-
-* [https://www.spiegel.de/politik/deutschland/volker-wissing-fdp-vor-treffen-mit-klimagruppe-null-toleranz-fuer-straftaeter](https://www.spiegel.de/politik/deutschland/volker-wissing-fdp-vor-treffen-mit-klimagruppe-null-toleranz-fuer-straftaeter-a-883ef888-6d8a-419f-b890-a2ad180afcea#ref=rss)
-* [https://www.spiegel.de/wissenschaft/klimaprotest-der-letzten-generation-was-bedroht-die-demokratie-wirklich](https://www.spiegel.de/wissenschaft/klimaprotest-der-letzten-generation-was-bedroht-die-demokratie-wirklich-a-97a9df9c-10f4-475d-80cf-cc5e65166ace#ref=rss)
-### linkedin
-
-* [https://www.spiegel.de/netzwelt/web/linkedin-so-gelingt-der-einstieg-in-das-karrierenetzwerk](https://www.spiegel.de/netzwelt/web/linkedin-so-gelingt-der-einstieg-in-das-karrierenetzwerk-a-30576a22-a73a-4f61-9fe6-ec60a219d8f3#ref=rss)
-### karrierenetzwerk
-
-* [https://www.spiegel.de/netzwelt/web/linkedin-so-gelingt-der-einstieg-in-das-karrierenetzwerk](https://www.spiegel.de/netzwelt/web/linkedin-so-gelingt-der-einstieg-in-das-karrierenetzwerk-a-30576a22-a73a-4f61-9fe6-ec60a219d8f3#ref=rss)
-### usa
-
-* [https://www.spiegel.de/netzwelt/web/linkedin-so-gelingt-der-einstieg-in-das-karrierenetzwerk](https://www.spiegel.de/netzwelt/web/linkedin-so-gelingt-der-einstieg-in-das-karrierenetzwerk-a-30576a22-a73a-4f61-9fe6-ec60a219d8f3#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen](https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen-a-530ac3e5-dddd-4b21-8516-fc430538ebf8#ref=rss)
-### rechtsextreme
-
-* [https://www.spiegel.de/panorama/bildung/rechtsextreme-umtriebe-so-reagiert-die-politik-auf-den-lehrer-brandbrief-aus-brandenburg](https://www.spiegel.de/panorama/bildung/rechtsextreme-umtriebe-so-reagiert-die-politik-auf-den-lehrer-brandbrief-aus-brandenburg-a-a2ba170a-a2d8-4401-bdfb-bd934bc394a1#ref=rss)
-### reagiert
-
-* [https://www.spiegel.de/panorama/bildung/rechtsextreme-umtriebe-so-reagiert-die-politik-auf-den-lehrer-brandbrief-aus-brandenburg](https://www.spiegel.de/panorama/bildung/rechtsextreme-umtriebe-so-reagiert-die-politik-auf-den-lehrer-brandbrief-aus-brandenburg-a-a2ba170a-a2d8-4401-bdfb-bd934bc394a1#ref=rss)
-* [https://www.spiegel.de/ausland/israel-raketenbeschuss-nach-hungerstreik-tod-eines-dschihad-miglieds](https://www.spiegel.de/ausland/israel-raketenbeschuss-nach-hungerstreik-tod-eines-dschihad-miglieds-a-a841c624-f3a4-4764-ad2b-595773893d7b#ref=rss)
-### brandenburg
-
-* [https://www.spiegel.de/panorama/bildung/rechtsextreme-umtriebe-so-reagiert-die-politik-auf-den-lehrer-brandbrief-aus-brandenburg](https://www.spiegel.de/panorama/bildung/rechtsextreme-umtriebe-so-reagiert-die-politik-auf-den-lehrer-brandbrief-aus-brandenburg-a-a2ba170a-a2d8-4401-bdfb-bd934bc394a1#ref=rss)
-### vfl
-
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-im-champions-league-finale-wir-wollen-definitiv-alles-gewinnen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-im-champions-league-finale-wir-wollen-definitiv-alles-gewinnen-a-27bfff7b-a5dc-4336-b034-2df97ea3f161#ref=rss)
-### wolfsburg
-
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-im-champions-league-finale-wir-wollen-definitiv-alles-gewinnen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-im-champions-league-finale-wir-wollen-definitiv-alles-gewinnen-a-27bfff7b-a5dc-4336-b034-2df97ea3f161#ref=rss)
-### finale
-
-* [https://www.spiegel.de/sport/fussball/vfl-wolfsburg-im-champions-league-finale-wir-wollen-definitiv-alles-gewinnen](https://www.spiegel.de/sport/fussball/vfl-wolfsburg-im-champions-league-finale-wir-wollen-definitiv-alles-gewinnen-a-27bfff7b-a5dc-4336-b034-2df97ea3f161#ref=rss)
-### alibabagründer
-
-* [https://www.spiegel.de/wirtschaft/alibaba-gruender-jack-ma-wird-gastdozent-in-tokio](https://www.spiegel.de/wirtschaft/alibaba-gruender-jack-ma-wird-gastdozent-in-tokio-a-9cabc1c7-bb16-4193-9b45-6a4ca8eee10d#ref=rss)
-### ma
-
-* [https://www.spiegel.de/wirtschaft/alibaba-gruender-jack-ma-wird-gastdozent-in-tokio](https://www.spiegel.de/wirtschaft/alibaba-gruender-jack-ma-wird-gastdozent-in-tokio-a-9cabc1c7-bb16-4193-9b45-6a4ca8eee10d#ref=rss)
-### white
-
-* [https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind](https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind-a-e906adff-c398-43fe-8095-53db91b8e8a7#ref=rss)
-### kind
-
-* [https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind](https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind-a-e906adff-c398-43fe-8095-53db91b8e8a7#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind](https://www.spiegel.de/panorama/leute/jack-white-schlagerproduzent-erwartet-mit-82-jahren-siebtes-kind-a-e906adff-c398-43fe-8095-53db91b8e8a7#ref=rss)
-* [https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas](https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas-a-a6c46960-8223-4f2b-84b7-82562ba95c36#ref=rss)
-### 49euroticket
-
-* [https://www.spiegel.de/reise/deutschland/49-euro-ticket-die-schoensten-strecken-fuer-das-deutschlandticket-von-sylt-bis-zu-den-alpen](https://www.spiegel.de/reise/deutschland/49-euro-ticket-die-schoensten-strecken-fuer-das-deutschlandticket-von-sylt-bis-zu-den-alpen-a-12fdc578-52a8-4bd9-8324-c34cb7500210#ref=rss)
-### unbedingt
-
-* [https://www.spiegel.de/reise/deutschland/49-euro-ticket-die-schoensten-strecken-fuer-das-deutschlandticket-von-sylt-bis-zu-den-alpen](https://www.spiegel.de/reise/deutschland/49-euro-ticket-die-schoensten-strecken-fuer-das-deutschlandticket-von-sylt-bis-zu-den-alpen-a-12fdc578-52a8-4bd9-8324-c34cb7500210#ref=rss)
-* [https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister](https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister-a-ff7549ec-88af-4c3b-92e1-bbb36747ea34#ref=rss)
-### oklahoma
-
-* [https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen](https://www.spiegel.de/panorama/justiz/usa-oklahoma-polizei-sucht-zwei-teenager-und-findet-sieben-leichen-a-530ac3e5-dddd-4b21-8516-fc430538ebf8#ref=rss)
-### demokratie
-
-* [https://www.spiegel.de/wissenschaft/klimaprotest-der-letzten-generation-was-bedroht-die-demokratie-wirklich](https://www.spiegel.de/wissenschaft/klimaprotest-der-letzten-generation-was-bedroht-die-demokratie-wirklich-a-97a9df9c-10f4-475d-80cf-cc5e65166ace#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/ausland/frankreich-wieso-menschen-angst-vor-der-polizei-haben](https://www.spiegel.de/ausland/frankreich-wieso-menschen-angst-vor-der-polizei-haben-a-4fe4b697-a9da-43cf-a457-18b5fdf1d84d#ref=rss)
-### erklärt
-
-* [https://www.spiegel.de/ausland/frankreich-wieso-menschen-angst-vor-der-polizei-haben](https://www.spiegel.de/ausland/frankreich-wieso-menschen-angst-vor-der-polizei-haben-a-4fe4b697-a9da-43cf-a457-18b5fdf1d84d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/esoterikforscherin-ueber-geld-manifestation-das-universum-kennt-keine-knappheit](https://www.spiegel.de/wirtschaft/service/esoterikforscherin-ueber-geld-manifestation-das-universum-kennt-keine-knappheit-a-8c5fd12d-8549-43e6-acb3-39b446fdaea0#ref=rss)
-### boris
-
-* [https://www.spiegel.de/politik/deutschland/boris-palmers-ruecktritt-ich-wuensche-ihm-ein-gutes-leben](https://www.spiegel.de/politik/deutschland/boris-palmers-ruecktritt-ich-wuensche-ihm-ein-gutes-leben-a-5214085e-cefa-4114-bf59-2d3680424f1a#ref=rss)
 ### palmer
 
-* [https://www.spiegel.de/politik/deutschland/boris-palmers-ruecktritt-ich-wuensche-ihm-ein-gutes-leben](https://www.spiegel.de/politik/deutschland/boris-palmers-ruecktritt-ich-wuensche-ihm-ein-gutes-leben-a-5214085e-cefa-4114-bf59-2d3680424f1a#ref=rss)
-### nick
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation-a-cd2f757a-636d-4f3d-b34e-cd8d87ff2ce8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boris-palmer-kuendigt-einmonatige-auszeit-im-juni-an](https://www.spiegel.de/politik/deutschland/boris-palmer-kuendigt-einmonatige-auszeit-im-juni-an-a-9371af5c-c85f-44ba-8964-c676df94c0ee#ref=rss)
+* [https://www.spiegel.de/panorama/boris-palmer-und-sein-austritt-bei-den-gruenen-der-unzumutbare](https://www.spiegel.de/panorama/boris-palmer-und-sein-austritt-bei-den-gruenen-der-unzumutbare-a-2cc0e6e5-4d77-4db5-9b5e-803c803fbfea#ref=rss)
+### generation
 
-* [https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas](https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas-a-a6c46960-8223-4f2b-84b7-82562ba95c36#ref=rss)
-### kyrgios
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation-a-cd2f757a-636d-4f3d-b34e-cd8d87ff2ce8#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-die-letzte-generation-nach-ihrem-treffen-mit-verkehrsminister-volker-wissing](https://www.spiegel.de/politik/das-sagt-die-letzte-generation-nach-ihrem-treffen-mit-verkehrsminister-volker-wissing-a-238b3802-97d2-4d3e-a2d1-280e62894924#ref=rss)
+* [https://www.spiegel.de/politik/umstrittene-forderung-der-letzten-generation-die-leute-tun-ja-so-als-wollten-wir-die-raeterepublik-ausrufen](https://www.spiegel.de/politik/umstrittene-forderung-der-letzten-generation-die-leute-tun-ja-so-als-wollten-wir-die-raeterepublik-ausrufen-a-a2d83f3a-699c-45cd-b13e-13a1ef29b134#ref=rss)
+### mehr
 
-* [https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas](https://www.spiegel.de/panorama/leute/nick-kyrgios-tennisprofi-hilft-polizei-bei-der-suche-nach-dem-raeuber-seines-teslas-a-a6c46960-8223-4f2b-84b7-82562ba95c36#ref=rss)
-### künstliche
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-mehr-als-400-ungeklaerte-todesfaelle-werden-wieder-aufgerollt](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-mehr-als-400-ungeklaerte-todesfaelle-werden-wieder-aufgerollt-a-ee380f8d-f347-4bb3-a153-a960018b32fc#ref=rss)
+* [https://www.spiegel.de/sport/forbes-liste-die-zehn-bestbezahlten-sportler-der-welt-verdienen-1-11-milliarden-us-dollar](https://www.spiegel.de/sport/forbes-liste-die-zehn-bestbezahlten-sportler-der-welt-verdienen-1-11-milliarden-us-dollar-a-f2cbcf34-7d57-4aa0-83da-b908a36e6f07#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern-a-faa37261-e15d-40ac-a64a-b22b646e3fd9#ref=rss)
+* [https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls](https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls-a-dbc0dff5-42b2-41e6-8b35-cf24e5dea059#ref=rss)
+### boris
 
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-verein-laion-warnt-eu-vor-ueberregulierung](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-verein-laion-warnt-eu-vor-ueberregulierung-a-3c4d54b9-8814-40b5-871b-5e106c223116#ref=rss)
-### eu
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation-a-cd2f757a-636d-4f3d-b34e-cd8d87ff2ce8#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/boris-palmer-kuendigt-einmonatige-auszeit-im-juni-an](https://www.spiegel.de/politik/deutschland/boris-palmer-kuendigt-einmonatige-auszeit-im-juni-an-a-9371af5c-c85f-44ba-8964-c676df94c0ee#ref=rss)
+* [https://www.spiegel.de/panorama/boris-palmer-und-sein-austritt-bei-den-gruenen-der-unzumutbare](https://www.spiegel.de/panorama/boris-palmer-und-sein-austritt-bei-den-gruenen-der-unzumutbare-a-2cc0e6e5-4d77-4db5-9b5e-803c803fbfea#ref=rss)
+### letzte
 
-* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-verein-laion-warnt-eu-vor-ueberregulierung](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-verein-laion-warnt-eu-vor-ueberregulierung-a-3c4d54b9-8814-40b5-871b-5e106c223116#ref=rss)
-### chinesische
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation-a-cd2f757a-636d-4f3d-b34e-cd8d87ff2ce8#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-die-letzte-generation-nach-ihrem-treffen-mit-verkehrsminister-volker-wissing](https://www.spiegel.de/politik/das-sagt-die-letzte-generation-nach-ihrem-treffen-mit-verkehrsminister-volker-wissing-a-238b3802-97d2-4d3e-a2d1-280e62894924#ref=rss)
+* [https://www.spiegel.de/politik/umstrittene-forderung-der-letzten-generation-die-leute-tun-ja-so-als-wollten-wir-die-raeterepublik-ausrufen](https://www.spiegel.de/politik/umstrittene-forderung-der-letzten-generation-die-leute-tun-ja-so-als-wollten-wir-die-raeterepublik-ausrufen-a-a2d83f3a-699c-45cd-b13e-13a1ef29b134#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/wirtschaft/china-und-afrika-chinesische-und-private-kredite-fuer-afrika-besonders-teuer](https://www.spiegel.de/wirtschaft/china-und-afrika-chinesische-und-private-kredite-fuer-afrika-besonders-teuer-a-2a357798-9a99-497c-8c0c-5bc64019fe4b#ref=rss)
-### private
+* [https://www.spiegel.de/panorama/bremen-politischer-streit-eskaliert-vor-wahllokal-zur-tuerkei-wahl-21-jaehriger-verletzt](https://www.spiegel.de/panorama/bremen-politischer-streit-eskaliert-vor-wahllokal-zur-tuerkei-wahl-21-jaehriger-verletzt-a-29d76782-8f04-4023-ba2b-4b472eca4d79#ref=rss)
+* [https://www.spiegel.de/panorama/slowakei-braunbaer-verletzt-foerster-und-jaeger](https://www.spiegel.de/panorama/slowakei-braunbaer-verletzt-foerster-und-jaeger-a-bc63790d-e77e-4f65-bba7-e19a811bacb8#ref=rss)
+* [https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls](https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls-a-dbc0dff5-42b2-41e6-8b35-cf24e5dea059#ref=rss)
+### tag
 
-* [https://www.spiegel.de/wirtschaft/china-und-afrika-chinesische-und-private-kredite-fuer-afrika-besonders-teuer](https://www.spiegel.de/wirtschaft/china-und-afrika-chinesische-und-private-kredite-fuer-afrika-besonders-teuer-a-2a357798-9a99-497c-8c0c-5bc64019fe4b#ref=rss)
-### kredite
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls](https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls-a-dbc0dff5-42b2-41e6-8b35-cf24e5dea059#ref=rss)
+### wissing
 
-* [https://www.spiegel.de/wirtschaft/china-und-afrika-chinesische-und-private-kredite-fuer-afrika-besonders-teuer](https://www.spiegel.de/wirtschaft/china-und-afrika-chinesische-und-private-kredite-fuer-afrika-besonders-teuer-a-2a357798-9a99-497c-8c0c-5bc64019fe4b#ref=rss)
-### esoterikforscherin
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation-a-cd2f757a-636d-4f3d-b34e-cd8d87ff2ce8#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-die-letzte-generation-nach-ihrem-treffen-mit-verkehrsminister-volker-wissing](https://www.spiegel.de/politik/das-sagt-die-letzte-generation-nach-ihrem-treffen-mit-verkehrsminister-volker-wissing-a-238b3802-97d2-4d3e-a2d1-280e62894924#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/wirtschaft/service/esoterikforscherin-ueber-geld-manifestation-das-universum-kennt-keine-knappheit](https://www.spiegel.de/wirtschaft/service/esoterikforscherin-ueber-geld-manifestation-das-universum-kennt-keine-knappheit-a-8c5fd12d-8549-43e6-acb3-39b446fdaea0#ref=rss)
-### snooker
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation-a-cd2f757a-636d-4f3d-b34e-cd8d87ff2ce8#ref=rss)
+* [https://www.spiegel.de/panorama/boris-palmer-und-sein-austritt-bei-den-gruenen-der-unzumutbare](https://www.spiegel.de/panorama/boris-palmer-und-sein-austritt-bei-den-gruenen-der-unzumutbare-a-2cc0e6e5-4d77-4db5-9b5e-803c803fbfea#ref=rss)
+### polizisten
 
-* [https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister](https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister-a-ff7549ec-88af-4c3b-92e1-bbb36747ea34#ref=rss)
-### belgier
+* [https://www.spiegel.de/panorama/justiz/barbara-slowig-zum-1-mai-in-berlin-vorfall-mit-aggressiven-polizisten-nach-demo-wird-untersucht](https://www.spiegel.de/panorama/justiz/barbara-slowig-zum-1-mai-in-berlin-vorfall-mit-aggressiven-polizisten-nach-demo-wird-untersucht-a-59d85333-ea21-42ec-81aa-710b5513193c#ref=rss)
+* [https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls](https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls-a-dbc0dff5-42b2-41e6-8b35-cf24e5dea059#ref=rss)
+### viele
 
-* [https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister](https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister-a-ff7549ec-88af-4c3b-92e1-bbb36747ea34#ref=rss)
-### luca
+* [https://www.spiegel.de/netzwelt/web/darknet-marktplatz-fuer-drogenhandel-288-festnahmen-rund-um-den-monopoly-market](https://www.spiegel.de/netzwelt/web/darknet-marktplatz-fuer-drogenhandel-288-festnahmen-rund-um-den-monopoly-market-a-7379ae4f-574a-4ebe-9987-5733573595e2#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/snapchat-chatbot-my-ai-kritik-an-neuer-funktion-in-der-app](https://www.spiegel.de/netzwelt/apps/snapchat-chatbot-my-ai-kritik-an-neuer-funktion-in-der-app-a-d2b818bc-2ede-4d9e-bff8-c8a1072720ea#ref=rss)
+### fall
 
-* [https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister](https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister-a-ff7549ec-88af-4c3b-92e1-bbb36747ea34#ref=rss)
-### brecel
+* [https://www.spiegel.de/wirtschaft/service/arbeitsrecht-fristlose-kuendigung-wegen-zehn-minuten-kaffeepause](https://www.spiegel.de/wirtschaft/service/arbeitsrecht-fristlose-kuendigung-wegen-zehn-minuten-kaffeepause-a-f2d4b284-89d2-48fb-947b-d442965f01d4#ref=rss)
+* [https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger](https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger-a-8df4daed-1309-4ce4-ba3d-2e138a69b2a0#ref=rss)
+### waffenruhe
 
-* [https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister](https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister-a-ff7549ec-88af-4c3b-92e1-bbb36747ea34#ref=rss)
-### weltmeister
+* [https://www.spiegel.de/ausland/sudan-konfliktparteien-stimmen-siebentaegiger-waffenruhe-zu](https://www.spiegel.de/ausland/sudan-konfliktparteien-stimmen-siebentaegiger-waffenruhe-zu-a-be517a52-f8a4-4e47-a05c-d1db23937a8d#ref=rss)
+### hunderttausende
 
-* [https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister](https://www.spiegel.de/sport/snooker-belgier-luca-brecel-wird-in-sheffield-erstmals-weltmeister-a-ff7549ec-88af-4c3b-92e1-bbb36747ea34#ref=rss)
+* [https://www.spiegel.de/ausland/sudan-konfliktparteien-stimmen-siebentaegiger-waffenruhe-zu](https://www.spiegel.de/ausland/sudan-konfliktparteien-stimmen-siebentaegiger-waffenruhe-zu-a-be517a52-f8a4-4e47-a05c-d1db23937a8d#ref=rss)
+* [https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls](https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls-a-dbc0dff5-42b2-41e6-8b35-cf24e5dea059#ref=rss)
+### karl
+
+* [https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht](https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht-a-682627b8-e3ee-4840-846a-01a93d37c972#ref=rss)
+### metropolitan
+
+* [https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht](https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht-a-682627b8-e3ee-4840-846a-01a93d37c972#ref=rss)
+### museum
+
+* [https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht](https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht-a-682627b8-e3ee-4840-846a-01a93d37c972#ref=rss)
+### of
+
+* [https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht](https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht-a-682627b8-e3ee-4840-846a-01a93d37c972#ref=rss)
+### art
+
+* [https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht](https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht-a-682627b8-e3ee-4840-846a-01a93d37c972#ref=rss)
+### new
+
+* [https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht](https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht-a-682627b8-e3ee-4840-846a-01a93d37c972#ref=rss)
+### york
+
+* [https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht](https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht-a-682627b8-e3ee-4840-846a-01a93d37c972#ref=rss)
+### sehen
+
+* [https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht](https://www.spiegel.de/stil/karl-lagerfeld-ausstellung-im-metropolitan-museum-of-art-in-new-york-wie-aus-wenigen-linien-grosse-mode-entsteht-a-682627b8-e3ee-4840-846a-01a93d37c972#ref=rss)
+* [https://www.spiegel.de/politik/umstrittene-forderung-der-letzten-generation-die-leute-tun-ja-so-als-wollten-wir-die-raeterepublik-ausrufen](https://www.spiegel.de/politik/umstrittene-forderung-der-letzten-generation-die-leute-tun-ja-so-als-wollten-wir-die-raeterepublik-ausrufen-a-a2d83f3a-699c-45cd-b13e-13a1ef29b134#ref=rss)
+### nordrheinwestfalen
+
+* [https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-mehr-als-400-ungeklaerte-todesfaelle-werden-wieder-aufgerollt](https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-mehr-als-400-ungeklaerte-todesfaelle-werden-wieder-aufgerollt-a-ee380f8d-f347-4bb3-a153-a960018b32fc#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/tennis/atp-masters-in-madrid-alexander-zverev-unterliegt-carlos-alcaraz-deutlich](https://www.spiegel.de/sport/tennis/atp-masters-in-madrid-alexander-zverev-unterliegt-carlos-alcaraz-deutlich-a-f361a134-d69b-44b7-a284-241636eead66#ref=rss)
+### alexander
+
+* [https://www.spiegel.de/sport/tennis/atp-masters-in-madrid-alexander-zverev-unterliegt-carlos-alcaraz-deutlich](https://www.spiegel.de/sport/tennis/atp-masters-in-madrid-alexander-zverev-unterliegt-carlos-alcaraz-deutlich-a-f361a134-d69b-44b7-a284-241636eead66#ref=rss)
+### zverev
+
+* [https://www.spiegel.de/sport/tennis/atp-masters-in-madrid-alexander-zverev-unterliegt-carlos-alcaraz-deutlich](https://www.spiegel.de/sport/tennis/atp-masters-in-madrid-alexander-zverev-unterliegt-carlos-alcaraz-deutlich-a-f361a134-d69b-44b7-a284-241636eead66#ref=rss)
+### carlos
+
+* [https://www.spiegel.de/sport/tennis/atp-masters-in-madrid-alexander-zverev-unterliegt-carlos-alcaraz-deutlich](https://www.spiegel.de/sport/tennis/atp-masters-in-madrid-alexander-zverev-unterliegt-carlos-alcaraz-deutlich-a-f361a134-d69b-44b7-a284-241636eead66#ref=rss)
+### alcaraz
+
+* [https://www.spiegel.de/sport/tennis/atp-masters-in-madrid-alexander-zverev-unterliegt-carlos-alcaraz-deutlich](https://www.spiegel.de/sport/tennis/atp-masters-in-madrid-alexander-zverev-unterliegt-carlos-alcaraz-deutlich-a-f361a134-d69b-44b7-a284-241636eead66#ref=rss)
+### gesundheitswesen
+
+* [https://www.spiegel.de/wirtschaft/grossbritannien-einigung-im-gesundheitswesen-nach-monatelangen-streiks](https://www.spiegel.de/wirtschaft/grossbritannien-einigung-im-gesundheitswesen-nach-monatelangen-streiks-a-ce9814f8-4bef-431c-87a9-92134b19c0e3#ref=rss)
+### drehbuchautoren
+
+* [https://www.spiegel.de/kultur/tv/drehbuchautoren-streiken-in-den-usa-was-heisst-das-fuer-ihre-lieblingsserie](https://www.spiegel.de/kultur/tv/drehbuchautoren-streiken-in-den-usa-was-heisst-das-fuer-ihre-lieblingsserie-a-8b1adb2f-9f65-4ec7-ad79-7049584ee233#ref=rss)
+### usa
+
+* [https://www.spiegel.de/kultur/tv/drehbuchautoren-streiken-in-den-usa-was-heisst-das-fuer-ihre-lieblingsserie](https://www.spiegel.de/kultur/tv/drehbuchautoren-streiken-in-den-usa-was-heisst-das-fuer-ihre-lieblingsserie-a-8b1adb2f-9f65-4ec7-ad79-7049584ee233#ref=rss)
+### großen
+
+* [https://www.spiegel.de/kultur/tv/drehbuchautoren-streiken-in-den-usa-was-heisst-das-fuer-ihre-lieblingsserie](https://www.spiegel.de/kultur/tv/drehbuchautoren-streiken-in-den-usa-was-heisst-das-fuer-ihre-lieblingsserie-a-8b1adb2f-9f65-4ec7-ad79-7049584ee233#ref=rss)
+* [https://www.spiegel.de/sport/fussball/schalke-04-jugend-leiter-mathias-schober-was-braucht-mein-kind-um-fussballprofi-zu-werden](https://www.spiegel.de/sport/fussball/schalke-04-jugend-leiter-mathias-schober-was-braucht-mein-kind-um-fussballprofi-zu-werden-a-ac1038d6-4e39-4706-afa3-aad85ddb43b8#ref=rss)
+### volker
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation-a-cd2f757a-636d-4f3d-b34e-cd8d87ff2ce8#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-die-letzte-generation-nach-ihrem-treffen-mit-verkehrsminister-volker-wissing](https://www.spiegel.de/politik/das-sagt-die-letzte-generation-nach-ihrem-treffen-mit-verkehrsminister-volker-wissing-a-238b3802-97d2-4d3e-a2d1-280e62894924#ref=rss)
+### verkehrsminister
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation](https://www.spiegel.de/politik/deutschland/news-des-tages-boris-palmer-wissing-trifft-letzte-generation-a-cd2f757a-636d-4f3d-b34e-cd8d87ff2ce8#ref=rss)
+* [https://www.spiegel.de/politik/das-sagt-die-letzte-generation-nach-ihrem-treffen-mit-verkehrsminister-volker-wissing](https://www.spiegel.de/politik/das-sagt-die-letzte-generation-nach-ihrem-treffen-mit-verkehrsminister-volker-wissing-a-238b3802-97d2-4d3e-a2d1-280e62894924#ref=rss)
+### staatsanwaltschaft
+
+* [https://www.spiegel.de/panorama/justiz/wunstorf-staatsanwaltschaft-klagt-14-jaehrigen-wegen-heimtueckischen-mordes-an](https://www.spiegel.de/panorama/justiz/wunstorf-staatsanwaltschaft-klagt-14-jaehrigen-wegen-heimtueckischen-mordes-an-a-b7be2b3c-74c5-49e3-b265-649b6b9cc615#ref=rss)
+### trafen
+
+* [https://www.spiegel.de/panorama/justiz/wunstorf-staatsanwaltschaft-klagt-14-jaehrigen-wegen-heimtueckischen-mordes-an](https://www.spiegel.de/panorama/justiz/wunstorf-staatsanwaltschaft-klagt-14-jaehrigen-wegen-heimtueckischen-mordes-an-a-b7be2b3c-74c5-49e3-b265-649b6b9cc615#ref=rss)
+* [https://www.spiegel.de/panorama/slowakei-braunbaer-verletzt-foerster-und-jaeger](https://www.spiegel.de/panorama/slowakei-braunbaer-verletzt-foerster-und-jaeger-a-bc63790d-e77e-4f65-bba7-e19a811bacb8#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/wirtschaft/defizitziele-deutschland-wird-sie-auch-2023-nicht-einhalten-koennen](https://www.spiegel.de/wirtschaft/defizitziele-deutschland-wird-sie-auch-2023-nicht-einhalten-koennen-a-1fca98ea-ec78-4c84-929f-65919a1a9da9#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/darknet-marktplatz-fuer-drogenhandel-288-festnahmen-rund-um-den-monopoly-market](https://www.spiegel.de/netzwelt/web/darknet-marktplatz-fuer-drogenhandel-288-festnahmen-rund-um-den-monopoly-market-a-7379ae4f-574a-4ebe-9987-5733573595e2#ref=rss)
+### 2023
+
+* [https://www.spiegel.de/wirtschaft/defizitziele-deutschland-wird-sie-auch-2023-nicht-einhalten-koennen](https://www.spiegel.de/wirtschaft/defizitziele-deutschland-wird-sie-auch-2023-nicht-einhalten-koennen-a-1fca98ea-ec78-4c84-929f-65919a1a9da9#ref=rss)
+### wohl
+
+* [https://www.spiegel.de/wirtschaft/defizitziele-deutschland-wird-sie-auch-2023-nicht-einhalten-koennen](https://www.spiegel.de/wirtschaft/defizitziele-deutschland-wird-sie-auch-2023-nicht-einhalten-koennen-a-1fca98ea-ec78-4c84-929f-65919a1a9da9#ref=rss)
+* [https://www.spiegel.de/panorama/slowakei-braunbaer-verletzt-foerster-und-jaeger](https://www.spiegel.de/panorama/slowakei-braunbaer-verletzt-foerster-und-jaeger-a-bc63790d-e77e-4f65-bba7-e19a811bacb8#ref=rss)
+### ländern
+
+* [https://www.spiegel.de/wirtschaft/defizitziele-deutschland-wird-sie-auch-2023-nicht-einhalten-koennen](https://www.spiegel.de/wirtschaft/defizitziele-deutschland-wird-sie-auch-2023-nicht-einhalten-koennen-a-1fca98ea-ec78-4c84-929f-65919a1a9da9#ref=rss)
+* [https://www.spiegel.de/netzwelt/web/darknet-marktplatz-fuer-drogenhandel-288-festnahmen-rund-um-den-monopoly-market](https://www.spiegel.de/netzwelt/web/darknet-marktplatz-fuer-drogenhandel-288-festnahmen-rund-um-den-monopoly-market-a-7379ae4f-574a-4ebe-9987-5733573595e2#ref=rss)
+### jamie
+
+* [https://www.spiegel.de/wirtschaft/jamie-dimon-von-jpmorganchase-warum-amerikas-maechtigster-banker-immer-gewinnt](https://www.spiegel.de/wirtschaft/jamie-dimon-von-jpmorganchase-warum-amerikas-maechtigster-banker-immer-gewinnt-a-db600c12-a380-484b-ba7a-792caed0ec77#ref=rss)
+### dimon
+
+* [https://www.spiegel.de/wirtschaft/jamie-dimon-von-jpmorganchase-warum-amerikas-maechtigster-banker-immer-gewinnt](https://www.spiegel.de/wirtschaft/jamie-dimon-von-jpmorganchase-warum-amerikas-maechtigster-banker-immer-gewinnt-a-db600c12-a380-484b-ba7a-792caed0ec77#ref=rss)
+### alles
+
+* [https://www.spiegel.de/wirtschaft/jamie-dimon-von-jpmorganchase-warum-amerikas-maechtigster-banker-immer-gewinnt](https://www.spiegel.de/wirtschaft/jamie-dimon-von-jpmorganchase-warum-amerikas-maechtigster-banker-immer-gewinnt-a-db600c12-a380-484b-ba7a-792caed0ec77#ref=rss)
+* [https://www.spiegel.de/kultur/tv/castingshow-the-voice-bekommt-neuen-ableger](https://www.spiegel.de/kultur/tv/castingshow-the-voice-bekommt-neuen-ableger-a-b4a47a04-43c6-4852-8b83-d1743b8d7ece#ref=rss)
+### juni
+
+* [https://www.spiegel.de/politik/deutschland/boris-palmer-kuendigt-einmonatige-auszeit-im-juni-an](https://www.spiegel.de/politik/deutschland/boris-palmer-kuendigt-einmonatige-auszeit-im-juni-an-a-9371af5c-c85f-44ba-8964-c676df94c0ee#ref=rss)
+### tübinger
+
+* [https://www.spiegel.de/politik/deutschland/boris-palmer-kuendigt-einmonatige-auszeit-im-juni-an](https://www.spiegel.de/politik/deutschland/boris-palmer-kuendigt-einmonatige-auszeit-im-juni-an-a-9371af5c-c85f-44ba-8964-c676df94c0ee#ref=rss)
+* [https://www.spiegel.de/panorama/boris-palmer-und-sein-austritt-bei-den-gruenen-der-unzumutbare](https://www.spiegel.de/panorama/boris-palmer-und-sein-austritt-bei-den-gruenen-der-unzumutbare-a-2cc0e6e5-4d77-4db5-9b5e-803c803fbfea#ref=rss)
+### oberbürgermeister
+
+* [https://www.spiegel.de/politik/deutschland/boris-palmer-kuendigt-einmonatige-auszeit-im-juni-an](https://www.spiegel.de/politik/deutschland/boris-palmer-kuendigt-einmonatige-auszeit-im-juni-an-a-9371af5c-c85f-44ba-8964-c676df94c0ee#ref=rss)
+* [https://www.spiegel.de/panorama/boris-palmer-und-sein-austritt-bei-den-gruenen-der-unzumutbare](https://www.spiegel.de/panorama/boris-palmer-und-sein-austritt-bei-den-gruenen-der-unzumutbare-a-2cc0e6e5-4d77-4db5-9b5e-803c803fbfea#ref=rss)
+### 1
+
+* [https://www.spiegel.de/panorama/justiz/barbara-slowig-zum-1-mai-in-berlin-vorfall-mit-aggressiven-polizisten-nach-demo-wird-untersucht](https://www.spiegel.de/panorama/justiz/barbara-slowig-zum-1-mai-in-berlin-vorfall-mit-aggressiven-polizisten-nach-demo-wird-untersucht-a-59d85333-ea21-42ec-81aa-710b5513193c#ref=rss)
+* [https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls](https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls-a-dbc0dff5-42b2-41e6-8b35-cf24e5dea059#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/panorama/justiz/barbara-slowig-zum-1-mai-in-berlin-vorfall-mit-aggressiven-polizisten-nach-demo-wird-untersucht](https://www.spiegel.de/panorama/justiz/barbara-slowig-zum-1-mai-in-berlin-vorfall-mit-aggressiven-polizisten-nach-demo-wird-untersucht-a-59d85333-ea21-42ec-81aa-710b5513193c#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/justiz/barbara-slowig-zum-1-mai-in-berlin-vorfall-mit-aggressiven-polizisten-nach-demo-wird-untersucht](https://www.spiegel.de/panorama/justiz/barbara-slowig-zum-1-mai-in-berlin-vorfall-mit-aggressiven-polizisten-nach-demo-wird-untersucht-a-59d85333-ea21-42ec-81aa-710b5513193c#ref=rss)
+* [https://www.spiegel.de/panorama/bremen-politischer-streit-eskaliert-vor-wahllokal-zur-tuerkei-wahl-21-jaehriger-verletzt](https://www.spiegel.de/panorama/bremen-politischer-streit-eskaliert-vor-wahllokal-zur-tuerkei-wahl-21-jaehriger-verletzt-a-29d76782-8f04-4023-ba2b-4b472eca4d79#ref=rss)
+### pfaffenhofen
+
+* [https://www.spiegel.de/panorama/pfaffenhofen-desinfektionsmittel-im-trinkwasser-verzehrverbot](https://www.spiegel.de/panorama/pfaffenhofen-desinfektionsmittel-im-trinkwasser-verzehrverbot-a-9ad8b96f-8967-4483-a72b-c0a54ef100f5#ref=rss)
+### desinfektionsmittel
+
+* [https://www.spiegel.de/panorama/pfaffenhofen-desinfektionsmittel-im-trinkwasser-verzehrverbot](https://www.spiegel.de/panorama/pfaffenhofen-desinfektionsmittel-im-trinkwasser-verzehrverbot-a-9ad8b96f-8967-4483-a72b-c0a54ef100f5#ref=rss)
+### monopoly
+
+* [https://www.spiegel.de/netzwelt/web/darknet-marktplatz-fuer-drogenhandel-288-festnahmen-rund-um-den-monopoly-market](https://www.spiegel.de/netzwelt/web/darknet-marktplatz-fuer-drogenhandel-288-festnahmen-rund-um-den-monopoly-market-a-7379ae4f-574a-4ebe-9987-5733573595e2#ref=rss)
+### market
+
+* [https://www.spiegel.de/netzwelt/web/darknet-marktplatz-fuer-drogenhandel-288-festnahmen-rund-um-den-monopoly-market](https://www.spiegel.de/netzwelt/web/darknet-marktplatz-fuer-drogenhandel-288-festnahmen-rund-um-den-monopoly-market-a-7379ae4f-574a-4ebe-9987-5733573595e2#ref=rss)
+### zehn
+
+* [https://www.spiegel.de/sport/forbes-liste-die-zehn-bestbezahlten-sportler-der-welt-verdienen-1-11-milliarden-us-dollar](https://www.spiegel.de/sport/forbes-liste-die-zehn-bestbezahlten-sportler-der-welt-verdienen-1-11-milliarden-us-dollar-a-f2cbcf34-7d57-4aa0-83da-b908a36e6f07#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/arbeitsrecht-fristlose-kuendigung-wegen-zehn-minuten-kaffeepause](https://www.spiegel.de/wirtschaft/service/arbeitsrecht-fristlose-kuendigung-wegen-zehn-minuten-kaffeepause-a-f2d4b284-89d2-48fb-947b-d442965f01d4#ref=rss)
+### drei
+
+* [https://www.spiegel.de/sport/forbes-liste-die-zehn-bestbezahlten-sportler-der-welt-verdienen-1-11-milliarden-us-dollar](https://www.spiegel.de/sport/forbes-liste-die-zehn-bestbezahlten-sportler-der-welt-verdienen-1-11-milliarden-us-dollar-a-f2cbcf34-7d57-4aa0-83da-b908a36e6f07#ref=rss)
+### zwei
+
+* [https://www.spiegel.de/sport/forbes-liste-die-zehn-bestbezahlten-sportler-der-welt-verdienen-1-11-milliarden-us-dollar](https://www.spiegel.de/sport/forbes-liste-die-zehn-bestbezahlten-sportler-der-welt-verdienen-1-11-milliarden-us-dollar-a-f2cbcf34-7d57-4aa0-83da-b908a36e6f07#ref=rss)
+* [https://www.spiegel.de/panorama/slowakei-braunbaer-verletzt-foerster-und-jaeger](https://www.spiegel.de/panorama/slowakei-braunbaer-verletzt-foerster-und-jaeger-a-bc63790d-e77e-4f65-bba7-e19a811bacb8#ref=rss)
+### amnesty
+
+* [https://www.spiegel.de/netzwelt/web/amnesty-international-illustriert-polizeigewalt-mit-ki-bildern](https://www.spiegel.de/netzwelt/web/amnesty-international-illustriert-polizeigewalt-mit-ki-bildern-a-7d2b061e-73cd-454a-8847-88503f82f63a#ref=rss)
+### international
+
+* [https://www.spiegel.de/netzwelt/web/amnesty-international-illustriert-polizeigewalt-mit-ki-bildern](https://www.spiegel.de/netzwelt/web/amnesty-international-illustriert-polizeigewalt-mit-ki-bildern-a-7d2b061e-73cd-454a-8847-88503f82f63a#ref=rss)
+### militärübung
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern-a-faa37261-e15d-40ac-a64a-b22b646e3fd9#ref=rss)
+### soldaten
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern-a-faa37261-e15d-40ac-a64a-b22b646e3fd9#ref=rss)
+### polen
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-fordert-munition-moskau-kann-aber-wohl-nicht-liefern-a-faa37261-e15d-40ac-a64a-b22b646e3fd9#ref=rss)
+### the
+
+* [https://www.spiegel.de/kultur/tv/castingshow-the-voice-bekommt-neuen-ableger](https://www.spiegel.de/kultur/tv/castingshow-the-voice-bekommt-neuen-ableger-a-b4a47a04-43c6-4852-8b83-d1743b8d7ece#ref=rss)
+### voice
+
+* [https://www.spiegel.de/kultur/tv/castingshow-the-voice-bekommt-neuen-ableger](https://www.spiegel.de/kultur/tv/castingshow-the-voice-bekommt-neuen-ableger-a-b4a47a04-43c6-4852-8b83-d1743b8d7ece#ref=rss)
+### rap
+
+* [https://www.spiegel.de/kultur/tv/castingshow-the-voice-bekommt-neuen-ableger](https://www.spiegel.de/kultur/tv/castingshow-the-voice-bekommt-neuen-ableger-a-b4a47a04-43c6-4852-8b83-d1743b8d7ece#ref=rss)
+### jahr
+
+* [https://www.spiegel.de/sport/fussball/schalke-04-jugend-leiter-mathias-schober-was-braucht-mein-kind-um-fussballprofi-zu-werden](https://www.spiegel.de/sport/fussball/schalke-04-jugend-leiter-mathias-schober-was-braucht-mein-kind-um-fussballprofi-zu-werden-a-ac1038d6-4e39-4706-afa3-aad85ddb43b8#ref=rss)
+### straßen
+
+* [https://www.spiegel.de/politik/das-sagt-die-letzte-generation-nach-ihrem-treffen-mit-verkehrsminister-volker-wissing](https://www.spiegel.de/politik/das-sagt-die-letzte-generation-nach-ihrem-treffen-mit-verkehrsminister-volker-wissing-a-238b3802-97d2-4d3e-a2d1-280e62894924#ref=rss)
+* [https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls](https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls-a-dbc0dff5-42b2-41e6-8b35-cf24e5dea059#ref=rss)
+### bremen
+
+* [https://www.spiegel.de/panorama/bremen-politischer-streit-eskaliert-vor-wahllokal-zur-tuerkei-wahl-21-jaehriger-verletzt](https://www.spiegel.de/panorama/bremen-politischer-streit-eskaliert-vor-wahllokal-zur-tuerkei-wahl-21-jaehriger-verletzt-a-29d76782-8f04-4023-ba2b-4b472eca4d79#ref=rss)
+### türkeiwahl
+
+* [https://www.spiegel.de/panorama/bremen-politischer-streit-eskaliert-vor-wahllokal-zur-tuerkei-wahl-21-jaehriger-verletzt](https://www.spiegel.de/panorama/bremen-politischer-streit-eskaliert-vor-wahllokal-zur-tuerkei-wahl-21-jaehriger-verletzt-a-29d76782-8f04-4023-ba2b-4b472eca4d79#ref=rss)
+### männer
+
+* [https://www.spiegel.de/panorama/bremen-politischer-streit-eskaliert-vor-wahllokal-zur-tuerkei-wahl-21-jaehriger-verletzt](https://www.spiegel.de/panorama/bremen-politischer-streit-eskaliert-vor-wahllokal-zur-tuerkei-wahl-21-jaehriger-verletzt-a-29d76782-8f04-4023-ba2b-4b472eca4d79#ref=rss)
+* [https://www.spiegel.de/panorama/slowakei-braunbaer-verletzt-foerster-und-jaeger](https://www.spiegel.de/panorama/slowakei-braunbaer-verletzt-foerster-und-jaeger-a-bc63790d-e77e-4f65-bba7-e19a811bacb8#ref=rss)
+### verlangt
+
+* [https://www.spiegel.de/politik/umstrittene-forderung-der-letzten-generation-die-leute-tun-ja-so-als-wollten-wir-die-raeterepublik-ausrufen](https://www.spiegel.de/politik/umstrittene-forderung-der-letzten-generation-die-leute-tun-ja-so-als-wollten-wir-die-raeterepublik-ausrufen-a-a2d83f3a-699c-45cd-b13e-13a1ef29b134#ref=rss)
+* [https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger](https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger-a-8df4daed-1309-4ce4-ba3d-2e138a69b2a0#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+* [https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger](https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger-a-8df4daed-1309-4ce4-ba3d-2e138a69b2a0#ref=rss)
+### fragen
+
+* [https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c#ref=rss)
+### frankreich
+
+* [https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls](https://www.spiegel.de/panorama/1-mai-proteste-in-frankreich-tag-des-krawalls-a-dbc0dff5-42b2-41e6-8b35-cf24e5dea059#ref=rss)
+### lindner
+
+* [https://www.spiegel.de/wirtschaft/christian-lindner-haelt-strompreis-hilfen-fuer-industrie-fuer-unfinanzierbar](https://www.spiegel.de/wirtschaft/christian-lindner-haelt-strompreis-hilfen-fuer-industrie-fuer-unfinanzierbar-a-f0da7f56-930c-4294-baec-9155cfb140b7#ref=rss)
+### industrie
+
+* [https://www.spiegel.de/wirtschaft/christian-lindner-haelt-strompreis-hilfen-fuer-industrie-fuer-unfinanzierbar](https://www.spiegel.de/wirtschaft/christian-lindner-haelt-strompreis-hilfen-fuer-industrie-fuer-unfinanzierbar-a-f0da7f56-930c-4294-baec-9155cfb140b7#ref=rss)
+### til
+
+* [https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger](https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger-a-8df4daed-1309-4ce4-ba3d-2e138a69b2a0#ref=rss)
+### schweiger
+
+* [https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger](https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger-a-8df4daed-1309-4ce4-ba3d-2e138a69b2a0#ref=rss)
+### claudia
+
+* [https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger](https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger-a-8df4daed-1309-4ce4-ba3d-2e138a69b2a0#ref=rss)
+### roth
+
+* [https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger](https://www.spiegel.de/kultur/claudia-roth-verlangt-lueckenlose-aufklaerung-im-fall-til-schweiger-a-8df4daed-1309-4ce4-ba3d-2e138a69b2a0#ref=rss)
 
