@@ -4,290 +4,291 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### präsident
-
-* [https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal](https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal-a-05e4e116-6f99-4222-a134-2ae5372bdbae#ref=rss)
-* [https://www.spiegel.de/ausland/usa-mexikos-praesident-andres-lopez-obrador-sichert-joe-biden-kooperation-in-migrationsfragen-zu](https://www.spiegel.de/ausland/usa-mexikos-praesident-andres-lopez-obrador-sichert-joe-biden-kooperation-in-migrationsfragen-zu-a-5de50b20-f47b-4792-93c6-16cb71b0b31f#ref=rss)
-* [https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben](https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben-a-26b2642e-0fa8-428a-bf40-b085a0ca1133#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/wolodymyr-selenskyj-hat-auftritt-an-der-uni-koeln-niemand-will-back-to-the-ussr](https://www.spiegel.de/panorama/bildung/wolodymyr-selenskyj-hat-auftritt-an-der-uni-koeln-niemand-will-back-to-the-ussr-a-e9d53e1c-df64-44c7-9d9c-7ff2f794731d#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/lebenserwartung-menschen-in-deutschland-sterben-frueher-als-in-anderen-westeuropaeischen-laendern](https://www.spiegel.de/wissenschaft/lebenserwartung-menschen-in-deutschland-sterben-frueher-als-in-anderen-westeuropaeischen-laendern-a-3fe3a2ce-a56b-4ec2-adf1-9b2aff1a0e59#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen](https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen-a-2c650984-d5aa-4748-a8e3-7371f54e284b#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/interpol-hofft-auf-mithilfe-bei-aufklaerung-von-gewalttaten](https://www.spiegel.de/panorama/justiz/interpol-hofft-auf-mithilfe-bei-aufklaerung-von-gewalttaten-a-8e559c22-b950-461a-ac57-99b29e179820#ref=rss)
-* [https://www.spiegel.de/auto/e-scooter-unfallzahlen-deutlich-gestiegen](https://www.spiegel.de/auto/e-scooter-unfallzahlen-deutlich-gestiegen-a-bd2cdd65-cfcb-472a-9006-27f46b1eaf8c#ref=rss)
-### usa
-
-* [https://www.spiegel.de/panorama/usa-praktikantin-betrunken-gemacht-republikaner-muss-nach-sex-mit-19-jaehriger-zuruecktreten](https://www.spiegel.de/panorama/usa-praktikantin-betrunken-gemacht-republikaner-muss-nach-sex-mit-19-jaehriger-zuruecktreten-a-0da917c5-ecd7-4128-8ccb-173af6aa17a9#ref=rss)
-* [https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal](https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal-a-05e4e116-6f99-4222-a134-2ae5372bdbae#ref=rss)
-* [https://www.spiegel.de/ausland/usa-mexikos-praesident-andres-lopez-obrador-sichert-joe-biden-kooperation-in-migrationsfragen-zu](https://www.spiegel.de/ausland/usa-mexikos-praesident-andres-lopez-obrador-sichert-joe-biden-kooperation-in-migrationsfragen-zu-a-5de50b20-f47b-4792-93c6-16cb71b0b31f#ref=rss)
-### mehr
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/hde-umfrage-secondhand-liegt-in-der-inflation-im-trend](https://www.spiegel.de/wirtschaft/unternehmen/hde-umfrage-secondhand-liegt-in-der-inflation-im-trend-a-0900ecb8-b297-4cd6-8259-cc299279e742#ref=rss)
-* [https://www.spiegel.de/auto/e-scooter-unfallzahlen-deutlich-gestiegen](https://www.spiegel.de/auto/e-scooter-unfallzahlen-deutlich-gestiegen-a-bd2cdd65-cfcb-472a-9006-27f46b1eaf8c#ref=rss)
-* [https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben](https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben-a-26b2642e-0fa8-428a-bf40-b085a0ca1133#ref=rss)
-### real
-
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert-a-9cbbeef5-003b-43a5-acc7-5f04c44b8424#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero-a-b814ffb6-50ca-4277-83f7-437295d5d603#ref=rss)
-### abschuss
-
-* [https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal](https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal-a-05e4e116-6f99-4222-a134-2ae5372bdbae#ref=rss)
-* [https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte](https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte-a-8b761338-c55c-48e4-95cb-16b748a379ca#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal](https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal-a-05e4e116-6f99-4222-a134-2ae5372bdbae#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland](https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland-a-fc5b18c0-bfbe-4a6c-8495-a2b8874e7f6a#ref=rss)
-* [https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte](https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte-a-8b761338-c55c-48e4-95cb-16b748a379ca#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/lebenserwartung-menschen-in-deutschland-sterben-frueher-als-in-anderen-westeuropaeischen-laendern](https://www.spiegel.de/wissenschaft/lebenserwartung-menschen-in-deutschland-sterben-frueher-als-in-anderen-westeuropaeischen-laendern-a-3fe3a2ce-a56b-4ec2-adf1-9b2aff1a0e59#ref=rss)
-* [https://www.spiegel.de/ausland/usa-mexikos-praesident-andres-lopez-obrador-sichert-joe-biden-kooperation-in-migrationsfragen-zu](https://www.spiegel.de/ausland/usa-mexikos-praesident-andres-lopez-obrador-sichert-joe-biden-kooperation-in-migrationsfragen-zu-a-5de50b20-f47b-4792-93c6-16cb71b0b31f#ref=rss)
-* [https://www.spiegel.de/auto/e-scooter-unfallzahlen-deutlich-gestiegen](https://www.spiegel.de/auto/e-scooter-unfallzahlen-deutlich-gestiegen-a-bd2cdd65-cfcb-472a-9006-27f46b1eaf8c#ref=rss)
 ### news
 
 * [https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen](https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen-a-2c650984-d5aa-4748-a8e3-7371f54e284b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg](https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg-a-e454be58-dc11-4478-a08e-effe27862edb#ref=rss)
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt-a-75815f62-19f4-444b-8972-08e46c4e7260#ref=rss)
 * [https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland](https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland-a-fc5b18c0-bfbe-4a6c-8495-a2b8874e7f6a#ref=rss)
-### inflation
+### deutschland
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/hde-umfrage-secondhand-liegt-in-der-inflation-im-trend](https://www.spiegel.de/wirtschaft/unternehmen/hde-umfrage-secondhand-liegt-in-der-inflation-im-trend-a-0900ecb8-b297-4cd6-8259-cc299279e742#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/tofu-seitan-weizenproteine-produktion-von-fleischersatzprodukten-steigt](https://www.spiegel.de/wirtschaft/service/tofu-seitan-weizenproteine-produktion-von-fleischersatzprodukten-steigt-a-7f2a0ac4-b0b7-4090-99b1-70df444f4515#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-april-preisauftrieb-bei-lebensmitteln-laesst-nach](https://www.spiegel.de/wirtschaft/service/inflation-april-preisauftrieb-bei-lebensmitteln-laesst-nach-a-ef9d17d4-8fe7-4a80-933a-74f6f2fd94f4#ref=rss)
-### madrid
+* [https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich](https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich-a-5ed9efdf-4e34-44c0-9a20-0aec4e4b3b29#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schulleiter-umfrage-warum-das-deutsche-schulsystem-fuer-viele-kinder-nicht-passt](https://www.spiegel.de/panorama/bildung/schulleiter-umfrage-warum-das-deutsche-schulsystem-fuer-viele-kinder-nicht-passt-a-234194ee-ed84-4494-960c-417b6ae6988a#ref=rss)
+* [https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland](https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland-a-46efaeeb-822f-44cf-9dae-112b2c24c536#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-bei-empfang-in-russischer-botschaft-auch-mit-afd-politikern](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-bei-empfang-in-russischer-botschaft-auch-mit-afd-politikern-a-e9dd5b95-274d-45c9-9724-e4c00efbc309#ref=rss)
+### frankreich
 
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert-a-9cbbeef5-003b-43a5-acc7-5f04c44b8424#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero-a-b814ffb6-50ca-4277-83f7-437295d5d603#ref=rss)
-### manchester
+* [https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich](https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich-a-5ed9efdf-4e34-44c0-9a20-0aec4e4b3b29#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland](https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland-a-fc5b18c0-bfbe-4a6c-8495-a2b8874e7f6a#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/razzia-in-santa-fu-gegen-ex-drogenboss-memmo-lebt-im-knast-wie-gott-in-frankreich-spiegel-tv](https://www.spiegel.de/panorama/justiz/razzia-in-santa-fu-gegen-ex-drogenboss-memmo-lebt-im-knast-wie-gott-in-frankreich-spiegel-tv-a-9472d507-3a27-489d-9b64-1d1b3438e5af#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert-a-9cbbeef5-003b-43a5-acc7-5f04c44b8424#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero-a-b814ffb6-50ca-4277-83f7-437295d5d603#ref=rss)
-### city
+* [https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich](https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich-a-5ed9efdf-4e34-44c0-9a20-0aec4e4b3b29#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/schulleiter-umfrage-warum-das-deutsche-schulsystem-fuer-viele-kinder-nicht-passt](https://www.spiegel.de/panorama/bildung/schulleiter-umfrage-warum-das-deutsche-schulsystem-fuer-viele-kinder-nicht-passt-a-234194ee-ed84-4494-960c-417b6ae6988a#ref=rss)
+* [https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte](https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte-a-8b29998d-c9e0-4ff7-8c09-b2e0a8e83f8f#ref=rss)
+* [https://www.spiegel.de/kultur/martin-moszkowicz-regieverband-kritisiert-constantin-chef-scharf](https://www.spiegel.de/kultur/martin-moszkowicz-regieverband-kritisiert-constantin-chef-scharf-a-de82ff17-d1a2-44a6-824a-67dcd1423b36#ref=rss)
+### viele
 
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert-a-9cbbeef5-003b-43a5-acc7-5f04c44b8424#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero-a-b814ffb6-50ca-4277-83f7-437295d5d603#ref=rss)
-### klum
+* [https://www.spiegel.de/panorama/bildung/schulleiter-umfrage-warum-das-deutsche-schulsystem-fuer-viele-kinder-nicht-passt](https://www.spiegel.de/panorama/bildung/schulleiter-umfrage-warum-das-deutsche-schulsystem-fuer-viele-kinder-nicht-passt-a-234194ee-ed84-4494-960c-417b6ae6988a#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/hubertus-heil-lehnt-staatliche-regelung-zur-vier-tage-woche-ab](https://www.spiegel.de/wirtschaft/unternehmen/hubertus-heil-lehnt-staatliche-regelung-zur-vier-tage-woche-ab-a-1aebf447-b2bf-44fb-9a0c-b0e7d153a168#ref=rss)
+* [https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland](https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland-a-46efaeeb-822f-44cf-9dae-112b2c24c536#ref=rss)
+### habeck
 
-* [https://www.spiegel.de/kultur/heidi-klum-und-leni-klum-in-dessouskampagne-ein-bild-so-alt-wie-das-patriarchat](https://www.spiegel.de/kultur/heidi-klum-und-leni-klum-in-dessouskampagne-ein-bild-so-alt-wie-das-patriarchat-a-3f769e82-ab6e-4ddb-93a6-0272f0cfb438#ref=rss)
-### pflegereform
-
-* [https://www.spiegel.de/wirtschaft/service/gkv-zur-pflegereform-kassen-warnen-vor-ueberforderung-der-beitragszahler](https://www.spiegel.de/wirtschaft/service/gkv-zur-pflegereform-kassen-warnen-vor-ueberforderung-der-beitragszahler-a-e071138d-6d03-4584-ae39-a00023bdaec1#ref=rss)
-### kassen
-
-* [https://www.spiegel.de/wirtschaft/service/gkv-zur-pflegereform-kassen-warnen-vor-ueberforderung-der-beitragszahler](https://www.spiegel.de/wirtschaft/service/gkv-zur-pflegereform-kassen-warnen-vor-ueberforderung-der-beitragszahler-a-e071138d-6d03-4584-ae39-a00023bdaec1#ref=rss)
-### hyperschallrakete
-
-* [https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal](https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal-a-05e4e116-6f99-4222-a134-2ae5372bdbae#ref=rss)
-### kinschal
-
-* [https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal](https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal-a-05e4e116-6f99-4222-a134-2ae5372bdbae#ref=rss)
-### erfolgreichen
-
-* [https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal](https://www.spiegel.de/ausland/usa-bestaetigen-ukrainischen-abschuss-russischer-hyperschallrakete-kinschal-a-05e4e116-6f99-4222-a134-2ae5372bdbae#ref=rss)
-* [https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte](https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte-a-8b761338-c55c-48e4-95cb-16b748a379ca#ref=rss)
-### lebenserwartung
-
-* [https://www.spiegel.de/wissenschaft/lebenserwartung-menschen-in-deutschland-sterben-frueher-als-in-anderen-westeuropaeischen-laendern](https://www.spiegel.de/wissenschaft/lebenserwartung-menschen-in-deutschland-sterben-frueher-als-in-anderen-westeuropaeischen-laendern-a-3fe3a2ce-a56b-4ec2-adf1-9b2aff1a0e59#ref=rss)
-### westeuropäischen
-
-* [https://www.spiegel.de/wissenschaft/lebenserwartung-menschen-in-deutschland-sterben-frueher-als-in-anderen-westeuropaeischen-laendern](https://www.spiegel.de/wissenschaft/lebenserwartung-menschen-in-deutschland-sterben-frueher-als-in-anderen-westeuropaeischen-laendern-a-3fe3a2ce-a56b-4ec2-adf1-9b2aff1a0e59#ref=rss)
-### 2023
-
-* [https://www.spiegel.de/politik/deutschland/linke-bei-der-bremen-buergerschaftswahl-2023-faellt-auch-diese-rote-bastion](https://www.spiegel.de/politik/deutschland/linke-bei-der-bremen-buergerschaftswahl-2023-faellt-auch-diese-rote-bastion-a-8bc083bc-2176-4ceb-af51-c205760029e2#ref=rss)
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke-a-dfb494b0-7023-495f-a2b1-b50d2062abfc#ref=rss)
-### bund
-
-* [https://www.spiegel.de/politik/deutschland/linke-bei-der-bremen-buergerschaftswahl-2023-faellt-auch-diese-rote-bastion](https://www.spiegel.de/politik/deutschland/linke-bei-der-bremen-buergerschaftswahl-2023-faellt-auch-diese-rote-bastion-a-8bc083bc-2176-4ceb-af51-c205760029e2#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-bodo-ramelow-wirft-bund-verstoss-gegen-hoeflichkeitsregeln-vor](https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-bodo-ramelow-wirft-bund-verstoss-gegen-hoeflichkeitsregeln-vor-a-a43fb76e-b84a-4bb4-a002-bc6e7ed0933b#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg](https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg-a-e454be58-dc11-4478-a08e-effe27862edb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-will-an-patrick-graichen-festhalten](https://www.spiegel.de/politik/deutschland/robert-habeck-will-an-patrick-graichen-festhalten-a-aecc83f4-e626-4ca3-95b9-98acecb0f7ba#ref=rss)
 ### flüchtlingsgipfel
 
 * [https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen](https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen-a-2c650984-d5aa-4748-a8e3-7371f54e284b#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-bodo-ramelow-wirft-bund-verstoss-gegen-hoeflichkeitsregeln-vor](https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-bodo-ramelow-wirft-bund-verstoss-gegen-hoeflichkeitsregeln-vor-a-a43fb76e-b84a-4bb4-a002-bc6e7ed0933b#ref=rss)
-### özdemir
+* [https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-laender-attestieren-dem-bund-kein-ausreichendes-problembewusstsein](https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-laender-attestieren-dem-bund-kein-ausreichendes-problembewusstsein-a-74a4298c-4e89-4e91-b52e-684ac2dbef42#ref=rss)
+### erst
 
 * [https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen](https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen-a-2c650984-d5aa-4748-a8e3-7371f54e284b#ref=rss)
-### unter
+* [https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-hauptversammlung-gestoert-ein-stueck-vom-kuchen](https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-hauptversammlung-gestoert-ein-stueck-vom-kuchen-a-aa7bf447-348e-419b-b22f-c98456b46b2b#ref=rss)
+* [https://www.spiegel.de/kultur/martin-moszkowicz-regieverband-kritisiert-constantin-chef-scharf](https://www.spiegel.de/kultur/martin-moszkowicz-regieverband-kritisiert-constantin-chef-scharf-a-de82ff17-d1a2-44a6-824a-67dcd1423b36#ref=rss)
+### khan
 
-* [https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen](https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen-a-2c650984-d5aa-4748-a8e3-7371f54e284b#ref=rss)
-* [https://www.spiegel.de/panorama/brienz-in-der-schweiz-riesige-felsmassen-bedrohen-bergdorf-evakuierung](https://www.spiegel.de/panorama/brienz-in-der-schweiz-riesige-felsmassen-bedrohen-bergdorf-evakuierung-a-9e0b3af5-47e7-4ec1-a8c0-7a5449bafcbf#ref=rss)
-### sagt
+* [https://www.spiegel.de/ausland/imran-khan-in-pakistan-verhaftet-aufstand-gegen-das-pakistanische-establishment](https://www.spiegel.de/ausland/imran-khan-in-pakistan-verhaftet-aufstand-gegen-das-pakistanische-establishment-a-b127767e-32ee-4395-93d0-1ac99fdf1f52#ref=rss)
+### patrick
 
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland](https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland-a-fc5b18c0-bfbe-4a6c-8495-a2b8874e7f6a#ref=rss)
-* [https://www.spiegel.de/sport/twitter-account-artbutmakeitsports-wenn-ein-kotzender-baseballspieler-an-ein-gemaelde-von-goya-erinnert](https://www.spiegel.de/sport/twitter-account-artbutmakeitsports-wenn-ein-kotzender-baseballspieler-an-ein-gemaelde-von-goya-erinnert-a-7ed8f59c-2942-49cb-af73-e92507ef0fe1#ref=rss)
-### russland
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg](https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg-a-e454be58-dc11-4478-a08e-effe27862edb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-will-an-patrick-graichen-festhalten](https://www.spiegel.de/politik/deutschland/robert-habeck-will-an-patrick-graichen-festhalten-a-aecc83f4-e626-4ca3-95b9-98acecb0f7ba#ref=rss)
+### graichen
 
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland](https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland-a-fc5b18c0-bfbe-4a6c-8495-a2b8874e7f6a#ref=rss)
-* [https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte](https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte-a-8b761338-c55c-48e4-95cb-16b748a379ca#ref=rss)
-### sieht
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland](https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland-a-fc5b18c0-bfbe-4a6c-8495-a2b8874e7f6a#ref=rss)
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-london-sieht-in-siegesparade-auf-rotem-platz-zeichen-fuer-russische-schwaeche](https://www.spiegel.de/ausland/russland-ukraine-krieg-london-sieht-in-siegesparade-auf-rotem-platz-zeichen-fuer-russische-schwaeche-a-71618405-f3be-41b7-baf5-5343e36b8db8#ref=rss)
-### dagegen
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland](https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland-a-fc5b18c0-bfbe-4a6c-8495-a2b8874e7f6a#ref=rss)
-* [https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte](https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte-a-8b761338-c55c-48e4-95cb-16b748a379ca#ref=rss)
-### gestiegen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/hde-umfrage-secondhand-liegt-in-der-inflation-im-trend](https://www.spiegel.de/wirtschaft/unternehmen/hde-umfrage-secondhand-liegt-in-der-inflation-im-trend-a-0900ecb8-b297-4cd6-8259-cc299279e742#ref=rss)
-* [https://www.spiegel.de/auto/e-scooter-unfallzahlen-deutlich-gestiegen](https://www.spiegel.de/auto/e-scooter-unfallzahlen-deutlich-gestiegen-a-bd2cdd65-cfcb-472a-9006-27f46b1eaf8c#ref=rss)
-### waren
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/hde-umfrage-secondhand-liegt-in-der-inflation-im-trend](https://www.spiegel.de/wirtschaft/unternehmen/hde-umfrage-secondhand-liegt-in-der-inflation-im-trend-a-0900ecb8-b297-4cd6-8259-cc299279e742#ref=rss)
-* [https://www.spiegel.de/panorama/bildung/wolodymyr-selenskyj-hat-auftritt-an-der-uni-koeln-niemand-will-back-to-the-ussr](https://www.spiegel.de/panorama/bildung/wolodymyr-selenskyj-hat-auftritt-an-der-uni-koeln-niemand-will-back-to-the-ussr-a-e9d53e1c-df64-44c7-9d9c-7ff2f794731d#ref=rss)
-### interpol
-
-* [https://www.spiegel.de/panorama/justiz/interpol-hofft-auf-mithilfe-bei-aufklaerung-von-gewalttaten](https://www.spiegel.de/panorama/justiz/interpol-hofft-auf-mithilfe-bei-aufklaerung-von-gewalttaten-a-8e559c22-b950-461a-ac57-99b29e179820#ref=rss)
-### mithilfe
-
-* [https://www.spiegel.de/panorama/justiz/interpol-hofft-auf-mithilfe-bei-aufklaerung-von-gewalttaten](https://www.spiegel.de/panorama/justiz/interpol-hofft-auf-mithilfe-bei-aufklaerung-von-gewalttaten-a-8e559c22-b950-461a-ac57-99b29e179820#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/panorama/justiz/interpol-hofft-auf-mithilfe-bei-aufklaerung-von-gewalttaten](https://www.spiegel.de/panorama/justiz/interpol-hofft-auf-mithilfe-bei-aufklaerung-von-gewalttaten-a-8e559c22-b950-461a-ac57-99b29e179820#ref=rss)
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke-a-dfb494b0-7023-495f-a2b1-b50d2062abfc#ref=rss)
-### machte
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/coinbase-angestellter-erste-haftstrafen-fuer-krypto-insiderhandel](https://www.spiegel.de/netzwelt/netzpolitik/coinbase-angestellter-erste-haftstrafen-fuer-krypto-insiderhandel-a-80f11923-6c13-4104-b046-9738434ae43b#ref=rss)
-* [https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben](https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben-a-26b2642e-0fa8-428a-bf40-b085a0ca1133#ref=rss)
-### offenbar
-
-* [https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte](https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte-a-8b761338-c55c-48e4-95cb-16b748a379ca#ref=rss)
-### mehrere
-
-* [https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte](https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte-a-8b761338-c55c-48e4-95cb-16b748a379ca#ref=rss)
-### verletzte
-
-* [https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte](https://www.spiegel.de/ausland/russland-drohnenangriff-auf-militaerbasis-in-der-region-woronesch-offenbar-mehrere-verletzte-a-8b761338-c55c-48e4-95cb-16b748a379ca#ref=rss)
-### eurovision
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke-a-dfb494b0-7023-495f-a2b1-b50d2062abfc#ref=rss)
-### song
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke-a-dfb494b0-7023-495f-a2b1-b50d2062abfc#ref=rss)
-### contest
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke-a-dfb494b0-7023-495f-a2b1-b50d2062abfc#ref=rss)
-### fotostrecke
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke-a-dfb494b0-7023-495f-a2b1-b50d2062abfc#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke-a-dfb494b0-7023-495f-a2b1-b50d2062abfc#ref=rss)
-* [https://www.spiegel.de/panorama/berchtesgadener-land-erneut-braunbaer-in-bayern-von-kamera-aufgenommen](https://www.spiegel.de/panorama/berchtesgadener-land-erneut-braunbaer-in-bayern-von-kamera-aufgenommen-a-199e6d40-a15f-4083-90f5-9a4936345a40#ref=rss)
-### entschieden
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke-a-dfb494b0-7023-495f-a2b1-b50d2062abfc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-staatshilfen-gericht-erklaert-eu-genehmigung-fuer-nichtig](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-staatshilfen-gericht-erklaert-eu-genehmigung-fuer-nichtig-a-57d3e2c2-0595-4cf0-9e27-92b34cd79865#ref=rss)
-### sehen
-
-* [https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke](https://www.spiegel.de/kultur/tv/eurovision-song-contest-2023-die-finalteilnehmer-in-der-fotostrecke-a-dfb494b0-7023-495f-a2b1-b50d2062abfc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-april-preisauftrieb-bei-lebensmitteln-laesst-nach](https://www.spiegel.de/wirtschaft/service/inflation-april-preisauftrieb-bei-lebensmitteln-laesst-nach-a-ef9d17d4-8fe7-4a80-933a-74f6f2fd94f4#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/panorama/berchtesgadener-land-erneut-braunbaer-in-bayern-von-kamera-aufgenommen](https://www.spiegel.de/panorama/berchtesgadener-land-erneut-braunbaer-in-bayern-von-kamera-aufgenommen-a-199e6d40-a15f-4083-90f5-9a4936345a40#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-bodo-ramelow-wirft-bund-verstoss-gegen-hoeflichkeitsregeln-vor](https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-bodo-ramelow-wirft-bund-verstoss-gegen-hoeflichkeitsregeln-vor-a-a43fb76e-b84a-4bb4-a002-bc6e7ed0933b#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/berchtesgadener-land-erneut-braunbaer-in-bayern-von-kamera-aufgenommen](https://www.spiegel.de/panorama/berchtesgadener-land-erneut-braunbaer-in-bayern-von-kamera-aufgenommen-a-199e6d40-a15f-4083-90f5-9a4936345a40#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-april-preisauftrieb-bei-lebensmitteln-laesst-nach](https://www.spiegel.de/wirtschaft/service/inflation-april-preisauftrieb-bei-lebensmitteln-laesst-nach-a-ef9d17d4-8fe7-4a80-933a-74f6f2fd94f4#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/berchtesgadener-land-erneut-braunbaer-in-bayern-von-kamera-aufgenommen](https://www.spiegel.de/panorama/berchtesgadener-land-erneut-braunbaer-in-bayern-von-kamera-aufgenommen-a-199e6d40-a15f-4083-90f5-9a4936345a40#ref=rss)
-* [https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben](https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben-a-26b2642e-0fa8-428a-bf40-b085a0ca1133#ref=rss)
-### produktion
-
-* [https://www.spiegel.de/wirtschaft/service/tofu-seitan-weizenproteine-produktion-von-fleischersatzprodukten-steigt](https://www.spiegel.de/wirtschaft/service/tofu-seitan-weizenproteine-produktion-von-fleischersatzprodukten-steigt-a-7f2a0ac4-b0b7-4090-99b1-70df444f4515#ref=rss)
-### joe
-
-* [https://www.spiegel.de/ausland/usa-mexikos-praesident-andres-lopez-obrador-sichert-joe-biden-kooperation-in-migrationsfragen-zu](https://www.spiegel.de/ausland/usa-mexikos-praesident-andres-lopez-obrador-sichert-joe-biden-kooperation-in-migrationsfragen-zu-a-5de50b20-f47b-4792-93c6-16cb71b0b31f#ref=rss)
-### biden
-
-* [https://www.spiegel.de/ausland/usa-mexikos-praesident-andres-lopez-obrador-sichert-joe-biden-kooperation-in-migrationsfragen-zu](https://www.spiegel.de/ausland/usa-mexikos-praesident-andres-lopez-obrador-sichert-joe-biden-kooperation-in-migrationsfragen-zu-a-5de50b20-f47b-4792-93c6-16cb71b0b31f#ref=rss)
-### endet
-
-* [https://www.spiegel.de/ausland/usa-mexikos-praesident-andres-lopez-obrador-sichert-joe-biden-kooperation-in-migrationsfragen-zu](https://www.spiegel.de/ausland/usa-mexikos-praesident-andres-lopez-obrador-sichert-joe-biden-kooperation-in-migrationsfragen-zu-a-5de50b20-f47b-4792-93c6-16cb71b0b31f#ref=rss)
-* [https://www.spiegel.de/panorama/neuseeland-toedlicher-schulausflug-retter-finden-leiche-in-hoehle](https://www.spiegel.de/panorama/neuseeland-toedlicher-schulausflug-retter-finden-leiche-in-hoehle-a-ed88aadf-41a1-4653-a9aa-44da6d320b69#ref=rss)
-### platz
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-london-sieht-in-siegesparade-auf-rotem-platz-zeichen-fuer-russische-schwaeche](https://www.spiegel.de/ausland/russland-ukraine-krieg-london-sieht-in-siegesparade-auf-rotem-platz-zeichen-fuer-russische-schwaeche-a-71618405-f3be-41b7-baf5-5343e36b8db8#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert-a-9cbbeef5-003b-43a5-acc7-5f04c44b8424#ref=rss)
-### gründe
-
-* [https://www.spiegel.de/ausland/russland-ukraine-krieg-london-sieht-in-siegesparade-auf-rotem-platz-zeichen-fuer-russische-schwaeche](https://www.spiegel.de/ausland/russland-ukraine-krieg-london-sieht-in-siegesparade-auf-rotem-platz-zeichen-fuer-russische-schwaeche-a-71618405-f3be-41b7-baf5-5343e36b8db8#ref=rss)
-* [https://www.spiegel.de/wirtschaft/service/inflation-april-preisauftrieb-bei-lebensmitteln-laesst-nach](https://www.spiegel.de/wirtschaft/service/inflation-april-preisauftrieb-bei-lebensmitteln-laesst-nach-a-ef9d17d4-8fe7-4a80-933a-74f6f2fd94f4#ref=rss)
-### champions
-
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert-a-9cbbeef5-003b-43a5-acc7-5f04c44b8424#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero-a-b814ffb6-50ca-4277-83f7-437295d5d603#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg](https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg-a-e454be58-dc11-4478-a08e-effe27862edb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-will-an-patrick-graichen-festhalten](https://www.spiegel.de/politik/deutschland/robert-habeck-will-an-patrick-graichen-festhalten-a-aecc83f4-e626-4ca3-95b9-98acecb0f7ba#ref=rss)
 ### league
 
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert-a-9cbbeef5-003b-43a5-acc7-5f04c44b8424#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero-a-b814ffb6-50ca-4277-83f7-437295d5d603#ref=rss)
-### haaland
+* [https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte](https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte-a-8b29998d-c9e0-4ff7-8c09-b2e0a8e83f8f#ref=rss)
+### kanzler
 
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert-a-9cbbeef5-003b-43a5-acc7-5f04c44b8424#ref=rss)
-### viploge
+* [https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen](https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen-a-2c650984-d5aa-4748-a8e3-7371f54e284b#ref=rss)
+### erste
 
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert-a-9cbbeef5-003b-43a5-acc7-5f04c44b8424#ref=rss)
-### spiel
+* [https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen](https://www.spiegel.de/politik/deutschland/news-zum-fluechtlingsgipfel-in-berlin-oezdemir-befuerwortet-vorpruefung-von-asylantraegen-an-eu-aussengrenzen-a-2c650984-d5aa-4748-a8e3-7371f54e284b#ref=rss)
+* [https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte](https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte-a-8b29998d-c9e0-4ff7-8c09-b2e0a8e83f8f#ref=rss)
+### oft
 
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-vs-manchester-city-vater-von-erling-haaland-wird-aus-vip-loge-eskortiert-a-9cbbeef5-003b-43a5-acc7-5f04c44b8424#ref=rss)
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero-a-b814ffb6-50ca-4277-83f7-437295d5d603#ref=rss)
-### brienz
+* [https://www.spiegel.de/netzwelt/handy-spaehattwie-ein-schweizer-it-unternehmer-weltweite-ueberwachung-ermoeglicht](https://www.spiegel.de/netzwelt/handy-spaehattwie-ein-schweizer-it-unternehmer-weltweite-ueberwachung-ermoeglicht-a-f252d8e2-5697-42c8-8b75-bee73fb4eaa5#ref=rss)
+* [https://www.spiegel.de/wissenschaft/klimawandel-erhoeht-risiko-fuer-tropenkrankheiten-in-europa](https://www.spiegel.de/wissenschaft/klimawandel-erhoeht-risiko-fuer-tropenkrankheiten-in-europa-a-69839508-5800-4b5b-ac16-0888fdfe4925#ref=rss)
+### trifft
 
-* [https://www.spiegel.de/panorama/brienz-in-der-schweiz-riesige-felsmassen-bedrohen-bergdorf-evakuierung](https://www.spiegel.de/panorama/brienz-in-der-schweiz-riesige-felsmassen-bedrohen-bergdorf-evakuierung-a-9e0b3af5-47e7-4ec1-a8c0-7a5449bafcbf#ref=rss)
-### gericht
+* [https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich](https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich-a-5ed9efdf-4e34-44c0-9a20-0aec4e4b3b29#ref=rss)
+### em
 
-* [https://www.spiegel.de/start/rezept-fruchtige-creme-bru-lee-ohne-bunsenbrenner-fuer-1-50-euro](https://www.spiegel.de/start/rezept-fruchtige-creme-bru-lee-ohne-bunsenbrenner-fuer-1-50-euro-a-a3d07f14-4b80-4e69-af01-5a4b11ba1529#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-staatshilfen-gericht-erklaert-eu-genehmigung-fuer-nichtig](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-staatshilfen-gericht-erklaert-eu-genehmigung-fuer-nichtig-a-57d3e2c2-0595-4cf0-9e27-92b34cd79865#ref=rss)
-### rita
+* [https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich](https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich-a-5ed9efdf-4e34-44c0-9a20-0aec4e4b3b29#ref=rss)
+### 2024
 
-* [https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben](https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben-a-26b2642e-0fa8-428a-bf40-b085a0ca1133#ref=rss)
-### lee
+* [https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich](https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich-a-5ed9efdf-4e34-44c0-9a20-0aec4e4b3b29#ref=rss)
+* [https://www.spiegel.de/ausland/usa-die-doppelkrise-die-joe-biden-das-amt-kosten-kann](https://www.spiegel.de/ausland/usa-die-doppelkrise-die-joe-biden-das-amt-kosten-kann-a-37ddcec8-75b0-4ae5-a929-9f2da45648d4#ref=rss)
+### gruppe
 
-* [https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben](https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben-a-26b2642e-0fa8-428a-bf40-b085a0ca1133#ref=rss)
-### brasilianische
+* [https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich](https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich-a-5ed9efdf-4e34-44c0-9a20-0aec4e4b3b29#ref=rss)
+### land
 
-* [https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben](https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben-a-26b2642e-0fa8-428a-bf40-b085a0ca1133#ref=rss)
-### gestorben
+* [https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich](https://www.spiegel.de/sport/handball/handball-deutschland-trifft-bei-der-em-2024-in-der-gruppe-auf-frankreich-a-5ed9efdf-4e34-44c0-9a20-0aec4e4b3b29#ref=rss)
+* [https://www.spiegel.de/ausland/imran-khan-in-pakistan-verhaftet-aufstand-gegen-das-pakistanische-establishment](https://www.spiegel.de/ausland/imran-khan-in-pakistan-verhaftet-aufstand-gegen-das-pakistanische-establishment-a-b127767e-32ee-4395-93d0-1ac99fdf1f52#ref=rss)
+### giro
 
-* [https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben](https://www.spiegel.de/kultur/rita-lee-ist-tot-brasilianische-saengerin-im-alter-von-75-jahren-gestorben-a-26b2642e-0fa8-428a-bf40-b085a0ca1133#ref=rss)
-### erinnert
+* [https://www.spiegel.de/sport/giro-d-italia-hund-bringt-favorit-remco-evenepoel-zu-fall](https://www.spiegel.de/sport/giro-d-italia-hund-bringt-favorit-remco-evenepoel-zu-fall-a-a5797a28-575e-4bee-8149-68e038cbfc50#ref=rss)
+### d’italia
 
-* [https://www.spiegel.de/sport/twitter-account-artbutmakeitsports-wenn-ein-kotzender-baseballspieler-an-ein-gemaelde-von-goya-erinnert](https://www.spiegel.de/sport/twitter-account-artbutmakeitsports-wenn-ein-kotzender-baseballspieler-an-ein-gemaelde-von-goya-erinnert-a-7ed8f59c-2942-49cb-af73-e92507ef0fe1#ref=rss)
-* [https://www.spiegel.de/kultur/heidi-klum-und-leni-klum-in-dessouskampagne-ein-bild-so-alt-wie-das-patriarchat](https://www.spiegel.de/kultur/heidi-klum-und-leni-klum-in-dessouskampagne-ein-bild-so-alt-wie-das-patriarchat-a-3f769e82-ab6e-4ddb-93a6-0272f0cfb438#ref=rss)
-### toni
+* [https://www.spiegel.de/sport/giro-d-italia-hund-bringt-favorit-remco-evenepoel-zu-fall](https://www.spiegel.de/sport/giro-d-italia-hund-bringt-favorit-remco-evenepoel-zu-fall-a-a5797a28-575e-4bee-8149-68e038cbfc50#ref=rss)
+### remco
 
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero-a-b814ffb6-50ca-4277-83f7-437295d5d603#ref=rss)
-### kroos
+* [https://www.spiegel.de/sport/giro-d-italia-hund-bringt-favorit-remco-evenepoel-zu-fall](https://www.spiegel.de/sport/giro-d-italia-hund-bringt-favorit-remco-evenepoel-zu-fall-a-a5797a28-575e-4bee-8149-68e038cbfc50#ref=rss)
+### evenepoel
 
-* [https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero](https://www.spiegel.de/sport/fussball/champions-league-real-madrid-toni-kroos-der-libero-a-b814ffb6-50ca-4277-83f7-437295d5d603#ref=rss)
-### heidi
+* [https://www.spiegel.de/sport/giro-d-italia-hund-bringt-favorit-remco-evenepoel-zu-fall](https://www.spiegel.de/sport/giro-d-italia-hund-bringt-favorit-remco-evenepoel-zu-fall-a-a5797a28-575e-4bee-8149-68e038cbfc50#ref=rss)
+### weg
 
-* [https://www.spiegel.de/kultur/heidi-klum-und-leni-klum-in-dessouskampagne-ein-bild-so-alt-wie-das-patriarchat](https://www.spiegel.de/kultur/heidi-klum-und-leni-klum-in-dessouskampagne-ein-bild-so-alt-wie-das-patriarchat-a-3f769e82-ab6e-4ddb-93a6-0272f0cfb438#ref=rss)
-### leni
+* [https://www.spiegel.de/sport/giro-d-italia-hund-bringt-favorit-remco-evenepoel-zu-fall](https://www.spiegel.de/sport/giro-d-italia-hund-bringt-favorit-remco-evenepoel-zu-fall-a-a5797a28-575e-4bee-8149-68e038cbfc50#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/heizung-und-waermewende-fuer-leute-wie-sie-und-mich-wird-es-halt-teurer-damit-muessen-wir-leben](https://www.spiegel.de/wirtschaft/soziales/heizung-und-waermewende-fuer-leute-wie-sie-und-mich-wird-es-halt-teurer-damit-muessen-wir-leben-a-fc64a64d-1e91-4cb0-8311-f4b249af1dd7#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/kultur/heidi-klum-und-leni-klum-in-dessouskampagne-ein-bild-so-alt-wie-das-patriarchat](https://www.spiegel.de/kultur/heidi-klum-und-leni-klum-in-dessouskampagne-ein-bild-so-alt-wie-das-patriarchat-a-3f769e82-ab6e-4ddb-93a6-0272f0cfb438#ref=rss)
-### lebensmitteln
+* [https://www.spiegel.de/sport/fussball-poker-um-frauen-wm-rechte-die-sender-sind-das-problem-kommentar](https://www.spiegel.de/sport/fussball-poker-um-frauen-wm-rechte-die-sender-sind-das-problem-kommentar-a-d35216e8-c586-487e-8e74-d35ed6235b98#ref=rss)
+* [https://www.spiegel.de/sport/tennis/tennis-in-madrid-redeverbot-fuer-coco-gauff-und-jessica-pegula-die-veranstalter-schweigen](https://www.spiegel.de/sport/tennis/tennis-in-madrid-redeverbot-fuer-coco-gauff-und-jessica-pegula-die-veranstalter-schweigen-a-c7a1d528-6403-4225-9c6e-15e07069e5db#ref=rss)
+### biden
 
-* [https://www.spiegel.de/wirtschaft/service/inflation-april-preisauftrieb-bei-lebensmitteln-laesst-nach](https://www.spiegel.de/wirtschaft/service/inflation-april-preisauftrieb-bei-lebensmitteln-laesst-nach-a-ef9d17d4-8fe7-4a80-933a-74f6f2fd94f4#ref=rss)
-### ramelow
+* [https://www.spiegel.de/ausland/usa-die-doppelkrise-die-joe-biden-das-amt-kosten-kann](https://www.spiegel.de/ausland/usa-die-doppelkrise-die-joe-biden-das-amt-kosten-kann-a-37ddcec8-75b0-4ae5-a929-9f2da45648d4#ref=rss)
+### droht
 
-* [https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-bodo-ramelow-wirft-bund-verstoss-gegen-hoeflichkeitsregeln-vor](https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-bodo-ramelow-wirft-bund-verstoss-gegen-hoeflichkeitsregeln-vor-a-a43fb76e-b84a-4bb4-a002-bc6e7ed0933b#ref=rss)
-### wolodymyr
+* [https://www.spiegel.de/ausland/usa-die-doppelkrise-die-joe-biden-das-amt-kosten-kann](https://www.spiegel.de/ausland/usa-die-doppelkrise-die-joe-biden-das-amt-kosten-kann-a-37ddcec8-75b0-4ae5-a929-9f2da45648d4#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-oesterreich-handelsketten-sollen-einkaufspreise-publik-machen-muessen](https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-oesterreich-handelsketten-sollen-einkaufspreise-publik-machen-muessen-a-0959bca4-07a2-43e0-b78a-71e7937c8655#ref=rss)
+### imran
 
-* [https://www.spiegel.de/panorama/bildung/wolodymyr-selenskyj-hat-auftritt-an-der-uni-koeln-niemand-will-back-to-the-ussr](https://www.spiegel.de/panorama/bildung/wolodymyr-selenskyj-hat-auftritt-an-der-uni-koeln-niemand-will-back-to-the-ussr-a-e9d53e1c-df64-44c7-9d9c-7ff2f794731d#ref=rss)
-### selenskyj
+* [https://www.spiegel.de/ausland/imran-khan-in-pakistan-verhaftet-aufstand-gegen-das-pakistanische-establishment](https://www.spiegel.de/ausland/imran-khan-in-pakistan-verhaftet-aufstand-gegen-das-pakistanische-establishment-a-b127767e-32ee-4395-93d0-1ac99fdf1f52#ref=rss)
+### verhaftet
 
-* [https://www.spiegel.de/panorama/bildung/wolodymyr-selenskyj-hat-auftritt-an-der-uni-koeln-niemand-will-back-to-the-ussr](https://www.spiegel.de/panorama/bildung/wolodymyr-selenskyj-hat-auftritt-an-der-uni-koeln-niemand-will-back-to-the-ussr-a-e9d53e1c-df64-44c7-9d9c-7ff2f794731d#ref=rss)
-### uni
+* [https://www.spiegel.de/ausland/imran-khan-in-pakistan-verhaftet-aufstand-gegen-das-pakistanische-establishment](https://www.spiegel.de/ausland/imran-khan-in-pakistan-verhaftet-aufstand-gegen-das-pakistanische-establishment-a-b127767e-32ee-4395-93d0-1ac99fdf1f52#ref=rss)
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt-a-75815f62-19f4-444b-8972-08e46c4e7260#ref=rss)
+### verhaftung
 
-* [https://www.spiegel.de/panorama/bildung/wolodymyr-selenskyj-hat-auftritt-an-der-uni-koeln-niemand-will-back-to-the-ussr](https://www.spiegel.de/panorama/bildung/wolodymyr-selenskyj-hat-auftritt-an-der-uni-koeln-niemand-will-back-to-the-ussr-a-e9d53e1c-df64-44c7-9d9c-7ff2f794731d#ref=rss)
-### köln
+* [https://www.spiegel.de/ausland/imran-khan-in-pakistan-verhaftet-aufstand-gegen-das-pakistanische-establishment](https://www.spiegel.de/ausland/imran-khan-in-pakistan-verhaftet-aufstand-gegen-das-pakistanische-establishment-a-b127767e-32ee-4395-93d0-1ac99fdf1f52#ref=rss)
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt-a-75815f62-19f4-444b-8972-08e46c4e7260#ref=rss)
+### erklären
 
-* [https://www.spiegel.de/panorama/bildung/wolodymyr-selenskyj-hat-auftritt-an-der-uni-koeln-niemand-will-back-to-the-ussr](https://www.spiegel.de/panorama/bildung/wolodymyr-selenskyj-hat-auftritt-an-der-uni-koeln-niemand-will-back-to-the-ussr-a-e9d53e1c-df64-44c7-9d9c-7ff2f794731d#ref=rss)
-### neuseeland
+* [https://www.spiegel.de/panorama/bildung/schulleiter-umfrage-warum-das-deutsche-schulsystem-fuer-viele-kinder-nicht-passt](https://www.spiegel.de/panorama/bildung/schulleiter-umfrage-warum-das-deutsche-schulsystem-fuer-viele-kinder-nicht-passt-a-234194ee-ed84-4494-960c-417b6ae6988a#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland](https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland-a-fc5b18c0-bfbe-4a6c-8495-a2b8874e7f6a#ref=rss)
+### heil
 
-* [https://www.spiegel.de/panorama/neuseeland-toedlicher-schulausflug-retter-finden-leiche-in-hoehle](https://www.spiegel.de/panorama/neuseeland-toedlicher-schulausflug-retter-finden-leiche-in-hoehle-a-ed88aadf-41a1-4653-a9aa-44da6d320b69#ref=rss)
-### leiche
+* [https://www.spiegel.de/wirtschaft/unternehmen/hubertus-heil-lehnt-staatliche-regelung-zur-vier-tage-woche-ab](https://www.spiegel.de/wirtschaft/unternehmen/hubertus-heil-lehnt-staatliche-regelung-zur-vier-tage-woche-ab-a-1aebf447-b2bf-44fb-9a0c-b0e7d153a168#ref=rss)
+### dagegen
 
-* [https://www.spiegel.de/panorama/neuseeland-toedlicher-schulausflug-retter-finden-leiche-in-hoehle](https://www.spiegel.de/panorama/neuseeland-toedlicher-schulausflug-retter-finden-leiche-in-hoehle-a-ed88aadf-41a1-4653-a9aa-44da6d320b69#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/hubertus-heil-lehnt-staatliche-regelung-zur-vier-tage-woche-ab](https://www.spiegel.de/wirtschaft/unternehmen/hubertus-heil-lehnt-staatliche-regelung-zur-vier-tage-woche-ab-a-1aebf447-b2bf-44fb-9a0c-b0e7d153a168#ref=rss)
+* [https://www.spiegel.de/psychologie/psychosomatik-koerper-und-seele-sind-untrennbar-miteinander-verknuepft](https://www.spiegel.de/psychologie/psychosomatik-koerper-und-seele-sind-untrennbar-miteinander-verknuepft-a-212ce810-1326-4f53-b34c-9d5b80f1cb29#ref=rss)
+### kaffee
+
+* [https://www.spiegel.de/wissenschaft/kaffee-welche-rolle-die-extraktion-fuer-den-geschmack-spielt](https://www.spiegel.de/wissenschaft/kaffee-welche-rolle-die-extraktion-fuer-den-geschmack-spielt-a-e1f85b1c-92ed-4ac7-b453-deb88a19dd85#ref=rss)
+### extraktion
+
+* [https://www.spiegel.de/wissenschaft/kaffee-welche-rolle-die-extraktion-fuer-den-geschmack-spielt](https://www.spiegel.de/wissenschaft/kaffee-welche-rolle-die-extraktion-fuer-den-geschmack-spielt-a-e1f85b1c-92ed-4ac7-b453-deb88a19dd85#ref=rss)
+### spielt
+
+* [https://www.spiegel.de/wissenschaft/kaffee-welche-rolle-die-extraktion-fuer-den-geschmack-spielt](https://www.spiegel.de/wissenschaft/kaffee-welche-rolle-die-extraktion-fuer-den-geschmack-spielt-a-e1f85b1c-92ed-4ac7-b453-deb88a19dd85#ref=rss)
+* [https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte](https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte-a-8b29998d-c9e0-4ff7-8c09-b2e0a8e83f8f#ref=rss)
+### schmeckt
+
+* [https://www.spiegel.de/wissenschaft/kaffee-welche-rolle-die-extraktion-fuer-den-geschmack-spielt](https://www.spiegel.de/wissenschaft/kaffee-welche-rolle-die-extraktion-fuer-den-geschmack-spielt-a-e1f85b1c-92ed-4ac7-b453-deb88a19dd85#ref=rss)
+### lebenserwartung
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg](https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg-a-e454be58-dc11-4478-a08e-effe27862edb#ref=rss)
+### robert
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg](https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg-a-e454be58-dc11-4478-a08e-effe27862edb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-will-an-patrick-graichen-festhalten](https://www.spiegel.de/politik/deutschland/robert-habeck-will-an-patrick-graichen-festhalten-a-aecc83f4-e626-4ca3-95b9-98acecb0f7ba#ref=rss)
+### putin
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg](https://www.spiegel.de/politik/deutschland/news-des-tages-lebenserwartung-robert-habeck-patrick-graichen-ukrainekrieg-a-e454be58-dc11-4478-a08e-effe27862edb#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-bei-empfang-in-russischer-botschaft-auch-mit-afd-politikern](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-bei-empfang-in-russischer-botschaft-auch-mit-afd-politikern-a-e9dd5b95-274d-45c9-9724-e4c00efbc309#ref=rss)
+### of
+
+* [https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte](https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte-a-8b29998d-c9e0-4ff7-8c09-b2e0a8e83f8f#ref=rss)
+### legends
+
+* [https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte](https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte-a-8b29998d-c9e0-4ff7-8c09-b2e0a8e83f8f#ref=rss)
+### mareike
+
+* [https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte](https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte-a-8b29998d-c9e0-4ff7-8c09-b2e0a8e83f8f#ref=rss)
+### burg
+
+* [https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte](https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte-a-8b29998d-c9e0-4ff7-8c09-b2e0a8e83f8f#ref=rss)
+### spiegel
+
+* [https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte](https://www.spiegel.de/deinspiegel/league-of-legends-wie-es-e-sportlerin-mareike-burg-in-die-oberste-deutsche-liga-schaffte-a-8b29998d-c9e0-4ff7-8c09-b2e0a8e83f8f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/razzia-in-santa-fu-gegen-ex-drogenboss-memmo-lebt-im-knast-wie-gott-in-frankreich-spiegel-tv](https://www.spiegel.de/panorama/justiz/razzia-in-santa-fu-gegen-ex-drogenboss-memmo-lebt-im-knast-wie-gott-in-frankreich-spiegel-tv-a-9472d507-3a27-489d-9b64-1d1b3438e5af#ref=rss)
+### fordern
+
+* [https://www.spiegel.de/panorama/juedische-organisationen-fordern-versteigerungsstopp-fuer-horten-juwelen](https://www.spiegel.de/panorama/juedische-organisationen-fordern-versteigerungsstopp-fuer-horten-juwelen-a-6cff7fb1-57d0-4794-bd0b-620c9806c765#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-will-an-patrick-graichen-festhalten](https://www.spiegel.de/politik/deutschland/robert-habeck-will-an-patrick-graichen-festhalten-a-aecc83f4-e626-4ca3-95b9-98acecb0f7ba#ref=rss)
+### mann
+
+* [https://www.spiegel.de/panorama/juedische-organisationen-fordern-versteigerungsstopp-fuer-horten-juwelen](https://www.spiegel.de/panorama/juedische-organisationen-fordern-versteigerungsstopp-fuer-horten-juwelen-a-6cff7fb1-57d0-4794-bd0b-620c9806c765#ref=rss)
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt-a-75815f62-19f4-444b-8972-08e46c4e7260#ref=rss)
+### künstliche
+
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt-a-75815f62-19f4-444b-8972-08e46c4e7260#ref=rss)
+### intelligenz
+
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt-a-75815f62-19f4-444b-8972-08e46c4e7260#ref=rss)
+### erstmals
+
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt-a-75815f62-19f4-444b-8972-08e46c4e7260#ref=rss)
+### chatgpt
+
+* [https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt](https://www.spiegel.de/netzwelt/kuenstliche-intelligenz-in-china-erstmals-verhaftung-wegen-fake-news-durch-chatgpt-a-75815f62-19f4-444b-8972-08e46c4e7260#ref=rss)
+### george
+
+* [https://www.spiegel.de/ausland/george-santos-us-abgeordneter-in-gewahrsam-genommen-und-in-13-punkten-angeklagt](https://www.spiegel.de/ausland/george-santos-us-abgeordneter-in-gewahrsam-genommen-und-in-13-punkten-angeklagt-a-fdbe2757-5ce9-4aba-9267-350558e3af20#ref=rss)
+### santos
+
+* [https://www.spiegel.de/ausland/george-santos-us-abgeordneter-in-gewahrsam-genommen-und-in-13-punkten-angeklagt](https://www.spiegel.de/ausland/george-santos-us-abgeordneter-in-gewahrsam-genommen-und-in-13-punkten-angeklagt-a-fdbe2757-5ce9-4aba-9267-350558e3af20#ref=rss)
+### gewahrsam
+
+* [https://www.spiegel.de/ausland/george-santos-us-abgeordneter-in-gewahrsam-genommen-und-in-13-punkten-angeklagt](https://www.spiegel.de/ausland/george-santos-us-abgeordneter-in-gewahrsam-genommen-und-in-13-punkten-angeklagt-a-fdbe2757-5ce9-4aba-9267-350558e3af20#ref=rss)
+### genommen
+
+* [https://www.spiegel.de/ausland/george-santos-us-abgeordneter-in-gewahrsam-genommen-und-in-13-punkten-angeklagt](https://www.spiegel.de/ausland/george-santos-us-abgeordneter-in-gewahrsam-genommen-und-in-13-punkten-angeklagt-a-fdbe2757-5ce9-4aba-9267-350558e3af20#ref=rss)
+### martin
+
+* [https://www.spiegel.de/kultur/martin-moszkowicz-regieverband-kritisiert-constantin-chef-scharf](https://www.spiegel.de/kultur/martin-moszkowicz-regieverband-kritisiert-constantin-chef-scharf-a-de82ff17-d1a2-44a6-824a-67dcd1423b36#ref=rss)
+### moszkowicz
+
+* [https://www.spiegel.de/kultur/martin-moszkowicz-regieverband-kritisiert-constantin-chef-scharf](https://www.spiegel.de/kultur/martin-moszkowicz-regieverband-kritisiert-constantin-chef-scharf-a-de82ff17-d1a2-44a6-824a-67dcd1423b36#ref=rss)
+### chef
+
+* [https://www.spiegel.de/kultur/martin-moszkowicz-regieverband-kritisiert-constantin-chef-scharf](https://www.spiegel.de/kultur/martin-moszkowicz-regieverband-kritisiert-constantin-chef-scharf-a-de82ff17-d1a2-44a6-824a-67dcd1423b36#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/heizung-und-waermewende-fuer-leute-wie-sie-und-mich-wird-es-halt-teurer-damit-muessen-wir-leben](https://www.spiegel.de/wirtschaft/soziales/heizung-und-waermewende-fuer-leute-wie-sie-und-mich-wird-es-halt-teurer-damit-muessen-wir-leben-a-fc64a64d-1e91-4cb0-8311-f4b249af1dd7#ref=rss)
+### antibiotika
+
+* [https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland](https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland-a-46efaeeb-822f-44cf-9dae-112b2c24c536#ref=rss)
+### fiebersäfte
+
+* [https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland](https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland-a-46efaeeb-822f-44cf-9dae-112b2c24c536#ref=rss)
+### krebsmedikamente
+
+* [https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland](https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland-a-46efaeeb-822f-44cf-9dae-112b2c24c536#ref=rss)
+### fehlen
+
+* [https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland](https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland-a-46efaeeb-822f-44cf-9dae-112b2c24c536#ref=rss)
+### medikamente
+
+* [https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland](https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland-a-46efaeeb-822f-44cf-9dae-112b2c24c536#ref=rss)
+### apotheken
+
+* [https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland](https://www.spiegel.de/gesundheit/antibiotika-fiebersaefte-krebsmedikamente-warum-fehlen-so-viele-medikamente-in-deutschland-a-46efaeeb-822f-44cf-9dae-112b2c24c536#ref=rss)
+### wärmewende
+
+* [https://www.spiegel.de/wirtschaft/soziales/heizung-und-waermewende-fuer-leute-wie-sie-und-mich-wird-es-halt-teurer-damit-muessen-wir-leben](https://www.spiegel.de/wirtschaft/soziales/heizung-und-waermewende-fuer-leute-wie-sie-und-mich-wird-es-halt-teurer-damit-muessen-wir-leben-a-fc64a64d-1e91-4cb0-8311-f4b249af1dd7#ref=rss)
+### leben
+
+* [https://www.spiegel.de/wirtschaft/soziales/heizung-und-waermewende-fuer-leute-wie-sie-und-mich-wird-es-halt-teurer-damit-muessen-wir-leben](https://www.spiegel.de/wirtschaft/soziales/heizung-und-waermewende-fuer-leute-wie-sie-und-mich-wird-es-halt-teurer-damit-muessen-wir-leben-a-fc64a64d-1e91-4cb0-8311-f4b249af1dd7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/razzia-in-santa-fu-gegen-ex-drogenboss-memmo-lebt-im-knast-wie-gott-in-frankreich-spiegel-tv](https://www.spiegel.de/panorama/justiz/razzia-in-santa-fu-gegen-ex-drogenboss-memmo-lebt-im-knast-wie-gott-in-frankreich-spiegel-tv-a-9472d507-3a27-489d-9b64-1d1b3438e5af#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/wirtschaft/soziales/heizung-und-waermewende-fuer-leute-wie-sie-und-mich-wird-es-halt-teurer-damit-muessen-wir-leben](https://www.spiegel.de/wirtschaft/soziales/heizung-und-waermewende-fuer-leute-wie-sie-und-mich-wird-es-halt-teurer-damit-muessen-wir-leben-a-fc64a64d-1e91-4cb0-8311-f4b249af1dd7#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-oesterreich-handelsketten-sollen-einkaufspreise-publik-machen-muessen](https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-oesterreich-handelsketten-sollen-einkaufspreise-publik-machen-muessen-a-0959bca4-07a2-43e0-b78a-71e7937c8655#ref=rss)
+### inflation
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-oesterreich-handelsketten-sollen-einkaufspreise-publik-machen-muessen](https://www.spiegel.de/wirtschaft/unternehmen/inflation-in-oesterreich-handelsketten-sollen-einkaufspreise-publik-machen-muessen-a-0959bca4-07a2-43e0-b78a-71e7937c8655#ref=rss)
+### länder
+
+* [https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-laender-attestieren-dem-bund-kein-ausreichendes-problembewusstsein](https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-laender-attestieren-dem-bund-kein-ausreichendes-problembewusstsein-a-74a4298c-4e89-4e91-b52e-684ac2dbef42#ref=rss)
+### bund
+
+* [https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-laender-attestieren-dem-bund-kein-ausreichendes-problembewusstsein](https://www.spiegel.de/politik/deutschland/fluechtlingsgipfel-laender-attestieren-dem-bund-kein-ausreichendes-problembewusstsein-a-74a4298c-4e89-4e91-b52e-684ac2dbef42#ref=rss)
+### europa
+
+* [https://www.spiegel.de/wissenschaft/klimawandel-erhoeht-risiko-fuer-tropenkrankheiten-in-europa](https://www.spiegel.de/wissenschaft/klimawandel-erhoeht-risiko-fuer-tropenkrankheiten-in-europa-a-69839508-5800-4b5b-ac16-0888fdfe4925#ref=rss)
+### berlin
+
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland](https://www.spiegel.de/ausland/ukraine-russland-news-heute-goliath-wankt-sagt-fuehrender-nato-admiral-ueber-russland-a-fc5b18c0-bfbe-4a6c-8495-a2b8874e7f6a#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-bei-empfang-in-russischer-botschaft-auch-mit-afd-politikern](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-bei-empfang-in-russischer-botschaft-auch-mit-afd-politikern-a-e9dd5b95-274d-45c9-9724-e4c00efbc309#ref=rss)
+### tennis
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-madrid-redeverbot-fuer-coco-gauff-und-jessica-pegula-die-veranstalter-schweigen](https://www.spiegel.de/sport/tennis/tennis-in-madrid-redeverbot-fuer-coco-gauff-und-jessica-pegula-die-veranstalter-schweigen-a-c7a1d528-6403-4225-9c6e-15e07069e5db#ref=rss)
+### madrid
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-madrid-redeverbot-fuer-coco-gauff-und-jessica-pegula-die-veranstalter-schweigen](https://www.spiegel.de/sport/tennis/tennis-in-madrid-redeverbot-fuer-coco-gauff-und-jessica-pegula-die-veranstalter-schweigen-a-c7a1d528-6403-4225-9c6e-15e07069e5db#ref=rss)
+### dürfen
+
+* [https://www.spiegel.de/sport/tennis/tennis-in-madrid-redeverbot-fuer-coco-gauff-und-jessica-pegula-die-veranstalter-schweigen](https://www.spiegel.de/sport/tennis/tennis-in-madrid-redeverbot-fuer-coco-gauff-und-jessica-pegula-die-veranstalter-schweigen-a-c7a1d528-6403-4225-9c6e-15e07069e5db#ref=rss)
+* [https://www.spiegel.de/sport/judo-wm-fans-wegen-russischem-militaersymbol-aus-der-halle-geworfen](https://www.spiegel.de/sport/judo-wm-fans-wegen-russischem-militaersymbol-aus-der-halle-geworfen-a-43b4d78f-502f-453b-be55-7d32a9a8f3aa#ref=rss)
+### gerhard
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-bei-empfang-in-russischer-botschaft-auch-mit-afd-politikern](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-bei-empfang-in-russischer-botschaft-auch-mit-afd-politikern-a-e9dd5b95-274d-45c9-9724-e4c00efbc309#ref=rss)
+### schröder
+
+* [https://www.spiegel.de/politik/deutschland/gerhard-schroeder-bei-empfang-in-russischer-botschaft-auch-mit-afd-politikern](https://www.spiegel.de/politik/deutschland/gerhard-schroeder-bei-empfang-in-russischer-botschaft-auch-mit-afd-politikern-a-e9dd5b95-274d-45c9-9724-e4c00efbc309#ref=rss)
+### memmo
+
+* [https://www.spiegel.de/panorama/justiz/razzia-in-santa-fu-gegen-ex-drogenboss-memmo-lebt-im-knast-wie-gott-in-frankreich-spiegel-tv](https://www.spiegel.de/panorama/justiz/razzia-in-santa-fu-gegen-ex-drogenboss-memmo-lebt-im-knast-wie-gott-in-frankreich-spiegel-tv-a-9472d507-3a27-489d-9b64-1d1b3438e5af#ref=rss)
+### judowm
+
+* [https://www.spiegel.de/sport/judo-wm-fans-wegen-russischem-militaersymbol-aus-der-halle-geworfen](https://www.spiegel.de/sport/judo-wm-fans-wegen-russischem-militaersymbol-aus-der-halle-geworfen-a-43b4d78f-502f-453b-be55-7d32a9a8f3aa#ref=rss)
+### fans
+
+* [https://www.spiegel.de/sport/judo-wm-fans-wegen-russischem-militaersymbol-aus-der-halle-geworfen](https://www.spiegel.de/sport/judo-wm-fans-wegen-russischem-militaersymbol-aus-der-halle-geworfen-a-43b4d78f-502f-453b-be55-7d32a9a8f3aa#ref=rss)
+### halle
+
+* [https://www.spiegel.de/sport/judo-wm-fans-wegen-russischem-militaersymbol-aus-der-halle-geworfen](https://www.spiegel.de/sport/judo-wm-fans-wegen-russischem-militaersymbol-aus-der-halle-geworfen-a-43b4d78f-502f-453b-be55-7d32a9a8f3aa#ref=rss)
 
