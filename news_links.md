@@ -4,329 +4,331 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### kosovo
+### rummenigge
 
-* [https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus](https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus-a-b3e712bc-7ec0-446f-a524-7efddfb4d788#ref=rss)
-* [https://www.spiegel.de/sport/tennis/unruhen-im-kosovo-tennisprofi-novak-djokovic-mit-politischer-botschaft-bei-french-open](https://www.spiegel.de/sport/tennis/unruhen-im-kosovo-tennisprofi-novak-djokovic-mit-politischer-botschaft-bei-french-open-a-ab6d6283-d96a-4479-af01-370aae5b0f56#ref=rss)
-* [https://www.spiegel.de/ausland/was-hinter-dem-gewaltexzess-im-kosovo-steckt](https://www.spiegel.de/ausland/was-hinter-dem-gewaltexzess-im-kosovo-steckt-a-fbfccde9-9041-4118-b64f-4e4b9bcb3d8d#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/panorama/feuchter-fruehling-in-deutschland-so-nass-war-es-laut-wetterdienst-seit-zehn-jahren-nicht](https://www.spiegel.de/panorama/feuchter-fruehling-in-deutschland-so-nass-war-es-laut-wetterdienst-seit-zehn-jahren-nicht-a-8126f425-c76e-4e21-91d0-5c7f5dcb7495#ref=rss)
-* [https://www.spiegel.de/politik/luftwaffen-inspekteur-ingo-gerhartz-nennt-nato-uebung-ueber-deutschland-glaubwuerdige-abschreckung](https://www.spiegel.de/politik/luftwaffen-inspekteur-ingo-gerhartz-nennt-nato-uebung-ueber-deutschland-glaubwuerdige-abschreckung-a-5a6f47ae-2450-447b-94f4-c445aa95083b#ref=rss)
-* [https://www.spiegel.de/wirtschaft/realloehne-sinken-2023-wohl-das-vierte-jahr-in-folge](https://www.spiegel.de/wirtschaft/realloehne-sinken-2023-wohl-das-vierte-jahr-in-folge-a-34fd976e-5bf5-4a51-858d-6be40d459319#ref=rss)
-### french
-
-* [https://www.spiegel.de/sport/tennis/unruhen-im-kosovo-tennisprofi-novak-djokovic-mit-politischer-botschaft-bei-french-open](https://www.spiegel.de/sport/tennis/unruhen-im-kosovo-tennisprofi-novak-djokovic-mit-politischer-botschaft-bei-french-open-a-ab6d6283-d96a-4479-af01-370aae5b0f56#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-sloane-stephens-prangert-rassismus-im-sport-an](https://www.spiegel.de/sport/tennis/tennis-sloane-stephens-prangert-rassismus-im-sport-an-a-7273e2be-f96a-4802-97a7-0c9f7b9664eb#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-jan-lennard-struff-scheidet-bei-den-french-open-frueh-aus](https://www.spiegel.de/sport/tennis/tennis-jan-lennard-struff-scheidet-bei-den-french-open-frueh-aus-a-67594365-4c6e-41f5-b345-edc6a94508e8#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/unruhen-im-kosovo-tennisprofi-novak-djokovic-mit-politischer-botschaft-bei-french-open](https://www.spiegel.de/sport/tennis/unruhen-im-kosovo-tennisprofi-novak-djokovic-mit-politischer-botschaft-bei-french-open-a-ab6d6283-d96a-4479-af01-370aae5b0f56#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-sloane-stephens-prangert-rassismus-im-sport-an](https://www.spiegel.de/sport/tennis/tennis-sloane-stephens-prangert-rassismus-im-sport-an-a-7273e2be-f96a-4802-97a7-0c9f7b9664eb#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-jan-lennard-struff-scheidet-bei-den-french-open-frueh-aus](https://www.spiegel.de/sport/tennis/tennis-jan-lennard-struff-scheidet-bei-den-french-open-frueh-aus-a-67594365-4c6e-41f5-b345-edc6a94508e8#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus](https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus-a-b3e712bc-7ec0-446f-a524-7efddfb4d788#ref=rss)
-* [https://www.spiegel.de/netzwelt/netzpolitik/mcna-hacker-stellen-daten-von-neun-millionen-us-patienten-ins-netz](https://www.spiegel.de/netzwelt/netzpolitik/mcna-hacker-stellen-daten-von-neun-millionen-us-patienten-ins-netz-a-a9c70277-ac0f-452b-bad6-7b57d82ddb57#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-am-dienstag-kreml-nennt-drohnenangriffe-auf-moskau-terrorakt](https://www.spiegel.de/ausland/ukraine-russland-news-am-dienstag-kreml-nennt-drohnenangriffe-auf-moskau-terrorakt-a-e73215fa-18e5-4e3f-8f92-e4f5bb53e398#ref=rss)
-* [https://www.spiegel.de/ausland/moskau-leichte-schaeden-bei-mutmasslichem-drohnenangriff](https://www.spiegel.de/ausland/moskau-leichte-schaeden-bei-mutmasslichem-drohnenangriff-a-683e0d9f-3fbb-4fe9-b694-0df55a5762f4#ref=rss)
-### italien
-
-* [https://www.spiegel.de/wirtschaft/italien-60-jaehriger-schlaeft-jahrelang-neben-toter-mutter-und-kassiert-ihre-rente](https://www.spiegel.de/wirtschaft/italien-60-jaehriger-schlaeft-jahrelang-neben-toter-mutter-und-kassiert-ihre-rente-a-cf028717-eba6-4dac-912a-e4e7621ea946#ref=rss)
-* [https://www.spiegel.de/ausland/italien-giorgia-meloni-vergleicht-steuerforderungen-fuer-kleinunternehmer-mit-schutzgeld-der-mafia](https://www.spiegel.de/ausland/italien-giorgia-meloni-vergleicht-steuerforderungen-fuer-kleinunternehmer-mit-schutzgeld-der-mafia-a-29a8e339-8777-4551-8f09-6c263002775b#ref=rss)
-### laut
-
-* [https://www.spiegel.de/panorama/feuchter-fruehling-in-deutschland-so-nass-war-es-laut-wetterdienst-seit-zehn-jahren-nicht](https://www.spiegel.de/panorama/feuchter-fruehling-in-deutschland-so-nass-war-es-laut-wetterdienst-seit-zehn-jahren-nicht-a-8126f425-c76e-4e21-91d0-5c7f5dcb7495#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-am-dienstag-kreml-nennt-drohnenangriffe-auf-moskau-terrorakt](https://www.spiegel.de/ausland/ukraine-russland-news-am-dienstag-kreml-nennt-drohnenangriffe-auf-moskau-terrorakt-a-e73215fa-18e5-4e3f-8f92-e4f5bb53e398#ref=rss)
-* [https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum](https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum-a-c52be9f2-b930-4db3-ba62-1a470775e6dc#ref=rss)
-### monaten
-
-* [https://www.spiegel.de/panorama/feuchter-fruehling-in-deutschland-so-nass-war-es-laut-wetterdienst-seit-zehn-jahren-nicht](https://www.spiegel.de/panorama/feuchter-fruehling-in-deutschland-so-nass-war-es-laut-wetterdienst-seit-zehn-jahren-nicht-a-8126f425-c76e-4e21-91d0-5c7f5dcb7495#ref=rss)
-* [https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum](https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum-a-c52be9f2-b930-4db3-ba62-1a470775e6dc#ref=rss)
-* [https://www.spiegel.de/ausland/japan-ministerpraesident-fumio-kishida-entlaesst-eigenen-sohn-nach-party-in-amtssitz](https://www.spiegel.de/ausland/japan-ministerpraesident-fumio-kishida-entlaesst-eigenen-sohn-nach-party-in-amtssitz-a-1fb839c4-0984-4405-af40-c177f1347584#ref=rss)
-### mann
-
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schachtdeckel-fliegen-bei-grillfeier-aus-kanalisation](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schachtdeckel-fliegen-bei-grillfeier-aus-kanalisation-a-3169640a-f1db-4c64-ad8b-a349116cfd41#ref=rss)
-* [https://www.spiegel.de/wirtschaft/italien-60-jaehriger-schlaeft-jahrelang-neben-toter-mutter-und-kassiert-ihre-rente](https://www.spiegel.de/wirtschaft/italien-60-jaehriger-schlaeft-jahrelang-neben-toter-mutter-und-kassiert-ihre-rente-a-cf028717-eba6-4dac-912a-e4e7621ea946#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/panorama/frankfurt-am-main-15-jaehriger-nach-schlaegerei-bei-fussballturnier-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/frankfurt-am-main-15-jaehriger-nach-schlaegerei-bei-fussballturnier-lebensgefaehrlich-verletzt-a-1861b299-3a4f-4f1d-b28f-72eb0aa90f14#ref=rss)
-* [https://www.spiegel.de/panorama/berlin-mehrere-schwerverletzte-nach-wohnungsbrand-frau-stuerzt-bei-rettungsversuch-von-leiter](https://www.spiegel.de/panorama/berlin-mehrere-schwerverletzte-nach-wohnungsbrand-frau-stuerzt-bei-rettungsversuch-von-leiter-a-69ab22b5-39ce-4f27-b0f2-ba3a9fe5652f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge](https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge-a-2df3c3b5-204e-43a0-9514-ed2ce018339a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern](https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern-a-a4953ce2-ea3c-43dd-a904-617fd3241723#ref=rss)
 ### mehrere
 
-* [https://www.spiegel.de/panorama/berlin-mehrere-schwerverletzte-nach-wohnungsbrand-frau-stuerzt-bei-rettungsversuch-von-leiter](https://www.spiegel.de/panorama/berlin-mehrere-schwerverletzte-nach-wohnungsbrand-frau-stuerzt-bei-rettungsversuch-von-leiter-a-69ab22b5-39ce-4f27-b0f2-ba3a9fe5652f#ref=rss)
-* [https://www.spiegel.de/ausland/moskau-leichte-schaeden-bei-mutmasslichem-drohnenangriff](https://www.spiegel.de/ausland/moskau-leichte-schaeden-bei-mutmasslichem-drohnenangriff-a-683e0d9f-3fbb-4fe9-b694-0df55a5762f4#ref=rss)
-### frau
+* [https://www.spiegel.de/sport/fussball/verdacht-auf-kokainschmuggel-niederlaendischer-ex-nationalspieler-quincy-promes-vor-gericht](https://www.spiegel.de/sport/fussball/verdacht-auf-kokainschmuggel-niederlaendischer-ex-nationalspieler-quincy-promes-vor-gericht-a-76cb6318-86db-4186-b24b-770988a003dd#ref=rss)
+* [https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte](https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte-a-3a50fab0-9186-49f4-b3b2-945d42a9ff57#ref=rss)
+* [https://www.spiegel.de/ausland/griechenland-tage-nach-der-havarie-kuestenwache-findet-leichen-weiterer-migranten-nahe-mykonos](https://www.spiegel.de/ausland/griechenland-tage-nach-der-havarie-kuestenwache-findet-leichen-weiterer-migranten-nahe-mykonos-a-c4526ec9-45d8-416d-bdb6-273c7f19c8ea#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/panorama/berlin-mehrere-schwerverletzte-nach-wohnungsbrand-frau-stuerzt-bei-rettungsversuch-von-leiter](https://www.spiegel.de/panorama/berlin-mehrere-schwerverletzte-nach-wohnungsbrand-frau-stuerzt-bei-rettungsversuch-von-leiter-a-69ab22b5-39ce-4f27-b0f2-ba3a9fe5652f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/streit-wegen-klimawandel-wie-umgehen-mit-leugnern-am-esstisch](https://www.spiegel.de/wissenschaft/streit-wegen-klimawandel-wie-umgehen-mit-leugnern-am-esstisch-a-ae8a1453-dc6d-4fe2-a1e3-e576299b45cc#ref=rss)
-### drohnenangriff
+* [https://www.spiegel.de/sport/fussball/frustrierter-bvb-fan-verbrennt-schal-und-loest-heckenbrand-aus](https://www.spiegel.de/sport/fussball/frustrierter-bvb-fan-verbrennt-schal-und-loest-heckenbrand-aus-a-ee01c837-b9f6-44cb-97f0-e2f8c10bf5a9#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge](https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge-a-2df3c3b5-204e-43a0-9514-ed2ce018339a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern](https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern-a-a4953ce2-ea3c-43dd-a904-617fd3241723#ref=rss)
+### karlheinz
 
-* [https://www.spiegel.de/ausland/ukraine-russland-news-am-dienstag-kreml-nennt-drohnenangriffe-auf-moskau-terrorakt](https://www.spiegel.de/ausland/ukraine-russland-news-am-dienstag-kreml-nennt-drohnenangriffe-auf-moskau-terrorakt-a-e73215fa-18e5-4e3f-8f92-e4f5bb53e398#ref=rss)
-* [https://www.spiegel.de/ausland/moskau-leichte-schaeden-bei-mutmasslichem-drohnenangriff](https://www.spiegel.de/ausland/moskau-leichte-schaeden-bei-mutmasslichem-drohnenangriff-a-683e0d9f-3fbb-4fe9-b694-0df55a5762f4#ref=rss)
-### moskau
+* [https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge](https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge-a-2df3c3b5-204e-43a0-9514-ed2ce018339a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern](https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern-a-a4953ce2-ea3c-43dd-a904-617fd3241723#ref=rss)
+### gericht
 
-* [https://www.spiegel.de/ausland/ukraine-russland-news-am-dienstag-kreml-nennt-drohnenangriffe-auf-moskau-terrorakt](https://www.spiegel.de/ausland/ukraine-russland-news-am-dienstag-kreml-nennt-drohnenangriffe-auf-moskau-terrorakt-a-e73215fa-18e5-4e3f-8f92-e4f5bb53e398#ref=rss)
-* [https://www.spiegel.de/ausland/moskau-leichte-schaeden-bei-mutmasslichem-drohnenangriff](https://www.spiegel.de/ausland/moskau-leichte-schaeden-bei-mutmasslichem-drohnenangriff-a-683e0d9f-3fbb-4fe9-b694-0df55a5762f4#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot](https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot-a-71193575-e653-4f31-8ac2-06bdf53b1da0#ref=rss)
-* [https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben](https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben-a-121ea7db-7961-464c-907b-bea03802fc79#ref=rss)
-### sohn
-
-* [https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben](https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben-a-121ea7db-7961-464c-907b-bea03802fc79#ref=rss)
-* [https://www.spiegel.de/ausland/japan-ministerpraesident-fumio-kishida-entlaesst-eigenen-sohn-nach-party-in-amtssitz](https://www.spiegel.de/ausland/japan-ministerpraesident-fumio-kishida-entlaesst-eigenen-sohn-nach-party-in-amtssitz-a-1fb839c4-0984-4405-af40-c177f1347584#ref=rss)
-### inflation
-
-* [https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum](https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum-a-c52be9f2-b930-4db3-ba62-1a470775e6dc#ref=rss)
-### china
-
-* [https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus](https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus-a-b3e712bc-7ec0-446f-a524-7efddfb4d788#ref=rss)
-### serbien
-
-* [https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus](https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus-a-b3e712bc-7ec0-446f-a524-7efddfb4d788#ref=rss)
-### unterstützung
-
-* [https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus](https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus-a-b3e712bc-7ec0-446f-a524-7efddfb4d788#ref=rss)
-### kfor
-
-* [https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus](https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus-a-b3e712bc-7ec0-446f-a524-7efddfb4d788#ref=rss)
-* [https://www.spiegel.de/ausland/was-hinter-dem-gewaltexzess-im-kosovo-steckt](https://www.spiegel.de/ausland/was-hinter-dem-gewaltexzess-im-kosovo-steckt-a-fbfccde9-9041-4118-b64f-4e4b9bcb3d8d#ref=rss)
-### norden
-
-* [https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus](https://www.spiegel.de/ausland/kosovo-china-spricht-serbien-nach-ausschreitungen-unterstuetzung-aus-a-b3e712bc-7ec0-446f-a524-7efddfb4d788#ref=rss)
-* [https://www.spiegel.de/ausland/was-hinter-dem-gewaltexzess-im-kosovo-steckt](https://www.spiegel.de/ausland/was-hinter-dem-gewaltexzess-im-kosovo-steckt-a-fbfccde9-9041-4118-b64f-4e4b9bcb3d8d#ref=rss)
-### jahren
-
-* [https://www.spiegel.de/panorama/feuchter-fruehling-in-deutschland-so-nass-war-es-laut-wetterdienst-seit-zehn-jahren-nicht](https://www.spiegel.de/panorama/feuchter-fruehling-in-deutschland-so-nass-war-es-laut-wetterdienst-seit-zehn-jahren-nicht-a-8126f425-c76e-4e21-91d0-5c7f5dcb7495#ref=rss)
-* [https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot](https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot-a-71193575-e653-4f31-8ac2-06bdf53b1da0#ref=rss)
-### lange
-
-* [https://www.spiegel.de/panorama/feuchter-fruehling-in-deutschland-so-nass-war-es-laut-wetterdienst-seit-zehn-jahren-nicht](https://www.spiegel.de/panorama/feuchter-fruehling-in-deutschland-so-nass-war-es-laut-wetterdienst-seit-zehn-jahren-nicht-a-8126f425-c76e-4e21-91d0-5c7f5dcb7495#ref=rss)
-* [https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum](https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum-a-c52be9f2-b930-4db3-ba62-1a470775e6dc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/verdacht-auf-kokainschmuggel-niederlaendischer-ex-nationalspieler-quincy-promes-vor-gericht](https://www.spiegel.de/sport/fussball/verdacht-auf-kokainschmuggel-niederlaendischer-ex-nationalspieler-quincy-promes-vor-gericht-a-76cb6318-86db-4186-b24b-770988a003dd#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gericht-beendet-insolvenzverfahren-von-galeria-karstadt-kaufhof](https://www.spiegel.de/wirtschaft/unternehmen/gericht-beendet-insolvenzverfahren-von-galeria-karstadt-kaufhof-a-fa6cc221-af70-4291-8045-14768912d613#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/feuchter-fruehling-in-deutschland-so-nass-war-es-laut-wetterdienst-seit-zehn-jahren-nicht](https://www.spiegel.de/panorama/feuchter-fruehling-in-deutschland-so-nass-war-es-laut-wetterdienst-seit-zehn-jahren-nicht-a-8126f425-c76e-4e21-91d0-5c7f5dcb7495#ref=rss)
-* [https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum](https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum-a-c52be9f2-b930-4db3-ba62-1a470775e6dc#ref=rss)
-### schachtdeckel
+* [https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte](https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte-a-3a50fab0-9186-49f4-b3b2-945d42a9ff57#ref=rss)
+* [https://www.spiegel.de/panorama/aachen-belgische-und-deutsche-feuerwehren-kaempfen-gegen-moorbrand](https://www.spiegel.de/panorama/aachen-belgische-und-deutsche-feuerwehren-kaempfen-gegen-moorbrand-a-9e5630fe-d58e-43b9-b872-63f3a6bfb277#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frankreich-oesterreich-und-niederlande-wollen-mehr-regeln-fuer-privatjets](https://www.spiegel.de/politik/deutschland/frankreich-oesterreich-und-niederlande-wollen-mehr-regeln-fuer-privatjets-a-8d31dc3d-bd06-4a11-bbbc-26a15e0f661d#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schachtdeckel-fliegen-bei-grillfeier-aus-kanalisation](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schachtdeckel-fliegen-bei-grillfeier-aus-kanalisation-a-3169640a-f1db-4c64-ad8b-a349116cfd41#ref=rss)
-### nahe
-
-* [https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schachtdeckel-fliegen-bei-grillfeier-aus-kanalisation](https://www.spiegel.de/panorama/justiz/baden-wuerttemberg-schachtdeckel-fliegen-bei-grillfeier-aus-kanalisation-a-3169640a-f1db-4c64-ad8b-a349116cfd41#ref=rss)
-### tennisprofi
-
-* [https://www.spiegel.de/sport/tennis/unruhen-im-kosovo-tennisprofi-novak-djokovic-mit-politischer-botschaft-bei-french-open](https://www.spiegel.de/sport/tennis/unruhen-im-kosovo-tennisprofi-novak-djokovic-mit-politischer-botschaft-bei-french-open-a-ab6d6283-d96a-4479-af01-370aae5b0f56#ref=rss)
-* [https://www.spiegel.de/sport/tennis/tennis-jan-lennard-struff-scheidet-bei-den-french-open-frueh-aus](https://www.spiegel.de/sport/tennis/tennis-jan-lennard-struff-scheidet-bei-den-french-open-frueh-aus-a-67594365-4c6e-41f5-b345-edc6a94508e8#ref=rss)
-### novak
-
-* [https://www.spiegel.de/sport/tennis/unruhen-im-kosovo-tennisprofi-novak-djokovic-mit-politischer-botschaft-bei-french-open](https://www.spiegel.de/sport/tennis/unruhen-im-kosovo-tennisprofi-novak-djokovic-mit-politischer-botschaft-bei-french-open-a-ab6d6283-d96a-4479-af01-370aae5b0f56#ref=rss)
-### djoković
-
-* [https://www.spiegel.de/sport/tennis/unruhen-im-kosovo-tennisprofi-novak-djokovic-mit-politischer-botschaft-bei-french-open](https://www.spiegel.de/sport/tennis/unruhen-im-kosovo-tennisprofi-novak-djokovic-mit-politischer-botschaft-bei-french-open-a-ab6d6283-d96a-4479-af01-370aae5b0f56#ref=rss)
-### internationalen
-
-* [https://www.spiegel.de/ausland/was-hinter-dem-gewaltexzess-im-kosovo-steckt](https://www.spiegel.de/ausland/was-hinter-dem-gewaltexzess-im-kosovo-steckt-a-fbfccde9-9041-4118-b64f-4e4b9bcb3d8d#ref=rss)
-* [https://www.spiegel.de/panorama/frankfurt-am-main-15-jaehriger-nach-schlaegerei-bei-fussballturnier-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/frankfurt-am-main-15-jaehriger-nach-schlaegerei-bei-fussballturnier-lebensgefaehrlich-verletzt-a-1861b299-3a4f-4f1d-b28f-72eb0aa90f14#ref=rss)
-### ki
-
-* [https://www.spiegel.de/panorama/bildung/ki-in-der-schule-macht-chatgpt-jetzt-abitur](https://www.spiegel.de/panorama/bildung/ki-in-der-schule-macht-chatgpt-jetzt-abitur-a-fb3cdcd9-c9d1-444e-89ce-7dbbab353920#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/panorama/bildung/ki-in-der-schule-macht-chatgpt-jetzt-abitur](https://www.spiegel.de/panorama/bildung/ki-in-der-schule-macht-chatgpt-jetzt-abitur-a-fb3cdcd9-c9d1-444e-89ce-7dbbab353920#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beharrt-auf-vollstaendiger-beantwortung-des-fdp-fragenkatalogs](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beharrt-auf-vollstaendiger-beantwortung-des-fdp-fragenkatalogs-a-c13ffc44-40b3-43f7-87ad-4fff9d323dc3#ref=rss)
-### fußballturnier
-
-* [https://www.spiegel.de/panorama/frankfurt-am-main-15-jaehriger-nach-schlaegerei-bei-fussballturnier-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/frankfurt-am-main-15-jaehriger-nach-schlaegerei-bei-fussballturnier-lebensgefaehrlich-verletzt-a-1861b299-3a4f-4f1d-b28f-72eb0aa90f14#ref=rss)
-### ersten
-
-* [https://www.spiegel.de/panorama/berlin-mehrere-schwerverletzte-nach-wohnungsbrand-frau-stuerzt-bei-rettungsversuch-von-leiter](https://www.spiegel.de/panorama/berlin-mehrere-schwerverletzte-nach-wohnungsbrand-frau-stuerzt-bei-rettungsversuch-von-leiter-a-69ab22b5-39ce-4f27-b0f2-ba3a9fe5652f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/realloehne-sinken-2023-wohl-das-vierte-jahr-in-folge](https://www.spiegel.de/wirtschaft/realloehne-sinken-2023-wohl-das-vierte-jahr-in-folge-a-34fd976e-5bf5-4a51-858d-6be40d459319#ref=rss)
-### daten
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/mcna-hacker-stellen-daten-von-neun-millionen-us-patienten-ins-netz](https://www.spiegel.de/netzwelt/netzpolitik/mcna-hacker-stellen-daten-von-neun-millionen-us-patienten-ins-netz-a-a9c70277-ac0f-452b-bad6-7b57d82ddb57#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/netzwelt/netzpolitik/mcna-hacker-stellen-daten-von-neun-millionen-us-patienten-ins-netz](https://www.spiegel.de/netzwelt/netzpolitik/mcna-hacker-stellen-daten-von-neun-millionen-us-patienten-ins-netz-a-a9c70277-ac0f-452b-bad6-7b57d82ddb57#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unions-energieexperte-warnt-vor-ansturm-auf-neue-oel-und-gasheizungen](https://www.spiegel.de/wirtschaft/unions-energieexperte-warnt-vor-ansturm-auf-neue-oel-und-gasheizungen-a-b517c488-8d68-48a1-99cb-108eff2de750#ref=rss)
-### kubicki
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beharrt-auf-vollstaendiger-beantwortung-des-fdp-fragenkatalogs](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beharrt-auf-vollstaendiger-beantwortung-des-fdp-fragenkatalogs-a-c13ffc44-40b3-43f7-87ad-4fff9d323dc3#ref=rss)
-### umstrittenen
-
-* [https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beharrt-auf-vollstaendiger-beantwortung-des-fdp-fragenkatalogs](https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-beharrt-auf-vollstaendiger-beantwortung-des-fdp-fragenkatalogs-a-c13ffc44-40b3-43f7-87ad-4fff9d323dc3#ref=rss)
-* [https://www.spiegel.de/ausland/italien-giorgia-meloni-vergleicht-steuerforderungen-fuer-kleinunternehmer-mit-schutzgeld-der-mafia](https://www.spiegel.de/ausland/italien-giorgia-meloni-vergleicht-steuerforderungen-fuer-kleinunternehmer-mit-schutzgeld-der-mafia-a-29a8e339-8777-4551-8f09-6c263002775b#ref=rss)
-### mawson
-
-* [https://www.spiegel.de/wissenschaft/australien-big-ben-spuckt-lava](https://www.spiegel.de/wissenschaft/australien-big-ben-spuckt-lava-a-d27cec12-1649-483e-9946-5565b5dd1b22#ref=rss)
-### peak
-
-* [https://www.spiegel.de/wissenschaft/australien-big-ben-spuckt-lava](https://www.spiegel.de/wissenschaft/australien-big-ben-spuckt-lava-a-d27cec12-1649-483e-9946-5565b5dd1b22#ref=rss)
-### big
-
-* [https://www.spiegel.de/wissenschaft/australien-big-ben-spuckt-lava](https://www.spiegel.de/wissenschaft/australien-big-ben-spuckt-lava-a-d27cec12-1649-483e-9946-5565b5dd1b22#ref=rss)
-### ben
-
-* [https://www.spiegel.de/wissenschaft/australien-big-ben-spuckt-lava](https://www.spiegel.de/wissenschaft/australien-big-ben-spuckt-lava-a-d27cec12-1649-483e-9946-5565b5dd1b22#ref=rss)
-### spuckt
-
-* [https://www.spiegel.de/wissenschaft/australien-big-ben-spuckt-lava](https://www.spiegel.de/wissenschaft/australien-big-ben-spuckt-lava-a-d27cec12-1649-483e-9946-5565b5dd1b22#ref=rss)
-### lava
-
-* [https://www.spiegel.de/wissenschaft/australien-big-ben-spuckt-lava](https://www.spiegel.de/wissenschaft/australien-big-ben-spuckt-lava-a-d27cec12-1649-483e-9946-5565b5dd1b22#ref=rss)
-### kaufkraft
-
-* [https://www.spiegel.de/wirtschaft/realloehne-sinken-2023-wohl-das-vierte-jahr-in-folge](https://www.spiegel.de/wirtschaft/realloehne-sinken-2023-wohl-das-vierte-jahr-in-folge-a-34fd976e-5bf5-4a51-858d-6be40d459319#ref=rss)
-### quartal
-
-* [https://www.spiegel.de/wirtschaft/realloehne-sinken-2023-wohl-das-vierte-jahr-in-folge](https://www.spiegel.de/wirtschaft/realloehne-sinken-2023-wohl-das-vierte-jahr-in-folge-a-34fd976e-5bf5-4a51-858d-6be40d459319#ref=rss)
-### hoher
-
-* [https://www.spiegel.de/wirtschaft/realloehne-sinken-2023-wohl-das-vierte-jahr-in-folge](https://www.spiegel.de/wirtschaft/realloehne-sinken-2023-wohl-das-vierte-jahr-in-folge-a-34fd976e-5bf5-4a51-858d-6be40d459319#ref=rss)
-* [https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum](https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum-a-c52be9f2-b930-4db3-ba62-1a470775e6dc#ref=rss)
+* [https://www.spiegel.de/sport/fussball/deutsche-u17-schlaegt-polen-und-steht-im-em-finale](https://www.spiegel.de/sport/fussball/deutsche-u17-schlaegt-polen-und-steht-im-em-finale-a-36301c4a-9e6b-48e0-8f55-8b8330536a85#ref=rss)
+* [https://www.spiegel.de/panorama/aachen-belgische-und-deutsche-feuerwehren-kaempfen-gegen-moorbrand](https://www.spiegel.de/panorama/aachen-belgische-und-deutsche-feuerwehren-kaempfen-gegen-moorbrand-a-9e5630fe-d58e-43b9-b872-63f3a6bfb277#ref=rss)
 ### ende
 
-* [https://www.spiegel.de/wirtschaft/realloehne-sinken-2023-wohl-das-vierte-jahr-in-folge](https://www.spiegel.de/wirtschaft/realloehne-sinken-2023-wohl-das-vierte-jahr-in-folge-a-34fd976e-5bf5-4a51-858d-6be40d459319#ref=rss)
-* [https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum](https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum-a-c52be9f2-b930-4db3-ba62-1a470775e6dc#ref=rss)
-### präsidentenberater
+* [https://www.spiegel.de/sport/fussball/frustrierter-bvb-fan-verbrennt-schal-und-loest-heckenbrand-aus](https://www.spiegel.de/sport/fussball/frustrierter-bvb-fan-verbrennt-schal-und-loest-heckenbrand-aus-a-ee01c837-b9f6-44cb-97f0-e2f8c10bf5a9#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/gericht-beendet-insolvenzverfahren-von-galeria-karstadt-kaufhof](https://www.spiegel.de/wirtschaft/unternehmen/gericht-beendet-insolvenzverfahren-von-galeria-karstadt-kaufhof-a-fa6cc221-af70-4291-8045-14768912d613#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/risiko-der-ausloeschung-ki-koryphaeen-von-openai-und-google-warnen](https://www.spiegel.de/netzwelt/netzpolitik/risiko-der-ausloeschung-ki-koryphaeen-von-openai-und-google-warnen-a-b5c4539b-26cc-4461-8884-a784061e4e25#ref=rss)
+### fc
 
-* [https://www.spiegel.de/ausland/ukraine-russland-news-am-dienstag-kreml-nennt-drohnenangriffe-auf-moskau-terrorakt](https://www.spiegel.de/ausland/ukraine-russland-news-am-dienstag-kreml-nennt-drohnenangriffe-auf-moskau-terrorakt-a-e73215fa-18e5-4e3f-8f92-e4f5bb53e398#ref=rss)
-### neben
+* [https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge](https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge-a-2df3c3b5-204e-43a0-9514-ed2ce018339a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern](https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern-a-a4953ce2-ea3c-43dd-a904-617fd3241723#ref=rss)
+### jüdischen
 
-* [https://www.spiegel.de/wirtschaft/italien-60-jaehriger-schlaeft-jahrelang-neben-toter-mutter-und-kassiert-ihre-rente](https://www.spiegel.de/wirtschaft/italien-60-jaehriger-schlaeft-jahrelang-neben-toter-mutter-und-kassiert-ihre-rente-a-cf028717-eba6-4dac-912a-e4e7621ea946#ref=rss)
-### mutter
+* [https://www.spiegel.de/kultur/claudia-roth-bei-jewrovision-ausgebuht-offener-brief-von-juedischen-promis-1685460754](https://www.spiegel.de/kultur/claudia-roth-bei-jewrovision-ausgebuht-offener-brief-von-juedischen-promis-1685460754-a-0a0f3da8-30f1-4a5f-a431-6c7e008e334c#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/wirtschaft/italien-60-jaehriger-schlaeft-jahrelang-neben-toter-mutter-und-kassiert-ihre-rente](https://www.spiegel.de/wirtschaft/italien-60-jaehriger-schlaeft-jahrelang-neben-toter-mutter-und-kassiert-ihre-rente-a-cf028717-eba6-4dac-912a-e4e7621ea946#ref=rss)
-### rente
+* [https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt](https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt-a-42ef0577-2e7d-453a-b95d-a5fb1d9a759a#ref=rss)
+* [https://www.spiegel.de/ausland/nato-entsendet-zusaetzliche-einheiten-in-das-kosovo](https://www.spiegel.de/ausland/nato-entsendet-zusaetzliche-einheiten-in-das-kosovo-a-2a244685-3662-40fd-97e9-301ccda65461#ref=rss)
+### moschee
 
-* [https://www.spiegel.de/wirtschaft/italien-60-jaehriger-schlaeft-jahrelang-neben-toter-mutter-und-kassiert-ihre-rente](https://www.spiegel.de/wirtschaft/italien-60-jaehriger-schlaeft-jahrelang-neben-toter-mutter-und-kassiert-ihre-rente-a-cf028717-eba6-4dac-912a-e4e7621ea946#ref=rss)
-### giorgia
+* [https://www.spiegel.de/panorama/hannover-feuer-an-tuerkischer-moschee-gemeinde-vermutet-anschlag](https://www.spiegel.de/panorama/hannover-feuer-an-tuerkischer-moschee-gemeinde-vermutet-anschlag-a-2403bce4-4033-4c07-a3ad-63b2bd81b926#ref=rss)
+* [https://www.spiegel.de/ausland/china-demonstranten-liefern-sich-auseinandersetzung-mit-polizisten](https://www.spiegel.de/ausland/china-demonstranten-liefern-sich-auseinandersetzung-mit-polizisten-a-5fd92e73-718d-4e90-97f5-0c61eb57731d#ref=rss)
+### quincy
 
-* [https://www.spiegel.de/ausland/italien-giorgia-meloni-vergleicht-steuerforderungen-fuer-kleinunternehmer-mit-schutzgeld-der-mafia](https://www.spiegel.de/ausland/italien-giorgia-meloni-vergleicht-steuerforderungen-fuer-kleinunternehmer-mit-schutzgeld-der-mafia-a-29a8e339-8777-4551-8f09-6c263002775b#ref=rss)
-### meloni
+* [https://www.spiegel.de/sport/fussball/verdacht-auf-kokainschmuggel-niederlaendischer-ex-nationalspieler-quincy-promes-vor-gericht](https://www.spiegel.de/sport/fussball/verdacht-auf-kokainschmuggel-niederlaendischer-ex-nationalspieler-quincy-promes-vor-gericht-a-76cb6318-86db-4186-b24b-770988a003dd#ref=rss)
+### promes
 
-* [https://www.spiegel.de/ausland/italien-giorgia-meloni-vergleicht-steuerforderungen-fuer-kleinunternehmer-mit-schutzgeld-der-mafia](https://www.spiegel.de/ausland/italien-giorgia-meloni-vergleicht-steuerforderungen-fuer-kleinunternehmer-mit-schutzgeld-der-mafia-a-29a8e339-8777-4551-8f09-6c263002775b#ref=rss)
+* [https://www.spiegel.de/sport/fussball/verdacht-auf-kokainschmuggel-niederlaendischer-ex-nationalspieler-quincy-promes-vor-gericht](https://www.spiegel.de/sport/fussball/verdacht-auf-kokainschmuggel-niederlaendischer-ex-nationalspieler-quincy-promes-vor-gericht-a-76cb6318-86db-4186-b24b-770988a003dd#ref=rss)
+### italien
+
+* [https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte](https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte-a-3a50fab0-9186-49f4-b3b2-945d42a9ff57#ref=rss)
+### schulbus
+
+* [https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte](https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte-a-3a50fab0-9186-49f4-b3b2-945d42a9ff57#ref=rss)
+### schwerverletzte
+
+* [https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte](https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte-a-3a50fab0-9186-49f4-b3b2-945d42a9ff57#ref=rss)
+### straße
+
+* [https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte](https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte-a-3a50fab0-9186-49f4-b3b2-945d42a9ff57#ref=rss)
+* [https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt](https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt-a-42ef0577-2e7d-453a-b95d-a5fb1d9a759a#ref=rss)
+### abgekommen
+
+* [https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte](https://www.spiegel.de/panorama/italien-schulbus-stuerzt-mehr-als-100-meter-in-die-tiefe-mehrere-schwerverletzte-a-3a50fab0-9186-49f4-b3b2-945d42a9ff57#ref=rss)
+* [https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt](https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt-a-42ef0577-2e7d-453a-b95d-a5fb1d9a759a#ref=rss)
+### u17
+
+* [https://www.spiegel.de/sport/fussball/deutsche-u17-schlaegt-polen-und-steht-im-em-finale](https://www.spiegel.de/sport/fussball/deutsche-u17-schlaegt-polen-und-steht-im-em-finale-a-36301c4a-9e6b-48e0-8f55-8b8330536a85#ref=rss)
+### polen
+
+* [https://www.spiegel.de/sport/fussball/deutsche-u17-schlaegt-polen-und-steht-im-em-finale](https://www.spiegel.de/sport/fussball/deutsche-u17-schlaegt-polen-und-steht-im-em-finale-a-36301c4a-9e6b-48e0-8f55-8b8330536a85#ref=rss)
+### emfinale
+
+* [https://www.spiegel.de/sport/fussball/deutsche-u17-schlaegt-polen-und-steht-im-em-finale](https://www.spiegel.de/sport/fussball/deutsche-u17-schlaegt-polen-und-steht-im-em-finale-a-36301c4a-9e6b-48e0-8f55-8b8330536a85#ref=rss)
+### fünf
+
+* [https://www.spiegel.de/sport/fussball/deutsche-u17-schlaegt-polen-und-steht-im-em-finale](https://www.spiegel.de/sport/fussball/deutsche-u17-schlaegt-polen-und-steht-im-em-finale-a-36301c4a-9e6b-48e0-8f55-8b8330536a85#ref=rss)
+### rückkehr
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge](https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge-a-2df3c3b5-204e-43a0-9514-ed2ce018339a#ref=rss)
+### neuen
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge](https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge-a-2df3c3b5-204e-43a0-9514-ed2ce018339a#ref=rss)
+* [https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern](https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern-a-a4953ce2-ea3c-43dd-a904-617fd3241723#ref=rss)
+### hoeneß
+
+* [https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge](https://www.spiegel.de/sport/fussball/fc-bayern-was-bedeutet-die-rueckkehr-von-karl-heinz-rummenigge-a-2df3c3b5-204e-43a0-9514-ed2ce018339a#ref=rss)
 ### peter
 
-* [https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot](https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot-a-71193575-e653-4f31-8ac2-06bdf53b1da0#ref=rss)
+* [https://www.spiegel.de/kultur/zum-tod-des-schauspielers-peter-simonischek-kraftmeier-mit-zartgefuehl](https://www.spiegel.de/kultur/zum-tod-des-schauspielers-peter-simonischek-kraftmeier-mit-zartgefuehl-a-fbd4a26c-6d03-4649-a9fa-0ce6bb9ef763#ref=rss)
 ### simonischek
 
-* [https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot](https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot-a-71193575-e653-4f31-8ac2-06bdf53b1da0#ref=rss)
-### jedermann
+* [https://www.spiegel.de/kultur/zum-tod-des-schauspielers-peter-simonischek-kraftmeier-mit-zartgefuehl](https://www.spiegel.de/kultur/zum-tod-des-schauspielers-peter-simonischek-kraftmeier-mit-zartgefuehl-a-fbd4a26c-6d03-4649-a9fa-0ce6bb9ef763#ref=rss)
+### feierte
 
-* [https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot](https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot-a-71193575-e653-4f31-8ac2-06bdf53b1da0#ref=rss)
-### toni
+* [https://www.spiegel.de/kultur/zum-tod-des-schauspielers-peter-simonischek-kraftmeier-mit-zartgefuehl](https://www.spiegel.de/kultur/zum-tod-des-schauspielers-peter-simonischek-kraftmeier-mit-zartgefuehl-a-fbd4a26c-6d03-4649-a9fa-0ce6bb9ef763#ref=rss)
+* [https://www.spiegel.de/sport/boris-herrmann-beim-ocean-race-ein-weltrekord-ein-whiskey-und-eine-kampfansage](https://www.spiegel.de/sport/boris-herrmann-beim-ocean-race-ein-weltrekord-ein-whiskey-und-eine-kampfansage-a-11e9b804-ac8a-490a-81b6-26af0bbfce4d#ref=rss)
+### aachen
 
-* [https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot](https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot-a-71193575-e653-4f31-8ac2-06bdf53b1da0#ref=rss)
-### alter
+* [https://www.spiegel.de/panorama/aachen-belgische-und-deutsche-feuerwehren-kaempfen-gegen-moorbrand](https://www.spiegel.de/panorama/aachen-belgische-und-deutsche-feuerwehren-kaempfen-gegen-moorbrand-a-9e5630fe-d58e-43b9-b872-63f3a6bfb277#ref=rss)
+### brand
 
-* [https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot](https://www.spiegel.de/kultur/kino/peter-simonischek-jedermann-und-toni-erdmann-star-ist-tot-a-71193575-e653-4f31-8ac2-06bdf53b1da0#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unions-energieexperte-warnt-vor-ansturm-auf-neue-oel-und-gasheizungen](https://www.spiegel.de/wirtschaft/unions-energieexperte-warnt-vor-ansturm-auf-neue-oel-und-gasheizungen-a-b517c488-8d68-48a1-99cb-108eff2de750#ref=rss)
-### adobe
+* [https://www.spiegel.de/panorama/aachen-belgische-und-deutsche-feuerwehren-kaempfen-gegen-moorbrand](https://www.spiegel.de/panorama/aachen-belgische-und-deutsche-feuerwehren-kaempfen-gegen-moorbrand-a-9e5630fe-d58e-43b9-b872-63f3a6bfb277#ref=rss)
+* [https://www.spiegel.de/panorama/hannover-feuer-an-tuerkischer-moschee-gemeinde-vermutet-anschlag](https://www.spiegel.de/panorama/hannover-feuer-an-tuerkischer-moschee-gemeinde-vermutet-anschlag-a-2403bce4-4033-4c07-a3ad-63b2bd81b926#ref=rss)
+### claudia
 
-* [https://www.spiegel.de/netzwelt/web/adobe-photoshop-das-neue-feature-generative-fuellung-im-test](https://www.spiegel.de/netzwelt/web/adobe-photoshop-das-neue-feature-generative-fuellung-im-test-a-4d18bc6e-25fd-4302-aaa3-d104feb8d82f#ref=rss)
-### neue
+* [https://www.spiegel.de/kultur/claudia-roth-bei-jewrovision-ausgebuht-offener-brief-von-juedischen-promis-1685460754](https://www.spiegel.de/kultur/claudia-roth-bei-jewrovision-ausgebuht-offener-brief-von-juedischen-promis-1685460754-a-0a0f3da8-30f1-4a5f-a431-6c7e008e334c#ref=rss)
+### roth
 
-* [https://www.spiegel.de/netzwelt/web/adobe-photoshop-das-neue-feature-generative-fuellung-im-test](https://www.spiegel.de/netzwelt/web/adobe-photoshop-das-neue-feature-generative-fuellung-im-test-a-4d18bc6e-25fd-4302-aaa3-d104feb8d82f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unions-energieexperte-warnt-vor-ansturm-auf-neue-oel-und-gasheizungen](https://www.spiegel.de/wirtschaft/unions-energieexperte-warnt-vor-ansturm-auf-neue-oel-und-gasheizungen-a-b517c488-8d68-48a1-99cb-108eff2de750#ref=rss)
-### füllung
+* [https://www.spiegel.de/kultur/claudia-roth-bei-jewrovision-ausgebuht-offener-brief-von-juedischen-promis-1685460754](https://www.spiegel.de/kultur/claudia-roth-bei-jewrovision-ausgebuht-offener-brief-von-juedischen-promis-1685460754-a-0a0f3da8-30f1-4a5f-a431-6c7e008e334c#ref=rss)
+### ausgebuht
 
-* [https://www.spiegel.de/netzwelt/web/adobe-photoshop-das-neue-feature-generative-fuellung-im-test](https://www.spiegel.de/netzwelt/web/adobe-photoshop-das-neue-feature-generative-fuellung-im-test-a-4d18bc6e-25fd-4302-aaa3-d104feb8d82f#ref=rss)
-### ausbildung
+* [https://www.spiegel.de/kultur/claudia-roth-bei-jewrovision-ausgebuht-offener-brief-von-juedischen-promis-1685460754](https://www.spiegel.de/kultur/claudia-roth-bei-jewrovision-ausgebuht-offener-brief-von-juedischen-promis-1685460754-a-0a0f3da8-30f1-4a5f-a431-6c7e008e334c#ref=rss)
+### brief
 
-* [https://www.spiegel.de/start/ausbildung-jeder-zweite-azubi-bemaengelt-fehlende-schulische-berufsorientierung](https://www.spiegel.de/start/ausbildung-jeder-zweite-azubi-bemaengelt-fehlende-schulische-berufsorientierung-a-ffad4ce3-d97f-456b-9255-67b717c5310d#ref=rss)
-### klimawandel
+* [https://www.spiegel.de/kultur/claudia-roth-bei-jewrovision-ausgebuht-offener-brief-von-juedischen-promis-1685460754](https://www.spiegel.de/kultur/claudia-roth-bei-jewrovision-ausgebuht-offener-brief-von-juedischen-promis-1685460754-a-0a0f3da8-30f1-4a5f-a431-6c7e008e334c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frankreich-oesterreich-und-niederlande-wollen-mehr-regeln-fuer-privatjets](https://www.spiegel.de/politik/deutschland/frankreich-oesterreich-und-niederlande-wollen-mehr-regeln-fuer-privatjets-a-8d31dc3d-bd06-4a11-bbbc-26a15e0f661d#ref=rss)
+### insolvenzverfahren
 
-* [https://www.spiegel.de/wissenschaft/streit-wegen-klimawandel-wie-umgehen-mit-leugnern-am-esstisch](https://www.spiegel.de/wissenschaft/streit-wegen-klimawandel-wie-umgehen-mit-leugnern-am-esstisch-a-ae8a1453-dc6d-4fe2-a1e3-e576299b45cc#ref=rss)
-### junge
+* [https://www.spiegel.de/wirtschaft/unternehmen/gericht-beendet-insolvenzverfahren-von-galeria-karstadt-kaufhof](https://www.spiegel.de/wirtschaft/unternehmen/gericht-beendet-insolvenzverfahren-von-galeria-karstadt-kaufhof-a-fa6cc221-af70-4291-8045-14768912d613#ref=rss)
+### deutschlands
 
-* [https://www.spiegel.de/wissenschaft/streit-wegen-klimawandel-wie-umgehen-mit-leugnern-am-esstisch](https://www.spiegel.de/wissenschaft/streit-wegen-klimawandel-wie-umgehen-mit-leugnern-am-esstisch-a-ae8a1453-dc6d-4fe2-a1e3-e576299b45cc#ref=rss)
-* [https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben](https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben-a-121ea7db-7961-464c-907b-bea03802fc79#ref=rss)
-### sloane
+* [https://www.spiegel.de/wirtschaft/unternehmen/gericht-beendet-insolvenzverfahren-von-galeria-karstadt-kaufhof](https://www.spiegel.de/wirtschaft/unternehmen/gericht-beendet-insolvenzverfahren-von-galeria-karstadt-kaufhof-a-fa6cc221-af70-4291-8045-14768912d613#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oekonomen-rechnen-fuer-das-gesamte-laufende-jahr-mit-rezession](https://www.spiegel.de/wirtschaft/oekonomen-rechnen-fuer-das-gesamte-laufende-jahr-mit-rezession-a-c720f567-cda8-4805-a2b8-1ae6b2f05fc0#ref=rss)
+### küstenwache
 
-* [https://www.spiegel.de/sport/tennis/tennis-sloane-stephens-prangert-rassismus-im-sport-an](https://www.spiegel.de/sport/tennis/tennis-sloane-stephens-prangert-rassismus-im-sport-an-a-7273e2be-f96a-4802-97a7-0c9f7b9664eb#ref=rss)
-### stephens
+* [https://www.spiegel.de/ausland/griechenland-tage-nach-der-havarie-kuestenwache-findet-leichen-weiterer-migranten-nahe-mykonos](https://www.spiegel.de/ausland/griechenland-tage-nach-der-havarie-kuestenwache-findet-leichen-weiterer-migranten-nahe-mykonos-a-c4526ec9-45d8-416d-bdb6-273c7f19c8ea#ref=rss)
+### leichen
 
-* [https://www.spiegel.de/sport/tennis/tennis-sloane-stephens-prangert-rassismus-im-sport-an](https://www.spiegel.de/sport/tennis/tennis-sloane-stephens-prangert-rassismus-im-sport-an-a-7273e2be-f96a-4802-97a7-0c9f7b9664eb#ref=rss)
-### rassismus
+* [https://www.spiegel.de/ausland/griechenland-tage-nach-der-havarie-kuestenwache-findet-leichen-weiterer-migranten-nahe-mykonos](https://www.spiegel.de/ausland/griechenland-tage-nach-der-havarie-kuestenwache-findet-leichen-weiterer-migranten-nahe-mykonos-a-c4526ec9-45d8-416d-bdb6-273c7f19c8ea#ref=rss)
+### migranten
 
-* [https://www.spiegel.de/sport/tennis/tennis-sloane-stephens-prangert-rassismus-im-sport-an](https://www.spiegel.de/sport/tennis/tennis-sloane-stephens-prangert-rassismus-im-sport-an-a-7273e2be-f96a-4802-97a7-0c9f7b9664eb#ref=rss)
-### bornheim
+* [https://www.spiegel.de/ausland/griechenland-tage-nach-der-havarie-kuestenwache-findet-leichen-weiterer-migranten-nahe-mykonos](https://www.spiegel.de/ausland/griechenland-tage-nach-der-havarie-kuestenwache-findet-leichen-weiterer-migranten-nahe-mykonos-a-c4526ec9-45d8-416d-bdb6-273c7f19c8ea#ref=rss)
+### nahe
 
-* [https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben](https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben-a-121ea7db-7961-464c-907b-bea03802fc79#ref=rss)
-### siebenjähriger
+* [https://www.spiegel.de/ausland/griechenland-tage-nach-der-havarie-kuestenwache-findet-leichen-weiterer-migranten-nahe-mykonos](https://www.spiegel.de/ausland/griechenland-tage-nach-der-havarie-kuestenwache-findet-leichen-weiterer-migranten-nahe-mykonos-a-c4526ec9-45d8-416d-bdb6-273c7f19c8ea#ref=rss)
+### mykonos
 
-* [https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben](https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben-a-121ea7db-7961-464c-907b-bea03802fc79#ref=rss)
-### vater
+* [https://www.spiegel.de/ausland/griechenland-tage-nach-der-havarie-kuestenwache-findet-leichen-weiterer-migranten-nahe-mykonos](https://www.spiegel.de/ausland/griechenland-tage-nach-der-havarie-kuestenwache-findet-leichen-weiterer-migranten-nahe-mykonos-a-c4526ec9-45d8-416d-bdb6-273c7f19c8ea#ref=rss)
+### chemnitz
 
-* [https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben](https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben-a-121ea7db-7961-464c-907b-bea03802fc79#ref=rss)
-### rund
+* [https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt](https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt-a-42ef0577-2e7d-453a-b95d-a5fb1d9a759a#ref=rss)
+### auto
 
-* [https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben](https://www.spiegel.de/panorama/bornheim-siebenjaehriger-junge-und-vater-nach-rettung-aus-dem-rhein-gestorben-a-121ea7db-7961-464c-907b-bea03802fc79#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unions-energieexperte-warnt-vor-ansturm-auf-neue-oel-und-gasheizungen](https://www.spiegel.de/wirtschaft/unions-energieexperte-warnt-vor-ansturm-auf-neue-oel-und-gasheizungen-a-b517c488-8d68-48a1-99cb-108eff2de750#ref=rss)
-### finanzexperten
+* [https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt](https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt-a-42ef0577-2e7d-453a-b95d-a5fb1d9a759a#ref=rss)
+### sieben
 
-* [https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum](https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum-a-c52be9f2-b930-4db3-ba62-1a470775e6dc#ref=rss)
-### beurteilen
+* [https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt](https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt-a-42ef0577-2e7d-453a-b95d-a5fb1d9a759a#ref=rss)
+### kinder
 
-* [https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum](https://www.spiegel.de/wirtschaft/finanzexperten-rechnen-auf-lange-sicht-mit-hoher-inflation-im-euroraum-a-c52be9f2-b930-4db3-ba62-1a470775e6dc#ref=rss)
-* [https://www.spiegel.de/wirtschaft/wahlsieg-von-erdogan-sorgt-fuer-wertverfall-der-tuerkischen-lira](https://www.spiegel.de/wirtschaft/wahlsieg-von-erdogan-sorgt-fuer-wertverfall-der-tuerkischen-lira-a-56f909a7-e852-438b-be32-5057f6ddec42#ref=rss)
-### janlennard
+* [https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt](https://www.spiegel.de/panorama/chemnitz-auto-faehrt-in-kitagruppe-sieben-kinder-verletzt-a-42ef0577-2e7d-453a-b95d-a5fb1d9a759a#ref=rss)
+### french
 
-* [https://www.spiegel.de/sport/tennis/tennis-jan-lennard-struff-scheidet-bei-den-french-open-frueh-aus](https://www.spiegel.de/sport/tennis/tennis-jan-lennard-struff-scheidet-bei-den-french-open-frueh-aus-a-67594365-4c6e-41f5-b345-edc6a94508e8#ref=rss)
-### struff
+* [https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris](https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris-a-eeed4e9d-5dbf-4094-a900-de8423b4718f#ref=rss)
+### open
 
-* [https://www.spiegel.de/sport/tennis/tennis-jan-lennard-struff-scheidet-bei-den-french-open-frueh-aus](https://www.spiegel.de/sport/tennis/tennis-jan-lennard-struff-scheidet-bei-den-french-open-frueh-aus-a-67594365-4c6e-41f5-b345-edc6a94508e8#ref=rss)
-### paris
+* [https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris](https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris-a-eeed4e9d-5dbf-4094-a900-de8423b4718f#ref=rss)
+### alexander
 
-* [https://www.spiegel.de/sport/tennis/tennis-jan-lennard-struff-scheidet-bei-den-french-open-frueh-aus](https://www.spiegel.de/sport/tennis/tennis-jan-lennard-struff-scheidet-bei-den-french-open-frueh-aus-a-67594365-4c6e-41f5-b345-edc6a94508e8#ref=rss)
-### recep
+* [https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris](https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris-a-eeed4e9d-5dbf-4094-a900-de8423b4718f#ref=rss)
+### zverev
 
-* [https://www.spiegel.de/wirtschaft/wahlsieg-von-erdogan-sorgt-fuer-wertverfall-der-tuerkischen-lira](https://www.spiegel.de/wirtschaft/wahlsieg-von-erdogan-sorgt-fuer-wertverfall-der-tuerkischen-lira-a-56f909a7-e852-438b-be32-5057f6ddec42#ref=rss)
-### tayyip
+* [https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris](https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris-a-eeed4e9d-5dbf-4094-a900-de8423b4718f#ref=rss)
+### lloyd
 
-* [https://www.spiegel.de/wirtschaft/wahlsieg-von-erdogan-sorgt-fuer-wertverfall-der-tuerkischen-lira](https://www.spiegel.de/wirtschaft/wahlsieg-von-erdogan-sorgt-fuer-wertverfall-der-tuerkischen-lira-a-56f909a7-e852-438b-be32-5057f6ddec42#ref=rss)
-### erdoğan
+* [https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris](https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris-a-eeed4e9d-5dbf-4094-a900-de8423b4718f#ref=rss)
+### harris
 
-* [https://www.spiegel.de/wirtschaft/wahlsieg-von-erdogan-sorgt-fuer-wertverfall-der-tuerkischen-lira](https://www.spiegel.de/wirtschaft/wahlsieg-von-erdogan-sorgt-fuer-wertverfall-der-tuerkischen-lira-a-56f909a7-e852-438b-be32-5057f6ddec42#ref=rss)
-### venedig
+* [https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris](https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris-a-eeed4e9d-5dbf-4094-a900-de8423b4718f#ref=rss)
+### jahr
 
-* [https://www.spiegel.de/panorama/venedig-ursache-fuer-gruen-verfaerbten-canal-grande-ist-geklaert](https://www.spiegel.de/panorama/venedig-ursache-fuer-gruen-verfaerbten-canal-grande-ist-geklaert-a-3abe779d-7032-40ba-9474-f1d10c8ad6cc#ref=rss)
-### canal
+* [https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris](https://www.spiegel.de/sport/tennis/french-open-alexander-zverev-siegt-gegen-lloyd-harris-a-eeed4e9d-5dbf-4094-a900-de8423b4718f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oekonomen-rechnen-fuer-das-gesamte-laufende-jahr-mit-rezession](https://www.spiegel.de/wirtschaft/oekonomen-rechnen-fuer-das-gesamte-laufende-jahr-mit-rezession-a-c720f567-cda8-4805-a2b8-1ae6b2f05fc0#ref=rss)
+### drohnen
 
-* [https://www.spiegel.de/panorama/venedig-ursache-fuer-gruen-verfaerbten-canal-grande-ist-geklaert](https://www.spiegel.de/panorama/venedig-ursache-fuer-gruen-verfaerbten-canal-grande-ist-geklaert-a-3abe779d-7032-40ba-9474-f1d10c8ad6cc#ref=rss)
-### grande
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-drohnen-ueber-moskau-wolfgang-kubick-gebaeudeenergiegesetz-kosovo-und-serbien](https://www.spiegel.de/politik/deutschland/news-des-tages-drohnen-ueber-moskau-wolfgang-kubick-gebaeudeenergiegesetz-kosovo-und-serbien-a-71ad54c2-6696-4b4d-8dc4-0aee5b88506e#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-mai-der-raketen-in-kiew](https://www.spiegel.de/ausland/krieg-in-der-ukraine-mai-der-raketen-in-kiew-a-8398283d-b283-474d-a704-e5e8f116530e#ref=rss)
+### moskau
 
-* [https://www.spiegel.de/panorama/venedig-ursache-fuer-gruen-verfaerbten-canal-grande-ist-geklaert](https://www.spiegel.de/panorama/venedig-ursache-fuer-gruen-verfaerbten-canal-grande-ist-geklaert-a-3abe779d-7032-40ba-9474-f1d10c8ad6cc#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-drohnen-ueber-moskau-wolfgang-kubick-gebaeudeenergiegesetz-kosovo-und-serbien](https://www.spiegel.de/politik/deutschland/news-des-tages-drohnen-ueber-moskau-wolfgang-kubick-gebaeudeenergiegesetz-kosovo-und-serbien-a-71ad54c2-6696-4b4d-8dc4-0aee5b88506e#ref=rss)
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-mai-der-raketen-in-kiew](https://www.spiegel.de/ausland/krieg-in-der-ukraine-mai-der-raketen-in-kiew-a-8398283d-b283-474d-a704-e5e8f116530e#ref=rss)
+### kosovo
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-drohnen-ueber-moskau-wolfgang-kubick-gebaeudeenergiegesetz-kosovo-und-serbien](https://www.spiegel.de/politik/deutschland/news-des-tages-drohnen-ueber-moskau-wolfgang-kubick-gebaeudeenergiegesetz-kosovo-und-serbien-a-71ad54c2-6696-4b4d-8dc4-0aee5b88506e#ref=rss)
+* [https://www.spiegel.de/ausland/nato-entsendet-zusaetzliche-einheiten-in-das-kosovo](https://www.spiegel.de/ausland/nato-entsendet-zusaetzliche-einheiten-in-das-kosovo-a-2a244685-3662-40fd-97e9-301ccda65461#ref=rss)
+### demonstranten
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-drohnen-ueber-moskau-wolfgang-kubick-gebaeudeenergiegesetz-kosovo-und-serbien](https://www.spiegel.de/politik/deutschland/news-des-tages-drohnen-ueber-moskau-wolfgang-kubick-gebaeudeenergiegesetz-kosovo-und-serbien-a-71ad54c2-6696-4b4d-8dc4-0aee5b88506e#ref=rss)
+* [https://www.spiegel.de/ausland/china-demonstranten-liefern-sich-auseinandersetzung-mit-polizisten](https://www.spiegel.de/ausland/china-demonstranten-liefern-sich-auseinandersetzung-mit-polizisten-a-5fd92e73-718d-4e90-97f5-0c61eb57731d#ref=rss)
+### hannover
+
+* [https://www.spiegel.de/panorama/hannover-feuer-an-tuerkischer-moschee-gemeinde-vermutet-anschlag](https://www.spiegel.de/panorama/hannover-feuer-an-tuerkischer-moschee-gemeinde-vermutet-anschlag-a-2403bce4-4033-4c07-a3ad-63b2bd81b926#ref=rss)
+### fordert
+
+* [https://www.spiegel.de/panorama/hannover-feuer-an-tuerkischer-moschee-gemeinde-vermutet-anschlag](https://www.spiegel.de/panorama/hannover-feuer-an-tuerkischer-moschee-gemeinde-vermutet-anschlag-a-2403bce4-4033-4c07-a3ad-63b2bd81b926#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/frankreich-oesterreich-und-niederlande-wollen-mehr-regeln-fuer-privatjets](https://www.spiegel.de/politik/deutschland/frankreich-oesterreich-und-niederlande-wollen-mehr-regeln-fuer-privatjets-a-8d31dc3d-bd06-4a11-bbbc-26a15e0f661d#ref=rss)
+### sitzt
+
+* [https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern](https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern-a-a4953ce2-ea3c-43dd-a904-617fd3241723#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/andrea-tandler-soll-23-5-millionen-euro-an-steuern-hinterzogen-haben](https://www.spiegel.de/panorama/justiz/andrea-tandler-soll-23-5-millionen-euro-an-steuern-hinterzogen-haben-a-4e59281e-7bbe-4505-991f-207c0003fce2#ref=rss)
+### kahn
+
+* [https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern](https://www.spiegel.de/sport/fussball/karl-heinz-rummenigge-sitzt-ab-sofort-im-aufsichtsrat-des-fc-bayern-a-a4953ce2-ea3c-43dd-a904-617fd3241723#ref=rss)
+### finden
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/ki-boom-treibt-firmenwert-von-chip-hersteller-ueber-eine-billion-dollar](https://www.spiegel.de/wirtschaft/unternehmen/ki-boom-treibt-firmenwert-von-chip-hersteller-ueber-eine-billion-dollar-a-32bf3c3c-2457-4261-8689-fdeb7fa18bad#ref=rss)
+* [https://www.spiegel.de/panorama/ein-monat-nach-flugzeugabsturz-in-kolumbien-fussabdruck-von-vermisstem-kind-entdeckt](https://www.spiegel.de/panorama/ein-monat-nach-flugzeugabsturz-in-kolumbien-fussabdruck-von-vermisstem-kind-entdeckt-a-0ec60c63-f870-4a7c-9365-1153cbf25541#ref=rss)
+### großbritannien
+
+* [https://www.spiegel.de/wissenschaft/grossbritannien-4000-jahre-alte-pest-dna-gefunden](https://www.spiegel.de/wissenschaft/grossbritannien-4000-jahre-alte-pest-dna-gefunden-a-8d54bb2b-b17d-4051-911c-cd2067e49f17#ref=rss)
+### 4000
+
+* [https://www.spiegel.de/wissenschaft/grossbritannien-4000-jahre-alte-pest-dna-gefunden](https://www.spiegel.de/wissenschaft/grossbritannien-4000-jahre-alte-pest-dna-gefunden-a-8d54bb2b-b17d-4051-911c-cd2067e49f17#ref=rss)
+### jahre
+
+* [https://www.spiegel.de/wissenschaft/grossbritannien-4000-jahre-alte-pest-dna-gefunden](https://www.spiegel.de/wissenschaft/grossbritannien-4000-jahre-alte-pest-dna-gefunden-a-8d54bb2b-b17d-4051-911c-cd2067e49f17#ref=rss)
+### alte
+
+* [https://www.spiegel.de/wissenschaft/grossbritannien-4000-jahre-alte-pest-dna-gefunden](https://www.spiegel.de/wissenschaft/grossbritannien-4000-jahre-alte-pest-dna-gefunden-a-8d54bb2b-b17d-4051-911c-cd2067e49f17#ref=rss)
+### gefunden
+
+* [https://www.spiegel.de/wissenschaft/grossbritannien-4000-jahre-alte-pest-dna-gefunden](https://www.spiegel.de/wissenschaft/grossbritannien-4000-jahre-alte-pest-dna-gefunden-a-8d54bb2b-b17d-4051-911c-cd2067e49f17#ref=rss)
+### serap
+
+* [https://www.spiegel.de/politik/deutschland/serap-gueler-ueber-erdogan-erfolg-in-deutschland-eine-art-minderwertigkeitskomplex](https://www.spiegel.de/politik/deutschland/serap-gueler-ueber-erdogan-erfolg-in-deutschland-eine-art-minderwertigkeitskomplex-a-aece6b9b-c3b4-40e4-9a11-3c357728e381#ref=rss)
+### güler
+
+* [https://www.spiegel.de/politik/deutschland/serap-gueler-ueber-erdogan-erfolg-in-deutschland-eine-art-minderwertigkeitskomplex](https://www.spiegel.de/politik/deutschland/serap-gueler-ueber-erdogan-erfolg-in-deutschland-eine-art-minderwertigkeitskomplex-a-aece6b9b-c3b4-40e4-9a11-3c357728e381#ref=rss)
+### deutschland
+
+* [https://www.spiegel.de/politik/deutschland/serap-gueler-ueber-erdogan-erfolg-in-deutschland-eine-art-minderwertigkeitskomplex](https://www.spiegel.de/politik/deutschland/serap-gueler-ueber-erdogan-erfolg-in-deutschland-eine-art-minderwertigkeitskomplex-a-aece6b9b-c3b4-40e4-9a11-3c357728e381#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oekonomen-rechnen-fuer-das-gesamte-laufende-jahr-mit-rezession](https://www.spiegel.de/wirtschaft/oekonomen-rechnen-fuer-das-gesamte-laufende-jahr-mit-rezession-a-c720f567-cda8-4805-a2b8-1ae6b2f05fc0#ref=rss)
+### art
+
+* [https://www.spiegel.de/politik/deutschland/serap-gueler-ueber-erdogan-erfolg-in-deutschland-eine-art-minderwertigkeitskomplex](https://www.spiegel.de/politik/deutschland/serap-gueler-ueber-erdogan-erfolg-in-deutschland-eine-art-minderwertigkeitskomplex-a-aece6b9b-c3b4-40e4-9a11-3c357728e381#ref=rss)
+### minderwertigkeitskomplex
+
+* [https://www.spiegel.de/politik/deutschland/serap-gueler-ueber-erdogan-erfolg-in-deutschland-eine-art-minderwertigkeitskomplex](https://www.spiegel.de/politik/deutschland/serap-gueler-ueber-erdogan-erfolg-in-deutschland-eine-art-minderwertigkeitskomplex-a-aece6b9b-c3b4-40e4-9a11-3c357728e381#ref=rss)
+### habeck
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-blaest-zum-gegenangriff-gegen-die-fdp-fuer-das-heizungsgesetz](https://www.spiegel.de/politik/deutschland/robert-habeck-blaest-zum-gegenangriff-gegen-die-fdp-fuer-das-heizungsgesetz-a-e21b91d1-a818-49e9-a2b6-d6348ad1154b#ref=rss)
+### fdp
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-blaest-zum-gegenangriff-gegen-die-fdp-fuer-das-heizungsgesetz](https://www.spiegel.de/politik/deutschland/robert-habeck-blaest-zum-gegenangriff-gegen-die-fdp-fuer-das-heizungsgesetz-a-e21b91d1-a818-49e9-a2b6-d6348ad1154b#ref=rss)
+### heizungsgesetz
+
+* [https://www.spiegel.de/politik/deutschland/robert-habeck-blaest-zum-gegenangriff-gegen-die-fdp-fuer-das-heizungsgesetz](https://www.spiegel.de/politik/deutschland/robert-habeck-blaest-zum-gegenangriff-gegen-die-fdp-fuer-das-heizungsgesetz-a-e21b91d1-a818-49e9-a2b6-d6348ad1154b#ref=rss)
+### andrea
+
+* [https://www.spiegel.de/panorama/justiz/andrea-tandler-soll-23-5-millionen-euro-an-steuern-hinterzogen-haben](https://www.spiegel.de/panorama/justiz/andrea-tandler-soll-23-5-millionen-euro-an-steuern-hinterzogen-haben-a-4e59281e-7bbe-4505-991f-207c0003fce2#ref=rss)
+### tandler
+
+* [https://www.spiegel.de/panorama/justiz/andrea-tandler-soll-23-5-millionen-euro-an-steuern-hinterzogen-haben](https://www.spiegel.de/panorama/justiz/andrea-tandler-soll-23-5-millionen-euro-an-steuern-hinterzogen-haben-a-4e59281e-7bbe-4505-991f-207c0003fce2#ref=rss)
 ### offenbar
 
-* [https://www.spiegel.de/panorama/venedig-ursache-fuer-gruen-verfaerbten-canal-grande-ist-geklaert](https://www.spiegel.de/panorama/venedig-ursache-fuer-gruen-verfaerbten-canal-grande-ist-geklaert-a-3abe779d-7032-40ba-9474-f1d10c8ad6cc#ref=rss)
-* [https://www.spiegel.de/ausland/moskau-leichte-schaeden-bei-mutmasslichem-drohnenangriff](https://www.spiegel.de/ausland/moskau-leichte-schaeden-bei-mutmasslichem-drohnenangriff-a-683e0d9f-3fbb-4fe9-b694-0df55a5762f4#ref=rss)
-### hundetrainer
+* [https://www.spiegel.de/ausland/china-demonstranten-liefern-sich-auseinandersetzung-mit-polizisten](https://www.spiegel.de/ausland/china-demonstranten-liefern-sich-auseinandersetzung-mit-polizisten-a-5fd92e73-718d-4e90-97f5-0c61eb57731d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-chef-elon-musk-trifft-chinesischen-aussenminister](https://www.spiegel.de/wirtschaft/unternehmen/tesla-chef-elon-musk-trifft-chinesischen-aussenminister-a-0da5dbd2-1467-4cc2-a7d1-1eb5ed89e304#ref=rss)
+### download
 
-* [https://www.spiegel.de/familie/hundetrainer-nick-martens-ueber-haustiere-wenn-man-sich-einen-hund-anschafft-muss-man-einen-plan-b-haben](https://www.spiegel.de/familie/hundetrainer-nick-martens-ueber-haustiere-wenn-man-sich-einen-hund-anschafft-muss-man-einen-plan-b-haben-a-552c3eaf-3f6a-4852-ac84-530e96acbfa3#ref=rss)
-### nick
+* [https://www.spiegel.de/kultur/musik/download-germany-metal-festival-auf-dem-hockenheimring-ist-abgesagt](https://www.spiegel.de/kultur/musik/download-germany-metal-festival-auf-dem-hockenheimring-ist-abgesagt-a-41f92be6-a3d8-483a-baa9-955bdf4cff5f#ref=rss)
+### germany
 
-* [https://www.spiegel.de/familie/hundetrainer-nick-martens-ueber-haustiere-wenn-man-sich-einen-hund-anschafft-muss-man-einen-plan-b-haben](https://www.spiegel.de/familie/hundetrainer-nick-martens-ueber-haustiere-wenn-man-sich-einen-hund-anschafft-muss-man-einen-plan-b-haben-a-552c3eaf-3f6a-4852-ac84-530e96acbfa3#ref=rss)
-### martens
+* [https://www.spiegel.de/kultur/musik/download-germany-metal-festival-auf-dem-hockenheimring-ist-abgesagt](https://www.spiegel.de/kultur/musik/download-germany-metal-festival-auf-dem-hockenheimring-ist-abgesagt-a-41f92be6-a3d8-483a-baa9-955bdf4cff5f#ref=rss)
+### abgesagt
 
-* [https://www.spiegel.de/familie/hundetrainer-nick-martens-ueber-haustiere-wenn-man-sich-einen-hund-anschafft-muss-man-einen-plan-b-haben](https://www.spiegel.de/familie/hundetrainer-nick-martens-ueber-haustiere-wenn-man-sich-einen-hund-anschafft-muss-man-einen-plan-b-haben-a-552c3eaf-3f6a-4852-ac84-530e96acbfa3#ref=rss)
-### schäden
+* [https://www.spiegel.de/kultur/musik/download-germany-metal-festival-auf-dem-hockenheimring-ist-abgesagt](https://www.spiegel.de/kultur/musik/download-germany-metal-festival-auf-dem-hockenheimring-ist-abgesagt-a-41f92be6-a3d8-483a-baa9-955bdf4cff5f#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/ausland/moskau-leichte-schaeden-bei-mutmasslichem-drohnenangriff](https://www.spiegel.de/ausland/moskau-leichte-schaeden-bei-mutmasslichem-drohnenangriff-a-683e0d9f-3fbb-4fe9-b694-0df55a5762f4#ref=rss)
-### öl
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-mai-der-raketen-in-kiew](https://www.spiegel.de/ausland/krieg-in-der-ukraine-mai-der-raketen-in-kiew-a-8398283d-b283-474d-a704-e5e8f116530e#ref=rss)
+### raketen
 
-* [https://www.spiegel.de/wirtschaft/unions-energieexperte-warnt-vor-ansturm-auf-neue-oel-und-gasheizungen](https://www.spiegel.de/wirtschaft/unions-energieexperte-warnt-vor-ansturm-auf-neue-oel-und-gasheizungen-a-b517c488-8d68-48a1-99cb-108eff2de750#ref=rss)
-### gasheizungen
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-mai-der-raketen-in-kiew](https://www.spiegel.de/ausland/krieg-in-der-ukraine-mai-der-raketen-in-kiew-a-8398283d-b283-474d-a704-e5e8f116530e#ref=rss)
+### wohl
 
-* [https://www.spiegel.de/wirtschaft/unions-energieexperte-warnt-vor-ansturm-auf-neue-oel-und-gasheizungen](https://www.spiegel.de/wirtschaft/unions-energieexperte-warnt-vor-ansturm-auf-neue-oel-und-gasheizungen-a-b517c488-8d68-48a1-99cb-108eff2de750#ref=rss)
-### kishida
+* [https://www.spiegel.de/ausland/krieg-in-der-ukraine-mai-der-raketen-in-kiew](https://www.spiegel.de/ausland/krieg-in-der-ukraine-mai-der-raketen-in-kiew-a-8398283d-b283-474d-a704-e5e8f116530e#ref=rss)
+* [https://www.spiegel.de/wirtschaft/oekonomen-rechnen-fuer-das-gesamte-laufende-jahr-mit-rezession](https://www.spiegel.de/wirtschaft/oekonomen-rechnen-fuer-das-gesamte-laufende-jahr-mit-rezession-a-c720f567-cda8-4805-a2b8-1ae6b2f05fc0#ref=rss)
+### dschungel
 
-* [https://www.spiegel.de/ausland/japan-ministerpraesident-fumio-kishida-entlaesst-eigenen-sohn-nach-party-in-amtssitz](https://www.spiegel.de/ausland/japan-ministerpraesident-fumio-kishida-entlaesst-eigenen-sohn-nach-party-in-amtssitz-a-1fb839c4-0984-4405-af40-c177f1347584#ref=rss)
-### party
+* [https://www.spiegel.de/panorama/ein-monat-nach-flugzeugabsturz-in-kolumbien-fussabdruck-von-vermisstem-kind-entdeckt](https://www.spiegel.de/panorama/ein-monat-nach-flugzeugabsturz-in-kolumbien-fussabdruck-von-vermisstem-kind-entdeckt-a-0ec60c63-f870-4a7c-9365-1153cbf25541#ref=rss)
+### elon
 
-* [https://www.spiegel.de/ausland/japan-ministerpraesident-fumio-kishida-entlaesst-eigenen-sohn-nach-party-in-amtssitz](https://www.spiegel.de/ausland/japan-ministerpraesident-fumio-kishida-entlaesst-eigenen-sohn-nach-party-in-amtssitz-a-1fb839c4-0984-4405-af40-c177f1347584#ref=rss)
-### amtssitz
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-chef-elon-musk-trifft-chinesischen-aussenminister](https://www.spiegel.de/wirtschaft/unternehmen/tesla-chef-elon-musk-trifft-chinesischen-aussenminister-a-0da5dbd2-1467-4cc2-a7d1-1eb5ed89e304#ref=rss)
+### musk
 
-* [https://www.spiegel.de/ausland/japan-ministerpraesident-fumio-kishida-entlaesst-eigenen-sohn-nach-party-in-amtssitz](https://www.spiegel.de/ausland/japan-ministerpraesident-fumio-kishida-entlaesst-eigenen-sohn-nach-party-in-amtssitz-a-1fb839c4-0984-4405-af40-c177f1347584#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-chef-elon-musk-trifft-chinesischen-aussenminister](https://www.spiegel.de/wirtschaft/unternehmen/tesla-chef-elon-musk-trifft-chinesischen-aussenminister-a-0da5dbd2-1467-4cc2-a7d1-1eb5ed89e304#ref=rss)
+### teslachef
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-chef-elon-musk-trifft-chinesischen-aussenminister](https://www.spiegel.de/wirtschaft/unternehmen/tesla-chef-elon-musk-trifft-chinesischen-aussenminister-a-0da5dbd2-1467-4cc2-a7d1-1eb5ed89e304#ref=rss)
+### außenminister
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/tesla-chef-elon-musk-trifft-chinesischen-aussenminister](https://www.spiegel.de/wirtschaft/unternehmen/tesla-chef-elon-musk-trifft-chinesischen-aussenminister-a-0da5dbd2-1467-4cc2-a7d1-1eb5ed89e304#ref=rss)
+### wirtschaft
+
+* [https://www.spiegel.de/wirtschaft/oekonomen-rechnen-fuer-das-gesamte-laufende-jahr-mit-rezession](https://www.spiegel.de/wirtschaft/oekonomen-rechnen-fuer-das-gesamte-laufende-jahr-mit-rezession-a-c720f567-cda8-4805-a2b8-1ae6b2f05fc0#ref=rss)
+### künstliche
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/risiko-der-ausloeschung-ki-koryphaeen-von-openai-und-google-warnen](https://www.spiegel.de/netzwelt/netzpolitik/risiko-der-ausloeschung-ki-koryphaeen-von-openai-und-google-warnen-a-b5c4539b-26cc-4461-8884-a784061e4e25#ref=rss)
+### intelligenz
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/risiko-der-ausloeschung-ki-koryphaeen-von-openai-und-google-warnen](https://www.spiegel.de/netzwelt/netzpolitik/risiko-der-ausloeschung-ki-koryphaeen-von-openai-und-google-warnen-a-b5c4539b-26cc-4461-8884-a784061e4e25#ref=rss)
+### menschheit
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/risiko-der-ausloeschung-ki-koryphaeen-von-openai-und-google-warnen](https://www.spiegel.de/netzwelt/netzpolitik/risiko-der-ausloeschung-ki-koryphaeen-von-openai-und-google-warnen-a-b5c4539b-26cc-4461-8884-a784061e4e25#ref=rss)
+### boris
+
+* [https://www.spiegel.de/sport/boris-herrmann-beim-ocean-race-ein-weltrekord-ein-whiskey-und-eine-kampfansage](https://www.spiegel.de/sport/boris-herrmann-beim-ocean-race-ein-weltrekord-ein-whiskey-und-eine-kampfansage-a-11e9b804-ac8a-490a-81b6-26af0bbfce4d#ref=rss)
+### herrmann
+
+* [https://www.spiegel.de/sport/boris-herrmann-beim-ocean-race-ein-weltrekord-ein-whiskey-und-eine-kampfansage](https://www.spiegel.de/sport/boris-herrmann-beim-ocean-race-ein-weltrekord-ein-whiskey-und-eine-kampfansage-a-11e9b804-ac8a-490a-81b6-26af0bbfce4d#ref=rss)
+### ocean
+
+* [https://www.spiegel.de/sport/boris-herrmann-beim-ocean-race-ein-weltrekord-ein-whiskey-und-eine-kampfansage](https://www.spiegel.de/sport/boris-herrmann-beim-ocean-race-ein-weltrekord-ein-whiskey-und-eine-kampfansage-a-11e9b804-ac8a-490a-81b6-26af0bbfce4d#ref=rss)
+### race
+
+* [https://www.spiegel.de/sport/boris-herrmann-beim-ocean-race-ein-weltrekord-ein-whiskey-und-eine-kampfansage](https://www.spiegel.de/sport/boris-herrmann-beim-ocean-race-ein-weltrekord-ein-whiskey-und-eine-kampfansage-a-11e9b804-ac8a-490a-81b6-26af0bbfce4d#ref=rss)
+### etappe
+
+* [https://www.spiegel.de/sport/boris-herrmann-beim-ocean-race-ein-weltrekord-ein-whiskey-und-eine-kampfansage](https://www.spiegel.de/sport/boris-herrmann-beim-ocean-race-ein-weltrekord-ein-whiskey-und-eine-kampfansage-a-11e9b804-ac8a-490a-81b6-26af0bbfce4d#ref=rss)
 
