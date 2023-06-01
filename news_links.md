@@ -6,325 +6,297 @@ tags: __no_header__
 
 ### mehr
 
-* [https://www.spiegel.de/netzwelt/apps/iphone-apps-entwickler-erwirtschaften-mehr-als-eine-billion-dollar](https://www.spiegel.de/netzwelt/apps/iphone-apps-entwickler-erwirtschaften-mehr-als-eine-billion-dollar-a-e11e5c30-51d2-490d-9e93-cae38499dd08#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/augsburger-domsingknaben-mitarbeiter-soll-kinder-heimlich-nackt-gefilmt-haben](https://www.spiegel.de/panorama/justiz/augsburger-domsingknaben-mitarbeiter-soll-kinder-heimlich-nackt-gefilmt-haben-a-386ea9fd-7414-42d7-bef1-8be355e35f51#ref=rss)
-* [https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde](https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde-a-7cf432c9-4c6e-4995-84d0-b676f0854938#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck](https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck-a-5dfc4a6c-6246-419a-8e06-53f185cb7877#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/russland-kuendigt-angemessene-reaktion-auf-konsulatsschliessungen-an](https://www.spiegel.de/ausland/russland-kuendigt-angemessene-reaktion-auf-konsulatsschliessungen-an-a-d41ba823-edd8-45cf-90fa-4539267a4456#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-gegen-lina-e-diplomatische-beziehungen-zu-russland-inflation-al-pacino](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-gegen-lina-e-diplomatische-beziehungen-zu-russland-inflation-al-pacino-a-ac1749bf-032a-47fc-8e33-cf05efed1d22#ref=rss)
-* [https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde](https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde-a-7cf432c9-4c6e-4995-84d0-b676f0854938#ref=rss)
-* [https://www.spiegel.de/sport/fussball/quincy-promes-des-kokain-schmuggels-verdaechtig-auf-der-schiefen-bahn](https://www.spiegel.de/sport/fussball/quincy-promes-des-kokain-schmuggels-verdaechtig-auf-der-schiefen-bahn-a-e3f9be3d-e7f0-40ec-b827-94e1dd8a49e4#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmunds-vergebene-meisterchance-warum-es-hilft-am-trainer-festzuhalten-sportpsychologin](https://www.spiegel.de/sport/fussball/borussia-dortmunds-vergebene-meisterchance-warum-es-hilft-am-trainer-festzuhalten-sportpsychologin-a-dad3c910-1611-4f2c-a25c-3589b58fccc9#ref=rss)
-* [https://www.spiegel.de/panorama/watzmann-in-bayern-aus-not-gerettete-urlauber-meckern-bergwacht-an](https://www.spiegel.de/panorama/watzmann-in-bayern-aus-not-gerettete-urlauber-meckern-bergwacht-an-a-1ca94478-8315-4723-9c3e-7975dda45d99#ref=rss)
-* [https://www.spiegel.de/karriere/bundesarbeitsgericht-tarifvertraege-in-der-leiharbeit-wirksam](https://www.spiegel.de/karriere/bundesarbeitsgericht-tarifvertraege-in-der-leiharbeit-wirksam-a-89c15676-fea9-4236-b7b7-ef966b4ff9ee#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/wissenschaft/studie-zu-erdsystemgrenzen-lebensweise-des-menschen-gefaehrdet-stabilitaet-und-belastbarkeit-des-planeten](https://www.spiegel.de/wissenschaft/studie-zu-erdsystemgrenzen-lebensweise-des-menschen-gefaehrdet-stabilitaet-und-belastbarkeit-des-planeten-a-872c89dd-0a86-40b3-9e3c-902865cdda4b#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft](https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft-a-160b5991-65fc-44ec-bb11-ff4967c5775c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft](https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft-a-e7c5c072-8027-4b00-a346-f56cdfafa261#ref=rss)
-### immobilien
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro](https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro-a-62912c7e-c993-41e4-a620-45b84c0b7371#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/immobilien-wie-hauskaeufer-entlastet-werden-koennten-irgendwann](https://www.spiegel.de/wirtschaft/soziales/immobilien-wie-hauskaeufer-entlastet-werden-koennten-irgendwann-a-261c6281-a2b4-49f6-84d5-ce00c631ac4f#ref=rss)
-### millionen
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro](https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro-a-62912c7e-c993-41e4-a620-45b84c0b7371#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft](https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft-a-160b5991-65fc-44ec-bb11-ff4967c5775c#ref=rss)
-### euro
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro](https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro-a-62912c7e-c993-41e4-a620-45b84c0b7371#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft](https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft-a-160b5991-65fc-44ec-bb11-ff4967c5775c#ref=rss)
-* [https://www.spiegel.de/start/rezept-fuer-schnelles-pfannenbrot-mit-feta-dip-und-salat-fuer-2-euro](https://www.spiegel.de/start/rezept-fuer-schnelles-pfannenbrot-mit-feta-dip-und-salat-fuer-2-euro-a-86638219-9447-4a7f-8a6e-f4c38d358c3f#ref=rss)
-### 2022
-
-* [https://www.spiegel.de/netzwelt/apps/iphone-apps-entwickler-erwirtschaften-mehr-als-eine-billion-dollar](https://www.spiegel.de/netzwelt/apps/iphone-apps-entwickler-erwirtschaften-mehr-als-eine-billion-dollar-a-e11e5c30-51d2-490d-9e93-cae38499dd08#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kursrutsch-an-den-boersen-2022-weniger-reiche-weniger-vermoegen](https://www.spiegel.de/wirtschaft/kursrutsch-an-den-boersen-2022-weniger-reiche-weniger-vermoegen-a-3c705b04-e449-4889-8658-f5f0b0a1e484#ref=rss)
-### bahn
-
-* [https://www.spiegel.de/wirtschaft/eskalation-im-tarifkonflikt-streiks-bei-der-deutschen-bahn-unausweichlich](https://www.spiegel.de/wirtschaft/eskalation-im-tarifkonflikt-streiks-bei-der-deutschen-bahn-unausweichlich-a-ff507625-1475-4fb1-99cb-621a932ea662#ref=rss)
-* [https://www.spiegel.de/sport/fussball/quincy-promes-des-kokain-schmuggels-verdaechtig-auf-der-schiefen-bahn](https://www.spiegel.de/sport/fussball/quincy-promes-des-kokain-schmuggels-verdaechtig-auf-der-schiefen-bahn-a-e3f9be3d-e7f0-40ec-b827-94e1dd8a49e4#ref=rss)
-### familien
-
-* [https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht](https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht-a-3013f017-2bf5-4bd3-bd6a-8ff8c4d4e19e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kfw-kredite-fuer-familien-das-ist-der-nachfolger-fuers-baukindergeld](https://www.spiegel.de/wirtschaft/kfw-kredite-fuer-familien-das-ist-der-nachfolger-fuers-baukindergeld-a-e0fac587-23f9-41cd-8caf-4687abba2743#ref=rss)
-### wichtigsten
-
-* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-wie-es-mit-robert-habecks-projekt-weitergeht](https://www.spiegel.de/politik/deutschland/heizungsgesetz-wie-es-mit-robert-habecks-projekt-weitergeht-a-00b874ee-e379-4c95-b66a-34f3d375e07e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kfw-kredite-fuer-familien-das-ist-der-nachfolger-fuers-baukindergeld](https://www.spiegel.de/wirtschaft/kfw-kredite-fuer-familien-das-ist-der-nachfolger-fuers-baukindergeld-a-e0fac587-23f9-41cd-8caf-4687abba2743#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck](https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck-a-5dfc4a6c-6246-419a-8e06-53f185cb7877#ref=rss)
-### monat
-
-* [https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft](https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft-a-160b5991-65fc-44ec-bb11-ff4967c5775c#ref=rss)
-### vorwürfe
-
-* [https://www.spiegel.de/panorama/justiz/augsburger-domsingknaben-mitarbeiter-soll-kinder-heimlich-nackt-gefilmt-haben](https://www.spiegel.de/panorama/justiz/augsburger-domsingknaben-mitarbeiter-soll-kinder-heimlich-nackt-gefilmt-haben-a-386ea9fd-7414-42d7-bef1-8be355e35f51#ref=rss)
-* [https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde](https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde-a-7cf432c9-4c6e-4995-84d0-b676f0854938#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/til-schweiger-wie-die-vorwuerfe-gegen-den-schauspieler-oeffentlich-wurden](https://www.spiegel.de/politik/deutschland/til-schweiger-wie-die-vorwuerfe-gegen-den-schauspieler-oeffentlich-wurden-a-620fd2a2-289a-4d58-ba7e-1c5ba2b8a50e#ref=rss)
-### drei
-
-* [https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft](https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft-a-e7c5c072-8027-4b00-a346-f56cdfafa261#ref=rss)
-* [https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde](https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde-a-f35ef60c-9280-4763-9a8d-af799d548aab#ref=rss)
-### rezept
-
-* [https://www.spiegel.de/start/rezept-fuer-schnelles-pfannenbrot-mit-feta-dip-und-salat-fuer-2-euro](https://www.spiegel.de/start/rezept-fuer-schnelles-pfannenbrot-mit-feta-dip-und-salat-fuer-2-euro-a-86638219-9447-4a7f-8a6e-f4c38d358c3f#ref=rss)
-### wann
-
-* [https://www.spiegel.de/wissenschaft/studie-zu-erdsystemgrenzen-lebensweise-des-menschen-gefaehrdet-stabilitaet-und-belastbarkeit-des-planeten](https://www.spiegel.de/wissenschaft/studie-zu-erdsystemgrenzen-lebensweise-des-menschen-gefaehrdet-stabilitaet-und-belastbarkeit-des-planeten-a-872c89dd-0a86-40b3-9e3c-902865cdda4b#ref=rss)
-### fünf
-
-* [https://www.spiegel.de/ausland/russland-kuendigt-angemessene-reaktion-auf-konsulatsschliessungen-an](https://www.spiegel.de/ausland/russland-kuendigt-angemessene-reaktion-auf-konsulatsschliessungen-an-a-d41ba823-edd8-45cf-90fa-4539267a4456#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck](https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck-a-5dfc4a6c-6246-419a-8e06-53f185cb7877#ref=rss)
+* [https://www.spiegel.de/gesundheit/klimawandel-experten-erwarten-mehr-infektionskrankheiten-in-deutschland](https://www.spiegel.de/gesundheit/klimawandel-experten-erwarten-mehr-infektionskrankheiten-in-deutschland-a-09b26f5e-ac67-49a1-8bfe-4db72919b570#ref=rss)
+* [https://www.spiegel.de/wissenschaft/titanic-halskette-mit-hai-zahn-am-wrack-entdeckt](https://www.spiegel.de/wissenschaft/titanic-halskette-mit-hai-zahn-am-wrack-entdeckt-a-3c4866a5-1b6e-4f34-95db-f9af0023874c#ref=rss)
+* [https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit](https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit-a-cd6f4c7b-8145-46f6-b6e2-763a8ca368db#ref=rss)
+* [https://www.spiegel.de/wirtschaft/krankenkassenchef-ralf-hermes-will-zahnbehandlungen-nicht-mehr-bezahlen](https://www.spiegel.de/wirtschaft/krankenkassenchef-ralf-hermes-will-zahnbehandlungen-nicht-mehr-bezahlen-a-93fabca7-299a-4010-8c3d-543782e7e7ac#ref=rss)
+* [https://www.spiegel.de/wissenschaft/nasa-ufo-expertengruppe-fordert-bessere-daten](https://www.spiegel.de/wissenschaft/nasa-ufo-expertengruppe-fordert-bessere-daten-a-1edfa514-0a37-4786-b688-988a95c09855#ref=rss)
 ### deutschland
 
-* [https://www.spiegel.de/ausland/russland-kuendigt-angemessene-reaktion-auf-konsulatsschliessungen-an](https://www.spiegel.de/ausland/russland-kuendigt-angemessene-reaktion-auf-konsulatsschliessungen-an-a-d41ba823-edd8-45cf-90fa-4539267a4456#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kursrutsch-an-den-boersen-2022-weniger-reiche-weniger-vermoegen](https://www.spiegel.de/wirtschaft/kursrutsch-an-den-boersen-2022-weniger-reiche-weniger-vermoegen-a-3c705b04-e449-4889-8658-f5f0b0a1e484#ref=rss)
-### droht
+* [https://www.spiegel.de/gesundheit/klimawandel-experten-erwarten-mehr-infektionskrankheiten-in-deutschland](https://www.spiegel.de/gesundheit/klimawandel-experten-erwarten-mehr-infektionskrankheiten-in-deutschland-a-09b26f5e-ac67-49a1-8bfe-4db72919b570#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/wenn-kinder-an-schulischen-mindeststandards-scheitern-nicht-gut-genug](https://www.spiegel.de/panorama/bildung/wenn-kinder-an-schulischen-mindeststandards-scheitern-nicht-gut-genug-a-b907d4e1-5b8f-4e8d-ba88-98d4bee2119c#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-corona-app-wird-eingestellt-baufoerderung-kommt](https://www.spiegel.de/politik/deutschland/deutschland-corona-app-wird-eingestellt-baufoerderung-kommt-a-8c758e8e-f996-4eaf-a889-cf2403012814#ref=rss)
+### fordert
 
-* [https://www.spiegel.de/ausland/russland-kuendigt-angemessene-reaktion-auf-konsulatsschliessungen-an](https://www.spiegel.de/ausland/russland-kuendigt-angemessene-reaktion-auf-konsulatsschliessungen-an-a-d41ba823-edd8-45cf-90fa-4539267a4456#ref=rss)
-* [https://www.spiegel.de/wirtschaft/eskalation-im-tarifkonflikt-streiks-bei-der-deutschen-bahn-unausweichlich](https://www.spiegel.de/wirtschaft/eskalation-im-tarifkonflikt-streiks-bei-der-deutschen-bahn-unausweichlich-a-ff507625-1475-4fb1-99cb-621a932ea662#ref=rss)
-### außenministerium
-
-* [https://www.spiegel.de/ausland/russland-kuendigt-angemessene-reaktion-auf-konsulatsschliessungen-an](https://www.spiegel.de/ausland/russland-kuendigt-angemessene-reaktion-auf-konsulatsschliessungen-an-a-d41ba823-edd8-45cf-90fa-4539267a4456#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-gegen-lina-e-diplomatische-beziehungen-zu-russland-inflation-al-pacino](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-gegen-lina-e-diplomatische-beziehungen-zu-russland-inflation-al-pacino-a-ac1749bf-032a-47fc-8e33-cf05efed1d22#ref=rss)
-### boris
-
-* [https://www.spiegel.de/ausland/grossbritannien-ex-premier-boris-johnson-uebergibt-whatsapp-daten-an-regierung](https://www.spiegel.de/ausland/grossbritannien-ex-premier-boris-johnson-uebergibt-whatsapp-daten-an-regierung-a-02ec998b-628c-4379-b14e-32291a8670b4#ref=rss)
-### johnson
-
-* [https://www.spiegel.de/ausland/grossbritannien-ex-premier-boris-johnson-uebergibt-whatsapp-daten-an-regierung](https://www.spiegel.de/ausland/grossbritannien-ex-premier-boris-johnson-uebergibt-whatsapp-daten-an-regierung-a-02ec998b-628c-4379-b14e-32291a8670b4#ref=rss)
-### whatsappdaten
-
-* [https://www.spiegel.de/ausland/grossbritannien-ex-premier-boris-johnson-uebergibt-whatsapp-daten-an-regierung](https://www.spiegel.de/ausland/grossbritannien-ex-premier-boris-johnson-uebergibt-whatsapp-daten-an-regierung-a-02ec998b-628c-4379-b14e-32291a8670b4#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/ausland/grossbritannien-ex-premier-boris-johnson-uebergibt-whatsapp-daten-an-regierung](https://www.spiegel.de/ausland/grossbritannien-ex-premier-boris-johnson-uebergibt-whatsapp-daten-an-regierung-a-02ec998b-628c-4379-b14e-32291a8670b4#ref=rss)
-### stark
-
-* [https://www.spiegel.de/ausland/grossbritannien-ex-premier-boris-johnson-uebergibt-whatsapp-daten-an-regierung](https://www.spiegel.de/ausland/grossbritannien-ex-premier-boris-johnson-uebergibt-whatsapp-daten-an-regierung-a-02ec998b-628c-4379-b14e-32291a8670b4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kursrutsch-an-den-boersen-2022-weniger-reiche-weniger-vermoegen](https://www.spiegel.de/wirtschaft/kursrutsch-an-den-boersen-2022-weniger-reiche-weniger-vermoegen-a-3c705b04-e449-4889-8658-f5f0b0a1e484#ref=rss)
-### rené
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro](https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro-a-62912c7e-c993-41e4-a620-45b84c0b7371#ref=rss)
-### benko
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro](https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro-a-62912c7e-c993-41e4-a620-45b84c0b7371#ref=rss)
-### verkauft
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro](https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro-a-62912c7e-c993-41e4-a620-45b84c0b7371#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft](https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft-a-160b5991-65fc-44ec-bb11-ff4967c5775c#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro](https://www.spiegel.de/wirtschaft/rene-benko-verkauft-laut-medienberichten-immobilien-fuer-500-millionen-euro-a-62912c7e-c993-41e4-a620-45b84c0b7371#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-haus-mit-graffiti-beschmiert-staatsschutz-ermittelt](https://www.spiegel.de/politik/deutschland/marco-buschmann-haus-mit-graffiti-beschmiert-staatsschutz-ermittelt-a-696975a5-973f-4ef7-96c4-f18d7cd39c4b#ref=rss)
-### dollar
-
-* [https://www.spiegel.de/netzwelt/apps/iphone-apps-entwickler-erwirtschaften-mehr-als-eine-billion-dollar](https://www.spiegel.de/netzwelt/apps/iphone-apps-entwickler-erwirtschaften-mehr-als-eine-billion-dollar-a-e11e5c30-51d2-490d-9e93-cae38499dd08#ref=rss)
-### davon
-
-* [https://www.spiegel.de/netzwelt/apps/iphone-apps-entwickler-erwirtschaften-mehr-als-eine-billion-dollar](https://www.spiegel.de/netzwelt/apps/iphone-apps-entwickler-erwirtschaften-mehr-als-eine-billion-dollar-a-e11e5c30-51d2-490d-9e93-cae38499dd08#ref=rss)
-* [https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft](https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft-a-160b5991-65fc-44ec-bb11-ff4967c5775c#ref=rss)
-### teil
-
-* [https://www.spiegel.de/netzwelt/apps/iphone-apps-entwickler-erwirtschaften-mehr-als-eine-billion-dollar](https://www.spiegel.de/netzwelt/apps/iphone-apps-entwickler-erwirtschaften-mehr-als-eine-billion-dollar-a-e11e5c30-51d2-490d-9e93-cae38499dd08#ref=rss)
-* [https://www.spiegel.de/wirtschaft/balkonkraftwerke-steckerfertige-mini-solaranlagen-soll-bald-leichter-zu-installieren-sein](https://www.spiegel.de/wirtschaft/balkonkraftwerke-steckerfertige-mini-solaranlagen-soll-bald-leichter-zu-installieren-sein-a-ef5dd3a5-3e37-4e5a-9299-f3ee639f6df7#ref=rss)
-### weniger
-
-* [https://www.spiegel.de/wirtschaft/kursrutsch-an-den-boersen-2022-weniger-reiche-weniger-vermoegen](https://www.spiegel.de/wirtschaft/kursrutsch-an-den-boersen-2022-weniger-reiche-weniger-vermoegen-a-3c705b04-e449-4889-8658-f5f0b0a1e484#ref=rss)
-### lage
-
-* [https://www.spiegel.de/wirtschaft/kursrutsch-an-den-boersen-2022-weniger-reiche-weniger-vermoegen](https://www.spiegel.de/wirtschaft/kursrutsch-an-den-boersen-2022-weniger-reiche-weniger-vermoegen-a-3c705b04-e449-4889-8658-f5f0b0a1e484#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-gegen-lina-e-diplomatische-beziehungen-zu-russland-inflation-al-pacino](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-gegen-lina-e-diplomatische-beziehungen-zu-russland-inflation-al-pacino-a-ac1749bf-032a-47fc-8e33-cf05efed1d22#ref=rss)
-### anne
-
-* [https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht](https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht-a-3013f017-2bf5-4bd3-bd6a-8ff8c4d4e19e#ref=rss)
-### waak
-
-* [https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht](https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht-a-3013f017-2bf5-4bd3-bd6a-8ff8c4d4e19e#ref=rss)
-### irgendwann
-
-* [https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht](https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht-a-3013f017-2bf5-4bd3-bd6a-8ff8c4d4e19e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/immobilien-wie-hauskaeufer-entlastet-werden-koennten-irgendwann](https://www.spiegel.de/wirtschaft/soziales/immobilien-wie-hauskaeufer-entlastet-werden-koennten-irgendwann-a-261c6281-a2b4-49f6-84d5-ce00c631ac4f#ref=rss)
-### alle
-
-* [https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht](https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht-a-3013f017-2bf5-4bd3-bd6a-8ff8c4d4e19e#ref=rss)
-* [https://www.spiegel.de/panorama/watzmann-in-bayern-aus-not-gerettete-urlauber-meckern-bergwacht-an](https://www.spiegel.de/panorama/watzmann-in-bayern-aus-not-gerettete-urlauber-meckern-bergwacht-an-a-1ca94478-8315-4723-9c3e-7975dda45d99#ref=rss)
-### kinder
-
-* [https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht](https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht-a-3013f017-2bf5-4bd3-bd6a-8ff8c4d4e19e#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/augsburger-domsingknaben-mitarbeiter-soll-kinder-heimlich-nackt-gefilmt-haben](https://www.spiegel.de/panorama/justiz/augsburger-domsingknaben-mitarbeiter-soll-kinder-heimlich-nackt-gefilmt-haben-a-386ea9fd-7414-42d7-bef1-8be355e35f51#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht](https://www.spiegel.de/kultur/anne-waak-ueber-geschlechtergerechte-erziehung-im-familiaeren-gefecht-a-3013f017-2bf5-4bd3-bd6a-8ff8c4d4e19e#ref=rss)
-* [https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde](https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde-a-f35ef60c-9280-4763-9a8d-af799d548aab#ref=rss)
-### metalldetektor
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-seniorin-mit-metalldetektor-auf-dem-acker](https://www.spiegel.de/ausland/ukraine-krieg-seniorin-mit-metalldetektor-auf-dem-acker-a-2a81b889-a040-4dd1-83e2-ba410db2cea4#ref=rss)
-### acker
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-seniorin-mit-metalldetektor-auf-dem-acker](https://www.spiegel.de/ausland/ukraine-krieg-seniorin-mit-metalldetektor-auf-dem-acker-a-2a81b889-a040-4dd1-83e2-ba410db2cea4#ref=rss)
-### selbst
-
-* [https://www.spiegel.de/ausland/ukraine-krieg-seniorin-mit-metalldetektor-auf-dem-acker](https://www.spiegel.de/ausland/ukraine-krieg-seniorin-mit-metalldetektor-auf-dem-acker-a-2a81b889-a040-4dd1-83e2-ba410db2cea4#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/immobilien-wie-hauskaeufer-entlastet-werden-koennten-irgendwann](https://www.spiegel.de/wirtschaft/soziales/immobilien-wie-hauskaeufer-entlastet-werden-koennten-irgendwann-a-261c6281-a2b4-49f6-84d5-ce00c631ac4f#ref=rss)
-### robert
-
-* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-wie-es-mit-robert-habecks-projekt-weitergeht](https://www.spiegel.de/politik/deutschland/heizungsgesetz-wie-es-mit-robert-habecks-projekt-weitergeht-a-00b874ee-e379-4c95-b66a-34f3d375e07e#ref=rss)
-### projekt
-
-* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-wie-es-mit-robert-habecks-projekt-weitergeht](https://www.spiegel.de/politik/deutschland/heizungsgesetz-wie-es-mit-robert-habecks-projekt-weitergeht-a-00b874ee-e379-4c95-b66a-34f3d375e07e#ref=rss)
-* [https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde](https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde-a-f35ef60c-9280-4763-9a8d-af799d548aab#ref=rss)
-### antworten
-
-* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-wie-es-mit-robert-habecks-projekt-weitergeht](https://www.spiegel.de/politik/deutschland/heizungsgesetz-wie-es-mit-robert-habecks-projekt-weitergeht-a-00b874ee-e379-4c95-b66a-34f3d375e07e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kfw-kredite-fuer-familien-das-ist-der-nachfolger-fuers-baukindergeld](https://www.spiegel.de/wirtschaft/kfw-kredite-fuer-familien-das-ist-der-nachfolger-fuers-baukindergeld-a-e0fac587-23f9-41cd-8caf-4687abba2743#ref=rss)
-### fragen
-
-* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-wie-es-mit-robert-habecks-projekt-weitergeht](https://www.spiegel.de/politik/deutschland/heizungsgesetz-wie-es-mit-robert-habecks-projekt-weitergeht-a-00b874ee-e379-4c95-b66a-34f3d375e07e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/kfw-kredite-fuer-familien-das-ist-der-nachfolger-fuers-baukindergeld](https://www.spiegel.de/wirtschaft/kfw-kredite-fuer-familien-das-ist-der-nachfolger-fuers-baukindergeld-a-e0fac587-23f9-41cd-8caf-4687abba2743#ref=rss)
-### scheitert
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmunds-vergebene-meisterchance-warum-es-hilft-am-trainer-festzuhalten-sportpsychologin](https://www.spiegel.de/sport/fussball/borussia-dortmunds-vergebene-meisterchance-warum-es-hilft-am-trainer-festzuhalten-sportpsychologin-a-dad3c910-1611-4f2c-a25c-3589b58fccc9#ref=rss)
-* [https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde](https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde-a-7cf432c9-4c6e-4995-84d0-b676f0854938#ref=rss)
-### fußball
-
-* [https://www.spiegel.de/sport/fussball/borussia-dortmunds-vergebene-meisterchance-warum-es-hilft-am-trainer-festzuhalten-sportpsychologin](https://www.spiegel.de/sport/fussball/borussia-dortmunds-vergebene-meisterchance-warum-es-hilft-am-trainer-festzuhalten-sportpsychologin-a-dad3c910-1611-4f2c-a25c-3589b58fccc9#ref=rss)
-* [https://www.spiegel.de/sport/fussball/quincy-promes-des-kokain-schmuggels-verdaechtig-auf-der-schiefen-bahn](https://www.spiegel.de/sport/fussball/quincy-promes-des-kokain-schmuggels-verdaechtig-auf-der-schiefen-bahn-a-e3f9be3d-e7f0-40ec-b827-94e1dd8a49e4#ref=rss)
+* [https://www.spiegel.de/ausland/aleksandar-vucic-serbiens-praesident-fordert-absetzung-albanischstaemmiger-buergermeister-im-norden-des-kosovo](https://www.spiegel.de/ausland/aleksandar-vucic-serbiens-praesident-fordert-absetzung-albanischstaemmiger-buergermeister-im-norden-des-kosovo-a-eec05c4f-3b60-4a33-aec9-486507a01fe9#ref=rss)
+* [https://www.spiegel.de/wissenschaft/nasa-ufo-expertengruppe-fordert-bessere-daten](https://www.spiegel.de/wissenschaft/nasa-ufo-expertengruppe-fordert-bessere-daten-a-1edfa514-0a37-4786-b688-988a95c09855#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-auch-bei-gruenen-gibt-es-zweifel-an-ausbau-von-fluessiggas-terminals](https://www.spiegel.de/wirtschaft/lng-auch-bei-gruenen-gibt-es-zweifel-an-ausbau-von-fluessiggas-terminals-a-86e47a65-d5df-4160-b984-e2286a93cca5#ref=rss)
 ### lina
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-gegen-lina-e-diplomatische-beziehungen-zu-russland-inflation-al-pacino](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-gegen-lina-e-diplomatische-beziehungen-zu-russland-inflation-al-pacino-a-ac1749bf-032a-47fc-8e33-cf05efed1d22#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lina-e-proteste-gegen-urteil-ruhige-nacht-nach-zusammenstoessen-in-leipzig](https://www.spiegel.de/panorama/justiz/lina-e-proteste-gegen-urteil-ruhige-nacht-nach-zusammenstoessen-in-leipzig-a-12c695c3-0594-405a-8863-dabbdaf9dcd7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lina-e-dresden-thueringens-verfassungsschutz-chef-warnt-vor-linker-radikalisierung-kritik-an-freilassung](https://www.spiegel.de/panorama/justiz/lina-e-dresden-thueringens-verfassungsschutz-chef-warnt-vor-linker-radikalisierung-kritik-an-freilassung-a-24aa64c9-a9cb-4a4c-8165-496d5b298588#ref=rss)
 ### e
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-gegen-lina-e-diplomatische-beziehungen-zu-russland-inflation-al-pacino](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-gegen-lina-e-diplomatische-beziehungen-zu-russland-inflation-al-pacino-a-ac1749bf-032a-47fc-8e33-cf05efed1d22#ref=rss)
-### beziehungen
+* [https://www.spiegel.de/panorama/justiz/lina-e-proteste-gegen-urteil-ruhige-nacht-nach-zusammenstoessen-in-leipzig](https://www.spiegel.de/panorama/justiz/lina-e-proteste-gegen-urteil-ruhige-nacht-nach-zusammenstoessen-in-leipzig-a-12c695c3-0594-405a-8863-dabbdaf9dcd7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lina-e-dresden-thueringens-verfassungsschutz-chef-warnt-vor-linker-radikalisierung-kritik-an-freilassung](https://www.spiegel.de/panorama/justiz/lina-e-dresden-thueringens-verfassungsschutz-chef-warnt-vor-linker-radikalisierung-kritik-an-freilassung-a-24aa64c9-a9cb-4a4c-8165-496d5b298588#ref=rss)
+### the
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-gegen-lina-e-diplomatische-beziehungen-zu-russland-inflation-al-pacino](https://www.spiegel.de/politik/deutschland/news-des-tages-urteil-gegen-lina-e-diplomatische-beziehungen-zu-russland-inflation-al-pacino-a-ac1749bf-032a-47fc-8e33-cf05efed1d22#ref=rss)
-### baukindergeld
+* [https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja](https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja-a-81c36e6c-0a01-4026-a57d-a5f59e4af773#ref=rss)
+* [https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit](https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit-a-cd6f4c7b-8145-46f6-b6e2-763a8ca368db#ref=rss)
+### entdeckt
 
-* [https://www.spiegel.de/wirtschaft/kfw-kredite-fuer-familien-das-ist-der-nachfolger-fuers-baukindergeld](https://www.spiegel.de/wirtschaft/kfw-kredite-fuer-familien-das-ist-der-nachfolger-fuers-baukindergeld-a-e0fac587-23f9-41cd-8caf-4687abba2743#ref=rss)
-### prozent
+* [https://www.spiegel.de/panorama/leute/heidi-klum-wird-50-ihre-karriere-in-bildern](https://www.spiegel.de/panorama/leute/heidi-klum-wird-50-ihre-karriere-in-bildern-a-a07cb304-d483-43eb-8a65-8eff22e470cc#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mexiko-45-plastiksaecke-mit-menschlichen-ueberresten-entdeckt](https://www.spiegel.de/panorama/justiz/mexiko-45-plastiksaecke-mit-menschlichen-ueberresten-entdeckt-a-d6ccc614-c1ac-4210-809a-090151dece42#ref=rss)
+* [https://www.spiegel.de/wissenschaft/titanic-halskette-mit-hai-zahn-am-wrack-entdeckt](https://www.spiegel.de/wissenschaft/titanic-halskette-mit-hai-zahn-am-wrack-entdeckt-a-3c4866a5-1b6e-4f34-95db-f9af0023874c#ref=rss)
+### urteil
 
-* [https://www.spiegel.de/wirtschaft/kfw-kredite-fuer-familien-das-ist-der-nachfolger-fuers-baukindergeld](https://www.spiegel.de/wirtschaft/kfw-kredite-fuer-familien-das-ist-der-nachfolger-fuers-baukindergeld-a-e0fac587-23f9-41cd-8caf-4687abba2743#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/immobilien-wie-hauskaeufer-entlastet-werden-koennten-irgendwann](https://www.spiegel.de/wirtschaft/soziales/immobilien-wie-hauskaeufer-entlastet-werden-koennten-irgendwann-a-261c6281-a2b4-49f6-84d5-ce00c631ac4f#ref=rss)
-### deutschlandticket
+* [https://www.spiegel.de/panorama/justiz/lina-e-proteste-gegen-urteil-ruhige-nacht-nach-zusammenstoessen-in-leipzig](https://www.spiegel.de/panorama/justiz/lina-e-proteste-gegen-urteil-ruhige-nacht-nach-zusammenstoessen-in-leipzig-a-12c695c3-0594-405a-8863-dabbdaf9dcd7#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/lina-e-dresden-thueringens-verfassungsschutz-chef-warnt-vor-linker-radikalisierung-kritik-an-freilassung](https://www.spiegel.de/panorama/justiz/lina-e-dresden-thueringens-verfassungsschutz-chef-warnt-vor-linker-radikalisierung-kritik-an-freilassung-a-24aa64c9-a9cb-4a4c-8165-496d5b298588#ref=rss)
+### fc
 
-* [https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft](https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft-a-160b5991-65fc-44ec-bb11-ff4967c5775c#ref=rss)
-### rund
+* [https://www.spiegel.de/sport/fussball/fc-bayern-topspielerinnen-pernille-harder-und-magdalena-eriksson-kommen-vom-fc-chelsea](https://www.spiegel.de/sport/fussball/fc-bayern-topspielerinnen-pernille-harder-und-magdalena-eriksson-kommen-vom-fc-chelsea-a-56951044-487a-4f99-aa19-26f45b56b40f#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft](https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft-a-160b5991-65fc-44ec-bb11-ff4967c5775c#ref=rss)
-### zehn
+* [https://www.spiegel.de/wirtschaft/bahn-unglueck-in-garmisch-partenkirchen-ermittler-sehen-defekte-betonschwellen-als-ursache](https://www.spiegel.de/wirtschaft/bahn-unglueck-in-garmisch-partenkirchen-ermittler-sehen-defekte-betonschwellen-als-ursache-a-36a62076-f1bf-49e8-813e-4b537c524af9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oldenburg-pitbull-beisst-mehrere-menschen-und-wird-von-polizei-erschossen](https://www.spiegel.de/panorama/justiz/oldenburg-pitbull-beisst-mehrere-menschen-und-wird-von-polizei-erschossen-a-293ed7f8-184c-4174-a021-e1c7031b177a#ref=rss)
+### verletzt
 
-* [https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft](https://www.spiegel.de/auto/deutschlandticket-rund-zehn-millionen-fahrscheine-nach-dem-ersten-monat-verkauft-a-160b5991-65fc-44ec-bb11-ff4967c5775c#ref=rss)
-### augsburger
+* [https://www.spiegel.de/wirtschaft/bahn-unglueck-in-garmisch-partenkirchen-ermittler-sehen-defekte-betonschwellen-als-ursache](https://www.spiegel.de/wirtschaft/bahn-unglueck-in-garmisch-partenkirchen-ermittler-sehen-defekte-betonschwellen-als-ursache-a-36a62076-f1bf-49e8-813e-4b537c524af9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oldenburg-pitbull-beisst-mehrere-menschen-und-wird-von-polizei-erschossen](https://www.spiegel.de/panorama/justiz/oldenburg-pitbull-beisst-mehrere-menschen-und-wird-von-polizei-erschossen-a-293ed7f8-184c-4174-a021-e1c7031b177a#ref=rss)
+### rolle
 
-* [https://www.spiegel.de/panorama/justiz/augsburger-domsingknaben-mitarbeiter-soll-kinder-heimlich-nackt-gefilmt-haben](https://www.spiegel.de/panorama/justiz/augsburger-domsingknaben-mitarbeiter-soll-kinder-heimlich-nackt-gefilmt-haben-a-386ea9fd-7414-42d7-bef1-8be355e35f51#ref=rss)
-### domsingknaben
+* [https://www.spiegel.de/start/generation-z-wie-junge-erwachsene-arbeiten-wollen](https://www.spiegel.de/start/generation-z-wie-junge-erwachsene-arbeiten-wollen-a-30f79813-cd4d-4a43-8d4d-9e8bef1666f1#ref=rss)
+* [https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit](https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit-a-cd6f4c7b-8145-46f6-b6e2-763a8ca368db#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-corona-app-wird-eingestellt-baufoerderung-kommt](https://www.spiegel.de/politik/deutschland/deutschland-corona-app-wird-eingestellt-baufoerderung-kommt-a-8c758e8e-f996-4eaf-a889-cf2403012814#ref=rss)
+### spielt
 
-* [https://www.spiegel.de/panorama/justiz/augsburger-domsingknaben-mitarbeiter-soll-kinder-heimlich-nackt-gefilmt-haben](https://www.spiegel.de/panorama/justiz/augsburger-domsingknaben-mitarbeiter-soll-kinder-heimlich-nackt-gefilmt-haben-a-386ea9fd-7414-42d7-bef1-8be355e35f51#ref=rss)
-### mitarbeiter
+* [https://www.spiegel.de/start/generation-z-wie-junge-erwachsene-arbeiten-wollen](https://www.spiegel.de/start/generation-z-wie-junge-erwachsene-arbeiten-wollen-a-30f79813-cd4d-4a43-8d4d-9e8bef1666f1#ref=rss)
+* [https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit](https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit-a-cd6f4c7b-8145-46f6-b6e2-763a8ca368db#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/deutschland-corona-app-wird-eingestellt-baufoerderung-kommt](https://www.spiegel.de/politik/deutschland/deutschland-corona-app-wird-eingestellt-baufoerderung-kommt-a-8c758e8e-f996-4eaf-a889-cf2403012814#ref=rss)
+### and
 
-* [https://www.spiegel.de/panorama/justiz/augsburger-domsingknaben-mitarbeiter-soll-kinder-heimlich-nackt-gefilmt-haben](https://www.spiegel.de/panorama/justiz/augsburger-domsingknaben-mitarbeiter-soll-kinder-heimlich-nackt-gefilmt-haben-a-386ea9fd-7414-42d7-bef1-8be355e35f51#ref=rss)
-### alexej
+* [https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit](https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit-a-cd6f4c7b-8145-46f6-b6e2-763a8ca368db#ref=rss)
+### moskau
 
-* [https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde](https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde-a-7cf432c9-4c6e-4995-84d0-b676f0854938#ref=rss)
-### nawalny
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-donnerstag-russische-grenzregion-belgorod-meldet-intensiven-beschuss](https://www.spiegel.de/ausland/russland-ukraine-news-am-donnerstag-russische-grenzregion-belgorod-meldet-intensiven-beschuss-a-ef9a77aa-2c45-46b8-b217-20c81ed12c6b#ref=rss)
+### region
 
-* [https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde](https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde-a-7cf432c9-4c6e-4995-84d0-b676f0854938#ref=rss)
-### beschwerde
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-donnerstag-russische-grenzregion-belgorod-meldet-intensiven-beschuss](https://www.spiegel.de/ausland/russland-ukraine-news-am-donnerstag-russische-grenzregion-belgorod-meldet-intensiven-beschuss-a-ef9a77aa-2c45-46b8-b217-20c81ed12c6b#ref=rss)
+### belgorod
 
-* [https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde](https://www.spiegel.de/ausland/russland-alexej-nawalny-scheitert-vor-neuem-prozess-mit-beschwerde-a-7cf432c9-4c6e-4995-84d0-b676f0854938#ref=rss)
-### watzmann
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-donnerstag-russische-grenzregion-belgorod-meldet-intensiven-beschuss](https://www.spiegel.de/ausland/russland-ukraine-news-am-donnerstag-russische-grenzregion-belgorod-meldet-intensiven-beschuss-a-ef9a77aa-2c45-46b8-b217-20c81ed12c6b#ref=rss)
+### russische
 
-* [https://www.spiegel.de/panorama/watzmann-in-bayern-aus-not-gerettete-urlauber-meckern-bergwacht-an](https://www.spiegel.de/panorama/watzmann-in-bayern-aus-not-gerettete-urlauber-meckern-bergwacht-an-a-1ca94478-8315-4723-9c3e-7975dda45d99#ref=rss)
-### urlauber
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-donnerstag-russische-grenzregion-belgorod-meldet-intensiven-beschuss](https://www.spiegel.de/ausland/russland-ukraine-news-am-donnerstag-russische-grenzregion-belgorod-meldet-intensiven-beschuss-a-ef9a77aa-2c45-46b8-b217-20c81ed12c6b#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-kinder-in-kiew-am-internationalen-kindertag](https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-kinder-in-kiew-am-internationalen-kindertag-a-d15e6a2d-b53b-459e-9b9d-b0078d5da8f5#ref=rss)
+### heidi
 
-* [https://www.spiegel.de/panorama/watzmann-in-bayern-aus-not-gerettete-urlauber-meckern-bergwacht-an](https://www.spiegel.de/panorama/watzmann-in-bayern-aus-not-gerettete-urlauber-meckern-bergwacht-an-a-1ca94478-8315-4723-9c3e-7975dda45d99#ref=rss)
-### frankfurt
+* [https://www.spiegel.de/panorama/leute/heidi-klum-wird-50-ihre-karriere-in-bildern](https://www.spiegel.de/panorama/leute/heidi-klum-wird-50-ihre-karriere-in-bildern-a-a07cb304-d483-43eb-8a65-8eff22e470cc#ref=rss)
+### klum
 
-* [https://www.spiegel.de/panorama/frankfurt-am-main-angriff-bei-jugendfussball-turnier-verdaechtiger-soll-von-hinten-gegen-den-kopf-geschlagen-haben](https://www.spiegel.de/panorama/frankfurt-am-main-angriff-bei-jugendfussball-turnier-verdaechtiger-soll-von-hinten-gegen-den-kopf-geschlagen-haben-a-10cce8bb-7059-4969-b0cb-2e64f84c8e88#ref=rss)
-### main
+* [https://www.spiegel.de/panorama/leute/heidi-klum-wird-50-ihre-karriere-in-bildern](https://www.spiegel.de/panorama/leute/heidi-klum-wird-50-ihre-karriere-in-bildern-a-a07cb304-d483-43eb-8a65-8eff22e470cc#ref=rss)
+### 50
 
-* [https://www.spiegel.de/panorama/frankfurt-am-main-angriff-bei-jugendfussball-turnier-verdaechtiger-soll-von-hinten-gegen-den-kopf-geschlagen-haben](https://www.spiegel.de/panorama/frankfurt-am-main-angriff-bei-jugendfussball-turnier-verdaechtiger-soll-von-hinten-gegen-den-kopf-geschlagen-haben-a-10cce8bb-7059-4969-b0cb-2e64f84c8e88#ref=rss)
-### neue
+* [https://www.spiegel.de/panorama/leute/heidi-klum-wird-50-ihre-karriere-in-bildern](https://www.spiegel.de/panorama/leute/heidi-klum-wird-50-ihre-karriere-in-bildern-a-a07cb304-d483-43eb-8a65-8eff22e470cc#ref=rss)
+### karriere
 
-* [https://www.spiegel.de/panorama/frankfurt-am-main-angriff-bei-jugendfussball-turnier-verdaechtiger-soll-von-hinten-gegen-den-kopf-geschlagen-haben](https://www.spiegel.de/panorama/frankfurt-am-main-angriff-bei-jugendfussball-turnier-verdaechtiger-soll-von-hinten-gegen-den-kopf-geschlagen-haben-a-10cce8bb-7059-4969-b0cb-2e64f84c8e88#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/til-schweiger-wie-die-vorwuerfe-gegen-den-schauspieler-oeffentlich-wurden](https://www.spiegel.de/politik/deutschland/til-schweiger-wie-die-vorwuerfe-gegen-den-schauspieler-oeffentlich-wurden-a-620fd2a2-289a-4d58-ba7e-1c5ba2b8a50e#ref=rss)
-### islamischer
+* [https://www.spiegel.de/panorama/leute/heidi-klum-wird-50-ihre-karriere-in-bildern](https://www.spiegel.de/panorama/leute/heidi-klum-wird-50-ihre-karriere-in-bildern-a-a07cb304-d483-43eb-8a65-8eff22e470cc#ref=rss)
+### bildern
 
-* [https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft](https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft-a-e7c5c072-8027-4b00-a346-f56cdfafa261#ref=rss)
-### staat
+* [https://www.spiegel.de/panorama/leute/heidi-klum-wird-50-ihre-karriere-in-bildern](https://www.spiegel.de/panorama/leute/heidi-klum-wird-50-ihre-karriere-in-bildern-a-a07cb304-d483-43eb-8a65-8eff22e470cc#ref=rss)
+### meta
 
-* [https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft](https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft-a-e7c5c072-8027-4b00-a346-f56cdfafa261#ref=rss)
-### mutmaßliche
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-konzern-meta-droht-kalifornien-mit-nachrichten-boykott](https://www.spiegel.de/netzwelt/netzpolitik/facebook-konzern-meta-droht-kalifornien-mit-nachrichten-boykott-a-a95a5233-81c6-4d00-8b78-84b2c5261d2c#ref=rss)
+### kalifornien
 
-* [https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft](https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft-a-e7c5c072-8027-4b00-a346-f56cdfafa261#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/berlin-auseinandersetzung-nach-transfeindlicher-beleidigung](https://www.spiegel.de/panorama/justiz/berlin-auseinandersetzung-nach-transfeindlicher-beleidigung-a-cb4b32c5-99a0-46be-b35b-f8a0d51b9565#ref=rss)
-### razzia
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-konzern-meta-droht-kalifornien-mit-nachrichten-boykott](https://www.spiegel.de/netzwelt/netzpolitik/facebook-konzern-meta-droht-kalifornien-mit-nachrichten-boykott-a-a95a5233-81c6-4d00-8b78-84b2c5261d2c#ref=rss)
+### medien
 
-* [https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft](https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft-a-e7c5c072-8027-4b00-a346-f56cdfafa261#ref=rss)
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-konzern-meta-droht-kalifornien-mit-nachrichten-boykott](https://www.spiegel.de/netzwelt/netzpolitik/facebook-konzern-meta-droht-kalifornien-mit-nachrichten-boykott-a-a95a5233-81c6-4d00-8b78-84b2c5261d2c#ref=rss)
+* [https://www.spiegel.de/ausland/australien-ex-soldat-ben-roberts-smith-verliert-verleumdungsprozess-und-darf-als-moerder-bezeichnet-werden](https://www.spiegel.de/ausland/australien-ex-soldat-ben-roberts-smith-verliert-verleumdungsprozess-und-darf-als-moerder-bezeichnet-werden-a-feb51e3c-8848-4bfd-8773-8cdd129e9d29#ref=rss)
+### gesetz
+
+* [https://www.spiegel.de/netzwelt/netzpolitik/facebook-konzern-meta-droht-kalifornien-mit-nachrichten-boykott](https://www.spiegel.de/netzwelt/netzpolitik/facebook-konzern-meta-droht-kalifornien-mit-nachrichten-boykott-a-a95a5233-81c6-4d00-8b78-84b2c5261d2c#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-parlament-schraenkt-befugnisse-des-ministeriums-fuer-indigene-und-umwelt-ein](https://www.spiegel.de/ausland/brasilien-parlament-schraenkt-befugnisse-des-ministeriums-fuer-indigene-und-umwelt-ein-a-cadbf983-94f5-4571-a9c2-615dc8e767b0#ref=rss)
+### serbiens
+
+* [https://www.spiegel.de/ausland/aleksandar-vucic-serbiens-praesident-fordert-absetzung-albanischstaemmiger-buergermeister-im-norden-des-kosovo](https://www.spiegel.de/ausland/aleksandar-vucic-serbiens-praesident-fordert-absetzung-albanischstaemmiger-buergermeister-im-norden-des-kosovo-a-eec05c4f-3b60-4a33-aec9-486507a01fe9#ref=rss)
+### präsident
+
+* [https://www.spiegel.de/ausland/aleksandar-vucic-serbiens-praesident-fordert-absetzung-albanischstaemmiger-buergermeister-im-norden-des-kosovo](https://www.spiegel.de/ausland/aleksandar-vucic-serbiens-praesident-fordert-absetzung-albanischstaemmiger-buergermeister-im-norden-des-kosovo-a-eec05c4f-3b60-4a33-aec9-486507a01fe9#ref=rss)
+### kosovo
+
+* [https://www.spiegel.de/ausland/aleksandar-vucic-serbiens-praesident-fordert-absetzung-albanischstaemmiger-buergermeister-im-norden-des-kosovo](https://www.spiegel.de/ausland/aleksandar-vucic-serbiens-praesident-fordert-absetzung-albanischstaemmiger-buergermeister-im-norden-des-kosovo-a-eec05c4f-3b60-4a33-aec9-486507a01fe9#ref=rss)
+### vorwürfe
+
+* [https://www.spiegel.de/ausland/aleksandar-vucic-serbiens-praesident-fordert-absetzung-albanischstaemmiger-buergermeister-im-norden-des-kosovo](https://www.spiegel.de/ausland/aleksandar-vucic-serbiens-praesident-fordert-absetzung-albanischstaemmiger-buergermeister-im-norden-des-kosovo-a-eec05c4f-3b60-4a33-aec9-486507a01fe9#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/amazon-tochter-ring-mitarbeiter-beobachtete-kundinnen-ueber-kameras-im-haus](https://www.spiegel.de/netzwelt/gadgets/amazon-tochter-ring-mitarbeiter-beobachtete-kundinnen-ueber-kameras-im-haus-a-36215f0b-c51b-446c-9024-d1e21b21b3c5#ref=rss)
+### kritik
+
+* [https://www.spiegel.de/panorama/justiz/lina-e-dresden-thueringens-verfassungsschutz-chef-warnt-vor-linker-radikalisierung-kritik-an-freilassung](https://www.spiegel.de/panorama/justiz/lina-e-dresden-thueringens-verfassungsschutz-chef-warnt-vor-linker-radikalisierung-kritik-an-freilassung-a-24aa64c9-a9cb-4a4c-8165-496d5b298588#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-auch-bei-gruenen-gibt-es-zweifel-an-ausbau-von-fluessiggas-terminals](https://www.spiegel.de/wirtschaft/lng-auch-bei-gruenen-gibt-es-zweifel-an-ausbau-von-fluessiggas-terminals-a-86e47a65-d5df-4160-b984-e2286a93cca5#ref=rss)
 ### polizei
 
-* [https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft](https://www.spiegel.de/politik/deutschland/islamischer-staat-drei-mutmassliche-terror-unterstuetzer-nach-razzia-in-u-haft-a-e7c5c072-8027-4b00-a346-f56cdfafa261#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-haus-mit-graffiti-beschmiert-staatsschutz-ermittelt](https://www.spiegel.de/politik/deutschland/marco-buschmann-haus-mit-graffiti-beschmiert-staatsschutz-ermittelt-a-696975a5-973f-4ef7-96c4-f18d7cd39c4b#ref=rss)
-### kam
+* [https://www.spiegel.de/panorama/justiz/lina-e-dresden-thueringens-verfassungsschutz-chef-warnt-vor-linker-radikalisierung-kritik-an-freilassung](https://www.spiegel.de/panorama/justiz/lina-e-dresden-thueringens-verfassungsschutz-chef-warnt-vor-linker-radikalisierung-kritik-an-freilassung-a-24aa64c9-a9cb-4a4c-8165-496d5b298588#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/oldenburg-pitbull-beisst-mehrere-menschen-und-wird-von-polizei-erschossen](https://www.spiegel.de/panorama/justiz/oldenburg-pitbull-beisst-mehrere-menschen-und-wird-von-polizei-erschossen-a-293ed7f8-184c-4174-a021-e1c7031b177a#ref=rss)
+### grüne
 
-* [https://www.spiegel.de/panorama/justiz/berlin-auseinandersetzung-nach-transfeindlicher-beleidigung](https://www.spiegel.de/panorama/justiz/berlin-auseinandersetzung-nach-transfeindlicher-beleidigung-a-cb4b32c5-99a0-46be-b35b-f8a0d51b9565#ref=rss)
-### staatsschutz
+* [https://www.spiegel.de/panorama/justiz/lina-e-dresden-thueringens-verfassungsschutz-chef-warnt-vor-linker-radikalisierung-kritik-an-freilassung](https://www.spiegel.de/panorama/justiz/lina-e-dresden-thueringens-verfassungsschutz-chef-warnt-vor-linker-radikalisierung-kritik-an-freilassung-a-24aa64c9-a9cb-4a4c-8165-496d5b298588#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-auch-bei-gruenen-gibt-es-zweifel-an-ausbau-von-fluessiggas-terminals](https://www.spiegel.de/wirtschaft/lng-auch-bei-gruenen-gibt-es-zweifel-an-ausbau-von-fluessiggas-terminals-a-86e47a65-d5df-4160-b984-e2286a93cca5#ref=rss)
+### bayern
 
-* [https://www.spiegel.de/panorama/justiz/berlin-auseinandersetzung-nach-transfeindlicher-beleidigung](https://www.spiegel.de/panorama/justiz/berlin-auseinandersetzung-nach-transfeindlicher-beleidigung-a-cb4b32c5-99a0-46be-b35b-f8a0d51b9565#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-haus-mit-graffiti-beschmiert-staatsschutz-ermittelt](https://www.spiegel.de/politik/deutschland/marco-buschmann-haus-mit-graffiti-beschmiert-staatsschutz-ermittelt-a-696975a5-973f-4ef7-96c4-f18d7cd39c4b#ref=rss)
-### ermittelt
+* [https://www.spiegel.de/sport/fussball/fc-bayern-topspielerinnen-pernille-harder-und-magdalena-eriksson-kommen-vom-fc-chelsea](https://www.spiegel.de/sport/fussball/fc-bayern-topspielerinnen-pernille-harder-und-magdalena-eriksson-kommen-vom-fc-chelsea-a-56951044-487a-4f99-aa19-26f45b56b40f#ref=rss)
+### pernille
 
-* [https://www.spiegel.de/panorama/justiz/berlin-auseinandersetzung-nach-transfeindlicher-beleidigung](https://www.spiegel.de/panorama/justiz/berlin-auseinandersetzung-nach-transfeindlicher-beleidigung-a-cb4b32c5-99a0-46be-b35b-f8a0d51b9565#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-haus-mit-graffiti-beschmiert-staatsschutz-ermittelt](https://www.spiegel.de/politik/deutschland/marco-buschmann-haus-mit-graffiti-beschmiert-staatsschutz-ermittelt-a-696975a5-973f-4ef7-96c4-f18d7cd39c4b#ref=rss)
-### zurück
+* [https://www.spiegel.de/sport/fussball/fc-bayern-topspielerinnen-pernille-harder-und-magdalena-eriksson-kommen-vom-fc-chelsea](https://www.spiegel.de/sport/fussball/fc-bayern-topspielerinnen-pernille-harder-und-magdalena-eriksson-kommen-vom-fc-chelsea-a-56951044-487a-4f99-aa19-26f45b56b40f#ref=rss)
+### harder
 
-* [https://www.spiegel.de/wirtschaft/soziales/immobilien-wie-hauskaeufer-entlastet-werden-koennten-irgendwann](https://www.spiegel.de/wirtschaft/soziales/immobilien-wie-hauskaeufer-entlastet-werden-koennten-irgendwann-a-261c6281-a2b4-49f6-84d5-ce00c631ac4f#ref=rss)
-* [https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck](https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck-a-5dfc4a6c-6246-419a-8e06-53f185cb7877#ref=rss)
-### balkonkraftwerke
+* [https://www.spiegel.de/sport/fussball/fc-bayern-topspielerinnen-pernille-harder-und-magdalena-eriksson-kommen-vom-fc-chelsea](https://www.spiegel.de/sport/fussball/fc-bayern-topspielerinnen-pernille-harder-und-magdalena-eriksson-kommen-vom-fc-chelsea-a-56951044-487a-4f99-aa19-26f45b56b40f#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/wirtschaft/balkonkraftwerke-steckerfertige-mini-solaranlagen-soll-bald-leichter-zu-installieren-sein](https://www.spiegel.de/wirtschaft/balkonkraftwerke-steckerfertige-mini-solaranlagen-soll-bald-leichter-zu-installieren-sein-a-ef5dd3a5-3e37-4e5a-9299-f3ee639f6df7#ref=rss)
-### selahattin
+* [https://www.spiegel.de/sport/fussball/fc-bayern-topspielerinnen-pernille-harder-und-magdalena-eriksson-kommen-vom-fc-chelsea](https://www.spiegel.de/sport/fussball/fc-bayern-topspielerinnen-pernille-harder-und-magdalena-eriksson-kommen-vom-fc-chelsea-a-56951044-487a-4f99-aa19-26f45b56b40f#ref=rss)
+* [https://www.spiegel.de/wirtschaft/lng-auch-bei-gruenen-gibt-es-zweifel-an-ausbau-von-fluessiggas-terminals](https://www.spiegel.de/wirtschaft/lng-auch-bei-gruenen-gibt-es-zweifel-an-ausbau-von-fluessiggas-terminals-a-86e47a65-d5df-4160-b984-e2286a93cca5#ref=rss)
+### garmischpartenkirchen
 
-* [https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck](https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck-a-5dfc4a6c-6246-419a-8e06-53f185cb7877#ref=rss)
-### demirtaş
+* [https://www.spiegel.de/wirtschaft/bahn-unglueck-in-garmisch-partenkirchen-ermittler-sehen-defekte-betonschwellen-als-ursache](https://www.spiegel.de/wirtschaft/bahn-unglueck-in-garmisch-partenkirchen-ermittler-sehen-defekte-betonschwellen-als-ursache-a-36a62076-f1bf-49e8-813e-4b537c524af9#ref=rss)
+### ermittler
 
-* [https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck](https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck-a-5dfc4a6c-6246-419a-8e06-53f185cb7877#ref=rss)
-### politik
+* [https://www.spiegel.de/wirtschaft/bahn-unglueck-in-garmisch-partenkirchen-ermittler-sehen-defekte-betonschwellen-als-ursache](https://www.spiegel.de/wirtschaft/bahn-unglueck-in-garmisch-partenkirchen-ermittler-sehen-defekte-betonschwellen-als-ursache-a-36a62076-f1bf-49e8-813e-4b537c524af9#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/mexiko-45-plastiksaecke-mit-menschlichen-ueberresten-entdeckt](https://www.spiegel.de/panorama/justiz/mexiko-45-plastiksaecke-mit-menschlichen-ueberresten-entdeckt-a-d6ccc614-c1ac-4210-809a-090151dece42#ref=rss)
+### defekte
 
-* [https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck](https://www.spiegel.de/ausland/tuerkei-selahattin-demirtas-zieht-sich-aus-aktiver-politik-zurueck-a-5dfc4a6c-6246-419a-8e06-53f185cb7877#ref=rss)
-### social
+* [https://www.spiegel.de/wirtschaft/bahn-unglueck-in-garmisch-partenkirchen-ermittler-sehen-defekte-betonschwellen-als-ursache](https://www.spiegel.de/wirtschaft/bahn-unglueck-in-garmisch-partenkirchen-ermittler-sehen-defekte-betonschwellen-als-ursache-a-36a62076-f1bf-49e8-813e-4b537c524af9#ref=rss)
+### betonschwellen
 
-* [https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde](https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde-a-f35ef60c-9280-4763-9a8d-af799d548aab#ref=rss)
-### design
+* [https://www.spiegel.de/wirtschaft/bahn-unglueck-in-garmisch-partenkirchen-ermittler-sehen-defekte-betonschwellen-als-ursache](https://www.spiegel.de/wirtschaft/bahn-unglueck-in-garmisch-partenkirchen-ermittler-sehen-defekte-betonschwellen-als-ursache-a-36a62076-f1bf-49e8-813e-4b537c524af9#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde](https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde-a-f35ef60c-9280-4763-9a8d-af799d548aab#ref=rss)
-### award
+* [https://www.spiegel.de/panorama/justiz/mexiko-45-plastiksaecke-mit-menschlichen-ueberresten-entdeckt](https://www.spiegel.de/panorama/justiz/mexiko-45-plastiksaecke-mit-menschlichen-ueberresten-entdeckt-a-d6ccc614-c1ac-4210-809a-090151dece42#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/amazon-tochter-ring-mitarbeiter-beobachtete-kundinnen-ueber-kameras-im-haus](https://www.spiegel.de/netzwelt/gadgets/amazon-tochter-ring-mitarbeiter-beobachtete-kundinnen-ueber-kameras-im-haus-a-36215f0b-c51b-446c-9024-d1e21b21b3c5#ref=rss)
+### hallhuber
 
-* [https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde](https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde-a-f35ef60c-9280-4763-9a8d-af799d548aab#ref=rss)
-### einfach
+* [https://www.spiegel.de/wirtschaft/unternehmen/hallhuber-schlittert-erneut-in-insolvenz](https://www.spiegel.de/wirtschaft/unternehmen/hallhuber-schlittert-erneut-in-insolvenz-a-2a84465c-9758-4d27-ad37-fc7d9bd8000f#ref=rss)
+### münchner
 
-* [https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde](https://www.spiegel.de/stil/social-design-award-wie-ein-verlassenes-toilettenhaeuschen-zur-kultur-oase-wurde-a-f35ef60c-9280-4763-9a8d-af799d548aab#ref=rss)
-* [https://www.spiegel.de/start/rezept-fuer-schnelles-pfannenbrot-mit-feta-dip-und-salat-fuer-2-euro](https://www.spiegel.de/start/rezept-fuer-schnelles-pfannenbrot-mit-feta-dip-und-salat-fuer-2-euro-a-86638219-9447-4a7f-8a6e-f4c38d358c3f#ref=rss)
-### quincy
+* [https://www.spiegel.de/wirtschaft/unternehmen/hallhuber-schlittert-erneut-in-insolvenz](https://www.spiegel.de/wirtschaft/unternehmen/hallhuber-schlittert-erneut-in-insolvenz-a-2a84465c-9758-4d27-ad37-fc7d9bd8000f#ref=rss)
+### junge
 
-* [https://www.spiegel.de/sport/fussball/quincy-promes-des-kokain-schmuggels-verdaechtig-auf-der-schiefen-bahn](https://www.spiegel.de/sport/fussball/quincy-promes-des-kokain-schmuggels-verdaechtig-auf-der-schiefen-bahn-a-e3f9be3d-e7f0-40ec-b827-94e1dd8a49e4#ref=rss)
-### promes
+* [https://www.spiegel.de/start/generation-z-wie-junge-erwachsene-arbeiten-wollen](https://www.spiegel.de/start/generation-z-wie-junge-erwachsene-arbeiten-wollen-a-30f79813-cd4d-4a43-8d4d-9e8bef1666f1#ref=rss)
+### erwachsene
 
-* [https://www.spiegel.de/sport/fussball/quincy-promes-des-kokain-schmuggels-verdaechtig-auf-der-schiefen-bahn](https://www.spiegel.de/sport/fussball/quincy-promes-des-kokain-schmuggels-verdaechtig-auf-der-schiefen-bahn-a-e3f9be3d-e7f0-40ec-b827-94e1dd8a49e4#ref=rss)
-### buschmann
+* [https://www.spiegel.de/start/generation-z-wie-junge-erwachsene-arbeiten-wollen](https://www.spiegel.de/start/generation-z-wie-junge-erwachsene-arbeiten-wollen-a-30f79813-cd4d-4a43-8d4d-9e8bef1666f1#ref=rss)
+### spiderman
 
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-haus-mit-graffiti-beschmiert-staatsschutz-ermittelt](https://www.spiegel.de/politik/deutschland/marco-buschmann-haus-mit-graffiti-beschmiert-staatsschutz-ermittelt-a-696975a5-973f-4ef7-96c4-f18d7cd39c4b#ref=rss)
-### beschmiert
+* [https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja](https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja-a-81c36e6c-0a01-4026-a57d-a5f59e4af773#ref=rss)
+### across
 
-* [https://www.spiegel.de/politik/deutschland/marco-buschmann-haus-mit-graffiti-beschmiert-staatsschutz-ermittelt](https://www.spiegel.de/politik/deutschland/marco-buschmann-haus-mit-graffiti-beschmiert-staatsschutz-ermittelt-a-696975a5-973f-4ef7-96c4-f18d7cd39c4b#ref=rss)
-### til
+* [https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja](https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja-a-81c36e6c-0a01-4026-a57d-a5f59e4af773#ref=rss)
+### spiderverse
 
-* [https://www.spiegel.de/politik/deutschland/til-schweiger-wie-die-vorwuerfe-gegen-den-schauspieler-oeffentlich-wurden](https://www.spiegel.de/politik/deutschland/til-schweiger-wie-die-vorwuerfe-gegen-den-schauspieler-oeffentlich-wurden-a-620fd2a2-289a-4d58-ba7e-1c5ba2b8a50e#ref=rss)
-### schweiger
+* [https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja](https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja-a-81c36e6c-0a01-4026-a57d-a5f59e4af773#ref=rss)
+### superheldenfilm
 
-* [https://www.spiegel.de/politik/deutschland/til-schweiger-wie-die-vorwuerfe-gegen-den-schauspieler-oeffentlich-wurden](https://www.spiegel.de/politik/deutschland/til-schweiger-wie-die-vorwuerfe-gegen-den-schauspieler-oeffentlich-wurden-a-620fd2a2-289a-4d58-ba7e-1c5ba2b8a50e#ref=rss)
+* [https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja](https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja-a-81c36e6c-0a01-4026-a57d-a5f59e4af773#ref=rss)
+### kunstwerk
+
+* [https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja](https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja-a-81c36e6c-0a01-4026-a57d-a5f59e4af773#ref=rss)
+### ja
+
+* [https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja](https://www.spiegel.de/kultur/kino/spider-man-across-the-spider-verse-im-kino-kann-ein-superheldenfilm-ein-kunstwerk-sein-ja-a-81c36e6c-0a01-4026-a57d-a5f59e4af773#ref=rss)
+### titanic
+
+* [https://www.spiegel.de/wissenschaft/titanic-halskette-mit-hai-zahn-am-wrack-entdeckt](https://www.spiegel.de/wissenschaft/titanic-halskette-mit-hai-zahn-am-wrack-entdeckt-a-3c4866a5-1b6e-4f34-95db-f9af0023874c#ref=rss)
+### jahren
+
+* [https://www.spiegel.de/wissenschaft/titanic-halskette-mit-hai-zahn-am-wrack-entdeckt](https://www.spiegel.de/wissenschaft/titanic-halskette-mit-hai-zahn-am-wrack-entdeckt-a-3c4866a5-1b6e-4f34-95db-f9af0023874c#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/wenn-kinder-an-schulischen-mindeststandards-scheitern-nicht-gut-genug](https://www.spiegel.de/panorama/bildung/wenn-kinder-an-schulischen-mindeststandards-scheitern-nicht-gut-genug-a-b907d4e1-5b8f-4e8d-ba88-98d4bee2119c#ref=rss)
+### josé
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-nach-dem-verlorenen-finale-der-europa-league-ich-war-nie-stolzer-als-heute](https://www.spiegel.de/sport/fussball/jose-mourinho-nach-dem-verlorenen-finale-der-europa-league-ich-war-nie-stolzer-als-heute-a-31c8b642-1a82-42ac-835e-f77451948597#ref=rss)
+### mourinho
+
+* [https://www.spiegel.de/sport/fussball/jose-mourinho-nach-dem-verlorenen-finale-der-europa-league-ich-war-nie-stolzer-als-heute](https://www.spiegel.de/sport/fussball/jose-mourinho-nach-dem-verlorenen-finale-der-europa-league-ich-war-nie-stolzer-als-heute-a-31c8b642-1a82-42ac-835e-f77451948597#ref=rss)
+### sex
+
+* [https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit](https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit-a-cd6f4c7b-8145-46f6-b6e2-763a8ca368db#ref=rss)
+### kim
+
+* [https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit](https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit-a-cd6f4c7b-8145-46f6-b6e2-763a8ca368db#ref=rss)
+### cattrall
+
+* [https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit](https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit-a-cd6f4c7b-8145-46f6-b6e2-763a8ca368db#ref=rss)
+### zeit
+
+* [https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit](https://www.spiegel.de/kultur/tv/sex-and-the-city-neuauflage-kim-cattrall-spielt-nun-doch-mit-a-cd6f4c7b-8145-46f6-b6e2-763a8ca368db#ref=rss)
+* [https://www.spiegel.de/wissenschaft/nasa-ufo-expertengruppe-fordert-bessere-daten](https://www.spiegel.de/wissenschaft/nasa-ufo-expertengruppe-fordert-bessere-daten-a-1edfa514-0a37-4786-b688-988a95c09855#ref=rss)
+### ring
+
+* [https://www.spiegel.de/netzwelt/gadgets/amazon-tochter-ring-mitarbeiter-beobachtete-kundinnen-ueber-kameras-im-haus](https://www.spiegel.de/netzwelt/gadgets/amazon-tochter-ring-mitarbeiter-beobachtete-kundinnen-ueber-kameras-im-haus-a-36215f0b-c51b-446c-9024-d1e21b21b3c5#ref=rss)
+### amazontochter
+
+* [https://www.spiegel.de/netzwelt/gadgets/amazon-tochter-ring-mitarbeiter-beobachtete-kundinnen-ueber-kameras-im-haus](https://www.spiegel.de/netzwelt/gadgets/amazon-tochter-ring-mitarbeiter-beobachtete-kundinnen-ueber-kameras-im-haus-a-36215f0b-c51b-446c-9024-d1e21b21b3c5#ref=rss)
+### ben
+
+* [https://www.spiegel.de/ausland/australien-ex-soldat-ben-roberts-smith-verliert-verleumdungsprozess-und-darf-als-moerder-bezeichnet-werden](https://www.spiegel.de/ausland/australien-ex-soldat-ben-roberts-smith-verliert-verleumdungsprozess-und-darf-als-moerder-bezeichnet-werden-a-feb51e3c-8848-4bfd-8773-8cdd129e9d29#ref=rss)
+### robertssmith
+
+* [https://www.spiegel.de/ausland/australien-ex-soldat-ben-roberts-smith-verliert-verleumdungsprozess-und-darf-als-moerder-bezeichnet-werden](https://www.spiegel.de/ausland/australien-ex-soldat-ben-roberts-smith-verliert-verleumdungsprozess-und-darf-als-moerder-bezeichnet-werden-a-feb51e3c-8848-4bfd-8773-8cdd129e9d29#ref=rss)
+### ralf
+
+* [https://www.spiegel.de/wirtschaft/krankenkassenchef-ralf-hermes-will-zahnbehandlungen-nicht-mehr-bezahlen](https://www.spiegel.de/wirtschaft/krankenkassenchef-ralf-hermes-will-zahnbehandlungen-nicht-mehr-bezahlen-a-93fabca7-299a-4010-8c3d-543782e7e7ac#ref=rss)
+### hermes
+
+* [https://www.spiegel.de/wirtschaft/krankenkassenchef-ralf-hermes-will-zahnbehandlungen-nicht-mehr-bezahlen](https://www.spiegel.de/wirtschaft/krankenkassenchef-ralf-hermes-will-zahnbehandlungen-nicht-mehr-bezahlen-a-93fabca7-299a-4010-8c3d-543782e7e7ac#ref=rss)
+### kampf
+
+* [https://www.spiegel.de/wirtschaft/krankenkassenchef-ralf-hermes-will-zahnbehandlungen-nicht-mehr-bezahlen](https://www.spiegel.de/wirtschaft/krankenkassenchef-ralf-hermes-will-zahnbehandlungen-nicht-mehr-bezahlen-a-93fabca7-299a-4010-8c3d-543782e7e7ac#ref=rss)
+* [https://www.spiegel.de/ausland/brasilien-parlament-schraenkt-befugnisse-des-ministeriums-fuer-indigene-und-umwelt-ein](https://www.spiegel.de/ausland/brasilien-parlament-schraenkt-befugnisse-des-ministeriums-fuer-indigene-und-umwelt-ein-a-cadbf983-94f5-4571-a9c2-615dc8e767b0#ref=rss)
+### kinder
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-kinder-in-kiew-am-internationalen-kindertag](https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-kinder-in-kiew-am-internationalen-kindertag-a-d15e6a2d-b53b-459e-9b9d-b0078d5da8f5#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/wenn-kinder-an-schulischen-mindeststandards-scheitern-nicht-gut-genug](https://www.spiegel.de/panorama/bildung/wenn-kinder-an-schulischen-mindeststandards-scheitern-nicht-gut-genug-a-b907d4e1-5b8f-4e8d-ba88-98d4bee2119c#ref=rss)
+### kiew
+
+* [https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-kinder-in-kiew-am-internationalen-kindertag](https://www.spiegel.de/ausland/ukraine-krieg-zwei-tote-kinder-in-kiew-am-internationalen-kindertag-a-d15e6a2d-b53b-459e-9b9d-b0078d5da8f5#ref=rss)
+### energieberater
+
+* [https://www.spiegel.de/start/energieberater-werden-mark-steiger-erzaehlt-von-seinem-job](https://www.spiegel.de/start/energieberater-werden-mark-steiger-erzaehlt-von-seinem-job-a-35883b03-d1d0-49b9-b7da-78c7354f13c6#ref=rss)
+### mark
+
+* [https://www.spiegel.de/start/energieberater-werden-mark-steiger-erzaehlt-von-seinem-job](https://www.spiegel.de/start/energieberater-werden-mark-steiger-erzaehlt-von-seinem-job-a-35883b03-d1d0-49b9-b7da-78c7354f13c6#ref=rss)
+### steiger
+
+* [https://www.spiegel.de/start/energieberater-werden-mark-steiger-erzaehlt-von-seinem-job](https://www.spiegel.de/start/energieberater-werden-mark-steiger-erzaehlt-von-seinem-job-a-35883b03-d1d0-49b9-b7da-78c7354f13c6#ref=rss)
+### job
+
+* [https://www.spiegel.de/start/energieberater-werden-mark-steiger-erzaehlt-von-seinem-job](https://www.spiegel.de/start/energieberater-werden-mark-steiger-erzaehlt-von-seinem-job-a-35883b03-d1d0-49b9-b7da-78c7354f13c6#ref=rss)
+### mindeststandards
+
+* [https://www.spiegel.de/panorama/bildung/wenn-kinder-an-schulischen-mindeststandards-scheitern-nicht-gut-genug](https://www.spiegel.de/panorama/bildung/wenn-kinder-an-schulischen-mindeststandards-scheitern-nicht-gut-genug-a-b907d4e1-5b8f-4e8d-ba88-98d4bee2119c#ref=rss)
+### ministeriums
+
+* [https://www.spiegel.de/ausland/brasilien-parlament-schraenkt-befugnisse-des-ministeriums-fuer-indigene-und-umwelt-ein](https://www.spiegel.de/ausland/brasilien-parlament-schraenkt-befugnisse-des-ministeriums-fuer-indigene-und-umwelt-ein-a-cadbf983-94f5-4571-a9c2-615dc8e767b0#ref=rss)
+### indigene
+
+* [https://www.spiegel.de/ausland/brasilien-parlament-schraenkt-befugnisse-des-ministeriums-fuer-indigene-und-umwelt-ein](https://www.spiegel.de/ausland/brasilien-parlament-schraenkt-befugnisse-des-ministeriums-fuer-indigene-und-umwelt-ein-a-cadbf983-94f5-4571-a9c2-615dc8e767b0#ref=rss)
+### pitbull
+
+* [https://www.spiegel.de/panorama/justiz/oldenburg-pitbull-beisst-mehrere-menschen-und-wird-von-polizei-erschossen](https://www.spiegel.de/panorama/justiz/oldenburg-pitbull-beisst-mehrere-menschen-und-wird-von-polizei-erschossen-a-293ed7f8-184c-4174-a021-e1c7031b177a#ref=rss)
+### sechs
+
+* [https://www.spiegel.de/panorama/justiz/oldenburg-pitbull-beisst-mehrere-menschen-und-wird-von-polizei-erschossen](https://www.spiegel.de/panorama/justiz/oldenburg-pitbull-beisst-mehrere-menschen-und-wird-von-polizei-erschossen-a-293ed7f8-184c-4174-a021-e1c7031b177a#ref=rss)
+### bisse
+
+* [https://www.spiegel.de/panorama/justiz/oldenburg-pitbull-beisst-mehrere-menschen-und-wird-von-polizei-erschossen](https://www.spiegel.de/panorama/justiz/oldenburg-pitbull-beisst-mehrere-menschen-und-wird-von-polizei-erschossen-a-293ed7f8-184c-4174-a021-e1c7031b177a#ref=rss)
+### nasa
+
+* [https://www.spiegel.de/wissenschaft/nasa-ufo-expertengruppe-fordert-bessere-daten](https://www.spiegel.de/wissenschaft/nasa-ufo-expertengruppe-fordert-bessere-daten-a-1edfa514-0a37-4786-b688-988a95c09855#ref=rss)
+### bessere
+
+* [https://www.spiegel.de/wissenschaft/nasa-ufo-expertengruppe-fordert-bessere-daten](https://www.spiegel.de/wissenschaft/nasa-ufo-expertengruppe-fordert-bessere-daten-a-1edfa514-0a37-4786-b688-988a95c09855#ref=rss)
+### daten
+
+* [https://www.spiegel.de/wissenschaft/nasa-ufo-expertengruppe-fordert-bessere-daten](https://www.spiegel.de/wissenschaft/nasa-ufo-expertengruppe-fordert-bessere-daten-a-1edfa514-0a37-4786-b688-988a95c09855#ref=rss)
+### grünen
+
+* [https://www.spiegel.de/wirtschaft/lng-auch-bei-gruenen-gibt-es-zweifel-an-ausbau-von-fluessiggas-terminals](https://www.spiegel.de/wirtschaft/lng-auch-bei-gruenen-gibt-es-zweifel-an-ausbau-von-fluessiggas-terminals-a-86e47a65-d5df-4160-b984-e2286a93cca5#ref=rss)
+### aktenzeichen
+
+* [https://www.spiegel.de/kultur/tv/aktenzeichen-xy-mit-nancy-faeser-eingeseift-vom-chatchinesen](https://www.spiegel.de/kultur/tv/aktenzeichen-xy-mit-nancy-faeser-eingeseift-vom-chatchinesen-a-b45660a4-2381-4fa4-86f5-fec113ee95b8#ref=rss)
+### xy
+
+* [https://www.spiegel.de/kultur/tv/aktenzeichen-xy-mit-nancy-faeser-eingeseift-vom-chatchinesen](https://www.spiegel.de/kultur/tv/aktenzeichen-xy-mit-nancy-faeser-eingeseift-vom-chatchinesen-a-b45660a4-2381-4fa4-86f5-fec113ee95b8#ref=rss)
+### trump
+
+* [https://www.spiegel.de/ausland/donald-trump-belastende-tonaufnahme-in-dokumenten-affaere](https://www.spiegel.de/ausland/donald-trump-belastende-tonaufnahme-in-dokumenten-affaere-a-6ba6de9a-0bda-4a19-b810-78838af537cb#ref=rss)
 
