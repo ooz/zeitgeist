@@ -4,392 +4,231 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### waldbrände
+### mehr
 
-* [https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet](https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet-a-767877e1-8372-445c-9120-34dd5036e3ae#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd-a-29a72189-62bc-41cd-9e51-03ba6520e2de#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen](https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen-a-adeb109c-b3cd-463d-8b7c-d8e22c027dff#ref=rss)
-### deutschen
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-wie-pilze-enorme-mengen-kohlenstoff-speichern](https://www.spiegel.de/wissenschaft/natur/klimaschutz-wie-pilze-enorme-mengen-kohlenstoff-speichern-a-21b69a4a-fa61-4116-b21d-76bb8e86873e#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/corona-pandemie-weltweit-wilde-tiere-bewegten-sich-waehrend-der-lockdowns-mehr](https://www.spiegel.de/wissenschaft/natur/corona-pandemie-weltweit-wilde-tiere-bewegten-sich-waehrend-der-lockdowns-mehr-a-6d399914-4929-40ff-9ed0-d5b98d1e067f#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-zehnkaempfer-leo-neugebauer-bricht-deutschen-punkterekord-von-1984](https://www.spiegel.de/sport/leichtathletik-zehnkaempfer-leo-neugebauer-bricht-deutschen-punkterekord-von-1984-a-619e4d4a-6448-404f-97e7-bfd08c3a63d8#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/strommarkt-experte-sieht-gefahr-explodierender-energiepreise-vorerst-gebannt](https://www.spiegel.de/wirtschaft/service/strommarkt-experte-sieht-gefahr-explodierender-energiepreise-vorerst-gebannt-a-17203dd2-6316-405b-8204-8d79c4201b80#ref=rss)
+### grünen
 
-* [https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts](https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts-a-c717bcbc-1c27-4528-b06f-1a5837530a6f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet](https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet-a-767877e1-8372-445c-9120-34dd5036e3ae#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel](https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel-a-a46b0307-7d49-4471-b042-91dde7e2729f#ref=rss)
-### ukraine
-
-* [https://www.spiegel.de/ausland/ukraine-bruch-von-kachowka-staudamm-so-reagieren-die-menschen](https://www.spiegel.de/ausland/ukraine-bruch-von-kachowka-staudamm-so-reagieren-die-menschen-a-b0e377fd-11cc-454e-b142-856fece9162a#ref=rss)
-* [https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern](https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern-a-ba24b5d9-acd1-4390-96c2-672b4dda4e7e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/kachowka-staudamm-in-der-ukraine-ein-cocktail-an-giftstoffen-spuelt-ins-dnjepr-delta](https://www.spiegel.de/wissenschaft/natur/kachowka-staudamm-in-der-ukraine-ein-cocktail-an-giftstoffen-spuelt-ins-dnjepr-delta-a-666cefdb-b3de-4456-a2bd-56ff1efa7353#ref=rss)
-### kachowkastaudamm
-
-* [https://www.spiegel.de/ausland/ukraine-bruch-von-kachowka-staudamm-so-reagieren-die-menschen](https://www.spiegel.de/ausland/ukraine-bruch-von-kachowka-staudamm-so-reagieren-die-menschen-a-b0e377fd-11cc-454e-b142-856fece9162a#ref=rss)
-* [https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern](https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern-a-ba24b5d9-acd1-4390-96c2-672b4dda4e7e#ref=rss)
-* [https://www.spiegel.de/wissenschaft/natur/kachowka-staudamm-in-der-ukraine-ein-cocktail-an-giftstoffen-spuelt-ins-dnjepr-delta](https://www.spiegel.de/wissenschaft/natur/kachowka-staudamm-in-der-ukraine-ein-cocktail-an-giftstoffen-spuelt-ins-dnjepr-delta-a-666cefdb-b3de-4456-a2bd-56ff1efa7353#ref=rss)
-### frauen
-
-* [https://www.spiegel.de/ausland/ukraine-bruch-von-kachowka-staudamm-so-reagieren-die-menschen](https://www.spiegel.de/ausland/ukraine-bruch-von-kachowka-staudamm-so-reagieren-die-menschen-a-b0e377fd-11cc-454e-b142-856fece9162a#ref=rss)
-* [https://www.spiegel.de/kultur/musik/rammstein-saenger-lindemann-laesst-vorwuerfe-durch-anwaelte-zurueckweisen](https://www.spiegel.de/kultur/musik/rammstein-saenger-lindemann-laesst-vorwuerfe-durch-anwaelte-zurueckweisen-a-df4236d5-98d8-40d7-84de-a8b6433801cf#ref=rss)
-* [https://www.spiegel.de/panorama/von-bremen-bis-kurz-vor-muenchen-blinde-passagierinnen-frauen-fahren-elf-stunden-auf-gueterzug-mit](https://www.spiegel.de/panorama/von-bremen-bis-kurz-vor-muenchen-blinde-passagierinnen-frauen-fahren-elf-stunden-auf-gueterzug-mit-a-eb3a52d9-eaef-4bdb-9819-ddf17472a3e9#ref=rss)
-### zwei
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-tod-eines-neunjaehrigen-nach-operation-zwei-aerzte-zu-geldstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/hamburg-tod-eines-neunjaehrigen-nach-operation-zwei-aerzte-zu-geldstrafen-verurteilt-a-a927b7b2-52b0-4e47-9d5c-a96e754ccfe9#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankreich-mindestens-zwei-kleinkinder-bei-attacke-in-annecy-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/frankreich-mindestens-zwei-kleinkinder-bei-attacke-in-annecy-lebensgefaehrlich-verletzt-a-878bc5e9-ea87-4ca0-b5dc-c4c0a423eb2b#ref=rss)
-* [https://www.spiegel.de/panorama/von-bremen-bis-kurz-vor-muenchen-blinde-passagierinnen-frauen-fahren-elf-stunden-auf-gueterzug-mit](https://www.spiegel.de/panorama/von-bremen-bis-kurz-vor-muenchen-blinde-passagierinnen-frauen-fahren-elf-stunden-auf-gueterzug-mit-a-eb3a52d9-eaef-4bdb-9819-ddf17472a3e9#ref=rss)
-### tim
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing](https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing-a-c3e6f11f-dbd8-42e4-ba37-fb6bd39e49fa#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel](https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel-a-a46b0307-7d49-4471-b042-91dde7e2729f#ref=rss)
-### kurz
-
-* [https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts](https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts-a-c717bcbc-1c27-4528-b06f-1a5837530a6f#ref=rss)
-* [https://www.spiegel.de/panorama/von-bremen-bis-kurz-vor-muenchen-blinde-passagierinnen-frauen-fahren-elf-stunden-auf-gueterzug-mit](https://www.spiegel.de/panorama/von-bremen-bis-kurz-vor-muenchen-blinde-passagierinnen-frauen-fahren-elf-stunden-auf-gueterzug-mit-a-eb3a52d9-eaef-4bdb-9819-ddf17472a3e9#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel](https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel-a-a46b0307-7d49-4471-b042-91dde7e2729f#ref=rss)
-### alle
-
-* [https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts](https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts-a-c717bcbc-1c27-4528-b06f-1a5837530a6f#ref=rss)
-* [https://www.spiegel.de/ausland/lgbtq-gericht-in-japan-verurteilt-nichtanerkennung-der-ehe-fuer-alle-als-verfassungswidrig](https://www.spiegel.de/ausland/lgbtq-gericht-in-japan-verurteilt-nichtanerkennung-der-ehe-fuer-alle-als-verfassungswidrig-a-8a1b2a3d-81eb-42fc-9874-11d15e941a4c#ref=rss)
-### french
-
-* [https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale](https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale-a-f4c1719c-c90d-403b-b52b-bd789cb8126e#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel](https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel-a-a46b0307-7d49-4471-b042-91dde7e2729f#ref=rss)
-### open
-
-* [https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale](https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale-a-f4c1719c-c90d-403b-b52b-bd789cb8126e#ref=rss)
-* [https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel](https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel-a-a46b0307-7d49-4471-b042-91dde7e2729f#ref=rss)
-### usa
-
-* [https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben](https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben-a-dc8726f5-fd3b-4292-8f6d-862123c81d24#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen](https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen-a-adeb109c-b3cd-463d-8b7c-d8e22c027dff#ref=rss)
-* [https://www.spiegel.de/ausland/usa-stoppen-nahrungsmittel-hilfslieferungen-fuer-aethiopien](https://www.spiegel.de/ausland/usa-stoppen-nahrungsmittel-hilfslieferungen-fuer-aethiopien-a-9c37a541-f626-46da-9980-3a9e965f7f37#ref=rss)
-### menschen
-
-* [https://www.spiegel.de/ausland/ukraine-bruch-von-kachowka-staudamm-so-reagieren-die-menschen](https://www.spiegel.de/ausland/ukraine-bruch-von-kachowka-staudamm-so-reagieren-die-menschen-a-b0e377fd-11cc-454e-b142-856fece9162a#ref=rss)
-* [https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern](https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern-a-ba24b5d9-acd1-4390-96c2-672b4dda4e7e#ref=rss)
-* [https://www.spiegel.de/ausland/usa-stoppen-nahrungsmittel-hilfslieferungen-fuer-aethiopien](https://www.spiegel.de/ausland/usa-stoppen-nahrungsmittel-hilfslieferungen-fuer-aethiopien-a-9c37a541-f626-46da-9980-3a9e965f7f37#ref=rss)
-### besetzten
-
-* [https://www.spiegel.de/ausland/ukraine-bruch-von-kachowka-staudamm-so-reagieren-die-menschen](https://www.spiegel.de/ausland/ukraine-bruch-von-kachowka-staudamm-so-reagieren-die-menschen-a-b0e377fd-11cc-454e-b142-856fece9162a#ref=rss)
-* [https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern](https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern-a-ba24b5d9-acd1-4390-96c2-672b4dda4e7e#ref=rss)
-### frankreich
-
-* [https://www.spiegel.de/reise/grillen-in-frankreich-haben-die-franzosen-das-barbecue-erfunden](https://www.spiegel.de/reise/grillen-in-frankreich-haben-die-franzosen-das-barbecue-erfunden-a-bf594b15-1c65-4639-bb5f-412a823dacb1#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankreich-mindestens-zwei-kleinkinder-bei-attacke-in-annecy-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/frankreich-mindestens-zwei-kleinkinder-bei-attacke-in-annecy-lebensgefaehrlich-verletzt-a-878bc5e9-ea87-4ca0-b5dc-c4c0a423eb2b#ref=rss)
-### scholz
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-besucht-giorgia-meloni-in-italien-eine-reise-nach-rechtsaussen](https://www.spiegel.de/politik/deutschland/olaf-scholz-besucht-giorgia-meloni-in-italien-eine-reise-nach-rechtsaussen-a-17e30d6a-f9b5-4598-a223-8bb3089ac826#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankreich-mindestens-zwei-kleinkinder-bei-attacke-in-annecy-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/frankreich-mindestens-zwei-kleinkinder-bei-attacke-in-annecy-lebensgefaehrlich-verletzt-a-878bc5e9-ea87-4ca0-b5dc-c4c0a423eb2b#ref=rss)
-### kanada
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd-a-29a72189-62bc-41cd-9e51-03ba6520e2de#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen](https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen-a-adeb109c-b3cd-463d-8b7c-d8e22c027dff#ref=rss)
-### geld
-
-* [https://www.spiegel.de/wirtschaft/service/eugh-urteil-zu-corona-fall-airline-muss-geld-von-staatlichem-rueckholflug-nicht-erstatten](https://www.spiegel.de/wirtschaft/service/eugh-urteil-zu-corona-fall-airline-muss-geld-von-staatlichem-rueckholflug-nicht-erstatten-a-b3aa3039-9700-40e9-9bc5-16f44fa74c7a#ref=rss)
-* [https://www.spiegel.de/start/leidenschaft-im-job-muss-man-seine-arbeit-lieben](https://www.spiegel.de/start/leidenschaft-im-job-muss-man-seine-arbeit-lieben-a-22377d19-d991-415e-95b2-6cbb766ac84b#ref=rss)
-### edward
-
-* [https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts](https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts-a-c717bcbc-1c27-4528-b06f-1a5837530a6f#ref=rss)
-### snowden
-
-* [https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts](https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts-a-c717bcbc-1c27-4528-b06f-1a5837530a6f#ref=rss)
-### zwischenruf
-
-* [https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts](https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts-a-c717bcbc-1c27-4528-b06f-1a5837530a6f#ref=rss)
-### seines
-
-* [https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts](https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts-a-c717bcbc-1c27-4528-b06f-1a5837530a6f#ref=rss)
-### anwalts
-
-* [https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts](https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts-a-c717bcbc-1c27-4528-b06f-1a5837530a6f#ref=rss)
-### russland
-
-* [https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts](https://www.spiegel.de/ausland/edward-snowden-ein-zwischenruf-seines-deutschen-anwalts-a-c717bcbc-1c27-4528-b06f-1a5837530a6f#ref=rss)
-* [https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern](https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern-a-ba24b5d9-acd1-4390-96c2-672b4dda4e7e#ref=rss)
-### karolina
-
-* [https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale](https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale-a-f4c1719c-c90d-403b-b52b-bd789cb8126e#ref=rss)
-### muchová
-
-* [https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale](https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale-a-f4c1719c-c90d-403b-b52b-bd789cb8126e#ref=rss)
-### aryna
-
-* [https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale](https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale-a-f4c1719c-c90d-403b-b52b-bd789cb8126e#ref=rss)
-### sabalenka
-
-* [https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale](https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale-a-f4c1719c-c90d-403b-b52b-bd789cb8126e#ref=rss)
-### paris
-
-* [https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale](https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale-a-f4c1719c-c90d-403b-b52b-bd789cb8126e#ref=rss)
-* [https://www.spiegel.de/reise/grillen-in-frankreich-haben-die-franzosen-das-barbecue-erfunden](https://www.spiegel.de/reise/grillen-in-frankreich-haben-die-franzosen-das-barbecue-erfunden-a-bf594b15-1c65-4639-bb5f-412a823dacb1#ref=rss)
-### nie
-
-* [https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale](https://www.spiegel.de/sport/tennis/french-open-karolina-muchova-wirft-aryna-sabalenka-raus-und-steht-im-finale-a-f4c1719c-c90d-403b-b52b-bd789cb8126e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing](https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing-a-c3e6f11f-dbd8-42e4-ba37-fb6bd39e49fa#ref=rss)
-### feuerwehren
-
-* [https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet](https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet-a-767877e1-8372-445c-9120-34dd5036e3ae#ref=rss)
-### deutschland
-
-* [https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet](https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet-a-767877e1-8372-445c-9120-34dd5036e3ae#ref=rss)
-* [https://www.spiegel.de/panorama/von-bremen-bis-kurz-vor-muenchen-blinde-passagierinnen-frauen-fahren-elf-stunden-auf-gueterzug-mit](https://www.spiegel.de/panorama/von-bremen-bis-kurz-vor-muenchen-blinde-passagierinnen-frauen-fahren-elf-stunden-auf-gueterzug-mit-a-eb3a52d9-eaef-4bdb-9819-ddf17472a3e9#ref=rss)
-### gut
-
-* [https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet](https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet-a-767877e1-8372-445c-9120-34dd5036e3ae#ref=rss)
-### genug
-
-* [https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet](https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet-a-767877e1-8372-445c-9120-34dd5036e3ae#ref=rss)
-### vorbereitet
-
-* [https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet](https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet-a-767877e1-8372-445c-9120-34dd5036e3ae#ref=rss)
-### einsatz
-
-* [https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet](https://www.spiegel.de/wissenschaft/waldbraende-feuerwehren-in-deutschland-sind-nicht-gut-genug-vorbereitet-a-767877e1-8372-445c-9120-34dd5036e3ae#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen](https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen-a-adeb109c-b3cd-463d-8b7c-d8e22c027dff#ref=rss)
-### fernsehprediger
-
-* [https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben](https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben-a-dc8726f5-fd3b-4292-8f6d-862123c81d24#ref=rss)
-### pat
-
-* [https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben](https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben-a-dc8726f5-fd3b-4292-8f6d-862123c81d24#ref=rss)
-### robertson
-
-* [https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben](https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben-a-dc8726f5-fd3b-4292-8f6d-862123c81d24#ref=rss)
-### gestorben
-
-* [https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben](https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben-a-dc8726f5-fd3b-4292-8f6d-862123c81d24#ref=rss)
-### mann
-
-* [https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben](https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben-a-dc8726f5-fd3b-4292-8f6d-862123c81d24#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankreich-mindestens-zwei-kleinkinder-bei-attacke-in-annecy-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/frankreich-mindestens-zwei-kleinkinder-bei-attacke-in-annecy-lebensgefaehrlich-verletzt-a-878bc5e9-ea87-4ca0-b5dc-c4c0a423eb2b#ref=rss)
-### politik
-
-* [https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben](https://www.spiegel.de/ausland/usa-evangelikaler-fernsehprediger-pat-robertson-gestorben-a-dc8726f5-fd3b-4292-8f6d-862123c81d24#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik](https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik-a-7c63d47a-3a30-47bd-b70a-5cd33592ac24#ref=rss)
-### russisch
-
-* [https://www.spiegel.de/ausland/ukraine-bruch-von-kachowka-staudamm-so-reagieren-die-menschen](https://www.spiegel.de/ausland/ukraine-bruch-von-kachowka-staudamm-so-reagieren-die-menschen-a-b0e377fd-11cc-454e-b142-856fece9162a#ref=rss)
-* [https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern](https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern-a-ba24b5d9-acd1-4390-96c2-672b4dda4e7e#ref=rss)
-### franzosen
-
-* [https://www.spiegel.de/reise/grillen-in-frankreich-haben-die-franzosen-das-barbecue-erfunden](https://www.spiegel.de/reise/grillen-in-frankreich-haben-die-franzosen-das-barbecue-erfunden-a-bf594b15-1c65-4639-bb5f-412a823dacb1#ref=rss)
-### barbecue
-
-* [https://www.spiegel.de/reise/grillen-in-frankreich-haben-die-franzosen-das-barbecue-erfunden](https://www.spiegel.de/reise/grillen-in-frankreich-haben-die-franzosen-das-barbecue-erfunden-a-bf594b15-1c65-4639-bb5f-412a823dacb1#ref=rss)
-### erfunden
-
-* [https://www.spiegel.de/reise/grillen-in-frankreich-haben-die-franzosen-das-barbecue-erfunden](https://www.spiegel.de/reise/grillen-in-frankreich-haben-die-franzosen-das-barbecue-erfunden-a-bf594b15-1c65-4639-bb5f-412a823dacb1#ref=rss)
-### tod
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-tod-eines-neunjaehrigen-nach-operation-zwei-aerzte-zu-geldstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/hamburg-tod-eines-neunjaehrigen-nach-operation-zwei-aerzte-zu-geldstrafen-verurteilt-a-a927b7b2-52b0-4e47-9d5c-a96e754ccfe9#ref=rss)
-### verurteilt
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-tod-eines-neunjaehrigen-nach-operation-zwei-aerzte-zu-geldstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/hamburg-tod-eines-neunjaehrigen-nach-operation-zwei-aerzte-zu-geldstrafen-verurteilt-a-a927b7b2-52b0-4e47-9d5c-a96e754ccfe9#ref=rss)
-* [https://www.spiegel.de/ausland/lgbtq-gericht-in-japan-verurteilt-nichtanerkennung-der-ehe-fuer-alle-als-verfassungswidrig](https://www.spiegel.de/ausland/lgbtq-gericht-in-japan-verurteilt-nichtanerkennung-der-ehe-fuer-alle-als-verfassungswidrig-a-8a1b2a3d-81eb-42fc-9874-11d15e941a4c#ref=rss)
-### gericht
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-tod-eines-neunjaehrigen-nach-operation-zwei-aerzte-zu-geldstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/hamburg-tod-eines-neunjaehrigen-nach-operation-zwei-aerzte-zu-geldstrafen-verurteilt-a-a927b7b2-52b0-4e47-9d5c-a96e754ccfe9#ref=rss)
-* [https://www.spiegel.de/ausland/lgbtq-gericht-in-japan-verurteilt-nichtanerkennung-der-ehe-fuer-alle-als-verfassungswidrig](https://www.spiegel.de/ausland/lgbtq-gericht-in-japan-verurteilt-nichtanerkennung-der-ehe-fuer-alle-als-verfassungswidrig-a-8a1b2a3d-81eb-42fc-9874-11d15e941a4c#ref=rss)
-### demnach
-
-* [https://www.spiegel.de/panorama/justiz/hamburg-tod-eines-neunjaehrigen-nach-operation-zwei-aerzte-zu-geldstrafen-verurteilt](https://www.spiegel.de/panorama/justiz/hamburg-tod-eines-neunjaehrigen-nach-operation-zwei-aerzte-zu-geldstrafen-verurteilt-a-a927b7b2-52b0-4e47-9d5c-a96e754ccfe9#ref=rss)
-* [https://www.spiegel.de/ausland/usa-stoppen-nahrungsmittel-hilfslieferungen-fuer-aethiopien](https://www.spiegel.de/ausland/usa-stoppen-nahrungsmittel-hilfslieferungen-fuer-aethiopien-a-9c37a541-f626-46da-9980-3a9e965f7f37#ref=rss)
-### olaf
-
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-besucht-giorgia-meloni-in-italien-eine-reise-nach-rechtsaussen](https://www.spiegel.de/politik/deutschland/olaf-scholz-besucht-giorgia-meloni-in-italien-eine-reise-nach-rechtsaussen-a-17e30d6a-f9b5-4598-a223-8bb3089ac826#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/frankreich-mindestens-zwei-kleinkinder-bei-attacke-in-annecy-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/frankreich-mindestens-zwei-kleinkinder-bei-attacke-in-annecy-lebensgefaehrlich-verletzt-a-878bc5e9-ea87-4ca0-b5dc-c4c0a423eb2b#ref=rss)
-### bundespräsident
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-unterzeichnet-umstrittene-wahlrechtsreform-union-kuendigt-baldige-klage-an](https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-unterzeichnet-umstrittene-wahlrechtsreform-union-kuendigt-baldige-klage-an-a-ed8775f3-dd4d-4ac6-912e-b321f071477d#ref=rss)
-### unterzeichnet
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-unterzeichnet-umstrittene-wahlrechtsreform-union-kuendigt-baldige-klage-an](https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-unterzeichnet-umstrittene-wahlrechtsreform-union-kuendigt-baldige-klage-an-a-ed8775f3-dd4d-4ac6-912e-b321f071477d#ref=rss)
-### umstrittene
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-unterzeichnet-umstrittene-wahlrechtsreform-union-kuendigt-baldige-klage-an](https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-unterzeichnet-umstrittene-wahlrechtsreform-union-kuendigt-baldige-klage-an-a-ed8775f3-dd4d-4ac6-912e-b321f071477d#ref=rss)
-### wahlrechtsreform
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-unterzeichnet-umstrittene-wahlrechtsreform-union-kuendigt-baldige-klage-an](https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-unterzeichnet-umstrittene-wahlrechtsreform-union-kuendigt-baldige-klage-an-a-ed8775f3-dd4d-4ac6-912e-b321f071477d#ref=rss)
-### bald
-
-* [https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-unterzeichnet-umstrittene-wahlrechtsreform-union-kuendigt-baldige-klage-an](https://www.spiegel.de/politik/deutschland/bundespraesident-frank-walter-steinmeier-unterzeichnet-umstrittene-wahlrechtsreform-union-kuendigt-baldige-klage-an-a-ed8775f3-dd4d-4ac6-912e-b321f071477d#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen](https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen-a-adeb109c-b3cd-463d-8b7c-d8e22c027dff#ref=rss)
-### new
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd-a-29a72189-62bc-41cd-9e51-03ba6520e2de#ref=rss)
-### york
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd-a-29a72189-62bc-41cd-9e51-03ba6520e2de#ref=rss)
-### umweltschäden
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd-a-29a72189-62bc-41cd-9e51-03ba6520e2de#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/enttaeuschte-liebe](https://www.spiegel.de/politik/deutschland/enttaeuschte-liebe-a-c2ef176c-a50b-46cf-9bf6-d13093d46c36#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-gruenen-wie-die-partei-daran-scheitert-in-ihrer-zentrale-eine-waermepumpe-einzubauen](https://www.spiegel.de/politik/deutschland/die-gruenen-wie-die-partei-daran-scheitert-in-ihrer-zentrale-eine-waermepumpe-einzubauen-a-5ac430d3-f0b0-4fba-bd55-bd8c434a0779#ref=rss)
 ### afd
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd-a-29a72189-62bc-41cd-9e51-03ba6520e2de#ref=rss)
-### massive
+* [https://www.spiegel.de/politik/deutschland/afd-originelle-theorien-zum-aufstieg-der-partei-kolumne](https://www.spiegel.de/politik/deutschland/afd-originelle-theorien-zum-aufstieg-der-partei-kolumne-a-6ad0471b-6bf5-467e-9b15-d2437275f464#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/cdu-kommunalpolitiker-in-thueringen-will-auch-mit-afd-reden](https://www.spiegel.de/politik/deutschland/cdu-kommunalpolitiker-in-thueringen-will-auch-mit-afd-reden-a-ef4a3150-557a-469f-b0df-fa0ef1315f2d#ref=rss)
+### apples
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd-a-29a72189-62bc-41cd-9e51-03ba6520e2de#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen](https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen-a-adeb109c-b3cd-463d-8b7c-d8e22c027dff#ref=rss)
-### lage
+* [https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will](https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will-a-da9f082b-71fe-478d-b16f-994ea6bd8e51#ref=rss)
+### allerdings
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-smog-in-new-york-umweltschaeden-am-fluss-dnjepr-ueberlegungen-zu-vierkoalitionen-gegen-die-afd-a-29a72189-62bc-41cd-9e51-03ba6520e2de#ref=rss)
-* [https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern](https://www.spiegel.de/ausland/kachowka-staudamm-ukraine-hilferufe-vom-russisch-besetzten-dnjepr-ufer-niemand-kommt-und-rettet-meine-eltern-a-ba24b5d9-acd1-4390-96c2-672b4dda4e7e#ref=rss)
-### instagram
+* [https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will](https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will-a-da9f082b-71fe-478d-b16f-994ea6bd8e51#ref=rss)
+* [https://www.spiegel.de/wirtschaft/axel-springer-plant-ki-offensive](https://www.spiegel.de/wirtschaft/axel-springer-plant-ki-offensive-a-d76bb1d2-305c-471d-983a-9056bb37abfe#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-temperaturen-bis-30-grad-celsius-gewitter-erwartet](https://www.spiegel.de/panorama/wetter-am-wochenende-temperaturen-bis-30-grad-celsius-gewitter-erwartet-a-f7863413-60bd-425d-924c-b2907b6c0177#ref=rss)
+### neue
 
-* [https://www.spiegel.de/netzwelt/web/instagram-schlug-nutzern-offenbar-paedokriminelle-beitraege-vor](https://www.spiegel.de/netzwelt/web/instagram-schlug-nutzern-offenbar-paedokriminelle-beitraege-vor-a-d90ae987-e06e-4423-a7f2-394687dfbaaf#ref=rss)
-* [https://www.spiegel.de/panorama/leute/shannen-doherty-nach-brustkrebserkrankung-schauspielerin-berichtet-von-metastasen-im-gehirn](https://www.spiegel.de/panorama/leute/shannen-doherty-nach-brustkrebserkrankung-schauspielerin-berichtet-von-metastasen-im-gehirn-a-e6e7696e-350f-4bd8-87f0-c09f1bff608a#ref=rss)
-### pädokriminelle
+* [https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will](https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will-a-da9f082b-71fe-478d-b16f-994ea6bd8e51#ref=rss)
+* [https://www.spiegel.de/wirtschaft/axel-springer-plant-ki-offensive](https://www.spiegel.de/wirtschaft/axel-springer-plant-ki-offensive-a-d76bb1d2-305c-471d-983a-9056bb37abfe#ref=rss)
+* [https://www.spiegel.de/ausland/affaere-um-geheimdokumente-was-die-neue-anklage-fuer-donald-trump-bedeutet](https://www.spiegel.de/ausland/affaere-um-geheimdokumente-was-die-neue-anklage-fuer-donald-trump-bedeutet-a-1831163b-07e7-4008-a625-01355f9ff045#ref=rss)
+### jahren
 
-* [https://www.spiegel.de/netzwelt/web/instagram-schlug-nutzern-offenbar-paedokriminelle-beitraege-vor](https://www.spiegel.de/netzwelt/web/instagram-schlug-nutzern-offenbar-paedokriminelle-beitraege-vor-a-d90ae987-e06e-4423-a7f2-394687dfbaaf#ref=rss)
-### eu
+* [https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-wer-hat-wen-bestochen](https://www.spiegel.de/geschichte/der-spiegel-vor-50-jahren-wer-hat-wen-bestochen-a-d2bbdd0c-53a6-4151-814b-b27600a2fb89#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-gruenen-wie-die-partei-daran-scheitert-in-ihrer-zentrale-eine-waermepumpe-einzubauen](https://www.spiegel.de/politik/deutschland/die-gruenen-wie-die-partei-daran-scheitert-in-ihrer-zentrale-eine-waermepumpe-einzubauen-a-5ac430d3-f0b0-4fba-bd55-bd8c434a0779#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tuerkei-erdogan-ernennt-finanzmanagerin-hafize-gaye-erkan-zur-zentralbankchefin](https://www.spiegel.de/wirtschaft/tuerkei-erdogan-ernennt-finanzmanagerin-hafize-gaye-erkan-zur-zentralbankchefin-a-b0828f5a-47be-4caf-bec9-1fecba8fc061#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/netzwelt/web/instagram-schlug-nutzern-offenbar-paedokriminelle-beitraege-vor](https://www.spiegel.de/netzwelt/web/instagram-schlug-nutzern-offenbar-paedokriminelle-beitraege-vor-a-d90ae987-e06e-4423-a7f2-394687dfbaaf#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen](https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen-a-adeb109c-b3cd-463d-8b7c-d8e22c027dff#ref=rss)
-### mehrere
+* [https://www.spiegel.de/netzwelt/apps/google-fotografiert-wieder-in-deutschland](https://www.spiegel.de/netzwelt/apps/google-fotografiert-wieder-in-deutschland-a-6f9bea8f-8693-4fdb-87d9-54a46937e12e#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-temperaturen-bis-30-grad-celsius-gewitter-erwartet](https://www.spiegel.de/panorama/wetter-am-wochenende-temperaturen-bis-30-grad-celsius-gewitter-erwartet-a-f7863413-60bd-425d-924c-b2907b6c0177#ref=rss)
+### odey
 
-* [https://www.spiegel.de/panorama/justiz/frankreich-mindestens-zwei-kleinkinder-bei-attacke-in-annecy-lebensgefaehrlich-verletzt](https://www.spiegel.de/panorama/justiz/frankreich-mindestens-zwei-kleinkinder-bei-attacke-in-annecy-lebensgefaehrlich-verletzt-a-878bc5e9-ea87-4ca0-b5dc-c4c0a423eb2b#ref=rss)
-* [https://www.spiegel.de/kultur/musik/rammstein-saenger-lindemann-laesst-vorwuerfe-durch-anwaelte-zurueckweisen](https://www.spiegel.de/kultur/musik/rammstein-saenger-lindemann-laesst-vorwuerfe-durch-anwaelte-zurueckweisen-a-df4236d5-98d8-40d7-84de-a8b6433801cf#ref=rss)
-### afghanistan
+* [https://www.spiegel.de/wirtschaft/unternehmen/crispin-odey-missbrauchsvorwuerfe-gegen-londoner-star-investor-banken-erhoehen-druck-auf-hedgefonds-legende](https://www.spiegel.de/wirtschaft/unternehmen/crispin-odey-missbrauchsvorwuerfe-gegen-londoner-star-investor-banken-erhoehen-druck-auf-hedgefonds-legende-a-768dc4f7-d6be-4478-8e89-8743456cf977#ref=rss)
+### usa
 
-* [https://www.spiegel.de/ausland/afghanistan-unicef-befuerchtet-neue-einschraenkungen-durch-taliban](https://www.spiegel.de/ausland/afghanistan-unicef-befuerchtet-neue-einschraenkungen-durch-taliban-a-80d42870-2823-469f-9af3-a78975480cd7#ref=rss)
-### unicef
+* [https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia](https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia-a-cbdbd5af-dbe8-4bdc-914e-aea0e70ea2d7#ref=rss)
+* [https://www.spiegel.de/ausland/usa-oberster-gerichtshof-urteilt-zugunsten-schwarzer-waehler-in-alabama](https://www.spiegel.de/ausland/usa-oberster-gerichtshof-urteilt-zugunsten-schwarzer-waehler-in-alabama-a-1c5a9825-c049-4cdf-b6e6-f377840d2221#ref=rss)
+* [https://www.spiegel.de/wirtschaft/tuerkei-erdogan-ernennt-finanzmanagerin-hafize-gaye-erkan-zur-zentralbankchefin](https://www.spiegel.de/wirtschaft/tuerkei-erdogan-ernennt-finanzmanagerin-hafize-gaye-erkan-zur-zentralbankchefin-a-b0828f5a-47be-4caf-bec9-1fecba8fc061#ref=rss)
+### gerichtshof
 
-* [https://www.spiegel.de/ausland/afghanistan-unicef-befuerchtet-neue-einschraenkungen-durch-taliban](https://www.spiegel.de/ausland/afghanistan-unicef-befuerchtet-neue-einschraenkungen-durch-taliban-a-80d42870-2823-469f-9af3-a78975480cd7#ref=rss)
-### taliban
+* [https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia](https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia-a-cbdbd5af-dbe8-4bdc-914e-aea0e70ea2d7#ref=rss)
+* [https://www.spiegel.de/ausland/usa-oberster-gerichtshof-urteilt-zugunsten-schwarzer-waehler-in-alabama](https://www.spiegel.de/ausland/usa-oberster-gerichtshof-urteilt-zugunsten-schwarzer-waehler-in-alabama-a-1c5a9825-c049-4cdf-b6e6-f377840d2221#ref=rss)
+### tel
 
-* [https://www.spiegel.de/ausland/afghanistan-unicef-befuerchtet-neue-einschraenkungen-durch-taliban](https://www.spiegel.de/ausland/afghanistan-unicef-befuerchtet-neue-einschraenkungen-durch-taliban-a-80d42870-2823-469f-9af3-a78975480cd7#ref=rss)
-### internationale
+* [https://www.spiegel.de/wissenschaft/natur/corona-pandemie-weltweit-wilde-tiere-bewegten-sich-waehrend-der-lockdowns-mehr](https://www.spiegel.de/wissenschaft/natur/corona-pandemie-weltweit-wilde-tiere-bewegten-sich-waehrend-der-lockdowns-mehr-a-6d399914-4929-40ff-9ed0-d5b98d1e067f#ref=rss)
+* [https://www.spiegel.de/panorama/israel-rund-150-000-menschen-feiern-bei-pride-parade-in-tel-aviv](https://www.spiegel.de/panorama/israel-rund-150-000-menschen-feiern-bei-pride-parade-in-tel-aviv-a-c5332360-5944-487b-82f7-ec469a644b00#ref=rss)
+### aviv
 
-* [https://www.spiegel.de/ausland/afghanistan-unicef-befuerchtet-neue-einschraenkungen-durch-taliban](https://www.spiegel.de/ausland/afghanistan-unicef-befuerchtet-neue-einschraenkungen-durch-taliban-a-80d42870-2823-469f-9af3-a78975480cd7#ref=rss)
-* [https://www.spiegel.de/ausland/usa-stoppen-nahrungsmittel-hilfslieferungen-fuer-aethiopien](https://www.spiegel.de/ausland/usa-stoppen-nahrungsmittel-hilfslieferungen-fuer-aethiopien-a-9c37a541-f626-46da-9980-3a9e965f7f37#ref=rss)
-### karin
+* [https://www.spiegel.de/wissenschaft/natur/corona-pandemie-weltweit-wilde-tiere-bewegten-sich-waehrend-der-lockdowns-mehr](https://www.spiegel.de/wissenschaft/natur/corona-pandemie-weltweit-wilde-tiere-bewegten-sich-waehrend-der-lockdowns-mehr-a-6d399914-4929-40ff-9ed0-d5b98d1e067f#ref=rss)
+* [https://www.spiegel.de/panorama/israel-rund-150-000-menschen-feiern-bei-pride-parade-in-tel-aviv](https://www.spiegel.de/panorama/israel-rund-150-000-menschen-feiern-bei-pride-parade-in-tel-aviv-a-c5332360-5944-487b-82f7-ec469a644b00#ref=rss)
+### trump
 
-* [https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik](https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik-a-7c63d47a-3a30-47bd-b70a-5cd33592ac24#ref=rss)
-### prien
+* [https://www.spiegel.de/ausland/usa-republikaner-konkurrenten-von-donald-trump-das-koennen-sie-erreichen-analyse-im-video](https://www.spiegel.de/ausland/usa-republikaner-konkurrenten-von-donald-trump-das-koennen-sie-erreichen-analyse-im-video-a-f238eb29-e42e-4d9d-973d-830e2202cb6c#ref=rss)
+* [https://www.spiegel.de/ausland/affaere-um-geheimdokumente-was-die-neue-anklage-fuer-donald-trump-bedeutet](https://www.spiegel.de/ausland/affaere-um-geheimdokumente-was-die-neue-anklage-fuer-donald-trump-bedeutet-a-1831163b-07e7-4008-a625-01355f9ff045#ref=rss)
+### gary
 
-* [https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik](https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik-a-7c63d47a-3a30-47bd-b70a-5cd33592ac24#ref=rss)
-### cdupolitikerin
+* [https://www.spiegel.de/wirtschaft/krypto-waehrungen-sec-chef-gary-gensler-im-krieg-gegen-binance-und-coinbase](https://www.spiegel.de/wirtschaft/krypto-waehrungen-sec-chef-gary-gensler-im-krieg-gegen-binance-und-coinbase-a-f60cf371-d07f-4f66-b60f-2792c69d5379#ref=rss)
+### gensler
 
-* [https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik](https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik-a-7c63d47a-3a30-47bd-b70a-5cd33592ac24#ref=rss)
-### aminata
+* [https://www.spiegel.de/wirtschaft/krypto-waehrungen-sec-chef-gary-gensler-im-krieg-gegen-binance-und-coinbase](https://www.spiegel.de/wirtschaft/krypto-waehrungen-sec-chef-gary-gensler-im-krieg-gegen-binance-und-coinbase-a-f60cf371-d07f-4f66-b60f-2792c69d5379#ref=rss)
+### gefahr
 
-* [https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik](https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik-a-7c63d47a-3a30-47bd-b70a-5cd33592ac24#ref=rss)
-### touré
+* [https://www.spiegel.de/wirtschaft/krypto-waehrungen-sec-chef-gary-gensler-im-krieg-gegen-binance-und-coinbase](https://www.spiegel.de/wirtschaft/krypto-waehrungen-sec-chef-gary-gensler-im-krieg-gegen-binance-und-coinbase-a-f60cf371-d07f-4f66-b60f-2792c69d5379#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/strommarkt-experte-sieht-gefahr-explodierender-energiepreise-vorerst-gebannt](https://www.spiegel.de/wirtschaft/service/strommarkt-experte-sieht-gefahr-explodierender-energiepreise-vorerst-gebannt-a-17203dd2-6316-405b-8204-8d79c4201b80#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik](https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik-a-7c63d47a-3a30-47bd-b70a-5cd33592ac24#ref=rss)
-### kritik
+* [https://www.spiegel.de/wirtschaft/krypto-waehrungen-sec-chef-gary-gensler-im-krieg-gegen-binance-und-coinbase](https://www.spiegel.de/wirtschaft/krypto-waehrungen-sec-chef-gary-gensler-im-krieg-gegen-binance-und-coinbase-a-f60cf371-d07f-4f66-b60f-2792c69d5379#ref=rss)
+* [https://www.spiegel.de/ausland/affaere-um-geheimdokumente-was-die-neue-anklage-fuer-donald-trump-bedeutet](https://www.spiegel.de/ausland/affaere-um-geheimdokumente-was-die-neue-anklage-fuer-donald-trump-bedeutet-a-1831163b-07e7-4008-a625-01355f9ff045#ref=rss)
+### große
 
-* [https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik](https://www.spiegel.de/politik/deutschland/karin-prien-cdu-politikerin-reagiert-nach-aeusserungen-ueber-gruenen-ministerin-aminata-toure-auf-kritik-a-7c63d47a-3a30-47bd-b70a-5cd33592ac24#ref=rss)
-### präsident
+* [https://www.spiegel.de/wirtschaft/krypto-waehrungen-sec-chef-gary-gensler-im-krieg-gegen-binance-und-coinbase](https://www.spiegel.de/wirtschaft/krypto-waehrungen-sec-chef-gary-gensler-im-krieg-gegen-binance-und-coinbase-a-f60cf371-d07f-4f66-b60f-2792c69d5379#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-gruenen-wie-die-partei-daran-scheitert-in-ihrer-zentrale-eine-waermepumpe-einzubauen](https://www.spiegel.de/politik/deutschland/die-gruenen-wie-die-partei-daran-scheitert-in-ihrer-zentrale-eine-waermepumpe-einzubauen-a-5ac430d3-f0b0-4fba-bd55-bd8c434a0779#ref=rss)
+### bittere
 
-* [https://www.spiegel.de/wissenschaft/nach-wahl-von-praesident-lula-abholzung-von-amazonas-regenwald-angeblich-um-fast-ein-drittel-zurueckgegangen](https://www.spiegel.de/wissenschaft/nach-wahl-von-praesident-lula-abholzung-von-amazonas-regenwald-angeblich-um-fast-ein-drittel-zurueckgegangen-a-48ebc13b-1d8e-4f49-9d2a-585ad9b5f45e#ref=rss)
-### lula
+* [https://www.spiegel.de/politik/deutschland/enttaeuschte-liebe](https://www.spiegel.de/politik/deutschland/enttaeuschte-liebe-a-c2ef176c-a50b-46cf-9bf6-d13093d46c36#ref=rss)
+* [https://www.spiegel.de/wissenschaft/mensch/spiegel-klimabericht-ich-schau-dir-in-die-verhandlungen-baby](https://www.spiegel.de/wissenschaft/mensch/spiegel-klimabericht-ich-schau-dir-in-die-verhandlungen-baby-a-98c24e23-d596-4852-9b40-d3200ad604c8#ref=rss)
+### partei
 
-* [https://www.spiegel.de/wissenschaft/nach-wahl-von-praesident-lula-abholzung-von-amazonas-regenwald-angeblich-um-fast-ein-drittel-zurueckgegangen](https://www.spiegel.de/wissenschaft/nach-wahl-von-praesident-lula-abholzung-von-amazonas-regenwald-angeblich-um-fast-ein-drittel-zurueckgegangen-a-48ebc13b-1d8e-4f49-9d2a-585ad9b5f45e#ref=rss)
-### abholzung
+* [https://www.spiegel.de/politik/deutschland/afd-originelle-theorien-zum-aufstieg-der-partei-kolumne](https://www.spiegel.de/politik/deutschland/afd-originelle-theorien-zum-aufstieg-der-partei-kolumne-a-6ad0471b-6bf5-467e-9b15-d2437275f464#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/die-gruenen-wie-die-partei-daran-scheitert-in-ihrer-zentrale-eine-waermepumpe-einzubauen](https://www.spiegel.de/politik/deutschland/die-gruenen-wie-die-partei-daran-scheitert-in-ihrer-zentrale-eine-waermepumpe-einzubauen-a-5ac430d3-f0b0-4fba-bd55-bd8c434a0779#ref=rss)
+### ich
 
-* [https://www.spiegel.de/wissenschaft/nach-wahl-von-praesident-lula-abholzung-von-amazonas-regenwald-angeblich-um-fast-ein-drittel-zurueckgegangen](https://www.spiegel.de/wissenschaft/nach-wahl-von-praesident-lula-abholzung-von-amazonas-regenwald-angeblich-um-fast-ein-drittel-zurueckgegangen-a-48ebc13b-1d8e-4f49-9d2a-585ad9b5f45e#ref=rss)
-### kampf
+* [https://www.spiegel.de/wissenschaft/mensch/spiegel-klimabericht-ich-schau-dir-in-die-verhandlungen-baby](https://www.spiegel.de/wissenschaft/mensch/spiegel-klimabericht-ich-schau-dir-in-die-verhandlungen-baby-a-98c24e23-d596-4852-9b40-d3200ad604c8#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will](https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will-a-da9f082b-71fe-478d-b16f-994ea6bd8e51#ref=rss)
+### klimaschutz
 
-* [https://www.spiegel.de/wissenschaft/nach-wahl-von-praesident-lula-abholzung-von-amazonas-regenwald-angeblich-um-fast-ein-drittel-zurueckgegangen](https://www.spiegel.de/wissenschaft/nach-wahl-von-praesident-lula-abholzung-von-amazonas-regenwald-angeblich-um-fast-ein-drittel-zurueckgegangen-a-48ebc13b-1d8e-4f49-9d2a-585ad9b5f45e#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen](https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen-a-adeb109c-b3cd-463d-8b7c-d8e22c027dff#ref=rss)
-### unter
+* [https://www.spiegel.de/wissenschaft/mensch/spiegel-klimabericht-ich-schau-dir-in-die-verhandlungen-baby](https://www.spiegel.de/wissenschaft/mensch/spiegel-klimabericht-ich-schau-dir-in-die-verhandlungen-baby-a-98c24e23-d596-4852-9b40-d3200ad604c8#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-wie-pilze-enorme-mengen-kohlenstoff-speichern](https://www.spiegel.de/wissenschaft/natur/klimaschutz-wie-pilze-enorme-mengen-kohlenstoff-speichern-a-21b69a4a-fa61-4116-b21d-76bb8e86873e#ref=rss)
+### bundesnetzagentur
 
-* [https://www.spiegel.de/wissenschaft/nach-wahl-von-praesident-lula-abholzung-von-amazonas-regenwald-angeblich-um-fast-ein-drittel-zurueckgegangen](https://www.spiegel.de/wissenschaft/nach-wahl-von-praesident-lula-abholzung-von-amazonas-regenwald-angeblich-um-fast-ein-drittel-zurueckgegangen-a-48ebc13b-1d8e-4f49-9d2a-585ad9b5f45e#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/christliche-influencer-die-daemonen-muessen-weichen-wenn-jesus-kommt](https://www.spiegel.de/netzwelt/web/christliche-influencer-die-daemonen-muessen-weichen-wenn-jesus-kommt-a-edf0cec1-7705-4447-a379-c64fbfff684f#ref=rss)
-### anderen
+* [https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-warnt-vor-mangelhaftem-zubehoer-bei-solaranlagen](https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-warnt-vor-mangelhaftem-zubehoer-bei-solaranlagen-a-f7c95aba-5fd7-4b03-8e31-e1efd2a12438#ref=rss)
+### sollten
 
-* [https://www.spiegel.de/wissenschaft/nach-wahl-von-praesident-lula-abholzung-von-amazonas-regenwald-angeblich-um-fast-ein-drittel-zurueckgegangen](https://www.spiegel.de/wissenschaft/nach-wahl-von-praesident-lula-abholzung-von-amazonas-regenwald-angeblich-um-fast-ein-drittel-zurueckgegangen-a-48ebc13b-1d8e-4f49-9d2a-585ad9b5f45e#ref=rss)
-* [https://www.spiegel.de/netzwelt/web/christliche-influencer-die-daemonen-muessen-weichen-wenn-jesus-kommt](https://www.spiegel.de/netzwelt/web/christliche-influencer-die-daemonen-muessen-weichen-wenn-jesus-kommt-a-edf0cec1-7705-4447-a379-c64fbfff684f#ref=rss)
-### japan
+* [https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-warnt-vor-mangelhaftem-zubehoer-bei-solaranlagen](https://www.spiegel.de/wirtschaft/service/bundesnetzagentur-warnt-vor-mangelhaftem-zubehoer-bei-solaranlagen-a-f7c95aba-5fd7-4b03-8e31-e1efd2a12438#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-wie-pilze-enorme-mengen-kohlenstoff-speichern](https://www.spiegel.de/wissenschaft/natur/klimaschutz-wie-pilze-enorme-mengen-kohlenstoff-speichern-a-21b69a4a-fa61-4116-b21d-76bb8e86873e#ref=rss)
+### droht
 
-* [https://www.spiegel.de/ausland/lgbtq-gericht-in-japan-verurteilt-nichtanerkennung-der-ehe-fuer-alle-als-verfassungswidrig](https://www.spiegel.de/ausland/lgbtq-gericht-in-japan-verurteilt-nichtanerkennung-der-ehe-fuer-alle-als-verfassungswidrig-a-8a1b2a3d-81eb-42fc-9874-11d15e941a4c#ref=rss)
-### ehe
+* [https://www.spiegel.de/wirtschaft/soziales/franzoesische-regierung-zwingt-lebensmittelhersteller-zu-preissenkungen](https://www.spiegel.de/wirtschaft/soziales/franzoesische-regierung-zwingt-lebensmittelhersteller-zu-preissenkungen-a-f4fa1d4a-2a5c-45c1-9302-d0fb01f2faba#ref=rss)
+* [https://www.spiegel.de/ausland/affaere-um-geheimdokumente-was-die-neue-anklage-fuer-donald-trump-bedeutet](https://www.spiegel.de/ausland/affaere-um-geheimdokumente-was-die-neue-anklage-fuer-donald-trump-bedeutet-a-1831163b-07e7-4008-a625-01355f9ff045#ref=rss)
+### mark
 
-* [https://www.spiegel.de/ausland/lgbtq-gericht-in-japan-verurteilt-nichtanerkennung-der-ehe-fuer-alle-als-verfassungswidrig](https://www.spiegel.de/ausland/lgbtq-gericht-in-japan-verurteilt-nichtanerkennung-der-ehe-fuer-alle-als-verfassungswidrig-a-8a1b2a3d-81eb-42fc-9874-11d15e941a4c#ref=rss)
-### stellt
+* [https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will](https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will-a-da9f082b-71fe-478d-b16f-994ea6bd8e51#ref=rss)
+### zuckerberg
 
-* [https://www.spiegel.de/ausland/lgbtq-gericht-in-japan-verurteilt-nichtanerkennung-der-ehe-fuer-alle-als-verfassungswidrig](https://www.spiegel.de/ausland/lgbtq-gericht-in-japan-verurteilt-nichtanerkennung-der-ehe-fuer-alle-als-verfassungswidrig-a-8a1b2a3d-81eb-42fc-9874-11d15e941a4c#ref=rss)
-* [https://www.spiegel.de/ausland/usa-stoppen-nahrungsmittel-hilfslieferungen-fuer-aethiopien](https://www.spiegel.de/ausland/usa-stoppen-nahrungsmittel-hilfslieferungen-fuer-aethiopien-a-9c37a541-f626-46da-9980-3a9e965f7f37#ref=rss)
-### bekommt
-
-* [https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen](https://www.spiegel.de/panorama/gesellschaft/kanada-eu-will-kanada-mit-feuerwehrleuten-beim-kampf-gegen-waldbraende-helfen-a-adeb109c-b3cd-463d-8b7c-d8e22c027dff#ref=rss)
-* [https://www.spiegel.de/start/leidenschaft-im-job-muss-man-seine-arbeit-lieben](https://www.spiegel.de/start/leidenschaft-im-job-muss-man-seine-arbeit-lieben-a-22377d19-d991-415e-95b2-6cbb766ac84b#ref=rss)
-### till
-
-* [https://www.spiegel.de/kultur/musik/rammstein-saenger-lindemann-laesst-vorwuerfe-durch-anwaelte-zurueckweisen](https://www.spiegel.de/kultur/musik/rammstein-saenger-lindemann-laesst-vorwuerfe-durch-anwaelte-zurueckweisen-a-df4236d5-98d8-40d7-84de-a8b6433801cf#ref=rss)
-### lindemann
-
-* [https://www.spiegel.de/kultur/musik/rammstein-saenger-lindemann-laesst-vorwuerfe-durch-anwaelte-zurueckweisen](https://www.spiegel.de/kultur/musik/rammstein-saenger-lindemann-laesst-vorwuerfe-durch-anwaelte-zurueckweisen-a-df4236d5-98d8-40d7-84de-a8b6433801cf#ref=rss)
-### rammsteinsänger
-
-* [https://www.spiegel.de/kultur/musik/rammstein-saenger-lindemann-laesst-vorwuerfe-durch-anwaelte-zurueckweisen](https://www.spiegel.de/kultur/musik/rammstein-saenger-lindemann-laesst-vorwuerfe-durch-anwaelte-zurueckweisen-a-df4236d5-98d8-40d7-84de-a8b6433801cf#ref=rss)
-### airline
-
-* [https://www.spiegel.de/wirtschaft/service/eugh-urteil-zu-corona-fall-airline-muss-geld-von-staatlichem-rueckholflug-nicht-erstatten](https://www.spiegel.de/wirtschaft/service/eugh-urteil-zu-corona-fall-airline-muss-geld-von-staatlichem-rueckholflug-nicht-erstatten-a-b3aa3039-9700-40e9-9bc5-16f44fa74c7a#ref=rss)
-### rückholflug
-
-* [https://www.spiegel.de/wirtschaft/service/eugh-urteil-zu-corona-fall-airline-muss-geld-von-staatlichem-rueckholflug-nicht-erstatten](https://www.spiegel.de/wirtschaft/service/eugh-urteil-zu-corona-fall-airline-muss-geld-von-staatlichem-rueckholflug-nicht-erstatten-a-b3aa3039-9700-40e9-9bc5-16f44fa74c7a#ref=rss)
-### äthiopien
-
-* [https://www.spiegel.de/ausland/usa-stoppen-nahrungsmittel-hilfslieferungen-fuer-aethiopien](https://www.spiegel.de/ausland/usa-stoppen-nahrungsmittel-hilfslieferungen-fuer-aethiopien-a-9c37a541-f626-46da-9980-3a9e965f7f37#ref=rss)
-### apple
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing](https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing-a-c3e6f11f-dbd8-42e4-ba37-fb6bd39e49fa#ref=rss)
-### sichert
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing](https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing-a-c3e6f11f-dbd8-42e4-ba37-fb6bd39e49fa#ref=rss)
-### cook
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing](https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing-a-c3e6f11f-dbd8-42e4-ba37-fb6bd39e49fa#ref=rss)
+* [https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will](https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will-a-da9f082b-71fe-478d-b16f-994ea6bd8e51#ref=rss)
 ### vision
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing](https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing-a-c3e6f11f-dbd8-42e4-ba37-fb6bd39e49fa#ref=rss)
-### pro
+* [https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will](https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will-a-da9f082b-71fe-478d-b16f-994ea6bd8e51#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing](https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing-a-c3e6f11f-dbd8-42e4-ba37-fb6bd39e49fa#ref=rss)
-### platz
+* [https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will](https://www.spiegel.de/netzwelt/gadgets/mark-zuckerberg-ueber-apples-datenbrille-apples-vision-ist-nicht-die-die-ich-will-a-da9f082b-71fe-478d-b16f-994ea6bd8e51#ref=rss)
+* [https://www.spiegel.de/wirtschaft/axel-springer-plant-ki-offensive](https://www.spiegel.de/wirtschaft/axel-springer-plant-ki-offensive-a-d76bb1d2-305c-471d-983a-9056bb37abfe#ref=rss)
+### google
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing](https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing-a-c3e6f11f-dbd8-42e4-ba37-fb6bd39e49fa#ref=rss)
-### geschichte
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing](https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing-a-c3e6f11f-dbd8-42e4-ba37-fb6bd39e49fa#ref=rss)
+* [https://www.spiegel.de/netzwelt/apps/google-fotografiert-wieder-in-deutschland](https://www.spiegel.de/netzwelt/apps/google-fotografiert-wieder-in-deutschland-a-6f9bea8f-8693-4fdb-87d9-54a46937e12e#ref=rss)
 ### neuen
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing](https://www.spiegel.de/wirtschaft/unternehmen/apple-vision-pro-one-more-thing-a-c3e6f11f-dbd8-42e4-ba37-fb6bd39e49fa#ref=rss)
-* [https://www.spiegel.de/panorama/leute/shannen-doherty-nach-brustkrebserkrankung-schauspielerin-berichtet-von-metastasen-im-gehirn](https://www.spiegel.de/panorama/leute/shannen-doherty-nach-brustkrebserkrankung-schauspielerin-berichtet-von-metastasen-im-gehirn-a-e6e7696e-350f-4bd8-87f0-c09f1bff608a#ref=rss)
-### güterzug
+* [https://www.spiegel.de/netzwelt/apps/google-fotografiert-wieder-in-deutschland](https://www.spiegel.de/netzwelt/apps/google-fotografiert-wieder-in-deutschland-a-6f9bea8f-8693-4fdb-87d9-54a46937e12e#ref=rss)
+* [https://www.spiegel.de/sport/leichtathletik-zehnkaempfer-leo-neugebauer-bricht-deutschen-punkterekord-von-1984](https://www.spiegel.de/sport/leichtathletik-zehnkaempfer-leo-neugebauer-bricht-deutschen-punkterekord-von-1984-a-619e4d4a-6448-404f-97e7-bfd08c3a63d8#ref=rss)
+### antrag
 
-* [https://www.spiegel.de/panorama/von-bremen-bis-kurz-vor-muenchen-blinde-passagierinnen-frauen-fahren-elf-stunden-auf-gueterzug-mit](https://www.spiegel.de/panorama/von-bremen-bis-kurz-vor-muenchen-blinde-passagierinnen-frauen-fahren-elf-stunden-auf-gueterzug-mit-a-eb3a52d9-eaef-4bdb-9819-ddf17472a3e9#ref=rss)
-### waren
+* [https://www.spiegel.de/netzwelt/apps/google-fotografiert-wieder-in-deutschland](https://www.spiegel.de/netzwelt/apps/google-fotografiert-wieder-in-deutschland-a-6f9bea8f-8693-4fdb-87d9-54a46937e12e#ref=rss)
+* [https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia](https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia-a-cbdbd5af-dbe8-4bdc-914e-aea0e70ea2d7#ref=rss)
+### pilze
 
-* [https://www.spiegel.de/panorama/von-bremen-bis-kurz-vor-muenchen-blinde-passagierinnen-frauen-fahren-elf-stunden-auf-gueterzug-mit](https://www.spiegel.de/panorama/von-bremen-bis-kurz-vor-muenchen-blinde-passagierinnen-frauen-fahren-elf-stunden-auf-gueterzug-mit-a-eb3a52d9-eaef-4bdb-9819-ddf17472a3e9#ref=rss)
-### sparvorwahl
+* [https://www.spiegel.de/wissenschaft/natur/klimaschutz-wie-pilze-enorme-mengen-kohlenstoff-speichern](https://www.spiegel.de/wissenschaft/natur/klimaschutz-wie-pilze-enorme-mengen-kohlenstoff-speichern-a-21b69a4a-fa61-4116-b21d-76bb8e86873e#ref=rss)
+### crispin
 
-* [https://www.spiegel.de/wirtschaft/sparvorwahl-wird-abgeschaltet-das-ende-von-call-by-call-ist-besiegelt](https://www.spiegel.de/wirtschaft/sparvorwahl-wird-abgeschaltet-das-ende-von-call-by-call-ist-besiegelt-a-a4ff6946-0636-44dd-a79c-543df430e970#ref=rss)
-### pütz
+* [https://www.spiegel.de/wirtschaft/unternehmen/crispin-odey-missbrauchsvorwuerfe-gegen-londoner-star-investor-banken-erhoehen-druck-auf-hedgefonds-legende](https://www.spiegel.de/wirtschaft/unternehmen/crispin-odey-missbrauchsvorwuerfe-gegen-londoner-star-investor-banken-erhoehen-druck-auf-hedgefonds-legende-a-768dc4f7-d6be-4478-8e89-8743456cf977#ref=rss)
+### londoner
 
-* [https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel](https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel-a-a46b0307-7d49-4471-b042-91dde7e2729f#ref=rss)
-### miyu
+* [https://www.spiegel.de/wirtschaft/unternehmen/crispin-odey-missbrauchsvorwuerfe-gegen-londoner-star-investor-banken-erhoehen-druck-auf-hedgefonds-legende](https://www.spiegel.de/wirtschaft/unternehmen/crispin-odey-missbrauchsvorwuerfe-gegen-londoner-star-investor-banken-erhoehen-druck-auf-hedgefonds-legende-a-768dc4f7-d6be-4478-8e89-8743456cf977#ref=rss)
+* [https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia](https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia-a-cbdbd5af-dbe8-4bdc-914e-aea0e70ea2d7#ref=rss)
+### plant
 
-* [https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel](https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel-a-a46b0307-7d49-4471-b042-91dde7e2729f#ref=rss)
-### katō
+* [https://www.spiegel.de/wirtschaft/axel-springer-plant-ki-offensive](https://www.spiegel.de/wirtschaft/axel-springer-plant-ki-offensive-a-d76bb1d2-305c-471d-983a-9056bb37abfe#ref=rss)
+### euasylkompromiss
 
-* [https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel](https://www.spiegel.de/sport/tennis/french-open-tim-puetz-holt-ueberraschend-den-mixed-titel-a-a46b0307-7d49-4471-b042-91dde7e2729f#ref=rss)
-### china
+* [https://www.spiegel.de/politik/deutschland/eu-asylkompromiss-wie-die-einigung-bewertet-wird](https://www.spiegel.de/politik/deutschland/eu-asylkompromiss-wie-die-einigung-bewertet-wird-a-f464a25a-143c-4f49-aa9f-92b58da3011f#ref=rss)
+### einigung
 
-* [https://www.spiegel.de/wirtschaft/truebe-aussichten-firmen-schauen-skeptisch-auf-das-china-geschaeft](https://www.spiegel.de/wirtschaft/truebe-aussichten-firmen-schauen-skeptisch-auf-das-china-geschaeft-a-8d296c2d-d7ee-44dc-8009-5d5c73673de9#ref=rss)
-### deutsche
+* [https://www.spiegel.de/politik/deutschland/eu-asylkompromiss-wie-die-einigung-bewertet-wird](https://www.spiegel.de/politik/deutschland/eu-asylkompromiss-wie-die-einigung-bewertet-wird-a-f464a25a-143c-4f49-aa9f-92b58da3011f#ref=rss)
+### europäischen
 
-* [https://www.spiegel.de/wirtschaft/truebe-aussichten-firmen-schauen-skeptisch-auf-das-china-geschaeft](https://www.spiegel.de/wirtschaft/truebe-aussichten-firmen-schauen-skeptisch-auf-das-china-geschaeft-a-8d296c2d-d7ee-44dc-8009-5d5c73673de9#ref=rss)
-### firmen
+* [https://www.spiegel.de/politik/deutschland/eu-asylkompromiss-wie-die-einigung-bewertet-wird](https://www.spiegel.de/politik/deutschland/eu-asylkompromiss-wie-die-einigung-bewertet-wird-a-f464a25a-143c-4f49-aa9f-92b58da3011f#ref=rss)
+* [https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia](https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia-a-cbdbd5af-dbe8-4bdc-914e-aea0e70ea2d7#ref=rss)
+### julian
 
-* [https://www.spiegel.de/wirtschaft/truebe-aussichten-firmen-schauen-skeptisch-auf-das-china-geschaeft](https://www.spiegel.de/wirtschaft/truebe-aussichten-firmen-schauen-skeptisch-auf-das-china-geschaeft-a-8d296c2d-d7ee-44dc-8009-5d5c73673de9#ref=rss)
-### shannen
+* [https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia](https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia-a-cbdbd5af-dbe8-4bdc-914e-aea0e70ea2d7#ref=rss)
+### assange
 
-* [https://www.spiegel.de/panorama/leute/shannen-doherty-nach-brustkrebserkrankung-schauspielerin-berichtet-von-metastasen-im-gehirn](https://www.spiegel.de/panorama/leute/shannen-doherty-nach-brustkrebserkrankung-schauspielerin-berichtet-von-metastasen-im-gehirn-a-e6e7696e-350f-4bd8-87f0-c09f1bff608a#ref=rss)
-### doherty
+* [https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia](https://www.spiegel.de/ausland/fall-julian-assange-kommt-jetzt-die-stunde-der-rache-fuer-die-cia-a-cbdbd5af-dbe8-4bdc-914e-aea0e70ea2d7#ref=rss)
+### republikaner
 
-* [https://www.spiegel.de/panorama/leute/shannen-doherty-nach-brustkrebserkrankung-schauspielerin-berichtet-von-metastasen-im-gehirn](https://www.spiegel.de/panorama/leute/shannen-doherty-nach-brustkrebserkrankung-schauspielerin-berichtet-von-metastasen-im-gehirn-a-e6e7696e-350f-4bd8-87f0-c09f1bff608a#ref=rss)
-### leidenschaft
+* [https://www.spiegel.de/ausland/usa-republikaner-konkurrenten-von-donald-trump-das-koennen-sie-erreichen-analyse-im-video](https://www.spiegel.de/ausland/usa-republikaner-konkurrenten-von-donald-trump-das-koennen-sie-erreichen-analyse-im-video-a-f238eb29-e42e-4d9d-973d-830e2202cb6c#ref=rss)
+### donald
 
-* [https://www.spiegel.de/start/leidenschaft-im-job-muss-man-seine-arbeit-lieben](https://www.spiegel.de/start/leidenschaft-im-job-muss-man-seine-arbeit-lieben-a-22377d19-d991-415e-95b2-6cbb766ac84b#ref=rss)
+* [https://www.spiegel.de/ausland/usa-republikaner-konkurrenten-von-donald-trump-das-koennen-sie-erreichen-analyse-im-video](https://www.spiegel.de/ausland/usa-republikaner-konkurrenten-von-donald-trump-das-koennen-sie-erreichen-analyse-im-video-a-f238eb29-e42e-4d9d-973d-830e2202cb6c#ref=rss)
+* [https://www.spiegel.de/ausland/affaere-um-geheimdokumente-was-die-neue-anklage-fuer-donald-trump-bedeutet](https://www.spiegel.de/ausland/affaere-um-geheimdokumente-was-die-neue-anklage-fuer-donald-trump-bedeutet-a-1831163b-07e7-4008-a625-01355f9ff045#ref=rss)
+### erreichen
+
+* [https://www.spiegel.de/ausland/usa-republikaner-konkurrenten-von-donald-trump-das-koennen-sie-erreichen-analyse-im-video](https://www.spiegel.de/ausland/usa-republikaner-konkurrenten-von-donald-trump-das-koennen-sie-erreichen-analyse-im-video-a-f238eb29-e42e-4d9d-973d-830e2202cb6c#ref=rss)
+### apolda
+
+* [https://www.spiegel.de/panorama/justiz/apolda-toter-bei-brand-ist-achtjaehriger-junge](https://www.spiegel.de/panorama/justiz/apolda-toter-bei-brand-ist-achtjaehriger-junge-a-78a75770-76f4-4629-9747-af71078494ff#ref=rss)
+### toter
+
+* [https://www.spiegel.de/panorama/justiz/apolda-toter-bei-brand-ist-achtjaehriger-junge](https://www.spiegel.de/panorama/justiz/apolda-toter-bei-brand-ist-achtjaehriger-junge-a-78a75770-76f4-4629-9747-af71078494ff#ref=rss)
+### leo
+
+* [https://www.spiegel.de/sport/leichtathletik-zehnkaempfer-leo-neugebauer-bricht-deutschen-punkterekord-von-1984](https://www.spiegel.de/sport/leichtathletik-zehnkaempfer-leo-neugebauer-bricht-deutschen-punkterekord-von-1984-a-619e4d4a-6448-404f-97e7-bfd08c3a63d8#ref=rss)
+### neugebauer
+
+* [https://www.spiegel.de/sport/leichtathletik-zehnkaempfer-leo-neugebauer-bricht-deutschen-punkterekord-von-1984](https://www.spiegel.de/sport/leichtathletik-zehnkaempfer-leo-neugebauer-bricht-deutschen-punkterekord-von-1984-a-619e4d4a-6448-404f-97e7-bfd08c3a63d8#ref=rss)
+### deutschen
+
+* [https://www.spiegel.de/sport/leichtathletik-zehnkaempfer-leo-neugebauer-bricht-deutschen-punkterekord-von-1984](https://www.spiegel.de/sport/leichtathletik-zehnkaempfer-leo-neugebauer-bricht-deutschen-punkterekord-von-1984-a-619e4d4a-6448-404f-97e7-bfd08c3a63d8#ref=rss)
+### wähler
+
+* [https://www.spiegel.de/ausland/usa-oberster-gerichtshof-urteilt-zugunsten-schwarzer-waehler-in-alabama](https://www.spiegel.de/ausland/usa-oberster-gerichtshof-urteilt-zugunsten-schwarzer-waehler-in-alabama-a-1c5a9825-c049-4cdf-b6e6-f377840d2221#ref=rss)
+### alabama
+
+* [https://www.spiegel.de/ausland/usa-oberster-gerichtshof-urteilt-zugunsten-schwarzer-waehler-in-alabama](https://www.spiegel.de/ausland/usa-oberster-gerichtshof-urteilt-zugunsten-schwarzer-waehler-in-alabama-a-1c5a9825-c049-4cdf-b6e6-f377840d2221#ref=rss)
+### laut
+
+* [https://www.spiegel.de/ausland/usa-oberster-gerichtshof-urteilt-zugunsten-schwarzer-waehler-in-alabama](https://www.spiegel.de/ausland/usa-oberster-gerichtshof-urteilt-zugunsten-schwarzer-waehler-in-alabama-a-1c5a9825-c049-4cdf-b6e6-f377840d2221#ref=rss)
+* [https://www.spiegel.de/wirtschaft/service/strommarkt-experte-sieht-gefahr-explodierender-energiepreise-vorerst-gebannt](https://www.spiegel.de/wirtschaft/service/strommarkt-experte-sieht-gefahr-explodierender-energiepreise-vorerst-gebannt-a-17203dd2-6316-405b-8204-8d79c4201b80#ref=rss)
+### freitag
+
+* [https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-ukraine-meldet-russischen-luftangriff-mit-drohnen-und-marschflugkoerpern](https://www.spiegel.de/ausland/russland-ukraine-news-am-freitag-ukraine-meldet-russischen-luftangriff-mit-drohnen-und-marschflugkoerpern-a-6618b391-65a1-4e2b-9453-69c1d82ae748#ref=rss)
+* [https://www.spiegel.de/panorama/annecy-nach-messerattacke-auf-spielplatz-in-frankreich-tatverdaechtiger-soll-pychiatrisch-untersucht-werden](https://www.spiegel.de/panorama/annecy-nach-messerattacke-auf-spielplatz-in-frankreich-tatverdaechtiger-soll-pychiatrisch-untersucht-werden-a-9a28ef66-7534-4425-aebb-9aba2ff6378a#ref=rss)
+### gewitter
+
+* [https://www.spiegel.de/panorama/wetter-am-wochenende-temperaturen-bis-30-grad-celsius-gewitter-erwartet](https://www.spiegel.de/panorama/wetter-am-wochenende-temperaturen-bis-30-grad-celsius-gewitter-erwartet-a-f7863413-60bd-425d-924c-b2907b6c0177#ref=rss)
+### vorerst
+
+* [https://www.spiegel.de/wirtschaft/service/strommarkt-experte-sieht-gefahr-explodierender-energiepreise-vorerst-gebannt](https://www.spiegel.de/wirtschaft/service/strommarkt-experte-sieht-gefahr-explodierender-energiepreise-vorerst-gebannt-a-17203dd2-6316-405b-8204-8d79c4201b80#ref=rss)
+### stadtwerke
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/heizungswende-stadtwerke-plaedieren-fuer-anschlusspflicht-bei-fernwaerme](https://www.spiegel.de/wirtschaft/unternehmen/heizungswende-stadtwerke-plaedieren-fuer-anschlusspflicht-bei-fernwaerme-a-8b8eae32-634d-4672-932f-174eace6733c#ref=rss)
+### anschlusspflicht
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/heizungswende-stadtwerke-plaedieren-fuer-anschlusspflicht-bei-fernwaerme](https://www.spiegel.de/wirtschaft/unternehmen/heizungswende-stadtwerke-plaedieren-fuer-anschlusspflicht-bei-fernwaerme-a-8b8eae32-634d-4672-932f-174eace6733c#ref=rss)
+### prideparade
+
+* [https://www.spiegel.de/panorama/israel-rund-150-000-menschen-feiern-bei-pride-parade-in-tel-aviv](https://www.spiegel.de/panorama/israel-rund-150-000-menschen-feiern-bei-pride-parade-in-tel-aviv-a-c5332360-5944-487b-82f7-ec469a644b00#ref=rss)
+### expräsidenten
+
+* [https://www.spiegel.de/ausland/affaere-um-geheimdokumente-was-die-neue-anklage-fuer-donald-trump-bedeutet](https://www.spiegel.de/ausland/affaere-um-geheimdokumente-was-die-neue-anklage-fuer-donald-trump-bedeutet-a-1831163b-07e7-4008-a625-01355f9ff045#ref=rss)
+### tayyip
+
+* [https://www.spiegel.de/wirtschaft/tuerkei-erdogan-ernennt-finanzmanagerin-hafize-gaye-erkan-zur-zentralbankchefin](https://www.spiegel.de/wirtschaft/tuerkei-erdogan-ernennt-finanzmanagerin-hafize-gaye-erkan-zur-zentralbankchefin-a-b0828f5a-47be-4caf-bec9-1fecba8fc061#ref=rss)
+### hafize
+
+* [https://www.spiegel.de/wirtschaft/tuerkei-erdogan-ernennt-finanzmanagerin-hafize-gaye-erkan-zur-zentralbankchefin](https://www.spiegel.de/wirtschaft/tuerkei-erdogan-ernennt-finanzmanagerin-hafize-gaye-erkan-zur-zentralbankchefin-a-b0828f5a-47be-4caf-bec9-1fecba8fc061#ref=rss)
+### gaye
+
+* [https://www.spiegel.de/wirtschaft/tuerkei-erdogan-ernennt-finanzmanagerin-hafize-gaye-erkan-zur-zentralbankchefin](https://www.spiegel.de/wirtschaft/tuerkei-erdogan-ernennt-finanzmanagerin-hafize-gaye-erkan-zur-zentralbankchefin-a-b0828f5a-47be-4caf-bec9-1fecba8fc061#ref=rss)
+### erkan
+
+* [https://www.spiegel.de/wirtschaft/tuerkei-erdogan-ernennt-finanzmanagerin-hafize-gaye-erkan-zur-zentralbankchefin](https://www.spiegel.de/wirtschaft/tuerkei-erdogan-ernennt-finanzmanagerin-hafize-gaye-erkan-zur-zentralbankchefin-a-b0828f5a-47be-4caf-bec9-1fecba8fc061#ref=rss)
 
