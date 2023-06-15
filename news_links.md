@@ -4,285 +4,276 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### russland
-
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine-a-c384bba1-ccec-4288-9c64-f507c706267f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/beschlagnahme-plaene-russland-soll-es-auf-unartige-westliche-unternehmen-abgesehen-haben](https://www.spiegel.de/wirtschaft/unternehmen/beschlagnahme-plaene-russland-soll-es-auf-unartige-westliche-unternehmen-abgesehen-haben-a-cfcddb54-4976-4120-84d6-9b0e1e64895f#ref=rss)
-* [https://www.spiegel.de/ausland/bali-in-indonesien-aerger-mit-russischen-gaesten](https://www.spiegel.de/ausland/bali-in-indonesien-aerger-mit-russischen-gaesten-a-ba9868c7-2ee7-49e2-97b1-23cfd461ac88#ref=rss)
 ### mehr
 
-* [https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet](https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet-a-ac132535-44a3-4e47-ab4e-af60fe9042bd#ref=rss)
-* [https://www.spiegel.de/start/che-hochschulranking-mehr-studierende-wohnen-bei-ihren-eltern](https://www.spiegel.de/start/che-hochschulranking-mehr-studierende-wohnen-bei-ihren-eltern-a-a6fd8102-8eca-4a0e-bab2-6db44cb356e7#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/milde-in-sachsen-anhalt-angler-bergen-mehr-als-hundert-kilo-tote-fische](https://www.spiegel.de/panorama/justiz/milde-in-sachsen-anhalt-angler-bergen-mehr-als-hundert-kilo-tote-fische-a-67307997-e0b8-414f-96ab-aeb5c495022c#ref=rss)
-### menschen
+* [https://www.spiegel.de/wirtschaft/unternehmen/huawei-und-zte-eu-kommission-sieht-chinesische-hersteller-als-sicherheitsrisiko](https://www.spiegel.de/wirtschaft/unternehmen/huawei-und-zte-eu-kommission-sieht-chinesische-hersteller-als-sicherheitsrisiko-a-22a9c1f0-28d2-4d8b-94ea-9e7788ab103f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-bei-ard-und-zdf-sie-verdienen-mehr](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-bei-ard-und-zdf-sie-verdienen-mehr-a-0974a0b9-3662-4319-8b69-4a48f53775db#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/oecd-studie-kinder-aus-zugewanderten-familien-haben-sich-schulisch-verbessert](https://www.spiegel.de/panorama/bildung/oecd-studie-kinder-aus-zugewanderten-familien-haben-sich-schulisch-verbessert-a-b357efb2-30cc-4757-a59f-9d0c444a5166#ref=rss)
+* [https://www.spiegel.de/wissenschaft/cop28-vorbereitungen-industrienationen-wollen-globalen-sueden-nicht-verbindlich-mehr-geld-zusichern](https://www.spiegel.de/wissenschaft/cop28-vorbereitungen-industrienationen-wollen-globalen-sueden-nicht-verbindlich-mehr-geld-zusichern-a-1162a85b-f38c-4413-83b9-f5ab0d0a8224#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ministerpraesidentenkonferenz-laender-verlangen-massnahmen-gegen-teuren-strom-fuer-industrie](https://www.spiegel.de/politik/deutschland/ministerpraesidentenkonferenz-laender-verlangen-massnahmen-gegen-teuren-strom-fuer-industrie-a-1eb0c419-8a61-4f7f-87d8-38d031a1a953#ref=rss)
+* [https://www.spiegel.de/kultur/musik/rammstein-plattenfirma-setzt-marketing-und-promotion-aktivitaeten-aus](https://www.spiegel.de/kultur/musik/rammstein-plattenfirma-setzt-marketing-und-promotion-aktivitaeten-aus-a-a6731634-940b-4a62-90da-058667bf1694#ref=rss)
+### frauen
 
-* [https://www.spiegel.de/ausland/mittelmeer-nur-104-menschen-gerettet-was-ueber-den-vor-griechenland-gesunkenen-kutter-bekannt-ist](https://www.spiegel.de/ausland/mittelmeer-nur-104-menschen-gerettet-was-ueber-den-vor-griechenland-gesunkenen-kutter-bekannt-ist-a-8f5c50cf-d6f8-45ac-9e36-05566c5eb55e#ref=rss)
-* [https://www.spiegel.de/psychologie/tui-jugendstudie-junges-europa-2023-euer-pessimismus-kotzt-mich-an-kommentar](https://www.spiegel.de/psychologie/tui-jugendstudie-junges-europa-2023-euer-pessimismus-kotzt-mich-an-kommentar-a-fb49af9e-37e1-47b3-a7c1-0c375560d46d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/impfschaeden-und-corona-thueringen-und-bayern-sind-spitzenreiter-bei-antraegen](https://www.spiegel.de/wissenschaft/impfschaeden-und-corona-thueringen-und-bayern-sind-spitzenreiter-bei-antraegen-a-f0145246-e591-4c32-872e-a2108766e4dc#ref=rss)
-* [https://www.spiegel.de/ausland/bali-in-indonesien-aerger-mit-russischen-gaesten](https://www.spiegel.de/ausland/bali-in-indonesien-aerger-mit-russischen-gaesten-a-ba9868c7-2ee7-49e2-97b1-23cfd461ac88#ref=rss)
-### leben
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-bei-ard-und-zdf-sie-verdienen-mehr](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-bei-ard-und-zdf-sie-verdienen-mehr-a-0974a0b9-3662-4319-8b69-4a48f53775db#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-quiz-wer-ist-rekordabsteiger-der-bundesliga](https://www.spiegel.de/sport/fussball/fussball-quiz-wer-ist-rekordabsteiger-der-bundesliga-a-badcba08-b434-4ca2-8bfd-8d8349ea3d99#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist](https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist-a-0d450d34-bdbf-4e82-b264-6ab8384073b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft](https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft-a-1f4612e7-481d-432c-ab07-d33a26177a54#ref=rss)
+### zwei
 
-* [https://www.spiegel.de/start/che-hochschulranking-mehr-studierende-wohnen-bei-ihren-eltern](https://www.spiegel.de/start/che-hochschulranking-mehr-studierende-wohnen-bei-ihren-eltern-a-a6fd8102-8eca-4a0e-bab2-6db44cb356e7#ref=rss)
-* [https://www.spiegel.de/wissenschaft/weltall/wichtige-zutat-fuer-moegliches-leben-phosphate-im-ozean-von-saturnmond-enceladus-gefunden](https://www.spiegel.de/wissenschaft/weltall/wichtige-zutat-fuer-moegliches-leben-phosphate-im-ozean-von-saturnmond-enceladus-gefunden-a-1ff4e668-4cac-4b55-a7b0-f86edb96564a#ref=rss)
-### twitter
-
-* [https://www.spiegel.de/netzwelt/twitter-grosse-musiklabels-verklagen-twitter-auf-250-millionen-dollar](https://www.spiegel.de/netzwelt/twitter-grosse-musiklabels-verklagen-twitter-auf-250-millionen-dollar-a-b36e466e-687f-46cd-92ce-c5790e744719#ref=rss)
-### fc
-
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-hat-der-fc-bayern-muenchen-interesse-an-micky-van-de-ven-vom-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fussball-transferticker-hat-der-fc-bayern-muenchen-interesse-an-micky-van-de-ven-vom-vfl-wolfsburg-a-a6c01ad8-0e66-421b-9c68-6261985b5fc3#ref=rss)
-* [https://www.spiegel.de/sport/fussball/john-hollins-ist-tot-nachruf-auf-englands-rekordmann](https://www.spiegel.de/sport/fussball/john-hollins-ist-tot-nachruf-auf-englands-rekordmann-a-f37add6b-900c-43dc-a51e-8bb111b4f811#ref=rss)
-### bayern
-
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-hat-der-fc-bayern-muenchen-interesse-an-micky-van-de-ven-vom-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fussball-transferticker-hat-der-fc-bayern-muenchen-interesse-an-micky-van-de-ven-vom-vfl-wolfsburg-a-a6c01ad8-0e66-421b-9c68-6261985b5fc3#ref=rss)
-* [https://www.spiegel.de/wissenschaft/impfschaeden-und-corona-thueringen-und-bayern-sind-spitzenreiter-bei-antraegen](https://www.spiegel.de/wissenschaft/impfschaeden-und-corona-thueringen-und-bayern-sind-spitzenreiter-bei-antraegen-a-f0145246-e591-4c32-872e-a2108766e4dc#ref=rss)
-### unternehmen
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/beschlagnahme-plaene-russland-soll-es-auf-unartige-westliche-unternehmen-abgesehen-haben](https://www.spiegel.de/wirtschaft/unternehmen/beschlagnahme-plaene-russland-soll-es-auf-unartige-westliche-unternehmen-abgesehen-haben-a-cfcddb54-4976-4120-84d6-9b0e1e64895f#ref=rss)
-* [https://www.spiegel.de/wirtschaft/warnung-des-think-tanks-dgap-fehlende-chinastrategie-gefaehrdet-europas-unternehmen](https://www.spiegel.de/wirtschaft/warnung-des-think-tanks-dgap-fehlende-chinastrategie-gefaehrdet-europas-unternehmen-a-b1658f77-5c60-47f3-9325-c0238ad99519#ref=rss)
-### bericht
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/beschlagnahme-plaene-russland-soll-es-auf-unartige-westliche-unternehmen-abgesehen-haben](https://www.spiegel.de/wirtschaft/unternehmen/beschlagnahme-plaene-russland-soll-es-auf-unartige-westliche-unternehmen-abgesehen-haben-a-cfcddb54-4976-4120-84d6-9b0e1e64895f#ref=rss)
-* [https://www.spiegel.de/wissenschaft/impfschaeden-und-corona-thueringen-und-bayern-sind-spitzenreiter-bei-antraegen](https://www.spiegel.de/wissenschaft/impfschaeden-und-corona-thueringen-und-bayern-sind-spitzenreiter-bei-antraegen-a-f0145246-e591-4c32-872e-a2108766e4dc#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-abgeordnetenkomitee-wirft-boris-johnson-bewusste-taeuschung-des-parlaments-vor](https://www.spiegel.de/ausland/grossbritannien-abgeordnetenkomitee-wirft-boris-johnson-bewusste-taeuschung-des-parlaments-vor-a-aad3b7b7-553d-4bea-ad37-0f1bdfe79adf#ref=rss)
-### tote
-
-* [https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet](https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet-a-ac132535-44a3-4e47-ab4e-af60fe9042bd#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/milde-in-sachsen-anhalt-angler-bergen-mehr-als-hundert-kilo-tote-fische](https://www.spiegel.de/panorama/justiz/milde-in-sachsen-anhalt-angler-bergen-mehr-als-hundert-kilo-tote-fische-a-67307997-e0b8-414f-96ab-aeb5c495022c#ref=rss)
-### kevin
-
-* [https://www.spiegel.de/panorama/leute/kevin-costner-christine-ist-nicht-ausgezogen-trotz-mehrfacher-aufforderung](https://www.spiegel.de/panorama/leute/kevin-costner-christine-ist-nicht-ausgezogen-trotz-mehrfacher-aufforderung-a-bbf554a6-db53-4316-873f-41939a765b76#ref=rss)
-### europa
-
-* [https://www.spiegel.de/psychologie/tui-jugendstudie-junges-europa-2023-euer-pessimismus-kotzt-mich-an-kommentar](https://www.spiegel.de/psychologie/tui-jugendstudie-junges-europa-2023-euer-pessimismus-kotzt-mich-an-kommentar-a-fb49af9e-37e1-47b3-a7c1-0c375560d46d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/warnung-des-think-tanks-dgap-fehlende-chinastrategie-gefaehrdet-europas-unternehmen](https://www.spiegel.de/wirtschaft/warnung-des-think-tanks-dgap-fehlende-chinastrategie-gefaehrdet-europas-unternehmen-a-b1658f77-5c60-47f3-9325-c0238ad99519#ref=rss)
-### viele
-
-* [https://www.spiegel.de/psychologie/tui-jugendstudie-junges-europa-2023-euer-pessimismus-kotzt-mich-an-kommentar](https://www.spiegel.de/psychologie/tui-jugendstudie-junges-europa-2023-euer-pessimismus-kotzt-mich-an-kommentar-a-fb49af9e-37e1-47b3-a7c1-0c375560d46d#ref=rss)
-* [https://www.spiegel.de/wissenschaft/impfschaeden-und-corona-thueringen-und-bayern-sind-spitzenreiter-bei-antraegen](https://www.spiegel.de/wissenschaft/impfschaeden-und-corona-thueringen-und-bayern-sind-spitzenreiter-bei-antraegen-a-f0145246-e591-4c32-872e-a2108766e4dc#ref=rss)
-* [https://www.spiegel.de/ausland/bali-in-indonesien-aerger-mit-russischen-gaesten](https://www.spiegel.de/ausland/bali-in-indonesien-aerger-mit-russischen-gaesten-a-ba9868c7-2ee7-49e2-97b1-23cfd461ac88#ref=rss)
-### jeder
-
-* [https://www.spiegel.de/start/che-hochschulranking-mehr-studierende-wohnen-bei-ihren-eltern](https://www.spiegel.de/start/che-hochschulranking-mehr-studierende-wohnen-bei-ihren-eltern-a-a6fd8102-8eca-4a0e-bab2-6db44cb356e7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/start-up-mitarbeiter-sind-zufriedener-als-andere-angestellte](https://www.spiegel.de/wirtschaft/start-up-mitarbeiter-sind-zufriedener-als-andere-angestellte-a-49d44879-e20b-43f1-a6ae-0e42f3fe466b#ref=rss)
-* [https://www.spiegel.de/start/guenstiges-rezept-fuer-tarte-tatin-kopfueber-gebackener-apfelkuchen-aus-der-pfanne](https://www.spiegel.de/start/guenstiges-rezept-fuer-tarte-tatin-kopfueber-gebackener-apfelkuchen-aus-der-pfanne-a-9d4c1fbc-4562-4a48-be43-b225602498b7#ref=rss)
-### bali
-
-* [https://www.spiegel.de/ausland/bali-in-indonesien-aerger-mit-russischen-gaesten](https://www.spiegel.de/ausland/bali-in-indonesien-aerger-mit-russischen-gaesten-a-ba9868c7-2ee7-49e2-97b1-23cfd461ac88#ref=rss)
-### usa
-
-* [https://www.spiegel.de/netzwelt/twitter-grosse-musiklabels-verklagen-twitter-auf-250-millionen-dollar](https://www.spiegel.de/netzwelt/twitter-grosse-musiklabels-verklagen-twitter-auf-250-millionen-dollar-a-b36e466e-687f-46cd-92ce-c5790e744719#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/bud-light-verliert-spitzenplatz-bei-us-bieren](https://www.spiegel.de/wirtschaft/unternehmen/bud-light-verliert-spitzenplatz-bei-us-bieren-a-18d5a342-746b-43a5-966d-1aa67795b432#ref=rss)
-### wirft
-
-* [https://www.spiegel.de/netzwelt/twitter-grosse-musiklabels-verklagen-twitter-auf-250-millionen-dollar](https://www.spiegel.de/netzwelt/twitter-grosse-musiklabels-verklagen-twitter-auf-250-millionen-dollar-a-b36e466e-687f-46cd-92ce-c5790e744719#ref=rss)
-* [https://www.spiegel.de/ausland/grossbritannien-abgeordnetenkomitee-wirft-boris-johnson-bewusste-taeuschung-des-parlaments-vor](https://www.spiegel.de/ausland/grossbritannien-abgeordnetenkomitee-wirft-boris-johnson-bewusste-taeuschung-des-parlaments-vor-a-aad3b7b7-553d-4bea-ad37-0f1bdfe79adf#ref=rss)
-### songs
-
-* [https://www.spiegel.de/netzwelt/twitter-grosse-musiklabels-verklagen-twitter-auf-250-millionen-dollar](https://www.spiegel.de/netzwelt/twitter-grosse-musiklabels-verklagen-twitter-auf-250-millionen-dollar-a-b36e466e-687f-46cd-92ce-c5790e744719#ref=rss)
-* [https://www.spiegel.de/kultur/musik/roger-payne-ist-tot-er-brachte-songs-of-the-humpback-whale-als-album-heraus](https://www.spiegel.de/kultur/musik/roger-payne-ist-tot-er-brachte-songs-of-the-humpback-whale-als-album-heraus-a-83d5915e-07c9-44ca-8a72-336ebfa59123#ref=rss)
-### wolfsburg
-
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-hat-der-fc-bayern-muenchen-interesse-an-micky-van-de-ven-vom-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fussball-transferticker-hat-der-fc-bayern-muenchen-interesse-an-micky-van-de-ven-vom-vfl-wolfsburg-a-a6c01ad8-0e66-421b-9c68-6261985b5fc3#ref=rss)
-### neuen
-
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-hat-der-fc-bayern-muenchen-interesse-an-micky-van-de-ven-vom-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fussball-transferticker-hat-der-fc-bayern-muenchen-interesse-an-micky-van-de-ven-vom-vfl-wolfsburg-a-a6c01ad8-0e66-421b-9c68-6261985b5fc3#ref=rss)
-### wohl
-
-* [https://www.spiegel.de/sport/fussball/fussball-transferticker-hat-der-fc-bayern-muenchen-interesse-an-micky-van-de-ven-vom-vfl-wolfsburg](https://www.spiegel.de/sport/fussball/fussball-transferticker-hat-der-fc-bayern-muenchen-interesse-an-micky-van-de-ven-vom-vfl-wolfsburg-a-a6c01ad8-0e66-421b-9c68-6261985b5fc3#ref=rss)
-* [https://www.spiegel.de/ausland/mittelmeer-nur-104-menschen-gerettet-was-ueber-den-vor-griechenland-gesunkenen-kutter-bekannt-ist](https://www.spiegel.de/ausland/mittelmeer-nur-104-menschen-gerettet-was-ueber-den-vor-griechenland-gesunkenen-kutter-bekannt-ist-a-8f5c50cf-d6f8-45ac-9e36-05566c5eb55e#ref=rss)
-### lina
-
-* [https://www.spiegel.de/panorama/justiz/lina-e-leipzig-radmuttern-an-polizeiautos-bei-protesten-geloest](https://www.spiegel.de/panorama/justiz/lina-e-leipzig-radmuttern-an-polizeiautos-bei-protesten-geloest-a-28c41773-6242-4b97-b5c5-ad5ee1b447eb#ref=rss)
-### e
-
-* [https://www.spiegel.de/panorama/justiz/lina-e-leipzig-radmuttern-an-polizeiautos-bei-protesten-geloest](https://www.spiegel.de/panorama/justiz/lina-e-leipzig-radmuttern-an-polizeiautos-bei-protesten-geloest-a-28c41773-6242-4b97-b5c5-ad5ee1b447eb#ref=rss)
-### leipzig
-
-* [https://www.spiegel.de/panorama/justiz/lina-e-leipzig-radmuttern-an-polizeiautos-bei-protesten-geloest](https://www.spiegel.de/panorama/justiz/lina-e-leipzig-radmuttern-an-polizeiautos-bei-protesten-geloest-a-28c41773-6242-4b97-b5c5-ad5ee1b447eb#ref=rss)
-### westliche
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/beschlagnahme-plaene-russland-soll-es-auf-unartige-westliche-unternehmen-abgesehen-haben](https://www.spiegel.de/wirtschaft/unternehmen/beschlagnahme-plaene-russland-soll-es-auf-unartige-westliche-unternehmen-abgesehen-haben-a-cfcddb54-4976-4120-84d6-9b0e1e64895f#ref=rss)
-### regierung
-
-* [https://www.spiegel.de/wirtschaft/unternehmen/beschlagnahme-plaene-russland-soll-es-auf-unartige-westliche-unternehmen-abgesehen-haben](https://www.spiegel.de/wirtschaft/unternehmen/beschlagnahme-plaene-russland-soll-es-auf-unartige-westliche-unternehmen-abgesehen-haben-a-cfcddb54-4976-4120-84d6-9b0e1e64895f#ref=rss)
-* [https://www.spiegel.de/ausland/kosovo-schliesst-grenzen-fuer-serbische-waren-und-fahrzeuge](https://www.spiegel.de/ausland/kosovo-schliesst-grenzen-fuer-serbische-waren-und-fahrzeuge-a-ad9ed933-2056-4e58-a9a4-12c1f529a722#ref=rss)
-### bootsunglück
-
-* [https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet](https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet-a-ac132535-44a3-4e47-ab4e-af60fe9042bd#ref=rss)
-### mittelmeer
-
-* [https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet](https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet-a-ac132535-44a3-4e47-ab4e-af60fe9042bd#ref=rss)
-* [https://www.spiegel.de/ausland/mittelmeer-nur-104-menschen-gerettet-was-ueber-den-vor-griechenland-gesunkenen-kutter-bekannt-ist](https://www.spiegel.de/ausland/mittelmeer-nur-104-menschen-gerettet-was-ueber-den-vor-griechenland-gesunkenen-kutter-bekannt-ist-a-8f5c50cf-d6f8-45ac-9e36-05566c5eb55e#ref=rss)
-### 500
-
-* [https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet](https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet-a-ac132535-44a3-4e47-ab4e-af60fe9042bd#ref=rss)
-### griechenland
-
-* [https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet](https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet-a-ac132535-44a3-4e47-ab4e-af60fe9042bd#ref=rss)
-* [https://www.spiegel.de/ausland/mittelmeer-nur-104-menschen-gerettet-was-ueber-den-vor-griechenland-gesunkenen-kutter-bekannt-ist](https://www.spiegel.de/ausland/mittelmeer-nur-104-menschen-gerettet-was-ueber-den-vor-griechenland-gesunkenen-kutter-bekannt-ist-a-8f5c50cf-d6f8-45ac-9e36-05566c5eb55e#ref=rss)
-### drei
-
-* [https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet](https://www.spiegel.de/panorama/bootsunglueck-im-mittelmeer-mehr-als-500-tote-migranten-befuerchtet-a-ac132535-44a3-4e47-ab4e-af60fe9042bd#ref=rss)
-* [https://www.spiegel.de/ausland/kosovo-schliesst-grenzen-fuer-serbische-waren-und-fahrzeuge](https://www.spiegel.de/ausland/kosovo-schliesst-grenzen-fuer-serbische-waren-und-fahrzeuge-a-ad9ed933-2056-4e58-a9a4-12c1f529a722#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist](https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist-a-0d450d34-bdbf-4e82-b264-6ab8384073b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft](https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft-a-1f4612e7-481d-432c-ab07-d33a26177a54#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tuerkei-neun-tote-bei-schiesserei-nach-eskaliertem-streit-um-ackerland](https://www.spiegel.de/panorama/justiz/tuerkei-neun-tote-bei-schiesserei-nach-eskaliertem-streit-um-ackerland-a-0918fb27-2d75-4603-a8ee-0b7cc67f946c#ref=rss)
 ### union
 
-* [https://www.spiegel.de/politik/deutschland/union-draengt-auf-entlastung-deutschlands-bei-aufnahme-von-gefluechteten](https://www.spiegel.de/politik/deutschland/union-draengt-auf-entlastung-deutschlands-bei-aufnahme-von-gefluechteten-a-12eef4d5-4400-4784-917e-057868a8eac7#ref=rss)
-### deutschlands
+* [https://www.spiegel.de/politik/deutschland/geplanter-scholz-untersuchungsausschuss-union-und-spd-finden-mini-kompromiss](https://www.spiegel.de/politik/deutschland/geplanter-scholz-untersuchungsausschuss-union-und-spd-finden-mini-kompromiss-a-8d434cbe-6452-4bcd-aeac-139d313a6fc0#ref=rss)
+* [https://www.spiegel.de/politik/heizungsstreit-im-bundestag-es-ist-ein-gesetz-fuer-die-tonne](https://www.spiegel.de/politik/heizungsstreit-im-bundestag-es-ist-ein-gesetz-fuer-die-tonne-a-fd29ddd5-b20f-4764-8cb6-9324b4b53e00#ref=rss)
+### offenbar
 
-* [https://www.spiegel.de/politik/deutschland/union-draengt-auf-entlastung-deutschlands-bei-aufnahme-von-gefluechteten](https://www.spiegel.de/politik/deutschland/union-draengt-auf-entlastung-deutschlands-bei-aufnahme-von-gefluechteten-a-12eef4d5-4400-4784-917e-057868a8eac7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/start-up-mitarbeiter-sind-zufriedener-als-andere-angestellte](https://www.spiegel.de/wirtschaft/start-up-mitarbeiter-sind-zufriedener-als-andere-angestellte-a-49d44879-e20b-43f1-a6ae-0e42f3fe466b#ref=rss)
-### künftig
+* [https://www.spiegel.de/wirtschaft/rbb-jan-weyrauch-zieht-bewerbung-fuer-intendanz-zurueck](https://www.spiegel.de/wirtschaft/rbb-jan-weyrauch-zieht-bewerbung-fuer-intendanz-zurueck-a-2177492d-9803-4aee-9118-9634ef23bb94#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/hamburg-ermittler-schlagen-gegen-mutmassliche-diebesbande-zu](https://www.spiegel.de/panorama/justiz/hamburg-ermittler-schlagen-gegen-mutmassliche-diebesbande-zu-a-12bd8567-c7ce-478d-b691-b946002f43e2#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine-a-c384bba1-ccec-4288-9c64-f507c706267f#ref=rss)
+### mittelmeer
 
-* [https://www.spiegel.de/politik/deutschland/union-draengt-auf-entlastung-deutschlands-bei-aufnahme-von-gefluechteten](https://www.spiegel.de/politik/deutschland/union-draengt-auf-entlastung-deutschlands-bei-aufnahme-von-gefluechteten-a-12eef4d5-4400-4784-917e-057868a8eac7#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-soll-elektronische-zustellung-akzeptieren](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-soll-elektronische-zustellung-akzeptieren-a-a907d65c-f6bf-4b6b-b8c5-a0fa02a031b1#ref=rss)
-### weniger
+* [https://www.spiegel.de/ausland/tunesien-die-toedliche-schleuserindustrie-auf-dem-mittelmeer](https://www.spiegel.de/ausland/tunesien-die-toedliche-schleuserindustrie-auf-dem-mittelmeer-a-5db8b074-077e-4165-bd5f-490e04370513#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gebaeudeenergiegesetz-im-bundestag-tragoedie-auf-dem-mittelmeer-goldschatz-fuer-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-gebaeudeenergiegesetz-im-bundestag-tragoedie-auf-dem-mittelmeer-goldschatz-fuer-die-afd-a-60e47014-639b-4e01-8fed-faf40ec31866#ref=rss)
+### neuen
 
-* [https://www.spiegel.de/politik/deutschland/union-draengt-auf-entlastung-deutschlands-bei-aufnahme-von-gefluechteten](https://www.spiegel.de/politik/deutschland/union-draengt-auf-entlastung-deutschlands-bei-aufnahme-von-gefluechteten-a-12eef4d5-4400-4784-917e-057868a8eac7#ref=rss)
-* [https://www.spiegel.de/start/iab-studie-zahl-der-auszubildenden-im-handwerk-steigt-aber-nur-in-ostdeutschland](https://www.spiegel.de/start/iab-studie-zahl-der-auszubildenden-im-handwerk-steigt-aber-nur-in-ostdeutschland-a-d7010432-83ee-4843-8a87-c81bdd9635a6#ref=rss)
-### deutschland
+* [https://www.spiegel.de/ausland/tunesien-die-toedliche-schleuserindustrie-auf-dem-mittelmeer](https://www.spiegel.de/ausland/tunesien-die-toedliche-schleuserindustrie-auf-dem-mittelmeer-a-5db8b074-077e-4165-bd5f-490e04370513#ref=rss)
+* [https://www.spiegel.de/sport/wir-haben-vollstes-vertrauen-in-hansi-und-seinen-plan](https://www.spiegel.de/sport/wir-haben-vollstes-vertrauen-in-hansi-und-seinen-plan-a-2a691e9d-8fa7-40bb-8564-6840dea31848#ref=rss)
+* [https://www.spiegel.de/panorama/bildung/oecd-studie-kinder-aus-zugewanderten-familien-haben-sich-schulisch-verbessert](https://www.spiegel.de/panorama/bildung/oecd-studie-kinder-aus-zugewanderten-familien-haben-sich-schulisch-verbessert-a-b357efb2-30cc-4757-a59f-9d0c444a5166#ref=rss)
+### wir
 
-* [https://www.spiegel.de/politik/deutschland/union-draengt-auf-entlastung-deutschlands-bei-aufnahme-von-gefluechteten](https://www.spiegel.de/politik/deutschland/union-draengt-auf-entlastung-deutschlands-bei-aufnahme-von-gefluechteten-a-12eef4d5-4400-4784-917e-057868a8eac7#ref=rss)
-* [https://www.spiegel.de/wirtschaft/warnung-des-think-tanks-dgap-fehlende-chinastrategie-gefaehrdet-europas-unternehmen](https://www.spiegel.de/wirtschaft/warnung-des-think-tanks-dgap-fehlende-chinastrategie-gefaehrdet-europas-unternehmen-a-b1658f77-5c60-47f3-9325-c0238ad99519#ref=rss)
-### christine
-
-* [https://www.spiegel.de/panorama/leute/kevin-costner-christine-ist-nicht-ausgezogen-trotz-mehrfacher-aufforderung](https://www.spiegel.de/panorama/leute/kevin-costner-christine-ist-nicht-ausgezogen-trotz-mehrfacher-aufforderung-a-bbf554a6-db53-4316-873f-41939a765b76#ref=rss)
-### haus
-
-* [https://www.spiegel.de/panorama/leute/kevin-costner-christine-ist-nicht-ausgezogen-trotz-mehrfacher-aufforderung](https://www.spiegel.de/panorama/leute/kevin-costner-christine-ist-nicht-ausgezogen-trotz-mehrfacher-aufforderung-a-bbf554a6-db53-4316-873f-41939a765b76#ref=rss)
-### junge
-
-* [https://www.spiegel.de/psychologie/tui-jugendstudie-junges-europa-2023-euer-pessimismus-kotzt-mich-an-kommentar](https://www.spiegel.de/psychologie/tui-jugendstudie-junges-europa-2023-euer-pessimismus-kotzt-mich-an-kommentar-a-fb49af9e-37e1-47b3-a7c1-0c375560d46d#ref=rss)
-* [https://www.spiegel.de/start/iab-studie-zahl-der-auszubildenden-im-handwerk-steigt-aber-nur-in-ostdeutschland](https://www.spiegel.de/start/iab-studie-zahl-der-auszubildenden-im-handwerk-steigt-aber-nur-in-ostdeutschland-a-d7010432-83ee-4843-8a87-c81bdd9635a6#ref=rss)
-### studierende
-
-* [https://www.spiegel.de/start/che-hochschulranking-mehr-studierende-wohnen-bei-ihren-eltern](https://www.spiegel.de/start/che-hochschulranking-mehr-studierende-wohnen-bei-ihren-eltern-a-a6fd8102-8eca-4a0e-bab2-6db44cb356e7#ref=rss)
-### eltern
-
-* [https://www.spiegel.de/start/che-hochschulranking-mehr-studierende-wohnen-bei-ihren-eltern](https://www.spiegel.de/start/che-hochschulranking-mehr-studierende-wohnen-bei-ihren-eltern-a-a6fd8102-8eca-4a0e-bab2-6db44cb356e7#ref=rss)
-### bundesverfassungsgericht
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-soll-elektronische-zustellung-akzeptieren](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-soll-elektronische-zustellung-akzeptieren-a-a907d65c-f6bf-4b6b-b8c5-a0fa02a031b1#ref=rss)
-### per
-
-* [https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-soll-elektronische-zustellung-akzeptieren](https://www.spiegel.de/politik/deutschland/bundesverfassungsgericht-soll-elektronische-zustellung-akzeptieren-a-a907d65c-f6bf-4b6b-b8c5-a0fa02a031b1#ref=rss)
-### sachsenanhalt
-
-* [https://www.spiegel.de/panorama/justiz/milde-in-sachsen-anhalt-angler-bergen-mehr-als-hundert-kilo-tote-fische](https://www.spiegel.de/panorama/justiz/milde-in-sachsen-anhalt-angler-bergen-mehr-als-hundert-kilo-tote-fische-a-67307997-e0b8-414f-96ab-aeb5c495022c#ref=rss)
-### nimmt
-
-* [https://www.spiegel.de/panorama/justiz/milde-in-sachsen-anhalt-angler-bergen-mehr-als-hundert-kilo-tote-fische](https://www.spiegel.de/panorama/justiz/milde-in-sachsen-anhalt-angler-bergen-mehr-als-hundert-kilo-tote-fische-a-67307997-e0b8-414f-96ab-aeb5c495022c#ref=rss)
-* [https://www.spiegel.de/wirtschaft/soziales/diw-ungleichheit-bei-einkommen-nimmt-wieder-zu](https://www.spiegel.de/wirtschaft/soziales/diw-ungleichheit-bei-einkommen-nimmt-wieder-zu-a-04d5b1c5-cc87-447d-87ee-55bdee8a031f#ref=rss)
-### einkommen
-
-* [https://www.spiegel.de/wirtschaft/soziales/diw-ungleichheit-bei-einkommen-nimmt-wieder-zu](https://www.spiegel.de/wirtschaft/soziales/diw-ungleichheit-bei-einkommen-nimmt-wieder-zu-a-04d5b1c5-cc87-447d-87ee-55bdee8a031f#ref=rss)
-### diesen
-
-* [https://www.spiegel.de/wirtschaft/soziales/diw-ungleichheit-bei-einkommen-nimmt-wieder-zu](https://www.spiegel.de/wirtschaft/soziales/diw-ungleichheit-bei-einkommen-nimmt-wieder-zu-a-04d5b1c5-cc87-447d-87ee-55bdee8a031f#ref=rss)
-* [https://www.spiegel.de/start/guenstiges-rezept-fuer-tarte-tatin-kopfueber-gebackener-apfelkuchen-aus-der-pfanne](https://www.spiegel.de/start/guenstiges-rezept-fuer-tarte-tatin-kopfueber-gebackener-apfelkuchen-aus-der-pfanne-a-9d4c1fbc-4562-4a48-be43-b225602498b7#ref=rss)
-### soft
-
-* [https://www.spiegel.de/wirtschaft/start-up-mitarbeiter-sind-zufriedener-als-andere-angestellte](https://www.spiegel.de/wirtschaft/start-up-mitarbeiter-sind-zufriedener-als-andere-angestellte-a-49d44879-e20b-43f1-a6ae-0e42f3fe466b#ref=rss)
-### laut
-
-* [https://www.spiegel.de/wirtschaft/start-up-mitarbeiter-sind-zufriedener-als-andere-angestellte](https://www.spiegel.de/wirtschaft/start-up-mitarbeiter-sind-zufriedener-als-andere-angestellte-a-49d44879-e20b-43f1-a6ae-0e42f3fe466b#ref=rss)
-* [https://www.spiegel.de/netzwelt/chatgpt-vier-von-zehn-deutschen-haben-schon-ki-chatbots-einmal-ausprobiert](https://www.spiegel.de/netzwelt/chatgpt-vier-von-zehn-deutschen-haben-schon-ki-chatbots-einmal-ausprobiert-a-2e9ab6cd-5d98-41cb-9398-820e79ae2368#ref=rss)
-### impfschäden
-
-* [https://www.spiegel.de/wissenschaft/impfschaeden-und-corona-thueringen-und-bayern-sind-spitzenreiter-bei-antraegen](https://www.spiegel.de/wissenschaft/impfschaeden-und-corona-thueringen-und-bayern-sind-spitzenreiter-bei-antraegen-a-f0145246-e591-4c32-872e-a2108766e4dc#ref=rss)
-### apfelkuchen
-
-* [https://www.spiegel.de/start/guenstiges-rezept-fuer-tarte-tatin-kopfueber-gebackener-apfelkuchen-aus-der-pfanne](https://www.spiegel.de/start/guenstiges-rezept-fuer-tarte-tatin-kopfueber-gebackener-apfelkuchen-aus-der-pfanne-a-9d4c1fbc-4562-4a48-be43-b225602498b7#ref=rss)
-### roger
-
-* [https://www.spiegel.de/kultur/musik/roger-payne-ist-tot-er-brachte-songs-of-the-humpback-whale-als-album-heraus](https://www.spiegel.de/kultur/musik/roger-payne-ist-tot-er-brachte-songs-of-the-humpback-whale-als-album-heraus-a-83d5915e-07c9-44ca-8a72-336ebfa59123#ref=rss)
-### payne
-
-* [https://www.spiegel.de/kultur/musik/roger-payne-ist-tot-er-brachte-songs-of-the-humpback-whale-als-album-heraus](https://www.spiegel.de/kultur/musik/roger-payne-ist-tot-er-brachte-songs-of-the-humpback-whale-als-album-heraus-a-83d5915e-07c9-44ca-8a72-336ebfa59123#ref=rss)
-### tot
-
-* [https://www.spiegel.de/kultur/musik/roger-payne-ist-tot-er-brachte-songs-of-the-humpback-whale-als-album-heraus](https://www.spiegel.de/kultur/musik/roger-payne-ist-tot-er-brachte-songs-of-the-humpback-whale-als-album-heraus-a-83d5915e-07c9-44ca-8a72-336ebfa59123#ref=rss)
-* [https://www.spiegel.de/sport/fussball/john-hollins-ist-tot-nachruf-auf-englands-rekordmann](https://www.spiegel.de/sport/fussball/john-hollins-ist-tot-nachruf-auf-englands-rekordmann-a-f37add6b-900c-43dc-a51e-8bb111b4f811#ref=rss)
-### album
-
-* [https://www.spiegel.de/kultur/musik/roger-payne-ist-tot-er-brachte-songs-of-the-humpback-whale-als-album-heraus](https://www.spiegel.de/kultur/musik/roger-payne-ist-tot-er-brachte-songs-of-the-humpback-whale-als-album-heraus-a-83d5915e-07c9-44ca-8a72-336ebfa59123#ref=rss)
-### heizungsgesetz
-
-* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-robert-habeck-verteidigt-entwurf-im-bundestag](https://www.spiegel.de/politik/deutschland/heizungsgesetz-robert-habeck-verteidigt-entwurf-im-bundestag-a-c76efea6-649a-4dd7-8e1b-0ab561b1a362#ref=rss)
+* [https://www.spiegel.de/wissenschaft/weltall/europas-raumfahrt-vor-100-jahren-haben-wir-den-nordpol-erkundet-heute-erkunden-wir-das-all](https://www.spiegel.de/wissenschaft/weltall/europas-raumfahrt-vor-100-jahren-haben-wir-den-nordpol-erkundet-heute-erkunden-wir-das-all-a-93dba6c2-a14f-4940-8ad1-1858624f37f4#ref=rss)
+* [https://www.spiegel.de/sport/wir-haben-vollstes-vertrauen-in-hansi-und-seinen-plan](https://www.spiegel.de/sport/wir-haben-vollstes-vertrauen-in-hansi-und-seinen-plan-a-2a691e9d-8fa7-40bb-8564-6840dea31848#ref=rss)
 ### bundestag
 
-* [https://www.spiegel.de/politik/deutschland/heizungsgesetz-robert-habeck-verteidigt-entwurf-im-bundestag](https://www.spiegel.de/politik/deutschland/heizungsgesetz-robert-habeck-verteidigt-entwurf-im-bundestag-a-c76efea6-649a-4dd7-8e1b-0ab561b1a362#ref=rss)
-### nations
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gebaeudeenergiegesetz-im-bundestag-tragoedie-auf-dem-mittelmeer-goldschatz-fuer-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-gebaeudeenergiegesetz-im-bundestag-tragoedie-auf-dem-mittelmeer-goldschatz-fuer-die-afd-a-60e47014-639b-4e01-8fed-faf40ec31866#ref=rss)
+* [https://www.spiegel.de/politik/heizungsstreit-im-bundestag-es-ist-ein-gesetz-fuer-die-tonne](https://www.spiegel.de/politik/heizungsstreit-im-bundestag-es-ist-ein-gesetz-fuer-die-tonne-a-fd29ddd5-b20f-4764-8cb6-9324b4b53e00#ref=rss)
+### land
 
-* [https://www.spiegel.de/sport/fussball/nations-league-die-niederlande-verlieren-in-rotterdam-gegen-kroatien-voetbal-verkehrt](https://www.spiegel.de/sport/fussball/nations-league-die-niederlande-verlieren-in-rotterdam-gegen-kroatien-voetbal-verkehrt-a-90f73e39-a832-4bbf-9984-18bada73179d#ref=rss)
-### league
+* [https://www.spiegel.de/ausland/nordkorea-feuert-raketen-ins-meer-suedkorea-japan-und-usa-protestieren](https://www.spiegel.de/ausland/nordkorea-feuert-raketen-ins-meer-suedkorea-japan-und-usa-protestieren-a-1d5a5309-774d-4fa4-8170-4b445890ee76#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tuerkei-neun-tote-bei-schiesserei-nach-eskaliertem-streit-um-ackerland](https://www.spiegel.de/panorama/justiz/tuerkei-neun-tote-bei-schiesserei-nach-eskaliertem-streit-um-ackerland-a-0918fb27-2d75-4603-a8ee-0b7cc67f946c#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/crystal-meth-in-neuseeland-gefunden-35-millionen-einzeldosen-in-kanadischem-ahornsirup-versteckt](https://www.spiegel.de/panorama/justiz/crystal-meth-in-neuseeland-gefunden-35-millionen-einzeldosen-in-kanadischem-ahornsirup-versteckt-a-3da23b3c-dd37-48f3-8330-e4e5442bc81f#ref=rss)
+### neuschwanstein
 
-* [https://www.spiegel.de/sport/fussball/nations-league-die-niederlande-verlieren-in-rotterdam-gegen-kroatien-voetbal-verkehrt](https://www.spiegel.de/sport/fussball/nations-league-die-niederlande-verlieren-in-rotterdam-gegen-kroatien-voetbal-verkehrt-a-90f73e39-a832-4bbf-9984-18bada73179d#ref=rss)
-### niederlande
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist](https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist-a-0d450d34-bdbf-4e82-b264-6ab8384073b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft](https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft-a-1f4612e7-481d-432c-ab07-d33a26177a54#ref=rss)
+### familien
 
-* [https://www.spiegel.de/sport/fussball/nations-league-die-niederlande-verlieren-in-rotterdam-gegen-kroatien-voetbal-verkehrt](https://www.spiegel.de/sport/fussball/nations-league-die-niederlande-verlieren-in-rotterdam-gegen-kroatien-voetbal-verkehrt-a-90f73e39-a832-4bbf-9984-18bada73179d#ref=rss)
-### verlieren
+* [https://www.spiegel.de/panorama/bildung/oecd-studie-kinder-aus-zugewanderten-familien-haben-sich-schulisch-verbessert](https://www.spiegel.de/panorama/bildung/oecd-studie-kinder-aus-zugewanderten-familien-haben-sich-schulisch-verbessert-a-b357efb2-30cc-4757-a59f-9d0c444a5166#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tuerkei-neun-tote-bei-schiesserei-nach-eskaliertem-streit-um-ackerland](https://www.spiegel.de/panorama/justiz/tuerkei-neun-tote-bei-schiesserei-nach-eskaliertem-streit-um-ackerland-a-0918fb27-2d75-4603-a8ee-0b7cc67f946c#ref=rss)
+### streit
 
-* [https://www.spiegel.de/sport/fussball/nations-league-die-niederlande-verlieren-in-rotterdam-gegen-kroatien-voetbal-verkehrt](https://www.spiegel.de/sport/fussball/nations-league-die-niederlande-verlieren-in-rotterdam-gegen-kroatien-voetbal-verkehrt-a-90f73e39-a832-4bbf-9984-18bada73179d#ref=rss)
-### trainer
+* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-juso-landeschef-wettert-gegen-landtagspraesidentin-sitzung-unterbrochen](https://www.spiegel.de/politik/deutschland/schleswig-holstein-juso-landeschef-wettert-gegen-landtagspraesidentin-sitzung-unterbrochen-a-5add3f0e-6575-468d-a8eb-2a2372728bb0#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tuerkei-neun-tote-bei-schiesserei-nach-eskaliertem-streit-um-ackerland](https://www.spiegel.de/panorama/justiz/tuerkei-neun-tote-bei-schiesserei-nach-eskaliertem-streit-um-ackerland-a-0918fb27-2d75-4603-a8ee-0b7cc67f946c#ref=rss)
+### polizei
 
-* [https://www.spiegel.de/sport/fussball/nations-league-die-niederlande-verlieren-in-rotterdam-gegen-kroatien-voetbal-verkehrt](https://www.spiegel.de/sport/fussball/nations-league-die-niederlande-verlieren-in-rotterdam-gegen-kroatien-voetbal-verkehrt-a-90f73e39-a832-4bbf-9984-18bada73179d#ref=rss)
-* [https://www.spiegel.de/sport/fussball/john-hollins-ist-tot-nachruf-auf-englands-rekordmann](https://www.spiegel.de/sport/fussball/john-hollins-ist-tot-nachruf-auf-englands-rekordmann-a-f37add6b-900c-43dc-a51e-8bb111b4f811#ref=rss)
-### chatgpt
+* [https://www.spiegel.de/panorama/justiz/hamburg-ermittler-schlagen-gegen-mutmassliche-diebesbande-zu](https://www.spiegel.de/panorama/justiz/hamburg-ermittler-schlagen-gegen-mutmassliche-diebesbande-zu-a-12bd8567-c7ce-478d-b691-b946002f43e2#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft](https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft-a-1f4612e7-481d-432c-ab07-d33a26177a54#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/crystal-meth-in-neuseeland-gefunden-35-millionen-einzeldosen-in-kanadischem-ahornsirup-versteckt](https://www.spiegel.de/panorama/justiz/crystal-meth-in-neuseeland-gefunden-35-millionen-einzeldosen-in-kanadischem-ahornsirup-versteckt-a-3da23b3c-dd37-48f3-8330-e4e5442bc81f#ref=rss)
+### spd
 
-* [https://www.spiegel.de/netzwelt/chatgpt-vier-von-zehn-deutschen-haben-schon-ki-chatbots-einmal-ausprobiert](https://www.spiegel.de/netzwelt/chatgpt-vier-von-zehn-deutschen-haben-schon-ki-chatbots-einmal-ausprobiert-a-2e9ab6cd-5d98-41cb-9398-820e79ae2368#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/geplanter-scholz-untersuchungsausschuss-union-und-spd-finden-mini-kompromiss](https://www.spiegel.de/politik/deutschland/geplanter-scholz-untersuchungsausschuss-union-und-spd-finden-mini-kompromiss-a-8d434cbe-6452-4bcd-aeac-139d313a6fc0#ref=rss)
+### rbb
+
+* [https://www.spiegel.de/wirtschaft/rbb-jan-weyrauch-zieht-bewerbung-fuer-intendanz-zurueck](https://www.spiegel.de/wirtschaft/rbb-jan-weyrauch-zieht-bewerbung-fuer-intendanz-zurueck-a-2177492d-9803-4aee-9118-9634ef23bb94#ref=rss)
+### jan
+
+* [https://www.spiegel.de/wirtschaft/rbb-jan-weyrauch-zieht-bewerbung-fuer-intendanz-zurueck](https://www.spiegel.de/wirtschaft/rbb-jan-weyrauch-zieht-bewerbung-fuer-intendanz-zurueck-a-2177492d-9803-4aee-9118-9634ef23bb94#ref=rss)
+### weyrauch
+
+* [https://www.spiegel.de/wirtschaft/rbb-jan-weyrauch-zieht-bewerbung-fuer-intendanz-zurueck](https://www.spiegel.de/wirtschaft/rbb-jan-weyrauch-zieht-bewerbung-fuer-intendanz-zurueck-a-2177492d-9803-4aee-9118-9634ef23bb94#ref=rss)
+### zurück
+
+* [https://www.spiegel.de/wirtschaft/rbb-jan-weyrauch-zieht-bewerbung-fuer-intendanz-zurueck](https://www.spiegel.de/wirtschaft/rbb-jan-weyrauch-zieht-bewerbung-fuer-intendanz-zurueck-a-2177492d-9803-4aee-9118-9634ef23bb94#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-juso-landeschef-wettert-gegen-landtagspraesidentin-sitzung-unterbrochen](https://www.spiegel.de/politik/deutschland/schleswig-holstein-juso-landeschef-wettert-gegen-landtagspraesidentin-sitzung-unterbrochen-a-5add3f0e-6575-468d-a8eb-2a2372728bb0#ref=rss)
+### neue
+
+* [https://www.spiegel.de/wirtschaft/rbb-jan-weyrauch-zieht-bewerbung-fuer-intendanz-zurueck](https://www.spiegel.de/wirtschaft/rbb-jan-weyrauch-zieht-bewerbung-fuer-intendanz-zurueck-a-2177492d-9803-4aee-9118-9634ef23bb94#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/munition-fuer-flakpanzer-gepard-neue-geschosse-fuer-das-raubtier](https://www.spiegel.de/wissenschaft/technik/munition-fuer-flakpanzer-gepard-neue-geschosse-fuer-das-raubtier-a-e0549b75-4afc-44c9-a6ad-409008e36568#ref=rss)
+### huawei
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/huawei-und-zte-eu-kommission-sieht-chinesische-hersteller-als-sicherheitsrisiko](https://www.spiegel.de/wirtschaft/unternehmen/huawei-und-zte-eu-kommission-sieht-chinesische-hersteller-als-sicherheitsrisiko-a-22a9c1f0-28d2-4d8b-94ea-9e7788ab103f#ref=rss)
+### zte
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/huawei-und-zte-eu-kommission-sieht-chinesische-hersteller-als-sicherheitsrisiko](https://www.spiegel.de/wirtschaft/unternehmen/huawei-und-zte-eu-kommission-sieht-chinesische-hersteller-als-sicherheitsrisiko-a-22a9c1f0-28d2-4d8b-94ea-9e7788ab103f#ref=rss)
+### eukommission
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/huawei-und-zte-eu-kommission-sieht-chinesische-hersteller-als-sicherheitsrisiko](https://www.spiegel.de/wirtschaft/unternehmen/huawei-und-zte-eu-kommission-sieht-chinesische-hersteller-als-sicherheitsrisiko-a-22a9c1f0-28d2-4d8b-94ea-9e7788ab103f#ref=rss)
+### tunesien
+
+* [https://www.spiegel.de/ausland/tunesien-die-toedliche-schleuserindustrie-auf-dem-mittelmeer](https://www.spiegel.de/ausland/tunesien-die-toedliche-schleuserindustrie-auf-dem-mittelmeer-a-5db8b074-077e-4165-bd5f-490e04370513#ref=rss)
+### schleuserindustrie
+
+* [https://www.spiegel.de/ausland/tunesien-die-toedliche-schleuserindustrie-auf-dem-mittelmeer](https://www.spiegel.de/ausland/tunesien-die-toedliche-schleuserindustrie-auf-dem-mittelmeer-a-5db8b074-077e-4165-bd5f-490e04370513#ref=rss)
+### feiern
+
+* [https://www.spiegel.de/ausland/tunesien-die-toedliche-schleuserindustrie-auf-dem-mittelmeer](https://www.spiegel.de/ausland/tunesien-die-toedliche-schleuserindustrie-auf-dem-mittelmeer-a-5db8b074-077e-4165-bd5f-490e04370513#ref=rss)
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-bei-ard-und-zdf-sie-verdienen-mehr](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-bei-ard-und-zdf-sie-verdienen-mehr-a-0974a0b9-3662-4319-8b69-4a48f53775db#ref=rss)
+### kilometer
+
+* [https://www.spiegel.de/ausland/tunesien-die-toedliche-schleuserindustrie-auf-dem-mittelmeer](https://www.spiegel.de/ausland/tunesien-die-toedliche-schleuserindustrie-auf-dem-mittelmeer-a-5db8b074-077e-4165-bd5f-490e04370513#ref=rss)
+* [https://www.spiegel.de/ausland/nordkorea-feuert-raketen-ins-meer-suedkorea-japan-und-usa-protestieren](https://www.spiegel.de/ausland/nordkorea-feuert-raketen-ins-meer-suedkorea-japan-und-usa-protestieren-a-1d5a5309-774d-4fa4-8170-4b445890ee76#ref=rss)
+### aurora
+
+* [https://www.spiegel.de/ausland/aurora-italien-setzt-weiteres-deutsches-seenotrettungsboot-fest](https://www.spiegel.de/ausland/aurora-italien-setzt-weiteres-deutsches-seenotrettungsboot-fest-a-7b2ef2da-57db-481b-9997-c15df814fa02#ref=rss)
+### setzt
+
+* [https://www.spiegel.de/ausland/aurora-italien-setzt-weiteres-deutsches-seenotrettungsboot-fest](https://www.spiegel.de/ausland/aurora-italien-setzt-weiteres-deutsches-seenotrettungsboot-fest-a-7b2ef2da-57db-481b-9997-c15df814fa02#ref=rss)
+* [https://www.spiegel.de/kultur/musik/rammstein-plattenfirma-setzt-marketing-und-promotion-aktivitaeten-aus](https://www.spiegel.de/kultur/musik/rammstein-plattenfirma-setzt-marketing-und-promotion-aktivitaeten-aus-a-a6731634-940b-4a62-90da-058667bf1694#ref=rss)
+### weiteres
+
+* [https://www.spiegel.de/ausland/aurora-italien-setzt-weiteres-deutsches-seenotrettungsboot-fest](https://www.spiegel.de/ausland/aurora-italien-setzt-weiteres-deutsches-seenotrettungsboot-fest-a-7b2ef2da-57db-481b-9997-c15df814fa02#ref=rss)
+* [https://www.spiegel.de/kultur/musik/rammstein-plattenfirma-setzt-marketing-und-promotion-aktivitaeten-aus](https://www.spiegel.de/kultur/musik/rammstein-plattenfirma-setzt-marketing-und-promotion-aktivitaeten-aus-a-a6731634-940b-4a62-90da-058667bf1694#ref=rss)
+### ard
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-bei-ard-und-zdf-sie-verdienen-mehr](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-bei-ard-und-zdf-sie-verdienen-mehr-a-0974a0b9-3662-4319-8b69-4a48f53775db#ref=rss)
+### zdf
+
+* [https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-bei-ard-und-zdf-sie-verdienen-mehr](https://www.spiegel.de/sport/fussball/fussball-wm-der-frauen-bei-ard-und-zdf-sie-verdienen-mehr-a-0974a0b9-3662-4319-8b69-4a48f53775db#ref=rss)
+### news
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gebaeudeenergiegesetz-im-bundestag-tragoedie-auf-dem-mittelmeer-goldschatz-fuer-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-gebaeudeenergiegesetz-im-bundestag-tragoedie-auf-dem-mittelmeer-goldschatz-fuer-die-afd-a-60e47014-639b-4e01-8fed-faf40ec31866#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine-a-c384bba1-ccec-4288-9c64-f507c706267f#ref=rss)
+### afd
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gebaeudeenergiegesetz-im-bundestag-tragoedie-auf-dem-mittelmeer-goldschatz-fuer-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-gebaeudeenergiegesetz-im-bundestag-tragoedie-auf-dem-mittelmeer-goldschatz-fuer-die-afd-a-60e47014-639b-4e01-8fed-faf40ec31866#ref=rss)
+### heizungsgesetz
+
+* [https://www.spiegel.de/politik/deutschland/news-des-tages-gebaeudeenergiegesetz-im-bundestag-tragoedie-auf-dem-mittelmeer-goldschatz-fuer-die-afd](https://www.spiegel.de/politik/deutschland/news-des-tages-gebaeudeenergiegesetz-im-bundestag-tragoedie-auf-dem-mittelmeer-goldschatz-fuer-die-afd-a-60e47014-639b-4e01-8fed-faf40ec31866#ref=rss)
+* [https://www.spiegel.de/politik/heizungsstreit-im-bundestag-es-ist-ein-gesetz-fuer-die-tonne](https://www.spiegel.de/politik/heizungsstreit-im-bundestag-es-ist-ein-gesetz-fuer-die-tonne-a-fd29ddd5-b20f-4764-8cb6-9324b4b53e00#ref=rss)
+### kai
+
+* [https://www.spiegel.de/politik/deutschland/gericht-untersagt-kai-diekmann-aeusserungen-zu-kohl-soehnen](https://www.spiegel.de/politik/deutschland/gericht-untersagt-kai-diekmann-aeusserungen-zu-kohl-soehnen-a-a9f5f202-1d72-4bf6-83d6-2aaabd4828ff#ref=rss)
+### diekmann
+
+* [https://www.spiegel.de/politik/deutschland/gericht-untersagt-kai-diekmann-aeusserungen-zu-kohl-soehnen](https://www.spiegel.de/politik/deutschland/gericht-untersagt-kai-diekmann-aeusserungen-zu-kohl-soehnen-a-a9f5f202-1d72-4bf6-83d6-2aaabd4828ff#ref=rss)
+### auseinandersetzung
+
+* [https://www.spiegel.de/politik/deutschland/gericht-untersagt-kai-diekmann-aeusserungen-zu-kohl-soehnen](https://www.spiegel.de/politik/deutschland/gericht-untersagt-kai-diekmann-aeusserungen-zu-kohl-soehnen-a-a9f5f202-1d72-4bf6-83d6-2aaabd4828ff#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/tuerkei-neun-tote-bei-schiesserei-nach-eskaliertem-streit-um-ackerland](https://www.spiegel.de/panorama/justiz/tuerkei-neun-tote-bei-schiesserei-nach-eskaliertem-streit-um-ackerland-a-0918fb27-2d75-4603-a8ee-0b7cc67f946c#ref=rss)
+### nordkorea
+
+* [https://www.spiegel.de/ausland/nordkorea-feuert-raketen-ins-meer-suedkorea-japan-und-usa-protestieren](https://www.spiegel.de/ausland/nordkorea-feuert-raketen-ins-meer-suedkorea-japan-und-usa-protestieren-a-1d5a5309-774d-4fa4-8170-4b445890ee76#ref=rss)
+### raketen
+
+* [https://www.spiegel.de/ausland/nordkorea-feuert-raketen-ins-meer-suedkorea-japan-und-usa-protestieren](https://www.spiegel.de/ausland/nordkorea-feuert-raketen-ins-meer-suedkorea-japan-und-usa-protestieren-a-1d5a5309-774d-4fa4-8170-4b445890ee76#ref=rss)
+### geschosse
+
+* [https://www.spiegel.de/ausland/nordkorea-feuert-raketen-ins-meer-suedkorea-japan-und-usa-protestieren](https://www.spiegel.de/ausland/nordkorea-feuert-raketen-ins-meer-suedkorea-japan-und-usa-protestieren-a-1d5a5309-774d-4fa4-8170-4b445890ee76#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/munition-fuer-flakpanzer-gepard-neue-geschosse-fuer-das-raubtier](https://www.spiegel.de/wissenschaft/technik/munition-fuer-flakpanzer-gepard-neue-geschosse-fuer-das-raubtier-a-e0549b75-4afc-44c9-a6ad-409008e36568#ref=rss)
+### angriff
+
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist](https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist-a-0d450d34-bdbf-4e82-b264-6ab8384073b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft](https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft-a-1f4612e7-481d-432c-ab07-d33a26177a54#ref=rss)
+### 30jähriger
+
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist](https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist-a-0d450d34-bdbf-4e82-b264-6ab8384073b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft](https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft-a-1f4612e7-481d-432c-ab07-d33a26177a54#ref=rss)
+### erlag
+
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist](https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist-a-0d450d34-bdbf-4e82-b264-6ab8384073b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft](https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft-a-1f4612e7-481d-432c-ab07-d33a26177a54#ref=rss)
+### verletzungen
+
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist](https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist-a-0d450d34-bdbf-4e82-b264-6ab8384073b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft](https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft-a-1f4612e7-481d-432c-ab07-d33a26177a54#ref=rss)
+### sexualdelikt
+
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist](https://www.spiegel.de/panorama/justiz/neuschwanstein-was-ueber-den-angriff-auf-zwei-us-touristinnen-bekannt-ist-a-0d450d34-bdbf-4e82-b264-6ab8384073b8#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft](https://www.spiegel.de/panorama/justiz/neuschwanstein-tourist-nach-toedlichem-angriff-in-u-haft-a-1f4612e7-481d-432c-ab07-d33a26177a54#ref=rss)
+### leon
+
+* [https://www.spiegel.de/sport/wir-haben-vollstes-vertrauen-in-hansi-und-seinen-plan](https://www.spiegel.de/sport/wir-haben-vollstes-vertrauen-in-hansi-und-seinen-plan-a-2a691e9d-8fa7-40bb-8564-6840dea31848#ref=rss)
+### goretzka
+
+* [https://www.spiegel.de/sport/wir-haben-vollstes-vertrauen-in-hansi-und-seinen-plan](https://www.spiegel.de/sport/wir-haben-vollstes-vertrauen-in-hansi-und-seinen-plan-a-2a691e9d-8fa7-40bb-8564-6840dea31848#ref=rss)
+### plan
+
+* [https://www.spiegel.de/sport/wir-haben-vollstes-vertrauen-in-hansi-und-seinen-plan](https://www.spiegel.de/sport/wir-haben-vollstes-vertrauen-in-hansi-und-seinen-plan-a-2a691e9d-8fa7-40bb-8564-6840dea31848#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/crystal-meth-in-neuseeland-gefunden-35-millionen-einzeldosen-in-kanadischem-ahornsirup-versteckt](https://www.spiegel.de/panorama/justiz/crystal-meth-in-neuseeland-gefunden-35-millionen-einzeldosen-in-kanadischem-ahornsirup-versteckt-a-3da23b3c-dd37-48f3-8330-e4e5442bc81f#ref=rss)
 ### deutschen
 
-* [https://www.spiegel.de/netzwelt/chatgpt-vier-von-zehn-deutschen-haben-schon-ki-chatbots-einmal-ausprobiert](https://www.spiegel.de/netzwelt/chatgpt-vier-von-zehn-deutschen-haben-schon-ki-chatbots-einmal-ausprobiert-a-2e9ab6cd-5d98-41cb-9398-820e79ae2368#ref=rss)
-### bud
+* [https://www.spiegel.de/panorama/bildung/oecd-studie-kinder-aus-zugewanderten-familien-haben-sich-schulisch-verbessert](https://www.spiegel.de/panorama/bildung/oecd-studie-kinder-aus-zugewanderten-familien-haben-sich-schulisch-verbessert-a-b357efb2-30cc-4757-a59f-9d0c444a5166#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/ministerpraesidentenkonferenz-laender-verlangen-massnahmen-gegen-teuren-strom-fuer-industrie](https://www.spiegel.de/politik/deutschland/ministerpraesidentenkonferenz-laender-verlangen-massnahmen-gegen-teuren-strom-fuer-industrie-a-1eb0c419-8a61-4f7f-87d8-38d031a1a953#ref=rss)
+### sagt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bud-light-verliert-spitzenplatz-bei-us-bieren](https://www.spiegel.de/wirtschaft/unternehmen/bud-light-verliert-spitzenplatz-bei-us-bieren-a-18d5a342-746b-43a5-966d-1aa67795b432#ref=rss)
-### light
+* [https://www.spiegel.de/panorama/bildung/oecd-studie-kinder-aus-zugewanderten-familien-haben-sich-schulisch-verbessert](https://www.spiegel.de/panorama/bildung/oecd-studie-kinder-aus-zugewanderten-familien-haben-sich-schulisch-verbessert-a-b357efb2-30cc-4757-a59f-9d0c444a5166#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine-a-c384bba1-ccec-4288-9c64-f507c706267f#ref=rss)
+### geld
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bud-light-verliert-spitzenplatz-bei-us-bieren](https://www.spiegel.de/wirtschaft/unternehmen/bud-light-verliert-spitzenplatz-bei-us-bieren-a-18d5a342-746b-43a5-966d-1aa67795b432#ref=rss)
-### bier
+* [https://www.spiegel.de/wissenschaft/cop28-vorbereitungen-industrienationen-wollen-globalen-sueden-nicht-verbindlich-mehr-geld-zusichern](https://www.spiegel.de/wissenschaft/cop28-vorbereitungen-industrienationen-wollen-globalen-sueden-nicht-verbindlich-mehr-geld-zusichern-a-1162a85b-f38c-4413-83b9-f5ab0d0a8224#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/monaco-resources-warum-ein-nachwendebetrueger-jetzt-wieder-investoren-aufschreckt](https://www.spiegel.de/wirtschaft/unternehmen/monaco-resources-warum-ein-nachwendebetrueger-jetzt-wieder-investoren-aufschreckt-a-d53d81ab-9f84-4cea-af35-cc5335682209#ref=rss)
+### gegenoffensive
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/bud-light-verliert-spitzenplatz-bei-us-bieren](https://www.spiegel.de/wirtschaft/unternehmen/bud-light-verliert-spitzenplatz-bei-us-bieren-a-18d5a342-746b-43a5-966d-1aa67795b432#ref=rss)
-### john
+* [https://www.spiegel.de/ausland/gegenoffensive-der-ukraine-armee-befreit-doerfer-von-russischer-armee](https://www.spiegel.de/ausland/gegenoffensive-der-ukraine-armee-befreit-doerfer-von-russischer-armee-a-29289def-ee87-4ca0-9f8e-9681fd97ec54#ref=rss)
+### ukraine
 
-* [https://www.spiegel.de/sport/fussball/john-hollins-ist-tot-nachruf-auf-englands-rekordmann](https://www.spiegel.de/sport/fussball/john-hollins-ist-tot-nachruf-auf-englands-rekordmann-a-f37add6b-900c-43dc-a51e-8bb111b4f811#ref=rss)
-### hollins
+* [https://www.spiegel.de/ausland/gegenoffensive-der-ukraine-armee-befreit-doerfer-von-russischer-armee](https://www.spiegel.de/ausland/gegenoffensive-der-ukraine-armee-befreit-doerfer-von-russischer-armee-a-29289def-ee87-4ca0-9f8e-9681fd97ec54#ref=rss)
+* [https://www.spiegel.de/wissenschaft/technik/munition-fuer-flakpanzer-gepard-neue-geschosse-fuer-das-raubtier](https://www.spiegel.de/wissenschaft/technik/munition-fuer-flakpanzer-gepard-neue-geschosse-fuer-das-raubtier-a-e0549b75-4afc-44c9-a6ad-409008e36568#ref=rss)
+### armee
 
-* [https://www.spiegel.de/sport/fussball/john-hollins-ist-tot-nachruf-auf-englands-rekordmann](https://www.spiegel.de/sport/fussball/john-hollins-ist-tot-nachruf-auf-englands-rekordmann-a-f37add6b-900c-43dc-a51e-8bb111b4f811#ref=rss)
-### öfter
+* [https://www.spiegel.de/ausland/gegenoffensive-der-ukraine-armee-befreit-doerfer-von-russischer-armee](https://www.spiegel.de/ausland/gegenoffensive-der-ukraine-armee-befreit-doerfer-von-russischer-armee-a-29289def-ee87-4ca0-9f8e-9681fd97ec54#ref=rss)
+### ukrainischen
 
-* [https://www.spiegel.de/sport/fussball/john-hollins-ist-tot-nachruf-auf-englands-rekordmann](https://www.spiegel.de/sport/fussball/john-hollins-ist-tot-nachruf-auf-englands-rekordmann-a-f37add6b-900c-43dc-a51e-8bb111b4f811#ref=rss)
-* [https://www.spiegel.de/ausland/bali-in-indonesien-aerger-mit-russischen-gaesten](https://www.spiegel.de/ausland/bali-in-indonesien-aerger-mit-russischen-gaesten-a-ba9868c7-2ee7-49e2-97b1-23cfd461ac88#ref=rss)
-### kosovo
+* [https://www.spiegel.de/ausland/gegenoffensive-der-ukraine-armee-befreit-doerfer-von-russischer-armee](https://www.spiegel.de/ausland/gegenoffensive-der-ukraine-armee-befreit-doerfer-von-russischer-armee-a-29289def-ee87-4ca0-9f8e-9681fd97ec54#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine-a-c384bba1-ccec-4288-9c64-f507c706267f#ref=rss)
+### munition
 
-* [https://www.spiegel.de/ausland/kosovo-schliesst-grenzen-fuer-serbische-waren-und-fahrzeuge](https://www.spiegel.de/ausland/kosovo-schliesst-grenzen-fuer-serbische-waren-und-fahrzeuge-a-ad9ed933-2056-4e58-a9a4-12c1f529a722#ref=rss)
-### grenzen
+* [https://www.spiegel.de/wissenschaft/technik/munition-fuer-flakpanzer-gepard-neue-geschosse-fuer-das-raubtier](https://www.spiegel.de/wissenschaft/technik/munition-fuer-flakpanzer-gepard-neue-geschosse-fuer-das-raubtier-a-e0549b75-4afc-44c9-a6ad-409008e36568#ref=rss)
+### flakpanzer
 
-* [https://www.spiegel.de/ausland/kosovo-schliesst-grenzen-fuer-serbische-waren-und-fahrzeuge](https://www.spiegel.de/ausland/kosovo-schliesst-grenzen-fuer-serbische-waren-und-fahrzeuge-a-ad9ed933-2056-4e58-a9a4-12c1f529a722#ref=rss)
-### zumindest
+* [https://www.spiegel.de/wissenschaft/technik/munition-fuer-flakpanzer-gepard-neue-geschosse-fuer-das-raubtier](https://www.spiegel.de/wissenschaft/technik/munition-fuer-flakpanzer-gepard-neue-geschosse-fuer-das-raubtier-a-e0549b75-4afc-44c9-a6ad-409008e36568#ref=rss)
+### gepard
 
-* [https://www.spiegel.de/start/iab-studie-zahl-der-auszubildenden-im-handwerk-steigt-aber-nur-in-ostdeutschland](https://www.spiegel.de/start/iab-studie-zahl-der-auszubildenden-im-handwerk-steigt-aber-nur-in-ostdeutschland-a-d7010432-83ee-4843-8a87-c81bdd9635a6#ref=rss)
-### ozean
+* [https://www.spiegel.de/wissenschaft/technik/munition-fuer-flakpanzer-gepard-neue-geschosse-fuer-das-raubtier](https://www.spiegel.de/wissenschaft/technik/munition-fuer-flakpanzer-gepard-neue-geschosse-fuer-das-raubtier-a-e0549b75-4afc-44c9-a6ad-409008e36568#ref=rss)
+### schleswigholstein
 
-* [https://www.spiegel.de/wissenschaft/weltall/wichtige-zutat-fuer-moegliches-leben-phosphate-im-ozean-von-saturnmond-enceladus-gefunden](https://www.spiegel.de/wissenschaft/weltall/wichtige-zutat-fuer-moegliches-leben-phosphate-im-ozean-von-saturnmond-enceladus-gefunden-a-1ff4e668-4cac-4b55-a7b0-f86edb96564a#ref=rss)
-### enceladus
+* [https://www.spiegel.de/politik/deutschland/schleswig-holstein-juso-landeschef-wettert-gegen-landtagspraesidentin-sitzung-unterbrochen](https://www.spiegel.de/politik/deutschland/schleswig-holstein-juso-landeschef-wettert-gegen-landtagspraesidentin-sitzung-unterbrochen-a-5add3f0e-6575-468d-a8eb-2a2372728bb0#ref=rss)
+### geschichte
 
-* [https://www.spiegel.de/wissenschaft/weltall/wichtige-zutat-fuer-moegliches-leben-phosphate-im-ozean-von-saturnmond-enceladus-gefunden](https://www.spiegel.de/wissenschaft/weltall/wichtige-zutat-fuer-moegliches-leben-phosphate-im-ozean-von-saturnmond-enceladus-gefunden-a-1ff4e668-4cac-4b55-a7b0-f86edb96564a#ref=rss)
-### boris
+* [https://www.spiegel.de/geschichte/geschichte-newsletter-knattermann-fahr-du-voran](https://www.spiegel.de/geschichte/geschichte-newsletter-knattermann-fahr-du-voran-a-8a0554c6-78e2-4042-aeb4-327f58af5ed6#ref=rss)
+### mobilität
 
-* [https://www.spiegel.de/ausland/grossbritannien-abgeordnetenkomitee-wirft-boris-johnson-bewusste-taeuschung-des-parlaments-vor](https://www.spiegel.de/ausland/grossbritannien-abgeordnetenkomitee-wirft-boris-johnson-bewusste-taeuschung-des-parlaments-vor-a-aad3b7b7-553d-4bea-ad37-0f1bdfe79adf#ref=rss)
-### johnson
+* [https://www.spiegel.de/geschichte/geschichte-newsletter-knattermann-fahr-du-voran](https://www.spiegel.de/geschichte/geschichte-newsletter-knattermann-fahr-du-voran-a-8a0554c6-78e2-4042-aeb4-327f58af5ed6#ref=rss)
+### moskau
 
-* [https://www.spiegel.de/ausland/grossbritannien-abgeordnetenkomitee-wirft-boris-johnson-bewusste-taeuschung-des-parlaments-vor](https://www.spiegel.de/ausland/grossbritannien-abgeordnetenkomitee-wirft-boris-johnson-bewusste-taeuschung-des-parlaments-vor-a-aad3b7b7-553d-4bea-ad37-0f1bdfe79adf#ref=rss)
-### deutschlandstiftung
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine-a-c384bba1-ccec-4288-9c64-f507c706267f#ref=rss)
+### kanada
 
-* [https://www.spiegel.de/start/journalismus-stipendium-der-deutschlandstiftung-integration-und-des-spiegel](https://www.spiegel.de/start/journalismus-stipendium-der-deutschlandstiftung-integration-und-des-spiegel-a-d5b29b00-046a-40b4-91ea-19654e661fcf#ref=rss)
-### integration
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine](https://www.spiegel.de/ausland/ukraine-russland-news-heute-norwegen-und-daenemark-spenden-9000-schuss-artillerie-an-die-ukraine-a-c384bba1-ccec-4288-9c64-f507c706267f#ref=rss)
+* [https://www.spiegel.de/panorama/justiz/crystal-meth-in-neuseeland-gefunden-35-millionen-einzeldosen-in-kanadischem-ahornsirup-versteckt](https://www.spiegel.de/panorama/justiz/crystal-meth-in-neuseeland-gefunden-35-millionen-einzeldosen-in-kanadischem-ahornsirup-versteckt-a-3da23b3c-dd37-48f3-8330-e4e5442bc81f#ref=rss)
+### länder
 
-* [https://www.spiegel.de/start/journalismus-stipendium-der-deutschlandstiftung-integration-und-des-spiegel](https://www.spiegel.de/start/journalismus-stipendium-der-deutschlandstiftung-integration-und-des-spiegel-a-d5b29b00-046a-40b4-91ea-19654e661fcf#ref=rss)
-### spiegel
+* [https://www.spiegel.de/politik/deutschland/ministerpraesidentenkonferenz-laender-verlangen-massnahmen-gegen-teuren-strom-fuer-industrie](https://www.spiegel.de/politik/deutschland/ministerpraesidentenkonferenz-laender-verlangen-massnahmen-gegen-teuren-strom-fuer-industrie-a-1eb0c419-8a61-4f7f-87d8-38d031a1a953#ref=rss)
+### industrie
 
-* [https://www.spiegel.de/start/journalismus-stipendium-der-deutschlandstiftung-integration-und-des-spiegel](https://www.spiegel.de/start/journalismus-stipendium-der-deutschlandstiftung-integration-und-des-spiegel-a-d5b29b00-046a-40b4-91ea-19654e661fcf#ref=rss)
-### gäste
+* [https://www.spiegel.de/politik/deutschland/ministerpraesidentenkonferenz-laender-verlangen-massnahmen-gegen-teuren-strom-fuer-industrie](https://www.spiegel.de/politik/deutschland/ministerpraesidentenkonferenz-laender-verlangen-massnahmen-gegen-teuren-strom-fuer-industrie-a-1eb0c419-8a61-4f7f-87d8-38d031a1a953#ref=rss)
+### rammstein
 
-* [https://www.spiegel.de/ausland/bali-in-indonesien-aerger-mit-russischen-gaesten](https://www.spiegel.de/ausland/bali-in-indonesien-aerger-mit-russischen-gaesten-a-ba9868c7-2ee7-49e2-97b1-23cfd461ac88#ref=rss)
+* [https://www.spiegel.de/kultur/musik/rammstein-plattenfirma-setzt-marketing-und-promotion-aktivitaeten-aus](https://www.spiegel.de/kultur/musik/rammstein-plattenfirma-setzt-marketing-und-promotion-aktivitaeten-aus-a-a6731634-940b-4a62-90da-058667bf1694#ref=rss)
+### tote
+
+* [https://www.spiegel.de/panorama/justiz/tuerkei-neun-tote-bei-schiesserei-nach-eskaliertem-streit-um-ackerland](https://www.spiegel.de/panorama/justiz/tuerkei-neun-tote-bei-schiesserei-nach-eskaliertem-streit-um-ackerland-a-0918fb27-2d75-4603-a8ee-0b7cc67f946c#ref=rss)
+### leiche
+
+* [https://www.spiegel.de/geschichte/reichstagsbrand-1933-leiche-von-brandstifter-marinus-van-der-lubbe-identifiziert-keine-drogenrueckstaende](https://www.spiegel.de/geschichte/reichstagsbrand-1933-leiche-von-brandstifter-marinus-van-der-lubbe-identifiziert-keine-drogenrueckstaende-a-1a2e17ca-0e4f-4722-b6ed-dcfa8eadb2d8#ref=rss)
+### marinus
+
+* [https://www.spiegel.de/geschichte/reichstagsbrand-1933-leiche-von-brandstifter-marinus-van-der-lubbe-identifiziert-keine-drogenrueckstaende](https://www.spiegel.de/geschichte/reichstagsbrand-1933-leiche-von-brandstifter-marinus-van-der-lubbe-identifiziert-keine-drogenrueckstaende-a-1a2e17ca-0e4f-4722-b6ed-dcfa8eadb2d8#ref=rss)
+### van
+
+* [https://www.spiegel.de/geschichte/reichstagsbrand-1933-leiche-von-brandstifter-marinus-van-der-lubbe-identifiziert-keine-drogenrueckstaende](https://www.spiegel.de/geschichte/reichstagsbrand-1933-leiche-von-brandstifter-marinus-van-der-lubbe-identifiziert-keine-drogenrueckstaende-a-1a2e17ca-0e4f-4722-b6ed-dcfa8eadb2d8#ref=rss)
+### lubbe
+
+* [https://www.spiegel.de/geschichte/reichstagsbrand-1933-leiche-von-brandstifter-marinus-van-der-lubbe-identifiziert-keine-drogenrueckstaende](https://www.spiegel.de/geschichte/reichstagsbrand-1933-leiche-von-brandstifter-marinus-van-der-lubbe-identifiziert-keine-drogenrueckstaende-a-1a2e17ca-0e4f-4722-b6ed-dcfa8eadb2d8#ref=rss)
+### monaco
+
+* [https://www.spiegel.de/wirtschaft/unternehmen/monaco-resources-warum-ein-nachwendebetrueger-jetzt-wieder-investoren-aufschreckt](https://www.spiegel.de/wirtschaft/unternehmen/monaco-resources-warum-ein-nachwendebetrueger-jetzt-wieder-investoren-aufschreckt-a-d53d81ab-9f84-4cea-af35-cc5335682209#ref=rss)
+### neuseeland
+
+* [https://www.spiegel.de/panorama/justiz/crystal-meth-in-neuseeland-gefunden-35-millionen-einzeldosen-in-kanadischem-ahornsirup-versteckt](https://www.spiegel.de/panorama/justiz/crystal-meth-in-neuseeland-gefunden-35-millionen-einzeldosen-in-kanadischem-ahornsirup-versteckt-a-3da23b3c-dd37-48f3-8330-e4e5442bc81f#ref=rss)
+### versteckt
+
+* [https://www.spiegel.de/panorama/justiz/crystal-meth-in-neuseeland-gefunden-35-millionen-einzeldosen-in-kanadischem-ahornsirup-versteckt](https://www.spiegel.de/panorama/justiz/crystal-meth-in-neuseeland-gefunden-35-millionen-einzeldosen-in-kanadischem-ahornsirup-versteckt-a-3da23b3c-dd37-48f3-8330-e4e5442bc81f#ref=rss)
 
