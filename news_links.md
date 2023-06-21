@@ -4,339 +4,260 @@ tags: __no_header__
 
 # [Zeitgeist News Links](index.html)
 
-### fragen
+### mehr
 
-* [https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen](https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen-a-05d522fc-e1d6-4f82-907e-8efa1e0d9aab#ref=rss)
-* [https://www.spiegel.de/psychologie/moderner-mann-wie-sieht-er-denn-aus-fragen-an-den-psychologen-markus-theunert](https://www.spiegel.de/psychologie/moderner-mann-wie-sieht-er-denn-aus-fragen-an-den-psychologen-markus-theunert-a-1c2b52e5-ccba-4676-aeda-d65e9e1fff71#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte](https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte-a-d68f269b-59fd-44b0-8f20-b37cd00d60e8#ref=rss)
-### titanic
+* [https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-schulden-uebersteigen-die-wirtschaftsleistung-des-landes-erstmals-seit-1961](https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-schulden-uebersteigen-die-wirtschaftsleistung-des-landes-erstmals-seit-1961-a-da91f15b-2bdb-4363-a9e1-1049f619ff82#ref=rss)
+* [https://www.spiegel.de/panorama/gesellschaft/nordsachsen-verbietet-wasserentnahme-aus-fluessen-und-seen](https://www.spiegel.de/panorama/gesellschaft/nordsachsen-verbietet-wasserentnahme-aus-fluessen-und-seen-a-a40308a8-4358-4b88-bd50-620c28f6e9ab#ref=rss)
+* [https://www.spiegel.de/wirtschaft/soziales/oekonomen-verlangen-hoehere-krankenkassenbeitraege-fuer-zahlreiche-familien](https://www.spiegel.de/wirtschaft/soziales/oekonomen-verlangen-hoehere-krankenkassenbeitraege-fuer-zahlreiche-familien-a-0b350e47-4202-45d9-8116-746a4b2d0a8f#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten](https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten-a-c9d1afa6-583b-4637-8ebe-9fd8a8cf524a#ref=rss)
+* [https://www.spiegel.de/start/guenstiges-rezept-pasta-e-ceci-italienischer-eintopf-mit-kichererbsen-fuer-1-60-euro](https://www.spiegel.de/start/guenstiges-rezept-pasta-e-ceci-italienischer-eintopf-mit-kichererbsen-fuer-1-60-euro-a-8708ab6d-bd79-4bc0-9070-b85b8c47936d#ref=rss)
+### deutsche
 
-* [https://www.spiegel.de/panorama/titanic-us-kuestenwache-informiert-ueber-suche-nach-tauchboot-livestream](https://www.spiegel.de/panorama/titanic-us-kuestenwache-informiert-ueber-suche-nach-tauchboot-livestream-a-61af55bb-5ed7-4773-b2df-e12d76a868bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-titan-rettungsmission-titanic-himalaja-gletscher-schmelzen-maskottchen-der-fussball-em-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-titan-rettungsmission-titanic-himalaja-gletscher-schmelzen-maskottchen-der-fussball-em-2024-a-eda09eed-ed6c-44e0-848f-8fc69fc85d70#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots](https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots-a-b62b7159-8d7d-4b3e-a627-9a263fd58321#ref=rss)
-* [https://www.spiegel.de/panorama/titanic-tauchboot-verschwunden-vierter-insasse-ist-franzoesischer-mr-titanic](https://www.spiegel.de/panorama/titanic-tauchboot-verschwunden-vierter-insasse-ist-franzoesischer-mr-titanic-a-e70a4293-ef79-482f-984a-b82d4ca420fe#ref=rss)
-### offenbar
+* [https://www.spiegel.de/kultur/literatur/t-c-boyle-deutsche-bahn-verhoehnt-us-bestsellerautor](https://www.spiegel.de/kultur/literatur/t-c-boyle-deutsche-bahn-verhoehnt-us-bestsellerautor-a-9ecc9b99-ec0c-454f-b19d-ddc443a4c7f3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ecchr-vw-bmw-und-mercedes-mit-beschwerde-wegen-zwangsarbeit-in-xinjiang-konfrontiert](https://www.spiegel.de/wirtschaft/unternehmen/ecchr-vw-bmw-und-mercedes-mit-beschwerde-wegen-zwangsarbeit-in-xinjiang-konfrontiert-a-fb7d4972-f12f-4470-9a7c-4bca1801fd54#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/damals-auf-der-bestsellerliste](https://www.spiegel.de/kultur/literatur/damals-auf-der-bestsellerliste-a-d82defc4-ea44-46a0-97e0-3876f52a0be6#ref=rss)
+### temperaturen
 
-* [https://www.spiegel.de/panorama/leute/margrethe-von-daenemark-hat-mit-dem-rauchen-aufgehoert](https://www.spiegel.de/panorama/leute/margrethe-von-daenemark-hat-mit-dem-rauchen-aufgehoert-a-f303ba16-216b-4874-8752-bd9678cca3ce#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/castrop-rauxel-massenschlaegerei-laut-staatsanwalt-durch-kinderstreit-ausgeloest](https://www.spiegel.de/panorama/justiz/castrop-rauxel-massenschlaegerei-laut-staatsanwalt-durch-kinderstreit-ausgeloest-a-2585f8f6-7c6a-4f4e-ac06-d8e90f57bf9c#ref=rss)
-* [https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking](https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking-a-f9e91625-96da-434b-9593-b88a090ab629#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots](https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots-a-b62b7159-8d7d-4b3e-a627-9a263fd58321#ref=rss)
-### titan
+* [https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod](https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod-a-65908d77-a1e7-40fa-83c6-04b3805cbc77#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten](https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten-a-c9d1afa6-583b-4637-8ebe-9fd8a8cf524a#ref=rss)
+### kind
 
-* [https://www.spiegel.de/panorama/titanic-us-kuestenwache-informiert-ueber-suche-nach-tauchboot-livestream](https://www.spiegel.de/panorama/titanic-us-kuestenwache-informiert-ueber-suche-nach-tauchboot-livestream-a-61af55bb-5ed7-4773-b2df-e12d76a868bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-titan-rettungsmission-titanic-himalaja-gletscher-schmelzen-maskottchen-der-fussball-em-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-titan-rettungsmission-titanic-himalaja-gletscher-schmelzen-maskottchen-der-fussball-em-2024-a-eda09eed-ed6c-44e0-848f-8fc69fc85d70#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots](https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots-a-b62b7159-8d7d-4b3e-a627-9a263fd58321#ref=rss)
-### laut
+* [https://www.spiegel.de/panorama/justiz/kentucky-siebenjaehriges-kind-erschiesst-versehentlich-fuenfjaehriges-kind](https://www.spiegel.de/panorama/justiz/kentucky-siebenjaehriges-kind-erschiesst-versehentlich-fuenfjaehriges-kind-a-859d8e86-77bf-4ccc-baaf-4e063ceeaed1#ref=rss)
+### hohe
 
-* [https://www.spiegel.de/panorama/justiz/castrop-rauxel-massenschlaegerei-laut-staatsanwalt-durch-kinderstreit-ausgeloest](https://www.spiegel.de/panorama/justiz/castrop-rauxel-massenschlaegerei-laut-staatsanwalt-durch-kinderstreit-ausgeloest-a-2585f8f6-7c6a-4f4e-ac06-d8e90f57bf9c#ref=rss)
-* [https://www.spiegel.de/netzwelt/apps/ukrainekrieg-russisches-gericht-verhaengt-geldstrafe-gegen-telegram](https://www.spiegel.de/netzwelt/apps/ukrainekrieg-russisches-gericht-verhaengt-geldstrafe-gegen-telegram-a-948423cd-5488-4e28-bc31-e8dd9d4c8de7#ref=rss)
-* [https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking](https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking-a-f9e91625-96da-434b-9593-b88a090ab629#ref=rss)
-* [https://www.spiegel.de/sport/belgiens-nationalmannschaft-torhueter-courtois-tief-enttaeuscht-von-domenico-tedesco](https://www.spiegel.de/sport/belgiens-nationalmannschaft-torhueter-courtois-tief-enttaeuscht-von-domenico-tedesco-a-d9954f0c-7114-4535-8b42-ae0827a96fc2#ref=rss)
-### menschen
+* [https://www.spiegel.de/start/nachfrage-nach-studienkrediten-bricht-ein](https://www.spiegel.de/start/nachfrage-nach-studienkrediten-bricht-ein-a-604771fe-2b43-46ad-b077-a96a4263f9d6#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten](https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten-a-c9d1afa6-583b-4637-8ebe-9fd8a8cf524a#ref=rss)
+### liegen
 
-* [https://www.spiegel.de/ausland/griechenland-frontex-video-zeigt-ueberfuelltes-fluechtlingsschiff-vor-dem-unglueck](https://www.spiegel.de/ausland/griechenland-frontex-video-zeigt-ueberfuelltes-fluechtlingsschiff-vor-dem-unglueck-a-e3663c63-fc40-42cd-a1c5-8ababf454e94#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/synthetische-embryonen-jetzt-kommen-die-kuenstlichen-menschen-embryonen](https://www.spiegel.de/wissenschaft/medizin/synthetische-embryonen-jetzt-kommen-die-kuenstlichen-menschen-embryonen-a-63af3809-7dad-4114-a88d-2f84e6c3a03d#ref=rss)
-### konnte
+* [https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-schulden-uebersteigen-die-wirtschaftsleistung-des-landes-erstmals-seit-1961](https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-schulden-uebersteigen-die-wirtschaftsleistung-des-landes-erstmals-seit-1961-a-da91f15b-2bdb-4363-a9e1-1049f619ff82#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten](https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten-a-d2549dc4-3ba0-4009-9140-9c1db291d92f#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-elf-verliert-auch-gegen-kolumbien-schwerste-allgemeine-verunsicherung](https://www.spiegel.de/sport/fussball/dfb-elf-verliert-auch-gegen-kolumbien-schwerste-allgemeine-verunsicherung-a-09035438-22a9-46bf-82ae-0070857f6500#ref=rss)
+### sommeranfang
 
-* [https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen](https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen-a-05d522fc-e1d6-4f82-907e-8efa1e0d9aab#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/massenschlaegereien-im-ruhrgebiet-diese-mobilisierungsqualitaet-gibt-es-nur-in-clan-strukturen-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/massenschlaegereien-im-ruhrgebiet-diese-mobilisierungsqualitaet-gibt-es-nur-in-clan-strukturen-spiegel-tv-a-35ae5f90-2d99-40d8-9476-954c1a11f81c#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/nord-stream-anschlag-expertengutachten-stuetzt-die-spur-zur-andromeda](https://www.spiegel.de/politik/deutschland/nord-stream-anschlag-expertengutachten-stuetzt-die-spur-zur-andromeda-a-761602f2-330e-4946-a145-65744ae1b156#ref=rss)
-### tauchboot
+* [https://www.spiegel.de/reise/quiz-zum-sommeranfang-mailand-oder-madrid-hauptsache-italien](https://www.spiegel.de/reise/quiz-zum-sommeranfang-mailand-oder-madrid-hauptsache-italien-a-4934c242-7a48-43d2-a50c-647ccbcc794d#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2023-alles-wichtige-zum-sommeranfang](https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2023-alles-wichtige-zum-sommeranfang-a-b64c15a2-f8c4-40fc-a163-31009518423a#ref=rss)
+### deutschen
 
-* [https://www.spiegel.de/panorama/titanic-us-kuestenwache-informiert-ueber-suche-nach-tauchboot-livestream](https://www.spiegel.de/panorama/titanic-us-kuestenwache-informiert-ueber-suche-nach-tauchboot-livestream-a-61af55bb-5ed7-4773-b2df-e12d76a868bd#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots](https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots-a-b62b7159-8d7d-4b3e-a627-9a263fd58321#ref=rss)
-### sollte
+* [https://www.spiegel.de/reise/quiz-zum-sommeranfang-mailand-oder-madrid-hauptsache-italien](https://www.spiegel.de/reise/quiz-zum-sommeranfang-mailand-oder-madrid-hauptsache-italien-a-4934c242-7a48-43d2-a50c-647ccbcc794d#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ecchr-vw-bmw-und-mercedes-mit-beschwerde-wegen-zwangsarbeit-in-xinjiang-konfrontiert](https://www.spiegel.de/wirtschaft/unternehmen/ecchr-vw-bmw-und-mercedes-mit-beschwerde-wegen-zwangsarbeit-in-xinjiang-konfrontiert-a-fb7d4972-f12f-4470-9a7c-4bca1801fd54#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/covestro-arabischer-oelkonzern-adnoc-erwaegt-uebernahme](https://www.spiegel.de/wirtschaft/unternehmen/covestro-arabischer-oelkonzern-adnoc-erwaegt-uebernahme-a-c5cdf91f-c2d4-454a-ad6a-52994cd44c9f#ref=rss)
+### europäische
 
-* [https://www.spiegel.de/panorama/titanic-us-kuestenwache-informiert-ueber-suche-nach-tauchboot-livestream](https://www.spiegel.de/panorama/titanic-us-kuestenwache-informiert-ueber-suche-nach-tauchboot-livestream-a-61af55bb-5ed7-4773-b2df-e12d76a868bd#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-titan-rettungsmission-titanic-himalaja-gletscher-schmelzen-maskottchen-der-fussball-em-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-titan-rettungsmission-titanic-himalaja-gletscher-schmelzen-maskottchen-der-fussball-em-2024-a-eda09eed-ed6c-44e0-848f-8fc69fc85d70#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots](https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots-a-b62b7159-8d7d-4b3e-a627-9a263fd58321#ref=rss)
-### russland
-
-* [https://www.spiegel.de/politik/deutschland/russland-alexander-graf-lambsdorff-darf-neuer-botschafter-in-moskau-werden](https://www.spiegel.de/politik/deutschland/russland-alexander-graf-lambsdorff-darf-neuer-botschafter-in-moskau-werden-a-7455f295-ed4e-45fd-921a-23482e704f7e#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft-a-9ff4b466-0f7c-4a1c-b5ec-baa46b384ce6#ref=rss)
-### moskau
-
-* [https://www.spiegel.de/politik/deutschland/russland-alexander-graf-lambsdorff-darf-neuer-botschafter-in-moskau-werden](https://www.spiegel.de/politik/deutschland/russland-alexander-graf-lambsdorff-darf-neuer-botschafter-in-moskau-werden-a-7455f295-ed4e-45fd-921a-23482e704f7e#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-gruppe-will-offenbar-gamer-rekrutieren](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-gruppe-will-offenbar-gamer-rekrutieren-a-7ba32a7e-4726-4e61-863d-b5b7d0c8b972#ref=rss)
-### unter
-
-* [https://www.spiegel.de/wirtschaft/ex-autoboss-ghosn-verklagt-nissan-auf-eine-milliarde-dollar](https://www.spiegel.de/wirtschaft/ex-autoboss-ghosn-verklagt-nissan-auf-eine-milliarde-dollar-a-e4944606-8148-4265-ad86-5a7a531aa30d#ref=rss)
-* [https://www.spiegel.de/kultur/auktion-eines-rubens-gemaeldes-lange-verschollenes-rubens-gemaelde-kommt-unter-den-hammer](https://www.spiegel.de/kultur/auktion-eines-rubens-gemaeldes-lange-verschollenes-rubens-gemaelde-kommt-unter-den-hammer-a-11031907-69e8-4333-b1f2-0ff4021d8657#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotengewerkschaft-haelt-neues-angebot-der-lufthansa-fuer-nicht-ausreichend](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotengewerkschaft-haelt-neues-angebot-der-lufthansa-fuer-nicht-ausreichend-a-3fc69540-ec8d-4d48-98fe-65563a4105b2#ref=rss)
-### li
-
-* [https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte](https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte-a-d68f269b-59fd-44b0-8f20-b37cd00d60e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft-a-9ff4b466-0f7c-4a1c-b5ec-baa46b384ce6#ref=rss)
-### welt
-
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-titan-rettungsmission-titanic-himalaja-gletscher-schmelzen-maskottchen-der-fussball-em-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-titan-rettungsmission-titanic-himalaja-gletscher-schmelzen-maskottchen-der-fussball-em-2024-a-eda09eed-ed6c-44e0-848f-8fc69fc85d70#ref=rss)
-### nmecha
-
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-und-borussia-dortmund-wie-ein-deutscher-nationalspieler-den-bvb-spaltet](https://www.spiegel.de/sport/fussball/felix-nmecha-und-borussia-dortmund-wie-ein-deutscher-nationalspieler-den-bvb-spaltet-a-51f58e94-3216-4342-bc5c-1c76451d8c92#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/ecchr-vw-bmw-und-mercedes-mit-beschwerde-wegen-zwangsarbeit-in-xinjiang-konfrontiert](https://www.spiegel.de/wirtschaft/unternehmen/ecchr-vw-bmw-und-mercedes-mit-beschwerde-wegen-zwangsarbeit-in-xinjiang-konfrontiert-a-fb7d4972-f12f-4470-9a7c-4bca1801fd54#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-vergrault-laut-einer-umfrage-europaeische-unternehmen](https://www.spiegel.de/wirtschaft/unternehmen/china-vergrault-laut-einer-umfrage-europaeische-unternehmen-a-feedf616-2e89-4812-ae84-ff514e34cea3#ref=rss)
 ### china
 
-* [https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking](https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking-a-f9e91625-96da-434b-9593-b88a090ab629#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft-a-9ff4b466-0f7c-4a1c-b5ec-baa46b384ce6#ref=rss)
-### courtois
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-vergrault-laut-einer-umfrage-europaeische-unternehmen](https://www.spiegel.de/wirtschaft/unternehmen/china-vergrault-laut-einer-umfrage-europaeische-unternehmen-a-feedf616-2e89-4812-ae84-ff514e34cea3#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/norwegen-will-meeresboden-fuer-tiefseebergbau-freigeben](https://www.spiegel.de/wirtschaft/unternehmen/norwegen-will-meeresboden-fuer-tiefseebergbau-freigeben-a-84719e6f-6769-476e-8715-12f56db9b219#ref=rss)
+### laut
 
-* [https://www.spiegel.de/sport/belgiens-nationalmannschaft-torhueter-courtois-tief-enttaeuscht-von-domenico-tedesco](https://www.spiegel.de/sport/belgiens-nationalmannschaft-torhueter-courtois-tief-enttaeuscht-von-domenico-tedesco-a-d9954f0c-7114-4535-8b42-ae0827a96fc2#ref=rss)
-### tedesco
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-vergrault-laut-einer-umfrage-europaeische-unternehmen](https://www.spiegel.de/wirtschaft/unternehmen/china-vergrault-laut-einer-umfrage-europaeische-unternehmen-a-feedf616-2e89-4812-ae84-ff514e34cea3#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen-a-b3aaca75-8a3d-4919-b04c-b14c259fb664#ref=rss)
+### sachsen
 
-* [https://www.spiegel.de/sport/belgiens-nationalmannschaft-torhueter-courtois-tief-enttaeuscht-von-domenico-tedesco](https://www.spiegel.de/sport/belgiens-nationalmannschaft-torhueter-courtois-tief-enttaeuscht-von-domenico-tedesco-a-d9954f0c-7114-4535-8b42-ae0827a96fc2#ref=rss)
-### griechenland
+* [https://www.spiegel.de/politik/deutschland/bundesverwaltungsgericht-corona-versammlungsverbote-in-sachsen-waren-unverhaeltnismaessig](https://www.spiegel.de/politik/deutschland/bundesverwaltungsgericht-corona-versammlungsverbote-in-sachsen-waren-unverhaeltnismaessig-a-47ab5bd2-0a5c-400b-9ce2-9c100534f12c#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten](https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten-a-c9d1afa6-583b-4637-8ebe-9fd8a8cf524a#ref=rss)
+### zurück
 
-* [https://www.spiegel.de/ausland/griechenland-frontex-video-zeigt-ueberfuelltes-fluechtlingsschiff-vor-dem-unglueck](https://www.spiegel.de/ausland/griechenland-frontex-video-zeigt-ueberfuelltes-fluechtlingsschiff-vor-dem-unglueck-a-e3663c63-fc40-42cd-a1c5-8ababf454e94#ref=rss)
-* [https://www.spiegel.de/ausland/von-lampedusa-bis-griechenland-hunderte-ertrinken-europa-ist-betruebt](https://www.spiegel.de/ausland/von-lampedusa-bis-griechenland-hunderte-ertrinken-europa-ist-betruebt-a-629fe448-36db-467c-9774-adbf64be060e#ref=rss)
-### unglück
+* [https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod](https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod-a-65908d77-a1e7-40fa-83c6-04b3805cbc77#ref=rss)
+* [https://www.spiegel.de/ausland/jaroslaw-kaczynski-pis-chef-kehrt-in-polnische-regierung-zurueck](https://www.spiegel.de/ausland/jaroslaw-kaczynski-pis-chef-kehrt-in-polnische-regierung-zurueck-a-a2df6290-7efc-43be-b9c7-e6298667d296#ref=rss)
+### regierung
 
-* [https://www.spiegel.de/ausland/griechenland-frontex-video-zeigt-ueberfuelltes-fluechtlingsschiff-vor-dem-unglueck](https://www.spiegel.de/ausland/griechenland-frontex-video-zeigt-ueberfuelltes-fluechtlingsschiff-vor-dem-unglueck-a-e3663c63-fc40-42cd-a1c5-8ababf454e94#ref=rss)
-### bord
+* [https://www.spiegel.de/ausland/jaroslaw-kaczynski-pis-chef-kehrt-in-polnische-regierung-zurueck](https://www.spiegel.de/ausland/jaroslaw-kaczynski-pis-chef-kehrt-in-polnische-regierung-zurueck-a-a2df6290-7efc-43be-b9c7-e6298667d296#ref=rss)
+* [https://www.spiegel.de/wirtschaft/unternehmen/norwegen-will-meeresboden-fuer-tiefseebergbau-freigeben](https://www.spiegel.de/wirtschaft/unternehmen/norwegen-will-meeresboden-fuer-tiefseebergbau-freigeben-a-84719e6f-6769-476e-8715-12f56db9b219#ref=rss)
+### afd
 
-* [https://www.spiegel.de/ausland/griechenland-frontex-video-zeigt-ueberfuelltes-fluechtlingsschiff-vor-dem-unglueck](https://www.spiegel.de/ausland/griechenland-frontex-video-zeigt-ueberfuelltes-fluechtlingsschiff-vor-dem-unglueck-a-e3663c63-fc40-42cd-a1c5-8ababf454e94#ref=rss)
-* [https://www.spiegel.de/panorama/titanic-tauchboot-verschwunden-vierter-insasse-ist-franzoesischer-mr-titanic](https://www.spiegel.de/panorama/titanic-tauchboot-verschwunden-vierter-insasse-ist-franzoesischer-mr-titanic-a-e70a4293-ef79-482f-984a-b82d4ca420fe#ref=rss)
-### 19jährigen
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen-a-b3aaca75-8a3d-4919-b04c-b14c259fb664#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten](https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten-a-d2549dc4-3ba0-4009-9140-9c1db291d92f#ref=rss)
+### bundestag
 
-* [https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen](https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen-a-05d522fc-e1d6-4f82-907e-8efa1e0d9aab#ref=rss)
-### polizei
+* [https://www.spiegel.de/politik/bundestag-das-sagt-robert-habeck-zum-geplanten-heizgesetz-livestream](https://www.spiegel.de/politik/bundestag-das-sagt-robert-habeck-zum-geplanten-heizgesetz-livestream-a-a25d9836-d3a6-466c-8bb5-40a63d40fcc8#ref=rss)
+### habeck
 
-* [https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen](https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen-a-05d522fc-e1d6-4f82-907e-8efa1e0d9aab#ref=rss)
-* [https://www.spiegel.de/panorama/gesellschaft/massenschlaegereien-im-ruhrgebiet-diese-mobilisierungsqualitaet-gibt-es-nur-in-clan-strukturen-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/massenschlaegereien-im-ruhrgebiet-diese-mobilisierungsqualitaet-gibt-es-nur-in-clan-strukturen-spiegel-tv-a-35ae5f90-2d99-40d8-9476-954c1a11f81c#ref=rss)
-### mann
+* [https://www.spiegel.de/politik/bundestag-das-sagt-robert-habeck-zum-geplanten-heizgesetz-livestream](https://www.spiegel.de/politik/bundestag-das-sagt-robert-habeck-zum-geplanten-heizgesetz-livestream-a-a25d9836-d3a6-466c-8bb5-40a63d40fcc8#ref=rss)
+### ums
 
-* [https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen](https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen-a-05d522fc-e1d6-4f82-907e-8efa1e0d9aab#ref=rss)
-* [https://www.spiegel.de/psychologie/moderner-mann-wie-sieht-er-denn-aus-fragen-an-den-psychologen-markus-theunert](https://www.spiegel.de/psychologie/moderner-mann-wie-sieht-er-denn-aus-fragen-an-den-psychologen-markus-theunert-a-1c2b52e5-ccba-4676-aeda-d65e9e1fff71#ref=rss)
-### schwer
+* [https://www.spiegel.de/politik/bundestag-das-sagt-robert-habeck-zum-geplanten-heizgesetz-livestream](https://www.spiegel.de/politik/bundestag-das-sagt-robert-habeck-zum-geplanten-heizgesetz-livestream-a-a25d9836-d3a6-466c-8bb5-40a63d40fcc8#ref=rss)
+* [https://www.spiegel.de/geschichte/waehrungsreform-1948-ruecke-bis-auf-los-vor-und-ziehe-dm-40-ein](https://www.spiegel.de/geschichte/waehrungsreform-1948-ruecke-bis-auf-los-vor-und-ziehe-dm-40-ein-a-921917a0-4a86-40a5-9104-90b625e931a6#ref=rss)
+### nachfrage
 
-* [https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen](https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen-a-05d522fc-e1d6-4f82-907e-8efa1e0d9aab#ref=rss)
-* [https://www.spiegel.de/sport/fussball/schande-von-lens-1998-daniel-nivel-besucht-auf-einladung-des-dfb-laenderspiel-gegen-frankreich](https://www.spiegel.de/sport/fussball/schande-von-lens-1998-daniel-nivel-besucht-auf-einladung-des-dfb-laenderspiel-gegen-frankreich-a-7ef6f500-ef1c-448f-aa41-9a72948d6f83#ref=rss)
-### einsatz
+* [https://www.spiegel.de/start/nachfrage-nach-studienkrediten-bricht-ein](https://www.spiegel.de/start/nachfrage-nach-studienkrediten-bricht-ein-a-604771fe-2b43-46ad-b077-a96a4263f9d6#ref=rss)
+### deutschland
 
-* [https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen](https://www.spiegel.de/panorama/justiz/polizeieinsatz-in-herford-viele-fragen-nach-schuessen-auf-19-jaehrigen-a-05d522fc-e1d6-4f82-907e-8efa1e0d9aab#ref=rss)
-* [https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots](https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots-a-b62b7159-8d7d-4b3e-a627-9a263fd58321#ref=rss)
-### margrethe
+* [https://www.spiegel.de/start/nachfrage-nach-studienkrediten-bricht-ein](https://www.spiegel.de/start/nachfrage-nach-studienkrediten-bricht-ein-a-604771fe-2b43-46ad-b077-a96a4263f9d6#ref=rss)
+* [https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2023-alles-wichtige-zum-sommeranfang](https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2023-alles-wichtige-zum-sommeranfang-a-b64c15a2-f8c4-40fc-a163-31009518423a#ref=rss)
+### menschen
 
-* [https://www.spiegel.de/panorama/leute/margrethe-von-daenemark-hat-mit-dem-rauchen-aufgehoert](https://www.spiegel.de/panorama/leute/margrethe-von-daenemark-hat-mit-dem-rauchen-aufgehoert-a-f303ba16-216b-4874-8752-bd9678cca3ce#ref=rss)
-### dänemark
+* [https://www.spiegel.de/start/nachfrage-nach-studienkrediten-bricht-ein](https://www.spiegel.de/start/nachfrage-nach-studienkrediten-bricht-ein-a-604771fe-2b43-46ad-b077-a96a4263f9d6#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten](https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten-a-c9d1afa6-583b-4637-8ebe-9fd8a8cf524a#ref=rss)
+### schulden
 
-* [https://www.spiegel.de/panorama/leute/margrethe-von-daenemark-hat-mit-dem-rauchen-aufgehoert](https://www.spiegel.de/panorama/leute/margrethe-von-daenemark-hat-mit-dem-rauchen-aufgehoert-a-f303ba16-216b-4874-8752-bd9678cca3ce#ref=rss)
-### usküstenwache
+* [https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-schulden-uebersteigen-die-wirtschaftsleistung-des-landes-erstmals-seit-1961](https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-schulden-uebersteigen-die-wirtschaftsleistung-des-landes-erstmals-seit-1961-a-da91f15b-2bdb-4363-a9e1-1049f619ff82#ref=rss)
+### wirtschaftsleistung
 
-* [https://www.spiegel.de/panorama/titanic-us-kuestenwache-informiert-ueber-suche-nach-tauchboot-livestream](https://www.spiegel.de/panorama/titanic-us-kuestenwache-informiert-ueber-suche-nach-tauchboot-livestream-a-61af55bb-5ed7-4773-b2df-e12d76a868bd#ref=rss)
-### bringen
+* [https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-schulden-uebersteigen-die-wirtschaftsleistung-des-landes-erstmals-seit-1961](https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-schulden-uebersteigen-die-wirtschaftsleistung-des-landes-erstmals-seit-1961-a-da91f15b-2bdb-4363-a9e1-1049f619ff82#ref=rss)
+### landes
 
-* [https://www.spiegel.de/panorama/titanic-us-kuestenwache-informiert-ueber-suche-nach-tauchboot-livestream](https://www.spiegel.de/panorama/titanic-us-kuestenwache-informiert-ueber-suche-nach-tauchboot-livestream-a-61af55bb-5ed7-4773-b2df-e12d76a868bd#ref=rss)
-* [https://www.spiegel.de/psychologie/moderner-mann-wie-sieht-er-denn-aus-fragen-an-den-psychologen-markus-theunert](https://www.spiegel.de/psychologie/moderner-mann-wie-sieht-er-denn-aus-fragen-an-den-psychologen-markus-theunert-a-1c2b52e5-ccba-4676-aeda-d65e9e1fff71#ref=rss)
-### lambsdorff
+* [https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-schulden-uebersteigen-die-wirtschaftsleistung-des-landes-erstmals-seit-1961](https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-schulden-uebersteigen-die-wirtschaftsleistung-des-landes-erstmals-seit-1961-a-da91f15b-2bdb-4363-a9e1-1049f619ff82#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten](https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten-a-c9d1afa6-583b-4637-8ebe-9fd8a8cf524a#ref=rss)
+### gut
 
-* [https://www.spiegel.de/politik/deutschland/russland-alexander-graf-lambsdorff-darf-neuer-botschafter-in-moskau-werden](https://www.spiegel.de/politik/deutschland/russland-alexander-graf-lambsdorff-darf-neuer-botschafter-in-moskau-werden-a-7455f295-ed4e-45fd-921a-23482e704f7e#ref=rss)
-### erlaubt
+* [https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-schulden-uebersteigen-die-wirtschaftsleistung-des-landes-erstmals-seit-1961](https://www.spiegel.de/wirtschaft/unternehmen/grossbritannien-schulden-uebersteigen-die-wirtschaftsleistung-des-landes-erstmals-seit-1961-a-da91f15b-2bdb-4363-a9e1-1049f619ff82#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen-a-b3aaca75-8a3d-4919-b04c-b14c259fb664#ref=rss)
+### pool
 
-* [https://www.spiegel.de/politik/deutschland/russland-alexander-graf-lambsdorff-darf-neuer-botschafter-in-moskau-werden](https://www.spiegel.de/politik/deutschland/russland-alexander-graf-lambsdorff-darf-neuer-botschafter-in-moskau-werden-a-7455f295-ed4e-45fd-921a-23482e704f7e#ref=rss)
-* [https://www.spiegel.de/karriere/krankschreibung-per-telefon-telefonische-krankschreibung-wird-dauerhaft-moeglich](https://www.spiegel.de/karriere/krankschreibung-per-telefon-telefonische-krankschreibung-wird-dauerhaft-moeglich-a-205bc4d8-c905-47d1-a1ee-e5d9ece56cce#ref=rss)
-### ghosn
+* [https://www.spiegel.de/reise/quiz-zum-sommeranfang-mailand-oder-madrid-hauptsache-italien](https://www.spiegel.de/reise/quiz-zum-sommeranfang-mailand-oder-madrid-hauptsache-italien-a-4934c242-7a48-43d2-a50c-647ccbcc794d#ref=rss)
+* [https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen](https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen-a-7cb5f2b0-a527-49ff-92b0-06acd3cdba46#ref=rss)
+### fernwärme
 
-* [https://www.spiegel.de/wirtschaft/ex-autoboss-ghosn-verklagt-nissan-auf-eine-milliarde-dollar](https://www.spiegel.de/wirtschaft/ex-autoboss-ghosn-verklagt-nissan-auf-eine-milliarde-dollar-a-e4944606-8148-4265-ad86-5a7a531aa30d#ref=rss)
-### nissan
+* [https://www.spiegel.de/wirtschaft/energiewende-wie-funktioniert-fernwaerme-eigentlich](https://www.spiegel.de/wirtschaft/energiewende-wie-funktioniert-fernwaerme-eigentlich-a-1633c9e3-7973-44b2-b72a-66a8dd8182a1#ref=rss)
+### klimaschutz
 
-* [https://www.spiegel.de/wirtschaft/ex-autoboss-ghosn-verklagt-nissan-auf-eine-milliarde-dollar](https://www.spiegel.de/wirtschaft/ex-autoboss-ghosn-verklagt-nissan-auf-eine-milliarde-dollar-a-e4944606-8148-4265-ad86-5a7a531aa30d#ref=rss)
-### ehemaligen
+* [https://www.spiegel.de/wirtschaft/klimaschutz-kabinett-segnet-geaendertes-gesetz-ab](https://www.spiegel.de/wirtschaft/klimaschutz-kabinett-segnet-geaendertes-gesetz-ab-a-e180c1a4-ee9d-40e1-9749-5170172e3988#ref=rss)
+### kabinett
 
-* [https://www.spiegel.de/wirtschaft/ex-autoboss-ghosn-verklagt-nissan-auf-eine-milliarde-dollar](https://www.spiegel.de/wirtschaft/ex-autoboss-ghosn-verklagt-nissan-auf-eine-milliarde-dollar-a-e4944606-8148-4265-ad86-5a7a531aa30d#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-dieselskandal-verteidigung-wirft-staatsanwaltschaft-vorgehen-mit-flammenwerfer-vorvor](https://www.spiegel.de/wirtschaft/unternehmen/audi-dieselskandal-verteidigung-wirft-staatsanwaltschaft-vorgehen-mit-flammenwerfer-vorvor-a-f7ac792a-9922-44f8-9365-f95ad991040b#ref=rss)
-### ruhrgebiet
+* [https://www.spiegel.de/wirtschaft/klimaschutz-kabinett-segnet-geaendertes-gesetz-ab](https://www.spiegel.de/wirtschaft/klimaschutz-kabinett-segnet-geaendertes-gesetz-ab-a-e180c1a4-ee9d-40e1-9749-5170172e3988#ref=rss)
+### erfolg
 
-* [https://www.spiegel.de/panorama/gesellschaft/massenschlaegereien-im-ruhrgebiet-diese-mobilisierungsqualitaet-gibt-es-nur-in-clan-strukturen-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/massenschlaegereien-im-ruhrgebiet-diese-mobilisierungsqualitaet-gibt-es-nur-in-clan-strukturen-spiegel-tv-a-35ae5f90-2d99-40d8-9476-954c1a11f81c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/castrop-rauxel-massenschlaegerei-laut-staatsanwalt-durch-kinderstreit-ausgeloest](https://www.spiegel.de/panorama/justiz/castrop-rauxel-massenschlaegerei-laut-staatsanwalt-durch-kinderstreit-ausgeloest-a-2585f8f6-7c6a-4f4e-ac06-d8e90f57bf9c#ref=rss)
-### castroprauxel
+* [https://www.spiegel.de/wirtschaft/klimaschutz-kabinett-segnet-geaendertes-gesetz-ab](https://www.spiegel.de/wirtschaft/klimaschutz-kabinett-segnet-geaendertes-gesetz-ab-a-e180c1a4-ee9d-40e1-9749-5170172e3988#ref=rss)
+* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-pentagon-verrechnet-sich-bei-militaerhilfe-6-2-milliarden-dollar-mehr-verfuegbar](https://www.spiegel.de/ausland/ukraine-russland-news-heute-pentagon-verrechnet-sich-bei-militaerhilfe-6-2-milliarden-dollar-mehr-verfuegbar-a-2a43a3d3-90f6-4be9-a3ea-e9989c8595fc#ref=rss)
+### bahn
 
-* [https://www.spiegel.de/panorama/gesellschaft/massenschlaegereien-im-ruhrgebiet-diese-mobilisierungsqualitaet-gibt-es-nur-in-clan-strukturen-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/massenschlaegereien-im-ruhrgebiet-diese-mobilisierungsqualitaet-gibt-es-nur-in-clan-strukturen-spiegel-tv-a-35ae5f90-2d99-40d8-9476-954c1a11f81c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/castrop-rauxel-massenschlaegerei-laut-staatsanwalt-durch-kinderstreit-ausgeloest](https://www.spiegel.de/panorama/justiz/castrop-rauxel-massenschlaegerei-laut-staatsanwalt-durch-kinderstreit-ausgeloest-a-2585f8f6-7c6a-4f4e-ac06-d8e90f57bf9c#ref=rss)
-### aufeinander
+* [https://www.spiegel.de/kultur/literatur/t-c-boyle-deutsche-bahn-verhoehnt-us-bestsellerautor](https://www.spiegel.de/kultur/literatur/t-c-boyle-deutsche-bahn-verhoehnt-us-bestsellerautor-a-9ecc9b99-ec0c-454f-b19d-ddc443a4c7f3#ref=rss)
+### stockton
 
-* [https://www.spiegel.de/panorama/gesellschaft/massenschlaegereien-im-ruhrgebiet-diese-mobilisierungsqualitaet-gibt-es-nur-in-clan-strukturen-spiegel-tv](https://www.spiegel.de/panorama/gesellschaft/massenschlaegereien-im-ruhrgebiet-diese-mobilisierungsqualitaet-gibt-es-nur-in-clan-strukturen-spiegel-tv-a-35ae5f90-2d99-40d8-9476-954c1a11f81c#ref=rss)
-* [https://www.spiegel.de/panorama/justiz/castrop-rauxel-massenschlaegerei-laut-staatsanwalt-durch-kinderstreit-ausgeloest](https://www.spiegel.de/panorama/justiz/castrop-rauxel-massenschlaegerei-laut-staatsanwalt-durch-kinderstreit-ausgeloest-a-2585f8f6-7c6a-4f4e-ac06-d8e90f57bf9c#ref=rss)
-### markus
+* [https://www.spiegel.de/wirtschaft/oceangate-gruender-stockton-rush-ich-wollte-jemand-sein-wie-captain-kirk](https://www.spiegel.de/wirtschaft/oceangate-gruender-stockton-rush-ich-wollte-jemand-sein-wie-captain-kirk-a-32d49ae5-c4e9-40a3-aede-19601b05c873#ref=rss)
+### rush
 
-* [https://www.spiegel.de/psychologie/moderner-mann-wie-sieht-er-denn-aus-fragen-an-den-psychologen-markus-theunert](https://www.spiegel.de/psychologie/moderner-mann-wie-sieht-er-denn-aus-fragen-an-den-psychologen-markus-theunert-a-1c2b52e5-ccba-4676-aeda-d65e9e1fff71#ref=rss)
-### theunert
+* [https://www.spiegel.de/wirtschaft/oceangate-gruender-stockton-rush-ich-wollte-jemand-sein-wie-captain-kirk](https://www.spiegel.de/wirtschaft/oceangate-gruender-stockton-rush-ich-wollte-jemand-sein-wie-captain-kirk-a-32d49ae5-c4e9-40a3-aede-19601b05c873#ref=rss)
+### große
 
-* [https://www.spiegel.de/psychologie/moderner-mann-wie-sieht-er-denn-aus-fragen-an-den-psychologen-markus-theunert](https://www.spiegel.de/psychologie/moderner-mann-wie-sieht-er-denn-aus-fragen-an-den-psychologen-markus-theunert-a-1c2b52e5-ccba-4676-aeda-d65e9e1fff71#ref=rss)
-### zeigen
+* [https://www.spiegel.de/wirtschaft/oceangate-gruender-stockton-rush-ich-wollte-jemand-sein-wie-captain-kirk](https://www.spiegel.de/wirtschaft/oceangate-gruender-stockton-rush-ich-wollte-jemand-sein-wie-captain-kirk-a-32d49ae5-c4e9-40a3-aede-19601b05c873#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-elf-verliert-auch-gegen-kolumbien-schwerste-allgemeine-verunsicherung](https://www.spiegel.de/sport/fussball/dfb-elf-verliert-auch-gegen-kolumbien-schwerste-allgemeine-verunsicherung-a-09035438-22a9-46bf-82ae-0070857f6500#ref=rss)
+### währungsreform
 
-* [https://www.spiegel.de/psychologie/moderner-mann-wie-sieht-er-denn-aus-fragen-an-den-psychologen-markus-theunert](https://www.spiegel.de/psychologie/moderner-mann-wie-sieht-er-denn-aus-fragen-an-den-psychologen-markus-theunert-a-1c2b52e5-ccba-4676-aeda-d65e9e1fff71#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft-a-9ff4b466-0f7c-4a1c-b5ec-baa46b384ce6#ref=rss)
-### europa
+* [https://www.spiegel.de/geschichte/waehrungsreform-1948-ruecke-bis-auf-los-vor-und-ziehe-dm-40-ein](https://www.spiegel.de/geschichte/waehrungsreform-1948-ruecke-bis-auf-los-vor-und-ziehe-dm-40-ein-a-921917a0-4a86-40a5-9104-90b625e931a6#ref=rss)
+### 1948
 
-* [https://www.spiegel.de/ausland/von-lampedusa-bis-griechenland-hunderte-ertrinken-europa-ist-betruebt](https://www.spiegel.de/ausland/von-lampedusa-bis-griechenland-hunderte-ertrinken-europa-ist-betruebt-a-629fe448-36db-467c-9774-adbf64be060e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-chipfabrik-in-magdeburg-deutschland-hat-sich-erpressbar-gemacht-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/intel-chipfabrik-in-magdeburg-deutschland-hat-sich-erpressbar-gemacht-kommentar-a-2bec0098-a122-4ca5-be6b-028e897a25aa#ref=rss)
-### rund
+* [https://www.spiegel.de/geschichte/waehrungsreform-1948-ruecke-bis-auf-los-vor-und-ziehe-dm-40-ein](https://www.spiegel.de/geschichte/waehrungsreform-1948-ruecke-bis-auf-los-vor-und-ziehe-dm-40-ein-a-921917a0-4a86-40a5-9104-90b625e931a6#ref=rss)
+### los
 
-* [https://www.spiegel.de/ausland/von-lampedusa-bis-griechenland-hunderte-ertrinken-europa-ist-betruebt](https://www.spiegel.de/ausland/von-lampedusa-bis-griechenland-hunderte-ertrinken-europa-ist-betruebt-a-629fe448-36db-467c-9774-adbf64be060e#ref=rss)
-* [https://www.spiegel.de/kultur/auktion-eines-rubens-gemaeldes-lange-verschollenes-rubens-gemaelde-kommt-unter-den-hammer](https://www.spiegel.de/kultur/auktion-eines-rubens-gemaeldes-lange-verschollenes-rubens-gemaelde-kommt-unter-den-hammer-a-11031907-69e8-4333-b1f2-0ff4021d8657#ref=rss)
-### fordern
+* [https://www.spiegel.de/geschichte/waehrungsreform-1948-ruecke-bis-auf-los-vor-und-ziehe-dm-40-ein](https://www.spiegel.de/geschichte/waehrungsreform-1948-ruecke-bis-auf-los-vor-und-ziehe-dm-40-ein-a-921917a0-4a86-40a5-9104-90b625e931a6#ref=rss)
+* [https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen](https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen-a-7cb5f2b0-a527-49ff-92b0-06acd3cdba46#ref=rss)
+### zwangsarbeit
 
-* [https://www.spiegel.de/ausland/von-lampedusa-bis-griechenland-hunderte-ertrinken-europa-ist-betruebt](https://www.spiegel.de/ausland/von-lampedusa-bis-griechenland-hunderte-ertrinken-europa-ist-betruebt-a-629fe448-36db-467c-9774-adbf64be060e#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-dieselskandal-verteidigung-wirft-staatsanwaltschaft-vorgehen-mit-flammenwerfer-vorvor](https://www.spiegel.de/wirtschaft/unternehmen/audi-dieselskandal-verteidigung-wirft-staatsanwaltschaft-vorgehen-mit-flammenwerfer-vorvor-a-f7ac792a-9922-44f8-9365-f95ad991040b#ref=rss)
-### maja
+* [https://www.spiegel.de/wirtschaft/unternehmen/ecchr-vw-bmw-und-mercedes-mit-beschwerde-wegen-zwangsarbeit-in-xinjiang-konfrontiert](https://www.spiegel.de/wirtschaft/unternehmen/ecchr-vw-bmw-und-mercedes-mit-beschwerde-wegen-zwangsarbeit-in-xinjiang-konfrontiert-a-fb7d4972-f12f-4470-9a7c-4bca1801fd54#ref=rss)
+### umfrage
 
-* [https://www.spiegel.de/kultur/literatur/maja-lunde-der-traum-von-einem-baum-und-das-soll-ich-lesen](https://www.spiegel.de/kultur/literatur/maja-lunde-der-traum-von-einem-baum-und-das-soll-ich-lesen-a-f8f00c37-7451-4dee-b788-4d1b415fc3f0#ref=rss)
-### traum
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-vergrault-laut-einer-umfrage-europaeische-unternehmen](https://www.spiegel.de/wirtschaft/unternehmen/china-vergrault-laut-einer-umfrage-europaeische-unternehmen-a-feedf616-2e89-4812-ae84-ff514e34cea3#ref=rss)
+### unternehmen
 
-* [https://www.spiegel.de/kultur/literatur/maja-lunde-der-traum-von-einem-baum-und-das-soll-ich-lesen](https://www.spiegel.de/kultur/literatur/maja-lunde-der-traum-von-einem-baum-und-das-soll-ich-lesen-a-f8f00c37-7451-4dee-b788-4d1b415fc3f0#ref=rss)
-### baum
+* [https://www.spiegel.de/wirtschaft/unternehmen/china-vergrault-laut-einer-umfrage-europaeische-unternehmen](https://www.spiegel.de/wirtschaft/unternehmen/china-vergrault-laut-einer-umfrage-europaeische-unternehmen-a-feedf616-2e89-4812-ae84-ff514e34cea3#ref=rss)
+### bundesverwaltungsgericht
 
-* [https://www.spiegel.de/kultur/literatur/maja-lunde-der-traum-von-einem-baum-und-das-soll-ich-lesen](https://www.spiegel.de/kultur/literatur/maja-lunde-der-traum-von-einem-baum-und-das-soll-ich-lesen-a-f8f00c37-7451-4dee-b788-4d1b415fc3f0#ref=rss)
-### ich
-
-* [https://www.spiegel.de/kultur/literatur/maja-lunde-der-traum-von-einem-baum-und-das-soll-ich-lesen](https://www.spiegel.de/kultur/literatur/maja-lunde-der-traum-von-einem-baum-und-das-soll-ich-lesen-a-f8f00c37-7451-4dee-b788-4d1b415fc3f0#ref=rss)
-### lesen
-
-* [https://www.spiegel.de/kultur/literatur/maja-lunde-der-traum-von-einem-baum-und-das-soll-ich-lesen](https://www.spiegel.de/kultur/literatur/maja-lunde-der-traum-von-einem-baum-und-das-soll-ich-lesen-a-f8f00c37-7451-4dee-b788-4d1b415fc3f0#ref=rss)
-### jahre
-
-* [https://www.spiegel.de/kultur/literatur/maja-lunde-der-traum-von-einem-baum-und-das-soll-ich-lesen](https://www.spiegel.de/kultur/literatur/maja-lunde-der-traum-von-einem-baum-und-das-soll-ich-lesen-a-f8f00c37-7451-4dee-b788-4d1b415fc3f0#ref=rss)
-* [https://www.spiegel.de/sport/fussball/schande-von-lens-1998-daniel-nivel-besucht-auf-einladung-des-dfb-laenderspiel-gegen-frankreich](https://www.spiegel.de/sport/fussball/schande-von-lens-1998-daniel-nivel-besucht-auf-einladung-des-dfb-laenderspiel-gegen-frankreich-a-7ef6f500-ef1c-448f-aa41-9a72948d6f83#ref=rss)
-### regierungskonsultationen
-
-* [https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte](https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte-a-d68f269b-59fd-44b0-8f20-b37cd00d60e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft-a-9ff4b466-0f7c-4a1c-b5ec-baa46b384ce6#ref=rss)
-### peking
-
-* [https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte](https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte-a-d68f269b-59fd-44b0-8f20-b37cd00d60e8#ref=rss)
-* [https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking](https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking-a-f9e91625-96da-434b-9593-b88a090ab629#ref=rss)
-### berlin
-
-* [https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte](https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte-a-d68f269b-59fd-44b0-8f20-b37cd00d60e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft-a-9ff4b466-0f7c-4a1c-b5ec-baa46b384ce6#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/bundesverwaltungsgericht-corona-versammlungsverbote-in-sachsen-waren-unverhaeltnismaessig](https://www.spiegel.de/politik/deutschland/bundesverwaltungsgericht-corona-versammlungsverbote-in-sachsen-waren-unverhaeltnismaessig-a-47ab5bd2-0a5c-400b-9ce2-9c100534f12c#ref=rss)
 ### waren
 
-* [https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte](https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte-a-d68f269b-59fd-44b0-8f20-b37cd00d60e8#ref=rss)
-* [https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking](https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking-a-f9e91625-96da-434b-9593-b88a090ab629#ref=rss)
-### premier
+* [https://www.spiegel.de/politik/deutschland/bundesverwaltungsgericht-corona-versammlungsverbote-in-sachsen-waren-unverhaeltnismaessig](https://www.spiegel.de/politik/deutschland/bundesverwaltungsgericht-corona-versammlungsverbote-in-sachsen-waren-unverhaeltnismaessig-a-47ab5bd2-0a5c-400b-9ce2-9c100534f12c#ref=rss)
+* [https://www.spiegel.de/kultur/literatur/damals-auf-der-bestsellerliste](https://www.spiegel.de/kultur/literatur/damals-auf-der-bestsellerliste-a-d82defc4-ea44-46a0-97e0-3876f52a0be6#ref=rss)
+### nordsachsen
 
-* [https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte](https://www.spiegel.de/politik/deutschland/deutsch-chinesische-regierungskonsultationen-als-peking-fragen-verbot-und-applaus-bestellte-a-d68f269b-59fd-44b0-8f20-b37cd00d60e8#ref=rss)
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft-a-9ff4b466-0f7c-4a1c-b5ec-baa46b384ce6#ref=rss)
-### kinderstreit
+* [https://www.spiegel.de/panorama/gesellschaft/nordsachsen-verbietet-wasserentnahme-aus-fluessen-und-seen](https://www.spiegel.de/panorama/gesellschaft/nordsachsen-verbietet-wasserentnahme-aus-fluessen-und-seen-a-a40308a8-4358-4b88-bd50-620c28f6e9ab#ref=rss)
+### slowenien
 
-* [https://www.spiegel.de/panorama/justiz/castrop-rauxel-massenschlaegerei-laut-staatsanwalt-durch-kinderstreit-ausgeloest](https://www.spiegel.de/panorama/justiz/castrop-rauxel-massenschlaegerei-laut-staatsanwalt-durch-kinderstreit-ausgeloest-a-2585f8f6-7c6a-4f4e-ac06-d8e90f57bf9c#ref=rss)
-### geldstrafe
+* [https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod](https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod-a-65908d77-a1e7-40fa-83c6-04b3805cbc77#ref=rss)
+### eltern
 
-* [https://www.spiegel.de/netzwelt/apps/ukrainekrieg-russisches-gericht-verhaengt-geldstrafe-gegen-telegram](https://www.spiegel.de/netzwelt/apps/ukrainekrieg-russisches-gericht-verhaengt-geldstrafe-gegen-telegram-a-948423cd-5488-4e28-bc31-e8dd9d4c8de7#ref=rss)
-### telegram
+* [https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod](https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod-a-65908d77-a1e7-40fa-83c6-04b3805cbc77#ref=rss)
+### kleinkind
 
-* [https://www.spiegel.de/netzwelt/apps/ukrainekrieg-russisches-gericht-verhaengt-geldstrafe-gegen-telegram](https://www.spiegel.de/netzwelt/apps/ukrainekrieg-russisches-gericht-verhaengt-geldstrafe-gegen-telegram-a-948423cd-5488-4e28-bc31-e8dd9d4c8de7#ref=rss)
-### news
+* [https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod](https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod-a-65908d77-a1e7-40fa-83c6-04b3805cbc77#ref=rss)
+### auto
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-titan-rettungsmission-titanic-himalaja-gletscher-schmelzen-maskottchen-der-fussball-em-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-titan-rettungsmission-titanic-himalaja-gletscher-schmelzen-maskottchen-der-fussball-em-2024-a-eda09eed-ed6c-44e0-848f-8fc69fc85d70#ref=rss)
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-gruppe-will-offenbar-gamer-rekrutieren](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-gruppe-will-offenbar-gamer-rekrutieren-a-7ba32a7e-4726-4e61-863d-b5b7d0c8b972#ref=rss)
-### verschwunden
+* [https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod](https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod-a-65908d77-a1e7-40fa-83c6-04b3805cbc77#ref=rss)
+### 30
 
-* [https://www.spiegel.de/politik/deutschland/news-des-tages-titan-rettungsmission-titanic-himalaja-gletscher-schmelzen-maskottchen-der-fussball-em-2024](https://www.spiegel.de/politik/deutschland/news-des-tages-titan-rettungsmission-titanic-himalaja-gletscher-schmelzen-maskottchen-der-fussball-em-2024-a-eda09eed-ed6c-44e0-848f-8fc69fc85d70#ref=rss)
-* [https://www.spiegel.de/panorama/titanic-tauchboot-verschwunden-vierter-insasse-ist-franzoesischer-mr-titanic](https://www.spiegel.de/panorama/titanic-tauchboot-verschwunden-vierter-insasse-ist-franzoesischer-mr-titanic-a-e70a4293-ef79-482f-984a-b82d4ca420fe#ref=rss)
-### helfen
+* [https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod](https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod-a-65908d77-a1e7-40fa-83c6-04b3805cbc77#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten](https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten-a-c9d1afa6-583b-4637-8ebe-9fd8a8cf524a#ref=rss)
+### grad
 
-* [https://www.spiegel.de/wissenschaft/ratten-koennen-sich-dank-eines-botenstoffs-gegenseitig-beruhigen](https://www.spiegel.de/wissenschaft/ratten-koennen-sich-dank-eines-botenstoffs-gegenseitig-beruhigen-a-d423285e-c903-41ba-81d1-dc5a0f9474f6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/synthetische-embryonen-jetzt-kommen-die-kuenstlichen-menschen-embryonen](https://www.spiegel.de/wissenschaft/medizin/synthetische-embryonen-jetzt-kommen-die-kuenstlichen-menschen-embryonen-a-63af3809-7dad-4114-a88d-2f84e6c3a03d#ref=rss)
-### zukunft
+* [https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod](https://www.spiegel.de/panorama/justiz/slowenien-eltern-lassen-kleinkind-in-auto-zurueck-hitzetod-a-65908d77-a1e7-40fa-83c6-04b3805cbc77#ref=rss)
+* [https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten](https://www.spiegel.de/panorama/wetter-weitere-gewitter-im-suedwesten-und-hohe-temperaturen-im-osten-a-c9d1afa6-583b-4637-8ebe-9fd8a8cf524a#ref=rss)
+### kaczyński
 
-* [https://www.spiegel.de/wissenschaft/ratten-koennen-sich-dank-eines-botenstoffs-gegenseitig-beruhigen](https://www.spiegel.de/wissenschaft/ratten-koennen-sich-dank-eines-botenstoffs-gegenseitig-beruhigen-a-d423285e-c903-41ba-81d1-dc5a0f9474f6#ref=rss)
-* [https://www.spiegel.de/wissenschaft/medizin/synthetische-embryonen-jetzt-kommen-die-kuenstlichen-menschen-embryonen](https://www.spiegel.de/wissenschaft/medizin/synthetische-embryonen-jetzt-kommen-die-kuenstlichen-menschen-embryonen-a-63af3809-7dad-4114-a88d-2f84e6c3a03d#ref=rss)
-### vorgehen
+* [https://www.spiegel.de/ausland/jaroslaw-kaczynski-pis-chef-kehrt-in-polnische-regierung-zurueck](https://www.spiegel.de/ausland/jaroslaw-kaczynski-pis-chef-kehrt-in-polnische-regierung-zurueck-a-a2df6290-7efc-43be-b9c7-e6298667d296#ref=rss)
+### kehrt
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/audi-dieselskandal-verteidigung-wirft-staatsanwaltschaft-vorgehen-mit-flammenwerfer-vorvor](https://www.spiegel.de/wirtschaft/unternehmen/audi-dieselskandal-verteidigung-wirft-staatsanwaltschaft-vorgehen-mit-flammenwerfer-vorvor-a-f7ac792a-9922-44f8-9365-f95ad991040b#ref=rss)
-### felix
+* [https://www.spiegel.de/ausland/jaroslaw-kaczynski-pis-chef-kehrt-in-polnische-regierung-zurueck](https://www.spiegel.de/ausland/jaroslaw-kaczynski-pis-chef-kehrt-in-polnische-regierung-zurueck-a-a2df6290-7efc-43be-b9c7-e6298667d296#ref=rss)
+### 1998
 
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-und-borussia-dortmund-wie-ein-deutscher-nationalspieler-den-bvb-spaltet](https://www.spiegel.de/sport/fussball/felix-nmecha-und-borussia-dortmund-wie-ein-deutscher-nationalspieler-den-bvb-spaltet-a-51f58e94-3216-4342-bc5c-1c76451d8c92#ref=rss)
-### borussia
+* [https://www.spiegel.de/kultur/literatur/damals-auf-der-bestsellerliste](https://www.spiegel.de/kultur/literatur/damals-auf-der-bestsellerliste-a-d82defc4-ea44-46a0-97e0-3876f52a0be6#ref=rss)
+### 2025
 
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-und-borussia-dortmund-wie-ein-deutscher-nationalspieler-den-bvb-spaltet](https://www.spiegel.de/sport/fussball/felix-nmecha-und-borussia-dortmund-wie-ein-deutscher-nationalspieler-den-bvb-spaltet-a-51f58e94-3216-4342-bc5c-1c76451d8c92#ref=rss)
-### dortmund
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen-a-b3aaca75-8a3d-4919-b04c-b14c259fb664#ref=rss)
+### kanzlerkandidaten
 
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-und-borussia-dortmund-wie-ein-deutscher-nationalspieler-den-bvb-spaltet](https://www.spiegel.de/sport/fussball/felix-nmecha-und-borussia-dortmund-wie-ein-deutscher-nationalspieler-den-bvb-spaltet-a-51f58e94-3216-4342-bc5c-1c76451d8c92#ref=rss)
-### bvb
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen-a-b3aaca75-8a3d-4919-b04c-b14c259fb664#ref=rss)
+### partei
 
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-und-borussia-dortmund-wie-ein-deutscher-nationalspieler-den-bvb-spaltet](https://www.spiegel.de/sport/fussball/felix-nmecha-und-borussia-dortmund-wie-ein-deutscher-nationalspieler-den-bvb-spaltet-a-51f58e94-3216-4342-bc5c-1c76451d8c92#ref=rss)
-### verhältnis
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen-a-b3aaca75-8a3d-4919-b04c-b14c259fb664#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten](https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten-a-d2549dc4-3ba0-4009-9140-9c1db291d92f#ref=rss)
+### eigenen
 
-* [https://www.spiegel.de/sport/fussball/felix-nmecha-und-borussia-dortmund-wie-ein-deutscher-nationalspieler-den-bvb-spaltet](https://www.spiegel.de/sport/fussball/felix-nmecha-und-borussia-dortmund-wie-ein-deutscher-nationalspieler-den-bvb-spaltet-a-51f58e94-3216-4342-bc5c-1c76451d8c92#ref=rss)
-* [https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking](https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking-a-f9e91625-96da-434b-9593-b88a090ab629#ref=rss)
-### kiew
+* [https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen](https://www.spiegel.de/politik/deutschland/bundestagswahl-2025-afd-will-kanzlerkandidaten-aufstellen-a-b3aaca75-8a3d-4919-b04c-b14c259fb664#ref=rss)
+### covestro
 
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-gruppe-will-offenbar-gamer-rekrutieren](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-gruppe-will-offenbar-gamer-rekrutieren-a-7ba32a7e-4726-4e61-863d-b5b7d0c8b972#ref=rss)
-### neue
+* [https://www.spiegel.de/wirtschaft/unternehmen/covestro-arabischer-oelkonzern-adnoc-erwaegt-uebernahme](https://www.spiegel.de/wirtschaft/unternehmen/covestro-arabischer-oelkonzern-adnoc-erwaegt-uebernahme-a-c5cdf91f-c2d4-454a-ad6a-52994cd44c9f#ref=rss)
+### ölkonzern
 
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-gruppe-will-offenbar-gamer-rekrutieren](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-gruppe-will-offenbar-gamer-rekrutieren-a-7ba32a7e-4726-4e61-863d-b5b7d0c8b972#ref=rss)
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotengewerkschaft-haelt-neues-angebot-der-lufthansa-fuer-nicht-ausreichend](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotengewerkschaft-haelt-neues-angebot-der-lufthansa-fuer-nicht-ausreichend-a-3fc69540-ec8d-4d48-98fe-65563a4105b2#ref=rss)
-### euro
+* [https://www.spiegel.de/wirtschaft/unternehmen/covestro-arabischer-oelkonzern-adnoc-erwaegt-uebernahme](https://www.spiegel.de/wirtschaft/unternehmen/covestro-arabischer-oelkonzern-adnoc-erwaegt-uebernahme-a-c5cdf91f-c2d4-454a-ad6a-52994cd44c9f#ref=rss)
+### adnoc
 
-* [https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-gruppe-will-offenbar-gamer-rekrutieren](https://www.spiegel.de/ausland/ukraine-russland-news-heute-wagner-gruppe-will-offenbar-gamer-rekrutieren-a-7ba32a7e-4726-4e61-863d-b5b7d0c8b972#ref=rss)
-* [https://www.spiegel.de/kultur/auktion-eines-rubens-gemaeldes-lange-verschollenes-rubens-gemaelde-kommt-unter-den-hammer](https://www.spiegel.de/kultur/auktion-eines-rubens-gemaeldes-lange-verschollenes-rubens-gemaelde-kommt-unter-den-hammer-a-11031907-69e8-4333-b1f2-0ff4021d8657#ref=rss)
-### blinken
+* [https://www.spiegel.de/wirtschaft/unternehmen/covestro-arabischer-oelkonzern-adnoc-erwaegt-uebernahme](https://www.spiegel.de/wirtschaft/unternehmen/covestro-arabischer-oelkonzern-adnoc-erwaegt-uebernahme-a-c5cdf91f-c2d4-454a-ad6a-52994cd44c9f#ref=rss)
+### übernahme
 
-* [https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking](https://www.spiegel.de/ausland/china-antony-blinken-fuer-stabilere-beziehungen-zu-peking-a-f9e91625-96da-434b-9593-b88a090ab629#ref=rss)
-### expertengutachten
+* [https://www.spiegel.de/wirtschaft/unternehmen/covestro-arabischer-oelkonzern-adnoc-erwaegt-uebernahme](https://www.spiegel.de/wirtschaft/unternehmen/covestro-arabischer-oelkonzern-adnoc-erwaegt-uebernahme-a-c5cdf91f-c2d4-454a-ad6a-52994cd44c9f#ref=rss)
+### adele
 
-* [https://www.spiegel.de/politik/deutschland/nord-stream-anschlag-expertengutachten-stuetzt-die-spur-zur-andromeda](https://www.spiegel.de/politik/deutschland/nord-stream-anschlag-expertengutachten-stuetzt-die-spur-zur-andromeda-a-761602f2-330e-4946-a145-65744ae1b156#ref=rss)
-### stützt
+* [https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen](https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen-a-7cb5f2b0-a527-49ff-92b0-06acd3cdba46#ref=rss)
+### sylvester
 
-* [https://www.spiegel.de/politik/deutschland/nord-stream-anschlag-expertengutachten-stuetzt-die-spur-zur-andromeda](https://www.spiegel.de/politik/deutschland/nord-stream-anschlag-expertengutachten-stuetzt-die-spur-zur-andromeda-a-761602f2-330e-4946-a145-65744ae1b156#ref=rss)
-### embryonen
+* [https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen](https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen-a-7cb5f2b0-a527-49ff-92b0-06acd3cdba46#ref=rss)
+### villa
 
-* [https://www.spiegel.de/wissenschaft/medizin/synthetische-embryonen-jetzt-kommen-die-kuenstlichen-menschen-embryonen](https://www.spiegel.de/wissenschaft/medizin/synthetische-embryonen-jetzt-kommen-die-kuenstlichen-menschen-embryonen-a-63af3809-7dad-4114-a88d-2f84e6c3a03d#ref=rss)
-### qiang
+* [https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen](https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen-a-7cb5f2b0-a527-49ff-92b0-06acd3cdba46#ref=rss)
+### rockystatue
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft-a-9ff4b466-0f7c-4a1c-b5ec-baa46b384ce6#ref=rss)
-### olaf
+* [https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen](https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen-a-7cb5f2b0-a527-49ff-92b0-06acd3cdba46#ref=rss)
+### hätte
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft-a-9ff4b466-0f7c-4a1c-b5ec-baa46b384ce6#ref=rss)
-### scholz
+* [https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen](https://www.spiegel.de/panorama/leute/adele-wollte-sylvester-stallones-villa-nur-mit-rocky-statue-kaufen-a-7cb5f2b0-a527-49ff-92b0-06acd3cdba46#ref=rss)
+* [https://www.spiegel.de/sport/fussball/dfb-elf-verliert-auch-gegen-kolumbien-schwerste-allgemeine-verunsicherung](https://www.spiegel.de/sport/fussball/dfb-elf-verliert-auch-gegen-kolumbien-schwerste-allgemeine-verunsicherung-a-09035438-22a9-46bf-82ae-0070857f6500#ref=rss)
+### sommersonnenwende
 
-* [https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft](https://www.spiegel.de/politik/deutschland/olaf-scholz-und-li-qiang-betonen-kooperationsbereitschaft-a-9ff4b466-0f7c-4a1c-b5ec-baa46b384ce6#ref=rss)
-### gemacht
+* [https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2023-alles-wichtige-zum-sommeranfang](https://www.spiegel.de/wissenschaft/natur/sommersonnenwende-2023-alles-wichtige-zum-sommeranfang-a-b64c15a2-f8c4-40fc-a163-31009518423a#ref=rss)
+### familien
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/intel-chipfabrik-in-magdeburg-deutschland-hat-sich-erpressbar-gemacht-kommentar](https://www.spiegel.de/wirtschaft/unternehmen/intel-chipfabrik-in-magdeburg-deutschland-hat-sich-erpressbar-gemacht-kommentar-a-2bec0098-a122-4ca5-be6b-028e897a25aa#ref=rss)
-* [https://www.spiegel.de/sport/belgiens-nationalmannschaft-torhueter-courtois-tief-enttaeuscht-von-domenico-tedesco](https://www.spiegel.de/sport/belgiens-nationalmannschaft-torhueter-courtois-tief-enttaeuscht-von-domenico-tedesco-a-d9954f0c-7114-4535-8b42-ae0827a96fc2#ref=rss)
-### tauchboots
+* [https://www.spiegel.de/wirtschaft/soziales/oekonomen-verlangen-hoehere-krankenkassenbeitraege-fuer-zahlreiche-familien](https://www.spiegel.de/wirtschaft/soziales/oekonomen-verlangen-hoehere-krankenkassenbeitraege-fuer-zahlreiche-familien-a-0b350e47-4202-45d9-8116-746a4b2d0a8f#ref=rss)
+### kentucky
 
-* [https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots](https://www.spiegel.de/wissenschaft/technik/titan-die-technik-des-bei-der-titanic-verschollenen-tauchboots-a-b62b7159-8d7d-4b3e-a627-9a263fd58321#ref=rss)
-* [https://www.spiegel.de/panorama/titanic-tauchboot-verschwunden-vierter-insasse-ist-franzoesischer-mr-titanic](https://www.spiegel.de/panorama/titanic-tauchboot-verschwunden-vierter-insasse-ist-franzoesischer-mr-titanic-a-e70a4293-ef79-482f-984a-b82d4ca420fe#ref=rss)
-### lufthansa
+* [https://www.spiegel.de/panorama/justiz/kentucky-siebenjaehriges-kind-erschiesst-versehentlich-fuenfjaehriges-kind](https://www.spiegel.de/panorama/justiz/kentucky-siebenjaehriges-kind-erschiesst-versehentlich-fuenfjaehriges-kind-a-859d8e86-77bf-4ccc-baaf-4e063ceeaed1#ref=rss)
+### dorothee
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotengewerkschaft-haelt-neues-angebot-der-lufthansa-fuer-nicht-ausreichend](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotengewerkschaft-haelt-neues-angebot-der-lufthansa-fuer-nicht-ausreichend-a-3fc69540-ec8d-4d48-98fe-65563a4105b2#ref=rss)
-### cockpit
+* [https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten](https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten-a-d2549dc4-3ba0-4009-9140-9c1db291d92f#ref=rss)
+### bär
 
-* [https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotengewerkschaft-haelt-neues-angebot-der-lufthansa-fuer-nicht-ausreichend](https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-pilotengewerkschaft-haelt-neues-angebot-der-lufthansa-fuer-nicht-ausreichend-a-3fc69540-ec8d-4d48-98fe-65563a4105b2#ref=rss)
-### belgiens
+* [https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten](https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten-a-d2549dc4-3ba0-4009-9140-9c1db291d92f#ref=rss)
+### agnieszka
 
-* [https://www.spiegel.de/sport/belgiens-nationalmannschaft-torhueter-courtois-tief-enttaeuscht-von-domenico-tedesco](https://www.spiegel.de/sport/belgiens-nationalmannschaft-torhueter-courtois-tief-enttaeuscht-von-domenico-tedesco-a-d9954f0c-7114-4535-8b42-ae0827a96fc2#ref=rss)
-### domenico
+* [https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten](https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten-a-d2549dc4-3ba0-4009-9140-9c1db291d92f#ref=rss)
+### brugger
 
-* [https://www.spiegel.de/sport/belgiens-nationalmannschaft-torhueter-courtois-tief-enttaeuscht-von-domenico-tedesco](https://www.spiegel.de/sport/belgiens-nationalmannschaft-torhueter-courtois-tief-enttaeuscht-von-domenico-tedesco-a-d9954f0c-7114-4535-8b42-ae0827a96fc2#ref=rss)
-### krankschreibung
+* [https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten](https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten-a-d2549dc4-3ba0-4009-9140-9c1db291d92f#ref=rss)
+### rechtspopulisten
 
-* [https://www.spiegel.de/karriere/krankschreibung-per-telefon-telefonische-krankschreibung-wird-dauerhaft-moeglich](https://www.spiegel.de/karriere/krankschreibung-per-telefon-telefonische-krankschreibung-wird-dauerhaft-moeglich-a-205bc4d8-c905-47d1-a1ee-e5d9ece56cce#ref=rss)
-### telefonische
+* [https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten](https://www.spiegel.de/politik/deutschland/afd-dorothee-baer-und-agnieszka-brugger-ueber-umfragehoch-der-rechtspopulisten-a-d2549dc4-3ba0-4009-9140-9c1db291d92f#ref=rss)
+### selbstbestimmungsgesetz
 
-* [https://www.spiegel.de/karriere/krankschreibung-per-telefon-telefonische-krankschreibung-wird-dauerhaft-moeglich](https://www.spiegel.de/karriere/krankschreibung-per-telefon-telefonische-krankschreibung-wird-dauerhaft-moeglich-a-205bc4d8-c905-47d1-a1ee-e5d9ece56cce#ref=rss)
-### dauerhaft
-
-* [https://www.spiegel.de/karriere/krankschreibung-per-telefon-telefonische-krankschreibung-wird-dauerhaft-moeglich](https://www.spiegel.de/karriere/krankschreibung-per-telefon-telefonische-krankschreibung-wird-dauerhaft-moeglich-a-205bc4d8-c905-47d1-a1ee-e5d9ece56cce#ref=rss)
-### paulhenri
-
-* [https://www.spiegel.de/panorama/titanic-tauchboot-verschwunden-vierter-insasse-ist-franzoesischer-mr-titanic](https://www.spiegel.de/panorama/titanic-tauchboot-verschwunden-vierter-insasse-ist-franzoesischer-mr-titanic-a-e70a4293-ef79-482f-984a-b82d4ca420fe#ref=rss)
-### nargeolet
-
-* [https://www.spiegel.de/panorama/titanic-tauchboot-verschwunden-vierter-insasse-ist-franzoesischer-mr-titanic](https://www.spiegel.de/panorama/titanic-tauchboot-verschwunden-vierter-insasse-ist-franzoesischer-mr-titanic-a-e70a4293-ef79-482f-984a-b82d4ca420fe#ref=rss)
-### daniel
-
-* [https://www.spiegel.de/sport/fussball/schande-von-lens-1998-daniel-nivel-besucht-auf-einladung-des-dfb-laenderspiel-gegen-frankreich](https://www.spiegel.de/sport/fussball/schande-von-lens-1998-daniel-nivel-besucht-auf-einladung-des-dfb-laenderspiel-gegen-frankreich-a-7ef6f500-ef1c-448f-aa41-9a72948d6f83#ref=rss)
-### nivel
-
-* [https://www.spiegel.de/sport/fussball/schande-von-lens-1998-daniel-nivel-besucht-auf-einladung-des-dfb-laenderspiel-gegen-frankreich](https://www.spiegel.de/sport/fussball/schande-von-lens-1998-daniel-nivel-besucht-auf-einladung-des-dfb-laenderspiel-gegen-frankreich-a-7ef6f500-ef1c-448f-aa41-9a72948d6f83#ref=rss)
-### besucht
-
-* [https://www.spiegel.de/sport/fussball/schande-von-lens-1998-daniel-nivel-besucht-auf-einladung-des-dfb-laenderspiel-gegen-frankreich](https://www.spiegel.de/sport/fussball/schande-von-lens-1998-daniel-nivel-besucht-auf-einladung-des-dfb-laenderspiel-gegen-frankreich-a-7ef6f500-ef1c-448f-aa41-9a72948d6f83#ref=rss)
-### länderspiel
-
-* [https://www.spiegel.de/sport/fussball/schande-von-lens-1998-daniel-nivel-besucht-auf-einladung-des-dfb-laenderspiel-gegen-frankreich](https://www.spiegel.de/sport/fussball/schande-von-lens-1998-daniel-nivel-besucht-auf-einladung-des-dfb-laenderspiel-gegen-frankreich-a-7ef6f500-ef1c-448f-aa41-9a72948d6f83#ref=rss)
+* [https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-revolution-fuer-die-minderheit-meinung](https://www.spiegel.de/politik/deutschland/selbstbestimmungsgesetz-revolution-fuer-die-minderheit-meinung-a-c2a22728-379a-4cbd-905f-0243c7e60015#ref=rss)
 
